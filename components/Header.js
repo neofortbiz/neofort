@@ -4,14 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useTranslations, useLocale } from 'next-intl';
 
-const locales = [
-  { code: 'ro', label: 'RO' },
-  { code: 'en', label: 'EN' },
-  { code: 'de', label: 'DE' },
-  { code: 'fr', label: 'FR' },
-  { code: 'es', label: 'ES' },
-  { code: 'it', label: 'IT' },
-];
+const LOCALES = ['RO','EN','DE','FR','ES','IT'];
 
 export default function Header() {
   const t = useTranslations('nav');
@@ -19,75 +12,89 @@ export default function Header() {
   const pathname = usePathname();
   const [menuOpen, setMenuOpen] = useState(false);
 
-  const getLocalePath = (newLocale) => {
-    const segments = pathname.split('/');
-    segments[1] = newLocale;
-    return segments.join('/');
+  const switchLocale = (l) => {
+    const segs = pathname.split('/');
+    segs[1] = l.toLowerCase();
+    return segs.join('/');
   };
 
   return (
-    <header className="bg-primary text-white sticky top-0 z-50 shadow-lg">
-      <div className="bg-dark text-xs py-1 px-4 flex justify-between items-center">
-        <div className="flex gap-4">
-          <a href="tel:+40215280661" className="hover:text-accent transition-colors">📞 +40 21 528 0661</a>
-          <a href="tel:+40752443435" className="hover:text-accent transition-colors hidden md:block">📱 +40 752 443 435</a>
-          <a href="tel:+40752443439" className="hover:text-accent transition-colors hidden lg:block">🌍 Export: +40 752 443 439</a>
-        </div>
-        <div className="flex gap-1">
-          {locales.map((l) => (
-            <a key={l.code} href={getLocalePath(l.code)}
-              className={`px-2 py-0.5 rounded text-xs font-bold transition-colors ${locale === l.code ? 'bg-accent text-white' : 'hover:text-accent'}`}>
-              {l.label}
-            </a>
-          ))}
+    <header className="bg-white border-b border-border sticky top-0 z-50">
+      {/* Top bar */}
+      <div className="border-b border-border">
+        <div className="container mx-auto px-6 py-2 flex justify-between items-center">
+          <div className="flex gap-6 text-xs text-muted tracking-wide">
+            <a href="tel:+40215280661" className="hover:text-primary transition-colors duration-300">+40 21 528 0661</a>
+            <a href="tel:+40752443435" className="hover:text-primary transition-colors duration-300 hidden md:block">+40 752 443 435</a>
+            <a href="tel:+40752443439" className="hover:text-primary transition-colors duration-300 hidden lg:block">Export: +40 752 443 439</a>
+          </div>
+          <div className="flex gap-4 text-xs tracking-widest">
+            {LOCALES.map(l => (
+              <a key={l} href={switchLocale(l)}
+                className={`transition-colors duration-300 ${locale.toUpperCase() === l ? 'text-primary' : 'text-muted hover:text-primary'}`}>
+                {l}
+              </a>
+            ))}
+          </div>
         </div>
       </div>
 
-      <nav className="container mx-auto px-4 py-3 flex justify-between items-center">
-        <Link href={`/${locale}`} className="flex items-center gap-3">
-          <div className="bg-white rounded p-1.5">
-            <div className="text-primary font-black text-xs leading-tight">
-              <div>NEO</div><div className="text-accent">FORT</div>
-            </div>
-          </div>
-          <div className="hidden sm:block">
-            <div className="font-bold text-sm">TERMOPANE NEOFORT</div>
-            <div className="text-accent text-xs">Tâmplărie PVC • Aluminiu • Pereti Cortina</div>
-          </div>
+      {/* Main nav */}
+      <nav className="container mx-auto px-6 py-4 flex justify-between items-center">
+        <Link href={`/${locale}`} className="flex flex-col leading-none">
+          <span className="font-display text-2xl font-light tracking-wide text-primary">NEOFORT</span>
+          <span className="text-xs tracking-widest text-muted uppercase font-light">Tâmplărie PVC · Aluminiu</span>
         </Link>
 
-        <div className="hidden lg:flex items-center gap-1 text-sm">
-          <Link href={`/${locale}`} className="px-3 py-2 hover:text-accent transition-colors">{t('home')}</Link>
-          <Link href={`/${locale}/tamplarie-aluminiu`} className="px-3 py-2 hover:text-accent font-semibold transition-colors">{t('aluminiu')}</Link>
-          <Link href={`/${locale}/tamplarie-pvc`} className="px-3 py-2 hover:text-accent font-semibold transition-colors">{t('pvc')}</Link>
-          <Link href={`/${locale}/accesorii`} className="px-3 py-2 hover:text-accent transition-colors">{t('accesorii')}</Link>
-          <Link href={`/${locale}/servicii`} className="px-3 py-2 hover:text-accent transition-colors">{t('servicii')}</Link>
-          <Link href={`/${locale}/despre`} className="px-3 py-2 hover:text-accent transition-colors">{t('despre')}</Link>
-          <Link href={`/${locale}/contact`} className="px-3 py-2 hover:text-accent transition-colors">{t('contact')}</Link>
-          <Link href={`/${locale}/blog`} className="px-3 py-2 hover:text-accent transition-colors">{t('blog')}</Link>
-          <Link href={`/${locale}/contact`} className="ml-2 bg-accent px-4 py-2 rounded font-bold hover:bg-yellow-500 transition-colors">{t('oferta')}</Link>
+        {/* Desktop */}
+        <div className="hidden lg:flex items-center gap-8 text-xs tracking-widest uppercase">
+          {/* PVC — verde */}
+          <Link href={`/${locale}/tamplarie-pvc`}
+            className="text-muted hover:text-pvc transition-colors duration-300">
+            {t('pvc')}
+          </Link>
+          {/* Aluminiu — albastru */}
+          <Link href={`/${locale}/tamplarie-aluminiu`}
+            className="text-muted hover:text-aluminiu transition-colors duration-300">
+            {t('aluminiu')}
+          </Link>
+          {/* Accesorii — portocaliu */}
+          <Link href={`/${locale}/accesorii`}
+            className="text-muted hover:text-accesorii transition-colors duration-300">
+            {t('accesorii')}
+          </Link>
+          <Link href={`/${locale}/servicii`} className="text-muted hover:text-primary transition-colors duration-300">{t('servicii')}</Link>
+          <Link href={`/${locale}/despre`} className="text-muted hover:text-primary transition-colors duration-300">{t('despre')}</Link>
+          <Link href={`/${locale}/contact`} className="text-muted hover:text-primary transition-colors duration-300">{t('contact')}</Link>
+          <Link href={`/${locale}/blog`} className="text-muted hover:text-primary transition-colors duration-300">{t('blog')}</Link>
+          <Link href={`/${locale}/contact`}
+            className="ml-2 border border-primary text-primary px-5 py-2 hover:bg-primary hover:text-white transition-all duration-300">
+            {t('oferta')}
+          </Link>
         </div>
 
-        <button className="lg:hidden p-2" onClick={() => setMenuOpen(!menuOpen)} aria-label="Menu">
-          <div className="space-y-1">
-            <span className={`block w-6 h-0.5 bg-white transition-all ${menuOpen ? 'rotate-45 translate-y-1.5' : ''}`}></span>
-            <span className={`block w-6 h-0.5 bg-white ${menuOpen ? 'opacity-0' : ''}`}></span>
-            <span className={`block w-6 h-0.5 bg-white transition-all ${menuOpen ? '-rotate-45 -translate-y-1.5' : ''}`}></span>
-          </div>
+        {/* Mobile hamburger */}
+        <button className="lg:hidden flex flex-col gap-1.5 p-1" onClick={() => setMenuOpen(!menuOpen)} aria-label="Menu">
+          <span className={`block w-6 h-px bg-primary transition-all duration-300 ${menuOpen ? 'rotate-45 translate-y-2' : ''}`}></span>
+          <span className={`block w-6 h-px bg-primary transition-all duration-300 ${menuOpen ? 'opacity-0' : ''}`}></span>
+          <span className={`block w-6 h-px bg-primary transition-all duration-300 ${menuOpen ? '-rotate-45 -translate-y-2' : ''}`}></span>
         </button>
       </nav>
 
+      {/* Mobile menu */}
       {menuOpen && (
-        <div className="lg:hidden bg-dark px-4 pb-4 flex flex-col gap-1 text-sm">
-          <Link href={`/${locale}`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('home')}</Link>
-          <Link href={`/${locale}/tamplarie-aluminiu`} className="py-2 hover:text-accent font-semibold" onClick={() => setMenuOpen(false)}>{t('aluminiu')}</Link>
-          <Link href={`/${locale}/tamplarie-pvc`} className="py-2 hover:text-accent font-semibold" onClick={() => setMenuOpen(false)}>{t('pvc')}</Link>
-          <Link href={`/${locale}/accesorii`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('accesorii')}</Link>
-          <Link href={`/${locale}/servicii`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('servicii')}</Link>
-          <Link href={`/${locale}/despre`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('despre')}</Link>
-          <Link href={`/${locale}/contact`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('contact')}</Link>
-          <Link href={`/${locale}/blog`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('blog')}</Link>
-          <Link href={`/${locale}/contact`} className="mt-2 bg-accent px-4 py-2 rounded font-bold text-center" onClick={() => setMenuOpen(false)}>{t('oferta')}</Link>
+        <div className="lg:hidden border-t border-border bg-white px-6 py-6 flex flex-col gap-5 text-xs tracking-widest uppercase">
+          <Link href={`/${locale}/tamplarie-pvc`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-pvc transition-colors">{t('pvc')}</Link>
+          <Link href={`/${locale}/tamplarie-aluminiu`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-aluminiu transition-colors">{t('aluminiu')}</Link>
+          <Link href={`/${locale}/accesorii`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-accesorii transition-colors">{t('accesorii')}</Link>
+          <Link href={`/${locale}/servicii`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-primary transition-colors">{t('servicii')}</Link>
+          <Link href={`/${locale}/despre`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-primary transition-colors">{t('despre')}</Link>
+          <Link href={`/${locale}/contact`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-primary transition-colors">{t('contact')}</Link>
+          <Link href={`/${locale}/blog`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-primary transition-colors">{t('blog')}</Link>
+          <Link href={`/${locale}/contact`} onClick={() => setMenuOpen(false)}
+            className="border border-primary text-primary px-5 py-3 text-center hover:bg-primary hover:text-white transition-all duration-300 mt-2">
+            {t('oferta')}
+          </Link>
         </div>
       )}
     </header>
