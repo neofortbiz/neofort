@@ -2,6 +2,15 @@
 import Link from 'next/link';
 import { useTranslations, useLocale } from 'next-intl';
 
+const LOCALES = [
+  { code: 'ro', label: 'RO' },
+  { code: 'en', label: 'EN' },
+  { code: 'de', label: 'DE' },
+  { code: 'fr', label: 'FR' },
+  { code: 'es', label: 'ES' },
+  { code: 'it', label: 'IT' },
+];
+
 export default function Footer() {
   const t = useTranslations();
   const locale = useLocale();
@@ -78,7 +87,7 @@ export default function Footer() {
         <div>
           <h3 className="text-white font-bold mb-4 text-sm uppercase tracking-wide">Limbi disponibile</h3>
           <div className="grid grid-cols-3 gap-2 mb-6">
-            {locales.map((l) => (
+          {LOCALES.map((l) => (
               <a key={l.code} href={`/${l.code}`}
                 className={`text-center py-1 rounded text-xs font-bold border transition-colors ${locale === l.code ? 'border-accent text-accent' : 'border-gray-600 hover:border-accent hover:text-accent'}`}>
                 {l.label}
