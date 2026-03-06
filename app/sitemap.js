@@ -1,3 +1,5 @@
+export const dynamic = 'force-static';
+
 const baseUrl = 'https://www.neofort-biz.ro';
 const locales = ['ro', 'en', 'de', 'fr', 'es', 'it'];
 const pages = [
