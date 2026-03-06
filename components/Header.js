@@ -20,18 +20,20 @@ export default function Header() {
 
   return (
     <header className="bg-white border-b border-border sticky top-0 z-50">
-      {/* Top bar */}
-      <div className="border-b border-border">
+      {/* Topbar */}
+      <div className="bg-dark text-white">
         <div className="container mx-auto px-6 py-2 flex justify-between items-center">
-          <div className="flex gap-6 text-xs text-muted tracking-wide">
-            <a href="tel:+40215280661" className="hover:text-primary transition-colors duration-300">+40 21 528 0661</a>
-            <a href="tel:+40752443435" className="hover:text-primary transition-colors duration-300 hidden md:block">+40 752 443 435</a>
-            <a href="tel:+40752443439" className="hover:text-primary transition-colors duration-300 hidden lg:block">Export: +40 752 443 439</a>
+          <div className="flex gap-6 text-xs font-light tracking-wide">
+            <a href="tel:+40215280661" className="hover:text-pvc transition-colors duration-300">+40 21 528 0661</a>
+            <a href="tel:+40752443435" className="hover:text-pvc transition-colors duration-300 hidden md:block">Oferte: +40 752 443 435</a>
+            <a href="tel:+40752443439" className="hover:text-aluminiu transition-colors duration-300 hidden lg:block">Export: +40 752 443 439</a>
           </div>
           <div className="flex gap-4 text-xs tracking-widest">
             {LOCALES.map(l => (
               <a key={l} href={switchLocale(l)}
-                className={`transition-colors duration-300 ${locale.toUpperCase() === l ? 'text-primary' : 'text-muted hover:text-primary'}`}>
+                className={`transition-colors duration-300 ${locale.toUpperCase() === l
+                  ? 'text-white font-medium'
+                  : 'text-gray-400 hover:text-white'}`}>
                 {l}
               </a>
             ))}
@@ -40,59 +42,64 @@ export default function Header() {
       </div>
 
       {/* Main nav */}
-      <nav className="container mx-auto px-6 py-4 flex justify-between items-center">
-        <Link href={`/${locale}`} className="flex flex-col leading-none">
-          <span className="font-display text-2xl font-light tracking-wide text-primary">NEOFORT</span>
-          <span className="text-xs tracking-widest text-muted uppercase font-light">Tâmplărie PVC · Aluminiu</span>
+      <nav className="container mx-auto px-6 py-0 flex justify-between items-center">
+        <Link href={`/${locale}`} className="py-4 flex items-center gap-3">
+          <div className="flex flex-col leading-none">
+            <span className="font-condensed text-xl font-semibold tracking-widest text-primary uppercase">Neofort</span>
+            <span className="text-xs text-muted tracking-widest uppercase font-light">Tâmplărie PVC · Aluminiu</span>
+          </div>
         </Link>
 
         {/* Desktop */}
-        <div className="hidden lg:flex items-center gap-8 text-xs tracking-widest uppercase">
-          {/* PVC — verde */}
+        <div className="hidden lg:flex items-stretch text-xs tracking-widest uppercase font-medium h-full">
           <Link href={`/${locale}/tamplarie-pvc`}
-            className="text-muted hover:text-pvc transition-colors duration-300">
+            className="flex items-center px-4 py-5 text-muted border-b-2 border-transparent hover:border-pvc hover:text-pvc transition-all duration-300">
             {t('pvc')}
           </Link>
-          {/* Aluminiu — albastru */}
           <Link href={`/${locale}/tamplarie-aluminiu`}
-            className="text-muted hover:text-aluminiu transition-colors duration-300">
+            className="flex items-center px-4 py-5 text-muted border-b-2 border-transparent hover:border-aluminiu hover:text-aluminiu transition-all duration-300">
             {t('aluminiu')}
           </Link>
-          {/* Accesorii — portocaliu */}
           <Link href={`/${locale}/accesorii`}
-            className="text-muted hover:text-accesorii transition-colors duration-300">
+            className="flex items-center px-4 py-5 text-muted border-b-2 border-transparent hover:border-accesorii hover:text-accesorii transition-all duration-300">
             {t('accesorii')}
           </Link>
-          <Link href={`/${locale}/servicii`} className="text-muted hover:text-primary transition-colors duration-300">{t('servicii')}</Link>
-          <Link href={`/${locale}/despre`} className="text-muted hover:text-primary transition-colors duration-300">{t('despre')}</Link>
-          <Link href={`/${locale}/contact`} className="text-muted hover:text-primary transition-colors duration-300">{t('contact')}</Link>
-          <Link href={`/${locale}/blog`} className="text-muted hover:text-primary transition-colors duration-300">{t('blog')}</Link>
+          <Link href={`/${locale}/servicii`}
+            className="flex items-center px-4 py-5 text-muted border-b-2 border-transparent hover:border-primary hover:text-primary transition-all duration-300">
+            {t('servicii')}
+          </Link>
+          <Link href={`/${locale}/despre`}
+            className="flex items-center px-4 py-5 text-muted border-b-2 border-transparent hover:border-primary hover:text-primary transition-all duration-300">
+            {t('despre')}
+          </Link>
           <Link href={`/${locale}/contact`}
-            className="ml-2 border border-primary text-primary px-5 py-2 hover:bg-primary hover:text-white transition-all duration-300">
+            className="flex items-center px-4 py-5 text-muted border-b-2 border-transparent hover:border-primary hover:text-primary transition-all duration-300">
+            {t('contact')}
+          </Link>
+          <Link href={`/${locale}/contact`}
+            className="flex items-center ml-4 my-3 px-6 bg-primary text-white text-xs tracking-widest uppercase font-medium hover:bg-pvc transition-colors duration-300">
             {t('oferta')}
           </Link>
         </div>
 
         {/* Mobile hamburger */}
-        <button className="lg:hidden flex flex-col gap-1.5 p-1" onClick={() => setMenuOpen(!menuOpen)} aria-label="Menu">
-          <span className={`block w-6 h-px bg-primary transition-all duration-300 ${menuOpen ? 'rotate-45 translate-y-2' : ''}`}></span>
-          <span className={`block w-6 h-px bg-primary transition-all duration-300 ${menuOpen ? 'opacity-0' : ''}`}></span>
-          <span className={`block w-6 h-px bg-primary transition-all duration-300 ${menuOpen ? '-rotate-45 -translate-y-2' : ''}`}></span>
+        <button className="lg:hidden flex flex-col gap-1.5 p-2" onClick={() => setMenuOpen(!menuOpen)}>
+          <span className={`block w-5 h-0.5 bg-primary transition-all duration-300 ${menuOpen ? 'rotate-45 translate-y-2' : ''}`}></span>
+          <span className={`block w-5 h-0.5 bg-primary ${menuOpen ? 'opacity-0' : ''}`}></span>
+          <span className={`block w-5 h-0.5 bg-primary transition-all duration-300 ${menuOpen ? '-rotate-45 -translate-y-2' : ''}`}></span>
         </button>
       </nav>
 
-      {/* Mobile menu */}
       {menuOpen && (
-        <div className="lg:hidden border-t border-border bg-white px-6 py-6 flex flex-col gap-5 text-xs tracking-widest uppercase">
-          <Link href={`/${locale}/tamplarie-pvc`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-pvc transition-colors">{t('pvc')}</Link>
-          <Link href={`/${locale}/tamplarie-aluminiu`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-aluminiu transition-colors">{t('aluminiu')}</Link>
-          <Link href={`/${locale}/accesorii`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-accesorii transition-colors">{t('accesorii')}</Link>
-          <Link href={`/${locale}/servicii`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-primary transition-colors">{t('servicii')}</Link>
-          <Link href={`/${locale}/despre`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-primary transition-colors">{t('despre')}</Link>
-          <Link href={`/${locale}/contact`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-primary transition-colors">{t('contact')}</Link>
-          <Link href={`/${locale}/blog`} onClick={() => setMenuOpen(false)} className="text-muted hover:text-primary transition-colors">{t('blog')}</Link>
+        <div className="lg:hidden border-t border-border bg-white px-6 py-4 flex flex-col gap-1 text-xs tracking-widest uppercase">
+          <Link href={`/${locale}/tamplarie-pvc`} onClick={() => setMenuOpen(false)} className="py-3 text-muted hover:text-pvc border-b border-border">{t('pvc')}</Link>
+          <Link href={`/${locale}/tamplarie-aluminiu`} onClick={() => setMenuOpen(false)} className="py-3 text-muted hover:text-aluminiu border-b border-border">{t('aluminiu')}</Link>
+          <Link href={`/${locale}/accesorii`} onClick={() => setMenuOpen(false)} className="py-3 text-muted hover:text-accesorii border-b border-border">{t('accesorii')}</Link>
+          <Link href={`/${locale}/servicii`} onClick={() => setMenuOpen(false)} className="py-3 text-muted hover:text-primary border-b border-border">{t('servicii')}</Link>
+          <Link href={`/${locale}/despre`} onClick={() => setMenuOpen(false)} className="py-3 text-muted hover:text-primary border-b border-border">{t('despre')}</Link>
+          <Link href={`/${locale}/contact`} onClick={() => setMenuOpen(false)} className="py-3 text-muted hover:text-primary border-b border-border">{t('contact')}</Link>
           <Link href={`/${locale}/contact`} onClick={() => setMenuOpen(false)}
-            className="border border-primary text-primary px-5 py-3 text-center hover:bg-primary hover:text-white transition-all duration-300 mt-2">
+            className="mt-3 bg-primary text-white px-6 py-3 text-center hover:bg-pvc transition-colors duration-300">
             {t('oferta')}
           </Link>
         </div>

@@ -8,19 +8,18 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#1c1c1c',
-        muted: '#6b6b6b',
-        border: '#e5e5e5',
-        light: '#f8f8f6',
-        // Brand colors from logo
-        pvc: '#4a7c59',       // verde PVC Salamander
-        aluminiu: '#2d5a8e',  // albastru Aluminiu Alumil
-        accesorii: '#e8721c', // portocaliu Accesorii
-        accent: '#c8a96e',    // auriu neutru
+        primary: '#1a1a1a',
+        muted: '#888888',
+        border: '#e8e8e8',
+        light: '#f5f5f3',
+        dark: '#111111',
+        pvc: '#4a7c59',
+        aluminiu: '#2d5a8e',
+        accesorii: '#e8721c',
       },
       fontFamily: {
-        display: ['Cormorant Garamond', 'serif'],
-        sans: ['Outfit', 'sans-serif'],
+        sans: ['Barlow', 'sans-serif'],
+        condensed: ['Barlow Condensed', 'sans-serif'],
       },
     },
   },
