@@ -11,10 +11,7 @@ module.exports = {
         primary: '#1a3a5c',
         accent: '#e8a020',
         dark: '#0f1f2e',
-      },
-      fontFamily: {
-        sans: ['var(--font-sans)'],
-        display: ['var(--font-display)'],
+        light: '#f4f7fa',
       },
     },
   },

@@ -1,94 +1,126 @@
 import { useTranslations } from 'next-intl';
-import Header from '../../../components/Header';
-import Footer from '../../../components/Footer';
+import { getTranslations } from 'next-intl/server';
 
-export default function ContactPage({ params: { locale } }) {
+export async function generateMetadata({ params }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'contact' });
+  return { title: t('title'), description: t('description') };
+}
+
+export default function ContactPage() {
   const t = useTranslations('contact');
 
   return (
     <>
-      <Header locale={locale} />
-      <main>
-        {/* Page Header */}
-        <section style={{ background: 'var(--primary)' }} className="py-16">
-          <div className="max-w-7xl mx-auto px-4">
-            <h1 style={{ fontFamily: 'var(--font-display)', color: '#fff', fontSize: '2.5rem' }}>{t('title')}</h1>
-          </div>
-        </section>
+      <section className="bg-primary text-white py-16">
+        <div className="container mx-auto px-4 text-center">
+          <h1 className="text-4xl font-bold mb-4">Contact</h1>
+          <p className="text-gray-300">Tâmplărie PVC Salamander & Aluminiu Alumil</p>
+        </div>
+      </section>
 
-        {/* Contact Content */}
-        <section className="py-16 bg-white">
-          <div className="max-w-7xl mx-auto px-4">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-
-              {/* Contact Info */}
-              <div>
-                <h2 style={{ fontFamily: 'var(--font-display)', color: 'var(--primary)', fontSize: '1.8rem' }} className="mb-8">
-                  Informații Contact
-                </h2>
-                <div className="space-y-4">
-                  {[
-                    { label: t('office'), value: '+40 21 528 0661' },
-                    { label: t('offers'), value: '+40 752 443 435' },
-                    { label: t('export'), value: '+40 752 443 439' },
-                    { label: 'Tehnic', value: '+40 752 443 431' },
-                    { label: 'Service', value: '+40 752 443 432' },
-                  ].map(item => (
-                    <div key={item.label} className="flex gap-4 items-center border-b pb-3">
-                      <span className="text-sm font-semibold text-gray-500 w-28">{item.label}</span>
-                      <a href={`tel:${item.value.replace(/\s/g, '')}`}
-                        style={{ color: 'var(--primary)' }}
-                        className="font-semibold hover:underline">
-                        {item.value}
-                      </a>
-                    </div>
-                  ))}
-                  <div className="flex gap-4 items-center border-b pb-3">
-                    <span className="text-sm font-semibold text-gray-500 w-28">Email oferte</span>
-                    <a href="mailto:oferte@neofort-biz.ro" style={{ color: 'var(--primary)' }} className="hover:underline">oferte@neofort-biz.ro</a>
-                  </div>
-                  <div className="flex gap-4 items-start pt-2">
-                    <span className="text-sm font-semibold text-gray-500 w-28">Adresă</span>
-                    <p className="text-gray-700">Str. Theodor Aman Pictor 11,<br/>Sector 1, București, 010776</p>
+      <section className="py-16 bg-white">
+        <div className="container mx-auto px-4">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+            {/* Contact Info */}
+            <div>
+              <h2 className="text-2xl font-bold text-primary mb-8">Date de contact</h2>
+              <div className="space-y-6">
+                <div className="flex gap-4 items-start">
+                  <div className="text-accent text-2xl">📍</div>
+                  <div>
+                    <div className="font-semibold text-primary">Adresă</div>
+                    <div className="text-gray-600">{t('address')}</div>
+                    <a href="https://maps.app.goo.gl/YcaANuqcmnzy14i1A" target="_blank" rel="noopener noreferrer" className="text-accent text-sm hover:underline">Vezi pe Google Maps →</a>
                   </div>
                 </div>
-              </div>
 
-              {/* Contact Form */}
-              <div style={{ background: 'var(--light)' }} className="rounded-lg p-8">
-                <h2 style={{ fontFamily: 'var(--font-display)', color: 'var(--primary)', fontSize: '1.8rem' }} className="mb-6">
-                  Cerere de Ofertă
-                </h2>
-                <form className="space-y-4">
-                  <div>
-                    <label className="text-sm font-semibold text-gray-600 block mb-1">{t('name')} *</label>
-                    <input type="text" required className="w-full border border-gray-300 rounded px-4 py-3 text-sm focus:outline-none focus:border-blue-500" />
+                {[
+                  { label: 'Office', value: t('phone_office'), href: `tel:${t('phone_office')}` },
+                  { label: 'Oferte', value: t('phone_oferte'), href: `tel:${t('phone_oferte')}` },
+                  { label: 'Export', value: t('phone_export'), href: `tel:${t('phone_export')}` },
+                  { label: 'Tehnic', value: t('phone_tehnic'), href: `tel:${t('phone_tehnic')}` },
+                  { label: 'Service', value: t('phone_service'), href: `tel:${t('phone_service')}` },
+                  { label: 'Programări', value: t('phone_programari'), href: `tel:${t('phone_programari')}` },
+                ].map((item) => (
+                  <div key={item.label} className="flex gap-4 items-center">
+                    <div className="text-accent text-xl">📞</div>
+                    <div>
+                      <span className="text-gray-500 text-sm">{item.label}: </span>
+                      <a href={item.href} className="font-semibold text-primary hover:text-accent">{item.value}</a>
+                    </div>
                   </div>
-                  <div>
-                    <label className="text-sm font-semibold text-gray-600 block mb-1">{t('phone')} *</label>
-                    <input type="tel" required className="w-full border border-gray-300 rounded px-4 py-3 text-sm focus:outline-none focus:border-blue-500" />
-                  </div>
-                  <div>
-                    <label className="text-sm font-semibold text-gray-600 block mb-1">{t('email')} *</label>
-                    <input type="email" required className="w-full border border-gray-300 rounded px-4 py-3 text-sm focus:outline-none focus:border-blue-500" />
-                  </div>
-                  <div>
-                    <label className="text-sm font-semibold text-gray-600 block mb-1">{t('message')}</label>
-                    <textarea rows={5} className="w-full border border-gray-300 rounded px-4 py-3 text-sm focus:outline-none focus:border-blue-500"></textarea>
-                  </div>
-                  <button type="submit"
-                    style={{ background: 'var(--primary)', color: '#fff' }}
-                    className="w-full py-3 rounded font-semibold hover:opacity-90 transition-opacity">
-                    {t('send')}
-                  </button>
-                </form>
-              </div>
+                ))}
 
+                {[
+                  { label: 'Oferte', value: t('email_oferte') },
+                  { label: 'Comenzi', value: t('email_comenzi') },
+                  { label: 'Service', value: t('email_service') },
+                ].map((item) => (
+                  <div key={item.label} className="flex gap-4 items-center">
+                    <div className="text-accent text-xl">✉️</div>
+                    <div>
+                      <span className="text-gray-500 text-sm">{item.label}: </span>
+                      <a href={`mailto:${item.value}`} className="font-semibold text-primary hover:text-accent">{item.value}</a>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Quote Request Form */}
+            <div className="bg-light rounded-2xl p-8">
+              <h2 className="text-2xl font-bold text-primary mb-6">Cerere de Ofertă</h2>
+              <div className="space-y-4">
+                <div>
+                  <label className="block text-sm font-semibold text-gray-700 mb-1">Nume *</label>
+                  <input type="text" className="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-accent" placeholder="Numele dvs." />
+                </div>
+                <div>
+                  <label className="block text-sm font-semibold text-gray-700 mb-1">Telefon *</label>
+                  <input type="tel" className="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-accent" placeholder="+40 7xx xxx xxx" />
+                </div>
+                <div>
+                  <label className="block text-sm font-semibold text-gray-700 mb-1">Email *</label>
+                  <input type="email" className="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-accent" placeholder="email@exemplu.com" />
+                </div>
+                <div>
+                  <label className="block text-sm font-semibold text-gray-700 mb-1">Solicit ofertă pentru *</label>
+                  <select className="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-accent">
+                    <option>Tâmplărie PVC Salamander</option>
+                    <option>Tâmplărie Aluminiu Alumil</option>
+                    <option>Accesorii</option>
+                    <option>Servicii montaj</option>
+                    <option>Export</option>
+                  </select>
+                </div>
+                <div>
+                  <label className="block text-sm font-semibold text-gray-700 mb-1">Mesaj</label>
+                  <textarea rows={4} className="w-full border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:border-accent" placeholder="Descrieți cererea dvs..."></textarea>
+                </div>
+                <button className="w-full bg-accent text-white py-4 rounded-lg font-bold text-lg hover:bg-yellow-500 transition-colors">
+                  Trimite cererea
+                </button>
+                <p className="text-xs text-gray-400">* Câmpuri obligatorii. Prin trimiterea formularului sunteți de acord cu politica GDPR.</p>
+              </div>
             </div>
           </div>
-        </section>
-      </main>
-      <Footer locale={locale} />
+        </div>
+      </section>
+
+      {/* Google Maps embed */}
+      <section className="h-96 bg-gray-200">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.8!2d26.0885!3d44.4429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDTCsDI2JzM0LjYiTiAyNsKwMDUnMTguNiJF!5e0!3m2!1sro!2sro!4v1234567890"
+          width="100%"
+          height="100%"
+          style={{border: 0}}
+          allowFullScreen
+          loading="lazy"
+          referrerPolicy="no-referrer-when-downgrade"
+          title="Neofort - Str. Theodor Aman 11, București"
+        />
+      </section>
     </>
   );
 }

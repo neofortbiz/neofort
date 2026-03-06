@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 
 const locales = [
   { code: 'ro', label: 'RO' },
@@ -13,111 +13,81 @@ const locales = [
   { code: 'it', label: 'IT' },
 ];
 
-export default function Header({ locale }) {
+export default function Header() {
   const t = useTranslations('nav');
-  const [menuOpen, setMenuOpen] = useState(false);
+  const locale = useLocale();
   const pathname = usePathname();
+  const [menuOpen, setMenuOpen] = useState(false);
 
-  const navLinks = [
-    { href: `/${locale}`, label: t('home') },
-    { href: `/${locale}/tamplarie-aluminiu`, label: t('aluminium') },
-    { href: `/${locale}/tamplarie-pvc`, label: t('pvc') },
-    { href: `/${locale}/accesorii`, label: t('accessories') },
-    { href: `/${locale}/servicii`, label: t('services') },
-    { href: `/${locale}/despre`, label: t('about') },
-    { href: `/${locale}/contact`, label: t('contact') },
-    { href: `/${locale}/blog`, label: t('blog') },
-  ];
+  const getLocalePath = (newLocale) => {
+    const segments = pathname.split('/');
+    segments[1] = newLocale;
+    return segments.join('/');
+  };
 
   return (
-    <header style={{ background: 'var(--primary)' }} className="sticky top-0 z-50 shadow-lg">
-      <div className="max-w-7xl mx-auto px-4 flex items-center justify-between h-16">
-        {/* Logo */}
-        <Link href={`/${locale}`} className="flex items-center gap-2">
-          <span style={{ fontFamily: 'var(--font-display)', color: 'var(--accent)', fontSize: '1.3rem', fontWeight: 700 }}>
-            NEOFORT
-          </span>
-          <span className="text-white text-xs font-light hidden sm:block">Tâmplărie PVC & Aluminiu</span>
-        </Link>
-
-        {/* Desktop nav */}
-        <nav className="hidden lg:flex items-center gap-1">
-          {navLinks.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              className="text-white text-sm px-3 py-2 rounded hover:bg-white hover:bg-opacity-10 transition-all"
-              style={{ fontFamily: 'var(--font-sans)' }}
-            >
-              {link.label}
-            </Link>
-          ))}
-        </nav>
-
-        {/* Language switcher */}
-        <div className="hidden lg:flex items-center gap-1 ml-4">
-          {locales.map((loc) => {
-            const segments = pathname.split('/');
-            segments[1] = loc.code;
-            const newPath = segments.join('/');
-            return (
-              <Link
-                key={loc.code}
-                href={newPath}
-                className={`text-xs px-2 py-1 rounded font-semibold transition-all ${
-                  locale === loc.code
-                    ? 'text-white border border-white'
-                    : 'text-white opacity-50 hover:opacity-100'
-                }`}
-              >
-                {loc.label}
-              </Link>
-            );
-          })}
+    <header className="bg-primary text-white sticky top-0 z-50 shadow-lg">
+      <div className="bg-dark text-xs py-1 px-4 flex justify-between items-center">
+        <div className="flex gap-4">
+          <a href="tel:+40215280661" className="hover:text-accent transition-colors">📞 +40 21 528 0661</a>
+          <a href="tel:+40752443435" className="hover:text-accent transition-colors hidden md:block">📱 +40 752 443 435</a>
+          <a href="tel:+40752443439" className="hover:text-accent transition-colors hidden lg:block">🌍 Export: +40 752 443 439</a>
         </div>
-
-        {/* Mobile menu button */}
-        <button
-          className="lg:hidden text-white p-2"
-          onClick={() => setMenuOpen(!menuOpen)}
-        >
-          <div className="w-6 h-0.5 bg-white mb-1"></div>
-          <div className="w-6 h-0.5 bg-white mb-1"></div>
-          <div className="w-6 h-0.5 bg-white"></div>
-        </button>
+        <div className="flex gap-1">
+          {locales.map((l) => (
+            <a key={l.code} href={getLocalePath(l.code)}
+              className={`px-2 py-0.5 rounded text-xs font-bold transition-colors ${locale === l.code ? 'bg-accent text-white' : 'hover:text-accent'}`}>
+              {l.label}
+            </a>
+          ))}
+        </div>
       </div>
 
-      {/* Mobile menu */}
-      {menuOpen && (
-        <div style={{ background: 'var(--dark)' }} className="lg:hidden px-4 pb-4">
-          {navLinks.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              className="block text-white py-2 border-b border-white border-opacity-10 text-sm"
-              onClick={() => setMenuOpen(false)}
-            >
-              {link.label}
-            </Link>
-          ))}
-          <div className="flex gap-2 mt-3">
-            {locales.map((loc) => {
-              const segments = pathname.split('/');
-              segments[1] = loc.code;
-              const newPath = segments.join('/');
-              return (
-                <Link
-                  key={loc.code}
-                  href={newPath}
-                  className={`text-xs px-2 py-1 rounded font-semibold ${
-                    locale === loc.code ? 'bg-white text-blue-900' : 'text-white opacity-60'
-                  }`}
-                >
-                  {loc.label}
-                </Link>
-              );
-            })}
+      <nav className="container mx-auto px-4 py-3 flex justify-between items-center">
+        <Link href={`/${locale}`} className="flex items-center gap-3">
+          <div className="bg-white rounded p-1.5">
+            <div className="text-primary font-black text-xs leading-tight">
+              <div>NEO</div><div className="text-accent">FORT</div>
+            </div>
           </div>
+          <div className="hidden sm:block">
+            <div className="font-bold text-sm">TERMOPANE NEOFORT</div>
+            <div className="text-accent text-xs">Tâmplărie PVC • Aluminiu • Pereti Cortina</div>
+          </div>
+        </Link>
+
+        <div className="hidden lg:flex items-center gap-1 text-sm">
+          <Link href={`/${locale}`} className="px-3 py-2 hover:text-accent transition-colors">{t('home')}</Link>
+          <Link href={`/${locale}/tamplarie-aluminiu`} className="px-3 py-2 hover:text-accent font-semibold transition-colors">{t('aluminiu')}</Link>
+          <Link href={`/${locale}/tamplarie-pvc`} className="px-3 py-2 hover:text-accent font-semibold transition-colors">{t('pvc')}</Link>
+          <Link href={`/${locale}/accesorii`} className="px-3 py-2 hover:text-accent transition-colors">{t('accesorii')}</Link>
+          <Link href={`/${locale}/servicii`} className="px-3 py-2 hover:text-accent transition-colors">{t('servicii')}</Link>
+          <Link href={`/${locale}/despre`} className="px-3 py-2 hover:text-accent transition-colors">{t('despre')}</Link>
+          <Link href={`/${locale}/contact`} className="px-3 py-2 hover:text-accent transition-colors">{t('contact')}</Link>
+          <Link href={`/${locale}/blog`} className="px-3 py-2 hover:text-accent transition-colors">{t('blog')}</Link>
+          <Link href={`/${locale}/contact`} className="ml-2 bg-accent px-4 py-2 rounded font-bold hover:bg-yellow-500 transition-colors">{t('oferta')}</Link>
+        </div>
+
+        <button className="lg:hidden p-2" onClick={() => setMenuOpen(!menuOpen)} aria-label="Menu">
+          <div className="space-y-1">
+            <span className={`block w-6 h-0.5 bg-white transition-all ${menuOpen ? 'rotate-45 translate-y-1.5' : ''}`}></span>
+            <span className={`block w-6 h-0.5 bg-white ${menuOpen ? 'opacity-0' : ''}`}></span>
+            <span className={`block w-6 h-0.5 bg-white transition-all ${menuOpen ? '-rotate-45 -translate-y-1.5' : ''}`}></span>
+          </div>
+        </button>
+      </nav>
+
+      {menuOpen && (
+        <div className="lg:hidden bg-dark px-4 pb-4 flex flex-col gap-1 text-sm">
+          <Link href={`/${locale}`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('home')}</Link>
+          <Link href={`/${locale}/tamplarie-aluminiu`} className="py-2 hover:text-accent font-semibold" onClick={() => setMenuOpen(false)}>{t('aluminiu')}</Link>
+          <Link href={`/${locale}/tamplarie-pvc`} className="py-2 hover:text-accent font-semibold" onClick={() => setMenuOpen(false)}>{t('pvc')}</Link>
+          <Link href={`/${locale}/accesorii`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('accesorii')}</Link>
+          <Link href={`/${locale}/servicii`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('servicii')}</Link>
+          <Link href={`/${locale}/despre`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('despre')}</Link>
+          <Link href={`/${locale}/contact`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('contact')}</Link>
+          <Link href={`/${locale}/blog`} className="py-2 hover:text-accent" onClick={() => setMenuOpen(false)}>{t('blog')}</Link>
+          <Link href={`/${locale}/contact`} className="mt-2 bg-accent px-4 py-2 rounded font-bold text-center" onClick={() => setMenuOpen(false)}>{t('oferta')}</Link>
         </div>
       )}
     </header>

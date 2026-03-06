@@ -1,68 +1,93 @@
 import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
-import Header from '../../../components/Header';
-import Footer from '../../../components/Footer';
 
-export default function AluminiuPage({ params: { locale } }) {
-  const t = useTranslations('nav');
+export async function generateMetadata({ params }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'aluminiu' });
+  return { title: t('title'), description: t('description') };
+}
 
-  const products = [
-    { name: 'Ferestre Aluminiu Alumil', desc: 'Profile premium Alumil cu izolare termică superioară. Disponibile în multiple configurații și culori RAL.', specs: ['Rupere de punte termică', 'Sticlă triplu strat', 'Certificare CE'] },
-    { name: 'Uși Aluminiu', desc: 'Uși de intrare și interior din aluminiu. Rezistente, elegante, cu multiple sisteme de blocare.', specs: ['Anti-efracție', 'Izolare fonică', 'Design personalizabil'] },
-    { name: 'Pereți Cortină', desc: 'Sisteme de pereți cortină pentru clădiri comerciale și rezidențiale. Soluții arhitecturale moderne.', specs: ['Structură ușoară', 'Suprafețe mari vitrate', 'Certificare la vânt'] },
-    { name: 'Sisteme Culisante', desc: 'Uși și ferestre culisante pentru terase, balcoane și spații comerciale.', specs: ['Glisare ușoară', 'Etanșeitate ridicată', 'Format mare disponibil'] },
-  ];
+export default function TamplarieAluminiuPage() {
+  const t = useTranslations('aluminiu');
+  const products = t.raw('products');
 
   return (
     <>
-      <Header locale={locale} />
-      <main>
-        <section style={{ background: 'var(--primary)' }} className="py-16">
-          <div className="max-w-7xl mx-auto px-4">
-            <div className="text-sm text-gray-400 mb-2">
-              <Link href={`/${locale}`} className="hover:text-white">Acasă</Link> / {t('aluminium')}
-            </div>
-            <h1 style={{ fontFamily: 'var(--font-display)', color: '#fff', fontSize: '2.5rem' }}>{t('aluminium')}</h1>
-            <p className="text-gray-300 mt-3 max-w-xl">Sisteme premium din alumin Alumil — soluții pentru orice tip de construcție rezidențială sau comercială.</p>
-          </div>
-        </section>
+      {/* Hero */}
+      <section className="bg-primary text-white py-16">
+        <div className="container mx-auto px-4 text-center">
+          <div className="text-accent text-xs font-bold tracking-widest mb-3">ALUMIL PREMIUM</div>
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">{t('hero_title')}</h1>
+          <p className="text-xl text-gray-300 mb-8">{t('hero_subtitle')}</p>
+          <Link href="../contact" className="bg-accent px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-500 transition-colors">
+            Cerere Ofertă Aluminiu
+          </Link>
+        </div>
+      </section>
 
-        <section className="py-16 bg-white">
-          <div className="max-w-7xl mx-auto px-4">
-            {/* Brand highlight */}
-            <div style={{ background: 'var(--light)', borderLeft: '4px solid var(--accent)' }} className="p-6 rounded mb-12">
-              <h2 style={{ fontFamily: 'var(--font-display)', color: 'var(--primary)' }} className="text-xl mb-2">Partener oficial Alumil</h2>
-              <p className="text-gray-600 text-sm">Furnizăm exclusiv profile Alumil — lider european în producția de sisteme din aluminiu pentru construcții.</p>
-            </div>
-
-            {/* Products grid */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              {products.map((p) => (
-                <div key={p.name} className="border border-gray-100 rounded-lg p-6 hover:shadow-md transition-shadow">
-                  <h3 style={{ fontFamily: 'var(--font-display)', color: 'var(--primary)', fontSize: '1.2rem' }} className="mb-3">{p.name}</h3>
-                  <p className="text-gray-600 text-sm leading-relaxed mb-4">{p.desc}</p>
-                  <ul className="space-y-1">
-                    {p.specs.map(s => (
-                      <li key={s} className="text-sm text-gray-500 flex items-center gap-2">
-                        <span style={{ color: 'var(--accent)' }}>✓</span> {s}
+      {/* Products Grid */}
+      <section className="py-16 bg-white">
+        <div className="container mx-auto px-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {products.map((product) => (
+              <article key={product.slug} className="bg-light rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 border border-transparent hover:border-accent flex flex-col">
+                {/* Product image placeholder */}
+                <div className="bg-gradient-to-br from-primary to-dark h-48 flex items-center justify-center text-white">
+                  <div className="text-center p-4">
+                    <div className="text-accent text-xs font-bold mb-2">{product.category}</div>
+                    <div className="text-xl font-bold">{product.name}</div>
+                  </div>
+                </div>
+                <div className="p-6 flex-1 flex flex-col">
+                  <h2 className="text-xl font-bold text-primary mb-1">{product.name}</h2>
+                  <div className="text-accent text-xs font-semibold mb-4 uppercase tracking-wide">{product.category}</div>
+                  <ul className="space-y-1 flex-1">
+                    {product.specs.map((spec, i) => (
+                      <li key={i} className="flex items-start gap-2 text-sm text-gray-700">
+                        <span className="text-accent mt-0.5 flex-shrink-0">✓</span>
+                        <span>{spec}</span>
                       </li>
                     ))}
                   </ul>
+                  <Link href={`../../${product.slug}`} className="mt-6 block text-center bg-primary text-white px-4 py-3 rounded-lg font-semibold hover:bg-accent transition-colors">
+                    Detalii {product.name}
+                  </Link>
                 </div>
-              ))}
-            </div>
-
-            <div className="text-center mt-12">
-              <Link href={`/${locale}/contact`}
-                style={{ background: 'var(--primary)', color: '#fff' }}
-                className="inline-block px-10 py-4 rounded font-semibold hover:opacity-90 transition-opacity">
-                Solicită Ofertă Aluminiu
-              </Link>
-            </div>
+              </article>
+            ))}
           </div>
-        </section>
-      </main>
-      <Footer locale={locale} />
+        </div>
+      </section>
+
+      {/* Description */}
+      <section className="py-12 bg-light">
+        <div className="container mx-auto px-4 max-w-4xl">
+          <p className="text-gray-700 leading-relaxed text-lg">{t('desc')}</p>
+          <div className="mt-8 flex flex-col sm:flex-row gap-4">
+            <Link href="../contact" className="bg-accent text-white px-8 py-4 rounded-lg font-bold hover:bg-yellow-500 transition-colors text-center">
+              Contact / Info
+            </Link>
+            <a href="tel:+40752443435" className="border-2 border-primary text-primary px-8 py-4 rounded-lg font-bold hover:bg-primary hover:text-white transition-colors text-center">
+              📱 +40 752 443 435
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Schema.org Product collection */}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "Tâmplărie Aluminiu Alumil - Neofort",
+        "description": t('description'),
+        "itemListElement": products.map((p, i) => ({
+          "@type": "ListItem",
+          "position": i + 1,
+          "name": p.name,
+          "url": `https://www.neofort-biz.ro/ro/${p.slug}`
+        }))
+      })}} />
     </>
   );
 }

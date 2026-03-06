@@ -1,58 +1,64 @@
 import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
-import Header from '../../../components/Header';
-import Footer from '../../../components/Footer';
 
-export default function AccesoriiPage({ params: { locale } }) {
-  const t = useTranslations('nav');
+export async function generateMetadata({ params }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'accesorii' });
+  return { title: t('title'), description: t('description') };
+}
 
-  const accessories = [
-    { name: 'Bandă Butilică', desc: 'Etanșare de înaltă performanță la exterior. Impermeabilă și rezistentă UV.' },
-    { name: 'Precadre Blaugelb Triotherm+', desc: 'Cel mai performant sistem de izolare perimetrală disponibil pe piață.' },
-    { name: 'Folie Anticondens', desc: 'Folie de interior și exterior pentru prevenirea condensului și mucegaiului.' },
-    { name: 'Baghete Warm Edge', desc: 'Distanțiere warm edge pentru geam termoizolator cu eficiență energetică îmbunătățită.' },
-    { name: 'Pervazuri Interior', desc: 'Pervazuri PVC și aluminiu pentru interior în multiple culori și dimensiuni.' },
-    { name: 'Pervazuri Exterior', desc: 'Pervazuri rezistente la intemperii pentru exterior, etanșe și durabile.' },
-    { name: 'Jaluzele Venetiene Raffstore', desc: 'Jaluzele exterioare premium cu lamele orientabile pentru control lumină și intimitate.' },
-    { name: 'Rulouri Exterioare Aluminiu', desc: 'Sisteme rulouri exterioare din aluminiu pentru protecție termică, fonică și securitate.' },
-    { name: 'Profile de Renovare', desc: 'Profile speciale pentru montaj fără demontarea tâmplăriei vechi. Soluție rapidă și curată.' },
-    { name: 'Sisteme Ventilație', desc: 'Sisteme de ventilație integrată pentru calitate aer interior optimă fără pierderi de căldură.' },
-  ];
+export default function AccesoriiPage() {
+  const t = useTranslations('accesorii');
+  const products = t.raw('products');
 
   return (
     <>
-      <Header locale={locale} />
-      <main>
-        <section style={{ background: 'var(--primary)' }} className="py-16">
-          <div className="max-w-7xl mx-auto px-4">
-            <h1 style={{ fontFamily: 'var(--font-display)', color: '#fff', fontSize: '2.5rem' }}>{t('accessories')}</h1>
-            <p className="text-gray-300 mt-3">Accesorii premium pentru tâmplărie PVC și Aluminiu</p>
-          </div>
-        </section>
+      <section className="bg-primary text-white py-16">
+        <div className="container mx-auto px-4 text-center">
+          <h1 className="text-4xl md:text-5xl font-bold mb-4">{t('hero_title')}</h1>
+          <p className="text-xl text-gray-300">{t('hero_subtitle')}</p>
+        </div>
+      </section>
 
-        <section className="py-16 bg-white">
-          <div className="max-w-7xl mx-auto px-4">
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {accessories.map((item) => (
-                <div key={item.name} className="border border-gray-100 rounded-lg p-6 hover:shadow-md transition-shadow">
-                  <div style={{ color: 'var(--accent)', fontSize: '1.5rem' }} className="mb-3">⬡</div>
-                  <h3 style={{ fontFamily: 'var(--font-display)', color: 'var(--primary)' }} className="text-lg mb-2">{item.name}</h3>
-                  <p className="text-gray-600 text-sm leading-relaxed">{item.desc}</p>
+      <section className="py-16 bg-white">
+        <div className="container mx-auto px-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {products.map((product) => (
+              <article key={product.slug} className="bg-light rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 border border-transparent hover:border-accent flex flex-col">
+                <div className="bg-gradient-to-br from-gray-700 to-primary h-40 flex items-center justify-center text-white">
+                  <div className="text-center p-4">
+                    <div className="text-xl font-bold">{product.name}</div>
+                  </div>
                 </div>
-              ))}
-            </div>
-
-            <div className="text-center mt-12">
-              <Link href={`/${locale}/contact`}
-                style={{ background: 'var(--primary)', color: '#fff' }}
-                className="inline-block px-10 py-4 rounded font-semibold hover:opacity-90 transition-opacity">
-                Solicită Ofertă cu Accesorii
-              </Link>
-            </div>
+                <div className="p-6 flex-1 flex flex-col">
+                  <h2 className="text-lg font-bold text-primary mb-4">{product.name}</h2>
+                  <ul className="space-y-1 flex-1">
+                    {product.specs.map((spec, i) => (
+                      <li key={i} className="flex items-start gap-2 text-sm text-gray-700">
+                        <span className="text-accent mt-0.5 flex-shrink-0">✓</span>
+                        <span>{spec}</span>
+                      </li>
+                    ))}
+                  </ul>
+                  <Link href={`../../${product.slug}`} className="mt-6 block text-center bg-primary text-white px-4 py-3 rounded-lg font-semibold hover:bg-accent transition-colors">
+                    Detalii
+                  </Link>
+                </div>
+              </article>
+            ))}
           </div>
-        </section>
-      </main>
-      <Footer locale={locale} />
+        </div>
+      </section>
+
+      <section className="py-12 bg-light">
+        <div className="container mx-auto px-4 max-w-4xl">
+          <p className="text-gray-700 leading-relaxed text-lg">{t('desc')}</p>
+          <div className="mt-8">
+            <Link href="../contact" className="bg-accent text-white px-8 py-4 rounded-lg font-bold hover:bg-yellow-500 transition-colors">Contact / Info</Link>
+          </div>
+        </div>
+      </section>
     </>
   );
 }

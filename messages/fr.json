@@ -1,66 +1,35 @@
 {
-  "nav": {
-    "home": "Accueil",
-    "aluminium": "Menuiserie Aluminium",
-    "pvc": "Menuiserie PVC",
-    "accessories": "Accessoires",
-    "services": "Services",
-    "about": "À Propos",
-    "contact": "Contact",
-    "blog": "Blog"
+  "nav": { "home": "Accueil", "aluminiu": "Fenêtres Aluminium", "pvc": "Fenêtres PVC", "accesorii": "Accessoires", "servicii": "Services", "despre": "À propos", "contact": "Contact", "blog": "Blog", "oferta": "Demander un devis" },
+  "home": {
+    "title": "Fenêtres PVC Salamander & Aluminium Alumil | Neofort Bucarest",
+    "description": "Fabricant de fenêtres PVC Salamander et aluminium Alumil. Double vitrage, pose professionnelle, livraison toute l'Europe. 20 ans d'expérience. Devis gratuit!",
+    "hero_title": "Fenêtres PVC & Aluminium avec Double Vitrage",
+    "hero_subtitle": "Neofort Thermoframes — Qualité et engagement sans compromis",
+    "hero_cta1": "Demander un devis", "hero_cta2": "Voir les produits",
+    "products_title": "Nos Produits et Services",
+    "products_subtitle": "Les fenêtres Neofort sont accompagnées de services complets, certifications et agréments.",
+    "prod1_title": "Fenêtres Aluminium & PVC", "prod1_desc": "Nous fournissons des fenêtres premium Salamander et Alumil, fabriquées sur des lignes de production automatisées.",
+    "prod2_title": "Solutions d'isolation périmétrique", "prod2_desc": "Nous offrons les solutions d'isolation les plus avancées: ruban butyle, pré-cadres Blaugelb Triotherm+, film anti-condensation.",
+    "prod3_title": "Pose professionnelle", "prod3_desc": "Nous réalisons des poses avec des professionnels expérimentés et garantissons la qualité.",
+    "prod4_title": "Accessoires pour fenêtres Aluminium & PVC", "prod4_desc": "Tous les accessoires sont de gamme premium, produits dans l'une des usines les plus modernes de Roumanie.",
+    "prod5_title": "Transport national et international", "prod5_desc": "Nous livrons nos produits dans toute la Communauté Européenne rapidement et en toute sécurité.",
+    "steps_title": "Étapes de la collaboration", "steps_subtitle": "Clarté en 3 étapes simples.",
+    "step1_title": "Élaboration du devis", "step1_desc": "Contact et envoi de demande de devis par formulaire, e-mail ou téléphone & WhatsApp.",
+    "step2_title": "Consultation & Prise de mesures", "step2_desc": "Établir les détails de configuration et planifier les mesures.",
+    "step3_title": "Transport & Pose", "step3_desc": "Préciser les détails de livraison et effectuer le transport et la pose.",
+    "why_title": "Pourquoi nous choisir?",
+    "why_desc": "Un choix peut être simple avec la bonne aide. Notre priorité principale est de comprendre les besoins du client.",
+    "why1_title": "Prix et conditions de paiement accessibles", "why1_desc": "Nous travaillons constamment sur le rapport qualité-prix et proposons des offres gagnantes.",
+    "why2_title": "Conseil et solutions innovantes", "why2_desc": "Nous apportons toujours les produits les plus récents et les plus performants sur le marché.",
+    "why3_title": "Qualité et engagements sans compromis", "why3_desc": "Plus de 50% de nos clients reviennent ou nous recommandent.",
+    "why4_title": "20 ans d'expérience ininterrompue", "why4_desc": "Depuis près de deux décennies, notre nom est présent sur le marché des fenêtres PVC/Aluminium."
   },
-  "hero": {
-    "title": "Fenêtres PVC & Aluminium",
-    "subtitle": "Neofort Thermopanes — Qualité et engagement sans compromis",
-    "cta": "Demander un Devis",
-    "cta2": "Voir les Produits"
-  },
-  "services": {
-    "title": "Nos Produits et Services",
-    "aluminiu": {
-      "title": "Menuiserie Aluminium & PVC",
-      "desc": "Nous fournissons des menuiseries Aluminium et PVC des marques premium Salamander et Alumil."
-    },
-    "izolare": {
-      "title": "Solutions d'isolation périmétrique",
-      "desc": "Nous proposons les solutions d'isolation les plus avancées: ruban butyle, précadres Blaugelb Triotherm+."
-    },
-    "montaj": {
-      "title": "Installation professionnelle",
-      "desc": "Nous réalisons les installations avec des professionnels très expérimentés."
-    },
-    "transport": {
-      "title": "Livraison nationale et internationale",
-      "desc": "Nous livrons nos produits dans toute la Communauté Européenne rapidement et en toute sécurité."
-    }
-  },
-  "steps": {
-    "title": "Étapes de collaboration",
-    "subtitle": "Clarté en 3 étapes simples",
-    "step1": { "title": "Élaboration du devis", "desc": "Contactez-nous et envoyez une demande de devis via formulaire, e-mail ou téléphone & WhatsApp." },
-    "step2": { "title": "Consultation & Mesure", "desc": "Définir les détails de configuration et planifier les mesures." },
-    "step3": { "title": "Transport & Installation", "desc": "Préciser les détails du lieu et la date de livraison, puis effectuer le transport et l'installation." }
-  },
-  "why": {
-    "title": "Pourquoi Nous Choisir?",
-    "price": { "title": "Prix et conditions de paiement accessibles", "desc": "Nous travaillons constamment sur le rapport qualité-prix-utilité." },
-    "consulting": { "title": "Conseil et solutions innovantes", "desc": "Nous apportons toujours les produits les plus récents et les plus performants." },
-    "quality": { "title": "Qualité et engagement sans compromis", "desc": "Plus de 50% de nos clients reviennent ou nous recommandent." },
-    "experience": { "title": "20 ans d'expérience ininterrompue", "desc": "Depuis près de deux décennies, notre nom est présent sur le marché PVC/Aluminium." }
-  },
-  "contact": {
-    "title": "Contact",
-    "name": "Nom",
-    "phone": "Téléphone",
-    "email": "E-mail",
-    "message": "Message",
-    "send": "Envoyer",
-    "office": "Bureau",
-    "offers": "Devis",
-    "export": "Export"
-  },
-  "footer": {
-    "rights": "Tous droits réservés",
-    "brand": "Marque déposée O.S.I.M."
-  }
+  "aluminiu": { "title": "Fenêtres Aluminium Alumil | Neofort Bucarest", "description": "Fenêtres aluminium Alumil premium: S77 Supreme, S67 Smartia, coulissantes S700 S350, pliantes SF85 M19800. Production propre, livraison Europe.", "hero_title": "FENÊTRES ALUMINIUM ALUMIL", "hero_subtitle": "Système de fenêtres aluminium premium", "desc": "Neofort offre des services complets de fourniture de fenêtres en aluminium Alumil.", "products": [] },
+  "pvc": { "title": "Fenêtres PVC Salamander | Prix Double Vitrage | Neofort Bucarest", "description": "Fenêtres PVC Salamander BluEvolution 92 et GreenEvolution 76. Profil PVC classe A, 6 chambres, Uw 0,70 W/m²K. Production propre, pose, livraison Europe.", "hero_title": "FENÊTRES PVC SALAMANDER", "hero_subtitle": "Système de fenêtres PVC allemand premium", "desc": "Neofort offre des services complets de fourniture de fenêtres PVC Salamander.", "products": [] },
+  "accesorii": { "title": "Accessoires Fenêtres PVC Aluminium | Neofort Bucarest", "description": "Accessoires premium: volets roulants aluminium, stores Raffstore, pré-cadres Blaugelb, ruban butyle, vitrage Saint Gobain, intercalaires Warm Edge. Livraison Europe.", "hero_title": "ACCESSOIRES pour Fenêtres", "hero_subtitle": "Accessoires premium pour fenêtres aluminium & PVC", "desc": "Neofort offre des accessoires premium qui complètent les fenêtres PVC Salamander et aluminium Alumil.", "products": [] },
+  "servicii": { "title": "Services de Pose Fenêtres PVC Aluminium | Neofort Bucarest", "description": "Services complets de pose de fenêtres PVC et aluminium. Mesures gratuites, pose professionnelle, transport, garantie." },
+  "despre": { "title": "À propos de Neofort | 20 Ans Fenêtres PVC Aluminium Bucarest", "description": "Neofort - 20 ans d'expérience dans les fenêtres PVC Salamander et aluminium Alumil. Marque déposée OSIM." },
+  "contact": { "title": "Contact Fenêtres PVC Aluminium | Devis | Neofort Bucarest", "description": "Contactez Neofort pour un devis fenêtres PVC et aluminium. Tél: +40215280661. Export Europe.", "address": "Str. Theodor Aman Pictor 11, secteur 1, Bucarest, 010776, Roumanie", "phone_office": "+40215280661", "phone_oferte": "+40752443435", "phone_export": "+40752443439", "phone_tehnic": "+40752443431", "phone_service": "+40752443432", "phone_programari": "+40758990048", "email_oferte": "oferte@neofort-biz.ro", "email_comenzi": "comenzi@neofort-biz.ro", "email_service": "service@neofort-biz.ro" },
+  "footer": { "marca": "Neofort BIZ © Marque déposée O.S.I.M. n° M 2014 05130", "pvc": "Fenêtres PVC - Salamander", "aluminiu": "Fenêtres Aluminium - Alumil" },
+  "cta": { "detalii": "Détails", "contact": "Contact / Info", "oferta": "Demander un devis", "catalog": "Catalogue produits" }
 }
