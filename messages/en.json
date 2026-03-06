@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "aluminium": "Aluminium Windows",
+    "pvc": "PVC Windows",
+    "accessories": "Accessories",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "PVC & Aluminium Windows",
+    "subtitle": "Neofort Thermoframes — Quality and commitment without compromise",
+    "cta": "Request a Quote",
+    "cta2": "View Products"
+  },
+  "services": {
+    "title": "Our Products and Services",
+    "aluminiu": {
+      "title": "Aluminium & PVC Windows",
+      "desc": "We supply premium Aluminium and PVC windows from Salamander and Alumil brands."
+    },
+    "izolare": {
+      "title": "Perimeter Insulation Solutions",
+      "desc": "We offer the most advanced insulation solutions: butyl tape, Blaugelb Triotherm+ pre-frames."
+    },
+    "montaj": {
+      "title": "Professional Installation",
+      "desc": "We perform installations with highly experienced professionals."
+    },
+    "transport": {
+      "title": "Domestic and International Shipping",
+      "desc": "We deliver our products across the European Community quickly and safely."
+    }
+  },
+  "steps": {
+    "title": "Collaboration Steps",
+    "subtitle": "Clarity in 3 simple steps",
+    "step1": { "title": "Quote Preparation", "desc": "Contact us and submit a quote request via form, email or phone & WhatsApp." },
+    "step2": { "title": "Consultation & Measurement", "desc": "Establish configuration details and order composition. Schedule measurements." },
+    "step3": { "title": "Transport & Installation", "desc": "Specify location details and delivery date, then execute transport and installation." }
+  },
+  "why": {
+    "title": "Why Choose Us?",
+    "price": { "title": "Accessible prices and payment terms", "desc": "We constantly work on the quality-price-utility ratio." },
+    "consulting": { "title": "Consulting and innovative solutions", "desc": "We always bring the newest and most high-performance products to market." },
+    "quality": { "title": "Quality and commitment without compromise", "desc": "Over 50% of our clients return or recommend us." },
+    "experience": { "title": "20 years of uninterrupted experience", "desc": "For nearly two decades our name has been present in the PVC/Aluminium window market." }
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "office": "Office",
+    "offers": "Quotes",
+    "export": "Export"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "brand": "Registered trademark O.S.I.M."
+  }
+}

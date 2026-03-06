@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "aluminium": "Carpintería Aluminio",
+    "pvc": "Carpintería PVC",
+    "accessories": "Accesorios",
+    "services": "Servicios",
+    "about": "Sobre Nosotros",
+    "contact": "Contacto",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Ventanas PVC & Aluminio",
+    "subtitle": "Neofort Termopaneles — Calidad y compromiso sin concesiones",
+    "cta": "Solicitar Presupuesto",
+    "cta2": "Ver Productos"
+  },
+  "services": {
+    "title": "Nuestros Productos y Servicios",
+    "aluminiu": {
+      "title": "Carpintería Aluminio & PVC",
+      "desc": "Suministramos carpintería de Aluminio y PVC de las marcas premium Salamander y Alumil."
+    },
+    "izolare": {
+      "title": "Soluciones de aislamiento perimetral",
+      "desc": "Ofrecemos las soluciones de aislamiento más avanzadas: cinta butílica, precercos Blaugelb Triotherm+."
+    },
+    "montaj": {
+      "title": "Instalación profesional",
+      "desc": "Realizamos instalaciones con profesionales con amplia experiencia en el sector."
+    },
+    "transport": {
+      "title": "Transporte nacional e internacional",
+      "desc": "Entregamos nuestros productos en toda la Comunidad Europea de forma rápida y segura."
+    }
+  },
+  "steps": {
+    "title": "Etapas de colaboración",
+    "subtitle": "Claridad en 3 pasos simples",
+    "step1": { "title": "Elaboración de presupuesto", "desc": "Contáctenos y envíe una solicitud de presupuesto por formulario, email o teléfono & WhatsApp." },
+    "step2": { "title": "Consulta & Medición", "desc": "Establecer detalles de configuración y programar mediciones." },
+    "step3": { "title": "Transporte & Instalación", "desc": "Especificar detalles de ubicación y fecha de entrega, luego ejecutar transporte e instalación." }
+  },
+  "why": {
+    "title": "¿Por Qué Elegirnos?",
+    "price": { "title": "Precios y condiciones de pago accesibles", "desc": "Trabajamos constantemente en la relación calidad-precio-utilidad." },
+    "consulting": { "title": "Consultoría y soluciones innovadoras", "desc": "Siempre traemos los productos más nuevos y de mayor rendimiento al mercado." },
+    "quality": { "title": "Calidad y compromiso sin concesiones", "desc": "Más del 50% de nuestros clientes regresan o nos recomiendan." },
+    "experience": { "title": "20 años de experiencia ininterrumpida", "desc": "Desde hace casi dos décadas nuestro nombre está presente en el mercado de carpintería PVC/Aluminio." }
+  },
+  "contact": {
+    "title": "Contacto",
+    "name": "Nombre",
+    "phone": "Teléfono",
+    "email": "Email",
+    "message": "Mensaje",
+    "send": "Enviar",
+    "office": "Oficina",
+    "offers": "Presupuestos",
+    "export": "Exportación"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "brand": "Marca registrada O.S.I.M."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "aluminium": "Tâmplărie Aluminiu",
+    "pvc": "Tâmplărie PVC",
+    "accessories": "Accesorii",
+    "services": "Servicii",
+    "about": "Despre Noi",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Tâmplărie PVC & Aluminiu",
+    "subtitle": "Termopane Neofort — Calitate și angajamente fără compromisuri",
+    "cta": "Solicită Ofertă",
+    "cta2": "Vezi Produse"
+  },
+  "services": {
+    "title": "Produsele și serviciile noastre",
+    "aluminiu": {
+      "title": "Tâmplărie Aluminiu & PVC",
+      "desc": "Furnizăm tâmplărie Aluminiu și PVC din gamele premium mărcile Salamander și Alumil."
+    },
+    "izolare": {
+      "title": "Soluții de izolare perimetrală",
+      "desc": "Oferim cele mai avansate soluții de izolare în cadrul montajului: bandă butilică, precadre Blaugelb Triotherm+."
+    },
+    "montaj": {
+      "title": "Montaj profesional",
+      "desc": "Executăm montaje cu profesioniști cu vastă experiență în domeniu."
+    },
+    "transport": {
+      "title": "Transport intern și internațional",
+      "desc": "Livrăm produsele noastre în toată Comunitatea Europeană rapid și sigur."
+    }
+  },
+  "steps": {
+    "title": "Etapele colaborării",
+    "subtitle": "Claritate în 3 pași simpli",
+    "step1": { "title": "Elaborare ofertă", "desc": "Contact și transmitere cerere de ofertă prin formular, e-mail sau telefon & WhatsApp." },
+    "step2": { "title": "Consultare & Măsurătoare", "desc": "Stabilire detalii configurație și componență comandă. Programarea măsurătorilor." },
+    "step3": { "title": "Transport & Montaj", "desc": "Precizare detalii locație și termen livrare, respectiv executarea transportului și a montajului." }
+  },
+  "why": {
+    "title": "De ce să ne alegi?",
+    "price": { "title": "Prețuri și condiții de plată accesibile", "desc": "Permanent lucrăm la raportul calitate-preț-utilitate." },
+    "consulting": { "title": "Consultanță și soluții inovatoare", "desc": "Mereu căutăm să venim pe piață cu cele mai noi și performante produse." },
+    "quality": { "title": "Calitate și angajamente fără compromisuri", "desc": "Peste 50% dintre clienți revin sau ne recomandă." },
+    "experience": { "title": "20 de ani de experiență neîntreruptă", "desc": "De aproape două decenii numele nostru este prezent în piața tâmplăriei PVC/Aluminiu." }
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Nume",
+    "phone": "Telefon",
+    "email": "Email",
+    "message": "Mesaj",
+    "send": "Trimite",
+    "office": "Office",
+    "offers": "Oferte",
+    "export": "Export"
+  },
+  "footer": {
+    "rights": "Toate drepturile rezervate",
+    "brand": "Marcă înregistrată O.S.I.M."
+  }
+}

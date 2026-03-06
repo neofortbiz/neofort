@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "aluminium": "Aluminiumfenster",
+    "pvc": "PVC-Fenster",
+    "accessories": "Zubehör",
+    "services": "Dienstleistungen",
+    "about": "Über Uns",
+    "contact": "Kontakt",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "PVC & Aluminium Fenster",
+    "subtitle": "Neofort Thermofenster — Qualität und Engagement ohne Kompromisse",
+    "cta": "Angebot Anfordern",
+    "cta2": "Produkte Ansehen"
+  },
+  "services": {
+    "title": "Unsere Produkte und Dienstleistungen",
+    "aluminiu": {
+      "title": "Aluminium- & PVC-Fenster",
+      "desc": "Wir liefern Premium-Aluminium- und PVC-Fenster der Marken Salamander und Alumil."
+    },
+    "izolare": {
+      "title": "Perimeter-Dämmungslösungen",
+      "desc": "Wir bieten modernste Dämmungslösungen: Butylband, Blaugelb Triotherm+ Vorrahmen."
+    },
+    "montaj": {
+      "title": "Professionelle Montage",
+      "desc": "Wir führen Montagen mit hocherfahrenen Fachleuten durch."
+    },
+    "transport": {
+      "title": "Inlands- und Internationaler Versand",
+      "desc": "Wir liefern unsere Produkte schnell und sicher in der gesamten Europäischen Gemeinschaft."
+    }
+  },
+  "steps": {
+    "title": "Zusammenarbeitsschritte",
+    "subtitle": "Klarheit in 3 einfachen Schritten",
+    "step1": { "title": "Angebotserstellung", "desc": "Kontaktieren Sie uns und senden Sie eine Angebotsanfrage per Formular, E-Mail oder Telefon & WhatsApp." },
+    "step2": { "title": "Beratung & Aufmaß", "desc": "Konfigurationsdetails festlegen und Aufmaß terminieren." },
+    "step3": { "title": "Transport & Montage", "desc": "Standortdetails und Liefertermin festlegen, dann Transport und Montage durchführen." }
+  },
+  "why": {
+    "title": "Warum Uns Wählen?",
+    "price": { "title": "Günstige Preise und Zahlungsbedingungen", "desc": "Wir arbeiten ständig am Qualitäts-Preis-Nutzen-Verhältnis." },
+    "consulting": { "title": "Beratung und innovative Lösungen", "desc": "Wir bringen stets die neuesten und leistungsstärksten Produkte auf den Markt." },
+    "quality": { "title": "Qualität und Engagement ohne Kompromisse", "desc": "Über 50% unserer Kunden kommen wieder oder empfehlen uns weiter." },
+    "experience": { "title": "20 Jahre ununterbrochene Erfahrung", "desc": "Seit fast zwei Jahrzehnten sind wir im PVC/Aluminium-Fenstermarkt präsent." }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "name": "Name",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Senden",
+    "office": "Büro",
+    "offers": "Angebote",
+    "export": "Export"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "brand": "Eingetragene Marke O.S.I.M."
+  }
+}

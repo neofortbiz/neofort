@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "aluminium": "Menuiserie Aluminium",
+    "pvc": "Menuiserie PVC",
+    "accessories": "Accessoires",
+    "services": "Services",
+    "about": "À Propos",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Fenêtres PVC & Aluminium",
+    "subtitle": "Neofort Thermopanes — Qualité et engagement sans compromis",
+    "cta": "Demander un Devis",
+    "cta2": "Voir les Produits"
+  },
+  "services": {
+    "title": "Nos Produits et Services",
+    "aluminiu": {
+      "title": "Menuiserie Aluminium & PVC",
+      "desc": "Nous fournissons des menuiseries Aluminium et PVC des marques premium Salamander et Alumil."
+    },
+    "izolare": {
+      "title": "Solutions d'isolation périmétrique",
+      "desc": "Nous proposons les solutions d'isolation les plus avancées: ruban butyle, précadres Blaugelb Triotherm+."
+    },
+    "montaj": {
+      "title": "Installation professionnelle",
+      "desc": "Nous réalisons les installations avec des professionnels très expérimentés."
+    },
+    "transport": {
+      "title": "Livraison nationale et internationale",
+      "desc": "Nous livrons nos produits dans toute la Communauté Européenne rapidement et en toute sécurité."
+    }
+  },
+  "steps": {
+    "title": "Étapes de collaboration",
+    "subtitle": "Clarté en 3 étapes simples",
+    "step1": { "title": "Élaboration du devis", "desc": "Contactez-nous et envoyez une demande de devis via formulaire, e-mail ou téléphone & WhatsApp." },
+    "step2": { "title": "Consultation & Mesure", "desc": "Définir les détails de configuration et planifier les mesures." },
+    "step3": { "title": "Transport & Installation", "desc": "Préciser les détails du lieu et la date de livraison, puis effectuer le transport et l'installation." }
+  },
+  "why": {
+    "title": "Pourquoi Nous Choisir?",
+    "price": { "title": "Prix et conditions de paiement accessibles", "desc": "Nous travaillons constamment sur le rapport qualité-prix-utilité." },
+    "consulting": { "title": "Conseil et solutions innovantes", "desc": "Nous apportons toujours les produits les plus récents et les plus performants." },
+    "quality": { "title": "Qualité et engagement sans compromis", "desc": "Plus de 50% de nos clients reviennent ou nous recommandent." },
+    "experience": { "title": "20 ans d'expérience ininterrompue", "desc": "Depuis près de deux décennies, notre nom est présent sur le marché PVC/Aluminium." }
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "message": "Message",
+    "send": "Envoyer",
+    "office": "Bureau",
+    "offers": "Devis",
+    "export": "Export"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "brand": "Marque déposée O.S.I.M."
+  }
+}

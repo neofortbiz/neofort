@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "aluminium": "Infissi Alluminio",
+    "pvc": "Infissi PVC",
+    "accessories": "Accessori",
+    "services": "Servizi",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "blog": "Blog"
+  },
+  "hero": {
+    "title": "Infissi PVC & Alluminio",
+    "subtitle": "Neofort Termopane — Qualità e impegno senza compromessi",
+    "cta": "Richiedi un Preventivo",
+    "cta2": "Vedi Prodotti"
+  },
+  "services": {
+    "title": "I Nostri Prodotti e Servizi",
+    "aluminiu": {
+      "title": "Infissi Alluminio & PVC",
+      "desc": "Forniamo infissi in Alluminio e PVC delle marche premium Salamander e Alumil."
+    },
+    "izolare": {
+      "title": "Soluzioni di isolamento perimetrale",
+      "desc": "Offriamo le soluzioni di isolamento più avanzate: nastro butilico, precornici Blaugelb Triotherm+."
+    },
+    "montaj": {
+      "title": "Installazione professionale",
+      "desc": "Eseguiamo installazioni con professionisti con vasta esperienza nel settore."
+    },
+    "transport": {
+      "title": "Spedizione nazionale e internazionale",
+      "desc": "Consegniamo i nostri prodotti in tutta la Comunità Europea in modo rapido e sicuro."
+    }
+  },
+  "steps": {
+    "title": "Fasi della collaborazione",
+    "subtitle": "Chiarezza in 3 semplici passi",
+    "step1": { "title": "Elaborazione preventivo", "desc": "Contattaci e invia una richiesta di preventivo tramite modulo, email o telefono & WhatsApp." },
+    "step2": { "title": "Consulenza & Misurazione", "desc": "Definire i dettagli di configurazione e programmare le misurazioni." },
+    "step3": { "title": "Trasporto & Installazione", "desc": "Specificare i dettagli della posizione e la data di consegna, poi eseguire trasporto e installazione." }
+  },
+  "why": {
+    "title": "Perché Sceglierci?",
+    "price": { "title": "Prezzi e condizioni di pagamento accessibili", "desc": "Lavoriamo costantemente sul rapporto qualità-prezzo-utilità." },
+    "consulting": { "title": "Consulenza e soluzioni innovative", "desc": "Portiamo sempre i prodotti più nuovi e performanti sul mercato." },
+    "quality": { "title": "Qualità e impegno senza compromessi", "desc": "Oltre il 50% dei nostri clienti torna o ci raccomanda." },
+    "experience": { "title": "20 anni di esperienza ininterrotta", "desc": "Da quasi due decenni il nostro nome è presente nel mercato degli infissi PVC/Alluminio." }
+  },
+  "contact": {
+    "title": "Contatti",
+    "name": "Nome",
+    "phone": "Telefono",
+    "email": "Email",
+    "message": "Messaggio",
+    "send": "Invia",
+    "office": "Ufficio",
+    "offers": "Preventivi",
+    "export": "Export"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati",
+    "brand": "Marchio registrato O.S.I.M."
+  }
+}
