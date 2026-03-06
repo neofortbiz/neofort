@@ -111,26 +111,9 @@ export default function Header() {
 }
 
 function NavLink({ href, label, color }) {
-  const [hovered, setHovered] = useState(false);
   const hoverColor = color || '#1a1a1a';
   return (
-    <Link href={href}
-      onMouseEnter={() => setHovered(true)}
-      onMouseLeave={() => setHovered(false)}
-      style={{
-        display: 'flex',
-        alignItems: 'center',
-        padding: '0 12px',
-        fontSize: '0.68rem',
-        fontFamily: 'Barlow Condensed, sans-serif',
-        fontWeight: 600,
-        letterSpacing: '0.15em',
-        textTransform: 'uppercase',
-        color: hovered ? hoverColor : '#999',
-        borderBottom: `2px solid ${hovered ? hoverColor : 'transparent'}`,
-        transition: 'color 0.15s ease, border-color 0.15s ease',
-        textDecoration: 'none',
-      }}>
+    <Link href={href} className="nav-link" style={{'--nav-hover': hoverColor}}>
       {label}
     </Link>
   );

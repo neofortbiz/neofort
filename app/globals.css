@@ -153,3 +153,42 @@ h1,h2,h3,h4 {
   margin-top: 7px;
   flex-shrink: 0;
 }
+
+/* Product card button hover — CSS pur, fara JS */
+.prod-card-btn {
+  display: inline-block;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  padding: 10px 20px;
+  border: 1px solid #ddd;
+  color: #aaa;
+  background: transparent;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+.prod-card-btn-pvc:hover    { background: #4a7c59; color: #fff; border-color: #4a7c59; }
+.prod-card-btn-aluminiu:hover { background: #2d5a8e; color: #fff; border-color: #2d5a8e; }
+.prod-card-btn-accesorii:hover { background: #e8721c; color: #fff; border-color: #e8721c; }
+
+/* Nav link hover — CSS pur */
+.nav-link {
+  display: flex;
+  align-items: center;
+  padding: 0 12px;
+  height: 100%;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #999;
+  border-bottom: 2px solid transparent;
+  text-decoration: none;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.nav-link:hover {
+  color: var(--nav-hover, #1a1a1a);
+  border-bottom-color: var(--nav-hover, #1a1a1a);
+}
