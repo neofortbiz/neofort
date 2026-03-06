@@ -2,102 +2,136 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { useTranslations, useLocale } from 'next-intl';
+import { useLocale } from 'next-intl';
 
 const LOCALES = ['RO','EN','DE','FR','ES','IT'];
 
+const NAV = [
+  { key: 'acasa',             color: null },
+  { key: 'tamplarie-pvc',     color: '#4a7c59' },
+  { key: 'tamplarie-aluminiu',color: '#2d5a8e' },
+  { key: 'accesorii',         color: '#e8721c' },
+  { key: 'servicii',          color: null },
+  { key: 'despre',            color: null },
+  { key: 'contact',           color: null },
+  { key: 'blog',              color: null },
+];
+
+const LABELS = {
+  acasa: 'Acasă',
+  'tamplarie-pvc': 'Tâmplărie PVC',
+  'tamplarie-aluminiu': 'Tâmplărie Aluminiu',
+  accesorii: 'Accesorii',
+  servicii: 'Servicii',
+  despre: 'Despre',
+  contact: 'Contact',
+  blog: 'Blog',
+};
+
 export default function Header() {
-  const t   = useTranslations('nav');
-  const loc = useLocale();
-  const path = usePathname();
+  const locale = useLocale();
+  const pathname = usePathname();
   const [open, setOpen] = useState(false);
 
-  const sw = (l) => { const s = path.split('/'); s[1] = l.toLowerCase(); return s.join('/'); };
-
-  const links = [
-    { href:`/${loc}/tamplarie-pvc`,      label:t('pvc'),       active:'pvc' },
-    { href:`/${loc}/tamplarie-aluminiu`, label:t('aluminiu'),  active:'aluminiu' },
-    { href:`/${loc}/accesorii`,          label:t('accesorii'), active:'accesorii' },
-    { href:`/${loc}/servicii`,           label:t('servicii'),  active:null },
-    { href:`/${loc}/despre`,             label:t('despre'),    active:null },
-    { href:`/${loc}/contact`,            label:t('contact'),   active:null },
-  ];
-
-  const hoverColor = (a) => {
-    if (a==='pvc')       return 'hover:text-pvc hover:border-pvc';
-    if (a==='aluminiu')  return 'hover:text-aluminiu hover:border-aluminiu';
-    if (a==='accesorii') return 'hover:text-accesorii hover:border-accesorii';
-    return 'hover:text-primary hover:border-primary';
+  const href = (key) => key === 'acasa' ? `/${locale}` : `/${locale}/${key}`;
+  const switchLocale = (l) => {
+    const parts = pathname.split('/');
+    parts[1] = l.toLowerCase();
+    return parts.join('/');
   };
 
   return (
-    <header className="bg-white sticky top-0 z-50 shadow-[0_1px_0_#e5e5e5]">
-      {/* topbar */}
-      <div className="bg-[#111]">
-        <div className="container mx-auto px-6 h-9 flex items-center justify-between">
-          <div className="flex items-center gap-5 text-[0.68rem] text-gray-400 tracking-wide">
-            <a href="tel:+40215280661"  className="hover:text-white transition-colors duration-200">+40 21 528 0661</a>
-            <a href="tel:+40752443435"  className="hover:text-white transition-colors duration-200 hidden sm:block">Oferte: +40 752 443 435</a>
-            <a href="tel:+40752443439"  className="hover:text-white transition-colors duration-200 hidden lg:block">Export: +40 752 443 439</a>
+    <header style={{background:'#fff', boxShadow:'0 1px 0 #e5e5e5', position:'sticky', top:0, zIndex:50}}>
+      <div className="container mx-auto px-6 flex justify-between items-stretch" style={{height:'60px'}}>
+
+        {/* Logo */}
+        <Link href={`/${locale}`} className="flex items-center gap-3 flex-shrink-0">
+          <div>
+            <div className="font-condensed font-semibold tracking-widest uppercase leading-none" style={{fontSize:'1.1rem', color:'#1a1a1a', letterSpacing:'0.15em'}}>
+              NEOFORT
+            </div>
+            <div className="font-condensed tracking-wider uppercase leading-none mt-0.5" style={{fontSize:'0.6rem', color:'#999', letterSpacing:'0.12em'}}>
+              Tâmplărie PVC · Aluminiu
+            </div>
           </div>
-          <div className="flex items-center gap-3">
-            {LOCALES.map(l=>(
-              <a key={l} href={sw(l)}
-                className={`text-[0.68rem] tracking-[0.15em] transition-colors duration-200 ${loc.toUpperCase()===l ? 'text-white font-semibold' : 'text-gray-500 hover:text-white'}`}>
+        </Link>
+
+        {/* Desktop nav */}
+        <nav className="hidden lg:flex items-stretch gap-0">
+          {NAV.map(({ key, color }) => (
+            <NavLink key={key} href={href(key)} label={LABELS[key]} color={color} />
+          ))}
+          {/* Lang switcher */}
+          <div className="flex items-center gap-3 pl-6 ml-4 border-l border-[#e5e5e5]">
+            {LOCALES.map(l => (
+              <a key={l} href={switchLocale(l)}
+                className="font-condensed font-semibold transition-colors duration-150"
+                style={{
+                  fontSize:'0.62rem',
+                  letterSpacing:'0.12em',
+                  color: locale.toUpperCase() === l ? '#1a1a1a' : '#bbb',
+                }}>
+                {l}
+              </a>
+            ))}
+          </div>
+        </nav>
+
+        {/* Hamburger */}
+        <button className="lg:hidden flex flex-col justify-center gap-1.5 p-2" onClick={() => setOpen(!open)}>
+          <span className={`block w-5 h-px bg-primary transition-all duration-200 ${open ? 'rotate-45 translate-y-1.5' : ''}`} style={{background:'#1a1a1a'}}/>
+          <span className={`block w-5 h-px transition-opacity ${open ? 'opacity-0' : ''}`} style={{background:'#1a1a1a'}}/>
+          <span className={`block w-5 h-px transition-all duration-200 ${open ? '-rotate-45 -translate-y-1.5' : ''}`} style={{background:'#1a1a1a'}}/>
+        </button>
+      </div>
+
+      {/* Mobile menu */}
+      {open && (
+        <div className="lg:hidden border-t border-[#e5e5e5] px-6 py-4 flex flex-col gap-0 bg-white">
+          {NAV.map(({ key, color }) => (
+            <Link key={key} href={href(key)} onClick={() => setOpen(false)}
+              className="py-3 border-b border-[#f0f0f0] font-condensed font-semibold tracking-widest uppercase transition-colors duration-150"
+              style={{fontSize:'0.72rem', color:'#888', letterSpacing:'0.15em'}}>
+              {LABELS[key]}
+            </Link>
+          ))}
+          <div className="flex gap-4 pt-4">
+            {LOCALES.map(l => (
+              <a key={l} href={switchLocale(l)}
+                className="font-condensed font-semibold"
+                style={{fontSize:'0.62rem', letterSpacing:'0.12em', color: locale.toUpperCase()===l ? '#1a1a1a' : '#bbb'}}>
                 {l}
               </a>
             ))}
           </div>
         </div>
-      </div>
-
-      {/* nav */}
-      <div className="container mx-auto px-6">
-        <div className="flex items-center justify-between h-[60px]">
-          <Link href={`/${loc}`} className="flex flex-col leading-none">
-            <span className="font-condensed text-[1.3rem] font-semibold tracking-[0.14em] text-primary uppercase">Neofort</span>
-            <span className="text-[0.58rem] tracking-[0.22em] text-muted uppercase font-normal mt-0.5">Tâmplărie PVC · Aluminiu</span>
-          </Link>
-
-          <nav className="hidden lg:flex items-stretch h-[60px]">
-            {links.map(l=>(
-              <Link key={l.href} href={l.href}
-                className={`flex items-center px-4 text-[0.7rem] tracking-[0.14em] uppercase font-semibold font-condensed text-muted border-b-2 border-transparent transition-all duration-200 ${hoverColor(l.active)}`}>
-                {l.label}
-              </Link>
-            ))}
-            <div className="flex items-center ml-5">
-              <Link href={`/${loc}/contact`}
-                className="bg-primary text-white font-condensed text-[0.7rem] tracking-[0.14em] uppercase font-semibold px-5 py-2.5 hover:bg-pvc transition-colors duration-200">
-                {t('oferta')}
-              </Link>
-            </div>
-          </nav>
-
-          <button className="lg:hidden p-2 flex flex-col gap-[5px]" onClick={()=>setOpen(!open)}>
-            <span className={`block w-5 h-px bg-primary transition-all duration-200 ${open?'rotate-45 translate-y-[6px]':''}`}/>
-            <span className={`block w-5 h-px bg-primary transition-opacity duration-200 ${open?'opacity-0':''}`}/>
-            <span className={`block w-5 h-px bg-primary transition-all duration-200 ${open?'-rotate-45 -translate-y-[6px]':''}`}/>
-          </button>
-        </div>
-      </div>
-
-      {open && (
-        <div className="lg:hidden border-t border-border bg-white">
-          <div className="container mx-auto px-6 py-3 flex flex-col">
-            {links.map(l=>(
-              <Link key={l.href} href={l.href} onClick={()=>setOpen(false)}
-                className="py-3 font-condensed text-[0.72rem] tracking-[0.14em] uppercase font-semibold text-muted border-b border-border last:border-0 hover:text-primary transition-colors">
-                {l.label}
-              </Link>
-            ))}
-            <Link href={`/${loc}/contact`} onClick={()=>setOpen(false)}
-              className="mt-4 bg-primary text-white font-condensed text-[0.7rem] tracking-[0.14em] uppercase font-semibold px-5 py-3 text-center hover:bg-pvc transition-colors duration-200">
-              {t('oferta')}
-            </Link>
-          </div>
-        </div>
       )}
     </header>
+  );
+}
+
+function NavLink({ href, label, color }) {
+  const [hovered, setHovered] = useState(false);
+  const hoverColor = color || '#1a1a1a';
+  return (
+    <Link href={href}
+      onMouseEnter={() => setHovered(true)}
+      onMouseLeave={() => setHovered(false)}
+      style={{
+        display: 'flex',
+        alignItems: 'center',
+        padding: '0 12px',
+        fontSize: '0.68rem',
+        fontFamily: 'Barlow Condensed, sans-serif',
+        fontWeight: 600,
+        letterSpacing: '0.15em',
+        textTransform: 'uppercase',
+        color: hovered ? hoverColor : '#999',
+        borderBottom: `2px solid ${hovered ? hoverColor : 'transparent'}`,
+        transition: 'color 0.15s ease, border-color 0.15s ease',
+        textDecoration: 'none',
+      }}>
+      {label}
+    </Link>
   );
 }
