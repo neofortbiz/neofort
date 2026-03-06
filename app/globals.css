@@ -2,32 +2,154 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,500;0,600;1,300&family=Barlow+Condensed:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&family=Barlow+Condensed:wght@400;500;600;700&display=swap');
 
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+*, *::before, *::after { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 
 body {
   font-family: 'Barlow', sans-serif;
-  font-weight: 300;
-  background: #ffffff;
+  font-weight: 400;
+  background: #fff;
   color: #1a1a1a;
   -webkit-font-smoothing: antialiased;
+  line-height: 1.6;
 }
 
-h1, h2, h3, h4, h5 {
+h1,h2,h3,h4 {
   font-family: 'Barlow Condensed', sans-serif;
-  font-weight: 500;
-  letter-spacing: 0.01em;
+  font-weight: 600;
+  line-height: 1.15;
 }
 
 .container { max-width: 1200px; margin: 0 auto; }
 
-/* product card hover lift */
-.card-hover {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+/* Card produs */
+.prod-card {
+  background: #fff;
+  border: 1px solid #e5e5e5;
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow 0.25s ease, border-color 0.25s ease;
 }
-.card-hover:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 40px rgba(0,0,0,0.10);
+.prod-card:hover { box-shadow: 0 8px 32px rgba(0,0,0,0.10); }
+.prod-card .card-img {
+  height: 220px;
+  background: #f6f6f4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-bottom: 1px solid #e5e5e5;
+}
+.prod-card .card-body { padding: 1.5rem; flex:1; display:flex; flex-direction:column; }
+.prod-card .card-specs { list-style: none; margin: 0.75rem 0 1.25rem; padding: 0; }
+.prod-card .card-specs li {
+  font-size: 0.72rem;
+  color: #777;
+  padding: 0.3rem 0;
+  border-bottom: 1px solid #f0f0f0;
+  letter-spacing: 0.03em;
+}
+.prod-card .card-specs li:last-child { border-bottom: none; }
+.prod-card .card-specs li strong { color: #1a1a1a; font-weight: 500; }
+.prod-card .card-btn {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  text-align: center;
+  font-size: 0.7rem;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  border: 1px solid #1a1a1a;
+  color: #1a1a1a;
+  background: transparent;
+  margin-top: auto;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+.prod-card .card-btn:hover { background: #1a1a1a; color: #fff; }
+
+/* Buton primar */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.75rem;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  background: #1a1a1a;
+  color: #fff;
+  border: 1px solid #1a1a1a;
+  transition: background 0.2s, color 0.2s;
+}
+.btn-primary:hover { background: transparent; color: #1a1a1a; }
+
+/* Buton outline */
+.btn-outline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.75rem;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  background: transparent;
+  color: #1a1a1a;
+  border: 1px solid #1a1a1a;
+  transition: background 0.2s, color 0.2s;
+}
+.btn-outline:hover { background: #1a1a1a; color: #fff; }
+
+/* Section label */
+.sec-label {
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+/* Page header band */
+.page-header {
+  background: #f6f6f4;
+  border-bottom: 1px solid #e5e5e5;
+  padding: 3.5rem 0 3rem;
+}
+
+/* Tag inline */
+.tag {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+/* Spec item (folosit în servicii) */
+.spec-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 5px 0;
+  border-bottom: 1px solid #f0f0f0;
+  font-size: 0.78rem;
+  color: #666;
+}
+.spec-item:last-child { border-bottom: none; }
+.spec-dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #ccc;
+  margin-top: 7px;
+  flex-shrink: 0;
 }

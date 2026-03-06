@@ -10,37 +10,72 @@ export async function generateMetadata({ params }) {
 export default function DesprePage() {
   return (
     <>
-      <section className="bg-primary text-white py-16">
-        <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl font-bold mb-4">Despre Neofort</h1>
-          <p className="text-gray-300">20 ani de excelență în tâmplărie PVC & Aluminiu</p>
+      <div className="page-header">
+        <div className="container mx-auto px-6">
+          <span className="sec-label">Neofort BIZ</span>
+          <h1 className="font-condensed text-4xl md:text-5xl font-semibold text-primary mb-3">Despre noi</h1>
+          <p className="text-[0.9rem] text-muted max-w-xl">20 ani de experiență neîntreruptă în tâmplărie PVC și aluminiu.</p>
         </div>
-      </section>
-      <section className="py-16">
-        <div className="container mx-auto px-4 max-w-4xl">
-          <div className="prose prose-lg max-w-none">
-            <h2 className="text-2xl font-bold text-primary mb-4">Cine suntem</h2>
-            <p className="text-gray-700 mb-6">Neofort BIZ este un producător și distribuitor autorizat de tâmplărie PVC Salamander și tâmplărie Aluminiu Alumil, cu sediul în București, România. Cu o experiență de peste 20 de ani pe piață, am furnizat produse premium clienților din România și din toată Europa.</p>
-            <h2 className="text-2xl font-bold text-primary mb-4">De ce Neofort</h2>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+      </div>
+
+      <section className="py-20 border-b border-border">
+        <div className="container mx-auto px-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
+            <div>
+              <span className="sec-label">Cine suntem</span>
+              <h2 className="font-condensed text-3xl font-semibold text-primary mb-6">Specialiști în tâmplărie PVC Salamander și aluminiu Alumil</h2>
+              <p className="text-[0.88rem] text-muted leading-relaxed mb-4">
+                Neofort BIZ este unul dintre furnizorii de referință de tâmplărie PVC și aluminiu din România, cu o activitate neîntreruptă de aproape două decenii. Furnizăm tâmplărie Aluminiu și PVC din gamele premium ale mărcilor <strong className="text-primary font-medium">Salamander</strong> și <strong className="text-primary font-medium">Alumil</strong>, executată pe linii de producție automatizate.
+              </p>
+              <p className="text-[0.88rem] text-muted leading-relaxed mb-4">
+                Produsele și serviciile noastre au ajuns în toată UE și sunt recunoscute pentru calitatea lor ireproșabilă și prețurile competitive. Cu Neofort, aveți garanția unui raport excelent între calitate, utilitate și preț.
+              </p>
+              <p className="text-[0.88rem] text-muted leading-relaxed">
+                Marca Neofort este înregistrată la O.S.I.M. sub nr. <strong className="text-primary font-medium">M 2014 05130</strong>.
+              </p>
+            </div>
+            <div className="grid grid-cols-2 gap-6">
               {[
-                { title: '20+ ani experiență', desc: 'Prezență neîntreruptă pe piața tâmplăriei PVC și aluminiu din România.' },
-                { title: 'Marcă înregistrată OSIM', desc: 'Neofort BIZ - marcă înregistrată O.S.I.M. nr. M 2014 05130.' },
-                { title: 'Producător autorizat', desc: 'Tâmplărie produsă pe linii de producție automatizate de ultimă generație.' },
-                { title: 'Export European', desc: 'Livrăm în toată Comunitatea Europeană cu ambalare și paletizare profesională.' },
-              ].map((item, i) => (
-                <div key={i} className="bg-light rounded-xl p-6">
-                  <h3 className="font-bold text-primary mb-2">{item.title}</h3>
-                  <p className="text-gray-600 text-sm">{item.desc}</p>
+                { n:'20+', l:'Ani pe piață' },
+                { n:'50%+', l:'Clienți fideli' },
+                { n:'UE',   l:'Livrare europeană' },
+                { n:'6',    l:'Limbi suport' },
+              ].map(({n,l})=>(
+                <div key={l} className="border border-border p-8 flex flex-col justify-center">
+                  <div className="font-condensed text-4xl font-semibold text-primary">{n}</div>
+                  <div className="text-[0.7rem] tracking-[0.15em] text-muted uppercase mt-2">{l}</div>
                 </div>
               ))}
             </div>
-            <div className="text-center">
-              <Link href="../contact" className="bg-accent text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-500 transition-colors">
-                Contactează-ne
-              </Link>
-            </div>
           </div>
+        </div>
+      </section>
+
+      <section className="py-20 bg-light border-b border-border">
+        <div className="container mx-auto px-6">
+          <span className="sec-label">Valorile noastre</span>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-5 mt-4">
+            {[
+              { title:'Prețuri competitive',    desc:'Lucrăm permanent la raportul calitate–preț–utilitate.' },
+              { title:'Consultanță inovatoare', desc:'Cele mai noi și performante soluții tehnice din domeniu.' },
+              { title:'Calitate garantată',     desc:'Garanție completă pe produse și montaj, fără compromisuri.' },
+              { title:'Experiență dovedită',    desc:'De aproape două decenii prezent pe piața tâmplăriei premium.' },
+            ].map((item,i)=>(
+              <div key={i} className="bg-white border border-border p-7">
+                <h3 className="font-condensed text-[1rem] font-semibold text-primary mb-3">{item.title}</h3>
+                <p className="text-[0.8rem] text-muted leading-relaxed">{item.desc}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="py-16 bg-[#111]">
+        <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+          <h2 className="font-condensed text-2xl md:text-3xl font-semibold text-white">Contactați-ne pentru o ofertă personalizată</h2>
+          <Link href="../contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 shrink-0">
+            Cerere Ofertă
+          </Link>
         </div>
       </section>
     </>

@@ -1,19 +1,46 @@
-export const metadata = { title: 'Politică GDPR | Neofort BIZ', description: 'Politica de confidențialitate și protecția datelor personale - Neofort BIZ.' };
+import { getTranslations } from 'next-intl/server';
+
+export async function generateMetadata({ params }) {
+  const { locale } = await params;
+  return { title: 'GDPR · Neofort BIZ', description: 'Politica de confidențialitate și prelucrarea datelor cu caracter personal.' };
+}
+
 export default function GdprPage() {
   return (
-    <section className="py-16">
-      <div className="container mx-auto px-4 max-w-3xl">
-        <h1 className="text-3xl font-bold text-primary mb-8">Politică GDPR</h1>
-        <div className="prose prose-lg text-gray-700 space-y-4">
-          <p>Neofort BIZ respectă confidențialitatea datelor dvs. personale conform Regulamentului (UE) 2016/679 (GDPR).</p>
-          <h2 className="text-xl font-bold text-primary">Date colectate</h2>
-          <p>Colectăm date personale (nume, telefon, email, adresă) exclusiv pentru procesarea cererilor de ofertă și comunicarea cu clienții noștri.</p>
-          <h2 className="text-xl font-bold text-primary">Utilizarea datelor</h2>
-          <p>Datele sunt utilizate exclusiv pentru scopul declarat și nu sunt transmise terților fără consimțământul dvs.</p>
-          <h2 className="text-xl font-bold text-primary">Contact DPO</h2>
-          <p>Pentru exercitarea drepturilor GDPR: <a href="mailto:comenzi@neofort-biz.ro" className="text-accent hover:underline">comenzi@neofort-biz.ro</a></p>
+    <>
+      <div className="page-header">
+        <div className="container mx-auto px-6">
+          <span className="sec-label">Neofort BIZ</span>
+          <h1 className="font-condensed text-4xl font-semibold text-primary mb-3">Politica GDPR</h1>
+          <p className="text-[0.9rem] text-muted">Prelucrarea datelor cu caracter personal conform Regulamentului UE 2016/679.</p>
         </div>
       </div>
-    </section>
+      <section className="py-20">
+        <div className="container mx-auto px-6 max-w-3xl">
+          <div className="prose prose-sm max-w-none space-y-8 text-[0.88rem] text-muted leading-relaxed">
+            <div>
+              <h2 className="font-condensed text-xl font-semibold text-primary mb-3">1. Operator de date</h2>
+              <p>Neofort BIZ, Str. Theodor Aman Pictor 11, Sector 1, București 010776, România. E-mail: oferte@neofort-biz.ro</p>
+            </div>
+            <div>
+              <h2 className="font-condensed text-xl font-semibold text-primary mb-3">2. Date colectate</h2>
+              <p>Colectăm datele furnizate voluntar prin formularul de contact: nume, telefon, adresă de e-mail, detalii cerere. Nu colectăm date sensibile.</p>
+            </div>
+            <div>
+              <h2 className="font-condensed text-xl font-semibold text-primary mb-3">3. Scopul prelucrării</h2>
+              <p>Datele sunt utilizate exclusiv pentru elaborarea ofertelor solicitate, comunicarea comercială aferentă și executarea contractelor.</p>
+            </div>
+            <div>
+              <h2 className="font-condensed text-xl font-semibold text-primary mb-3">4. Drepturile persoanei vizate</h2>
+              <p>Aveți dreptul de acces, rectificare, ștergere, restricționare, portabilitate și opoziție. Cererea se transmite la oferte@neofort-biz.ro.</p>
+            </div>
+            <div>
+              <h2 className="font-condensed text-xl font-semibold text-primary mb-3">5. Stocare și securitate</h2>
+              <p>Datele sunt stocate pe servere securizate în UE și nu sunt transferate către terți în afara UE fără consimțământul explicit al persoanei vizate.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </>
   );
 }
