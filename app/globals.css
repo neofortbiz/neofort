@@ -116,3 +116,127 @@ img,video{max-width:100%;height:auto}
   .site-header,.site-footer,.cta-section{display:none}
   body{font-size:12pt;color:#000}
 }
+
+/* ── HOMEPAGE RESPONSIVE ── */
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  max-width: 860px;
+  margin: 0 auto;
+}
+.hero-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 36px;
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  text-decoration: none;
+}
+.intro-grid-title {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 56px;
+  align-items: start;
+}
+.intro-grid-texts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 56px;
+  margin-top: 20px;
+}
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  border: 1px solid #e8e8e8;
+  margin-top: 48px;
+}
+.cards-home-grid {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 14px;
+  margin-top: 8px;
+}
+.steps-grid-home {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  border: 1px solid #e8e8e8;
+}
+.why-grid-home {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 72px;
+  align-items: start;
+}
+.why-cards-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.cta-inner-home {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+.cta-btns-home {
+  display: flex;
+  gap: 10px;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  /* Hero */
+  .hero-grid {
+    grid-template-columns: 1fr;
+    max-width: 100%;
+  }
+  /* Intro */
+  .intro-grid-title {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+  .intro-grid-title > div:last-child { display: none; }
+  .intro-grid-texts {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  /* Stats */
+  .stats-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .stats-grid > div:nth-child(2) { border-right: none; }
+  .stats-grid > div:nth-child(3) { border-top: 1px solid #e8e8e8; }
+  .stats-grid > div:nth-child(4) { border-top: 1px solid #e8e8e8; border-right: none; }
+  /* Cards */
+  .cards-home-grid {
+    grid-template-columns: 1fr;
+  }
+  /* Steps */
+  .steps-grid-home {
+    grid-template-columns: 1fr;
+  }
+  .step-item { border-right: none !important; border-bottom: 1px solid #e8e8e8; }
+  .step-item:last-child { border-bottom: none; }
+  /* Why */
+  .why-grid-home {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+  .why-cards-grid {
+    grid-template-columns: 1fr;
+  }
+  .why-card-item { border-right: none !important; }
+  /* CTA */
+  .cta-inner-home {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .cta-btns-home {
+    flex-direction: column;
+    width: 100%;
+  }
+  .cta-btns-home .btn { text-align: center; }
+}
