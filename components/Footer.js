@@ -47,7 +47,7 @@ export default function Footer() {
 
           <div className="footer-col-contact">
             <div className="footer-col-title">Contact</div>
-            <p style={{fontSize:'.73rem',fontWeight:300,color:'#555',marginBottom:'10px',lineHeight:1.6}}>
+            <p style={{fontSize:'.73rem',fontWeight:300,color:'#aaa',marginBottom:'10px',lineHeight:1.6}}>
               Str. Theodor Aman 11<br/>Sector 1, București 010776
             </p>
             {[['Oferte','+40 752 443 435','tel:+40752443435'],['Export','+40 752 443 439','tel:+40752443439'],['E-mail','oferte@neofort-biz.ro','mailto:oferte@neofort-biz.ro']].map(([label,val,href])=>(
