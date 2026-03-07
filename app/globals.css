@@ -300,8 +300,12 @@ img,video{max-width:100%;height:auto}
   .font-condensed.text-2xl {
     font-size: 1.3rem !important;
   }
-  h1, h2 {
-    font-size: clamp(1.4rem, 5vw, 2rem) !important;
+  h1 {
+    font-size: clamp(1.15rem, 3.8vw, 1.5rem) !important;
+    line-height: 1.2 !important;
+  }
+  h2 {
+    font-size: clamp(1.05rem, 3.5vw, 1.4rem) !important;
     line-height: 1.2 !important;
   }
   .page-header {
