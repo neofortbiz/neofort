@@ -284,3 +284,27 @@ img,video{max-width:100%;height:auto}
     text-align: center; 
   }
 }
+
+/* ── TITLURI MOBILE ── */
+@media (max-width: 768px) {
+  .page-header h1,
+  .font-condensed.text-4xl,
+  .font-condensed.text-5xl,
+  .font-condensed.text-6xl {
+    font-size: 1.8rem !important;
+    line-height: 1.2 !important;
+  }
+  .font-condensed.text-3xl {
+    font-size: 1.5rem !important;
+  }
+  .font-condensed.text-2xl {
+    font-size: 1.3rem !important;
+  }
+  h1, h2 {
+    font-size: clamp(1.4rem, 5vw, 2rem) !important;
+    line-height: 1.2 !important;
+  }
+  .page-header {
+    padding: 36px 0 28px !important;
+  }
+}

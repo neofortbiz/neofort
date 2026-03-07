@@ -14,7 +14,7 @@ export default function DesprePage() {
         <div className="container mx-auto px-6">
           <span className="sec-label">Neofort BIZ</span>
           <h1 className="font-condensed text-4xl md:text-5xl font-semibold text-primary mb-3">Despre noi</h1>
-          <p className="text-[0.9rem] text-muted max-w-xl">20 ani de experiență neîntreruptă în tâmplărie PVC și aluminiu.</p>
+          <p className="text-[0.9rem] text-muted max-w-xl">21 ani de experiență neîntreruptă în tâmplărie PVC și aluminiu.</p>
         </div>
       </div>
 

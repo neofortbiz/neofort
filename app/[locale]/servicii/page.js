@@ -47,7 +47,7 @@ const SERVICII = [
   {
     id:'04', slug:'montaj', color:'#4a7c59',
     title:'Montaj profesional',
-    short:'Echipe specializate cu experiență de peste 20 ani. Garanție completă.',
+    short:'Echipe specializate cu experiență de peste 21 ani. Garanție completă.',
     desc:'Executăm montaje cu profesioniști cu vastă experiență în domeniu. Garantăm calitatea montajelor de tâmplărie la orice nivel de complexitate. Montajul include izolarea perimetrală cu bandă precomprimată, precadre și folii antivapori.',
     specs:[
       ['Experiență','20+ ani echipe specializate'],
@@ -90,7 +90,7 @@ export default function ServiciiPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
               <span className="sec-label">De ce să alegi Neofort?</span>
-              <h2 className="font-condensed text-3xl font-semibold text-primary mb-4">Suntem pe piață de 20 ani cu activitate neîntreruptă</h2>
+              <h2 className="font-condensed text-3xl font-semibold text-primary mb-4">Suntem pe piață de 21 ani cu activitate neîntreruptă</h2>
               <p className="text-[0.88rem] text-muted leading-relaxed">
                 Peste 50% din comenzi vin din recomandări sau de la clienți care revin constant. Implementăm cele mai noi și performante soluții tehnice. Executăm lucrări cu grad mare de complexitate și îmbunătățim permanent raportul calitate–utilitate–preț.
               </p>
