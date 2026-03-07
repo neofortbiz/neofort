@@ -240,3 +240,30 @@ img,video{max-width:100%;height:auto}
   }
   .cta-btns-home .btn { text-align: center; }
 }
+
+/* ── CTA SECTION MOBILE ── */
+@media (max-width: 768px) {
+  .cta-section .container { text-align: center; }
+  .cta-section .cta-inner-home { align-items: center; }
+  .cta-btns-home { width: 100%; }
+  .cta-btns-home .btn { width: 100%; text-align: center; display: block; }
+}
+
+/* ── CTA UNIVERSAL MOBILE (toate paginile) ── */
+@media (max-width: 768px) {
+  section[style*="background:#111"] .container,
+  section[style*="background: #111"] .container {
+    text-align: center;
+  }
+  section[style*="background:#111"] .container > div,
+  section[style*="background: #111"] .container > div {
+    align-items: center !important;
+    flex-direction: column !important;
+  }
+  section[style*="background:#111"] .container a,
+  section[style*="background: #111"] .container a {
+    width: 100%;
+    text-align: center;
+    display: block;
+  }
+}
