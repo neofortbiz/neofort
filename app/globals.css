@@ -89,7 +89,7 @@ img,video{max-width:100%;height:auto}
 .footer-links a{font-size:.74rem;font-weight:300;color:#bbb;text-decoration:none;transition:color .15s}
 .footer-links a:hover{color:#fff}
 .footer-contact-row{display:flex;justify-content:space-between;align-items:center;padding:7px 0;border-bottom:1px solid #1a1a1a}
-.footer-contact-label{font-family:'Barlow Condensed',sans-serif;font-size:.58rem;letter-spacing:.16em;text-transform:uppercase;color:#333}
+.footer-contact-label{font-family:'Barlow Condensed',sans-serif;font-size:.58rem;letter-spacing:.16em;text-transform:uppercase;color:#bbb}
 .footer-contact-val{font-size:.73rem;font-weight:300;color:#bbb;text-decoration:none;transition:color .15s}
 .footer-contact-val:hover{color:#fff}
 .footer-langs{display:flex;gap:9px;margin-top:18px;flex-wrap:wrap}
