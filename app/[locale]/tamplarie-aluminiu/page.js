@@ -155,7 +155,7 @@ export default function TamplaieAluminiuPage() {
       </section>
 
       <section className="py-14 bg-[#111]">
-        <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+        <div className="container mx-auto px-6 flex flex-col items-center text-center gap-6 md:flex-row md:justify-between md:text-left">
           <h2 className="font-condensed text-2xl md:text-3xl font-semibold text-white">Cereți ofertă pentru tâmplărie aluminiu</h2>
           <a href="../contact" className="bg-aluminiu text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-blue-800 transition-colors duration-200 shrink-0">
             Cerere Ofertă

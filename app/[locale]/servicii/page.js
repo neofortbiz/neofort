@@ -163,13 +163,13 @@ export default function ServiciiPage() {
       </section>
 
       {/* CTA */}
-      <section className="py-16 bg-[#111]">
-        <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
+      <section className="py-16 bg-[#111] cta-section">
+        <div className="container mx-auto px-6 flex flex-col items-center text-center gap-6 md:flex-row md:justify-between md:text-left">
           <div>
             <h2 className="font-condensed text-2xl md:text-3xl font-semibold text-white">Solicitați o ofertă</h2>
             <p className="text-[0.82rem] text-gray-500 mt-1">Consultanță gratuită · Răspuns în aceeași zi</p>
           </div>
-          <div className="flex flex-col sm:flex-row gap-3 shrink-0">
+          <div className="flex flex-col w-full sm:w-auto sm:flex-row gap-3 shrink-0">
             <Link href="../contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 text-center">
               Cerere Ofertă
             </Link>

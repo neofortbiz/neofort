@@ -267,3 +267,20 @@ img,video{max-width:100%;height:auto}
     display: block;
   }
 }
+
+/* ── CTA CENTRAT MOBILE ── */
+.cta-section { text-align: left; }
+@media (max-width: 768px) {
+  .cta-section { text-align: center; }
+  .cta-section h2 { text-align: center; }
+  .cta-section span { text-align: center; display: block; }
+  .cta-section > div > div { 
+    flex-direction: column !important; 
+    align-items: center !important; 
+  }
+  .cta-section .btn { 
+    width: 100%; 
+    display: block; 
+    text-align: center; 
+  }
+}
