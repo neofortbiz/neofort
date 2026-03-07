@@ -32,8 +32,7 @@ export default function Header() {
       <div className="header-inner">
         {/* Logo */}
         <Link href={`/${locale}`} className="site-logo">
-          <span className="logo-main">NEOFORT</span>
-          <span className="logo-sub">Tâmplărie PVC · Aluminiu</span>
+          <img src="/Neofort.avif" alt="Neofort BIZ" className="site-logo-img"/>
         </Link>
 
         {/* Desktop nav */}
