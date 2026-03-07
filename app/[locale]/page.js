@@ -57,7 +57,7 @@ export default function HomePage() {
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#4a7c59',display:'block',marginBottom:'14px'}}>Profile PVC Salamander</span>
                 <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.4625rem, 5vw, 2.6625rem)',color:'#1a1a1a',lineHeight:1.15,marginBottom:'18px'}}>Tâmplărie<br/><strong style={{fontWeight:600}}>PVC Salamander</strong></h2>
-                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>Eficiență energetică nZEB și design atemporal pentru proiecte rezidențiale de top. BluEvolution 92 · GreenEvolution 76 · 6 camere.</p>
+                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>Eficiență energetică nZEB și design atemporal pentru proiecte rezidențiale de top. BluEvolution 92 placat cu Aluminiu · GreenEvolution 76 · 6 camere.</p>
                 <span className="btn btn-pvc">VEZI PROFILE</span>
               </div>
             </Link>
@@ -66,7 +66,7 @@ export default function HomePage() {
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d5a8e',display:'block',marginBottom:'14px'}}>Profile Aluminiu Alumil</span>
                 <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.4625rem, 5vw, 2.6625rem)',color:'#1a1a1a',lineHeight:1.15,marginBottom:'18px'}}>Tâmplărie<br/><strong style={{fontWeight:600}}>Aluminiu Alumil</strong></h2>
-                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>Suprafețe vitrate mari și durabilitate extremă pentru arhitectura contemporană. S77 Supreme · S67 Smartia · SF85.</p>
+                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>Suprafețe vitrate mari și durabilitate extremă pentru arhitectura contemporană. S77 Supreme · S67 Smartia · SF85 Supreme · Pereți Cortină din Aluminiu.</p>
                 <span className="btn btn-aluminiu">VEZI SISTEME</span>
               </div>
             </Link>
@@ -96,7 +96,7 @@ export default function HomePage() {
             {[['21+','Ani activitate neîntreruptă'],['nZEB','Certificate conformitate'],['50%+','Clienți recurenți'],['UE','Livrare Europa']].map(([n,l],i)=>(
               <div key={l} style={{padding:'24px 20px',textAlign:'center',borderRight:i<3?'1px solid #e8e8e8':'none'}}>
                 <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#1a1a1a',lineHeight:1}}>{n}</div>
-                <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#ccc',marginTop:'5px',lineHeight:1.3}}>{l}</div>
+                <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#888',marginTop:'5px',lineHeight:1.3}}>{l}</div>
               </div>
             ))}
           </div>
@@ -109,9 +109,9 @@ export default function HomePage() {
           <span className="sec-label">Produse & Servicii</span>
           <div className="cards-home-grid">
             {[
-              {href:'tamplarie-pvc',topColor:'#4a7c59',tagColor:'#4a7c59',tag:'Tâmplărie PVC Salamander',title:'Profile PVC Salamander',desc:'Furnizăm tâmplărie PVC Salamander BluEvolution 92 și GreenEvolution 76 din gamele premium, executată pe linii automatizate și certificată nZEB.',btn:'card-btn card-btn-pvc'},
-              {href:'tamplarie-aluminiu',topColor:'#2d5a8e',tagColor:'#2d5a8e',tag:'Tâmplărie Aluminiu Alumil',title:'Sisteme Aluminiu Alumil',desc:'Furnizăm aluminiu Alumil Supreme și Smartia — sisteme cu barieră termică pentru ferestre, uși, lifturi glisante și pereți cortină, certificate nZEB.',btn:'card-btn card-btn-aluminiu'},
-              {href:'accesorii',topColor:'#e8721c',tagColor:'#e8721c',tag:'Accesorii pentru Tâmplărie',title:'Izolare Perimetrală',desc:'Bandă butilică, precadre Blaugelb Triotherm+, folie anticondens, rulouri aluminiu, jaluzele Raffstore, geam termopan Saint Gobain warm-edge.',btn:'card-btn card-btn-accesorii'},
+              {href:'tamplarie-pvc',topColor:'#4a7c59',tagColor:'#4a7c59',tag:'Tâmplărie PVC Salamander',title:'Profile PVC Salamander',desc:'Furnizăm tâmplărie PVC Salamander BluEvolution 92 și GreenEvolution 76 din gamele premium, executată pe linii automatizate și compatibilă nZEB.',btn:'card-btn card-btn-pvc'},
+              {href:'tamplarie-aluminiu',topColor:'#2d5a8e',tagColor:'#2d5a8e',tag:'Tâmplărie Aluminiu Alumil',title:'Sisteme Aluminiu Alumil',desc:'Furnizăm aluminiu Alumil Supreme și Smartia — sisteme cu barieră termică pentru ferestre, uși, liftant glisante, culisante și pereți cortină, certificate nZEB.',btn:'card-btn card-btn-aluminiu'},
+              {href:'accesorii',topColor:'#e8721c',tagColor:'#e8721c',tag:'Accesorii pentru Tâmplărie',title:'Izolare Perimetrală',desc:'Bandă butilică, precadre Blaugelb Triotherm+, folie anticondens, rulouri exterioare din aluminiu, jaluzele Raffstore, geam termopan Saint Gobain warm-edge.',btn:'card-btn card-btn-accesorii'},
             ].map(p=>(
               <Link key={p.href} href={p.href} className="prod-card" style={{borderTop:`3px solid ${p.topColor}`,textDecoration:'none'}}>
                 <div style={{padding:'22px 22px 24px',display:'flex',flexDirection:'column',flex:1}}>
@@ -138,7 +138,7 @@ export default function HomePage() {
           </div>
           <div className="steps-grid-home">
             {[
-              {n:'01',title:'Elaborare ofertă',desc:'Transmiteți cererea prin formularul de contact, e-mail sau telefon & WhatsApp. Răspundem în aceeași zi lucrătoare.'},
+              {n:'01',title:'Elaborare ofertă',desc:'Transmiteți cererea prin formularul de contact, e-mail sau telefon & WhatsApp. Răspundem în maxim 2 zile lucrătoare.'},
               {n:'02',title:'Consultare & Măsurătoare',desc:'Stabilim configurația, tipul de profil, culoare, geam și accesorii. Programăm măsurătorile și elaborăm oferta finală.'},
               {n:'03',title:'Transport & Montaj',desc:'Fabricare 2–4 săptămâni, transport asigurat în toată UE, montaj profesional cu izolare perimetrală și certificat de garanție.'},
             ].map((s,i)=>(
@@ -163,7 +163,7 @@ export default function HomePage() {
             <div className="why-cards-grid">
               {[
                 {title:'Prețuri accesibile',desc:'Lucrăm permanent la raportul calitate–preț–utilitate și venim cu oferte câștigătoare.'},
-                {title:'Soluții inovatoare',desc:'Profile Salamander, sisteme Alumil, soluții nZEB și izolare perimetrală avansată.'},
+                {title:'Soluții inovatoare',desc:'Profile Salamander, sisteme Alumil, soluții nZEB și izolare hidro, termică și fonică avansată.'},
                 {title:'Calitate garantată',desc:'Peste 50% din comenzi vin din recomandări sau de la clienți care revin constant.'},
                 {title:'21 ani experiență',desc:'De peste două decenii activi în piața tâmplăriei PVC Salamander și aluminiu Alumil.'},
               ].map((item,i)=>(
@@ -183,7 +183,7 @@ export default function HomePage() {
           <div className="cta-inner-home">
             <div>
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6625rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'8px'}}>Contactați-ne</span>
-              <h2 className='home-h2-cta' style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.1625rem, 3.5vw, 1.7625rem)',color:'#fff',lineHeight:1.2}}>Solicitați o ofertă gratuită<br/>pentru tâmplărie PVC sau aluminiu</h2>
+              <h2 className='home-h2-cta' style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.1625rem, 3.5vw, 1.7625rem)',color:'#fff',lineHeight:1.2}}>Solicitați o ofertă de preț<br/>pentru tâmplărie PVC sau aluminiu</h2>
             </div>
             <div className="cta-btns-home">
               <Link href="contact" className="btn btn-green">CERERE OFERTĂ</Link>
