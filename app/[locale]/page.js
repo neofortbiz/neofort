@@ -57,7 +57,7 @@ export default function HomePage() {
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.62rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#4a7c59',display:'block',marginBottom:'14px'}}>Profile PVC Salamander</span>
                 <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.4rem, 5vw, 2.6rem)',color:'#1a1a1a',lineHeight:1.15,marginBottom:'18px'}}>Tâmplărie<br/><strong style={{fontWeight:600}}>PVC Salamander</strong></h2>
-                <p style={{fontSize:'.8rem',fontWeight:300,color:'#999',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>Eficiență energetică nZEB și design atemporal pentru proiecte rezidențiale de top. BluEvolution 92 · GreenEvolution 76 · 6 camere.</p>
+                <p style={{fontSize:'.8rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>Eficiență energetică nZEB și design atemporal pentru proiecte rezidențiale de top. BluEvolution 92 · GreenEvolution 76 · 6 camere.</p>
                 <span className="btn btn-pvc">VEZI PROFILE</span>
               </div>
             </Link>
@@ -66,7 +66,7 @@ export default function HomePage() {
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.62rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d5a8e',display:'block',marginBottom:'14px'}}>Profile Aluminiu Alumil</span>
                 <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.4rem, 5vw, 2.6rem)',color:'#1a1a1a',lineHeight:1.15,marginBottom:'18px'}}>Tâmplărie<br/><strong style={{fontWeight:600}}>Aluminiu Alumil</strong></h2>
-                <p style={{fontSize:'.8rem',fontWeight:300,color:'#999',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>Suprafețe vitrate mari și durabilitate extremă pentru arhitectura contemporană. S77 Supreme · S67 Smartia · SF85.</p>
+                <p style={{fontSize:'.8rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>Suprafețe vitrate mari și durabilitate extremă pentru arhitectura contemporană. S77 Supreme · S67 Smartia · SF85.</p>
                 <span className="btn btn-aluminiu">VEZI SISTEME</span>
               </div>
             </Link>
@@ -85,10 +85,10 @@ export default function HomePage() {
             <div/>
           </div>
           <div className="intro-grid-texts">
-            <p style={{fontSize:'.82rem',fontWeight:300,color:'#999',lineHeight:1.75,textAlign:'justify'}}>
+            <p style={{fontSize:'.82rem',fontWeight:300,color:'#767676',lineHeight:1.75,textAlign:'justify'}}>
               Alegerea între <strong style={{color:'#1a1a1a',fontWeight:500}}>tâmplărie PVC Salamander</strong> și <strong style={{color:'#1a1a1a',fontWeight:500}}>tâmplărie aluminiu Alumil</strong> este definitorie pentru eficiența energetică a oricărei construcții moderne. La Neofort BIZ integrăm tehnologia de vârf cu designul minimalist pentru bariere termice de neegalat. Profilele noastre sunt certificate <strong style={{color:'#1a1a1a',fontWeight:500}}>nZEB (Nearly Zero Energy Building)</strong>, asigurând o economie reală la costurile de încălzire. Completăm fiecare instalare cu <strong style={{color:'#1a1a1a',fontWeight:500}}>precadre Blaugelb Triotherm+</strong>, <strong style={{color:'#1a1a1a',fontWeight:500}}>bandă butilică etanșare</strong>, <strong style={{color:'#1a1a1a',fontWeight:500}}>benzi etanșare vapori</strong> și <strong style={{color:'#1a1a1a',fontWeight:500}}>baghete warm-edge</strong> pentru un sistem termoizolator complet și durabil, conform standardelor europene.
             </p>
-            <p style={{fontSize:'.82rem',fontWeight:300,color:'#999',lineHeight:1.75,textAlign:'justify'}}>
+            <p style={{fontSize:'.82rem',fontWeight:300,color:'#767676',lineHeight:1.75,textAlign:'justify'}}>
               Fie că optați pentru robustețea sistemelor de <strong style={{color:'#1a1a1a',fontWeight:500}}>aluminiu Alumil cu barieră termică</strong> sau pentru izolarea fonică superioară a <strong style={{color:'#1a1a1a',fontWeight:500}}>ferestrelor PVC Salamander</strong>, echipa noastră oferă consultanță tehnică dedicată și montaj profesional. Gama noastră include <strong style={{color:'#1a1a1a',fontWeight:500}}>geam termoizolator 2 foi</strong> și <strong style={{color:'#1a1a1a',fontWeight:500}}>geam termoizolator 3 foi</strong>, <strong style={{color:'#1a1a1a',fontWeight:500}}>profile de renovare</strong>, <strong style={{color:'#1a1a1a',fontWeight:500}}>pervazuri de interior și exterior</strong>, <strong style={{color:'#1a1a1a',fontWeight:500}}>jaluzele venețiene Raffstore</strong>, <strong style={{color:'#1a1a1a',fontWeight:500}}>rulouri exterioare aluminiu</strong>, <strong style={{color:'#1a1a1a',fontWeight:500}}>sisteme glisante</strong>, <strong style={{color:'#1a1a1a',fontWeight:500}}>uși de intrare premium</strong> și <strong style={{color:'#1a1a1a',fontWeight:500}}>uși de garaj</strong> — tot ce aveți nevoie pentru o locuință modernă, eficientă energetic și conformă cu cele mai exigente standarde de confort termic și fonic.
             </p>
           </div>
@@ -117,7 +117,7 @@ export default function HomePage() {
                 <div style={{padding:'22px 22px 24px',display:'flex',flexDirection:'column',flex:1}}>
                   <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:p.tagColor,display:'block',marginBottom:'9px'}}>{p.tag}</span>
                   <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.95rem',color:'#1a1a1a',marginBottom:'9px',letterSpacing:'.02em'}}>{p.title}</h3>
-                  <p style={{fontSize:'.76rem',fontWeight:300,color:'#999',lineHeight:1.7,flex:1,textAlign:'justify',marginBottom:'18px'}}>{p.desc}</p>
+                  <p style={{fontSize:'.76rem',fontWeight:300,color:'#767676',lineHeight:1.7,flex:1,textAlign:'justify',marginBottom:'18px'}}>{p.desc}</p>
                   <span className={p.btn}>DETALII →</span>
                 </div>
               </Link>
@@ -145,7 +145,7 @@ export default function HomePage() {
               <div key={s.n} className="step-item" style={{padding:'36px 32px',borderRight:i<2?'1px solid #e8e8e8':'none'}}>
                 <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'clamp(1.6rem, 4vw, 2.4rem)',color:'#ebebeb',lineHeight:1,marginBottom:'20px'}}>{s.n}</div>
                 <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.95rem',color:'#1a1a1a',marginBottom:'10px'}}>{s.title}</h3>
-                <p style={{fontSize:'.78rem',fontWeight:300,color:'#999',lineHeight:1.7,textAlign:'justify'}}>{s.desc}</p>
+                <p style={{fontSize:'.78rem',fontWeight:300,color:'#767676',lineHeight:1.7,textAlign:'justify'}}>{s.desc}</p>
               </div>
             ))}
           </div>
@@ -169,7 +169,7 @@ export default function HomePage() {
               ].map((item,i)=>(
                 <div key={i} className="why-card-item" style={{padding:'20px 18px',borderTop:'1px solid #e8e8e8',borderRight:i%2===0?'1px solid #e8e8e8':'none'}}>
                   <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.8rem',letterSpacing:'.06em',textTransform:'uppercase',color:'#1a1a1a',marginBottom:'7px'}}>{item.title}</h3>
-                  <p style={{fontSize:'.76rem',fontWeight:300,color:'#999',lineHeight:1.7,textAlign:'justify'}}>{item.desc}</p>
+                  <p style={{fontSize:'.76rem',fontWeight:300,color:'#767676',lineHeight:1.7,textAlign:'justify'}}>{item.desc}</p>
                 </div>
               ))}
             </div>
