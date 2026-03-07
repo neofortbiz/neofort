@@ -182,7 +182,7 @@ export default function HomePage() {
         <div className="container">
           <div className="cta-inner-home">
             <div>
-              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6625rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#555',display:'block',marginBottom:'8px'}}>Contactați-ne</span>
+              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6625rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'8px'}}>Contactați-ne</span>
               <h2 className='home-h2-cta' style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.1625rem, 3.5vw, 1.7625rem)',color:'#fff',lineHeight:1.2}}>Solicitați o ofertă gratuită<br/>pentru tâmplărie PVC sau aluminiu</h2>
             </div>
             <div className="cta-btns-home">
