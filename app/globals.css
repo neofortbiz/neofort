@@ -315,3 +315,26 @@ img,video{max-width:100%;height:auto}
     padding: 36px 0 28px !important;
   }
 }
+
+/* ── HOMEPAGE HERO HEADINGS MOBILE ── */
+.hero-card h2 {
+  font-size: 2.6rem;
+}
+@media (max-width: 768px) {
+  .hero-card h2 {
+    font-size: 1.6rem !important;
+    line-height: 1.15 !important;
+  }
+  .intro-grid-title h2,
+  .why-grid-home h2,
+  .steps-grid-home ~ div h2 {
+    font-size: 1.4rem !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .home-h2-intro { font-size: 1.4rem !important; }
+  .home-h2-steps { font-size: 1.4rem !important; }
+  .home-h2-why   { font-size: 1.4rem !important; }
+  .home-h2-cta   { font-size: 1.3rem !important; }
+}

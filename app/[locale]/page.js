@@ -56,7 +56,7 @@ export default function HomePage() {
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'.62rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#bbb'}}>Tehnologie Germană</span>
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.62rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#4a7c59',display:'block',marginBottom:'14px'}}>Profile PVC Salamander</span>
-                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'2.6rem',color:'#1a1a1a',lineHeight:1.08,marginBottom:'18px'}}>Tâmplărie<br/><strong style={{fontWeight:600}}>PVC Salamander</strong></h2>
+                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.4rem, 5vw, 2.6rem)',color:'#1a1a1a',lineHeight:1.15,marginBottom:'18px'}}>Tâmplărie<br/><strong style={{fontWeight:600}}>PVC Salamander</strong></h2>
                 <p style={{fontSize:'.8rem',fontWeight:300,color:'#999',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>Eficiență energetică nZEB și design atemporal pentru proiecte rezidențiale de top. BluEvolution 92 · GreenEvolution 76 · 6 camere.</p>
                 <span className="btn btn-pvc">VEZI PROFILE</span>
               </div>
@@ -65,7 +65,7 @@ export default function HomePage() {
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'.62rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#bbb'}}>Arhitectură Modernă</span>
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.62rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d5a8e',display:'block',marginBottom:'14px'}}>Profile Aluminiu Alumil</span>
-                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'2.6rem',color:'#1a1a1a',lineHeight:1.08,marginBottom:'18px'}}>Tâmplărie<br/><strong style={{fontWeight:600}}>Aluminiu Alumil</strong></h2>
+                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.4rem, 5vw, 2.6rem)',color:'#1a1a1a',lineHeight:1.15,marginBottom:'18px'}}>Tâmplărie<br/><strong style={{fontWeight:600}}>Aluminiu Alumil</strong></h2>
                 <p style={{fontSize:'.8rem',fontWeight:300,color:'#999',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>Suprafețe vitrate mari și durabilitate extremă pentru arhitectura contemporană. S77 Supreme · S67 Smartia · SF85.</p>
                 <span className="btn btn-aluminiu">VEZI SISTEME</span>
               </div>
@@ -80,7 +80,7 @@ export default function HomePage() {
           <div className="intro-grid-title">
             <div>
               <span className="sec-label">Excelență în Tâmplărie Termoizolantă</span>
-              <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.9rem',color:'#1a1a1a',lineHeight:1.2,marginBottom:'0',letterSpacing:'.01em'}}>Tâmplărie PVC Salamander<br/>și Aluminiu Alumil</h2>
+              <h2 className='home-h2-intro' style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2rem, 4vw, 1.9rem)',color:'#1a1a1a',lineHeight:1.2,marginBottom:'0',letterSpacing:'.01em'}}>Tâmplărie PVC Salamander<br/>și Aluminiu Alumil</h2>
             </div>
             <div/>
           </div>
@@ -132,7 +132,7 @@ export default function HomePage() {
           <div style={{display:'flex',justifyContent:'space-between',alignItems:'flex-end',marginBottom:'36px',flexWrap:'wrap',gap:'16px'}}>
             <div>
               <span className="sec-label">Cum lucrăm</span>
-              <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'2rem',color:'#1a1a1a'}}>Etapele colaborării</h2>
+              <h2 className='home-h2-steps' style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2rem, 4vw, 2rem)',color:'#1a1a1a'}}>Etapele colaborării</h2>
             </div>
             <p style={{fontSize:'.78rem',fontWeight:300,color:'#bbb',maxWidth:'220px',textAlign:'right',lineHeight:1.6}}>Claritate în 3 pași. Specialiștii noștri vă însoțesc în fiecare etapă.</p>
           </div>
@@ -143,7 +143,7 @@ export default function HomePage() {
               {n:'03',title:'Transport & Montaj',desc:'Fabricare 2–4 săptămâni, transport asigurat în toată UE, montaj profesional cu izolare perimetrală și certificat de garanție.'},
             ].map((s,i)=>(
               <div key={s.n} className="step-item" style={{padding:'36px 32px',borderRight:i<2?'1px solid #e8e8e8':'none'}}>
-                <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'2.4rem',color:'#ebebeb',lineHeight:1,marginBottom:'20px'}}>{s.n}</div>
+                <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'clamp(1.6rem, 4vw, 2.4rem)',color:'#ebebeb',lineHeight:1,marginBottom:'20px'}}>{s.n}</div>
                 <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.95rem',color:'#1a1a1a',marginBottom:'10px'}}>{s.title}</h3>
                 <p style={{fontSize:'.78rem',fontWeight:300,color:'#999',lineHeight:1.7,textAlign:'justify'}}>{s.desc}</p>
               </div>
@@ -158,7 +158,7 @@ export default function HomePage() {
           <div className="why-grid-home">
             <div>
               <span className="sec-label">De ce Neofort BIZ</span>
-              <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'2.2rem',color:'#1a1a1a',lineHeight:1.2}}>Calitate și angajamente<br/>fără compromisuri</h2>
+              <h2 className='home-h2-why' style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2rem, 4vw, 2.2rem)',color:'#1a1a1a',lineHeight:1.2}}>Calitate și angajamente<br/>fără compromisuri</h2>
             </div>
             <div className="why-cards-grid">
               {[
@@ -183,7 +183,7 @@ export default function HomePage() {
           <div className="cta-inner-home">
             <div>
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#555',display:'block',marginBottom:'8px'}}>Contactați-ne</span>
-              <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.7rem',color:'#fff',lineHeight:1.2}}>Solicitați o ofertă gratuită<br/>pentru tâmplărie PVC sau aluminiu</h2>
+              <h2 className='home-h2-cta' style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.1rem, 3.5vw, 1.7rem)',color:'#fff',lineHeight:1.2}}>Solicitați o ofertă gratuită<br/>pentru tâmplărie PVC sau aluminiu</h2>
             </div>
             <div className="cta-btns-home">
               <Link href="contact" className="btn btn-green">CERERE OFERTĂ</Link>
