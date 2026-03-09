@@ -442,18 +442,18 @@ export default async function HomePage({ params }) {
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#bbb'}}>{c.hero_pvc_tag}</span>
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#4a7c59',display:'block',marginBottom:'14px'}}>{c.hero_pvc_label}</span>
-                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.1rem, 3.2vw, 1.7rem)',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_pvc_title}</h2>
+                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.35rem',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_pvc_title}</h2>
                 <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_pvc_desc}</p>
-                <span className="btn btn-pvc">{c.hero_pvc_btn}</span>
+                <span className="btn btn-pvc" style={{display:'block',textAlign:'center'}}>{c.hero_pvc_btn}</span>
               </div>
             </Link>
             <Link href="tamplarie-aluminiu" className="hero-card">
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#bbb'}}>{c.hero_al_tag}</span>
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d5a8e',display:'block',marginBottom:'14px'}}>{c.hero_al_label}</span>
-                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.1rem, 3.2vw, 1.7rem)',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_al_title}</h2>
+                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.35rem',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_al_title}</h2>
                 <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_al_desc}</p>
-                <span className="btn btn-aluminiu">{c.hero_al_btn}</span>
+                <span className="btn btn-aluminiu" style={{display:'block',textAlign:'center'}}>{c.hero_al_btn}</span>
               </div>
             </Link>
           </div>
