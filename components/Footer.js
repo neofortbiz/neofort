@@ -126,7 +126,7 @@ export default function Footer() {
                 <div className="form-grid">
 
                   {/* Col 1 — Departamente */}
-                  <div className="form-col form-col-dept" style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
+                  <div className="form-col form-col-dept form-col-dept-order" style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>Departamente</span>
                     {[
                       ['Office','+40 21 528 06 61','tel:+40215280661'],
