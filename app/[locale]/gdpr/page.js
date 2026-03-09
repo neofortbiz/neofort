@@ -1,8 +1,20 @@
 import { getTranslations } from 'next-intl/server';
 
+const BASE = 'https://www.neofort-biz.ro';
+const SLUGS_GDPR = {ro:'gdpr',en:'privacy-policy',de:'datenschutz',fr:'politique-confidentialite',es:'politica-privacidad',it:'informativa-privacy'};
+
 export async function generateMetadata({ params }) {
   const { locale } = await params;
-  return { title: 'GDPR · Neofort BIZ', description: 'Politica de confidențialitate și prelucrarea datelor cu caracter personal.' };
+  const slug = SLUGS_GDPR[locale] || SLUGS_GDPR.ro;
+  return {
+    title: 'GDPR · Neofort BIZ',
+    description: 'Politica de confidențialitate și prelucrarea datelor cu caracter personal.',
+    robots: { index: false, follow: false },
+    alternates: {
+      canonical: `${BASE}/${locale}/${slug}`,
+      languages: Object.fromEntries(Object.entries(SLUGS_GDPR).map(([l,s])=>[l,`${BASE}/${l}/${s}`])),
+    },
+  };
 }
 
 export default function GdprPage() {

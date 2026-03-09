@@ -1,10 +1,38 @@
 import { getTranslations } from 'next-intl/server';
-import Link from 'next/link';
+import { Link } from '../../../i18n/navigation';
+
+const BASE = 'https://www.neofort-biz.ro';
+const SLUGS_DESPRE = {'ro':'despre', 'en':'about', 'de':'ueber-uns', 'fr':'a-propos', 'es':'sobre-nosotros', 'it':'chi-siamo'};
 
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'despre' });
-  return { title: t('title'), description: t('description') };
+  const slug = SLUGS_DESPRE[locale] || SLUGS_DESPRE.ro;
+  return {
+    title: t('title'),
+    description: t('description'),
+    robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
+    alternates: {
+      canonical: `${BASE}/${locale}/${slug}`,
+      languages: {
+        'ro': `${BASE}/ro/${SLUGS_DESPRE.ro}`,
+        'en': `${BASE}/en/${SLUGS_DESPRE.en}`,
+        'de': `${BASE}/de/${SLUGS_DESPRE.de}`,
+        'fr': `${BASE}/fr/${SLUGS_DESPRE.fr}`,
+        'es': `${BASE}/es/${SLUGS_DESPRE.es}`,
+        'it': `${BASE}/it/${SLUGS_DESPRE.it}`,
+        'x-default': `${BASE}/ro/${SLUGS_DESPRE.ro}`,
+      },
+    },
+    openGraph: {
+      type: 'website',
+      url: `${BASE}/${locale}/${slug}`,
+      siteName: 'Neofort BIZ',
+      title: t('title'),
+      description: t('description'),
+      images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
+    },
+  };
 }
 
 export default function DesprePage() {
@@ -73,7 +101,7 @@ export default function DesprePage() {
       <section className="py-16 bg-[#111] cta-section">
         <div className="container mx-auto px-6 flex flex-col items-center text-center gap-6 md:flex-row md:justify-between md:text-left">
           <h2 className="font-condensed text-2xl md:text-3xl font-semibold text-white">Contactați-ne pentru o ofertă personalizată</h2>
-          <Link href="../contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 shrink-0">
+          <Link href="/contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 shrink-0">
             Cerere Ofertă
           </Link>
         </div>

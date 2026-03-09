@@ -1,19 +1,9 @@
 'use client';
-import Link from 'next/link';
 import { useLocale, useTranslations } from 'next-intl';
-import { usePathname } from 'next/navigation';
 import { useState } from 'react';
+import { Link, usePathname } from '../i18n/navigation';
 
 const LOCALES = [['ro','RO'],['en','EN'],['de','DE'],['fr','FR'],['es','ES'],['it','IT']];
-
-const SLUGS = {
-  ro: { pvc:'tamplarie-pvc', aluminiu:'tamplarie-aluminiu', accesorii:'accesorii', servicii:'servicii', despre:'despre', contact:'contact', gdpr:'gdpr' },
-  en: { pvc:'pvc-windows', aluminiu:'aluminium-windows', accesorii:'accessories', servicii:'services', despre:'about', contact:'contact', gdpr:'privacy-policy' },
-  de: { pvc:'kunststofffenster-pvc', aluminiu:'aluminiumfenster', accesorii:'zubehoer', servicii:'dienstleistungen', despre:'ueber-uns', contact:'kontakt', gdpr:'datenschutz' },
-  fr: { pvc:'menuiserie-pvc', aluminiu:'menuiserie-aluminium', accesorii:'accessoires', servicii:'services', despre:'a-propos', contact:'contact', gdpr:'politique-confidentialite' },
-  es: { pvc:'carpinteria-pvc', aluminiu:'carpinteria-aluminio', accesorii:'accesorios', servicii:'servicios', despre:'sobre-nosotros', contact:'contacto', gdpr:'politica-privacidad' },
-  it: { pvc:'infissi-pvc', aluminiu:'infissi-alluminio', accesorii:'accessori', servicii:'servizi', despre:'chi-siamo', contact:'contatti', gdpr:'informativa-privacy' },
-};
 
 const EMPTY_ERR = { nume:'', telefon:'', email:'', comanda:'', adresa:'', gdpr:'' };
 
@@ -23,8 +13,6 @@ export default function Footer() {
   const tf = useTranslations('footer');
   const tn = useTranslations('nav');
   const pathname = usePathname();
-  const s = SLUGS[locale] || SLUGS.ro;
-  const switchLocale = (l) => { const p = pathname.split('/'); p[1] = l; return p.join('/'); };
 
   const [files, setFiles] = useState([]);
   const [gdpr, setGdpr] = useState(false);
@@ -258,9 +246,9 @@ export default function Footer() {
                     />
                     <label htmlFor="gdpr-cb" style={{fontFamily:'Barlow,sans-serif',fontSize:'.76rem',fontWeight:300,color: err.gdpr ? '#e05252' : '#888',lineHeight:1.6,cursor:'pointer'}}>
                       {ft.gdpr_text}{' '}
-                      <Link href={`/${locale}/${s.gdpr}`} style={{color: err.gdpr ? '#e05252' : '#bbb',textDecoration:'underline'}}>{ft.gdpr_priv}</Link>
+                      <Link href="/gdpr" style={{color: err.gdpr ? '#e05252' : '#bbb',textDecoration:'underline'}}>{ft.gdpr_priv}</Link>
                       {' '}{ft.gdpr_and}{' '}
-                      <Link href={`/${locale}/${s.gdpr}`} style={{color: err.gdpr ? '#e05252' : '#bbb',textDecoration:'underline'}}>{ft.gdpr_cook}</Link>
+                      <Link href="/gdpr" style={{color: err.gdpr ? '#e05252' : '#bbb',textDecoration:'underline'}}>{ft.gdpr_cook}</Link>
                       {' '}{ft.gdpr_of}
                     </label>
                   </div>
@@ -333,19 +321,19 @@ export default function Footer() {
           <div className="footer-col-2" style={{borderLeft:'1px solid #1e1e1e'}}>
             <div className="footer-col-title">{col.products}</div>
             <ul className="footer-links">
-              <li><Link href={`/${locale}/${s.pvc}`}>{col.pvc}</Link></li>
-              <li><Link href={`/${locale}/${s.aluminiu}`}>{col.aluminiu}</Link></li>
-              <li><Link href={`/${locale}/${s.accesorii}`}>{col.accesorii}</Link></li>
+              <li><Link href="/tamplarie-pvc">{col.pvc}</Link></li>
+              <li><Link href="/tamplarie-aluminiu">{col.aluminiu}</Link></li>
+              <li><Link href="/accesorii">{col.accesorii}</Link></li>
             </ul>
           </div>
           <div className="footer-col-3" style={{borderLeft:'1px solid #1e1e1e'}}>
             <div className="footer-col-title">{col.info}</div>
             <ul className="footer-links">
-              <li><Link href={`/${locale}/${s.servicii}`}>{col.servicii}</Link></li>
-              <li><Link href={`/${locale}/${s.despre}`}>{col.despre}</Link></li>
-              <li><Link href={`/${locale}/blog`}>{col.blog}</Link></li>
-              <li><Link href={`/${locale}/${s.gdpr}`}>{col.gdpr}</Link></li>
-              <li><Link href={`/${locale}/${s.gdpr}`}>{col.cookies}</Link></li>
+              <li><Link href="/servicii">{col.servicii}</Link></li>
+              <li><Link href="/despre">{col.despre}</Link></li>
+              <li><Link href="/blog">{col.blog}</Link></li>
+              <li><Link href="/gdpr">{col.gdpr}</Link></li>
+              <li><Link href="/gdpr">{col.cookies}</Link></li>
             </ul>
           </div>
           <div className="footer-col-4" style={{borderLeft:'1px solid #1e1e1e'}}>
@@ -365,7 +353,7 @@ export default function Footer() {
             <a href="https://maps.app.goo.gl/aujfwVBEKvfhnsdS6" target="_blank" rel="noopener noreferrer" className="maps-link">{col.maps}</a>
             <div className="footer-langs" style={{marginTop:'20px'}}>
               {LOCALES.map(([code,label])=>(
-                <a key={code} href={switchLocale(code)} className={`footer-lang ${locale===code?'active':''}`}>{label}</a>
+                <Link key={code} href={pathname} locale={code} className={`footer-lang ${locale===code?'active':''}`}>{label}</Link>
               ))}
             </div>
           </div>

@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { Link } from '../../../i18n/navigation';
 import { ARTICLES } from '../../../data/blog.js';
 
 const BASE = 'https://www.neofort-biz.ro';
@@ -171,7 +171,7 @@ export default async function BlogPage({ params }) {
         <div className="container">
 
           {/* FEATURED — primul articol */}
-          <Link href={`/${locale}/blog/${featured.slug}`} className="blog-featured">
+          <Link href={`/blog/${featured.slug}`} className="blog-featured">
             {/* Imagine */}
             <div className="blog-featured-img" style={{background: featured.imageBg}}>
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'3.5rem',fontWeight:300,color:'rgba(255,255,255,.15)',letterSpacing:'.06em',textAlign:'center',padding:'0 32px',lineHeight:1.2,userSelect:'none'}}>
@@ -223,7 +223,7 @@ export default async function BlogPage({ params }) {
               const rt      = a.readTime[locale] || a.readTime.ro;
               const date    = a.dateDisplay[locale] || a.dateDisplay.ro;
               return (
-                <Link key={a.slug} href={`/${locale}/blog/${a.slug}`} className="blog-card">
+                <Link key={a.slug} href={`/blog/${a.slug}`} className="blog-card">
                   <div className="blog-card-img" style={{background: a.imageBg}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'2rem',fontWeight:300,color:'rgba(255,255,255,.15)',letterSpacing:'.06em',userSelect:'none'}}>
                       {a.imageLabel}

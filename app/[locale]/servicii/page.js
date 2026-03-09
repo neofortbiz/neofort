@@ -1,10 +1,38 @@
 import { getTranslations } from 'next-intl/server';
-import Link from 'next/link';
+import { Link } from '../../../i18n/navigation';
+
+const BASE = 'https://www.neofort-biz.ro';
+const SLUGS_SERVICII = {'ro':'servicii', 'en':'services', 'de':'dienstleistungen', 'fr':'services', 'es':'servicios', 'it':'servizi'};
 
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'servicii' });
-  return { title: t('title'), description: t('description') };
+  const slug = SLUGS_SERVICII[locale] || SLUGS_SERVICII.ro;
+  return {
+    title: t('title'),
+    description: t('description'),
+    robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
+    alternates: {
+      canonical: `${BASE}/${locale}/${slug}`,
+      languages: {
+        'ro': `${BASE}/ro/${SLUGS_SERVICII.ro}`,
+        'en': `${BASE}/en/${SLUGS_SERVICII.en}`,
+        'de': `${BASE}/de/${SLUGS_SERVICII.de}`,
+        'fr': `${BASE}/fr/${SLUGS_SERVICII.fr}`,
+        'es': `${BASE}/es/${SLUGS_SERVICII.es}`,
+        'it': `${BASE}/it/${SLUGS_SERVICII.it}`,
+        'x-default': `${BASE}/ro/${SLUGS_SERVICII.ro}`,
+      },
+    },
+    openGraph: {
+      type: 'website',
+      url: `${BASE}/${locale}/${slug}`,
+      siteName: 'Neofort BIZ',
+      title: t('title'),
+      description: t('description'),
+      images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
+    },
+  };
 }
 
 const SERVICII = [
@@ -170,7 +198,7 @@ export default function ServiciiPage() {
             <p className="text-[0.82rem] text-gray-500 mt-1">Consultanță gratuită · Răspuns în aceeași zi</p>
           </div>
           <div className="flex flex-col w-full sm:w-auto sm:flex-row gap-3 shrink-0">
-            <Link href="../contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 text-center">
+            <Link href="/contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 text-center">
               Cerere Ofertă
             </Link>
             <a href="tel:+40752443435" className="border border-gray-700 text-gray-400 font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:border-white hover:text-white transition-all duration-200 text-center">

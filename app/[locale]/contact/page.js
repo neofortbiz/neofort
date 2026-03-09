@@ -1,9 +1,37 @@
 import { getTranslations } from 'next-intl/server';
 
+const BASE = 'https://www.neofort-biz.ro';
+const SLUGS_CONTACT = {'ro':'contact', 'en':'contact', 'de':'kontakt', 'fr':'contact', 'es':'contacto', 'it':'contatti'};
+
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'contact' });
-  return { title: t('title'), description: t('description') };
+  const slug = SLUGS_CONTACT[locale] || SLUGS_CONTACT.ro;
+  return {
+    title: t('title'),
+    description: t('description'),
+    robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
+    alternates: {
+      canonical: `${BASE}/${locale}/${slug}`,
+      languages: {
+        'ro': `${BASE}/ro/${SLUGS_CONTACT.ro}`,
+        'en': `${BASE}/en/${SLUGS_CONTACT.en}`,
+        'de': `${BASE}/de/${SLUGS_CONTACT.de}`,
+        'fr': `${BASE}/fr/${SLUGS_CONTACT.fr}`,
+        'es': `${BASE}/es/${SLUGS_CONTACT.es}`,
+        'it': `${BASE}/it/${SLUGS_CONTACT.it}`,
+        'x-default': `${BASE}/ro/${SLUGS_CONTACT.ro}`,
+      },
+    },
+    openGraph: {
+      type: 'website',
+      url: `${BASE}/${locale}/${slug}`,
+      siteName: 'Neofort BIZ',
+      title: t('title'),
+      description: t('description'),
+      images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
+    },
+  };
 }
 
 export default function ContactPage() {

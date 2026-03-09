@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { Link } from '../../../../i18n/navigation';
 import { ARTICLES, getArticle, getAllSlugs } from '../../../../data/blog.js';
 import { notFound } from 'next/navigation';
 
@@ -224,9 +224,9 @@ export default async function ArticlePage({ params }) {
       <div style={{background:'#f7f7f5',borderBottom:'1px solid #e8e8e8',padding:'10px 0'}}>
         <div className="container">
           <nav aria-label="breadcrumb" style={{display:'flex',alignItems:'center',gap:'6px',flexWrap:'wrap'}}>
-            <Link href={`/${locale}`} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>Acasă</Link>
+            <Link href="/" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>Acasă</Link>
             <span style={{color:'#ddd',fontSize:'.7rem'}}>›</span>
-            <Link href={`/${locale}/blog`} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>Blog</Link>
+            <Link href="/blog" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>Blog</Link>
             <span style={{color:'#ddd',fontSize:'.7rem'}}>›</span>
             <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#999'}}>{cat}</span>
           </nav>
@@ -269,7 +269,7 @@ export default async function ArticlePage({ params }) {
                 Echipa Neofort BIZ oferă consultanță tehnică gratuită. Contactați-ne pentru o ofertă personalizată.
               </p>
               <div className="article-cta-btns" style={{display:'flex',gap:'12px',flexWrap:'wrap'}}>
-                <Link href={`/${locale}/contact`} className="btn btn-green" style={{fontSize:'.64rem'}}>SOLICITĂ OFERTĂ</Link>
+                <Link href="/contact" className="btn btn-green" style={{fontSize:'.64rem'}}>SOLICITĂ OFERTĂ</Link>
                 <a href="https://wa.me/40752443435" target="_blank" rel="noopener" className="btn" style={{fontSize:'.64rem',borderColor:'#555',color:'#555'}}>WHATSAPP</a>
               </div>
             </div>
@@ -283,7 +283,7 @@ export default async function ArticlePage({ params }) {
               <p style={{fontSize:'0.8rem',fontWeight:300,color:'#767676',lineHeight:1.7,marginBottom:'16px'}}>
                 Producător tâmplărie PVC Salamander și aluminiu Alumil. 21 ani experiență, livrare Europa.
               </p>
-              <Link href={`/${locale}/contact`} className="btn btn-green" style={{fontSize:'.62rem',display:'block',textAlign:'center'}}>SOLICITĂ OFERTĂ</Link>
+              <Link href="/contact" className="btn btn-green" style={{fontSize:'.62rem',display:'block',textAlign:'center'}}>SOLICITĂ OFERTĂ</Link>
             </div>
 
             {/* Articole recomandate */}
@@ -293,7 +293,7 @@ export default async function ArticlePage({ params }) {
                 const rt2 = r.title[locale] || r.title.ro;
                 const rc  = r.category[locale] || r.category.ro;
                 return (
-                  <Link key={r.slug} href={`/${locale}/blog/${r.slug}`} style={{textDecoration:'none',display:'block',marginBottom:'14px',paddingBottom:'14px',borderBottom:'1px solid #f0f0f0'}}>
+                  <Link key={r.slug} href={`/blog/${r.slug}`} style={{textDecoration:'none',display:'block',marginBottom:'14px',paddingBottom:'14px',borderBottom:'1px solid #f0f0f0'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.57rem',letterSpacing:'.16em',textTransform:'uppercase',color:r.accentColor,display:'block',marginBottom:'4px'}}>{rc}</span>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.9rem',color:'#1a1a1a',lineHeight:1.3,display:'block'}}>{rt2}</span>
                   </Link>

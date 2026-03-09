@@ -1,10 +1,38 @@
 import { getTranslations } from 'next-intl/server';
-import Link from 'next/link';
+import { Link } from '../../../i18n/navigation';
+
+const BASE = 'https://www.neofort-biz.ro';
+const SLUGS_TAMPLARIE_PVC = {'ro':'tamplarie-pvc', 'en':'pvc-windows', 'de':'kunststofffenster-pvc', 'fr':'menuiserie-pvc', 'es':'carpinteria-pvc', 'it':'infissi-pvc'};
 
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'pvc' });
-  return { title: t('title'), description: t('description') };
+  const slug = SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro;
+  return {
+    title: t('title'),
+    description: t('description'),
+    robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
+    alternates: {
+      canonical: `${BASE}/${locale}/${slug}`,
+      languages: {
+        'ro': `${BASE}/ro/${SLUGS_TAMPLARIE_PVC.ro}`,
+        'en': `${BASE}/en/${SLUGS_TAMPLARIE_PVC.en}`,
+        'de': `${BASE}/de/${SLUGS_TAMPLARIE_PVC.de}`,
+        'fr': `${BASE}/fr/${SLUGS_TAMPLARIE_PVC.fr}`,
+        'es': `${BASE}/es/${SLUGS_TAMPLARIE_PVC.es}`,
+        'it': `${BASE}/it/${SLUGS_TAMPLARIE_PVC.it}`,
+        'x-default': `${BASE}/ro/${SLUGS_TAMPLARIE_PVC.ro}`,
+      },
+    },
+    openGraph: {
+      type: 'website',
+      url: `${BASE}/${locale}/${slug}`,
+      siteName: 'Neofort BIZ',
+      title: t('title'),
+      description: t('description'),
+      images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
+    },
+  };
 }
 
 const PVC_PRODUCTS = [
@@ -128,9 +156,9 @@ export default function TamplariePVCPage() {
                     ))}
                   </ul>
                   <p className="text-[0.78rem] text-muted leading-relaxed mb-4">{p.desc}</p>
-                  <a href="../contact" className="card-btn hover:bg-pvc hover:border-pvc hover:text-white">
+                  <Link href="/contact" className="card-btn hover:bg-pvc hover:border-pvc hover:text-white">
                     DETALII
-                  </a>
+                  </Link>
                 </div>
               </div>
             ))}
@@ -160,9 +188,9 @@ export default function TamplariePVCPage() {
       <section className="py-14 bg-[#111]">
         <div className="container mx-auto px-6 flex flex-col items-center text-center gap-6 md:flex-row md:justify-between md:text-left">
           <h2 className="font-condensed text-2xl md:text-3xl font-semibold text-white">Cereți ofertă pentru tâmplărie PVC</h2>
-          <a href="../contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 shrink-0">
+          <Link href="/contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 shrink-0">
             Cerere Ofertă
-          </a>
+          </Link>
         </div>
       </section>
     </>

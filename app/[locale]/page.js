@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import { Link } from '../../i18n/navigation';
 
 const BASE = 'https://www.neofort-biz.ro';
 
@@ -35,9 +35,9 @@ const CONTENT = {
     stats: [['21+','Ani activitate neîntreruptă'],['nZEB','Certificate conformitate'],['50%+','Clienți recurenți'],['UE','Livrare Europa']],
     sec_products: 'Produse & Servicii',
     products: [
-      { href:'tamplarie-pvc', topColor:'#4a7c59', tag:'Tâmplărie PVC Salamander', title:'Profile PVC Salamander', desc:'Furnizăm tâmplărie PVC Salamander BluEvolution 92 și GreenEvolution 76 din gamele premium, executată pe linii automatizate și compatibilă nZEB.', btn:'card-btn card-btn-pvc' },
-      { href:'tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Tâmplărie Aluminiu Alumil', title:'Sisteme Aluminiu Alumil', desc:'Furnizăm aluminiu Alumil Supreme și Smartia — sisteme cu barieră termică pentru ferestre, uși, liftant glisante, culisante și pereți cortină, certificate nZEB.', btn:'card-btn card-btn-aluminiu' },
-      { href:'accesorii', topColor:'#e8721c', tag:'Accesorii pentru Tâmplărie', title:'Izolare Perimetrală', desc:'Bandă butilică, precadre Blaugelb Triotherm+, folie anticondens, rulouri exterioare din aluminiu, jaluzele Raffstore, geam termopan Saint-Gobain warm-edge.', btn:'card-btn card-btn-accesorii' },
+      { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Tâmplărie PVC Salamander', title:'Profile PVC Salamander', desc:'Furnizăm tâmplărie PVC Salamander BluEvolution 92 și GreenEvolution 76 din gamele premium, executată pe linii automatizate și compatibilă nZEB.', btn:'card-btn card-btn-pvc' },
+      { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Tâmplărie Aluminiu Alumil', title:'Sisteme Aluminiu Alumil', desc:'Furnizăm aluminiu Alumil Supreme și Smartia — sisteme cu barieră termică pentru ferestre, uși, liftant glisante, culisante și pereți cortină, certificate nZEB.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/accesorii', topColor:'#e8721c', tag:'Accesorii pentru Tâmplărie', title:'Izolare Perimetrală', desc:'Bandă butilică, precadre Blaugelb Triotherm+, folie anticondens, rulouri exterioare din aluminiu, jaluzele Raffstore, geam termopan Saint-Gobain warm-edge.', btn:'card-btn card-btn-accesorii' },
     ],
     sec_label_steps: 'Cum lucrăm',
     steps_h2: 'Etapele colaborării',
@@ -98,9 +98,9 @@ const CONTENT = {
     stats: [['21+','Years of activity'],['nZEB','Compliance certificates'],['50%+','Returning clients'],['EU','Europe delivery']],
     sec_products: 'Products & Services',
     products: [
-      { href:'tamplarie-pvc', topColor:'#4a7c59', tag:'PVC Salamander Windows', title:'Salamander PVC Profiles', desc:'We supply PVC Salamander BluEvolution 92 and GreenEvolution 76 windows from premium ranges, manufactured on automated lines and nZEB compatible.', btn:'card-btn card-btn-pvc' },
-      { href:'tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Aluminium Alumil Windows', title:'Alumil Aluminium Systems', desc:'We supply Alumil Supreme and Smartia aluminium — thermal barrier systems for windows, doors, lift-and-slide, sliding and curtain walls, nZEB certified.', btn:'card-btn card-btn-aluminiu' },
-      { href:'accesorii', topColor:'#e8721c', tag:'Window Accessories', title:'Perimeter Insulation', desc:'Butyl tape, Blaugelb Triotherm+ precasings, anti-condensation film, aluminium external shutters, Raffstore blinds, Saint-Gobain warm-edge thermal glass.', btn:'card-btn card-btn-accesorii' },
+      { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'PVC Salamander Windows', title:'Salamander PVC Profiles', desc:'We supply PVC Salamander BluEvolution 92 and GreenEvolution 76 windows from premium ranges, manufactured on automated lines and nZEB compatible.', btn:'card-btn card-btn-pvc' },
+      { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Aluminium Alumil Windows', title:'Alumil Aluminium Systems', desc:'We supply Alumil Supreme and Smartia aluminium — thermal barrier systems for windows, doors, lift-and-slide, sliding and curtain walls, nZEB certified.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/accesorii', topColor:'#e8721c', tag:'Window Accessories', title:'Perimeter Insulation', desc:'Butyl tape, Blaugelb Triotherm+ precasings, anti-condensation film, aluminium external shutters, Raffstore blinds, Saint-Gobain warm-edge thermal glass.', btn:'card-btn card-btn-accesorii' },
     ],
     sec_label_steps: 'How we work',
     steps_h2: 'Steps of our collaboration',
@@ -161,9 +161,9 @@ const CONTENT = {
     stats: [['21+','Jahre Erfahrung'],['nZEB','Zertifizierte Konformität'],['50%+','Stammkunden'],['EU','Europa-Lieferung']],
     sec_products: 'Produkte & Dienstleistungen',
     products: [
-      { href:'tamplarie-pvc', topColor:'#4a7c59', tag:'Kunststofffenster Salamander', title:'Salamander PVC-Profile', desc:'Wir liefern PVC Salamander BluEvolution 92 und GreenEvolution 76 Fenster aus den Premiumsortimenten, auf automatisierten Linien gefertigt und nZEB-kompatibel.', btn:'card-btn card-btn-pvc' },
-      { href:'tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Aluminiumfenster Alumil', title:'Alumil Aluminiumsysteme', desc:'Wir liefern Alumil Supreme und Smartia Aluminium — Wärmedämmsysteme für Fenster, Türen, Hebeschiebe, Schiebeanlagen und Vorhangfassaden, nZEB-zertifiziert.', btn:'card-btn card-btn-aluminiu' },
-      { href:'accesorii', topColor:'#e8721c', tag:'Fensterzubehör', title:'Perimeter-Dämmung', desc:'Butyl-Dichtband, Blaugelb Triotherm+ Vorfenster, Antikondensat-Folie, Aluminiumrollläden, Raffstore Jalousien, Saint-Gobain Warm-Edge Isolierglas.', btn:'card-btn card-btn-accesorii' },
+      { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Kunststofffenster Salamander', title:'Salamander PVC-Profile', desc:'Wir liefern PVC Salamander BluEvolution 92 und GreenEvolution 76 Fenster aus den Premiumsortimenten, auf automatisierten Linien gefertigt und nZEB-kompatibel.', btn:'card-btn card-btn-pvc' },
+      { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Aluminiumfenster Alumil', title:'Alumil Aluminiumsysteme', desc:'Wir liefern Alumil Supreme und Smartia Aluminium — Wärmedämmsysteme für Fenster, Türen, Hebeschiebe, Schiebeanlagen und Vorhangfassaden, nZEB-zertifiziert.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/accesorii', topColor:'#e8721c', tag:'Fensterzubehör', title:'Perimeter-Dämmung', desc:'Butyl-Dichtband, Blaugelb Triotherm+ Vorfenster, Antikondensat-Folie, Aluminiumrollläden, Raffstore Jalousien, Saint-Gobain Warm-Edge Isolierglas.', btn:'card-btn card-btn-accesorii' },
     ],
     sec_label_steps: 'Unsere Arbeitsweise',
     steps_h2: 'Ablauf der Zusammenarbeit',
@@ -224,9 +224,9 @@ const CONTENT = {
     stats: [['21+','Ans d\'activité'],['nZEB','Certifiés conformes'],['50%+','Clients fidèles'],['UE','Livraison Europe']],
     sec_products: 'Produits & Services',
     products: [
-      { href:'tamplarie-pvc', topColor:'#4a7c59', tag:'Menuiserie PVC Salamander', title:'Profilés PVC Salamander', desc:'Nous fournissons des menuiseries PVC Salamander BluEvolution 92 et GreenEvolution 76 des gammes premium, fabriquées sur lignes automatisées et compatibles nZEB.', btn:'card-btn card-btn-pvc' },
-      { href:'tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Menuiserie Aluminium Alumil', title:'Systèmes Aluminium Alumil', desc:'Nous fournissons aluminium Alumil Supreme et Smartia — systèmes à rupture thermique pour fenêtres, portes, levant-coulissant, coulissants et façades rideau, certifiés nZEB.', btn:'card-btn card-btn-aluminiu' },
-      { href:'accesorii', topColor:'#e8721c', tag:'Accessoires menuiserie', title:'Isolation périphérique', desc:'Bande butyle, précadres Blaugelb Triotherm+, film pare-vapeur, volets roulants aluminium, stores Raffstore, vitrage isolant Saint-Gobain warm-edge.', btn:'card-btn card-btn-accesorii' },
+      { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Menuiserie PVC Salamander', title:'Profilés PVC Salamander', desc:'Nous fournissons des menuiseries PVC Salamander BluEvolution 92 et GreenEvolution 76 des gammes premium, fabriquées sur lignes automatisées et compatibles nZEB.', btn:'card-btn card-btn-pvc' },
+      { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Menuiserie Aluminium Alumil', title:'Systèmes Aluminium Alumil', desc:'Nous fournissons aluminium Alumil Supreme et Smartia — systèmes à rupture thermique pour fenêtres, portes, levant-coulissant, coulissants et façades rideau, certifiés nZEB.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/accesorii', topColor:'#e8721c', tag:'Accessoires menuiserie', title:'Isolation périphérique', desc:'Bande butyle, précadres Blaugelb Triotherm+, film pare-vapeur, volets roulants aluminium, stores Raffstore, vitrage isolant Saint-Gobain warm-edge.', btn:'card-btn card-btn-accesorii' },
     ],
     sec_label_steps: 'Notre méthode de travail',
     steps_h2: 'Étapes de notre collaboration',
@@ -287,9 +287,9 @@ const CONTENT = {
     stats: [['21+','Años de actividad'],['nZEB','Certificados conformes'],['50%+','Clientes recurrentes'],['UE','Entrega Europa']],
     sec_products: 'Productos & Servicios',
     products: [
-      { href:'tamplarie-pvc', topColor:'#4a7c59', tag:'Carpintería PVC Salamander', title:'Perfiles PVC Salamander', desc:'Suministramos carpintería PVC Salamander BluEvolution 92 y GreenEvolution 76 de las gamas premium, fabricada en líneas automatizadas y compatible con nZEB.', btn:'card-btn card-btn-pvc' },
-      { href:'tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Carpintería Aluminio Alumil', title:'Sistemas Aluminio Alumil', desc:'Suministramos aluminio Alumil Supreme y Smartia — sistemas con rotura de puente térmico para ventanas, puertas, elevable-corredera, correderas y fachadas cortina, certificados nZEB.', btn:'card-btn card-btn-aluminiu' },
-      { href:'accesorii', topColor:'#e8721c', tag:'Accesorios carpintería', title:'Aislamiento perimetral', desc:'Cinta butílica, premarcos Blaugelb Triotherm+, film barrera vapor, persianas exteriores aluminio, persianas Raffstore, vidrio aislante Saint-Gobain warm-edge.', btn:'card-btn card-btn-accesorii' },
+      { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Carpintería PVC Salamander', title:'Perfiles PVC Salamander', desc:'Suministramos carpintería PVC Salamander BluEvolution 92 y GreenEvolution 76 de las gamas premium, fabricada en líneas automatizadas y compatible con nZEB.', btn:'card-btn card-btn-pvc' },
+      { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Carpintería Aluminio Alumil', title:'Sistemas Aluminio Alumil', desc:'Suministramos aluminio Alumil Supreme y Smartia — sistemas con rotura de puente térmico para ventanas, puertas, elevable-corredera, correderas y fachadas cortina, certificados nZEB.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/accesorii', topColor:'#e8721c', tag:'Accesorios carpintería', title:'Aislamiento perimetral', desc:'Cinta butílica, premarcos Blaugelb Triotherm+, film barrera vapor, persianas exteriores aluminio, persianas Raffstore, vidrio aislante Saint-Gobain warm-edge.', btn:'card-btn card-btn-accesorii' },
     ],
     sec_label_steps: 'Cómo trabajamos',
     steps_h2: 'Etapas de nuestra colaboración',
@@ -350,9 +350,9 @@ const CONTENT = {
     stats: [['21+','Anni di attività'],['nZEB','Certificati conformi'],['50%+','Clienti fedeli'],['UE','Consegna Europa']],
     sec_products: 'Prodotti & Servizi',
     products: [
-      { href:'tamplarie-pvc', topColor:'#4a7c59', tag:'Infissi in PVC Salamander', title:'Profili PVC Salamander', desc:'Forniamo infissi in PVC Salamander BluEvolution 92 e GreenEvolution 76 delle gamme premium, prodotti su linee automatizzate e compatibili nZEB.', btn:'card-btn card-btn-pvc' },
-      { href:'tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Infissi in Alluminio Alumil', title:'Sistemi Alluminio Alumil', desc:'Forniamo alluminio Alumil Supreme e Smartia — sistemi con taglio termico per finestre, porte, alzante-scorrevole, sistemi scorrevoli e facciate continue, certificati nZEB.', btn:'card-btn card-btn-aluminiu' },
-      { href:'accesorii', topColor:'#e8721c', tag:'Accessori infissi', title:'Isolamento perimetrale', desc:'Nastro butilico, pre-pareti Blaugelb Triotherm+, film barriera vapore, tapparelle esterne in alluminio, veneziane Raffstore, vetro isolante Saint-Gobain warm-edge.', btn:'card-btn card-btn-accesorii' },
+      { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Infissi in PVC Salamander', title:'Profili PVC Salamander', desc:'Forniamo infissi in PVC Salamander BluEvolution 92 e GreenEvolution 76 delle gamme premium, prodotti su linee automatizzate e compatibili nZEB.', btn:'card-btn card-btn-pvc' },
+      { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Infissi in Alluminio Alumil', title:'Sistemi Alluminio Alumil', desc:'Forniamo alluminio Alumil Supreme e Smartia — sistemi con taglio termico per finestre, porte, alzante-scorrevole, sistemi scorrevoli e facciate continue, certificati nZEB.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/accesorii', topColor:'#e8721c', tag:'Accessori infissi', title:'Isolamento perimetrale', desc:'Nastro butilico, pre-pareti Blaugelb Triotherm+, film barriera vapore, tapparelle esterne in alluminio, veneziane Raffstore, vetro isolante Saint-Gobain warm-edge.', btn:'card-btn card-btn-accesorii' },
     ],
     sec_label_steps: 'Come lavoriamo',
     steps_h2: 'Fasi della nostra collaborazione',
@@ -424,19 +424,9 @@ const buildSchema = (locale, c) => ({
 });
 
 // Slug-uri traduse — identice cu SLUGS din Header/Footer
-const SLUGS = {
-  ro: { pvc:'tamplarie-pvc', aluminiu:'tamplarie-aluminiu', accesorii:'accesorii', servicii:'servicii', contact:'contact' },
-  en: { pvc:'pvc-windows', aluminiu:'aluminium-windows', accesorii:'accessories', servicii:'services', contact:'contact' },
-  de: { pvc:'kunststofffenster-pvc', aluminiu:'aluminiumfenster', accesorii:'zubehoer', servicii:'dienstleistungen', contact:'kontakt' },
-  fr: { pvc:'menuiserie-pvc', aluminiu:'menuiserie-aluminium', accesorii:'accessoires', servicii:'services', contact:'contact' },
-  es: { pvc:'carpinteria-pvc', aluminiu:'carpinteria-aluminio', accesorii:'accesorios', servicii:'servicios', contact:'contacto' },
-  it: { pvc:'infissi-pvc', aluminiu:'infissi-alluminio', accesorii:'accessori', servicii:'servizi', contact:'contatti' },
-};
-
 export default async function HomePage({ params }) {
   const { locale } = await params;
   const c = CONTENT[locale] || CONTENT.ro;
-  const s = SLUGS[locale] || SLUGS.ro;
 
   return (
     <>
@@ -449,7 +439,7 @@ export default async function HomePage({ params }) {
             {c.h1}
           </h1>
           <div className="hero-grid">
-            <Link href={s.pvc} className="hero-card">
+            <Link href="/tamplarie-pvc" className="hero-card">
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#bbb'}}>{c.hero_pvc_tag}</span>
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#4a7c59',display:'block',marginBottom:'14px'}}>{c.hero_pvc_label}</span>
@@ -458,7 +448,7 @@ export default async function HomePage({ params }) {
                 <span className="btn btn-pvc" style={{display:'block',textAlign:'center'}}>{c.hero_pvc_btn}</span>
               </div>
             </Link>
-            <Link href={s.aluminiu} className="hero-card">
+            <Link href="/tamplarie-aluminiu" className="hero-card">
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#bbb'}}>{c.hero_al_tag}</span>
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d5a8e',display:'block',marginBottom:'14px'}}>{c.hero_al_label}</span>
@@ -491,11 +481,11 @@ export default async function HomePage({ params }) {
               {c.intro_p2_mid}{' '}
               <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b2}</strong>,{' '}
               {locale === 'ro' ? 'echipa noastră oferă consultanță tehnică dedicată și ' : locale === 'en' ? 'our team offers dedicated technical consultancy and ' : locale === 'de' ? 'unser Team bietet fachkundige Beratung und ' : locale === 'fr' ? 'notre équipe offre une expertise technique et ' : locale === 'es' ? 'nuestro equipo ofrece asesoramiento técnico y ' : 'il nostro team offre consulenza tecnica dedicata e '}
-              <Link href={s.servicii} style={{color:'#1a1a1a',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link1}</Link>.{' '}
+              <Link href="/servicii" style={{color:'#1a1a1a',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link1}</Link>.{' '}
               {locale === 'ro' ? 'Gama noastră include ' : locale === 'en' ? 'Our range includes ' : locale === 'de' ? 'Unser Sortiment umfasst ' : locale === 'fr' ? 'Notre gamme comprend ' : locale === 'es' ? 'Nuestra gama incluye ' : 'La nostra gamma include '}
               <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b3}</strong>{' '}{c.intro_p2_and}{' '}
               <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b4}</strong>,{' '}
-              <Link href={s.accesorii} style={{color:'#1a1a1a',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link2}</Link>{' '}
+              <Link href="/accesorii" style={{color:'#1a1a1a',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link2}</Link>{' '}
               {c.intro_p2_end}
             </p>
           </div>
@@ -601,7 +591,7 @@ export default async function HomePage({ params }) {
         <div className="container" style={{paddingTop:'32px',paddingBottom:'0',borderTop:'1px solid #1e1e1e'}}>
           <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
             {c.seo_bridge.split(c.seo_link)[0]}
-            <Link href={s.contact} style={{color:'#555',textDecoration:'underline'}}>{c.seo_link}</Link>
+            <Link href="/contact" style={{color:'#555',textDecoration:'underline'}}>{c.seo_link}</Link>
             {c.seo_bridge.split(c.seo_link)[1]}
           </p>
         </div>
