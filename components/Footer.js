@@ -102,15 +102,15 @@ export default function Footer() {
     <footer className="site-footer" role="contentinfo" aria-label="Informații companie Neofort BIZ">
 
       {/* ── FORMULAR CONTACT ── */}
-      <div style={{background:'#111',borderTop:'1px solid #222',padding:'40px 0 0'}}>
+      <div style={{background:'#111',borderTop:'1px solid #222',padding:'20px 0 0'}}>
         <div className="footer-inner">
-          <div style={{textAlign:'center',marginBottom:'28px'}}>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'8px'}}>
+          <div style={{textAlign:'center',marginBottom:'16px'}}>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'6px'}}>
               Contactați-ne
             </span>
             <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.4rem, 3.5vw, 2.0rem)',color:'#fff',lineHeight:1.25}}>
               Solicitați o ofertă de preț<br/>
-              pentru tâmplărie PVC sau aluminiu
+              pentru Tâmplărie PVC sau Tâmplărie aluminiu
             </h2>
           </div>
 
@@ -160,7 +160,7 @@ export default function Footer() {
 
                   {/* Col 2 — Date Client */}
                   <div className="form-col form-col-client" style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>Date Client</span>
+                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>Formular de contact</span>
 
                     <div style={{marginBottom:'16px'}}>
                       <input type="text" name="nume" placeholder="Nume Complet *" style={iStyle('nume')} onChange={()=>err.nume&&setErr(p=>({...p,nume:''}))}/>
