@@ -344,3 +344,10 @@ img,video{max-width:100%;height:auto}
 @media (max-width: 768px) {
   .site-logo-img { height: 42px; }
 }
+
+.schedule-row{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-bottom:1px solid #1e1e1e}
+.schedule-day{font-family:'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:300;color:#888}
+.schedule-hours{font-family:'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:400;color:#ccc}
+.schedule-closed{font-family:'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:300;color:#444;letter-spacing:.08em;text-transform:uppercase}
+.maps-link{display:inline-flex;align-items:center;gap:8px;margin-top:24px;font-family:'Barlow Condensed',sans-serif;font-size:.67rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;color:#888;text-decoration:none;padding:10px 0;border-bottom:1px solid #1e1e1e;width:100%;transition:color .15s}
+.maps-link:hover{color:#fff}
