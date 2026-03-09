@@ -13,20 +13,26 @@ export default function Footer() {
   return (
     <footer className="site-footer" role="contentinfo" aria-label="Informații companie Neofort BIZ">
       <div className="footer-inner">
-        <div className="footer-grid">
-          <div className="footer-col-brand">
+
+        <div style={{display:'grid',gridTemplateColumns:'repeat(4,1fr)',gap:0}}>
+          <div style={{padding:'32px 32px 12px 0'}}>
             <span className="footer-logo">NEOFORT</span>
-            <span className="footer-logo-sub">Tâmplărie PVC · Aluminiu</span>
+          </div>
+          <div></div><div></div><div></div>
+        </div>
+
+        <div style={{display:'grid',gridTemplateColumns:'repeat(4,1fr)',gap:0,padding:'0 0 36px',borderBottom:'1px solid #1e1e1e',alignItems:'start'}}>
+          <div style={{padding:'0 32px 32px 0'}}>
+            <div className="footer-col-title">Tâmplărie PVC · Aluminiu</div>
             <p className="footer-desc">Furnizăm tâmplărie PVC Salamander și aluminiu Alumil cu geam termopan certificat nZEB. Precadre Blaugelb Triotherm+, jaluzele Raffstore, rulouri aluminiu. Montaj profesional și livrare în toată Europa.</p>
-            <span className="footer-osim">Marcă înregistrată O.S.I.M. nr. M 2014 05130</span>
             <div className="footer-social">
-              {[['https://www.facebook.com/neofortconstructii','Facebook'],['https://www.linkedin.com/company/neofort-biz','LinkedIn'],['https://x.com/NeofortBIZ','X / Twitter'],['https://wa.me/40752443435','WhatsApp'],['https://t.me/+w0I7TX9cnl03YTFk','Telegram']].map(([h,l])=>(
+              {[['https://www.facebook.com/neofortconstructii','Facebook'],['https://www.linkedin.com/company/neofort-biz','LinkedIn'],['https://x.com/NeofortBIZ','X'],['https://wa.me/40752443435','WhatsApp'],['https://t.me/+w0I7TX9cnl03YTFk','Telegram']].map(([h,l])=>(
                 <a key={l} href={h} target="_blank" rel="noopener noreferrer" aria-label={l}>{l.split(' ')[0]}</a>
               ))}
             </div>
           </div>
 
-          <div className="footer-col">
+          <div style={{padding:'0 32px 32px 32px',borderLeft:'1px solid #1e1e1e'}}>
             <div className="footer-col-title">Produse</div>
             <ul className="footer-links">
               <li><Link href={`/${locale}/tamplarie-pvc`}>Tâmplărie PVC Salamander</Link></li>
@@ -35,28 +41,33 @@ export default function Footer() {
             </ul>
           </div>
 
-          <div className="footer-col">
+          <div style={{padding:'0 32px 32px 32px',borderLeft:'1px solid #1e1e1e'}}>
             <div className="footer-col-title">Info</div>
             <ul className="footer-links">
               <li><Link href={`/${locale}/servicii`}>Servicii</Link></li>
               <li><Link href={`/${locale}/despre`}>Despre</Link></li>
               <li><Link href={`/${locale}/blog`}>Blog</Link></li>
-              <li><Link href={`/${locale}/gdpr`}>GDPR</Link></li>
+              <li><Link href={`/${locale}/gdpr`}>Politica GDPR</Link></li>
+              <li><Link href={`/${locale}/gdpr`}>Politica Cookies</Link></li>
             </ul>
           </div>
 
-          <div className="footer-col-contact">
-            <div className="footer-col-title">Contact</div>
-            <p style={{fontSize:'.73rem',fontWeight:300,color:'#bbb',marginBottom:'10px',lineHeight:1.6}}>
-              Str. Theodor Aman 11<br/>Sector 1, București 010776
-            </p>
-            {[['Oferte','+40 752 443 435','tel:+40752443435'],['Export','+40 752 443 439','tel:+40752443439'],['E-mail','oferte@neofort-biz.ro','mailto:oferte@neofort-biz.ro']].map(([label,val,href])=>(
-              <div key={label} className="footer-contact-row">
-                <span className="footer-contact-label">{label}</span>
-                <a href={href} className="footer-contact-val">{val}</a>
+          <div style={{padding:'0 0 32px 32px',borderLeft:'1px solid #1e1e1e'}}>
+            <div className="footer-col-title">Program de Lucru</div>
+            {[['Luni','10:00 — 18:00'],['Marți','10:00 — 18:00'],['Miercuri','10:00 — 18:00'],['Joi','10:00 — 18:00'],['Vineri','10:00 — 18:00']].map(([z,h])=>(
+              <div key={z} className="schedule-row">
+                <span className="schedule-day">{z}</span>
+                <span className="schedule-hours">{h}</span>
               </div>
             ))}
-            <div className="footer-langs">
+            {[['Sâmbătă','Închis'],['Duminică','Închis']].map(([z])=>(
+              <div key={z} className="schedule-row">
+                <span className="schedule-day">{z}</span>
+                <span className="schedule-closed">Închis</span>
+              </div>
+            ))}
+            <a href="https://maps.google.com/?q=Strada+Theodor+Aman+11,+București" target="_blank" rel="noopener noreferrer" className="maps-link">Vezi pe Google Maps</a>
+            <div className="footer-langs" style={{marginTop:'20px'}}>
               {LOCALES.map(([code,label])=>(
                 <a key={code} href={switchLocale(code)} className={`footer-lang ${locale===code?'active':''}`}>{label}</a>
               ))}
@@ -65,7 +76,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <span>© 2025 Neofort BIZ · neofort-biz.ro</span>
+          <span>© 2025 Neofort BIZ · neofort-biz.ro · Marcă înregistrată O.S.I.M. nr. M 2014 05130</span>
           <span>Tâmplărie PVC Salamander · Aluminiu Alumil · Geam Termopan · Europa</span>
         </div>
       </div>
