@@ -104,9 +104,15 @@ export default function Footer() {
       {/* ── FORMULAR CONTACT ── */}
       <div style={{background:'#111',borderTop:'1px solid #222',padding:'72px 0 0'}}>
         <div className="footer-inner">
-          <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'2rem',letterSpacing:'.32em',textTransform:'uppercase',color:'#fff',textAlign:'center',marginBottom:'56px'}}>
-            Solicită Ofertă Tehnică
-          </h2>
+          <div style={{textAlign:'center',marginBottom:'56px'}}>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'14px'}}>
+              Contactați-ne
+            </span>
+            <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.4rem, 3.5vw, 2.2rem)',color:'#fff',lineHeight:1.25}}>
+              Solicitați o ofertă de preț<br/>
+              pentru tâmplărie PVC sau aluminiu
+            </h2>
+          </div>
 
           {status === 'success' ? (
             <div style={{border:'1px solid #2a2a2a',padding:'64px 32px',textAlign:'center'}}>
@@ -125,8 +131,8 @@ export default function Footer() {
               <div style={{border:'1px solid #2a2a2a'}}>
                 <div className="form-grid">
 
-                  {/* Col 1 — Departamente */}
-                  <div className="form-col form-col-dept form-col-dept-order" style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
+                  {/* Col 1 — Departamente (doar desktop) */}
+                  <div className="form-col form-col-dept form-col-dept-desktop" style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>Departamente</span>
                     {[
                       ['Office','+40 21 528 06 61','tel:+40215280661'],
@@ -232,6 +238,34 @@ export default function Footer() {
                   style={{width:'100%',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.76rem',letterSpacing:'.25em',textTransform:'uppercase',color:'#fff',background: status==='sending' ? '#222' : '#1a1a1a',border:'none',borderTop:'1px solid #2a2a2a',padding:'22px 48px',cursor: status==='sending' ? 'not-allowed' : 'pointer',display:'block',transition:'background .2s'}}>
                   {status==='sending' ? t('sending') : status==='error' ? t('error') : t('submit')}
                 </button>
+
+                {/* Departamente — doar mobil, după Submit */}
+                <div className="form-col-dept-mobile" style={{padding:'36px 32px',borderTop:'1px solid #2a2a2a'}}>
+                  <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>Departamente</span>
+                  {[
+                    ['Office','+40 21 528 06 61','tel:+40215280661'],
+                    ['Oferte','+40 752 443 435','tel:+40752443435'],
+                    ['Export','+40 752 443 439','tel:+40752443439'],
+                    ['Tehnic','+40 752 443 431','tel:+40752443431'],
+                    ['Service','+40 752 443 432','tel:+40752443432'],
+                    ['Programări','+40 758 990 048','tel:+40758990048'],
+                  ].map(([l,v,h])=>(
+                    <div key={l} style={{display:'flex',justifyContent:'space-between',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:300,color:'#888'}}>{l}</span>
+                      <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#ccc',textDecoration:'none'}}>{v}</a>
+                    </div>
+                  ))}
+                  <div style={{marginTop:'20px'}}>
+                    {[
+                      ['E-mail Oferte','mailto:oferte@neofort-biz.ro'],
+                      ['E-mail Comenzi','mailto:comenzi@neofort-biz.ro'],
+                      ['E-mail Service','mailto:service@neofort-biz.ro'],
+                    ].map(([l,h])=>(
+                      <a key={l} href={h} style={{display:'flex',alignItems:'center',gap:'8px',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',fontWeight:300,color:'#888',textDecoration:'none',letterSpacing:'.08em',textTransform:'uppercase',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>{l}</a>
+                    ))}
+                  </div>
+                </div>
+
               </div>
             </form>
           )}

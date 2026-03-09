@@ -357,6 +357,8 @@ img,video{max-width:100%;height:auto}
   display: grid;
   grid-template-columns: 1fr 1.6fr 1.4fr;
 }
+/* Departamente mobil: ascuns pe desktop */
+.form-col-dept-mobile { display: none; }
 .footer-grid-logo {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -377,15 +379,11 @@ img,video{max-width:100%;height:auto}
   .form-grid {
     grid-template-columns: 1fr;
   }
-  /* Departamente se mută după celelalte coloane pe mobil */
-  .form-col-dept-order { order: 3; }
-  .form-col-client     { order: 1; }
-  .form-col-produse    { order: 2; }
+  /* Departamente desktop: ascuns pe mobil */
+  .form-col-dept-desktop { display: none !important; }
+  /* Departamente mobil: vizibil doar pe mobil */
+  .form-col-dept-mobile  { display: block; }
 
-  .form-col-dept {
-    border-right: none !important;
-    border-top: 1px solid #2a2a2a;
-  }
   .form-col-client {
     border-right: none !important;
     border-bottom: 1px solid #2a2a2a;

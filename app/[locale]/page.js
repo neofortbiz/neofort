@@ -177,6 +177,14 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* ── SEO BRIDGE — vizibil crawlere, discret vizual ── */}
+      <section aria-label="Solicitare ofertă tâmplărie PVC aluminiu" style={{background:'#111',padding:'0'}}>
+        <div className="container" style={{paddingTop:'48px',paddingBottom:'0',borderTop:'1px solid #1e1e1e'}}>
+          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
+            Solicitați o ofertă de preț pentru tâmplărie PVC Salamander sau aluminiu Alumil — București &amp; Europa
+          </p>
+        </div>
+      </section>
 
     </>
   );
