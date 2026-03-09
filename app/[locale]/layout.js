@@ -44,6 +44,10 @@ export default async function LocaleLayout({ children, params }) {
           <link key={l} rel="alternate" hrefLang={l} href={`${baseUrl}/${l}`} />
         ))}
         <link rel="alternate" hrefLang="x-default" href={`${baseUrl}/ro`} />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <meta name="theme-color" content="#111111" />
       </head>
       <body>
         <NextIntlClientProvider messages={messages}>
