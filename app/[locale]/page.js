@@ -12,12 +12,12 @@ const CONTENT = {
     hero_pvc_tag: 'Tehnologie Germană',
     hero_pvc_title: 'Tâmplărie PVC Salamander',
     hero_pvc_desc: 'Eficiență energetică nZEB și design atemporal pentru proiecte rezidențiale de top. BluEvolution 92 placat cu Aluminiu · GreenEvolution 76 · 6 camere.',
-    hero_pvc_btn: 'VEZI PROFILE',
+    hero_pvc_btn: 'PROFILE PVC',
     hero_al_label: 'Profile Aluminiu Alumil',
     hero_al_tag: 'Arhitectură Modernă',
     hero_al_title: 'Tâmplărie Aluminiu Alumil',
     hero_al_desc: 'Suprafețe vitrate mari și durabilitate extremă pentru arhitectura contemporană. S77 Supreme · S67 Smartia · SF85 Supreme · Pereți Cortină din Aluminiu.',
-    hero_al_btn: 'VEZI SISTEME',
+    hero_al_btn: 'PROFILE ALUMINIU',
     sec_label_intro: 'Excelență în Tâmplărie Termoizolantă',
     intro_h2: 'Tâmplărie PVC Salamander\nși Aluminiu Alumil',
     intro_p1: 'Alegerea între tâmplărie PVC Salamander și tâmplărie aluminiu Alumil este definitorie pentru eficiența energetică a oricărei construcții moderne. La Neofort BIZ integrăm tehnologia de vârf cu designul minimalist pentru bariere termice de neegalat. Profilele noastre sunt certificate nZEB (Nearly Zero Energy Building), asigurând o economie reală la costurile de încălzire. Completăm fiecare instalare cu precadre Blaugelb Triotherm+, bandă butilică etanșare, benzi etanșare vapori și baghete warm-edge pentru un sistem termoizolator complet și durabil, conform standardelor europene.',
@@ -76,12 +76,12 @@ const CONTENT = {
     hero_pvc_tag: 'German Technology',
     hero_pvc_title: 'PVC Salamander Windows',
     hero_pvc_desc: 'nZEB energy efficiency and timeless design for top residential projects. BluEvolution 92 aluminium-clad · GreenEvolution 76 · 6 chambers.',
-    hero_pvc_btn: 'VIEW PROFILES',
+    hero_pvc_btn: 'PVC PROFILES',
     hero_al_label: 'Alumil Aluminium Profiles',
     hero_al_tag: 'Modern Architecture',
     hero_al_title: 'Aluminium Alumil Windows',
     hero_al_desc: 'Large glazed surfaces and extreme durability for contemporary architecture. S77 Supreme · S67 Smartia · SF85 Supreme · Aluminium Curtain Walls.',
-    hero_al_btn: 'VIEW SYSTEMS',
+    hero_al_btn: 'ALUMINIUM PROFILES',
     sec_label_intro: 'Excellence in Thermal Insulation Windows',
     intro_h2: 'PVC Salamander Windows\n& Aluminium Alumil',
     intro_p1: 'The choice between PVC Salamander windows and Alumil aluminium systems is defining for the energy efficiency of any modern building. At Neofort BIZ we integrate cutting-edge technology with minimalist design for unmatched thermal barriers. Our profiles are nZEB (Nearly Zero Energy Building) certified, ensuring real savings on heating costs. We complete every installation with Blaugelb Triotherm+ precasings, butyl sealing tape, vapour sealing tapes and warm-edge spacers for a complete and durable thermal insulation system, compliant with European standards.',
@@ -139,12 +139,12 @@ const CONTENT = {
     hero_pvc_tag: 'Deutsche Technologie',
     hero_pvc_title: 'Kunststofffenster Salamander',
     hero_pvc_desc: 'nZEB-Energieeffizienz und zeitloses Design für Top-Wohnprojekte. BluEvolution 92 Aluminiumverkleidet · GreenEvolution 76 · 6 Kammern.',
-    hero_pvc_btn: 'PROFILE ANSEHEN',
+    hero_pvc_btn: 'PVC-PROFILE',
     hero_al_label: 'Alumil Aluminiumprofile',
     hero_al_tag: 'Moderne Architektur',
     hero_al_title: 'Aluminiumfenster Alumil',
     hero_al_desc: 'Große Glasflächen und extreme Langlebigkeit für zeitgenössische Architektur. S77 Supreme · S67 Smartia · SF85 Supreme · Aluminium-Vorhangfassaden.',
-    hero_al_btn: 'SYSTEME ANSEHEN',
+    hero_al_btn: 'ALUMINIUMPROFILE',
     sec_label_intro: 'Exzellenz in Wärmeschutzfenstern',
     intro_h2: 'Kunststofffenster Salamander\n& Aluminiumfenster Alumil',
     intro_p1: 'Die Wahl zwischen PVC Salamander Fenstern und Alumil Aluminiumsystemen ist entscheidend für die Energieeffizienz jedes modernen Gebäudes. Bei Neofort BIZ kombinieren wir Spitzentechnologie mit minimalistischem Design für unübertroffene Wärmedämmung. Unsere Profile sind nZEB (Nearly Zero Energy Building) zertifiziert und sorgen für echte Einsparungen bei den Heizkosten. Jede Montage ergänzen wir mit Blaugelb Triotherm+ Vorfenstern, Butyl-Dichtband, Dampfsperrbändern und Warm-Edge-Abstandhaltern für ein vollständiges und dauerhaftes Wärmedämmsystem nach europäischen Standards.',
@@ -202,12 +202,12 @@ const CONTENT = {
     hero_pvc_tag: 'Technologie Allemande',
     hero_pvc_title: 'Menuiserie PVC Salamander',
     hero_pvc_desc: 'Efficacité énergétique nZEB et design intemporel pour les projets résidentiels haut de gamme. BluEvolution 92 bardé aluminium · GreenEvolution 76 · 6 chambres.',
-    hero_pvc_btn: 'VOIR LES PROFILÉS',
+    hero_pvc_btn: 'PROFILÉS PVC',
     hero_al_label: 'Profilés Aluminium Alumil',
     hero_al_tag: 'Architecture Moderne',
     hero_al_title: 'Menuiserie Aluminium Alumil',
     hero_al_desc: 'Grandes surfaces vitrées et durabilité extrême pour l\'architecture contemporaine. S77 Supreme · S67 Smartia · SF85 Supreme · Façades rideau aluminium.',
-    hero_al_btn: 'VOIR LES SYSTÈMES',
+    hero_al_btn: 'PROFILÉS ALUMINIUM',
     sec_label_intro: 'Excellence en menuiserie thermique isolante',
     intro_h2: 'Menuiserie PVC Salamander\n& Aluminium Alumil',
     intro_p1: 'Le choix entre menuiserie PVC Salamander et systèmes aluminium Alumil est déterminant pour l\'efficacité énergétique de toute construction moderne. Chez Neofort BIZ, nous intégrons la technologie de pointe au design minimaliste pour des barrières thermiques inégalées. Nos profilés sont certifiés nZEB (Nearly Zero Energy Building), garantissant de vraies économies sur les coûts de chauffage. Nous complétons chaque installation par des précadres Blaugelb Triotherm+, bande d\'étanchéité en butyle, bandes pare-vapeur et baguettes warm-edge pour un système d\'isolation thermique complet et durable, conforme aux normes européennes.',
@@ -265,12 +265,12 @@ const CONTENT = {
     hero_pvc_tag: 'Tecnología Alemana',
     hero_pvc_title: 'Carpintería PVC Salamander',
     hero_pvc_desc: 'Eficiencia energética nZEB y diseño atemporal para proyectos residenciales de alto nivel. BluEvolution 92 con revestimiento de aluminio · GreenEvolution 76 · 6 cámaras.',
-    hero_pvc_btn: 'VER PERFILES',
+    hero_pvc_btn: 'PERFILES PVC',
     hero_al_label: 'Perfiles Aluminio Alumil',
     hero_al_tag: 'Arquitectura Moderna',
     hero_al_title: 'Carpintería Aluminio Alumil',
     hero_al_desc: 'Grandes superficies acristaladas y extrema durabilidad para la arquitectura contemporánea. S77 Supreme · S67 Smartia · SF85 Supreme · Fachadas cortina de aluminio.',
-    hero_al_btn: 'VER SISTEMAS',
+    hero_al_btn: 'PERFILES ALUMINIO',
     sec_label_intro: 'Excelencia en carpintería de aislamiento térmico',
     intro_h2: 'Carpintería PVC Salamander\n& Aluminio Alumil',
     intro_p1: 'La elección entre carpintería PVC Salamander y sistemas de aluminio Alumil es determinante para la eficiencia energética de cualquier construcción moderna. En Neofort BIZ integramos tecnología punta con diseño minimalista para barreras térmicas sin igual. Nuestros perfiles están certificados nZEB (Nearly Zero Energy Building), garantizando un ahorro real en los costes de calefacción. Completamos cada instalación con premarcos Blaugelb Triotherm+, cinta butílica de sellado, cintas de sellado de vapor e intercalarios warm-edge para un sistema de aislamiento térmico completo y duradero, conforme a las normas europeas.',
@@ -328,12 +328,12 @@ const CONTENT = {
     hero_pvc_tag: 'Tecnologia Tedesca',
     hero_pvc_title: 'Infissi in PVC Salamander',
     hero_pvc_desc: 'Efficienza energetica nZEB e design senza tempo per i migliori progetti residenziali. BluEvolution 92 con rivestimento in alluminio · GreenEvolution 76 · 6 camere.',
-    hero_pvc_btn: 'VEDI PROFILI',
+    hero_pvc_btn: 'PROFILI PVC',
     hero_al_label: 'Profili Alluminio Alumil',
     hero_al_tag: 'Architettura Moderna',
     hero_al_title: 'Infissi in Alluminio Alumil',
     hero_al_desc: 'Grandi superfici vetrate ed estrema durabilità per l\'architettura contemporanea. S77 Supreme · S67 Smartia · SF85 Supreme · Facciate continue in alluminio.',
-    hero_al_btn: 'VEDI SISTEMI',
+    hero_al_btn: 'PROFILI ALLUMINIO',
     sec_label_intro: 'Eccellenza negli infissi termoisolanti',
     intro_h2: 'Infissi in PVC Salamander\n& Alluminio Alumil',
     intro_p1: 'La scelta tra infissi in PVC Salamander e sistemi in alluminio Alumil è determinante per l\'efficienza energetica di qualsiasi costruzione moderna. Da Neofort BIZ integriamo la tecnologia d\'avanguardia con il design minimalista per barriere termiche senza pari. I nostri profili sono certificati nZEB (Nearly Zero Energy Building), garantendo un reale risparmio sui costi di riscaldamento. Completiamo ogni installazione con pre-pareti Blaugelb Triotherm+, nastro sigillante in butile, nastri barriera vapore e distanziatori warm-edge per un sistema di isolamento termico completo e duraturo, conforme agli standard europei.',
@@ -442,7 +442,7 @@ export default async function HomePage({ params }) {
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#bbb'}}>{c.hero_pvc_tag}</span>
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#4a7c59',display:'block',marginBottom:'14px'}}>{c.hero_pvc_label}</span>
-                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.4625rem, 5vw, 2.6625rem)',color:'#1a1a1a',lineHeight:1.15,marginBottom:'18px'}}>{c.hero_pvc_title.split(' ')[0]}<br/><strong style={{fontWeight:600}}>{c.hero_pvc_title.split(' ').slice(1).join(' ')}</strong></h2>
+                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.1rem, 3.2vw, 1.7rem)',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_pvc_title}</h2>
                 <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_pvc_desc}</p>
                 <span className="btn btn-pvc">{c.hero_pvc_btn}</span>
               </div>
@@ -451,7 +451,7 @@ export default async function HomePage({ params }) {
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#bbb'}}>{c.hero_al_tag}</span>
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d5a8e',display:'block',marginBottom:'14px'}}>{c.hero_al_label}</span>
-                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.4625rem, 5vw, 2.6625rem)',color:'#1a1a1a',lineHeight:1.15,marginBottom:'18px'}}>{c.hero_al_title.split(' ')[0]}<br/><strong style={{fontWeight:600}}>{c.hero_al_title.split(' ').slice(1).join(' ')}</strong></h2>
+                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'clamp(1.1rem, 3.2vw, 1.7rem)',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_al_title}</h2>
                 <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_al_desc}</p>
                 <span className="btn btn-aluminiu">{c.hero_al_btn}</span>
               </div>

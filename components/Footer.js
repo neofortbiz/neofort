@@ -361,7 +361,10 @@ export default function Footer() {
           </div>
         </div>
         <div className="footer-bottom">
-          <span>© 2025 Neofort BIZ · neofort-biz.ro · Marcă înregistrată O.S.I.M. nr. M 2014 05130</span>
+          {(() => {
+            const reg = { ro:'Marcă înregistrată', en:'Registered Trademark', de:'Eingetragene Marke', fr:'Marque déposée', es:'Marca registrada', it:'Marchio registrato' };
+            return <span>© 2025 Neofort BIZ · neofort-biz.ro · {reg[locale]||reg.ro} O.S.I.M. nr. M 2014 05130</span>;
+          })()}
           <span>{col.pvc} · {col.aluminiu}</span>
         </div>
       </div>
