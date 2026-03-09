@@ -21,9 +21,9 @@ img,video{max-width:100%;height:auto}
 .logo-main{font-family:'Barlow Condensed',sans-serif;font-weight:500;font-size:1rem;letter-spacing:.82em;color:#1a1a1a;text-transform:uppercase;line-height:1;display:block}
 .logo-sub{font-family:'Barlow Condensed',sans-serif;font-weight:300;font-size:.55rem;letter-spacing:.25em;color:#ccc;text-transform:uppercase;margin-top:2px;display:block}
 .site-nav{display:flex;align-items:center}
-.site-nav-link{font-family:'Barlow Condensed',sans-serif;font-weight:400;font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:#767676;text-decoration:none;padding:0 13px;height:60px;display:flex;align-items:center;border-bottom:2px solid transparent;transition:color .15s,border-color .15s}
+.site-nav-link{font-family:'Barlow Condensed',sans-serif;font-weight:400;font-size:.6rem;letter-spacing:.08em;text-transform:uppercase;color:#767676;text-decoration:none;padding:0 8px;height:60px;display:flex;align-items:center;border-bottom:2px solid transparent;transition:color .15s,border-color .15s}
 .site-nav-link:hover{color:#1a1a1a;border-bottom-color:#1a1a1a}
-.nav-langs{display:flex;align-items:center;gap:9px;margin-left:20px;padding-left:20px;border-left:1px solid #e8e8e8}
+.nav-langs{display:flex;align-items:center;gap:6px;margin-left:12px;padding-left:12px;border-left:1px solid #e8e8e8}
 .nav-lang{font-family:'Barlow Condensed',sans-serif;font-weight:400;font-size:.6rem;letter-spacing:.12em;color:#bbb;text-decoration:none;transition:color .15s}
 .nav-lang:hover,.nav-lang.active{color:#1a1a1a}
 .hamburger{display:none;flex-direction:column;gap:5px;background:none;border:none;cursor:pointer;padding:4px}
