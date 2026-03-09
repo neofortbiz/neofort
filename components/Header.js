@@ -24,6 +24,7 @@ export default function Header() {
     { href: `/${locale}/accesorii`,          label: 'Accesorii' },
     { href: `/${locale}/servicii`,           label: 'Servicii' },
     { href: `/${locale}/despre`,             label: 'Despre' },
+    { href: `/${locale}/blog`,               label: 'Blog' },
     { href: `/${locale}/contact`,            label: 'Contact' },
   ];
 

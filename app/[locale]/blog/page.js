@@ -4,12 +4,12 @@ import { ARTICLES } from '../../../data/blog.js';
 const BASE = 'https://www.neofort-biz.ro';
 
 const META = {
-  ro: { title:'Blog Tâmplărie PVC & Aluminiu — Ghiduri Tehnice | Neofort BIZ', desc:'Ghiduri tehnice, comparații și sfaturi despre tâmplărie PVC Salamander, aluminiu Alumil, izolare nZEB, precadre Blaugelb și sisteme de umbrire Raffstore. Expert Neofort BIZ București.' },
-  en: { title:'PVC & Aluminium Windows Blog — Technical Guides | Neofort BIZ', desc:'Technical guides, comparisons and tips about Salamander PVC, Alumil aluminium, nZEB insulation, Blaugelb precasings and Raffstore shading systems.' },
-  de: { title:'PVC & Aluminiumfenster Blog — Technische Leitfäden | Neofort BIZ', desc:'Technische Leitfäden, Vergleiche und Tipps zu Salamander PVC, Alumil-Aluminium, nZEB-Dämmung, Blaugelb-Vorfenstern und Raffstore.' },
-  fr: { title:'Blog Menuiserie PVC & Aluminium — Guides Techniques | Neofort BIZ', desc:'Guides techniques, comparaisons et conseils sur menuiseries PVC Salamander, aluminium Alumil, isolation nZEB, précadres Blaugelb et stores Raffstore.' },
-  es: { title:'Blog Carpintería PVC & Aluminio — Guías Técnicas | Neofort BIZ', desc:'Guías técnicas, comparaciones y consejos sobre carpintería PVC Salamander, aluminio Alumil, aislamiento nZEB, premarcos Blaugelb y persianas Raffstore.' },
-  it: { title:'Blog Serramenti PVC & Alluminio — Guide Tecniche | Neofort BIZ', desc:'Guide tecniche, confronti e consigli su serramenti PVC Salamander, alluminio Alumil, isolamento nZEB, precassonetti Blaugelb e veneziane Raffstore.' },
+  ro: { title:'Blog Tâmplărie PVC & Aluminiu — Ghiduri Tehnice | Neofort BIZ', desc:'Ghiduri tehnice, comparații și sfaturi despre tâmplărie PVC Salamander, aluminiu Alumil, izolare nZEB, precadre Blaugelb și sisteme de umbrire Raffstore.' },
+  en: { title:'PVC & Aluminium Windows Blog — Technical Guides | Neofort BIZ', desc:'Technical guides, comparisons and tips about Salamander PVC windows, Alumil aluminium, nZEB insulation and Raffstore shading systems.' },
+  de: { title:'PVC & Aluminiumfenster Blog — Technische Leitfäden | Neofort BIZ', desc:'Technische Leitfäden, Vergleiche und Tipps zu Salamander PVC-Fenstern, Alumil-Aluminium, nZEB-Dämmung und Raffstore.' },
+  fr: { title:'Blog Menuiserie PVC & Aluminium — Guides Techniques | Neofort BIZ', desc:'Guides techniques, comparaisons et conseils sur la menuiserie PVC Salamander, aluminium Alumil, isolation nZEB et stores Raffstore.' },
+  es: { title:'Blog Carpintería PVC & Aluminio — Guías Técnicas | Neofort BIZ', desc:'Guías técnicas, comparaciones y consejos sobre carpintería PVC Salamander, aluminio Alumil, aislamiento nZEB y persianas Raffstore.' },
+  it: { title:'Blog Serramenti PVC & Alluminio — Guide Tecniche | Neofort BIZ', desc:'Guide tecniche, confronti e consigli su serramenti PVC Salamander, alluminio Alumil, isolamento nZEB e veneziane Raffstore.' },
 };
 
 export async function generateMetadata({ params }) {
@@ -45,11 +45,114 @@ export default async function BlogPage({ params }) {
     }))
   };
 
+  const [featured, ...rest] = ARTICLES;
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
 
-      {/* PAGE HEADER */}
+      {/* ── RESPONSIVE CSS ── */}
+      <style>{`
+        /* Blog featured card */
+        .blog-featured {
+          display: grid;
+          grid-template-columns: 1fr 1fr;
+          border: 1px solid #e8e8e8;
+          background: #fff;
+          margin-bottom: 24px;
+          transition: border-color .2s, box-shadow .2s;
+          text-decoration: none;
+        }
+        .blog-featured:hover {
+          border-color: #c8c8c8;
+          box-shadow: 0 4px 24px rgba(0,0,0,.07);
+        }
+        .blog-featured-img {
+          min-height: 320px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+        }
+        .blog-featured-body {
+          padding: 40px 40px 36px;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
+        }
+        /* Blog grid pentru restul articolelor */
+        .blog-grid {
+          display: grid;
+          grid-template-columns: repeat(3, 1fr);
+          gap: 20px;
+        }
+        .blog-card {
+          border: 1px solid #e8e8e8;
+          background: #fff;
+          display: flex;
+          flex-direction: column;
+          text-decoration: none;
+          transition: border-color .2s, box-shadow .2s;
+        }
+        .blog-card:hover {
+          border-color: #c8c8c8;
+          box-shadow: 0 4px 20px rgba(0,0,0,.06);
+        }
+        .blog-card-img {
+          height: 160px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          overflow: hidden;
+          flex-shrink: 0;
+        }
+        .blog-card-body {
+          padding: 22px 22px 24px;
+          flex: 1;
+          display: flex;
+          flex-direction: column;
+        }
+        .blog-card-footer {
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          border-top: 1px solid #f0f0f0;
+          padding-top: 14px;
+          margin-top: auto;
+        }
+
+        /* ── TABLET ── */
+        @media (max-width: 860px) {
+          .blog-featured {
+            grid-template-columns: 1fr;
+          }
+          .blog-featured-img {
+            min-height: 200px;
+          }
+          .blog-featured-body {
+            padding: 28px 28px 28px;
+          }
+          .blog-grid {
+            grid-template-columns: 1fr 1fr;
+          }
+        }
+
+        /* ── MOBIL ── */
+        @media (max-width: 560px) {
+          .blog-featured-body {
+            padding: 22px 20px 22px;
+          }
+          .blog-grid {
+            grid-template-columns: 1fr;
+          }
+          .blog-card-img {
+            height: 130px;
+          }
+        }
+      `}</style>
+
+      {/* ── PAGE HEADER ── */}
       <div className="page-header">
         <div className="container">
           <span className="sec-label">Neofort BIZ</span>
@@ -63,80 +166,86 @@ export default async function BlogPage({ params }) {
         </div>
       </div>
 
-      {/* ARTICOLE GRID */}
-      <section style={{padding:'64px 0 88px'}}>
+      {/* ── ARTICOLE ── */}
+      <section style={{padding:'56px 0 80px'}}>
         <div className="container">
 
-          {/* ARTICOL FEATURED — primul articol mare */}
-          {ARTICLES.slice(0, 1).map(a => {
-            const title   = a.title[locale]   || a.title.ro;
-            const excerpt = a.excerpt[locale] || a.excerpt.ro;
-            const cat     = a.category[locale]|| a.category.ro;
-            const rt      = a.readTime[locale]|| a.readTime.ro;
-            const date    = a.dateDisplay[locale]||a.dateDisplay.ro;
-            return (
-              <Link key={a.slug} href={`/${locale}/blog/${a.slug}`} style={{textDecoration:'none',display:'block',marginBottom:'28px'}}>
-                <article style={{display:'grid',gridTemplateColumns:'1fr 1fr',border:'1px solid #e8e8e8',background:'#fff',transition:'border-color .2s,box-shadow .2s'}}
-                  onMouseEnter={e=>{e.currentTarget.style.borderColor='#c8c8c8';e.currentTarget.style.boxShadow='0 4px 24px rgba(0,0,0,.07)'}}
-                  onMouseLeave={e=>{e.currentTarget.style.borderColor='#e8e8e8';e.currentTarget.style.boxShadow='none'}}>
-                  {/* Imagine */}
-                  <div style={{background:a.imageBg,minHeight:'300px',display:'flex',alignItems:'center',justifyContent:'center',position:'relative',overflow:'hidden'}}>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'3.5rem',fontWeight:300,color:'rgba(255,255,255,.18)',letterSpacing:'.08em',textAlign:'center',padding:'0 32px',lineHeight:1.2}}>{a.imageLabel}</span>
-                    <div style={{position:'absolute',bottom:'20px',left:'24px'}}>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.2em',textTransform:'uppercase',color:'rgba(255,255,255,.5)',background:'rgba(0,0,0,.3)',padding:'4px 10px'}}>{cat}</span>
-                    </div>
-                  </div>
-                  {/* Text */}
-                  <div style={{padding:'40px 40px 36px',display:'flex',flexDirection:'column',justifyContent:'space-between'}}>
-                    <div>
-                      <div style={{display:'flex',alignItems:'center',gap:'10px',marginBottom:'18px'}}>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.18em',textTransform:'uppercase',color:a.accentColor,fontWeight:500}}>{cat}</span>
-                        <span style={{width:'3px',height:'3px',borderRadius:'50%',background:'#ddd',display:'inline-block'}}/>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',color:'#bbb'}}>{rt}</span>
-                      </div>
-                      <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.25rem,2.5vw,1.65rem)',color:'#1a1a1a',lineHeight:1.25,marginBottom:'16px'}}>{title}</h2>
-                      <p style={{fontSize:'0.85rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px'}}>{excerpt}</p>
-                    </div>
-                    <div style={{display:'flex',alignItems:'center',justifyContent:'space-between'}}>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',color:'#bbb'}}>{date}</span>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#1a1a1a',fontWeight:500,borderBottom:'1px solid #1a1a1a',paddingBottom:'2px'}}>Citește articolul →</span>
-                    </div>
-                  </div>
-                </article>
-              </Link>
-            );
-          })}
+          {/* FEATURED — primul articol */}
+          <Link href={`/${locale}/blog/${featured.slug}`} className="blog-featured">
+            {/* Imagine */}
+            <div className="blog-featured-img" style={{background: featured.imageBg}}>
+              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'3.5rem',fontWeight:300,color:'rgba(255,255,255,.15)',letterSpacing:'.06em',textAlign:'center',padding:'0 32px',lineHeight:1.2,userSelect:'none'}}>
+                {featured.imageLabel}
+              </span>
+              <div style={{position:'absolute',bottom:'20px',left:'24px'}}>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.57rem',letterSpacing:'.2em',textTransform:'uppercase',color:'rgba(255,255,255,.5)',background:'rgba(0,0,0,.35)',padding:'4px 10px'}}>
+                  {featured.category[locale] || featured.category.ro}
+                </span>
+              </div>
+            </div>
 
-          {/* RESTUL ARTICOLELOR — grid 3 coloane */}
-          <div style={{display:'grid',gridTemplateColumns:'repeat(3,1fr)',gap:'20px'}}>
-            {ARTICLES.slice(1).map(a => {
-              const title   = a.title[locale]   || a.title.ro;
-              const excerpt = a.excerpt[locale] || a.excerpt.ro;
-              const cat     = a.category[locale]|| a.category.ro;
-              const rt      = a.readTime[locale]|| a.readTime.ro;
-              const date    = a.dateDisplay[locale]||a.dateDisplay.ro;
+            {/* Text */}
+            <div className="blog-featured-body">
+              <div>
+                <div style={{display:'flex',alignItems:'center',gap:'10px',marginBottom:'16px'}}>
+                  <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.18em',textTransform:'uppercase',color:featured.accentColor,fontWeight:500}}>
+                    {featured.category[locale] || featured.category.ro}
+                  </span>
+                  <span style={{width:'3px',height:'3px',borderRadius:'50%',background:'#ddd',display:'inline-block'}}/>
+                  <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',color:'#bbb'}}>
+                    {featured.readTime[locale] || featured.readTime.ro}
+                  </span>
+                </div>
+                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2rem,2.5vw,1.6rem)',color:'#1a1a1a',lineHeight:1.25,marginBottom:'14px'}}>
+                  {featured.title[locale] || featured.title.ro}
+                </h2>
+                <p style={{fontSize:'0.85rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'28px'}}>
+                  {featured.excerpt[locale] || featured.excerpt.ro}
+                </p>
+              </div>
+              <div style={{display:'flex',alignItems:'center',justifyContent:'space-between'}}>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',color:'#bbb'}}>
+                  {featured.dateDisplay[locale] || featured.dateDisplay.ro}
+                </span>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#1a1a1a',fontWeight:500,borderBottom:'1px solid #1a1a1a',paddingBottom:'2px'}}>
+                  Citește articolul →
+                </span>
+              </div>
+            </div>
+          </Link>
+
+          {/* GRID restul articolelor */}
+          <div className="blog-grid">
+            {rest.map(a => {
+              const title   = a.title[locale]    || a.title.ro;
+              const excerpt = a.excerpt[locale]  || a.excerpt.ro;
+              const cat     = a.category[locale] || a.category.ro;
+              const rt      = a.readTime[locale] || a.readTime.ro;
+              const date    = a.dateDisplay[locale] || a.dateDisplay.ro;
               return (
-                <Link key={a.slug} href={`/${locale}/blog/${a.slug}`} style={{textDecoration:'none',display:'flex',flexDirection:'column'}}>
-                  <article className="prod-card" style={{flex:1,display:'flex',flexDirection:'column'}}>
-                    {/* Imagine card */}
-                    <div style={{background:a.imageBg,height:'160px',display:'flex',alignItems:'center',justifyContent:'center',position:'relative',overflow:'hidden',flexShrink:0}}>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'2.2rem',fontWeight:300,color:'rgba(255,255,255,.18)',letterSpacing:'.08em'}}>{a.imageLabel}</span>
+                <Link key={a.slug} href={`/${locale}/blog/${a.slug}`} className="blog-card">
+                  <div className="blog-card-img" style={{background: a.imageBg}}>
+                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'2rem',fontWeight:300,color:'rgba(255,255,255,.15)',letterSpacing:'.06em',userSelect:'none'}}>
+                      {a.imageLabel}
+                    </span>
+                  </div>
+                  <div className="blog-card-body">
+                    <div style={{display:'flex',alignItems:'center',gap:'8px',marginBottom:'10px'}}>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.16em',textTransform:'uppercase',color:a.accentColor,fontWeight:500}}>{cat}</span>
+                      <span style={{width:'3px',height:'3px',borderRadius:'50%',background:'#e0e0e0',display:'inline-block',flexShrink:0}}/>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',color:'#bbb'}}>{rt}</span>
                     </div>
-                    {/* Body */}
-                    <div style={{padding:'22px 22px 24px',flex:1,display:'flex',flexDirection:'column'}}>
-                      <div style={{display:'flex',alignItems:'center',gap:'8px',marginBottom:'10px'}}>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.18em',textTransform:'uppercase',color:a.accentColor,fontWeight:500}}>{cat}</span>
-                        <span style={{width:'3px',height:'3px',borderRadius:'50%',background:'#e0e0e0',display:'inline-block',flexShrink:0}}/>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',color:'#bbb'}}>{rt}</span>
-                      </div>
-                      <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.05rem',color:'#1a1a1a',lineHeight:1.3,marginBottom:'10px'}}>{title}</h2>
-                      <p style={{fontSize:'0.8rem',fontWeight:300,color:'#767676',lineHeight:1.7,flex:1,marginBottom:'18px'}}>{excerpt}</p>
-                      <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',borderTop:'1px solid #f0f0f0',paddingTop:'14px',marginTop:'auto'}}>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',color:'#bbb'}}>{date}</span>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#555',fontWeight:500}}>Citește →</span>
-                      </div>
+                    <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.05rem',color:'#1a1a1a',lineHeight:1.3,marginBottom:'10px'}}>
+                      {title}
+                    </h2>
+                    <p style={{fontSize:'0.8rem',fontWeight:300,color:'#767676',lineHeight:1.7,flex:1,marginBottom:'16px'}}>
+                      {excerpt}
+                    </p>
+                    <div className="blog-card-footer">
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',color:'#bbb'}}>{date}</span>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#555',fontWeight:500}}>Citește →</span>
                     </div>
-                  </article>
+                  </div>
                 </Link>
               );
             })}
@@ -144,18 +253,6 @@ export default async function BlogPage({ params }) {
 
         </div>
       </section>
-
-      {/* Mobile responsive styles */}
-      <style>{`
-        @media(max-width:860px){
-          .blog-featured-grid{grid-template-columns:1fr!important}
-          .blog-featured-grid>div:first-child{min-height:220px!important}
-          .blog-sub-grid{grid-template-columns:1fr!important}
-        }
-        @media(max-width:640px){
-          .blog-sub-grid{grid-template-columns:1fr!important}
-        }
-      `}</style>
     </>
   );
 }

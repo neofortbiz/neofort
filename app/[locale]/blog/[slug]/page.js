@@ -254,7 +254,7 @@ export default async function ArticlePage({ params }) {
 
       {/* ── CONTENT + SIDEBAR ── */}
       <div className="container" style={{padding:'0 40px'}}>
-        <div style={{display:'grid',gridTemplateColumns:'1fr 300px',gap:'60px',alignItems:'start',padding:'56px 0 80px'}}>
+        <div className="article-layout" style={{display:'grid',gridTemplateColumns:'1fr 300px',gap:'60px',alignItems:'start',padding:'56px 0 80px'}}>
 
           {/* ARTICOL CONTENT */}
           <article>
@@ -268,7 +268,7 @@ export default async function ArticlePage({ params }) {
               <p style={{fontSize:'0.83rem',fontWeight:300,color:'#767676',lineHeight:1.7,marginBottom:'18px'}}>
                 Echipa Neofort BIZ oferă consultanță tehnică gratuită. Contactați-ne pentru o ofertă personalizată.
               </p>
-              <div style={{display:'flex',gap:'12px',flexWrap:'wrap'}}>
+              <div className="article-cta-btns" style={{display:'flex',gap:'12px',flexWrap:'wrap'}}>
                 <Link href={`/${locale}/contact`} className="btn btn-green" style={{fontSize:'.64rem'}}>SOLICITĂ OFERTĂ</Link>
                 <a href="https://wa.me/40752443435" target="_blank" rel="noopener" className="btn" style={{fontSize:'.64rem',borderColor:'#555',color:'#555'}}>WHATSAPP</a>
               </div>
@@ -276,7 +276,7 @@ export default async function ArticlePage({ params }) {
           </article>
 
           {/* SIDEBAR */}
-          <aside>
+          <aside className="article-sidebar">
             {/* Info card */}
             <div style={{background:'#f7f7f5',border:'1px solid #e8e8e8',padding:'24px 22px',marginBottom:'20px'}}>
               <span className="sec-label" style={{marginBottom:'16px'}}>Neofort BIZ</span>
@@ -315,9 +315,37 @@ export default async function ArticlePage({ params }) {
 
       {/* ── RESPONSIVE ── */}
       <style>{`
-        @media(max-width:900px){
-          .article-layout{grid-template-columns:1fr!important}
-          .article-sidebar{display:none}
+        /* Layout articol */
+        .article-layout {
+          display: grid;
+          grid-template-columns: 1fr 300px;
+          gap: 60px;
+          align-items: start;
+          padding: 56px 0 80px;
+        }
+        /* Tabel scroll pe mobil */
+        .article-layout table { width: 100%; }
+
+        @media (max-width: 900px) {
+          .article-layout {
+            grid-template-columns: 1fr !important;
+            gap: 0 !important;
+            padding: 36px 0 60px !important;
+          }
+          .article-sidebar { display: none !important; }
+        }
+
+        @media (max-width: 600px) {
+          .article-layout {
+            padding: 28px 0 48px !important;
+          }
+          /* Breadcrumb mai mic */
+          .article-layout nav { font-size: .58rem; }
+          /* CTA bloc */
+          .article-cta-btns { flex-direction: column !important; }
+          .article-cta-btns a { text-align: center !important; }
+          /* Tabel orizontal scroll */
+          .article-layout div[style*="overflow"] { margin: 0 -20px; }
         }
       `}</style>
     </>
