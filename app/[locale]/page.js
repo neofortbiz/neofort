@@ -423,9 +423,20 @@ const buildSchema = (locale, c) => ({
   ]
 });
 
+// Slug-uri traduse — identice cu SLUGS din Header/Footer
+const SLUGS = {
+  ro: { pvc:'tamplarie-pvc', aluminiu:'tamplarie-aluminiu', accesorii:'accesorii', servicii:'servicii', contact:'contact' },
+  en: { pvc:'pvc-windows', aluminiu:'aluminium-windows', accesorii:'accessories', servicii:'services', contact:'contact' },
+  de: { pvc:'kunststofffenster-pvc', aluminiu:'aluminiumfenster', accesorii:'zubehoer', servicii:'dienstleistungen', contact:'kontakt' },
+  fr: { pvc:'menuiserie-pvc', aluminiu:'menuiserie-aluminium', accesorii:'accessoires', servicii:'services', contact:'contact' },
+  es: { pvc:'carpinteria-pvc', aluminiu:'carpinteria-aluminio', accesorii:'accesorios', servicii:'servicios', contact:'contacto' },
+  it: { pvc:'infissi-pvc', aluminiu:'infissi-alluminio', accesorii:'accessori', servicii:'servizi', contact:'contatti' },
+};
+
 export default async function HomePage({ params }) {
   const { locale } = await params;
   const c = CONTENT[locale] || CONTENT.ro;
+  const s = SLUGS[locale] || SLUGS.ro;
 
   return (
     <>
@@ -438,7 +449,7 @@ export default async function HomePage({ params }) {
             {c.h1}
           </h1>
           <div className="hero-grid">
-            <Link href="tamplarie-pvc" className="hero-card">
+            <Link href={s.pvc} className="hero-card">
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#bbb'}}>{c.hero_pvc_tag}</span>
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#4a7c59',display:'block',marginBottom:'14px'}}>{c.hero_pvc_label}</span>
@@ -447,7 +458,7 @@ export default async function HomePage({ params }) {
                 <span className="btn btn-pvc" style={{display:'block',textAlign:'center'}}>{c.hero_pvc_btn}</span>
               </div>
             </Link>
-            <Link href="tamplarie-aluminiu" className="hero-card">
+            <Link href={s.aluminiu} className="hero-card">
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#bbb'}}>{c.hero_al_tag}</span>
               <div>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d5a8e',display:'block',marginBottom:'14px'}}>{c.hero_al_label}</span>
@@ -480,11 +491,11 @@ export default async function HomePage({ params }) {
               {c.intro_p2_mid}{' '}
               <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b2}</strong>,{' '}
               {locale === 'ro' ? 'echipa noastră oferă consultanță tehnică dedicată și ' : locale === 'en' ? 'our team offers dedicated technical consultancy and ' : locale === 'de' ? 'unser Team bietet fachkundige Beratung und ' : locale === 'fr' ? 'notre équipe offre une expertise technique et ' : locale === 'es' ? 'nuestro equipo ofrece asesoramiento técnico y ' : 'il nostro team offre consulenza tecnica dedicata e '}
-              <Link href="servicii" style={{color:'#1a1a1a',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link1}</Link>.{' '}
+              <Link href={s.servicii} style={{color:'#1a1a1a',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link1}</Link>.{' '}
               {locale === 'ro' ? 'Gama noastră include ' : locale === 'en' ? 'Our range includes ' : locale === 'de' ? 'Unser Sortiment umfasst ' : locale === 'fr' ? 'Notre gamme comprend ' : locale === 'es' ? 'Nuestra gama incluye ' : 'La nostra gamma include '}
               <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b3}</strong>{' '}{c.intro_p2_and}{' '}
               <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b4}</strong>,{' '}
-              <Link href="accesorii" style={{color:'#1a1a1a',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link2}</Link>{' '}
+              <Link href={s.accesorii} style={{color:'#1a1a1a',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link2}</Link>{' '}
               {c.intro_p2_end}
             </p>
           </div>
@@ -505,7 +516,7 @@ export default async function HomePage({ params }) {
           <span className="sec-label">{c.sec_products}</span>
           <div className="cards-home-grid">
             {c.products.map(p=>(
-              <Link key={p.href} href={p.href} className="prod-card" style={{borderTop:`3px solid ${p.topColor}`,textDecoration:'none'}}>
+              <Link key={p.href} href={s[p.href] || p.href} className="prod-card" style={{borderTop:`3px solid ${p.topColor}`,textDecoration:'none'}}>
                 <div style={{padding:'22px 22px 24px',display:'flex',flexDirection:'column',flex:1}}>
                   <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6625rem',letterSpacing:'.2em',textTransform:'uppercase',color:p.topColor,display:'block',marginBottom:'9px'}}>{p.tag}</span>
                   <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0125rem',color:'#1a1a1a',marginBottom:'9px',letterSpacing:'.02em'}}>{p.title}</h3>
@@ -590,7 +601,7 @@ export default async function HomePage({ params }) {
         <div className="container" style={{paddingTop:'32px',paddingBottom:'0',borderTop:'1px solid #1e1e1e'}}>
           <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
             {c.seo_bridge.split(c.seo_link)[0]}
-            <Link href="contact" style={{color:'#555',textDecoration:'underline'}}>{c.seo_link}</Link>
+            <Link href={s.contact} style={{color:'#555',textDecoration:'underline'}}>{c.seo_link}</Link>
             {c.seo_bridge.split(c.seo_link)[1]}
           </p>
         </div>
