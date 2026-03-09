@@ -1,13 +1,12 @@
 import { Link } from '../../../../i18n/navigation';
-import { ARTICLES, getArticle, getAllSlugs } from '../../../../data/blog.js';
+import { ARTICLES, getArticle, getSlugForLocale, getAllLocaleSlugPairs } from '../../../../data/blog.js';
 import { notFound } from 'next/navigation';
 
 const BASE = 'https://www.neofort-biz.ro';
+const LOCALES = ['ro','en','de','fr','es','it'];
 
-export async function generateStaticParams() {
-  const locales = ['ro','en','de','fr','es','it'];
-  const slugs = getAllSlugs();
-  return locales.flatMap(locale => slugs.map(slug => ({ locale, slug })));
+export function generateStaticParams() {
+  return getAllLocaleSlugPairs();
 }
 
 export async function generateMetadata({ params }) {
@@ -15,170 +14,111 @@ export async function generateMetadata({ params }) {
   const a = getArticle(slug);
   if (!a) return {};
   const title = a.title[locale] || a.title.ro;
-  const desc  = a.metaDesc?.[locale] || a.metaDesc?.ro || (a.excerpt[locale] || a.excerpt.ro);
+  const desc  = a.metaDesc?.[locale] || a.excerpt[locale] || a.excerpt.ro;
+  const mySlug = a.slugs[locale] || a.slugs.ro;
   return {
     title: `${title} | Neofort BIZ`,
     description: desc,
-    keywords: a.keywords || '',
+    robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/blog/${slug}`,
-      languages: Object.fromEntries(['ro','en','de','fr','es','it'].map(l=>[l,`${BASE}/${l}/blog/${slug}`])),
+      canonical: `${BASE}/${locale}/blog/${mySlug}`,
+      languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${a.slugs[l] || a.slugs.ro}`])),
     },
     openGraph: {
-      type:'article', url:`${BASE}/${locale}/blog/${slug}`,
-      title:`${title} | Neofort BIZ`, description: desc,
-      publishedTime: a.date, authors:['https://www.neofort-biz.ro'],
-      siteName:'Neofort BIZ',
-      images:[{ url:`${BASE}/og-neofort.jpg`, width:1200, height:630 }],
+      type: 'article',
+      url: `${BASE}/${locale}/blog/${mySlug}`,
+      siteName: 'Neofort BIZ',
+      title: `${title} | Neofort BIZ`,
+      description: desc,
+      images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
     },
   };
 }
 
-// ── Renderer Markdown simplu (fără dependențe externe) ────────────────────
+// Renderer Markdown → React simplu
 function renderMarkdown(md) {
-  if (!md) return [];
-  const lines = md.trim().split('\n');
+  const lines = md.split('\n');
   const elements = [];
   let i = 0;
+  let key = 0;
 
   const inlineFormat = (text) => {
-    // Bold **text**
-    text = text.replace(/\*\*(.+?)\*\*/g, '<strong style="color:#1a1a1a;font-weight:500">$1</strong>');
-    // Links [text](url) — not needed here but safe
-    return text;
+    const parts = [];
+    let remaining = text;
+    let k = 0;
+    while (remaining.length > 0) {
+      const boldMatch = remaining.match(/^(.*?)\*\*(.+?)\*\*(.*)/s);
+      if (boldMatch) {
+        if (boldMatch[1]) parts.push(boldMatch[1]);
+        parts.push(<strong key={k++}>{boldMatch[2]}</strong>);
+        remaining = boldMatch[3];
+      } else {
+        parts.push(remaining);
+        break;
+      }
+    }
+    return parts;
   };
 
   while (i < lines.length) {
     const line = lines[i];
 
-    // H2
     if (line.startsWith('## ')) {
-      elements.push({ type:'h2', text: line.slice(3) });
-      i++; continue;
-    }
-    // H3
-    if (line.startsWith('### ')) {
-      elements.push({ type:'h3', text: line.slice(4) });
-      i++; continue;
-    }
-    // HR
-    if (line.trim() === '---') {
-      elements.push({ type:'hr' });
-      i++; continue;
-    }
-    // Table (detectare simplă)
-    if (line.startsWith('|')) {
+      elements.push(<h2 key={key++} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.35rem',color:'#1a1a1a',marginTop:'2.5rem',marginBottom:'1rem',letterSpacing:'.01em'}}>{line.slice(3)}</h2>);
+    } else if (line.startsWith('### ')) {
+      elements.push(<h3 key={key++} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.05rem',color:'#1a1a1a',marginTop:'1.75rem',marginBottom:'.6rem',letterSpacing:'.01em'}}>{line.slice(4)}</h3>);
+    } else if (line.startsWith('---')) {
+      elements.push(<hr key={key++} style={{border:'none',borderTop:'1px solid #e8e8e8',margin:'2rem 0'}}/>);
+    } else if (line.startsWith('| ')) {
+      // Tabel
       const rows = [];
       while (i < lines.length && lines[i].startsWith('|')) {
-        const row = lines[i].split('|').filter((c,idx,arr)=>idx>0&&idx<arr.length-1).map(c=>c.trim());
-        if (!row.join('').match(/^[-: ]+$/)) rows.push(row);
+        if (!lines[i].match(/^\|[-\s|]+\|$/)) {
+          const cells = lines[i].split('|').filter((c,idx,arr) => idx>0 && idx<arr.length-1).map(c=>c.trim());
+          rows.push(cells);
+        }
         i++;
       }
-      elements.push({ type:'table', rows });
+      elements.push(
+        <div key={key++} style={{overflowX:'auto',margin:'1.5rem 0'}}>
+          <table style={{width:'100%',borderCollapse:'collapse',fontSize:'.82rem'}}>
+            <thead>
+              <tr>{rows[0]?.map((c,j)=>(<th key={j} style={{textAlign:'left',padding:'8px 12px',background:'#f5f5f3',borderBottom:'2px solid #e0e0e0',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.78rem',letterSpacing:'.05em',textTransform:'uppercase',color:'#555'}}>{c}</th>))}</tr>
+            </thead>
+            <tbody>
+              {rows.slice(1).map((row,ri)=>(
+                <tr key={ri} style={{borderBottom:'1px solid #f0f0f0'}}>
+                  {row.map((c,j)=>(<td key={j} style={{padding:'8px 12px',color:'#555',verticalAlign:'top'}} dangerouslySetInnerHTML={{__html:c.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')}}/>))}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      );
       continue;
-    }
-    // List item ✅ ⚠️ sau -
-    if (line.match(/^[✅⚠️\-\*] /)) {
-      const items = [];
-      while (i < lines.length && lines[i].match(/^[✅⚠️\-\*] /)) {
-        items.push({ text: lines[i].slice(2), icon: lines[i][0] });
+    } else if (line.match(/^[-✅⚠️]/) || line.match(/^\d+\. /)) {
+      const listItems = [];
+      while (i < lines.length && (lines[i].match(/^[-✅⚠️]/) || lines[i].match(/^\d+\. /))) {
+        const text = lines[i].replace(/^[-✅⚠️]\s*/, '').replace(/^\d+\.\s*/, '');
+        const prefix = lines[i].match(/^(✅|⚠️)/) ? lines[i].match(/^(✅|⚠️)/)[1]+' ' : '';
+        listItems.push(<li key={i} style={{marginBottom:'.4rem'}}>{prefix}{inlineFormat(text)}</li>);
         i++;
       }
-      elements.push({ type:'list', items });
+      elements.push(<ul key={key++} style={{margin:'1rem 0 1rem 1.2rem',padding:0,color:'#555',fontSize:'.87rem',lineHeight:1.7}}>{listItems}</ul>);
       continue;
+    } else if (line.startsWith('**') && line.endsWith('**') && !line.slice(2,-2).includes('**')) {
+      elements.push(<p key={key++} style={{fontWeight:600,color:'#1a1a1a',fontSize:'.87rem',margin:'.75rem 0 .25rem'}}>{line.slice(2,-2)}</p>);
+    } else if (line.trim() === '') {
+      // skip blank lines
+    } else if (line.trim()) {
+      elements.push(<p key={key++} style={{fontSize:'.87rem',color:'#555',lineHeight:1.8,margin:'.75rem 0'}}>{inlineFormat(line)}</p>);
     }
-    // Numbered list
-    if (line.match(/^\d+\. /)) {
-      const items = [];
-      while (i < lines.length && lines[i].match(/^\d+\. /)) {
-        items.push(lines[i].replace(/^\d+\. /,''));
-        i++;
-      }
-      elements.push({ type:'numlist', items });
-      continue;
-    }
-    // Empty line
-    if (line.trim() === '') { i++; continue; }
-    // Paragraph
-    const paraLines = [];
-    while (i < lines.length && lines[i].trim() !== '' && !lines[i].startsWith('#') && !lines[i].startsWith('|') && lines[i].trim() !== '---') {
-      paraLines.push(lines[i]);
-      i++;
-    }
-    if (paraLines.length) elements.push({ type:'p', text: paraLines.join(' ') });
+    i++;
   }
   return elements;
 }
 
-function ContentBlock({ elements }) {
-  return elements.map((el, idx) => {
-    if (el.type === 'h2') return (
-      <h2 key={idx} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.15rem,3vw,1.5rem)',color:'#1a1a1a',marginTop:'48px',marginBottom:'16px',lineHeight:1.25,paddingBottom:'10px',borderBottom:'1px solid #e8e8e8'}}>
-        {el.text}
-      </h2>
-    );
-    if (el.type === 'h3') return (
-      <h3 key={idx} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0rem',color:'#1a1a1a',marginTop:'28px',marginBottom:'10px',letterSpacing:'.03em'}}>
-        {el.text}
-      </h3>
-    );
-    if (el.type === 'hr') return (
-      <hr key={idx} style={{border:'none',borderTop:'1px solid #e8e8e8',margin:'36px 0'}}/>
-    );
-    if (el.type === 'p') return (
-      <p key={idx} style={{fontSize:'0.875rem',fontWeight:300,color:'#767676',lineHeight:1.8,marginBottom:'16px',textAlign:'justify'}}
-        dangerouslySetInnerHTML={{ __html: el.text.replace(/\*\*(.+?)\*\*/g,'<strong style="color:#1a1a1a;font-weight:500">$1</strong>') }}
-      />
-    );
-    if (el.type === 'list') return (
-      <ul key={idx} style={{listStyle:'none',padding:0,marginBottom:'16px'}}>
-        {el.items.map((item,j) => (
-          <li key={j} style={{display:'flex',alignItems:'flex-start',gap:'8px',fontSize:'0.85rem',fontWeight:300,color:'#767676',lineHeight:1.7,padding:'4px 0',borderBottom:'1px solid #f5f5f5'}}>
-            <span style={{flexShrink:0,marginTop:'1px'}}>{item.icon}</span>
-            <span dangerouslySetInnerHTML={{ __html: item.text.replace(/\*\*(.+?)\*\*/g,'<strong style="color:#1a1a1a;font-weight:500">$1</strong>') }}/>
-          </li>
-        ))}
-      </ul>
-    );
-    if (el.type === 'numlist') return (
-      <ol key={idx} style={{listStyle:'none',padding:0,marginBottom:'16px',counterReset:'neolist'}}>
-        {el.items.map((item,j) => (
-          <li key={j} style={{display:'flex',alignItems:'flex-start',gap:'14px',fontSize:'0.85rem',fontWeight:300,color:'#767676',lineHeight:1.7,padding:'8px 0',borderBottom:'1px solid #f5f5f5'}}>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'0.9rem',color:'#1a1a1a',flexShrink:0,minWidth:'20px'}}>{j+1}.</span>
-            <span dangerouslySetInnerHTML={{ __html: item.replace(/\*\*(.+?)\*\*/g,'<strong style="color:#1a1a1a;font-weight:500">$1</strong>') }}/>
-          </li>
-        ))}
-      </ol>
-    );
-    if (el.type === 'table') return (
-      <div key={idx} style={{overflowX:'auto',marginBottom:'24px'}}>
-        <table style={{width:'100%',borderCollapse:'collapse',fontSize:'0.8rem'}}>
-          <thead>
-            <tr>
-              {el.rows[0]?.map((cell,j) => (
-                <th key={j} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'0.72rem',letterSpacing:'.1em',textTransform:'uppercase',color:'#1a1a1a',padding:'10px 14px',borderBottom:'2px solid #1a1a1a',textAlign:'left',whiteSpace:'nowrap',background:'#f7f7f5'}}>{cell}</th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {el.rows.slice(1).map((row,ri) => (
-              <tr key={ri} style={{borderBottom:'1px solid #ebebeb',background:ri%2===0?'#fff':'#fafafa'}}>
-                {row.map((cell,ci) => (
-                  <td key={ci} style={{padding:'9px 14px',fontWeight:ci===0?400:300,color:ci===0?'#1a1a1a':'#767676',verticalAlign:'middle'}}
-                    dangerouslySetInnerHTML={{ __html: cell.replace(/\*\*(.+?)\*\*/g,'<strong style="color:#1a1a1a;font-weight:500">$1</strong>') }}
-                  />
-                ))}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
-    );
-    return null;
-  });
-}
-
-export default async function ArticlePage({ params }) {
+export default async function BlogArticlePage({ params }) {
   const { locale, slug } = await params;
   const a = getArticle(slug);
   if (!a) notFound();
@@ -188,39 +128,33 @@ export default async function ArticlePage({ params }) {
   const cat     = a.category[locale]|| a.category.ro;
   const rt      = a.readTime[locale]|| a.readTime.ro;
   const date    = a.dateDisplay[locale]||a.dateDisplay.ro;
-  const content = a.content_ro; // tot conținutul e RO, viitor: a.content?.[locale] || a.content_ro
+  const content = a.content[locale] || a.content.ro;
+  const mySlug  = a.slugs[locale]   || a.slugs.ro;
+
   const elements = renderMarkdown(content);
 
-  // Schema Article pentru Google
   const schema = {
     "@context":"https://schema.org",
-    "@type":"Article",
+    "@type":"BlogPosting",
     "headline": title,
-    "description": a.metaDesc?.[locale] || a.metaDesc?.ro || excerpt,
-    "url": `${BASE}/${locale}/blog/${slug}`,
+    "description": a.metaDesc?.[locale] || excerpt,
+    "url": `${BASE}/${locale}/blog/${mySlug}`,
     "datePublished": a.date,
     "dateModified": a.date,
-    "author":{"@type":"Organization","name":"Neofort BIZ","url":BASE},
-    "publisher":{"@type":"Organization","name":"Neofort BIZ","url":BASE,"logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`}},
-    "image":{"@type":"ImageObject","url":`${BASE}/og-neofort.jpg`,"width":1200,"height":630},
-    "keywords": a.keywords,
     "inLanguage": locale,
-    "isPartOf":{"@type":"Blog","url":`${BASE}/${locale}/blog`},
-    "breadcrumb":{"@type":"BreadcrumbList","itemListElement":[
-      {"@type":"ListItem","position":1,"name":"Acasă","item":`${BASE}/${locale}`},
-      {"@type":"ListItem","position":2,"name":"Blog","item":`${BASE}/${locale}/blog`},
-      {"@type":"ListItem","position":3,"name":title,"item":`${BASE}/${locale}/blog/${slug}`},
-    ]},
+    "author": { "@type":"Organization","name":"Neofort BIZ","url":BASE },
+    "publisher": { "@type":"Organization","name":"Neofort BIZ","url":BASE,"logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`} },
+    "image": { "@type":"ImageObject","url":`${BASE}/og-neofort.jpg`,"width":1200,"height":630 },
+    "mainEntityOfPage": { "@type":"WebPage","@id":`${BASE}/${locale}/blog/${mySlug}` },
   };
 
-  // Articole recomandate (celelalte 3)
-  const related = ARTICLES.filter(x => x.slug !== slug).slice(0, 3);
+  const related = ARTICLES.filter(r => r.slugs.ro !== a.slugs.ro).slice(0,3);
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
 
-      {/* ── BREADCRUMB ── */}
+      {/* BREADCRUMB */}
       <div style={{background:'#f7f7f5',borderBottom:'1px solid #e8e8e8',padding:'10px 0'}}>
         <div className="container">
           <nav aria-label="breadcrumb" style={{display:'flex',alignItems:'center',gap:'6px',flexWrap:'wrap'}}>
@@ -233,121 +167,78 @@ export default async function ArticlePage({ params }) {
         </div>
       </div>
 
-      {/* ── ARTICLE HEADER ── */}
-      <div style={{background:a.imageBg,padding:'56px 0 52px',position:'relative',overflow:'hidden'}}>
-        <div style={{position:'absolute',inset:0,background:'rgba(0,0,0,.45)'}}/>
-        <div className="container" style={{position:'relative',zIndex:1}}>
-          <div style={{display:'flex',alignItems:'center',gap:'12px',marginBottom:'18px'}}>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:a.accentColor,fontWeight:500,background:'rgba(255,255,255,.07)',padding:'4px 10px',border:`1px solid ${a.accentColor}40`}}>{cat}</span>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',color:'rgba(255,255,255,.45)',letterSpacing:'.1em'}}>{rt}</span>
-            <span style={{width:'3px',height:'3px',borderRadius:'50%',background:'rgba(255,255,255,.2)',display:'inline-block'}}/>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',color:'rgba(255,255,255,.45)',letterSpacing:'.1em'}}>{date}</span>
+      {/* HERO */}
+      <div style={{background: a.imageBg || '#1a1a1a', padding:'56px 0 48px'}}>
+        <div className="container" style={{maxWidth:'780px'}}>
+          <div style={{display:'flex',alignItems:'center',gap:'12px',marginBottom:'16px',flexWrap:'wrap'}}>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.62rem',letterSpacing:'.2em',textTransform:'uppercase',color:'rgba(255,255,255,0.5)',background:'rgba(255,255,255,0.1)',padding:'4px 10px',borderRadius:'2px'}}>{cat}</span>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'rgba(255,255,255,0.4)'}}>{date}</span>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'rgba(255,255,255,0.4)'}}>{rt}</span>
           </div>
-          <h1 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.5rem,4.5vw,2.4rem)',color:'#fff',lineHeight:1.2,maxWidth:'760px',marginBottom:'18px'}}>
-            {title}
-          </h1>
-          <p style={{fontSize:'0.9rem',fontWeight:300,color:'rgba(255,255,255,.7)',maxWidth:'600px',lineHeight:1.7}}>
-            {excerpt}
-          </p>
+          <h1 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.5rem,4vw,2.1rem)',color:'#fff',lineHeight:1.25,letterSpacing:'.01em',marginBottom:'20px'}}>{title}</h1>
+          <p style={{fontSize:'.9rem',color:'rgba(255,255,255,0.7)',lineHeight:1.7,maxWidth:'640px'}}>{excerpt}</p>
         </div>
       </div>
 
-      {/* ── CONTENT + SIDEBAR ── */}
-      <div className="container" style={{padding:'0 40px'}}>
-        <div className="article-layout" style={{display:'grid',gridTemplateColumns:'1fr 300px',gap:'60px',alignItems:'start',padding:'56px 0 80px'}}>
+      {/* CONȚINUT */}
+      <div style={{background:'#fff',padding:'48px 0 64px'}}>
+        <div style={{maxWidth:'780px',margin:'0 auto',padding:'0 24px'}}>
 
-          {/* ARTICOL CONTENT */}
-          <article>
-            <ContentBlock elements={elements} />
+          {/* Hreflang notice pentru alte limbi */}
+          <div style={{display:'flex',flexWrap:'wrap',gap:'8px',marginBottom:'32px',padding:'12px 16px',background:'#f7f7f5',borderLeft:`3px solid ${a.accentColor}`}}>
+            {LOCALES.filter(l=>l!==locale).map(l=>(
+              <Link key={l} href={`/blog/${a.slugs[l] || a.slugs.ro}`} locale={l}
+                style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.12em',textTransform:'uppercase',color:'#888',textDecoration:'none',padding:'3px 8px',border:'1px solid #e0e0e0',background:'#fff'}}>
+                {l.toUpperCase()}
+              </Link>
+            ))}
+          </div>
 
-            {/* CTA inline */}
-            <div style={{marginTop:'48px',padding:'32px 36px',background:'#f7f7f5',borderLeft:'3px solid #1a1a1a'}}>
-              <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.05rem',color:'#1a1a1a',marginBottom:'8px'}}>
-                Aveți întrebări despre acest subiect?
-              </h3>
-              <p style={{fontSize:'0.83rem',fontWeight:300,color:'#767676',lineHeight:1.7,marginBottom:'18px'}}>
-                Echipa Neofort BIZ oferă consultanță tehnică gratuită. Contactați-ne pentru o ofertă personalizată.
-              </p>
-              <div className="article-cta-btns" style={{display:'flex',gap:'12px',flexWrap:'wrap'}}>
-                <Link href="/contact" className="btn btn-green" style={{fontSize:'.64rem'}}>SOLICITĂ OFERTĂ</Link>
-                <a href="https://wa.me/40752443435" target="_blank" rel="noopener" className="btn" style={{fontSize:'.64rem',borderColor:'#555',color:'#555'}}>WHATSAPP</a>
+          {elements}
+
+          {/* CTA */}
+          <div style={{background:'#1a1a1a',padding:'32px',marginTop:'48px',display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'20px'}}>
+            <div>
+              <p style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.05rem',color:'#fff',marginBottom:'4px',letterSpacing:'.02em'}}>Neofort BIZ — Consultanță gratuită</p>
+              <p style={{fontSize:'.75rem',color:'#888',marginBottom:0}}>Răspuns în 48 ore · Ofertă personalizată</p>
+            </div>
+            <div style={{display:'flex',gap:'12px',flexWrap:'wrap'}}>
+              <Link href="/contact" className="btn btn-green" style={{fontSize:'.64rem'}}>SOLICITĂ OFERTĂ</Link>
+              <a href="https://wa.me/40752443435" target="_blank" rel="noopener" className="btn" style={{fontSize:'.64rem',borderColor:'#555',color:'#555'}}>WHATSAPP</a>
+            </div>
+          </div>
+
+          {/* Articole related */}
+          {related.length > 0 && (
+            <div style={{marginTop:'56px'}}>
+              <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#aaa',marginBottom:'24px'}}>Articole similare</h3>
+              <div style={{display:'grid',gap:'16px'}}>
+                {related.map(r=>{
+                  const rt2 = r.title[locale] || r.title.ro;
+                  const rc  = r.category[locale] || r.category.ro;
+                  const rSlug = r.slugs[locale] || r.slugs.ro;
+                  return (
+                    <Link key={r.slugs.ro} href={`/blog/${rSlug}`}
+                      style={{textDecoration:'none',display:'block',padding:'16px',border:'1px solid #f0f0f0',background:'#fafafa'}}>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.15em',textTransform:'uppercase',color:r.accentColor,display:'block',marginBottom:'4px'}}>{rc}</span>
+                      <span style={{fontSize:'.85rem',color:'#1a1a1a',fontWeight:500}}>{rt2}</span>
+                    </Link>
+                  );
+                })}
               </div>
             </div>
-          </article>
+          )}
 
-          {/* SIDEBAR */}
-          <aside className="article-sidebar">
-            {/* Info card */}
-            <div style={{background:'#f7f7f5',border:'1px solid #e8e8e8',padding:'24px 22px',marginBottom:'20px'}}>
-              <span className="sec-label" style={{marginBottom:'16px'}}>Neofort BIZ</span>
-              <p style={{fontSize:'0.8rem',fontWeight:300,color:'#767676',lineHeight:1.7,marginBottom:'16px'}}>
-                Producător tâmplărie PVC Salamander și aluminiu Alumil. 21 ani experiență, livrare Europa.
-              </p>
-              <Link href="/contact" className="btn btn-green" style={{fontSize:'.62rem',display:'block',textAlign:'center'}}>SOLICITĂ OFERTĂ</Link>
-            </div>
-
-            {/* Articole recomandate */}
-            <div style={{border:'1px solid #e8e8e8',padding:'20px 20px 8px'}}>
-              <span className="sec-label" style={{marginBottom:'14px'}}>Mai citește</span>
-              {related.map(r => {
-                const rt2 = r.title[locale] || r.title.ro;
-                const rc  = r.category[locale] || r.category.ro;
-                return (
-                  <Link key={r.slug} href={`/blog/${r.slug}`} style={{textDecoration:'none',display:'block',marginBottom:'14px',paddingBottom:'14px',borderBottom:'1px solid #f0f0f0'}}>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.57rem',letterSpacing:'.16em',textTransform:'uppercase',color:r.accentColor,display:'block',marginBottom:'4px'}}>{rc}</span>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.9rem',color:'#1a1a1a',lineHeight:1.3,display:'block'}}>{rt2}</span>
-                  </Link>
-                );
-              })}
-            </div>
-
-            {/* Contact rapid */}
-            <div style={{background:'#111',padding:'22px',marginTop:'20px'}}>
-              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.18em',textTransform:'uppercase',color:'#666',display:'block',marginBottom:'10px'}}>Contact rapid</span>
-              <a href="tel:+40752443435" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'1.05rem',color:'#fff',textDecoration:'none',display:'block',marginBottom:'4px',letterSpacing:'.04em'}}>+40 752 443 435</a>
-              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',color:'#555',letterSpacing:'.1em'}}>Oferte — Luni–Vineri 10–18</span>
-              <a href="mailto:oferte@neofort-biz.ro" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.7rem',color:'#888',textDecoration:'none',display:'block',marginTop:'8px'}}>oferte@neofort-biz.ro</a>
-            </div>
-          </aside>
+          {/* Contact sidebar */}
+          <div style={{marginTop:'48px',padding:'24px',background:'#f7f7f5',borderTop:`3px solid ${a.accentColor}`}}>
+            <p style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.6rem',letterSpacing:'.15em',textTransform:'uppercase',color:'#aaa',marginBottom:'12px'}}>Contact direct</p>
+            <a href="tel:+40752443435" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'1.05rem',color:'#fff',textDecoration:'none',display:'block',marginBottom:'4px',letterSpacing:'.04em',color:'#1a1a1a'}}>+40 752 443 435</a>
+            <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.08em',color:'#aaa',marginBottom:'4px'}}>Luni–Vineri · 10:00–18:00</p>
+            <a href="mailto:oferte@neofort-biz.ro" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.7rem',color:'#888',textDecoration:'none',display:'block',marginTop:'8px'}}>oferte@neofort-biz.ro</a>
+          </div>
 
         </div>
       </div>
-
-      {/* ── RESPONSIVE ── */}
-      <style>{`
-        /* Layout articol */
-        .article-layout {
-          display: grid;
-          grid-template-columns: 1fr 300px;
-          gap: 60px;
-          align-items: start;
-          padding: 56px 0 80px;
-        }
-        /* Tabel scroll pe mobil */
-        .article-layout table { width: 100%; }
-
-        @media (max-width: 900px) {
-          .article-layout {
-            grid-template-columns: 1fr !important;
-            gap: 0 !important;
-            padding: 36px 0 60px !important;
-          }
-          .article-sidebar { display: none !important; }
-        }
-
-        @media (max-width: 600px) {
-          .article-layout {
-            padding: 28px 0 48px !important;
-          }
-          /* Breadcrumb mai mic */
-          .article-layout nav { font-size: .58rem; }
-          /* CTA bloc */
-          .article-cta-btns { flex-direction: column !important; }
-          .article-cta-btns a { text-align: center !important; }
-          /* Tabel orizontal scroll */
-          .article-layout div[style*="overflow"] { margin: 0 -20px; }
-        }
-      `}</style>
     </>
   );
 }

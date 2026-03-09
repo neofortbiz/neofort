@@ -1,10 +1,9 @@
 export const dynamic = 'force-static';
 
 const BASE = 'https://www.neofort-biz.ro';
-const locales = ['ro','en','de','fr','es','it'];
+const LOCALES = ['ro','en','de','fr','es','it'];
 
-// Slug-uri traduse — identice cu routing.js pathnames
-const SLUGS = {
+const PAGE_SLUGS = {
   ro: { pvc:'tamplarie-pvc', aluminiu:'tamplarie-aluminiu', accesorii:'accesorii', servicii:'servicii', contact:'contact', despre:'despre', gdpr:'gdpr' },
   en: { pvc:'pvc-windows', aluminiu:'aluminium-windows', accesorii:'accessories', servicii:'services', contact:'contact', despre:'about', gdpr:'privacy-policy' },
   de: { pvc:'kunststofffenster-pvc', aluminiu:'aluminiumfenster', accesorii:'zubehoer', servicii:'dienstleistungen', contact:'kontakt', despre:'ueber-uns', gdpr:'datenschutz' },
@@ -13,7 +12,41 @@ const SLUGS = {
   it: { pvc:'infissi-pvc', aluminiu:'infissi-alluminio', accesorii:'accessori', servicii:'servizi', contact:'contatti', despre:'chi-siamo', gdpr:'informativa-privacy' },
 };
 
-// Pagini cu prioritate — key = slug intern
+const BLOG_SLUGS = [
+  {
+    ro: 'bluevolution-92-vs-greenevolution-76',
+    en: 'bluevolution-92-vs-greenevolution-76-guide',
+    de: 'bluevolution-92-vs-greenevolution-76-leitfaden',
+    fr: 'bluevolution-92-vs-greenevolution-76-guide',
+    es: 'bluevolution-92-vs-greenevolution-76-guia',
+    it: 'bluevolution-92-vs-greenevolution-76-guida',
+  },
+  {
+    ro: 'montaj-precadre-blaugelb-nzeb',
+    en: 'blaugelb-triotherm-precasing-installation-nzeb',
+    de: 'blaugelb-triotherm-vorfenster-montage-nzeb',
+    fr: 'precadres-blaugelb-triotherm-pose-nzeb',
+    es: 'instalacion-premarcos-blaugelb-triotherm-nzeb',
+    it: 'installazione-precassonetti-blaugelb-triotherm-nzeb',
+  },
+  {
+    ro: 'jaluzele-raffstore-vs-rulouri-aluminiu',
+    en: 'raffstore-blinds-vs-aluminium-shutters',
+    de: 'raffstore-jalousien-vs-aluminiumrolllaeden',
+    fr: 'stores-raffstore-vs-volets-roulants-aluminium',
+    es: 'persianas-raffstore-vs-cierres-enrollables-aluminio',
+    it: 'veneziane-raffstore-vs-tapparelle-alluminio',
+  },
+  {
+    ro: 'export-tamplarie-germania',
+    en: 'export-windows-germany-romania',
+    de: 'fensterexport-rumaenien-deutschland',
+    fr: 'export-menuiseries-roumanie-allemagne',
+    es: 'exportacion-carpinteria-rumania-alemania',
+    it: 'esportazione-serramenti-romania-germania',
+  },
+];
+
 const pages = [
   { key:'',          priority:1.0, freq:'weekly'  },
   { key:'pvc',       priority:0.9, freq:'monthly' },
@@ -26,54 +59,44 @@ const pages = [
   { key:'gdpr',      priority:0.2, freq:'yearly'  },
 ];
 
-const blogSlugs = [
-  'bluevolution-92-vs-greenevolution-76',
-  'montaj-precadre-blaugelb-nzeb',
-  'jaluzele-raffstore-vs-rulouri-aluminiu',
-  'export-tamplarie-germania',
-];
-
-// Returnează slug-ul tradus per limbă pentru o cheie dată
-function slug(locale, key) {
+function pageSlug(locale, key) {
   if (!key) return '';
   if (key === 'blog') return '/blog';
-  return '/' + (SLUGS[locale]?.[key] || SLUGS.ro[key]);
+  return '/' + (PAGE_SLUGS[locale]?.[key] || PAGE_SLUGS.ro[key]);
 }
 
 export default function sitemap() {
   const now = new Date().toISOString();
   const urls = [];
 
-  locales.forEach(locale => {
-    // Pagini principale — URL tradus per limbă
+  LOCALES.forEach(locale => {
+    // Pagini principale
     pages.forEach(p => {
-      const path = slug(locale, p.key);
+      const path = pageSlug(locale, p.key);
       urls.push({
         url: `${BASE}/${locale}${path}`,
         lastModified: now,
         priority: p.priority,
         changeFrequency: p.freq,
-        // alternates hreflang cu URL-urile traduse per limbă
         alternates: {
-          languages: Object.fromEntries(
-            locales.map(l => [l, `${BASE}/${l}${slug(l, p.key)}`])
-          ),
+          languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}${pageSlug(l, p.key)}`])),
         },
       });
     });
 
-    // Articole blog — slug unic (nu are traduceri separate)
-    blogSlugs.forEach(s => urls.push({
-      url: `${BASE}/${locale}/blog/${s}`,
-      lastModified: now,
-      priority: 0.8,
-      changeFrequency: 'monthly',
-      alternates: {
-        languages: Object.fromEntries(
-          locales.map(l => [l, `${BASE}/${l}/blog/${s}`])
-        ),
-      },
-    }));
+    // Articole blog — slug tradus per limbă
+    BLOG_SLUGS.forEach(slugs => {
+      const mySlug = slugs[locale] || slugs.ro;
+      urls.push({
+        url: `${BASE}/${locale}/blog/${mySlug}`,
+        lastModified: now,
+        priority: 0.8,
+        changeFrequency: 'monthly',
+        alternates: {
+          languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${slugs[l] || slugs.ro}`])),
+        },
+      });
+    });
   });
 
   return urls;
