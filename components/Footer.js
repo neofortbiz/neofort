@@ -123,10 +123,10 @@ export default function Footer() {
           ) : (
             <form onSubmit={handleSubmit}>
               <div style={{border:'1px solid #2a2a2a'}}>
-                <div style={{display:'grid',gridTemplateColumns:'1fr 1.6fr 1.4fr'}}>
+                <div className="form-grid">
 
                   {/* Col 1 — Departamente */}
-                  <div style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
+                  <div className="form-col form-col-dept" style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>Departamente</span>
                     {[
                       ['Office','+40 21 528 06 61','tel:+40215280661'],
@@ -153,7 +153,7 @@ export default function Footer() {
                   </div>
 
                   {/* Col 2 — Date Client */}
-                  <div style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
+                  <div className="form-col form-col-client" style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>Date Client</span>
 
                     <div style={{marginBottom:'16px'}}>
@@ -198,7 +198,7 @@ export default function Footer() {
                   </div>
 
                   {/* Col 3 — Checkboxuri produse */}
-                  <div style={{padding:'36px 32px'}}>
+                  <div className="form-col form-col-produse" style={{padding:'36px 32px'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.18em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'12px'}}>Cererea va conține:</span>
                     {PRODUSE.map((item,i)=>(
                       <div key={i} style={{display:'flex',alignItems:'center',gap:'10px',padding:'5px 0',borderBottom:'1px solid #1e1e1e'}}>
@@ -240,14 +240,14 @@ export default function Footer() {
 
       {/* ── FOOTER GRID ── */}
       <div className="footer-inner">
-        <div style={{display:'grid',gridTemplateColumns:'repeat(4,1fr)',gap:0}}>
+        <div className="footer-grid-logo">
           <div style={{padding:'32px 32px 12px 0'}}>
             <span className="footer-logo">NEOFORT</span>
           </div>
           <div></div><div></div><div></div>
         </div>
-        <div style={{display:'grid',gridTemplateColumns:'repeat(4,1fr)',gap:0,padding:'0 0 36px',borderBottom:'1px solid #1e1e1e',alignItems:'start'}}>
-          <div style={{padding:'0 32px 32px 0'}}>
+        <div className="footer-grid-cols" style={{padding:'0 0 36px',borderBottom:'1px solid #1e1e1e',alignItems:'start'}}>
+          <div className="footer-col-1">
             <div className="footer-col-title">Tâmplărie PVC · Aluminiu</div>
             <p className="footer-desc">Furnizăm tâmplărie PVC Salamander și aluminiu Alumil cu geam termopan certificat nZEB. Precadre Blaugelb Triotherm+, jaluzele Raffstore, rulouri aluminiu. Montaj profesional și livrare în toată Europa.</p>
             <div className="footer-social">
@@ -262,7 +262,7 @@ export default function Footer() {
               ))}
             </div>
           </div>
-          <div style={{padding:'0 32px 32px 32px',borderLeft:'1px solid #1e1e1e'}}>
+          <div className="footer-col-2" style={{borderLeft:'1px solid #1e1e1e'}}>
             <div className="footer-col-title">Produse</div>
             <ul className="footer-links">
               <li><Link href={`/${locale}/tamplarie-pvc`}>Tâmplărie PVC Salamander</Link></li>
@@ -270,7 +270,7 @@ export default function Footer() {
               <li><Link href={`/${locale}/accesorii`}>Accesorii pentru Tâmplărie</Link></li>
             </ul>
           </div>
-          <div style={{padding:'0 32px 32px 32px',borderLeft:'1px solid #1e1e1e'}}>
+          <div className="footer-col-3" style={{borderLeft:'1px solid #1e1e1e'}}>
             <div className="footer-col-title">Info</div>
             <ul className="footer-links">
               <li><Link href={`/${locale}/servicii`}>Servicii</Link></li>
@@ -280,7 +280,7 @@ export default function Footer() {
               <li><Link href={`/${locale}/gdpr`}>Politica Cookies</Link></li>
             </ul>
           </div>
-          <div style={{padding:'0 0 32px 32px',borderLeft:'1px solid #1e1e1e'}}>
+          <div className="footer-col-4" style={{borderLeft:'1px solid #1e1e1e'}}>
             <div className="footer-col-title">Program de Lucru</div>
             {[['Luni','10:00 — 18:00'],['Marți','10:00 — 18:00'],['Miercuri','10:00 — 18:00'],['Joi','10:00 — 18:00'],['Vineri','10:00 — 18:00']].map(([z,h])=>(
               <div key={z} className="schedule-row">

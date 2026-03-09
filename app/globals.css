@@ -351,3 +351,69 @@ img,video{max-width:100%;height:auto}
 .schedule-closed{font-family:'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:300;color:#444;letter-spacing:.08em;text-transform:uppercase}
 .maps-link{display:inline-flex;align-items:center;gap:8px;margin-top:24px;font-family:'Barlow Condensed',sans-serif;font-size:.67rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;color:#888;text-decoration:none;padding:10px 0;border-bottom:1px solid #1e1e1e;width:100%;transition:color .15s}
 .maps-link:hover{color:#fff}
+
+/* ── FORMULAR CONTACT RESPONSIVE ── */
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.6fr 1.4fr;
+}
+.footer-grid-logo {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+}
+.footer-grid-cols {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0;
+}
+.footer-col-1 { padding: 0 32px 32px 0; }
+.footer-col-2 { padding: 0 32px 32px 32px; }
+.footer-col-3 { padding: 0 32px 32px 32px; }
+.footer-col-4 { padding: 0 0 32px 32px; }
+
+@media (max-width: 900px) {
+  /* Formular — o singură coloană */
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+  .form-col-dept {
+    border-right: none !important;
+    border-bottom: 1px solid #2a2a2a;
+  }
+  .form-col-client {
+    border-right: none !important;
+    border-bottom: 1px solid #2a2a2a;
+  }
+
+  /* Footer grid — 2 coloane pe tabletă */
+  .footer-grid-logo {
+    grid-template-columns: 1fr 1fr;
+  }
+  .footer-grid-cols {
+    grid-template-columns: 1fr 1fr;
+  }
+  .footer-col-1 { padding: 0 24px 32px 0; border-bottom: 1px solid #1e1e1e; }
+  .footer-col-2 { padding: 0 0 32px 24px; border-bottom: 1px solid #1e1e1e; }
+  .footer-col-3 { padding: 24px 24px 32px 0; border-left: none !important; }
+  .footer-col-4 { padding: 24px 0 32px 24px; }
+}
+
+@media (max-width: 600px) {
+  /* Footer grid — o coloană pe mobil */
+  .footer-grid-logo {
+    grid-template-columns: 1fr;
+  }
+  .footer-grid-cols {
+    grid-template-columns: 1fr;
+  }
+  .footer-col-1,
+  .footer-col-2,
+  .footer-col-3,
+  .footer-col-4 {
+    padding: 24px 0 24px 0 !important;
+    border-left: none !important;
+    border-bottom: 1px solid #1e1e1e;
+  }
+  .footer-col-4 { border-bottom: none; }
+}
