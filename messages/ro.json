@@ -392,7 +392,25 @@
   "footer": {
     "marca": "Neofort BIZ © Marcă înregistrată O.S.I.M. nr. M 2014 05130",
     "pvc": "Tâmplărie PVC - Salamander",
-    "aluminiu": "Tâmplărie Aluminiu - Alumil"
+    "aluminiu": "Tâmplărie Aluminiu - Alumil",
+    "col_products": "Produse",
+    "col_info": "Info",
+    "col_schedule": "Program de Lucru",
+    "col_brand": "Tâmplărie PVC · Aluminiu",
+    "brand_desc": "Furnizăm tâmplărie PVC Salamander și aluminiu Alumil cu geam termopan certificat nZEB. Precadre Blaugelb Triotherm+, jaluzele Raffstore, rulouri aluminiu. Montaj profesional și livrare în toată Europa.",
+    "maps": "Vezi pe Google Maps",
+    "closed": "Închis",
+    "days": [
+      "Luni",
+      "Marți",
+      "Miercuri",
+      "Joi",
+      "Vineri"
+    ],
+    "weekend": [
+      "Sâmbătă",
+      "Duminică"
+    ]
   },
   "cta": {
     "detalii": "Detalii",
@@ -414,10 +432,52 @@
     "error": "Eroare — Încearcă din nou",
     "success_title": "Solicitarea a fost trimisă!",
     "success_desc": "Vă vom contacta în maxim 2 zile lucrătoare.",
-    "success_btn": "Trimite altă solicitare"
+    "success_btn": "Trimite altă solicitare",
+    "form_title_label": "Contactați-ne",
+    "form_title_h2": "Solicitați o ofertă de preț pentru Tâmplărie PVC sau Tâmplărie aluminiu",
+    "col_dept": "Departamente",
+    "col_form": "Formular de contact",
+    "col_products": "Cererea va conține:",
+    "placeholder_name": "Nume Complet *",
+    "placeholder_phone": "Telefon *",
+    "placeholder_email": "E-mail *",
+    "placeholder_address": "Adresă de Livrare *",
+    "label_comanda": "Comanda să fie cu: *",
+    "select_placeholder": "Selectați opțiunea *",
+    "opt1": "Măsurătoare, Transport și Montaj",
+    "opt2": "Transport și Montaj",
+    "opt3": "Coletare și Transport Intern",
+    "opt4": "Coletare și Transport Export",
+    "opt5": "Coletare / Ridicare din Depozit",
+    "label_files": "Atașați schițe (max 7):",
+    "files_selected": "fișier(e) selectate",
+    "gdpr_text": "Am citit și sunt de acord cu",
+    "gdpr_privacy": "Politica de Confidențialitate",
+    "gdpr_and": "și",
+    "gdpr_cookies": "Politica de Cookies",
+    "gdpr_of": "a Neofort BIZ. *"
   },
   "blog": {
     "title": "Blog — Ghiduri Tehnice Tâmplărie PVC & Aluminiu | Neofort BIZ",
     "description": "Ghiduri tehnice, comparații și sfaturi despre tâmplărie PVC Salamander, aluminiu Alumil, izolare nZEB și sisteme de umbrire Raffstore."
-  }
+  },
+  "produse_list": [
+    "Tâmplărie PVC Salamander",
+    "Tâmplărie Aluminiu Alumil",
+    "Geam Termoizolator 2 Foi",
+    "Geam Termoizolator 3 Foi",
+    "Precadre Blaugelb Triotherm+",
+    "Baghete Warm Edge",
+    "Bandă Butilică Etanșare",
+    "Benzi Etanșare Vapori",
+    "Profile de Renovare",
+    "Pervazuri de Interior",
+    "Pervazuri de Exterior",
+    "Jaluzele Venețiene Raffstore",
+    "Rulouri Exterioare Aluminiu",
+    "Sisteme Ventilație",
+    "Sisteme Culisante",
+    "Uși de Intrare Premium",
+    "Uși de Garaj"
+  ]
 }

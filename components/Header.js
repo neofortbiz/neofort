@@ -2,12 +2,13 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { useLocale } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
 const LOCALES = ['ro','en','de','fr','es','it'];
 
 export default function Header() {
   const locale = useLocale();
+  const t = useTranslations('nav');
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
 
@@ -18,14 +19,14 @@ export default function Header() {
   };
 
   const links = [
-    { href: `/${locale}`,                    label: 'Acasă' },
-    { href: `/${locale}/tamplarie-pvc`,      label: 'Tâmplărie PVC' },
-    { href: `/${locale}/tamplarie-aluminiu`, label: 'Tâmplărie Aluminiu' },
-    { href: `/${locale}/accesorii`,          label: 'Accesorii' },
-    { href: `/${locale}/servicii`,           label: 'Servicii' },
-    { href: `/${locale}/despre`,             label: 'Despre' },
-    { href: `/${locale}/blog`,               label: 'Blog' },
-    { href: `/${locale}/contact`,            label: 'Contact' },
+    { href: `/${locale}`,                    label: t('home') },
+    { href: `/${locale}/tamplarie-pvc`,      label: t('pvc') },
+    { href: `/${locale}/tamplarie-aluminiu`, label: t('aluminiu') },
+    { href: `/${locale}/accesorii`,          label: t('accesorii') },
+    { href: `/${locale}/servicii`,           label: t('servicii') },
+    { href: `/${locale}/despre`,             label: t('despre') },
+    { href: `/${locale}/blog`,               label: t('blog') },
+    { href: `/${locale}/contact`,            label: t('contact') },
   ];
 
   return (
