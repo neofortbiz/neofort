@@ -120,5 +120,9 @@
     "success_title": "Anfrage erfolgreich gesendet!",
     "success_desc": "Wir melden uns innerhalb von 2 Werktagen bei Ihnen.",
     "success_btn": "Weitere Anfrage senden"
+  },
+  "blog": {
+    "title": "Blog — Technische Leitfäden PVC & Aluminiumfenster | Neofort BIZ",
+    "description": "Technische Leitfäden, Vergleiche und Tipps zu Salamander PVC-Fenstern, Alumil-Aluminium, nZEB-Dämmung und Raffstore-Beschattung."
   }
 }

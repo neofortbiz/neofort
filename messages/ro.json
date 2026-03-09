@@ -415,5 +415,9 @@
     "success_title": "Solicitarea a fost trimisă!",
     "success_desc": "Vă vom contacta în maxim 2 zile lucrătoare.",
     "success_btn": "Trimite altă solicitare"
+  },
+  "blog": {
+    "title": "Blog — Ghiduri Tehnice Tâmplărie PVC & Aluminiu | Neofort BIZ",
+    "description": "Ghiduri tehnice, comparații și sfaturi despre tâmplărie PVC Salamander, aluminiu Alumil, izolare nZEB și sisteme de umbrire Raffstore."
   }
 }

@@ -120,5 +120,9 @@
     "success_title": "Richiesta inviata con successo!",
     "success_desc": "Vi contatteremo entro 2 giorni lavorativi.",
     "success_btn": "Invia un'altra richiesta"
+  },
+  "blog": {
+    "title": "Blog — Guide Tecniche Serramenti PVC & Alluminio | Neofort BIZ",
+    "description": "Guide tecniche, confronti e consigli su serramenti PVC Salamander, alluminio Alumil, isolamento nZEB e veneziane Raffstore."
   }
 }

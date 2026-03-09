@@ -415,5 +415,9 @@
     "success_title": "Request sent successfully!",
     "success_desc": "We will contact you within 2 business days.",
     "success_btn": "Send another request"
+  },
+  "blog": {
+    "title": "Blog — Technical Guides PVC & Aluminium Windows | Neofort BIZ",
+    "description": "Technical guides, comparisons and tips about Salamander PVC windows, Alumil aluminium, nZEB insulation and Raffstore shading systems."
   }
 }

@@ -120,5 +120,9 @@
     "success_title": "¡Solicitud enviada con éxito!",
     "success_desc": "Nos pondremos en contacto en un plazo de 2 días hábiles.",
     "success_btn": "Enviar otra solicitud"
+  },
+  "blog": {
+    "title": "Blog — Guías Técnicas Carpintería PVC & Aluminio | Neofort BIZ",
+    "description": "Guías técnicas, comparaciones y consejos sobre carpintería PVC Salamander, aluminio Alumil, aislamiento nZEB y persianas Raffstore."
   }
 }

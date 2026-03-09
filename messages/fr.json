@@ -120,5 +120,9 @@
     "success_title": "Demande envoyée avec succès !",
     "success_desc": "Nous vous contacterons dans un délai de 2 jours ouvrables.",
     "success_btn": "Envoyer une autre demande"
+  },
+  "blog": {
+    "title": "Blog — Guides Techniques Menuiserie PVC & Aluminium | Neofort BIZ",
+    "description": "Guides techniques, comparaisons et conseils sur la menuiserie PVC Salamander, aluminium Alumil, isolation nZEB et stores Raffstore."
   }
 }
