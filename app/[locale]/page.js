@@ -506,7 +506,7 @@ export default async function HomePage({ params }) {
           <span className="sec-label">{c.sec_products}</span>
           <div className="cards-home-grid">
             {c.products.map(p=>(
-              <Link key={p.href} href={s[p.href] || p.href} className="prod-card" style={{borderTop:`3px solid ${p.topColor}`,textDecoration:'none'}}>
+              <Link key={p.href} href={p.href} className="prod-card" style={{borderTop:`3px solid ${p.topColor}`,textDecoration:'none'}}>
                 <div style={{padding:'22px 22px 24px',display:'flex',flexDirection:'column',flex:1}}>
                   <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6625rem',letterSpacing:'.2em',textTransform:'uppercase',color:p.topColor,display:'block',marginBottom:'9px'}}>{p.tag}</span>
                   <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0125rem',color:'#1a1a1a',marginBottom:'9px',letterSpacing:'.02em'}}>{p.title}</h3>
