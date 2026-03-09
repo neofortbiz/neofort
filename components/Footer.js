@@ -1,6 +1,6 @@
 'use client';
 import Link from 'next/link';
-import { useLocale } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
 
@@ -15,68 +15,88 @@ const PRODUSE = [
   'Uși de Intrare Premium','Uși de Garaj'
 ];
 
+const EMPTY_ERR = { nume:'', telefon:'', email:'', comanda:'', adresa:'', gdpr:'' };
+
 export default function Footer() {
   const locale = useLocale();
+  const t = useTranslations('form');
   const pathname = usePathname();
   const switchLocale = (l) => { const p = pathname.split('/'); p[1] = l; return p.join('/'); };
 
   const [files, setFiles] = useState([]);
   const [gdpr, setGdpr] = useState(false);
-  const [gdprError, setGdprError] = useState(false);
   const [status, setStatus] = useState('idle');
+  const [err, setErr] = useState(EMPTY_ERR);
 
-  const handleFiles = (e) => {
-    const selected = Array.from(e.target.files).slice(0, 7);
-    setFiles(selected);
+  const handleFiles = (e) => setFiles(Array.from(e.target.files).slice(0, 7));
+
+  const validate = (form) => {
+    const e = { ...EMPTY_ERR };
+    const nume    = form.nume.value.trim();
+    const telefon = form.telefon.value.trim();
+    const email   = form.email.value.trim();
+    const comanda = form.comanda.value;
+    const adresa  = form.adresa.value.trim();
+
+    if (!nume)    e.nume = t('err_nume');
+    if (!telefon) {
+      e.telefon = t('err_telefon_gol');
+    } else if (!/^[0-9\s\+\-\(\)]{7,20}$/.test(telefon)) {
+      e.telefon = t('err_telefon_invalid');
+    }
+    if (!email) {
+      e.email = t('err_email_gol');
+    } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      e.email = t('err_email_invalid');
+    }
+    if (!comanda) e.comanda = t('err_comanda');
+    if (!adresa)  e.adresa  = t('err_adresa');
+    if (!gdpr)    e.gdpr    = t('err_gdpr');
+    return e;
   };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    // Validare GDPR explicit — required nativ nu funcționează pe checkbox controlled
-    if (!gdpr) {
-      setGdprError(true);
-      e.target.querySelector('#gdpr-cb').scrollIntoView({ behavior: 'smooth', block: 'center' });
+    const form = e.target;
+    const errs = validate(form);
+    setErr(errs);
+    if (Object.values(errs).some(v => v !== '')) {
+      const firstKey = Object.keys(errs).find(k => errs[k] !== '');
+      const el = firstKey === 'gdpr' ? document.getElementById('gdpr-cb') : form[firstKey];
+      if (el) el.scrollIntoView({ behavior:'smooth', block:'center' });
       return;
     }
-    setGdprError(false);
     setStatus('sending');
-
-    const form = e.target;
     const fd = new FormData();
-    fd.append('nume', form.nume.value);
-    fd.append('telefon', form.telefon.value);
-    fd.append('email', form.email.value);
+    fd.append('nume',    form.nume.value.trim());
+    fd.append('telefon', form.telefon.value.trim());
+    fd.append('email',   form.email.value.trim());
     fd.append('comanda', form.comanda.value);
-    fd.append('adresa', form.adresa.value);
-    PRODUSE.forEach((item, i) => {
+    fd.append('adresa',  form.adresa.value.trim());
+    PRODUSE.forEach((item,i) => {
       const cb = form.querySelector(`#cb${i}`);
       if (cb && cb.checked) fd.append('produse', item);
     });
     files.forEach(f => fd.append('files', f));
-
     try {
-      const res = await fetch('/api/contact', { method: 'POST', body: fd });
+      const res  = await fetch('/api/contact', { method:'POST', body:fd });
       const json = await res.json();
       if (json.success) {
         setStatus('success');
         form.reset();
         setFiles([]);
         setGdpr(false);
-        setGdprError(false);
-      } else {
-        setStatus('error');
-      }
-    } catch {
-      setStatus('error');
-    }
+        setErr(EMPTY_ERR);
+      } else { setStatus('error'); }
+    } catch { setStatus('error'); }
   };
 
-  const iStyle = {
-    width:'100%', background:'transparent', border:'none',
-    borderBottom:'1px solid #333', padding:'10px 0',
-    fontFamily:'Barlow,sans-serif', fontSize:'.82rem', fontWeight:300,
-    color:'#ddd', outline:'none', boxSizing:'border-box'
-  };
+  // Stiluri
+  const iBase = { width:'100%', background:'transparent', border:'none', padding:'10px 0', fontFamily:'Barlow,sans-serif', fontSize:'.82rem', fontWeight:300, color:'#ddd', outline:'none', boxSizing:'border-box' };
+  const iStyle = (field) => ({ ...iBase, borderBottom: err[field] ? '1px solid #e05252' : '1px solid #333' });
+  const ErrMsg = ({ field }) => err[field]
+    ? <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.08em',color:'#e05252',display:'block',marginTop:'4px'}}>{err[field]}</span>
+    : null;
 
   return (
     <footer className="site-footer" role="contentinfo" aria-label="Informații companie Neofort BIZ">
@@ -91,17 +111,17 @@ export default function Footer() {
           {status === 'success' ? (
             <div style={{border:'1px solid #2a2a2a',padding:'64px 32px',textAlign:'center'}}>
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1.2rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#fff',marginBottom:'12px'}}>
-                Solicitarea a fost trimisă!
+                {t('success_title')}
               </div>
               <p style={{fontFamily:'Barlow,sans-serif',fontSize:'.84rem',fontWeight:300,color:'#888',marginBottom:'32px'}}>
-                Vă vom contacta în maxim 2 zile lucrătoare.
+                {t('success_desc')}
               </p>
-              <button onClick={() => setStatus('idle')} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.68rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#fff',background:'transparent',border:'1px solid #333',padding:'12px 32px',cursor:'pointer'}}>
-                Trimite altă solicitare
+              <button onClick={()=>setStatus('idle')} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.68rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#fff',background:'transparent',border:'1px solid #333',padding:'12px 32px',cursor:'pointer'}}>
+                {t('success_btn')}
               </button>
             </div>
           ) : (
-            <form onSubmit={handleSubmit} noValidate>
+            <form onSubmit={handleSubmit}>
               <div style={{border:'1px solid #2a2a2a'}}>
                 <div style={{display:'grid',gridTemplateColumns:'1fr 1.6fr 1.4fr'}}>
 
@@ -136,40 +156,25 @@ export default function Footer() {
                   <div style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>Date Client</span>
 
-                    {/* Nume — required */}
                     <div style={{marginBottom:'16px'}}>
-                      <input
-                        type="text" name="nume" placeholder="Nume Complet *" required
-                        style={iStyle}
-                      />
+                      <input type="text" name="nume" placeholder="Nume Complet *" style={iStyle('nume')} onChange={()=>err.nume&&setErr(p=>({...p,nume:''}))}/>
+                      <ErrMsg field="nume"/>
                     </div>
 
-                    {/* Telefon — required */}
                     <div style={{marginBottom:'16px'}}>
-                      <input
-                        type="tel" name="telefon" placeholder="Telefon *" required
-                        style={iStyle}
-                      />
+                      <input type="tel" name="telefon" placeholder="Telefon *" style={iStyle('telefon')} onChange={()=>err.telefon&&setErr(p=>({...p,telefon:''}))}/>
+                      <ErrMsg field="telefon"/>
                     </div>
 
-                    {/* Email — required */}
                     <div style={{marginBottom:'16px'}}>
-                      <input
-                        type="email" name="email" placeholder="E-mail *" required
-                        style={iStyle}
-                      />
+                      <input type="email" name="email" placeholder="E-mail *" style={iStyle('email')} onChange={()=>err.email&&setErr(p=>({...p,email:''}))}/>
+                      <ErrMsg field="email"/>
                     </div>
 
-                    {/* Comanda — required, select cu opțiune goală */}
                     <div style={{marginBottom:'16px'}}>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.57rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#666',display:'block',marginBottom:'5px'}}>
-                        Comanda să fie cu: *
-                      </span>
-                      <select
-                        name="comanda" required
-                        defaultValue=""
-                        style={{width:'100%',background:'#111',border:'none',borderBottom:'1px solid #333',padding:'10px 0',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',letterSpacing:'.1em',textTransform:'uppercase',color:'#ddd',outline:'none',appearance:'none',boxSizing:'border-box'}}
-                      >
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.57rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#666',display:'block',marginBottom:'5px'}}>Comanda să fie cu: *</span>
+                      <select name="comanda" defaultValue="" onChange={()=>err.comanda&&setErr(p=>({...p,comanda:''}))}
+                        style={{width:'100%',background:'#111',border:'none',borderBottom: err.comanda ? '1px solid #e05252' : '1px solid #333',padding:'10px 0',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',letterSpacing:'.1em',textTransform:'uppercase',color:'#ddd',outline:'none',appearance:'none',boxSizing:'border-box'}}>
                         <option value="" disabled>Selectați opțiunea *</option>
                         <option>Măsurătoare, Transport și Montaj</option>
                         <option>Transport și Montaj</option>
@@ -177,39 +182,24 @@ export default function Footer() {
                         <option>Coletare și Transport Export</option>
                         <option>Coletare / Ridicare din Depozit</option>
                       </select>
+                      <ErrMsg field="comanda"/>
                     </div>
 
-                    {/* Adresă — required */}
                     <div style={{marginBottom:'16px'}}>
-                      <input
-                        type="text" name="adresa" placeholder="Adresă de Livrare *" required
-                        style={iStyle}
-                      />
+                      <input type="text" name="adresa" placeholder="Adresă de Livrare *" style={iStyle('adresa')} onChange={()=>err.adresa&&setErr(p=>({...p,adresa:''}))}/>
+                      <ErrMsg field="adresa"/>
                     </div>
 
-                    {/* Atașamente */}
                     <div style={{marginTop:'20px'}}>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.57rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#666',display:'block',marginBottom:'8px'}}>
-                        Atașați schițe (max 7):
-                      </span>
-                      <input
-                        type="file" multiple accept=".jpg,.jpeg,.png,.pdf,.dwg"
-                        onChange={handleFiles}
-                        style={{fontFamily:'Barlow,sans-serif',fontSize:'.74rem',fontWeight:300,color:'#777'}}
-                      />
-                      {files.length > 0 && (
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',color:'#666',display:'block',marginTop:'4px'}}>
-                          {files.length} fișier(e) selectate
-                        </span>
-                      )}
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.57rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#666',display:'block',marginBottom:'8px'}}>Atașați schițe (max 7):</span>
+                      <input type="file" multiple accept=".jpg,.jpeg,.png,.pdf,.dwg" onChange={handleFiles} style={{fontFamily:'Barlow,sans-serif',fontSize:'.74rem',fontWeight:300,color:'#777'}}/>
+                      {files.length > 0 && <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',color:'#666',display:'block',marginTop:'4px'}}>{files.length} fișier(e) selectate</span>}
                     </div>
                   </div>
 
                   {/* Col 3 — Checkboxuri produse */}
                   <div style={{padding:'36px 32px'}}>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.18em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'12px'}}>
-                      Cererea va conține:
-                    </span>
+                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.18em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'12px'}}>Cererea va conține:</span>
                     {PRODUSE.map((item,i)=>(
                       <div key={i} style={{display:'flex',alignItems:'center',gap:'10px',padding:'5px 0',borderBottom:'1px solid #1e1e1e'}}>
                         <input type="checkbox" id={`cb${i}`} style={{width:'13px',height:'13px',accentColor:'#fff',flexShrink:0,cursor:'pointer'}}/>
@@ -219,43 +209,28 @@ export default function Footer() {
                   </div>
                 </div>
 
-                {/* GDPR — required cu mesaj inline */}
+                {/* GDPR */}
                 <div style={{padding:'20px 32px',borderTop:'1px solid #2a2a2a'}}>
                   <div style={{display:'flex',alignItems:'flex-start',gap:'12px'}}>
-                    <input
-                      type="checkbox" id="gdpr-cb"
-                      checked={gdpr}
-                      onChange={e => { setGdpr(e.target.checked); if (e.target.checked) setGdprError(false); }}
-                      style={{width:'13px',height:'13px',accentColor:'#fff',flexShrink:0,marginTop:'3px',cursor:'pointer',outline: gdprError ? '1px solid #e05252' : 'none'}}
+                    <input type="checkbox" id="gdpr-cb" checked={gdpr}
+                      onChange={e=>{ setGdpr(e.target.checked); if(e.target.checked) setErr(p=>({...p,gdpr:''})); }}
+                      style={{width:'13px',height:'13px',accentColor:'#fff',flexShrink:0,marginTop:'3px',cursor:'pointer',outline: err.gdpr ? '1px solid #e05252' : 'none'}}
                     />
-                    <label htmlFor="gdpr-cb" style={{fontFamily:'Barlow,sans-serif',fontSize:'.76rem',fontWeight:300,color: gdprError ? '#e05252' : '#888',lineHeight:1.6,cursor:'pointer'}}>
+                    <label htmlFor="gdpr-cb" style={{fontFamily:'Barlow,sans-serif',fontSize:'.76rem',fontWeight:300,color: err.gdpr ? '#e05252' : '#888',lineHeight:1.6,cursor:'pointer'}}>
                       Am citit și sunt de acord cu{' '}
-                      <Link href={`/${locale}/gdpr`} style={{color: gdprError ? '#e05252' : '#bbb',textDecoration:'underline'}}>Politica de Confidențialitate</Link>
+                      <Link href={`/${locale}/gdpr`} style={{color: err.gdpr ? '#e05252' : '#bbb',textDecoration:'underline'}}>Politica de Confidențialitate</Link>
                       {' '}și{' '}
-                      <Link href={`/${locale}/gdpr`} style={{color: gdprError ? '#e05252' : '#bbb',textDecoration:'underline'}}>Politica de Cookies</Link>
+                      <Link href={`/${locale}/gdpr`} style={{color: err.gdpr ? '#e05252' : '#bbb',textDecoration:'underline'}}>Politica de Cookies</Link>
                       {' '}a Neofort BIZ. *
                     </label>
                   </div>
-                  {gdprError && (
-                    <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.1em',color:'#e05252',marginTop:'8px',marginLeft:'25px'}}>
-                      * Acceptul politicii de confidențialitate este obligatoriu.
-                    </p>
-                  )}
+                  <ErrMsg field="gdpr"/>
                 </div>
 
                 {/* Submit */}
-                <button
-                  type="submit"
-                  disabled={status === 'sending'}
-                  style={{
-                    width:'100%',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,
-                    fontSize:'.76rem',letterSpacing:'.25em',textTransform:'uppercase',
-                    color:'#fff',background: status === 'sending' ? '#222' : '#1a1a1a',
-                    border:'none',borderTop:'1px solid #2a2a2a',padding:'22px 48px',
-                    cursor: status === 'sending' ? 'not-allowed' : 'pointer',
-                    display:'block',transition:'background .2s'
-                  }}>
-                  {status === 'sending' ? 'Se trimite...' : status === 'error' ? 'Eroare — Încearcă din nou' : 'Trimite Solicitarea'}
+                <button type="submit" disabled={status==='sending'}
+                  style={{width:'100%',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.76rem',letterSpacing:'.25em',textTransform:'uppercase',color:'#fff',background: status==='sending' ? '#222' : '#1a1a1a',border:'none',borderTop:'1px solid #2a2a2a',padding:'22px 48px',cursor: status==='sending' ? 'not-allowed' : 'pointer',display:'block',transition:'background .2s'}}>
+                  {status==='sending' ? t('sending') : status==='error' ? t('error') : t('submit')}
                 </button>
               </div>
             </form>

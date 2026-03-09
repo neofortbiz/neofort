@@ -55,12 +55,90 @@
     "hero_subtitle": "Sistem de Tâmplărie Aluminiu Premium",
     "desc": "Neofort oferă servicii complete de furnizare de Tâmplărie din Aluminiu marca Alumil. Gama de profile Aluminiu oferită include sisteme de tâmplărie Alumil pentru Ferestre și Uși batante, liftant culisante și armonice. Tâmplăria noastră este compatibilă cu necesitățile de izolare conform normativelor nZEB și în construcția de case pasive. Experiența noastră și tehnologiile inovatoare folosite garantează calitatea produselor noastre. Vă oferim garanții și asistență tehnică de specialitate la prețuri și oferte fără concurență.",
     "products": [
-      { "slug": "tamplarie-aluminiu-alumil-s77", "name": "Alumil S 77 SUPREME", "category": "FERESTRE și UȘI - ALUMINIU", "specs": ["Barieră termică 40mm", "Etanșare: 3 garnituri", "Adâncime: 77-93 mm", "Transfer: de la 0.86 W/m²K", "Vitraj: până la 72mm", "Protecție fonică: până la 42 dB", "Anti-efracție: până la RC 3"] },
-      { "slug": "tamplarie-aluminiu-alumil-s67", "name": "Alumil S 67 SMARTIA", "category": "FERESTRE și UȘI - ALUMINIU", "specs": ["Barieră termică 30mm", "Etanșare: 3 garnituri", "Adâncime: 67-75 mm", "Transfer: de la 1,5 W/m²K", "Vitraj: până la 58mm", "Protecție fonică: până la 45 dB", "Anti-efracție: până la RC 3"] },
-      { "slug": "tamplarie-aluminiu-alumil-s700", "name": "Alumil S 700 SUPREME", "category": "LIFTANT GLISANTE - ALUMINIU", "specs": ["Barieră termică Kooltherm", "Etanșare perimetral perii tri-fin", "Adâncime: 70-70 mm", "Transfer: de la 1.1 W/m²K", "Vitraj: până la 50mm", "Protecție fonică: până la 41 dB", "Anti-efracție: până la RC 2"] },
-      { "slug": "tamplarie-aluminiu-alumil-s350", "name": "Alumil S 350 SMARTIA", "category": "LIFTANT GLISANTE - ALUMINIU", "specs": ["Barieră termică 28 mm", "Etanșare perimetral perii tri-fin", "Adâncime: 35-35 mm", "Transfer: de la 2.9 W/m²K", "Vitraj: până la 28mm", "Protecție fonică: până la 38 dB", "Anti-efracție: până la RC 2"] },
-      { "slug": "tamplarie-aluminiu-alumil-sf85", "name": "Alumil SF 85 SUPREME", "category": "FERESTRE și UȘI ARMONICE", "specs": ["Barieră termică 40 mm", "Izolare Kooltherm și 2 garnituri", "Adâncime: 85 mm", "Transfer: de la 1.0 W/m²K", "Vitraj: până la 58mm", "Protecție fonică: până la 38 dB", "Anti-efracție: PAS24"] },
-      { "slug": "tamplarie-aluminiu-alumil-m19800", "name": "Alumil M 19800 SMARTIA", "category": "FERESTRE și UȘI ARMONICE", "specs": ["Barieră termică 18 mm", "Etanșare 2 garnituri", "Adâncime: 50 mm", "Transfer: de la 1.9 W/m²K", "Vitraj: până la 32mm", "Protecție fonică: până la 36 dB", "Anti-efracție: PAS24"] }
+      {
+        "slug": "tamplarie-aluminiu-alumil-s77",
+        "name": "Alumil S 77 SUPREME",
+        "category": "FERESTRE și UȘI - ALUMINIU",
+        "specs": [
+          "Barieră termică 40mm",
+          "Etanșare: 3 garnituri",
+          "Adâncime: 77-93 mm",
+          "Transfer: de la 0.86 W/m²K",
+          "Vitraj: până la 72mm",
+          "Protecție fonică: până la 42 dB",
+          "Anti-efracție: până la RC 3"
+        ]
+      },
+      {
+        "slug": "tamplarie-aluminiu-alumil-s67",
+        "name": "Alumil S 67 SMARTIA",
+        "category": "FERESTRE și UȘI - ALUMINIU",
+        "specs": [
+          "Barieră termică 30mm",
+          "Etanșare: 3 garnituri",
+          "Adâncime: 67-75 mm",
+          "Transfer: de la 1,5 W/m²K",
+          "Vitraj: până la 58mm",
+          "Protecție fonică: până la 45 dB",
+          "Anti-efracție: până la RC 3"
+        ]
+      },
+      {
+        "slug": "tamplarie-aluminiu-alumil-s700",
+        "name": "Alumil S 700 SUPREME",
+        "category": "LIFTANT GLISANTE - ALUMINIU",
+        "specs": [
+          "Barieră termică Kooltherm",
+          "Etanșare perimetral perii tri-fin",
+          "Adâncime: 70-70 mm",
+          "Transfer: de la 1.1 W/m²K",
+          "Vitraj: până la 50mm",
+          "Protecție fonică: până la 41 dB",
+          "Anti-efracție: până la RC 2"
+        ]
+      },
+      {
+        "slug": "tamplarie-aluminiu-alumil-s350",
+        "name": "Alumil S 350 SMARTIA",
+        "category": "LIFTANT GLISANTE - ALUMINIU",
+        "specs": [
+          "Barieră termică 28 mm",
+          "Etanșare perimetral perii tri-fin",
+          "Adâncime: 35-35 mm",
+          "Transfer: de la 2.9 W/m²K",
+          "Vitraj: până la 28mm",
+          "Protecție fonică: până la 38 dB",
+          "Anti-efracție: până la RC 2"
+        ]
+      },
+      {
+        "slug": "tamplarie-aluminiu-alumil-sf85",
+        "name": "Alumil SF 85 SUPREME",
+        "category": "FERESTRE și UȘI ARMONICE",
+        "specs": [
+          "Barieră termică 40 mm",
+          "Izolare Kooltherm și 2 garnituri",
+          "Adâncime: 85 mm",
+          "Transfer: de la 1.0 W/m²K",
+          "Vitraj: până la 58mm",
+          "Protecție fonică: până la 38 dB",
+          "Anti-efracție: PAS24"
+        ]
+      },
+      {
+        "slug": "tamplarie-aluminiu-alumil-m19800",
+        "name": "Alumil M 19800 SMARTIA",
+        "category": "FERESTRE și UȘI ARMONICE",
+        "specs": [
+          "Barieră termică 18 mm",
+          "Etanșare 2 garnituri",
+          "Adâncime: 50 mm",
+          "Transfer: de la 1.9 W/m²K",
+          "Vitraj: până la 32mm",
+          "Protecție fonică: până la 36 dB",
+          "Anti-efracție: PAS24"
+        ]
+      }
     ]
   },
   "pvc": {
@@ -70,12 +148,84 @@
     "hero_subtitle": "Sistem de Tâmplărie PVC Germană Premium",
     "desc": "Neofort oferă servicii complete de furnizare Tâmplărie PVC Salamander. Gama de profile PVC include BluEvolution 92 și GreenEvolution 76, două sisteme de tâmplărie de cea mai nouă generație, dedicate soluțiilor de eficiență energetică nZEB și în construcția de case pasive.",
     "products": [
-      { "slug": "tamplarie-pvc-bluevolution92-placat", "name": "BluEvolution 92 ALU (placat)", "specs": ["Profil PVC cu 6 camere", "Etanșare: 3 garnituri", "Adâncime: 104 mm", "Transfer: Uw = 0,70 W/(m²K)", "Vitraj: până la 60 mm", "Protecție fonică: până la 47 dB", "Anti-efracție: până la RC 3"] },
-      { "slug": "tamplarie-pvc-bluevolution92-flex", "name": "BluEvolution 92 FLEX", "specs": ["Profil PVC cu 6 camere", "Etanșare: 3 garnituri", "Adâncime: 92 mm", "Transfer: Uw = 0,70 W/(m²K)", "Vitraj: până la 60 mm", "Protecție fonică: până la 47 dB", "Anti-efracție: până la RC 3"] },
-      { "slug": "tamplarie-pvc-bluevolution92-round", "name": "BluEvolution 92 ROUND", "specs": ["Profil PVC cu 6 camere", "Etanșare: 3 garnituri", "Adâncime: 92 mm", "Transfer: Uw = 0,70 W/(m²K)", "Vitraj: până la 60 mm", "Protecție fonică: până la 47 dB", "Anti-efracție: până la RC 3"] },
-      { "slug": "tamplarie-pvc-greenevolution76-mdround", "name": "GreenEvolution 76 MD ROUND", "specs": ["Profil PVC 6 camere", "Etanșare: 3 garnituri", "Adâncime: 76 mm", "Transfer: Uw = 0,73 W/(m²K)", "Vitraj: până la 48 mm", "Protecție fonică: până la 47 dB", "Anti-efracție: până la RC 3"] },
-      { "slug": "tamplarie-pvc-greenevolution76-mdflex", "name": "GreenEvolution 76 MD FLEX", "specs": ["Profil PVC 6 camere", "Etanșare: 3 garnituri", "Adâncime: 76 mm", "Transfer: Uw = 0,73 W/(m²K)", "Vitraj: până la 48 mm", "Protecție fonică: până la 47 dB", "Anti-efracție: până la RC 3"] },
-      { "slug": "tamplarie-pvc-greenevolution76-adflex", "name": "GreenEvolution 76 AD FLEX", "specs": ["Profil PVC 6 camere", "Etanșare: 2 garnituri", "Adâncime: 76 mm", "Transfer: Uw = 0,73 W/(m²K)", "Vitraj: până la 48 mm", "Protecție fonică: până la 47 dB", "Anti-efracție: până la RC 3"] }
+      {
+        "slug": "tamplarie-pvc-bluevolution92-placat",
+        "name": "BluEvolution 92 ALU (placat)",
+        "specs": [
+          "Profil PVC cu 6 camere",
+          "Etanșare: 3 garnituri",
+          "Adâncime: 104 mm",
+          "Transfer: Uw = 0,70 W/(m²K)",
+          "Vitraj: până la 60 mm",
+          "Protecție fonică: până la 47 dB",
+          "Anti-efracție: până la RC 3"
+        ]
+      },
+      {
+        "slug": "tamplarie-pvc-bluevolution92-flex",
+        "name": "BluEvolution 92 FLEX",
+        "specs": [
+          "Profil PVC cu 6 camere",
+          "Etanșare: 3 garnituri",
+          "Adâncime: 92 mm",
+          "Transfer: Uw = 0,70 W/(m²K)",
+          "Vitraj: până la 60 mm",
+          "Protecție fonică: până la 47 dB",
+          "Anti-efracție: până la RC 3"
+        ]
+      },
+      {
+        "slug": "tamplarie-pvc-bluevolution92-round",
+        "name": "BluEvolution 92 ROUND",
+        "specs": [
+          "Profil PVC cu 6 camere",
+          "Etanșare: 3 garnituri",
+          "Adâncime: 92 mm",
+          "Transfer: Uw = 0,70 W/(m²K)",
+          "Vitraj: până la 60 mm",
+          "Protecție fonică: până la 47 dB",
+          "Anti-efracție: până la RC 3"
+        ]
+      },
+      {
+        "slug": "tamplarie-pvc-greenevolution76-mdround",
+        "name": "GreenEvolution 76 MD ROUND",
+        "specs": [
+          "Profil PVC 6 camere",
+          "Etanșare: 3 garnituri",
+          "Adâncime: 76 mm",
+          "Transfer: Uw = 0,73 W/(m²K)",
+          "Vitraj: până la 48 mm",
+          "Protecție fonică: până la 47 dB",
+          "Anti-efracție: până la RC 3"
+        ]
+      },
+      {
+        "slug": "tamplarie-pvc-greenevolution76-mdflex",
+        "name": "GreenEvolution 76 MD FLEX",
+        "specs": [
+          "Profil PVC 6 camere",
+          "Etanșare: 3 garnituri",
+          "Adâncime: 76 mm",
+          "Transfer: Uw = 0,73 W/(m²K)",
+          "Vitraj: până la 48 mm",
+          "Protecție fonică: până la 47 dB",
+          "Anti-efracție: până la RC 3"
+        ]
+      },
+      {
+        "slug": "tamplarie-pvc-greenevolution76-adflex",
+        "name": "GreenEvolution 76 AD FLEX",
+        "specs": [
+          "Profil PVC 6 camere",
+          "Etanșare: 2 garnituri",
+          "Adâncime: 76 mm",
+          "Transfer: Uw = 0,73 W/(m²K)",
+          "Vitraj: până la 48 mm",
+          "Protecție fonică: până la 47 dB",
+          "Anti-efracție: până la RC 3"
+        ]
+      }
     ]
   },
   "accesorii": {
@@ -85,16 +235,136 @@
     "hero_subtitle": "Accesorii premium tâmplărie Aluminiu & PVC",
     "desc": "Neofort oferă accesorii premium care completează tâmplăria PVC Salamander și Aluminiu Alumil. Accesoriile noastre sunt conforme cerințelor de eficiență energetică nZEB și construcției de case pasive.",
     "products": [
-      { "slug": "rulouri-exterioare-aluminiu", "name": "Rulouri exterioare Aluminiu", "specs": ["Lamele Aluminiu Izolate", "Acționare manual / motor Somfy", "Vopsire anodizată", "Casetă aplicată sau suprapusă", "Gamă completă culori RAL", "Rezistență la vânt până la 600 Pa", "Telecomandă sau întrerupător"] },
-      { "slug": "jaluzele-venetiene-raffstore", "name": "Jaluzele Venețiene Raffstore", "specs": ["Lamele Aluminiu", "Acționare motor Somfy", "Vopsire anodizată", "Casetă aparentă sau încastrată", "Gamă completă culori RAL", "Rezistență la vânt până la 600 Pa", "Telecomandă sau întrerupător"] },
-      { "slug": "blaugelb-triotherm", "name": "Precadre Blaugelb Triotherm+", "specs": ["100% reciclabilă", "Nu conține HCFC, HFC, HBCD", "Polistiren dens expandat", "Transfer termic 0,040 W/m2K", "Sistem clipsare", "Montaj pe orice lungime", "Conformă nZEB"] },
-      { "slug": "banda-butilica-precomprimata", "name": "Bandă Precomprimată Butil", "specs": ["Expandare până la 50mm", "Etanșare autoadeziv", "Lățimi 20mm - 84mm", "Rezistență la intemperii 600 Pa", "Rezistență UV", "Protecție fonică până la 47 dB", "Rezistență incendiu B1"] },
-      { "slug": "banda-antivapori", "name": "Bandă etanșare antivapori", "specs": ["Elasticitate ridicată", "Etanșare autoadeziv", "Lățimi până la 90 mm", "Rezistență intemperii 1050 Pa", "Rezistență UV", "Barieră antivapori", "Aderență la vopsea și tencuială"] },
-      { "slug": "bagheta-warm-edge", "name": "Baghetă Warm EDGE Thermo", "specs": ["Profil distanțare termoplastic", "Gamă largă de culori", "Adâncime 7.5-19.5 mm", "Transfer termic 0,035 W/m²K", "Autoadeziv pe ambele părți", "Rezistență de durată", "Gamă flexibilă și rigidă"] },
-      { "slug": "toc-renovare", "name": "Toc de renovare", "specs": ["Aripă renovare 35 mm", "Aripă renovare 60 mm", "Adâncime: 76 mm", "Transfer: Uw = 0,73 W/(m²K)", "Vitraj: până la 48 mm", "Protecție fonică: până la 47 dB", "Anti-efracție: până la RC 3"] },
-      { "slug": "pervazuri-glafuri", "name": "Pervazuri interior PVC / exterior AL", "specs": ["RAL 9016, 8019, 8003, 7016", "Anodizat E6/EV1, E6/C32, E6/C33", "Adâncime 50-400 mm", "Capace aluminiu clips-on", "Rezistență la intemperii", "Cuplare 90°-135°-180°", "Etanșare garnitură EPDM"] },
-      { "slug": "grila-aerisire", "name": "Grilă higroreglabilă Aereco", "specs": ["Debit aer 5-35 m3/h", "Atenuare acustică 33 dB", "Higroreglabilă", "Protecție externă antiinsecte", "Protecție externă autolimitantă", "Protecție externă plată", "Culori: alb, brun, stejar auriu"] },
-      { "slug": "geam-termopan-saint-gobain", "name": "Geamuri Termopan Saint Gobain", "specs": ["Planitherm XN", "Planitherm ONE", "Planitherm 4S Evolution", "Planistar SUN", "Stadip SILENCE", "Protecție termică și fonică", "Conformă nZEB"] }
+      {
+        "slug": "rulouri-exterioare-aluminiu",
+        "name": "Rulouri exterioare Aluminiu",
+        "specs": [
+          "Lamele Aluminiu Izolate",
+          "Acționare manual / motor Somfy",
+          "Vopsire anodizată",
+          "Casetă aplicată sau suprapusă",
+          "Gamă completă culori RAL",
+          "Rezistență la vânt până la 600 Pa",
+          "Telecomandă sau întrerupător"
+        ]
+      },
+      {
+        "slug": "jaluzele-venetiene-raffstore",
+        "name": "Jaluzele Venețiene Raffstore",
+        "specs": [
+          "Lamele Aluminiu",
+          "Acționare motor Somfy",
+          "Vopsire anodizată",
+          "Casetă aparentă sau încastrată",
+          "Gamă completă culori RAL",
+          "Rezistență la vânt până la 600 Pa",
+          "Telecomandă sau întrerupător"
+        ]
+      },
+      {
+        "slug": "blaugelb-triotherm",
+        "name": "Precadre Blaugelb Triotherm+",
+        "specs": [
+          "100% reciclabilă",
+          "Nu conține HCFC, HFC, HBCD",
+          "Polistiren dens expandat",
+          "Transfer termic 0,040 W/m2K",
+          "Sistem clipsare",
+          "Montaj pe orice lungime",
+          "Conformă nZEB"
+        ]
+      },
+      {
+        "slug": "banda-butilica-precomprimata",
+        "name": "Bandă Precomprimată Butil",
+        "specs": [
+          "Expandare până la 50mm",
+          "Etanșare autoadeziv",
+          "Lățimi 20mm - 84mm",
+          "Rezistență la intemperii 600 Pa",
+          "Rezistență UV",
+          "Protecție fonică până la 47 dB",
+          "Rezistență incendiu B1"
+        ]
+      },
+      {
+        "slug": "banda-antivapori",
+        "name": "Bandă etanșare antivapori",
+        "specs": [
+          "Elasticitate ridicată",
+          "Etanșare autoadeziv",
+          "Lățimi până la 90 mm",
+          "Rezistență intemperii 1050 Pa",
+          "Rezistență UV",
+          "Barieră antivapori",
+          "Aderență la vopsea și tencuială"
+        ]
+      },
+      {
+        "slug": "bagheta-warm-edge",
+        "name": "Baghetă Warm EDGE Thermo",
+        "specs": [
+          "Profil distanțare termoplastic",
+          "Gamă largă de culori",
+          "Adâncime 7.5-19.5 mm",
+          "Transfer termic 0,035 W/m²K",
+          "Autoadeziv pe ambele părți",
+          "Rezistență de durată",
+          "Gamă flexibilă și rigidă"
+        ]
+      },
+      {
+        "slug": "toc-renovare",
+        "name": "Toc de renovare",
+        "specs": [
+          "Aripă renovare 35 mm",
+          "Aripă renovare 60 mm",
+          "Adâncime: 76 mm",
+          "Transfer: Uw = 0,73 W/(m²K)",
+          "Vitraj: până la 48 mm",
+          "Protecție fonică: până la 47 dB",
+          "Anti-efracție: până la RC 3"
+        ]
+      },
+      {
+        "slug": "pervazuri-glafuri",
+        "name": "Pervazuri interior PVC / exterior AL",
+        "specs": [
+          "RAL 9016, 8019, 8003, 7016",
+          "Anodizat E6/EV1, E6/C32, E6/C33",
+          "Adâncime 50-400 mm",
+          "Capace aluminiu clips-on",
+          "Rezistență la intemperii",
+          "Cuplare 90°-135°-180°",
+          "Etanșare garnitură EPDM"
+        ]
+      },
+      {
+        "slug": "grila-aerisire",
+        "name": "Grilă higroreglabilă Aereco",
+        "specs": [
+          "Debit aer 5-35 m3/h",
+          "Atenuare acustică 33 dB",
+          "Higroreglabilă",
+          "Protecție externă antiinsecte",
+          "Protecție externă autolimitantă",
+          "Protecție externă plată",
+          "Culori: alb, brun, stejar auriu"
+        ]
+      },
+      {
+        "slug": "geam-termopan-saint-gobain",
+        "name": "Geamuri Termopan Saint Gobain",
+        "specs": [
+          "Planitherm XN",
+          "Planitherm ONE",
+          "Planitherm 4S Evolution",
+          "Planistar SUN",
+          "Stadip SILENCE",
+          "Protecție termică și fonică",
+          "Conformă nZEB"
+        ]
+      }
     ]
   },
   "servicii": {
@@ -129,5 +399,21 @@
     "contact": "Contact / Info",
     "oferta": "Cerere Ofertă",
     "catalog": "Catalog Produse"
+  },
+  "form": {
+    "err_nume": "Numele este obligatoriu.",
+    "err_telefon_gol": "Telefonul este obligatoriu.",
+    "err_telefon_invalid": "Introduceți un număr de telefon valid (doar cifre).",
+    "err_email_gol": "E-mail-ul este obligatoriu.",
+    "err_email_invalid": "Introduceți o adresă de e-mail validă.",
+    "err_comanda": "Selectați tipul comenzii.",
+    "err_adresa": "Adresa de livrare este obligatorie.",
+    "err_gdpr": "Acceptul politicii de confidențialitate este obligatoriu.",
+    "submit": "Trimite Solicitarea",
+    "sending": "Se trimite...",
+    "error": "Eroare — Încearcă din nou",
+    "success_title": "Solicitarea a fost trimisă!",
+    "success_desc": "Vă vom contacta în maxim 2 zile lucrătoare.",
+    "success_btn": "Trimite altă solicitare"
   }
 }
