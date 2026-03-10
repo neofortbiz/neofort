@@ -393,19 +393,21 @@ export default async function ContactPage({ params }) {
                 </div>
               </div>
 
-              {/* E-mail — encodate HTML anti-spam, lizibile pentru oameni */}
+              {/* E-mail — butoane mailto fără adresă vizibilă în HTML */}
               <div>
                 <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-2">{ui.email_section}</p>
                 <div className="border border-border">
                   {[
-                    { addr: 'oferte',   domain: 'neofort-biz.ro', label: ui.dept_quotes },
-                    { addr: 'comenzi',  domain: 'neofort-biz.ro', label: locale==='ro'?'Comenzi':locale==='en'?'Orders':locale==='de'?'Bestellungen':locale==='fr'?'Commandes':locale==='es'?'Pedidos':'Ordini' },
-                    { addr: 'service',  domain: 'neofort-biz.ro', label: ui.dept_service },
+                    { href: 'mailto:oferte@neofort-biz.ro',  label: ui.dept_quotes },
+                    { href: 'mailto:comenzi@neofort-biz.ro', label: locale==='ro'?'Comenzi':locale==='en'?'Orders':locale==='de'?'Bestellungen':locale==='fr'?'Commandes':locale==='es'?'Pedidos':'Ordini' },
+                    { href: 'mailto:service@neofort-biz.ro', label: ui.dept_service },
                   ].map((e, i, arr) => (
-                    <a key={e.addr} href={`mailto:${e.addr}@${e.domain}`}
+                    <a key={e.label} href={e.href}
                       className={`flex justify-between items-center px-4 py-2.5 hover:bg-light transition-colors duration-150 group ${i < arr.length-1 ? 'border-b border-border' : ''}`}>
                       <span className="font-condensed text-[0.62rem] tracking-[0.14em] uppercase font-semibold text-muted group-hover:text-primary transition-colors">{e.label}</span>
-                      <span className="text-[0.78rem] text-muted group-hover:text-primary transition-colors">{e.addr}&#64;{e.domain}</span>
+                      <span className="font-condensed text-[0.62rem] tracking-[0.12em] uppercase text-muted group-hover:text-primary transition-colors">
+                        {ui.email_section} →
+                      </span>
                     </a>
                   ))}
                 </div>
