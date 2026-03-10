@@ -194,7 +194,7 @@ export default async function TamplaieAluminiuPage({ params }) {
                 <div key={p.slug} style={{display:'flex',flexDirection:'column',border:'1px solid #e8e8e4',background:'#fff',overflow:'hidden'}}>
 
                   {/* Imagine */}
-                  <div style={{position:'relative',background:'#f4f4f2',height:'200px',display:'flex',alignItems:'center',justifyContent:'center',overflow:'hidden',padding:'16px'}}>
+                  <div style={{position:'relative',background:'#fff',height:'200px',display:'flex',alignItems:'center',justifyContent:'center',overflow:'hidden',padding:'16px'}}>
                     <img
                       src={p.img} alt={p.name}
                       style={{maxHeight:'168px',maxWidth:'100%',width:'auto',height:'auto',objectFit:'contain',display:'block'}}
@@ -246,14 +246,10 @@ export default async function TamplaieAluminiuPage({ params }) {
       {/* ── EXPERTIZA ── */}
       <section className="py-16 border-b border-border">
         <div className="container mx-auto px-6">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
-            <div>
-              <span className="sec-label">{ui.exp_label}</span>
-              <p className="text-[0.88rem] text-muted leading-relaxed" dangerouslySetInnerHTML={{__html: ui.exp1}}/>
-            </div>
-            <div>
-              <p className="text-[0.88rem] text-muted leading-relaxed" dangerouslySetInnerHTML={{__html: ui.exp2}}/>
-            </div>
+          <span className="sec-label">{ui.exp_label}</span>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12" style={{alignItems:'start'}}>
+            <p className="text-[0.88rem] text-muted leading-relaxed" dangerouslySetInnerHTML={{__html: ui.exp1}}/>
+            <p className="text-[0.88rem] text-muted leading-relaxed" dangerouslySetInnerHTML={{__html: ui.exp2}}/>
           </div>
         </div>
       </section>

@@ -298,9 +298,8 @@ export default async function ContactPage({ params }) {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
             {TEAM.map(m => (
               <div key={m.name} className="flex flex-col items-center text-center border border-border p-5 md:p-6">
-                {/* Avatar cu fotografie reală + fallback inițiale */}
-                <div className="w-16 h-16 md:w-20 md:h-20 rounded-full mb-4 shrink-0 overflow-hidden"
-                  style={{ border: `2px solid ${m.color}`, background: m.color }}>
+                {/* Avatar — foto pătrată fără chenar */}
+                <div style={{ width:'80px', height:'80px', marginBottom:'14px', flexShrink:0, overflow:'hidden', background: m.color }}>
                   {m.photo ? (
                     <img
                       src={m.photo}
@@ -322,7 +321,8 @@ export default async function ContactPage({ params }) {
                   <p className="text-[0.68rem] text-muted mb-4 leading-snug flex-1">{m.role[locale] || m.role.ro}</p>
                   {/* Butoane — mereu la aceeași înălțime */}
                   <a href={m.href}
-                    className="w-full text-center font-condensed font-semibold text-[0.6rem] tracking-[0.12em] uppercase text-primary border border-border px-2 py-2 mb-2 hover:border-primary hover:bg-primary hover:text-white transition-all duration-200 block">
+                    className="w-full text-center font-condensed font-semibold tracking-[0.06em] uppercase text-primary border border-border px-1 py-2 mb-2 hover:border-primary hover:bg-primary hover:text-white transition-all duration-200 block"
+                    style={{ fontSize:'clamp(0.52rem, 1.8vw, 0.62rem)', lineHeight:1.3, wordBreak:'break-all' }}>
                     {m.phone}
                   </a>
                   <a href={`mailto:${m.email}`}
