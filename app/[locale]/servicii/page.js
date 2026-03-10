@@ -206,7 +206,7 @@ export default async function ServiciiPage({ params }) {
         <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
           <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
             {CTA_LABELS[locale]?.h2a || CTA_LABELS.ro.h2a}{' '}
-            <Link href="/contact" style={{color:'#555',textDecoration:'underline'}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</Link>
+            <span style={{textDecoration:'underline'}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</span>
             {' '}{CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}
           </p>
         </div>
