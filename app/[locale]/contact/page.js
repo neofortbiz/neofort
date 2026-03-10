@@ -298,18 +298,21 @@ export default async function ContactPage({ params }) {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
             {TEAM.map(m => (
               <div key={m.name} className="flex flex-col items-center text-center border border-border p-4 md:p-6">
-                {/* Avatar rotund, dimensiune mare pentru claritate */}
-                <div style={{
-                  width:'120px', height:'120px',
+                {/* Avatar rotund — 90px mobil, 80px desktop */}
+                <div className="w-[90px] h-[90px] md:w-[80px] md:h-[80px]" style={{
                   borderRadius:'50%',
                   marginBottom:'14px', flexShrink:0,
                   overflow:'hidden',
                   background: m.color,
+                  border:'1px solid #e8e8e4',
+                  boxSizing:'border-box',
                 }}>
                   {m.photo ? (
                     <img
                       src={m.photo}
                       alt={m.name}
+                      width={432}
+                      height={434}
                       style={{ width:'100%', height:'100%', objectFit:'cover', objectPosition:'center top', display:'block' }}
                     />
                   ) : (
