@@ -122,8 +122,8 @@ export default async function AccesoriiPage({ params }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <style>{`
-        .acc-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:1px; background:#e8e8e4; border:1px solid #e8e8e4; }
-        .acc-card { background:#fff; display:flex; flex-direction:column; }
+        .acc-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; background:#fff; }
+        .acc-card { background:#fff; display:flex; flex-direction:column; border:1px solid #e8e8e4; }
         .acc-img  { width:100%; aspect-ratio:4/3; object-fit:cover; object-position:center; display:block; background:#f5f5f3; }
         .acc-body { padding:18px 18px 20px; display:flex; flex-direction:column; flex:1; }
         .acc-cat  { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.54rem; letter-spacing:.2em; text-transform:uppercase; margin-bottom:8px; display:block; }
@@ -137,7 +137,7 @@ export default async function AccesoriiPage({ params }) {
         .acc-btn:hover { background:#1a1a1a; color:#fff; border-color:#1a1a1a; }
         @media(max-width:1100px){ .acc-grid{ grid-template-columns:repeat(3,1fr); } }
         @media(max-width:720px) { .acc-grid{ grid-template-columns:repeat(2,1fr); } }
-        @media(max-width:420px) { .acc-grid{ grid-template-columns:1fr; } }
+        @media(max-width:480px) { .acc-grid{ grid-template-columns:1fr; } }
       `}</style>
 
       <div className="page-header">
