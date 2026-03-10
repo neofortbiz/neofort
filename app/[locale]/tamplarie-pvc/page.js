@@ -126,6 +126,15 @@ const DESCS = {
 };
 
 // Ordinea exactă ca în screenshot: BluEvolution prima linie, GreenEvolution a doua
+const PROD_SLUG_MAP = {
+  'blu92alu':     'bluevolution-92-alu',
+  'blu92flex':    'bluevolution-92-flex',
+  'blu92round':   'bluevolution-92-round',
+  'gre76mdround': 'greenevolution-76-md-round',
+  'gre76mdflex':  'greenevolution-76-md-flex',
+  'gre76adflex':  'greenevolution-76-ad-flex',
+};
+
 const PVC_PRODUCTS = [
   { slug:'blu92alu',     img:'/products/bluevolution-92-alu.avif',        name:'BluEvolution 92 ALU (placat)', serie:'blu' },
   { slug:'blu92flex',    img:'/products/bluevolution-92-flex.avif',        name:'BluEvolution 92 FLEX',         serie:'blu' },
@@ -233,7 +242,7 @@ export default async function TamplariePVCPage({ params }) {
                     <p style={{fontSize:'0.77rem',color:'#767676',lineHeight:1.65,flex:1,marginBottom:'16px'}}>{desc}</p>
 
                     {/* Buton Detalii */}
-                    <Link href="/contact" style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',textDecoration:'none',transition:'background 0.15s,color 0.15s'}}>
+                    <Link href={`/produse/${PROD_SLUG_MAP[p.slug] || p.slug}`} style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',textDecoration:'none',transition:'background 0.15s,color 0.15s'}}>
                       {ui.btn_detail}
                     </Link>
                   </div>
