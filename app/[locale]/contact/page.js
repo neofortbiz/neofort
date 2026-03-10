@@ -297,32 +297,48 @@ export default async function ContactPage({ params }) {
         <div className="container mx-auto px-6">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
             {TEAM.map(m => (
-              <div key={m.name} className="flex flex-col items-center text-center border border-border p-5 md:p-6">
-                {/* Avatar — foto pătrată fără chenar */}
-                <div style={{ width:'80px', height:'80px', marginBottom:'14px', flexShrink:0, overflow:'hidden', background: m.color }}>
+              <div key={m.name} className="flex flex-col items-center text-center border border-border p-4 md:p-6">
+                {/* Avatar rotund, dimensiune mare pentru claritate */}
+                <div style={{
+                  width:'120px', height:'120px',
+                  borderRadius:'50%',
+                  marginBottom:'14px', flexShrink:0,
+                  overflow:'hidden',
+                  background: m.color,
+                }}>
                   {m.photo ? (
                     <img
                       src={m.photo}
                       alt={m.name}
-                      style={{ width:'100%', height:'100%', objectFit:'cover', display:'block' }}
+                      style={{ width:'100%', height:'100%', objectFit:'cover', objectPosition:'center top', display:'block' }}
                     />
                   ) : (
                     <div style={{ width:'100%', height:'100%', display:'flex', alignItems:'center', justifyContent:'center' }}>
                       <span style={{
                         fontFamily: 'Barlow Condensed, sans-serif',
-                        fontWeight: 600, fontSize: '1.25rem', letterSpacing: '.06em', color: '#fff',
+                        fontWeight: 600, fontSize: '1.5rem', letterSpacing: '.06em', color: '#fff',
                       }}>{m.initials}</span>
                     </div>
                   )}
                 </div>
-                {/* Info — flex-grow ca să împingă butoanele jos */}
+                {/* Info */}
                 <div className="flex flex-col flex-1 w-full">
-                  <h3 className="font-condensed font-semibold text-primary text-[0.88rem] leading-tight mb-1">{m.name}</h3>
+                  <h3 style={{
+                    fontFamily: 'Barlow Condensed, sans-serif',
+                    fontWeight: 600,
+                    fontSize: 'clamp(0.7rem, 2.5vw, 0.88rem)',
+                    lineHeight: 1.2,
+                    color: '#1a1a1a',
+                    marginBottom: '4px',
+                    whiteSpace: 'nowrap',
+                    overflow: 'hidden',
+                    textOverflow: 'ellipsis',
+                  }}>{m.name}</h3>
                   <p className="text-[0.68rem] text-muted mb-4 leading-snug flex-1">{m.role[locale] || m.role.ro}</p>
-                  {/* Butoane — mereu la aceeași înălțime */}
+                  {/* Butoane */}
                   <a href={m.href}
-                    className="w-full text-center font-condensed font-semibold tracking-[0.06em] uppercase text-primary border border-border px-1 py-2 mb-2 hover:border-primary hover:bg-primary hover:text-white transition-all duration-200 block"
-                    style={{ fontSize:'clamp(0.52rem, 1.8vw, 0.62rem)', lineHeight:1.3, wordBreak:'break-all' }}>
+                    className="w-full text-center font-condensed font-semibold tracking-[0.04em] uppercase text-primary border border-border px-1 py-2 mb-2 hover:border-primary hover:bg-primary hover:text-white transition-all duration-200 block"
+                    style={{ fontSize:'clamp(0.48rem, 1.6vw, 0.6rem)', lineHeight:1.3 }}>
                     {m.phone}
                   </a>
                   <a href={`mailto:${m.email}`}
