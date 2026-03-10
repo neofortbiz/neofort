@@ -126,24 +126,14 @@ export default async function AccesoriiPage({ params }) {
         </div>
       </section>
 
-      <section className="py-14 bg-[#111]">
-        <div className="container mx-auto px-6 flex flex-col items-center text-center gap-4 md:flex-row md:justify-between md:text-left">
-          <div>
-            <p className="font-condensed text-[0.6rem] tracking-[0.2em] uppercase text-gray-600 mb-2">{CTA_LABELS[locale]?.tag || CTA_LABELS.ro.tag}</p>
-            <h2 className="font-condensed text-2xl md:text-3xl font-semibold text-white leading-tight">
-              {CTA_LABELS[locale]?.h2a || CTA_LABELS.ro.h2a}{' '}
-              <span className="underline decoration-1 underline-offset-4">{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</span>{' '}
-              {CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}
-            </h2>
-          </div>
-          <div className="flex flex-col w-full sm:w-auto sm:flex-row gap-3 shrink-0">
-            <Link href="/contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 text-center">
-              {CTA_LABELS[locale]?.btn || CTA_LABELS.ro.btn}
-            </Link>
-            <a href="tel:+40752443435" className="border border-gray-700 text-gray-400 font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:border-white hover:text-white transition-all duration-200 text-center">
-              +40 752 443 435
-            </a>
-          </div>
+      {/* ── SEO BRIDGE ── */}
+      <section aria-label={CTA_LABELS[locale]?.tag || CTA_LABELS.ro.tag} style={{background:'#111',padding:'0'}}>
+        <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
+          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
+            {CTA_LABELS[locale]?.h2a || CTA_LABELS.ro.h2a}{' '}
+            <Link href="/contact" style={{color:'#555',textDecoration:'underline'}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</Link>
+            {' '}{CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}
+          </p>
         </div>
       </section>
     </>
