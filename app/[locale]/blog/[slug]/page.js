@@ -5,14 +5,13 @@ import { notFound } from 'next/navigation';
 const BASE = 'https://www.neofort-biz.ro';
 const LOCALES = ['ro','en','de','fr','es','it'];
 
-// Traduceri UI per limbă
 const UI = {
-  ro: { breadcrumb_home:'Acasă', related:'Articole similare', read_more:'Citește articolul →', read_short:'Citește →', lang_notice:'Acest articol este disponibil în:' },
-  en: { breadcrumb_home:'Home', related:'Related articles', read_more:'Read article →', read_short:'Read →', lang_notice:'This article is available in:' },
-  de: { breadcrumb_home:'Startseite', related:'Ähnliche Artikel', read_more:'Artikel lesen →', read_short:'Lesen →', lang_notice:'Dieser Artikel ist verfügbar auf:' },
-  fr: { breadcrumb_home:'Accueil', related:'Articles similaires', read_more:"Lire l'article →", read_short:'Lire →', lang_notice:'Cet article est disponible en :' },
-  es: { breadcrumb_home:'Inicio', related:'Artículos relacionados', read_more:'Leer artículo →', read_short:'Leer →', lang_notice:'Este artículo está disponible en:' },
-  it: { breadcrumb_home:'Home', related:'Articoli correlati', read_more:"Leggi l'articolo →", read_short:'Leggi →', lang_notice:"Questo articolo è disponibile in:" },
+  ro: { breadcrumb_home:'Acasă', related:'Articole similare', read_more:'Citește →', read_short:'Citește →', lang_notice:'Disponibil în:' },
+  en: { breadcrumb_home:'Home', related:'Related articles', read_more:'Read →', read_short:'Read →', lang_notice:'Available in:' },
+  de: { breadcrumb_home:'Startseite', related:'Ähnliche Artikel', read_more:'Lesen →', read_short:'Lesen →', lang_notice:'Verfügbar in:' },
+  fr: { breadcrumb_home:'Accueil', related:'Articles similaires', read_more:'Lire →', read_short:'Lire →', lang_notice:'Disponible en :' },
+  es: { breadcrumb_home:'Inicio', related:'Artículos relacionados', read_more:'Leer →', read_short:'Leer →', lang_notice:'Disponible en:' },
+  it: { breadcrumb_home:'Home', related:'Articoli correlati', read_more:'Leggi →', read_short:'Leggi →', lang_notice:'Disponibile in:' },
 };
 
 export function generateStaticParams() {
@@ -52,7 +51,6 @@ export async function generateMetadata({ params }) {
   };
 }
 
-// ── Renderer Markdown → React ──────────────────────────────────────────────
 function renderMarkdown(md) {
   const lines = md.split('\n');
   const elements = [];
@@ -75,11 +73,11 @@ function renderMarkdown(md) {
   while (i < lines.length) {
     const line = lines[i];
     if (line.startsWith('## ')) {
-      elements.push(<h2 key={key++} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.35rem',color:'#1a1a1a',marginTop:'2.5rem',marginBottom:'1rem',letterSpacing:'.01em'}}>{line.slice(3)}</h2>);
+      elements.push(<h2 key={key++} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.3rem',color:'#1a1a1a',marginTop:'2.8rem',marginBottom:'1rem',letterSpacing:'.01em',paddingBottom:'.5rem',borderBottom:'1px solid #f0f0f0'}}>{line.slice(3)}</h2>);
     } else if (line.startsWith('### ')) {
       elements.push(<h3 key={key++} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.05rem',color:'#1a1a1a',marginTop:'1.75rem',marginBottom:'.6rem',letterSpacing:'.01em'}}>{line.slice(4)}</h3>);
     } else if (line.startsWith('---')) {
-      elements.push(<hr key={key++} style={{border:'none',borderTop:'1px solid #e8e8e8',margin:'2rem 0'}}/>);
+      elements.push(<hr key={key++} style={{border:'none',borderTop:'1px solid #efefed',margin:'2.5rem 0'}}/>);
     } else if (line.startsWith('| ')) {
       const rows = [];
       while (i < lines.length && lines[i].startsWith('|')) {
@@ -90,15 +88,15 @@ function renderMarkdown(md) {
         i++;
       }
       elements.push(
-        <div key={key++} style={{overflowX:'auto',margin:'1.5rem 0'}}>
+        <div key={key++} style={{overflowX:'auto',margin:'1.8rem 0'}}>
           <table style={{width:'100%',borderCollapse:'collapse',fontSize:'.82rem'}}>
             <thead>
-              <tr>{rows[0]?.map((c,j)=>(<th key={j} style={{textAlign:'left',padding:'8px 12px',background:'#f5f5f3',borderBottom:'2px solid #e0e0e0',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.78rem',letterSpacing:'.05em',textTransform:'uppercase',color:'#555'}}>{c}</th>))}</tr>
+              <tr>{rows[0]?.map((c,j)=>(<th key={j} style={{textAlign:'left',padding:'10px 14px',background:'#f7f7f5',borderBottom:'2px solid #e8e8e8',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.72rem',letterSpacing:'.08em',textTransform:'uppercase',color:'#888'}}>{c}</th>))}</tr>
             </thead>
             <tbody>
               {rows.slice(1).map((row,ri)=>(
-                <tr key={ri} style={{borderBottom:'1px solid #f0f0f0'}}>
-                  {row.map((c,j)=>(<td key={j} style={{padding:'8px 12px',color:'#555',verticalAlign:'top'}} dangerouslySetInnerHTML={{__html:c.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')}}/>))}
+                <tr key={ri} style={{borderBottom:'1px solid #f5f5f5'}}>
+                  {row.map((c,j)=>(<td key={j} style={{padding:'9px 14px',color:'#555',verticalAlign:'top',fontSize:'.83rem'}} dangerouslySetInnerHTML={{__html:c.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')}}/>))}
                 </tr>
               ))}
             </tbody>
@@ -111,22 +109,21 @@ function renderMarkdown(md) {
       while (i < lines.length && (lines[i].match(/^[-✅⚠️]/) || lines[i].match(/^\d+\. /))) {
         const text = lines[i].replace(/^[-✅⚠️]\s*/, '').replace(/^\d+\.\s*/, '');
         const prefix = lines[i].match(/^(✅|⚠️)/) ? lines[i].match(/^(✅|⚠️)/)[1]+' ' : '';
-        listItems.push(<li key={i} style={{marginBottom:'.4rem'}}>{prefix}{inlineFormat(text)}</li>);
+        listItems.push(<li key={i} style={{marginBottom:'.5rem',paddingLeft:'.2rem'}}>{prefix}{inlineFormat(text)}</li>);
         i++;
       }
-      elements.push(<ul key={key++} style={{margin:'1rem 0 1rem 1.2rem',padding:0,color:'#555',fontSize:'.87rem',lineHeight:1.7}}>{listItems}</ul>);
+      elements.push(<ul key={key++} style={{margin:'1.2rem 0 1.2rem 1.4rem',padding:0,color:'#555',fontSize:'.87rem',lineHeight:1.75}}>{listItems}</ul>);
       continue;
     } else if (line.startsWith('**') && line.endsWith('**') && !line.slice(2,-2).includes('**')) {
-      elements.push(<p key={key++} style={{fontWeight:600,color:'#1a1a1a',fontSize:'.87rem',margin:'.75rem 0 .25rem'}}>{line.slice(2,-2)}</p>);
+      elements.push(<p key={key++} style={{fontWeight:600,color:'#1a1a1a',fontSize:'.87rem',margin:'1rem 0 .3rem'}}>{line.slice(2,-2)}</p>);
     } else if (line.trim()) {
-      elements.push(<p key={key++} style={{fontSize:'.87rem',color:'#555',lineHeight:1.8,margin:'.75rem 0'}}>{inlineFormat(line)}</p>);
+      elements.push(<p key={key++} style={{fontSize:'.88rem',color:'#555',lineHeight:1.85,margin:'.8rem 0'}}>{inlineFormat(line)}</p>);
     }
     i++;
   }
   return elements;
 }
 
-// ── Componenta principală ──────────────────────────────────────────────────
 export default async function BlogArticlePage({ params }) {
   const { locale, slug } = await params;
   const a = getArticle(slug);
@@ -144,30 +141,21 @@ export default async function BlogArticlePage({ params }) {
   const elements = renderMarkdown(content);
   const related  = ARTICLES.filter(r => r.slugs.ro !== a.slugs.ro).slice(0, 3);
 
-  // Schema.org BlogPosting + BreadcrumbList
   const articleSchema = {
-    "@context":"https://schema.org",
-    "@type":"BlogPosting",
-    "headline": title,
-    "description": a.metaDesc?.[locale] || excerpt,
-    "keywords": a.keywords || '',
-    "url": `${BASE}/${locale}/blog/${mySlug}`,
-    "datePublished": a.date,
-    "dateModified": a.date,
-    "inLanguage": locale,
+    "@context":"https://schema.org","@type":"BlogPosting",
+    "headline": title,"description": a.metaDesc?.[locale] || excerpt,
+    "keywords": a.keywords || '',"url": `${BASE}/${locale}/blog/${mySlug}`,
+    "datePublished": a.date,"dateModified": a.date,"inLanguage": locale,
     "articleSection": cat,
-    "author": { "@type":"Organization","name":"Neofort BIZ","url":BASE },
-    "publisher": {
-      "@type":"Organization","name":"Neofort BIZ","url":BASE,
-      "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":200,"height":60}
-    },
+    "author": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
+    "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE,
+      "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":200,"height":60}},
     "image": {"@type":"ImageObject","url":`${BASE}/og-neofort.jpg`,"width":1200,"height":630},
     "mainEntityOfPage": {"@type":"WebPage","@id":`${BASE}/${locale}/blog/${mySlug}`},
   };
 
   const breadcrumbSchema = {
-    "@context":"https://schema.org",
-    "@type":"BreadcrumbList",
+    "@context":"https://schema.org","@type":"BreadcrumbList",
     "itemListElement": [
       {"@type":"ListItem","position":1,"name":"Neofort BIZ","item":`${BASE}/${locale}`},
       {"@type":"ListItem","position":2,"name":"Blog","item":`${BASE}/${locale}/blog`},
@@ -180,82 +168,96 @@ export default async function BlogArticlePage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
 
+      <style>{`
+        .article-grid {
+          max-width: 1100px;
+          margin: 0 auto;
+          padding: 0 24px;
+          display: grid;
+          grid-template-columns: 1fr 260px;
+          gap: 56px;
+          align-items: start;
+        }
+        .article-sidebar { position: sticky; top: 88px; }
+        .sidebar-card { background:#f7f7f5; border-top:2px solid ${a.accentColor}; padding:20px; margin-bottom:14px; }
+        .sidebar-card-dark { background:#111; border-top:2px solid ${a.accentColor}; padding:20px; margin-bottom:14px; }
+        .sidebar-label { font-family:'Barlow Condensed',sans-serif; font-size:.58rem; letter-spacing:.18em; text-transform:uppercase; color:#aaa; margin-bottom:14px; display:block; }
+        @media (max-width: 800px) {
+          .article-grid { grid-template-columns:1fr; gap:0; }
+          .article-sidebar { position:static; margin-top:40px; padding-top:32px; border-top:1px solid #efefed; }
+        }
+      `}</style>
+
       {/* BREADCRUMB */}
       <div style={{background:'#f7f7f5',borderBottom:'1px solid #e8e8e8',padding:'10px 0'}}>
         <div className="container">
           <nav aria-label="breadcrumb" style={{display:'flex',alignItems:'center',gap:'6px',flexWrap:'wrap'}}>
-            <Link href="/" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>{ui.breadcrumb_home}</Link>
-            <span style={{color:'#ddd',fontSize:'.7rem'}}>›</span>
-            <Link href="/blog" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>Blog</Link>
-            <span style={{color:'#ddd',fontSize:'.7rem'}}>›</span>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#999'}}>{cat}</span>
+            <Link href="/" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>{ui.breadcrumb_home}</Link>
+            <span style={{color:'#ddd',fontSize:'.65rem'}}>›</span>
+            <Link href="/blog" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>Blog</Link>
+            <span style={{color:'#ddd',fontSize:'.65rem'}}>›</span>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',color:'#999'}}>{cat}</span>
           </nav>
         </div>
       </div>
 
-      {/* HERO — imagine separată deasupra, text pe fond alb dedesubt */}
-      {(a.image?.[locale] || a.image?.ro) && (
-        <div style={{width:'100%', aspectRatio:'16/7', overflow:'hidden', position:'relative', background: a.imageBg || '#1a1a1a'}}>
+      {/* HERO — compact, max 40vh */}
+      <div style={{position:'relative',background:a.imageBg||'#1a1a1a',overflow:'hidden',maxHeight:'40vh',minHeight:'220px',display:'flex',flexDirection:'column',justifyContent:'flex-end'}}>
+        {(a.image?.[locale] || a.image?.ro) && (
           <img
             src={a.image[locale] || a.image.ro}
-            alt={a.imgAlt?.[locale] || a.imgAlt?.ro || title}
-            style={{width:'100%',height:'100%',objectFit:'cover',objectPosition:'center',display:'block'}}
+            alt={title}
+            style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',objectPosition:'center 20%',display:'block',opacity:0.38}}
           />
+        )}
+        <div style={{position:'absolute',inset:0,background:'linear-gradient(to top, rgba(0,0,0,.6) 0%, transparent 65%)',zIndex:1}}/>
+        {/* Badge categorie sus-stânga */}
+        <div style={{position:'absolute',top:'20px',left:'24px',zIndex:2}}>
+          <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.56rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',background:a.accentColor,padding:'4px 11px'}}>{cat}</span>
         </div>
-      )}
-      {!(a.image?.[locale] || a.image?.ro) && (
-        <div style={{width:'100%', height:'120px', background: a.imageBg || '#1a1a1a'}} />
-      )}
-      {/* Titlu + meta pe fond alb, fără suprapunere */}
-      <div style={{background:'#fff', borderBottom:'1px solid #efefed', padding:'32px 0 28px'}}>
-        <div className="container" style={{maxWidth:'900px'}}>
-          <div style={{display:'flex',alignItems:'center',gap:'12px',marginBottom:'14px',flexWrap:'wrap'}}>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.57rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#fff',background:a.accentColor,padding:'3px 10px'}}>{cat}</span>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#999'}}>{date}</span>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#999'}}>{rt}</span>
+        {/* Titlu jos */}
+        <div style={{position:'relative',zIndex:2,padding:'0 24px 28px',maxWidth:'1100px',margin:'0 auto',width:'100%',boxSizing:'border-box'}}>
+          <div style={{display:'flex',gap:'14px',alignItems:'center',marginBottom:'8px',flexWrap:'wrap'}}>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.12em',color:'rgba(255,255,255,.5)'}}>{date}</span>
+            <span style={{color:'rgba(255,255,255,.2)'}}>·</span>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.12em',color:'rgba(255,255,255,.5)'}}>{rt}</span>
           </div>
-          <h1 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'clamp(1.4rem,3.5vw,2rem)',color:'#1a1a1a',lineHeight:1.2,letterSpacing:'.01em',marginBottom:'14px'}}>{title}</h1>
-          <p style={{fontSize:'.88rem',color:'#767676',lineHeight:1.7,maxWidth:'680px',margin:0}}>{excerpt}</p>
+          <h1 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'clamp(1.2rem,3vw,1.8rem)',color:'#fff',lineHeight:1.2,letterSpacing:'.01em',maxWidth:'780px',margin:0,textShadow:'0 1px 10px rgba(0,0,0,.4)'}}>{title}</h1>
         </div>
       </div>
 
-      {/* LAYOUT 2 COLOANE: conținut principal + sidebar */}
-      <div style={{background:'#fff',padding:'48px 0 64px'}}>
-        <div className="container blog-2col" style={{maxWidth:'1100px',display:'grid',gridTemplateColumns:'1fr 280px',gap:'48px',alignItems:'start'}}>
+      {/* EXCERPT — bandă albă sub hero */}
+      <div style={{background:'#fff',borderBottom:'1px solid #efefed',padding:'18px 0'}}>
+        <div style={{maxWidth:'1100px',margin:'0 auto',padding:'0 24px',display:'grid',gridTemplateColumns:'1fr 260px',gap:'56px'}}>
+          <p style={{fontSize:'.88rem',color:'#999',lineHeight:1.7,fontStyle:'italic',margin:0,paddingLeft:'14px',borderLeft:`3px solid ${a.accentColor}`}}>{excerpt}</p>
+          <div/>
+        </div>
+      </div>
 
-          {/* ── COLOANA PRINCIPALĂ ── */}
-          <main>
-            {/* Hreflang notice */}
-            <div style={{display:'flex',flexWrap:'wrap',gap:'8px',marginBottom:'32px',padding:'12px 16px',background:'#f7f7f5',borderLeft:`3px solid ${a.accentColor}`}}>
-              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.12em',textTransform:'uppercase',color:'#aaa',marginRight:'4px',alignSelf:'center'}}>{ui.lang_notice}</span>
-              {LOCALES.filter(l=>l!==locale).map(l=>(
-                <Link key={l} href={`/blog/${a.slugs[l] || a.slugs.ro}`} locale={l}
-                  style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.12em',textTransform:'uppercase',color:'#888',textDecoration:'none',padding:'3px 8px',border:'1px solid #e0e0e0',background:'#fff'}}>
-                  {l.toUpperCase()}
-                </Link>
-              ))}
-            </div>
+      {/* CORP + SIDEBAR */}
+      <div style={{background:'#fff',padding:'48px 0 72px'}}>
+        <div className="article-grid">
 
-            {/* Conținut articol */}
+          <main style={{minWidth:0}}>
             {elements}
 
-            {/* Articole similare */}
+            {/* Articole similare jos în conținut */}
             {related.length > 0 && (
-              <div style={{marginTop:'56px',paddingTop:'40px',borderTop:'1px solid #f0f0f0'}}>
-                <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#aaa',marginBottom:'24px'}}>{ui.related}</h3>
-                <div style={{display:'grid',gap:'16px',gridTemplateColumns:'repeat(auto-fit,minmax(240px,1fr))'}}>
-                  {related.map(r=>{
+              <div style={{marginTop:'64px',paddingTop:'36px',borderTop:'1px solid #efefed'}}>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'20px'}}>{ui.related}</span>
+                <div style={{display:'grid',gap:'14px',gridTemplateColumns:'repeat(auto-fit,minmax(200px,1fr))'}}>
+                  {related.map(r => {
                     const rt2   = r.title[locale]    || r.title.ro;
                     const rc    = r.category[locale] || r.category.ro;
                     const rex   = r.excerpt[locale]  || r.excerpt.ro;
                     const rSlug = r.slugs[locale]    || r.slugs.ro;
                     return (
                       <Link key={r.slugs.ro} href={`/blog/${rSlug}`}
-                        style={{textDecoration:'none',display:'block',padding:'20px',border:'1px solid #f0f0f0',background:'#fafafa',transition:'border-color .15s'}}>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.15em',textTransform:'uppercase',color:r.accentColor,display:'block',marginBottom:'6px'}}>{rc}</span>
-                        <span style={{fontSize:'.85rem',color:'#1a1a1a',fontWeight:500,display:'block',marginBottom:'8px',lineHeight:1.4}}>{rt2}</span>
-                        <p style={{fontSize:'.75rem',color:'#888',lineHeight:1.6,margin:0}}>{rex.slice(0,100)}…</p>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.12em',textTransform:'uppercase',color:r.accentColor,display:'block',marginTop:'12px'}}>{ui.read_more}</span>
+                        style={{textDecoration:'none',display:'block',padding:'18px',border:'1px solid #efefed',background:'#fafaf8'}}>
+                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.54rem',letterSpacing:'.16em',textTransform:'uppercase',color:r.accentColor,display:'block',marginBottom:'7px'}}>{rc}</span>
+                        <span style={{fontSize:'.82rem',color:'#1a1a1a',fontWeight:500,display:'block',marginBottom:'8px',lineHeight:1.4}}>{rt2}</span>
+                        <p style={{fontSize:'.74rem',color:'#aaa',lineHeight:1.6,margin:'0 0 10px'}}>{rex.slice(0,90)}…</p>
+                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.56rem',letterSpacing:'.12em',textTransform:'uppercase',color:r.accentColor}}>{ui.read_more}</span>
                       </Link>
                     );
                   })}
@@ -264,79 +266,66 @@ export default async function BlogArticlePage({ params }) {
             )}
           </main>
 
-          {/* ── SIDEBAR ── */}
-          <aside className="blog-sidebar" style={{position:'sticky',top:'80px'}}>
+          <aside className="article-sidebar">
 
-            {/* Card: Toate limbile disponibile */}
-            <div style={{padding:'20px',background:'#f7f7f5',marginBottom:'16px',borderTop:`3px solid ${a.accentColor}`}}>
-              <p style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.6rem',letterSpacing:'.15em',textTransform:'uppercase',color:'#aaa',marginBottom:'12px'}}>{ui.lang_notice}</p>
-              {LOCALES.map(l=>{
-                const lSlug = a.slugs[l] || a.slugs.ro;
+            {/* Limbi — o singură dată, doar în sidebar */}
+            <div className="sidebar-card">
+              <span className="sidebar-label">{ui.lang_notice}</span>
+              {LOCALES.map(l => {
+                const lSlug   = a.slugs[l] || a.slugs.ro;
                 const isActive = l === locale;
                 return (
                   <Link key={l} href={`/blog/${lSlug}`} locale={l}
-                    style={{display:'flex',justifyContent:'space-between',alignItems:'center',padding:'8px 0',borderBottom:'1px solid #ebebeb',textDecoration:'none'}}>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',letterSpacing:'.1em',textTransform:'uppercase',color: isActive ? '#1a1a1a' : '#888',fontWeight: isActive ? 500 : 300}}>{l.toUpperCase()}</span>
-                    {isActive && <span style={{fontSize:'.55rem',color:a.accentColor,letterSpacing:'.08em'}}>●</span>}
+                    style={{display:'flex',justifyContent:'space-between',alignItems:'center',padding:'8px 0',borderBottom:'1px solid #e8e8e8',textDecoration:'none'}}>
+                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.64rem',letterSpacing:'.1em',textTransform:'uppercase',color:isActive?'#1a1a1a':'#bbb',fontWeight:isActive?600:300}}>{l.toUpperCase()}</span>
+                    {isActive && <span style={{width:'5px',height:'5px',borderRadius:'50%',background:a.accentColor,display:'inline-block'}}/>}
                   </Link>
                 );
               })}
             </div>
 
-            {/* Card: Alte articole */}
+            {/* Articole similare în sidebar */}
             {related.length > 0 && (
-              <div style={{padding:'20px',background:'#f7f7f5',marginBottom:'16px',borderTop:'3px solid #e0e0e0'}}>
-                <p style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.6rem',letterSpacing:'.15em',textTransform:'uppercase',color:'#aaa',marginBottom:'12px'}}>{ui.related}</p>
-                {related.map(r=>{
-                  const rt2   = r.title[locale]    || r.title.ro;
-                  const rSlug = r.slugs[locale]    || r.slugs.ro;
+              <div className="sidebar-card">
+                <span className="sidebar-label">{ui.related}</span>
+                {related.map(r => {
+                  const rt2   = r.title[locale] || r.title.ro;
+                  const rSlug = r.slugs[locale] || r.slugs.ro;
                   return (
                     <Link key={r.slugs.ro} href={`/blog/${rSlug}`}
-                      style={{display:'block',padding:'10px 0',borderBottom:'1px solid #ebebeb',textDecoration:'none'}}>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',textTransform:'uppercase',color:r.accentColor,display:'block',marginBottom:'3px'}}>{r.category[locale]||r.category.ro}</span>
-                      <span style={{fontSize:'.78rem',color:'#1a1a1a',fontWeight:400,lineHeight:1.4}}>{rt2}</span>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.1em',color:r.accentColor,display:'block',marginTop:'4px'}}>{ui.read_short}</span>
+                      style={{display:'block',padding:'10px 0',borderBottom:'1px solid #e8e8e8',textDecoration:'none'}}>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.54rem',letterSpacing:'.12em',textTransform:'uppercase',color:r.accentColor,display:'block',marginBottom:'4px'}}>{r.category[locale]||r.category.ro}</span>
+                      <span style={{fontSize:'.76rem',color:'#1a1a1a',lineHeight:1.4,display:'block',marginBottom:'4px'}}>{rt2}</span>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.54rem',letterSpacing:'.1em',textTransform:'uppercase',color:r.accentColor}}>{ui.read_short}</span>
                     </Link>
                   );
                 })}
               </div>
             )}
 
-            {/* Card: Servicii interne — linkuri SEO relevante */}
-            <div style={{padding:'20px',background:'#1a1a1a',marginBottom:'16px'}}>
-              <p style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.6rem',letterSpacing:'.15em',textTransform:'uppercase',color:'#555',marginBottom:'12px'}}>Neofort BIZ</p>
+            {/* CTA dark */}
+            <div className="sidebar-card-dark">
+              <span className="sidebar-label" style={{color:'#444'}}>Neofort BIZ</span>
               {[
-                {href:'/tamplarie-pvc',label:{ro:'Tâmplărie PVC Salamander',en:'PVC Windows Salamander',de:'Kunststofffenster Salamander',fr:'Menuiserie PVC Salamander',es:'Carpintería PVC Salamander',it:'Infissi PVC Salamander'}},
+                {href:'/tamplarie-pvc',    label:{ro:'Tâmplărie PVC Salamander',en:'PVC Windows Salamander',de:'Kunststofffenster Salamander',fr:'Menuiserie PVC Salamander',es:'Carpintería PVC Salamander',it:'Infissi PVC Salamander'}},
                 {href:'/tamplarie-aluminiu',label:{ro:'Tâmplărie Aluminiu Alumil',en:'Aluminium Windows Alumil',de:'Aluminiumfenster Alumil',fr:'Menuiserie Aluminium Alumil',es:'Carpintería Aluminio Alumil',it:'Infissi Alluminio Alumil'}},
-                {href:'/accesorii',label:{ro:'Accesorii Tâmplărie',en:'Window Accessories',de:'Fensterzubehör',fr:'Accessoires menuiserie',es:'Accesorios carpintería',it:'Accessori infissi'}},
-                {href:'/servicii',label:{ro:'Servicii Montaj',en:'Installation Services',de:'Montagedienstleistungen',fr:'Services de pose',es:'Servicios instalación',it:'Servizi installazione'}},
-              ].map(item=>(
+                {href:'/accesorii',        label:{ro:'Accesorii Tâmplărie',en:'Window Accessories',de:'Fensterzubehör',fr:'Accessoires menuiserie',es:'Accesorios carpintería',it:'Accessori infissi'}},
+                {href:'/servicii',         label:{ro:'Servicii Montaj',en:'Installation Services',de:'Montagedienstleistungen',fr:'Services de pose',es:'Servicios instalación',it:'Servizi installazione'}},
+              ].map(item => (
                 <Link key={item.href} href={item.href}
-                  style={{display:'block',padding:'9px 0',borderBottom:'1px solid #252525',textDecoration:'none',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',letterSpacing:'.08em',textTransform:'uppercase',color:'#888',transition:'color .15s'}}>
+                  style={{display:'block',padding:'9px 0',borderBottom:'1px solid #1e1e1e',textDecoration:'none',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.08em',textTransform:'uppercase',color:'#666'}}>
                   {item.label[locale] || item.label.ro}
                 </Link>
               ))}
               <Link href="/contact"
-                style={{display:'block',marginTop:'16px',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.64rem',letterSpacing:'.18em',textTransform:'uppercase',color:'#fff',textDecoration:'none',padding:'10px 0',borderTop:'1px solid #333',textAlign:'center'}}>
-                {{'ro':'SOLICITĂ OFERTĂ','en':'REQUEST QUOTE','de':'ANGEBOT ANFRAGEN','fr':'DEMANDER DEVIS','es':'PEDIR PRESUPUESTO','it':'RICHIEDI PREVENTIVO'}[locale] || 'SOLICITĂ OFERTĂ'} →
+                style={{display:'block',marginTop:'14px',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.58rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#fff',textDecoration:'none',padding:'11px 0',background:a.accentColor}}>
+                {{'ro':'SOLICITĂ OFERTĂ','en':'REQUEST QUOTE','de':'ANGEBOT ANFRAGEN','fr':'DEMANDER DEVIS','es':'PEDIR PRESUPUESTO','it':'RICHIEDI PREVENTIVO'}[locale]||'SOLICITĂ OFERTĂ'} →
               </Link>
             </div>
 
           </aside>
         </div>
       </div>
-
-      {/* CSS responsive pentru layout 2 coloane */}
-      <style>{`
-        @media (max-width: 768px) {
-          .blog-article-grid {
-            grid-template-columns: 1fr !important;
-          }
-          .blog-article-sidebar {
-            position: static !important;
-          }
-        }
-      `}</style>
     </>
   );
 }
