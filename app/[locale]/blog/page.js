@@ -87,12 +87,10 @@ export default async function BlogPage({ params }) {
           box-shadow: 0 4px 24px rgba(0,0,0,.07);
         }
         .blog-featured-img {
-          height: 340px;
-          display: flex;
-          align-items: center;
-          justify-content: center;
+          aspect-ratio: 1 / 1;
           position: relative;
           overflow: hidden;
+          align-self: stretch;
         }
         .blog-featured-body {
           padding: 40px 40px 36px;
@@ -147,7 +145,7 @@ export default async function BlogPage({ params }) {
             grid-template-columns: 1fr;
           }
           .blog-featured-img {
-            height: 220px;
+            aspect-ratio: 16 / 9;
           }
           .blog-featured-body {
             padding: 28px 28px 28px;
