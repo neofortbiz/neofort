@@ -102,9 +102,8 @@ export default async function BlogPage({ params }) {
         .blog-grid {
           display: grid;
           grid-template-columns: repeat(3, 1fr);
-          gap: 1px;
-          background: #e8e8e4;
-          border: 1px solid #e8e8e4;
+          gap: 24px;
+          background: #fff;
           margin-top: 56px;
         }
         .blog-card {
@@ -112,9 +111,10 @@ export default async function BlogPage({ params }) {
           text-decoration: none;
           display: flex;
           flex-direction: column;
-          transition: background .18s;
+          border: 1px solid #efefed;
+          transition: border-color .18s, box-shadow .18s;
         }
-        .blog-card:hover { background: #fafaf8; }
+        .blog-card:hover { border-color: #d8d8d4; box-shadow: 0 4px 20px rgba(0,0,0,.05); }
         @media (max-width: 860px) {
           .blog-grid { grid-template-columns: 1fr 1fr; margin-top: 40px; }
         }
@@ -183,12 +183,12 @@ export default async function BlogPage({ params }) {
                 <Link key={a.slugs.ro} href={`/blog/${slug}`} className="blog-card">
                   {/* Imagine sau gradient */}
                   {img ? (
-                    <div style={{width:'100%',aspectRatio:'16/9',overflow:'hidden',background:a.imageBg||'#1a1a1a',flexShrink:0}}>
+                    <div style={{width:'100%',aspectRatio:'1/1',overflow:'hidden',background:a.imageBg||'#1a1a1a',flexShrink:0}}>
                       <img src={img} alt={title}
                         style={{width:'100%',height:'100%',objectFit:'cover',display:'block'}}/>
                     </div>
                   ) : (
-                    <div style={{width:'100%',aspectRatio:'16/9',background:a.imageBg||'#1a1a1a',display:'flex',alignItems:'center',justifyContent:'center',flexShrink:0}}>
+                    <div style={{width:'100%',aspectRatio:'1/1',background:a.imageBg||'#1a1a1a',display:'flex',alignItems:'center',justifyContent:'center',flexShrink:0}}>
                       <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'2.2rem',fontWeight:300,color:'rgba(255,255,255,.12)',letterSpacing:'.1em'}}>{a.imageLabel}</span>
                     </div>
                   )}
