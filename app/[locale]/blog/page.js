@@ -1,7 +1,7 @@
 import { Link } from '../../../i18n/navigation';
 import { ARTICLES } from '../../../data/blog.js';
 
-const BASE = 'https://www.neofort-biz.ro';
+const BASE    = 'https://www.neofort-biz.ro';
 const LOCALES = ['ro','en','de','fr','es','it'];
 
 const META = {
@@ -13,13 +13,47 @@ const META = {
   it: { title:'Blog Serramenti PVC & Alluminio — Guide Tecniche | Neofort BIZ', desc:'Guide tecniche, confronti e consigli su serramenti PVC Salamander, alluminio Alumil, isolamento nZEB e veneziane Raffstore.' },
 };
 
+// Hero text per limbă — optimizat SEO pe tema tâmplărie, ferestre, izolare termică
+const HERO = {
+  ro: {
+    label: 'Cunoaștere tehnică · Neofort BIZ',
+    h1: 'Ghiduri tehnice despre tâmplărie PVC & aluminiu',
+    sub: 'Comparații de profile, sfaturi de montaj, standarde nZEB și tot ce trebuie să știi înainte să alegi ferestre sau uși pentru casa ta.',
+  },
+  en: {
+    label: 'Technical knowledge · Neofort BIZ',
+    h1: 'Technical guides on PVC & aluminium windows',
+    sub: 'Profile comparisons, installation tips, nZEB standards and everything you need to know before choosing windows or doors for your home.',
+  },
+  de: {
+    label: 'Technisches Wissen · Neofort BIZ',
+    h1: 'Technische Leitfäden zu Kunststoff- & Aluminiumfenstern',
+    sub: 'Profilvergleiche, Montagetipps, nZEB-Normen und alles, was Sie vor der Wahl von Fenstern oder Türen wissen müssen.',
+  },
+  fr: {
+    label: 'Expertise technique · Neofort BIZ',
+    h1: 'Guides techniques sur les menuiseries PVC & aluminium',
+    sub: 'Comparatifs de profils, conseils de pose, normes nZEB et tout ce qu\'il faut savoir avant de choisir vos fenêtres ou portes.',
+  },
+  es: {
+    label: 'Conocimiento técnico · Neofort BIZ',
+    h1: 'Guías técnicas sobre carpintería PVC & aluminio',
+    sub: 'Comparativas de perfiles, consejos de instalación, normas nZEB y todo lo que necesitas saber antes de elegir ventanas o puertas.',
+  },
+  it: {
+    label: 'Conoscenza tecnica · Neofort BIZ',
+    h1: 'Guide tecniche su infissi PVC & alluminio',
+    sub: 'Confronto profili, consigli di posa, standard nZEB e tutto ciò che devi sapere prima di scegliere finestre o porte per la tua casa.',
+  },
+};
+
 const UI = {
-  ro: { label:'Ghiduri & Analize', h1:'Tâmplărie PVC & Aluminiu', sub:'Ghiduri tehnice, comparații și sfaturi de specialitate.', read:'Citește →' },
-  en: { label:'Guides & Analysis', h1:'PVC & Aluminium Windows', sub:'Technical guides, comparisons and specialist advice.', read:'Read →' },
-  de: { label:'Leitfäden & Analysen', h1:'Kunststoff- & Aluminiumfenster', sub:'Technische Leitfäden, Vergleiche und Fachberatung.', read:'Lesen →' },
-  fr: { label:'Guides & Analyses', h1:'Menuiserie PVC & Aluminium', sub:'Guides techniques, comparaisons et conseils spécialisés.', read:'Lire →' },
-  es: { label:'Guías & Análisis', h1:'Carpintería PVC & Aluminio', sub:'Guías técnicas, comparaciones y consejos especializados.', read:'Leer →' },
-  it: { label:'Guide & Analisi', h1:'Infissi PVC & Alluminio', sub:'Guide tecniche, confronti e consigli specializzati.', read:'Leggi →' },
+  ro: 'Citește →',
+  en: 'Read →',
+  de: 'Lesen →',
+  fr: 'Lire →',
+  es: 'Leer →',
+  it: 'Leggi →',
 };
 
 export async function generateMetadata({ params }) {
@@ -31,24 +65,32 @@ export async function generateMetadata({ params }) {
       canonical: `${BASE}/${locale}/blog`,
       languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog`])),
     },
-    openGraph: { type:'website', url:`${BASE}/${locale}/blog`, title:m.title, description:m.desc, siteName:'Neofort BIZ', images:[{ url:`${BASE}/og-neofort.jpg`, width:1200, height:630 }] },
+    openGraph: { type:'website', url:`${BASE}/${locale}/blog`, title:m.title, description:m.desc, siteName:'Neofort BIZ', images:[{ url:`${BASE}/blog-hero.jpg`, width:1600, height:640 }] },
   };
 }
 
 export default async function BlogPage({ params }) {
   const { locale } = await params;
-  const ui = UI[locale] || UI.ro;
-  const [featured, ...rest] = ARTICLES;
+  const hero = HERO[locale] || HERO.ro;
+  const read = UI[locale]   || UI.ro;
+
+  // Sortare FIFO descrescător — cel mai nou articol primul
+  const articles = [...ARTICLES].sort((a, b) => new Date(b.date) - new Date(a.date));
 
   const schema = {
     "@context":"https://schema.org","@type":"Blog",
-    "name":"Blog Neofort BIZ","url":`${BASE}/${locale}/blog`,
-    "publisher":{"@type":"Organization","name":"Neofort BIZ","url":BASE},
-    "blogPost": ARTICLES.map(a => ({
+    "name": META[locale]?.title || META.ro.title,
+    "description": META[locale]?.desc || META.ro.desc,
+    "url":`${BASE}/${locale}/blog`,
+    "publisher":{"@type":"Organization","name":"Neofort BIZ","url":BASE,
+      "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`}},
+    "blogPost": articles.map(a => ({
       "@type":"BlogPosting",
       "headline": a.title[locale] || a.title.ro,
       "url":`${BASE}/${locale}/blog/${a.slugs?.[locale] || a.slugs?.ro}`,
       "datePublished": a.date,
+      "description": a.excerpt[locale] || a.excerpt.ro,
+      "author":{"@type":"Organization","name":"Neofort BIZ"},
     }))
   };
 
@@ -57,18 +99,13 @@ export default async function BlogPage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
 
       <style>{`
-        .blog-hero-img {
-          width: 100%;
-          aspect-ratio: 16 / 8;
-          object-fit: cover;
-          display: block;
-        }
         .blog-grid {
           display: grid;
           grid-template-columns: repeat(3, 1fr);
           gap: 1px;
-          background: #e8e8e8;
-          border: 1px solid #e8e8e8;
+          background: #e8e8e4;
+          border: 1px solid #e8e8e4;
+          margin-top: 56px;
         }
         .blog-card {
           background: #fff;
@@ -78,114 +115,104 @@ export default async function BlogPage({ params }) {
           transition: background .18s;
         }
         .blog-card:hover { background: #fafaf8; }
-        .blog-card-img {
-          width: 100%;
-          aspect-ratio: 16 / 9;
-          object-fit: cover;
-          display: block;
-          background: #f0f0ee;
-        }
         @media (max-width: 860px) {
-          .blog-grid { grid-template-columns: 1fr 1fr; }
-          .blog-hero-img { aspect-ratio: 16 / 9; }
+          .blog-grid { grid-template-columns: 1fr 1fr; margin-top: 40px; }
         }
-        @media (max-width: 540px) {
+        @media (max-width: 520px) {
           .blog-grid { grid-template-columns: 1fr; }
         }
       `}</style>
 
-      {/* PAGE HEADER */}
-      <div className="page-header">
-        <div className="container">
-          <span className="sec-label">{ui.label}</span>
-          <h1 className="page-title">{ui.h1}</h1>
-          <p className="page-sub">{ui.sub}</p>
+      {/* ── HERO EDITORIAL ── */}
+      <div style={{
+        position:'relative',
+        background:'linear-gradient(135deg, #111a13 0%, #1a2e1e 50%, #0f1a11 100%)',
+        overflow:'hidden',
+        minHeight:'340px',
+        display:'flex', flexDirection:'column', justifyContent:'flex-end',
+      }}>
+        {/* Imagine de fundal */}
+        <img
+          src="/blog-hero.jpg"
+          alt="Blog tâmplărie PVC aluminiu Neofort BIZ"
+          style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:0.18,display:'block'}}
+        />
+        {/* Grilă decorativă subtilă */}
+        <div style={{position:'absolute',inset:0,
+          backgroundImage:'linear-gradient(rgba(74,124,89,.06) 1px, transparent 1px), linear-gradient(90deg, rgba(74,124,89,.06) 1px, transparent 1px)',
+          backgroundSize:'60px 60px',
+        }}/>
+        {/* Accent line stânga */}
+        <div style={{position:'absolute',left:0,top:0,bottom:0,width:'3px',background:'#4a7c59'}}/>
+        {/* Conținut */}
+        <div style={{position:'relative',zIndex:2,padding:'56px 0 48px'}}>
+          <div className="container" style={{maxWidth:'1100px'}}>
+            <span style={{
+              fontFamily:'Barlow Condensed,sans-serif', fontWeight:400,
+              fontSize:'.58rem', letterSpacing:'.22em', textTransform:'uppercase',
+              color:'#4a7c59', display:'block', marginBottom:'16px',
+            }}>{hero.label}</span>
+            <h1 style={{
+              fontFamily:'Barlow Condensed,sans-serif', fontWeight:600,
+              fontSize:'clamp(1.6rem,4vw,2.6rem)',
+              color:'#fff', lineHeight:1.15, letterSpacing:'.01em',
+              maxWidth:'700px', margin:'0 0 16px',
+            }}>{hero.h1}</h1>
+            <p style={{
+              fontSize:'.88rem', color:'rgba(255,255,255,.5)',
+              lineHeight:1.7, maxWidth:'580px', margin:0,
+            }}>{hero.sub}</p>
+          </div>
         </div>
       </div>
 
+      {/* ── GRID ARTICOLE — toate egale, FIFO descrescător ── */}
       <div style={{background:'#fff', padding:'0 0 80px'}}>
         <div className="container" style={{maxWidth:'1100px'}}>
+          <div className="blog-grid">
+            {articles.map(a => {
+              const title   = a.title[locale]    || a.title.ro;
+              const excerpt = a.excerpt[locale]  || a.excerpt.ro;
+              const cat     = a.category[locale] || a.category.ro;
+              const date    = a.dateDisplay[locale] || a.dateDisplay.ro;
+              const rt      = a.readTime[locale] || a.readTime.ro;
+              const slug    = a.slugs?.[locale]  || a.slugs?.ro;
+              const img     = a.image?.[locale]  || a.image?.ro;
 
-          {/* ── ARTICOL FEATURED ── */}
-          {featured && (() => {
-            const title   = featured.title[locale]    || featured.title.ro;
-            const excerpt = featured.excerpt[locale]  || featured.excerpt.ro;
-            const cat     = featured.category[locale] || featured.category.ro;
-            const date    = featured.dateDisplay[locale] || featured.dateDisplay.ro;
-            const rt      = featured.readTime[locale] || featured.readTime.ro;
-            const slug    = featured.slugs?.[locale]  || featured.slugs?.ro;
-            const img     = featured.image?.[locale]  || featured.image?.ro;
-            return (
-              <Link href={`/blog/${slug}`}
-                style={{display:'block', textDecoration:'none', borderBottom:'1px solid #e8e8e8', marginBottom:'56px'}}>
-                {/* Imagine mare */}
-                {img ? (
-                  <div style={{width:'100%', aspectRatio:'16/7', overflow:'hidden', position:'relative', background: featured.imageBg}}>
-                    <img src={img} alt={title}
-                      style={{width:'100%', height:'100%', objectFit:'cover', objectPosition:'center', display:'block'}}/>
-                  </div>
-                ) : (
-                  <div style={{width:'100%', aspectRatio:'16/7', background: featured.imageBg, display:'flex', alignItems:'center', justifyContent:'center'}}>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif', fontSize:'4rem', fontWeight:300, color:'rgba(255,255,255,.12)', letterSpacing:'.1em'}}>{featured.imageLabel}</span>
-                  </div>
-                )}
-                {/* Text sub imagine */}
-                <div style={{padding:'28px 0 32px', display:'grid', gridTemplateColumns:'1fr auto', gap:'24px', alignItems:'start'}}>
-                  <div>
-                    <div style={{display:'flex', alignItems:'center', gap:'12px', marginBottom:'12px', flexWrap:'wrap'}}>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'.56rem', letterSpacing:'.2em', textTransform:'uppercase', color:'#fff', background: featured.accentColor, padding:'3px 10px'}}>{cat}</span>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif', fontSize:'.6rem', letterSpacing:'.1em', color:'#bbb'}}>{date}</span>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif', fontSize:'.6rem', letterSpacing:'.1em', color:'#bbb'}}>{rt}</span>
+              return (
+                <Link key={a.slugs.ro} href={`/blog/${slug}`} className="blog-card">
+                  {/* Imagine sau gradient */}
+                  {img ? (
+                    <div style={{width:'100%',aspectRatio:'16/9',overflow:'hidden',background:a.imageBg||'#1a1a1a',flexShrink:0}}>
+                      <img src={img} alt={title}
+                        style={{width:'100%',height:'100%',objectFit:'cover',display:'block'}}/>
                     </div>
-                    <h2 style={{fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'clamp(1.3rem,3vw,1.9rem)', color:'#1a1a1a', lineHeight:1.2, letterSpacing:'.01em', margin:'0 0 12px'}}>{title}</h2>
-                    <p style={{fontSize:'.88rem', color:'#888', lineHeight:1.7, margin:0, maxWidth:'700px'}}>{excerpt}</p>
-                  </div>
-                  <span style={{fontFamily:'Barlow Condensed,sans-serif', fontSize:'.62rem', letterSpacing:'.14em', textTransform:'uppercase', color: featured.accentColor, whiteSpace:'nowrap', paddingTop:'4px'}}>{ui.read}</span>
-                </div>
-              </Link>
-            );
-          })()}
-
-          {/* ── GRID RESTUL ARTICOLELOR ── */}
-          {rest.length > 0 && (
-            <div className="blog-grid">
-              {rest.map(a => {
-                const title   = a.title[locale]    || a.title.ro;
-                const excerpt = a.excerpt[locale]  || a.excerpt.ro;
-                const cat     = a.category[locale] || a.category.ro;
-                const date    = a.dateDisplay[locale] || a.dateDisplay.ro;
-                const rt      = a.readTime[locale] || a.readTime.ro;
-                const slug    = a.slugs?.[locale]  || a.slugs?.ro;
-                const img     = a.image?.[locale]  || a.image?.ro;
-                return (
-                  <Link key={a.slugs.ro} href={`/blog/${slug}`} className="blog-card">
-                    {/* Imagine card */}
-                    {img ? (
-                      <div style={{width:'100%', aspectRatio:'16/9', overflow:'hidden', background: a.imageBg}}>
-                        <img src={img} alt={title} className="blog-card-img"/>
-                      </div>
-                    ) : (
-                      <div className="blog-card-img" style={{background: a.imageBg, display:'flex', alignItems:'center', justifyContent:'center'}}>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif', fontSize:'2rem', fontWeight:300, color:'rgba(255,255,255,.15)', letterSpacing:'.08em'}}>{a.imageLabel}</span>
-                      </div>
-                    )}
-                    {/* Text card */}
-                    <div style={{padding:'20px 22px 24px', flex:1, display:'flex', flexDirection:'column'}}>
-                      <div style={{display:'flex', alignItems:'center', gap:'10px', marginBottom:'10px', flexWrap:'wrap'}}>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'.54rem', letterSpacing:'.18em', textTransform:'uppercase', color: a.accentColor}}>{cat}</span>
-                        <span style={{color:'#ddd', fontSize:'.5rem'}}>◆</span>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif', fontSize:'.58rem', letterSpacing:'.08em', color:'#bbb'}}>{date}</span>
-                      </div>
-                      <h3 style={{fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'1rem', color:'#1a1a1a', lineHeight:1.25, letterSpacing:'.01em', margin:'0 0 10px'}}>{title}</h3>
-                      <p style={{fontSize:'.78rem', color:'#999', lineHeight:1.65, margin:'0 0 16px', flex:1}}>{excerpt.slice(0,110)}…</p>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.14em', textTransform:'uppercase', color: a.accentColor, marginTop:'auto'}}>{ui.read}</span>
+                  ) : (
+                    <div style={{width:'100%',aspectRatio:'16/9',background:a.imageBg||'#1a1a1a',display:'flex',alignItems:'center',justifyContent:'center',flexShrink:0}}>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'2.2rem',fontWeight:300,color:'rgba(255,255,255,.12)',letterSpacing:'.1em'}}>{a.imageLabel}</span>
                     </div>
-                  </Link>
-                );
-              })}
-            </div>
-          )}
+                  )}
 
+                  {/* Corp card */}
+                  <div style={{padding:'20px 22px 24px',flex:1,display:'flex',flexDirection:'column'}}>
+                    {/* Meta */}
+                    <div style={{display:'flex',alignItems:'center',gap:'8px',marginBottom:'10px',flexWrap:'wrap'}}>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.54rem',letterSpacing:'.18em',textTransform:'uppercase',color:a.accentColor||'#4a7c59'}}>{cat}</span>
+                      <span style={{color:'#e0e0e0',fontSize:'.4rem'}}>◆</span>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.06em',color:'#bbb'}}>{date}</span>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.56rem',letterSpacing:'.06em',color:'#ccc',marginLeft:'auto'}}>{rt}</span>
+                    </div>
+                    {/* Titlu */}
+                    <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1rem',color:'#1a1a1a',lineHeight:1.25,letterSpacing:'.01em',margin:'0 0 10px'}}>{title}</h2>
+                    {/* Excerpt */}
+                    <p style={{fontSize:'.78rem',color:'#999',lineHeight:1.65,margin:'0 0 16px',flex:1}}>{excerpt.slice(0,110)}…</p>
+                    {/* CTA */}
+                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.56rem',letterSpacing:'.14em',textTransform:'uppercase',color:a.accentColor||'#4a7c59'}}>{read}</span>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
         </div>
       </div>
     </>
