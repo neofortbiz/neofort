@@ -25,9 +25,19 @@ export async function generateMetadata({ params }) {
   };
 }
 
+const UI = {
+  ro: { h1:'Ghiduri tehnice — Tâmplărie PVC & Aluminiu', sub:'Comparații, ghiduri de montaj și sfaturi tehnice despre tâmplărie PVC Salamander, aluminiu Alumil, izolare nZEB și sisteme de protecție solară.', read_more:'Citește articolul →', read_short:'Citește →' },
+  en: { h1:'Technical Guides — PVC & Aluminium Windows', sub:'Comparisons, installation guides and technical tips on Salamander PVC windows, Alumil aluminium, nZEB insulation and solar shading systems.', read_more:'Read article →', read_short:'Read →' },
+  de: { h1:'Technische Leitfäden — Kunststoff- & Aluminiumfenster', sub:'Vergleiche, Montageanleitungen und technische Tipps zu Salamander PVC-Fenstern, Alumil-Aluminium, nZEB-Dämmung und Beschattungssystemen.', read_more:'Artikel lesen →', read_short:'Lesen →' },
+  fr: { h1:'Guides Techniques — Menuiserie PVC & Aluminium', sub:'Comparaisons, guides de pose et conseils techniques sur la menuiserie PVC Salamander, aluminium Alumil, isolation nZEB et systèmes d\'ombrage.', read_more:"Lire l'article →", read_short:'Lire →' },
+  es: { h1:'Guías Técnicas — Carpintería PVC & Aluminio', sub:'Comparaciones, guías de instalación y consejos técnicos sobre carpintería PVC Salamander, aluminio Alumil, aislamiento nZEB y sistemas de sombreado.', read_more:'Leer artículo →', read_short:'Leer →' },
+  it: { h1:'Guide Tecniche — Infissi PVC & Alluminio', sub:'Confronti, guide di installazione e consigli tecnici su infissi PVC Salamander, alluminio Alumil, isolamento nZEB e sistemi di ombreggiamento.', read_more:"Leggi l'articolo →", read_short:'Leggi →' },
+};
+
 export default async function BlogPage({ params }) {
   const { locale } = await params;
-  const m = META[locale] || META.ro;
+  const m  = META[locale] || META.ro;
+  const ui = UI[locale]   || UI.ro;
 
   const schema = {
     "@context":"https://schema.org","@type":"Blog",
@@ -157,11 +167,10 @@ export default async function BlogPage({ params }) {
         <div className="container">
           <span className="sec-label">Neofort BIZ</span>
           <h1 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.6rem,5vw,2.4rem)',color:'#1a1a1a',marginBottom:'12px',lineHeight:1.15}}>
-            Ghiduri tehnice — Tâmplărie PVC & Aluminiu
+            {ui.h1}
           </h1>
           <p style={{fontSize:'0.875rem',fontWeight:300,color:'#767676',maxWidth:'560px',lineHeight:1.75}}>
-            Comparații, ghiduri de montaj și sfaturi tehnice despre tâmplărie PVC Salamander,
-            aluminiu Alumil, izolare nZEB și sisteme de protecție solară.
+            {ui.sub}
           </p>
         </div>
       </div>
@@ -208,7 +217,7 @@ export default async function BlogPage({ params }) {
                   {featured.dateDisplay[locale] || featured.dateDisplay.ro}
                 </span>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#1a1a1a',fontWeight:500,borderBottom:'1px solid #1a1a1a',paddingBottom:'2px'}}>
-                  Citește articolul →
+                  {ui.read_more}
                 </span>
               </div>
             </div>
@@ -243,7 +252,7 @@ export default async function BlogPage({ params }) {
                     </p>
                     <div className="blog-card-footer">
                       <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',color:'#bbb'}}>{date}</span>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#555',fontWeight:500}}>Citește →</span>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#555',fontWeight:500}}>{ui.read_short}</span>
                     </div>
                   </div>
                 </Link>
