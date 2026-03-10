@@ -141,7 +141,7 @@ export default function Footer() {
             <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'6px'}}>
               {ft.title_label}
             </span>
-            <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.4rem, 3.5vw, 2.0rem)',color:'#fff',lineHeight:1.25}}>
+            <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(0.85rem, 2vw, 1.1rem)',color:'#fff',lineHeight:1.35,textAlign:'center'}}>
               {ft.title_h2.split('\n')[0]}<br/>
               {ft.title_h2.split('\n')[1]}
             </h2>
@@ -301,7 +301,7 @@ export default function Footer() {
       <div className="footer-inner">
         <div className="footer-grid-logo">
           <div style={{padding:'32px 32px 12px 0'}}>
-            <span className="footer-logo">NEOFORT</span>
+            <span className="footer-logo">NEOFORT BIZ</span>
           </div>
           <div></div><div></div><div></div>
         </div>

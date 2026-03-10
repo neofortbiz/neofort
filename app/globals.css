@@ -77,7 +77,7 @@ img,video{max-width:100%;height:auto}
 .footer-col-brand{flex:1;padding-right:32px}
 .footer-col{flex:1;padding:0 32px;border-left:1px solid #1e1e1e}
 .footer-col-contact{flex:1;padding-left:32px;border-left:1px solid #1e1e1e}
-.footer-logo{font-family:'Barlow Condensed',sans-serif;font-weight:500;font-size:0.994rem;letter-spacing:.82em;color:#fff;text-transform:uppercase;display:block;margin-bottom:3px}
+.footer-logo{font-family:'Barlow Condensed',sans-serif;font-weight:500;font-size:0.994rem;letter-spacing:.45em;color:#fff;text-transform:uppercase;display:block;margin-bottom:3px}
 .footer-logo-sub{font-size:0.644rem;letter-spacing:.25em;text-transform:uppercase;color:#888;display:block;margin-bottom:14px}
 .footer-desc{font-size:0.824rem;font-weight:300;color:#bbb;line-height:1.7;margin-bottom:12px}
 .footer-osim{font-size:0.694rem;color:#bbb}

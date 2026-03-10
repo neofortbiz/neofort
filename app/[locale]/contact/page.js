@@ -21,7 +21,7 @@ const UI = {
     team_label: 'Echipa Neofort BIZ',
     team_title: 'Contactați echipa noastră',
     map_label: 'Sediu & Locație',
-    map_title: 'Găsiți-ne',
+    map_title: 'Contact',
     address_label: 'Adresă',
     address: 'Str. Theodor Aman Pictor 11\nSector 1, București 010776\nRomânia',
     maps_btn: 'Deschide în Google Maps →',
@@ -44,7 +44,7 @@ const UI = {
     team_label: 'Neofort BIZ Team',
     team_title: 'Contact our team',
     map_label: 'Office & Location',
-    map_title: 'Find us',
+    map_title: 'Contact',
     address_label: 'Address',
     address: 'Str. Theodor Aman Pictor 11\nSector 1, Bucharest 010776\nRomania',
     maps_btn: 'Open in Google Maps →',
@@ -67,7 +67,7 @@ const UI = {
     team_label: 'Team Neofort BIZ',
     team_title: 'Kontaktieren Sie unser Team',
     map_label: 'Büro & Standort',
-    map_title: 'Finden Sie uns',
+    map_title: 'Contact',
     address_label: 'Adresse',
     address: 'Str. Theodor Aman Pictor 11\nSektor 1, Bukarest 010776\nRumänien',
     maps_btn: 'In Google Maps öffnen →',
@@ -90,7 +90,7 @@ const UI = {
     team_label: 'Équipe Neofort BIZ',
     team_title: 'Contactez notre équipe',
     map_label: 'Bureau & Localisation',
-    map_title: 'Trouvez-nous',
+    map_title: 'Contact',
     address_label: 'Adresse',
     address: 'Str. Theodor Aman Pictor 11\nSecteur 1, Bucarest 010776\nRoumanie',
     maps_btn: 'Ouvrir dans Google Maps →',
@@ -113,7 +113,7 @@ const UI = {
     team_label: 'Equipo Neofort BIZ',
     team_title: 'Contacte a nuestro equipo',
     map_label: 'Oficina & Ubicación',
-    map_title: 'Encuéntrenos',
+    map_title: 'Contact',
     address_label: 'Dirección',
     address: 'Str. Theodor Aman Pictor 11\nSector 1, Bucarest 010776\nRumanía',
     maps_btn: 'Abrir en Google Maps →',
@@ -136,7 +136,7 @@ const UI = {
     team_label: 'Team Neofort BIZ',
     team_title: 'Contattate il nostro team',
     map_label: 'Ufficio & Posizione',
-    map_title: 'Trovateci',
+    map_title: 'Contact',
     address_label: 'Indirizzo',
     address: 'Str. Theodor Aman Pictor 11\nSettore 1, Bucarest 010776\nRomania',
     maps_btn: 'Apri in Google Maps →',
@@ -287,7 +287,7 @@ export default async function ContactPage({ params }) {
       <div className="page-header">
         <div className="container mx-auto px-6">
           <span className="sec-label">{ui.team_label}</span>
-          <h1 className="font-condensed text-4xl md:text-5xl font-semibold text-primary mb-3">{ui.h1}</h1>
+          <h1 className="font-condensed text-2xl md:text-3xl font-semibold text-primary mb-3">{ui.h1}</h1>
           <p className="text-[0.9rem] text-muted max-w-xl">{ui.sub}</p>
         </div>
       </div>
@@ -364,7 +364,7 @@ export default async function ContactPage({ params }) {
             {/* Hartă Google Maps embed — flex col, iframe flex-1 */}
             <div className="flex flex-col">
               <span className="sec-label">{ui.map_label}</span>
-              <h2 className="font-condensed text-2xl font-semibold text-primary mb-5">{ui.map_title}</h2>
+              <h2 className="font-condensed text-xl font-semibold text-primary mb-4">{ui.map_title}</h2>
               {/* min-h pe mobil, flex-1 pe desktop = umple restul coloanei */}
               <div className="border border-border overflow-hidden flex-1" style={{ minHeight: '320px' }}>
                 <iframe
@@ -393,7 +393,7 @@ export default async function ContactPage({ params }) {
 
               {/* Adresă */}
               <div>
-                <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-2">{ui.address_label}</p>
+                <span className="sec-label" style={{display:"block",marginBottom:"8px"}}>{ui.address_label}</span>
                 <address className="not-italic text-[0.88rem] text-primary leading-relaxed font-medium">
                   {ui.address.split('\n').map((line, i) => (
                     <span key={i}>{line}{i < 2 && <br/>}</span>
