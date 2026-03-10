@@ -191,12 +191,21 @@ export default async function BlogPage({ params }) {
           {/* FEATURED — primul articol */}
           <Link href={`/blog/${featured.slugs?.[locale] || featured.slugs?.ro || featured.slug}`} className="blog-featured">
             {/* Imagine */}
-            <div className="blog-featured-img" style={{background: featured.imageBg}}>
-              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'3.5rem',fontWeight:300,color:'rgba(255,255,255,.15)',letterSpacing:'.06em',textAlign:'center',padding:'0 32px',lineHeight:1.2,userSelect:'none'}}>
-                {featured.imageLabel}
-              </span>
-              <div style={{position:'absolute',bottom:'20px',left:'24px'}}>
-                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.57rem',letterSpacing:'.2em',textTransform:'uppercase',color:'rgba(255,255,255,.5)',background:'rgba(0,0,0,.35)',padding:'4px 10px'}}>
+            <div className="blog-featured-img" style={{background: featured.imageBg, position:'relative', overflow:'hidden'}}>
+              {featured.image?.[locale] || featured.image?.ro ? (
+                <img
+                  src={featured.image[locale] || featured.image.ro}
+                  alt={featured.title[locale] || featured.title.ro}
+                  style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',display:'block'}}
+                  loading="lazy"
+                />
+              ) : (
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'3.5rem',fontWeight:300,color:'rgba(255,255,255,.15)',letterSpacing:'.06em',textAlign:'center',padding:'0 32px',lineHeight:1.2,userSelect:'none'}}>
+                  {featured.imageLabel}
+                </span>
+              )}
+              <div style={{position:'absolute',bottom:'20px',left:'24px',zIndex:2}}>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.57rem',letterSpacing:'.2em',textTransform:'uppercase',color:'rgba(255,255,255,.9)',background:'rgba(0,0,0,.45)',padding:'4px 10px'}}>
                   {featured.category[locale] || featured.category.ro}
                 </span>
               </div>
@@ -242,10 +251,19 @@ export default async function BlogPage({ params }) {
               const date    = a.dateDisplay[locale] || a.dateDisplay.ro;
               return (
                 <Link key={a.slug} href={`/blog/${a.slugs?.[locale] || a.slugs?.ro || a.slug}`} className="blog-card">
-                  <div className="blog-card-img" style={{background: a.imageBg}}>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'2rem',fontWeight:300,color:'rgba(255,255,255,.15)',letterSpacing:'.06em',userSelect:'none'}}>
-                      {a.imageLabel}
-                    </span>
+                  <div className="blog-card-img" style={{background: a.imageBg, position:'relative', overflow:'hidden'}}>
+                    {a.image?.[locale] || a.image?.ro ? (
+                      <img
+                        src={a.image[locale] || a.image.ro}
+                        alt={title}
+                        style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',display:'block'}}
+                        loading="lazy"
+                      />
+                    ) : (
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'2rem',fontWeight:300,color:'rgba(255,255,255,.15)',letterSpacing:'.06em',userSelect:'none'}}>
+                        {a.imageLabel}
+                      </span>
+                    )}
                   </div>
                   <div className="blog-card-body">
                     <div style={{display:'flex',alignItems:'center',gap:'8px',marginBottom:'10px'}}>

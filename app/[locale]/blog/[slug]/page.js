@@ -194,15 +194,24 @@ export default async function BlogArticlePage({ params }) {
       </div>
 
       {/* HERO */}
-      <div style={{background: a.imageBg || '#1a1a1a', padding:'56px 0 48px'}}>
-        <div className="container" style={{maxWidth:'900px'}}>
-          <div style={{display:'flex',alignItems:'center',gap:'12px',marginBottom:'16px',flexWrap:'wrap'}}>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.62rem',letterSpacing:'.2em',textTransform:'uppercase',color:'rgba(255,255,255,0.5)',background:'rgba(255,255,255,0.1)',padding:'4px 10px',borderRadius:'2px'}}>{cat}</span>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'rgba(255,255,255,0.4)'}}>{date}</span>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'rgba(255,255,255,0.4)'}}>{rt}</span>
+      <div style={{position:'relative', background: a.imageBg || '#1a1a1a', overflow:'hidden'}}>
+        {(a.image?.[locale] || a.image?.ro) && (
+          <img
+            src={a.image[locale] || a.image.ro}
+            alt={title}
+            style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',objectPosition:'center top',display:'block',opacity:0.35}}
+          />
+        )}
+        <div style={{position:'relative',zIndex:1,padding:'56px 0 48px'}}>
+          <div className="container" style={{maxWidth:'900px'}}>
+            <div style={{display:'flex',alignItems:'center',gap:'12px',marginBottom:'16px',flexWrap:'wrap'}}>
+              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.62rem',letterSpacing:'.2em',textTransform:'uppercase',color:'rgba(255,255,255,0.5)',background:'rgba(255,255,255,0.1)',padding:'4px 10px',borderRadius:'2px'}}>{cat}</span>
+              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'rgba(255,255,255,0.4)'}}>{date}</span>
+              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'rgba(255,255,255,0.4)'}}>{rt}</span>
+            </div>
+            <h1 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.5rem,4vw,2.1rem)',color:'#fff',lineHeight:1.25,letterSpacing:'.01em',marginBottom:'20px'}}>{title}</h1>
+            <p style={{fontSize:'.9rem',color:'rgba(255,255,255,0.7)',lineHeight:1.7,maxWidth:'680px'}}>{excerpt}</p>
           </div>
-          <h1 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.5rem,4vw,2.1rem)',color:'#fff',lineHeight:1.25,letterSpacing:'.01em',marginBottom:'20px'}}>{title}</h1>
-          <p style={{fontSize:'.9rem',color:'rgba(255,255,255,0.7)',lineHeight:1.7,maxWidth:'680px'}}>{excerpt}</p>
         </div>
       </div>
 
