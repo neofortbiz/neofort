@@ -420,3 +420,14 @@ img,video{max-width:100%;height:auto}
   }
   .footer-col-4 { border-bottom: none; }
 }
+
+/* ── Blog Article 2-col layout ── */
+@media (max-width: 860px) {
+  .blog-2col {
+    grid-template-columns: 1fr !important;
+  }
+  .blog-sidebar {
+    position: static !important;
+    top: auto !important;
+  }
+}
