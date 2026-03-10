@@ -4,6 +4,15 @@ import { Link } from '../../../i18n/navigation';
 const BASE = 'https://www.neofort-biz.ro';
 const SLUGS_DESPRE = {'ro':'despre', 'en':'about', 'de':'ueber-uns', 'fr':'a-propos', 'es':'sobre-nosotros', 'it':'chi-siamo'};
 
+const CTA_LABELS = {
+  ro: { tag:'Neofort BIZ — București & Europa', h2a:'Solicitați o', h2b:'ofertă de preț', h2c:'pentru Tâmplărie PVC Salamander sau Tâmplărie Aluminiu Alumil', btn:'Cerere Ofertă' },
+  en: { tag:'Neofort BIZ — Bucharest & Europe', h2a:'Request a', h2b:'price quote', h2c:'for PVC Salamander or Alumil Aluminium Windows', btn:'Request Quote' },
+  de: { tag:'Neofort BIZ — Bukarest & Europa', h2a:'Fordern Sie ein', h2b:'Preisangebot', h2c:'für Salamander Kunststoff- oder Alumil Aluminiumfenster an', btn:'Angebot anfragen' },
+  fr: { tag:'Neofort BIZ — Bucarest & Europe', h2a:'Demandez un', h2b:'devis', h2c:'pour menuiserie PVC Salamander ou Aluminium Alumil', btn:'Demander un devis' },
+  es: { tag:'Neofort BIZ — Bucarest & Europa', h2a:'Solicite un', h2b:'presupuesto', h2c:'para carpintería PVC Salamander o Aluminio Alumil', btn:'Pedir presupuesto' },
+  it: { tag:'Neofort BIZ — Bucarest & Europa', h2a:'Richiedete un', h2b:'preventivo', h2c:'per infissi PVC Salamander o Alluminio Alumil', btn:'Richiedi preventivo' },
+};
+
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'despre' });
@@ -35,7 +44,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function DesprePage() {
+export default async function DesprePage({ params }) {
+  const { locale } = await params;
   return (
     <>
       <div className="page-header">
@@ -98,12 +108,24 @@ export default function DesprePage() {
         </div>
       </section>
 
-      <section className="py-16 bg-[#111] cta-section">
-        <div className="container mx-auto px-6 flex flex-col items-center text-center gap-6 md:flex-row md:justify-between md:text-left">
-          <h2 className="font-condensed text-2xl md:text-3xl font-semibold text-white">Contactați-ne pentru o ofertă personalizată</h2>
-          <Link href="/contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 shrink-0">
-            Cerere Ofertă
-          </Link>
+      <section className="py-14 bg-[#111]">
+        <div className="container mx-auto px-6 flex flex-col items-center text-center gap-4 md:flex-row md:justify-between md:text-left">
+          <div>
+            <p className="font-condensed text-[0.6rem] tracking-[0.2em] uppercase text-gray-600 mb-2">{CTA_LABELS[locale]?.tag || CTA_LABELS.ro.tag}</p>
+            <h2 className="font-condensed text-2xl md:text-3xl font-semibold text-white leading-tight">
+              {CTA_LABELS[locale]?.h2a || CTA_LABELS.ro.h2a}{' '}
+              <span className="underline decoration-1 underline-offset-4">{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</span>{' '}
+              {CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}
+            </h2>
+          </div>
+          <div className="flex flex-col w-full sm:w-auto sm:flex-row gap-3 shrink-0">
+            <Link href="/contact" className="bg-pvc text-white font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:bg-green-700 transition-colors duration-200 text-center">
+              {CTA_LABELS[locale]?.btn || CTA_LABELS.ro.btn}
+            </Link>
+            <a href="tel:+40752443435" className="border border-gray-700 text-gray-400 font-condensed text-[0.7rem] tracking-[0.18em] uppercase font-semibold px-8 py-4 hover:border-white hover:text-white transition-all duration-200 text-center">
+              +40 752 443 435
+            </a>
+          </div>
         </div>
       </section>
     </>
