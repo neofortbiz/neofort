@@ -17,7 +17,7 @@ const PAGE_UI = {
   ro: { label:'Accesorii · Neofort BIZ', h1:'Accesorii pentru tâmplărie', sub:'Soluții complete de izolare perimetrală, protecție solară, geam termoizolator și finisare pentru tâmplărie PVC și aluminiu.', btn_detail:'Detalii' },
   en: { label:'Accessories · Neofort BIZ', h1:'Window & Door Accessories', sub:'Complete solutions for perimeter insulation, solar protection, thermal glazing and finishing for PVC and aluminium windows.', btn_detail:'Details' },
   de: { label:'Zubehör · Neofort BIZ', h1:'Fenster- und Türzubehör', sub:'Komplettlösungen für Perimeterdämmung, Sonnenschutz, Wärmeschutzverglasung und Oberflächenveredelung für PVC- und Aluminiumfenster.', btn_detail:'Details' },
-  fr: { label:'Accessoires · Neofort BIZ', h1:'Accessoires pour menuiseries', sub:'Solutions complètes d'isolation périphérique, protection solaire, vitrage thermique et finition pour fenêtres PVC et aluminium.', btn_detail:'Détails' },
+  fr: { label:'Accessoires · Neofort BIZ', h1:'Accessoires pour menuiseries', sub:'Solutions complètes d\'isolation périphérique, protection solaire, vitrage thermique et finition pour fenêtres PVC et aluminium.', btn_detail:'Détails' },
   es: { label:'Accesorios · Neofort BIZ', h1:'Accesorios para carpintería', sub:'Soluciones completas de aislamiento perimetral, protección solar, acristalamiento térmico y acabado para ventanas PVC y aluminio.', btn_detail:'Detalles' },
   it: { label:'Accessori · Neofort BIZ', h1:'Accessori per infissi', sub:'Soluzioni complete di isolamento perimetrale, protezione solare, vetro termoisolante e finitura per infissi PVC e alluminio.', btn_detail:'Dettagli' },
 };
