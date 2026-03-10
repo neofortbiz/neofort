@@ -13,6 +13,15 @@ const CTA_LABELS = {
   it: { tag:'Neofort BIZ — Bucarest & Europa', h2a:'Richiedete un', h2b:'preventivo', h2c:'per infissi PVC Salamander o Alluminio Alumil', btn:'Richiedi preventivo' },
 };
 
+const PAGE_UI = {
+  ro: { label:'Neofort BIZ', h1:'Servicii', sub:'Consultanță. Măsurători. Transport. Montaj. Service. — Un serviciu complet, de la primul contact până la garanție.', why_label:'De ce să alegi Neofort?', why_h2:'Suntem pe piață de 21 ani cu activitate neîntreruptă', why_desc:'Peste 50% din comenzi vin din recomandări sau de la clienți care revin constant. Implementăm cele mai noi și performante soluții tehnice. Executăm lucrări cu grad mare de complexitate și îmbunătățim permanent raportul calitate–utilitate–preț.', incl_label:'Ce includem', proc_label:'Procedura de lucru', proc_h2:'Pași clari de la contact la livrare' },
+  en: { label:'Neofort BIZ', h1:'Services', sub:'Consulting. Measurements. Transport. Installation. After-sales. — A complete service, from first contact to warranty.', why_label:'Why choose Neofort?', why_h2:'21 years of uninterrupted activity on the market', why_desc:'Over 50% of orders come from recommendations or returning clients. We implement the latest and most performant technical solutions, executing complex projects while continuously improving the quality-utility-price ratio.', incl_label:'What we include', proc_label:'Work procedure', proc_h2:'Clear steps from contact to delivery' },
+  de: { label:'Neofort BIZ', h1:'Leistungen', sub:'Beratung. Aufmaß. Transport. Einbau. Service. — Komplettleistung vom ersten Kontakt bis zur Garantie.', why_label:'Warum Neofort wählen?', why_h2:'21 Jahre ununterbrochene Marktpräsenz', why_desc:'Über 50% der Aufträge kommen von Empfehlungen oder Stammkunden. Wir setzen die neuesten technischen Lösungen ein und verbessern kontinuierlich das Qualitäts-Nutzen-Preis-Verhältnis.', incl_label:'Unser Leistungsumfang', proc_label:'Arbeitsablauf', proc_h2:'Klare Schritte vom Kontakt bis zur Lieferung' },
+  fr: { label:'Neofort BIZ', h1:'Services', sub:'Conseil. Métrés. Transport. Pose. SAV. — Un service complet du premier contact jusqu'à la garantie.', why_label:'Pourquoi choisir Neofort ?', why_h2:'21 ans de présence continue sur le marché', why_desc:'Plus de 50 % des commandes proviennent de recommandations ou de clients fidèles. Nous mettons en œuvre les solutions techniques les plus récentes et améliorons en permanence le rapport qualité-utilité-prix.', incl_label:'Ce que nous incluons', proc_label:'Procédure de travail', proc_h2:'Étapes claires du contact à la livraison' },
+  es: { label:'Neofort BIZ', h1:'Servicios', sub:'Asesoría. Mediciones. Transporte. Instalación. Servicio post-venta. — Un servicio completo desde el primer contacto hasta la garantía.', why_label:'¿Por qué elegir Neofort?', why_h2:'21 años de actividad ininterrumpida en el mercado', why_desc:'Más del 50% de los pedidos provienen de recomendaciones o clientes recurrentes. Implementamos las soluciones técnicas más nuevas y mejoramos continuamente la relación calidad-utilidad-precio.', incl_label:'Qué incluimos', proc_label:'Procedimiento de trabajo', proc_h2:'Pasos claros desde el contacto hasta la entrega' },
+  it: { label:'Neofort BIZ', h1:'Servizi', sub:'Consulenza. Rilievi. Trasporto. Posa. Post-vendita. — Un servizio completo dal primo contatto alla garanzia.', why_label:'Perché scegliere Neofort?', why_h2:'21 anni di attività ininterrotta sul mercato', why_desc:'Oltre il 50% degli ordini proviene da raccomandazioni o clienti abituali. Implementiamo le soluzioni tecniche più recenti e miglioriamo continuamente il rapporto qualità-utilità-prezzo.', incl_label:'Cosa includiamo', proc_label:'Procedura di lavoro', proc_h2:'Passi chiari dal contatto alla consegna' },
+};
+
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'servicii' });
@@ -109,16 +118,15 @@ const SERVICII = [
 
 export default async function ServiciiPage({ params }) {
   const { locale } = await params;
+  const ui = PAGE_UI[locale] || PAGE_UI.ro;
   return (
     <>
       {/* Page header */}
       <div className="page-header">
         <div className="container mx-auto px-6">
-          <span className="sec-label">Neofort BIZ</span>
-          <h1 className="font-condensed text-4xl md:text-5xl font-semibold text-primary mb-3">Servicii</h1>
-          <p className="text-[0.9rem] text-muted max-w-xl">
-            Consultanță. Măsurători. Transport. Montaj. Service. — Un serviciu complet, de la primul contact până la garanție.
-          </p>
+          <span className="sec-label">{ui.label}</span>
+          <h1 className="font-condensed text-4xl md:text-5xl font-semibold text-primary mb-3">{ui.h1}</h1>
+          <p className="text-[0.9rem] text-muted max-w-xl">{ui.sub}</p>
         </div>
       </div>
 
@@ -127,11 +135,9 @@ export default async function ServiciiPage({ params }) {
         <div className="container mx-auto px-6">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <span className="sec-label">De ce să alegi Neofort?</span>
-              <h2 className="font-condensed text-3xl font-semibold text-primary mb-4">Suntem pe piață de 21 ani cu activitate neîntreruptă</h2>
-              <p className="text-[0.88rem] text-muted leading-relaxed">
-                Peste 50% din comenzi vin din recomandări sau de la clienți care revin constant. Implementăm cele mai noi și performante soluții tehnice. Executăm lucrări cu grad mare de complexitate și îmbunătățim permanent raportul calitate–utilitate–preț.
-              </p>
+              <span className="sec-label">{ui.why_label}</span>
+              <h2 className="font-condensed text-3xl font-semibold text-primary mb-4">{ui.why_h2}</h2>
+              <p className="text-[0.88rem] text-muted leading-relaxed">{ui.why_desc}</p>
             </div>
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-0 border border-border">
               {[['EXPERTIZĂ','Consultanță'],['PRECIZIE','Măsurători'],['RAPIDITATE','Transport'],['CALITATE','Montaj'],['PROMPTITUDINE','Service'],['GARANȚIE','Completă']].map(([top,bot],i)=>(
@@ -148,7 +154,7 @@ export default async function ServiciiPage({ params }) {
       {/* Cards servicii */}
       <section className="py-20 border-b border-border">
         <div className="container mx-auto px-6">
-          <span className="sec-label">Ce includem</span>
+          <span className="sec-label">{ui.incl_label}</span>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-4">
             {SERVICII.map(s=>(
               <div key={s.id} className="prod-card group">
@@ -176,8 +182,8 @@ export default async function ServiciiPage({ params }) {
       {/* Procedura de lucru */}
       <section className="py-20 bg-light border-b border-border">
         <div className="container mx-auto px-6">
-          <span className="sec-label">Procedura de lucru</span>
-          <h2 className="font-condensed text-3xl font-semibold text-primary mb-12">Pași clari de la contact la livrare</h2>
+          <span className="sec-label">{ui.proc_label}</span>
+          <h2 className="font-condensed text-3xl font-semibold text-primary mb-12">{ui.proc_h2}</h2>
           <div className="space-y-0 border border-border">
             {[
               { n:'1', title:'Contact inițial',           desc:'Examinați detaliile produselor noastre sau trimiteți o solicitare prin formularul de contact, e-mail sau telefon & WhatsApp.' },

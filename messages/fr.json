@@ -11,8 +11,8 @@
     "oferta": "Demander un devis"
   },
   "home": {
-    "title": "Menuiserie PVC Salamander & Aluminium Alumil | Vitrage nZEB | Neofort BIZ Bucarest",
-    "description": "Neofort BIZ — fabricant de menuiseries PVC Salamander et systèmes aluminium Alumil. Vitrage nZEB, précadres Blaugelb Triotherm+, stores Raffstore. Pose professionnelle, livraison Europe. 21 ans d'expérience.",
+    "title": "Menuiserie PVC Salamander & Alumil | Neofort BIZ",
+    "description": "Fabricant de menuiseries PVC Salamander et systèmes aluminium Alumil. Vitrage nZEB, précadres Blaugelb Triotherm+, stores Raffstore. Livraison Europe. 21 ans.",
     "hero_title": "Menuiseries PVC & Aluminium avec vitrage isolant",
     "hero_subtitle": "Neofort — Qualité et engagement sans compromis",
     "hero_cta1": "Demander un devis",
@@ -49,40 +49,40 @@
     "why4_desc": "Depuis plus de deux décennies, notre nom est présent sur le marché des menuiseries PVC/Aluminium avec des résultats en croissance."
   },
   "aluminiu": {
-    "title": "Fenêtres Aluminium Alumil | Neofort Bucarest",
-    "description": "Fenêtres aluminium Alumil premium: S77 Supreme, S67 Smartia, coulissantes S700 S350, pliantes SF85 M19800. Production propre, livraison Europe.",
+    "title": "Fenêtres Aluminium Alumil | S77 Supreme | Neofort BIZ",
+    "description": "Fenêtres aluminium Alumil: S77 Supreme, S67 Smartia, coulissants S700, harmoniques SF85, mur-rideau M19800. Rupture de pont thermique, nZEB. Livraison Europe.",
     "hero_title": "FENÊTRES ALUMINIUM ALUMIL",
     "hero_subtitle": "Système de fenêtres aluminium premium",
     "desc": "Neofort offre des services complets de fourniture de fenêtres en aluminium Alumil.",
     "products": []
   },
   "pvc": {
-    "title": "Fenêtres PVC Salamander | Prix Double Vitrage | Neofort Bucarest",
-    "description": "Fenêtres PVC Salamander BluEvolution 92 et GreenEvolution 76. Profil PVC classe A, 6 chambres, Uw 0,70 W/m²K. Production propre, pose, livraison Europe.",
+    "title": "Fenêtres PVC Salamander | BluEvolution 92 | Neofort",
+    "description": "Fenêtres PVC Salamander BluEvolution 92 et GreenEvolution 76 — 6 chambres, Uw 0,70 W/m²K, certifié nZEB. Production propre, livraison Europe.",
     "hero_title": "FENÊTRES PVC SALAMANDER",
     "hero_subtitle": "Système de fenêtres PVC allemand premium",
     "desc": "Neofort offre des services complets de fourniture de fenêtres PVC Salamander.",
     "products": []
   },
   "accesorii": {
-    "title": "Accessoires Fenêtres PVC Aluminium | Neofort Bucarest",
-    "description": "Accessoires premium: volets roulants aluminium, stores Raffstore, pré-cadres Blaugelb, ruban butyle, vitrage Saint Gobain, intercalaires Warm Edge. Livraison Europe.",
+    "title": "Accessoires Fenêtres PVC & Aluminium | Neofort BIZ",
+    "description": "Volets roulants aluminium, stores Raffstore, précadres Blaugelb Triotherm+, bande butyl, vitrage Saint-Gobain warm-edge. Accessoires premium pour menuiseries.",
     "hero_title": "ACCESSOIRES pour Fenêtres",
     "hero_subtitle": "Accessoires premium pour fenêtres aluminium & PVC",
     "desc": "Neofort offre des accessoires premium qui complètent les fenêtres PVC Salamander et aluminium Alumil.",
     "products": []
   },
   "servicii": {
-    "title": "Services de Pose Fenêtres PVC Aluminium | Neofort Bucarest",
-    "description": "Services complets de pose de fenêtres PVC et aluminium. Mesures gratuites, pose professionnelle, transport, garantie."
+    "title": "Pose Fenêtres PVC & Aluminium | Neofort BIZ Bucarest",
+    "description": "Conseil, métrés, transport et pose professionnelle de fenêtres PVC et aluminium. 21 ans d'expérience. Garantie complète. Bucarest et toute l'Europe."
   },
   "despre": {
-    "title": "À propos de Neofort | 20 Ans Fenêtres PVC Aluminium Bucarest",
-    "description": "Neofort - 20 ans d'expérience dans les fenêtres PVC Salamander et aluminium Alumil. Marque déposée OSIM."
+    "title": "À propos de Neofort BIZ | 21 Ans Fenêtres Bucarest",
+    "description": "Neofort BIZ — 21 ans d'expérience en menuiseries PVC Salamander et aluminium Alumil. Marque déposée OSIM. Str. Theodor Aman 11, Secteur 1, Bucarest, Roumanie."
   },
   "contact": {
-    "title": "Contact Fenêtres PVC Aluminium | Devis | Neofort Bucarest",
-    "description": "Contactez Neofort pour un devis fenêtres PVC et aluminium. Tél: +40215280661. Export Europe.",
+    "title": "Contact Neofort BIZ | Devis Fenêtres Bucarest",
+    "description": "Contactez Neofort BIZ pour un devis menuiserie PVC Salamander ou aluminium Alumil. Tél: +40 21 528 06 61. Str. Theodor Aman 11, Secteur 1, Bucarest.",
     "address": "Str. Theodor Aman Pictor 11, secteur 1, Bucarest, 010776, Roumanie",
     "phone_office": "+40215280661",
     "phone_oferte": "+40752443435",
@@ -163,8 +163,8 @@
     "gdpr_of": "de Neofort BIZ. *"
   },
   "blog": {
-    "title": "Blog — Guides Techniques Menuiserie PVC & Aluminium | Neofort BIZ",
-    "description": "Guides techniques, comparaisons et conseils sur la menuiserie PVC Salamander, aluminium Alumil, isolation nZEB et stores Raffstore."
+    "title": "Blog Technique Menuiserie PVC & Aluminium | Neofort",
+    "description": "Guides techniques, comparatifs et conseils sur la menuiserie PVC Salamander, aluminium Alumil, isolation nZEB, précadres Blaugelb et stores Raffstore."
   },
   "produse_list": [
     "Menuiserie PVC Salamander",

@@ -13,6 +13,15 @@ const CTA_LABELS = {
   it: { tag:'Neofort BIZ — Bucarest & Europa', h2a:'Richiedete un', h2b:'preventivo', h2c:'per infissi PVC Salamander o Alluminio Alumil', btn:'Richiedi preventivo' },
 };
 
+const PAGE_UI = {
+  ro: { label:'Tâmplărie Aluminiu · Alumil', h1:'Profile Aluminiu Alumil', sub:'Arhitectură modernă. 6 sisteme — de la ferestre și uși premium până la pereți cortină pentru fațade mari.', exp_label:'Expertiza Neofort BIZ în Aluminiu', exp1:'Furnizăm <strong>tâmplărie aluminiu Alumil</strong> din gamele premium, executată pe linii de producție automatizate. Fie că optați pentru sistemele <strong>Alumil Supreme</strong> sau pentru versatilitatea Smartia, asigurăm consultanță tehnică și montaj profesional.', exp2:'Profilele de aluminiu Alumil cu barieră termică sunt certificate pentru standardele <strong>nZEB</strong>. Suprafețe vitrate mari, durabilitate extremă și design contemporan pentru orice tip de proiect — rezidențial, comercial sau industrial.', btn_detail:'Detalii', cross_pvc:'Tâmplărie PVC Salamander', cross_acc:'Accesorii & Izolare Perimetrală' },
+  en: { label:'Aluminium Windows · Alumil', h1:'Alumil Aluminium Profiles', sub:'Modern architecture. 6 systems — from premium windows and doors to curtain walls for large facades.', exp_label:'Neofort BIZ Aluminium Expertise', exp1:'We supply <strong>Alumil aluminium windows</strong> from premium ranges, manufactured on automated production lines. Whether you choose <strong>Alumil Supreme</strong> systems or the versatile Smartia range, we provide technical advice and professional installation.', exp2:'Alumil aluminium profiles with thermal barrier are <strong>nZEB</strong> certified. Large glazed surfaces, extreme durability and contemporary design for any project type — residential, commercial or industrial.', btn_detail:'Details', cross_pvc:'Salamander PVC Windows', cross_acc:'Accessories & Perimeter Insulation' },
+  de: { label:'Aluminiumfenster · Alumil', h1:'Alumil Aluminium-Profile', sub:'Moderne Architektur. 6 Systeme — von Premium-Fenstern und -Türen bis hin zu Vorhangfassaden für große Fassaden.', exp_label:'Neofort BIZ Aluminium-Expertise', exp1:'Wir liefern <strong>Alumil Aluminiumfenster</strong> aus Premium-Sortimenten, gefertigt auf automatisierten Produktionslinien. Ob <strong>Alumil Supreme</strong>-Systeme oder die vielseitige Smartia-Reihe — wir bieten Fachberatung und professionellen Einbau.', exp2:'Alumil-Aluminiumprofile mit Wärmedämmbrücke sind <strong>nZEB</strong>-zertifiziert. Große Glasflächen, extreme Langlebigkeit und zeitgemäßes Design für jede Projektart.', btn_detail:'Details', cross_pvc:'Fenêtres PVC Salamander', cross_acc:'Accessoires & Isolation Périphérique' },
+  fr: { label:'Menuiserie Aluminium · Alumil', h1:'Profils Aluminium Alumil', sub:'Architecture moderne. 6 systèmes — des fenêtres et portes premium aux murs-rideaux pour grandes façades.', exp_label:'Expertise Neofort BIZ en Aluminium', exp1:'Nous fournissons des <strong>menuiseries aluminium Alumil</strong> des gammes premium, fabriquées sur lignes de production automatisées. Systèmes <strong>Alumil Supreme</strong> ou gamme Smartia — conseil technique et pose professionnelle assurés.', exp2:'Les profils aluminium Alumil à rupture de pont thermique sont certifiés <strong>nZEB</strong>. Grandes surfaces vitrées, durabilité extrême et design contemporain pour tout type de projet.', btn_detail:'Détails', cross_pvc:'Menuiserie PVC Salamander', cross_acc:'Accessoires & Isolation' },
+  es: { label:'Carpintería Aluminio · Alumil', h1:'Perfiles Aluminio Alumil', sub:'Arquitectura moderna. 6 sistemas — desde ventanas y puertas premium hasta muros cortina para grandes fachadas.', exp_label:'Experiencia Neofort BIZ en Aluminio', exp1:'Suministramos <strong>carpintería aluminio Alumil</strong> de gamas premium, fabricada en líneas de producción automatizadas. Sistemas <strong>Alumil Supreme</strong> o gama Smartia — asesoría técnica e instalación profesional garantizadas.', exp2:'Los perfiles de aluminio Alumil con rotura de puente térmico están certificados <strong>nZEB</strong>. Grandes superficies acristaladas, durabilidad extrema y diseño contemporáneo para todo tipo de proyecto.', btn_detail:'Detalles', cross_pvc:'Ventanas PVC Salamander', cross_acc:'Accesorios & Aislamiento Perimetral' },
+  it: { label:'Infissi Alluminio · Alumil', h1:'Profili Alluminio Alumil', sub:'Architettura moderna. 6 sistemi — da finestre e porte premium a facciate continue per grandi edifici.', exp_label:'Competenza Neofort BIZ in Alluminio', exp1:'Forniamo <strong>infissi alluminio Alumil</strong> delle gamme premium, prodotti su linee di produzione automatizzate. Sistemi <strong>Alumil Supreme</strong> o gamma Smartia — consulenza tecnica e posa professionale garantite.', exp2:'I profili in alluminio Alumil con taglio termico sono certificati <strong>nZEB</strong>. Grandi superfici vetrate, estrema durabilità e design contemporaneo per ogni tipo di progetto.', btn_detail:'Dettagli', cross_pvc:'Finestre PVC Salamander', cross_acc:'Accessori & Isolamento Perimetrale' },
+};
+
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'aluminiu' });
@@ -133,15 +142,14 @@ const ALU_PRODUCTS = [
 
 export default async function TamplaieAluminiuPage({ params }) {
   const { locale } = await params;
+  const ui = PAGE_UI[locale] || PAGE_UI.ro;
   return (
     <>
       <div className="page-header">
         <div className="container mx-auto px-6">
-          <span className="sec-label">Tâmplărie Aluminiu · Alumil</span>
-          <h1 className="font-condensed text-4xl md:text-5xl font-semibold text-primary mb-3">Profile Aluminiu Alumil</h1>
-          <p className="text-[0.9rem] text-muted max-w-xl">
-            Arhitectură modernă. 6 sisteme disponibile — de la ferestre și uși premium la pereți cortină pentru fațade de mari dimensiuni.
-          </p>
+          <span className="sec-label">{ui.label}</span>
+          <h1 className="font-condensed text-4xl md:text-5xl font-semibold text-primary mb-3">{ui.h1}</h1>
+          <p className="text-[0.9rem] text-muted max-w-xl">{ui.sub}</p>
         </div>
       </div>
 
@@ -165,9 +173,7 @@ export default async function TamplaieAluminiuPage({ params }) {
                     ))}
                   </ul>
                   <p className="text-[0.78rem] text-muted leading-relaxed mb-4">{p.desc}</p>
-                  <Link href="/contact" className="card-btn hover:bg-aluminiu hover:border-aluminiu hover:text-white">
-                    DETALII
-                  </Link>
+                  <Link href="/contact" className="card-btn hover:bg-aluminiu hover:border-aluminiu hover:text-white">{ui.btn_detail}</Link>
                 </div>
               </div>
             ))}
@@ -179,16 +185,35 @@ export default async function TamplaieAluminiuPage({ params }) {
         <div className="container mx-auto px-6">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             <div>
-              <span className="sec-label">Expertiza Neofort BIZ în Aluminiu</span>
-              <p className="text-[0.88rem] text-muted leading-relaxed">
-                Furnizăm <strong className="text-primary font-medium">tâmplărie aluminiu Alumil</strong> din gamele premium, executată pe linii de producție automatizate. Fie că optați pentru sistemele <strong className="text-primary font-medium">Alumil Supreme</strong> sau pentru versatilitatea Smartia, asigurăm consultanță tehnică și montaj profesional.
-              </p>
+              <span className="sec-label">{ui.exp_label}</span>
+              <p className="text-[0.88rem] text-muted leading-relaxed" dangerouslySetInnerHTML={{__html: ui.exp1}}/>
             </div>
             <div>
-              <p className="text-[0.88rem] text-muted leading-relaxed">
-                Profilele de aluminiu Alumil cu barieră termică sunt certificate pentru standardele <strong className="text-primary font-medium">nZEB</strong>. Suprafețe vitrate mari, durabilitate extremă și design contemporan pentru orice tip de proiect — rezidențial, comercial sau industrial.
-              </p>
+              <p className="text-[0.88rem] text-muted leading-relaxed" dangerouslySetInnerHTML={{__html: ui.exp2}}/>
             </div>
+          </div>
+        </div>
+      </section>
+
+
+      {/* ── CROSS-LINKS ── */}
+      <section className="py-10 border-b border-border bg-light">
+        <div className="container mx-auto px-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <Link href="/tamplarie-pvc" className="flex items-center justify-between border border-border bg-white px-5 py-4 hover:border-primary transition-colors duration-200 group">
+              <div>
+                <span className="font-condensed text-[0.58rem] tracking-[0.2em] uppercase font-semibold text-pvc block mb-1">Neofort BIZ</span>
+                <span className="font-condensed text-[0.9rem] font-semibold text-primary group-hover:text-pvc transition-colors">{ui.cross_pvc || 'Tâmplărie PVC Salamander'}</span>
+              </div>
+              <span className="text-muted group-hover:text-pvc transition-colors">→</span>
+            </Link>
+            <Link href="/accesorii" className="flex items-center justify-between border border-border bg-white px-5 py-4 hover:border-primary transition-colors duration-200 group">
+              <div>
+                <span className="font-condensed text-[0.58rem] tracking-[0.2em] uppercase font-semibold text-accesorii block mb-1">Neofort BIZ</span>
+                <span className="font-condensed text-[0.9rem] font-semibold text-primary group-hover:text-accesorii transition-colors">{ui.cross_acc || 'Accesorii & Izolare'}</span>
+              </div>
+              <span className="text-muted group-hover:text-accesorii transition-colors">→</span>
+            </Link>
           </div>
         </div>
       </section>

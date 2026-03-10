@@ -13,6 +13,15 @@ const CTA_LABELS = {
   it: { tag:'Neofort BIZ — Bucarest & Europa', h2a:'Richiedete un', h2b:'preventivo', h2c:'per infissi PVC Salamander o Alluminio Alumil', btn:'Richiedi preventivo' },
 };
 
+const PAGE_UI = {
+  ro: { label:'Accesorii · Neofort BIZ', h1:'Accesorii pentru tâmplărie', sub:'Soluții complete de izolare perimetrală, protecție solară, geam termoizolator și finisare pentru tâmplărie PVC și aluminiu.', btn_detail:'Detalii' },
+  en: { label:'Accessories · Neofort BIZ', h1:'Window & Door Accessories', sub:'Complete solutions for perimeter insulation, solar protection, thermal glazing and finishing for PVC and aluminium windows.', btn_detail:'Details' },
+  de: { label:'Zubehör · Neofort BIZ', h1:'Fenster- und Türzubehör', sub:'Komplettlösungen für Perimeterdämmung, Sonnenschutz, Wärmeschutzverglasung und Oberflächenveredelung für PVC- und Aluminiumfenster.', btn_detail:'Details' },
+  fr: { label:'Accessoires · Neofort BIZ', h1:'Accessoires pour menuiseries', sub:'Solutions complètes d'isolation périphérique, protection solaire, vitrage thermique et finition pour fenêtres PVC et aluminium.', btn_detail:'Détails' },
+  es: { label:'Accesorios · Neofort BIZ', h1:'Accesorios para carpintería', sub:'Soluciones completas de aislamiento perimetral, protección solar, acristalamiento térmico y acabado para ventanas PVC y aluminio.', btn_detail:'Detalles' },
+  it: { label:'Accessori · Neofort BIZ', h1:'Accessori per infissi', sub:'Soluzioni complete di isolamento perimetrale, protezione solare, vetro termoisolante e finitura per infissi PVC e alluminio.', btn_detail:'Dettagli' },
+};
+
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'accesorii' });
@@ -89,15 +98,14 @@ const ACCESORII = [
 
 export default async function AccesoriiPage({ params }) {
   const { locale } = await params;
+  const ui = PAGE_UI[locale] || PAGE_UI.ro;
   return (
     <>
       <div className="page-header">
         <div className="container mx-auto px-6">
-          <span className="sec-label">Accesorii · Neofort BIZ</span>
-          <h1 className="font-condensed text-4xl md:text-5xl font-semibold text-primary mb-3">Accesorii pentru tâmplărie</h1>
-          <p className="text-[0.9rem] text-muted max-w-xl">
-            Soluții complete de izolare perimetrală, protecție solară, geam termoizolator și finisare pentru tâmplărie PVC și aluminiu.
-          </p>
+          <span className="sec-label">{ui.label}</span>
+          <h1 className="font-condensed text-4xl md:text-5xl font-semibold text-primary mb-3">{ui.h1}</h1>
+          <p className="text-[0.9rem] text-muted max-w-xl">{ui.sub}</p>
         </div>
       </div>
 
@@ -116,9 +124,7 @@ export default async function AccesoriiPage({ params }) {
                     ))}
                   </ul>
                   <p className="text-[0.78rem] text-muted leading-relaxed mb-4">{a.desc}</p>
-                  <Link href="/contact" className="card-btn" style={{'--hover-bg': a.color}}>
-                    DETALII
-                  </Link>
+                  <Link href="/contact" className="card-btn" style={{'--hover-bg': a.color}}>{ui.btn_detail}</Link>
                 </div>
               </div>
             ))}

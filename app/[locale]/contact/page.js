@@ -271,7 +271,6 @@ export default async function ContactPage({ params }) {
           { "@type":"ContactPoint","telephone":"+40752443439","contactType":"sales","name":"Export" },
           { "@type":"ContactPoint","telephone":"+40752443432","contactType":"customer service","name":"Service" },
         ],
-        "aggregateRating": { "@type":"AggregateRating","ratingValue":"5.0","reviewCount":"7","bestRating":"5","worstRating":"1" },
       },
     ],
   };

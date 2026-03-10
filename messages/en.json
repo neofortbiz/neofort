@@ -11,8 +11,8 @@
     "oferta": "Request Quote"
   },
   "home": {
-    "title": "PVC Salamander & Aluminium Alumil Windows | nZEB Thermal Glass | Neofort BIZ Bucharest",
-    "description": "Neofort BIZ — manufacturer of PVC Salamander windows and Alumil aluminium systems. nZEB thermal glass, Blaugelb Triotherm+ precasings, Raffstore blinds. Professional installation, EU delivery. 21 years experience.",
+    "title": "PVC Salamander & Alumil Windows | Neofort BIZ Bucharest",
+    "description": "Manufacturer of Salamander PVC windows and Alumil aluminium systems. nZEB thermal glass, Blaugelb Triotherm+ precasings, Raffstore blinds. EU delivery. 21 years.",
     "hero_title": "PVC & Aluminium Windows with Thermal Glass",
     "hero_subtitle": "Neofort — Quality and commitment without compromise",
     "hero_cta1": "Request Quote",
@@ -49,8 +49,8 @@
     "why4_desc": "For over two decades our name has been present in the PVC/Aluminium window market with growing results."
   },
   "aluminiu": {
-    "title": "Aluminium Windows Alumil | Aluminium Doors | Neofort Bucharest",
-    "description": "Premium Alumil aluminium windows: S77 Supreme, S67 Smartia, lift-and-slide S700 S350, folding SF85 M19800. Own production, delivery Europe. Free quote!",
+    "title": "Alumil Aluminium Windows | S77 Supreme | Neofort BIZ",
+    "description": "Alumil aluminium windows: S77 Supreme, S67 Smartia, sliding S700, folding SF85, curtain wall M19800. Thermal barrier, nZEB certified. Delivery across Europe.",
     "hero_title": "ALUMINIUM WINDOWS ALUMIL",
     "hero_subtitle": "Premium Aluminium Window System",
     "desc": "Neofort offers complete supply services for Alumil Aluminium Windows. Our range includes systems for casement windows and doors, lift-and-slide and folding systems. Our windows meet nZEB energy efficiency requirements and passive house construction standards.",
@@ -142,8 +142,8 @@
     ]
   },
   "pvc": {
-    "title": "PVC Windows Salamander | Double Glazing Price | Neofort Bucharest",
-    "description": "Salamander PVC windows BluEvolution 92 and GreenEvolution 76. Class A PVC profile, 6 chambers, Uw 0.70 W/m²K. Own production, installation, delivery Europe. Free quote!",
+    "title": "PVC Salamander Windows | BluEvolution 92 | Neofort",
+    "description": "Salamander PVC windows BluEvolution 92 and GreenEvolution 76 — 6 chambers, Uw 0.70 W/m²K, nZEB certified. In-house production, EU delivery.",
     "hero_title": "PVC WINDOWS SALAMANDER",
     "hero_subtitle": "Premium German PVC Window System",
     "desc": "Neofort offers complete Salamander PVC Window supply services. Our range includes BluEvolution 92 and GreenEvolution 76, two next-generation window systems dedicated to nZEB energy efficiency solutions and passive house construction.",
@@ -229,8 +229,8 @@
     ]
   },
   "accesorii": {
-    "title": "Accessories PVC Aluminium Windows | Neofort Bucharest",
-    "description": "Premium window accessories: aluminium roller shutters, Raffstore venetian blinds, Blaugelb pre-frames, butyl tape, Saint Gobain glazing, Warm Edge spacers. Europe delivery.",
+    "title": "PVC & Aluminium Window Accessories | Neofort BIZ",
+    "description": "Aluminium roller shutters, Raffstore venetian blinds, Blaugelb Triotherm+ precasings, butyl tape, Saint-Gobain warm-edge glazing. Premium window accessories.",
     "hero_title": "ACCESSORIES for Windows",
     "hero_subtitle": "Premium accessories for aluminium & PVC windows",
     "desc": "Neofort offers premium accessories that complement Salamander PVC and Alumil aluminium windows, all compliant with nZEB energy efficiency requirements.",
@@ -368,16 +368,16 @@
     ]
   },
   "servicii": {
-    "title": "Installation Services PVC Aluminium Windows | Neofort Bucharest",
-    "description": "Complete installation services for PVC and aluminium windows. Free measurements, professional installation, transport, warranty. Bucharest and all Romania. Free quote!"
+    "title": "PVC & Aluminium Window Installation | Neofort BIZ",
+    "description": "Consulting, measurements, transport and professional window installation. 21 years experience. Full warranty. Bucharest and across Europe."
   },
   "despre": {
-    "title": "About Neofort | 20 Years PVC Aluminium Windows Bucharest",
-    "description": "Neofort - 20 years experience in Salamander PVC and Alumil aluminium windows. Registered trademark OSIM. Authorized manufacturer and distributor. Str. Theodor Aman 11, Bucharest."
+    "title": "About Neofort BIZ | 21 Years Windows Bucharest",
+    "description": "Neofort BIZ — 21 years experience in Salamander PVC and Alumil aluminium windows. Registered trademark OSIM. Str. Theodor Aman 11, Sector 1, Bucharest, Romania."
   },
   "contact": {
-    "title": "Contact PVC Aluminium Windows | Double Glazing Quote | Neofort Bucharest",
-    "description": "Contact Neofort for a PVC and aluminium window quote. Tel: +40215280661. Str. Theodor Aman 11, Bucharest. Export Europe.",
+    "title": "Contact Neofort BIZ | Window Quote Bucharest",
+    "description": "Contact Neofort BIZ for a PVC Salamander or Alumil aluminium window quote. Tel: +40 21 528 06 61. Str. Theodor Aman 11, Sector 1, Bucharest. Export Europe.",
     "address": "Str. Theodor Aman Pictor 11, sector 1, Bucharest, 010776, Romania",
     "phone_office": "+40215280661",
     "phone_oferte": "+40752443435",
@@ -458,8 +458,8 @@
     "gdpr_of": "of Neofort BIZ. *"
   },
   "blog": {
-    "title": "Blog — Technical Guides PVC & Aluminium Windows | Neofort BIZ",
-    "description": "Technical guides, comparisons and tips about Salamander PVC windows, Alumil aluminium, nZEB insulation and Raffstore shading systems."
+    "title": "PVC & Aluminium Windows Technical Blog | Neofort BIZ",
+    "description": "Technical guides, comparisons and tips on Salamander PVC windows, Alumil aluminium, nZEB insulation, Blaugelb precasings and Raffstore shading systems."
   },
   "produse_list": [
     "PVC Salamander Windows",
