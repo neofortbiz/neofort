@@ -193,25 +193,29 @@ export default async function BlogArticlePage({ params }) {
         </div>
       </div>
 
-      {/* HERO */}
-      <div style={{position:'relative', background: a.imageBg || '#1a1a1a', overflow:'hidden', minHeight:'320px'}}>
-        {(a.image?.[locale] || a.image?.ro) && (
+      {/* HERO — imagine separată deasupra, text pe fond alb dedesubt */}
+      {(a.image?.[locale] || a.image?.ro) && (
+        <div style={{width:'100%', aspectRatio:'16/7', overflow:'hidden', position:'relative', background: a.imageBg || '#1a1a1a'}}>
           <img
             src={a.image[locale] || a.image.ro}
-            alt={title}
-            style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',objectPosition:'center',display:'block',opacity:0.5}}
+            alt={a.imgAlt?.[locale] || a.imgAlt?.ro || title}
+            style={{width:'100%',height:'100%',objectFit:'cover',objectPosition:'center',display:'block'}}
           />
-        )}
-        <div style={{position:'relative',zIndex:1,padding:'56px 0 48px'}}>
-          <div className="container" style={{maxWidth:'900px'}}>
-            <div style={{display:'flex',alignItems:'center',gap:'12px',marginBottom:'16px',flexWrap:'wrap'}}>
-              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'.62rem',letterSpacing:'.2em',textTransform:'uppercase',color:'rgba(255,255,255,0.5)',background:'rgba(255,255,255,0.1)',padding:'4px 10px',borderRadius:'2px'}}>{cat}</span>
-              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'rgba(255,255,255,0.4)'}}>{date}</span>
-              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'rgba(255,255,255,0.4)'}}>{rt}</span>
-            </div>
-            <h1 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.5rem,4vw,2.1rem)',color:'#fff',lineHeight:1.25,letterSpacing:'.01em',marginBottom:'20px'}}>{title}</h1>
-            <p style={{fontSize:'.9rem',color:'rgba(255,255,255,0.7)',lineHeight:1.7,maxWidth:'680px'}}>{excerpt}</p>
+        </div>
+      )}
+      {!(a.image?.[locale] || a.image?.ro) && (
+        <div style={{width:'100%', height:'120px', background: a.imageBg || '#1a1a1a'}} />
+      )}
+      {/* Titlu + meta pe fond alb, fără suprapunere */}
+      <div style={{background:'#fff', borderBottom:'1px solid #efefed', padding:'32px 0 28px'}}>
+        <div className="container" style={{maxWidth:'900px'}}>
+          <div style={{display:'flex',alignItems:'center',gap:'12px',marginBottom:'14px',flexWrap:'wrap'}}>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.57rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#fff',background:a.accentColor,padding:'3px 10px'}}>{cat}</span>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#999'}}>{date}</span>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.1em',color:'#999'}}>{rt}</span>
           </div>
+          <h1 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'clamp(1.4rem,3.5vw,2rem)',color:'#1a1a1a',lineHeight:1.2,letterSpacing:'.01em',marginBottom:'14px'}}>{title}</h1>
+          <p style={{fontSize:'.88rem',color:'#767676',lineHeight:1.7,maxWidth:'680px',margin:0}}>{excerpt}</p>
         </div>
       </div>
 

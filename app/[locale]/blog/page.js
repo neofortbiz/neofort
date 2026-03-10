@@ -87,7 +87,7 @@ export default async function BlogPage({ params }) {
           box-shadow: 0 4px 24px rgba(0,0,0,.07);
         }
         .blog-featured-img {
-          aspect-ratio: 1 / 1;
+          aspect-ratio: 13 / 20;
           position: relative;
           overflow: hidden;
           align-self: stretch;
@@ -146,6 +146,7 @@ export default async function BlogPage({ params }) {
           }
           .blog-featured-img {
             aspect-ratio: 16 / 9;
+            max-height: 260px;
           }
           .blog-featured-body {
             padding: 28px 28px 28px;
