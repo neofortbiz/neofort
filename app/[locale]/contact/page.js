@@ -1,4 +1,5 @@
 import { getTranslations } from 'next-intl/server';
+import { Link } from '../../../i18n/navigation';
 
 const BASE = 'https://www.neofort-biz.ro';
 const SLUGS_CONTACT = {'ro':'contact', 'en':'contact', 'de':'kontakt', 'fr':'contact', 'es':'contacto', 'it':'contatti'};
