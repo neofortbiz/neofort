@@ -282,6 +282,12 @@ export default async function ContactPage({ params }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      <style>{`
+        .team-btn-phone { flex:1; text-align:center; font-family:'Barlow Condensed',sans-serif; font-size:.54rem; letter-spacing:.08em; text-transform:uppercase; font-weight:600; color:#1a1a1a; border:1px solid #e8e8e4; padding:5px 4px; text-decoration:none; transition:all .15s; }
+        .team-btn-phone:hover { background:#4a7c59; color:#fff; border-color:#4a7c59; }
+        .team-btn-email { font-family:'Barlow Condensed',sans-serif; font-size:.54rem; letter-spacing:.1em; text-transform:uppercase; font-weight:600; color:#aaa; border:1px solid #e8e8e4; padding:5px 10px; text-decoration:none; transition:all .15s; }
+        .team-btn-email:hover { color:#1a1a1a; border-color:#1a1a1a; }
+      `}</style>
 
       {/* ── PAGE HEADER ── */}
       <div className="page-header">
@@ -430,16 +436,12 @@ export default async function ContactPage({ params }) {
                       <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.56rem',letterSpacing:'.1em',textTransform:'uppercase',color:m.color,marginTop:'2px'}}>{m.role[locale] || m.role.ro}</div>
                     </div>
                   </div>
-                  {/* Butoane compacte */}
+                  {/* Butoane compacte — hover via CSS class */}
                   <div style={{display:'flex', gap:'6px'}}>
-                    <a href={m.href} style={{flex:1, textAlign:'center', fontFamily:'Barlow Condensed,sans-serif', fontSize:'.54rem', letterSpacing:'.08em', textTransform:'uppercase', fontWeight:600, color:'#1a1a1a', border:'1px solid #e8e8e4', padding:'5px 4px', textDecoration:'none', transition:'all .15s'}}
-                      onMouseEnter={e=>{e.currentTarget.style.background=m.color;e.currentTarget.style.color='#fff';e.currentTarget.style.borderColor=m.color;}}
-                      onMouseLeave={e=>{e.currentTarget.style.background='';e.currentTarget.style.color='#1a1a1a';e.currentTarget.style.borderColor='#e8e8e4';}}>
+                    <a href={m.href} className="team-btn-phone">
                       {m.phone}
                     </a>
-                    <a href={`mailto:${m.email}`} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.54rem',letterSpacing:'.1em',textTransform:'uppercase',fontWeight:600,color:'#aaa',border:'1px solid #e8e8e4',padding:'5px 10px',textDecoration:'none',transition:'all .15s'}}
-                      onMouseEnter={e=>{e.currentTarget.style.color='#1a1a1a';e.currentTarget.style.borderColor='#1a1a1a';}}
-                      onMouseLeave={e=>{e.currentTarget.style.color='#aaa';e.currentTarget.style.borderColor='#e8e8e4';}}>
+                    <a href={`mailto:${m.email}`} className="team-btn-email">
                       @
                     </a>
                   </div>
