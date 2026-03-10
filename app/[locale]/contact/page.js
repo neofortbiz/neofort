@@ -292,32 +292,34 @@ export default async function ContactPage({ params }) {
       {/* ── ECHIPĂ ── */}
       <section className="py-16 border-b border-border">
         <div className="container mx-auto px-6">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-5 md:gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
             {TEAM.map(m => (
-              <div key={m.name} className="flex flex-col items-center text-center group">
+              <div key={m.name} className="flex flex-col items-center text-center border border-border p-5 md:p-6">
                 {/* Avatar */}
-                <div className="w-20 h-20 md:w-24 md:h-24 rounded-full flex items-center justify-center mb-4 shrink-0"
-                  style={{ background: m.color, border: '3px solid', borderColor: m.color }}>
+                <div className="w-16 h-16 md:w-20 md:h-20 rounded-full flex items-center justify-center mb-4 shrink-0"
+                  style={{ background: m.color }}>
                   <span style={{
                     fontFamily: 'Barlow Condensed, sans-serif',
                     fontWeight: 600,
-                    fontSize: '1.4rem',
+                    fontSize: '1.25rem',
                     letterSpacing: '.06em',
                     color: '#fff',
                   }}>{m.initials}</span>
                 </div>
-                {/* Info */}
-                <h3 className="font-condensed font-semibold text-primary text-[0.95rem] leading-tight mb-1">{m.name}</h3>
-                <p className="text-[0.72rem] text-muted mb-3 leading-snug">{m.role[locale] || m.role.ro}</p>
-                {/* Butoane */}
-                <a href={m.href}
-                  className="w-full text-center font-condensed font-semibold text-[0.62rem] tracking-[0.14em] uppercase text-primary border border-border px-3 py-2 mb-2 hover:border-primary hover:bg-primary hover:text-white transition-all duration-200 block">
-                  {m.phone}
-                </a>
-                <a href={`mailto:${m.email}`}
-                  className="w-full text-center font-condensed font-semibold text-[0.62rem] tracking-[0.14em] uppercase text-muted border border-border px-3 py-2 hover:border-primary hover:text-primary transition-all duration-200 block">
-                  {ui.email_section}
-                </a>
+                {/* Info — flex-grow ca să împingă butoanele jos */}
+                <div className="flex flex-col flex-1 w-full">
+                  <h3 className="font-condensed font-semibold text-primary text-[0.88rem] leading-tight mb-1">{m.name}</h3>
+                  <p className="text-[0.68rem] text-muted mb-4 leading-snug flex-1">{m.role[locale] || m.role.ro}</p>
+                  {/* Butoane — mereu la aceeași înălțime */}
+                  <a href={m.href}
+                    className="w-full text-center font-condensed font-semibold text-[0.6rem] tracking-[0.12em] uppercase text-primary border border-border px-2 py-2 mb-2 hover:border-primary hover:bg-primary hover:text-white transition-all duration-200 block">
+                    {m.phone}
+                  </a>
+                  <a href={`mailto:${m.email}`}
+                    className="w-full text-center font-condensed font-semibold text-[0.6rem] tracking-[0.12em] uppercase text-muted border border-border px-2 py-2 hover:border-primary hover:text-primary transition-all duration-200 block">
+                    E-mail
+                  </a>
+                </div>
               </div>
             ))}
           </div>
@@ -327,18 +329,20 @@ export default async function ContactPage({ params }) {
       {/* ── HARTĂ + DATE CONTACT ── */}
       <section className="py-16 border-b border-border">
         <div className="container mx-auto px-6">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-start">
+          {/* items-stretch + harta flex col → iframe umple toată înălțimea coloanei drepte */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-stretch">
 
-            {/* Hartă Google Maps embed */}
-            <div>
+            {/* Hartă Google Maps embed — flex col, iframe flex-1 */}
+            <div className="flex flex-col">
               <span className="sec-label">{ui.map_label}</span>
               <h2 className="font-condensed text-2xl font-semibold text-primary mb-5">{ui.map_title}</h2>
-              <div className="border border-border overflow-hidden" style={{ aspectRatio: '16/10' }}>
+              {/* min-h pe mobil, flex-1 pe desktop = umple restul coloanei */}
+              <div className="border border-border overflow-hidden flex-1" style={{ minHeight: '320px' }}>
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.3!2d26.0859381!3d44.4429398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff4770adb5b1%3A0xa9d64b2f9d9b0f2a!2sStrada%20Theodor%20Aman%2011%2C%20Bucure%C8%99ti!5e0!3m2!1sro!2sro!4v1700000000000!5m2!1sro!2sro"
                   width="100%"
                   height="100%"
-                  style={{ border: 0, display: 'block' }}
+                  style={{ border: 0, display: 'block', minHeight: '320px' }}
                   allowFullScreen=""
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
@@ -355,12 +359,12 @@ export default async function ContactPage({ params }) {
               </a>
             </div>
 
-            {/* Date contact + program */}
-            <div className="space-y-8">
+            {/* Date contact + program — compact, fără space-y mare */}
+            <div className="flex flex-col gap-6">
 
               {/* Adresă */}
               <div>
-                <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-3">{ui.address_label}</p>
+                <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-2">{ui.address_label}</p>
                 <address className="not-italic text-[0.88rem] text-primary leading-relaxed font-medium">
                   {ui.address.split('\n').map((line, i) => (
                     <span key={i}>{line}{i < 2 && <br/>}</span>
@@ -370,10 +374,8 @@ export default async function ContactPage({ params }) {
 
               {/* Telefoane */}
               <div>
-                <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-3">
-                  {ui.email_section.replace('E-mail','').trim() ? '' : ''}Telefon
-                </p>
-                <div className="space-y-0 border border-border">
+                <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-2">Telefon</p>
+                <div className="border border-border">
                   {[
                     { label: ui.dept_office,   phone: '+40 21 528 06 61', href: 'tel:+40215280661' },
                     { label: ui.dept_quotes,   phone: '+40 752 443 435',  href: 'tel:+40752443435' },
@@ -383,60 +385,66 @@ export default async function ContactPage({ params }) {
                     { label: ui.dept_schedule, phone: '+40 758 990 048',  href: 'tel:+40758990048' },
                   ].map((item, i, arr) => (
                     <a key={item.label} href={item.href}
-                      className={`flex justify-between items-center px-4 py-3 hover:bg-light transition-colors duration-150 ${i < arr.length-1 ? 'border-b border-border' : ''}`}>
-                      <span className="font-condensed text-[0.65rem] tracking-[0.14em] uppercase font-semibold text-muted">{item.label}</span>
-                      <span className="font-condensed text-[0.82rem] font-medium text-primary">{item.phone}</span>
+                      className={`flex justify-between items-center px-4 py-2.5 hover:bg-light transition-colors duration-150 ${i < arr.length-1 ? 'border-b border-border' : ''}`}>
+                      <span className="font-condensed text-[0.62rem] tracking-[0.14em] uppercase font-semibold text-muted">{item.label}</span>
+                      <span className="font-condensed text-[0.8rem] font-medium text-primary">{item.phone}</span>
                     </a>
                   ))}
                 </div>
               </div>
 
-              {/* E-mail */}
+              {/* E-mail — encodate HTML anti-spam, lizibile pentru oameni */}
               <div>
-                <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-3">{ui.email_section}</p>
-                <div className="space-y-2">
-                  {[
-                    ['oferte@neofort-biz.ro',  ui.dept_quotes],
-                    ['comenzi@neofort-biz.ro', locale === 'ro' ? 'Comenzi' : locale === 'en' ? 'Orders' : locale === 'de' ? 'Bestellungen' : locale === 'fr' ? 'Commandes' : locale === 'es' ? 'Pedidos' : 'Ordini'],
-                    ['service@neofort-biz.ro', ui.dept_service],
-                  ].map(([email, label]) => (
-                    <a key={email} href={`mailto:${email}`}
-                      className="flex justify-between items-center py-2 border-b border-border hover:text-primary transition-colors duration-150 group">
-                      <span className="font-condensed text-[0.65rem] tracking-[0.14em] uppercase font-semibold text-muted group-hover:text-primary transition-colors duration-150">{label}</span>
-                      <span className="text-[0.8rem] text-muted group-hover:text-primary transition-colors duration-150">{email}</span>
-                    </a>
-                  ))}
-                </div>
-              </div>
-
-              {/* Program */}
-              <div>
-                <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-3">{ui.schedule_label}</p>
+                <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-2">{ui.email_section}</p>
                 <div className="border border-border">
-                  <div className="flex justify-between items-center px-4 py-3 border-b border-border">
-                    <span className="font-condensed text-[0.72rem] font-semibold text-primary">{ui.schedule_days}</span>
-                    <span className="font-condensed text-[0.72rem] font-semibold text-pvc">{ui.schedule_hours}</span>
-                  </div>
-                  <div className="flex justify-between items-center px-4 py-3">
-                    <span className="font-condensed text-[0.72rem] text-muted">{ui.schedule_weekend.split(':')[0]}</span>
-                    <span className="font-condensed text-[0.72rem] text-muted">{ui.schedule_weekend.split(':')[1]?.trim()}</span>
-                  </div>
+                  {[
+                    { addr: 'oferte',   domain: 'neofort-biz.ro', label: ui.dept_quotes },
+                    { addr: 'comenzi',  domain: 'neofort-biz.ro', label: locale==='ro'?'Comenzi':locale==='en'?'Orders':locale==='de'?'Bestellungen':locale==='fr'?'Commandes':locale==='es'?'Pedidos':'Ordini' },
+                    { addr: 'service',  domain: 'neofort-biz.ro', label: ui.dept_service },
+                  ].map((e, i, arr) => (
+                    <a key={e.addr} href={`mailto:${e.addr}@${e.domain}`}
+                      className={`flex justify-between items-center px-4 py-2.5 hover:bg-light transition-colors duration-150 group ${i < arr.length-1 ? 'border-b border-border' : ''}`}>
+                      <span className="font-condensed text-[0.62rem] tracking-[0.14em] uppercase font-semibold text-muted group-hover:text-primary transition-colors">{e.label}</span>
+                      <span className="text-[0.78rem] text-muted group-hover:text-primary transition-colors">{e.addr}&#64;{e.domain}</span>
+                    </a>
+                  ))}
                 </div>
               </div>
 
-              {/* WhatsApp */}
-              <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"
-                className="flex items-center gap-3 border border-border px-4 py-3 hover:border-[#25D366] transition-all duration-200 group w-full">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="#25D366">
-                  <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
-                </svg>
-                <div className="flex-1">
-                  <span className="font-condensed text-[0.65rem] tracking-[0.14em] uppercase font-semibold text-muted group-hover:text-[#25D366] transition-colors duration-200 block">{ui.whatsapp}</span>
-                  <span className="font-condensed text-[0.82rem] font-medium text-primary">+40 752 443 435</span>
-                </div>
-                <span className="font-condensed text-[0.6rem] tracking-[0.12em] uppercase text-muted group-hover:text-[#25D366] transition-colors duration-200">→</span>
-              </a>
+              {/* Program + WhatsApp — side by side pe desktop */}
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
 
+                {/* Program */}
+                <div>
+                  <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-2">{ui.schedule_label}</p>
+                  <div className="border border-border">
+                    <div className="flex justify-between items-center px-4 py-2.5 border-b border-border">
+                      <span className="font-condensed text-[0.68rem] font-semibold text-primary">{ui.schedule_days}</span>
+                      <span className="font-condensed text-[0.68rem] font-semibold text-pvc">{ui.schedule_hours}</span>
+                    </div>
+                    <div className="flex justify-between items-center px-4 py-2.5">
+                      <span className="font-condensed text-[0.68rem] text-muted">{ui.schedule_weekend.split(':')[0]}</span>
+                      <span className="font-condensed text-[0.68rem] text-muted">{ui.schedule_weekend.split(':')[1]?.trim()}</span>
+                    </div>
+                  </div>
+                </div>
+
+                {/* WhatsApp */}
+                <div>
+                  <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-2">{ui.whatsapp}</p>
+                  <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"
+                    className="flex items-center gap-3 border border-border px-4 py-2.5 hover:border-[#25D366] transition-all duration-200 group h-[calc(100%-1.5rem)]">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="#25D366" className="shrink-0">
+                      <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                    </svg>
+                    <div>
+                      <span className="font-condensed text-[0.82rem] font-medium text-primary block">+40 752 443 435</span>
+                      <span className="font-condensed text-[0.6rem] tracking-[0.1em] uppercase text-muted group-hover:text-[#25D366] transition-colors">Chat →</span>
+                    </div>
+                  </a>
+                </div>
+
+              </div>
             </div>
           </div>
         </div>
