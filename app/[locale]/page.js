@@ -591,7 +591,7 @@ export default async function HomePage({ params }) {
         <div className="container" style={{paddingTop:'32px',paddingBottom:'0',borderTop:'1px solid #1e1e1e'}}>
           <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
             {c.seo_bridge.split(c.seo_link)[0]}
-            <Link href="/contact" style={{color:'#555',textDecoration:'underline'}}>{c.seo_link}</Link>
+            <span style={{textDecoration:'underline'}}>{c.seo_link}</span>
             {c.seo_bridge.split(c.seo_link)[1]}
           </p>
         </div>
