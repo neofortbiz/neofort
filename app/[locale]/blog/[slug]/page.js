@@ -194,12 +194,12 @@ export default async function BlogArticlePage({ params }) {
       </div>
 
       {/* HERO */}
-      <div style={{position:'relative', background: a.imageBg || '#1a1a1a', overflow:'hidden'}}>
+      <div style={{position:'relative', background: a.imageBg || '#1a1a1a', overflow:'hidden', minHeight:'320px'}}>
         {(a.image?.[locale] || a.image?.ro) && (
           <img
             src={a.image[locale] || a.image.ro}
             alt={title}
-            style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',objectPosition:'center top',display:'block',opacity:0.35}}
+            style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',objectPosition:'center',display:'block',opacity:0.5}}
           />
         )}
         <div style={{position:'relative',zIndex:1,padding:'56px 0 48px'}}>

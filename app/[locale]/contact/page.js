@@ -159,6 +159,7 @@ const UI = {
 const TEAM = [
   {
     name: 'George PALANCEAN',
+    photo: '/team/george-palancean.avif',
     role: { ro:'Manager Vânzări', en:'Sales Manager', de:'Vertriebsleiter', fr:'Responsable des ventes', es:'Director de ventas', it:'Responsabile vendite' },
     phone: '+40 752 443 430',
     href: 'tel:+40752443430',
@@ -168,6 +169,7 @@ const TEAM = [
   },
   {
     name: 'Olga OPREA',
+    photo: '/team/olga-oprea.avif',
     role: { ro:'Reprezentant Vânzări', en:'Sales Representative', de:'Vertriebsmitarbeiterin', fr:'Représentante commerciale', es:'Representante de ventas', it:'Rappresentante vendite' },
     phone: '+40 752 443 435',
     href: 'tel:+40752443435',
@@ -177,6 +179,7 @@ const TEAM = [
   },
   {
     name: 'Cristian CIOROIU',
+    photo: '/team/cristian-cioroiu.avif',
     role: { ro:'Reprezentant Export', en:'Export Representative', de:'Exportmitarbeiter', fr:'Représentant export', es:'Representante de exportación', it:'Rappresentante export' },
     phone: '+40 752 443 439',
     href: 'tel:+40752443439',
@@ -186,6 +189,7 @@ const TEAM = [
   },
   {
     name: 'Mihai DANALACHE',
+    photo: '/team/mihai-danalache.avif',
     role: { ro:'Consultant Tehnic', en:'Technical Consultant', de:'Technischer Berater', fr:'Consultant technique', es:'Asesor técnico', it:'Consulente tecnico' },
     phone: '+40 752 443 431',
     href: 'tel:+40752443431',
@@ -294,16 +298,23 @@ export default async function ContactPage({ params }) {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
             {TEAM.map(m => (
               <div key={m.name} className="flex flex-col items-center text-center border border-border p-5 md:p-6">
-                {/* Avatar */}
-                <div className="w-16 h-16 md:w-20 md:h-20 rounded-full flex items-center justify-center mb-4 shrink-0"
-                  style={{ background: m.color }}>
-                  <span style={{
-                    fontFamily: 'Barlow Condensed, sans-serif',
-                    fontWeight: 600,
-                    fontSize: '1.25rem',
-                    letterSpacing: '.06em',
-                    color: '#fff',
-                  }}>{m.initials}</span>
+                {/* Avatar cu fotografie reală + fallback inițiale */}
+                <div className="w-16 h-16 md:w-20 md:h-20 rounded-full mb-4 shrink-0 overflow-hidden"
+                  style={{ border: `2px solid ${m.color}`, background: m.color }}>
+                  {m.photo ? (
+                    <img
+                      src={m.photo}
+                      alt={m.name}
+                      style={{ width:'100%', height:'100%', objectFit:'cover', display:'block' }}
+                    />
+                  ) : (
+                    <div style={{ width:'100%', height:'100%', display:'flex', alignItems:'center', justifyContent:'center' }}>
+                      <span style={{
+                        fontFamily: 'Barlow Condensed, sans-serif',
+                        fontWeight: 600, fontSize: '1.25rem', letterSpacing: '.06em', color: '#fff',
+                      }}>{m.initials}</span>
+                    </div>
+                  )}
                 </div>
                 {/* Info — flex-grow ca să împingă butoanele jos */}
                 <div className="flex flex-col flex-1 w-full">

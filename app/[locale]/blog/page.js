@@ -87,7 +87,7 @@ export default async function BlogPage({ params }) {
           box-shadow: 0 4px 24px rgba(0,0,0,.07);
         }
         .blog-featured-img {
-          min-height: 320px;
+          height: 340px;
           display: flex;
           align-items: center;
           justify-content: center;
@@ -147,7 +147,7 @@ export default async function BlogPage({ params }) {
             grid-template-columns: 1fr;
           }
           .blog-featured-img {
-            min-height: 200px;
+            height: 220px;
           }
           .blog-featured-body {
             padding: 28px 28px 28px;
@@ -166,7 +166,7 @@ export default async function BlogPage({ params }) {
             grid-template-columns: 1fr;
           }
           .blog-card-img {
-            height: 130px;
+            height: 150px;
           }
         }
       `}</style>
