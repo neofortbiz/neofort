@@ -51,33 +51,23 @@ export async function generateMetadata({ params }) {
   };
 }
 
+// renderMarkdown → HTML string (compatibil Server Components Next.js 14)
 function renderMarkdown(md) {
-  const lines = md.split('\n');
-  const elements = [];
-  let i = 0, key = 0;
+  const esc = (s) => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  const bold = (s) => esc(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
 
-  const inlineFormat = (text) => {
-    const parts = [];
-    let remaining = text, k = 0;
-    while (remaining.length > 0) {
-      const boldMatch = remaining.match(/^(.*?)\*\*(.+?)\*\*(.*)/s);
-      if (boldMatch) {
-        if (boldMatch[1]) parts.push(boldMatch[1]);
-        parts.push(<strong key={k++}>{boldMatch[2]}</strong>);
-        remaining = boldMatch[3];
-      } else { parts.push(remaining); break; }
-    }
-    return parts;
-  };
+  const lines = md.split('\n');
+  let html = '';
+  let i = 0;
 
   while (i < lines.length) {
     const line = lines[i];
     if (line.startsWith('## ')) {
-      elements.push(<h2 key={key++} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.3rem',color:'#1a1a1a',marginTop:'2.8rem',marginBottom:'1rem',letterSpacing:'.01em',paddingBottom:'.5rem',borderBottom:'1px solid #f0f0f0'}}>{line.slice(3)}</h2>);
+      html += `<h2 style="font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:1.3rem;color:#1a1a1a;margin-top:2.8rem;margin-bottom:1rem;letter-spacing:.01em;padding-bottom:.5rem;border-bottom:1px solid #f0f0f0">${esc(line.slice(3))}</h2>`;
     } else if (line.startsWith('### ')) {
-      elements.push(<h3 key={key++} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.05rem',color:'#1a1a1a',marginTop:'1.75rem',marginBottom:'.6rem',letterSpacing:'.01em'}}>{line.slice(4)}</h3>);
+      html += `<h3 style="font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:1.05rem;color:#1a1a1a;margin-top:1.75rem;margin-bottom:.6rem;letter-spacing:.01em">${esc(line.slice(4))}</h3>`;
     } else if (line.startsWith('---')) {
-      elements.push(<hr key={key++} style={{border:'none',borderTop:'1px solid #efefed',margin:'2.5rem 0'}}/>);
+      html += '<hr style="border:none;border-top:1px solid #efefed;margin:2.5rem 0"/>';
     } else if (line.startsWith('| ')) {
       const rows = [];
       while (i < lines.length && lines[i].startsWith('|')) {
@@ -87,41 +77,36 @@ function renderMarkdown(md) {
         }
         i++;
       }
-      elements.push(
-        <div key={key++} style={{overflowX:'auto',margin:'1.8rem 0'}}>
-          <table style={{width:'100%',borderCollapse:'collapse',fontSize:'.82rem'}}>
-            <thead>
-              <tr>{rows[0]?.map((c,j)=>(<th key={j} style={{textAlign:'left',padding:'10px 14px',background:'#f7f7f5',borderBottom:'2px solid #e8e8e8',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.72rem',letterSpacing:'.08em',textTransform:'uppercase',color:'#888'}}>{c}</th>))}</tr>
-            </thead>
-            <tbody>
-              {rows.slice(1).map((row,ri)=>(
-                <tr key={ri} style={{borderBottom:'1px solid #f5f5f5'}}>
-                  {row.map((c,j)=>(<td key={j} style={{padding:'9px 14px',color:'#555',verticalAlign:'top',fontSize:'.83rem'}} dangerouslySetInnerHTML={{__html:c.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')}}/>))}
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      );
+      if (rows.length > 0) {
+        html += '<div style="overflow-x:auto;margin:1.8rem 0"><table style="width:100%;border-collapse:collapse;font-size:.82rem"><thead><tr>';
+        rows[0].forEach(c => { html += `<th style="text-align:left;padding:10px 14px;background:#f7f7f5;border-bottom:2px solid #e8e8e8;font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:#888">${esc(c)}</th>`; });
+        html += '</tr></thead><tbody>';
+        rows.slice(1).forEach(row => {
+          html += '<tr style="border-bottom:1px solid #f5f5f5">';
+          row.forEach(c => { html += `<td style="padding:9px 14px;color:#555;vertical-align:top;font-size:.83rem">${bold(c)}</td>`; });
+          html += '</tr>';
+        });
+        html += '</tbody></table></div>';
+      }
       continue;
     } else if (line.match(/^[-✅⚠️]/) || line.match(/^\d+\. /)) {
-      const listItems = [];
+      html += '<ul style="margin:1.2rem 0 1.2rem 1.4rem;padding:0;color:#555;font-size:.87rem;line-height:1.75">';
       while (i < lines.length && (lines[i].match(/^[-✅⚠️]/) || lines[i].match(/^\d+\. /))) {
-        const text = lines[i].replace(/^[-✅⚠️]\s*/, '').replace(/^\d+\.\s*/, '');
-        const prefix = lines[i].match(/^(✅|⚠️)/) ? lines[i].match(/^(✅|⚠️)/)[1]+' ' : '';
-        listItems.push(<li key={i} style={{marginBottom:'.5rem',paddingLeft:'.2rem'}}>{prefix}{inlineFormat(text)}</li>);
+        const text = lines[i].replace(/^[-✅⚠️]\s*/,'').replace(/^\d+\.\s*/,'');
+        const pre  = lines[i].match(/^(✅|⚠️)/) ? lines[i].match(/^(✅|⚠️)/)[1]+' ' : '';
+        html += `<li style="margin-bottom:.5rem;padding-left:.2rem">${pre}${bold(text)}</li>`;
         i++;
       }
-      elements.push(<ul key={key++} style={{margin:'1.2rem 0 1.2rem 1.4rem',padding:0,color:'#555',fontSize:'.87rem',lineHeight:1.75}}>{listItems}</ul>);
+      html += '</ul>';
       continue;
     } else if (line.startsWith('**') && line.endsWith('**') && !line.slice(2,-2).includes('**')) {
-      elements.push(<p key={key++} style={{fontWeight:600,color:'#1a1a1a',fontSize:'.87rem',margin:'1rem 0 .3rem'}}>{line.slice(2,-2)}</p>);
+      html += `<p style="font-weight:600;color:#1a1a1a;font-size:.87rem;margin:1rem 0 .3rem">${esc(line.slice(2,-2))}</p>`;
     } else if (line.trim()) {
-      elements.push(<p key={key++} style={{fontSize:'.88rem',color:'#555',lineHeight:1.85,margin:'.8rem 0'}}>{inlineFormat(line)}</p>);
+      html += `<p style="font-size:.88rem;color:#555;line-height:1.85;margin:.8rem 0">${bold(line)}</p>`;
     }
     i++;
   }
-  return elements;
+  return html;
 }
 
 export default async function BlogArticlePage({ params }) {
@@ -138,7 +123,7 @@ export default async function BlogArticlePage({ params }) {
   const content = a.content[locale] || a.content.ro;
   const mySlug  = a.slugs[locale]   || a.slugs.ro;
 
-  const elements = renderMarkdown(content);
+  const contentHtml = renderMarkdown(content);
   const related  = ARTICLES.filter(r => r.slugs.ro !== a.slugs.ro).slice(0, 3);
 
   const articleSchema = {
@@ -239,7 +224,7 @@ export default async function BlogArticlePage({ params }) {
         <div className="article-grid">
 
           <main style={{minWidth:0}}>
-            {elements}
+            <div dangerouslySetInnerHTML={{__html: contentHtml}} />
 
             {/* Articole similare jos în conținut */}
             {related.length > 0 && (
