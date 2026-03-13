@@ -125,7 +125,6 @@ const DESCS = {
   },
 };
 
-const ALU_PRODUCTS = [
 const PROD_SLUG_MAP = {
   's77':    'alumil-s77-supreme',
   's67':    'alumil-s67-smartia',
@@ -135,6 +134,7 @@ const PROD_SLUG_MAP = {
   'm19800': 'alumil-m19800-smartia',
 };
 
+const ALU_PRODUCTS = [
   { slug:'s77',    img:'/products/alumil-s77-supreme.avif',   name:'Alumil S 77 SUPREME',   gama:'SUPREME', cat:'ferestre' },
   { slug:'s67',    img:'/products/alumil-s67-smartia.avif',   name:'Alumil S 67 SMARTIA',   gama:'SMARTIA', cat:'ferestre' },
   { slug:'s700',   img:'/products/alumil-s700-supreme.avif',  name:'Alumil S 700 SUPREME',  gama:'SUPREME', cat:'liftante' },
