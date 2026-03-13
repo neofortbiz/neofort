@@ -148,5 +148,21 @@ export const routing = defineRouting({
     '/produse-aluminiu/alumil-s350-smartia':   { ro:'/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia',   en:'/products-alu/alumil-s350-smartia-lift-slide-system',  de:'/produkte-alu/alumil-s350-smartia-hebeschiebesystem',  fr:'/produits-alu/systeme-coulissant-alumil-s350-smartia',  es:'/productos-alu/sistema-corredera-alumil-s350-smartia',  it:'/prodotti-alu/sistema-scorrevole-alumil-s350-smartia'  },
     '/produse-aluminiu/alumil-sf85-supreme':   { ro:'/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme',   en:'/products-alu/alumil-sf85-supreme-folding-system',     de:'/produkte-alu/alumil-sf85-supreme-faltsystem',         fr:'/produits-alu/systeme-pliant-alumil-sf85-supreme',      es:'/productos-alu/sistema-plegable-alumil-sf85-supreme',   it:'/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme'  },
     '/produse-aluminiu/alumil-m19800-smartia': { ro:'/produse-aluminiu/sistem-aluminiu-alumil-m19800-smartia', en:'/products-alu/alumil-m19800-smartia-folding-system',   de:'/produkte-alu/alumil-m19800-smartia-faltsystem',       fr:'/produits-alu/systeme-pliant-alumil-m19800-smartia',    es:'/productos-alu/sistema-plegable-alumil-m19800-smartia', it:'/prodotti-alu/sistema-pieghevole-alumil-m19800-smartia'},
+    '/umbrire': {
+      ro: '/umbrire',
+      en: '/shading-systems',
+      de: '/beschattungssysteme',
+      fr: '/systemes-occultation',
+      es: '/sistemas-sombreado',
+      it: '/sistemi-oscuramento',
+    },
+    '/sisteme-nzeb': {
+      ro: '/sisteme-nzeb',
+      en: '/nzeb-systems',
+      de: '/nzeb-systeme',
+      fr: '/systemes-nzeb',
+      es: '/sistemas-nzeb',
+      it: '/sistemi-nzeb',
+    },
   }
 });

@@ -49,7 +49,7 @@ const SPECS = {
     it:[['Profilo PVC con','6 camere'],['Tenuta','3 guarnizioni'],['Profondità','92 mm'],['Trasmittanza','Uw = 0,70 W/(m²K)'],['Vetro','fino a 60 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
   },
   gre76mdround: {
-    ro:[['Profil PVC cu','5 camere'],['Etanșare','3 garnituri'],['Adâncime','76 mm'],['Transfer','Uw = 0,73 W/(m²K)'],['Vitraj','până la 48 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
+    ro:[['Profil PVC cu','5 camere'],['Etanșare','2 garnituri + 1 mediană'],['Adâncime','76 mm'],['Transfer','Uw = 0,73 W/(m²K)'],['Vitraj','până la 48 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
     en:[['PVC profile with','5 chambers'],['Sealing','3 gaskets'],['Depth','76 mm'],['Transfer','Uw = 0.73 W/(m²K)'],['Glazing','up to 48 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
     de:[['PVC-Profil mit','5 Kammern'],['Dichtung','3 Dichtungen'],['Bautiefe','76 mm'],['Transfer','Uw = 0,73 W/(m²K)'],['Verglasung','bis 48 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
     fr:[['Profil PVC avec','5 chambres'],['Étanchéité','3 joints'],['Profondeur','76 mm'],['Transfert','Uw = 0,73 W/(m²K)'],['Vitrage','jusqu\'à 48 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
@@ -84,11 +84,11 @@ const DESCS = {
     it:'Profilo PVC placcato con 6 camere e profondità di 104mm. Trasmittanza eccezionale Uw = 0,70 W/(m²K), vetro fino a 60mm, isolamento acustico fino a 47 dB e antieffrazione RC 3.',
   },
   blu92flex: {
-    ro:'Profil PVC flexibil cu 6 camere și adâncime de 92mm. Transfer termic Uw = 0,70 W/(m²K), geam până la 60mm, izolare fonică până la 47 dB și protecție anti-efracție RC 3. Ideal pentru forme complexe.',
+    ro:'Profil PVC cu 6 camere și adâncime de 92mm, profil drept (FLEX). Transfer termic Uw = 0,70 W/(m²K), geam până la 60mm, izolare fonică până la 47 dB și protecție anti-efracție RC 3.',
     en:'Flexible PVC profile with 6 chambers and 92mm depth. Thermal transfer Uw = 0.70 W/(m²K), glazing up to 60mm, sound insulation up to 47 dB and RC 3 burglar resistance. Ideal for complex shapes.',
     de:'Flexibles PVC-Profil mit 6 Kammern und 92mm Bautiefe. Wärmedurchgang Uw = 0,70 W/(m²K), Verglasung bis 60mm, Schallschutz bis 47 dB und Einbruchschutz RC 3. Ideal für komplexe Formen.',
-    fr:'Profil PVC flexible avec 6 chambres et profondeur de 92mm. Transfert thermique Uw = 0,70 W/(m²K), vitrage jusqu\'à 60mm, isolation phonique jusqu\'à 47 dB et anti-effraction RC 3. Idéal pour formes complexes.',
-    es:'Perfil PVC flexible con 6 cámaras y profundidad de 92mm. Transferencia térmica Uw = 0,70 W/(m²K), acristalamiento hasta 60mm, aislamiento acústico hasta 47 dB y antirrobo RC 3. Ideal para formas complejas.',
+    fr:'Profil PVC BluEvolution 92 FLEX avec 6 chambres et profondeur de 92mm, design droit. Transfert thermique Uw = 0,70 W/(m²K), vitrage jusqu\'à 60mm, isolation phonique jusqu\'à 47 dB et anti-effraction RC 3.',
+    es:'Perfil PVC BluEvolution 92 FLEX con 6 cámaras y profundidad de 92mm, diseño recto. Transferencia térmica Uw = 0,70 W/(m²K), acristalamiento hasta 60mm, aislamiento acústico hasta 47 dB y antirrobo RC 3.',
     it:'Profilo PVC flessibile con 6 camere e profondità di 92mm. Trasmittanza Uw = 0,70 W/(m²K), vetro fino a 60mm, isolamento acustico fino a 47 dB e antieffrazione RC 3. Ideale per forme complesse.',
   },
   blu92round: {
@@ -108,12 +108,12 @@ const DESCS = {
     it:'Profilo PVC GreenEvolution con bordi arrotondati, 5 camere e profondità di 76mm. Trasmittanza Uw = 0,73 W/(m²K), vetro fino a 48mm, isolamento acustico fino a 47 dB e antieffrazione RC 3.',
   },
   gre76mdflex: {
-    ro:'Profil PVC GreenEvolution flexibil cu 5 camere și adâncime de 76mm. Transfer termic Uw = 0,73 W/(m²K), geam până la 48mm, izolare fonică până la 47 dB și protecție anti-efracție RC 3.',
-    en:'Flexible GreenEvolution PVC profile with 5 chambers and 76mm depth. Thermal transfer Uw = 0.73 W/(m²K), glazing up to 48mm, sound insulation up to 47 dB and RC 3 burglar resistance.',
-    de:'Flexibles GreenEvolution PVC-Profil mit 5 Kammern und 76mm Bautiefe. Wärmedurchgang Uw = 0,73 W/(m²K), Verglasung bis 48mm, Schallschutz bis 47 dB und Einbruchschutz RC 3.',
-    fr:'Profil PVC GreenEvolution flexible, 5 chambres et profondeur de 76mm. Transfert thermique Uw = 0,73 W/(m²K), vitrage jusqu\'à 48mm, isolation phonique jusqu\'à 47 dB et anti-effraction RC 3.',
-    es:'Perfil PVC GreenEvolution flexible con 5 cámaras y profundidad de 76mm. Transferencia Uw = 0,73 W/(m²K), acristalamiento hasta 48mm, aislamiento acústico hasta 47 dB y antirrobo RC 3.',
-    it:'Profilo PVC GreenEvolution flessibile, 5 camere e profondità di 76mm. Trasmittanza Uw = 0,73 W/(m²K), vetro fino a 48mm, isolamento acustico fino a 47 dB e antieffrazione RC 3.',
+    ro:'Profil PVC GreenEvolution 76 MD FLEX cu 5 camere și adâncime de 76mm, profil drept. Transfer termic Uw = 0,73 W/(m²K), geam până la 48mm, izolare fonică până la 47 dB și protecție anti-efracție RC 3.',
+    en:'GreenEvolution 76 MD FLEX PVC profile with 5 chambers and 76mm depth, straight design. Thermal transfer Uw = 0.73 W/(m²K), glazing up to 48mm, sound insulation up to 47 dB and RC 3 burglar resistance.',
+    de:'GreenEvolution 76 MD FLEX PVC-Profil mit 5 Kammern und 76mm Bautiefe, gerades Design. Wärmedurchgang Uw = 0,73 W/(m²K), Verglasung bis 48mm, Schallschutz bis 47 dB und Einbruchschutz RC 3.',
+    fr:'Profil PVC GreenEvolution 76 MD FLEX, 5 chambres et profondeur de 76mm, design droit. Transfert thermique Uw = 0,73 W/(m²K), vitrage jusqu\'à 48mm, isolation phonique jusqu\'à 47 dB et anti-effraction RC 3.',
+    es:'Perfil PVC GreenEvolution 76 MD FLEX con 5 cámaras y profundidad de 76mm, diseño recto. Transferencia Uw = 0,73 W/(m²K), acristalamiento hasta 48mm, aislamiento acústico hasta 47 dB y antirrobo RC 3.',
+    it:'Profilo PVC GreenEvolution 76 MD FLEX, 5 camere e profondità di 76mm, design dritto. Trasmittanza Uw = 0,73 W/(m²K), vetro fino a 48mm, isolamento acustico fino a 47 dB e antieffrazione RC 3.',
   },
   gre76adflex: {
     ro:'Profil PVC GreenEvolution economic cu 5 camere, 2 garnituri și adâncime de 76mm. Transfer termic Uw = 0,73 W/(m²K), geam până la 48mm, izolare fonică până la 47 dB și protecție anti-efracție RC 3.',
