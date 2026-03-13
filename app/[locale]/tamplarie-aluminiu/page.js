@@ -126,6 +126,15 @@ const DESCS = {
 };
 
 const ALU_PRODUCTS = [
+const PROD_SLUG_MAP = {
+  's77':    'alumil-s77-supreme',
+  's67':    'alumil-s67-smartia',
+  's700':   'alumil-s700-supreme',
+  's350':   'alumil-s350-smartia',
+  'sf85':   'alumil-sf85-supreme',
+  'm19800': 'alumil-m19800-smartia',
+};
+
   { slug:'s77',    img:'/products/alumil-s77-supreme.avif',   name:'Alumil S 77 SUPREME',   gama:'SUPREME', cat:'ferestre' },
   { slug:'s67',    img:'/products/alumil-s67-smartia.avif',   name:'Alumil S 67 SMARTIA',   gama:'SMARTIA', cat:'ferestre' },
   { slug:'s700',   img:'/products/alumil-s700-supreme.avif',  name:'Alumil S 700 SUPREME',  gama:'SUPREME', cat:'liftante' },
@@ -232,7 +241,7 @@ export default async function TamplaieAluminiuPage({ params }) {
                     <p style={{fontSize:'0.77rem',color:'#767676',lineHeight:1.65,flex:1,marginBottom:'16px'}}>{desc}</p>
 
                     {/* Buton Detalii */}
-                    <Link href="/contact" style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',textDecoration:'none',transition:'background 0.15s,color 0.15s'}}>
+                    <Link href={`/produse-aluminiu/${PROD_SLUG_MAP[p.slug] || p.slug}`} style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',textDecoration:'none',transition:'background 0.15s,color 0.15s'}}>
                       {ui.btn_detail}
                     </Link>
                   </div>

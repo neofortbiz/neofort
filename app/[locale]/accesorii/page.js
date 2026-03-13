@@ -168,7 +168,7 @@ export default async function AccesoriiPage({ params }) {
                       ))}
                     </ul>
                     <p className="acc-desc">{desc}</p>
-                    <Link href="/contact" className="acc-btn">{ui.btn_detail}</Link>
+                    <Link href={`/produse/${acc.slug}`} className="acc-btn">{ui.btn_detail}</Link>
                   </div>
                 </div>
               );

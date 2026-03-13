@@ -37,6 +37,88 @@ const SLUG_MAP = {
     de:'greenevolution-76-ad-flex-pvc-profil', fr:'profil-pvc-greenevolution-76-ad-flex',
     es:'perfil-pvc-greenevolution-76-ad-flex', it:'profilo-pvc-greenevolution-76-ad-flex',
   },
+  // ── ALUMIL ──
+  'alumil-s77-supreme': {
+    ro:'profil-aluminiu-alumil-s77-supreme', en:'alumil-s77-supreme-aluminium-profile',
+    de:'alumil-s77-supreme-aluminiumprofil', fr:'profil-aluminium-alumil-s77-supreme',
+    es:'perfil-aluminio-alumil-s77-supreme', it:'profilo-alluminio-alumil-s77-supreme',
+  },
+  'alumil-sf85-supreme': {
+    ro:'profil-aluminiu-alumil-sf85-supreme', en:'alumil-sf85-supreme-aluminium-profile',
+    de:'alumil-sf85-supreme-aluminiumprofil', fr:'profil-aluminium-alumil-sf85-supreme',
+    es:'perfil-aluminio-alumil-sf85-supreme', it:'profilo-alluminio-alumil-sf85-supreme',
+  },
+  'alumil-s700-supreme': {
+    ro:'profil-aluminiu-alumil-s700-supreme', en:'alumil-s700-supreme-lift-slide',
+    de:'alumil-s700-supreme-hebeschiebe', fr:'profil-aluminium-alumil-s700-supreme',
+    es:'perfil-aluminio-alumil-s700-supreme', it:'profilo-alluminio-alumil-s700-supreme',
+  },
+  'alumil-s67-smartia': {
+    ro:'profil-aluminiu-alumil-s67-smartia', en:'alumil-s67-smartia-aluminium-profile',
+    de:'alumil-s67-smartia-aluminiumprofil', fr:'profil-aluminium-alumil-s67-smartia',
+    es:'perfil-aluminio-alumil-s67-smartia', it:'profilo-alluminio-alumil-s67-smartia',
+  },
+  'alumil-s350-smartia': {
+    ro:'profil-aluminiu-alumil-s350-smartia', en:'alumil-s350-smartia-lift-slide',
+    de:'alumil-s350-smartia-hebeschiebe', fr:'profil-aluminium-alumil-s350-smartia',
+    es:'perfil-aluminio-alumil-s350-smartia', it:'profilo-alluminio-alumil-s350-smartia',
+  },
+  'alumil-m19800-smartia': {
+    ro:'profil-aluminiu-alumil-m19800-smartia', en:'alumil-m19800-smartia-curtain-wall',
+    de:'alumil-m19800-smartia-vorhangfassade', fr:'profil-aluminium-alumil-m19800-smartia',
+    es:'perfil-aluminio-alumil-m19800-smartia', it:'profilo-alluminio-alumil-m19800-smartia',
+  },
+  // ── ACCESORII ──
+  'accesoriu-rulouri-exterioare': {
+    ro:'accesoriu-rulouri-exterioare-aluminiu', en:'aluminium-external-roller-shutters',
+    de:'aluminium-aussenrolllaeden', fr:'volets-roulants-aluminium-exterieurs',
+    es:'persianas-exteriores-aluminio', it:'tapparelle-esterne-alluminio',
+  },
+  'accesoriu-jaluzele-raffstore': {
+    ro:'accesoriu-jaluzele-venetiene-raffstore', en:'venetian-raffstore-blinds',
+    de:'raffstore-jalousien', fr:'persiennes-venitiennes-raffstore',
+    es:'persianas-venecianas-raffstore', it:'veneziane-raffstore',
+  },
+  'accesoriu-precadre-blaugelb': {
+    ro:'accesoriu-precadre-blaugelb-triotherm', en:'blaugelb-triotherm-plus-precasings',
+    de:'blaugelb-triotherm-plus-vorfenster', fr:'precadres-blaugelb-triotherm-plus',
+    es:'premarcos-blaugelb-triotherm-plus', it:'pre-parete-blaugelb-triotherm-plus',
+  },
+  'accesoriu-banda-butilic': {
+    ro:'accesoriu-banda-precomprimata-butil', en:'butyl-pre-compressed-sealing-tape',
+    de:'butyl-vorkomprimiertes-dichtband', fr:'bande-butyle-precomprimee',
+    es:'cinta-butilica-precomprimida', it:'nastro-butile-precompresso',
+  },
+  'accesoriu-banda-antivapori': {
+    ro:'accesoriu-banda-etansare-antivapori', en:'vapour-barrier-sealing-tape',
+    de:'dampfsperrband-fenster', fr:'bande-etancheite-vapeur',
+    es:'cinta-barrera-vapor', it:'nastro-barriera-vapore',
+  },
+  'accesoriu-bagheta-warm-edge': {
+    ro:'accesoriu-bagheta-warm-edge-thermo', en:'warm-edge-thermoplastic-spacer',
+    de:'warm-edge-thermoplastischer-abstandhalter', fr:'baguette-warm-edge-espaceur',
+    es:'intercalario-warm-edge-termoplastico', it:'distanziatore-warm-edge-termoplastico',
+  },
+  'accesoriu-toc-renovare': {
+    ro:'accesoriu-toc-de-renovare', en:'window-renovation-profile',
+    de:'renovierungsprofil-fenster', fr:'profil-renovation-fenetre',
+    es:'perfil-renovacion-ventana', it:'telaio-ristrutturazione-finestra',
+  },
+  'accesoriu-pervazuri-glafuri': {
+    ro:'accesoriu-pervazuri-glafuri-pvc-aluminiu', en:'windowsills-pvc-aluminium',
+    de:'fensterbaenke-pvc-aluminium', fr:'appuis-fenetre-pvc-aluminium',
+    es:'alfeizares-pvc-aluminio', it:'davanzali-pvc-alluminio',
+  },
+  'accesoriu-grila-aereco': {
+    ro:'accesoriu-grila-higroreglabila-aereco', en:'aereco-hygro-adjustable-ventilation-grille',
+    de:'aereco-hygroregelbare-lueftungsgitter', fr:'grille-hygroreglable-aereco',
+    es:'rejilla-higrorreglable-aereco', it:'griglia-igroregolab-aereco',
+  },
+  'accesoriu-geam-termopan': {
+    ro:'accesoriu-geamuri-termopan-saint-gobain', en:'saint-gobain-thermal-insulating-glass',
+    de:'saint-gobain-waermeschutzisolierglas', fr:'verre-isolant-saint-gobain',
+    es:'vidrio-aislante-saint-gobain', it:'vetro-termoisolante-saint-gobain',
+  },
 };
 
 // Build reverse map: any locale slug → canonical
@@ -728,3 +810,4 @@ export default async function ProductPage({ params }) {
     </>
   );
 }
+
