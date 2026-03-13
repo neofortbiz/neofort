@@ -121,7 +121,7 @@ export default async function Page({ params }) {
                       ))}
                     </ul>
                     <p className="acc-desc">{desc}</p>
-                    <Link href={`/produse/${a.slug}`} className="acc-btn">{ui.btn_detail}</Link>
+                    <Link href={`/umbrire/${a.slug}`} className="acc-btn">{ui.btn_detail}</Link>
                   </div>
                 </div>
               );
