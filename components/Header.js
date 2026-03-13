@@ -6,17 +6,17 @@ import { Link, usePathname } from '../i18n/navigation';
 const LOCALES = ['ro','en','de','fr','es','it'];
 
 export default function Header() {
-  const locale = useLocale();
-  const t = useTranslations('nav');
+  const locale   = useLocale();
+  const t        = useTranslations('nav');
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
 
-  // Cu pathnames în next-intl, Link folosește pathname intern
-  // și generează automat URL-ul tradus per limbă
   const links = [
     { href: '/',                   label: t('home') },
     { href: '/tamplarie-pvc',      label: t('pvc') },
     { href: '/tamplarie-aluminiu', label: t('aluminiu') },
+    { href: '/umbrire',            label: t('umbrire') },
+    { href: '/sisteme-nzeb',       label: t('nzeb') },
     { href: '/accesorii',          label: t('accesorii') },
     { href: '/servicii',           label: t('servicii') },
     { href: '/despre',             label: t('despre') },
