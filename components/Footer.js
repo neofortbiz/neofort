@@ -135,10 +135,10 @@ export default function Footer() {
     <footer className="site-footer" role="contentinfo" aria-label="Informații companie Neofort BIZ">
 
       {/* ── FORMULAR CONTACT ── */}
-      <div style={{background:'#111',borderTop:'1px solid #222',padding:'20px 0 0'}}>
+      <div style={{background:'#111',borderTop:'1px solid #222',padding:'15px 0 0'}}>
         <div className="footer-inner">
-          <div style={{textAlign:'center',marginBottom:'16px'}}>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'6px'}}>
+          <div style={{textAlign:'center',marginBottom:'12px'}}>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'4px'}}>
               {ft.title_label}
             </span>
             <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(0.85rem, 2vw, 1.1rem)',color:'#fff',lineHeight:1.35,textAlign:'center'}}>
@@ -163,7 +163,7 @@ export default function Footer() {
                 <div className="form-grid">
 
                   {/* Col 1 — Departamente (desktop) */}
-                  <div className="form-col form-col-dept form-col-dept-desktop" style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
+                  <div className="form-col form-col-dept form-col-dept-desktop" style={{padding:'27px 32px',borderRight:'1px solid #2a2a2a'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>{ft.col_dept}</span>
                     {[
                       ['Office','+40 21 528 06 61','tel:+40215280661'],
@@ -190,7 +190,7 @@ export default function Footer() {
                   </div>
 
                   {/* Col 2 — Formular */}
-                  <div className="form-col form-col-client" style={{padding:'36px 32px',borderRight:'1px solid #2a2a2a'}}>
+                  <div className="form-col form-col-client" style={{padding:'27px 32px',borderRight:'1px solid #2a2a2a'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>{ft.col_form}</span>
 
                     <div style={{marginBottom:'16px'}}>
@@ -229,7 +229,7 @@ export default function Footer() {
                   </div>
 
                   {/* Col 3 — Checkboxuri */}
-                  <div className="form-col form-col-produse" style={{padding:'36px 32px'}}>
+                  <div className="form-col form-col-produse" style={{padding:'27px 32px'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.18em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'12px'}}>{ft.col_prod}</span>
                     {PRODUSE.map((item,i)=>(
                       <div key={i} style={{display:'flex',alignItems:'center',gap:'10px',padding:'5px 0',borderBottom:'1px solid #1e1e1e'}}>
@@ -241,7 +241,7 @@ export default function Footer() {
                 </div>
 
                 {/* GDPR */}
-                <div style={{padding:'20px 32px',borderTop:'1px solid #2a2a2a'}}>
+                <div style={{padding:'15px 32px',borderTop:'1px solid #2a2a2a'}}>
                   <div style={{display:'flex',alignItems:'flex-start',gap:'12px'}}>
                     <input type="checkbox" id="gdpr-cb" checked={gdpr}
                       onChange={e=>{ setGdpr(e.target.checked); if(e.target.checked) setErr(p=>({...p,gdpr:''})); }}
@@ -260,12 +260,12 @@ export default function Footer() {
 
                 {/* Submit */}
                 <button type="submit" disabled={status==='sending'}
-                  style={{width:'100%',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.76rem',letterSpacing:'.25em',textTransform:'uppercase',color:'#fff',background: status==='sending' ? '#222' : '#1a1a1a',border:'none',borderTop:'1px solid #2a2a2a',padding:'22px 48px',cursor: status==='sending' ? 'not-allowed' : 'pointer',display:'block',transition:'background .2s'}}>
+                  style={{width:'100%',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.76rem',letterSpacing:'.25em',textTransform:'uppercase',color:'#fff',background: status==='sending' ? '#222' : '#1a1a1a',border:'none',borderTop:'1px solid #2a2a2a',padding:'16px 48px',cursor: status==='sending' ? 'not-allowed' : 'pointer',display:'block',transition:'background .2s'}}>
                   {status==='sending' ? t('sending') : status==='error' ? t('error') : t('submit')}
                 </button>
 
                 {/* Departamente — mobil după Submit */}
-                <div className="form-col-dept-mobile" style={{padding:'36px 32px',borderTop:'1px solid #2a2a2a'}}>
+                <div className="form-col-dept-mobile" style={{padding:'27px 32px',borderTop:'1px solid #2a2a2a'}}>
                   <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>{ft.col_dept}</span>
                   {[
                     ['Office','+40 21 528 06 61','tel:+40215280661'],
@@ -300,12 +300,12 @@ export default function Footer() {
       {/* ── FOOTER GRID ── */}
       <div className="footer-inner">
         <div className="footer-grid-logo">
-          <div style={{padding:'32px 32px 12px 0'}}>
+          <div style={{padding:'24px 24px 9px 0'}}>
             <span className="footer-logo">NEOFORT BIZ</span>
           </div>
           <div></div><div></div><div></div>
         </div>
-        <div className="footer-grid-cols" style={{padding:'0 0 36px',borderBottom:'1px solid #1e1e1e',alignItems:'start'}}>
+        <div className="footer-grid-cols" style={{padding:'0 0 27px',borderBottom:'1px solid #1e1e1e',alignItems:'start'}}>
           <div className="footer-col-1">
             <div className="footer-col-title">{col.brand}</div>
             <p className="footer-desc">{col.brand_desc}</p>
