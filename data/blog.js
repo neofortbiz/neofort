@@ -12,9 +12,9 @@ export const ARTICLES = [
       es: 'bluevolution-92-vs-greenevolution-76-guia',
       it: 'bluevolution-92-vs-greenevolution-76-guida',
     },
-    date: '2025-03-01',
+    date: '2026-02-15',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'1 Martie 2025', en:'March 1, 2025', de:'1. März 2025', fr:'1 mars 2025', es:'1 de marzo de 2025', it:'1 marzo 2025' },
+    dateDisplay: { ro:'15 Februarie 2026', en:'February 15, 2026', de:'15. Februar 2026', fr:'15 février 2026', es:'15 de febrero de 2026', it:'15 febbraio 2026' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -743,17 +743,17 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
       es: 'instalacion-premarcos-blaugelb-triotherm-nzeb',
       it: 'installazione-precassonetti-blaugelb-triotherm-nzeb',
     },
-    date: '2025-03-15',
-    dateDisplay: { ro:'15 Martie 2025', en:'March 15, 2025', de:'15. März 2025', fr:'15 mars 2025', es:'15 de marzo de 2025', it:'15 marzo 2025' },
+    date: '2026-02-22',
+    dateDisplay: { ro:'22 Februarie 2026', en:'February 22, 2026', de:'22. Februar 2026', fr:'22 février 2026', es:'22 de febrero de 2026', it:'22 febbraio 2026' },
     category: { ro:'Montaj & Izolare', en:'Installation', de:'Montage', fr:'Installation', es:'Instalación', it:'Installazione' },
     readTime: { ro:'7 min citire', en:'7 min read', de:'7 Min.', fr:'7 min', es:'7 min', it:'7 min' },
     image: {
-      ro: '/blog/blog-nzeb-casa.jpg',
-      en: '/blog/blog-nzeb-casa.jpg',
-      de: '/blog/blog-nzeb-casa.jpg',
-      fr: '/blog/blog-nzeb-casa.jpg',
-      es: '/blog/blog-nzeb-casa.jpg',
-      it: '/blog/blog-nzeb-casa.jpg',
+      ro: '/blog/blog-nzeb-casa.avif',
+      en: '/blog/blog-nzeb-casa.avif',
+      de: '/blog/blog-nzeb-casa.avif',
+      fr: '/blog/blog-nzeb-casa.avif',
+      es: '/blog/blog-nzeb-casa.avif',
+      it: '/blog/blog-nzeb-casa.avif',
     },
     imageBg: 'linear-gradient(135deg,#0d1b2a 0%,#1b4f72 60%,#2e86c1 100%)',
     imageLabel: 'nZEB',
@@ -1305,17 +1305,17 @@ Da Neofort BIZ, **tutte le nostre installazioni** includono il sistema completo 
       es: 'persianas-raffstore-vs-cierres-enrollables-aluminio',
       it: 'veneziane-raffstore-vs-tapparelle-alluminio',
     },
-    date: '2025-04-01',
-    dateDisplay: { ro:'1 Aprilie 2025', en:'April 1, 2025', de:'1. April 2025', fr:'1 avril 2025', es:'1 de abril de 2025', it:'1 aprile 2025' },
+    date: '2026-03-01',
+    dateDisplay: { ro:'1 Martie 2026', en:'March 1, 2026', de:'1. März 2026', fr:'1 mars 2026', es:'1 de marzo de 2026', it:'1 marzo 2026' },
     category: { ro:'Comparație produse', en:'Product Comparison', de:'Produktvergleich', fr:'Comparaison produits', es:'Comparación', it:'Confronto prodotti' },
     readTime: { ro:'6 min citire', en:'6 min read', de:'6 Min.', fr:'6 min', es:'6 min', it:'6 min' },
     image: {
-      ro: '/blog/blog-umbrire-terasa.jpg',
-      en: '/blog/blog-umbrire-terasa.jpg',
-      de: '/blog/blog-umbrire-terasa.jpg',
-      fr: '/blog/blog-umbrire-terasa.jpg',
-      es: '/blog/blog-umbrire-terasa.jpg',
-      it: '/blog/blog-umbrire-terasa.jpg',
+      ro: '/blog/blog-umbrire-terasa.avif',
+      en: '/blog/blog-umbrire-terasa.avif',
+      de: '/blog/blog-umbrire-terasa.avif',
+      fr: '/blog/blog-umbrire-terasa.avif',
+      es: '/blog/blog-umbrire-terasa.avif',
+      it: '/blog/blog-umbrire-terasa.avif',
     },
     imageBg: 'linear-gradient(135deg,#2c1810 0%,#7d3c0f 60%,#e8721c 100%)',
     imageLabel: '☀ Umbrire',
@@ -1999,18 +1999,18 @@ Da Neofort BIZ forniamo e installiamo entrambi i sistemi. Contattateci per un pr
       es: 'exportacion-carpinteria-rumania-alemania',
       it: 'esportazione-serramenti-romania-germania',
     },
-    date: '2025-04-15',
+    date: '2026-03-08',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'15 Aprilie 2025', en:'April 15, 2025', de:'15. April 2025', fr:'15 avril 2025', es:'15 de abril de 2025', it:'15 aprile 2025' },
+    dateDisplay: { ro:'8 Martie 2026', en:'March 8, 2026', de:'8. März 2026', fr:'8 mars 2026', es:'8 de marzo de 2026', it:'8 marzo 2026' },
     category: { ro:'Export & Europa', en:'Export & Europe', de:'Export & Europa', fr:'Export & Europe', es:'Exportación & Europa', it:'Export & Europa' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
-      ro: '/blog/blog-export-ferestre.jpg',
-      en: '/blog/blog-export-ferestre.jpg',
-      de: '/blog/blog-export-ferestre.jpg',
-      fr: '/blog/blog-export-ferestre.jpg',
-      es: '/blog/blog-export-ferestre.jpg',
-      it: '/blog/blog-export-ferestre.jpg',
+      ro: '/blog/blog-export-ferestre.avif',
+      en: '/blog/blog-export-ferestre.avif',
+      de: '/blog/blog-export-ferestre.avif',
+      fr: '/blog/blog-export-ferestre.avif',
+      es: '/blog/blog-export-ferestre.avif',
+      it: '/blog/blog-export-ferestre.avif',
     },
     imageBg: 'linear-gradient(135deg,#0a0a1a 0%,#1a1a4e 60%,#2d2d8e 100%)',
     imageLabel: 'DE / EU',
@@ -2768,6 +2768,1039 @@ L'export intra-UE è **senza formalità doganali**. Documenti standard inclusi:
 Comunichiamo fluentemente in **rumeno, inglese e tedesco**. Inviateci le fotografie delle vostre aperture — rispondiamo con preventivo entro 48 ore.`,
     },
   },
+  // ─── ARTICOL 5: Tâmplărie aluminiu cu barieră termică ───────────────────
+  {
+    slugs: {
+      ro: 'tamplarie-aluminiu-bariera-termica-ghid-complet',
+      en: 'aluminium-windows-thermal-break-complete-guide',
+      de: 'aluminiumfenster-waermedaemmung-komplett-leitfaden',
+      fr: 'menuiserie-aluminium-rupture-thermique-guide-complet',
+      es: 'carpinteria-aluminio-rotura-termica-guia-completa',
+      it: 'infissi-alluminio-taglio-termico-guida-completa',
+    },
+    date: '2026-03-10',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'10 Martie 2026', en:'March 10, 2026', de:'10. März 2026', fr:'10 mars 2026', es:'10 de marzo de 2026', it:'10 marzo 2026' },
+    category: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
+    readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
+    image: {
+      ro: '/blog/blog-tamplarie-aluminiu-premium.avif',
+      en: '/blog/blog-tamplarie-aluminiu-premium.avif',
+      de: '/blog/blog-tamplarie-aluminiu-premium.avif',
+      fr: '/blog/blog-tamplarie-aluminiu-premium.avif',
+      es: '/blog/blog-tamplarie-aluminiu-premium.avif',
+      it: '/blog/blog-tamplarie-aluminiu-premium.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a2a3a 0%,#2d5a8e 60%,#4a8abf 100%)',
+    imageLabel: 'Aluminiu Premium',
+    accentColor: '#2d5a8e',
+    title: {
+      ro: 'Tâmplărie aluminiu cu barieră termică — ghid complet 2026: sisteme Alumil, prețuri și performanțe',
+      en: 'Aluminium windows with thermal break — complete guide 2026: Alumil systems, prices and performance',
+      de: 'Aluminiumfenster mit Wärmedämmung — Komplettleitfaden 2026: Alumil-Systeme, Preise und Leistungen',
+      fr: 'Menuiseries aluminium à rupture thermique — guide complet 2026 : systèmes Alumil, prix et performances',
+      es: 'Carpintería de aluminio con rotura de puente térmico — guía completa 2026: sistemas Alumil, precios y rendimientos',
+      it: 'Infissi in alluminio con taglio termico — guida completa 2026: sistemi Alumil, prezzi e prestazioni',
+    },
+    excerpt: {
+      ro: 'Bariera termică din poliamidă 34 mm separă fizic interiorul de exteriorul profilului de aluminiu, eliminând puntea termică și ducând Uw-ul la 0,95–1,3 W/m²K. Ghid complet: ce sisteme Alumil Supreme și Smartia recomandăm, cum alegi între barieră 34 mm vs 52 mm și ce prețuri să aștepți în 2026.',
+      en: 'The 34 mm polyamide thermal break physically separates the inside from the outside of the aluminium profile, eliminating the thermal bridge and bringing Uw down to 0.95–1.3 W/m²K. Complete guide: which Alumil Supreme and Smartia systems we recommend, how to choose between 34 mm vs 52 mm break, and what prices to expect in 2026.',
+      de: 'Die 34 mm Polyamid-Wärmedämmung trennt physisch Innen- und Außenseite des Aluminiumprofils, eliminiert die Wärmebrücke und bringt Uw auf 0,95–1,3 W/m²K. Komplettleitfaden: welche Alumil Supreme- und Smartia-Systeme wir empfehlen, wie Sie zwischen 34 mm und 52 mm Trennung wählen und welche Preise Sie 2026 erwarten.',
+      fr: 'La rupture thermique en polyamide 34 mm sépare physiquement l\'intérieur de l\'extérieur du profil aluminium, éliminant le pont thermique et ramenant le Uw à 0,95–1,3 W/m²K. Guide complet : quels systèmes Alumil Supreme et Smartia nous recommandons, comment choisir entre rupture 34 mm et 52 mm et quels prix attendre en 2026.',
+      es: 'El rotura de puente térmico de poliamida 34 mm separa físicamente el interior del exterior del perfil de aluminio, eliminando el puente térmico y llevando el Uw a 0,95–1,3 W/m²K. Guía completa: qué sistemas Alumil Supreme y Smartia recomendamos, cómo elegir entre rotura 34 mm y 52 mm y qué precios esperar en 2026.',
+      it: 'Il taglio termico in poliammide 34 mm separa fisicamente l\'interno dall\'esterno del profilo in alluminio, eliminando il ponte termico e portando Uw a 0,95–1,3 W/m²K. Guida completa: quali sistemi Alumil Supreme e Smartia consigliamo, come scegliere tra taglio 34 mm e 52 mm e quali prezzi aspettarsi nel 2026.',
+    },
+    metaDesc: {
+      ro: 'Ghid complet 2026: tâmplărie aluminiu cu barieră termică — cum funcționează poliamida, sisteme Alumil Supreme SF85 și Smartia S67, diferența față de aluminiu fără barieră, prețuri și certificate nZEB.',
+      en: 'Complete 2026 guide: aluminium windows with thermal break — how polyamide works, Alumil Supreme SF85 and Smartia S67 systems, difference vs non-insulated aluminium, prices and nZEB certificates.',
+      de: 'Komplettleitfaden 2026: Aluminiumfenster mit Wärmedämmung — wie Polyamid funktioniert, Alumil Supreme SF85 und Smartia S67 Systeme, Unterschied zu nicht isoliertem Aluminium, Preise und nZEB-Zertifikate.',
+      fr: 'Guide complet 2026 : menuiseries aluminium à rupture thermique — fonctionnement du polyamide, systèmes Alumil Supreme SF85 et Smartia S67, différence avec aluminium non isolé, prix et certificats nZEB.',
+      es: 'Guía completa 2026: carpintería aluminio con rotura de puente térmico — cómo funciona la poliamida, sistemas Alumil Supreme SF85 y Smartia S67, diferencia vs aluminio sin aislamiento, precios y certificados nZEB.',
+      it: 'Guida completa 2026: infissi alluminio con taglio termico — come funziona la poliammide, sistemi Alumil Supreme SF85 e Smartia S67, differenza vs alluminio senza isolamento, prezzi e certificati nZEB.',
+    },
+    keywords: 'tamplarie aluminiu bariera termica, aluminiu cu rupere termica, profil aluminiu poliamida, Alumil Supreme SF85, Alumil Smartia S67, fereastra aluminiu Uw 1.0, tamplarie aluminiu nZEB, pret tamplarie aluminiu bariera termica 2026',
+    content: {
+      ro: `## Ce este bariera termică și de ce contează la aluminiu
+
+Aluminiul pur conduce căldura de **~200 de ori mai bine decât PVC-ul**. Fără nicio intervenție, un profil de aluminiu ar deveni un radiator de frig iarna și un colector de căldură vara — exact opusul a ce vrei de la o fereastră modernă.
+
+**Bariera termică** rezolvă această problemă fundamental. Este o inserție de **poliamidă 6.6 armat cu fibră de sticlă**, turnată sau presată între cele două jumătăți ale profilului de aluminiu. Aceasta:
+
+- Oprește transferul de temperatură dintre interior și exterior
+- Elimină condensul pe tocul ferestrei
+- Reduce pierderile termice ale clădirii
+- Permite atingerea certificărilor **nZEB** și casă pasivă
+
+Fără barieră termică, aluminiul este adecvat **doar la interior** — compartimentări, showroom-uri, garaje — unde diferența de temperatură dintre cele două fețe ale profilului nu este semnificativă.
+
+---
+
+## Cu barieră termică vs fără: comparație directă
+
+| Caracteristică | Aluminiu fără barieră | Aluminiu cu barieră 34 mm | Aluminiu cu barieră 52 mm |
+|---|---|---|---|
+| Uf profil (W/m²K) | 5,5–7,0 | 2,0–2,5 | 1,3–1,6 |
+| Uw fereastră completă | 3,5–5,0 | 1,4–1,8 | 0,95–1,2 |
+| Condens pe toc | Frecvent | Absent | Absent |
+| Utilizare exterior | **Nu** | Da | Da, inclusiv case pasive |
+| Certificare nZEB | Nu | Posibil cu geam tripan | Da |
+| Cost relativ | Scăzut | Mediu | Premium |
+
+---
+
+## Sisteme Alumil disponibile la Neofort BIZ
+
+### Alumil Supreme SF85 — performanță maximă
+
+**Poliamidă 34 mm** cu inserții Kooltherm și spumă izolatoare. Uf = 1,6 W/m²K, Uw = 0,95–1,1 W/m²K cu geam tripan 4-16-4-16-4.
+
+Specificații tehnice:
+- Adâncime profil: **85 mm**
+- Garnituri: 3 rânduri EPDM co-extrudate
+- Feronerie: 4 puncte de închidere, antiefracție RC2
+- Geam maxim: **52 mm** (tripan Low-E posibil)
+- Culori: **toate culorile RAL + imitație lemn** prin vopsire electrostatică
+- Certificat **Passive House Institute (PHI)**
+
+Recomandat pentru: locuințe premium, vile moderne, proiecte nZEB, renovări cu cerințe energetice ridicate.
+
+### Alumil Smartia S67 — raport calitate-preț optim
+
+**Poliamidă 34 mm** standard. Uf = 2,0 W/m²K, Uw = 1,2–1,4 W/m²K.
+
+Specificații tehnice:
+- Adâncime profil: **67 mm**
+- Garnituri: 2 rânduri EPDM
+- Feronerie: 4 puncte de închidere
+- Geam maxim: **40 mm** (dublu Low-E)
+- Culori: catalog RAL complet
+
+Recomandat pentru: blocuri, birouri, spații comerciale, proiecte cu buget mediu-ridicat.
+
+### Alumil Smartia S350 — sisteme glisante
+
+Sistem **osciloculisant** și **liftant-glisant** cu barieră termică. Ideal pentru terase, livinguri cu deschideri mari spre exterior.
+
+- Deschideri până la **4,5 m lățime** per panou
+- Uw = 1,2 W/m²K
+- Feronerie anti-efracție RC2
+
+---
+
+## Cum alegi între 34 mm și 52 mm poliamidă
+
+**Alege 34 mm (Smartia S67)** dacă:
+- Ai un buget rezonabil și vrei performanță bună
+- Construiești sau renovezi o locuință standard
+- Nu ai cerințe de certificare nZEB sau casă pasivă
+
+**Alege 52 mm (Supreme SF85)** dacă:
+- Construiești o casă nZEB sau pasivă
+- Proiectantul a specificat Uw < 1,0 W/m²K
+- Vrei să elimini complet condensul și punțile termice
+- Ai ferestre mari (> 2 m²) unde pierderea termică contează semnificativ
+
+---
+
+## Prețuri orientative 2026
+
+| Produs | Dimensiune | Preț estimat (fără montaj) |
+|---|---|---|
+| Smartia S67 — fereastră oscilo-batantă | 100×120 cm | 650–900 EUR |
+| Smartia S67 — ușă intrare | 90×210 cm | 900–1.200 EUR |
+| Supreme SF85 — fereastră oscilo-batantă | 100×120 cm | 900–1.300 EUR |
+| Supreme SF85 — sistem glisant | 300×230 cm | 2.800–4.000 EUR |
+
+*Prețurile variază în funcție de culoare RAL, geam (dublu/triplu), feronerie și cantitate. Solicitați ofertă personalizată.*
+
+---
+
+## Montajul contează la fel de mult ca profilul
+
+Cea mai bună fereastră cu barieră termică devine inutilă dacă este montată greșit. La Neofort BIZ folosim obligatoriu:
+
+- **Precadre Blaugelb Triotherm+** — elimină puntea termică la zona de montaj
+- **Bandă precomprimată** pe exterior — etanșare la vânt și apă
+- **Bandă antivapori** pe interior — barieră la difuzia vaporilor
+- **Distanțiere Warm Edge** în geam — elimină puntea termică la periferia vitrajului
+
+Fără aceste 4 elemente, certificarea nZEB nu este posibilă, indiferent de calitatea profilului.
+
+---
+
+## Solicită ofertă pentru tâmplărie aluminiu Alumil
+
+Trimite-ne dimensiunile și tipul deschiderilor și îți răspundem cu ofertă completă în **48 de ore**.
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro
+**Program:** Luni–Vineri, 10:00–18:00`,
+
+      en: `## What is a thermal break and why does it matter for aluminium
+
+Pure aluminium conducts heat **~200 times better than PVC**. Without any treatment, an aluminium profile would become a cold radiator in winter and a heat collector in summer — the exact opposite of what you want from a modern window.
+
+**The thermal break** solves this problem fundamentally. It is a **6.6 polyamide insert reinforced with glass fibre**, cast or pressed between the two halves of the aluminium profile. This:
+
+- Stops heat transfer between inside and outside
+- Eliminates condensation on the window frame
+- Reduces building heat losses
+- Enables **nZEB** and passive house certifications
+
+Without a thermal break, aluminium is suitable **only indoors** — partitions, showrooms, garages — where the temperature difference between the two faces of the profile is not significant.
+
+---
+
+## With vs without thermal break: direct comparison
+
+| Feature | Aluminium without break | Aluminium with 34 mm break | Aluminium with 52 mm break |
+|---|---|---|---|
+| Uf profile (W/m²K) | 5.5–7.0 | 2.0–2.5 | 1.3–1.6 |
+| Uw complete window | 3.5–5.0 | 1.4–1.8 | 0.95–1.2 |
+| Condensation on frame | Frequent | Absent | Absent |
+| Exterior use | **No** | Yes | Yes, including passive houses |
+| nZEB certification | No | Possible with triple glazing | Yes |
+| Relative cost | Low | Medium | Premium |
+
+---
+
+## Alumil systems available at Neofort BIZ
+
+### Alumil Supreme SF85 — maximum performance
+
+**34 mm polyamide** with Kooltherm inserts and insulating foam. Uf = 1.6 W/m²K, Uw = 0.95–1.1 W/m²K with triple glazing 4-16-4-16-4.
+
+Technical specifications:
+- Profile depth: **85 mm**
+- Gaskets: 3 rows co-extruded EPDM
+- Hardware: 4-point locking, RC2 burglar resistance
+- Maximum glazing: **52 mm** (triple Low-E possible)
+- Colours: **all RAL colours + wood effect** via electrostatic painting
+- Certified by **Passive House Institute (PHI)**
+
+Recommended for: premium homes, modern villas, nZEB projects, renovations with high energy requirements.
+
+### Alumil Smartia S67 — optimal value for money
+
+**Standard 34 mm polyamide**. Uf = 2.0 W/m²K, Uw = 1.2–1.4 W/m²K.
+
+Technical specifications:
+- Profile depth: **67 mm**
+- Gaskets: 2 EPDM rows
+- Hardware: 4-point locking
+- Maximum glazing: **40 mm** (double Low-E)
+- Colours: complete RAL catalogue
+
+Recommended for: apartment buildings, offices, commercial spaces, medium-to-high budget projects.
+
+### Alumil Smartia S350 — sliding systems
+
+**Tilt-and-slide** and **lift-and-slide** system with thermal break. Ideal for terraces and living rooms with large exterior openings.
+
+- Openings up to **4.5 m width** per panel
+- Uw = 1.2 W/m²K
+- RC2 anti-burglary hardware
+
+---
+
+## How to choose between 34 mm and 52 mm polyamide
+
+**Choose 34 mm (Smartia S67)** if:
+- You have a reasonable budget and want good performance
+- You are building or renovating a standard home
+- You have no nZEB or passive house certification requirements
+
+**Choose 52 mm (Supreme SF85)** if:
+- You are building an nZEB or passive house
+- Your designer has specified Uw < 1.0 W/m²K
+- You want to completely eliminate condensation and thermal bridges
+- You have large windows (> 2 m²) where heat loss matters significantly
+
+---
+
+## Installation matters as much as the profile
+
+The best thermal break window becomes useless if installed incorrectly. At Neofort BIZ we always use:
+
+- **Blaugelb Triotherm+ precasings** — eliminate the thermal bridge at the installation zone
+- **Pre-compressed tape** on the outside — wind and water sealing
+- **Anti-vapour tape** on the inside — vapour diffusion barrier
+- **Warm Edge spacers** in the glass — eliminate thermal bridge at glazing perimeter
+
+Without these 4 elements, nZEB certification is not possible, regardless of the profile quality.
+
+---
+
+## Request a quote for Alumil aluminium windows
+
+Send us your dimensions and opening types and we will reply with a complete quote within **48 hours**.
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro
+**Hours:** Monday–Friday, 10:00–18:00`,
+
+      de: `## Was ist eine Wärmedämmung und warum ist sie bei Aluminium wichtig
+
+Reines Aluminium leitet Wärme **~200 Mal besser als PVC**. Ohne jegliche Behandlung würde ein Aluminiumprofil im Winter zu einem Kälteheizkörper und im Sommer zu einem Wärmekollektor — genau das Gegenteil von dem, was Sie von einem modernen Fenster erwarten.
+
+**Die Wärmedämmung** löst dieses Problem grundlegend. Es handelt sich um einen **6.6-Polyamid-Einsatz verstärkt mit Glasfaser**, der zwischen die zwei Hälften des Aluminiumprofils gegossen oder gepresst wird. Dieser:
+
+- Stoppt den Wärmetransfer zwischen Innen- und Außenbereich
+- Beseitigt Kondensation am Fensterrahmen
+- Reduziert die Wärmeverluste des Gebäudes
+- Ermöglicht **nZEB**- und Passivhaus-Zertifizierungen
+
+Ohne Wärmedämmung ist Aluminium **nur für den Innenbereich** geeignet — Trennwände, Showrooms, Garagen — wo der Temperaturunterschied zwischen den zwei Seiten des Profils nicht signifikant ist.
+
+---
+
+## Mit vs ohne Wärmedämmung: Direktvergleich
+
+| Merkmal | Aluminium ohne Dämmung | Aluminium mit 34 mm Dämmung | Aluminium mit 52 mm Dämmung |
+|---|---|---|---|
+| Uf Profil (W/m²K) | 5,5–7,0 | 2,0–2,5 | 1,3–1,6 |
+| Uw komplettes Fenster | 3,5–5,0 | 1,4–1,8 | 0,95–1,2 |
+| Kondensation am Rahmen | Häufig | Keine | Keine |
+| Außeneinsatz | **Nein** | Ja | Ja, auch Passivhäuser |
+| nZEB-Zertifizierung | Nein | Möglich mit Dreifachverglasung | Ja |
+| Relativer Preis | Niedrig | Mittel | Premium |
+
+---
+
+## Alumil-Systeme bei Neofort BIZ
+
+### Alumil Supreme SF85 — maximale Leistung
+
+**34 mm Polyamid** mit Kooltherm-Einsätzen und Isolierschaum. Uf = 1,6 W/m²K, Uw = 0,95–1,1 W/m²K mit Dreifachverglasung 4-16-4-16-4.
+
+Technische Daten:
+- Profiltiefe: **85 mm**
+- Dichtungen: 3 Reihen co-extrudiertes EPDM
+- Beschläge: 4-Punkt-Verriegelung, Einbruchschutz RC2
+- Max. Verglasung: **52 mm** (Triple Low-E möglich)
+- Farben: **alle RAL-Farben + Holzoptik** durch elektrostatische Lackierung
+- Zertifiziert vom **Passivhaus Institut (PHI)**
+
+Empfohlen für: Premiumhäuser, moderne Villen, nZEB-Projekte, Sanierungen mit hohen Energieanforderungen.
+
+### Alumil Smartia S67 — optimales Preis-Leistungs-Verhältnis
+
+**Standard-34-mm-Polyamid**. Uf = 2,0 W/m²K, Uw = 1,2–1,4 W/m²K.
+
+Technische Daten:
+- Profiltiefe: **67 mm**
+- Dichtungen: 2 EPDM-Reihen
+- Beschläge: 4-Punkt-Verriegelung
+- Max. Verglasung: **40 mm** (Double Low-E)
+- Farben: kompletter RAL-Katalog
+
+Empfohlen für: Wohnhäuser, Büros, Gewerberäume, Projekte mit mittlerem bis hohem Budget.
+
+---
+
+## Montage ist genauso wichtig wie das Profil
+
+Das beste Wärmedämmfenster wird nutzlos, wenn es falsch eingebaut wird. Bei Neofort BIZ verwenden wir immer:
+
+- **Blaugelb Triotherm+ Vorfensterrahmen** — beseitigen die Wärmebrücke in der Einbauzone
+- **Vorkomprimiertes Band** außen — Wind- und Wasserdichtung
+- **Dampfsperrband** innen — Dampfdiffusionsbarriere
+- **Warm Edge Abstandhalter** im Glas — beseitigen die Wärmebrücke am Verglasungsrand
+
+Ohne diese 4 Elemente ist eine nZEB-Zertifizierung nicht möglich, unabhängig von der Profilqualität.
+
+---
+
+## Angebot für Alumil-Aluminiumfenster anfragen
+
+Senden Sie uns Ihre Maße und Öffnungstypen und wir antworten innerhalb von **48 Stunden** mit einem vollständigen Angebot.
+
+**WhatsApp:** +40 752 443 435
+**E-Mail:** oferte@neofort-biz.ro
+**Zeiten:** Montag–Freitag, 10:00–18:00`,
+
+      fr: `## Qu'est-ce que la rupture thermique et pourquoi est-elle importante pour l'aluminium
+
+L'aluminium pur conduit la chaleur **~200 fois mieux que le PVC**. Sans traitement, un profil aluminium deviendrait un radiateur de froid en hiver et un collecteur de chaleur en été — exactement l'inverse de ce que vous attendez d'une fenêtre moderne.
+
+**La rupture thermique** résout ce problème fondamentalement. Il s'agit d'un **insert en polyamide 6.6 renforcé de fibre de verre**, coulé ou pressé entre les deux moitiés du profil aluminium. Celui-ci :
+
+- Arrête le transfert de chaleur entre l'intérieur et l'extérieur
+- Élimine la condensation sur le cadre de la fenêtre
+- Réduit les pertes thermiques du bâtiment
+- Permet les certifications **nZEB** et maison passive
+
+Sans rupture thermique, l'aluminium ne convient **qu'à l'intérieur** — cloisons, showrooms, garages — où la différence de température entre les deux faces du profil n'est pas significative.
+
+---
+
+## Systèmes Alumil disponibles chez Neofort BIZ
+
+### Alumil Supreme SF85 — performance maximale
+
+**Polyamide 34 mm** avec inserts Kooltherm et mousse isolante. Uf = 1,6 W/m²K, Uw = 0,95–1,1 W/m²K avec triple vitrage 4-16-4-16-4.
+
+- Profondeur profil : **85 mm**
+- Joints : 3 rangées EPDM co-extrudé
+- Quincaillerie : 4 points de fermeture, résistance antieffraction RC2
+- Vitrage max : **52 mm** (triple Low-E possible)
+- Certifié **Institut Maison Passive (PHI)**
+
+### Alumil Smartia S67 — rapport qualité-prix optimal
+
+**Polyamide 34 mm standard**. Uf = 2,0 W/m²K, Uw = 1,2–1,4 W/m²K.
+
+- Profondeur profil : **67 mm**
+- Vitrage max : **40 mm** (double Low-E)
+- Couleurs : catalogue RAL complet
+
+---
+
+## Le montage est aussi important que le profil
+
+La meilleure fenêtre à rupture thermique devient inutile si elle est mal installée. Chez Neofort BIZ nous utilisons toujours :
+
+- **Précadres Blaugelb Triotherm+** — éliminent le pont thermique en zone de montage
+- **Ruban précomprimé** à l'extérieur — étanchéité au vent et à l'eau
+- **Ruban pare-vapeur** à l'intérieur — barrière à la diffusion de vapeur
+- **Espaceurs Warm Edge** dans le verre — éliminent le pont thermique en périphérie
+
+---
+
+## Demandez un devis pour les menuiseries aluminium Alumil
+
+Envoyez-nous vos dimensions et nous répondons avec un devis complet en **48 heures**.
+
+**WhatsApp :** +40 752 443 435
+**Email :** oferte@neofort-biz.ro`,
+
+      es: `## Qué es el rotura de puente térmico y por qué importa en el aluminio
+
+El aluminio puro conduce el calor **~200 veces mejor que el PVC**. Sin tratamiento, un perfil de aluminio se convertiría en un radiador de frío en invierno y un colector de calor en verano — exactamente lo contrario de lo que quieres de una ventana moderna.
+
+**El rotura de puente térmico** resuelve este problema fundamentalmente. Es un **inserto de poliamida 6.6 reforzada con fibra de vidrio**, fundido o prensado entre las dos mitades del perfil de aluminio. Este:
+
+- Detiene la transferencia de calor entre interior y exterior
+- Elimina la condensación en el marco de la ventana
+- Reduce las pérdidas térmicas del edificio
+- Permite las certificaciones **nZEB** y casa pasiva
+
+Sin rotura de puente térmico, el aluminio es adecuado **solo para interiores** — tabiques, showrooms, garajes.
+
+---
+
+## Sistemas Alumil disponibles en Neofort BIZ
+
+### Alumil Supreme SF85 — rendimiento máximo
+
+**Poliamida 34 mm** con insertos Kooltherm y espuma aislante. Uf = 1,6 W/m²K, Uw = 0,95–1,1 W/m²K con triple vidrio 4-16-4-16-4.
+
+- Profundidad perfil: **85 mm**
+- Juntas: 3 filas EPDM co-extruido
+- Herraje: 4 puntos de cierre, resistencia antiefracción RC2
+- Vidrio máximo: **52 mm** (triple Low-E posible)
+- Certificado **Passive House Institute (PHI)**
+
+### Alumil Smartia S67 — relación calidad-precio óptima
+
+**Poliamida 34 mm estándar**. Uf = 2,0 W/m²K, Uw = 1,2–1,4 W/m²K.
+
+- Profundidad perfil: **67 mm**
+- Vidrio máximo: **40 mm** (doble Low-E)
+- Colores: catálogo RAL completo
+
+---
+
+## La instalación importa tanto como el perfil
+
+La mejor ventana con rotura de puente térmico se vuelve inútil si se instala incorrectamente. En Neofort BIZ siempre usamos:
+
+- **Precercos Blaugelb Triotherm+** — eliminan el puente térmico en la zona de montaje
+- **Cinta precomprimida** en exterior — sellado al viento y al agua
+- **Cinta antivapor** en interior — barrera a la difusión de vapor
+- **Espaciadores Warm Edge** en el vidrio — eliminan el puente térmico en el perímetro
+
+---
+
+## Solicite presupuesto para carpintería aluminio Alumil
+
+Envíenos sus dimensiones y le respondemos con presupuesto completo en **48 horas**.
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro`,
+
+      it: `## Cos'è il taglio termico e perché è importante per l'alluminio
+
+L'alluminio puro conduce il calore **~200 volte meglio del PVC**. Senza trattamento, un profilo in alluminio diventerebbe un radiatore di freddo in inverno e un collettore di calore in estate — esattamente l'opposto di ciò che si vuole da una finestra moderna.
+
+**Il taglio termico** risolve questo problema fondamentalmente. È un **inserto in poliammide 6.6 rinforzata con fibra di vetro**, fuso o pressato tra le due metà del profilo in alluminio. Questo:
+
+- Ferma il trasferimento di calore tra interno ed esterno
+- Elimina la condensa sul telaio della finestra
+- Riduce le perdite termiche dell'edificio
+- Consente le certificazioni **nZEB** e casa passiva
+
+Senza taglio termico, l'alluminio è adatto **solo per interni** — tramezzi, showroom, garage.
+
+---
+
+## Sistemi Alumil disponibili da Neofort BIZ
+
+### Alumil Supreme SF85 — prestazioni massime
+
+**Poliammide 34 mm** con inserti Kooltherm e schiuma isolante. Uf = 1,6 W/m²K, Uw = 0,95–1,1 W/m²K con triplo vetro 4-16-4-16-4.
+
+- Profondità profilo: **85 mm**
+- Guarnizioni: 3 file EPDM co-estruso
+- Ferramenta: 4 punti di chiusura, resistenza antieffrazione RC2
+- Vetro massimo: **52 mm** (triplo Low-E possibile)
+- Certificato **Passive House Institute (PHI)**
+
+### Alumil Smartia S67 — ottimo rapporto qualità-prezzo
+
+**Poliammide 34 mm standard**. Uf = 2,0 W/m²K, Uw = 1,2–1,4 W/m²K.
+
+- Profondità profilo: **67 mm**
+- Vetro massimo: **40 mm** (doppio Low-E)
+- Colori: catalogo RAL completo
+
+---
+
+## Il montaggio è importante quanto il profilo
+
+La migliore finestra con taglio termico diventa inutile se installata in modo errato. Da Neofort BIZ utilizziamo sempre:
+
+- **Precornici Blaugelb Triotherm+** — eliminano il ponte termico nella zona di installazione
+- **Nastro precompresso** all'esterno — tenuta al vento e all'acqua
+- **Nastro antivapore** all'interno — barriera alla diffusione del vapore
+- **Distanziatori Warm Edge** nel vetro — eliminano il ponte termico in periferia
+
+---
+
+## Richiedi un preventivo per infissi alluminio Alumil
+
+Inviaci le tue dimensioni e rispondiamo con preventivo completo in **48 ore**.
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro`,
+    },
+  },
+
+  // ─── ARTICOL 6: Pereți cortină și fațade din sticlă ────────────────────
+  {
+    slugs: {
+      ro: 'pereti-cortina-fatade-sticla-ghid-complet',
+      en: 'curtain-wall-glass-facades-complete-guide',
+      de: 'vorhangfassade-glasfassade-komplett-leitfaden',
+      fr: 'mur-rideau-facade-verre-guide-complet',
+      es: 'muro-cortina-fachada-vidrio-guia-completa',
+      it: 'parete-cortina-facciata-vetro-guida-completa',
+    },
+    date: '2026-03-15',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'15 Martie 2026', en:'March 15, 2026', de:'15. März 2026', fr:'15 mars 2026', es:'15 de marzo de 2026', it:'15 marzo 2026' },
+    category: { ro:'Pereți Cortină', en:'Curtain Wall', de:'Vorhangfassade', fr:'Mur Rideau', es:'Muro Cortina', it:'Parete Cortina' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-pereti-cortina-fatade.avif',
+      en: '/blog/blog-pereti-cortina-fatade.avif',
+      de: '/blog/blog-pereti-cortina-fatade.avif',
+      fr: '/blog/blog-pereti-cortina-fatade.avif',
+      es: '/blog/blog-pereti-cortina-fatade.avif',
+      it: '/blog/blog-pereti-cortina-fatade.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1628 0%,#1a3a5c 60%,#2d6a9f 100%)',
+    imageLabel: 'Pereți Cortină',
+    accentColor: '#1a3a5c',
+    title: {
+      ro: 'Pereți cortină și fațade din sticlă — ghid complet 2026: tipuri, prețuri și sisteme Alumil',
+      en: 'Curtain walls and glass facades — complete guide 2026: types, prices and Alumil systems',
+      de: 'Vorhangfassaden und Glasfassaden — Komplettleitfaden 2026: Typen, Preise und Alumil-Systeme',
+      fr: 'Murs rideaux et façades en verre — guide complet 2026 : types, prix et systèmes Alumil',
+      es: 'Muros cortina y fachadas de vidrio — guía completa 2026: tipos, precios y sistemas Alumil',
+      it: 'Pareti cortina e facciate in vetro — guida completa 2026: tipi, prezzi e sistemi Alumil',
+    },
+    excerpt: {
+      ro: 'Peretele cortină este o fațadă autoportantă din aluminiu și sticlă care nu preia sarcini structurale. Există 3 tipuri principale — standard, semi-structural și structural — cu prețuri între 800 și 2.500 lei/m². Ghid complet: cum alegi sistemul potrivit, ce sisteme Alumil livrăm și care sunt pașii de la proiect la montaj.',
+      en: 'The curtain wall is a self-supporting aluminium and glass facade that bears no structural loads. There are 3 main types — standard, semi-structural and structural — with prices between €160 and €500/m². Complete guide: how to choose the right system, which Alumil systems we supply and the steps from design to installation.',
+      de: 'Die Vorhangfassade ist eine selbsttragende Aluminium-Glas-Fassade ohne strukturelle Lasten. Es gibt 3 Haupttypen — Standard, halb-strukturell und strukturell — mit Preisen zwischen 160 und 500 €/m². Komplettleitfaden: wie Sie das richtige System wählen, welche Alumil-Systeme wir liefern und die Schritte von der Planung bis zur Montage.',
+      fr: 'Le mur rideau est une façade autoportante en aluminium et verre sans charges structurales. Il existe 3 types principaux — standard, semi-structurel et structurel — avec des prix entre 160 et 500 €/m². Guide complet : comment choisir le bon système, quels systèmes Alumil nous fournissons et les étapes du projet au montage.',
+      es: 'El muro cortina es una fachada autoportante de aluminio y vidrio sin cargas estructurales. Existen 3 tipos principales — estándar, semi-estructural y estructural — con precios entre 160 y 500 €/m². Guía completa: cómo elegir el sistema adecuado, qué sistemas Alumil suministramos y los pasos del proyecto al montaje.',
+      it: 'La parete cortina è una facciata autoportante in alluminio e vetro senza carichi strutturali. Esistono 3 tipi principali — standard, semi-strutturale e strutturale — con prezzi tra 160 e 500 €/m². Guida completa: come scegliere il sistema giusto, quali sistemi Alumil forniamo e i passi dal progetto all\'installazione.',
+    },
+    metaDesc: {
+      ro: 'Ghid complet 2026 pereți cortină: tipuri standard, semi-structural și structural, sisteme Alumil CW50 și CW60, prețuri 800–2.500 lei/m², etape proiect, montaj și certificare energetică.',
+      en: 'Complete 2026 curtain wall guide: standard, semi-structural and structural types, Alumil CW50 and CW60 systems, prices 160–500 €/m², project stages, installation and energy certification.',
+      de: 'Komplettleitfaden 2026 Vorhangfassade: Standard-, halb-strukturelle und strukturelle Typen, Alumil CW50 und CW60 Systeme, Preise 160–500 €/m², Projektphasen, Montage und Energiezertifizierung.',
+      fr: 'Guide complet 2026 mur rideau : types standard, semi-structurel et structurel, systèmes Alumil CW50 et CW60, prix 160–500 €/m², étapes projet, montage et certification énergétique.',
+      es: 'Guía completa 2026 muro cortina: tipos estándar, semi-estructural y estructural, sistemas Alumil CW50 y CW60, precios 160–500 €/m², etapas del proyecto, montaje y certificación energética.',
+      it: 'Guida completa 2026 parete cortina: tipi standard, semi-strutturale e strutturale, sistemi Alumil CW50 e CW60, prezzi 160–500 €/m², fasi del progetto, installazione e certificazione energetica.',
+    },
+    keywords: 'pereti cortina aluminiu sticla, fatada cortina pret, perete cortina structural, perete cortina semi-structural, Alumil CW50, fatade din sticla cladiri, pereti cortina pret mp, montaj pereti cortina Romania',
+    content: {
+      ro: `## Ce este un perete cortină
+
+Peretele cortină este o **fațadă exterioară autoportantă**, realizată din profile de aluminiu și sticlă, care:
+
+- **Nu preia nicio sarcină structurală** a clădirii — greutatea proprie este transferată la planșeele sau stâlpii clădirii
+- Protejează interiorul împotriva precipitațiilor, vântului și variațiilor termice
+- Asigură lumină naturală maximă în spații mari
+- Definește identitatea arhitecturală a clădirii
+
+Diferența față de o fereastră obișnuită sau un vitraj mare: **peretele cortină acoperă una sau mai multe fațade complete**, fără întrerupere între etaje, creând efectul de „clădire din sticlă".
+
+---
+
+## Cele 3 tipuri de pereți cortină
+
+### 1. Perete cortină standard (clasic)
+
+Profilul de aluminiu este **vizibil din exterior**, fixând geamul cu capace presoare. Este cel mai frecvent utilizat și cel mai accesibil ca preț.
+
+**Caracteristici:**
+- Capace presoare vizibile din exterior (linie orizontală + verticală)
+- Sticlă termopan dublu sau triplu, grosimi 24–48 mm
+- Rezistență la vânt clasa C3
+- Impermeabilitate clasa E1050
+- **Preț: 800–1.200 lei/m²** (inclusiv montaj)
+
+**Recomandat pentru:** clădiri de birouri, spații comerciale, showroom-uri, hale industriale cu zonă de birou.
+
+### 2. Perete cortină semi-structural
+
+Profilele sunt **vizibile doar pe o direcție** (vertical sau orizontal), celelalte laturi ale geamului fiind lipite cu silicon structural. Rezultatul este un aspect mai curat, cu linii subțiri.
+
+**Caracteristici:**
+- Profile vizibile pe o singură axă
+- Silicon structural Dow Corning pe celelalte laturi
+- Aspect modern, linii fine
+- **Preț: 1.200–1.800 lei/m²** (inclusiv montaj)
+
+**Recomandat pentru:** clădiri moderne de birouri, hoteluri, rezidențe de lux.
+
+### 3. Perete cortină structural (spider glass / patch fitting)
+
+**Profilele de aluminiu sunt complet invizibile din exterior.** Geamul este prins cu puncte (spider fittings) sau lipit în totalitate cu silicon structural. Rezultatul este o suprafață perfect continuă de sticlă.
+
+**Caracteristici:**
+- Zero profile vizibile din exterior
+- Silicon structural pe toate 4 laturile sau sistem spider
+- Aspect de „oglindă" continuă
+- Cel mai pretențios la montaj — necesită personal certificat
+- **Preț: 1.800–2.500 lei/m²** (inclusiv montaj)
+
+**Recomandat pentru:** clădiri premium, sedii corporative, proiecte arhitecturale de referință.
+
+---
+
+## Sisteme Alumil pentru pereți cortină — ce livrăm la Neofort BIZ
+
+### Alumil CW50 — sistem standard
+
+Profilele cu adâncimea de **50 mm**, cu barieră termică poliamidă. Modulul de bază este de 50×150 mm.
+
+- Uw ansamblu: 1,3–1,6 W/m²K (geam dublu Low-E)
+- Rezistență la vânt: C3/B3
+- Impermeabilitate: E750/E1050
+- Geam max: 48 mm
+
+### Alumil CW60 — sistem premium cu profil îngust
+
+Profil vizibil de **60 mm**, barieră termică 34 mm. Aspect minimalist, ideal pentru arhitectura contemporană.
+
+- Uw ansamblu: 1,1–1,4 W/m²K
+- Compatibil cu geam triplu Low-E
+- Sisteme de umbrire integrate: raffstore, jaluzele
+
+---
+
+## Tipuri de sticlă pentru fațade cortină
+
+Alegerea sticlei influențează major performanța termică, acustică și aspectul clădirii:
+
+| Tip sticlă | Transmisie lumină | Factor solar g | Utilizare |
+|---|---|---|---|
+| Sticlă clară 4+16+4 | 80% | 0,62 | Birouri cu umbrire externă |
+| Low-E 4+16+4 | 72% | 0,38 | Clădiri nZEB standard |
+| Low-E triplu 4+12+4+12+4 | 68% | 0,32 | nZEB, case pasive |
+| Sticlă reflexivă | 40–60% | 0,20–0,35 | Clădiri cu soare direct, sudul României |
+| Sticlă securizată laminată | 70% | 0,50 | Zonă pietonală, etaje inferioare |
+
+**Recomandare Neofort BIZ:** pentru proiectele noi din România, recomandăm geam dublu Low-E 4+16+4 cu gaz argon ca standard, și triplu Low-E pentru proiectele certificate nZEB.
+
+---
+
+## Etapele unui proiect de perete cortină
+
+Spre deosebire de tâmplăria obișnuită, un perete cortină necesită **coordonare cu proiectantul structural**:
+
+**1. Consultare și măsurători (1–2 zile)**
+Deplasare pe șantier, măsurători precise, verificarea structurii de fixare existente.
+
+**2. Proiectare tehnică (3–7 zile)**
+Plan de față cu detalii de îmbinare, calcul structural de vânt, selecție sticlă și profile.
+
+**3. Producție (15–30 zile)**
+Profile tăiate și prelucrate la fabrică, geam comandat de la furnizor (Saint-Gobain).
+
+**4. Transport și montaj (3–10 zile funcție de suprafață)**
+Echipă specializată. Montajul pereților cortină necesită schele sau platformă elevatoare.
+
+**5. Etanșare și probe (1–2 zile)**
+Test impermeabilitate, verificare vizuală, sigilare definitivă.
+
+---
+
+## Prețuri orientative pereți cortină 2026
+
+| Tip sistem | Suprafață | Preț estimat (inclusiv montaj) |
+|---|---|---|
+| Standard CW50, geam dublu Low-E | 50–100 m² | 900–1.100 lei/m² |
+| Standard CW50, geam dublu Low-E | > 100 m² | 800–950 lei/m² |
+| Semi-structural, geam dublu Low-E | 50–100 m² | 1.300–1.600 lei/m² |
+| Structural spider, geam securizat | orice | 2.000–2.500 lei/m² |
+
+*Prețurile nu includ TVA și pot varia în funcție de înălțimea clădirii, complexitatea formei și tipul sticlei. Solicitați ofertă personalizată.*
+
+---
+
+## De ce Neofort BIZ pentru pereți cortină
+
+Lucrăm exclusiv cu **profile Alumil** certificate european, cu garnituri EPDM și silicon structural Dow Corning. Oferim:
+
+- Proiectare tehnică inclusă în ofertă
+- Garanție **5 ani** pe etanșeitate
+- Echipă proprie de montaj specializată
+- Livrare și montaj în toată România și UE
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro
+**Program:** Luni–Vineri, 10:00–18:00`,
+
+      en: `## What is a curtain wall
+
+A curtain wall is a **self-supporting exterior facade**, made of aluminium profiles and glass, that:
+
+- **Bears no structural loads** of the building — its own weight is transferred to the building's slabs or columns
+- Protects the interior against precipitation, wind and thermal variations
+- Provides maximum natural light in large spaces
+- Defines the architectural identity of the building
+
+The difference from a regular window or large glazing: **a curtain wall covers one or more complete facades**, without interruption between floors, creating the effect of a "glass building".
+
+---
+
+## The 3 types of curtain walls
+
+### 1. Standard curtain wall (stick system)
+
+The aluminium profile is **visible from the outside**, fixing the glass with pressure caps. It is the most commonly used and most affordable.
+
+**Characteristics:**
+- Visible pressure caps from the outside (horizontal + vertical line)
+- Double or triple glazing, 24–48 mm thickness
+- Wind resistance class C3
+- Watertightness class E1050
+- **Price: €160–240/m²** (including installation)
+
+**Recommended for:** office buildings, commercial spaces, showrooms, industrial halls with office area.
+
+### 2. Semi-structural curtain wall
+
+Profiles are **visible in only one direction** (vertical or horizontal), with the other sides bonded with structural silicone. The result is a cleaner appearance with thin lines.
+
+**Price: €240–360/m²** (including installation)
+
+### 3. Structural curtain wall (spider glass)
+
+**Aluminium profiles are completely invisible from the outside.** Glass is held by spider fittings or fully bonded with structural silicone.
+
+**Price: €360–500/m²** (including installation)
+
+---
+
+## Alumil curtain wall systems at Neofort BIZ
+
+### Alumil CW50 — standard system
+- Visible profile: **50 mm**
+- Polyamide thermal break
+- Uw assembly: 1.3–1.6 W/m²K (double Low-E glass)
+- Wind resistance: C3/B3
+
+### Alumil CW60 — premium narrow profile
+- Visible profile: **60 mm**
+- 34 mm thermal break
+- Compatible with triple Low-E glass
+- Integrated shading: raffstore, venetian blinds
+
+---
+
+## Glass types for curtain walls
+
+| Glass type | Light transmission | Solar factor g | Use |
+|---|---|---|---|
+| Clear 4+16+4 | 80% | 0.62 | Offices with external shading |
+| Low-E 4+16+4 | 72% | 0.38 | Standard nZEB buildings |
+| Triple Low-E 4+12+4+12+4 | 68% | 0.32 | nZEB, passive houses |
+| Reflective glass | 40–60% | 0.20–0.35 | Direct sun exposure |
+| Laminated safety glass | 70% | 0.50 | Pedestrian areas, lower floors |
+
+---
+
+## Project steps for a curtain wall
+
+**1. Consultation and measurements (1–2 days)**
+Site visit, precise measurements, verification of existing fixing structure.
+
+**2. Technical design (3–7 days)**
+Elevation plan with joining details, wind load calculation, glass and profile selection.
+
+**3. Production (15–30 days)**
+Profiles cut and processed at the factory, glass ordered from supplier (Saint-Gobain).
+
+**4. Transport and installation (3–10 days depending on area)**
+Specialised team. Curtain wall installation requires scaffolding or lifting platform.
+
+**5. Sealing and testing (1–2 days)**
+Watertightness test, visual inspection, final sealing.
+
+---
+
+## Request a quote for curtain walls
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro
+**Hours:** Monday–Friday, 10:00–18:00`,
+
+      de: `## Was ist eine Vorhangfassade
+
+Eine Vorhangfassade ist eine **selbsttragende Außenfassade** aus Aluminiumprofilen und Glas, die:
+
+- **Keine Strukturlasten** des Gebäudes trägt — das Eigengewicht wird auf die Decken oder Stützen des Gebäudes übertragen
+- Das Innere vor Niederschlag, Wind und Temperaturschwankungen schützt
+- Maximales Tageslicht in großen Räumen bietet
+- Die architektonische Identität des Gebäudes prägt
+
+---
+
+## Die 3 Typen von Vorhangfassaden
+
+### 1. Standard-Vorhangfassade
+
+Das Aluminiumprofil ist **von außen sichtbar** und fixiert das Glas mit Andruckleisten.
+
+- Windwiderstand Klasse C3
+- Wasserdichtigkeit Klasse E1050
+- **Preis: 160–240 €/m²** (inkl. Montage)
+
+### 2. Halb-strukturelle Vorhangfassade
+
+Profile **nur in einer Richtung sichtbar**, andere Seiten mit Structural Silicone verklebt.
+
+- **Preis: 240–360 €/m²** (inkl. Montage)
+
+### 3. Strukturelle Vorhangfassade (Spider-Glas)
+
+**Aluminiumprofile von außen komplett unsichtbar.** Glas durch Spider-Fittings gehalten oder vollflächig mit Structural Silicone verklebt.
+
+- **Preis: 360–500 €/m²** (inkl. Montage)
+
+---
+
+## Alumil-Vorhangfassadensysteme bei Neofort BIZ
+
+### Alumil CW50 — Standardsystem
+- Sichtbares Profil: **50 mm**, Polyamid-Wärmedämmung
+- Uw Fassade: 1,3–1,6 W/m²K
+
+### Alumil CW60 — Premium-Schmalprofilsystem
+- Sichtbares Profil: **60 mm**, 34 mm Wärmedämmung
+- Kompatibel mit Dreifach-Low-E-Glas
+
+---
+
+## Projektphasen einer Vorhangfassade
+
+1. **Beratung und Aufmaß** (1–2 Tage)
+2. **Technische Planung** (3–7 Tage)
+3. **Produktion** (15–30 Tage)
+4. **Transport und Montage** (3–10 Tage)
+5. **Abdichtung und Tests** (1–2 Tage)
+
+---
+
+## Angebot für Vorhangfassaden anfragen
+
+**WhatsApp:** +40 752 443 435
+**E-Mail:** oferte@neofort-biz.ro
+**Zeiten:** Montag–Freitag, 10:00–18:00`,
+
+      fr: `## Qu'est-ce qu'un mur rideau
+
+Un mur rideau est une **façade extérieure autoportante** en aluminium et verre, qui ne reprend aucune charge structurale du bâtiment.
+
+---
+
+## Les 3 types de murs rideaux
+
+### 1. Mur rideau standard
+
+Profile aluminium **visible de l'extérieur**, fixant le vitrage avec des couvre-joints. Le plus courant et le plus abordable.
+
+- **Prix : 160–240 €/m²** (montage inclus)
+
+### 2. Mur rideau semi-structurel
+
+Profilés visibles **dans une seule direction**, les autres côtés collés au silicone structurel.
+
+- **Prix : 240–360 €/m²** (montage inclus)
+
+### 3. Mur rideau structurel (spider glass)
+
+**Profilés aluminium totalement invisibles de l'extérieur.** Vitrage maintenu par spider fittings ou collé au silicone structurel sur 4 côtés.
+
+- **Prix : 360–500 €/m²** (montage inclus)
+
+---
+
+## Systèmes Alumil disponibles chez Neofort BIZ
+
+### Alumil CW50 — système standard
+- Profil visible : **50 mm**, rupture thermique polyamide
+- Uw façade : 1,3–1,6 W/m²K
+
+### Alumil CW60 — système premium profil étroit
+- Profil visible : **60 mm**, rupture thermique 34 mm
+- Compatible triple Low-E
+
+---
+
+## Étapes d'un projet de mur rideau
+
+1. **Consultation et métrés** (1–2 jours)
+2. **Conception technique** (3–7 jours)
+3. **Production** (15–30 jours)
+4. **Transport et montage** (3–10 jours)
+5. **Étanchéité et tests** (1–2 jours)
+
+---
+
+## Demandez un devis pour murs rideaux
+
+**WhatsApp :** +40 752 443 435
+**Email :** oferte@neofort-biz.ro`,
+
+      es: `## Qué es un muro cortina
+
+Un muro cortina es una **fachada exterior autoportante** de aluminio y vidrio que no soporta cargas estructurales del edificio.
+
+---
+
+## Los 3 tipos de muros cortina
+
+### 1. Muro cortina estándar
+
+Perfil de aluminio **visible desde el exterior**, fijando el vidrio con tapas presoras.
+
+- **Precio: 160–240 €/m²** (montaje incluido)
+
+### 2. Muro cortina semi-estructural
+
+Perfiles visibles **solo en una dirección**, otros lados pegados con silicona estructural.
+
+- **Precio: 240–360 €/m²** (montaje incluido)
+
+### 3. Muro cortina estructural (spider glass)
+
+**Perfiles de aluminio completamente invisibles desde el exterior.**
+
+- **Precio: 360–500 €/m²** (montaje incluido)
+
+---
+
+## Sistemas Alumil en Neofort BIZ
+
+### Alumil CW50 — sistema estándar
+- Perfil visible: **50 mm**, rotura de puente térmico
+- Uw fachada: 1,3–1,6 W/m²K
+
+### Alumil CW60 — sistema premium perfil estrecho
+- Perfil visible: **60 mm**, rotura 34 mm
+- Compatible triple Low-E
+
+---
+
+## Etapas de un proyecto de muro cortina
+
+1. **Consulta y mediciones** (1–2 días)
+2. **Diseño técnico** (3–7 días)
+3. **Producción** (15–30 días)
+4. **Transporte e instalación** (3–10 días)
+5. **Sellado y pruebas** (1–2 días)
+
+---
+
+## Solicite presupuesto para muros cortina
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro`,
+
+      it: `## Cos'è una parete cortina
+
+Una parete cortina è una **facciata esterna autoportante** in alluminio e vetro che non sopporta carichi strutturali dell'edificio.
+
+---
+
+## I 3 tipi di pareti cortina
+
+### 1. Parete cortina standard
+
+Profilo in alluminio **visibile dall'esterno**, che fissa il vetro con pressori.
+
+- **Prezzo: 160–240 €/m²** (installazione inclusa)
+
+### 2. Parete cortina semi-strutturale
+
+Profili visibili **solo in una direzione**, gli altri lati incollati con silicone strutturale.
+
+- **Prezzo: 240–360 €/m²** (installazione inclusa)
+
+### 3. Parete cortina strutturale (spider glass)
+
+**Profili in alluminio completamente invisibili dall'esterno.**
+
+- **Prezzo: 360–500 €/m²** (installazione inclusa)
+
+---
+
+## Sistemi Alumil da Neofort BIZ
+
+### Alumil CW50 — sistema standard
+- Profilo visibile: **50 mm**, taglio termico
+- Uw facciata: 1,3–1,6 W/m²K
+
+### Alumil CW60 — sistema premium profilo stretto
+- Profilo visibile: **60 mm**, taglio termico 34 mm
+- Compatibile triplo Low-E
+
+---
+
+## Fasi di un progetto di parete cortina
+
+1. **Consulenza e misurazioni** (1–2 giorni)
+2. **Progettazione tecnica** (3–7 giorni)
+3. **Produzione** (15–30 giorni)
+4. **Trasporto e installazione** (3–10 giorni)
+5. **Sigillatura e collaudi** (1–2 giorni)
+
+---
+
+## Richiedi un preventivo per pareti cortina
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro`,
+    },
+  },
 ];
 
 // Găsește articol după slug în orice limbă
@@ -2799,3 +3832,4 @@ export function getAllLocaleSlugPairs() {
     locales.map(locale => ({ locale, slug: a.slugs[locale] || a.slugs.ro }))
   );
 }
+
