@@ -180,9 +180,9 @@ export async function generateMetadata({ params }) {
       type:'website', url:`${BASE}/${locale}/umbrire/${localSlug}`,
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
       images:[{ url:`${BASE}${product.img}`, width:800, height:600, alt:name }],
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img}`] },
     },
   }
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img}`] },;
 }
 
 export default async function UmbrireProductPage({ params }) {
