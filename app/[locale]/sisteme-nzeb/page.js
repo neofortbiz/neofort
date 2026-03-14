@@ -51,7 +51,7 @@ const A = [
   { slug:'geamuri-termopan-saint-gobain', img:'/accessories/geam-termopan-saint-gobain.avif', color:'#2d5a8e',
     cat:{ ro:'Geam termoizolator', en:'Thermal Glazing', de:'Wärmeschutzverglasung', fr:'Vitrage thermique', es:'Acristalamiento térmico', it:'Vetro termoisolante' },
     name:{ ro:'Geamuri Termopan Saint Gobain', en:'Thermal Glass Saint Gobain', de:'Isolierglas Saint Gobain', fr:'Verre isolant Saint Gobain', es:'Vidrio aislante Saint Gobain', it:'Vetro termoisolante Saint Gobain' },
-    specs:{ ro:[['Planitherm XN','Low-e coating'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 suprafețe'],['Planistar SUN','Control solar'],['Stadip SILENCE','Fonoizolant'],['Protecție termică și fonică','Da'],['Utilizare conformă nZEB','Da']], en:[['Planitherm XN','Low-e coating'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 surfaces'],['Planistar SUN','Solar control'],['Stadip SILENCE','Sound insulation'],['Thermal & sound protection','Yes'],['nZEB compliant','Yes']], de:[['Planitherm XN','Low-e-Beschichtung'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 Oberflächen'],['Planistar SUN','Sonnenschutzkontrolle'],['Stadip SILENCE','Schalldämmung'],['Wärme- und Schallschutz','Ja'],['nZEB-konform','Ja']], fr:[['Planitherm XN','Revêtement low-e'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 surfaces'],['Planistar SUN','Contrôle solaire'],['Stadip SILENCE','Isolation phonique'],['Protection thermique et phonique','Oui'],['Conforme nZEB','Oui']], es:[['Planitherm XN','Revestimiento low-e'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 superficies'],['Planistar SUN','Control solar'],['Stadip SILENCE','Aislamiento acústico'],['Protección térmica y acústica','Sí'],['Conforme nZEB','Sí']], it:[['Planitherm XN','Rivestimento low-e'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 superfici'],['Planistar SUN','Controllo solare'],['Stadip SILENCE','Isolamento acustico'],['Protezione termica e acustica','Sì'],['Conforme nZEB','Sì']] },
+    specs:{ ro:[['Planitherm XN','Low-e coating'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 Anotimpuri (4S)'],['Planistar SUN','Control solar'],['Stadip SILENCE','Fonoizolant'],['Protecție termică și fonică','Da'],['Utilizare conformă nZEB','Da']], en:[['Planitherm XN','Low-e coating'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 Seasons (4S)'],['Planistar SUN','Solar control'],['Stadip SILENCE','Sound insulation'],['Thermal & sound protection','Yes'],['nZEB compliant','Yes']], de:[['Planitherm XN','Low-e-Beschichtung'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 Jahreszeiten (4S)'],['Planistar SUN','Sonnenschutzkontrolle'],['Stadip SILENCE','Schalldämmung'],['Wärme- und Schallschutz','Ja'],['nZEB-konform','Ja']], fr:[['Planitherm XN','Revêtement low-e'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 Seasons (4S)'],['Planistar SUN','Contrôle solaire'],['Stadip SILENCE','Isolation phonique'],['Protection thermique et phonique','Oui'],['Conforme nZEB','Oui']], es:[['Planitherm XN','Revestimiento low-e'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 Estaciones (4S)'],['Planistar SUN','Control solar'],['Stadip SILENCE','Aislamiento acústico'],['Protección térmica y acústica','Sí'],['Conforme nZEB','Sí']], it:[['Planitherm XN','Rivestimento low-e'],['Planitherm ONE','Ultra low-e'],['Planitherm 4S Evolution','4 Stagioni (4S)'],['Planistar SUN','Controllo solare'],['Stadip SILENCE','Isolamento acustico'],['Protezione termica e acustica','Sì'],['Conforme nZEB','Sì']] },
     desc:{ ro:'Pachete de sticlă termoizolantă Saint-Gobain SGG. Gamă completă de soluții low-e, control solar și fonoizolare. Compatibile cu profilele PVC Salamander și aluminiu Alumil.', en:'Saint-Gobain SGG thermal insulating glass packages. Complete range of low-e, solar control and sound insulation solutions. Compatible with Salamander PVC and Alumil aluminium profiles.', de:'Wärmeschutzisolierglas Saint-Gobain SGG. Komplettes Sortiment mit Low-e, Sonnenschutzkontrolle und Schalldämmung. Kompatibel mit Salamander PVC- und Alumil-Aluminiumprofilen.', fr:'Packages vitrage isolant Saint-Gobain SGG. Gamme complète low-e, contrôle solaire et phonique. Compatibles avec profils PVC Salamander et aluminium Alumil.', es:'Paquetes vidrio aislante Saint-Gobain SGG. Gama completa low-e, control solar y acústico. Compatibles con perfiles PVC Salamander y aluminio Alumil.', it:'Pacchetti vetro termoisolante Saint-Gobain SGG. Gamma completa low-e, controllo solare e acustico. Compatibili con profili PVC Salamander e alluminio Alumil.' },
   }
 ];
@@ -148,14 +148,13 @@ export default async function Page({ params }) {
         </div>
       </section>
 
-      <section aria-label={cta.tag} style={{background:'#111', padding:'64px 0'}}>
-        <div className="container mx-auto px-6 text-center">
-          <h2 className="font-condensed text-3xl md:text-4xl font-semibold mb-6" style={{color:'#fff'}}>
-            {cta.h2a} <span style={{color:'#e8721c'}}>{cta.h2b}</span> {cta.h2c}
-          </h2>
-          <Link href="/contact" className="btn-primary" style={{display:'inline-block', marginTop:'8px'}}>
-            {locale === 'ro' ? 'Cerere ofertă' : locale === 'de' ? 'Angebot anfragen' : locale === 'fr' ? 'Demander un devis' : locale === 'es' ? 'Pedir presupuesto' : locale === 'it' ? 'Richiedi preventivo' : 'Request quote'}
-          </Link>
+      <section aria-label={cta.tag} style={{background:'#111',padding:'0'}}>
+        <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
+          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
+            {cta.h2a}{' '}
+            <span style={{textDecoration:'underline'}}>{cta.h2b}</span>
+            {' '}{cta.h2c}
+          </p>
         </div>
       </section>
     </>

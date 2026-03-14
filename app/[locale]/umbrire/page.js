@@ -33,7 +33,7 @@ const A = [
   { slug:'jaluzele-venetiene-raffstore', img:'/accessories/jaluzele-raffstore.avif', color:'#e8721c',
     cat:{ ro:'Protecție solară', en:'Solar Protection', de:'Sonnenschutz', fr:'Protection solaire', es:'Protección solar', it:'Protezione solare' },
     name:{ ro:'Jaluzele Venețiene Raffstore', en:'Venetian Raffstore Blinds', de:'Raffstore Jalousien', fr:'Persiennes Vénitiennes Raffstore', es:'Persianas Venecianas Raffstore', it:'Veneziane Raffstore' },
-    specs:{ ro:[['Lamele','Aluminiu'],['Acționare','Electric · Domotică'],['Culori','Gamă completă RAL'],['Casetă','Aparentă sau încastrată'],['Rezistență vânt','Până la 600 Pa'],['Telecomandă','Cu sau fără întrerupător']], en:[['Slats','Aluminium'],['Drive','Electric · Home automation'],['Colours','Full RAL range'],['Box','Visible or recessed'],['Wind resistance','Up to 600 Pa'],['Remote','With or without switch']], de:[['Lamellen','Aluminium'],['Antrieb','Elektrisch · Hausautomation'],['Farben','Komplette RAL-Palette'],['Kasten','Sichtbar oder eingelassen'],['Windwiderstand','Bis 600 Pa'],['Fernbedienung','Mit oder ohne Schalter']], fr:[['Lames','Aluminium'],['Commande','Électrique · Domotique'],['Couleurs','Gamme RAL complète'],['Caisson','Apparent ou encastré'],['Résistance vent','Jusqu\'à 600 Pa'],['Télécommande','Avec ou sans interrupteur']], es:[['Lamas','Aluminio'],['Accionamiento','Eléctrico · Domótica'],['Colores','Gama RAL completa'],['Cajón','Visto o empotrado'],['Resistencia viento','Hasta 600 Pa'],['Mando','Con o sin interruptor']], it:[['Stecche','Alluminio'],['Azionamento','Elettrico · Domotica'],['Colori','Gamma RAL completa'],['Cassonetto','A vista o incassato'],['Resistenza vento','Fino a 600 Pa'],['Telecomando','Con o senza interruttore']] },
+    specs:{ ro:[['Lamele','Aluminiu'],['Acționare','Electric · Automatizare'],['Culori','Gamă completă RAL'],['Casetă','Aparentă sau încastrată'],['Rezistență vânt','Până la 600 Pa'],['Telecomandă','Cu sau fără întrerupător']], en:[['Slats','Aluminium'],['Drive','Electric · Home automation'],['Colours','Full RAL range'],['Box','Visible or recessed'],['Wind resistance','Up to 600 Pa'],['Remote','With or without switch']], de:[['Lamellen','Aluminium'],['Antrieb','Elektrisch · Hausautomation'],['Farben','Komplette RAL-Palette'],['Kasten','Sichtbar oder eingelassen'],['Windwiderstand','Bis 600 Pa'],['Fernbedienung','Mit oder ohne Schalter']], fr:[['Lames','Aluminium'],['Commande','Électrique · Domotique'],['Couleurs','Gamme RAL complète'],['Caisson','Apparent ou encastré'],['Résistance vent','Jusqu\'à 600 Pa'],['Télécommande','Avec ou sans interrupteur']], es:[['Lamas','Aluminio'],['Accionamiento','Eléctrico · Domótica'],['Colores','Gama RAL completa'],['Cajón','Visto o empotrado'],['Resistencia viento','Hasta 600 Pa'],['Mando','Con o sin interruptor']], it:[['Stecche','Alluminio'],['Azionamento','Elettrico · Domotica'],['Colori','Gamma RAL completa'],['Cassonetto','A vista o incassato'],['Resistenza vento','Fino a 600 Pa'],['Telecomando','Con o senza interruttore']] },
     desc:{ ro:'Raffstore este categoria de jaluzele venețiene exterioare de înaltă performanță. Lamelele au o curbură specială și pot fi orientate la orice unghi — de la lumină maximă la întuneric complet.', en:'Raffstore high-performance exterior venetian blinds. Special curved slats oriented at any angle — from maximum light to complete darkness.', de:'Raffstore hochwertige Außenjalousien. Spezielle gekrümmte Lamellen in jedem Winkel ausrichtbar — von maximalem Licht bis völliger Dunkelheit.', fr:'Raffstore stores vénitiens extérieurs haute performance. Lames à courbure spéciale orientables à tout angle — de la lumière maximale à l\'obscurité totale.', es:'Raffstore persianas venecianas exteriores de alto rendimiento. Lamas de curvatura especial orientables a cualquier ángulo — de luz máxima a oscuridad total.', it:'Raffstore veneziane esterne ad alte prestazioni. Stecche a curvatura speciale orientabili a qualsiasi angolo — dalla luce massima al buio completo.' },
   }
 ];
@@ -130,14 +130,13 @@ export default async function Page({ params }) {
         </div>
       </section>
 
-      <section aria-label={cta.tag} style={{background:'#111', padding:'64px 0'}}>
-        <div className="container mx-auto px-6 text-center">
-          <h2 className="font-condensed text-3xl md:text-4xl font-semibold mb-6" style={{color:'#fff'}}>
-            {cta.h2a} <span style={{color:'#e8721c'}}>{cta.h2b}</span> {cta.h2c}
-          </h2>
-          <Link href="/contact" className="btn-primary" style={{display:'inline-block', marginTop:'8px'}}>
-            {locale === 'ro' ? 'Cerere ofertă' : locale === 'de' ? 'Angebot anfragen' : locale === 'fr' ? 'Demander un devis' : locale === 'es' ? 'Pedir presupuesto' : locale === 'it' ? 'Richiedi preventivo' : 'Request quote'}
-          </Link>
+      <section aria-label={cta.tag} style={{background:'#111',padding:'0'}}>
+        <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
+          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
+            {cta.h2a}{' '}
+            <span style={{textDecoration:'underline'}}>{cta.h2b}</span>
+            {' '}{cta.h2c}
+          </p>
         </div>
       </section>
     </>

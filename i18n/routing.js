@@ -220,5 +220,29 @@ export const routing = defineRouting({
       es: '/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg',
       it: '/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg',
     },
+    '/accesorii/toc-de-renovare': {
+      ro: '/accesorii/toc-de-renovare-pvc',
+      en: '/accessories/pvc-renovation-frame',
+      de: '/zubehoer/pvc-renovierungsrahmen',
+      fr: '/accessoires/cadre-renovation-pvc',
+      es: '/accesorios/marco-renovacion-pvc',
+      it: '/accessori/telaio-ristrutturazione-pvc',
+    },
+    '/accesorii/pervazuri-interior-pvc-exterior-al': {
+      ro: '/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu',
+      en: '/accessories/interior-pvc-windowsills-exterior-aluminium-sills',
+      de: '/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium',
+      fr: '/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium',
+      es: '/accesorios/alfeizares-interiores-pvc-exteriores-aluminio',
+      it: '/accessori/davanzali-interni-pvc-esterni-alluminio',
+    },
+    '/accesorii/grila-higroreglabila-aereco': {
+      ro: '/accesorii/grila-higroreglabila-aereco-ventilatie',
+      en: '/accessories/aereco-hygro-adjustable-ventilation-grille',
+      de: '/zubehoer/aereco-hygroregelbare-lueftungsgitter',
+      fr: '/accessoires/grille-hygroreglable-aereco-ventilation',
+      es: '/accesorios/rejilla-higrorreglable-aereco-ventilacion',
+      it: '/accessori/griglia-igroregolab-aereco-ventilazione',
+    },
   }
 });
