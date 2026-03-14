@@ -135,13 +135,13 @@ export default function Footer() {
     <footer className="site-footer" role="contentinfo" aria-label="Informații companie Neofort BIZ">
 
       {/* ── FORMULAR CONTACT ── */}
-      <div style={{background:'#111',borderTop:'1px solid #222',padding:'15px 0 0'}}>
+      <div style={{background:'#111',borderTop:'1px solid #222',padding:'8px 0 0'}}>
         <div className="footer-inner">
-          <div style={{textAlign:'center',marginBottom:'12px'}}>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'4px'}}>
+          <div style={{textAlign:'center',marginBottom:'7px'}}>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.55rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'2px'}}>
               {ft.title_label}
             </span>
-            <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(0.85rem, 2vw, 1.1rem)',color:'#fff',lineHeight:1.35,textAlign:'center'}}>
+            <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(0.7rem, 1.5vw, 0.85rem)',color:'#fff',lineHeight:1.3,textAlign:'center'}}>
               {ft.title_h2.split('\n')[0]}<br/>
               {ft.title_h2.split('\n')[1]}
             </h2>
