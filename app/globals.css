@@ -24,7 +24,7 @@ img,video{max-width:100%;height:auto}
 .site-nav-link{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.52rem;letter-spacing:.05em;text-transform:uppercase;color:#767676;text-decoration:none;padding:0 5px;height:60px;display:flex;align-items:center;border-bottom:2px solid transparent;transition:color .15s,border-color .15s}
 .site-nav-link:hover{color:#1a1a1a;border-bottom-color:#1a1a1a}
 .nav-langs{display:flex;align-items:center;gap:6px;margin-left:12px;padding-left:12px;border-left:1px solid #e8e8e8}
-.nav-lang{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.6rem;letter-spacing:.12em;color:#bbb;text-decoration:none;transition:color .15s}
+.nav-lang{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.6rem;letter-spacing:.12em;color:#767676;text-decoration:none;transition:color .15s}
 .nav-lang:hover,.nav-lang.active{color:#1a1a1a}
 .hamburger{display:none;flex-direction:column;gap:5px;background:none;border:none;cursor:pointer;padding:4px}
 .hamburger span{display:block;width:22px;height:1px;background:#1a1a1a;transition:all .2s}
@@ -44,7 +44,7 @@ img,video{max-width:100%;height:auto}
 .btn-white:hover{background:#fff;color:#1a1a1a;border-color:#fff}
 
 /* ── LABELS ── */
-.sec-label{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:#999;display:block;margin-bottom:14px}
+.sec-label{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:#767676;display:block;margin-bottom:14px}
 .label-pvc{color:#4a7c59}
 .label-aluminiu{color:#2d5a8e}
 .label-accesorii{color:#e8721c}
@@ -93,7 +93,7 @@ img,video{max-width:100%;height:auto}
 .footer-contact-val{font-size:0.824rem;font-weight:300;color:#bbb;text-decoration:none;transition:color .15s}
 .footer-contact-val:hover{color:#fff}
 .footer-langs{display:flex;gap:9px;margin-top:18px;flex-wrap:wrap}
-.footer-lang{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.674rem;letter-spacing:.12em;color:#888;text-decoration:none;transition:color .15s}
+.footer-lang{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.674rem;letter-spacing:.12em;color:#888;text-decoration:none;transition:color .15s;padding:10px 6px;margin:-10px -6px}
 .footer-lang:hover,.footer-lang.active{color:#fff}
 .footer-bottom{display:flex;justify-content:space-between;padding-top:20px;font-size:0.754rem;font-weight:300;color:#bbb;flex-wrap:wrap;gap:6px}
 

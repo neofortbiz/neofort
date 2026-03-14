@@ -206,8 +206,8 @@ export default function Footer() {
                       <ErrMsg field="email"/>
                     </div>
                     <div style={{marginBottom:'16px'}}>
-                      <span style={{fontFamily:'Barlow,sans-serif',fontSize:'.82rem',fontWeight:300,color:'#999',display:'block',marginBottom:'5px'}}>{ft.lbl_cmd}</span>
-                      <select name="comanda" defaultValue="" onChange={()=>err.comanda&&setErr(p=>({...p,comanda:''}))}
+                      <label htmlFor="select-comanda" style={{fontFamily:'Barlow,sans-serif',fontSize:'.82rem',fontWeight:300,color:'#999',display:'block',marginBottom:'5px'}}>{ft.lbl_cmd}</label>
+                      <select id="select-comanda" name="comanda" defaultValue="" onChange={()=>err.comanda&&setErr(p=>({...p,comanda:''}))} aria-label={ft.lbl_cmd}
                         style={{width:'100%',background:'#111',border:'none',borderBottom: err.comanda ? '1px solid #e05252' : '1px solid #333',padding:'10px 0',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',letterSpacing:'.1em',textTransform:'uppercase',color:'#ddd',outline:'none',appearance:'none',boxSizing:'border-box'}}>
                         <option value="" disabled>{ft.sel_ph}</option>
                         {opts.map(o => <option key={o}>{o}</option>)}
