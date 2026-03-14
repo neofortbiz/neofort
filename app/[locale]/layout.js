@@ -1,26 +1,38 @@
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { notFound } from 'next/navigation';
+import { Barlow, Barlow_Condensed } from 'next/font/google';
 import { routing } from '../../i18n/routing';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 
 const locales = ['ro', 'en', 'de', 'fr', 'es', 'it'];
-
 const baseUrl = 'https://www.neofort-biz.ro';
+
+// next/font: self-hosted, zero layout shift, nu blochează render
+const barlow = Barlow({
+  subsets: ['latin', 'latin-ext'],
+  weight: ['300', '400', '500'],
+  display: 'swap',
+  variable: '--font-barlow',
+  preload: true,
+});
+
+const barlowCondensed = Barlow_Condensed({
+  subsets: ['latin', 'latin-ext'],
+  weight: ['300', '400', '500', '600'],
+  display: 'swap',
+  variable: '--font-barlow-condensed',
+  preload: true,
+});
 
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const alternates = {};
-  locales.forEach(l => {
-    alternates[l] = `${baseUrl}/${l}`;
-  });
+  locales.forEach(l => { alternates[l] = `${baseUrl}/${l}`; });
   return {
     metadataBase: new URL(baseUrl),
-    alternates: {
-      languages: alternates,
-      canonical: `${baseUrl}/${locale}`,
-    },
+    alternates: { languages: alternates, canonical: `${baseUrl}/${locale}` },
     twitter: { card: 'summary_large_image', site: '@NeofortBIZ' },
     openGraph: {
       siteName: 'Neofort BIZ - Tâmplărie PVC & Aluminiu',
@@ -40,7 +52,7 @@ export default async function LocaleLayout({ children, params }) {
   if (!locales.includes(locale)) notFound();
   const messages = await getMessages();
   return (
-    <html lang={locale}>
+    <html lang={locale} className={`${barlow.variable} ${barlowCondensed.variable}`}>
       <head>
         {/* hreflang */}
         {locales.map(l => (
@@ -51,7 +63,7 @@ export default async function LocaleLayout({ children, params }) {
         {/* Viewport */}
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-        {/* Favicon complet */}
+        {/* Favicon */}
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
@@ -62,55 +74,46 @@ export default async function LocaleLayout({ children, params }) {
         <meta name="theme-color" content="#111111" />
         <meta name="msapplication-TileColor" content="#111111" />
 
-        {/* Geo — București, România */}
+        {/* Geo */}
         <meta name="geo.region" content="RO-B" />
         <meta name="geo.placename" content="București" />
         <meta name="geo.position" content="44.4429398;26.0859381" />
         <meta name="ICBM" content="44.4429398, 26.0859381" />
 
-        {/* Robots global */}
+        {/* Robots */}
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
 
         {/* OG locale:alternate */}
         {locales.filter(l => l !== locale).map(l => (
           <meta key={`og-alt-${l}`} property="og:locale:alternate" content={l} />
         ))}
-
-        {/* Preconnect */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body>
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "@id": "https://www.neofort-biz.ro/#organization",
-    "name": "Neofort BIZ",
-    "alternateName": "NEOFORT PVC & ALUMINUM JOINERY",
-    "url": "https://www.neofort-biz.ro",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://www.neofort-biz.ro/Neofort.avif",
-      "width": 512,
-      "height": 512
-    },
-    "foundingDate": "2003",
-    "email": "oferte@neofort-biz.ro",
-    "telephone": ["+40215280661", "+40752443435"],
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Strada Theodor Aman 11",
-      "addressLocality": "București",
-      "addressRegion": "Sector 1",
-      "postalCode": "010776",
-      "addressCountry": "RO"
-    },
-    "sameAs": [
-      "https://www.facebook.com/neofortconstructii",
-      "https://www.linkedin.com/company/neofort-biz",
-      "https://x.com/NeofortBIZ"
-    ]
-  }) }}/>
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "@id": "https://www.neofort-biz.ro/#organization",
+          "name": "Neofort BIZ",
+          "alternateName": "NEOFORT PVC & ALUMINUM JOINERY",
+          "url": "https://www.neofort-biz.ro",
+          "logo": { "@type": "ImageObject", "url": "https://www.neofort-biz.ro/Neofort.avif", "width": 512, "height": 512 },
+          "foundingDate": "2003",
+          "email": "oferte@neofort-biz.ro",
+          "telephone": ["+40215280661", "+40752443435"],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Strada Theodor Aman 11",
+            "addressLocality": "București",
+            "addressRegion": "Sector 1",
+            "postalCode": "010776",
+            "addressCountry": "RO"
+          },
+          "sameAs": [
+            "https://www.facebook.com/neofortconstructii",
+            "https://www.linkedin.com/company/neofort-biz",
+            "https://x.com/NeofortBIZ"
+          ]
+        }) }}/>
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main>{children}</main>

@@ -2,8 +2,10 @@ const createNextIntlPlugin = require('next-intl/plugin');
 const withNextIntl = createNextIntlPlugin();
 
 const nextConfig = {
+  compress: true,
   experimental: {
     serverActions: { bodySizeLimit: '20mb' },
+    optimizePackageImports: ['next-intl'],
   },
   images: {
     formats: ['image/avif', 'image/webp'],
@@ -21,14 +23,23 @@ const nextConfig = {
     ];
   },
   async headers() {
-    return [{
-      source: '/(.*)',
-      headers: [
-        { key: 'X-Content-Type-Options', value: 'nosniff' },
-        { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
-        { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
-      ],
-    }];
+    return [
+      {
+        source: '/(.*)',
+        headers: [
+          { key: 'X-Content-Type-Options', value: 'nosniff' },
+          { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
+          { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+        ],
+      },
+      {
+        // Cache agresiv pe assets statice
+        source: '/(.*)\\.(avif|webp|jpg|jpeg|png|ico|svg|woff2|woff)',
+        headers: [
+          { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
+        ],
+      },
+    ];
   },
 };
 
