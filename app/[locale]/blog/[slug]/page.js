@@ -43,12 +43,12 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: `${title} | Neofort BIZ`,
       description: desc,
-      images: [{ url: article.image?.[locale] ? `${BASE}${article.image[locale]}` : `${BASE}/og/BLOG.avif`, width: 1200, height: 630, alt: title, type: article.image?.[locale] ? 'image/jpeg' : 'image/avif' }],
+      images: [{ url: a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`, width: 1200, height: 630, alt: title, type: a.image?.[locale] ? 'image/jpeg' : 'image/avif' }],
       publishedTime: a.date,
       modifiedTime: a.date,
       locale: locale,
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[article.image?.[locale] ? `${BASE}${article.image[locale]}` : `${BASE}/og/BLOG.avif`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`] },
   };
 }
 
@@ -136,7 +136,7 @@ export default async function BlogArticlePage({ params }) {
     "author": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
     "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE,
       "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":200,"height":60}},
-    "image": {"@type":"ImageObject","url": article.image?.[locale] ? `${BASE}${article.image[locale]}` : `${BASE}/og/BLOG.avif`,"width":1200,"height":630},
+    "image": {"@type":"ImageObject","url": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`,"width":1200,"height":630},
     "mainEntityOfPage": {"@type":"WebPage","@id":`${BASE}/${locale}/blog/${mySlug}`},
   };
 
@@ -178,11 +178,11 @@ export default async function BlogArticlePage({ params }) {
       <div style={{background:'#f7f7f5',borderBottom:'1px solid #e8e8e8',padding:'10px 0'}}>
         <div className="container">
           <nav aria-label="breadcrumb" style={{display:'flex',alignItems:'center',gap:'6px',flexWrap:'wrap'}}>
-            <Link href="/" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>{ui.breadcrumb_home}</Link>
-            <span style={{color:'#ddd',fontSize:'.65rem'}}>›</span>
-            <Link href="/blog" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>Blog</Link>
-            <span style={{color:'#ddd',fontSize:'.65rem'}}>›</span>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.1em',color:'#999'}}>{cat}</span>
+            <Link href="/" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>{ui.breadcrumb_home}</Link>
+            <span style={{color:'#ddd',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
+            <Link href="/blog" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>Blog</Link>
+            <span style={{color:'#ddd',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#999'}}>{cat}</span>
           </nav>
         </div>
       </div>
@@ -214,9 +214,8 @@ export default async function BlogArticlePage({ params }) {
 
       {/* EXCERPT — bandă albă sub hero */}
       <div style={{background:'#fff',borderBottom:'1px solid #efefed',padding:'18px 0'}}>
-        <div style={{maxWidth:'1100px',margin:'0 auto',padding:'0 24px',display:'grid',gridTemplateColumns:'1fr 260px',gap:'56px'}}>
-          <p style={{fontSize:'.88rem',color:'#999',lineHeight:1.7,fontStyle:'italic',margin:0,paddingLeft:'14px',borderLeft:`3px solid ${a.accentColor}`}}>{excerpt}</p>
-          <div/>
+        <div style={{maxWidth:'1100px',margin:'0 auto',padding:'0 24px'}}>
+          <p style={{fontSize:'clamp(0.9rem, 2.5vw, .88rem)',color:'#767676',lineHeight:1.75,fontStyle:'italic',margin:0,paddingLeft:'14px',borderLeft:`3px solid ${a.accentColor}`}}>{excerpt}</p>
         </div>
       </div>
 
