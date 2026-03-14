@@ -51,8 +51,8 @@ export async function generateMetadata({ params }) {
       canonical: `${BASE}/${locale}/${slug}`,
       languages: Object.fromEntries([...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]), ['x-default', `${BASE}/ro/${SLUGS.ro}`]]),
     },
-    openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images:[{ url:`${BASE}/og-neofort.jpg`, width:1200, height:630 }] },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og-neofort.jpg`] },
+    openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images: [{ url:`${BASE}/og/Sisteme_de_umbrire__rulouri_exterioare__jaluzele_raffstore__jaluzele_venetiene.avif`, width:1200, height:630, alt: locale==='ro' ? 'Sisteme de umbrire: rulouri exterioare aluminiu și jaluzele Raffstore — Neofort BIZ' : locale==='en' ? 'Shading systems: aluminium roller shutters and Raffstore blinds — Neofort BIZ' : locale==='de' ? 'Beschattungssysteme: Aluminiumrollladen und Raffstore-Jalousien — Neofort BIZ' : locale==='fr' ? 'Systèmes occultation: volets roulants aluminium et stores Raffstore — Neofort BIZ' : locale==='es' ? 'Sistemas sombreado: persianas aluminio y estores Raffstore — Neofort BIZ' : 'Sistemi schermatura: tapparelle alluminio e tende Raffstore — Neofort BIZ', type:'image/avif' }] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og/Sisteme_de_umbrire__rulouri_exterioare__jaluzele_raffstore__jaluzele_venetiene.avif`] },
 };
 }
 

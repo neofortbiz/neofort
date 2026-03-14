@@ -49,9 +49,9 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: t('title'),
       description: t('description'),
-      images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
+      images: [{ url:`${BASE}/og/Servicii_Neofort.avif`, width:1200, height:630, alt: locale==='ro' ? 'Servicii Neofort BIZ: consultanță, producție și montaj tâmplărie PVC și aluminiu' : locale==='en' ? 'Neofort BIZ services: consultancy, production, PVC and aluminium window installation' : locale==='de' ? 'Neofort BIZ Dienstleistungen: Beratung, Produktion, PVC- und Aluminiumfenstermontage' : locale==='fr' ? 'Services Neofort BIZ: conseil, production, pose menuiseries PVC et aluminium' : locale==='es' ? 'Servicios Neofort BIZ: consultoría, producción, instalación carpintería PVC y aluminio' : 'Servizi Neofort BIZ: consulenza, produzione, posa infissi PVC e alluminio', type:'image/avif' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og-neofort.jpg`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Servicii_Neofort.avif`] },
   };
 }
 

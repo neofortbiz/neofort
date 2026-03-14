@@ -24,7 +24,7 @@ export async function generateMetadata({ params }) {
     twitter: { card: 'summary_large_image', site: '@NeofortBIZ' },
     openGraph: {
       siteName: 'Neofort BIZ - Tâmplărie PVC & Aluminiu',
-      images: [{ url: 'https://www.neofort-biz.ro/og-neofort.jpg', width: 1200, height: 630 }],
+      images: [{ url: 'https://www.neofort-biz.ro/og/Fabrica_Neofort.avif', width: 1200, height: 630, type: 'image/avif' }],
       locale: locale,
     },
     robots: { index: true, follow: true },

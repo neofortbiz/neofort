@@ -49,9 +49,9 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: t('title'),
       description: t('description'),
-      images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
+      images: [{ url:`${BASE}/og/Despre_noi.avif`, width:1200, height:630, alt: locale==='ro' ? 'Despre Neofort BIZ — 21 ani experiență tâmplărie PVC Salamander și aluminiu Alumil' : locale==='en' ? 'About Neofort BIZ — 21 years PVC Salamander and Alumil aluminium window experience' : locale==='de' ? 'Über Neofort BIZ — 21 Jahre Erfahrung mit Salamander PVC- und Alumil Aluminiumfenstern' : locale==='fr' ? 'À propos Neofort BIZ — 21 ans expérience menuiseries PVC Salamander et aluminium Alumil' : locale==='es' ? 'Sobre Neofort BIZ — 21 años experiencia carpintería PVC Salamander y aluminio Alumil' : 'Chi siamo Neofort BIZ — 21 anni esperienza infissi PVC Salamander e alluminio Alumil', type:'image/avif' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og-neofort.jpg`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Despre_noi.avif`] },
   };
 }
 

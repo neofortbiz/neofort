@@ -57,8 +57,8 @@ export async function generateMetadata({ params }) {
       canonical: `${BASE}/${locale}/${slug}`,
       languages: Object.fromEntries([...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]), ['x-default', `${BASE}/ro/${SLUGS.ro}`]]),
     },
-    openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images:[{ url:`${BASE}/og-neofort.jpg`, width:1200, height:630 }] },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og-neofort.jpg`] },
+    openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images: [{ url:`${BASE}/og/Accesorii_Neofort.avif`, width:1200, height:630, alt: locale==='ro' ? 'Accesorii tâmplărie: precadre Blaugelb, benzi etanșare, Warm Edge — Neofort BIZ' : locale==='en' ? 'Window accessories: Blaugelb precasings, sealing tapes, Warm Edge — Neofort BIZ' : locale==='de' ? 'Fensterzubehör: Blaugelb Vorfenster, Dichtbänder, Warm Edge — Neofort BIZ' : locale==='fr' ? 'Accessoires menuiserie: précadres Blaugelb, rubans étanchéité, Warm Edge — Neofort BIZ' : locale==='es' ? 'Accesorios carpintería: premarcos Blaugelb, cintas sellado, Warm Edge — Neofort BIZ' : 'Accessori infissi: pre-telai Blaugelb, nastri tenuta, Warm Edge — Neofort BIZ', type:'image/avif' }] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og/Accesorii_Neofort.avif`] },
 };
 }
 

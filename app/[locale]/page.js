@@ -405,9 +405,9 @@ export async function generateMetadata({ params }) {
       type:'website', locale: { ro:'ro_RO', en:'en_US', de:'de_DE', fr:'fr_FR', es:'es_ES', it:'it_IT' }[locale] || 'ro_RO',
       url:`${BASE}/${locale}`, siteName:'Neofort BIZ',
       title: c.title, description: c.desc,
-      images:[{ url:`${BASE}/og-neofort.jpg`, width:1200, height:630, alt:'Neofort BIZ — PVC & Aluminium Windows', type:'image/jpeg' }],
+      images:[{ url:`${BASE}/og/Fabrica_Neofort.avif`, width:1200, height:630, alt: locale==='ro' ? 'Hală producție tâmplărie PVC Salamander și aluminiu Alumil — Neofort BIZ București' : locale==='en' ? 'PVC Salamander and aluminium Alumil joinery production hall — Neofort BIZ Bucharest' : locale==='de' ? 'Produktionshalle Salamander PVC- und Alumil Aluminiumfenster — Neofort BIZ Bukarest' : locale==='fr' ? 'Halle de production PVC Salamander et aluminium Alumil — Neofort BIZ Bucarest' : locale==='es' ? 'Nave de producción PVC Salamander y aluminio Alumil — Neofort BIZ Bucarest' : 'Capannone produzione PVC Salamander e alluminio Alumil — Neofort BIZ Bucarest', type:'image/avif' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ', title:c.title, description:c.desc, images:[`${BASE}/og-neofort.jpg`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ', title:c.title, description:c.desc, images:[`${BASE}/og/Fabrica_Neofort.avif`] },
   };
 }
 

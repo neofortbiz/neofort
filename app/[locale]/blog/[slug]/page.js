@@ -43,12 +43,12 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: `${title} | Neofort BIZ`,
       description: desc,
-      images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630, alt: title }],
+      images: [{ url: article.image?.[locale] ? `${BASE}${article.image[locale]}` : `${BASE}/og/BLOG.avif`, width: 1200, height: 630, alt: title, type: article.image?.[locale] ? 'image/jpeg' : 'image/avif' }],
       publishedTime: a.date,
       modifiedTime: a.date,
       locale: locale,
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: 'Neofort BIZ', description: 'Tâmplărie PVC Salamander și Aluminiu Alumil', images:[`${BASE}/og-neofort.jpg`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[article.image?.[locale] ? `${BASE}${article.image[locale]}` : `${BASE}/og/BLOG.avif`] },
   };
 }
 
@@ -136,7 +136,7 @@ export default async function BlogArticlePage({ params }) {
     "author": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
     "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE,
       "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":200,"height":60}},
-    "image": {"@type":"ImageObject","url":`${BASE}/og-neofort.jpg`,"width":1200,"height":630},
+    "image": {"@type":"ImageObject","url": article.image?.[locale] ? `${BASE}${article.image[locale]}` : `${BASE}/og/BLOG.avif`,"width":1200,"height":630},
     "mainEntityOfPage": {"@type":"WebPage","@id":`${BASE}/${locale}/blog/${mySlug}`},
   };
 

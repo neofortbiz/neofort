@@ -168,11 +168,11 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type: 'website', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
       title: t('title'), description: t('description'),
-      images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
+      images: [{ url:`${BASE}/og/Tamplarie_PVC_Salamander.avif`, width:1200, height:630, alt: locale==='ro' ? 'Tâmplărie PVC Salamander BluEvolution 92 și GreenEvolution 76 — Neofort BIZ' : locale==='en' ? 'Salamander PVC windows BluEvolution 92 and GreenEvolution 76 — Neofort BIZ' : locale==='de' ? 'Salamander PVC-Fenster BluEvolution 92 und GreenEvolution 76 — Neofort BIZ' : locale==='fr' ? 'Fenêtres PVC Salamander BluEvolution 92 et GreenEvolution 76 — Neofort BIZ' : locale==='es' ? 'Ventanas PVC Salamander BluEvolution 92 y GreenEvolution 76 — Neofort BIZ' : 'Finestre PVC Salamander BluEvolution 92 e GreenEvolution 76 — Neofort BIZ', type:'image/avif' }],
     },
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ',
       title: t('title'), description: t('description'),
-      images:[`${BASE}/og-neofort.jpg`] },
+      images:[`${BASE}/og/Tamplarie_PVC_Salamander.avif`] },
   };
 }
 
