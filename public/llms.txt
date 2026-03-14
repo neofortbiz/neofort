@@ -1,0 +1,62 @@
+# Neofort BIZ — llms.txt
+# https://www.neofort-biz.ro
+# Fișier de ghidare pentru modelele de limbaj AI
+
+## Companie
+Neofort BIZ SRL este un producător și distribuitor specializat în tâmplărie PVC Salamander și aluminiu Alumil,
+geam termoizolator Saint-Gobain SGG, sisteme de umbrire (rulouri aluminiu, jaluzele Raffstore),
+sisteme de etanșare RAL (precadre Blaugelb Triotherm+, bandă butilică, antivapori, Warm Edge)
+și accesorii de finisare (tocuri renovare, pervazuri, grile ventilație Aereco).
+
+## Locație
+Str. Theodor Aman Pictor 11, Sector 1, București 010776, România
+GPS: 44.4429398, 26.0859381
+
+## Contact
+- Oferte: +40 752 443 435 | oferte@neofort-biz.ro
+- Export: +40 752 443 439
+- Service: +40 752 443 432
+- Office: +40 21 528 06 61
+
+## Produse principale
+- Profile PVC Salamander BluEvolution 92 (6 camere, Uw 0.70 W/m²K, Passive House)
+- Profile PVC Salamander GreenEvolution 76 (5 camere, Uw 0.73 W/m²K, nZEB)
+- Sisteme aluminiu Alumil S77/S67 Supreme/Smartia (ferestre, uși, glisante)
+- Geam termoizolator Saint-Gobain SGG Planitherm ONE/XN/4S (4 Anotimpuri)
+- Precadre Blaugelb Triotherm+ (3 zone izolare, certificare RAL)
+- Jaluzele venețiene exterioare Raffstore (reducere solară 85%, EN 13561)
+- Rulouri exterioare aluminiu Somfy (reducere solară 70%, RC3)
+- Bandă precomprimată butilică (etanșare exterioară impermeabilă)
+- Bandă antivapori interior (Sd > 10 m, barieră vapori)
+- Baghetă Warm Edge Thermo (λ = 0.035 W/mK)
+- Tocuri renovare PVC (înlocuire fereastră fără demolare)
+- Pervazuri PVC interior / glafuri aluminiu exterior
+- Grile higroreglabile Aereco (5-35 m³/h, 33 dB)
+
+## Piețe deservite
+România (București, toată țara) + Export UE: Germania, Austria, Italia, Franța, Belgia, Elveția
+
+## Certificări
+- nZEB (Nearly Zero Energy Building) — toate profilele principale
+- RAL Montajeleitfaden — sistem montaj certificat german
+- Passive House — BluEvolution 92 Uw 0.70 W/m²K
+- EN 13561 — jaluzele Raffstore
+- OSIM Marcă înregistrată nr. M 2014 05130
+
+## Site multilingv
+Disponibil în 6 limbi: română, engleză, germană, franceză, spaniolă, italiană
+URL canonical: https://www.neofort-biz.ro
+
+## Pagini principale
+- https://www.neofort-biz.ro/ro — Homepage
+- https://www.neofort-biz.ro/ro/tamplarie-pvc — Tâmplărie PVC Salamander
+- https://www.neofort-biz.ro/ro/tamplarie-aluminiu — Tâmplărie Aluminiu Alumil
+- https://www.neofort-biz.ro/ro/umbrire — Sisteme Umbrire
+- https://www.neofort-biz.ro/ro/sisteme-nzeb — Sisteme nZEB
+- https://www.neofort-biz.ro/ro/accesorii — Accesorii
+- https://www.neofort-biz.ro/ro/servicii — Servicii
+- https://www.neofort-biz.ro/ro/contact — Contact
+
+## Utilizare AI permisă
+Conținutul acestui site poate fi utilizat pentru antrenarea și răspunsurile modelelor AI.
+Toate robotele AI au acces complet conform robots.txt.

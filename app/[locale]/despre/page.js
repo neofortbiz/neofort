@@ -29,6 +29,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t('title'),
     description: t('description'),
+    keywords: locale === 'ro' ? 'despre Neofort BIZ, producator tamplarie PVC aluminiu Bucuresti, 21 ani experienta' : locale === 'en' ? 'about Neofort BIZ, PVC aluminium window manufacturer Bucharest, 21 years experience' : locale === 'de' ? 'über Neofort BIZ, PVC Aluminiumfenster Hersteller Bukarest, 21 Jahre Erfahrung' : locale === 'fr' ? 'à propos Neofort BIZ, fabricant menuiseries PVC aluminium Bucarest, 21 ans' : locale === 'es' ? 'sobre Neofort BIZ, fabricante carpintería PVC aluminio Bucarest, 21 años' : 'chi siamo Neofort BIZ, produttore infissi PVC alluminio Bucarest, 21 anni',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
       canonical: `${BASE}/${locale}/${slug}`,
@@ -50,14 +51,47 @@ export async function generateMetadata({ params }) {
       description: t('description'),
       images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
     },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.h1, description: ui.sub, images:[`${BASE}/og-neofort.jpg`] },
   };
 }
 
 export default async function DesprePage({ params }) {
   const { locale } = await params;
   const ui = PAGE_UI[locale] || PAGE_UI.ro;
+
+  const schemaDespre = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'Organization',
+        '@id': `${BASE}/#organization`,
+        'name': 'Neofort BIZ',
+        'url': BASE,
+        'logo': { '@type': 'ImageObject', 'url': `${BASE}/Neofort.avif` },
+        'address': { '@type': 'PostalAddress', 'streetAddress': 'Str. Theodor Aman Pictor 11', 'addressLocality': 'București', 'postalCode': '010776', 'addressCountry': 'RO' },
+        'telephone': '+40215280661',
+        'email': 'oferte@neofort-biz.ro',
+        'foundingDate': '2004',
+        'numberOfEmployees': { '@type': 'QuantitativeValue', 'value': 10 },
+        'areaServed': ['RO', 'DE', 'AT', 'IT', 'FR', 'ES', 'BE', 'NL'],
+        'sameAs': ['https://www.facebook.com/neofortconstructii','https://www.linkedin.com/company/neofort-biz','https://x.com/NeofortBIZ'],
+      },
+      {
+        '@type': 'WebPage',
+        'url': `${BASE}/${locale}/${SLUGS_DESPRE[locale] || SLUGS_DESPRE.ro}`,
+        'name': PAGE_UI[locale]?.h1 || PAGE_UI.ro.h1,
+        'description': PAGE_UI[locale]?.sub || PAGE_UI.ro.sub,
+        'inLanguage': locale,
+        'breadcrumb': { '@type': 'BreadcrumbList', 'itemListElement': [
+          { '@type': 'ListItem', 'position': 1, 'name': 'Neofort BIZ', 'item': `${BASE}/${locale}` },
+          { '@type': 'ListItem', 'position': 2, 'name': PAGE_UI[locale]?.h1 || 'Despre', 'item': `${BASE}/${locale}/${SLUGS_DESPRE[locale] || SLUGS_DESPRE.ro}` },
+        ]},
+      },
+    ],
+  };
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaDespre) }}/>
       <div className="page-header">
         <div className="container mx-auto px-6">
           <span className="sec-label">{ui.label}</span>

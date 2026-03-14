@@ -1,0 +1,27 @@
+{
+  "name": "Neofort BIZ — Tâmplărie PVC & Aluminiu",
+  "short_name": "Neofort BIZ",
+  "description": "Tâmplărie PVC Salamander și Aluminiu Alumil — certificat nZEB. Montaj profesional, livrare Europa.",
+  "start_url": "/ro",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "lang": "ro",
+  "icons": [
+    {
+      "src": "/Neofort.avif",
+      "sizes": "512x512",
+      "type": "image/avif"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "categories": [
+    "business",
+    "shopping"
+  ]
+}

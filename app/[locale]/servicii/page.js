@@ -29,6 +29,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t('title'),
     description: t('description'),
+    keywords: locale === 'ro' ? 'servicii montaj tamplarie PVC aluminiu, masuratori ferestre Bucuresti, transport Europa' : locale === 'en' ? 'PVC aluminium window installation services, window measurement Bucharest, EU transport' : locale === 'de' ? 'PVC Aluminiumfenster Montage, Fensteraufmaß Bukarest, Transport Europa' : locale === 'fr' ? 'services pose fenêtres PVC aluminium, métrage Bucarest, transport Europe' : locale === 'es' ? 'servicios instalación carpintería PVC aluminio, medición Bucarest, transporte Europa' : 'servizi installazione infissi PVC alluminio, rilievo Bucarest, trasporto Europa',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
       canonical: `${BASE}/${locale}/${slug}`,
@@ -50,6 +51,7 @@ export async function generateMetadata({ params }) {
       description: t('description'),
       images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
     },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og-neofort.jpg`] },
   };
 }
 
@@ -119,8 +121,62 @@ const SERVICII = [
 export default async function ServiciiPage({ params }) {
   const { locale } = await params;
   const ui = PAGE_UI[locale] || PAGE_UI.ro;
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    'name': locale === 'ro' ? 'Servicii Montaj Tâmplărie PVC și Aluminiu' : locale === 'en' ? 'PVC and Aluminium Window Installation Services' : locale === 'de' ? 'PVC und Aluminium Fenstermontageservice' : locale === 'fr' ? 'Services de pose de menuiseries PVC et aluminium' : locale === 'es' ? 'Servicios de instalación de carpintería PVC y aluminio' : 'Servizi di installazione infissi PVC e alluminio',
+    'provider': {
+      '@type': 'LocalBusiness',
+      '@id': 'https://www.neofort-biz.ro/#localbusiness',
+      'name': 'Neofort BIZ',
+      'url': 'https://www.neofort-biz.ro',
+      'telephone': '+40752443435',
+      'address': { '@type': 'PostalAddress', 'addressLocality': 'București', 'addressCountry': 'RO' }
+    },
+    'areaServed': { '@type': 'Place', 'name': 'Europe' },
+    'serviceType': locale === 'ro' ? 'Montaj tâmplărie PVC și aluminiu' : 'PVC and aluminium window installation',
+  };
+
+  const howtoSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    'name': locale === 'ro' ? 'Cum comandați tâmplărie PVC sau aluminiu de la Neofort BIZ'
+          : locale === 'en' ? 'How to order PVC or aluminium windows from Neofort BIZ'
+          : locale === 'de' ? 'Wie bestellen Sie Fenster bei Neofort BIZ'
+          : locale === 'fr' ? 'Comment commander des fenêtres chez Neofort BIZ'
+          : locale === 'es' ? 'Cómo encargar ventanas a Neofort BIZ'
+          : 'Come ordinare infissi da Neofort BIZ',
+    'totalTime': 'P28D',
+    'step': [
+      {
+        '@type': 'HowToStep',
+        'position': 1,
+        'name': locale === 'ro' ? 'Elaborare ofertă' : locale === 'en' ? 'Quote preparation' : locale === 'de' ? 'Angebotserstellung' : locale === 'fr' ? 'Élaboration devis' : locale === 'es' ? 'Elaboración presupuesto' : 'Elaborazione preventivo',
+        'text': locale === 'ro' ? 'Transmiteți cererea prin formularul de contact, e-mail sau WhatsApp +40752443435. Răspundem în maxim 2 zile lucrătoare.'
+              : 'Send your request via contact form, email or WhatsApp +40752443435. We respond within 2 business days.',
+        'url': 'https://www.neofort-biz.ro/' + locale + '/contact',
+      },
+      {
+        '@type': 'HowToStep',
+        'position': 2,
+        'name': locale === 'ro' ? 'Consultare & Măsurătoare' : locale === 'en' ? 'Consultation & Measurement' : locale === 'de' ? 'Beratung & Aufmaß' : locale === 'fr' ? 'Conseil & Métrage' : locale === 'es' ? 'Consulta & Medición' : 'Consulenza & Rilievo',
+        'text': locale === 'ro' ? 'Stabilim configurația, tipul de profil, culoare, geam și accesorii. Programăm măsurătorile și elaborăm oferta finală.'
+              : 'We define configuration, profile type, colour, glass and accessories. We schedule measurements and finalise the offer.',
+      },
+      {
+        '@type': 'HowToStep',
+        'position': 3,
+        'name': locale === 'ro' ? 'Transport & Montaj' : locale === 'en' ? 'Transport & Installation' : locale === 'de' ? 'Transport & Montage' : locale === 'fr' ? 'Transport & Pose' : locale === 'es' ? 'Transporte & Instalación' : 'Trasporto & Posa',
+        'text': locale === 'ro' ? 'Fabricare 2–4 săptămâni, transport asigurat în toată UE, montaj profesional cu izolare perimetrală și certificat de garanție.'
+              : 'Manufacturing 2–4 weeks, guaranteed EU transport, professional installation with perimeter insulation and warranty certificate.',
+      },
+    ]
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(howtoSchema) }}/>
       {/* Page header */}
       <div className="page-header">
         <div className="container mx-auto px-6">

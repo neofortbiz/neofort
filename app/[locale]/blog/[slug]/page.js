@@ -48,6 +48,7 @@ export async function generateMetadata({ params }) {
       modifiedTime: a.date,
       locale: locale,
     },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: 'Neofort BIZ', description: 'Tâmplărie PVC Salamander și Aluminiu Alumil', images:[`${BASE}/og-neofort.jpg`] },
   };
 }
 

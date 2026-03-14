@@ -18,8 +18,18 @@ export async function generateMetadata({ params }) {
 }
 
 export default function GdprPage() {
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    'name': locale === 'ro' ? 'Politica GDPR — Neofort BIZ' : locale === 'en' ? 'GDPR Privacy Policy — Neofort BIZ' : 'Datenschutz — Neofort BIZ',
+    'url': 'https://www.neofort-biz.ro/' + locale + '/gdpr',
+    'isPartOf': { '@id': 'https://www.neofort-biz.ro/#website' },
+    'inLanguage': locale,
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <div className="page-header">
         <div className="container mx-auto px-6">
           <span className="sec-label">Neofort BIZ</span>

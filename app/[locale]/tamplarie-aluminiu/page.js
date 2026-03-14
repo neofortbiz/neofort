@@ -150,6 +150,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t('title'),
     description: t('description'),
+    keywords: locale === 'ro' ? 'tamplarie aluminiu Alumil, ferestre aluminiu, S77 Supreme, S67 Smartia, nZEB aluminiu' : locale === 'en' ? 'Alumil aluminium windows, S77 Supreme, S67 Smartia, nZEB aluminium windows Bucharest' : locale === 'de' ? 'Alumil Aluminiumfenster, S77 Supreme, S67 Smartia, nZEB Aluminiumfenster' : locale === 'fr' ? 'menuiserie aluminium Alumil, S77 Supreme, S67 Smartia, fenêtres aluminium nZEB' : locale === 'es' ? 'carpintería aluminio Alumil, S77 Supreme, S67 Smartia, ventanas aluminio nZEB' : 'infissi alluminio Alumil, S77 Supreme, S67 Smartia, finestre alluminio nZEB',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
       canonical: `${BASE}/${locale}/${slug}`,
@@ -168,6 +169,7 @@ export async function generateMetadata({ params }) {
       title: t('title'), description: t('description'),
       images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
     },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og-neofort.jpg`] },
   };
 }
 
@@ -175,8 +177,35 @@ export default async function TamplaieAluminiuPage({ params }) {
   const { locale } = await params;
   const ui = PAGE_UI[locale] || PAGE_UI.ro;
 
+
+  const schemaALU = {
+    '@context': 'https://schema.org', '@type': 'CollectionPage',
+    'name': PAGE_UI[locale]?.h1 || PAGE_UI.ro.h1,
+    'url': `${BASE}/${locale}/${SLUGS_TAMPLARIE_ALUMINIU[locale] || SLUGS_TAMPLARIE_ALUMINIU.ro}`,
+    'provider': { '@type': 'Organization', 'name': 'Neofort BIZ', 'url': BASE },
+    'breadcrumb': { '@type': 'BreadcrumbList', 'itemListElement': [
+      { '@type': 'ListItem', 'position': 1, 'name': 'Neofort BIZ', 'item': `${BASE}/${locale}` },
+      { '@type': 'ListItem', 'position': 2, 'name': PAGE_UI[locale]?.h1 || 'Sisteme Aluminiu Alumil', 'item': `${BASE}/${locale}/${SLUGS_TAMPLARIE_ALUMINIU[locale] || SLUGS_TAMPLARIE_ALUMINIU.ro}` },
+    ]},
+  };
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    'mainEntity': ({'ro': [['Care este diferența dintre Alumil Supreme și Smartia?', 'Supreme este gama profesională pentru proiecte arhitecturale exigente — barieră termică avansată, design minimalist, certificare Passive House. Smartia este gama comercială cu un raport calitate-preț mai bun, potrivită pentru proiecte rezidențiale și comerciale standard.'], ['Sistemele glisante Alumil S700/S350 pot fi montate pe terase?', 'Da, sistemele liftant-glisante Alumil S700 Supreme și S350 Smartia sunt proiectate special pentru deschideri mari de terasă și living. Suportă canaturi de până la 300 kg, profil orizontal maxim 6 m, cu etanșare conformă nZEB.'], ['Aluminiu sau PVC pentru ferestre mari?', 'Pentru suprafețe vitrate mari (>2m²), ferestre panoramice sau pereți cortină, aluminiu este recomandat — rigiditate structurală superioară, toleranță termică mai bună la dilatații mari, și aspect arhitectural mai subțire. PVC este preferat pentru ferestre standard și renovări.']], 'en': [['What is the difference between Alumil Supreme and Smartia?', 'Supreme is the professional range for demanding architectural projects — advanced thermal break, minimalist design, Passive House certification. Smartia is the commercial range with better value, suitable for standard residential and commercial projects.'], ['Can Alumil S700/S350 sliding systems be installed on terraces?', 'Yes, Alumil S700 Supreme and S350 Smartia lift-and-slide systems are specifically designed for large terrace and living room openings. They support leaves up to 300 kg, maximum 6m horizontal profile, with nZEB-compliant sealing.'], ['Aluminium or PVC for large windows?', 'For large glazed areas (>2m²), panoramic windows or curtain walls, aluminium is recommended — superior structural rigidity, better thermal tolerance for large expansions, and architecturally thinner appearance. PVC is preferred for standard windows and renovations.']]})[locale]?.map(([q,a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a }
+    })) || {'ro': [['Care este diferența dintre Alumil Supreme și Smartia?', 'Supreme este gama profesională pentru proiecte arhitecturale exigente — barieră termică avansată, design minimalist, certificare Passive House. Smartia este gama comercială cu un raport calitate-preț mai bun, potrivită pentru proiecte rezidențiale și comerciale standard.'], ['Sistemele glisante Alumil S700/S350 pot fi montate pe terase?', 'Da, sistemele liftant-glisante Alumil S700 Supreme și S350 Smartia sunt proiectate special pentru deschideri mari de terasă și living. Suportă canaturi de până la 300 kg, profil orizontal maxim 6 m, cu etanșare conformă nZEB.'], ['Aluminiu sau PVC pentru ferestre mari?', 'Pentru suprafețe vitrate mari (>2m²), ferestre panoramice sau pereți cortină, aluminiu este recomandat — rigiditate structurală superioară, toleranță termică mai bună la dilatații mari, și aspect arhitectural mai subțire. PVC este preferat pentru ferestre standard și renovări.']], 'en': [['What is the difference between Alumil Supreme and Smartia?', 'Supreme is the professional range for demanding architectural projects — advanced thermal break, minimalist design, Passive House certification. Smartia is the commercial range with better value, suitable for standard residential and commercial projects.'], ['Can Alumil S700/S350 sliding systems be installed on terraces?', 'Yes, Alumil S700 Supreme and S350 Smartia lift-and-slide systems are specifically designed for large terrace and living room openings. They support leaves up to 300 kg, maximum 6m horizontal profile, with nZEB-compliant sealing.'], ['Aluminium or PVC for large windows?', 'For large glazed areas (>2m²), panoramic windows or curtain walls, aluminium is recommended — superior structural rigidity, better thermal tolerance for large expansions, and architecturally thinner appearance. PVC is preferred for standard windows and renovations.']]}['ro'].map(([q,a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a }
+    }))
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaALU) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>
       {/* ── PAGE HEADER ── */}
       <div className="page-header">
         <div className="container mx-auto px-6">

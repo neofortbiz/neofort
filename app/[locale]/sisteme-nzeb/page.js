@@ -63,13 +63,15 @@ export async function generateMetadata({ params }) {
   return {
     title: ui.title,
     description: ui.desc,
+    keywords: locale === 'ro' ? 'sisteme nZEB, precadre Blaugelb Triotherm, banda butilic, warm edge, geam saint gobain' : locale === 'en' ? 'nZEB systems, Blaugelb Triotherm precasings, butyl tape, warm edge, Saint Gobain glass' : locale === 'de' ? 'nZEB Systeme, Blaugelb Triotherm Vorfenster, Butylband, Warm Edge, Saint Gobain Glas' : locale === 'fr' ? 'systèmes nZEB, précadres Blaugelb Triotherm, bande butyle, warm edge, verre Saint Gobain' : locale === 'es' ? 'sistemas nZEB, premarcos Blaugelb Triotherm, cinta butílica, warm edge, vidrio Saint Gobain' : 'sistemi nZEB, pre-telai Blaugelb Triotherm, nastro butilico, warm edge, vetro Saint Gobain',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
       canonical: `${BASE}/${locale}/${slug}`,
       languages: Object.fromEntries([...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]), ['x-default', `${BASE}/ro/${SLUGS.ro}`]]),
     },
     openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images:[{ url:`${BASE}/og-neofort.jpg`, width:1200, height:630 }] },
-  };
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og-neofort.jpg`] },
+};
 }
 
 export default async function Page({ params }) {
@@ -89,8 +91,32 @@ export default async function Page({ params }) {
     }))
   };
 
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      { '@type': 'ListItem', 'position': 1, 'name': 'Neofort BIZ', 'item': 'https://www.neofort-biz.ro/' + locale },
+      { '@type': 'ListItem', 'position': 2, 'name': ui.h1, 'item': 'https://www.neofort-biz.ro/' + locale + '/' + (SLUGS[locale] || SLUGS.ro) },
+    ],
+  };
+
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    'mainEntity': ({'ro': [['Ce sunt precadrele Blaugelb Triotherm+ și de ce sunt obligatorii pentru nZEB?', 'Precadrele Blaugelb Triotherm+ sunt sistemul de montaj termic cu 3 zone de izolare XPS care elimină complet puntea termică de montaj — responsabilă pentru mucegaiul din jurul ramei. Sunt obligatorii pentru certificarea energetică A și A+ (nZEB) conform standardelor europene.'], ['Care este diferența dintre banda butilică și banda antivapori?', 'Banda butilică (exterior): impermeabilă la apă, permeabilă la vapori — respinge ploaia din exterior. Banda antivapori (interior): Sd > 10 m — blochează vaporii calzi din cameră să migreze în structura peretelui. Ambele sunt necesare pentru sistemul complet RAL 3 straturi.'], ['Ce înseamnă Warm Edge la geamul termoizolator?', 'Warm Edge este distanțierul termoplastic (λ = 0,035 W/mK) care înlocuiește distanțierul clasic de aluminiu (λ = 160 W/mK). Reduce puntea termică la marginea geamului cu 60%, crește temperatura marginii cu 4-6°C și elimină condensul vizibil pe geam lângă ramă.']], 'en': [['What are Blaugelb Triotherm+ precasings and why are they mandatory for nZEB?', 'Blaugelb Triotherm+ precasings are the thermal mounting system with 3 XPS insulation zones that completely eliminate the installation thermal bridge — responsible for mould around the frame. They are mandatory for A and A+ energy certification (nZEB) under European standards.'], ['What is the difference between butyl tape and vapour barrier tape?', 'Butyl tape (exterior): waterproof, vapour permeable — repels rain from outside. Vapour barrier tape (interior): Sd > 10 m — blocks warm indoor vapour from migrating into the wall structure. Both are needed for the complete RAL 3-layer system.'], ['What does Warm Edge mean in insulating glass?', 'Warm Edge is the thermoplastic spacer (λ = 0.035 W/mK) that replaces the classic aluminium spacer (λ = 160 W/mK). It reduces the glass edge thermal bridge by 60%, raises the edge temperature by 4-6°C and eliminates visible condensation on the glass near the frame.']]})[locale]?.map(([q,a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a }
+    })) || {'ro': [['Ce sunt precadrele Blaugelb Triotherm+ și de ce sunt obligatorii pentru nZEB?', 'Precadrele Blaugelb Triotherm+ sunt sistemul de montaj termic cu 3 zone de izolare XPS care elimină complet puntea termică de montaj — responsabilă pentru mucegaiul din jurul ramei. Sunt obligatorii pentru certificarea energetică A și A+ (nZEB) conform standardelor europene.'], ['Care este diferența dintre banda butilică și banda antivapori?', 'Banda butilică (exterior): impermeabilă la apă, permeabilă la vapori — respinge ploaia din exterior. Banda antivapori (interior): Sd > 10 m — blochează vaporii calzi din cameră să migreze în structura peretelui. Ambele sunt necesare pentru sistemul complet RAL 3 straturi.'], ['Ce înseamnă Warm Edge la geamul termoizolator?', 'Warm Edge este distanțierul termoplastic (λ = 0,035 W/mK) care înlocuiește distanțierul clasic de aluminiu (λ = 160 W/mK). Reduce puntea termică la marginea geamului cu 60%, crește temperatura marginii cu 4-6°C și elimină condensul vizibil pe geam lângă ramă.']], 'en': [['What are Blaugelb Triotherm+ precasings and why are they mandatory for nZEB?', 'Blaugelb Triotherm+ precasings are the thermal mounting system with 3 XPS insulation zones that completely eliminate the installation thermal bridge — responsible for mould around the frame. They are mandatory for A and A+ energy certification (nZEB) under European standards.'], ['What is the difference between butyl tape and vapour barrier tape?', 'Butyl tape (exterior): waterproof, vapour permeable — repels rain from outside. Vapour barrier tape (interior): Sd > 10 m — blocks warm indoor vapour from migrating into the wall structure. Both are needed for the complete RAL 3-layer system.'], ['What does Warm Edge mean in insulating glass?', 'Warm Edge is the thermoplastic spacer (λ = 0.035 W/mK) that replaces the classic aluminium spacer (λ = 160 W/mK). It reduces the glass edge thermal bridge by 60%, raises the edge temperature by 4-6°C and eliminates visible condensation on the glass near the frame.']]}['ro'].map(([q,a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a }
+    }))
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <style>{`
         .acc-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; background:#fff; }

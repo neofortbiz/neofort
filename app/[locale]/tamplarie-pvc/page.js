@@ -151,6 +151,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t('title'),
     description: t('description'),
+    keywords: locale === 'ro' ? 'tamplarie PVC Salamander, ferestre PVC Bucuresti, BluEvolution 92, GreenEvolution 76, nZEB' : locale === 'en' ? 'PVC Salamander windows, BluEvolution 92, GreenEvolution 76, nZEB windows Bucharest' : locale === 'de' ? 'PVC Salamander Fenster, BluEvolution 92, GreenEvolution 76, nZEB Fenster Bukarest' : locale === 'fr' ? 'menuiserie PVC Salamander, BluEvolution 92, GreenEvolution 76, fenêtres nZEB Bucarest' : locale === 'es' ? 'carpintería PVC Salamander, BluEvolution 92, GreenEvolution 76, ventanas nZEB Bucarest' : 'infissi PVC Salamander, BluEvolution 92, GreenEvolution 76, finestre nZEB Bucarest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
       canonical: `${BASE}/${locale}/${slug}`,
@@ -169,6 +170,9 @@ export async function generateMetadata({ params }) {
       title: t('title'), description: t('description'),
       images: [{ url: `${BASE}/og-neofort.jpg`, width: 1200, height: 630 }],
     },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ',
+      title: t('title'), description: t('description'),
+      images:[`${BASE}/og-neofort.jpg`] },
   };
 }
 
@@ -176,8 +180,39 @@ export default async function TamplariePVCPage({ params }) {
   const { locale } = await params;
   const ui = PAGE_UI[locale] || PAGE_UI.ro;
 
+
+  const schemaPVC = {
+    '@context': 'https://schema.org', '@type': 'CollectionPage',
+    'name': PAGE_UI[locale]?.h1 || PAGE_UI.ro.h1,
+    'description': PAGE_UI[locale]?.sub || PAGE_UI.ro.sub,
+    'url': `${BASE}/${locale}/${SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro}`,
+    'provider': { '@type': 'Organization', 'name': 'Neofort BIZ', 'url': BASE },
+    'breadcrumb': {
+      '@type': 'BreadcrumbList',
+      'itemListElement': [
+        { '@type': 'ListItem', 'position': 1, 'name': 'Neofort BIZ', 'item': `${BASE}/${locale}` },
+        { '@type': 'ListItem', 'position': 2, 'name': PAGE_UI[locale]?.h1 || 'Profile PVC Salamander', 'item': `${BASE}/${locale}/${SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro}` },
+      ],
+    },
+  };
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    'mainEntity': ({'ro': [['Care este diferența dintre BluEvolution 92 și GreenEvolution 76?', 'BluEvolution 92 are 6 camere, adâncime 92mm și Uw = 0,70 W/m²K — standard Passive House. GreenEvolution 76 are 5 camere, adâncime 76mm și Uw = 0,73 W/m²K — standard nZEB. BluEvolution 92 este recomandat pentru proiecte premium; GreenEvolution 76 pentru proiecte rezidențiale cu raport calitate-preț optim.'], ['Ce înseamnă nZEB și de ce contează la tâmplăria PVC?', 'nZEB (Nearly Zero Energy Building) este standardul european pentru clădiri cu consum de energie aproape zero, obligatoriu în România din 2021 pentru construcții noi. Profilele PVC Salamander GreenEvolution 76 și BluEvolution 92 sunt certificate nZEB, cu Uw ≤ 0,73 W/m²K.'], ['Ce este profilul MD față de AD în gama GreenEvolution 76?', 'MD (Middle Density) înseamnă că profilul are o garnitură mediană suplimentară — 3 puncte de etanșare total. AD (Advanced Design) are 2 garnituri EPDM fără garnitură mediană. Ambele au 5 camere. MD ROUND are design curbat, MD FLEX și AD FLEX au design drept.']], 'en': [['What is the difference between BluEvolution 92 and GreenEvolution 76?', 'BluEvolution 92 has 6 chambers, 92mm depth and Uw = 0.70 W/m²K — Passive House standard. GreenEvolution 76 has 5 chambers, 76mm depth and Uw = 0.73 W/m²K — nZEB standard. BluEvolution 92 is recommended for premium projects; GreenEvolution 76 for residential projects with optimal value.'], ['What does nZEB mean and why does it matter for PVC windows?', 'nZEB (Nearly Zero Energy Building) is the European standard for nearly zero energy buildings, mandatory in Romania from 2021 for new constructions. Salamander GreenEvolution 76 and BluEvolution 92 PVC profiles are nZEB certified with Uw ≤ 0.73 W/m²K.'], ['What is MD vs AD profile in GreenEvolution 76?', 'MD (Middle Density) means the profile has an additional middle gasket — 3 sealing points total. AD (Advanced Design) has 2 EPDM gaskets without middle gasket. Both have 5 chambers. MD ROUND has rounded design, MD FLEX and AD FLEX have straight design.']]})[locale]?.map(([q,a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a }
+    })) || {'ro': [['Care este diferența dintre BluEvolution 92 și GreenEvolution 76?', 'BluEvolution 92 are 6 camere, adâncime 92mm și Uw = 0,70 W/m²K — standard Passive House. GreenEvolution 76 are 5 camere, adâncime 76mm și Uw = 0,73 W/m²K — standard nZEB. BluEvolution 92 este recomandat pentru proiecte premium; GreenEvolution 76 pentru proiecte rezidențiale cu raport calitate-preț optim.'], ['Ce înseamnă nZEB și de ce contează la tâmplăria PVC?', 'nZEB (Nearly Zero Energy Building) este standardul european pentru clădiri cu consum de energie aproape zero, obligatoriu în România din 2021 pentru construcții noi. Profilele PVC Salamander GreenEvolution 76 și BluEvolution 92 sunt certificate nZEB, cu Uw ≤ 0,73 W/m²K.'], ['Ce este profilul MD față de AD în gama GreenEvolution 76?', 'MD (Middle Density) înseamnă că profilul are o garnitură mediană suplimentară — 3 puncte de etanșare total. AD (Advanced Design) are 2 garnituri EPDM fără garnitură mediană. Ambele au 5 camere. MD ROUND are design curbat, MD FLEX și AD FLEX au design drept.']], 'en': [['What is the difference between BluEvolution 92 and GreenEvolution 76?', 'BluEvolution 92 has 6 chambers, 92mm depth and Uw = 0.70 W/m²K — Passive House standard. GreenEvolution 76 has 5 chambers, 76mm depth and Uw = 0.73 W/m²K — nZEB standard. BluEvolution 92 is recommended for premium projects; GreenEvolution 76 for residential projects with optimal value.'], ['What does nZEB mean and why does it matter for PVC windows?', 'nZEB (Nearly Zero Energy Building) is the European standard for nearly zero energy buildings, mandatory in Romania from 2021 for new constructions. Salamander GreenEvolution 76 and BluEvolution 92 PVC profiles are nZEB certified with Uw ≤ 0.73 W/m²K.'], ['What is MD vs AD profile in GreenEvolution 76?', 'MD (Middle Density) means the profile has an additional middle gasket — 3 sealing points total. AD (Advanced Design) has 2 EPDM gaskets without middle gasket. Both have 5 chambers. MD ROUND has rounded design, MD FLEX and AD FLEX have straight design.']]}['ro'].map(([q,a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a }
+    }))
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaPVC) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>
       {/* ── PAGE HEADER ── */}
       <div className="page-header">
         <div className="container mx-auto px-6">

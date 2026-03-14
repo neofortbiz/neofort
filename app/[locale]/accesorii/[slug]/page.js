@@ -229,6 +229,7 @@ export async function generateMetadata({ params }) {
   return {
     title: `${name} · Neofort BIZ`,
     description: desc,
+    keywords: `${name} · Neofort BIZ · tâmplărie PVC Salamander · aluminiu Alumil · București`,
     robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1 } },
     alternates: {
       canonical: `${BASE}/${locale}/accesorii/${localSlug}`,
@@ -242,7 +243,8 @@ export async function generateMetadata({ params }) {
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
       images:[{ url:`${BASE}${product.img}`, width:800, height:600, alt:name }],
     },
-  };
+  }
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img}`] },;
 }
 
 export default async function AccesorieProductPage({ params }) {

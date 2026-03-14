@@ -13,6 +13,7 @@ export const ARTICLES = [
       it: 'bluevolution-92-vs-greenevolution-76-guida',
     },
     date: '2025-03-01',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
     dateDisplay: { ro:'1 Martie 2025', en:'March 1, 2025', de:'1. März 2025', fr:'1 mars 2025', es:'1 de marzo de 2025', it:'1 marzo 2025' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
@@ -51,7 +52,7 @@ export const ARTICLES = [
       es: 'Comparación completa BluEvolution 92 vs GreenEvolution 76 — perfiles PVC Salamander. Diferencias técnicas, aislamiento térmico, precio y recomendaciones.',
       it: 'Confronto completo BluEvolution 92 vs GreenEvolution 76 — profili PVC Salamander. Differenze tecniche, isolamento termico, prezzo e raccomandazioni.',
     },
-    keywords: 'BluEvolution 92, GreenEvolution 76, profile PVC Salamander, tamplarie PVC nZEB, ferestre PVC 6 camere, Uw 0.70, comparatie profile PVC',
+    keywords: 'BluEvolution 92 6 camere, GreenEvolution 76 5 camere, profile PVC Salamander, tamplarie PVC nZEB, Uw 0.70, comparatie profile PVC',
     content: {
       ro: `## De ce contează alegerea profilului PVC?
 
@@ -1985,6 +1986,7 @@ Da Neofort BIZ forniamo e installiamo entrambi i sistemi. Contattateci per un pr
       it: 'esportazione-serramenti-romania-germania',
     },
     date: '2025-04-15',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
     dateDisplay: { ro:'15 Aprilie 2025', en:'April 15, 2025', de:'15. April 2025', fr:'15 avril 2025', es:'15 de abril de 2025', it:'15 aprile 2025' },
     category: { ro:'Export & Europa', en:'Export & Europe', de:'Export & Europa', fr:'Export & Europe', es:'Exportación & Europa', it:'Export & Europa' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },

@@ -45,13 +45,15 @@ export async function generateMetadata({ params }) {
   return {
     title: ui.title,
     description: ui.desc,
+    keywords: locale === 'ro' ? 'rulouri exterioare aluminiu, jaluzele raffstore, sisteme umbrire, protectie solara Somfy' : locale === 'en' ? 'aluminium roller shutters, Raffstore blinds, shading systems, solar protection Somfy' : locale === 'de' ? 'Aluminium Rollläden, Raffstore Jalousien, Beschattungssysteme, Sonnenschutz Somfy' : locale === 'fr' ? 'volets roulants aluminium, stores Raffstore, systèmes occultation, protection solaire' : locale === 'es' ? 'persianas exteriores aluminio, persianas Raffstore, sombreado, protección solar' : 'tapparelle alluminio, veneziane Raffstore, sistemi oscuramento, protezione solare',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
       canonical: `${BASE}/${locale}/${slug}`,
       languages: Object.fromEntries([...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]), ['x-default', `${BASE}/ro/${SLUGS.ro}`]]),
     },
     openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images:[{ url:`${BASE}/og-neofort.jpg`, width:1200, height:630 }] },
-  };
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og-neofort.jpg`] },
+};
 }
 
 export default async function Page({ params }) {
@@ -71,8 +73,32 @@ export default async function Page({ params }) {
     }))
   };
 
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      { '@type': 'ListItem', 'position': 1, 'name': 'Neofort BIZ', 'item': 'https://www.neofort-biz.ro/' + locale },
+      { '@type': 'ListItem', 'position': 2, 'name': ui.h1, 'item': 'https://www.neofort-biz.ro/' + locale + '/' + (SLUGS[locale] || SLUGS.ro) },
+    ],
+  };
+
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    'mainEntity': ({'ro': [['Ce este mai bun: rulouri aluminiu sau jaluzele Raffstore?', 'Rulourile asigură protecție maximă la efracție (RC3) și izolare termică nocturnă. Raffstore oferă control solar de precizie cu vedere păstrată. Dacă prioritatea e securitatea și izolarea termică — rulouri. Dacă e controlul luminii — Raffstore.'], ['Rulourile exterioare din aluminiu se pot monta pe ferestre deja instalate?', 'Da, rulourile aluminiu se montează ca sistem aplicat sau suprapus direct pe tâmplăria existentă, fără modificări structurale, atât pe PVC cât și pe aluminiu.'], ['Ce reducere solară oferă jaluzelele Raffstore față de rulourile clasice?', 'Raffstore reduce câștigul solar cu până la 85% (față de 70% la rulouri), cu avantajul unic că menține vederea spre exterior la orice poziție intermediară a lamelelor.']], 'en': [['What is better: aluminium roller shutters or Raffstore blinds?', "Shutters offer maximum RC3 burglary protection and night thermal insulation. Raffstore provides precision solar control with maintained exterior view. If priority is security and insulation — shutters. If it's light control — Raffstore."], ['Can exterior aluminium shutters be fitted to already installed windows?', 'Yes, aluminium shutters are installed as a surface-mounted or overlay system directly on existing joinery, without structural modifications, on both PVC and aluminium frames.'], ['What solar reduction do Raffstore blinds offer vs. classic shutters?', 'Raffstore reduces solar heat gain by up to 85% (vs. 70% for shutters), with the unique advantage of maintaining exterior view at any intermediate slat position.']]})[locale]?.map(([q,a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a }
+    })) || {'ro': [['Ce este mai bun: rulouri aluminiu sau jaluzele Raffstore?', 'Rulourile asigură protecție maximă la efracție (RC3) și izolare termică nocturnă. Raffstore oferă control solar de precizie cu vedere păstrată. Dacă prioritatea e securitatea și izolarea termică — rulouri. Dacă e controlul luminii — Raffstore.'], ['Rulourile exterioare din aluminiu se pot monta pe ferestre deja instalate?', 'Da, rulourile aluminiu se montează ca sistem aplicat sau suprapus direct pe tâmplăria existentă, fără modificări structurale, atât pe PVC cât și pe aluminiu.'], ['Ce reducere solară oferă jaluzelele Raffstore față de rulourile clasice?', 'Raffstore reduce câștigul solar cu până la 85% (față de 70% la rulouri), cu avantajul unic că menține vederea spre exterior la orice poziție intermediară a lamelelor.']], 'en': [['What is better: aluminium roller shutters or Raffstore blinds?', "Shutters offer maximum RC3 burglary protection and night thermal insulation. Raffstore provides precision solar control with maintained exterior view. If priority is security and insulation — shutters. If it's light control — Raffstore."], ['Can exterior aluminium shutters be fitted to already installed windows?', 'Yes, aluminium shutters are installed as a surface-mounted or overlay system directly on existing joinery, without structural modifications, on both PVC and aluminium frames.'], ['What solar reduction do Raffstore blinds offer vs. classic shutters?', 'Raffstore reduces solar heat gain by up to 85% (vs. 70% for shutters), with the unique advantage of maintaining exterior view at any intermediate slat position.']]}['ro'].map(([q,a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a }
+    }))
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <style>{`
         .acc-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; background:#fff; }
