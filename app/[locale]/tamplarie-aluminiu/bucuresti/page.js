@@ -102,7 +102,7 @@ const UI = {
       ['Day 3–5', 'Detailed quote', 'You receive the quote with complete specifications, final prices and delivery schedule.'],
       ['Day 14–21', 'Production', 'Windows are manufactured at the partner Alumil factory based on exact measurements.'],
       ['Day 21–25', 'Installation', 'Our team carries out installation per RAL and nZEB standards, with all tapes and precasings.'],
-      ['Post-install', 'Warranty & service', 'Final inspection, technical documentation, warranty certificate and dedicated contact for any request.'],
+      ['Post-install\', 'Warranty & service', 'Final inspection, technical documentation, warranty certificate and dedicated contact for any request.'],
     ],
     faq_title: 'Frequently asked questions — aluminium windows Bucharest',
     faq: [

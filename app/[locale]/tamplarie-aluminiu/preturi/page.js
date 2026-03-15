@@ -260,7 +260,7 @@ const UI = {
     faq: [
       ['Quanto costa una finestra in alluminio?', 'Una finestra battente standard Alumil Smartia (100×120 cm) costa 350–500 EUR inclusi vetro isolante e posa. Una Supreme SF85 delle stesse dimensioni costa 450–650 EUR.'],
       ['Qual è il prezzo minimo per infissi in alluminio?', 'Il prezzo minimo realistico per infissi in alluminio con taglio termico e posa professionale è di 250 EUR/m². Le offerte al di sotto utilizzano solitamente profilati senza taglio termico.'],
-      ['Quanto costa una porta scorrevole in alluminio?', 'Una porta scorrevole Alumil S350 Smartia (2×2,1 m, un'anta) costa 900–1.400 EUR. Un sistema alzante scorrevole S700 Supreme (3×2,4 m, due ante) costa 2.500–4.000 EUR.'],
+      ['Quanto costa una porta scorrevole in alluminio?', 'Una porta scorrevole Alumil S350 Smartia (2×2,1 m, un\'anta) costa 900–1.400 EUR. Un sistema alzante scorrevole S700 Supreme (3×2,4 m, due ante) costa 2.500–4.000 EUR.'],
       ['I prezzi includono IVA?', 'I prezzi indicativi sono al netto IVA. L\'IVA del 19% viene aggiunta in fattura.'],
     ],
     see_also: 'Vedi anche',
