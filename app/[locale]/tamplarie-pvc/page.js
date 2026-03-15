@@ -220,21 +220,52 @@ export default async function TamplariePVCPage({ params }) {
     }))
   };
 
-  const faqItemsPVC = ({'ro': [
-    ['Cât costă tâmplăria PVC Salamander în 2026?', 'Prețul tâmplăriei PVC Salamander pornește de la 180–250 EUR/mp pentru GreenEvolution 76 și ajunge la 250–380 EUR/mp pentru BluEvolution 92, inclusiv geam termopan și montaj profesional. Prețul final depinde de dimensiuni, configurație și opțiuni (culoare RAL, geam tripan).'],
-    ['Care este diferența față de termopanele obișnuite?', 'Termopan este termenul popular pentru geamul termoizolator, nu pentru tâmplărie. Profilele Salamander BluEvolution 92 și GreenEvolution 76 sunt certificate nZEB cu 5–6 camere de aer, Uw ≤ 0,70–0,73 W/m²K — semnificativ mai performante decât profilele generice ieftine de 3–4 camere.'],
-    ['Care este diferența dintre BluEvolution 92 și GreenEvolution 76?', 'BluEvolution 92 are 6 camere, adâncime 92mm și Uw = 0,70 W/m²K — standard Passive House. GreenEvolution 76 are 5 camere, adâncime 76mm și Uw = 0,73 W/m²K — standard nZEB. BluEvolution 92 este recomandat pentru proiecte premium; GreenEvolution 76 pentru proiecte cu raport calitate-preț optim.'],
-    ['Ce înseamnă nZEB și de ce contează la tâmplărie?', 'nZEB (Nearly Zero Energy Building) este standardul european obligatoriu în România din 2021 pentru construcții noi. Profilele Salamander GreenEvolution 76 și BluEvolution 92 sunt certificate nZEB, cu Uw ≤ 0,73 W/m²K — condiție necesară pentru autorizațiile de construcție noi.'],
-    ['Ce este profilul MD față de AD în gama GreenEvolution 76?', 'MD (Middle Density) are o garnitură mediană suplimentară — 3 puncte de etanșare total. AD (Advanced Design) are 2 garnituri EPDM fără garnitură mediană. Ambele au 5 camere. MD ROUND are design curbat, MD FLEX și AD FLEX au design drept.'],
-  ], 'en': [
-    ['How much do Salamander PVC windows cost in 2026?', 'Salamander PVC window prices start from 180–250 EUR/m² for GreenEvolution 76 and 250–380 EUR/m² for BluEvolution 92, including thermal glass and professional installation.'],
-    ['What is the difference from standard double glazing?', 'Salamander BluEvolution 92 and GreenEvolution 76 are nZEB certified profiles with 5–6 air chambers, Uw ≤ 0.70–0.73 W/m²K — significantly better than cheap generic 3–4 chamber profiles.'],
-    ['What is the difference between BluEvolution 92 and GreenEvolution 76?', 'BluEvolution 92 has 6 chambers, 92mm depth, Uw = 0.70 W/m²K — Passive House standard. GreenEvolution 76 has 5 chambers, 76mm depth, Uw = 0.73 W/m²K — nZEB standard. BluEvolution 92 for premium projects, GreenEvolution 76 for optimal value.'],
-    ['What does nZEB mean for PVC windows?', 'nZEB (Nearly Zero Energy Building) is mandatory in Romania from 2021 for new constructions. Salamander profiles are nZEB certified with Uw ≤ 0.73 W/m²K.'],
-    ['What is MD vs AD in GreenEvolution 76?', 'MD has an additional middle gasket — 3 sealing points total. AD has 2 EPDM gaskets without middle gasket. Both have 5 chambers. MD ROUND has rounded design, FLEX variants have straight design.'],
-  ]})[locale] || [];
+  const faqItemsPVC = ({
+    ro:[
+      ['Cât costă tâmplăria PVC Salamander în 2026?','Prețul pornește de la 180–250 EUR/mp pentru GreenEvolution 76 și ajunge la 250–380 EUR/mp pentru BluEvolution 92, inclusiv geam termopan și montaj profesional.'],
+      ['Care este diferența față de termopanele obișnuite?','Profilele Salamander sunt certificate nZEB cu 5–6 camere de aer și Uw ≤ 0,70–0,73 W/m²K — semnificativ mai performante decât profilele generice ieftine de 3–4 camere.'],
+      ['Care este diferența dintre BluEvolution 92 și GreenEvolution 76?','BluEvolution 92 are 6 camere, adâncime 92mm și Uw = 0,70 W/m²K — standard Passive House. GreenEvolution 76 are 5 camere, adâncime 76mm și Uw = 0,73 W/m²K — standard nZEB.'],
+      ['Ce înseamnă nZEB și de ce contează la tâmplărie?','nZEB este standardul european obligatoriu în România din 2021 pentru construcții noi. Profilele Salamander sunt certificate nZEB cu Uw ≤ 0,73 W/m²K.'],
+      ['Ce este profilul MD față de AD în gama GreenEvolution 76?','MD are o garnitură mediană suplimentară — 3 puncte de etanșare total. AD are 2 garnituri EPDM fără garnitură mediană. Ambele au 5 camere.'],
+    ],
+    en:[
+      ['How much do Salamander PVC windows cost in 2026?','Prices start from 180–250 EUR/m² for GreenEvolution 76 and 250–380 EUR/m² for BluEvolution 92, including thermal glass and professional installation.'],
+      ['What is the difference from standard double glazing?','Salamander profiles are nZEB certified with 5–6 air chambers and Uw ≤ 0.70–0.73 W/m²K — significantly better than cheap generic 3–4 chamber profiles.'],
+      ['What is the difference between BluEvolution 92 and GreenEvolution 76?','BluEvolution 92 has 6 chambers, 92mm depth and Uw = 0.70 W/m²K — Passive House standard. GreenEvolution 76 has 5 chambers, 76mm and Uw = 0.73 W/m²K — nZEB standard.'],
+      ['What does nZEB mean for PVC windows?','nZEB is mandatory in Romania from 2021 for new constructions. Salamander profiles are nZEB certified with Uw ≤ 0.73 W/m²K.'],
+      ['What is MD vs AD in GreenEvolution 76?','MD has an additional middle gasket — 3 sealing points total. AD has 2 EPDM gaskets without middle gasket. Both have 5 chambers.'],
+    ],
+    de:[
+      ['Was kosten Salamander PVC-Fenster im Jahr 2026?','Preise ab 180–250 EUR/m² für GreenEvolution 76 bis 250–380 EUR/m² für BluEvolution 92, einschließlich Isolierglas und professionellem Einbau.'],
+      ['Was ist der Unterschied zu herkömmlichen Thermopane?','Salamander-Profile sind nZEB-zertifiziert mit 5–6 Luftkammern und Uw ≤ 0,70–0,73 W/m²K — deutlich besser als günstige generische Profile mit 3–4 Kammern.'],
+      ['Was ist der Unterschied zwischen BluEvolution 92 und GreenEvolution 76?','BluEvolution 92 hat 6 Kammern, 92mm Tiefe und Uw = 0,70 W/m²K — Passivhaus-Standard. GreenEvolution 76 hat 5 Kammern, 76mm und Uw = 0,73 W/m²K — nZEB-Standard.'],
+      ['Was bedeutet nZEB für PVC-Fenster?','nZEB ist in Rumänien seit 2021 für Neubauten obligatorisch. Salamander-Profile sind nZEB-zertifiziert mit Uw ≤ 0,73 W/m²K.'],
+      ['Was ist MD vs AD bei GreenEvolution 76?','MD hat eine zusätzliche mittlere Dichtung — 3 Dichtungspunkte gesamt. AD hat 2 EPDM-Dichtungen ohne mittlere Dichtung. Beide haben 5 Kammern.'],
+    ],
+    fr:[
+      ["Combien coûtent les fenêtres PVC Salamander en 2026 ?","Prix à partir de 180–250 EUR/m² pour GreenEvolution 76 et 250–380 EUR/m² pour BluEvolution 92, vitrage isolant et pose inclus."],
+      ["Quelle est la différence avec les vitrages standard ?","Les profils Salamander sont certifiés nZEB avec 5–6 chambres d'air et Uw ≤ 0,70–0,73 W/m²K — bien supérieurs aux profils génériques bon marché à 3–4 chambres."],
+      ["Quelle est la différence entre BluEvolution 92 et GreenEvolution 76 ?","BluEvolution 92 a 6 chambres, 92mm de profondeur et Uw = 0,70 W/m²K — standard Maison Passive. GreenEvolution 76 a 5 chambres, 76mm et Uw = 0,73 W/m²K — standard nZEB."],
+      ["Qu'est-ce que nZEB pour les fenêtres PVC ?","nZEB est obligatoire en Roumanie depuis 2021 pour les nouvelles constructions. Les profils Salamander sont certifiés nZEB avec Uw ≤ 0,73 W/m²K."],
+      ["Qu'est-ce que MD vs AD dans GreenEvolution 76 ?","MD a un joint médian supplémentaire — 3 points d'étanchéité au total. AD a 2 joints EPDM sans joint médian. Les deux ont 5 chambres."],
+    ],
+    es:[
+      ['¿Cuánto cuestan las ventanas PVC Salamander en 2026?','Precios desde 180–250 EUR/m² para GreenEvolution 76 hasta 250–380 EUR/m² para BluEvolution 92, incluyendo vidrio aislante e instalación profesional.'],
+      ['¿Cuál es la diferencia con el doble acristalamiento estándar?','Los perfiles Salamander están certificados nZEB con 5–6 cámaras de aire y Uw ≤ 0,70–0,73 W/m²K — mejores que los perfiles genéricos de 3–4 cámaras.'],
+      ['¿Cuál es la diferencia entre BluEvolution 92 y GreenEvolution 76?','BluEvolution 92 tiene 6 cámaras, 92mm y Uw = 0,70 W/m²K — estándar Casa Pasiva. GreenEvolution 76 tiene 5 cámaras, 76mm y Uw = 0,73 W/m²K — estándar nZEB.'],
+      ['¿Qué significa nZEB para ventanas PVC?','nZEB es obligatorio en Rumanía desde 2021. Los perfiles Salamander están certificados nZEB con Uw ≤ 0,73 W/m²K.'],
+      ['¿Qué es MD vs AD en GreenEvolution 76?','MD tiene una junta central adicional — 3 puntos de sellado. AD tiene 2 juntas EPDM sin junta central. Ambos tienen 5 cámaras.'],
+    ],
+    it:[
+      ["Quanto costano le finestre PVC Salamander nel 2026?","Prezzi da 180–250 EUR/m² per GreenEvolution 76 a 250–380 EUR/m² per BluEvolution 92, inclusi vetro isolante e posa professionale."],
+      ["Qual è la differenza con i classici termopane?","I profili Salamander sono certificati nZEB con 5–6 camere d'aria e Uw ≤ 0,70–0,73 W/m²K — migliori dei profili generici economici a 3–4 camere."],
+      ["Qual è la differenza tra BluEvolution 92 e GreenEvolution 76?","BluEvolution 92 ha 6 camere, 92mm e Uw = 0,70 W/m²K — standard Casa Passiva. GreenEvolution 76 ha 5 camere, 76mm e Uw = 0,73 W/m²K — standard nZEB."],
+      ["Cosa significa nZEB per gli infissi PVC?","nZEB è obbligatorio in Romania dal 2021. I profili Salamander sono certificati nZEB con Uw ≤ 0,73 W/m²K."],
+      ["Cosa significa MD vs AD in GreenEvolution 76?","MD ha una guarnizione mediana aggiuntiva — 3 punti di tenuta totali. AD ha 2 guarnizioni EPDM senza guarnizione mediana. Entrambi hanno 5 camere."],
+    ],
+  })[locale] || [];
 
-  const faqLabelPVC = {'ro':'Întrebări frecvente','en':'Frequently asked questions','de':'Häufig gestellte Fragen','fr':'Questions fréquentes','es':'Preguntas frecuentes','it':'Domande frequenti'}[locale] || 'Întrebări frecvente';
+  const faqLabelPVC = {ro:'Întrebări frecvente',en:'Frequently asked questions',de:'Häufig gestellte Fragen',fr:'Questions fréquentes',es:'Preguntas frecuentes',it:'Domande frequenti'}[locale] || 'Întrebări frecvente';
 
   return (
     <>

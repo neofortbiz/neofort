@@ -213,21 +213,52 @@ export default async function TamplaieAluminiuPage({ params }) {
     }))
   };
 
-  const faqItems = ({'ro': [
-    ['Care este diferența dintre Alumil Supreme și Smartia?', 'Supreme este gama profesională pentru proiecte arhitecturale exigente — barieră termică avansată, design minimalist, certificare Passive House. Smartia este gama comercială cu un raport calitate-preț mai bun, potrivită pentru proiecte rezidențiale și comerciale standard.'],
-    ['Cât costă tâmplăria din aluminiu în 2026?', 'Prețul tâmplăriei aluminiu cu barieră termică pornește de la 250–350 EUR/mp pentru ferestre standard Alumil Smartia și ajunge la 450–700 EUR/mp pentru sisteme premium Supreme SF85 sau liftant-glisante. Prețul include profilul, geamul termopan și montajul profesional.'],
-    ['Care e diferența dintre tâmplăria aluminiu și termopanele clasice?', 'Tâmplăria aluminiu cu barieră termică are aceleași performanțe termice ca PVC-ul premium, dar cu secțiuni mult mai subțiri, rigiditate structurală superioară pentru suprafețe mari și durabilitate practic nelimitată — aluminiul nu se deformează, nu îngălbenește și nu necesită vopsire.'],
-    ['Sistemele glisante Alumil S700/S350 pot fi montate pe terase?', 'Da, sistemele liftant-glisante Alumil S700 Supreme și S350 Smartia sunt proiectate special pentru deschideri mari de terasă și living. Suportă canaturi de până la 300 kg, profil orizontal maxim 6 m, cu etanșare conformă nZEB.'],
-    ['Aluminiu sau PVC pentru ferestre mari?', 'Pentru suprafețe vitrate mari (>2m²), ferestre panoramice sau pereți cortină, aluminiu este recomandat — rigiditate structurală superioară, toleranță termică mai bună la dilatații mari, și aspect arhitectural mai subțire. PVC este preferat pentru ferestre standard și renovări.'],
-  ], 'en': [
-    ['What is the difference between Alumil Supreme and Smartia?', 'Supreme is the professional range for demanding architectural projects — advanced thermal break, minimalist design, Passive House certification. Smartia is the commercial range with better value, suitable for standard residential and commercial projects.'],
-    ['How much do aluminium windows cost in 2026?', 'Aluminium window prices start from 250–350 EUR/m² for standard Alumil Smartia frames and reach 450–700 EUR/m² for premium Supreme SF85 or lift-and-slide systems. Price includes profile, thermal glass and professional installation.'],
-    ['What is the difference between aluminium windows and classic double glazing?', 'Thermal break aluminium has the same thermal performance as premium PVC, but with much thinner sections, superior structural rigidity for large areas and virtually unlimited durability — aluminium does not deform, yellow or require painting.'],
-    ['Can Alumil S700/S350 sliding systems be installed on terraces?', 'Yes, Alumil S700 Supreme and S350 Smartia lift-and-slide systems are specifically designed for large terrace and living room openings. They support leaves up to 300 kg, maximum 6m horizontal profile, nZEB-compliant sealing.'],
-    ['Aluminium or PVC for large windows?', 'For large glazed areas (>2m²), panoramic windows or curtain walls, aluminium is recommended — superior structural rigidity, better thermal tolerance and architecturally thinner appearance. PVC is preferred for standard windows and renovations.'],
-  ]})[locale] || [['Care este diferența dintre Alumil Supreme și Smartia?', 'Supreme este gama profesională pentru proiecte arhitecturale exigente. Smartia este gama comercială cu un raport calitate-preț mai bun.']];
+  const faqItems = ({
+    ro:[
+      ['Care este diferența dintre Alumil Supreme și Smartia?','Supreme este gama profesională cu barieră termică avansată, design minimalist și certificare Passive House. Smartia este gama comercială cu raport calitate-preț mai bun, potrivită pentru proiecte rezidențiale și comerciale standard.'],
+      ['Cât costă tâmplăria din aluminiu în 2026?','Prețul pornește de la 250–350 EUR/mp pentru ferestre standard Alumil Smartia și ajunge la 450–700 EUR/mp pentru sisteme premium Supreme SF85 sau liftant-glisante. Prețul include profilul, geamul termopan și montajul profesional.'],
+      ['Care e diferența dintre tâmplăria aluminiu și termopanele clasice?','Tâmplăria aluminiu cu barieră termică are aceleași performanțe termice ca PVC-ul premium, dar cu secțiuni mai subțiri, rigiditate structurală superioară și durabilitate nelimitată — nu se deformează, nu îngălbenește și nu necesită vopsire.'],
+      ['Sistemele glisante Alumil pot fi montate pe terase?','Da, sistemele liftant-glisante Alumil S700 Supreme și S350 Smartia suportă canaturi de până la 300 kg, profil orizontal maxim 6 m, cu etanșare conformă nZEB.'],
+      ['Aluminiu sau PVC pentru ferestre mari?','Pentru suprafețe vitrate mari, ferestre panoramice sau pereți cortină, aluminiu este recomandat — rigiditate superioară și aspect arhitectural mai subțire. PVC este preferat pentru ferestre standard și renovări.'],
+    ],
+    en:[
+      ['What is the difference between Alumil Supreme and Smartia?','Supreme is the professional range with advanced thermal break, minimalist design and Passive House certification. Smartia is the commercial range with better value for standard residential and commercial projects.'],
+      ['How much do aluminium windows cost in 2026?','Prices start from 250–350 EUR/m² for standard Alumil Smartia and reach 450–700 EUR/m² for premium Supreme SF85 or lift-and-slide systems. Price includes profile, thermal glass and professional installation.'],
+      ['What is the difference between aluminium windows and classic double glazing?','Thermal break aluminium has the same thermal performance as premium PVC but with much thinner sections, superior structural rigidity for large areas and virtually unlimited durability.'],
+      ['Can Alumil sliding systems be installed on terraces?','Yes, Alumil S700 Supreme and S350 Smartia support leaves up to 300 kg, maximum 6m horizontal profile with nZEB-compliant sealing.'],
+      ['Aluminium or PVC for large windows?','For large glazed areas, panoramic windows or curtain walls, aluminium is recommended. PVC is preferred for standard windows and renovations.'],
+    ],
+    de:[
+      ['Was ist der Unterschied zwischen Alumil Supreme und Smartia?','Supreme ist die professionelle Reihe mit fortschrittlicher Wärmedämmbrücke und Passivhaus-Zertifizierung. Smartia ist die kommerzielle Reihe mit besserem Preis-Leistungs-Verhältnis.'],
+      ['Was kostet Aluminiumtâmplărie im Jahr 2026?','Preise ab 250–350 EUR/m² für Standard Smartia bis 450–700 EUR/m² für Premium Supreme SF85 oder Hebeschiebetüren, inkl. Profil, Isolierglas und Einbau.'],
+      ['Was ist der Unterschied zwischen Aluminiumfenstern und Thermopane?','Aluminium mit Wärmedämmbrücke bietet dieselbe thermische Leistung wie Premium-PVC, jedoch mit dünneren Querschnitten, überlegener Steifigkeit und unbegrenzter Haltbarkeit.'],
+      ['Können Alumil-Schiebesysteme auf Terrassen montiert werden?','Ja, Alumil S700 und S350 Hebeschiebetüren unterstützen Flügel bis 300 kg bei maximal 6 m Horizontalprofil mit nZEB-konformer Abdichtung.'],
+      ['Aluminium oder PVC für große Fenster?','Für große Glasflächen, Panoramafenster oder Vorhangfassaden wird Aluminium empfohlen. PVC ist für Standardfenster und Renovierungen vorzuziehen.'],
+    ],
+    fr:[
+      ["Quelle est la différence entre Alumil Supreme et Smartia ?","Supreme est la gamme professionnelle avec rupture de pont thermique et certification Maison Passive. Smartia est la gamme commerciale avec un meilleur rapport qualité-prix."],
+      ["Combien coûte la menuiserie aluminium en 2026 ?","Prix à partir de 250–350 EUR/m² pour Alumil Smartia standard jusqu'à 450–700 EUR/m² pour Supreme SF85 ou coulissants levants, pose et vitrage inclus."],
+      ["Quelle est la différence entre les fenêtres aluminium et les vitrages classiques ?","L'aluminium à rupture de pont thermique offre les mêmes performances que le PVC premium, mais avec des sections plus minces et une rigidité supérieure pour les grandes surfaces."],
+      ["Les coulissants Alumil peuvent-ils être montés sur des terrasses ?","Oui, Alumil S700 Supreme et S350 Smartia supportent des vantaux jusqu'à 300 kg avec un profil horizontal maximal de 6 m."],
+      ["Aluminium ou PVC pour les grandes fenêtres ?","Pour les grandes surfaces vitrées, fenêtres panoramiques ou murs-rideaux, l'aluminium est recommandé. Le PVC est préféré pour les fenêtres standard."],
+    ],
+    es:[
+      ['¿Cuál es la diferencia entre Alumil Supreme y Smartia?','Supreme es la gama profesional con rotura de puente térmico y certificación Casa Pasiva. Smartia es la gama comercial con mejor relación calidad-precio.'],
+      ['¿Cuánto cuesta la carpintería de aluminio en 2026?','Precios desde 250–350 EUR/m² para Alumil Smartia estándar hasta 450–700 EUR/m² para Supreme SF85 o corredera elevable, incluidos perfil, vidrio e instalación.'],
+      ['¿Cuál es la diferencia entre ventanas de aluminio y el doble acristalamiento clásico?','El aluminio con rotura de puente térmico tiene el mismo rendimiento que el PVC premium, pero con secciones más delgadas y rigidez superior para grandes superficies.'],
+      ['¿Los sistemas correderos Alumil se pueden instalar en terrazas?','Sí, Alumil S700 y S350 soportan hojas hasta 300 kg con un perfil horizontal máximo de 6 m y sellado nZEB.'],
+      ['¿Aluminio o PVC para ventanas grandes?','Para superficies grandes, ventanas panorámicas o muros cortina, se recomienda el aluminio. El PVC es preferido para ventanas estándar.'],
+    ],
+    it:[
+      ["Qual è la differenza tra Alumil Supreme e Smartia?","Supreme è la gamma professionale con taglio termico avanzato e certificazione Casa Passiva. Smartia è la gamma commerciale con un miglior rapporto qualità-prezzo."],
+      ["Quanto costano gli infissi in alluminio nel 2026?","Prezzi da 250–350 EUR/m² per Alumil Smartia standard fino a 450–700 EUR/m² per Supreme SF85 o scorrevoli alzanti, inclusi profilato, vetro e posa."],
+      ["Qual è la differenza tra gli infissi in alluminio e i classici termopane?","L'alluminio con taglio termico ha le stesse prestazioni del PVC premium, ma con sezioni più sottili e rigidità superiore per grandi superfici."],
+      ["I sistemi scorrevoli Alumil possono essere installati su terrazze?","Sì, Alumil S700 e S350 supportano ante fino a 300 kg con profilo orizzontale massimo di 6 m e tenuta nZEB."],
+      ["Alluminio o PVC per finestre grandi?","Per grandi superfici vetrate, finestre panoramiche o facciate continue, si raccomanda l'alluminio. Il PVC è preferito per finestre standard."],
+    ],
+  })[locale] || [];
 
-  const faqLabel = {'ro':'Întrebări frecvente','en':'Frequently asked questions','de':'Häufig gestellte Fragen','fr':'Questions fréquentes','es':'Preguntas frecuentes','it':'Domande frequenti'}[locale] || 'Întrebări frecvente';
+  const faqLabel = {ro:'Întrebări frecvente',en:'Frequently asked questions',de:'Häufig gestellte Fragen',fr:'Questions fréquentes',es:'Preguntas frecuentes',it:'Domande frequenti'}[locale] || 'Întrebări frecvente';
 
   return (
     <>
