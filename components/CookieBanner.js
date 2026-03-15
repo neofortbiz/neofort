@@ -83,7 +83,14 @@ export default function CookieBanner({ locale }) {
       }}>
         {t.text}{' '}
         <a
-          href={`/${locale}/gdpr`}
+          href={`/${locale}/${
+            locale === 'ro' ? 'gdpr' :
+            locale === 'en' ? 'privacy-policy' :
+            locale === 'de' ? 'datenschutz' :
+            locale === 'fr' ? 'politique-confidentialite' :
+            locale === 'es' ? 'politica-privacidad' :
+            'informativa-privacy'
+          }`}
           style={{ color: '#fff', textDecoration: 'underline', whiteSpace: 'nowrap' }}
         >
           {t.link}
