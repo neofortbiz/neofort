@@ -387,6 +387,22 @@ export default async function TamplaieAluminiuPage({ params }) {
       <section className="section-base" style={{paddingTop:0}}>
         <div className="container mx-auto px-6 max-w-3xl">
           <FaqAccordion items={faqItems} title={faqLabel} />
+
+          {/* ── LINKURI SEO INTERNE ── */}
+          <div style={{marginTop:'32px',padding:'20px',background:'#f8f8f6',borderRadius:'6px',display:'flex',flexWrap:'wrap',gap:'8px',alignItems:'center'}}>
+            <span style={{fontSize:'.8rem',color:'#999',textTransform:'uppercase',letterSpacing:'.08em',marginRight:'8px'}}>
+              {{'ro':'Vezi și','en':'See also','de':'Siehe auch','fr':'Voir aussi','es':'Ver también','it':'Vedi anche'}[locale]}:
+            </span>
+            <Link href={`/${{'ro':'tamplarie-aluminiu/preturi','en':'aluminium-windows/prices','de':'aluminiumfenster/preise','fr':'menuiserie-aluminium/prix','es':'carpinteria-aluminio/precios','it':'infissi-alluminio/prezzi'}[locale]}`}
+              style={{fontSize:'.88rem',color:'#2d5a8e',textDecoration:'underline',textUnderlineOffset:'3px'}}>
+              {{'ro':'Prețuri tâmplărie aluminiu 2026','en':'Aluminium window prices 2026','de':'Aluminiumfenster Preise 2026','fr':'Prix menuiserie aluminium 2026','es':'Precios carpintería aluminio 2026','it':'Prezzi infissi alluminio 2026'}[locale]}
+            </Link>
+            <span style={{color:'#ccc'}}>·</span>
+            <Link href={`/${{'ro':'tamplarie-aluminiu/bucuresti','en':'aluminium-windows/bucharest','de':'aluminiumfenster/bukarest','fr':'menuiserie-aluminium/bucarest','es':'carpinteria-aluminio/bucarest','it':'infissi-alluminio/bucarest'}[locale]}`}
+              style={{fontSize:'.88rem',color:'#2d5a8e',textDecoration:'underline',textUnderlineOffset:'3px'}}>
+              {{'ro':'Montaj București și Ilfov','en':'Installation Bucharest & Ilfov','de':'Montage Bukarest & Ilfov','fr':'Pose Bucarest & Ilfov','es':'Instalación Bucarest & Ilfov','it':'Posa Bucarest & Ilfov'}[locale]}
+            </Link>
+          </div>
         </div>
       </section>
     </>

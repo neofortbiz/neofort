@@ -21,6 +21,22 @@ export const routing = defineRouting({
       es: '/carpinteria-aluminio',
       it: '/infissi-alluminio',
     },
+    '/tamplarie-aluminiu/preturi': {
+      ro: '/tamplarie-aluminiu/preturi',
+      en: '/aluminium-windows/prices',
+      de: '/aluminiumfenster/preise',
+      fr: '/menuiserie-aluminium/prix',
+      es: '/carpinteria-aluminio/precios',
+      it: '/infissi-alluminio/prezzi',
+    },
+    '/tamplarie-aluminiu/bucuresti': {
+      ro: '/tamplarie-aluminiu/bucuresti',
+      en: '/aluminium-windows/bucharest',
+      de: '/aluminiumfenster/bukarest',
+      fr: '/menuiserie-aluminium/bucarest',
+      es: '/carpinteria-aluminio/bucarest',
+      it: '/infissi-alluminio/bucarest',
+    },
     '/accesorii': {
       ro: '/accesorii',
       en: '/accessories',
