@@ -3801,6 +3801,429 @@ Profili visibili **solo in una direzione**, gli altri lati incollati con silicon
 **Email:** oferte@neofort-biz.ro`,
     },
   },
+
+  // ─── ARTICOL 7: Zipscreen — ghid complet ────────────────────────────────
+  {
+    slugs: {
+      ro: 'zipscreen-umbrire-terasa-ghid-complet',
+      en: 'zipscreen-terrace-shading-complete-guide',
+      de: 'zipscreen-terrassenbeschattung-komplettleitfaden',
+      fr: 'zipscreen-ombriere-terrasse-guide-complet',
+      es: 'zipscreen-sombreado-terraza-guia-completa',
+      it: 'zipscreen-ombreggiatura-terrazza-guida-completa',
+    },
+    date: '2026-03-15',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'15 Martie 2026', en:'March 15, 2026', de:'15. März 2026', fr:'15 mars 2026', es:'15 de marzo de 2026', it:'15 marzo 2026' },
+    category: { ro:'Sisteme Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:'Systèmes d\'occultation', es:'Sistemas de sombreado', it:'Sistemi di oscuramento' },
+    readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
+    image: {
+      ro: '/blog/blog-zipscreen.avif',
+      en: '/blog/blog-zipscreen.avif',
+      de: '/blog/blog-zipscreen.avif',
+      fr: '/blog/blog-zipscreen.avif',
+      es: '/blog/blog-zipscreen.avif',
+      it: '/blog/blog-zipscreen.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a2a1a 0%,#2d5a2d 60%,#4a8a4a 100%)',
+    imageLabel: 'Zipscreen ZIP',
+    accentColor: '#3a7a3a',
+    title: {
+      ro: 'Zipscreen — ghid complet 2026: blackout vs screen, prețuri și comparație cu rulouri exterioare',
+      en: 'Zipscreen — complete guide 2026: blackout vs screen, prices and comparison with roller shutters',
+      de: 'Zipscreen — Komplettleitfaden 2026: Blackout vs Screen, Preise und Vergleich mit Rollläden',
+      fr: 'Zipscreen — guide complet 2026 : blackout vs screen, prix et comparaison avec volets roulants',
+      es: 'Zipscreen — guía completa 2026: blackout vs screen, precios y comparación con persianas enrollables',
+      it: 'Zipscreen — guida completa 2026: blackout vs screen, prezzi e confronto con tapparelle',
+    },
+    excerpt: {
+      ro: 'Zipscreen este singurul sistem de umbrire textil exterior în care materialul rămâne perfect tensionat la vânt — datorită fermoarului ZIP din aluminiu. Ghid complet: diferența dintre blackout și screen, cum se compară cu rulourile exterioare clasice și cu jaluzelele Raffstore, ce prețuri să aștepți și pentru ce situații este potrivit fiecare.',
+      en: 'Zipscreen is the only exterior textile shading system where the fabric stays perfectly tensioned in wind — thanks to the aluminium ZIP fastener. Complete guide: difference between blackout and screen, how it compares with classic roller shutters and Raffstore blinds, what prices to expect and which situations suit each.',
+      de: 'Zipscreen ist das einzige textile Außenbeschattungssystem, bei dem das Gewebe windbeständig gespannt bleibt — dank dem Aluminium-ZIP-Reißverschluss. Komplettleitfaden: Unterschied zwischen Blackout und Screen, Vergleich mit klassischen Rollläden und Raffstore-Jalousien, Preise und geeignete Situationen.',
+      fr: 'Zipscreen est le seul système d\'occultation textile extérieur où le tissu reste parfaitement tendu par vent — grâce à la fermeture ZIP en aluminium. Guide complet : différence entre blackout et screen, comparaison avec volets roulants classiques et stores Raffstore, prix et situations appropriées.',
+      es: 'Zipscreen es el único sistema de sombreado textil exterior donde el tejido permanece perfectamente tensado con viento — gracias al cierre ZIP de aluminio. Guía completa: diferencia entre blackout y screen, comparación con persianas enrollables clásicas y Raffstore, precios y situaciones adecuadas.',
+      it: 'Zipscreen è l\'unico sistema di oscuramento tessile esterno dove il tessuto rimane perfettamente teso con il vento — grazie alla chiusura ZIP in alluminio. Guida completa: differenza tra blackout e screen, confronto con tapparelle classiche e veneziane Raffstore, prezzi e situazioni appropriate.',
+    },
+    metaDesc: {
+      ro: 'Ghid complet Zipscreen 2026: ce este, blackout vs screen, comparație cu rulouri exterioare aluminiu și Raffstore, prețuri 225–450 EUR/mp, montaj terase și pergole București.',
+      en: 'Complete Zipscreen guide 2026: what it is, blackout vs screen, comparison with aluminium roller shutters and Raffstore, prices 225–450 EUR/m², installation for terraces and pergolas Bucharest.',
+      de: 'Zipscreen Komplettleitfaden 2026: Was ist es, Blackout vs Screen, Vergleich mit Aluminiumrollläden und Raffstore, Preise 225–450 EUR/m², Montage für Terrassen und Pergolen.',
+      fr: 'Guide complet Zipscreen 2026 : qu\'est-ce que c\'est, blackout vs screen, comparaison avec volets roulants aluminium et Raffstore, prix 225–450 EUR/m², installation terrasses et pergolas.',
+      es: 'Guía completa Zipscreen 2026: qué es, blackout vs screen, comparación con persianas aluminio y Raffstore, precios 225–450 EUR/m², instalación terrazas y pérgolas.',
+      it: 'Guida completa Zipscreen 2026: cos\'è, blackout vs screen, confronto con tapparelle alluminio e Raffstore, prezzi 225–450 EUR/m², installazione terrazze e pergole.',
+    },
+    keywords: 'zipscreen, zipscreen pret, zipscreen terasa, zipscreen blackout, zipscreen screen transparent, rulou textil exterior zip, umbrire terasa 2026, zipscreen vs rulouri exterioare, zipscreen vs raffstore, zipscreen somfy, zipscreen pergola, zipscreen balcon',
+    content: {
+      ro: `## Ce este Zipscreen și de ce e diferit de rulourile exterioare clasice
+
+La prima vedere, Zipscreen pare un rulou exterior obișnuit. Diferența fundamentală e invizibilă până când bate vântul.
+
+Un rulou exterior clasic — chiar și din aluminiu — are marginile materialului libere în ghidaje. La vânt, materialul se bombează, fluturează și poate ieși din șine. **Zipscreen rezolvă această problemă prin fermoarul ZIP**: marginile materialului textil sunt prinse mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar de jachetă. Materialul nu poate ieși din ghidaje indiferent de intensitatea vântului — sistemul este testat și certificat **Clasa 6 Beaufort, până la 88 km/h**.
+
+Aceasta este diferența care justifică prețul superior față de un rulou clasic și care face din Zipscreen singura soluție textilă viabilă pentru terase deschise, pergole și fațade expuse.
+
+---
+
+## Blackout sau Screen — care este diferența reală
+
+Aceasta este prima și cea mai importantă decizie la achiziționarea unui Zipscreen.
+
+### Zipscreen Blackout (opac)
+Materialul nu lasă nicio rază de lumină să treacă. Avantaje concrete:
+- **Reducere temperatură interioară cu 15–20°C** față de un spațiu neprotejat
+- **Intimitate totală** — nu se vede nimic din afară, ziua sau noaptea
+- Ideal pentru dormitoare la parter, restaurante unde se dorește intimitate, terase cu orientare vest sau sud
+
+Dezavantaj: odată coborât, pierzi vederea spre exterior și lumina naturală.
+
+### Zipscreen Screen (transparent sau perforat)
+Materialul are microperforații — de la 3% la 10% deschidere vizuală. Avantaje:
+- **Filtrare UV 95–98%** — protejează pielea și mobila fără să blocheze lumina
+- **Vedere păstrată** din interior spre exterior (dinspre exterior spre interior vizibilitatea este mult redusă — efect de oglindă)
+- Temperatura redusă cu 8–12°C față de expunere directă
+- Permite circularea aerului
+
+Ideal pentru: terase rezidențiale unde se vrea umbra fără izolare, restaurante și cafenele, balcoane cu vedere.
+
+**Recomandarea Neofort BIZ**: dacă nu ești sigur, alege Screen. Oferă 80% din beneficiile blackout-ului cu zero sacrificiu al vederii.
+
+---
+
+## Zipscreen vs Rulouri Exterioare din Aluminiu — comparație directă
+
+| Criteriu | Zipscreen | Rulouri Aluminiu |
+|---|---|---|
+| Material | Textil (PVC țesut) | Lamele aluminiu |
+| Rezistență vânt | **Clasa 6 · 88 km/h** | Clasa 4–5 · 600 Pa |
+| Vizibilitate | Screen: **DA** · Blackout: nu | Nu |
+| Reducere solară | Blackout: 95% · Screen: 70–80% | 70–85% |
+| Izolare termică nocturnă | Mică | **Bună (ΔU ≈ 0,3 W/m²K)** |
+| Antiefracție | Nu | RC2–RC3 |
+| Dimensiuni maxime | **5.000 × 5.000 mm** | 3.500 × 3.000 mm |
+| Ideal pentru | Terase, pergole, fațade mari | Ferestre, balcoane |
+| Preț orientativ | 225–450 EUR/mp | 85–180 EUR/mp |
+
+**Concluzie**: Rulourile de aluminiu sunt superioare pentru ferestre individuale unde contează izolarea termică nocturnă și antiefracția. Zipscreen câștigă clar pe suprafețe mari, terase, pergole și oriunde ai nevoie de vizibilitate sau de acoperire de peste 3,5 m lățime.
+
+---
+
+## Zipscreen vs Jaluzele Raffstore — când alegi ce
+
+Raffstore (jaluzele venețiene exterioare) sunt sistemul de umbrire cu cel mai bun control al luminii — lamelele se orientează la orice unghi 0°–90°. Dar au un cost suplimentar și nu sunt ideale pentru suprafețe mari sau terase deschise.
+
+| Criteriu | Zipscreen | Raffstore |
+|---|---|---|
+| Control lumină | Coborât / ridicat | **Precizie 0°–90°** |
+| Rezistență vânt | **Clasa 6** | Clasa 4–5 |
+| Suprafețe mari | **DA (până la 5 m)** | Limitat la 3–4 m |
+| Aplicare pe terasă | **Ideal** | Ferestre, fațade |
+| Vedere spre exterior | Screen: **DA** | Parțial (lamele) |
+| Preț | 225–450 EUR/mp | 200–500 EUR/mp |
+
+---
+
+## Unde se montează Zipscreen — 5 aplicații principale
+
+**1. Laturi de pergolă retractabilă** — cea mai frecventă aplicație. Pergola acoperă, Zipscreen închide lateral. Rezultat: terasă complet protejată.
+
+**2. Fațade vitrate** — pe suprafețe mari de sticlă unde rulourile de aluminiu nu ajung. Zipscreen acoperă 16 m² fără nicio coloană intermediară.
+
+**3. Ferestre mari** — glisante, culisante sau fixe cu lățimi de peste 3,5 m unde lamelele Raffstore nu sunt disponibile.
+
+**4. Balcoane** — atât pentru umbrire cât și ca paravan împotriva vântului. Materialul perforat permite circularea aerului fără curenți.
+
+**5. Spații comerciale** — terase de restaurant, cafenele, showroom-uri. Brandul și culoarea RAL a profilului pot fi personalizate.
+
+---
+
+## Automatizare Somfy — de ce merită
+
+Zipscreen se poate acționa manual (cu manivelă) sau electric. Motorul electric Somfy adaugă:
+
+- **Senzor de vânt** — coboară automat la viteze periculoase, protejând investiția
+- **Senzor solar** — se coboară automat când soarele depășește un prag setat
+- **Aplicație mobilă Somfy TaHoma** — control de oriunde
+- **Integrare smart home** — KNX, Zigbee, WiFi, inclusiv Google Home și Apple HomeKit
+
+Costul motorului Somfy față de varianta manuală: +150–250 EUR per unitate. Recomandăm întotdeauna varianta electrică — senzorul de vânt singur justifică diferența de preț.
+
+---
+
+## Prețuri orientative Zipscreen 2026
+
+Prețul variază în funcție de dimensiuni, material (blackout sau screen) și tip de acționare:
+
+| Configurație | Preț estimat |
+|---|---|
+| Casetă 90, manual, 2×2 m | 450–600 EUR |
+| Casetă 105, electric Somfy, 3×2,5 m | 900–1.200 EUR |
+| Casetă 120, electric Somfy, 5×3 m | 1.500–2.200 EUR |
+| Suprafață totală (inclusiv montaj) | **225–450 EUR/mp** |
+
+*Prețurile includ profilul din aluminiu, materialul, motorul (la varianta electrică) și montajul. Culori RAL speciale sau materiale premium pot adăuga 10–20%.*
+
+---
+
+## Solicită ofertă Zipscreen de la Neofort BIZ
+
+Neofort BIZ furnizează și montează sisteme Zipscreen în București și toată Europa. Serviciul include măsurători gratuite, consultanță privind alegerea materialului și integrarea în arhitectura existentă.
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro
+**Program:** Luni–Vineri, 10:00–18:00`,
+
+      en: `## What is Zipscreen and why is it different from classic roller shutters
+
+At first glance, Zipscreen looks like an ordinary exterior roller. The fundamental difference is invisible until the wind blows.
+
+A classic exterior roller shutter — even aluminium — has the fabric edges free in the guides. In wind, the fabric bulges, flutters and can exit the rails. **Zipscreen solves this with the ZIP fastener**: the fabric edges are mechanically locked in a U-shaped aluminium profile, exactly like a jacket zipper. The fabric cannot exit the guides regardless of wind intensity — the system is tested and certified **Class 6 Beaufort, up to 88 km/h**.
+
+This is the difference that justifies the higher price versus a classic roller and makes Zipscreen the only viable textile solution for open terraces, pergolas and exposed facades.
+
+---
+
+## Blackout or Screen — the real difference
+
+This is the first and most important decision when purchasing Zipscreen.
+
+### Zipscreen Blackout (opaque)
+The fabric lets no light through. Concrete advantages:
+- **Indoor temperature reduction of 15–20°C** versus an unprotected space
+- **Total privacy** — nothing visible from outside, day or night
+- Ideal for ground floor bedrooms, restaurants wanting privacy, terraces facing west or south
+
+Disadvantage: once lowered, you lose the exterior view and natural light.
+
+### Zipscreen Screen (transparent or perforated)
+The fabric has microperforations — from 3% to 10% visual openness. Advantages:
+- **95–98% UV filtering** — protects skin and furniture without blocking light
+- **View maintained** from inside to outside (outside-to-inside visibility much reduced — mirror effect)
+- Temperature reduced by 8–12°C versus direct exposure
+- Allows air circulation
+
+Ideal for: residential terraces wanting shade without isolation, restaurants and cafes, balconies with views.
+
+**Neofort BIZ recommendation**: if unsure, choose Screen. Offers 80% of blackout benefits with zero sacrifice of the view.
+
+---
+
+## Zipscreen vs Aluminium Roller Shutters — direct comparison
+
+| Criterion | Zipscreen | Aluminium Shutters |
+|---|---|---|
+| Material | Textile (woven PVC) | Aluminium slats |
+| Wind resistance | **Class 6 · 88 km/h** | Class 4–5 · 600 Pa |
+| Visibility | Screen: **YES** · Blackout: no | No |
+| Solar reduction | Blackout: 95% · Screen: 70–80% | 70–85% |
+| Night thermal insulation | Small | **Good (ΔU ≈ 0.3 W/m²K)** |
+| Burglar resistance | No | RC2–RC3 |
+| Maximum dimensions | **5,000 × 5,000 mm** | 3,500 × 3,000 mm |
+| Best for | Terraces, pergolas, large facades | Windows, balconies |
+| Indicative price | 225–450 EUR/m² | 85–180 EUR/m² |
+
+---
+
+## Prices and automation
+
+Indicative prices for 2026:
+
+| Configuration | Estimated price |
+|---|---|
+| Box 90, manual, 2×2 m | 450–600 EUR |
+| Box 105, electric Somfy, 3×2.5 m | 900–1,200 EUR |
+| Box 120, electric Somfy, 5×3 m | 1,500–2,200 EUR |
+| Total area (including installation) | **225–450 EUR/m²** |
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro`,
+
+      de: `## Was ist Zipscreen und warum ist es anders als klassische Rollläden
+
+Auf den ersten Blick sieht Zipscreen wie ein gewöhnlicher Außenrollladen aus. Der grundlegende Unterschied ist unsichtbar, bis der Wind bläst.
+
+Ein klassischer Außenrollladen — auch aus Aluminium — hat die Gewebekanten frei in den Führungen. Bei Wind wölbt sich das Gewebe, flattert und kann aus den Schienen austreten. **Zipscreen löst das mit dem ZIP-Reißverschluss**: Die Gewebekanten sind mechanisch in einem U-förmigen Aluminiumprofil eingerastet, genau wie ein Jacken-Reißverschluss. Das Gewebe kann die Führungen nicht verlassen, unabhängig von der Windintensität — das System ist getestet und zertifiziert nach **Klasse 6 Beaufort, bis 88 km/h**.
+
+---
+
+## Blackout oder Screen — der echte Unterschied
+
+### Zipscreen Blackout (opak)
+Das Gewebe lässt kein Licht durch:
+- **Innentemperatur reduziert um 15–20°C**
+- **Totale Privatsphäre** — nichts von außen sichtbar
+- Ideal für Schlafzimmer, Restaurants, West- oder Süd-Terrassen
+
+### Zipscreen Screen (transparent oder perforiert)
+Das Gewebe hat Mikroperforationen:
+- **95–98% UV-Filterung** bei erhaltener Außensicht
+- Temperatur um 8–12°C reduziert
+- Ermöglicht Luftzirkulation
+
+**Neofort BIZ empfiehlt**: Bei Unsicherheit Screen wählen — 80% der Blackout-Vorteile ohne Sichtverlust.
+
+---
+
+## Zipscreen vs Außenrollladen — Direktvergleich
+
+| Kriterium | Zipscreen | Aluminiumrollladen |
+|---|---|---|
+| Windwiderstand | **Klasse 6 · 88 km/h** | Klasse 4–5 |
+| Außensicht | Screen: **JA** | Nein |
+| Max. Abmessungen | **5.000 × 5.000 mm** | 3.500 × 3.000 mm |
+| Ideal für | Terrassen, Pergolen | Fenster, Balkone |
+| Preis | 225–450 EUR/m² | 85–180 EUR/m² |
+
+---
+
+## Preise und Automatisierung 2026
+
+| Konfiguration | Geschätzter Preis |
+|---|---|
+| Kasten 90, manuell, 2×2 m | 450–600 EUR |
+| Kasten 105, elektrisch Somfy, 3×2,5 m | 900–1.200 EUR |
+| Kasten 120, elektrisch Somfy, 5×3 m | 1.500–2.200 EUR |
+
+**WhatsApp:** +40 752 443 435
+**E-Mail:** oferte@neofort-biz.ro`,
+
+      fr: `## Qu'est-ce que Zipscreen et pourquoi est-il différent des stores classiques
+
+Au premier regard, Zipscreen ressemble à un store extérieur ordinaire. La différence fondamentale est invisible jusqu'à ce que le vent souffle.
+
+Un store extérieur classique — même en aluminium — a les bords du tissu libres dans les glissières. Par vent, le tissu se bombe, claque et peut sortir des rails. **Zipscreen résout cela avec la fermeture ZIP** : les bords du tissu sont mécaniquement bloqués dans un profilé aluminium en U, exactement comme une fermeture éclair de veste. Le tissu ne peut pas quitter les glissières quelle que soit l'intensité du vent — système testé et certifié **Classe 6 Beaufort, jusqu'à 88 km/h**.
+
+---
+
+## Blackout ou Screen — la vraie différence
+
+### Zipscreen Blackout (opaque)
+- **Réduction température intérieure 15–20°C**
+- **Intimité totale**
+- Idéal terrasses ouest ou sud, restaurants
+
+### Zipscreen Screen (transparent ou perforé)
+- **Filtrage UV 95–98%** avec vue extérieure préservée
+- Température réduite de 8–12°C
+- Permet la circulation d'air
+
+**Recommandation Neofort BIZ** : en cas de doute, choisir Screen.
+
+---
+
+## Zipscreen vs Volets roulants aluminium
+
+| Critère | Zipscreen | Volets roulants |
+|---|---|---|
+| Résistance vent | **Classe 6 · 88 km/h** | Classe 4–5 |
+| Vue extérieure | Screen : **OUI** | Non |
+| Dimensions max | **5.000 × 5.000 mm** | 3.500 × 3.000 mm |
+| Idéal pour | Terrasses, pergolas | Fenêtres, balcons |
+| Prix | 225–450 EUR/m² | 85–180 EUR/m² |
+
+---
+
+## Prix 2026
+
+| Configuration | Prix estimé |
+|---|---|
+| Caisson 90, manuel, 2×2 m | 450–600 EUR |
+| Caisson 105, électrique Somfy, 3×2,5 m | 900–1.200 EUR |
+| Caisson 120, électrique Somfy, 5×3 m | 1.500–2.200 EUR |
+
+**WhatsApp :** +40 752 443 435
+**Email :** oferte@neofort-biz.ro`,
+
+      es: `## Qué es Zipscreen y por qué es diferente de las persianas clásicas
+
+A primera vista, Zipscreen parece una persiana exterior ordinaria. La diferencia fundamental es invisible hasta que sopla el viento.
+
+Una persiana exterior clásica — incluso de aluminio — tiene los bordes del tejido libres en las guías. Con viento, el tejido se abomba, aletea y puede salir de los rieles. **Zipscreen resuelve esto con el cierre ZIP**: los bordes del tejido están mecánicamente bloqueados en un perfil de aluminio en U, exactamente como la cremallera de una chaqueta. El tejido no puede salir de las guías independientemente de la intensidad del viento — sistema probado y certificado **Clase 6 Beaufort, hasta 88 km/h**.
+
+---
+
+## Blackout o Screen — la diferencia real
+
+### Zipscreen Blackout (opaco)
+- **Reducción temperatura interior 15–20°C**
+- **Privacidad total**
+- Ideal terrazas oeste o sur, restaurantes
+
+### Zipscreen Screen (transparente o perforado)
+- **Filtrado UV 95–98%** con vista exterior preservada
+- Temperatura reducida 8–12°C
+- Permite circulación de aire
+
+---
+
+## Zipscreen vs Persianas enrollables de aluminio
+
+| Criterio | Zipscreen | Persianas aluminio |
+|---|---|---|
+| Resistencia viento | **Clase 6 · 88 km/h** | Clase 4–5 |
+| Vista exterior | Screen: **SÍ** | No |
+| Dimensiones máx | **5.000 × 5.000 mm** | 3.500 × 3.000 mm |
+| Ideal para | Terrazas, pérgolas | Ventanas, balcones |
+| Precio | 225–450 EUR/m² | 85–180 EUR/m² |
+
+---
+
+## Precios 2026
+
+| Configuración | Precio estimado |
+|---|---|
+| Cajón 90, manual, 2×2 m | 450–600 EUR |
+| Cajón 105, eléctrico Somfy, 3×2,5 m | 900–1.200 EUR |
+| Cajón 120, eléctrico Somfy, 5×3 m | 1.500–2.200 EUR |
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro`,
+
+      it: `## Cos'è Zipscreen e perché è diverso dalle tapparelle classiche
+
+A prima vista, Zipscreen sembra una tapparella esterna ordinaria. La differenza fondamentale è invisibile finché non soffia il vento.
+
+Una tapparella esterna classica — anche in alluminio — ha i bordi del tessuto liberi nelle guide. Con il vento, il tessuto si gonfia, svolazza e può uscire dalle rotaie. **Zipscreen risolve questo con la chiusura ZIP**: i bordi del tessuto sono meccanicamente bloccati in un profilo in alluminio a U, esattamente come la zip di una giacca. Il tessuto non può uscire dalle guide indipendentemente dall'intensità del vento — sistema testato e certificato **Classe 6 Beaufort, fino a 88 km/h**.
+
+---
+
+## Blackout o Screen — la vera differenza
+
+### Zipscreen Blackout (opaco)
+- **Riduzione temperatura interna 15–20°C**
+- **Privacy totale**
+- Ideale terrazze ovest o sud, ristoranti
+
+### Zipscreen Screen (trasparente o perforato)
+- **Filtraggio UV 95–98%** con vista esterna preservata
+- Temperatura ridotta 8–12°C
+- Permette la circolazione dell'aria
+
+---
+
+## Zipscreen vs Tapparelle in alluminio
+
+| Criterio | Zipscreen | Tapparelle alluminio |
+|---|---|---|
+| Resistenza vento | **Classe 6 · 88 km/h** | Classe 4–5 |
+| Vista esterna | Screen: **SÌ** | No |
+| Dimensioni max | **5.000 × 5.000 mm** | 3.500 × 3.000 mm |
+| Ideale per | Terrazze, pergole | Finestre, balconi |
+| Prezzo | 225–450 EUR/m² | 85–180 EUR/m² |
+
+---
+
+## Prezzi 2026
+
+| Configurazione | Prezzo stimato |
+|---|---|
+| Cassonetto 90, manuale, 2×2 m | 450–600 EUR |
+| Cassonetto 105, elettrico Somfy, 3×2,5 m | 900–1.200 EUR |
+| Cassonetto 120, elettrico Somfy, 5×3 m | 1.500–2.200 EUR |
+
+**WhatsApp:** +40 752 443 435
+**Email:** oferte@neofort-biz.ro`,
+    },
+  },
 ];
 
 // Găsește articol după slug în orice limbă
