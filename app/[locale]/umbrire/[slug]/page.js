@@ -1,4 +1,5 @@
 import { notFound } from 'next/navigation';
+import FaqAccordion from '../../../../../components/FaqAccordion';
 import { Link } from '../../../../i18n/navigation';
 
 const BASE    = 'https://www.neofort-biz.ro';
@@ -471,6 +472,7 @@ export default async function UmbrireProductPage({ params }) {
               ))}
             </ul>
             <div className="prd-seo"><p>{seotxt}</p></div>
+            <FaqAccordion items={faqItems} title={ui.faq_title} />
           </div>
           <div className="prd-cta-box">
             <p className="prd-cta-hl">{ui.cta_h}</p>

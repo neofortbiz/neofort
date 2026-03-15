@@ -1,4 +1,5 @@
 import { Link } from '../../../i18n/navigation';
+import FaqAccordion from '../../../../components/FaqAccordion';
 import { getTranslations } from 'next-intl/server';
 
 const BASE = 'https://www.neofort-biz.ro';
@@ -354,30 +355,7 @@ export default async function TamplaieAluminiuPage({ params }) {
       {/* ── FAQ ── */}
       <section className="section-base" style={{paddingTop:0}}>
         <div className="container mx-auto px-6 max-w-3xl">
-          <h2 style={{fontSize:'1.25rem',fontWeight:600,color:'#1a1a1a',marginBottom:'24px',fontFamily:"var(--font-condensed,'Arial Narrow',sans-serif)"}}>{faqLabel}</h2>
-          <div>
-            {faqItems.map(([q, a], i) => (
-              <div key={i} style={{borderBottom:'1px solid #e8e8e4'}}>
-                <button
-                  style={{width:'100%',textAlign:'left',background:'none',border:'none',padding:'18px 0',cursor:'pointer',display:'flex',justifyContent:'space-between',alignItems:'center',gap:'16px'}}
-                  onClick={e => {
-                    const ans = e.currentTarget.nextElementSibling;
-                    const icon = e.currentTarget.querySelector('[data-icon]');
-                    const isOpen = ans.style.maxHeight && ans.style.maxHeight !== '0px';
-                    ans.style.maxHeight = isOpen ? '0px' : '300px';
-                    ans.style.overflow = 'hidden';
-                    icon.textContent = isOpen ? '+' : '×';
-                  }}
-                >
-                  <span style={{fontSize:'.92rem',fontWeight:600,color:'#1a1a1a',lineHeight:1.4}}>{q}</span>
-                  <span data-icon style={{flexShrink:0,width:'22px',height:'22px',borderRadius:'50%',background:'#f0f0ec',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'.8rem',color:'#666',transition:'transform .2s'}}>+</span>
-                </button>
-                <div style={{overflow:'hidden',maxHeight:'0px',transition:'max-height .3s ease'}}>
-                  <p style={{padding:'0 0 18px',fontSize:'.88rem',color:'#767676',lineHeight:1.7}}>{a}</p>
-                </div>
-              </div>
-            ))}
-          </div>
+          <FaqAccordion items={faqItems} title={faqLabel} />
         </div>
       </section>
     </>
