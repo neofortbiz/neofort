@@ -5,6 +5,7 @@ import { Barlow, Barlow_Condensed } from 'next/font/google';
 import { routing } from '../../i18n/routing';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
+import CookieBanner from '../../components/CookieBanner';
 
 const locales = ['ro', 'en', 'de', 'fr', 'es', 'it'];
 const baseUrl = 'https://www.neofort-biz.ro';
@@ -118,6 +119,7 @@ export default async function LocaleLayout({ children, params }) {
           <Header />
           <main>{children}</main>
           <Footer />
+          <CookieBanner locale={locale} />
         </NextIntlClientProvider>
       </body>
     </html>
