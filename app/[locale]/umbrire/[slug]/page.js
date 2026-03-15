@@ -423,6 +423,8 @@ export default async function UmbrireProductPage({ params }) {
     },
   };
 
+  const faqItems = FAQ_DATA[canonical]?.[locale] || FAQ_DATA[canonical]?.ro || [];
+
   const faqSchema = faqItems.length > 0 ? {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
