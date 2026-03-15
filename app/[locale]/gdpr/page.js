@@ -17,12 +17,13 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function GdprPage() {
+export default async function GdprPage({ params }) {
+  const { locale } = await params;
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
     'name': locale === 'ro' ? 'Politica GDPR — Neofort BIZ' : locale === 'en' ? 'GDPR Privacy Policy — Neofort BIZ' : 'Datenschutz — Neofort BIZ',
-    'url': 'https://www.neofort-biz.ro/' + locale + '/gdpr',
+    'url': `https://www.neofort-biz.ro/${locale}/${SLUGS_GDPR[locale] || 'gdpr'}`,
     'isPartOf': { '@id': 'https://www.neofort-biz.ro/#website' },
     'inLanguage': locale,
   };
