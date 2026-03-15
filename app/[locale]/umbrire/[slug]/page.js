@@ -223,13 +223,53 @@ export async function generateMetadata({ params }) {
   const product   = PRODUCTS[canonical];
   if (!product) return { title: 'Produs · Neofort BIZ' };
   const name      = product.name[locale] || product.name.ro;
-  const desc      = (product.seo_text[locale] || product.seo_text.ro).slice(0, 160);
+  const seoFull    = product.seo_text[locale] || product.seo_text.ro;
+  const desc       = canonical === 'rulouri-exterioare-aluminiu'
+    ? (locale === 'ro' ? 'Rulouri exterioare aluminiu cu motor Somfy — reducere 70% aport solar, izolare termică nocturnă, antiefracție RC3. Montaj București. Solicită ofertă gratuită.'
+      : 'Aluminium roller shutters with Somfy motor — 70% solar gain reduction, night insulation, RC3 anti-burglary. Installation Bucharest. Request free quote.')
+    : canonical === 'jaluzele-venetiene-raffstore'
+    ? (locale === 'ro' ? 'Jaluzele Raffstore cu lamele orientabile 0°–90° — reducere solară 85%, rezistență vânt Clasa 5, automatizare Somfy. Montaj București și Europa. Ofertă gratuită.'
+      : 'Raffstore blinds with 0°–90° tiltable slats — 85% solar reduction, Class 5 wind resistance, Somfy automation. Installation Bucharest and Europe.')
+    : canonical === 'zipscreen'
+    ? (locale === 'ro' ? 'Zipscreen rulou textil exterior ZIP — blackout sau screen, rezistență vânt Clasa 6 (88 km/h), suprafețe până la 16 m², motor Somfy. Montaj terase București.'
+      : 'Zipscreen ZIP textile exterior blind — blackout or screen, Class 6 wind resistance (88 km/h), areas up to 16 m², Somfy motor. Terrace installation Bucharest.')
+    : seoFull.slice(0, 160);
   const localSlug = SLUG_MAP[canonical]?.[locale] || slug;
   const altSlug   = (l) => SLUG_MAP[canonical]?.[l] || canonical;
   return {
-    title: `${name} · Neofort BIZ`,
+    title: canonical === 'rulouri-exterioare-aluminiu'
+             ? (locale === 'ro' ? 'Rulouri Exterioare Aluminiu Somfy — Prețuri, Sisteme, Montaj București | Neofort BIZ'
+               : locale === 'en' ? 'Aluminium External Roller Shutters Somfy — Prices, Systems, Installation Bucharest | Neofort BIZ'
+               : locale === 'de' ? 'Außenrollladen Aluminium Somfy — Preise, Systeme, Montage Bukarest | Neofort BIZ'
+               : locale === 'fr' ? 'Volets Roulants Aluminium Somfy — Prix, Systèmes, Installation Bucarest | Neofort BIZ'
+               : locale === 'es' ? 'Persianas Exteriores Aluminio Somfy — Precios, Sistemas, Instalación Bucarest | Neofort BIZ'
+               : 'Tapparelle Esterne Alluminio Somfy — Prezzi, Sistemi, Installazione Bucarest | Neofort BIZ')
+             : canonical === 'jaluzele-venetiene-raffstore'
+             ? (locale === 'ro' ? 'Jaluzele Venețiene Raffstore — Prețuri, Sisteme, Montaj București | Neofort BIZ'
+               : locale === 'en' ? 'Raffstore Venetian Blinds — Prices, Systems, Installation Bucharest | Neofort BIZ'
+               : locale === 'de' ? 'Raffstore Außenjalousien — Preise, Systeme, Montage Bukarest | Neofort BIZ'
+               : locale === 'fr' ? 'Stores Vénitiens Raffstore — Prix, Systèmes, Installation Bucarest | Neofort BIZ'
+               : locale === 'es' ? 'Persianas Venecianas Raffstore — Precios, Sistemas, Instalación Bucarest | Neofort BIZ'
+               : 'Veneziane Raffstore — Prezzi, Sistemi, Installazione Bucarest | Neofort BIZ')
+             : canonical === 'zipscreen'
+             ? (locale === 'ro' ? 'Zipscreen Terase — Rulou Textil ZIP, Blackout & Screen, Montaj București | Neofort BIZ'
+               : locale === 'en' ? 'Zipscreen Terraces — ZIP Textile Blind, Blackout & Screen, Installation Bucharest | Neofort BIZ'
+               : locale === 'de' ? 'Zipscreen Terrassen — ZIP-Rollo, Blackout & Screen, Montage Bukarest | Neofort BIZ'
+               : locale === 'fr' ? 'Zipscreen Terrasses — Store ZIP, Blackout & Screen, Installation Bucarest | Neofort BIZ'
+               : locale === 'es' ? 'Zipscreen Terrazas — Toldo ZIP, Blackout & Screen, Instalación Bucarest | Neofort BIZ'
+               : 'Zipscreen Terrazze — Tenda ZIP, Blackout & Screen, Installazione Bucarest | Neofort BIZ')
+             : `${name} · Neofort BIZ`,
     description: desc,
-    keywords: `${name} · Neofort BIZ · tâmplărie PVC Salamander · aluminiu Alumil · București`,
+    keywords: canonical === 'rulouri-exterioare-aluminiu'
+             ? (locale === 'ro' ? 'rulouri exterioare aluminiu, rulouri aluminiu pret, rulouri exterioare aluminiu bucuresti, rulouri aluminiu somfy, rulouri exterioare electric, rulouri aluminiu cu motor, protectie solara ferestre, umbrire ferestre bucuresti'
+               : 'aluminium roller shutters, aluminium shutters price, roller shutters Bucharest, Somfy roller shutters, electric roller shutters')
+             : canonical === 'jaluzele-venetiene-raffstore'
+             ? (locale === 'ro' ? 'jaluzele venetiene raffstore, jaluzele raffstore pret, jaluzele exterioare aluminiu, jaluzele raffstore bucuresti, jaluzele venetiene exterioare somfy, protectie solara jaluzele, umbrire ferestre raffsore'
+               : 'Raffstore blinds price, venetian blinds exterior, Raffstore Bucharest, exterior venetian blinds Somfy')
+             : canonical === 'zipscreen'
+             ? (locale === 'ro' ? 'zipscreen, zipscreen pret, zipscreen terasa, zipscreen bucuresti, rulou textil exterior zip, zipscreen blackout, zipscreen screen transparent, zipscreen somfy, zipscreen pergola, umbrire terasa zipscreen'
+               : 'zipscreen price, zipscreen terrace, zipscreen Bucharest, zipscreen blackout, zipscreen screen')
+             : `${name} Neofort BIZ București`,
     robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1 } },
     alternates: {
       canonical: `${BASE}/${locale}/umbrire/${localSlug}`,
@@ -265,6 +305,62 @@ export default async function UmbrireProductPage({ params }) {
   const bpLabel = product.breadcrumb_parent[locale] || product.breadcrumb_parent.ro;
   const c       = product.color;
 
+  const FAQ_DATA = {
+    'rulouri-exterioare-aluminiu': {
+      ro:[
+        ['Cât costă rulourile exterioare din aluminiu?','Prețul rulourilor exterioare din aluminiu pornește de la 85–120 EUR/mp pentru varianta manuală și ajunge la 150–220 EUR/mp pentru varianta cu motor Somfy, inclusiv montaj. Prețul final depinde de dimensiuni, culoare RAL și tipul de acționare.'],
+        ['Care e diferența dintre rulouri aluminiu și rulouri PVC?','Rulourile din aluminiu au lamele extrudate mai rigide, rezistență mai bună la vânt (până la 600 Pa), durabilitate 25–30 ani și pot atinge antiefracție RC3. Rulourile PVC sunt mai ieftine dar se deformează la căldură și au durată de viață mai scurtă.'],
+        ['Se poate monta ruloul exterior pe o fereastră deja instalată?','Da, rulourile exterioare se pot monta aplicat (pe tocul ferestrei sau pe perete) fără a demonta tâmplăria existentă. Sistemul aplicat se potrivește pe orice fereastră PVC sau aluminiu deja montată.'],
+        ['Motorului Somfy merită față de acționarea manuală?','Da — motorul Somfy adaugă senzor de vânt (protejează ruloul automat), senzor solar (coboară automat la soare puternic) și control prin aplicație mobilă. Diferența de preț este de 80–150 EUR per rulou.'],
+      ],
+      en:[
+        ['How much do aluminium roller shutters cost?','Aluminium roller shutters start from 85–120 EUR/m² for manual and 150–220 EUR/m² for Somfy motor version, including installation. Final price depends on dimensions, RAL colour and drive type.'],
+        ['What is the difference between aluminium and PVC shutters?','Aluminium shutters have more rigid extruded slats, better wind resistance (up to 600 Pa), 25–30 year lifespan and can achieve RC3 burglar resistance. PVC shutters are cheaper but deform in heat and have shorter lifespan.'],
+        ['Can roller shutters be fitted to an already installed window?','Yes, roller shutters can be surface-mounted (on the frame or wall) without removing existing joinery. The surface system fits any PVC or aluminium window already installed.'],
+        ['Is Somfy motor worth it vs manual operation?','Yes — Somfy motor adds wind sensor (auto-protects shutter), solar sensor (auto-lowers in strong sun) and mobile app control. Price difference is 80–150 EUR per shutter.'],
+      ],
+    },
+    'jaluzele-venetiene-raffstore': {
+      ro:[
+        ['Cât costă jaluzelele Raffstore?','Prețul jaluzelelor Raffstore pornește de la 150–200 EUR/mp pentru varianta electrică standard, ajungând la 250–400 EUR/mp pentru sisteme cu automatizare KNX sau integrate în smart home. Prețul include livrare și montaj.'],
+        ['Care e diferența dintre Raffstore și rulourile exterioare?','Raffstore are lamele orientabile 0°–90° — poți doza exact lumina fără să pierzi vederea spre exterior. Rulourile blochează total lumina când sunt coborâte. Raffstore reduce aportul solar cu până la 85%, superior rulourilor opace la lumina directă.'],
+        ['Jaluzelele Raffstore rezistă la vânt?','Da — Raffstore este certificat EN 13561 Clasa 5, rezistând la presiuni de 1200 Pa. Motorul Somfy cu senzor de vânt ridică automat jaluzeaua la viteze periculoase, protejând lamelele de deformare.'],
+        ['Se pot monta Raffstore pe orice fereastră?','Raffstore se montează pe ferestre PVC, aluminiu sau lemn, atât în ghidaje laterale (variantă standard) cât și cu sistem de cabluri pentru fațade mari. Lățimea maximă per unitate este de 5000 mm.'],
+      ],
+      en:[
+        ['How much do Raffstore blinds cost?','Raffstore blinds start from 150–200 EUR/m² for standard electric version, up to 250–400 EUR/m² for KNX automation or smart home integration. Price includes delivery and installation.'],
+        ['What is the difference between Raffstore and roller shutters?','Raffstore has 0°–90° tiltable slats — you can dose light precisely without losing the exterior view. Shutters block all light when lowered. Raffstore reduces solar gain up to 85%, superior to opaque shutters at direct sunlight.'],
+        ['Are Raffstore blinds wind resistant?','Yes — Raffstore is EN 13561 Class 5 certified, withstanding 1200 Pa pressure. Somfy wind sensor motor automatically raises the blind at dangerous speeds, protecting slats from deformation.'],
+        ['Can Raffstore be installed on any window?','Raffstore fits PVC, aluminium or wood windows, in lateral guides (standard) or cable system for large facades. Maximum width per unit is 5000 mm.'],
+      ],
+    },
+    'zipscreen': {
+      ro:[
+        ['Cât costă un Zipscreen?','Prețul unui Zipscreen pornește de la 225–300 EUR/mp pentru varianta manuală și ajunge la 350–450 EUR/mp pentru varianta cu motor Somfy, inclusiv montaj. O unitate standard de 3×2,5 m cu motor costă 900–1.200 EUR.'],
+        ['Care e diferența dintre Zipscreen blackout și screen?','Blackout blochează 100% lumina directă și reduce temperatura cu 15–20°C — ideal pentru intimitate totală. Screen are microperforații (3–10% deschidere vizuală), filtrează 95–98% UV dar păstrează vederea spre exterior — ideal pentru terase unde vrei umbra fără izolare.'],
+        ['Zipscreen rezistă la vânt mai bine decât un rulou clasic?','Da. Fermoarul ZIP menține materialul tensionat în ghidajele din aluminiu indiferent de vânt — sistemul este testat Clasa 6 Beaufort, până la 88 km/h. Rulourile clasice fluturează și ies din ghidaje la vânt puternic.'],
+        ['Zipscreen se poate monta și pe pergolă?','Da, aceasta este cea mai frecventă aplicație. Zipscreen se montează pe laturile pergolei retractabile pentru a o transforma într-un spațiu complet protejat. O singură unitate acoperă până la 16 m², fără coloană intermediară.'],
+      ],
+      en:[
+        ['How much does a Zipscreen cost?','Zipscreen starts from 225–300 EUR/m² for manual and 350–450 EUR/m² for Somfy motor version, including installation. A standard 3×2.5m unit with motor costs 900–1,200 EUR.'],
+        ['What is the difference between Zipscreen blackout and screen?','Blackout blocks 100% direct light and reduces temperature by 15–20°C — ideal for total privacy. Screen has microperforations (3–10% visual openness), filters 95–98% UV while maintaining exterior view — ideal for terraces wanting shade without isolation.'],
+        ['Does Zipscreen resist wind better than a classic roller?','Yes. The ZIP fastener keeps fabric tensioned in aluminium guides regardless of wind — system tested Class 6 Beaufort, up to 88 km/h. Classic rollers flutter and exit guides in strong wind.'],
+        ['Can Zipscreen be installed on a pergola?','Yes, this is the most common application. Zipscreen mounts on the sides of a retractable pergola to transform it into a fully protected space. One unit covers up to 16 m² without an intermediate column.'],
+      ],
+    },
+  };
+
+  const faqItems = FAQ_DATA[canonical]?.[locale] || FAQ_DATA[canonical]?.ro || [];
+  const faqSchema = faqItems.length > 0 ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    'mainEntity': faqItems.map(([q, a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a },
+    })),
+  } : null;
+
   const schema = {
     '@context':'https://schema.org', '@type':'Product',
     name, description: seotxt, image: `${BASE}${product.img}`,
@@ -277,6 +373,16 @@ export default async function UmbrireProductPage({ params }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context':'https://schema.org',
+        '@type':'BreadcrumbList',
+        'itemListElement':[
+          {'@type':'ListItem','position':1,'name':'Neofort BIZ','item':BASE},
+          {'@type':'ListItem','position':2,'name':bpLabel,'item':`${BASE}/${locale}/umbrire`},
+          {'@type':'ListItem','position':3,'name':name,'item':`${BASE}/${locale}/${SLUG_MAP[canonical]?.[locale] || canonical}`},
+        ]
+      })}}/>
       <style>{`
         .prd-bc{font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:#999;display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:24px}
         .prd-bc a{color:#999;text-decoration:none}.prd-bc a:hover{color:#1a1a1a}.prd-bc span{color:#ccc}
