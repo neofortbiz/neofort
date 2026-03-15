@@ -180,6 +180,14 @@ export const routing = defineRouting({
       es: '/sistemas-sombreado/persianas-venecianas-raffstore',
       it: '/sistemi-oscuramento/veneziane-raffstore',
     },
+    '/umbrire/zipscreen': {
+      ro: '/umbrire/zipscreen',
+      en: '/shading-systems/zipscreen-exterior-blind',
+      de: '/beschattungssysteme/zipscreen-aussenrollo',
+      fr: '/systemes-occultation/zipscreen-store-exterieur',
+      es: '/sistemas-sombreado/zipscreen-toldo-exterior',
+      it: '/sistemi-oscuramento/zipscreen-tenda-esterna',
+    },
     '/sisteme-nzeb/precadre-blaugelb-triotherm': {
       ro: '/sisteme-nzeb/precadre-blaugelb-triotherm-plus',
       en: '/nzeb-systems/blaugelb-triotherm-plus-precasings',

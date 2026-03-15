@@ -15,6 +15,11 @@ const SLUG_MAP = {
     de:'raffstore-aussenjalousien',        fr:'stores-venitiens-raffstore',
     es:'persianas-venecianas-raffstore',   it:'veneziane-raffstore',
   },
+  'zipscreen': {
+    ro:'zipscreen',                        en:'zipscreen-exterior-blind',
+    de:'zipscreen-aussenrollo',            fr:'zipscreen-store-exterieur',
+    es:'zipscreen-toldo-exterior',         it:'zipscreen-tenda-esterna',
+  },
 };
 
 const REVERSE = {};
