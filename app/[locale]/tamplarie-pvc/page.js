@@ -160,7 +160,7 @@ export async function generateMetadata({ params }) {
                : locale === 'de' ? 'Salamander PVC-Fenster mit Isolierglas — BluEvolution 92 (6-Kammer) und GreenEvolution 76. nZEB-Montage, Blaugelb Triotherm+ Vorfenster, Lieferung in ganz Europa.'
                : locale === 'fr' ? 'Menuiserie PVC Salamander avec vitrage isolant — BluEvolution 92 (6 chambres) et GreenEvolution 76. Pose nZEB, précadres Blaugelb Triotherm+, livraison en Europe.'
                : locale === 'es' ? 'Carpintería PVC Salamander con vidrio aislante — BluEvolution 92 (6 cámaras) y GreenEvolution 76. Instalación nZEB, premarcos Blaugelb Triotherm+, entrega en Europa.'
-               : 'Infissi PVC Salamander con vetro isolante — BluEvolution 92 (6 camere) e GreenEvolution 76. Posa nZEB, pre-pareti Blaugelb Triotherm+, consegna in Europa.',
+               : 'Infissi PVC Salamander con vetro isolante — BluEvolution 92 (6 camere) e GreenEvolution 76. Posa nZEB, precontrotelaio Blaugelb Triotherm+, consegna in Europa.',
     keywords: locale === 'ro' ? 'tamplarie PVC Salamander, tamplarie salamander bucuresti, ferestre PVC Bucuresti, BluEvolution 92, GreenEvolution 76, termopane pvc bucuresti, ferestre pvc pret 2026, montaj ferestre pvc nZEB, sisteme salamander 6 camere' : locale === 'en' ? 'PVC Salamander windows, BluEvolution 92, GreenEvolution 76, nZEB windows Bucharest' : locale === 'de' ? 'PVC Salamander Fenster, BluEvolution 92, GreenEvolution 76, nZEB Fenster Bukarest' : locale === 'fr' ? 'menuiserie PVC Salamander, BluEvolution 92, GreenEvolution 76, fenêtres nZEB Bucarest' : locale === 'es' ? 'carpintería PVC Salamander, BluEvolution 92, GreenEvolution 76, ventanas nZEB Bucarest' : 'infissi PVC Salamander, BluEvolution 92, GreenEvolution 76, finestre nZEB Bucarest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
@@ -218,6 +218,22 @@ export default async function TamplariePVCPage({ params }) {
       'acceptedAnswer': { '@type': 'Answer', 'text': a }
     }))
   };
+
+  const faqItemsPVC = ({'ro': [
+    ['Cât costă tâmplăria PVC Salamander în 2026?', 'Prețul tâmplăriei PVC Salamander pornește de la 180–250 EUR/mp pentru GreenEvolution 76 și ajunge la 250–380 EUR/mp pentru BluEvolution 92, inclusiv geam termopan și montaj profesional. Prețul final depinde de dimensiuni, configurație și opțiuni (culoare RAL, geam tripan).'],
+    ['Care este diferența față de termopanele obișnuite?', 'Termopan este termenul popular pentru geamul termoizolator, nu pentru tâmplărie. Profilele Salamander BluEvolution 92 și GreenEvolution 76 sunt certificate nZEB cu 5–6 camere de aer, Uw ≤ 0,70–0,73 W/m²K — semnificativ mai performante decât profilele generice ieftine de 3–4 camere.'],
+    ['Care este diferența dintre BluEvolution 92 și GreenEvolution 76?', 'BluEvolution 92 are 6 camere, adâncime 92mm și Uw = 0,70 W/m²K — standard Passive House. GreenEvolution 76 are 5 camere, adâncime 76mm și Uw = 0,73 W/m²K — standard nZEB. BluEvolution 92 este recomandat pentru proiecte premium; GreenEvolution 76 pentru proiecte cu raport calitate-preț optim.'],
+    ['Ce înseamnă nZEB și de ce contează la tâmplărie?', 'nZEB (Nearly Zero Energy Building) este standardul european obligatoriu în România din 2021 pentru construcții noi. Profilele Salamander GreenEvolution 76 și BluEvolution 92 sunt certificate nZEB, cu Uw ≤ 0,73 W/m²K — condiție necesară pentru autorizațiile de construcție noi.'],
+    ['Ce este profilul MD față de AD în gama GreenEvolution 76?', 'MD (Middle Density) are o garnitură mediană suplimentară — 3 puncte de etanșare total. AD (Advanced Design) are 2 garnituri EPDM fără garnitură mediană. Ambele au 5 camere. MD ROUND are design curbat, MD FLEX și AD FLEX au design drept.'],
+  ], 'en': [
+    ['How much do Salamander PVC windows cost in 2026?', 'Salamander PVC window prices start from 180–250 EUR/m² for GreenEvolution 76 and 250–380 EUR/m² for BluEvolution 92, including thermal glass and professional installation.'],
+    ['What is the difference from standard double glazing?', 'Salamander BluEvolution 92 and GreenEvolution 76 are nZEB certified profiles with 5–6 air chambers, Uw ≤ 0.70–0.73 W/m²K — significantly better than cheap generic 3–4 chamber profiles.'],
+    ['What is the difference between BluEvolution 92 and GreenEvolution 76?', 'BluEvolution 92 has 6 chambers, 92mm depth, Uw = 0.70 W/m²K — Passive House standard. GreenEvolution 76 has 5 chambers, 76mm depth, Uw = 0.73 W/m²K — nZEB standard. BluEvolution 92 for premium projects, GreenEvolution 76 for optimal value.'],
+    ['What does nZEB mean for PVC windows?', 'nZEB (Nearly Zero Energy Building) is mandatory in Romania from 2021 for new constructions. Salamander profiles are nZEB certified with Uw ≤ 0.73 W/m²K.'],
+    ['What is MD vs AD in GreenEvolution 76?', 'MD has an additional middle gasket — 3 sealing points total. AD has 2 EPDM gaskets without middle gasket. Both have 5 chambers. MD ROUND has rounded design, FLEX variants have straight design.'],
+  ]})[locale] || [];
+
+  const faqLabelPVC = {'ro':'Întrebări frecvente','en':'Frequently asked questions','de':'Häufig gestellte Fragen','fr':'Questions fréquentes','es':'Preguntas frecuentes','it':'Domande frequenti'}[locale] || 'Întrebări frecvente';
 
   return (
     <>
@@ -339,6 +355,36 @@ export default async function TamplariePVCPage({ params }) {
             <span style={{textDecoration:'underline'}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</span>
             {' '}{CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}
           </p>
+        </div>
+      </section>
+
+      {/* ── FAQ ── */}
+      <section className="section-base" style={{paddingTop:0}}>
+        <div className="container mx-auto px-6 max-w-3xl">
+          <h2 style={{fontSize:'1.25rem',fontWeight:600,color:'#1a1a1a',marginBottom:'24px',fontFamily:"var(--font-condensed,'Arial Narrow',sans-serif)"}}>{faqLabelPVC}</h2>
+          <div>
+            {faqItemsPVC.map(([q, a], i) => (
+              <div key={i} style={{borderBottom:'1px solid #e8e8e4'}}>
+                <button
+                  style={{width:'100%',textAlign:'left',background:'none',border:'none',padding:'18px 0',cursor:'pointer',display:'flex',justifyContent:'space-between',alignItems:'center',gap:'16px'}}
+                  onClick={e => {
+                    const ans = e.currentTarget.nextElementSibling;
+                    const icon = e.currentTarget.querySelector('[data-icon]');
+                    const isOpen = ans.style.maxHeight && ans.style.maxHeight !== '0px';
+                    ans.style.maxHeight = isOpen ? '0px' : '300px';
+                    ans.style.overflow = 'hidden';
+                    icon.textContent = isOpen ? '+' : '×';
+                  }}
+                >
+                  <span style={{fontSize:'.92rem',fontWeight:600,color:'#1a1a1a',lineHeight:1.4}}>{q}</span>
+                  <span data-icon style={{flexShrink:0,width:'22px',height:'22px',borderRadius:'50%',background:'#f0f0ec',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'.8rem',color:'#666'}}>+</span>
+                </button>
+                <div style={{overflow:'hidden',maxHeight:'0px',transition:'max-height .3s ease'}}>
+                  <p style={{padding:'0 0 18px',fontSize:'.88rem',color:'#767676',lineHeight:1.7}}>{a}</p>
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
       </section>
     </>

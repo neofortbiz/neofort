@@ -212,6 +212,22 @@ export default async function TamplaieAluminiuPage({ params }) {
     }))
   };
 
+  const faqItems = ({'ro': [
+    ['Care este diferența dintre Alumil Supreme și Smartia?', 'Supreme este gama profesională pentru proiecte arhitecturale exigente — barieră termică avansată, design minimalist, certificare Passive House. Smartia este gama comercială cu un raport calitate-preț mai bun, potrivită pentru proiecte rezidențiale și comerciale standard.'],
+    ['Cât costă tâmplăria din aluminiu în 2026?', 'Prețul tâmplăriei aluminiu cu barieră termică pornește de la 250–350 EUR/mp pentru ferestre standard Alumil Smartia și ajunge la 450–700 EUR/mp pentru sisteme premium Supreme SF85 sau liftant-glisante. Prețul include profilul, geamul termopan și montajul profesional.'],
+    ['Care e diferența dintre tâmplăria aluminiu și termopanele clasice?', 'Tâmplăria aluminiu cu barieră termică are aceleași performanțe termice ca PVC-ul premium, dar cu secțiuni mult mai subțiri, rigiditate structurală superioară pentru suprafețe mari și durabilitate practic nelimitată — aluminiul nu se deformează, nu îngălbenește și nu necesită vopsire.'],
+    ['Sistemele glisante Alumil S700/S350 pot fi montate pe terase?', 'Da, sistemele liftant-glisante Alumil S700 Supreme și S350 Smartia sunt proiectate special pentru deschideri mari de terasă și living. Suportă canaturi de până la 300 kg, profil orizontal maxim 6 m, cu etanșare conformă nZEB.'],
+    ['Aluminiu sau PVC pentru ferestre mari?', 'Pentru suprafețe vitrate mari (>2m²), ferestre panoramice sau pereți cortină, aluminiu este recomandat — rigiditate structurală superioară, toleranță termică mai bună la dilatații mari, și aspect arhitectural mai subțire. PVC este preferat pentru ferestre standard și renovări.'],
+  ], 'en': [
+    ['What is the difference between Alumil Supreme and Smartia?', 'Supreme is the professional range for demanding architectural projects — advanced thermal break, minimalist design, Passive House certification. Smartia is the commercial range with better value, suitable for standard residential and commercial projects.'],
+    ['How much do aluminium windows cost in 2026?', 'Aluminium window prices start from 250–350 EUR/m² for standard Alumil Smartia frames and reach 450–700 EUR/m² for premium Supreme SF85 or lift-and-slide systems. Price includes profile, thermal glass and professional installation.'],
+    ['What is the difference between aluminium windows and classic double glazing?', 'Thermal break aluminium has the same thermal performance as premium PVC, but with much thinner sections, superior structural rigidity for large areas and virtually unlimited durability — aluminium does not deform, yellow or require painting.'],
+    ['Can Alumil S700/S350 sliding systems be installed on terraces?', 'Yes, Alumil S700 Supreme and S350 Smartia lift-and-slide systems are specifically designed for large terrace and living room openings. They support leaves up to 300 kg, maximum 6m horizontal profile, nZEB-compliant sealing.'],
+    ['Aluminium or PVC for large windows?', 'For large glazed areas (>2m²), panoramic windows or curtain walls, aluminium is recommended — superior structural rigidity, better thermal tolerance and architecturally thinner appearance. PVC is preferred for standard windows and renovations.'],
+  ]})[locale] || [['Care este diferența dintre Alumil Supreme și Smartia?', 'Supreme este gama profesională pentru proiecte arhitecturale exigente. Smartia este gama comercială cu un raport calitate-preț mai bun.']];
+
+  const faqLabel = {'ro':'Întrebări frecvente','en':'Frequently asked questions','de':'Häufig gestellte Fragen','fr':'Questions fréquentes','es':'Preguntas frecuentes','it':'Domande frequenti'}[locale] || 'Întrebări frecvente';
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaALU) }}/>
@@ -332,6 +348,36 @@ export default async function TamplaieAluminiuPage({ params }) {
             <span style={{textDecoration:'underline'}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</span>
             {' '}{CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}
           </p>
+        </div>
+      </section>
+
+      {/* ── FAQ ── */}
+      <section className="section-base" style={{paddingTop:0}}>
+        <div className="container mx-auto px-6 max-w-3xl">
+          <h2 style={{fontSize:'1.25rem',fontWeight:600,color:'#1a1a1a',marginBottom:'24px',fontFamily:"var(--font-condensed,'Arial Narrow',sans-serif)"}}>{faqLabel}</h2>
+          <div>
+            {faqItems.map(([q, a], i) => (
+              <div key={i} style={{borderBottom:'1px solid #e8e8e4'}}>
+                <button
+                  style={{width:'100%',textAlign:'left',background:'none',border:'none',padding:'18px 0',cursor:'pointer',display:'flex',justifyContent:'space-between',alignItems:'center',gap:'16px'}}
+                  onClick={e => {
+                    const ans = e.currentTarget.nextElementSibling;
+                    const icon = e.currentTarget.querySelector('[data-icon]');
+                    const isOpen = ans.style.maxHeight && ans.style.maxHeight !== '0px';
+                    ans.style.maxHeight = isOpen ? '0px' : '300px';
+                    ans.style.overflow = 'hidden';
+                    icon.textContent = isOpen ? '+' : '×';
+                  }}
+                >
+                  <span style={{fontSize:'.92rem',fontWeight:600,color:'#1a1a1a',lineHeight:1.4}}>{q}</span>
+                  <span data-icon style={{flexShrink:0,width:'22px',height:'22px',borderRadius:'50%',background:'#f0f0ec',display:'flex',alignItems:'center',justifyContent:'center',fontSize:'.8rem',color:'#666',transition:'transform .2s'}}>+</span>
+                </button>
+                <div style={{overflow:'hidden',maxHeight:'0px',transition:'max-height .3s ease'}}>
+                  <p style={{padding:'0 0 18px',fontSize:'.88rem',color:'#767676',lineHeight:1.7}}>{a}</p>
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
       </section>
     </>

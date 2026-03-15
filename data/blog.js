@@ -741,7 +741,7 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
       de: 'blaugelb-triotherm-vorfenster-montage-nzeb',
       fr: 'precadres-blaugelb-triotherm-pose-nzeb',
       es: 'instalacion-premarcos-blaugelb-triotherm-nzeb',
-      it: 'installazione-precassonetti-blaugelb-triotherm-nzeb',
+      it: 'installazione-precontrotelaio-blaugelb-triotherm-nzeb',
     },
     date: '2026-02-22',
     dateDisplay: { ro:'22 Februarie 2026', en:'February 22, 2026', de:'22. Februar 2026', fr:'22 février 2026', es:'22 de febrero de 2026', it:'22 febbraio 2026' },
@@ -764,7 +764,7 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
       de: 'Montage mit Blaugelb Triotherm+ — Warum es für die nZEB-Zertifizierung obligatorisch ist',
       fr: 'Pose avec précadres Blaugelb Triotherm+ — pourquoi c\'est obligatoire pour la certification nZEB',
       es: 'Montaje con premarcos Blaugelb Triotherm+ — por qué es obligatorio para la certificación nZEB',
-      it: 'Montaggio con precassonetti Blaugelb Triotherm+ — perché è obbligatorio per la certificazione nZEB',
+      it: 'Montaggio con precontrotelaio Blaugelb Triotherm+ — perché è obbligatorio per la certificazione nZEB',
     },
     excerpt: {
       ro: 'Un profil PVC performant montat greșit pierde 40% din eficiența termică. Descoperă cum precadrele Blaugelb Triotherm+ elimină punțile termice și de ce sunt esențiale pentru nZEB.',
@@ -772,7 +772,7 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
       de: 'Ein hochwertiges PVC-Profil falsch eingebaut verliert 40% Wärmedämmleistung. Wie Blaugelb Triotherm+ Wärmebrücken eliminiert.',
       fr: 'Un profil PVC performant mal posé perd 40% d\'efficacité thermique. Comment les précadres Blaugelb Triotherm+ éliminent les ponts thermiques.',
       es: 'Un perfil PVC instalado incorrectamente pierde el 40% de eficiencia térmica. Cómo los premarcos Blaugelb Triotherm+ eliminan los puentes térmicos.',
-      it: 'Un profilo PVC installato in modo errato perde il 40% di efficienza termica. Come i precassonetti Blaugelb Triotherm+ eliminano i ponti termici.',
+      it: 'Un profilo PVC installato in modo errato perde il 40% di efficienza termica. Come i precontrotelaio Blaugelb Triotherm+ eliminano i ponti termici.',
     },
     metaDesc: {
       ro: 'Ghid complet montaj precadre Blaugelb Triotherm+ pentru izolare perimetrală nZEB. De ce sunt obligatorii, cum se montează corect și cât costă față de montajul clasic.',
@@ -780,7 +780,7 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
       de: 'Vollständiger Leitfaden für die Montage von Blaugelb Triotherm+ Vorfenstern für nZEB. Warum notwendig, korrekte Montageschritte und Kosten.',
       fr: 'Guide complet pour la pose des précadres Blaugelb Triotherm+ pour le nZEB. Pourquoi obligatoires, étapes de pose correcte et coûts.',
       es: 'Guía completa para la instalación de premarcos Blaugelb Triotherm+ para nZEB. Por qué son obligatorios, pasos de instalación correcta y costes.',
-      it: 'Guida completa per l\'installazione di precassonetti Blaugelb Triotherm+ per nZEB. Perché obbligatori, passi di installazione corretta e costi.',
+      it: 'Guida completa per l\'installazione di precontrotelaio Blaugelb Triotherm+ per nZEB. Perché obbligatori, passi di installazione corretta e costi.',
     },
     keywords: 'precadre Blaugelb Triotherm, montaj tamplarie nZEB, puntii termice ferestre, izolare perimetrala ferestre, banda precomprimata, montaj corect PVC',
     content: {
@@ -1215,11 +1215,11 @@ Potete acquistare il profilo PVC Salamander BluEvolution 92 più performante, co
 
 Perché? A causa dei **ponti termici perimetrali** — le aree attorno alla finestra dove il calore interno fuoriesce direttamente verso l'esterno attraverso il materiale da costruzione.
 
-I precassonetti **Blaugelb Triotherm+** esistono proprio per risolvere questo problema. E per le costruzioni che devono raggiungere lo **standard nZEB**, il loro utilizzo è tecnicamente obbligatorio.
+I precontrotelaio **Blaugelb Triotherm+** esistono proprio per risolvere questo problema. E per le costruzioni che devono raggiungere lo **standard nZEB**, il loro utilizzo è tecnicamente obbligatorio.
 
 ---
 
-## Cosa sono i precassonetti Blaugelb Triotherm+?
+## Cosa sono i precontrotelaio Blaugelb Triotherm+?
 
 Blaugelb è un produttore tedesco specializzato esclusivamente in sistemi di installazione per serramenti. **Triotherm+** è la gamma di punta per l'isolamento perimetrale completo.
 
@@ -1286,7 +1286,7 @@ I davanzali interni vengono fissati al precassonetto, non alla muratura — elim
 
 Un'installazione completa con Blaugelb Triotherm+ costa **15–25% in più** rispetto all'installazione standard. Per una casa con 12 finestre, la differenza: 1.500–3.000 EUR.
 
-**Recupero:** tramite risparmi sul riscaldamento del 20–35%, l'investimento si recupera in **3–6 anni**. Su 30 anni di vita della finestra, i risparmi netti superano di 5–8 volte il costo aggiuntivo dei precassonetti.
+**Recupero:** tramite risparmi sul riscaldamento del 20–35%, l'investimento si recupera in **3–6 anni**. Su 30 anni di vita della finestra, i risparmi netti superano di 5–8 volte il costo aggiuntivo dei precontrotelaio.
 
 ---
 

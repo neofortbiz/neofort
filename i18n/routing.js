@@ -68,7 +68,7 @@ export const routing = defineRouting({
       de: '/blog/blaugelb-triotherm-vorfenster-montage-nzeb',
       fr: '/blog/precadres-blaugelb-triotherm-pose-nzeb',
       es: '/blog/instalacion-premarcos-blaugelb-triotherm-nzeb',
-      it: '/blog/installazione-precassonetti-blaugelb-triotherm-nzeb',
+      it: '/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb',
     },
     '/blog/jaluzele-raffstore-vs-rulouri-aluminiu': {
       ro: '/blog/jaluzele-raffstore-vs-rulouri-aluminiu',

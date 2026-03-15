@@ -322,7 +322,7 @@ const CONTENT = {
 
   it: {
     title: 'Infissi PVC Salamander & Alluminio Alumil | Vetro Termoisolante nZEB | Neofort BIZ Bucarest',
-    desc: 'Neofort BIZ — produttore di infissi PVC Salamander BluEvolution 92 e sistemi in alluminio Alumil. Vetro nZEB, pre-pareti Blaugelb Triotherm+, veneziane Raffstore. Installazione professionale, consegna Europa. 21 anni di esperienza.',
+    desc: 'Neofort BIZ — produttore di infissi PVC Salamander BluEvolution 92 e sistemi in alluminio Alumil. Vetro nZEB, precontrotelaio Blaugelb Triotherm+, veneziane Raffstore. Installazione professionale, consegna Europa. 21 anni di esperienza.',
     h1: 'Infissi PVC Salamander & Alluminio Alumil — Neofort BIZ Bucarest',
     hero_pvc_label: 'Profili PVC Salamander',
     hero_pvc_tag: 'Tecnologia Tedesca',
@@ -336,7 +336,7 @@ const CONTENT = {
     hero_al_btn: 'PROFILI ALLUMINIO',
     sec_label_intro: 'Eccellenza negli infissi termoisolanti',
     intro_h2: 'Infissi in PVC Salamander\n& Alluminio Alumil',
-    intro_p1: 'La scelta tra infissi in PVC Salamander e sistemi in alluminio Alumil è determinante per l\'efficienza energetica di qualsiasi costruzione moderna. Da Neofort BIZ integriamo la tecnologia d\'avanguardia con il design minimalista per barriere termiche senza pari. I nostri profili sono certificati nZEB (Nearly Zero Energy Building), garantendo un reale risparmio sui costi di riscaldamento. Completiamo ogni installazione con pre-pareti Blaugelb Triotherm+, nastro sigillante in butile, nastri barriera vapore e distanziatori warm-edge per un sistema di isolamento termico completo e duraturo, conforme agli standard europei.',
+    intro_p1: 'La scelta tra infissi in PVC Salamander e sistemi in alluminio Alumil è determinante per l\'efficienza energetica di qualsiasi costruzione moderna. Da Neofort BIZ integriamo la tecnologia d\'avanguardia con il design minimalista per barriere termiche senza pari. I nostri profili sono certificati nZEB (Nearly Zero Energy Building), garantendo un reale risparmio sui costi di riscaldamento. Completiamo ogni installazione con precontrotelaio Blaugelb Triotherm+, nastro sigillante in butile, nastri barriera vapore e distanziatori warm-edge per un sistema di isolamento termico completo e duraturo, conforme agli standard europei.',
     intro_p2_pre: 'Che scegliate la robustezza dei sistemi in',
     intro_p2_b1: 'alluminio Alumil con taglio termico',
     intro_p2_mid: 'o l\'isolamento acustico superiore degli',
@@ -352,7 +352,7 @@ const CONTENT = {
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Infissi in PVC Salamander', title:'Profili PVC Salamander', desc:'Forniamo infissi in PVC Salamander BluEvolution 92 e GreenEvolution 76 delle gamme premium, prodotti su linee automatizzate e compatibili nZEB.', btn:'card-btn card-btn-pvc' },
       { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Infissi in Alluminio Alumil', title:'Sistemi Alluminio Alumil', desc:'Forniamo alluminio Alumil Supreme e Smartia — sistemi con taglio termico per finestre, porte, alzante-scorrevole, sistemi scorrevoli e facciate continue, certificati nZEB.', btn:'card-btn card-btn-aluminiu' },
-      { href:'/sisteme-nzeb', topColor:'#2e86c1', tag:'Sistemi nZEB', title:'Soluzioni Energia Quasi Zero', desc:'Pre-pareti Blaugelb Triotherm+, nastri di tenuta, distanziatori Warm Edge, triplo vetro Low-E, soluzioni complete per certificazione nZEB e casa passiva.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/sisteme-nzeb', topColor:'#2e86c1', tag:'Sistemi nZEB', title:'Soluzioni Energia Quasi Zero', desc:'Precontrotelaio Blaugelb Triotherm+, nastri di tenuta, distanziatori Warm Edge, triplo vetro Low-E, soluzioni complete per certificazione nZEB e casa passiva.', btn:'card-btn card-btn-aluminiu' },
     ],
     sec_label_steps: 'Come lavoriamo',
     steps_h2: 'Fasi della nostra collaborazione',
@@ -376,7 +376,7 @@ const CONTENT = {
       { q:'Che tipi di infissi in PVC Salamander fornite?', a:'Forniamo infissi in PVC Salamander delle gamme BluEvolution 92 (6 camere, Uw 0,70 W/m²K, certificato nZEB) e GreenEvolution 76. Disponibili nelle versioni con rivestimento in alluminio, flex e round, con vetro isolante a 2 o 3 lastre Saint-Gobain warm-edge.' },
       { q:'Fornite anche infissi in alluminio Alumil?', a:'Sì, forniamo sistemi completi di infissi in alluminio Alumil: S77 Supreme, S67 Smartia, S700/S350 alzante-scorrevole, SF85 M19800 pieghevole e facciate continue. Tutti con taglio termico avanzato, certificati nZEB.' },
       { q:'Consegnate e installate infissi al di fuori della Romania?', a:'Sì, Neofort BIZ consegna e installa in tutta Europa — Germania, Austria, Italia, Francia, Spagna, Belgio e altri paesi UE. Disponibile anche ritiro in magazzino per l\'export.' },
-      { q:'Cosa sono le pre-pareti Blaugelb Triotherm+ e perché sono importanti?', a:'Le pre-pareti Blaugelb Triotherm+ sono sistemi di montaggio che eliminano i ponti termici tra l\'infisso e la parete. Il loro utilizzo è obbligatorio per la certificazione nZEB e garantisce un isolamento termico e acustico superiore rispetto alla posa convenzionale.' },
+      { q:'Cosa sono le precontrotelaio Blaugelb Triotherm+ e perché sono importanti?', a:'Le precontrotelaio Blaugelb Triotherm+ sono sistemi di montaggio che eliminano i ponti termici tra l\'infisso e la parete. Il loro utilizzo è obbligatorio per la certificazione nZEB e garantisce un isolamento termico e acustico superiore rispetto alla posa convenzionale.' },
       { q:'Quali sono gli orari di apertura di Neofort BIZ?', a:'Orari: Lunedì–Venerdì 10:00–18:00. Sabato e Domenica chiuso. Potete contattarci anche su WhatsApp al +40 752 443 435.' },
     ],
     seo_bridge: 'Richiedete un preventivo per infissi PVC Salamander o Alluminio Alumil — Bucarest & Europa',

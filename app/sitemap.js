@@ -27,7 +27,7 @@ const BLOG_SLUGS = [
     de: 'blaugelb-triotherm-vorfenster-montage-nzeb',
     fr: 'precadres-blaugelb-triotherm-pose-nzeb',
     es: 'instalacion-premarcos-blaugelb-triotherm-nzeb',
-    it: 'installazione-precassonetti-blaugelb-triotherm-nzeb',
+    it: 'installazione-precontrotelaio-blaugelb-triotherm-nzeb',
   },
   {
     ro: 'jaluzele-raffstore-vs-rulouri-aluminiu',
