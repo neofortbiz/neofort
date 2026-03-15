@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import FaqAccordion from '../../../../../components/FaqAccordion';
+import FaqAccordion from '../../../../components/FaqAccordion';
 import { Link } from '../../../../i18n/navigation';
 
 const BASE    = 'https://www.neofort-biz.ro';
