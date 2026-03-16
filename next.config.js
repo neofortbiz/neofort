@@ -14,12 +14,19 @@ const nextConfig = {
   },
   async redirects() {
     return [
-      { source: '/despre',         destination: '/ro/despre',         permanent: false },
-      { source: '/about',          destination: '/en/about',          permanent: false },
-      { source: '/ueber-uns',      destination: '/de/ueber-uns',      permanent: false },
-      { source: '/a-propos',       destination: '/fr/a-propos',       permanent: false },
-      { source: '/sobre-nosotros', destination: '/es/sobre-nosotros', permanent: false },
-      { source: '/chi-siamo',      destination: '/it/chi-siamo',      permanent: false },
+      { source: '/despre',         destination: '/ro/despre',         permanent: true },
+      { source: '/about',          destination: '/en/about',          permanent: true },
+      { source: '/ueber-uns',      destination: '/de/ueber-uns',      permanent: true },
+      { source: '/a-propos',       destination: '/fr/a-propos',       permanent: true },
+      { source: '/sobre-nosotros', destination: '/es/sobre-nosotros', permanent: true },
+      { source: '/chi-siamo',      destination: '/it/chi-siamo',      permanent: true },
+      { source: '/gdpr',             destination: '/ro/gdpr',           permanent: true },
+      { source: '/privacy-policy',   destination: '/en/privacy-policy', permanent: true },
+      { source: '/datenschutz',      destination: '/de/datenschutz',    permanent: true },
+      { source: '/contact',          destination: '/ro/contact',        permanent: true },
+      { source: '/blog',             destination: '/ro/blog',           permanent: true },
+      { source: '/servicii',         destination: '/ro/servicii',       permanent: true },
+      { source: '/accesorii',        destination: '/ro/accesorii',      permanent: true },
     ];
   },
   async headers() {
