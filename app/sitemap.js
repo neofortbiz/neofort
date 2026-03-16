@@ -102,6 +102,18 @@ export default function sitemap() {
   });
 
 
+  // ── Pagini SEO PVC (preturi + bucuresti) — NOUT v74
+  const PVC_SEO = {
+    preturi:   { ro:'tamplarie-pvc/preturi', en:'pvc-windows/prices', de:'kunststofffenster-pvc/preise', fr:'menuiserie-pvc/prix', es:'carpinteria-pvc/precios', it:'infissi-pvc/prezzi' },
+    bucuresti: { ro:'tamplarie-pvc/bucuresti', en:'pvc-windows/bucharest', de:'kunststofffenster-pvc/bukarest', fr:'menuiserie-pvc/bucarest', es:'carpinteria-pvc/bucarest', it:'infissi-pvc/bucarest' },
+  };
+  LOCALES.forEach(locale => {
+    Object.values(PVC_SEO).forEach(slugs => {
+      urls.push({ url:`${BASE}/${locale}/${slugs[locale]||slugs.ro}`, lastModified:now, priority:0.88, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${slugs[l]||slugs.ro}`])) } });
+    });
+  });
+
   // ── Produse PVC individuale
   const PVC_SLUGS = {
     'bluevolution-92-alu':           { ro:'profil-pvc-bluevolution-92-alu',          en:'bluevolution-92-alu-pvc-profile',          de:'bluevolution-92-alu-pvc-profil',          fr:'profil-pvc-bluevolution-92-alu',          es:'perfil-pvc-bluevolution-92-alu',          it:'profilo-pvc-bluevolution-92-alu' },

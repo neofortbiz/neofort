@@ -21,6 +21,22 @@ export const routing = defineRouting({
       es: '/carpinteria-aluminio',
       it: '/infissi-alluminio',
     },
+    '/tamplarie-pvc/preturi': {
+      ro: '/tamplarie-pvc/preturi',
+      en: '/pvc-windows/prices',
+      de: '/kunststofffenster-pvc/preise',
+      fr: '/menuiserie-pvc/prix',
+      es: '/carpinteria-pvc/precios',
+      it: '/infissi-pvc/prezzi',
+    },
+    '/tamplarie-pvc/bucuresti': {
+      ro: '/tamplarie-pvc/bucuresti',
+      en: '/pvc-windows/bucharest',
+      de: '/kunststofffenster-pvc/bukarest',
+      fr: '/menuiserie-pvc/bucarest',
+      es: '/carpinteria-pvc/bucarest',
+      it: '/infissi-pvc/bucarest',
+    },
     '/tamplarie-aluminiu/preturi': {
       ro: '/tamplarie-aluminiu/preturi',
       en: '/aluminium-windows/prices',
