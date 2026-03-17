@@ -6,7 +6,7 @@ const BASE = 'https://www.neofort-biz.ro';
 const CONTENT = {
   ro: {
     title: 'Tâmplărie PVC Salamander & Aluminiu Alumil | Geam Termopan nZEB | Neofort BIZ București',
-    desc: 'Neofort BIZ — producător tâmplărie PVC Salamander BluEvolution 92, tâmplărie aluminiu Alumil, geam termoizolator 2 și 3 foi nZEB, precadre Blaugelb Triotherm+, jaluzele Raffstore, rulouri aluminiu. Montaj profesional, livrare Europa. 21 ani experiență.',
+    desc: 'Neofort BIZ — furnizor tâmplărie PVC Salamander BluEvolution 92, tâmplărie aluminiu Alumil, geam termoizolator 2 și 3 foi nZEB, precadre Blaugelb Triotherm+, jaluzele Raffstore, rulouri aluminiu. Montaj profesional, livrare Europa. 21 ani experiență.',
     h1: 'Tâmplărie PVC Salamander și Aluminiu Alumil — Neofort BIZ București',
     hero_pvc_label: 'Profile PVC Salamander',
     hero_pvc_tag: 'Tehnologie Germană',
@@ -405,7 +405,7 @@ export async function generateMetadata({ params }) {
       type:'website', locale: { ro:'ro_RO', en:'en_US', de:'de_DE', fr:'fr_FR', es:'es_ES', it:'it_IT' }[locale] || 'ro_RO',
       url:`${BASE}/${locale}`, siteName:'Neofort BIZ',
       title: c.title, description: c.desc,
-      images:[{ url:`${BASE}/og/Fabrica_Neofort.avif`, width:1200, height:630, alt: locale==='ro' ? 'Hală producție tâmplărie PVC Salamander și aluminiu Alumil — Neofort BIZ București' : locale==='en' ? 'PVC Salamander and aluminium Alumil joinery production hall — Neofort BIZ Bucharest' : locale==='de' ? 'Produktionshalle Salamander PVC- und Alumil Aluminiumfenster — Neofort BIZ Bukarest' : locale==='fr' ? 'Halle de production PVC Salamander et aluminium Alumil — Neofort BIZ Bucarest' : locale==='es' ? 'Nave de producción PVC Salamander y aluminio Alumil — Neofort BIZ Bucarest' : 'Capannone produzione PVC Salamander e alluminio Alumil — Neofort BIZ Bucarest', type:'image/avif' }],
+      images:[{ url:`${BASE}/og/Fabrica_Neofort.avif`, width:1200, height:630, alt: locale==='ro' ? 'Tâmplărie PVC Salamander și aluminiu Alumil — Neofort BIZ furnizor' : locale==='en' ? 'PVC Salamander and aluminium Alumil windows — Neofort BIZ supplier' : locale==='de' ? 'Salamander PVC- und Alumil Aluminiumfenster — Neofort BIZ Händler' : locale==='fr' ? 'Menuiserie PVC Salamander et aluminium Alumil — Neofort BIZ fournisseur' : locale==='es' ? 'Carpintería PVC Salamander y aluminio Alumil — Neofort BIZ proveedor' : 'Infissi PVC Salamander e alluminio Alumil — Neofort BIZ fornitore', type:'image/avif' }],
     },
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ', title:c.title, description:c.desc, images:[`${BASE}/og/Fabrica_Neofort.avif`] },
   };

@@ -2087,7 +2087,7 @@ Pe baza măsurătorilor exacte, emitem **oferta finală** cu prețul per fereast
 
 ### Pasul 4 — Fabricația
 
-Producție la **fabrica noastră din București**:
+Producție la **fabrica noastră**:
 - Tăiere profile CNC pe lungimi exacte
 - Sudare colțuri cu mașini cu 4 capete
 - Montare feronerie Roto, Siegenia, Maco
@@ -2208,7 +2208,7 @@ Based on exact measurements, we issue the **final quote** with itemised price pe
 
 ### Step 4 — Production
 
-Production at **our factory in Bucharest**:
+Production at **our factory**:
 - CNC profile cutting to exact lengths
 - Corner welding with 4-head machines
 - Roto, Siegenia, Maco hardware installation
@@ -2329,7 +2329,7 @@ Auf Basis der genauen Messungen erstellen wir das **endgültige Angebot** mit au
 
 ### Schritt 4 — Produktion
 
-Produktion in **unserer Fabrik in Bukarest**:
+Produktion in **unserer Fabrik**:
 - CNC-Profilschnitt auf genaue Längen
 - Eckschweißen mit 4-Kopf-Maschinen
 - Einbau von Roto-, Siegenia-, Maco-Beschlägen
@@ -2450,7 +2450,7 @@ Sur la base des métrés exacts, nous émettons le **devis final** avec le prix 
 
 ### Étape 4 — Fabrication
 
-Production à **notre usine de Bucarest** :
+Production à **notre usine** :
 - Coupe des profils CNC aux longueurs exactes
 - Soudure des angles avec machines à 4 têtes
 - Pose de quincaillerie Roto, Siegenia, Maco
@@ -2571,7 +2571,7 @@ Basándose en mediciones exactas, emitimos el **presupuesto final** con el preci
 
 ### Paso 4 — Fabricación
 
-Producción en **nuestra fábrica de Bucarest**:
+Producción en **nuestra fábrica**:
 - Corte de perfiles CNC a longitudes exactas
 - Soldadura de esquinas con máquinas de 4 cabezas
 - Instalación de herrajes Roto, Siegenia, Maco
@@ -2692,7 +2692,7 @@ Sulla base delle misurazioni esatte, emettiamo il **preventivo finale** con il p
 
 ### Passo 4 — Produzione
 
-Produzione presso **il nostro stabilimento di Bucarest**:
+Produzione presso **il nostro stabilimento**:
 - Taglio profili CNC alle lunghezze esatte
 - Saldatura angoli con macchine a 4 teste
 - Installazione ferramenta Roto, Siegenia, Maco
@@ -7240,7 +7240,7 @@ O casă la altitudine de 1.000–2.000 m în Alpi sau în zona montană Sinaia-P
 
 **Comanda** a fost plasată prin WhatsApp cu fotografii și dimensiunile golurilor. Clientul din Franța a trimis planurile de arhitectură, am calculat dimensiunile exacte.
 
-**Producția** — 4 săptămâni la fabrica Neofort din București. Profile Salamander BluEvolution 92 ALU în culoarea RAL 7016 antracit mat pe exterior, alb pe interior. Geam triplu Low-E cu argon.
+**Producția** — 4 săptămâni la fabrica noastră. Profile Salamander BluEvolution 92 ALU în culoarea RAL 7016 antracit mat pe exterior, alb pe interior. Geam triplu Low-E cu argon.
 
 **Transportul** — camion acoperit București → zona alpină Franța. Durată: 3 zile. Cost transport inclus în ofertă pentru comenzi peste 8.000 EUR.
 
