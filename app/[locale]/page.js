@@ -440,8 +440,17 @@ export default async function HomePage({ params }) {
           </h1>
           <div className="hero-grid">
             <Link href="/tamplarie-pvc" className="hero-card">
-              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#767676'}}>{c.hero_pvc_tag}</span>
-              <div>
+              <img
+                src="/hero-pvc.avif"
+                alt={locale==='ro' ? 'Tâmplărie PVC Salamander BluEvolution 92 — ferestre și uși PVC nZEB, Neofort BIZ București' : locale==='en' ? 'Salamander PVC windows BluEvolution 92 — nZEB certified PVC windows and doors, Neofort BIZ Bucharest' : locale==='de' ? 'Salamander Kunststofffenster BluEvolution 92 — nZEB zertifizierte PVC Fenster, Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiserie PVC Salamander BluEvolution 92 — fenêtres et portes PVC nZEB, Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería PVC Salamander BluEvolution 92 — ventanas y puertas PVC nZEB, Neofort BIZ Bucarest' : 'Infissi PVC Salamander BluEvolution 92 — finestre e porte PVC nZEB, Neofort BIZ Bucarest'}
+                width="420"
+                height="160"
+                fetchpriority="high"
+                decoding="async"
+                style={{width:'100%',height:'160px',objectFit:'cover',display:'block'}}
+              />
+              <div style={{padding:'28px 36px 36px',display:'flex',flexDirection:'column',flex:1}}>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#767676',marginBottom:'14px',display:'block'}}>{c.hero_pvc_tag}</span>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#4a7c59',display:'block',marginBottom:'14px'}}>{c.hero_pvc_label}</span>
                 <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.35rem',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_pvc_title}</h2>
                 <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_pvc_desc}</p>
@@ -449,8 +458,17 @@ export default async function HomePage({ params }) {
               </div>
             </Link>
             <Link href="/tamplarie-aluminiu" className="hero-card">
-              <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#767676'}}>{c.hero_al_tag}</span>
-              <div>
+              <img
+                src="/hero-aluminiu.avif"
+                alt={locale==='ro' ? 'Tâmplărie aluminiu Alumil Supreme — sisteme aluminiu cu barieră termică nZEB, Neofort BIZ București' : locale==='en' ? 'Alumil Supreme aluminium windows — thermal break aluminium systems nZEB certified, Neofort BIZ Bucharest' : locale==='de' ? 'Alumil Supreme Aluminiumfenster — Aluminiumsysteme mit Wärmedämmbrücke nZEB, Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiserie aluminium Alumil Supreme — systèmes aluminium à rupture de pont thermique nZEB, Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería aluminio Alumil Supreme — sistemas aluminio con rotura de puente térmico nZEB, Neofort BIZ Bucarest' : 'Infissi alluminio Alumil Supreme — sistemi alluminio con taglio termico nZEB, Neofort BIZ Bucarest'}
+                width="420"
+                height="160"
+                fetchpriority="high"
+                decoding="async"
+                style={{width:'100%',height:'160px',objectFit:'cover',display:'block'}}
+              />
+              <div style={{padding:'28px 36px 36px',display:'flex',flexDirection:'column',flex:1}}>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#767676',marginBottom:'14px',display:'block'}}>{c.hero_al_tag}</span>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d5a8e',display:'block',marginBottom:'14px'}}>{c.hero_al_label}</span>
                 <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.35rem',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_al_title}</h2>
                 <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_al_desc}</p>
