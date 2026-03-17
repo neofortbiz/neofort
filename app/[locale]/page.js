@@ -32,7 +32,7 @@ const CONTENT = {
     intro_p2_b4: 'geam termoizolator 3 foi',
     intro_p2_link2: 'profile de renovare, pervazuri, jaluzele Raffstore și rulouri exterioare aluminiu',
     intro_p2_end: '— tot ce aveți nevoie pentru o locuință modernă, eficientă energetic și conformă cu cele mai exigente standarde de confort termic și fonic.',
-    stats: [['21+','Ani activitate neîntreruptă'],['nZEB','Certificate conformitate'],['50%+','Clienți recurenți'],['UE','Livrare Europa']],
+    stats: [['21+','Ani activitate neîntreruptă'],['nZEB','Certificate conformitate'],['50%+','Clienți recurenți'],['4.9★','38 Recenzii Google']],
     sec_products: 'Produse & Servicii',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Tâmplărie PVC Salamander', title:'Profile PVC Salamander', desc:'Furnizăm tâmplărie PVC Salamander BluEvolution 92 și GreenEvolution 76 din gamele premium, executată pe linii automatizate și compatibilă nZEB.', btn:'card-btn card-btn-pvc' },
@@ -95,7 +95,7 @@ const CONTENT = {
     intro_p2_b4: 'triple-pane thermal glass',
     intro_p2_link2: 'renovation profiles, windowsills, Raffstore blinds and aluminium external shutters',
     intro_p2_end: '— everything you need for a modern, energy-efficient home that meets the most demanding standards of thermal and acoustic comfort.',
-    stats: [['21+','Years of activity'],['nZEB','Compliance certificates'],['50%+','Returning clients'],['EU','Europe delivery']],
+    stats: [['21+','Years of activity'],['nZEB','Compliance certificates'],['50%+','Returning clients'],['4.9★','38 Google Reviews']],
     sec_products: 'Products & Services',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'PVC Salamander Windows', title:'Salamander PVC Profiles', desc:'We supply PVC Salamander BluEvolution 92 and GreenEvolution 76 windows from premium ranges, manufactured on automated lines and nZEB compatible.', btn:'card-btn card-btn-pvc' },
@@ -158,7 +158,7 @@ const CONTENT = {
     intro_p2_b4: 'Dreischeiben-Isolierglas',
     intro_p2_link2: 'Renovierungsprofile, Fensterbänke, Raffstore Jalousien und Aluminiumrollläden',
     intro_p2_end: '— alles, was Sie für ein modernes, energieeffizientes Zuhause benötigen, das den anspruchsvollsten Wärme- und Schallschutzstandards entspricht.',
-    stats: [['21+','Jahre Erfahrung'],['nZEB','Zertifizierte Konformität'],['50%+','Stammkunden'],['EU','Europa-Lieferung']],
+    stats: [['21+','Jahre Erfahrung'],['nZEB','Zertifizierte Konformität'],['50%+','Stammkunden'],['4.9★','38 Google-Bewertungen']],
     sec_products: 'Produkte & Dienstleistungen',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Kunststofffenster Salamander', title:'Salamander PVC-Profile', desc:'Wir liefern PVC Salamander BluEvolution 92 und GreenEvolution 76 Fenster aus den Premiumsortimenten, auf automatisierten Linien gefertigt und nZEB-kompatibel.', btn:'card-btn card-btn-pvc' },
@@ -221,7 +221,7 @@ const CONTENT = {
     intro_p2_b4: 'vitrage isolant triple vitrage',
     intro_p2_link2: 'profils de rénovation, appuis de fenêtre, stores Raffstore et volets roulants aluminium',
     intro_p2_end: '— tout ce dont vous avez besoin pour un logement moderne, efficace sur le plan énergétique et conforme aux normes de confort thermique et acoustique les plus exigeantes.',
-    stats: [['21+','Ans d\'activité'],['nZEB','Certifiés conformes'],['50%+','Clients fidèles'],['UE','Livraison Europe']],
+    stats: [['21+','Ans d\'activité'],['nZEB','Certifiés conformes'],['50%+','Clients fidèles'],['4.9★','38 Avis Google']],
     sec_products: 'Produits & Services',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Menuiserie PVC Salamander', title:'Profilés PVC Salamander', desc:'Nous fournissons des menuiseries PVC Salamander BluEvolution 92 et GreenEvolution 76 des gammes premium, fabriquées sur lignes automatisées et compatibles nZEB.', btn:'card-btn card-btn-pvc' },
@@ -284,7 +284,7 @@ const CONTENT = {
     intro_p2_b4: 'vidrio aislante triple hoja',
     intro_p2_link2: 'marcos de renovación, alféizares, persianas Raffstore y cierres enrollables de aluminio',
     intro_p2_end: '— todo lo que necesita para una vivienda moderna, eficiente energéticamente y conforme a los estándares más exigentes de confort térmico y acústico.',
-    stats: [['21+','Años de actividad'],['nZEB','Certificados conformes'],['50%+','Clientes recurrentes'],['UE','Entrega Europa']],
+    stats: [['21+','Años de actividad'],['nZEB','Certificados conformes'],['50%+','Clientes recurrentes'],['4.9★','38 Reseñas Google']],
     sec_products: 'Productos & Servicios',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Carpintería PVC Salamander', title:'Perfiles PVC Salamander', desc:'Suministramos carpintería PVC Salamander BluEvolution 92 y GreenEvolution 76 de las gamas premium, fabricada en líneas automatizadas y compatible con nZEB.', btn:'card-btn card-btn-pvc' },
@@ -347,7 +347,7 @@ const CONTENT = {
     intro_p2_b4: 'vetro isolante a tripla lastra',
     intro_p2_link2: 'telai di ristrutturazione, davanzali, veneziane Raffstore e tapparelle esterne in alluminio',
     intro_p2_end: '— tutto ciò di cui avete bisogno per un\'abitazione moderna, efficiente dal punto di vista energetico e conforme ai più esigenti standard di comfort termico e acustico.',
-    stats: [['21+','Anni di attività'],['nZEB','Certificati conformi'],['50%+','Clienti fedeli'],['UE','Consegna Europa']],
+    stats: [['21+','Anni di attività'],['nZEB','Certificati conformi'],['50%+','Clienti fedeli'],['4.9★','38 Recensioni Google']],
     sec_products: 'Prodotti & Servizi',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Infissi in PVC Salamander', title:'Profili PVC Salamander', desc:'Forniamo infissi in PVC Salamander BluEvolution 92 e GreenEvolution 76 delle gamme premium, prodotti su linee automatizzate e compatibili nZEB.', btn:'card-btn card-btn-pvc' },
@@ -510,10 +510,18 @@ export default async function HomePage({ params }) {
           </div>
           <div className="stats-grid speakable-stats">
             {c.stats.map(([n,l],i)=>(
-              <div key={l} style={{padding:'24px 20px',textAlign:'center',borderRight:i<3?'1px solid #e8e8e8':'none'}}>
-                <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#1a1a1a',lineHeight:1}}>{n}</div>
-                <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#767676',marginTop:'5px',lineHeight:1.3}}>{l}</div>
-              </div>
+              i === 3 ? (
+                <a key={l} href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
+                  style={{padding:'24px 20px',textAlign:'center',borderRight:'none',textDecoration:'none',display:'block'}}>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#f5a623',lineHeight:1}}>{n}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#767676',marginTop:'5px',lineHeight:1.3}}>{l}</div>
+                </a>
+              ) : (
+                <div key={l} style={{padding:'24px 20px',textAlign:'center',borderRight:i<3?'1px solid #e8e8e8':'none'}}>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#1a1a1a',lineHeight:1}}>{n}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#767676',marginTop:'5px',lineHeight:1.3}}>{l}</div>
+                </div>
+              )
             ))}
           </div>
         </div>
