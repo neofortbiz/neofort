@@ -2157,7 +2157,7 @@ Exportul intra-UE este **fără formalități vamale**. Documente standard inclu
 ## Contact departament export
 
 **WhatsApp Export:** +40 752 443 439
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Program:** Luni–Vineri, 10:00–18:00 ora României
 
 Comunicăm fluent în **română, engleză și germană**. Trimiteți-ne fotografiile golurilor — răspundem cu ofertă în 48 de ore.`,
@@ -2278,7 +2278,7 @@ Intra-EU export is **customs-free**. Standard documents included:
 ## Export Department Contact
 
 **WhatsApp Export:** +40 752 443 439
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Hours:** Monday–Friday, 10:00–18:00 Romanian time
 
 We communicate fluently in **Romanian, English and German**. Send us photographs of your openings — we respond with a quote within 48 hours.`,
@@ -2399,7 +2399,7 @@ EU-Binnenexport ist **zollfrei**. Standarddokumente enthalten:
 ## Kontakt Exportabteilung
 
 **WhatsApp Export:** +40 752 443 439
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Geschäftszeiten:** Montag–Freitag, 10:00–18:00 Uhr rumänischer Zeit
 
 Wir kommunizieren fließend auf **Rumänisch, Englisch und Deutsch**. Senden Sie uns Fotos Ihrer Öffnungen — wir antworten innerhalb von 48 Stunden mit einem Angebot.`,
@@ -2520,7 +2520,7 @@ L'export intra-UE est **sans formalités douanières**. Documents standards incl
 ## Contact département export
 
 **WhatsApp Export :** +40 752 443 439
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Horaires :** Lundi–Vendredi, 10h00–18h00 heure de Roumanie
 
 Nous communiquons couramment en **roumain, anglais et allemand**. Envoyez-nous des photos de vos baies — nous répondons avec un devis dans les 48 heures.`,
@@ -2641,7 +2641,7 @@ La exportación intra-UE es **sin trámites aduaneros**. Documentos estándar in
 ## Contacto departamento de exportación
 
 **WhatsApp Export:** +40 752 443 439
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Horario:** Lunes–Viernes, 10:00–18:00 hora de Rumanía
 
 Nos comunicamos con fluidez en **rumano, inglés y alemán**. Envíenos fotos de sus huecos — respondemos con presupuesto en 48 horas.`,
@@ -2762,7 +2762,7 @@ L'export intra-UE è **senza formalità doganali**. Documenti standard inclusi:
 ## Contatto dipartimento export
 
 **WhatsApp Export:** +40 752 443 439
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Orario:** Lunedì–Venerdì, 10:00–18:00 ora della Romania
 
 Comunichiamo fluentemente in **rumeno, inglese e tedesco**. Inviateci le fotografie delle vostre aperture — rispondiamo con preventivo entro 48 ore.`,
@@ -2933,7 +2933,7 @@ Fără aceste 4 elemente, certificarea nZEB nu este posibilă, indiferent de cal
 Trimite-ne dimensiunile și tipul deschiderilor și îți răspundem cu ofertă completă în **48 de ore**.
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Program:** Luni–Vineri, 10:00–18:00`,
 
       en: `## What is a thermal break and why does it matter for aluminium
@@ -3036,7 +3036,7 @@ Without these 4 elements, nZEB certification is not possible, regardless of the 
 Send us your dimensions and opening types and we will reply with a complete quote within **48 hours**.
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Hours:** Monday–Friday, 10:00–18:00`,
 
       de: `## Was ist eine Wärmedämmung und warum ist sie bei Aluminium wichtig
@@ -3116,7 +3116,7 @@ Ohne diese 4 Elemente ist eine nZEB-Zertifizierung nicht möglich, unabhängig v
 Senden Sie uns Ihre Maße und Öffnungstypen und wir antworten innerhalb von **48 Stunden** mit einem vollständigen Angebot.
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Zeiten:** Montag–Freitag, 10:00–18:00`,
 
       fr: `## Qu'est-ce que la rupture thermique et pourquoi est-elle importante pour l'aluminium
@@ -3172,7 +3172,7 @@ La meilleure fenêtre à rupture thermique devient inutile si elle est mal insta
 Envoyez-nous vos dimensions et nous répondons avec un devis complet en **48 heures**.
 
 **WhatsApp :** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
 
       es: `## Qué es el rotura de puente térmico y por qué importa en el aluminio
 
@@ -3227,7 +3227,7 @@ La mejor ventana con rotura de puente térmico se vuelve inútil si se instala i
 Envíenos sus dimensiones y le respondemos con presupuesto completo en **48 horas**.
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
 
       it: `## Cos'è il taglio termico e perché è importante per l'alluminio
 
@@ -3282,7 +3282,7 @@ La migliore finestra con taglio termico diventa inutile se installata in modo er
 Inviaci le tue dimensioni e rispondiamo con preventivo completo in **48 ore**.
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
     },
   },
 
@@ -3474,7 +3474,7 @@ Lucrăm exclusiv cu **profile Alumil** certificate european, cu garnituri EPDM �
 - Livrare și montaj în toată România și UE
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Program:** Luni–Vineri, 10:00–18:00`,
 
       en: `## What is a curtain wall
@@ -3569,7 +3569,7 @@ Watertightness test, visual inspection, final sealing.
 ## Request a quote for curtain walls
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Hours:** Monday–Friday, 10:00–18:00`,
 
       de: `## Was ist eine Vorhangfassade
@@ -3632,7 +3632,7 @@ Profile **nur in einer Richtung sichtbar**, andere Seiten mit Structural Silicon
 ## Angebot für Vorhangfassaden anfragen
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Zeiten:** Montag–Freitag, 10:00–18:00`,
 
       fr: `## Qu'est-ce qu'un mur rideau
@@ -3688,7 +3688,7 @@ Profilés visibles **dans une seule direction**, les autres côtés collés au s
 ## Demandez un devis pour murs rideaux
 
 **WhatsApp :** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
 
       es: `## Qué es un muro cortina
 
@@ -3743,7 +3743,7 @@ Perfiles visibles **solo en una dirección**, otros lados pegados con silicona e
 ## Solicite presupuesto para muros cortina
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
 
       it: `## Cos'è una parete cortina
 
@@ -3798,7 +3798,7 @@ Profili visibili **solo in una direzione**, gli altri lati incollati con silicon
 ## Richiedi un preventivo per pareti cortina
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
     },
   },
 
@@ -3969,7 +3969,7 @@ Prețul variază în funcție de dimensiuni, material (blackout sau screen) și 
 Neofort BIZ furnizează și montează sisteme Zipscreen în București și toată Europa. Serviciul include măsurători gratuite, consultanță privind alegerea materialului și integrarea în arhitectura existentă.
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)
+
 **Program:** Luni–Vineri, 10:00–18:00`,
 
       en: `## What is Zipscreen and why is it different from classic roller shutters
@@ -4035,7 +4035,7 @@ Indicative prices for 2026:
 | Total area (including installation) | **225–450 EUR/m²** |
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
 
       de: `## Was ist Zipscreen und warum ist es anders als klassische Rollläden
 
@@ -4084,7 +4084,7 @@ Das Gewebe hat Mikroperforationen:
 | Kasten 120, elektrisch Somfy, 5×3 m | 1.500–2.200 EUR |
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
 
       fr: `## Qu'est-ce que Zipscreen et pourquoi est-il différent des stores classiques
 
@@ -4131,7 +4131,7 @@ Un store extérieur classique — même en aluminium — a les bords du tissu li
 | Caisson 120, électrique Somfy, 5×3 m | 1.500–2.200 EUR |
 
 **WhatsApp :** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
 
       es: `## Qué es Zipscreen y por qué es diferente de las persianas clásicas
 
@@ -4176,7 +4176,7 @@ Una persiana exterior clásica — incluso de aluminio — tiene los bordes del 
 | Cajón 120, eléctrico Somfy, 5×3 m | 1.500–2.200 EUR |
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
 
       it: `## Cos'è Zipscreen e perché è diverso dalle tapparelle classiche
 
@@ -4221,7 +4221,7 @@ Una tapparella esterna classica — anche in alluminio — ha i bordi del tessut
 | Cassonetto 120, elettrico Somfy, 5×3 m | 1.500–2.200 EUR |
 
 **WhatsApp:** +40 752 443 435
-[✉ Trimite email](mailto:oferte@neofort-biz.ro)`,
+`,
     },
   },
 
@@ -4922,7 +4922,7 @@ La Neofort BIZ, livrăm sisteme Alumil **pre-configurate pentru motorare** — c
 
 **Recomandarea noastră:** chiar dacă nu vrei automatizare imediat, comandă tâmplăria cu pregătire pentru motor. Costul suplimentar este de 50–150 EUR per sistem glisant — față de 500–1.000 EUR dacă adaugi motorarea ulterior prin modificări.
 
-**WhatsApp:** +40 752 443 435 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
 
       en: `## Why aluminium is the ideal material for smart home
 
@@ -5000,7 +5000,7 @@ Most popular in Romania for premium residential projects. A complete Loxone proj
 | Wind sensor | Per installation | 80–150 EUR |
 | Complete KNX integration | Per 150 m² house project | 5,000–15,000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       de: `## Warum Aluminium das ideale Material für Smart Home ist
 
@@ -5047,7 +5047,7 @@ Komplettes Loxone-Projekt für ein 200 m² Haus: 8.000–20.000 EUR inklusive Ha
 | KNX-Integration komplett | Haus 150 m² | 5.000–15.000 EUR |
 | Loxone komplett | Haus 200 m² | 8.000–20.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       fr: `## Pourquoi l'aluminium est le matériau idéal pour la maison intelligente
 
@@ -5094,7 +5094,7 @@ Projet Loxone complet pour une maison de 200 m² : 8.000–20.000 EUR incluant m
 | Intégration KNX complète | Maison 150 m² | 5.000–15.000 EUR |
 | Loxone complet | Maison 200 m² | 8.000–20.000 EUR |
 
-**WhatsApp :** +40 752 443 435 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp :** +40 752 443 435`,
 
       es: `## Por qué el aluminio es el material ideal para el smart home
 
@@ -5138,7 +5138,7 @@ KNX es el protocolo europeo abierto para la domótica (EN 50090). Todos los disp
 | Integración KNX completa | Casa 150 m² | 5.000–15.000 EUR |
 | Loxone completo | Casa 200 m² | 8.000–20.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       it: `## Perché l'alluminio è il materiale ideale per lo smart home
 
@@ -5185,7 +5185,7 @@ Progetto Loxone completo per una casa di 200 m²: 8.000–20.000 EUR inclusi har
 | Integrazione KNX completa | Casa 150 m² | 5.000–15.000 EUR |
 | Loxone completo | Casa 200 m² | 8.000–20.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
     },
   },
 
@@ -5398,7 +5398,7 @@ Test de etanșeitate la apă (aspersie) și permeabilitate la aer per EN 1027/EN
 
 Contactați departamentul comercial pentru proiecte de birouri și spații comerciale:
 
-**WhatsApp Proiecte:** +40 752 443 439 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+**WhatsApp Proiecte:** +40 752 443 439 | **L–V 10–18**`,
 
       en: `## The Bucharest office market and the requirement for modern facades
 
@@ -5474,7 +5474,7 @@ The **de facto standard** for any Class A office building in Bucharest in 2026 i
 
 **Own installation teams** — we do not subcontract installation for commercial projects.
 
-**WhatsApp Projects:** +40 752 443 439 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp Projects:** +40 752 443 439`,
 
       de: `## Der Bukarester Büromarkt und die Anforderung an moderne Fassaden
 
@@ -5527,7 +5527,7 @@ Der **De-facto-Standard** für jedes Klasse-A-Bürogebäude in Bukarest 2026 ist
 
 Lokaler Alumil-Lagerbestand — Profile in 3–5 Tagen lieferbar vs 6–8 Wochen bei Importeuren. Eigene Montageteams. Vollständige CE-Dokumentation für alle Systeme.
 
-**WhatsApp Projekte:** +40 752 443 439 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp Projekte:** +40 752 443 439`,
 
       fr: `## Le marché des bureaux à Bucarest et l'exigence de façades modernes
 
@@ -5579,7 +5579,7 @@ Le **standard de facto** pour tout immeuble de bureaux de classe A à Bucarest e
 
 Stock local Alumil — profils disponibles en 3–5 jours vs 6–8 semaines pour les importateurs. Équipes de pose propres. Documentation CE complète pour tous les systèmes.
 
-**WhatsApp Projets :** +40 752 443 439 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp Projets :** +40 752 443 439`,
 
       es: `## El mercado de oficinas de Bucarest y el requisito de fachadas modernas
 
@@ -5631,7 +5631,7 @@ El **estándar de facto** para cualquier edificio de oficinas de clase A en Buca
 
 Stock local Alumil — perfiles disponibles en 3–5 días vs 6–8 semanas para importadores. Equipos de instalación propios. Documentación CE completa.
 
-**WhatsApp Proyectos:** +40 752 443 439 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp Proyectos:** +40 752 443 439`,
 
       it: `## Il mercato degli uffici di Bucarest e il requisito di facciate moderne
 
@@ -5683,7 +5683,7 @@ Lo **standard de facto** per qualsiasi edificio per uffici di classe A a Bucares
 
 Stock locale Alumil — profili disponibili in 3–5 giorni vs 6–8 settimane per gli importatori. Squadre di posa proprie. Documentazione CE completa per tutti i sistemi.
 
-**WhatsApp Progetti:** +40 752 443 439 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp Progetti:** +40 752 443 439`,
     },
   },
 
@@ -5862,7 +5862,7 @@ Geamul reprezintă 70% din suprafața ferestrei. Un profil premium cu geam stand
 
 **Măsurători gratuite** la adresa ta în 24–48 ore. **Producție proprie** — nu intermediem, nu subcontractăm. **Montaj certificat nZEB** cu precadre Blaugelb Triotherm+ incluse standard. **Ridicăm tâmplăria veche** fără costuri suplimentare.
 
-**WhatsApp:** +40 752 443 435 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
 
       en: `## When is the right time to replace your windows?
 
@@ -5918,7 +5918,7 @@ For a 60 m² Bucharest apartment with old windows:
 | BluEvolution 92, double Low-E | 2,400–3,600 EUR | 3,600–5,500 EUR | 5,200–8,000 EUR |
 | BluEvolution 92, triple Low-E, nZEB | 3,200–4,800 EUR | 4,800–7,000 EUR | 6,800–10,000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       de: `## Wann ist der richtige Zeitpunkt für den Fensterwechsel?
 
@@ -5961,7 +5961,7 @@ For a 60 m² Bucharest apartment with old windows:
 | GreenEvolution 76, Doppel-Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
 | BluEvolution 92, Dreifach-Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       fr: `## Quand est-il temps de remplacer vos fenêtres ?
 
@@ -6004,7 +6004,7 @@ For a 60 m² Bucharest apartment with old windows:
 | GreenEvolution 76, double Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
 | BluEvolution 92, triple Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp :** +40 752 443 435 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp :** +40 752 443 435`,
 
       es: `## ¿Cuándo es el momento adecuado para sustituir las ventanas?
 
@@ -6047,7 +6047,7 @@ For a 60 m² Bucharest apartment with old windows:
 | GreenEvolution 76, doble Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
 | BluEvolution 92, triple Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       it: `## Quando è il momento giusto per sostituire le finestre?
 
@@ -6090,7 +6090,7 @@ For a 60 m² Bucharest apartment with old windows:
 | GreenEvolution 76, doppio Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
 | BluEvolution 92, triplo Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
     },
   },
 
@@ -6262,7 +6262,7 @@ La Neofort BIZ tratăm diferit proiectele de case față de apartamente. Fiecare
 
 **Export organizat complet** — pentru clienții din diaspora, coordonăm toată logistica: producție, ambalare, transport cu asigurare internațională și documentație vamală UE.
 
-**WhatsApp:** +40 752 443 435 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
 
       en: `## Why individual houses need a different standard than apartment blocks?
 
@@ -6325,7 +6325,7 @@ We deliver regularly to: **France** (Paris, Lyon, Île-de-France — 3–4 days)
 |---|---|
 | BluEvolution 92 ALU, triple krypton, full nZEB | 35,000–55,000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Send email](mailto:oferte@neofort-biz.ro) | **Mon–Fri 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
 
       de: `## Warum braucht ein Einfamilienhaus einen anderen Standard als ein Wohnblock?
 
@@ -6367,7 +6367,7 @@ Regelmäßige Lieferungen nach: **Frankreich** (3–4 Tage), **Deutschland** (2�
 | BluEvolution 92 FLEX, Dreifach-Low-E, nZEB-Montage | 18.000–26.000 EUR |
 | BluEvolution 92 ALU, Dreifach-Low-E, nZEB | 22.000–32.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       fr: `## Pourquoi une maison individuelle nécessite-t-elle un standard différent d'un immeuble ?
 
@@ -6409,7 +6409,7 @@ Livraisons régulières en **France** (Paris, Lyon, Île-de-France — 3–4 jou
 | BluEvolution 92 FLEX, triple Low-E, pose nZEB | 18.000–26.000 EUR |
 | BluEvolution 92 ALU, triple Low-E, nZEB | 22.000–32.000 EUR |
 
-**WhatsApp :** +40 752 443 435 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp :** +40 752 443 435`,
 
       es: `## ¿Por qué una casa individual necesita un estándar diferente al de un bloque?
 
@@ -6449,7 +6449,7 @@ Una ventana BluEvolution 92 (100×120 cm, triple Low-E) cuesta en Neofort BIZ 48
 | BluEvolution 92 FLEX, triple Low-E, instalación nZEB | 18.000–26.000 EUR |
 | BluEvolution 92 ALU, triple Low-E, nZEB | 22.000–32.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       it: `## Perché una casa individuale ha bisogno di uno standard diverso da un condominio?
 
@@ -6489,7 +6489,7 @@ Una finestra BluEvolution 92 (100×120 cm, triplo Low-E) costa da Neofort BIZ 48
 | BluEvolution 92 FLEX, triplo Low-E, posa nZEB | 18.000–26.000 EUR |
 | BluEvolution 92 ALU, triplo Low-E, nZEB | 22.000–32.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
     },
   },
 
@@ -6643,7 +6643,7 @@ Sistemul pentru terase și balcoane mari — acolo unde ușa de balcon clasică 
 
 Neofort BIZ lucrează direct cu **dezvoltatori imobiliari, antreprenori generali și arhitecți** din București și din toată România.
 
-**WhatsApp Proiecte:** +40 752 443 439 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+**WhatsApp Proiecte:** +40 752 443 439 | **L–V 10–18**`,
 
       en: `## The Neofort BIZ Project — New Block, Delea Veche, Bucharest
 
@@ -6691,7 +6691,7 @@ An apartment with Reynaers aluminium sells for **5–8% more** than the same apa
 | CS 77, double Low-E | 4 windows + 2 balcony doors (3-room) | 4,200–6,500 EUR |
 | CS 77, triple Low-E | 4 windows + 2 balcony doors (3-room) | 5,500–8,000 EUR |
 
-**WhatsApp Projects:** +40 752 443 439 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp Projects:** +40 752 443 439`,
 
       de: `## Das Neofort BIZ Projekt — Neubau-Wohnblock, Delea Veche, Bukarest
 
@@ -6726,7 +6726,7 @@ Delea Veche ist eine der aktivsten Wohnbaugebiete im 2. Bezirk Bukarests. Neofor
 | CS 77, Zweifach-Low-E | 4 Fenster + 2 Balkontüren (3 Zi.) | 4.200–6.500 EUR |
 | CS 77, Dreifach-Low-E | 4 Fenster + 2 Balkontüren (3 Zi.) | 5.500–8.000 EUR |
 
-**WhatsApp Projekte:** +40 752 443 439 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp Projekte:** +40 752 443 439`,
 
       fr: `## Le projet Neofort BIZ — immeuble neuf, Delea Veche, Bucarest
 
@@ -6760,7 +6760,7 @@ Delea Veche est l'une des zones de développement résidentiel les plus actives 
 | CS 77, double Low-E | 4 fenêtres + 2 portes balcon (3 p.) | 4.200–6.500 EUR |
 | CS 77, triple Low-E | 4 fenêtres + 2 portes balcon (3 p.) | 5.500–8.000 EUR |
 
-**WhatsApp Projets :** +40 752 443 439 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp Projets :** +40 752 443 439`,
 
       es: `## El proyecto Neofort BIZ — bloque nuevo, Delea Veche, Bucarest
 
@@ -6786,7 +6786,7 @@ Delea Veche es una de las zonas de desarrollo residencial más activas del secto
 | CS 77, doble Low-E | 4 ventanas + 2 puertas balcón (3 hab.) | 4.200–6.500 EUR |
 | CS 77, triple Low-E | 4 ventanas + 2 puertas balcón (3 hab.) | 5.500–8.000 EUR |
 
-**WhatsApp Proyectos:** +40 752 443 439 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp Proyectos:** +40 752 443 439`,
 
       it: `## Il progetto Neofort BIZ — nuovo condominio, Delea Veche, Bucarest
 
@@ -6812,7 +6812,7 @@ Delea Veche è una delle zone di sviluppo residenziale più attive del settore 2
 | CS 77, doppio Low-E | 4 finestre + 2 porte balcone (3 vani) | 4.200–6.500 EUR |
 | CS 77, triplo Low-E | 4 finestre + 2 porte balcone (3 vani) | 5.500–8.000 EUR |
 
-**WhatsApp Progetti:** +40 752 443 439 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp Progetti:** +40 752 443 439`,
     },
   },
 
@@ -6968,7 +6968,7 @@ Fără precadre, **BluEvolution 92 pierde 35–40% din performanța termică** l
 
 La Neofort BIZ oferim **consultanță tehnică gratuită** pentru proiecte de case individuale noi — calcul termic pe orientări, recomandare profil și geam per fereastră, și planul de pre-cablare pentru motorizare ulterioară chiar dacă nu vrei automatizare acum.
 
-**WhatsApp:** +40 752 443 435 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
 
       en: `## The Neofort BIZ Project — New Nordic-Style House, Berceni, Bucharest
 
@@ -7015,7 +7015,7 @@ This house, completed in 2025, chose **Salamander BluEvolution 92** as the main 
 | BluEvolution 92, triple Low-E, nZEB | 20,000–28,000 EUR | 30,000–42,000 EUR |
 | + Somfy automation | +3,500–6,000 EUR | +5,000–9,000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       de: `## Das Neofort BIZ Projekt — neues Haus im nordischen Stil, Berceni, Bukarest
 
@@ -7047,7 +7047,7 @@ Dieses 2025 fertiggestellte Haus wählte **Salamander BluEvolution 92** als Haup
 | BluEvolution 92, Dreifach-Low-E, nZEB | 20.000–28.000 EUR | 30.000–42.000 EUR |
 | + Somfy-Automatisierung | +3.500–6.000 EUR | +5.000–9.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       fr: `## Le projet Neofort BIZ — maison neuve style nordique, Berceni, Bucarest
 
@@ -7078,7 +7078,7 @@ Cette maison achevée en 2025 a choisi **Salamander BluEvolution 92** comme prof
 | BluEvolution 92, triple Low-E, nZEB | 20.000–28.000 EUR | 30.000–42.000 EUR |
 | + Automatisation Somfy | +3.500–6.000 EUR | +5.000–9.000 EUR |
 
-**WhatsApp :** +40 752 443 435 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp :** +40 752 443 435`,
 
       es: `## El proyecto Neofort BIZ — casa nueva estilo nórdico, Berceni, Bucarest
 
@@ -7108,7 +7108,7 @@ Esta casa, completada en 2025, eligió **Salamander BluEvolution 92** como perfi
 | BluEvolution 92, doble Low-E, nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
 | + Automatización Somfy | +3.500–6.000 EUR | +5.000–9.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       it: `## Il progetto Neofort BIZ — nuova casa in stile nordico, Berceni, Bucarest
 
@@ -7138,7 +7138,7 @@ Questa casa, completata nel 2025, ha scelto **Salamander BluEvolution 92** come 
 | BluEvolution 92, doppio Low-E, nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
 | + Automazione Somfy | +3.500–6.000 EUR | +5.000–9.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
     },
   },
 
@@ -7274,7 +7274,7 @@ Aceste cerințe se aplică și în România. Case de vacanță și reședințe p
 
 ## Solicită ofertă pentru export sau case de munte
 
-**WhatsApp:** +40 752 443 435 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
 Comunicăm în română, engleză, franceză și germană. Livrăm în toată Europa UE — fără taxe vamale, cu documentație CE completă.`,
 
@@ -7322,7 +7322,7 @@ At 1,000–2,000 m altitude: thermal variation of 55°C (vs 35°C at sea level),
 
 We communicate in Romanian, English, French and German. We deliver across the EU — no customs duties, complete CE documentation.
 
-**WhatsApp:** +40 752 443 435 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       de: `## Das Neofort BIZ Projekt — Export nach Frankreich, Berghaus
 
@@ -7351,7 +7351,7 @@ We communicate in Romanian, English, French and German. We deliver across the EU
 
 Wir liefern in der gesamten EU — keine Zölle, vollständige CE-Dokumentation.
 
-**WhatsApp:** +40 752 443 435 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       fr: `## Le projet Neofort BIZ — export France, maison de montagne
 
@@ -7380,7 +7380,7 @@ Wir liefern in der gesamten EU — keine Zölle, vollständige CE-Dokumentation.
 
 Nous communiquons en roumain, anglais, français et allemand. Livraison dans toute l'UE — sans droits de douane, documentation CE complète.
 
-**WhatsApp :** +40 752 443 435 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp :** +40 752 443 435`,
 
       es: `## El proyecto Neofort BIZ — exportación Francia, casa de montaña
 
@@ -7407,7 +7407,7 @@ Nous communiquons en roumain, anglais, français et allemand. Livraison dans tou
 | Oscilobatiente 100×120 cm, triple Low-E | 600–780 EUR |
 | **Precio por m² instalado** | **280–400 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
 
       it: `## Il progetto Neofort BIZ — esportazione Francia, casa di montagna
 
@@ -7434,7 +7434,7 @@ Nous communiquons en roumain, anglais, français et allemand. Livraison dans tou
 | Ribaltabile 100×120 cm, triplo Low-E | 600–780 EUR |
 | **Prezzo per m² posato** | **280–400 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+**WhatsApp:** +40 752 443 435`,
     },
   },
 
