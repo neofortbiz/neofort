@@ -165,9 +165,10 @@ export default async function DesprePage({ params }) {
                   </a>
                 ) : (
                   <div key={l} className="border border-border p-8 flex flex-col justify-center">
-                  <div className="font-condensed text-4xl font-semibold text-primary">{n}</div>
-                  <div className="text-[0.7rem] tracking-[0.15em] text-muted uppercase mt-2">{l}</div>
-                </div>
+                    <div className="font-condensed text-4xl font-semibold text-primary">{n}</div>
+                    <div className="text-[0.7rem] tracking-[0.15em] text-muted uppercase mt-2">{l}</div>
+                  </div>
+                )
               ))}
             </div>
           </div>
