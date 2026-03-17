@@ -83,7 +83,7 @@ export default async function DesprePage({ params }) {
         'email': 'oferte@neofort-biz.ro',
         'vatID': 'RO30324211',
         'taxID': 'RO30324211',
-        'leiCode': 'J40/6928/2012',
+        'leiCode': 'J40/6928/2012','identifier': {'@type': 'PropertyValue','name': 'EUID','value': 'ROONRC.J40/6928/2012'},
         'foundingDate': '2012',
         'numberOfEmployees': { '@type': 'QuantitativeValue', 'minValue': 5, 'maxValue': 15 },
         'areaServed': [

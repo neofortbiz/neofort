@@ -187,6 +187,13 @@ img,video{max-width:100%;height:auto}
   flex-wrap: wrap;
 }
 
+
+/* Speed Index optimization — below-fold sections */
+.section-below-fold {
+  content-visibility: auto;
+  contain-intrinsic-size: 0 500px;
+}
+
 @media (max-width: 768px) {
   /* Hero */
   .hero-grid {

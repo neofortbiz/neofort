@@ -363,7 +363,7 @@ export default function Footer() {
             <address style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.04em',color:'#666',lineHeight:1.6,marginBottom:'10px',fontStyle:'normal'}}>
               {col.address}
             </address>
-            <a href="https://maps.app.goo.gl/aujfwVBEKvfhnsdS6" target="_blank" rel="noopener noreferrer" className="maps-link">{col.maps}</a>
+            <a href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer" className="maps-link">{col.maps}</a>
             <div className="footer-langs" style={{marginTop:'20px'}}>
               {LOCALES.map(([code,label])=>(
                 <Link key={code} href={pathname} locale={code} className={`footer-lang ${locale===code?'active':''}`}>{label}</Link>
