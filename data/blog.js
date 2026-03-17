@@ -7439,6 +7439,1095 @@ Nous communiquons en roumain, anglais, français et allemand. Livraison dans tou
   },
 
 
+  // ─── ARTICOL 17: Vitrine geamuri agabaritice mari dimensiuni ────────────
+  {
+    slugs: {
+      ro: 'vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti',
+      en: 'glass-shopfronts-panoramic-large-format-tempered-windows-bucharest',
+      de: 'schaufenster-panoramascheiben-grosse-abmessungen-sicherheitsglas-bukarest',
+      fr: 'vitrines-verre-fenetres-panoramiques-grandes-dimensions-securisees-bucarest',
+      es: 'vitrinas-cristal-ventanas-panoramicas-grandes-dimensiones-securizadas-bucarest',
+      it: 'vetrine-vetro-finestre-panoramiche-grandi-dimensioni-securizzate-bucarest',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Vitrine & Geamuri Mari', en:'Shopfronts & Large Glass', de:'Schaufenster & Großglas', fr:'Vitrines & Grand Verre', es:'Vitrinas & Vidrio Grande', it:'Vetrine & Vetro Grande' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-vitrine-geamuri-agabaritice.avif',
+      en: '/blog/blog-vitrine-geamuri-agabaritice.avif',
+      de: '/blog/blog-vitrine-geamuri-agabaritice.avif',
+      fr: '/blog/blog-vitrine-geamuri-agabaritice.avif',
+      es: '/blog/blog-vitrine-geamuri-agabaritice.avif',
+      it: '/blog/blog-vitrine-geamuri-agabaritice.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1628 0%,#1a3a5c 60%,#2d6a9f 100%)',
+    imageLabel: 'Vitrine Agabaritice 2026',
+    accentColor: '#1a3a5c',
+    title: {
+      ro: 'Vitrine și geamuri panoramice de mari dimensiuni — securizate, antiefracție, termoizolante — furnizor București 2026',
+      en: 'Large format glass shopfronts and panoramic windows — tempered, burglar-resistant, thermally insulated — supplier Bucharest 2026',
+      de: 'Großformat-Schaufenster und Panoramascheiben — gehärtet, einbruchhemmend, wärmedämmend — Händler Bukarest 2026',
+      fr: 'Vitrines et fenêtres panoramiques grand format — sécurisées, antieffraction, thermoïsolantes — fournisseur Bucarest 2026',
+      es: 'Vitrinas y ventanas panorámicas gran formato — securizadas, antiefracción, termoaislantes — proveedor Bucarest 2026',
+      it: 'Vetrine e finestre panoramiche grande formato — securizzate, antieffrazione, termoisolanti — fornitore Bucarest 2026',
+    },
+    excerpt: {
+      ro: 'Geamuri agabaritice de 3×4 m, vitrine comerciale securizate, fațade panoramice pentru showroom-uri și spații retail — montaj cu echipament specializat în toată București și Ilfov. Ghid complet: tipuri de sticlă, dimensiuni maxime, clase de rezistență antiefracție și prețuri orientative 2026.',
+      en: 'Oversized glass panels 3×4 m, tempered commercial shopfronts, panoramic facades for showrooms and retail spaces — installation with specialised equipment across Bucharest and Ilfov. Complete guide: glass types, maximum dimensions, burglar resistance classes and indicative prices 2026.',
+      de: 'Übergroße Glasscheiben 3×4 m, gehärtete Schaufenster, Panoramafassaden für Showrooms und Einzelhandelsflächen — Montage mit Spezialausrüstung in Bukarest und Ilfov. Komplettleitfaden: Glastypen, maximale Abmessungen, Einbruchschutzklassen und Richtpreise 2026.',
+      fr: 'Panneaux de verre surdimensionnés 3×4 m, vitrines commerciales sécurisées, façades panoramiques pour showrooms et espaces commerciaux — pose avec équipement spécialisé dans tout Bucarest et Ilfov. Guide complet : types de verre, dimensions maximales, classes de résistance antieffraction et prix indicatifs 2026.',
+      es: 'Paneles de vidrio sobredimensionados 3×4 m, vitrinas comerciales securizadas, fachadas panorámicas para showrooms y espacios retail — instalación con equipo especializado en todo Bucarest e Ilfov. Guía completa: tipos de vidrio, dimensiones máximas, clases antiefracción y precios orientativos 2026.',
+      it: 'Pannelli di vetro sovradimensionati 3×4 m, vetrine commerciali securizzate, facciate panoramiche per showroom e spazi retail — posa con attrezzatura specializzata in tutta Bucarest e Ilfov. Guida completa: tipi di vetro, dimensioni massime, classi antieffrazione e prezzi indicativi 2026.',
+    },
+    metaDesc: {
+      ro: 'Vitrine sticla mari dimensiuni București 2026: geam securizat antiefracție RC2-RC4, termoizolant 4+16+4, agabaritic până la 3×5 m, montaj robot ventuze. Furnizor Neofort BIZ — ofertă gratuită.',
+      en: 'Large glass shopfronts Bucharest 2026: RC2-RC4 burglar-resistant tempered glass, thermally insulated 4+16+4, oversized up to 3×5 m, robot vacuum installation. Supplier Neofort BIZ — free quote.',
+      de: 'Großglas Schaufenster Bukarest 2026: RC2-RC4 einbruchhemmendes Sicherheitsglas, wärmedämmend 4+16+4, Übergröße bis 3×5 m, Roboter-Vakuummontage. Händler Neofort BIZ — kostenloses Angebot.',
+      fr: "Vitrines grande dimension Bucarest 2026 : verre sécurisé antieffraction RC2-RC4, thermoïsolant 4+16+4, surdimensionné jusqu'à 3×5 m, pose robot ventouses. Fournisseur Neofort BIZ — devis gratuit.",
+      es: 'Vitrinas vidrio grandes dimensiones Bucarest 2026: vidrio laminado antiefracción RC2-RC4, termoaislante 4+16+4, sobredimensionado hasta 3×5 m, instalación robot ventosas. Proveedor Neofort BIZ — presupuesto gratuito.',
+      it: 'Vetrine vetro grandi dimensioni Bucarest 2026: vetro securizzato antieffrazione RC2-RC4, termoisolante 4+16+4, sovradimensionato fino a 3×5 m, posa robot ventose. Fornitore Neofort BIZ — preventivo gratuito.',
+    },
+    keywords: 'vitrine sticla mari dimensiuni Bucuresti, geamuri agabaritice pret, geam securizat antiefractie showroom, vitrina comerciala sticla pret mp, geam termoizolator mari dimensiuni, panouri sticla facade comerciale, geam panoramic dimensiuni mari montaj Bucuresti, vitrina sticla RC2 RC3',
+    content: {
+      ro: `## Ce sunt geamurile agabaritice și cine are nevoie de ele?
+
+Termenul „agabaritic" descrie orice panou de sticlă cu dimensiuni care depășesc posibilitățile de transport și manipulare standard — în practică, orice foaie de sticlă mai mare de **2.500 × 3.500 mm** sau mai grea de **150 kg per panou**.
+
+Aceste dimensiuni sunt cerute frecvent de:
+
+- **Showroom-uri auto și dealeri** — vitrine panoramice de 3–5 m lățime fără rost vertical vizibil
+- **Magazine și spații retail premium** — fațade de sticlă pentru vizibilitate maximă din stradă
+- **Restaurante și cafenele** — pereți de sticlă care elimină granița interior-exterior
+- **Clădiri de birouri și sedii corporative** — fațade cortină cu panouri mari pentru identitate vizuală
+- **Hoteluri** — lobby-uri vitrate, pereți panoramici la piscine și săli de conferință
+- **Rezidențial premium** — vile cu ferestre de podea până la tavan sau uși glisante cu panou unic de 3+ m
+
+---
+
+## Tipuri de sticlă pentru vitrine și geamuri mari dimensiuni
+
+### 1. Sticlă securizată (călită termic)
+
+Procesul de călire termică la 620–680°C urmată de răcire bruscă crește rezistența sticlei de **4–5 ori** față de sticla float obișnuită. La spargere, se fragmentează în granule mici fără muchii ascuțite — esențial pentru siguranța în spații publice.
+
+**Specificații pentru vitrine comerciale:**
+- Grosimi standard: 8mm, 10mm, 12mm, 15mm, 19mm
+- Dimensiuni maxime foaie securizată: **3.500 × 8.000 mm**
+- Grosime recomandată pentru vitrină comercială la parter: **10–12 mm**
+- Grosime pentru fațadă structurală fără ramă: **15–19 mm**
+
+### 2. Sticlă laminată (VSG — Verbund-Sicherheitsglas)
+
+Două sau mai multe foi de sticlă unite cu folii PVB sau SGP intercalate. La impact, sticla rămâne în ramă — cioburile aderă la folie. **Standardul pentru aplicații antiefracție și antiglonț.**
+
+**Clase de rezistență conform EN 356:**
+- **P2A** — rezistă la 3 lovituri cu ciocanul → vitrină magazin standard
+- **P4A** — rezistă la 9 lovituri cu ciocanul → bijuterii, farmacii
+- **P6B** — rezistă la secure → bănci, case de schimb valutar
+- **FB4/FB6** — antiglonț → aplicații speciale
+
+**Clase antiefracție conform EN 1627:**
+- **RC2** — rezistă 3 minute la efracție cu șurubelniță → standard retail
+- **RC3** — rezistă 5 minute cu pârghie → bijutieri, farmacie noapte
+- **RC4** — rezistă 10 minute cu drill → bănci, seifuri
+
+### 3. Sticlă termoizolantă (Thermopan) de mari dimensiuni
+
+Geamul termopan agabaritic combină izolarea termică cu dimensiunile mari. Provocarea tehnică: distanțierul perimetral și garniturile de etanșare trebuie să asigure etanșeitate pe toată lungimea unui panou de 3+ m.
+
+**Configurații recomandate pentru vitrine mari:**
+- **4+16+4** cu argon: Ug = 1,0 W/m²K — standard comercial
+- **6+16+6** cu argon + Low-E: Ug = 0,6 W/m²K — showroom cu cerințe energetice
+- **8+16+8** securizat + Low-E: combinație rezistență + izolare pentru retail premium
+
+**Distanțieri Warm Edge** — obligatorii la panouri mari pentru eliminarea condensului la colțuri și evitarea punților termice perimetrale.
+
+### 4. Sticlă reflexivă și serigrafică pentru fațade
+
+**Sticlă reflexivă** (coating metalic pe față 2): reduce factorul solar g la 0,15–0,30, aspectul de oglindă din exterior. Standard pentru showroom-uri auto și fațade comerciale expuse sud/vest.
+
+**Sticlă serigrafică**: imprimare ceramică arsă la 620°C în masa sticlei — permanentă, rezistentă UV. Permite branding pe vitrină, efecte de confidențialitate parțială sau estetică arhitecturală.
+
+---
+
+## Dimensiuni maxime disponibile — ce putem livra
+
+| Tip sticlă | Grosime | Dimensiuni maxime | Greutate maximă |
+|---|---|---|---|
+| Float securizat | 8–19 mm | 3.500 × 8.000 mm | 1.500 kg |
+| Laminat VSG | 8+8 – 12+12 | 3.300 × 6.000 mm | 900 kg |
+| Termopan standard | 4+16+4 | 3.000 × 4.000 mm | 120 kg |
+| Termopan securizat | 6+16+6 | 3.000 × 5.000 mm | 350 kg |
+| Reflexiv securizat | 6–12 mm | 3.200 × 6.000 mm | 600 kg |
+
+*Dimensiunile depind de configurația specifică și de capacitatea de transport. Contactați-ne pentru confirmare pe proiect.*
+
+---
+
+## Sisteme de prindere pentru vitrine fără ramă
+
+### Spider Fitting (prindere punctuală)
+
+Cea mai elegantă soluție pentru vitrine comerciale — sticla este prinsă cu bolțuri punctuale din inox, fără ramă perimetrală vizibilă. Efectul vizual: suprafață continuă de sticlă.
+
+- Distanță standard între puncte: 1.000–1.500 mm
+- Dimensiuni minime sticlă: 1.000 × 1.000 mm
+- Grosime minimă sticlă: **12 mm securizat** sau **8+8 laminat**
+- Sticla trebuie să fie **perforată anterior securizării** — găurirea post-călire este imposibilă
+
+### Profil aluminiu minim (structura tip slot)
+
+Profil de aluminiu cu slot de 10 mm în care sticla se introduce direct. Vizual: o linie subțire de aluminiu la perimetru, sticla în prim-plan.
+
+### Sistem SG (Silicon Structural)
+
+Sticla lipită cu silicon structural pe o structură metalică ascunsă. Zero profile vizibile. Utilizat în pereți cortină semi-structurali și structurali.
+
+---
+
+## Prețuri orientative vitrine și geamuri mari dimensiuni — 2026
+
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Prețurile sticlei variază semnificativ în funcție de disponibilitate și cursul valutar. Solicitați întotdeauna o ofertă actualizată.
+
+| Produs | Dimensiune | Preț orientativ |
+|---|---|---|
+| Sticlă securizată 10mm | 2.000 × 3.000 mm | 450–700 EUR |
+| Sticlă securizată 12mm | 2.500 × 3.500 mm | 700–1.100 EUR |
+| VSG laminat 8+8 P2A | 2.000 × 3.000 mm | 600–900 EUR |
+| VSG laminat RC2 | 2.000 × 3.000 mm | 900–1.400 EUR |
+| Termopan securizat 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
+| Spider fitting inox (per punct) | — | 80–180 EUR |
+| **Montaj complet (robot + manoperă)** | per panou | **350–800 EUR** |
+
+*Prețurile nu includ transport specializat și eventuale lucrări de pregătire a structurii de prindere.*
+
+---
+
+## De ce Neofort BIZ pentru vitrine și geamuri mari?
+
+Montajul geamurilor agabaritice nu se poate face cu mijloace convenționale. Neofort BIZ dispune de echipament specializat de manipulare cu ventuze (capacitate până la 1.400 kg) și colaborează cu echipe certificate pentru montaj la înălțime și în spații înguste.
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+
+      en: `## What are oversized glass panels and who needs them?
+
+The term "oversized" describes any glass panel exceeding standard transport and handling capabilities — in practice, any sheet larger than **2,500 × 3,500 mm** or heavier than **150 kg per panel**.
+
+---
+
+## Glass types for large format shopfronts and windows
+
+### 1. Tempered safety glass
+Thermal tempering at 620–680°C increases glass strength **4–5 times**. At breakage, fragments into small granules without sharp edges.
+
+Standard specifications: 8–19 mm thickness, maximum sheet size **3,500 × 8,000 mm**.
+
+### 2. Laminated glass (VSG) — burglar resistance classes
+
+| Class (EN 356/EN 1627) | Resistance | Typical application |
+|---|---|---|
+| P2A / RC2 | 3 min with screwdriver | Standard retail |
+| P4A / RC3 | 5 min with crowbar | Jewellery, pharmacies |
+| P6B / RC4 | 10 min with drill | Banks, exchange offices |
+
+### 3. Large format thermal glazing
+
+- **4+16+4** argon: Ug = 1.0 W/m²K — commercial standard
+- **6+16+6** argon + Low-E: Ug = 0.6 W/m²K — premium showroom
+- **8+16+8** tempered + Low-E — combined resistance + insulation
+
+---
+
+## Maximum available dimensions
+
+| Glass type | Thickness | Max dimensions | Max weight |
+|---|---|---|---|
+| Tempered float | 8–19 mm | 3,500 × 8,000 mm | 1,500 kg |
+| VSG laminated | 8+8–12+12 | 3,300 × 6,000 mm | 900 kg |
+| Thermal double | 4+16+4 | 3,000 × 4,000 mm | 120 kg |
+| Tempered thermal | 6+16+6 | 3,000 × 5,000 mm | 350 kg |
+
+---
+
+## Indicative prices — 2026
+
+> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+
+| Product | Size | Indicative price |
+|---|---|---|
+| Tempered 10mm | 2,000 × 3,000 mm | 450–700 EUR |
+| VSG laminated RC2 | 2,000 × 3,000 mm | 900–1,400 EUR |
+| Thermal tempered 6+16+6 | 2,500 × 3,000 mm | 800–1,300 EUR |
+| Spider fitting inox (per point) | — | 80–180 EUR |
+| **Full installation (robot + labour)** | per panel | **350–800 EUR** |
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+
+      de: `## Was sind übergroße Glasscheiben und wer braucht sie?
+
+Übergroße Glasscheiben überschreiten Standardtransport- und Handhabungsmöglichkeiten — in der Praxis jede Scheibe größer als **2.500 × 3.500 mm** oder schwerer als **150 kg pro Panel**.
+
+---
+
+## Glastypen für große Schaufenster
+
+### 1. Einscheibensicherheitsglas (ESG)
+Thermische Härtung bei 620–680°C erhöht Glasfestigkeit **4–5×**. Maximale Scheibengröße: **3.500 × 8.000 mm**.
+
+### 2. Verbundglas (VSG) — Einbruchschutzklassen
+
+| Klasse (EN 1627) | Widerstand | Typische Anwendung |
+|---|---|---|
+| RC2 | 3 Min. mit Schraubenzieher | Standard Einzelhandel |
+| RC3 | 5 Min. mit Brecheisen | Juweliere, Apotheken |
+| RC4 | 10 Min. mit Bohrer | Banken, Wechselstuben |
+
+### 3. Großformat-Isolierverglasung
+- **4+16+4** Argon: Ug = 1,0 W/m²K
+- **6+16+6** Argon + Low-E: Ug = 0,6 W/m²K
+
+---
+
+## Richtpreise — 2026
+
+> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+
+| Produkt | Größe | Richtpreis |
+|---|---|---|
+| ESG 10mm | 2.000 × 3.000 mm | 450–700 EUR |
+| VSG RC2 laminiert | 2.000 × 3.000 mm | 900–1.400 EUR |
+| Isolierglas ESG 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
+| **Komplettmontage (Roboter + Arbeit)** | pro Panel | **350–800 EUR** |
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**`,
+
+      fr: `## Que sont les panneaux de verre surdimensionnés et qui en a besoin ?
+
+Les panneaux surdimensionnés dépassent les capacités de transport et de manutention standard — en pratique, toute feuille supérieure à **2.500 × 3.500 mm** ou plus lourde que **150 kg par panneau**.
+
+---
+
+## Types de verre pour grandes vitrines
+
+### 1. Verre trempé (VSG simple)
+Trempe thermique à 620–680°C : résistance **4–5× supérieure**. Dimensions maximales : **3.500 × 8.000 mm**.
+
+### 2. Verre feuilleté — classes de résistance antieffraction
+
+| Classe (EN 1627) | Résistance | Application typique |
+|---|---|---|
+| RC2 | 3 min avec tournevis | Commerce standard |
+| RC3 | 5 min avec pied-de-biche | Bijouteries, pharmacies |
+| RC4 | 10 min avec perceuse | Banques, bureaux de change |
+
+---
+
+## Prix indicatifs — 2026
+
+> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+
+| Produit | Dimension | Prix indicatif |
+|---|---|---|
+| Trempé 10mm | 2.000 × 3.000 mm | 450–700 EUR |
+| Feuilleté RC2 | 2.000 × 3.000 mm | 900–1.400 EUR |
+| Double vitrage trempé 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
+| **Pose complète (robot + main-d'œuvre)** | par panneau | **350–800 EUR** |
+
+**WhatsApp :** +40 752 443 435 | **L–V 10–18**`,
+
+      es: `## ¿Qué son los paneles de vidrio sobredimensionados y quién los necesita?
+
+Los paneles sobredimensionados superan las capacidades estándar de transporte y manipulación — en la práctica, cualquier hoja mayor de **2.500 × 3.500 mm** o más pesada de **150 kg por panel**.
+
+---
+
+## Tipos de vidrio para grandes vitrinas
+
+### 1. Vidrio templado
+Temple térmico a 620–680°C: resistencia **4–5× superior**. Dimensiones máximas: **3.500 × 8.000 mm**.
+
+### 2. Vidrio laminado — clases de resistencia antiefracción
+
+| Clase (EN 1627) | Resistencia | Aplicación típica |
+|---|---|---|
+| RC2 | 3 min con destornillador | Comercio estándar |
+| RC3 | 5 min con palanca | Joyerías, farmacias |
+| RC4 | 10 min con taladro | Bancos, casas de cambio |
+
+---
+
+## Precios orientativos — 2026
+
+> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+
+| Producto | Dimensión | Precio orientativo |
+|---|---|---|
+| Templado 10mm | 2.000 × 3.000 mm | 450–700 EUR |
+| Laminado RC2 | 2.000 × 3.000 mm | 900–1.400 EUR |
+| Doble acristalamiento templado 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
+| **Instalación completa (robot + mano de obra)** | por panel | **350–800 EUR** |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+
+      it: `## Cosa sono i pannelli di vetro sovradimensionati e chi ne ha bisogno?
+
+I pannelli sovradimensionati superano le capacità di trasporto e movimentazione standard — in pratica, qualsiasi lastra più grande di **2.500 × 3.500 mm** o più pesante di **150 kg per pannello**.
+
+---
+
+## Tipi di vetro per grandi vetrine
+
+### 1. Vetro temprato
+Tempra termica a 620–680°C: resistenza **4–5× superiore**. Dimensioni massime: **3.500 × 8.000 mm**.
+
+### 2. Vetro laminato — classi di resistenza antieffrazione
+
+| Classe (EN 1627) | Resistenza | Applicazione tipica |
+|---|---|---|
+| RC2 | 3 min con cacciavite | Commercio standard |
+| RC3 | 5 min con piede di porco | Gioiellerie, farmacie |
+| RC4 | 10 min con trapano | Banche, cambiavalute |
+
+---
+
+## Prezzi indicativi — 2026
+
+> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+
+| Prodotto | Dimensione | Prezzo indicativo |
+|---|---|---|
+| Temprato 10mm | 2.000 × 3.000 mm | 450–700 EUR |
+| Laminato RC2 | 2.000 × 3.000 mm | 900–1.400 EUR |
+| Vetrocamera temprato 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
+| **Posa completa (robot + manodopera)** | per pannello | **350–800 EUR** |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+    },
+  },
+
+  // ─── ARTICOL 18: Robot montaj geamuri agabaritice ventuze ────────────────
+  {
+    slugs: {
+      ro: 'montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
+      en: 'oversized-glass-installation-robot-vacuum-cups-large-panels',
+      de: 'montage-uebergrosseglaesscheiben-roboter-saugnäpfe-grossformat',
+      fr: 'pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
+      es: 'instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
+      it: 'posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Montaj Specializat', en:'Specialised Installation', de:'Spezialmontage', fr:'Pose Spécialisée', es:'Instalación Especializada', it:'Posa Specializzata' },
+    readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
+    image: {
+      ro: '/blog/blog-robot-montaj-geamuri-agabaritice.avif',
+      en: '/blog/blog-robot-montaj-geamuri-agabaritice.avif',
+      de: '/blog/blog-robot-montaj-geamuri-agabaritice.avif',
+      fr: '/blog/blog-robot-montaj-geamuri-agabaritice.avif',
+      es: '/blog/blog-robot-montaj-geamuri-agabaritice.avif',
+      it: '/blog/blog-robot-montaj-geamuri-agabaritice.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a1a2a 0%,#2a2a4a 60%,#3a4a6a 100%)',
+    imageLabel: 'Robot Montaj Sticlă',
+    accentColor: '#2a3a5c',
+    title: {
+      ro: 'Montaj geamuri agabaritice cu robot și ventuze — cum se instalează panouri de sticlă de sute de kilograme',
+      en: 'Installing oversized glass with robot and vacuum cups — how glass panels of hundreds of kilograms are installed',
+      de: 'Montage übergroßer Glasscheiben mit Roboter und Saugnäpfen — wie Glasscheiben von Hunderten Kilogramm installiert werden',
+      fr: 'Pose de verre surdimensionné par robot et ventouses — comment installer des panneaux de verre de plusieurs centaines de kilogrammes',
+      es: 'Instalación de vidrio sobredimensionado con robot y ventosas — cómo se instalan paneles de vidrio de cientos de kilogramos',
+      it: 'Posa di vetro sovradimensionato con robot e ventose — come si installano pannelli di vetro di centinaia di chilogrammi',
+    },
+    excerpt: {
+      ro: 'Un panou de sticlă securizată de 3×4 m și 12 mm grosime cântărește 360 kg — imposibil de manipulat manual fără risc major de spargere și accidente. Robotul cu ventuze cu vid permite poziționarea la precizie milimetrică a panourilor de până la 1.400 kg. Ghid complet: cum funcționează, ce echipament folosim și de ce este singurul mod sigur de montaj.',
+      en: 'A 3×4 m tempered glass panel 12 mm thick weighs 360 kg — impossible to handle manually without major risk of breakage and accidents. The vacuum cup robot allows millimetre-precise positioning of panels up to 1,400 kg. Complete guide: how it works, what equipment we use and why it is the only safe installation method.',
+      de: 'Eine 3×4 m Einscheibensicherheitsglasscheibe 12 mm dick wiegt 360 kg — manuell ohne großes Bruch- und Unfallrisiko nicht handhabbar. Der Vakuum-Saugnapf-Roboter ermöglicht millimetergenaue Positionierung von Scheiben bis 1.400 kg. Komplettleitfaden: wie es funktioniert, welche Ausrüstung wir verwenden.',
+      fr: "Un panneau de verre trempé 3×4 m de 12 mm d'épaisseur pèse 360 kg — impossible à manutentionner manuellement sans risque majeur de casse et d'accidents. Le robot à ventouses permet un positionnement au millimètre près de panneaux jusqu'à 1.400 kg. Guide complet.",
+      es: 'Un panel de vidrio templado de 3×4 m y 12 mm de grosor pesa 360 kg — imposible de manipular manualmente sin riesgo grave de rotura y accidentes. El robot de ventosas permite el posicionamiento milimétrico de paneles de hasta 1.400 kg. Guía completa.',
+      it: "Un pannello di vetro temprato 3×4 m e 12 mm di spessore pesa 360 kg — impossibile da maneggiare manualmente senza rischio grave di rottura e incidenti. Il robot con ventose permette il posizionamento millimetrico di pannelli fino a 1.400 kg. Guida completa.",
+    },
+    metaDesc: {
+      ro: 'Montaj geamuri agabaritice robot ventuze București 2026: cum funcționează robotul cu vid pentru sticlă 200-1400 kg, sisteme TGT RoboCrane, precizie montaj 1mm, prețuri servicii. Neofort BIZ — echipament specializat.',
+      en: 'Oversized glass installation robot vacuum cups Bucharest 2026: how vacuum robot works for glass 200-1400 kg, TGT RoboCrane systems, 1mm installation precision, service prices. Neofort BIZ — specialised equipment.',
+      de: 'Montage Großglas Roboter Saugnäpfe Bukarest 2026: wie Vakuumroboter für Glas 200-1400 kg funktioniert, TGT RoboCrane Systeme, 1mm Montagepräzision, Servicepreise. Neofort BIZ — Spezialausrüstung.',
+      fr: "Pose verre surdimensionné robot ventouses Bucarest 2026 : fonctionnement robot vide pour verre 200-1400 kg, systèmes TGT RoboCrane, précision pose 1mm, tarifs services. Neofort BIZ — équipement spécialisé.",
+      es: 'Instalación vidrio sobredimensionado robot ventosas Bucarest 2026: cómo funciona robot vacío para vidrio 200-1400 kg, sistemas TGT RoboCrane, precisión montaje 1mm, precios servicios. Neofort BIZ — equipo especializado.',
+      it: 'Posa vetro sovradimensionato robot ventose Bucarest 2026: come funziona robot vuoto per vetro 200-1400 kg, sistemi TGT RoboCrane, precisione posa 1mm, prezzi servizi. Neofort BIZ — attrezzatura specializzata.',
+    },
+    keywords: 'montaj geamuri agabaritice robot ventuze, robot montaj sticla mari dimensiuni, ventuze vacuum sticla grea, manipulare sticla 300 400 500 kg, TGT RoboCrane montaj geam, montaj vitrina comerciala robot Bucuresti, montaj panou sticla pesant echipament specializat',
+    content: {
+      ro: `## De ce nu se poate monta sticla agabarită manual
+
+Un calcul simplu explică totul:
+
+- Sticlă securizată 10mm → **25 kg/mp**
+- Panou 3.000 × 4.000 mm → **12 mp × 25 kg = 300 kg**
+- Același panou în 12mm → **360 kg**
+- Panou termopan 6+16+6 securizat la 3×5m → **500+ kg**
+
+**Nicio echipă de muncitori nu poate manipula fizic 300–500 kg de sticlă fără:**
+- Risc major de spargere (sticla securizată se sparge la impact, nu se îndoaie)
+- Risc grav de accidentare (un panou de 300 kg care cade sau se rupe este pericol mortal)
+- Imposibilitatea de a poziționa cu precizia necesară (erori de 2–3 mm distrug etanșarea)
+
+**Soluția**: robotul cu ventuze cu vid — singurul echipament care permite manipularea sigură și precisă a panourilor de sticlă de mari dimensiuni.
+
+---
+
+## Cum funcționează robotul cu ventuze cu vid pentru sticlă
+
+### Principiul de funcționare
+
+Ventuzele cu vid creează o zonă de presiune negativă (vid parțial) pe suprafața sticlei. Forța de aderență rezultată este proporțională cu suprafața ventuzei și cu nivelul de vid:
+
+**Formula simplificată:** F = P × A
+
+Unde F = forța de prindere (kg), P = diferența de presiune față de atmosferă (bar), A = suprafața ventuzei (cm²).
+
+O ventuză industrială de 200mm diametru la 0,85 bar vid generează o forță de prindere de **~270 kg**. Sistemele cu ventuze multiple ajung la **1.400 kg capacitate totală**.
+
+### Sistemul TGT RoboCrane — echipamentul pe care îl folosim
+
+**TGT RoboCrane 1400** este sistemul de referință european pentru montaj sticlă agabarită:
+
+- **Capacitate maximă:** 1.400 kg per panou
+- **Înălțime de lucru:** până la 10 m
+- **Acoperire laterală:** până la 7,5 m
+- **Precizie poziționare:** ±1 mm prin telecomandă
+- **Mișcări disponibile:** rotație 360°, basculare față-spate, deplasare laterală, telescopare
+- **Deplasare:** senile — poate circula pe orice teren, inclusiv nisip, pietriș, scări mici
+- **Control:** telecomandă wireless cu sistem anti-suprasarcină și oprire de urgență
+
+### Sistemul de vid dublu — siguranță certificată
+
+Robotul folosește **2 circuite de vid independente** conform EN 13155:
+- Dacă unul din circuite cedează, celălalt menține panoului suspendat
+- Alarmă sonoră și vizuală la scăderea presiunii sub prag de siguranță
+- Timp de menținere vid fără alimentare electrică: **minimum 15 minute** (acumulatori)
+
+---
+
+## Pașii unui montaj profesional de sticlă agabarită
+
+### Etapa 1 — Evaluarea șantierului (ziua precedentă)
+
+Verificăm: accesul camionului cu sticla, spațiul de manevră pentru robotul pe senile, înălțimea liberă la tavan (dacă e interior), structura de prindere a sticlei (pregătită și verificată).
+
+### Etapa 2 — Transportul specializat
+
+Panourile agabaritice se transportă **vertical**, în rastele speciale cu separatoare din burete. Camionul dedic transportului sticlei mari are podea coborâtă și sisteme de blocare a rastelelor.
+
+Descărcarea: cu macaraua camionului sau cu robotul — panourile nu aterizează niciodată orizontal (risc de spargere).
+
+### Etapa 3 — Pregătirea robotului
+
+- Calibrarea ventuzelor pe tipul specific de sticlă
+- Testul de vid la 110% din greutatea panoului
+- Poziționarea robotului la distanța de lucru optimă
+
+### Etapa 4 — Prinderea panoului
+
+Robotul se apropie de panoul vertical din rastel, ventuzele aderă la suprafață, sistemul de vid se activează. Confirmarea prinderii: indicator digital afișează forța de aderență în timp real.
+
+### Etapa 5 — Ridicarea și poziționarea
+
+Operatorul cu telecomanda ridică panoului, îl roteaze dacă e necesar (ex: panou vertical → orizontal pentru luminatoare), îl deplasează lateral și îl poziționează cu precizie milimetrică în dreptul structurii de prindere.
+
+**Timp mediu de poziționare** per panou 300×400 cm: **8–15 minute** cu robot vs **imposibil** manual.
+
+### Etapa 6 — Fixarea definitivă
+
+Odată panou pozițional corect, echipa fixează elementele de prindere (bolțuri spider, profil aluminiu, silicon structural). Robotul menține panoului susținut până la întărirea silicone (minimum 30 minute).
+
+---
+
+## Când este obligatoriu echipamentul robotizat?
+
+| Criteriu | Echipă manuală | Robot ventuze |
+|---|---|---|
+| Panou < 60 kg | ✅ Posibil | Opțional |
+| Panou 60–150 kg | ⚠️ Cu dispozitive auxiliare | Recomandat |
+| Panou 150–400 kg | ❌ Imposibil sigur | **Obligatoriu** |
+| Panou > 400 kg | ❌ Interzis | **Obligatoriu** |
+| Montaj la înălțime > 4m | ⚠️ Limitat | **Obligatoriu** |
+| Spațiu îngust < 1,5 m | ❌ Periculos | ✅ Senile înguste |
+| Precizie necesară < 2 mm | ❌ Imposibil | ✅ ±1mm |
+
+---
+
+## Ce se întâmplă dacă se încearcă montajul manual al sticlei grele?
+
+**Scenarii frecvente de accident pe șantierele din România:**
+
+- Panou „alunecat" din mâinile echipei → spargere completă (sticla securizată se farâmă instantaneu la impact)
+- Echipier prins sub panou căzut → fracturi, riscuri fatale
+- Panou montat cu eroare de 5mm → sigiliu defect, infiltrații de apă în 6 luni, reclamație
+- Panou nefixat corect în spider fitting → căzut după câteva zile de la montaj
+
+**Costul unui panou de 3×4 m care se sparge la montaj:** 800–2.000 EUR pentru sticla + reluarea întregului proces de producție (4–6 săptămâni).
+
+---
+
+## Prețuri orientative montaj specializat sticlă agabarită — 2026
+
+> ⚠️ **Notă importantă:** Prețurile sunt orientative. Se pot modifica în funcție de complexitatea șantierului, distanță și disponibilitatea echipamentului. Solicitați ofertă actualizată.
+
+| Serviciu | Estimare |
+|---|---|
+| Mobilizare robot + echipă (București/Ilfov) | 600–1.200 EUR |
+| Montaj per panou < 200 kg | 250–450 EUR |
+| Montaj per panou 200–600 kg | 450–800 EUR |
+| Montaj per panou > 600 kg | 800–1.500 EUR |
+| Deplasare în afara Bucureștiului (per km) | 1,5–2,5 EUR/km |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+
+      en: `## Why large glass cannot be installed manually
+
+A 3×4 m tempered glass panel at 12 mm thickness weighs **360 kg**. Manual handling without specialised equipment risks breakage and serious accidents. The vacuum cup robot allows millimetre-precise positioning of panels up to 1,400 kg.
+
+---
+
+## How the vacuum cup robot works
+
+Vacuum cups create negative pressure on the glass surface. An industrial 200mm cup at 0.85 bar generates **~270 kg holding force**. Multi-cup systems reach **1,400 kg total capacity**.
+
+### TGT RoboCrane 1400 — our equipment
+
+- Maximum capacity: **1,400 kg** per panel
+- Working height: up to **10 m**
+- Lateral range: up to **7.5 m**
+- Positioning precision: **±1 mm** by remote control
+- Movements: 360° rotation, fore/aft tilt, lateral movement, telescoping
+- Mobility: tracks — works on any terrain including gravel, sand, small steps
+- Double vacuum circuit per EN 13155 — independent backup if one circuit fails
+
+---
+
+## When is robotic equipment mandatory?
+
+| Criterion | Manual team | Vacuum robot |
+|---|---|---|
+| Panel < 60 kg | ✅ Possible | Optional |
+| Panel 150–400 kg | ❌ Not safely possible | **Mandatory** |
+| Panel > 400 kg | ❌ Prohibited | **Mandatory** |
+| Height > 4m | ⚠️ Limited | **Mandatory** |
+| Precision required < 2 mm | ❌ Not achievable | ✅ ±1mm |
+
+---
+
+## Indicative prices for specialised glass installation — 2026
+
+> ⚠️ **Important note:** All prices are indicative and subject to change. Always request an updated quote.
+
+| Service | Estimate |
+|---|---|
+| Robot + team mobilisation (Bucharest/Ilfov) | 600–1,200 EUR |
+| Installation per panel < 200 kg | 250–450 EUR |
+| Installation per panel 200–600 kg | 450–800 EUR |
+| Installation per panel > 600 kg | 800–1,500 EUR |
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+
+      de: `## Warum Großglas nicht manuell montiert werden kann
+
+Eine 3×4 m ESG-Scheibe mit 12 mm Dicke wiegt **360 kg**. Manuelle Handhabung ohne Spezialausrüstung riskiert Bruch und schwere Unfälle. Der Vakuum-Saugnapf-Roboter ermöglicht millimetergenaue Positionierung von Scheiben bis 1.400 kg.
+
+---
+
+## TGT RoboCrane 1400 — unsere Ausrüstung
+
+- Maximale Kapazität: **1.400 kg** pro Scheibe
+- Arbeitshöhe: bis zu **10 m**
+- Seitliche Reichweite: bis zu **7,5 m**
+- Positioniergenauigkeit: **±1 mm** per Fernbedienung
+- Doppletes Vakuumsystem nach EN 13155
+
+---
+
+## Wann ist Roboterausrüstung Pflicht?
+
+| Kriterium | Manuelle Montage | Vakuumroboter |
+|---|---|---|
+| Scheibe < 60 kg | ✅ Möglich | Optional |
+| Scheibe 150–400 kg | ❌ Nicht sicher möglich | **Pflicht** |
+| Scheibe > 400 kg | ❌ Verboten | **Pflicht** |
+| Höhe > 4m | ⚠️ Begrenzt | **Pflicht** |
+
+---
+
+## Richtpreise Spezialmontage — 2026
+
+> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+
+| Leistung | Schätzung |
+|---|---|
+| Roboter + Team Mobilisierung (Bukarest) | 600–1.200 EUR |
+| Montage pro Scheibe < 200 kg | 250–450 EUR |
+| Montage pro Scheibe 200–600 kg | 450–800 EUR |
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**`,
+
+      fr: `## Pourquoi le grand verre ne peut pas être posé manuellement
+
+Un panneau ESG 3×4 m de 12 mm pèse **360 kg**. La manutention manuelle sans équipement spécialisé risque la casse et de graves accidents. Le robot à ventouses permet un positionnement au millimètre près de panneaux jusqu'à 1.400 kg.
+
+---
+
+## TGT RoboCrane 1400 — notre équipement
+
+- Capacité maximale : **1.400 kg** par panneau
+- Hauteur de travail : jusqu'à **10 m**
+- Portée latérale : jusqu'à **7,5 m**
+- Précision de positionnement : **±1 mm** par télécommande
+- Double circuit de vide selon EN 13155
+
+---
+
+## Quand l'équipement robotisé est-il obligatoire ?
+
+| Critère | Équipe manuelle | Robot ventouses |
+|---|---|---|
+| Panneau < 60 kg | ✅ Possible | Optionnel |
+| Panneau 150–400 kg | ❌ Impossible sûrement | **Obligatoire** |
+| Panneau > 400 kg | ❌ Interdit | **Obligatoire** |
+| Hauteur > 4m | ⚠️ Limité | **Obligatoire** |
+
+---
+
+## Prix indicatifs pose spécialisée — 2026
+
+> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+
+| Prestation | Estimation |
+|---|---|
+| Mobilisation robot + équipe (Bucarest) | 600–1.200 EUR |
+| Pose par panneau < 200 kg | 250–450 EUR |
+| Pose par panneau 200–600 kg | 450–800 EUR |
+
+**WhatsApp :** +40 752 443 435 | **L–V 10–18**`,
+
+      es: `## Por qué el vidrio grande no se puede instalar manualmente
+
+Un panel ESG de 3×4 m y 12 mm de grosor pesa **360 kg**. La manipulación manual sin equipo especializado arriesga la rotura y accidentes graves. El robot de ventosas permite el posicionamiento milimétrico de paneles de hasta 1.400 kg.
+
+---
+
+## TGT RoboCrane 1400 — nuestro equipo
+
+- Capacidad máxima: **1.400 kg** por panel
+- Altura de trabajo: hasta **10 m**
+- Alcance lateral: hasta **7,5 m**
+- Precisión de posicionamiento: **±1 mm** por control remoto
+- Doble circuito de vacío según EN 13155
+
+---
+
+## ¿Cuándo es obligatorio el equipo robotizado?
+
+| Criterio | Equipo manual | Robot ventosas |
+|---|---|---|
+| Panel < 60 kg | ✅ Posible | Opcional |
+| Panel 150–400 kg | ❌ No es posible con seguridad | **Obligatorio** |
+| Panel > 400 kg | ❌ Prohibido | **Obligatorio** |
+
+---
+
+## Precios orientativos instalación especializada — 2026
+
+> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+
+| Servicio | Estimación |
+|---|---|
+| Movilización robot + equipo (Bucarest) | 600–1.200 EUR |
+| Instalación por panel < 200 kg | 250–450 EUR |
+| Instalación por panel 200–600 kg | 450–800 EUR |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+
+      it: `## Perché il vetro grande non può essere installato manualmente
+
+Un pannello ESG 3×4 m da 12 mm pesa **360 kg**. La movimentazione manuale senza attrezzatura specializzata rischia la rottura e gravi incidenti. Il robot con ventose permette il posizionamento millimetrico di pannelli fino a 1.400 kg.
+
+---
+
+## TGT RoboCrane 1400 — la nostra attrezzatura
+
+- Capacità massima: **1.400 kg** per pannello
+- Altezza di lavoro: fino a **10 m**
+- Portata laterale: fino a **7,5 m**
+- Precisione di posizionamento: **±1 mm** per telecomando
+- Doppio circuito di vuoto secondo EN 13155
+
+---
+
+## Quando è obbligatoria l'attrezzatura robotizzata?
+
+| Criterio | Squadra manuale | Robot ventose |
+|---|---|---|
+| Pannello < 60 kg | ✅ Possibile | Opzionale |
+| Pannello 150–400 kg | ❌ Non sicuro | **Obbligatorio** |
+| Pannello > 400 kg | ❌ Vietato | **Obbligatorio** |
+
+---
+
+## Prezzi indicativi posa specializzata — 2026
+
+> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+
+| Servizio | Stima |
+|---|---|
+| Mobilizzazione robot + squadra (Bucarest) | 600–1.200 EUR |
+| Posa per pannello < 200 kg | 250–450 EUR |
+| Posa per pannello 200–600 kg | 450–800 EUR |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+    },
+  },
+
+  // ─── ARTICOL 19: Tâmplărie aluminiu pereți cortină lucrări București ─────
+  {
+    slugs: {
+      ro: 'tamplarie-aluminiu-pereti-cortina-fatade-sticla-lucrari-bucuresti',
+      en: 'aluminium-joinery-curtain-walls-glass-facades-projects-bucharest',
+      de: 'aluminiumtischlerarbeiten-vorhangfassaden-glasfassaden-projekte-bukarest',
+      fr: 'menuiserie-aluminium-murs-rideaux-facades-verre-projets-bucarest',
+      es: 'carpinteria-aluminio-muros-cortina-fachadas-vidrio-proyectos-bucarest',
+      it: 'infissi-alluminio-pareti-cortina-facciate-vetro-progetti-bucarest',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Lucrări București', en:'Bucharest Projects', de:'Bukarest Projekte', fr:'Projets Bucarest', es:'Proyectos Bucarest', it:'Progetti Bucarest' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-pereti-cortina-lucrari-bucuresti.avif',
+      en: '/blog/blog-pereti-cortina-lucrari-bucuresti.avif',
+      de: '/blog/blog-pereti-cortina-lucrari-bucuresti.avif',
+      fr: '/blog/blog-pereti-cortina-lucrari-bucuresti.avif',
+      es: '/blog/blog-pereti-cortina-lucrari-bucuresti.avif',
+      it: '/blog/blog-pereti-cortina-lucrari-bucuresti.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1020 0%,#1a2a40 60%,#2a4060 100%)',
+    imageLabel: 'Lucrări București 2025',
+    accentColor: '#1a3a5c',
+    title: {
+      ro: 'Tâmplărie aluminiu, pereți cortină și fațade din sticlă — exemple lucrări București 2025–2026',
+      en: 'Aluminium joinery, curtain walls and glass facades — project examples Bucharest 2025–2026',
+      de: 'Aluminiumtischlerarbeiten, Vorhangfassaden und Glasfassaden — Projektbeispiele Bukarest 2025–2026',
+      fr: 'Menuiserie aluminium, murs rideaux et façades en verre — exemples de projets Bucarest 2025–2026',
+      es: 'Carpintería aluminio, muros cortina y fachadas de vidrio — ejemplos de proyectos Bucarest 2025–2026',
+      it: 'Infissi alluminio, pareti cortina e facciate in vetro — esempi di progetti Bucarest 2025–2026',
+    },
+    excerpt: {
+      ro: 'Portofoliu Neofort BIZ: tâmplărie aluminiu Alumil și Reynaers, pereți cortină și fațade ventilate livrate și montate în București și Ilfov în 2025–2026. Blocuri rezidențiale, clădiri de birouri, spații comerciale și vile — sisteme, prețuri orientative și cum funcționează procesul de la proiect la recepție.',
+      en: 'Neofort BIZ portfolio: Alumil and Reynaers aluminium joinery, curtain walls and ventilated facades delivered and installed in Bucharest and Ilfov in 2025–2026. Residential blocks, office buildings, commercial spaces and villas — systems, indicative prices and how the process works from project to handover.',
+      de: 'Neofort BIZ Portfolio: Alumil und Reynaers Aluminiumtischlerarbeiten, Vorhangfassaden und hinterlüftete Fassaden in Bukarest und Ilfov geliefert und montiert 2025–2026. Wohnblöcke, Bürogebäude, Gewerberäume und Villen.',
+      fr: "Portefeuille Neofort BIZ : menuiserie aluminium Alumil et Reynaers, murs rideaux et façades ventilées livrés et posés à Bucarest et Ilfov en 2025–2026. Immeubles résidentiels, bâtiments de bureaux, espaces commerciaux et villas.",
+      es: 'Portafolio Neofort BIZ: carpintería aluminio Alumil y Reynaers, muros cortina y fachadas ventiladas entregados e instalados en Bucarest e Ilfov en 2025–2026. Bloques residenciales, edificios de oficinas, espacios comerciales y villas.',
+      it: "Portfolio Neofort BIZ: infissi alluminio Alumil e Reynaers, pareti cortina e facciate ventilate consegnati e installati a Bucarest e Ilfov nel 2025–2026. Condomini, edifici per uffici, spazi commerciali e ville.",
+    },
+    metaDesc: {
+      ro: 'Lucrări tâmplărie aluminiu pereți cortină fațade sticlă București 2025-2026: bloc Delea Veche Reynaers, birouri Alumil CW50, fațade ventilate aluminiu. Neofort BIZ — furnizor și montaj, ofertă gratuită.',
+      en: 'Aluminium joinery curtain walls glass facades projects Bucharest 2025-2026: Delea Veche block Reynaers, offices Alumil CW50, ventilated aluminium facades. Neofort BIZ — supplier and installation, free quote.',
+      de: 'Aluminiumfenster Vorhangfassaden Glasfassaden Projekte Bukarest 2025-2026: Delea Veche Block Reynaers, Büros Alumil CW50, hinterlüftete Aluminiumfassaden. Neofort BIZ — Händler und Montage, kostenloses Angebot.',
+      fr: "Menuiserie aluminium murs rideaux façades verre projets Bucarest 2025-2026 : immeuble Delea Veche Reynaers, bureaux Alumil CW50, façades ventilées aluminium. Neofort BIZ — fournisseur et pose, devis gratuit.",
+      es: 'Carpintería aluminio muros cortina fachadas vidrio proyectos Bucarest 2025-2026: bloque Delea Veche Reynaers, oficinas Alumil CW50, fachadas ventiladas aluminio. Neofort BIZ — proveedor e instalación, presupuesto gratuito.',
+      it: 'Infissi alluminio pareti cortina facciate vetro progetti Bucarest 2025-2026: condominio Delea Veche Reynaers, uffici Alumil CW50, facciate ventilate alluminio. Neofort BIZ — fornitore e posa, preventivo gratuito.',
+    },
+    keywords: 'pereti cortina lucrari Bucuresti, tamplarie aluminiu fatade sticla exemple, fatade ventilate aluminiu Bucuresti, perete cortina Alumil Bucuresti pret, Reynaers bloc rezidential Bucuresti, lucrari tamplarie aluminiu sector 2 3, fatada sticla cladire birouri Bucuresti',
+    content: {
+      ro: `## Portofoliu Neofort BIZ — lucrări finalizate București 2025–2026
+
+Neofort BIZ este furnizor și coordonator de montaj pentru tâmplărie aluminiu, pereți cortină și fațade din sticlă în București și Ilfov. Fiecare proiect prezentat mai jos a fost livrat integral de echipa noastră, de la măsurători și documentație până la montaj și recepție.
+
+---
+
+## Lucrare 1 — Bloc rezidențial nou, Delea Veche, Sector 2
+
+**Sistem:** Reynaers ConceptSystem 77 | **Suprafață totală:** ~800 mp | **An finalizare:** 2025
+
+Delea Veche este una dintre zonele cu cea mai intensă activitate de construcție rezidențială din sectorul 2 — cartier în transformare rapidă, cu cumpărători tineri și așteptări ridicate privind finisajele.
+
+**Ce am livrat:**
+- Ferestre oscilo-batante Reynaers CS 77 la toate apartamentele (geam dublu Low-E 4+16+4 argon)
+- Uși de balcon cu sistem liftant-glisant Reynaers ConceptPatio
+- Ușă de intrare în bloc Reynaers CS 77 cu controler acces și geam securizat
+- Uși comune pe casa scărilor — Reynaers cu barieră termică
+
+**Culoare:** RAL 7016 antracit mat pe exterior, alb interior
+
+**Provocarea tehnică:** bloc P+8, ferestrele etajelor superioare au necesitat transport cu platformă elevatoare. Coordonare completă cu antreprenorul general pentru livrare pe tranșe per etaj.
+
+---
+
+## Lucrare 2 — Clădire de birouri, zona Floreasca–Barbu Văcărescu
+
+**Sistem:** Alumil CW50 + Alumil Smartia S67 | **Suprafață fațadă:** ~1.200 mp | **An finalizare:** 2025
+
+Zona Floreasca–Barbu Văcărescu este nucleul pieței de birouri de clasă A din București. Proiect cu cerințe de certificare BREEAM Very Good.
+
+**Ce am livrat:**
+- Perete cortină standard Alumil CW50 pe fațada principală sud și vest
+- Geam dublu Low-E reflexiv 6+16+6 pentru control solar (g = 0,27)
+- Ferestre oscilo-batante Alumil Smartia S67 pe fațadele nord și est
+- Uși de acces principale — Alumil cu feronerie antiefracție RC2 și control acces integrat
+- Jaluzele Raffstore 80mm integrate în caseta peretelui cortină (fațada sud)
+
+**Uw ansamblu fațadă:** 1,3 W/m²K — conform BREEAM Very Good
+
+---
+
+## Lucrare 3 — Fațadă ventilată aluminiu, clădire mixtă, sector 3
+
+**Sistem:** Alumil + plăci ACM (Alucobond) | **Suprafață:** ~600 mp | **An finalizare:** 2024
+
+Fațadele ventilate combină structura portantă de aluminiu cu un strat exterior din plăci ACM (aluminiu compozit), lemn termotratat sau piatră. Spațiul de aer circulant între izolație și placaj elimină condensul și asigură drenaj natural.
+
+**Ce am livrat:**
+- Structură portantă din profile aluminiu extrudat Alumil
+- Izolație termică vată bazaltică 15 cm prinsă pe structura metalică
+- Placaj exterior plăci Alucobond 4mm cu finisaj argintiu periat
+- Tâmplărie de completare Alumil Smartia S67 în deschiderile existente
+- Trotuar perimetral și casetoane de colț din aluminiu
+
+**Diferența față de tencuiala clasică:** fațada ventilată elimină punțile termice, prelungește durata de viață a izolației și elimină efectul de „clădire care respiră" — condensul nu se mai acumulează în masa peretelui.
+
+---
+
+## Ce tipuri de proiecte preluăm în București și Ilfov
+
+### Clădiri rezidențiale noi (blocuri, ansambluri)
+De la 20 la 500+ apartamente. Coordonare completă cu dezvoltatorul și antreprenorul general. Livrare pe tranșe per etaj sau per scară. Documentație completă CE pentru cartea construcției.
+
+### Clădiri comerciale și de birouri
+Pereți cortină CW50/CW60, geam reflexiv sau Low-E, jaluzele integrate, uși de acces automate. Suport pentru certificări BREEAM/LEED.
+
+### Fațade ventilate
+Structură aluminiu + izolație + placaj exterior (ACM, HPL, piatră, lemn termotratat). Proiectare inclusă, calcule termice și detalii de execuție.
+
+### Spații comerciale și retail
+Vitrine showroom, uși glisante automate, pereți de sticlă interiori, compartimentări. Inclusiv sticlă agabarită montată cu echipament robot.
+
+### Vile și case individuale premium
+Sisteme glisante liftant, ferestre panoramice, pergole cu tâmplărie, fațade parțiale sticlă-aluminiu.
+
+---
+
+## Prețuri orientative lucrări București — 2026
+
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Costurile aluminiului și manoperei se pot modifica. Solicitați întotdeauna ofertă actualizată.
+
+| Tip lucrare | Estimare per mp |
+|---|---|
+| Tâmplărie aluminiu Alumil Smartia S67 | 250–400 EUR/mp |
+| Tâmplărie aluminiu Reynaers CS 77 | 400–600 EUR/mp |
+| Perete cortină Alumil CW50 | 150–250 EUR/mp |
+| Perete cortină semi-structural | 250–400 EUR/mp |
+| Fațadă ventilată aluminiu + ACM | 180–320 EUR/mp |
+| Perete cortină structural | 400–600 EUR/mp |
+
+*Prețurile includ materiale, montaj și documentație CE. Nu includ transport pe distanțe > 50 km sau lucrări de pregătire structurală.*
+
+---
+
+## Cum obții o ofertă pentru proiectul tău
+
+**Pas 1:** Trimite-ne planurile sau fotografiile fațadei/imobilului pe WhatsApp sau email.
+
+**Pas 2:** Echipa tehnică Neofort BIZ evaluează proiectul și solicită informații suplimentare dacă e necesar.
+
+**Pas 3:** Primești oferta detaliată cu specificații sistem, prețuri per element și total estimat — în **48–72 ore**.
+
+**WhatsApp Proiecte:** +40 752 443 439 | **L–V 10–18**`,
+
+      en: `## Neofort BIZ Portfolio — completed projects Bucharest 2025–2026
+
+---
+
+## Project 1 — New residential block, Delea Veche, Sector 2
+
+**System:** Reynaers ConceptSystem 77 | **Total area:** ~800 m² | **Completed:** 2025
+
+Delivered: Reynaers CS 77 tilt-and-turn windows for all apartments (double Low-E 4+16+4 argon), Reynaers ConceptPatio lift-and-slide balcony doors, block entrance door with access control. Colour: RAL 7016 anthracite exterior, white interior.
+
+---
+
+## Project 2 — Office building, Floreasca–Barbu Văcărescu area
+
+**System:** Alumil CW50 + Alumil Smartia S67 | **Facade area:** ~1,200 m² | **Completed:** 2025
+
+Delivered: Alumil CW50 standard curtain wall on south and west facades, reflective Low-E double glazing 6+16+6 (g = 0.27), Alumil Smartia S67 windows on north and east facades. BREEAM Very Good Uw: 1.3 W/m²K.
+
+---
+
+## Project 3 — Ventilated aluminium facade, mixed-use building, Sector 3
+
+**System:** Alumil + ACM panels (Alucobond) | **Area:** ~600 m² | **Completed:** 2024
+
+Delivered: Alumil extruded aluminium load-bearing structure, 15 cm basalt wool thermal insulation, Alucobond 4mm exterior cladding (brushed silver), Alumil Smartia S67 complementary joinery.
+
+---
+
+## Indicative prices for Bucharest projects — 2026
+
+> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+
+| Project type | Estimate per m² |
+|---|---|
+| Alumil Smartia S67 aluminium joinery | 250–400 EUR/m² |
+| Reynaers CS 77 aluminium joinery | 400–600 EUR/m² |
+| Alumil CW50 curtain wall | 150–250 EUR/m² |
+| Semi-structural curtain wall | 250–400 EUR/m² |
+| Ventilated facade aluminium + ACM | 180–320 EUR/m² |
+| Structural curtain wall | 400–600 EUR/m² |
+
+**WhatsApp Projects:** +40 752 443 439 | **Mon–Fri 10–18**`,
+
+      de: `## Neofort BIZ Portfolio — abgeschlossene Projekte Bukarest 2025–2026
+
+---
+
+## Projekt 1 — Neuer Wohnblock, Delea Veche, Sektor 2
+**System:** Reynaers CS 77 | **Gesamtfläche:** ~800 m² | **Fertiggestellt:** 2025
+
+Geliefert: Reynaers CS 77 Dreh-Kipp-Fenster, ConceptPatio Hebeschiebetüren, Hauseingangstür mit Zutrittskontrolle. RAL 7016 Anthrazit außen, weiß innen.
+
+---
+
+## Projekt 2 — Bürogebäude, Floreasca–Barbu Văcărescu
+**System:** Alumil CW50 + Smartia S67 | **Fassadenfläche:** ~1.200 m² | **Fertiggestellt:** 2025
+
+Alumil CW50 Vorhangfassade, Reflexions-Isolierglas 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
+
+---
+
+## Projekt 3 — Hinterlüftete Aluminiumfassade, Sektor 3
+**System:** Alumil + ACM-Platten | **Fläche:** ~600 m² | **Fertiggestellt:** 2024
+
+Alumil Tragstruktur, 15 cm Basaltwolle, Alucobond 4mm Außenverkleidung.
+
+---
+
+## Richtpreise Bukarest Projekte — 2026
+
+> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+
+| Projekttyp | Schätzung pro m² |
+|---|---|
+| Alumil Smartia S67 | 250–400 EUR/m² |
+| Reynaers CS 77 | 400–600 EUR/m² |
+| Alumil CW50 Vorhangfassade | 150–250 EUR/m² |
+| Hinterlüftete Fassade Aluminium + ACM | 180–320 EUR/m² |
+
+**WhatsApp Projekte:** +40 752 443 439 | **Mo–Fr 10–18**`,
+
+      fr: `## Portefeuille Neofort BIZ — projets achevés Bucarest 2025–2026
+
+---
+
+## Projet 1 — Immeuble résidentiel neuf, Delea Veche, Secteur 2
+**Système :** Reynaers CS 77 | **Surface totale :** ~800 m² | **Achevé :** 2025
+
+Livré : fenêtres oscillo-battantes Reynaers CS 77 pour tous les appartements (double Low-E 4+16+4 argon), portes levant-coulissantes ConceptPatio, porte d'entrée avec contrôle d'accès. RAL 7016 anthracite extérieur.
+
+---
+
+## Projet 2 — Bâtiment de bureaux, zone Floreasca–Barbu Văcărescu
+**Système :** Alumil CW50 + Smartia S67 | **Surface façade :** ~1.200 m² | **Achevé :** 2025
+
+Mur rideau Alumil CW50, vitrage réfléchissant Low-E 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
+
+---
+
+## Projet 3 — Façade ventilée aluminium, bâtiment mixte, Secteur 3
+**Système :** Alumil + panneaux ACM | **Surface :** ~600 m² | **Achevé :** 2024
+
+Structure portante Alumil, isolation 15 cm laine de basalte, bardage Alucobond 4mm.
+
+---
+
+## Prix indicatifs projets Bucarest — 2026
+
+> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+
+| Type de projet | Estimation par m² |
+|---|---|
+| Alumil Smartia S67 | 250–400 EUR/m² |
+| Reynaers CS 77 | 400–600 EUR/m² |
+| Mur rideau Alumil CW50 | 150–250 EUR/m² |
+| Façade ventilée aluminium + ACM | 180–320 EUR/m² |
+
+**WhatsApp Projets :** +40 752 443 439 | **L–V 10–18**`,
+
+      es: `## Portafolio Neofort BIZ — proyectos completados Bucarest 2025–2026
+
+---
+
+## Proyecto 1 — Bloque residencial nuevo, Delea Veche, Sector 2
+**Sistema:** Reynaers CS 77 | **Superficie total:** ~800 m² | **Completado:** 2025
+
+Entregado: ventanas oscilobatientes Reynaers CS 77 para todos los apartamentos (doble Low-E 4+16+4 argón), puertas elevadoras-correderas ConceptPatio, puerta de entrada con control de acceso. RAL 7016 antracita exterior.
+
+---
+
+## Proyecto 2 — Edificio de oficinas, zona Floreasca–Barbu Văcărescu
+**Sistema:** Alumil CW50 + Smartia S67 | **Superficie fachada:** ~1.200 m² | **Completado:** 2025
+
+Muro cortina Alumil CW50, vidrio reflectante Low-E 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
+
+---
+
+## Precios orientativos proyectos Bucarest — 2026
+
+> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+
+| Tipo de proyecto | Estimación por m² |
+|---|---|
+| Alumil Smartia S67 | 250–400 EUR/m² |
+| Reynaers CS 77 | 400–600 EUR/m² |
+| Muro cortina Alumil CW50 | 150–250 EUR/m² |
+| Fachada ventilada aluminio + ACM | 180–320 EUR/m² |
+
+**WhatsApp Proyectos:** +40 752 443 439 | **L–V 10–18**`,
+
+      it: `## Portfolio Neofort BIZ — progetti completati Bucarest 2025–2026
+
+---
+
+## Progetto 1 — Nuovo condominio, Delea Veche, Settore 2
+**Sistema:** Reynaers CS 77 | **Superficie totale:** ~800 m² | **Completato:** 2025
+
+Consegnato: finestre ribaltabili Reynaers CS 77 per tutti gli appartamenti (doppio Low-E 4+16+4 argon), porte alzanti-scorrevoli ConceptPatio, porta di ingresso con controllo accessi. RAL 7016 antracite esterno.
+
+---
+
+## Progetto 2 — Edificio per uffici, zona Floreasca–Barbu Văcărescu
+**Sistema:** Alumil CW50 + Smartia S67 | **Superficie facciata:** ~1.200 m² | **Completato:** 2025
+
+Parete cortina Alumil CW50, vetro riflettente Low-E 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
+
+---
+
+## Prezzi indicativi progetti Bucarest — 2026
+
+> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+
+| Tipo di progetto | Stima per m² |
+|---|---|
+| Alumil Smartia S67 | 250–400 EUR/m² |
+| Reynaers CS 77 | 400–600 EUR/m² |
+| Parete cortina Alumil CW50 | 150–250 EUR/m² |
+| Facciata ventilata alluminio + ACM | 180–320 EUR/m² |
+
+**WhatsApp Progetti:** +40 752 443 439 | **L–V 10–18**`,
+    },
+  },
+
+
 ];
 
 // Găsește articol după slug în orice limbă
