@@ -5688,6 +5688,1757 @@ Stock locale Alumil — profili disponibili in 3–5 giorni vs 6–8 settimane p
   },
 
 
+  // ─── ARTICOL 12: Înlocuire ferestre renovare apartament ─────────────────
+  {
+    slugs: {
+      ro: 'inlocuire-ferestre-vechi-renovare-apartament-bucuresti',
+      en: 'replacing-old-windows-apartment-renovation-bucharest',
+      de: 'alte-fenster-ersetzen-wohnungsrenovierung-bukarest',
+      fr: 'remplacement-fenetres-renovation-appartement-bucarest',
+      es: 'sustitucion-ventanas-renovacion-apartamento-bucarest',
+      it: 'sostituzione-finestre-ristrutturazione-appartamento-bucarest',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Renovare & Ghid', en:'Renovation & Guide', de:'Renovierung & Leitfaden', fr:'Rénovation & Guide', es:'Renovación & Guía', it:'Ristrutturazione & Guida' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-inlocuire-ferestre-renovare.avif',
+      en: '/blog/blog-inlocuire-ferestre-renovare.avif',
+      de: '/blog/blog-inlocuire-ferestre-renovare.avif',
+      fr: '/blog/blog-inlocuire-ferestre-renovare.avif',
+      es: '/blog/blog-inlocuire-ferestre-renovare.avif',
+      it: '/blog/blog-inlocuire-ferestre-renovare.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a2a1a 0%,#2a4a2a 60%,#4a7c59 100%)',
+    imageLabel: 'Renovare 2026',
+    accentColor: '#4a7c59',
+    title: {
+      ro: 'Înlocuire ferestre vechi cu termopane Salamander — ghid complet renovare apartament București 2026',
+      en: 'Replacing old windows with Salamander double glazing — complete apartment renovation guide Bucharest 2026',
+      de: 'Alte Fenster durch Salamander ersetzen — Komplett-Renovierungsleitfaden Wohnung Bukarest 2026',
+      fr: 'Remplacement fenêtres anciennes Salamander — guide complet rénovation appartement Bucarest 2026',
+      es: 'Sustitución ventanas antiguas Salamander — guía completa renovación apartamento Bucarest 2026',
+      it: 'Sostituzione finestre vecchie Salamander — guida completa ristrutturazione appartamento Bucarest 2026',
+    },
+    excerpt: {
+      ro: 'Înlocuirea ferestrelor vechi este una dintre cele mai rentabile investiții într-un apartament din București. Economii de 35–50% la încălzire, eliminarea condensului și zgomotului stradal — ghid complet cu prețuri, pași de montaj și tot ce trebuie să știi înainte de a comanda.',
+      en: 'Replacing old windows is one of the most cost-effective investments in a Bucharest apartment. 35–50% heating savings, eliminating condensation and street noise — complete guide with prices, installation steps and everything you need to know.',
+      de: 'Der Austausch alter Fenster ist eine der rentabelsten Investitionen in einer Bukarester Wohnung. 35–50% Heizungseinsparungen, Beseitigung von Kondensation und Straßenlärm — Komplettleitfaden mit Preisen.',
+      fr: "Le remplacement des fenêtres est l'un des investissements les plus rentables dans un appartement à Bucarest. Économies de chauffage 35–50%, élimination condensation et bruit — guide complet.",
+      es: 'La sustitución de ventanas es una de las inversiones más rentables en un apartamento de Bucarest. Ahorro calefacción 35–50%, eliminación condensación y ruido — guía completa.',
+      it: 'La sostituzione delle finestre è uno degli investimenti più redditizi in un appartamento di Bucarest. Risparmio riscaldamento 35–50%, eliminazione condensa e rumore — guida completa.',
+    },
+    metaDesc: {
+      ro: 'Ghid înlocuire ferestre vechi București 2026: când înlocuiești, ce profil Salamander alegi, cât costă per apartament, cât durează montajul. Neofort BIZ — măsurători gratuite, răspuns 48h.',
+      en: 'Guide replacing old windows Bucharest 2026: when to replace, Salamander profile choice, cost per apartment, installation time. Neofort BIZ — free measurements, 48h response.',
+      de: 'Leitfaden Fensteraustausch Bukarest 2026: wann tauschen, Salamander-Profil, Kosten pro Wohnung, Montagezeit. Neofort BIZ — kostenlose Vermessung, 48h Antwort.',
+      fr: 'Guide remplacement fenêtres Bucarest 2026 : quand remplacer, profil Salamander, coût par appartement, durée montage. Neofort BIZ — métrés gratuits, réponse 48h.',
+      es: 'Guía sustitución ventanas Bucarest 2026: cuándo sustituir, perfil Salamander, coste por apartamento, tiempo instalación. Neofort BIZ — mediciones gratuitas, respuesta 48h.',
+      it: 'Guida sostituzione finestre Bucarest 2026: quando sostituire, profilo Salamander, costo per appartamento, tempi installazione. Neofort BIZ — rilievi gratuiti, risposta 48h.',
+    },
+    keywords: 'inlocuire ferestre vechi Bucuresti, renovare apartament ferestre, montaj termopane Bucuresti, inlocuire geamuri bloc, cat costa inlocuire ferestre apartament, ferestre noi apartament Bucuresti, schimbare termopane Bucuresti pret, montaj ferestre PVC Salamander Bucuresti',
+    content: {
+      ro: `## Când este momentul potrivit să înlocuiești ferestrele?
+
+Există 7 semnale clare că ferestrele au atins sfârșitul ciclului de viață și că renovarea este necesară:
+
+**1. Condens între foile de geam** — condensul intern între cele două foi indică că garnitura perimetrală s-a deteriorat. Geamul nu mai izolează. Nu se poate repara — se înlocuiește.
+
+**2. Curenți de aer la ferestre închise** — garniturile profilului s-au uzat. Poate fi remediat temporar prin reglaj de feronerie, dar pe profile de peste 15 ani înlocuirea e mai economică.
+
+**3. Facturi mari la energie iarna** — ferestrele vechi pot reprezenta 30–40% din pierderile termice. O fereastră veche cu Uw = 2,8 W/m²K față de una modernă cu Uw = 1,0 W/m²K înseamnă de aproape 3× mai multă căldură pierdută.
+
+**4. Zgomot stradal excesiv** — ferestrele vechi oferă 20–25 dB izolare fonică. Salamander modern oferă 38–47 dB.
+
+**5. Dificultate la deschidere/închidere** — feroneria uzată costă mai mult reparat repetat decât înlocuit.
+
+**6. Profile îngălbenite sau crăpate** — PVC-ul vechi fără UV-stabilizatori se degradează în 10–15 ani.
+
+**7. Renovare generală** — cel mai bun moment pentru ferestre noi este în paralel cu renovarea, când pereții sunt oricum goluți.
+
+---
+
+## Ce economii reale obții prin înlocuire?
+
+Pentru un apartament de 60 mp din București cu ferestre vechi:
+
+- Pierderi termice actuale prin ferestre: ~35% din totalul pierderilor
+- Cost mediu încălzire iarnă: 800–1.200 EUR/an
+- Reducere după BluEvolution 92 + geam Low-E + montaj nZEB: **65–75%**
+- **Economie anuală estimată: 280–500 EUR/an**
+- Recuperarea investiției: 6–10 ani
+- Durată de viață Salamander: 30–40 ani → 20–30 ani de economii nete
+
+---
+
+## Ce profil Salamander alegi pentru renovare?
+
+### GreenEvolution 76 — standard renovări
+
+Cel mai bun raport calitate-preț pentru înlocuirea ferestrelor la bloc. Performanță de 5× mai bună față de geam simplu vechi.
+
+- Uw = 0,73 W/m²K cu geam dublu Low-E
+- Izolare fonică: până la 42 dB
+- Adâncime: 76 mm — se potrivește în golurile existente fără modificări structurale
+- **Ideal pentru:** apartamente 2–4 camere, renovări cu buget echilibrat
+
+### BluEvolution 92 — standard ridicat
+
+- Uw = 0,70 W/m²K cu geam dublu Low-E, sau 0,55 W/m²K cu triplu
+- Izolare fonică: până la 47 dB — diferența față de bulevard se simte clar
+- Adâncime: 92 mm — poate necesita modificarea glafurilor interioare
+
+### BluEvolution 92 ALU — premium
+
+Aspectul aluminiului cu performanța PVC. Ideal dacă vrei culori RAL speciale — negru, antracit — fără îngrijorări de decolorare.
+
+---
+
+## Pașii complet pentru înlocuirea ferestrelor la apartament
+
+**Pasul 1 — Verifică regulamentul asociației de proprietari**
+La bloc pot exista restricții privind culoarea. Culoarea albă este obligatorie în unele blocuri ANL sau zone protejate.
+
+**Pasul 2 — Programează măsurătorile gratuite**
+Nu te baza pe dimensiunile din actele apartamentului — golurile reale diferă cu 10–30 mm pe fiecare latură față de proiect.
+
+**Pasul 3 — Alege configurația completă**
+La măsurători stabilim: profil, geam, culoare, tip deschidere, feronerie, glafuri.
+
+**Pasul 4 — Producție: 3–4 săptămâni**
+
+**Pasul 5 — Montajul propriu-zis**
+
+> ⚠️ **Notă:** Timpii de mai jos sunt orientativi și pot varia în funcție de complexitatea lucrării.
+
+| Tip apartament | Ferestre + uși | Durata montaj |
+|---|---|---|
+| Garsonieră | 2–3 | 4–6 ore (1 zi) |
+| 2 camere | 4–5 | 6–8 ore (1 zi) |
+| 3 camere | 6–8 | 1–1,5 zile |
+| 4 camere + terasă | 9–12 | 2 zile |
+
+**Pasul 6 — Curățenie și finisaje**
+Echipa noastră ridică tâmplăria veche, protejează pardoseala și lasă spațiul curat. Glafurile interioare se montează în aceeași zi cu ferestrele.
+
+---
+
+## Greșeli frecvente la înlocuirea ferestrelor — cum le eviți
+
+**Greșeala 1: Alegi după prețul cel mai mic**
+Diferența de 20–30% în preț între un profil no-name și Salamander echivalează cu 15–20 ani diferență în durabilitate și performanță. Pe 30 ani, cea mai ieftină ofertă devine cea mai scumpă.
+
+**Greșeala 2: Nu verifici feroneria inclusă**
+Unii furnizori includ feronerie de import fără marcă. Insistă pe feronerie Roto sau Siegenia — diferența de cost: 20–40 EUR per fereastră.
+
+**Greșeala 3: Montaj fără precadre**
+Montajul fără precadre Blaugelb Triotherm+ economisește 25–50 EUR/ml la montaj, dar generează punți termice care anulează 30–40% din performanța termică plătită.
+
+**Greșeala 4: Nu comanzi glafurile în același timp**
+Glafurile vechi nu se potrivesc la noile ferestre mai adânci. Comandate separat ulterior costă cu 40–60% mai mult decât comandate împreună.
+
+**Greșeala 5: Ignori tipul de geam**
+Geamul reprezintă 70% din suprafața ferestrei. Un profil premium cu geam standard pierde jumătate din performanță. Solicită întotdeauna geam Low-E cu argon.
+
+---
+
+## Prețuri orientative — înlocuire ferestre apartament 2026
+
+> ⚠️ **Notă importantă:** Prețurile de mai jos sunt orientative și reflectă condițiile de piață din martie 2026. Prețurile materialelor și manoperei sunt în continuă schimbare și pot crește sau scădea. Solicitați întotdeauna o ofertă actualizată.
+
+| Configurație | Garsonieră | 2 camere | 3 camere |
+|---|---|---|---|
+| GreenEvolution 76, geam dublu Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
+| BluEvolution 92, geam dublu Low-E | 2.400–3.600 EUR | 3.600–5.500 EUR | 5.200–8.000 EUR |
+| BluEvolution 92, geam triplu Low-E, montaj nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
+
+*Prețurile includ: profil Salamander, feronerie standard, geam Saint-Gobain, montaj și ridicarea tâmplăriei vechi. Glafurile interioare se calculează separat.*
+
+---
+
+## De ce Neofort BIZ pentru renovarea apartamentului tău
+
+**Măsurători gratuite** la adresa ta în 24–48 ore. **Producție proprie** — nu intermediem, nu subcontractăm. **Montaj certificat nZEB** cu precadre Blaugelb Triotherm+ incluse standard. **Ridicăm tâmplăria veche** fără costuri suplimentare.
+
+**WhatsApp:** +40 752 443 435 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+
+      en: `## When is the right time to replace your windows?
+
+7 clear signals that your windows need replacing:
+
+1. **Condensation between glass panes** — the thermal glass seal has failed. Cannot be repaired — must be replaced.
+2. **Draughts with windows closed** — seals have worn. Temporary fix possible, but replacement is more economical after 15+ years.
+3. **High energy bills in winter** — old windows can account for 30–40% of heat losses. Old Uw 2.8 W/m²K vs modern Uw 1.0 W/m²K = nearly 3× more heat lost.
+4. **Excessive street noise** — old windows: 20–25 dB. Modern Salamander: 38–47 dB.
+5. **Difficulty opening/closing** — repeated hardware repairs cost more than replacement.
+6. **Yellowed or cracked profiles** — old PVC without UV stabilisers degrades in 10–15 years.
+7. **General renovation** — best time for new windows is during renovation when walls are already exposed.
+
+---
+
+## Real savings from replacing windows
+
+For a 60 m² Bucharest apartment with old windows:
+- Heat losses through windows: ~35% of total
+- Heating cost reduction after BluEvolution 92 + Low-E + nZEB installation: **65–75%**
+- **Annual estimated saving: 280–500 EUR**
+- Payback period: 6–10 years
+
+---
+
+## Which Salamander profile for renovation?
+
+**GreenEvolution 76** — best value for standard renovations. Uw 0.73, up to 42 dB, 76 mm depth fits existing openings without structural changes.
+
+**BluEvolution 92** — high standard. Uw 0.70 (double Low-E) or 0.55 (triple). Up to 47 dB acoustic insulation.
+
+**BluEvolution 92 ALU** — premium aesthetics. Aluminium appearance with PVC performance. Any RAL colour without yellowing risk.
+
+---
+
+## Common mistakes to avoid
+
+1. Choosing by lowest price — cheap profiles cost more over 30 years
+2. Not checking hardware brand — insist on Roto or Siegenia
+3. Installation without Blaugelb Triotherm+ precasings — eliminates 30–40% of thermal performance
+4. Not ordering sills at the same time — costs 40–60% more when ordered separately later
+5. Ignoring glass type — glass is 70% of the window surface; always request Low-E with argon
+
+---
+
+## Indicative prices — apartment window replacement 2026
+
+> ⚠️ **Note:** All prices are indicative and subject to change. Always request an updated quote.
+
+| Configuration | Studio | 2-room | 3-room |
+|---|---|---|---|
+| GreenEvolution 76, double Low-E | 1,800–2,800 EUR | 2,800–4,200 EUR | 4,000–6,000 EUR |
+| BluEvolution 92, double Low-E | 2,400–3,600 EUR | 3,600–5,500 EUR | 5,200–8,000 EUR |
+| BluEvolution 92, triple Low-E, nZEB | 3,200–4,800 EUR | 4,800–7,000 EUR | 6,800–10,000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+
+      de: `## Wann ist der richtige Zeitpunkt für den Fensterwechsel?
+
+7 klare Signale, dass Ihre Fenster ersetzt werden müssen:
+
+1. **Kondensat zwischen den Scheiben** — Isolierglasdichtung versagt. Nicht reparierbar.
+2. **Zugluft bei geschlossenen Fenstern** — Dichtungen verschlissen.
+3. **Hohe Energierechnungen** — Alte Fenster Uw 2,8 vs. moderne Uw 1,0 W/m²K = 3× mehr Wärmeverlust.
+4. **Übermäßiger Straßenlärm** — Alt: 20–25 dB. Salamander modern: 38–47 dB.
+5. **Schwierigkeiten beim Öffnen/Schließen** — Wiederholte Reparaturen kosten mehr als Austausch.
+6. **Vergilbte oder rissige Profile** — Altes PVC ohne UV-Stabilisatoren.
+7. **Allgemeine Renovierung** — Bester Zeitpunkt für neue Fenster.
+
+---
+
+## Welches Salamander-Profil für die Renovierung?
+
+**GreenEvolution 76** — bestes Preis-Leistungs-Verhältnis. Uw 0,73, bis 42 dB, 76 mm Tiefe passt in bestehende Öffnungen ohne strukturelle Änderungen.
+
+**BluEvolution 92** — Hoher Standard. Uw 0,70 (Doppel-Low-E) oder 0,55 (Dreifach). Bis 47 dB Schallschutz.
+
+---
+
+## Häufige Fehler beim Fensterwechsel
+
+1. Nach niedrigstem Preis wählen — billige Profile kosten über 30 Jahre mehr
+2. Beschlagsmarke nicht prüfen — auf Roto oder Siegenia bestehen
+3. Montage ohne Blaugelb Triotherm+ Vorfenster — eliminiert 30–40% der thermischen Leistung
+4. Fensterbänke nicht gleichzeitig bestellen — später 40–60% teurer
+5. Glastyp ignorieren — immer Low-E mit Argon verlangen
+
+---
+
+## Richtpreise — Fensterwechsel Wohnung 2026
+
+> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+
+| Konfiguration | Studio | 2-Zimmer | 3-Zimmer |
+|---|---|---|---|
+| GreenEvolution 76, Doppel-Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
+| BluEvolution 92, Dreifach-Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+
+      fr: `## Quand est-il temps de remplacer vos fenêtres ?
+
+7 signaux clairs indiquant que le remplacement est nécessaire :
+
+1. **Condensation entre les vitres** — le joint du double vitrage a cédé. Non réparable.
+2. **Courants d'air fenêtres fermées** — joints usés.
+3. **Factures d'énergie élevées** — Ancienne Uw 2,8 vs moderne Uw 1,0 W/m²K = 3× plus de chaleur perdue.
+4. **Bruit de rue excessif** — Ancien : 20–25 dB. Salamander moderne : 38–47 dB.
+5. **Difficulté d'ouverture/fermeture** — réparations répétées coûtent plus que le remplacement.
+6. **Profilés jaunis ou fissurés** — PVC ancien sans stabilisateurs UV.
+7. **Rénovation générale** — meilleur moment pour de nouvelles fenêtres.
+
+---
+
+## Quel profil Salamander pour la rénovation ?
+
+**GreenEvolution 76** — meilleur rapport qualité-prix. Uw 0,73, jusqu'à 42 dB, profondeur 76 mm s'adapte aux baies existantes sans modifications structurelles.
+
+**BluEvolution 92** — haut standard. Uw 0,70 (double Low-E) ou 0,55 (triple). Jusqu'à 47 dB d'isolation acoustique.
+
+---
+
+## Erreurs fréquentes à éviter
+
+1. Choisir le prix le plus bas — les profilés bon marché coûtent plus sur 30 ans
+2. Ne pas vérifier la marque de quincaillerie — exiger Roto ou Siegenia
+3. Pose sans précadres Blaugelb Triotherm+ — élimine 30–40% des performances thermiques
+4. Ne pas commander les appuis en même temps — 40–60% plus cher après
+5. Ignorer le type de vitrage — toujours demander Low-E avec argon
+
+---
+
+## Prix indicatifs — remplacement fenêtres appartement 2026
+
+> ⚠️ **Note :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+
+| Configuration | Studio | 2 pièces | 3 pièces |
+|---|---|---|---|
+| GreenEvolution 76, double Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
+| BluEvolution 92, triple Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
+
+**WhatsApp :** +40 752 443 435 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+
+      es: `## ¿Cuándo es el momento adecuado para sustituir las ventanas?
+
+7 señales claras de que la sustitución es necesaria:
+
+1. **Condensación entre los cristales** — el sellado del doble acristalamiento ha fallado. No se puede reparar.
+2. **Corrientes de aire con ventanas cerradas** — juntas desgastadas.
+3. **Facturas de energía elevadas** — Antigua Uw 2,8 vs moderna Uw 1,0 W/m²K = 3× más calor perdido.
+4. **Ruido de calle excesivo** — Antigua: 20–25 dB. Salamander moderno: 38–47 dB.
+5. **Dificultad para abrir/cerrar** — reparaciones repetidas cuestan más que la sustitución.
+6. **Perfiles amarillentos o agrietados** — PVC antiguo sin estabilizadores UV.
+7. **Renovación general** — mejor momento para ventanas nuevas.
+
+---
+
+## ¿Qué perfil Salamander para la renovación?
+
+**GreenEvolution 76** — mejor relación calidad-precio. Uw 0,73, hasta 42 dB, profundidad 76 mm encaja en huecos existentes sin cambios estructurales.
+
+**BluEvolution 92** — alto estándar. Uw 0,70 (doble Low-E) o 0,55 (triple). Hasta 47 dB de aislamiento acústico.
+
+---
+
+## Errores frecuentes a evitar
+
+1. Elegir por precio más bajo — los perfiles baratos cuestan más a 30 años
+2. No verificar la marca de herrajes — exigir Roto o Siegenia
+3. Instalación sin premarcos Blaugelb Triotherm+ — elimina 30–40% del rendimiento térmico
+4. No pedir los alféizares al mismo tiempo — 40–60% más caro después
+5. Ignorar el tipo de vidrio — siempre pedir Low-E con argón
+
+---
+
+## Precios orientativos — sustitución ventanas apartamento 2026
+
+> ⚠️ **Nota:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+
+| Configuración | Estudio | 2 habitaciones | 3 habitaciones |
+|---|---|---|---|
+| GreenEvolution 76, doble Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
+| BluEvolution 92, triple Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+
+      it: `## Quando è il momento giusto per sostituire le finestre?
+
+7 segnali chiari che la sostituzione è necessaria:
+
+1. **Condensa tra i vetri** — la guarnizione del vetrocamera ha ceduto. Non riparabile.
+2. **Spifferi con finestre chiuse** — guarnizioni usurate.
+3. **Bollette energetiche elevate** — Vecchia Uw 2,8 vs moderna Uw 1,0 W/m²K = 3× più calore perso.
+4. **Rumore stradale eccessivo** — Vecchia: 20–25 dB. Salamander moderna: 38–47 dB.
+5. **Difficoltà di apertura/chiusura** — riparazioni ripetute costano più della sostituzione.
+6. **Profilati ingialliti o crepati** — PVC vecchio senza stabilizzatori UV.
+7. **Ristrutturazione generale** — momento migliore per finestre nuove.
+
+---
+
+## Quale profilo Salamander per la ristrutturazione?
+
+**GreenEvolution 76** — miglior rapporto qualità-prezzo. Uw 0,73, fino a 42 dB, profondità 76 mm si adatta alle aperture esistenti senza modifiche strutturali.
+
+**BluEvolution 92** — alto standard. Uw 0,70 (doppio Low-E) o 0,55 (triplo). Fino a 47 dB di isolamento acustico.
+
+---
+
+## Errori frequenti da evitare
+
+1. Scegliere per prezzo più basso — i profilati economici costano di più su 30 anni
+2. Non verificare la marca della ferramenta — insistere su Roto o Siegenia
+3. Posa senza precontrotelaio Blaugelb Triotherm+ — elimina 30–40% delle prestazioni termiche
+4. Non ordinare i davanzali contemporaneamente — 40–60% più caro dopo
+5. Ignorare il tipo di vetro — richiedere sempre Low-E con argon
+
+---
+
+## Prezzi indicativi — sostituzione finestre appartamento 2026
+
+> ⚠️ **Nota:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+
+| Configurazione | Monolocale | 2 camere | 3 camere |
+|---|---|---|---|
+| GreenEvolution 76, doppio Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
+| BluEvolution 92, triplo Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+    },
+  },
+
+  // ─── ARTICOL 13: Tâmplărie Salamander case individuale și export ─────
+  {
+    slugs: {
+      ro: 'tamplarie-salamander-case-individuale-vile-export-europa',
+      en: 'salamander-windows-individual-houses-villas-europe-export',
+      de: 'salamander-fenster-einfamilienhaeuser-villen-europa-export',
+      fr: 'menuiserie-salamander-maisons-individuelles-villas-export-europe',
+      es: 'carpinteria-salamander-casas-individuales-villas-exportacion-europa',
+      it: 'infissi-salamander-case-individuali-ville-esportazione-europa',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Case Individuale & Export', en:'Individual Houses & Export', de:'Einfamilienhäuser & Export', fr:'Maisons Individuelles & Export', es:'Casas Individuales & Exportación', it:'Case Individuali & Export' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-tamplarie-salamander-case-individuale.avif',
+      en: '/blog/blog-tamplarie-salamander-case-individuale.avif',
+      de: '/blog/blog-tamplarie-salamander-case-individuale.avif',
+      fr: '/blog/blog-tamplarie-salamander-case-individuale.avif',
+      es: '/blog/blog-tamplarie-salamander-case-individuale.avif',
+      it: '/blog/blog-tamplarie-salamander-case-individuale.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a2a1a 0%,#2a4a2a 60%,#4a7c59 100%)',
+    imageLabel: 'Export Europa 2026',
+    accentColor: '#4a7c59',
+    title: {
+      ro: 'Tâmplărie Salamander pentru case individuale și vile — BluEvolution 92, smart home și export Europa 2026',
+      en: 'Salamander windows for individual houses and villas — BluEvolution 92, smart home and Europe export 2026',
+      de: 'Salamander Fenster für Einfamilienhäuser und Villen — BluEvolution 92, Smart Home und Europa-Export 2026',
+      fr: 'Menuiserie Salamander pour maisons individuelles et villas — BluEvolution 92, maison intelligente et export Europe 2026',
+      es: 'Carpintería Salamander para casas individuales y villas — BluEvolution 92, smart home y exportación Europa 2026',
+      it: 'Infissi Salamander per case individuali e ville — BluEvolution 92, smart home ed esportazione Europa 2026',
+    },
+    excerpt: {
+      ro: 'O casă individuală nouă sau renovată merită tâmplărie la cel mai înalt standard. BluEvolution 92 cu geam triplu Low-E, montaj nZEB, automatizare Somfy și export direct în Franța, Germania, Italia — ghid complet pentru proprietari și constructori din toată Europa.',
+      en: 'A new or renovated individual house deserves windows to the highest standard. BluEvolution 92 with triple Low-E glazing, nZEB installation, Somfy automation and direct export to France, Germany, Italy — complete guide for homeowners and builders across Europe.',
+      de: 'Ein neues oder renoviertes Einfamilienhaus verdient Fenster nach höchstem Standard. BluEvolution 92 mit Dreifach-Low-E-Verglasung, nZEB-Montage, Somfy-Automatisierung und direktem Export nach Frankreich, Deutschland, Italien — Komplettleitfaden.',
+      fr: "Une maison individuelle neuve ou rénovée mérite des menuiseries au plus haut standard. BluEvolution 92 avec triple vitrage Low-E, pose nZEB, automatisation Somfy et export direct en France, Allemagne, Italie — guide complet.",
+      es: 'Una casa individual nueva o renovada merece carpintería al más alto estándar. BluEvolution 92 con triple acristalamiento Low-E, instalación nZEB, automatización Somfy y exportación directa a Francia, Alemania, Italia — guía completa.',
+      it: "Una casa individuale nuova o ristrutturata merita infissi al massimo standard. BluEvolution 92 con triplo vetro Low-E, posa nZEB, automazione Somfy ed esportazione diretta in Francia, Germania, Italia — guida completa.",
+    },
+    metaDesc: {
+      ro: 'Tâmplărie Salamander BluEvolution 92 pentru case individuale și vile 2026: geam triplu nZEB, automatizare Somfy, export Franța Germania Italia. Proiecte rezidențiale premium — Neofort BIZ București.',
+      en: 'Salamander BluEvolution 92 windows for individual houses and villas 2026: triple glazing nZEB, Somfy automation, export France Germany Italy. Premium residential projects — Neofort BIZ Bucharest.',
+      de: 'Salamander BluEvolution 92 Fenster für Einfamilienhäuser und Villen 2026: Dreifachverglasung nZEB, Somfy-Automatisierung, Export Frankreich Deutschland Italien. Premium Wohnprojekte — Neofort BIZ Bukarest.',
+      fr: 'Menuiserie Salamander BluEvolution 92 pour maisons individuelles et villas 2026 : triple vitrage nZEB, automatisation Somfy, export France Allemagne Italie. Projets résidentiels premium — Neofort BIZ Bucarest.',
+      es: 'Carpintería Salamander BluEvolution 92 para casas individuales y villas 2026: triple acristalamiento nZEB, automatización Somfy, exportación Francia Alemania Italia. Proyectos residenciales premium — Neofort BIZ Bucarest.',
+      it: 'Infissi Salamander BluEvolution 92 per case individuali e ville 2026: triplo vetro nZEB, automazione Somfy, esportazione Francia Germania Italia. Progetti residenziali premium — Neofort BIZ Bucarest.',
+    },
+    keywords: 'tamplarie PVC casa individuala, ferestre Salamander vila, BluEvolution 92 casa noua, export termopane Franta, export ferestre Germania, ferestre PVC casa pasiva Romania, tamplarie Salamander export Europa, BluEvolution 92 smart home',
+    content: {
+      ro: `## De ce o casă individuală are nevoie de alt standard decât un bloc?
+
+Într-un bloc de apartamente, suprafața vitrată reprezintă 20–30% din fațadă. Într-o casă individuală modernă cu ferestre mari, terase vitrate și uși glisante, suprafața vitrată poate ajunge la **50–70% din anvelopa clădirii**.
+
+Aceasta înseamnă că tâmplăria nu mai este un detaliu — devine **componenta principală care determină** consumul energetic, confortul termic, nivelul de zgomot și aspectul estetic al întregii case.
+
+O economie de 15% la costul ferestrelor poate însemna o creștere de 30–40% a facturii la energie pe an. La o casă de 150 mp cu 25–30 de ani de viață utilă, diferența poate fi de **20.000–40.000 EUR** în costuri energetice cumulate.
+
+---
+
+## Configurația recomandată pentru o casă individuală nouă în 2026
+
+### Profilul — BluEvolution 92 ALU sau BluEvolution 92 FLEX
+
+**BluEvolution 92** este singurul profil Salamander cu certificare completă pentru standard nZEB și casă pasivă.
+
+- 6 camere | adâncime 92–104 mm | Uw = 0,70 W/m²K
+- 3 garnituri EPDM | izolare fonică până la 47 dB
+- Compatibil geam triplu 4+12+4+12+4 cu krypton → Ug = 0,5 W/m²K
+
+**BluEvolution 92 ALU** — placat cu aluminiu pe exterior. Ideal pentru casele cu design contemporan care combină estetica aluminiului cu performanța PVC. Disponibil în orice culoare RAL, inclusiv negru mat, antracit și nuanțe de lemn.
+
+### Geamul — triplu Low-E cu argon sau krypton
+
+Pentru o casă construită în 2026, geamul dublu nu mai este suficient dacă vrei certificat energetic clasa A sau casa pasivă.
+
+| Geam | Ug (W/m²K) | Economie vs dublu standard | Ideal pentru |
+|---|---|---|---|
+| Dublu standard 4+16+4 | 1,0 | Referință | Renovări buget |
+| Dublu Low-E 4+16+4 argon | 0,6 | ~25% | Standard recomandat |
+| Triplu Low-E 4+12+4+12+4 argon | 0,5 | ~35% | Case noi, nZEB |
+| Triplu Low-E cu krypton | 0,4 | ~45% | Case pasive |
+
+### Montajul — nZEB cu precadre Blaugelb obligatoriu
+
+La o casă individuală, punțile termice perimetrale au impact direct pe calculul energetic. Precadrele Blaugelb Triotherm+ elimină puntea termică și sunt obligatorii pentru certificarea nZEB.
+
+---
+
+## Integrarea cu sistemele smart home
+
+Casa individuală este mediul ideal pentru automatizarea completă a tâmplăriei. Spre deosebire de blocuri unde adaptările sunt limitate, la o casă nouă infrastructura electrică se planifică din fundație.
+
+**Configurația recomandată pentru casă smart:**
+
+- **Uși glisante liftant-glisant** (terasă, grădină) — motor Somfy Yslo io, senzor vânt, integrare Apple HomeKit / Google Home
+- **Ferestre dormitoare** — motor de lanț Somfy, senzor CO2, deschidere automată la 1.000 ppm
+- **Hub central** — Somfy TaHoma Switch sau Loxone pentru control unificat
+- **Scenarii automate** — „Plecare": toate ferestrele se închid și rulourile coboară; „Noapte": ventilație controlată la 10% deschidere
+
+---
+
+## Export direct din București — pentru români din Franța, Germania și Italia
+
+Neofort BIZ livrează tâmplărie Salamander în toată Europa. Cel mai frecvent profil comandat pentru export: **BluEvolution 92 FLEX** și **BluEvolution 92 ALU** — profil german, produs în România, livrat în Franța, Germania sau Italia cu **30–45% mai ieftin** față de prețul local.
+
+### De ce aleg românii din diaspora Neofort BIZ?
+
+**Prețul** — o fereastră BluEvolution 92 (100×120 cm, triplu Low-E, argon) costă la Neofort BIZ 480–620 EUR montată. Același produs în Franța sau Germania costă 900–1.400 EUR.
+
+**Calitatea identică** — profilul Salamander este produs în Germania și distribuit în toată Europa. Nu există diferență de calitate între o fereastră Salamander montată la Paris și una montată la București.
+
+**Documentația completă** — livrăm cu declarație de conformitate CE, fișă tehnică și certificat de garanție, recunoscute în toată UE.
+
+### Țările unde livrăm frecvent
+
+**Franța** — comunitatea română din Paris, Lyon și Île-de-France. Livrare în 3–4 zile. Comunicare în română și franceză.
+
+**Germania** — cea mai activă rută de export. München, Frankfurt, Stuttgart, Berlin. Livrare în 2–3 zile. Comunicare în română, germană și engleză.
+
+**Italia** — comunitate românească mare în Milano, Roma, Torino. Livrare în 3–5 zile.
+
+**Austria, Belgia, Spania** — la cerere, cu evaluare individuală per proiect.
+
+---
+
+## Prețuri orientative pentru proiecte de case individuale — 2026
+
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Prețurile materialelor și cursul valutar sunt în continuă schimbare — pot crește sau scădea. Solicitați întotdeauna o ofertă actualizată pentru proiectul dumneavoastră.
+
+### Casă nouă 120 mp — configurație standard
+
+| Configurație | Estimare totală |
+|---|---|
+| BluEvolution 92 FLEX, geam triplu Low-E, montaj nZEB | 18.000–26.000 EUR |
+| BluEvolution 92 ALU, geam triplu Low-E, montaj nZEB | 22.000–32.000 EUR |
+| + Automatizare Somfy (uși glisante + senzori) | +3.000–6.000 EUR |
+
+### Casă nouă 200 mp — configurație premium
+
+| Configurație | Estimare totală |
+|---|---|
+| BluEvolution 92 ALU, geam triplu krypton, montaj nZEB complet | 35.000–55.000 EUR |
+| + Automatizare Somfy TaHoma completă | +5.000–12.000 EUR |
+
+### Renovare completă casă veche 100 mp
+
+| Configurație | Estimare totală |
+|---|---|
+| BluEvolution 92 FLEX, geam dublu Low-E, montaj standard | 12.000–18.000 EUR |
+| BluEvolution 92 ALU, geam triplu Low-E, montaj nZEB | 16.000–24.000 EUR |
+
+---
+
+## Cum lucrăm pentru proiecte de case individuale
+
+La Neofort BIZ tratăm diferit proiectele de case față de apartamente. Fiecare proiect de casă individuală include:
+
+**Consultanță tehnică extinsă** — inginer tehnic disponibil pentru calculul termic al anvelopei, recomandarea geamului în funcție de orientarea geografică a fiecărei ferestre și verificarea compatibilității cu sistemele de automatizare planificate.
+
+**Coordonare cu arhitectul și constructorul** — participăm la ședințele de proiect dacă este necesar, furnizăm fișe tehnice și declarații de performanță pentru dosarul autorizației de construire.
+
+**Vizite de șantier** — pentru proiecte de casă nouă, facem vizite la fazele cheie: înainte de turnarea glafurilor, la montajul precadrelor și la recepția finală.
+
+**Export organizat complet** — pentru clienții din diaspora, coordonăm toată logistica: producție, ambalare, transport cu asigurare internațională și documentație vamală UE.
+
+**WhatsApp:** +40 752 443 435 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+
+      en: `## Why individual houses need a different standard than apartment blocks?
+
+In a modern individual house, glazed areas can reach **50–70% of the building envelope**. This means joinery is no longer a detail — it becomes the **main component determining** energy consumption, thermal comfort, noise level and the home's aesthetics.
+
+---
+
+## Recommended configuration for a new individual house in 2026
+
+**Profile — BluEvolution 92 ALU or FLEX**
+- 6 chambers | 92–104 mm depth | Uw = 0.70 W/m²K
+- 3 EPDM seals | acoustic insulation up to 47 dB
+- Compatible with triple 4+12+4+12+4 krypton → Ug = 0.5 W/m²K
+
+**Glazing — triple Low-E with argon or krypton**
+
+| Glass | Ug (W/m²K) | Ideal for |
+|---|---|---|
+| Double Low-E 4+16+4 argon | 0.6 | Standard recommendation |
+| Triple Low-E 4+12+4+12+4 argon | 0.5 | New builds, nZEB |
+| Triple Low-E with krypton | 0.4 | Passive houses |
+
+**Installation — nZEB with Blaugelb precasings mandatory**
+Perimeter thermal bridges have direct impact on the energy calculation for individual houses.
+
+---
+
+## Smart home integration
+
+Individual houses are the ideal environment for complete joinery automation. Recommended smart configuration:
+- Lift-and-slide terrace doors — Somfy Yslo io motor, wind sensor, Apple HomeKit / Google Home integration
+- Bedroom windows — chain motor, CO2 sensor, automatic opening at 1,000 ppm
+- Central hub — Somfy TaHoma Switch or Loxone
+
+---
+
+## Direct export from Bucharest — for Romanians in France, Germany and Italy
+
+Neofort BIZ delivers Salamander windows across Europe. A BluEvolution 92 window (100×120 cm, triple Low-E) costs at Neofort BIZ 480–620 EUR installed — the same product in France or Germany costs 900–1,400 EUR (**30–45% cheaper**).
+
+We deliver regularly to: **France** (Paris, Lyon, Île-de-France — 3–4 days), **Germany** (Munich, Frankfurt, Berlin — 2–3 days), **Italy** (Milan, Rome, Turin — 3–5 days).
+
+---
+
+## Indicative prices for individual house projects — 2026
+
+> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+
+### New house 120 m²
+
+| Configuration | Total estimate |
+|---|---|
+| BluEvolution 92 FLEX, triple Low-E, nZEB installation | 18,000–26,000 EUR |
+| BluEvolution 92 ALU, triple Low-E, nZEB installation | 22,000–32,000 EUR |
+| + Somfy automation | +3,000–6,000 EUR |
+
+### New house 200 m² premium
+
+| Configuration | Total estimate |
+|---|---|
+| BluEvolution 92 ALU, triple krypton, full nZEB | 35,000–55,000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Send email](mailto:oferte@neofort-biz.ro) | **Mon–Fri 10–18**`,
+
+      de: `## Warum braucht ein Einfamilienhaus einen anderen Standard als ein Wohnblock?
+
+In einem modernen Einfamilienhaus können verglaste Flächen **50–70% der Gebäudehülle** ausmachen. Die Tischlerarbeiten sind nicht mehr ein Detail — sie werden zur **Hauptkomponente**, die Energieverbrauch, Wärmekomfort und Ästhetik bestimmt.
+
+---
+
+## Empfohlene Konfiguration für ein neues Einfamilienhaus 2026
+
+**Profil — BluEvolution 92 ALU oder FLEX**
+6 Kammern | 92–104 mm Tiefe | Uw = 0,70 W/m²K | bis 47 dB Schalldämmung
+
+**Verglasung — Dreifach-Low-E mit Argon oder Krypton**
+
+| Glas | Ug (W/m²K) | Ideal für |
+|---|---|---|
+| Zweifach Low-E 4+16+4 Argon | 0,6 | Standardempfehlung |
+| Dreifach Low-E 4+12+4+12+4 Argon | 0,5 | Neubauten, nZEB |
+| Dreifach Low-E mit Krypton | 0,4 | Passivhäuser |
+
+---
+
+## Direktexport aus Bukarest — für Rumänen in Frankreich, Deutschland und Italien
+
+Ein BluEvolution 92 Fenster (100×120 cm, Dreifach-Low-E) kostet bei Neofort BIZ 480–620 EUR montiert — dasselbe Produkt in Frankreich oder Deutschland kostet 900–1.400 EUR (**30–45% günstiger**).
+
+Regelmäßige Lieferungen nach: **Frankreich** (3–4 Tage), **Deutschland** (2–3 Tage), **Italien** (3–5 Tage).
+
+---
+
+## Richtpreise für Einfamilienhausprojecte — 2026
+
+> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+
+### Neubau 120 m²
+
+| Konfiguration | Gesamtschätzung |
+|---|---|
+| BluEvolution 92 FLEX, Dreifach-Low-E, nZEB-Montage | 18.000–26.000 EUR |
+| BluEvolution 92 ALU, Dreifach-Low-E, nZEB | 22.000–32.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+
+      fr: `## Pourquoi une maison individuelle nécessite-t-elle un standard différent d'un immeuble ?
+
+Dans une maison individuelle moderne, les surfaces vitrées peuvent atteindre **50–70% de l'enveloppe du bâtiment**. La menuiserie devient ainsi le **composant principal déterminant** la consommation énergétique et le confort.
+
+---
+
+## Configuration recommandée pour une maison neuve en 2026
+
+**Profilé — BluEvolution 92 ALU ou FLEX**
+6 chambres | 92–104 mm | Uw = 0,70 W/m²K | jusqu'à 47 dB
+
+**Vitrage — triple Low-E argon ou krypton**
+
+| Vitrage | Ug (W/m²K) | Idéal pour |
+|---|---|---|
+| Double Low-E 4+16+4 argon | 0,6 | Standard recommandé |
+| Triple Low-E 4+12+4+12+4 argon | 0,5 | Constructions neuves, nZEB |
+| Triple Low-E krypton | 0,4 | Maisons passives |
+
+---
+
+## Export direct depuis Bucarest — pour les Roumains en France
+
+Une fenêtre BluEvolution 92 (100×120 cm, triple Low-E) coûte chez Neofort BIZ 480–620 EUR posée — le même produit en France coûte 900–1.400 EUR (**30–45% moins cher**).
+
+Livraisons régulières en **France** (Paris, Lyon, Île-de-France — 3–4 jours).
+
+---
+
+## Prix indicatifs projets maisons individuelles — 2026
+
+> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+
+### Maison neuve 120 m²
+
+| Configuration | Estimation totale |
+|---|---|
+| BluEvolution 92 FLEX, triple Low-E, pose nZEB | 18.000–26.000 EUR |
+| BluEvolution 92 ALU, triple Low-E, nZEB | 22.000–32.000 EUR |
+
+**WhatsApp :** +40 752 443 435 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+
+      es: `## ¿Por qué una casa individual necesita un estándar diferente al de un bloque?
+
+En una casa individual moderna, las superficies acristaladas pueden alcanzar el **50–70% de la envolvente del edificio**. La carpintería se convierte en el **componente principal que determina** el consumo energético y el confort.
+
+---
+
+## Configuración recomendada para una casa nueva en 2026
+
+**Perfil — BluEvolution 92 ALU o FLEX**
+6 cámaras | 92–104 mm | Uw = 0,70 W/m²K | hasta 47 dB
+
+**Vidrio — triple Low-E argón o kriptón**
+
+| Vidrio | Ug (W/m²K) | Ideal para |
+|---|---|---|
+| Doble Low-E 4+16+4 argón | 0,6 | Estándar recomendado |
+| Triple Low-E 4+12+4+12+4 argón | 0,5 | Obra nueva, nZEB |
+| Triple Low-E kriptón | 0,4 | Casas pasivas |
+
+---
+
+## Exportación directa desde Bucarest — para rumanos en Francia y Europa
+
+Una ventana BluEvolution 92 (100×120 cm, triple Low-E) cuesta en Neofort BIZ 480–620 EUR instalada — el mismo producto en Francia o Alemania cuesta 900–1.400 EUR (**30–45% más barato**).
+
+---
+
+## Precios orientativos proyectos casas individuales — 2026
+
+> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+
+### Casa nueva 120 m²
+
+| Configuración | Estimación total |
+|---|---|
+| BluEvolution 92 FLEX, triple Low-E, instalación nZEB | 18.000–26.000 EUR |
+| BluEvolution 92 ALU, triple Low-E, nZEB | 22.000–32.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+
+      it: `## Perché una casa individuale ha bisogno di uno standard diverso da un condominio?
+
+In una casa individuale moderna, le superfici vetrate possono raggiungere il **50–70% dell'involucro edilizio**. Gli infissi diventano il **componente principale che determina** il consumo energetico e il comfort.
+
+---
+
+## Configurazione consigliata per una casa nuova nel 2026
+
+**Profilato — BluEvolution 92 ALU o FLEX**
+6 camere | 92–104 mm | Uw = 0,70 W/m²K | fino a 47 dB
+
+**Vetro — triplo Low-E argon o kripton**
+
+| Vetro | Ug (W/m²K) | Ideale per |
+|---|---|---|
+| Doppio Low-E 4+16+4 argon | 0,6 | Standard consigliato |
+| Triplo Low-E 4+12+4+12+4 argon | 0,5 | Nuove costruzioni, nZEB |
+| Triplo Low-E kripton | 0,4 | Case passive |
+
+---
+
+## Esportazione diretta da Bucarest — per i rumeni in Francia e Europa
+
+Una finestra BluEvolution 92 (100×120 cm, triplo Low-E) costa da Neofort BIZ 480–620 EUR posata — lo stesso prodotto in Francia o Germania costa 900–1.400 EUR (**30–45% più economico**).
+
+---
+
+## Prezzi indicativi progetti case individuali — 2026
+
+> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+
+### Casa nuova 120 m²
+
+| Configurazione | Stima totale |
+|---|---|
+| BluEvolution 92 FLEX, triplo Low-E, posa nZEB | 18.000–26.000 EUR |
+| BluEvolution 92 ALU, triplo Low-E, nZEB | 22.000–32.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+    },
+  },
+
+  // ─── ARTICOL 14: Reynaers bloc nou construit Delea Veche ────────────────
+  {
+    slugs: {
+      ro: 'tamplarie-aluminiu-reynaers-bloc-nou-construit-bucuresti',
+      en: 'reynaers-aluminium-windows-new-residential-block-bucharest',
+      de: 'reynaers-aluminiumfenster-neubau-wohnblock-bukarest',
+      fr: 'menuiserie-aluminium-reynaers-immeuble-neuf-bucarest',
+      es: 'carpinteria-aluminio-reynaers-bloque-nueva-construccion-bucarest',
+      it: 'infissi-alluminio-reynaers-condominio-nuova-costruzione-bucarest',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Construcții Noi & Blocuri', en:'New Builds & Residential Blocks', de:'Neubauten & Wohnblöcke', fr:'Constructions Neuves & Immeubles', es:'Obra Nueva & Bloques Residenciales', it:'Nuove Costruzioni & Condomini' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-reynaers-bloc-delea-veche.avif',
+      en: '/blog/blog-reynaers-bloc-delea-veche.avif',
+      de: '/blog/blog-reynaers-bloc-delea-veche.avif',
+      fr: '/blog/blog-reynaers-bloc-delea-veche.avif',
+      es: '/blog/blog-reynaers-bloc-delea-veche.avif',
+      it: '/blog/blog-reynaers-bloc-delea-veche.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1628 0%,#1a3a5c 60%,#2d6a9f 100%)',
+    imageLabel: 'Lucrare Delea Veche 2025',
+    accentColor: '#1a3a5c',
+    title: {
+      ro: 'Tâmplărie aluminiu Reynaers pentru blocuri noi — ghid complet pentru dezvoltatori și antreprenori generali București 2026',
+      en: 'Reynaers aluminium windows for new residential blocks — complete guide for developers and general contractors Bucharest 2026',
+      de: 'Reynaers Aluminiumfenster für neue Wohnblöcke — Komplettleitfaden für Bauträger und Generalunternehmer Bukarest 2026',
+      fr: 'Menuiserie aluminium Reynaers pour immeubles neufs — guide complet pour promoteurs et entrepreneurs généraux Bucarest 2026',
+      es: 'Carpintería aluminio Reynaers para bloques nuevos — guía completa para promotores y contratistas generales Bucarest 2026',
+      it: 'Infissi alluminio Reynaers per nuovi condomini — guida completa per sviluppatori e appaltatori generali Bucarest 2026',
+    },
+    excerpt: {
+      ro: 'Lucrare finalizată Neofort BIZ: tâmplărie aluminiu Reynaers montată integral pe un bloc nou din Delea Veche, București. Ghid complet pentru dezvoltatori imobiliari și antreprenori generali: sisteme Reynaers pentru construcții noi, avantaje față de PVC, prețuri per apartament și termene de livrare.',
+      en: 'Completed Neofort BIZ project: Reynaers aluminium windows fully installed on a new block in Delea Veche, Bucharest. Complete guide for property developers and general contractors: Reynaers systems for new builds, advantages over PVC, prices per apartment and delivery timelines.',
+      de: 'Abgeschlossenes Neofort BIZ Projekt: vollständig installierte Reynaers Aluminiumfenster an einem neuen Wohnblock in Delea Veche, Bukarest. Komplettleitfaden für Bauträger und Generalunternehmer: Reynaers-Systeme für Neubauten, Vorteile gegenüber PVC, Preise pro Wohnung.',
+      fr: "Projet achevé Neofort BIZ : menuiserie aluminium Reynaers installée intégralement sur un immeuble neuf à Delea Veche, Bucarest. Guide complet pour promoteurs et entrepreneurs généraux : systèmes Reynaers pour constructions neuves, avantages par rapport au PVC, prix par appartement.",
+      es: 'Proyecto completado Neofort BIZ: carpintería aluminio Reynaers instalada íntegramente en un bloque nuevo en Delea Veche, Bucarest. Guía completa para promotores y contratistas generales: sistemas Reynaers para obra nueva, ventajas frente al PVC, precios por apartamento.',
+      it: 'Progetto completato Neofort BIZ: infissi alluminio Reynaers installati integralmente su un nuovo condominio a Delea Veche, Bucarest. Guida completa per sviluppatori e appaltatori generali: sistemi Reynaers per nuove costruzioni, vantaggi rispetto al PVC, prezzi per appartamento.',
+    },
+    metaDesc: {
+      ro: 'Tâmplărie aluminiu Reynaers bloc nou București 2026: Reynaers CS 77 și ConceptPatio 155, avantaje față de PVC pentru construcții noi, prețuri per apartament, termene livrare și lucrare reală Delea Veche — Neofort BIZ.',
+      en: 'Reynaers aluminium windows new block Bucharest 2026: Reynaers CS 77 and ConceptPatio 155, advantages over PVC for new builds, prices per apartment, delivery timelines and real Delea Veche project — Neofort BIZ.',
+      de: 'Reynaers Aluminiumfenster neuer Wohnblock Bukarest 2026: Reynaers CS 77 und ConceptPatio 155, Vorteile gegenüber PVC für Neubauten, Preise pro Wohnung, Lieferzeiten und reales Delea-Veche-Projekt — Neofort BIZ.',
+      fr: "Menuiserie aluminium Reynaers immeuble neuf Bucarest 2026 : Reynaers CS 77 et ConceptPatio 155, avantages par rapport au PVC pour constructions neuves, prix par appartement, délais livraison et chantier réel Delea Veche — Neofort BIZ.",
+      es: 'Carpintería aluminio Reynaers bloque nuevo Bucarest 2026: Reynaers CS 77 y ConceptPatio 155, ventajas frente PVC para obra nueva, precios por apartamento, plazos entrega y obra real Delea Veche — Neofort BIZ.',
+      it: 'Infissi alluminio Reynaers condominio nuovo Bucarest 2026: Reynaers CS 77 e ConceptPatio 155, vantaggi rispetto PVC per nuove costruzioni, prezzi per appartamento, tempi consegna e progetto reale Delea Veche — Neofort BIZ.',
+    },
+    keywords: 'tamplarie aluminiu bloc nou Bucuresti, Reynaers CS 77 bloc rezidential, ferestre aluminiu bloc nou construit, dezvoltator imobiliar tamplarie aluminiu, Reynaers ConceptSystem 77 pret, tamplarie aluminiu vs PVC bloc, Reynaers bloc Bucuresti pret mp',
+    content: {
+      ro: `## Lucrarea Neofort BIZ — bloc nou, Delea Veche, București
+
+Delea Veche este una dintre cele mai active zone de dezvoltare rezidențială din sectorul 2 al Bucureștiului. Blocuri noi cu 4–8 etaje, apartamente de 2–4 camere, cumpărători cu așteptări ridicate privind calitatea finisajelor.
+
+Neofort BIZ a livrat și montat **tâmplăria aluminiu Reynaers ConceptSystem 77** pentru întregul bloc — ferestre la toate apartamentele, uși de balcon, uși de intrare în bloc și uși comune. Lucrarea completă, un singur furnizor, un singur interlocutor tehnic pentru antreprenorul general.
+
+---
+
+## De ce aleg dezvoltatorii aluminiu Reynaers în locul PVC pentru blocuri noi?
+
+### 1. Argumentul estetic — diferența vizibilă imediat
+
+PVC-ul, oricât de bun, are un profil mai lat și mai „plastic" față de aluminiu. Pe un bloc nou cu fațadă modernă, tâmplăria aluminiu Reynaers cu profil vizibil de 60–77 mm oferă **linii curate, subțiri și un aspect arhitectural premium** care crește valoarea percepută a apartamentelor.
+
+Dezvoltatorii din zona premium București — Floreasca, Dorobanți, Aviatorilor, dar și zone în ascensiune ca Delea Veche sau Timpuri Noi — au migrat masiv spre aluminiu în ultimii 5 ani tocmai din acest motiv: **cumpărătorul de apartament nou vede ferestrele din prima vizită**.
+
+### 2. Argumentul tehnic — performanță superioară pe termen lung
+
+| Criteriu | PVC BluEvolution 92 | Reynaers CS 77 Aluminiu |
+|---|---|---|
+| Uw fereastră (geam dublu Low-E) | 0,70–1,0 W/m²K | 1,1–1,4 W/m²K |
+| Rigiditate structurală | Medie (necesită armătură oțel) | **Foarte ridicată** (aluminiu extrudat) |
+| Rezistență la vânt | C3/B3 | **C4/B4** |
+| Deschideri mari (>1,5m lățime) | Limitată | **Nelimitată** |
+| Garanție culoare | 10 ani | **25 ani** |
+| Durată de viață | 30 ani | **40–50 ani** |
+| Întreținere | Necesară (garnituri, PU) | **Minimă** |
+
+**Concluzie pentru un developer:** pe un bloc cu 50–100 de apartamente, 10 ani în plus de durată de viață și zero intervenții de întreținere înseamnă **costuri post-vânzare semnificativ mai mici** și reclamații mai puține din partea cumpărătorilor.
+
+### 3. Argumentul comercial — valoarea adăugată în prețul de vânzare
+
+Un apartament cu tâmplărie aluminiu Reynaers se vinde cu **5–8% mai mult** față de același apartament cu PVC, pe același stradal și aceeași suprafață. La un apartament de 120.000 EUR, diferența este 6.000–9.600 EUR — față de un cost suplimentar al aluminiului față de PVC de 1.500–3.000 EUR per apartament.
+
+Raportul este clar: **investiția în aluminiu Reynaers se recuperează de 2–4× în prețul de vânzare**.
+
+---
+
+## Sistemele Reynaers livrate de Neofort BIZ pentru blocuri noi
+
+### Reynaers ConceptSystem 77 — ferestre și uși oscilo-batante
+
+Sistemul standard pentru ferestre rezidențiale premium.
+
+- Adâncime: **77 mm** | Barieră termică: poliamidă 34 mm
+- Uw = 1,1–1,4 W/m²K cu geam dublu Low-E 4+16+4 argon
+- Uw = 0,8–1,0 W/m²K cu geam triplu Low-E
+- Izolare fonică: **38–42 dB** — important pentru blocurile de pe bulevardele aglomerate din București
+- Rezistență antiefracție: **RC2** — standard pentru parterul oricărui bloc nou
+
+### Reynaers ConceptPatio 155 — sisteme glisante și liftant-glisante
+
+Sistemul pentru terase și balcoane mari — acolo unde ușa de balcon clasică nu mai este suficientă.
+
+- Panouri până la **3.500 mm lățime**
+- Uw = 1,2 W/m²K cu geam dublu Low-E
+- Etanșeitate superioară față de sistemele glisante standard
+- Ideal pentru apartamentele tip penthouse sau cu terasă
+
+### Reynaers CS 86-HI — varianta nZEB pentru apartamente premium
+
+- Barieră termică: **52 mm**
+- Uw = 0,8–1,0 W/m²K — certificare nZEB completă
+- Recomandat pentru etajele superioare cu expunere nordică sau estică
+
+---
+
+## Cum lucrează Neofort BIZ cu antreprenorii generali
+
+**Proiect la cheie** — de la măsurători pe planurile de arhitectură până la montajul final și protocolul de recepție, Neofort BIZ este un singur interlocutor pentru toată tâmplăria blocului.
+
+**Coordonare cu fazele de construcție** — livrăm pe tranșe în funcție de avansul lucrărilor pe etaje. Nu blocăm șantierul cu stocuri excesive, nu întârziem faza finisajelor.
+
+**Documentație completă** — declarații de performanță (DoP), certificate CE, fișe tehnice și calcule termice pentru dosarul autorizației de construire și pentru cartea construcției.
+
+**Garanție contractuală** — 10 ani profile, 5 ani geam, 2 ani montaj. Clauze clare în contract, fără surprize post-recepție.
+
+---
+
+## Prețuri orientative tâmplărie aluminiu Reynaers pentru bloc nou — 2026
+
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Costurile aluminiului, energiei și manoperei sunt în continuă schimbare — pot crește sau scădea. Solicitați ofertă actualizată pentru proiectul dumneavoastră.
+
+| Sistem Reynaers | Configurație tipică apartament | Estimare per apartament |
+|---|---|---|
+| CS 77, geam dublu Low-E | 3 ferestre + 1 ușă balcon (2 cam) | 2.800–4.200 EUR |
+| CS 77, geam dublu Low-E | 4 ferestre + 2 uși balcon (3 cam) | 4.200–6.500 EUR |
+| CS 77, geam triplu Low-E | 4 ferestre + 2 uși balcon (3 cam) | 5.500–8.000 EUR |
+| CP 155 liftant-glisant terasa | Per sistem complet | 2.500–5.000 EUR |
+
+*Prețurile sunt per apartament finit, inclusiv montaj, glafuri și evacuarea ambalajelor. Nu includ uși de intrare în bloc și elemente comune.*
+
+---
+
+## Contact pentru proiecte de dezvoltare imobiliară
+
+Neofort BIZ lucrează direct cu **dezvoltatori imobiliari, antreprenori generali și arhitecți** din București și din toată România.
+
+**WhatsApp Proiecte:** +40 752 443 439 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+
+      en: `## The Neofort BIZ Project — New Block, Delea Veche, Bucharest
+
+Delea Veche is one of the most active residential development zones in Bucharest's sector 2. Neofort BIZ delivered and installed **Reynaers ConceptSystem 77 aluminium windows** for the entire block — windows for all apartments, balcony doors, block entrance doors and common area doors.
+
+---
+
+## Why do developers choose Reynaers aluminium over PVC for new blocks?
+
+### 1. Aesthetics — visible difference immediately
+PVC profiles are wider and more "plastic" looking. On a new block with a modern facade, Reynaers aluminium with 60–77 mm visible profile delivers **clean, thin lines and premium architectural appearance** that increases the perceived value of apartments.
+
+### 2. Technical performance
+
+| Criterion | PVC BluEvolution 92 | Reynaers CS 77 Aluminium |
+|---|---|---|
+| Structural rigidity | Medium (requires steel reinforcement) | **Very high** (extruded aluminium) |
+| Wind resistance | C3/B3 | **C4/B4** |
+| Large openings (>1.5m) | Limited | **Unlimited** |
+| Colour guarantee | 10 years | **25 years** |
+| Service life | 30 years | **40–50 years** |
+
+### 3. Commercial value
+An apartment with Reynaers aluminium sells for **5–8% more** than the same apartment with PVC. At a €120,000 apartment, the difference is €6,000–9,600 — vs. an additional cost of aluminium over PVC of €1,500–3,000 per apartment. **Return: 2–4×.**
+
+---
+
+## Reynaers systems from Neofort BIZ for new blocks
+
+**Reynaers ConceptSystem 77** — standard system for premium residential windows. Uw = 1.1–1.4 W/m²K (double Low-E), 38–42 dB acoustic insulation, RC2 anti-burglary.
+
+**Reynaers ConceptPatio 155** — sliding and lift-and-slide for large terraces. Panels up to 3,500 mm width.
+
+**Reynaers CS 86-HI** — nZEB variant. Uw = 0.8–1.0 W/m²K.
+
+---
+
+## Indicative prices per apartment — 2026
+
+> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+
+| System | Typical apartment configuration | Estimate per apartment |
+|---|---|---|
+| CS 77, double Low-E | 3 windows + 1 balcony door (2-room) | 2,800–4,200 EUR |
+| CS 77, double Low-E | 4 windows + 2 balcony doors (3-room) | 4,200–6,500 EUR |
+| CS 77, triple Low-E | 4 windows + 2 balcony doors (3-room) | 5,500–8,000 EUR |
+
+**WhatsApp Projects:** +40 752 443 439 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+
+      de: `## Das Neofort BIZ Projekt — Neubau-Wohnblock, Delea Veche, Bukarest
+
+Delea Veche ist eine der aktivsten Wohnbaugebiete im 2. Bezirk Bukarests. Neofort BIZ lieferte und montierte **Reynaers ConceptSystem 77 Aluminiumfenster** für den gesamten Block.
+
+---
+
+## Warum wählen Bauträger Reynaers statt PVC für neue Wohnblöcke?
+
+**Ästhetik** — Reynaers Aluminium mit 60–77 mm sichtbarem Profil bietet klare, schlanke Linien und Premium-Architekturoptik, die den wahrgenommenen Wert der Wohnungen erhöht.
+
+**Technische Leistung:**
+
+| Kriterium | Reynaers CS 77 |
+|---|---|
+| Struktursteifigkeit | **Sehr hoch** (Strangpressprofil) |
+| Windwiderstand | **C4/B4** |
+| Farbgarantie | **25 Jahre** |
+| Lebensdauer | **40–50 Jahre** |
+
+**Kommerzieller Wert** — eine Wohnung mit Reynaers Aluminium verkauft sich für **5–8% mehr**. Bei einer 120.000 EUR Wohnung: 6.000–9.600 EUR mehr Erlös vs. 1.500–3.000 EUR Mehrkosten. **Rendite: 2–4×.**
+
+---
+
+## Richtpreise pro Wohnung — 2026
+
+> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+
+| System | Konfiguration | Schätzung pro Wohnung |
+|---|---|---|
+| CS 77, Zweifach-Low-E | 3 Fenster + 1 Balkontür (2 Zi.) | 2.800–4.200 EUR |
+| CS 77, Zweifach-Low-E | 4 Fenster + 2 Balkontüren (3 Zi.) | 4.200–6.500 EUR |
+| CS 77, Dreifach-Low-E | 4 Fenster + 2 Balkontüren (3 Zi.) | 5.500–8.000 EUR |
+
+**WhatsApp Projekte:** +40 752 443 439 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+
+      fr: `## Le projet Neofort BIZ — immeuble neuf, Delea Veche, Bucarest
+
+Delea Veche est l'une des zones de développement résidentiel les plus actives du secteur 2 de Bucarest. Neofort BIZ a livré et installé la **menuiserie aluminium Reynaers ConceptSystem 77** pour l'ensemble de l'immeuble.
+
+---
+
+## Pourquoi les promoteurs choisissent-ils Reynaers plutôt que le PVC pour les immeubles neufs ?
+
+**Esthétique** — le profil aluminium Reynaers visible de 60–77 mm offre des lignes fines et épurées qui augmentent la valeur perçue des appartements.
+
+**Performance technique :**
+
+| Critère | Reynaers CS 77 |
+|---|---|
+| Résistance au vent | **C4/B4** |
+| Garantie couleur | **25 ans** |
+| Durée de vie | **40–50 ans** |
+
+**Valeur commerciale** — un appartement avec menuiserie aluminium Reynaers se vend **5–8% plus cher**. Pour un appartement de 120.000 EUR : 6.000–9.600 EUR de plus vs. 1.500–3.000 EUR de surcoût. **Retour sur investissement : 2–4×.**
+
+---
+
+## Prix indicatifs par appartement — 2026
+
+> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+
+| Système | Configuration | Estimation par appartement |
+|---|---|---|
+| CS 77, double Low-E | 3 fenêtres + 1 porte balcon (2 p.) | 2.800–4.200 EUR |
+| CS 77, double Low-E | 4 fenêtres + 2 portes balcon (3 p.) | 4.200–6.500 EUR |
+| CS 77, triple Low-E | 4 fenêtres + 2 portes balcon (3 p.) | 5.500–8.000 EUR |
+
+**WhatsApp Projets :** +40 752 443 439 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+
+      es: `## El proyecto Neofort BIZ — bloque nuevo, Delea Veche, Bucarest
+
+Delea Veche es una de las zonas de desarrollo residencial más activas del sector 2 de Bucarest. Neofort BIZ entregó e instaló **carpintería aluminio Reynaers ConceptSystem 77** para todo el bloque.
+
+---
+
+## ¿Por qué los promotores eligen Reynaers en lugar de PVC para bloques nuevos?
+
+**Estética** — el perfil visible de 60–77 mm ofrece líneas limpias y finas que aumentan el valor percibido de los apartamentos.
+
+**Valor comercial** — un apartamento con aluminio Reynaers se vende un **5–8% más caro**. En un apartamento de 120.000 EUR: 6.000–9.600 EUR más de ingreso vs. 1.500–3.000 EUR de sobrecoste. **Retorno: 2–4×.**
+
+---
+
+## Precios orientativos por apartamento — 2026
+
+> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+
+| Sistema | Configuración | Estimación por apartamento |
+|---|---|---|
+| CS 77, doble Low-E | 3 ventanas + 1 puerta balcón (2 hab.) | 2.800–4.200 EUR |
+| CS 77, doble Low-E | 4 ventanas + 2 puertas balcón (3 hab.) | 4.200–6.500 EUR |
+| CS 77, triple Low-E | 4 ventanas + 2 puertas balcón (3 hab.) | 5.500–8.000 EUR |
+
+**WhatsApp Proyectos:** +40 752 443 439 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+
+      it: `## Il progetto Neofort BIZ — nuovo condominio, Delea Veche, Bucarest
+
+Delea Veche è una delle zone di sviluppo residenziale più attive del settore 2 di Bucarest. Neofort BIZ ha consegnato e installato **infissi alluminio Reynaers ConceptSystem 77** per l'intero condominio.
+
+---
+
+## Perché gli sviluppatori scelgono Reynaers invece del PVC per i nuovi condomini?
+
+**Estetica** — il profilo visibile da 60–77 mm offre linee pulite e sottili che aumentano il valore percepito degli appartamenti.
+
+**Valore commerciale** — un appartamento con alluminio Reynaers si vende **5–8% in più**. Per un appartamento da 120.000 EUR: 6.000–9.600 EUR in più vs. 1.500–3.000 EUR di costo aggiuntivo. **Ritorno: 2–4×.**
+
+---
+
+## Prezzi indicativi per appartamento — 2026
+
+> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+
+| Sistema | Configurazione | Stima per appartamento |
+|---|---|---|
+| CS 77, doppio Low-E | 3 finestre + 1 porta balcone (2 vani) | 2.800–4.200 EUR |
+| CS 77, doppio Low-E | 4 finestre + 2 porte balcone (3 vani) | 4.200–6.500 EUR |
+| CS 77, triplo Low-E | 4 finestre + 2 porte balcone (3 vani) | 5.500–8.000 EUR |
+
+**WhatsApp Progetti:** +40 752 443 439 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+    },
+  },
+
+  // ─── ARTICOL 15: Salamander BluEvolution 92 casă nouă Berceni smart home ──
+  {
+    slugs: {
+      ro: 'salamander-bluevolution-92-casa-noua-smart-home-bucuresti',
+      en: 'salamander-bluevolution-92-new-house-smart-home-bucharest',
+      de: 'salamander-bluevolution-92-neubau-smart-home-bukarest',
+      fr: 'salamander-bluevolution-92-maison-neuve-maison-intelligente-bucarest',
+      es: 'salamander-bluevolution-92-casa-nueva-smart-home-bucarest',
+      it: 'salamander-bluevolution-92-casa-nuova-smart-home-bucarest',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Case Noi & Smart Home', en:'New Houses & Smart Home', de:'Neubauten & Smart Home', fr:'Maisons Neuves & Maison Intelligente', es:'Casas Nuevas & Smart Home', it:'Case Nuove & Smart Home' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-bluevolution-92-casa-berceni.avif',
+      en: '/blog/blog-bluevolution-92-casa-berceni.avif',
+      de: '/blog/blog-bluevolution-92-casa-berceni.avif',
+      fr: '/blog/blog-bluevolution-92-casa-berceni.avif',
+      es: '/blog/blog-bluevolution-92-casa-berceni.avif',
+      it: '/blog/blog-bluevolution-92-casa-berceni.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a2a1a 0%,#2a4a2a 60%,#4a7c59 100%)',
+    imageLabel: 'Lucrare Berceni 2025',
+    accentColor: '#4a7c59',
+    title: {
+      ro: 'Salamander BluEvolution 92 pentru casă nouă smart home — lucrare finalizată Berceni, București 2025',
+      en: 'Salamander BluEvolution 92 for new smart home house — completed project Berceni, Bucharest 2025',
+      de: 'Salamander BluEvolution 92 für neues Smart-Home-Haus — abgeschlossenes Projekt Berceni, Bukarest 2025',
+      fr: 'Salamander BluEvolution 92 pour maison neuve maison intelligente — projet achevé Berceni, Bucarest 2025',
+      es: 'Salamander BluEvolution 92 para casa nueva smart home — proyecto completado Berceni, Bucarest 2025',
+      it: 'Salamander BluEvolution 92 per nuova casa smart home — progetto completato Berceni, Bucarest 2025',
+    },
+    excerpt: {
+      ro: 'Lucrare finalizată Neofort BIZ: casă nouă stil nordic în Berceni, București, dotată cu Salamander BluEvolution 92 și sistem smart home complet — ferestre motorizate Somfy, senzori CO2 și integrare Apple HomeKit. Ghid complet: de ce BluEvolution 92 este profilul ideal pentru o casă inteligentă în 2026.',
+      en: 'Completed Neofort BIZ project: new Nordic-style house in Berceni, Bucharest, equipped with Salamander BluEvolution 92 and complete smart home system — Somfy motorised windows, CO2 sensors and Apple HomeKit integration. Complete guide: why BluEvolution 92 is the ideal profile for a smart house in 2026.',
+      de: 'Abgeschlossenes Neofort BIZ Projekt: neues Haus im nordischen Stil in Berceni, Bukarest, ausgestattet mit Salamander BluEvolution 92 und vollständigem Smart-Home-System — Somfy motorisierte Fenster, CO2-Sensoren und Apple HomeKit Integration.',
+      fr: "Projet achevé Neofort BIZ : maison neuve de style nordique à Berceni, Bucarest, équipée de Salamander BluEvolution 92 et d'un système maison intelligente complet — fenêtres motorisées Somfy, capteurs CO2 et intégration Apple HomeKit.",
+      es: 'Proyecto completado Neofort BIZ: casa nueva estilo nórdico en Berceni, Bucarest, equipada con Salamander BluEvolution 92 y sistema smart home completo — ventanas motorizadas Somfy, sensores CO2 e integración Apple HomeKit.',
+      it: 'Progetto completato Neofort BIZ: nuova casa in stile nordico a Berceni, Bucarest, dotata di Salamander BluEvolution 92 e sistema smart home completo — finestre motorizzate Somfy, sensori CO2 e integrazione Apple HomeKit.',
+    },
+    metaDesc: {
+      ro: 'Salamander BluEvolution 92 casă nouă București 2026: profil 6 camere nZEB, geam triplu Low-E, automatizare Somfy, senzori CO2, Apple HomeKit. Lucrare reală Berceni — consultanță gratuită Neofort BIZ.',
+      en: 'Salamander BluEvolution 92 new house Bucharest 2026: 6-chamber nZEB profile, triple Low-E glass, Somfy automation, CO2 sensors, Apple HomeKit. Real Berceni project — free consultation Neofort BIZ.',
+      de: 'Salamander BluEvolution 92 Neubau Bukarest 2026: 6-Kammer nZEB-Profil, Dreifach-Low-E-Glas, Somfy-Automatisierung, CO2-Sensoren, Apple HomeKit. Reales Berceni-Projekt — kostenlose Beratung Neofort BIZ.',
+      fr: 'Salamander BluEvolution 92 maison neuve Bucarest 2026 : profil 6 chambres nZEB, triple vitrage Low-E, automatisation Somfy, capteurs CO2, Apple HomeKit. Projet réel Berceni — consultation gratuite Neofort BIZ.',
+      es: 'Salamander BluEvolution 92 casa nueva Bucarest 2026: perfil 6 cámaras nZEB, triple Low-E, automatización Somfy, sensores CO2, Apple HomeKit. Proyecto real Berceni — consulta gratuita Neofort BIZ.',
+      it: 'Salamander BluEvolution 92 casa nuova Bucarest 2026: profilo 6 camere nZEB, triplo Low-E, automazione Somfy, sensori CO2, Apple HomeKit. Progetto reale Berceni — consulenza gratuita Neofort BIZ.',
+    },
+    keywords: 'Salamander BluEvolution 92 casa noua Bucuresti, BluEvolution 92 smart home, ferestre PVC casa noua nZEB Bucuresti, BluEvolution 92 Somfy automatizare, ferestre casa individuala Berceni, BluEvolution 92 geam triplu pret, casa noua Bucuresti tamplerie PVC premium',
+    content: {
+      ro: `## Lucrarea Neofort BIZ — casă nouă stil nordic, Berceni, București
+
+Berceni este un sector în plină transformare — case individuale noi cu arhitectură modernă sau scandinav-nordică, proprietari tineri cu așteptări ridicate pentru eficiență energetică și tehnologie.
+
+Această casă, finalizată în 2025, a ales **Salamander BluEvolution 92** ca profil PVC principal — decizia corectă pentru un proiect care combina standardul nZEB cu un sistem smart home complet integrat.
+
+---
+
+## De ce BluEvolution 92 este profilul ideal pentru o casă smart în 2026
+
+### Performanța termică — baza oricărei case inteligente
+
+Un sistem smart home bine proiectat optimizează consumul de energie al casei. Dar această optimizare funcționează **doar dacă anvelopa clădirii este performantă** — altfel, automatizezi pierderile, nu le elimini.
+
+**BluEvolution 92** oferă:
+- **6 camere** | adâncime 92 mm | Uf profil = 0,95 W/m²K
+- **Uw = 0,70 W/m²K** cu geam dublu Low-E 4+16+4 argon
+- **Uw = 0,55 W/m²K** cu geam triplu Low-E 4+12+4+12+4 argon/krypton
+- Izolare fonică: **până la 47 dB** — liniște completă chiar și pe strada cu trafic moderat
+- Certificare **nZEB** completă — consum sub 100 kWh/m²/an
+
+Pe această casă din Berceni am montat **geam triplu Low-E cu argon** la toate ferestrele orientate nord și est, și **geam dublu Low-E** la sud și vest — optimizare în funcție de orientare solară, nu standard unic.
+
+### Compatibilitatea cu automatizarea — de ce PVC bate aluminiul la cost
+
+O concepție greșită frecventă: că aluminiul este superior PVC-ului pentru smart home. Adevărul: **BluEvolution 92 cu feronerie Roto sau Siegenia** este la fel de compatibil cu Somfy, Nice și KNX ca orice sistem de aluminiu — la un cost cu 20–35% mai mic.
+
+**Pe această casă am integrat:**
+- **Motor Somfy Yslo io** pe sistemul liftant-glisant de la terasă
+- **Motor de lanț Somfy** pe 3 ferestre de dormitor (ventilație nocturnă automată)
+- **Senzori CO2** în dormitoare — ferestre se deschid automat la 1.000 ppm
+- **Senzori vânt** — ferestrele se închid automat la 55 km/h
+- **Hub Somfy TaHoma Switch** — integrare completă Apple HomeKit și Google Home
+
+---
+
+## Configurația completă BluEvolution 92 pentru casă nouă smart
+
+### Ferestre oscilo-batante — BluEvolution 92 ROUND
+
+Varianta cu colțuri rotunjite — cea mai populară pentru case rezidențiale cu arhitectură modernă sau nordică. Aspect cald, fără liniile tăioase ale variantei FLEX.
+
+- Uw = 0,70 W/m²K (dublu Low-E) | 0,55 W/m²K (triplu Low-E)
+- Feronerie Roto NT sau Siegenia Titan — compatibilă motorizare Somfy/Nice
+- Disponibilă alb standard sau orice culoare RAL (negru mat, antracit, stejar)
+
+### Sistem liftant-glisant terasă — BluEvolution 92 + Alumil S700
+
+Pe terasele mari ale caselor individuale, ușa de balcon clasică nu mai este suficientă. Sistemul liftant-glisant cu profile BluEvolution 92 combinate cu ghidajele Alumil S700 oferă:
+- Deschidere până la **4.500 mm** fără coloană intermediară
+- Motor Somfy Yslo io integrat în profilul inferior — **invizibil**
+- Uw = 1,1 W/m²K — performanță termică acceptabilă pentru un sistem deschis
+
+### Montaj nZEB cu precadre Blaugelb Triotherm+
+
+Fără precadre, **BluEvolution 92 pierde 35–40% din performanța termică** la zona de montaj. Pe această casă am folosit sistemul complet Blaugelb: precadru + bandă butilică + spumă PU densitate medie + bandă antivapori interior.
+
+---
+
+## Scenarii smart home implementate pe casa din Berceni
+
+**Scenariul „Dimineață"** (ora 7:00):
+- Ferestrele de dormitor se deschid la 8 cm pentru aerisire
+- Rulourile exterioare se ridică treptat (30% → 60% → 100% în 20 minute)
+- Sistemul de încălzire crește temperatura cu 2°C față de noapte
+
+**Scenariul „Plecare":**
+- Toate ferestrele se închid și se blochează
+- Rulourile exterioare coboară la 50%
+- Senzori de mișcare activați
+
+**Scenariul „Noapte:"**
+- Ferestrele dormitorului rămân la 5 cm deschidere
+- Dacă CO2 depășește 900 ppm, ferestrele se deschid la 15 cm
+- Dacă temperatura exterioară scade sub 10°C, ferestrele se închid automat
+
+**Scenariul „Furtună":**
+- La vânt > 55 km/h, toate ferestrele se închid în 30 secunde
+- Rulourile exterioare se ridică complet
+- Notificare pe telefon
+
+---
+
+## Prețuri orientative BluEvolution 92 cu smart home — casă individuală 2026
+
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Se pot modifica în funcție de evoluția pieței. Solicitați întotdeauna o ofertă actualizată.
+
+| Configurație | Casă 120 mp | Casă 180 mp |
+|---|---|---|
+| BluEvolution 92, geam dublu Low-E, montaj nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
+| BluEvolution 92, geam triplu Low-E, montaj nZEB | 20.000–28.000 EUR | 30.000–42.000 EUR |
+| + Automatizare Somfy (terasă + 3 ferestre + hub) | +3.500–6.000 EUR | +5.000–9.000 EUR |
+| + Sistem Loxone complet | +8.000–18.000 EUR | +12.000–25.000 EUR |
+
+---
+
+## Consultanță gratuită pentru casa ta
+
+La Neofort BIZ oferim **consultanță tehnică gratuită** pentru proiecte de case individuale noi — calcul termic pe orientări, recomandare profil și geam per fereastră, și planul de pre-cablare pentru motorizare ulterioară chiar dacă nu vrei automatizare acum.
+
+**WhatsApp:** +40 752 443 435 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+
+      en: `## The Neofort BIZ Project — New Nordic-Style House, Berceni, Bucharest
+
+Berceni is a sector in full transformation — new individual houses with modern or Scandinavian-Nordic architecture, young homeowners with high expectations for energy efficiency and technology.
+
+This house, completed in 2025, chose **Salamander BluEvolution 92** as the main PVC profile — the right decision for a project combining nZEB standard with a fully integrated smart home system.
+
+---
+
+## Why BluEvolution 92 is the ideal profile for a smart house in 2026
+
+**Thermal performance:**
+- 6 chambers | 92 mm depth | Uf = 0.95 W/m²K
+- Uw = 0.70 W/m²K (double Low-E) | 0.55 W/m²K (triple Low-E)
+- Acoustic insulation: up to 47 dB
+- Full nZEB certification
+
+**Smart home integration on this project:**
+- Somfy Yslo io motor on the terrace lift-and-slide system
+- Somfy chain motors on 3 bedroom windows (automatic night ventilation)
+- CO2 sensors — windows open automatically at 1,000 ppm
+- Wind sensors — windows close automatically at 55 km/h
+- Somfy TaHoma Switch hub — full Apple HomeKit and Google Home integration
+
+---
+
+## Smart home scenarios implemented
+
+**"Morning" scenario (7:00 AM):** bedroom windows open 8 cm, exterior shutters rise gradually, heating increases 2°C.
+
+**"Departure" scenario:** all windows close and lock, shutters lower to 50%, motion sensors activated.
+
+**"Storm" scenario:** at wind > 55 km/h, all windows close in 30 seconds, shutters rise fully, phone notification.
+
+---
+
+## Indicative prices BluEvolution 92 with smart home — 2026
+
+> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+
+| Configuration | House 120 m² | House 180 m² |
+|---|---|---|
+| BluEvolution 92, double Low-E, nZEB | 16,000–22,000 EUR | 24,000–32,000 EUR |
+| BluEvolution 92, triple Low-E, nZEB | 20,000–28,000 EUR | 30,000–42,000 EUR |
+| + Somfy automation | +3,500–6,000 EUR | +5,000–9,000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+
+      de: `## Das Neofort BIZ Projekt — neues Haus im nordischen Stil, Berceni, Bukarest
+
+Dieses 2025 fertiggestellte Haus wählte **Salamander BluEvolution 92** als Haupt-PVC-Profil — die richtige Entscheidung für ein Projekt, das nZEB-Standard mit einem vollständig integrierten Smart-Home-System kombiniert.
+
+---
+
+## Warum BluEvolution 92 das ideale Profil für ein Smart Home 2026 ist
+
+- 6 Kammern | 92 mm Tiefe | Uw = 0,70 W/m²K (Zweifach-Low-E)
+- Schalldämmung bis 47 dB | Vollständige nZEB-Zertifizierung
+
+**Smart-Home-Integration:**
+- Somfy Yslo io Motor am Hebeschiebe-Terrassensystem
+- Somfy Kettenmotoren an 3 Schlafzimmerfenstern (automatische Nachtlüftung)
+- CO2-Sensoren — Fenster öffnen automatisch bei 1.000 ppm
+- Windsensoren — Fenster schließen automatisch bei 55 km/h
+- Somfy TaHoma Switch — vollständige Apple HomeKit und Google Home Integration
+
+---
+
+## Richtpreise BluEvolution 92 mit Smart Home — 2026
+
+> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+
+| Konfiguration | Haus 120 m² | Haus 180 m² |
+|---|---|---|
+| BluEvolution 92, Zweifach-Low-E, nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
+| BluEvolution 92, Dreifach-Low-E, nZEB | 20.000–28.000 EUR | 30.000–42.000 EUR |
+| + Somfy-Automatisierung | +3.500–6.000 EUR | +5.000–9.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+
+      fr: `## Le projet Neofort BIZ — maison neuve style nordique, Berceni, Bucarest
+
+Cette maison achevée en 2025 a choisi **Salamander BluEvolution 92** comme profil PVC principal — le bon choix pour un projet combinant le standard nZEB avec un système maison intelligente entièrement intégré.
+
+---
+
+## Pourquoi BluEvolution 92 est le profil idéal pour une maison connectée en 2026
+
+- 6 chambres | 92 mm | Uw = 0,70 W/m²K (double Low-E) | jusqu'à 47 dB
+- Certification nZEB complète
+
+**Intégration maison intelligente :**
+- Moteur Somfy Yslo io sur le système levant-coulissant de la terrasse
+- Moteurs à chaîne Somfy sur 3 fenêtres de chambre (ventilation nocturne automatique)
+- Capteurs CO2 — fenêtres s'ouvrent automatiquement à 1.000 ppm
+- Hub Somfy TaHoma Switch — intégration complète Apple HomeKit et Google Home
+
+---
+
+## Prix indicatifs BluEvolution 92 avec maison intelligente — 2026
+
+> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+
+| Configuration | Maison 120 m² | Maison 180 m² |
+|---|---|---|
+| BluEvolution 92, double Low-E, nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
+| BluEvolution 92, triple Low-E, nZEB | 20.000–28.000 EUR | 30.000–42.000 EUR |
+| + Automatisation Somfy | +3.500–6.000 EUR | +5.000–9.000 EUR |
+
+**WhatsApp :** +40 752 443 435 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+
+      es: `## El proyecto Neofort BIZ — casa nueva estilo nórdico, Berceni, Bucarest
+
+Esta casa, completada en 2025, eligió **Salamander BluEvolution 92** como perfil PVC principal — la decisión correcta para un proyecto que combina el estándar nZEB con un sistema smart home completamente integrado.
+
+---
+
+## Por qué BluEvolution 92 es el perfil ideal para una casa inteligente en 2026
+
+- 6 cámaras | 92 mm | Uw = 0,70 W/m²K (doble Low-E) | hasta 47 dB
+- Certificación nZEB completa
+
+**Integración smart home:**
+- Motor Somfy Yslo io en el sistema elevador-corredera de la terraza
+- Motores de cadena Somfy en 3 ventanas de dormitorio (ventilación nocturna automática)
+- Sensores CO2 — ventanas se abren automáticamente a 1.000 ppm
+- Hub Somfy TaHoma Switch — integración completa Apple HomeKit y Google Home
+
+---
+
+## Precios orientativos BluEvolution 92 con smart home — 2026
+
+> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+
+| Configuración | Casa 120 m² | Casa 180 m² |
+|---|---|---|
+| BluEvolution 92, doble Low-E, nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
+| + Automatización Somfy | +3.500–6.000 EUR | +5.000–9.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+
+      it: `## Il progetto Neofort BIZ — nuova casa in stile nordico, Berceni, Bucarest
+
+Questa casa, completata nel 2025, ha scelto **Salamander BluEvolution 92** come profilo PVC principale — la scelta giusta per un progetto che combina lo standard nZEB con un sistema smart home completamente integrato.
+
+---
+
+## Perché BluEvolution 92 è il profilo ideale per una casa intelligente nel 2026
+
+- 6 camere | 92 mm | Uw = 0,70 W/m²K (doppio Low-E) | fino a 47 dB
+- Certificazione nZEB completa
+
+**Integrazione smart home:**
+- Motore Somfy Yslo io sul sistema alzante-scorrevole della terrazza
+- Motori a catena Somfy su 3 finestre da letto (ventilazione notturna automatica)
+- Sensori CO2 — finestre si aprono automaticamente a 1.000 ppm
+- Hub Somfy TaHoma Switch — integrazione completa Apple HomeKit e Google Home
+
+---
+
+## Prezzi indicativi BluEvolution 92 con smart home — 2026
+
+> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+
+| Configurazione | Casa 120 m² | Casa 180 m² |
+|---|---|---|
+| BluEvolution 92, doppio Low-E, nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
+| + Automazione Somfy | +3.500–6.000 EUR | +5.000–9.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+    },
+  },
+
+  // ─── ARTICOL 16: BluEvolution 92 ALU placat aluminiu export Franța munte ──
+  {
+    slugs: {
+      ro: 'salamander-bluevolution-92-alu-placat-aluminiu-export-franta-casa-munte',
+      en: 'salamander-bluevolution-92-alu-aluminium-clad-export-france-mountain-house',
+      de: 'salamander-bluevolution-92-alu-aluminiumverkleidung-export-frankreich-berghaus',
+      fr: 'salamander-bluevolution-92-alu-revetu-aluminium-export-france-maison-montagne',
+      es: 'salamander-bluevolution-92-alu-revestido-aluminio-exportacion-francia-casa-montana',
+      it: 'salamander-bluevolution-92-alu-rivestito-alluminio-esportazione-francia-casa-montagna',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Export & Case Munte', en:'Export & Mountain Houses', de:'Export & Berghäuser', fr:'Export & Maisons de Montagne', es:'Exportación & Casas de Montaña', it:'Export & Case di Montagna' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-bluevolution-92-alu-export-franta.avif',
+      en: '/blog/blog-bluevolution-92-alu-export-franta.avif',
+      de: '/blog/blog-bluevolution-92-alu-export-franta.avif',
+      fr: '/blog/blog-bluevolution-92-alu-export-franta.avif',
+      es: '/blog/blog-bluevolution-92-alu-export-franta.avif',
+      it: '/blog/blog-bluevolution-92-alu-export-franta.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a1a2a 0%,#2a2a4a 60%,#3a3a6a 100%)',
+    imageLabel: 'Export Franța 2025',
+    accentColor: '#3a3a6a',
+    title: {
+      ro: 'Salamander BluEvolution 92 ALU placat aluminiu — export Franța, casă de munte: de ce este profilul suprem pentru clima alpină',
+      en: 'Salamander BluEvolution 92 ALU aluminium clad — export to France, mountain house: why it is the supreme profile for alpine climate',
+      de: 'Salamander BluEvolution 92 ALU Aluminiumverkleidung — Export Frankreich, Berghaus: warum es das überlegene Profil für alpines Klima ist',
+      fr: 'Salamander BluEvolution 92 ALU revêtu aluminium — export France, maison de montagne : pourquoi c\'est le profil supérieur pour le climat alpin',
+      es: 'Salamander BluEvolution 92 ALU revestido aluminio — exportación Francia, casa de montaña: por qué es el perfil supremo para el clima alpino',
+      it: 'Salamander BluEvolution 92 ALU rivestito alluminio — esportazione Francia, casa di montagna: perché è il profilo superiore per il clima alpino',
+    },
+    excerpt: {
+      ro: 'Lucrare finalizată Neofort BIZ: export Salamander BluEvolution 92 ALU placat cu aluminiu pentru o casă de munte din Franța. Profilul PVC cu exterior din aluminiu este alegerea ideală pentru climate alpine — protecție maximă la UV, îngheț, zăpadă și variații termice extreme, cu performanța termică a PVC-ului și aspectul aluminiului.',
+      en: 'Completed Neofort BIZ project: Salamander BluEvolution 92 ALU aluminium clad exported for a mountain house in France. The PVC profile with aluminium exterior is the ideal choice for alpine climates — maximum protection against UV, frost, snow and extreme thermal variations, with PVC thermal performance and aluminium appearance.',
+      de: 'Abgeschlossenes Neofort BIZ Projekt: Salamander BluEvolution 92 ALU Aluminiumverkleidung für ein Berghaus in Frankreich exportiert. Das PVC-Profil mit Aluminiumaußenseite ist die ideale Wahl für alpine Klimata — maximaler Schutz gegen UV, Frost, Schnee und extreme Temperaturschwankungen.',
+      fr: "Projet achevé Neofort BIZ : Salamander BluEvolution 92 ALU revêtu aluminium exporté pour une maison de montagne en France. Le profil PVC à revêtement aluminium extérieur est le choix idéal pour les climats alpins — protection maximale contre UV, gel, neige et variations thermiques extrêmes.",
+      es: 'Proyecto completado Neofort BIZ: Salamander BluEvolution 92 ALU revestido aluminio exportado para una casa de montaña en Francia. El perfil PVC con exterior de aluminio es la elección ideal para climas alpinos — protección máxima contra UV, heladas, nieve y variaciones térmicas extremas.',
+      it: "Progetto completato Neofort BIZ: Salamander BluEvolution 92 ALU rivestito alluminio esportato per una casa di montagna in Francia. Il profilo PVC con esterno in alluminio è la scelta ideale per i climi alpini — protezione massima contro UV, gelo, neve e variazioni termiche estreme.",
+    },
+    metaDesc: {
+      ro: 'Salamander BluEvolution 92 ALU placat aluminiu export Franța 2025: profil PVC+aluminiu pentru casă de munte, climat alpin, rezistență UV și îngheț, prețuri orientative și lucrare reală. Neofort BIZ — livrare Europa.',
+      en: 'Salamander BluEvolution 92 ALU aluminium clad export France 2025: PVC+aluminium profile for mountain house, alpine climate, UV and frost resistance, indicative prices and real project. Neofort BIZ — Europe delivery.',
+      de: 'Salamander BluEvolution 92 ALU Aluminiumverkleidung Export Frankreich 2025: PVC+Aluminium Profil für Berghaus, alpines Klima, UV- und Frostbeständigkeit, Richtpreise und reales Projekt. Neofort BIZ — Europa-Lieferung.',
+      fr: 'Salamander BluEvolution 92 ALU revêtu aluminium export France 2025 : profil PVC+aluminium pour maison de montagne, climat alpin, résistance UV et gel, prix indicatifs et projet réel. Neofort BIZ — livraison Europe.',
+      es: 'Salamander BluEvolution 92 ALU revestido aluminio exportación Francia 2025: perfil PVC+aluminio para casa de montaña, clima alpino, resistencia UV y heladas, precios orientativos y proyecto real. Neofort BIZ — entrega Europa.',
+      it: 'Salamander BluEvolution 92 ALU rivestito alluminio esportazione Francia 2025: profilo PVC+alluminio per casa di montagna, clima alpino, resistenza UV e gelo, prezzi indicativi e progetto reale. Neofort BIZ — consegna Europa.',
+    },
+    keywords: 'BluEvolution 92 ALU placat aluminiu, Salamander BluEvolution ALU pret, ferestre PVC placat aluminiu export, tamplarie casa munte Sinaia Predeal, export ferestre Franta Romania, BluEvolution 92 ALU culori RAL, ferestre clima alpina nZEB, Salamander ALU vs aluminiu',
+    content: {
+      ro: `## Lucrarea Neofort BIZ — export Franța, casă de munte
+
+Această lucrare ilustrează perfect intersecția dintre **export**, **climă extremă** și **performanță termică maximă**. Un client român stabilit în Franța, casă de munte în zona alpină franceză, cu cerințe clare: aspect de aluminiu, performanța PVC, rezistență la climat sever.
+
+Soluția aleasă: **Salamander BluEvolution 92 ALU**, profilul PVC cu placare exterioară de aluminiu — produsul exact conceput pentru această situație.
+
+---
+
+## Ce este BluEvolution 92 ALU placat cu aluminiu?
+
+BluEvolution 92 ALU nu este un profil de aluminiu. Este un **profil PVC BluEvolution 92** (6 camere, 92 mm adâncime, performanță nZEB) cu o **folie de aluminiu lipită pe fața exterioară** a profilului.
+
+Această combinație oferă ce e mai bun din ambele materiale:
+
+| Caracteristică | PVC standard | Aluminiu pur | BluEvolution 92 ALU |
+|---|---|---|---|
+| Izolare termică | ★★★★★ Excelentă | ★★☆☆☆ Necesită barieră | ★★★★★ Excelentă |
+| Rezistență UV exterior | ★★★☆☆ Bună (10 ani) | ★★★★★ 25 ani | ★★★★★ 25 ani |
+| Rezistență la îngheț | ★★★☆☆ Medie | ★★★★★ Excelentă | ★★★★★ Excelentă |
+| Rezistență la zăpadă/umiditate | ★★★☆☆ Acceptabilă | ★★★★★ Excelentă | ★★★★★ Excelentă |
+| Variații termice extreme | ★★★☆☆ Deformări mici | ★★★★★ Stabil | ★★★★★ Stabil |
+| Aspect vizual | ★★★☆☆ Plastic | ★★★★★ Premium | ★★★★★ Premium |
+| Preț față de aluminiu pur | -40% | Referință | -20 to -30% |
+
+**Concluzie:** pentru o casă de munte cu ierni aspre, radiație UV intensă la altitudine și variații termice de 60–70°C între vară și iarnă, **BluEvolution 92 ALU este superior atât aluminiului pur** (mai bună izolare termică) cât și PVC-ului standard (rezistență exterioară incomparabil mai bună).
+
+---
+
+## De ce clima alpină este cea mai dificilă pentru ferestre
+
+O casă la altitudine de 1.000–2.000 m în Alpi sau în zona montană Sinaia-Predeal-Bușteni se confruntă cu condiții extreme pentru tâmplărie:
+
+**Variații termice:** între -20°C iarna și +35°C vara = **55°C diferență** față de -5°C/+30°C la câmpie. Fiecare material se dilată și contractă ciclic. PVC-ul standard obosește în 8–12 ani. Aluminiul cu barieră termică slabă devine conductă de frig. BluEvolution 92 ALU menține toleranțele prin rigiditatea foliei de aluminiu exterior.
+
+**Radiația UV:** la 1.500 m altitudine, intensitatea UV este cu 25–30% mai mare față de nivelul mării. Un PVC standard fără UV-stabilizatori se îngălbenește în 5–7 ani. BluEvolution 92 ALU are folia de aluminiu ca primă barieră — nu este expus direct la UV.
+
+**Zăpada și umiditatea:** accumularile de zăpadă pe glafuri și presiunea hidrostică pe garnituri. Garniturile EPDM co-extrudate ale BluEvolution 92 și folia de aluminiu asigură etanșeitate perfectă la zăpadă topită și variații de presiune.
+
+**Vântul:** în zona montană, rafalele pot depăși 100–120 km/h. BluEvolution 92 ALU cu feronerie Roto sau Siegenia RC2 rezistă la vânt clasa C4/B4 — suficient pentru toate zonele montane din România și Franța.
+
+---
+
+## Export Franța — cum a funcționat logistic
+
+**Comanda** a fost plasată prin WhatsApp cu fotografii și dimensiunile golurilor. Clientul din Franța a trimis planurile de arhitectură, am calculat dimensiunile exacte.
+
+**Producția** — 4 săptămâni la fabrica Neofort din București. Profile Salamander BluEvolution 92 ALU în culoarea RAL 7016 antracit mat pe exterior, alb pe interior. Geam triplu Low-E cu argon.
+
+**Transportul** — camion acoperit București → zona alpină Franța. Durată: 3 zile. Cost transport inclus în ofertă pentru comenzi peste 8.000 EUR.
+
+**Documentație** — livrare cu Declarație de Conformitate CE, fișă tehnică Salamander, certificat de garanție — toate valabile în UE.
+
+---
+
+## BluEvolution 92 ALU pentru casele de munte din zona București — Sinaia — Predeal — Bușteni
+
+Aceste cerințe se aplică și în România. Case de vacanță și reședințe permanente din Valea Prahovei, Azuga, Predeal, Sinaia, Bușteni — toate beneficiază de aceleași avantaje ale profilului placat cu aluminiu față de PVC standard.
+
+**Diferența de preț față de BluEvolution 92 standard:** +15–20% per fereastră.
+**Diferența față de aluminiu pur la performanță similară:** -25–35% mai ieftin.
+
+---
+
+## Prețuri orientative BluEvolution 92 ALU — 2026
+
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Costurile materialelor și cursul EUR/RON se pot modifica. Solicitați întotdeauna o ofertă actualizată.
+
+| Configurație | Preț estimat (montat) |
+|---|---|
+| Fereastră OB 100×120 cm, geam dublu Low-E | 480–640 EUR |
+| Fereastră OB 100×120 cm, geam triplu Low-E | 600–780 EUR |
+| Ușă balcon 80×210 cm, geam dublu Low-E | 720–950 EUR |
+| **Preț per mp montat** | **280–400 EUR/mp** |
+
+*Față de BluEvolution 92 standard: +15–20%. Față de aluminiu echivalent: -25–35%.*
+
+---
+
+## Solicită ofertă pentru export sau case de munte
+
+**WhatsApp:** +40 752 443 435 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**
+
+Comunicăm în română, engleză, franceză și germană. Livrăm în toată Europa UE — fără taxe vamale, cu documentație CE completă.`,
+
+      en: `## The Neofort BIZ Project — Export to France, Mountain House
+
+This project perfectly illustrates the intersection of **export**, **extreme climate** and **maximum thermal performance**. A Romanian client based in France, mountain house in the French alpine zone — clear requirements: aluminium appearance, PVC performance, resistance to severe climate.
+
+The solution: **Salamander BluEvolution 92 ALU**, the PVC profile with exterior aluminium cladding.
+
+---
+
+## What is BluEvolution 92 ALU aluminium clad?
+
+BluEvolution 92 ALU is NOT an aluminium profile. It is a **BluEvolution 92 PVC profile** (6 chambers, 92 mm, nZEB performance) with an **aluminium foil bonded to the exterior face** of the profile.
+
+| Feature | Standard PVC | Pure Aluminium | BluEvolution 92 ALU |
+|---|---|---|---|
+| Thermal insulation | ★★★★★ Excellent | ★★☆☆☆ Needs break | ★★★★★ Excellent |
+| UV resistance exterior | ★★★☆☆ Good (10 yr) | ★★★★★ 25 yr | ★★★★★ 25 yr |
+| Frost resistance | ★★★☆☆ Medium | ★★★★★ Excellent | ★★★★★ Excellent |
+| Extreme thermal variation | ★★★☆☆ Small deform | ★★★★★ Stable | ★★★★★ Stable |
+| Price vs pure aluminium | -40% | Reference | -20 to -30% |
+
+**Conclusion:** for a mountain house with harsh winters, intense UV at altitude and 60–70°C thermal variations between summer and winter, **BluEvolution 92 ALU is superior to both pure aluminium** (better thermal insulation) and standard PVC (incomparably better exterior resistance).
+
+---
+
+## Why alpine climate is hardest on windows
+
+At 1,000–2,000 m altitude: thermal variation of 55°C (vs 35°C at sea level), UV intensity 25–30% higher, snow accumulation on sills, wind gusts exceeding 100–120 km/h. BluEvolution 92 ALU handles all these with the aluminium foil as primary barrier.
+
+---
+
+## Indicative prices BluEvolution 92 ALU — 2026
+
+> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+
+| Configuration | Estimated price (installed) |
+|---|---|
+| Tilt-and-turn 100×120 cm, double Low-E | 480–640 EUR |
+| Tilt-and-turn 100×120 cm, triple Low-E | 600–780 EUR |
+| **Price per m² installed** | **280–400 EUR/m²** |
+
+*vs BluEvolution 92 standard: +15–20%. vs equivalent aluminium: -25–35%.*
+
+We communicate in Romanian, English, French and German. We deliver across the EU — no customs duties, complete CE documentation.
+
+**WhatsApp:** +40 752 443 435 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+
+      de: `## Das Neofort BIZ Projekt — Export nach Frankreich, Berghaus
+
+**Salamander BluEvolution 92 ALU** ist KEIN Aluminiumprofil. Es ist ein **BluEvolution 92 PVC-Profil** (6 Kammern, 92 mm, nZEB) mit einer **außen aufgeklebten Aluminiumfolie** — das Beste aus beiden Materialien.
+
+| Merkmal | Standard PVC | Reines Aluminium | BluEvolution 92 ALU |
+|---|---|---|---|
+| Wärmedämmung | ★★★★★ | ★★☆☆☆ | ★★★★★ |
+| UV-Beständigkeit außen | ★★★☆☆ (10 J.) | ★★★★★ (25 J.) | ★★★★★ (25 J.) |
+| Frostbeständigkeit | ★★★☆☆ | ★★★★★ | ★★★★★ |
+| Preis vs. reines Aluminium | -40% | Referenz | -20 bis -30% |
+
+**Für alpines Klima:** Temperaturschwankungen bis 55°C, UV-Intensität 25–30% höher als im Tiefland, Schneelast, Windböen > 100 km/h — BluEvolution 92 ALU ist für diese Bedingungen konzipiert.
+
+---
+
+## Richtpreise BluEvolution 92 ALU — 2026
+
+> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+
+| Konfiguration | Geschätzter Preis (montiert) |
+|---|---|
+| Dreh-Kipp 100×120 cm, Zweifach-Low-E | 480–640 EUR |
+| Dreh-Kipp 100×120 cm, Dreifach-Low-E | 600–780 EUR |
+| **Preis pro m² montiert** | **280–400 EUR/m²** |
+
+Wir liefern in der gesamten EU — keine Zölle, vollständige CE-Dokumentation.
+
+**WhatsApp:** +40 752 443 435 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+
+      fr: `## Le projet Neofort BIZ — export France, maison de montagne
+
+**Salamander BluEvolution 92 ALU** n'est PAS un profil aluminium. C'est un **profil PVC BluEvolution 92** (6 chambres, 92 mm, nZEB) avec une **feuille d'aluminium collée sur la face extérieure** — le meilleur des deux matériaux.
+
+| Caractéristique | PVC standard | Aluminium pur | BluEvolution 92 ALU |
+|---|---|---|---|
+| Isolation thermique | ★★★★★ | ★★☆☆☆ | ★★★★★ |
+| Résistance UV extérieur | ★★★☆☆ (10 ans) | ★★★★★ (25 ans) | ★★★★★ (25 ans) |
+| Résistance au gel | ★★★☆☆ | ★★★★★ | ★★★★★ |
+| Prix vs aluminium pur | -40% | Référence | -20 à -30% |
+
+**Pour le climat alpin :** variations thermiques jusqu'à 55°C, UV 25–30% plus intense qu'en plaine, accumulation de neige, rafales > 100 km/h — BluEvolution 92 ALU est conçu pour ces conditions.
+
+---
+
+## Prix indicatifs BluEvolution 92 ALU — 2026
+
+> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+
+| Configuration | Prix estimé (posé) |
+|---|---|
+| Oscillo-battant 100×120 cm, double Low-E | 480–640 EUR |
+| Oscillo-battant 100×120 cm, triple Low-E | 600–780 EUR |
+| **Prix par m² posé** | **280–400 EUR/m²** |
+
+Nous communiquons en roumain, anglais, français et allemand. Livraison dans toute l'UE — sans droits de douane, documentation CE complète.
+
+**WhatsApp :** +40 752 443 435 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+
+      es: `## El proyecto Neofort BIZ — exportación Francia, casa de montaña
+
+**Salamander BluEvolution 92 ALU** NO es un perfil de aluminio. Es un **perfil PVC BluEvolution 92** (6 cámaras, 92 mm, nZEB) con una **lámina de aluminio pegada en la cara exterior** — lo mejor de ambos materiales.
+
+| Característica | PVC estándar | Aluminio puro | BluEvolution 92 ALU |
+|---|---|---|---|
+| Aislamiento térmico | ★★★★★ | ★★☆☆☆ | ★★★★★ |
+| Resistencia UV exterior | ★★★☆☆ (10 años) | ★★★★★ (25 años) | ★★★★★ (25 años) |
+| Resistencia a heladas | ★★★☆☆ | ★★★★★ | ★★★★★ |
+| Precio vs aluminio puro | -40% | Referencia | -20 a -30% |
+
+**Para el clima alpino:** variaciones térmicas hasta 55°C, UV 25–30% más intenso que en el llano, acumulación de nieve, ráfagas > 100 km/h.
+
+---
+
+## Precios orientativos BluEvolution 92 ALU — 2026
+
+> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+
+| Configuración | Precio estimado (instalado) |
+|---|---|
+| Oscilobatiente 100×120 cm, doble Low-E | 480–640 EUR |
+| Oscilobatiente 100×120 cm, triple Low-E | 600–780 EUR |
+| **Precio por m² instalado** | **280–400 EUR/m²** |
+
+**WhatsApp:** +40 752 443 435 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+
+      it: `## Il progetto Neofort BIZ — esportazione Francia, casa di montagna
+
+**Salamander BluEvolution 92 ALU** NON è un profilo in alluminio. È un **profilo PVC BluEvolution 92** (6 camere, 92 mm, nZEB) con un **foglio di alluminio incollato sulla faccia esterna** — il meglio di entrambi i materiali.
+
+| Caratteristica | PVC standard | Alluminio puro | BluEvolution 92 ALU |
+|---|---|---|---|
+| Isolamento termico | ★★★★★ | ★★☆☆☆ | ★★★★★ |
+| Resistenza UV esterno | ★★★☆☆ (10 anni) | ★★★★★ (25 anni) | ★★★★★ (25 anni) |
+| Resistenza al gelo | ★★★☆☆ | ★★★★★ | ★★★★★ |
+| Prezzo vs alluminio puro | -40% | Riferimento | -20/-30% |
+
+**Per il clima alpino:** variazioni termiche fino a 55°C, UV 25–30% più intenso che in pianura, accumulo di neve, raffiche > 100 km/h.
+
+---
+
+## Prezzi indicativi BluEvolution 92 ALU — 2026
+
+> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+
+| Configurazione | Prezzo stimato (posato) |
+|---|---|
+| Ribaltabile 100×120 cm, doppio Low-E | 480–640 EUR |
+| Ribaltabile 100×120 cm, triplo Low-E | 600–780 EUR |
+| **Prezzo per m² posato** | **280–400 EUR/m²** |
+
+**WhatsApp:** +40 752 443 435 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+    },
+  },
+
+
 ];
 
 // Găsește articol după slug în orice limbă
