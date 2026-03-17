@@ -102,6 +102,22 @@ export const routing = defineRouting({
       es: '/blog/instalacion-premarcos-blaugelb-triotherm-nzeb',
       it: '/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb',
     },
+    '/blog/tamplarie-aluminiu-smart-home-ferestre-usi-inteligente': {
+      ro: '/blog/tamplarie-aluminiu-smart-home-ferestre-usi-inteligente',
+      en: '/blog/aluminium-windows-smart-home-automated-windows-doors',
+      de: '/blog/aluminiumfenster-smart-home-automatisierte-fenster-tueren',
+      fr: '/blog/menuiserie-aluminium-maison-intelligente-fenetres-portes-automatisees',
+      es: '/blog/carpinteria-aluminio-smart-home-ventanas-puertas-automatizadas',
+      it: '/blog/infissi-alluminio-smart-home-finestre-porte-automatizzate',
+    },
+    '/blog/pereti-cortina-birouri-bucuresti-ghid-complet-2026': {
+      ro: '/blog/pereti-cortina-birouri-bucuresti-ghid-complet-2026',
+      en: '/blog/curtain-wall-office-buildings-bucharest-complete-guide-2026',
+      de: '/blog/vorhangfassade-buerogebaeude-bukarest-komplett-leitfaden-2026',
+      fr: '/blog/mur-rideau-immeubles-bureaux-bucarest-guide-complet-2026',
+      es: '/blog/muro-cortina-edificios-oficinas-bucarest-guia-completa-2026',
+      it: '/blog/parete-cortina-edifici-uffici-bucarest-guida-completa-2026',
+    },
     '/blog/preturi-termopane-salamander-bucuresti': {
       ro: '/blog/preturi-termopane-salamander-bucuresti',
       en: '/blog/salamander-double-glazing-prices-bucharest',

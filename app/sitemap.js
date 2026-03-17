@@ -30,6 +30,22 @@ const BLOG_SLUGS = [
     it: 'installazione-precontrotelaio-blaugelb-triotherm-nzeb',
   },
   {
+    ro: 'tamplarie-aluminiu-smart-home-ferestre-usi-inteligente',
+    en: 'aluminium-windows-smart-home-automated-windows-doors',
+    de: 'aluminiumfenster-smart-home-automatisierte-fenster-tueren',
+    fr: 'menuiserie-aluminium-maison-intelligente-fenetres-portes-automatisees',
+    es: 'carpinteria-aluminio-smart-home-ventanas-puertas-automatizadas',
+    it: 'infissi-alluminio-smart-home-finestre-porte-automatizzate',
+  },
+  {
+    ro: 'pereti-cortina-birouri-bucuresti-ghid-complet-2026',
+    en: 'curtain-wall-office-buildings-bucharest-complete-guide-2026',
+    de: 'vorhangfassade-buerogebaeude-bukarest-komplett-leitfaden-2026',
+    fr: 'mur-rideau-immeubles-bureaux-bucarest-guide-complet-2026',
+    es: 'muro-cortina-edificios-oficinas-bucarest-guia-completa-2026',
+    it: 'parete-cortina-edifici-uffici-bucarest-guida-completa-2026',
+  },
+  {
     ro: 'preturi-termopane-salamander-bucuresti',
     en: 'salamander-double-glazing-prices-bucharest',
     de: 'salamander-isolierglas-preise-bukarest',

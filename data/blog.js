@@ -4732,6 +4732,962 @@ We work exclusively with Alumil: local stock (3–5 day delivery), best price-pe
     },
   },
 
+  // ─── ARTICOL 10: Tâmplărie aluminiu smart home ──────────────────────────
+  {
+    slugs: {
+      ro: 'tamplarie-aluminiu-smart-home-ferestre-usi-inteligente',
+      en: 'aluminium-windows-smart-home-automated-windows-doors',
+      de: 'aluminiumfenster-smart-home-automatisierte-fenster-tueren',
+      fr: 'menuiserie-aluminium-maison-intelligente-fenetres-portes-automatisees',
+      es: 'carpinteria-aluminio-smart-home-ventanas-puertas-automatizadas',
+      it: 'infissi-alluminio-smart-home-finestre-porte-automatizzate',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Smart Home & Automatizare', en:'Smart Home & Automation', de:'Smart Home & Automatisierung', fr:'Maison Intelligente & Automatisation', es:'Casa Inteligente & Automatización', it:'Casa Intelligente & Automazione' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-tamplarie-aluminiu-smart-home.avif',
+      en: '/blog/blog-tamplarie-aluminiu-smart-home.avif',
+      de: '/blog/blog-tamplarie-aluminiu-smart-home.avif',
+      fr: '/blog/blog-tamplarie-aluminiu-smart-home.avif',
+      es: '/blog/blog-tamplarie-aluminiu-smart-home.avif',
+      it: '/blog/blog-tamplarie-aluminiu-smart-home.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0d1a2a 0%,#1a3a5c 60%,#2d5a8e 100%)',
+    imageLabel: 'Smart Home 2026',
+    accentColor: '#2d5a8e',
+    title: {
+      ro: 'Tâmplărie aluminiu smart home 2026 — ferestre și uși inteligente cu Somfy, KNX și Apple HomeKit',
+      en: 'Smart home aluminium windows 2026 — intelligent windows and doors with Somfy, KNX and Apple HomeKit',
+      de: 'Smart Home Aluminiumfenster 2026 — intelligente Fenster und Türen mit Somfy, KNX und Apple HomeKit',
+      fr: 'Menuiserie aluminium maison intelligente 2026 — fenêtres et portes connectées Somfy, KNX et Apple HomeKit',
+      es: 'Carpintería aluminio smart home 2026 — ventanas y puertas inteligentes con Somfy, KNX y Apple HomeKit',
+      it: 'Infissi alluminio smart home 2026 — finestre e porte intelligenti con Somfy, KNX e Apple HomeKit',
+    },
+    excerpt: {
+      ro: 'Tâmplăria din aluminiu este singurul material de fereastră compatibil nativ cu automatizarea completă smart home. Motorizare Somfy sau Nice, integrare KNX, Apple HomeKit, Google Home și Amazon Alexa — ghid complet pentru ferestre și uși glisante inteligente în București 2026.',
+      en: 'Aluminium joinery is the only window material natively compatible with complete smart home automation. Somfy or Nice motorisation, KNX integration, Apple HomeKit, Google Home and Amazon Alexa — complete guide for smart windows and sliding doors in Bucharest 2026.',
+      de: 'Aluminiumtischlerarbeiten sind das einzige Fenstermaterial, das nativ mit vollständiger Smart-Home-Automatisierung kompatibel ist. Somfy- oder Nice-Motorisierung, KNX-Integration, Apple HomeKit, Google Home und Amazon Alexa — Komplettleitfaden für intelligente Fenster in Bukarest 2026.',
+      fr: "La menuiserie aluminium est le seul matériau de fenêtre nativement compatible avec l'automatisation complète maison intelligente. Motorisation Somfy ou Nice, intégration KNX, Apple HomeKit, Google Home et Amazon Alexa — guide complet pour fenêtres et portes coulissantes intelligentes à Bucarest 2026.",
+      es: 'La carpintería de aluminio es el único material de ventana nativamente compatible con la automatización completa smart home. Motorización Somfy o Nice, integración KNX, Apple HomeKit, Google Home y Amazon Alexa — guía completa para ventanas y puertas correderas inteligentes en Bucarest 2026.',
+      it: "Gli infissi in alluminio sono l'unico materiale per finestre nativamente compatibile con l'automazione completa smart home. Motorizzazione Somfy o Nice, integrazione KNX, Apple HomeKit, Google Home e Amazon Alexa — guida completa per finestre e porte scorrevoli intelligenti a Bucarest 2026.",
+    },
+    metaDesc: {
+      ro: 'Tâmplărie aluminiu smart home București 2026: ferestre motorizate Somfy/Nice, integrare KNX și Apple HomeKit, uși glisante automate, senzori vânt și lumină. Sisteme Alumil compatibile smart home — Neofort BIZ.',
+      en: 'Smart home aluminium windows Bucharest 2026: Somfy/Nice motorised windows, KNX and Apple HomeKit integration, automated sliding doors, wind and light sensors. Alumil systems compatible with smart home — Neofort BIZ.',
+      de: 'Smart Home Aluminiumfenster Bukarest 2026: Somfy/Nice motorisierte Fenster, KNX und Apple HomeKit Integration, automatische Schiebetüren, Wind- und Lichtsensoren. Alumil Systeme smart home kompatibel — Neofort BIZ.',
+      fr: 'Menuiserie aluminium smart home Bucarest 2026 : fenêtres motorisées Somfy/Nice, intégration KNX et Apple HomeKit, portes coulissantes automatiques, capteurs vent et lumière. Systèmes Alumil compatibles maison intelligente — Neofort BIZ.',
+      es: 'Carpintería aluminio smart home Bucarest 2026: ventanas motorizadas Somfy/Nice, integración KNX y Apple HomeKit, puertas correderas automáticas, sensores viento y luz. Sistemas Alumil compatibles smart home — Neofort BIZ.',
+      it: 'Infissi alluminio smart home Bucarest 2026: finestre motorizzate Somfy/Nice, integrazione KNX e Apple HomeKit, porte scorrevoli automatiche, sensori vento e luce. Sistemi Alumil compatibili smart home — Neofort BIZ.',
+    },
+    keywords: 'tamplarie aluminiu smart home, ferestre aluminiu automatizate, fereastra aluminiu motor electric, usa glisanta automata aluminiu, Somfy ferestre aluminiu, KNX tamplarie aluminiu, Apple HomeKit ferestre, Google Home ferestre, feronerie automatizata aluminiu Bucuresti',
+    content: {
+      ro: `## De ce aluminiul este materialul ideal pentru smart home
+
+Când vorbim despre case inteligente, materialul ferestrei nu pare relevant la prima vedere. Dar în practică, **aluminiul are un avantaj structural decisiv față de PVC**: rigiditatea profilului permite montarea motoarelor electrice direct în toc sau în sistemul de feronerie, fără deformări în timp.
+
+Un profil PVC se deformează termic cu 2–3 mm la variații de 40°C — suficient pentru a bloca un motor de 24V montat în rama ferestrei. Aluminiul are dilatare termică de 6× mai mică, menținând toleranțele necesare pentru mecanisme automate pe 20–30 ani.
+
+**Concluzie practică:** dacă construiești sau renovezi o casă cu viziune smart home, tâmplăria din aluminiu nu este o opțiune — este singurul material care garantează funcționarea sistemelor automate pe termen lung.
+
+---
+
+## Ce sisteme de automatizare sunt compatibile cu tâmplăria aluminiu Alumil
+
+### Somfy — standardul de facto pentru rezidențial
+
+**Somfy** este cel mai utilizat sistem de automatizare pentru tâmplărie rezidențială în Europa. Compatibilitate nativă cu toate sistemele Alumil Supreme și Smartia.
+
+**Motoare Somfy compatibile cu tâmplăria aluminiu:**
+
+- **Somfy Yslo Extend io** — motor tubular pentru uși glisante și liftant-glisante. Forță 160N, cursă reglabilă, compatibil TaHoma Switch.
+- **Somfy Chronis io** — motor cu programator astronomic integrat. Deschidere/închidere automată la apus/răsărit, fără hub extern.
+- **Somfy Connexoon** — hub WiFi de intrare, controlează până la 30 motoare prin aplicația mobilă. Compatibil Apple HomeKit, Google Home, Amazon Alexa.
+- **Somfy TaHoma Switch** — hub premium KNX/io/RTS, integrare completă cu sisteme BMS.
+
+**Protocol io-homecontrol** — protocolul Somfy proprietar, criptat, rază 20m cu mesh între dispozitive. Toate motorele io sunt compatibile între ele și cu aplicațiile Somfy.
+
+### Nice — alternativa europeană competitivă
+
+**Nice** (Italia) este a doua opțiune ca volum pe piața românească. Raport calitate-preț ușor mai bun față de Somfy la motoare entry-level.
+
+- **Nice Era One** — motor pentru uși glisante, forță 100N, WiFi integrat
+- **Nice Home** — aplicație mobilă și hub pentru până la 100 dispozitive
+- **Nice IFTTT** — integrare cu platforme terțe prin webhook
+
+### KNX — standardul pentru proiecte premium și clădiri smart
+
+**KNX** este protocolul deschis european pentru automatizarea clădirilor (EN 50090). Spre deosebire de Somfy și Nice (sisteme proprietare), KNX este un standard deschis — orice dispozitiv KNX funcționează cu orice alt dispozitiv KNX, indiferent de producător.
+
+**Când alegi KNX față de Somfy:**
+- Proiect de casă nouă cu automatizare completă (iluminat + climatizare + tâmplărie)
+- Buget de proiect peste 15.000–20.000 EUR pentru automatizare
+- Arhitect sau integrator de sisteme specificat KNX
+- Vrei un sistem cu suport tehnic garantat pe 20+ ani
+
+**Compatibilitate Alumil cu KNX:** sistemele Supreme SF85 și Smartia S67 cu motorare Geze sau Winkhaus pot fi integrate direct în rețeaua KNX prin actuatoare compatibile. Neofort BIZ colaborează cu integratori KNX certificați din București pentru proiecte complete.
+
+---
+
+## Integrare cu ecosisteme smart home majore
+
+### Apple HomeKit
+
+Apple HomeKit necesită un **homebridge** sau dispozitive native HomeKit. Somfy TaHoma Switch și Nice Home sunt compatibile HomeKit nativ din 2024 — ferestrele apar ca accesorii în aplicația Casa pe iPhone/iPad/Mac.
+
+**Ce poți face cu HomeKit + ferestre aluminiu:**
+- Deschidere automată la ora setată sau la temperatura camerei
+- Scenarii: „Plecare acasă" → închide toate ferestrele
+- Notificări dacă o fereastră a rămas deschisă când pleci
+- Control vocal Siri: „Hey Siri, închide ferestrele din dormitor"
+
+### Google Home & Amazon Alexa
+
+Compatibilitate nativă prin Somfy Connexoon sau Nice Home. Configurare în 5 minute prin aplicațiile Google Home sau Alexa.
+
+**Control vocal:** „Ok Google, deschide ușa de la terasă" → motorul liftant-glisant activat instant.
+
+### KNX + Control4 / Crestron / Loxone (proiecte premium)
+
+Pentru vile și case de 500+ mp, integratorii folosesc platforme de control centralizat **Control4**, **Crestron** sau **Loxone**. Acestea controlează toate sistemele casei — climatizare, iluminat, securitate, tâmplărie — dintr-o singură interfață.
+
+**Loxone** este cel mai popular în România pentru proiecte rezidențiale premium. Un proiect Loxone complet pentru o casă de 200 mp costă 8.000–20.000 EUR inclusiv hardware, programare și punere în funcțiune.
+
+---
+
+## Sisteme Alumil recomandate pentru smart home
+
+### Alumil S700 Supreme — liftant-glisant smart
+
+**Sistemul ideal pentru terase smart home.** Motorul electric se integrează în profilul inferior al ghidajului — invizibil estetic, silențios (< 45 dB), forță 500N suficientă pentru panouri de 400 kg.
+
+- Compatibilitate: Somfy, Nice, Geze, Winkhaus
+- Deschidere maximă automată: 5.000 mm
+- Viteză deschidere: 12–18 mm/s (panou 3m deschis în ~4 minute)
+- Senzor obstacol: oprire automată la rezistență neașteptată
+
+### Alumil S350 Smartia — culisant automat
+
+**Sistemul economic pentru terase și dormitoare.** Forță motor necesară mai mică față de S700 — compatibil și cu motoare entry-level Nice Era One.
+
+- Compatibilitate: Nice, Somfy Yslo
+- Cost motorare: 800–1.500 EUR per sistem complet
+
+### Alumil SF85 Supreme — ferestre oscilo-batante motorízate
+
+**Ferestre standard cu automatizare completă.** Motorul de lanț (chain actuator) se montează în toc, invizibil din interior. Ideal pentru ferestre la înălțime mare sau ventilație automată controlată de CO2.
+
+- Compatibilitate: Somfy, Nice, Geze
+- Senzor CO2 opțional: deschidere automată când CO2 depășește 1000 ppm
+- Senzor ploaie: închidere automată în 30 secunde de la primele picături
+
+---
+
+## Senzori esențiali pentru tâmplărie aluminiu smart
+
+**Senzor vânt** — obligatoriu pentru uși glisante motorízate. Închidere automată la 45–60 km/h. Fără senzor de vânt, un panou de 300 kg în mișcare la rafale poate deteriora ghidajele.
+
+**Senzor ploaie** — integrare cu ferestre motorízate și sistemul de umbrire (Zipscreen/Raffstore). La ploaie, ferestre se închid și rulourile se ridică automat.
+
+**Senzor prezență** — deschidere automată la apropierea de ușa de intrare sau de terasa. Standard în proiectele KNX.
+
+**Senzor CO2/calitate aer** — deschidere automată a ferestrelor când CO2 depășește pragul setat. Important pentru dormitoare și birouri.
+
+---
+
+## Costuri automatizare tâmplărie aluminiu — 2026
+
+> ⚠️ **Notă importantă:** Prețurile de mai jos sunt orientative și se pot modifica în funcție de evoluția pieței. Solicitați întotdeauna o ofertă actualizată.
+
+| Sistem | Configurație | Cost estimat |
+|---|---|---|
+| Somfy Yslo io | Motor per sistem glisant | 350–600 EUR |
+| Nice Era One | Motor per sistem glisant | 280–480 EUR |
+| Somfy Connexoon Hub | Control până la 30 motoare | 180–250 EUR |
+| Somfy TaHoma Switch | Hub premium KNX | 450–650 EUR |
+| Senzor vânt Somfy | Per instalație | 80–150 EUR |
+| Senzor ploaie | Per instalație | 60–120 EUR |
+| Integrare KNX completă | Per proiect casă 150 mp | 5.000–15.000 EUR |
+| Loxone complet | Per proiect casă 200 mp | 8.000–20.000 EUR |
+
+**Cost motorare terasa liftant-glisant (S700, 3m):** 1.200–2.500 EUR inclusiv motor, hub Somfy și configurare.
+
+---
+
+## Cum comanda tâmplărie aluminiu pregătită pentru smart home
+
+La Neofort BIZ, livrăm sisteme Alumil **pre-configurate pentru motorare** — cu locașurile pentru motoare pregătite în profil, cablajul electric preluat din toc și conexiunile pentru senzori integrate din fabrică. Nu ești nevoit să demolezi după montaj pentru a adăuga automatizare.
+
+**Recomandarea noastră:** chiar dacă nu vrei automatizare imediat, comandă tâmplăria cu pregătire pentru motor. Costul suplimentar este de 50–150 EUR per sistem glisant — față de 500–1.000 EUR dacă adaugi motorarea ulterior prin modificări.
+
+**WhatsApp:** +40 752 443 435 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+
+      en: `## Why aluminium is the ideal material for smart home
+
+When it comes to smart homes, the window material seems irrelevant at first glance. But in practice, **aluminium has a decisive structural advantage over PVC**: profile rigidity allows electric motors to be mounted directly in the frame or hardware system, without deformation over time.
+
+A PVC profile deforms thermally by 2–3 mm at 40°C temperature variations — enough to jam a 24V motor mounted in the window frame. Aluminium has 6× lower thermal expansion, maintaining the tolerances required for automatic mechanisms over 20–30 years.
+
+**Practical conclusion:** if you are building or renovating a house with a smart home vision, aluminium joinery is not an option — it is the only material that guarantees long-term operation of automatic systems.
+
+---
+
+## Compatible automation systems for Alumil aluminium joinery
+
+### Somfy — the de facto residential standard
+
+**Somfy** is the most widely used home joinery automation system in Europe. Native compatibility with all Alumil Supreme and Smartia systems.
+
+**Somfy motors compatible with aluminium joinery:**
+- **Somfy Yslo Extend io** — tubular motor for sliding and lift-and-slide doors. Force 160N, adjustable stroke, TaHoma Switch compatible.
+- **Somfy Chronis io** — motor with integrated astronomical programmer. Automatic opening/closing at sunset/sunrise, no external hub.
+- **Somfy TaHoma Switch** — premium KNX/io/RTS hub, full integration with BMS systems.
+
+### Nice — the competitive European alternative
+
+**Nice** (Italy) is the second option by volume on the Romanian market. Slightly better value at entry-level motors.
+
+### KNX — the standard for premium projects
+
+**KNX** is the open European protocol for building automation (EN 50090). Unlike Somfy and Nice (proprietary systems), KNX is an open standard — any KNX device works with any other KNX device regardless of manufacturer.
+
+**Choose KNX over Somfy when:**
+- New house project with complete automation (lighting + climate + joinery)
+- Project budget over EUR 15,000–20,000 for automation
+- Architect or systems integrator has specified KNX
+
+---
+
+## Integration with major smart home ecosystems
+
+### Apple HomeKit
+Somfy TaHoma Switch and Nice Home are natively HomeKit compatible since 2024. Windows appear as accessories in the Home app on iPhone/iPad/Mac.
+
+**Voice control Siri:** "Hey Siri, close the bedroom windows"
+
+### Google Home & Amazon Alexa
+Native compatibility via Somfy Connexoon or Nice Home. 5-minute setup.
+
+**Voice control:** "Ok Google, open the terrace door"
+
+### Loxone (premium residential projects)
+Most popular in Romania for premium residential projects. A complete Loxone project for a 200 m² house costs EUR 8,000–20,000 including hardware, programming and commissioning.
+
+---
+
+## Recommended Alumil systems for smart home
+
+**Alumil S700 Supreme** — lift-and-slide: ideal for smart terraces. Silent motor (< 45 dB), force 500N, opening up to 5,000 mm.
+
+**Alumil S350 Smartia** — sliding: economical system for terraces and bedrooms.
+
+**Alumil SF85 Supreme** — tilt-and-turn motorised: chain actuator mounted invisibly in frame. Optional CO2 sensor: automatic opening when CO2 exceeds 1,000 ppm.
+
+---
+
+## Automation costs — indicative 2026
+
+> ⚠️ **Important note:** All prices are indicative and subject to change. Always request an updated quote.
+
+| System | Configuration | Estimated cost |
+|---|---|---|
+| Somfy Yslo io | Motor per sliding system | 350–600 EUR |
+| Nice Era One | Motor per sliding system | 280–480 EUR |
+| Somfy Connexoon Hub | Control up to 30 motors | 180–250 EUR |
+| Somfy TaHoma Switch | Premium KNX hub | 450–650 EUR |
+| Wind sensor | Per installation | 80–150 EUR |
+| Complete KNX integration | Per 150 m² house project | 5,000–15,000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+
+      de: `## Warum Aluminium das ideale Material für Smart Home ist
+
+Aluminium hat einen entscheidenden strukturellen Vorteil gegenüber PVC: die Profilsteifigkeit ermöglicht die direkte Montage von Elektromotoren in Rahmen oder Beschlagsystem, ohne Verformung im Laufe der Zeit.
+
+Ein PVC-Profil verformt sich bei 40°C Temperaturschwankungen thermisch um 2–3 mm — genug, um einen 24V-Motor zu blockieren. Aluminium hat eine 6× geringere Wärmedehnung.
+
+---
+
+## Kompatible Automatisierungssysteme für Alumil Aluminiumfenster
+
+### Somfy — der De-facto-Wohnstandard
+Somfy ist das meistgenutzte Fensterautomatisierungssystem in Europa. Native Kompatibilität mit allen Alumil Supreme und Smartia Systemen.
+
+- **Somfy Yslo Extend io** — Rohrmotor für Schiebe- und Hebeschiebetüren, Kraft 160N
+- **Somfy TaHoma Switch** — Premium KNX/io/RTS Hub
+- **Somfy Connexoon** — WiFi Hub, Apple HomeKit, Google Home, Amazon Alexa kompatibel
+
+### KNX — Standard für Premium-Projekte
+KNX ist das offene europäische Protokoll für Gebäudeautomation (EN 50090). Alle KNX-Geräte sind untereinander kompatibel, unabhängig vom Hersteller.
+
+### Loxone — beliebteste Premium-Lösung in Rumänien
+Komplettes Loxone-Projekt für ein 200 m² Haus: 8.000–20.000 EUR inklusive Hardware, Programmierung und Inbetriebnahme.
+
+---
+
+## Empfohlene Alumil-Systeme für Smart Home
+
+**Alumil S700 Supreme** — Hebeschiebesystem: ideal für Smart-Terrassen. Stiller Motor (< 45 dB), Kraft 500N, Öffnung bis 5.000 mm.
+
+**Alumil SF85 Supreme** — motorisierte Dreh-Kipp-Fenster: Kettenantrieb unsichtbar im Rahmen montiert. Optionaler CO2-Sensor: automatisches Öffnen bei CO2 > 1.000 ppm.
+
+---
+
+## Automatisierungskosten — orientativ 2026
+
+> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+
+| System | Konfiguration | Geschätzter Preis |
+|---|---|---|
+| Somfy Yslo io | Motor pro Schiebesystem | 350–600 EUR |
+| Nice Era One | Motor pro Schiebesystem | 280–480 EUR |
+| Somfy TaHoma Switch | Premium KNX Hub | 450–650 EUR |
+| KNX-Integration komplett | Haus 150 m² | 5.000–15.000 EUR |
+| Loxone komplett | Haus 200 m² | 8.000–20.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+
+      fr: `## Pourquoi l'aluminium est le matériau idéal pour la maison intelligente
+
+L'aluminium a un avantage structurel décisif sur le PVC : la rigidité du profil permet de monter des moteurs électriques directement dans le dormant ou le système de quincaillerie, sans déformation dans le temps.
+
+Un profil PVC se déforme thermiquement de 2–3 mm à des variations de 40°C — suffisant pour bloquer un moteur 24V monté dans le cadre. L'aluminium a une dilatation thermique 6× plus faible.
+
+---
+
+## Systèmes d'automatisation compatibles avec la menuiserie Alumil
+
+### Somfy — le standard de facto résidentiel
+Somfy est le système d'automatisation de menuiserie le plus utilisé en Europe. Compatibilité native avec tous les systèmes Alumil Supreme et Smartia.
+
+- **Somfy Yslo Extend io** — moteur tubulaire pour portes coulissantes et levant-coulissantes, force 160N
+- **Somfy TaHoma Switch** — hub premium KNX/io/RTS
+- **Somfy Connexoon** — hub WiFi, compatible Apple HomeKit, Google Home, Amazon Alexa
+
+### KNX — standard pour projets premium
+KNX est le protocole européen ouvert pour la domotique (EN 50090). Tous les appareils KNX sont interopérables, quel que soit le fabricant.
+
+### Loxone — solution premium la plus populaire en Roumanie
+Projet Loxone complet pour une maison de 200 m² : 8.000–20.000 EUR incluant matériel, programmation et mise en service.
+
+---
+
+## Systèmes Alumil recommandés pour maison intelligente
+
+**Alumil S700 Supreme** — levant-coulissant : idéal pour terrasses connectées. Moteur silencieux (< 45 dB), force 500N, ouverture jusqu'à 5.000 mm.
+
+**Alumil SF85 Supreme** — fenêtres oscillo-battantes motorisées : actionneur à chaîne monté invisiblement dans le dormant. Capteur CO2 optionnel : ouverture automatique au-dessus de 1.000 ppm.
+
+---
+
+## Coûts d'automatisation — indicatifs 2026
+
+> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+
+| Système | Configuration | Coût estimé |
+|---|---|---|
+| Somfy Yslo io | Moteur par système coulissant | 350–600 EUR |
+| Nice Era One | Moteur par système coulissant | 280–480 EUR |
+| Somfy TaHoma Switch | Hub premium KNX | 450–650 EUR |
+| Intégration KNX complète | Maison 150 m² | 5.000–15.000 EUR |
+| Loxone complet | Maison 200 m² | 8.000–20.000 EUR |
+
+**WhatsApp :** +40 752 443 435 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+
+      es: `## Por qué el aluminio es el material ideal para el smart home
+
+El aluminio tiene una ventaja estructural decisiva sobre el PVC: la rigidez del perfil permite montar motores eléctricos directamente en el marco o en el sistema de herrajes, sin deformación a lo largo del tiempo.
+
+Un perfil de PVC se deforma térmicamente 2–3 mm con variaciones de 40°C — suficiente para bloquear un motor de 24V. El aluminio tiene una dilatación térmica 6× menor.
+
+---
+
+## Sistemas de automatización compatibles con la carpintería Alumil
+
+### Somfy — el estándar de facto residencial
+Somfy es el sistema de automatización de carpintería más utilizado en Europa. Compatibilidad nativa con todos los sistemas Alumil Supreme y Smartia.
+
+- **Somfy Yslo Extend io** — motor tubular para puertas correderas y elevadoras, fuerza 160N
+- **Somfy TaHoma Switch** — hub premium KNX/io/RTS
+- **Somfy Connexoon** — hub WiFi, compatible Apple HomeKit, Google Home, Amazon Alexa
+
+### KNX — estándar para proyectos premium
+KNX es el protocolo europeo abierto para la domótica (EN 50090). Todos los dispositivos KNX son interoperables, independientemente del fabricante.
+
+---
+
+## Sistemas Alumil recomendados para smart home
+
+**Alumil S700 Supreme** — elevadora corredera: ideal para terrazas inteligentes. Motor silencioso (< 45 dB), fuerza 500N, apertura hasta 5.000 mm.
+
+**Alumil SF85 Supreme** — ventanas oscilobatientes motorizadas: actuador de cadena montado invisiblemente en el marco. Sensor CO2 opcional: apertura automática por encima de 1.000 ppm.
+
+---
+
+## Costes de automatización — orientativos 2026
+
+> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+
+| Sistema | Configuración | Coste estimado |
+|---|---|---|
+| Somfy Yslo io | Motor por sistema corredera | 350–600 EUR |
+| Nice Era One | Motor por sistema corredera | 280–480 EUR |
+| Somfy TaHoma Switch | Hub premium KNX | 450–650 EUR |
+| Integración KNX completa | Casa 150 m² | 5.000–15.000 EUR |
+| Loxone completo | Casa 200 m² | 8.000–20.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+
+      it: `## Perché l'alluminio è il materiale ideale per lo smart home
+
+L'alluminio ha un vantaggio strutturale decisivo rispetto al PVC: la rigidità del profilo consente di montare motori elettrici direttamente nel telaio o nel sistema di ferramenta, senza deformazione nel tempo.
+
+Un profilo PVC si deforma termicamente di 2–3 mm a variazioni di 40°C — sufficiente per bloccare un motore 24V. L'alluminio ha una dilatazione termica 6× inferiore.
+
+---
+
+## Sistemi di automazione compatibili con la falegnameria Alumil
+
+### Somfy — lo standard de facto residenziale
+Somfy è il sistema di automazione per serramenti più utilizzato in Europa. Compatibilità nativa con tutti i sistemi Alumil Supreme e Smartia.
+
+- **Somfy Yslo Extend io** — motore tubolare per porte scorrevoli e alzanti, forza 160N
+- **Somfy TaHoma Switch** — hub premium KNX/io/RTS
+- **Somfy Connexoon** — hub WiFi, compatibile Apple HomeKit, Google Home, Amazon Alexa
+
+### KNX — standard per progetti premium
+KNX è il protocollo europeo aperto per la domotica (EN 50090). Tutti i dispositivi KNX sono interoperabili, indipendentemente dal produttore.
+
+### Loxone — soluzione premium più popolare in Romania
+Progetto Loxone completo per una casa di 200 m²: 8.000–20.000 EUR inclusi hardware, programmazione e messa in servizio.
+
+---
+
+## Sistemi Alumil consigliati per smart home
+
+**Alumil S700 Supreme** — alzante scorrevole: ideale per terrazze intelligenti. Motore silenzioso (< 45 dB), forza 500N, apertura fino a 5.000 mm.
+
+**Alumil SF85 Supreme** — finestre ribaltabili motorizzate: attuatore a catena montato invisibilmente nel telaio. Sensore CO2 opzionale: apertura automatica oltre 1.000 ppm.
+
+---
+
+## Costi di automazione — indicativi 2026
+
+> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+
+| Sistema | Configurazione | Costo stimato |
+|---|---|---|
+| Somfy Yslo io | Motore per sistema scorrevole | 350–600 EUR |
+| Nice Era One | Motore per sistema scorrevole | 280–480 EUR |
+| Somfy TaHoma Switch | Hub premium KNX | 450–650 EUR |
+| Integrazione KNX completa | Casa 150 m² | 5.000–15.000 EUR |
+| Loxone completo | Casa 200 m² | 8.000–20.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+    },
+  },
+
+  // ─── ARTICOL 11: Pereți cortină birouri București ────────────────────────
+  {
+    slugs: {
+      ro: 'pereti-cortina-birouri-bucuresti-ghid-complet-2026',
+      en: 'curtain-wall-office-buildings-bucharest-complete-guide-2026',
+      de: 'vorhangfassade-buerogeb%C3%A4ude-bukarest-komplett-leitfaden-2026',
+      fr: 'mur-rideau-immeubles-bureaux-bucarest-guide-complet-2026',
+      es: 'muro-cortina-edificios-oficinas-bucarest-guia-completa-2026',
+      it: 'parete-cortina-edifici-uffici-bucarest-guida-completa-2026',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Pereți Cortină & Birouri', en:'Curtain Wall & Offices', de:'Vorhangfassade & Büros', fr:'Mur Rideau & Bureaux', es:'Muro Cortina & Oficinas', it:'Parete Cortina & Uffici' },
+    readTime: { ro:'10 min citire', en:'10 min read', de:'10 Min.', fr:'10 min', es:'10 min', it:'10 min' },
+    image: {
+      ro: '/blog/blog-pereti-cortina-birouri.avif',
+      en: '/blog/blog-pereti-cortina-birouri.avif',
+      de: '/blog/blog-pereti-cortina-birouri.avif',
+      fr: '/blog/blog-pereti-cortina-birouri.avif',
+      es: '/blog/blog-pereti-cortina-birouri.avif',
+      it: '/blog/blog-pereti-cortina-birouri.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1020 0%,#1a2a40 60%,#2a4060 100%)',
+    imageLabel: 'Birouri & Fațade',
+    accentColor: '#1a3a5c',
+    title: {
+      ro: 'Pereți cortină pentru clădiri de birouri București — ghid complet 2026: sisteme, prețuri și proiectare',
+      en: 'Curtain walls for office buildings in Bucharest — complete guide 2026: systems, prices and design',
+      de: 'Vorhangfassaden für Bürogebäude in Bukarest — Komplettleitfaden 2026: Systeme, Preise und Planung',
+      fr: 'Murs rideaux pour immeubles de bureaux à Bucarest — guide complet 2026 : systèmes, prix et conception',
+      es: 'Muros cortina para edificios de oficinas en Bucarest — guía completa 2026: sistemas, precios y diseño',
+      it: 'Pareti cortina per edifici per uffici a Bucarest — guida completa 2026: sistemi, prezzi e progettazione',
+    },
+    excerpt: {
+      ro: 'Piața de birouri din București a livrat peste 250.000 mp de spații noi în 2024–2025, toate cu cerință de fațadă cortină certificată. Ghid complet pentru dezvoltatori și arhitecți: ce sisteme Alumil sunt disponibile în stoc la București, cum se calculează un proiect de perete cortină și ce costuri reale să aștepți în 2026.',
+      en: 'The Bucharest office market delivered over 250,000 m² of new space in 2024–2025, all requiring certified curtain wall facades. Complete guide for developers and architects: which Alumil systems are in stock in Bucharest, how to calculate a curtain wall project and what real costs to expect in 2026.',
+      de: 'Der Bukarester Büromarkt lieferte 2024–2025 über 250.000 m² neue Flächen, alle mit Anforderung an zertifizierte Vorhangfassaden. Komplettleitfaden für Entwickler und Architekten: welche Alumil-Systeme in Bukarest vorrätig sind, wie ein Vorhangfassadenprojekt berechnet wird und welche realen Kosten 2026 zu erwarten sind.',
+      fr: "Le marché des bureaux à Bucarest a livré plus de 250 000 m² de nouveaux espaces en 2024–2025, tous avec exigence de façade rideau certifiée. Guide complet pour promoteurs et architectes : quels systèmes Alumil sont disponibles en stock à Bucarest, comment calculer un projet de mur rideau et quels coûts réels attendre en 2026.",
+      es: 'El mercado de oficinas de Bucarest entregó más de 250.000 m² de nuevos espacios en 2024–2025, todos con requisito de fachada cortina certificada. Guía completa para promotores y arquitectos: qué sistemas Alumil están en stock en Bucarest, cómo calcular un proyecto de muro cortina y qué costes reales esperar en 2026.',
+      it: 'Il mercato degli uffici di Bucarest ha consegnato oltre 250.000 m² di nuovi spazi nel 2024–2025, tutti con requisito di facciata continua certificata. Guida completa per sviluppatori e architetti: quali sistemi Alumil sono disponibili in stock a Bucarest, come calcolare un progetto di parete cortina e quali costi reali aspettarsi nel 2026.',
+    },
+    metaDesc: {
+      ro: 'Pereți cortină birouri București 2026: sisteme Alumil CW50/CW60, prețuri 800–2.500 lei/mp, proiectare fațadă sticlă, certificare energetică clădiri comerciale. Expertiză Neofort BIZ pentru proiecte mari.',
+      en: 'Curtain walls office buildings Bucharest 2026: Alumil CW50/CW60 systems, prices 160–500 EUR/m², glass facade design, energy certification commercial buildings. Neofort BIZ expertise for large projects.',
+      de: 'Vorhangfassaden Bürogebäude Bukarest 2026: Alumil CW50/CW60 Systeme, Preise 160–500 EUR/m², Glasfassadenplanung, Energiezertifizierung Gewerbegebäude. Neofort BIZ Expertise für Großprojekte.',
+      fr: 'Murs rideaux immeubles bureaux Bucarest 2026 : systèmes Alumil CW50/CW60, prix 160–500 EUR/m², conception façade verre, certification énergétique bâtiments commerciaux. Expertise Neofort BIZ pour grands projets.',
+      es: 'Muros cortina edificios oficinas Bucarest 2026: sistemas Alumil CW50/CW60, precios 160–500 EUR/m², diseño fachada vidrio, certificación energética edificios comerciales. Experiencia Neofort BIZ para grandes proyectos.',
+      it: 'Pareti cortina edifici uffici Bucarest 2026: sistemi Alumil CW50/CW60, prezzi 160–500 EUR/m², progettazione facciata vetro, certificazione energetica edifici commerciali. Esperienza Neofort BIZ per grandi progetti.',
+    },
+    keywords: 'pereti cortina birouri Bucuresti, fatada sticla cladire birouri pret, perete cortina Alumil pret mp, fatade comerciale aluminiu Bucuresti, perete cortina structural Bucuresti, proiectare fatada cortina, perete cortina pret 2026, fatada ventilata aluminiu birouri',
+    content: {
+      ro: `## Piața de birouri din București și cerința de fațadă modernă
+
+Bucureștiul este cel mai activ piață de birouri din Europa de Sud-Est. În 2024–2025, stocul modern de birouri a depășit **4 milioane mp**, cu 15–20 proiecte noi anual în zone precum Floreasca-Barbu Văcărescu, Pipera, Centru-Vest și Timpuri Noi.
+
+**Standardul de facto** pentru orice clădire de birouri de clasă A din București în 2026 este fațada cortină din aluminiu și sticlă — cerință impusă de chiriașii corporativi (multinaționale), de standardele de certificare energetică (BREEAM, LEED, DGNB) și de normele de eficiență energetică europene.
+
+Neofort BIZ lucrează direct cu **dezvoltatori imobiliari, arhitecți și antreprenori generali** din București pentru livrarea și montajul sistemelor Alumil de pereți cortină. Această pagină centralizează tot ce trebuie să știi înainte de a deschide un dosar de proiect.
+
+---
+
+## Ce face o fațadă cortină potrivită pentru birouri
+
+Spre deosebire de o clădire rezidențială, o fațadă de birouri trebuie să îndeplinească simultan **cerințe tehnice, estetice și de certificare** mult mai stricte:
+
+**Cerințe tehnice:**
+- Rezistență la vânt: clasa C4/B4 (presiune ≥ 2.000 Pa) pentru înălțimi peste 20m
+- Etanșeitate la apă: clasa E1050 sau E1200
+- Permeabilitate la aer: clasa A4
+- Rezistență termică: Uw ansamblu ≤ 1,4 W/m²K (cerință BREEAM Very Good)
+- Rezistență la foc: minimum EI 30 la compartimentare etaje
+
+**Cerințe estetice:**
+- Linie vizuală uniformă pe toate fațadele
+- Compatibilitate cu sisteme de umbrire integrate (jaluzele Raffstore în casetă)
+- Opțiuni de sticlă reflexivă, serigrafie sau imprimare digitală
+- Posibilitate de vopsire RAL special sau anodizare
+
+**Cerințe de certificare:**
+- Declarație de performanță (DoP) conform EN 13830
+- Calcule termice validate conform EN ISO 10077
+- Raport de testare la vânt conform EN 12179
+- Documentație pentru BREEAM/LEED la cerere
+
+---
+
+## Sisteme Alumil pentru pereți cortină — comparație tehnică
+
+### Alumil CW50 — sistem standard, cel mai utilizat în București
+
+**Profilul vizibil de 50 mm** pe verticală și orizontală. Cel mai economic și rapid de instalat. Stoc permanent la București — livrare 3–5 zile.
+
+Specificații tehnice:
+- Adâncime montant: 50 mm
+- Barieră termică: poliamidă 34 mm
+- Uw ansamblu: 1,3–1,6 W/m²K (geam dublu Low-E 4+16+4)
+- Uw ansamblu: 1,0–1,2 W/m²K (geam triplu Low-E)
+- Rezistență vânt: C4/B4 (2.000 Pa)
+- Etanșeitate apă: E1050
+- Geam maxim: 50 mm
+- Înălțime panou maximă (fără sprijin intermediar): 4.200 mm
+- Lățime panou maximă: 1.800 mm
+
+**Opțiuni casetă umbrire integrată:** jaluzele Raffstore 80mm și Zipscreen pot fi integrate în caseta de perete cortină.
+
+**Prețuri orientative CW50 — 2026:**
+
+> ⚠️ **Notă:** Prețurile sunt orientative și se pot modifica. Solicitați ofertă actualizată pentru proiectul dumneavoastră.
+
+| Configurație | Preț orientativ |
+|---|---|
+| CW50, geam dublu Low-E, montaj standard | 800–1.100 lei/mp |
+| CW50, geam triplu Low-E, montaj standard | 1.100–1.500 lei/mp |
+| CW50 cu casetă Raffstore integrată | 1.600–2.200 lei/mp |
+| **Suprafață 200–500 mp (reducere cantitate)** | **750–1.000 lei/mp** |
+
+### Alumil CW60 — sistem cu profil îngust, aspect premium
+
+**Profilul vizibil de 60 mm** pe verticală, design mai îngust față de CW50. Preferat de arhitecții care vor linii fine pe fațadă.
+
+Specificații tehnice:
+- Adâncime montant: 60 mm
+- Barieră termică: 34 mm îmbunătățită
+- Uw ansamblu: 1,1–1,4 W/m²K (geam dublu Low-E)
+- Compatibil geam triplu Low-E pentru BREEAM Excellent
+- Rezistență vânt: C4/B4
+
+**Prețuri orientative CW60 — 2026:**
+
+> ⚠️ **Notă:** Prețurile sunt orientative și se pot modifica.
+
+| Configurație | Preț orientativ |
+|---|---|
+| CW60, geam dublu Low-E | 1.200–1.600 lei/mp |
+| CW60, geam triplu Low-E | 1.500–2.000 lei/mp |
+| CW60 semi-structural, geam dublu Low-E | 1.800–2.400 lei/mp |
+
+### Perete cortină structural Alumil — maximum estetic
+
+Profil complet ascuns. Din exterior se vede doar sticla și rosturile de silicon. Cel mai solicitat pentru sedii corporative, hoteluri 4–5 stele și clădiri de referință arhitecturală.
+
+| Configurație | Preț orientativ |
+|---|---|
+| Structural complet, geam securizat | 2.200–3.000 lei/mp |
+| Spider fitting, geam laminat 10+10 | 2.800–4.000 lei/mp |
+
+---
+
+## Tipuri de sticlă pentru fațade de birouri — ce alege piața în 2026
+
+**Sticlă reflexivă față-verso** — standard pentru birouri București. Reduce supraîncălzirea în spațiile expuse sud și vest. Factor solar g = 0,20–0,35.
+
+**Sticlă Low-E dublă** (4+16+4 argon + strat Low-E) — standard BREEAM Very Good. Uw = 1,0–1,2 W/m²K. Cel mai frecvent specificat în proiectele noi din Barbu Văcărescu și Floreasca.
+
+**Sticlă serigrafică** — imprimare ceramică pe față 2 sau 4. Permite branding pe fațadă, control solar personalizat și efecte arhitecturale.
+
+**Sticlă electrocromatică** — schimbă transparența la comandă electrică. Preț 3–5× față de sticla standard, utilizată în proiecte premium cu buget de fațadă peste 500 EUR/mp.
+
+---
+
+## Cum se calculează un proiect de perete cortină
+
+### Pasul 1 — Studiul de fațadă (1–3 zile)
+Neofort BIZ realizează studiul de fațadă împreună cu arhitectul proiectului. Definim tipul de sistem (standard/semi-structural/structural), modulul de fațadă (lățimea panou), tipul de sticlă și sistemul de umbrire integrat.
+
+### Pasul 2 — Calculul structural (3–7 zile)
+Calcul la vânt conform EN 1991-1-4, verificarea rezistenței montanților și traverselor la sarcinile specifice amplasamentului. Obligatoriu pentru autorizație de construire.
+
+### Pasul 3 — Shop drawings (7–14 zile)
+Planșe de execuție detaliate cu toate îmbinările, detalii de colț, racorduri la structura clădirii, treceri pentru instalații electrice și sisteme de umbrire.
+
+### Pasul 4 — Producție (21–35 zile)
+Profile tăiate CNC, geam comandat Saint-Gobain sau Guardian cu specificațiile termice și optice din proiect.
+
+### Pasul 5 — Montaj (în funcție de suprafață)
+- 500 mp: 10–15 zile cu echipă de 4 montori + schele
+- 2.000 mp: 30–45 zile cu 2 echipe în paralel
+- 5.000+ mp: planificare individuală cu program lunar
+
+### Pasul 6 — Testare și recepție
+Test de etanșeitate la apă (aspersie) și permeabilitate la aer per EN 1027/EN 1026. Documentație completă pentru recepția lucrării și dosar BREEAM/LEED.
+
+---
+
+## Zone de birouri din București — ce proiecte livrăm
+
+**Barbu Văcărescu – Floreasca** — cea mai activă zonă de clasa A. Proiecte finalizate și în curs: sisteme CW50 și CW60 cu sticlă reflexivă și jaluzele Raffstore integrate.
+
+**Pipera – Voluntari** — zona cu cel mai mare stoc de birouri din București metropolitan. Proiecte predominant CW50 standard cu geam dublu Low-E.
+
+**Centru-Vest (Orhideea, Splaiul Independenței)** — mix de CW50 și sisteme semi-structurale. Arhitectură contemporană cu accent pe linie curată.
+
+**Timpuri Noi – Unirii** — regenerare urbană activă. Proiecte cu sisteme semi-structurale și sticlă serigrafică pentru identitate vizuală distinctă.
+
+---
+
+## De ce Neofort BIZ pentru proiecte de birouri
+
+**Stoc local Alumil** — cel mai mare avantaj față de importatorii cu livrare 6–8 săptămâni. Putem confirma cantitățile disponibile în 24 de ore și livra profile în 3–5 zile.
+
+**Expertiză tehnică** — echipă cu experiență în proiecte comerciale de 500–10.000 mp. Suport pentru calculele termice necesare certificărilor BREEAM și LEED.
+
+**Documentație completă** — Declarații de performanță (DoP), fișe tehnice, rapoarte de testare și certificate CE pentru toate sistemele Alumil.
+
+**Montaj propriu** — nu subcontractăm montajul pentru proiecte comerciale. Echipe specializate cu experiență în sisteme la înălțime.
+
+Contactați departamentul comercial pentru proiecte de birouri și spații comerciale:
+
+**WhatsApp Proiecte:** +40 752 443 439 | [✉ Trimite email](mailto:oferte@neofort-biz.ro) | **L–V 10–18**`,
+
+      en: `## The Bucharest office market and the requirement for modern facades
+
+Bucharest is the most active office market in South-Eastern Europe. In 2024–2025, modern office stock exceeded **4 million m²**, with 15–20 new projects annually in zones such as Floreasca-Barbu Văcărescu, Pipera, Centre-West and Timpuri Noi.
+
+The **de facto standard** for any Class A office building in Bucharest in 2026 is an aluminium and glass curtain wall facade — required by corporate tenants (multinationals), energy certification standards (BREEAM, LEED, DGNB) and European energy efficiency regulations.
+
+---
+
+## Alumil curtain wall systems — technical comparison
+
+### Alumil CW50 — standard system, most used in Bucharest
+- Visible profile: **50 mm**
+- Thermal break: 34 mm polyamide
+- Uw assembly: 1.3–1.6 W/m²K (double Low-E glass)
+- Wind resistance: C4/B4 (2,000 Pa)
+- Max panel height (without intermediate support): 4,200 mm
+
+> ⚠️ **Note:** All prices are indicative and subject to change. Always request an updated quote.
+
+| Configuration | Indicative price |
+|---|---|
+| CW50, double Low-E, standard installation | 160–220 EUR/m² |
+| CW50, triple Low-E, standard installation | 220–300 EUR/m² |
+| CW50 with integrated Raffstore cassette | 320–440 EUR/m² |
+| **Area 200–500 m² (quantity discount)** | **150–200 EUR/m²** |
+
+### Alumil CW60 — narrow profile, premium appearance
+- Visible profile: **60 mm**, narrower design
+- Uw assembly: 1.1–1.4 W/m²K (double Low-E)
+- Compatible with triple Low-E for BREEAM Excellent
+
+| Configuration | Indicative price |
+|---|---|
+| CW60, double Low-E | 240–320 EUR/m² |
+| CW60 semi-structural | 360–480 EUR/m² |
+
+### Structural curtain wall — maximum aesthetics
+| Configuration | Indicative price |
+|---|---|
+| Full structural, safety glass | 440–600 EUR/m² |
+
+---
+
+## Glass types for office facades — what the market chooses in 2026
+
+**Reflective glass** — standard for Bucharest offices. Reduces overheating in south and west exposures. Solar factor g = 0.20–0.35.
+
+**Double Low-E glass** (4+16+4 argon + Low-E coating) — BREEAM Very Good standard. Uw = 1.0–1.2 W/m²K. Most frequently specified in new projects.
+
+**Screen-printed glass** — ceramic printing on face 2 or 4. Allows facade branding, custom solar control and architectural effects.
+
+---
+
+## Project calculation process
+
+1. **Facade study** (1–3 days) — system type, module, glass, integrated shading
+2. **Structural calculation** (3–7 days) — wind loads per EN 1991-1-4
+3. **Shop drawings** (7–14 days) — detailed execution plans
+4. **Production** (21–35 days) — CNC profile cutting, glass order
+5. **Installation** — 500 m²: 10–15 days; 2,000 m²: 30–45 days
+6. **Testing and acceptance** — EN 1027/EN 1026 water/air tests, BREEAM/LEED documentation
+
+---
+
+## Why Neofort BIZ for office projects
+
+**Local Alumil stock** — profiles available in 3–5 days vs 6–8 weeks for importers.
+
+**Technical expertise** — experience in commercial projects 500–10,000 m². Support for BREEAM and LEED thermal calculations.
+
+**Complete documentation** — DoP declarations, technical data sheets, test reports and CE certificates for all Alumil systems.
+
+**Own installation teams** — we do not subcontract installation for commercial projects.
+
+**WhatsApp Projects:** +40 752 443 439 | [✉ Send email](mailto:oferte@neofort-biz.ro)`,
+
+      de: `## Der Bukarester Büromarkt und die Anforderung an moderne Fassaden
+
+Bukarest ist der aktivste Büromarkt in Südosteuropa. 2024–2025 überschritt der moderne Bürobestand **4 Millionen m²** mit 15–20 neuen Projekten jährlich.
+
+Der **De-facto-Standard** für jedes Klasse-A-Bürogebäude in Bukarest 2026 ist eine Aluminium-Glas-Vorhangfassade — gefordert von Firmenmietern, Energiezertifizierungsstandards (BREEAM, LEED, DGNB) und europäischen Energieeffizienzvorschriften.
+
+---
+
+## Alumil Vorhangfassadensysteme — technischer Vergleich
+
+### Alumil CW50 — Standardsystem, meistgenutzt in Bukarest
+- Sichtbares Profil: **50 mm**
+- Wärmedämmung: 34 mm Polyamid
+- Uw Fassade: 1,3–1,6 W/m²K (Zweifach-Low-E-Glas)
+- Windwiderstand: C4/B4 (2.000 Pa)
+- Max. Elementhöhe: 4.200 mm
+
+> ⚠️ **Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+
+| Konfiguration | Richtpreis |
+|---|---|
+| CW50, Zweifach-Low-E, Standardmontage | 160–220 EUR/m² |
+| CW50, Dreifach-Low-E | 220–300 EUR/m² |
+| CW50 mit integrierter Raffstore-Kassette | 320–440 EUR/m² |
+
+### Alumil CW60 — Schmalprofilsystem, Premium-Optik
+- Sichtbares Profil: **60 mm**, schlankeres Design
+- Uw: 1,1–1,4 W/m²K, kompatibel mit Dreifach-Low-E für BREEAM Excellent
+
+### Strukturelle Vorhangfassade
+| Konfiguration | Richtpreis |
+|---|---|
+| Vollstrukturell, Sicherheitsglas | 440–600 EUR/m² |
+
+---
+
+## Projektablauf
+
+1. **Fassadenstudie** (1–3 Tage)
+2. **Statische Berechnung** (3–7 Tage) — Windlasten EN 1991-1-4
+3. **Werkstattzeichnungen** (7–14 Tage)
+4. **Produktion** (21–35 Tage)
+5. **Montage** — 500 m²: 10–15 Tage; 2.000 m²: 30–45 Tage
+6. **Prüfung und Abnahme** — EN 1027/EN 1026, BREEAM/LEED Dokumentation
+
+---
+
+## Warum Neofort BIZ für Büroprojekte
+
+Lokaler Alumil-Lagerbestand — Profile in 3–5 Tagen lieferbar vs 6–8 Wochen bei Importeuren. Eigene Montageteams. Vollständige CE-Dokumentation für alle Systeme.
+
+**WhatsApp Projekte:** +40 752 443 439 | [✉ E-Mail senden](mailto:oferte@neofort-biz.ro)`,
+
+      fr: `## Le marché des bureaux à Bucarest et l'exigence de façades modernes
+
+Bucarest est le marché de bureaux le plus actif d'Europe du Sud-Est. En 2024–2025, le stock de bureaux modernes a dépassé **4 millions de m²** avec 15–20 nouveaux projets annuellement.
+
+Le **standard de facto** pour tout immeuble de bureaux de classe A à Bucarest en 2026 est une façade rideau en aluminium et verre — exigée par les locataires corporatifs, les standards de certification énergétique (BREEAM, LEED, DGNB) et les réglementations européennes.
+
+---
+
+## Systèmes Alumil pour murs rideaux — comparaison technique
+
+### Alumil CW50 — système standard, le plus utilisé à Bucarest
+- Profil visible : **50 mm**
+- Rupture thermique : polyamide 34 mm
+- Uw façade : 1,3–1,6 W/m²K (double Low-E)
+- Résistance au vent : C4/B4 (2.000 Pa)
+
+> ⚠️ **Note :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+
+| Configuration | Prix indicatif |
+|---|---|
+| CW50, double Low-E, pose standard | 160–220 EUR/m² |
+| CW50, triple Low-E | 220–300 EUR/m² |
+| CW50 avec cassette Raffstore intégrée | 320–440 EUR/m² |
+
+### Alumil CW60 — profil étroit, aspect premium
+- Profil visible : **60 mm**, design plus fin
+- Compatible triple Low-E pour BREEAM Excellent
+
+### Mur rideau structurel
+| Configuration | Prix indicatif |
+|---|---|
+| Structurel complet, verre sécurit | 440–600 EUR/m² |
+
+---
+
+## Processus de calcul d'un projet
+
+1. **Étude de façade** (1–3 jours)
+2. **Calcul structurel** (3–7 jours) — charges de vent EN 1991-1-4
+3. **Plans d'exécution** (7–14 jours)
+4. **Production** (21–35 jours)
+5. **Montage** — 500 m² : 10–15 jours ; 2.000 m² : 30–45 jours
+6. **Tests et réception** — EN 1027/EN 1026, documentation BREEAM/LEED
+
+---
+
+## Pourquoi Neofort BIZ pour les projets de bureaux
+
+Stock local Alumil — profils disponibles en 3–5 jours vs 6–8 semaines pour les importateurs. Équipes de pose propres. Documentation CE complète pour tous les systèmes.
+
+**WhatsApp Projets :** +40 752 443 439 | [✉ Envoyer email](mailto:oferte@neofort-biz.ro)`,
+
+      es: `## El mercado de oficinas de Bucarest y el requisito de fachadas modernas
+
+Bucarest es el mercado de oficinas más activo del sureste de Europa. En 2024–2025, el stock moderno de oficinas superó los **4 millones de m²** con 15–20 nuevos proyectos anuales.
+
+El **estándar de facto** para cualquier edificio de oficinas de clase A en Bucarest en 2026 es una fachada cortina de aluminio y vidrio — requerida por inquilinos corporativos, estándares de certificación energética (BREEAM, LEED, DGNB) y regulaciones europeas.
+
+---
+
+## Sistemas Alumil para muros cortina — comparación técnica
+
+### Alumil CW50 — sistema estándar, más utilizado en Bucarest
+- Perfil visible: **50 mm**
+- Rotura de puente térmico: poliamida 34 mm
+- Uw fachada: 1,3–1,6 W/m²K (doble Low-E)
+- Resistencia al viento: C4/B4 (2.000 Pa)
+
+> ⚠️ **Nota:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+
+| Configuración | Precio orientativo |
+|---|---|
+| CW50, doble Low-E, instalación estándar | 160–220 EUR/m² |
+| CW50, triple Low-E | 220–300 EUR/m² |
+| CW50 con cassette Raffstore integrada | 320–440 EUR/m² |
+
+### Alumil CW60 — perfil estrecho, aspecto premium
+- Perfil visible: **60 mm**, diseño más fino
+- Compatible triple Low-E para BREEAM Excellent
+
+### Muro cortina estructural
+| Configuración | Precio orientativo |
+|---|---|
+| Estructural completo, vidrio laminado | 440–600 EUR/m² |
+
+---
+
+## Proceso de cálculo de un proyecto
+
+1. **Estudio de fachada** (1–3 días)
+2. **Cálculo estructural** (3–7 días) — cargas de viento EN 1991-1-4
+3. **Planos de ejecución** (7–14 días)
+4. **Producción** (21–35 días)
+5. **Instalación** — 500 m²: 10–15 días; 2.000 m²: 30–45 días
+6. **Pruebas y recepción** — EN 1027/EN 1026, documentación BREEAM/LEED
+
+---
+
+## Por qué Neofort BIZ para proyectos de oficinas
+
+Stock local Alumil — perfiles disponibles en 3–5 días vs 6–8 semanas para importadores. Equipos de instalación propios. Documentación CE completa.
+
+**WhatsApp Proyectos:** +40 752 443 439 | [✉ Enviar email](mailto:oferte@neofort-biz.ro)`,
+
+      it: `## Il mercato degli uffici di Bucarest e il requisito di facciate moderne
+
+Bucarest è il mercato degli uffici più attivo del Sud-Est Europa. Nel 2024–2025, lo stock moderno di uffici ha superato **4 milioni di m²** con 15–20 nuovi progetti annualmente.
+
+Lo **standard de facto** per qualsiasi edificio per uffici di classe A a Bucarest nel 2026 è una facciata continua in alluminio e vetro — richiesta da inquilini aziendali, standard di certificazione energetica (BREEAM, LEED, DGNB) e normative europee.
+
+---
+
+## Sistemi Alumil per pareti cortina — confronto tecnico
+
+### Alumil CW50 — sistema standard, più utilizzato a Bucarest
+- Profilo visibile: **50 mm**
+- Taglio termico: poliammide 34 mm
+- Uw facciata: 1,3–1,6 W/m²K (doppio Low-E)
+- Resistenza al vento: C4/B4 (2.000 Pa)
+
+> ⚠️ **Nota:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+
+| Configurazione | Prezzo indicativo |
+|---|---|
+| CW50, doppio Low-E, posa standard | 160–220 EUR/m² |
+| CW50, triplo Low-E | 220–300 EUR/m² |
+| CW50 con cassettone Raffstore integrato | 320–440 EUR/m² |
+
+### Alumil CW60 — profilo stretto, aspetto premium
+- Profilo visibile: **60 mm**, design più sottile
+- Compatibile triplo Low-E per BREEAM Excellent
+
+### Parete cortina strutturale
+| Configurazione | Prezzo indicativo |
+|---|---|
+| Strutturale completo, vetro laminato | 440–600 EUR/m² |
+
+---
+
+## Processo di calcolo di un progetto
+
+1. **Studio di facciata** (1–3 giorni)
+2. **Calcolo strutturale** (3–7 giorni) — carichi vento EN 1991-1-4
+3. **Disegni esecutivi** (7–14 giorni)
+4. **Produzione** (21–35 giorni)
+5. **Installazione** — 500 m²: 10–15 giorni; 2.000 m²: 30–45 giorni
+6. **Test e collaudo** — EN 1027/EN 1026, documentazione BREEAM/LEED
+
+---
+
+## Perché Neofort BIZ per progetti di uffici
+
+Stock locale Alumil — profili disponibili in 3–5 giorni vs 6–8 settimane per gli importatori. Squadre di posa proprie. Documentazione CE completa per tutti i sistemi.
+
+**WhatsApp Progetti:** +40 752 443 439 | [✉ Invia email](mailto:oferte@neofort-biz.ro)`,
+    },
+  },
+
+
 ];
 
 // Găsește articol după slug în orice limbă
