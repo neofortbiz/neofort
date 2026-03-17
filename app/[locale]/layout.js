@@ -57,7 +57,6 @@ export default async function LocaleLayout({ children, params }) {
       <head>
         {/* Preload imagini LCP hero homepage */}
         <link rel="preload" as="image" href="/hero-pvc.avif" type="image/avif" fetchpriority="high" />
-        <link rel="preload" as="image" href="/hero-aluminiu.avif" type="image/avif" fetchpriority="high" />
 
         {/* hreflang */}
         {locales.map(l => (

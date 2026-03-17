@@ -463,7 +463,8 @@ export default async function HomePage({ params }) {
                 alt={locale==='ro' ? 'Tâmplărie aluminiu Alumil Supreme — sisteme aluminiu cu barieră termică nZEB, Neofort BIZ București' : locale==='en' ? 'Alumil Supreme aluminium windows — thermal break aluminium systems nZEB certified, Neofort BIZ Bucharest' : locale==='de' ? 'Alumil Supreme Aluminiumfenster — Aluminiumsysteme mit Wärmedämmbrücke nZEB, Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiserie aluminium Alumil Supreme — systèmes aluminium à rupture de pont thermique nZEB, Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería aluminio Alumil Supreme — sistemas aluminio con rotura de puente térmico nZEB, Neofort BIZ Bucarest' : 'Infissi alluminio Alumil Supreme — sistemi alluminio con taglio termico nZEB, Neofort BIZ Bucarest'}
                 width="420"
                 height="160"
-                fetchpriority="high"
+                fetchpriority="low"
+                loading="lazy"
                 decoding="async"
                 style={{width:'100%',height:'160px',objectFit:'cover',display:'block'}}
               />
