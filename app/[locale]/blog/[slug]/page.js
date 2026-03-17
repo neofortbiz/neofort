@@ -149,10 +149,52 @@ export default async function BlogArticlePage({ params }) {
     ],
   };
 
+  // FAQPage schema — extrage H2/H3 din continut ca perechi intrebare/raspuns
+  const faqEntries = (() => {
+    const lines = content.split('\n');
+    const pairs = [];
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
+      if ((line.startsWith('## ') || line.startsWith('### ')) && line.includes('?')) {
+        const q = line.replace(/^#{2,3}\s+/, '').trim();
+        const answerLines = [];
+        for (let j = i + 1; j < Math.min(i + 8, lines.length); j++) {
+          if (lines[j].startsWith('#')) break;
+          if (lines[j].trim()) answerLines.push(lines[j].replace(/\*\*/g,'').trim());
+          if (answerLines.length >= 3) break;
+        }
+        if (answerLines.length > 0) pairs.push({ q, a: answerLines.join(' ').slice(0, 300) });
+      }
+    }
+    return pairs.slice(0, 8);
+  })();
+
+  const faqSchema = faqEntries.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqEntries.map(({ q, a }) => ({
+      "@type": "Question",
+      "name": q,
+      "acceptedAnswer": { "@type": "Answer", "text": a }
+    }))
+  } : null;
+
+  // Author Person schema pentru E-E-A-T
+  const articleWithAuthor = {
+    ...articleSchema,
+    "author": {
+      "@type": "Person",
+      "name": "Neofort BIZ",
+      "url": BASE,
+      "sameAs": ["https://www.linkedin.com/company/neofort-biz", "https://www.facebook.com/neofortconstructii"]
+    }
+  };
+
   return (
     <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleWithAuthor) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
+      {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>}
 
       <style>{`
         .article-grid {
