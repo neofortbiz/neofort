@@ -30,6 +30,22 @@ const BLOG_SLUGS = [
     it: 'installazione-precontrotelaio-blaugelb-triotherm-nzeb',
   },
   {
+    ro: 'preturi-termopane-salamander-bucuresti',
+    en: 'salamander-double-glazing-prices-bucharest',
+    de: 'salamander-isolierglas-preise-bukarest',
+    fr: 'prix-double-vitrage-salamander-bucarest',
+    es: 'precios-doble-acristalamiento-salamander-bucarest',
+    it: 'prezzi-doppio-vetro-salamander-bucarest',
+  },
+  {
+    ro: 'preturi-tamplarie-aluminiu-alumil-aluprof-cortizo-reynaers-bucuresti',
+    en: 'aluminium-windows-prices-alumil-aluprof-cortizo-reynaers-bucharest',
+    de: 'aluminiumfenster-preise-alumil-aluprof-cortizo-reynaers-bukarest',
+    fr: 'prix-menuiserie-aluminium-alumil-aluprof-cortizo-reynaers-bucarest',
+    es: 'precios-carpinteria-aluminio-alumil-aluprof-cortizo-reynaers-bucarest',
+    it: 'prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest',
+  },
+  {
     ro: 'jaluzele-raffstore-vs-rulouri-aluminiu',
     en: 'raffstore-blinds-vs-aluminium-shutters',
     de: 'raffstore-jalousien-vs-aluminiumrolllaeden',

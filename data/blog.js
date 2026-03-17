@@ -4224,6 +4224,478 @@ Una tapparella esterna classica — anche in alluminio — ha i bordi del tessut
 **Email:** oferte@neofort-biz.ro`,
     },
   },
+
+  // ─── ARTICOL 8: Prețuri Termopane Salamander București ──────────────────
+  {
+    slugs: {
+      ro: 'preturi-termopane-salamander-bucuresti',
+      en: 'salamander-double-glazing-prices-bucharest',
+      de: 'salamander-isolierglas-preise-bukarest',
+      fr: 'prix-double-vitrage-salamander-bucarest',
+      es: 'precios-doble-acristalamiento-salamander-bucarest',
+      it: 'prezzi-doppio-vetro-salamander-bucarest',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Prețuri & Ghid', en:'Prices & Guide', de:'Preise & Leitfaden', fr:'Prix & Guide', es:'Precios & Guía', it:'Prezzi & Guida' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-preturi-termopane-salamander.avif',
+      en: '/blog/blog-preturi-termopane-salamander.avif',
+      de: '/blog/blog-preturi-termopane-salamander.avif',
+      fr: '/blog/blog-preturi-termopane-salamander.avif',
+      es: '/blog/blog-preturi-termopane-salamander.avif',
+      it: '/blog/blog-preturi-termopane-salamander.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a2a1a 0%,#2a4a2a 60%,#4a7c59 100%)',
+    imageLabel: 'Prețuri 2026',
+    accentColor: '#4a7c59',
+    title: {
+      ro: 'Prețuri termopane Salamander în București 2026 — ghid complet pe profile și sisteme',
+      en: 'Salamander double glazing prices in Bucharest 2026 — complete guide by profile and system',
+      de: 'Salamander Isolierglasfenster Preise in Bukarest 2026 — Komplettleitfaden nach Profil und System',
+      fr: 'Prix double vitrage Salamander à Bucarest 2026 — guide complet par profil et système',
+      es: 'Precios ventanas Salamander en Bucarest 2026 — guía completa por perfil y sistema',
+      it: 'Prezzi finestre Salamander a Bucarest 2026 — guida completa per profilo e sistema',
+    },
+    excerpt: {
+      ro: 'Cât costă termopanele Salamander în București în 2026? GreenEvolution 76 pornește de la 150 EUR/mp, BluEvolution 92 de la 200 EUR/mp. Ghid complet cu prețuri pe profile, geam dublu vs triplu, montaj nZEB și tot ce influențează prețul final.',
+      en: 'How much do Salamander windows cost in Bucharest in 2026? GreenEvolution 76 from 150 EUR/m², BluEvolution 92 from 200 EUR/m². Complete guide with prices by profile, double vs triple glazing, nZEB installation.',
+      de: 'Was kosten Salamander Fenster in Bukarest 2026? GreenEvolution 76 ab 150 EUR/m², BluEvolution 92 ab 200 EUR/m². Komplettleitfaden mit Preisen nach Profil.',
+      fr: 'Combien coûtent les fenêtres Salamander à Bucarest en 2026 ? GreenEvolution 76 à partir de 150 EUR/m², BluEvolution 92 à partir de 200 EUR/m². Guide complet.',
+      es: 'Cuánto cuestan las ventanas Salamander en Bucarest en 2026. GreenEvolution 76 desde 150 EUR/m², BluEvolution 92 desde 200 EUR/m². Guía completa.',
+      it: 'Quanto costano le finestre Salamander a Bucarest nel 2026. GreenEvolution 76 da 150 EUR/m², BluEvolution 92 da 200 EUR/m². Guida completa.',
+    },
+    metaDesc: {
+      ro: 'Prețuri termopane Salamander București 2026: GreenEvolution 76 de la 150 EUR/mp, BluEvolution 92 de la 200 EUR/mp. Comparație profile, geam dublu vs triplu, montaj nZEB, ofertă gratuită Neofort BIZ.',
+      en: 'Salamander window prices Bucharest 2026: GreenEvolution 76 from 150 EUR/m², BluEvolution 92 from 200 EUR/m². Profile comparison, double vs triple glazing, nZEB installation, free quote Neofort BIZ.',
+      de: 'Salamander Fensterpreise Bukarest 2026: GreenEvolution 76 ab 150 EUR/m², BluEvolution 92 ab 200 EUR/m². Profilvergleich, nZEB-Montage, kostenloses Angebot.',
+      fr: 'Prix fenêtres Salamander Bucarest 2026 : GreenEvolution 76 à partir de 150 EUR/m², BluEvolution 92 à partir de 200 EUR/m². Guide complet, devis gratuit Neofort BIZ.',
+      es: 'Precios ventanas Salamander Bucarest 2026: GreenEvolution 76 desde 150 EUR/m², BluEvolution 92 desde 200 EUR/m². Guía completa, presupuesto gratuito Neofort BIZ.',
+      it: 'Prezzi finestre Salamander Bucarest 2026: GreenEvolution 76 da 150 EUR/m², BluEvolution 92 da 200 EUR/m². Guida completa, preventivo gratuito Neofort BIZ.',
+    },
+    keywords: 'preturi termopane Salamander Bucuresti, termopane PVC pret 2026, BluEvolution 92 pret, GreenEvolution 76 pret, ferestre PVC pret Bucuresti, cat costa termopane Salamander, inlocuit ferestre pret Bucuresti, termopane nZEB pret',
+    content: {
+      ro: `## Prețuri termopane Salamander — București 2026
+
+GreenEvolution 76 și BluEvolution 92 sunt cele două game principale Salamander disponibile la Neofort BIZ. Iată prețurile complete pentru 2026.
+
+---
+
+## Prețuri orientative per fereastră (inclusiv montaj)
+
+### GreenEvolution 76 — profil 5 camere, Uw 0,73 W/m²K
+
+| Configurație | Preț estimat |
+|---|---|
+| Fereastră oscilo-batantă 80×100 cm, geam dublu | 280–380 EUR |
+| Fereastră oscilo-batantă 100×120 cm, geam dublu | 320–430 EUR |
+| Fereastră oscilo-batantă 100×120 cm, geam triplu Low-E | 390–510 EUR |
+| Ușă balcon 80×210 cm, geam dublu | 450–580 EUR |
+| **Preț per mp montat** | **150–220 EUR/mp** |
+
+### BluEvolution 92 — profil 6 camere, Uw 0,70 W/m²K (nZEB)
+
+| Configurație | Preț estimat |
+|---|---|
+| Fereastră oscilo-batantă 80×100 cm, geam dublu | 360–480 EUR |
+| Fereastră oscilo-batantă 100×120 cm, geam dublu | 420–560 EUR |
+| Fereastră oscilo-batantă 100×120 cm, geam triplu Low-E | 510–680 EUR |
+| **Preț per mp montat** | **200–300 EUR/mp** |
+
+### BluEvolution 92 ALU (placat aluminiu) — aspect premium
+
+| Configurație | Preț estimat |
+|---|---|
+| Fereastră oscilo-batantă 100×120 cm, geam dublu | 550–720 EUR |
+| **Preț per mp montat** | **250–380 EUR/mp** |
+
+*Prețurile includ: profil Salamander original, feronerie standard Roto/Siegenia, geam Saint-Gobain și montaj profesional.*
+
+---
+
+## Cei 6 factori care influențează prețul final
+
+**1. Profilul ales** — BluEvolution 92 costă cu 25–40% mai mult față de GreenEvolution 76.
+
+**2. Tipul de geam** — Geam triplu Low-E adaugă 40–80 EUR/mp față de geamul dublu standard.
+
+**3. Dimensiunile** — Ferestrele cu 2 canaturi costă cu 15–25% mai mult decât cele cu un singur canat.
+
+**4. Culoarea** — 7 culori standard incluse. Culori RAL speciale adaugă 8–15%.
+
+**5. Feroneria** — Feronerie antiefracție RC2 adaugă 80–150 EUR per fereastră.
+
+**6. Tipul de montaj** — Montaj nZEB cu precadre Blaugelb Triotherm+ adaugă 25–50 EUR/ml perimetru.
+
+---
+
+## Estimări pentru lucrări complete
+
+### Apartament 2 camere (4–6 ferestre + 1 ușă balcon)
+
+| Configurație | Estimare totală |
+|---|---|
+| GreenEvolution 76, geam dublu Low-E | 3.500–5.500 EUR |
+| BluEvolution 92, geam triplu Low-E, montaj nZEB | 6.500–9.500 EUR |
+
+### Casă 120 mp (10–14 ferestre + 2 uși)
+
+| Configurație | Estimare totală |
+|---|---|
+| GreenEvolution 76, geam dublu Low-E | 9.000–14.000 EUR |
+| BluEvolution 92, geam triplu Low-E, montaj nZEB complet | 16.000–25.000 EUR |
+
+---
+
+## Solicită ofertă gratuită
+
+Trimite-ne dimensiunile ferestrelor și preferința de profil. Răspundem în **48 de ore** cu ofertă detaliată.
+
+**WhatsApp:** +40 752 443 435 | **Email:** oferte@neofort-biz.ro | **L–V 10–18**`,
+
+      en: `## Salamander window prices — Bucharest 2026
+
+### GreenEvolution 76 — Uw 0.73 W/m²K
+
+| Configuration | Estimated price |
+|---|---|
+| Tilt-and-turn 80×100 cm, double glazing | 280–380 EUR |
+| Tilt-and-turn 100×120 cm, double glazing | 320–430 EUR |
+| Tilt-and-turn 100×120 cm, triple Low-E | 390–510 EUR |
+| **Price per m² installed** | **150–220 EUR/m²** |
+
+### BluEvolution 92 — Uw 0.70 W/m²K (nZEB)
+
+| Configuration | Estimated price |
+|---|---|
+| Tilt-and-turn 100×120 cm, double glazing | 420–560 EUR |
+| Tilt-and-turn 100×120 cm, triple Low-E | 510–680 EUR |
+| **Price per m² installed** | **200–300 EUR/m²** |
+
+---
+
+## 6 factors that influence the final price
+
+1. Profile choice — BluEvolution 92 costs 25–40% more than GreenEvolution 76
+2. Glazing type — triple Low-E adds 40–80 EUR/m²
+3. Dimensions — 2-sash windows cost 15–25% more
+4. Colour — 7 standard colours included, RAL specials +8–15%
+5. Hardware — RC2 anti-burglary hardware adds 80–150 EUR per window
+6. Installation — nZEB with Blaugelb Triotherm+ adds 25–50 EUR/ml
+
+**WhatsApp:** +40 752 443 435 | **Email:** oferte@neofort-biz.ro`,
+
+      de: `## Salamander Fensterpreise — Bukarest 2026
+
+### GreenEvolution 76 — Uw 0,73 W/m²K
+
+| Konfiguration | Geschätzter Preis |
+|---|---|
+| Dreh-Kipp 80×100 cm, Zweifachverglasung | 280–380 EUR |
+| Dreh-Kipp 100×120 cm, Zweifachverglasung | 320–430 EUR |
+| Dreh-Kipp 100×120 cm, Dreifach-Low-E | 390–510 EUR |
+| **Preis pro m² montiert** | **150–220 EUR/m²** |
+
+### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
+
+| Konfiguration | Geschätzter Preis |
+|---|---|
+| Dreh-Kipp 100×120 cm, Zweifachverglasung | 420–560 EUR |
+| Dreh-Kipp 100×120 cm, Dreifach-Low-E | 510–680 EUR |
+| **Preis pro m² montiert** | **200–300 EUR/m²** |
+
+**WhatsApp:** +40 752 443 435 | **E-Mail:** oferte@neofort-biz.ro`,
+
+      fr: `## Prix fenêtres Salamander — Bucarest 2026
+
+### GreenEvolution 76 — Uw 0,73 W/m²K
+
+| Configuration | Prix estimé |
+|---|---|
+| Oscillo-battant 80×100 cm, double vitrage | 280–380 EUR |
+| Oscillo-battant 100×120 cm, triple Low-E | 390–510 EUR |
+| **Prix par m² posé** | **150–220 EUR/m²** |
+
+### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
+
+| Configuration | Prix estimé |
+|---|---|
+| Oscillo-battant 100×120 cm, double vitrage | 420–560 EUR |
+| Oscillo-battant 100×120 cm, triple Low-E | 510–680 EUR |
+| **Prix par m² posé** | **200–300 EUR/m²** |
+
+**WhatsApp :** +40 752 443 435 | **Email :** oferte@neofort-biz.ro`,
+
+      es: `## Precios ventanas Salamander — Bucarest 2026
+
+### GreenEvolution 76 — Uw 0,73 W/m²K
+
+| Configuración | Precio estimado |
+|---|---|
+| Oscilobatiente 80×100 cm, doble vidrio | 280–380 EUR |
+| Oscilobatiente 100×120 cm, triple Low-E | 390–510 EUR |
+| **Precio por m² instalado** | **150–220 EUR/m²** |
+
+### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
+
+| Configuración | Precio estimado |
+|---|---|
+| Oscilobatiente 100×120 cm, doble vidrio | 420–560 EUR |
+| Oscilobatiente 100×120 cm, triple Low-E | 510–680 EUR |
+| **Precio por m² instalado** | **200–300 EUR/m²** |
+
+**WhatsApp:** +40 752 443 435 | **Email:** oferte@neofort-biz.ro`,
+
+      it: `## Prezzi finestre Salamander — Bucarest 2026
+
+### GreenEvolution 76 — Uw 0,73 W/m²K
+
+| Configurazione | Prezzo stimato |
+|---|---|
+| Ribaltabile 80×100 cm, doppio vetro | 280–380 EUR |
+| Ribaltabile 100×120 cm, triplo Low-E | 390–510 EUR |
+| **Prezzo per m² posato** | **150–220 EUR/m²** |
+
+### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
+
+| Configurazione | Prezzo stimato |
+|---|---|
+| Ribaltabile 100×120 cm, doppio vetro | 420–560 EUR |
+| Ribaltabile 100×120 cm, triplo Low-E | 510–680 EUR |
+| **Prezzo per m² posato** | **200–300 EUR/m²** |
+
+**WhatsApp:** +40 752 443 435 | **Email:** oferte@neofort-biz.ro`,
+    },
+  },
+
+  // ─── ARTICOL 9: Prețuri Tâmplărie Aluminiu — Alumil, Aluprof, Cortizo, Reynaers ───
+  {
+    slugs: {
+      ro: 'preturi-tamplarie-aluminiu-alumil-aluprof-cortizo-reynaers-bucuresti',
+      en: 'aluminium-windows-prices-alumil-aluprof-cortizo-reynaers-bucharest',
+      de: 'aluminiumfenster-preise-alumil-aluprof-cortizo-reynaers-bukarest',
+      fr: 'prix-menuiserie-aluminium-alumil-aluprof-cortizo-reynaers-bucarest',
+      es: 'precios-carpinteria-aluminio-alumil-aluprof-cortizo-reynaers-bucarest',
+      it: 'prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest',
+    },
+    date: '2026-03-17',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    category: { ro:'Prețuri & Comparație', en:'Prices & Comparison', de:'Preise & Vergleich', fr:'Prix & Comparaison', es:'Precios & Comparación', it:'Prezzi & Confronto' },
+    readTime: { ro:'10 min citire', en:'10 min read', de:'10 Min.', fr:'10 min', es:'10 min', it:'10 min' },
+    image: {
+      ro: '/blog/blog-preturi-tamplarie-aluminiu.avif',
+      en: '/blog/blog-preturi-tamplarie-aluminiu.avif',
+      de: '/blog/blog-preturi-tamplarie-aluminiu.avif',
+      fr: '/blog/blog-preturi-tamplarie-aluminiu.avif',
+      es: '/blog/blog-preturi-tamplarie-aluminiu.avif',
+      it: '/blog/blog-preturi-tamplarie-aluminiu.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0d1a2a 0%,#1a3a5c 60%,#2d5a8e 100%)',
+    imageLabel: 'Aluminiu 2026',
+    accentColor: '#2d5a8e',
+    title: {
+      ro: 'Prețuri tâmplărie aluminiu 2026 — Alumil, Aluprof, Cortizo și Reynaers în București: comparație completă',
+      en: 'Aluminium window prices 2026 — Alumil, Aluprof, Cortizo and Reynaers in Bucharest: complete comparison',
+      de: 'Aluminiumfenster Preise 2026 — Alumil, Aluprof, Cortizo und Reynaers in Bukarest: Vollständiger Vergleich',
+      fr: 'Prix menuiserie aluminium 2026 — Alumil, Aluprof, Cortizo et Reynaers à Bucarest : comparaison complète',
+      es: 'Precios carpintería aluminio 2026 — Alumil, Aluprof, Cortizo y Reynaers en Bucarest: comparación completa',
+      it: 'Prezzi infissi alluminio 2026 — Alumil, Aluprof, Cortizo e Reynaers a Bucarest: confronto completo',
+    },
+    excerpt: {
+      ro: 'Alumil, Aluprof, Cortizo sau Reynaers — care sistem de tâmplărie aluminiu oferă cel mai bun raport calitate-preț în București în 2026? Comparăm prețurile, performanțele termice și disponibilitatea locală pentru cele 4 mărci principale.',
+      en: 'Alumil, Aluprof, Cortizo or Reynaers — which aluminium window system offers the best value in Bucharest in 2026? We compare prices, thermal performance and local availability for the 4 main brands.',
+      de: 'Alumil, Aluprof, Cortizo oder Reynaers — welches System bietet das beste Preis-Leistungs-Verhältnis in Bukarest 2026? Preise, Wärmeleistung und Verfügbarkeit im Vergleich.',
+      fr: "Alumil, Aluprof, Cortizo ou Reynaers — quel système offre le meilleur rapport qualité-prix à Bucarest en 2026 ? Comparaison prix, performances et disponibilité locale.",
+      es: 'Alumil, Aluprof, Cortizo o Reynaers — ¿qué sistema ofrece la mejor relación calidad-precio en Bucarest en 2026? Comparamos precios, rendimiento térmico y disponibilidad local.',
+      it: "Alumil, Aluprof, Cortizo o Reynaers — quale sistema offre il miglior rapporto qualità-prezzo a Bucarest nel 2026? Confrontiamo prezzi, prestazioni termiche e disponibilità locale.",
+    },
+    metaDesc: {
+      ro: 'Comparație prețuri tâmplărie aluminiu București 2026: Alumil vs Aluprof vs Cortizo vs Reynaers. Prețuri per mp, performanțe Uw, disponibilitate locală și recomandarea Neofort BIZ.',
+      en: 'Aluminium window price comparison Bucharest 2026: Alumil vs Aluprof vs Cortizo vs Reynaers. Prices per m², Uw performance, local availability and Neofort BIZ recommendation.',
+      de: 'Aluminiumfenster Preisvergleich Bukarest 2026: Alumil vs Aluprof vs Cortizo vs Reynaers. Preise pro m², Uw-Leistung, lokale Verfügbarkeit und Neofort BIZ Empfehlung.',
+      fr: 'Comparaison prix menuiserie aluminium Bucarest 2026 : Alumil vs Aluprof vs Cortizo vs Reynaers. Prix par m², Uw, disponibilité et recommandation Neofort BIZ.',
+      es: 'Comparación precios carpintería aluminio Bucarest 2026: Alumil vs Aluprof vs Cortizo vs Reynaers. Precios por m², Uw, disponibilidad local y recomendación Neofort BIZ.',
+      it: 'Confronto prezzi infissi alluminio Bucarest 2026: Alumil vs Aluprof vs Cortizo vs Reynaers. Prezzi per m², Uw, disponibilità locale e raccomandazione Neofort BIZ.',
+    },
+    keywords: 'preturi tamplarie aluminiu Bucuresti 2026, Alumil pret, Aluprof pret, Cortizo pret, Reynaers pret, comparatie sisteme aluminiu, fereastra aluminiu pret mp, Alumil vs Aluprof, tamplarie aluminiu Bucuresti',
+    content: {
+      ro: `## Alumil, Aluprof, Cortizo sau Reynaers — care e alegerea corectă în 2026?
+
+Cele 4 mărci dominante pe piața din București: **Alumil** (Grecia), **Aluprof** (Polonia), **Cortizo** (Spania) și **Reynaers** (Belgia). Fiecare are avantaje distincte — iată comparația completă.
+
+---
+
+## Comparație prețuri și performanțe — 2026
+
+| Sistem | Adâncime | Uw (W/m²K) | Preț/mp montat | Livrare RO |
+|---|---|---|---|---|
+| Alumil Smartia S67 | 67 mm | 1,2–1,4 | **250–350 EUR** | **3–5 zile** |
+| Aluprof MB-86 | 86 mm | 1,1–1,3 | 270–380 EUR | 2–3 săptămâni |
+| Cortizo COR 70 | 70 mm | 1,3–1,5 | 280–400 EUR | 4–6 săptămâni |
+| Reynaers CS 77 | 77 mm | 1,1–1,4 | 400–600 EUR | 5–8 săptămâni |
+| **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 zile** |
+| Aluprof MB-104 Passive | 104 mm | 0,75–0,90 | 380–550 EUR | 2–3 săptămâni |
+| Cortizo COR 80 RPT | 80 mm | 1,0–1,2 | 360–500 EUR | 4–6 săptămâni |
+| Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 săptămâni |
+
+---
+
+## Profilul fiecărei mărci
+
+### Alumil (Grecia, 1988) — livrăm la Neofort BIZ
+Cea mai mare prezență pe piața românească, cu depozit central la București și livrări în 3–5 zile. Cel mai bun raport calitate-preț-disponibilitate. Alumil Supreme SF85 este certificat Passive House Institute (PHI).
+
+### Aluprof (Polonia, 1953)
+A doua prezență ca volum în România. Prețuri competitive, MB-104 Passive certificat PHI. Dezavantaj: livrare 2–3 săptămâni față de Alumil.
+
+### Cortizo (Spania, 1972)
+Apreciat pentru design rafinat — profile vizuale mai înguste. Prețuri mai ridicate față de Alumil la performanțe similare. Livrare 4–6 săptămâni în România.
+
+### Reynaers (Belgia, 1965)
+Segment ultra-premium. Utilizat în proiecte arhitecturale de referință. Prețuri cu **40–80% mai mari** față de Alumil la performanțe comparabile. Justificat doar când arhitectul a specificat explicit acest sistem.
+
+---
+
+## Estimări pentru proiecte complete — București 2026
+
+### Casă modernă 150 mp (12–16 ferestre + 2 sisteme glisante)
+
+| Configurație | Estimare totală |
+|---|---|
+| Alumil Smartia S67, geam dublu Low-E | 18.000–28.000 EUR |
+| Alumil Supreme SF85, geam triplu Low-E, montaj nZEB | 28.000–45.000 EUR |
+
+---
+
+## Recomandarea Neofort BIZ
+
+Lucrăm exclusiv cu **Alumil** pentru 3 motive: stoc local (livrare 3–5 zile), cel mai bun raport calitate-preț și suport tehnic local pentru certificări nZEB.
+
+**WhatsApp:** +40 752 443 435 | **Email:** oferte@neofort-biz.ro | **L–V 10–18**`,
+
+      en: `## Alumil, Aluprof, Cortizo or Reynaers — which is the right choice in 2026?
+
+The 4 dominant brands on the Bucharest market: **Alumil** (Greece), **Aluprof** (Poland), **Cortizo** (Spain) and **Reynaers** (Belgium).
+
+---
+
+## Price and performance comparison — 2026
+
+| System | Depth | Uw (W/m²K) | Price/m² installed | Delivery RO |
+|---|---|---|---|---|
+| Alumil Smartia S67 | 67 mm | 1.2–1.4 | **250–350 EUR** | **3–5 days** |
+| Aluprof MB-86 | 86 mm | 1.1–1.3 | 270–380 EUR | 2–3 weeks |
+| Cortizo COR 70 | 70 mm | 1.3–1.5 | 280–400 EUR | 4–6 weeks |
+| Reynaers CS 77 | 77 mm | 1.1–1.4 | 400–600 EUR | 5–8 weeks |
+| **Alumil Supreme SF85** | **85 mm** | **0.95–1.1** | **350–500 EUR** | **3–5 days** |
+| Aluprof MB-104 | 104 mm | 0.75–0.90 | 380–550 EUR | 2–3 weeks |
+| Reynaers CS 86-HI | 86 mm | 0.80–1.0 | 550–800 EUR | 5–8 weeks |
+
+---
+
+## Brand profiles
+
+**Alumil** (Greece, 1988) — largest presence in Romania, local warehouse Bucharest, 3–5 day delivery. Best value. SF85 certified by Passive House Institute.
+
+**Aluprof** (Poland, 1953) — competitive prices, MB-104 PHI certified. 2–3 week delivery.
+
+**Cortizo** (Spain, 1972) — refined design, slimmer visual profiles. Higher price vs Alumil at similar performance. 4–6 week delivery.
+
+**Reynaers** (Belgium, 1965) — ultra-premium. 40–80% more expensive than Alumil at comparable performance. Justified only when the architect has specifically requested it.
+
+---
+
+## Neofort BIZ recommendation
+
+We work exclusively with Alumil: local stock (3–5 day delivery), best price-performance ratio, local technical support for nZEB certifications.
+
+**WhatsApp:** +40 752 443 435 | **Email:** oferte@neofort-biz.ro`,
+
+      de: `## Alumil, Aluprof, Cortizo oder Reynaers — Bukarest 2026
+
+---
+
+## Preisvergleich — 4 Marken
+
+| System | Tiefe | Uw (W/m²K) | Preis/m² montiert | Lieferung |
+|---|---|---|---|---|
+| Alumil Smartia S67 | 67 mm | 1,2–1,4 | **250–350 EUR** | **3–5 Tage** |
+| Aluprof MB-86 | 86 mm | 1,1–1,3 | 270–380 EUR | 2–3 Wochen |
+| Cortizo COR 70 | 70 mm | 1,3–1,5 | 280–400 EUR | 4–6 Wochen |
+| Reynaers CS 77 | 77 mm | 1,1–1,4 | 400–600 EUR | 5–8 Wochen |
+| **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 Tage** |
+| Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 Wochen |
+
+**Alumil**: größte Präsenz in Rumänien, lokales Lager Bukarest, bestes Preis-Leistungs-Verhältnis.
+**Reynaers**: Ultra-Premium, 40–80% teurer als Alumil bei vergleichbarer Leistung.
+
+**WhatsApp:** +40 752 443 435 | **E-Mail:** oferte@neofort-biz.ro`,
+
+      fr: `## Alumil, Aluprof, Cortizo ou Reynaers — Bucarest 2026
+
+---
+
+## Comparaison prix — 4 marques
+
+| Système | Profondeur | Uw (W/m²K) | Prix/m² posé | Livraison |
+|---|---|---|---|---|
+| Alumil Smartia S67 | 67 mm | 1,2–1,4 | **250–350 EUR** | **3–5 jours** |
+| Aluprof MB-86 | 86 mm | 1,1–1,3 | 270–380 EUR | 2–3 semaines |
+| Cortizo COR 70 | 70 mm | 1,3–1,5 | 280–400 EUR | 4–6 semaines |
+| Reynaers CS 77 | 77 mm | 1,1–1,4 | 400–600 EUR | 5–8 semaines |
+| **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 jours** |
+| Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 semaines |
+
+**Alumil** : plus grande présence en Roumanie, stock local Bucarest, meilleur rapport qualité-prix.
+**Reynaers** : ultra-premium, 40–80% plus cher qu'Alumil à performances comparables.
+
+**WhatsApp :** +40 752 443 435 | **Email :** oferte@neofort-biz.ro`,
+
+      es: `## Alumil, Aluprof, Cortizo o Reynaers — Bucarest 2026
+
+---
+
+## Comparación de precios — 4 marcas
+
+| Sistema | Profundidad | Uw (W/m²K) | Precio/m² instalado | Entrega |
+|---|---|---|---|---|
+| Alumil Smartia S67 | 67 mm | 1,2–1,4 | **250–350 EUR** | **3–5 días** |
+| Aluprof MB-86 | 86 mm | 1,1–1,3 | 270–380 EUR | 2–3 semanas |
+| Cortizo COR 70 | 70 mm | 1,3–1,5 | 280–400 EUR | 4–6 semanas |
+| Reynaers CS 77 | 77 mm | 1,1–1,4 | 400–600 EUR | 5–8 semanas |
+| **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 días** |
+| Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 semanas |
+
+**Alumil**: mayor presencia en Rumanía, almacén local Bucarest, mejor relación calidad-precio.
+**Reynaers**: ultra-premium, 40–80% más caro que Alumil a rendimiento comparable.
+
+**WhatsApp:** +40 752 443 435 | **Email:** oferte@neofort-biz.ro`,
+
+      it: `## Alumil, Aluprof, Cortizo o Reynaers — Bucarest 2026
+
+---
+
+## Confronto prezzi — 4 marchi
+
+| Sistema | Profondità | Uw (W/m²K) | Prezzo/m² posato | Consegna |
+|---|---|---|---|---|
+| Alumil Smartia S67 | 67 mm | 1,2–1,4 | **250–350 EUR** | **3–5 giorni** |
+| Aluprof MB-86 | 86 mm | 1,1–1,3 | 270–380 EUR | 2–3 settimane |
+| Cortizo COR 70 | 70 mm | 1,3–1,5 | 280–400 EUR | 4–6 settimane |
+| Reynaers CS 77 | 77 mm | 1,1–1,4 | 400–600 EUR | 5–8 settimane |
+| **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 giorni** |
+| Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 settimane |
+
+**Alumil**: maggiore presenza in Romania, magazzino locale Bucarest, miglior rapporto qualità-prezzo.
+**Reynaers**: ultra-premium, 40–80% più caro di Alumil a prestazioni comparabili.
+
+**WhatsApp:** +40 752 443 435 | **Email:** oferte@neofort-biz.ro`,
+    },
+  },
+
 ];
 
 // Găsește articol după slug în orice limbă

@@ -102,6 +102,22 @@ export const routing = defineRouting({
       es: '/blog/instalacion-premarcos-blaugelb-triotherm-nzeb',
       it: '/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb',
     },
+    '/blog/preturi-termopane-salamander-bucuresti': {
+      ro: '/blog/preturi-termopane-salamander-bucuresti',
+      en: '/blog/salamander-double-glazing-prices-bucharest',
+      de: '/blog/salamander-isolierglas-preise-bukarest',
+      fr: '/blog/prix-double-vitrage-salamander-bucarest',
+      es: '/blog/precios-doble-acristalamiento-salamander-bucarest',
+      it: '/blog/prezzi-doppio-vetro-salamander-bucarest',
+    },
+    '/blog/preturi-tamplarie-aluminiu-alumil-aluprof-cortizo-reynaers-bucuresti': {
+      ro: '/blog/preturi-tamplarie-aluminiu-alumil-aluprof-cortizo-reynaers-bucuresti',
+      en: '/blog/aluminium-windows-prices-alumil-aluprof-cortizo-reynaers-bucharest',
+      de: '/blog/aluminiumfenster-preise-alumil-aluprof-cortizo-reynaers-bukarest',
+      fr: '/blog/prix-menuiserie-aluminium-alumil-aluprof-cortizo-reynaers-bucarest',
+      es: '/blog/precios-carpinteria-aluminio-alumil-aluprof-cortizo-reynaers-bucarest',
+      it: '/blog/prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest',
+    },
     '/blog/jaluzele-raffstore-vs-rulouri-aluminiu': {
       ro: '/blog/jaluzele-raffstore-vs-rulouri-aluminiu',
       en: '/blog/raffstore-blinds-vs-aluminium-shutters',
