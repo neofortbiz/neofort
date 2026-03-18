@@ -200,10 +200,10 @@ export default async function TamplariePVCPage({ params }) {
     'aggregateRating': {
       '@type': 'AggregateRating',
       'ratingValue': '4.9',
-      'reviewCount':'44',
+      'reviewCount': '38',
       'bestRating': '5',
       'worstRating': '1',
-      'ratingCount':'44',
+      'ratingCount': '38',
     },
     'provider': { '@type': 'Organization', 'name': 'Neofort BIZ', 'url': BASE },
     'breadcrumb': {
