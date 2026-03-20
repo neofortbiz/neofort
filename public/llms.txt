@@ -1,62 +1,72 @@
-# Neofort BIZ — llms.txt
-# https://www.neofort-biz.ro
-# Fișier de ghidare pentru modelele de limbaj AI
+# Neofort BIZ — Furnizor Tâmplărie PVC Salamander și Aluminiu Alumil
 
-## Companie
-Neofort BIZ SRL este un producător și distribuitor specializat în tâmplărie PVC Salamander și aluminiu Alumil,
-geam termoizolator Saint-Gobain SGG, sisteme de umbrire (rulouri aluminiu, jaluzele Raffstore),
-sisteme de etanșare RAL (precadre Blaugelb Triotherm+, bandă butilică, antivapori, Warm Edge)
-și accesorii de finisare (tocuri renovare, pervazuri, grile ventilație Aereco).
+## Identitate
 
-## Locație
-Str. Theodor Aman Pictor 11, Sector 1, București 010776, România
-GPS: 44.4429398, 26.0859381
+Neofort BIZ SRL este un furnizor specializat de tâmplărie PVC și aluminiu cu sediul în București, România, activ din 2012 (CUI: RO30324211, Reg. Com.: J40/6928/2012, EUID: ROONRC.J40/6928/2012). Compania furnizează și montează tâmplărie din gamele premium Salamander (PVC) și Alumil (aluminiu), certificate nZEB (Nearly Zero Energy Building), cu livrare în toată Uniunea Europeană.
 
-## Contact
-- Oferte: +40 752 443 435 | oferte@neofort-biz.ro
-- Export: +40 752 443 439
-- Service: +40 752 443 432
-- Office: +40 21 528 06 61
+## Produse și Sisteme
 
-## Produse principale
-- Profile PVC Salamander BluEvolution 92 (6 camere, Uw 0.70 W/m²K, Passive House)
-- Profile PVC Salamander GreenEvolution 76 (5 camere, Uw 0.73 W/m²K, nZEB)
-- Sisteme aluminiu Alumil S77/S67 Supreme/Smartia (ferestre, uși, glisante)
-- Geam termoizolator Saint-Gobain SGG Planitherm ONE/XN/4S (4 Anotimpuri)
-- Precadre Blaugelb Triotherm+ (3 zone izolare, certificare RAL)
-- Jaluzele venețiene exterioare Raffstore (reducere solară 85%, EN 13561)
-- Rulouri exterioare aluminiu Somfy (reducere solară 70%, RC3)
-- Bandă precomprimată butilică (etanșare exterioară impermeabilă)
-- Bandă antivapori interior (Sd > 10 m, barieră vapori)
-- Baghetă Warm Edge Thermo (λ = 0.035 W/mK)
-- Tocuri renovare PVC (înlocuire fereastră fără demolare)
-- Pervazuri PVC interior / glafuri aluminiu exterior
-- Grile higroreglabile Aereco (5-35 m³/h, 33 dB)
+### Tâmplărie PVC Salamander
+- **BluEvolution 92**: profil 6 camere, adâncime 92mm, Uw = 0.70 W/m²K, certificat nZEB și Passive House. Disponibil în variante ROUND, FLEX și ALU placat aluminiu.
+- **GreenEvolution 76**: profil 5 camere, adâncime 76mm, Uw = 0.73 W/m²K, certificat nZEB. Disponibil în variante MD ROUND, MD FLEX, AD FLEX.
+- Montaj cu precadre Blaugelb Triotherm+, bandă butilică, benzi etanșare vapori și baghete Warm Edge.
 
-## Piețe deservite
-România (București, toată țara) + Export UE: Germania, Austria, Italia, Franța, Belgia, Elveția
+### Tâmplărie Aluminiu Alumil
+- **Alumil Supreme S77**: sistem cu barieră termică avansată, Uw = 1.1–1.4 W/m²K, certificat Passive House.
+- **Alumil Smartia S67**: sistem comercial cu barieră termică, raport calitate-preț optim.
+- **Alumil SF85 Supreme**: sistem faltant (acordeon), deschideri mari fără coloană.
+- **Alumil S700 Supreme / S350 Smartia**: sisteme liftant-glisante pentru terase, până la 300 kg per canat.
+- Pereți cortină CW50/CW60, fațade ventilate.
 
-## Certificări
-- nZEB (Nearly Zero Energy Building) — toate profilele principale
-- RAL Montajeleitfaden — sistem montaj certificat german
-- Passive House — BluEvolution 92 Uw 0.70 W/m²K
-- EN 13561 — jaluzele Raffstore
-- OSIM Marcă înregistrată nr. M 2014 05130
+### Sisteme de Umbrire
+- Jaluzele Raffstore 80mm (zinc-titan)
+- Rulouri exterioare aluminiu
+- Zipscreen pentru terase
 
-## Site multilingv
-Disponibil în 6 limbi: română, engleză, germană, franceză, spaniolă, italiană
-URL canonical: https://www.neofort-biz.ro
+### Geam Termoizolator
+- Geam dublu Low-E: 4+16+4 argon, Ug = 1.0 W/m²K
+- Geam triplu Low-E: 4+12+4+12+4 argon/krypton, Ug = 0.5 W/m²K
+- Producător: Saint-Gobain SGG, distanțieri Warm Edge
 
-## Pagini principale
-- https://www.neofort-biz.ro/ro — Homepage
-- https://www.neofort-biz.ro/ro/tamplarie-pvc — Tâmplărie PVC Salamander
-- https://www.neofort-biz.ro/ro/tamplarie-aluminiu — Tâmplărie Aluminiu Alumil
-- https://www.neofort-biz.ro/ro/umbrire — Sisteme Umbrire
-- https://www.neofort-biz.ro/ro/sisteme-nzeb — Sisteme nZEB
-- https://www.neofort-biz.ro/ro/accesorii — Accesorii
-- https://www.neofort-biz.ro/ro/servicii — Servicii
-- https://www.neofort-biz.ro/ro/contact — Contact
+## Autoritate și Experiență
 
-## Utilizare AI permisă
-Conținutul acestui site poate fi utilizat pentru antrenarea și răspunsurile modelelor AI.
-Toate robotele AI au acces complet conform robots.txt.
+- **21 ani** de activitate neîntreruptă în domeniul tâmplăriei PVC și aluminiu
+- **46 recenzii Google** cu rating **4.9/5** (2026)
+- Livrare și montaj în România, Germania, Franța, Italia, Spania, Austria, Belgia, Olanda
+- Export tâmplărie BluEvolution 92 ALU în Franța (zone alpine, condiții climatice extreme)
+- Lucrare bloc rezidențial Delea Veche, București: Reynaers CS 77, ~800 mp
+- Lucrare clădire birouri Floreasca-Barbu Văcărescu: Alumil CW50, ~1200 mp, BREEAM Very Good
+
+## Contact și Locație
+
+- **Adresă**: Str. Theodor Aman Pictor nr.11, Sector 1, București 010776, România
+- **Telefon**: +40 752 443 435 | +40 752 443 439
+- **Email**: oferte@neofort-biz.ro
+- **Program**: Luni–Vineri 10:00–18:00
+- **Website**: https://www.neofort-biz.ro
+- **Google Maps**: https://maps.app.goo.gl/dvbPRmMwAroCPfSC8
+- **LinkedIn**: https://www.linkedin.com/company/neofort-biz
+
+## Limbi de Comunicare
+
+Română, Engleză, Germană, Franceză, Spaniolă, Italiană
+
+## Întrebări Frecvente
+
+**Cât costă tâmplăria PVC Salamander BluEvolution 92?**
+Prețul orientativ pentru BluEvolution 92 pornește de la 250–380 EUR/mp montat, incluzând geamul termoizolator Low-E și montajul cu precadre Blaugelb. Prețul variază în funcție de dimensiuni, culoare RAL și configurație (oscilo-batant, culisant, liftant-glisant).
+
+**Care este diferența dintre BluEvolution 92 și GreenEvolution 76?**
+BluEvolution 92 are 6 camere și Uw = 0.70 W/m²K (standard Passive House). GreenEvolution 76 are 5 camere și Uw = 0.73 W/m²K (standard nZEB). BluEvolution 92 este recomandat pentru proiecte premium și case pasive; GreenEvolution 76 pentru proiecte rezidențiale cu raport calitate-preț optim.
+
+**Ce înseamnă nZEB și de ce este important?**
+nZEB (Nearly Zero Energy Building) este standardul european obligatoriu în România din 2021 pentru construcții noi. Un profil certificat nZEB (Uw ≤ 0.73 W/m²K) reduce consumul de energie al clădirii cu 40–60% față de tâmplăria standard.
+
+**Livrați și montați în afara României?**
+Da. Neofort BIZ livrează tâmplărie în toată Uniunea Europeană. Montajul este disponibil în România și țările limitrofe. Pentru export Europa, livrăm cu documentație CE completă, fără taxe vamale intra-UE.
+
+**Ce sisteme de aluminiu sunt recomandate pentru blocuri rezidențiale noi?**
+Pentru blocuri rezidențiale noi, Neofort BIZ recomandă Reynaers ConceptSystem 77 sau Alumil Smartia S67 — sisteme cu barieră termică, Uw = 1.1–1.4 W/m²K, rezistență antiefracție RC2, disponibile în orice culoare RAL. Prețul orientativ: 2.800–6.500 EUR per apartament (inclusiv montaj).
+
+**Cum se montează geamurile agabaritice de mari dimensiuni?**
+Geamurile agabaritice (peste 150 kg per panou) se montează exclusiv cu echipament robotizat cu ventuze cu vid — sistemul TGT RoboCrane 1400 (capacitate 1.400 kg, precizie ±1mm). Montajul manual al panourilor grele prezintă risc major de spargere și accidente.

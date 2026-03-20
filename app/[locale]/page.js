@@ -20,7 +20,7 @@ const CONTENT = {
     hero_al_btn: 'PROFILE ALUMINIU',
     sec_label_intro: 'Excelență în Tâmplărie Termoizolantă',
     intro_h2: 'Tâmplărie PVC Salamander\nși Aluminiu Alumil',
-    intro_p1: 'Alegerea între tâmplărie PVC Salamander și tâmplărie aluminiu Alumil este definitorie pentru eficiența energetică a oricărei construcții moderne. La Neofort BIZ integrăm tehnologia de vârf cu designul minimalist pentru bariere termice de neegalat. Profilele noastre sunt certificate nZEB (Nearly Zero Energy Building), asigurând o economie reală la costurile de încălzire. Completăm fiecare instalare cu precadre Blaugelb Triotherm+, bandă butilică etanșare, benzi etanșare vapori și baghete warm-edge pentru un sistem termoizolator complet și durabil, conform standardelor europene.',
+    intro_p1: 'Neofort BIZ SRL este furnizor specializat de tâmplărie PVC Salamander și tâmplărie aluminiu Alumil în București, cu 21 de ani de experiență și livrare în toată Uniunea Europeană. Profilele BluEvolution 92 (6 camere, Uw = 0,70 W/m²K) și GreenEvolution 76 (5 camere, Uw = 0,73 W/m²K) sunt certificate nZEB, asigurând 40–60% economie la încălzire față de tâmplăria standard. Fiecare instalare include precadre Blaugelb Triotherm+, bandă butilică, benzi etanșare vapori și baghete Warm Edge — sistem complet conform EN 14351.',
     intro_p1_bold: ['tâmplărie PVC Salamander','tâmplărie aluminiu Alumil','nZEB (Nearly Zero Energy Building)','precadre Blaugelb Triotherm+','bandă butilică etanșare','benzi etanșare vapori','baghete warm-edge'],
     intro_p2_pre: 'Fie că optați pentru robustețea sistemelor de',
     intro_p2_b1: 'aluminiu Alumil cu barieră termică',
@@ -32,7 +32,7 @@ const CONTENT = {
     intro_p2_b4: 'geam termoizolator 3 foi',
     intro_p2_link2: 'profile de renovare, pervazuri, jaluzele Raffstore și rulouri exterioare aluminiu',
     intro_p2_end: '— tot ce aveți nevoie pentru o locuință modernă, eficientă energetic și conformă cu cele mai exigente standarde de confort termic și fonic.',
-    stats: [['21+','Ani activitate neîntreruptă'],['nZEB','Certificate conformitate'],['50%+','Clienți recurenți'],['4.9★','38 Recenzii Google']],
+    stats: [['21+','Ani activitate neîntreruptă'],['nZEB','Certificate conformitate'],['50%+','Clienți recurenți'],['4.9★','46 Recenzii Google']],
     sec_products: 'Produse & Servicii',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Tâmplărie PVC Salamander', title:'Profile PVC Salamander', desc:'Furnizăm tâmplărie PVC Salamander BluEvolution 92 și GreenEvolution 76 din gamele premium, executată pe linii automatizate și compatibilă nZEB.', btn:'card-btn card-btn-pvc' },
@@ -84,7 +84,7 @@ const CONTENT = {
     hero_al_btn: 'ALUMINIUM PROFILES',
     sec_label_intro: 'Excellence in Thermal Insulation Windows',
     intro_h2: 'PVC Salamander Windows\n& Aluminium Alumil',
-    intro_p1: 'The choice between PVC Salamander windows and Alumil aluminium systems is defining for the energy efficiency of any modern building. At Neofort BIZ we integrate cutting-edge technology with minimalist design for unmatched thermal barriers. Our profiles are nZEB (Nearly Zero Energy Building) certified, ensuring real savings on heating costs. We complete every installation with Blaugelb Triotherm+ precasings, butyl sealing tape, vapour sealing tapes and warm-edge spacers for a complete and durable thermal insulation system, compliant with European standards.',
+    intro_p1: 'Neofort BIZ SRL is a specialised supplier of Salamander PVC windows and Alumil aluminium systems in Bucharest, Romania, with 21 years of experience and EU-wide delivery. BluEvolution 92 (6 chambers, Uw = 0.70 W/m²K) and GreenEvolution 76 (5 chambers, Uw = 0.73 W/m²K) profiles are nZEB certified, delivering 40–60% energy savings versus standard windows. Every installation includes Blaugelb Triotherm+ precasings, butyl tape, vapour barriers and Warm Edge spacers — a complete thermal system compliant with EN 14351.',
     intro_p2_pre: 'Whether you opt for the robustness of',
     intro_p2_b1: 'Alumil aluminium with thermal barrier',
     intro_p2_mid: 'or the superior acoustic insulation of',
@@ -95,7 +95,7 @@ const CONTENT = {
     intro_p2_b4: 'triple-pane thermal glass',
     intro_p2_link2: 'renovation profiles, windowsills, Raffstore blinds and aluminium external shutters',
     intro_p2_end: '— everything you need for a modern, energy-efficient home that meets the most demanding standards of thermal and acoustic comfort.',
-    stats: [['21+','Years of activity'],['nZEB','Compliance certificates'],['50%+','Returning clients'],['4.9★','38 Google Reviews']],
+    stats: [['21+','Years of activity'],['nZEB','Compliance certificates'],['50%+','Returning clients'],['4.9★','46 Google Reviews']],
     sec_products: 'Products & Services',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'PVC Salamander Windows', title:'Salamander PVC Profiles', desc:'We supply PVC Salamander BluEvolution 92 and GreenEvolution 76 windows from premium ranges, manufactured on automated lines and nZEB compatible.', btn:'card-btn card-btn-pvc' },
@@ -147,7 +147,7 @@ const CONTENT = {
     hero_al_btn: 'ALUMINIUMPROFILE',
     sec_label_intro: 'Exzellenz in Wärmeschutzfenstern',
     intro_h2: 'Kunststofffenster Salamander\n& Aluminiumfenster Alumil',
-    intro_p1: 'Die Wahl zwischen PVC Salamander Fenstern und Alumil Aluminiumsystemen ist entscheidend für die Energieeffizienz jedes modernen Gebäudes. Bei Neofort BIZ kombinieren wir Spitzentechnologie mit minimalistischem Design für unübertroffene Wärmedämmung. Unsere Profile sind nZEB (Nearly Zero Energy Building) zertifiziert und sorgen für echte Einsparungen bei den Heizkosten. Jede Montage ergänzen wir mit Blaugelb Triotherm+ Vorfenstern, Butyl-Dichtband, Dampfsperrbändern und Warm-Edge-Abstandhaltern für ein vollständiges und dauerhaftes Wärmedämmsystem nach europäischen Standards.',
+    intro_p1: 'Neofort BIZ SRL ist ein spezialisierter Lieferant von Salamander PVC-Fenstern und Alumil Aluminiumsystemen in Bukarest, Rumänien, mit 21 Jahren Erfahrung und EU-weiter Lieferung. BluEvolution 92 (6 Kammern, Uw = 0,70 W/m²K) und GreenEvolution 76 (5 Kammern, Uw = 0,73 W/m²K) sind nZEB-zertifiziert und sparen 40–60% Heizkosten gegenüber Standardfenstern. Jede Installation umfasst Blaugelb Triotherm+ Vorfenster, Butyl-Dichtband, Dampfsperrbänder und Warm Edge Abstandhalter — vollständiges System nach EN 14351.',
     intro_p2_pre: 'Ob Sie sich für die Robustheit von',
     intro_p2_b1: 'Alumil Aluminium mit Wärmedämmung',
     intro_p2_mid: 'oder für die überlegene Schalldämmung von',
@@ -158,7 +158,7 @@ const CONTENT = {
     intro_p2_b4: 'Dreischeiben-Isolierglas',
     intro_p2_link2: 'Renovierungsprofile, Fensterbänke, Raffstore Jalousien und Aluminiumrollläden',
     intro_p2_end: '— alles, was Sie für ein modernes, energieeffizientes Zuhause benötigen, das den anspruchsvollsten Wärme- und Schallschutzstandards entspricht.',
-    stats: [['21+','Jahre Erfahrung'],['nZEB','Zertifizierte Konformität'],['50%+','Stammkunden'],['4.9★','38 Google-Bewertungen']],
+    stats: [['21+','Jahre Erfahrung'],['nZEB','Zertifizierte Konformität'],['50%+','Stammkunden'],['4.9★','46 Google-Bewertungen']],
     sec_products: 'Produkte & Dienstleistungen',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Kunststofffenster Salamander', title:'Salamander PVC-Profile', desc:'Wir liefern PVC Salamander BluEvolution 92 und GreenEvolution 76 Fenster aus den Premiumsortimenten, auf automatisierten Linien gefertigt und nZEB-kompatibel.', btn:'card-btn card-btn-pvc' },
@@ -210,7 +210,7 @@ const CONTENT = {
     hero_al_btn: 'PROFILÉS ALUMINIUM',
     sec_label_intro: 'Excellence en menuiserie thermique isolante',
     intro_h2: 'Menuiserie PVC Salamander\n& Aluminium Alumil',
-    intro_p1: 'Le choix entre menuiserie PVC Salamander et systèmes aluminium Alumil est déterminant pour l\'efficacité énergétique de toute construction moderne. Chez Neofort BIZ, nous intégrons la technologie de pointe au design minimaliste pour des barrières thermiques inégalées. Nos profilés sont certifiés nZEB (Nearly Zero Energy Building), garantissant de vraies économies sur les coûts de chauffage. Nous complétons chaque installation par des précadres Blaugelb Triotherm+, bande d\'étanchéité en butyle, bandes pare-vapeur et baguettes warm-edge pour un système d\'isolation thermique complet et durable, conforme aux normes européennes.',
+    intro_p1: 'Neofort BIZ SRL est un fournisseur spécialisé de menuiseries PVC Salamander et aluminium Alumil à Bucarest, Roumanie, avec 21 ans d\'expérience et livraison dans toute l\'Union Européenne. Les profils BluEvolution 92 (6 chambres, Uw = 0,70 W/m²K) et GreenEvolution 76 (5 chambres, Uw = 0,73 W/m²K) sont certifiés nZEB, économisant 40–60% sur le chauffage par rapport aux menuiseries standard. Chaque installation inclut précadres Blaugelb Triotherm+, bande butyle, bandes pare-vapeur et Warm Edge — système complet conforme EN 14351.',
     intro_p2_pre: 'Que vous optiez pour la robustesse des systèmes en',
     intro_p2_b1: 'aluminium Alumil avec rupture thermique',
     intro_p2_mid: 'ou pour l\'isolation acoustique supérieure des',
@@ -221,7 +221,7 @@ const CONTENT = {
     intro_p2_b4: 'vitrage isolant triple vitrage',
     intro_p2_link2: 'profils de rénovation, appuis de fenêtre, stores Raffstore et volets roulants aluminium',
     intro_p2_end: '— tout ce dont vous avez besoin pour un logement moderne, efficace sur le plan énergétique et conforme aux normes de confort thermique et acoustique les plus exigeantes.',
-    stats: [['21+','Ans d\'activité'],['nZEB','Certifiés conformes'],['50%+','Clients fidèles'],['4.9★','38 Avis Google']],
+    stats: [['21+','Ans d\'activité'],['nZEB','Certifiés conformes'],['50%+','Clients fidèles'],['4.9★','46 Avis Google']],
     sec_products: 'Produits & Services',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Menuiserie PVC Salamander', title:'Profilés PVC Salamander', desc:'Nous fournissons des menuiseries PVC Salamander BluEvolution 92 et GreenEvolution 76 des gammes premium, fabriquées sur lignes automatisées et compatibles nZEB.', btn:'card-btn card-btn-pvc' },
@@ -273,7 +273,7 @@ const CONTENT = {
     hero_al_btn: 'PERFILES ALUMINIO',
     sec_label_intro: 'Excelencia en carpintería de aislamiento térmico',
     intro_h2: 'Carpintería PVC Salamander\n& Aluminio Alumil',
-    intro_p1: 'La elección entre carpintería PVC Salamander y sistemas de aluminio Alumil es determinante para la eficiencia energética de cualquier construcción moderna. En Neofort BIZ integramos tecnología punta con diseño minimalista para barreras térmicas sin igual. Nuestros perfiles están certificados nZEB (Nearly Zero Energy Building), garantizando un ahorro real en los costes de calefacción. Completamos cada instalación con premarcos Blaugelb Triotherm+, cinta butílica de sellado, cintas de sellado de vapor e intercalarios warm-edge para un sistema de aislamiento térmico completo y duradero, conforme a las normas europeas.',
+    intro_p1: 'Neofort BIZ SRL es un proveedor especializado de carpintería PVC Salamander y aluminio Alumil en Bucarest, Rumanía, con 21 años de experiencia y entrega en toda la Unión Europea. Los perfiles BluEvolution 92 (6 cámaras, Uw = 0,70 W/m²K) y GreenEvolution 76 (5 cámaras, Uw = 0,73 W/m²K) están certificados nZEB, ahorrando 40–60% en calefacción frente a la carpintería estándar. Cada instalación incluye premarcos Blaugelb Triotherm+, cinta butilo, barreras de vapor y Warm Edge — sistema completo conforme EN 14351.',
     intro_p2_pre: 'Ya sea que opte por la robustez de los sistemas de',
     intro_p2_b1: 'aluminio Alumil con rotura de puente térmico',
     intro_p2_mid: 'o por el aislamiento acústico superior de la',
@@ -284,7 +284,7 @@ const CONTENT = {
     intro_p2_b4: 'vidrio aislante triple hoja',
     intro_p2_link2: 'marcos de renovación, alféizares, persianas Raffstore y cierres enrollables de aluminio',
     intro_p2_end: '— todo lo que necesita para una vivienda moderna, eficiente energéticamente y conforme a los estándares más exigentes de confort térmico y acústico.',
-    stats: [['21+','Años de actividad'],['nZEB','Certificados conformes'],['50%+','Clientes recurrentes'],['4.9★','38 Reseñas Google']],
+    stats: [['21+','Años de actividad'],['nZEB','Certificados conformes'],['50%+','Clientes recurrentes'],['4.9★','46 Reseñas Google']],
     sec_products: 'Productos & Servicios',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Carpintería PVC Salamander', title:'Perfiles PVC Salamander', desc:'Suministramos carpintería PVC Salamander BluEvolution 92 y GreenEvolution 76 de las gamas premium, fabricada en líneas automatizadas y compatible con nZEB.', btn:'card-btn card-btn-pvc' },
@@ -336,7 +336,7 @@ const CONTENT = {
     hero_al_btn: 'PROFILI ALLUMINIO',
     sec_label_intro: 'Eccellenza negli infissi termoisolanti',
     intro_h2: 'Infissi in PVC Salamander\n& Alluminio Alumil',
-    intro_p1: 'La scelta tra infissi in PVC Salamander e sistemi in alluminio Alumil è determinante per l\'efficienza energetica di qualsiasi costruzione moderna. Da Neofort BIZ integriamo la tecnologia d\'avanguardia con il design minimalista per barriere termiche senza pari. I nostri profili sono certificati nZEB (Nearly Zero Energy Building), garantendo un reale risparmio sui costi di riscaldamento. Completiamo ogni installazione con precontrotelaio Blaugelb Triotherm+, nastro sigillante in butile, nastri barriera vapore e distanziatori warm-edge per un sistema di isolamento termico completo e duraturo, conforme agli standard europei.',
+    intro_p1: 'Neofort BIZ SRL è un fornitore specializzato di infissi PVC Salamander e alluminio Alumil a Bucarest, Romania, con 21 anni di esperienza e consegna in tutta l\'Unione Europea. I profili BluEvolution 92 (6 camere, Uw = 0,70 W/m²K) e GreenEvolution 76 (5 camere, Uw = 0,73 W/m²K) sono certificati nZEB, garantendo 40–60% di risparmio energetico rispetto agli infissi standard. Ogni installazione include precontrotelaio Blaugelb Triotherm+, nastro butile, barriere al vapore e Warm Edge — sistema completo conforme EN 14351.',
     intro_p2_pre: 'Che scegliate la robustezza dei sistemi in',
     intro_p2_b1: 'alluminio Alumil con taglio termico',
     intro_p2_mid: 'o l\'isolamento acustico superiore degli',
@@ -347,7 +347,7 @@ const CONTENT = {
     intro_p2_b4: 'vetro isolante a tripla lastra',
     intro_p2_link2: 'telai di ristrutturazione, davanzali, veneziane Raffstore e tapparelle esterne in alluminio',
     intro_p2_end: '— tutto ciò di cui avete bisogno per un\'abitazione moderna, efficiente dal punto di vista energetico e conforme ai più esigenti standard di comfort termico e acustico.',
-    stats: [['21+','Anni di attività'],['nZEB','Certificati conformi'],['50%+','Clienti fedeli'],['4.9★','38 Recensioni Google']],
+    stats: [['21+','Anni di attività'],['nZEB','Certificati conformi'],['50%+','Clienti fedeli'],['4.9★','46 Recensioni Google']],
     sec_products: 'Prodotti & Servizi',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Infissi in PVC Salamander', title:'Profili PVC Salamander', desc:'Forniamo infissi in PVC Salamander BluEvolution 92 e GreenEvolution 76 delle gamme premium, prodotti su linee automatizzate e compatibili nZEB.', btn:'card-btn card-btn-pvc' },
@@ -416,8 +416,8 @@ const buildSchema = (locale, c) => ({
   "@context":"https://schema.org","@graph":[
     { "@type":"WebSite","@id":`${BASE}/#website`,"url":BASE,"name":"Neofort BIZ","inLanguage":locale,"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":`${BASE}/ro/blog?q={search_term_string}`},"query-input":"required name=search_term_string"} },
     { "@type":"Organization","@id":`${BASE}/#organization`,"name":"Neofort BIZ","alternateName":["NEOFORT PVC & ALUMINUM JOINERY","Neofort BIZ SRL"],"url":BASE,"logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":512,"height":512},"foundingDate":"2003","email":"oferte@neofort-biz.ro","telephone":["+40215280661","+40752443435"],"sameAs":["https://www.facebook.com/neofortconstructii","https://www.linkedin.com/company/neofort-biz","https://x.com/NeofortBIZ","https://maps.app.goo.gl/dvbPRmMwAroCPfSC8"],"address":{"@type":"PostalAddress","streetAddress":"Str. Theodor Aman Pictor 11","addressLocality":"București","addressRegion":"Sector 1","postalCode":"010776","addressCountry":"RO"} },
-    { "@type":["LocalBusiness","HomeAndConstructionBusiness"],"@id":`${BASE}/#localbusiness`,"name":"Neofort BIZ SRL","legalName":"NEOFORT BIZ SRL","alternateName":"Neofort BIZ","vatID":"RO30324211","taxID":"RO30324211","leiCode":"J40/6928/2012","identifier":{"@type":"PropertyValue","name":"EUID","value":"ROONRC.J40/6928/2012"},"url":BASE,"telephone":["+40215280661","+40752443435","+40752443439"],"email":"oferte@neofort-biz.ro","priceRange":"$$","currenciesAccepted":"RON, EUR","paymentAccepted":"Cash, Bank Transfer, Card","address":{"@type":"PostalAddress","streetAddress":"Str. Theodor Aman Pictor 11","addressLocality":"București","addressRegion":"Sector 1","postalCode":"010776","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":44.4429398,"longitude":26.0859381},"hasMap":"https://maps.app.goo.gl/dvbPRmMwAroCPfSC8","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"38","bestRating":"5","worstRating":"1"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"10:00","closes":"18:00"}],"areaServed":[{"@type":"City","name":"București"},{"@type":"AdministrativeArea","name":"Ilfov"},{"@type":"AdministrativeArea","name":"Sector 1, București"},{"@type":"AdministrativeArea","name":"Sector 2, București"},{"@type":"AdministrativeArea","name":"Sector 3, București"},{"@type":"Country","name":"Romania"},{"@type":"Continent","name":"Europe"}],"knowsLanguage":["ro","en","de","fr","es","it"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Tâmplărie PVC Salamander & Aluminiu Alumil","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Profile PVC Salamander BluEvolution 92"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Sisteme Aluminiu Alumil S77 Supreme"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Geam Termoizolator Saint-Gobain SGG"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Rulouri Exterioare Aluminiu"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Jaluzele Venețiene Raffstore"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Zipscreen Terase"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tâmplărie Aluminiu Alumil Supreme SF85"}}]},"parentOrganization":{"@id":`${BASE}/#organization`} },
-    { "@type":"WebPage","@id":`${BASE}/${locale}/#webpage`,"url":`${BASE}/${locale}`,"name":c.title,"isPartOf":{"@id":`${BASE}/#website`},"inLanguage":locale,"dateModified":new Date().toISOString().split('T')[0],"speakable":{"@type":"SpeakableSpecification","cssSelector":["h1",".speakable-intro",".speakable-stats"]} },
+    { "@type":["LocalBusiness","HomeAndConstructionBusiness"],"@id":`${BASE}/#localbusiness`,"name":"Neofort BIZ SRL","legalName":"NEOFORT BIZ SRL","alternateName":"Neofort BIZ","vatID":"RO30324211","taxID":"RO30324211","leiCode":"J40/6928/2012","identifier":{"@type":"PropertyValue","name":"EUID","value":"ROONRC.J40/6928/2012"},"url":BASE,"telephone":["+40215280661","+40752443435","+40752443439"],"email":"oferte@neofort-biz.ro","priceRange":"$$","currenciesAccepted":"RON, EUR","paymentAccepted":"Cash, Bank Transfer, Card","address":{"@type":"PostalAddress","streetAddress":"Str. Theodor Aman Pictor 11","addressLocality":"București","addressRegion":"Sector 1","postalCode":"010776","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":44.4429398,"longitude":26.0859381},"hasMap":"https://maps.app.goo.gl/dvbPRmMwAroCPfSC8","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount':'46',"bestRating":"5","worstRating":"1"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"10:00","closes":"18:00"}],"areaServed":[{"@type":"City","name":"București"},{"@type":"AdministrativeArea","name":"Ilfov"},{"@type":"AdministrativeArea","name":"Sector 1, București"},{"@type":"AdministrativeArea","name":"Sector 2, București"},{"@type":"AdministrativeArea","name":"Sector 3, București"},{"@type":"Country","name":"Romania"},{"@type":"Continent","name":"Europe"}],"knowsLanguage":["ro","en","de","fr","es","it"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Tâmplărie PVC Salamander & Aluminiu Alumil","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Profile PVC Salamander BluEvolution 92"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Sisteme Aluminiu Alumil S77 Supreme"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Geam Termoizolator Saint-Gobain SGG"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Rulouri Exterioare Aluminiu"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Jaluzele Venețiene Raffstore"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Zipscreen Terase"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tâmplărie Aluminiu Alumil Supreme SF85"}}]},"parentOrganization":{"@id":`${BASE}/#organization`} },
+    { "@type":"WebPage","@id":`${BASE}/${locale}/#webpage`,"url":`${BASE}/${locale}`,"name":c.title,"isPartOf":{"@id":`${BASE}/#website`},"inLanguage":locale,"dateModified":new Date().toISOString().split('T')[0],"speakable":{"@type":"SpeakableSpecification","cssSelector":["h1","h2",".speakable-intro",".speakable-stats",".speakable-faq",".speakable-about"]} },
     { "@type":"FAQPage","@id":`${BASE}/${locale}/#faq`,"mainEntity":c.faqs.map(f=>({ "@type":"Question","name":f.q,"acceptedAnswer":{"@type":"Answer","text":f.a} })) },
     { "@type":"ItemList","@id":`${BASE}/${locale}/#products`,"name":c.sec_products,"numberOfItems":3,"itemListElement":c.products.map((p,i)=>({ "@type":"ListItem","position":i+1,"url":`${BASE}/${locale}/${p.href}`,"name":p.title })) },
   ]
@@ -433,7 +433,7 @@ export default async function HomePage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(buildSchema(locale, c)) }}/>
 
       {/* H1 semantic */}
-      <section style={{padding:'40px 0 48px', borderBottom:'1px solid #e8e8e8'}}>
+      <section className="speakable-about" style={{padding:'40px 0 48px', borderBottom:'1px solid #e8e8e8'}}>
         <div className="container">
           <h1 style={{position:'absolute',width:'1px',height:'1px',overflow:'hidden',clip:'rect(0,0,0,0)',whiteSpace:'nowrap'}}>
             {c.h1}

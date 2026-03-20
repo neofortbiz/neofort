@@ -196,10 +196,10 @@ export default async function TamplaieAluminiuPage({ params }) {
     'aggregateRating': {
       '@type': 'AggregateRating',
       'ratingValue': '4.9',
-      'reviewCount': '38',
+      'reviewCount':'46',
       'bestRating': '5',
       'worstRating': '1',
-      'ratingCount': '38',
+      'ratingCount':'46',
     },
     'provider': { '@type': 'Organization', 'name': 'Neofort BIZ', 'url': BASE },
     'breadcrumb': { '@type': 'BreadcrumbList', 'itemListElement': [

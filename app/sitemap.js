@@ -350,5 +350,13 @@ export default function sitemap() {
         alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/accesorii/${slugs[l]||canonical}`])) } });
     });
   });
+  // llms.txt — pentru LLM crawlers
+  urls.push({
+    url: `${BASE}/llms.txt`,
+    lastModified: now,
+    priority: 0.9,
+    changeFrequency: 'monthly',
+  });
+
   return urls;
 }

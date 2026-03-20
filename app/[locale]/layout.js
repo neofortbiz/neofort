@@ -73,6 +73,11 @@ export default async function LocaleLayout({ children, params }) {
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
+        {/* AI Crawler hints */}
+        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+        <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1" />
+        <meta name="bingbot" content="index, follow" />
+        <link rel="canonical" href={`https://www.neofort-biz.ro/${locale}`} />
 
         {/* Theme */}
         <meta name="theme-color" content="#111111" />
