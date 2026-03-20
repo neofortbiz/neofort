@@ -65,7 +65,7 @@ export async function generateMetadata({ params }) {
       canonical: `${BASE}/${locale}/blog`,
       languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog`])),
     },
-    openGraph: { type:'website', url:`${BASE}/${locale}/blog`, title:m.title, description:m.desc, siteName:'Neofort BIZ', images:[{ url:`${BASE}/blog-hero.jpg`, width:1600, height:640 }] },
+    openGraph: { type:'website', url:`${BASE}/${locale}/blog`, title:m.title, description:m.desc, siteName:'Neofort BIZ', images:[{ url:`${BASE}/og/BLOG.avif`, width:1200, height:630, type:'image/avif' }] },
   };
 }
 
@@ -133,8 +133,10 @@ export default async function BlogPage({ params }) {
       }}>
         {/* Imagine de fundal */}
         <img
-          src="/blog-hero.jpg"
+          src="/blog-hero.avif"
           alt="Blog tâmplărie PVC aluminiu Neofort BIZ"
+          fetchpriority="high"
+          decoding="async"
           style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:0.18,display:'block'}}
         />
         {/* Grilă decorativă subtilă */}
