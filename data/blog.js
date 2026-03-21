@@ -8528,6 +8528,1612 @@ Parete cortina Alumil CW50, vetro riflettente Low-E 6+16+6 (g = 0,27), BREEAM Ve
   },
 
 
+  // ─── ARTICOL 20: Zipscreen Blackout sau Transparent ─────────────────────
+  {
+    slugs: {
+      ro: 'rulouri-zipscreen-blackout-sau-transparent-cum-alegi',
+      en: 'zipscreen-blinds-blackout-or-transparent-how-to-choose',
+      de: 'zipscreen-rollos-blackout-oder-transparent-wie-waehlen',
+      fr: 'stores-zipscreen-occultant-ou-transparent-comment-choisir',
+      es: 'persianas-zipscreen-blackout-o-transparente-como-elegir',
+      it: 'tende-zipscreen-oscuranti-o-trasparenti-come-scegliere',
+    },
+    date: '2026-03-21',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
+    category: { ro:'Sisteme de Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:"Systèmes d\'Occultation", es:'Sistemas de Sombreado', it:'Sistemi di Oscuramento' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: {
+      ro: '/blog/blog-zipscreen-blackout-transparent.avif',
+      en: '/blog/blog-zipscreen-blackout-transparent.avif',
+      de: '/blog/blog-zipscreen-blackout-transparent.avif',
+      fr: '/blog/blog-zipscreen-blackout-transparent.avif',
+      es: '/blog/blog-zipscreen-blackout-transparent.avif',
+      it: '/blog/blog-zipscreen-blackout-transparent.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a1a2e 0%,#2d2d5a 60%,#4a4a8c 100%)',
+    imageLabel: 'Zipscreen Blackout vs Transparent',
+    accentColor: '#4a4a8c',
+    title: {
+      ro: 'Zipscreen Blackout sau Transparent? Cum alegi țesătura potrivită pentru terasa sau fereastra ta',
+      en: 'Zipscreen Blackout or Transparent? How to choose the right fabric for your terrace or window',
+      de: 'Zipscreen Blackout oder Transparent? Wie Sie das richtige Gewebe für Ihre Terrasse oder Ihr Fenster wählen',
+      fr: 'Zipscreen occultant ou transparent ? Comment choisir le bon tissu pour votre terrasse ou fenêtre',
+      es: '¿Zipscreen blackout o transparente? Cómo elegir el tejido adecuado para tu terraza o ventana',
+      it: 'Zipscreen oscurante o trasparente? Come scegliere il tessuto giusto per la tua terrazza o finestra',
+    },
+    excerpt: {
+      ro: 'Cea mai frecventă întrebare când vine vorba de rulouri Zipscreen: blackout sau transparent? Ghid complet 2026 — diferențele tehnice reale dintre opacitate 0%, 1–3% și 5–10%, ce contează pentru terasa ta din București, cum influențează orientarea casei și ce să comanzi dacă vrei și intimitate, și lumină naturală.',
+      en: 'The most common question about Zipscreen blinds: blackout or transparent? Complete guide 2026 — real technical differences between 0%, 1–3% and 5–10% openness, what matters for your Bucharest terrace, how house orientation influences the choice, and what to order if you want both privacy and natural light.',
+      de: 'Die häufigste Frage bei Zipscreen-Rollos: Blackout oder transparent? Vollständiger Leitfaden 2026 — echte technische Unterschiede zwischen 0%, 1–3% und 5–10% Öffnung, was für Ihre Bukarester Terrasse wichtig ist.',
+      fr: "La question la plus fréquente sur les stores Zipscreen : occultant ou transparent ? Guide complet 2026 — vraies différences techniques entre les opacités 0%, 1–3% et 5–10%, ce qui compte pour votre terrasse à Bucarest.",
+      es: 'La pregunta más frecuente sobre las persianas Zipscreen: ¿blackout o transparente? Guía completa 2026 — diferencias técnicas reales entre opacidad 0%, 1–3% y 5–10%, qué importa para tu terraza en Bucarest.',
+      it: 'La domanda più frequente sulle tende Zipscreen: oscurante o trasparente? Guida completa 2026 — vere differenze tecniche tra opacità 0%, 1–3% e 5–10%, cosa conta per la tua terrazza a Bucarest.',
+    },
+    metaDesc: {
+      ro: 'Zipscreen blackout sau transparent București 2026: diferențe tehnice opacitate 0% vs 5-10%, alegere după orientare sud/vest/nord, prețuri comparative, Somfy smart home. Ghid Neofort BIZ.',
+      en: 'Zipscreen blackout or transparent Bucharest 2026: technical differences 0% vs 5-10% openness, choice by south/west/north orientation, comparative prices, Somfy smart home. Neofort BIZ guide.',
+      de: 'Zipscreen Blackout oder transparent Bukarest 2026: technische Unterschiede 0% vs 5–10% Öffnung, Auswahl nach Süd/West/Nord-Ausrichtung, Vergleichspreise, Somfy Smart Home. Neofort BIZ Leitfaden.',
+      fr: 'Zipscreen occultant ou transparent Bucarest 2026 : différences techniques 0% vs 5–10% ouverture, choix selon orientation sud/ouest/nord, prix comparatifs, Somfy domotique. Guide Neofort BIZ.',
+      es: 'Zipscreen blackout o transparente Bucarest 2026: diferencias técnicas 0% vs 5–10% apertura, elección según orientación sur/oeste/norte, precios comparativos, Somfy domótica. Guía Neofort BIZ.',
+      it: 'Zipscreen oscurante o trasparente Bucarest 2026: differenze tecniche 0% vs 5–10% apertura, scelta per orientamento sud/ovest/nord, prezzi comparativi, Somfy domotica. Guida Neofort BIZ.',
+    },
+    keywords: 'zipscreen blackout sau transparent, rulouri screen opacitate alegere, zipscreen terasa Bucuresti orientare, rulouri screen 5% vs 1% vs 0%, zipscreen pret tip tesatura, rulouri exterior vizibilitate intimitate',
+    content: {
+      ro: `## Întrebarea pe care o primim cel mai des: blackout sau transparent?
+
+Aproape fiecare client care comandă un rulou Zipscreen în București pune aceeași întrebare: **„Ce e mai bine — blackout sau transparent?"**
+
+Răspunsul corect depinde de trei factori: **orientarea ferestrei sau terasei**, **scopul principal** (umbrire vs. intimitate vs. confort vizual) și **contextul urbanistic** (stradă, vecini, curtea privată).
+
+Acest ghid îți explică exact ce înseamnă fiecare opțiune și cum alegi corect de prima dată.
+
+---
+
+## Înțelegerea „procentului de deschidere" — ce înseamnă 1%, 3%, 5%, 10%
+
+**Procentul de deschidere** (openness factor) reprezintă proporția de goluri din țesătura screen față de suprafața totală. Un procent mai mic = material mai dens = mai puțină lumină și vizibilitate.
+
+| Tip țesătură | Deschidere | Filtrare UV | Vizibilitate din interior | Vizibilitate din exterior (zi) |
+|---|---|---|---|---|
+| Transparent | 5–10% | 90–95% | Excelentă | Redusă (efect oglindă) |
+| Semi-opac | 1–3% | 97–99% | Bună spre redusă | Foarte redusă |
+| Opac (blackout) | 0% | 100% | Zero | Zero |
+
+**Atenție la un mit frecvent:** la țesăturile screen cu 5–10% deschidere, din exterior pe timp de zi **nu se vede înăuntru** — funcționează ca o oglindă. Noaptea, când ai lumină interioară, situația se inversează.
+
+---
+
+## Orientarea casei — regula de aur pentru alegerea țesăturii
+
+### Expunere SUD sau VEST (cele mai calde)
+Fațadele sud și vest primesc cel mai mult soare direct — vara, temperatura interioară poate crește cu 8–15°C fără protecție.
+
+**Recomandare:** Țesătură **semi-opacă 1–3%** sau **opacă 0%**.
+- Reflectă maxim radiația solară
+- Alege **culori deschise** (alb, gri perla, bej crem) — reflectă mai eficient decât culorile închise
+- Pentru living sau birou unde vrei vizibilitate: 3% e compromisul optim
+
+### Expunere EST (dimineața)
+Soare puternic dimineața (7–11), după-amiaza umbră.
+
+**Recomandare:** Țesătură **transparentă 5%** sau **semi-opacă 3%**.
+- Soarele de dimineață e mai puțin agresiv termic decât cel de după-amiază
+- Vizibilitatea spre exterior e valoroasă dacă ai priveliște
+
+### Expunere NORD (fără soare direct)
+Lumină difuză, fără incidență solară directă.
+
+**Recomandare:** Țesătură **transparentă 5–10%** sau chiar renunțare la Zipscreen în favoarea unui rulou interior.
+- Problema principală e vântul și ploaia, nu căldura
+- Vizibilitatea maximă e avantajoasă
+
+---
+
+## Terasă vs. fereastră — scenarii diferite
+
+### Terasă acoperită (pergolă, copertină)
+Pe terasă, Zipscreen-ul **înlocuiește un perete** — scopul e să creezi o cameră exterioară utilizabilă.
+
+**Alegere recomandată:**
+- **Lateral nord/est:** 5% transparent — lasă lumina, blochează vântul
+- **Lateral sud/vest:** 1–3% semi-opac — protecție termică + intimitate față de vecini
+- **Soluție mixtă:** 3% pe sud/vest, 5% pe celelalte laturi — standard pentru terasele din Ilfov
+
+### Fereastră living sau dormitor
+Pe fereastră, scopurile principale sunt: protecție UV, intimitate față de stradă/vecini, reducere căldură.
+
+**Alegere recomandată:**
+- **Living cu priveliște spre parc/verde:** 5% transparent — păstrezi vizibilitatea
+- **Dormitor stradă aglomerată:** 1–3% sau 0% blackout — intimitate completă
+- **Birou acasă (WFH):** 3% — reduce strălucirea pe ecran fără a pierde lumina
+
+---
+
+## Culoarea țesăturii — nu e doar estetică
+
+Culoarea influențează direct **eficiența termică**:
+
+**Culori deschise** (alb, gri deschis, bej, crem):
+- Reflectă 60–70% din radiația solară
+- Reduc mai eficient temperatura interioară vara
+- **Recomandate pentru expunere sud/vest**
+
+**Culori închise** (antracit, negru, maro închis):
+- Absorb 60–70% din radiație — se încălzesc mai mult
+- Oferă contrast vizual mai bun dinspre interior spre exterior
+- **Recomandate pentru expunere nord sau est unde nu e problemă termică**
+
+**Sfat Neofort BIZ:** pentru terasele din București, alb sau gri deschis pe sud/vest reduce nevoia de ventilare cu 30–40% față de antracit.
+
+---
+
+## Blackout complet (0%) — când e soluția corectă
+
+Blackout total are sens în situații specifice:
+
+✅ **Dormitor** cu expunere est sau sud — somn fără lumină dimineața
+✅ **Cameră cinema** sau gaming
+✅ **Pergolă de relaxare** unde vrei intimitate totală față de vecini
+✅ **Balcon stradă** cu trafic intens și vecini față în față
+✅ **Showroom sau magazin** cu afișaje digitale sensibile la lumina solară
+
+❌ **Nu este recomandat** pentru: living, bucătărie, birou, zone unde lumina naturală e importantă
+
+---
+
+## Prețuri comparative pe tip de țesătură — 2026
+
+> ⚠️ **Notă:** Prețurile sunt orientative, valabile martie 2026. Solicități ofertă actualizată.
+
+| Tip țesătură | Deschidere | Preț orientativ / mp instalat |
+|---|---|---|
+| Standard transparent | 5% | 160–220 EUR/mp |
+| Semi-opac | 3% | 170–240 EUR/mp |
+| Semi-opac premium | 1% | 180–260 EUR/mp |
+| Blackout complet | 0% | 190–280 EUR/mp |
+
+*Diferențele de preț între tipuri sunt mici — alegerea se face pe criterii tehnice, nu financiare.*
+
+---
+
+## Tabel de decizie rapid
+
+| Situația ta | Țesătura recomandată |
+|---|---|
+| Terasă sud/vest, vrei și intimitate | 1–3% culoare deschisă |
+| Terasă est, ai priveliște frumoasă | 5% transparent |
+| Dormitor stradă aglomerată | 0% blackout |
+| Living cu geam mare spre grădină | 5% transparent |
+| Birou acasă, ecran computer | 3% culoare medie |
+| Balcon bloc, vecini față în față | 1–3% sau 0% |
+
+---
+
+## Consultanță gratuită — Neofort BIZ București
+
+Nu ești sigur ce să alegi? Trimite-ne o fotografie cu fereastra sau terasa și orientarea casei — îți recomandăm specific.
+
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**`,
+
+      en: `## The question we get most often: blackout or transparent?
+
+Almost every customer ordering a Zipscreen blind in Bucharest asks the same question: **"What\'s better — blackout or transparent?"**
+
+The correct answer depends on three factors: **window or terrace orientation**, **primary purpose** (shading vs. privacy vs. visual comfort) and **urban context** (street, neighbours, private garden).
+
+---
+
+## Understanding the "openness factor" — what 1%, 3%, 5%, 10% means
+
+| Fabric type | Openness | UV filtration | View from inside | View from outside (day) |
+|---|---|---|---|---|
+| Transparent | 5–10% | 90–95% | Excellent | Reduced (mirror effect) |
+| Semi-opaque | 1–3% | 97–99% | Good to reduced | Very reduced |
+| Blackout | 0% | 100% | Zero | Zero |
+
+**Common myth:** with 5–10% openness fabrics, you cannot be seen from outside during the day — it works like a mirror. At night with interior lighting, the situation reverses.
+
+---
+
+## House orientation — the golden rule
+
+**South/West exposure:** semi-opaque 1–3% or blackout 0%, light colours (white, pearl grey, cream) — reflects up to 70% of solar radiation.
+
+**East exposure:** transparent 5% or semi-opaque 3% — morning sun is less thermally aggressive.
+
+**North exposure:** transparent 5–10% — no direct solar radiation, maximise natural light.
+
+---
+
+## Quick decision table
+
+| Your situation | Recommended fabric |
+|---|---|
+| South/west terrace, want privacy | 1–3% light colour |
+| East terrace, beautiful view | 5% transparent |
+| Bedroom on busy street | 0% blackout |
+| Living room, large garden window | 5% transparent |
+| Home office, computer screen | 3% medium colour |
+| Apartment balcony, facing neighbours | 1–3% or 0% |
+
+---
+
+## Indicative prices by fabric type — 2026
+
+> ⚠️ **Note:** Prices are indicative as of March 2026. Always request an updated quote.
+
+| Fabric type | Openness | Indicative price / m² installed |
+|---|---|---|
+| Standard transparent | 5% | 160–220 EUR/m² |
+| Semi-opaque | 3% | 170–240 EUR/m² |
+| Blackout | 0% | 190–280 EUR/m² |
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+
+      de: `## Die häufigste Frage: Blackout oder transparent?
+
+Fast jeder Kunde, der ein Zipscreen-Rollo in Bukarest bestellt, stellt dieselbe Frage. Die richtige Antwort hängt von drei Faktoren ab: **Ausrichtung**, **Hauptzweck** und **städtischer Kontext**.
+
+---
+
+## Öffnungsfaktor — was 1%, 3%, 5%, 10% bedeutet
+
+| Gewebetyp | Öffnung | UV-Filterung | Sicht von innen | Sicht von außen (Tag) |
+|---|---|---|---|---|
+| Transparent | 5–10% | 90–95% | Ausgezeichnet | Gering (Spiegeleffekt) |
+| Halblichtdurchlässig | 1–3% | 97–99% | Gut bis gering | Sehr gering |
+| Blackout | 0% | 100% | Null | Null |
+
+---
+
+## Ausrichtungsregel
+
+**Süd/West:** 1–3% halblichtdurchlässig oder Blackout, helle Farben — reflektiert bis 70% der Sonnenstrahlung.
+
+**Ost:** 5% transparent — Morgensonne ist weniger thermisch aggressiv.
+
+**Nord:** 5–10% transparent — kein direktes Sonnenlicht, maximales Tageslicht.
+
+---
+
+## Schnelle Entscheidungstabelle
+
+| Ihre Situation | Empfohlenes Gewebe |
+|---|---|
+| Süd/West-Terrasse, Sichtschutz gewünscht | 1–3% helle Farbe |
+| Ost-Terrasse, schöne Aussicht | 5% transparent |
+| Schlafzimmer an belebter Straße | 0% Blackout |
+| Wohnzimmer, großes Gartenfenster | 5% transparent |
+| Homeoffice, Computerbildschirm | 3% mittlere Farbe |
+
+---
+
+## Richtpreise nach Gewebetyp — 2026
+
+> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+
+| Gewebetyp | Öffnung | Richtpreis / m² montiert |
+|---|---|---|
+| Standard transparent | 5% | 160–220 EUR/m² |
+| Halblichtdurchlässig | 3% | 170–240 EUR/m² |
+| Blackout | 0% | 190–280 EUR/m² |
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**`,
+
+      fr: `## La question la plus fréquente : occultant ou transparent ?
+
+Presque tous les clients qui commandent un store Zipscreen à Bucarest posent la même question. La bonne réponse dépend de trois facteurs : **l\'orientation**, **l\'objectif principal** et **le contexte urbain**.
+
+---
+
+## Facteur d\'ouverture — ce que signifient 1%, 3%, 5%, 10%
+
+| Type de toile | Ouverture | Filtration UV | Visibilité de l\'intérieur | Visibilité de l\'extérieur (jour) |
+|---|---|---|---|---|
+| Transparente | 5–10% | 90–95% | Excellente | Réduite (effet miroir) |
+| Semi-opaque | 1–3% | 97–99% | Bonne à réduite | Très réduite |
+| Occultante | 0% | 100% | Nulle | Nulle |
+
+---
+
+## Règle d\'orientation
+
+**Sud/Ouest :** 1–3% semi-opaque ou 0% occultant, couleurs claires — réfléchit jusqu\'à 70% du rayonnement.
+
+**Est :** 5% transparent — soleil matinal moins agressif thermiquement.
+
+**Nord :** 5–10% transparent — pas d\'ensoleillement direct, maximiser la lumière naturelle.
+
+---
+
+## Tableau de décision rapide
+
+| Votre situation | Toile recommandée |
+|---|---|
+| Terrasse sud/ouest, intimité souhaitée | 1–3% couleur claire |
+| Terrasse est, belle vue | 5% transparent |
+| Chambre sur rue animée | 0% occultant |
+| Salon, grande baie vitrée jardin | 5% transparent |
+| Bureau à domicile, écran d\'ordinateur | 3% couleur moyenne |
+
+---
+
+## Prix indicatifs par type de toile — 2026
+
+> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+
+| Type de toile | Ouverture | Prix indicatif / m² posé |
+|---|---|---|
+| Transparente standard | 5% | 160–220 EUR/m² |
+| Semi-opaque | 3% | 170–240 EUR/m² |
+| Occultante | 0% | 190–280 EUR/m² |
+
+**WhatsApp :** +40 752 443 435 | **L–V 10–18**`,
+
+      es: `## La pregunta más frecuente: ¿blackout o transparente?
+
+Casi todos los clientes que piden una persiana Zipscreen en Bucarest hacen la misma pregunta. La respuesta correcta depende de tres factores: **orientación**, **objetivo principal** y **contexto urbano**.
+
+---
+
+## Factor de apertura — qué significan 1%, 3%, 5%, 10%
+
+| Tipo de tejido | Apertura | Filtración UV | Visibilidad desde dentro | Visibilidad desde fuera (día) |
+|---|---|---|---|---|
+| Transparente | 5–10% | 90–95% | Excelente | Reducida (efecto espejo) |
+| Semiopaco | 1–3% | 97–99% | Buena a reducida | Muy reducida |
+| Blackout | 0% | 100% | Nula | Nula |
+
+---
+
+## Regla de orientación
+
+**Sur/Oeste:** 1–3% semiopaco o 0% blackout, colores claros — refleja hasta el 70% de la radiación.
+
+**Este:** 5% transparente — sol matutino menos agresivo térmicamente.
+
+**Norte:** 5–10% transparente — sin incidencia solar directa, maximizar luz natural.
+
+---
+
+## Tabla de decisión rápida
+
+| Tu situación | Tejido recomendado |
+|---|---|
+| Terraza sur/oeste, quiero privacidad | 1–3% color claro |
+| Terraza este, vista bonita | 5% transparente |
+| Dormitorio calle transitada | 0% blackout |
+| Salón, gran ventanal al jardín | 5% transparente |
+| Oficina en casa, pantalla ordenador | 3% color medio |
+
+---
+
+## Precios orientativos por tipo de tejido — 2026
+
+> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+
+| Tipo de tejido | Apertura | Precio orientativo / m² instalado |
+|---|---|---|
+| Transparente estándar | 5% | 160–220 EUR/m² |
+| Semiopaco | 3% | 170–240 EUR/m² |
+| Blackout | 0% | 190–280 EUR/m² |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+
+      it: `## La domanda più frequente: oscurante o trasparente?
+
+Quasi tutti i clienti che ordinano una tenda Zipscreen a Bucarest fanno la stessa domanda. La risposta giusta dipende da tre fattori: **orientamento**, **scopo principale** e **contesto urbano**.
+
+---
+
+## Fattore di apertura — cosa significano 1%, 3%, 5%, 10%
+
+| Tipo di tessuto | Apertura | Filtrazione UV | Visibilità dall\'interno | Visibilità dall\'esterno (giorno) |
+|---|---|---|---|---|
+| Trasparente | 5–10% | 90–95% | Eccellente | Ridotta (effetto specchio) |
+| Semi-opaco | 1–3% | 97–99% | Buona a ridotta | Molto ridotta |
+| Oscurante | 0% | 100% | Nulla | Nulla |
+
+---
+
+## Regola dell\'orientamento
+
+**Sud/Ovest:** 1–3% semi-opaco o 0% oscurante, colori chiari — riflette fino al 70% della radiazione.
+
+**Est:** 5% trasparente — sole mattutino meno aggressivo termicamente.
+
+**Nord:** 5–10% trasparente — nessuna incidenza solare diretta, massimizzare la luce naturale.
+
+---
+
+## Tabella decisionale rapida
+
+| La tua situazione | Tessuto consigliato |
+|---|---|
+| Terrazza sud/ovest, vuoi privacy | 1–3% colore chiaro |
+| Terrazza est, bella vista | 5% trasparente |
+| Camera da letto su strada trafficata | 0% oscurante |
+| Soggiorno, grande vetrata sul giardino | 5% trasparente |
+| Ufficio in casa, schermo computer | 3% colore medio |
+
+---
+
+## Prezzi indicativi per tipo di tessuto — 2026
+
+> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+
+| Tipo di tessuto | Apertura | Prezzo indicativo / m² installato |
+|---|---|---|
+| Trasparente standard | 5% | 160–220 EUR/m² |
+| Semi-opaco | 3% | 170–240 EUR/m² |
+| Oscurante | 0% | 190–280 EUR/m² |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+    },
+  },
+
+  // ─── ARTICOL 21: Cum aleg ferestre eficiente energetic în București ────────
+  {
+    slugs: {
+      ro: 'cum-aleg-ferestre-eficiente-energetic-bucuresti-ghid-nzeb-2026',
+      en: 'how-to-choose-energy-efficient-windows-bucharest-nzeb-guide-2026',
+      de: 'energieeffiziente-fenster-bukarest-auswaehlen-nzeb-leitfaden-2026',
+      fr: 'comment-choisir-fenetres-efficaces-energetiquement-bucarest-nzeb-2026',
+      es: 'como-elegir-ventanas-eficientes-energeticamente-bucarest-nzeb-2026',
+      it: 'come-scegliere-finestre-efficienti-energeticamente-bucarest-nzeb-2026',
+    },
+    date: '2026-03-21',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
+    category: { ro:'Ghiduri & Sfaturi', en:'Guides & Tips', de:'Ratgeber & Tipps', fr:'Guides & Conseils', es:'Guías & Consejos', it:'Guide & Consigli' },
+    readTime: { ro:'11 min citire', en:'11 min read', de:'11 Min.', fr:'11 min', es:'11 min', it:'11 min' },
+    image: {
+      ro: '/blog/blog-cum-aleg-ferestre-eficiente.avif',
+      en: '/blog/blog-cum-aleg-ferestre-eficiente.avif',
+      de: '/blog/blog-cum-aleg-ferestre-eficiente.avif',
+      fr: '/blog/blog-cum-aleg-ferestre-eficiente.avif',
+      es: '/blog/blog-cum-aleg-ferestre-eficiente.avif',
+      it: '/blog/blog-cum-aleg-ferestre-eficiente.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1628 0%,#1a3a5c 60%,#2d6a9f 100%)',
+    imageLabel: 'Ferestre nZEB București 2026',
+    accentColor: '#2d5a8e',
+    title: {
+      ro: 'Cum aleg ferestre eficiente energetic în București? Ghid complet nZEB 2026',
+      en: 'How to choose energy-efficient windows in Bucharest? Complete nZEB guide 2026',
+      de: 'Wie wähle ich energieeffiziente Fenster in Bukarest? Vollständiger nZEB-Leitfaden 2026',
+      fr: 'Comment choisir des fenêtres efficaces énergétiquement à Bucarest ? Guide complet nZEB 2026',
+      es: '¿Cómo elegir ventanas eficientes energéticamente en Bucarest? Guía completa nZEB 2026',
+      it: 'Come scegliere finestre efficienti energeticamente a Bucarest? Guida completa nZEB 2026',
+    },
+    excerpt: {
+      ro: 'Alegerea ferestrelor eficiente energetic în București și Ilfov înseamnă mai mult decât un număr de camere PVC. Ghid complet 2026: ce înseamnă Uw, nZEB și Passive House, de ce precadrele Blaugelb Triotherm+ și banda butilică contează mai mult decât profilul, cum compari ofertele corect și ce să ceri obligatoriu de la orice furnizor.',
+      en: 'Choosing energy-efficient windows in Bucharest and Ilfov means more than a number of PVC chambers. Complete guide 2026: what Uw, nZEB and Passive House mean, why Blaugelb Triotherm+ precasings and butyl tape matter more than the profile, and how to compare quotes correctly.',
+      de: 'Energieeffiziente Fenster in Bukarest zu wählen bedeutet mehr als eine PVC-Kammeranzahl. Vollständiger Leitfaden 2026: was Uw, nZEB und Passivhaus bedeuten, warum Blaugelb Triotherm+ Vorfenster und Butylband mehr als das Profil zählen.',
+      fr: "Choisir des fenêtres efficaces à Bucarest signifie bien plus qu\'un nombre de chambres PVC. Guide complet 2026 : ce que signifient Uw, nZEB et maison passive, pourquoi les précadres Blaugelb Triotherm+ comptent plus que le profil.",
+      es: 'Elegir ventanas eficientes en Bucarest significa más que un número de cámaras PVC. Guía completa 2026: qué significan Uw, nZEB y Casa Pasiva, por qué los premarcos Blaugelb Triotherm+ importan más que el perfil.',
+      it: "Scegliere finestre efficienti a Bucarest significa più di un numero di camere PVC. Guida completa 2026: cosa significano Uw, nZEB e Casa Passiva, perché i precontrotelaio Blaugelb Triotherm+ contano più del profilo.",
+    },
+    metaDesc: {
+      ro: 'Ferestre eficiente energetic București 2026: coeficient Uw nZEB ≤0.73, BluEvolution 92 vs GreenEvolution 76, precadre Blaugelb Triotherm, geam triplu Low-E argon, prețuri 280-420 EUR/mp. Ghid Neofort BIZ.',
+      en: 'Energy-efficient windows Bucharest 2026: Uw nZEB ≤0.73, BluEvolution 92 vs GreenEvolution 76, Blaugelb Triotherm precasings, triple Low-E argon glass, prices 280-420 EUR/m². Neofort BIZ guide.',
+      de: 'Energieeffiziente Fenster Bukarest 2026: Uw nZEB ≤0,73, BluEvolution 92 vs GreenEvolution 76, Blaugelb Triotherm Vorfenster, Dreifach-Low-E Argon, Preise 280–420 EUR/m². Neofort BIZ Leitfaden.',
+      fr: 'Fenêtres efficaces Bucarest 2026 : Uw nZEB ≤0,73, BluEvolution 92 vs GreenEvolution 76, précadres Blaugelb Triotherm, triple Low-E argon, prix 280–420 EUR/m². Guide Neofort BIZ.',
+      es: 'Ventanas eficientes Bucarest 2026: Uw nZEB ≤0,73, BluEvolution 92 vs GreenEvolution 76, premarcos Blaugelb Triotherm, triple Low-E argón, precios 280–420 EUR/m². Guía Neofort BIZ.',
+      it: 'Finestre efficienti Bucarest 2026: Uw nZEB ≤0,73, BluEvolution 92 vs GreenEvolution 76, precontrotelaio Blaugelb Triotherm, triplo Low-E argon, prezzi 280–420 EUR/m². Guida Neofort BIZ.',
+    },
+    keywords: 'ferestre eficiente energetic Bucuresti, nZEB ferestre Bucuresti 2026, Uw coeficient termic ferestre, BluEvolution 92 pret Bucuresti, GreenEvolution 76 vs BluEvolution 92, precadre Blaugelb Triotherm montaj, geam triplu Low-E argon, ferestre casa pasiva Ilfov',
+    content: {
+      ro: `## De ce contează atât de mult alegerea ferestrelor în București?
+
+Bucureștiul are una din cele mai provocatoare climate pentru tâmplărie din Europa: **−15°C iarna** și **+38°C vara** — o diferență de 53°C pe parcursul anului. Ferestrele ineficiente pierd 25–35% din energia de încălzire iarna și permit intrarea a 40–60% din căldura solară vara.
+
+Un studiu al INCERC (Institutul Național de Cercetare în Construcții) arată că înlocuirea ferestrelor vechi cu tâmplărie nZEB reduce consumul energetic al unui apartament mediu din București cu **35–55%**.
+
+---
+
+## Pasul 1: Coeficientul Uw — singurul număr care contează cu adevărat
+
+**Uw** (Watt per metru pătrat Kelvin) măsoară cât de mult căldură pierde fereastra completă. Cu cât e mai mic, cu atât fereastra e mai bună.
+
+| Standard | Uw | Context |
+|---|---|---|
+| Ferestre vechi (pre-2005) | 3,0–4,5 W/m²K | De înlocuit urgent |
+| Standard minim actual | 1,1–1,4 W/m²K | Renovări buget redus |
+| **nZEB obligatoriu (2021+)** | **≤ 0,73 W/m²K** | **Construcții noi București** |
+| Passive House | ≤ 0,60 W/m²K | Case pasive certificate |
+
+> **Atenție la marketing:** mulți furnizori afișează **Uf** (coeficientul profilului gol) în loc de **Uw** (fereastra completă cu geam). Uf este întotdeauna mai bun decât Uw. Cereți Uw al ferestrei complete.
+
+---
+
+## Pasul 2: nZEB în București — ce înseamnă practic
+
+Din **2021**, toate construcțiile noi autorizate în România trebuie să respecte standardul **nZEB (Nearly Zero Energy Building)**. Practic, un bloc sau o casă nouă din București fără tâmplărie certificată nZEB nu poate fi recepționată legal.
+
+**Profile certificate nZEB disponibile la Neofort BIZ:**
+
+### Salamander BluEvolution 92
+- 6 camere de aer, adâncime 92 mm
+- 3 garnituri de etanșare perimetrală
+- Uw = **0,70 W/m²K** cu geam dublu Low-E
+- Uw = **0,55 W/m²K** cu geam triplu Low-E
+- Certificat nZEB ✅ | Certificat Passive House ✅
+
+### Salamander GreenEvolution 76
+- 5 camere de aer, adâncime 76 mm
+- 3 garnituri de etanșare
+- Uw = **0,73 W/m²K** cu geam dublu Low-E
+- Certificat nZEB ✅
+
+**Când alegi BluEvolution 92 vs GreenEvolution 76?**
+- **Renovare apartament bloc, buget echilibrat:** GreenEvolution 76 — suficient pentru nZEB, cost mai mic
+- **Casă nouă, penthouse, ultimul etaj:** BluEvolution 92 — performanță maximă, durată de viață mai lungă
+- **Export, zone montane, condiții extreme:** BluEvolution 92 cu geam triplu — singura alegere corectă
+
+---
+
+## Pasul 3: Ce contează mai mult decât profilul — sistemul de montaj
+
+**Secretul pe care puțini furnizori îl explică:** o fereastră BluEvolution 92 montată greșit are performanță mai slabă decât o GreenEvolution 76 montată corect.
+
+Sistemul complet de montaj nZEB, implementat de Neofort BIZ, include:
+
+### Precadre Blaugelb Triotherm+
+Cel mai important element neglijat în ofertele ieftine. Precadrul de plastic cu rupere termică separă fereastra de structura din beton sau BCA. Fără precadru, zona de joncțiune devine o punte termică care anulează **30–40% din performanța profilului**.
+
+### Bandă butilică precomprimată (exterior)
+Etanșează joncțiunea toc-glaf contra ploii și vântului. Fără ea, infiltrațiile de apă degradează termoizolația perimetrală în 2–3 ani.
+
+### Spumă poliuretanică celulă închisă
+Umple spațiul dintre toc și structură. Spuma cu celulă deschisă (cea ieftină) absoarbe umiditate și se degradează. Spuma cu celulă închisă rezistă 30+ ani.
+
+### Bandă antivapori (interior)
+Previne condensul la jonțiunea interior tâmplărie-perete. Fără ea, apare mucegaiul în câțiva ani.
+
+### Baghete Warm Edge (distanțier termic geam)
+Distanțierul de aluminiu clasic creează o punte termică vizibilă — zona unde apare condensul pe geam iarna. Distanțierul Warm Edge din material compozit reduce Uw cu **0,1–0,2 W/m²K** și elimină condensul marginal.
+
+---
+
+## Pasul 4: Geam dublu vs. triplu Low-E — când merită triplu?
+
+### Geam dublu Low-E (4+16+4 Ar)
+- Ug = **1,0 W/m²K**
+- Potrivit pentru: renovări, apartamente etaje 2–6, buget echilibrat
+- Cost față de geam standard: +15–25%
+
+### Geam triplu Low-E (4+12+4+12+4 Ar/Kr)
+- Ug = **0,5–0,6 W/m²K**
+- Potrivit pentru: case noi, ultimul etaj, parter, nordul clădirii
+- Cost față de geam dublu: +35–50%
+- Recuperare investiție: **4–7 ani** din economii la încălzire
+
+**Recomandare Neofort BIZ pentru București:**
+- Apartament etaje 2–6, orientare sud/est/vest → geam dublu Low-E (suficient)
+- Casă nouă, penthouse, parter, nord → geam triplu Low-E (recomandat)
+
+---
+
+## Pasul 5: Cum compari ofertele — 5 întrebări obligatorii
+
+Înainte să semnezi orice contract cu un furnizor de termopane din București, cere răspuns scris la:
+
+1. **Uw-ul ferestrei complete** (nu Uf al profilului)
+2. **Ce include montajul** — precadre Blaugelb, bandă butilică, spumă celulă închisă, bandă antivapori?
+3. **Ce distanțier de geam** — aluminiu clasic sau Warm Edge?
+4. **Garanție separată** pe profil, geam și montaj — cât ani?
+5. **Declarație de performanță CE** pentru profil și geam?
+
+Un furnizor serios răspunde imediat la toate 5. Dacă evită, nu știe sau refuză în scris — este un semnal de alarmă.
+
+---
+
+## Prețuri orientative ferestre nZEB București 2026
+
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Prețurile materialelor și cursul EUR/RON se pot modifica. Solicitați ofertă actualizată.
+
+| Sistem | Configurație | Preț estimat montat complet |
+|---|---|---|
+| GreenEvolution 76 + geam dublu Low-E | Fereastră 100×120 cm | 320–450 EUR |
+| BluEvolution 92 + geam dublu Low-E | Fereastră 100×120 cm | 380–520 EUR |
+| BluEvolution 92 + geam triplu Low-E | Fereastră 100×120 cm | 480–650 EUR |
+| **Preț mediu per mp montat nZEB complet** | — | **280–420 EUR/mp** |
+
+*Prețurile includ: profil, geam, feronerie ROTO/MACO, montaj nZEB complet cu precadre Blaugelb și toate benzile de etanșare.*
+
+---
+
+## De ce Neofort BIZ pentru fereastra ta din București sau Ilfov?
+
+Neofort BIZ este furnizor specializat de tâmplărie Salamander PVC și aluminiu Alumil în București, cu **21 de ani de experiență** și **46 recenzii Google cu rating 4,9/5**.
+
+Montăm exclusiv în sistem nZEB complet — nu oferim montaj fără precadre Blaugelb, pentru că nu respectăm standarde pe care nu le putem garanta.
+
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**`,
+
+      en: `## Why does window choice matter so much in Bucharest?
+
+Bucharest has one of Europe's most demanding climates: **−15°C in winter** and **+38°C in summer** — a 53°C annual swing. Inefficient windows lose 25–35% of heating energy in winter and allow 40–60% of solar heat in summer. Replacing old windows with nZEB joinery reduces energy consumption in an average Bucharest apartment by **35–55%**.
+
+---
+
+## Step 1: The Uw coefficient — the only number that truly matters
+
+| Standard | Uw | Context |
+|---|---|---|
+| Old windows (pre-2005) | 3.0–4.5 W/m²K | Replace urgently |
+| Current minimum | 1.1–1.4 W/m²K | Budget renovations |
+| **nZEB mandatory (2021+)** | **≤ 0.73 W/m²K** | **New buildings Bucharest** |
+| Passive House | ≤ 0.60 W/m²K | Certified passive houses |
+
+> **Marketing warning:** many suppliers show **Uf** (empty profile coefficient) instead of **Uw** (complete window with glass). Uf is always better than Uw. Always ask for Uw.
+
+---
+
+## Step 2: nZEB profiles available from Neofort BIZ
+
+**Salamander BluEvolution 92:** 6 chambers, 92mm depth, Uw = 0.70 W/m²K (double Low-E), 0.55 W/m²K (triple Low-E). nZEB ✅ Passive House ✅
+
+**Salamander GreenEvolution 76:** 5 chambers, 76mm depth, Uw = 0.73 W/m²K (double Low-E). nZEB ✅
+
+**When to choose BluEvolution 92 vs GreenEvolution 76?**
+- Block apartment renovation, balanced budget → GreenEvolution 76
+- New house, penthouse, top/ground floor → BluEvolution 92
+- Export, mountain areas, extreme conditions → BluEvolution 92 + triple Low-E
+
+---
+
+## Step 3: Why the mounting system matters more than the profile
+
+A poorly installed BluEvolution 92 performs worse than a correctly installed GreenEvolution 76. The **complete nZEB mounting system** from Neofort BIZ includes:
+
+- **Blaugelb Triotherm+ precasings** — thermal break from building structure, eliminates 30–40% thermal bridge at junction
+- **Precompressed butyl tape** (exterior) — seals against rain/wind infiltration
+- **Closed-cell PU foam** — moisture-resistant for 30+ years
+- **Vapour barrier tape** (interior) — prevents mould at wall junction
+- **Warm Edge spacer** — eliminates marginal condensation, reduces Uw by 0.1–0.2 W/m²K
+
+---
+
+## Step 4: Double vs. triple Low-E glass
+
+**Double Low-E (4+16+4 Ar):** Ug = 1.0 W/m²K — apartment floors 2–6, balanced budget.
+
+**Triple Low-E (4+12+4+12+4 Ar/Kr):** Ug = 0.5–0.6 W/m²K — new houses, top/ground floor, north-facing. Payback: 4–7 years.
+
+---
+
+## Indicative prices nZEB windows Bucharest 2026
+
+> ⚠️ **Important note:** Prices are indicative as of March 2026. Always request an updated quote.
+
+| System | Config | Estimated fully installed price |
+|---|---|---|
+| GreenEvolution 76 + double Low-E | 100×120 cm | 320–450 EUR |
+| BluEvolution 92 + double Low-E | 100×120 cm | 380–520 EUR |
+| BluEvolution 92 + triple Low-E | 100×120 cm | 480–650 EUR |
+| **Per m² fully installed nZEB** | — | **280–420 EUR/m²** |
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+
+      de: `## Warum ist die Fensterwahl in Bukarest so wichtig?
+
+Bukarest hat eines der anspruchsvollsten Klimata Europas: **−15°C im Winter** und **+38°C im Sommer** — eine jährliche Schwankung von 53°C. Der Austausch alter Fenster durch nZEB-Tischlereiarbeiten reduziert den Energieverbrauch einer durchschnittlichen Bukarester Wohnung um **35–55%**.
+
+---
+
+## Schritt 1: Der Uw-Wert — die einzig wichtige Zahl
+
+| Standard | Uw | Kontext |
+|---|---|---|
+| Alte Fenster (vor 2005) | 3,0–4,5 W/m²K | Dringend ersetzen |
+| Aktuelles Minimum | 1,1–1,4 W/m²K | Budget-Renovierung |
+| **nZEB Pflicht (ab 2021)** | **≤ 0,73 W/m²K** | **Neubauten Bukarest** |
+| Passivhaus | ≤ 0,60 W/m²K | Zertifizierte Passivhäuser |
+
+---
+
+## Schritt 2: nZEB-Profile bei Neofort BIZ
+
+**Salamander BluEvolution 92:** 6 Kammern, 92mm, Uw = 0,70 W/m²K (Zweifach-Low-E). nZEB ✅ Passivhaus ✅
+
+**Salamander GreenEvolution 76:** 5 Kammern, 76mm, Uw = 0,73 W/m²K. nZEB ✅
+
+---
+
+## Schritt 3: Warum das Montagesystem wichtiger als das Profil ist
+
+- **Blaugelb Triotherm+ Vorfenster** — eliminiert 30–40% der Wärmebrücke
+- **Vorkomprimiertes Butyl-Dichtband** — dichtet gegen Regen/Wind
+- **Geschlossenzelliger PU-Schaum** — feuchtigkeitsbeständig 30+ Jahre
+- **Warm Edge Abstandhalter** — eliminiert Randkondensation, reduziert Uw um 0,1–0,2 W/m²K
+
+---
+
+## Richtpreise nZEB-Fenster Bukarest 2026
+
+> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+
+| System | Konfiguration | Geschätzter Montagepreis |
+|---|---|---|
+| GreenEvolution 76 + Zweifach-Low-E | 100×120 cm | 320–450 EUR |
+| BluEvolution 92 + Zweifach-Low-E | 100×120 cm | 380–520 EUR |
+| BluEvolution 92 + Dreifach-Low-E | 100×120 cm | 480–650 EUR |
+| **Pro m² nZEB montiert** | — | **280–420 EUR/m²** |
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**`,
+
+      fr: `## Pourquoi le choix des fenêtres est-il si important à Bucarest ?
+
+Bucarest connaît l'un des climats les plus exigeants d\'Europe : **−15°C en hiver** et **+38°C en été** — une variation annuelle de 53°C. Remplacer les anciennes fenêtres par une menuiserie nZEB réduit la consommation énergétique d\'un appartement moyen à Bucarest de **35 à 55%**.
+
+---
+
+## Étape 1 : Le coefficient Uw — le seul chiffre qui compte vraiment
+
+| Norme | Uw | Contexte |
+|---|---|---|
+| Anciennes fenêtres (avant 2005) | 3,0–4,5 W/m²K | À remplacer d\'urgence |
+| Minimum actuel | 1,1–1,4 W/m²K | Rénovations budget |
+| **nZEB obligatoire (2021+)** | **≤ 0,73 W/m²K** | **Constructions neuves Bucarest** |
+| Maison passive | ≤ 0,60 W/m²K | Maisons passives certifiées |
+
+---
+
+## Étape 2 : Profils nZEB disponibles chez Neofort BIZ
+
+**Salamander BluEvolution 92 :** 6 chambres, 92mm, Uw = 0,70 W/m²K (double Low-E). nZEB ✅ Maison passive ✅
+
+**Salamander GreenEvolution 76 :** 5 chambres, 76mm, Uw = 0,73 W/m²K. nZEB ✅
+
+---
+
+## Étape 3 : Pourquoi le système de pose compte plus que le profil
+
+- **Précadres Blaugelb Triotherm+** — élimine 30–40% du pont thermique à la jonction
+- **Ruban butyle précomprimé** — étanchéité contre pluie/vent
+- **Mousse PU à cellules fermées** — résistante à l\'humidité 30+ ans
+- **Espaceur Warm Edge** — élimine la condensation marginale, réduit Uw de 0,1–0,2 W/m²K
+
+---
+
+## Prix indicatifs fenêtres nZEB Bucarest 2026
+
+> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+
+| Système | Configuration | Prix posé estimé |
+|---|---|---|
+| GreenEvolution 76 + double Low-E | 100×120 cm | 320–450 EUR |
+| BluEvolution 92 + double Low-E | 100×120 cm | 380–520 EUR |
+| BluEvolution 92 + triple Low-E | 100×120 cm | 480–650 EUR |
+| **Par m² nZEB posé complet** | — | **280–420 EUR/m²** |
+
+**WhatsApp :** +40 752 443 435 | **L–V 10–18**`,
+
+      es: `## ¿Por qué importa tanto la elección de ventanas en Bucarest?
+
+Bucarest tiene uno de los climas más exigentes de Europa: **−15°C en invierno** y **+38°C en verano** — una variación anual de 53°C. Reemplazar ventanas antiguas por carpintería nZEB reduce el consumo energético de un apartamento medio en Bucarest entre un **35 y 55%**.
+
+---
+
+## Paso 1: El coeficiente Uw — el único número que importa de verdad
+
+| Norma | Uw | Contexto |
+|---|---|---|
+| Ventanas antiguas (antes de 2005) | 3,0–4,5 W/m²K | Reemplazar urgentemente |
+| Mínimo actual | 1,1–1,4 W/m²K | Reformas con presupuesto |
+| **nZEB obligatorio (2021+)** | **≤ 0,73 W/m²K** | **Obra nueva Bucarest** |
+| Casa Pasiva | ≤ 0,60 W/m²K | Casas pasivas certificadas |
+
+---
+
+## Paso 2: Perfiles nZEB disponibles en Neofort BIZ
+
+**Salamander BluEvolution 92:** 6 cámaras, 92mm, Uw = 0,70 W/m²K (doble Low-E). nZEB ✅ Casa Pasiva ✅
+
+**Salamander GreenEvolution 76:** 5 cámaras, 76mm, Uw = 0,73 W/m²K. nZEB ✅
+
+---
+
+## Paso 3: Por qué el sistema de instalación importa más que el perfil
+
+- **Premarcos Blaugelb Triotherm+** — elimina el 30–40% del puente térmico en la unión
+- **Cinta de butilo precomprimida** — estanqueidad contra lluvia/viento
+- **Espuma PU de célula cerrada** — resistente a la humedad 30+ años
+- **Espaciador Warm Edge** — elimina la condensación marginal, reduce Uw en 0,1–0,2 W/m²K
+
+---
+
+## Precios orientativos ventanas nZEB Bucarest 2026
+
+> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+
+| Sistema | Configuración | Precio instalado estimado |
+|---|---|---|
+| GreenEvolution 76 + doble Low-E | 100×120 cm | 320–450 EUR |
+| BluEvolution 92 + doble Low-E | 100×120 cm | 380–520 EUR |
+| BluEvolution 92 + triple Low-E | 100×120 cm | 480–650 EUR |
+| **Por m² nZEB instalado completo** | — | **280–420 EUR/m²** |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+
+      it: `## Perché la scelta delle finestre è così importante a Bucarest?
+
+Bucarest ha uno dei climi più impegnativi d\'Europa: **−15°C in inverno** e **+38°C in estate** — una variazione annuale di 53°C. Sostituire le vecchie finestre con infissi nZEB riduce il consumo energetico di un appartamento medio a Bucarest del **35–55%**.
+
+---
+
+## Passo 1: Il coefficiente Uw — l\'unico numero che conta davvero
+
+| Standard | Uw | Contesto |
+|---|---|---|
+| Vecchie finestre (prima del 2005) | 3,0–4,5 W/m²K | Da sostituire urgentemente |
+| Minimo attuale | 1,1–1,4 W/m²K | Ristrutturazioni budget |
+| **nZEB obbligatorio (2021+)** | **≤ 0,73 W/m²K** | **Nuove costruzioni Bucarest** |
+| Casa Passiva | ≤ 0,60 W/m²K | Case passive certificate |
+
+---
+
+## Passo 2: Profili nZEB disponibili da Neofort BIZ
+
+**Salamander BluEvolution 92:** 6 camere, 92mm, Uw = 0,70 W/m²K (doppio Low-E). nZEB ✅ Casa Passiva ✅
+
+**Salamander GreenEvolution 76:** 5 camere, 76mm, Uw = 0,73 W/m²K. nZEB ✅
+
+---
+
+## Passo 3: Perché il sistema di posa conta più del profilo
+
+- **Precontrotelaio Blaugelb Triotherm+** — elimina il 30–40% del ponte termico alla giunzione
+- **Nastro butilico precompresso** — tenuta contro pioggia/vento
+- **Schiuma PU a cellule chiuse** — resistente all\'umidità 30+ anni
+- **Distanziatore Warm Edge** — elimina la condensazione marginale, riduce Uw di 0,1–0,2 W/m²K
+
+---
+
+## Prezzi indicativi finestre nZEB Bucarest 2026
+
+> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+
+| Sistema | Configurazione | Prezzo installato stimato |
+|---|---|---|
+| GreenEvolution 76 + doppio Low-E | 100×120 cm | 320–450 EUR |
+| BluEvolution 92 + doppio Low-E | 100×120 cm | 380–520 EUR |
+| BluEvolution 92 + triplo Low-E | 100×120 cm | 480–650 EUR |
+| **Per m² nZEB installato completo** | — | **280–420 EUR/m²** |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+    },
+  },
+
+  // ─── ARTICOL 22: Ferestre Salamander cu livrare internațională ────────────
+  {
+    slugs: {
+      ro: 'unde-gasesc-ferestre-salamander-cu-livrare-internationala',
+      en: 'where-to-find-salamander-windows-with-international-delivery',
+      de: 'wo-finde-ich-salamander-fenster-mit-internationalem-versand',
+      fr: 'ou-trouver-fenetres-salamander-avec-livraison-internationale',
+      es: 'donde-encontrar-ventanas-salamander-con-entrega-internacional',
+      it: 'dove-trovare-finestre-salamander-con-consegna-internazionale',
+    },
+    date: '2026-03-21',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
+    category: { ro:'Export & Livrare', en:'Export & Delivery', de:'Export & Lieferung', fr:'Export & Livraison', es:'Exportación & Entrega', it:'Export & Consegna' },
+    readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
+    image: {
+      ro: '/blog/blog-ferestre-salamander-export.avif',
+      en: '/blog/blog-ferestre-salamander-export.avif',
+      de: '/blog/blog-ferestre-salamander-export.avif',
+      fr: '/blog/blog-ferestre-salamander-export.avif',
+      es: '/blog/blog-ferestre-salamander-export.avif',
+      it: '/blog/blog-ferestre-salamander-export.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a2a1a 0%,#1a3a1a 60%,#2d5a3a 100%)',
+    imageLabel: 'Export Salamander Europa',
+    accentColor: '#2d6a4a',
+    title: {
+      ro: 'Unde pot găsi ferestre Salamander cu livrare internațională? Ghid export UE 2026',
+      en: 'Where can I find Salamander windows with international delivery? EU export guide 2026',
+      de: 'Wo finde ich Salamander-Fenster mit internationalem Versand? EU-Exportleitfaden 2026',
+      fr: 'Où puis-je trouver des fenêtres Salamander avec livraison internationale ? Guide export UE 2026',
+      es: '¿Dónde puedo encontrar ventanas Salamander con entrega internacional? Guía exportación UE 2026',
+      it: 'Dove posso trovare finestre Salamander con consegna internazionale? Guida export UE 2026',
+    },
+    excerpt: {
+      ro: 'Românii din diaspora și dezvoltatorii europeni caută tot mai des ferestre Salamander BluEvolution 92 cu livrare în Germania, Franța, Italia, Austria și Belgia. Ghid complet 2026: de ce tâmplăria Salamander produsă în România costă cu 30–50% mai puțin față de aceleași profile cumpărate local în Europa Occidentală, ce documente sunt necesare, cum se ambalează pentru transport și ce garanții primești.',
+      en: 'Romanian diaspora members and European developers increasingly search for Salamander BluEvolution 92 windows with delivery to Germany, France, Italy, Austria and Belgium. Complete guide 2026: why Salamander windows produced in Romania cost 30–50% less than the same profiles bought locally in Western Europe, what documents are needed, how they are packaged for transport.',
+      de: 'Rumänische Diaspora-Mitglieder und europäische Bauträger suchen zunehmend nach Salamander BluEvolution 92 Fenstern mit Lieferung nach Deutschland, Frankreich, Italien, Österreich und Belgien. Vollständiger Leitfaden 2026: warum in Rumänien produzierte Salamander-Fenster 30–50% günstiger sind.',
+      fr: "Les membres de la diaspora roumaine et les promoteurs européens recherchent de plus en plus des fenêtres Salamander BluEvolution 92 avec livraison en Allemagne, France, Italie, Autriche et Belgique. Guide complet 2026.",
+      es: 'Los miembros de la diáspora rumana y los promotores europeos buscan cada vez más ventanas Salamander BluEvolution 92 con entrega en Alemania, Francia, Italia, Austria y Bélgica. Guía completa 2026.',
+      it: "I membri della diaspora rumena e gli sviluppatori europei cercano sempre più finestre Salamander BluEvolution 92 con consegna in Germania, Francia, Italia, Austria e Belgio. Guida completa 2026.",
+    },
+    metaDesc: {
+      ro: 'Ferestre Salamander livrare internationala 2026: BluEvolution 92 export Germania Franta Italia Austria, pret 30-50% mai mic decat Europa Occidentala, documentatie CE, ambalaj transport, garantie. Neofort BIZ.',
+      en: 'Salamander windows international delivery 2026: BluEvolution 92 export Germany France Italy Austria, price 30-50% lower than Western Europe, CE documentation, transport packaging, warranty. Neofort BIZ.',
+      de: 'Salamander Fenster internationaler Versand 2026: BluEvolution 92 Export Deutschland Frankreich Italien Österreich, Preis 30–50% günstiger als Westeuropa, CE-Dokumentation, Transportverpackung, Garantie. Neofort BIZ.',
+      fr: 'Fenêtres Salamander livraison internationale 2026 : BluEvolution 92 export Allemagne France Italie Autriche, prix 30–50% moins cher qu\'Europe occidentale, documentation CE, emballage transport, garantie. Neofort BIZ.',
+      es: 'Ventanas Salamander entrega internacional 2026: BluEvolution 92 exportación Alemania Francia Italia Austria, precio 30–50% más barato que Europa Occidental, documentación CE, embalaje transporte, garantía. Neofort BIZ.',
+      it: 'Finestre Salamander consegna internazionale 2026: BluEvolution 92 export Germania Francia Italia Austria, prezzo 30–50% meno caro che Europa Occidentale, documentazione CE, imballaggio trasporto, garanzia. Neofort BIZ.',
+    },
+    keywords: 'ferestre Salamander livrare internationala, export ferestre Salamander Germania Franta, BluEvolution 92 comanda online livrare Europa, ferestre PVC Romania export UE, termopane Salamander pret export, Neofort BIZ export tamplarie',
+    content: {
+      ro: `## De ce caută tot mai mulți europeni ferestre Salamander din România?
+
+În 2026, o fereastră Salamander BluEvolution 92 produsă în România costă cu **30–50% mai puțin** față de aceleași profile cumpărate de la furnizori locali din Germania, Austria, Franța sau Italia.
+
+Motivele sunt simple:
+- Costul forței de muncă în România este de 3–4× mai mic față de Europa Occidentală
+- Producția la scară mare și concurența ridicată din piața românească mențin prețurile competitive
+- **Profilul Salamander este identic** — produs de aceeași companie germană (Salamander Industrie-Produkte GmbH, Türkheim, Bavaria) conform acelorași specificații tehnice, indiferent unde e fabricat fereastra
+
+**Principalii clienți pentru export:**
+- Români din diaspora (Germania, Italia, Franța, Spania, Belgia, Marea Britanie) care construiesc sau renovează case în țările de rezidență
+- Dezvoltatori imobiliari din Austria, Germania și Olanda care caută prețuri mai bune pentru proiecte medii
+- Particulari din Ungaria, Bulgaria, Serbia care aleg România pentru calitate + preț
+
+---
+
+## Ce sisteme Salamander furnizează Neofort BIZ pentru export
+
+### Salamander BluEvolution 92 — standardul de export
+Cel mai comandat pentru export. Motivul: clienții din Europa Occidentală caută cel mai performant profil Salamander — și BluEvolution 92 este vârful de gamă.
+
+- 6 camere, adâncime 92mm
+- Uw = 0,70 W/m²K (geam dublu Low-E) / 0,55 W/m²K (geam triplu)
+- Certificat nZEB, Passive House, CE
+- Disponibil: alb, antracit, nuc, stejar auriu, toate culorile RAL la infoliere
+
+### Salamander GreenEvolution 76 — raport calitate-preț pentru proiecte mai mari
+- 5 camere, 76mm
+- Uw = 0,73 W/m²K
+- nZEB certificat
+- Potrivit pentru proiecte rezidențiale cu buget mai strâns
+
+---
+
+## Cum funcționează comanda pentru export la Neofort BIZ
+
+### Pasul 1: Solicitarea ofertei
+Trimite-ne pe WhatsApp sau email:
+- Schița sau planul cu dimensiunile ferestrelor și ușilor
+- Tipul de deschidere dorit (batant, oscilo-batant, fix, culisant, liftant-glisant)
+- Culoarea dorită
+- Țara de destinație
+
+Primești oferta preliminară în 24 de ore lucrătoare.
+
+### Pasul 2: Măsurători și confirmare
+- Pentru clienți din România: deplasare la locație pentru măsurători exacte
+- Pentru clienți din diaspora: măsurători efectuate de client după ghidul tehnic transmis de noi, confirmate de echipa noastră
+
+### Pasul 3: Producție și ambalare export
+Tâmplăria este produsă la specificațiile exacte. Ambalarea pentru export include:
+- Folie de protecție dublă pe toate suprafețele
+- Ramă de lemn sau carton rigid pentru fiecare bucată
+- Separatori între piese pentru a evita zgârieturile
+- Documentație CE completă în colet
+
+### Pasul 4: Transport
+- **Curier specializat tâmplărie** cu asigurare marfă inclusă
+- Livrare la adresa șantierului sau depozitului din țara de destinație
+- Timp de livrare: **7–14 zile lucrătoare** de la confirmarea producției
+
+---
+
+## Documente incluse în livrarea export
+
+✅ Declarație de performanță CE (obligatorie în UE)
+✅ Fișe tehnice profil Salamander
+✅ Factură cu TVA 0% pentru operatori intracomunitari (ROI)
+✅ CMR (document transport internațional)
+✅ Instrucțiuni de montaj
+
+---
+
+## Prețuri orientative export — Neofort BIZ 2026
+
+> ⚠️ **Notă importantă:** Prețurile sunt orientative, valabile martie 2026. Cursul EUR/RON și costurile de transport se pot modifica. Solicitați ofertă actualizată.
+
+| Produs | Configurație | Preț estimat FOB București |
+|---|---|---|
+| BluEvolution 92 + geam dublu Low-E | Fereastră standard 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + geam triplu Low-E | Fereastră standard 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + geam dublu Low-E | Fereastră standard 100×120 cm | 180–270 EUR |
+| Transport Germania/Austria (estimativ) | Per camion parțial (LTL) | 80–150 EUR/100 kg |
+
+*Prețuri FOB București — transport și asigurare se adaugă separat în funcție de destinație și volum.*
+
+---
+
+## Întrebări frecvente pentru export
+
+**Pot comanda din Germania fără să vin în România?**
+Da. Toată procesul de ofertare, confirmare și plată se poate face online sau telefonic. Livrăm la adresa din Germania.
+
+**Ce garanție primesc pentru export?**
+Aceeași garanție ca pentru clienții din România: 5 ani pe profil și geam, 2 ani pe feronerie.
+
+**Pot comanda și feronerie sau accesorii separat?**
+Da — rulouri exterioare aluminiu, jaluzele Raffstore, zipscreen, glafuri, plase insecte.
+
+**E nevoie de arhitect sau autorizație pentru înlocuire ferestre în Germania?**
+Depinde de land și tipul imobilului. Neofort BIZ furnizează toată documentația tehnică CE necesară pentru eventuale autorizații.
+
+---
+
+## Contactează Neofort BIZ pentru export
+
+**WhatsApp (EN/DE/FR/IT/ES):** +40 752 443 435
+**Email:** oferte@neofort-biz.ro
+**Program:** L–V 10:00–18:00 (EET / UTC+2)`,
+
+      en: `## Why are more and more Europeans buying Salamander windows from Romania?
+
+In 2026, a Salamander BluEvolution 92 window produced in Romania costs **30–50% less** than the same profiles purchased from local suppliers in Germany, Austria, France or Italy.
+
+The reasons are straightforward:
+- Labour costs in Romania are 3–4× lower than in Western Europe
+- Large-scale production and high competition in the Romanian market keep prices competitive
+- **The Salamander profile is identical** — produced by the same German company (Salamander Industrie-Produkte GmbH, Türkheim, Bavaria) to the same technical specifications
+
+**Main export clients:**
+- Romanian diaspora in Germany, Italy, France, Spain, Belgium — building or renovating homes
+- Property developers in Austria, Germany and the Netherlands seeking better prices
+- Private buyers from Hungary, Bulgaria and Serbia
+
+---
+
+## How export ordering works at Neofort BIZ
+
+**Step 1:** Send us your window dimensions, opening types, colour and destination country → preliminary quote within 24 working hours.
+
+**Step 2:** Production and export packaging — double protective film, wooden/cardboard frame per piece, complete CE documentation.
+
+**Step 3:** Delivery via specialist joinery courier with cargo insurance to your site address. Delivery time: **7–14 working days** from production confirmation.
+
+---
+
+## Documents included in export delivery
+
+✅ CE Declaration of Performance (mandatory in EU)
+✅ Salamander technical profile sheets
+✅ Invoice with 0% VAT for intra-community operators
+✅ CMR international transport document
+✅ Installation instructions
+
+---
+
+## Indicative export prices — Neofort BIZ 2026
+
+> ⚠️ **Important note:** Prices are indicative as of March 2026. Always request an updated quote.
+
+| Product | Config | Estimated price FOB Bucharest |
+|---|---|---|
+| BluEvolution 92 + double Low-E | Standard 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + triple Low-E | Standard 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + double Low-E | Standard 100×120 cm | 180–270 EUR |
+
+**WhatsApp (EN/DE/FR/IT/ES):** +40 752 443 435 | **Mon–Fri 10–18 EET**`,
+
+      de: `## Warum kaufen immer mehr Europäer Salamander-Fenster aus Rumänien?
+
+Im Jahr 2026 kostet ein in Rumänien hergestelltes Salamander BluEvolution 92 Fenster **30–50% weniger** als dasselbe Profil bei lokalen Anbietern in Deutschland, Österreich, Frankreich oder Italien.
+
+Die Gründe liegen auf der Hand:
+- Die Arbeitskosten in Rumänien sind 3–4× niedriger als in Westeuropa
+- Das **Salamander-Profil ist identisch** — produziert von demselben deutschen Unternehmen (Salamander Industrie-Produkte GmbH, Türkheim, Bayern)
+
+---
+
+## So funktioniert die Exportbestellung bei Neofort BIZ
+
+**Schritt 1:** Maße, Öffnungsarten, Farbe und Bestimmungsland senden → vorläufiges Angebot innerhalb von 24 Werktagen.
+
+**Schritt 2:** Produktion und Exportverpackung — doppelte Schutzfolie, Holz-/Kartonrahmen, vollständige CE-Dokumentation.
+
+**Schritt 3:** Lieferung per Spezialtransport mit Frachtversicherung. Lieferzeit: **7–14 Werktage** nach Produktionsbestätigung.
+
+---
+
+## Im Lieferumfang enthaltene Dokumente
+
+✅ CE-Leistungserklärung (in der EU obligatorisch)
+✅ Technische Datenblätter Salamander
+✅ Rechnung mit 0% MwSt für innergemeinschaftliche Betreiber
+✅ CMR internationales Transportdokument
+✅ Montageanleitung
+
+---
+
+## Exportrichtpreise — Neofort BIZ 2026
+
+> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+
+| Produkt | Konfiguration | Geschätzter Preis FOB Bukarest |
+|---|---|---|
+| BluEvolution 92 + Zweifach-Low-E | Standard 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + Dreifach-Low-E | Standard 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + Zweifach-Low-E | Standard 100×120 cm | 180–270 EUR |
+
+**WhatsApp (DE/EN/FR/IT/ES):** +40 752 443 435 | **Mo–Fr 10–18 MEZ+1**`,
+
+      fr: `## Pourquoi de plus en plus d'Européens achètent-ils des fenêtres Salamander de Roumanie ?
+
+En 2026, une fenêtre Salamander BluEvolution 92 produite en Roumanie coûte **30 à 50% moins cher** que les mêmes profils achetés chez des fournisseurs locaux en Allemagne, Autriche, France ou Italie.
+
+Les raisons sont simples :
+- Les coûts de main-d\'œuvre en Roumanie sont 3 à 4× inférieurs à ceux de l\'Europe occidentale
+- Le **profil Salamander est identique** — produit par la même entreprise allemande (Salamander Industrie-Produkte GmbH, Türkheim, Bavière)
+
+---
+
+## Comment fonctionne la commande export chez Neofort BIZ
+
+**Étape 1 :** Envoyez dimensions, types d\'ouverture, couleur et pays de destination → devis préliminaire sous 24 heures ouvrées.
+
+**Étape 2 :** Production et emballage export — double film protecteur, cadre bois/carton, documentation CE complète.
+
+**Étape 3 :** Livraison par transporteur spécialisé avec assurance marchandises. Délai : **7 à 14 jours ouvrés** après confirmation de production.
+
+---
+
+## Documents inclus dans la livraison export
+
+✅ Déclaration de performance CE (obligatoire dans l\'UE)
+✅ Fiches techniques profil Salamander
+✅ Facture avec TVA 0% pour opérateurs intracommunautaires
+✅ CMR document de transport international
+✅ Instructions de montage
+
+---
+
+## Prix indicatifs export — Neofort BIZ 2026
+
+> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+
+| Produit | Configuration | Prix estimé FOB Bucarest |
+|---|---|---|
+| BluEvolution 92 + double Low-E | Standard 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + triple Low-E | Standard 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + double Low-E | Standard 100×120 cm | 180–270 EUR |
+
+**WhatsApp (FR/EN/DE/IT/ES) :** +40 752 443 435 | **L–V 10–18 EET**`,
+
+      es: `## ¿Por qué cada vez más europeos compran ventanas Salamander de Rumanía?
+
+En 2026, una ventana Salamander BluEvolution 92 producida en Rumanía cuesta un **30–50% menos** que los mismos perfiles comprados a proveedores locales en Alemania, Austria, Francia o Italia.
+
+Las razones son simples:
+- Los costes laborales en Rumanía son 3–4× inferiores a los de Europa Occidental
+- El **perfil Salamander es idéntico** — producido por la misma empresa alemana (Salamander Industrie-Produkte GmbH, Türkheim, Baviera)
+
+---
+
+## Cómo funciona el pedido de exportación en Neofort BIZ
+
+**Paso 1:** Envíe dimensiones, tipos de apertura, color y país de destino → presupuesto preliminar en 24 horas laborables.
+
+**Paso 2:** Producción y embalaje de exportación — doble film protector, marco de madera/cartón, documentación CE completa.
+
+**Paso 3:** Entrega mediante transportista especializado con seguro de mercancías. Plazo: **7–14 días laborables** desde confirmación de producción.
+
+---
+
+## Documentos incluidos en la entrega de exportación
+
+✅ Declaración de prestaciones CE (obligatoria en la UE)
+✅ Fichas técnicas perfil Salamander
+✅ Factura con IVA 0% para operadores intracomunitarios
+✅ CMR documento de transporte internacional
+✅ Instrucciones de montaje
+
+---
+
+## Precios orientativos exportación — Neofort BIZ 2026
+
+> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+
+| Producto | Configuración | Precio estimado FOB Bucarest |
+|---|---|---|
+| BluEvolution 92 + doble Low-E | Estándar 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + triple Low-E | Estándar 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + doble Low-E | Estándar 100×120 cm | 180–270 EUR |
+
+**WhatsApp (ES/EN/DE/FR/IT):** +40 752 443 435 | **L–V 10–18 EET**`,
+
+      it: `## Perché sempre più europei acquistano finestre Salamander dalla Romania?
+
+Nel 2026, una finestra Salamander BluEvolution 92 prodotta in Romania costa il **30–50% in meno** rispetto agli stessi profili acquistati da fornitori locali in Germania, Austria, Francia o Italia.
+
+Le ragioni sono semplici:
+- Il costo del lavoro in Romania è 3–4× inferiore rispetto all\'Europa occidentale
+- Il **profilo Salamander è identico** — prodotto dalla stessa azienda tedesca (Salamander Industrie-Produkte GmbH, Türkheim, Baviera)
+
+---
+
+## Come funziona l\'ordine export da Neofort BIZ
+
+**Passo 1:** Inviate dimensioni, tipi di apertura, colore e paese di destinazione → preventivo preliminare entro 24 ore lavorative.
+
+**Passo 2:** Produzione e imballaggio export — doppio film protettivo, cornice in legno/cartone, documentazione CE completa.
+
+**Passo 3:** Consegna tramite corriere specializzato con assicurazione merci. Tempi: **7–14 giorni lavorativi** dalla conferma della produzione.
+
+---
+
+## Documenti inclusi nella consegna export
+
+✅ Dichiarazione di prestazione CE (obbligatoria nell\'UE)
+✅ Schede tecniche profilo Salamander
+✅ Fattura con IVA 0% per operatori intracomunitari
+✅ CMR documento di trasporto internazionale
+✅ Istruzioni di montaggio
+
+---
+
+## Prezzi indicativi export — Neofort BIZ 2026
+
+> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+
+| Prodotto | Configurazione | Prezzo stimato FOB Bucarest |
+|---|---|---|
+| BluEvolution 92 + doppio Low-E | Standard 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + triplo Low-E | Standard 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + doppio Low-E | Standard 100×120 cm | 180–270 EUR |
+
+**WhatsApp (IT/EN/DE/FR/ES):** +40 752 443 435 | **L–V 10–18 EET**`,
+    },
+  },
+
+  // ─── ARTICOL 23: Uși aluminiu Sector 1 București ─────────────────────────
+  {
+    slugs: {
+      ro: 'unde-comand-usi-aluminiu-sector-1-bucuresti',
+      en: 'where-to-order-aluminium-doors-sector-1-bucharest',
+      de: 'wo-aluminiumtueren-sektor-1-bukarest-bestellen',
+      fr: 'ou-commander-portes-aluminium-secteur-1-bucarest',
+      es: 'donde-pedir-puertas-aluminio-sector-1-bucarest',
+      it: 'dove-ordinare-porte-alluminio-settore-1-bucarest',
+    },
+    date: '2026-03-21',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
+    category: { ro:'Tâmplărie Aluminiu', en:'Aluminium Joinery', de:'Aluminiumtischler', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
+    readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
+    image: {
+      ro: '/blog/blog-usi-aluminiu-sector1.avif',
+      en: '/blog/blog-usi-aluminiu-sector1.avif',
+      de: '/blog/blog-usi-aluminiu-sector1.avif',
+      fr: '/blog/blog-usi-aluminiu-sector1.avif',
+      es: '/blog/blog-usi-aluminiu-sector1.avif',
+      it: '/blog/blog-usi-aluminiu-sector1.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a1a1a 0%,#2a2a3a 60%,#3a3a5a 100%)',
+    imageLabel: 'Uși Aluminiu Sector 1',
+    accentColor: '#3a4a6a',
+    title: {
+      ro: 'Unde pot comanda uși din aluminiu în Sector 1 București? Ghid complet 2026',
+      en: 'Where can I order aluminium doors in Sector 1 Bucharest? Complete guide 2026',
+      de: 'Wo kann ich Aluminiumtüren in Sektor 1 Bukarest bestellen? Vollständiger Leitfaden 2026',
+      fr: 'Où commander des portes en aluminium dans le Secteur 1 Bucarest ? Guide complet 2026',
+      es: '¿Dónde pedir puertas de aluminio en el Sector 1 de Bucarest? Guía completa 2026',
+      it: 'Dove ordinare porte in alluminio nel Settore 1 di Bucarest? Guida completa 2026',
+    },
+    excerpt: {
+      ro: 'Cauți uși din aluminiu în Sector 1 București — pentru vilă, bloc nou, birou sau spațiu comercial? Ghid complet 2026: tipuri de uși aluminiu disponibile (batante, glisante, liftant-glisante, pivot, pereți cortină), sistemele Alumil recomandate, prețuri orientative și cum alegi furnizorul potrivit din București.',
+      en: 'Looking for aluminium doors in Sector 1 Bucharest — for a villa, new block, office or commercial space? Complete guide 2026: types of aluminium doors available (swing, sliding, lift-and-slide, pivot, curtain walls), recommended Alumil systems, indicative prices and how to choose the right supplier in Bucharest.',
+      de: 'Suchen Sie Aluminiumtüren in Sektor 1 Bukarest — für eine Villa, ein Neubaublock, ein Büro oder Gewerberaum? Vollständiger Leitfaden 2026: verfügbare Aluminiumtürtypen, empfohlene Alumil-Systeme, Richtpreise.',
+      fr: "Vous cherchez des portes en aluminium dans le Secteur 1 Bucarest — pour une villa, un immeuble neuf, un bureau ou un espace commercial ? Guide complet 2026 : types de portes aluminium disponibles, systèmes Alumil recommandés, prix indicatifs.",
+      es: '¿Buscas puertas de aluminio en el Sector 1 de Bucarest — para una villa, bloque nuevo, oficina o local comercial? Guía completa 2026: tipos de puertas de aluminio disponibles, sistemas Alumil recomendados, precios orientativos.',
+      it: "Cerchi porte in alluminio nel Settore 1 di Bucarest — per una villa, un nuovo palazzo, un ufficio o uno spazio commerciale? Guida completa 2026: tipi di porte in alluminio disponibili, sistemi Alumil consigliati, prezzi indicativi.",
+    },
+    metaDesc: {
+      ro: 'Uși aluminiu Sector 1 București 2026: batante, glisante, liftant-glisante, pivot Alumil SF85 Supreme, pereți cortină CW50, prețuri 800-8000 EUR, montaj rapid. Neofort BIZ Sector 1.',
+      en: 'Aluminium doors Sector 1 Bucharest 2026: swing, sliding, lift-and-slide, pivot Alumil SF85 Supreme, curtain walls CW50, prices 800-8000 EUR, fast installation. Neofort BIZ Sector 1.',
+      de: 'Aluminiumtüren Sektor 1 Bukarest 2026: Dreh-, Schiebe-, Hebe-Schiebetüren, Pivot Alumil SF85 Supreme, Vorhangfassaden CW50, Preise 800–8000 EUR, schnelle Montage. Neofort BIZ Sektor 1.',
+      fr: 'Portes aluminium Secteur 1 Bucarest 2026 : battantes, coulissantes, levantes-coulissantes, pivot Alumil SF85 Supreme, murs-rideaux CW50, prix 800–8000 EUR, pose rapide. Neofort BIZ Secteur 1.',
+      es: 'Puertas aluminio Sector 1 Bucarest 2026: batientes, correderas, elevadoras, pivot Alumil SF85 Supreme, muros cortina CW50, precios 800–8000 EUR, instalación rápida. Neofort BIZ Sector 1.',
+      it: 'Porte alluminio Settore 1 Bucarest 2026: battenti, scorrevoli, alzanti scorrevoli, pivot Alumil SF85 Supreme, facciate continue CW50, prezzi 800–8000 EUR, installazione rapida. Neofort BIZ Settore 1.',
+    },
+    keywords: 'usi aluminiu sector 1 Bucuresti, usi aluminiu la comanda Bucuresti 2026, usa aluminiu batanta glisanta Ilfov, Alumil SF85 usa aluminiu pret, usa pivot aluminiu Bucuresti, pereti cortina Bucuresti sector 1, tâmplărie aluminiu bariera termica Bucuresti',
+    content: {
+      ro: `## Ce tipuri de uși din aluminiu poți comanda în Sector 1 București
+
+Sectorul 1 concentrează cel mai mare număr de vile premium, rezidențe de lux și clădiri de birouri din București. Cerințele sunt pe măsură: uși cu barieră termică, estetică minimalistă, dimensiuni supraînălțate și sisteme antiefracție certificate.
+
+Neofort BIZ furnizează și montează uși din aluminiu Alumil pe întreg Sectorul 1, cu sediul la **Str. Theodor Aman Pictor nr. 11, Sector 1, București**.
+
+---
+
+## Tipuri de uși aluminiu disponibile
+
+### Uși batante din aluminiu cu barieră termică
+Cea mai simplă și robustă soluție. Foaia de ușă se deschide pe balamalele laterale.
+
+**Sistem Alumil recomandat:** Alumil Supreme S77 / Smartia S67
+- Barieră termică poliamidă
+- Uw = 1,1–1,4 W/m²K cu geam termoizolant
+- Disponibil: 1 canat, 2 canate, cu luminatoare
+- Antiefracție RC2 disponibil
+- Dimensiuni maxime: până la 120 cm lățime / 250 cm înălțime per canat
+
+**Potrivit pentru:** intrare vilă, intrare bloc rezidențial, birou, spațiu comercial
+
+### Uși glisante din aluminiu
+Foaia culisează pe șine orizontale. Salvează spațiu, potrivite pentru treceri interioare sau balcoane.
+
+**Sistem Alumil:** Smartia S350 / S700
+- Disponibil: 2, 3, 4 canaturi
+- Dimensiuni mari până la 3m înălțime
+- Uw = 1,2–1,6 W/m²K
+
+### Uși liftant-glisante (Lift & Slide)
+Sistemul premium pentru deschideri mari spre terasă sau grădină. Canalul ridică foaia câțiva mm înainte să o culiseze — etanșeitate perfectă.
+
+**Sistem Alumil:** Supreme S700 Lift & Slide
+- Capacitate per canat: până la **300 kg**
+- Deschideri posibile: 3–6m lățime
+- Uw = 1,0–1,3 W/m²K cu geam triplu
+- Mâner ergonomic cu blocare multiplă
+
+**Cel mai căutat** în vile din Floreasca, Herăstrău, Aviatorilor — pentru conexiunea living-terasă
+
+### Uși pivot din aluminiu
+Design arhitectural spectaculos — foaia se rotește pe un pivot central sau excentric. Efect dramatic, potrivit pentru intrări principale de vilă sau lobby.
+
+**Sistem Alumil:** Profil special pivot
+- Înălțime până la 3,5m
+- Lățime până la 1,5m
+- Disponibil cu feronerie inox sau aluminiu anodizat
+- Se realizează la comandă exclusiv
+
+### Pereți cortină și fațade din aluminiu
+Nu sunt uși în sensul clasic, dar multe proiecte din Sector 1 includ sisteme de vitrare cu uși integrate în fațadă.
+
+**Sistem Alumil:** CW50 / CW60 Curtain Wall
+- Fațade continue cu geam
+- Uși batante sau glisante integrate
+- Potrivit pentru birouri, showroom-uri, vile moderne
+
+---
+
+## Sisteme antiefracție — obligatoriu pentru Sector 1
+
+Pentru vile și rezidențe din Sector 1, recomandăm uși cu **certificare antiefracție RC2** (Resistance Class 2, conform EN 1627).
+
+RC2 înseamnă că ușa rezistă la minimum **3 minute de efracție cu unelte manuale** (șurubelniță, pârghie). Este standardul minim acceptat de companiile de asigurări pentru case de lux.
+
+**Ce include RC2:**
+- Profil cu armătură rezistentă
+- Geam stratificat antiefracție (P4A minimum)
+- Feronerie cu blocare multiplă (minimum 3 puncte)
+- Balamale cu știfturi anti-scoatere
+
+---
+
+## Culori și finisaje disponibile
+
+Aluminiul se vopsește în orice culoare RAL prin **vopsire electostatică** (durată 30+ ani) sau **anodizare** (aspect metalic mat/lucios, durată nelimitată).
+
+**Cele mai cerute în Sector 1 București 2026:**
+- **Antracit RAL 7016** (gri închis) — cel mai popular pentru vile moderne
+- **Negru RAL 9005** — aspect premium minimalist
+- **Alb RAL 9016** — clasic, potrivit pentru fațade albe
+- **Bronze anodizat** — pentru arhitectura clasică din Floreasca/Aviatorilor
+- **Inox periat imitație** (RAL efect metalic)
+
+---
+
+## Prețuri orientative uși aluminiu Sector 1, 2026
+
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Solicitați ofertă actualizată cu specificații exacte.
+
+| Tip ușă | Configurație | Preț estimat montat |
+|---|---|---|
+| Batantă simpla, barieră termică | 1 canat 90×210 cm | 800–1.400 EUR |
+| Batantă dublă premium | 2 canaturi 120×240 cm | 1.800–3.200 EUR |
+| Glisantă 2 canaturi | 180×240 cm | 1.200–2.000 EUR |
+| Liftant-glisantă Alumil S700 | 300×240 cm | 3.500–6.000 EUR |
+| Pivot vilă | 120×280 cm | 4.000–8.000 EUR |
+| Perete cortină cu ușă integrată | Per mp | 400–700 EUR/mp |
+
+*Prețurile includ profil, geam termoizolant, feronerie și montaj profesional. Culori speciale RAL pot adăuga 5–15%.*
+
+---
+
+## De ce Neofort BIZ pentru uși aluminiu în Sector 1?
+
+- **Sediu în Sector 1** — Str. Theodor Aman Pictor nr. 11, deplasăm echipa rapid
+- **21 ani experiență** în tâmplărie aluminiu și PVC
+- **Sisteme Alumil Supreme** — nu compromitem cu profile de gamă medie pentru proiecte premium
+- **Montaj cu echipă proprie** — nu subcontractăm montajul
+- **46 recenzii Google, rating 4,9/5**
+
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**`,
+
+      en: `## Types of aluminium doors available in Sector 1 Bucharest
+
+Sector 1 concentrates the highest number of premium villas, luxury residences and office buildings in Bucharest. Requirements match: thermally broken doors, minimalist aesthetics, overheight dimensions and certified anti-burglary systems.
+
+Neofort BIZ supplies and installs Alumil aluminium doors throughout Sector 1, with offices at **11 Theodor Aman Pictor St., Sector 1, Bucharest**.
+
+---
+
+## Available door types
+
+**Swing doors (thermally broken):** Alumil Supreme S77 / Smartia S67. Uw = 1.1–1.4 W/m²K. RC2 anti-burglary available.
+
+**Sliding doors:** Alumil Smartia S350 / S700. 2–4 panels, up to 3m height.
+
+**Lift-and-slide doors:** Alumil Supreme S700. Capacity per panel: up to **300 kg**. Openings 3–6m wide. Most popular for villa terrace connections in Floreasca, Herăstrău, Aviatorilor.
+
+**Pivot doors:** architectural statement piece, up to 3.5m height, 1.5m width. Custom-made exclusively.
+
+**Curtain walls with integrated doors:** Alumil CW50/CW60. For offices, showrooms, modern villas.
+
+---
+
+## Anti-burglary certification — essential for Sector 1
+
+For villas and residences, we recommend **RC2 certification** (Resistance Class 2, EN 1627) — minimum 3 minutes resistance to forced entry with hand tools. Required by most luxury home insurers.
+
+---
+
+## Indicative prices aluminium doors Sector 1, 2026
+
+> ⚠️ **Important note:** Prices are indicative as of March 2026. Always request an updated quote.
+
+| Door type | Configuration | Estimated installed price |
+|---|---|---|
+| Single swing, thermally broken | 90×210 cm | 800–1,400 EUR |
+| Premium double swing | 120×240 cm | 1,800–3,200 EUR |
+| 2-panel sliding | 180×240 cm | 1,200–2,000 EUR |
+| Lift-and-slide Alumil S700 | 300×240 cm | 3,500–6,000 EUR |
+| Villa pivot | 120×280 cm | 4,000–8,000 EUR |
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+
+      de: `## Arten von Aluminiumtüren in Sektor 1 Bukarest
+
+Sektor 1 konzentriert die meisten Premium-Villen, Luxusresidenzen und Bürogebäude in Bukarest. Neofort BIZ liefert und installiert Alumil-Aluminiumtüren im gesamten Sektor 1, mit Büro in der **Str. Theodor Aman Pictor Nr. 11, Sektor 1, Bukarest**.
+
+---
+
+## Verfügbare Türtypen
+
+**Drehtüren (Wärmegedämmt):** Alumil Supreme S77 / Smartia S67. Uw = 1,1–1,4 W/m²K. RC2-Einbruchschutz verfügbar.
+
+**Schiebetüren:** Alumil Smartia S350 / S700. 2–4 Flügel, bis 3m Höhe.
+
+**Hebe-Schiebetüren:** Alumil Supreme S700. Kapazität: bis **300 kg** pro Flügel. Öffnungen 3–6m breit. Besonders gefragt für Villenterrassen in Floreasca und Herăstrău.
+
+**Pivottüren:** architektonisches Highlight, bis 3,5m Höhe. Ausschließlich auf Bestellung.
+
+**Vorhangfassaden mit integrierten Türen:** Alumil CW50/CW60.
+
+---
+
+## Richtpreise Aluminiumtüren Sektor 1, 2026
+
+> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+
+| Türtyp | Konfiguration | Geschätzter Montagepreis |
+|---|---|---|
+| Einflügelige Drehtür | 90×210 cm | 800–1.400 EUR |
+| Premium-Doppeldrehtür | 120×240 cm | 1.800–3.200 EUR |
+| 2-flügelige Schiebetür | 180×240 cm | 1.200–2.000 EUR |
+| Hebe-Schiebetür Alumil S700 | 300×240 cm | 3.500–6.000 EUR |
+| Villa-Pivottür | 120×280 cm | 4.000–8.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**`,
+
+      fr: `## Types de portes en aluminium disponibles dans le Secteur 1 Bucarest
+
+Le Secteur 1 concentre le plus grand nombre de villas premium, de résidences de luxe et de bureaux à Bucarest. Neofort BIZ fournit et installe des portes Alumil dans tout le Secteur 1, avec des bureaux au **11 rue Theodor Aman Pictor, Secteur 1, Bucarest**.
+
+---
+
+## Types de portes disponibles
+
+**Portes battantes (rupture de pont thermique) :** Alumil Supreme S77 / Smartia S67. Uw = 1,1–1,4 W/m²K. Anti-effraction RC2 disponible.
+
+**Portes coulissantes :** Alumil Smartia S350 / S700. 2–4 vantaux, jusqu\'à 3m de hauteur.
+
+**Portes levantes-coulissantes :** Alumil Supreme S700. Capacité : jusqu\'à **300 kg** par vantail. Ouvertures 3–6m de large. Les plus demandées pour les connexions salon-terrasse dans les villas de Floreasca.
+
+**Portes pivotantes :** pièce architecturale maîtresse, jusqu\'à 3,5m de hauteur. Sur commande exclusivement.
+
+**Murs-rideaux avec portes intégrées :** Alumil CW50/CW60.
+
+---
+
+## Prix indicatifs portes aluminium Secteur 1, 2026
+
+> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+
+| Type de porte | Configuration | Prix posé estimé |
+|---|---|---|
+| Battante simple | 90×210 cm | 800–1.400 EUR |
+| Double battante premium | 120×240 cm | 1.800–3.200 EUR |
+| Coulissante 2 vantaux | 180×240 cm | 1.200–2.000 EUR |
+| Levante-coulissante Alumil S700 | 300×240 cm | 3.500–6.000 EUR |
+| Pivotante villa | 120×280 cm | 4.000–8.000 EUR |
+
+**WhatsApp :** +40 752 443 435 | **L–V 10–18**`,
+
+      es: `## Tipos de puertas de aluminio disponibles en el Sector 1 de Bucarest
+
+El Sector 1 concentra el mayor número de villas premium, residencias de lujo y edificios de oficinas de Bucarest. Neofort BIZ suministra e instala puertas Alumil en todo el Sector 1, con oficinas en **C/ Theodor Aman Pictor 11, Sector 1, Bucarest**.
+
+---
+
+## Tipos de puertas disponibles
+
+**Puertas batientes (rotura de puente térmico):** Alumil Supreme S77 / Smartia S67. Uw = 1,1–1,4 W/m²K. Antiefracción RC2 disponible.
+
+**Puertas correderas:** Alumil Smartia S350 / S700. 2–4 hojas, hasta 3m de altura.
+
+**Puertas elevadoras correderas:** Alumil Supreme S700. Capacidad: hasta **300 kg** por hoja. Aperturas 3–6m de ancho. Las más solicitadas para conexiones salón-terraza en villas de Floreasca.
+
+**Puertas pivotantes:** pieza arquitectónica, hasta 3,5m de altura. Solo a medida.
+
+**Muros cortina con puertas integradas:** Alumil CW50/CW60.
+
+---
+
+## Precios orientativos puertas aluminio Sector 1, 2026
+
+> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+
+| Tipo de puerta | Configuración | Precio instalado estimado |
+|---|---|---|
+| Batiente simple | 90×210 cm | 800–1.400 EUR |
+| Doble batiente premium | 120×240 cm | 1.800–3.200 EUR |
+| Corredera 2 hojas | 180×240 cm | 1.200–2.000 EUR |
+| Elevadora corredera Alumil S700 | 300×240 cm | 3.500–6.000 EUR |
+| Pivotante villa | 120×280 cm | 4.000–8.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+
+      it: `## Tipi di porte in alluminio disponibili nel Settore 1 di Bucarest
+
+Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e uffici a Bucarest. Neofort BIZ fornisce e installa porte Alumil in tutto il Settore 1, con sede in **Via Theodor Aman Pictor 11, Settore 1, Bucarest**.
+
+---
+
+## Tipi di porte disponibili
+
+**Porte battenti (taglio termico):** Alumil Supreme S77 / Smartia S67. Uw = 1,1–1,4 W/m²K. Antieffrazione RC2 disponibile.
+
+**Porte scorrevoli:** Alumil Smartia S350 / S700. 2–4 ante, fino a 3m di altezza.
+
+**Porte alzanti scorrevoli:** Alumil Supreme S700. Capacità: fino a **300 kg** per anta. Aperture 3–6m di larghezza. Le più richieste per i collegamenti soggiorno-terrazza nelle ville di Floreasca.
+
+**Porte pivot:** elemento architettonico, fino a 3,5m di altezza. Solo su misura.
+
+**Facciate continue con porte integrate:** Alumil CW50/CW60.
+
+---
+
+## Prezzi indicativi porte alluminio Settore 1, 2026
+
+> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+
+| Tipo di porta | Configurazione | Prezzo installato stimato |
+|---|---|---|
+| Battente singola | 90×210 cm | 800–1.400 EUR |
+| Doppia battente premium | 120×240 cm | 1.800–3.200 EUR |
+| Scorrevole 2 ante | 180×240 cm | 1.200–2.000 EUR |
+| Alzante scorrevole Alumil S700 | 300×240 cm | 3.500–6.000 EUR |
+| Pivot villa | 120×280 cm | 4.000–8.000 EUR |
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+    },
+  },
+
 ];
 
 // Găsește articol după slug în orice limbă
