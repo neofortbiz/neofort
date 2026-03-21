@@ -251,7 +251,7 @@ export default function Footer() {
                       {ft.gdpr_text}{' '}
                       <Link href="/gdpr" style={{color: err.gdpr ? '#e05252' : '#bbb',textDecoration:'underline'}}>{ft.gdpr_priv}</Link>
                       {' '}{ft.gdpr_and}{' '}
-                      <Link href="/gdpr" style={{color: err.gdpr ? '#e05252' : '#bbb',textDecoration:'underline'}}>{ft.gdpr_cook}</Link>
+                      <Link href="/cookies" style={{color: err.gdpr ? '#e05252' : '#bbb',textDecoration:'underline'}}>{ft.gdpr_cook}</Link>
                       {' '}{ft.gdpr_of}
                     </label>
                   </div>
@@ -351,7 +351,7 @@ export default function Footer() {
               <li><Link href="/despre">{col.despre}</Link></li>
               <li><Link href="/blog">{col.blog}</Link></li>
               <li><Link href="/gdpr">{col.gdpr}</Link></li>
-              <li><Link href="/gdpr">{col.cookies}</Link></li>
+              <li><Link href="/cookies">{col.cookies}</Link></li>
             </ul>
           </div>
           <div className="footer-col-4" style={{borderLeft:'1px solid #1e1e1e'}}>

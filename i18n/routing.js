@@ -278,6 +278,14 @@ export const routing = defineRouting({
       es: '/blog/exportacion-carpinteria-rumania-alemania',
       it: '/blog/esportazione-serramenti-romania-germania',
     },
+    '/cookies': {
+      ro: '/cookies',
+      en: '/cookie-policy',
+      de: '/cookie-richtlinie',
+      fr: '/politique-cookies',
+      es: '/politica-cookies',
+      it: '/politica-cookie',
+    },
     '/gdpr': {
       ro: '/gdpr',
       en: '/privacy-policy',

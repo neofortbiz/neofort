@@ -4,12 +4,12 @@ const BASE = 'https://www.neofort-biz.ro';
 const LOCALES = ['ro','en','de','fr','es','it'];
 
 const PAGE_SLUGS = {
-  ro: { pvc:'tamplarie-pvc', aluminiu:'tamplarie-aluminiu', accesorii:'accesorii', servicii:'servicii', contact:'contact', despre:'despre', gdpr:'gdpr', umbrire:'umbrire', nzeb:'sisteme-nzeb' },
-  en: { pvc:'pvc-windows', aluminiu:'aluminium-windows', accesorii:'accessories', servicii:'services', contact:'contact', despre:'about', gdpr:'privacy-policy', umbrire:'shading-systems', nzeb:'nzeb-systems' },
-  de: { pvc:'kunststofffenster-pvc', aluminiu:'aluminiumfenster', accesorii:'zubehoer', servicii:'dienstleistungen', contact:'kontakt', despre:'ueber-uns', gdpr:'datenschutz', umbrire:'beschattungssysteme', nzeb:'nzeb-systeme' },
-  fr: { pvc:'menuiserie-pvc', aluminiu:'menuiserie-aluminium', accesorii:'accessoires', servicii:'services', contact:'contact', despre:'a-propos', gdpr:'politique-confidentialite', umbrire:'systemes-occultation', nzeb:'systemes-nzeb' },
-  es: { pvc:'carpinteria-pvc', aluminiu:'carpinteria-aluminio', accesorii:'accesorios', servicii:'servicios', contact:'contacto', despre:'sobre-nosotros', gdpr:'politica-privacidad', umbrire:'sistemas-sombreado', nzeb:'sistemas-nzeb' },
-  it: { pvc:'infissi-pvc', aluminiu:'infissi-alluminio', accesorii:'accessori', servicii:'servizi', contact:'contatti', despre:'chi-siamo', gdpr:'informativa-privacy', umbrire:'sistemi-oscuramento', nzeb:'sistemi-nzeb' },
+  ro: { pvc:'tamplarie-pvc', aluminiu:'tamplarie-aluminiu', accesorii:'accesorii', servicii:'servicii', contact:'contact', despre:'despre', gdpr:'gdpr', cookies:'cookies', umbrire:'umbrire', nzeb:'sisteme-nzeb' },
+  en: { pvc:'pvc-windows', aluminiu:'aluminium-windows', accesorii:'accessories', servicii:'services', contact:'contact', despre:'about', gdpr:'privacy-policy', cookies:'cookie-policy', umbrire:'shading-systems', nzeb:'nzeb-systems' },
+  de: { pvc:'kunststofffenster-pvc', aluminiu:'aluminiumfenster', accesorii:'zubehoer', servicii:'dienstleistungen', contact:'kontakt', despre:'ueber-uns', gdpr:'datenschutz', cookies:'cookie-richtlinie', umbrire:'beschattungssysteme', nzeb:'nzeb-systeme' },
+  fr: { pvc:'menuiserie-pvc', aluminiu:'menuiserie-aluminium', accesorii:'accessoires', servicii:'services', contact:'contact', despre:'a-propos', gdpr:'politique-confidentialite', cookies:'politique-cookies', umbrire:'systemes-occultation', nzeb:'systemes-nzeb' },
+  es: { pvc:'carpinteria-pvc', aluminiu:'carpinteria-aluminio', accesorii:'accesorios', servicii:'servicios', contact:'contacto', despre:'sobre-nosotros', gdpr:'politica-privacidad', cookies:'politica-cookies', umbrire:'sistemas-sombreado', nzeb:'sistemas-nzeb' },
+  it: { pvc:'infissi-pvc', aluminiu:'infissi-alluminio', accesorii:'accessori', servicii:'servizi', contact:'contatti', despre:'chi-siamo', gdpr:'informativa-privacy', cookies:'politica-cookie', umbrire:'sistemi-oscuramento', nzeb:'sistemi-nzeb' },
 };
 
 const BLOG_SLUGS = [
@@ -217,6 +217,7 @@ const pages = [
   { key:'blog',      priority:0.7, freq:'weekly'  },
   { key:'despre',    priority:0.5, freq:'yearly'  },
   { key:'gdpr',      priority:0.2, freq:'yearly'  },
+    { key:'cookies',    priority:0.2, freq:'yearly'  },
   { key:'umbrire',    priority:0.8, freq:'monthly' },
   { key:'nzeb',       priority:0.8, freq:'monthly' },
 ];
