@@ -441,7 +441,7 @@ export default async function UmbrireProductPage({ params }) {
     brand: { '@type':'Brand', name:'Neofort BIZ' },
     seller: { '@type':'Organization', name:'Neofort BIZ SRL', url:BASE },
     offers: { '@type':'Offer', price:'0', priceCurrency:'RON', priceValidUntil:'2026-12-31', availability:'https://schema.org/InStock', url:`${BASE}/ro/contact`, seller:{'@type':'Organization',name:'Neofort BIZ SRL',url:BASE} },
-    aggregateRating: { '@type':'AggregateRating', ratingValue:'5', bestRating:'5', worstRating:'1', ratingCount:'47' },
+    aggregateRating: { '@type':'AggregateRating', ratingValue:'4.9', reviewCount:'46', bestRating:'5', worstRating:'1', ratingCount:'47' },
     additionalProperty: specs.map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
   };
 

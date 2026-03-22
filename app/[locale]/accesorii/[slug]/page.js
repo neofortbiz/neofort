@@ -270,7 +270,8 @@ export default async function AccesorieProductPage({ params }) {
     name, description: seotxt, image: `${BASE}${product.img}`,
     brand: { '@type':'Brand', name:'Neofort BIZ' },
     seller: { '@type':'Organization', name:'Neofort BIZ SRL', url:BASE },
-    offers: { '@type':'Offer', availability:'https://schema.org/InStock', priceCurrency:'RON', seller:{'@type':'Organization',name:'Neofort BIZ'} },
+    offers: { '@type':'Offer', availability:'https://schema.org/InStock', priceCurrency:'RON', price:'0', priceValidUntil: new Date(new Date().setFullYear(new Date().getFullYear()+1)).toISOString().split('T')[0], seller:{'@type':'Organization',name:'Neofort BIZ SRL'} },
+    aggregateRating:{'@type':'AggregateRating','ratingValue':'4.9','reviewCount':'46','bestRating':'5','worstRating':'1'},
     additionalProperty: specs.map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
   };
 

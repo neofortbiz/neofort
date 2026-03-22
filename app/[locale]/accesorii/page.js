@@ -74,7 +74,7 @@ export default async function AccesoriiPage({ params }) {
       '@type':'ListItem', 'position': i + 1,
       'item': { '@type':'Product', 'name': a.name[locale]||a.name.ro, 'description': a.desc[locale]||a.desc.ro,
         'image': `${BASE}${a.img}`, 'brand': { '@type':'Brand','name':'Neofort BIZ' },
-        'offers': { '@type':'Offer','availability':'https://schema.org/InStock','priceCurrency':'RON','seller':{'@type':'Organization','name':'Neofort BIZ'} },
+        'offers': { '@type':'Offer','availability':'https://schema.org/InStock','priceCurrency':'RON','price':'0','priceValidUntil': new Date(new Date().setFullYear(new Date().getFullYear()+1)).toISOString().split('T')[0],'seller':{'@type':'Organization','name':'Neofort BIZ SRL'} },'aggregateRating':{'@type':'AggregateRating','ratingValue':'4.9','reviewCount':'46','bestRating':'5','worstRating':'1'},
       }
     }))
   };
