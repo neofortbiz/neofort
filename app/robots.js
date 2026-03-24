@@ -51,6 +51,5 @@ export default function robots() {
       { userAgent: '*', allow: '/', disallow: ['/api/'] },
     ],
     sitemap: 'https://www.neofort-biz.ro/sitemap.xml',
-    host: 'https://www.neofort-biz.ro',
   };
 }
