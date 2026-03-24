@@ -78,11 +78,11 @@ const SPECS = {
 const DESCS = {
   blu92alu: {
     ro:'Profil PVC placat cu 6 camere și adâncime de 104mm. Transfer termic excepțional Uw = 0,70 W/(m²K), geam până la 60mm, izolare fonică până la 47 dB și protecție anti-efracție RC 3.',
-    en:'Clad PVC profile with 6 chambers and 104mm depth. Exceptional thermal transfer Uw = 0.70 W/(m²K), glazing up to 60mm, sound insulation up to 47 dB and RC 3 burglar resistance.',
-    de:'Verkleidetes PVC-Profil mit 6 Kammern und 104mm Bautiefe. Außergewöhnlicher Wärmedurchgang Uw = 0,70 W/(m²K), Verglasung bis 60mm, Schallschutz bis 47 dB und Einbruchschutz RC 3.',
-    fr:'Profil PVC plaqué avec 6 chambres et profondeur de 104mm. Transfert thermique exceptionnel Uw = 0,70 W/(m²K), vitrage jusqu\'à 60mm, isolation phonique jusqu\'à 47 dB et anti-effraction RC 3.',
-    es:'Perfil PVC chapado con 6 cámaras y profundidad de 104mm. Transferencia térmica excepcional Uw = 0,70 W/(m²K), acristalamiento hasta 60mm, aislamiento acústico hasta 47 dB y antirrobo RC 3.',
-    it:'Profilo PVC placcato con 6 camere e profondità di 104mm. Trasmittanza eccezionale Uw = 0,70 W/(m²K), vetro fino a 60mm, isolamento acustico fino a 47 dB e antieffrazione RC 3.',
+    en:'Aluminium-clad PVC profile with 6 chambers and 104mm depth. Exceptional thermal transfer Uw = 0.70 W/(m²K), glazing up to 60mm, sound insulation up to 47 dB and RC 3 burglar resistance.',
+    de:'Aluminiumverkleidetes PVC-Profil mit 6 Kammern und 104mm Bautiefe. Außergewöhnlicher Wärmedurchgang Uw = 0,70 W/(m²K), Verglasung bis 60mm, Schallschutz bis 47 dB und Einbruchschutz RC 3.',
+    fr:'Profil PVC plaqué aluminium avec 6 chambres et profondeur de 104mm. Transfert thermique exceptionnel Uw = 0,70 W/(m²K), vitrage jusqu\'à 60mm, isolation phonique jusqu\'à 47 dB et anti-effraction RC 3.',
+    es:'Perfil PVC chapado en aluminio con 6 cámaras y profundidad de 104mm. Transferencia térmica excepcional Uw = 0,70 W/(m²K), acristalamiento hasta 60mm, aislamiento acústico hasta 47 dB y antirrobo RC 3.',
+    it:'Profilo PVC placcato in alluminio con 6 camere e profondità di 104mm. Trasmittanza eccezionale Uw = 0,70 W/(m²K), vetro fino a 60mm, isolamento acustico fino a 47 dB e antieffrazione RC 3.',
   },
   blu92flex: {
     ro:'Profil PVC cu 6 camere și adâncime de 92mm, profil drept (FLEX). Transfer termic Uw = 0,70 W/(m²K), geam până la 60mm, izolare fonică până la 47 dB și protecție anti-efracție RC 3.',
@@ -137,7 +137,7 @@ const PROD_SLUG_MAP = {
 };
 
 const PVC_PRODUCTS = [
-  { slug:'blu92alu',     img:'/products/bluevolution-92-alu.avif',        name:'BluEvolution 92 ALU (placat)', serie:'blu' },
+  { slug:'blu92alu',     img:'/products/bluevolution-92-alu.avif',        name:'BluEvolution 92 ALU (alu-clad)', serie:'blu' },
   { slug:'blu92flex',    img:'/products/bluevolution-92-flex.avif',        name:'BluEvolution 92 FLEX',         serie:'blu' },
   { slug:'blu92round',   img:'/products/bluevolution-92-round.avif',       name:'BluEvolution 92 ROUND',        serie:'blu' },
   { slug:'gre76mdround', img:'/products/greenevolution-76-md-round.avif',  name:'GreenEvolution 76 MD ROUND',   serie:'gre' },

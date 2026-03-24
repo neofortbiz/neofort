@@ -35,7 +35,7 @@ const UI = {
       ['GreenEvolution 76 AD FLEX', 'Performant', '165–235 EUR/mp', 'Izolare fonică superioară, 2 garnituri EPDM'],
       ['BluEvolution 92 FLEX', 'Premium', '200–280 EUR/mp', 'Case nZEB, eficiență energetică maximă'],
       ['BluEvolution 92 ROUND', 'Premium', '205–285 EUR/mp', 'Design modern + performanță nZEB'],
-      ['BluEvolution 92 ALU (placat)', 'Premium+', '250–350 EUR/mp', 'Aspect aluminiu, performanță PVC nZEB'],
+      ['BluEvolution 92 ALU (alu-clad)', 'Premium+', '250–350 EUR/mp', 'Aspect aluminiu, performanță PVC nZEB'],
     ],
     note: '* Prețurile includ profilul PVC, feroneria standard și geamul termopan 2 foi. Montajul profesional se adaugă separat la cerere.',
     factors_title: 'Ce influențează prețul final',
