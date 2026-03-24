@@ -58,6 +58,11 @@ export default async function LocaleLayout({ children, params }) {
       <head>
         {/* Preload imagini LCP hero homepage */}
         <link rel="preload" as="image" href="/hero-pvc.avif" type="image/avif" fetchpriority="high" />
+        {/* Preconnect Google Analytics - reduce latenta cu ~150ms */}
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="preconnect" href="https://www.google-analytics.com" />
+        <link rel="dns-prefetch" href="https://www.google-analytics.com" />
 
         {/* hreflang */}
         {locales.map(l => (
@@ -130,38 +135,23 @@ export default async function LocaleLayout({ children, params }) {
           <Footer />
           <CookieBanner locale={locale} />
         </NextIntlClientProvider>
-        {/* Google Analytics 4 — GA-20PR5SV2XC — Consent Mode v2 */}
-        <Script id="ga-consent-init" strategy="afterInteractive">{`
+        {/* Google Analytics 4 — G-20PR5SV2XC — Consent Mode v2 */}
+        <Script id="ga4" strategy="afterInteractive" src="https://www.googletagmanager.com/gtag/js?id=G-20PR5SV2XC" />
+        <Script id="ga4-init" strategy="afterInteractive">{`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
-          // Consent Mode v2 — implicit denied pana la acceptarea cookie banner
+          window.gtag = gtag;
           gtag('consent', 'default', {
             analytics_storage: 'denied',
             ad_storage: 'denied',
             ad_user_data: 'denied',
             ad_personalization: 'denied',
-            wait_for_update: 500,
           });
-          window.gtag = gtag;
-        `}</Script>
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-20PR5SV2XC"
-          strategy="afterInteractive"
-        />
-        <Script id="ga4-init" strategy="afterInteractive">{`
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-          gtag('config', 'G-20PR5SV2XC', {
-            anonymize_ip: true,
-            send_page_view: true,
-          });
-          // Daca utilizatorul a acceptat deja cookie-urile, actualizam consent
+          gtag('config', 'G-20PR5SV2XC', { anonymize_ip: true });
           try {
             if (localStorage.getItem('cookie_ok') === '1') {
-              gtag('consent', 'update', {
-                analytics_storage: 'granted',
-              });
+              gtag('consent', 'update', { analytics_storage: 'granted' });
             }
           } catch(e) {}
         `}</Script>
