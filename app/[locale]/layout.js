@@ -136,8 +136,8 @@ export default async function LocaleLayout({ children, params }) {
           <CookieBanner locale={locale} />
         </NextIntlClientProvider>
         {/* Google Analytics 4 — G-20PR5SV2XC — Consent Mode v2 */}
-        <Script id="ga4" strategy="afterInteractive" src="https://www.googletagmanager.com/gtag/js?id=G-20PR5SV2XC" />
-        <Script id="ga4-init" strategy="afterInteractive">{`
+        <Script id="ga4" strategy="lazyOnload" src="https://www.googletagmanager.com/gtag/js?id=G-20PR5SV2XC" />
+        <Script id="ga4-init" strategy="lazyOnload">{`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           window.gtag = gtag;
