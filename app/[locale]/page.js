@@ -5,8 +5,8 @@ const BASE = 'https://www.neofort-biz.ro';
 // ─── CONȚINUT MULTILINGV COMPLET ────────────────────────────────────────────
 const CONTENT = {
   ro: {
-    title: 'Tâmplărie PVC Salamander & Aluminiu Alumil | Geam Termopan nZEB | Neofort BIZ București',
-    desc: 'Neofort BIZ — furnizor tâmplărie PVC Salamander BluEvolution 92, tâmplărie aluminiu Alumil, geam termoizolator 2 și 3 foi nZEB, precadre Blaugelb Triotherm+, jaluzele Raffstore, rulouri aluminiu. Montaj profesional, livrare Europa. 21 ani experiență.',
+    title: 'Tâmplărie PVC & Aluminiu nZEB | Neofort BIZ București',
+    desc: 'Furnizor tâmplărie PVC Salamander și aluminiu Alumil în București. Geam termoizolator nZEB, montaj profesional, livrare în toată Europa. 21 ani experiență.',
     h1: 'Tâmplărie PVC Salamander și Aluminiu Alumil — Neofort BIZ București',
     hero_pvc_label: 'Profile PVC Salamander',
     hero_pvc_tag: 'Tehnologie Germană',
@@ -69,8 +69,8 @@ const CONTENT = {
   },
 
   en: {
-    title: 'PVC Salamander & Alumil Aluminium Windows | nZEB Thermal Glazing | Neofort BIZ Bucharest',
-    desc: 'Neofort BIZ — manufacturer of PVC Salamander BluEvolution 92 windows and Alumil aluminium systems. nZEB thermal glass, Blaugelb Triotherm+ precasings, Raffstore blinds, aluminium shutters. Professional installation, EU delivery. 21 years experience.',
+    title: 'PVC & Aluminium Windows nZEB | Neofort BIZ Bucharest',
+    desc: 'PVC Salamander & Alumil window supplier in Bucharest. nZEB glazing, professional installation, EU delivery. 21 years experience.',
     h1: 'PVC Salamander & Aluminium Alumil Windows — Neofort BIZ Bucharest',
     hero_pvc_label: 'Salamander PVC Profiles',
     hero_pvc_tag: 'German Technology',
@@ -132,8 +132,8 @@ const CONTENT = {
   },
 
   de: {
-    title: 'PVC Salamander & Alumil Aluminiumfenster | nZEB Wärmeschutzverglasung | Neofort BIZ Bukarest',
-    desc: 'Neofort BIZ — Hersteller von PVC Salamander BluEvolution 92 Fenstern und Alumil Aluminiumsystemen. nZEB Isolierglas, Blaugelb Triotherm+ Vorfenster, Raffstore Jalousien. Professionelle Montage, EU-Lieferung. 21 Jahre Erfahrung.',
+    title: 'PVC & Aluminiumfenster nZEB | Neofort BIZ Bukarest',
+    desc: 'Lieferant für PVC Salamander und Alumil Aluminiumfenster in Bukarest. nZEB-Verglasung, professioneller Einbau, Lieferung europaweit. 21 Jahre Erfahrung.',
     h1: 'Kunststoff- & Aluminiumfenster Alumil — Neofort BIZ Bukarest',
     hero_pvc_label: 'Salamander Kunststoffprofile',
     hero_pvc_tag: 'Deutsche Technologie',
@@ -195,8 +195,8 @@ const CONTENT = {
   },
 
   fr: {
-    title: 'Menuiserie PVC Salamander & Aluminium Alumil | Vitrage Thermique nZEB | Neofort BIZ Bucarest',
-    desc: 'Neofort BIZ — fabricant menuiserie PVC Salamander BluEvolution 92 et systèmes aluminium Alumil. Vitrage nZEB, précadres Blaugelb Triotherm+, stores Raffstore. Pose professionnelle, livraison Europe. 21 ans d\'expérience.',
+    title: 'Menuiserie PVC & Aluminium nZEB | Neofort BIZ Bucarest',
+    desc: 'Fournisseur menuiserie PVC Salamander et aluminium Alumil à Bucarest. Vitrage isolant nZEB, pose professionnelle, livraison dans toute l'Europe. 21 ans d'expérience.'expérience.',
     h1: 'Menuiseries PVC Salamander & Aluminium Alumil — Neofort BIZ Bucarest',
     hero_pvc_label: 'Profilés PVC Salamander',
     hero_pvc_tag: 'Technologie Allemande',
@@ -258,8 +258,8 @@ const CONTENT = {
   },
 
   es: {
-    title: 'Carpintería PVC Salamander & Aluminio Alumil | Vidrio Térmico nZEB | Neofort BIZ Bucarest',
-    desc: 'Neofort BIZ — fabricante de carpintería PVC Salamander BluEvolution 92 y sistemas de aluminio Alumil. Vidrio nZEB, premarcos Blaugelb Triotherm+, persianas Raffstore. Instalación profesional, entrega Europa. 21 años de experiencia.',
+    title: 'Carpintería PVC & Aluminio nZEB | Neofort BIZ Bucarest',
+    desc: 'Proveedor PVC Salamander y aluminio Alumil en Bucarest. Vidrio nZEB, instalación profesional, entrega en Europa. 21 años de experiencia.',
     h1: 'Carpintería PVC Salamander & Aluminio Alumil — Neofort BIZ Bucarest',
     hero_pvc_label: 'Perfiles PVC Salamander',
     hero_pvc_tag: 'Tecnología Alemana',
@@ -321,8 +321,8 @@ const CONTENT = {
   },
 
   it: {
-    title: 'Infissi PVC Salamander & Alluminio Alumil | Vetro Termoisolante nZEB | Neofort BIZ Bucarest',
-    desc: 'Neofort BIZ — produttore di infissi PVC Salamander BluEvolution 92 e sistemi in alluminio Alumil. Vetro nZEB, precontrotelaio Blaugelb Triotherm+, veneziane Raffstore. Installazione professionale, consegna Europa. 21 anni di esperienza.',
+    title: 'Infissi PVC & Alluminio nZEB | Neofort BIZ Bucarest',
+    desc: 'Fornitore infissi PVC Salamander e alluminio Alumil a Bucarest. Vetro isolante nZEB, posa professionale, consegna in tutta Europa. 21 anni di esperienza.',
     h1: 'Infissi PVC Salamander & Alluminio Alumil — Neofort BIZ Bucarest',
     hero_pvc_label: 'Profili PVC Salamander',
     hero_pvc_tag: 'Tecnologia Tedesca',

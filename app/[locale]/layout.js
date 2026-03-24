@@ -83,7 +83,6 @@ export default async function LocaleLayout({ children, params }) {
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1" />
         <meta name="bingbot" content="index, follow" />
-        <link rel="canonical" href={`https://www.neofort-biz.ro/${locale}`} />
 
         {/* Theme */}
         <meta name="msvalidate.01" content="46272C3D9771E6B139582E10CB5031A3" />
