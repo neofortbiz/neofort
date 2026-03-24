@@ -3,7 +3,7 @@ import { useLocale, useTranslations } from 'next-intl';
 import { useState } from 'react';
 import { Link, usePathname } from '../i18n/navigation';
 
-const LOCALES = [['ro','RO'],['en','EN'],['de','DE'],['fr','FR'],['es','ES'],['it','IT']];
+const LOCALES = [['ro','RO'],['it','IT'],['de','DE'],['fr','FR'],['es','ES'],['en','EN']];
 
 const EMPTY_ERR = { nume:'', telefon:'', email:'', comanda:'', adresa:'', gdpr:'' };
 

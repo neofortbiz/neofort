@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { useLocale, useTranslations } from 'next-intl';
 import { Link, usePathname } from '../i18n/navigation';
 
-const LOCALES = ['ro','en','de','fr','es','it'];
+const LOCALES = ['ro','it','de','fr','es','en'];
 
 export default function Header() {
   const locale   = useLocale();
