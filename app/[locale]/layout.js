@@ -86,6 +86,7 @@ export default async function LocaleLayout({ children, params }) {
         <link rel="canonical" href={`https://www.neofort-biz.ro/${locale}`} />
 
         {/* Theme */}
+        <meta name="msvalidate.01" content="46272C3D9771E6B139582E10CB5031A3" />
         <meta name="theme-color" content="#111111" />
         <meta name="msapplication-TileColor" content="#111111" />
 
