@@ -314,7 +314,7 @@ export default function Footer() {
               {col.legal}
             </p>
             <a href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
-              style={{display:'inline-flex',alignItems:'center',gap:'6px',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.06em',color:'#f5a623',textDecoration:'none',marginBottom:'14px',fontWeight:500}}>
+              style={{display:'inline-flex',alignItems:'center',gap:'6px',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.06em',color:'#f5a623',textDecoration:'none',marginBottom:'20px',fontWeight:500,display:'block'}}>
               {col.reviews}
             </a>
             {/* WhatsApp CTA Button — desktop footer */}
