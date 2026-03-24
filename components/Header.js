@@ -34,7 +34,7 @@ export default function Header() {
 
         <nav className="site-nav">
           {links.map(l => (
-            <Link key={l.href} href={l.href} className={`site-nav-link${pathname.startsWith(`/${locale}${l.href === '/' ? '' : l.href}`) ? ' active' : ''}`}>{l.label}</Link>
+            <Link key={l.href} href={l.href} className={['site-nav-link', (l.href === '/' ? pathname === `/${locale}` : pathname.startsWith(`/${locale}${l.href}`)) ? 'active' : ''].filter(Boolean).join(' ')}>{l.label}</Link>
           ))}
           <div className="nav-langs">
             {LOCALES.map(l => (
