@@ -46,6 +46,12 @@ export default function CookieBanner({ locale }) {
 
   const accept = () => {
     try { localStorage.setItem('cookie_ok', '1'); } catch {}
+    // GA4 Consent Mode v2 — actualizam la acceptare
+    try {
+      if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+        window.gtag('consent', 'update', { analytics_storage: 'granted' });
+      }
+    } catch {}
     setVisible(false);
   };
 

@@ -6,6 +6,7 @@ import { routing } from '../../i18n/routing';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import CookieBanner from '../../components/CookieBanner';
+import Script from 'next/script';
 
 const locales = ['ro', 'en', 'de', 'fr', 'es', 'it'];
 const baseUrl = 'https://www.neofort-biz.ro';
@@ -129,6 +130,41 @@ export default async function LocaleLayout({ children, params }) {
           <Footer />
           <CookieBanner locale={locale} />
         </NextIntlClientProvider>
+        {/* Google Analytics 4 — GA-20PR5SV2XC — Consent Mode v2 */}
+        <Script id="ga-consent-init" strategy="afterInteractive">{`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          // Consent Mode v2 — implicit denied pana la acceptarea cookie banner
+          gtag('consent', 'default', {
+            analytics_storage: 'denied',
+            ad_storage: 'denied',
+            ad_user_data: 'denied',
+            ad_personalization: 'denied',
+            wait_for_update: 500,
+          });
+          window.gtag = gtag;
+        `}</Script>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-20PR5SV2XC"
+          strategy="afterInteractive"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">{`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-20PR5SV2XC', {
+            anonymize_ip: true,
+            send_page_view: true,
+          });
+          // Daca utilizatorul a acceptat deja cookie-urile, actualizam consent
+          try {
+            if (localStorage.getItem('cookie_ok') === '1') {
+              gtag('consent', 'update', {
+                analytics_storage: 'granted',
+              });
+            }
+          } catch(e) {}
+        `}</Script>
       </body>
     </html>
   );
