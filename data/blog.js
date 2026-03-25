@@ -10134,6 +10134,1442 @@ Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e 
     },
   },
 
+  {
+    slugs: {
+      ro: 'tamplarie-pvc-osciloculisanta-dubla-salamander',
+      en: 'tilt-turn-double-pvc-windows-salamander',
+      de: 'pvc-fenster-dreh-kipp-salamander',
+      fr: 'fenetre-pvc-oscillo-battant-double-salamander',
+      es: 'ventana-pvc-oscilobatiente-doble-salamander',
+      it: 'finestra-pvc-anta-ribalta-doppia-salamander',
+    },
+    date: '2026-03-25',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
+    category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
+    readTime: { ro:'7 min citire', en:'7 min read', de:'7 Min.', fr:'7 min', es:'7 min', it:'7 min' },
+    image: { ro:'/blog/blog-osciloculisanta-dubla-salamander.avif', en:'/blog/blog-osciloculisanta-dubla-salamander.avif', de:'/blog/blog-osciloculisanta-dubla-salamander.avif', fr:'/blog/blog-osciloculisanta-dubla-salamander.avif', es:'/blog/blog-osciloculisanta-dubla-salamander.avif', it:'/blog/blog-osciloculisanta-dubla-salamander.avif' },
+    imageBg: 'linear-gradient(135deg,#1a2a3a 0%,#2d4a6e 60%,#3a6a9e 100%)',
+    imageLabel: 'Osciloculisantă Dublă',
+    accentColor: '#2d5a8e',
+    video: {
+      embed: '\u003ciframe width="337" height="599" src="https://www.youtube.com/embed/OPVmdDvrnR0" title="Osciloculisanta dubla Termopane Salamander Neofort #termopane #construction #salamander" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen\u003e\u003c/iframe\u003e',
+      position: 'after-intro',
+    },
+    title: {
+      ro: 'Tâmplărie PVC Osciloculisantă Dublă Salamander — Ghid complet: avantaje, izolare, durată de viață',
+      en: 'Double Tilt-and-Turn PVC Windows Salamander — Complete Guide: Benefits, Insulation, Lifespan',
+      de: 'Salamander Dreh-Kipp PVC-Fenster mit Doppelflügel — Vollständiger Leitfaden: Vorteile, Dämmung, Lebensdauer',
+      fr: 'Fenêtre PVC oscillo-battante double Salamander — Guide complet : avantages, isolation, durée de vie',
+      es: 'Ventana PVC oscilobatiente doble Salamander — Guía completa: ventajas, aislamiento, vida útil',
+      it: 'Finestra PVC anta e ribalta doppia Salamander — Guida completa: vantaggi, isolamento, durata',
+    },
+    excerpt: {
+      ro: 'Osciloculisanta dublă Salamander — cea mai versatilă soluție de tâmplărie PVC pentru case și apartamente din București și Ilfov. Descoperă cum funcționează, ce izolare oferă și cât durează.',
+      en: 'Double tilt-and-turn Salamander windows — the most versatile PVC joinery solution for homes in Bucharest. Discover how they work, their insulation performance and expected lifespan.',
+      de: 'Salamander Dreh-Kipp-Doppelfenster — die vielseitigste PVC-Lösung für Häuser in Bukarest. Funktionsweise, Dämmeigenschaften und Lebensdauer im Überblick.',
+      fr: 'La fenêtre oscillo-battante double Salamander — la solution PVC la plus polyvalente pour les logements à Bucarest. Fonctionnement, isolation et durée de vie.',
+      es: 'La ventana oscilobatiente doble Salamander — la solución PVC más versátil para viviendas en Bucarest. Funcionamiento, aislamiento y vida útil.',
+      it: 'La finestra anta e ribalta doppia Salamander — la soluzione PVC più versatile per abitazioni a Bucarest. Funzionamento, isolamento e durata.',
+    },
+    metaDesc: {
+      ro: 'Ghid complet tâmplărie PVC osciloculisantă dublă Salamander: cum funcționează, avantaje izolare termică și fonică, durată de viață 40+ ani, montaj București Ilfov.',
+      en: 'Complete guide to Salamander double tilt-and-turn PVC windows: how they work, thermal and acoustic insulation benefits, 40+ year lifespan, installation in Bucharest.',
+      de: 'Vollständiger Leitfaden zu Salamander Dreh-Kipp PVC-Fenstern: Funktionsweise, Wärme- und Schalldämmung, 40+ Jahre Lebensdauer, Einbau in Bukarest.',
+      fr: 'Guide complet sur les fenêtres PVC oscillo-battantes doubles Salamander : fonctionnement, isolation thermique et acoustique, durée de vie 40+ ans, pose à Bucarest.',
+      es: 'Guía completa sobre ventanas PVC oscilobatientes dobles Salamander: funcionamiento, aislamiento térmico y acústico, vida útil 40+ años, instalación en Bucarest.',
+      it: 'Guida completa alle finestre PVC anta e ribalta doppie Salamander: funzionamento, isolamento termico e acustico, durata 40+ anni, posa a Bucarest.',
+    },
+    keywords: {
+      ro: 'osciloculisanta dubla, tamplarie PVC Salamander oscilobatanta, ferestre PVC dubla deschidere, osciloculisanta Bucuresti Ilfov, ferestre termopane oscilobatante, BluEvolution 92 osciloculisanta, feronerie osciloculisanta',
+      en: 'double tilt and turn windows, Salamander PVC tilt turn, tilt and turn window Bucharest, double sash PVC window, tilt turn insulation, BluEvolution 92 tilt turn',
+      de: 'Dreh Kipp Fenster PVC Salamander, Doppelflügel Fenster Bukarest, Dreh Kipp Isolierung, PVC Fenster Dreh Kipp, BluEvolution 92 Dreh Kipp',
+      fr: 'fenêtre oscillo battante double PVC, Salamander oscillo battant, fenêtre PVC double Bucarest, isolation oscillo battant, BluEvolution 92 oscillo battant',
+      es: 'ventana oscilobatiente doble PVC, Salamander oscilobatiente, ventana PVC Bucarest, aislamiento oscilobatiente, BluEvolution 92 oscilobatiente',
+      it: 'finestra anta ribalta doppia PVC, Salamander anta ribalta, finestra PVC Bucarest, isolamento anta ribalta, BluEvolution 92 anta ribalta',
+    },
+    content: {
+      ro: `## Ce este osciloculisanta dublă și de ce este cea mai aleasă soluție în București și Ilfov
+
+Osciloculisanta dublă — denumită în industrie și **OB dublă** sau **ferestră cu două canaturi oscilobatante** — este o fereastră cu **două canaturi mobile independente**, fiecare putând fi acționată în două moduri: **basculant** (deschis în sus, pentru ventilație controlată) sau **culisant** (deschis lateral, ca o ușă, pentru acces complet).
+
+În București și Ilfov, osciloculisanta dublă reprezintă alegerea predominantă pentru apartamente, vile și proiecte rezidențiale din mai multe motive practice: permite ventilarea independentă a celor două jumătăți, oferă acces integral la golul de fereastră pentru curățare și intervenții, și se integrează estetic în orice tip de arhitectură — de la blocuri interbelice la construcții nZEB moderne.
+
+**Spre deosebire de fereastra simplă** cu un singur canat, varianta dublă permite o flexibilitate mult mai mare în gestionarea microclimei interioare, fără curenți de aer și fără pierderi termice necontrolate.
+
+---
+
+## Cum funcționează mecanismul osciloculisant
+
+Mecanismul osciloculisant este o invenție germană de precizie, integrată în feroneria fiecărui canat. Un singur mâner controlează ambele funcții prin rotirea sa în trei poziții:
+
+- **Poziție orizontală (0°)** — fereastra este **închisă** și blocată
+- **Rotire în sus (180°)** — canatul se **basculează** din partea superioară, creând o fantă de ventilație de 10–15 cm, fără curent direct
+- **Rotire laterală (90°)** — canatul se **deschide complet** în interior, ca o ușă, oferind acces integral
+
+La varianta **dublă**, fiecare din cele două canaturi are propriul mâner și propria feronerie, funcționând complet independent. Poți bascula un canat pentru ventilație nocturnă și lăsa celălalt închis — o combinație imposibilă cu fereastra simplă.
+
+---
+
+## De ce Salamander BluEvolution 92 pentru osciloculisanta dublă
+
+Profilele Salamander **BluEvolution 92** sunt standardul de referință al Neofort BIZ pentru osciloculisanta dublă de performanță ridicată. Iată de ce:
+
+### Specificații tehnice BluEvolution 92
+
+| Parametru | Valoare |
+|---|---|
+| Adâncime construcție | **92 mm** |
+| Număr camere profil | **6 camere** |
+| Garnituri etanșare | **3 garnituri** perimetrale |
+| Coeficient termic profil Uf | **0,95 W/m²K** |
+| Coeficient fereastră Uw | **până la 0,70 W/m²K** |
+| Izolare fonică Rw | **până la 47 dB** |
+| Protecție antiefracție | **RC 2 standard, RC 3 opțional** |
+| Pachete de geam acceptate | **până la 48 mm** (inclusiv tripan) |
+
+### Avantajele adâncimii de 92 mm la osciloculisanta dublă
+
+La o fereastră dublă, greutatea totală a celor două canaturi este semnificativ mai mare față de o fereastră simplă. Adâncimea de 92 mm a profilului BluEvolution asigură **rigiditatea structurală** necesară pentru a susține canaturi mari (până la 2,4 m înălțime) fără deformare în timp.
+
+Cele **3 garnituri perimetrale** — una pe toc, una pe cercevea, una centrală — creează o izolare mult superioară față de sistemele cu 2 garnituri, eliminând practic punțile termice la îmbinarea dintre canaturi.
+
+---
+
+## Izolarea termică a osciloculisantei duble Salamander
+
+### Cum se calculează Uw pentru o fereastră dublă
+
+Coeficientul de transfer termic al ferestrei (Uw) depinde de trei componente:
+1. **Profilul PVC** — Uf = 0,95 W/m²K pentru BluEvolution 92
+2. **Geamul termoizolator** — Ug = 0,5–1,0 W/m²K în funcție de configurație
+3. **Baghetele Warm Edge** — reduc puntea termică marginală cu 60%
+
+O osciloculisantă dublă BluEvolution 92 cu **geam tripan Saint-Gobain SGG Planitherm** și **baghete Warm Edge Swisspacer** poate atinge **Uw = 0,70–0,80 W/m²K** — valori certificate nZEB, eligibile pentru construcții cu consum energetic aproape zero.
+
+### Comparație cu alte soluții
+
+| Tip fereastră | Uw tipic |
+|---|---|
+| PVC 3 camere vechi | 2,0–2,5 W/m²K |
+| PVC 5 camere standard | 1,2–1,5 W/m²K |
+| **BluEvolution 92 + geam dublu** | **1,0–1,1 W/m²K** |
+| **BluEvolution 92 + geam tripan** | **0,70–0,80 W/m²K** |
+| Lemn stratificat premium | 0,80–1,0 W/m²K |
+
+---
+
+## Izolarea fonică — importantă în București și Ilfov
+
+Zgomotul urban din București — trafic, tramvaie, construcții — face ca izolarea fonică să fie un criteriu tot mai important. O osciloculisantă dublă BluEvolution 92 cu geam tripan și configurație fonică poate atinge **47 dB Rw** — suficient pentru a reduce zgomotul bulevardelor aglomerate de la 75 dB (exterior) la sub 30 dB (interior).
+
+**Sfat practic:** pentru apartamentele cu expunere la stradă principală sau lângă infrastructuri de transport, recomandăm geamul **Stadip Silence Saint-Gobain** — sticlă laminată cu film PVB acustic, Rw = 44–52 dB.
+
+---
+
+## Durată de viață și rezistență
+
+### Cât durează o osciloculisantă dublă Salamander?
+
+Profilele Salamander BluEvolution 92 sunt fabricate din **PVC clasa A** conform EN 12608, cu grosimea peretelui de **3 mm** — standardul de calitate german RAL GZ-716. Durata de viață declarată: **minimum 40–60 de ani** în condiții normale de utilizare.
+
+Factorii care influențează longevitatea:
+- **Calitatea montajului** — montajul cu precadre Blaugelb Triotherm+ și bandă precomprimată butilică elimină infiltrațiile de apă și condensul la rost
+- **Feroneria** — Roto NT/NX sau Winkhaus, cu ungere anuală
+- **Curățarea** — exclusiv cu detergenți neutri, fără solvenți
+- **Reglajele periodice** — la fiecare 2–3 ani, din balamalele cu reglaj multipunct
+
+### Garanție Neofort BIZ
+
+Neofort BIZ oferă **garanție completă pe produs și manoperă**, confirmată prin certificat emis la finalizarea lucrării.
+
+---
+
+## Montaj corect — diferența dintre o fereastră bună și una perfectă
+
+Chiar și cel mai bun profil PVC devine ineficient dacă montajul este necorespunzător. Neofort BIZ execută montajul conform standardului **RAL pentru montaj ferestre**, care presupune:
+
+1. **Precadre Blaugelb Triotherm+** — sistem de izolare perimetrală care elimină punțile termice la joncțiunea dintre fereastră și perete
+2. **Bandă precomprimată butilică** — etanșare exterioară împotriva apei și vântului
+3. **Folie antivapori** — etanșare interioară pentru prevenirea condensului
+4. **Baghetă Warm Edge** — în pachetul de geam, reduce puntea termică marginală
+
+Rezultatul: o fereastră cu performanță reală egală cu cea declarată în datele tehnice ale profilului.
+
+---
+
+## Întrebări frecvente — osciloculisanta dublă Salamander
+
+**Pot bascula ambele canaturi simultan?**
+Nu, mecanismul este independent — fiecare canat se operează separat. Aceasta este de fapt un avantaj: poți ventila selectiv.
+
+**Ce dimensiuni maxime poate avea o osciloculisantă dublă?**
+Lățime totală: până la 2,0–2,4 m. Înălțime: până la 2,2 m per canat. La dimensiuni mari, recomandăm armătură din oțel în profil și feronerie grea.
+
+**Este indicată osciloculisanta dublă pentru renovare în bloc?**
+Da — este soluția standard pentru renovarea apartamentelor în blocuri din perioada 1960–1990. Se montează în gol existent fără lucrări de zidărie suplimentare.
+
+**Cât costă o osciloculisantă dublă Salamander BluEvolution 92?**
+Prețul variază în funcție de dimensiuni, culoare, geam și accesorii. Solicitați ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.`,
+
+      en: `## What is a double tilt-and-turn window and why it is the most popular choice in Bucharest
+
+A double tilt-and-turn window — also called a **double sash tilt-turn** or **dual OB** — is a window with **two independently operable sashes**, each offering two opening modes: **tilt** (top-hinged, for controlled ventilation) or **turn** (side-hinged, full opening like a door).
+
+In Bucharest and the surrounding Ilfov county, double tilt-and-turn windows are the dominant choice for apartments, houses and residential developments because they allow independent ventilation of each half, provide full access for cleaning, and integrate seamlessly into any architectural style — from pre-war buildings to modern nZEB constructions.
+
+**Compared to a single sash**, the double version provides far greater flexibility in managing indoor climate without draughts or uncontrolled heat loss.
+
+---
+
+## How the tilt-and-turn mechanism works
+
+The tilt-and-turn mechanism is a precision German engineering achievement, integrated into the hardware of each sash. A single handle controls both functions through three positions:
+
+- **Horizontal (0°)** — window is **closed and locked**
+- **Rotated upward (180°)** — sash **tilts** from the top, creating a 10–15 cm ventilation gap without direct draught
+- **Rotated sideways (90°)** — sash **turns** fully open inward, like a door
+
+In the **double** version, each of the two sashes has its own handle and hardware, operating completely independently. You can tilt one sash for night ventilation while keeping the other closed — impossible with a single sash window.
+
+---
+
+## Why Salamander BluEvolution 92 for double tilt-and-turn windows
+
+Salamander **BluEvolution 92** profiles are the reference standard at Neofort BIZ for high-performance double tilt-and-turn windows.
+
+### Technical specifications BluEvolution 92
+
+| Parameter | Value |
+|---|---|
+| Construction depth | **92 mm** |
+| Profile chambers | **6 chambers** |
+| Sealing gaskets | **3 perimeter gaskets** |
+| Profile thermal coefficient Uf | **0.95 W/m²K** |
+| Window thermal coefficient Uw | **down to 0.70 W/m²K** |
+| Acoustic insulation Rw | **up to 47 dB** |
+| Burglar resistance | **RC 2 standard, RC 3 optional** |
+| Glass unit thickness | **up to 48 mm** (triple glazing) |
+
+### Why 92 mm depth matters for double sash windows
+
+A double sash window carries significantly more weight than a single sash. The 92 mm profile depth of BluEvolution provides the **structural rigidity** needed to support large sashes (up to 2.4 m height) without distortion over time.
+
+The **3 perimeter gaskets** — on frame, sash and central seal — create far superior insulation compared to 2-gasket systems, virtually eliminating thermal bridges at the sash junction.
+
+---
+
+## Thermal insulation of Salamander double tilt-and-turn windows
+
+A BluEvolution 92 double tilt-and-turn window with **triple-glazed Saint-Gobain SGG Planitherm** glass and **Warm Edge Swisspacer** spacers can achieve **Uw = 0.70–0.80 W/m²K** — nZEB certified values, eligible for nearly zero energy buildings.
+
+| Window type | Typical Uw |
+|---|---|
+| Old 3-chamber PVC | 2.0–2.5 W/m²K |
+| Standard 5-chamber PVC | 1.2–1.5 W/m²K |
+| **BluEvolution 92 + double glazing** | **1.0–1.1 W/m²K** |
+| **BluEvolution 92 + triple glazing** | **0.70–0.80 W/m²K** |
+| Premium laminated timber | 0.80–1.0 W/m²K |
+
+---
+
+## Acoustic insulation — essential in Bucharest
+
+Urban noise in Bucharest — traffic, trams, construction — makes acoustic insulation an increasingly critical criterion. A BluEvolution 92 double tilt-and-turn window with triple glazing can achieve **47 dB Rw** — sufficient to reduce boulevard noise from 75 dB (outside) to below 30 dB (inside).
+
+**Practical tip:** for apartments facing a main road or near transport infrastructure, we recommend **Saint-Gobain Stadip Silence** glass — laminated glass with acoustic PVB film, Rw = 44–52 dB.
+
+---
+
+## Lifespan and durability
+
+Salamander BluEvolution 92 profiles are manufactured from **Class A PVC** to EN 12608, with **3 mm wall thickness** — the German quality standard RAL GZ-716. Declared lifespan: **40–60 years** under normal use conditions.
+
+Neofort BIZ installs all windows to the **RAL installation standard**, including Blaugelb Triotherm+ subframes, pre-compressed butyl tape and anti-vapour membranes — ensuring real-world performance equal to the declared technical specifications.
+
+**For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**`,
+
+      de: `## Was ist ein Dreh-Kipp-Doppelfenster und warum ist es in Bukarest so beliebt?
+
+Ein Dreh-Kipp-Doppelfenster — auch als **Zweiflügeliges Dreh-Kipp-Fenster** oder **OB-Doppel** bezeichnet — ist ein Fenster mit **zwei unabhängig bedienbaren Flügeln**, von denen jeder in zwei Modi geöffnet werden kann: **Kipp** (oben gehangen, für kontrollierte Lüftung) oder **Dreh** (seitlich gehangen, vollständige Öffnung wie eine Tür).
+
+In Bukarest und dem Umland Ilfov ist das Dreh-Kipp-Doppelfenster die am häufigsten gewählte Lösung für Wohnungen, Häuser und Wohnbauprojekte.
+
+---
+
+## Funktionsweise des Dreh-Kipp-Mechanismus
+
+Der Dreh-Kipp-Mechanismus ist eine deutsche Präzisionskonstruktion, die in die Beschläge jedes Flügels integriert ist. Ein einziger Griff steuert beide Funktionen durch drei Positionen:
+
+- **Waagerecht (0°)** — Fenster ist **geschlossen und verriegelt**
+- **Nach oben gedreht (180°)** — Flügel **kippt** von oben, schafft einen Lüftungsspalt von 10–15 cm ohne direkten Luftzug
+- **Seitlich gedreht (90°)** — Flügel **dreht** vollständig nach innen, wie eine Tür
+
+Beim **Doppelflügel** hat jeder der zwei Flügel seinen eigenen Griff und Beschlag und funktioniert völlig unabhängig. Sie können einen Flügel für nächtliche Belüftung kippen und den anderen geschlossen lassen.
+
+---
+
+## Warum Salamander BluEvolution 92 für Dreh-Kipp-Doppelfenster?
+
+### Technische Daten BluEvolution 92
+
+| Parameter | Wert |
+|---|---|
+| Bautiefe | **92 mm** |
+| Profilkammern | **6 Kammern** |
+| Dichtungsebenen | **3 Umlaufdichtungen** |
+| Profilwärmedurchgang Uf | **0,95 W/m²K** |
+| Fensterwärmedurchgang Uw | **bis zu 0,70 W/m²K** |
+| Schalldämmung Rw | **bis zu 47 dB** |
+| Einbruchschutz | **RC 2 Standard, RC 3 optional** |
+| Glaspaketdicke | **bis 48 mm** (Dreifachverglasung) |
+
+---
+
+## Wärmedämmung
+
+Ein BluEvolution 92 Dreh-Kipp-Doppelfenster mit **Dreifachverglasung Saint-Gobain SGG Planitherm** und **Warm Edge Swisspacer** kann **Uw = 0,70–0,80 W/m²K** erreichen — nZEB-zertifizierte Werte für Niedrigstenergiegebäude.
+
+---
+
+## Schalldämmung — wichtig in Bukarest
+
+Der Stadtlärm in Bukarest macht Schalldämmung zu einem immer wichtigeren Kriterium. Ein BluEvolution 92 Doppelfenster mit Dreifachverglasung kann **47 dB Rw** erreichen.
+
+**Praxistipp:** Bei Wohnungen mit Straßenlage empfehlen wir **Saint-Gobain Stadip Silence** — Verbundsicherheitsglas mit akustischer PVB-Folie, Rw = 44–52 dB.
+
+---
+
+## Lebensdauer und Haltbarkeit
+
+Salamander BluEvolution 92 Profile werden aus **PVC Klasse A** nach EN 12608 mit **3 mm Wandstärke** — dem deutschen Qualitätsstandard RAL GZ-716 — gefertigt. Deklarierte Lebensdauer: **mindestens 40–60 Jahre** bei normaler Nutzung.
+
+Neofort BIZ montiert alle Fenster nach dem **RAL-Montageleitfaden**, einschließlich Blaugelb Triotherm+ Vorbaurahmen, vorkomprimiertem Butylband und Dampfsperrfolie.
+
+**Für ein persönliches Angebot:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**`,
+
+      fr: `## Qu'est-ce qu'une fenêtre PVC oscillo-battante double et pourquoi est-elle si populaire à Bucarest ?
+
+La fenêtre oscillo-battante double — appelée aussi **double vantail oscillo-battant** ou **OB double** — est une fenêtre à **deux ouvrants indépendants**, chacun pouvant s'ouvrir de deux façons : **en oscillo** (basculement par le haut, pour une ventilation contrôlée) ou **en battant** (ouverture latérale complète, comme une porte).
+
+À Bucarest et dans le département d'Ilfov, la fenêtre oscillo-battante double est le choix dominant pour les appartements, maisons et projets résidentiels.
+
+---
+
+## Fonctionnement du mécanisme oscillo-battant
+
+Le mécanisme oscillo-battant est une conception allemande de précision, intégrée dans la ferrure de chaque ouvrant. Une seule poignée contrôle les deux fonctions à travers trois positions :
+
+- **Horizontale (0°)** — fenêtre **fermée et verrouillée**
+- **Tournée vers le haut (180°)** — l'ouvrant **bascule** depuis le haut, créant une fente de ventilation de 10–15 cm sans courant d'air direct
+- **Tournée latéralement (90°)** — l'ouvrant **s'ouvre** complètement vers l'intérieur, comme une porte
+
+Dans la version **double**, chacun des deux ouvrants possède sa propre poignée et sa propre ferrure, fonctionnant de manière totalement indépendante.
+
+---
+
+## Pourquoi choisir le Salamander BluEvolution 92 ?
+
+### Caractéristiques techniques BluEvolution 92
+
+| Paramètre | Valeur |
+|---|---|
+| Profondeur de construction | **92 mm** |
+| Chambres du profil | **6 chambres** |
+| Joints d'étanchéité | **3 joints périmétral** |
+| Coefficient thermique profil Uf | **0,95 W/m²K** |
+| Coefficient thermique fenêtre Uw | **jusqu'à 0,70 W/m²K** |
+| Isolation acoustique Rw | **jusqu'à 47 dB** |
+| Résistance antieffraction | **RC 2 standard, RC 3 en option** |
+| Épaisseur du vitrage | **jusqu'à 48 mm** (triple vitrage) |
+
+---
+
+## Isolation thermique
+
+Une fenêtre oscillo-battante double BluEvolution 92 avec **triple vitrage Saint-Gobain SGG Planitherm** et **espaceurs Warm Edge Swisspacer** peut atteindre **Uw = 0,70–0,80 W/m²K** — des valeurs certifiées nZEB pour les bâtiments à énergie quasi nulle.
+
+---
+
+## Isolation acoustique — essentielle à Bucarest
+
+Le bruit urbain à Bucarest rend l'isolation acoustique de plus en plus importante. Un double oscillo-battant BluEvolution 92 avec triple vitrage peut atteindre **47 dB Rw**.
+
+**Conseil pratique :** pour les appartements donnant sur un axe passant, nous recommandons le verre **Saint-Gobain Stadip Silence** — verre feuilleté avec film PVB acoustique, Rw = 44–52 dB.
+
+---
+
+## Durée de vie et résistance
+
+Les profils Salamander BluEvolution 92 sont fabriqués en **PVC classe A** selon EN 12608, avec une **épaisseur de paroi de 3 mm** — la norme de qualité allemande RAL GZ-716. Durée de vie déclarée : **40 à 60 ans** en conditions d'utilisation normales.
+
+Neofort BIZ installe toutes les fenêtres selon le **guide de pose RAL**, avec précadres Blaugelb Triotherm+, ruban précomprimé et membrane pare-vapeur.
+
+**Pour un devis personnalisé :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
+
+      es: `## ¿Qué es una ventana PVC oscilobatiente doble y por qué es tan popular en Bucarest?
+
+La ventana oscilobatiente doble — también llamada **doble hoja oscilobatiente** u **OB doble** — es una ventana con **dos hojas móviles independientes**, cada una con dos modos de apertura: **basculante** (por la parte superior, para ventilación controlada) o **batiente** (apertura lateral completa, como una puerta).
+
+En Bucarest y la zona de Ilfov, la ventana oscilobatiente doble es la solución preferida en viviendas, chalets y promociones residenciales.
+
+---
+
+## Cómo funciona el mecanismo oscilobatiente
+
+El mecanismo oscilobatiente es una construcción alemana de precisión, integrada en la herraje de cada hoja. Un solo pomo controla ambas funciones en tres posiciones:
+
+- **Horizontal (0°)** — ventana **cerrada y bloqueada**
+- **Girado hacia arriba (180°)** — la hoja **bascula** desde la parte superior, creando una ranura de ventilación de 10–15 cm sin corriente de aire directa
+- **Girado lateralmente (90°)** — la hoja **se abre** completamente hacia el interior, como una puerta
+
+En la versión **doble**, cada una de las dos hojas tiene su propia maneta y herraje, funcionando de forma completamente independiente.
+
+---
+
+## Por qué elegir Salamander BluEvolution 92
+
+### Especificaciones técnicas BluEvolution 92
+
+| Parámetro | Valor |
+|---|---|
+| Profundidad de construcción | **92 mm** |
+| Cámaras del perfil | **6 cámaras** |
+| Juntas de estanqueidad | **3 juntas perimetrales** |
+| Coeficiente térmico perfil Uf | **0,95 W/m²K** |
+| Coeficiente térmico ventana Uw | **hasta 0,70 W/m²K** |
+| Aislamiento acústico Rw | **hasta 47 dB** |
+| Resistencia antiintrusión | **RC 2 estándar, RC 3 opcional** |
+| Espesor del acristalamiento | **hasta 48 mm** (triple acristalamiento) |
+
+---
+
+## Aislamiento térmico
+
+Una ventana oscilobatiente doble BluEvolution 92 con **triple acristalamiento Saint-Gobain SGG Planitherm** y **separadores Warm Edge Swisspacer** puede alcanzar **Uw = 0,70–0,80 W/m²K** — valores certificados nZEB para edificios de consumo de energía casi nulo.
+
+---
+
+## Aislamiento acústico — importante en Bucarest
+
+El ruido urbano en Bucarest hace que el aislamiento acústico sea un criterio cada vez más importante. Una ventana doble BluEvolution 92 con triple acristalamiento puede alcanzar **47 dB Rw**.
+
+**Consejo práctico:** para viviendas con fachada a vía principal, recomendamos el vidrio **Saint-Gobain Stadip Silence** — vidrio laminado con lámina PVB acústica, Rw = 44–52 dB.
+
+---
+
+## Vida útil y durabilidad
+
+Los perfiles Salamander BluEvolution 92 se fabrican en **PVC clase A** según EN 12608, con **3 mm de espesor de pared** — la norma de calidad alemana RAL GZ-716. Vida útil declarada: **40 a 60 años** en condiciones normales de uso.
+
+Neofort BIZ instala todas las ventanas según la **guía de montaje RAL**, incluyendo premarcos Blaugelb Triotherm+, cinta precomprimida butílica y membrana antihumedad.
+
+**Para un presupuesto personalizado:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18**`,
+
+      it: `## Cos'è una finestra PVC anta e ribalta doppia e perché è così diffusa a Bucarest?
+
+La finestra anta e ribalta doppia — chiamata anche **doppio anta ribalta** o **vasistas doppio** — è una finestra con **due ante mobili indipendenti**, ognuna apribile in due modi: **a ribalta** (basculante dall'alto, per ventilazione controllata) o **a battente** (apertura laterale completa, come una porta).
+
+A Bucarest e nella zona di Ilfov, la finestra anta e ribalta doppia è la scelta prevalente per appartamenti, ville e progetti residenziali. Lo stesso tipo di soluzione è molto apprezzato nelle ristrutturazioni a Roma, Milano e in tutta Italia, dove il sistema offre ventilazione sicura senza correnti d'aria, ideale per le temperature mediterranee.
+
+---
+
+## Come funziona il meccanismo anta e ribalta
+
+Il meccanismo anta e ribalta è una costruzione tedesca di precisione, integrata nella ferramenta di ogni anta. Una sola maniglia controlla entrambe le funzioni in tre posizioni:
+
+- **Orizzontale (0°)** — finestra **chiusa e bloccata**
+- **Ruotata verso l'alto (180°)** — l'anta **ribalta** dall'alto, creando una fessura di ventilazione di 10–15 cm senza corrente d'aria diretta
+- **Ruotata lateralmente (90°)** — l'anta **si apre** completamente verso l'interno, come una porta
+
+Nella versione **doppia**, ognuna delle due ante ha la propria maniglia e ferramenta, funzionando in modo completamente indipendente. È possibile ribaltare un'anta per la ventilazione notturna e tenere l'altra chiusa.
+
+---
+
+## Perché scegliere il Salamander BluEvolution 92
+
+### Specifiche tecniche BluEvolution 92
+
+| Parametro | Valore |
+|---|---|
+| Profondità di costruzione | **92 mm** |
+| Camere del profilo | **6 camere** |
+| Guarnizioni di tenuta | **3 guarnizioni perimetrali** |
+| Coefficiente termico profilo Uf | **0,95 W/m²K** |
+| Coefficiente termico finestra Uw | **fino a 0,70 W/m²K** |
+| Isolamento acustico Rw | **fino a 47 dB** |
+| Resistenza all'effrazione | **RC 2 standard, RC 3 opzionale** |
+| Spessore del vetrocamera | **fino a 48 mm** (triplo vetro) |
+
+---
+
+## Isolamento termico
+
+Una finestra anta e ribalta doppia BluEvolution 92 con **triplo vetro Saint-Gobain SGG Planitherm** e **distanziali Warm Edge Swisspacer** può raggiungere **Uw = 0,70–0,80 W/m²K** — valori certificati nZEB per edifici a energia quasi zero.
+
+---
+
+## Isolamento acustico — fondamentale a Bucarest e nelle grandi città
+
+Il rumore urbano — traffico, cantieri, trasporti pubblici — rende l'isolamento acustico un criterio sempre più importante, sia a Bucarest che a Roma o Milano. Una doppia anta e ribalta BluEvolution 92 con triplo vetro può raggiungere **47 dB Rw**.
+
+**Consiglio pratico:** per gli appartamenti che affacciano su strade trafficate, raccomandiamo il vetro **Saint-Gobain Stadip Silence** — vetro stratificato con pellicola PVB acustica, Rw = 44–52 dB.
+
+---
+
+## Durata e resistenza
+
+I profili Salamander BluEvolution 92 sono prodotti in **PVC classe A** secondo EN 12608, con **spessore di parete di 3 mm** — lo standard di qualità tedesco RAL GZ-716. Durata di vita dichiarata: **da 40 a 60 anni** in condizioni normali di utilizzo.
+
+Neofort BIZ installa tutte le finestre secondo la **guida di posa RAL**, con controtelai Blaugelb Triotherm+, nastro precompresso butilico e membrana vapore.
+
+**Per un preventivo personalizzato:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
+    },
+  },
+  {
+    slugs: {
+      ro: 'usa-culisanta-pvc-salamander-evolutiondrive-plus-plasa-plisse',
+      en: 'salamander-evolutiondrive-plus-sliding-door-plisse-screen',
+      de: 'salamander-evolutiondrive-plus-schiebetuer-plissee',
+      fr: 'porte-coulissante-pvc-salamander-evolutiondrive-plus-moustiquaire-plisse',
+      es: 'puerta-corredera-pvc-salamander-evolutiondrive-plus-mosquitera-plise',
+      it: 'porta-scorrevole-pvc-salamander-evolutiondrive-plus-zanzariera-plisse',
+    },
+    date: '2026-03-25',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
+    category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
+    readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
+    image: { ro:'/blog/blog-evolutiondrive-plus-plisse.avif', en:'/blog/blog-evolutiondrive-plus-plisse.avif', de:'/blog/blog-evolutiondrive-plus-plisse.avif', fr:'/blog/blog-evolutiondrive-plus-plisse.avif', es:'/blog/blog-evolutiondrive-plus-plisse.avif', it:'/blog/blog-evolutiondrive-plus-plisse.avif' },
+    imageBg: 'linear-gradient(135deg,#1a3020 0%,#2d5a3e 60%,#4a8c60 100%)',
+    imageLabel: 'evolutionDrive Plus+',
+    accentColor: '#4a7c59',
+    video: {
+      embed: '<iframe width="951" height="535" src="https://www.youtube.com/embed/7aPRqZatCNs" title="Plase plisse culisante de dimensiuni mari pentru terase #termopan #salamander #plaseinsecte #plisse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+      position: 'after-intro',
+    },
+    title: {
+      ro: 'Ușă Culisantă PVC Salamander evolutionDrive Plus+ cu Plasă Plissé Culisantă — Ghid complet',
+      en: 'Salamander evolutionDrive Plus+ Sliding PVC Door with Plissé Screen — Complete Guide',
+      de: 'Salamander evolutionDrive Plus+ Schiebetür PVC mit Plissee-Insektenschutz — Vollständiger Leitfaden',
+      fr: 'Porte coulissante PVC Salamander evolutionDrive Plus+ avec moustiquaire plissée — Guide complet',
+      es: 'Puerta corredera PVC Salamander evolutionDrive Plus+ con mosquitera plisada — Guía completa',
+      it: 'Porta scorrevole PVC Salamander evolutionDrive Plus+ con zanzariera plissé — Guida completa',
+    },
+    excerpt: {
+      ro: 'Sistemul culisant Salamander evolutionDrive Plus+ — cea mai avansată ușă glisantă PVC pentru terase și livinguri. Combinată cu plasa plissé culisantă de mari dimensiuni, oferă deschidere totală, izolare premium și protecție completă contra insectelor.',
+      en: 'Salamander evolutionDrive Plus+ — the most advanced PVC sliding door system for terraces and living rooms. Combined with a large plissé insect screen, it provides full opening, premium insulation and complete insect protection.',
+      de: 'Salamander evolutionDrive Plus+ — das fortschrittlichste PVC-Schiebetürsystem für Terrassen und Wohnzimmer. Mit großem Plissee-Insektenschutz bietet es vollständige Öffnung, Premium-Dämmung und Insektenschutz.',
+      fr: 'Salamander evolutionDrive Plus+ — le système de porte coulissante PVC le plus avancé pour terrasses et salons. Associé à une grande moustiquaire plissée, il offre ouverture totale, isolation premium et protection complète contre les insectes.',
+      es: 'Salamander evolutionDrive Plus+ — el sistema de puerta corredera PVC más avanzado para terrazas y salones. Combinado con una mosquitera plisada de grandes dimensiones, ofrece apertura total, aislamiento premium y protección completa contra insectos.',
+      it: 'Salamander evolutionDrive Plus+ — il sistema di porta scorrevole PVC più avanzato per terrazze e soggiorni. Abbinato a una grande zanzariera plissé, offre apertura totale, isolamento premium e protezione completa dagli insetti.',
+    },
+    metaDesc: {
+      ro: 'Ghid complet ușă culisantă PVC Salamander evolutionDrive Plus+ cu plasă plissé culisantă: specificații tehnice, izolare termică, montaj București Ilfov, avantaje față de glisantele clasice.',
+      en: 'Complete guide to Salamander evolutionDrive Plus+ PVC sliding door with plissé screen: technical specs, thermal insulation, installation in Bucharest, advantages over classic sliding doors.',
+      de: 'Vollständiger Leitfaden zur Salamander evolutionDrive Plus+ PVC-Schiebetür mit Plissee: technische Daten, Wärmedämmung, Einbau Bukarest, Vorteile gegenüber klassischen Schiebetüren.',
+      fr: 'Guide complet porte coulissante PVC Salamander evolutionDrive Plus+ avec moustiquaire plissée : caractéristiques techniques, isolation thermique, pose Bucarest, avantages vs portes coulissantes classiques.',
+      es: 'Guía completa puerta corredera PVC Salamander evolutionDrive Plus+ con mosquitera plisada: especificaciones técnicas, aislamiento térmico, instalación Bucarest, ventajas frente a correderas clásicas.',
+      it: 'Guida completa porta scorrevole PVC Salamander evolutionDrive Plus+ con zanzariera plissé: specifiche tecniche, isolamento termico, posa Bucarest, vantaggi rispetto alle scorrevoli classiche.',
+    },
+    keywords: {
+      ro: 'usa culisanta PVC Salamander evolutionDrive Plus, glisanta PVC terasa Bucuresti Ilfov, plasa plisse culisanta mare, usa glisanta Salamander HST, evolutionDrive Plus izolare termica, usa glisanta terasa nZEB',
+      en: 'Salamander evolutionDrive Plus sliding door, PVC sliding door terrace Bucharest, plisse insect screen large, Salamander HST sliding door, evolutionDrive Plus thermal insulation',
+      de: 'Salamander evolutionDrive Plus Schiebetür, PVC Schiebetür Terrasse Bukarest, Plissee Insektenschutz groß, Salamander HST Schiebetür, evolutionDrive Plus Wärmedämmung',
+      fr: 'Salamander evolutionDrive Plus porte coulissante, porte coulissante PVC terrasse Bucarest, moustiquaire plissée grande, Salamander HST porte coulissante, evolutionDrive Plus isolation thermique',
+      es: 'Salamander evolutionDrive Plus puerta corredera, puerta corredera PVC terraza Bucarest, mosquitera plisada grande, Salamander HST puerta corredera, evolutionDrive Plus aislamiento térmico',
+      it: 'Salamander evolutionDrive Plus porta scorrevole, porta scorrevole PVC terrazza Bucarest, zanzariera plissé grande, Salamander HST porta scorrevole, evolutionDrive Plus isolamento termico',
+    },
+    content: {
+      ro: `## De ce ușa culisantă a devenit standardul pentru terase și livinguri moderne
+
+Tendința dominantă în arhitectura rezidențială din București și Ilfov din ultimii ani este **deschiderea maximă** dintre interior și exterior. Terasele de zi, livingurile cu perete de sticlă, spațiile de tip open-space — toate cer o soluție de tâmplărie care să ofere **câmp vizual maxim**, **acces facil** și **izolare termică** fără compromisuri.
+
+Ușa culisantă — spre deosebire de cea osciloculisantă sau batantă — rezolvă toate aceste cerințe simultan: nu ocupă spațiu interior la deschidere, permite panouri de sticlă de dimensiuni mari și creează o tranziție fluidă între spații.
+
+Salamander a dus acest concept la nivelul următor cu sistemul **evolutionDrive Plus+**, cea mai avansată soluție de ușă glisantă din gama sa.
+
+---
+
+## Salamander evolutionDrive Plus+ — ce îl face diferit față de glisantele clasice
+
+Sistemul **evolutionDrive Plus+** este o generație nouă față de glisantele PVC clasice. Diferența esențială: **etanșarea în toc**.
+
+La glisantele clasice, etanșarea se face prin presiune — canatul apasă pe garnitură la închidere, dar în timpul glisării există un joc mic care permite infiltrații de aer. La evolutionDrive Plus+, canatul se **deplasează paralel** cu tocul și se **etanșează în toc** la final — similar cu o ușă HST (Hebe-Schiebe) de aluminiu, dar la prețul PVC-ului.
+
+### Specificații tehnice evolutionDrive Plus+
+
+| Parametru | Valoare |
+|---|---|
+| Adâncime cadru | **76 mm** |
+| Sistem etanșare | **Etanșare în toc — paralel** |
+| Coeficient termic cadru Uf | **1,2 W/m²K** |
+| Coeficient sistem Uw | **până la 0,8 W/m²K** cu geam tripan |
+| Izolare fonică | **până la 42 dB** |
+| Rezistență la vânt | **clasa B5** |
+| Rezistență antiefracție | **RC 2** |
+| Greutate maximă canat | **până la 400 kg** |
+| Lățime maximă canat | **până la 3,0 m** |
+| Înălțime maximă | **până la 2,6 m** |
+| Compatibilitate geam | **până la 52 mm** (inclusiv tripan) |
+
+### Mecanismul de glisare — de ce contează confortul
+
+Sistemul evolutionDrive Plus+ utilizează o **feronerie nouă de generație**, concepută de industria producătorilor de feronerie ca răspuns la cerințele crescute de etanșeitate. Mișcarea de glisare este **silențioasă și ușoară** — chiar și la canaturi de 200–300 kg, deschiderea se face cu o singură mână, fără efort.
+
+Rulmenții de înaltă precizie și șina de aluminiu extrudat asigură o cursă lină pe toată durata de viață a sistemului, fără uzură prematură.
+
+---
+
+## Avantajele decisive față de ușa batantă și glisanta clasică
+
+| Criteriu | Batantă | Glisantă clasică | evolutionDrive Plus+ |
+|---|---|---|---|
+| Spațiu liber interior | ❌ Ocupă | ✅ Nu ocupă | ✅ Nu ocupă |
+| Etanșeitate termică | ✅ Bună | ⚠️ Medie | ✅ Excelentă |
+| Câmp vizual | ⚠️ Limitat | ✅ Bun | ✅ Maxim |
+| Rezistență la vânt | ✅ B5 | ⚠️ B3 | ✅ B5 |
+| Dimensiuni maxime | ⚠️ Mici | ⚠️ Medii | ✅ Foarte mari |
+| Antiefracție | RC 2–3 | RC 1 | **RC 2** |
+
+---
+
+## Plasa plissé culisantă — soluția pentru deschideri mari de terasă
+
+O ușă culisantă de 2,5–3,0 m lățime ridică o problemă practică: plasele de insecte clasice (pe ramă fixă sau rulou) nu acoperă corect deschideri atât de mari, sau devin incomode în utilizare zilnică.
+
+**Plasa plissé culisantă** rezolvă elegant această problemă:
+
+### Cum funcționează plisa plissé
+
+Sistemul plissé folosește o **plasă pliată armonic** (asemănător unui burduf), montată pe un cadru cu șine superioare și inferioare. La deschidere, plasa se strânge în plisuri compacte într-un capăt — ocupând minimum de spațiu. La închidere, se desfășoară lin pe toată lățimea golului.
+
+### Avantajele plasei plissé față de alternativele clasice
+
+- **Dimensiuni mari** — acoperă deschideri de până la 3,0–4,0 m fără întrerupere
+- **Dublu sens** — plasa se poate deschide din ambele capete simultan
+- **Aspect estetic** — cadrul subțire și plasa fină nu obturează vizual golul de sticlă
+- **Rezistență** — plasa din fibră de sticlă sau poliester acoperit PVC rezistă la UV, umiditate și uzură mecanică
+- **Montaj fără intervenție în tâmplărie** — se montează în extradosul tocului, pe șine fixate cu șuruburi
+
+### Compatibilitate cu evolutionDrive Plus+
+
+Plasa plissé se montează în același câmp cu ușa culisantă, pe un cadru propriu. Aceasta permite utilizarea independentă: poți deschide ușa pentru acces și menține plasa închisă pentru protecție contra insectelor — ideal pentru serile de vară pe terasă.
+
+---
+
+## Montajul profesional — ce include Neofort BIZ
+
+Neofort BIZ execută montajul sistemului evolutionDrive Plus+ conform **standardului RAL pentru montaj ferestre și uși glisante**, care presupune:
+
+1. **Verificarea și nivelarea pragului** — esențial pentru glisarea corectă și etanșarea perfectă
+2. **Montajul șinei de ghidaj** — fixare cu dibluri chimice în planșeu/pardoseală
+3. **Reglajul feroneriei** — ajustarea înălțimii canaților pentru contact perfect pe toată lungimea garniturii
+4. **Etanșarea perimetrală** — bandă butilică și spumă poliuretanică cu expansiune controlată la îmbinarea cadru–zidărie
+5. **Montajul plasei plissé** — șine superioare și inferioare, reglaj tensiune plasă
+
+**Garanție:** completă pe produs și manoperă, confirmată prin certificat.
+
+---
+
+## Întrebări frecvente — evolutionDrive Plus+ și plasa plissé
+
+**Poate fi montată pe o terasă existentă?**
+Da — sistemul se adaptează golurilor existente. Necesită un prag drept și solid. Neofort BIZ efectuează măsurători la față locului înainte de fabricare.
+
+**Ce se întâmplă cu etanșeitatea la vânt puternic?**
+evolutionDrive Plus+ este certificat clasa B5 de rezistență la vânt — cel mai înalt nivel pentru sisteme PVC culisante. Etanșarea în toc elimină infiltrațiile de aer la presiune vânt.
+
+**Plasa plissé se poate monta și la ferestre obișnuite?**
+Da — există modele plissé pentru ferestre osciloculisante și batante, cu dimensiuni mai mici. Cadrul se fixează pe extradosul tocului fără intervenție în tâmplărie.
+
+**Prețul unui sistem evolutionDrive Plus+ cu plasă plissé?**
+Solicită ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.`,
+
+      en: `## Why sliding doors have become the standard for modern terraces and living rooms
+
+The dominant trend in residential architecture in Bucharest and Ilfov is **maximum openness** between interior and exterior. Day terraces, glass-wall living rooms, open-plan spaces — all require a joinery solution that provides **maximum glazed area**, **easy access** and **thermal insulation** without compromise.
+
+Salamander has taken this concept to the next level with the **evolutionDrive Plus+** system.
+
+---
+
+## Salamander evolutionDrive Plus+ — what makes it different from classic sliding doors
+
+The key difference: **sealing into the frame**. Unlike classic sliding doors where the sash presses against a gasket, evolutionDrive Plus+ moves **parallel to the frame** and **seals into the frame** at the end of travel — similar to an aluminium HST door, but at PVC cost.
+
+### Technical specifications evolutionDrive Plus+
+
+| Parameter | Value |
+|---|---|
+| Frame depth | **76 mm** |
+| Sealing system | **Parallel frame sealing** |
+| Frame thermal coefficient Uf | **1.2 W/m²K** |
+| System thermal coefficient Uw | **down to 0.8 W/m²K** with triple glazing |
+| Acoustic insulation | **up to 42 dB** |
+| Wind resistance | **class B5** |
+| Burglar resistance | **RC 2** |
+| Max sash weight | **up to 400 kg** |
+| Max sash width | **up to 3.0 m** |
+| Max height | **up to 2.6 m** |
+
+---
+
+## The plissé sliding screen — the solution for large terrace openings
+
+A 2.5–3.0 m sliding door raises a practical issue: standard insect screens don't cover such large openings properly. The **plissé sliding screen** solves this elegantly with a folded mesh that compresses into compact pleats when open, covering the full width when closed.
+
+**Key advantages:** covers openings up to 3.0–4.0 m, opens from both ends, minimal visual obstruction, UV and moisture resistant.
+
+**For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**`,
+
+      de: `## Warum Schiebetüren zum Standard für moderne Terrassen geworden sind
+
+Der dominierende Trend in der Wohnarchitektur in Bukarest und Ilfov ist die **maximale Öffnung** zwischen Innen- und Außenbereich. Salamander hat dieses Konzept mit dem **evolutionDrive Plus+** System auf ein neues Niveau gehoben.
+
+---
+
+## Salamander evolutionDrive Plus+ — der entscheidende Unterschied
+
+Der wesentliche Unterschied: **Abdichtung im Blendrahmen**. Anders als bei klassischen Schiebetüren bewegt sich der Flügel **parallel zum Rahmen** und **dichtet im Blendrahmen ab** — ähnlich einer Aluminium-HST-Tür, aber zum Preis von PVC.
+
+### Technische Daten evolutionDrive Plus+
+
+| Parameter | Wert |
+|---|---|
+| Rahmeneinbautiefe | **76 mm** |
+| Dichtsystem | **Parallelabdichtung im Blendrahmen** |
+| Rahmen-Wärmedurchgang Uf | **1,2 W/m²K** |
+| System-Wärmedurchgang Uw | **bis zu 0,8 W/m²K** mit Dreifachverglasung |
+| Schalldämmung | **bis zu 42 dB** |
+| Windwiderstand | **Klasse B5** |
+| Einbruchschutz | **RC 2** |
+| Max. Flügelgewicht | **bis 400 kg** |
+| Max. Flügelbreite | **bis 3,0 m** |
+
+---
+
+## Der Plissee-Insektenschutz — die Lösung für große Terrassenöffnungen
+
+Ein 2,5–3,0 m breites Schiebesystem benötigt einen passenden Insektenschutz. Das **Plissee-Schiebegitter** löst dies elegant: Die gefaltete Insektenschutzbahn lässt sich auf engstem Raum zusammenschieben und entfaltet sich bei Bedarf auf die volle Breite des Öffnungsfeldes.
+
+**Für ein persönliches Angebot:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**`,
+
+      fr: `## Pourquoi les portes coulissantes sont devenues le standard des terrasses modernes
+
+La tendance dominante dans l'architecture résidentielle à Bucarest et Ilfov est l'**ouverture maximale** entre intérieur et extérieur. Salamander a poussé ce concept à son apogée avec le système **evolutionDrive Plus+**.
+
+---
+
+## Salamander evolutionDrive Plus+ — ce qui le distingue des coulissants classiques
+
+La différence essentielle : **l'étanchéité dans le dormant**. Contrairement aux portes coulissantes classiques, le vantail se déplace **en parallèle au dormant** et **s'étanche dans le dormant** en fin de course — similaire à une porte HST en aluminium, mais au prix du PVC.
+
+### Caractéristiques techniques evolutionDrive Plus+
+
+| Paramètre | Valeur |
+|---|---|
+| Profondeur de cadre | **76 mm** |
+| Système d'étanchéité | **Étanchéité parallèle dans le dormant** |
+| Coefficient thermique cadre Uf | **1,2 W/m²K** |
+| Coefficient thermique système Uw | **jusqu'à 0,8 W/m²K** avec triple vitrage |
+| Isolation acoustique | **jusqu'à 42 dB** |
+| Résistance au vent | **classe B5** |
+| Résistance antieffraction | **RC 2** |
+| Poids max. vantail | **jusqu'à 400 kg** |
+| Largeur max. vantail | **jusqu'à 3,0 m** |
+
+---
+
+## La moustiquaire plissée — la solution pour les grandes ouvertures de terrasse
+
+Une porte coulissante de 2,5–3,0 m nécessite une protection insectes adaptée. La **moustiquaire plissée coulissante** résout cela élégamment : la toile plissée se comprime en accordéon à une extrémité et se déploie sur toute la largeur à la fermeture.
+
+**Pour un devis personnalisé :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
+
+      es: `## Por qué las puertas correderas se han convertido en el estándar para terrazas modernas
+
+La tendencia dominante en la arquitectura residencial en Bucarest e Ilfov es la **apertura máxima** entre interior y exterior. Salamander ha llevado este concepto al siguiente nivel con el sistema **evolutionDrive Plus+**.
+
+---
+
+## Salamander evolutionDrive Plus+ — qué lo diferencia de las correderas clásicas
+
+La diferencia esencial: **estanqueidad en el marco**. A diferencia de las puertas correderas clásicas, la hoja se desplaza **en paralelo al marco** y **se estanca en el marco** al final del recorrido — similar a una puerta HST de aluminio, pero al precio del PVC.
+
+### Especificaciones técnicas evolutionDrive Plus+
+
+| Parámetro | Valor |
+|---|---|
+| Profundidad de marco | **76 mm** |
+| Sistema de estanqueidad | **Estanqueidad paralela en el marco** |
+| Coeficiente térmico marco Uf | **1,2 W/m²K** |
+| Coeficiente térmico sistema Uw | **hasta 0,8 W/m²K** con triple acristalamiento |
+| Aislamiento acústico | **hasta 42 dB** |
+| Resistencia al viento | **clase B5** |
+| Resistencia antiintrusión | **RC 2** |
+| Peso máx. hoja | **hasta 400 kg** |
+| Anchura máx. hoja | **hasta 3,0 m** |
+
+---
+
+## La mosquitera plisada — la solución para grandes aperturas de terraza
+
+Una puerta corredera de 2,5–3,0 m requiere una protección contra insectos adecuada. La **mosquitera plisada corredera** resuelve esto elegantemente: la red plisada se comprime en acordeón en un extremo y se despliega sobre todo el ancho al cerrar.
+
+**Para un presupuesto personalizado:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18**`,
+
+      it: `## Perché le porte scorrevoli sono diventate lo standard per le terrazze moderne
+
+La tendenza dominante nell'architettura residenziale a Bucarest e Ilfov — ma anche a Roma e Milano — è la **massima apertura** tra interno ed esterno. Salamander ha portato questo concetto al livello successivo con il sistema **evolutionDrive Plus+**.
+
+---
+
+## Salamander evolutionDrive Plus+ — cosa lo distingue dagli scorrevoli classici
+
+La differenza essenziale: **tenuta nel telaio fisso**. A differenza delle porte scorrevoli classiche, l'anta si sposta **in parallelo al telaio** e **si sigilla nel telaio** a fine corsa — simile a una porta HST in alluminio, ma al costo del PVC.
+
+### Specifiche tecniche evolutionDrive Plus+
+
+| Parametro | Valore |
+|---|---|
+| Profondità del telaio | **76 mm** |
+| Sistema di tenuta | **Tenuta parallela nel telaio** |
+| Coefficiente termico telaio Uf | **1,2 W/m²K** |
+| Coefficiente termico sistema Uw | **fino a 0,8 W/m²K** con triplo vetro |
+| Isolamento acustico | **fino a 42 dB** |
+| Resistenza al vento | **classe B5** |
+| Resistenza all'effrazione | **RC 2** |
+| Peso max. anta | **fino a 400 kg** |
+| Larghezza max. anta | **fino a 3,0 m** |
+
+---
+
+## La zanzariera plissé — la soluzione per grandi aperture su terrazza
+
+Una porta scorrevole di 2,5–3,0 m richiede una protezione antizanzare adeguata. La **zanzariera plissé scorrevole** risolve questo in modo elegante: la rete a soffietto si comprime in un'estremità e si estende sull'intera larghezza alla chiusura.
+
+**Per un preventivo personalizzato:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
+    },
+  },
+
+  {
+    slugs: {
+      ro: 'montaj-tamplarie-salamander-evolutiondrive-plus-culisanta-alumil-m19800-armonice',
+      en: 'installation-salamander-evolutiondrive-plus-sliding-alumil-m19800-folding-door',
+      de: 'montage-salamander-evolutiondrive-plus-schiebetuer-alumil-m19800-falttuer',
+      fr: 'pose-menuiserie-salamander-evolutiondrive-plus-coulissant-alumil-m19800-accordeon',
+      es: 'instalacion-carpinteria-salamander-evolutiondrive-plus-corredera-alumil-m19800-plegable',
+      it: 'posa-serramenti-salamander-evolutiondrive-plus-scorrevole-alumil-m19800-pieghevole',
+    },
+    date: '2026-03-25',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
+    category: { ro:'Proiecte realizate', en:'Completed Projects', de:'Realisierte Projekte', fr:'Projets réalisés', es:'Proyectos realizados', it:'Progetti realizzati' },
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    image: { ro:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', en:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', de:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', fr:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', es:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', it:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif' },
+    imageBg: 'linear-gradient(135deg,#1a2535 0%,#2d3f5a 60%,#3a5a8a 100%)',
+    imageLabel: 'evolutionDrive + M19800BT',
+    accentColor: '#2d5a8e',
+    video: {
+      embed: '<iframe width="951" height="535" src="https://www.youtube.com/embed/pwEFLLpYyY8" title="Montaj Tamplarie PVC Salamander Evolution Drive Plus Culisanta + Montaj Tamplarie Aluminiu Alumil M19800BT Armonica. TERMOPANE SALAMANDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+      position: 'after-intro',
+    },
+    title: {
+      ro: 'Montaj Salamander evolutionDrive Plus Culisantă + Alumil M19800BT Armonică — Proiect complet Neofort BIZ',
+      en: 'Installation: Salamander evolutionDrive Plus Sliding + Alumil M19800BT Folding Door — Complete Neofort BIZ Project',
+      de: 'Montage: Salamander evolutionDrive Plus Schiebetür + Alumil M19800BT Falttür — Komplett-Projekt Neofort BIZ',
+      fr: 'Pose : Salamander evolutionDrive Plus coulissant + Alumil M19800BT accordéon — Projet complet Neofort BIZ',
+      es: 'Instalación: Salamander evolutionDrive Plus corredera + Alumil M19800BT plegable — Proyecto completo Neofort BIZ',
+      it: 'Posa: Salamander evolutionDrive Plus scorrevole + Alumil M19800BT pieghevole — Progetto completo Neofort BIZ',
+    },
+    excerpt: {
+      ro: 'Un proiect complex executat de Neofort BIZ: montaj ușă culisantă PVC Salamander evolutionDrive Plus+ combinată cu sistem de uși armonice din aluminiu Alumil Smartia M19800BT cu barieră termică — soluția completă pentru o vilă rezidențială premium din zona București-Ilfov.',
+      en: 'A complex project by Neofort BIZ: installation of a Salamander evolutionDrive Plus+ PVC sliding door combined with an Alumil Smartia M19800BT thermally broken aluminium folding door system — the complete solution for a premium residential villa in the Bucharest-Ilfov area.',
+      de: 'Ein komplexes Projekt von Neofort BIZ: Montage einer Salamander evolutionDrive Plus+ PVC-Schiebetür kombiniert mit einem Alumil Smartia M19800BT Aluminium-Falttürsystem mit Wärmedämmbrücke — die komplette Lösung für eine Premium-Residenz im Raum Bukarest-Ilfov.',
+      fr: 'Un projet complexe réalisé par Neofort BIZ : pose d'une porte coulissante PVC Salamander evolutionDrive Plus+ associée à un système de portes accordéon en aluminium Alumil Smartia M19800BT à rupture de pont thermique — solution complète pour une villa résidentielle premium dans la zone Bucarest-Ilfov.',
+      es: 'Un proyecto complejo de Neofort BIZ: instalación de una puerta corredera PVC Salamander evolutionDrive Plus+ combinada con un sistema de puertas plegables de aluminio Alumil Smartia M19800BT con rotura de puente térmico — solución completa para una villa residencial premium en la zona Bucarest-Ilfov.',
+      it: 'Un progetto complesso di Neofort BIZ: posa di una porta scorrevole PVC Salamander evolutionDrive Plus+ abbinata a un sistema di porte pieghevoli in alluminio Alumil Smartia M19800BT a taglio termico — soluzione completa per una villa residenziale premium nella zona Bucarest-Ilfov.',
+    },
+    metaDesc: {
+      ro: 'Proiect Neofort BIZ: montaj ușă culisantă Salamander evolutionDrive Plus + uși armonice aluminiu Alumil M19800BT. Ghid tehnic complet, etape montaj, avantaje sisteme combinate PVC + aluminiu.',
+      en: 'Neofort BIZ project: installation of Salamander evolutionDrive Plus sliding door + Alumil M19800BT folding aluminium door. Complete technical guide, installation stages, advantages of combined PVC + aluminium systems.',
+      de: 'Neofort BIZ Projekt: Montage Salamander evolutionDrive Plus Schiebetür + Alumil M19800BT Aluminium-Falttür. Vollständiger technischer Leitfaden, Montageschritte, Vorteile kombinierter PVC + Aluminium Systeme.',
+      fr: 'Projet Neofort BIZ : pose porte coulissante Salamander evolutionDrive Plus + portes accordéon aluminium Alumil M19800BT. Guide technique complet, étapes de pose, avantages systèmes combinés PVC + aluminium.',
+      es: 'Proyecto Neofort BIZ: instalación puerta corredera Salamander evolutionDrive Plus + puertas plegables aluminio Alumil M19800BT. Guía técnica completa, etapas de instalación, ventajas sistemas combinados PVC + aluminio.',
+      it: 'Progetto Neofort BIZ: posa porta scorrevole Salamander evolutionDrive Plus + porte pieghevoli alluminio Alumil M19800BT. Guida tecnica completa, fasi di posa, vantaggi sistemi combinati PVC + alluminio.',
+    },
+    keywords: {
+      ro: 'montaj usa culisanta Salamander evolutionDrive Plus, usi armonice aluminiu Alumil M19800BT Bucuresti, sistem combinat PVC aluminiu terasa vila, Alumil Smartia M19800BT bariera termica, usa armonice aluminiu Ilfov',
+      en: 'Salamander evolutionDrive Plus installation Bucharest, Alumil M19800BT folding door installation, combined PVC aluminium terrace system, Alumil Smartia M19800BT thermal break, folding aluminium door Bucharest',
+      de: 'Salamander evolutionDrive Plus Montage Bukarest, Alumil M19800BT Falttür Montage, kombiniertes PVC Aluminium Terrassensystem, Alumil Smartia M19800BT Wärmedämmbrücke',
+      fr: 'pose Salamander evolutionDrive Plus Bucarest, Alumil M19800BT portes accordéon pose, système combiné PVC aluminium terrasse, Alumil Smartia M19800BT rupture pont thermique',
+      es: 'instalación Salamander evolutionDrive Plus Bucarest, Alumil M19800BT puertas plegables instalación, sistema combinado PVC aluminio terraza, Alumil Smartia M19800BT rotura puente térmico',
+      it: 'posa Salamander evolutionDrive Plus Bucarest, Alumil M19800BT porte pieghevoli posa, sistema combinato PVC alluminio terrazza, Alumil Smartia M19800BT taglio termico',
+    },
+    content: {
+      ro: `## Contextul proiectului — de ce combinarea PVC cu aluminiu este alegerea premium
+
+La o vilă rezidențială din zona București-Ilfov, proprietarii au solicitat o soluție completă pentru conectarea livingului cu terasa și grădina: **o ușă culisantă PVC** pentru trecerea zilnică și **un sistem de uși armonice din aluminiu** pentru deschiderea totală a peretelui în situații speciale (petreceri, vreme caldă).
+
+Această combinație — PVC culisant + aluminiu armonicaj — este tot mai frecventă în proiectele rezidențiale premium din București, deoarece oferă cel mai bun raport funcționalitate-estetică-cost:
+
+- **PVC evolutionDrive Plus+** — confort termic superior, cost mai accesibil, ideal pentru utilizare zilnică
+- **Alumil M19800BT** — deschidere totală 100% a golului, structură metalică robustă, aspect architectural premium
+
+---
+
+## Salamander evolutionDrive Plus+ — specificații și avantaje în context rezidențial premium
+
+Sistemul evolutionDrive Plus+ este **generația nouă** de uși culisante PVC Salamander, cu etanșare paralelă în toc — cea mai bună etanșare disponibilă pentru sisteme glisante PVC.
+
+### Date tehnice evolutionDrive Plus+
+
+| Parametru | Valoare |
+|---|---|
+| Adâncime cadru | **76 mm** |
+| Etanșare | **Paralelă în toc — sistem brevet** |
+| Uw sistem | **0,8–1,0 W/m²K** |
+| Izolare fonică | **42 dB** |
+| Rezistență vânt | **B5 — cel mai înalt nivel PVC culisant** |
+| Antiefracție | **RC 2** |
+| Greutate max canat | **400 kg** |
+| Lățime max canat | **3,0 m** |
+
+### De ce evolutionDrive Plus+ și nu un glisant HST de aluminiu?
+
+La utilizare zilnică, PVC-ul oferă avantaje clare față de aluminiu:
+- **Izolare termică superioară** — conductivitate termică PVC = 0,17 W/mK vs aluminiu = 160 W/mK
+- **Fără condens** pe profil iarna — PVC nu conduce frigul spre interior
+- **Cost mai accesibil** cu 30–40% față de un HST aluminiu echivalent
+- **Mentenanță zero** — PVC nu necesită vopsire, nu oxidează
+
+---
+
+## Alumil Smartia M19800BT — ușa armonică cu barieră termică pentru deschideri largi
+
+### Ce este Alumil M19800BT
+
+**Smartia M19800BT** este sistemul de uși armonice (accordion/folding) din aluminiu produs de Alumil Group (Grecia), gama Smartia — varianta **BT = Barieră Termică**. Este soluția de referință pentru deschideri largi la vile rezidențiale, showroom-uri, terase de restaurant și spații comerciale.
+
+### Specificații tehnice M19800BT
+
+| Parametru | Valoare |
+|---|---|
+| Material | **Aluminiu extrudat cu barieră termică** |
+| Înălțime maximă | **3,3 m per canat** |
+| Greutate maximă per canat | **125 kg** |
+| Număr canaturi | **2–8 (par sau impar)** |
+| Sens deschidere | **Interior sau exterior** |
+| Garnituri etanșare | **4 garnituri EPDM** |
+| Coeficient termic Uf | **1,0–1,8 W/m²K** (cu barieră termică) |
+| Antiefracție | **RC 2–3** |
+| Prag | **Incastrat în pardoseală** (opțional) |
+| Culori disponibile | **Toate culorile RAL + finisaje lemn** |
+
+### Mecanismul de funcționare — simplitate și robustețe
+
+Canatele sistemului armonice se pliază prin **role-balamale de precizie** montate pe o șină superioară suspendată. Fiecare canat se articulează față de vecin printr-o balama cu 4 role, capabilă să susțină greutatea maximă fără deformare.
+
+Plierea **nu necesită spațiu în pardoseală** (excepție: pragul incastrat opțional), eliminând obstacolele pentru circulație.
+
+La deschidere completă, canatele se strâng într-un pachet compact la un capăt — eliberând **100% din golul de lumină**, fără niciun obstacol vizual sau fizic.
+
+### Bariera termică M19800BT — de ce contează
+
+Bariera termică este o inserție din material plastic cu conductivitate termică scăzută, montată între profilele exterioare și interioare de aluminiu. Fără barieră termică, aluminiul — cu conductivitate de 160 W/mK — ar transfera frigul direct în interior, creând condens și pierderi energetice semnificative.
+
+Cu M19800BT, coeficientul termic al ramei scade de la **3,9 W/m²K** (fără BT) la **1,0–1,8 W/m²K** — o reducere de 50–75% a pierderilor termice prin cadru.
+
+---
+
+## Etapele montajului — cum procedează Neofort BIZ
+
+### 1. Pregătirea golului și verificarea structurală
+
+Înainte de orice montaj, echipa Neofort BIZ verifică:
+- **Nivelarea pragului** — abatere maximă admisă: 2 mm pe toată lungimea
+- **Verticalitatea tocurilor laterale** — esențial pentru etanșarea corectă
+- **Rezistența structurii** — șinele superioare ale armonicii M19800BT preiau sarcini semnificative; ancorarea în planșeu de beton armat este obligatorie
+
+### 2. Montajul ușii culisante evolutionDrive Plus+
+
+Secvența de montaj:
+1. Fixarea cadrului în gol cu diburi chimice și distanțieri de reglaj
+2. Etanșarea perimetrală cu bandă precomprimată butilică (exterior) și folie antivapori (interior)
+3. Montajul canaților pe șina de rulare
+4. Reglajul înălțimii și al presiunii de contact pe garnitură
+5. Verificarea etanșeității cu detector de curenți de aer
+
+### 3. Montajul sistemului armonice Alumil M19800BT
+
+Secvența de montaj:
+1. Trasarea și ancorarea șinei superioare în planșeu — nivelarea este critică
+2. Montajul tocurilor laterale și a pragului incastrat (dacă este ales)
+3. Montajul canatelor — fiecare canat se suspendă individual pe șina superioară
+4. Reglajul rolelor și al balamalelor pentru pliere uniformă
+5. Montajul sistemului de blocare multipoint și a mânerelor
+6. Verificarea etanșeității la apă și vânt
+
+### 4. Finisaje și certificat de garanție
+
+La finalul lucrării, Neofort BIZ emite:
+- **Certificat de garanție** completă pe produs și manoperă
+- **Proces verbal de recepție** cu parametrii verificați
+- **Instrucțiuni de utilizare și întreținere** pentru ambele sisteme
+
+---
+
+## Combinarea PVC + aluminiu — sfaturi practice pentru proiecte rezidențiale
+
+**Cum se asigură continuitatea estetică?**
+Ambele sisteme pot fi livrate în aceeași culoare RAL sau finisaj. Neofort BIZ coordonează culorile între PVC (folie decor) și aluminiu (vopsea pulbere electrostatică) pentru uniformitate vizuală perfectă.
+
+**Care este ordinea recomandată de montaj?**
+Recomandăm montajul PVC culisant înainte de armonică — acesta setează nivelul de referință pentru pardoseală și praguri. Armonicile M19800BT se adaptează ulterior.
+
+**Cum se întreține sistemul armonice?**
+Ungerea anuală a rolelor cu ulei de siliconat și verificarea tensiunii garniturii de perie de la baza canatelor. Profilurile din aluminiu se curăță cu detergent neutru — nicio vopsire necesară.
+
+**Prețuri și oferte:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**`,
+
+      en: `## Project context — why combining PVC with aluminium is the premium choice
+
+At a residential villa in the Bucharest-Ilfov area, the owners requested a complete solution for connecting the living room with the terrace and garden: **a PVC sliding door** for daily use and **an aluminium folding door system** for full wall opening on special occasions.
+
+This combination — PVC sliding + aluminium folding — is increasingly common in premium residential projects in Bucharest, offering the best functionality-aesthetics-cost ratio.
+
+---
+
+## Alumil Smartia M19800BT — the thermally broken aluminium folding door for wide openings
+
+### Technical specifications M19800BT
+
+| Parameter | Value |
+|---|---|
+| Material | **Extruded aluminium with thermal break** |
+| Maximum height | **3.3 m per sash** |
+| Maximum weight per sash | **125 kg** |
+| Number of sashes | **2–8 (even or odd)** |
+| Opening direction | **Inward or outward** |
+| Sealing gaskets | **4 EPDM gaskets** |
+| Thermal coefficient Uf | **1.0–1.8 W/m²K** (with thermal break) |
+| Burglar resistance | **RC 2–3** |
+| Available colours | **All RAL colours + wood effect finishes** |
+
+At full open, the sashes fold into a compact stack at one end — freeing **100% of the glazed opening** without any visual or physical obstruction.
+
+**For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**`,
+
+      de: `## Projekthintergrund — warum die Kombination PVC + Aluminium die Premium-Wahl ist
+
+Bei einer Residenz im Raum Bukarest-Ilfov wünschten sich die Eigentümer eine vollständige Lösung für die Verbindung von Wohnzimmer, Terrasse und Garten: **eine PVC-Schiebetür** für den täglichen Gebrauch und **ein Aluminium-Falttürsystem** für die vollständige Öffnung der Wand bei besonderen Anlässen.
+
+---
+
+## Alumil Smartia M19800BT — die Aluminium-Falttür mit Wärmedämmbrücke
+
+### Technische Daten M19800BT
+
+| Parameter | Wert |
+|---|---|
+| Material | **Stranggepresstes Aluminium mit Wärmedämmbrücke** |
+| Maximale Höhe | **3,3 m pro Flügel** |
+| Maximales Gewicht pro Flügel | **125 kg** |
+| Anzahl Flügel | **2–8 (gerade oder ungerade)** |
+| Öffnungsrichtung | **Nach innen oder außen** |
+| Dichtungsebenen | **4 EPDM-Dichtungen** |
+| Wärmedurchgang Uf | **1,0–1,8 W/m²K** (mit Wärmedämmbrücke) |
+| Einbruchschutz | **RC 2–3** |
+
+Bei vollständiger Öffnung falten sich die Flügel zu einem kompakten Paket — und geben **100% der Lichtöffnung** frei.
+
+**Für ein persönliches Angebot:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**`,
+
+      fr: `## Contexte du projet — pourquoi combiner PVC et aluminium est le choix premium
+
+Dans une villa résidentielle de la zone Bucarest-Ilfov, les propriétaires ont souhaité une solution complète pour relier salon, terrasse et jardin : **une porte coulissante PVC** pour l'usage quotidien et **un système de portes accordéon en aluminium** pour l'ouverture totale du mur lors d'occasions spéciales.
+
+---
+
+## Alumil Smartia M19800BT — la porte accordéon aluminium à rupture de pont thermique
+
+### Caractéristiques techniques M19800BT
+
+| Paramètre | Valeur |
+|---|---|
+| Matériau | **Aluminium extrudé à rupture de pont thermique** |
+| Hauteur maximale | **3,3 m par vantail** |
+| Poids maximum par vantail | **125 kg** |
+| Nombre de vantaux | **2 à 8 (pair ou impair)** |
+| Sens d'ouverture | **Intérieur ou extérieur** |
+| Joints d'étanchéité | **4 joints EPDM** |
+| Coefficient thermique Uf | **1,0–1,8 W/m²K** (avec rupture de pont thermique) |
+| Résistance antieffraction | **RC 2–3** |
+
+À l'ouverture complète, les vantaux se plient en un paquet compact — libérant **100% de l'ouverture** sans aucun obstacle.
+
+**Pour un devis personnalisé :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
+
+      es: `## Contexto del proyecto — por qué combinar PVC con aluminio es la elección premium
+
+En una villa residencial en la zona Bucarest-Ilfov, los propietarios solicitaron una solución completa para conectar salón, terraza y jardín: **una puerta corredera PVC** para el uso diario y **un sistema de puertas plegables de aluminio** para la apertura total de la pared en ocasiones especiales.
+
+---
+
+## Alumil Smartia M19800BT — la puerta plegable de aluminio con rotura de puente térmico
+
+### Especificaciones técnicas M19800BT
+
+| Parámetro | Valor |
+|---|---|
+| Material | **Aluminio extruido con rotura de puente térmico** |
+| Altura máxima | **3,3 m por hoja** |
+| Peso máximo por hoja | **125 kg** |
+| Número de hojas | **2–8 (par o impar)** |
+| Dirección de apertura | **Interior o exterior** |
+| Juntas de estanqueidad | **4 juntas EPDM** |
+| Coeficiente térmico Uf | **1,0–1,8 W/m²K** (con rotura de puente térmico) |
+| Resistencia antiintrusión | **RC 2–3** |
+
+En apertura completa, las hojas se pliegan en un paquete compacto — liberando el **100% de la apertura** sin ningún obstáculo.
+
+**Para un presupuesto personalizado:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18**`,
+
+      it: `## Contesto del progetto — perché combinare PVC e alluminio è la scelta premium
+
+In una villa residenziale nell'area Bucarest-Ilfov, i proprietari hanno richiesto una soluzione completa per collegare soggiorno, terrazza e giardino: **una porta scorrevole PVC** per l'uso quotidiano e **un sistema di porte pieghevoli in alluminio** per l'apertura totale della parete in occasioni speciali. La stessa soluzione è molto apprezzata anche nelle ville di Roma, Milano e nelle grandi città italiane.
+
+---
+
+## Alumil Smartia M19800BT — la porta pieghevole in alluminio a taglio termico
+
+### Specifiche tecniche M19800BT
+
+| Parametro | Valore |
+|---|---|
+| Materiale | **Alluminio estruso a taglio termico** |
+| Altezza massima | **3,3 m per anta** |
+| Peso massimo per anta | **125 kg** |
+| Numero di ante | **2–8 (pari o dispari)** |
+| Direzione di apertura | **Interno o esterno** |
+| Guarnizioni di tenuta | **4 guarnizioni EPDM** |
+| Coefficiente termico Uf | **1,0–1,8 W/m²K** (con taglio termico) |
+| Resistenza all'effrazione | **RC 2–3** |
+
+A piena apertura, le ante si ripiegano in un pacchetto compatto — liberando il **100% dell'apertura** senza alcun ostacolo.
+
+**Per un preventivo personalizzato:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
+    },
+  },
+
+  {
+    slugs: {
+      ro: 'usi-intrare-antiefractie-comanda-tactica-amprenta-digitala-aluminiu',
+      en: 'anti-burglary-entry-doors-fingerprint-touch-aluminium',
+      de: 'einbruchsichere-eingangstuer-fingerabdruck-touchbedienung-aluminium',
+      fr: 'porte-entree-anti-effraction-commande-tactile-empreinte-aluminium',
+      es: 'puerta-entrada-antirrobo-control-tactil-huella-dactilar-aluminio',
+      it: 'porta-ingresso-antieffrazione-comando-tattile-impronta-digitale-alluminio',
+    },
+    date: '2026-03-25',
+    author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
+    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
+    category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
+    readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
+    image: { ro:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', en:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', de:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', fr:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', es:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', it:'/blog/blog-usi-antiefractie-amprenta-digitala.avif' },
+    imageBg: 'linear-gradient(135deg,#1a1a2a 0%,#2a2a4a 60%,#3a3a6a 100%)',
+    imageLabel: 'Antiefracție + Amprentă',
+    accentColor: '#1a1a2a',
+    video: {
+      embed: '<iframe width="337" height="599" src="https://www.youtube.com/embed/lOWoBCug3Fg" title="Uși de intrare antiefracție comanda tactilă amprenta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+      position: 'after-intro',
+    },
+    title: {
+      ro: 'Uși de Intrare Antiefracție cu Comandă Tactilă și Amprentă Digitală — Ghid complet de securitate',
+      en: 'Anti-Burglary Entry Doors with Fingerprint Touch Control — Complete Security Guide',
+      de: 'Einbruchsichere Eingangstüren mit Fingerabdruck-Touchbedienung — Vollständiger Sicherheitsleitfaden',
+      fr: 'Portes d'entrée anti-effraction à commande tactile et empreinte digitale — Guide complet de sécurité',
+      es: 'Puertas de entrada antirrobo con control táctil y huella dactilar — Guía completa de seguridad',
+      it: 'Porte d'ingresso antieffrazione con comando tattile e impronta digitale — Guida completa alla sicurezza',
+    },
+    excerpt: {
+      ro: 'Ușa de intrare antiefracție cu amprentă digitală combină protecția mecanică certificată (RC 3–RC 4) cu accesul biometric modern — fără chei, fără cilindri vulnerabili. Neofort BIZ fabrică și montează uși din aluminiu și metal cu sisteme tactile de ultimă generație pentru case și vile din București și Ilfov.',
+      en: 'Anti-burglary entry doors with fingerprint control combine certified mechanical protection (RC 3–RC 4) with modern biometric access — no keys, no vulnerable cylinders. Neofort BIZ manufactures and installs aluminium and metal doors with state-of-the-art touch systems for homes in Bucharest and Ilfov.',
+      de: 'Einbruchsichere Eingangstüren mit Fingerabdrucksteuerung kombinieren zertifizierten mechanischen Schutz (RC 3–RC 4) mit modernem biometrischen Zugang — ohne Schlüssel, ohne angreifbare Zylinder. Neofort BIZ fertigt und montiert Aluminium- und Metalltüren mit modernsten Touch-Systemen für Häuser in Bukarest und Ilfov.',
+      fr: 'Les portes d'entrée anti-effraction à empreinte digitale combinent une protection mécanique certifiée (RC 3–RC 4) et un accès biométrique moderne — sans clé, sans cylindres vulnérables. Neofort BIZ fabrique et pose des portes en aluminium et métal avec des systèmes tactiles de dernière génération pour maisons et villas à Bucarest et Ilfov.',
+      es: 'Las puertas de entrada antirrobo con huella dactilar combinan protección mecánica certificada (RC 3–RC 4) con acceso biométrico moderno — sin llaves, sin cilindros vulnerables. Neofort BIZ fabrica e instala puertas de aluminio y metal con sistemas táctiles de última generación para viviendas en Bucarest e Ilfov.',
+      it: 'Le porte d'ingresso antieffrazione con impronta digitale combinano protezione meccanica certificata (RC 3–RC 4) con accesso biometrico moderno — senza chiavi, senza cilindri vulnerabili. Neofort BIZ produce e installa porte in alluminio e metallo con sistemi touch di ultima generazione per abitazioni a Bucarest, Ilfov e non solo.',
+    },
+    metaDesc: {
+      ro: 'Ghid complet uși antiefracție cu amprentă digitală: clase rezistență RC 2–RC 4, sisteme biometrice, avantaje față de cheie clasică, fabricare și montaj București Ilfov — Neofort BIZ.',
+      en: 'Complete guide to anti-burglary doors with fingerprint recognition: resistance classes RC 2–RC 4, biometric systems, advantages over classic key, manufacturing and installation Bucharest Ilfov — Neofort BIZ.',
+      de: 'Vollständiger Leitfaden zu einbruchsicheren Türen mit Fingerabdruckerkennung: Widerstandsklassen RC 2–RC 4, biometrische Systeme, Vorteile gegenüber klassischem Schlüssel, Fertigung und Montage Bukarest — Neofort BIZ.',
+      fr: 'Guide complet portes anti-effraction avec reconnaissance d'empreinte : classes de résistance RC 2–RC 4, systèmes biométriques, avantages vs clé classique, fabrication et pose Bucarest Ilfov — Neofort BIZ.',
+      es: 'Guía completa puertas antirrobo con huella dactilar: clases de resistencia RC 2–RC 4, sistemas biométricos, ventajas frente a llave clásica, fabricación e instalación Bucarest Ilfov — Neofort BIZ.',
+      it: 'Guida completa porte antieffrazione con impronta digitale: classi di resistenza RC 2–RC 4, sistemi biometrici, vantaggi rispetto alla chiave classica, produzione e posa Bucarest Ilfov — Neofort BIZ.',
+    },
+    keywords: {
+      ro: 'usa antiefractie amprenta digitala Bucuresti, usa intrare aluminiu comanda tactica, usa antiefractie RC3 RC4 vila Ilfov, broasca amprenta digitala usa intrare, usa antiefractie smart home Bucuresti',
+      en: 'anti-burglary door fingerprint Bucharest, aluminium entry door touch control, RC3 RC4 security door Bucharest Ilfov, smart lock fingerprint entry door, biometric door smart home Bucharest',
+      de: 'einbruchsichere Tür Fingerabdruck Bukarest, Aluminium Eingangstür Touch Steuerung, RC3 RC4 Sicherheitstür Bukarest Ilfov, Smart Lock Fingerabdruck Eingangstür, biometrische Tür Smart Home',
+      fr: 'porte anti-effraction empreinte digitale Bucarest, porte entrée aluminium commande tactile, porte sécurité RC3 RC4 Bucarest Ilfov, serrure intelligente empreinte, porte biométrique smart home Bucarest',
+      es: 'puerta antirrobo huella dactilar Bucarest, puerta entrada aluminio control táctil, puerta seguridad RC3 RC4 Bucarest Ilfov, cerradura inteligente huella, puerta biométrica smart home',
+      it: 'porta antieffrazione impronta digitale Bucarest, porta ingresso alluminio comando tattile, porta sicurezza RC3 RC4 Bucarest Ilfov, serratura intelligente impronta, porta biometrica smart home Roma Milano',
+    },
+    content: {
+      ro: `## De ce ușa de intrare este punctul critic de securitate al casei
+
+Statisticile europene din sectorul securității rezidențiale arată consecvent că **peste 70% din efracțiile rezidențiale** se produc prin ușa de intrare principală sau cea din spate — nu prin ferestre sau alte puncte de acces. Motivul este simplu: ușile reprezintă goluri mari, cu o singură zonă de blocare (broasca), și adesea cu cilindri vulnerabili la forțare.
+
+Soluția modernă la această problemă combină două straturi de protecție:
+1. **Mecanică** — construcție robustă certificată, clase de rezistență RC 2–RC 4
+2. **Biometrică** — acces prin amprentă digitală, cod PIN sau card, care elimină vulnerabilitatea cilindrilor clasici
+
+---
+
+## Clasele de rezistență antiefracție — ce înseamnă RC 2, RC 3, RC 4
+
+Clasificarea europeană EN 1627 definește **șase clase de rezistență** (RC 1–RC 6) pentru uși și ferestre, în funcție de timpul și uneltele necesare unui atacator pentru a forța produsul:
+
+| Clasă | Timp rezistență | Unelte atacator | Aplicație tipică |
+|---|---|---|---|
+| RC 1 | 3 minute | Forță fizică | Uși interior, utilitar |
+| **RC 2** | **3 minute** | **Pârghii, șurubelnițe** | **Standard apartamente** |
+| **RC 3** | **5 minute** | **Dalți, bara de forțat** | **Vila rezidențială** |
+| **RC 4** | **10 minute** | **Fierăstrău, burghiu** | **Obiective cu risc ridicat** |
+| RC 5 | 15 minute | Unelte electrice | Comercial, instituțional |
+| RC 6 | 20 minute | Unelte electrice avansate | Bănci, bijuterii |
+
+**Recomandarea Neofort BIZ:**
+- **Case și vile din București și Ilfov** — minimum **RC 3**
+- **Zone cu risc ridicat sau proprietăți izolate** — **RC 4**
+- **Apartamente** — **RC 2** este suficient, RC 3 oferă confort suplimentar
+
+---
+
+## Construcția ușii antiefracție din aluminiu și metal — ce trebuie să conțină
+
+### Structura foii ușii
+
+O ușă antiefracție corect construită are:
+
+- **Miezul** — plăci de oțel de 1,5–3 mm grosime, dispuse în straturi multiple, cu umplere din **vată bazaltică** (izolare termică + fonică + rezistență la forțare)
+- **Rama** — profil de oțel sau aluminiu extrudat, cu grosimi minime certificate
+- **Placarea externă** — aluminiu vopsit electrostatic în orice culoare RAL, sticlă securizată sau lemn stratificat (la cerere)
+
+### Sistemul de blocare multipoint
+
+O broască cu **un singur punct de blocare** rezistă mai puțin decât un sistem multipoint, indiferent de clasa cilindrului. Ușile antiefracție RC 3+ includ:
+
+- Minim **5 puncte de blocare** (bolțuri și cârlige pe 3 laturi ale foii)
+- **Bolțuri de oțel Ø14–18 mm** — rezistente la lovire și forțare
+- **Cârlige de blocare** — previn îndoirea foii la atac cu pârghie
+- **Plăci de protecție cilindru** — din oțel călit, împiedică extragerea cilindrului
+
+### Tocul și ancorarea în zidărie
+
+Cel mai robust sistem de ușă devine ineficient dacă tocul este slab ancorat. Neofort BIZ folosește:
+- **Toc din oțel** cu grosime minimă 2 mm, profile închise
+- **Minimum 4 ancore** per latură — fixare în zidărie sau beton cu dibluri chimice
+- **Profile de etanșare** EPDM pe 3 laturi — izolare termică și fonică
+
+---
+
+## Sistemul de comandă cu amprentă digitală — cum funcționează și ce oferă
+
+### Senzorul biometric
+
+Senzorul de amprentă digitală integrat în mânerul sau placa de acces a ușii este un **scanner optic sau capacitiv**, care:
+- Scanează și digitizează amprenta în sub **0,5 secunde**
+- Compară cu până la **200 de amprente stocate** (utilizatori autorizați)
+- Deschide broasca electric în caz de potrivire sau afișează cod de refuz
+- Funcționează la temperaturi de **-20°C până la +65°C**
+- Alimentare: **baterii AA** (autonomie 6–12 luni) sau cablu 12V
+
+### Metodele de acces disponibile
+
+Sistemele moderne oferă multiple metode de acces, configurabile independent:
+
+| Metodă | Securitate | Confort |
+|---|---|---|
+| **Amprentă digitală** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Cod PIN** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Card RFID / NFC** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Bluetooth (smartphone)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Cheie mecanică** | ⭐⭐ | ⭐⭐ |
+| **Combinat (2FA)** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+
+### De ce amprenta elimină vulnerabilitatea cheii clasice
+
+Cheia clasică are un defect fundamental de securitate: poate fi **copiată** (uneori fără știrea proprietarului), **pierdută** sau **furată**. Un cilindru de ușă poate fi forțat cu tehnica **bumping** sau **picking** în câteva secunde de un atacator cu experiență, indiferent de marca sau prețul cilindrului.
+
+**Amprenta digitală elimină complet aceste vulnerabilități:**
+- Nu poate fi copiată fără prezența fizică a degetului
+- Nu se pierde, nu se uită acasă
+- Revocarea accesului unui utilizator se face în 3 secunde din meniu
+
+### Integrare cu sistemele smart home
+
+Sistemele de acces biometric moderne se integrează cu:
+- **Protocoale Wi-Fi/Bluetooth** — control și monitorizare din aplicație mobilă
+- **ALEXA și Google Home** — comenzi vocale pentru blocare/deblocare
+- **Sisteme de alarmă** — declanșare automată la tentativă de efracție
+- **Camere video** — înregistrare automată la acces sau tentativă neautorizată
+
+---
+
+## Fabricarea și montajul la Neofort BIZ
+
+Neofort BIZ fabrică uși antiefracție **la comandă**, personalizate pentru fiecare proiect:
+
+### Opțiuni de personalizare
+- **Dimensiuni** — orice dimensiune, inclusiv uși duble și cu supraluminare
+- **Material exterior** — aluminiu vopsit RAL, sticlă securizată, panouri din metal perforat
+- **Culori** — orice culoare RAL sau folie imitație lemn
+- **Vitraje** — geam securizat, geam termoizolator, geam opac (satinat sau imprimat)
+- **Sisteme de acces** — amprentă, PIN, card, Bluetooth, combinat
+
+### Procesul de fabricare și montaj
+1. **Consultație și proiect** — vizită la față locului, măsurători, propunere soluție
+2. **Fabricare** — 15–25 zile lucrătoare
+3. **Montaj profesional** — echipă specializată, 4–8 ore per ușă
+4. **Certificat de garanție** — completă pe produs și manoperă
+5. **Service** — intervenții rapide pentru reglaje sau piese în garanție
+
+**Solicitați ofertă:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**`,
+
+      en: `## Why the entry door is the critical security point of any home
+
+European residential security statistics consistently show that **over 70% of residential break-ins** occur through the main or rear entry door — not through windows. The reason: doors are large openings with a single locking point and often vulnerable cylinders.
+
+The modern solution combines two layers of protection:
+1. **Mechanical** — certified robust construction, resistance classes RC 2–RC 4
+2. **Biometric** — fingerprint, PIN or card access, eliminating cylinder vulnerability
+
+---
+
+## Resistance classes — what RC 2, RC 3, RC 4 mean
+
+European standard EN 1627 defines **six resistance classes** (RC 1–RC 6) based on the time and tools required to force the product:
+
+| Class | Resistance time | Attacker's tools | Typical application |
+|---|---|---|---|
+| **RC 2** | **3 minutes** | **Levers, screwdrivers** | **Standard apartments** |
+| **RC 3** | **5 minutes** | **Chisels, crowbars** | **Residential villa** |
+| **RC 4** | **10 minutes** | **Saw, drill** | **High-risk properties** |
+
+---
+
+## The fingerprint system — why it eliminates the classic key's vulnerability
+
+A classic key can be **copied**, **lost** or **stolen**. A door cylinder can be bypassed by bumping or picking in seconds. Fingerprint access eliminates all these vulnerabilities: it cannot be copied without physical presence, cannot be lost, and user access is revoked in 3 seconds.
+
+Modern systems support fingerprint, PIN, RFID card, Bluetooth and mechanical key — independently or in two-factor combination.
+
+**Neofort BIZ manufactures and installs anti-burglary aluminium and metal doors to order, with complete customisation of dimensions, finishes and access systems.**
+
+**For a quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**`,
+
+      de: `## Warum die Eingangstür der kritische Sicherheitspunkt jedes Hauses ist
+
+Europäische Statistiken zeigen, dass **über 70% der Wohnungseinbrüche** über die Haupt- oder Hintertür erfolgen. Die moderne Lösung kombiniert zwei Schutzebenen: **mechanisch** (zertifizierte Konstruktion RC 2–RC 4) und **biometrisch** (Fingerabdruck, PIN oder Karte).
+
+---
+
+## Widerstandsklassen — was RC 2, RC 3, RC 4 bedeuten
+
+| Klasse | Widerstandszeit | Werkzeuge | Anwendung |
+|---|---|---|---|
+| **RC 2** | **3 Minuten** | **Hebel, Schraubenzieher** | **Standard Wohnungen** |
+| **RC 3** | **5 Minuten** | **Meißel, Brechstange** | **Wohnhaus / Villa** |
+| **RC 4** | **10 Minuten** | **Säge, Bohrer** | **Hochrisiko-Objekte** |
+
+---
+
+## Das Fingerabdrucksystem — warum es die Schwachstelle des klassischen Schlüssels beseitigt
+
+Ein klassischer Schlüssel kann kopiert, verloren oder gestohlen werden. Ein Türzylinder lässt sich durch Bumping oder Picking in Sekunden überwinden. Der Fingerabdruckzugang eliminiert all diese Schwachstellen vollständig.
+
+**Neofort BIZ fertigt und montiert einbruchsichere Türen aus Aluminium und Metall auf Bestellung, mit vollständiger Anpassung von Maßen, Oberflächen und Zugangssystemen.**
+
+**Für ein Angebot:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**`,
+
+      fr: `## Pourquoi la porte d'entrée est le point de sécurité critique de toute habitation
+
+Les statistiques européennes montrent que **plus de 70% des cambriolages résidentiels** se produisent par la porte d'entrée principale ou de service. La solution moderne combine deux couches de protection : **mécanique** (construction certifiée RC 2–RC 4) et **biométrique** (empreinte digitale, code PIN ou badge).
+
+---
+
+## Classes de résistance — que signifient RC 2, RC 3, RC 4
+
+| Classe | Temps de résistance | Outils de l'attaquant | Application typique |
+|---|---|---|---|
+| **RC 2** | **3 minutes** | **Leviers, tournevis** | **Appartements standard** |
+| **RC 3** | **5 minutes** | **Ciseaux, pied-de-biche** | **Villa résidentielle** |
+| **RC 4** | **10 minutes** | **Scie, perceuse** | **Propriétés à risque élevé** |
+
+---
+
+## Le système d'empreinte — pourquoi il élimine la vulnérabilité de la clé classique
+
+Une clé classique peut être copiée, perdue ou volée. Un cylindre de serrure peut être crocheté en quelques secondes. L'accès par empreinte digitale élimine toutes ces vulnérabilités : elle ne peut être ni copiée ni perdue, et la révocation d'accès se fait en 3 secondes.
+
+**Neofort BIZ fabrique et pose des portes anti-effraction en aluminium et métal sur commande, avec personnalisation complète des dimensions, finitions et systèmes d'accès.**
+
+**Pour un devis :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
+
+      es: `## Por qué la puerta de entrada es el punto crítico de seguridad de cualquier hogar
+
+Las estadísticas europeas muestran que **más del 70% de los robos residenciales** se producen a través de la puerta principal o trasera. La solución moderna combina dos capas de protección: **mecánica** (construcción certificada RC 2–RC 4) y **biométrica** (huella dactilar, código PIN o tarjeta).
+
+---
+
+## Clases de resistencia — qué significan RC 2, RC 3, RC 4
+
+| Clase | Tiempo de resistencia | Herramientas | Aplicación |
+|---|---|---|---|
+| **RC 2** | **3 minutos** | **Palancas, destornilladores** | **Apartamentos estándar** |
+| **RC 3** | **5 minutos** | **Escoplos, palanca** | **Villa residencial** |
+| **RC 4** | **10 minutos** | **Sierra, taladro** | **Propiedades de alto riesgo** |
+
+---
+
+## El sistema de huella dactilar — por qué elimina la vulnerabilidad de la llave clásica
+
+Una llave clásica puede copiarse, perderse o robarse. Un cilindro de cerradura puede ser forzado mediante bumping o ganzúa en segundos. El acceso por huella dactilar elimina completamente estas vulnerabilidades.
+
+**Neofort BIZ fabrica e instala puertas antirrobo de aluminio y metal a medida, con personalización completa de dimensiones, acabados y sistemas de acceso.**
+
+**Para un presupuesto:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18**`,
+
+      it: `## Perché la porta d'ingresso è il punto critico di sicurezza di ogni abitazione
+
+Le statistiche europee mostrano che **oltre il 70% dei furti in abitazione** avviene attraverso la porta d'ingresso principale o posteriore — non dalle finestre. La soluzione moderna combina due livelli di protezione: **meccanico** (costruzione certificata RC 2–RC 4) e **biometrico** (impronta digitale, PIN o badge).
+
+---
+
+## Classi di resistenza — cosa significano RC 2, RC 3, RC 4
+
+| Classe | Tempo di resistenza | Strumenti dell'aggressore | Applicazione tipica |
+|---|---|---|---|
+| **RC 2** | **3 minuti** | **Leve, cacciaviti** | **Appartamenti standard** |
+| **RC 3** | **5 minuti** | **Scalpelli, piede di porco** | **Villa residenziale** |
+| **RC 4** | **10 minuti** | **Sega, trapano** | **Proprietà ad alto rischio** |
+
+---
+
+## Il sistema di impronta digitale — perché elimina la vulnerabilità della chiave classica
+
+Una chiave classica può essere copiata, persa o rubata. Un cilindro di serratura può essere aperto con bumping o grimaldelli in pochi secondi. L'accesso tramite impronta digitale elimina completamente queste vulnerabilità: non può essere copiata né persa, e la revoca dell'accesso a un utente richiede 3 secondi.
+
+I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistemi di allarme — ideali per le **smart home** a Roma, Milano, Bucarest e in tutta Europa.
+
+**Neofort BIZ produce e installa porte antieffrazione in alluminio e metallo su misura, con personalizzazione completa di dimensioni, finiture e sistemi di accesso.**
+
+**Per un preventivo:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
+    },
+  },
 ];
 
 // Găsește articol după slug în orice limbă

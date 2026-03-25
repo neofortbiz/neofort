@@ -266,6 +266,12 @@ export default async function BlogArticlePage({ params }) {
         <div className="article-grid">
 
           <main style={{minWidth:0}}>
+            {/* Video embed — YouTube Short */}
+            {a.video?.embed && (
+              <div style={{display:'flex',justifyContent:'center',margin:'0 0 40px',borderRadius:'12px',overflow:'hidden',background:'#f7f7f5',padding:'16px'}}>
+                <div dangerouslySetInnerHTML={{__html: a.video.embed}} />
+              </div>
+            )}
             <div dangerouslySetInnerHTML={{__html: contentHtml}} />
 
             {/* Articole similare jos în conținut */}
