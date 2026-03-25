@@ -196,7 +196,7 @@ const CONTENT = {
 
   fr: {
     title: 'Menuiserie PVC & Aluminium nZEB | Neofort BIZ Bucarest',
-    desc: 'Fournisseur menuiserie PVC Salamander et aluminium Alumil à Bucarest. Vitrage isolant nZEB, pose professionnelle, livraison dans toute l'Europe. 21 ans d'expérience.'expérience.',
+    desc: 'Fournisseur menuiserie PVC Salamander et aluminium Alumil à Bucarest. Vitrage isolant nZEB, pose professionnelle, livraison en Europe. 21 ans d\'expérience.'expérience.',
     h1: 'Menuiseries PVC Salamander & Aluminium Alumil — Neofort BIZ Bucarest',
     hero_pvc_label: 'Profilés PVC Salamander',
     hero_pvc_tag: 'Technologie Allemande',
