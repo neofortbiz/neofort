@@ -37,7 +37,7 @@ const UI = {
       ['Sector 6', 'Drumul Taberei, Militari, Giulești, Crângași'],
       ['Ilfov', 'Voluntari, Pipera, Otopeni, Snagov, Balotești, Bragadiru, Măgurele, Jilava'],
     ],
-    why_title: 'De ce să alegeți Neofort BIZ pentru tâmplărie PVC în București',
+    why_title: 'Tâmplărie PVC în București | Neofort BIZ',
     why: [
       ['21 ani experiență', 'Prezență continuă în piața bucureșteană din 2005, cu sute de proiecte rezidențiale și comerciale finalizate în Capitală.'],
       ['Echipe proprii de montaj', 'Nu subcontractăm montajul — echipele noastre sunt instruite și certificate pentru sistemele Salamander BluEvolution și GreenEvolution.'],
