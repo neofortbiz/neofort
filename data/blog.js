@@ -10153,7 +10153,7 @@ Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e 
     imageLabel: 'Osciloculisantă Dublă',
     accentColor: '#2d5a8e',
     video: {
-      embed: '\u003ciframe width="337" height="599" src="https://www.youtube.com/embed/OPVmdDvrnR0" title="Osciloculisanta dubla Termopane Salamander Neofort #termopane #construction #salamander" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen\u003e\u003c/iframe\u003e',
+      embed: '<div style="display:flex;justify-content:center;width:100%"><div style="position:relative;width:100%;max-width:360px;padding-bottom:177.78%;height:0;overflow:hidden;border-radius:8px"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" src="https://www.youtube.com/embed/OPVmdDvrnR0" title="Osciloculisantă Dublă PVC Salamander — Neofort BIZ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>',
       position: 'after-intro',
     },
     title: {
@@ -10647,7 +10647,7 @@ Neofort BIZ installa tutte le finestre secondo la **guida di posa RAL**, con con
     imageLabel: 'evolutionDrive Plus+',
     accentColor: '#4a7c59',
     video: {
-      embed: '<iframe width="951" height="535" src="https://www.youtube.com/embed/7aPRqZatCNs" title="Plase plisse culisante de dimensiuni mari pentru terase #termopan #salamander #plaseinsecte #plisse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+      embed: '<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" src="https://www.youtube.com/embed/7aPRqZatCNs" title="Plase plisse culisante de dimensiuni mari pentru terase #termopan #salamander #plaseinsecte #plisse" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>',
       position: 'after-intro',
     },
     title: {
@@ -10976,7 +10976,7 @@ Una porta scorrevole di 2,5–3,0 m richiede una protezione antizanzare adeguata
     imageLabel: 'evolutionDrive + M19800BT',
     accentColor: '#2d5a8e',
     video: {
-      embed: '<iframe width="951" height="535" src="https://www.youtube.com/embed/pwEFLLpYyY8" title="Montaj Tamplarie PVC Salamander Evolution Drive Plus Culisanta + Montaj Tamplarie Aluminiu Alumil M19800BT Armonica. TERMOPANE SALAMANDER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+      embed: '<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" src="https://www.youtube.com/embed/pwEFLLpYyY8" title="Montaj Tamplarie PVC Salamander Evolution Drive Plus Culisanta + Montaj Tamplarie Aluminiu Alumil M19800BT Armonica. TERMOPANE SALAMANDER" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>',
       position: 'after-intro',
     },
     title: {
@@ -11842,7 +11842,7 @@ Scopri di più sui nostri [infissi PVC Salamander](/it/infissi-pvc) e [infissi i
     imageLabel: 'Antiefracție + Amprentă',
     accentColor: '#1a1a2a',
     video: {
-      embed: '<iframe width="337" height="599" src="https://www.youtube.com/embed/lOWoBCug3Fg" title="Uși de intrare antiefracție comanda tactilă amprenta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+      embed: '<div style="display:flex;justify-content:center;width:100%"><div style="position:relative;width:100%;max-width:360px;padding-bottom:min(177.78%,calc(177.78% * 1));height:0;overflow:hidden;border-radius:8px"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" src="https://www.youtube.com/embed/lOWoBCug3Fg" title="Uși de intrare antiefracție comanda tactilă amprenta" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>',
       position: 'after-intro',
     },
     title: {
