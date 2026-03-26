@@ -27,6 +27,9 @@ const nextConfig = {
       { source: '/blog',             destination: '/ro/blog',           permanent: true },
       { source: '/servicii',         destination: '/ro/servicii',       permanent: true },
       { source: '/accesorii',        destination: '/ro/accesorii',      permanent: true },
+      // Fix dublu slash URLs (crawled de Google dar neindexate)
+      { source: '/en//tamplarie-pvc',  destination: '/en/pvc-windows',            permanent: true },
+      { source: '/en//pvc-windows',    destination: '/en/pvc-windows',            permanent: true },
     ];
   },
   async headers() {

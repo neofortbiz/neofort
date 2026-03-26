@@ -35,7 +35,7 @@ export async function generateMetadata({ params }) {
     },
     alternates: {
       canonical: `${BASE}/${locale}/blog/${mySlug}`,
-      languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${a.slugs[l] || a.slugs.ro}`])),
+      languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${a.slugs[l] || a.slugs.ro}`])), 'x-default': `${BASE}/ro/blog/${a.slugs.ro}` },
     },
     openGraph: {
       type: 'article',
