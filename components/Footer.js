@@ -85,10 +85,10 @@ export default function Footer() {
     const total    = allowed.reduce((sum, f) => sum + f.size, 0);
     if (tooBig.length > 0) {
       setStatus('error');
-      setErrorMsg(\`Fișierul "\${tooBig[0].name}" depășește limita de 5MB per fișier.\`);
+      setErrorMsg('Fisier prea mare (max 5MB): ' + tooBig[0].name);
     } else if (total > MAX_TOTAL) {
       setStatus('error');
-      setErrorMsg('Dimensiunea totală a fișierelor depășește 20MB. Reduceți numărul sau dimensiunea fișierelor.');
+      setErrorMsg('Total fisiere depaseste 20MB. Reduceti numarul sau dimensiunea.');
     } else {
       if (status === 'error') { setStatus('idle'); setErrorMsg(''); }
     }
