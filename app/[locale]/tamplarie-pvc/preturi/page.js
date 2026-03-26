@@ -302,7 +302,7 @@ export async function generateMetadata({ params }) {
       title: ui.h1, description: ui.sub,
       images: [{ url: `${BASE}/og/Tamplarie_PVC_Salamander.avif`, width: 1200, height: 630, alt: ui.h1, type: 'image/avif' }],
     }
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:ui.h1, description:ui.sub, images:[`${BASE}/og/Tamplarie_PVC_Salamander.avif`] },,
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:ui.h1, description:ui.sub, images:[`${BASE}/og/Tamplarie_PVC_Salamander.avif`] },
   };
 }
 
