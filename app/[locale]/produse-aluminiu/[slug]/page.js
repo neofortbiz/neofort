@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { Link } from '../../../../i18n/navigation';
 
 const BASE    = 'https://www.neofort-biz.ro';
+const PALU_SEG = {ro:'produse-aluminiu',en:'products-alu',de:'produkte-alu',fr:'produits-alu',es:'productos-alu',it:'prodotti-alu'};
 const LOCALES = ['ro','en','de','fr','es','it'];
 
 // ─── SLUG MAP — canonical → { ro, en, de, fr, es, it } ──────────────────────

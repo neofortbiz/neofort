@@ -3,6 +3,7 @@ import { Link } from '../../../../i18n/navigation';
 import { getTranslations } from 'next-intl/server';
 
 const BASE   = 'https://www.neofort-biz.ro';
+const PROD_SEG = {ro:'produse',en:'products',de:'produkte',fr:'produits',es:'productos',it:'prodotti'};
 const LOCALES = ['ro','en','de','fr','es','it'];
 
 // ─── SLUG MAP — slug canonical → { ro, en, de, fr, es, it } ─────────────────

@@ -3,6 +3,7 @@ import FaqAccordion from '../../../../components/FaqAccordion';
 import { Link } from '../../../../i18n/navigation';
 
 const BASE    = 'https://www.neofort-biz.ro';
+const UMB_SEG = {ro:'umbrire',en:'shading-systems',de:'beschattungssysteme',fr:'systemes-occultation',es:'sistemas-sombreado',it:'sistemi-oscuramento'};
 const LOCALES = ['ro','en','de','fr','es','it'];
 
 const SLUG_MAP = {

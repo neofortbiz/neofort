@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { Link } from '../../../../i18n/navigation';
 
 const BASE    = 'https://www.neofort-biz.ro';
+const ACC_SEG = {ro:'accesorii',en:'accessories',de:'zubehoer',fr:'accessoires',es:'accesorios',it:'accessori'};
 const LOCALES = ['ro','en','de','fr','es','it'];
 
 const SLUG_MAP = {

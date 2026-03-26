@@ -113,7 +113,7 @@ export const routing = defineRouting({
     '/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni': {
       ro: '/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
       en: '/blog/oversized-glass-installation-robot-vacuum-cups-large-panels',
-      de: '/blog/montage-uebergrosseglaesscheiben-roboter-saugnäpfe-grossformat',
+      de: '/blog/montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat',
       fr: '/blog/pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
       es: '/blog/instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
       it: '/blog/posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
@@ -265,7 +265,7 @@ export const routing = defineRouting({
     '/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni': {
       ro: '/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
       en: '/blog/oversized-glass-installation-robot-vacuum-cups-large-panels',
-      de: '/blog/montage-uebergrosseglaesscheiben-roboter-saugnäpfe-grossformat',
+      de: '/blog/montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat',
       fr: '/blog/pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
       es: '/blog/instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
       it: '/blog/posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',

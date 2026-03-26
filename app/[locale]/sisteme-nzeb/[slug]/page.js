@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { Link } from '../../../../i18n/navigation';
 
 const BASE    = 'https://www.neofort-biz.ro';
+const NZEB_SEG = {ro:'sisteme-nzeb',en:'nzeb-systems',de:'nzeb-systeme',fr:'systemes-nzeb',es:'sistemas-nzeb',it:'sistemi-nzeb'};
 const LOCALES = ['ro','en','de','fr','es','it'];
 
 const SLUG_MAP = {

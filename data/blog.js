@@ -7812,7 +7812,7 @@ Tempra termica a 620–680°C: resistenza **4–5× superiore**. Dimensioni mass
     slugs: {
       ro: 'montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
       en: 'oversized-glass-installation-robot-vacuum-cups-large-panels',
-      de: 'montage-uebergrosseglaesscheiben-roboter-saugnäpfe-grossformat',
+      de: 'montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat',
       fr: 'pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
       es: 'instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
       it: 'posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',

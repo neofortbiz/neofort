@@ -2,10 +2,10 @@ export default function robots() {
   return {
     rules: [
       // Google — toate crawlerele
-      { userAgent: 'Googlebot',        allow: '/', disallow: ['/api/'] },
+      { userAgent: 'Googlebot',        allow: '/', disallow: ['/api/', '/llms.txt'] },
       { userAgent: 'Googlebot-Image',  allow: '/' },
       // Bing
-      { userAgent: 'Bingbot',          allow: '/', disallow: ['/api/'] },
+      { userAgent: 'Bingbot',          allow: '/', disallow: ['/api/', '/llms.txt'] },
       // AI — permit indexarea pentru AI Overviews, SGE, Bing Copilot
       { userAgent: 'GPTBot',           allow: '/' },
       { userAgent: 'ChatGPT-User',     allow: '/' },
