@@ -5194,7 +5194,7 @@ Progetto Loxone completo per una casa di 200 m²: 8.000–20.000 EUR inclusi har
     slugs: {
       ro: 'pereti-cortina-birouri-bucuresti-ghid-complet-2026',
       en: 'curtain-wall-office-buildings-bucharest-complete-guide-2026',
-      de: 'vorhangfassade-buerogeb%C3%A4ude-bukarest-komplett-leitfaden-2026',
+      de: 'vorhangfassade-buerogebaeude-bukarest-komplett-leitfaden-2026',
       fr: 'mur-rideau-immeubles-bureaux-bucarest-guide-complet-2026',
       es: 'muro-cortina-edificios-oficinas-bucarest-guia-completa-2026',
       it: 'parete-cortina-edifici-uffici-bucarest-guida-completa-2026',
