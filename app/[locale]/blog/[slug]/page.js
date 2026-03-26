@@ -35,7 +35,7 @@ export async function generateMetadata({ params }) {
     },
     alternates: {
       canonical: `${BASE}/${locale}/blog/${mySlug}`,
-      languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${a.slugs[l] || a.slugs.ro}`])),
+      languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${a.slugs[l] || a.slugs.ro}`])), 'x-default': `${BASE}/ro/blog/${a.slugs.ro}` },
     },
     openGraph: {
       type: 'article',
@@ -56,6 +56,10 @@ export async function generateMetadata({ params }) {
 function renderMarkdown(md) {
   const esc = (s) => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
   const bold = (s) => esc(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
+  const links = (s) => bold(s).replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_,text,url) => {
+    const isExternal = url.startsWith('http');
+    return `<a href="${url}"${isExternal?' target="_blank" rel="noopener"':''} style="color:#e8721c;text-decoration:underline;text-underline-offset:2px">${text}</a>`;
+  });
 
   const lines = md.split('\n');
   let html = '';
@@ -95,7 +99,7 @@ function renderMarkdown(md) {
       while (i < lines.length && (lines[i].match(/^[-✅⚠️]/) || lines[i].match(/^\d+\. /))) {
         const text = lines[i].replace(/^[-✅⚠️]\s*/,'').replace(/^\d+\.\s*/,'');
         const pre  = lines[i].match(/^(✅|⚠️)/) ? lines[i].match(/^(✅|⚠️)/)[1]+' ' : '';
-        html += `<li style="margin-bottom:.5rem;padding-left:.2rem">${pre}${bold(text)}</li>`;
+        html += `<li style="margin-bottom:.5rem;padding-left:.2rem">${pre}${links(text)}</li>`;
         i++;
       }
       html += '</ul>';
@@ -103,7 +107,7 @@ function renderMarkdown(md) {
     } else if (line.startsWith('**') && line.endsWith('**') && !line.slice(2,-2).includes('**')) {
       html += `<p style="font-weight:600;color:#1a1a1a;font-size:.87rem;margin:1rem 0 .3rem">${esc(line.slice(2,-2))}</p>`;
     } else if (line.trim()) {
-      html += `<p style="font-size:.88rem;color:#555;line-height:1.85;margin:.8rem 0">${bold(line)}</p>`;
+      html += `<p style="font-size:.88rem;color:#555;line-height:1.85;margin:.8rem 0">${links(line)}</p>`;
     }
     i++;
   }
@@ -125,7 +129,22 @@ export default async function BlogArticlePage({ params }) {
   const mySlug  = a.slugs[locale]   || a.slugs.ro;
 
   const contentHtml = renderMarkdown(content);
-  const related  = ARTICLES.filter(r => r.slugs.ro !== a.slugs.ro).slice(0, 3);
+  // Related articles: aceeasi categorie intai, apoi altele
+  const sameCat = ARTICLES.filter(r => r.slugs.ro !== a.slugs.ro && r.category?.ro === a.category?.ro);
+  const otherCat = ARTICLES.filter(r => r.slugs.ro !== a.slugs.ro && r.category?.ro !== a.category?.ro);
+  const related = [...sameCat, ...otherCat].slice(0, 3);
+
+  // Schema VideoObject pentru articolele cu video
+  const videoSchema = a.video?.embed ? {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": title,
+    "description": a.metaDesc?.[locale] || excerpt,
+    "embedUrl": a.video.embed.match(/src="([^"]+)"/)?.[1] || '',
+    "thumbnailUrl": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`,
+    "uploadDate": a.date,
+    "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
+  } : null;
 
   const articleSchema = {
     "@context":"https://schema.org","@type":"BlogPosting",
@@ -194,6 +213,7 @@ export default async function BlogArticlePage({ params }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleWithAuthor) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
+      {videoSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(videoSchema) }}/>}
       {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>}
 
       <style>{`

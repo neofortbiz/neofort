@@ -129,45 +129,14 @@ export async function generateMetadata({ params }) {
     robots: { index: false, follow: false },
     alternates: {
       canonical: `${BASE}/${locale}/${slug}`,
-      languages: Object.fromEntries(Object.entries(SLUGS_GDPR).map(([l,s])=>[l,`${BASE}/${l}/${s}`])),
+      languages: { ...Object.fromEntries(Object.entries(SLUGS_GDPR).map(([l,s])=>[l,`${BASE}/${l}/${s}`])), 'x-default': `${BASE}/ro/gdpr` },
+    },
+    openGraph: {
+      type: 'website',
+      url: `${BASE}/${locale}/${slug}`,
+      siteName: 'Neofort BIZ',
+      title: ui.title_meta,
+      description: ui.desc_meta,
     },
   };
-}
-
-export default async function GdprPage({ params }) {
-  const { locale } = await params;
-  const ui = UI[locale] || UI.ro;
-  const schema = {
-    '@context': 'https://schema.org',
-    '@type': 'WebPage',
-    'name': ui.h1 + ' — Neofort BIZ',
-    'url': `${BASE}/${locale}/${SLUGS_GDPR[locale] || 'gdpr'}`,
-    'isPartOf': { '@id': `${BASE}/#website` },
-    'inLanguage': locale,
-  };
-
-  return (
-    <>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
-      <div className="page-header">
-        <div className="container mx-auto px-6">
-          <span className="sec-label">{ui.label}</span>
-          <h1 className="font-condensed text-4xl font-semibold text-primary mb-3">{ui.h1}</h1>
-          <p className="text-[0.9rem] text-muted">{ui.sub}</p>
-        </div>
-      </div>
-      <section className="py-20">
-        <div className="container mx-auto px-6 max-w-3xl">
-          <div className="prose prose-sm max-w-none space-y-8 text-[0.88rem] text-muted leading-relaxed">
-            {ui.sections.map((s, i) => (
-              <div key={i}>
-                <h2 className="font-condensed text-xl font-semibold text-primary mb-3">{s.h}</h2>
-                <p>{s.p}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-    </>
-  );
 }

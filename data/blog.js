@@ -5194,7 +5194,7 @@ Progetto Loxone completo per una casa di 200 m²: 8.000–20.000 EUR inclusi har
     slugs: {
       ro: 'pereti-cortina-birouri-bucuresti-ghid-complet-2026',
       en: 'curtain-wall-office-buildings-bucharest-complete-guide-2026',
-      de: 'vorhangfassade-buerogeb%C3%A4ude-bukarest-komplett-leitfaden-2026',
+      de: 'vorhangfassade-buerogebaeude-bukarest-komplett-leitfaden-2026',
       fr: 'mur-rideau-immeubles-bureaux-bucarest-guide-complet-2026',
       es: 'muro-cortina-edificios-oficinas-bucarest-guia-completa-2026',
       it: 'parete-cortina-edifici-uffici-bucarest-guida-completa-2026',
@@ -7812,7 +7812,7 @@ Tempra termica a 620–680°C: resistenza **4–5× superiore**. Dimensioni mass
     slugs: {
       ro: 'montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
       en: 'oversized-glass-installation-robot-vacuum-cups-large-panels',
-      de: 'montage-uebergrosseglaesscheiben-roboter-saugnäpfe-grossformat',
+      de: 'montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat',
       fr: 'pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
       es: 'instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
       it: 'posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
@@ -10310,7 +10310,7 @@ Lățime totală: până la 2,0–2,4 m. Înălțime: până la 2,2 m per canat.
 Da — este soluția standard pentru renovarea apartamentelor în blocuri din perioada 1960–1990. Se montează în gol existent fără lucrări de zidărie suplimentare.
 
 **Cât costă o osciloculisantă dublă Salamander BluEvolution 92?**
-Prețul variază în funcție de dimensiuni, culoare, geam și accesorii. Solicitați ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.`,
+Prețul variază în funcție de dimensiuni, culoare, geam și accesorii. Consultați [gama completă de tâmplărie PVC Salamander](/ro/tamplarie-pvc) sau [prețurile orientative](/ro/tamplarie-pvc/preturi). Solicitați ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.`,
 
       en: `## What is a double tilt-and-turn window and why it is the most popular choice in Bucharest
 
@@ -10386,6 +10386,8 @@ Urban noise in Bucharest — traffic, trams, construction — makes acoustic ins
 Salamander BluEvolution 92 profiles are manufactured from **Class A PVC** to EN 12608, with **3 mm wall thickness** — the German quality standard RAL GZ-716. Declared lifespan: **40–60 years** under normal use conditions.
 
 Neofort BIZ installs all windows to the **RAL installation standard**, including Blaugelb Triotherm+ subframes, pre-compressed butyl tape and anti-vapour membranes — ensuring real-world performance equal to the declared technical specifications.
+
+Explore our full [Salamander PVC range](/en/tamplarie-pvc) or see [indicative prices](/en/tamplarie-pvc/preturi).
 
 **For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**`,
 
@@ -10784,7 +10786,7 @@ evolutionDrive Plus+ este certificat clasa B5 de rezistență la vânt — cel m
 Da — există modele plissé pentru ferestre osciloculisante și batante, cu dimensiuni mai mici. Cadrul se fixează pe extradosul tocului fără intervenție în tâmplărie.
 
 **Prețul unui sistem evolutionDrive Plus+ cu plasă plissé?**
-Solicită ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.`,
+Consultați [gama de tâmplărie PVC Salamander](/ro/tamplarie-pvc) sau [accesoriile disponibile](/ro/accesorii). Solicită ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.`,
 
       en: `## Why sliding doors have become the standard for modern terraces and living rooms
 
@@ -10820,6 +10822,8 @@ The key difference: **sealing into the frame**. Unlike classic sliding doors whe
 A 2.5–3.0 m sliding door raises a practical issue: standard insect screens don't cover such large openings properly. The **plissé sliding screen** solves this elegantly with a folded mesh that compresses into compact pleats when open, covering the full width when closed.
 
 **Key advantages:** covers openings up to 3.0–4.0 m, opens from both ends, minimal visual obstruction, UV and moisture resistant.
+
+Explore our full [Salamander PVC range](/en/tamplarie-pvc) or see [indicative prices](/en/tamplarie-pvc/preturi).
 
 **For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**`,
 
@@ -11131,6 +11135,8 @@ Recomandăm montajul PVC culisant înainte de armonică — acesta setează nive
 **Cum se întreține sistemul armonice?**
 Ungerea anuală a rolelor cu ulei de siliconat și verificarea tensiunii garniturii de perie de la baza canatelor. Profilurile din aluminiu se curăță cu detergent neutru — nicio vopsire necesară.
 
+Aflați mai multe despre [sistemele PVC Salamander](/ro/tamplarie-pvc) și [tâmplăria aluminiu Alumil](/ro/tamplarie-aluminiu) pe care le furnizăm.
+
 **Prețuri și oferte:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**`,
 
       en: `## Project context — why combining PVC with aluminium is the premium choice
@@ -11158,6 +11164,8 @@ This combination — PVC sliding + aluminium folding — is increasingly common 
 | Available colours | **All RAL colours + wood effect finishes** |
 
 At full open, the sashes fold into a compact stack at one end — freeing **100% of the glazed opening** without any visual or physical obstruction.
+
+Explore our full [Salamander PVC range](/en/tamplarie-pvc) or see [indicative prices](/en/tamplarie-pvc/preturi).
 
 **For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**`,
 
@@ -11265,7 +11273,7 @@ A piena apertura, le ante si ripiegano in un pacchetto compatto — liberando il
 
   {
     slugs: {
-      ro: 'usi-intrare-antiefractie-comanda-tactica-amprenta-digitala-aluminiu',
+      ro: 'usi-intrare-antiefractie-comanda-tactila-amprenta-digitala-aluminiu',
       en: 'anti-burglary-entry-doors-fingerprint-touch-aluminium',
       de: 'einbruchsichere-eingangstuer-fingerabdruck-touchbedienung-aluminium',
       fr: 'porte-entree-anti-effraction-commande-tactile-empreinte-aluminium',
@@ -11436,6 +11444,8 @@ Neofort BIZ fabrică uși antiefracție **la comandă**, personalizate pentru fi
 3. **Montaj profesional** — echipă specializată, 4–8 ore per ușă
 4. **Certificat de garanție** — completă pe produs și manoperă
 5. **Service** — intervenții rapide pentru reglaje sau piese în garanție
+
+Vedeți și [tâmplăria noastră din aluminiu](/ro/tamplarie-aluminiu) sau [contactați-ne](/ro/contact) pentru o consultație gratuită la sediu.
 
 **Solicitați ofertă:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**`,
 

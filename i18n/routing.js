@@ -113,7 +113,7 @@ export const routing = defineRouting({
     '/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni': {
       ro: '/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
       en: '/blog/oversized-glass-installation-robot-vacuum-cups-large-panels',
-      de: '/blog/montage-uebergrosseglaesscheiben-roboter-saugnäpfe-grossformat',
+      de: '/blog/montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat',
       fr: '/blog/pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
       es: '/blog/instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
       it: '/blog/posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
@@ -177,7 +177,7 @@ export const routing = defineRouting({
     '/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni': {
       ro: '/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
       en: '/blog/oversized-glass-installation-robot-vacuum-cups-large-panels',
-      de: '/blog/montage-uebergrosseglaesscheiben-roboter-saugnäpfe-grossformat',
+      de: '/blog/montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat',
       fr: '/blog/pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
       es: '/blog/instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
       it: '/blog/posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
@@ -344,9 +344,9 @@ export const routing = defineRouting({
     },
     '/produse-aluminiu/alumil-s77-supreme':    { ro:'/produse-aluminiu/sistem-aluminiu-alumil-s77-supreme',    en:'/products-alu/alumil-s77-supreme-aluminium-system',    de:'/produkte-alu/alumil-s77-supreme-aluminiumsystem',    fr:'/produits-alu/systeme-aluminium-alumil-s77-supreme',    es:'/productos-alu/sistema-aluminio-alumil-s77-supreme',    it:'/prodotti-alu/sistema-alluminio-alumil-s77-supreme'    },
     '/produse-aluminiu/alumil-s67-smartia':    { ro:'/produse-aluminiu/sistem-aluminiu-alumil-s67-smartia',    en:'/products-alu/alumil-s67-smartia-aluminium-system',    de:'/produkte-alu/alumil-s67-smartia-aluminiumsystem',    fr:'/produits-alu/systeme-aluminium-alumil-s67-smartia',    es:'/productos-alu/sistema-aluminio-alumil-s67-smartia',    it:'/prodotti-alu/sistema-alluminio-alumil-s67-smartia'    },
-    '/produse-aluminiu/alumil-s700-supreme':   { ro:'/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme',   en:'/products-alu/alumil-s700-supreme-lift-slide-system',  de:'/produkte-alu/alumil-s700-supreme-hebeschiebesystem',  fr:'/produits-alu/systeme-coulissant-alumil-s700-supreme',  es:'/productos-alu/sistema-corredera-alumil-s700-supreme',  it:'/prodotti-alu/sistema-scorrevole-alumil-s700-supreme'  },
-    '/produse-aluminiu/alumil-s350-smartia':   { ro:'/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia',   en:'/products-alu/alumil-s350-smartia-lift-slide-system',  de:'/produkte-alu/alumil-s350-smartia-hebeschiebesystem',  fr:'/produits-alu/systeme-coulissant-alumil-s350-smartia',  es:'/productos-alu/sistema-corredera-alumil-s350-smartia',  it:'/prodotti-alu/sistema-scorrevole-alumil-s350-smartia'  },
-    '/produse-aluminiu/alumil-sf85-supreme':   { ro:'/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme',   en:'/products-alu/alumil-sf85-supreme-folding-system',     de:'/produkte-alu/alumil-sf85-supreme-faltsystem',         fr:'/produits-alu/systeme-pliant-alumil-sf85-supreme',      es:'/productos-alu/sistema-plegable-alumil-sf85-supreme',   it:'/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme'  },
+    '/produse-aluminiu/alumil-s700-supreme':   { ro:'/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme',   en:'/products-alu/alumil-s700-supreme-lift-slide-system',  de:'/produkte-alu/alumil-s700-supreme-hebeschiebesystem',  fr:'/produits-alu/systeme-levant-coulissant-alumil-s700-supreme',  es:'/productos-alu/sistema-elevador-corredera-alumil-s700-supreme',  it:'/prodotti-alu/sistema-alzante-scorrevole-alumil-s700-supreme'  },
+    '/produse-aluminiu/alumil-s350-smartia':   { ro:'/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia',   en:'/products-alu/alumil-s350-smartia-sliding-door-system',  de:'/produkte-alu/alumil-s350-smartia-schiebesystem',  fr:'/produits-alu/systeme-coulissant-alumil-s350-smartia',  es:'/productos-alu/sistema-corredera-alumil-s350-smartia',  it:'/prodotti-alu/sistema-scorrevole-alumil-s350-smartia'  },
+    '/produse-aluminiu/alumil-sf85-supreme':   { ro:'/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme',   en:'/products-alu/alumil-sf85-supreme-casement-window-system',     de:'/produkte-alu/alumil-sf85-supreme-fenster-system',         fr:'/produits-alu/systeme-fenetres-alumil-sf85-supreme',      es:'/productos-alu/sistema-ventanas-alumil-sf85-supreme',   it:'/prodotti-alu/sistema-finestre-alumil-sf85-supreme'  },
     '/produse-aluminiu/alumil-m19800-smartia': { ro:'/produse-aluminiu/sistem-aluminiu-alumil-m19800-smartia', en:'/products-alu/alumil-m19800-smartia-folding-system',   de:'/produkte-alu/alumil-m19800-smartia-faltsystem',       fr:'/produits-alu/systeme-pliant-alumil-m19800-smartia',    es:'/productos-alu/sistema-plegable-alumil-m19800-smartia', it:'/prodotti-alu/sistema-pieghevole-alumil-m19800-smartia'},
     '/umbrire': {
       ro: '/umbrire',
@@ -450,7 +450,7 @@ export const routing = defineRouting({
       de: '/zubehoer/aereco-hygroregelbare-lueftungsgitter',
       fr: '/accessoires/grille-hygroreglable-aereco-ventilation',
       es: '/accesorios/rejilla-higrorreglable-aereco-ventilacion',
-      it: '/accessori/griglia-igroregolab-aereco-ventilazione',
+      it: '/accessori/griglia-igroregolabile-aereco-ventilazione',
     },
   }
 });

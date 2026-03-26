@@ -27,6 +27,22 @@ const nextConfig = {
       { source: '/blog',             destination: '/ro/blog',           permanent: true },
       { source: '/servicii',         destination: '/ro/servicii',       permanent: true },
       { source: '/accesorii',        destination: '/ro/accesorii',      permanent: true },
+      // ── Redirecturi sluguri blog corectate ──
+      { source: '/ro/blog/usi-intrare-antiefractie-comanda-tactica-amprenta-digitala-aluminiu', destination: '/ro/blog/usi-intrare-antiefractie-comanda-tactila-amprenta-digitala-aluminiu', permanent: true },
+      { source: '/de/blog/vorhangfassade-buerogeb%C3%A4ude-bukarest-komplett-leitfaden-2026', destination: '/de/blog/vorhangfassade-buerogebaeude-bukarest-komplett-leitfaden-2026', permanent: true },
+      { source: '/de/blog/montage-uebergrosseglaesscheiben-roboter-saugn%C3%A4pfe-grossformat', destination: '/de/blog/montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat', permanent: true },
+      // ── Redirecturi produse-aluminiu sluguri semantice corectate ──
+      { source: '/en/products-alu/alumil-sf85-supreme-folding-system', destination: '/en/products-alu/alumil-sf85-supreme-casement-window-system', permanent: true },
+      { source: '/de/produkte-alu/alumil-sf85-supreme-faltsystem', destination: '/de/produkte-alu/alumil-sf85-supreme-fenster-system', permanent: true },
+      { source: '/fr/produits-alu/systeme-pliant-alumil-sf85-supreme', destination: '/fr/produits-alu/systeme-fenetres-alumil-sf85-supreme', permanent: true },
+      { source: '/es/productos-alu/sistema-plegable-alumil-sf85-supreme', destination: '/es/productos-alu/sistema-ventanas-alumil-sf85-supreme', permanent: true },
+      { source: '/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme', destination: '/it/prodotti-alu/sistema-finestre-alumil-sf85-supreme', permanent: true },
+      { source: '/en/products-alu/alumil-s350-smartia-lift-slide-system', destination: '/en/products-alu/alumil-s350-smartia-sliding-door-system', permanent: true },
+      { source: '/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem', destination: '/de/produkte-alu/alumil-s350-smartia-schiebesystem', permanent: true },
+      { source: '/fr/produits-alu/systeme-coulissant-alumil-s700-supreme', destination: '/fr/produits-alu/systeme-levant-coulissant-alumil-s700-supreme', permanent: true },
+      { source: '/es/productos-alu/sistema-corredera-alumil-s700-supreme', destination: '/es/productos-alu/sistema-elevador-corredera-alumil-s700-supreme', permanent: true },
+      { source: '/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme', destination: '/it/prodotti-alu/sistema-alzante-scorrevole-alumil-s700-supreme', permanent: true },
+      { source: '/it/accessori/griglia-igroregolab-aereco-ventilazione', destination: '/it/accessori/griglia-igroregolabile-aereco-ventilazione', permanent: true },
     ];
   },
   async headers() {

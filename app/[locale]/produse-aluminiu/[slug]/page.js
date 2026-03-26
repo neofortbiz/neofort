@@ -8,9 +8,9 @@ const LOCALES = ['ro','en','de','fr','es','it'];
 const SLUG_MAP = {
   'alumil-s77-supreme':    { ro:'sistem-aluminiu-alumil-s77-supreme',    en:'alumil-s77-supreme-aluminium-system',    de:'alumil-s77-supreme-aluminiumsystem',    fr:'systeme-aluminium-alumil-s77-supreme',    es:'sistema-aluminio-alumil-s77-supreme',    it:'sistema-alluminio-alumil-s77-supreme'    },
   'alumil-s67-smartia':    { ro:'sistem-aluminiu-alumil-s67-smartia',    en:'alumil-s67-smartia-aluminium-system',    de:'alumil-s67-smartia-aluminiumsystem',    fr:'systeme-aluminium-alumil-s67-smartia',    es:'sistema-aluminio-alumil-s67-smartia',    it:'sistema-alluminio-alumil-s67-smartia'    },
-  'alumil-s700-supreme':   { ro:'sistem-aluminiu-alumil-s700-supreme',   en:'alumil-s700-supreme-lift-slide-system',  de:'alumil-s700-supreme-hebeschiebesystem',  fr:'systeme-coulissant-alumil-s700-supreme',  es:'sistema-corredera-alumil-s700-supreme',  it:'sistema-scorrevole-alumil-s700-supreme'  },
-  'alumil-s350-smartia':   { ro:'sistem-aluminiu-alumil-s350-smartia',   en:'alumil-s350-smartia-lift-slide-system',  de:'alumil-s350-smartia-hebeschiebesystem',  fr:'systeme-coulissant-alumil-s350-smartia',  es:'sistema-corredera-alumil-s350-smartia',  it:'sistema-scorrevole-alumil-s350-smartia'  },
-  'alumil-sf85-supreme':   { ro:'sistem-aluminiu-alumil-sf85-supreme',   en:'alumil-sf85-supreme-folding-system',     de:'alumil-sf85-supreme-faltsystem',         fr:'systeme-pliant-alumil-sf85-supreme',      es:'sistema-plegable-alumil-sf85-supreme',   it:'sistema-pieghevole-alumil-sf85-supreme'  },
+  'alumil-s700-supreme':   { ro:'sistem-aluminiu-alumil-s700-supreme',   en:'alumil-s700-supreme-lift-slide-system',  de:'alumil-s700-supreme-hebeschiebesystem',  fr:'systeme-levant-coulissant-alumil-s700-supreme',  es:'sistema-elevador-corredera-alumil-s700-supreme',  it:'sistema-alzante-scorrevole-alumil-s700-supreme'  },
+  'alumil-s350-smartia':   { ro:'sistem-aluminiu-alumil-s350-smartia',   en:'alumil-s350-smartia-sliding-door-system',  de:'alumil-s350-smartia-schiebesystem',  fr:'systeme-coulissant-alumil-s350-smartia',  es:'sistema-corredera-alumil-s350-smartia',  it:'sistema-scorrevole-alumil-s350-smartia'  },
+  'alumil-sf85-supreme':   { ro:'sistem-aluminiu-alumil-sf85-supreme',   en:'alumil-sf85-supreme-casement-window-system',     de:'alumil-sf85-supreme-fenster-system',         fr:'systeme-fenetres-alumil-sf85-supreme',      es:'sistema-ventanas-alumil-sf85-supreme',   it:'sistema-finestre-alumil-sf85-supreme'  },
   'alumil-m19800-smartia': { ro:'sistem-aluminiu-alumil-m19800-smartia', en:'alumil-m19800-smartia-folding-system',   de:'alumil-m19800-smartia-faltsystem',       fr:'systeme-pliant-alumil-m19800-smartia',    es:'sistema-plegable-alumil-m19800-smartia', it:'sistema-pieghevole-alumil-m19800-smartia'},
 };
 
@@ -392,14 +392,14 @@ export async function generateMetadata({ params }) {
     keywords: `${name} · Neofort BIZ · tâmplărie PVC Salamander · aluminiu Alumil · București`,
     robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/produse-aluminiu/${localSlug}`,
+      canonical: `${BASE}/${locale}/${(PALU_SEG[locale]||'produse-aluminiu')}/${localSlug}`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/produse-aluminiu/${altSlug(l)}`]),
-        ['x-default', `${BASE}/ro/produse-aluminiu/${altSlug('ro')}`],
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${(PALU_SEG[l]||'produse-aluminiu')}/${altSlug(l)}`]),
+        ['x-default', `${BASE}/ro/${(PALU_SEG['ro']||'produse-aluminiu')}/${altSlug('ro')}`],
       ]),
     },
     openGraph: {
-      type:'website', url:`${BASE}/${locale}/produse-aluminiu/${localSlug}`,
+      type:'website', url:`${BASE}/${locale}/${(PALU_SEG[locale]||'produse-aluminiu')}/${localSlug}`,
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
       images:[{ url:`${BASE}${product.img}`, width:800, height:600, alt:name }],
     },

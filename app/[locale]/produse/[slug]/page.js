@@ -592,14 +592,20 @@ export async function generateMetadata({ params }) {
     keywords: `${name} · Neofort BIZ · tâmplărie PVC Salamander · aluminiu Alumil · București`,
     robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/produse/${localSlug}`,
+      canonical: (() => {
+      const seg = {ro:'produse',en:'products',de:'produkte',fr:'produits',es:'productos',it:'prodotti'}[locale] || 'produse';
+      return `${BASE}/${locale}/${seg}/${localSlug}`;
+    })(),
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/produse/${altSlug(l)}`]),
+        ...LOCALES.map(l => {
+        const seg = {ro:'produse',en:'products',de:'produkte',fr:'produits',es:'productos',it:'prodotti'}[l] || 'produse';
+        return [l, `${BASE}/${l}/${seg}/${altSlug(l)}`];
+      }),
         ['x-default', `${BASE}/ro/produse/${altSlug('ro')}`],
       ]),
     },
     openGraph: {
-      type:'website', url:`${BASE}/${locale}/produse/${localSlug}`,
+      type:'website', url:(() => { const seg = {ro:'produse',en:'products',de:'produkte',fr:'produits',es:'productos',it:'prodotti'}[locale] || 'produse'; return `${BASE}/${locale}/${seg}/${localSlug}`; })(),
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`,
       description: desc,
       images:[{ url:`${BASE}${product.img}`, width:800, height:600, alt:name }],
