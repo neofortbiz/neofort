@@ -17,6 +17,7 @@ export default function Footer() {
   const [files, setFiles] = useState([]);
   const [gdpr, setGdpr] = useState(false);
   const [status, setStatus] = useState('idle');
+  const [errorMsg, setErrorMsg] = useState('');
   const [err, setErr] = useState(EMPTY_ERR);
 
   // Lista produse per limbă din messages
@@ -74,7 +75,25 @@ export default function Footer() {
   };
   const ft = FORM_TEXTS[locale] || FORM_TEXTS.ro;
 
-  const handleFiles = (e) => setFiles(Array.from(e.target.files).slice(0, 7));
+  const handleFiles = (e) => {
+    const MAX_PER_FILE = 5 * 1024 * 1024;  // 5MB per fisier
+    const MAX_TOTAL    = 20 * 1024 * 1024; // 20MB total
+    const MAX_COUNT    = 7;
+    const selected = Array.from(e.target.files);
+    const tooBig   = selected.filter(f => f.size > MAX_PER_FILE);
+    const allowed  = selected.filter(f => f.size <= MAX_PER_FILE).slice(0, MAX_COUNT);
+    const total    = allowed.reduce((sum, f) => sum + f.size, 0);
+    if (tooBig.length > 0) {
+      setStatus('error');
+      setErrorMsg(\`Fișierul "\${tooBig[0].name}" depășește limita de 5MB per fișier.\`);
+    } else if (total > MAX_TOTAL) {
+      setStatus('error');
+      setErrorMsg('Dimensiunea totală a fișierelor depășește 20MB. Reduceți numărul sau dimensiunea fișierelor.');
+    } else {
+      if (status === 'error') { setStatus('idle'); setErrorMsg(''); }
+    }
+    setFiles(allowed);
+  };
 
   const validate = (form) => {
     const e = { ...EMPTY_ERR };
@@ -120,9 +139,15 @@ export default function Footer() {
     try {
       const res  = await fetch('/api/contact', { method:'POST', body:fd });
       const json = await res.json();
-      if (json.success) { setStatus('success'); form.reset(); setFiles([]); setGdpr(false); setErr(EMPTY_ERR); }
-      else { setStatus('error'); }
-    } catch { setStatus('error'); }
+      if (json.success) { setStatus('success'); setErrorMsg(''); form.reset(); setFiles([]); setGdpr(false); setErr(EMPTY_ERR); }
+      else {
+        setStatus('error');
+        setErrorMsg(json.error || '');
+      }
+    } catch (err) {
+      setStatus('error');
+      setErrorMsg('');
+    }
   };
 
   const iBase = { width:'100%', background:'transparent', border:'none', padding:'10px 0', fontFamily:'Barlow,sans-serif', fontSize:'.82rem', fontWeight:300, color:'#ddd', outline:'none', boxSizing:'border-box' };
@@ -258,9 +283,27 @@ export default function Footer() {
                   <ErrMsg field="gdpr"/>
                 </div>
 
+                {/* Eroare server — banner rosu elegant */}
+                {status === 'error' && (
+                  <div style={{margin:'0 0 2px',padding:'14px 18px',border:'1.5px solid #c0392b',borderRadius:'3px',background:'rgba(192,57,43,0.07)',display:'flex',alignItems:'flex-start',gap:'12px',animation:'fadeIn .25s ease'}}>
+                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" style={{flexShrink:0,marginTop:'1px'}}>
+                      <circle cx="9" cy="9" r="8" stroke="#c0392b" strokeWidth="1.5"/>
+                      <path d="M9 5v5M9 12v1" stroke="#c0392b" strokeWidth="1.5" strokeLinecap="round"/>
+                    </svg>
+                    <div>
+                      <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.12em',textTransform:'uppercase',color:'#c0392b',marginBottom:'3px'}}>
+                        {t('error')}
+                      </div>
+                      <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.7rem',letterSpacing:'.05em',color:'#e05252',lineHeight:1.5}}>
+                        {errorMsg || t('error_desc')}
+                      </div>
+                    </div>
+                  </div>
+                )}
+
                 {/* Submit */}
                 <button type="submit" disabled={status==='sending'}
-                  style={{width:'100%',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.76rem',letterSpacing:'.25em',textTransform:'uppercase',color:'#fff',background: status==='sending' ? '#222' : '#1a1a1a',border:'none',borderTop:'1px solid #2a2a2a',padding:'16px 48px',cursor: status==='sending' ? 'not-allowed' : 'pointer',display:'block',transition:'background .2s'}}>
+                  style={{width:'100%',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.76rem',letterSpacing:'.25em',textTransform:'uppercase',color:status==='error'?'#e05252':'#fff',background:status==='sending'?'#222':status==='error'?'rgba(192,57,43,0.12)':'#1a1a1a',border:status==='error'?'1px solid #c0392b':'none',borderTop:status==='error'?'1px solid #c0392b':'1px solid #2a2a2a',padding:'16px 48px',cursor:status==='sending'?'not-allowed':'pointer',display:'block',transition:'background .2s,color .2s,border-color .2s'}}>
                   {status==='sending' ? t('sending') : status==='error' ? t('error') : t('submit')}
                 </button>
 

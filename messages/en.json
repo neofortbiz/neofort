@@ -458,7 +458,8 @@
     "gdpr_privacy": "Privacy Policy",
     "gdpr_and": "and",
     "gdpr_cookies": "Cookie Policy",
-    "gdpr_of": "of Neofort BIZ. *"
+    "gdpr_of": "of Neofort BIZ. *",
+    "error_desc": "The message could not be sent. Please check your connection and try again, or contact us directly at oferte@neofort-biz.ro"
   },
   "blog": {
     "title": "PVC & Aluminium Windows Technical Blog | Neofort BIZ",

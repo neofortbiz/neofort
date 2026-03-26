@@ -458,7 +458,8 @@
     "gdpr_privacy": "Politica de Confidențialitate",
     "gdpr_and": "și",
     "gdpr_cookies": "Politica de Cookies",
-    "gdpr_of": "a Neofort BIZ. *"
+    "gdpr_of": "a Neofort BIZ. *",
+    "error_desc": "Mesajul nu a putut fi trimis. Verificați conexiunea și încercați din nou sau scrieți-ne direct la oferte@neofort-biz.ro"
   },
   "blog": {
     "title": "Blog Tehnic Tâmplărie PVC & Aluminiu | Neofort BIZ",

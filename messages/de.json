@@ -163,7 +163,8 @@
     "gdpr_privacy": "Datenschutzrichtlinie",
     "gdpr_and": "und",
     "gdpr_cookies": "Cookie-Richtlinie",
-    "gdpr_of": "von Neofort BIZ. *"
+    "gdpr_of": "von Neofort BIZ. *",
+    "error_desc": "Die Nachricht konnte nicht gesendet werden. Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut oder schreiben Sie uns direkt an oferte@neofort-biz.ro"
   },
   "blog": {
     "title": "Technischer Blog PVC & Aluminiumfenster | Neofort BIZ",

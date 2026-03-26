@@ -163,7 +163,8 @@
     "gdpr_privacy": "Politique de confidentialité",
     "gdpr_and": "et la",
     "gdpr_cookies": "Politique de cookies",
-    "gdpr_of": "de Neofort BIZ. *"
+    "gdpr_of": "de Neofort BIZ. *",
+    "error_desc": "Le message n'a pas pu être envoyé. Vérifiez votre connexion et réessayez, ou écrivez-nous directement à oferte@neofort-biz.ro"
   },
   "blog": {
     "title": "Blog Technique Menuiserie PVC & Aluminium | Neofort",

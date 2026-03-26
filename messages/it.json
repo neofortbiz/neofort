@@ -163,7 +163,8 @@
     "gdpr_privacy": "Informativa sulla privacy",
     "gdpr_and": "e la",
     "gdpr_cookies": "Politica sui cookie",
-    "gdpr_of": "di Neofort BIZ. *"
+    "gdpr_of": "di Neofort BIZ. *",
+    "error_desc": "Il messaggio non ha potuto essere inviato. Verificate la connessione e riprovate, oppure scriveteci direttamente a oferte@neofort-biz.ro"
   },
   "blog": {
     "title": "Blog Tecnico Infissi PVC & Alluminio | Neofort BIZ",

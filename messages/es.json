@@ -163,7 +163,8 @@
     "gdpr_privacy": "Política de privacidad",
     "gdpr_and": "y la",
     "gdpr_cookies": "Política de cookies",
-    "gdpr_of": "de Neofort BIZ. *"
+    "gdpr_of": "de Neofort BIZ. *",
+    "error_desc": "El mensaje no pudo enviarse. Compruebe su conexión e inténtelo de nuevo, o escríbanos directamente a oferte@neofort-biz.ro"
   },
   "blog": {
     "title": "Blog Técnico Carpintería PVC & Aluminio | Neofort BIZ",
