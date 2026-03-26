@@ -61,13 +61,11 @@ export async function generateMetadata({ params }) {
   const m = META[locale] || META.ro;
   return {
     title: m.title, description: m.desc,
-    robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1 } },
     alternates: {
       canonical: `${BASE}/${locale}/blog`,
-      languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog`])), 'x-default': `${BASE}/ro/blog` },
+      languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog`])),
     },
     openGraph: { type:'website', url:`${BASE}/${locale}/blog`, title:m.title, description:m.desc, siteName:'Neofort BIZ', images:[{ url:`${BASE}/og/BLOG.avif`, width:1200, height:630, type:'image/avif' }] },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:m.title, description:m.desc, images:[`${BASE}/og/BLOG.avif`] },
   };
 }
 

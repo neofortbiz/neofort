@@ -356,14 +356,14 @@ export async function generateMetadata({ params }) {
     keywords: `${name} · Neofort BIZ · tâmplărie PVC Salamander · aluminiu Alumil · București`,
     robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${(NZEB_SEG[locale]||'sisteme-nzeb')}/${localSlug}`,
+      canonical: `${BASE}/${locale}/sisteme-nzeb/${localSlug}`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${(NZEB_SEG[l]||'sisteme-nzeb')}/${altSlug(l)}`]),
-        ['x-default', `${BASE}/ro/${(NZEB_SEG['ro']||'sisteme-nzeb')}/${altSlug('ro')}`],
+        ...LOCALES.map(l => [l, `${BASE}/${l}/sisteme-nzeb/${altSlug(l)}`]),
+        ['x-default', `${BASE}/ro/sisteme-nzeb/${altSlug('ro')}`],
       ]),
     },
     openGraph: {
-      type:'website', url:`${BASE}/${locale}/${(NZEB_SEG[locale]||'sisteme-nzeb')}/${localSlug}`,
+      type:'website', url:`${BASE}/${locale}/sisteme-nzeb/${localSlug}`,
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
       images:[{ url:`${BASE}${product.img}`, width:800, height:600, alt:name }],
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img}`] },

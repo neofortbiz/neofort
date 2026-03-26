@@ -5194,7 +5194,7 @@ Progetto Loxone completo per una casa di 200 m²: 8.000–20.000 EUR inclusi har
     slugs: {
       ro: 'pereti-cortina-birouri-bucuresti-ghid-complet-2026',
       en: 'curtain-wall-office-buildings-bucharest-complete-guide-2026',
-      de: 'vorhangfassade-buerogebaeude-bukarest-komplett-leitfaden-2026',
+      de: 'vorhangfassade-buerogeb%C3%A4ude-bukarest-komplett-leitfaden-2026',
       fr: 'mur-rideau-immeubles-bureaux-bucarest-guide-complet-2026',
       es: 'muro-cortina-edificios-oficinas-bucarest-guia-completa-2026',
       it: 'parete-cortina-edifici-uffici-bucarest-guida-completa-2026',
@@ -7812,7 +7812,7 @@ Tempra termica a 620–680°C: resistenza **4–5× superiore**. Dimensioni mass
     slugs: {
       ro: 'montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
       en: 'oversized-glass-installation-robot-vacuum-cups-large-panels',
-      de: 'montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat',
+      de: 'montage-uebergrosseglaesscheiben-roboter-saugnäpfe-grossformat',
       fr: 'pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
       es: 'instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
       it: 'posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
@@ -11273,7 +11273,7 @@ A piena apertura, le ante si ripiegano in un pacchetto compatto — liberando il
 
   {
     slugs: {
-      ro: 'usi-intrare-antiefractie-comanda-tactila-amprenta-digitala-aluminiu',
+      ro: 'usi-intrare-antiefractie-comanda-tactica-amprenta-digitala-aluminiu',
       en: 'anti-burglary-entry-doors-fingerprint-touch-aluminium',
       de: 'einbruchsichere-eingangstuer-fingerabdruck-touchbedienung-aluminium',
       fr: 'porte-entree-anti-effraction-commande-tactile-empreinte-aluminium',

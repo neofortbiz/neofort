@@ -120,10 +120,10 @@ export async function generateMetadata({ params }) {
   return {
     title: ui.title_meta,
     description: ui.desc_meta,
-    robots: { index:false, follow:false },
+    robots: { index: true, follow: true },
     alternates: {
       canonical: `${BASE}/${locale}/${slug}`,
-      languages: { ...Object.fromEntries(Object.entries(SLUGS).map(([l,s])=>[l,`${BASE}/${l}/${s}`])), 'x-default': `${BASE}/ro/cookies` },
+      languages: Object.fromEntries(Object.entries(SLUGS).map(([l,s])=>[l,`${BASE}/${l}/${s}`])),
     },
     openGraph: {
       type: 'website',
