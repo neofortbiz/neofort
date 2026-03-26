@@ -11012,263 +11012,815 @@ Una porta scorrevole di 2,5–3,0 m richiede una protezione antizanzare adeguata
       it: 'posa Salamander evolutionDrive Plus Bucarest, Alumil M19800BT porte pieghevoli posa, sistema combinato PVC alluminio terrazza, Alumil Smartia M19800BT taglio termico',
     },
     content: {
-      ro: `## Contextul proiectului — de ce combinarea PVC cu aluminiu este alegerea premium
+      ro: `## Ușa culisantă Salamander evolutionDrive Plus+ — cel mai avansat sistem glisant PVC din 2026
 
-La o vilă rezidențială din zona București-Ilfov, proprietarii au solicitat o soluție completă pentru conectarea livingului cu terasa și grădina: **o ușă culisantă PVC** pentru trecerea zilnică și **un sistem de uși armonice din aluminiu** pentru deschiderea totală a peretelui în situații speciale (petreceri, vreme caldă).
+### Ce este Salamander evolutionDrive Plus+?
 
-Această combinație — PVC culisant + aluminiu armonicaj — este tot mai frecventă în proiectele rezidențiale premium din București, deoarece oferă cel mai bun raport funcționalitate-estetică-cost:
+Salamander **evolutionDrive Plus+** este **sistemul glisant PVC cu etanșare paralelă** lansat de Salamander Industrie-Produkte GmbH (Bavaria, Germania) — producătorul de profile PVC cu tradiție de peste 40 de ani în industria tâmplăriei europene. Lansat în România în 2023, evolutionDrive Plus+ a redefinit standardul pentru uși culisante de terasă PVC, aducând o etanșare brevetată de calitate HST (liftant-glisant) la un cost semnificativ mai accesibil.
 
-- **PVC evolutionDrive Plus+** — confort termic superior, cost mai accesibil, ideal pentru utilizare zilnică
-- **Alumil M19800BT** — deschidere totală 100% a golului, structură metalică robustă, aspect architectural premium
+Spre deosebire de sistemele glisante clasice (PSK — oscilo-culisant sau HST — liftant-glisant), evolutionDrive Plus+ funcționează prin **glisare orizontală paralelă**: canatul nu se ridică înainte de a aluneca, ci se deplasează strict paralel cu tocul pe toată mișcarea de deschidere. Aceasta elimină uzura inegală a garniturii și asigură o etanșare perfectă la fiecare utilizare, indiferent dacă ușa este acționată de 3 ori sau de 3.000 de ori.
 
 ---
 
-## Salamander evolutionDrive Plus+ — specificații și avantaje în context rezidențial premium
-
-Sistemul evolutionDrive Plus+ este **generația nouă** de uși culisante PVC Salamander, cu etanșare paralelă în toc — cea mai bună etanșare disponibilă pentru sisteme glisante PVC.
-
-### Date tehnice evolutionDrive Plus+
+### Specificații tehnice evolutionDrive Plus+
 
 | Parametru | Valoare |
 |---|---|
-| Adâncime cadru | **76 mm** |
-| Etanșare | **Paralelă în toc — sistem brevet** |
-| Uw sistem | **0,8–1,0 W/m²K** |
-| Izolare fonică | **42 dB** |
-| Rezistență vânt | **B5 — cel mai înalt nivel PVC culisant** |
+| Profil bază | **Salamander BluEvolution 92** (76 mm adâncime) |
+| Număr camere | **7 camere** |
+| Uw sistem (geam tripan) | **0,71–1,0 W/m²K** |
+| Uf ramă | **0,95 W/m²K** |
+| Izolare fonică | **42–44 dB** |
+| Rezistență vânt | **Clasa B5** (maximul pentru PVC glisant) |
+| Etanșare la apă | **Clasa 8A** (EN 12208) |
+| Permeabilitate la aer | **Clasa 4** (EN 12207) |
 | Antiefracție | **RC 2** |
-| Greutate max canat | **400 kg** |
-| Lățime max canat | **3,0 m** |
-
-### De ce evolutionDrive Plus+ și nu un glisant HST de aluminiu?
-
-La utilizare zilnică, PVC-ul oferă avantaje clare față de aluminiu:
-- **Izolare termică superioară** — conductivitate termică PVC = 0,17 W/mK vs aluminiu = 160 W/mK
-- **Fără condens** pe profil iarna — PVC nu conduce frigul spre interior
-- **Cost mai accesibil** cu 30–40% față de un HST aluminiu echivalent
-- **Mentenanță zero** — PVC nu necesită vopsire, nu oxidează
+| Greutate maximă per canat | **400 kg** |
+| Dimensiune maximă canat | **1.950 mm × 2.250 mm** |
+| Dimensiune maximă cadru | **4.000 mm × 2.600 mm** |
+| Configurații disponibile | **2, 3 sau 4 canaturi** |
+| Compatibilitate Smart Home | **Da — Somfy, Nice, KNX** |
 
 ---
 
-## Alumil Smartia M19800BT — ușa armonică cu barieră termică pentru deschideri largi
+### Etanșarea paralelă brevetată — de ce contează
 
-### Ce este Alumil M19800BT
+Sistemele glisante convenționale comprimă garnitura **oblic sau prin ridicare**, ceea ce generează uzură inegală și pierderea treptată a etanșeității. evolutionDrive Plus+ folosește un mecanism în care canatul **se deplasează strict paralel cu tocul** în toată faza de mișcare, presând garnitura uniform pe întreaga suprafață de contact simultan.
 
-**Smartia M19800BT** este sistemul de uși armonice (accordion/folding) din aluminiu produs de Alumil Group (Grecia), gama Smartia — varianta **BT = Barieră Termică**. Este soluția de referință pentru deschideri largi la vile rezidențiale, showroom-uri, terase de restaurant și spații comerciale.
+Beneficii directe pentru proprietar:
+- **Clasa de aer 4** — cea mai înaltă conform EN 12207 pentru sisteme glisante PVC
+- **Zero curenți de aer** — etanșare perfectă și iarna, și vara
+- **Garnitură cu durabilitate extinsă** — uzură uniformă, nu localizată
+- **Operare silențioasă** — reducerea zgomotului de acționare cu până la 75%
+- **Rezistență la vânt B5** — testat la presiuni extreme, ideal pentru casele din zona Ilfov și nord-vestul Bucureștiului expuse vântului
+
+---
+
+### evolutionDrive Plus+ vs HST aluminiu — comparație directă
+
+Cea mai frecventă întrebare de la clienții noștri din zona București-Ilfov care renovează sau construiesc o vilă: **PVC culisant sau HST aluminiu pentru terasă?**
+
+| Criteriu | evolutionDrive Plus+ PVC | HST aluminiu |
+|---|---|---|
+| **Izolare termică Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
+| **Risc condens pe profil** | Zero — PVC nu conduce frigul | Posibil fără barieră termică premium |
+| **Cost cu montaj** | 1.800–3.000 EUR (2 canaturi) | 3.500–6.000 EUR (2 canaturi) |
+| **Greutate canat max** | 400 kg | 600–800 kg |
+| **Deschidere maximă** | 4,0 m lățime | 6,0–8,0 m lățime |
+| **Aspect** | Modern, profil PVC alb sau folie | Architectural, profil metalic slim |
+| **Mentenanță** | Minimă — PVC nu oxidează | Minimă — aluminiu nu oxidează |
+| **Compatibilitate nZEB** | ✅ Uw < 1,0 | ✅ Cu sistem premium |
+
+**Concluzie practică:** Pentru goluri până la 4,0 m, utilizare zilnică și buget orientat spre eficiență, evolutionDrive Plus+ este alegerea mai inteligentă. Pentru goluri peste 4,0 m sau design architectural slim cu profile vizibile minime, HST aluminiu este soluția.
+
+---
+
+### Configurații și aplicații recomandate
+
+**evolutionDrive Plus+ 2 canaturi (1 fix + 1 mobil)**
+Ideal pentru goluri 1,6–3,0 m. Cel mai frecvent montat în apartamentele premium din București și vilele din Ilfov ca acces principal spre terasă sau balcon. Buget: **1.800–2.600 EUR cu montaj** (culoare standard, geam dupan Low-E).
+
+**evolutionDrive Plus+ 3 canaturi**
+Pentru goluri 3,0–4,5 m — permite deschidere centrală sau laterală. Frecvent solicitat în proiectele din Pipera, Berceni, Voluntari și Otopeni. Buget: **2.800–4.200 EUR cu montaj**.
+
+**evolutionDrive Plus+ 4 canaturi**
+Pentru goluri 4,0–6,0 m. Alternativa PVC mai accesibilă față de sistemele armonice, când deschiderea totală nu este necesară. Buget: **4.000–6.000 EUR cu montaj**.
+
+---
+
+## Alumil Smartia M19800BT — uși armonice cu barieră termică pentru deschideri totale
+
+### Ce este sistemul Alumil M19800?
+
+**Smartia M19800** este sistemul de **uși armonice (acordeon / bi-fold) din aluminiu** produs de Alumil Group (Kilkis, Grecia) — unul dintre cei mai mari producători de sisteme arhitecturale din aluminiu din Europa de Sud-Est, cu fabrici în Grecia și Republica Cehă. Varianta **BT (Barieră Termică)** este concepută special pentru rezidențe premium, vile, restaurante cu terasă, hoteluri și spații comerciale care necesită **deschiderea totală a peretelui** spre exterior.
+
+Principiul armonicii: canatele sunt suspendate pe o șină superioară și **se pliază în pachet compact la un capăt** — eliberând 100% din suprafața golului, fără stâlp central, fără obstacole vizuale, fără spațiu ocupat în pardoseală.
+
+---
 
 ### Specificații tehnice M19800BT
 
 | Parametru | Valoare |
 |---|---|
-| Material | **Aluminiu extrudat cu barieră termică** |
-| Înălțime maximă | **3,3 m per canat** |
+| Material | **Aluminiu extrudat 6063-T5 cu barieră termică din poliamidă** |
+| Adâncime profil | **50 mm** |
+| Înălțime maximă per canat | **3,3 m** |
+| Lățime maximă per canat | **0,9–1,2 m** |
 | Greutate maximă per canat | **125 kg** |
-| Număr canaturi | **2–8 (par sau impar)** |
+| Număr canaturi | **2–8 (configurații par și impar)** |
 | Sens deschidere | **Interior sau exterior** |
-| Garnituri etanșare | **4 garnituri EPDM** |
-| Coeficient termic Uf | **1,0–1,8 W/m²K** (cu barieră termică) |
+| Geam maxim acceptat | **32 mm** |
+| Uf coeficient termic ramă | **1,0–1,8 W/m²K** (cu barieră termică) |
+| Garnituri | **4 garnituri EPDM** |
 | Antiefracție | **RC 2–3** |
-| Prag | **Incastrat în pardoseală** (opțional) |
-| Culori disponibile | **Toate culorile RAL + finisaje lemn** |
-
-### Mecanismul de funcționare — simplitate și robustețe
-
-Canatele sistemului armonice se pliază prin **role-balamale de precizie** montate pe o șină superioară suspendată. Fiecare canat se articulează față de vecin printr-o balama cu 4 role, capabilă să susțină greutatea maximă fără deformare.
-
-Plierea **nu necesită spațiu în pardoseală** (excepție: pragul incastrat opțional), eliminând obstacolele pentru circulație.
-
-La deschidere completă, canatele se strâng într-un pachet compact la un capăt — eliberând **100% din golul de lumină**, fără niciun obstacol vizual sau fizic.
-
-### Bariera termică M19800BT — de ce contează
-
-Bariera termică este o inserție din material plastic cu conductivitate termică scăzută, montată între profilele exterioare și interioare de aluminiu. Fără barieră termică, aluminiul — cu conductivitate de 160 W/mK — ar transfera frigul direct în interior, creând condens și pierderi energetice semnificative.
-
-Cu M19800BT, coeficientul termic al ramei scade de la **3,9 W/m²K** (fără BT) la **1,0–1,8 W/m²K** — o reducere de 50–75% a pierderilor termice prin cadru.
+| Prag | **Incastrat în pardoseală (opțional)** |
+| Culori | **Toate culorile RAL + finisaje lemn** |
+| Lățime maximă totală golul | **6,0–8,0 m** |
 
 ---
 
-## Etapele montajului — cum procedează Neofort BIZ
+### Mecanismul de funcționare — suspendat, nu rulat pe pardoseală
 
-### 1. Pregătirea golului și verificarea structurală
+Spre deosebire de unele sisteme mai vechi care rulează pe un șine de podea, M19800BT folosește un sistem **suspendat superior**: fiecare canat atârnă de șina din planșeu prin role de precizie capabile să susțină până la 125 kg per canat. Pardoseaua rămâne complet liberă — fără șine vizibile, fără risc de înțepenire, fără pericol de accidentare.
 
-Înainte de orice montaj, echipa Neofort BIZ verifică:
-- **Nivelarea pragului** — abatere maximă admisă: 2 mm pe toată lungimea
-- **Verticalitatea tocurilor laterale** — esențial pentru etanșarea corectă
-- **Rezistența structurii** — șinele superioare ale armonicii M19800BT preiau sarcini semnificative; ancorarea în planșeu de beton armat este obligatorie
-
-### 2. Montajul ușii culisante evolutionDrive Plus+
-
-Secvența de montaj:
-1. Fixarea cadrului în gol cu diburi chimice și distanțieri de reglaj
-2. Etanșarea perimetrală cu bandă precomprimată butilică (exterior) și folie antivapori (interior)
-3. Montajul canaților pe șina de rulare
-4. Reglajul înălțimii și al presiunii de contact pe garnitură
-5. Verificarea etanșeității cu detector de curenți de aer
-
-### 3. Montajul sistemului armonice Alumil M19800BT
-
-Secvența de montaj:
-1. Trasarea și ancorarea șinei superioare în planșeu — nivelarea este critică
-2. Montajul tocurilor laterale și a pragului incastrat (dacă este ales)
-3. Montajul canatelor — fiecare canat se suspendă individual pe șina superioară
-4. Reglajul rolelor și al balamalelor pentru pliere uniformă
-5. Montajul sistemului de blocare multipoint și a mânerelor
-6. Verificarea etanșeității la apă și vânt
-
-### 4. Finisaje și certificat de garanție
-
-La finalul lucrării, Neofort BIZ emite:
-- **Certificat de garanție** completă pe produs și manoperă
-- **Proces verbal de recepție** cu parametrii verificați
-- **Instrucțiuni de utilizare și întreținere** pentru ambele sisteme
+Fiecare canat se articulează față de vecin printr-o **balama cu 4 role** care permite plierea completă fără forță excesivă. Deschiderea unui perete de 4,8 m cu 4 canaturi M19800BT necesită o singură mișcare de tragere — canatele urmează automat în lanț.
 
 ---
 
-## Combinarea PVC + aluminiu — sfaturi practice pentru proiecte rezidențiale
+### Bariera termică — de ce M19800BT și nu M19800 standard
 
-**Cum se asigură continuitatea estetică?**
-Ambele sisteme pot fi livrate în aceeași culoare RAL sau finisaj. Neofort BIZ coordonează culorile între PVC (folie decor) și aluminiu (vopsea pulbere electrostatică) pentru uniformitate vizuală perfectă.
+Profilele de aluminiu fără barieră termică au conductivitate de **160 W/mK** — transferă frigul de afară direct în interior, creând condens vizibil pe profil la temperaturi sub 0°C. Bariera termică din poliamidă inserată între profilul exterior și cel interior reduce conductivitatea la **0,25 W/mK** — reducând pierderile termice prin ramă cu **50–75%** față de aluminiu neizolat.
 
-**Care este ordinea recomandată de montaj?**
-Recomandăm montajul PVC culisant înainte de armonică — acesta setează nivelul de referință pentru pardoseală și praguri. Armonicile M19800BT se adaptează ulterior.
-
-**Cum se întreține sistemul armonice?**
-Ungerea anuală a rolelor cu ulei de siliconat și verificarea tensiunii garniturii de perie de la baza canatelor. Profilurile din aluminiu se curăță cu detergent neutru — nicio vopsire necesară.
-
-Aflați mai multe despre [sistemele PVC Salamander](/ro/tamplarie-pvc) și [tâmplăria aluminiu Alumil](/ro/tamplarie-aluminiu) pe care le furnizăm.
-
-**Prețuri și oferte:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**`,
-
-      en: `## Project context — why combining PVC with aluminium is the premium choice
-
-At a residential villa in the Bucharest-Ilfov area, the owners requested a complete solution for connecting the living room with the terrace and garden: **a PVC sliding door** for daily use and **an aluminium folding door system** for full wall opening on special occasions.
-
-This combination — PVC sliding + aluminium folding — is increasingly common in premium residential projects in Bucharest, offering the best functionality-aesthetics-cost ratio.
+Rezultat practic: la o vilă din Ilfov cu M19800BT și geam tripan Low-E Saint-Gobain, peretele de armonice nu creează punți termice semnificative și satisface cerințele de certificare **nZEB** (consum de energie aproape zero).
 
 ---
 
-## Alumil Smartia M19800BT — the thermally broken aluminium folding door for wide openings
+### M19800BT vs alte sisteme armonice — ce nu ți se spune
 
-### Technical specifications M19800BT
+**M19800BT vs Reynaers ConceptFolding:** Alumil M19800BT este disponibil imediat în România prin Neofort BIZ cu termene de 3–4 săptămâni. Reynaers ConceptFolding are profile mai subțiri (aspect slim superior) dar timp de livrare mai lung și cost mai ridicat.
+
+**M19800BT vs SF85 Supreme:** SF85 este sistemul de ferestre oscilo-batante Alumil — nu un sistem armonice. Confuzia este frecventă; SF85 nu se pliază, M19800BT da.
+
+**M19800BT vs sisteme fără barieră termică:** Pentru vile din București și Ilfov cu utilizare pe tot parcursul anului, varianta fără barieră termică nu este recomandată — condens garantat iarna.
+
+---
+
+## De ce combinarea evolutionDrive Plus+ + M19800BT este alegerea premium în 2026
+
+Aceasta este combinația **cel mai frecvent solicitată** de clienții Neofort BIZ din zona rezidențială premium București-Ilfov în 2025–2026, pentru un motiv simplu: fiecare sistem face exact ce face cel mai bine.
+
+| | evolutionDrive Plus+ PVC | M19800BT Aluminiu |
+|---|---|---|
+| **Rol în proiect** | Acces zilnic living-terasă | Deschidere totală pentru evenimente |
+| **Izolare termică** | ⭐⭐⭐⭐⭐ Uw 0,71–1,0 | ⭐⭐⭐ Uw 1,2–1,8 |
+| **Deschidere golului** | Parțială — 50% | Totală — 100% |
+| **Cost relativ** | ✅ Accesibil | 💰 Premium |
+| **Compatibil nZEB** | ✅ Da | ✅ Da (cu geam tripan) |
+| **Automtizare** | ✅ Somfy, Nice, KNX | ✅ Motorizare disponibilă |
+
+---
+
+## Proiect real Neofort BIZ — vilă rezidențială zona București-Ilfov
+
+### Brieful clientului
+
+Proprietarii unei vile de 320 mp din zona Voluntari-Ilfov au solicitat: acces zilnic confortabil din living pe terasa de 40 mp, plus posibilitatea deschiderii complete a peretelui de 4,8 m pentru petreceri și vreme caldă. Buget total alocat: 9.000–12.000 EUR cu montaj.
+
+### Soluția propusă și motivarea alegerii
+
+**evolutionDrive Plus+ 2 canaturi** — gol 2,4 m × 2,2 m, culoare Antracit RAL 7016, geam tripan 4/14/4/14/4 Low-E Saint-Gobain Planitherm ONE:
+- Uw = 0,82 W/m²K — eligibil nZEB
+- Folie decor ambele fețe — culoare identică cu aluminiu pentru continuitate estetică
+- Pliseu anti-insecte integrat — solicitat expres de client
+
+**M19800BT 4 canaturi** — gol 4,8 m × 2,4 m, culoare Antracit RAL 7016, geam dupan 4/16/4 Low-E cu argon:
+- Deschidere completă spre terasa de 40 mp
+- Prag incastrat în pardoseală — continuitate vizuală perfectă interior-exterior
+- Sisteme de blocare multipoint RC 2
+
+### Execuția montajului
+
+Durata totală: **3 zile de montaj** pentru ambele sisteme.
+
+Etapa 1 — evolutionDrive Plus+: fixare cadru cu diburi chimici, etanșare cu bandă butilică precomprimată exterior și folie antivapori interior (standard RAL), montaj canaturi, reglaj paralel, verificare etanșeitate.
+
+Etapa 2 — M19800BT: trasare și ancorare șină superioară în planșeu de beton armat (critica — toleranță ±1 mm), montaj tocuri laterale, prag incastrat, suspendare individuală a celor 4 canaturi, reglaj role și balamale, blocare multipoint, test vânt și apă.
+
+La recepție: certificat de garanție pe produs și manoperă, proces verbal cu parametrii verificați, instrucțiuni de utilizare și întreținere.
+
+---
+
+## Prețuri orientative 2026 — București și Ilfov
+
+| Sistem | Configurație | Preț cu montaj |
+|---|---|---|
+| evolutionDrive Plus+ | 2 canaturi, 2,4 m × 2,2 m, alb/antracit | **1.900–2.800 EUR** |
+| evolutionDrive Plus+ | 3 canaturi, 3,6 m × 2,2 m | **3.000–4.200 EUR** |
+| M19800BT | 4 canaturi, 4,8 m × 2,4 m | **4.500–6.500 EUR** |
+| M19800BT | 6 canaturi, 6,0 m × 2,4 m | **6.500–9.000 EUR** |
+| **Pachet combinat** | evolutionDrive Plus+ 2C + M19800BT 4C | **6.500–9.000 EUR** |
+
+*Prețurile includ producție, transport și montaj profesional în București și Ilfov. Prețul final depinde de culoare, geam ales, opțiuni suplimentare (pliseu, automatizare) și specificul șantierului.*
+
+---
+
+## Întrebări frecvente — evolutionDrive Plus+ și M19800BT
+
+**Pot comanda evolutionDrive Plus+ în culori speciale?**
+Da — gama completă de folii decor Salamander, inclusiv nuanțe de lemn, antracit mat, gri Agate, gri Basalt și alb clasic. Ambele fețe pot fi în culori diferite.
+
+**M19800BT poate fi automatizat?**
+Da — sistemul este compatibil cu motorizare Somfy sau Nice, cu comandă prin telecomandă, aplicație mobilă sau integrare KNX/Smart Home.
+
+**Cât durează producția și montajul?**
+Producție: 3–4 săptămâni de la semnarea comenzii. Montaj: 1 zi pentru evolutionDrive Plus+, 1–2 zile pentru M19800BT.
+
+**Oferă Neofort BIZ garanție extinsă?**
+Da — garanție completă pe produs și manoperă, plus verificare anuală gratuită în București și Ilfov.
+
+Aflați mai multe despre [sistemele PVC Salamander](/ro/tamplarie-pvc) și [tâmplăria aluminiu Alumil](/ro/tamplarie-aluminiu) disponibile la Neofort BIZ.
+
+**Solicitați o ofertă pentru proiectul dvs.:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**`,
+
+      en: `## Salamander evolutionDrive Plus+ Sliding Door — The Most Advanced PVC Sliding System in 2026
+
+### What is Salamander evolutionDrive Plus+?
+
+Salamander **evolutionDrive Plus+** is the **parallel-seal PVC sliding door system** launched by Salamander Industrie-Produkte GmbH (Bavaria, Germany) — a manufacturer with over 40 years of heritage in European window profile production. Launched across Europe in 2023, evolutionDrive Plus+ redefined the standard for PVC patio sliding doors, delivering patented HST-grade sealing at a significantly more accessible price point.
+
+Unlike conventional sliding systems (PSK tilt-and-slide or HST lift-and-slide), evolutionDrive Plus+ operates via **pure horizontal parallel gliding** — the sash does not lift before sliding. It moves strictly parallel to the frame throughout the entire movement, ensuring uniform gasket compression and perfect sealing on every operation, whether the door is used 3 times or 3,000 times.
+
+---
+
+### Technical Specifications evolutionDrive Plus+
 
 | Parameter | Value |
 |---|---|
-| Material | **Extruded aluminium with thermal break** |
-| Maximum height | **3.3 m per sash** |
-| Maximum weight per sash | **125 kg** |
-| Number of sashes | **2–8 (even or odd)** |
-| Opening direction | **Inward or outward** |
-| Sealing gaskets | **4 EPDM gaskets** |
-| Thermal coefficient Uf | **1.0–1.8 W/m²K** (with thermal break) |
-| Burglar resistance | **RC 2–3** |
-| Available colours | **All RAL colours + wood effect finishes** |
-
-At full open, the sashes fold into a compact stack at one end — freeing **100% of the glazed opening** without any visual or physical obstruction.
-
-Explore our full [Salamander PVC range](/en/tamplarie-pvc) or see [indicative prices](/en/tamplarie-pvc/preturi).
-
-**For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**`,
-
-      de: `## Projekthintergrund — warum die Kombination PVC + Aluminium die Premium-Wahl ist
-
-Bei einer Residenz im Raum Bukarest-Ilfov wünschten sich die Eigentümer eine vollständige Lösung für die Verbindung von Wohnzimmer, Terrasse und Garten: **eine PVC-Schiebetür** für den täglichen Gebrauch und **ein Aluminium-Falttürsystem** für die vollständige Öffnung der Wand bei besonderen Anlässen.
+| Base profile | **Salamander BluEvolution 92** (76 mm depth) |
+| Chambers | **7 chambers** |
+| Uw system (triple glazing) | **0.71–1.0 W/m²K** |
+| Frame Uf | **0.95 W/m²K** |
+| Sound insulation | **42–44 dB** |
+| Wind resistance | **Class B5** (maximum for PVC sliding) |
+| Water tightness | **Class 8A** (EN 12208) |
+| Air permeability | **Class 4** (EN 12207) |
+| Burglar resistance | **RC 2** |
+| Max sash weight | **400 kg** |
+| Max sash dimensions | **1,950 mm × 2,250 mm** |
+| Max frame dimensions | **4,000 mm × 2,600 mm** |
+| Configurations | **2, 3 or 4 sashes** |
+| Smart Home compatibility | **Yes — Somfy, Nice, KNX** |
 
 ---
 
-## Alumil Smartia M19800BT — die Aluminium-Falttür mit Wärmedämmbrücke
+### The Patented Parallel Sealing — Why It Matters
+
+Conventional sliding systems compress the gasket **diagonally or via lifting**, causing uneven wear and gradual loss of airtightness over time. evolutionDrive Plus+ uses a mechanism where the sash **moves strictly parallel to the frame** throughout the entire motion, pressing the gasket uniformly across the full contact surface simultaneously.
+
+Direct benefits for the homeowner:
+- **Air class 4** — the highest achievable under EN 12207 for PVC sliding systems
+- **Zero draughts** — perfect sealing in both winter and summer
+- **Extended gasket durability** — uniform wear, not localised
+- **Silent operation** — noise reduction of up to 75% compared to conventional sliding systems
+- **Wind resistance B5** — tested at extreme pressures, ideal for homes in Bucharest suburbs and rural Ilfov county
+
+---
+
+### evolutionDrive Plus+ vs Aluminium HST — A Direct Comparison
+
+The most frequent question from our clients building or renovating a villa in the Bucharest-Ilfov area: **PVC sliding or aluminium HST for the terrace?**
+
+| Criterion | evolutionDrive Plus+ PVC | Aluminium HST |
+|---|---|---|
+| **Thermal insulation Uw** | 0.71–1.0 W/m²K ⭐⭐⭐⭐⭐ | 1.0–1.4 W/m²K ⭐⭐⭐ |
+| **Condensation risk on profile** | Zero — PVC does not conduct cold | Possible without premium thermal break |
+| **Cost with installation** | €1,800–3,000 (2 sashes) | €3,500–6,000 (2 sashes) |
+| **Max sash weight** | 400 kg | 600–800 kg |
+| **Max opening width** | 4.0 m | 6.0–8.0 m |
+| **Aesthetics** | Modern, PVC white or foil finish | Architectural, slim metal profile |
+| **Maintenance** | Minimal — PVC does not oxidise | Minimal — aluminium does not oxidise |
+| **nZEB compliance** | ✅ Uw < 1.0 | ✅ With premium system |
+
+**Practical conclusion:** For openings up to 4.0 m, daily use and efficiency-focused budget, evolutionDrive Plus+ is the smarter choice. For openings over 4.0 m or slim architectural design with minimal visible profiles, aluminium HST is the solution.
+
+---
+
+## Alumil Smartia M19800BT — Thermally Broken Folding Doors for Full-Width Openings
+
+### What is the Alumil M19800 System?
+
+**Smartia M19800** is the **aluminium folding (accordion / bi-fold) door system** produced by Alumil Group (Kilkis, Greece) — one of the largest architectural aluminium system manufacturers in South-East Europe, with factories in Greece and the Czech Republic. The **BT (Thermal Break)** variant is designed specifically for premium residences, villas, terrace restaurants, hotels and commercial spaces requiring **full wall opening** to the exterior.
+
+The accordion principle: sashes are suspended on an overhead track and **fold into a compact stack at one end** — freeing 100% of the opening, with no central post, no visual obstacles, no floor-level obstruction.
+
+---
+
+### Technical Specifications M19800BT
+
+| Parameter | Value |
+|---|---|
+| Material | **Extruded 6063-T5 aluminium with polyamide thermal break** |
+| Profile depth | **50 mm** |
+| Max sash height | **3.3 m** |
+| Max sash width | **0.9–1.2 m** |
+| Max sash weight | **125 kg** |
+| Number of sashes | **2–8 (even and odd configurations)** |
+| Opening direction | **Inward or outward** |
+| Max glazing thickness | **32 mm** |
+| Frame thermal coefficient Uf | **1.0–1.8 W/m²K** (with thermal break) |
+| Gaskets | **4 EPDM gaskets** |
+| Burglar resistance | **RC 2–3** |
+| Threshold | **Floor-recessed (optional)** |
+| Colours | **Full RAL range + woodgrain finishes** |
+| Maximum total opening width | **6.0–8.0 m** |
+
+---
+
+### The Suspension System — Why It Makes the Difference
+
+Unlike older bi-fold systems that run on floor tracks, M19800BT uses a **top-hung suspension system**: each sash hangs from a ceiling-mounted track via precision rollers capable of carrying up to 125 kg per sash. The floor remains completely clear — no visible floor tracks, no jamming risk, no trip hazard.
+
+Each sash articulates against its neighbour via a **4-roller hinge** allowing full folding without excessive force. Opening a 4.8 m wall with 4 M19800BT sashes requires a single pulling motion — the sashes follow automatically in sequence.
+
+---
+
+## Why evolutionDrive Plus+ + M19800BT Is the Premium Choice in 2026
+
+This combination is the **most frequently requested** by Neofort BIZ clients in the premium residential areas of Bucharest-Ilfov in 2025–2026, for a simple reason: each system does exactly what it does best.
+
+| | evolutionDrive Plus+ PVC | M19800BT Aluminium |
+|---|---|---|
+| **Role in project** | Daily indoor-terrace access | Full opening for events and summer |
+| **Thermal insulation** | ⭐⭐⭐⭐⭐ Uw 0.71–1.0 | ⭐⭐⭐ Uw 1.2–1.8 |
+| **Opening coverage** | Partial — 50% | Full — 100% |
+| **Relative cost** | ✅ Accessible | 💰 Premium |
+| **nZEB compatible** | ✅ Yes | ✅ Yes (with triple glazing) |
+| **Automation** | ✅ Somfy, Nice, KNX | ✅ Motorisation available |
+
+---
+
+## Real Neofort BIZ Project — Residential Villa Bucharest-Ilfov Area
+
+**Client brief:** The owners of a 320 m² villa in Voluntari-Ilfov required: comfortable daily access from the living room to their 40 m² terrace, plus the option to fully open the 4.8 m wall for parties and warm weather. Total budget allocated: €9,000–12,000 installed.
+
+**Solution delivered:**
+- evolutionDrive Plus+ 2 sashes, 2.4 m × 2.2 m, Anthracite RAL 7016, triple glaze Saint-Gobain Planitherm ONE — Uw = 0.82 W/m²K, nZEB eligible, integrated pleated fly screen
+- M19800BT 4 sashes, 4.8 m × 2.4 m, Anthracite RAL 7016, double glaze Low-E with argon — floor-recessed threshold, RC 2 multipoint locking
+
+**Installation duration:** 3 days total for both systems.
+
+---
+
+## 2026 Price Guide — Bucharest and Ilfov
+
+| System | Configuration | Price installed |
+|---|---|---|
+| evolutionDrive Plus+ | 2 sashes, 2.4 m × 2.2 m | **€1,900–2,800** |
+| evolutionDrive Plus+ | 3 sashes, 3.6 m × 2.2 m | **€3,000–4,200** |
+| M19800BT | 4 sashes, 4.8 m × 2.4 m | **€4,500–6,500** |
+| M19800BT | 6 sashes, 6.0 m × 2.4 m | **€6,500–9,000** |
+| **Combined package** | evolutionDrive Plus+ 2S + M19800BT 4S | **€6,500–9,000** |
+
+*Prices include production, delivery and professional installation in Bucharest and Ilfov. Final price depends on colour choice, glazing specification, optional extras (fly screen, automation) and site conditions.*
+
+---
+
+## FAQ — evolutionDrive Plus+ and M19800BT
+
+**Can evolutionDrive Plus+ be ordered in special colours?** Yes — full Salamander foil range including woodgrain shades, anthracite, Agate grey, Basalt grey, and classic white. Both sides can differ.
+
+**Can M19800BT be automated?** Yes — compatible with Somfy or Nice motorisation, controllable via remote, mobile app or KNX/Smart Home integration.
+
+**How long does production and installation take?** Production: 3–4 weeks from order confirmation. Installation: 1 day for evolutionDrive Plus+, 1–2 days for M19800BT.
+
+Find out more about our [Salamander PVC windows](/en/pvc-windows) and [Alumil aluminium windows](/en/aluminium-windows).
+
+**Request a quote for your project:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**`,
+
+      de: `## Salamander evolutionDrive Plus+ Schiebetür — Das modernste PVC-Gleitsystem 2026
+
+### Was ist die Salamander evolutionDrive Plus+?
+
+Salamander **evolutionDrive Plus+** ist das **PVC-Parallelschiebesystem** von Salamander Industrie-Produkte GmbH (Bayern, Deutschland) — einem Profilhersteller mit über 40 Jahren Erfahrung in der europäischen Fensterbauindustrie. Das System wurde 2023 in Deutschland und Europa eingeführt und hat den Standard für PVC-Terrassenschiebetüren neu definiert: patentierte Abdichtungsqualität auf HST-Niveau (Hebe-Schiebe) zu einem deutlich günstigeren Preis.
+
+Anders als konventionelle Gleitsysteme (PSK — Dreh-Kipp-Schiebe, HST — Hebe-Schiebe) funktioniert evolutionDrive Plus+ durch **rein horizontales Parallelgleiten** — der Flügel hebt sich nicht vor dem Gleiten, sondern bewegt sich streng parallel zum Blendrahmen während der gesamten Öffnungsbewegung. Das sorgt für gleichmäßige Dichtungspressung und perfekte Abdichtung bei jeder Betätigung.
+
+---
+
+### Technische Daten evolutionDrive Plus+
+
+| Parameter | Wert |
+|---|---|
+| Basisprofil | **Salamander BluEvolution 92** (76 mm Bautiefe) |
+| Kammern | **7 Kammern** |
+| Uw-Wert (Dreifachverglasung) | **0,71–1,0 W/m²K** |
+| Uf Rahmen | **0,95 W/m²K** |
+| Schalldämmung | **42–44 dB** |
+| Windwiderstand | **Klasse B5** (Maximum für PVC-Gleitsysteme) |
+| Wasserdichtheit | **Klasse 8A** (EN 12208) |
+| Luftdurchlässigkeit | **Klasse 4** (EN 12207) |
+| Einbruchhemmung | **RC 2** |
+| Max. Flügelgewicht | **400 kg** |
+| Max. Flügelmaß | **1.950 mm × 2.250 mm** |
+| Max. Rahmenmaß | **4.000 mm × 2.600 mm** |
+| Konfigurationen | **2, 3 oder 4 Flügel** |
+| Smart-Home-Kompatibilität | **Ja — Somfy, Nice, KNX** |
+
+---
+
+### Die patentierte Parallelabdichtung — warum sie entscheidend ist
+
+Herkömmliche Gleitsysteme pressen die Dichtung **schräg oder durch Anheben**, was zu ungleichmäßigem Verschleiß und einem allmählichen Verlust der Luftdichtheit führt. Bei evolutionDrive Plus+ bewegt sich der Flügel **streng parallel zum Blendrahmen** über die gesamte Bewegung und presst die Dichtung gleichmäßig auf der gesamten Kontaktfläche.
+
+Direkte Vorteile für den Hausbesitzer:
+- **Luftdurchlässigkeitsklasse 4** — das Maximum nach EN 12207 für PVC-Gleitsysteme
+- **Null Zugluft** — perfekte Abdichtung im Winter wie im Sommer
+- **Verlängerte Dichtungslebensdauer** — gleichmäßiger, nicht lokaler Verschleiß
+- **Geräuscharmer Betrieb** — Lärmminderung bis zu 75 %
+- **Windwiderstand B5** — ideal für Häuser in exponierten Lagen
+
+---
+
+### evolutionDrive Plus+ vs. Aluminium-HST — Direktvergleich
+
+| Kriterium | evolutionDrive Plus+ PVC | Aluminium-HST |
+|---|---|---|
+| **Wärmedämmung Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
+| **Kondensatrisiko am Profil** | Null — PVC leitet keine Kälte | Möglich ohne Premium-Wärmedämmbrücke |
+| **Preis mit Montage** | 1.800–3.000 € (2 Flügel) | 3.500–6.000 € (2 Flügel) |
+| **Max. Flügelbreite** | 4,0 m | 6,0–8,0 m |
+| **Optik** | Modern, PVC weiß oder Folie | Architektonisch, schlankes Metallprofil |
+| **Wartung** | Minimal — PVC oxidiert nicht | Minimal — Aluminium oxidiert nicht |
+
+---
+
+## Alumil Smartia M19800BT — Thermisch gedämmte Falttür für vollständige Öffnungen
+
+### Was ist das Alumil M19800-System?
+
+**Smartia M19800** ist das **Aluminium-Falttor-System (Harmonikatür / Bi-Fold)** von Alumil Group (Kilkis, Griechenland) — einem der größten Hersteller von Aluminium-Architektursystemen in Südosteuropa. Die **BT-Variante (Thermal Break / Wärmedämmbrücke)** wurde speziell für Premium-Residenzen, Villen, Terrassenrestaurants, Hotels und Gewerberäume entwickelt, die eine **vollständige Wandöffnung** nach außen benötigen.
+
+Das Harmonikaprinzip: Die Flügel hängen an einer Deckenschiene und **falten sich zu einem kompakten Paket an einer Seite** — sie geben 100 % der Öffnung frei, ohne Mittelpfosten, ohne visuelle Hindernisse, ohne Bodenabdruck.
+
+---
 
 ### Technische Daten M19800BT
 
 | Parameter | Wert |
 |---|---|
-| Material | **Stranggepresstes Aluminium mit Wärmedämmbrücke** |
-| Maximale Höhe | **3,3 m pro Flügel** |
-| Maximales Gewicht pro Flügel | **125 kg** |
-| Anzahl Flügel | **2–8 (gerade oder ungerade)** |
-| Öffnungsrichtung | **Nach innen oder außen** |
-| Dichtungsebenen | **4 EPDM-Dichtungen** |
-| Wärmedurchgang Uf | **1,0–1,8 W/m²K** (mit Wärmedämmbrücke) |
-| Einbruchschutz | **RC 2–3** |
-
-Bei vollständiger Öffnung falten sich die Flügel zu einem kompakten Paket — und geben **100% der Lichtöffnung** frei.
-
-**Für ein persönliches Angebot:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**`,
-
-      fr: `## Contexte du projet — pourquoi combiner PVC et aluminium est le choix premium
-
-Dans une villa résidentielle de la zone Bucarest-Ilfov, les propriétaires ont souhaité une solution complète pour relier salon, terrasse et jardin : **une porte coulissante PVC** pour l'usage quotidien et **un système de portes accordéon en aluminium** pour l'ouverture totale du mur lors d'occasions spéciales.
+| Material | **Stranggepress. Aluminium 6063-T5 mit Polyamid-Wärmedämmbrücke** |
+| Profiltiefe | **50 mm** |
+| Max. Flügelhöhe | **3,3 m** |
+| Max. Flügelbreite | **0,9–1,2 m** |
+| Max. Flügelgewicht | **125 kg** |
+| Anzahl Flügel | **2–8 (gerade und ungerade Konfigurationen)** |
+| Öffnungsrichtung | **Innen oder außen** |
+| Max. Glasdicke | **32 mm** |
+| Uf Wärmedurchgangskoeffizient Rahmen | **1,0–1,8 W/m²K** |
+| Dichtungen | **4 EPDM-Dichtungen** |
+| Einbruchhemmung | **RC 2–3** |
+| Schwelle | **Bodenbündig eingelassen (optional)** |
+| Farben | **Alle RAL-Farben + Holzdekor** |
+| Max. Gesamtöffnungsbreite | **6,0–8,0 m** |
 
 ---
 
-## Alumil Smartia M19800BT — la porte accordéon aluminium à rupture de pont thermique
+## Warum evolutionDrive Plus+ + M19800BT die Premium-Kombination 2026 ist
+
+| | evolutionDrive Plus+ PVC | M19800BT Aluminium |
+|---|---|---|
+| **Funktion im Projekt** | Täglicher Wohnraum-Terrassen-Zugang | Vollöffnung für Veranstaltungen und Sommer |
+| **Wärmedämmung** | ⭐⭐⭐⭐⭐ Uw 0,71–1,0 | ⭐⭐⭐ Uw 1,2–1,8 |
+| **Öffnungsgrad** | Teilweise — 50 % | Vollständig — 100 % |
+| **Kosten** | ✅ Günstig | 💰 Premium |
+| **Smart-Home-fähig** | ✅ Somfy, Nice, KNX | ✅ Motorisierung möglich |
+
+---
+
+## Orientierungspreise 2026
+
+| System | Konfiguration | Preis mit Montage |
+|---|---|---|
+| evolutionDrive Plus+ | 2 Flügel, 2,4 m × 2,2 m | **1.900–2.800 €** |
+| evolutionDrive Plus+ | 3 Flügel, 3,6 m × 2,2 m | **3.000–4.200 €** |
+| M19800BT | 4 Flügel, 4,8 m × 2,4 m | **4.500–6.500 €** |
+| M19800BT | 6 Flügel, 6,0 m × 2,4 m | **6.500–9.000 €** |
+| **Kombinationspaket** | evolutionDrive Plus+ 2F + M19800BT 4F | **6.500–9.000 €** |
+
+Mehr über unsere [Salamander PVC-Fenster](/de/kunststofffenster-pvc) und [Alumil-Aluminiumfenster](/de/aluminiumfenster).
+
+**Angebot anfordern:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18 Uhr**`,
+
+      fr: `## Porte coulissante Salamander evolutionDrive Plus+ — Le système PVC le plus avancé en 2026
+
+### Qu'est-ce que la Salamander evolutionDrive Plus+ ?
+
+Salamander **evolutionDrive Plus+** est le **système coulissant PVC à translation parallèle** lancé par Salamander Industrie-Produkte GmbH (Bavière, Allemagne) — fabricant de profilés avec plus de 40 ans d'expérience dans la menuiserie européenne. Lancé en France et en Europe en 2023, evolutionDrive Plus+ a redéfini le standard des portes-fenêtres coulissantes PVC pour terrasse : une étanchéité brevetée de niveau HST (levant-coulissant) à un coût nettement plus accessible.
+
+Contrairement aux systèmes coulissants classiques (PSK oscillo-coulissant ou HST levant-coulissant), evolutionDrive Plus+ fonctionne par **translation horizontale strictement parallèle** — le vantail ne se soulève pas avant de glisser, mais se déplace parallèlement au dormant tout au long du mouvement. Cela garantit une compression uniforme du joint et une étanchéité parfaite à chaque utilisation.
+
+---
+
+### Caractéristiques techniques evolutionDrive Plus+
+
+| Paramètre | Valeur |
+|---|---|
+| Profilé de base | **Salamander BluEvolution 92** (profondeur 76 mm) |
+| Nombre de chambres | **7 chambres** |
+| Uw système (triple vitrage) | **0,71–1,0 W/m²K** |
+| Uf cadre | **0,95 W/m²K** |
+| Isolation acoustique | **42–44 dB** |
+| Résistance au vent | **Classe B5** (maximum pour coulissant PVC) |
+| Étanchéité à l'eau | **Classe 8A** (EN 12208) |
+| Perméabilité à l'air | **Classe 4** (EN 12207) |
+| Résistance à l'effraction | **RC 2** |
+| Poids max. par vantail | **400 kg** |
+| Dimensions max. vantail | **1 950 mm × 2 250 mm** |
+| Dimensions max. cadre | **4 000 mm × 2 600 mm** |
+| Configurations | **2, 3 ou 4 vantaux** |
+| Compatibilité domotique | **Oui — Somfy, Nice, KNX** |
+
+---
+
+### Le joint à translation parallèle breveté — pourquoi c'est décisif
+
+Les systèmes coulissants conventionnels compriment le joint **en biais ou par relevage**, provoquant une usure inégale et une perte progressive d'étanchéité. Avec evolutionDrive Plus+, le vantail **se déplace strictement parallèle au dormant** sur toute la course, pressant le joint uniformément sur toute la surface de contact.
+
+Avantages directs pour le propriétaire :
+- **Classe d'air 4** — le maximum selon EN 12207 pour les coulissants PVC
+- **Zéro courant d'air** — étanchéité parfaite été comme hiver
+- **Durée de vie du joint prolongée** — usure uniforme, non localisée
+- **Fonctionnement silencieux** — réduction du bruit jusqu'à 75 %
+- **Résistance au vent B5** — idéal pour les maisons exposées
+
+---
+
+### evolutionDrive Plus+ vs baie coulissante aluminium — comparatif direct
+
+| Critère | evolutionDrive Plus+ PVC | Baie coulissante aluminium |
+|---|---|---|
+| **Isolation thermique Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
+| **Risque de condensation** | Nul — le PVC ne conduit pas le froid | Possible sans rupture de pont thermique |
+| **Coût pose comprise** | 1 800–3 000 € (2 vantaux) | 3 500–6 000 € (2 vantaux) |
+| **Largeur maximale** | 4,0 m | 6,0–8,0 m |
+| **Esthétique** | Moderne, PVC blanc ou folié | Architectural, profil métallique fin |
+
+---
+
+## Alumil Smartia M19800BT — Porte accordéon aluminium à rupture de pont thermique
+
+### Qu'est-ce que le système Alumil M19800 ?
+
+**Smartia M19800** est le **système de portes accordéon en aluminium (bi-fold / pliante)** produit par Alumil Group (Kilkis, Grèce) — l'un des plus grands fabricants de systèmes architecturaux en aluminium d'Europe du Sud-Est. La variante **BT (Rupture de Pont Thermique)** est conçue pour les résidences premium, villas, restaurants avec terrasse, hôtels et locaux commerciaux nécessitant une **ouverture totale du mur** vers l'extérieur.
+
+Le principe accordéon : les vantaux sont suspendus sur un rail de tête et **se replient en un paquet compact à un bout** — libérant 100 % de la baie, sans poteau central, sans obstacle visuel, sans rail au sol.
+
+---
 
 ### Caractéristiques techniques M19800BT
 
 | Paramètre | Valeur |
 |---|---|
-| Matériau | **Aluminium extrudé à rupture de pont thermique** |
-| Hauteur maximale | **3,3 m par vantail** |
-| Poids maximum par vantail | **125 kg** |
-| Nombre de vantaux | **2 à 8 (pair ou impair)** |
-| Sens d'ouverture | **Intérieur ou extérieur** |
-| Joints d'étanchéité | **4 joints EPDM** |
-| Coefficient thermique Uf | **1,0–1,8 W/m²K** (avec rupture de pont thermique) |
-| Résistance antieffraction | **RC 2–3** |
-
-À l'ouverture complète, les vantaux se plient en un paquet compact — libérant **100% de l'ouverture** sans aucun obstacle.
-
-**Pour un devis personnalisé :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
-
-      es: `## Contexto del proyecto — por qué combinar PVC con aluminio es la elección premium
-
-En una villa residencial en la zona Bucarest-Ilfov, los propietarios solicitaron una solución completa para conectar salón, terraza y jardín: **una puerta corredera PVC** para el uso diario y **un sistema de puertas plegables de aluminio** para la apertura total de la pared en ocasiones especiales.
+| Matériau | **Aluminium extrudé 6063-T5 avec rupture de pont thermique en polyamide** |
+| Profondeur du profilé | **50 mm** |
+| Hauteur max. par vantail | **3,3 m** |
+| Poids max. par vantail | **125 kg** |
+| Nombre de vantaux | **2 à 8 (configurations paires et impaires)** |
+| Sens d'ouverture | **Vers l'intérieur ou l'extérieur** |
+| Uf coefficient thermique cadre | **1,0–1,8 W/m²K** (avec rupture thermique) |
+| Résistance à l'effraction | **RC 2–3** |
+| Seuil | **Encastré dans le sol (en option)** |
+| Couleurs | **Toutes les couleurs RAL + décors bois** |
+| Largeur totale max. baie | **6,0–8,0 m** |
 
 ---
 
-## Alumil Smartia M19800BT — la puerta plegable de aluminio con rotura de puente térmico
+## Pourquoi evolutionDrive Plus+ + M19800BT est la combinaison premium en 2026
+
+| | evolutionDrive Plus+ PVC | M19800BT Aluminium |
+|---|---|---|
+| **Rôle dans le projet** | Accès quotidien séjour-terrasse | Ouverture totale pour réceptions et été |
+| **Isolation thermique** | ⭐⭐⭐⭐⭐ Uw 0,71–1,0 | ⭐⭐⭐ Uw 1,2–1,8 |
+| **Ouverture de la baie** | Partielle — 50 % | Totale — 100 % |
+| **Coût relatif** | ✅ Accessible | 💰 Premium |
+| **Domotique** | ✅ Somfy, Nice, KNX | ✅ Motorisation disponible |
+
+---
+
+## Tarifs indicatifs 2026
+
+| Système | Configuration | Prix pose comprise |
+|---|---|---|
+| evolutionDrive Plus+ | 2 vantaux, 2,4 m × 2,2 m | **1 900–2 800 €** |
+| evolutionDrive Plus+ | 3 vantaux, 3,6 m × 2,2 m | **3 000–4 200 €** |
+| M19800BT | 4 vantaux, 4,8 m × 2,4 m | **4 500–6 500 €** |
+| M19800BT | 6 vantaux, 6,0 m × 2,4 m | **6 500–9 000 €** |
+| **Pack combiné** | evolutionDrive Plus+ 2V + M19800BT 4V | **6 500–9 000 €** |
+
+En savoir plus sur nos [menuiseries PVC Salamander](/fr/menuiserie-pvc) et [menuiseries aluminium Alumil](/fr/menuiserie-aluminium).
+
+**Demandez un devis :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10h–18h**`,
+
+      es: `## Puerta corredera Salamander evolutionDrive Plus+ — El sistema PVC más avanzado de 2026
+
+### ¿Qué es la Salamander evolutionDrive Plus+?
+
+Salamander **evolutionDrive Plus+** es el **sistema de corredera PVC con sellado paralelo** lanzado por Salamander Industrie-Produkte GmbH (Baviera, Alemania) — fabricante de perfiles con más de 40 años de trayectoria en la carpintería europea. Lanzado en España y Europa en 2023, evolutionDrive Plus+ ha redefinido el estándar de las puertas correderas de terraza en PVC: sellado patentado de nivel HST (elevadora-corredera) a un precio considerablemente más accesible.
+
+A diferencia de los sistemas correderos convencionales (PSK oscilo-corredera o HST elevadora-corredera), evolutionDrive Plus+ funciona mediante **deslizamiento horizontal estrictamente paralelo** — el batiente no se eleva antes de deslizar, sino que se mueve paralelo al marco durante todo el recorrido. Esto garantiza una compresión uniforme de la junta y un sellado perfecto en cada uso.
+
+---
+
+### Especificaciones técnicas evolutionDrive Plus+
+
+| Parámetro | Valor |
+|---|---|
+| Perfil base | **Salamander BluEvolution 92** (76 mm de profundidad) |
+| Número de cámaras | **7 cámaras** |
+| Uw sistema (triple acristalamiento) | **0,71–1,0 W/m²K** |
+| Uf marco | **0,95 W/m²K** |
+| Aislamiento acústico | **42–44 dB** |
+| Resistencia al viento | **Clase B5** (máximo para correderas PVC) |
+| Estanqueidad al agua | **Clase 8A** (EN 12208) |
+| Permeabilidad al aire | **Clase 4** (EN 12207) |
+| Resistencia a la efracción | **RC 2** |
+| Peso máx. por hoja | **400 kg** |
+| Dimensión máx. hoja | **1.950 mm × 2.250 mm** |
+| Dimensión máx. marco | **4.000 mm × 2.600 mm** |
+| Configuraciones | **2, 3 o 4 hojas** |
+| Compatibilidad domótica | **Sí — Somfy, Nice, KNX** |
+
+---
+
+### El sellado paralelo patentado — por qué marca la diferencia
+
+Los sistemas correderos convencionales comprimen la junta **en diagonal o mediante elevación**, lo que genera un desgaste desigual y una pérdida progresiva de estanqueidad. Con evolutionDrive Plus+, el batiente **se desplaza estrictamente paralelo al marco** durante todo el recorrido, presionando la junta uniformemente en toda la superficie de contacto.
+
+Ventajas directas para el propietario:
+- **Clase de aire 4** — el máximo según EN 12207 para correderas PVC
+- **Cero corrientes de aire** — sellado perfecto en invierno y en verano
+- **Mayor vida útil de la junta** — desgaste uniforme, no localizado
+- **Funcionamiento silencioso** — reducción del ruido hasta el 75 %
+- **Resistencia al viento B5** — ideal para viviendas expuestas
+
+---
+
+### evolutionDrive Plus+ vs. corredera aluminio — comparativa directa
+
+| Criterio | evolutionDrive Plus+ PVC | Corredera aluminio |
+|---|---|---|
+| **Aislamiento térmico Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
+| **Riesgo de condensación** | Nulo — el PVC no conduce el frío | Posible sin rotura de puente térmico |
+| **Precio con instalación** | 1.800–3.000 € (2 hojas) | 3.500–6.000 € (2 hojas) |
+| **Apertura máxima** | 4,0 m | 6,0–8,0 m |
+| **Estética** | Moderno, PVC blanco o laminado | Arquitectónico, perfil metálico esbelto |
+
+---
+
+## Alumil Smartia M19800BT — Puerta plegable de aluminio con rotura de puente térmico
+
+### ¿Qué es el sistema Alumil M19800?
+
+**Smartia M19800** es el **sistema de puertas plegables de aluminio (acordeón / bi-fold)** producido por Alumil Group (Kilkis, Grecia) — uno de los mayores fabricantes de sistemas arquitectónicos de aluminio del sureste de Europa. La variante **BT (Rotura de Puente Térmico)** está diseñada específicamente para residencias premium, chalets, restaurantes con terraza, hoteles y locales comerciales que requieren **apertura total del muro** hacia el exterior.
+
+El principio acordeón: las hojas quedan suspendidas de un raíl superior y **se pliegan en un paquete compacto en un extremo** — liberando el 100 % del hueco, sin parteluz central, sin obstáculos visuales, sin raíl en el suelo.
+
+---
 
 ### Especificaciones técnicas M19800BT
 
 | Parámetro | Valor |
 |---|---|
-| Material | **Aluminio extruido con rotura de puente térmico** |
-| Altura máxima | **3,3 m por hoja** |
-| Peso máximo por hoja | **125 kg** |
-| Número de hojas | **2–8 (par o impar)** |
-| Dirección de apertura | **Interior o exterior** |
-| Juntas de estanqueidad | **4 juntas EPDM** |
-| Coeficiente térmico Uf | **1,0–1,8 W/m²K** (con rotura de puente térmico) |
-| Resistencia antiintrusión | **RC 2–3** |
-
-En apertura completa, las hojas se pliegan en un paquete compacto — liberando el **100% de la apertura** sin ningún obstáculo.
-
-**Para un presupuesto personalizado:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18**`,
-
-      it: `## Contesto del progetto — perché combinare PVC e alluminio è la scelta premium
-
-In una villa residenziale nell'area Bucarest-Ilfov, i proprietari hanno richiesto una soluzione completa per collegare soggiorno, terrazza e giardino: **una porta scorrevole PVC** per l'uso quotidiano e **un sistema di porte pieghevoli in alluminio** per l'apertura totale della parete in occasioni speciali. La stessa soluzione è molto apprezzata anche nelle ville di Roma, Milano e nelle grandi città italiane.
+| Material | **Aluminio extruido 6063-T5 con rotura de puente térmico de poliamida** |
+| Profundidad del perfil | **50 mm** |
+| Altura máx. por hoja | **3,3 m** |
+| Peso máx. por hoja | **125 kg** |
+| Número de hojas | **2 a 8 (configuraciones pares e impares)** |
+| Sentido de apertura | **Interior o exterior** |
+| Uf coeficiente térmico marco | **1,0–1,8 W/m²K** |
+| Resistencia a la efracción | **RC 2–3** |
+| Umbral | **Encastrado en el suelo (opcional)** |
+| Colores | **Todos los colores RAL + acabados madera** |
+| Anchura total máx. hueco | **6,0–8,0 m** |
 
 ---
 
-## Alumil Smartia M19800BT — la porta pieghevole in alluminio a taglio termico
+## Por qué evolutionDrive Plus+ + M19800BT es la combinación premium en 2026
 
-### Specifiche tecniche M19800BT
+| | evolutionDrive Plus+ PVC | M19800BT Aluminio |
+|---|---|---|
+| **Función en el proyecto** | Acceso diario salón-terraza | Apertura total para eventos y verano |
+| **Aislamiento térmico** | ⭐⭐⭐⭐⭐ Uw 0,71–1,0 | ⭐⭐⭐ Uw 1,2–1,8 |
+| **Apertura del hueco** | Parcial — 50 % | Total — 100 % |
+| **Coste relativo** | ✅ Accesible | 💰 Premium |
+| **Domótica** | ✅ Somfy, Nice, KNX | ✅ Motorización disponible |
+
+---
+
+## Precios orientativos 2026
+
+| Sistema | Configuración | Precio instalado |
+|---|---|---|
+| evolutionDrive Plus+ | 2 hojas, 2,4 m × 2,2 m | **1.900–2.800 €** |
+| evolutionDrive Plus+ | 3 hojas, 3,6 m × 2,2 m | **3.000–4.200 €** |
+| M19800BT | 4 hojas, 4,8 m × 2,4 m | **4.500–6.500 €** |
+| M19800BT | 6 hojas, 6,0 m × 2,4 m | **6.500–9.000 €** |
+| **Pack combinado** | evolutionDrive Plus+ 2H + M19800BT 4H | **6.500–9.000 €** |
+
+Más información sobre nuestras [carpinterías PVC Salamander](/es/carpinteria-pvc) y [carpinterías de aluminio Alumil](/es/carpinteria-aluminio).
+
+**Solicite presupuesto:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18 h**`,
+
+      it: `## Porta scorrevole Salamander evolutionDrive Plus+ — Il sistema scorrevole PVC più avanzato del 2026
+
+### Che cos'è la Salamander evolutionDrive Plus+?
+
+Salamander **evolutionDrive Plus+** è il **sistema scorrevole PVC a traslazione parallela** lanciato da Salamander Industrie-Produkte GmbH (Baviera, Germania) — produttore di profili con oltre 40 anni di esperienza nella serramentistica europea. Lanciato in Italia e in Europa nel 2023, evolutionDrive Plus+ ha ridefinito il punto di riferimento per le porte scorrevoli da terrazzo in PVC: tenuta brevettata di livello HST (alzante-scorrevole) a un costo notevolmente più accessibile.
+
+A differenza dei sistemi scorrevoli convenzionali (PSK anta-ribalta scorrevole o HST alzante-scorrevole), evolutionDrive Plus+ funziona attraverso una **traslazione orizzontale strettamente parallela** — l'anta non si solleva prima di scorrere, ma si sposta parallela al telaio durante tutto il movimento. Questo garantisce una compressione uniforme della guarnizione e una tenuta perfetta a ogni utilizzo.
+
+---
+
+### Dati tecnici evolutionDrive Plus+
 
 | Parametro | Valore |
 |---|---|
-| Materiale | **Alluminio estruso a taglio termico** |
-| Altezza massima | **3,3 m per anta** |
-| Peso massimo per anta | **125 kg** |
-| Numero di ante | **2–8 (pari o dispari)** |
-| Direzione di apertura | **Interno o esterno** |
-| Guarnizioni di tenuta | **4 guarnizioni EPDM** |
-| Coefficiente termico Uf | **1,0–1,8 W/m²K** (con taglio termico) |
+| Profilo base | **Salamander BluEvolution 92** (profondità 76 mm) |
+| Camere | **7 camere** |
+| Uw sistema (triplo vetro) | **0,71–1,0 W/m²K** |
+| Uf telaio | **0,95 W/m²K** |
+| Isolamento acustico | **42–44 dB** |
+| Resistenza al vento | **Classe B5** (massimo per scorrevoli PVC) |
+| Tenuta all'acqua | **Classe 8A** (EN 12208) |
+| Permeabilità all'aria | **Classe 4** (EN 12207) |
+| Resistenza all'effrazione | **RC 2** |
+| Peso max. per anta | **400 kg** |
+| Dimensione max. anta | **1.950 mm × 2.250 mm** |
+| Dimensione max. telaio | **4.000 mm × 2.600 mm** |
+| Configurazioni | **2, 3 o 4 ante** |
+| Compatibilità domotica | **Sì — Somfy, Nice, KNX** |
+
+---
+
+### La tenuta parallela brevettata — perché è fondamentale
+
+I sistemi scorrevoli convenzionali comprimono la guarnizione **in diagonale o tramite sollevamento**, causando usura irregolare e perdita progressiva di tenuta nel tempo. Con evolutionDrive Plus+, l'anta **si sposta strettamente parallela al telaio** per tutta la corsa, comprimendo la guarnizione uniformemente sull'intera superficie di contatto.
+
+Vantaggi diretti per il proprietario:
+- **Classe aria 4** — il massimo secondo EN 12207 per scorrevoli PVC
+- **Zero spifferi** — tenuta perfetta sia in inverno che in estate
+- **Maggiore durata della guarnizione** — usura uniforme, non localizzata
+- **Funzionamento silenzioso** — riduzione del rumore fino al 75 %
+- **Resistenza al vento B5** — ideale per abitazioni esposte
+
+---
+
+### evolutionDrive Plus+ vs alzante-scorrevole in alluminio — confronto diretto
+
+| Criterio | evolutionDrive Plus+ PVC | Alzante-scorrevole alluminio |
+|---|---|---|
+| **Isolamento termico Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
+| **Rischio condensa sul profilo** | Zero — il PVC non conduce il freddo | Possibile senza taglio termico premium |
+| **Costo con posa** | 1.800–3.000 € (2 ante) | 3.500–6.000 € (2 ante) |
+| **Apertura massima** | 4,0 m | 6,0–8,0 m |
+| **Estetica** | Moderno, PVC bianco o laminato | Architettonico, profilo metallico sottile |
+
+---
+
+## Alumil Smartia M19800BT — Porta a soffietto in alluminio con taglio termico
+
+### Che cos'è il sistema Alumil M19800?
+
+**Smartia M19800** è il **sistema di porte pieghevoli in alluminio (fisarmonica / bi-fold)** prodotto da Alumil Group (Kilkis, Grecia) — uno dei maggiori produttori di sistemi architetturali in alluminio del Sud-Est Europa. La variante **BT (Taglio Termico)** è progettata specificamente per residenze premium, ville, ristoranti con terrazza, hotel e spazi commerciali che richiedono l'**apertura totale della parete** verso l'esterno.
+
+Il principio a fisarmonica: le ante sono sospese a una guida superiore e **si ripiegano in un pacco compatto a un'estremità** — liberando il 100 % dell'apertura, senza montante centrale, senza ostacoli visivi, senza binari a pavimento.
+
+---
+
+### Dati tecnici M19800BT
+
+| Parametro | Valore |
+|---|---|
+| Materiale | **Alluminio estruso 6063-T5 con taglio termico in poliammide** |
+| Profondità profilo | **50 mm** |
+| Altezza max. per anta | **3,3 m** |
+| Peso max. per anta | **125 kg** |
+| Numero di ante | **Da 2 a 8 (configurazioni pari e dispari)** |
+| Verso di apertura | **Interno o esterno** |
+| Uf coefficiente termico telaio | **1,0–1,8 W/m²K** |
 | Resistenza all'effrazione | **RC 2–3** |
+| Soglia | **A filo pavimento, incassata (opzionale)** |
+| Colori | **Tutti i colori RAL + finiture legno** |
+| Larghezza totale max. vano | **6,0–8,0 m** |
 
-A piena apertura, le ante si ripiegano in un pacchetto compatto — liberando il **100% dell'apertura** senza alcun ostacolo.
+---
 
-**Per un preventivo personalizzato:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
-    },
+## Perché evolutionDrive Plus+ + M19800BT è la combinazione premium nel 2026
+
+| | evolutionDrive Plus+ PVC | M19800BT Alluminio |
+|---|---|---|
+| **Ruolo nel progetto** | Accesso quotidiano soggiorno-terrazza | Apertura totale per eventi e estate |
+| **Isolamento termico** | ⭐⭐⭐⭐⭐ Uw 0,71–1,0 | ⭐⭐⭐ Uw 1,2–1,8 |
+| **Apertura del vano** | Parziale — 50 % | Totale — 100 % |
+| **Costo relativo** | ✅ Accessibile | 💰 Premium |
+| **Domotica** | ✅ Somfy, Nice, KNX | ✅ Motorizzazione disponibile |
+
+---
+
+## Prezzi indicativi 2026
+
+| Sistema | Configurazione | Prezzo in opera |
+|---|---|---|
+| evolutionDrive Plus+ | 2 ante, 2,4 m × 2,2 m | **1.900–2.800 €** |
+| evolutionDrive Plus+ | 3 ante, 3,6 m × 2,2 m | **3.000–4.200 €** |
+| M19800BT | 4 ante, 4,8 m × 2,4 m | **4.500–6.500 €** |
+| M19800BT | 6 ante, 6,0 m × 2,4 m | **6.500–9.000 €** |
+| **Pacchetto combinato** | evolutionDrive Plus+ 2A + M19800BT 4A | **6.500–9.000 €** |
+
+Scopri di più sui nostri [infissi PVC Salamander](/it/infissi-pvc) e [infissi in alluminio Alumil](/it/infissi-alluminio).
+
+**Richiedi un preventivo:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
+    }
   },
 
   {
