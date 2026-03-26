@@ -146,8 +146,8 @@ const UI = {
     "guide_slug": "beschattungssysteme/kompletter-ratgeber"
   },
   "fr": {
-    "h1": "Prix systemes d'occultation 2026 — Zipscreen, Raffstore, Volets roulants",
-    "sub": "Prix indicatifs 2026 pour les systemes d'occultation exterieure: stores bannes zipscreen, persiennes raffstore, volets roulants aluminium. Devis personnalise a Bucarest et Ilfov.",
+    "h1": "Prix systemes occultation 2026 — Zipscreen, Raffstore, Volets roulants",
+    "sub": "Prix indicatifs 2026 pour les systemes occultation exterieure: stores bannes zipscreen, persiennes raffstore, volets roulants aluminium. Devis personnalise a Bucarest et Ilfov.",
     "parent_label": "Systemes d'occultation",
     "breadcrumb": "Prix 2026",
     "intro": "Le prix d'un systeme d'occultation exterieure depend du type de produit, des dimensions, du type de commande et de la complexite de la pose.",
@@ -279,18 +279,6 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }) {
   const { locale } = params;
-
-  const WA_URLS = {
-    ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20sisteme%20de%20umbrire.',
-    en: 'https://wa.me/40752443435?text=Hello%21%20I%20would%20like%20a%20quote%20for%20shading%20systems.',
-    de: 'https://wa.me/40752443435?text=Guten%20Tag%21%20Ich%20mochte%20ein%20Angebot%20fur%20Beschattungssysteme.',
-    fr: 'https://wa.me/40752443435?text=Bonjour%21%20Je%20souhaite%20un%20devis%20pour%20systemes%20occultation.',
-    es: 'https://wa.me/40752443435?text=Hola%21%20Me%20gustaria%20un%20presupuesto%20para%20sistemas%20de%20sombreado.',
-    it: 'https://wa.me/40752443435?text=Buongiorno%21%20Vorrei%20un%20preventivo%20per%20sistemi%20di%20oscuramento.',
-  };
-  const waUrl = WA_URLS[locale] || WA_URLS.ro;
-  const waLabel = locale === 'de' ? 'WhatsApp — Antwort in 15 Min.' : locale === 'fr' ? 'WhatsApp — Reponse en 15 min' : locale === 'es' ? 'WhatsApp — Respuesta en 15 min' : locale === 'it' ? 'WhatsApp — Risposta in 15 min' : locale === 'en' ? 'WhatsApp — Reply in 15 min' : 'WhatsApp — Raspuns in 15 min';
-
 
   const WA_URLS = {
     ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20sisteme%20de%20umbrire.',

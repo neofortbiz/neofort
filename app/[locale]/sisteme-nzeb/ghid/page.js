@@ -251,7 +251,7 @@ const BLOG_LINKS = {
     { slug: 'vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti', label: 'Vitrine și geamuri panoramice de mari dimensiuni — securizate, antiefracție, termoizolante — furnizor București 2026' },
   ],
   en: [
-    { slug: 'blaugelb-triotherm-precasing-installation-nzeb', label: 'Installation with Blaugelb Triotherm+ Precasings — Why It\' },
+    { slug: 'blaugelb-triotherm-precasing-installation-nzeb', label: 'Installation with Blaugelb Triotherm+ Precasings for nZEB' },
     { slug: 'how-to-choose-energy-efficient-windows-bucharest-nzeb-guide-2026', label: 'How to choose energy-efficient windows in Bucharest? Complete nZEB guide 2026' },
     { slug: 'oversized-glass-installation-robot-vacuum-cups-large-panels', label: 'Installing oversized glass with robot and vacuum cups — how glass panels of hundreds of kilograms are installed' },
     { slug: 'glass-shopfronts-panoramic-large-format-tempered-windows-bucharest', label: 'Large format glass shopfronts and panoramic windows — tempered, burglar-resistant, thermally insulated — supplier Bucharest 2026' },
@@ -263,7 +263,7 @@ const BLOG_LINKS = {
     { slug: 'schaufenster-panoramascheiben-grosse-abmessungen-sicherheitsglas-bukarest', label: 'Großformat-Schaufenster und Panoramascheiben — gehärtet, einbruchhemmend, wärmedämmend — Händler Bukarest 2026' },
   ],
   fr: [
-    { slug: 'precadres-blaugelb-triotherm-pose-nzeb', label: 'Pose avec précadres Blaugelb Triotherm+ — pourquoi c\' },
+    { slug: 'precadres-blaugelb-triotherm-pose-nzeb', label: 'Pose avec précadres Blaugelb Triotherm+ — pourquoi c' },
     { slug: 'comment-choisir-fenetres-efficaces-energetiquement-bucarest-nzeb-2026', label: 'Comment choisir des fenêtres efficaces énergétiquement à Bucarest ? Guide complet nZEB 2026' },
     { slug: 'pose-verre-surdimensionne-robot-ventouses-grands-panneaux', label: 'Pose de verre surdimensionné par robot et ventouses — comment installer des panneaux de verre de plusieurs centaines de kilogrammes' },
     { slug: 'vitrines-verre-fenetres-panoramiques-grandes-dimensions-securisees-bucarest', label: 'Vitrines et fenêtres panoramiques grand format — sécurisées, antieffraction, thermoïsolantes — fournisseur Bucarest 2026' },
@@ -463,15 +463,15 @@ export default function NZEBGhidPage({ params }) {
         <p style={{ fontSize: '.95rem', color: '#4a4a4a', lineHeight: 1.75, marginBottom: '48px' }}>{ui.nzeb}</p>
 
 {/* MID-PAGE WA CTA */}
-        <div style={{{{background:'linear-gradient(135deg,#075e54 0%,#128c7e 100%)',padding:'28px 24px',borderRadius:'4px',display:'flex',flexDirection:'column',alignItems:'center',textAlign:'center',gap:'10px',margin:'0 0 48px'}}}}>
-          <div style={{{{fontFamily:'Barlow Condensed,sans-serif',fontWeight:700,fontSize:'clamp(1rem,3vw,1.3rem)',letterSpacing:'.05em',textTransform:'uppercase',color:'#fff',lineHeight:1.2}}}}>
-            {{midTitle}}
+        <div style={{background:'linear-gradient(135deg,#075e54 0%,#128c7e 100%)',padding:'28px 24px',borderRadius:'4px',display:'flex',flexDirection:'column',alignItems:'center',textAlign:'center',gap:'10px',margin:'0 0 48px'}}>
+          <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:700,fontSize:'clamp(1rem,3vw,1.3rem)',letterSpacing:'.05em',textTransform:'uppercase',color:'#fff',lineHeight:1.2}}>
+            {midTitle}
           </div>
-          <div style={{{{fontSize:'.8rem',color:'rgba(255,255,255,.8)',lineHeight:1.5,maxWidth:'480px'}}}}>
-            {{midDesc}}
+          <div style={{fontSize:'.8rem',color:'rgba(255,255,255,.8)',lineHeight:1.5,maxWidth:'480px'}}>
+            {midDesc}
           </div>
-          <a href={{{{waUrl}}}} target="_blank" rel="noopener noreferrer"
-            style={{{{display:'inline-flex',alignItems:'center',gap:'10px',background:'#25d366',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:700,fontSize:'.78rem',letterSpacing:'.15em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',borderRadius:'2px',marginTop:'4px'}}}}>
+          <a href={waUrl} target="_blank" rel="noopener noreferrer"
+            style={{display:'inline-flex',alignItems:'center',gap:'10px',background:'#25d366',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:700,fontSize:'.78rem',letterSpacing:'.15em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',borderRadius:'2px',marginTop:'4px'}}>
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
             {{waLabel}}
           </a>
