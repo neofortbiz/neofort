@@ -10153,7 +10153,7 @@ Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e 
     imageLabel: 'Osciloculisantă Dublă',
     accentColor: '#2d5a8e',
     video: {
-      embed: '<div style="display:flex;justify-content:center;width:100%"><div style="position:relative;width:100%;max-width:360px;padding-bottom:177.78%;height:0;overflow:hidden;border-radius:8px"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" src="https://www.youtube.com/embed/OPVmdDvrnR0" title="Osciloculisantă Dublă PVC Salamander — Neofort BIZ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>',
+      embed: '<div style="display:flex;justify-content:center;width:100%;margin:0 0 8px"><div style="width:100%;max-width:360px"><div style="position:relative;width:100%;padding-bottom:177.78%;height:0;overflow:hidden;border-radius:8px"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" src="https://www.youtube.com/embed/OPVmdDvrnR0" title="Osciloculisantă Dublă PVC Salamander — Neofort BIZ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div>',
       position: 'after-intro',
     },
     title: {
@@ -11842,8 +11842,7 @@ Scopri di più sui nostri [infissi PVC Salamander](/it/infissi-pvc) e [infissi i
     imageLabel: 'Antiefracție + Amprentă',
     accentColor: '#1a1a2a',
     video: {
-      embed: '<div style="display:flex;justify-content:center;width:100%"><div style="position:relative;width:100%;max-width:360px;padding-bottom:min(177.78%,calc(177.78% * 1));height:0;overflow:hidden;border-radius:8px"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" src="https://www.youtube.com/embed/lOWoBCug3Fg" title="Uși de intrare antiefracție comanda tactilă amprenta" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>',
-      position: 'after-intro',
+      embed: '<div style="display:flex;justify-content:center;width:100%;margin:0 0 8px"><div style="width:100%;max-width:360px"><div style="position:relative;width:100%;padding-bottom:177.78%;height:0;overflow:hidden;border-radius:8px"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" src="https://www.youtube.com/embed/lOWoBCug3Fg" title="Uși antiefracție comandă tactilă amprentă digitală — Neofort BIZ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div></div>',      position: 'after-intro',
     },
     title: {
       ro: 'Uși de Intrare Antiefracție cu Comandă Tactilă și Amprentă Digitală — Ghid complet de securitate',
