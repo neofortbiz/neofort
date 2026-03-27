@@ -12143,7 +12143,14 @@ I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistem
     },
     date: '2026-02-10',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    image: '/blog/blog-somfy-rulouri-motoare.avif',
+    image: {
+      ro: '/blog/blog-somfy-rulouri-motoare.avif',
+      en: '/blog/blog-somfy-rulouri-motoare.avif',
+      de: '/blog/blog-somfy-rulouri-motoare.avif',
+      fr: '/blog/blog-somfy-rulouri-motoare.avif',
+      es: '/blog/blog-somfy-rulouri-motoare.avif',
+      it: '/blog/blog-somfy-rulouri-motoare.avif',
+    },
     imageBg: '#1a1a2e',
     accentColor: '#d4001a',
     imageLabel: 'Motoare Somfy pentru rulouri exterioare — Oximo io, RS100, telecomandă Somfy',
@@ -12174,64 +12181,128 @@ I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistem
       it: 'Il motore Somfy Oximo io è la scelta migliore per automatizzare le tapparelle esterne nel 2026. Silenzioso, autoregolante, compatibile TaHoma e garanzia 5 anni — da 250 EUR installato. Completo con RS100 io solare, l\'opzione senza cavi.',
     },
     content: {
-      ro: `<h2>De ce Somfy pentru rulouri exterioare?</h2>
-<p>Somfy este liderul global în automatizarea rulourilor și jaluzelelor, cu prezență în România de peste 20 de ani și o rețea de parteneri certificați care garantează montaj și configurare profesionale. Spre deosebire de motoarele generice din import, Somfy oferă cel mai extins ecosistem de automatizare — de la telecomanda simplă până la integrarea completă în sistemul TaHoma smart home, compatibil cu Alexa, Google Home și Apple HomeKit.</p>
-<h2>Motoare Somfy pentru rulouri exterioare — ghid comparativ 2026</h2>
-<h3>Somfy Oximo io — motorul de referință</h3>
-<p>Motorul Oximo io este soluția standard recomandată pentru rulouri exterioare de dimensiuni medii și mari. Funcționează la 230V, dispune de 2 viteze (coborâre rapidă + oprire lentă pentru minimizarea impactului), autoreglare automată a lungimii cortinei pe toată durata de viață și detectare automată a obstacolelor. Testarea la 17.500 cicluri și garanția de 5 ani îl plasează în fruntea categoriei. Compatibilitatea io-homecontrol asigură integrarea nativă cu TaHoma Switch și toată gama de telecomenzi Somfy io.</p>
-<h3>Somfy RS100 io — versatil și universal</h3>
-<p>Motorul RS100 io este soluția universală adaptată tuturor tipurilor de rulouri exterioare, inclusiv celor înguste. Laureatul trofeului „Cea mai bună inovație" la EquipBaie 2016, RS100 io combină fiabilitatea dovedită cu prețul cel mai accesibil din gama io. Varianta RS100 io Solar funcționează exclusiv cu energie solară — panel fotovoltaic + baterie 12V — eliminând complet necesitatea cablurilor electrice și senzorul de lumină integrat deschide/închide automat rulourile în funcție de intensitatea luminii.</p>
-<h3>Telecomandă Somfy — control de la distanță</h3>
-<p>Telecomanda Situo 5 io permite controlul individual sau centralizat a până la 5 rulouri cu un singur dispozitiv radio. Telecomanda Telis 4 RTS acoperă 4 canale individuale + 1 canal grup, ideală pentru apartamente și case. Criptarea pe 128 biți, frecvența de 868 MHz și 16 milioane de coduri posibile asigură securitate maximă împotriva copierii.</p>
-<h2>Cât costă un motor Somfy pentru rulouri în 2026?</h2>
-<p>Prețul unui motor Somfy montat profesional în București și Ilfov pornește de la <strong>250 EUR / motor</strong> (Oximo io sau RS100 io, inclusiv manoperă și configurarea telecomenzii). Telecomanda Somfy individuală pornește de la 60 EUR. Kit-ul TaHoma Switch pentru control smartphone pornește de la 180 EUR. Motoarele pentru rulouri înguste sau varianta solar au prețuri similare — solicitați ofertă personalizată.</p>
-<h2>Automatizare rulouri cu TaHoma — scenarii practice</h2>
-<p>Prin TaHoma Switch puteți programa scenarii automate: rulourile coboară la apus de soare, se ridică dimineața la o oră fixă, reacționează la temperaturi extreme sau la intensitatea vântului prin senzorul Sunis io. Funcția de simulare a prezenței deschide și închide rulourile aleatoriu în perioadele de vacanță, descurajând tentativele de efracție.</p>
-<p>Neofort BIZ montează motoare Somfy în București, Ilfov și în toată România. <a href="/ro/accesorii/automatizari-somfy-rulouri-pergole">Solicitați ofertă pentru automatizări Somfy</a>.</p>`,
-      en: `<h2>Why Somfy for exterior shutters?</h2>
-<p>Somfy is the global leader in shutter and blind automation, with over 20 years of presence in Romania and a certified partner network guaranteeing professional installation and configuration. Unlike generic imported motors, Somfy offers the most extensive automation ecosystem — from simple remote control to full integration into the TaHoma smart home system, compatible with Alexa, Google Home and Apple HomeKit.</p>
-<h2>Somfy motors for exterior shutters — 2026 comparative guide</h2>
-<h3>Somfy Oximo io — the reference motor</h3>
-<p>The Oximo io motor is the recommended standard solution for medium and large exterior shutters. It operates at 230V, features 2 speeds (fast lowering + slow stop to minimise impact), automatic curtain length self-adjustment over its entire lifetime and automatic obstacle detection. Testing at 17,500 cycles and a 5-year warranty place it at the top of the category. io-homecontrol compatibility ensures native integration with TaHoma Switch and the entire Somfy io remote range.</p>
-<h3>Somfy RS100 io — versatile and universal</h3>
-<p>The RS100 io motor is the universal solution adapted to all types of exterior shutters, including narrow ones. Winner of the "Best Innovation" trophy at EquipBaie 2016, the RS100 io combines proven reliability with the most accessible price in the io range. The RS100 io Solar variant operates exclusively on solar energy — photovoltaic panel + 12V battery — completely eliminating the need for electrical cables.</p>
-<h3>Somfy remote control</h3>
-<p>The Situo 5 io remote allows individual or centralised control of up to 5 shutters with a single radio device. 128-bit encryption, 868 MHz frequency and 16 million possible codes provide maximum security against copying.</p>
-<h2>How much does a Somfy motor for shutters cost in 2026?</h2>
-<p>The price of a professionally installed Somfy motor in Bucharest and Ilfov starts from <strong>250 EUR / motor</strong> (Oximo io or RS100 io, including labour and remote configuration). TaHoma Switch kit from 180 EUR. Request a personalised quote.</p>
-<p>Neofort BIZ installs Somfy motors in Bucharest, Ilfov and throughout Romania. <a href="/en/accessories/somfy-automation-shutters-pergolas">Request a Somfy automation quote</a>.</p>`,
-      de: `<h2>Warum Somfy für Außenrollläden?</h2>
-<p>Somfy ist der globale Marktführer in der Automatisierung von Rollläden und Jalousien, mit über 20 Jahren Präsenz in Rumänien und einem zertifizierten Partnernetzwerk, das professionelle Montage und Konfiguration garantiert. Im Gegensatz zu generischen Importmotoren bietet Somfy das umfangreichste Automatisierungsökosystem — von der einfachen Fernbedienung bis zur vollständigen Integration in das TaHoma Smart-Home-System, kompatibel mit Alexa, Google Home und Apple HomeKit.</p>
-<h2>Somfy Motoren für Außenrollläden — Vergleichsratgeber 2026</h2>
-<h3>Somfy Oximo io — der Referenzmotor</h3>
-<p>Der Oximo io Motor ist die empfohlene Standardlösung für mittelgroße und große Außenrollläden. Er arbeitet mit 230V, verfügt über 2 Geschwindigkeiten, automatische Selbstjustierung der Vorhanglänge und automatische Hinderniserkennung. Tests mit 17.500 Zyklen und 5 Jahre Garantie.</p>
-<h2>Was kostet ein Somfy Motor für Rollläden 2026?</h2>
-<p>Der Preis eines professionell montierten Somfy Motors in Bukarest und Ilfov beginnt bei <strong>250 EUR / Motor</strong>. TaHoma Switch Kit ab 180 EUR. Fordern Sie ein individuelles Angebot an.</p>
-<p>Neofort BIZ montiert Somfy-Motoren in Bukarest, Ilfov und ganz Rumänien. <a href="/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen">Angebot für Somfy-Automatisierung anfordern</a>.</p>`,
-      fr: `<h2>Pourquoi Somfy pour les volets roulants extérieurs ?</h2>
-<p>Somfy est le leader mondial de l'automatisation des volets et stores, avec plus de 20 ans de présence en Roumanie et un réseau de partenaires certifiés garantissant installation et configuration professionnelles. Contrairement aux moteurs génériques importés, Somfy offre l'écosystème d'automatisation le plus étendu — de la simple télécommande à l'intégration complète dans le système maison connectée TaHoma, compatible Alexa, Google Home et Apple HomeKit.</p>
-<h2>Moteurs Somfy pour volets roulants extérieurs — guide comparatif 2026</h2>
-<h3>Somfy Oximo io — le moteur de référence</h3>
-<p>Le moteur Oximo io est la solution standard recommandée pour les volets de taille moyenne et grande. Il fonctionne à 230V, dispose de 2 vitesses, d'un autoréglage automatique de la longueur du tablier et d'une détection automatique des obstacles. Tests à 17 500 cycles et garantie 5 ans.</p>
-<h2>Quel est le prix d'un moteur Somfy pour volets en 2026 ?</h2>
-<p>Le prix d'un moteur Somfy posé professionnellement à Bucarest et Ilfov commence à <strong>250 EUR / moteur</strong>. Kit TaHoma Switch à partir de 180 EUR. Demandez un devis personnalisé.</p>
-<p>Neofort BIZ pose des moteurs Somfy à Bucarest, Ilfov et dans toute la Roumanie. <a href="/fr/accessoires/automatisation-somfy-volets-pergolas">Demander un devis automatisation Somfy</a>.</p>`,
-      es: `<h2>¿Por qué Somfy para persianas exteriores?</h2>
-<p>Somfy es el líder mundial en automatización de persianas y estores, con más de 20 años de presencia en Rumanía y una red de partners certificados que garantizan instalación y configuración profesionales. A diferencia de los motores genéricos importados, Somfy ofrece el ecosistema de automatización más extenso — desde el simple mando a distancia hasta la integración completa en el sistema de hogar inteligente TaHoma, compatible con Alexa, Google Home y Apple HomeKit.</p>
-<h2>Motores Somfy para persianas exteriores — guía comparativa 2026</h2>
-<h3>Somfy Oximo io — el motor de referencia</h3>
-<p>El motor Oximo io es la solución estándar recomendada para persianas de tamaño medio y grande. Funciona a 230V, dispone de 2 velocidades, autoajuste automático de la longitud de la cortina y detección automática de obstáculos. Pruebas a 17.500 ciclos y garantía de 5 años.</p>
-<h2>¿Cuánto cuesta un motor Somfy para persianas en 2026?</h2>
-<p>El precio de un motor Somfy instalado profesionalmente en Bucarest e Ilfov comienza en <strong>250 EUR / motor</strong>. Kit TaHoma Switch desde 180 EUR. Solicite un presupuesto personalizado.</p>
-<p>Neofort BIZ instala motores Somfy en Bucarest, Ilfov y en toda Rumanía. <a href="/es/accesorios/automatizacion-somfy-persianas-pergolas">Solicitar presupuesto automatización Somfy</a>.</p>`,
-      it: `<h2>Perché Somfy per le tapparelle esterne?</h2>
-<p>Somfy è il leader mondiale nell'automazione di tapparelle e veneziane, con oltre 20 anni di presenza in Romania e una rete di partner certificati che garantiscono installazione e configurazione professionali. A differenza dei motori generici importati, Somfy offre l'ecosistema di automazione più esteso — dal semplice telecomando all'integrazione completa nel sistema di casa intelligente TaHoma, compatibile con Alexa, Google Home e Apple HomeKit.</p>
-<h2>Motori Somfy per tapparelle esterne — guida comparativa 2026</h2>
-<h3>Somfy Oximo io — il motore di riferimento</h3>
-<p>Il motore Oximo io è la soluzione standard consigliata per tapparelle di medie e grandi dimensioni. Funziona a 230V, dispone di 2 velocità, autoregolazione automatica della lunghezza del tendone e rilevamento automatico degli ostacoli. Test a 17.500 cicli e garanzia 5 anni.</p>
-<h2>Quanto costa un motore Somfy per tapparelle nel 2026?</h2>
-<p>Il prezzo di un motore Somfy installato professionalmente a Bucarest e Ilfov parte da <strong>250 EUR / motore</strong>. Kit TaHoma Switch da 180 EUR. Richiedete un preventivo personalizzato.</p>
-<p>Neofort BIZ installa motori Somfy a Bucarest, Ilfov e in tutta la Romania. <a href="/it/accessori/automazione-somfy-tapparelle-pergole">Richiedere preventivo automazione Somfy</a>.</p>`,
+      ro: `## De ce Somfy pentru rulouri exterioare?
+
+Somfy este liderul global în automatizarea rulourilor și jaluzelelor, cu prezență în România de peste 20 de ani. Spre deosebire de motoarele generice din import, Somfy oferă cel mai extins ecosistem de automatizare — de la telecomanda simplă până la integrarea completă în sistemul TaHoma smart home, compatibil cu Alexa, Google Home și Apple HomeKit.
+
+## Motoare Somfy pentru rulouri — ghid comparativ 2026
+
+### Somfy Oximo io — motorul de referință
+
+Motorul Oximo io este soluția standard recomandată pentru rulouri exterioare de dimensiuni medii și mari. Funcționează la 230V, dispune de 2 viteze (coborâre rapidă + oprire lentă), autoreglare automată a lungimii cortinei pe toată durata de viață și detectare automată a obstacolelor. Testarea la 17.500 cicluri și garanția de 5 ani îl plasează în fruntea categoriei.
+
+### Somfy RS100 io — versatil și universal
+
+Motorul RS100 io este soluția universală adaptată tuturor tipurilor de rulouri exterioare, inclusiv celor înguste. Varianta RS100 io Solar funcționează exclusiv cu energie solară — panel fotovoltaic + baterie 12V — eliminând complet necesitatea cablurilor electrice.
+
+### Telecomandă Somfy — control de la distanță
+
+Telecomanda Situo 5 io permite controlul individual sau centralizat a până la 5 rulouri. Criptarea pe 128 biți, frecvența de 868 MHz și 16 milioane de coduri posibile asigură securitate maximă.
+
+## Cât costă un motor Somfy pentru rulouri în 2026?
+
+Prețul unui motor Somfy montat profesional în București și Ilfov pornește de la **250 EUR / motor** (Oximo io sau RS100 io, inclusiv manoperă și configurarea telecomenzii). Telecomanda Somfy individuală pornește de la 60 EUR. Kit-ul TaHoma Switch pentru control smartphone pornește de la 180 EUR.
+
+## Automatizare rulouri cu TaHoma — scenarii practice
+
+Prin TaHoma Switch puteți programa scenarii automate: rulourile coboară la apus de soare, se ridică dimineața la o oră fixă, reacționează la temperaturi extreme sau la intensitatea vântului prin senzorul Sunis io.
+
+[Solicitați ofertă pentru automatizări Somfy](/ro/accesorii/automatizari-somfy-rulouri-pergole)`,
+      en: `## Why Somfy for exterior shutters?
+
+Somfy is the global leader in shutter and blind automation, with over 20 years of presence in Romania. Unlike generic imported motors, Somfy offers the most extensive automation ecosystem — from simple remote control to full integration into the TaHoma smart home system, compatible with Alexa, Google Home and Apple HomeKit.
+
+## Somfy motors for exterior shutters — 2026 guide
+
+### Somfy Oximo io — the reference motor
+
+The Oximo io motor is the recommended standard solution for medium and large exterior shutters. It operates at 230V, features 2 speeds, automatic curtain length self-adjustment over its entire lifetime and automatic obstacle detection. Testing at 17,500 cycles and a 5-year warranty.
+
+### Somfy RS100 io Solar — no electrical cables
+
+The RS100 io Solar variant operates exclusively on solar energy — photovoltaic panel + 12V battery — no electrical cables required.
+
+## How much does a Somfy motor cost in 2026?
+
+The price of a professionally installed Somfy motor in Bucharest and Ilfov starts from **250 EUR / motor**. TaHoma Switch kit from 180 EUR.
+
+[Request a Somfy automation quote](/en/accessories/somfy-automation-shutters-pergolas)`,
+      de: `## Warum Somfy für Außenrollläden?
+
+Somfy ist der globale Marktführer in der Automatisierung von Rollläden, mit über 20 Jahren Präsenz in Rumänien. Kompatibel mit Alexa, Google Home und Apple HomeKit.
+
+## Somfy Motoren für Außenrollläden — Ratgeber 2026
+
+### Somfy Oximo io — der Referenzmotor
+
+Der Oximo io Motor arbeitet mit 230V, verfügt über 2 Geschwindigkeiten, automatische Selbstjustierung der Vorhanglänge und automatische Hinderniserkennung. Tests mit 17.500 Zyklen und 5 Jahre Garantie.
+
+### Somfy RS100 io Solar — ohne Elektrokabel
+
+Der RS100 io Solar läuft mit Photovoltaik-Panel und 12V-Akku — ideal für Renovierungen ohne Elektroinstallation.
+
+## Somfy Motor Preise 2026
+
+Professionell montierter Somfy Motor in Bukarest ab **250 EUR / Motor**. TaHoma Switch Kit ab 180 EUR.
+
+[Somfy Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)`,
+      fr: `## Pourquoi Somfy pour les volets roulants ?
+
+Somfy est le leader mondial de l'automatisation des volets, avec plus de 20 ans en Roumanie. Compatible avec Alexa, Google Home et Apple HomeKit.
+
+## Moteurs Somfy pour volets — guide 2026
+
+### Somfy Oximo io — le moteur de référence
+
+Le moteur Oximo io fonctionne à 230V, dispose de 2 vitesses, autoréglage automatique du tablier et détection des obstacles. Tests à 17 500 cycles et garantie 5 ans.
+
+### Somfy RS100 io Solar — sans câble électrique
+
+Le RS100 io Solar fonctionne avec panneau photovoltaïque et batterie 12V — idéal pour les rénovations.
+
+## Prix moteur Somfy 2026
+
+Moteur Somfy posé à Bucarest à partir de **250 EUR / moteur**. Kit TaHoma Switch à partir de 180 EUR.
+
+[Demander un devis automatisation Somfy](/fr/accessoires/automatisation-somfy-volets-pergolas)`,
+      es: `## Por qué Somfy para persianas exteriores?
+
+Somfy es el líder mundial en automatización de persianas, con más de 20 años en Rumanía. Compatible con Alexa, Google Home y Apple HomeKit.
+
+## Motores Somfy para persianas — guía 2026
+
+### Somfy Oximo io — el motor de referencia
+
+El motor Oximo io funciona a 230V, dispone de 2 velocidades, autoajuste automático y detección de obstáculos. Pruebas a 17.500 ciclos y garantía de 5 años.
+
+### Somfy RS100 io Solar — sin cable eléctrico
+
+El RS100 io Solar funciona con panel fotovoltaico y batería 12V — ideal para reformas.
+
+## Precios motor Somfy 2026
+
+Motor Somfy instalado en Bucarest desde **250 EUR / motor**. Kit TaHoma Switch desde 180 EUR.
+
+[Solicitar presupuesto automatización Somfy](/es/accesorios/automatizacion-somfy-persianas-pergolas)`,
+      it: `## Perché Somfy per le tapparelle esterne?
+
+Somfy è il leader mondiale nell'automazione delle tapparelle, con oltre 20 anni in Romania. Compatibile con Alexa, Google Home e Apple HomeKit.
+
+## Motori Somfy per tapparelle — guida 2026
+
+### Somfy Oximo io — il motore di riferimento
+
+Il motore Oximo io funziona a 230V, dispone di 2 velocità, autoregolazione automatica e rilevamento degli ostacoli. Test a 17.500 cicli e garanzia 5 anni.
+
+### Somfy RS100 io Solare — senza cavo elettrico
+
+Il RS100 io Solare funziona con pannello fotovoltaico e batteria 12V — ideale per ristrutturazioni.
+
+## Prezzi motore Somfy 2026
+
+Motore Somfy installato a Bucarest da **250 EUR / motore**. Kit TaHoma Switch da 180 EUR.
+
+[Richiedere preventivo automazione Somfy](/it/accessori/automazione-somfy-tapparelle-pergole)`,
     },
     keywords: 'motor Somfy rulouri, automatizare rulouri exterioare, motor Oximo io, RS100 io Somfy, telecomanda Somfy, Somfy TaHoma, automatizare jaluzele, motor rulou pret, rulouri electrice Somfy, Somfy Bucuresti',
     dateDisplay: {
@@ -12254,7 +12325,14 @@ I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistem
     },
     date: '2026-01-15',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    image: '/blog/blog-somfy-pergole.avif',
+    image: {
+      ro: '/blog/blog-somfy-pergole.avif',
+      en: '/blog/blog-somfy-pergole.avif',
+      de: '/blog/blog-somfy-pergole.avif',
+      fr: '/blog/blog-somfy-pergole.avif',
+      es: '/blog/blog-somfy-pergole.avif',
+      it: '/blog/blog-somfy-pergole.avif',
+    },
     imageBg: '#1c2b1a',
     accentColor: '#d4001a',
     imageLabel: 'Automatizare Somfy pergole și copertine — Pergola RGS io, Sunea io, protecție vânt',
@@ -12285,56 +12363,116 @@ I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistem
       it: 'Una pergola o tenda motorizzata Somfy si apre e chiude automaticamente in base a vento, pioggia e luce. I motori Pergola RGS io e Sunea io hanno protezione automatica dal vento e si integrano nativamente in TaHoma Smart Home.',
     },
     content: {
-      ro: `<h2>De ce automatizați pergola sau copertina?</h2>
-<p>O pergolă sau copertină manuală necesită intervenție constantă — trebuie strânsă la fiecare ploaie sau rafală de vânt, deschisă dimineața și închisă seara. Automatizarea Somfy elimină complet această rutină: motoricarea cu Pergola RGS io sau Sunea io asigură reacția automată la condițiile meteorologice, programarea prin TaHoma și controlul vocal prin Alexa sau Google Home.</p>
-<h2>Motoare Somfy pentru pergole — Pergola 50 RGS io și 60 RGS io</h2>
-<p>Seria Pergola RGS io este dedicată pergolelor ghidate pe șine, cele mai frecvente în România pentru terase rezidențiale și comerciale. Motorul Pergola 50 RGS io acoperă deschideri până la 4 m, iar 60 RGS io până la 5 m. Ambele modele includ protecție automată la vânt — la rafale care depășesc un prag prestabilit, motorul retrage automat pânza pergolei pentru a preveni deteriorarea. Compatibilitatea io-homecontrol permite integrarea directă cu TaHoma Switch și senzorul meteo Sunis io.</p>
-<h2>Motoare Somfy pentru copertine — Sunea 40 io și 50 io</h2>
-<p>Seria Sunea io este soluția dedicată copertinelor retractabile cu braț articulat. Senzorul de lumină solar integrat în Sunea 40 Solar io permite funcționarea autonomă fără cabluri electrice — ideal pentru copertine de balcon sau terase unde instalarea cablurilor este dificilă. Motorul reacționează automat la intensitatea luminii solare, extinzând copertina când soarele e puternic și retrăgând-o la întunecat sau la vânt puternic.</p>
-<h2>Protecție automată la vânt și ploaie</h2>
-<p>Senzorul Sunis Wirefree II io monitorizează în timp real intensitatea luminii, temperatura și viteza vântului. Când rafale depășesc 50 km/h (prag configurabil), copertinele și pergolele Somfy se retrag automat, prevenind daunele structurale. La revenirea condițiilor normale, se extind din nou automat sau la comandă.</p>
-<h2>Integrare TaHoma și control vocal</h2>
-<p>Prin TaHoma Switch, pergola și copertina devin parte din scenariile smart home: „Bun venit acasă" — copertina se extinde, muzica pornește; „Noapte bună" — se retrag toate; „Plecare" — se verifică și se blochează. Controlul vocal prin Alexa, Google Home și Apple Siri este disponibil nativ.</p>
-<h2>Prețuri automatizare pergolă Somfy în București 2026</h2>
-<p>Motorul Somfy pentru pergolă pornește de la <strong>350 EUR montat</strong> (Pergola 50 RGS io, inclusiv manoperă și configurare TaHoma). Senzorul de vânt/lumină Sunis io de la 80 EUR. Contactați Neofort BIZ pentru ofertă personalizată în funcție de dimensiunile și tipul pergolei dumneavoastră.</p>
-<p><a href="/ro/accesorii/automatizari-somfy-rulouri-pergole">Solicitați ofertă automatizare Somfy pergole și rulouri</a>.</p>`,
-      en: `<h2>Why automate your pergola or awning?</h2>
-<p>A manual pergola or awning requires constant intervention. Somfy automation eliminates this entirely: motorising with Pergola RGS io or Sunea io ensures automatic reaction to weather conditions, TaHoma scheduling and voice control via Alexa or Google Home.</p>
-<h2>Somfy motors for pergolas — Pergola 50 RGS io and 60 RGS io</h2>
-<p>The Pergola RGS io range is dedicated to rail-guided pergolas. The Pergola 50 RGS io covers openings up to 4 m, 60 RGS io up to 5 m. Both models include automatic wind protection. io-homecontrol compatibility allows direct integration with TaHoma Switch and the Sunis io weather sensor.</p>
-<h2>Somfy motors for awnings — Sunea 40 io and 50 io</h2>
-<p>The Sunea io range is the dedicated solution for retractable articulated arm awnings. The integrated solar light sensor in Sunea 40 Solar io allows autonomous operation without electrical cables.</p>
-<h2>Pergola motor prices in Bucharest 2026</h2>
-<p>A Somfy pergola motor starts from <strong>350 EUR installed</strong> (Pergola 50 RGS io, including labour and TaHoma configuration). Contact Neofort BIZ for a personalised quote.</p>
-<p><a href="/en/accessories/somfy-automation-shutters-pergolas">Request Somfy pergola and shutter automation quote</a>.</p>`,
-      de: `<h2>Warum Pergola oder Markise automatisieren?</h2>
-<p>Eine manuelle Pergola oder Markise erfordert ständige Eingriffe. Somfy-Automatisierung eliminiert dies vollständig: Motorisierung mit Pergola RGS io oder Sunea io gewährleistet automatische Reaktion auf Wetterbedingungen, TaHoma-Programmierung und Sprachsteuerung via Alexa oder Google Home.</p>
-<h2>Somfy Motoren für Pergolen — Pergola 50 RGS io und 60 RGS io</h2>
-<p>Die Pergola RGS io Reihe ist für schienengeführte Pergolen bestimmt. Der Pergola 50 RGS io deckt Öffnungen bis 4 m ab, 60 RGS io bis 5 m. Beide Modelle umfassen automatischen Windschutz.</p>
-<h2>Pergola Motor Preise in Bukarest 2026</h2>
-<p>Ein Somfy Pergola-Motor startet ab <strong>350 EUR montiert</strong>. Kontaktieren Sie Neofort BIZ für ein individuelles Angebot.</p>
-<p><a href="/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen">Somfy Pergola-Automatisierung anfragen</a>.</p>`,
-      fr: `<h2>Pourquoi automatiser sa pergola ou son store ?</h2>
-<p>Une pergola ou un store manuel nécessite une intervention constante. L'automatisation Somfy élimine complètement cette routine grâce aux moteurs Pergola RGS io et Sunea io qui assurent une réaction automatique aux conditions météo, la programmation via TaHoma et le contrôle vocal via Alexa ou Google Home.</p>
-<h2>Moteurs Somfy pour pergolas — Pergola 50 RGS io et 60 RGS io</h2>
-<p>La gamme Pergola RGS io est dédiée aux pergolas guidées sur rails. Le Pergola 50 RGS io couvre des ouvertures jusqu'à 4 m, le 60 RGS io jusqu'à 5 m. Les deux modèles incluent une protection automatique au vent.</p>
-<h2>Prix moteur pergola Somfy à Bucarest 2026</h2>
-<p>Un moteur Somfy pour pergola commence à <strong>350 EUR posé</strong>. Contactez Neofort BIZ pour un devis personnalisé.</p>
-<p><a href="/fr/accessoires/automatisation-somfy-volets-pergolas">Demander un devis automatisation Somfy pergola</a>.</p>`,
-      es: `<h2>¿Por qué automatizar su pérgola o toldo?</h2>
-<p>Una pérgola o toldo manual requiere intervención constante. La automatización Somfy elimina completamente esta rutina mediante los motores Pergola RGS io y Sunea io que garantizan reacción automática a las condiciones meteorológicas, programación TaHoma y control por voz Alexa o Google Home.</p>
-<h2>Motores Somfy para pérgolas — Pergola 50 RGS io y 60 RGS io</h2>
-<p>La gama Pergola RGS io está dedicada a pérgolas guiadas sobre raíles. El Pergola 50 RGS io cubre aperturas de hasta 4 m, el 60 RGS io hasta 5 m. Ambos modelos incluyen protección automática al viento.</p>
-<h2>Precios motor pérgola Somfy en Bucarest 2026</h2>
-<p>Un motor Somfy para pérgola comienza desde <strong>350 EUR instalado</strong>. Contacte a Neofort BIZ para un presupuesto personalizado.</p>
-<p><a href="/es/accesorios/automatizacion-somfy-persianas-pergolas">Solicitar presupuesto automatización Somfy pérgola</a>.</p>`,
-      it: `<h2>Perché automatizzare la pergola o la tenda?</h2>
-<p>Una pergola o tenda manuale richiede un intervento costante. L'automazione Somfy elimina completamente questa routine grazie ai motori Pergola RGS io e Sunea io che garantiscono reazione automatica alle condizioni meteorologiche, programmazione TaHoma e controllo vocale Alexa o Google Home.</p>
-<h2>Motori Somfy per pergole — Pergola 50 RGS io e 60 RGS io</h2>
-<p>La gamma Pergola RGS io è dedicata alle pergole guidate su guide. Il Pergola 50 RGS io copre aperture fino a 4 m, il 60 RGS io fino a 5 m. Entrambi i modelli includono protezione automatica dal vento.</p>
-<h2>Prezzi motore pergola Somfy a Bucarest 2026</h2>
-<p>Un motore Somfy per pergola parte da <strong>350 EUR installato</strong>. Contattate Neofort BIZ per un preventivo personalizzato.</p>
-<p><a href="/it/accessori/automazione-somfy-tapparelle-pergole">Richiedere preventivo automazione Somfy pergola</a>.</p>`,
+      ro: `## De ce automatizezi pergola sau copertina?
+
+O pergolă sau copertină manuală necesită intervenție constantă. Automatizarea Somfy elimină complet această rutină: motoarele Pergola RGS io sau Sunea io asigură reacția automată la vânt, ploaie și lumină, programarea prin TaHoma și controlul vocal prin Alexa sau Google Home.
+
+## Motoare Somfy pentru pergole — Pergola 50 RGS io și 60 RGS io
+
+Seria Pergola RGS io este dedicată pergolelor ghidate pe șine. Motorul Pergola 50 RGS io acoperă deschideri până la 4 m, iar 60 RGS io până la 5 m. Ambele modele includ protecție automată la vânt — la rafale care depășesc un prag prestabilit, motorul retrage automat pânza pergolei.
+
+## Motoare Somfy pentru copertine — Sunea 40 io și 50 io
+
+Seria Sunea io este soluția dedicată copertinelor retractabile cu braț articulat. Senzorul de lumină solar integrat permite funcționarea autonomă fără cabluri electrice — ideal pentru copertine de balcon sau terase.
+
+## Protecție automată la vânt și ploaie
+
+Senzorul Sunis Wirefree II io monitorizează intensitatea luminii, temperatura și viteza vântului. Când rafale depășesc 50 km/h, copertinele și pergolele Somfy se retrag automat, prevenind daunele structurale.
+
+## Prețuri automatizare pergolă Somfy în București 2026
+
+Motorul Somfy pentru pergolă pornește de la **350 EUR montat** (Pergola 50 RGS io, inclusiv manoperă și configurare TaHoma). Senzorul de vânt/lumină Sunis io de la 80 EUR.
+
+[Solicitați ofertă automatizare Somfy pergole și rulouri](/ro/accesorii/automatizari-somfy-rulouri-pergole)`,
+      en: `## Why automate your pergola or awning?
+
+A manual pergola or awning requires constant intervention. Somfy automation with Pergola RGS io and Sunea io motors reacts automatically to wind, rain and light, integrating with TaHoma and Alexa/Google Home.
+
+## Somfy motors for pergolas — Pergola 50 RGS io and 60 RGS io
+
+The Pergola RGS io range is dedicated to rail-guided pergolas. The Pergola 50 RGS io covers openings up to 4 m, 60 RGS io up to 5 m. Both models include automatic wind protection.
+
+## Somfy motors for awnings — Sunea 40 io and 50 io
+
+The Sunea io range is dedicated to retractable articulated arm awnings. The integrated solar light sensor allows autonomous operation without electrical cables.
+
+## Automatic wind and rain protection
+
+The Sunis Wirefree II io sensor monitors light, temperature and wind speed. When gusts exceed 50 km/h, Somfy awnings and pergolas retract automatically.
+
+## Pergola motor prices in Bucharest 2026
+
+A Somfy pergola motor starts from **350 EUR installed**. Sunis io sensor from 80 EUR.
+
+[Request Somfy pergola automation quote](/en/accessories/somfy-automation-shutters-pergolas)`,
+      de: `## Warum Pergola oder Markise automatisieren?
+
+Eine manuelle Pergola erfordert ständige Eingriffe. Somfy-Automatisierung mit Pergola RGS io und Sunea io reagiert automatisch auf Wind, Regen und Licht.
+
+## Somfy Pergola-Motoren — Pergola 50 RGS io und 60 RGS io
+
+Der Pergola 50 RGS io deckt Öffnungen bis 4 m ab, 60 RGS io bis 5 m. Beide Modelle haben automatischen Windschutz.
+
+## Automatischer Windschutz
+
+Der Sunis Wirefree II io Sensor überwacht Licht, Temperatur und Windgeschwindigkeit. Bei Böen über 50 km/h fahren Somfy-Markisen automatisch ein.
+
+## Pergola Motor Preise Bukarest 2026
+
+Somfy Pergola-Motor ab **350 EUR montiert**. Sunis io Sensor ab 80 EUR.
+
+[Somfy Pergola-Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)`,
+      fr: `## Pourquoi automatiser sa pergola ou son store ?
+
+Une pergola manuelle nécessite une intervention constante. L'automatisation Somfy avec Pergola RGS io et Sunea io réagit automatiquement au vent, à la pluie et à la lumière.
+
+## Moteurs Somfy pergola — Pergola 50 RGS io et 60 RGS io
+
+Le Pergola 50 RGS io couvre des ouvertures jusqu'à 4 m, le 60 RGS io jusqu'à 5 m. Les deux modèles incluent une protection automatique au vent.
+
+## Protection automatique vent et pluie
+
+Le capteur Sunis Wirefree II io surveille lumière, température et vent. Quand les rafales dépassent 50 km/h, les stores Somfy se rétractent automatiquement.
+
+## Prix moteur pergola Somfy Bucarest 2026
+
+Moteur Somfy pergola à partir de **350 EUR posé**. Capteur Sunis io à partir de 80 EUR.
+
+[Demander un devis automatisation Somfy pergola](/fr/accessoires/automatisation-somfy-volets-pergolas)`,
+      es: `## Por qué automatizar la pérgola o el toldo?
+
+Una pérgola manual requiere intervención constante. La automatización Somfy con Pergola RGS io y Sunea io reacciona automáticamente al viento, la lluvia y la luz.
+
+## Motores Somfy pérgola — Pergola 50 RGS io y 60 RGS io
+
+El Pergola 50 RGS io cubre aperturas de hasta 4 m, el 60 RGS io hasta 5 m. Ambos incluyen protección automática al viento.
+
+## Protección automática viento y lluvia
+
+El sensor Sunis Wirefree II io monitoriza luz, temperatura y viento. Cuando las ráfagas superan 50 km/h, los toldos Somfy se retraen automáticamente.
+
+## Precios motor pérgola Somfy Bucarest 2026
+
+Motor Somfy pérgola desde **350 EUR instalado**. Sensor Sunis io desde 80 EUR.
+
+[Solicitar presupuesto automatización Somfy pérgola](/es/accesorios/automatizacion-somfy-persianas-pergolas)`,
+      it: `## Perché automatizzare la pergola o la tenda?
+
+Una pergola manuale richiede un intervento costante. L'automazione Somfy con Pergola RGS io e Sunea io reagisce automaticamente a vento, pioggia e luce.
+
+## Motori Somfy pergola — Pergola 50 RGS io e 60 RGS io
+
+Il Pergola 50 RGS io copre aperture fino a 4 m, il 60 RGS io fino a 5 m. Entrambi includono protezione automatica dal vento.
+
+## Protezione automatica vento e pioggia
+
+Il sensore Sunis Wirefree II io monitora luce, temperatura e vento. Quando le raffiche superano i 50 km/h, le tende Somfy si retraggono automaticamente.
+
+## Prezzi motore pergola Somfy Bucarest 2026
+
+Motore Somfy pergola da **350 EUR installato**. Sensore Sunis io da 80 EUR.
+
+[Richiedere preventivo automazione Somfy pergola](/it/accessori/automazione-somfy-tapparelle-pergole)`,
     },
     keywords: 'automatizare pergola Somfy, motor pergola Somfy, Somfy copertine, Pergola RGS io, Sunea io Somfy, automatizare copertina, pergola motoricata Somfy, Somfy Bucuresti pergola, motor copertina retractabila',
     dateDisplay: {
@@ -12357,7 +12495,14 @@ I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistem
     },
     date: '2025-12-08',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    image: '/blog/blog-somfy-smart-home.avif',
+    image: {
+      ro: '/blog/blog-somfy-smart-home.avif',
+      en: '/blog/blog-somfy-smart-home.avif',
+      de: '/blog/blog-somfy-smart-home.avif',
+      fr: '/blog/blog-somfy-smart-home.avif',
+      es: '/blog/blog-somfy-smart-home.avif',
+      it: '/blog/blog-somfy-smart-home.avif',
+    },
     imageBg: '#0a1628',
     accentColor: '#d4001a',
     imageLabel: 'Somfy TaHoma Smart Home — control rulouri, pergole, poarta, alarma dintr-o aplicatie',
@@ -12388,56 +12533,144 @@ I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistem
       it: 'Il TaHoma Switch di Somfy è l\'hub per la casa intelligente che unifica il controllo di tutti i dispositivi motorizzati della casa — tapparelle, pergole, tende, cancelli, porte del garage — in un\'unica app, con scenari automatici e compatibilità Alexa, Google e Apple HomeKit.',
     },
     content: {
-      ro: `<h2>Ce este Somfy TaHoma?</h2>
-<p>TaHoma Switch este hub-ul central al ecosistemului Somfy — un dispozitiv mic conectat la routerul de internet care permite controlul și programarea tuturor echipamentelor motoricizate din casă dintr-o singură aplicație de smartphone. TaHoma funcționează cu aproape 300 de tipuri de produse Somfy și parteneri certificați, de la rulouri exterioare la porți, de la copertine la camere de supraveghere și sisteme de alarmă.</p>
-<h2>Ce poți controla cu TaHoma în 2026?</h2>
-<p>Prin aplicația TaHoma poți gestiona: rulouri exterioare și interioare, jaluzele tip raffstore, copertine și pergole, porți și uși de garaj, sisteme de alarmă Somfy Protect, camere video exterioare și interioare, sisteme de încălzire și climatizare compatibile, prize inteligente Zigbee pentru monitorizarea consumului de energie. Adăugarea unui nou echipament se face direct din aplicație, fără configurare tehnică complexă.</p>
-<h2>Scenarii automate TaHoma — practică 2026</h2>
-<p>Scenariul <strong>„Plecare"</strong>: rulourile exterioare se închid complet, perdelele interioare se ridică, alarma se activează, toate prizele fără dispozitive se opresc. Scenariul <strong>„Bun venit acasă"</strong>: poarta se deschide, rulourile din living se ridică, lumina de intrare se aprinde, clima trece pe modul confort. Scenariul <strong>„Noapte"</strong>: rulourile se închid la 22:30, temperatura nocturnă se setează automat. Toate se activează cu un singur tap sau vocal: „Alexa, activează plecarea".</p>
-<h2>Compatibilitate Alexa, Google Home și Apple HomeKit</h2>
-<p>TaHoma Switch este compatibil nativ cu Amazon Alexa, Google Home și Apple HomeKit — comenzile vocale funcționează imediat după conectare, fără configurări suplimentare. Compatibilitatea cu IFTTT permite crearea de automatizări complexe bazate pe locație GPS, calendar sau condiții meteo din alte servicii.</p>
-<h2>TaHoma Switch — prețuri și instalare în România 2026</h2>
-<p>Kit-ul TaHoma Switch (hub + aplicație) pornește de la <strong>180 EUR</strong>. Configurarea completă cu scenariile dvs. personalizate este inclusă în serviciile Neofort BIZ. Varianta TaHoma DIN-Rail este recomandată pentru proiectele noi — se instalează în tabloul electric și este ideal pentru dezvoltatori imobiliari care dotează apartamentele cu smart home din construcție.</p>
-<h2>De ce Somfy TaHoma față de alte sisteme smart home?</h2>
-<p>Spre deosebire de sistemele smart home generice (Tuya, Zigbee DIY, Home Assistant), TaHoma este proiectat specific pentru automatizarea umbrelor și a perimetrului locuinței — domenii în care Somfy are 55 de ani de experiență. Securitatea SYSS certificată protejează datele și previne controlul neautorizat. Ecosistemul de 300+ produse compatibile și garantia de 5 ani pe motoare completează propunerea.</p>
-<p><a href="/ro/accesorii/automatizari-somfy-rulouri-pergole">Solicitați ofertă pentru TaHoma Switch și automatizări Somfy</a> în București și Ilfov.</p>`,
-      en: `<h2>What is Somfy TaHoma?</h2>
-<p>TaHoma Switch is the central hub of the Somfy ecosystem — a small device connected to the internet router that allows control and programming of all motorised equipment in the home from a single smartphone app. TaHoma works with almost 300 types of Somfy products and certified partners, from exterior shutters to gates, from awnings to surveillance cameras and alarm systems.</p>
-<h2>What can you control with TaHoma in 2026?</h2>
-<p>Via the TaHoma app you can manage: exterior and interior shutters, raffstore venetian blinds, awnings and pergolas, gates and garage doors, Somfy Protect alarm systems, exterior and interior video cameras, compatible heating and air conditioning systems, Zigbee smart plugs for energy consumption monitoring.</p>
-<h2>TaHoma automatic scenarios — 2026 practice</h2>
-<p>"Leaving" scenario: exterior shutters fully close, alarm activates, unused plugs switch off. "Welcome home" scenario: gate opens, living room shutters rise, entrance light switches on. "Night" scenario: shutters close at 10:30 PM, night temperature sets automatically. All activated with one tap or vocally: "Alexa, activate leaving".</p>
-<h2>TaHoma Switch — prices and installation in Romania 2026</h2>
-<p>The TaHoma Switch kit (hub + app) starts from <strong>180 EUR</strong>. Full configuration with your personalised scenarios is included in Neofort BIZ services.</p>
-<p><a href="/en/accessories/somfy-automation-shutters-pergolas">Request a TaHoma Switch and Somfy automation quote</a> in Bucharest and Ilfov.</p>`,
-      de: `<h2>Was ist Somfy TaHoma?</h2>
-<p>TaHoma Switch ist der zentrale Hub des Somfy-Ökosystems — ein kleines Gerät, das mit dem Internet-Router verbunden ist und die Steuerung aller motorisierten Geräte im Haus über eine einzige Smartphone-App ermöglicht. TaHoma funktioniert mit fast 300 Somfy-Produkttypen und zertifizierten Partnern.</p>
-<h2>Was können Sie mit TaHoma 2026 steuern?</h2>
-<p>Über die TaHoma App können Sie steuern: Außen- und Innenrollläden, Raffstore-Jalousien, Markisen und Pergolen, Tore und Garagentore, Somfy Protect Alarmsysteme, Videokameras, kompatible Heizungs- und Klimasysteme, Zigbee-Smartstecker zur Energieverbrauchsüberwachung.</p>
-<h2>TaHoma Switch — Preise und Installation in Rumänien 2026</h2>
-<p>Das TaHoma Switch Kit (Hub + App) startet ab <strong>180 EUR</strong>. Die vollständige Konfiguration mit Ihren personalisierten Szenarien ist in den Neofort BIZ Services enthalten.</p>
-<p><a href="/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen">TaHoma Switch und Somfy Automatisierung anfragen</a> in Bukarest und Ilfov.</p>`,
-      fr: `<h2>Qu'est-ce que Somfy TaHoma ?</h2>
-<p>TaHoma Switch est le hub central de l'écosystème Somfy — un petit appareil connecté au routeur internet qui permet de contrôler et programmer tous les équipements motorisés de la maison depuis une seule application smartphone. TaHoma fonctionne avec près de 300 types de produits Somfy et partenaires certifiés.</p>
-<h2>Que peut-on contrôler avec TaHoma en 2026 ?</h2>
-<p>Via l'application TaHoma, vous pouvez gérer : volets roulants extérieurs et intérieurs, stores vénitiens raffstore, stores et pergolas, portails et portes de garage, systèmes d'alarme Somfy Protect, caméras vidéo, systèmes de chauffage et climatisation compatibles, prises intelligentes Zigbee.</p>
-<h2>TaHoma Switch — prix et installation en Roumanie 2026</h2>
-<p>Le kit TaHoma Switch (hub + application) commence à <strong>180 EUR</strong>. La configuration complète avec vos scénarios personnalisés est incluse dans les services Neofort BIZ.</p>
-<p><a href="/fr/accessoires/automatisation-somfy-volets-pergolas">Demander un devis TaHoma Switch et automatisation Somfy</a> à Bucarest et Ilfov.</p>`,
-      es: `<h2>¿Qué es Somfy TaHoma?</h2>
-<p>TaHoma Switch es el hub central del ecosistema Somfy — un pequeño dispositivo conectado al router de internet que permite controlar y programar todos los equipos motorizados del hogar desde una única app de smartphone. TaHoma funciona con casi 300 tipos de productos Somfy y partners certificados.</p>
-<h2>¿Qué puedes controlar con TaHoma en 2026?</h2>
-<p>A través de la app TaHoma puedes gestionar: persianas exteriores e interiores, estores venecianos raffstore, toldos y pérgolas, puertas y puertas de garaje, sistemas de alarma Somfy Protect, cámaras de vídeo, sistemas de calefacción y climatización compatibles, enchufes inteligentes Zigbee.</p>
-<h2>TaHoma Switch — precios e instalación en Rumanía 2026</h2>
-<p>El kit TaHoma Switch (hub + app) comienza desde <strong>180 EUR</strong>. La configuración completa con sus escenarios personalizados está incluida en los servicios de Neofort BIZ.</p>
-<p><a href="/es/accesorios/automatizacion-somfy-persianas-pergolas">Solicitar presupuesto TaHoma Switch y automatización Somfy</a> en Bucarest e Ilfov.</p>`,
-      it: `<h2>Cos'è Somfy TaHoma?</h2>
-<p>TaHoma Switch è l'hub centrale dell'ecosistema Somfy — un piccolo dispositivo collegato al router internet che permette di controllare e programmare tutti i dispositivi motorizzati della casa da un'unica app smartphone. TaHoma funziona con quasi 300 tipi di prodotti Somfy e partner certificati.</p>
-<h2>Cosa puoi controllare con TaHoma nel 2026?</h2>
-<p>Tramite l'app TaHoma puoi gestire: tapparelle esterne e interne, veneziane raffstore, tende da sole e pergole, cancelli e porte del garage, sistemi di allarme Somfy Protect, telecamere video, sistemi di riscaldamento e climatizzazione compatibili, prese intelligenti Zigbee.</p>
-<h2>TaHoma Switch — prezzi e installazione in Romania 2026</h2>
-<p>Il kit TaHoma Switch (hub + app) parte da <strong>180 EUR</strong>. La configurazione completa con i vostri scenari personalizzati è inclusa nei servizi Neofort BIZ.</p>
-<p><a href="/it/accessori/automazione-somfy-tapparelle-pergole">Richiedere preventivo TaHoma Switch e automazione Somfy</a> a Bucarest e Ilfov.</p>`,
+      ro: `## Ce este Somfy TaHoma?
+
+TaHoma Switch este hub-ul central al ecosistemului Somfy — un dispozitiv mic conectat la routerul de internet care permite controlul și programarea tuturor echipamentelor motoricizate din casă dintr-o singură aplicație de smartphone. TaHoma funcționează cu aproape 300 de tipuri de produse Somfy și parteneri certificați.
+
+## Ce poți controla cu TaHoma în 2026?
+
+Prin aplicația TaHoma poți gestiona: rulouri exterioare și interioare, jaluzele tip raffstore, copertine și pergole, porți și uși de garaj, sisteme de alarmă Somfy Protect, camere video, prize inteligente Zigbee pentru monitorizarea consumului de energie.
+
+## Scenarii automate TaHoma
+
+**Scenariul Plecare:** rulourile se închid complet, alarma se activează, prizele fără dispozitive se opresc.
+
+**Scenariul Bun venit acasă:** poarta se deschide, rulourile din living se ridică, lumina de intrare se aprinde.
+
+**Scenariul Noapte:** rulourile se închid la 22:30, temperatura nocturnă se setează automat.
+
+Toate se activează cu un singur tap sau vocal: Alexa, activează plecarea.
+
+## Compatibilitate Alexa, Google Home și Apple HomeKit
+
+TaHoma Switch este compatibil nativ cu Amazon Alexa, Google Home și Apple HomeKit. Compatibilitatea cu IFTTT permite automatizări complexe bazate pe locație GPS, calendar sau condiții meteo.
+
+## TaHoma Switch — prețuri și instalare în România 2026
+
+Kit-ul TaHoma Switch (hub + aplicație) pornește de la **180 EUR**. Configurarea completă cu scenariile personalizate este inclusă în serviciile Neofort BIZ.
+
+[Solicitați ofertă pentru TaHoma Switch și automatizări Somfy](/ro/accesorii/automatizari-somfy-rulouri-pergole)`,
+      en: `## What is Somfy TaHoma?
+
+TaHoma Switch is the central hub of the Somfy ecosystem — a small device connected to the internet router that allows control and programming of all motorised home equipment from a single smartphone app. TaHoma works with almost 300 Somfy products and certified partners.
+
+## What can you control with TaHoma in 2026?
+
+Via the TaHoma app: exterior and interior shutters, raffstore venetian blinds, awnings and pergolas, gates and garage doors, Somfy Protect alarm systems, video cameras, Zigbee smart plugs for energy monitoring.
+
+## TaHoma automatic scenarios
+
+**Leaving scenario:** shutters fully close, alarm activates, unused plugs switch off.
+
+**Welcome home scenario:** gate opens, living room shutters rise, entrance light switches on.
+
+**Night scenario:** shutters close at 10:30 PM, night temperature sets automatically.
+
+All activated with one tap or vocally: Alexa, activate leaving.
+
+## Alexa, Google Home and Apple HomeKit compatibility
+
+TaHoma Switch is natively compatible with Amazon Alexa, Google Home and Apple HomeKit.
+
+## TaHoma Switch — prices and installation in Romania 2026
+
+The TaHoma Switch kit (hub + app) starts from **180 EUR**. Full configuration with personalised scenarios included in Neofort BIZ services.
+
+[Request a TaHoma Switch and Somfy automation quote](/en/accessories/somfy-automation-shutters-pergolas)`,
+      de: `## Was ist Somfy TaHoma?
+
+TaHoma Switch ist der zentrale Hub des Somfy-Ökosystems — ein kleines Gerät, das alle motorisierten Geräte im Haus über eine einzige Smartphone-App steuert. TaHoma funktioniert mit fast 300 Somfy-Produkten.
+
+## Was können Sie mit TaHoma 2026 steuern?
+
+Über die TaHoma App: Außen- und Innenrollläden, Raffstore-Jalousien, Markisen und Pergolen, Tore und Garagentore, Somfy Protect Alarmsysteme, Videokameras, Zigbee-Smartstecker.
+
+## TaHoma automatische Szenarien
+
+**Abfahrt-Szenario:** Rollläden schließen vollständig, Alarm aktiviert sich, ungenutzte Stecker schalten ab.
+
+**Willkommen zuhause:** Tor öffnet, Wohnzimmer-Rollläden heben sich, Eingangslicht schaltet sich ein.
+
+**Nacht-Szenario:** Rollläden schließen um 22:30 Uhr, Nachttemperatur wird automatisch eingestellt.
+
+## TaHoma Switch — Preise und Installation in Rumänien 2026
+
+Das TaHoma Switch Kit (Hub + App) startet ab **180 EUR**. Vollständige Konfiguration in den Neofort BIZ Services enthalten.
+
+[TaHoma Switch und Somfy Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)`,
+      fr: `## Qu'est-ce que Somfy TaHoma ?
+
+TaHoma Switch est le hub central de l'écosystème Somfy — un petit appareil qui contrôle tous les équipements motorisés depuis une seule application smartphone. TaHoma fonctionne avec près de 300 produits Somfy.
+
+## Que peut-on contrôler avec TaHoma en 2026 ?
+
+Via l'application TaHoma : volets roulants, stores vénitiens raffstore, pergolas et stores, portails et portes de garage, alarmes Somfy Protect, caméras vidéo, prises Zigbee.
+
+## Scénarios automatiques TaHoma
+
+**Scénario Départ :** volets fermés, alarme activée, prises inutilisées coupées.
+
+**Scénario Retour :** portail ouvert, volets salon levés, lumière entrée allumée.
+
+**Scénario Nuit :** volets fermés à 22h30, température nocturne réglée automatiquement.
+
+## TaHoma Switch — prix et installation en Roumanie 2026
+
+Le kit TaHoma Switch (hub + application) commence à **180 EUR**. Configuration complète incluse dans les services Neofort BIZ.
+
+[Demander un devis TaHoma Switch et automatisation Somfy](/fr/accessoires/automatisation-somfy-volets-pergolas)`,
+      es: `## Qué es Somfy TaHoma?
+
+TaHoma Switch es el hub central del ecosistema Somfy — un pequeño dispositivo que controla todos los equipos motorizados del hogar desde una única app de smartphone. TaHoma funciona con casi 300 productos Somfy.
+
+## Qué puedes controlar con TaHoma en 2026?
+
+Via la app TaHoma: persianas, estores raffstore, pérgolas y toldos, puertas y garajes, alarmas Somfy Protect, cámaras de video, enchufes Zigbee.
+
+## Escenarios automáticos TaHoma
+
+**Escenario Salida:** persianas cerradas, alarma activada, enchufes sin uso apagados.
+
+**Escenario Bienvenida:** puerta abierta, persianas sala subidas, luz de entrada encendida.
+
+**Escenario Noche:** persianas cerradas a las 22:30, temperatura nocturna ajustada automáticamente.
+
+## TaHoma Switch — precios e instalación en Rumanía 2026
+
+El kit TaHoma Switch (hub + app) comienza desde **180 EUR**. Configuración completa incluida en los servicios Neofort BIZ.
+
+[Solicitar presupuesto TaHoma Switch y automatización Somfy](/es/accesorios/automatizacion-somfy-persianas-pergolas)`,
+      it: `## Cos'è Somfy TaHoma?
+
+TaHoma Switch è l'hub centrale dell'ecosistema Somfy — un piccolo dispositivo che controlla tutti i dispositivi motorizzati della casa da un'unica app smartphone. TaHoma funziona con quasi 300 prodotti Somfy.
+
+## Cosa puoi controllare con TaHoma nel 2026?
+
+Tramite l'app TaHoma: tapparelle, veneziane raffstore, pergole e tende, cancelli e garage, allarmi Somfy Protect, telecamere, prese Zigbee.
+
+## Scenari automatici TaHoma
+
+**Scenario Partenza:** tapparelle chiuse, allarme attivato, prese inutilizzate spente.
+
+**Scenario Benvenuto a casa:** cancello aperto, tapparelle salotto alzate, luce ingresso accesa.
+
+**Scenario Notte:** tapparelle chiuse alle 22:30, temperatura notturna impostata automaticamente.
+
+## TaHoma Switch — prezzi e installazione in Romania 2026
+
+Il kit TaHoma Switch (hub + app) parte da **180 EUR**. Configurazione completa inclusa nei servizi Neofort BIZ.
+
+[Richiedere preventivo TaHoma Switch e automazione Somfy](/it/accessori/automazione-somfy-tapparelle-pergole)`,
     },
     keywords: 'Somfy TaHoma, TaHoma Switch, smart home Somfy Romania, casa inteligenta Somfy, control vocal rulouri, Alexa Somfy, Google Home Somfy, automatizare casa Bucuresti, TaHoma pret Romania',
     dateDisplay: {
