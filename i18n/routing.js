@@ -614,7 +614,7 @@ export const routing = defineRouting({
       es: '/blog/somfy-motores-persianas',
       it: '/blog/somfy-motori-tapparelle',
     },
-    '/blog/somfy-pergole': {
+    '/blog/somfy-automatizare-pergole-copertine': {
       ro: '/blog/somfy-automatizare-pergole-copertine',
       en: '/blog/somfy-pergola-awning-automation',
       de: '/blog/somfy-pergola-markisen-automatisierung',
@@ -622,7 +622,7 @@ export const routing = defineRouting({
       es: '/blog/somfy-automatizacion-pergola-toldo',
       it: '/blog/somfy-automazione-pergola-tenda',
     },
-    '/blog/somfy-smart-home': {
+    '/blog/somfy-tahoma-smart-home-romania': {
       ro: '/blog/somfy-tahoma-smart-home-romania',
       en: '/blog/somfy-tahoma-smart-home-bucharest',
       de: '/blog/somfy-tahoma-smart-home-bukarest',
