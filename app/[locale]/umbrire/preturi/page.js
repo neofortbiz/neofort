@@ -278,7 +278,7 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }) {
-  const { locale } = params;
+  const { locale } = await params;
 
   const WA_URLS = {
     ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20sisteme%20de%20umbrire.',
@@ -336,8 +336,8 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function UmbrirePreturiPage({ params }) {
-  const { locale } = params;
+export default async function UmbrirePreturiPage({ params }) {
+  const { locale } = await params;
   const ui = UI[locale] || UI.ro;
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
 
