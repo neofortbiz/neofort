@@ -598,14 +598,6 @@ export const routing = defineRouting({
       es: '/accesorios/automatizacion-somfy-persianas-pergolas',
       it: '/accessori/automazione-somfy-tapparelle-pergole',
     },
-    '/blog/somfy-rulouri': {
-      ro: '/blog/somfy-rulouri',
-      en: '/blog/somfy-shutter-motors',
-      de: '/blog/somfy-rolllaeden-motoren',
-      fr: '/blog/somfy-moteurs-volets',
-      es: '/blog/somfy-motores-persianas',
-      it: '/blog/somfy-motori-tapparelle',
-    },
     '/blog/somfy-rulouri-motoare-exterioare': {
       ro: '/blog/somfy-rulouri-motoare-exterioare',
       en: '/blog/somfy-shutter-motors',
