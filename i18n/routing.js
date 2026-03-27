@@ -582,6 +582,55 @@ export const routing = defineRouting({
       it: '/sistemi-nzeb/guida-completa',
     },
 
+    '/accesorii/automatizari-somfy': {
+      ro: '/accesorii/automatizari-somfy-rulouri-pergole',
+      en: '/accessories/somfy-automation-shutters-pergolas',
+      de: '/zubehoer/somfy-automatisierung-rolllaeden-pergolen',
+      fr: '/accessoires/automatisation-somfy-volets-pergolas',
+      es: '/accesorios/automatizacion-somfy-persianas-pergolas',
+      it: '/accessori/automazione-somfy-tapparelle-pergole',
+    },
+    '/accesorii/automatizari-somfy-rulouri-pergole': {
+      ro: '/accesorii/automatizari-somfy-rulouri-pergole',
+      en: '/accessories/somfy-automation-shutters-pergolas',
+      de: '/zubehoer/somfy-automatisierung-rolllaeden-pergolen',
+      fr: '/accessoires/automatisation-somfy-volets-pergolas',
+      es: '/accesorios/automatizacion-somfy-persianas-pergolas',
+      it: '/accessori/automazione-somfy-tapparelle-pergole',
+    },
+    '/blog/somfy-rulouri': {
+      ro: '/blog/somfy-rulouri',
+      en: '/blog/somfy-shutter-motors',
+      de: '/blog/somfy-rolllaeden-motoren',
+      fr: '/blog/somfy-moteurs-volets',
+      es: '/blog/somfy-motores-persianas',
+      it: '/blog/somfy-motori-tapparelle',
+    },
+    '/blog/somfy-rulouri-motoare-exterioare': {
+      ro: '/blog/somfy-rulouri-motoare-exterioare',
+      en: '/blog/somfy-shutter-motors',
+      de: '/blog/somfy-rolllaeden-motoren',
+      fr: '/blog/somfy-moteurs-volets',
+      es: '/blog/somfy-motores-persianas',
+      it: '/blog/somfy-motori-tapparelle',
+    },
+    '/blog/somfy-pergole': {
+      ro: '/blog/somfy-automatizare-pergole-copertine',
+      en: '/blog/somfy-pergola-awning-automation',
+      de: '/blog/somfy-pergola-markisen-automatisierung',
+      fr: '/blog/somfy-automatisation-pergola-store',
+      es: '/blog/somfy-automatizacion-pergola-toldo',
+      it: '/blog/somfy-automazione-pergola-tenda',
+    },
+    '/blog/somfy-smart-home': {
+      ro: '/blog/somfy-tahoma-smart-home-romania',
+      en: '/blog/somfy-tahoma-smart-home-bucharest',
+      de: '/blog/somfy-tahoma-smart-home-bukarest',
+      fr: '/blog/somfy-tahoma-maison-connectee-bucarest',
+      es: '/blog/somfy-tahoma-hogar-inteligente-bucarest',
+      it: '/blog/somfy-tahoma-casa-intelligente-bucarest',
+    },
+
   // PILLAR PAGES
   }
 });
