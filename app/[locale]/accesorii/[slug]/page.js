@@ -439,6 +439,46 @@ export default async function AccesorieProductPage({ params }) {
           </div>
         </div>
       </div>
+
+      {/* BLOG LINKS — doar pentru Somfy */}
+      {canonical === 'automatizari-somfy' && (() => {
+        const BLOG_SLUGS = {
+          ro: ['somfy-rulouri-motoare-exterioare','somfy-automatizare-pergole-copertine','somfy-tahoma-smart-home-romania'],
+          en: ['somfy-shutter-motors','somfy-pergola-awning-automation','somfy-tahoma-smart-home-bucharest'],
+          de: ['somfy-rolllaeden-motoren','somfy-pergola-markisen-automatisierung','somfy-tahoma-smart-home-bukarest'],
+          fr: ['somfy-moteurs-volets','somfy-automatisation-pergola-store','somfy-tahoma-maison-connectee-bucarest'],
+          es: ['somfy-motores-persianas','somfy-automatizacion-pergola-toldo','somfy-tahoma-hogar-inteligente-bucarest'],
+          it: ['somfy-motori-tapparelle','somfy-automazione-pergola-tenda','somfy-tahoma-casa-intelligente-bucarest'],
+        };
+        const BLOG_TITLES = {
+          ro: ['Motoare Somfy pentru rulouri — Ghid 2026','Automatizare Somfy pergole și copertine — Ghid 2026','Somfy TaHoma Smart Home în România 2026'],
+          en: ['Somfy motors for shutters — Guide 2026','Somfy automation for pergolas & awnings — Guide 2026','Somfy TaHoma Smart Home in Romania 2026'],
+          de: ['Somfy Motoren für Rollläden — Ratgeber 2026','Somfy Automatisierung Pergolen & Markisen — Ratgeber 2026','Somfy TaHoma Smart Home in Rumänien 2026'],
+          fr: ['Moteurs Somfy pour volets — Guide 2026','Automatisation Somfy pergolas & stores — Guide 2026','Somfy TaHoma Maison connectée en Roumanie 2026'],
+          es: ['Motores Somfy para persianas — Guía 2026','Automatización Somfy pérgolas y toldos — Guía 2026','Somfy TaHoma Hogar inteligente en Rumanía 2026'],
+          it: ['Motori Somfy per tapparelle — Guida 2026','Automazione Somfy pergole e tende — Guida 2026','Somfy TaHoma Casa intelligente in Romania 2026'],
+        };
+        const BLOG_SECTION_LABEL = { ro:'Ghiduri & Articole', en:'Guides & Articles', de:'Ratgeber & Artikel', fr:'Guides & Articles', es:'Guías & Artículos', it:'Guide & Articoli' };
+        const BLOG_READ = { ro:'Citește ghidul →', en:'Read the guide →', de:'Ratgeber lesen →', fr:'Lire le guide →', es:'Leer la guía →', it:'Leggi la guida →' };
+        const slugs  = BLOG_SLUGS[locale]  || BLOG_SLUGS.ro;
+        const titles = BLOG_TITLES[locale] || BLOG_TITLES.ro;
+        const label  = BLOG_SECTION_LABEL[locale] || BLOG_SECTION_LABEL.ro;
+        const read   = BLOG_READ[locale] || BLOG_READ.ro;
+        return (
+          <div className="container mx-auto px-6" style={{paddingBottom:'64px'}}>
+            <p style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.58rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#999',marginBottom:'20px'}}>{label}</p>
+            <div style={{display:'grid',gridTemplateColumns:'repeat(auto-fit,minmax(240px,1fr))',gap:'16px'}}>
+              {slugs.map((slug, i) => (
+                <Link key={slug} href={`/blog/${slug}`}
+                  style={{display:'block',padding:'20px',border:'1px solid #e8e8e4',borderTop:`2px solid #d4001a`,textDecoration:'none',background:'#fff'}}>
+                  <p style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.88rem',color:'#1a1a1a',lineHeight:1.3,margin:'0 0 12px'}}>{titles[i]}</p>
+                  <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#d4001a'}}>{read}</span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        );
+      })()}
     </>
   );
 }
