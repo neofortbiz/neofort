@@ -12131,33 +12131,7 @@ I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistem
 **Per un preventivo:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**`,
     },
   },
-];
 
-// Găsește articol după slug în orice limbă
-export function getArticle(slug) {
-  return ARTICLES.find(a => Object.values(a.slugs).includes(slug)) || null;
-}
-
-// Returnează slug-ul canonical (RO) al unui articol după orice slug
-export function getCanonicalSlug(slug) {
-  const a = getArticle(slug);
-  return a ? a.slugs.ro : null;
-}
-
-// Returnează slug-ul tradus pentru o limbă dată, pe baza oricărui slug
-export function getSlugForLocale(slug, locale) {
-  const a = getArticle(slug);
-  return a ? (a.slugs[locale] || a.slugs.ro) : slug;
-}
-
-// Toate slug-urile pentru generateStaticParams
-export function getAllSlugs() {
-  return ARTICLES.flatMap(a => Object.values(a.slugs));
-}
-
-// Toate combinațiile locale+slug pentru generateStaticParams
-export function getAllLocaleSlugPairs() {
-  const locales = ['ro','en','de','fr','es','it'
   {
     slugs: {
       ro: 'somfy-rulouri-motoare-exterioare',
@@ -12476,8 +12450,35 @@ export function getAllLocaleSlugPairs() {
     },
   },
 ];
+
+
+
+// Găsește articol după slug în orice limbă
+export function getArticle(slug) {
+  return ARTICLES.find(a => Object.values(a.slugs).includes(slug)) || null;
+}
+
+// Returnează slug-ul canonical (RO) al unui articol după orice slug
+export function getCanonicalSlug(slug) {
+  const a = getArticle(slug);
+  return a ? a.slugs.ro : null;
+}
+
+// Returnează slug-ul tradus pentru o limbă dată, pe baza oricărui slug
+export function getSlugForLocale(slug, locale) {
+  const a = getArticle(slug);
+  return a ? (a.slugs[locale] || a.slugs.ro) : slug;
+}
+
+// Toate slug-urile pentru generateStaticParams
+export function getAllSlugs() {
+  return ARTICLES.flatMap(a => Object.values(a.slugs));
+}
+
+// Toate combinațiile locale+slug pentru generateStaticParams
+export function getAllLocaleSlugPairs() {
+  const locales = ['ro','en','de','fr','es','it'];
   return ARTICLES.flatMap(a =>
     locales.map(locale => ({ locale, slug: a.slugs[locale] || a.slugs.ro }))
   );
 }
-
