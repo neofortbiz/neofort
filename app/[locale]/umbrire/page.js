@@ -102,35 +102,6 @@ export default async function Page({ params }) {
     }))
   };
 
-
-  const PILLAR_SLUGS = {
-    ro: 'umbrire/ghid-complet-sisteme-umbrire',
-    en: 'shading-systems/complete-guide',
-    de: 'beschattungssysteme/kompletter-ratgeber',
-    fr: 'systemes-occultation/guide-complet',
-    es: 'sistemas-sombreado/guia-completa',
-    it: 'sistemi-oscuramento/guida-completa',
-  };
-  const PILLAR_LABELS = {
-    ro: 'Ghid Complet Sisteme Umbrire 2026 — Zipscreen, Raffstore, Rulouri',
-    en: 'Complete Shading Guide 2026 — Zipscreen, Raffstore, Roller Shutters',
-    de: 'Beschattungsratgeber 2026 — Zipscreen, Raffstore, Aussenrollladen',
-    fr: 'Guide occultation 2026 — Zipscreen, Raffstore, Volets roulants',
-    es: 'Guia sombreado 2026 — Zipscreen, Raffstore, Persianas aluminio',
-    it: 'Guida oscuramento 2026 — Zipscreen, Raffstore, Tapparelle',
-  };
-  const PILLAR_CTA = {
-    ro: 'Citeste Ghidul Complet',
-    en: 'Read the Complete Guide',
-    de: 'Kompletten Ratgeber lesen',
-    fr: 'Lire le guide complet',
-    es: 'Leer la guia completa',
-    it: 'Leggi la guida completa',
-  };
-  const pillarSlug = PILLAR_SLUGS[locale] || PILLAR_SLUGS.ro;
-  const pillarLabel = PILLAR_LABELS[locale] || PILLAR_LABELS.ro;
-  const pillarCta = PILLAR_CTA[locale] || PILLAR_CTA.ro;
-
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
@@ -198,21 +169,6 @@ export default async function Page({ params }) {
             <span style={{textDecoration:'underline'}}>{cta.h2b}</span>
             {' '}{cta.h2c}
           </p>
-        </div>
-      </section>
-
-      {/* ── PILLAR GUIDE LINK ── */}
-      <section style={{background:'#f7f7f5',padding:'0'}}>
-        <div className="container" style={{paddingTop:'24px',paddingBottom:'24px',borderTop:'1px solid #e8e8e4'}}>
-          <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'12px'}}>
-            <div>
-              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#888',marginBottom:'4px'}}>Ghid & Resurse</div>
-              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.92rem',fontWeight:600,letterSpacing:'.04em',color:'#1a2a3a'}}>{pillarLabel}</div>
-            </div>
-            <Link href={`/${pillarSlug}`} style={{display:'inline-block',background:'#1a2a3a',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.18em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',whiteSpace:'nowrap'}}>
-              {pillarCta} →
-            </Link>
-          </div>
         </div>
       </section>
     </>

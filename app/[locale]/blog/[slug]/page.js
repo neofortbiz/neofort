@@ -134,63 +134,6 @@ export default async function BlogArticlePage({ params }) {
   const otherCat = ARTICLES.filter(r => r.slugs.ro !== a.slugs.ro && r.category?.ro !== a.category?.ro);
   const related = [...sameCat, ...otherCat].slice(0, 3);
 
-  // ── PILLAR LINK ── detectam pagina pillar dupa slug RO
-  const PILLAR_MAP = {
-    // PVC
-    'ghid-complet-tamplarie-pvc-salamander-bluevolution-greenevolution': 'pvc',
-    'tamplarie-pvc-osciloculisanta-dubla-salamander': 'pvc',
-    'montaj-tamplarie-precadru-blaugelb-triotherm-plus-nzeb': 'nzeb',
-    'geam-termopan-warm-edge-distantier-termic-saint-gobain-sgg': 'nzeb',
-    'banda-precomprimata-butilic-etansare-ferestre-nzeb': 'nzeb',
-    'montaj-tamplarie-salamander-evolutiondrive-plus-culisanta-alumil-m19800-armonice': 'pvc',
-    // Aluminiu
-    'ghid-tamplarie-aluminiu-alumil-s77-supreme-s67-smartia-bucuresti': 'aluminiu',
-    'tamplarie-aluminiu-vs-pvc-diferente-performante-pret-2024': 'aluminiu',
-    'vitrine-panoramice-aluminiu-sticla-securizata-geam-mare-dimensiuni-bucuresti': 'aluminiu',
-    // Umbrire
-    'ghid-complet-zipscreen-umbrire-terasa-bucuresti': 'umbrire',
-    'jaluzele-raffstore-vs-tapparelle-aluminiu-sistem-umbrire': 'umbrire',
-    'plase-insecte-plisse-culisante-mari-dimensiuni-terasa': 'umbrire',
-  };
-  const PILLAR_SLUGS_BLOG = {
-    pvc: {
-      ro: 'tamplarie-pvc/ghid-complet', en: 'pvc-windows/complete-guide',
-      de: 'kunststofffenster-pvc/kompletter-ratgeber', fr: 'menuiserie-pvc/guide-complet',
-      es: 'carpinteria-pvc/guia-completa', it: 'infissi-pvc/guida-completa',
-    },
-    aluminiu: {
-      ro: 'tamplarie-aluminiu/ghid-complet', en: 'aluminium-windows/complete-guide',
-      de: 'aluminiumfenster/kompletter-ratgeber', fr: 'menuiserie-aluminium/guide-complet',
-      es: 'carpinteria-aluminio/guia-completa', it: 'infissi-alluminio/guida-completa',
-    },
-    umbrire: {
-      ro: 'umbrire/ghid-complet-sisteme-umbrire', en: 'shading-systems/complete-guide',
-      de: 'beschattungssysteme/kompletter-ratgeber', fr: 'systemes-occultation/guide-complet',
-      es: 'sistemas-sombreado/guia-completa', it: 'sistemi-oscuramento/guida-completa',
-    },
-    nzeb: {
-      ro: 'sisteme-nzeb/ghid-complet-nzeb', en: 'nzeb-systems/complete-guide',
-      de: 'nzeb-systeme/kompletter-ratgeber', fr: 'systemes-nzeb/guide-complet',
-      es: 'sistemas-nzeb/guia-completa', it: 'sistemi-nzeb/guida-completa',
-    },
-  };
-  const PILLAR_LABELS_BLOG = {
-    pvc: { ro: 'Ghid Complet Tamplarie PVC', en: 'Complete PVC Guide', de: 'PVC Ratgeber', fr: 'Guide PVC complet', es: 'Guia PVC completa', it: 'Guida PVC completa' },
-    aluminiu: { ro: 'Ghid Complet Tamplarie Aluminiu', en: 'Complete Aluminium Guide', de: 'Aluminiumfenster Ratgeber', fr: 'Guide aluminium complet', es: 'Guia aluminio completa', it: 'Guida alluminio completa' },
-    umbrire: { ro: 'Ghid Complet Sisteme Umbrire', en: 'Complete Shading Guide', de: 'Beschattungsratgeber', fr: 'Guide occultation complet', es: 'Guia sombreado completa', it: 'Guida oscuramento completa' },
-    nzeb: { ro: 'Ghid Complet Sisteme nZEB', en: 'Complete nZEB Guide', de: 'nZEB Ratgeber', fr: 'Guide nZEB complet', es: 'Guia nZEB completa', it: 'Guida nZEB completa' },
-  };
-  const PILLAR_READ_BLOG = {
-    ro: 'Citeste ghidul complet', en: 'Read the complete guide',
-    de: 'Kompletten Ratgeber lesen', fr: 'Lire le guide complet',
-    es: 'Leer la guia completa', it: 'Leggi la guida completa',
-  };
-  const articleSlugRo = a.slugs?.ro || '';
-  const pillarCat = PILLAR_MAP[articleSlugRo] || null;
-  const pillarSlugBlog = pillarCat ? (PILLAR_SLUGS_BLOG[pillarCat]?.[locale] || PILLAR_SLUGS_BLOG[pillarCat]?.ro) : null;
-  const pillarLabelBlog = pillarCat ? (PILLAR_LABELS_BLOG[pillarCat]?.[locale] || PILLAR_LABELS_BLOG[pillarCat]?.ro) : null;
-  const pillarReadBlog = PILLAR_READ_BLOG[locale] || PILLAR_READ_BLOG.ro;
-
   // Schema VideoObject pentru articolele cu video
   const videoSchema = a.video?.embed ? {
     "@context": "https://schema.org",
@@ -374,20 +317,6 @@ export default async function BlogArticlePage({ params }) {
                 </div>
               </div>
             )}
-          
-            {/* PILLAR LINK BANNER */}
-            {pillarSlugBlog && (
-              <div style={{marginTop:'40px',padding:'20px 24px',background:'#f0f4f8',borderLeft:'3px solid #2d5a8e',display:'flex',alignItems:'center',justifyContent:'space-between',gap:'16px',flexWrap:'wrap'}}>
-                <div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#888',marginBottom:'4px'}}>Resursa recomandata</div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.9rem',fontWeight:600,color:'#1a2a3a'}}>{pillarLabelBlog}</div>
-                </div>
-                <Link href={`/${pillarSlugBlog}`} style={{display:'inline-block',background:'#2d5a8e',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.7rem',letterSpacing:'.15em',textTransform:'uppercase',padding:'10px 20px',textDecoration:'none',whiteSpace:'nowrap'}}>
-                  {pillarReadBlog} →
-                </Link>
-              </div>
-            )}
-
           </main>
 
           <aside className="article-sidebar">
