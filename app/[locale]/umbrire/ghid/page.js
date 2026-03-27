@@ -282,49 +282,46 @@ const BLOG_LINKS = {
   ],
 };
 
+
+const WA_URLS = {
+  ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20sisteme%20de%20umbrire.',
+  en: 'https://wa.me/40752443435?text=Hello%21%20Quote%20for%20shading%20systems.',
+  de: 'https://wa.me/40752443435?text=Hallo%21%20Angebot%20fur%20Beschattungssysteme.',
+  fr: 'https://wa.me/40752443435?text=Bonjour%21%20Devis%20systemes%20occultation.',
+  es: 'https://wa.me/40752443435?text=Hola%21%20Presupuesto%20sistemas%20sombreado.',
+  it: 'https://wa.me/40752443435?text=Buongiorno%21%20Preventivo%20sistemi%20oscuramento.',
+};
+const WA_LABELS = {
+  ro: 'WhatsApp — Raspuns in 15 min',
+  en: 'WhatsApp — Reply in 15 min',
+  de: 'WhatsApp — Antwort in 15 Min.',
+  fr: 'WhatsApp — Reponse en 15 min',
+  es: 'WhatsApp — Respuesta en 15 min',
+  it: 'WhatsApp — Risposta in 15 min',
+};
+const MID_TITLES = {
+  ro: 'Solicitati oferta gratuita — raspundem in 2 ore',
+  en: 'Request your free quote — we reply within 2 hours',
+  de: 'Kostenloses Angebot anfordern — Antwort in 2 Stunden',
+  fr: 'Demandez votre devis gratuit — reponse en 2 heures',
+  es: 'Solicite su presupuesto gratuito — respondemos en 2 horas',
+  it: 'Richiedi il tuo preventivo gratuito — rispondiamo in 2 ore',
+};
+const MID_DESCS = {
+  ro: 'Masuratori gratuite in Bucuresti si Ilfov. Oferta in 24h. 46 recenzii Google 4.9/5.',
+  en: 'Free measurements in Bucharest and Ilfov. Quote in 24h. 46 Google reviews 4.9/5.',
+  de: 'Kostenlose Aufmasse in Bukarest. Angebot in 24h. 46 Google-Bewertungen 4.9/5.',
+  fr: 'Prises de cotes gratuites a Bucarest. Devis en 24h. 46 avis Google 4.9/5.',
+  es: 'Mediciones gratuitas en Bucarest. Presupuesto en 24h. 46 resenas Google 4.9/5.',
+  it: 'Misurazioni gratuite a Bucarest. Preventivo in 24h. 46 recensioni Google 4.9/5.',
+};
+
 export async function generateStaticParams() {
   return LOCALES.map(locale => ({ locale }));
 }
 
 export async function generateMetadata({ params }) {
   const { locale } = await params;
-
-  const WA_URLS = {
-    ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20sisteme%20de%20umbrire.',
-    en: 'https://wa.me/40752443435?text=Hello%21%20I%20would%20like%20a%20quote%20for%20shading%20systems.',
-    de: 'https://wa.me/40752443435?text=Guten%20Tag%21%20Ich%20mochte%20ein%20Angebot%20fur%20Beschattungssysteme.',
-    fr: 'https://wa.me/40752443435?text=Bonjour%21%20Je%20souhaite%20un%20devis%20pour%20systemes%20occultation.',
-    es: 'https://wa.me/40752443435?text=Hola%21%20Me%20gustaria%20un%20presupuesto%20para%20sistemas%20de%20sombreado.',
-    it: 'https://wa.me/40752443435?text=Buongiorno%21%20Vorrei%20un%20preventivo%20per%20sistemi%20di%20oscuramento.',
-  };
-  const WA_LABELS = {
-    ro: 'WhatsApp — Raspuns in 15 min',
-    en: 'WhatsApp — Reply in 15 min',
-    de: 'WhatsApp — Antwort in 15 Min.',
-    fr: 'WhatsApp — Reponse en 15 min',
-    es: 'WhatsApp — Respuesta en 15 min',
-    it: 'WhatsApp — Risposta in 15 min',
-  };
-  const MID_TITLES = {
-    ro: 'Solicitati oferta gratuita — raspundem in 2 ore',
-    en: 'Request your free quote — we reply within 2 hours',
-    de: 'Kostenloses Angebot anfordern — Antwort in 2 Stunden',
-    fr: 'Demandez votre devis gratuit — reponse en 2 heures',
-    es: 'Solicite su presupuesto gratuito — respondemos en 2 horas',
-    it: 'Richiedi il tuo preventivo gratuito — rispondiamo in 2 ore',
-  };
-  const MID_DESCS = {
-    ro: 'Masuratori gratuite in Bucuresti si Ilfov. Oferta detaliata in 24h. 46 recenzii Google cu rating 4.9/5.',
-    en: 'Free measurements in Bucharest and Ilfov. Detailed quote in 24h. 46 Google reviews rated 4.9/5.',
-    de: 'Kostenlose Aufmasse in Bukarest und Ilfov. Detailliertes Angebot in 24h. 46 Google-Bewertungen 4.9/5.',
-    fr: 'Prises de cotes gratuites a Bucarest et Ilfov. Devis detaille en 24h. 46 avis Google 4.9/5.',
-    es: 'Mediciones gratuitas en Bucarest e Ilfov. Presupuesto en 24h. 46 resenas Google 4.9/5.',
-    it: 'Misurazioni gratuite a Bucarest e Ilfov. Preventivo in 24h. 46 recensioni Google 4.9/5.',
-  };
-  const waUrl = WA_URLS[locale] || WA_URLS.ro;
-  const waLabel = WA_LABELS[locale] || WA_LABELS.ro;
-  const midTitle = MID_TITLES[locale] || MID_TITLES.ro;
-  const midDesc = MID_DESCS[locale] || MID_DESCS.ro;
 
   const ui = UI[locale] || UI.ro;
   const slug = SLUGS[locale] || SLUGS.ro;
@@ -348,6 +345,10 @@ export async function generateMetadata({ params }) {
 export default async function UmbrireGhidPage({ params }) {
   const { locale } = await params;
   const ui = UI[locale] || UI.ro;
+  const waUrl = WA_URLS[locale] || WA_URLS.ro;
+  const waLabel = WA_LABELS[locale] || WA_LABELS.ro;
+  const midTitle = MID_TITLES[locale] || MID_TITLES.ro;
+  const midDesc = MID_DESCS[locale] || MID_DESCS.ro;
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
   const pricesSlug = PRICES_SLUGS[locale] || PRICES_SLUGS.ro;
   const blogLinks = BLOG_LINKS_UMB[locale] || BLOG_LINKS_UMB.ro;
