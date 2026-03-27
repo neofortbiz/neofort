@@ -805,7 +805,7 @@ export default async function ProductPage({ params }) {
             <p className="prd-cta-name">{name}</p>
             <p className="prd-cta-sub">{ui.cta_sub}</p>
             <Link href="/contact" className="prd-cta-btn prd-cta-btn-primary">{ui.cta_btn}</Link>
-            <a href="tel:+40752443435" className="prd-cta-btn prd-cta-btn-secondary">{ui.cta_call} +40 752 443 435</a>
+            <a href="tel:+40752443435" className="prd-cta-btn prd-cta-btn-secondary" style={{fontSize:'.6rem',whiteSpace:'nowrap'}}>{ui.cta_call} +40 752 443 435</a>
           </div>
         </div>
 
