@@ -1,4 +1,4 @@
-import { Link } from '../../../../../i18n/navigation';
+import { Link } from '../../../../i18n/navigation';
 
 const BASE = 'https://www.neofort-biz.ro';
 const LOCALES = ['ro','en','de','fr','es','it'];
