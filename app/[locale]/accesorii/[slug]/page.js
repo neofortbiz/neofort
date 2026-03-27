@@ -435,7 +435,7 @@ export default async function AccesorieProductPage({ params }) {
             <p className="prd-cta-nm">{name}</p>
             <p className="prd-cta-sub">{ui.cta_sub}</p>
             <Link href="/contact" className="prd-cta-a prd-cta-pri">{ui.cta_btn}</Link>
-            <a href="tel:+40752443435" className="prd-cta-a prd-cta-sec">{ui.cta_call} +40 752 443 435</a>
+            <a href="tel:+40752443435" className="prd-cta-a prd-cta-sec" style={{fontSize:'.6rem',whiteSpace:'nowrap'}}>{ui.cta_call} +40 752 443 435</a>
           </div>
         </div>
       </div>
