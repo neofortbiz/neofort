@@ -275,6 +275,35 @@ export default async function TamplariePVCPage({ params }) {
 
   const faqLabelPVC = {ro:'Întrebări frecvente',en:'Frequently asked questions',de:'Häufig gestellte Fragen',fr:'Questions fréquentes',es:'Preguntas frecuentes',it:'Domande frequenti'}[locale] || 'Întrebări frecvente';
 
+
+  const PILLAR_SLUGS = {
+    ro: 'tamplarie-pvc/ghid-complet',
+    en: 'pvc-windows/complete-guide',
+    de: 'kunststofffenster-pvc/kompletter-ratgeber',
+    fr: 'menuiserie-pvc/guide-complet',
+    es: 'carpinteria-pvc/guia-completa',
+    it: 'infissi-pvc/guida-completa',
+  };
+  const PILLAR_LABELS = {
+    ro: 'Ghid Complet Tamplarie PVC 2026 — Profile, geamuri, montaj, preturi',
+    en: 'Complete PVC Windows Guide 2026 — Profiles, glazing, installation',
+    de: 'PVC-Fenster Ratgeber 2026 — Profile, Verglasung, Montage',
+    fr: 'Guide complet menuiserie PVC 2026 — Profils, vitrage, pose',
+    es: 'Guia completa carpinteria PVC 2026 — Perfiles, acristalamiento, instalacion',
+    it: 'Guida completa infissi PVC 2026 — Profili, vetro, installazione',
+  };
+  const PILLAR_CTA = {
+    ro: 'Citeste Ghidul Complet',
+    en: 'Read the Complete Guide',
+    de: 'Kompletten Ratgeber lesen',
+    fr: 'Lire le guide complet',
+    es: 'Leer la guia completa',
+    it: 'Leggi la guida completa',
+  };
+  const pillarSlug = PILLAR_SLUGS[locale] || PILLAR_SLUGS.ro;
+  const pillarLabel = PILLAR_LABELS[locale] || PILLAR_LABELS.ro;
+  const pillarCta = PILLAR_CTA[locale] || PILLAR_CTA.ro;
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaPVC) }}/>
@@ -396,6 +425,21 @@ export default async function TamplariePVCPage({ params }) {
                 <span className="font-condensed text-[0.9rem] font-semibold text-primary group-hover:text-aluminiu transition-colors">{ui.cross_blog}</span>
               </div>
               <span className="text-muted group-hover:text-aluminiu transition-colors">→</span>
+            </Link>
+          </div>
+        </div>
+      </section>
+
+            {/* ── PILLAR GUIDE LINK ── */}
+      <section style={{background:'#f7f7f5',padding:'0'}}>
+        <div className="container" style={{paddingTop:'24px',paddingBottom:'24px',borderTop:'1px solid #e8e8e4'}}>
+          <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'12px'}}>
+            <div>
+              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#888',marginBottom:'4px'}}>Ghid & Resurse</div>
+              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.92rem',fontWeight:600,letterSpacing:'.04em',color:'#1a2a3a'}}>{pillarLabel}</div>
+            </div>
+            <Link href={`/${pillarSlug}`} style={{display:'inline-block',background:'#1a2a3a',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.18em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',whiteSpace:'nowrap'}}>
+              {pillarCta} →
             </Link>
           </div>
         </div>

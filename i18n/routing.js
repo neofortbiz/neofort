@@ -540,5 +540,48 @@ export const routing = defineRouting({
       es: '/accesorios/rejilla-higrorreglable-aereco-ventilacion',
       it: '/accessori/griglia-igroregolab-aereco-ventilazione',
     },
+
+    '/tamplarie-pvc/ghid-complet': {
+      ro: '/tamplarie-pvc/ghid-complet',
+      en: '/pvc-windows/complete-guide',
+      de: '/kunststofffenster-pvc/kompletter-ratgeber',
+      fr: '/menuiserie-pvc/guide-complet',
+      es: '/carpinteria-pvc/guia-completa',
+      it: '/infissi-pvc/guida-completa',
+    },
+    '/tamplarie-aluminiu/ghid-complet': {
+      ro: '/tamplarie-aluminiu/ghid-complet',
+      en: '/aluminium-windows/complete-guide',
+      de: '/aluminiumfenster/kompletter-ratgeber',
+      fr: '/menuiserie-aluminium/guide-complet',
+      es: '/carpinteria-aluminio/guia-completa',
+      it: '/infissi-alluminio/guida-completa',
+    },
+    '/umbrire/preturi-sisteme-umbrire': {
+      ro: '/umbrire/preturi-sisteme-umbrire',
+      en: '/shading-systems/shading-prices',
+      de: '/beschattungssysteme/beschattung-preise',
+      fr: '/systemes-occultation/prix-occultation',
+      es: '/sistemas-sombreado/precios-sombreado',
+      it: '/sistemi-oscuramento/prezzi-oscuramento',
+    },
+    '/umbrire/ghid-complet-sisteme-umbrire': {
+      ro: '/umbrire/ghid-complet-sisteme-umbrire',
+      en: '/shading-systems/complete-guide',
+      de: '/beschattungssysteme/kompletter-ratgeber',
+      fr: '/systemes-occultation/guide-complet',
+      es: '/sistemas-sombreado/guia-completa',
+      it: '/sistemi-oscuramento/guida-completa',
+    },
+    '/sisteme-nzeb/ghid-complet-nzeb': {
+      ro: '/sisteme-nzeb/ghid-complet-nzeb',
+      en: '/nzeb-systems/complete-guide',
+      de: '/nzeb-systeme/kompletter-ratgeber',
+      fr: '/systemes-nzeb/guide-complet',
+      es: '/sistemas-nzeb/guia-completa',
+      it: '/sistemi-nzeb/guida-completa',
+    },
+
+  // PILLAR PAGES
   }
 });
