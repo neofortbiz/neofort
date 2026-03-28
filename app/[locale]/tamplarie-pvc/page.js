@@ -193,7 +193,7 @@ export default async function TamplariePVCPage({ params }) {
 
 
   const schemaPVC = {
-    '@context': 'https://schema.org', '@type': 'CollectionPage',
+    '@context': 'https://schema.org', '@type': ['CollectionPage', 'Product'],
     'name': PAGE_UI[locale]?.h1 || PAGE_UI.ro.h1,
     'description': PAGE_UI[locale]?.sub || PAGE_UI.ro.sub,
     'url': `${BASE}/${locale}/${SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro}`,

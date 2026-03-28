@@ -190,7 +190,7 @@ export default async function TamplaieAluminiuPage({ params }) {
 
 
   const schemaALU = {
-    '@context': 'https://schema.org', '@type': 'CollectionPage',
+    '@context': 'https://schema.org', '@type': ['CollectionPage', 'Product'],
     'name': PAGE_UI[locale]?.h1 || PAGE_UI.ro.h1,
     'url': `${BASE}/${locale}/${SLUGS_TAMPLARIE_ALUMINIU[locale] || SLUGS_TAMPLARIE_ALUMINIU.ro}`,
     'aggregateRating': {
