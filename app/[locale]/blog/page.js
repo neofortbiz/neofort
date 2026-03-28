@@ -136,7 +136,7 @@ export default async function BlogPage({ params }) {
         {/* Imagine de fundal */}
         <img
           src="/blog-hero.avif"
-          alt="Blog tâmplărie PVC aluminiu Neofort BIZ"
+          alt={hero.h1}
           fetchpriority="high"
           decoding="async"
           style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:0.18,display:'block'}}
