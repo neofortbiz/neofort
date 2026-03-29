@@ -12,7 +12,7 @@ export const ARTICLES = [
       es: 'pergola-bioclimatica-vs-clasica-guia',
       it: 'pergola-bioclimatica-vs-classica-guida',
     },
-    date: '2026-03-25',
+    date: '2026-01-09',
     author: 'Neofort BIZ',
     accentColor: '#d4001a',
     image: {
@@ -53,8 +53,8 @@ export const ARTICLES = [
     },
     keywords: 'pergola bioclimatica, pergola clasica, pergola retractabila, pergola lamele, pergola panza, pergola pret, pergola terasa, pergola Somfy, pergola automatizata, pergola aluminiu, pergola Bucuresti',
     dateDisplay: {
-      ro: '25 mar 2026', en: 'Mar 25 2026', de: '25. Mär. 2026',
-      fr: '25 mars 2026', es: '25 mar 2026', it: '25 mar 2026',
+      ro: '9 ian 2026', en: 'Jan 9 2026', de: '9. Jan. 2026',
+      fr: '9 janv 2026', es: '9 ene 2026', it: '9 gen 2026',
     },
     content: {
       ro: `## Pergolă bioclimatică vs pergolă clasică — ce diferențe contează cu adevărat?
@@ -271,9 +271,12 @@ Neofort BIZ fornisce e installa pergole automatiche Somfy a Bucarest e Ilfov —
       es: 'bluevolution-92-vs-greenevolution-76-guia',
       it: 'bluevolution-92-vs-greenevolution-76-guida',
     },
-    date: '2026-02-15',
+    date: '2025-12-28',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'15 Februarie 2026', en:'February 15, 2026', de:'15. Februar 2026', fr:'15 février 2026', es:'15 de febrero de 2026', it:'15 febbraio 2026' },
+    dateDisplay: {
+      ro: '28 dec 2025', en: 'Dec 28 2025', de: '28. Dez. 2025',
+      fr: '28 déc 2025', es: '28 dic 2025', it: '28 dic 2025',
+    },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -1002,8 +1005,11 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
       es: 'instalacion-premarcos-blaugelb-triotherm-nzeb',
       it: 'installazione-precontrotelaio-blaugelb-triotherm-nzeb',
     },
-    date: '2026-02-22',
-    dateDisplay: { ro:'22 Februarie 2026', en:'February 22, 2026', de:'22. Februar 2026', fr:'22 février 2026', es:'22 de febrero de 2026', it:'22 febbraio 2026' },
+    date: '2026-01-18',
+    dateDisplay: {
+      ro: '18 ian 2026', en: 'Jan 18 2026', de: '18. Jan. 2026',
+      fr: '18 janv 2026', es: '18 ene 2026', it: '18 gen 2026',
+    },
     category: { ro:'Montaj & Izolare', en:'Installation', de:'Montage', fr:'Installation', es:'Instalación', it:'Installazione' },
     readTime: { ro:'7 min citire', en:'7 min read', de:'7 Min.', fr:'7 min', es:'7 min', it:'7 min' },
     image: {
@@ -1564,8 +1570,11 @@ Da Neofort BIZ, **tutte le nostre installazioni** includono il sistema completo 
       es: 'persianas-raffstore-vs-cierres-enrollables-aluminio',
       it: 'veneziane-raffstore-vs-tapparelle-alluminio',
     },
-    date: '2026-03-01',
-    dateDisplay: { ro:'1 Martie 2026', en:'March 1, 2026', de:'1. März 2026', fr:'1 mars 2026', es:'1 de marzo de 2026', it:'1 marzo 2026' },
+    date: '2026-01-30',
+    dateDisplay: {
+      ro: '30 ian 2026', en: 'Jan 30 2026', de: '30. Jan. 2026',
+      fr: '30 janv 2026', es: '30 ene 2026', it: '30 gen 2026',
+    },
     category: { ro:'Comparație produse', en:'Product Comparison', de:'Produktvergleich', fr:'Comparaison produits', es:'Comparación', it:'Confronto prodotti' },
     readTime: { ro:'6 min citire', en:'6 min read', de:'6 Min.', fr:'6 min', es:'6 min', it:'6 min' },
     image: {
@@ -2258,9 +2267,12 @@ Da Neofort BIZ forniamo e installiamo entrambi i sistemi. Contattateci per un pr
       es: 'exportacion-carpinteria-rumania-alemania',
       it: 'esportazione-serramenti-romania-germania',
     },
-    date: '2026-03-08',
+    date: '2026-01-24',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'8 Martie 2026', en:'March 8, 2026', de:'8. März 2026', fr:'8 mars 2026', es:'8 de marzo de 2026', it:'8 marzo 2026' },
+    dateDisplay: {
+      ro: '24 ian 2026', en: 'Jan 24 2026', de: '24. Jan. 2026',
+      fr: '24 janv 2026', es: '24 ene 2026', it: '24 gen 2026',
+    },
     category: { ro:'Export & Europa', en:'Export & Europe', de:'Export & Europa', fr:'Export & Europe', es:'Exportación & Europa', it:'Export & Europa' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -3037,9 +3049,12 @@ Comunichiamo fluentemente in **rumeno, inglese e tedesco**. Inviateci le fotogra
       es: 'carpinteria-aluminio-rotura-termica-guia-completa',
       it: 'infissi-alluminio-taglio-termico-guida-completa',
     },
-    date: '2026-03-10',
+    date: '2025-12-31',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'10 Martie 2026', en:'March 10, 2026', de:'10. März 2026', fr:'10 mars 2026', es:'10 de marzo de 2026', it:'10 marzo 2026' },
+    dateDisplay: {
+      ro: '31 dec 2025', en: 'Dec 31 2025', de: '31. Dez. 2025',
+      fr: '31 déc 2025', es: '31 dic 2025', it: '31 dic 2025',
+    },
     category: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -3555,9 +3570,12 @@ Inviaci le tue dimensioni e rispondiamo con preventivo completo in **48 ore**.
       es: 'muro-cortina-fachada-vidrio-guia-completa',
       it: 'parete-cortina-facciata-vetro-guida-completa',
     },
-    date: '2026-03-15',
+    date: '2026-01-06',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'15 Martie 2026', en:'March 15, 2026', de:'15. März 2026', fr:'15 mars 2026', es:'15 de marzo de 2026', it:'15 marzo 2026' },
+    dateDisplay: {
+      ro: '6 ian 2026', en: 'Jan 6 2026', de: '6. Jan. 2026',
+      fr: '6 janv 2026', es: '6 ene 2026', it: '6 gen 2026',
+    },
     category: { ro:'Pereți Cortină', en:'Curtain Wall', de:'Vorhangfassade', fr:'Mur Rideau', es:'Muro Cortina', it:'Parete Cortina' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -4071,9 +4089,12 @@ Profili visibili **solo in una direzione**, gli altri lati incollati con silicon
       es: 'zipscreen-sombreado-terraza-guia-completa',
       it: 'zipscreen-ombreggiatura-terrazza-guida-completa',
     },
-    date: '2026-03-15',
+    date: '2026-03-04',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'15 Martie 2026', en:'March 15, 2026', de:'15. März 2026', fr:'15 mars 2026', es:'15 de marzo de 2026', it:'15 marzo 2026' },
+    dateDisplay: {
+      ro: '4 mar 2026', en: 'Mar 4 2026', de: '4. Mär. 2026',
+      fr: '4 mars 2026', es: '4 mar 2026', it: '4 mar 2026',
+    },
     category: { ro:'Sisteme Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:'Systèmes d\'occultation', es:'Sistemas de sombreado', it:'Sistemi di oscuramento' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -4494,9 +4515,12 @@ Una tapparella esterna classica — anche in alluminio — ha i bordi del tessut
       es: 'precios-doble-acristalamiento-salamander-bucarest',
       it: 'prezzi-doppio-vetro-salamander-bucarest',
     },
-    date: '2026-03-17',
+    date: '2026-01-03',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '3 ian 2026', en: 'Jan 3 2026', de: '3. Jan. 2026',
+      fr: '3 janv 2026', es: '3 ene 2026', it: '3 gen 2026',
+    },
     category: { ro:'Prețuri & Ghid', en:'Prices & Guide', de:'Preise & Leitfaden', fr:'Prix & Guide', es:'Precios & Guía', it:'Prezzi & Guida' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -4757,9 +4781,12 @@ Trimite-ne dimensiunile ferestrelor și preferința de profil. Răspundem în **
       es: 'precios-carpinteria-aluminio-alumil-aluprof-cortizo-reynaers-bucarest',
       it: 'prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest',
     },
-    date: '2026-03-17',
+    date: '2026-01-12',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '12 ian 2026', en: 'Jan 12 2026', de: '12. Jan. 2026',
+      fr: '12 janv 2026', es: '12 ene 2026', it: '12 gen 2026',
+    },
     category: { ro:'Prețuri & Comparație', en:'Prices & Comparison', de:'Preise & Vergleich', fr:'Prix & Comparaison', es:'Precios & Comparación', it:'Prezzi & Confronto' },
     readTime: { ro:'10 min citire', en:'10 min read', de:'10 Min.', fr:'10 min', es:'10 min', it:'10 min' },
     image: {
@@ -5001,9 +5028,12 @@ We work exclusively with Alumil: local stock (3–5 day delivery), best price-pe
       es: 'carpinteria-aluminio-smart-home-ventanas-puertas-automatizadas',
       it: 'infissi-alluminio-smart-home-finestre-porte-automatizzate',
     },
-    date: '2026-03-17',
+    date: '2026-01-21',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '21 ian 2026', en: 'Jan 21 2026', de: '21. Jan. 2026',
+      fr: '21 janv 2026', es: '21 ene 2026', it: '21 gen 2026',
+    },
     category: { ro:'Smart Home & Automatizare', en:'Smart Home & Automation', de:'Smart Home & Automatisierung', fr:'Maison Intelligente & Automatisation', es:'Casa Inteligente & Automatización', it:'Casa Intelligente & Automazione' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -5458,9 +5488,12 @@ Progetto Loxone completo per una casa di 200 m²: 8.000–20.000 EUR inclusi har
       es: 'muro-cortina-edificios-oficinas-bucarest-guia-completa-2026',
       it: 'parete-cortina-edifici-uffici-bucarest-guida-completa-2026',
     },
-    date: '2026-03-17',
+    date: '2026-02-02',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '2 feb 2026', en: 'Feb 2 2026', de: '2. Feb. 2026',
+      fr: '2 févr 2026', es: '2 feb 2026', it: '2 feb 2026',
+    },
     category: { ro:'Pereți Cortină & Birouri', en:'Curtain Wall & Offices', de:'Vorhangfassade & Büros', fr:'Mur Rideau & Bureaux', es:'Muro Cortina & Oficinas', it:'Parete Cortina & Uffici' },
     readTime: { ro:'10 min citire', en:'10 min read', de:'10 Min.', fr:'10 min', es:'10 min', it:'10 min' },
     image: {
@@ -5957,9 +5990,12 @@ Stock locale Alumil — profili disponibili in 3–5 giorni vs 6–8 settimane p
       es: 'sustitucion-ventanas-renovacion-apartamento-bucarest',
       it: 'sostituzione-finestre-ristrutturazione-appartamento-bucarest',
     },
-    date: '2026-03-17',
+    date: '2026-01-15',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '15 ian 2026', en: 'Jan 15 2026', de: '15. Jan. 2026',
+      fr: '15 janv 2026', es: '15 ene 2026', it: '15 gen 2026',
+    },
     category: { ro:'Renovare & Ghid', en:'Renovation & Guide', de:'Renovierung & Leitfaden', fr:'Rénovation & Guide', es:'Renovación & Guía', it:'Ristrutturazione & Guida' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -6363,9 +6399,12 @@ For a 60 m² Bucharest apartment with old windows:
       es: 'carpinteria-salamander-casas-individuales-villas-exportacion-europa',
       it: 'infissi-salamander-case-individuali-ville-esportazione-europa',
     },
-    date: '2026-03-17',
+    date: '2026-01-27',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '27 ian 2026', en: 'Jan 27 2026', de: '27. Jan. 2026',
+      fr: '27 janv 2026', es: '27 ene 2026', it: '27 gen 2026',
+    },
     category: { ro:'Case Individuale & Export', en:'Individual Houses & Export', de:'Einfamilienhäuser & Export', fr:'Maisons Individuelles & Export', es:'Casas Individuales & Exportación', it:'Case Individuali & Export' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -6762,9 +6801,12 @@ Una finestra BluEvolution 92 (100×120 cm, triplo Low-E) costa da Neofort BIZ 48
       es: 'carpinteria-aluminio-reynaers-bloque-nueva-construccion-bucarest',
       it: 'infissi-alluminio-reynaers-condominio-nuova-costruzione-bucarest',
     },
-    date: '2026-03-17',
+    date: '2026-02-08',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '8 feb 2026', en: 'Feb 8 2026', de: '8. Feb. 2026',
+      fr: '8 févr 2026', es: '8 feb 2026', it: '8 feb 2026',
+    },
     category: { ro:'Construcții Noi & Blocuri', en:'New Builds & Residential Blocks', de:'Neubauten & Wohnblöcke', fr:'Constructions Neuves & Immeubles', es:'Obra Nueva & Bloques Residenciales', it:'Nuove Costruzioni & Condomini' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -7085,9 +7127,12 @@ Delea Veche è una delle zone di sviluppo residenziale più attive del settore 2
       es: 'salamander-bluevolution-92-casa-nueva-smart-home-bucarest',
       it: 'salamander-bluevolution-92-casa-nuova-smart-home-bucarest',
     },
-    date: '2026-03-17',
+    date: '2026-02-05',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '5 feb 2026', en: 'Feb 5 2026', de: '5. Feb. 2026',
+      fr: '5 févr 2026', es: '5 feb 2026', it: '5 feb 2026',
+    },
     category: { ro:'Case Noi & Smart Home', en:'New Houses & Smart Home', de:'Neubauten & Smart Home', fr:'Maisons Neuves & Maison Intelligente', es:'Casas Nuevas & Smart Home', it:'Case Nuove & Smart Home' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -7411,9 +7456,12 @@ Questa casa, completata nel 2025, ha scelto **Salamander BluEvolution 92** come 
       es: 'salamander-bluevolution-92-alu-revestido-aluminio-exportacion-francia-casa-montana',
       it: 'salamander-bluevolution-92-alu-rivestito-alluminio-esportazione-francia-casa-montagna',
     },
-    date: '2026-03-17',
+    date: '2026-02-26',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '26 feb 2026', en: 'Feb 26 2026', de: '26. Feb. 2026',
+      fr: '26 févr 2026', es: '26 feb 2026', it: '26 feb 2026',
+    },
     category: { ro:'Export & Case Munte', en:'Export & Mountain Houses', de:'Export & Berghäuser', fr:'Export & Maisons de Montagne', es:'Exportación & Casas de Montaña', it:'Export & Case di Montagna' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -7708,9 +7756,12 @@ Nous communiquons en roumain, anglais, français et allemand. Livraison dans tou
       es: 'vitrinas-cristal-ventanas-panoramicas-grandes-dimensiones-securizadas-bucarest',
       it: 'vetrine-vetro-finestre-panoramiche-grandi-dimensioni-securizzate-bucarest',
     },
-    date: '2026-03-17',
+    date: '2026-02-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '17 feb 2026', en: 'Feb 17 2026', de: '17. Feb. 2026',
+      fr: '17 févr 2026', es: '17 feb 2026', it: '17 feb 2026',
+    },
     category: { ro:'Vitrine & Geamuri Mari', en:'Shopfronts & Large Glass', de:'Schaufenster & Großglas', fr:'Vitrines & Grand Verre', es:'Vitrinas & Vidrio Grande', it:'Vetrine & Vetro Grande' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -8076,9 +8127,12 @@ Tempra termica a 620–680°C: resistenza **4–5× superiore**. Dimensioni mass
       es: 'instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
       it: 'posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
     },
-    date: '2026-03-17',
+    date: '2026-03-01',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '1 mar 2026', en: 'Mar 1 2026', de: '1. Mär. 2026',
+      fr: '1 mars 2026', es: '1 mar 2026', it: '1 mar 2026',
+    },
     category: { ro:'Montaj Specializat', en:'Specialised Installation', de:'Spezialmontage', fr:'Pose Spécialisée', es:'Instalación Especializada', it:'Posa Specializzata' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -8457,9 +8511,12 @@ Un pannello ESG 3×4 m da 12 mm pesa **360 kg**. La movimentazione manuale senza
       es: 'carpinteria-aluminio-muros-cortina-fachadas-vidrio-proyectos-bucarest',
       it: 'infissi-alluminio-pareti-cortina-facciate-vetro-progetti-bucarest',
     },
-    date: '2026-03-17',
+    date: '2026-03-10',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
+    dateDisplay: {
+      ro: '10 mar 2026', en: 'Mar 10 2026', de: '10. Mär. 2026',
+      fr: '10 mars 2026', es: '10 mar 2026', it: '10 mar 2026',
+    },
     category: { ro:'Lucrări București', en:'Bucharest Projects', de:'Bukarest Projekte', fr:'Projets Bucarest', es:'Proyectos Bucarest', it:'Progetti Bucarest' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -8797,9 +8854,12 @@ Parete cortina Alumil CW50, vetro riflettente Low-E 6+16+6 (g = 0,27), BREEAM Ve
       es: 'persianas-zipscreen-blackout-o-transparente-como-elegir',
       it: 'tende-zipscreen-oscuranti-o-trasparenti-come-scegliere',
     },
-    date: '2026-03-21',
+    date: '2026-03-22',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
+    dateDisplay: {
+      ro: '22 mar 2026', en: 'Mar 22 2026', de: '22. Mär. 2026',
+      fr: '22 mars 2026', es: '22 mar 2026', it: '22 mar 2026',
+    },
     category: { ro:'Sisteme de Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:"Systèmes d\'Occultation", es:'Sistemas de Sombreado', it:'Sistemi di Oscuramento' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -9242,9 +9302,12 @@ Quasi tutti i clienti che ordinano una tenda Zipscreen a Bucarest fanno la stess
       es: 'como-elegir-ventanas-eficientes-energeticamente-bucarest-nzeb-2026',
       it: 'come-scegliere-finestre-efficienti-energeticamente-bucarest-nzeb-2026',
     },
-    date: '2026-03-21',
+    date: '2026-02-20',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
+    dateDisplay: {
+      ro: '20 feb 2026', en: 'Feb 20 2026', de: '20. Feb. 2026',
+      fr: '20 févr 2026', es: '20 feb 2026', it: '20 feb 2026',
+    },
     category: { ro:'Ghiduri & Sfaturi', en:'Guides & Tips', de:'Ratgeber & Tipps', fr:'Guides & Conseils', es:'Guías & Consejos', it:'Guide & Consigli' },
     readTime: { ro:'11 min citire', en:'11 min read', de:'11 Min.', fr:'11 min', es:'11 min', it:'11 min' },
     image: {
@@ -9677,9 +9740,12 @@ Bucarest ha uno dei climi più impegnativi d\'Europa: **−15°C in inverno** e 
       es: 'donde-encontrar-ventanas-salamander-con-entrega-internacional',
       it: 'dove-trovare-finestre-salamander-con-consegna-internazionale',
     },
-    date: '2026-03-21',
+    date: '2026-03-19',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
+    dateDisplay: {
+      ro: '19 mar 2026', en: 'Mar 19 2026', de: '19. Mär. 2026',
+      fr: '19 mars 2026', es: '19 mar 2026', it: '19 mar 2026',
+    },
     category: { ro:'Export & Livrare', en:'Export & Delivery', de:'Export & Lieferung', fr:'Export & Livraison', es:'Exportación & Entrega', it:'Export & Consegna' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -10057,9 +10123,12 @@ Le ragioni sono semplici:
       es: 'donde-pedir-puertas-aluminio-sector-1-bucarest',
       it: 'dove-ordinare-porte-alluminio-settore-1-bucarest',
     },
-    date: '2026-03-21',
+    date: '2026-03-16',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
+    dateDisplay: {
+      ro: '16 mar 2026', en: 'Mar 16 2026', de: '16. Mär. 2026',
+      fr: '16 mars 2026', es: '16 mar 2026', it: '16 mar 2026',
+    },
     category: { ro:'Tâmplărie Aluminiu', en:'Aluminium Joinery', de:'Aluminiumtischler', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -10402,9 +10471,12 @@ Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e 
       es: 'ventana-pvc-oscilobatiente-doble-salamander',
       it: 'finestra-pvc-anta-ribalta-doppia-salamander',
     },
-    date: '2026-03-25',
+    date: '2026-02-14',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
+    dateDisplay: {
+      ro: '14 feb 2026', en: 'Feb 14 2026', de: '14. Feb. 2026',
+      fr: '14 févr 2026', es: '14 feb 2026', it: '14 feb 2026',
+    },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     readTime: { ro:'7 min citire', en:'7 min read', de:'7 Min.', fr:'7 min', es:'7 min', it:'7 min' },
     image: { ro:'/blog/blog-osciloculisanta-dubla-salamander.avif', en:'/blog/blog-osciloculisanta-dubla-salamander.avif', de:'/blog/blog-osciloculisanta-dubla-salamander.avif', fr:'/blog/blog-osciloculisanta-dubla-salamander.avif', es:'/blog/blog-osciloculisanta-dubla-salamander.avif', it:'/blog/blog-osciloculisanta-dubla-salamander.avif' },
@@ -10896,9 +10968,12 @@ Neofort BIZ installa tutte le finestre secondo la **guida di posa RAL**, con con
       es: 'puerta-corredera-pvc-salamander-evolutiondrive-plus-mosquitera-plise',
       it: 'porta-scorrevole-pvc-salamander-evolutiondrive-plus-zanzariera-plisse',
     },
-    date: '2026-03-25',
+    date: '2026-02-23',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
+    dateDisplay: {
+      ro: '23 feb 2026', en: 'Feb 23 2026', de: '23. Feb. 2026',
+      fr: '23 févr 2026', es: '23 feb 2026', it: '23 feb 2026',
+    },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: { ro:'/blog/blog-evolutiondrive-plus-plisse.avif', en:'/blog/blog-evolutiondrive-plus-plisse.avif', de:'/blog/blog-evolutiondrive-plus-plisse.avif', fr:'/blog/blog-evolutiondrive-plus-plisse.avif', es:'/blog/blog-evolutiondrive-plus-plisse.avif', it:'/blog/blog-evolutiondrive-plus-plisse.avif' },
@@ -11225,9 +11300,12 @@ Una porta scorrevole di 2,5–3,0 m richiede una protezione antizanzare adeguata
       es: 'instalacion-carpinteria-salamander-evolutiondrive-plus-corredera-alumil-m19800-plegable',
       it: 'posa-serramenti-salamander-evolutiondrive-plus-scorrevole-alumil-m19800-pieghevole',
     },
-    date: '2026-03-25',
+    date: '2026-03-07',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
+    dateDisplay: {
+      ro: '7 mar 2026', en: 'Mar 7 2026', de: '7. Mär. 2026',
+      fr: '7 mars 2026', es: '7 mar 2026', it: '7 mar 2026',
+    },
     category: { ro:'Proiecte realizate', en:'Completed Projects', de:'Realisierte Projekte', fr:'Projets réalisés', es:'Proyectos realizados', it:'Progetti realizzati' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: { ro:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', en:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', de:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', fr:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', es:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', it:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif' },
@@ -12093,7 +12171,10 @@ Scopri di più sui nostri [infissi PVC Salamander](/it/infissi-pvc) e [infissi i
     },
     date: '2026-03-25',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
+    dateDisplay: {
+      ro: '25 mar 2026', en: 'Mar 25 2026', de: '25. Mär. 2026',
+      fr: '25 mars 2026', es: '25 mar 2026', it: '25 mar 2026',
+    },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: { ro:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', en:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', de:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', fr:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', es:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', it:'/blog/blog-usi-antiefractie-amprenta-digitala.avif' },
@@ -12400,7 +12481,7 @@ I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistem
       es: 'somfy-motores-persianas',
       it: 'somfy-motori-tapparelle',
     },
-    date: '2026-02-10',
+    date: '2025-12-25',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
     image: {
       ro: '/blog/blog-somfy-rulouri-motoare.avif',
@@ -12565,12 +12646,8 @@ Motore Somfy installato a Bucarest da **250 EUR / motore**. Kit TaHoma Switch da
     },
     keywords: 'motor Somfy rulouri, automatizare rulouri exterioare, motor Oximo io, RS100 io Somfy, telecomanda Somfy, Somfy TaHoma, automatizare jaluzele, motor rulou pret, rulouri electrice Somfy, Somfy Bucuresti',
     dateDisplay: {
-      ro: '10 feb 2026',
-      en: 'Feb 10 2026',
-      de: '10. Feb. 2026',
-      fr: '10 fév 2026',
-      es: '10 feb 2026',
-      it: '10 feb 2026',
+      ro: '25 dec 2025', en: 'Dec 25 2025', de: '25. Dez. 2025',
+      fr: '25 déc 2025', es: '25 dic 2025', it: '25 dic 2025',
     },
   },
   {
@@ -12582,7 +12659,7 @@ Motore Somfy installato a Bucarest da **250 EUR / motore**. Kit TaHoma Switch da
       es: 'somfy-automatizacion-pergola-toldo',
       it: 'somfy-automazione-pergola-tenda',
     },
-    date: '2026-01-15',
+    date: '2026-02-11',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
     image: {
       ro: '/blog/blog-somfy-pergole.avif',
@@ -12735,12 +12812,8 @@ Motore Somfy pergola da **350 EUR installato**. Sensore Sunis io da 80 EUR.
     },
     keywords: 'automatizare pergola Somfy, motor pergola Somfy, Somfy copertine, Pergola RGS io, Sunea io Somfy, automatizare copertina, pergola motoricata Somfy, Somfy Bucuresti pergola, motor copertina retractabila',
     dateDisplay: {
-      ro: '15 ian 2026',
-      en: 'Jan 15 2026',
-      de: '15. Jan. 2026',
-      fr: '15 jan 2026',
-      es: '15 ian 2026',
-      it: '15 ian 2026',
+      ro: '11 feb 2026', en: 'Feb 11 2026', de: '11. Feb. 2026',
+      fr: '11 févr 2026', es: '11 feb 2026', it: '11 feb 2026',
     },
   },
   {
@@ -12752,7 +12825,7 @@ Motore Somfy pergola da **350 EUR installato**. Sensore Sunis io da 80 EUR.
       es: 'somfy-tahoma-hogar-inteligente-bucarest',
       it: 'somfy-tahoma-casa-intelligente-bucarest',
     },
-    date: '2025-12-08',
+    date: '2026-03-13',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
     image: {
       ro: '/blog/blog-somfy-smart-home.avif',
@@ -12933,12 +13006,8 @@ Il kit TaHoma Switch (hub + app) parte da **180 EUR**. Configurazione completa i
     },
     keywords: 'Somfy TaHoma, TaHoma Switch, smart home Somfy Romania, casa inteligenta Somfy, control vocal rulouri, Alexa Somfy, Google Home Somfy, automatizare casa Bucuresti, TaHoma pret Romania',
     dateDisplay: {
-      ro: '8 dec 2025',
-      en: 'Dec 8 2025',
-      de: '8. Dez. 2025',
-      fr: '8 déc 2025',
-      es: '8 dec 2025',
-      it: '8 dec 2025',
+      ro: '13 mar 2026', en: 'Mar 13 2026', de: '13. Mär. 2026',
+      fr: '13 mars 2026', es: '13 mar 2026', it: '13 mar 2026',
     },
   },
 ];
