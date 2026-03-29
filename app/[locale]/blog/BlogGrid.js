@@ -275,7 +275,7 @@ export default function BlogGrid({ articles, locale, read }) {
               <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
             </svg>
             <input
-              type="search"
+              type="text"
               value={searchQuery}
               onChange={e => setSearchQuery(e.target.value)}
               placeholder={placeholder}
