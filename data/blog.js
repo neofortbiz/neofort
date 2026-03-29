@@ -57,7 +57,7 @@ export const ARTICLES = [
       fr: '25 mars 2026', es: '25 mar 2026', it: '25 mar 2026',
     },
     content: {
-      ro: \`## Pergolă bioclimatică vs pergolă clasică — ce diferențe contează cu adevărat?
+      ro: `## Pergolă bioclimatică vs pergolă clasică — ce diferențe contează cu adevărat?
 
 Dacă ai o terasă și vrei să o acoperiți, vei întâlni rapid două categorii mari de pergole: **pergola bioclimatică** (cu lamele din aluminiu orientabile) și **pergola clasică** (cu pânză retractabilă, manual sau automată). Ambele au avantaje clare, dar pentru terase diferite. Ghidul de față îți explică diferențele reale — nu doar tehnice, ci și practice și financiare.
 
@@ -116,8 +116,8 @@ Pergola cu pânză Somfy e alegerea corectă dacă: terasa e acoperită în peri
 
 Nu există un răspuns universal. **Pergola bioclimatică** câștigă la versatilitate și durabilitate totală, dar costă semnificativ mai mult. **Pergola clasică cu pânză Somfy** câștigă la raport calitate-preț, automatizare și flexibilitate. La Neofort BIZ furnizăm și montăm pergole cu pânză automatizate Somfy — motor Pergola 50/60 RGS io, pânze impermeabile UPF 50+, configurare TaHoma inclus.
 
-[Solicită ofertă pergolă automată Somfy](/ro/umbrire/pergole-automate-somfy)\`,
-      en: \`## Bioclimatic vs classic pergola — what differences really matter?
+[Solicită ofertă pergolă automată Somfy](/ro/umbrire/pergole-automate-somfy)`,
+      en: `## Bioclimatic vs classic pergola — what differences really matter?
 
 If you have a terrace and want to cover it, you will quickly encounter two main categories of pergolas: the **bioclimatic pergola** (with orientable aluminium louvres) and the **classic pergola** (with retractable fabric, manual or motorised). Both have clear advantages, but for different terraces.
 
@@ -160,8 +160,8 @@ A classic retractable fabric pergola (including Somfy models with Pergola RGS io
 
 **Bioclimatic pergola** wins on versatility and total durability but costs significantly more. **Classic Somfy fabric pergola** wins on value for money, automation and flexibility. Neofort BIZ supplies and installs Somfy automatic pergolas — Pergola 50/60 RGS io motor, UPF 50+ waterproof fabrics, TaHoma configuration included.
 
-[Request a Somfy automatic pergola quote](/en/shading-systems/somfy-automatic-pergolas)\`,
-      de: \`## Bioklimatische vs klassische Pergola — welche Unterschiede zählen wirklich?
+[Request a Somfy automatic pergola quote](/en/shading-systems/somfy-automatic-pergolas)`,
+      de: `## Bioklimatische vs klassische Pergola — welche Unterschiede zählen wirklich?
 
 Beim Überdachen einer Terrasse begegnen Sie schnell zwei Hauptkategorien: der **bioklimatischen Pergola** (mit verstellbaren Aluminiumlamellen) und der **klassischen Pergola** (mit einziehbarem Markisentuch, manuell oder motorisiert).
 
@@ -199,8 +199,8 @@ Eine klassische Markisenpergola (Somfy Pergola 50/60 RGS io) verwendet wasserdic
 
 Neofort BIZ liefert und installiert Somfy-Automatikpergolen in Bukarest und Ilfov — Motor Pergola RGS io, UV-Schutz UPF 50+, TaHoma-Konfiguration inklusive.
 
-[Somfy Automatikpergola anfragen](/de/beschattungssysteme/somfy-automatische-pergolen)\`,
-      fr: \`## Pergola bioclimatique vs pergola classique — quelles différences comptent vraiment ?
+[Somfy Automatikpergola anfragen](/de/beschattungssysteme/somfy-automatische-pergolen)`,
+      fr: `## Pergola bioclimatique vs pergola classique — quelles différences comptent vraiment ?
 
 Pour couvrir une terrasse, vous rencontrerez rapidement deux catégories : la **pergola bioclimatique** (à lames en aluminium orientables) et la **pergola classique** (à toile rétractable, manuelle ou motorisée).
 
@@ -219,8 +219,8 @@ Pour couvrir une terrasse, vous rencontrerez rapidement deux catégories : la **
 
 Neofort BIZ fournit et installe des pergolas automatiques Somfy à Bucarest et en Ilfov — moteur Pergola RGS io, toile imperméable UPF 50+, configuration TaHoma incluse.
 
-[Demander un devis pergola automatique Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy)\`,
-      es: \`## Pérgola bioclimática vs pérgola clásica — ¿qué diferencias importan realmente?
+[Demander un devis pergola automatique Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy)`,
+      es: `## Pérgola bioclimática vs pérgola clásica — ¿qué diferencias importan realmente?
 
 Para cubrir una terraza encontrará rápidamente dos categorías: la **pérgola bioclimática** (con lamas de aluminio orientables) y la **pérgola clásica** (con tela retráctil, manual o motorizada).
 
@@ -239,8 +239,8 @@ Para cubrir una terraza encontrará rápidamente dos categorías: la **pérgola 
 
 Neofort BIZ suministra e instala pérgolas automáticas Somfy en Bucarest e Ilfov — motor Pergola RGS io, tela impermeable UPF 50+, configuración TaHoma incluida.
 
-[Solicitar presupuesto pérgola automática Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy)\`,
-      it: \`## Pergola bioclimatica vs pergola classica — quali differenze contano davvero?
+[Solicitar presupuesto pérgola automática Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy)`,
+      it: `## Pergola bioclimatica vs pergola classica — quali differenze contano davvero?
 
 Per coprire una terrazza incontrerete rapidamente due categorie: la **pergola bioclimatica** (con lamelle in alluminio orientabili) e la **pergola classica** (con telo retrattile, manuale o motorizzato).
 
@@ -259,7 +259,7 @@ Per coprire una terrazza incontrerete rapidamente due categorie: la **pergola bi
 
 Neofort BIZ fornisce e installa pergole automatiche Somfy a Bucarest e Ilfov — motore Pergola RGS io, telo impermeabile UPF 50+, configurazione TaHoma inclusa.
 
-[Richiedere preventivo pergola automatica Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy)\`,
+[Richiedere preventivo pergola automatica Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy)`,
     },
   },
   {
