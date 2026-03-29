@@ -1,5 +1,6 @@
 import { Link } from '../../../i18n/navigation';
 import { ARTICLES } from '../../../data/blog.js';
+import BlogGrid from './BlogGrid';
 
 const BASE    = 'https://www.neofort-biz.ro';
 const LOCALES = ['ro','en','de','fr','es','it'];
@@ -13,7 +14,6 @@ const META = {
   it: { title:'Blog Serramenti PVC & Alluminio | Neofort BIZ', desc:'Guide tecniche, confronti e consigli su serramenti PVC Salamander, alluminio Alumil, isolamento nZEB e veneziane Raffstore.' },
 };
 
-// Hero text per limbă — optimizat SEO pe tema tâmplărie, ferestre, izolare termică
 const HERO = {
   ro: {
     label: 'Cunoaștere tehnică · Neofort BIZ',
@@ -33,7 +33,7 @@ const HERO = {
   fr: {
     label: 'Expertise technique · Neofort BIZ',
     h1: 'Guides techniques sur les menuiseries PVC & aluminium',
-    sub: 'Comparatifs de profils, conseils de pose, normes nZEB et tout ce qu\'il faut savoir avant de choisir vos fenêtres ou portes.',
+    sub: "Comparatifs de profils, conseils de pose, normes nZEB et tout ce qu'il faut savoir avant de choisir vos fenêtres ou portes.",
   },
   es: {
     label: 'Conocimiento técnico · Neofort BIZ',
@@ -79,6 +79,7 @@ export default async function BlogPage({ params }) {
   // Sortare FIFO descrescător — cel mai nou articol primul
   const articles = [...ARTICLES].sort((a, b) => new Date(b.date) - new Date(a.date));
 
+  // Schema JSON-LD — TOATE articolele indexate (filtrele sunt client-side, nu afecteaza SEO)
   const schema = {
     "@context":"https://schema.org","@type":"Blog",
     "name": META[locale]?.title || META.ro.title,
@@ -100,40 +101,14 @@ export default async function BlogPage({ params }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
 
-      <style>{`
-        .blog-grid {
-          display: grid;
-          grid-template-columns: repeat(3, 1fr);
-          gap: 24px;
-          background: #fff;
-          margin-top: 56px;
-        }
-        .blog-card {
-          background: #fff;
-          text-decoration: none;
-          display: flex;
-          flex-direction: column;
-          border: 1px solid #efefed;
-          transition: border-color .18s, box-shadow .18s;
-        }
-        .blog-card:hover { border-color: #d8d8d4; box-shadow: 0 4px 20px rgba(0,0,0,.05); }
-        @media (max-width: 860px) {
-          .blog-grid { grid-template-columns: 1fr 1fr; margin-top: 40px; }
-        }
-        @media (max-width: 520px) {
-          .blog-grid { grid-template-columns: 1fr; }
-        }
-      `}</style>
-
-      {/* ── HERO EDITORIAL ── */}
+      {/* ── HERO EDITORIAL — Server Component, SEO maxim ── */}
       <div style={{
         position:'relative',
         background:'linear-gradient(135deg, #111a13 0%, #1a2e1e 50%, #0f1a11 100%)',
         overflow:'hidden',
-        minHeight:'340px',
+        minHeight:'300px',
         display:'flex', flexDirection:'column', justifyContent:'flex-end',
       }}>
-        {/* Imagine de fundal */}
         <img
           src="/blog-hero.avif"
           alt={hero.h1}
@@ -141,84 +116,38 @@ export default async function BlogPage({ params }) {
           decoding="async"
           style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:0.18,display:'block'}}
         />
-        {/* Grilă decorativă subtilă */}
         <div style={{position:'absolute',inset:0,
           backgroundImage:'linear-gradient(rgba(74,124,89,.06) 1px, transparent 1px), linear-gradient(90deg, rgba(74,124,89,.06) 1px, transparent 1px)',
           backgroundSize:'60px 60px',
         }}/>
-        {/* Accent line stânga */}
         <div style={{position:'absolute',left:0,top:0,bottom:0,width:'3px',background:'#4a7c59'}}/>
-        {/* Conținut */}
-        <div style={{position:'relative',zIndex:2,padding:'56px 0 48px'}}>
+        <div style={{position:'relative',zIndex:2,padding:'48px 0 40px'}}>
           <div className="container" style={{maxWidth:'1100px'}}>
             <span style={{
               fontFamily:'Barlow Condensed,sans-serif', fontWeight:400,
               fontSize:'.58rem', letterSpacing:'.22em', textTransform:'uppercase',
-              color:'#4a7c59', display:'block', marginBottom:'16px',
+              color:'#4a7c59', display:'block', marginBottom:'14px',
             }}>{hero.label}</span>
             <h1 style={{
               fontFamily:'Barlow Condensed,sans-serif', fontWeight:600,
-              fontSize:'clamp(1.6rem,4vw,2.6rem)',
+              fontSize:'clamp(1.5rem,4vw,2.4rem)',
               color:'#fff', lineHeight:1.15, letterSpacing:'.01em',
-              maxWidth:'700px', margin:'0 0 16px',
+              maxWidth:'700px', margin:'0 0 14px',
             }}>{hero.h1}</h1>
             <p style={{
-              fontSize:'.88rem', color:'rgba(255,255,255,.5)',
-              lineHeight:1.7, maxWidth:'580px', margin:0,
+              fontSize:'.86rem', color:'rgba(255,255,255,.5)',
+              lineHeight:1.7, maxWidth:'560px', margin:0,
             }}>{hero.sub}</p>
           </div>
         </div>
       </div>
 
-      {/* ── GRID ARTICOLE — toate egale, FIFO descrescător ── */}
-      <div style={{background:'#fff', padding:'0 0 80px'}}>
-        <div className="container" style={{maxWidth:'1100px'}}>
-          <div className="blog-grid">
-            {articles.map(a => {
-              const title   = a.title[locale]    || a.title.ro;
-              const excerpt = a.excerpt[locale]  || a.excerpt.ro;
-              const cat     = a.category[locale] || a.category.ro;
-              const date    = a.dateDisplay[locale] || a.dateDisplay.ro;
-              const rt      = a.readTime[locale] || a.readTime.ro;
-              const slug    = a.slugs?.[locale]  || a.slugs?.ro;
-              const img     = a.image?.[locale]  || a.image?.ro;
-
-              return (
-                <Link key={a.slugs.ro} href={`/blog/${slug}`} className="blog-card">
-                  {/* Imagine sau gradient */}
-                  {img ? (
-                    <div style={{width:'100%',aspectRatio:'1/1',overflow:'hidden',background:a.imageBg||'#1a1a1a',flexShrink:0}}>
-                      <img src={img} alt={title}
-                        style={{width:'100%',height:'100%',objectFit:'cover',display:'block'}}/>
-                    </div>
-                  ) : (
-                    <div style={{width:'100%',aspectRatio:'1/1',background:a.imageBg||'#1a1a1a',display:'flex',alignItems:'center',justifyContent:'center',flexShrink:0}}>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'2.2rem',fontWeight:300,color:'rgba(255,255,255,.12)',letterSpacing:'.1em'}}>{a.imageLabel}</span>
-                    </div>
-                  )}
-
-                  {/* Corp card */}
-                  <div style={{padding:'20px 22px 24px',flex:1,display:'flex',flexDirection:'column'}}>
-                    {/* Meta */}
-                    <div style={{display:'flex',alignItems:'center',gap:'8px',marginBottom:'10px',flexWrap:'wrap'}}>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.54rem',letterSpacing:'.18em',textTransform:'uppercase',color:a.accentColor||'#4a7c59'}}>{cat}</span>
-                      <span style={{color:'#e0e0e0',fontSize:'.4rem'}}>◆</span>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.06em',color:'#bbb'}}>{date}</span>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.56rem',letterSpacing:'.06em',color:'#ccc',marginLeft:'auto'}}>{rt}</span>
-                    </div>
-                    {/* Titlu */}
-                    <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1rem',color:'#1a1a1a',lineHeight:1.25,letterSpacing:'.01em',margin:'0 0 10px'}}>{title}</h2>
-                    {/* Excerpt */}
-                    <p style={{fontSize:'.78rem',color:'#999',lineHeight:1.65,margin:'0 0 16px',flex:1}}>{excerpt.slice(0,110)}…</p>
-                    {/* CTA */}
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.56rem',letterSpacing:'.14em',textTransform:'uppercase',color:a.accentColor||'#4a7c59'}}>{read}</span>
-                  </div>
-                </Link>
-              );
-            })}
-          </div>
-        </div>
-      </div>
+      {/* ── FILTRE + GRID — Client Component ── */}
+      {/* 
+        IMPORTANT SEO: Toate articolele sunt in schema JSON-LD de mai sus (server-side).
+        Client Component-ul filtreaza doar vizual — crawlerele vad tot continutul.
+      */}
+      <BlogGrid articles={articles} locale={locale} read={read} />
     </>
   );
 }
