@@ -5,6 +5,265 @@
 export const ARTICLES = [
   {
     slugs: {
+      ro: 'pergola-bioclimatica-vs-clasica-ghid-alegere',
+      en: 'bioclimatic-vs-classic-pergola-guide',
+      de: 'bioklimatische-vs-klassische-pergola-ratgeber',
+      fr: 'pergola-bioclimatique-vs-classique-guide',
+      es: 'pergola-bioclimatica-vs-clasica-guia',
+      it: 'pergola-bioclimatica-vs-classica-guida',
+    },
+    date: '2026-03-25',
+    author: 'Neofort BIZ',
+    accentColor: '#d4001a',
+    image: {
+      ro: '/blog/blog-pergola-bioclimatica-vs-clasica.avif',
+      en: '/blog/blog-pergola-bioclimatica-vs-clasica.avif',
+      de: '/blog/blog-pergola-bioclimatica-vs-clasica.avif',
+      fr: '/blog/blog-pergola-bioclimatica-vs-clasica.avif',
+      es: '/blog/blog-pergola-bioclimatica-vs-clasica.avif',
+      it: '/blog/blog-pergola-bioclimatica-vs-clasica.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1a0a0a 0%,#2e1010 60%,#1a0a0a 100%)',
+    imageLabel: 'Pergolă Bioclimatică vs Clasică',
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    category: { ro:'Sisteme Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:"Systèmes d'occultation", es:'Sistemas de sombreado', it:'Sistemi di oscuramento' },
+    title: {
+      ro: 'Pergolă Bioclimatică vs Pergolă Clasică — Ghid Complet Alegere 2026',
+      en: 'Bioclimatic vs Classic Pergola — Complete Buying Guide 2026',
+      de: 'Bioklimatische vs klassische Pergola — Vollständiger Kaufratgeber 2026',
+      fr: 'Pergola Bioclimatique vs Pergola Classique — Guide Complet 2026',
+      es: 'Pérgola Bioclimática vs Pérgola Clásica — Guía Completa 2026',
+      it: 'Pergola Bioclimatica vs Pergola Classica — Guida Completa 2026',
+    },
+    metaDesc: {
+      ro: 'Pergolă bioclimatică sau pergolă clasică cu pânză? Comparație completă: prețuri, avantaje, lamelă vs pânză, automatizare Somfy, care se potrivește terasei tale în 2026.',
+      en: 'Bioclimatic or classic fabric pergola? Complete comparison: prices, advantages, louvre vs fabric, Somfy automation, which suits your terrace in 2026.',
+      de: 'Bioklimatische oder klassische Markisenpergola? Vollständiger Vergleich: Preise, Vorteile, Lamelle vs Tuch, Somfy Automatisierung, welche für Ihre Terrasse passt.',
+      fr: "Pergola bioclimatique ou pergola classique à toile ? Comparaison complète : prix, avantages, lame vs toile, automatisation Somfy, laquelle convient à votre terrasse.",
+      es: '¿Pérgola bioclimática o pérgola clásica con tela? Comparación completa: precios, ventajas, lama vs tela, automatización Somfy, cuál se adapta a su terraza en 2026.',
+      it: 'Pergola bioclimatica o pergola classica con telo? Confronto completo: prezzi, vantaggi, lamella vs telo, automazione Somfy, quale si adatta alla tua terrazza nel 2026.',
+    },
+    excerpt: {
+      ro: 'Pergola bioclimatică cu lamele orientabile sau pergola clasică cu pânză retractabilă? Ghid complet de alegere cu comparație de prețuri, materiale și performanțe pentru terasa ta în 2026.',
+      en: 'Bioclimatic pergola with orientable louvres or classic retractable fabric pergola? Complete buying guide with price, material and performance comparison for your terrace in 2026.',
+      de: 'Bioklimatische Pergola mit verstellbaren Lamellen oder klassische Markisenpergola? Vollständiger Kaufratgeber mit Preis-, Material- und Leistungsvergleich für Ihre Terrasse 2026.',
+      fr: "Pergola bioclimatique à lames orientables ou pergola classique à toile rétractable ? Guide complet avec comparaison de prix, matériaux et performances pour votre terrasse 2026.",
+      es: '¿Pérgola bioclimática con lamas orientables o pérgola clásica con tela retráctil? Guía de compra completa con comparación de precios, materiales y rendimiento para su terraza 2026.',
+      it: 'Pergola bioclimatica con lamelle orientabili o pergola classica con telo retrattile? Guida completa con confronto prezzi, materiali e prestazioni per la tua terrazza nel 2026.',
+    },
+    keywords: 'pergola bioclimatica, pergola clasica, pergola retractabila, pergola lamele, pergola panza, pergola pret, pergola terasa, pergola Somfy, pergola automatizata, pergola aluminiu, pergola Bucuresti',
+    dateDisplay: {
+      ro: '25 mar 2026', en: 'Mar 25 2026', de: '25. Mär. 2026',
+      fr: '25 mars 2026', es: '25 mar 2026', it: '25 mar 2026',
+    },
+    content: {
+      ro: \`## Pergolă bioclimatică vs pergolă clasică — ce diferențe contează cu adevărat?
+
+Dacă ai o terasă și vrei să o acoperiți, vei întâlni rapid două categorii mari de pergole: **pergola bioclimatică** (cu lamele din aluminiu orientabile) și **pergola clasică** (cu pânză retractabilă, manual sau automată). Ambele au avantaje clare, dar pentru terase diferite. Ghidul de față îți explică diferențele reale — nu doar tehnice, ci și practice și financiare.
+
+## Ce este pergola bioclimatică?
+
+Pergola bioclimatică are un acoperiș format din lamele din aluminiu extrudat care se pot roti între 0° și 120°. Când sunt închise, lamelele formează un acoperiș etanș care evacuează apa de ploaie prin profile. Când sunt deschise, ventilează spațiul de dedesubt. Structura este permanentă, din aluminiu anodizat sau vopsit în câmp electrostatic.
+
+**Avantaje pergolă bioclimatică:**
+- Acoperiș permanent — nu depinde de vreme pentru a fi utilizabil
+- Evacuare apă integrată în profile — funcționează în ploaie fără pânză
+- Reglaj luminos fin prin orientarea lamelelor
+- Durabilitate superioară — structură rigidă, fără pânză care se uzează
+- Posibilitate de integrare panouri laterale, sisteme de iluminat și încălzire infraroșu
+
+**Dezavantaje pergolă bioclimatică:**
+- Preț semnificativ mai ridicat față de pergola clasică (2–4× mai scumpă)
+- Instalare mai complexă — necesită fundații sau ancore solide
+- Greutate mai mare — nu se potrivește tuturor structurilor existente
+
+## Ce este pergola clasică cu pânză retractabilă?
+
+Pergola clasică cu pânză retractabilă (inclusiv modelele Somfy cu motor Pergola RGS io) folosește o pânză impermeabilă întinsă pe o structură din aluminiu, care se poate retrage manual sau electric. Pânza acoperă terasa când e nevoie și dispare când vrei lumină naturală.
+
+**Avantaje pergolă clasică cu pânză:**
+- Preț accesibil față de pergola bioclimatică
+- Greutate redusă — se montează și pe structuri mai ușoare
+- Automatizare facilă cu motoare Somfy (Pergola 50/60 RGS io)
+- Protecție solară excelentă — pânze UPF 50+
+- Retragere completă — terasa rămâne complet deschisă când pânza e retrasă
+
+**Dezavantaje pergolă clasică cu pânză:**
+- Nu funcționează în ploaie puternică — pânza trebuie retrasă
+- Pânza se uzează în timp (durata de viață medie: 8–12 ani)
+- Mai puțin spectaculoasă vizual față de bioclimatică
+
+## Comparație directă prețuri 2026
+
+| Criteriu | Bioclimatică | Clasică cu pânză Somfy |
+|---|---|---|
+| Preț montaj (4×3 m) | 8.000–18.000 EUR | 2.500–5.000 EUR |
+| Durabilitate structură | 20–30 ani | 20–30 ani |
+| Durabilitate pânză | — | 8–12 ani |
+| Funcționare în ploaie | ✅ Da | ❌ Nu |
+| Automatizare | Opțional | ✅ Somfy RGS io |
+| Smart Home | Opțional | ✅ TaHoma Switch |
+
+## Când alegi pergola bioclimatică?
+
+Pergola bioclimatică e potrivită dacă: terasa e utilizată tot sezonul (și când plouă), bugetul permite o investiție premium, vrei o soluție permanentă fără piese consumabile și dacă structura pe care o montezi suportă greutatea.
+
+## Când alegi pergola clasică cu pânză Somfy?
+
+Pergola cu pânză Somfy e alegerea corectă dacă: terasa e acoperită în perioadele de soare intens, bugetul e mediu, vrei automatizare completă cu protecție la vânt (retragere automată la > 50 km/h) și integrare smart home cu TaHoma Switch, Alexa sau Google Home.
+
+## Concluzie
+
+Nu există un răspuns universal. **Pergola bioclimatică** câștigă la versatilitate și durabilitate totală, dar costă semnificativ mai mult. **Pergola clasică cu pânză Somfy** câștigă la raport calitate-preț, automatizare și flexibilitate. La Neofort BIZ furnizăm și montăm pergole cu pânză automatizate Somfy — motor Pergola 50/60 RGS io, pânze impermeabile UPF 50+, configurare TaHoma inclus.
+
+[Solicită ofertă pergolă automată Somfy](/ro/umbrire/pergole-automate-somfy)\`,
+      en: \`## Bioclimatic vs classic pergola — what differences really matter?
+
+If you have a terrace and want to cover it, you will quickly encounter two main categories of pergolas: the **bioclimatic pergola** (with orientable aluminium louvres) and the **classic pergola** (with retractable fabric, manual or motorised). Both have clear advantages, but for different terraces.
+
+## What is a bioclimatic pergola?
+
+A bioclimatic pergola has a roof made of extruded aluminium louvres that can rotate between 0° and 120°. When closed, the louvres form a watertight roof that channels rainwater through the profiles. When open, they ventilate the space below. The structure is permanent, in anodised or powder-coated aluminium.
+
+**Bioclimatic pergola advantages:**
+- Permanent roof — not weather-dependent for use
+- Integrated water drainage — works in rain without fabric
+- Fine light adjustment through louvre orientation
+- Superior durability — rigid structure, no fabric wearing out
+
+**Bioclimatic pergola disadvantages:**
+- Significantly higher price than classic pergola (2–4× more expensive)
+- More complex installation — requires solid foundations or anchors
+
+## What is a classic retractable fabric pergola?
+
+A classic retractable fabric pergola (including Somfy models with Pergola RGS io motor) uses waterproof fabric stretched over an aluminium structure, which can be retracted manually or electrically.
+
+**Classic fabric pergola advantages:**
+- Accessible price compared to bioclimatic pergola
+- Easy automation with Somfy motors (Pergola 50/60 RGS io)
+- Excellent solar protection — UPF 50+ fabrics
+- Complete retraction — terrace fully open when fabric is retracted
+
+## Price comparison 2026
+
+| Criterion | Bioclimatic | Classic with Somfy fabric |
+|---|---|---|
+| Installation price (4×3 m) | 8,000–18,000 EUR | 2,500–5,000 EUR |
+| Structure durability | 20–30 years | 20–30 years |
+| Fabric durability | — | 8–12 years |
+| Works in rain | ✅ Yes | ❌ No |
+| Automation | Optional | ✅ Somfy RGS io |
+| Smart Home | Optional | ✅ TaHoma Switch |
+
+## Conclusion
+
+**Bioclimatic pergola** wins on versatility and total durability but costs significantly more. **Classic Somfy fabric pergola** wins on value for money, automation and flexibility. Neofort BIZ supplies and installs Somfy automatic pergolas — Pergola 50/60 RGS io motor, UPF 50+ waterproof fabrics, TaHoma configuration included.
+
+[Request a Somfy automatic pergola quote](/en/shading-systems/somfy-automatic-pergolas)\`,
+      de: \`## Bioklimatische vs klassische Pergola — welche Unterschiede zählen wirklich?
+
+Beim Überdachen einer Terrasse begegnen Sie schnell zwei Hauptkategorien: der **bioklimatischen Pergola** (mit verstellbaren Aluminiumlamellen) und der **klassischen Pergola** (mit einziehbarem Markisentuch, manuell oder motorisiert).
+
+## Was ist eine bioklimatische Pergola?
+
+Eine bioklimatische Pergola hat ein Dach aus Aluminiumlamellen, die sich zwischen 0° und 120° drehen lassen. Geschlossen bilden sie ein wasserdichtes Dach; offen belüften sie den Raum darunter.
+
+**Vorteile bioklimatische Pergola:**
+- Permanentes Dach — nutzbar bei jedem Wetter
+- Integrierte Wasserableitung — funktioniert im Regen
+- Überlegene Langlebigkeit — keine verschleißenden Tücher
+
+**Nachteile bioklimatische Pergola:**
+- Deutlich höherer Preis (2–4× teurer als klassische Pergola)
+- Komplexere Installation mit stabilen Fundamenten
+
+## Was ist eine klassische Pergola mit Somfy Motor?
+
+Eine klassische Markisenpergola (Somfy Pergola 50/60 RGS io) verwendet wasserdichtes Tuch auf einer Aluminiumstruktur, das manuell oder elektrisch eingezogen wird.
+
+**Vorteile klassische Pergola:**
+- Günstiger Preis im Vergleich zur bioklimatischen Pergola
+- Einfache Automatisierung mit Somfy-Motoren
+- Automatisches Einfahren bei Wind > 50 km/h
+- TaHoma Smart Home Integration
+
+## Preisvergleich 2026
+
+| Kriterium | Bioklimatisch | Klassisch Somfy |
+|---|---|---|
+| Montagepreis (4×3 m) | 8.000–18.000 EUR | 2.500–5.000 EUR |
+| Nutzbar im Regen | ✅ Ja | ❌ Nein |
+| Automatisierung | Optional | ✅ Somfy RGS io |
+| Smart Home | Optional | ✅ TaHoma Switch |
+
+Neofort BIZ liefert und installiert Somfy-Automatikpergolen in Bukarest und Ilfov — Motor Pergola RGS io, UV-Schutz UPF 50+, TaHoma-Konfiguration inklusive.
+
+[Somfy Automatikpergola anfragen](/de/beschattungssysteme/somfy-automatische-pergolen)\`,
+      fr: \`## Pergola bioclimatique vs pergola classique — quelles différences comptent vraiment ?
+
+Pour couvrir une terrasse, vous rencontrerez rapidement deux catégories : la **pergola bioclimatique** (à lames en aluminium orientables) et la **pergola classique** (à toile rétractable, manuelle ou motorisée).
+
+## Comparaison directe des prix 2026
+
+| Critère | Bioclimatique | Classique toile Somfy |
+|---|---|---|
+| Prix installation (4×3 m) | 8.000–18.000 EUR | 2.500–5.000 EUR |
+| Fonctionne sous la pluie | ✅ Oui | ❌ Non |
+| Automatisation | En option | ✅ Somfy RGS io |
+| Maison connectée | En option | ✅ TaHoma Switch |
+
+**Avantages pergola bioclimatique :** toit permanent, évacuation eau intégrée, durabilité supérieure, pas de toile à remplacer.
+
+**Avantages pergola classique Somfy :** prix accessible, automatisation complète (retrait automatique vent > 50 km/h), intégration TaHoma, Alexa et Google Home.
+
+Neofort BIZ fournit et installe des pergolas automatiques Somfy à Bucarest et en Ilfov — moteur Pergola RGS io, toile imperméable UPF 50+, configuration TaHoma incluse.
+
+[Demander un devis pergola automatique Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy)\`,
+      es: \`## Pérgola bioclimática vs pérgola clásica — ¿qué diferencias importan realmente?
+
+Para cubrir una terraza encontrará rápidamente dos categorías: la **pérgola bioclimática** (con lamas de aluminio orientables) y la **pérgola clásica** (con tela retráctil, manual o motorizada).
+
+## Comparación directa de precios 2026
+
+| Criterio | Bioclimática | Clásica tela Somfy |
+|---|---|---|
+| Precio instalación (4×3 m) | 8.000–18.000 EUR | 2.500–5.000 EUR |
+| Funciona bajo lluvia | ✅ Sí | ❌ No |
+| Automatización | Opcional | ✅ Somfy RGS io |
+| Smart Home | Opcional | ✅ TaHoma Switch |
+
+**Ventajas pérgola bioclimática:** cubierta permanente, evacuación agua integrada, durabilidad superior.
+
+**Ventajas pérgola clásica Somfy:** precio accesible, automatización completa (retracción automática viento > 50 km/h), integración TaHoma, Alexa y Google Home.
+
+Neofort BIZ suministra e instala pérgolas automáticas Somfy en Bucarest e Ilfov — motor Pergola RGS io, tela impermeable UPF 50+, configuración TaHoma incluida.
+
+[Solicitar presupuesto pérgola automática Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy)\`,
+      it: \`## Pergola bioclimatica vs pergola classica — quali differenze contano davvero?
+
+Per coprire una terrazza incontrerete rapidamente due categorie: la **pergola bioclimatica** (con lamelle in alluminio orientabili) e la **pergola classica** (con telo retrattile, manuale o motorizzato).
+
+## Confronto diretto dei prezzi 2026
+
+| Criterio | Bioclimatica | Classica telo Somfy |
+|---|---|---|
+| Prezzo installazione (4×3 m) | 8.000–18.000 EUR | 2.500–5.000 EUR |
+| Funziona sotto la pioggia | ✅ Sì | ❌ No |
+| Automazione | Opzionale | ✅ Somfy RGS io |
+| Smart Home | Opzionale | ✅ TaHoma Switch |
+
+**Vantaggi pergola bioclimatica:** tetto permanente, scarico acqua integrato, durabilità superiore.
+
+**Vantaggi pergola classica Somfy:** prezzo accessibile, automazione completa (ritiro automatico vento > 50 km/h), integrazione TaHoma, Alexa e Google Home.
+
+Neofort BIZ fornisce e installa pergole automatiche Somfy a Bucarest e Ilfov — motore Pergola RGS io, telo impermeabile UPF 50+, configurazione TaHoma inclusa.
+
+[Richiedere preventivo pergola automatica Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy)\`,
+    },
+  },
+  {
+    slugs: {
       ro: 'bluevolution-92-vs-greenevolution-76',
       en: 'bluevolution-92-vs-greenevolution-76-guide',
       de: 'bluevolution-92-vs-greenevolution-76-leitfaden',

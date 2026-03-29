@@ -475,7 +475,15 @@ export const routing = defineRouting({
       fr: '/systemes-occultation/zipscreen-store-exterieur',
       es: '/sistemas-sombreado/zipscreen-toldo-exterior',
       it: '/sistemi-oscuramento/zipscreen-tenda-esterna',
+    },    '/umbrire/pergole-automate-somfy': {
+      ro: '/umbrire/pergole-automate-somfy',
+      en: '/shading-systems/somfy-automatic-pergolas',
+      de: '/beschattungssysteme/somfy-automatische-pergolen',
+      fr: '/systemes-occultation/pergolas-automatiques-somfy',
+      es: '/sistemas-sombreado/pergolas-automaticas-somfy',
+      it: '/sistemi-oscuramento/pergole-automatiche-somfy',
     },
+
     '/sisteme-nzeb/precadre-blaugelb-triotherm': {
       ro: '/sisteme-nzeb/precadre-blaugelb-triotherm-plus',
       en: '/nzeb-systems/blaugelb-triotherm-plus-precasings',
@@ -621,7 +629,15 @@ export const routing = defineRouting({
       fr: '/blog/somfy-tahoma-maison-connectee-bucarest',
       es: '/blog/somfy-tahoma-hogar-inteligente-bucarest',
       it: '/blog/somfy-tahoma-casa-intelligente-bucarest',
+    },    '/blog/pergola-bioclimatica-vs-clasica-ghid-alegere': {
+      ro: '/blog/pergola-bioclimatica-vs-clasica-ghid-alegere',
+      en: '/blog/bioclimatic-vs-classic-pergola-guide',
+      de: '/blog/bioklimatische-vs-klassische-pergola-ratgeber',
+      fr: '/blog/pergola-bioclimatique-vs-classique-guide',
+      es: '/blog/pergola-bioclimatica-vs-clasica-guia',
+      it: '/blog/pergola-bioclimatica-vs-classica-guida',
     },
+
 
   // PILLAR PAGES
   }
