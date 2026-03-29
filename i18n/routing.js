@@ -639,6 +639,14 @@ export const routing = defineRouting({
     },
 
 
+    '/blog/sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu': {
+      ro: '/blog/sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu',
+      en: '/blog/complete-nzeb-system-salamander-bluevolution-92-blaugelb-precasing-triple-glazing',
+      de: '/blog/komplettes-nzeb-system-salamander-bluevolution-92-blaugelb-vorfenster-dreifachverglasung',
+      fr: '/blog/systeme-nzeb-complet-salamander-bluevolution-92-precadres-blaugelb-triple-vitrage',
+      es: '/blog/sistema-nzeb-completo-salamander-bluevolution-92-premarcos-blaugelb-triple-acristalamiento',
+      it: '/blog/sistema-nzeb-completo-salamander-bluevolution-92-precontrotelaio-blaugelb-triplo-vetro',
+    },
   // PILLAR PAGES
   }
 });
