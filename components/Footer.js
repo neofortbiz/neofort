@@ -235,15 +235,6 @@ export default function Footer() {
       <div style={{ background:'#111', borderTop:'1px solid #222', padding:'10px 0 0' }}>
         <div className="footer-inner">
 
-          {/* Header formular */}
-          <div style={{ textAlign:'center', marginBottom:'8px' }}>
-            <span style={microLabelStyle}>{ft.title_label}</span>
-            <h2 style={{ fontFamily:FF.cond, fontWeight:FW.medium, fontSize:FS.lg, color:CL.white, lineHeight:1.35, textAlign:'center' }}>
-              {ft.title_h2.split('\n')[0]}<br/>
-              {ft.title_h2.split('\n')[1]}
-            </h2>
-          </div>
-
           {status === 'success' ? (
             <div style={{ border:'1px solid #2a2a2a', padding:'64px 32px', textAlign:'center' }}>
               <div style={{ fontFamily:FF.cond, fontSize:FS.lg, letterSpacing:'.2em', textTransform:'uppercase', color:CL.white, marginBottom:'12px' }}>
