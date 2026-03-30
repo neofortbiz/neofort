@@ -87,12 +87,12 @@ export default function Footer() {
   const sch = SCHEDULE[locale] || SCHEDULE.ro;
 
   const COL_TEXTS = {
-    ro: { products:'Produse', info:'Info', brand:'Tâmplărie PVC · Aluminiu', schedule:'Program de Lucru', maps:'Vezi pe Google Maps', address:'Str. Theodor Aman Pictor nr.11, Sector 1, București 010776', gdpr:'Politica GDPR', cookies:'Politica Cookies', servicii:'Servicii', despre:'Despre', blog:'Blog', pvc:'Tâmplărie PVC Salamander', aluminiu:'Tâmplărie Aluminiu Alumil', accesorii:'Accesorii pentru Tâmplărie', guides_title:'Ghiduri & Prețuri', ghid_pvc:'Ghid Complet Tâmplărie PVC', ghid_aluminiu:'Ghid Complet Tâmplărie Aluminiu', ghid_umbrire:'Ghid Sisteme Umbrire', ghid_nzeb:'Ghid Sisteme nZEB', preturi_umbrire:'Prețuri Sisteme Umbrire', brand_desc:'Furnizăm tâmplărie PVC Salamander și aluminiu Alumil cu geam termopan certificat nZEB. Precadre Blaugelb Triotherm+, jaluzele Raffstore, rulouri aluminiu. Montaj profesional și livrare în toată Europa.', legal:'NEOFORT BIZ SRL · CUI RO30324211 · Reg. Com. J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Recenzii Google' },
-    en: { products:'Products', info:'Info', brand:'PVC · Aluminium Windows', schedule:'Opening Hours', maps:'View on Google Maps', address:'11 Theodor Aman Pictor St., Sector 1, Bucharest 010776', gdpr:'GDPR Policy', cookies:'Cookie Policy', servicii:'Services', despre:'About', blog:'Blog', pvc:'PVC Salamander Windows', aluminiu:'Aluminium Alumil Windows', accesorii:'Window Accessories', guides_title:'Guides & Prices', ghid_pvc:'Complete PVC Windows Guide', ghid_aluminiu:'Complete Aluminium Guide', ghid_umbrire:'Shading Systems Guide', ghid_nzeb:'nZEB Systems Guide', preturi_umbrire:'Shading System Prices', brand_desc:'We supply Salamander PVC and Alumil aluminium windows with nZEB-certified thermal glass. Blaugelb Triotherm+ precasings, Raffstore blinds, aluminium shutters. Professional installation and EU delivery.', legal:'NEOFORT BIZ SRL · VAT RO30324211 · Reg. J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Google Reviews' },
-    de: { products:'Produkte', info:'Info', brand:'Kunststoff- · Aluminiumfenster', schedule:'Öffnungszeiten', maps:'Auf Google Maps anzeigen', address:'Str. Theodor Aman Pictor Nr. 11, Sektor 1, Bukarest 010776', gdpr:'Datenschutzrichtlinie', cookies:'Cookie-Richtlinie', servicii:'Dienstleistungen', despre:'Über uns', blog:'Blog', pvc:'Kunststofffenster Salamander', aluminiu:'Aluminiumfenster Alumil', accesorii:'Fensterzubehör', guides_title:'Ratgeber & Preise', ghid_pvc:'Kompletter PVC-Fenster-Ratgeber', ghid_aluminiu:'Kompletter Aluminiumfenster-Ratgeber', ghid_umbrire:'Beschattungssysteme Ratgeber', ghid_nzeb:'nZEB-Systeme Ratgeber', preturi_umbrire:'Beschattungspreise', brand_desc:'Wir liefern Salamander Kunststoff- und Alumil Aluminiumfenster mit nZEB-zertifiziertem Isolierglas. Blaugelb Triotherm+ Vorfenster, Raffstore Jalousien, Aluminiumrollläden. Professionelle Montage und EU-Lieferung.', legal:'NEOFORT BIZ SRL · USt-ID RO30324211 · HR-Nr. J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Google-Bewertungen' },
-    fr: { products:'Produits', info:'Info', brand:'Menuiserie PVC · Aluminium', schedule:"Horaires d'ouverture", maps:'Voir sur Google Maps', address:'11 rue Theodor Aman Pictor, Secteur 1, Bucarest 010776', gdpr:'Politique RGPD', cookies:'Politique de cookies', servicii:'Services', despre:'À propos', blog:'Blog', pvc:'Menuiserie PVC Salamander', aluminiu:'Menuiserie Aluminium Alumil', accesorii:'Accessoires menuiserie', guides_title:'Guides & Prix', ghid_pvc:'Guide complet menuiserie PVC', ghid_aluminiu:'Guide complet menuiserie aluminium', ghid_umbrire:"Guide systèmes d'occultation", ghid_nzeb:'Guide systèmes nZEB', preturi_umbrire:"Prix systèmes d'occultation", brand_desc:'Nous fournissons des menuiseries PVC Salamander et aluminium Alumil avec vitrage isolant certifié nZEB. Précadres Blaugelb Triotherm+, stores Raffstore, volets roulants aluminium. Pose professionnelle et livraison en Europe.', legal:'NEOFORT BIZ SRL · TVA RO30324211 · RC J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Avis Google' },
-    es: { products:'Productos', info:'Info', brand:'Carpintería PVC · Aluminio', schedule:'Horario de atención', maps:'Ver en Google Maps', address:'C/ Theodor Aman Pictor 11, Sector 1, Bucarest 010776', gdpr:'Política GDPR', cookies:'Política de cookies', servicii:'Servicios', despre:'Sobre nosotros', blog:'Blog', pvc:'Carpintería PVC Salamander', aluminiu:'Carpintería Aluminio Alumil', accesorii:'Accesorios carpintería', guides_title:'Guías & Precios', ghid_pvc:'Guía completa carpintería PVC', ghid_aluminiu:'Guía completa carpintería aluminio', ghid_umbrire:'Guía sistemas de sombreado', ghid_nzeb:'Guía sistemas nZEB', preturi_umbrire:'Precios sistemas sombreado', brand_desc:'Suministramos carpintería PVC Salamander y aluminio Alumil con vidrio aislante certificado nZEB. Premarcos Blaugelb Triotherm+, persianas Raffstore, cierres enrollables aluminio. Instalación profesional y entrega en Europa.', legal:'NEOFORT BIZ SRL · CIF RO30324211 · Reg. J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Reseñas Google' },
-    it: { products:'Prodotti', info:'Info', brand:'Infissi PVC · Alluminio', schedule:'Orari di apertura', maps:'Vedi su Google Maps', address:'Via Theodor Aman Pictor 11, Settore 1, Bucarest 010776', gdpr:'Politica GDPR', cookies:'Politica cookie', servicii:'Servizi', despre:'Chi siamo', blog:'Blog', pvc:'Infissi in PVC Salamander', aluminiu:'Infissi in Alluminio Alumil', accesorii:'Accessori infissi', guides_title:'Guide & Prezzi', ghid_pvc:'Guida completa infissi PVC', ghid_aluminiu:'Guida completa infissi alluminio', ghid_umbrire:'Guida sistemi oscuramento', ghid_nzeb:'Guida sistemi nZEB', preturi_umbrire:'Prezzi sistemi oscuramento', brand_desc:'Forniamo infissi PVC Salamander e alluminio Alumil con vetro termoisolante certificato nZEB. Precontrotelaio Blaugelb Triotherm+, veneziane Raffstore, tapparelle in alluminio. Installazione professionale e consegna in Europa.', legal:'NEOFORT BIZ SRL · P.IVA RO30324211 · Reg. J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Recensioni Google' },
+    ro: { products:'Produse', info:'Info', brand:'Tâmplărie PVC · Aluminiu', date_companie:'Date Firmă', umbrire:'Sisteme de Umbrire', nzeb:'Sisteme nZEB', schedule:'Program de Lucru', maps:'Vezi pe Google Maps', address:'Str. Theodor Aman Pictor nr.11, Sector 1, București 010776', gdpr:'Politica GDPR', cookies:'Politica Cookies', servicii:'Servicii', despre:'Despre', blog:'Blog', pvc:'Tâmplărie PVC Salamander', aluminiu:'Tâmplărie Aluminiu Alumil', accesorii:'Accesorii pentru Tâmplărie', guides_title:'Ghiduri & Prețuri', ghid_pvc:'Ghid Complet Tâmplărie PVC', ghid_aluminiu:'Ghid Complet Tâmplărie Aluminiu', ghid_umbrire:'Ghid Sisteme Umbrire', ghid_nzeb:'Ghid Sisteme nZEB', preturi_umbrire:'Prețuri Sisteme Umbrire', brand_desc:'Furnizăm tâmplărie PVC Salamander și aluminiu Alumil cu geam termopan certificat nZEB. Precadre Blaugelb Triotherm+, jaluzele Raffstore, rulouri aluminiu. Montaj profesional și livrare în toată Europa.', legal:'NEOFORT BIZ SRL · CUI RO30324211 · Reg. Com. J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Recenzii Google' },
+    en: { products:'Products', info:'Info', brand:'PVC · Aluminium Windows', date_companie:'Company Info', umbrire:'Shading Systems', nzeb:'nZEB Systems', schedule:'Opening Hours', maps:'View on Google Maps', address:'11 Theodor Aman Pictor St., Sector 1, Bucharest 010776', gdpr:'GDPR Policy', cookies:'Cookie Policy', servicii:'Services', despre:'About', blog:'Blog', pvc:'PVC Salamander Windows', aluminiu:'Aluminium Alumil Windows', accesorii:'Window Accessories', guides_title:'Guides & Prices', ghid_pvc:'Complete PVC Windows Guide', ghid_aluminiu:'Complete Aluminium Guide', ghid_umbrire:'Shading Systems Guide', ghid_nzeb:'nZEB Systems Guide', preturi_umbrire:'Shading System Prices', brand_desc:'We supply Salamander PVC and Alumil aluminium windows with nZEB-certified thermal glass. Blaugelb Triotherm+ precasings, Raffstore blinds, aluminium shutters. Professional installation and EU delivery.', legal:'NEOFORT BIZ SRL · VAT RO30324211 · Reg. J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Google Reviews' },
+    de: { products:'Produkte', info:'Info', brand:'Kunststoff- · Aluminiumfenster', date_companie:'Firmendaten', umbrire:'Beschattungssysteme', nzeb:'nZEB-Systeme', schedule:'Öffnungszeiten', maps:'Auf Google Maps anzeigen', address:'Str. Theodor Aman Pictor Nr. 11, Sektor 1, Bukarest 010776', gdpr:'Datenschutzrichtlinie', cookies:'Cookie-Richtlinie', servicii:'Dienstleistungen', despre:'Über uns', blog:'Blog', pvc:'Kunststofffenster Salamander', aluminiu:'Aluminiumfenster Alumil', accesorii:'Fensterzubehör', guides_title:'Ratgeber & Preise', ghid_pvc:'Kompletter PVC-Fenster-Ratgeber', ghid_aluminiu:'Kompletter Aluminiumfenster-Ratgeber', ghid_umbrire:'Beschattungssysteme Ratgeber', ghid_nzeb:'nZEB-Systeme Ratgeber', preturi_umbrire:'Beschattungspreise', brand_desc:'Wir liefern Salamander Kunststoff- und Alumil Aluminiumfenster mit nZEB-zertifiziertem Isolierglas. Blaugelb Triotherm+ Vorfenster, Raffstore Jalousien, Aluminiumrollläden. Professionelle Montage und EU-Lieferung.', legal:'NEOFORT BIZ SRL · USt-ID RO30324211 · HR-Nr. J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Google-Bewertungen' },
+    fr: { products:'Produits', info:'Info', brand:'Menuiserie PVC · Aluminium', date_companie:'Infos Société', umbrire:"Systèmes d'occultation", nzeb:'Systèmes nZEB', schedule:"Horaires d'ouverture", maps:'Voir sur Google Maps', address:'11 rue Theodor Aman Pictor, Secteur 1, Bucarest 010776', gdpr:'Politique RGPD', cookies:'Politique de cookies', servicii:'Services', despre:'À propos', blog:'Blog', pvc:'Menuiserie PVC Salamander', aluminiu:'Menuiserie Aluminium Alumil', accesorii:'Accessoires menuiserie', guides_title:'Guides & Prix', ghid_pvc:'Guide complet menuiserie PVC', ghid_aluminiu:'Guide complet menuiserie aluminium', ghid_umbrire:"Guide systèmes d'occultation", ghid_nzeb:'Guide systèmes nZEB', preturi_umbrire:"Prix systèmes d'occultation", brand_desc:'Nous fournissons des menuiseries PVC Salamander et aluminium Alumil avec vitrage isolant certifié nZEB. Précadres Blaugelb Triotherm+, stores Raffstore, volets roulants aluminium. Pose professionnelle et livraison en Europe.', legal:'NEOFORT BIZ SRL · TVA RO30324211 · RC J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Avis Google' },
+    es: { products:'Productos', info:'Info', brand:'Carpintería PVC · Aluminio', date_companie:'Datos Empresa', umbrire:'Sistemas de Sombreado', nzeb:'Sistemas nZEB', schedule:'Horario de atención', maps:'Ver en Google Maps', address:'C/ Theodor Aman Pictor 11, Sector 1, Bucarest 010776', gdpr:'Política GDPR', cookies:'Política de cookies', servicii:'Servicios', despre:'Sobre nosotros', blog:'Blog', pvc:'Carpintería PVC Salamander', aluminiu:'Carpintería Aluminio Alumil', accesorii:'Accesorios carpintería', guides_title:'Guías & Precios', ghid_pvc:'Guía completa carpintería PVC', ghid_aluminiu:'Guía completa carpintería aluminio', ghid_umbrire:'Guía sistemas de sombreado', ghid_nzeb:'Guía sistemas nZEB', preturi_umbrire:'Precios sistemas sombreado', brand_desc:'Suministramos carpintería PVC Salamander y aluminio Alumil con vidrio aislante certificado nZEB. Premarcos Blaugelb Triotherm+, persianas Raffstore, cierres enrollables aluminio. Instalación profesional y entrega en Europa.', legal:'NEOFORT BIZ SRL · CIF RO30324211 · Reg. J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Reseñas Google' },
+    it: { products:'Prodotti', info:'Info', brand:'Infissi PVC · Alluminio', date_companie:'Dati Azienda', umbrire:'Sistemi di Oscuramento', nzeb:'Sistemi nZEB', schedule:'Orari di apertura', maps:'Vedi su Google Maps', address:'Via Theodor Aman Pictor 11, Settore 1, Bucarest 010776', gdpr:'Politica GDPR', cookies:'Politica cookie', servicii:'Servizi', despre:'Chi siamo', blog:'Blog', pvc:'Infissi in PVC Salamander', aluminiu:'Infissi in Alluminio Alumil', accesorii:'Accessori infissi', guides_title:'Guide & Prezzi', ghid_pvc:'Guida completa infissi PVC', ghid_aluminiu:'Guida completa infissi alluminio', ghid_umbrire:'Guida sistemi oscuramento', ghid_nzeb:'Guida sistemi nZEB', preturi_umbrire:'Prezzi sistemi oscuramento', brand_desc:'Forniamo infissi PVC Salamander e alluminio Alumil con vetro termoisolante certificato nZEB. Precontrotelaio Blaugelb Triotherm+, veneziane Raffstore, tapparelle in alluminio. Installazione professionale e consegna in Europa.', legal:'NEOFORT BIZ SRL · P.IVA RO30324211 · Reg. J40/6928/2012 · EUID ROONRC.J40/6928/2012', reviews:'4.9★ · 46 Recensioni Google' },
   };
   const col = COL_TEXTS[locale] || COL_TEXTS.ro;
 
@@ -235,12 +235,10 @@ export default function Footer() {
       <div style={{ background:'#111', borderTop:'1px solid #222', padding:'10px 0 0' }}>
         <div className="footer-inner">
 
-          {/* Header formular — h2 cu cuvinte cheie principale, înlocuiește banda SEO Bridge */}
+          {/* Header formular — h2 cu cuvinte cheie principale */}
           <div style={{ textAlign:'center', marginBottom:'16px', paddingBottom:'16px', borderBottom:'1px solid #1e1e1e' }}>
             <h2 style={{ fontFamily:FF.cond, fontWeight:FW.medium, fontSize:FS.lg, color:CL.white, lineHeight:1.4, textAlign:'center', margin:0 }}>
-              {ft.title_h2.split('\n')[0]}{' '}
-              <span style={{ textDecoration:'underline', color:CL.white }}>{ft.title_h2_link}</span>
-              {' '}{ft.title_h2.split('\n')[1]}
+              {ft.title_h2.split('\n')[0]}{' '}{ft.title_h2_link}{' '}{ft.title_h2.split('\n')[1]}
             </h2>
           </div>
 
@@ -374,7 +372,7 @@ export default function Footer() {
           <div style={{ padding:'17px 24px 9px 0' }}>
             <span className="footer-logo">NEOFORT BIZ</span>
           </div>
-          <div></div><div></div><div></div>
+          <div></div><div></div><div></div><div></div>
         </div>
 
         <div className="footer-grid-cols" style={{ padding:'0 0 27px', borderBottom:'1px solid #1e1e1e', alignItems:'start' }}>
@@ -383,11 +381,12 @@ export default function Footer() {
           <div className="footer-col-1">
             <div className="footer-col-title">{col.brand}</div>
             <p className="footer-desc">{col.brand_desc}</p>
-            <p style={{ fontFamily:FF.cond, fontSize:FS.xs, letterSpacing:'.04em', color:CL.dark, lineHeight:1.7, margin:'10px 0 6px' }}>
+            <div className="footer-col-title" style={{ marginTop:'20px' }}>{col.date_companie}</div>
+            <p style={{ fontFamily:FF.cond, fontSize:FS.xs, letterSpacing:'.04em', color:CL.dark, lineHeight:1.7, margin:'8px 0 6px' }}>
               {col.legal}
             </p>
             <a href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
-              style={{ fontFamily:FF.cond, fontSize:FS.sm, letterSpacing:'.06em', color:'#f5a623', textDecoration:'none', marginBottom:'20px', fontWeight:FW.medium, display:'block' }}>
+              style={{ fontFamily:FF.cond, fontSize:FS.sm, letterSpacing:'.06em', color:'#f5a623', textDecoration:'none', marginBottom:'16px', fontWeight:FW.medium, display:'block' }}>
               {col.reviews}
             </a>
             <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"
@@ -415,6 +414,8 @@ export default function Footer() {
             <ul className="footer-links">
               <li><Link href="/tamplarie-pvc">{col.pvc}</Link></li>
               <li><Link href="/tamplarie-aluminiu">{col.aluminiu}</Link></li>
+              <li><Link href="/umbrire">{col.umbrire}</Link></li>
+              <li><Link href="/sisteme-nzeb">{col.nzeb}</Link></li>
               <li><Link href="/accesorii">{col.accesorii}</Link></li>
             </ul>
           </div>
@@ -431,8 +432,8 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Col Ghiduri */}
-          <div className="footer-col-guides" style={{ borderLeft:'1px solid #1e1e1e' }}>
+          {/* Col 4 — Ghiduri & Prețuri */}
+          <div className="footer-col-4" style={{ borderLeft:'1px solid #1e1e1e' }}>
             <div className="footer-col-title">{col.guides_title}</div>
             <ul className="footer-links">
               <li><Link href={`/${p.ghid_pvc}`}>{col.ghid_pvc}</Link></li>
@@ -443,8 +444,8 @@ export default function Footer() {
             </ul>
           </div>
 
-          {/* Col 4 — Program + Adresă */}
-          <div className="footer-col-4" style={{ borderLeft:'1px solid #1e1e1e' }}>
+          {/* Col 5 — Program + Adresă + Limbi */}
+          <div className="footer-col-5" style={{ borderLeft:'1px solid #1e1e1e' }}>
             <div className="footer-col-title">{col.schedule}</div>
             {sch.days.map(z => (
               <div key={z} className="schedule-row">
