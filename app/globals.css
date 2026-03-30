@@ -368,19 +368,19 @@ img,video{max-width:100%;height:auto}
 .form-col-dept-mobile { display: none; }
 .footer-grid-logo {
   display: grid;
-  grid-template-columns: 1.8fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1.2fr 1fr;
   gap: 0;
 }
 .footer-grid-cols {
   display: grid;
-  grid-template-columns: 1.8fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1.2fr 1fr;
   gap: 0;
 }
-.footer-col-1 { padding: 0 32px 32px 0; }
-.footer-col-2 { padding: 0 24px 32px 24px; }
-.footer-col-3 { padding: 0 24px 32px 24px; }
-.footer-col-4 { padding: 0 24px 32px 24px; }
-.footer-col-5 { padding: 0 0 32px 24px; }
+.footer-col-1 { padding: 0 28px 32px 0; }
+.footer-col-2 { padding: 0 20px 32px 20px; }
+.footer-col-3 { padding: 0 20px 32px 20px; }
+.footer-col-4 { padding: 0 20px 32px 20px; }
+.footer-col-5 { padding: 0 0 32px 20px; }
 
 @media (max-width: 1024px) {
   /* Footer grid — 3 coloane pe tabletă mare */
