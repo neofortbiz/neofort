@@ -39,7 +39,7 @@ export default function FaqAccordion({ items, title }) {
               maxHeight: open === i ? '400px' : '0px',
               transition: 'max-height .3s ease'
             }}>
-              <p style={{ padding: '0 0 18px', fontSize: '.88rem', color: '#767676', lineHeight: 1.7 }}>{a}</p>
+              <p style={{ padding: '0 0 18px', fontSize: '.88rem', color: '#636363', lineHeight: 1.7 }}>{a}</p>
             </div>
           </div>
         ))}

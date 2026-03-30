@@ -334,7 +334,7 @@ export default async function BlogArticlePage({ params }) {
       {/* EXCERPT — bandă albă sub hero */}
       <div style={{background:'#fff',borderBottom:'1px solid #efefed',padding:'18px 0'}}>
         <div style={{maxWidth:'1100px',margin:'0 auto',padding:'0 24px'}}>
-          <p style={{fontSize:'clamp(0.9rem, 2.5vw, .88rem)',color:'#767676',lineHeight:1.75,fontStyle:'italic',margin:0,paddingLeft:'14px',borderLeft:`3px solid ${a.accentColor}`}}>{excerpt}</p>
+          <p style={{fontSize:'clamp(0.9rem, 2.5vw, .88rem)',color:'#636363',lineHeight:1.75,fontStyle:'italic',margin:0,paddingLeft:'14px',borderLeft:`3px solid ${a.accentColor}`}}>{excerpt}</p>
         </div>
       </div>
 

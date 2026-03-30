@@ -21,10 +21,10 @@ img,video{max-width:100%;height:auto}
 .logo-main{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:500;font-size:1rem;letter-spacing:.82em;color:#1a1a1a;text-transform:uppercase;line-height:1;display:block}
 .logo-sub{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:300;font-size:.55rem;letter-spacing:.25em;color:#ccc;text-transform:uppercase;margin-top:2px;display:block}
 .site-nav{display:flex;align-items:center}
-.site-nav-link{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.75rem;letter-spacing:.05em;text-transform:uppercase;color:#767676;text-decoration:none;padding:0 5px;height:86px;display:flex;align-items:center;border-bottom:2px solid transparent;transition:color .15s,border-color .15s}
+.site-nav-link{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.75rem;letter-spacing:.05em;text-transform:uppercase;color:#636363;text-decoration:none;padding:0 5px;height:86px;display:flex;align-items:center;border-bottom:2px solid transparent;transition:color .15s,border-color .15s}
 .site-nav-link:hover{color:#1a1a1a;border-bottom-color:transparent}.site-nav-link.active{color:#e8721c;border-bottom-color:#e8721c}
 .nav-langs{display:flex;align-items:center;gap:8px;margin-left:15px;padding-left:15px;border-left:1px solid #e8e8e8}
-.nav-lang{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.86rem;letter-spacing:.12em;color:#767676;text-decoration:none;transition:color .15s}
+.nav-lang{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.86rem;letter-spacing:.12em;color:#636363;text-decoration:none;transition:color .15s}
 .nav-lang:hover{color:#e8721c}.nav-lang.active{color:#e8721c;font-weight:600}
 .hamburger{display:none;flex-direction:column;gap:5px;background:none;border:none;cursor:pointer;padding:4px}
 .hamburger span{display:block;width:22px;height:1px;background:#1a1a1a;transition:all .2s}
@@ -44,7 +44,7 @@ img,video{max-width:100%;height:auto}
 .btn-white:hover{background:#fff;color:#1a1a1a;border-color:#fff}
 
 /* ── LABELS ── */
-.sec-label{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:#767676;display:block;margin-bottom:14px}
+.sec-label{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:400;font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;color:#636363;display:block;margin-bottom:14px}
 .label-pvc{color:#4a7c59}
 .label-aluminiu{color:#2d5a8e}
 .label-accesorii{color:#e8721c}
@@ -355,7 +355,7 @@ img,video{max-width:100%;height:auto}
 .schedule-row{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-bottom:1px solid #1e1e1e}
 .schedule-day{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:300;color:#888}
 .schedule-hours{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:400;color:#ccc}
-.schedule-closed{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:300;color:#444;letter-spacing:.08em;text-transform:uppercase}
+.schedule-closed{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:400;color:#999;letter-spacing:.08em;text-transform:uppercase}
 .maps-link{display:inline-flex;align-items:center;gap:8px;margin-top:24px;font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.67rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;color:#888;text-decoration:none;padding:10px 0;border-bottom:1px solid #1e1e1e;width:100%;transition:color .15s}
 .maps-link:hover{color:#fff}
 

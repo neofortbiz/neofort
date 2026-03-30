@@ -408,14 +408,14 @@ export default async function BucurestiPvcPage({ params }) {
       {/* INTRO + ZONE */}
       <section className="py-16 border-b border-border">
         <div className="container mx-auto px-6 max-w-4xl">
-          <p style={{ fontSize: '.92rem', color: '#767676', lineHeight: 1.8, marginBottom: '48px' }}>{ui.intro}</p>
+          <p style={{ fontSize: '.92rem', color: '#636363', lineHeight: 1.8, marginBottom: '48px' }}>{ui.intro}</p>
 
           <h2 className="font-condensed text-2xl font-semibold text-primary mb-6">{ui.zones_title}</h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(240px,1fr))', gap: '12px', marginBottom: '48px' }}>
             {ui.zones.map(([sector, cartiere], i) => (
               <div key={i} style={{ padding: '16px 20px', border: '1px solid #e8e8e4', borderRadius: '6px', borderLeft: '3px solid #4a7c59' }}>
                 <p style={{ fontSize: '.85rem', fontWeight: 600, color: '#1a1a1a', marginBottom: '4px' }}>{sector}</p>
-                <p style={{ fontSize: '.8rem', color: '#767676', lineHeight: 1.5 }}>{cartiere}</p>
+                <p style={{ fontSize: '.8rem', color: '#636363', lineHeight: 1.5 }}>{cartiere}</p>
               </div>
             ))}
           </div>
@@ -426,7 +426,7 @@ export default async function BucurestiPvcPage({ params }) {
             {ui.why.map(([title, desc], i) => (
               <div key={i} style={{ padding: '20px', border: '1px solid #e8e8e4', borderRadius: '6px', borderTop: '3px solid #4a7c59' }}>
                 <p style={{ fontSize: '.88rem', fontWeight: 600, color: '#1a1a1a', marginBottom: '6px' }}>{title}</p>
-                <p style={{ fontSize: '.84rem', color: '#767676', lineHeight: 1.6 }}>{desc}</p>
+                <p style={{ fontSize: '.84rem', color: '#636363', lineHeight: 1.6 }}>{desc}</p>
               </div>
             ))}
           </div>
@@ -439,7 +439,7 @@ export default async function BucurestiPvcPage({ params }) {
                 <div style={{ minWidth: '64px', fontSize: '.7rem', fontWeight: 700, color: '#4a7c59', textTransform: 'uppercase', letterSpacing: '.06em', paddingTop: '2px' }}>{when}</div>
                 <div>
                   <p style={{ fontSize: '.88rem', fontWeight: 600, color: '#1a1a1a', marginBottom: '3px' }}>{title}</p>
-                  <p style={{ fontSize: '.83rem', color: '#767676', lineHeight: 1.6 }}>{desc}</p>
+                  <p style={{ fontSize: '.83rem', color: '#636363', lineHeight: 1.6 }}>{desc}</p>
                 </div>
               </div>
             ))}
@@ -464,7 +464,7 @@ export default async function BucurestiPvcPage({ params }) {
       <section style={{ background: '#f4f4f1', padding: '64px 0' }}>
         <div className="container mx-auto px-6 text-center max-w-2xl">
           <h2 className="font-condensed text-3xl font-semibold text-primary mb-4">{ui.cta_h}</h2>
-          <p style={{ fontSize: '.9rem', color: '#767676', marginBottom: '32px' }}>{ui.cta_sub}</p>
+          <p style={{ fontSize: '.9rem', color: '#636363', marginBottom: '32px' }}>{ui.cta_sub}</p>
           <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap' }}>
             <Link href="/contact" style={{ display: 'inline-flex', alignItems: 'center', padding: '14px 32px', background: '#1a1a1a', color: '#fff', borderRadius: '6px', fontSize: '.85rem', fontWeight: 600, textDecoration: 'none' }}>{ui.cta_btn}</Link>
             <a href="tel:+40752443435" style={{ display: 'inline-flex', alignItems: 'center', padding: '14px 32px', border: '2px solid #1a1a1a', color: '#1a1a1a', borderRadius: '6px', fontSize: '.85rem', fontWeight: 600, textDecoration: 'none' }}>{ui.cta_call} +40 752 443 435</a>

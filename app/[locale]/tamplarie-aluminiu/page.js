@@ -356,13 +356,13 @@ export default async function TamplaieAluminiuPage({ params }) {
                       {specs.map(([k,v],i) => (
                         <li key={i} style={{display:'flex',justifyContent:'space-between',alignItems:'baseline',gap:'6px',padding:'2.5px 0',borderBottom:'1px solid #f8f8f6',fontSize:'0.7rem',lineHeight:1.4}}>
                           <span style={{fontWeight:600,color:'#444',whiteSpace:'nowrap',flexShrink:0}}>– {k}:</span>
-                          <span style={{color:'#767676',textAlign:'right'}}>{v}</span>
+                          <span style={{color:'#636363',textAlign:'right'}}>{v}</span>
                         </li>
                       ))}
                     </ul>
 
                     {/* Descriere */}
-                    <p style={{fontSize:'0.77rem',color:'#767676',lineHeight:1.65,flex:1,marginBottom:'16px'}}>{desc}</p>
+                    <p style={{fontSize:'0.77rem',color:'#636363',lineHeight:1.65,flex:1,marginBottom:'16px'}}>{desc}</p>
 
                     {/* Buton Detalii */}
                     <Link href={`/produse-aluminiu/${PROD_SLUG_MAP[p.slug] || p.slug}`} style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',textDecoration:'none',transition:'background 0.15s,color 0.15s'}}>

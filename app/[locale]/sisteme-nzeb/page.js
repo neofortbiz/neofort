@@ -155,7 +155,7 @@ export default async function Page({ params }) {
         .acc-cat  { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.54rem; letter-spacing:.2em; text-transform:uppercase; margin-bottom:8px; display:block; }
         .acc-name { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:1rem; color:#1a1a1a; line-height:1.2; margin:0 0 12px; }
         .acc-specs { list-style:none; padding:0; margin:0 0 12px; }
-        .acc-specs li { font-size:.72rem; color:#767676; padding:3px 0; border-bottom:1px solid #f0f0ee; line-height:1.4; }
+        .acc-specs li { font-size:.72rem; color:#636363; padding:3px 0; border-bottom:1px solid #f0f0ee; line-height:1.4; }
         .acc-specs li:last-child { border-bottom:none; }
         .acc-specs strong { color:#1a1a1a; font-weight:600; }
         .acc-desc { font-size:.76rem; color:#888; line-height:1.6; margin:0 0 16px; flex:1; }

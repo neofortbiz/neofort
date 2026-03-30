@@ -671,7 +671,7 @@ export default async function ProductPage({ params }) {
         .prd-perf-table { width:100%; border-collapse:collapse; margin-bottom:28px; font-size:.73rem; }
         .prd-perf-table tr { border-bottom:1px solid #f0f0ee; }
         .prd-perf-table td { padding:6px 8px; }
-        .prd-perf-table td:first-child { color:#767676; width:55%; }
+        .prd-perf-table td:first-child { color:#636363; width:55%; }
         .prd-perf-table td:last-child { font-weight:700; color:#1a1a1a; text-align:right; }
 
         /* ── ADVANTAGES ── */
@@ -692,7 +692,7 @@ export default async function ProductPage({ params }) {
         .prd-cta-btn-secondary:hover { border-color:#666; }
 
         /* ── SEO TEXT ── */
-        .prd-seo { font-size:.82rem; color:#767676; line-height:1.8; padding:32px 0; border-top:1px solid #e8e8e4; margin-top:8px; }
+        .prd-seo { font-size:.82rem; color:#636363; line-height:1.8; padding:32px 0; border-top:1px solid #e8e8e4; margin-top:8px; }
         .prd-seo p { margin:0; }
 
         /* ── LAYOUT LOWER ── */

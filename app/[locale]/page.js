@@ -439,10 +439,10 @@ export default async function HomePage({ params }) {
                 style={{width:'100%',height:'160px',objectFit:'cover',display:'block'}}
               />
               <div style={{padding:'28px 36px 36px',display:'flex',flexDirection:'column',flex:1}}>
-                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#767676',marginBottom:'14px',display:'block'}}>{c.hero_pvc_tag}</span>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#636363',marginBottom:'14px',display:'block'}}>{c.hero_pvc_tag}</span>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#4a7c59',display:'block',marginBottom:'14px'}}>{c.hero_pvc_label}</span>
                 <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.35rem',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_pvc_title}</h2>
-                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_pvc_desc}</p>
+                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#636363',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_pvc_desc}</p>
                 <span className="btn btn-pvc" style={{display:'block',textAlign:'center'}}>{c.hero_pvc_btn}</span>
               </div>
             </Link>
@@ -458,10 +458,10 @@ export default async function HomePage({ params }) {
                 style={{width:'100%',height:'160px',objectFit:'cover',display:'block'}}
               />
               <div style={{padding:'28px 36px 36px',display:'flex',flexDirection:'column',flex:1}}>
-                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#767676',marginBottom:'14px',display:'block'}}>{c.hero_al_tag}</span>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#636363',marginBottom:'14px',display:'block'}}>{c.hero_al_tag}</span>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d5a8e',display:'block',marginBottom:'14px'}}>{c.hero_al_label}</span>
                 <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.35rem',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_al_title}</h2>
-                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_al_desc}</p>
+                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#636363',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_al_desc}</p>
                 <span className="btn btn-aluminiu" style={{display:'block',textAlign:'center'}}>{c.hero_al_btn}</span>
               </div>
             </Link>
@@ -482,8 +482,8 @@ export default async function HomePage({ params }) {
             <div/>
           </div>
           <div className="intro-grid-texts speakable-intro">
-            <p style={{fontSize:'0.8825rem',fontWeight:300,color:'#767676',lineHeight:1.75,textAlign:'justify'}}>{c.intro_p1}</p>
-            <p style={{fontSize:'0.8825rem',fontWeight:300,color:'#767676',lineHeight:1.75,textAlign:'justify'}}>
+            <p style={{fontSize:'0.8825rem',fontWeight:300,color:'#636363',lineHeight:1.75,textAlign:'justify'}}>{c.intro_p1}</p>
+            <p style={{fontSize:'0.8825rem',fontWeight:300,color:'#636363',lineHeight:1.75,textAlign:'justify'}}>
               {c.intro_p2_pre}{' '}
               <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b1}</strong>{' '}
               {c.intro_p2_mid}{' '}
@@ -503,12 +503,12 @@ export default async function HomePage({ params }) {
                 <a key={l} href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
                   style={{padding:'24px 20px',textAlign:'center',borderRight:'none',textDecoration:'none',display:'block'}}>
                   <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#f5a623',lineHeight:1}}>{n}</div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#767676',marginTop:'5px',lineHeight:1.3}}>{l}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#636363',marginTop:'5px',lineHeight:1.3}}>{l}</div>
                 </a>
               ) : (
                 <div key={l} style={{padding:'24px 20px',textAlign:'center',borderRight:i<3?'1px solid #e8e8e8':'none'}}>
                   <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#1a1a1a',lineHeight:1}}>{n}</div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#767676',marginTop:'5px',lineHeight:1.3}}>{l}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#636363',marginTop:'5px',lineHeight:1.3}}>{l}</div>
                 </div>
               )
             ))}
@@ -526,7 +526,7 @@ export default async function HomePage({ params }) {
                 <div style={{padding:'22px 22px 24px',display:'flex',flexDirection:'column',flex:1}}>
                   <span aria-hidden="true" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6625rem',letterSpacing:'.2em',textTransform:'uppercase',color:p.topColor,display:'block',marginBottom:'9px'}}>{p.tag}</span>
                   <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0125rem',color:'#1a1a1a',marginBottom:'9px',letterSpacing:'.02em'}}>{p.title}</h3>
-                  <p style={{fontSize:'0.8225rem',fontWeight:300,color:'#767676',lineHeight:1.7,flex:1,textAlign:'justify',marginBottom:'18px'}}>{p.desc}</p>
+                  <p style={{fontSize:'0.8225rem',fontWeight:300,color:'#636363',lineHeight:1.7,flex:1,textAlign:'justify',marginBottom:'18px'}}>{p.desc}</p>
                   <span className={p.btn}>
                     {locale === 'ro' ? 'DETALII →' : locale === 'en' ? 'DETAILS →' : locale === 'de' ? 'DETAILS →' : locale === 'fr' ? 'DÉTAILS →' : locale === 'es' ? 'DETALLES →' : 'DETTAGLI →'}
                   </span>
@@ -545,14 +545,14 @@ export default async function HomePage({ params }) {
               <span className="sec-label">{c.sec_label_steps}</span>
               <h2 className="home-h2-steps" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2625rem, 4vw, 2.0625rem)',color:'#1a1a1a'}}>{c.steps_h2}</h2>
             </div>
-            <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#767676',maxWidth:'220px',textAlign:'right',lineHeight:1.6}}>{c.steps_sub}</p>
+            <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#636363',maxWidth:'220px',textAlign:'right',lineHeight:1.6}}>{c.steps_sub}</p>
           </div>
           <div className="steps-grid-home">
             {c.steps.map((s,i)=>(
               <div key={s.n} className="step-item" style={{padding:'36px 32px',borderRight:i<2?'1px solid #e8e8e8':'none'}}>
                 <div aria-hidden="true" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'clamp(1.6625rem, 4vw, 2.4625rem)',color:'#ebebeb',lineHeight:1,marginBottom:'20px'}}>{s.n}</div>
                 <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0125rem',color:'#1a1a1a',marginBottom:'10px'}}>{s.title}</h3>
-                <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#767676',lineHeight:1.7,textAlign:'justify'}}>{s.desc}</p>
+                <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#636363',lineHeight:1.7,textAlign:'justify'}}>{s.desc}</p>
               </div>
             ))}
           </div>
@@ -573,7 +573,7 @@ export default async function HomePage({ params }) {
               {c.why_cards.map((item,i)=>(
                 <div key={i} className="why-card-item" style={{padding:'20px 18px',borderTop:'1px solid #e8e8e8',borderRight:i%2===0?'1px solid #e8e8e8':'none'}}>
                   <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'0.8625rem',letterSpacing:'.06em',textTransform:'uppercase',color:'#1a1a1a',marginBottom:'7px'}}>{item.title}</h3>
-                  <p style={{fontSize:'0.8225rem',fontWeight:300,color:'#767676',lineHeight:1.7,textAlign:'justify'}}>{item.desc}</p>
+                  <p style={{fontSize:'0.8225rem',fontWeight:300,color:'#636363',lineHeight:1.7,textAlign:'justify'}}>{item.desc}</p>
                 </div>
               ))}
             </div>
@@ -595,7 +595,7 @@ export default async function HomePage({ params }) {
                   {item.q}
                   <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1.1rem',color:'#999',marginLeft:'16px',flexShrink:0}}>+</span>
                 </summary>
-                <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#767676',lineHeight:1.75,marginTop:'12px',textAlign:'justify'}}>{item.a}</p>
+                <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#636363',lineHeight:1.75,marginTop:'12px',textAlign:'justify'}}>{item.a}</p>
               </details>
             ))}
           </div>

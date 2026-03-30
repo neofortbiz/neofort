@@ -161,7 +161,7 @@ export default async function DesprePage({ params }) {
                   <a key={l} href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
                     className="border border-border p-8 flex flex-col items-center justify-center text-center no-underline">
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#f5a623',lineHeight:1}}>{n}</span>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#767676',marginTop:'5px',lineHeight:1.3}}>{l}</span>
+                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#636363',marginTop:'5px',lineHeight:1.3}}>{l}</span>
                   </a>
                 ) : (
                   <div key={l} className="border border-border p-8 flex flex-col justify-center">
