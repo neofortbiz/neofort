@@ -614,18 +614,7 @@ export default async function HomePage({ params }) {
         </div>
       </section>
 
-      {/* ── SEO BRIDGE ── */}
-      <section aria-label={c.seo_bridge} style={{background:'#111',padding:'0',contentVisibility:'auto',containIntrinsicSize:'0 300px'}}>
-        <a href="#contact" style={{display:'block',textDecoration:'none',borderTop:'1px solid #1e1e1e',borderBottom:'1px solid #1e1e1e'}}>
-          <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',textAlign:'center',cursor:'pointer'}}>
-            <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',marginBottom:'0',transition:'color .2s'}}>
-              {c.seo_bridge.split(c.seo_link)[0]}
-              <span style={{textDecoration:'underline',color:'#fff',fontWeight:500}}>{c.seo_link}</span>
-              {c.seo_bridge.split(c.seo_link)[1]}
-            </p>
-          </div>
-        </a>
-      </section>
+
     </>
   );
 }
