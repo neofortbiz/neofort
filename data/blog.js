@@ -5,71 +5,307 @@
 export const ARTICLES = [
   {
     slugs: {
-      ro: 'sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu',
-      en: 'complete-nzeb-system-salamander-bluevolution-92-blaugelb-precasing-triple-glazing',
-      de: 'komplettes-nzeb-system-salamander-bluevolution-92-blaugelb-vorfenster-dreifachverglasung',
-      fr: 'systeme-nzeb-complet-salamander-bluevolution-92-precadres-blaugelb-triple-vitrage',
-      es: 'sistema-nzeb-completo-salamander-bluevolution-92-premarcos-blaugelb-triple-acristalamiento',
-      it: 'sistema-nzeb-completo-salamander-bluevolution-92-precontrotelaio-blaugelb-triplo-vetro',
+      ro: 'sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu',
+      en: 'complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing',
+      de: 'komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung',
+      fr: 'systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage',
+      es: 'sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento',
+      it: 'sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro',
     },
     date: '2026-03-29',
     author: 'Neofort BIZ',
-    accentColor: '#1a4fa0',
+    accentColor: '#1F3864',
     image: {
-      ro: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu.avif',
-      en: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu.avif',
-      de: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu.avif',
-      fr: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu.avif',
-      es: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu.avif',
-      it: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu.avif',
+      ro: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      en: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      de: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      fr: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      es: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      it: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
     },
-    imageBg: 'linear-gradient(135deg,#0a1628 0%,#1a3a6e 60%,#0a1628 100%)',
+    imageBg: 'linear-gradient(135deg,#0a1628 0%,#1F3864 60%,#0a1628 100%)',
     imageLabel: 'Sistem complet nZEB — Salamander BluEvolution 92 + Precadre Blaugelb + Geam Triplu',
-    readTime: { ro:'11 min citire', en:'11 min read', de:'11 Min.', fr:'11 min', es:'11 min', it:'11 min' },
+    readTime: { ro:'10 min citire', en:'10 min read', de:'10 Min.', fr:'10 min', es:'10 min', it:'10 min' },
     category: {
-      ro: 'nZEB & Eficiență Energetică',
-      en: 'nZEB & Energy Efficiency',
-      de: 'nZEB & Energieeffizienz',
-      fr: "nZEB & Efficacité Énergétique",
-      es: 'nZEB & Eficiencia Energética',
-      it: 'nZEB & Efficienza Energetica',
+      ro: 'Sisteme nZEB',
+      en: 'nZEB Systems',
+      de: 'nZEB-Systeme',
+      fr: 'Systèmes nZEB',
+      es: 'Sistemas nZEB',
+      it: 'Sistemi nZEB',
     },
     title: {
       ro: 'Sistemul complet nZEB: Salamander BluEvolution 92 + Precadre Blaugelb + Geam Triplu — Ghid 2026',
-      en: 'The Complete nZEB Window System: Salamander BluEvolution 92 + Blaugelb Pre-frames + Triple Glazing — 2026 Guide',
-      de: 'Das komplette nZEB-Fenstersystem: Salamander BluEvolution 92 + Blaugelb-Vorfenster + Dreifachverglasung — Ratgeber 2026',
-      fr: 'Le système fenêtre nZEB complet : Salamander BluEvolution 92 + précadres Blaugelb + triple vitrage — Guide 2026',
-      es: 'El sistema de ventana nZEB completo: Salamander BluEvolution 92 + premarcos Blaugelb + triple acristalamiento — Guía 2026',
-      it: 'Il sistema finestra nZEB completo: Salamander BluEvolution 92 + precontrotelaio Blaugelb + triplo vetro — Guida 2026',
+      en: 'Complete nZEB System: Salamander BluEvolution 92 + Blaugelb Pre-frames + Triple Glazing — Guide 2026',
+      de: 'Komplettes nZEB-System: Salamander BluEvolution 92 + Blaugelb Vorblendrahmen + Dreifachverglasung — Ratgeber 2026',
+      fr: 'Système complet nZEB : Salamander BluEvolution 92 + Précadres Blaugelb + Triple Vitrage — Guide 2026',
+      es: 'Sistema completo nZEB: Salamander BluEvolution 92 + Precuadros Blaugelb + Triple Acristalamiento — Guía 2026',
+      it: 'Sistema completo nZEB: Salamander BluEvolution 92 + Precornici Blaugelb + Triplo Vetro — Guida 2026',
     },
     metaDesc: {
-      ro: 'Cum funcționează sistemul complet nZEB pentru ferestre: profil Salamander BluEvolution 92 + precadre Blaugelb Triotherm+ + geam triplu Low-E argon. Ghid tehnic complet cu coeficienți, calcule și exemple reale.',
-      en: 'How the complete nZEB window system works: Salamander BluEvolution 92 profile + Blaugelb Triotherm+ pre-frames + triple Low-E argon glazing. Full technical guide with coefficients and calculations.',
-      de: 'Wie das komplette nZEB-Fenstersystem funktioniert: Salamander BluEvolution 92 Profil + Blaugelb Triotherm+ Vorfenster + Dreifach-Low-E-Argon-Verglasung. Vollständiger technischer Leitfaden.',
-      fr: 'Comment fonctionne le système fenêtre nZEB complet : profil Salamander BluEvolution 92 + précadres Blaugelb Triotherm+ + triple vitrage Low-E argon. Guide technique complet avec coefficients et calculs.',
-      es: 'Cómo funciona el sistema de ventana nZEB completo: perfil Salamander BluEvolution 92 + premarcos Blaugelb Triotherm+ + triple acristalamiento Low-E argón. Guía técnica completa con coeficientes.',
-      it: 'Come funziona il sistema finestra nZEB completo: profilo Salamander BluEvolution 92 + precontrotelaio Blaugelb Triotherm+ + triplo vetro Low-E argon. Guida tecnica completa con coefficienti.',
+      ro: 'Ghid complet sistem nZEB pentru ferestre: profil Salamander BluEvolution 92 cu 6 camere, precadre Blaugelb Triotherm+ și geam triplu Low-E argon. Performanță termică maximă, Uw sub 0,9 W/m²K, conform HG 1336/2022.',
+      en: 'Complete nZEB window system guide: Salamander BluEvolution 92 6-chamber profile, Blaugelb Triotherm+ pre-frames and triple Low-E argon glazing. Maximum thermal performance, Uw below 0.9 W/m²K.',
+      de: 'Vollständiger nZEB-Fensterleitfaden: Salamander BluEvolution 92 6-Kammer-Profil, Blaugelb Triotherm+ Vorblendrahmen und Dreifach-Low-E-Argon-Verglasung. Maximale Wärmeleistung, Uw unter 0,9 W/m²K.',
+      fr: 'Guide complet système nZEB pour fenêtres : profilé Salamander BluEvolution 92 à 6 chambres, précadres Blaugelb Triotherm+ et triple vitrage Low-E argon. Performance thermique maximale, Uw inférieur à 0,9 W/m²K.',
+      es: 'Guía completa sistema nZEB para ventanas: perfil Salamander BluEvolution 92 de 6 cámaras, precuadros Blaugelb Triotherm+ y triple acristalamiento Low-E argón. Rendimiento térmico máximo, Uw inferior a 0,9 W/m²K.',
+      it: 'Guida completa sistema nZEB per finestre: profilo Salamander BluEvolution 92 a 6 camere, precornici Blaugelb Triotherm+ e triplo vetro Low-E argon. Prestazione termica massima, Uw inferiore a 0,9 W/m²K.',
     },
     excerpt: {
-      ro: 'Profilele Salamander BluEvolution 92, precadrele Blaugelb Triotherm+ și geamul triplu Low-E cu argon formează împreună singurul sistem de ferestre care atinge performanțe nZEB reale — nu doar pe hârtie. Ghid tehnic complet cu coeficienți și calcule.',
-      en: 'Salamander BluEvolution 92 profiles, Blaugelb Triotherm+ pre-frames and triple Low-E argon glazing together form the only window system that achieves genuine nZEB performance — not just on paper. Full technical guide.',
-      de: 'Salamander BluEvolution 92 Profile, Blaugelb Triotherm+ Vorfenster und Dreifach-Low-E-Argon-Verglasung bilden das einzige Fenstersystem, das echte nZEB-Leistung erreicht — nicht nur auf dem Papier.',
-      fr: "Les profilés Salamander BluEvolution 92, les précadres Blaugelb Triotherm+ et le triple vitrage Low-E argon forment le seul système de fenêtre qui atteint de vraies performances nZEB — pas seulement sur le papier.",
-      es: 'Los perfiles Salamander BluEvolution 92, los premarcos Blaugelb Triotherm+ y el triple acristalamiento Low-E argón forman el único sistema de ventana que alcanza un rendimiento nZEB real, no solo en papel.',
-      it: "I profili Salamander BluEvolution 92, i precontrotelaio Blaugelb Triotherm+ e il triplo vetro Low-E argon formano l'unico sistema finestra che raggiunge prestazioni nZEB reali — non solo sulla carta.",
+      ro: 'Nu profilul singur face o fereastră nZEB — ci sistemul complet: Salamander BluEvolution 92, precadre Blaugelb Triotherm+ și geam triplu Low-E cu argon. Ghid tehnic complet cu valori reale și explicații clare pentru 2026.',
+      en: 'The profile alone does not make an nZEB window — the complete system does: Salamander BluEvolution 92, Blaugelb Triotherm+ pre-frames and triple Low-E argon glazing. Complete technical guide with real values for 2026.',
+      de: 'Nicht das Profil allein macht ein nZEB-Fenster — sondern das komplette System: Salamander BluEvolution 92, Blaugelb Triotherm+ Vorblendrahmen und Dreifach-Low-E-Argon-Verglasung. Vollständiger technischer Leitfaden 2026.',
+      fr: `Ce n'est pas le profilé seul qui fait une fenêtre nZEB — c'est le système complet : Salamander BluEvolution 92, précadres Blaugelb Triotherm+ et triple vitrage Low-E argon. Guide technique complet 2026.`,
+      es: 'No es el perfil solo lo que hace una ventana nZEB — sino el sistema completo: Salamander BluEvolution 92, precuadros Blaugelb Triotherm+ y triple acristalamiento Low-E argón. Guía técnica completa 2026.',
+      it: `Non è il profilo da solo a fare una finestra nZEB — ma il sistema completo: Salamander BluEvolution 92, precornici Blaugelb Triotherm+ e triplo vetro Low-E argon. Guida tecnica completa 2026.`,
     },
-    keywords: 'sistem nZEB ferestre, Salamander BluEvolution 92, precadre Blaugelb Triotherm, geam triplu Low-E, nZEB Romania, ferestre nZEB Bucuresti, coeficient Uw ferestre, izolare termica ferestre, sistem complet ferestre performante',
+    keywords: 'nZEB ferestre, Salamander BluEvolution 92, precadre Blaugelb Triotherm, geam triplu Low-E argon, sistem complet nZEB, Uw ferestre, HG 1336 2022, ferestre eficiente energetic, tamplarie PVC nZEB Bucuresti',
     dateDisplay: {
       ro: '29 mar 2026', en: 'Mar 29 2026', de: '29. Mär. 2026',
       fr: '29 mars 2026', es: '29 mar 2026', it: '29 mar 2026',
     },
     content: {
-      ro: "## De ce nu e suficient să alegi doar un profil bun\n\nCea mai frecventă greșeală la înlocuirea ferestrelor: se alege un profil PVC premium, se montează cu ciment și spumă poliuretanică și se consideră treaba gata. Rezultatul? O fereastră cu Uf certificat de 0,87 W/m²K care performează în realitate la 1,4–1,6 W/m²K — mai rău decât promite fișa tehnică.\n\nMotivul e simplu: **fereastra nu este doar profilul**. Este un sistem format din trei componente care trebuie să funcționeze împreună:\n\n1. **Profilul** — Salamander BluEvolution 92 cu 6 camere\n2. **Montajul** — precadre Blaugelb Triotherm+ care elimină punțile termice\n3. **Geamul** — pachet triplu Low-E cu argon, Ug ≤ 0,6 W/m²K\n\nElimini oricare dintre cele trei și sistemul nu mai atinge standardul nZEB. Acest ghid explică fiecare componentă în detaliu și arată cu cifre concrete ce se întâmplă când una lipsește.\n\n## Salamander BluEvolution 92 — de ce 92 mm contează\n\nAdâncimea de 92 mm a profilului BluEvolution nu este un detaliu de marketing. Are consecințe tehnice directe:\n\n**Geam mai gros = izolare mai bună.** Un profil de 70 mm acceptă pachete de geam de maximum 36 mm. Profilul de 92 mm acceptă până la **52 mm** — ceea ce permite geam triplu cu camere de 18 mm umplute cu argon și strat Low-E pe ambele suprafețe interioare.\n\n**6 camere de izolare** distribuite pe cei 92 mm ating un coeficient de cadru Uf de **0,87 W/m²K** — față de 1,1–1,3 W/m²K al profilelor de 5 camere standard.\n\n**Inserție de oțel galvanizat** în camera centrală asigură rigiditate mecanică pentru deschideri mari (până la 2,4 × 2,4 m pentru ferestre oscilobatante) fără deformare în timp.\n\n**Feroneria Winkhaus activPilot sau Roto NT** inclusă pe toate configurațiile Neofort BIZ — clasă antiefracție WK2, microventilație, blocare accidentală.\n\nCombinând profilul cu geamul triplu descris mai jos, fereastra finită atinge Uw de **0,72–0,89 W/m²K** — bine sub pragul nZEB de 1,3 W/m²K impus de HG 1336/2022.\n\n## Geamul triplu Low-E cu argon — unde e diferența față de dublu\n\nUn geam dublu standard (fără argon, fără Low-E) are Ug de 2,8 W/m²K. Adaugi argon și un strat Low-E → Ug coboară la 1,0–1,1. Treci la triplu cu argon pe ambele camere și două straturi Low-E → **Ug 0,5–0,6 W/m²K**.\n\nDiferența în factură: pentru o locuință de 80 mp cu 10 ferestre, trecerea de la dublu standard la triplu Low-E reduce pierderile termice prin geam cu **55–65%**. Tradus în bani: 800–1.400 lei economie anuală la încălzire.\n\nPachetul de geam recomandat de Neofort BIZ pentru sistem nZEB complet:\n\n- **Structura:** 4 / 18 Ar / 4 Low-E / 18 Ar / 4 mm\n- **Gaz:** Argon 90% concentrație pe ambele camere\n- **Distanțier:** Warm-Edge Thermo — conductivitate termică de 6× mai mică decât aluminiul standard\n- **Ug rezultat:** 0,52–0,58 W/m²K\n- **Sg (factor solar):** 0,50 — echilibru între câștig solar iarna și protecție vara\n\n## Precadrele Blaugelb Triotherm+ — componenta pe care toți o uită\n\nAceasta este componenta cel mai des omisă și cu cel mai mare impact negativ când lipsește.\n\n**Ce este o punte termică la fereastră?** Zona de îmbinare dintre tocul ferestrei și zidul exterior este un punct slab termic — dacă nu e tratată corect, căldura trece direct prin beton sau cărămidă, indiferent cât de bun e profilul.\n\n**Fără precadre:** diferența de temperatură dintre interiorul profilului și zidul adiacent poate fi de 8–12°C iarna. Rezultat: condens pe perete lângă fereastră, mucegai în colțuri, pierderi termice masive localizate.\n\n**Cu precadre Blaugelb Triotherm+:** sistemul de montaj creează o barieră continuă din material cu conductivitate termică de **0,035 W/mK** — similar cu vata minerală de izolație. Puntea termică dispare complet.\n\nProcedura de montaj Neofort BIZ cu precadre Blaugelb:\n\n1. Montarea precadrului în golul de zidărie înainte de fereastră\n2. Fixarea ferestrei în precadru — nu direct în beton\n3. Etanșare exterior cu **bandă butilic precomprimată** — respinge apa, lasă vaporii să iasă\n4. Etanșare interior cu **folie antivapori** — împiedică migrarea umidității din interior în perete\n5. Acoperire cu glaf termoizolant\n\nFără pașii 3–5, chiar și cu precadru, sistemul nu performează la potențial maxim.\n\n## Coeficienții finali — sistemul complet vs componente separate\n\n| Configurație | Uw [W/m²K] | Conformare nZEB |\n|---|---|---|\n| Profil 5 camere + geam dublu standard | 1,8–2,2 | ❌ Nu |\n| Profil 6 camere + geam dublu Low-E | 1,1–1,3 | ⚠️ La limită |\n| BluEvolution 92 + geam triplu, montaj clasic | 0,9–1,1 | ✅ Da, dar pierderi reale |\n| **BluEvolution 92 + geam triplu + Blaugelb** | **0,72–0,89** | **✅ Da, performanță reală** |\n\nDiferența dintre rândul trei și patru este exclusiv montajul cu precadre — același profil, același geam. Aceasta este valoarea concretă a sistemului complet față de componentele instalate separat.\n\n## Ce documente primești pentru certificatul energetic\n\nUn proiect care necesită certificat energetic de clasă A sau A+ are nevoie de documentație specifică pentru tâmplărie. Neofort BIZ furnizează standard:\n\n- **Declarație de performanță** conform SR EN 14351-1 pentru fiecare tip de fereastră\n- **Fișă tehnică profil** cu Uf certificat de laborator acreditat\n- **Certificat geam termoizolant** cu Ug și Sg măsurate\n- **Calcul punți termice** la colțuri și îmbinări — factorul ψ\n- **Protocol de montaj** semnat de montator certificat\n\n## Concluzie: sistemul funcționează doar complet\n\nSalamander BluEvolution 92 este cel mai bun profil rezidențial de pe piața românească. Geamul triplu Low-E cu argon este cel mai performant pachet de vitrare disponibil. Precadrele Blaugelb Triotherm+ sunt standardul de montaj pentru nZEB. Dar **niciunul nu funcționează la potențial maxim fără celelalte două**.\n\nLa [Neofort BIZ](/ro/tamplarie-pvc) livrăm sistemul complet — profil, geam, precadre, feronerie, etanșare — cu documentație tehnică completă și garanție care acoperă întregul ansamblu. Solicită o evaluare gratuită și un calcul termic personalizat.\n\nVezi și: [Ghid montaj precadre Blaugelb Triotherm+](/ro/blog/montaj-precadre-blaugelb-nzeb) | [Salamander BluEvolution 92 vs GreenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76) | [Cum aleg ferestre eficiente energetic](/ro/blog/cum-aleg-ferestre-eficiente-energetic-bucuresti-ghid-nzeb-2026)",
-      en: "## Why choosing a good profile alone is not enough\n\nThe most common mistake when replacing windows: a premium PVC profile is selected, installed with cement and polyurethane foam — and the job is considered done. The result? A window with a certified Uf of 0.87 W/m²K that actually performs at 1.4–1.6 W/m²K — worse than the technical datasheet promises.\n\nThe reason is simple: **a window is not just the profile**. It is a system of three components that must work together:\n\n1. **The profile** — Salamander BluEvolution 92 with 6 chambers\n2. **The installation** — Blaugelb Triotherm+ pre-frames that eliminate thermal bridges\n3. **The glazing** — triple Low-E argon unit, Ug ≤ 0.6 W/m²K\n\nRemove any one of the three and the system no longer meets the nZEB standard. This guide explains each component in detail and shows with real figures what happens when one is missing.\n\n## Salamander BluEvolution 92 — why 92 mm matters\n\nThe 92 mm depth of the BluEvolution profile has direct technical consequences: it accepts glazing units up to **52 mm** thick — allowing triple glazing with 18 mm chambers filled with argon and Low-E coating on both inner surfaces.\n\n**6 insulation chambers** distributed across 92 mm achieve a frame coefficient Uf of **0.87 W/m²K** — compared to 1.1–1.3 W/m²K for standard 5-chamber profiles.\n\n**Galvanised steel reinforcement** in the central chamber ensures mechanical rigidity for large openings (up to 2.4 × 2.4 m for tilt-and-turn windows) without long-term deformation.\n\nCombined with the triple glazing described below, the finished window achieves Uw of **0.72–0.89 W/m²K** — well below the nZEB threshold of 1.3 W/m²K required by Romanian regulation HG 1336/2022.\n\n## Triple Low-E argon glazing — where the real difference lies\n\nA standard double glazing unit (no argon, no Low-E) has Ug of 2.8 W/m²K. Add argon and one Low-E coating → Ug drops to 1.0–1.1. Switch to triple with argon in both chambers and two Low-E coatings → **Ug 0.5–0.6 W/m²K**.\n\nThe recommended glazing package for a complete nZEB system at Neofort BIZ:\n\n- **Structure:** 4 / 18 Ar / 4 Low-E / 18 Ar / 4 mm\n- **Gas:** 90% concentration argon in both chambers\n- **Spacer:** Warm-Edge Thermo — thermal conductivity 6× lower than standard aluminium\n- **Resulting Ug:** 0.52–0.58 W/m²K\n- **Solar factor Sg:** 0.50 — balance between winter solar gain and summer protection\n\n## Blaugelb Triotherm+ pre-frames — the component everyone forgets\n\nThis is the most commonly omitted component and the one with the greatest negative impact when missing.\n\n**Without pre-frames:** the temperature difference between the inner profile surface and the adjacent wall can be 8–12°C in winter. Result: condensation on the wall beside the window, mould in corners, concentrated thermal losses.\n\n**With Blaugelb Triotherm+ pre-frames:** the installation system creates a continuous barrier from material with thermal conductivity of **0.035 W/mK** — similar to mineral wool insulation. The thermal bridge disappears completely.\n\nNeofort BIZ installation procedure with Blaugelb pre-frames:\n\n1. Installing the pre-frame in the masonry opening before the window\n2. Fixing the window into the pre-frame — not directly into concrete\n3. Exterior sealing with **pre-compressed butyl tape** — repels water, allows vapour out\n4. Interior sealing with **vapour-stop membrane** — prevents moisture migration from inside to wall\n5. Finishing with insulating window sill\n\nWithout steps 3–5, even with a pre-frame, the system does not perform at its full potential.\n\n## Final coefficients — complete system vs separate components\n\n| Configuration | Uw [W/m²K] | nZEB compliance |\n|---|---|---|\n| 5-chamber profile + standard double glazing | 1.8–2.2 | ❌ No |\n| 6-chamber profile + double Low-E glazing | 1.1–1.3 | ⚠️ Borderline |\n| BluEvolution 92 + triple glazing, standard install | 0.9–1.1 | ✅ Yes, but real losses |\n| **BluEvolution 92 + triple glazing + Blaugelb** | **0.72–0.89** | **✅ Yes, real performance** |\n\nThe difference between rows three and four is exclusively the pre-frame installation — same profile, same glazing.\n\n## Conclusion: the system only works complete\n\nAt [Neofort BIZ](/en/pvc-windows) we supply the complete system — profile, glazing, pre-frames, hardware, sealing — with full technical documentation and a warranty covering the entire assembly. Request a free assessment and a personalised thermal calculation for your home.\n\nSee also: [Blaugelb Triotherm+ pre-frame installation guide](/en/blog/blaugelb-triotherm-precasing-installation-nzeb) | [BluEvolution 92 vs GreenEvolution 76](/en/blog/bluevolution-92-vs-greenevolution-76-guide) | [How to choose energy-efficient windows](/en/blog/how-to-choose-energy-efficient-windows-bucharest-nzeb-guide-2026)",
-      de: "## Warum ein gutes Profil allein nicht ausreicht\n\nDer häufigste Fehler beim Fenstertausch: Ein hochwertiges PVC-Profil wird ausgewählt, mit Zement und Montageschaum eingebaut — und die Arbeit gilt als erledigt. Das Ergebnis? Ein Fenster mit zertifiziertem Uf von 0,87 W/m²K, das in der Realität 1,4–1,6 W/m²K erreicht.\n\n**Ein Fenster ist nicht nur das Profil.** Es ist ein System aus drei Komponenten:\n\n1. **Das Profil** — Salamander BluEvolution 92 mit 6 Kammern\n2. **Die Montage** — Blaugelb Triotherm+ Vorfenster, die Wärmebrücken eliminieren\n3. **Die Verglasung** — Dreifach-Low-E-Argon-Einheit, Ug ≤ 0,6 W/m²K\n\n## Salamander BluEvolution 92 — warum 92 mm wichtig sind\n\nDie 92 mm Bautiefe nimmt Glaseinheiten bis zu **52 mm** Dicke auf — was Dreifachverglasung mit 18-mm-Kammern, gefüllt mit Argon, und Low-E-Beschichtung auf beiden inneren Oberflächen ermöglicht.\n\n**6 Isolierkammern** über 92 mm verteilt erreichen einen Rahmenwert Uf von **0,87 W/m²K**. Kombiniert mit der Dreifachverglasung erreicht das fertige Fenster Uw von **0,72–0,89 W/m²K** — deutlich unter dem nZEB-Grenzwert von 1,3 W/m²K.\n\n## Dreifach-Low-E-Argon-Verglasung\n\nDas empfohlene Glaspaket für das komplette nZEB-System bei Neofort BIZ:\n\n- **Aufbau:** 4 / 18 Ar / 4 Low-E / 18 Ar / 4 mm\n- **Gas:** Argon 90% Konzentration in beiden Kammern\n- **Abstandhalter:** Warm-Edge Thermo\n- **Resultierender Ug:** 0,52–0,58 W/m²K\n\n## Blaugelb Triotherm+ Vorfenster — die vergessene Komponente\n\n**Ohne Vorfenster:** Der Temperaturunterschied zwischen der inneren Profiloberfläche und der angrenzenden Wand kann im Winter 8–12°C betragen. Ergebnis: Kondensation an der Wand neben dem Fenster, Schimmel in Ecken, konzentrierte Wärmeverluste.\n\n**Mit Blaugelb Triotherm+ Vorfenstern:** Das Montagesystem schafft eine durchgehende Barriere aus Material mit einer Wärmeleitfähigkeit von **0,035 W/mK** — vergleichbar mit Mineralwolle. Die Wärmebrücke verschwindet vollständig.\n\nMontageverfahren bei Neofort BIZ mit Blaugelb-Vorfenstern:\n\n1. Montage des Vorfensters in der Mauerwerksöffnung vor dem Fenster\n2. Befestigung des Fensters im Vorfenster — nicht direkt im Beton\n3. Außenabdichtung mit **vorkomprimiertem Butylband**\n4. Innenabdichtung mit **Dampfsperrfolie**\n5. Abschluss mit wärmedämmendem Fensterbank\n\n## Endkoeffizienten — Gesamtsystem vs. Einzelkomponenten\n\n| Konfiguration | Uw [W/m²K] | nZEB-Konformität |\n|---|---|---|\n| 5-Kammer-Profil + Standard-Doppelverglasung | 1,8–2,2 | ❌ Nein |\n| 6-Kammer-Profil + Doppel-Low-E-Verglasung | 1,1–1,3 | ⚠️ Grenzwertig |\n| BluEvolution 92 + Dreifachverglasung, Standardmontage | 0,9–1,1 | ✅ Ja, aber reale Verluste |\n| **BluEvolution 92 + Dreifachverglasung + Blaugelb** | **0,72–0,89** | **✅ Ja, echte Leistung** |\n\n## Fazit\n\nBei [Neofort BIZ](/de/kunststofffenster-pvc) liefern wir das komplette System — Profil, Verglasung, Vorfenster, Beschläge, Abdichtung — mit vollständiger technischer Dokumentation und Garantie für die gesamte Baugruppe.\n\nSiehe auch: [Blaugelb Triotherm+ Montageanleitung](/de/blog/blaugelb-triotherm-vorfenster-montage-nzeb) | [BluEvolution 92 vs GreenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden)",
-      fr: "## Pourquoi choisir un bon profilé ne suffit pas\n\nL'erreur la plus fréquente lors du remplacement des fenêtres : on choisit un profilé PVC premium, on l'installe avec du ciment et de la mousse polyuréthane — et le travail est considéré comme terminé. Résultat ? Une fenêtre avec un Uf certifié de 0,87 W/m²K qui performe en réalité à 1,4–1,6 W/m²K.\n\n**Une fenêtre n'est pas seulement le profilé.** C'est un système de trois composants :\n\n1. **Le profilé** — Salamander BluEvolution 92 à 6 chambres\n2. **La pose** — précadres Blaugelb Triotherm+ qui éliminent les ponts thermiques\n3. **Le vitrage** — unité triple Low-E argon, Ug ≤ 0,6 W/m²K\n\n## Salamander BluEvolution 92 — pourquoi 92 mm est important\n\nLa profondeur de 92 mm du profilé BluEvolution accepte des unités de vitrage jusqu'à **52 mm** d'épaisseur — permettant un triple vitrage avec des chambres de 18 mm remplies d'argon et un revêtement Low-E sur les deux surfaces intérieures.\n\n**6 chambres d'isolation** sur 92 mm atteignent un coefficient de cadre Uf de **0,87 W/m²K**. Combiné avec le triple vitrage, la fenêtre finie atteint Uw de **0,72–0,89 W/m²K** — bien en dessous du seuil nZEB de 1,3 W/m²K.\n\n## Triple vitrage Low-E argon\n\nLe paquet de vitrage recommandé par Neofort BIZ :\n\n- **Structure :** 4 / 18 Ar / 4 Low-E / 18 Ar / 4 mm\n- **Gaz :** Argon à 90% de concentration dans les deux chambres\n- **Espaceur :** Warm-Edge Thermo\n- **Ug résultant :** 0,52–0,58 W/m²K\n\n## Précadres Blaugelb Triotherm+ — le composant que tout le monde oublie\n\n**Sans précadres :** la différence de température entre la surface intérieure du profilé et le mur adjacent peut être de 8–12°C en hiver. Résultat : condensation sur le mur à côté de la fenêtre, moisissures dans les coins.\n\n**Avec les précadres Blaugelb Triotherm+ :** le système de pose crée une barrière continue en matériau avec une conductivité thermique de **0,035 W/mK** — similaire à la laine minérale. Le pont thermique disparaît complètement.\n\n## Coefficients finaux — système complet vs composants séparés\n\n| Configuration | Uw [W/m²K] | Conformité nZEB |\n|---|---|---|\n| Profilé 5 chambres + double vitrage standard | 1,8–2,2 | ❌ Non |\n| Profilé 6 chambres + double Low-E | 1,1–1,3 | ⚠️ Limite |\n| BluEvolution 92 + triple vitrage, pose standard | 0,9–1,1 | ✅ Oui, mais pertes réelles |\n| **BluEvolution 92 + triple vitrage + Blaugelb** | **0,72–0,89** | **✅ Oui, performance réelle** |\n\n## Conclusion\n\nChez [Neofort BIZ](/fr/fenetres-pvc-salamander) nous livrons le système complet — profilé, vitrage, précadres, ferrures, étanchéité — avec une documentation technique complète et une garantie couvrant l'ensemble du système.\n\nVoir aussi : [Guide de pose précadres Blaugelb Triotherm+](/fr/blog/precadres-blaugelb-triotherm-pose-nzeb) | [BluEvolution 92 vs GreenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide)",
-      es: "## Por qué elegir un buen perfil no es suficiente\n\nEl error más frecuente al reemplazar ventanas: se elige un perfil PVC premium, se instala con cemento y espuma de poliuretano — y el trabajo se considera terminado. El resultado: una ventana con Uf certificado de 0,87 W/m²K que rinde en realidad a 1,4–1,6 W/m²K.\n\n**Una ventana no es solo el perfil.** Es un sistema de tres componentes:\n\n1. **El perfil** — Salamander BluEvolution 92 con 6 cámaras\n2. **La instalación** — premarcos Blaugelb Triotherm+ que eliminan los puentes térmicos\n3. **El acristalamiento** — unidad triple Low-E argón, Ug ≤ 0,6 W/m²K\n\n## Salamander BluEvolution 92 — por qué importan los 92 mm\n\nLa profundidad de 92 mm acepta unidades de acristalamiento de hasta **52 mm** de espesor — permitiendo triple acristalamiento con cámaras de 18 mm rellenas de argón y revestimiento Low-E en ambas superficies interiores.\n\n**6 cámaras de aislamiento** en 92 mm alcanzan un coeficiente de marco Uf de **0,87 W/m²K**. Combinado con el triple acristalamiento, la ventana terminada alcanza Uw de **0,72–0,89 W/m²K** — muy por debajo del umbral nZEB de 1,3 W/m²K.\n\n## Triple acristalamiento Low-E argón\n\nEl paquete de acristalamiento recomendado por Neofort BIZ:\n\n- **Estructura:** 4 / 18 Ar / 4 Low-E / 18 Ar / 4 mm\n- **Gas:** Argón al 90% de concentración en ambas cámaras\n- **Separador:** Warm-Edge Thermo\n- **Ug resultante:** 0,52–0,58 W/m²K\n\n## Premarcos Blaugelb Triotherm+ — el componente que todos olvidan\n\n**Sin premarcos:** la diferencia de temperatura entre la superficie interior del perfil y la pared adyacente puede ser de 8–12°C en invierno. Resultado: condensación en la pared junto a la ventana, moho en las esquinas.\n\n**Con premarcos Blaugelb Triotherm+:** el sistema de instalación crea una barrera continua de material con conductividad térmica de **0,035 W/mK** — similar a la lana mineral. El puente térmico desaparece completamente.\n\n## Coeficientes finales — sistema completo vs componentes separados\n\n| Configuración | Uw [W/m²K] | Conformidad nZEB |\n|---|---|---|\n| Perfil 5 cámaras + doble acristalamiento estándar | 1,8–2,2 | ❌ No |\n| Perfil 6 cámaras + doble Low-E | 1,1–1,3 | ⚠️ En el límite |\n| BluEvolution 92 + triple, instalación estándar | 0,9–1,1 | ✅ Sí, pero pérdidas reales |\n| **BluEvolution 92 + triple + Blaugelb** | **0,72–0,89** | **✅ Sí, rendimiento real** |\n\n## Conclusión\n\nEn [Neofort BIZ](/es/carpinteria-pvc-salamander) suministramos el sistema completo — perfil, acristalamiento, premarcos, herrajes, sellado — con documentación técnica completa y garantía que cubre todo el conjunto.\n\nVer también: [Guía instalación premarcos Blaugelb Triotherm+](/es/blog/instalacion-premarcos-blaugelb-triotherm-nzeb) | [BluEvolution 92 vs GreenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia)",
-      it: "## Perché scegliere un buon profilo non è sufficiente\n\nL'errore più frequente nella sostituzione delle finestre: si sceglie un profilo PVC premium, lo si installa con cemento e schiuma poliuretanica — e il lavoro è considerato fatto. Il risultato: una finestra con Uf certificato di 0,87 W/m²K che nella realtà performa a 1,4–1,6 W/m²K.\n\n**Una finestra non è solo il profilo.** È un sistema di tre componenti:\n\n1. **Il profilo** — Salamander BluEvolution 92 a 6 camere\n2. **Il montaggio** — precontrotelaio Blaugelb Triotherm+ che elimina i ponti termici\n3. **Il vetro** — unità tripla Low-E argon, Ug ≤ 0,6 W/m²K\n\n## Salamander BluEvolution 92 — perché 92 mm è importante\n\nLa profondità di 92 mm del profilo BluEvolution accetta unità vetrate fino a **52 mm** di spessore — permettendo il triplo vetro con camere da 18 mm riempite di argon e rivestimento Low-E su entrambe le superfici interne.\n\n**6 camere di isolamento** su 92 mm raggiungono un coefficiente di telaio Uf di **0,87 W/m²K**. Combinato con il triplo vetro, la finestra finita raggiunge Uw di **0,72–0,89 W/m²K** — ben al di sotto della soglia nZEB di 1,3 W/m²K.\n\n## Triplo vetro Low-E argon\n\nIl pacchetto vetro raccomandato da Neofort BIZ:\n\n- **Struttura:** 4 / 18 Ar / 4 Low-E / 18 Ar / 4 mm\n- **Gas:** Argon al 90% di concentrazione in entrambe le camere\n- **Distanziatore:** Warm-Edge Thermo\n- **Ug risultante:** 0,52–0,58 W/m²K\n\n## Precontrotelaio Blaugelb Triotherm+ — il componente che tutti dimenticano\n\n**Senza precontrotelaio:** la differenza di temperatura tra la superficie interna del profilo e la parete adiacente può essere di 8–12°C in inverno. Risultato: condensa sulla parete accanto alla finestra, muffa negli angoli.\n\n**Con precontrotelaio Blaugelb Triotherm+:** il sistema di montaggio crea una barriera continua in materiale con conduttività termica di **0,035 W/mK** — simile alla lana minerale. Il ponte termico scompare completamente.\n\n## Coefficienti finali — sistema completo vs componenti separati\n\n| Configurazione | Uw [W/m²K] | Conformità nZEB |\n|---|---|---|\n| Profilo 5 camere + doppio vetro standard | 1,8–2,2 | ❌ No |\n| Profilo 6 camere + doppio Low-E | 1,1–1,3 | ⚠️ Al limite |\n| BluEvolution 92 + triplo vetro, montaggio standard | 0,9–1,1 | ✅ Sì, ma perdite reali |\n| **BluEvolution 92 + triplo vetro + Blaugelb** | **0,72–0,89** | **✅ Sì, prestazione reale** |\n\n## Conclusione\n\nDa [Neofort BIZ](/it/infissi-pvc-salamander) forniamo il sistema completo — profilo, vetro, precontrotelaio, ferramenta, sigillatura — con documentazione tecnica completa e garanzia che copre l'intero assemblaggio.\n\nVedi anche: [Guida montaggio precontrotelaio Blaugelb Triotherm+](/it/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb) | [BluEvolution 92 vs GreenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida)",
+      ro: `## De ce un singur component nu e suficient pentru nZEB
+
+Cel mai frecvent mit din piața de tâmplărie din România: "dacă iau profil Salamander BluEvolution 92, am fereastră nZEB". Greșit. Profilul este doar una din cele trei componente ale sistemului complet. Fără precadre Blaugelb Triotherm+ și fără geam triplu Low-E cu argon, nici cel mai bun profil de pe piață nu atinge performanța termică impusă de normele nZEB.
+
+Acest ghid explică exact cum funcționează fiecare componentă, ce valori termice produce și de ce combinarea lor este singura cale corectă spre o fereastră cu adevărat eficientă energetic.
+
+## Componenta 1: Profilul Salamander BluEvolution 92
+
+Salamander BluEvolution 92 este profilul de referință pentru tâmplăria PVC rezidențială în 2026. Cei 92 mm de adâncime a profilului nu sunt un detaliu de marketing — sunt condiția care permite montarea unui pachet de geam de până la 52 mm grosime, adică tocmai geamul triplu cu argon și Low-E.
+
+**Caracteristici tehnice principale:**
+- 6 camere de izolare termică
+- Adâncime profil: 92 mm
+- Coeficient termic cadru (Uf): **0,87 W/m²K**
+- Compatibil pachete geam până la 52 mm
+- Armare oțel galvanizat inclusă standard
+- Disponibil în alb, antracit, gri bazalt și 150+ culori RAL prin laminare
+
+Coeficientul Uf de 0,87 W/m²K înseamnă că profilul în sine este deja sub pragul nZEB de 1,3 W/m²K — dar acesta este doar coeficientul cadrului, nu al ferestrei finite.
+
+## Componenta 2: Precadrele Blaugelb Triotherm+
+
+Precadrele de montaj sunt componenta cel mai des omisă și, paradoxal, una dintre cele mai importante. O fereastră montată fără precadre pierde între 30 și 40% din performanța termică certificată a profilului — din cauza punților termice care se formează la îmbinarea dintre tâmplărie și zid.
+
+**Ce sunt punțile termice?** Zone de contact direct între interiorul cald și exteriorul rece, de obicei la marginea ferestrei, unde betonul sau cărămida scurtcircuitează izolarea. Pe un termometru cu infraroșu, se văd imediat ca zone mai reci pe peretele interior, în jurul ferestrei.
+
+**Cum elimină Blaugelb Triotherm+ punțile termice:**
+- Material cu conductivitate termică extrem de redusă (λ = 0,035 W/mK)
+- Separă fizic cadrul ferestrei de structura zidului
+- Permite montarea ferestrei în planul izolației termice a peretelui
+- Elimină condensul la colțuri și marginile ferestrelor
+
+**Sistemul complet de montaj Blaugelb include:**
+- Precadru Triotherm+ (rupere punte termică)
+- Bandă precomprimată butilică pe exterior (etanșare la apă și vânt)
+- Bandă antivapori pe interior (controlul difuziei vaporilor)
+
+Fără acest sistem tripartit, certificarea nZEB a clădirii nu poate fi obținută conform HG 1336/2022.
+
+## Componenta 3: Geamul triplu Low-E cu argon
+
+Geamul termoizolant reprezintă 70-80% din suprafața ferestrei și are cel mai mare impact asupra performanței termice globale. Un geam triplu Low-E cu argon atinge coeficienți Ug de 0,5-0,7 W/m²K față de 1,0-1,1 W/m²K ale unui geam dublu standard cu argon.
+
+**Structura unui geam triplu performant:**
+- Foaie 1: sticlă float 4 mm
+- Distanțier 1: 16-18 mm, umplut cu argon, warm-edge Swisspacer/Thermix
+- Foaie 2: sticlă cu strat Low-E (emitanță ε < 0,02)
+- Distanțier 2: 16-18 mm, umplut cu argon
+- Foaie 3: sticlă float 4 mm cu al doilea strat Low-E
+
+**Ce face stratul Low-E:** Reflectă radiația infraroșie înapoi în cameră iarna și o respinge afară vara — fără să reducă vizibil transmisia luminii. Emitanța ε < 0,02 înseamnă că mai puțin de 2% din căldura radiantă trece prin strat.
+
+**Distanțierul warm-edge** reduce transferul termic la marginea geamului, eliminând condensul la colțul interior al ferestrei.
+
+## Cum se calculează Uw — coeficientul ferestrei finite
+
+Uw (fereastră finită) se calculează după formula EN ISO 10077-1 și combină:
+- **Uf** — coeficientul cadrului (Salamander BluEvolution 92: 0,87 W/m²K)
+- **Ug** — coeficientul geamului (triplu Low-E argon: 0,5-0,6 W/m²K)
+- **Ψg** — factorul de punte termică la îmbinarea geam-cadru (warm-edge: ~0,04 W/mK)
+
+**Exemplu calcul pentru o fereastră 1200×1200 mm:**
+
+| Component | Valoare |
+|---|---|
+| Uf profil Salamander 92 | 0,87 W/m²K |
+| Ug geam triplu Low-E argon | 0,55 W/m²K |
+| Ψg distanțier warm-edge | 0,04 W/mK |
+| **Uw fereastră finită** | **~0,80 W/m²K** |
+
+Pragul nZEB conform HG 1336/2022 pentru zona climatică București: **Uw ≤ 1,3 W/m²K**. Sistemul complet descris atinge 0,80 W/m²K — cu 38% sub prag.
+
+## De ce contează sistemul, nu componenta individuală
+
+Un exercițiu simplu ilustrează diferența:
+
+**Varianta A — profil bun, montaj slab:**
+- Profil Salamander BluEvolution 92 (Uf 0,87)
+- Geam dublu standard fără argon (Ug 1,4)
+- Montaj clasic fără precadre (punte termică +0,4 W/m²K efectiv)
+- **Uw real: ~1,5 W/m²K** — sub standardul nZEB
+
+**Varianta B — sistemul complet Neofort:**
+- Profil Salamander BluEvolution 92 (Uf 0,87)
+- Geam triplu Low-E argon (Ug 0,55)
+- Montaj cu precadre Blaugelb Triotherm+ (punte termică eliminată)
+- **Uw real: ~0,80 W/m²K** — cu 38% mai bun decât pragul nZEB
+
+Diferența de preț între cele două variante este de 15-25%. Diferența de performanță termică este de aproape 100%.
+
+## Documentație și certificare nZEB
+
+Un furnizor serios livrează odată cu produsele documentația completă necesară pentru certificarea energetică a clădirii:
+
+- Declarație de performanță profil (EN 14351-1)
+- Fișă tehnică geam termoizolant cu Ug certificat de laborator acreditat
+- Calcul punte termică Ψg pentru distanțierul warm-edge
+- Proces-verbal de montaj cu confirmare sistem Blaugelb complet
+
+Fără aceste documente, auditorul energetic nu poate certifica clădirea în clasa A sau A+.
+
+## Concluzie
+
+Sistemul complet nZEB pentru ferestre nu este un produs premium de lux — este soluția corectă pentru orice construcție nouă sau renovare serioasă în 2026. Salamander BluEvolution 92 + precadre Blaugelb Triotherm+ + geam triplu Low-E argon reprezintă combinația care atinge Uw de 0,80 W/m²K, elimină condensul, reduce factura la energie cu 25-35% față de ferestre standard și asigură toată documentația pentru certificarea nZEB.
+
+[Solicită ofertă pentru sistemul complet nZEB](/ro/tamplarie-pvc) — echipa Neofort BIZ configurează soluția potrivită pentru proiectul tău, cu calcul termic inclus și documentație completă.`,
+
+      en: `## Why a single component is not enough for nZEB
+
+The most common myth in Romania's joinery market: "if I get a Salamander BluEvolution 92 profile, I have an nZEB window." Wrong. The profile is just one of three components of the complete system. Without Blaugelb Triotherm+ pre-frames and triple Low-E argon glazing, even the best profile on the market cannot reach the thermal performance required by nZEB standards.
+
+## Component 1: Salamander BluEvolution 92 Profile
+
+Salamander BluEvolution 92 is the reference profile for residential PVC joinery in 2026. The 92 mm profile depth allows installing a glazing unit up to 52 mm thick — precisely the triple glazing with argon and Low-E.
+
+**Main technical characteristics:**
+- 6 thermal insulation chambers
+- Profile depth: 92 mm
+- Frame thermal coefficient (Uf): **0.87 W/m²K**
+- Compatible with glazing units up to 52 mm
+- Galvanised steel reinforcement included as standard
+
+## Component 2: Blaugelb Triotherm+ Pre-frames
+
+A window installed without pre-frames loses between 30 and 40% of the profile's certified thermal performance due to thermal bridges at the wall junction.
+
+**How Blaugelb Triotherm+ eliminates thermal bridges:**
+- Material with extremely low thermal conductivity (λ = 0.035 W/mK)
+- Physically separates the window frame from the wall structure
+- Allows window installation in the plane of the wall's thermal insulation
+- Eliminates condensation at corners and window edges
+
+The complete Blaugelb system includes: Triotherm+ pre-frame, exterior pre-compressed butyl tape, and interior vapour barrier tape. Without this system, nZEB building certification cannot be obtained.
+
+## Component 3: Triple Low-E Argon Glazing
+
+Triple Low-E argon glazing achieves Ug values of 0.5-0.7 W/m²K versus 1.0-1.1 W/m²K for standard double argon glazing — representing 70-80% of the window surface area.
+
+**Example Uw calculation for a 1200×1200 mm window:**
+
+| Component | Value |
+|---|---|
+| Uf Salamander 92 profile | 0.87 W/m²K |
+| Ug triple Low-E argon glazing | 0.55 W/m²K |
+| Ψg warm-edge spacer | 0.04 W/mK |
+| **Uw finished window** | **~0.80 W/m²K** |
+
+nZEB threshold for Bucharest: **Uw ≤ 1.3 W/m²K**. The complete system achieves 0.80 W/m²K — 38% below the threshold.
+
+## Conclusion
+
+Salamander BluEvolution 92 + Blaugelb Triotherm+ pre-frames + triple Low-E argon glazing: the combination that achieves Uw of 0.80 W/m²K, eliminates condensation and provides complete nZEB documentation.
+
+[Request a quote for the complete nZEB system](/en/pvc-windows) — the Neofort BIZ team configures the right solution for your project, with thermal calculation and complete documentation included.`,
+
+      de: `## Warum eine einzelne Komponente für nZEB nicht ausreicht
+
+Das komplette nZEB-System besteht aus drei untrennbaren Komponenten: Salamander BluEvolution 92 Profil, Blaugelb Triotherm+ Vorblendrahmen und Dreifach-Low-E-Argon-Verglasung. Nur ihre Kombination erreicht die geforderte Wärmeleistung.
+
+## Komponente 1: Salamander BluEvolution 92
+
+- 6 Wärmedämmkammern, Profiltiefe 92 mm
+- Uf: **0,87 W/m²K**
+- Kompatibel mit Glaspaketen bis 52 mm
+
+## Komponente 2: Blaugelb Triotherm+ Vorblendrahmen
+
+Ohne Vorblendrahmen verliert ein Fenster 30-40% seiner zertifizierten Wärmeleistung durch Wärmebrücken. Blaugelb Triotherm+ (λ = 0,035 W/mK) trennt den Rahmen physisch von der Wand und eliminiert Kondensat.
+
+## Komponente 3: Dreifach-Low-E-Argon-Verglasung
+
+Ug von 0,5-0,7 W/m²K — gegenüber 1,0-1,1 W/m²K beim Standard-Doppelglas mit Argon.
+
+**Ergebnis für ein 1200×1200 mm Fenster: Uw ~0,80 W/m²K** — 38% unter dem nZEB-Grenzwert von 1,3 W/m²K.
+
+[Angebot anfordern](/de/kunststofffenster-pvc) — vollständige Wärmeberechnung und nZEB-Dokumentation inklusive.`,
+
+      fr: `## Pourquoi un seul composant ne suffit pas pour le nZEB
+
+Le système nZEB complet comprend trois composants indissociables : profilé Salamander BluEvolution 92, précadres Blaugelb Triotherm+ et triple vitrage Low-E argon. Seule leur combinaison atteint les performances thermiques requises.
+
+## Composant 1 : Profilé Salamander BluEvolution 92
+
+- 6 chambres d'isolation thermique, profondeur 92 mm
+- Uf : **0,87 W/m²K**
+- Compatible avec des vitrages jusqu'à 52 mm
+
+## Composant 2 : Précadres Blaugelb Triotherm+
+
+Sans précadres, une fenêtre perd 30 à 40% de ses performances certifiées à cause des ponts thermiques. Blaugelb Triotherm+ (λ = 0,035 W/mK) sépare physiquement le cadre du mur et élimine la condensation.
+
+## Composant 3 : Triple vitrage Low-E argon
+
+Ug de 0,5 à 0,7 W/m²K — contre 1,0 à 1,1 W/m²K pour un double vitrage standard avec argon.
+
+**Résultat pour une fenêtre 1200×1200 mm : Uw ~0,80 W/m²K** — 38% en dessous du seuil nZEB de 1,3 W/m²K.
+
+[Demander un devis](/fr/menuiserie-pvc) — calcul thermique et documentation nZEB inclus.`,
+
+      es: `## Por qué un solo componente no es suficiente para nZEB
+
+El sistema nZEB completo consta de tres componentes inseparables: perfil Salamander BluEvolution 92, precuadros Blaugelb Triotherm+ y triple acristalamiento Low-E argón. Solo su combinación alcanza el rendimiento térmico requerido.
+
+## Componente 1: Perfil Salamander BluEvolution 92
+
+- 6 cámaras de aislamiento térmico, profundidad 92 mm
+- Uf: **0,87 W/m²K**
+- Compatible con paquetes de vidrio hasta 52 mm
+
+## Componente 2: Precuadros Blaugelb Triotherm+
+
+Sin precuadros, una ventana pierde entre el 30 y el 40% de sus prestaciones certificadas por puentes térmicos. Blaugelb Triotherm+ (λ = 0,035 W/mK) separa físicamente el marco del muro y elimina la condensación.
+
+## Componente 3: Triple acristalamiento Low-E argón
+
+Ug de 0,5-0,7 W/m²K — frente a 1,0-1,1 W/m²K del doble estándar con argón.
+
+**Resultado para una ventana 1200×1200 mm: Uw ~0,80 W/m²K** — un 38% por debajo del umbral nZEB de 1,3 W/m²K.
+
+[Solicitar presupuesto](/es/carpinteria-pvc) — cálculo térmico y documentación nZEB incluidos.`,
+
+      it: `## Perché un solo componente non è sufficiente per nZEB
+
+Il sistema nZEB completo è composto da tre componenti inscindibili: profilo Salamander BluEvolution 92, precornici Blaugelb Triotherm+ e triplo vetro Low-E argon. Solo la loro combinazione raggiunge le prestazioni termiche richieste.
+
+## Componente 1: Profilo Salamander BluEvolution 92
+
+- 6 camere di isolamento termico, profondità 92 mm
+- Uf: **0,87 W/m²K**
+- Compatibile con pacchi vetro fino a 52 mm
+
+## Componente 2: Precornici Blaugelb Triotherm+
+
+Senza precornici, una finestra perde il 30-40% delle prestazioni certificate per via dei ponti termici. Blaugelb Triotherm+ (λ = 0,035 W/mK) separa fisicamente il telaio dal muro ed elimina la condensa.
+
+## Componente 3: Triplo vetro Low-E argon
+
+Ug di 0,5-0,7 W/m²K — contro 1,0-1,1 W/m²K del doppio standard con argon.
+
+**Risultato per una finestra 1200×1200 mm: Uw ~0,80 W/m²K** — il 38% al di sotto della soglia nZEB di 1,3 W/m²K.
+
+[Richiedi un preventivo](/it/falegnameria-pvc) — calcolo termico e documentazione nZEB inclusi.`,
     },
   },
   {

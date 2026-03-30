@@ -254,62 +254,13 @@ export const routing = defineRouting({
       es: '/blog/cierre-balcon-terraza-carpinteria-aluminio-bucarest-2026',
       it: '/blog/chiusura-balcone-terrazza-infissi-alluminio-bucarest-2026',
     },
-    '/blog/vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti': {
-      ro: '/blog/vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti',
-      en: '/blog/glass-shopfronts-panoramic-large-format-tempered-windows-bucharest',
-      de: '/blog/schaufenster-panoramascheiben-grosse-abmessungen-sicherheitsglas-bukarest',
-      fr: '/blog/vitrines-verre-fenetres-panoramiques-grandes-dimensions-securisees-bucarest',
-      es: '/blog/vitrinas-cristal-ventanas-panoramicas-grandes-dimensiones-securizadas-bucarest',
-      it: '/blog/vetrine-vetro-finestre-panoramiche-grandi-dimensioni-securizzate-bucarest',
-    },
-    '/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni': {
-      ro: '/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
-      en: '/blog/oversized-glass-installation-robot-vacuum-cups-large-panels',
-      de: '/blog/montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat',
-      fr: '/blog/pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
-      es: '/blog/instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
-      it: '/blog/posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
-    },
-    '/blog/tamplarie-aluminiu-pereti-cortina-fatade-sticla-lucrari-bucuresti': {
-      ro: '/blog/tamplarie-aluminiu-pereti-cortina-fatade-sticla-lucrari-bucuresti',
-      en: '/blog/aluminium-joinery-curtain-walls-glass-facades-projects-bucharest',
-      de: '/blog/aluminiumtischlerarbeiten-vorhangfassaden-glasfassaden-projekte-bukarest',
-      fr: '/blog/menuiserie-aluminium-murs-rideaux-facades-verre-projets-bucarest',
-      es: '/blog/carpinteria-aluminio-muros-cortina-fachadas-vidrio-proyectos-bucarest',
-      it: '/blog/infissi-alluminio-pareti-cortina-facciate-vetro-progetti-bucarest',
-    },
-    '/blog/tamplarie-aluminiu-reynaers-bloc-nou-construit-bucuresti': {
-      ro: '/blog/tamplarie-aluminiu-reynaers-bloc-nou-construit-bucuresti',
-      en: '/blog/reynaers-aluminium-windows-new-residential-block-bucharest',
-      de: '/blog/reynaers-aluminiumfenster-neubau-wohnblock-bukarest',
-      fr: '/blog/menuiserie-aluminium-reynaers-immeuble-neuf-bucarest',
-      es: '/blog/carpinteria-aluminio-reynaers-bloque-nueva-construccion-bucarest',
-      it: '/blog/infissi-alluminio-reynaers-condominio-nuova-costruzione-bucarest',
-    },
-    '/blog/salamander-bluevolution-92-casa-noua-smart-home-bucuresti': {
-      ro: '/blog/salamander-bluevolution-92-casa-noua-smart-home-bucuresti',
-      en: '/blog/salamander-bluevolution-92-new-house-smart-home-bucharest',
-      de: '/blog/salamander-bluevolution-92-neubau-smart-home-bukarest',
-      fr: '/blog/salamander-bluevolution-92-maison-neuve-maison-intelligente-bucarest',
-      es: '/blog/salamander-bluevolution-92-casa-nueva-smart-home-bucarest',
-      it: '/blog/salamander-bluevolution-92-casa-nuova-smart-home-bucarest',
-    },
-    '/blog/salamander-bluevolution-92-alu-placat-aluminiu-export-franta-casa-munte': {
-      ro: '/blog/salamander-bluevolution-92-alu-placat-aluminiu-export-franta-casa-munte',
-      en: '/blog/salamander-bluevolution-92-alu-aluminium-clad-export-france-mountain-house',
-      de: '/blog/salamander-bluevolution-92-alu-aluminiumverkleidung-export-frankreich-berghaus',
-      fr: '/blog/salamander-bluevolution-92-alu-revetu-aluminium-export-france-maison-montagne',
-      es: '/blog/salamander-bluevolution-92-alu-revestido-aluminio-exportacion-francia-casa-montana',
-      it: '/blog/salamander-bluevolution-92-alu-rivestito-alluminio-esportazione-francia-casa-montagna',
-    },
-    '/blog/inlocuire-ferestre-vechi-renovare-apartament-bucuresti': {
-      ro: '/blog/inlocuire-ferestre-vechi-renovare-apartament-bucuresti',
-      en: '/blog/replacing-old-windows-apartment-renovation-bucharest',
-      de: '/blog/alte-fenster-ersetzen-wohnungsrenovierung-bukarest',
-      fr: '/blog/remplacement-fenetres-renovation-appartement-bucarest',
-      es: '/blog/sustitucion-ventanas-renovacion-apartamento-bucarest',
-      it: '/blog/sostituzione-finestre-ristrutturazione-appartamento-bucarest',
-    },
+
+
+
+
+
+
+
     '/blog/tamplarie-salamander-case-individuale-vile-export-europa': {
       ro: '/blog/tamplarie-salamander-case-individuale-vile-export-europa',
       en: '/blog/salamander-windows-individual-houses-villas-europe-export',
@@ -639,13 +590,13 @@ export const routing = defineRouting({
     },
 
 
-    '/blog/sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu': {
-      ro: '/blog/sistem-complet-nzeb-salamander-bluevolution-92-precadre-blaugelb-geam-triplu',
-      en: '/blog/complete-nzeb-system-salamander-bluevolution-92-blaugelb-precasing-triple-glazing',
-      de: '/blog/komplettes-nzeb-system-salamander-bluevolution-92-blaugelb-vorfenster-dreifachverglasung',
-      fr: '/blog/systeme-nzeb-complet-salamander-bluevolution-92-precadres-blaugelb-triple-vitrage',
-      es: '/blog/sistema-nzeb-completo-salamander-bluevolution-92-premarcos-blaugelb-triple-acristalamiento',
-      it: '/blog/sistema-nzeb-completo-salamander-bluevolution-92-precontrotelaio-blaugelb-triplo-vetro',
+    '/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu': {
+      ro: '/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu',
+      en: '/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing',
+      de: '/blog/komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung',
+      fr: '/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage',
+      es: '/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento',
+      it: '/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro',
     },
   // PILLAR PAGES
   }
