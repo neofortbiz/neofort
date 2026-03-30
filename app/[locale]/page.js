@@ -64,8 +64,6 @@ const CONTENT = {
       { q:'Ce sunt precadrele Blaugelb Triotherm+ și de ce sunt importante?', a:'Precadrele Blaugelb Triotherm+ sunt sisteme de montaj care elimină punțile termice dintre tâmplărie și perete. Utilizarea lor este obligatorie pentru certificarea nZEB și asigură o izolație termică și fonică superioară față de montajul clasic.' },
       { q:'Care este programul de lucru Neofort BIZ?', a:'Programul de lucru este Luni–Vineri 10:00–18:00. Sâmbătă și Duminică suntem închiși. Ne puteți contacta și pe WhatsApp la +40 752 443 435.' },
     ],
-    seo_bridge: 'Solicitați o ofertă de preț pentru Tâmplărie PVC Salamander sau Tâmplărie Aluminiu Alumil — București & Europa',
-    seo_link: 'ofertă de preț',
   },
 
   en: {
@@ -127,8 +125,6 @@ const CONTENT = {
       { q:'What are Blaugelb Triotherm+ precasings and why are they important?', a:'Blaugelb Triotherm+ precasings are installation systems that eliminate thermal bridges between the window and the wall. Their use is mandatory for nZEB certification and ensures superior thermal and acoustic insulation compared to conventional installation.' },
       { q:'What are the opening hours of Neofort BIZ?', a:'Opening hours are Monday–Friday 10:00–18:00. Saturday and Sunday we are closed. You can also contact us on WhatsApp at +40 752 443 435.' },
     ],
-    seo_bridge: 'Request a price quote for PVC Salamander or Aluminium Alumil Windows — Bucharest & Europe',
-    seo_link: 'price quote',
   },
 
   de: {
@@ -190,8 +186,6 @@ const CONTENT = {
       { q:'Was sind Blaugelb Triotherm+ Vorfenster und warum sind sie wichtig?', a:'Blaugelb Triotherm+ Vorfenster sind Montagesysteme, die Wärmebrücken zwischen Fenster und Wand eliminieren. Ihre Verwendung ist für die nZEB-Zertifizierung obligatorisch und gewährleistet eine überlegene Wärme- und Schalldämmung gegenüber der konventionellen Montage.' },
       { q:'Was sind die Öffnungszeiten von Neofort BIZ?', a:'Öffnungszeiten: Montag–Freitag 10:00–18:00 Uhr. Samstag und Sonntag geschlossen. Sie erreichen uns auch per WhatsApp unter +40 752 443 435.' },
     ],
-    seo_bridge: 'Fordern Sie ein Preisangebot für Salamander Kunststoff- oder Alumil Aluminiumfenster an — Bukarest & Europa',
-    seo_link: 'Preisangebot',
   },
 
   fr: {
@@ -253,8 +247,6 @@ const CONTENT = {
       { q:'Que sont les précadres Blaugelb Triotherm+ et pourquoi sont-ils importants ?', a:'Les précadres Blaugelb Triotherm+ sont des systèmes de pose qui éliminent les ponts thermiques entre la menuiserie et le mur. Leur utilisation est obligatoire pour la certification nZEB et garantit une isolation thermique et acoustique supérieure à la pose classique.' },
       { q:'Quels sont les horaires d\'ouverture de Neofort BIZ ?', a:'Horaires : Lundi–Vendredi 10h00–18h00. Samedi et Dimanche fermé. Vous pouvez également nous contacter sur WhatsApp au +40 752 443 435.' },
     ],
-    seo_bridge: 'Demandez un devis pour menuiserie PVC Salamander ou Aluminium Alumil — Bucarest & Europe',
-    seo_link: 'devis',
   },
 
   es: {
@@ -316,8 +308,6 @@ const CONTENT = {
       { q:'¿Qué son los premarcos Blaugelb Triotherm+ y por qué son importantes?', a:'Los premarcos Blaugelb Triotherm+ son sistemas de instalación que eliminan los puentes térmicos entre la carpintería y el muro. Su uso es obligatorio para la certificación nZEB y garantiza un aislamiento térmico y acústico superior al de la instalación convencional.' },
       { q:'¿Cuál es el horario de atención de Neofort BIZ?', a:'Horario: Lunes–Viernes 10:00–18:00. Sábado y Domingo cerrado. También puede contactarnos por WhatsApp en el +40 752 443 435.' },
     ],
-    seo_bridge: 'Solicite un presupuesto para carpintería PVC Salamander o Aluminio Alumil — Bucarest & Europa',
-    seo_link: 'presupuesto',
   },
 
   it: {
@@ -379,8 +369,6 @@ const CONTENT = {
       { q:'Cosa sono le precontrotelaio Blaugelb Triotherm+ e perché sono importanti?', a:'Le precontrotelaio Blaugelb Triotherm+ sono sistemi di montaggio che eliminano i ponti termici tra l\'infisso e la parete. Il loro utilizzo è obbligatorio per la certificazione nZEB e garantisce un isolamento termico e acustico superiore rispetto alla posa convenzionale.' },
       { q:'Quali sono gli orari di apertura di Neofort BIZ?', a:'Orari: Lunedì–Venerdì 10:00–18:00. Sabato e Domenica chiuso. Potete contattarci anche su WhatsApp al +40 752 443 435.' },
     ],
-    seo_bridge: 'Richiedete un preventivo per infissi PVC Salamander o Alluminio Alumil — Bucarest & Europa',
-    seo_link: 'preventivo',
   },
 };
 
@@ -405,9 +393,9 @@ export async function generateMetadata({ params }) {
       type:'website', locale: { ro:'ro_RO', en:'en_US', de:'de_DE', fr:'fr_FR', es:'es_ES', it:'it_IT' }[locale] || 'ro_RO',
       url:`${BASE}/${locale}`, siteName:'Neofort BIZ',
       title: c.title, description: c.desc,
-      images:[{ url:`${BASE}/og/Fabrica_Neofort.avif`, width:1200, height:630, alt: locale==='ro' ? 'Tâmplărie PVC Salamander și aluminiu Alumil — Neofort BIZ furnizor' : locale==='en' ? 'PVC Salamander and aluminium Alumil windows — Neofort BIZ supplier' : locale==='de' ? 'Salamander PVC- und Alumil Aluminiumfenster — Neofort BIZ Händler' : locale==='fr' ? 'Menuiserie PVC Salamander et aluminium Alumil — Neofort BIZ fournisseur' : locale==='es' ? 'Carpintería PVC Salamander y aluminio Alumil — Neofort BIZ proveedor' : 'Infissi PVC Salamander e alluminio Alumil — Neofort BIZ fornitore', type:'image/avif' }],
+      images:[{ url:`${BASE}/og/Fabrica_Neofort.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Tâmplărie PVC Salamander și aluminiu Alumil — Neofort BIZ furnizor' : locale==='en' ? 'PVC Salamander and aluminium Alumil windows — Neofort BIZ supplier' : locale==='de' ? 'Salamander PVC- und Alumil Aluminiumfenster — Neofort BIZ Händler' : locale==='fr' ? 'Menuiserie PVC Salamander et aluminium Alumil — Neofort BIZ fournisseur' : locale==='es' ? 'Carpintería PVC Salamander y aluminio Alumil — Neofort BIZ proveedor' : 'Infissi PVC Salamander e alluminio Alumil — Neofort BIZ fornitore', type:'image/jpeg' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ', title:c.title, description:c.desc, images:[`${BASE}/og/Fabrica_Neofort.avif`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ', title:c.title, description:c.desc, images:[`${BASE}/og/Fabrica_Neofort.jpg`] },
   };
 }
 
@@ -415,7 +403,7 @@ export async function generateMetadata({ params }) {
 const buildSchema = (locale, c) => ({
   "@context":"https://schema.org","@graph":[
     { "@type":"WebSite","@id":`${BASE}/#website`,"url":BASE,"name":"Neofort BIZ","inLanguage":locale,"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":`${BASE}/ro/blog?q={search_term_string}`},"query-input":"required name=search_term_string"} },
-    { "@type":"Organization","@id":`${BASE}/#organization`,"name":"Neofort BIZ","alternateName":["NEOFORT PVC & ALUMINUM JOINERY","Neofort BIZ SRL"],"url":BASE,"logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":512,"height":512},"foundingDate":"2003","email":"oferte@neofort-biz.ro","telephone":["+40215280661","+40752443435"],"sameAs":["https://www.facebook.com/neofortconstructii","https://www.linkedin.com/company/neofort-biz","https://x.com/NeofortBIZ","https://maps.app.goo.gl/dvbPRmMwAroCPfSC8"],"address":{"@type":"PostalAddress","streetAddress":"Str. Theodor Aman Pictor 11","addressLocality":"București","addressRegion":"Sector 1","postalCode":"010776","addressCountry":"RO"} },
+    { "@type":"Organization","@id":`${BASE}/#organization`,"name":"Neofort BIZ","alternateName":["NEOFORT PVC & ALUMINUM JOINERY","Neofort BIZ SRL"],"url":BASE,"logo":{"@type":"ImageObject","url":`${BASE}/Neofort.jpg`,"width":512,"height":512},"foundingDate":"2003","email":"oferte@neofort-biz.ro","telephone":["+40215280661","+40752443435"],"sameAs":["https://www.facebook.com/neofortconstructii","https://www.linkedin.com/company/neofort-biz","https://x.com/NeofortBIZ","https://maps.app.goo.gl/dvbPRmMwAroCPfSC8"],"address":{"@type":"PostalAddress","streetAddress":"Str. Theodor Aman Pictor 11","addressLocality":"București","addressRegion":"Sector 1","postalCode":"010776","addressCountry":"RO"} },
     { "@type":["LocalBusiness","HomeAndConstructionBusiness","ConstructionBusiness","ProfessionalService"],"@id":`${BASE}/#localbusiness`,"name":"Neofort BIZ SRL","legalName":"NEOFORT BIZ SRL","alternateName":["Neofort BIZ","Neofort BIZ Tâmplărie PVC Aluminiu"],"slogan":"Tâmplărie PVC Salamander & Aluminiu Alumil — nZEB, București","vatID":"RO30324211","taxID":"RO30324211","leiCode":"J40/6928/2012","identifier":{"@type":"PropertyValue","name":"EUID","value":"ROONRC.J40/6928/2012"},"url":BASE,"telephone":["+40215280661","+40752443435","+40752443439"],"email":"oferte@neofort-biz.ro","priceRange":"$$","currenciesAccepted":"RON, EUR","paymentAccepted":"Cash, Bank Transfer, Card","address":{"@type":"PostalAddress","streetAddress":"Str. Theodor Aman Pictor 11","addressLocality":"București","addressRegion":"Sector 1","postalCode":"010776","addressCountry":"RO"},"geo":{"@type":"GeoCoordinates","latitude":44.4429398,"longitude":26.0859381},"hasMap":"https://maps.app.goo.gl/dvbPRmMwAroCPfSC8","aggregateRating":{"@type":"AggregateRating","ratingValue":"4.9","reviewCount":"46","bestRating":"5","worstRating":"1"},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday"],"opens":"10:00","closes":"18:00"}],"areaServed":[{"@type":"City","name":"București"},{"@type":"AdministrativeArea","name":"Ilfov"},{"@type":"AdministrativeArea","name":"Sector 1, București"},{"@type":"AdministrativeArea","name":"Sector 2, București"},{"@type":"AdministrativeArea","name":"Sector 3, București"},{"@type":"Country","name":"Romania"},{"@type":"Continent","name":"Europe"}],"knowsLanguage":["ro","en","de","fr","es","it"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Tâmplărie PVC Salamander & Aluminiu Alumil","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Profile PVC Salamander BluEvolution 92"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Sisteme Aluminiu Alumil S77 Supreme"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Geam Termoizolator Saint-Gobain SGG"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Rulouri Exterioare Aluminiu"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Jaluzele Venețiene Raffstore"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Zipscreen Terase"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tâmplărie Aluminiu Alumil Supreme SF85"}}]},"description":"Neofort BIZ SRL este furnizor specializat exclusiv în tâmplărie PVC Salamander, tâmplărie aluminiu Alumil, sisteme de umbrire (rulouri exterioare, jaluzele raffstore, zipscreen) și sisteme nZEB pentru construcții rezidențiale și comerciale. Nu activăm în domeniul imobiliar sau al tranzacțiilor de proprietăți.","disambiguatingDescription":"Neofort BIZ (neofort-biz.ro) este distinct de entitatea Neofort din domeniul imobiliar. Neofort BIZ SRL activează exclusiv în producția și montajul de tâmplărie PVC, aluminiu și sisteme de umbrire.","knowsAbout":["Tâmplărie PVC Salamander","Profile PVC BluEvolution 92","Profile PVC GreenEvolution 76","Tâmplărie Aluminiu Alumil","Sisteme umbrire exterioare","Rulouri exterioare aluminiu","Jaluzele raffstore","Zipscreen","Sisteme nZEB","Geam termoizolator Saint-Gobain","Montaj tâmplărie București","nZEB Nearly Zero Energy Building","Passive House","Warm Edge distanțier termic","Ventilație higroreglabilă Aereco"],"isNotRelatedTo":"Servicii imobiliare, tranzacții proprietăți, Real Estate","parentOrganization":{"@id":`${BASE}/#organization`} },
     { "@type":"Service","@id":`${BASE}/#service-tamplarie`,"name":"Montaj Tâmplărie PVC și Aluminiu","serviceType":"Window and Door Installation","provider":{"@id":`${BASE}/#localbusiness`},"areaServed":{"@type":"City","name":"București"},"description":"Furnizare și montaj profesional de tâmplărie PVC Salamander (BluEvolution 92, GreenEvolution 76) și aluminiu Alumil (S77 Supreme, S67 Smartia, SF85), sisteme de umbrire exterioare și soluții nZEB. Activitate exclusiv în construcții și renovări. Nu activăm în imobiliare.","category":["Tâmplărie PVC","Tâmplărie Aluminiu","Sisteme Umbrire","nZEB","Construcții Rezidențiale"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Servicii Tâmplărie","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Montaj Profile PVC Salamander BluEvolution 92 — nZEB"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Montaj Profile PVC Salamander GreenEvolution 76"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Montaj Tâmplărie Aluminiu Alumil S77 Supreme"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Rulouri Exterioare Aluminiu Motoricizate"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Jaluzele Raffstore și Zipscreen"}}]} },
     { "@type":"WebPage","@id":`${BASE}/${locale}/#webpage`,"url":`${BASE}/${locale}`,"name":c.title,"isPartOf":{"@id":`${BASE}/#website`},"inLanguage":locale,"dateModified":new Date().toISOString().split('T')[0],"speakable":{"@type":"SpeakableSpecification","cssSelector":["h1","h2",".speakable-intro",".speakable-stats",".speakable-faq",".speakable-about"]} },

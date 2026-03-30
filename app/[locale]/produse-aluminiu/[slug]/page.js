@@ -402,9 +402,9 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type:'website', url:`${BASE}/${locale}/${(PALU_SEG[locale]||'produse-aluminiu')}/${localSlug}`,
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
-      images:[{ url:`${BASE}${product.img}`, width:800, height:600, alt:name }],
+      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600, alt:name, type:'image/jpeg' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:`${name} · Neofort BIZ`, description: desc, images:[{ url:`${BASE}${product.img}`, width:800, height:600 }] }, };
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:`${name} · Neofort BIZ`, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600 }] }, };
 }
 
 // ─── PAGE ─────────────────────────────────────────────────────────────────────

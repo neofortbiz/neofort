@@ -69,8 +69,8 @@ export async function generateMetadata({ params }) {
       canonical: `${BASE}/${locale}/${slug}`,
       languages: Object.fromEntries([...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]), ['x-default', `${BASE}/ro/${SLUGS.ro}`]]),
     },
-    openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images: [{ url:`${BASE}/og/nZEB.avif`, width:1200, height:630, alt: locale==='ro' ? 'Sisteme nZEB — ferestre pentru clădiri cu consum de energie aproape zero' : locale==='en' ? 'nZEB systems — windows for nearly zero energy buildings' : locale==='de' ? 'nZEB-Systeme — Fenster für Niedrigstenergiegebäude' : locale==='fr' ? 'Systèmes nZEB — fenêtres pour bâtiments à énergie quasi nulle' : locale==='es' ? 'Sistemas nZEB — ventanas para edificios de consumo casi nulo' : 'Sistemi nZEB — finestre per edifici a energia quasi zero', type:'image/avif' }] },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og/nZEB.avif`] },
+    openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images: [{ url:`${BASE}/og/nZEB.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Sisteme nZEB — ferestre pentru clădiri cu consum de energie aproape zero' : locale==='en' ? 'nZEB systems — windows for nearly zero energy buildings' : locale==='de' ? 'nZEB-Systeme — Fenster für Niedrigstenergiegebäude' : locale==='fr' ? 'Systèmes nZEB — fenêtres pour bâtiments à énergie quasi nulle' : locale==='es' ? 'Sistemas nZEB — ventanas para edificios de consumo casi nulo' : 'Sistemi nZEB — finestre per edifici a energia quasi zero', type:'image/jpeg' }] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og/nZEB.jpg`] },
 };
 }
 

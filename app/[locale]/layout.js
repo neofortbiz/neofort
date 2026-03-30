@@ -38,10 +38,13 @@ export async function generateMetadata({ params }) {
     twitter: { card: 'summary_large_image', site: '@NeofortBIZ' },
     openGraph: {
       siteName: 'Neofort BIZ - Tâmplărie PVC & Aluminiu',
-      images: [{ url: 'https://www.neofort-biz.ro/og/Fabrica_Neofort.avif', width: 1200, height: 630, type: 'image/avif' }],
+      images: [
+        { url: 'https://www.neofort-biz.ro/og-neofort.jpg', width: 1200, height: 630, type: 'image/jpeg' },
+        { url: 'https://www.neofort-biz.ro/og/Fabrica_Neofort.avif', width: 1200, height: 630, type: 'image/avif' },
+      ],
       locale: locale,
     },
-    robots: { index: true, follow: true },
+    robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 } },
   };
 }
 
@@ -64,12 +67,6 @@ export default async function LocaleLayout({ children, params }) {
         <link rel="preconnect" href="https://www.google-analytics.com" />
         <link rel="dns-prefetch" href="https://www.google-analytics.com" />
 
-        {/* hreflang */}
-        {locales.map(l => (
-          <link key={l} rel="alternate" hrefLang={l} href={`${baseUrl}/${l}`} />
-        ))}
-        <link rel="alternate" hrefLang="x-default" href={`${baseUrl}/ro`} />
-
         {/* Viewport */}
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -80,8 +77,7 @@ export default async function LocaleLayout({ children, params }) {
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
         {/* AI Crawler hints */}
-        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-        <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1" />
+        <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="bingbot" content="index, follow" />
 
         {/* Theme */}
@@ -95,40 +91,12 @@ export default async function LocaleLayout({ children, params }) {
         <meta name="geo.position" content="44.4429398;26.0859381" />
         <meta name="ICBM" content="44.4429398, 26.0859381" />
 
-        {/* Robots */}
-        <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
-
         {/* OG locale:alternate */}
         {locales.filter(l => l !== locale).map(l => (
           <meta key={`og-alt-${l}`} property="og:locale:alternate" content={l} />
         ))}
       </head>
       <body>
-        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-          "@context": "https://schema.org",
-          "@type": "Organization",
-          "@id": "https://www.neofort-biz.ro/#organization",
-          "name": "Neofort BIZ",
-          "alternateName": "NEOFORT PVC & ALUMINUM JOINERY",
-          "url": "https://www.neofort-biz.ro",
-          "logo": { "@type": "ImageObject", "url": "https://www.neofort-biz.ro/Neofort.avif", "width": 512, "height": 512 },
-          "foundingDate": "2003",
-          "email": "oferte@neofort-biz.ro",
-          "telephone": ["+40215280661", "+40752443435"],
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "Strada Theodor Aman 11",
-            "addressLocality": "București",
-            "addressRegion": "Sector 1",
-            "postalCode": "010776",
-            "addressCountry": "RO"
-          },
-          "sameAs": [
-            "https://www.facebook.com/neofortconstructii",
-            "https://www.linkedin.com/company/neofort-biz",
-            "https://x.com/NeofortBIZ"
-          ]
-        }) }}/>
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main>{children}</main>

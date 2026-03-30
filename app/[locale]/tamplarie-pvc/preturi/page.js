@@ -300,7 +300,7 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type: 'article', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
       title: ui.h1, description: ui.sub,
-      images: [{ url: `${BASE}/og/Tamplarie_PVC_Salamander.avif`, width: 1200, height: 630, alt: ui.h1, type: 'image/avif' }],
+      images: [{ url: `${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width: 1200, height: 630, alt: ui.h1, type: 'image/avif' }],
     },
   };
 }
@@ -325,7 +325,7 @@ export default async function PreturiPvcPage({ params }) {
         { '@type': 'ListItem', position: 3, name: ui.h1, item: `${BASE}/${locale}/${slug}` },
       ],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:ui.h1, description:ui.sub, images:[`${BASE}/og/Tamplarie_PVC_Salamander.avif`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:ui.h1, description:ui.sub, images:[`${BASE}/og/Tamplarie_PVC_Salamander.jpg`] },
   };
 
   const faqSchema = {

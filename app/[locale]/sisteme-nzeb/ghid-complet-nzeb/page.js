@@ -337,8 +337,8 @@ export async function generateMetadata({ params }) {
         'x-default': `${BASE}/ro/${SLUGS.ro}`,
       },
     },
-    openGraph: { type: 'article', url: canonical, title: ui.h1, description: ui.sub, siteName: 'Neofort BIZ', images: [{ url: `${BASE}/og/Sisteme_NZEB.avif`, width: 1200, height: 630, type: 'image/avif' }] },
-    twitter: { card: 'summary_large_image', site: '@NeofortBIZ', title: ui.h1, description: ui.sub, images: [`${BASE}/og/Sisteme_NZEB.avif`] },
+    openGraph: { type: 'article', url: canonical, title: ui.h1, description: ui.sub, siteName: 'Neofort BIZ', images: [{ url: `${BASE}/og/nZEB.jpg`, width: 1200, height: 630, type: 'image/avif' }] },
+    twitter: { card: 'summary_large_image', site: '@NeofortBIZ', title: ui.h1, description: ui.sub, images: [`${BASE}/og/nZEB.jpg`] },
   };
 }
 

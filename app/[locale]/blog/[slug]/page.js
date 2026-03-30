@@ -43,12 +43,12 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: `${title} | Neofort BIZ`,
       description: desc,
-      images: [{ url: a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`, width: 1200, height: 630, alt: title, type: a.image?.[locale] ? 'image/jpeg' : 'image/avif' }],
+      images: [{ url: a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`, width: 1200, height: 630, alt: title, type: a.image?.[locale] ? (a.image[locale].endsWith('.jpg') ? 'image/jpeg' : 'image/avif') : 'image/jpeg' }],
       publishedTime: a.date,
       modifiedTime: a.date,
       locale: locale,
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`] },
   };
 }
 
@@ -198,7 +198,7 @@ export default async function BlogArticlePage({ params }) {
     "name": title,
     "description": a.metaDesc?.[locale] || excerpt,
     "embedUrl": a.video.embed.match(/src="([^"]+)"/)?.[1] || '',
-    "thumbnailUrl": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`,
+    "thumbnailUrl": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`,
     "uploadDate": a.date,
     "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
   } : null;
@@ -211,8 +211,8 @@ export default async function BlogArticlePage({ params }) {
     "articleSection": cat,
     "author": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
     "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE,
-      "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":200,"height":60}},
-    "image": {"@type":"ImageObject","url": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`,"width":1200,"height":630},
+      "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.jpg`,"width":200,"height":60}},
+    "image": {"@type":"ImageObject","url": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`,"width":1200,"height":630},
     "mainEntityOfPage": {"@type":"WebPage","@id":`${BASE}/${locale}/blog/${mySlug}`},
   };
 

@@ -226,9 +226,9 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: t('title'),
       description: t('description'),
-      images: [{ url:`${BASE}/og/Contact_Neofort.avif`, width:1200, height:630, alt: locale==='ro' ? 'Contact Neofort BIZ — solicitați ofertă tâmplărie PVC și aluminiu, București' : locale==='en' ? 'Contact Neofort BIZ — request quote for PVC and aluminium windows, Bucharest' : locale==='de' ? 'Kontakt Neofort BIZ — Angebot PVC- und Aluminiumfenster, Bukarest' : locale==='fr' ? 'Contact Neofort BIZ — demandez devis menuiseries PVC et aluminium, Bucarest' : locale==='es' ? 'Contacto Neofort BIZ — solicite presupuesto carpintería PVC y aluminio, Bucarest' : 'Contatti Neofort BIZ — preventivo infissi PVC e alluminio, Bucarest', type:'image/avif' }],
+      images: [{ url:`${BASE}/og/Contact_Neofort.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Contact Neofort BIZ — solicitați ofertă tâmplărie PVC și aluminiu, București' : locale==='en' ? 'Contact Neofort BIZ — request quote for PVC and aluminium windows, Bucharest' : locale==='de' ? 'Kontakt Neofort BIZ — Angebot PVC- und Aluminiumfenster, Bukarest' : locale==='fr' ? 'Contact Neofort BIZ — demandez devis menuiseries PVC et aluminium, Bucarest' : locale==='es' ? 'Contacto Neofort BIZ — solicite presupuesto carpintería PVC y aluminio, Bucarest' : 'Contatti Neofort BIZ — preventivo infissi PVC e alluminio, Bucarest', type:'image/jpeg' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Contact_Neofort.avif`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Contact_Neofort.jpg`] },
   };
 }
 
