@@ -440,13 +440,15 @@ export default async function TamplaieAluminiuPage({ params }) {
 
       {/* ── SEO BRIDGE ── */}
       <section aria-label={CTA_LABELS[locale]?.tag || CTA_LABELS.ro.tag} style={{background:'#111',padding:'0'}}>
-        <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
-          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
-            {CTA_LABELS[locale]?.h2a || CTA_LABELS.ro.h2a}{' '}
-            <span style={{textDecoration:'underline'}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</span>
-            {' '}{CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}
-          </p>
-        </div>
+        <a href="#contact" style={{display:'block',textDecoration:'none',borderTop:'1px solid #1e1e1e',borderBottom:'1px solid #1e1e1e'}}>
+          <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',textAlign:'center',cursor:'pointer'}}>
+            <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',marginBottom:'0',transition:'color .2s'}}>
+              {CTA_LABELS[locale]?.h2a || CTA_LABELS.ro.h2a}{' '}
+              <span style={{textDecoration:'underline',color:'#fff',fontWeight:500}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</span>
+              {' '}{CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}
+            </p>
+          </div>
+        </a>
       </section>
 
       {/* ── FAQ ── */}

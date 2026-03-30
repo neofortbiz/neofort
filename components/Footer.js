@@ -229,7 +229,7 @@ export default function Footer() {
   );
 
   return (
-    <footer className="site-footer" role="contentinfo" aria-label="Informații companie Neofort BIZ">
+    <footer id="contact" className="site-footer" role="contentinfo" aria-label="Informații companie Neofort BIZ">
 
       {/* ── FORMULAR CONTACT ── */}
       <div style={{ background:'#111', borderTop:'1px solid #222', padding:'10px 0 0' }}>
