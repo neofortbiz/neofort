@@ -419,6 +419,8 @@ export default async function HomePage({ params }) {
 
   return (
     <>
+      {/* Preload LCP hero — doar pe homepage, fetchpriority high */}
+      <link rel="preload" as="image" href="/hero-pvc.avif" type="image/avif" fetchPriority="high" />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(buildSchema(locale, c)) }}/>
 
       {/* H1 semantic */}
@@ -432,8 +434,8 @@ export default async function HomePage({ params }) {
               <img
                 src="/hero-pvc.avif"
                 alt={locale==='ro' ? 'Tâmplărie PVC Salamander BluEvolution 92 — ferestre și uși PVC nZEB, Neofort BIZ București' : locale==='en' ? 'Salamander PVC windows BluEvolution 92 — nZEB certified PVC windows and doors, Neofort BIZ Bucharest' : locale==='de' ? 'Salamander Kunststofffenster BluEvolution 92 — nZEB zertifizierte PVC Fenster, Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiserie PVC Salamander BluEvolution 92 — fenêtres et portes PVC nZEB, Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería PVC Salamander BluEvolution 92 — ventanas y puertas PVC nZEB, Neofort BIZ Bucarest' : 'Infissi PVC Salamander BluEvolution 92 — finestre e porte PVC nZEB, Neofort BIZ Bucarest'}
-                width="420"
-                height="160"
+                width="800"
+                height="320"
                 fetchpriority="high"
                 decoding="async"
                 style={{width:'100%',height:'160px',objectFit:'cover',display:'block'}}

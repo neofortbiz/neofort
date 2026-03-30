@@ -3,13 +3,20 @@ const withNextIntl = createNextIntlPlugin();
 
 const nextConfig = {
   compress: true,
+  // SWC minify e default in Next 14 - asigura productia compacta
+  swcMinify: true,
   experimental: {
     serverActions: { bodySizeLimit: '20mb' },
+    // Optimizeaza import-urile pentru bundle size mai mic
     optimizePackageImports: ['next-intl'],
+    // CSS optimizat - reduce render-blocking
+    optimizeCss: true,
   },
   images: {
     formats: ['image/avif', 'image/webp'],
-    deviceSizes: [640, 750, 828, 1080, 1200, 1920],
+    // Dimensiuni mai fine pentru responsive - evita download de imagini prea mari
+    deviceSizes: [390, 640, 750, 828, 1080, 1200],
+    imageSizes: [16, 32, 64, 96, 128, 256, 384],
     minimumCacheTTL: 60 * 60 * 24 * 30,
   },
   async redirects() {

@@ -59,8 +59,7 @@ export default async function LocaleLayout({ children, params }) {
   return (
     <html lang={locale} className={`${barlow.variable} ${barlowCondensed.variable}`}>
       <head>
-        {/* Preload imagini LCP hero homepage */}
-        <link rel="preload" as="image" href="/hero-pvc.avif" type="image/avif" fetchpriority="high" />
+        {/* Preload hero mutat in homepage page.js — per-page, nu global */}
         {/* Preconnect Google Analytics - reduce latenta cu ~150ms */}
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
@@ -104,8 +103,8 @@ export default async function LocaleLayout({ children, params }) {
           <CookieBanner locale={locale} />
         </NextIntlClientProvider>
         {/* Google Analytics 4 — G-20PR5SV2XC — Consent Mode v2 */}
-        <Script id="ga4" strategy="lazyOnload" src="https://www.googletagmanager.com/gtag/js?id=G-20PR5SV2XC" />
-        <Script id="ga4-init" strategy="lazyOnload">{`
+        {/* Consent default inline — fara request extern, sub 1ms */}
+        <Script id="ga4-consent" strategy="beforeInteractive">{`
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           window.gtag = gtag;
@@ -114,7 +113,16 @@ export default async function LocaleLayout({ children, params }) {
             ad_storage: 'denied',
             ad_user_data: 'denied',
             ad_personalization: 'denied',
+            wait_for_update: 500,
           });
+        `}</Script>
+        {/* GTM script — afterInteractive: nu blocheaza LCP, se incarca dupa hydration */}
+        <Script
+          id="ga4"
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-20PR5SV2XC"
+        />
+        <Script id="ga4-init" strategy="afterInteractive">{`
           gtag('js', new Date());
           gtag('config', 'G-20PR5SV2XC', { anonymize_ip: true });
           try {
