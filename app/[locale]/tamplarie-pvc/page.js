@@ -306,6 +306,8 @@ export default async function TamplariePVCPage({ params }) {
 
   return (
     <>
+      {/* Preload LCP — prima imagine din grid produse */}
+      <link rel="preload" as="image" href="/products/bluevolution-92-alu.avif" type="image/avif" fetchPriority="high" />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaPVC) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>
       {/* ── PAGE HEADER ── */}
@@ -321,7 +323,7 @@ export default async function TamplariePVCPage({ params }) {
       <section className="py-16 border-b border-border">
         <div className="container mx-auto px-6">
           <div style={{display:'grid',gridTemplateColumns:'repeat(auto-fill,minmax(min(100%,320px),1fr))',gap:'20px'}}>
-            {PVC_PRODUCTS.map(p => {
+            {PVC_PRODUCTS.map((p, idx) => {
               const specs      = SPECS[p.slug][locale]  || SPECS[p.slug].ro;
               const desc       = DESCS[p.slug][locale]  || DESCS[p.slug].ro;
               const isBlu      = p.serie === 'blu';
@@ -337,7 +339,8 @@ export default async function TamplariePVCPage({ params }) {
                     <img
                       src={p.img} alt={p.name}
                       style={{maxHeight:'168px',maxWidth:'100%',width:'auto',height:'auto',objectFit:'contain',display:'block'}}
-                      loading="lazy"
+                      loading={idx === 0 ? 'eager' : 'lazy'}
+                      fetchpriority={idx === 0 ? 'high' : 'auto'}
                     />
                     {/* Badge serie */}
                     <span style={{position:'absolute',top:'10px',right:'10px',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.55rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,background:accentBg,border:`1px solid ${accentBdr}`,padding:'3px 8px'}}>
