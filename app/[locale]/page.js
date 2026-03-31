@@ -504,7 +504,7 @@ export default async function HomePage({ params }) {
               i === 3 ? (
                 <a key={l} href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
                   style={{padding:'24px 20px',textAlign:'center',borderRight:'none',textDecoration:'none',display:'block'}}>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#f5a623',lineHeight:1}}>{n}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#a56900',lineHeight:1}}>{n}</div>
                   <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#636363',marginTop:'5px',lineHeight:1.3}}>{l}</div>
                 </a>
               ) : (
