@@ -541,14 +541,6 @@ export const routing = defineRouting({
       it: '/sistemi-nzeb/guida-completa',
     },
 
-    '/accesorii/automatizari-somfy': {
-      ro: '/accesorii/automatizari-somfy-rulouri-pergole',
-      en: '/accessories/somfy-automation-shutters-pergolas',
-      de: '/zubehoer/somfy-automatisierung-rolllaeden-pergolen',
-      fr: '/accessoires/automatisation-somfy-volets-pergolas',
-      es: '/accesorios/automatizacion-somfy-persianas-pergolas',
-      it: '/accessori/automazione-somfy-tapparelle-pergole',
-    },
     '/accesorii/automatizari-somfy-rulouri-pergole': {
       ro: '/accesorii/automatizari-somfy-rulouri-pergole',
       en: '/accessories/somfy-automation-shutters-pergolas',
