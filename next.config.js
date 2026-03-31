@@ -9,8 +9,6 @@ const nextConfig = {
     serverActions: { bodySizeLimit: '20mb' },
     // Optimizeaza import-urile pentru bundle size mai mic
     optimizePackageImports: ['next-intl'],
-    // CSS optimizat - reduce render-blocking
-    optimizeCss: true,
   },
   images: {
     formats: ['image/avif', 'image/webp'],
