@@ -116,13 +116,13 @@ export default async function LocaleLayout({ children, params }) {
             wait_for_update: 500,
           });
         `}</Script>
-        {/* GTM script — afterInteractive: nu blocheaza LCP, se incarca dupa hydration */}
+        {/* GTM script — lazyOnload: se incarca dupa load event, minimal impact pe LCP */}
         <Script
           id="ga4"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
           src="https://www.googletagmanager.com/gtag/js?id=G-20PR5SV2XC"
         />
-        <Script id="ga4-init" strategy="afterInteractive">{`
+        <Script id="ga4-init" strategy="lazyOnload">{`
           gtag('js', new Date());
           gtag('config', 'G-20PR5SV2XC', { anonymize_ip: true });
           try {

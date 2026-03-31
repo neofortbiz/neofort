@@ -37,7 +37,7 @@ const CONTENT = {
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Tâmplărie PVC Salamander', title:'Profile PVC Salamander', desc:'Furnizăm tâmplărie PVC Salamander BluEvolution 92 și GreenEvolution 76 din gamele premium, executată pe linii automatizate și compatibilă nZEB.', btn:'card-btn card-btn-pvc' },
       { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Tâmplărie Aluminiu Alumil', title:'Sisteme Aluminiu Alumil', desc:'Furnizăm aluminiu Alumil Supreme și Smartia — sisteme cu barieră termică pentru ferestre, uși, liftant glisante, culisante și pereți cortină, certificate nZEB.', btn:'card-btn card-btn-aluminiu' },
-      { href:'/sisteme-nzeb', topColor:'#2e86c1', tag:'Sisteme nZEB', title:'Soluții Nearly Zero Energy', desc:'Precadre Blaugelb Triotherm+, benzi etanșare, baghete Warm Edge, geam tripan Low-E, soluții complete pentru certificarea nZEB și casa pasivă.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/sisteme-nzeb', topColor:'#1a6fa8', tag:'Sisteme nZEB', title:'Soluții Nearly Zero Energy', desc:'Precadre Blaugelb Triotherm+, benzi etanșare, baghete Warm Edge, geam tripan Low-E, soluții complete pentru certificarea nZEB și casa pasivă.', btn:'card-btn card-btn-aluminiu' },
     ],
     sec_label_steps: 'Cum lucrăm',
     steps_h2: 'Etapele colaborării',
@@ -98,7 +98,7 @@ const CONTENT = {
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'PVC Salamander Windows', title:'Salamander PVC Profiles', desc:'We supply PVC Salamander BluEvolution 92 and GreenEvolution 76 windows from premium ranges, manufactured on automated lines and nZEB compatible.', btn:'card-btn card-btn-pvc' },
       { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Aluminium Alumil Windows', title:'Alumil Aluminium Systems', desc:'We supply Alumil Supreme and Smartia aluminium — thermal barrier systems for windows, doors, lift-and-slide, sliding and curtain walls, nZEB certified.', btn:'card-btn card-btn-aluminiu' },
-      { href:'/sisteme-nzeb', topColor:'#2e86c1', tag:'nZEB Systems', title:'Nearly Zero Energy Solutions', desc:'Blaugelb Triotherm+ precasings, sealing tapes, Warm Edge spacers, triple Low-E glass, complete solutions for nZEB certification and passive house.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/sisteme-nzeb', topColor:'#1a6fa8', tag:'nZEB Systems', title:'Nearly Zero Energy Solutions', desc:'Blaugelb Triotherm+ precasings, sealing tapes, Warm Edge spacers, triple Low-E glass, complete solutions for nZEB certification and passive house.', btn:'card-btn card-btn-aluminiu' },
     ],
     sec_label_steps: 'How we work',
     steps_h2: 'Steps of our collaboration',
@@ -159,7 +159,7 @@ const CONTENT = {
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Kunststofffenster Salamander', title:'Salamander PVC-Profile', desc:'Wir liefern PVC Salamander BluEvolution 92 und GreenEvolution 76 Fenster aus den Premiumsortimenten, auf automatisierten Linien gefertigt und nZEB-kompatibel.', btn:'card-btn card-btn-pvc' },
       { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Aluminiumfenster Alumil', title:'Alumil Aluminiumsysteme', desc:'Wir liefern Alumil Supreme und Smartia Aluminium — Wärmedämmsysteme für Fenster, Türen, Hebeschiebe, Schiebeanlagen und Vorhangfassaden, nZEB-zertifiziert.', btn:'card-btn card-btn-aluminiu' },
-      { href:'/sisteme-nzeb', topColor:'#2e86c1', tag:'nZEB-Systeme', title:'Niedrigstenergielösungen', desc:'Blaugelb Triotherm+ Vorfenster, Dichtbänder, Warm Edge Abstandhalter, Dreifach-Low-E-Glas, Komplettlösungen für nZEB-Zertifizierung und Passivhaus.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/sisteme-nzeb', topColor:'#1a6fa8', tag:'nZEB-Systeme', title:'Niedrigstenergielösungen', desc:'Blaugelb Triotherm+ Vorfenster, Dichtbänder, Warm Edge Abstandhalter, Dreifach-Low-E-Glas, Komplettlösungen für nZEB-Zertifizierung und Passivhaus.', btn:'card-btn card-btn-aluminiu' },
     ],
     sec_label_steps: 'Unsere Arbeitsweise',
     steps_h2: 'Ablauf der Zusammenarbeit',
@@ -220,7 +220,7 @@ const CONTENT = {
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Menuiserie PVC Salamander', title:'Profilés PVC Salamander', desc:'Nous fournissons des menuiseries PVC Salamander BluEvolution 92 et GreenEvolution 76 des gammes premium, fabriquées sur lignes automatisées et compatibles nZEB.', btn:'card-btn card-btn-pvc' },
       { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Menuiserie Aluminium Alumil', title:'Systèmes Aluminium Alumil', desc:'Nous fournissons aluminium Alumil Supreme et Smartia — systèmes à rupture thermique pour fenêtres, portes, levant-coulissant, coulissants et façades rideau, certifiés nZEB.', btn:'card-btn card-btn-aluminiu' },
-      { href:'/sisteme-nzeb', topColor:'#2e86c1', tag:'Systèmes nZEB', title:'Solutions Énergie Quasi Nulle', desc:'Précadres Blaugelb Triotherm+, rubans d\'étanchéité, espaceurs Warm Edge, triple vitrage Low-E, solutions complètes pour certification nZEB et maison passive.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/sisteme-nzeb', topColor:'#1a6fa8', tag:'Systèmes nZEB', title:'Solutions Énergie Quasi Nulle', desc:'Précadres Blaugelb Triotherm+, rubans d\'étanchéité, espaceurs Warm Edge, triple vitrage Low-E, solutions complètes pour certification nZEB et maison passive.', btn:'card-btn card-btn-aluminiu' },
     ],
     sec_label_steps: 'Notre méthode de travail',
     steps_h2: 'Étapes de notre collaboration',
@@ -281,7 +281,7 @@ const CONTENT = {
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Carpintería PVC Salamander', title:'Perfiles PVC Salamander', desc:'Suministramos carpintería PVC Salamander BluEvolution 92 y GreenEvolution 76 de las gamas premium, fabricada en líneas automatizadas y compatible con nZEB.', btn:'card-btn card-btn-pvc' },
       { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Carpintería Aluminio Alumil', title:'Sistemas Aluminio Alumil', desc:'Suministramos aluminio Alumil Supreme y Smartia — sistemas con rotura de puente térmico para ventanas, puertas, elevable-corredera, correderas y fachadas cortina, certificados nZEB.', btn:'card-btn card-btn-aluminiu' },
-      { href:'/sisteme-nzeb', topColor:'#2e86c1', tag:'Sistemas nZEB', title:'Soluciones Energía Casi Nula', desc:'Premarcos Blaugelb Triotherm+, cintas de sellado, espaciadores Warm Edge, triple vidrio Low-E, soluciones completas para certificación nZEB y casa pasiva.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/sisteme-nzeb', topColor:'#1a6fa8', tag:'Sistemas nZEB', title:'Soluciones Energía Casi Nula', desc:'Premarcos Blaugelb Triotherm+, cintas de sellado, espaciadores Warm Edge, triple vidrio Low-E, soluciones completas para certificación nZEB y casa pasiva.', btn:'card-btn card-btn-aluminiu' },
     ],
     sec_label_steps: 'Cómo trabajamos',
     steps_h2: 'Etapas de nuestra colaboración',
@@ -342,7 +342,7 @@ const CONTENT = {
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Infissi in PVC Salamander', title:'Profili PVC Salamander', desc:'Forniamo infissi in PVC Salamander BluEvolution 92 e GreenEvolution 76 delle gamme premium, prodotti su linee automatizzate e compatibili nZEB.', btn:'card-btn card-btn-pvc' },
       { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Infissi in Alluminio Alumil', title:'Sistemi Alluminio Alumil', desc:'Forniamo alluminio Alumil Supreme e Smartia — sistemi con taglio termico per finestre, porte, alzante-scorrevole, sistemi scorrevoli e facciate continue, certificati nZEB.', btn:'card-btn card-btn-aluminiu' },
-      { href:'/sisteme-nzeb', topColor:'#2e86c1', tag:'Sistemi nZEB', title:'Soluzioni Energia Quasi Zero', desc:'Precontrotelaio Blaugelb Triotherm+, nastri di tenuta, distanziatori Warm Edge, triplo vetro Low-E, soluzioni complete per certificazione nZEB e casa passiva.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/sisteme-nzeb', topColor:'#1a6fa8', tag:'Sistemi nZEB', title:'Soluzioni Energia Quasi Zero', desc:'Precontrotelaio Blaugelb Triotherm+, nastri di tenuta, distanziatori Warm Edge, triplo vetro Low-E, soluzioni complete per certificazione nZEB e casa passiva.', btn:'card-btn card-btn-aluminiu' },
     ],
     sec_label_steps: 'Come lavoriamo',
     steps_h2: 'Fasi della nostra collaborazione',
@@ -552,7 +552,7 @@ export default async function HomePage({ params }) {
           <div className="steps-grid-home">
             {c.steps.map((s,i)=>(
               <div key={s.n} className="step-item" style={{padding:'36px 32px',borderRight:i<2?'1px solid #e8e8e8':'none'}}>
-                <div aria-hidden="true" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'clamp(1.6625rem, 4vw, 2.4625rem)',color:'#ebebeb',lineHeight:1,marginBottom:'20px'}}>{s.n}</div>
+                <div aria-hidden="true" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'clamp(1.6625rem, 4vw, 2.4625rem)',color:'#909090',lineHeight:1,marginBottom:'20px'}}>{s.n}</div>
                 <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0125rem',color:'#1a1a1a',marginBottom:'10px'}}>{s.title}</h3>
                 <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#636363',lineHeight:1.7,textAlign:'justify'}}>{s.desc}</p>
               </div>
