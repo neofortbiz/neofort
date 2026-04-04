@@ -197,10 +197,10 @@ export default function BlogGrid({ articles, locale, read }) {
           font-size: .74rem; letter-spacing: .04em; color: #1a1a1a;
           width: 100%; outline: none;
         }
-        .bg-search input::placeholder { color: #767676; }
+        .bg-search input::placeholder { color: #595959; }
         .bg-search-clear {
           background: none; border: none; padding: 0;
-          cursor: pointer; color: #767676; line-height: 1; flex-shrink: 0;
+          cursor: pointer; color: #595959; line-height: 1; flex-shrink: 0;
         }
         .bg-search-clear:hover { color: #555; }
         .bg-status {
@@ -227,7 +227,7 @@ export default function BlogGrid({ articles, locale, read }) {
         .bg-card:hover { border-color: #d8d8d4; box-shadow: 0 4px 20px rgba(0,0,0,.05); }
         .bg-empty {
           grid-column: 1/-1; text-align: center;
-          padding: 80px 0; color: #767676;
+          padding: 80px 0; color: #595959;
           font-family: 'Barlow Condensed', sans-serif;
           font-size: 1rem; letter-spacing: .08em;
         }

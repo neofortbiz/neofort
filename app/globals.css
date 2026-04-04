@@ -78,13 +78,13 @@ img,video{max-width:100%;height:auto}
 .footer-col{flex:1;padding:0 32px;border-left:1px solid #1e1e1e}
 .footer-col-contact{flex:1;padding-left:32px;border-left:1px solid #1e1e1e}
 .footer-logo{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:500;font-size:0.994rem;letter-spacing:.45em;color:#fff;text-transform:uppercase;display:block;margin-bottom:3px}
-.footer-logo-sub{font-size:0.644rem;letter-spacing:.25em;text-transform:uppercase;color:#404040;display:block;margin-bottom:14px}
+.footer-logo-sub{font-size:0.644rem;letter-spacing:.25em;text-transform:uppercase;color:#999;display:block;margin-bottom:14px}
 .footer-desc{font-size:0.824rem;font-weight:300;color:#bbb;line-height:1.7;margin-bottom:12px}
 .footer-osim{font-size:0.694rem;color:#bbb}
 .footer-social{display:flex;gap:14px;margin-top:14px}
 .footer-social a{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.674rem;letter-spacing:.1em;color:#bbb;text-decoration:none;transition:color .15s}
 .footer-social a:hover{color:#fff}
-.footer-col-title{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:500;font-size:0.694rem;letter-spacing:.2em;text-transform:uppercase;color:#404040;margin-bottom:18px}
+.footer-col-title{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-weight:500;font-size:0.694rem;letter-spacing:.2em;text-transform:uppercase;color:#e0e0e0;margin-bottom:18px}
 .footer-links{list-style:none;display:flex;flex-direction:column;gap:9px}
 .footer-links a{font-size:0.834rem;font-weight:300;color:#bbb;text-decoration:none;transition:color .15s}
 .footer-links a:hover{color:#fff}
@@ -93,7 +93,7 @@ img,video{max-width:100%;height:auto}
 .footer-contact-val{font-size:0.824rem;font-weight:300;color:#bbb;text-decoration:none;transition:color .15s}
 .footer-contact-val:hover{color:#fff}
 .footer-langs{display:flex;gap:4px;margin-top:18px;flex-wrap:nowrap;align-items:center}
-.footer-lang{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.58rem;letter-spacing:.08em;color:#404040;text-decoration:none;transition:color .15s;display:inline-flex;align-items:center;justify-content:center;min-height:44px;min-width:36px}
+.footer-lang{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.58rem;letter-spacing:.08em;color:#bbb;text-decoration:none;transition:color .15s;display:inline-flex;align-items:center;justify-content:center;min-height:44px;min-width:36px}
 .footer-lang:hover,.footer-lang.active{color:#fff}
 .footer-bottom{display:flex;justify-content:space-between;padding-top:20px;font-size:0.754rem;font-weight:300;color:#bbb;flex-wrap:wrap;gap:6px}
 
@@ -353,9 +353,9 @@ img,video{max-width:100%;height:auto}
 }
 
 .schedule-row{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-bottom:1px solid #1e1e1e}
-.schedule-day{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:300;color:#404040}
-.schedule-hours{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:400;color:#404040}
-.schedule-closed{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:400;color:#404040;letter-spacing:.08em;text-transform:uppercase}
+.schedule-day{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:300;color:#bbb}
+.schedule-hours{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:400;color:#e0e0e0}
+.schedule-closed{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:400;color:#999;letter-spacing:.08em;text-transform:uppercase}
 .maps-link{display:inline-flex;align-items:center;gap:8px;margin-top:24px;font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.67rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;color:#404040;text-decoration:none;padding:10px 0;border-bottom:1px solid #1e1e1e;width:100%;transition:color .15s}
 .maps-link:hover{color:#fff}
 

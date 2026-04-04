@@ -421,7 +421,7 @@ export default async function BlogArticlePage({ params }) {
                 {href:'/servicii',         label:{ro:'Servicii Montaj',en:'Installation Services',de:'Montagedienstleistungen',fr:'Services de pose',es:'Servicios instalación',it:'Servizi installazione'}},
               ].map(item => (
                 <Link key={item.href} href={item.href}
-                  style={{display:'block',padding:'9px 0',borderBottom:'1px solid #1e1e1e',textDecoration:'none',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.08em',textTransform:'uppercase',color:'#666'}}>
+                  style={{display:'block',padding:'9px 0',borderBottom:'1px solid #1e1e1e',textDecoration:'none',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.08em',textTransform:'uppercase',color:'#bbb'}}>
                   {item.label[locale] || item.label.ro}
                 </Link>
               ))}
@@ -433,7 +433,7 @@ export default async function BlogArticlePage({ params }) {
 
             {/* 3. Card WhatsApp — contact rapid */}
             <div className="sidebar-card" style={{background:'#f0faf3',borderTopColor:'#25D366'}}>
-              <span className="sidebar-label" style={{color:'#25D366'}}>
+              <span className="sidebar-label" style={{color:'#1a7a41'}}>
                 {{'ro':'Contact rapid','en':'Quick contact','de':'Schnellkontakt','fr':'Contact rapide','es':'Contacto rápido','it':'Contatto rapido'}[locale]}
               </span>
               <p style={{fontSize:'.72rem',color:'#333',lineHeight:1.5,marginBottom:'12px'}}>

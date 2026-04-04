@@ -682,14 +682,14 @@ export default async function ProductPage({ params }) {
 
         /* ── CTA SIDEBAR ── */
         .prd-cta-box { background:#111; padding:24px; position:sticky; top:100px; }
-        .prd-cta-h { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.6rem; letter-spacing:.2em; text-transform:uppercase; color:#666; margin-bottom:8px; }
+        .prd-cta-h { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.6rem; letter-spacing:.2em; text-transform:uppercase; color:#404040; margin-bottom:8px; }
         .prd-cta-name { font-family:'Barlow Condensed',sans-serif; font-weight:700; font-size:1.05rem; color:#fff; margin-bottom:16px; line-height:1.2; }
         .prd-cta-sub { font-size:.68rem; color:#555; margin-bottom:20px; }
         .prd-cta-btn { display:block; width:100%; padding:12px; text-align:center; font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.7rem; letter-spacing:.18em; text-transform:uppercase; text-decoration:none; margin-bottom:10px; transition:all .18s; }
         .prd-cta-btn-primary { color:#111; background:#fff; }
         .prd-cta-btn-primary:hover { background:#f0f0f0; }
         .prd-cta-btn-secondary { color:#fff; border:1px solid #333; }
-        .prd-cta-btn-secondary:hover { border-color:#666; }
+        .prd-cta-btn-secondary:hover { border-color:#404040; }
 
         /* ── SEO TEXT ── */
         .prd-seo { font-size:.82rem; color:#4a4a4a; line-height:1.8; padding:32px 0; border-top:1px solid #e8e8e4; margin-top:8px; }

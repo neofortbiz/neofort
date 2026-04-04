@@ -407,7 +407,7 @@ export default async function UmbrirePreturiPage({ params }) {
           {ui.products.map((prod, i) => (
             <div key={i} style={{ border: '1px solid #e8e8e4', padding: '24px', background: '#fafaf8' }}>
               <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: '.9rem', letterSpacing: '.08em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '10px' }}>{prod.name}</div>
-              <div style={{ fontSize: '.82rem', color: '#5a5a5a', lineHeight: 1.65, marginBottom: '16px' }}>{prod.desc}</div>
+              <div style={{ fontSize: '.82rem', color: '#404040', lineHeight: 1.65, marginBottom: '16px' }}>{prod.desc}</div>
               <Link href={`/${prod.link}`} style={{ fontFamily: 'Barlow Condensed,sans-serif', fontSize: '.72rem', letterSpacing: '.15em', textTransform: 'uppercase', color: '#6a2d9e', textDecoration: 'none', fontWeight: 600 }}>
                 {prod.cta} &rarr;
               </Link>

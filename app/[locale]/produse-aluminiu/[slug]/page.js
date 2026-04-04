@@ -461,12 +461,12 @@ export default async function ProductAluPage({ params }) {
         .prd-adv li{font-size:.8rem;color:#444;padding:8px 0 8px 20px;border-bottom:1px solid #f5f5f3;position:relative;line-height:1.5}
         .prd-adv li:last-child{border-bottom:none}
         .prd-cta-box{background:#111;padding:24px;position:sticky;top:100px}
-        .prd-cta-hl{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:.6rem;letter-spacing:.2em;text-transform:uppercase;color:#666;margin-bottom:8px}
+        .prd-cta-hl{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:.6rem;letter-spacing:.2em;text-transform:uppercase;color:#404040;margin-bottom:8px}
         .prd-cta-nm{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:1.05rem;color:#fff;margin-bottom:16px;line-height:1.2}
         .prd-cta-sub{font-size:.68rem;color:#555;margin-bottom:20px}
         .prd-cta-a{display:block;width:100%;padding:12px;text-align:center;font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;text-decoration:none;margin-bottom:10px;transition:all .18s}
         .prd-cta-pri{color:#111;background:#fff}.prd-cta-pri:hover{background:#f0f0f0}
-        .prd-cta-sec{color:#fff;border:1px solid #333}.prd-cta-sec:hover{border-color:#666}
+        .prd-cta-sec{color:#fff;border:1px solid #333}.prd-cta-sec:hover{border-color:#404040}
         .prd-seo{font-size:.82rem;color:#4a4a4a;line-height:1.8;padding:32px 0;border-top:1px solid #e8e8e4;margin-top:8px}
         .prd-lower{display:grid;grid-template-columns:1fr 260px;gap:48px;align-items:start;margin-top:48px}
         .prd-mob{display:none;position:fixed;bottom:0;left:0;right:0;background:#111;padding:12px 16px;z-index:100;gap:10px;border-top:1px solid #222}

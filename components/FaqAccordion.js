@@ -29,7 +29,7 @@ export default function FaqAccordion({ items, title }) {
               <span style={{
                 flexShrink: 0, width: '22px', height: '22px', borderRadius: '50%',
                 background: '#f0f0ec', display: 'flex', alignItems: 'center',
-                justifyContent: 'center', fontSize: '.8rem', color: '#666',
+                justifyContent: 'center', fontSize: '.8rem', color: '#404040',
                 transition: 'transform .2s',
                 transform: open === i ? 'rotate(45deg)' : 'rotate(0deg)'
               }} aria-hidden="true">+</span>
@@ -39,7 +39,7 @@ export default function FaqAccordion({ items, title }) {
               maxHeight: open === i ? '400px' : '0px',
               transition: 'max-height .3s ease'
             }}>
-              <p style={{ padding: '0 0 18px', fontSize: '.88rem', color: '#636363', lineHeight: 1.7 }}>{a}</p>
+              <p style={{ padding: '0 0 18px', fontSize: '.88rem', color: '#4a4a4a', lineHeight: 1.7 }}>{a}</p>
             </div>
           </div>
         ))}

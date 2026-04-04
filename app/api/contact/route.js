@@ -71,7 +71,7 @@ export async function POST(request) {
               <ul style="margin:0;padding-left:16px;">${produseHTML}</ul>
             </div>
             ${attachments.length > 0 ? `
-            <div style="background:#f7f7f5;padding:12px 16px;font-size:.8rem;color:#666;">
+            <div style="background:#f7f7f5;padding:12px 16px;font-size:.8rem;color:#404040;">
               📎 ${attachments.length} fișier(e) atașate: ${attachments.map(a => a.filename).join(', ')}
             </div>` : ''}
           </div>

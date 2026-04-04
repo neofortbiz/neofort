@@ -486,7 +486,7 @@ export default async function PVCGhidPage({ params }) {
           {ui.faq.map((item, i) => (
             <div key={i} style={{ borderBottom: '1px solid #eee', padding: '20px 0' }}>
               <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 600, fontSize: '.95rem', letterSpacing: '.05em', color: '#1a2a3a', marginBottom: '8px' }}>{item.q}</div>
-              <div style={{ fontSize: '.88rem', color: '#5a5a5a', lineHeight: 1.65 }}>{item.a}</div>
+              <div style={{ fontSize: '.88rem', color: '#404040', lineHeight: 1.65 }}>{item.a}</div>
             </div>
           ))}
         </div>

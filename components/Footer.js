@@ -196,7 +196,7 @@ export default function Footer() {
   const iStyle = (field) => ({ ...iBase, borderBottom: err[field] ? '1px solid #c0392b' : '1px solid #2a2a2a' });
 
   const ErrMsg = ({ field }) => err[field]
-    ? <span style={{ fontFamily:FF.cond, fontSize:FS.xs, letterSpacing:'.06em', color:'#c0392b', display:'block', marginTop:'4px' }}>{err[field]}</span>
+    ? <span style={{ fontFamily:FF.cond, fontSize:FS.xs, letterSpacing:'.06em', color:'#8b1a13', display:'block', marginTop:'4px' }}>{err[field]}</span>
     : null;
 
   // Dept row — telefoane
@@ -339,10 +339,10 @@ export default function Footer() {
                       <path d="M9 5v5M9 12v1" stroke="#c0392b" strokeWidth="1.5" strokeLinecap="round"/>
                     </svg>
                     <div>
-                      <div style={{ fontFamily:FF.cond, fontWeight:FW.medium, fontSize:FS.sm, letterSpacing:'.12em', textTransform:'uppercase', color:'#c0392b', marginBottom:'3px' }}>
+                      <div style={{ fontFamily:FF.cond, fontWeight:FW.medium, fontSize:FS.sm, letterSpacing:'.12em', textTransform:'uppercase', color:'#8b1a13', marginBottom:'3px' }}>
                         {t('error')}
                       </div>
-                      <div style={{ fontFamily:FF.cond, fontSize:FS.sm, letterSpacing:'.04em', color:'#c0392b', lineHeight:1.5 }}>
+                      <div style={{ fontFamily:FF.cond, fontSize:FS.sm, letterSpacing:'.04em', color:'#8b1a13', lineHeight:1.5 }}>
                         {errorMsg || t('error_desc')}
                       </div>
                     </div>
@@ -391,7 +391,7 @@ export default function Footer() {
             {/* Rating + WhatsApp pe același rând */}
             <div style={{ display:'flex', alignItems:'center', gap:'12px', flexWrap:'wrap', marginBottom:'14px' }}>
               <a href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
-                style={{ fontFamily:FF.cond, fontSize:FS.sm, letterSpacing:'.06em', color:'#f5a623', textDecoration:'none', fontWeight:FW.medium, whiteSpace:'nowrap' }}>
+                style={{ fontFamily:FF.cond, fontSize:FS.sm, letterSpacing:'.06em', color:'#8a5200', textDecoration:'none', fontWeight:FW.medium, whiteSpace:'nowrap' }}>
                 {col.reviews}
               </a>
               <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"
