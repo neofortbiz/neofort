@@ -13315,6 +13315,417 @@ Il kit TaHoma Switch (hub + app) parte da **180 EUR**. Configurazione completa i
       fr: '13 mars 2026', es: '13 mar 2026', it: '13 mar 2026',
     },
   },
+  // ── Articol adăugat v145 — Mitul PVC toxic ──
+  {
+    slugs: {
+      ro: 'mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre',
+      en: 'pvc-toxic-myth-safety-composition-evolution-windows',
+      de: 'pvc-giftig-mythos-sicherheit-zusammensetzung-entwicklung-fenster',
+      fr: 'mythe-pvc-toxique-securite-composition-evolution-fenetres',
+      es: 'mito-pvc-toxico-seguridad-composicion-evolucion-ventanas',
+      it: 'mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre',
+    },
+    date: '2026-04-04',
+    author: 'Neofort BIZ',
+    accentColor: '#2d5a8e',
+    image: {
+      ro: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+      en: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+      de: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+      fr: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+      es: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+      it: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1628 0%,#2d5a8e 60%,#0a1628 100%)',
+    imageLabel: 'Mitul PVC-ului toxic — Analiză istorică și tehnică',
+    readTime: { ro:'12 min citire', en:'12 min read', de:'12 Min.', fr:'12 min', es:'12 min', it:'12 min' },
+    category: {
+      ro: 'Ghid tehnic',
+      en: 'Technical Guide',
+      de: 'Technischer Ratgeber',
+      fr: 'Guide technique',
+      es: 'Guía técnica',
+      it: 'Guida tecnica',
+    },
+    title: {
+      ro: 'Mitul PVC-ului toxic: de unde vine, ce spune știința și de ce ferestrele moderne sunt sigure — Analiză 2026',
+      en: 'The PVC Toxicity Myth: Origins, What Science Says and Why Modern Windows Are Safe — Analysis 2026',
+      de: 'Der PVC-Giftigkeitsmythos: Herkunft, was die Wissenschaft sagt und warum moderne Fenster sicher sind — Analyse 2026',
+      fr: 'Le mythe du PVC toxique : origines, ce que dit la science et pourquoi les fenêtres modernes sont sûres — Analyse 2026',
+      es: 'El mito del PVC tóxico: origen, qué dice la ciencia y por qué las ventanas modernas son seguras — Análisis 2026',
+      it: 'Il mito del PVC tossico: origini, cosa dice la scienza e perché le finestre moderne sono sicure — Analisi 2026',
+    },
+    metaDesc: {
+      ro: 'Analiza completă a mitului toxicității PVC-ului: istoric apariție, compoziție chimică, evoluție formulă fără plumb, comportament la temperaturi extreme și incendiu, certificate EU. Date verificabile, nu opinii.',
+      en: 'Complete analysis of the PVC toxicity myth: historical origins, chemical composition, evolution to lead-free formula, behaviour at extreme temperatures and fire, EU certifications. Verifiable data, not opinions.',
+      de: 'Vollständige Analyse des PVC-Giftigkeitsmythos: historische Ursprünge, chemische Zusammensetzung, Entwicklung zur bleifreien Formel, Verhalten bei extremen Temperaturen und Brand, EU-Zertifikate.',
+      fr: "Analyse complète du mythe de la toxicité du PVC : origines historiques, composition chimique, évolution vers une formule sans plomb, comportement aux températures extrêmes et en cas d'incendie, certifications UE.",
+      es: 'Análisis completo del mito de la toxicidad del PVC: orígenes históricos, composición química, evolución a fórmula sin plomo, comportamiento a temperaturas extremas e incendio, certificaciones UE.',
+      it: "Analisi completa del mito della tossicità del PVC: origini storiche, composizione chimica, evoluzione alla formula senza piombo, comportamento a temperature estreme e incendio, certificazioni UE.",
+    },
+    excerpt: {
+      ro: "PVC-ul toxic este unul dintre cele mai rezistente mituri din industria construcțiilor. Dar de unde vine acest mit, ce spune chimia cu adevărat și de ce profilele moderne Salamander nu au nicio legătură cu PVC-ul din anii '70? O analiză documentată, cu date reale.",
+      en: "The toxic PVC myth is one of the most persistent in the construction industry. But where does it come from, what does chemistry actually say, and why do modern Salamander profiles have nothing to do with 1970s PVC? A documented analysis with real data.",
+      de: "Der giftige PVC-Mythos ist einer der hartnäckigsten in der Bauindustrie. Aber woher kommt er, was sagt die Chemie wirklich und warum haben moderne Salamander-Profile nichts mit dem PVC der 1970er Jahre zu tun? Eine dokumentierte Analyse.",
+      fr: "Le mythe du PVC toxique est l'un des plus tenaces dans l'industrie de la construction. Mais d'où vient-il, que dit réellement la chimie, et pourquoi les profilés Salamander modernes n'ont-ils rien à voir avec le PVC des années 70 ?",
+      es: "El mito del PVC tóxico es uno de los más persistentes en la industria de la construcción. Pero ¿de dónde viene, qué dice realmente la química y por qué los perfiles Salamander modernos no tienen nada que ver con el PVC de los años 70?",
+      it: "Il mito del PVC tossico è uno dei più persistenti nell'industria edile. Ma da dove viene, cosa dice davvero la chimica e perché i moderni profili Salamander non hanno nulla a che fare con il PVC degli anni '70?",
+    },
+    keywords: 'PVC toxic, PVC sigur ferestre, compozitie PVC profile, PVC fara plumb, PVC Salamander siguranta, ferestre PVC sanatate, PVC incendiu, stabilizatori PVC calciu zinc, PVC reciclare, tamplarie PVC sigura',
+    dateDisplay: {
+      ro: '4 apr 2026', en: 'Apr 4 2026', de: '4. Apr. 2026',
+      fr: '4 avr. 2026', es: '4 abr 2026', it: '4 apr 2026',
+    },
+    content: {
+      ro: `## De unde vine mitul — scurt istoric documentat
+
+Mitul toxicității PVC-ului nu a apărut din neant. Are rădăcini reale în istoria industriei chimice, dar a rămas înghețat în anii în care problemele erau reale, ignorând 40 de ani de progres tehnic.
+
+În anii 1940-1970, PVC-ul industrial era stabilizat cu compuși de plumb și cadmiu — metale grele cu toxicitate dovedită. Aceste substanțe erau folosite pentru a preveni degradarea termică a polimerului în procesul de prelucrare. Cercetările medicale din anii '70 și '80 au identificat riscurile: lucrătorii din fabricile de PVC expuși la temperaturi înalte fără echipamente de protecție aveau concentrații crescute de plumb în sânge.
+
+Organizațiile de mediu din Europa de Vest — în special din Germania, Austria și Olanda — au dus o campanie susținută în anii '80 și '90 împotriva PVC-ului, bazată pe aceste date reale, dar dintr-o perioadă anterioară modernizărilor chimice. Campania a fost eficientă mediatic, dar a creat o imagine care nu mai corespundea produsului care era deja în fabricație.
+
+Problema este că mitul a supraviețuit chimiei care l-a generat.
+
+## Compoziția chimică reală a PVC-ului modern
+
+PVC — policlorura de vinil — este un polimer sintetic obținut prin polimerizarea monomerului clorură de vinil (VCM). Compoziția unui profil PVC modern pentru ferestre include:
+
+- **Rășina PVC:** ~60-65% din masă. Polimer inert chimic în condiții normale de utilizare, fără emisii la temperaturi sub 60°C.
+- **Stabilizatori:** Până în 2015, stabilizatorii pe bază de plumb reprezentau norma industrială europeană. Tranziția completă la stabilizatori pe bază de calciu-zinc (Ca-Zn) a fost finalizată în industria europeană prin programul voluntar Stabiliser 2015, coordonat de ECVM (European Council of Vinyl Manufacturers). Profilul Salamander folosește exclusiv stabilizatori Ca-Zn din 2008.
+- **Modificatori de impact:** Compuși acrilici care îmbunătățesc rezistența la șoc, non-toxici.
+- **Lubrifianți interni și externi:** Esteri de acid gras sau polietilene cu greutate moleculară mică — inerți biochimic.
+- **Pigmenți:** Dioxid de titan (TiO₂) pentru alb sau pigmenți anorganici pentru culori. TiO₂ este clasificat de EFSA ca sigur în aplicații de contact cu suprafețele locuibile.
+- **Materiale de umplutură:** Carbonat de calciu (CaCO₃) — același material din care sunt făcute coaja de ou și calcarul.
+
+**Ce nu mai conțin profilul PVC moderne:** plumb, cadmiu, mercur sau compuși organostanici — toate interzise prin Regulamentul REACH (CE) nr. 1907/2006.
+
+## Comportamentul la temperaturi extreme — date reale
+
+Unul dintre argumentele cel mai frecvent invocat împotriva PVC-ului este comportamentul la temperaturi ridicate. Să separăm ficțiunea de date măsurabile:
+
+**La temperaturi normale de utilizare (−40°C până la +60°C):** PVC-ul pentru ferestre este complet stabil chimic. Nu emit substanțe volatile detectabile. Profilele Salamander sunt testate conform EN 12608 pentru rezistență la cicluri termice repetate în acest interval, fără deformare sau emisii.
+
+**La temperaturi mai ridicate (60°C–140°C):** Profilul PVC începe să se înmoaie progresiv. Nu este o ardere, ci o tranziție de fază reversibilă. Nu se emit substanțe toxice în cantități semnificative sub punctul de aprindere.
+
+**La punctul de aprindere (>270°C):** PVC-ul se aprinde mai greu decât lemnul (punctul de aprindere al lemnului uscat: ~220-260°C, al PVC-ului: >270°C). Odată aprins, produce gaze de combustie care includ acid clorhidric (HCl) — aceasta este baza îngrijorării reale din scenariile de incendiu. Totuși, concentrațiile de HCl produse de tâmplăria PVC dintr-o locuință sunt semnificativ mai mici decât cele produse de alte materiale comune (mochetă sintetică, mobilier cu PAL melaminat, cabluri electrice). Conform studiului COWI pentru Comisia Europeană (2001), contribuția PVC-ului la toxicitatea gazelor de incendiu la nivel de locuință este estimată sub 5% din totalul emisiilor toxice.
+
+**La ger extrem (sub −20°C):** Profilele din PVC plasticizat devin fragile — dar profilele pentru ferestre sunt **neplasticizate** (rigid PVC sau PVC-U). Salamander BluEvolution 92 este testat conform EN 12608 la −20°C fără modificări ale proprietăților mecanice.
+
+## De ce ferestrele PVC din anii '70 și cele de azi sunt produse diferite
+
+Confuzia temporală este sursa principală de rezistență a mitului. Iată cronologia modernizărilor relevante:
+
+**1985-1995:** Industria PVC europeană adoptă voluntar programul ECVM pentru reducerea compușilor de plumb și cadmiu. Primii stabilizatori Ca-Zn de serie apar pe piață.
+
+**1994:** Germania interzice utilizarea stabilizatorilor de cadmiu în PVC prin Chemikalienverbotsverordnung. Restul UE urmează în doi ani.
+
+**2001:** Angajamentul voluntar ECVM/ESPA pentru eliminarea completă a plumbului din stabilizatorii PVC până în 2015 — depășit în practică cu 5-7 ani față de termen.
+
+**2006:** Regulamentul REACH intră în vigoare, clasificând oficial plumbul, cadmiul și compușii organostanici ca substanțe de îngrijorare deosebită (SVHC) și restricționând utilizarea lor în produse de consum.
+
+**2008:** Salamander finalizează tranziția completă la stabilizatori Ca-Zn în toate gamele de profile.
+
+**2015:** Industria europeană a profilelor PVC pentru ferestre operează 100% fără stabilizatori de plumb. Confirmarea a fost certificată prin auditul independent VinylPlus.
+
+**2026:** Directiva Ecodesign UE impune procentaje minime de material reciclat în producția de profile noi. PVC-ul pentru ferestre este unul dintre materialele cel mai bine poziționate din punct de vedere al reciclabilității — recuperare materială de 99,7% în circuitul industrial.
+
+## Reciclabilitatea: argumentul pe care industria anti-PVC îl ignoră
+
+Una dintre ironiile tehnice ale dezbaterii este că PVC-ul este unul dintre cele mai reciclabile materiale de construcție. Un profil PVC poate fi reproceseat de până la 8 ori fără degradare semnificativă a proprietăților mecanice. Industria europeană reciclează anual peste 800.000 tone de PVC, dintre care o parte semnificativă provine din tâmplărie veche.
+
+VinylPlus — programul de sustenabilitate al industriei europene a PVC-ului — a publicat date verificate independent: între 2000 și 2023, au fost reciclate 7,7 milioane de tone de PVC în Europa. Profilele de ferestre reprezintă una din sursele principale de material recuperat.
+
+Prin contrast, aluminiul reciclat consumă aproximativ 5% din energia necesară producerii aluminiului primar — dar procesul de reciclare produce emisii de CO₂ semnificative, iar separarea aliajelor diferite rămâne o provocare industrială. Lemnul, alternativa „naturală" invocată frecvent, are o rată de reciclare în construcții mult mai mică și necesită tratamente chimice (vopsele, lacuri, impregnări) care ridică propriile probleme de mediu.
+
+## Ce înseamnă concret pentru locuința ta
+
+Dacă ai ferestre Salamander BluEvolution 92 montate în 2026, ești proprietarul unui produs care:
+
+- Nu conține plumb, cadmiu, mercur sau compuși organostanici
+- Are emisii în aer interior de zero compuși volatili (VOC) la temperaturi normale
+- Este certificat conform EN 12608 (profile PVC pentru ferestre), EN 14351-1 (ferestre și uși) și are declarație de performanță în conformitate cu Regulamentul Produselor de Construcție (CPR) 305/2011
+- Are o durată de viață garantată de minimum 40 de ani fără modificarea proprietăților mecanice sau cromatice
+- Va putea fi 100% reciclat la sfârșitul duratei de viață, materialul recuperat reintegrând ciclul de producție
+
+Mitul PVC-ului toxic a jucat un rol util în presiunea exercitată asupra industriei pentru eliminarea compușilor cu adevărat problematici. Dar acea presiune a funcționat. Industria a răspuns cu date și cu modificări reale de formulă. Mitul a supraviețuit transformărilor pe care le-a determinat — ceea ce îl face astăzi nu o avertizare utilă, ci o prejudecată fără suport tehnic.
+
+Alegerea tipului de tâmplărie — PVC, aluminiu sau lemn — este legitimă pe baza criteriilor reale: performanță termică, estetică, cost, durabilitate. Toxicitatea PVC-ului modern nu mai este un criteriu relevant din 2015.`,
+      en: `## Where the myth comes from — a documented history
+
+The PVC toxicity myth did not emerge from nowhere. It has real roots in the history of the chemical industry, but became frozen in the era when the problems were genuine, ignoring 40 years of technical progress.
+
+In the 1940s–1970s, industrial PVC was stabilised with lead and cadmium compounds — heavy metals with proven toxicity. These substances were used to prevent thermal degradation of the polymer during processing. Medical research in the 1970s and 1980s identified real risks: workers in PVC factories exposed to high temperatures without protective equipment showed elevated blood-lead concentrations.
+
+Environmental organisations in Western Europe — particularly in Germany, Austria and the Netherlands — ran sustained campaigns against PVC throughout the 1980s and 1990s, based on data that was accurate for that period but predated the chemical modernisations that were already underway. The campaign was mediatively effective but created an image that no longer corresponded to the product then being manufactured.
+
+The problem is that the myth outlived the chemistry that generated it.
+
+## The actual chemical composition of modern PVC
+
+PVC — polyvinyl chloride — is a synthetic polymer produced by polymerising vinyl chloride monomer (VCM). The composition of a modern PVC window profile includes:
+
+- **PVC resin:** ~60-65% by mass. Chemically inert polymer under normal use conditions, with no emissions below 60°C.
+- **Stabilisers:** Until 2015, lead-based stabilisers were the European industry standard. The complete transition to calcium-zinc (Ca-Zn) stabilisers was completed through the voluntary Stabiliser 2015 programme, coordinated by ECVM. Salamander profiles have used exclusively Ca-Zn stabilisers since 2008.
+- **Impact modifiers:** Acrylic compounds improving shock resistance — non-toxic.
+- **Internal and external lubricants:** Fatty acid esters or low molecular weight polyethylenes — biochemically inert.
+- **Pigments:** Titanium dioxide (TiO₂) for white, or inorganic pigments for colours. TiO₂ is classified as safe by EFSA for applications involving contact with habitable surfaces.
+- **Fillers:** Calcium carbonate (CaCO₃) — the same material as eggshells and limestone.
+
+**What modern PVC profiles no longer contain:** lead, cadmium, mercury or organotin compounds — all prohibited under REACH Regulation (EC) No 1907/2006.
+
+## Behaviour at extreme temperatures — measurable data
+
+One of the most frequently invoked arguments against PVC is its behaviour at elevated temperatures. Here is the separation of fiction from measurable data:
+
+**At normal use temperatures (−40°C to +60°C):** PVC for windows is completely chemically stable. No detectable volatile substances are emitted. Salamander profiles are tested to EN 12608 for resistance to repeated thermal cycling across this range, without deformation or emissions.
+
+**At elevated temperatures (60°C–140°C):** The PVC profile begins to soften progressively. This is not combustion but a reversible phase transition. No toxic substances are emitted in significant quantities below the ignition point.
+
+**At ignition point (>270°C):** PVC ignites less readily than wood (dry wood ignition point: ~220-260°C; PVC: >270°C). Once ignited, it produces combustion gases including hydrogen chloride (HCl) — this is the basis of legitimate concern in fire scenarios. However, HCl concentrations produced by window PVC in a residential fire are significantly lower than those produced by other common materials (synthetic carpet, melamine-coated chipboard furniture, electrical cables). According to the COWI study for the European Commission (2001), PVC's contribution to fire gas toxicity at residential scale is estimated below 5% of total toxic emissions.
+
+**At extreme cold (below −20°C):** Plasticised PVC profiles can become brittle — but window profiles are **unplasticised** (rigid PVC or PVC-U). Salamander BluEvolution 92 is tested to EN 12608 at −20°C with no change to mechanical properties.
+
+## Why 1970s and modern PVC windows are fundamentally different products
+
+Temporal confusion is the primary mechanism sustaining the myth. Here is the relevant modernisation timeline:
+
+**1985–1995:** The European PVC industry voluntarily adopts the ECVM programme to reduce lead and cadmium compounds. The first Ca-Zn stabilisers appear in commercial production.
+
+**1994:** Germany bans cadmium stabilisers in PVC through the Chemikalienverbotsverordnung. The rest of the EU follows within two years.
+
+**2001:** The voluntary ECVM/ESPA commitment to completely eliminate lead from PVC stabilisers by 2015 — exceeded in practice by 5–7 years ahead of schedule.
+
+**2006:** REACH Regulation enters into force, officially classifying lead, cadmium and organotin compounds as Substances of Very High Concern (SVHC) and restricting their use in consumer products.
+
+**2008:** Salamander completes the full transition to Ca-Zn stabilisers across all profile ranges.
+
+**2015:** The European window PVC profile industry operates 100% without lead stabilisers. Confirmed through independent VinylPlus audit.
+
+**2026:** The EU Ecodesign Directive mandates minimum recycled content percentages in new profile production.
+
+## Recyclability: the argument that anti-PVC campaigns ignore
+
+One of the technical ironies of the debate is that PVC is one of the most recyclable construction materials. A PVC profile can be reprocessed up to 8 times without significant degradation of mechanical properties. The European industry recycles over 800,000 tonnes of PVC annually, a significant portion of which comes from old window profiles.
+
+VinylPlus — the sustainability programme of the European PVC industry — has published independently verified data: between 2000 and 2023, 7.7 million tonnes of PVC were recycled across Europe.
+
+## What this means concretely for your home
+
+If you have Salamander BluEvolution 92 windows installed in 2026, you own a product that contains no lead, cadmium, mercury or organotin compounds; emits zero volatile organic compounds (VOC) at normal temperatures; is certified to EN 12608, EN 14351-1 and bears a Declaration of Performance under CPR 305/2011; carries a manufacturer guarantee of minimum 40 years without change to mechanical or chromatic properties; and will be 100% recyclable at end of life.
+
+The PVC toxicity myth played a useful role in pressuring the industry to eliminate genuinely problematic compounds. That pressure worked. The industry responded with data and real formulation changes. The myth survived the transformations it triggered — making it today not a useful warning, but a technically unsupported prejudice. The choice of window material — PVC, aluminium or timber — is legitimate based on real criteria: thermal performance, aesthetics, cost, durability. The toxicity of modern PVC has not been a relevant criterion since 2015.`,
+      de: `## Woher kommt der Mythos — eine dokumentierte Geschichte
+
+Der Mythos der PVC-Giftigkeit entstand nicht aus dem Nichts. Er hat reale Wurzeln in der Geschichte der chemischen Industrie, blieb aber in der Ära eingefroren, als die Probleme noch real waren — und ignoriert 40 Jahre technischen Fortschritt.
+
+In den 1940er bis 1970er Jahren wurde industrielles PVC mit Blei- und Cadmiumverbindungen stabilisiert — Schwermetalle mit nachgewiesener Toxizität. Diese Substanzen verhinderten den thermischen Abbau des Polymers bei der Verarbeitung. Medizinische Forschungen der 1970er und 1980er Jahre identifizierten reale Risiken: Arbeiter in PVC-Fabriken, die ohne Schutzausrüstung hohen Temperaturen ausgesetzt waren, wiesen erhöhte Blutbleispiegel auf.
+
+Umweltorganisationen in Westeuropa — insbesondere in Deutschland, Österreich und den Niederlanden — führten in den 1980er und 1990er Jahren nachhaltige Kampagnen gegen PVC, die auf zeitgemäßen, aber bereits veraltenden Daten basierten. Die Kampagne war medienwirksam, schuf aber ein Bild, das dem bereits in Produktion befindlichen Produkt nicht mehr entsprach. Das Problem: Der Mythos überlebte die Chemie, die ihn erzeugt hatte.
+
+## Die tatsächliche chemische Zusammensetzung von modernem PVC
+
+PVC — Polyvinylchlorid — ist ein synthetisches Polymer aus der Polymerisation von Vinylchloridmonomer (VCM). Die Zusammensetzung eines modernen PVC-Fensterprofils umfasst:
+
+- **PVC-Harz:** ~60-65% der Masse. Chemisch inertes Polymer unter normalen Nutzungsbedingungen, keine Emissionen unter 60°C.
+- **Stabilisatoren:** Bis 2015 waren bleibasierte Stabilisatoren der europäische Industriestandard. Die vollständige Umstellung auf Calcium-Zink-Stabilisatoren (Ca-Zn) wurde durch das freiwillige Stabiliser-2015-Programm des ECVM abgeschlossen. Salamander setzt ausschließlich Ca-Zn-Stabilisatoren seit 2008 ein.
+- **Schlagzähigkeitsmodifikatoren:** Acrylverbindungen — nicht toxisch.
+- **Interne und externe Gleitmittel:** Fettsäureester oder niedermolekulare Polyethylene — biochemisch inert.
+- **Pigmente:** Titandioxid (TiO₂) für Weiß, anorganische Pigmente für Farben. TiO₂ gilt laut EFSA als sicher.
+- **Füllstoffe:** Calciumcarbonat (CaCO₃) — identisch mit dem Material in Eierschalen und Kalkstein.
+
+**Was moderne PVC-Profile nicht mehr enthalten:** Blei, Cadmium, Quecksilber und Organozinnverbindungen — alle verboten durch die REACH-Verordnung (EG) Nr. 1907/2006.
+
+## Verhalten bei Extremtemperaturen — messbare Daten
+
+**Bei normalen Nutzungstemperaturen (−40°C bis +60°C):** PVC für Fenster ist vollständig chemisch stabil. Keine detektierbaren flüchtigen Substanzen. Salamander-Profile werden nach EN 12608 auf Widerstand gegen wiederholte Temperaturzyklen getestet.
+
+**Bei erhöhten Temperaturen (60°C–140°C):** Das PVC-Profil beginnt sich progressiv zu erweichen — kein Verbrennen, sondern ein reversibler Phasenübergang. Unterhalb des Zündpunkts werden keine toxischen Substanzen in signifikanten Mengen freigesetzt.
+
+**Am Zündpunkt (>270°C):** PVC entzündet sich schwerer als Holz (Zündpunkt von trockenem Holz: ~220-260°C; PVC: >270°C). Einmal entzündet, entstehen Verbrennungsgase einschließlich Chlorwasserstoff (HCl). Laut der COWI-Studie für die Europäische Kommission (2001) liegt der Beitrag von PVC zur Brandgastoxizität im Wohnbereich unter 5% der Gesamtemissionen.
+
+**Bei extremer Kälte (unter −20°C):** Weich-PVC-Profile können spröde werden — Fensterprofile sind jedoch aus **Hartpolyvinylchlorid** (PVC-U). Salamander BluEvolution 92 wird nach EN 12608 bei −20°C ohne Veränderung der mechanischen Eigenschaften getestet.
+
+## Warum Fenster aus den 1970ern und heute grundlegend verschiedene Produkte sind
+
+**1985–1995:** Die europäische PVC-Industrie übernimmt freiwillig das ECVM-Programm zur Reduzierung von Blei- und Cadmiumverbindungen.
+
+**1994:** Deutschland verbietet Cadmium-Stabilisatoren in PVC. Die restliche EU folgt innerhalb von zwei Jahren.
+
+**2001:** Freiwillige ECVM/ESPA-Selbstverpflichtung zur vollständigen Eliminierung von Blei bis 2015 — in der Praxis 5–7 Jahre früher erreicht.
+
+**2006:** REACH-Verordnung klassifiziert Blei, Cadmium und Organozinnverbindungen als besonders besorgniserregende Substanzen (SVHC).
+
+**2008:** Salamander schließt die vollständige Umstellung auf Ca-Zn-Stabilisatoren in allen Profilreihen ab.
+
+**2015:** Die europäische Fenster-PVC-Profilbranche arbeitet zu 100% ohne Bleistabilisatoren. Bestätigt durch unabhängiges VinylPlus-Audit.
+
+## Recyclingfähigkeit: das Argument, das Anti-PVC-Kampagnen ignorieren
+
+PVC ist eines der am besten recycelbaren Baumaterialien überhaupt. Ein PVC-Profil kann bis zu 8 Mal wiederverarbeitet werden, ohne signifikante Verschlechterung der mechanischen Eigenschaften. Die europäische Industrie recycelt jährlich über 800.000 Tonnen PVC. VinylPlus-Daten belegen: Zwischen 2000 und 2023 wurden 7,7 Millionen Tonnen PVC in Europa recycelt.
+
+## Was das konkret für Ihr Zuhause bedeutet
+
+Wenn Sie 2026 Salamander BluEvolution 92-Fenster eingebaut haben, besitzen Sie ein Produkt ohne Blei, Cadmium, Quecksilber oder Organozinnverbindungen; mit null VOC-Emissionen bei Normaltemperaturen; zertifiziert nach EN 12608 und EN 14351-1 mit Leistungserklärung gemäß BauPVO 305/2011; mit Herstellergarantie von mindestens 40 Jahren; und zu 100% recycelbar am Lebensende. Die Wahl des Fenstermaterials — PVC, Aluminium oder Holz — ist legitim auf Basis realer Kriterien. Die Toxizität von modernem PVC ist seit 2015 kein relevantes Kriterium mehr.`,
+      fr: `## D'où vient le mythe — une histoire documentée
+
+Le mythe de la toxicité du PVC n'est pas apparu de nulle part. Il a de vraies racines dans l'histoire de l'industrie chimique, mais est resté figé à l'époque où les problèmes étaient réels — ignorant 40 ans de progrès technique.
+
+Dans les années 1940–1970, le PVC industriel était stabilisé avec des composés de plomb et de cadmium — des métaux lourds à la toxicité prouvée. Ces substances prévenaient la dégradation thermique du polymère lors de la transformation. Les recherches médicales des années 1970–1980 ont identifié des risques réels : les travailleurs des usines PVC exposés à des températures élevées sans équipement de protection présentaient des concentrations élevées de plomb dans le sang.
+
+Des organisations environnementales d'Europe de l'Ouest — notamment en Allemagne, Autriche et Pays-Bas — ont mené des campagnes soutenues contre le PVC dans les années 1980–1990, basées sur des données exactes pour cette période mais antérieures aux modernisations chimiques déjà en cours. Le problème : le mythe a survécu à la chimie qui l'avait engendré.
+
+## La composition chimique réelle du PVC moderne
+
+Le PVC — polychlorure de vinyle — est un polymère synthétique obtenu par polymérisation du chlorure de vinyle (VCM). La composition d'un profilé PVC moderne pour fenêtres comprend :
+
+- **Résine PVC :** ~60-65% de la masse. Polymère chimiquement inerte dans des conditions normales d'utilisation, sans émissions en dessous de 60°C.
+- **Stabilisants :** Jusqu'en 2015, les stabilisants à base de plomb étaient la norme industrielle européenne. La transition complète vers des stabilisants calcium-zinc (Ca-Zn) a été finalisée via le programme volontaire Stabiliser 2015 coordonné par l'ECVM. Salamander utilise exclusivement des stabilisants Ca-Zn depuis 2008.
+- **Modificateurs d'impact :** Composés acryliques — non toxiques.
+- **Lubrifiants internes et externes :** Esters d'acides gras ou polyéthylènes de faible masse moléculaire — biochimiquement inertes.
+- **Pigments :** Dioxyde de titane (TiO₂) pour le blanc, pigments inorganiques pour les couleurs. Le TiO₂ est classifié sûr par l'EFSA.
+- **Charges :** Carbonate de calcium (CaCO₃) — identique à la matière des coquilles d'œufs et du calcaire.
+
+**Ce que les profilés PVC modernes ne contiennent plus :** plomb, cadmium, mercure et composés organo-étain — tous interdits par le règlement REACH (CE) n° 1907/2006.
+
+## Comportement aux températures extrêmes — données mesurables
+
+**Aux températures normales d'utilisation (−40°C à +60°C) :** le PVC pour fenêtres est entièrement stable chimiquement. Aucune substance volatile détectable. Les profilés Salamander sont testés selon EN 12608 pour la résistance aux cycles thermiques répétés.
+
+**Au point d'inflammation (>270°C) :** Le PVC s'enflamme moins facilement que le bois (point d'inflammation du bois sec : ~220-260°C ; PVC : >270°C). Une fois enflammé, il produit des gaz dont du chlorure d'hydrogène (HCl). Selon l'étude COWI pour la Commission européenne (2001), la contribution du PVC à la toxicité des gaz d'incendie dans une habitation est estimée à moins de 5% des émissions totales.
+
+**Au grand froid (en dessous de −20°C) :** Les profilés pour fenêtres sont en **PVC rigide (PVC-U)**, non plastifié. Les profilés Salamander BluEvolution 92 sont testés selon EN 12608 à −20°C sans modification des propriétés mécaniques.
+
+## Chronologie des modernisations clés
+
+**1985–1995 :** L'industrie PVC européenne adopte volontairement le programme ECVM pour réduire les composés de plomb et de cadmium.
+
+**1994 :** L'Allemagne interdit les stabilisants au cadmium dans le PVC.
+
+**2001 :** Engagement volontaire ECVM/ESPA pour l'élimination complète du plomb d'ici 2015 — atteint en pratique 5 à 7 ans avant l'échéance.
+
+**2006 :** Le règlement REACH classe officiellement le plomb, le cadmium et les composés organo-étain comme substances extrêmement préoccupantes (SVHC).
+
+**2008 :** Salamander finalise la transition vers les stabilisants Ca-Zn dans toutes les gammes de profilés.
+
+**2015 :** L'industrie européenne des profilés PVC pour fenêtres fonctionne à 100% sans stabilisants au plomb. Confirmé par l'audit indépendant VinylPlus.
+
+## Recyclabilité : l'argument que les campagnes anti-PVC ignorent
+
+Le PVC est l'un des matériaux de construction les plus recyclables. Un profilé PVC peut être retraité jusqu'à 8 fois sans dégradation significative. L'industrie européenne recycle annuellement plus de 800 000 tonnes de PVC. Les données VinylPlus, vérifiées indépendamment, montrent que 7,7 millions de tonnes de PVC ont été recyclées en Europe entre 2000 et 2023.
+
+## Ce que cela signifie concrètement pour votre logement
+
+Avec des fenêtres Salamander BluEvolution 92 installées en 2026, vous possédez un produit sans plomb, cadmium, mercure ni composés organo-étain ; avec zéro émission de COV aux températures normales ; certifié selon EN 12608 et EN 14351-1 avec Déclaration de Performance selon le RPC 305/2011 ; garanti minimum 40 ans ; et recyclable à 100% en fin de vie.
+
+Le mythe du PVC toxique a joué un rôle utile en incitant l'industrie à éliminer des composés véritablement problématiques. Cette pression a fonctionné. L'industrie a répondu par des données et des modifications réelles de formulation. Le mythe a survécu aux transformations qu'il avait déclenchées — ce qui en fait aujourd'hui non pas une mise en garde utile, mais un préjugé sans fondement technique. Le choix du matériau de menuiserie — PVC, aluminium ou bois — est légitime selon des critères réels. La toxicité du PVC moderne n'est plus un critère pertinent depuis 2015.`,
+      es: `## De dónde viene el mito — historia documentada
+
+El mito de la toxicidad del PVC no surgió de la nada. Tiene raíces reales en la historia de la industria química, pero quedó congelado en la época en que los problemas eran genuinos — ignorando 40 años de progreso técnico.
+
+En los años 1940–1970, el PVC industrial se estabilizaba con compuestos de plomo y cadmio — metales pesados con toxicidad probada. Estas sustancias prevenían la degradación térmica del polímero durante el procesamiento. Las investigaciones médicas de los años 70 y 80 identificaron riesgos reales: los trabajadores de fábricas de PVC expuestos a altas temperaturas sin equipos de protección presentaban concentraciones elevadas de plomo en sangre.
+
+Organizaciones medioambientales de Europa Occidental — especialmente en Alemania, Austria y los Países Bajos — llevaron a cabo campañas sostenidas contra el PVC en los años 80 y 90, basadas en datos exactos para ese período pero anteriores a las modernizaciones químicas ya en marcha. El problema: el mito sobrevivió a la química que lo generó.
+
+## La composición química real del PVC moderno
+
+El PVC — policloruro de vinilo — es un polímero sintético obtenido por polimerización del monómero cloruro de vinilo (VCM). La composición de un perfil PVC moderno para ventanas incluye:
+
+- **Resina PVC:** ~60-65% en masa. Polímero químicamente inerte bajo condiciones normales de uso, sin emisiones por debajo de 60°C.
+- **Estabilizadores:** Hasta 2015, los estabilizadores a base de plomo eran el estándar industrial europeo. La transición completa hacia estabilizadores calcio-zinc (Ca-Zn) se completó mediante el programa voluntario Stabiliser 2015 del ECVM. Salamander usa exclusivamente estabilizadores Ca-Zn desde 2008.
+- **Modificadores de impacto:** Compuestos acrílicos — no tóxicos.
+- **Lubricantes internos y externos:** Ésteres de ácidos grasos o polietilenos de bajo peso molecular — bioquímicamente inertes.
+- **Pigmentos:** Dióxido de titanio (TiO₂) para el blanco, pigmentos inorgánicos para colores. La EFSA clasifica el TiO₂ como seguro.
+- **Cargas:** Carbonato de calcio (CaCO₃) — idéntico al material de las cáscaras de huevo y la piedra caliza.
+
+**Lo que los perfiles PVC modernos ya no contienen:** plomo, cadmio, mercurio y compuestos de organostaño — todos prohibidos por el Reglamento REACH (CE) n.º 1907/2006.
+
+## Comportamiento a temperaturas extremas — datos medibles
+
+**A temperaturas normales de uso (−40°C a +60°C):** El PVC para ventanas es completamente estable químicamente. No se detectan sustancias volátiles. Los perfiles Salamander se someten a pruebas según EN 12608 para resistencia a ciclos térmicos repetidos.
+
+**En el punto de ignición (>270°C):** El PVC se inflama con mayor dificultad que la madera (punto de ignición de la madera seca: ~220-260°C; PVC: >270°C). Una vez encendido, produce gases de combustión que incluyen ácido clorhídrico (HCl). Según el estudio COWI para la Comisión Europea (2001), la contribución del PVC a la toxicidad de los gases de incendio en el nivel residencial se estima por debajo del 5% de las emisiones totales.
+
+**Al frío extremo (por debajo de −20°C):** Los perfiles para ventanas son de **PVC rígido (PVC-U)**, no plastificado. Los perfiles Salamander BluEvolution 92 se prueban según EN 12608 a −20°C sin modificación de propiedades mecánicas.
+
+## Cronología de las modernizaciones clave
+
+**1985–1995:** La industria europea del PVC adopta voluntariamente el programa ECVM para reducir los compuestos de plomo y cadmio.
+
+**1994:** Alemania prohíbe los estabilizadores de cadmio en PVC.
+
+**2001:** Compromiso voluntario ECVM/ESPA para eliminar completamente el plomo antes de 2015 — alcanzado en la práctica con 5 a 7 años de anticipación.
+
+**2006:** El Reglamento REACH clasifica el plomo, el cadmio y los compuestos de organostaño como Sustancias de Muy Alta Preocupación (SVHC).
+
+**2008:** Salamander completa la transición a estabilizadores Ca-Zn en todas las gamas de perfiles.
+
+**2015:** La industria europea de perfiles PVC para ventanas opera al 100% sin estabilizadores de plomo. Confirmado por auditoría independiente de VinylPlus.
+
+## Reciclabilidad: el argumento que las campañas anti-PVC ignoran
+
+El PVC es uno de los materiales de construcción más reciclables. Un perfil PVC puede reprocesarse hasta 8 veces sin degradación significativa de sus propiedades mecánicas. La industria europea recicla más de 800.000 toneladas de PVC anualmente. Los datos de VinylPlus, verificados independientemente, muestran que entre 2000 y 2023 se reciclaron 7,7 millones de toneladas de PVC en Europa.
+
+## Lo que esto significa concretamente para su vivienda
+
+Con ventanas Salamander BluEvolution 92 instaladas en 2026, usted posee un producto sin plomo, cadmio, mercurio ni compuestos de organostaño; con cero emisiones de COV a temperaturas normales; certificado según EN 12608 y EN 14351-1 con Declaración de Prestaciones conforme al RPC 305/2011; con garantía mínima de 40 años; y 100% reciclable al final de su vida útil.
+
+El mito del PVC tóxico jugó un papel útil al presionar a la industria para eliminar compuestos genuinamente problemáticos. Esa presión funcionó. La industria respondió con datos y cambios reales en la formulación. El mito sobrevivió a las transformaciones que desencadenó — lo que lo convierte hoy no en una advertencia útil, sino en un prejuicio sin respaldo técnico. La elección del material de carpintería — PVC, aluminio o madera — es legítima basándose en criterios reales. La toxicidad del PVC moderno ya no es un criterio relevante desde 2015.`,
+      it: `## Da dove viene il mito — storia documentata
+
+Il mito della tossicità del PVC non è emerso dal nulla. Ha radici reali nella storia dell'industria chimica, ma è rimasto congelato nell'era in cui i problemi erano genuini — ignorando 40 anni di progresso tecnico.
+
+Negli anni 1940–1970, il PVC industriale veniva stabilizzato con composti di piombo e cadmio — metalli pesanti con tossicità provata. Queste sostanze prevenivano la degradazione termica del polimero durante la lavorazione. Le ricerche mediche degli anni '70 e '80 identificarono rischi reali: i lavoratori delle fabbriche di PVC esposti ad alte temperature senza dispositivi di protezione presentavano concentrazioni elevate di piombo nel sangue.
+
+Organizzazioni ambientali dell'Europa Occidentale — in particolare in Germania, Austria e Paesi Bassi — condussero campagne sostenute contro il PVC negli anni '80 e '90, basate su dati accurati per quell'epoca ma anteriori alle modernizzazioni chimiche già in corso. Il problema: il mito è sopravvissuto alla chimica che lo aveva generato.
+
+## La reale composizione chimica del PVC moderno
+
+Il PVC — cloruro di polivinile — è un polimero sintetico ottenuto dalla polimerizzazione del monomero cloruro di vinile (VCM). La composizione di un moderno profilo PVC per finestre comprende:
+
+- **Resina PVC:** ~60-65% della massa. Polimero chimicamente inerte in condizioni normali di utilizzo, senza emissioni al di sotto di 60°C.
+- **Stabilizzatori:** Fino al 2015, gli stabilizzatori a base di piombo erano lo standard industriale europeo. La transizione completa verso stabilizzatori calcio-zinco (Ca-Zn) è stata completata attraverso il programma volontario Stabiliser 2015 coordinato dall'ECVM. Salamander utilizza esclusivamente stabilizzatori Ca-Zn dal 2008.
+- **Modificatori d'impatto:** Composti acrilici — non tossici.
+- **Lubrificanti interni ed esterni:** Esteri di acidi grassi o polietileni a basso peso molecolare — biochimicamente inerti.
+- **Pigmenti:** Biossido di titanio (TiO₂) per il bianco, pigmenti inorganici per i colori. Il TiO₂ è classificato sicuro dall'EFSA.
+- **Cariche:** Carbonato di calcio (CaCO₃) — identico al materiale dei gusci d'uovo e del calcare.
+
+**Ciò che i moderni profili PVC non contengono più:** piombo, cadmio, mercurio e composti organostannici — tutti vietati dal Regolamento REACH (CE) n. 1907/2006.
+
+## Comportamento a temperature estreme — dati misurabili
+
+**A temperature normali di utilizzo (−40°C a +60°C):** Il PVC per finestre è completamente chimicamente stabile. Nessuna sostanza volatile rilevabile. I profili Salamander sono testati secondo EN 12608 per la resistenza ai cicli termici ripetuti.
+
+**Al punto di infiammabilità (>270°C):** Il PVC si infiamma meno facilmente del legno (punto di infiammabilità del legno secco: ~220-260°C; PVC: >270°C). Una volta infiammato, produce gas di combustione tra cui acido cloridrico (HCl). Secondo lo studio COWI per la Commissione Europea (2001), il contributo del PVC alla tossicità dei gas d'incendio a livello residenziale è stimato al di sotto del 5% delle emissioni totali.
+
+**Al freddo estremo (sotto −20°C):** I profili per finestre sono in **PVC rigido (PVC-U)**, non plastificato. I profili Salamander BluEvolution 92 sono testati secondo EN 12608 a −20°C senza modifiche alle proprietà meccaniche.
+
+## Cronologia delle modernizzazioni chiave
+
+**1985–1995:** L'industria europea del PVC adotta volontariamente il programma ECVM per ridurre i composti di piombo e cadmio.
+
+**1994:** La Germania vieta gli stabilizzatori al cadmio nel PVC.
+
+**2001:** Impegno volontario ECVM/ESPA per l'eliminazione completa del piombo entro il 2015 — raggiunto in pratica con 5–7 anni di anticipo.
+
+**2006:** Il Regolamento REACH classifica ufficialmente piombo, cadmio e composti organostannici come Sostanze Estremamente Preoccupanti (SVHC).
+
+**2008:** Salamander completa la transizione agli stabilizzatori Ca-Zn in tutte le gamme di profili.
+
+**2015:** L'industria europea dei profili PVC per finestre opera al 100% senza stabilizzatori al piombo. Confermato dall'audit indipendente VinylPlus.
+
+## Riciclabilità: l'argomento che le campagne anti-PVC ignorano
+
+Il PVC è uno dei materiali da costruzione più riciclabili. Un profilo PVC può essere rilavorato fino a 8 volte senza significativa degradazione delle proprietà meccaniche. L'industria europea ricicla annualmente oltre 800.000 tonnellate di PVC. I dati VinylPlus, verificati in modo indipendente, mostrano che tra il 2000 e il 2023 sono state riciclate 7,7 milioni di tonnellate di PVC in Europa.
+
+## Cosa significa concretamente per la tua abitazione
+
+Con finestre Salamander BluEvolution 92 installate nel 2026, possiedi un prodotto privo di piombo, cadmio, mercurio e composti organostannici; con zero emissioni di COV a temperature normali; certificato secondo EN 12608 e EN 14351-1 con Dichiarazione di Prestazione ai sensi del RPC 305/2011; con garanzia minima di 40 anni; e 100% riciclabile a fine vita.
+
+Il mito del PVC tossico ha svolto un ruolo utile nel fare pressione sull'industria affinché eliminasse composti genuinamente problematici. Quella pressione ha funzionato. L'industria ha risposto con dati e veri cambiamenti di formulazione. Il mito è sopravvissuto alle trasformazioni che aveva innescato — rendendolo oggi non un avvertimento utile, ma un pregiudizio privo di fondamento tecnico. La scelta del materiale per i serramenti — PVC, alluminio o legno — è legittima sulla base di criteri reali. La tossicità del PVC moderno non è più un criterio rilevante dal 2015.`,
+    },
+  },
+
 ];
 
 

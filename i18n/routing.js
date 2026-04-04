@@ -590,6 +590,14 @@ export const routing = defineRouting({
       es: '/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento',
       it: '/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro',
     },
+    '/blog/mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre': {
+      ro: '/blog/mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre',
+      en: '/blog/pvc-toxic-myth-safety-composition-evolution-windows',
+      de: '/blog/pvc-giftig-mythos-sicherheit-zusammensetzung-entwicklung-fenster',
+      fr: '/blog/mythe-pvc-toxique-securite-composition-evolution-fenetres',
+      es: '/blog/mito-pvc-toxico-seguridad-composicion-evolucion-ventanas',
+      it: '/blog/mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre',
+    },
   // PILLAR PAGES
   }
 });

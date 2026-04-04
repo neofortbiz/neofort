@@ -326,6 +326,14 @@ const BLOG_SLUGS = [
     es: 'somfy-tahoma-hogar-inteligente-bucarest',
     it: 'somfy-tahoma-casa-intelligente-bucarest',
   },
+  {
+    ro: 'mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre',
+    en: 'pvc-toxic-myth-safety-composition-evolution-windows',
+    de: 'pvc-giftig-mythos-sicherheit-zusammensetzung-entwicklung-fenster',
+    fr: 'mythe-pvc-toxique-securite-composition-evolution-fenetres',
+    es: 'mito-pvc-toxico-seguridad-composicion-evolucion-ventanas',
+    it: 'mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre',
+  },
 ];
 
 const pages = [
