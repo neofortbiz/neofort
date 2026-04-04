@@ -161,7 +161,7 @@ export default function BlogGrid({ articles, locale, read }) {
         .bg-count {
           font-size: .46rem;
           background: #f0f0ee;
-          color: #bbb;
+          color: #4a4a4a;
           padding: 1px 4px;
           border-radius: 8px;
           font-weight: 700;
@@ -189,8 +189,8 @@ export default function BlogGrid({ articles, locale, read }) {
           flex-shrink: 0;
           transition: border-color .15s, width .2s;
         }
-        .bg-search:focus-within { border-color: #bbb; width: 320px; }
-        .bg-search svg { flex-shrink: 0; color: #bbb; }
+        .bg-search:focus-within { border-color: #4a4a4a; width: 320px; }
+        .bg-search svg { flex-shrink: 0; color: #4a4a4a; }
         .bg-search input {
           border: none; background: transparent;
           font-family: 'Barlow Condensed', sans-serif;
@@ -206,7 +206,7 @@ export default function BlogGrid({ articles, locale, read }) {
         .bg-status {
           font-family: 'Barlow Condensed', sans-serif;
           font-size: .58rem; letter-spacing: .12em;
-          text-transform: uppercase; color: #bbb;
+          text-transform: uppercase; color: #4a4a4a;
           margin-left: auto;
         }
 
@@ -295,7 +295,7 @@ export default function BlogGrid({ articles, locale, read }) {
           {mounted && (
             <p className="bg-status" aria-live="polite" aria-atomic="true">
               {filtered.length} {filtered.length === 1 ? resLabel[0] : resLabel[1]}
-              {searchQuery.trim().length >= 2 && <> — <em style={{fontStyle:'normal',color:'#595959'}}>"{searchQuery.trim()}"</em></>}
+              {searchQuery.trim().length >= 2 && <> — <em style={{fontStyle:'normal',color:'#404040'}}>"{searchQuery.trim()}"</em></>}
             </p>
           )}
         </div>
@@ -333,11 +333,11 @@ export default function BlogGrid({ articles, locale, read }) {
                     <div style={{ display:'flex', alignItems:'center', gap:'8px', marginBottom:'9px', flexWrap:'wrap' }}>
                       <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'.54rem', letterSpacing:'.18em', textTransform:'uppercase', color:accent }}>{cat}</span>
                       <span style={{ color:'#e0e0e0', fontSize:'.4rem' }}>◆</span>
-                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.58rem', letterSpacing:'.06em', color:'#bbb' }}>{date}</span>
-                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#767676', marginLeft:'auto' }}>{rt}</span>
+                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.58rem', letterSpacing:'.06em', color:'#4a4a4a' }}>{date}</span>
+                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#404040', marginLeft:'auto' }}>{rt}</span>
                     </div>
                     <h2 style={{ fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'1rem', color:'#1a1a1a', lineHeight:1.25, letterSpacing:'.01em', margin:'0 0 9px' }}>{title}</h2>
-                    <p style={{ fontSize:'.78rem', color:'#595959', lineHeight:1.65, margin:'0 0 14px', flex:1 }}>{excerpt.slice(0,110)}…</p>
+                    <p style={{ fontSize:'.78rem', color:'#404040', lineHeight:1.65, margin:'0 0 14px', flex:1 }}>{excerpt.slice(0,110)}…</p>
                     <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.14em', textTransform:'uppercase', color:accent }}>{read}</span>
                   </div>
                 </Link>

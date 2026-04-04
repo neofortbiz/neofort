@@ -344,11 +344,11 @@ export default async function PreturiPage({ params }) {
       {/* PAGE HEADER */}
       <div className="page-header">
         <div className="container mx-auto px-6">
-          <nav style={{ fontSize: '.65rem', letterSpacing: '.12em', textTransform: 'uppercase', color: '#999', display: 'flex', flexWrap: 'wrap', gap: '6px', alignItems: 'center', marginBottom: '16px' }}>
-            <Link href="/" style={{ color: '#999', textDecoration: 'none' }}>Neofort BIZ</Link>
-            <span style={{ color: '#ccc' }}>›</span>
-            <Link href={`/${parentSlug}`} style={{ color: '#999', textDecoration: 'none' }}>{ui.parent}</Link>
-            <span style={{ color: '#ccc' }}>›</span>
+          <nav style={{ fontSize: '.65rem', letterSpacing: '.12em', textTransform: 'uppercase', color: '#404040', display: 'flex', flexWrap: 'wrap', gap: '6px', alignItems: 'center', marginBottom: '16px' }}>
+            <Link href="/" style={{ color: '#404040', textDecoration: 'none' }}>Neofort BIZ</Link>
+            <span style={{ color: '#4a4a4a' }}>›</span>
+            <Link href={`/${parentSlug}`} style={{ color: '#404040', textDecoration: 'none' }}>{ui.parent}</Link>
+            <span style={{ color: '#4a4a4a' }}>›</span>
             <span style={{ color: '#1a1a1a' }}>{locale === 'ro' ? 'Prețuri 2026' : locale === 'en' ? 'Prices 2026' : locale === 'de' ? 'Preise 2026' : locale === 'fr' ? 'Prix 2026' : locale === 'es' ? 'Precios 2026' : 'Prezzi 2026'}</span>
           </nav>
           <span className="sec-label">{ui.label}</span>
@@ -384,7 +384,7 @@ export default async function PreturiPage({ params }) {
               </tbody>
             </table>
           </div>
-          <p style={{ fontSize: '.8rem', color: '#999', marginBottom: '48px', fontStyle: 'italic' }}>{ui.note}</p>
+          <p style={{ fontSize: '.8rem', color: '#404040', marginBottom: '48px', fontStyle: 'italic' }}>{ui.note}</p>
 
           {/* FACTORI */}
           <h2 className="font-condensed text-2xl font-semibold text-primary mb-6">{ui.factors_title}</h2>
@@ -402,10 +402,10 @@ export default async function PreturiPage({ params }) {
 
           {/* SEE ALSO */}
           <div style={{ marginTop: '48px', padding: '24px', background: '#f8f8f6', borderRadius: '6px' }}>
-            <p style={{ fontSize: '.84rem', color: '#999', marginBottom: '12px', textTransform: 'uppercase', letterSpacing: '.08em' }}>{ui.see_also}</p>
+            <p style={{ fontSize: '.84rem', color: '#404040', marginBottom: '12px', textTransform: 'uppercase', letterSpacing: '.08em' }}>{ui.see_also}</p>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
               <Link href={`/${parentSlug}`} style={{ fontSize: '.88rem', color: '#2d5a8e', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_main}</Link>
-              <span style={{ color: '#ccc' }}>·</span>
+              <span style={{ color: '#4a4a4a' }}>·</span>
               <Link href={`/${parentSlug}/bucuresti`} style={{ fontSize: '.88rem', color: '#2d5a8e', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_buc}</Link>
             </div>
           </div>

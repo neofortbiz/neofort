@@ -366,13 +366,13 @@ export default async function TamplariePVCPage({ params }) {
                       {specs.map(([k,v],i) => (
                         <li key={i} style={{display:'flex',justifyContent:'space-between',alignItems:'baseline',gap:'6px',padding:'2.5px 0',borderBottom:'1px solid #f8f8f6',fontSize:'0.7rem',lineHeight:1.4}}>
                           <span style={{fontWeight:600,color:'#444',whiteSpace:'nowrap',flexShrink:0}}>– {k}:</span>
-                          <span style={{color:'#636363',textAlign:'right'}}>{v}</span>
+                          <span style={{color:'#4a4a4a',textAlign:'right'}}>{v}</span>
                         </li>
                       ))}
                     </ul>
 
                     {/* Descriere */}
-                    <p style={{fontSize:'0.77rem',color:'#636363',lineHeight:1.65,flex:1,marginBottom:'16px'}}>{desc}</p>
+                    <p style={{fontSize:'0.77rem',color:'#4a4a4a',lineHeight:1.65,flex:1,marginBottom:'16px'}}>{desc}</p>
 
                     {/* Buton Detalii */}
                     <Link href={`/produse/${PROD_SLUG_MAP[p.slug] || p.slug}`} style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',textDecoration:'none',transition:'background 0.15s,color 0.15s'}}>
@@ -438,7 +438,7 @@ export default async function TamplariePVCPage({ params }) {
         <div className="container" style={{paddingTop:'24px',paddingBottom:'24px',borderTop:'1px solid #e8e8e4'}}>
           <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'12px'}}>
             <div>
-              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#595959',marginBottom:'4px'}}>Ghid & Resurse</div>
+              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#404040',marginBottom:'4px'}}>Ghid & Resurse</div>
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.92rem',fontWeight:600,letterSpacing:'.04em',color:'#1a2a3a'}}>{pillarLabel}</div>
             </div>
             <Link href={`/${pillarSlug}`} style={{display:'inline-block',background:'#1a2a3a',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.18em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',whiteSpace:'nowrap'}}>

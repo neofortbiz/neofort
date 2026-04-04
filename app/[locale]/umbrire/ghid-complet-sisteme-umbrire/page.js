@@ -438,7 +438,7 @@ export default async function UmbrireGhidPage({ params }) {
               <div style={{ border: '1px solid #e8e8e4', padding: '20px', background: '#fafaf8', transition: 'border-color .2s', borderRadius: '2px' }}>
                 <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: '.85rem', letterSpacing: '.08em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '8px' }}>{sys.name}</div>
                 <div style={{ fontSize: '.78rem', color: '#6a2d9e', fontWeight: 600, marginBottom: '4px' }}>{sys.uw}</div>
-                <div style={{ fontSize: '.75rem', color: '#888', marginBottom: '8px' }}>{sys.chambers}</div>
+                <div style={{ fontSize: '.75rem', color: '#404040', marginBottom: '8px' }}>{sys.chambers}</div>
                 <div style={{ fontSize: '.78rem', color: '#4a4a4a', lineHeight: 1.5 }}>{sys.ideal}</div>
               </div>
             </Link>

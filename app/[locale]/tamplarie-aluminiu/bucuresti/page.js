@@ -405,11 +405,11 @@ export default async function BucurestiPage({ params }) {
       {/* PAGE HEADER */}
       <div className="page-header">
         <div className="container mx-auto px-6">
-          <nav style={{ fontSize: '.65rem', letterSpacing: '.12em', textTransform: 'uppercase', color: '#999', display: 'flex', flexWrap: 'wrap', gap: '6px', alignItems: 'center', marginBottom: '16px' }}>
-            <Link href="/" style={{ color: '#999', textDecoration: 'none' }}>Neofort BIZ</Link>
-            <span style={{ color: '#ccc' }}>›</span>
-            <Link href={`/${parentSlug}`} style={{ color: '#999', textDecoration: 'none' }}>{ui.parent}</Link>
-            <span style={{ color: '#ccc' }}>›</span>
+          <nav style={{ fontSize: '.65rem', letterSpacing: '.12em', textTransform: 'uppercase', color: '#404040', display: 'flex', flexWrap: 'wrap', gap: '6px', alignItems: 'center', marginBottom: '16px' }}>
+            <Link href="/" style={{ color: '#404040', textDecoration: 'none' }}>Neofort BIZ</Link>
+            <span style={{ color: '#4a4a4a' }}>›</span>
+            <Link href={`/${parentSlug}`} style={{ color: '#404040', textDecoration: 'none' }}>{ui.parent}</Link>
+            <span style={{ color: '#4a4a4a' }}>›</span>
             <span style={{ color: '#1a1a1a' }}>București</span>
           </nav>
           <span className="sec-label">{ui.label}</span>
@@ -465,10 +465,10 @@ export default async function BucurestiPage({ params }) {
 
           {/* SEE ALSO */}
           <div style={{ marginTop: '48px', padding: '24px', background: '#f8f8f6', borderRadius: '6px' }}>
-            <p style={{ fontSize: '.84rem', color: '#999', marginBottom: '12px', textTransform: 'uppercase', letterSpacing: '.08em' }}>{ui.see_also}</p>
+            <p style={{ fontSize: '.84rem', color: '#404040', marginBottom: '12px', textTransform: 'uppercase', letterSpacing: '.08em' }}>{ui.see_also}</p>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
               <Link href={`/${parentSlug}`} style={{ fontSize: '.88rem', color: '#2d5a8e', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_main}</Link>
-              <span style={{ color: '#ccc' }}>·</span>
+              <span style={{ color: '#4a4a4a' }}>·</span>
               <Link href={`/${pricesSlug}`} style={{ fontSize: '.88rem', color: '#2d5a8e', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_prices}</Link>
             </div>
           </div>

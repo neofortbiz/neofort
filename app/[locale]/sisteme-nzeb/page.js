@@ -157,10 +157,10 @@ export default async function Page({ params }) {
         .acc-cat  { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.54rem; letter-spacing:.2em; text-transform:uppercase; margin-bottom:8px; display:block; }
         .acc-name { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:1rem; color:#1a1a1a; line-height:1.2; margin:0 0 12px; }
         .acc-specs { list-style:none; padding:0; margin:0 0 12px; }
-        .acc-specs li { font-size:.72rem; color:#636363; padding:3px 0; border-bottom:1px solid #f0f0ee; line-height:1.4; }
+        .acc-specs li { font-size:.72rem; color:#4a4a4a; padding:3px 0; border-bottom:1px solid #f0f0ee; line-height:1.4; }
         .acc-specs li:last-child { border-bottom:none; }
         .acc-specs strong { color:#1a1a1a; font-weight:600; }
-        .acc-desc { font-size:.76rem; color:#595959; line-height:1.6; margin:0 0 16px; flex:1; }
+        .acc-desc { font-size:.76rem; color:#404040; line-height:1.6; margin:0 0 16px; flex:1; }
         .acc-btn  { font-family:'Barlow Condensed',sans-serif; font-size:.58rem; font-weight:600; letter-spacing:.16em; text-transform:uppercase; text-decoration:none; border:1px solid #e8e8e4; padding:8px 16px; text-align:center; color:#1a1a1a; transition:all .18s; display:block; margin-top:auto; }
         .acc-btn:hover { background:#1a1a1a; color:#fff; border-color:#1a1a1a; }
         @media(max-width:1100px){ .acc-grid{ grid-template-columns:repeat(3,1fr); } }
@@ -213,7 +213,7 @@ export default async function Page({ params }) {
         <div className="container" style={{paddingTop:'24px',paddingBottom:'24px',borderTop:'1px solid #e8e8e4'}}>
           <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'12px'}}>
             <div>
-              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#595959',marginBottom:'4px'}}>Ghid & Resurse</div>
+              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#404040',marginBottom:'4px'}}>Ghid & Resurse</div>
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.92rem',fontWeight:600,letterSpacing:'.04em',color:'#1a2a3a'}}>{pillarLabel}</div>
             </div>
             <Link href={`/${pillarSlug}`} style={{display:'inline-block',background:'#1a2a3a',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.18em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',whiteSpace:'nowrap'}}>

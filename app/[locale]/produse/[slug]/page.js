@@ -645,10 +645,10 @@ export default async function ProductPage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <style>{`
         /* ── BREADCRUMB ── */
-        .prd-bc { font-size:.65rem; letter-spacing:.12em; text-transform:uppercase; color:#595959; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
-        .prd-bc a { color:#595959; text-decoration:none; }
+        .prd-bc { font-size:.65rem; letter-spacing:.12em; text-transform:uppercase; color:#404040; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
+        .prd-bc a { color:#404040; text-decoration:none; }
         .prd-bc a:hover { color:#1a1a1a; }
-        .prd-bc span { color:#767676; }
+        .prd-bc span { color:#404040; }
 
         /* ── HERO GRID ── */
         .prd-hero { display:grid; grid-template-columns:1fr 1fr; gap:48px; align-items:start; }
@@ -661,7 +661,7 @@ export default async function ProductPage({ params }) {
         .prd-tagline { font-size:.88rem; color:#555; line-height:1.6; margin:0 0 28px; border-left:3px solid; padding-left:14px; }
 
         /* ── SPECS TABLES ── */
-        .prd-section-title { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.6rem; letter-spacing:.22em; text-transform:uppercase; color:#595959; margin:0 0 12px; }
+        .prd-section-title { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.6rem; letter-spacing:.22em; text-transform:uppercase; color:#404040; margin:0 0 12px; }
         .prd-specs-grid { display:grid; grid-template-columns:1fr 1fr; gap:1px; background:#e8e8e4; border:1px solid #e8e8e4; margin-bottom:28px; }
         .prd-spec-row { background:#fff; display:flex; justify-content:space-between; gap:8px; padding:7px 10px; font-size:.73rem; }
         .prd-spec-row strong { color:#1a1a1a; font-weight:600; flex-shrink:0; }
@@ -671,7 +671,7 @@ export default async function ProductPage({ params }) {
         .prd-perf-table { width:100%; border-collapse:collapse; margin-bottom:28px; font-size:.73rem; }
         .prd-perf-table tr { border-bottom:1px solid #f0f0ee; }
         .prd-perf-table td { padding:6px 8px; }
-        .prd-perf-table td:first-child { color:#636363; width:55%; }
+        .prd-perf-table td:first-child { color:#4a4a4a; width:55%; }
         .prd-perf-table td:last-child { font-weight:700; color:#1a1a1a; text-align:right; }
 
         /* ── ADVANTAGES ── */
@@ -692,7 +692,7 @@ export default async function ProductPage({ params }) {
         .prd-cta-btn-secondary:hover { border-color:#666; }
 
         /* ── SEO TEXT ── */
-        .prd-seo { font-size:.82rem; color:#636363; line-height:1.8; padding:32px 0; border-top:1px solid #e8e8e4; margin-top:8px; }
+        .prd-seo { font-size:.82rem; color:#4a4a4a; line-height:1.8; padding:32px 0; border-top:1px solid #e8e8e4; margin-top:8px; }
         .prd-seo p { margin:0; }
 
         /* ── LAYOUT LOWER ── */
