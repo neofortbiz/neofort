@@ -84,7 +84,7 @@ function renderMarkdown(md) {
       }
       if (rows.length > 0) {
         html += '<div style="overflow-x:auto;margin:1.8rem 0"><table style="width:100%;border-collapse:collapse;font-size:.82rem"><thead><tr>';
-        rows[0].forEach(c => { html += `<th style="text-align:left;padding:10px 14px;background:#f7f7f5;border-bottom:2px solid #e8e8e8;font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:#888">${esc(c)}</th>`; });
+        rows[0].forEach(c => { html += `<th style="text-align:left;padding:10px 14px;background:#f7f7f5;border-bottom:2px solid #e8e8e8;font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:#595959">${esc(c)}</th>`; });
         html += '</tr></thead><tbody>';
         rows.slice(1).forEach(row => {
           html += '<tr style="border-bottom:1px solid #f5f5f5">';
@@ -286,7 +286,7 @@ export default async function BlogArticlePage({ params }) {
         .article-sidebar { position: sticky; top: 88px; }
         .sidebar-card { background:#f7f7f5; border-top:2px solid ${a.accentColor}; padding:20px; margin-bottom:14px; }
         .sidebar-card-dark { background:#111; border-top:2px solid ${a.accentColor}; padding:20px; margin-bottom:14px; }
-        .sidebar-label { font-family:'Barlow Condensed',sans-serif; font-size:.58rem; letter-spacing:.18em; text-transform:uppercase; color:#aaa; margin-bottom:14px; display:block; }
+        .sidebar-label { font-family:'Barlow Condensed',sans-serif; font-size:.58rem; letter-spacing:.18em; text-transform:uppercase; color:#595959; margin-bottom:14px; display:block; }
         @media (max-width: 800px) {
           .article-grid { grid-template-columns:1fr; gap:0; }
           .article-sidebar { position:static; margin-top:40px; padding-top:32px; border-top:1px solid #efefed; }
@@ -301,7 +301,7 @@ export default async function BlogArticlePage({ params }) {
             <span style={{color:'#ddd',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
             <Link href="/blog" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#bbb',textDecoration:'none'}}>Blog</Link>
             <span style={{color:'#ddd',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#999'}}>{cat}</span>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#595959'}}>{cat}</span>
           </nav>
         </div>
       </div>
@@ -366,7 +366,7 @@ export default async function BlogArticlePage({ params }) {
                         style={{textDecoration:'none',display:'block',padding:'18px',border:'1px solid #efefed',background:'#fafaf8'}}>
                         <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.54rem',letterSpacing:'.16em',textTransform:'uppercase',color:r.accentColor,display:'block',marginBottom:'7px'}}>{rc}</span>
                         <span style={{fontSize:'.82rem',color:'#1a1a1a',fontWeight:500,display:'block',marginBottom:'8px',lineHeight:1.4}}>{rt2}</span>
-                        <p style={{fontSize:'.74rem',color:'#aaa',lineHeight:1.6,margin:'0 0 10px'}}>{rex.slice(0,90)}…</p>
+                        <p style={{fontSize:'.74rem',color:'#595959',lineHeight:1.6,margin:'0 0 10px'}}>{rex.slice(0,90)}…</p>
                         <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.56rem',letterSpacing:'.12em',textTransform:'uppercase',color:r.accentColor}}>{ui.read_more}</span>
                       </Link>
                     );
@@ -379,7 +379,7 @@ export default async function BlogArticlePage({ params }) {
             {pillarSlugBlog && (
               <div style={{marginTop:'40px',padding:'20px 24px',background:'#f0f4f8',borderLeft:'3px solid #2d5a8e',display:'flex',alignItems:'center',justifyContent:'space-between',gap:'16px',flexWrap:'wrap'}}>
                 <div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#888',marginBottom:'4px'}}>Resursa recomandata</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#595959',marginBottom:'4px'}}>Resursa recomandata</div>
                   <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.9rem',fontWeight:600,color:'#1a2a3a'}}>{pillarLabelBlog}</div>
                 </div>
                 <Link href={`/${pillarSlugBlog}`} style={{display:'inline-block',background:'#2d5a8e',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.7rem',letterSpacing:'.15em',textTransform:'uppercase',padding:'10px 20px',textDecoration:'none',whiteSpace:'nowrap'}}>

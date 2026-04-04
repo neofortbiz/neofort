@@ -123,7 +123,7 @@ export default async function AccesoriiPage({ params }) {
         .acc-specs li { font-size:.72rem; color:#636363; padding:3px 0; border-bottom:1px solid #f0f0ee; line-height:1.4; }
         .acc-specs li:last-child { border-bottom:none; }
         .acc-specs strong { color:#1a1a1a; font-weight:600; }
-        .acc-desc { font-size:.76rem; color:#888; line-height:1.6; margin:0 0 16px; flex:1; }
+        .acc-desc { font-size:.76rem; color:#595959; line-height:1.6; margin:0 0 16px; flex:1; }
         .acc-btn  { font-family:'Barlow Condensed',sans-serif; font-size:.58rem; font-weight:600; letter-spacing:.16em; text-transform:uppercase; text-decoration:none; border:1px solid #e8e8e4; padding:8px 16px; text-align:center; color:#1a1a1a; transition:all .18s; display:block; margin-top:auto; }
         .acc-btn:hover { background:#1a1a1a; color:#fff; border-color:#1a1a1a; }
         @media(max-width:1100px){ .acc-grid{ grid-template-columns:repeat(3,1fr); } }

@@ -147,7 +147,7 @@ export default function BlogGrid({ articles, locale, read }) {
           font-size: .6rem;
           letter-spacing: .12em;
           text-transform: uppercase;
-          color: #aaa;
+          color: #595959;
           background: transparent;
           border: none;
           border-bottom: 2px solid transparent;
@@ -197,10 +197,10 @@ export default function BlogGrid({ articles, locale, read }) {
           font-size: .74rem; letter-spacing: .04em; color: #1a1a1a;
           width: 100%; outline: none;
         }
-        .bg-search input::placeholder { color: #ccc; }
+        .bg-search input::placeholder { color: #767676; }
         .bg-search-clear {
           background: none; border: none; padding: 0;
-          cursor: pointer; color: #ccc; line-height: 1; flex-shrink: 0;
+          cursor: pointer; color: #767676; line-height: 1; flex-shrink: 0;
         }
         .bg-search-clear:hover { color: #555; }
         .bg-status {
@@ -227,7 +227,7 @@ export default function BlogGrid({ articles, locale, read }) {
         .bg-card:hover { border-color: #d8d8d4; box-shadow: 0 4px 20px rgba(0,0,0,.05); }
         .bg-empty {
           grid-column: 1/-1; text-align: center;
-          padding: 80px 0; color: #ccc;
+          padding: 80px 0; color: #767676;
           font-family: 'Barlow Condensed', sans-serif;
           font-size: 1rem; letter-spacing: .08em;
         }
@@ -295,7 +295,7 @@ export default function BlogGrid({ articles, locale, read }) {
           {mounted && (
             <p className="bg-status" aria-live="polite" aria-atomic="true">
               {filtered.length} {filtered.length === 1 ? resLabel[0] : resLabel[1]}
-              {searchQuery.trim().length >= 2 && <> — <em style={{fontStyle:'normal',color:'#999'}}>"{searchQuery.trim()}"</em></>}
+              {searchQuery.trim().length >= 2 && <> — <em style={{fontStyle:'normal',color:'#595959'}}>"{searchQuery.trim()}"</em></>}
             </p>
           )}
         </div>
@@ -334,10 +334,10 @@ export default function BlogGrid({ articles, locale, read }) {
                       <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'.54rem', letterSpacing:'.18em', textTransform:'uppercase', color:accent }}>{cat}</span>
                       <span style={{ color:'#e0e0e0', fontSize:'.4rem' }}>◆</span>
                       <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.58rem', letterSpacing:'.06em', color:'#bbb' }}>{date}</span>
-                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#ccc', marginLeft:'auto' }}>{rt}</span>
+                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#767676', marginLeft:'auto' }}>{rt}</span>
                     </div>
                     <h2 style={{ fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'1rem', color:'#1a1a1a', lineHeight:1.25, letterSpacing:'.01em', margin:'0 0 9px' }}>{title}</h2>
-                    <p style={{ fontSize:'.78rem', color:'#999', lineHeight:1.65, margin:'0 0 14px', flex:1 }}>{excerpt.slice(0,110)}…</p>
+                    <p style={{ fontSize:'.78rem', color:'#595959', lineHeight:1.65, margin:'0 0 14px', flex:1 }}>{excerpt.slice(0,110)}…</p>
                     <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.14em', textTransform:'uppercase', color:accent }}>{read}</span>
                   </div>
                 </Link>

@@ -645,10 +645,10 @@ export default async function ProductPage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <style>{`
         /* ── BREADCRUMB ── */
-        .prd-bc { font-size:.65rem; letter-spacing:.12em; text-transform:uppercase; color:#999; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
-        .prd-bc a { color:#999; text-decoration:none; }
+        .prd-bc { font-size:.65rem; letter-spacing:.12em; text-transform:uppercase; color:#595959; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
+        .prd-bc a { color:#595959; text-decoration:none; }
         .prd-bc a:hover { color:#1a1a1a; }
-        .prd-bc span { color:#ccc; }
+        .prd-bc span { color:#767676; }
 
         /* ── HERO GRID ── */
         .prd-hero { display:grid; grid-template-columns:1fr 1fr; gap:48px; align-items:start; }
@@ -661,7 +661,7 @@ export default async function ProductPage({ params }) {
         .prd-tagline { font-size:.88rem; color:#555; line-height:1.6; margin:0 0 28px; border-left:3px solid; padding-left:14px; }
 
         /* ── SPECS TABLES ── */
-        .prd-section-title { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.6rem; letter-spacing:.22em; text-transform:uppercase; color:#999; margin:0 0 12px; }
+        .prd-section-title { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.6rem; letter-spacing:.22em; text-transform:uppercase; color:#595959; margin:0 0 12px; }
         .prd-specs-grid { display:grid; grid-template-columns:1fr 1fr; gap:1px; background:#e8e8e4; border:1px solid #e8e8e4; margin-bottom:28px; }
         .prd-spec-row { background:#fff; display:flex; justify-content:space-between; gap:8px; padding:7px 10px; font-size:.73rem; }
         .prd-spec-row strong { color:#1a1a1a; font-weight:600; flex-shrink:0; }

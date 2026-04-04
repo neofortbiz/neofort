@@ -438,7 +438,7 @@ export default async function TamplariePVCPage({ params }) {
         <div className="container" style={{paddingTop:'24px',paddingBottom:'24px',borderTop:'1px solid #e8e8e4'}}>
           <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'12px'}}>
             <div>
-              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#888',marginBottom:'4px'}}>Ghid & Resurse</div>
+              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#595959',marginBottom:'4px'}}>Ghid & Resurse</div>
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.92rem',fontWeight:600,letterSpacing:'.04em',color:'#1a2a3a'}}>{pillarLabel}</div>
             </div>
             <Link href={`/${pillarSlug}`} style={{display:'inline-block',background:'#1a2a3a',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.18em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',whiteSpace:'nowrap'}}>

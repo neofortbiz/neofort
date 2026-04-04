@@ -552,7 +552,7 @@ export default async function HomePage({ params }) {
           <div className="steps-grid-home">
             {c.steps.map((s,i)=>(
               <div key={s.n} className="step-item" style={{padding:'36px 32px',borderRight:i<2?'1px solid #e8e8e8':'none'}}>
-                <div aria-hidden="true" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'clamp(1.6625rem, 4vw, 2.4625rem)',color:'#909090',lineHeight:1,marginBottom:'20px'}}>{s.n}</div>
+                <div aria-hidden="true" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'clamp(1.6625rem, 4vw, 2.4625rem)',color:'#595959',lineHeight:1,marginBottom:'20px'}}>{s.n}</div>
                 <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0125rem',color:'#1a1a1a',marginBottom:'10px'}}>{s.title}</h3>
                 <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#636363',lineHeight:1.7,textAlign:'justify'}}>{s.desc}</p>
               </div>
@@ -595,7 +595,7 @@ export default async function HomePage({ params }) {
               <details key={i} style={{borderBottom:'1px solid #e8e8e8',padding:'18px 0'}}>
                 <summary style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'0.92rem',color:'#1a1a1a',cursor:'pointer',letterSpacing:'.02em',listStyle:'none',display:'flex',justifyContent:'space-between',alignItems:'center'}}>
                   {item.q}
-                  <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1.1rem',color:'#999',marginLeft:'16px',flexShrink:0}}>+</span>
+                  <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1.1rem',color:'#595959',marginLeft:'16px',flexShrink:0}}>+</span>
                 </summary>
                 <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#636363',lineHeight:1.75,marginTop:'12px',textAlign:'justify'}}>{item.a}</p>
               </details>

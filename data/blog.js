@@ -13356,12 +13356,12 @@ Il kit TaHoma Switch (hub + app) parte da **180 EUR**. Configurazione completa i
       it: 'Il mito del PVC tossico: origini, cosa dice la scienza e perché le finestre moderne sono sicure — Analisi 2026',
     },
     metaDesc: {
-      ro: 'Analiza completă a mitului toxicității PVC-ului: istoric apariție, compoziție chimică, evoluție formulă fără plumb, comportament la temperaturi extreme și incendiu, certificate EU. Date verificabile, nu opinii.',
-      en: 'Complete analysis of the PVC toxicity myth: historical origins, chemical composition, evolution to lead-free formula, behaviour at extreme temperatures and fire, EU certifications. Verifiable data, not opinions.',
-      de: 'Vollständige Analyse des PVC-Giftigkeitsmythos: historische Ursprünge, chemische Zusammensetzung, Entwicklung zur bleifreien Formel, Verhalten bei extremen Temperaturen und Brand, EU-Zertifikate.',
-      fr: "Analyse complète du mythe de la toxicité du PVC : origines historiques, composition chimique, évolution vers une formule sans plomb, comportement aux températures extrêmes et en cas d'incendie, certifications UE.",
-      es: 'Análisis completo del mito de la toxicidad del PVC: orígenes históricos, composición química, evolución a fórmula sin plomo, comportamiento a temperaturas extremas e incendio, certificaciones UE.',
-      it: "Analisi completa del mito della tossicità del PVC: origini storiche, composizione chimica, evoluzione alla formula senza piombo, comportamento a temperature estreme e incendio, certificazioni UE.",
+      ro: 'Mitul PVC-ului toxic: origini istorice, compoziție fără plumb din 2008, comportament la incendiu și ger extrem. Analiză cu date verificabile și certificate EU.',
+      en: 'The PVC toxicity myth: historical origins, lead-free formula since 2008, fire and frost behaviour. Analysis with verifiable data and EU certifications.',
+      de: 'Der PVC-Giftigkeitsmythos: Ursprünge, bleifreie Formel seit 2008, Verhalten bei Brand und Frost. Analyse mit verifizierbaren Daten und EU-Zertifikaten.',
+      fr: 'Le mythe du PVC toxique : origines, formule sans plomb depuis 2008, comportement au feu et au gel. Analyse avec données vérifiables et certifications UE.',
+      es: 'El mito del PVC tóxico: orígenes, fórmula sin plomo desde 2008, comportamiento al fuego y al frío. Análisis con datos verificables y certificaciones UE.',
+      it: 'Il mito del PVC tossico: origini, formula senza piombo dal 2008, comportamento al fuoco e al gelo. Analisi con dati verificabili e certificazioni UE.',
     },
     excerpt: {
       ro: "PVC-ul toxic este unul dintre cele mai rezistente mituri din industria construcțiilor. Dar de unde vine acest mit, ce spune chimia cu adevărat și de ce profilele moderne Salamander nu au nicio legătură cu PVC-ul din anii '70? O analiză documentată, cu date reale.",

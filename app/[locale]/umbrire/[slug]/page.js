@@ -522,8 +522,8 @@ export default async function UmbrireProductPage({ params }) {
         ]
       })}}/>
       <style>{`
-        .prd-bc{font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:#999;display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:24px}
-        .prd-bc a{color:#999;text-decoration:none}.prd-bc a:hover{color:#1a1a1a}.prd-bc span{color:#ccc}
+        .prd-bc{font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:#595959;display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:24px}
+        .prd-bc a{color:#595959;text-decoration:none}.prd-bc a:hover{color:#1a1a1a}.prd-bc span{color:#767676}
         .prd-hero{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start}
         .prd-img-wrap{position:relative;background:#f8f8f6;border:1px solid #e8e8e4;display:flex;align-items:center;justify-content:center;padding:32px;min-height:320px}
         .prd-img{max-width:100%;max-height:340px;width:auto;height:auto;object-fit:contain;display:block}
@@ -531,7 +531,7 @@ export default async function UmbrireProductPage({ params }) {
         .prd-cat{font-family:'Barlow Condensed',sans-serif;font-size:.57rem;letter-spacing:.2em;text-transform:uppercase;font-weight:600;margin-bottom:10px}
         .prd-title{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:clamp(1.4rem,3vw,2rem);color:#1a1a1a;line-height:1.15;margin:0 0 14px}
         .prd-tagline{font-size:.88rem;color:#555;line-height:1.6;margin:0 0 28px;border-left:3px solid;padding-left:14px}
-        .prd-sec{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:.6rem;letter-spacing:.22em;text-transform:uppercase;color:#999;margin:0 0 12px}
+        .prd-sec{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:.6rem;letter-spacing:.22em;text-transform:uppercase;color:#595959;margin:0 0 12px}
         .prd-grid{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:#e8e8e4;border:1px solid #e8e8e4;margin-bottom:28px}
         .prd-row{background:#fff;display:flex;justify-content:space-between;gap:8px;padding:7px 10px;font-size:.73rem}
         .prd-row strong{color:#1a1a1a;font-weight:600;flex-shrink:0}.prd-row span{color:#555;text-align:right}

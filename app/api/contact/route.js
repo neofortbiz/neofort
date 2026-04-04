@@ -17,7 +17,7 @@ export async function POST(request) {
     // Produse HTML pentru emailuri
     const produseHTML = produse.length > 0
       ? produse.map(p => `<li style="padding:4px 0;border-bottom:1px solid #eee;font-size:.85rem;color:#1a1a1a;">${p}</li>`).join('')
-      : '<li style="color:#999;font-size:.85rem;">Niciun produs selectat</li>';
+      : '<li style="color:#595959;font-size:.85rem;">Niciun produs selectat</li>';
 
     // Procesează atașamentele
     const attachments = [];
@@ -46,28 +46,28 @@ export async function POST(request) {
           <div style="padding:32px;">
             <table style="width:100%;border-collapse:collapse;margin-bottom:24px;">
               <tr style="border-bottom:1px solid #eee;">
-                <td style="padding:10px 0;font-size:.8rem;color:#999;width:140px;text-transform:uppercase;letter-spacing:.1em;">Nume</td>
+                <td style="padding:10px 0;font-size:.8rem;color:#595959;width:140px;text-transform:uppercase;letter-spacing:.1em;">Nume</td>
                 <td style="padding:10px 0;font-size:.9rem;color:#1a1a1a;font-weight:500;">${nume}</td>
               </tr>
               <tr style="border-bottom:1px solid #eee;">
-                <td style="padding:10px 0;font-size:.8rem;color:#999;text-transform:uppercase;letter-spacing:.1em;">Telefon</td>
+                <td style="padding:10px 0;font-size:.8rem;color:#595959;text-transform:uppercase;letter-spacing:.1em;">Telefon</td>
                 <td style="padding:10px 0;font-size:.9rem;color:#1a1a1a;">${telefon}</td>
               </tr>
               <tr style="border-bottom:1px solid #eee;">
-                <td style="padding:10px 0;font-size:.8rem;color:#999;text-transform:uppercase;letter-spacing:.1em;">E-mail</td>
+                <td style="padding:10px 0;font-size:.8rem;color:#595959;text-transform:uppercase;letter-spacing:.1em;">E-mail</td>
                 <td style="padding:10px 0;font-size:.9rem;color:#1a1a1a;">${email}</td>
               </tr>
               <tr style="border-bottom:1px solid #eee;">
-                <td style="padding:10px 0;font-size:.8rem;color:#999;text-transform:uppercase;letter-spacing:.1em;">Comandă cu</td>
+                <td style="padding:10px 0;font-size:.8rem;color:#595959;text-transform:uppercase;letter-spacing:.1em;">Comandă cu</td>
                 <td style="padding:10px 0;font-size:.9rem;color:#1a1a1a;">${comanda}</td>
               </tr>
               <tr style="border-bottom:1px solid #eee;">
-                <td style="padding:10px 0;font-size:.8rem;color:#999;text-transform:uppercase;letter-spacing:.1em;">Adresă livrare</td>
+                <td style="padding:10px 0;font-size:.8rem;color:#595959;text-transform:uppercase;letter-spacing:.1em;">Adresă livrare</td>
                 <td style="padding:10px 0;font-size:.9rem;color:#1a1a1a;">${adresa}</td>
               </tr>
             </table>
             <div style="margin-bottom:24px;">
-              <div style="font-size:.8rem;color:#999;text-transform:uppercase;letter-spacing:.1em;margin-bottom:8px;">Produse solicitate:</div>
+              <div style="font-size:.8rem;color:#595959;text-transform:uppercase;letter-spacing:.1em;margin-bottom:8px;">Produse solicitate:</div>
               <ul style="margin:0;padding-left:16px;">${produseHTML}</ul>
             </div>
             ${attachments.length > 0 ? `
@@ -75,7 +75,7 @@ export async function POST(request) {
               📎 ${attachments.length} fișier(e) atașate: ${attachments.map(a => a.filename).join(', ')}
             </div>` : ''}
           </div>
-          <div style="background:#f7f7f5;padding:16px 32px;font-size:.75rem;color:#999;border-top:1px solid #eee;">
+          <div style="background:#f7f7f5;padding:16px 32px;font-size:.75rem;color:#595959;border-top:1px solid #eee;">
             Neofort BIZ · Str. Theodor Aman 11, Sector 1, București 010776 · oferte@neofort-biz.ro
           </div>
         </div>
@@ -95,7 +95,7 @@ export async function POST(request) {
             <div style="font-family:sans-serif;font-weight:300;font-size:1.1rem;letter-spacing:.35em;text-transform:uppercase;color:#fff;">
               NEOFORT BIZ
             </div>
-            <div style="font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:#888;margin-top:4px;">
+            <div style="font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:#595959;margin-top:4px;">
               Tâmplărie PVC Salamander · Aluminiu Alumil
             </div>
           </div>
@@ -111,21 +111,21 @@ export async function POST(request) {
 
             <!-- Rezumat -->
             <div style="background:#f7f7f5;padding:24px;margin-bottom:32px;">
-              <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:#999;margin-bottom:16px;">
+              <div style="font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:#595959;margin-bottom:16px;">
                 Rezumatul solicitării
               </div>
               <table style="width:100%;border-collapse:collapse;margin-bottom:16px;">
                 <tr style="border-bottom:1px solid #eee;">
-                  <td style="padding:8px 0;font-size:.78rem;color:#999;width:130px;">Tip comandă</td>
+                  <td style="padding:8px 0;font-size:.78rem;color:#595959;width:130px;">Tip comandă</td>
                   <td style="padding:8px 0;font-size:.82rem;color:#1a1a1a;">${comanda}</td>
                 </tr>
                 <tr style="border-bottom:1px solid #eee;">
-                  <td style="padding:8px 0;font-size:.78rem;color:#999;">Adresă livrare</td>
+                  <td style="padding:8px 0;font-size:.78rem;color:#595959;">Adresă livrare</td>
                   <td style="padding:8px 0;font-size:.82rem;color:#1a1a1a;">${adresa}</td>
                 </tr>
               </table>
               ${produse.length > 0 ? `
-              <div style="font-size:.78rem;color:#999;margin-bottom:8px;">Produse și servicii solicitate:</div>
+              <div style="font-size:.78rem;color:#595959;margin-bottom:8px;">Produse și servicii solicitate:</div>
               <ul style="margin:0;padding-left:16px;">${produseHTML}</ul>
               ` : ''}
             </div>
@@ -146,11 +146,11 @@ export async function POST(request) {
           </div>
 
           <!-- Footer -->
-          <div style="background:#111;padding:20px 32px;font-size:.72rem;color:#888;line-height:1.8;">
+          <div style="background:#111;padding:20px 32px;font-size:.72rem;color:#595959;line-height:1.8;">
             <div style="color:#fff;letter-spacing:.2em;text-transform:uppercase;font-size:.65rem;margin-bottom:6px;">NEOFORT BIZ SRL</div>
             Str. Theodor Aman 11, Sector 1, București 010776<br/>
             Luni — Vineri: 10:00 — 18:00<br/>
-            <a href="https://www.neofort-biz.ro" style="color:#888;text-decoration:none;">www.neofort-biz.ro</a>
+            <a href="https://www.neofort-biz.ro" style="color:#595959;text-decoration:none;">www.neofort-biz.ro</a>
             <div style="margin-top:12px;font-size:.65rem;color:#555;">
               Marcă înregistrată O.S.I.M. nr. M 2014 05130 · Acest email a fost generat automat ca urmare a solicitării dvs.
             </div>
