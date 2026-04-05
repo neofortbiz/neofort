@@ -356,7 +356,7 @@ img,video{max-width:100%;height:auto}
 .schedule-day{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:300;color:#bbb}
 .schedule-hours{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:400;color:#e0e0e0}
 .schedule-closed{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.72rem;font-weight:400;color:#999;letter-spacing:.08em;text-transform:uppercase}
-.maps-link{display:inline-flex;align-items:center;gap:8px;margin-top:24px;font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.67rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;color:#404040;text-decoration:none;padding:10px 0;border-bottom:1px solid #1e1e1e;width:100%;transition:color .15s}
+.maps-link{display:inline-flex;align-items:center;gap:8px;margin-top:24px;font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:.78rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;color:#bbb;text-decoration:none;padding:10px 0;border-bottom:1px solid #1e1e1e;width:100%;transition:color .15s}
 .maps-link:hover{color:#fff}
 
 /* ── FORMULAR CONTACT RESPONSIVE ── */

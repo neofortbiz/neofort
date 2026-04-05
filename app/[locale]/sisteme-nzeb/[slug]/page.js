@@ -412,7 +412,7 @@ export default async function NzebProductPage({ params }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <style>{`
-        .prd-bc{font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:#404040;display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:24px}
+        .prd-bc{font-size:.76rem;letter-spacing:.12em;text-transform:uppercase;color:#404040;display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:24px}
         .prd-bc a{color:#404040;text-decoration:none}.prd-bc a:hover{color:#1a1a1a}.prd-bc span{color:#404040}
         .prd-hero{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:start}
         .prd-img-wrap{position:relative;background:#f8f8f6;border:1px solid #e8e8e4;display:flex;align-items:center;justify-content:center;padding:32px;min-height:320px}
@@ -421,20 +421,20 @@ export default async function NzebProductPage({ params }) {
         .prd-cat{font-family:'Barlow Condensed',sans-serif;font-size:.57rem;letter-spacing:.2em;text-transform:uppercase;font-weight:600;margin-bottom:10px}
         .prd-title{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:clamp(1.4rem,3vw,2rem);color:#1a1a1a;line-height:1.15;margin:0 0 14px}
         .prd-tagline{font-size:.88rem;color:#555;line-height:1.6;margin:0 0 28px;border-left:3px solid;padding-left:14px}
-        .prd-sec{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:.6rem;letter-spacing:.22em;text-transform:uppercase;color:#404040;margin:0 0 12px}
+        .prd-sec{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:.74rem;letter-spacing:.22em;text-transform:uppercase;color:#1a1a1a;margin:0 0 14px}
         .prd-grid{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:#e8e8e4;border:1px solid #e8e8e4;margin-bottom:28px}
         .prd-row{background:#fff;display:flex;justify-content:space-between;gap:8px;padding:7px 10px;font-size:.73rem}
         .prd-row strong{color:#1a1a1a;font-weight:600;flex-shrink:0}.prd-row span{color:#555;text-align:right}
         .prd-perf{width:100%;border-collapse:collapse;margin-bottom:28px;font-size:.73rem}
-        .prd-perf tr{border-bottom:1px solid #f0f0ee}.prd-perf td{padding:6px 8px}
-        .prd-perf td:first-child{color:#4a4a4a;width:55%}.prd-perf td:last-child{font-weight:700;color:#1a1a1a;text-align:right}
+        .prd-perf tr{border-bottom:1px solid #f0f0ee}.prd-perf td{padding:7px 8px;font-size:.82rem}
+        .prd-perf td:first-child{color:#1a1a1a;width:55%;font-weight:400}.prd-perf td:last-child{font-weight:700;color:#1a1a1a;text-align:right}
         .prd-adv{list-style:none;padding:0;margin:0 0 28px}
         .prd-adv li{font-size:.8rem;color:#444;padding:8px 0 8px 20px;border-bottom:1px solid #f5f5f3;position:relative;line-height:1.5}
         .prd-adv li:last-child{border-bottom:none}
         .prd-cta-box{background:#111;padding:24px;position:sticky;top:100px}
-        .prd-cta-hl{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:.6rem;letter-spacing:.2em;text-transform:uppercase;color:#404040;margin-bottom:8px}
+        .prd-cta-hl{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:.74rem;letter-spacing:.2em;text-transform:uppercase;color:#1a1a1a;margin-bottom:8px}
         .prd-cta-nm{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:1.05rem;color:#fff;margin-bottom:16px;line-height:1.2}
-        .prd-cta-sub{font-size:.68rem;color:#555;margin-bottom:20px}
+        .prd-cta-sub{font-size:.84rem;color:#1a1a1a;margin-bottom:20px}
         .prd-cta-a{display:block;width:100%;padding:12px;text-align:center;font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;text-decoration:none;margin-bottom:10px;transition:all .18s}
         .prd-cta-pri{color:#111;background:#fff}.prd-cta-pri:hover{background:#f0f0f0}
         .prd-cta-sec{color:#fff;border:1px solid #333}.prd-cta-sec:hover{border-color:#404040}

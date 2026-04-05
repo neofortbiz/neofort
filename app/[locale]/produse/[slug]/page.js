@@ -645,7 +645,7 @@ export default async function ProductPage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <style>{`
         /* ── BREADCRUMB ── */
-        .prd-bc { font-size:.65rem; letter-spacing:.12em; text-transform:uppercase; color:#404040; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
+        .prd-bc { font-size:.76rem; letter-spacing:.12em; text-transform:uppercase; color:#404040; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
         .prd-bc a { color:#404040; text-decoration:none; }
         .prd-bc a:hover { color:#1a1a1a; }
         .prd-bc span { color:#404040; }
@@ -661,7 +661,7 @@ export default async function ProductPage({ params }) {
         .prd-tagline { font-size:.88rem; color:#555; line-height:1.6; margin:0 0 28px; border-left:3px solid; padding-left:14px; }
 
         /* ── SPECS TABLES ── */
-        .prd-section-title { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.6rem; letter-spacing:.22em; text-transform:uppercase; color:#404040; margin:0 0 12px; }
+        .prd-section-title { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.74rem; letter-spacing:.22em; text-transform:uppercase; color:#1a1a1a; margin:0 0 14px; }
         .prd-specs-grid { display:grid; grid-template-columns:1fr 1fr; gap:1px; background:#e8e8e4; border:1px solid #e8e8e4; margin-bottom:28px; }
         .prd-spec-row { background:#fff; display:flex; justify-content:space-between; gap:8px; padding:7px 10px; font-size:.73rem; }
         .prd-spec-row strong { color:#1a1a1a; font-weight:600; flex-shrink:0; }
@@ -671,7 +671,7 @@ export default async function ProductPage({ params }) {
         .prd-perf-table { width:100%; border-collapse:collapse; margin-bottom:28px; font-size:.73rem; }
         .prd-perf-table tr { border-bottom:1px solid #f0f0ee; }
         .prd-perf-table td { padding:6px 8px; }
-        .prd-perf-table td:first-child { color:#4a4a4a; width:55%; }
+        .prd-perf-table td:first-child { color:#1a1a1a; width:55%; font-weight:400; font-size:.82rem; }
         .prd-perf-table td:last-child { font-weight:700; color:#1a1a1a; text-align:right; }
 
         /* ── ADVANTAGES ── */
@@ -682,9 +682,9 @@ export default async function ProductPage({ params }) {
 
         /* ── CTA SIDEBAR ── */
         .prd-cta-box { background:#111; padding:24px; position:sticky; top:100px; }
-        .prd-cta-h { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.6rem; letter-spacing:.2em; text-transform:uppercase; color:#404040; margin-bottom:8px; }
+        .prd-cta-h { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.74rem; letter-spacing:.2em; text-transform:uppercase; color:#1a1a1a; margin-bottom:8px; }
         .prd-cta-name { font-family:'Barlow Condensed',sans-serif; font-weight:700; font-size:1.05rem; color:#fff; margin-bottom:16px; line-height:1.2; }
-        .prd-cta-sub { font-size:.68rem; color:#555; margin-bottom:20px; }
+        .prd-cta-sub { font-size:.84rem; color:#1a1a1a; margin-bottom:20px; }
         .prd-cta-btn { display:block; width:100%; padding:12px; text-align:center; font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.7rem; letter-spacing:.18em; text-transform:uppercase; text-decoration:none; margin-bottom:10px; transition:all .18s; }
         .prd-cta-btn-primary { color:#111; background:#fff; }
         .prd-cta-btn-primary:hover { background:#f0f0f0; }

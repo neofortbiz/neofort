@@ -22,7 +22,7 @@ import { Link, usePathname } from '../i18n/navigation';
 
 const FS = { xs: '.62rem', sm: '.72rem', md: '.84rem', lg: '1.1rem' };
 const FW = { light: 300, regular: 400, medium: 500 };
-const CL = { white: '#fff', light: '#bbb', mid: '#999', dark: '#999' };
+const CL = { white: '#fff', light: '#e0e0e0', mid: '#bbb', dark: '#bbb' };
 const FF = { cond: 'Barlow Condensed,sans-serif', body: 'Barlow,sans-serif' };
 
 // Label uppercase — col titluri, section headers
