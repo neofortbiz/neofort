@@ -333,8 +333,8 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical,
       languages: {
-        ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`])),
-        'x-default': `${BASE}/ro/${SLUGS.ro}`,
+        ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}/`])),
+        'x-default': `${BASE}/ro/${SLUGS.ro}/`,
       },
     },
     openGraph: { type: 'article', url: canonical, title: ui.h1, description: ui.sub, siteName: 'Neofort BIZ', images: [{ url: `${BASE}/og/nZEB.jpg`, width: 1200, height: 630, type: 'image/avif' }] },

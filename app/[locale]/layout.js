@@ -31,10 +31,10 @@ const barlowCondensed = Barlow_Condensed({
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const alternates = {};
-  locales.forEach(l => { alternates[l] = `${baseUrl}/${l}`; });
+  locales.forEach(l => { alternates[l] = `${baseUrl}/${l}/`; });
   return {
     metadataBase: new URL(baseUrl),
-    alternates: { languages: alternates, canonical: `${baseUrl}/${locale}` },
+    alternates: { languages: alternates, canonical: `${baseUrl}/${locale}/` },
     twitter: { card: 'summary_large_image', site: '@NeofortBIZ' },
     openGraph: {
       siteName: 'Neofort BIZ - Tâmplărie PVC & Aluminiu',

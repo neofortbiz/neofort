@@ -60,8 +60,8 @@ export async function generateMetadata({ params }) {
     keywords: locale === 'ro' ? 'accesorii tamplarie PVC, toc renovare, pervazuri PVC, grila aereco, ventilatie' : locale === 'en' ? 'PVC window accessories, renovation frame, PVC windowsills, Aereco grille' : locale === 'de' ? 'PVC Fensterzubehör, Renovierungsrahmen, Innenfensterbänke, Aereco Lüftungsgitter' : locale === 'fr' ? 'accessoires fenêtres PVC, cadre rénovation, appuis intérieurs, grille Aereco' : locale === 'es' ? 'accesorios ventanas PVC, marco renovación, alféizares interiores, rejilla Aereco' : 'accessori finestre PVC, telaio ristrutturazione, davanzali interni, griglia Aereco',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
-      languages: Object.fromEntries([...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]), ['x-default', `${BASE}/ro/${SLUGS.ro}`]]),
+      canonical: `${BASE}/${locale}/${slug}/`,
+      languages: Object.fromEntries([...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}/`]), ['x-default', `${BASE}/ro/${SLUGS.ro}`]]),
     },
     openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images: [{ url:`${BASE}/og/Accesorii_Neofort.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Accesorii tâmplărie: precadre Blaugelb, benzi etanșare, Warm Edge — Neofort BIZ' : locale==='en' ? 'Window accessories: Blaugelb precasings, sealing tapes, Warm Edge — Neofort BIZ' : locale==='de' ? 'Fensterzubehör: Blaugelb Vorfenster, Dichtbänder, Warm Edge — Neofort BIZ' : locale==='fr' ? 'Accessoires menuiserie: précadres Blaugelb, rubans étanchéité, Warm Edge — Neofort BIZ' : locale==='es' ? 'Accesorios carpintería: premarcos Blaugelb, cintas sellado, Warm Edge — Neofort BIZ' : 'Accessori infissi: pre-telai Blaugelb, nastri tenuta, Warm Edge — Neofort BIZ', type:'image/jpeg' }] },
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og/Accesorii_Neofort.jpg`] },

@@ -593,7 +593,7 @@ export async function generateMetadata({ params }) {
     keywords: `${name} · Neofort BIZ · tâmplărie PVC Salamander · aluminiu Alumil · București`,
     robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${(PROD_SEG[locale]||'produse')}/${localSlug}`,
+      canonical: `${BASE}/${locale}/${(PROD_SEG[locale]||'produse')}/${localSlug}/`,
       languages: Object.fromEntries([
         ...LOCALES.map(l => [l, `${BASE}/${l}/${(PROD_SEG[l]||'produse')}/${altSlug(l)}`]),
         ['x-default', `${BASE}/ro/${(PROD_SEG['ro']||'produse')}/${altSlug('ro')}`],

@@ -32,7 +32,7 @@ export async function generateMetadata({ params }) {
     keywords: locale === 'ro' ? 'despre Neofort BIZ, furnizor tamplarie PVC aluminiu Bucuresti, 21 ani experienta' : locale === 'en' ? 'about Neofort BIZ, PVC aluminium window manufacturer Bucharest, 21 years experience' : locale === 'de' ? 'über Neofort BIZ, PVC Aluminiumfenster Hersteller Bukarest, 21 Jahre Erfahrung' : locale === 'fr' ? 'à propos Neofort BIZ, fabricant menuiseries PVC aluminium Bucarest, 21 ans' : locale === 'es' ? 'sobre Neofort BIZ, fabricante carpintería PVC aluminio Bucarest, 21 años' : 'chi siamo Neofort BIZ, produttore infissi PVC alluminio Bucarest, 21 anni',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
+      canonical: `${BASE}/${locale}/${slug}/`,
       languages: {
         'ro': `${BASE}/ro/${SLUGS_DESPRE.ro}`,
         'en': `${BASE}/en/${SLUGS_DESPRE.en}`,
@@ -40,7 +40,7 @@ export async function generateMetadata({ params }) {
         'fr': `${BASE}/fr/${SLUGS_DESPRE.fr}`,
         'es': `${BASE}/es/${SLUGS_DESPRE.es}`,
         'it': `${BASE}/it/${SLUGS_DESPRE.it}`,
-        'x-default': `${BASE}/ro/${SLUGS_DESPRE.ro}`,
+        'x-default': `${BASE}/ro/${SLUGS_DESPRE.ro}/`,
       },
     },
     openGraph: {

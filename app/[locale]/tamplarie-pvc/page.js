@@ -156,7 +156,7 @@ export async function generateMetadata({ params }) {
            : locale === 'fr' ? 'Menuiserie PVC Salamander Bucarest — BluEvolution 92, GreenEvolution 76, Pose nZEB | Neofort BIZ'
            : locale === 'es' ? 'Carpintería PVC Salamander Bucarest — BluEvolution 92, GreenEvolution 76, Instalación nZEB | Neofort BIZ'
            : 'Infissi PVC Salamander Bucarest — BluEvolution 92, GreenEvolution 76, Posa nZEB | Neofort BIZ',
-    description: locale === 'ro' ? 'Tâmplărie PVC Salamander cu geam termopan — sisteme BluEvolution 92 (6 camere) și GreenEvolution 76. Montaj certificat nZEB, precadre Blaugelb Triotherm+, livrare în toată Europa. Solicită ofertă gratuită.'
+    description: locale === 'ro' ? 'Tâmplărie PVC Salamander București — BluEvolution 92 și GreenEvolution 76. Montaj nZEB, precadre Blaugelb, geam termopan. Ofertă gratuită.'
                : locale === 'en' ? 'Salamander PVC windows with thermal glass — BluEvolution 92 (6-chamber) and GreenEvolution 76 systems. nZEB certified installation, Blaugelb Triotherm+ precasings, delivery across Europe.'
                : locale === 'de' ? 'Salamander PVC-Fenster mit Isolierglas — BluEvolution 92 (6-Kammer) und GreenEvolution 76. nZEB-Montage, Blaugelb Triotherm+ Vorfenster, Lieferung in ganz Europa.'
                : locale === 'fr' ? 'Menuiserie PVC Salamander avec vitrage isolant — BluEvolution 92 (6 chambres) et GreenEvolution 76. Pose nZEB, précadres Blaugelb Triotherm+, livraison en Europe.'
@@ -165,7 +165,7 @@ export async function generateMetadata({ params }) {
     keywords: locale === 'ro' ? 'tamplarie PVC Salamander, tamplarie salamander bucuresti, ferestre PVC Bucuresti, BluEvolution 92, GreenEvolution 76, termopane pvc bucuresti, ferestre pvc pret 2026, montaj ferestre pvc nZEB, sisteme salamander 6 camere' : locale === 'en' ? 'PVC Salamander windows, BluEvolution 92, GreenEvolution 76, nZEB windows Bucharest' : locale === 'de' ? 'PVC Salamander Fenster, BluEvolution 92, GreenEvolution 76, nZEB Fenster Bukarest' : locale === 'fr' ? 'menuiserie PVC Salamander, BluEvolution 92, GreenEvolution 76, fenêtres nZEB Bucarest' : locale === 'es' ? 'carpintería PVC Salamander, BluEvolution 92, GreenEvolution 76, ventanas nZEB Bucarest' : 'infissi PVC Salamander, BluEvolution 92, GreenEvolution 76, finestre nZEB Bucarest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
+      canonical: `${BASE}/${locale}/${slug}/`,
       languages: {
         'ro': `${BASE}/ro/${SLUGS_TAMPLARIE_PVC.ro}`,
         'en': `${BASE}/en/${SLUGS_TAMPLARIE_PVC.en}`,
@@ -173,7 +173,7 @@ export async function generateMetadata({ params }) {
         'fr': `${BASE}/fr/${SLUGS_TAMPLARIE_PVC.fr}`,
         'es': `${BASE}/es/${SLUGS_TAMPLARIE_PVC.es}`,
         'it': `${BASE}/it/${SLUGS_TAMPLARIE_PVC.it}`,
-        'x-default': `${BASE}/ro/${SLUGS_TAMPLARIE_PVC.ro}`,
+        'x-default': `${BASE}/ro/${SLUGS_TAMPLARIE_PVC.ro}/`,
       },
     },
     openGraph: {

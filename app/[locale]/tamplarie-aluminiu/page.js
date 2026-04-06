@@ -155,7 +155,7 @@ export async function generateMetadata({ params }) {
            : locale === 'fr' ? 'Menuiserie Aluminium Alumil Bucarest — Fenêtres, Portes, Supreme et Smartia | Neofort BIZ'
            : locale === 'es' ? 'Carpintería Aluminio Alumil Bucarest — Ventanas, Puertas, Supreme y Smartia | Neofort BIZ'
            : 'Infissi Alluminio Alumil Bucarest — Finestre, Porte, Supreme e Smartia | Neofort BIZ',
-    description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil cu barieră termică — ferestre, uși, glisante și pereți cortină. Sisteme Supreme SF85, Smartia S67. Montaj certificat nZEB în București și toată Europa. Solicită ofertă gratuită.'
+    description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil București — Supreme SF85, Smartia M67. Ferestre, glisante, pereți cortină. Montaj nZEB certificat. Ofertă gratuită.'
                : locale === 'en' ? 'Alumil thermal break aluminium windows — frames, doors, sliding and curtain walls. Supreme SF85, Smartia S67 systems. nZEB certified installation in Bucharest and across Europe. Request free quote.'
                : locale === 'de' ? 'Alumil Aluminiumfenster mit Wärmedämmbrücke — Fenster, Türen, Schiebe- und Vorhangfassaden. Supreme SF85, Smartia S67. nZEB-Montage in Bukarest und ganz Europa.'
                : locale === 'fr' ? 'Menuiserie aluminium Alumil à rupture de pont thermique — fenêtres, portes, coulissants et murs-rideaux. Supreme SF85, Smartia S67. Pose nZEB à Bucarest et en Europe.'
@@ -164,7 +164,7 @@ export async function generateMetadata({ params }) {
     keywords: locale === 'ro' ? 'tamplarie aluminiu, tamplarie aluminiu bucuresti, tamplarie aluminiu pret, tamplarie alumil, termopane aluminiu, ferestre aluminiu bucuresti, tamplarie aluminiu bariera termica, alumil supreme sf85, alumil smartia s67, ferestre aluminiu pret 2026' : locale === 'en' ? 'aluminium windows, aluminium windows Bucharest, Alumil windows, aluminium windows price, thermal break aluminium windows, Alumil Supreme SF85, Alumil Smartia S67' : locale === 'de' ? 'Aluminiumfenster Bukarest, Alumil Fenster, Aluminiumfenster Preis, Wärmedämmbrücke Aluminium, Alumil Supreme, Alumil Smartia' : locale === 'fr' ? 'menuiserie aluminium Bucarest, prix menuiserie aluminium, Alumil Supreme, Alumil Smartia, fenêtres aluminium rupture pont thermique' : locale === 'es' ? 'carpintería aluminio Bucarest, precio ventanas aluminio, Alumil Supreme, Alumil Smartia, ventanas aluminio rotura puente térmico' : 'infissi alluminio Bucarest, prezzo infissi alluminio, Alumil Supreme, Alumil Smartia, finestre alluminio taglio termico',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
+      canonical: `${BASE}/${locale}/${slug}/`,
       languages: {
         'ro': `${BASE}/ro/${SLUGS_TAMPLARIE_ALUMINIU.ro}`,
         'en': `${BASE}/en/${SLUGS_TAMPLARIE_ALUMINIU.en}`,
@@ -172,7 +172,7 @@ export async function generateMetadata({ params }) {
         'fr': `${BASE}/fr/${SLUGS_TAMPLARIE_ALUMINIU.fr}`,
         'es': `${BASE}/es/${SLUGS_TAMPLARIE_ALUMINIU.es}`,
         'it': `${BASE}/it/${SLUGS_TAMPLARIE_ALUMINIU.it}`,
-        'x-default': `${BASE}/ro/${SLUGS_TAMPLARIE_ALUMINIU.ro}`,
+        'x-default': `${BASE}/ro/${SLUGS_TAMPLARIE_ALUMINIU.ro}/`,
       },
     },
     openGraph: {

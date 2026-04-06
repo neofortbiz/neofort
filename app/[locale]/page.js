@@ -386,8 +386,8 @@ export async function generateMetadata({ params }) {
     publisher: 'Neofort BIZ',
     robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1, 'max-video-preview':-1 } },
     alternates: {
-      canonical: `${BASE}/${locale}`,
-      languages: { ro:`${BASE}/ro`, en:`${BASE}/en`, de:`${BASE}/de`, fr:`${BASE}/fr`, es:`${BASE}/es`, it:`${BASE}/it`, 'x-default':`${BASE}/ro` },
+      canonical: `${BASE}/${locale}/`,
+      languages: { ro:`${BASE}/ro/`, en:`${BASE}/en/`, de:`${BASE}/de/`, fr:`${BASE}/fr/`, es:`${BASE}/es/`, it:`${BASE}/it/`, 'x-default':`${BASE}/ro/` },
     },
     openGraph: {
       type:'website', locale: { ro:'ro_RO', en:'en_US', de:'de_DE', fr:'fr_FR', es:'es_ES', it:'it_IT' }[locale] || 'ro_RO',

@@ -140,7 +140,7 @@ export async function generateMetadata({ params }) {
     keywords: locale === 'ro' ? 'servicii montaj tamplarie PVC aluminiu, masuratori ferestre Bucuresti, transport Europa' : locale === 'en' ? 'PVC aluminium window installation services, window measurement Bucharest, EU transport' : locale === 'de' ? 'PVC Aluminiumfenster Montage, Fensteraufmaß Bukarest, Transport Europa' : locale === 'fr' ? 'services pose fenêtres PVC aluminium, métrage Bucarest, transport Europe' : locale === 'es' ? 'servicios instalación carpintería PVC aluminio, medición Bucarest, transporte Europa' : 'servizi installazione infissi PVC alluminio, rilievo Bucarest, trasporto Europa',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
+      canonical: `${BASE}/${locale}/${slug}/`,
       languages: {
         'ro': `${BASE}/ro/${SLUGS_SERVICII.ro}`,
         'en': `${BASE}/en/${SLUGS_SERVICII.en}`,
@@ -148,7 +148,7 @@ export async function generateMetadata({ params }) {
         'fr': `${BASE}/fr/${SLUGS_SERVICII.fr}`,
         'es': `${BASE}/es/${SLUGS_SERVICII.es}`,
         'it': `${BASE}/it/${SLUGS_SERVICII.it}`,
-        'x-default': `${BASE}/ro/${SLUGS_SERVICII.ro}`,
+        'x-default': `${BASE}/ro/${SLUGS_SERVICII.ro}/`,
       },
     },
     openGraph: {

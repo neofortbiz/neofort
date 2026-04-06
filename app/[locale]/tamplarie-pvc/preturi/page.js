@@ -291,9 +291,9 @@ export async function generateMetadata({ params }) {
             : 'PVC window prices 2026, Salamander PVC windows cost, BluEvolution 92 price, GreenEvolution 76 price',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
+      canonical: `${BASE}/${locale}/${slug}/`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]),
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}/`]),
         ['x-default', `${BASE}/ro/${SLUGS.ro}`],
       ]),
     },

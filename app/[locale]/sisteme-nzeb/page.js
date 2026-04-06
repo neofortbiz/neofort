@@ -66,8 +66,8 @@ export async function generateMetadata({ params }) {
     keywords: locale === 'ro' ? 'sisteme nZEB, precadre Blaugelb Triotherm, banda butilic, warm edge, geam saint gobain' : locale === 'en' ? 'nZEB systems, Blaugelb Triotherm precasings, butyl tape, warm edge, Saint Gobain glass' : locale === 'de' ? 'nZEB Systeme, Blaugelb Triotherm Vorfenster, Butylband, Warm Edge, Saint Gobain Glas' : locale === 'fr' ? 'systèmes nZEB, précadres Blaugelb Triotherm, bande butyle, warm edge, verre Saint Gobain' : locale === 'es' ? 'sistemas nZEB, premarcos Blaugelb Triotherm, cinta butílica, warm edge, vidrio Saint Gobain' : 'sistemi nZEB, pre-telai Blaugelb Triotherm, nastro butilico, warm edge, vetro Saint Gobain',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
-      languages: Object.fromEntries([...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]), ['x-default', `${BASE}/ro/${SLUGS.ro}`]]),
+      canonical: `${BASE}/${locale}/${slug}/`,
+      languages: Object.fromEntries([...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}/`]), ['x-default', `${BASE}/ro/${SLUGS.ro}`]]),
     },
     openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images: [{ url:`${BASE}/og/nZEB.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Sisteme nZEB — ferestre pentru clădiri cu consum de energie aproape zero' : locale==='en' ? 'nZEB systems — windows for nearly zero energy buildings' : locale==='de' ? 'nZEB-Systeme — Fenster für Niedrigstenergiegebäude' : locale==='fr' ? 'Systèmes nZEB — fenêtres pour bâtiments à énergie quasi nulle' : locale==='es' ? 'Sistemas nZEB — ventanas para edificios de consumo casi nulo' : 'Sistemi nZEB — finestre per edifici a energia quasi zero', type:'image/jpeg' }] },
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og/nZEB.jpg`] },

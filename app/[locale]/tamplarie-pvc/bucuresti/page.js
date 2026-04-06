@@ -339,9 +339,9 @@ export async function generateMetadata({ params }) {
             : 'PVC windows Bucharest, Salamander windows Bucharest installation, BluEvolution 92 Bucharest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
+      canonical: `${BASE}/${locale}/${slug}/`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]),
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}/`]),
         ['x-default', `${BASE}/ro/${SLUGS.ro}`],
       ]),
     },

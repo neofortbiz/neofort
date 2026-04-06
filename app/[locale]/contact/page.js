@@ -209,7 +209,7 @@ export async function generateMetadata({ params }) {
     keywords: locale === 'ro' ? 'contact Neofort BIZ, oferta tamplarie PVC aluminiu Bucuresti, cerere oferta ferestre' : locale === 'en' ? 'contact Neofort BIZ, PVC aluminium window quote Bucharest, window quote request' : locale === 'de' ? 'Kontakt Neofort BIZ, PVC Aluminiumfenster Angebot Bukarest' : locale === 'fr' ? 'contact Neofort BIZ, devis menuiserie PVC aluminium Bucarest' : locale === 'es' ? 'contacto Neofort BIZ, presupuesto carpintería PVC aluminio Bucarest' : 'contatto Neofort BIZ, preventivo infissi PVC alluminio Bucarest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
+      canonical: `${BASE}/${locale}/${slug}/`,
       languages: {
         'ro': `${BASE}/ro/${SLUGS_CONTACT.ro}`,
         'en': `${BASE}/en/${SLUGS_CONTACT.en}`,
@@ -217,7 +217,7 @@ export async function generateMetadata({ params }) {
         'fr': `${BASE}/fr/${SLUGS_CONTACT.fr}`,
         'es': `${BASE}/es/${SLUGS_CONTACT.es}`,
         'it': `${BASE}/it/${SLUGS_CONTACT.it}`,
-        'x-default': `${BASE}/ro/${SLUGS_CONTACT.ro}`,
+        'x-default': `${BASE}/ro/${SLUGS_CONTACT.ro}/`,
       },
     },
     openGraph: {

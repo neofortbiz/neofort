@@ -336,7 +336,7 @@ export async function generateMetadata({ params }) {
              : `${name} Neofort BIZ București`,
     robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}/${localSlug}`,
+      canonical: `${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}/${localSlug}/`,
       languages: Object.fromEntries([
         ...LOCALES.map(l => [l, `${BASE}/${l}/${(UMB_SEG[l]||'umbrire')}/${altSlug(l)}`]),
         ['x-default', `${BASE}/ro/${(UMB_SEG['ro']||'umbrire')}/${altSlug('ro')}`],

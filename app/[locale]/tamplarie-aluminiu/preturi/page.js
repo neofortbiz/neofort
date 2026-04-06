@@ -281,7 +281,7 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Prix Menuiserie Aluminium 2026 — Systèmes Alumil Supreme et Smartia | Neofort BIZ'
          : locale === 'es' ? 'Precios Carpintería Aluminio 2026 — Sistemas Alumil Supreme y Smartia | Neofort BIZ'
          : 'Prezzi Infissi Alluminio 2026 — Sistemi Alumil Supreme e Smartia | Neofort BIZ',
-    description: locale === 'ro' ? 'Prețuri actualizate 2026 tâmplărie aluminiu: Alumil Smartia 250–350 EUR/mp, Supreme SF85 350–500 EUR/mp, sisteme glisante și pereți cortină. Montaj nZEB București.'
+    description: locale === 'ro' ? 'Prețuri tâmplărie aluminiu 2026: Alumil Smartia 250–350 EUR/mp, Supreme SF85 350–500 EUR/mp. Calcul gratuit, montaj nZEB inclus.'
                : locale === 'en' ? 'Updated 2026 aluminium window prices: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², sliding systems and curtain walls. nZEB installation Bucharest.'
                : locale === 'de' ? 'Aktualisierte Preise 2026 Aluminiumfenster: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², Schiebesysteme und Vorhangfassaden. nZEB-Montage Bukarest.'
                : locale === 'fr' ? 'Prix actualisés 2026 menuiserie aluminium: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², coulissants et murs-rideaux. Pose nZEB Bucarest.'
@@ -291,9 +291,9 @@ export async function generateMetadata({ params }) {
             : 'aluminium window prices 2026, aluminium windows cost, Alumil price, aluminium window price per m2',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
+      canonical: `${BASE}/${locale}/${slug}/`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]),
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}/`]),
         ['x-default', `${BASE}/ro/${SLUGS.ro}`],
       ]),
     },

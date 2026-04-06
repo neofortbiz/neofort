@@ -329,7 +329,7 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Menuiserie Aluminium Bucarest — Pose Alumil Arrondissements 1–6, Ilfov | Neofort BIZ'
          : locale === 'es' ? 'Carpintería Aluminio Bucarest — Instalación Alumil Distritos 1–6, Ilfov | Neofort BIZ'
          : 'Infissi Alluminio Bucarest — Posa Alumil Settori 1–6, Ilfov | Neofort BIZ',
-    description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil în București — montaj în toate sectoarele și Ilfov. Echipe proprii certificate nZEB, măsurători gratuite, garanție 5 ani. Sector 1, Voluntari, Pipera, Otopeni.'
+    description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil în București — montaj toate sectoarele și Ilfov. Echipe certificate nZEB, măsurătoare gratuită, livrare rapidă.'
                : locale === 'en' ? 'Alumil aluminium windows in Bucharest — installation in all districts and Ilfov. Own nZEB-certified teams, free measurements, 5-year warranty. District 1, Voluntari, Pipera, Otopeni.'
                : locale === 'de' ? 'Alumil Aluminiumfenster in Bukarest — Montage in allen Bezirken und Ilfov. Eigene nZEB-zertifizierte Teams, kostenlose Aufmaße, 5 Jahre Garantie.'
                : locale === 'fr' ? 'Menuiserie aluminium Alumil à Bucarest — pose dans tous les arrondissements et Ilfov. Équipes propres certifiées nZEB, métrés gratuits, garantie 5 ans.'
@@ -339,9 +339,9 @@ export async function generateMetadata({ params }) {
             : 'aluminium windows Bucharest, aluminium window installation Bucharest, Alumil Bucharest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}`,
+      canonical: `${BASE}/${locale}/${slug}/`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]),
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}/`]),
         ['x-default', `${BASE}/ro/${SLUGS.ro}`],
       ]),
     },

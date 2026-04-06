@@ -345,14 +345,13 @@ const pages = [
   { key:'contact',   priority:0.8, freq:'monthly' },
   { key:'blog',      priority:0.7, freq:'weekly'  },
   { key:'despre',    priority:0.5, freq:'yearly'  },
-  { key:'gdpr',      priority:0.2, freq:'yearly'  },
     { key:'cookies',    priority:0.2, freq:'yearly'  },
   { key:'umbrire',    priority:0.8, freq:'monthly' },
   { key:'nzeb',       priority:0.8, freq:'monthly' },
 ];
 
 function pageSlug(locale, key) {
-  if (!key) return '';
+  if (!key) return '/';
   if (key === 'blog') return '/blog';
   return '/' + (PAGE_SLUGS[locale]?.[key] || PAGE_SLUGS.ro[key]);
 }

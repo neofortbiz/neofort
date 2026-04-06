@@ -34,8 +34,8 @@ export async function generateMetadata({ params }) {
       googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
     },
     alternates: {
-      canonical: `${BASE}/${locale}/blog/${mySlug}`,
-      languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${a.slugs[l] || a.slugs.ro}`])), 'x-default': `${BASE}/ro/blog/${a.slugs.ro}` },
+      canonical: `${BASE}/${locale}/blog/${mySlug}/`,
+      languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${a.slugs[l] || a.slugs.ro}`])), 'x-default': `${BASE}/ro/blog/${a.slugs.ro}/` },
     },
     openGraph: {
       type: 'article',
