@@ -359,15 +359,15 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `${BASE}/${locale}/${(NZEB_SEG[locale]||'sisteme-nzeb')}/${localSlug}/`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${(NZEB_SEG[l]||'sisteme-nzeb')}/${altSlug(l)}`]),
-        ['x-default', `${BASE}/ro/${(NZEB_SEG['ro']||'sisteme-nzeb')}/${altSlug('ro')}`],
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${(NZEB_SEG[l]||'sisteme-nzeb')}/${altSlug(l)}/`]),
+        ['x-default', `${BASE}/ro/${(NZEB_SEG['ro']||'sisteme-nzeb')}/${altSlug('ro')}/`],
       ]),
     },
     openGraph: {
-      type:'website', url:`${BASE}/${locale}/${(NZEB_SEG[locale]||'sisteme-nzeb')}/${localSlug}`,
+      type:'website', url:`${BASE}/${locale}/${(NZEB_SEG[locale]||'sisteme-nzeb')}/${localSlug}/`,
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
-      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600, alt:name, type:'image/jpeg' }],
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img.replace('.avif','.jpg')}`] },
+      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}/`, width:800, height:600, alt:name, type:'image/jpeg' }],
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img.replace('.avif','.jpg')}/`] },
     },
   }
 }
@@ -392,7 +392,7 @@ export default async function NzebProductPage({ params }) {
 
   const schema = {
     '@context':'https://schema.org', '@type':'Product',
-    name, description: seotxt, image: `${BASE}${product.img}`,
+    name, description: seotxt, image: `${BASE}${product.img}/`,
     brand: { '@type':'Brand', name:'Neofort BIZ' },
     seller: { '@type':'Organization', name:'Neofort BIZ SRL', url:BASE },
     offers: {

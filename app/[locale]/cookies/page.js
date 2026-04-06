@@ -127,7 +127,7 @@ export async function generateMetadata({ params }) {
     },
     openGraph: {
       type: 'website',
-      url: `${BASE}/${locale}/${slug}`,
+      url: `${BASE}/${locale}/${slug}/`,
       siteName: 'Neofort BIZ',
       title: ui.title_meta,
       description: ui.desc_meta,

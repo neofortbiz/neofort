@@ -338,15 +338,15 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}/${localSlug}/`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${(UMB_SEG[l]||'umbrire')}/${altSlug(l)}`]),
-        ['x-default', `${BASE}/ro/${(UMB_SEG['ro']||'umbrire')}/${altSlug('ro')}`],
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${(UMB_SEG[l]||'umbrire')}/${altSlug(l)}/`]),
+        ['x-default', `${BASE}/ro/${(UMB_SEG['ro']||'umbrire')}/${altSlug('ro')}/`],
       ]),
     },
     openGraph: {
-      type:'website', url:`${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}/${localSlug}`,
+      type:'website', url:`${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}/${localSlug}/`,
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
-      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600, alt:name, type:'image/jpeg' }],
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img.replace('.avif','.jpg')}`] },
+      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}/`, width:800, height:600, alt:name, type:'image/jpeg' }],
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img.replace('.avif','.jpg')}/`] },
     },
   }
 }
@@ -500,7 +500,7 @@ export default async function UmbrireProductPage({ params }) {
 
   const schema = {
     '@context':'https://schema.org', '@type':'Product',
-    name, description: seotxt, image: `${BASE}${product.img}`,
+    name, description: seotxt, image: `${BASE}${product.img}/`,
     brand: { '@type':'Brand', name:'Neofort BIZ' },
     seller: { '@type':'Organization', name:'Neofort BIZ SRL', url:BASE },
     offers: { '@type':'Offer', price:'0', priceCurrency:'RON', priceValidUntil:'2026-12-31', availability:'https://schema.org/InStock', url:`${BASE}/ro/contact`, seller:{'@type':'Organization',name:'Neofort BIZ SRL',url:BASE} },
@@ -518,7 +518,7 @@ export default async function UmbrireProductPage({ params }) {
         'itemListElement':[
           {'@type':'ListItem','position':1,'name':'Neofort BIZ','item':BASE},
           {'@type':'ListItem','position':2,'name':bpLabel,'item':`${BASE}/${locale}/umbrire`},
-          {'@type':'ListItem','position':3,'name':name,'item':`${BASE}/${locale}/${SLUG_MAP[canonical]?.[locale] || canonical}`},
+          {'@type':'ListItem','position':3,'name':name,'item':`${BASE}/${locale}/${SLUG_MAP[canonical]?.[locale] || canonical}/`},
         ]
       })}}/>
       <style>{`

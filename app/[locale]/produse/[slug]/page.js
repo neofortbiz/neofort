@@ -595,17 +595,17 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `${BASE}/${locale}/${(PROD_SEG[locale]||'produse')}/${localSlug}/`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${(PROD_SEG[l]||'produse')}/${altSlug(l)}`]),
-        ['x-default', `${BASE}/ro/${(PROD_SEG['ro']||'produse')}/${altSlug('ro')}`],
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${(PROD_SEG[l]||'produse')}/${altSlug(l)}/`]),
+        ['x-default', `${BASE}/ro/${(PROD_SEG['ro']||'produse')}/${altSlug('ro')}/`],
       ]),
     },
     openGraph: {
-      type:'website', url:`${BASE}/${locale}/${(PROD_SEG[locale]||'produse')}/${localSlug}`,
+      type:'website', url:`${BASE}/${locale}/${(PROD_SEG[locale]||'produse')}/${localSlug}/`,
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`,
       description: desc,
-      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600, alt:name, type:'image/jpeg' }],
+      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}/`, width:800, height:600, alt:name, type:'image/jpeg' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:`${name} · Neofort BIZ`, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600 }] }, };
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:`${name} · Neofort BIZ`, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}/`, width:800, height:600 }] }, };
 }
 
 // ─── PAGE ─────────────────────────────────────────────────────────────────────
@@ -631,7 +631,7 @@ export default async function ProductPage({ params }) {
   const schema = {
     '@context':'https://schema.org', '@type':'Product',
     'name': name, 'description': seotxt,
-    'image': `${BASE}${product.img}`,
+    'image': `${BASE}${product.img}/`,
     'brand': { '@type':'Brand', 'name':'Salamander' },
     'manufacturer': { '@type':'Organization', 'name':'Salamander GmbH & Co. KG', 'addressCountry':'DE' },
     'seller': { '@type':'Organization', 'name':'Neofort BIZ SRL', 'url':BASE },

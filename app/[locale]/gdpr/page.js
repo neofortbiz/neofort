@@ -141,7 +141,7 @@ export default async function GdprPage({ params }) {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
     'name': ui.h1 + ' — Neofort BIZ',
-    'url': `${BASE}/${locale}/${SLUGS_GDPR[locale] || 'gdpr'}`,
+    'url': `${BASE}/${locale}/${SLUGS_GDPR[locale] || 'gdpr'}/`,
     'isPartOf': { '@id': `${BASE}/#website` },
     'inLanguage': locale,
   };

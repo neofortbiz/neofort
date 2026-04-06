@@ -325,7 +325,7 @@ export async function generateMetadata({ params }) {
 
   const ui = UI[locale] || UI.ro;
   const slug = SLUGS[locale] || SLUGS.ro;
-  const canonical = `${BASE}/${locale}/${slug}`;
+  const canonical = `${BASE}/${locale}/${slug}/`;
   return {
     title: `${ui.h1} | Neofort BIZ`,
     description: ui.sub,
@@ -360,7 +360,7 @@ export default async function UmbrireGhidPage({ params }) {
     description: ui.sub,
     author: { '@type': 'Organization', name: 'Neofort BIZ', url: BASE },
     publisher: { '@type': 'Organization', name: 'Neofort BIZ', url: BASE },
-    mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}` },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}/` },
   };
 
   const faqSchema = {

@@ -316,7 +316,7 @@ export async function generateMetadata({ params }) {
 
   const ui = UI[locale] || UI.ro;
   const slug = SLUGS[locale] || SLUGS.ro;
-  const canonical = `${BASE}/${locale}/${slug}`;
+  const canonical = `${BASE}/${locale}/${slug}/`;
   return {
     title: `${ui.h1} | Neofort BIZ`,
     description: ui.sub,

@@ -297,15 +297,15 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `${BASE}/${locale}/${(ACC_SEG[locale]||'accesorii')}/${localSlug}/`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${(ACC_SEG[l]||'accesorii')}/${altSlug(l)}`]),
-        ['x-default', `${BASE}/ro/${(ACC_SEG['ro']||'accesorii')}/${altSlug('ro')}`],
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${(ACC_SEG[l]||'accesorii')}/${altSlug(l)}/`]),
+        ['x-default', `${BASE}/ro/${(ACC_SEG['ro']||'accesorii')}/${altSlug('ro')}/`],
       ]),
     },
     openGraph: {
-      type:'website', url:`${BASE}/${locale}/${(ACC_SEG[locale]||'accesorii')}/${localSlug}`,
+      type:'website', url:`${BASE}/${locale}/${(ACC_SEG[locale]||'accesorii')}/${localSlug}/`,
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
-      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600, alt:name, type:'image/jpeg' }],
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img.replace('.avif','.jpg')}`] },
+      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}/`, width:800, height:600, alt:name, type:'image/jpeg' }],
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img.replace('.avif','.jpg')}/`] },
     },
   }
 }
@@ -330,7 +330,7 @@ export default async function AccesorieProductPage({ params }) {
 
   const schema = {
     '@context':'https://schema.org', '@type':'Product',
-    name, description: seotxt, image: `${BASE}${product.img}`,
+    name, description: seotxt, image: `${BASE}${product.img}/`,
     brand: { '@type':'Brand', name:'Neofort BIZ' },
     seller: { '@type':'Organization', name:'Neofort BIZ SRL', url:BASE },
     offers: { '@type':'Offer', availability:'https://schema.org/InStock', priceCurrency:'RON', price:'0', priceValidUntil: new Date(new Date().setFullYear(new Date().getFullYear()+1)).toISOString().split('T')[0], seller:{'@type':'Organization',name:'Neofort BIZ SRL'} },

@@ -395,16 +395,16 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `${BASE}/${locale}/${(PALU_SEG[locale]||'produse-aluminiu')}/${localSlug}/`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${(PALU_SEG[l]||'produse-aluminiu')}/${altSlug(l)}`]),
-        ['x-default', `${BASE}/ro/${(PALU_SEG['ro']||'produse-aluminiu')}/${altSlug('ro')}`],
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${(PALU_SEG[l]||'produse-aluminiu')}/${altSlug(l)}/`]),
+        ['x-default', `${BASE}/ro/${(PALU_SEG['ro']||'produse-aluminiu')}/${altSlug('ro')}/`],
       ]),
     },
     openGraph: {
-      type:'website', url:`${BASE}/${locale}/${(PALU_SEG[locale]||'produse-aluminiu')}/${localSlug}`,
+      type:'website', url:`${BASE}/${locale}/${(PALU_SEG[locale]||'produse-aluminiu')}/${localSlug}/`,
       siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
-      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600, alt:name, type:'image/jpeg' }],
+      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}/`, width:800, height:600, alt:name, type:'image/jpeg' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:`${name} · Neofort BIZ`, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600 }] }, };
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:`${name} · Neofort BIZ`, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}/`, width:800, height:600 }] }, };
 }
 
 // ─── PAGE ─────────────────────────────────────────────────────────────────────
@@ -428,7 +428,7 @@ export default async function ProductAluPage({ params }) {
   const schema = {
     '@context':'https://schema.org', '@type':'Product',
     'name': name, 'description': seotxt,
-    'image': `${BASE}${product.img}`,
+    'image': `${BASE}${product.img}/`,
     'brand': { '@type':'Brand', 'name':'Alumil' },
     'manufacturer': { '@type':'Organization', 'name':'Alumil S.A.', 'addressCountry':'GR' },
     'seller': { '@type':'Organization', 'name':'Neofort BIZ SRL', 'url':BASE },

@@ -167,17 +167,17 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `${BASE}/${locale}/${slug}/`,
       languages: {
-        'ro': `${BASE}/ro/${SLUGS_TAMPLARIE_PVC.ro}`,
-        'en': `${BASE}/en/${SLUGS_TAMPLARIE_PVC.en}`,
-        'de': `${BASE}/de/${SLUGS_TAMPLARIE_PVC.de}`,
-        'fr': `${BASE}/fr/${SLUGS_TAMPLARIE_PVC.fr}`,
-        'es': `${BASE}/es/${SLUGS_TAMPLARIE_PVC.es}`,
-        'it': `${BASE}/it/${SLUGS_TAMPLARIE_PVC.it}`,
+        'ro': `${BASE}/ro/${SLUGS_TAMPLARIE_PVC.ro}/`,
+        'en': `${BASE}/en/${SLUGS_TAMPLARIE_PVC.en}/`,
+        'de': `${BASE}/de/${SLUGS_TAMPLARIE_PVC.de}/`,
+        'fr': `${BASE}/fr/${SLUGS_TAMPLARIE_PVC.fr}/`,
+        'es': `${BASE}/es/${SLUGS_TAMPLARIE_PVC.es}/`,
+        'it': `${BASE}/it/${SLUGS_TAMPLARIE_PVC.it}/`,
         'x-default': `${BASE}/ro/${SLUGS_TAMPLARIE_PVC.ro}/`,
       },
     },
     openGraph: {
-      type: 'website', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
+      type: 'website', url: `${BASE}/${locale}/${slug}/`, siteName: 'Neofort BIZ',
       title: t('title'), description: t('description'),
       images: [{ url:`${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Tâmplărie PVC Salamander BluEvolution 92 și GreenEvolution 76 — Neofort BIZ' : locale==='en' ? 'Salamander PVC windows BluEvolution 92 and GreenEvolution 76 — Neofort BIZ' : locale==='de' ? 'Salamander PVC-Fenster BluEvolution 92 und GreenEvolution 76 — Neofort BIZ' : locale==='fr' ? 'Fenêtres PVC Salamander BluEvolution 92 et GreenEvolution 76 — Neofort BIZ' : locale==='es' ? 'Ventanas PVC Salamander BluEvolution 92 y GreenEvolution 76 — Neofort BIZ' : 'Finestre PVC Salamander BluEvolution 92 e GreenEvolution 76 — Neofort BIZ', type:'image/jpeg' }],
     },
@@ -196,7 +196,7 @@ export default async function TamplariePVCPage({ params }) {
     '@context': 'https://schema.org', '@type': ['CollectionPage', 'Product'],
     'name': PAGE_UI[locale]?.h1 || PAGE_UI.ro.h1,
     'description': PAGE_UI[locale]?.sub || PAGE_UI.ro.sub,
-    'url': `${BASE}/${locale}/${SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro}`,
+    'url': `${BASE}/${locale}/${SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro}/`,
     'aggregateRating': {
       '@type': 'AggregateRating',
       'ratingValue': '4.9',
@@ -209,8 +209,8 @@ export default async function TamplariePVCPage({ params }) {
     'breadcrumb': {
       '@type': 'BreadcrumbList',
       'itemListElement': [
-        { '@type': 'ListItem', 'position': 1, 'name': 'Neofort BIZ', 'item': `${BASE}/${locale}` },
-        { '@type': 'ListItem', 'position': 2, 'name': PAGE_UI[locale]?.h1 || 'Profile PVC Salamander', 'item': `${BASE}/${locale}/${SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro}` },
+        { '@type': 'ListItem', 'position': 1, 'name': 'Neofort BIZ', 'item': `${BASE}/${locale}/` },
+        { '@type': 'ListItem', 'position': 2, 'name': PAGE_UI[locale]?.h1 || 'Profile PVC Salamander', 'item': `${BASE}/${locale}/${SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro}/` },
       ],
     },
   };

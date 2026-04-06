@@ -166,17 +166,17 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `${BASE}/${locale}/${slug}/`,
       languages: {
-        'ro': `${BASE}/ro/${SLUGS_TAMPLARIE_ALUMINIU.ro}`,
-        'en': `${BASE}/en/${SLUGS_TAMPLARIE_ALUMINIU.en}`,
-        'de': `${BASE}/de/${SLUGS_TAMPLARIE_ALUMINIU.de}`,
-        'fr': `${BASE}/fr/${SLUGS_TAMPLARIE_ALUMINIU.fr}`,
-        'es': `${BASE}/es/${SLUGS_TAMPLARIE_ALUMINIU.es}`,
-        'it': `${BASE}/it/${SLUGS_TAMPLARIE_ALUMINIU.it}`,
+        'ro': `${BASE}/ro/${SLUGS_TAMPLARIE_ALUMINIU.ro}/`,
+        'en': `${BASE}/en/${SLUGS_TAMPLARIE_ALUMINIU.en}/`,
+        'de': `${BASE}/de/${SLUGS_TAMPLARIE_ALUMINIU.de}/`,
+        'fr': `${BASE}/fr/${SLUGS_TAMPLARIE_ALUMINIU.fr}/`,
+        'es': `${BASE}/es/${SLUGS_TAMPLARIE_ALUMINIU.es}/`,
+        'it': `${BASE}/it/${SLUGS_TAMPLARIE_ALUMINIU.it}/`,
         'x-default': `${BASE}/ro/${SLUGS_TAMPLARIE_ALUMINIU.ro}/`,
       },
     },
     openGraph: {
-      type: 'website', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
+      type: 'website', url: `${BASE}/${locale}/${slug}/`, siteName: 'Neofort BIZ',
       title: t('title'), description: t('description'),
       images: [{ url:`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Tâmplărie aluminiu Alumil Supreme și Smartia — Neofort BIZ București' : locale==='en' ? 'Alumil Supreme and Smartia aluminium windows — Neofort BIZ Bucharest' : locale==='de' ? 'Alumil Supreme und Smartia Aluminiumfenster — Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiseries aluminium Alumil Supreme et Smartia — Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería aluminio Alumil Supreme y Smartia — Neofort BIZ Bucarest' : 'Infissi alluminio Alumil Supreme e Smartia — Neofort BIZ Bucarest', type:'image/jpeg' }],
     },
@@ -192,7 +192,7 @@ export default async function TamplaieAluminiuPage({ params }) {
   const schemaALU = {
     '@context': 'https://schema.org', '@type': ['CollectionPage', 'Product'],
     'name': PAGE_UI[locale]?.h1 || PAGE_UI.ro.h1,
-    'url': `${BASE}/${locale}/${SLUGS_TAMPLARIE_ALUMINIU[locale] || SLUGS_TAMPLARIE_ALUMINIU.ro}`,
+    'url': `${BASE}/${locale}/${SLUGS_TAMPLARIE_ALUMINIU[locale] || SLUGS_TAMPLARIE_ALUMINIU.ro}/`,
     'aggregateRating': {
       '@type': 'AggregateRating',
       'ratingValue': '4.9',
@@ -203,8 +203,8 @@ export default async function TamplaieAluminiuPage({ params }) {
     },
     'provider': { '@type': 'Organization', 'name': 'Neofort BIZ', 'url': BASE },
     'breadcrumb': { '@type': 'BreadcrumbList', 'itemListElement': [
-      { '@type': 'ListItem', 'position': 1, 'name': 'Neofort BIZ', 'item': `${BASE}/${locale}` },
-      { '@type': 'ListItem', 'position': 2, 'name': PAGE_UI[locale]?.h1 || 'Sisteme Aluminiu Alumil', 'item': `${BASE}/${locale}/${SLUGS_TAMPLARIE_ALUMINIU[locale] || SLUGS_TAMPLARIE_ALUMINIU.ro}` },
+      { '@type': 'ListItem', 'position': 1, 'name': 'Neofort BIZ', 'item': `${BASE}/${locale}/` },
+      { '@type': 'ListItem', 'position': 2, 'name': PAGE_UI[locale]?.h1 || 'Sisteme Aluminiu Alumil', 'item': `${BASE}/${locale}/${SLUGS_TAMPLARIE_ALUMINIU[locale] || SLUGS_TAMPLARIE_ALUMINIU.ro}/` },
     ]},
   };
   const faqSchema = {

@@ -365,12 +365,12 @@ export default function sitemap() {
     pages.forEach(p => {
       const path = pageSlug(locale, p.key);
       urls.push({
-        url: `${BASE}/${locale}${path}`,
+        url: `${BASE}/${locale}${path}/`,
         lastModified: now,
         priority: p.priority,
         changeFrequency: p.freq,
         alternates: {
-          languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}${pageSlug(l, p.key)}`])),
+          languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}${pageSlug(l, p.key)}/`])),
         },
       });
     });
@@ -379,12 +379,12 @@ export default function sitemap() {
     BLOG_SLUGS.forEach(slugs => {
       const mySlug = slugs[locale] || slugs.ro;
       urls.push({
-        url: `${BASE}/${locale}/blog/${mySlug}`,
+        url: `${BASE}/${locale}/blog/${mySlug}/`,
         lastModified: now,
         priority: 0.8,
         changeFrequency: 'monthly',
         alternates: {
-          languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${slugs[l] || slugs.ro}`])),
+          languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${slugs[l] || slugs.ro}/`])),
         },
       });
     });
@@ -411,8 +411,8 @@ export default function sitemap() {
   };
   [...Object.values(PVC_SEO), ...Object.values(ALU_SEO), ...Object.values(UMBRIRE_SEO), ...Object.values(NZEB_SEO)].forEach(slugs => {
     LOCALES.forEach(locale => {
-      urls.push({ url:`${BASE}/${locale}/${slugs[locale]||slugs.ro}`, lastModified:now, priority:0.88, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${slugs[l]||slugs.ro}`])) } });
+      urls.push({ url:`${BASE}/${locale}/${slugs[locale]||slugs.ro}/`, lastModified:now, priority:0.88, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${slugs[l]||slugs.ro}/`])) } });
     });
   });
 
@@ -428,8 +428,8 @@ export default function sitemap() {
   LOCALES.forEach(locale => {
     Object.entries(PVC_SLUGS).forEach(([canonical, slugs]) => {
       const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/produse/${mySlug}`, lastModified:now, priority:0.85, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/produse/${slugs[l]||canonical}`])) } });
+      urls.push({ url:`${BASE}/${locale}/produse/${mySlug}/`, lastModified:now, priority:0.85, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/produse/${slugs[l]||canonical}/`])) } });
     });
   });
 
@@ -445,8 +445,8 @@ export default function sitemap() {
   LOCALES.forEach(locale => {
     Object.entries(ALU_SLUGS).forEach(([canonical, slugs]) => {
       const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/produse-aluminiu/${mySlug}`, lastModified:now, priority:0.85, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/produse-aluminiu/${slugs[l]||canonical}`])) } });
+      urls.push({ url:`${BASE}/${locale}/produse-aluminiu/${mySlug}/`, lastModified:now, priority:0.85, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/produse-aluminiu/${slugs[l]||canonical}/`])) } });
     });
   });
 
@@ -460,8 +460,8 @@ export default function sitemap() {
   LOCALES.forEach(locale => {
     Object.entries(UMBRIRE_SLUGS).forEach(([canonical, slugs]) => {
       const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/umbrire/${mySlug}`, lastModified:now, priority:0.82, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/umbrire/${slugs[l]||canonical}`])) } });
+      urls.push({ url:`${BASE}/${locale}/umbrire/${mySlug}/`, lastModified:now, priority:0.82, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/umbrire/${slugs[l]||canonical}/`])) } });
     });
   });
 
@@ -476,8 +476,8 @@ export default function sitemap() {
   LOCALES.forEach(locale => {
     Object.entries(NZEB_SLUGS).forEach(([canonical, slugs]) => {
       const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/sisteme-nzeb/${mySlug}`, lastModified:now, priority:0.82, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/sisteme-nzeb/${slugs[l]||canonical}`])) } });
+      urls.push({ url:`${BASE}/${locale}/sisteme-nzeb/${mySlug}/`, lastModified:now, priority:0.82, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/sisteme-nzeb/${slugs[l]||canonical}/`])) } });
     });
   });
 
@@ -491,8 +491,8 @@ export default function sitemap() {
   LOCALES.forEach(locale => {
     Object.entries(ACC_SLUGS).forEach(([canonical, slugs]) => {
       const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/accesorii/${mySlug}`, lastModified:now, priority:0.80, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/accesorii/${slugs[l]||canonical}`])) } });
+      urls.push({ url:`${BASE}/${locale}/accesorii/${mySlug}/`, lastModified:now, priority:0.80, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/accesorii/${slugs[l]||canonical}/`])) } });
     });
   });
   return urls;
