@@ -112,7 +112,8 @@ export default async function BlogPage({ params }) {
         <img
           src="/blog-hero.avif"
           alt={hero.h1}
-          fetchpriority="high"
+          loading="eager"
+          fetchPriority="high"
           decoding="async"
           style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:0.18,display:'block'}}
         />

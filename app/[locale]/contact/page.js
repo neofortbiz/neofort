@@ -313,6 +313,7 @@ export default async function ContactPage({ params }) {
                     <img
                       src={m.photo}
                       alt={m.name}
+                      loading="lazy"
                       width={432}
                       height={434}
                       style={{ width:'100%', height:'100%', objectFit:'cover', objectPosition:'center top', display:'block' }}

@@ -433,6 +433,8 @@ export default async function HomePage({ params }) {
             <Link href="/tamplarie-pvc" className="hero-card">
               <img
                 src="/hero-pvc.avif"
+                loading="eager"
+                fetchPriority="high"
                 alt={locale==='ro' ? 'Tâmplărie PVC Salamander BluEvolution 92 — ferestre și uși PVC nZEB, Neofort BIZ București' : locale==='en' ? 'Salamander PVC windows BluEvolution 92 — nZEB certified PVC windows and doors, Neofort BIZ Bucharest' : locale==='de' ? 'Salamander Kunststofffenster BluEvolution 92 — nZEB zertifizierte PVC Fenster, Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiserie PVC Salamander BluEvolution 92 — fenêtres et portes PVC nZEB, Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería PVC Salamander BluEvolution 92 — ventanas y puertas PVC nZEB, Neofort BIZ Bucarest' : 'Infissi PVC Salamander BluEvolution 92 — finestre e porte PVC nZEB, Neofort BIZ Bucarest'}
                 width="800"
                 height="320"
@@ -451,6 +453,7 @@ export default async function HomePage({ params }) {
             <Link href="/tamplarie-aluminiu" className="hero-card">
               <img
                 src="/hero-aluminiu.avif"
+                loading="eager"
                 alt={locale==='ro' ? 'Tâmplărie aluminiu Alumil Supreme — sisteme aluminiu cu barieră termică nZEB, Neofort BIZ București' : locale==='en' ? 'Alumil Supreme aluminium windows — thermal break aluminium systems nZEB certified, Neofort BIZ Bucharest' : locale==='de' ? 'Alumil Supreme Aluminiumfenster — Aluminiumsysteme mit Wärmedämmbrücke nZEB, Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiserie aluminium Alumil Supreme — systèmes aluminium à rupture de pont thermique nZEB, Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería aluminio Alumil Supreme — sistemas aluminio con rotura de puente térmico nZEB, Neofort BIZ Bucarest' : 'Infissi alluminio Alumil Supreme — sistemi alluminio con taglio termico nZEB, Neofort BIZ Bucarest'}
                 width="648"
                 height="340"
