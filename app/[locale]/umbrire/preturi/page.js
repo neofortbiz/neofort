@@ -316,7 +316,7 @@ export async function generateMetadata({ params }) {
 
   const ui = UI[locale] || UI.ro;
   const slug = SLUGS[locale] || SLUGS.ro;
-  const canonical = `${BASE}/${locale}/${slug}/`;
+  const canonical = `${BASE}/${locale}/${slug}`;
   return {
     title: `${ui.h1} | Neofort BIZ`,
     description: ui.sub,
@@ -324,8 +324,8 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical,
       languages: {
-        ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}/`])),
-        'x-default': `${BASE}/ro/${SLUGS.ro}/`,
+        ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`])),
+        'x-default': `${BASE}/ro/${SLUGS.ro}`,
       },
     },
     openGraph: { type: 'article', url: canonical, title: ui.h1, description: ui.sub, siteName: 'Neofort BIZ', images: [{ url: `${BASE}/og/Sisteme_de_umbrire__rulouri_exterioare__jaluzele_raffstore__jaluzele_venetiene.jpg`, width: 1200, height: 630, type: 'image/avif' }] },

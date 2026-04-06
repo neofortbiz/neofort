@@ -128,8 +128,8 @@ export async function generateMetadata({ params }) {
     description: ui.desc_meta,
     robots: { index: false, follow: false },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}/`,
-      languages: { ...Object.fromEntries(Object.entries(SLUGS_GDPR).map(([l,s])=>[l,`${BASE}/${l}/${s}/`])), 'x-default': `${BASE}/ro/gdpr/` },
+      canonical: `${BASE}/${locale}/${slug}`,
+      languages: { ...Object.fromEntries(Object.entries(SLUGS_GDPR).map(([l,s])=>[l,`${BASE}/${l}/${s}`])), 'x-default': `${BASE}/ro/gdpr` },
     },
   };
 }
@@ -141,7 +141,7 @@ export default async function GdprPage({ params }) {
     '@context': 'https://schema.org',
     '@type': 'WebPage',
     'name': ui.h1 + ' — Neofort BIZ',
-    'url': `${BASE}/${locale}/${SLUGS_GDPR[locale] || 'gdpr'}/`,
+    'url': `${BASE}/${locale}/${SLUGS_GDPR[locale] || 'gdpr'}`,
     'isPartOf': { '@id': `${BASE}/#website` },
     'inLanguage': locale,
   };

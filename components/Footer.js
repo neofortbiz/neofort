@@ -391,7 +391,7 @@ export default function Footer() {
             {/* Rating + WhatsApp pe același rând */}
             <div style={{ display:'flex', alignItems:'center', gap:'12px', flexWrap:'wrap', marginBottom:'14px' }}>
               <a href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
-                style={{ fontFamily:FF.cond, fontSize:FS.sm, letterSpacing:'.06em', color:'#8a5200', textDecoration:'none', fontWeight:FW.medium, whiteSpace:'nowrap' }}>
+                style={{ fontFamily:FF.cond, fontSize:FS.sm, letterSpacing:'.06em', color:'#e8a000', textDecoration:'none', fontWeight:FW.medium, whiteSpace:'nowrap' }}>
                 {col.reviews}
               </a>
               <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"

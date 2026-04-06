@@ -81,7 +81,7 @@ export default function CookieBanner({ locale }) {
         fontFamily: 'Barlow, sans-serif',
         fontSize: '.78rem',
         fontWeight: 300,
-        color: '#4a4a4a',
+        color: '#e0e0e0',
         margin: 0,
         flex: 1,
         minWidth: '200px',

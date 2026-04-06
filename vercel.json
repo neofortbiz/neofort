@@ -1,11 +1,5 @@
 {
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/ro",
-      "permanent": true
-    }
-  ],
+  "redirects": [],
   "headers": [
     {
       "source": "/(.*)",

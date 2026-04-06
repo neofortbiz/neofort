@@ -339,14 +339,14 @@ export async function generateMetadata({ params }) {
             : 'aluminium windows Bucharest, aluminium window installation Bucharest, Alumil Bucharest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}/`,
+      canonical: `${BASE}/${locale}/${slug}`,
       languages: Object.fromEntries([
-        ...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}/`]),
-        ['x-default', `${BASE}/ro/${SLUGS.ro}/`],
+        ...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]),
+        ['x-default', `${BASE}/ro/${SLUGS.ro}`],
       ]),
     },
     openGraph: {
-      type: 'article', url: `${BASE}/${locale}/${slug}/`, siteName: 'Neofort BIZ',
+      type: 'article', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
       title: ui.h1, description: ui.sub,
       images: [{ url: `${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width: 1200, height: 630, alt: ui.h1, type: 'image/avif' }],
     },
@@ -381,9 +381,9 @@ export default async function BucurestiPage({ params }) {
     breadcrumb: {
       '@type': 'BreadcrumbList',
       itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Neofort BIZ', item: `${BASE}/${locale}/` },
-        { '@type': 'ListItem', position: 2, name: ui.parent, item: `${BASE}/${locale}/${parentSlug}/` },
-        { '@type': 'ListItem', position: 3, name: ui.h1, item: `${BASE}/${locale}/${slug}/` },
+        { '@type': 'ListItem', position: 1, name: 'Neofort BIZ', item: `${BASE}/${locale}` },
+        { '@type': 'ListItem', position: 2, name: ui.parent, item: `${BASE}/${locale}/${parentSlug}` },
+        { '@type': 'ListItem', position: 3, name: ui.h1, item: `${BASE}/${locale}/${slug}` },
       ],
     },
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:ui.h1, description:ui.sub, images:[`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`] },

@@ -34,21 +34,21 @@ export async function generateMetadata({ params }) {
       googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
     },
     alternates: {
-      canonical: `${BASE}/${locale}/blog/${mySlug}/`,
-      languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${a.slugs[l] || a.slugs.ro}/`])), 'x-default': `${BASE}/ro/blog/${a.slugs.ro}/` },
+      canonical: `${BASE}/${locale}/blog/${mySlug}`,
+      languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${a.slugs[l] || a.slugs.ro}`])), 'x-default': `${BASE}/ro/blog/${a.slugs.ro}` },
     },
     openGraph: {
       type: 'article',
-      url: `${BASE}/${locale}/blog/${mySlug}/`,
+      url: `${BASE}/${locale}/blog/${mySlug}`,
       siteName: 'Neofort BIZ',
       title: `${title} | Neofort BIZ`,
       description: desc,
-      images: [{ url: a.image?.[locale] ? `${BASE}${a.image[locale]}/` : `${BASE}/og/BLOG.jpg`, width: 1200, height: 630, alt: title, type: a.image?.[locale] ? (a.image[locale].endsWith('.jpg') ? 'image/jpeg' : 'image/avif') : 'image/jpeg' }],
+      images: [{ url: a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`, width: 1200, height: 630, alt: title, type: a.image?.[locale] ? (a.image[locale].endsWith('.jpg') ? 'image/jpeg' : 'image/avif') : 'image/jpeg' }],
       publishedTime: a.date,
       modifiedTime: a.date,
       locale: locale,
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[a.image?.[locale] ? `${BASE}${a.image[locale]}/` : `${BASE}/og/BLOG.jpg`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`] },
   };
 }
 
@@ -198,7 +198,7 @@ export default async function BlogArticlePage({ params }) {
     "name": title,
     "description": a.metaDesc?.[locale] || excerpt,
     "embedUrl": a.video.embed.match(/src="([^"]+)"/)?.[1] || '',
-    "thumbnailUrl": a.image?.[locale] ? `${BASE}${a.image[locale]}/` : `${BASE}/og/BLOG.jpg`,
+    "thumbnailUrl": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`,
     "uploadDate": a.date,
     "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
   } : null;
@@ -206,22 +206,22 @@ export default async function BlogArticlePage({ params }) {
   const articleSchema = {
     "@context":"https://schema.org","@type":"BlogPosting",
     "headline": title,"description": a.metaDesc?.[locale] || excerpt,
-    "keywords": a.keywords || '',"url": `${BASE}/${locale}/blog/${mySlug}/`,
+    "keywords": a.keywords || '',"url": `${BASE}/${locale}/blog/${mySlug}`,
     "datePublished": a.date,"dateModified": a.date,"inLanguage": locale,
     "articleSection": cat,
     "author": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
     "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE,
       "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.jpg`,"width":200,"height":60}},
-    "image": {"@type":"ImageObject","url": a.image?.[locale] ? `${BASE}${a.image[locale]}/` : `${BASE}/og/BLOG.jpg`,"width":1200,"height":630},
-    "mainEntityOfPage": {"@type":"WebPage","@id":`${BASE}/${locale}/blog/${mySlug}/`},
+    "image": {"@type":"ImageObject","url": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`,"width":1200,"height":630},
+    "mainEntityOfPage": {"@type":"WebPage","@id":`${BASE}/${locale}/blog/${mySlug}`},
   };
 
   const breadcrumbSchema = {
     "@context":"https://schema.org","@type":"BreadcrumbList",
     "itemListElement": [
-      {"@type":"ListItem","position":1,"name":"Neofort BIZ","item":`${BASE}/${locale}/`},
+      {"@type":"ListItem","position":1,"name":"Neofort BIZ","item":`${BASE}/${locale}`},
       {"@type":"ListItem","position":2,"name":"Blog","item":`${BASE}/${locale}/blog`},
-      {"@type":"ListItem","position":3,"name":title,"item":`${BASE}/${locale}/blog/${mySlug}/`},
+      {"@type":"ListItem","position":3,"name":title,"item":`${BASE}/${locale}/blog/${mySlug}`},
     ],
   };
 

@@ -122,12 +122,12 @@ export async function generateMetadata({ params }) {
     description: ui.desc_meta,
     robots: { index: true, follow: true },
     alternates: {
-      canonical: `${BASE}/${locale}/${slug}/`,
-      languages: { ...Object.fromEntries(Object.entries(SLUGS).map(([l,s])=>[l,`${BASE}/${l}/${s}/`])), 'x-default': `${BASE}/ro/cookies/` },
+      canonical: `${BASE}/${locale}/${slug}`,
+      languages: { ...Object.fromEntries(Object.entries(SLUGS).map(([l,s])=>[l,`${BASE}/${l}/${s}`])), 'x-default': `${BASE}/ro/cookies` },
     },
     openGraph: {
       type: 'website',
-      url: `${BASE}/${locale}/${slug}/`,
+      url: `${BASE}/${locale}/${slug}`,
       siteName: 'Neofort BIZ',
       title: ui.title_meta,
       description: ui.desc_meta,

@@ -90,7 +90,7 @@ export default async function BlogPage({ params }) {
     "blogPost": articles.map(a => ({
       "@type":"BlogPosting",
       "headline": a.title[locale] || a.title.ro,
-      "url":`${BASE}/${locale}/blog/${a.slugs?.[locale] || a.slugs?.ro}/`,
+      "url":`${BASE}/${locale}/blog/${a.slugs?.[locale] || a.slugs?.ro}`,
       "datePublished": a.date,
       "description": a.excerpt[locale] || a.excerpt.ro,
       "author":{"@type":"Organization","name":"Neofort BIZ"},
