@@ -232,6 +232,12 @@ export default function sitemap() {
   const now = new Date().toISOString();
   const urls = [];
 
+  // Segmente folder traduse per limba
+  const ACC_SEG  = {ro:'accesorii',       en:'accessories',     de:'zubehoer',             fr:'accessoires',          es:'accesorios',        it:'accessori'};
+  const ALU_SEG  = {ro:'produse-aluminiu', en:'products-alu',    de:'produkte-alu',         fr:'produits-alu',         es:'productos-alu',     it:'prodotti-alu'};
+  const UMB_SEG  = {ro:'umbrire',          en:'shading-systems', de:'beschattungssysteme',  fr:'systemes-occultation', es:'sistemas-sombreado',it:'sistemi-oscuramento'};
+  const NZEB_SEG = {ro:'sisteme-nzeb',     en:'nzeb-systems',    de:'nzeb-systeme',         fr:'systemes-nzeb',        es:'sistemas-nzeb',     it:'sistemi-nzeb'};
+
   LOCALES.forEach(locale => {
     // Pagini principale
     pages.forEach(p => {
@@ -339,12 +345,6 @@ export default function sitemap() {
   });
 
   // ── Accesorii individuale
-
-  // Segmente folder traduse per limba
-  const ACC_SEG  = {ro:'accesorii',       en:'accessories',          de:'zubehoer',                  fr:'accessoires',              es:'accesorios',          it:'accessori'};
-  const ALU_SEG  = {ro:'produse-aluminiu', en:'products-alu',         de:'produkte-alu',               fr:'produits-alu',             es:'productos-alu',       it:'prodotti-alu'};
-  const UMB_SEG  = {ro:'umbrire',          en:'shading-systems',      de:'beschattungssysteme',        fr:'systemes-occultation',     es:'sistemas-sombreado',  it:'sistemi-oscuramento'};
-  const NZEB_SEG = {ro:'sisteme-nzeb',     en:'nzeb-systems',         de:'nzeb-systeme',               fr:'systemes-nzeb',            es:'sistemas-nzeb',       it:'sistemi-nzeb'};
 
   const ACC_SLUGS = {
     'toc-de-renovare':                   { ro:'toc-de-renovare-pvc',                                    en:'pvc-renovation-frame',                              de:'pvc-renovierungsrahmen',                              fr:'cadre-renovation-pvc',                    es:'marco-renovacion-pvc',                    it:'telaio-ristrutturazione-pvc' },
