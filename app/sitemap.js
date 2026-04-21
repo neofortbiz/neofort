@@ -86,6 +86,14 @@ const BLOG_SLUGS = [
     it: 'sostituzione-finestre-ristrutturazione-appartamento-bucarest',
   },
   {
+    ro: 'inchidere-balcon-terasa-tamplarie-aluminiu-bucuresti-2026',
+    en: 'balcony-terrace-enclosure-aluminium-windows-bucharest-2026',
+    de: 'balkon-terrasse-verglasung-aluminium-bukarest-2026',
+    fr: 'fermeture-balcon-terrasse-menuiserie-aluminium-bucarest-2026',
+    es: 'cierre-balcon-terraza-carpinteria-aluminio-bucarest-2026',
+    it: 'chiusura-balcone-terrazza-infissi-alluminio-bucarest-2026',
+  },
+  {
     ro: 'vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti',
     en: 'glass-shopfronts-panoramic-large-format-tempered-windows-bucharest',
     de: 'schaufenster-panoramascheiben-grosse-abmessungen-sicherheitsglas-bukarest',
@@ -197,143 +205,6 @@ const BLOG_SLUGS = [
     es: 'exportacion-carpinteria-rumania-alemania',
     it: 'esportazione-serramenti-romania-germania',
   },
-  // ── Articole adăugate v115–v126 ──
-  {
-    ro: 'sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu',
-    en: 'complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing',
-    de: 'komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung',
-    fr: 'systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage',
-    es: 'sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento',
-    it: 'sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro',
-  },
-  {
-    ro: 'pergola-bioclimatica-vs-clasica-ghid-alegere',
-    en: 'bioclimatic-vs-classic-pergola-guide',
-    de: 'bioklimatische-vs-klassische-pergola-ratgeber',
-    fr: 'pergola-bioclimatique-vs-classique-guide',
-    es: 'pergola-bioclimatica-vs-clasica-guia',
-    it: 'pergola-bioclimatica-vs-classica-guida',
-  },
-  {
-    ro: 'tamplarie-aluminiu-bariera-termica-ghid-complet',
-    en: 'aluminium-windows-thermal-break-complete-guide',
-    de: 'aluminiumfenster-waermedaemmung-komplett-leitfaden',
-    fr: 'menuiserie-aluminium-rupture-thermique-guide-complet',
-    es: 'carpinteria-aluminio-rotura-termica-guia-completa',
-    it: 'infissi-alluminio-taglio-termico-guida-completa',
-  },
-  {
-    ro: 'pereti-cortina-fatade-sticla-ghid-complet',
-    en: 'curtain-wall-glass-facades-complete-guide',
-    de: 'vorhangfassade-glasfassade-komplett-leitfaden',
-    fr: 'mur-rideau-facade-verre-guide-complet',
-    es: 'muro-cortina-fachada-vidrio-guia-completa',
-    it: 'parete-cortina-facciata-vetro-guida-completa',
-  },
-  {
-    ro: 'zipscreen-umbrire-terasa-ghid-complet',
-    en: 'zipscreen-terrace-shading-complete-guide',
-    de: 'zipscreen-terrassenbeschattung-komplettleitfaden',
-    fr: 'zipscreen-ombriere-terrasse-guide-complet',
-    es: 'zipscreen-sombreado-terraza-guia-completa',
-    it: 'zipscreen-ombreggiatura-terrazza-guida-completa',
-  },
-  {
-    ro: 'rulouri-zipscreen-blackout-sau-transparent-cum-alegi',
-    en: 'zipscreen-blinds-blackout-or-transparent-how-to-choose',
-    de: 'zipscreen-rollos-blackout-oder-transparent-wie-waehlen',
-    fr: 'stores-zipscreen-occultant-ou-transparent-comment-choisir',
-    es: 'persianas-zipscreen-blackout-o-transparente-como-elegir',
-    it: 'tende-zipscreen-oscuranti-o-trasparenti-come-scegliere',
-  },
-  {
-    ro: 'cum-aleg-ferestre-eficiente-energetic-bucuresti-ghid-nzeb-2026',
-    en: 'how-to-choose-energy-efficient-windows-bucharest-nzeb-guide-2026',
-    de: 'energieeffiziente-fenster-bukarest-auswaehlen-nzeb-leitfaden-2026',
-    fr: 'comment-choisir-fenetres-efficaces-energetiquement-bucarest-nzeb-2026',
-    es: 'como-elegir-ventanas-eficientes-energeticamente-bucarest-nzeb-2026',
-    it: 'come-scegliere-finestre-efficienti-energeticamente-bucarest-nzeb-2026',
-  },
-  {
-    ro: 'unde-gasesc-ferestre-salamander-cu-livrare-internationala',
-    en: 'where-to-find-salamander-windows-with-international-delivery',
-    de: 'wo-finde-ich-salamander-fenster-mit-internationalem-versand',
-    fr: 'ou-trouver-fenetres-salamander-avec-livraison-internationale',
-    es: 'donde-encontrar-ventanas-salamander-con-entrega-internacional',
-    it: 'dove-trovare-finestre-salamander-con-consegna-internazionale',
-  },
-  {
-    ro: 'unde-comand-usi-aluminiu-sector-1-bucuresti',
-    en: 'where-to-order-aluminium-doors-sector-1-bucharest',
-    de: 'wo-aluminiumtueren-sektor-1-bukarest-bestellen',
-    fr: 'ou-commander-portes-aluminium-secteur-1-bucarest',
-    es: 'donde-pedir-puertas-aluminio-sector-1-bucarest',
-    it: 'dove-ordinare-porte-alluminio-settore-1-bucarest',
-  },
-  {
-    ro: 'tamplarie-pvc-osciloculisanta-dubla-salamander',
-    en: 'tilt-turn-double-pvc-windows-salamander',
-    de: 'pvc-fenster-dreh-kipp-salamander',
-    fr: 'fenetre-pvc-oscillo-battant-double-salamander',
-    es: 'ventana-pvc-oscilobatiente-doble-salamander',
-    it: 'finestra-pvc-anta-ribalta-doppia-salamander',
-  },
-  {
-    ro: 'usa-culisanta-pvc-salamander-evolutiondrive-plus-plasa-plisse',
-    en: 'salamander-evolutiondrive-plus-sliding-door-plisse-screen',
-    de: 'salamander-evolutiondrive-plus-schiebetuer-plissee',
-    fr: 'porte-coulissante-pvc-salamander-evolutiondrive-plus-moustiquaire-plisse',
-    es: 'puerta-corredera-pvc-salamander-evolutiondrive-plus-mosquitera-plise',
-    it: 'porta-scorrevole-pvc-salamander-evolutiondrive-plus-zanzariera-plisse',
-  },
-  {
-    ro: 'montaj-tamplarie-salamander-evolutiondrive-plus-culisanta-alumil-m19800-armonice',
-    en: 'installation-salamander-evolutiondrive-plus-sliding-alumil-m19800-folding-door',
-    de: 'montage-salamander-evolutiondrive-plus-schiebetuer-alumil-m19800-falttuer',
-    fr: 'pose-menuiserie-salamander-evolutiondrive-plus-coulissant-alumil-m19800-accordeon',
-    es: 'instalacion-carpinteria-salamander-evolutiondrive-plus-corredera-alumil-m19800-plegable',
-    it: 'posa-serramenti-salamander-evolutiondrive-plus-scorrevole-alumil-m19800-pieghevole',
-  },
-  {
-    ro: 'usi-intrare-antiefractie-comanda-tactica-amprenta-digitala-aluminiu',
-    en: 'anti-burglary-entry-doors-fingerprint-touch-aluminium',
-    de: 'einbruchsichere-eingangstuer-fingerabdruck-touchbedienung-aluminium',
-    fr: 'porte-entree-anti-effraction-commande-tactile-empreinte-aluminium',
-    es: 'puerta-entrada-antirrobo-control-tactil-huella-dactilar-aluminio',
-    it: 'porta-ingresso-antieffrazione-comando-tattile-impronta-digitale-alluminio',
-  },
-  {
-    ro: 'somfy-rulouri-motoare-exterioare',
-    en: 'somfy-shutter-motors',
-    de: 'somfy-rolllaeden-motoren',
-    fr: 'somfy-moteurs-volets',
-    es: 'somfy-motores-persianas',
-    it: 'somfy-motori-tapparelle',
-  },
-  {
-    ro: 'somfy-automatizare-pergole-copertine',
-    en: 'somfy-pergola-awning-automation',
-    de: 'somfy-pergola-markisen-automatisierung',
-    fr: 'somfy-automatisation-pergola-store',
-    es: 'somfy-automatizacion-pergola-toldo',
-    it: 'somfy-automazione-pergola-tenda',
-  },
-  {
-    ro: 'somfy-tahoma-smart-home-romania',
-    en: 'somfy-tahoma-smart-home-bucharest',
-    de: 'somfy-tahoma-smart-home-bukarest',
-    fr: 'somfy-tahoma-maison-connectee-bucarest',
-    es: 'somfy-tahoma-hogar-inteligente-bucarest',
-    it: 'somfy-tahoma-casa-intelligente-bucarest',
-  },
-  {
-    ro: 'mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre',
-    en: 'pvc-toxic-myth-safety-composition-evolution-windows',
-    de: 'pvc-giftig-mythos-sicherheit-zusammensetzung-entwicklung-fenster',
-    fr: 'mythe-pvc-toxique-securite-composition-evolution-fenetres',
-    es: 'mito-pvc-toxico-seguridad-composicion-evolucion-ventanas',
-    it: 'mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre',
-  },
 ];
 
 const pages = [
@@ -345,13 +216,14 @@ const pages = [
   { key:'contact',   priority:0.8, freq:'monthly' },
   { key:'blog',      priority:0.7, freq:'weekly'  },
   { key:'despre',    priority:0.5, freq:'yearly'  },
+  { key:'gdpr',      priority:0.2, freq:'yearly'  },
     { key:'cookies',    priority:0.2, freq:'yearly'  },
   { key:'umbrire',    priority:0.8, freq:'monthly' },
   { key:'nzeb',       priority:0.8, freq:'monthly' },
 ];
 
 function pageSlug(locale, key) {
-  if (!key) return '/';
+  if (!key) return '';
   if (key === 'blog') return '/blog';
   return '/' + (PAGE_SLUGS[locale]?.[key] || PAGE_SLUGS.ro[key]);
 }
@@ -395,22 +267,9 @@ export default function sitemap() {
   const PVC_SEO = {
     preturi:   { ro:'tamplarie-pvc/preturi', en:'pvc-windows/prices', de:'kunststofffenster-pvc/preise', fr:'menuiserie-pvc/prix', es:'carpinteria-pvc/precios', it:'infissi-pvc/prezzi' },
     bucuresti: { ro:'tamplarie-pvc/bucuresti', en:'pvc-windows/bucharest', de:'kunststofffenster-pvc/bukarest', fr:'menuiserie-pvc/bucarest', es:'carpinteria-pvc/bucarest', it:'infissi-pvc/bucarest' },
-    ghid:      { ro:'tamplarie-pvc/ghid-complet', en:'pvc-windows/complete-guide', de:'kunststofffenster-pvc/kompletter-ratgeber', fr:'menuiserie-pvc/guide-complet', es:'carpinteria-pvc/guia-completa', it:'infissi-pvc/guida-completa' },
   };
-  const ALU_SEO = {
-    ghid:      { ro:'tamplarie-aluminiu/ghid-complet', en:'aluminium-windows/complete-guide', de:'aluminiumfenster/kompletter-ratgeber', fr:'menuiserie-aluminium/guide-complet', es:'carpinteria-aluminio/guia-completa', it:'infissi-alluminio/guida-completa' },
-    bucuresti: { ro:'tamplarie-aluminiu/bucuresti', en:'aluminium-windows/bucharest', de:'aluminiumfenster/bukarest', fr:'menuiserie-aluminium/bucarest', es:'carpinteria-aluminio/bucarest', it:'infissi-alluminio/bucarest' },
-    preturi:   { ro:'tamplarie-aluminiu/preturi', en:'aluminium-windows/prices', de:'aluminiumfenster/preise', fr:'menuiserie-aluminium/prix', es:'carpinteria-aluminio/precios', it:'infissi-alluminio/prezzi' },
-  };
-  const UMBRIRE_SEO = {
-    ghid:      { ro:'umbrire/ghid-complet-sisteme-umbrire', en:'shading-systems/complete-guide', de:'beschattungssysteme/kompletter-ratgeber', fr:'systemes-occultation/guide-complet', es:'sistemas-sombreado/guia-completa', it:'sistemi-oscuramento/guida-completa' },
-    preturi:   { ro:'umbrire/preturi-sisteme-umbrire', en:'shading-systems/shading-prices', de:'beschattungssysteme/beschattung-preise', fr:'systemes-occultation/prix-occultation', es:'sistemas-sombreado/precios-sombreado', it:'sistemi-oscuramento/prezzi-oscuramento' },
-  };
-  const NZEB_SEO = {
-    ghid:      { ro:'sisteme-nzeb/ghid-complet-nzeb', en:'nzeb-systems/complete-guide', de:'nzeb-systeme/kompletter-ratgeber', fr:'systemes-nzeb/guide-complet', es:'sistemas-nzeb/guia-completa', it:'sistemi-nzeb/guida-completa' },
-  };
-  [...Object.values(PVC_SEO), ...Object.values(ALU_SEO), ...Object.values(UMBRIRE_SEO), ...Object.values(NZEB_SEO)].forEach(slugs => {
-    LOCALES.forEach(locale => {
+  LOCALES.forEach(locale => {
+    Object.values(PVC_SEO).forEach(slugs => {
       urls.push({ url:`${BASE}/${locale}/${slugs[locale]||slugs.ro}`, lastModified:now, priority:0.88, changeFrequency:'monthly',
         alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${slugs[l]||slugs.ro}`])) } });
     });
@@ -445,8 +304,8 @@ export default function sitemap() {
   LOCALES.forEach(locale => {
     Object.entries(ALU_SLUGS).forEach(([canonical, slugs]) => {
       const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/produse-aluminiu/${mySlug}`, lastModified:now, priority:0.85, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/produse-aluminiu/${slugs[l]||canonical}`])) } });
+      urls.push({ url:`${BASE}/${locale}/${ALU_SEG[locale]}/${mySlug}`, lastModified:now, priority:0.85, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${ALU_SEG[l]}/${slugs[l]||canonical}`])) } });
     });
   });
 
@@ -454,14 +313,12 @@ export default function sitemap() {
   const UMBRIRE_SLUGS = {
     'rulouri-exterioare-aluminiu':    { ro:'rulouri-exterioare-aluminiu',      en:'aluminium-external-roller-shutters',    de:'aluminium-aussenrollladen',    fr:'volets-roulants-aluminium-exterieurs',    es:'persianas-exteriores-aluminio',    it:'tapparelle-esterne-alluminio' },
     'jaluzele-venetiene-raffstore':   { ro:'jaluzele-venetiene-raffstore',      en:'raffstore-venetian-blinds',            de:'raffstore-aussenjalousien',    fr:'stores-venitiens-raffstore',              es:'persianas-venecianas-raffstore',   it:'veneziane-raffstore' },
-    'zipscreen':                      { ro:'zipscreen',                         en:'zipscreen-exterior-blind',             de:'zipscreen-aussenrollo',        fr:'zipscreen-store-exterieur',               es:'zipscreen-toldo-exterior',         it:'zipscreen-tenda-esterna' },
-    'pergole-automate-somfy':         { ro:'pergole-automate-somfy',           en:'somfy-automatic-pergolas',             de:'somfy-automatische-pergolen',  fr:'pergolas-automatiques-somfy',             es:'pergolas-automaticas-somfy',       it:'pergole-automatiche-somfy' },
   };
   LOCALES.forEach(locale => {
     Object.entries(UMBRIRE_SLUGS).forEach(([canonical, slugs]) => {
       const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/umbrire/${mySlug}`, lastModified:now, priority:0.82, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/umbrire/${slugs[l]||canonical}`])) } });
+      urls.push({ url:`${BASE}/${locale}/${UMB_SEG[locale]}/${mySlug}`, lastModified:now, priority:0.82, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${UMB_SEG[l]}/${slugs[l]||canonical}`])) } });
     });
   });
 
@@ -476,24 +333,38 @@ export default function sitemap() {
   LOCALES.forEach(locale => {
     Object.entries(NZEB_SLUGS).forEach(([canonical, slugs]) => {
       const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/sisteme-nzeb/${mySlug}`, lastModified:now, priority:0.82, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/sisteme-nzeb/${slugs[l]||canonical}`])) } });
+      urls.push({ url:`${BASE}/${locale}/${NZEB_SEG[locale]}/${mySlug}`, lastModified:now, priority:0.82, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${NZEB_SEG[l]}/${slugs[l]||canonical}`])) } });
     });
   });
 
   // ── Accesorii individuale
+
+  // Segmente folder traduse per limba
+  const ACC_SEG  = {ro:'accesorii',       en:'accessories',          de:'zubehoer',                  fr:'accessoires',              es:'accesorios',          it:'accessori'};
+  const ALU_SEG  = {ro:'produse-aluminiu', en:'products-alu',         de:'produkte-alu',               fr:'produits-alu',             es:'productos-alu',       it:'prodotti-alu'};
+  const UMB_SEG  = {ro:'umbrire',          en:'shading-systems',      de:'beschattungssysteme',        fr:'systemes-occultation',     es:'sistemas-sombreado',  it:'sistemi-oscuramento'};
+  const NZEB_SEG = {ro:'sisteme-nzeb',     en:'nzeb-systems',         de:'nzeb-systeme',               fr:'systemes-nzeb',            es:'sistemas-nzeb',       it:'sistemi-nzeb'};
+
   const ACC_SLUGS = {
     'toc-de-renovare':                   { ro:'toc-de-renovare-pvc',                                    en:'pvc-renovation-frame',                              de:'pvc-renovierungsrahmen',                              fr:'cadre-renovation-pvc',                    es:'marco-renovacion-pvc',                    it:'telaio-ristrutturazione-pvc' },
     'pervazuri-interior-pvc-exterior-al':{ ro:'pervazuri-interior-pvc-glafuri-exterior-aluminiu',        en:'interior-pvc-windowsills-exterior-aluminium-sills',  de:'innenfensterbaenke-pvc-aussenfensterbaenke-aluminium', fr:'appuis-fenetre-interieurs-pvc-exterieurs-aluminium', es:'alfeizares-interiores-pvc-exteriores-aluminio', it:'davanzali-interni-pvc-esterni-alluminio' },
     'grila-higroreglabila-aereco':        { ro:'grila-higroreglabila-aereco-ventilatie',                 en:'aereco-hygro-adjustable-ventilation-grille',         de:'aereco-hygroregelbare-lueftungsgitter',               fr:'grille-hygroreglable-aereco-ventilation',  es:'rejilla-higrorreglable-aereco-ventilacion', it:'griglia-igroregolab-aereco-ventilazione' },
-    'automatizari-somfy':                { ro:'automatizari-somfy-rulouri-pergole',                      en:'somfy-automation-shutters-pergolas',                 de:'somfy-automatisierung-rolllaeden-pergolen',           fr:'automatisation-somfy-volets-pergolas',     es:'automatizacion-somfy-persianas-pergolas',   it:'automazione-somfy-tapparelle-pergole' },
   };
   LOCALES.forEach(locale => {
     Object.entries(ACC_SLUGS).forEach(([canonical, slugs]) => {
       const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/accesorii/${mySlug}`, lastModified:now, priority:0.80, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/accesorii/${slugs[l]||canonical}`])) } });
+      urls.push({ url:`${BASE}/${locale}/${ACC_SEG[locale]}/${mySlug}`, lastModified:now, priority:0.80, changeFrequency:'monthly',
+        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${ACC_SEG[l]}/${slugs[l]||canonical}`])) } });
     });
   });
+  // llms.txt — pentru LLM crawlers
+  urls.push({
+    url: `${BASE}/llms.txt`,
+    lastModified: now,
+    priority: 0.9,
+    changeFrequency: 'monthly',
+  });
+
   return urls;
 }
