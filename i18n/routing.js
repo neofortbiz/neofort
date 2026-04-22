@@ -638,21 +638,29 @@ export const routing = defineRouting({
       it: '/blog/pergola-bioclimatica-vs-classica-guida',
     },
 
-  '/blog/mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre': {
-    ro: '/blog/mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre',
-    en: '/blog/pvc-toxic-myth-safety-composition-evolution-windows',
-    de: '/blog/pvc-giftig-mythos-sicherheit-zusammensetzung-entwicklung-fenster',
-    fr: '/blog/mythe-pvc-toxique-securite-composition-evolution-fenetres',
-    es: '/blog/mito-pvc-toxico-seguridad-composicion-evolucion-ventanas',
-    it: '/blog/mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre',
+  '/blog/unde-cumpar-jaluzele-exterioare-bucuresti': {
+    ro: '/blog/unde-cumpar-jaluzele-exterioare-bucuresti',
+    en: '/blog/where-to-buy-exterior-blinds-bucharest',
+    de: '/blog/wo-kaufe-ich-aussenjalousien-bukarest',
+    fr: '/blog/ou-acheter-stores-exterieurs-bucarest',
+    es: '/blog/donde-comprar-persianas-exteriores-bucarest',
+    it: '/blog/dove-comprare-veneziane-esterne-bucarest',
   },
-  '/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu': {
-    ro: '/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu',
-    en: '/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing',
-    de: '/blog/komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung',
-    fr: '/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage',
-    es: '/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento',
-    it: '/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro',
+  '/blog/cum-se-monteaza-corect-termopanele-salamander-bucuresti': {
+    ro: '/blog/cum-se-monteaza-corect-termopanele-salamander-bucuresti',
+    en: '/blog/how-to-correctly-install-salamander-windows-bucharest',
+    de: '/blog/wie-werden-salamander-fenster-richtig-montiert-bukarest',
+    fr: '/blog/comment-installer-correctement-fenetres-salamander-bucarest',
+    es: '/blog/como-instalar-correctamente-ventanas-salamander-bucarest',
+    it: '/blog/come-installare-correttamente-finestre-salamander-bucarest',
+  },
+  '/blog/preturi-ferestre-salamander-bucuresti-2026': {
+    ro: '/blog/preturi-ferestre-salamander-bucuresti-2026',
+    en: '/blog/salamander-window-prices-bucharest-2026',
+    de: '/blog/salamander-fenster-preise-bukarest-2026',
+    fr: '/blog/prix-fenetres-salamander-bucarest-2026',
+    es: '/blog/precios-ventanas-salamander-bucarest-2026',
+    it: '/blog/prezzi-finestre-salamander-bucarest-2026',
   },
 
   // PILLAR PAGES

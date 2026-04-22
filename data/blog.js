@@ -3,311 +3,921 @@
 // Imagini: /public/blog/*.jpg — generate de utilizator ulterior
 
 export const ARTICLES = [
+
+  // ─── ARTICOL 1: Jaluzele exterioare Bucuresti ──────────────────────────────
   {
     slugs: {
-      ro: 'sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu',
-      en: 'complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing',
-      de: 'komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung',
-      fr: 'systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage',
-      es: 'sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento',
-      it: 'sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro',
+      ro: 'unde-cumpar-jaluzele-exterioare-bucuresti',
+      en: 'where-to-buy-exterior-blinds-bucharest',
+      de: 'wo-kaufe-ich-aussenjalousien-bukarest',
+      fr: 'ou-acheter-stores-exterieurs-bucarest',
+      es: 'donde-comprar-persianas-exteriores-bucarest',
+      it: 'dove-comprare-veneziane-esterne-bucarest',
     },
-    date: '2026-03-29',
+    date: '2026-04-09',
     author: 'Neofort BIZ',
-    accentColor: '#1F3864',
+    accentColor: '#1a4a8a',
     image: {
-      ro: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
-      en: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
-      de: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
-      fr: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
-      es: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
-      it: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      ro: '/blog/Jaluzele_Venetiene_Raffstore-kaufen.avif',
+      en: '/blog/Jaluzele_Venetiene_Raffstore-kaufen.avif',
+      de: '/blog/Jaluzele_Venetiene_Raffstore-kaufen.avif',
+      fr: '/blog/Jaluzele_Venetiene_Raffstore-kaufen.avif',
+      es: '/blog/Jaluzele_Venetiene_Raffstore-kaufen.avif',
+      it: '/blog/Jaluzele_Venetiene_Raffstore-kaufen.avif',
     },
-    imageBg: 'linear-gradient(135deg,#0a1628 0%,#1F3864 60%,#0a1628 100%)',
-    imageLabel: 'Sistem complet nZEB — Salamander BluEvolution 92 + Precadre Blaugelb + Geam Triplu',
-    readTime: { ro:'10 min citire', en:'10 min read', de:'10 Min.', fr:'10 min', es:'10 min', it:'10 min' },
-    category: {
-      ro: 'Sisteme nZEB',
-      en: 'nZEB Systems',
-      de: 'nZEB-Systeme',
-      fr: 'Systèmes nZEB',
-      es: 'Sistemas nZEB',
-      it: 'Sistemi nZEB',
-    },
+    imageBg: 'linear-gradient(135deg,#0a1a2e 0%,#1a3a5e 60%,#0a1a2e 100%)',
+    imageLabel: 'Jaluzele Exterioare Venetiene Raffstore București',
+    readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
+    category: { ro:'Sisteme Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:"Systèmes d'occultation", es:'Sistemas de sombreado', it:'Sistemi di oscuramento' },
     title: {
-      ro: 'Sistemul complet nZEB: Salamander BluEvolution 92 + Precadre Blaugelb + Geam Triplu — Ghid 2026',
-      en: 'Complete nZEB System: Salamander BluEvolution 92 + Blaugelb Pre-frames + Triple Glazing — Guide 2026',
-      de: 'Komplettes nZEB-System: Salamander BluEvolution 92 + Blaugelb Vorblendrahmen + Dreifachverglasung — Ratgeber 2026',
-      fr: 'Système complet nZEB : Salamander BluEvolution 92 + Précadres Blaugelb + Triple Vitrage — Guide 2026',
-      es: 'Sistema completo nZEB: Salamander BluEvolution 92 + Precuadros Blaugelb + Triple Acristalamiento — Guía 2026',
-      it: 'Sistema completo nZEB: Salamander BluEvolution 92 + Precornici Blaugelb + Triplo Vetro — Guida 2026',
+      ro: 'Unde pot cumpăra jaluzele exterioare în București? Ghid complet 2026',
+      en: 'Where to Buy Exterior Blinds in Bucharest? Complete Guide 2026',
+      de: 'Wo kann ich Außenjalousien in Bukarest kaufen? Vollständiger Ratgeber 2026',
+      fr: 'Où acheter des stores extérieurs à Bucarest ? Guide complet 2026',
+      es: '¿Dónde comprar persianas exteriores en Bucarest? Guía completa 2026',
+      it: 'Dove comprare veneziane esterne a Bucarest? Guida completa 2026',
     },
     metaDesc: {
-      ro: 'Ghid complet sistem nZEB pentru ferestre: profil Salamander BluEvolution 92 cu 6 camere, precadre Blaugelb Triotherm+ și geam triplu Low-E argon. Performanță termică maximă, Uw sub 0,9 W/m²K, conform HG 1336/2022.',
-      en: 'Complete nZEB window system guide: Salamander BluEvolution 92 6-chamber profile, Blaugelb Triotherm+ pre-frames and triple Low-E argon glazing. Maximum thermal performance, Uw below 0.9 W/m²K.',
-      de: 'Vollständiger nZEB-Fensterleitfaden: Salamander BluEvolution 92 6-Kammer-Profil, Blaugelb Triotherm+ Vorblendrahmen und Dreifach-Low-E-Argon-Verglasung. Maximale Wärmeleistung, Uw unter 0,9 W/m²K.',
-      fr: 'Guide complet système nZEB pour fenêtres : profilé Salamander BluEvolution 92 à 6 chambres, précadres Blaugelb Triotherm+ et triple vitrage Low-E argon. Performance thermique maximale, Uw inférieur à 0,9 W/m²K.',
-      es: 'Guía completa sistema nZEB para ventanas: perfil Salamander BluEvolution 92 de 6 cámaras, precuadros Blaugelb Triotherm+ y triple acristalamiento Low-E argón. Rendimiento térmico máximo, Uw inferior a 0,9 W/m²K.',
-      it: 'Guida completa sistema nZEB per finestre: profilo Salamander BluEvolution 92 a 6 camere, precornici Blaugelb Triotherm+ e triplo vetro Low-E argon. Prestazione termica massima, Uw inferiore a 0,9 W/m²K.',
+      ro: 'Jaluzele exterioare venetiene Raffstore în București și Ilfov — tipuri, prețuri, furnizori, montaj profesional. Tot ce trebuie să știi înainte să cumperi jaluzele exterioare în 2026.',
+      en: 'Exterior venetian blinds Raffstore in Bucharest and Ilfov — types, prices, suppliers, professional installation. Everything you need to know before buying exterior blinds in 2026.',
+      de: 'Außenjalousien Raffstore in Bukarest und Ilfov — Typen, Preise, Anbieter, professionelle Montage. Alles, was Sie vor dem Kauf von Außenjalousien 2026 wissen müssen.',
+      fr: "Stores vénitiens extérieurs Raffstore à Bucarest et Ilfov — types, prix, fournisseurs, pose professionnelle. Tout ce qu'il faut savoir avant d'acheter des stores extérieurs en 2026.",
+      es: 'Persianas venecianas exteriores Raffstore en Bucarest e Ilfov — tipos, precios, proveedores, instalación profesional. Todo lo que necesita saber antes de comprar persianas exteriores en 2026.',
+      it: 'Veneziane esterne Raffstore a Bucarest e Ilfov — tipi, prezzi, fornitori, installazione professionale. Tutto quello che devi sapere prima di acquistare veneziane esterne nel 2026.',
     },
     excerpt: {
-      ro: 'Nu profilul singur face o fereastră nZEB — ci sistemul complet: Salamander BluEvolution 92, precadre Blaugelb Triotherm+ și geam triplu Low-E cu argon. Ghid tehnic complet cu valori reale și explicații clare pentru 2026.',
-      en: 'The profile alone does not make an nZEB window — the complete system does: Salamander BluEvolution 92, Blaugelb Triotherm+ pre-frames and triple Low-E argon glazing. Complete technical guide with real values for 2026.',
-      de: 'Nicht das Profil allein macht ein nZEB-Fenster — sondern das komplette System: Salamander BluEvolution 92, Blaugelb Triotherm+ Vorblendrahmen und Dreifach-Low-E-Argon-Verglasung. Vollständiger technischer Leitfaden 2026.',
-      fr: `Ce n'est pas le profilé seul qui fait une fenêtre nZEB — c'est le système complet : Salamander BluEvolution 92, précadres Blaugelb Triotherm+ et triple vitrage Low-E argon. Guide technique complet 2026.`,
-      es: 'No es el perfil solo lo que hace una ventana nZEB — sino el sistema completo: Salamander BluEvolution 92, precuadros Blaugelb Triotherm+ y triple acristalamiento Low-E argón. Guía técnica completa 2026.',
-      it: `Non è il profilo da solo a fare una finestra nZEB — ma il sistema completo: Salamander BluEvolution 92, precornici Blaugelb Triotherm+ e triplo vetro Low-E argon. Guida tecnica completa 2026.`,
+      ro: 'Cauți jaluzele exterioare în București? Ghid complet: jaluzele venetiene Raffstore vs rulouri exterioare, prețuri 2026, zone de livrare în Ilfov, montaj profesional și automatizare Somfy.',
+      en: 'Looking for exterior blinds in Bucharest? Complete guide: Raffstore venetian blinds vs exterior roller shutters, 2026 prices, Ilfov delivery areas, professional installation and Somfy automation.',
+      de: 'Suchen Sie Außenjalousien in Bukarest? Vollständiger Ratgeber: Raffstore-Lamellen vs. Außenrollladen, Preise 2026, Liefergebiete Ilfov, professionelle Montage und Somfy-Automatisierung.',
+      fr: "Vous cherchez des stores extérieurs à Bucarest ? Guide complet : stores vénitiens Raffstore vs volets roulants extérieurs, prix 2026, zones de livraison en Ilfov, pose professionnelle et automatisation Somfy.",
+      es: '¿Busca persianas exteriores en Bucarest? Guía completa: persianas venecianas Raffstore vs persianas enrollables exteriores, precios 2026, zonas de entrega en Ilfov, instalación profesional y automatización Somfy.',
+      it: 'Cerchi veneziane esterne a Bucarest? Guida completa: veneziane Raffstore vs avvolgibili esterni, prezzi 2026, zone di consegna in Ilfov, installazione professionale e automazione Somfy.',
     },
-    keywords: 'nZEB ferestre, Salamander BluEvolution 92, precadre Blaugelb Triotherm, geam triplu Low-E argon, sistem complet nZEB, Uw ferestre, HG 1336 2022, ferestre eficiente energetic, tamplarie PVC nZEB Bucuresti',
+    keywords: 'jaluzele exterioare Bucuresti, jaluzele venetiene exterior, Raffstore Bucuresti, jaluzele exterioare pret, rulouri exterioare Ilfov, jaluzele exterioare aluminiu, jaluzele automate Somfy, unde cumpar jaluzele exterioare, montaj jaluzele exterior Bucuresti',
     dateDisplay: {
-      ro: '29 mar 2026', en: 'Mar 29 2026', de: '29. Mär. 2026',
-      fr: '29 mars 2026', es: '29 mar 2026', it: '29 mar 2026',
+      ro: '9 apr 2026', en: 'Apr 9 2026', de: '9. Apr. 2026',
+      fr: '9 avr. 2026', es: '9 abr 2026', it: '9 apr 2026',
     },
     content: {
-      ro: `## De ce un singur component nu e suficient pentru nZEB
+      ro: `## Jaluzele exterioare în București — ce opțiuni există în 2026?
 
-Cel mai frecvent mit din piața de tâmplărie din România: "dacă iau profil Salamander BluEvolution 92, am fereastră nZEB". Greșit. Profilul este doar una din cele trei componente ale sistemului complet. Fără precadre Blaugelb Triotherm+ și fără geam triplu Low-E cu argon, nici cel mai bun profil de pe piață nu atinge performanța termică impusă de normele nZEB.
+Piața sistemelor de umbrire din București s-a diversificat enorm în ultimii ani. Dacă în trecut opțiunile se rezumau la rulouri exterioare din aluminiu, astăzi poți alege dintr-o gamă largă: **jaluzele venetiene exterioare Raffstore**, zipscreen, pergole automate, obloane și copertine. Ghidul de față se concentrează pe **jaluzelele exterioare** — diferențe față de rulourile clasice, prețuri reale 2026, zone de livrare și montaj în București și Ilfov.
 
-Acest ghid explică exact cum funcționează fiecare componentă, ce valori termice produce și de ce combinarea lor este singura cale corectă spre o fereastră cu adevărat eficientă energetic.
+## Ce sunt jaluzelele exterioare Raffstore?
 
-## Componenta 1: Profilul Salamander BluEvolution 92
+Jaluzelele venetiene exterioare (**Raffstore** sau **jaluzele C80/Z90**) sunt sisteme de umbrire cu **lamele orizontale din aluminiu de 80–90 mm** care se pot înclina între 0° și 90°. Spre deosebire de rulourile exterioare care coboară ca un oblon, lamelele Raffstore îți permit să controlezi simultan lumina și vizibilitatea — o caracteristică esențială pentru birouri, apartamente cu orientare sud/vest și case cu fațadă vitrată.
 
-Salamander BluEvolution 92 este profilul de referință pentru tâmplăria PVC rezidențială în 2026. Cei 92 mm de adâncime a profilului nu sunt un detaliu de marketing — sunt condiția care permite montarea unui pachet de geam de până la 52 mm grosime, adică tocmai geamul triplu cu argon și Low-E.
+**Avantajele jaluzelelor exterioare Raffstore față de rulouri:**
+- Control fin al luminii și vizibilității fără a bloca ventilația
+- Reducere până la 90% a radiației solare (coeficient g ≤ 0,10 cu lamele închise)
+- Compatibile cu automatizare Somfy (motor Sunea io sau Altus 50 RTS)
+- Aspect modern, integrabil în fațadele contemporane
+- Disponibile cu senzori de vânt și lumină pentru retragere automată
 
-**Caracteristici tehnice principale:**
-- 6 camere de izolare termică
-- Adâncime profil: 92 mm
-- Coeficient termic cadru (Uf): **0,87 W/m²K**
-- Compatibil pachete geam până la 52 mm
-- Armare oțel galvanizat inclusă standard
-- Disponibil în alb, antracit, gri bazalt și 150+ culori RAL prin laminare
+**Când nu sunt potrivite:**
+- La apartamentele de bloc cu fațadă comună (montaj necesită aprobare asociație)
+- Dacă bugetul e limitat — costă mai mult decât rulourile standard
 
-Coeficientul Uf de 0,87 W/m²K înseamnă că profilul în sine este deja sub pragul nZEB de 1,3 W/m²K — dar acesta este doar coeficientul cadrului, nu al ferestrei finite.
+## Tipuri de jaluzele exterioare disponibile în București
 
-## Componenta 2: Precadrele Blaugelb Triotherm+
+### 1. Jaluzele venetiene exterioare cu lamele 80 mm (Raffstore C80)
+Modelul standard pentru rezidențial și comercial. Lamele de 80 mm din aluminiu lăcuit, ghidaje laterale în cablu sau șină, caseta superioară cu sau fără capac. Actionare manuală cu curea sau electrică cu motor Somfy Sunea io.
 
-Precadrele de montaj sunt componenta cel mai des omisă și, paradoxal, una dintre cele mai importante. O fereastră montată fără precadre pierde între 30 și 40% din performanța termică certificată a profilului — din cauza punților termice care se formează la îmbinarea dintre tâmplărie și zid.
+### 2. Jaluzele exterioare Z90 (lamele 90 mm, profil Z)
+Profilul Z al lamelei de 90 mm oferă o rigiditate superioară și o etanșare mai bună la lumină în poziția închis. Recomandat pentru geamuri mari (peste 2 m lățime) și fațade expuse la vânt puternic.
 
-**Ce sunt punțile termice?** Zone de contact direct între interiorul cald și exteriorul rece, de obicei la marginea ferestrei, unde betonul sau cărămida scurtcircuitează izolarea. Pe un termometru cu infraroșu, se văd imediat ca zone mai reci pe peretele interior, în jurul ferestrei.
+### 3. Zipscreen — jaluzele cu ghidaje laterale zippate
+Sistemul Zipscreen sau Screen ZIP folosește o pânză Screen cu perforații micro (3%–10%) prinsă în ghidaje laterale cu sistem zip. Avantajul față de Raffstore: etanșare perfectă la vânt lateral, aspect uniform, protecție înaltă UV. Dezavantaj: nu reglează unghiul lamelelor.
 
-**Cum elimină Blaugelb Triotherm+ punțile termice:**
-- Material cu conductivitate termică extrem de redusă (λ = 0,035 W/mK)
-- Separă fizic cadrul ferestrei de structura zidului
-- Permite montarea ferestrei în planul izolației termice a peretelui
-- Elimină condensul la colțuri și marginile ferestrelor
+## Prețuri jaluzele exterioare București 2026
 
-**Sistemul complet de montaj Blaugelb include:**
-- Precadru Triotherm+ (rupere punte termică)
-- Bandă precomprimată butilică pe exterior (etanșare la apă și vânt)
-- Bandă antivapori pe interior (controlul difuziei vaporilor)
+Prețurile variază în funcție de dimensiuni, tip de acționare și complexitatea montajului:
 
-Fără acest sistem tripartit, certificarea nZEB a clădirii nu poate fi obținută conform HG 1336/2022.
-
-## Componenta 3: Geamul triplu Low-E cu argon
-
-Geamul termoizolant reprezintă 70-80% din suprafața ferestrei și are cel mai mare impact asupra performanței termice globale. Un geam triplu Low-E cu argon atinge coeficienți Ug de 0,5-0,7 W/m²K față de 1,0-1,1 W/m²K ale unui geam dublu standard cu argon.
-
-**Structura unui geam triplu performant:**
-- Foaie 1: sticlă float 4 mm
-- Distanțier 1: 16-18 mm, umplut cu argon, warm-edge Swisspacer/Thermix
-- Foaie 2: sticlă cu strat Low-E (emitanță ε < 0,02)
-- Distanțier 2: 16-18 mm, umplut cu argon
-- Foaie 3: sticlă float 4 mm cu al doilea strat Low-E
-
-**Ce face stratul Low-E:** Reflectă radiația infraroșie înapoi în cameră iarna și o respinge afară vara — fără să reducă vizibil transmisia luminii. Emitanța ε < 0,02 înseamnă că mai puțin de 2% din căldura radiantă trece prin strat.
-
-**Distanțierul warm-edge** reduce transferul termic la marginea geamului, eliminând condensul la colțul interior al ferestrei.
-
-## Cum se calculează Uw — coeficientul ferestrei finite
-
-Uw (fereastră finită) se calculează după formula EN ISO 10077-1 și combină:
-- **Uf** — coeficientul cadrului (Salamander BluEvolution 92: 0,87 W/m²K)
-- **Ug** — coeficientul geamului (triplu Low-E argon: 0,5-0,6 W/m²K)
-- **Ψg** — factorul de punte termică la îmbinarea geam-cadru (warm-edge: ~0,04 W/mK)
-
-**Exemplu calcul pentru o fereastră 1200×1200 mm:**
-
-| Component | Valoare |
+| Tip sistem | Preț estimat (manopera inclusă) |
 |---|---|
-| Uf profil Salamander 92 | 0,87 W/m²K |
-| Ug geam triplu Low-E argon | 0,55 W/m²K |
-| Ψg distanțier warm-edge | 0,04 W/mK |
-| **Uw fereastră finită** | **~0,80 W/m²K** |
+| Raffstore C80 manual (100×150 cm) | 600–900 lei |
+| Raffstore C80 electric Somfy (100×150 cm) | 1.200–1.800 lei |
+| Zipscreen manual (100×200 cm) | 800–1.200 lei |
+| Zipscreen electric Somfy io (100×200 cm) | 1.500–2.500 lei |
+| Rulou exterior aluminiu aplicat (100×150 cm) | 500–850 lei |
 
-Pragul nZEB conform HG 1336/2022 pentru zona climatică București: **Uw ≤ 1,3 W/m²K**. Sistemul complet descris atinge 0,80 W/m²K — cu 38% sub prag.
+*Prețuri orientative 2026, fără TVA, pentru București și Ilfov. Prețul final depinde de dimensiuni exacte, culoare și accesorii.*
 
-## De ce contează sistemul, nu componenta individuală
+## Automatizare Somfy — de ce merită pentru jaluzele exterioare
 
-Un exercițiu simplu ilustrează diferența:
+Motoarele Somfy (Sunea io, Altus 50 RTS) transformă jaluzelele exterioare în sisteme inteligente. Cu **Somfy TaHoma Switch** le poți controla din aplicație, integra cu Alexa sau Google Home și programa după orarul soarelui (mod heliocentric). Senzorul de vânt Eolis io retrage automat jaluzelele la rafale > 50 km/h — esențial pentru protejarea sistemului.
 
-**Varianta A — profil bun, montaj slab:**
-- Profil Salamander BluEvolution 92 (Uf 0,87)
-- Geam dublu standard fără argon (Ug 1,4)
-- Montaj clasic fără precadre (punte termică +0,4 W/m²K efectiv)
-- **Uw real: ~1,5 W/m²K** — sub standardul nZEB
+## Zone de livrare și montaj în București și Ilfov
 
-**Varianta B — sistemul complet Neofort:**
-- Profil Salamander BluEvolution 92 (Uf 0,87)
-- Geam triplu Low-E argon (Ug 0,55)
-- Montaj cu precadre Blaugelb Triotherm+ (punte termică eliminată)
-- **Uw real: ~0,80 W/m²K** — cu 38% mai bun decât pragul nZEB
+Neofort BIZ furnizează și montează jaluzele exterioare în **toate sectoarele Bucureștiului** și în județul Ilfov: Voluntari, Pipera, Otopeni, Buftea, Tunari, Bragadiru, Popești-Leordeni, Chitila, Pantelimon, Măgurele, Clinceni, Cornetu și alte localități.
 
-Diferența de preț între cele două variante este de 15-25%. Diferența de performanță termică este de aproape 100%.
+**Procesul de achiziție la Neofort BIZ:**
+1. Soliciți ofertă prin formularul de contact sau telefonic
+2. Venim la fața locului pentru măsurători gratuite
+3. Primești ofertă personalizată în 24 ore
+4. Producem și montăm în 5–10 zile lucrătoare
+5. Garanție 3 ani pe produs și manoperă
 
-## Documentație și certificare nZEB
+---
 
-Un furnizor serios livrează odată cu produsele documentația completă necesară pentru certificarea energetică a clădirii:
+Neofort BIZ este distribuitor autorizat Somfy și montator certificat pentru sisteme de umbrire în București și Ilfov. Consultanță gratuită — [solicită ofertă](/ro/contact).`,
 
-- Declarație de performanță profil (EN 14351-1)
-- Fișă tehnică geam termoizolant cu Ug certificat de laborator acreditat
-- Calcul punte termică Ψg pentru distanțierul warm-edge
-- Proces-verbal de montaj cu confirmare sistem Blaugelb complet
+      en: `## Exterior blinds in Bucharest — what options exist in 2026?
 
-Fără aceste documente, auditorul energetic nu poate certifica clădirea în clasa A sau A+.
+The shading systems market in Bucharest has diversified enormously in recent years. If previously the options were limited to aluminium roller shutters, today you can choose from a wide range: **Raffstore exterior venetian blinds**, zipscreen, automatic pergolas, shutters and awnings. This guide focuses on **exterior blinds** — differences from classic shutters, real 2026 prices, delivery areas and installation in Bucharest and Ilfov.
 
-## Concluzie
+## What are Raffstore exterior blinds?
 
-Sistemul complet nZEB pentru ferestre nu este un produs premium de lux — este soluția corectă pentru orice construcție nouă sau renovare serioasă în 2026. Salamander BluEvolution 92 + precadre Blaugelb Triotherm+ + geam triplu Low-E argon reprezintă combinația care atinge Uw de 0,80 W/m²K, elimină condensul, reduce factura la energie cu 25-35% față de ferestre standard și asigură toată documentația pentru certificarea nZEB.
+Exterior venetian blinds (**Raffstore** or **C80/Z90 blinds**) are shading systems with **horizontal aluminium slats of 80–90 mm** that can tilt between 0° and 90°. Unlike roller shutters that lower like a shutter, Raffstore slats allow you to simultaneously control light and visibility — an essential feature for offices, south/west-facing apartments and homes with glazed facades.
 
-[Solicită ofertă pentru sistemul complet nZEB](/ro/tamplarie-pvc) — echipa Neofort BIZ configurează soluția potrivită pentru proiectul tău, cu calcul termic inclus și documentație completă.`,
+**Advantages of Raffstore exterior blinds over roller shutters:**
+- Fine control of light and visibility without blocking ventilation
+- Reduction of up to 90% of solar radiation (g coefficient ≤ 0.10 with closed slats)
+- Compatible with Somfy automation (Sunea io or Altus 50 RTS motor)
+- Modern appearance, integrable in contemporary facades
+- Available with wind and light sensors for automatic retraction
 
-      en: `## Why a single component is not enough for nZEB
+## Types of exterior blinds available in Bucharest
 
-The most common myth in Romania's joinery market: "if I get a Salamander BluEvolution 92 profile, I have an nZEB window." Wrong. The profile is just one of three components of the complete system. Without Blaugelb Triotherm+ pre-frames and triple Low-E argon glazing, even the best profile on the market cannot reach the thermal performance required by nZEB standards.
+### 1. Exterior venetian blinds with 80 mm slats (Raffstore C80)
+The standard model for residential and commercial use. 80 mm lacquered aluminium slats, side guides in cable or rail, top box with or without cover. Manual actuation with strap or electric with Somfy Sunea io motor.
 
-## Component 1: Salamander BluEvolution 92 Profile
+### 2. Z90 exterior blinds (90 mm slats, Z profile)
+The Z profile of the 90 mm slat offers superior rigidity and better light sealing in the closed position. Recommended for large windows (over 2 m wide) and facades exposed to strong wind.
 
-Salamander BluEvolution 92 is the reference profile for residential PVC joinery in 2026. The 92 mm profile depth allows installing a glazing unit up to 52 mm thick — precisely the triple glazing with argon and Low-E.
+### 3. Zipscreen — exterior blinds with zipped side guides
+The Zipscreen or Screen ZIP system uses a Screen fabric with micro-perforations (3%–10%) fixed in side guides with zip system. Advantage over Raffstore: perfect lateral wind sealing, uniform appearance, high UV protection.
 
-**Main technical characteristics:**
-- 6 thermal insulation chambers
-- Profile depth: 92 mm
-- Frame thermal coefficient (Uf): **0.87 W/m²K**
-- Compatible with glazing units up to 52 mm
-- Galvanised steel reinforcement included as standard
+## Exterior blinds prices Bucharest 2026
 
-## Component 2: Blaugelb Triotherm+ Pre-frames
-
-A window installed without pre-frames loses between 30 and 40% of the profile's certified thermal performance due to thermal bridges at the wall junction.
-
-**How Blaugelb Triotherm+ eliminates thermal bridges:**
-- Material with extremely low thermal conductivity (λ = 0.035 W/mK)
-- Physically separates the window frame from the wall structure
-- Allows window installation in the plane of the wall's thermal insulation
-- Eliminates condensation at corners and window edges
-
-The complete Blaugelb system includes: Triotherm+ pre-frame, exterior pre-compressed butyl tape, and interior vapour barrier tape. Without this system, nZEB building certification cannot be obtained.
-
-## Component 3: Triple Low-E Argon Glazing
-
-Triple Low-E argon glazing achieves Ug values of 0.5-0.7 W/m²K versus 1.0-1.1 W/m²K for standard double argon glazing — representing 70-80% of the window surface area.
-
-**Example Uw calculation for a 1200×1200 mm window:**
-
-| Component | Value |
+| System type | Estimated price (installation included) |
 |---|---|
-| Uf Salamander 92 profile | 0.87 W/m²K |
-| Ug triple Low-E argon glazing | 0.55 W/m²K |
-| Ψg warm-edge spacer | 0.04 W/mK |
-| **Uw finished window** | **~0.80 W/m²K** |
+| Raffstore C80 manual (100×150 cm) | €120–180 |
+| Raffstore C80 electric Somfy (100×150 cm) | €240–360 |
+| Zipscreen manual (100×200 cm) | €160–240 |
+| Zipscreen electric Somfy io (100×200 cm) | €300–500 |
 
-nZEB threshold for Bucharest: **Uw ≤ 1.3 W/m²K**. The complete system achieves 0.80 W/m²K — 38% below the threshold.
+*Indicative prices 2026, VAT excluded, for Bucharest and Ilfov.*
 
-## Conclusion
+## Somfy automation — why it's worth it for exterior blinds
 
-Salamander BluEvolution 92 + Blaugelb Triotherm+ pre-frames + triple Low-E argon glazing: the combination that achieves Uw of 0.80 W/m²K, eliminates condensation and provides complete nZEB documentation.
+Somfy motors (Sunea io, Altus 50 RTS) transform exterior blinds into smart systems. With **Somfy TaHoma Switch** you can control them from the app, integrate with Alexa or Google Home and program them according to the sun schedule (heliocentric mode). The Eolis io wind sensor automatically retracts the blinds at gusts > 50 km/h — essential for protecting the system.
 
-[Request a quote for the complete nZEB system](/en/pvc-windows) — the Neofort BIZ team configures the right solution for your project, with thermal calculation and complete documentation included.`,
+Neofort BIZ is an authorised Somfy distributor and certified installer for shading systems in Bucharest and Ilfov. Free consultation — [request a quote](/en/contact).`,
 
-      de: `## Warum eine einzelne Komponente für nZEB nicht ausreicht
+      de: `## Außenjalousien in Bukarest — welche Optionen gibt es 2026?
 
-Das komplette nZEB-System besteht aus drei untrennbaren Komponenten: Salamander BluEvolution 92 Profil, Blaugelb Triotherm+ Vorblendrahmen und Dreifach-Low-E-Argon-Verglasung. Nur ihre Kombination erreicht die geforderte Wärmeleistung.
+Der Markt für Beschattungssysteme in Bukarest hat sich in den letzten Jahren enorm diversifiziert. Neben klassischen Aluminium-Außenrollläden stehen heute vielfältige Lösungen zur Verfügung: **Raffstore-Außenjalousien**, Zipscreen, automatische Pergolen, Klappläden und Markisen. Dieser Leitfaden konzentriert sich auf **Außenjalousien** — Unterschiede zu klassischen Rollläden, reale Preise 2026, Liefergebiete und Montage in Bukarest und Ilfov.
 
-## Komponente 1: Salamander BluEvolution 92
+## Was sind Raffstore-Außenjalousien?
 
-- 6 Wärmedämmkammern, Profiltiefe 92 mm
-- Uf: **0,87 W/m²K**
-- Kompatibel mit Glaspaketen bis 52 mm
+Außenraffstores (auch **Raffstore C80/Z90** oder Außenlamellenstores) sind Beschattungssysteme mit **horizontalen Aluminiumlamellen von 80–90 mm**, die zwischen 0° und 90° geneigt werden können. Im Gegensatz zu Außenrollläden ermöglichen Raffstore-Lamellen eine gleichzeitige Steuerung von Licht und Sicht — eine wesentliche Eigenschaft für Büros, süd-/westexponierte Wohnungen und Häuser mit verglasten Fassaden.
 
-## Komponente 2: Blaugelb Triotherm+ Vorblendrahmen
+**Vorteile von Raffstore-Außenjalousien gegenüber Rollläden:**
+- Feinstufige Licht- und Sichtregelung ohne Blockierung der Belüftung
+- Reduzierung der Sonneneinstrahlung um bis zu 90% (g-Wert ≤ 0,10 bei geschlossenen Lamellen)
+- Kompatibel mit Somfy-Automatisierung (Motor Sunea io oder Altus 50 RTS)
+- Modernes Erscheinungsbild, integrierbar in zeitgenössische Fassaden
+- Verfügbar mit Wind- und Lichtsensoren für automatisches Einfahren
 
-Ohne Vorblendrahmen verliert ein Fenster 30-40% seiner zertifizierten Wärmeleistung durch Wärmebrücken. Blaugelb Triotherm+ (λ = 0,035 W/mK) trennt den Rahmen physisch von der Wand und eliminiert Kondensat.
+## Preise für Außenjalousien in Bukarest 2026
 
-## Komponente 3: Dreifach-Low-E-Argon-Verglasung
+| Systemtyp | Geschätzter Preis (inkl. Montage) |
+|---|---|
+| Raffstore C80 manuell (100×150 cm) | 120–180 € |
+| Raffstore C80 elektrisch Somfy (100×150 cm) | 240–360 € |
+| Zipscreen manuell (100×200 cm) | 160–240 € |
+| Zipscreen elektrisch Somfy io (100×200 cm) | 300–500 € |
 
-Ug von 0,5-0,7 W/m²K — gegenüber 1,0-1,1 W/m²K beim Standard-Doppelglas mit Argon.
+*Richtwerte 2026, ohne MwSt., für Bukarest und Ilfov.*
 
-**Ergebnis für ein 1200×1200 mm Fenster: Uw ~0,80 W/m²K** — 38% unter dem nZEB-Grenzwert von 1,3 W/m²K.
+## Somfy-Automatisierung — warum es sich lohnt
 
-[Angebot anfordern](/de/kunststofffenster-pvc) — vollständige Wärmeberechnung und nZEB-Dokumentation inklusive.`,
+Somfy-Motoren (Sunea io, Altus 50 RTS) verwandeln Außenjalousien in intelligente Systeme. Mit **Somfy TaHoma Switch** steuern Sie diese per App, integrieren sie in Alexa oder Google Home und programmieren sie nach dem Sonnenverlauf. Der Eolis io Windsensor fährt die Jalousien bei Böen > 50 km/h automatisch ein.
 
-      fr: `## Pourquoi un seul composant ne suffit pas pour le nZEB
+Neofort BIZ ist autorisierter Somfy-Händler und zertifizierter Installateur für Beschattungssysteme in Bukarest und Ilfov. Kostenlose Beratung — [Angebot anfordern](/de/kontakt).`,
 
-Le système nZEB complet comprend trois composants indissociables : profilé Salamander BluEvolution 92, précadres Blaugelb Triotherm+ et triple vitrage Low-E argon. Seule leur combinaison atteint les performances thermiques requises.
+      fr: `## Stores extérieurs à Bucarest — quelles options en 2026 ?
 
-## Composant 1 : Profilé Salamander BluEvolution 92
+Le marché des systèmes d'occultation à Bucarest s'est considérablement diversifié ces dernières années. Aux volets roulants en aluminium classiques s'ajoutent désormais de nombreuses solutions : **stores vénitiens extérieurs Raffstore**, zipscreen, pergolas automatiques, volets et stores. Ce guide se concentre sur les **stores extérieurs** — différences avec les volets classiques, prix réels 2026, zones de livraison et pose à Bucarest et Ilfov.
 
-- 6 chambres d'isolation thermique, profondeur 92 mm
-- Uf : **0,87 W/m²K**
-- Compatible avec des vitrages jusqu'à 52 mm
+## Que sont les stores vénitiens extérieurs Raffstore ?
 
-## Composant 2 : Précadres Blaugelb Triotherm+
+Les stores vénitiens extérieurs (**Raffstore C80/Z90**) sont des systèmes d'occultation à **lames horizontales en aluminium de 80–90 mm** pouvant s'incliner entre 0° et 90°. Contrairement aux volets roulants, les lames Raffstore permettent de contrôler simultanément lumière et visibilité — une caractéristique essentielle pour les bureaux, les appartements exposés au sud/ouest et les maisons à façade vitrée.
 
-Sans précadres, une fenêtre perd 30 à 40% de ses performances certifiées à cause des ponts thermiques. Blaugelb Triotherm+ (λ = 0,035 W/mK) sépare physiquement le cadre du mur et élimine la condensation.
+**Avantages des stores Raffstore par rapport aux volets roulants :**
+- Réglage fin de la lumière et de la visibilité sans bloquer la ventilation
+- Réduction jusqu'à 90 % du rayonnement solaire (coefficient g ≤ 0,10 lames fermées)
+- Compatible avec l'automatisation Somfy (moteur Sunea io ou Altus 50 RTS)
+- Aspect moderne, intégrable dans les façades contemporaines
+- Disponibles avec capteurs de vent et de lumière pour rentrée automatique
 
-## Composant 3 : Triple vitrage Low-E argon
+## Prix des stores extérieurs à Bucarest 2026
 
-Ug de 0,5 à 0,7 W/m²K — contre 1,0 à 1,1 W/m²K pour un double vitrage standard avec argon.
+| Type de système | Prix estimé (pose incluse) |
+|---|---|
+| Raffstore C80 manuel (100×150 cm) | 120–180 € |
+| Raffstore C80 électrique Somfy (100×150 cm) | 240–360 € |
+| Zipscreen manuel (100×200 cm) | 160–240 € |
+| Zipscreen électrique Somfy io (100×200 cm) | 300–500 € |
 
-**Résultat pour une fenêtre 1200×1200 mm : Uw ~0,80 W/m²K** — 38% en dessous du seuil nZEB de 1,3 W/m²K.
+*Prix indicatifs 2026, hors TVA, pour Bucarest et Ilfov.*
 
-[Demander un devis](/fr/menuiserie-pvc) — calcul thermique et documentation nZEB inclus.`,
+## Automatisation Somfy — pourquoi ça vaut le coup
 
-      es: `## Por qué un solo componente no es suficiente para nZEB
+Les moteurs Somfy (Sunea io, Altus 50 RTS) transforment les stores extérieurs en systèmes intelligents. Avec **Somfy TaHoma Switch**, vous les contrôlez depuis l'appli, intégrez avec Alexa ou Google Home et programmez selon la course du soleil. Le capteur de vent Eolis io rentre automatiquement les stores à des rafales > 50 km/h.
 
-El sistema nZEB completo consta de tres componentes inseparables: perfil Salamander BluEvolution 92, precuadros Blaugelb Triotherm+ y triple acristalamiento Low-E argón. Solo su combinación alcanza el rendimiento térmico requerido.
+Neofort BIZ est distributeur Somfy agréé et installateur certifié pour les systèmes d'occultation à Bucarest et Ilfov. Conseil gratuit — [demander un devis](/fr/contact).`,
 
-## Componente 1: Perfil Salamander BluEvolution 92
+      es: `## Persianas exteriores en Bucarest — ¿qué opciones existen en 2026?
 
-- 6 cámaras de aislamiento térmico, profundidad 92 mm
-- Uf: **0,87 W/m²K**
-- Compatible con paquetes de vidrio hasta 52 mm
+El mercado de sistemas de sombreado en Bucarest se ha diversificado enormemente en los últimos años. Además de los clásicos cierres exteriores de aluminio, hoy se pueden elegir múltiples soluciones: **persianas venecianas exteriores Raffstore**, zipscreen, pérgolas automáticas, contraventanas y toldos. Esta guía se centra en las **persianas exteriores** — diferencias con los cierres clásicos, precios reales 2026, zonas de entrega e instalación en Bucarest e Ilfov.
 
-## Componente 2: Precuadros Blaugelb Triotherm+
+## ¿Qué son las persianas exteriores Raffstore?
 
-Sin precuadros, una ventana pierde entre el 30 y el 40% de sus prestaciones certificadas por puentes térmicos. Blaugelb Triotherm+ (λ = 0,035 W/mK) separa físicamente el marco del muro y elimina la condensación.
+Las persianas venecianas exteriores (**Raffstore C80/Z90**) son sistemas de sombreado con **lamas horizontales de aluminio de 80–90 mm** que pueden inclinarse entre 0° y 90°. A diferencia de los cierres enrollables, las lamas Raffstore permiten controlar simultáneamente luz y visibilidad — una característica esencial para oficinas, apartamentos orientados al sur/oeste y viviendas con fachada acristalada.
 
-## Componente 3: Triple acristalamiento Low-E argón
+**Ventajas de las persianas Raffstore frente a los cierres enrollables:**
+- Control preciso de luz y visibilidad sin bloquear la ventilación
+- Reducción de hasta el 90% de la radiación solar (coeficiente g ≤ 0,10 con lamas cerradas)
+- Compatible con automatización Somfy (motor Sunea io o Altus 50 RTS)
+- Aspecto moderno, integrable en fachadas contemporáneas
+- Disponibles con sensores de viento y luz para recogida automática
 
-Ug de 0,5-0,7 W/m²K — frente a 1,0-1,1 W/m²K del doble estándar con argón.
+## Precios persianas exteriores Bucarest 2026
 
-**Resultado para una ventana 1200×1200 mm: Uw ~0,80 W/m²K** — un 38% por debajo del umbral nZEB de 1,3 W/m²K.
+| Tipo de sistema | Precio estimado (instalación incluida) |
+|---|---|
+| Raffstore C80 manual (100×150 cm) | 120–180 € |
+| Raffstore C80 eléctrico Somfy (100×150 cm) | 240–360 € |
+| Zipscreen manual (100×200 cm) | 160–240 € |
+| Zipscreen eléctrico Somfy io (100×200 cm) | 300–500 € |
 
-[Solicitar presupuesto](/es/carpinteria-pvc) — cálculo térmico y documentación nZEB incluidos.`,
+*Precios orientativos 2026, sin IVA, para Bucarest e Ilfov.*
 
-      it: `## Perché un solo componente non è sufficiente per nZEB
+Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Consulta gratuita — [solicitar presupuesto](/es/contact).`,
 
-Il sistema nZEB completo è composto da tre componenti inscindibili: profilo Salamander BluEvolution 92, precornici Blaugelb Triotherm+ e triplo vetro Low-E argon. Solo la loro combinazione raggiunge le prestazioni termiche richieste.
+      it: `## Veneziane esterne a Bucarest — quali opzioni esistono nel 2026?
 
-## Componente 1: Profilo Salamander BluEvolution 92
+Il mercato dei sistemi di oscuramento a Bucarest si è enormemente diversificato negli ultimi anni. Oltre ai classici avvolgibili in alluminio, oggi si può scegliere tra molte soluzioni: **veneziane esterne Raffstore**, zipscreen, pergole automatiche, persiane e tende da sole. Questa guida si concentra sulle **veneziane esterne** — differenze rispetto agli avvolgibili classici, prezzi reali 2026, zone di consegna e installazione a Bucarest e Ilfov.
 
-- 6 camere di isolamento termico, profondità 92 mm
-- Uf: **0,87 W/m²K**
-- Compatibile con pacchi vetro fino a 52 mm
+## Cosa sono le veneziane esterne Raffstore?
 
-## Componente 2: Precornici Blaugelb Triotherm+
+Le veneziane esterne (**Raffstore C80/Z90**) sono sistemi di oscuramento con **lamelle orizzontali in alluminio da 80–90 mm** che possono inclinarsi tra 0° e 90°. A differenza degli avvolgibili, le lamelle Raffstore consentono di controllare simultaneamente luce e visibilità — una caratteristica essenziale per uffici, appartamenti esposti a sud/ovest e case con facciata vetrata.
 
-Senza precornici, una finestra perde il 30-40% delle prestazioni certificate per via dei ponti termici. Blaugelb Triotherm+ (λ = 0,035 W/mK) separa fisicamente il telaio dal muro ed elimina la condensa.
+**Vantaggi delle veneziane Raffstore rispetto agli avvolgibili:**
+- Controllo preciso di luce e visibilità senza bloccare la ventilazione
+- Riduzione fino al 90% della radiazione solare (coefficiente g ≤ 0,10 con lamelle chiuse)
+- Compatibili con automazione Somfy (motore Sunea io o Altus 50 RTS)
+- Aspetto moderno, integrabile in facciate contemporanee
+- Disponibili con sensori di vento e luce per ritiro automatico
 
-## Componente 3: Triplo vetro Low-E argon
+## Prezzi veneziane esterne Bucarest 2026
 
-Ug di 0,5-0,7 W/m²K — contro 1,0-1,1 W/m²K del doppio standard con argon.
+| Tipo di sistema | Prezzo stimato (installazione inclusa) |
+|---|---|
+| Raffstore C80 manuale (100×150 cm) | 120–180 € |
+| Raffstore C80 elettrico Somfy (100×150 cm) | 240–360 € |
+| Zipscreen manuale (100×200 cm) | 160–240 € |
+| Zipscreen elettrico Somfy io (100×200 cm) | 300–500 € |
 
-**Risultato per una finestra 1200×1200 mm: Uw ~0,80 W/m²K** — il 38% al di sotto della soglia nZEB di 1,3 W/m²K.
+*Prezzi indicativi 2026, IVA esclusa, per Bucarest e Ilfov.*
 
-[Richiedi un preventivo](/it/falegnameria-pvc) — calcolo termico e documentazione nZEB inclusi.`,
+Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi un preventivo](/it/contact).`,
     },
   },
+
+  // ─── ARTICOL 2: Montaj termopane Salamander Bucuresti ──────────────────────
+  {
+    slugs: {
+      ro: 'cum-se-monteaza-corect-termopanele-salamander-bucuresti',
+      en: 'how-to-correctly-install-salamander-windows-bucharest',
+      de: 'wie-werden-salamander-fenster-richtig-montiert-bukarest',
+      fr: 'comment-installer-correctement-fenetres-salamander-bucarest',
+      es: 'como-instalar-correctamente-ventanas-salamander-bucarest',
+      it: 'come-installare-correttamente-finestre-salamander-bucarest',
+    },
+    date: '2026-04-14',
+    author: 'Neofort BIZ',
+    accentColor: '#1a6a2e',
+    image: {
+      ro: '/blog/Montaj_termopane_Salamander_in_Bucuresti.avif',
+      en: '/blog/Montaj_termopane_Salamander_in_Bucuresti.avif',
+      de: '/blog/Montaj_termopane_Salamander_in_Bucuresti.avif',
+      fr: '/blog/Montaj_termopane_Salamander_in_Bucuresti.avif',
+      es: '/blog/Montaj_termopane_Salamander_in_Bucuresti.avif',
+      it: '/blog/Montaj_termopane_Salamander_in_Bucuresti.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1e0e 0%,#1a4a22 60%,#0a1e0e 100%)',
+    imageLabel: 'Montaj Termopane Salamander București',
+    readTime: { ro:'10 min citire', en:'10 min read', de:'10 Min.', fr:'10 min', es:'10 min', it:'10 min' },
+    category: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
+    title: {
+      ro: 'Cum se montează corect termopanele Salamander în București? Ghid profesional 2026',
+      en: 'How to Correctly Install Salamander Windows in Bucharest? Professional Guide 2026',
+      de: 'Wie werden Salamander-Fenster in Bukarest richtig montiert? Profi-Ratgeber 2026',
+      fr: 'Comment installer correctement les fenêtres Salamander à Bucarest ? Guide professionnel 2026',
+      es: '¿Cómo instalar correctamente las ventanas Salamander en Bucarest? Guía profesional 2026',
+      it: 'Come installare correttamente le finestre Salamander a Bucarest? Guida professionale 2026',
+    },
+    metaDesc: {
+      ro: 'Montaj termopane Salamander în București — etape complete, benzi precomprimate, precadre Blaugelb, nZEB, greșeli frecvente și cum să alegi o firmă serioasă de montaj în 2026.',
+      en: 'Salamander window installation in Bucharest — complete steps, pre-compressed bands, Blaugelb preframes, nZEB, common mistakes and how to choose a reliable installation company in 2026.',
+      de: 'Salamander-Fenstermontage in Bukarest — vollständige Schritte, vorkomprimierte Bänder, Blaugelb-Vorblendrahmen, nZEB, häufige Fehler und wie man ein seriöses Montageunternehmen wählt 2026.',
+      fr: "Installation de fenêtres Salamander à Bucarest — étapes complètes, bandes précomprimées, précadres Blaugelb, nZEB, erreurs fréquentes et comment choisir une entreprise de pose sérieuse en 2026.",
+      es: 'Instalación de ventanas Salamander en Bucarest — pasos completos, bandas precomprimidas, premarcos Blaugelb, nZEB, errores frecuentes y cómo elegir una empresa de instalación seria en 2026.',
+      it: 'Installazione finestre Salamander a Bucarest — fasi complete, nastri precompressi, precornici Blaugelb, nZEB, errori comuni e come scegliere un'azienda di installazione seria nel 2026.',
+    },
+    excerpt: {
+      ro: 'Montajul corect al termopanelor Salamander în București înseamnă mult mai mult decât înlocuirea geamurilor. Ghid complet: benzi precomprimate, precadre Blaugelb nZEB, etapele montajului profesional și greșelile care costă.',
+      en: 'Correctly installing Salamander windows in Bucharest means much more than just replacing windows. Complete guide: pre-compressed bands, Blaugelb nZEB preframes, professional installation steps and costly mistakes.',
+      de: 'Die korrekte Montage von Salamander-Fenstern in Bukarest bedeutet weit mehr als nur den Austausch von Fenstern. Vollständiger Leitfaden: vorkomprimierte Bänder, Blaugelb nZEB-Vorblendrahmen, professionelle Montageschritte und kostspielige Fehler.',
+      fr: "L'installation correcte des fenêtres Salamander à Bucarest va bien au-delà du simple remplacement des fenêtres. Guide complet : bandes précomprimées, précadres Blaugelb nZEB, étapes de pose professionnelle et erreurs coûteuses.",
+      es: 'La instalación correcta de ventanas Salamander en Bucarest significa mucho más que simplemente reemplazar ventanas. Guía completa: bandas precomprimidas, premarcos Blaugelb nZEB, pasos de instalación profesional y errores costosos.',
+      it: `L'installazione corretta delle finestre Salamander a Bucarest significa molto di più che sostituire semplicemente le finestre. Guida completa: nastri precompressi, precornici Blaugelb nZEB, fasi di installazione professionale ed errori costosi.`,
+    },
+    keywords: 'montaj termopane Bucuresti, montaj ferestre Salamander, montaj nZEB Bucuresti, benzi precomprimate montaj geamuri, precadre Blaugelb, montaj termopane profesional, firme montaj termopane Bucuresti, montaj ferestre bluEvolution 92',
+    dateDisplay: {
+      ro: '14 apr 2026', en: 'Apr 14 2026', de: '14. Apr. 2026',
+      fr: '14 avr. 2026', es: '14 abr 2026', it: '14 apr 2026',
+    },
+    content: {
+      ro: `## De ce contează atât de mult montajul termopanelor Salamander?
+
+Ai ales profile Salamander bluEvolution 82 sau 92 — produse cu Uf până la 0,9 W/(m²K) și izolare fonică de 47 dB. Dar performanțele tehnice ale profilului nu contează nimic dacă **montajul este executat greșit**. Un montaj incorect generează: punți termice la îmbinarea tocului cu zidăria, infiltrații de apă și aer, condens pe glafuri, iar în timp deformări ale tocului. Ghidul de față îți arată exact ce presupune un montaj profesional de termopane Salamander în București și Ilfov.
+
+## Etapa 1 — Măsurătoarea și proiectarea
+
+Montajul profesional începe întotdeauna cu **măsurători la fața locului**, nu pe baza dimensiunilor aproximative. Tehnicianul măsoară golul existent (zidăria) și calculează dimensiunile tocului ținând cont de:
+
+- Tipul de perete (BCA, cărămidă, beton, panou)
+- Grosimea stratului de tencuială sau termoizolație
+- Tipul de montaj ales — **direct în zid** sau **pe precadru Blaugelb**
+- Necesitatea de glafuri interioare (PVC sau aluminiu) și exterioare (aluminiu)
+
+### Precadrele Blaugelb Triotherm Plus — standardul nZEB
+Pentru construcțiile noi și renovările cu standard **nZEB (Nearly Zero Energy Buildings)**, Neofort BIZ utilizează **precadre Blaugelb Triotherm Plus**. Precadrul se montează înainte de fereastra propriu-zisă și creează o barieră termică continuă între toc și zidărie, eliminând puntea termică la perimetrul ferestrei — principala cauză a condensului pe glaf în locuințele vechi.
+
+## Etapa 2 — Demontarea geamurilor vechi
+
+Demontarea se execută cu **ventuze profesionale** pentru manipularea geamurilor mari, fără a deteriora zidăria sau finisajele interioare. Resturile de spumă poliuretanică, chit sau profile vechi sunt îndepărtate complet din gol înainte de montajul noilor ferestre.
+
+## Etapa 3 — Montajul propriu-zis conform standard nZEB
+
+Montajul profesional nZEB respectă **regula RAL** (Asociația Germană de Calitate pentru Ferestre):
+
+**Zona interioară — etanșare la vapori:**
+- Bandă etanșare antivapori interior (folie PE sau bandă butilic adeziv) — împiedică migrarea vaporilor din interior spre îmbinarea toc-zidărie
+
+**Zona mediană — fixarea și stabilizarea:**
+- Ancore de montaj metalice la max. 70 cm distanță
+- Cale și portcale din plastic special (nu din lemn!) pentru susținerea greutății pachetului de sticlă
+- Spumă poliuretanică cu celulă semi-deschisă în restul spațiului
+
+**Zona exterioară — etanșare la apă:**
+- **Bandă precomprimată din butilic** (ex. Illbruck TP600, Soudal Compriband) — se expandează după montaj și etanșează perimetrul exterior împotriva apei și vântului
+- Aceasta înlocuiește chiturile clasice care crapă în timp și permit infiltrații
+
+## Etapa 4 — Reglarea feronieriei
+
+După montaj, feroneria Roto NT sau Winkhaus trebuie **reglată precis** în toate cele 3 axe (vertical, orizontal, compresie). O feronerie nereglată corect: canaturi care freacă de toc, garnituri comprimate neuniform, închidere dificilă după câteva luni.
+
+## Etapa 5 — Montajul glafurilor și finisarea
+
+- **Glafuri interioare din PVC** — fixate cu expandă în toc și siliconate perimetral
+- **Glafuri exterioare din aluminiu** — cu profil de picurare și panta spre exterior (min. 5°)
+- **Siliconare exterioară** cu silicon neutru UV-rezistent, culoare adaptată profilului
+
+## Greșelile frecvente de montaj care costă
+
+❌ **Spuma poliuretanică în loc de bandă precomprimată** la exterior — crăpă în 2–3 ani, permite infiltrații\
+❌ **Calele de lemn** sub toc — putrezesc, afectează nivelarea în timp\
+❌ **Fără precadru** la construcții nZEB — puntea termică elimină 40–60% din economia de energie\
+❌ **Dimensionare greșită** a tocului față de golul real — jocuri mari umplute cu prea multă spumă\
+❌ **Feronerie nereglată** după montaj — uzură prematură, dificultăți de închidere
+
+## Cum alegi o firmă serioasă de montaj termopane în București?
+
+✅ Firma vine obligatoriu la **măsurători la fața locului** (nu acceptă comenzi pe baza măsurilor trimise de client)\
+✅ Folosește **benzi precomprimate** (întreabă explicit, nu spumă la exterior)\
+✅ Oferă **contract scris** cu specificațiile tehnice ale produsului\
+✅ Garanție minimum **5 ani** pe produs și manoperă\
+✅ Echipe proprii de montaj, nu subcontractori\
+✅ Precadre Blaugelb sau echivalent pentru proiecte nZEB
+
+---
+
+Neofort BIZ execută montaje termopane Salamander în București și Ilfov cu echipe proprii certificate, benzi precomprimate Illbruck și precadre Blaugelb Triotherm Plus. [Solicită ofertă montaj](/ro/contact).`,
+
+      en: `## Why does Salamander window installation matter so much?
+
+You've chosen Salamander bluEvolution 82 or 92 profiles — products with Uf down to 0.9 W/(m²K) and 47 dB acoustic insulation. But the technical performance of the profile means nothing if **installation is done incorrectly**. Poor installation generates: thermal bridges at the frame-masonry joint, water and air infiltration, condensation on window sills, and over time, frame deformation.
+
+## Step 1 — Survey and design
+
+Professional installation always starts with **on-site measurements**, not approximate dimensions. The technician measures the existing opening and calculates frame dimensions considering:
+
+- Wall type (aerated concrete, brick, concrete, panel)
+- Plaster or insulation layer thickness
+- Chosen installation type — **direct in wall** or **on Blaugelb preframe**
+- Need for interior (PVC or aluminium) and exterior (aluminium) window sills
+
+### Blaugelb Triotherm Plus preframes — the nZEB standard
+For new constructions and **nZEB (Nearly Zero Energy Buildings)** renovations, Neofort BIZ uses **Blaugelb Triotherm Plus preframes**. The preframe is installed before the window itself and creates a continuous thermal barrier between frame and masonry, eliminating the thermal bridge at the window perimeter.
+
+## Step 2 — Removing old windows
+
+Removal is done with **professional suction cups** for handling large glazing units, without damaging masonry or interior finishes.
+
+## Step 3 — Installation according to nZEB standard
+
+Professional nZEB installation follows the **RAL standard** (German Quality Association for Windows):
+
+- **Interior zone**: vapour barrier tape — prevents moisture migration from interior to the frame-masonry joint
+- **Middle zone**: metal mounting anchors at max. 70 cm intervals, plastic packers (not wood!)
+- **Exterior zone**: **pre-compressed butyl band** (Illbruck TP600, Soudal Compriband) — expands after installation and seals the perimeter against water and wind
+
+## Step 4 — Hardware adjustment
+
+After installation, Roto NT or Winkhaus hardware must be **precisely adjusted** in all 3 axes. Incorrectly adjusted hardware causes: sashes rubbing against the frame, uneven gasket compression, difficult closing after a few months.
+
+## Common installation mistakes that cost
+
+❌ Polyurethane foam instead of pre-compressed band at exterior — cracks in 2–3 years\
+❌ Wooden packers under frame — rot, affect levelling over time\
+❌ No preframe on nZEB constructions — thermal bridge eliminates 40–60% of energy savings\
+❌ Incorrect frame sizing vs actual opening\
+❌ Hardware not adjusted after installation
+
+Neofort BIZ installs Salamander windows in Bucharest and Ilfov with certified in-house teams, Illbruck pre-compressed bands and Blaugelb Triotherm Plus preframes. [Request installation quote](/en/contact).`,
+
+      de: `## Warum ist die Montage von Salamander-Fenstern so wichtig?
+
+Sie haben Salamander bluEvolution 82 oder 92 Profile gewählt — Produkte mit Uf bis zu 0,9 W/(m²K) und 47 dB Schallschutz. Aber die technischen Leistungen des Profils nützen nichts, wenn die **Montage fehlerhaft ausgeführt wird**. Eine falsche Montage erzeugt: Wärmebrücken an der Rahmen-Mauerwerk-Verbindung, Wasser- und Luftundichtigkeiten, Kondensat auf Fensterbänken.
+
+## Schritt 1 — Aufmaß und Planung
+
+Professionelle Montage beginnt immer mit **Aufmaß vor Ort**, nicht mit ungefähren Maßen. Der Techniker misst die vorhandene Maueröffnung und berechnet die Rahmenmaße unter Berücksichtigung von:
+
+- Wandtyp (Porenbeton, Ziegel, Beton, Platte)
+- Putz- oder Dämmschichtdicke
+- Gewählter Montage-Art — **direkt in die Wand** oder **auf Blaugelb-Vorblendrahmen**
+
+### Blaugelb Triotherm Plus Vorblendrahmen — der nZEB-Standard
+Für Neubauten und **nZEB-Renovierungen** verwendet Neofort BIZ **Blaugelb Triotherm Plus Vorblendrahmen**. Der Vorblendrahmen wird vor dem eigentlichen Fenster montiert und schafft eine durchgehende Wärmedämmschranke zwischen Rahmen und Mauerwerk.
+
+## Schritt 3 — Montage nach nZEB-Standard (RAL-Regel)
+
+- **Innenbereich**: Dampfsperrband — verhindert Feuchtigkeitsmigration
+- **Mittelbereich**: Metallanker im max. 70 cm Abstand, Kunststoffklötze (kein Holz!)
+- **Außenbereich**: **Vorkomprimiertes Butylband** (Illbruck TP600, Soudal Compriband) — dehnt sich aus und dichtet den Perimeter gegen Wasser und Wind ab
+
+## Häufige Montagefehler
+
+❌ PU-Schaum statt vorkomprimiertem Band außen — reißt in 2–3 Jahren\
+❌ Holzklötze unter dem Rahmen — verrotten, beeinflussen Nivellierung\
+❌ Kein Vorblendrahmen bei nZEB — Wärmebrücke eliminiert 40–60% der Energieeinsparungen
+
+Neofort BIZ montiert Salamander-Fenster in Bukarest und Ilfov mit zertifizierten Eigenteams, Illbruck-Bändern und Blaugelb Triotherm Plus Vorblendrahmen. [Angebot anfordern](/de/kontakt).`,
+
+      fr: `## Pourquoi la pose des fenêtres Salamander est-elle si importante ?
+
+Vous avez choisi des profilés Salamander bluEvolution 82 ou 92 — des produits avec Uf jusqu'à 0,9 W/(m²K) et 47 dB d'isolation acoustique. Mais les performances techniques du profilé ne signifient rien si **la pose est mal exécutée**. Une mauvaise pose génère : des ponts thermiques à la jonction cadre-maçonnerie, des infiltrations d'eau et d'air, de la condensation sur les appuis de fenêtre.
+
+## Étape 1 — Métrage et conception
+
+La pose professionnelle commence toujours par **un métrage sur place**, pas des dimensions approximatives. Le technicien mesure l'ouverture existante et calcule les dimensions du cadre en tenant compte de :
+
+- Type de mur (béton cellulaire, brique, béton, panneau)
+- Épaisseur de l'enduit ou de l'isolation
+- Type de pose choisi — **directement dans le mur** ou **sur précadre Blaugelb**
+
+### Précadres Blaugelb Triotherm Plus — la norme nZEB
+Pour les constructions neuves et les rénovations **nZEB**, Neofort BIZ utilise des **précadres Blaugelb Triotherm Plus**. Le précadre crée une barrière thermique continue entre cadre et maçonnerie, éliminant le pont thermique au périmètre de la fenêtre.
+
+## Étape 3 — Pose selon la norme nZEB (règle RAL)
+
+- **Zone intérieure** : ruban pare-vapeur — empêche la migration de l'humidité
+- **Zone médiane** : ancrages métalliques tous les 70 cm max., cales plastique (pas de bois !)
+- **Zone extérieure** : **bande précomprimée en butyle** (Illbruck TP600, Soudal Compriband) — s'expanse après pose et étanche le périmètre contre l'eau et le vent
+
+## Erreurs de pose fréquentes
+
+❌ Mousse polyuréthane au lieu de bande précomprimée à l'extérieur — se fissure en 2–3 ans\
+❌ Cales en bois sous le cadre — pourrissent, affectent le nivellement\
+❌ Pas de précadre sur constructions nZEB — le pont thermique élimine 40–60% des économies d'énergie
+
+Neofort BIZ réalise des poses de fenêtres Salamander à Bucarest et Ilfov avec des équipes propres certifiées, des bandes Illbruck et des précadres Blaugelb Triotherm Plus. [Demander un devis pose](/fr/contact).`,
+
+      es: `## ¿Por qué es tan importante la instalación de ventanas Salamander?
+
+Ha elegido perfiles Salamander bluEvolution 82 o 92 — productos con Uf hasta 0,9 W/(m²K) y aislamiento acústico de 47 dB. Pero las prestaciones técnicas del perfil no significan nada si **la instalación se realiza incorrectamente**. Una instalación deficiente genera: puentes térmicos en la unión marco-mampostería, infiltraciones de agua y aire, condensación en los alféizares.
+
+## Paso 1 — Medición y diseño
+
+La instalación profesional siempre comienza con **mediciones in situ**, no con dimensiones aproximativas. El técnico mide la abertura existente y calcula las dimensiones del marco considerando:
+
+- Tipo de pared (hormigón celular, ladrillo, hormigón, panel)
+- Espesor del revoco o aislamiento
+- Tipo de instalación elegido — **directamente en la pared** o **sobre premarco Blaugelb**
+
+### Premarcos Blaugelb Triotherm Plus — el estándar nZEB
+Para construcciones nuevas y renovaciones **nZEB**, Neofort BIZ utiliza **premarcos Blaugelb Triotherm Plus**. El premarco crea una barrera térmica continua entre marco y mampostería, eliminando el puente térmico en el perímetro de la ventana.
+
+## Paso 3 — Instalación según norma nZEB (regla RAL)
+
+- **Zona interior**: cinta barrera de vapor — impide la migración de humedad
+- **Zona media**: anclajes metálicos cada 70 cm máx., calzos de plástico (¡no de madera!)
+- **Zona exterior**: **banda precomprimida de butilo** (Illbruck TP600, Soudal Compriband) — se expande tras la instalación y sella el perímetro contra agua y viento
+
+## Errores frecuentes de instalación
+
+❌ Espuma de poliuretano en lugar de banda precomprimida al exterior — se agrieta en 2–3 años\
+❌ Calzos de madera bajo el marco — se pudren, afectan la nivelación\
+❌ Sin premarco en construcciones nZEB — el puente térmico elimina el 40–60% del ahorro energético
+
+Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos propios certificados, bandas Illbruck y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contact).`,
+
+      it: `## Perché l'installazione delle finestre Salamander è così importante?
+
+Ha scelto profili Salamander bluEvolution 82 o 92 — prodotti con Uf fino a 0,9 W/(m²K) e isolamento acustico di 47 dB. Ma le prestazioni tecniche del profilo non contano nulla se **l'installazione viene eseguita in modo errato**. Un'installazione scorretta genera: ponti termici alla giunzione telaio-muratura, infiltrazioni d'acqua e aria, condensa sui davanzali.
+
+## Fase 1 — Rilievo e progettazione
+
+L'installazione professionale inizia sempre con **misurazioni in loco**, non con dimensioni approssimative. Il tecnico misura l'apertura esistente e calcola le dimensioni del telaio considerando:
+
+- Tipo di parete (calcestruzzo cellulare, mattoni, calcestruzzo, pannello)
+- Spessore dell'intonaco o dell'isolamento
+- Tipo di installazione scelto — **direttamente nella parete** o **su precornice Blaugelb**
+
+### Precornici Blaugelb Triotherm Plus — lo standard nZEB
+Per nuove costruzioni e ristrutturazioni **nZEB**, Neofort BIZ utilizza **precornici Blaugelb Triotherm Plus**. La precornice crea una barriera termica continua tra telaio e muratura, eliminando il ponte termico al perimetro della finestra.
+
+## Fase 3 — Installazione secondo standard nZEB (regola RAL)
+
+- **Zona interna**: nastro barriera vapore — impedisce la migrazione dell'umidità
+- **Zona mediana**: ancoraggi metallici ogni 70 cm max., distanziali in plastica (non in legno!)
+- **Zona esterna**: **nastro precompresso in butile** (Illbruck TP600, Soudal Compriband) — si espande dopo l'installazione e sigilla il perimetro contro acqua e vento
+
+## Errori frequenti di installazione
+
+❌ Schiuma poliuretanica invece di nastro precompresso all'esterno — si crepa in 2–3 anni\
+❌ Distanziali in legno sotto il telaio — marciscono, influenzano la livellatura\
+❌ Nessuna precornice su costruzioni nZEB — il ponte termico elimina il 40–60% del risparmio energetico
+
+Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team propri certificati, nastri Illbruck e precornici Blaugelb Triotherm Plus. [Richiedi preventivo installazione](/it/contact).`,
+    },
+  },
+
+  // ─── ARTICOL 3: Preturi ferestre Salamander Bucuresti ──────────────────────
+  {
+    slugs: {
+      ro: 'preturi-ferestre-salamander-bucuresti-2026',
+      en: 'salamander-window-prices-bucharest-2026',
+      de: 'salamander-fenster-preise-bukarest-2026',
+      fr: 'prix-fenetres-salamander-bucarest-2026',
+      es: 'precios-ventanas-salamander-bucarest-2026',
+      it: 'prezzi-finestre-salamander-bucarest-2026',
+    },
+    date: '2026-04-18',
+    author: 'Neofort BIZ',
+    accentColor: '#8a4a00',
+    image: {
+      ro: '/blog/Care_sunt_preturile_pentru_ferestre_Salamander_in_Bucuresti.avif',
+      en: '/blog/Care_sunt_preturile_pentru_ferestre_Salamander_in_Bucuresti.avif',
+      de: '/blog/Care_sunt_preturile_pentru_ferestre_Salamander_in_Bucuresti.avif',
+      fr: '/blog/Care_sunt_preturile_pentru_ferestre_Salamander_in_Bucuresti.avif',
+      es: '/blog/Care_sunt_preturile_pentru_ferestre_Salamander_in_Bucuresti.avif',
+      it: '/blog/Care_sunt_preturile_pentru_ferestre_Salamander_in_Bucuresti.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#1e0e00 0%,#4a2800 60%,#1e0e00 100%)',
+    imageLabel: 'Prețuri Ferestre Salamander București 2026',
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    category: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
+    title: {
+      ro: 'Care sunt prețurile pentru ferestre Salamander în București? Ghid complet 2026',
+      en: 'What Are the Prices for Salamander Windows in Bucharest? Complete Guide 2026',
+      de: 'Was kosten Salamander-Fenster in Bukarest? Vollständiger Preisführer 2026',
+      fr: 'Quels sont les prix des fenêtres Salamander à Bucarest ? Guide complet 2026',
+      es: '¿Cuáles son los precios de las ventanas Salamander en Bucarest? Guía completa 2026',
+      it: 'Quali sono i prezzi delle finestre Salamander a Bucarest? Guida completa 2026',
+    },
+    metaDesc: {
+      ro: 'Prețuri ferestre Salamander în București 2026 — greenEvolution 76, bluEvolution 82, bluEvolution 92. Tabele comparative, factori de preț, ce e inclus în ofertă și cum obții cel mai bun raport calitate-preț.',
+      en: 'Salamander window prices in Bucharest 2026 — greenEvolution 76, bluEvolution 82, bluEvolution 92. Comparison tables, price factors, what is included in the quote and how to get the best value for money.',
+      de: 'Salamander-Fensterpreise in Bukarest 2026 — greenEvolution 76, bluEvolution 82, bluEvolution 92. Vergleichstabellen, Preisfaktoren, was im Angebot enthalten ist und wie Sie das beste Preis-Leistungs-Verhältnis erzielen.',
+      fr: "Prix des fenêtres Salamander à Bucarest 2026 — greenEvolution 76, bluEvolution 82, bluEvolution 92. Tableaux comparatifs, facteurs de prix, ce qui est inclus dans le devis et comment obtenir le meilleur rapport qualité-prix.",
+      es: 'Precios ventanas Salamander en Bucarest 2026 — greenEvolution 76, bluEvolution 82, bluEvolution 92. Tablas comparativas, factores de precio, qué incluye el presupuesto y cómo obtener la mejor relación calidad-precio.',
+      it: 'Prezzi finestre Salamander a Bucarest 2026 — greenEvolution 76, bluEvolution 82, bluEvolution 92. Tabelle comparative, fattori di prezzo, cosa è incluso nel preventivo e come ottenere il miglior rapporto qualità-prezzo.',
+    },
+    excerpt: {
+      ro: 'Cât costă ferestrele Salamander în București în 2026? Prețuri reale pentru greenEvolution 76, bluEvolution 82 și bluEvolution 92 — cu și fără montaj, factori care influențează prețul și ghid de interpretare a ofertelor.',
+      en: 'How much do Salamander windows cost in Bucharest in 2026? Real prices for greenEvolution 76, bluEvolution 82 and bluEvolution 92 — with and without installation, factors that influence the price and guide to interpreting quotes.',
+      de: 'Was kosten Salamander-Fenster in Bukarest 2026? Reale Preise für greenEvolution 76, bluEvolution 82 und bluEvolution 92 — mit und ohne Montage, Preiseinflussfaktoren und Leitfaden zur Angebotsinterpretation.',
+      fr: "Combien coûtent les fenêtres Salamander à Bucarest en 2026 ? Prix réels pour greenEvolution 76, bluEvolution 82 et bluEvolution 92 — avec et sans pose, facteurs influençant le prix et guide d'interprétation des devis.",
+      es: '¿Cuánto cuestan las ventanas Salamander en Bucarest en 2026? Precios reales para greenEvolution 76, bluEvolution 82 y bluEvolution 92 — con y sin instalación, factores que influyen en el precio y guía para interpretar presupuestos.',
+      it: 'Quanto costano le finestre Salamander a Bucarest nel 2026? Prezzi reali per greenEvolution 76, bluEvolution 82 e bluEvolution 92 — con e senza installazione, fattori che influenzano il prezzo e guida all'interpretazione dei preventivi.',
+    },
+    keywords: 'pret ferestre Salamander Bucuresti, termopane Salamander pret 2026, bluEvolution 82 pret, bluEvolution 92 pret, greenEvolution 76 pret, ferestre PVC Salamander pret, termopane Bucuresti pret, cat costa termopanele Salamander',
+    dateDisplay: {
+      ro: '18 apr 2026', en: 'Apr 18 2026', de: '18. Apr. 2026',
+      fr: '18 avr. 2026', es: '18 abr 2026', it: '18 apr 2026',
+    },
+    content: {
+      ro: `## Ce influențează prețul ferestrelor Salamander în București?
+
+Prețul unui sistem de ferestre Salamander depinde de **6 factori principali**, iar diferențele între oferte pot fi de 40–80% pentru aceeași dimensiune. Înainte să compari prețuri, trebuie să înțelegi ce include fiecare ofertă.
+
+### 1. Tipul de profil Salamander
+Salamander produce 3 game principale disponibile în România:
+
+| Profil | Camere | Adâncime | Garnituri | Standard | Utilizare recomandată |
+|---|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 3 | Clasa A | Locuințe standard, renovare economică |
+| **bluEvolution 82** | 6 | 82 mm | 3 | Clasa A | Case noi, eficiență energetică ridicată |
+| **bluEvolution 92** | 6 | 92 mm | 3 | Clasa A | Case pasive, nZEB, izolare maximă |
+
+### 2. Tipul de geam termoizolator
+- **Geam dublu (32 mm)** — standard, Ug = 1,0–1,1 W/(m²K)
+- **Geam triplu (44 mm)** — recomandat, Ug = 0,5–0,7 W/(m²K), diferență de preț +15–25%
+- **Geam triplu cu argon și Low-E** — top performanță, diferență +20–35%
+- **Bagheta Warm Edge** (distanțier termic) — adaugă 5–8% la prețul geamului, elimină condensul pe bagheta interioară
+
+### 3. Culoarea profilului
+- **Alb standard** — prețul de bază
+- **Folie imitație lemn** (stejar, nuc, mahon, wenge) — +20–35% față de alb
+- **Culori RAL speciale** (vopsire dublu față) — +30–50% față de alb
+
+### 4. Feroneria
+- **Roto NT standard** — inclusă în prețul de bază la furnizorii serioși
+- **Winkhaus** — similară ca preț, preferată pentru proiecte comerciale
+- **Feronerie antiefracție RC2/RC3** — +15–25% față de standard
+- **Mânere cu cheie** sau **cu senzori** — accesorii suplimentare
+
+### 5. Montajul și accesoriile
+- **Montaj standard** (spumă + chit exterior) — inclus sau 10–15% din valoarea produsului
+- **Montaj profesional nZEB** (benzi precomprimate + ancore) — +20–30% față de montaj standard dar obligatoriu pentru garanție maximă
+- **Glafuri PVC interior** — 80–150 lei/ml
+- **Glafuri aluminiu exterior** — 100–200 lei/ml
+- **Precadre Blaugelb** — 200–400 lei/buc, obligatorii pentru nZEB
+
+### 6. Dimensiunile și configurația
+Fereastra standard 100×120 cm costă semnificativ mai puțin decât fereastra 200×200 cm sau glisanta de 300×240 cm. Fiecare cm contează în preț la produsele executate pe comandă.
+
+## Prețuri orientative ferestre Salamander București 2026
+
+### Fereastră simplă oscilo-batantă (1 canat)
+
+| Dimensiune | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 80×120 cm, alb, geam dublu | 900–1.100 lei | 1.050–1.300 lei | 1.200–1.500 lei |
+| 80×120 cm, alb, geam triplu | 1.100–1.350 lei | 1.250–1.550 lei | 1.450–1.800 lei |
+| 100×150 cm, alb, geam triplu | 1.300–1.600 lei | 1.550–1.900 lei | 1.800–2.200 lei |
+
+### Fereastră dublă (2 canate) oscilo-batantă
+
+| Dimensiune | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 150×120 cm, alb, geam triplu | 2.200–2.700 lei | 2.600–3.200 lei | 3.000–3.700 lei |
+| 200×140 cm, alb, geam triplu | 2.800–3.400 lei | 3.300–4.000 lei | 3.800–4.700 lei |
+
+### Ușă termoizolantă (1 canat) — fără geam
+
+| Dimensiune | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 90×210 cm, alb, panel 44 mm | 2.000–2.500 lei | 2.400–3.000 lei | 2.800–3.500 lei |
+
+*Prețuri orientative 2026, fără TVA, fără montaj, pentru București și Ilfov. Prețul final poate diferi în funcție de feroneria aleasă, culoare, accesorii și dimensiunile exacte.*
+
+## Ce trebuie să verifici în orice ofertă de termopane
+
+✅ **Profilul exact** — număr camere, adâncime, clasă (A sau B)\
+✅ **Tipul de geam** — dublu sau triplu, Ug declarat, tip Low-E, gaz argon sau nu\
+✅ **Feroneria** — brand declarat (Roto, Winkhaus, Maco), nu doar „feronerie de calitate"\
+✅ **Montajul** — ce include: benzi precomprimate, ancore, glafuri, siliconare\
+✅ **Garanția** — separat pe produs (min. 5 ani) și manoperă (min. 2 ani)\
+✅ **Precadre** — incluse sau opționale, necesare pentru nZEB
+
+## De ce diferă prețurile atât de mult la termopane?
+
+O ofertă de 800 lei pentru o fereastră 100×120 cm ascunde de obicei: **profil Clasa B** (pereți sub 2,5 mm), geam dublu cu Ug = 1,0, feronerie generică fără brand, montaj cu spumă, fără garanție serioasă.
+
+O ofertă de 1.500 lei pentru aceeași fereastră include: **profil Clasa A** Salamander, geam triplu cu argon și Low-E, feronerie Roto NT, montaj cu benzi precomprimate, garanție 5 ani.
+
+Diferența de 700 lei se recuperează în 3–5 ani din facturile la energie — și mai ales eviți costurile de reparație sau înlocuire prematură.
+
+---
+
+Neofort BIZ oferă ferestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) cu montaj nZEB în București și Ilfov. Ofertă personalizată în 24 ore — [solicită acum](/ro/contact).`,
+
+      en: `## What influences Salamander window prices in Bucharest?
+
+The price of a Salamander window system depends on **6 main factors**, and differences between quotes can be 40–80% for the same size.
+
+### 1. Salamander profile type
+
+| Profile | Chambers | Depth | Gaskets | Class | Recommended use |
+|---|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Standard housing, economic renovation |
+| **bluEvolution 82** | 6 | 82 mm | 3 | A | New homes, high energy efficiency |
+| **bluEvolution 92** | 6 | 92 mm | 3 | A | Passive houses, nZEB, maximum insulation |
+
+### 2. Glazing type
+- **Double glazing (32 mm)** — standard, Ug = 1.0–1.1 W/(m²K)
+- **Triple glazing (44 mm)** — recommended, Ug = 0.5–0.7 W/(m²K), +15–25% price difference
+- **Triple glazing with argon and Low-E** — top performance, +20–35%
+- **Warm Edge spacer** — adds 5–8% to glazing price, eliminates condensation on inner spacer
+
+### 3. Profile colour
+- **Standard white** — base price
+- **Wood effect foil** (oak, walnut, mahogany, wenge) — +20–35%
+- **Special RAL colours** (double-sided painting) — +30–50%
+
+## Indicative Salamander window prices Bucharest 2026
+
+### Single tilt-and-turn window (1 sash)
+
+| Size | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 80×120 cm, white, triple glazing | €220–270 | €250–310 | €290–360 |
+| 100×150 cm, white, triple glazing | €260–320 | €310–380 | €360–440 |
+
+### Double tilt-and-turn window (2 sashes)
+
+| Size | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 150×120 cm, white, triple glazing | €440–540 | €520–640 | €600–740 |
+
+*Indicative prices 2026, VAT excluded, without installation.*
+
+## What to check in any window quote
+
+✅ **Exact profile** — number of chambers, depth, class (A or B)\
+✅ **Glazing type** — double or triple, declared Ug, Low-E type, argon gas or not\
+✅ **Hardware** — declared brand (Roto, Winkhaus, Maco)\
+✅ **Installation** — what is included: pre-compressed bands, anchors, window sills\
+✅ **Warranty** — separately for product (min. 5 years) and workmanship (min. 2 years)
+
+Neofort BIZ offers Salamander windows with nZEB installation in Bucharest and Ilfov. Personalised quote in 24 hours — [request now](/en/contact).`,
+
+      de: `## Was beeinflusst die Preise von Salamander-Fenstern in Bukarest?
+
+Der Preis eines Salamander-Fenstersystems hängt von **6 Hauptfaktoren** ab, und die Unterschiede zwischen Angeboten können für dieselbe Größe 40–80% betragen.
+
+### 1. Salamander-Profiltyp
+
+| Profil | Kammern | Tiefe | Dichtungen | Klasse | Empfohlener Einsatz |
+|---|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Standard-Wohnungsbau, wirtschaftliche Renovierung |
+| **bluEvolution 82** | 6 | 82 mm | 3 | A | Neubau, hohe Energieeffizienz |
+| **bluEvolution 92** | 6 | 92 mm | 3 | A | Passivhäuser, nZEB, maximale Dämmung |
+
+### 2. Verglasung
+- **Zweifachverglasung (32 mm)** — Standard, Ug = 1,0–1,1 W/(m²K)
+- **Dreifachverglasung (44 mm)** — empfohlen, Ug = 0,5–0,7 W/(m²K), +15–25% Preisunterschied
+- **Dreifachverglasung mit Argon und Low-E** — Topperformance, +20–35%
+- **Warm-Edge-Abstandhalter** — +5–8%, eliminiert Kondensat am Innenabstandhalter
+
+## Orientierungspreise Salamander-Fenster Bukarest 2026
+
+### Einfaches Dreh-Kipp-Fenster (1 Flügel)
+
+| Größe | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 80×120 cm, weiß, Dreifachverglasung | 220–270 € | 250–310 € | 290–360 € |
+| 100×150 cm, weiß, Dreifachverglasung | 260–320 € | 310–380 € | 360–440 € |
+
+*Richtwerte 2026, ohne MwSt., ohne Montage.*
+
+## Was Sie in jedem Fensterangebot prüfen sollten
+
+✅ **Exaktes Profil** — Kammeranzahl, Tiefe, Klasse (A oder B)\
+✅ **Verglasungstyp** — zwei- oder dreifach, deklarierter Ug-Wert, Low-E-Typ, Argon\
+✅ **Beschläge** — deklarierte Marke (Roto, Winkhaus, Maco)\
+✅ **Montage** — was enthalten ist: vorkomprimierte Bänder, Anker, Fensterbänke\
+✅ **Garantie** — separat für Produkt (mind. 5 Jahre) und Montage (mind. 2 Jahre)
+
+Neofort BIZ bietet Salamander-Fenster mit nZEB-Montage in Bukarest und Ilfov. Individuelles Angebot in 24 Stunden — [jetzt anfragen](/de/kontakt).`,
+
+      fr: `## Qu'est-ce qui influence les prix des fenêtres Salamander à Bucarest ?
+
+Le prix d'un système de fenêtres Salamander dépend de **6 facteurs principaux**, et les différences entre devis peuvent atteindre 40–80% pour la même taille.
+
+### 1. Type de profilé Salamander
+
+| Profilé | Chambres | Profondeur | Joints | Classe | Utilisation recommandée |
+|---|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Logement standard, rénovation économique |
+| **bluEvolution 82** | 6 | 82 mm | 3 | A | Maisons neuves, haute efficacité énergétique |
+| **bluEvolution 92** | 6 | 92 mm | 3 | A | Maisons passives, nZEB, isolation maximale |
+
+### 2. Type de vitrage
+- **Double vitrage (32 mm)** — standard, Ug = 1,0–1,1 W/(m²K)
+- **Triple vitrage (44 mm)** — recommandé, Ug = 0,5–0,7 W/(m²K), +15–25% de différence de prix
+- **Triple vitrage avec argon et Low-E** — performances optimales, +20–35%
+- **Espaceur Warm Edge** — +5–8%, élimine la condensation sur l'espaceur intérieur
+
+## Prix indicatifs fenêtres Salamander Bucarest 2026
+
+### Fenêtre simple oscillo-battante (1 vantail)
+
+| Dimension | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 80×120 cm, blanc, triple vitrage | 220–270 € | 250–310 € | 290–360 € |
+| 100×150 cm, blanc, triple vitrage | 260–320 € | 310–380 € | 360–440 € |
+
+*Prix indicatifs 2026, hors TVA, sans pose.*
+
+## Ce qu'il faut vérifier dans tout devis de fenêtres
+
+✅ **Profilé exact** — nombre de chambres, profondeur, classe (A ou B)\
+✅ **Type de vitrage** — double ou triple, Ug déclaré, type Low-E, gaz argon\
+✅ **Quincaillerie** — marque déclarée (Roto, Winkhaus, Maco)\
+✅ **Pose** — ce qui est inclus : bandes précomprimées, ancrages, appuis de fenêtre\
+✅ **Garantie** — séparément pour le produit (min. 5 ans) et la main-d'œuvre (min. 2 ans)
+
+Neofort BIZ propose des fenêtres Salamander avec pose nZEB à Bucarest et Ilfov. Devis personnalisé en 24 heures — [demander maintenant](/fr/contact).`,
+
+      es: `## ¿Qué influye en los precios de las ventanas Salamander en Bucarest?
+
+El precio de un sistema de ventanas Salamander depende de **6 factores principales**, y las diferencias entre presupuestos pueden ser del 40–80% para el mismo tamaño.
+
+### 1. Tipo de perfil Salamander
+
+| Perfil | Cámaras | Profundidad | Juntas | Clase | Uso recomendado |
+|---|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Vivienda estándar, renovación económica |
+| **bluEvolution 82** | 6 | 82 mm | 3 | A | Casas nuevas, alta eficiencia energética |
+| **bluEvolution 92** | 6 | 92 mm | 3 | A | Casas pasivas, nZEB, aislamiento máximo |
+
+### 2. Tipo de acristalamiento
+- **Doble acristalamiento (32 mm)** — estándar, Ug = 1,0–1,1 W/(m²K)
+- **Triple acristalamiento (44 mm)** — recomendado, Ug = 0,5–0,7 W/(m²K), +15–25% diferencia de precio
+- **Triple acristalamiento con argón y Low-E** — máximo rendimiento, +20–35%
+- **Separador Warm Edge** — +5–8%, elimina la condensación en el separador interior
+
+## Precios orientativos ventanas Salamander Bucarest 2026
+
+### Ventana simple oscilo-batiente (1 hoja)
+
+| Tamaño | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 80×120 cm, blanco, triple acristalamiento | 220–270 € | 250–310 € | 290–360 € |
+| 100×150 cm, blanco, triple acristalamiento | 260–320 € | 310–380 € | 360–440 € |
+
+*Precios orientativos 2026, sin IVA, sin instalación.*
+
+## Qué hay que verificar en cualquier presupuesto de ventanas
+
+✅ **Perfil exacto** — número de cámaras, profundidad, clase (A o B)\
+✅ **Tipo de acristalamiento** — doble o triple, Ug declarado, tipo Low-E, gas argón\
+✅ **Herraje** — marca declarada (Roto, Winkhaus, Maco)\
+✅ **Instalación** — qué incluye: bandas precomprimidas, anclajes, alféizares\
+✅ **Garantía** — por separado para el producto (mín. 5 años) y mano de obra (mín. 2 años)
+
+Neofort BIZ ofrece ventanas Salamander con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 24 horas — [solicitar ahora](/es/contact).`,
+
+      it: `## Cosa influenza i prezzi delle finestre Salamander a Bucarest?
+
+Il prezzo di un sistema di finestre Salamander dipende da **6 fattori principali**, e le differenze tra preventivi possono essere del 40–80% per la stessa dimensione.
+
+### 1. Tipo di profilo Salamander
+
+| Profilo | Camere | Profondità | Guarnizioni | Classe | Uso consigliato |
+|---|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Abitazioni standard, ristrutturazione economica |
+| **bluEvolution 82** | 6 | 82 mm | 3 | A | Nuove costruzioni, alta efficienza energetica |
+| **bluEvolution 92** | 6 | 92 mm | 3 | A | Case passive, nZEB, isolamento massimo |
+
+### 2. Tipo di vetrocamera
+- **Doppio vetro (32 mm)** — standard, Ug = 1,0–1,1 W/(m²K)
+- **Triplo vetro (44 mm)** — consigliato, Ug = 0,5–0,7 W/(m²K), +15–25% differenza di prezzo
+- **Triplo vetro con argon e Low-E** — prestazioni massime, +20–35%
+- **Distanziale Warm Edge** — +5–8%, elimina la condensa sul distanziale interno
+
+## Prezzi indicativi finestre Salamander Bucarest 2026
+
+### Finestra semplice anta-ribalta (1 anta)
+
+| Dimensione | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 80×120 cm, bianco, triplo vetro | 220–270 € | 250–310 € | 290–360 € |
+| 100×150 cm, bianco, triplo vetro | 260–320 € | 310–380 € | 360–440 € |
+
+*Prezzi indicativi 2026, IVA esclusa, senza installazione.*
+
+## Cosa verificare in qualsiasi preventivo di finestre
+
+✅ **Profilo esatto** — numero di camere, profondità, classe (A o B)\
+✅ **Tipo di vetrocamera** — doppio o triplo, Ug dichiarato, tipo Low-E, gas argon\
+✅ **Ferramenta** — marca dichiarata (Roto, Winkhaus, Maco)\
+✅ **Installazione** — cosa include: nastri precompressi, ancoraggi, davanzali\
+✅ **Garanzia** — separatamente per il prodotto (min. 5 anni) e manodopera (min. 2 anni)
+
+Neofort BIZ offre finestre Salamander con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 24 ore — [richiedi ora](/it/contact).`,
+    },
+  },
+
   {
     slugs: {
       ro: 'pergola-bioclimatica-vs-clasica-ghid-alegere',
@@ -317,7 +927,7 @@ Ug di 0,5-0,7 W/m²K — contro 1,0-1,1 W/m²K del doppio standard con argon.
       es: 'pergola-bioclimatica-vs-clasica-guia',
       it: 'pergola-bioclimatica-vs-classica-guida',
     },
-    date: '2026-01-09',
+    date: '2026-03-25',
     author: 'Neofort BIZ',
     accentColor: '#d4001a',
     image: {
@@ -358,8 +968,8 @@ Ug di 0,5-0,7 W/m²K — contro 1,0-1,1 W/m²K del doppio standard con argon.
     },
     keywords: 'pergola bioclimatica, pergola clasica, pergola retractabila, pergola lamele, pergola panza, pergola pret, pergola terasa, pergola Somfy, pergola automatizata, pergola aluminiu, pergola Bucuresti',
     dateDisplay: {
-      ro: '9 ian 2026', en: 'Jan 9 2026', de: '9. Jan. 2026',
-      fr: '9 janv 2026', es: '9 ene 2026', it: '9 gen 2026',
+      ro: '25 mar 2026', en: 'Mar 25 2026', de: '25. Mär. 2026',
+      fr: '25 mars 2026', es: '25 mar 2026', it: '25 mar 2026',
     },
     content: {
       ro: `## Pergolă bioclimatică vs pergolă clasică — ce diferențe contează cu adevărat?
@@ -576,12 +1186,9 @@ Neofort BIZ fornisce e installa pergole automatiche Somfy a Bucarest e Ilfov —
       es: 'bluevolution-92-vs-greenevolution-76-guia',
       it: 'bluevolution-92-vs-greenevolution-76-guida',
     },
-    date: '2025-12-28',
+    date: '2026-02-15',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '28 dec 2025', en: 'Dec 28 2025', de: '28. Dez. 2025',
-      fr: '28 déc 2025', es: '28 dic 2025', it: '28 dic 2025',
-    },
+    dateDisplay: { ro:'15 Februarie 2026', en:'February 15, 2026', de:'15. Februar 2026', fr:'15 février 2026', es:'15 de febrero de 2026', it:'15 febbraio 2026' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -1310,11 +1917,8 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
       es: 'instalacion-premarcos-blaugelb-triotherm-nzeb',
       it: 'installazione-precontrotelaio-blaugelb-triotherm-nzeb',
     },
-    date: '2026-01-18',
-    dateDisplay: {
-      ro: '18 ian 2026', en: 'Jan 18 2026', de: '18. Jan. 2026',
-      fr: '18 janv 2026', es: '18 ene 2026', it: '18 gen 2026',
-    },
+    date: '2026-02-22',
+    dateDisplay: { ro:'22 Februarie 2026', en:'February 22, 2026', de:'22. Februar 2026', fr:'22 février 2026', es:'22 de febrero de 2026', it:'22 febbraio 2026' },
     category: { ro:'Montaj & Izolare', en:'Installation', de:'Montage', fr:'Installation', es:'Instalación', it:'Installazione' },
     readTime: { ro:'7 min citire', en:'7 min read', de:'7 Min.', fr:'7 min', es:'7 min', it:'7 min' },
     image: {
@@ -1875,11 +2479,8 @@ Da Neofort BIZ, **tutte le nostre installazioni** includono il sistema completo 
       es: 'persianas-raffstore-vs-cierres-enrollables-aluminio',
       it: 'veneziane-raffstore-vs-tapparelle-alluminio',
     },
-    date: '2026-01-30',
-    dateDisplay: {
-      ro: '30 ian 2026', en: 'Jan 30 2026', de: '30. Jan. 2026',
-      fr: '30 janv 2026', es: '30 ene 2026', it: '30 gen 2026',
-    },
+    date: '2026-03-01',
+    dateDisplay: { ro:'1 Martie 2026', en:'March 1, 2026', de:'1. März 2026', fr:'1 mars 2026', es:'1 de marzo de 2026', it:'1 marzo 2026' },
     category: { ro:'Comparație produse', en:'Product Comparison', de:'Produktvergleich', fr:'Comparaison produits', es:'Comparación', it:'Confronto prodotti' },
     readTime: { ro:'6 min citire', en:'6 min read', de:'6 Min.', fr:'6 min', es:'6 min', it:'6 min' },
     image: {
@@ -2572,12 +3173,9 @@ Da Neofort BIZ forniamo e installiamo entrambi i sistemi. Contattateci per un pr
       es: 'exportacion-carpinteria-rumania-alemania',
       it: 'esportazione-serramenti-romania-germania',
     },
-    date: '2026-01-24',
+    date: '2026-03-08',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '24 ian 2026', en: 'Jan 24 2026', de: '24. Jan. 2026',
-      fr: '24 janv 2026', es: '24 ene 2026', it: '24 gen 2026',
-    },
+    dateDisplay: { ro:'8 Martie 2026', en:'March 8, 2026', de:'8. März 2026', fr:'8 mars 2026', es:'8 de marzo de 2026', it:'8 marzo 2026' },
     category: { ro:'Export & Europa', en:'Export & Europe', de:'Export & Europa', fr:'Export & Europe', es:'Exportación & Europa', it:'Export & Europa' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -3354,12 +3952,9 @@ Comunichiamo fluentemente in **rumeno, inglese e tedesco**. Inviateci le fotogra
       es: 'carpinteria-aluminio-rotura-termica-guia-completa',
       it: 'infissi-alluminio-taglio-termico-guida-completa',
     },
-    date: '2025-12-31',
+    date: '2026-03-10',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '31 dec 2025', en: 'Dec 31 2025', de: '31. Dez. 2025',
-      fr: '31 déc 2025', es: '31 dic 2025', it: '31 dic 2025',
-    },
+    dateDisplay: { ro:'10 Martie 2026', en:'March 10, 2026', de:'10. März 2026', fr:'10 mars 2026', es:'10 de marzo de 2026', it:'10 marzo 2026' },
     category: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -3875,12 +4470,9 @@ Inviaci le tue dimensioni e rispondiamo con preventivo completo in **48 ore**.
       es: 'muro-cortina-fachada-vidrio-guia-completa',
       it: 'parete-cortina-facciata-vetro-guida-completa',
     },
-    date: '2026-01-06',
+    date: '2026-03-15',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '6 ian 2026', en: 'Jan 6 2026', de: '6. Jan. 2026',
-      fr: '6 janv 2026', es: '6 ene 2026', it: '6 gen 2026',
-    },
+    dateDisplay: { ro:'15 Martie 2026', en:'March 15, 2026', de:'15. März 2026', fr:'15 mars 2026', es:'15 de marzo de 2026', it:'15 marzo 2026' },
     category: { ro:'Pereți Cortină', en:'Curtain Wall', de:'Vorhangfassade', fr:'Mur Rideau', es:'Muro Cortina', it:'Parete Cortina' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -4394,12 +4986,9 @@ Profili visibili **solo in una direzione**, gli altri lati incollati con silicon
       es: 'zipscreen-sombreado-terraza-guia-completa',
       it: 'zipscreen-ombreggiatura-terrazza-guida-completa',
     },
-    date: '2026-03-04',
+    date: '2026-03-15',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '4 mar 2026', en: 'Mar 4 2026', de: '4. Mär. 2026',
-      fr: '4 mars 2026', es: '4 mar 2026', it: '4 mar 2026',
-    },
+    dateDisplay: { ro:'15 Martie 2026', en:'March 15, 2026', de:'15. März 2026', fr:'15 mars 2026', es:'15 de marzo de 2026', it:'15 marzo 2026' },
     category: { ro:'Sisteme Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:'Systèmes d\'occultation', es:'Sistemas de sombreado', it:'Sistemi di oscuramento' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -4820,12 +5409,9 @@ Una tapparella esterna classica — anche in alluminio — ha i bordi del tessut
       es: 'precios-doble-acristalamiento-salamander-bucarest',
       it: 'prezzi-doppio-vetro-salamander-bucarest',
     },
-    date: '2026-01-03',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '3 ian 2026', en: 'Jan 3 2026', de: '3. Jan. 2026',
-      fr: '3 janv 2026', es: '3 ene 2026', it: '3 gen 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Prețuri & Ghid', en:'Prices & Guide', de:'Preise & Leitfaden', fr:'Prix & Guide', es:'Precios & Guía', it:'Prezzi & Guida' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -5086,12 +5672,9 @@ Trimite-ne dimensiunile ferestrelor și preferința de profil. Răspundem în **
       es: 'precios-carpinteria-aluminio-alumil-aluprof-cortizo-reynaers-bucarest',
       it: 'prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest',
     },
-    date: '2026-01-12',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '12 ian 2026', en: 'Jan 12 2026', de: '12. Jan. 2026',
-      fr: '12 janv 2026', es: '12 ene 2026', it: '12 gen 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Prețuri & Comparație', en:'Prices & Comparison', de:'Preise & Vergleich', fr:'Prix & Comparaison', es:'Precios & Comparación', it:'Prezzi & Confronto' },
     readTime: { ro:'10 min citire', en:'10 min read', de:'10 Min.', fr:'10 min', es:'10 min', it:'10 min' },
     image: {
@@ -5333,12 +5916,9 @@ We work exclusively with Alumil: local stock (3–5 day delivery), best price-pe
       es: 'carpinteria-aluminio-smart-home-ventanas-puertas-automatizadas',
       it: 'infissi-alluminio-smart-home-finestre-porte-automatizzate',
     },
-    date: '2026-01-21',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '21 ian 2026', en: 'Jan 21 2026', de: '21. Jan. 2026',
-      fr: '21 janv 2026', es: '21 ene 2026', it: '21 gen 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Smart Home & Automatizare', en:'Smart Home & Automation', de:'Smart Home & Automatisierung', fr:'Maison Intelligente & Automatisation', es:'Casa Inteligente & Automatización', it:'Casa Intelligente & Automazione' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -5793,12 +6373,9 @@ Progetto Loxone completo per una casa di 200 m²: 8.000–20.000 EUR inclusi har
       es: 'muro-cortina-edificios-oficinas-bucarest-guia-completa-2026',
       it: 'parete-cortina-edifici-uffici-bucarest-guida-completa-2026',
     },
-    date: '2026-02-02',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '2 feb 2026', en: 'Feb 2 2026', de: '2. Feb. 2026',
-      fr: '2 févr 2026', es: '2 feb 2026', it: '2 feb 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Pereți Cortină & Birouri', en:'Curtain Wall & Offices', de:'Vorhangfassade & Büros', fr:'Mur Rideau & Bureaux', es:'Muro Cortina & Oficinas', it:'Parete Cortina & Uffici' },
     readTime: { ro:'10 min citire', en:'10 min read', de:'10 Min.', fr:'10 min', es:'10 min', it:'10 min' },
     image: {
@@ -6295,12 +6872,9 @@ Stock locale Alumil — profili disponibili in 3–5 giorni vs 6–8 settimane p
       es: 'sustitucion-ventanas-renovacion-apartamento-bucarest',
       it: 'sostituzione-finestre-ristrutturazione-appartamento-bucarest',
     },
-    date: '2026-01-15',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '15 ian 2026', en: 'Jan 15 2026', de: '15. Jan. 2026',
-      fr: '15 janv 2026', es: '15 ene 2026', it: '15 gen 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Renovare & Ghid', en:'Renovation & Guide', de:'Renovierung & Leitfaden', fr:'Rénovation & Guide', es:'Renovación & Guía', it:'Ristrutturazione & Guida' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -6704,12 +7278,9 @@ For a 60 m² Bucharest apartment with old windows:
       es: 'carpinteria-salamander-casas-individuales-villas-exportacion-europa',
       it: 'infissi-salamander-case-individuali-ville-esportazione-europa',
     },
-    date: '2026-01-27',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '27 ian 2026', en: 'Jan 27 2026', de: '27. Jan. 2026',
-      fr: '27 janv 2026', es: '27 ene 2026', it: '27 gen 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Case Individuale & Export', en:'Individual Houses & Export', de:'Einfamilienhäuser & Export', fr:'Maisons Individuelles & Export', es:'Casas Individuales & Exportación', it:'Case Individuali & Export' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -7106,12 +7677,9 @@ Una finestra BluEvolution 92 (100×120 cm, triplo Low-E) costa da Neofort BIZ 48
       es: 'carpinteria-aluminio-reynaers-bloque-nueva-construccion-bucarest',
       it: 'infissi-alluminio-reynaers-condominio-nuova-costruzione-bucarest',
     },
-    date: '2026-02-08',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '8 feb 2026', en: 'Feb 8 2026', de: '8. Feb. 2026',
-      fr: '8 févr 2026', es: '8 feb 2026', it: '8 feb 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Construcții Noi & Blocuri', en:'New Builds & Residential Blocks', de:'Neubauten & Wohnblöcke', fr:'Constructions Neuves & Immeubles', es:'Obra Nueva & Bloques Residenciales', it:'Nuove Costruzioni & Condomini' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -7432,12 +8000,9 @@ Delea Veche è una delle zone di sviluppo residenziale più attive del settore 2
       es: 'salamander-bluevolution-92-casa-nueva-smart-home-bucarest',
       it: 'salamander-bluevolution-92-casa-nuova-smart-home-bucarest',
     },
-    date: '2026-02-05',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '5 feb 2026', en: 'Feb 5 2026', de: '5. Feb. 2026',
-      fr: '5 févr 2026', es: '5 feb 2026', it: '5 feb 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Case Noi & Smart Home', en:'New Houses & Smart Home', de:'Neubauten & Smart Home', fr:'Maisons Neuves & Maison Intelligente', es:'Casas Nuevas & Smart Home', it:'Case Nuove & Smart Home' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -7761,12 +8326,9 @@ Questa casa, completata nel 2025, ha scelto **Salamander BluEvolution 92** come 
       es: 'salamander-bluevolution-92-alu-revestido-aluminio-exportacion-francia-casa-montana',
       it: 'salamander-bluevolution-92-alu-rivestito-alluminio-esportazione-francia-casa-montagna',
     },
-    date: '2026-02-26',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '26 feb 2026', en: 'Feb 26 2026', de: '26. Feb. 2026',
-      fr: '26 févr 2026', es: '26 feb 2026', it: '26 feb 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Export & Case Munte', en:'Export & Mountain Houses', de:'Export & Berghäuser', fr:'Export & Maisons de Montagne', es:'Exportación & Casas de Montaña', it:'Export & Case di Montagna' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -8061,12 +8623,9 @@ Nous communiquons en roumain, anglais, français et allemand. Livraison dans tou
       es: 'vitrinas-cristal-ventanas-panoramicas-grandes-dimensiones-securizadas-bucarest',
       it: 'vetrine-vetro-finestre-panoramiche-grandi-dimensioni-securizzate-bucarest',
     },
-    date: '2026-02-17',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '17 feb 2026', en: 'Feb 17 2026', de: '17. Feb. 2026',
-      fr: '17 févr 2026', es: '17 feb 2026', it: '17 feb 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Vitrine & Geamuri Mari', en:'Shopfronts & Large Glass', de:'Schaufenster & Großglas', fr:'Vitrines & Grand Verre', es:'Vitrinas & Vidrio Grande', it:'Vetrine & Vetro Grande' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -8432,12 +8991,9 @@ Tempra termica a 620–680°C: resistenza **4–5× superiore**. Dimensioni mass
       es: 'instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
       it: 'posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
     },
-    date: '2026-03-01',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '1 mar 2026', en: 'Mar 1 2026', de: '1. Mär. 2026',
-      fr: '1 mars 2026', es: '1 mar 2026', it: '1 mar 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Montaj Specializat', en:'Specialised Installation', de:'Spezialmontage', fr:'Pose Spécialisée', es:'Instalación Especializada', it:'Posa Specializzata' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -8816,12 +9372,9 @@ Un pannello ESG 3×4 m da 12 mm pesa **360 kg**. La movimentazione manuale senza
       es: 'carpinteria-aluminio-muros-cortina-fachadas-vidrio-proyectos-bucarest',
       it: 'infissi-alluminio-pareti-cortina-facciate-vetro-progetti-bucarest',
     },
-    date: '2026-03-10',
+    date: '2026-03-17',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '10 mar 2026', en: 'Mar 10 2026', de: '10. Mär. 2026',
-      fr: '10 mars 2026', es: '10 mar 2026', it: '10 mar 2026',
-    },
+    dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Lucrări București', en:'Bucharest Projects', de:'Bukarest Projekte', fr:'Projets Bucarest', es:'Proyectos Bucarest', it:'Progetti Bucarest' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -9159,12 +9712,9 @@ Parete cortina Alumil CW50, vetro riflettente Low-E 6+16+6 (g = 0,27), BREEAM Ve
       es: 'persianas-zipscreen-blackout-o-transparente-como-elegir',
       it: 'tende-zipscreen-oscuranti-o-trasparenti-come-scegliere',
     },
-    date: '2026-03-22',
+    date: '2026-03-21',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '22 mar 2026', en: 'Mar 22 2026', de: '22. Mär. 2026',
-      fr: '22 mars 2026', es: '22 mar 2026', it: '22 mar 2026',
-    },
+    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
     category: { ro:'Sisteme de Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:"Systèmes d\'Occultation", es:'Sistemas de Sombreado', it:'Sistemi di Oscuramento' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: {
@@ -9607,12 +10157,9 @@ Quasi tutti i clienti che ordinano una tenda Zipscreen a Bucarest fanno la stess
       es: 'como-elegir-ventanas-eficientes-energeticamente-bucarest-nzeb-2026',
       it: 'come-scegliere-finestre-efficienti-energeticamente-bucarest-nzeb-2026',
     },
-    date: '2026-02-20',
+    date: '2026-03-21',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '20 feb 2026', en: 'Feb 20 2026', de: '20. Feb. 2026',
-      fr: '20 févr 2026', es: '20 feb 2026', it: '20 feb 2026',
-    },
+    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
     category: { ro:'Ghiduri & Sfaturi', en:'Guides & Tips', de:'Ratgeber & Tipps', fr:'Guides & Conseils', es:'Guías & Consejos', it:'Guide & Consigli' },
     readTime: { ro:'11 min citire', en:'11 min read', de:'11 Min.', fr:'11 min', es:'11 min', it:'11 min' },
     image: {
@@ -10045,12 +10592,9 @@ Bucarest ha uno dei climi più impegnativi d\'Europa: **−15°C in inverno** e 
       es: 'donde-encontrar-ventanas-salamander-con-entrega-internacional',
       it: 'dove-trovare-finestre-salamander-con-consegna-internazionale',
     },
-    date: '2026-03-19',
+    date: '2026-03-21',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '19 mar 2026', en: 'Mar 19 2026', de: '19. Mär. 2026',
-      fr: '19 mars 2026', es: '19 mar 2026', it: '19 mar 2026',
-    },
+    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
     category: { ro:'Export & Livrare', en:'Export & Delivery', de:'Export & Lieferung', fr:'Export & Livraison', es:'Exportación & Entrega', it:'Export & Consegna' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -10428,12 +10972,9 @@ Le ragioni sono semplici:
       es: 'donde-pedir-puertas-aluminio-sector-1-bucarest',
       it: 'dove-ordinare-porte-alluminio-settore-1-bucarest',
     },
-    date: '2026-03-16',
+    date: '2026-03-21',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '16 mar 2026', en: 'Mar 16 2026', de: '16. Mär. 2026',
-      fr: '16 mars 2026', es: '16 mar 2026', it: '16 mar 2026',
-    },
+    dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
     category: { ro:'Tâmplărie Aluminiu', en:'Aluminium Joinery', de:'Aluminiumtischler', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: {
@@ -10776,12 +11317,9 @@ Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e 
       es: 'ventana-pvc-oscilobatiente-doble-salamander',
       it: 'finestra-pvc-anta-ribalta-doppia-salamander',
     },
-    date: '2026-02-14',
+    date: '2026-03-25',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '14 feb 2026', en: 'Feb 14 2026', de: '14. Feb. 2026',
-      fr: '14 févr 2026', es: '14 feb 2026', it: '14 feb 2026',
-    },
+    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     readTime: { ro:'7 min citire', en:'7 min read', de:'7 Min.', fr:'7 min', es:'7 min', it:'7 min' },
     image: { ro:'/blog/blog-osciloculisanta-dubla-salamander.avif', en:'/blog/blog-osciloculisanta-dubla-salamander.avif', de:'/blog/blog-osciloculisanta-dubla-salamander.avif', fr:'/blog/blog-osciloculisanta-dubla-salamander.avif', es:'/blog/blog-osciloculisanta-dubla-salamander.avif', it:'/blog/blog-osciloculisanta-dubla-salamander.avif' },
@@ -11273,12 +11811,9 @@ Neofort BIZ installa tutte le finestre secondo la **guida di posa RAL**, con con
       es: 'puerta-corredera-pvc-salamander-evolutiondrive-plus-mosquitera-plise',
       it: 'porta-scorrevole-pvc-salamander-evolutiondrive-plus-zanzariera-plisse',
     },
-    date: '2026-02-23',
+    date: '2026-03-25',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '23 feb 2026', en: 'Feb 23 2026', de: '23. Feb. 2026',
-      fr: '23 févr 2026', es: '23 feb 2026', it: '23 feb 2026',
-    },
+    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: { ro:'/blog/blog-evolutiondrive-plus-plisse.avif', en:'/blog/blog-evolutiondrive-plus-plisse.avif', de:'/blog/blog-evolutiondrive-plus-plisse.avif', fr:'/blog/blog-evolutiondrive-plus-plisse.avif', es:'/blog/blog-evolutiondrive-plus-plisse.avif', it:'/blog/blog-evolutiondrive-plus-plisse.avif' },
@@ -11605,12 +12140,9 @@ Una porta scorrevole di 2,5–3,0 m richiede una protezione antizanzare adeguata
       es: 'instalacion-carpinteria-salamander-evolutiondrive-plus-corredera-alumil-m19800-plegable',
       it: 'posa-serramenti-salamander-evolutiondrive-plus-scorrevole-alumil-m19800-pieghevole',
     },
-    date: '2026-03-07',
+    date: '2026-03-25',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '7 mar 2026', en: 'Mar 7 2026', de: '7. Mär. 2026',
-      fr: '7 mars 2026', es: '7 mar 2026', it: '7 mar 2026',
-    },
+    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
     category: { ro:'Proiecte realizate', en:'Completed Projects', de:'Realisierte Projekte', fr:'Projets réalisés', es:'Proyectos realizados', it:'Progetti realizzati' },
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     image: { ro:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', en:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', de:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', fr:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', es:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', it:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif' },
@@ -12476,10 +13008,7 @@ Scopri di più sui nostri [infissi PVC Salamander](/it/infissi-pvc) e [infissi i
     },
     date: '2026-03-25',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
-    dateDisplay: {
-      ro: '25 mar 2026', en: 'Mar 25 2026', de: '25. Mär. 2026',
-      fr: '25 mars 2026', es: '25 mar 2026', it: '25 mar 2026',
-    },
+    dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     image: { ro:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', en:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', de:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', fr:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', es:'/blog/blog-usi-antiefractie-amprenta-digitala.avif', it:'/blog/blog-usi-antiefractie-amprenta-digitala.avif' },
@@ -12786,7 +13315,7 @@ I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistem
       es: 'somfy-motores-persianas',
       it: 'somfy-motori-tapparelle',
     },
-    date: '2025-12-25',
+    date: '2026-02-10',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
     image: {
       ro: '/blog/blog-somfy-rulouri-motoare.avif',
@@ -12951,8 +13480,12 @@ Motore Somfy installato a Bucarest da **250 EUR / motore**. Kit TaHoma Switch da
     },
     keywords: 'motor Somfy rulouri, automatizare rulouri exterioare, motor Oximo io, RS100 io Somfy, telecomanda Somfy, Somfy TaHoma, automatizare jaluzele, motor rulou pret, rulouri electrice Somfy, Somfy Bucuresti',
     dateDisplay: {
-      ro: '25 dec 2025', en: 'Dec 25 2025', de: '25. Dez. 2025',
-      fr: '25 déc 2025', es: '25 dic 2025', it: '25 dic 2025',
+      ro: '10 feb 2026',
+      en: 'Feb 10 2026',
+      de: '10. Feb. 2026',
+      fr: '10 fév 2026',
+      es: '10 feb 2026',
+      it: '10 feb 2026',
     },
   },
   {
@@ -12964,7 +13497,7 @@ Motore Somfy installato a Bucarest da **250 EUR / motore**. Kit TaHoma Switch da
       es: 'somfy-automatizacion-pergola-toldo',
       it: 'somfy-automazione-pergola-tenda',
     },
-    date: '2026-02-11',
+    date: '2026-01-15',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
     image: {
       ro: '/blog/blog-somfy-pergole.avif',
@@ -13117,8 +13650,12 @@ Motore Somfy pergola da **350 EUR installato**. Sensore Sunis io da 80 EUR.
     },
     keywords: 'automatizare pergola Somfy, motor pergola Somfy, Somfy copertine, Pergola RGS io, Sunea io Somfy, automatizare copertina, pergola motoricata Somfy, Somfy Bucuresti pergola, motor copertina retractabila',
     dateDisplay: {
-      ro: '11 feb 2026', en: 'Feb 11 2026', de: '11. Feb. 2026',
-      fr: '11 févr 2026', es: '11 feb 2026', it: '11 feb 2026',
+      ro: '15 ian 2026',
+      en: 'Jan 15 2026',
+      de: '15. Jan. 2026',
+      fr: '15 jan 2026',
+      es: '15 ian 2026',
+      it: '15 ian 2026',
     },
   },
   {
@@ -13130,7 +13667,7 @@ Motore Somfy pergola da **350 EUR installato**. Sensore Sunis io da 80 EUR.
       es: 'somfy-tahoma-hogar-inteligente-bucarest',
       it: 'somfy-tahoma-casa-intelligente-bucarest',
     },
-    date: '2026-03-13',
+    date: '2025-12-08',
     author: { name: 'Neofort BIZ', url: 'https://www.neofort-biz.ro/ro/despre' },
     image: {
       ro: '/blog/blog-somfy-smart-home.avif',
@@ -13311,421 +13848,14 @@ Il kit TaHoma Switch (hub + app) parte da **180 EUR**. Configurazione completa i
     },
     keywords: 'Somfy TaHoma, TaHoma Switch, smart home Somfy Romania, casa inteligenta Somfy, control vocal rulouri, Alexa Somfy, Google Home Somfy, automatizare casa Bucuresti, TaHoma pret Romania',
     dateDisplay: {
-      ro: '13 mar 2026', en: 'Mar 13 2026', de: '13. Mär. 2026',
-      fr: '13 mars 2026', es: '13 mar 2026', it: '13 mar 2026',
+      ro: '8 dec 2025',
+      en: 'Dec 8 2025',
+      de: '8. Dez. 2025',
+      fr: '8 déc 2025',
+      es: '8 dec 2025',
+      it: '8 dec 2025',
     },
   },
-  // ── Articol adăugat v145 — Mitul PVC toxic ──
-  {
-    slugs: {
-      ro: 'mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre',
-      en: 'pvc-toxic-myth-safety-composition-evolution-windows',
-      de: 'pvc-giftig-mythos-sicherheit-zusammensetzung-entwicklung-fenster',
-      fr: 'mythe-pvc-toxique-securite-composition-evolution-fenetres',
-      es: 'mito-pvc-toxico-seguridad-composicion-evolucion-ventanas',
-      it: 'mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre',
-    },
-    date: '2026-04-04',
-    author: 'Neofort BIZ',
-    accentColor: '#2d5a8e',
-    image: {
-      ro: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
-      en: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
-      de: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
-      fr: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
-      es: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
-      it: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
-    },
-    imageBg: 'linear-gradient(135deg,#0a1628 0%,#2d5a8e 60%,#0a1628 100%)',
-    imageLabel: 'Mitul PVC-ului toxic — Analiză istorică și tehnică',
-    readTime: { ro:'12 min citire', en:'12 min read', de:'12 Min.', fr:'12 min', es:'12 min', it:'12 min' },
-    category: {
-      ro: 'Ghid tehnic',
-      en: 'Technical Guide',
-      de: 'Technischer Ratgeber',
-      fr: 'Guide technique',
-      es: 'Guía técnica',
-      it: 'Guida tecnica',
-    },
-    title: {
-      ro: 'Mitul PVC-ului toxic: de unde vine, ce spune știința și de ce ferestrele moderne sunt sigure — Analiză 2026',
-      en: 'The PVC Toxicity Myth: Origins, What Science Says and Why Modern Windows Are Safe — Analysis 2026',
-      de: 'Der PVC-Giftigkeitsmythos: Herkunft, was die Wissenschaft sagt und warum moderne Fenster sicher sind — Analyse 2026',
-      fr: 'Le mythe du PVC toxique : origines, ce que dit la science et pourquoi les fenêtres modernes sont sûres — Analyse 2026',
-      es: 'El mito del PVC tóxico: origen, qué dice la ciencia y por qué las ventanas modernas son seguras — Análisis 2026',
-      it: 'Il mito del PVC tossico: origini, cosa dice la scienza e perché le finestre moderne sono sicure — Analisi 2026',
-    },
-    metaDesc: {
-      ro: 'Mitul PVC-ului toxic: origini istorice, compoziție fără plumb din 2008, comportament la incendiu și ger extrem. Analiză cu date verificabile și certificate EU.',
-      en: 'The PVC toxicity myth: historical origins, lead-free formula since 2008, fire and frost behaviour. Analysis with verifiable data and EU certifications.',
-      de: 'Der PVC-Giftigkeitsmythos: Ursprünge, bleifreie Formel seit 2008, Verhalten bei Brand und Frost. Analyse mit verifizierbaren Daten und EU-Zertifikaten.',
-      fr: 'Le mythe du PVC toxique : origines, formule sans plomb depuis 2008, comportement au feu et au gel. Analyse avec données vérifiables et certifications UE.',
-      es: 'El mito del PVC tóxico: orígenes, fórmula sin plomo desde 2008, comportamiento al fuego y al frío. Análisis con datos verificables y certificaciones UE.',
-      it: 'Il mito del PVC tossico: origini, formula senza piombo dal 2008, comportamento al fuoco e al gelo. Analisi con dati verificabili e certificazioni UE.',
-    },
-    excerpt: {
-      ro: "PVC-ul toxic este unul dintre cele mai rezistente mituri din industria construcțiilor. Dar de unde vine acest mit, ce spune chimia cu adevărat și de ce profilele moderne Salamander nu au nicio legătură cu PVC-ul din anii '70? O analiză documentată, cu date reale.",
-      en: "The toxic PVC myth is one of the most persistent in the construction industry. But where does it come from, what does chemistry actually say, and why do modern Salamander profiles have nothing to do with 1970s PVC? A documented analysis with real data.",
-      de: "Der giftige PVC-Mythos ist einer der hartnäckigsten in der Bauindustrie. Aber woher kommt er, was sagt die Chemie wirklich und warum haben moderne Salamander-Profile nichts mit dem PVC der 1970er Jahre zu tun? Eine dokumentierte Analyse.",
-      fr: "Le mythe du PVC toxique est l'un des plus tenaces dans l'industrie de la construction. Mais d'où vient-il, que dit réellement la chimie, et pourquoi les profilés Salamander modernes n'ont-ils rien à voir avec le PVC des années 70 ?",
-      es: "El mito del PVC tóxico es uno de los más persistentes en la industria de la construcción. Pero ¿de dónde viene, qué dice realmente la química y por qué los perfiles Salamander modernos no tienen nada que ver con el PVC de los años 70?",
-      it: "Il mito del PVC tossico è uno dei più persistenti nell'industria edile. Ma da dove viene, cosa dice davvero la chimica e perché i moderni profili Salamander non hanno nulla a che fare con il PVC degli anni '70?",
-    },
-    keywords: 'PVC toxic, PVC sigur ferestre, compozitie PVC profile, PVC fara plumb, PVC Salamander siguranta, ferestre PVC sanatate, PVC incendiu, stabilizatori PVC calciu zinc, PVC reciclare, tamplarie PVC sigura',
-    dateDisplay: {
-      ro: '4 apr 2026', en: 'Apr 4 2026', de: '4. Apr. 2026',
-      fr: '4 avr. 2026', es: '4 abr 2026', it: '4 apr 2026',
-    },
-    content: {
-      ro: `## De unde vine mitul — scurt istoric documentat
-
-Mitul toxicității PVC-ului nu a apărut din neant. Are rădăcini reale în istoria industriei chimice, dar a rămas înghețat în anii în care problemele erau reale, ignorând 40 de ani de progres tehnic.
-
-În anii 1940-1970, PVC-ul industrial era stabilizat cu compuși de plumb și cadmiu — metale grele cu toxicitate dovedită. Aceste substanțe erau folosite pentru a preveni degradarea termică a polimerului în procesul de prelucrare. Cercetările medicale din anii '70 și '80 au identificat riscurile: lucrătorii din fabricile de PVC expuși la temperaturi înalte fără echipamente de protecție aveau concentrații crescute de plumb în sânge.
-
-Organizațiile de mediu din Europa de Vest — în special din Germania, Austria și Olanda — au dus o campanie susținută în anii '80 și '90 împotriva PVC-ului, bazată pe aceste date reale, dar dintr-o perioadă anterioară modernizărilor chimice. Campania a fost eficientă mediatic, dar a creat o imagine care nu mai corespundea produsului care era deja în fabricație.
-
-Problema este că mitul a supraviețuit chimiei care l-a generat.
-
-## Compoziția chimică reală a PVC-ului modern
-
-PVC — policlorura de vinil — este un polimer sintetic obținut prin polimerizarea monomerului clorură de vinil (VCM). Compoziția unui profil PVC modern pentru ferestre include:
-
-- **Rășina PVC:** ~60-65% din masă. Polimer inert chimic în condiții normale de utilizare, fără emisii la temperaturi sub 60°C.
-- **Stabilizatori:** Până în 2015, stabilizatorii pe bază de plumb reprezentau norma industrială europeană. Tranziția completă la stabilizatori pe bază de calciu-zinc (Ca-Zn) a fost finalizată în industria europeană prin programul voluntar Stabiliser 2015, coordonat de ECVM (European Council of Vinyl Manufacturers). Profilul Salamander folosește exclusiv stabilizatori Ca-Zn din 2008.
-- **Modificatori de impact:** Compuși acrilici care îmbunătățesc rezistența la șoc, non-toxici.
-- **Lubrifianți interni și externi:** Esteri de acid gras sau polietilene cu greutate moleculară mică — inerți biochimic.
-- **Pigmenți:** Dioxid de titan (TiO₂) pentru alb sau pigmenți anorganici pentru culori. TiO₂ este clasificat de EFSA ca sigur în aplicații de contact cu suprafețele locuibile.
-- **Materiale de umplutură:** Carbonat de calciu (CaCO₃) — același material din care sunt făcute coaja de ou și calcarul.
-
-**Ce nu mai conțin profilul PVC moderne:** plumb, cadmiu, mercur sau compuși organostanici — toate interzise prin Regulamentul REACH (CE) nr. 1907/2006.
-
-## Comportamentul la temperaturi extreme — date reale
-
-Unul dintre argumentele cel mai frecvent invocat împotriva PVC-ului este comportamentul la temperaturi ridicate. Să separăm ficțiunea de date măsurabile:
-
-**La temperaturi normale de utilizare (−40°C până la +60°C):** PVC-ul pentru ferestre este complet stabil chimic. Nu emit substanțe volatile detectabile. Profilele Salamander sunt testate conform EN 12608 pentru rezistență la cicluri termice repetate în acest interval, fără deformare sau emisii.
-
-**La temperaturi mai ridicate (60°C–140°C):** Profilul PVC începe să se înmoaie progresiv. Nu este o ardere, ci o tranziție de fază reversibilă. Nu se emit substanțe toxice în cantități semnificative sub punctul de aprindere.
-
-**La punctul de aprindere (>270°C):** PVC-ul se aprinde mai greu decât lemnul (punctul de aprindere al lemnului uscat: ~220-260°C, al PVC-ului: >270°C). Odată aprins, produce gaze de combustie care includ acid clorhidric (HCl) — aceasta este baza îngrijorării reale din scenariile de incendiu. Totuși, concentrațiile de HCl produse de tâmplăria PVC dintr-o locuință sunt semnificativ mai mici decât cele produse de alte materiale comune (mochetă sintetică, mobilier cu PAL melaminat, cabluri electrice). Conform studiului COWI pentru Comisia Europeană (2001), contribuția PVC-ului la toxicitatea gazelor de incendiu la nivel de locuință este estimată sub 5% din totalul emisiilor toxice.
-
-**La ger extrem (sub −20°C):** Profilele din PVC plasticizat devin fragile — dar profilele pentru ferestre sunt **neplasticizate** (rigid PVC sau PVC-U). Salamander BluEvolution 92 este testat conform EN 12608 la −20°C fără modificări ale proprietăților mecanice.
-
-## De ce ferestrele PVC din anii '70 și cele de azi sunt produse diferite
-
-Confuzia temporală este sursa principală de rezistență a mitului. Iată cronologia modernizărilor relevante:
-
-**1985-1995:** Industria PVC europeană adoptă voluntar programul ECVM pentru reducerea compușilor de plumb și cadmiu. Primii stabilizatori Ca-Zn de serie apar pe piață.
-
-**1994:** Germania interzice utilizarea stabilizatorilor de cadmiu în PVC prin Chemikalienverbotsverordnung. Restul UE urmează în doi ani.
-
-**2001:** Angajamentul voluntar ECVM/ESPA pentru eliminarea completă a plumbului din stabilizatorii PVC până în 2015 — depășit în practică cu 5-7 ani față de termen.
-
-**2006:** Regulamentul REACH intră în vigoare, clasificând oficial plumbul, cadmiul și compușii organostanici ca substanțe de îngrijorare deosebită (SVHC) și restricționând utilizarea lor în produse de consum.
-
-**2008:** Salamander finalizează tranziția completă la stabilizatori Ca-Zn în toate gamele de profile.
-
-**2015:** Industria europeană a profilelor PVC pentru ferestre operează 100% fără stabilizatori de plumb. Confirmarea a fost certificată prin auditul independent VinylPlus.
-
-**2026:** Directiva Ecodesign UE impune procentaje minime de material reciclat în producția de profile noi. PVC-ul pentru ferestre este unul dintre materialele cel mai bine poziționate din punct de vedere al reciclabilității — recuperare materială de 99,7% în circuitul industrial.
-
-## Reciclabilitatea: argumentul pe care industria anti-PVC îl ignoră
-
-Una dintre ironiile tehnice ale dezbaterii este că PVC-ul este unul dintre cele mai reciclabile materiale de construcție. Un profil PVC poate fi reproceseat de până la 8 ori fără degradare semnificativă a proprietăților mecanice. Industria europeană reciclează anual peste 800.000 tone de PVC, dintre care o parte semnificativă provine din tâmplărie veche.
-
-VinylPlus — programul de sustenabilitate al industriei europene a PVC-ului — a publicat date verificate independent: între 2000 și 2023, au fost reciclate 7,7 milioane de tone de PVC în Europa. Profilele de ferestre reprezintă una din sursele principale de material recuperat.
-
-Prin contrast, aluminiul reciclat consumă aproximativ 5% din energia necesară producerii aluminiului primar — dar procesul de reciclare produce emisii de CO₂ semnificative, iar separarea aliajelor diferite rămâne o provocare industrială. Lemnul, alternativa „naturală" invocată frecvent, are o rată de reciclare în construcții mult mai mică și necesită tratamente chimice (vopsele, lacuri, impregnări) care ridică propriile probleme de mediu.
-
-## Ce înseamnă concret pentru locuința ta
-
-Dacă ai ferestre Salamander BluEvolution 92 montate în 2026, ești proprietarul unui produs care:
-
-- Nu conține plumb, cadmiu, mercur sau compuși organostanici
-- Are emisii în aer interior de zero compuși volatili (VOC) la temperaturi normale
-- Este certificat conform EN 12608 (profile PVC pentru ferestre), EN 14351-1 (ferestre și uși) și are declarație de performanță în conformitate cu Regulamentul Produselor de Construcție (CPR) 305/2011
-- Are o durată de viață garantată de minimum 40 de ani fără modificarea proprietăților mecanice sau cromatice
-- Va putea fi 100% reciclat la sfârșitul duratei de viață, materialul recuperat reintegrând ciclul de producție
-
-Mitul PVC-ului toxic a jucat un rol util în presiunea exercitată asupra industriei pentru eliminarea compușilor cu adevărat problematici. Dar acea presiune a funcționat. Industria a răspuns cu date și cu modificări reale de formulă. Mitul a supraviețuit transformărilor pe care le-a determinat — ceea ce îl face astăzi nu o avertizare utilă, ci o prejudecată fără suport tehnic.
-
-Alegerea tipului de tâmplărie — PVC, aluminiu sau lemn — este legitimă pe baza criteriilor reale: performanță termică, estetică, cost, durabilitate. Toxicitatea PVC-ului modern nu mai este un criteriu relevant din 2015.`,
-      en: `## Where the myth comes from — a documented history
-
-The PVC toxicity myth did not emerge from nowhere. It has real roots in the history of the chemical industry, but became frozen in the era when the problems were genuine, ignoring 40 years of technical progress.
-
-In the 1940s–1970s, industrial PVC was stabilised with lead and cadmium compounds — heavy metals with proven toxicity. These substances were used to prevent thermal degradation of the polymer during processing. Medical research in the 1970s and 1980s identified real risks: workers in PVC factories exposed to high temperatures without protective equipment showed elevated blood-lead concentrations.
-
-Environmental organisations in Western Europe — particularly in Germany, Austria and the Netherlands — ran sustained campaigns against PVC throughout the 1980s and 1990s, based on data that was accurate for that period but predated the chemical modernisations that were already underway. The campaign was mediatively effective but created an image that no longer corresponded to the product then being manufactured.
-
-The problem is that the myth outlived the chemistry that generated it.
-
-## The actual chemical composition of modern PVC
-
-PVC — polyvinyl chloride — is a synthetic polymer produced by polymerising vinyl chloride monomer (VCM). The composition of a modern PVC window profile includes:
-
-- **PVC resin:** ~60-65% by mass. Chemically inert polymer under normal use conditions, with no emissions below 60°C.
-- **Stabilisers:** Until 2015, lead-based stabilisers were the European industry standard. The complete transition to calcium-zinc (Ca-Zn) stabilisers was completed through the voluntary Stabiliser 2015 programme, coordinated by ECVM. Salamander profiles have used exclusively Ca-Zn stabilisers since 2008.
-- **Impact modifiers:** Acrylic compounds improving shock resistance — non-toxic.
-- **Internal and external lubricants:** Fatty acid esters or low molecular weight polyethylenes — biochemically inert.
-- **Pigments:** Titanium dioxide (TiO₂) for white, or inorganic pigments for colours. TiO₂ is classified as safe by EFSA for applications involving contact with habitable surfaces.
-- **Fillers:** Calcium carbonate (CaCO₃) — the same material as eggshells and limestone.
-
-**What modern PVC profiles no longer contain:** lead, cadmium, mercury or organotin compounds — all prohibited under REACH Regulation (EC) No 1907/2006.
-
-## Behaviour at extreme temperatures — measurable data
-
-One of the most frequently invoked arguments against PVC is its behaviour at elevated temperatures. Here is the separation of fiction from measurable data:
-
-**At normal use temperatures (−40°C to +60°C):** PVC for windows is completely chemically stable. No detectable volatile substances are emitted. Salamander profiles are tested to EN 12608 for resistance to repeated thermal cycling across this range, without deformation or emissions.
-
-**At elevated temperatures (60°C–140°C):** The PVC profile begins to soften progressively. This is not combustion but a reversible phase transition. No toxic substances are emitted in significant quantities below the ignition point.
-
-**At ignition point (>270°C):** PVC ignites less readily than wood (dry wood ignition point: ~220-260°C; PVC: >270°C). Once ignited, it produces combustion gases including hydrogen chloride (HCl) — this is the basis of legitimate concern in fire scenarios. However, HCl concentrations produced by window PVC in a residential fire are significantly lower than those produced by other common materials (synthetic carpet, melamine-coated chipboard furniture, electrical cables). According to the COWI study for the European Commission (2001), PVC's contribution to fire gas toxicity at residential scale is estimated below 5% of total toxic emissions.
-
-**At extreme cold (below −20°C):** Plasticised PVC profiles can become brittle — but window profiles are **unplasticised** (rigid PVC or PVC-U). Salamander BluEvolution 92 is tested to EN 12608 at −20°C with no change to mechanical properties.
-
-## Why 1970s and modern PVC windows are fundamentally different products
-
-Temporal confusion is the primary mechanism sustaining the myth. Here is the relevant modernisation timeline:
-
-**1985–1995:** The European PVC industry voluntarily adopts the ECVM programme to reduce lead and cadmium compounds. The first Ca-Zn stabilisers appear in commercial production.
-
-**1994:** Germany bans cadmium stabilisers in PVC through the Chemikalienverbotsverordnung. The rest of the EU follows within two years.
-
-**2001:** The voluntary ECVM/ESPA commitment to completely eliminate lead from PVC stabilisers by 2015 — exceeded in practice by 5–7 years ahead of schedule.
-
-**2006:** REACH Regulation enters into force, officially classifying lead, cadmium and organotin compounds as Substances of Very High Concern (SVHC) and restricting their use in consumer products.
-
-**2008:** Salamander completes the full transition to Ca-Zn stabilisers across all profile ranges.
-
-**2015:** The European window PVC profile industry operates 100% without lead stabilisers. Confirmed through independent VinylPlus audit.
-
-**2026:** The EU Ecodesign Directive mandates minimum recycled content percentages in new profile production.
-
-## Recyclability: the argument that anti-PVC campaigns ignore
-
-One of the technical ironies of the debate is that PVC is one of the most recyclable construction materials. A PVC profile can be reprocessed up to 8 times without significant degradation of mechanical properties. The European industry recycles over 800,000 tonnes of PVC annually, a significant portion of which comes from old window profiles.
-
-VinylPlus — the sustainability programme of the European PVC industry — has published independently verified data: between 2000 and 2023, 7.7 million tonnes of PVC were recycled across Europe.
-
-## What this means concretely for your home
-
-If you have Salamander BluEvolution 92 windows installed in 2026, you own a product that contains no lead, cadmium, mercury or organotin compounds; emits zero volatile organic compounds (VOC) at normal temperatures; is certified to EN 12608, EN 14351-1 and bears a Declaration of Performance under CPR 305/2011; carries a manufacturer guarantee of minimum 40 years without change to mechanical or chromatic properties; and will be 100% recyclable at end of life.
-
-The PVC toxicity myth played a useful role in pressuring the industry to eliminate genuinely problematic compounds. That pressure worked. The industry responded with data and real formulation changes. The myth survived the transformations it triggered — making it today not a useful warning, but a technically unsupported prejudice. The choice of window material — PVC, aluminium or timber — is legitimate based on real criteria: thermal performance, aesthetics, cost, durability. The toxicity of modern PVC has not been a relevant criterion since 2015.`,
-      de: `## Woher kommt der Mythos — eine dokumentierte Geschichte
-
-Der Mythos der PVC-Giftigkeit entstand nicht aus dem Nichts. Er hat reale Wurzeln in der Geschichte der chemischen Industrie, blieb aber in der Ära eingefroren, als die Probleme noch real waren — und ignoriert 40 Jahre technischen Fortschritt.
-
-In den 1940er bis 1970er Jahren wurde industrielles PVC mit Blei- und Cadmiumverbindungen stabilisiert — Schwermetalle mit nachgewiesener Toxizität. Diese Substanzen verhinderten den thermischen Abbau des Polymers bei der Verarbeitung. Medizinische Forschungen der 1970er und 1980er Jahre identifizierten reale Risiken: Arbeiter in PVC-Fabriken, die ohne Schutzausrüstung hohen Temperaturen ausgesetzt waren, wiesen erhöhte Blutbleispiegel auf.
-
-Umweltorganisationen in Westeuropa — insbesondere in Deutschland, Österreich und den Niederlanden — führten in den 1980er und 1990er Jahren nachhaltige Kampagnen gegen PVC, die auf zeitgemäßen, aber bereits veraltenden Daten basierten. Die Kampagne war medienwirksam, schuf aber ein Bild, das dem bereits in Produktion befindlichen Produkt nicht mehr entsprach. Das Problem: Der Mythos überlebte die Chemie, die ihn erzeugt hatte.
-
-## Die tatsächliche chemische Zusammensetzung von modernem PVC
-
-PVC — Polyvinylchlorid — ist ein synthetisches Polymer aus der Polymerisation von Vinylchloridmonomer (VCM). Die Zusammensetzung eines modernen PVC-Fensterprofils umfasst:
-
-- **PVC-Harz:** ~60-65% der Masse. Chemisch inertes Polymer unter normalen Nutzungsbedingungen, keine Emissionen unter 60°C.
-- **Stabilisatoren:** Bis 2015 waren bleibasierte Stabilisatoren der europäische Industriestandard. Die vollständige Umstellung auf Calcium-Zink-Stabilisatoren (Ca-Zn) wurde durch das freiwillige Stabiliser-2015-Programm des ECVM abgeschlossen. Salamander setzt ausschließlich Ca-Zn-Stabilisatoren seit 2008 ein.
-- **Schlagzähigkeitsmodifikatoren:** Acrylverbindungen — nicht toxisch.
-- **Interne und externe Gleitmittel:** Fettsäureester oder niedermolekulare Polyethylene — biochemisch inert.
-- **Pigmente:** Titandioxid (TiO₂) für Weiß, anorganische Pigmente für Farben. TiO₂ gilt laut EFSA als sicher.
-- **Füllstoffe:** Calciumcarbonat (CaCO₃) — identisch mit dem Material in Eierschalen und Kalkstein.
-
-**Was moderne PVC-Profile nicht mehr enthalten:** Blei, Cadmium, Quecksilber und Organozinnverbindungen — alle verboten durch die REACH-Verordnung (EG) Nr. 1907/2006.
-
-## Verhalten bei Extremtemperaturen — messbare Daten
-
-**Bei normalen Nutzungstemperaturen (−40°C bis +60°C):** PVC für Fenster ist vollständig chemisch stabil. Keine detektierbaren flüchtigen Substanzen. Salamander-Profile werden nach EN 12608 auf Widerstand gegen wiederholte Temperaturzyklen getestet.
-
-**Bei erhöhten Temperaturen (60°C–140°C):** Das PVC-Profil beginnt sich progressiv zu erweichen — kein Verbrennen, sondern ein reversibler Phasenübergang. Unterhalb des Zündpunkts werden keine toxischen Substanzen in signifikanten Mengen freigesetzt.
-
-**Am Zündpunkt (>270°C):** PVC entzündet sich schwerer als Holz (Zündpunkt von trockenem Holz: ~220-260°C; PVC: >270°C). Einmal entzündet, entstehen Verbrennungsgase einschließlich Chlorwasserstoff (HCl). Laut der COWI-Studie für die Europäische Kommission (2001) liegt der Beitrag von PVC zur Brandgastoxizität im Wohnbereich unter 5% der Gesamtemissionen.
-
-**Bei extremer Kälte (unter −20°C):** Weich-PVC-Profile können spröde werden — Fensterprofile sind jedoch aus **Hartpolyvinylchlorid** (PVC-U). Salamander BluEvolution 92 wird nach EN 12608 bei −20°C ohne Veränderung der mechanischen Eigenschaften getestet.
-
-## Warum Fenster aus den 1970ern und heute grundlegend verschiedene Produkte sind
-
-**1985–1995:** Die europäische PVC-Industrie übernimmt freiwillig das ECVM-Programm zur Reduzierung von Blei- und Cadmiumverbindungen.
-
-**1994:** Deutschland verbietet Cadmium-Stabilisatoren in PVC. Die restliche EU folgt innerhalb von zwei Jahren.
-
-**2001:** Freiwillige ECVM/ESPA-Selbstverpflichtung zur vollständigen Eliminierung von Blei bis 2015 — in der Praxis 5–7 Jahre früher erreicht.
-
-**2006:** REACH-Verordnung klassifiziert Blei, Cadmium und Organozinnverbindungen als besonders besorgniserregende Substanzen (SVHC).
-
-**2008:** Salamander schließt die vollständige Umstellung auf Ca-Zn-Stabilisatoren in allen Profilreihen ab.
-
-**2015:** Die europäische Fenster-PVC-Profilbranche arbeitet zu 100% ohne Bleistabilisatoren. Bestätigt durch unabhängiges VinylPlus-Audit.
-
-## Recyclingfähigkeit: das Argument, das Anti-PVC-Kampagnen ignorieren
-
-PVC ist eines der am besten recycelbaren Baumaterialien überhaupt. Ein PVC-Profil kann bis zu 8 Mal wiederverarbeitet werden, ohne signifikante Verschlechterung der mechanischen Eigenschaften. Die europäische Industrie recycelt jährlich über 800.000 Tonnen PVC. VinylPlus-Daten belegen: Zwischen 2000 und 2023 wurden 7,7 Millionen Tonnen PVC in Europa recycelt.
-
-## Was das konkret für Ihr Zuhause bedeutet
-
-Wenn Sie 2026 Salamander BluEvolution 92-Fenster eingebaut haben, besitzen Sie ein Produkt ohne Blei, Cadmium, Quecksilber oder Organozinnverbindungen; mit null VOC-Emissionen bei Normaltemperaturen; zertifiziert nach EN 12608 und EN 14351-1 mit Leistungserklärung gemäß BauPVO 305/2011; mit Herstellergarantie von mindestens 40 Jahren; und zu 100% recycelbar am Lebensende. Die Wahl des Fenstermaterials — PVC, Aluminium oder Holz — ist legitim auf Basis realer Kriterien. Die Toxizität von modernem PVC ist seit 2015 kein relevantes Kriterium mehr.`,
-      fr: `## D'où vient le mythe — une histoire documentée
-
-Le mythe de la toxicité du PVC n'est pas apparu de nulle part. Il a de vraies racines dans l'histoire de l'industrie chimique, mais est resté figé à l'époque où les problèmes étaient réels — ignorant 40 ans de progrès technique.
-
-Dans les années 1940–1970, le PVC industriel était stabilisé avec des composés de plomb et de cadmium — des métaux lourds à la toxicité prouvée. Ces substances prévenaient la dégradation thermique du polymère lors de la transformation. Les recherches médicales des années 1970–1980 ont identifié des risques réels : les travailleurs des usines PVC exposés à des températures élevées sans équipement de protection présentaient des concentrations élevées de plomb dans le sang.
-
-Des organisations environnementales d'Europe de l'Ouest — notamment en Allemagne, Autriche et Pays-Bas — ont mené des campagnes soutenues contre le PVC dans les années 1980–1990, basées sur des données exactes pour cette période mais antérieures aux modernisations chimiques déjà en cours. Le problème : le mythe a survécu à la chimie qui l'avait engendré.
-
-## La composition chimique réelle du PVC moderne
-
-Le PVC — polychlorure de vinyle — est un polymère synthétique obtenu par polymérisation du chlorure de vinyle (VCM). La composition d'un profilé PVC moderne pour fenêtres comprend :
-
-- **Résine PVC :** ~60-65% de la masse. Polymère chimiquement inerte dans des conditions normales d'utilisation, sans émissions en dessous de 60°C.
-- **Stabilisants :** Jusqu'en 2015, les stabilisants à base de plomb étaient la norme industrielle européenne. La transition complète vers des stabilisants calcium-zinc (Ca-Zn) a été finalisée via le programme volontaire Stabiliser 2015 coordonné par l'ECVM. Salamander utilise exclusivement des stabilisants Ca-Zn depuis 2008.
-- **Modificateurs d'impact :** Composés acryliques — non toxiques.
-- **Lubrifiants internes et externes :** Esters d'acides gras ou polyéthylènes de faible masse moléculaire — biochimiquement inertes.
-- **Pigments :** Dioxyde de titane (TiO₂) pour le blanc, pigments inorganiques pour les couleurs. Le TiO₂ est classifié sûr par l'EFSA.
-- **Charges :** Carbonate de calcium (CaCO₃) — identique à la matière des coquilles d'œufs et du calcaire.
-
-**Ce que les profilés PVC modernes ne contiennent plus :** plomb, cadmium, mercure et composés organo-étain — tous interdits par le règlement REACH (CE) n° 1907/2006.
-
-## Comportement aux températures extrêmes — données mesurables
-
-**Aux températures normales d'utilisation (−40°C à +60°C) :** le PVC pour fenêtres est entièrement stable chimiquement. Aucune substance volatile détectable. Les profilés Salamander sont testés selon EN 12608 pour la résistance aux cycles thermiques répétés.
-
-**Au point d'inflammation (>270°C) :** Le PVC s'enflamme moins facilement que le bois (point d'inflammation du bois sec : ~220-260°C ; PVC : >270°C). Une fois enflammé, il produit des gaz dont du chlorure d'hydrogène (HCl). Selon l'étude COWI pour la Commission européenne (2001), la contribution du PVC à la toxicité des gaz d'incendie dans une habitation est estimée à moins de 5% des émissions totales.
-
-**Au grand froid (en dessous de −20°C) :** Les profilés pour fenêtres sont en **PVC rigide (PVC-U)**, non plastifié. Les profilés Salamander BluEvolution 92 sont testés selon EN 12608 à −20°C sans modification des propriétés mécaniques.
-
-## Chronologie des modernisations clés
-
-**1985–1995 :** L'industrie PVC européenne adopte volontairement le programme ECVM pour réduire les composés de plomb et de cadmium.
-
-**1994 :** L'Allemagne interdit les stabilisants au cadmium dans le PVC.
-
-**2001 :** Engagement volontaire ECVM/ESPA pour l'élimination complète du plomb d'ici 2015 — atteint en pratique 5 à 7 ans avant l'échéance.
-
-**2006 :** Le règlement REACH classe officiellement le plomb, le cadmium et les composés organo-étain comme substances extrêmement préoccupantes (SVHC).
-
-**2008 :** Salamander finalise la transition vers les stabilisants Ca-Zn dans toutes les gammes de profilés.
-
-**2015 :** L'industrie européenne des profilés PVC pour fenêtres fonctionne à 100% sans stabilisants au plomb. Confirmé par l'audit indépendant VinylPlus.
-
-## Recyclabilité : l'argument que les campagnes anti-PVC ignorent
-
-Le PVC est l'un des matériaux de construction les plus recyclables. Un profilé PVC peut être retraité jusqu'à 8 fois sans dégradation significative. L'industrie européenne recycle annuellement plus de 800 000 tonnes de PVC. Les données VinylPlus, vérifiées indépendamment, montrent que 7,7 millions de tonnes de PVC ont été recyclées en Europe entre 2000 et 2023.
-
-## Ce que cela signifie concrètement pour votre logement
-
-Avec des fenêtres Salamander BluEvolution 92 installées en 2026, vous possédez un produit sans plomb, cadmium, mercure ni composés organo-étain ; avec zéro émission de COV aux températures normales ; certifié selon EN 12608 et EN 14351-1 avec Déclaration de Performance selon le RPC 305/2011 ; garanti minimum 40 ans ; et recyclable à 100% en fin de vie.
-
-Le mythe du PVC toxique a joué un rôle utile en incitant l'industrie à éliminer des composés véritablement problématiques. Cette pression a fonctionné. L'industrie a répondu par des données et des modifications réelles de formulation. Le mythe a survécu aux transformations qu'il avait déclenchées — ce qui en fait aujourd'hui non pas une mise en garde utile, mais un préjugé sans fondement technique. Le choix du matériau de menuiserie — PVC, aluminium ou bois — est légitime selon des critères réels. La toxicité du PVC moderne n'est plus un critère pertinent depuis 2015.`,
-      es: `## De dónde viene el mito — historia documentada
-
-El mito de la toxicidad del PVC no surgió de la nada. Tiene raíces reales en la historia de la industria química, pero quedó congelado en la época en que los problemas eran genuinos — ignorando 40 años de progreso técnico.
-
-En los años 1940–1970, el PVC industrial se estabilizaba con compuestos de plomo y cadmio — metales pesados con toxicidad probada. Estas sustancias prevenían la degradación térmica del polímero durante el procesamiento. Las investigaciones médicas de los años 70 y 80 identificaron riesgos reales: los trabajadores de fábricas de PVC expuestos a altas temperaturas sin equipos de protección presentaban concentraciones elevadas de plomo en sangre.
-
-Organizaciones medioambientales de Europa Occidental — especialmente en Alemania, Austria y los Países Bajos — llevaron a cabo campañas sostenidas contra el PVC en los años 80 y 90, basadas en datos exactos para ese período pero anteriores a las modernizaciones químicas ya en marcha. El problema: el mito sobrevivió a la química que lo generó.
-
-## La composición química real del PVC moderno
-
-El PVC — policloruro de vinilo — es un polímero sintético obtenido por polimerización del monómero cloruro de vinilo (VCM). La composición de un perfil PVC moderno para ventanas incluye:
-
-- **Resina PVC:** ~60-65% en masa. Polímero químicamente inerte bajo condiciones normales de uso, sin emisiones por debajo de 60°C.
-- **Estabilizadores:** Hasta 2015, los estabilizadores a base de plomo eran el estándar industrial europeo. La transición completa hacia estabilizadores calcio-zinc (Ca-Zn) se completó mediante el programa voluntario Stabiliser 2015 del ECVM. Salamander usa exclusivamente estabilizadores Ca-Zn desde 2008.
-- **Modificadores de impacto:** Compuestos acrílicos — no tóxicos.
-- **Lubricantes internos y externos:** Ésteres de ácidos grasos o polietilenos de bajo peso molecular — bioquímicamente inertes.
-- **Pigmentos:** Dióxido de titanio (TiO₂) para el blanco, pigmentos inorgánicos para colores. La EFSA clasifica el TiO₂ como seguro.
-- **Cargas:** Carbonato de calcio (CaCO₃) — idéntico al material de las cáscaras de huevo y la piedra caliza.
-
-**Lo que los perfiles PVC modernos ya no contienen:** plomo, cadmio, mercurio y compuestos de organostaño — todos prohibidos por el Reglamento REACH (CE) n.º 1907/2006.
-
-## Comportamiento a temperaturas extremas — datos medibles
-
-**A temperaturas normales de uso (−40°C a +60°C):** El PVC para ventanas es completamente estable químicamente. No se detectan sustancias volátiles. Los perfiles Salamander se someten a pruebas según EN 12608 para resistencia a ciclos térmicos repetidos.
-
-**En el punto de ignición (>270°C):** El PVC se inflama con mayor dificultad que la madera (punto de ignición de la madera seca: ~220-260°C; PVC: >270°C). Una vez encendido, produce gases de combustión que incluyen ácido clorhídrico (HCl). Según el estudio COWI para la Comisión Europea (2001), la contribución del PVC a la toxicidad de los gases de incendio en el nivel residencial se estima por debajo del 5% de las emisiones totales.
-
-**Al frío extremo (por debajo de −20°C):** Los perfiles para ventanas son de **PVC rígido (PVC-U)**, no plastificado. Los perfiles Salamander BluEvolution 92 se prueban según EN 12608 a −20°C sin modificación de propiedades mecánicas.
-
-## Cronología de las modernizaciones clave
-
-**1985–1995:** La industria europea del PVC adopta voluntariamente el programa ECVM para reducir los compuestos de plomo y cadmio.
-
-**1994:** Alemania prohíbe los estabilizadores de cadmio en PVC.
-
-**2001:** Compromiso voluntario ECVM/ESPA para eliminar completamente el plomo antes de 2015 — alcanzado en la práctica con 5 a 7 años de anticipación.
-
-**2006:** El Reglamento REACH clasifica el plomo, el cadmio y los compuestos de organostaño como Sustancias de Muy Alta Preocupación (SVHC).
-
-**2008:** Salamander completa la transición a estabilizadores Ca-Zn en todas las gamas de perfiles.
-
-**2015:** La industria europea de perfiles PVC para ventanas opera al 100% sin estabilizadores de plomo. Confirmado por auditoría independiente de VinylPlus.
-
-## Reciclabilidad: el argumento que las campañas anti-PVC ignoran
-
-El PVC es uno de los materiales de construcción más reciclables. Un perfil PVC puede reprocesarse hasta 8 veces sin degradación significativa de sus propiedades mecánicas. La industria europea recicla más de 800.000 toneladas de PVC anualmente. Los datos de VinylPlus, verificados independientemente, muestran que entre 2000 y 2023 se reciclaron 7,7 millones de toneladas de PVC en Europa.
-
-## Lo que esto significa concretamente para su vivienda
-
-Con ventanas Salamander BluEvolution 92 instaladas en 2026, usted posee un producto sin plomo, cadmio, mercurio ni compuestos de organostaño; con cero emisiones de COV a temperaturas normales; certificado según EN 12608 y EN 14351-1 con Declaración de Prestaciones conforme al RPC 305/2011; con garantía mínima de 40 años; y 100% reciclable al final de su vida útil.
-
-El mito del PVC tóxico jugó un papel útil al presionar a la industria para eliminar compuestos genuinamente problemáticos. Esa presión funcionó. La industria respondió con datos y cambios reales en la formulación. El mito sobrevivió a las transformaciones que desencadenó — lo que lo convierte hoy no en una advertencia útil, sino en un prejuicio sin respaldo técnico. La elección del material de carpintería — PVC, aluminio o madera — es legítima basándose en criterios reales. La toxicidad del PVC moderno ya no es un criterio relevante desde 2015.`,
-      it: `## Da dove viene il mito — storia documentata
-
-Il mito della tossicità del PVC non è emerso dal nulla. Ha radici reali nella storia dell'industria chimica, ma è rimasto congelato nell'era in cui i problemi erano genuini — ignorando 40 anni di progresso tecnico.
-
-Negli anni 1940–1970, il PVC industriale veniva stabilizzato con composti di piombo e cadmio — metalli pesanti con tossicità provata. Queste sostanze prevenivano la degradazione termica del polimero durante la lavorazione. Le ricerche mediche degli anni '70 e '80 identificarono rischi reali: i lavoratori delle fabbriche di PVC esposti ad alte temperature senza dispositivi di protezione presentavano concentrazioni elevate di piombo nel sangue.
-
-Organizzazioni ambientali dell'Europa Occidentale — in particolare in Germania, Austria e Paesi Bassi — condussero campagne sostenute contro il PVC negli anni '80 e '90, basate su dati accurati per quell'epoca ma anteriori alle modernizzazioni chimiche già in corso. Il problema: il mito è sopravvissuto alla chimica che lo aveva generato.
-
-## La reale composizione chimica del PVC moderno
-
-Il PVC — cloruro di polivinile — è un polimero sintetico ottenuto dalla polimerizzazione del monomero cloruro di vinile (VCM). La composizione di un moderno profilo PVC per finestre comprende:
-
-- **Resina PVC:** ~60-65% della massa. Polimero chimicamente inerte in condizioni normali di utilizzo, senza emissioni al di sotto di 60°C.
-- **Stabilizzatori:** Fino al 2015, gli stabilizzatori a base di piombo erano lo standard industriale europeo. La transizione completa verso stabilizzatori calcio-zinco (Ca-Zn) è stata completata attraverso il programma volontario Stabiliser 2015 coordinato dall'ECVM. Salamander utilizza esclusivamente stabilizzatori Ca-Zn dal 2008.
-- **Modificatori d'impatto:** Composti acrilici — non tossici.
-- **Lubrificanti interni ed esterni:** Esteri di acidi grassi o polietileni a basso peso molecolare — biochimicamente inerti.
-- **Pigmenti:** Biossido di titanio (TiO₂) per il bianco, pigmenti inorganici per i colori. Il TiO₂ è classificato sicuro dall'EFSA.
-- **Cariche:** Carbonato di calcio (CaCO₃) — identico al materiale dei gusci d'uovo e del calcare.
-
-**Ciò che i moderni profili PVC non contengono più:** piombo, cadmio, mercurio e composti organostannici — tutti vietati dal Regolamento REACH (CE) n. 1907/2006.
-
-## Comportamento a temperature estreme — dati misurabili
-
-**A temperature normali di utilizzo (−40°C a +60°C):** Il PVC per finestre è completamente chimicamente stabile. Nessuna sostanza volatile rilevabile. I profili Salamander sono testati secondo EN 12608 per la resistenza ai cicli termici ripetuti.
-
-**Al punto di infiammabilità (>270°C):** Il PVC si infiamma meno facilmente del legno (punto di infiammabilità del legno secco: ~220-260°C; PVC: >270°C). Una volta infiammato, produce gas di combustione tra cui acido cloridrico (HCl). Secondo lo studio COWI per la Commissione Europea (2001), il contributo del PVC alla tossicità dei gas d'incendio a livello residenziale è stimato al di sotto del 5% delle emissioni totali.
-
-**Al freddo estremo (sotto −20°C):** I profili per finestre sono in **PVC rigido (PVC-U)**, non plastificato. I profili Salamander BluEvolution 92 sono testati secondo EN 12608 a −20°C senza modifiche alle proprietà meccaniche.
-
-## Cronologia delle modernizzazioni chiave
-
-**1985–1995:** L'industria europea del PVC adotta volontariamente il programma ECVM per ridurre i composti di piombo e cadmio.
-
-**1994:** La Germania vieta gli stabilizzatori al cadmio nel PVC.
-
-**2001:** Impegno volontario ECVM/ESPA per l'eliminazione completa del piombo entro il 2015 — raggiunto in pratica con 5–7 anni di anticipo.
-
-**2006:** Il Regolamento REACH classifica ufficialmente piombo, cadmio e composti organostannici come Sostanze Estremamente Preoccupanti (SVHC).
-
-**2008:** Salamander completa la transizione agli stabilizzatori Ca-Zn in tutte le gamme di profili.
-
-**2015:** L'industria europea dei profili PVC per finestre opera al 100% senza stabilizzatori al piombo. Confermato dall'audit indipendente VinylPlus.
-
-## Riciclabilità: l'argomento che le campagne anti-PVC ignorano
-
-Il PVC è uno dei materiali da costruzione più riciclabili. Un profilo PVC può essere rilavorato fino a 8 volte senza significativa degradazione delle proprietà meccaniche. L'industria europea ricicla annualmente oltre 800.000 tonnellate di PVC. I dati VinylPlus, verificati in modo indipendente, mostrano che tra il 2000 e il 2023 sono state riciclate 7,7 milioni di tonnellate di PVC in Europa.
-
-## Cosa significa concretamente per la tua abitazione
-
-Con finestre Salamander BluEvolution 92 installate nel 2026, possiedi un prodotto privo di piombo, cadmio, mercurio e composti organostannici; con zero emissioni di COV a temperature normali; certificato secondo EN 12608 e EN 14351-1 con Dichiarazione di Prestazione ai sensi del RPC 305/2011; con garanzia minima di 40 anni; e 100% riciclabile a fine vita.
-
-Il mito del PVC tossico ha svolto un ruolo utile nel fare pressione sull'industria affinché eliminasse composti genuinamente problematici. Quella pressione ha funzionato. L'industria ha risposto con dati e veri cambiamenti di formulazione. Il mito è sopravvissuto alle trasformazioni che aveva innescato — rendendolo oggi non un avvertimento utile, ma un pregiudizio privo di fondamento tecnico. La scelta del materiale per i serramenti — PVC, alluminio o legno — è legittima sulla base di criteri reali. La tossicità del PVC moderno non è più un criterio rilevante dal 2015.`,
-    },
-  },
-
 ];
 
 
