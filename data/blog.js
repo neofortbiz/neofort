@@ -326,7 +326,7 @@ Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sis
       de: 'Salamander-Fenstermontage in Bukarest — vollständige Schritte, vorkomprimierte Bänder, Blaugelb-Vorblendrahmen, nZEB, häufige Fehler und wie man ein seriöses Montageunternehmen wählt 2026.',
       fr: "Installation de fenêtres Salamander à Bucarest — étapes complètes, bandes précomprimées, précadres Blaugelb, nZEB, erreurs fréquentes et comment choisir une entreprise de pose sérieuse en 2026.",
       es: 'Instalación de ventanas Salamander en Bucarest — pasos completos, bandas precomprimidas, premarcos Blaugelb, nZEB, errores frecuentes y cómo elegir una empresa de instalación seria en 2026.',
-      it: 'Installazione finestre Salamander a Bucarest — fasi complete, nastri precompressi, precornici Blaugelb, nZEB, errori comuni e come scegliere un'azienda di installazione seria nel 2026.',
+      it: `Installazione finestre Salamander a Bucarest — fasi complete, nastri precompressi, precornici Blaugelb, nZEB, errori comuni e come scegliere un'azienda di installazione seria nel 2026.`,
     },
     excerpt: {
       ro: 'Montajul corect al termopanelor Salamander în București înseamnă mult mai mult decât înlocuirea geamurilor. Ghid complet: benzi precomprimate, precadre Blaugelb nZEB, etapele montajului profesional și greșelile care costă.',
