@@ -616,7 +616,7 @@ Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team propri cert
       de: 'Was kosten Salamander-Fenster in Bukarest 2026? Reale Preise für greenEvolution 76, bluEvolution 82 und bluEvolution 92 — mit und ohne Montage, Preiseinflussfaktoren und Leitfaden zur Angebotsinterpretation.',
       fr: "Combien coûtent les fenêtres Salamander à Bucarest en 2026 ? Prix réels pour greenEvolution 76, bluEvolution 82 et bluEvolution 92 — avec et sans pose, facteurs influençant le prix et guide d'interprétation des devis.",
       es: '¿Cuánto cuestan las ventanas Salamander en Bucarest en 2026? Precios reales para greenEvolution 76, bluEvolution 82 y bluEvolution 92 — con y sin instalación, factores que influyen en el precio y guía para interpretar presupuestos.',
-      it: 'Quanto costano le finestre Salamander a Bucarest nel 2026? Prezzi reali per greenEvolution 76, bluEvolution 82 e bluEvolution 92 — con e senza installazione, fattori che influenzano il prezzo e guida all'interpretazione dei preventivi.',
+      it: `Quanto costano le finestre Salamander a Bucarest nel 2026? Prezzi reali per greenEvolution 76, bluEvolution 82 e bluEvolution 92 — con e senza installazione, fattori che influenzano il prezzo e guida all'interpretazione dei preventivi.`,
     },
     keywords: 'pret ferestre Salamander Bucuresti, termopane Salamander pret 2026, bluEvolution 82 pret, bluEvolution 92 pret, greenEvolution 76 pret, ferestre PVC Salamander pret, termopane Bucuresti pret, cat costa termopanele Salamander',
     dateDisplay: {
@@ -1954,7 +1954,7 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
       de: 'Vollständiger Leitfaden für die Montage von Blaugelb Triotherm+ Vorfenstern für nZEB. Warum notwendig, korrekte Montageschritte und Kosten.',
       fr: 'Guide complet pour la pose des précadres Blaugelb Triotherm+ pour le nZEB. Pourquoi obligatoires, étapes de pose correcte et coûts.',
       es: 'Guía completa para la instalación de premarcos Blaugelb Triotherm+ para nZEB. Por qué son obligatorios, pasos de instalación correcta y costes.',
-      it: 'Guida completa per l\'installazione di precontrotelaio Blaugelb Triotherm+ per nZEB. Perché obbligatori, passi di installazione corretta e costi.',
+      it: it: `Guida completa per l'installazione di precontrotelaio Blaugelb Triotherm+ per nZEB. Perché obbligatori, passi di installazione corretta e costi.`,
     },
     keywords: 'precadre Blaugelb Triotherm, montaj tamplarie nZEB, puntii termice ferestre, izolare perimetrala ferestre, banda precomprimata, montaj corect PVC',
     content: {
@@ -3982,7 +3982,7 @@ Comunichiamo fluentemente in **rumeno, inglese e tedesco**. Inviateci le fotogra
       de: 'Die 34 mm Polyamid-Wärmedämmung trennt physisch Innen- und Außenseite des Aluminiumprofils, eliminiert die Wärmebrücke und bringt Uw auf 0,95–1,3 W/m²K. Komplettleitfaden: welche Alumil Supreme- und Smartia-Systeme wir empfehlen, wie Sie zwischen 34 mm und 52 mm Trennung wählen und welche Preise Sie 2026 erwarten.',
       fr: 'La rupture thermique en polyamide 34 mm sépare physiquement l\'intérieur de l\'extérieur du profil aluminium, éliminant le pont thermique et ramenant le Uw à 0,95–1,3 W/m²K. Guide complet : quels systèmes Alumil Supreme et Smartia nous recommandons, comment choisir entre rupture 34 mm et 52 mm et quels prix attendre en 2026.',
       es: 'El rotura de puente térmico de poliamida 34 mm separa físicamente el interior del exterior del perfil de aluminio, eliminando el puente térmico y llevando el Uw a 0,95–1,3 W/m²K. Guía completa: qué sistemas Alumil Supreme y Smartia recomendamos, cómo elegir entre rotura 34 mm y 52 mm y qué precios esperar en 2026.',
-      it: 'Il taglio termico in poliammide 34 mm separa fisicamente l\'interno dall\'esterno del profilo in alluminio, eliminando il ponte termico e portando Uw a 0,95–1,3 W/m²K. Guida completa: quali sistemi Alumil Supreme e Smartia consigliamo, come scegliere tra taglio 34 mm e 52 mm e quali prezzi aspettarsi nel 2026.',
+      it: it: `Il taglio termico in poliammide 34 mm separa fisicamente l'interno dall'esterno del profilo in alluminio, eliminando il ponte termico e portando Uw a 0,95–1,3 W/m²K. Guida completa: quali sistemi Alumil Supreme e Smartia consigliamo, come scegliere tra taglio 34 mm e 52 mm e quali prezzi aspettarsi nel 2026.`,
     },
     metaDesc: {
       ro: 'Ghid complet 2026: tâmplărie aluminiu cu barieră termică — cum funcționează poliamida, sisteme Alumil Supreme SF85 și Smartia S67, diferența față de aluminiu fără barieră, prețuri și certificate nZEB.',
@@ -4500,7 +4500,7 @@ Inviaci le tue dimensioni e rispondiamo con preventivo completo in **48 ore**.
       de: 'Die Vorhangfassade ist eine selbsttragende Aluminium-Glas-Fassade ohne strukturelle Lasten. Es gibt 3 Haupttypen — Standard, halb-strukturell und strukturell — mit Preisen zwischen 160 und 500 €/m². Komplettleitfaden: wie Sie das richtige System wählen, welche Alumil-Systeme wir liefern und die Schritte von der Planung bis zur Montage.',
       fr: 'Le mur rideau est une façade autoportante en aluminium et verre sans charges structurales. Il existe 3 types principaux — standard, semi-structurel et structurel — avec des prix entre 160 et 500 €/m². Guide complet : comment choisir le bon système, quels systèmes Alumil nous fournissons et les étapes du projet au montage.',
       es: 'El muro cortina es una fachada autoportante de aluminio y vidrio sin cargas estructurales. Existen 3 tipos principales — estándar, semi-estructural y estructural — con precios entre 160 y 500 €/m². Guía completa: cómo elegir el sistema adecuado, qué sistemas Alumil suministramos y los pasos del proyecto al montaje.',
-      it: 'La parete cortina è una facciata autoportante in alluminio e vetro senza carichi strutturali. Esistono 3 tipi principali — standard, semi-strutturale e strutturale — con prezzi tra 160 e 500 €/m². Guida completa: come scegliere il sistema giusto, quali sistemi Alumil forniamo e i passi dal progetto all\'installazione.',
+      it: it: `La parete cortina è una facciata autoportante in alluminio e vetro senza carichi strutturali. Esistono 3 tipi principali — standard, semi-strutturale e strutturale — con prezzi tra 160 e 500 €/m². Guida completa: come scegliere il sistema giusto, quali sistemi Alumil forniamo e i passi dal progetto all'installazione.`,
     },
     metaDesc: {
       ro: 'Ghid complet 2026 pereți cortină: tipuri standard, semi-structural și structural, sisteme Alumil CW50 și CW60, prețuri 800–2.500 lei/m², etape proiect, montaj și certificare energetică.',
@@ -5016,7 +5016,7 @@ Profili visibili **solo in una direzione**, gli altri lati incollati con silicon
       de: 'Zipscreen ist das einzige textile Außenbeschattungssystem, bei dem das Gewebe windbeständig gespannt bleibt — dank dem Aluminium-ZIP-Reißverschluss. Komplettleitfaden: Unterschied zwischen Blackout und Screen, Vergleich mit klassischen Rollläden und Raffstore-Jalousien, Preise und geeignete Situationen.',
       fr: 'Zipscreen est le seul système d\'occultation textile extérieur où le tissu reste parfaitement tendu par vent — grâce à la fermeture ZIP en aluminium. Guide complet : différence entre blackout et screen, comparaison avec volets roulants classiques et stores Raffstore, prix et situations appropriées.',
       es: 'Zipscreen es el único sistema de sombreado textil exterior donde el tejido permanece perfectamente tensado con viento — gracias al cierre ZIP de aluminio. Guía completa: diferencia entre blackout y screen, comparación con persianas enrollables clásicas y Raffstore, precios y situaciones adecuadas.',
-      it: 'Zipscreen è l\'unico sistema di oscuramento tessile esterno dove il tessuto rimane perfettamente teso con il vento — grazie alla chiusura ZIP in alluminio. Guida completa: differenza tra blackout e screen, confronto con tapparelle classiche e veneziane Raffstore, prezzi e situazioni appropriate.',
+      it: it: `Zipscreen è l'unico sistema di oscuramento tessile esterno dove il tessuto rimane perfettamente teso con il vento — grazie alla chiusura ZIP in alluminio. Guida completa: differenza tra blackout e screen, confronto con tapparelle classiche e veneziane Raffstore, prezzi e situazioni appropriate.`,
     },
     metaDesc: {
       ro: 'Ghid complet Zipscreen 2026: ce este, blackout vs screen, comparație cu rulouri exterioare aluminiu și Raffstore, prețuri 225–450 EUR/mp, montaj terase și pergole București.',
@@ -5024,7 +5024,7 @@ Profili visibili **solo in una direzione**, gli altri lati incollati con silicon
       de: 'Zipscreen Komplettleitfaden 2026: Was ist es, Blackout vs Screen, Vergleich mit Aluminiumrollläden und Raffstore, Preise 225–450 EUR/m², Montage für Terrassen und Pergolen.',
       fr: 'Guide complet Zipscreen 2026 : qu\'est-ce que c\'est, blackout vs screen, comparaison avec volets roulants aluminium et Raffstore, prix 225–450 EUR/m², installation terrasses et pergolas.',
       es: 'Guía completa Zipscreen 2026: qué es, blackout vs screen, comparación con persianas aluminio y Raffstore, precios 225–450 EUR/m², instalación terrazas y pérgolas.',
-      it: 'Guida completa Zipscreen 2026: cos\'è, blackout vs screen, confronto con tapparelle alluminio e Raffstore, prezzi 225–450 EUR/m², installazione terrazze e pergole.',
+      it: it: `Guida completa Zipscreen 2026: cos'è, blackout vs screen, confronto con tapparelle alluminio e Raffstore, prezzi 225–450 EUR/m², installazione terrazze e pergole.`,
     },
     keywords: 'zipscreen, zipscreen pret, zipscreen terasa, zipscreen blackout, zipscreen screen transparent, rulou textil exterior zip, umbrire terasa 2026, zipscreen vs rulouri exterioare, zipscreen vs raffstore, zipscreen somfy, zipscreen pergola, zipscreen balcon',
     content: {
@@ -13352,7 +13352,7 @@ I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistem
       de: 'Der Somfy Oximo io Motor ist 2026 die beste Wahl für die Automatisierung von Außenrollläden. Leise, selbstjustierend, TaHoma-kompatibel und 5 Jahre Garantie — ab 250 EUR montiert. Komplett mit RS100 io Solar, der kabellosen Option.',
       fr: 'Le moteur Somfy Oximo io est le meilleur choix pour l\'automatisation des volets roulants extérieurs en 2026. Silencieux, auto-ajustable, compatible TaHoma et garanti 5 ans — à partir de 250 EUR posé. Complet avec RS100 io solaire, l\'option sans câble.',
       es: 'El motor Somfy Oximo io es la mejor elección para automatizar persianas exteriores en 2026. Silencioso, autoajustable, compatible TaHoma y garantía de 5 años — desde 250 EUR instalado. Completo con RS100 io solar, la opción sin cables.',
-      it: 'Il motore Somfy Oximo io è la scelta migliore per automatizzare le tapparelle esterne nel 2026. Silenzioso, autoregolante, compatibile TaHoma e garanzia 5 anni — da 250 EUR installato. Completo con RS100 io solare, l\'opzione senza cavi.',
+      it: it: `Il motore Somfy Oximo io è la scelta migliore per automatizzare le tapparelle esterne nel 2026. Silenzioso, autoregolante, compatibile TaHoma e garanzia 5 anni — da 250 EUR installato. Completo con RS100 io solare, l'opzione senza cavi.`,
     },
     content: {
       ro: `## De ce Somfy pentru rulouri exterioare?
@@ -13688,7 +13688,7 @@ Motore Somfy pergola da **350 EUR installato**. Sensore Sunis io da 80 EUR.
       de: 'Somfy TaHoma Smart Home in Rumänien 2026 — Haussteuerung aus einer App: Rollläden, Pergolen, Tor, Alarm',
       fr: 'Somfy TaHoma Maison Connectée en Roumanie 2026 — contrôler sa maison depuis une seule application : volets, pergolas, portail, alarme',
       es: 'Somfy TaHoma Hogar Inteligente en Rumanía 2026 — controla tu casa desde una sola app: persianas, pérgolas, puerta, alarma',
-      it: 'Somfy TaHoma Casa Intelligente in Romania 2026 — controllo della casa da un\'unica app: tapparelle, pergole, cancello, allarme',
+      it: it: `Somfy TaHoma Casa Intelligente in Romania 2026 — controllo della casa da un'unica app: tapparelle, pergole, cancello, allarme`,
     },
     metaDesc: {
       ro: 'Ghid complet Somfy TaHoma Smart Home 2026: cum funcționează, ce poți controla, compatibilitate Alexa/Google/Apple, scenarii automate și prețuri în România. TaHoma Switch — de la 180 EUR.',
@@ -13704,7 +13704,7 @@ Motore Somfy pergola da **350 EUR installato**. Sensore Sunis io da 80 EUR.
       de: 'Somfys TaHoma Switch ist der Smart-Home-Hub, der die Steuerung aller motorisierten Geräte im Haus — Rollläden, Pergolen, Markisen, Tore, Garagentore — in einer einzigen App vereint, mit automatischen Szenarien und Kompatibilität mit Alexa, Google und Apple HomeKit.',
       fr: 'Le TaHoma Switch de Somfy est le hub maison connectée qui unifie le contrôle de tous les équipements motorisés de la maison — volets, pergolas, stores, portails, portes de garage — dans une seule application, avec des scénarios automatiques et la compatibilité Alexa, Google et Apple HomeKit.',
       es: 'El TaHoma Switch de Somfy es el hub de hogar inteligente que unifica el control de todos los equipos motorizados de la casa — persianas, pérgolas, toldos, puertas, puertas de garaje — en una sola app, con escenarios automáticos y compatibilidad Alexa, Google y Apple HomeKit.',
-      it: 'Il TaHoma Switch di Somfy è l\'hub per la casa intelligente che unifica il controllo di tutti i dispositivi motorizzati della casa — tapparelle, pergole, tende, cancelli, porte del garage — in un\'unica app, con scenari automatici e compatibilità Alexa, Google e Apple HomeKit.',
+      it: it: `Il TaHoma Switch di Somfy è l'hub per la casa intelligente che unifica il controllo di tutti i dispositivi motorizzati della casa — tapparelle, pergole, tende, cancelli, porte del garage — in un'unica app, con scenari automatici e compatibilità Alexa, Google e Apple HomeKit.`,
     },
     content: {
       ro: `## Ce este Somfy TaHoma?
