@@ -662,6 +662,22 @@ export const routing = defineRouting({
     es: '/blog/precios-ventanas-salamander-bucarest-2026',
     it: '/blog/prezzi-finestre-salamander-bucarest-2026',
   },
+  '/blog/unde-comand-termopane-izolatie-avansata-bucuresti': {
+    ro: '/blog/unde-comand-termopane-izolatie-avansata-bucuresti',
+    en: '/blog/where-to-order-advanced-insulation-windows-bucharest',
+    de: '/blog/wo-bestelle-ich-fenster-mit-erweiterter-daemmung-bukarest',
+    fr: '/blog/ou-commander-fenetres-isolation-avancee-bucarest',
+    es: '/blog/donde-pedir-ventanas-aislamiento-avanzado-bucarest',
+    it: '/blog/dove-ordinare-finestre-isolamento-avanzato-bucarest',
+  },
+  '/blog/optiuni-izolatie-perimetrala-ferestre-romania-2026': {
+    ro: '/blog/optiuni-izolatie-perimetrala-ferestre-romania-2026',
+    en: '/blog/perimeter-insulation-options-windows-romania-2026',
+    de: '/blog/perimeterdaemmung-optionen-fenster-rumaenien-2026',
+    fr: '/blog/options-isolation-perimetrale-fenetres-roumanie-2026',
+    es: '/blog/opciones-aislamiento-perimetral-ventanas-rumania-2026',
+    it: '/blog/opzioni-isolamento-perimetrale-finestre-romania-2026',
+  },
 
   // PILLAR PAGES
   }

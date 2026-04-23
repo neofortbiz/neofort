@@ -4,6 +4,559 @@
 
 export const ARTICLES = [
 
+  // ─── ARTICOL: Unde pot comanda termopane cu izolatie avansata Bucuresti ────
+  {
+    slugs: {
+      ro: 'unde-comand-termopane-izolatie-avansata-bucuresti',
+      en: 'where-to-order-advanced-insulation-windows-bucharest',
+      de: 'wo-bestelle-ich-fenster-mit-erweiterter-daemmung-bukarest',
+      fr: 'ou-commander-fenetres-isolation-avancee-bucarest',
+      es: 'donde-pedir-ventanas-aislamiento-avanzado-bucarest',
+      it: 'dove-ordinare-finestre-isolamento-avanzato-bucarest',
+    },
+    date: '2026-04-21',
+    author: 'Neofort BIZ',
+    accentColor: '#1a4a8a',
+    image: {
+      ro: '/blog/Unde_pot_comanda_termopane_cu_izolatie_avansata_in_Bucuresti.avif',
+      en: '/blog/Unde_pot_comanda_termopane_cu_izolatie_avansata_in_Bucuresti.avif',
+      de: '/blog/Unde_pot_comanda_termopane_cu_izolatie_avansata_in_Bucuresti.avif',
+      fr: '/blog/Unde_pot_comanda_termopane_cu_izolatie_avansata_in_Bucuresti.avif',
+      es: '/blog/Unde_pot_comanda_termopane_cu_izolatie_avansata_in_Bucuresti.avif',
+      it: '/blog/Unde_pot_comanda_termopane_cu_izolatie_avansata_in_Bucuresti.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a0e1a 0%,#0d1f3c 60%,#0a0e1a 100%)',
+    imageLabel: 'Termopane cu izolație avansată București — imagine termică',
+    readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
+    category: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
+    title: {
+      ro: 'Unde pot comanda termopane cu izolație avansată în București? Ghid complet 2026',
+      en: 'Where to Order Windows with Advanced Insulation in Bucharest? Complete Guide 2026',
+      de: 'Wo kann ich Fenster mit erweiterter Dämmung in Bukarest bestellen? Vollständiger Ratgeber 2026',
+      fr: 'Où commander des fenêtres à isolation avancée à Bucarest ? Guide complet 2026',
+      es: '¿Dónde pedir ventanas con aislamiento avanzado en Bucarest? Guía completa 2026',
+      it: 'Dove ordinare finestre con isolamento avanzato a Bucarest? Guida completa 2026',
+    },
+    metaDesc: {
+      ro: 'Termopane cu izolație avansată în București 2026 — geam triplu, Low-E, argon, profil 6-7 camere, montaj nZEB. Cum alegi, ce să ceri, unde să comanzi și ce diferențiază un furnizor serios.',
+      en: 'Windows with advanced insulation in Bucharest 2026 — triple glazing, Low-E, argon, 6-7 chamber profile, nZEB installation. How to choose, what to ask for, where to order and what makes a serious supplier.',
+      de: 'Fenster mit erweiterter Dämmung in Bukarest 2026 — Dreifachverglasung, Low-E, Argon, 6-7-Kammer-Profil, nZEB-Montage. Wie man wählt, was man verlangt, wo man bestellt und was einen seriösen Anbieter auszeichnet.',
+      fr: "Fenêtres à isolation avancée à Bucarest 2026 — triple vitrage, Low-E, argon, profil 6-7 chambres, pose nZEB. Comment choisir, que demander, où commander et ce qui distingue un fournisseur sérieux.",
+      es: 'Ventanas con aislamiento avanzado en Bucarest 2026 — triple acristalamiento, Low-E, argón, perfil de 6-7 cámaras, instalación nZEB. Cómo elegir, qué pedir, dónde comprar y qué diferencia a un proveedor serio.',
+      it: 'Finestre con isolamento avanzato a Bucarest 2026 — triplo vetro, Low-E, argon, profilo 6-7 camere, installazione nZEB. Come scegliere, cosa richiedere, dove ordinare e cosa distingue un fornitore serio.',
+    },
+    excerpt: {
+      ro: 'Cauți termopane cu izolație avansată în București? Ghid complet 2026: ce înseamnă cu adevărat izolație avansată, geam triplu vs dublu, profil 6-7 camere, montaj nZEB și cum găsești un furnizor serios în București și Ilfov.',
+      en: 'Looking for windows with advanced insulation in Bucharest? Complete guide 2026: what advanced insulation really means, triple vs double glazing, 6-7 chamber profile, nZEB installation and how to find a serious supplier in Bucharest and Ilfov.',
+      de: 'Suchen Sie Fenster mit erweiterter Dämmung in Bukarest? Vollständiger Ratgeber 2026: Was erweiterte Dämmung wirklich bedeutet, Dreifach- vs. Zweifachverglasung, 6-7-Kammer-Profil, nZEB-Montage und wie Sie einen seriösen Anbieter in Bukarest und Ilfov finden.',
+      fr: "Vous cherchez des fenêtres à isolation avancée à Bucarest ? Guide complet 2026 : ce que signifie réellement une isolation avancée, triple vs double vitrage, profil 6-7 chambres, pose nZEB et comment trouver un fournisseur sérieux à Bucarest et Ilfov.",
+      es: '¿Busca ventanas con aislamiento avanzado en Bucarest? Guía completa 2026: qué significa realmente el aislamiento avanzado, triple vs doble acristalamiento, perfil de 6-7 cámaras, instalación nZEB y cómo encontrar un proveedor serio en Bucarest e Ilfov.',
+      it: 'Cerchi finestre con isolamento avanzato a Bucarest? Guida completa 2026: cosa significa veramente isolamento avanzato, triplo vs doppio vetro, profilo 6-7 camere, installazione nZEB e come trovare un fornitore serio a Bucarest e Ilfov.',
+    },
+    keywords: 'termopane izolatie avansata Bucuresti, ferestre tripan Bucuresti, geam triplu argon Low-E, termopane nZEB Bucuresti, comanda termopane Ilfov, ferestre bluEvolution 92 Bucuresti, izolatie termica ferestre, montaj nZEB termopane',
+    dateDisplay: {
+      ro: '21 apr 2026', en: 'Apr 21 2026', de: '21. Apr. 2026',
+      fr: '21 avr. 2026', es: '21 abr 2026', it: '21 apr 2026',
+    },
+    content: {
+      ro: `## Ce înseamnă cu adevărat „izolație avansată" la termopane?
+
+Termenul „izolație avansată" este folosit de mulți furnizori din București fără o definiție clară. Din punct de vedere tehnic, un sistem de ferestre cu izolație avansată trebuie să îndeplinească simultan mai multe criterii:
+
+**Coeficient de transfer termic Uw ≤ 1,0 W/(m²K)** — pragul minim pentru standard nZEB în România. Un geam dublu standard are Uw = 1,3–1,6 W/(m²K), deci nu se califică.
+
+**Pachet de sticlă triplu (tripan)** cu două camere umplute cu gaz argon sau krypton și cel puțin un strat de sticlă Low-E (emisivitate redusă). Ug al pachetului trebuie să fie ≤ 0,6 W/(m²K).
+
+**Profil PVC cu minim 6 camere** (adâncime 82–92 mm) sau profil aluminiu cu rupere de punte termică de minim 34 mm, Clasa A (pereți exteriori ≥ 3 mm).
+
+**Distanțier Warm Edge** în interiorul pachetului de sticlă — elimină puntea termică la margine și previne condensul pe pervazul interior.
+
+**Montaj conform RAL/nZEB** — benzi precomprimate la exterior, barieră antivapori la interior, ancore metalice.
+
+Fără toate aceste elemente împreună, un producător nu poate vorbi legitim de „izolație avansată".
+
+## Ce tipuri de ferestre cu izolație avansată există în București?
+
+### 1. Tâmplărie PVC Salamander bluEvolution 92 — standardul de referință nZEB
+Profilul cu 6 camere și 92 mm adâncime, 3 garnituri EPDM, Uf = 0,9 W/(m²K). Echipat cu tripan 52 mm, argon, Low-E SGG și distanțier Warm Edge, obține Uw = 0,66–0,8 W/(m²K) — performanță de casă pasivă.
+
+### 2. Tâmplărie PVC Salamander bluEvolution 82 — echilibrul calitate-preț
+6 camere, 82 mm adâncime, 3 garnituri. Cu tripan 44 mm și Low-E atinge Uw = 0,8–0,95 W/(m²K). Varianta recomandată pentru case noi și renovări cu buget controlat.
+
+### 3. Tâmplărie aluminiu Alumil S77 Supreme — pentru proiecte arhitecturale
+Rupere de punte termică 34 mm, Uf = 1,3 W/(m²K) la profil — echipat cu tripan și Low-E atinge Uw = 1,0–1,2 W/(m²K). Ideal pentru fațade vitrate mari, birouri, comercial.
+
+## Ce trebuie să ceri obligatoriu la orice ofertă
+
+**Declarat în scris:**
+- Tipul exact de profil (producător, serie, număr camere, adâncime)
+- Ug-ul pachetului de sticlă (nu doar „tripan" sau „Low-E")
+- Tipul de distanțier (Warm Edge sau standard — diferență de 0,1–0,15 W/(m²K))
+- Tipul de gaz din camerele termoizolante (argon = standard, krypton = premium)
+- Feroneria (brand: Roto, Winkhaus, Maco — nu „feronerie de calitate")
+- Tipul de montaj inclus în preț (standard cu spumă sau nZEB cu benzi precomprimate)
+
+**Întreabă explicit:**
+- Este montajul cu benzi precomprimate Illbruck sau echivalent inclus?
+- Sunt precadrele Blaugelb Triotherm+ disponibile și la ce cost suplimentar?
+- Ce garanție oferiți separat pe produs și pe manoperă?
+
+## Semne că un furnizor este serios
+
+✅ Vine obligatoriu la **măsurători la fața locului** — nu acceptă comenzi pe baza măsurilor trimise de client\
+✅ Oferă **contract scris** cu specificațiile tehnice complete\
+✅ Folosește **benzi precomprimate** (nu spumă poliuretanică standard) la exterior\
+✅ Are **echipe proprii de montaj** certificate, nu subcontractori\
+✅ Garanție **minimum 5 ani** pe produs și 2 ani pe manoperă\
+✅ Poate furniza **certificatele de performanță** ale profilului (IFT Rosenheim sau echivalent)
+
+## Procesul de comandă la Neofort BIZ
+
+1. **Soliciți ofertă** — prin formularul de contact, telefon sau WhatsApp
+2. **Consultanță tehnică gratuită** — discutăm proiectul, tipul de construcție, orientarea
+3. **Măsurători la fața locului** — echipa noastră vine și măsoară golurile exacte
+4. **Ofertă personalizată în 24 ore** — cu specificații tehnice complete, transparente
+5. **Producție și livrare** — 7–14 zile lucrătoare pentru profiluri standard
+6. **Montaj nZEB** — echipe proprii cu benzi precomprimate Illbruck și precadre Blaugelb
+7. **Garanție 5 ani** pe produs și manoperă
+
+## Zone deservite în București și Ilfov
+
+Neofort BIZ furnizează și montează termopane cu izolație avansată în **toate sectoarele Bucureștiului** și în județul Ilfov: Voluntari, Pipera, Otopeni, Tunari, Buftea, Bragadiru, Popești-Leordeni, Chitila, Pantelimon, Măgurele, Clinceni, Cornetu, Snagov, Balotești.
+
+---
+
+Neofort BIZ — distribuitor autorizat Salamander și Alumil, montaj nZEB certificat în București și Ilfov. [Solicită ofertă gratuită](/ro/contact).`,
+
+      en: `## What does "advanced insulation" really mean for windows?
+
+The term "advanced insulation" is used by many suppliers in Bucharest without a clear definition. Technically, a window system with advanced insulation must simultaneously meet several criteria:
+
+**Thermal transmittance Uw ≤ 1.0 W/(m²K)** — the minimum threshold for nZEB standard in Romania. Standard double glazing has Uw = 1.3–1.6 W/(m²K), so it doesn't qualify.
+
+**Triple glazing pack** with two chambers filled with argon or krypton gas and at least one Low-E glass layer. The pack's Ug must be ≤ 0.6 W/(m²K).
+
+**PVC profile with minimum 6 chambers** (depth 82–92 mm) or aluminium profile with thermal break of minimum 34 mm, Class A (outer walls ≥ 3 mm).
+
+**Warm Edge spacer** inside the glazing pack — eliminates the thermal bridge at the edge and prevents condensation on the inner sill.
+
+**RAL/nZEB-compliant installation** — pre-compressed bands at exterior, vapour barrier at interior, metal anchors.
+
+## Types of advanced insulation windows available in Bucharest
+
+### 1. Salamander bluEvolution 92 PVC — the nZEB reference standard
+6-chamber profile, 92 mm depth, 3 EPDM gaskets, Uf = 0.9 W/(m²K). Fitted with 52 mm triple glazing, argon, Low-E SGG and Warm Edge spacer, achieves Uw = 0.66–0.8 W/(m²K) — passive house performance.
+
+### 2. Salamander bluEvolution 82 PVC — the quality-price balance
+6 chambers, 82 mm depth, 3 gaskets. With 44 mm triple glazing and Low-E achieves Uw = 0.8–0.95 W/(m²K). Recommended for new homes and renovations with controlled budget.
+
+### 3. Alumil S77 Supreme aluminium — for architectural projects
+34 mm thermal break, Uf = 1.3 W/(m²K) at profile — fitted with triple glazing and Low-E achieves Uw = 1.0–1.2 W/(m²K). Ideal for large glazed facades, offices, commercial.
+
+## What to always ask for in any quote
+
+- Exact profile type (manufacturer, series, chamber count, depth)
+- Ug of the glazing pack (not just "triple" or "Low-E")
+- Spacer type (Warm Edge or standard)
+- Hardware brand (Roto, Winkhaus, Maco)
+- Installation type included (standard foam or nZEB with pre-compressed bands)
+
+Neofort BIZ is an authorised Salamander and Alumil distributor, nZEB-certified installation in Bucharest and Ilfov. [Request free quote](/en/contact).`,
+
+      de: `## Was bedeutet „erweiterte Dämmung" bei Fenstern wirklich?
+
+Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne klare Definition verwendet. Technisch gesehen muss ein Fenstersystem mit erweiterter Dämmung gleichzeitig mehrere Kriterien erfüllen:
+
+**Wärmedurchgangskoeffizient Uw ≤ 1,0 W/(m²K)** — die Mindestanforderung für den nZEB-Standard in Rumänien. Standardmäßige Zweifachverglasung hat Uw = 1,3–1,6 W/(m²K) und erfüllt dies nicht.
+
+**Dreifachverglasung** mit zwei mit Argon oder Krypton gefüllten Kammern und mindestens einer Low-E-Scheibe. Der Ug des Paketes muss ≤ 0,6 W/(m²K) sein.
+
+**PVC-Profil mit mindestens 6 Kammern** (Tiefe 82–92 mm) oder Aluminiumprofil mit thermischer Trennung von mindestens 34 mm, Klasse A (Außenwände ≥ 3 mm).
+
+**Warm-Edge-Abstandhalter** im Verglasungspaket — eliminiert die Wärmebrücke am Rand und verhindert Kondensat auf dem Innenabstandhalter.
+
+**RAL/nZEB-konformer Einbau** — vorkomprimierte Bänder außen, Dampfsperre innen, Metallanker.
+
+## Arten von Fenstern mit erweiterter Dämmung in Bukarest
+
+### 1. Salamander bluEvolution 92 PVC — der nZEB-Referenzstandard
+6-Kammer-Profil, 92 mm Tiefe, 3 EPDM-Dichtungen, Uf = 0,9 W/(m²K). Mit 52 mm Dreifachverglasung, Argon, Low-E SGG und Warm-Edge erreicht Uw = 0,66–0,8 W/(m²K) — Passivhausleistung.
+
+### 2. Salamander bluEvolution 82 PVC — die Qualitäts-Preis-Balance
+6 Kammern, 82 mm Tiefe, 3 Dichtungen. Mit 44 mm Dreifachverglasung und Low-E erreicht Uw = 0,8–0,95 W/(m²K).
+
+### 3. Alumil S77 Supreme Aluminium — für Architekturprojekte
+34 mm Wärmedämmbrücke — mit Dreifachverglasung und Low-E erreicht Uw = 1,0–1,2 W/(m²K). Ideal für große Glasfassaden, Büros, Gewerbe.
+
+Neofort BIZ ist autorisierter Salamander- und Alumil-Händler, nZEB-zertifizierter Einbau in Bukarest und Ilfov. [Kostenloses Angebot anfordern](/de/kontakt).`,
+
+      fr: `## Que signifie réellement « isolation avancée » pour les fenêtres ?
+
+Le terme « isolation avancée » est utilisé par de nombreux fournisseurs à Bucarest sans définition claire. Techniquement, un système de fenêtres à isolation avancée doit simultanément remplir plusieurs critères :
+
+**Coefficient de transmission thermique Uw ≤ 1,0 W/(m²K)** — le seuil minimum pour la norme nZEB en Roumanie. Le double vitrage standard a Uw = 1,3–1,6 W/(m²K), donc il ne se qualifie pas.
+
+**Triple vitrage** avec deux chambres remplies de gaz argon ou krypton et au moins une vitre Low-E. Le Ug du pack doit être ≤ 0,6 W/(m²K).
+
+**Profilé PVC avec minimum 6 chambres** (profondeur 82–92 mm) ou profilé aluminium avec rupture de pont thermique d'au moins 34 mm, Classe A (parois extérieures ≥ 3 mm).
+
+**Espaceur Warm Edge** à l'intérieur du pack vitrage — élimine le pont thermique en périphérie et prévient la condensation sur l'appui intérieur.
+
+**Pose conforme RAL/nZEB** — bandes précomprimées à l'extérieur, pare-vapeur à l'intérieur, ancrages métalliques.
+
+## Types de fenêtres à isolation avancée disponibles à Bucarest
+
+### 1. Salamander bluEvolution 92 PVC — la référence nZEB
+Profilé 6 chambres, 92 mm de profondeur, 3 joints EPDM, Uf = 0,9 W/(m²K). Équipé de triple vitrage 52 mm, argon, Low-E SGG et espaceur Warm Edge, atteint Uw = 0,66–0,8 W/(m²K) — performance maison passive.
+
+### 2. Salamander bluEvolution 82 PVC — l'équilibre qualité-prix
+6 chambres, 82 mm de profondeur, 3 joints. Avec triple vitrage 44 mm et Low-E atteint Uw = 0,8–0,95 W/(m²K).
+
+### 3. Alumil S77 Supreme aluminium — pour les projets architecturaux
+Rupture thermique 34 mm — avec triple vitrage et Low-E atteint Uw = 1,0–1,2 W/(m²K). Idéal pour les grandes façades vitrées, bureaux, commercial.
+
+Neofort BIZ est distributeur agréé Salamander et Alumil, pose nZEB certifiée à Bucarest et Ilfov. [Demander un devis gratuit](/fr/contact).`,
+
+      es: `## ¿Qué significa realmente el "aislamiento avanzado" en ventanas?
+
+El término "aislamiento avanzado" es usado por muchos proveedores en Bucarest sin una definición clara. Técnicamente, un sistema de ventanas con aislamiento avanzado debe cumplir simultáneamente varios criterios:
+
+**Coeficiente de transmisión térmica Uw ≤ 1,0 W/(m²K)** — el umbral mínimo para la norma nZEB en Rumanía. El doble acristalamiento estándar tiene Uw = 1,3–1,6 W/(m²K), por lo que no cumple.
+
+**Triple acristalamiento** con dos cámaras rellenas de argón o kriptón y al menos un vidrio Low-E. El Ug del paquete debe ser ≤ 0,6 W/(m²K).
+
+**Perfil PVC con mínimo 6 cámaras** (profundidad 82–92 mm) o perfil aluminio con rotura de puente térmico de al menos 34 mm, Clase A (paredes exteriores ≥ 3 mm).
+
+**Separador Warm Edge** en el interior del paquete de vidrio — elimina el puente térmico en el borde y previene la condensación en el alféizar interior.
+
+**Instalación conforme RAL/nZEB** — bandas precomprimidas al exterior, barrera de vapor al interior, anclajes metálicos.
+
+## Tipos de ventanas con aislamiento avanzado en Bucarest
+
+### 1. Salamander bluEvolution 92 PVC — el estándar de referencia nZEB
+Perfil de 6 cámaras, 92 mm de profundidad, 3 juntas EPDM, Uf = 0,9 W/(m²K). Con triple acristalamiento 52 mm, argón, Low-E SGG y separador Warm Edge, alcanza Uw = 0,66–0,8 W/(m²K) — rendimiento de casa pasiva.
+
+### 2. Salamander bluEvolution 82 PVC — el equilibrio calidad-precio
+6 cámaras, 82 mm de profundidad, 3 juntas. Con triple acristalamiento 44 mm y Low-E alcanza Uw = 0,8–0,95 W/(m²K).
+
+### 3. Alumil S77 Supreme aluminio — para proyectos arquitectónicos
+Rotura térmica 34 mm — con triple acristalamiento y Low-E alcanza Uw = 1,0–1,2 W/(m²K). Ideal para grandes fachadas acristaladas, oficinas, comercial.
+
+Neofort BIZ es distribuidor autorizado Salamander y Alumil, instalación nZEB certificada en Bucarest e Ilfov. [Solicitar presupuesto gratuito](/es/contact).`,
+
+      it: `## Cosa significa veramente "isolamento avanzato" per le finestre?
+
+Il termine "isolamento avanzato" è usato da molti fornitori a Bucarest senza una definizione chiara. Tecnicamente, un sistema di finestre con isolamento avanzato deve soddisfare simultaneamente diversi criteri:
+
+**Coefficiente di trasmissione termica Uw ≤ 1,0 W/(m²K)** — la soglia minima per lo standard nZEB in Romania. Il doppio vetro standard ha Uw = 1,3–1,6 W/(m²K), quindi non si qualifica.
+
+**Triplo vetro** con due camere riempite di gas argon o krypton e almeno uno strato di vetro Low-E. Il Ug del pacchetto deve essere ≤ 0,6 W/(m²K).
+
+**Profilo PVC con minimo 6 camere** (profondità 82–92 mm) o profilo alluminio con taglio termico di almeno 34 mm, Classe A (pareti esterne ≥ 3 mm).
+
+**Distanziale Warm Edge** all'interno del pacchetto vetrocamera — elimina il ponte termico al bordo e previene la condensa sul davanzale interno.
+
+**Installazione conforme RAL/nZEB** — nastri precompressi all'esterno, barriera vapore all'interno, ancoraggi metallici.
+
+## Tipi di finestre con isolamento avanzato a Bucarest
+
+### 1. Salamander bluEvolution 92 PVC — lo standard di riferimento nZEB
+Profilo a 6 camere, 92 mm di profondità, 3 guarnizioni EPDM, Uf = 0,9 W/(m²K). Con triplo vetro 52 mm, argon, Low-E SGG e distanziale Warm Edge, raggiunge Uw = 0,66–0,8 W/(m²K) — prestazioni da casa passiva.
+
+### 2. Salamander bluEvolution 82 PVC — l'equilibrio qualità-prezzo
+6 camere, 82 mm di profondità, 3 guarnizioni. Con triplo vetro 44 mm e Low-E raggiunge Uw = 0,8–0,95 W/(m²K).
+
+### 3. Alumil S77 Supreme alluminio — per progetti architettonici
+Taglio termico 34 mm — con triplo vetro e Low-E raggiunge Uw = 1,0–1,2 W/(m²K). Ideale per grandi facciate vetrate, uffici, commerciale.
+
+Neofort BIZ è distributore autorizzato Salamander e Alumil, installazione nZEB certificata a Bucarest e Ilfov. [Richiedi preventivo gratuito](/it/contact).`,
+    },
+  },
+
+  // ─── ARTICOL: Optiuni izolatie perimetrala ferestre Romania ─────────────────
+  {
+    slugs: {
+      ro: 'optiuni-izolatie-perimetrala-ferestre-romania-2026',
+      en: 'perimeter-insulation-options-windows-romania-2026',
+      de: 'perimeterdaemmung-optionen-fenster-rumaenien-2026',
+      fr: 'options-isolation-perimetrale-fenetres-roumanie-2026',
+      es: 'opciones-aislamiento-perimetral-ventanas-rumania-2026',
+      it: 'opzioni-isolamento-perimetrale-finestre-romania-2026',
+    },
+    date: '2026-04-23',
+    author: 'Neofort BIZ',
+    accentColor: '#2a5a1a',
+    image: {
+      ro: '/blog/Care_sunt_optiunile_de_izolatie_perimetrala_pentru_ferestre_in_Romania.avif',
+      en: '/blog/Care_sunt_optiunile_de_izolatie_perimetrala_pentru_ferestre_in_Romania.avif',
+      de: '/blog/Care_sunt_optiunile_de_izolatie_perimetrala_pentru_ferestre_in_Romania.avif',
+      fr: '/blog/Care_sunt_optiunile_de_izolatie_perimetrala_pentru_ferestre_in_Romania.avif',
+      es: '/blog/Care_sunt_optiunile_de_izolatie_perimetrala_pentru_ferestre_in_Romania.avif',
+      it: '/blog/Care_sunt_optiunile_de_izolatie_perimetrala_pentru_ferestre_in_Romania.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1e08 0%,#1a4010 60%,#0a1e08 100%)',
+    imageLabel: 'Izolație perimetrală ferestre — secțiune transversală sistem aluminiu',
+    readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
+    category: { ro:'Sisteme nZEB', en:'nZEB Systems', de:'nZEB-Systeme', fr:'Systèmes nZEB', es:'Sistemas nZEB', it:'Sistemi nZEB' },
+    title: {
+      ro: 'Care sunt opțiunile de izolație perimetrală pentru ferestre în România? Ghid complet 2026',
+      en: 'What Are the Perimeter Insulation Options for Windows in Romania? Complete Guide 2026',
+      de: 'Welche Perimeterdämmungsoptionen gibt es für Fenster in Rumänien? Vollständiger Ratgeber 2026',
+      fr: "Quelles sont les options d'isolation périphérique pour les fenêtres en Roumanie ? Guide complet 2026",
+      es: '¿Cuáles son las opciones de aislamiento perimetral para ventanas en Rumanía? Guía completa 2026',
+      it: `Quali sono le opzioni di isolamento perimetrale per finestre in Romania? Guida completa 2026`,
+    },
+    metaDesc: {
+      ro: 'Izolație perimetrală ferestre România 2026 — spumă poliuretanică vs bandă precomprimată vs precadre Blaugelb. Comparație completă, costuri, când se aplică fiecare și ce cere standardul nZEB.',
+      en: 'Window perimeter insulation Romania 2026 — polyurethane foam vs pre-compressed band vs Blaugelb preframes. Complete comparison, costs, when each applies and what the nZEB standard requires.',
+      de: 'Fenster-Perimeterdämmung Rumänien 2026 — Polyurethanschaum vs. vorkomprimiertes Band vs. Blaugelb-Vorblendrahmen. Vollständiger Vergleich, Kosten, wann was gilt und was der nZEB-Standard verlangt.',
+      fr: "Isolation périphérique fenêtres Roumanie 2026 — mousse polyuréthane vs bande précomprimée vs précadres Blaugelb. Comparaison complète, coûts, quand chaque solution s'applique et ce que la norme nZEB exige.",
+      es: 'Aislamiento perimetral ventanas Rumanía 2026 — espuma de poliuretano vs banda precomprimida vs premarcos Blaugelb. Comparación completa, costes, cuándo se aplica cada uno y qué exige la norma nZEB.',
+      it: `Isolamento perimetrale finestre Romania 2026 — schiuma poliuretanica vs nastro precompresso vs precornici Blaugelb. Confronto completo, costi, quando si applica ciascuno e cosa richiede lo standard nZEB.`,
+    },
+    excerpt: {
+      ro: 'Izolația perimetrală a ferestrelor e cea mai neglijată componentă a unui montaj de calitate. Ghid complet: diferența dintre spumă, bandă precomprimată și precadre Blaugelb, costurile reale și ce standard nZEB impune în România 2026.',
+      en: 'Window perimeter insulation is the most neglected component of a quality installation. Complete guide: the difference between foam, pre-compressed band and Blaugelb preframes, real costs and what the nZEB standard requires in Romania 2026.',
+      de: 'Die Fenster-Perimeterdämmung ist die am häufigsten vernachlässigte Komponente einer Qualitätsmontage. Vollständiger Ratgeber: Unterschied zwischen Schaum, vorkomprimiertem Band und Blaugelb-Vorblendrahmen, reale Kosten und was der nZEB-Standard in Rumänien 2026 verlangt.',
+      fr: "L'isolation périphérique des fenêtres est le composant le plus négligé d'une pose de qualité. Guide complet : la différence entre mousse, bande précomprimée et précadres Blaugelb, coûts réels et ce que la norme nZEB exige en Roumanie 2026.",
+      es: 'El aislamiento perimetral de ventanas es el componente más descuidado de una instalación de calidad. Guía completa: la diferencia entre espuma, banda precomprimida y premarcos Blaugelb, costes reales y qué exige la norma nZEB en Rumanía 2026.',
+      it: `L'isolamento perimetrale delle finestre è il componente più trascurato di un'installazione di qualità. Guida completa: la differenza tra schiuma, nastro precompresso e precornici Blaugelb, costi reali e cosa richiede lo standard nZEB in Romania nel 2026.`,
+    },
+    keywords: 'izolatie perimetrala ferestre, benzi precomprimate ferestre Romania, precadre Blaugelb Triotherm, montaj nZEB ferestre, spuma poliuretanica vs banda precomprimata, izolatie rost ferestre, montaj profesional ferestre Bucuresti, puntii termice ferestre',
+    dateDisplay: {
+      ro: '23 apr 2026', en: 'Apr 23 2026', de: '23. Apr. 2026',
+      fr: '23 avr. 2026', es: '23 abr 2026', it: '23 apr 2026',
+    },
+    content: {
+      ro: `## De ce izolația perimetrală e mai importantă decât profilul ferestrei
+
+Poți instala cel mai performant profil Salamander bluEvolution 92 cu tripan și Warm Edge, dar dacă **rostul dintre toc și zidărie nu e etanșat corect**, pierzi 30–50% din eficiența termică a ferestrei. Imaginea termică a clădirilor cu ferestre recent schimbate arată frecvent dungi calde în jurul tocurilor — semn clar că izolația perimetrală a fost neglijată.
+
+În România, standardul **nZEB (Nearly Zero Energy Building)** — obligatoriu pentru construcțiile noi din 2021 și renovările majore — impune explicit etanșarea în trei zone: interior (barieră antivapori), mediană (izolație termică și fonică) și exterior (protecție la apă și vânt).
+
+## Cele 3 opțiuni principale de izolație perimetrală
+
+### Opțiunea 1 — Spumă poliuretanică (montaj standard)
+
+**Cum funcționează:** Spuma se injectează în rostul dintre toc și zidărie, se expandează și umple golul. La exterior se aplică chit siliconic sau tencuiască.
+
+**Avantaje:**
+- Cost redus — inclus în orice ofertă standard
+- Ușor de aplicat — orice instalator o folosește
+- Umple complet rostul neuniform
+
+**Dezavantaje grave:**
+- Crăpă în 3–5 ani sub acțiunea UV și variațiilor de temperatură
+- Permite infiltrații de apă după degradare
+- Coeficient de izolație fonică slab
+- **Nu îndeplinește cerințele nZEB** — nu are proprietăți de barieră antivapori
+- Odată crăpată, permite și vapori să migreze spre structura peretelui → condens → mucegai
+
+**Concluzie:** Spuma singură = montaj standard, acceptabil pentru renovări simple, neadecvat pentru standarde nZEB.
+
+### Opțiunea 2 — Bandă precomprimată (montaj profesional)
+
+**Cum funcționează:** Banda precomprimată (ex. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) este o spumă poliuretanică impregnată, comprimată și depozitată rulată. Se aplică pe profilul ferestrei înainte de montaj. După montaj se expandează treptat (ore–zile) și etanșează perimetrul extern.
+
+**Cele 3 funcții ale benzii precomprimate:**
+1. **Exterior** — hidroizolare, rezistă la ploaie bătătoare (testat ≥ 600 Pa) și la UV
+2. **Mijloc** — izolație termică și fonică
+3. **Interior** — barieră de vapori (reduce migrarea vaporilor din interior spre rost)
+
+**Avantaje:**
+- Îndeplinește cerințele nZEB
+- Durabilitate superioară față de chit siliconic (20+ ani)
+- Etanșare la apă și vânt fără fisurare
+- Izolație fonică semnificativ mai bună decât spuma
+- Nu necesită lucrări suplimentare de finisare la exterior
+
+**Dezavantaje:**
+- Cost suplimentar față de montajul standard (10–20% din valoarea montajului)
+- Necesită aplicare corectă — grosimea benzii trebuie să corespundă lățimii rostului
+
+**Concluzie:** Banda precomprimată = standardul minim pentru montaj profesional nZEB. Recomandată pentru toate proiectele noi și renovările cu pretenții de eficiență energetică.
+
+### Opțiunea 3 — Precadre termoizolante Blaugelb Triotherm+ (montaj nZEB premium)
+
+**Cum funcționează:** Precadrul Blaugelb Triotherm+ este un cadru termoizolant din material compozit (conductivitate termică λ = 0,035 W/mK) care se montează **înainte de fereastră**, direct pe structura peretelui sau în planul izolatiei termice. Fereastra se montează ulterior pe precadru, nu direct în zidărie.
+
+**Avantajele cheie:**
+- Elimină complet puntea termică la perimetrul ferestrei — tocul nu mai atinge direct zidăria
+- Permite montarea ferestrei în **planul izolatiei termice** a peretelui (cerință Passive House)
+- Ușurează repararea sau înlocuirea ulterioară a ferestrei fără afectarea finisajelor
+- Certificat pentru construcții **nZEB și case pasive**
+
+**Când e obligatoriu:**
+- Construcții noi cu standard nZEB sau Passive House
+- Renovări cu refacere completă a anvelopei termice
+- Pereți cu grosime mare a izolatiei (unde fereastra trebuie montată în afara zidăriei)
+
+**Cost:** 200–400 lei/buc, în funcție de dimensiuni.
+
+**Dezavantaje:**
+- Cost suplimentar față de montajul cu benzi
+- Necesită planificare din faza de proiectare (nu se poate adăuga ulterior la un montaj existent)
+
+## Comparație directă — care să aleg?
+
+| Criteriu | Spumă standard | Bandă precomprimată | Precadru Blaugelb |
+|---|---|---|---|
+| Conformitate nZEB | ❌ Nu | ✅ Da | ✅ Da (premium) |
+| Durabilitate | 3–5 ani | 20+ ani | 30+ ani |
+| Izolație fonică | Slabă | Bună | Foarte bună |
+| Barieră antivapori | ❌ Nu | ✅ Parțial | ✅ Completă |
+| Cost relativ | Inclus standard | +10–20% | +200–400 lei/buc |
+| Recomandare | Renovare simplă | Orice proiect nou | nZEB/Passive House |
+
+## Ce impune standardul nZEB în România
+
+Conform **Legii 372/2005** (modificată) și **HG 765/2016**, orice clădire nouă sau renovare majoră trebuie să atingă consumul de energie primar ≤ 100 kWh/m²/an. Ferestrele trebuie să aibă Uw ≤ 1,0 W/(m²K) și montajul trebuie să elimine punțile termice la perimetru. Practic, **spuma poliuretanică singură nu mai îndeplinește aceste cerințe** — banda precomprimată sau precadrele sunt obligatorii.
+
+---
+
+Neofort BIZ execută montaje cu bandă precomprimată Illbruck și precadre Blaugelb Triotherm+ în București și Ilfov. [Solicită ofertă montaj nZEB](/ro/contact).`,
+
+      en: `## Why perimeter insulation matters more than the window profile
+
+You can install the best Salamander bluEvolution 92 profile with triple glazing and Warm Edge, but if **the gap between frame and masonry isn't correctly sealed**, you lose 30–50% of the window's thermal efficiency. Thermal imaging of buildings with recently replaced windows frequently shows warm streaks around frames — a clear sign that perimeter insulation was neglected.
+
+## The 3 main perimeter insulation options
+
+### Option 1 — Polyurethane foam (standard installation)
+Foam fills the gap between frame and masonry. At exterior, silicone sealant or plaster is applied.
+
+**Major disadvantages:** Cracks in 3–5 years under UV and temperature changes. Allows water infiltration after degradation. **Does not meet nZEB requirements** — no vapour barrier properties.
+
+### Option 2 — Pre-compressed band (professional installation)
+Pre-compressed band (Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) is applied on the window frame before installation. After mounting it expands gradually and seals the external perimeter.
+
+**Three functions:** exterior waterproofing (≥ 600 Pa tested), thermal and acoustic insulation, interior vapour barrier.
+
+**Advantages:** Meets nZEB requirements. Superior durability (20+ years). Significantly better acoustic insulation than foam. No additional finishing work at exterior.
+
+### Option 3 — Blaugelb Triotherm+ thermal preframes (premium nZEB installation)
+The preframe is a thermal composite frame (λ = 0.035 W/mK) mounted **before the window**, directly on the wall structure. The window is subsequently mounted on the preframe, not directly in the masonry.
+
+**Key advantage:** Completely eliminates thermal bridges at the window perimeter — the frame no longer directly contacts the masonry. Allows window mounting in the **thermal insulation plane** of the wall.
+
+**When required:** New nZEB/Passive House constructions, major envelope renovations.
+
+## What nZEB requires in Romania
+Any new building or major renovation must achieve primary energy consumption ≤ 100 kWh/m²/year. Windows must have Uw ≤ 1.0 W/(m²K) and installation must eliminate perimeter thermal bridges. **Polyurethane foam alone no longer meets these requirements.**
+
+Neofort BIZ installs with Illbruck pre-compressed bands and Blaugelb Triotherm+ preframes in Bucharest and Ilfov. [Request nZEB installation quote](/en/contact).`,
+
+      de: `## Warum Perimeterdämmung wichtiger ist als das Fensterprofil
+
+Sie können das beste Salamander bluEvolution 92-Profil mit Dreifachverglasung und Warm Edge einbauen, aber wenn **die Fuge zwischen Rahmen und Mauerwerk nicht korrekt abgedichtet ist**, verlieren Sie 30–50% der Wärmedämmleistung des Fensters. Wärmebilder von Gebäuden mit kürzlich ausgetauschten Fenstern zeigen häufig warme Streifen um die Rahmen — ein klares Zeichen für vernachlässigte Perimeterdämmung.
+
+## Die 3 Hauptoptionen der Perimeterdämmung
+
+### Option 1 — Polyurethanschaum (Standardmontage)
+Schaum füllt die Fuge zwischen Rahmen und Mauerwerk. Außen wird Silikon oder Putz aufgetragen.
+
+**Schwerwiegende Nachteile:** Reißt in 3–5 Jahren durch UV und Temperaturschwankungen. **Erfüllt die nZEB-Anforderungen nicht** — keine Dampfsperreigenschaften.
+
+### Option 2 — Vorkomprimiertes Band (professionelle Montage)
+Vorkomprimiertes Band (Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) wird vor der Montage auf den Fensterrahmen aufgetragen und dehnt sich danach aus.
+
+**Drei Funktionen:** Außen: Abdichtung gegen Schlagregen (≥ 600 Pa getestet). Mitte: Wärme- und Schallschutz. Innen: Dampfsperre.
+
+**Vorteile:** Erfüllt nZEB-Anforderungen. Überlegene Haltbarkeit (20+ Jahre). Deutlich besserer Schallschutz als Schaum.
+
+### Option 3 — Blaugelb Triotherm+ Vorblendrahmen (Premium nZEB)
+Der Vorblendrahmen aus Wärmedämmverbundwerkstoff (λ = 0,035 W/mK) wird **vor dem Fenster** montiert. Das Fenster wird auf dem Vorblendrahmen, nicht direkt im Mauerwerk befestigt.
+
+**Hauptvorteil:** Eliminiert vollständig Wärmebrücken am Fensterperimeter. Ermöglicht Montage im **Wärmedämmebene** der Wand.
+
+**Wann erforderlich:** Neubauten nach nZEB/Passivhaus-Standard, umfassende Hüllenrenovierungen.
+
+Neofort BIZ montiert mit Illbruck-Bändern und Blaugelb Triotherm+ Vorblendrahmen in Bukarest und Ilfov. [nZEB-Montage anfragen](/de/kontakt).`,
+
+      fr: `## Pourquoi l'isolation périphérique est plus importante que le profilé
+
+Vous pouvez installer le meilleur profilé Salamander bluEvolution 92 avec triple vitrage et espaceur Warm Edge, mais si **le joint entre cadre et maçonnerie n'est pas correctement étanché**, vous perdez 30–50% de l'efficacité thermique de la fenêtre. Les images thermiques de bâtiments avec fenêtres récemment remplacées montrent fréquemment des bandes chaudes autour des cadres — signe clair que l'isolation périphérique a été négligée.
+
+## Les 3 principales options d'isolation périphérique
+
+### Option 1 — Mousse polyuréthane (pose standard)
+La mousse remplit le joint entre cadre et maçonnerie. À l'extérieur, du silicone ou de l'enduit est appliqué.
+
+**Inconvénients majeurs :** Se fissure en 3–5 ans sous UV et variations thermiques. **Ne répond pas aux exigences nZEB** — pas de propriétés pare-vapeur.
+
+### Option 2 — Bande précomprimée (pose professionnelle)
+La bande précomprimée (Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) est appliquée sur le cadre avant la pose. Après installation elle se dilate progressivement et scelle le périmètre extérieur.
+
+**Trois fonctions :** Étanchéité à l'eau (≥ 600 Pa testé). Isolation thermique et phonique. Pare-vapeur intérieur.
+
+**Avantages :** Conforme aux exigences nZEB. Durabilité supérieure (20+ ans). Isolation phonique nettement meilleure que la mousse.
+
+### Option 3 — Précadres thermoïsolants Blaugelb Triotherm+ (nZEB premium)
+Le précadre en matériau composite thermique (λ = 0,035 W/mK) est monté **avant la fenêtre** sur la structure du mur. La fenêtre est ensuite montée sur le précadre.
+
+**Avantage clé :** Élimine complètement les ponts thermiques au périmètre. Permet le montage dans le **plan de l'isolation thermique** du mur.
+
+**Quand obligatoire :** Constructions neuves nZEB/Maison passive, rénovations majeures de l'enveloppe.
+
+Neofort BIZ réalise des poses avec bandes Illbruck et précadres Blaugelb Triotherm+ à Bucarest et Ilfov. [Demander un devis pose nZEB](/fr/contact).`,
+
+      es: `## Por qué el aislamiento perimetral importa más que el perfil
+
+Puede instalar el mejor perfil Salamander bluEvolution 92 con triple acristalamiento y separador Warm Edge, pero si **la junta entre marco y mampostería no está correctamente sellada**, pierde el 30–50% de la eficiencia térmica de la ventana. Las imágenes térmicas de edificios con ventanas recientemente sustituidas muestran con frecuencia franjas calientes alrededor de los marcos — señal clara de que el aislamiento perimetral fue descuidado.
+
+## Las 3 principales opciones de aislamiento perimetral
+
+### Opción 1 — Espuma de poliuretano (instalación estándar)
+La espuma rellena la junta entre marco y mampostería. Al exterior se aplica silicona o revoco.
+
+**Desventajas graves:** Se agrieta en 3–5 años bajo UV y variaciones de temperatura. **No cumple los requisitos nZEB** — sin propiedades de barrera de vapor.
+
+### Opción 2 — Banda precomprimida (instalación profesional)
+La banda precomprimida (Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) se aplica sobre el marco antes de la instalación y luego se expande sellando el perímetro exterior.
+
+**Tres funciones:** Impermeabilización exterior (≥ 600 Pa testado). Aislamiento térmico y acústico. Barrera de vapor interior.
+
+**Ventajas:** Cumple requisitos nZEB. Durabilidad superior (20+ años). Aislamiento acústico significativamente mejor que la espuma.
+
+### Opción 3 — Premarcos termoaislantes Blaugelb Triotherm+ (nZEB premium)
+El premarco de material compuesto térmico (λ = 0,035 W/mK) se monta **antes de la ventana** sobre la estructura del muro. La ventana se monta posteriormente sobre el premarco.
+
+**Ventaja clave:** Elimina completamente los puentes térmicos en el perímetro. Permite el montaje en el **plano del aislamiento térmico** del muro.
+
+**Cuándo es obligatorio:** Nuevas construcciones nZEB/Casa Pasiva, renovaciones mayores de la envolvente.
+
+Neofort BIZ instala con bandas Illbruck y premarcos Blaugelb Triotherm+ en Bucarest e Ilfov. [Solicitar presupuesto instalación nZEB](/es/contact).`,
+
+      it: `## Perché l'isolamento perimetrale conta più del profilo
+
+Puoi installare il miglior profilo Salamander bluEvolution 92 con triplo vetro e distanziale Warm Edge, ma se **il giunto tra telaio e muratura non è correttamente sigillato**, perdi il 30–50% dell'efficienza termica della finestra. Le immagini termiche di edifici con finestre recentemente sostituite mostrano frequentemente strisce calde attorno ai telai — segnale chiaro che l'isolamento perimetrale è stato trascurato.
+
+## Le 3 principali opzioni di isolamento perimetrale
+
+### Opzione 1 — Schiuma poliuretanica (installazione standard)
+La schiuma riempie il giunto tra telaio e muratura. All'esterno si applica silicone o intonaco.
+
+**Svantaggi gravi:** Si incrina in 3–5 anni sotto UV e variazioni di temperatura. **Non soddisfa i requisiti nZEB** — nessuna proprietà di barriera vapore.
+
+### Opzione 2 — Nastro precompresso (installazione professionale)
+Il nastro precompresso (Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) viene applicato sul telaio prima dell'installazione. Dopo il montaggio si espande progressivamente sigillando il perimetro esterno.
+
+**Tre funzioni:** Impermeabilizzazione esterna (≥ 600 Pa testato). Isolamento termico e acustico. Barriera vapore interna.
+
+**Vantaggi:** Soddisfa i requisiti nZEB. Durabilità superiore (20+ anni). Isolamento acustico significativamente migliore della schiuma.
+
+### Opzione 3 — Precornici termoisolanti Blaugelb Triotherm+ (nZEB premium)
+La precornice in materiale composito termico (λ = 0,035 W/mK) viene montata **prima della finestra** sulla struttura del muro. La finestra viene successivamente montata sulla precornice.
+
+**Vantaggio chiave:** Elimina completamente i ponti termici al perimetro. Permette il montaggio nel **piano dell'isolamento termico** del muro.
+
+**Quando obbligatorio:** Nuove costruzioni nZEB/Casa Passiva, ristrutturazioni maggiori dell'involucro.
+
+Neofort BIZ installa con nastri Illbruck e precornici Blaugelb Triotherm+ a Bucarest e Ilfov. [Richiedi preventivo installazione nZEB](/it/contact).`,
+    },
+  },
+
+
   // ─── ARTICOL 1: Jaluzele exterioare Bucuresti ──────────────────────────────
   {
     slugs: {
