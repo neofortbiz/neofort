@@ -128,7 +128,7 @@ Neofort BIZ furnizează și montează termopane cu izolație avansată în **toa
 
 Neofort BIZ — distribuitor autorizat Salamander și Alumil, montaj nZEB certificat în București și Ilfov. [Solicită ofertă gratuită](/ro/contact).`,
 
-      en: `## What does "advanced insulation" really mean for windows?
+      en: `## What Does "Advanced Insulation" Really Mean for Windows?
 
 The term "advanced insulation" is used by many suppliers in Bucharest without a clear definition. Technically, a window system with advanced insulation must simultaneously meet several criteria:
 
@@ -142,26 +142,55 @@ The term "advanced insulation" is used by many suppliers in Bucharest without a 
 
 **RAL/nZEB-compliant installation** — pre-compressed bands at exterior, vapour barrier at interior, metal anchors.
 
-## Types of advanced insulation windows available in Bucharest
+Without all these elements together, a manufacturer cannot legitimately speak of "advanced insulation".
 
-### 1. Salamander bluEvolution 92 PVC — the nZEB reference standard
+## Types of Advanced Insulation Windows Available in Bucharest
+
+### 1. Salamander bluEvolution 92 PVC — The nZEB Reference Standard
 6-chamber profile, 92 mm depth, 3 EPDM gaskets, Uf = 0.9 W/(m²K). Fitted with 52 mm triple glazing, argon, Low-E SGG and Warm Edge spacer, achieves Uw = 0.66–0.8 W/(m²K) — passive house performance.
 
-### 2. Salamander bluEvolution 82 PVC — the quality-price balance
+### 2. Salamander bluEvolution 82 PVC — The Quality-Price Balance
 6 chambers, 82 mm depth, 3 gaskets. With 44 mm triple glazing and Low-E achieves Uw = 0.8–0.95 W/(m²K). Recommended for new homes and renovations with controlled budget.
 
-### 3. Alumil S77 Supreme aluminium — for architectural projects
+### 3. Alumil S77 Supreme Aluminium — For Architectural Projects
 34 mm thermal break, Uf = 1.3 W/(m²K) at profile — fitted with triple glazing and Low-E achieves Uw = 1.0–1.2 W/(m²K). Ideal for large glazed facades, offices, commercial.
 
-## What to always ask for in any quote
+## What to Always Ask For in Any Quote
 
+**In writing:**
 - Exact profile type (manufacturer, series, chamber count, depth)
 - Ug of the glazing pack (not just "triple" or "Low-E")
-- Spacer type (Warm Edge or standard)
-- Hardware brand (Roto, Winkhaus, Maco)
-- Installation type included (standard foam or nZEB with pre-compressed bands)
+- Spacer type (Warm Edge or standard — difference of 0.1–0.15 W/(m²K))
+- Type of gas in the thermal chambers (argon = standard, krypton = premium)
+- Hardware brand (Roto, Winkhaus, Maco — not "quality hardware")
+- Type of installation included in price (standard foam or nZEB with pre-compressed bands)
 
-Neofort BIZ is an authorised Salamander and Alumil distributor, nZEB-certified installation in Bucharest and Ilfov. [Request free quote](/en/contact).`,
+**Ask explicitly:**
+- Is installation with Illbruck or equivalent pre-compressed bands included?
+- Are Blaugelb Triotherm+ preframes available and at what additional cost?
+- What warranty do you offer separately on product and workmanship?
+
+## Signs That a Supplier Is Serious
+
+✅ The company always comes for **on-site measurements** (does not accept orders based on client measurements)✅ Offers a **written contract** with complete technical specifications✅ Uses **pre-compressed bands** (not standard polyurethane foam) at exterior✅ Has **own certified installation teams**, not subcontractors✅ Minimum **5-year warranty** on product and 2 years on workmanship✅ Can provide **performance certificates** for the profile (IFT Rosenheim or equivalent)
+
+## The Ordering Process at Neofort BIZ
+
+1. **Request a quote** — via the contact form, phone or WhatsApp
+2. **Free technical consultation** — we discuss the project, type of construction, orientation
+3. **On-site measurements** — our team comes and measures the exact openings
+4. **Personalised quote within 24 hours** — with complete, transparent technical specifications
+5. **Production and delivery** — 7–14 working days for standard profiles
+6. **nZEB installation** — own teams with Illbruck pre-compressed bands and Blaugelb preframes
+7. **5-year warranty** on product and workmanship
+
+## Delivery and Installation Areas in Bucharest and Ilfov
+
+Neofort BIZ supplies and installs windows with advanced insulation in **all sectors of Bucharest** and in Ilfov county: Voluntari, Pipera, Otopeni, Tunari, Buftea, Bragadiru, Popești-Leordeni, Chitila, Pantelimon, Măgurele, Clinceni, Cornetu, Snagov, Balotești.
+
+---
+
+Neofort BIZ — authorised Salamander and Alumil distributor, nZEB-certified installation in Bucharest and Ilfov. [Request free quote](/en/contact).`,
 
       de: `## Was bedeutet „erweiterte Dämmung" bei Fenstern wirklich?
 
@@ -169,26 +198,60 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 
 **Wärmedurchgangskoeffizient Uw ≤ 1,0 W/(m²K)** — die Mindestanforderung für den nZEB-Standard in Rumänien. Standardmäßige Zweifachverglasung hat Uw = 1,3–1,6 W/(m²K) und erfüllt dies nicht.
 
-**Dreifachverglasung** mit zwei mit Argon oder Krypton gefüllten Kammern und mindestens einer Low-E-Scheibe. Der Ug des Paketes muss ≤ 0,6 W/(m²K) sein.
+**Dreifachverglasungspaket** mit zwei mit Argon oder Krypton gefüllten Kammern und mindestens einer Low-E-Scheibe. Der Ug des Pakets muss ≤ 0,6 W/(m²K) sein.
 
 **PVC-Profil mit mindestens 6 Kammern** (Tiefe 82–92 mm) oder Aluminiumprofil mit thermischer Trennung von mindestens 34 mm, Klasse A (Außenwände ≥ 3 mm).
 
-**Warm-Edge-Abstandhalter** im Verglasungspaket — eliminiert die Wärmebrücke am Rand und verhindert Kondensat auf dem Innenabstandhalter.
+**Warm-Edge-Abstandhalter** im Verglasungspaket — eliminiert die Wärmebrücke am Rand und verhindert Kondensat am Innenabstandhalter.
 
 **RAL/nZEB-konformer Einbau** — vorkomprimierte Bänder außen, Dampfsperre innen, Metallanker.
 
 ## Arten von Fenstern mit erweiterter Dämmung in Bukarest
 
-### 1. Salamander bluEvolution 92 PVC — der nZEB-Referenzstandard
-6-Kammer-Profil, 92 mm Tiefe, 3 EPDM-Dichtungen, Uf = 0,9 W/(m²K). Mit 52 mm Dreifachverglasung, Argon, Low-E SGG und Warm-Edge erreicht Uw = 0,66–0,8 W/(m²K) — Passivhausleistung.
+### 1. Salamander bluEvolution 92 PVC — Der nZEB-Referenzstandard
+6-Kammer-Profil, 92 mm Tiefe, 3 EPDM-Dichtungen, Uf = 0,9 W/(m²K). Mit 52 mm Dreifachverglasung, Argon, Low-E SGG und Warm-Edge-Abstandhalter erreicht Uw = 0,66–0,8 W/(m²K) — Passivhausleistung.
 
-### 2. Salamander bluEvolution 82 PVC — die Qualitäts-Preis-Balance
-6 Kammern, 82 mm Tiefe, 3 Dichtungen. Mit 44 mm Dreifachverglasung und Low-E erreicht Uw = 0,8–0,95 W/(m²K).
+### 2. Salamander bluEvolution 82 PVC — Die Qualitäts-Preis-Balance
+6 Kammern, 82 mm Tiefe, 3 Dichtungen. Mit 44 mm Dreifachverglasung und Low-E erreicht Uw = 0,8–0,95 W/(m²K). Empfohlen für Neubauten und Renovierungen mit kontrolliertem Budget.
 
-### 3. Alumil S77 Supreme Aluminium — für Architekturprojekte
-34 mm Wärmedämmbrücke — mit Dreifachverglasung und Low-E erreicht Uw = 1,0–1,2 W/(m²K). Ideal für große Glasfassaden, Büros, Gewerbe.
+### 3. Alumil S77 Supreme Aluminium — Für Architekturprojekte
+34 mm Wärmedämmbrücke, Uf = 1,3 W/(m²K) am Profil — mit Dreifachverglasung und Low-E erreicht Uw = 1,0–1,2 W/(m²K). Ideal für große Glasfassaden, Büros, Gewerbe.
 
-Neofort BIZ ist autorisierter Salamander- und Alumil-Händler, nZEB-zertifizierter Einbau in Bukarest und Ilfov. [Kostenloses Angebot anfordern](/de/kontakt).`,
+## Was Sie in jedem Angebot verlangen sollten
+
+**Schriftlich:**
+- Exakter Profiltyp (Hersteller, Serie, Kammeranzahl, Tiefe)
+- Ug des Verglasungspakets (nicht nur „Dreifach" oder „Low-E")
+- Abstandhaltertyp (Warm Edge oder Standard — Unterschied 0,1–0,15 W/(m²K))
+- Gasart in den Wärmekammern (Argon = Standard, Krypton = Premium)
+- Beschlagsmarke (Roto, Winkhaus, Maco — nicht „Qualitätsbeschläge")
+- Montage-Art im Preis enthalten (Standardschaum oder nZEB mit vorkomprimierten Bändern)
+
+**Ausdrücklich fragen:**
+- Ist Montage mit Illbruck oder gleichwertigen vorkomprimierten Bändern enthalten?
+- Sind Blaugelb Triotherm+ Vorblendrahmen verfügbar und zu welchem Aufpreis?
+
+## Zeichen für einen seriösen Anbieter
+
+✅ Kommt obligatorisch für **Aufmaß vor Ort** (akzeptiert keine Bestellungen auf Basis von Kundenmaßen)✅ Bietet einen **schriftlichen Vertrag** mit vollständigen technischen Spezifikationen✅ Verwendet **vorkomprimierte Bänder** (kein Standard-PU-Schaum) außen✅ Eigene **zertifizierte Montageteams**, keine Subunternehmer✅ Mindestens **5 Jahre Garantie** auf Produkt und 2 Jahre auf Montage✅ Kann **Leistungsnachweise** für das Profil vorlegen (IFT Rosenheim oder gleichwertig)
+
+## Der Bestellprozess bei Neofort BIZ
+
+1. **Angebot anfordern** — über das Kontaktformular, Telefon oder WhatsApp
+2. **Kostenlose Fachberatung** — wir besprechen das Projekt, Bauart, Ausrichtung
+3. **Aufmaß vor Ort** — unser Team kommt und misst die genauen Öffnungen
+4. **Individuelles Angebot in 24 Stunden** — mit vollständigen, transparenten technischen Spezifikationen
+5. **Produktion und Lieferung** — 7–14 Werktage für Standardprofile
+6. **nZEB-Montage** — Eigenteams mit Illbruck-Bändern und Blaugelb-Vorblendrahmen
+7. **5 Jahre Garantie** auf Produkt und Montage
+
+## Liefer- und Montagegebiete in Bukarest und Ilfov
+
+Neofort BIZ liefert und montiert Fenster mit erweiterter Dämmung in **allen Stadtbezirken Bukarests** und im Kreis Ilfov: Voluntari, Pipera, Otopeni, Tunari, Buftea, Bragadiru, Popești-Leordeni, Chitila, Pantelimon, Măgurele, Clinceni, Cornetu, Snagov, Balotești.
+
+---
+
+Neofort BIZ — autorisierter Salamander- und Alumil-Händler, nZEB-zertifizierter Einbau in Bukarest und Ilfov. [Kostenloses Angebot anfordern](/de/kontakt).`,
 
       fr: `## Que signifie réellement « isolation avancée » pour les fenêtres ?
 
@@ -196,7 +259,7 @@ Le terme « isolation avancée » est utilisé par de nombreux fournisseurs à B
 
 **Coefficient de transmission thermique Uw ≤ 1,0 W/(m²K)** — le seuil minimum pour la norme nZEB en Roumanie. Le double vitrage standard a Uw = 1,3–1,6 W/(m²K), donc il ne se qualifie pas.
 
-**Triple vitrage** avec deux chambres remplies de gaz argon ou krypton et au moins une vitre Low-E. Le Ug du pack doit être ≤ 0,6 W/(m²K).
+**Pack de triple vitrage** avec deux chambres remplies de gaz argon ou krypton et au moins une vitre Low-E. Le Ug du pack doit être ≤ 0,6 W/(m²K).
 
 **Profilé PVC avec minimum 6 chambres** (profondeur 82–92 mm) ou profilé aluminium avec rupture de pont thermique d'au moins 34 mm, Classe A (parois extérieures ≥ 3 mm).
 
@@ -206,16 +269,46 @@ Le terme « isolation avancée » est utilisé par de nombreux fournisseurs à B
 
 ## Types de fenêtres à isolation avancée disponibles à Bucarest
 
-### 1. Salamander bluEvolution 92 PVC — la référence nZEB
+### 1. Salamander bluEvolution 92 PVC — La référence nZEB
 Profilé 6 chambres, 92 mm de profondeur, 3 joints EPDM, Uf = 0,9 W/(m²K). Équipé de triple vitrage 52 mm, argon, Low-E SGG et espaceur Warm Edge, atteint Uw = 0,66–0,8 W/(m²K) — performance maison passive.
 
-### 2. Salamander bluEvolution 82 PVC — l'équilibre qualité-prix
-6 chambres, 82 mm de profondeur, 3 joints. Avec triple vitrage 44 mm et Low-E atteint Uw = 0,8–0,95 W/(m²K).
+### 2. Salamander bluEvolution 82 PVC — L'équilibre qualité-prix
+6 chambres, 82 mm de profondeur, 3 joints. Avec triple vitrage 44 mm et Low-E atteint Uw = 0,8–0,95 W/(m²K). Recommandé pour les maisons neuves et les rénovations avec budget maîtrisé.
 
-### 3. Alumil S77 Supreme aluminium — pour les projets architecturaux
-Rupture thermique 34 mm — avec triple vitrage et Low-E atteint Uw = 1,0–1,2 W/(m²K). Idéal pour les grandes façades vitrées, bureaux, commercial.
+### 3. Alumil S77 Supreme aluminium — Pour les projets architecturaux
+Rupture thermique 34 mm, Uf = 1,3 W/(m²K) au profilé — avec triple vitrage et Low-E atteint Uw = 1,0–1,2 W/(m²K). Idéal pour les grandes façades vitrées, bureaux, commercial.
 
-Neofort BIZ est distributeur agréé Salamander et Alumil, pose nZEB certifiée à Bucarest et Ilfov. [Demander un devis gratuit](/fr/contact).`,
+## Ce qu'il faut toujours demander dans tout devis
+
+**Par écrit :**
+- Type exact de profilé (fabricant, série, nombre de chambres, profondeur)
+- Ug du pack vitrage (pas seulement « triple » ou « Low-E »)
+- Type d'espaceur (Warm Edge ou standard — différence de 0,1–0,15 W/(m²K))
+- Type de gaz dans les chambres thermiques (argon = standard, krypton = premium)
+- Marque de quincaillerie (Roto, Winkhaus, Maco — pas seulement « quincaillerie de qualité »)
+- Type de pose inclus dans le prix (mousse standard ou nZEB avec bandes précomprimées)
+
+**Demander explicitement :**
+- La pose avec bandes précomprimées Illbruck ou équivalent est-elle incluse ?
+- Les précadres Blaugelb Triotherm+ sont-ils disponibles et à quel coût supplémentaire ?
+
+## Signes qu'un fournisseur est sérieux
+
+✅ Vient obligatoirement pour **métrage sur place** (n'accepte pas de commandes sur la base de mesures du client)✅ Propose un **contrat écrit** avec spécifications techniques complètes✅ Utilise des **bandes précomprimées** (pas de mousse PU standard) à l'extérieur✅ Équipes de pose **propres et certifiées**, pas de sous-traitants✅ Garantie minimum **5 ans** sur produit et 2 ans sur main-d'œuvre✅ Peut fournir les **certificats de performance** du profilé (IFT Rosenheim ou équivalent)
+
+## Le processus de commande chez Neofort BIZ
+
+1. **Demander un devis** — via le formulaire de contact, téléphone ou WhatsApp
+2. **Consultation technique gratuite** — nous discutons du projet, type de construction, orientation
+3. **Métrage sur place** — notre équipe vient mesurer les ouvertures exactes
+4. **Devis personnalisé en 24 heures** — avec spécifications techniques complètes et transparentes
+5. **Production et livraison** — 7 à 14 jours ouvrables pour les profilés standard
+6. **Pose nZEB** — équipes propres avec bandes Illbruck et précadres Blaugelb
+7. **Garantie 5 ans** sur produit et main-d'œuvre
+
+---
+
+Neofort BIZ — distributeur agréé Salamander et Alumil, pose nZEB certifiée à Bucarest et Ilfov. [Demander un devis gratuit](/fr/contact).`,
 
       es: `## ¿Qué significa realmente el "aislamiento avanzado" en ventanas?
 
@@ -223,7 +316,7 @@ El término "aislamiento avanzado" es usado por muchos proveedores en Bucarest s
 
 **Coeficiente de transmisión térmica Uw ≤ 1,0 W/(m²K)** — el umbral mínimo para la norma nZEB en Rumanía. El doble acristalamiento estándar tiene Uw = 1,3–1,6 W/(m²K), por lo que no cumple.
 
-**Triple acristalamiento** con dos cámaras rellenas de argón o kriptón y al menos un vidrio Low-E. El Ug del paquete debe ser ≤ 0,6 W/(m²K).
+**Paquete de triple acristalamiento** con dos cámaras rellenas de argón o kriptón y al menos un vidrio Low-E. El Ug del paquete debe ser ≤ 0,6 W/(m²K).
 
 **Perfil PVC con mínimo 6 cámaras** (profundidad 82–92 mm) o perfil aluminio con rotura de puente térmico de al menos 34 mm, Clase A (paredes exteriores ≥ 3 mm).
 
@@ -233,16 +326,46 @@ El término "aislamiento avanzado" es usado por muchos proveedores en Bucarest s
 
 ## Tipos de ventanas con aislamiento avanzado en Bucarest
 
-### 1. Salamander bluEvolution 92 PVC — el estándar de referencia nZEB
+### 1. Salamander bluEvolution 92 PVC — El estándar de referencia nZEB
 Perfil de 6 cámaras, 92 mm de profundidad, 3 juntas EPDM, Uf = 0,9 W/(m²K). Con triple acristalamiento 52 mm, argón, Low-E SGG y separador Warm Edge, alcanza Uw = 0,66–0,8 W/(m²K) — rendimiento de casa pasiva.
 
-### 2. Salamander bluEvolution 82 PVC — el equilibrio calidad-precio
-6 cámaras, 82 mm de profundidad, 3 juntas. Con triple acristalamiento 44 mm y Low-E alcanza Uw = 0,8–0,95 W/(m²K).
+### 2. Salamander bluEvolution 82 PVC — El equilibrio calidad-precio
+6 cámaras, 82 mm de profundidad, 3 juntas. Con triple acristalamiento 44 mm y Low-E alcanza Uw = 0,8–0,95 W/(m²K). Recomendado para casas nuevas y renovaciones con presupuesto controlado.
 
-### 3. Alumil S77 Supreme aluminio — para proyectos arquitectónicos
-Rotura térmica 34 mm — con triple acristalamiento y Low-E alcanza Uw = 1,0–1,2 W/(m²K). Ideal para grandes fachadas acristaladas, oficinas, comercial.
+### 3. Alumil S77 Supreme aluminio — Para proyectos arquitectónicos
+Rotura térmica 34 mm, Uf = 1,3 W/(m²K) en el perfil — con triple acristalamiento y Low-E alcanza Uw = 1,0–1,2 W/(m²K). Ideal para grandes fachadas acristaladas, oficinas, comercial.
 
-Neofort BIZ es distribuidor autorizado Salamander y Alumil, instalación nZEB certificada en Bucarest e Ilfov. [Solicitar presupuesto gratuito](/es/contact).`,
+## Qué pedir siempre en cualquier presupuesto
+
+**Por escrito:**
+- Tipo exacto de perfil (fabricante, serie, número de cámaras, profundidad)
+- Ug del paquete de acristalamiento (no solo "triple" o "Low-E")
+- Tipo de separador (Warm Edge o estándar — diferencia de 0,1–0,15 W/(m²K))
+- Tipo de gas en las cámaras térmicas (argón = estándar, kriptón = premium)
+- Marca de herraje (Roto, Winkhaus, Maco — no solo "herraje de calidad")
+- Tipo de instalación incluida en el precio (espuma estándar o nZEB con bandas precomprimidas)
+
+**Preguntar explícitamente:**
+- ¿Está incluida la instalación con bandas precomprimidas Illbruck o equivalente?
+- ¿Están disponibles los premarcos Blaugelb Triotherm+ y a qué coste adicional?
+
+## Señales de que un proveedor es serio
+
+✅ Viene obligatoriamente para **mediciones in situ** (no acepta pedidos basados en medidas del cliente)✅ Ofrece un **contrato escrito** con especificaciones técnicas completas✅ Usa **bandas precomprimidas** (no espuma de PU estándar) al exterior✅ Tiene **equipos de instalación propios y certificados**, no subcontratistas✅ Garantía mínima de **5 años** en producto y 2 años en mano de obra✅ Puede proporcionar los **certificados de rendimiento** del perfil (IFT Rosenheim o equivalente)
+
+## El proceso de pedido en Neofort BIZ
+
+1. **Solicitar presupuesto** — a través del formulario de contacto, teléfono o WhatsApp
+2. **Consulta técnica gratuita** — discutimos el proyecto, tipo de construcción, orientación
+3. **Mediciones in situ** — nuestro equipo viene y mide las aperturas exactas
+4. **Presupuesto personalizado en 24 horas** — con especificaciones técnicas completas y transparentes
+5. **Producción y entrega** — 7–14 días hábiles para perfiles estándar
+6. **Instalación nZEB** — equipos propios con bandas Illbruck y premarcos Blaugelb
+7. **Garantía de 5 años** en producto y mano de obra
+
+---
+
+Neofort BIZ — distribuidor autorizado Salamander y Alumil, instalación nZEB certificada en Bucarest e Ilfov. [Solicitar presupuesto gratuito](/es/contact).`,
 
       it: `## Cosa significa veramente "isolamento avanzato" per le finestre?
 
@@ -250,7 +373,7 @@ Il termine "isolamento avanzato" è usato da molti fornitori a Bucarest senza un
 
 **Coefficiente di trasmissione termica Uw ≤ 1,0 W/(m²K)** — la soglia minima per lo standard nZEB in Romania. Il doppio vetro standard ha Uw = 1,3–1,6 W/(m²K), quindi non si qualifica.
 
-**Triplo vetro** con due camere riempite di gas argon o krypton e almeno uno strato di vetro Low-E. Il Ug del pacchetto deve essere ≤ 0,6 W/(m²K).
+**Pacchetto di triplo vetro** con due camere riempite di gas argon o krypton e almeno uno strato di vetro Low-E. Il Ug del pacchetto deve essere ≤ 0,6 W/(m²K).
 
 **Profilo PVC con minimo 6 camere** (profondità 82–92 mm) o profilo alluminio con taglio termico di almeno 34 mm, Classe A (pareti esterne ≥ 3 mm).
 
@@ -260,16 +383,46 @@ Il termine "isolamento avanzato" è usato da molti fornitori a Bucarest senza un
 
 ## Tipi di finestre con isolamento avanzato a Bucarest
 
-### 1. Salamander bluEvolution 92 PVC — lo standard di riferimento nZEB
+### 1. Salamander bluEvolution 92 PVC — Lo standard di riferimento nZEB
 Profilo a 6 camere, 92 mm di profondità, 3 guarnizioni EPDM, Uf = 0,9 W/(m²K). Con triplo vetro 52 mm, argon, Low-E SGG e distanziale Warm Edge, raggiunge Uw = 0,66–0,8 W/(m²K) — prestazioni da casa passiva.
 
-### 2. Salamander bluEvolution 82 PVC — l'equilibrio qualità-prezzo
-6 camere, 82 mm di profondità, 3 guarnizioni. Con triplo vetro 44 mm e Low-E raggiunge Uw = 0,8–0,95 W/(m²K).
+### 2. Salamander bluEvolution 82 PVC — L'equilibrio qualità-prezzo
+6 camere, 82 mm di profondità, 3 guarnizioni. Con triplo vetro 44 mm e Low-E raggiunge Uw = 0,8–0,95 W/(m²K). Consigliato per nuove abitazioni e ristrutturazioni con budget controllato.
 
-### 3. Alumil S77 Supreme alluminio — per progetti architettonici
-Taglio termico 34 mm — con triplo vetro e Low-E raggiunge Uw = 1,0–1,2 W/(m²K). Ideale per grandi facciate vetrate, uffici, commerciale.
+### 3. Alumil S77 Supreme alluminio — Per progetti architettonici
+Taglio termico 34 mm, Uf = 1,3 W/(m²K) al profilo — con triplo vetro e Low-E raggiunge Uw = 1,0–1,2 W/(m²K). Ideale per grandi facciate vetrate, uffici, commerciale.
 
-Neofort BIZ è distributore autorizzato Salamander e Alumil, installazione nZEB certificata a Bucarest e Ilfov. [Richiedi preventivo gratuito](/it/contact).`,
+## Cosa richiedere sempre in qualsiasi preventivo
+
+**Per iscritto:**
+- Tipo esatto di profilo (produttore, serie, numero di camere, profondità)
+- Ug del pacchetto vetrocamera (non solo "triplo" o "Low-E")
+- Tipo di distanziale (Warm Edge o standard — differenza di 0,1–0,15 W/(m²K))
+- Tipo di gas nelle camere termiche (argon = standard, krypton = premium)
+- Marca della ferramenta (Roto, Winkhaus, Maco — non solo "ferramenta di qualità")
+- Tipo di installazione incluso nel prezzo (schiuma standard o nZEB con nastri precompressi)
+
+**Chiedere esplicitamente:**
+- L'installazione con nastri precompressi Illbruck o equivalente è inclusa?
+- Le precornici Blaugelb Triotherm+ sono disponibili e a quale costo aggiuntivo?
+
+## Segnali che un fornitore è serio
+
+✅ Viene obbligatoriamente per **misurazioni in loco** (non accetta ordini basati su misure del cliente)✅ Offre un **contratto scritto** con specifiche tecniche complete✅ Usa **nastri precompressi** (non schiuma PU standard) all'esterno✅ Ha **squadre di installazione proprie e certificate**, non subappaltatori✅ Garanzia minima di **5 anni** su prodotto e 2 anni su manodopera✅ Può fornire i **certificati di prestazione** del profilo (IFT Rosenheim o equivalente)
+
+## Il processo di ordinazione da Neofort BIZ
+
+1. **Richiedere un preventivo** — tramite il modulo di contatto, telefono o WhatsApp
+2. **Consulenza tecnica gratuita** — discutiamo il progetto, tipo di costruzione, orientamento
+3. **Misurazioni in loco** — il nostro team viene e misura le aperture esatte
+4. **Preventivo personalizzato in 24 ore** — con specifiche tecniche complete e trasparenti
+5. **Produzione e consegna** — 7–14 giorni lavorativi per profili standard
+6. **Installazione nZEB** — team propri con nastri Illbruck e precornici Blaugelb
+7. **Garanzia di 5 anni** su prodotto e manodopera
+
+---
+
+Neofort BIZ — distributore autorizzato Salamander e Alumil, installazione nZEB certificata a Bucarest e Ilfov. [Richiedi preventivo gratuito](/it/contact).`,
     },
   },
 
@@ -416,143 +569,382 @@ Conform **Legii 372/2005** (modificată) și **HG 765/2016**, orice clădire nou
 
 Neofort BIZ execută montaje cu bandă precomprimată Illbruck și precadre Blaugelb Triotherm+ în București și Ilfov. [Solicită ofertă montaj nZEB](/ro/contact).`,
 
-      en: `## Why perimeter insulation matters more than the window profile
+      en: `## Why Perimeter Insulation Matters More Than the Window Profile
 
-You can install the best Salamander bluEvolution 92 profile with triple glazing and Warm Edge, but if **the gap between frame and masonry isn't correctly sealed**, you lose 30–50% of the window's thermal efficiency. Thermal imaging of buildings with recently replaced windows frequently shows warm streaks around frames — a clear sign that perimeter insulation was neglected.
+You can install the best Salamander bluEvolution 92 profile with triple glazing and Warm Edge spacer, but if **the gap between frame and masonry isn't correctly sealed**, you lose 30–50% of the window's thermal efficiency. Thermal imaging of buildings with recently replaced windows frequently shows warm streaks around frames — a clear sign that perimeter insulation was neglected.
 
-## The 3 main perimeter insulation options
+In Romania, the **nZEB (Nearly Zero Energy Building)** standard — mandatory for new constructions since 2021 and major renovations — explicitly requires sealing in three zones: interior (vapour barrier), middle (thermal and acoustic insulation) and exterior (water and wind protection).
 
-### Option 1 — Polyurethane foam (standard installation)
-Foam fills the gap between frame and masonry. At exterior, silicone sealant or plaster is applied.
+## The 3 Main Perimeter Insulation Options
 
-**Major disadvantages:** Cracks in 3–5 years under UV and temperature changes. Allows water infiltration after degradation. **Does not meet nZEB requirements** — no vapour barrier properties.
+### Option 1 — Polyurethane Foam (Standard Installation)
 
-### Option 2 — Pre-compressed band (professional installation)
-Pre-compressed band (Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) is applied on the window frame before installation. After mounting it expands gradually and seals the external perimeter.
+**How it works:** Foam is injected into the gap between frame and masonry, expands and fills the gap. Silicone sealant or plaster is applied at the exterior.
 
-**Three functions:** exterior waterproofing (≥ 600 Pa tested), thermal and acoustic insulation, interior vapour barrier.
+**Advantages:**
+- Low cost — included in any standard quote
+- Easy to apply — any installer uses it
+- Completely fills irregular gaps
 
-**Advantages:** Meets nZEB requirements. Superior durability (20+ years). Significantly better acoustic insulation than foam. No additional finishing work at exterior.
+**Serious disadvantages:**
+- Cracks in 3–5 years under UV and temperature variation
+- Allows water infiltration after degradation
+- Poor acoustic insulation coefficient
+- **Does not meet nZEB requirements** — no vapour barrier properties
+- Once cracked, allows vapour to migrate toward the wall structure → condensation → mould
 
-### Option 3 — Blaugelb Triotherm+ thermal preframes (premium nZEB installation)
-The preframe is a thermal composite frame (λ = 0.035 W/mK) mounted **before the window**, directly on the wall structure. The window is subsequently mounted on the preframe, not directly in the masonry.
+**Conclusion:** Foam alone = standard installation, acceptable for simple renovations, inadequate for nZEB standards.
 
-**Key advantage:** Completely eliminates thermal bridges at the window perimeter — the frame no longer directly contacts the masonry. Allows window mounting in the **thermal insulation plane** of the wall.
+### Option 2 — Pre-Compressed Band (Professional Installation)
 
-**When required:** New nZEB/Passive House constructions, major envelope renovations.
+**How it works:** The pre-compressed band (e.g. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) is a polyurethane foam impregnated, compressed and stored rolled. It is applied to the window frame before installation. After installation it expands gradually (hours–days) and seals the external perimeter.
 
-## What nZEB requires in Romania
-Any new building or major renovation must achieve primary energy consumption ≤ 100 kWh/m²/year. Windows must have Uw ≤ 1.0 W/(m²K) and installation must eliminate perimeter thermal bridges. **Polyurethane foam alone no longer meets these requirements.**
+**The 3 functions of the pre-compressed band:**
+1. **Exterior** — waterproofing, resists driving rain (tested ≥ 600 Pa) and UV
+2. **Middle** — thermal and acoustic insulation
+3. **Interior** — vapour barrier (reduces vapour migration from interior toward gap)
+
+**Advantages:**
+- Meets nZEB requirements
+- Superior durability vs silicone sealant (20+ years)
+- Water and wind sealing without cracking
+- Significantly better acoustic insulation than foam
+- No additional exterior finishing work required
+
+**Disadvantages:**
+- Additional cost vs standard installation (10–20% of installation value)
+- Requires correct application — band thickness must match gap width
+
+**Conclusion:** Pre-compressed band = minimum standard for professional nZEB installation. Recommended for all new projects and energy-efficient renovations.
+
+### Option 3 — Blaugelb Triotherm+ Thermal Preframes (Premium nZEB Installation)
+
+**How it works:** The Blaugelb Triotherm+ preframe is a thermal composite frame (thermal conductivity λ = 0.035 W/mK) that is mounted **before the window**, directly on the wall structure or in the thermal insulation plane. The window is subsequently mounted on the preframe, not directly in the masonry.
+
+**Key advantages:**
+- Completely eliminates the thermal bridge at the window perimeter — the frame no longer directly contacts the masonry
+- Allows the window to be mounted in the **thermal insulation plane** of the wall (Passive House requirement)
+- Makes future repair or replacement easier without affecting finishes
+- Certified for **nZEB and passive house** constructions
+
+**When it's required:**
+- New constructions to nZEB or Passive House standard
+- Renovations with complete thermal envelope refurbishment
+- Thick insulation walls (where the window must be mounted outside the masonry)
+
+**Cost:** €40–80/piece, depending on dimensions.
+
+## Direct Comparison — Which Should I Choose?
+
+| Criterion | Standard foam | Pre-compressed band | Blaugelb preframe |
+|---|---|---|---|
+| nZEB compliance | ❌ No | ✅ Yes | ✅ Yes (premium) |
+| Durability | 3–5 years | 20+ years | 30+ years |
+| Acoustic insulation | Poor | Good | Very good |
+| Vapour barrier | ❌ No | ✅ Partial | ✅ Complete |
+| Relative cost | Included standard | +10–20% | +€40–80/piece |
+| Recommendation | Simple renovation | Any new project | nZEB/Passive House |
+
+## What nZEB Requires in Romania
+
+According to **Law 372/2005** (amended) and **GD 765/2016**, any new building or major renovation must achieve primary energy consumption ≤ 100 kWh/m²/year. Windows must have Uw ≤ 1.0 W/(m²K) and installation must eliminate perimeter thermal bridges. In practice, **polyurethane foam alone no longer meets these requirements** — pre-compressed band or preframes are required.
+
+---
 
 Neofort BIZ installs with Illbruck pre-compressed bands and Blaugelb Triotherm+ preframes in Bucharest and Ilfov. [Request nZEB installation quote](/en/contact).`,
 
       de: `## Warum Perimeterdämmung wichtiger ist als das Fensterprofil
 
-Sie können das beste Salamander bluEvolution 92-Profil mit Dreifachverglasung und Warm Edge einbauen, aber wenn **die Fuge zwischen Rahmen und Mauerwerk nicht korrekt abgedichtet ist**, verlieren Sie 30–50% der Wärmedämmleistung des Fensters. Wärmebilder von Gebäuden mit kürzlich ausgetauschten Fenstern zeigen häufig warme Streifen um die Rahmen — ein klares Zeichen für vernachlässigte Perimeterdämmung.
+Sie können das beste Salamander bluEvolution 92-Profil mit Dreifachverglasung und Warm-Edge-Abstandhalter einbauen, aber wenn **die Fuge zwischen Rahmen und Mauerwerk nicht korrekt abgedichtet ist**, verlieren Sie 30–50% der Wärmedämmleistung des Fensters. Wärmebilder von Gebäuden mit kürzlich ausgetauschten Fenstern zeigen häufig warme Streifen um die Rahmen — ein klares Zeichen, dass die Perimeterdämmung vernachlässigt wurde.
+
+In Rumänien verlangt der **nZEB-Standard** (Nearly Zero Energy Building) — seit 2021 für Neubauten und Kernsanierungen verpflichtend — ausdrücklich die Abdichtung in drei Zonen: Innen (Dampfsperre), Mitte (Wärme- und Schallschutz) und Außen (Wasser- und Windschutz).
 
 ## Die 3 Hauptoptionen der Perimeterdämmung
 
 ### Option 1 — Polyurethanschaum (Standardmontage)
-Schaum füllt die Fuge zwischen Rahmen und Mauerwerk. Außen wird Silikon oder Putz aufgetragen.
 
-**Schwerwiegende Nachteile:** Reißt in 3–5 Jahren durch UV und Temperaturschwankungen. **Erfüllt die nZEB-Anforderungen nicht** — keine Dampfsperreigenschaften.
+**Wie es funktioniert:** Schaum wird in die Fuge zwischen Rahmen und Mauerwerk injiziert, dehnt sich aus und füllt den Spalt. Außen wird Silikon oder Putz aufgetragen.
 
-### Option 2 — Vorkomprimiertes Band (professionelle Montage)
-Vorkomprimiertes Band (Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) wird vor der Montage auf den Fensterrahmen aufgetragen und dehnt sich danach aus.
+**Vorteile:**
+- Geringe Kosten — in jedem Standardangebot enthalten
+- Einfach anzuwenden — jeder Installateur verwendet es
+- Füllt unregelmäßige Fugen vollständig
 
-**Drei Funktionen:** Außen: Abdichtung gegen Schlagregen (≥ 600 Pa getestet). Mitte: Wärme- und Schallschutz. Innen: Dampfsperre.
+**Schwerwiegende Nachteile:**
+- Reißt in 3–5 Jahren durch UV und Temperaturschwankungen
+- Lässt nach Degradation Wasserinfiltration zu
+- Geringer Schallschutzkoeffizient
+- **Erfüllt die nZEB-Anforderungen nicht** — keine Dampfsperreigenschaften
+- Einmal gerissen, ermöglicht Feuchtigkeitsmigration zur Wandstruktur → Kondensat → Schimmel
 
-**Vorteile:** Erfüllt nZEB-Anforderungen. Überlegene Haltbarkeit (20+ Jahre). Deutlich besserer Schallschutz als Schaum.
+### Option 2 — Vorkomprimiertes Band (Professionelle Montage)
 
-### Option 3 — Blaugelb Triotherm+ Vorblendrahmen (Premium nZEB)
-Der Vorblendrahmen aus Wärmedämmverbundwerkstoff (λ = 0,035 W/mK) wird **vor dem Fenster** montiert. Das Fenster wird auf dem Vorblendrahmen, nicht direkt im Mauerwerk befestigt.
+**Wie es funktioniert:** Das vorkomprimierte Band (z.B. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) ist ein imprägnierter, komprimierter und gerollt gelagerter Polyurethanschaum. Es wird vor der Montage auf den Fensterrahmen aufgetragen und dehnt sich anschließend allmählich aus.
 
-**Hauptvorteil:** Eliminiert vollständig Wärmebrücken am Fensterperimeter. Ermöglicht Montage im **Wärmedämmebene** der Wand.
+**Die 3 Funktionen des vorkomprimierten Bandes:**
+1. **Außen** — Abdichtung, widersteht Schlagregen (getestet ≥ 600 Pa) und UV
+2. **Mitte** — Wärme- und Schalldämmung
+3. **Innen** — Dampfsperre
 
-**Wann erforderlich:** Neubauten nach nZEB/Passivhaus-Standard, umfassende Hüllenrenovierungen.
+**Vorteile:**
+- Erfüllt nZEB-Anforderungen
+- Überlegene Haltbarkeit (20+ Jahre)
+- Signifikant besserer Schallschutz als Schaum
+- Keine zusätzlichen Außenfinisharbeiten erforderlich
+
+**Fazit:** Vorkomprimiertes Band = Mindeststandard für professionelle nZEB-Montage.
+
+### Option 3 — Blaugelb Triotherm+ Wärmedämmende Vorblendrahmen (Premium nZEB)
+
+**Wie es funktioniert:** Der Blaugelb Triotherm+ Vorblendrahmen ist ein Wärmedämmverbund-Rahmen (Wärmeleitfähigkeit λ = 0,035 W/mK), der **vor dem Fenster** montiert wird. Das Fenster wird anschließend auf dem Vorblendrahmen befestigt, nicht direkt im Mauerwerk.
+
+**Hauptvorteile:**
+- Eliminiert vollständig die Wärmebrücke am Fensterperimeter
+- Ermöglicht Fenstermontage in der **Wärmedämmebene** der Wand
+- Erleichtert spätere Reparatur oder Austausch ohne Beeinträchtigung der Verkleidungen
+- Zertifiziert für **nZEB und Passivhäuser**
+
+**Wann erforderlich:** Neubauten nach nZEB/Passivhaus-Standard, umfassende Hüllenrenovierungen, Wände mit dicker Dämmung.
+
+**Kosten:** 40–80 €/Stück je nach Maßen.
+
+## Direktvergleich — Was soll ich wählen?
+
+| Kriterium | Standardschaum | Vorkomprimiertes Band | Blaugelb-Vorblendrahmen |
+|---|---|---|---|
+| nZEB-Konformität | ❌ Nein | ✅ Ja | ✅ Ja (Premium) |
+| Haltbarkeit | 3–5 Jahre | 20+ Jahre | 30+ Jahre |
+| Schallschutz | Gering | Gut | Sehr gut |
+| Dampfsperre | ❌ Nein | ✅ Partiell | ✅ Vollständig |
+| Relative Kosten | Standard inklusive | +10–20% | +40–80 €/Stück |
+| Empfehlung | Einfache Renovierung | Jedes neue Projekt | nZEB/Passivhaus |
+
+## Was nZEB in Rumänien verlangt
+
+Gemäß **Gesetz 372/2005** (geändert) und **GD 765/2016** muss jedes neue Gebäude oder jede Kernsanierung einen Primärenergieverbrauch ≤ 100 kWh/m²/Jahr erreichen. Fenster müssen Uw ≤ 1,0 W/(m²K) haben und die Montage muss Perimeterwärmebrücken eliminieren. **Polyurethanschaum allein erfüllt diese Anforderungen nicht mehr.**
+
+---
 
 Neofort BIZ montiert mit Illbruck-Bändern und Blaugelb Triotherm+ Vorblendrahmen in Bukarest und Ilfov. [nZEB-Montage anfragen](/de/kontakt).`,
 
-      fr: `## Pourquoi l'isolation périphérique est plus importante que le profilé
+      fr: `## Pourquoi l'isolation périphérique compte plus que le profilé de fenêtre
 
 Vous pouvez installer le meilleur profilé Salamander bluEvolution 92 avec triple vitrage et espaceur Warm Edge, mais si **le joint entre cadre et maçonnerie n'est pas correctement étanché**, vous perdez 30–50% de l'efficacité thermique de la fenêtre. Les images thermiques de bâtiments avec fenêtres récemment remplacées montrent fréquemment des bandes chaudes autour des cadres — signe clair que l'isolation périphérique a été négligée.
+
+En Roumanie, la norme **nZEB** — obligatoire pour les constructions neuves depuis 2021 et les rénovations majeures — exige explicitement l'étanchéité dans trois zones : intérieur (pare-vapeur), milieu (isolation thermique et acoustique) et extérieur (protection à l'eau et au vent).
 
 ## Les 3 principales options d'isolation périphérique
 
 ### Option 1 — Mousse polyuréthane (pose standard)
-La mousse remplit le joint entre cadre et maçonnerie. À l'extérieur, du silicone ou de l'enduit est appliqué.
 
-**Inconvénients majeurs :** Se fissure en 3–5 ans sous UV et variations thermiques. **Ne répond pas aux exigences nZEB** — pas de propriétés pare-vapeur.
+**Comment ça marche :** La mousse est injectée dans le joint entre cadre et maçonnerie, se dilate et remplit l'espace. À l'extérieur, du silicone ou de l'enduit est appliqué.
+
+**Avantages :**
+- Faible coût — inclus dans tout devis standard
+- Facile à appliquer — tout installateur l'utilise
+- Remplit complètement les joints irréguliers
+
+**Inconvénients majeurs :**
+- Se fissure en 3–5 ans sous UV et variations de température
+- Permet les infiltrations d'eau après dégradation
+- **Ne répond pas aux exigences nZEB** — pas de propriétés pare-vapeur
+- Une fois fissuré, permet la migration de vapeur vers la structure du mur → condensation → moisissures
 
 ### Option 2 — Bande précomprimée (pose professionnelle)
-La bande précomprimée (Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) est appliquée sur le cadre avant la pose. Après installation elle se dilate progressivement et scelle le périmètre extérieur.
 
-**Trois fonctions :** Étanchéité à l'eau (≥ 600 Pa testé). Isolation thermique et phonique. Pare-vapeur intérieur.
+**Comment ça marche :** La bande précomprimée (ex. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) est une mousse polyuréthane imprégnée, comprimée et stockée enroulée. Elle est appliquée sur le cadre avant la pose et se dilate progressivement après installation.
 
-**Avantages :** Conforme aux exigences nZEB. Durabilité supérieure (20+ ans). Isolation phonique nettement meilleure que la mousse.
+**Les 3 fonctions de la bande précomprimée :**
+1. **Extérieur** — imperméabilisation, résiste à la pluie battante (testé ≥ 600 Pa) et aux UV
+2. **Milieu** — isolation thermique et acoustique
+3. **Intérieur** — pare-vapeur
+
+**Avantages :**
+- Conforme aux exigences nZEB
+- Durabilité supérieure (20+ ans)
+- Isolation acoustique nettement meilleure que la mousse
+- Pas de travaux de finition extérieure supplémentaires
+
+**Conclusion :** Bande précomprimée = standard minimum pour une pose professionnelle nZEB.
 
 ### Option 3 — Précadres thermoïsolants Blaugelb Triotherm+ (nZEB premium)
-Le précadre en matériau composite thermique (λ = 0,035 W/mK) est monté **avant la fenêtre** sur la structure du mur. La fenêtre est ensuite montée sur le précadre.
 
-**Avantage clé :** Élimine complètement les ponts thermiques au périmètre. Permet le montage dans le **plan de l'isolation thermique** du mur.
+**Comment ça marche :** Le précadre Blaugelb Triotherm+ est un cadre en matériau composite thermique (conductivité thermique λ = 0,035 W/mK) monté **avant la fenêtre**, directement sur la structure du mur. La fenêtre est ensuite posée sur le précadre.
 
-**Quand obligatoire :** Constructions neuves nZEB/Maison passive, rénovations majeures de l'enveloppe.
+**Avantages clés :**
+- Élimine complètement le pont thermique au périmètre de la fenêtre
+- Permet le montage dans le **plan de l'isolation thermique** du mur
+- Facilite la réparation ou le remplacement futur sans affecter les finitions
+- Certifié pour les constructions **nZEB et maison passive**
+
+**Quand c'est obligatoire :** Constructions neuves nZEB/Maison passive, rénovations complètes de l'enveloppe, murs à forte épaisseur d'isolation.
+
+**Coût :** 40–80 €/pièce selon les dimensions.
+
+## Comparaison directe — que choisir ?
+
+| Critère | Mousse standard | Bande précomprimée | Précadre Blaugelb |
+|---|---|---|---|
+| Conformité nZEB | ❌ Non | ✅ Oui | ✅ Oui (premium) |
+| Durabilité | 3–5 ans | 20+ ans | 30+ ans |
+| Isolation acoustique | Faible | Bonne | Très bonne |
+| Pare-vapeur | ❌ Non | ✅ Partiel | ✅ Complet |
+| Coût relatif | Inclus standard | +10–20% | +40–80 €/pièce |
+| Recommandation | Rénovation simple | Tout projet neuf | nZEB/Maison passive |
+
+## Ce que nZEB exige en Roumanie
+
+Selon la **Loi 372/2005** (modifiée) et le **GD 765/2016**, tout bâtiment neuf ou rénovation majeure doit atteindre une consommation d'énergie primaire ≤ 100 kWh/m²/an. Les fenêtres doivent avoir Uw ≤ 1,0 W/(m²K) et la pose doit éliminer les ponts thermiques périmétriques. **La mousse polyuréthane seule ne répond plus à ces exigences.**
+
+---
 
 Neofort BIZ réalise des poses avec bandes Illbruck et précadres Blaugelb Triotherm+ à Bucarest et Ilfov. [Demander un devis pose nZEB](/fr/contact).`,
 
-      es: `## Por qué el aislamiento perimetral importa más que el perfil
+      es: `## Por qué el aislamiento perimetral importa más que el perfil de ventana
 
-Puede instalar el mejor perfil Salamander bluEvolution 92 con triple acristalamiento y separador Warm Edge, pero si **la junta entre marco y mampostería no está correctamente sellada**, pierde el 30–50% de la eficiencia térmica de la ventana. Las imágenes térmicas de edificios con ventanas recientemente sustituidas muestran con frecuencia franjas calientes alrededor de los marcos — señal clara de que el aislamiento perimetral fue descuidado.
+Puede instalar el mejor perfil Salamander bluEvolution 92 con triple acristalamiento y separador Warm Edge, pero si **la junta entre marco y mampostería no está correctamente sellada**, pierde el 30–50% de la eficiencia térmica de la ventana. Las imágenes térmicas de edificios con ventanas recientemente sustituidas muestran frecuentemente franjas calientes alrededor de los marcos — señal clara de que el aislamiento perimetral fue descuidado.
+
+En Rumanía, la norma **nZEB** — obligatoria para nuevas construcciones desde 2021 y renovaciones importantes — exige explícitamente el sellado en tres zonas: interior (barrera de vapor), media (aislamiento térmico y acústico) y exterior (protección contra agua y viento).
 
 ## Las 3 principales opciones de aislamiento perimetral
 
 ### Opción 1 — Espuma de poliuretano (instalación estándar)
-La espuma rellena la junta entre marco y mampostería. Al exterior se aplica silicona o revoco.
 
-**Desventajas graves:** Se agrieta en 3–5 años bajo UV y variaciones de temperatura. **No cumple los requisitos nZEB** — sin propiedades de barrera de vapor.
+**Cómo funciona:** La espuma se inyecta en la junta entre marco y mampostería, se expande y llena el espacio. Al exterior se aplica silicona o revoco.
+
+**Ventajas:**
+- Bajo coste — incluido en cualquier presupuesto estándar
+- Fácil de aplicar — cualquier instalador la usa
+- Rellena completamente las juntas irregulares
+
+**Desventajas graves:**
+- Se agrieta en 3–5 años bajo UV y variaciones de temperatura
+- Permite infiltraciones de agua tras la degradación
+- **No cumple los requisitos nZEB** — sin propiedades de barrera de vapor
+- Una vez agrietada, permite la migración de vapor hacia la estructura del muro → condensación → moho
 
 ### Opción 2 — Banda precomprimida (instalación profesional)
-La banda precomprimida (Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) se aplica sobre el marco antes de la instalación y luego se expande sellando el perímetro exterior.
 
-**Tres funciones:** Impermeabilización exterior (≥ 600 Pa testado). Aislamiento térmico y acústico. Barrera de vapor interior.
+**Cómo funciona:** La banda precomprimida (ej. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) se aplica sobre el marco antes de la instalación y luego se expande progresivamente sellando el perímetro exterior.
 
-**Ventajas:** Cumple requisitos nZEB. Durabilidad superior (20+ años). Aislamiento acústico significativamente mejor que la espuma.
+**Las 3 funciones de la banda precomprimida:**
+1. **Exterior** — impermeabilización, resistente a lluvia batida (testado ≥ 600 Pa) y UV
+2. **Media** — aislamiento térmico y acústico
+3. **Interior** — barrera de vapor
+
+**Ventajas:**
+- Cumple requisitos nZEB
+- Durabilidad superior (20+ años)
+- Aislamiento acústico significativamente mejor que la espuma
+- No requiere trabajos adicionales de acabado exterior
+
+**Conclusión:** Banda precomprimida = estándar mínimo para instalación profesional nZEB.
 
 ### Opción 3 — Premarcos termoaislantes Blaugelb Triotherm+ (nZEB premium)
-El premarco de material compuesto térmico (λ = 0,035 W/mK) se monta **antes de la ventana** sobre la estructura del muro. La ventana se monta posteriormente sobre el premarco.
 
-**Ventaja clave:** Elimina completamente los puentes térmicos en el perímetro. Permite el montaje en el **plano del aislamiento térmico** del muro.
+**Cómo funciona:** El premarco Blaugelb Triotherm+ es un marco de material compuesto térmico (conductividad térmica λ = 0,035 W/mK) que se monta **antes de la ventana**. La ventana se monta posteriormente sobre el premarco.
 
-**Cuándo es obligatorio:** Nuevas construcciones nZEB/Casa Pasiva, renovaciones mayores de la envolvente.
+**Ventajas clave:**
+- Elimina completamente el puente térmico en el perímetro de la ventana
+- Permite el montaje en el **plano del aislamiento térmico** del muro
+- Facilita la reparación o sustitución futura sin afectar los acabados
+- Certificado para construcciones **nZEB y casa pasiva**
+
+**Cuándo es obligatorio:** Nuevas construcciones nZEB/Casa Pasiva, renovaciones completas de la envolvente, muros con gran espesor de aislamiento.
+
+**Coste:** 40–80 €/ud según dimensiones.
+
+## Comparación directa — ¿qué elegir?
+
+| Criterio | Espuma estándar | Banda precomprimida | Premarco Blaugelb |
+|---|---|---|---|
+| Conformidad nZEB | ❌ No | ✅ Sí | ✅ Sí (premium) |
+| Durabilidad | 3–5 años | 20+ años | 30+ años |
+| Aislamiento acústico | Deficiente | Bueno | Muy bueno |
+| Barrera de vapor | ❌ No | ✅ Parcial | ✅ Completa |
+| Coste relativo | Incluido estándar | +10–20% | +40–80 €/ud |
+| Recomendación | Renovación simple | Cualquier proyecto nuevo | nZEB/Casa Pasiva |
+
+## Qué exige nZEB en Rumanía
+
+Según la **Ley 372/2005** (modificada) y el **GD 765/2016**, cualquier edificio nuevo o renovación importante debe alcanzar un consumo de energía primaria ≤ 100 kWh/m²/año. Las ventanas deben tener Uw ≤ 1,0 W/(m²K) y la instalación debe eliminar los puentes térmicos perimetrales. **La espuma de poliuretano sola ya no cumple estos requisitos.**
+
+---
 
 Neofort BIZ instala con bandas Illbruck y premarcos Blaugelb Triotherm+ en Bucarest e Ilfov. [Solicitar presupuesto instalación nZEB](/es/contact).`,
 
-      it: `## Perché l'isolamento perimetrale conta più del profilo
+      it: `## Perché l'isolamento perimetrale conta più del profilo della finestra
 
 Puoi installare il miglior profilo Salamander bluEvolution 92 con triplo vetro e distanziale Warm Edge, ma se **il giunto tra telaio e muratura non è correttamente sigillato**, perdi il 30–50% dell'efficienza termica della finestra. Le immagini termiche di edifici con finestre recentemente sostituite mostrano frequentemente strisce calde attorno ai telai — segnale chiaro che l'isolamento perimetrale è stato trascurato.
+
+In Romania, lo standard **nZEB** — obbligatorio per le nuove costruzioni dal 2021 e le ristrutturazioni importanti — richiede esplicitamente la sigillatura in tre zone: interno (barriera vapore), medio (isolamento termico e acustico) ed esterno (protezione da acqua e vento).
 
 ## Le 3 principali opzioni di isolamento perimetrale
 
 ### Opzione 1 — Schiuma poliuretanica (installazione standard)
-La schiuma riempie il giunto tra telaio e muratura. All'esterno si applica silicone o intonaco.
 
-**Svantaggi gravi:** Si incrina in 3–5 anni sotto UV e variazioni di temperatura. **Non soddisfa i requisiti nZEB** — nessuna proprietà di barriera vapore.
+**Come funziona:** La schiuma viene iniettata nel giunto tra telaio e muratura, si espande e riempie lo spazio. All'esterno si applica silicone o intonaco.
+
+**Vantaggi:**
+- Basso costo — incluso in qualsiasi preventivo standard
+- Facile da applicare — qualsiasi installatore la usa
+- Riempie completamente le giunzioni irregolari
+
+**Svantaggi gravi:**
+- Si incrina in 3–5 anni sotto UV e variazioni di temperatura
+- Permette infiltrazioni d'acqua dopo la degradazione
+- **Non soddisfa i requisiti nZEB** — nessuna proprietà di barriera vapore
+- Una volta incrinata, permette la migrazione di vapore verso la struttura del muro → condensa → muffa
 
 ### Opzione 2 — Nastro precompresso (installazione professionale)
-Il nastro precompresso (Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) viene applicato sul telaio prima dell'installazione. Dopo il montaggio si espande progressivamente sigillando il perimetro esterno.
 
-**Tre funzioni:** Impermeabilizzazione esterna (≥ 600 Pa testato). Isolamento termico e acustico. Barriera vapore interna.
+**Come funziona:** Il nastro precompresso (es. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) viene applicato sul telaio prima dell'installazione e si espande progressivamente sigillando il perimetro esterno.
 
-**Vantaggi:** Soddisfa i requisiti nZEB. Durabilità superiore (20+ anni). Isolamento acustico significativamente migliore della schiuma.
+**Le 3 funzioni del nastro precompresso:**
+1. **Esterno** — impermeabilizzazione, resistente alla pioggia battente (testato ≥ 600 Pa) e ai raggi UV
+2. **Medio** — isolamento termico e acustico
+3. **Interno** — barriera vapore
+
+**Vantaggi:**
+- Soddisfa i requisiti nZEB
+- Durabilità superiore (20+ anni)
+- Isolamento acustico significativamente migliore della schiuma
+- Non richiede lavori aggiuntivi di finitura esterna
+
+**Conclusione:** Nastro precompresso = standard minimo per installazione professionale nZEB.
 
 ### Opzione 3 — Precornici termoisolanti Blaugelb Triotherm+ (nZEB premium)
-La precornice in materiale composito termico (λ = 0,035 W/mK) viene montata **prima della finestra** sulla struttura del muro. La finestra viene successivamente montata sulla precornice.
 
-**Vantaggio chiave:** Elimina completamente i ponti termici al perimetro. Permette il montaggio nel **piano dell'isolamento termico** del muro.
+**Come funziona:** La precornice Blaugelb Triotherm+ è un telaio in materiale composito termico (conduttività termica λ = 0,035 W/mK) montato **prima della finestra**. La finestra viene successivamente montata sulla precornice, non direttamente nella muratura.
 
-**Quando obbligatorio:** Nuove costruzioni nZEB/Casa Passiva, ristrutturazioni maggiori dell'involucro.
+**Vantaggi chiave:**
+- Elimina completamente il ponte termico al perimetro della finestra
+- Permette il montaggio nel **piano dell'isolamento termico** del muro
+- Facilita la riparazione o sostituzione futura senza influire sui rivestimenti
+- Certificato per costruzioni **nZEB e casa passiva**
 
-Neofort BIZ installa con nastri Illbruck e precornici Blaugelb Triotherm+ a Bucarest e Ilfov. [Richiedi preventivo installazione nZEB](/it/contact).`,
+**Quando è obbligatorio:** Nuove costruzioni nZEB/Casa Passiva, ristrutturazioni complete dell'involucro, pareti con grande spessore di isolamento.
+
+**Costo:** 40–80 €/pezzo in base alle dimensioni.
+
+## Confronto diretto — cosa scegliere?
+
+| Criterio | Schiuma standard | Nastro precompresso | Precornice Blaugelb |
+|---|---|---|---|
+| Conformità nZEB | ❌ No | ✅ Sì | ✅ Sì (premium) |
+| Durabilità | 3–5 anni | 20+ anni | 30+ anni |
+| Isolamento acustico | Scarso | Buono | Molto buono |
+| Barriera vapore | ❌ No | ✅ Parziale | ✅ Completa |
+| Costo relativo | Incluso standard | +10–20% | +40–80 €/pezzo |
+| Raccomandazione | Ristrutturazione semplice | Qualsiasi nuovo progetto | nZEB/Casa Passiva |
+
+## Cosa richiede nZEB in Romania
+
+Secondo la **Legge 372/2005** (modificata) e il **GD 765/2016**, qualsiasi nuovo edificio o ristrutturazione importante deve raggiungere un consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre devono avere Uw ≤ 1,0 W/(m²K) e l'installazione deve eliminare i ponti termici perimetrici. **La schiuma poliuretanica da sola non soddisfa più questi requisiti.**
+
+---
+
+Neofort BIZ installa con nastri Illbruck e precornici Blaugelb Triotherm+ a Bucarest e Ilfov. [Richiedere preventivo installazione nZEB](/it/contact).`,
     },
   },
 
@@ -675,11 +1067,11 @@ Neofort BIZ furnizează și montează jaluzele exterioare în **toate sectoarele
 
 Neofort BIZ este distribuitor autorizat Somfy și montator certificat pentru sisteme de umbrire în București și Ilfov. Consultanță gratuită — [solicită ofertă](/ro/contact).`,
 
-      en: `## Exterior blinds in Bucharest — what options exist in 2026?
+      en: `## Exterior Blinds in Bucharest — What Options Exist in 2026?
 
-The shading systems market in Bucharest has diversified enormously in recent years. If previously the options were limited to aluminium roller shutters, today you can choose from a wide range: **Raffstore exterior venetian blinds**, zipscreen, automatic pergolas, shutters and awnings. This guide focuses on **exterior blinds** — differences from classic shutters, real 2026 prices, delivery areas and installation in Bucharest and Ilfov.
+The shading systems market in Bucharest has diversified enormously in recent years. Where once the options were limited to aluminium roller shutters, today you can choose from a wide range: **Raffstore exterior venetian blinds**, zipscreen, automatic pergolas, shutters and awnings. This guide focuses on **exterior blinds** — differences from classic shutters, real 2026 prices, delivery areas and installation in Bucharest and Ilfov.
 
-## What are Raffstore exterior blinds?
+## What Are Raffstore Exterior Blinds?
 
 Exterior venetian blinds (**Raffstore** or **C80/Z90 blinds**) are shading systems with **horizontal aluminium slats of 80–90 mm** that can tilt between 0° and 90°. Unlike roller shutters that lower like a shutter, Raffstore slats allow you to simultaneously control light and visibility — an essential feature for offices, south/west-facing apartments and homes with glazed facades.
 
@@ -690,18 +1082,24 @@ Exterior venetian blinds (**Raffstore** or **C80/Z90 blinds**) are shading syste
 - Modern appearance, integrable in contemporary facades
 - Available with wind and light sensors for automatic retraction
 
-## Types of exterior blinds available in Bucharest
+**When they are not suitable:**
+- For block apartments with a shared facade (installation requires residents' association approval)
+- If the budget is limited — they cost more than standard roller shutters
 
-### 1. Exterior venetian blinds with 80 mm slats (Raffstore C80)
+## Types of Exterior Blinds Available in Bucharest
+
+### 1. Exterior Venetian Blinds with 80 mm Slats (Raffstore C80)
 The standard model for residential and commercial use. 80 mm lacquered aluminium slats, side guides in cable or rail, top box with or without cover. Manual actuation with strap or electric with Somfy Sunea io motor.
 
-### 2. Z90 exterior blinds (90 mm slats, Z profile)
+### 2. Z90 Exterior Blinds (90 mm Slats, Z Profile)
 The Z profile of the 90 mm slat offers superior rigidity and better light sealing in the closed position. Recommended for large windows (over 2 m wide) and facades exposed to strong wind.
 
-### 3. Zipscreen — exterior blinds with zipped side guides
-The Zipscreen or Screen ZIP system uses a Screen fabric with micro-perforations (3%–10%) fixed in side guides with zip system. Advantage over Raffstore: perfect lateral wind sealing, uniform appearance, high UV protection.
+### 3. Zipscreen — Exterior Blinds with Zipped Side Guides
+The Zipscreen or Screen ZIP system uses a Screen fabric with micro-perforations (3%–10%) fixed in side guides with zip system. Advantage over Raffstore: perfect lateral wind sealing, uniform appearance, high UV protection. Disadvantage: does not adjust slat angle.
 
-## Exterior blinds prices Bucharest 2026
+## Exterior Blinds Prices Bucharest 2026
+
+Prices vary depending on dimensions, type of actuation and installation complexity:
 
 | System type | Estimated price (installation included) |
 |---|---|
@@ -709,22 +1107,36 @@ The Zipscreen or Screen ZIP system uses a Screen fabric with micro-perforations 
 | Raffstore C80 electric Somfy (100×150 cm) | €240–360 |
 | Zipscreen manual (100×200 cm) | €160–240 |
 | Zipscreen electric Somfy io (100×200 cm) | €300–500 |
+| Aluminium roller shutter applied (100×150 cm) | €100–170 |
 
-*Indicative prices 2026, VAT excluded, for Bucharest and Ilfov.*
+*Indicative prices 2026, VAT excluded, for Bucharest and Ilfov. Final price depends on exact dimensions, colour and accessories.*
 
-## Somfy automation — why it's worth it for exterior blinds
+## Somfy Automation — Why It's Worth It for Exterior Blinds
 
 Somfy motors (Sunea io, Altus 50 RTS) transform exterior blinds into smart systems. With **Somfy TaHoma Switch** you can control them from the app, integrate with Alexa or Google Home and program them according to the sun schedule (heliocentric mode). The Eolis io wind sensor automatically retracts the blinds at gusts > 50 km/h — essential for protecting the system.
 
+## Delivery and Installation Areas in Bucharest and Ilfov
+
+Neofort BIZ supplies and installs exterior blinds in **all sectors of Bucharest** and in Ilfov county: Voluntari, Pipera, Otopeni, Buftea, Tunari, Bragadiru, Popești-Leordeni, Chitila, Pantelimon, Măgurele, Clinceni, Cornetu and other localities.
+
+**The purchase process at Neofort BIZ:**
+1. Request a quote via the contact form or by phone
+2. We come on-site for free measurements
+3. You receive a personalised quote within 24 hours
+4. We manufacture and install in 5–10 working days
+5. 3-year warranty on product and workmanship
+
+---
+
 Neofort BIZ is an authorised Somfy distributor and certified installer for shading systems in Bucharest and Ilfov. Free consultation — [request a quote](/en/contact).`,
 
-      de: `## Außenjalousien in Bukarest — welche Optionen gibt es 2026?
+      de: `## Außenjalousien in Bukarest — Welche Optionen gibt es 2026?
 
-Der Markt für Beschattungssysteme in Bukarest hat sich in den letzten Jahren enorm diversifiziert. Neben klassischen Aluminium-Außenrollläden stehen heute vielfältige Lösungen zur Verfügung: **Raffstore-Außenjalousien**, Zipscreen, automatische Pergolen, Klappläden und Markisen. Dieser Leitfaden konzentriert sich auf **Außenjalousien** — Unterschiede zu klassischen Rollläden, reale Preise 2026, Liefergebiete und Montage in Bukarest und Ilfov.
+Der Markt für Beschattungssysteme in Bukarest hat sich in den letzten Jahren enorm diversifiziert. Während früher die Optionen auf Aluminium-Außenrollläden beschränkt waren, kann man heute aus einem breiten Angebot wählen: **Raffstore-Außenjalousien**, Zipscreen, automatische Pergolen, Fensterläden und Markisen. Dieser Leitfaden konzentriert sich auf **Außenjalousien** — Unterschiede zu klassischen Rollläden, reale Preise 2026, Liefergebiete und Montage in Bukarest und Ilfov.
 
 ## Was sind Raffstore-Außenjalousien?
 
-Außenraffstores (auch **Raffstore C80/Z90** oder Außenlamellenstores) sind Beschattungssysteme mit **horizontalen Aluminiumlamellen von 80–90 mm**, die zwischen 0° und 90° geneigt werden können. Im Gegensatz zu Außenrollläden ermöglichen Raffstore-Lamellen eine gleichzeitige Steuerung von Licht und Sicht — eine wesentliche Eigenschaft für Büros, süd-/westexponierte Wohnungen und Häuser mit verglasten Fassaden.
+Außenraffstores (**Raffstore** oder **Lamellenstores C80/Z90**) sind Beschattungssysteme mit **horizontalen Aluminiumlamellen von 80–90 mm**, die zwischen 0° und 90° geneigt werden können. Im Gegensatz zu Außenrollläden ermöglichen Raffstore-Lamellen eine gleichzeitige Steuerung von Licht und Sicht — eine wesentliche Eigenschaft für Büros, süd-/westexponierte Wohnungen und Häuser mit verglasten Fassaden.
 
 **Vorteile von Raffstore-Außenjalousien gegenüber Rollläden:**
 - Feinstufige Licht- und Sichtregelung ohne Blockierung der Belüftung
@@ -733,30 +1145,61 @@ Außenraffstores (auch **Raffstore C80/Z90** oder Außenlamellenstores) sind Bes
 - Modernes Erscheinungsbild, integrierbar in zeitgenössische Fassaden
 - Verfügbar mit Wind- und Lichtsensoren für automatisches Einfahren
 
+**Wann sind sie nicht geeignet:**
+- Bei Blockwohnungen mit gemeinsamer Fassade (Montage erfordert Zustimmung der Hausverwaltung)
+- Bei kleinem Budget — sie kosten mehr als Standard-Rollläden
+
+## Typen von Außenjalousien in Bukarest
+
+### 1. Außen-Lamellenstore mit 80-mm-Lamellen (Raffstore C80)
+Das Standardmodell für Wohn- und Gewerbebau. 80-mm-Aluminiumlamellen lackiert, seitliche Führungsschienen aus Kabel oder Schiene, Kastenabdeckung mit oder ohne Deckel. Manuelle Bedienung mit Gurt oder elektrisch mit Somfy Sunea io Motor.
+
+### 2. Z90-Außenjalousien (90-mm-Lamellen, Z-Profil)
+Das Z-Profil der 90-mm-Lamelle bietet überlegene Steifigkeit und bessere Lichtdichtheit in der geschlossenen Position. Empfohlen für große Fenster (über 2 m Breite) und windexponierte Fassaden.
+
+### 3. Zipscreen — Außenjalousien mit gezippten Seitenführungen
+Das Zipscreen- oder Screen-ZIP-System verwendet ein Screen-Gewebe mit Mikro-Perforationen (3%–10%), das in Seitenführungen mit Zip-System fixiert ist. Vorteil gegenüber Raffstore: perfekte seitliche Windabdichtung, einheitliches Erscheinungsbild, hoher UV-Schutz. Nachteil: keine Lamellenwinkelregulierung.
+
 ## Preise für Außenjalousien in Bukarest 2026
 
-| Systemtyp | Geschätzter Preis (inkl. Montage) |
+Die Preise variieren je nach Abmessungen, Antriebsart und Montageaufwand:
+
+| Systemtyp | Geschätzter Preis (Montage inklusive) |
 |---|---|
 | Raffstore C80 manuell (100×150 cm) | 120–180 € |
 | Raffstore C80 elektrisch Somfy (100×150 cm) | 240–360 € |
 | Zipscreen manuell (100×200 cm) | 160–240 € |
 | Zipscreen elektrisch Somfy io (100×200 cm) | 300–500 € |
+| Aluminium-Außenrollladen aufgesetzt (100×150 cm) | 100–170 € |
 
-*Richtwerte 2026, ohne MwSt., für Bukarest und Ilfov.*
+*Richtwerte 2026, ohne MwSt., für Bukarest und Ilfov. Der Endpreis hängt von den genauen Abmessungen, der Farbe und dem Zubehör ab.*
 
-## Somfy-Automatisierung — warum es sich lohnt
+## Somfy-Automatisierung — Warum es sich lohnt
 
-Somfy-Motoren (Sunea io, Altus 50 RTS) verwandeln Außenjalousien in intelligente Systeme. Mit **Somfy TaHoma Switch** steuern Sie diese per App, integrieren sie in Alexa oder Google Home und programmieren sie nach dem Sonnenverlauf. Der Eolis io Windsensor fährt die Jalousien bei Böen > 50 km/h automatisch ein.
+Somfy-Motoren (Sunea io, Altus 50 RTS) verwandeln Außenjalousien in intelligente Systeme. Mit **Somfy TaHoma Switch** steuern Sie diese per App, integrieren sie in Alexa oder Google Home und programmieren sie nach dem Sonnenverlauf (heliozentrisch). Der Eolis io Windsensor fährt die Jalousien bei Böen > 50 km/h automatisch ein — unverzichtbar für den Systemschutz.
+
+## Liefer- und Montagegebiete in Bukarest und Ilfov
+
+Neofort BIZ liefert und montiert Außenjalousien in **allen Stadtbezirken Bukarests** und im Kreis Ilfov: Voluntari, Pipera, Otopeni, Buftea, Tunari, Bragadiru, Popești-Leordeni, Chitila, Pantelimon, Măgurele, Clinceni, Cornetu und weiteren Ortschaften.
+
+**Der Bestellprozess bei Neofort BIZ:**
+1. Angebot über das Kontaktformular oder telefonisch anfordern
+2. Wir kommen für kostenlose Aufmaßnahmen vor Ort
+3. Sie erhalten innerhalb von 24 Stunden ein individuelles Angebot
+4. Produktion und Montage in 5–10 Werktagen
+5. 3 Jahre Garantie auf Produkt und Montage
+
+---
 
 Neofort BIZ ist autorisierter Somfy-Händler und zertifizierter Installateur für Beschattungssysteme in Bukarest und Ilfov. Kostenlose Beratung — [Angebot anfordern](/de/kontakt).`,
 
-      fr: `## Stores extérieurs à Bucarest — quelles options en 2026 ?
+      fr: `## Stores extérieurs à Bucarest — Quelles options en 2026 ?
 
-Le marché des systèmes d'occultation à Bucarest s'est considérablement diversifié ces dernières années. Aux volets roulants en aluminium classiques s'ajoutent désormais de nombreuses solutions : **stores vénitiens extérieurs Raffstore**, zipscreen, pergolas automatiques, volets et stores. Ce guide se concentre sur les **stores extérieurs** — différences avec les volets classiques, prix réels 2026, zones de livraison et pose à Bucarest et Ilfov.
+Le marché des systèmes d'occultation à Bucarest s'est considérablement diversifié ces dernières années. Là où autrefois les options se limitaient aux volets roulants en aluminium, on peut aujourd'hui choisir parmi une large gamme : **stores vénitiens extérieurs Raffstore**, zipscreen, pergolas automatiques, volets et stores. Ce guide se concentre sur les **stores extérieurs** — différences avec les volets classiques, prix réels 2026, zones de livraison et pose à Bucarest et Ilfov.
 
 ## Que sont les stores vénitiens extérieurs Raffstore ?
 
-Les stores vénitiens extérieurs (**Raffstore C80/Z90**) sont des systèmes d'occultation à **lames horizontales en aluminium de 80–90 mm** pouvant s'incliner entre 0° et 90°. Contrairement aux volets roulants, les lames Raffstore permettent de contrôler simultanément lumière et visibilité — une caractéristique essentielle pour les bureaux, les appartements exposés au sud/ouest et les maisons à façade vitrée.
+Les stores vénitiens extérieurs (**Raffstore** ou **stores C80/Z90**) sont des systèmes d'occultation à **lames horizontales en aluminium de 80–90 mm** pouvant s'incliner entre 0° et 90°. Contrairement aux volets roulants qui descendent comme un panneau, les lames Raffstore permettent de contrôler simultanément lumière et visibilité — une caractéristique essentielle pour les bureaux, les appartements exposés au sud/ouest et les maisons à façade vitrée.
 
 **Avantages des stores Raffstore par rapport aux volets roulants :**
 - Réglage fin de la lumière et de la visibilité sans bloquer la ventilation
@@ -765,7 +1208,24 @@ Les stores vénitiens extérieurs (**Raffstore C80/Z90**) sont des systèmes d'o
 - Aspect moderne, intégrable dans les façades contemporaines
 - Disponibles avec capteurs de vent et de lumière pour rentrée automatique
 
+**Quand ils ne sont pas adaptés :**
+- Pour les appartements en copropriété avec façade commune (la pose nécessite l'accord du syndicat)
+- Si le budget est limité — ils coûtent plus cher que les volets roulants standard
+
+## Types de stores extérieurs disponibles à Bucarest
+
+### 1. Stores vénitiens extérieurs à lames 80 mm (Raffstore C80)
+Le modèle standard pour le résidentiel et le commercial. Lames de 80 mm en aluminium laqué, glissières latérales en câble ou rail, coffre supérieur avec ou sans couvercle. Actionnement manuel par sangle ou électrique avec moteur Somfy Sunea io.
+
+### 2. Stores extérieurs Z90 (lames 90 mm, profil Z)
+Le profil Z de la lame de 90 mm offre une rigidité supérieure et une meilleure étanchéité à la lumière en position fermée. Recommandé pour les grandes fenêtres (plus de 2 m de largeur) et les façades exposées aux vents forts.
+
+### 3. Zipscreen — stores extérieurs à glissières latérales zippées
+Le système Zipscreen ou Screen ZIP utilise une toile Screen avec micro-perforations (3%–10%) fixée dans des glissières latérales avec système zip. Avantage par rapport au Raffstore : étanchéité parfaite au vent latéral, aspect uniforme, haute protection UV. Inconvénient : pas de réglage de l'angle des lames.
+
 ## Prix des stores extérieurs à Bucarest 2026
+
+Les prix varient en fonction des dimensions, du type d'actionnement et de la complexité de la pose :
 
 | Type de système | Prix estimé (pose incluse) |
 |---|---|
@@ -773,22 +1233,36 @@ Les stores vénitiens extérieurs (**Raffstore C80/Z90**) sont des systèmes d'o
 | Raffstore C80 électrique Somfy (100×150 cm) | 240–360 € |
 | Zipscreen manuel (100×200 cm) | 160–240 € |
 | Zipscreen électrique Somfy io (100×200 cm) | 300–500 € |
+| Volet roulant aluminium appliqué (100×150 cm) | 100–170 € |
 
-*Prix indicatifs 2026, hors TVA, pour Bucarest et Ilfov.*
+*Prix indicatifs 2026, hors TVA, pour Bucarest et Ilfov. Le prix final dépend des dimensions exactes, de la couleur et des accessoires.*
 
 ## Automatisation Somfy — pourquoi ça vaut le coup
 
-Les moteurs Somfy (Sunea io, Altus 50 RTS) transforment les stores extérieurs en systèmes intelligents. Avec **Somfy TaHoma Switch**, vous les contrôlez depuis l'appli, intégrez avec Alexa ou Google Home et programmez selon la course du soleil. Le capteur de vent Eolis io rentre automatiquement les stores à des rafales > 50 km/h.
+Les moteurs Somfy (Sunea io, Altus 50 RTS) transforment les stores extérieurs en systèmes intelligents. Avec **Somfy TaHoma Switch**, vous les contrôlez depuis l'appli, intégrez avec Alexa ou Google Home et programmez selon la course du soleil (mode héliocentrique). Le capteur de vent Eolis io rentre automatiquement les stores à des rafales > 50 km/h — indispensable pour protéger le système.
 
-Neofort BIZ est distributeur Somfy agréé et installateur certifié pour les systèmes d'occultation à Bucarest et Ilfov. Conseil gratuit — [demander un devis](/fr/contact).`,
+## Zones de livraison et pose à Bucarest et Ilfov
 
-      es: `## Persianas exteriores en Bucarest — ¿qué opciones existen en 2026?
+Neofort BIZ fournit et pose des stores extérieurs dans **tous les secteurs de Bucarest** et dans le département d'Ilfov : Voluntari, Pipera, Otopeni, Buftea, Tunari, Bragadiru, Popești-Leordeni, Chitila, Pantelimon, Măgurele, Clinceni, Cornetu et d'autres localités.
 
-El mercado de sistemas de sombreado en Bucarest se ha diversificado enormemente en los últimos años. Además de los clásicos cierres exteriores de aluminio, hoy se pueden elegir múltiples soluciones: **persianas venecianas exteriores Raffstore**, zipscreen, pérgolas automáticas, contraventanas y toldos. Esta guía se centra en las **persianas exteriores** — diferencias con los cierres clásicos, precios reales 2026, zonas de entrega e instalación en Bucarest e Ilfov.
+**Le processus d'achat chez Neofort BIZ :**
+1. Demande de devis via le formulaire de contact ou par téléphone
+2. Nous venons sur place pour des métrés gratuits
+3. Vous recevez un devis personnalisé sous 24 heures
+4. Fabrication et pose en 5 à 10 jours ouvrables
+5. Garantie 3 ans sur le produit et la pose
+
+---
+
+Neofort BIZ est distributeur agréé Somfy et installateur certifié pour les systèmes d'occultation à Bucarest et Ilfov. Conseil gratuit — [demander un devis](/fr/contact).`,
+
+      es: `## Persianas exteriores en Bucarest — ¿Qué opciones existen en 2026?
+
+El mercado de sistemas de sombreado en Bucarest se ha diversificado enormemente en los últimos años. Donde antes las opciones se limitaban a cierres exteriores de aluminio, hoy se puede elegir entre una amplia gama: **persianas venecianas exteriores Raffstore**, zipscreen, pérgolas automáticas, contraventanas y toldos. Esta guía se centra en las **persianas exteriores** — diferencias con los cierres clásicos, precios reales 2026, zonas de entrega e instalación en Bucarest e Ilfov.
 
 ## ¿Qué son las persianas exteriores Raffstore?
 
-Las persianas venecianas exteriores (**Raffstore C80/Z90**) son sistemas de sombreado con **lamas horizontales de aluminio de 80–90 mm** que pueden inclinarse entre 0° y 90°. A diferencia de los cierres enrollables, las lamas Raffstore permiten controlar simultáneamente luz y visibilidad — una característica esencial para oficinas, apartamentos orientados al sur/oeste y viviendas con fachada acristalada.
+Las persianas venecianas exteriores (**Raffstore** o **persianas C80/Z90**) son sistemas de sombreado con **lamas horizontales de aluminio de 80–90 mm** que pueden inclinarse entre 0° y 90°. A diferencia de los cierres enrollables que bajan como un panel, las lamas Raffstore permiten controlar simultáneamente luz y visibilidad — una característica esencial para oficinas, apartamentos orientados al sur/oeste y viviendas con fachada acristalada.
 
 **Ventajas de las persianas Raffstore frente a los cierres enrollables:**
 - Control preciso de luz y visibilidad sin bloquear la ventilación
@@ -797,7 +1271,24 @@ Las persianas venecianas exteriores (**Raffstore C80/Z90**) son sistemas de somb
 - Aspecto moderno, integrable en fachadas contemporáneas
 - Disponibles con sensores de viento y luz para recogida automática
 
+**Cuándo no son adecuadas:**
+- Para apartamentos en comunidad con fachada común (la instalación requiere aprobación de la comunidad)
+- Si el presupuesto es limitado — cuestan más que los cierres estándar
+
+## Tipos de persianas exteriores disponibles en Bucarest
+
+### 1. Persianas venecianas exteriores con lamas de 80 mm (Raffstore C80)
+El modelo estándar para uso residencial y comercial. Lamas de 80 mm de aluminio lacado, guías laterales en cable o carril, cajón superior con o sin tapa. Accionamiento manual con correa o eléctrico con motor Somfy Sunea io.
+
+### 2. Persianas exteriores Z90 (lamas de 90 mm, perfil Z)
+El perfil Z de la lama de 90 mm ofrece una rigidez superior y un mejor sellado de luz en posición cerrada. Recomendado para ventanas grandes (más de 2 m de anchura) y fachadas expuestas a vientos fuertes.
+
+### 3. Zipscreen — persianas exteriores con guías laterales zipadas
+El sistema Zipscreen o Screen ZIP utiliza una tela Screen con micro-perforaciones (3%–10%) fijada en guías laterales con sistema zip. Ventaja frente al Raffstore: sellado perfecto al viento lateral, aspecto uniforme, alta protección UV. Inconveniente: no regula el ángulo de las lamas.
+
 ## Precios persianas exteriores Bucarest 2026
+
+Los precios varían en función de las dimensiones, el tipo de accionamiento y la complejidad de la instalación:
 
 | Tipo de sistema | Precio estimado (instalación incluida) |
 |---|---|
@@ -805,18 +1296,36 @@ Las persianas venecianas exteriores (**Raffstore C80/Z90**) son sistemas de somb
 | Raffstore C80 eléctrico Somfy (100×150 cm) | 240–360 € |
 | Zipscreen manual (100×200 cm) | 160–240 € |
 | Zipscreen eléctrico Somfy io (100×200 cm) | 300–500 € |
+| Cierre enrollable aluminio aplicado (100×150 cm) | 100–170 € |
 
-*Precios orientativos 2026, sin IVA, para Bucarest e Ilfov.*
+*Precios orientativos 2026, sin IVA, para Bucarest e Ilfov. El precio final depende de las dimensiones exactas, el color y los accesorios.*
 
-Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Consulta gratuita — [solicitar presupuesto](/es/contact).`,
+## Automatización Somfy — por qué vale la pena
 
-      it: `## Veneziane esterne a Bucarest — quali opzioni esistono nel 2026?
+Los motores Somfy (Sunea io, Altus 50 RTS) transforman las persianas exteriores en sistemas inteligentes. Con **Somfy TaHoma Switch** puede controlarlas desde la app, integrarlas con Alexa o Google Home y programarlas según la trayectoria solar (modo heliocéntrico). El sensor de viento Eolis io recoge automáticamente las persianas a ráfagas > 50 km/h — esencial para proteger el sistema.
 
-Il mercato dei sistemi di oscuramento a Bucarest si è enormemente diversificato negli ultimi anni. Oltre ai classici avvolgibili in alluminio, oggi si può scegliere tra molte soluzioni: **veneziane esterne Raffstore**, zipscreen, pergole automatiche, persiane e tende da sole. Questa guida si concentra sulle **veneziane esterne** — differenze rispetto agli avvolgibili classici, prezzi reali 2026, zone di consegna e installazione a Bucarest e Ilfov.
+## Zonas de entrega e instalación en Bucarest e Ilfov
+
+Neofort BIZ suministra e instala persianas exteriores en **todos los sectores de Bucarest** y en el departamento de Ilfov: Voluntari, Pipera, Otopeni, Buftea, Tunari, Bragadiru, Popești-Leordeni, Chitila, Pantelimon, Măgurele, Clinceni, Cornetu y otras localidades.
+
+**El proceso de compra en Neofort BIZ:**
+1. Solicitar presupuesto a través del formulario de contacto o por teléfono
+2. Venimos al lugar para mediciones gratuitas
+3. Recibes un presupuesto personalizado en 24 horas
+4. Fabricamos e instalamos en 5–10 días hábiles
+5. Garantía de 3 años en producto y mano de obra
+
+---
+
+Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Asesoramiento gratuito — [solicitar presupuesto](/es/contact).`,
+
+      it: `## Veneziane esterne a Bucarest — Quali opzioni esistono nel 2026?
+
+Il mercato dei sistemi di oscuramento a Bucarest si è enormemente diversificato negli ultimi anni. Dove un tempo le opzioni si limitavano agli avvolgibili in alluminio, oggi si può scegliere tra una vasta gamma: **veneziane esterne Raffstore**, zipscreen, pergole automatiche, persiane e tende da sole. Questa guida si concentra sulle **veneziane esterne** — differenze rispetto agli avvolgibili classici, prezzi reali 2026, zone di consegna e installazione a Bucarest e Ilfov.
 
 ## Cosa sono le veneziane esterne Raffstore?
 
-Le veneziane esterne (**Raffstore C80/Z90**) sono sistemi di oscuramento con **lamelle orizzontali in alluminio da 80–90 mm** che possono inclinarsi tra 0° e 90°. A differenza degli avvolgibili, le lamelle Raffstore consentono di controllare simultaneamente luce e visibilità — una caratteristica essenziale per uffici, appartamenti esposti a sud/ovest e case con facciata vetrata.
+Le veneziane esterne (**Raffstore** o **veneziane C80/Z90**) sono sistemi di oscuramento con **lamelle orizzontali in alluminio da 80–90 mm** che possono inclinarsi tra 0° e 90°. A differenza degli avvolgibili che scendono come un pannello, le lamelle Raffstore permettono di controllare simultaneamente luce e visibilità — una caratteristica essenziale per uffici, appartamenti esposti a sud/ovest e case con facciata vetrata.
 
 **Vantaggi delle veneziane Raffstore rispetto agli avvolgibili:**
 - Controllo preciso di luce e visibilità senza bloccare la ventilazione
@@ -825,7 +1334,24 @@ Le veneziane esterne (**Raffstore C80/Z90**) sono sistemi di oscuramento con **l
 - Aspetto moderno, integrabile in facciate contemporanee
 - Disponibili con sensori di vento e luce per ritiro automatico
 
+**Quando non sono adatte:**
+- Per condomini con facciata condivisa (l'installazione richiede l'approvazione dell'amministrazione)
+- Se il budget è limitato — costano di più degli avvolgibili standard
+
+## Tipi di veneziane esterne disponibili a Bucarest
+
+### 1. Veneziane esterne con lamelle da 80 mm (Raffstore C80)
+Il modello standard per uso residenziale e commerciale. Lamelle da 80 mm in alluminio verniciato, guide laterali in cavo o binario, cassettone superiore con o senza coperchio. Azionamento manuale con cinghia o elettrico con motore Somfy Sunea io.
+
+### 2. Veneziane esterne Z90 (lamelle da 90 mm, profilo Z)
+Il profilo Z della lamella da 90 mm offre una rigidità superiore e una migliore tenuta alla luce in posizione chiusa. Consigliato per finestre grandi (oltre 2 m di larghezza) e facciate esposte a vento forte.
+
+### 3. Zipscreen — veneziane esterne con guide laterali zippate
+Il sistema Zipscreen o Screen ZIP utilizza un tessuto Screen con micro-perforazioni (3%–10%) fissato in guide laterali con sistema zip. Vantaggio rispetto al Raffstore: perfetta tenuta al vento laterale, aspetto uniforme, alta protezione UV. Svantaggio: non regola l'angolo delle lamelle.
+
 ## Prezzi veneziane esterne Bucarest 2026
+
+I prezzi variano in base alle dimensioni, al tipo di azionamento e alla complessità dell'installazione:
 
 | Tipo di sistema | Prezzo stimato (installazione inclusa) |
 |---|---|
@@ -833,10 +1359,28 @@ Le veneziane esterne (**Raffstore C80/Z90**) sono sistemi di oscuramento con **l
 | Raffstore C80 elettrico Somfy (100×150 cm) | 240–360 € |
 | Zipscreen manuale (100×200 cm) | 160–240 € |
 | Zipscreen elettrico Somfy io (100×200 cm) | 300–500 € |
+| Avvolgibile in alluminio applicato (100×150 cm) | 100–170 € |
 
-*Prezzi indicativi 2026, IVA esclusa, per Bucarest e Ilfov.*
+*Prezzi indicativi 2026, IVA esclusa, per Bucarest e Ilfov. Il prezzo finale dipende dalle dimensioni esatte, dal colore e dagli accessori.*
 
-Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi un preventivo](/it/contact).`,
+## Automazione Somfy — perché vale la pena
+
+I motori Somfy (Sunea io, Altus 50 RTS) trasformano le veneziane esterne in sistemi intelligenti. Con **Somfy TaHoma Switch** puoi controllarle dall'app, integrarle con Alexa o Google Home e programmarle secondo il percorso solare (modalità eliocentrica). Il sensore di vento Eolis io ritira automaticamente le veneziane a raffiche > 50 km/h — essenziale per proteggere il sistema.
+
+## Zone di consegna e installazione a Bucarest e Ilfov
+
+Neofort BIZ fornisce e installa veneziane esterne in **tutti i settori di Bucarest** e nel distretto di Ilfov: Voluntari, Pipera, Otopeni, Buftea, Tunari, Bragadiru, Popești-Leordeni, Chitila, Pantelimon, Măgurele, Clinceni, Cornetu e altre località.
+
+**Il processo di acquisto da Neofort BIZ:**
+1. Richiedere un preventivo tramite il modulo di contatto o telefonicamente
+2. Veniamo sul posto per misurazioni gratuite
+3. Ricevi un preventivo personalizzato entro 24 ore
+4. Produciamo e installiamo in 5–10 giorni lavorativi
+5. Garanzia di 3 anni su prodotto e manodopera
+
+---
+
+Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi preventivo](/it/contact).`,
     },
   },
 
@@ -962,163 +1506,291 @@ După montaj, feroneria Roto NT sau Winkhaus trebuie **reglată precis** în toa
 
 Neofort BIZ execută montaje termopane Salamander în București și Ilfov cu echipe proprii certificate, benzi precomprimate Illbruck și precadre Blaugelb Triotherm Plus. [Solicită ofertă montaj](/ro/contact).`,
 
-      en: `## Why does Salamander window installation matter so much?
+      en: `## Why Salamander Window Installation Matters So Much
 
-You've chosen Salamander bluEvolution 82 or 92 profiles — products with Uf down to 0.9 W/(m²K) and 47 dB acoustic insulation. But the technical performance of the profile means nothing if **installation is done incorrectly**. Poor installation generates: thermal bridges at the frame-masonry joint, water and air infiltration, condensation on window sills, and over time, frame deformation.
+You have chosen Salamander bluEvolution 82 or 92 profiles — products with Uf down to 0.9 W/(m²K) and 47 dB acoustic insulation. But the technical performance of the profile means nothing if **installation is done incorrectly**. Poor installation generates: thermal bridges at the frame-masonry joint, water and air infiltration, condensation on window sills, and over time, frame deformation. This guide shows you exactly what professional Salamander window installation in Bucharest and Ilfov involves.
 
-## Step 1 — Survey and design
+## Step 1 — Survey and Design
 
-Professional installation always starts with **on-site measurements**, not approximate dimensions. The technician measures the existing opening and calculates frame dimensions considering:
+Professional installation always starts with **on-site measurements**, not approximate dimensions. The technician measures the existing opening (masonry) and calculates frame dimensions considering:
 
-- Wall type (aerated concrete, brick, concrete, panel)
-- Plaster or insulation layer thickness
+- Wall type (aerated concrete, brick, concrete, sandwich panel)
+- Plaster or thermal insulation layer thickness
 - Chosen installation type — **direct in wall** or **on Blaugelb preframe**
 - Need for interior (PVC or aluminium) and exterior (aluminium) window sills
 
-### Blaugelb Triotherm Plus preframes — the nZEB standard
-For new constructions and **nZEB (Nearly Zero Energy Buildings)** renovations, Neofort BIZ uses **Blaugelb Triotherm Plus preframes**. The preframe is installed before the window itself and creates a continuous thermal barrier between frame and masonry, eliminating the thermal bridge at the window perimeter.
+### Blaugelb Triotherm Plus Preframes — The nZEB Standard
+For new constructions and **nZEB (Nearly Zero Energy Buildings)** renovations, Neofort BIZ uses **Blaugelb Triotherm Plus preframes**. The preframe is installed before the window itself and creates a continuous thermal barrier between frame and masonry, eliminating the thermal bridge at the window perimeter — the main cause of condensation on sills in older dwellings.
 
-## Step 2 — Removing old windows
+## Step 2 — Removing Old Windows
 
-Removal is done with **professional suction cups** for handling large glazing units, without damaging masonry or interior finishes.
+Removal is carried out with **professional suction cups** for handling large glazing units, without damaging masonry or interior finishes. Remnants of polyurethane foam, sealant or old profiles are completely removed from the opening before installing the new windows.
 
-## Step 3 — Installation according to nZEB standard
+## Step 3 — Installation According to nZEB Standard
 
 Professional nZEB installation follows the **RAL standard** (German Quality Association for Windows):
 
-- **Interior zone**: vapour barrier tape — prevents moisture migration from interior to the frame-masonry joint
-- **Middle zone**: metal mounting anchors at max. 70 cm intervals, plastic packers (not wood!)
-- **Exterior zone**: **pre-compressed butyl band** (Illbruck TP600, Soudal Compriband) — expands after installation and seals the perimeter against water and wind
+**Interior zone — vapour sealing:**
+- Interior vapour barrier tape (PE film or adhesive butyl tape) — prevents moisture migration from interior toward the frame-masonry joint
 
-## Step 4 — Hardware adjustment
+**Middle zone — fixing and stabilising:**
+- Metal mounting anchors at max. 70 cm intervals
+- Plastic packers and sub-packers (not wood!) for supporting the weight of the glazing pack
+- Semi-open cell polyurethane foam in the remaining space
 
-After installation, Roto NT or Winkhaus hardware must be **precisely adjusted** in all 3 axes. Incorrectly adjusted hardware causes: sashes rubbing against the frame, uneven gasket compression, difficult closing after a few months.
+**Exterior zone — water sealing:**
+- **Pre-compressed butyl band** (e.g. Illbruck TP600, Soudal Compriband) — expands after installation and seals the external perimeter against water and wind
+- This replaces classic sealants that crack over time and allow infiltrations
 
-## Common installation mistakes that cost
+## Step 4 — Hardware Adjustment
 
-❌ Polyurethane foam instead of pre-compressed band at exterior — cracks in 2–3 years\
-❌ Wooden packers under frame — rot, affect levelling over time\
-❌ No preframe on nZEB constructions — thermal bridge eliminates 40–60% of energy savings\
-❌ Incorrect frame sizing vs actual opening\
-❌ Hardware not adjusted after installation
+After installation, Roto NT or Winkhaus hardware must be **precisely adjusted** in all 3 axes (vertical, horizontal, compression). Incorrectly adjusted hardware causes: sashes rubbing against the frame, uneven gasket compression, difficult closing after a few months.
+
+## Step 5 — Window Sill and Finishing Installation
+
+- **Interior PVC window sills** — fixed with expanding foam in the frame and siliconed around the perimeter
+- **Exterior aluminium window sills** — with drip profile and outward slope (min. 5°)
+- **Exterior siliconing** with UV-resistant neutral silicone, colour matched to the profile
+
+## Common Installation Mistakes That Cost
+
+❌ **Polyurethane foam instead of pre-compressed band** at exterior — cracks in 2–3 years, allows infiltrations❌ **Wooden packers** under frame — rot, affect levelling over time❌ **No preframe** on nZEB constructions — thermal bridge eliminates 40–60% of energy savings❌ **Incorrect frame sizing** vs actual opening — large gaps filled with too much foam❌ **Hardware not adjusted** after installation — premature wear, closing difficulties
+
+## How to Choose a Serious Window Installation Company in Bucharest
+
+✅ The company always comes for **on-site measurements** (does not accept orders based on dimensions provided by the client)✅ Uses **pre-compressed bands** (ask explicitly — not foam at exterior)✅ Offers a **written contract** with complete technical specifications✅ Minimum **5-year warranty** on product and workmanship✅ Own installation teams, not subcontractors✅ Blaugelb preframes or equivalent for nZEB projects
+
+---
 
 Neofort BIZ installs Salamander windows in Bucharest and Ilfov with certified in-house teams, Illbruck pre-compressed bands and Blaugelb Triotherm Plus preframes. [Request installation quote](/en/contact).`,
 
-      de: `## Warum ist die Montage von Salamander-Fenstern so wichtig?
+      de: `## Warum die Montage von Salamander-Fenstern so wichtig ist
 
-Sie haben Salamander bluEvolution 82 oder 92 Profile gewählt — Produkte mit Uf bis zu 0,9 W/(m²K) und 47 dB Schallschutz. Aber die technischen Leistungen des Profils nützen nichts, wenn die **Montage fehlerhaft ausgeführt wird**. Eine falsche Montage erzeugt: Wärmebrücken an der Rahmen-Mauerwerk-Verbindung, Wasser- und Luftundichtigkeiten, Kondensat auf Fensterbänken.
+Sie haben Salamander bluEvolution 82 oder 92 Profile gewählt — Produkte mit Uf bis zu 0,9 W/(m²K) und 47 dB Schallschutz. Aber die technischen Leistungen des Profils nützen nichts, wenn **die Montage fehlerhaft ausgeführt wird**. Eine falsche Montage erzeugt: Wärmebrücken an der Rahmen-Mauerwerk-Verbindung, Wasser- und Luftundichtigkeiten, Kondensat auf Fensterbänken und mit der Zeit Rahmenverformungen. Dieser Leitfaden zeigt genau, was eine professionelle Salamander-Fenstermontage in Bukarest und Ilfov beinhaltet.
 
 ## Schritt 1 — Aufmaß und Planung
 
 Professionelle Montage beginnt immer mit **Aufmaß vor Ort**, nicht mit ungefähren Maßen. Der Techniker misst die vorhandene Maueröffnung und berechnet die Rahmenmaße unter Berücksichtigung von:
 
-- Wandtyp (Porenbeton, Ziegel, Beton, Platte)
-- Putz- oder Dämmschichtdicke
-- Gewählter Montage-Art — **direkt in die Wand** oder **auf Blaugelb-Vorblendrahmen**
+- Wandtyp (Porenbeton, Ziegel, Beton, Sandwichpanel)
+- Putz- oder Wärmedämmschichtdicke
+- Gewählter Montageart — **direkt ins Mauerwerk** oder **auf Blaugelb-Vorblendrahmen**
+- Bedarf an Innen- (PVC oder Aluminium) und Außenfensterbänken (Aluminium)
 
-### Blaugelb Triotherm Plus Vorblendrahmen — der nZEB-Standard
-Für Neubauten und **nZEB-Renovierungen** verwendet Neofort BIZ **Blaugelb Triotherm Plus Vorblendrahmen**. Der Vorblendrahmen wird vor dem eigentlichen Fenster montiert und schafft eine durchgehende Wärmedämmschranke zwischen Rahmen und Mauerwerk.
+### Blaugelb Triotherm Plus Vorblendrahmen — Der nZEB-Standard
+Für Neubauten und **nZEB-Renovierungen** verwendet Neofort BIZ **Blaugelb Triotherm Plus Vorblendrahmen**. Der Vorblendrahmen wird vor dem eigentlichen Fenster montiert und schafft eine durchgehende Wärmedämmbarriere zwischen Rahmen und Mauerwerk, wodurch die Wärmebrücke am Fensterperimeter eliminiert wird.
 
-## Schritt 3 — Montage nach nZEB-Standard (RAL-Regel)
+## Schritt 2 — Demontage der alten Fenster
 
-- **Innenbereich**: Dampfsperrband — verhindert Feuchtigkeitsmigration
-- **Mittelbereich**: Metallanker im max. 70 cm Abstand, Kunststoffklötze (kein Holz!)
-- **Außenbereich**: **Vorkomprimiertes Butylband** (Illbruck TP600, Soudal Compriband) — dehnt sich aus und dichtet den Perimeter gegen Wasser und Wind ab
+Die Demontage erfolgt mit **professionellen Saughebern** für den Umgang mit großen Glaselementen, ohne Mauerwerk oder Innenverkleidungen zu beschädigen. Polyurethanschaum-Reste, Dichtmasse oder alte Profile werden vollständig aus der Öffnung entfernt.
 
-## Häufige Montagefehler
+## Schritt 3 — Montage nach nZEB-Standard
 
-❌ PU-Schaum statt vorkomprimiertem Band außen — reißt in 2–3 Jahren\
-❌ Holzklötze unter dem Rahmen — verrotten, beeinflussen Nivellierung\
-❌ Kein Vorblendrahmen bei nZEB — Wärmebrücke eliminiert 40–60% der Energieeinsparungen
+Professionelle nZEB-Montage folgt der **RAL-Richtlinie** (Gütegemeinschaft Fenster, Fassaden und Haustüren):
 
-Neofort BIZ montiert Salamander-Fenster in Bukarest und Ilfov mit zertifizierten Eigenteams, Illbruck-Bändern und Blaugelb Triotherm Plus Vorblendrahmen. [Angebot anfordern](/de/kontakt).`,
+**Innenbereich — Dampfsperre:**
+- Innen-Dampfsperrband (PE-Folie oder Butylklebeband) — verhindert Feuchtigkeitsmigration vom Innenraum zur Rahmen-Mauerwerk-Fuge
+
+**Mittelbereich — Befestigung und Stabilisierung:**
+- Metallanker im max. 70-cm-Abstand
+- Kunststoffklötze und Unterlageplatten (kein Holz!) zum Tragen des Glasgewichts
+- Halboffenzelliger PU-Schaum im restlichen Raum
+
+**Außenbereich — Wasserabdichtung:**
+- **Vorkomprimiertes Butylband** (z.B. Illbruck TP600, Soudal Compriband) — dehnt sich nach der Montage aus und dichtet den Außenperimeter gegen Wasser und Wind ab
+
+## Schritt 4 — Beschlagseinstellung
+
+Nach der Montage müssen Roto NT oder Winkhaus Beschläge **präzise in allen 3 Achsen** (vertikal, horizontal, Anpressdruck) eingestellt werden. Falsch eingestellte Beschläge verursachen: Flügel, die am Rahmen reiben, ungleichmäßige Dichtungskompression, schweres Schließen nach wenigen Monaten.
+
+## Schritt 5 — Fensterbank und Verfugung
+
+- **Innen-Fensterbänke aus PVC** — mit Montageschaum im Rahmen fixiert und perimetrisch silikoniert
+- **Außen-Fensterbänke aus Aluminium** — mit Tropfkante und Außengefälle (mind. 5°)
+- **Außensilikonierung** mit UV-beständigem Neutralsilikon, farblich auf das Profil abgestimmt
+
+## Häufige kostspielige Montagefehler
+
+❌ **PU-Schaum statt vorkomprimiertem Band** außen — reißt in 2–3 Jahren, lässt Infiltrationen zu❌ **Holzklötze** unter dem Rahmen — verrotten, beeinflussen die Nivellierung❌ **Kein Vorblendrahmen** bei nZEB — Wärmebrücke eliminiert 40–60% der Energieeinsparungen❌ **Falsche Rahmenmaße** vs. tatsächliche Öffnung❌ **Beschläge nach Montage nicht eingestellt** — vorzeitiger Verschleiß
+
+## Wie wählt man ein seriöses Montagunternehmen in Bukarest?
+
+✅ Das Unternehmen kommt obligatorisch für **Aufmaß vor Ort** (akzeptiert keine Bestellungen auf Basis von Maßen des Kunden)✅ Verwendet **vorkomprimierte Bänder** (ausdrücklich fragen — kein Schaum außen)✅ Bietet einen **schriftlichen Vertrag** mit vollständigen technischen Spezifikationen✅ Mindestens **5 Jahre Garantie** auf Produkt und Montage✅ Eigene Montageteams, keine Subunternehmer✅ Blaugelb Vorblendrahmen oder gleichwertig für nZEB-Projekte
+
+---
+
+Neofort BIZ montiert Salamander-Fenster in Bukarest und Ilfov mit zertifizierten Eigenteams, Illbruck-Bändern und Blaugelb Triotherm Plus Vorblendrahmen. [Angebot Montage anfordern](/de/kontakt).`,
 
       fr: `## Pourquoi la pose des fenêtres Salamander est-elle si importante ?
 
-Vous avez choisi des profilés Salamander bluEvolution 82 ou 92 — des produits avec Uf jusqu'à 0,9 W/(m²K) et 47 dB d'isolation acoustique. Mais les performances techniques du profilé ne signifient rien si **la pose est mal exécutée**. Une mauvaise pose génère : des ponts thermiques à la jonction cadre-maçonnerie, des infiltrations d'eau et d'air, de la condensation sur les appuis de fenêtre.
+Vous avez choisi des profilés Salamander bluEvolution 82 ou 92 — des produits avec Uf jusqu'à 0,9 W/(m²K) et 47 dB d'isolation acoustique. Mais les performances techniques du profilé ne signifient rien si **la pose est mal exécutée**. Une mauvaise pose génère : des ponts thermiques à la jonction cadre-maçonnerie, des infiltrations d'eau et d'air, de la condensation sur les appuis de fenêtre et, avec le temps, des déformations du cadre. Ce guide vous montre exactement ce qu'implique une pose professionnelle de fenêtres Salamander à Bucarest et Ilfov.
 
 ## Étape 1 — Métrage et conception
 
-La pose professionnelle commence toujours par **un métrage sur place**, pas des dimensions approximatives. Le technicien mesure l'ouverture existante et calcule les dimensions du cadre en tenant compte de :
+La pose professionnelle commence toujours par **un métrage sur place**, pas des dimensions approximatives. Le technicien mesure l'ouverture existante (maçonnerie) et calcule les dimensions du cadre en tenant compte de :
 
-- Type de mur (béton cellulaire, brique, béton, panneau)
-- Épaisseur de l'enduit ou de l'isolation
-- Type de pose choisi — **directement dans le mur** ou **sur précadre Blaugelb**
+- Type de mur (béton cellulaire, brique, béton, panneau sandwich)
+- Épaisseur de l'enduit ou de l'isolation thermique
+- Type de pose choisi — **directement dans la maçonnerie** ou **sur précadre Blaugelb**
+- Besoin d'appuis de fenêtre intérieurs (PVC ou aluminium) et extérieurs (aluminium)
 
-### Précadres Blaugelb Triotherm Plus — la norme nZEB
-Pour les constructions neuves et les rénovations **nZEB**, Neofort BIZ utilise des **précadres Blaugelb Triotherm Plus**. Le précadre crée une barrière thermique continue entre cadre et maçonnerie, éliminant le pont thermique au périmètre de la fenêtre.
+### Précadres Blaugelb Triotherm Plus — La norme nZEB
+Pour les constructions neuves et les rénovations **nZEB**, Neofort BIZ utilise des **précadres Blaugelb Triotherm Plus**. Le précadre est posé avant la fenêtre elle-même et crée une barrière thermique continue entre cadre et maçonnerie, éliminant le pont thermique au périmètre de la fenêtre.
 
-## Étape 3 — Pose selon la norme nZEB (règle RAL)
+## Étape 2 — Dépose des anciennes fenêtres
 
-- **Zone intérieure** : ruban pare-vapeur — empêche la migration de l'humidité
-- **Zone médiane** : ancrages métalliques tous les 70 cm max., cales plastique (pas de bois !)
-- **Zone extérieure** : **bande précomprimée en butyle** (Illbruck TP600, Soudal Compriband) — s'expanse après pose et étanche le périmètre contre l'eau et le vent
+La dépose s'effectue avec des **ventouses professionnelles** pour la manutention des grands vitrages, sans endommager la maçonnerie ni les finitions intérieures. Les résidus de mousse polyuréthane, de mastic ou d'anciens profilés sont entièrement retirés de l'ouverture.
 
-## Erreurs de pose fréquentes
+## Étape 3 — Pose selon la norme nZEB
 
-❌ Mousse polyuréthane au lieu de bande précomprimée à l'extérieur — se fissure en 2–3 ans\
-❌ Cales en bois sous le cadre — pourrissent, affectent le nivellement\
-❌ Pas de précadre sur constructions nZEB — le pont thermique élimine 40–60% des économies d'énergie
+La pose professionnelle nZEB respecte la **norme RAL** (Association allemande de qualité pour les fenêtres) :
 
-Neofort BIZ réalise des poses de fenêtres Salamander à Bucarest et Ilfov avec des équipes propres certifiées, des bandes Illbruck et des précadres Blaugelb Triotherm Plus. [Demander un devis pose](/fr/contact).`,
+**Zone intérieure — étanchéité aux vapeurs :**
+- Ruban pare-vapeur intérieur (film PE ou ruban adhésif butyle) — empêche la migration de l'humidité depuis l'intérieur vers la jonction cadre-maçonnerie
 
-      es: `## ¿Por qué es tan importante la instalación de ventanas Salamander?
+**Zone médiane — fixation et stabilisation :**
+- Ancrages métalliques tous les 70 cm maximum
+- Cales et sous-cales plastique (pas de bois !) pour supporter le poids du vitrage
+- Mousse PU à cellule semi-ouverte dans l'espace restant
 
-Ha elegido perfiles Salamander bluEvolution 82 o 92 — productos con Uf hasta 0,9 W/(m²K) y aislamiento acústico de 47 dB. Pero las prestaciones técnicas del perfil no significan nada si **la instalación se realiza incorrectamente**. Una instalación deficiente genera: puentes térmicos en la unión marco-mampostería, infiltraciones de agua y aire, condensación en los alféizares.
+**Zone extérieure — étanchéité à l'eau :**
+- **Bande précomprimée en butyle** (ex. Illbruck TP600, Soudal Compriband) — se dilate après pose et étanche le périmètre extérieur contre l'eau et le vent
+
+## Étape 4 — Réglage de la quincaillerie
+
+Après la pose, la quincaillerie Roto NT ou Winkhaus doit être **réglée précisément dans les 3 axes** (vertical, horizontal, compression). Une quincaillerie mal réglée entraîne : des vantaux qui frottent sur le cadre, une compression inégale des joints, une fermeture difficile après quelques mois.
+
+## Étape 5 — Pose des appuis et finitions
+
+- **Appuis de fenêtre intérieurs en PVC** — fixés à la mousse dans le cadre et siliconés en périphérie
+- **Appuis de fenêtre extérieurs en aluminium** — avec profil goutte d'eau et pente vers l'extérieur (min. 5°)
+- **Silicone extérieur** avec silicone neutre résistant aux UV, couleur assortie au profilé
+
+## Erreurs de pose fréquentes et coûteuses
+
+❌ **Mousse polyuréthane au lieu de bande précomprimée** à l'extérieur — se fissure en 2–3 ans❌ **Cales en bois** sous le cadre — pourrissent, affectent le nivellement❌ **Pas de précadre** sur constructions nZEB — le pont thermique élimine 40–60% des économies d'énergie❌ **Mauvais dimensionnement** du cadre vs. ouverture réelle❌ **Quincaillerie non réglée** après pose — usure prématurée
+
+## Comment choisir une entreprise sérieuse de pose à Bucarest ?
+
+✅ L'entreprise vient obligatoirement pour **métrage sur place** (n'accepte pas de commandes sur la base de mesures du client)✅ Utilise des **bandes précomprimées** (demander explicitement — pas de mousse à l'extérieur)✅ Propose un **contrat écrit** avec les spécifications techniques complètes✅ Garantie minimum **5 ans** sur produit et main-d'œuvre✅ Équipes de pose propres, pas de sous-traitants✅ Précadres Blaugelb ou équivalent pour les projets nZEB
+
+---
+
+Neofort BIZ pose des fenêtres Salamander à Bucarest et Ilfov avec des équipes certifiées, bandes Illbruck et précadres Blaugelb Triotherm Plus. [Demander un devis pose](/fr/contact).`,
+
+      es: `## Por qué la instalación de ventanas Salamander importa tanto
+
+Ha elegido perfiles Salamander bluEvolution 82 o 92 — productos con Uf hasta 0,9 W/(m²K) y aislamiento acústico de 47 dB. Pero las prestaciones técnicas del perfil no significan nada si **la instalación se realiza incorrectamente**. Una instalación deficiente genera: puentes térmicos en la unión marco-mampostería, infiltraciones de agua y aire, condensación en los alféizares y, con el tiempo, deformaciones del marco. Esta guía le muestra exactamente qué implica una instalación profesional de ventanas Salamander en Bucarest e Ilfov.
 
 ## Paso 1 — Medición y diseño
 
-La instalación profesional siempre comienza con **mediciones in situ**, no con dimensiones aproximativas. El técnico mide la abertura existente y calcula las dimensiones del marco considerando:
+La instalación profesional siempre comienza con **mediciones in situ**, no con dimensiones aproximativas. El técnico mide la apertura existente (mampostería) y calcula las dimensiones del marco considerando:
 
-- Tipo de pared (hormigón celular, ladrillo, hormigón, panel)
-- Espesor del revoco o aislamiento
+- Tipo de pared (hormigón celular, ladrillo, hormigón, panel sándwich)
+- Espesor del revoco o del aislamiento térmico
 - Tipo de instalación elegido — **directamente en la pared** o **sobre premarco Blaugelb**
+- Necesidad de alféizares interiores (PVC o aluminio) y exteriores (aluminio)
 
-### Premarcos Blaugelb Triotherm Plus — el estándar nZEB
-Para construcciones nuevas y renovaciones **nZEB**, Neofort BIZ utiliza **premarcos Blaugelb Triotherm Plus**. El premarco crea una barrera térmica continua entre marco y mampostería, eliminando el puente térmico en el perímetro de la ventana.
+### Premarcos Blaugelb Triotherm Plus — El estándar nZEB
+Para nuevas construcciones y renovaciones **nZEB**, Neofort BIZ utiliza **premarcos Blaugelb Triotherm Plus**. El premarco se monta antes de la ventana y crea una barrera térmica continua entre marco y mampostería, eliminando el puente térmico en el perímetro de la ventana.
 
-## Paso 3 — Instalación según norma nZEB (regla RAL)
+## Paso 2 — Desmontaje de las ventanas antiguas
 
-- **Zona interior**: cinta barrera de vapor — impide la migración de humedad
-- **Zona media**: anclajes metálicos cada 70 cm máx., calzos de plástico (¡no de madera!)
-- **Zona exterior**: **banda precomprimida de butilo** (Illbruck TP600, Soudal Compriband) — se expande tras la instalación y sella el perímetro contra agua y viento
+El desmontaje se realiza con **ventosas profesionales** para la manipulación de grandes elementos de vidrio, sin dañar la mampostería ni los acabados interiores. Los restos de espuma de poliuretano, sellante o perfiles antiguos se eliminan completamente de la apertura.
 
-## Errores frecuentes de instalación
+## Paso 3 — Instalación según norma nZEB
 
-❌ Espuma de poliuretano en lugar de banda precomprimida al exterior — se agrieta en 2–3 años\
-❌ Calzos de madera bajo el marco — se pudren, afectan la nivelación\
-❌ Sin premarco en construcciones nZEB — el puente térmico elimina el 40–60% del ahorro energético
+La instalación profesional nZEB sigue la **norma RAL** (Asociación Alemana de Calidad para Ventanas):
 
-Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos propios certificados, bandas Illbruck y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contact).`,
+**Zona interior — estanqueidad al vapor:**
+- Cinta barrera de vapor interior (film PE o cinta adhesiva de butilo) — impide la migración de humedad desde el interior hacia la junta marco-mampostería
 
-      it: `## Perché l'installazione delle finestre Salamander è così importante?
+**Zona media — fijación y estabilización:**
+- Anclajes metálicos cada 70 cm como máximo
+- Calzos y subcalzos de plástico (¡no de madera!) para soportar el peso del vidrio
+- Espuma de PU de celda semiabierta en el espacio restante
 
-Ha scelto profili Salamander bluEvolution 82 o 92 — prodotti con Uf fino a 0,9 W/(m²K) e isolamento acustico di 47 dB. Ma le prestazioni tecniche del profilo non contano nulla se **l'installazione viene eseguita in modo errato**. Un'installazione scorretta genera: ponti termici alla giunzione telaio-muratura, infiltrazioni d'acqua e aria, condensa sui davanzali.
+**Zona exterior — estanqueidad al agua:**
+- **Banda precomprimida de butilo** (ej. Illbruck TP600, Soudal Compriband) — se expande tras la instalación y sella el perímetro exterior contra agua y viento
+
+## Paso 4 — Ajuste de la herraje
+
+Tras la instalación, la herraje Roto NT o Winkhaus debe ser **ajustado con precisión en los 3 ejes** (vertical, horizontal, compresión). Una herraje mal ajustado provoca: hojas que rozan en el marco, compresión desigual de las juntas, cierre difícil después de unos meses.
+
+## Paso 5 — Instalación de alféizares y acabados
+
+- **Alféizares interiores de PVC** — fijados con espuma en el marco y siliconados perimetralmente
+- **Alféizares exteriores de aluminio** — con perfil de goterón y pendiente hacia el exterior (mín. 5°)
+- **Siliconado exterior** con silicona neutra resistente a los UV, color adaptado al perfil
+
+## Errores frecuentes de instalación que cuestan caro
+
+❌ **Espuma de poliuretano en lugar de banda precomprimida** al exterior — se agrieta en 2–3 años❌ **Calzos de madera** bajo el marco — se pudren, afectan la nivelación❌ **Sin premarco** en construcciones nZEB — el puente térmico elimina el 40–60% del ahorro energético❌ **Dimensionamiento incorrecto** del marco vs. apertura real❌ **Herraje no ajustado** después de la instalación — desgaste prematuro
+
+## Cómo elegir una empresa seria de instalación en Bucarest
+
+✅ La empresa viene obligatoriamente para **mediciones in situ** (no acepta pedidos basados en medidas del cliente)✅ Usa **bandas precomprimidas** (preguntar explícitamente — no espuma al exterior)✅ Ofrece un **contrato escrito** con especificaciones técnicas completas✅ Garantía mínima de **5 años** en producto y mano de obra✅ Equipos propios de instalación, no subcontratistas✅ Premarcos Blaugelb o equivalente para proyectos nZEB
+
+---
+
+Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos certificados, bandas Illbruck y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contact).`,
+
+      it: `## Perché l'installazione delle finestre Salamander è così importante
+
+Ha scelto profili Salamander bluEvolution 82 o 92 — prodotti con Uf fino a 0,9 W/(m²K) e isolamento acustico di 47 dB. Ma le prestazioni tecniche del profilo non contano nulla se **l'installazione viene eseguita in modo errato**. Un'installazione scorretta genera: ponti termici alla giunzione telaio-muratura, infiltrazioni d'acqua e aria, condensa sui davanzali e, nel tempo, deformazioni del telaio. Questa guida mostra esattamente cosa comporta un'installazione professionale di finestre Salamander a Bucarest e Ilfov.
 
 ## Fase 1 — Rilievo e progettazione
 
-L'installazione professionale inizia sempre con **misurazioni in loco**, non con dimensioni approssimative. Il tecnico misura l'apertura esistente e calcola le dimensioni del telaio considerando:
+L'installazione professionale inizia sempre con **misurazioni in loco**, non con dimensioni approssimative. Il tecnico misura l'apertura esistente (muratura) e calcola le dimensioni del telaio considerando:
 
-- Tipo di parete (calcestruzzo cellulare, mattoni, calcestruzzo, pannello)
-- Spessore dell'intonaco o dell'isolamento
-- Tipo di installazione scelto — **direttamente nella parete** o **su precornice Blaugelb**
+- Tipo di parete (calcestruzzo cellulare, mattoni, calcestruzzo, pannello sandwich)
+- Spessore dell'intonaco o dell'isolamento termico
+- Tipo di installazione scelto — **direttamente nella muratura** o **su precornice Blaugelb**
+- Necessità di davanzali interni (PVC o alluminio) ed esterni (alluminio)
 
-### Precornici Blaugelb Triotherm Plus — lo standard nZEB
-Per nuove costruzioni e ristrutturazioni **nZEB**, Neofort BIZ utilizza **precornici Blaugelb Triotherm Plus**. La precornice crea una barriera termica continua tra telaio e muratura, eliminando il ponte termico al perimetro della finestra.
+### Precornici Blaugelb Triotherm Plus — Lo standard nZEB
+Per nuove costruzioni e ristrutturazioni **nZEB**, Neofort BIZ utilizza **precornici Blaugelb Triotherm Plus**. La precornice viene montata prima della finestra e crea una barriera termica continua tra telaio e muratura, eliminando il ponte termico al perimetro della finestra.
 
-## Fase 3 — Installazione secondo standard nZEB (regola RAL)
+## Fase 2 — Rimozione delle vecchie finestre
 
-- **Zona interna**: nastro barriera vapore — impedisce la migrazione dell'umidità
-- **Zona mediana**: ancoraggi metallici ogni 70 cm max., distanziali in plastica (non in legno!)
-- **Zona esterna**: **nastro precompresso in butile** (Illbruck TP600, Soudal Compriband) — si espande dopo l'installazione e sigilla il perimetro contro acqua e vento
+La rimozione viene effettuata con **ventose professionali** per la movimentazione di grandi elementi vetrati, senza danneggiare la muratura o i rivestimenti interni. I residui di schiuma poliuretanica, sigillante o profili vecchi vengono completamente rimossi dall'apertura.
 
-## Errori frequenti di installazione
+## Fase 3 — Installazione secondo lo standard nZEB
 
-❌ Schiuma poliuretanica invece di nastro precompresso all'esterno — si crepa in 2–3 anni\
-❌ Distanziali in legno sotto il telaio — marciscono, influenzano la livellatura\
-❌ Nessuna precornice su costruzioni nZEB — il ponte termico elimina il 40–60% del risparmio energetico
+L'installazione professionale nZEB segue la **norma RAL** (Associazione tedesca di qualità per finestre):
 
-Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team propri certificati, nastri Illbruck e precornici Blaugelb Triotherm Plus. [Richiedi preventivo installazione](/it/contact).`,
+**Zona interna — tenuta al vapore:**
+- Nastro barriera vapore interno (film PE o nastro adesivo in butile) — impedisce la migrazione dell'umidità dall'interno verso la giunzione telaio-muratura
+
+**Zona mediana — fissaggio e stabilizzazione:**
+- Ancoraggi metallici ogni 70 cm al massimo
+- Distanziali e sotto-distanziali in plastica (non in legno!) per supportare il peso del vetro
+- Schiuma PU a cella semi-aperta nello spazio rimanente
+
+**Zona esterna — tenuta all'acqua:**
+- **Nastro precompresso in butile** (es. Illbruck TP600, Soudal Compriband) — si espande dopo l'installazione e sigilla il perimetro esterno contro acqua e vento
+
+## Fase 4 — Regolazione della ferramenta
+
+Dopo l'installazione, la ferramenta Roto NT o Winkhaus deve essere **regolata con precisione nei 3 assi** (verticale, orizzontale, compressione). Una ferramenta non regolata correttamente causa: ante che strisciamo sul telaio, compressione irregolare delle guarnizioni, difficoltà di chiusura dopo pochi mesi.
+
+## Fase 5 — Installazione dei davanzali e rifiniture
+
+- **Davanzali interni in PVC** — fissati con schiuma espansa nel telaio e siliconati perimetralmente
+- **Davanzali esterni in alluminio** — con profilo gocciolatoio e pendenza verso l'esterno (min. 5°)
+- **Sigillatura esterna** con silicone neutro resistente ai raggi UV, colore abbinato al profilo
+
+## Errori di installazione frequenti e costosi
+
+❌ **Schiuma poliuretanica invece del nastro precompresso** all'esterno — si incrina in 2–3 anni❌ **Distanziali in legno** sotto il telaio — marciscono, influenzano la livellatura❌ **Nessuna precornice** su costruzioni nZEB — il ponte termico elimina il 40–60% del risparmio energetico❌ **Dimensionamento errato** del telaio vs. apertura reale❌ **Ferramenta non regolata** dopo l'installazione — usura prematura
+
+## Come scegliere un'azienda seria di installazione a Bucarest
+
+✅ L'azienda viene obbligatoriamente per **misurazioni in loco** (non accetta ordini basati su misure del cliente)✅ Usa **nastri precompressi** (chiedere esplicitamente — non schiuma all'esterno)✅ Offre un **contratto scritto** con le specifiche tecniche complete✅ Garanzia minima di **5 anni** su prodotto e manodopera✅ Squadre di installazione proprie, non subappaltatori✅ Precornici Blaugelb o equivalente per progetti nZEB
+
+---
+
+Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Illbruck e precornici Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contact).`,
     },
   },
 
@@ -1263,11 +1935,12 @@ Diferența de 700 lei se recuperează în 3–5 ani din facturile la energie —
 
 Neofort BIZ oferă ferestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) cu montaj nZEB în București și Ilfov. Ofertă personalizată în 24 ore — [solicită acum](/ro/contact).`,
 
-      en: `## What influences Salamander window prices in Bucharest?
+      en: `## What Influences Salamander Window Prices in Bucharest?
 
-The price of a Salamander window system depends on **6 main factors**, and differences between quotes can be 40–80% for the same size.
+The price of a Salamander window system depends on **6 main factors**, and differences between quotes can be 40–80% for the same dimensions. Before comparing prices, you need to understand what each quote includes.
 
-### 1. Salamander profile type
+### 1. Salamander Profile Type
+Salamander produces 3 main ranges available in Romania:
 
 | Profile | Chambers | Depth | Gaskets | Class | Recommended use |
 |---|---|---|---|---|---|
@@ -1275,47 +1948,77 @@ The price of a Salamander window system depends on **6 main factors**, and diffe
 | **bluEvolution 82** | 6 | 82 mm | 3 | A | New homes, high energy efficiency |
 | **bluEvolution 92** | 6 | 92 mm | 3 | A | Passive houses, nZEB, maximum insulation |
 
-### 2. Glazing type
+### 2. Type of Glazing Unit
 - **Double glazing (32 mm)** — standard, Ug = 1.0–1.1 W/(m²K)
 - **Triple glazing (44 mm)** — recommended, Ug = 0.5–0.7 W/(m²K), +15–25% price difference
 - **Triple glazing with argon and Low-E** — top performance, +20–35%
 - **Warm Edge spacer** — adds 5–8% to glazing price, eliminates condensation on inner spacer
 
-### 3. Profile colour
+### 3. Profile Colour
 - **Standard white** — base price
-- **Wood effect foil** (oak, walnut, mahogany, wenge) — +20–35%
-- **Special RAL colours** (double-sided painting) — +30–50%
+- **Wood effect foil** (oak, walnut, mahogany, wenge) — +20–35% vs white
+- **Special RAL colours** (double-sided painting) — +30–50% vs white
 
-## Indicative Salamander window prices Bucharest 2026
+### 4. Hardware
+- **Roto NT standard** — included at base price with serious suppliers
+- **Winkhaus** — similar price, preferred for commercial projects
+- **Anti-burglary hardware RC2/RC3** — +15–25% vs standard
+- **Lockable handles** or **sensor handles** — additional accessories
 
-### Single tilt-and-turn window (1 sash)
+### 5. Installation and Accessories
+- **Standard installation** (foam + exterior sealant) — included or 10–15% of product value
+- **Professional nZEB installation** (pre-compressed bands + anchors) — +20–30% vs standard but required for maximum warranty
+- **Interior PVC window sills** — €16–30/ml
+- **Exterior aluminium window sills** — €20–40/ml
+- **Blaugelb preframes** — €40–80/piece, required for nZEB
+
+### 6. Dimensions and Configuration
+A standard 100×120 cm window costs significantly less than a 200×200 cm window or a 300×240 cm sliding window. Every centimetre counts in price for made-to-order products.
+
+## Indicative Salamander Window Prices Bucharest 2026
+
+### Single Tilt-and-Turn Window (1 Sash)
 
 | Size | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
 |---|---|---|---|
+| 80×120 cm, white, double glazing | €180–220 | €210–260 | €240–300 |
 | 80×120 cm, white, triple glazing | €220–270 | €250–310 | €290–360 |
 | 100×150 cm, white, triple glazing | €260–320 | €310–380 | €360–440 |
 
-### Double tilt-and-turn window (2 sashes)
+### Double Tilt-and-Turn Window (2 Sashes)
 
 | Size | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
 |---|---|---|---|
 | 150×120 cm, white, triple glazing | €440–540 | €520–640 | €600–740 |
+| 200×140 cm, white, triple glazing | €560–680 | €660–800 | €760–940 |
 
-*Indicative prices 2026, VAT excluded, without installation.*
+### Insulated Door (1 Sash) — Without Glazing
 
-## What to check in any window quote
+| Size | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 90×210 cm, white, 44 mm panel | €400–500 | €480–600 | €560–700 |
 
-✅ **Exact profile** — number of chambers, depth, class (A or B)\
-✅ **Glazing type** — double or triple, declared Ug, Low-E type, argon gas or not\
-✅ **Hardware** — declared brand (Roto, Winkhaus, Maco)\
-✅ **Installation** — what is included: pre-compressed bands, anchors, window sills\
-✅ **Warranty** — separately for product (min. 5 years) and workmanship (min. 2 years)
+*Indicative prices 2026, VAT excluded, without installation, for Bucharest and Ilfov. Final price may differ depending on chosen hardware, colour, accessories and exact dimensions.*
 
-Neofort BIZ offers Salamander windows with nZEB installation in Bucharest and Ilfov. Personalised quote in 24 hours — [request now](/en/contact).`,
+## What to Check in Any Window Quote
+
+✅ **Exact profile** — chamber count, depth, class (A or B)✅ **Glazing type** — double or triple, declared Ug, Low-E type, argon gas or not✅ **Hardware** — declared brand (Roto, Winkhaus, Maco), not just "quality hardware"✅ **Installation** — what is included: pre-compressed bands, anchors, window sills, siliconing✅ **Warranty** — separately for product (min. 5 years) and workmanship (min. 2 years)✅ **Preframes** — included or optional, required for nZEB
+
+## Why Do Window Prices Vary So Much?
+
+A quote of €160 for a 100×120 cm window usually hides: **Class B profile** (walls under 2.5 mm), double glazing with Ug = 1.0, generic hardware without brand, foam installation, no serious warranty.
+
+A quote of €300 for the same window includes: **Class A Salamander profile**, triple glazing with argon and Low-E, Roto NT hardware, installation with pre-compressed bands, 5-year warranty.
+
+The €140 difference is recovered in 3–5 years from energy bills — and above all you avoid repair or premature replacement costs.
+
+---
+
+Neofort BIZ offers Salamander windows (greenEvolution 76, bluEvolution 82, bluEvolution 92) with nZEB installation in Bucharest and Ilfov. Personalised quote in 24 hours — [request now](/en/contact).`,
 
       de: `## Was beeinflusst die Preise von Salamander-Fenstern in Bukarest?
 
-Der Preis eines Salamander-Fenstersystems hängt von **6 Hauptfaktoren** ab, und die Unterschiede zwischen Angeboten können für dieselbe Größe 40–80% betragen.
+Der Preis eines Salamander-Fenstersystems hängt von **6 Hauptfaktoren** ab, und die Unterschiede zwischen Angeboten können für dieselben Maße 40–80% betragen. Bevor Sie Preise vergleichen, müssen Sie verstehen, was jedes Angebot beinhaltet.
 
 ### 1. Salamander-Profiltyp
 
@@ -1325,11 +2028,28 @@ Der Preis eines Salamander-Fenstersystems hängt von **6 Hauptfaktoren** ab, und
 | **bluEvolution 82** | 6 | 82 mm | 3 | A | Neubau, hohe Energieeffizienz |
 | **bluEvolution 92** | 6 | 92 mm | 3 | A | Passivhäuser, nZEB, maximale Dämmung |
 
-### 2. Verglasung
+### 2. Verglasungspaket
 - **Zweifachverglasung (32 mm)** — Standard, Ug = 1,0–1,1 W/(m²K)
 - **Dreifachverglasung (44 mm)** — empfohlen, Ug = 0,5–0,7 W/(m²K), +15–25% Preisunterschied
 - **Dreifachverglasung mit Argon und Low-E** — Topperformance, +20–35%
-- **Warm-Edge-Abstandhalter** — +5–8%, eliminiert Kondensat am Innenabstandhalter
+- **Warm-Edge-Abstandhalter** — +5–8% zum Verglasungspreis, eliminiert Kondensat am Innenabstandhalter
+
+### 3. Profilfarbe
+- **Standardweiß** — Basispreis
+- **Holzimitationsfolie** (Eiche, Nuss, Mahagoni, Wenge) — +20–35% gegenüber Weiß
+- **Sonder-RAL-Farben** (beidseitige Beschichtung) — +30–50% gegenüber Weiß
+
+### 4. Beschläge
+- **Roto NT Standard** — beim Basispreis bei seriösen Lieferanten enthalten
+- **Winkhaus** — ähnlicher Preis, bevorzugt für Gewerbeprojekte
+- **Einbruchhemmende Beschläge RC2/RC3** — +15–25% gegenüber Standard
+
+### 5. Montage und Zubehör
+- **Standardmontage** (Schaum + Außendichtstoff) — enthalten oder 10–15% des Produktwertes
+- **Professionelle nZEB-Montage** (vorkomprimierte Bänder + Anker) — +20–30% vs. Standard
+- **Innen-Fensterbänke PVC** — 16–30 €/lfm
+- **Außen-Fensterbänke Aluminium** — 20–40 €/lfm
+- **Blaugelb-Vorblendrahmen** — 40–80 €/Stück, erforderlich für nZEB
 
 ## Orientierungspreise Salamander-Fenster Bukarest 2026
 
@@ -1337,24 +2057,38 @@ Der Preis eines Salamander-Fenstersystems hängt von **6 Hauptfaktoren** ab, und
 
 | Größe | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
 |---|---|---|---|
-| 80×120 cm, weiß, Dreifachverglasung | 220–270 € | 250–310 € | 290–360 € |
-| 100×150 cm, weiß, Dreifachverglasung | 260–320 € | 310–380 € | 360–440 € |
+| 80×120 cm, weiß, Zweifachverg. | 180–220 € | 210–260 € | 240–300 € |
+| 80×120 cm, weiß, Dreifachverg. | 220–270 € | 250–310 € | 290–360 € |
+| 100×150 cm, weiß, Dreifachverg. | 260–320 € | 310–380 € | 360–440 € |
 
-*Richtwerte 2026, ohne MwSt., ohne Montage.*
+### Doppelflügelfenster (2 Flügel) Dreh-Kipp
+
+| Größe | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 150×120 cm, weiß, Dreifachverg. | 440–540 € | 520–640 € | 600–740 € |
+| 200×140 cm, weiß, Dreifachverg. | 560–680 € | 660–800 € | 760–940 € |
+
+*Richtwerte 2026, ohne MwSt., ohne Montage, für Bukarest und Ilfov.*
 
 ## Was Sie in jedem Fensterangebot prüfen sollten
 
-✅ **Exaktes Profil** — Kammeranzahl, Tiefe, Klasse (A oder B)\
-✅ **Verglasungstyp** — zwei- oder dreifach, deklarierter Ug-Wert, Low-E-Typ, Argon\
-✅ **Beschläge** — deklarierte Marke (Roto, Winkhaus, Maco)\
-✅ **Montage** — was enthalten ist: vorkomprimierte Bänder, Anker, Fensterbänke\
-✅ **Garantie** — separat für Produkt (mind. 5 Jahre) und Montage (mind. 2 Jahre)
+✅ **Exaktes Profil** — Kammeranzahl, Tiefe, Klasse (A oder B)✅ **Verglasungstyp** — zwei- oder dreifach, deklarierter Ug-Wert, Low-E-Typ, Argon✅ **Beschläge** — deklarierte Marke (Roto, Winkhaus, Maco), nicht nur "Qualitätsbeschläge"✅ **Montage** — was enthalten ist: vorkomprimierte Bänder, Anker, Fensterbänke✅ **Garantie** — separat für Produkt (mind. 5 Jahre) und Montage (mind. 2 Jahre)
 
-Neofort BIZ bietet Salamander-Fenster mit nZEB-Montage in Bukarest und Ilfov. Individuelles Angebot in 24 Stunden — [jetzt anfragen](/de/kontakt).`,
+## Warum unterscheiden sich die Fensterpreise so stark?
+
+Ein Angebot von 160 € für ein 100×120-cm-Fenster versteckt meist: **Klasse-B-Profil** (Wandstärke unter 2,5 mm), Zweifachverglasung mit Ug = 1,0, generische Beschläge ohne Marke, Schaumdämmung, keine ernst zu nehmende Garantie.
+
+Ein Angebot von 300 € für dasselbe Fenster beinhaltet: **Salamander Klasse-A-Profil**, Dreifachverglasung mit Argon und Low-E, Roto NT Beschläge, Montage mit vorkomprimierten Bändern, 5 Jahre Garantie.
+
+Die Differenz von 140 € amortisiert sich in 3–5 Jahren über die Energiekosten — und vor allem vermeiden Sie Reparatur- oder vorzeitige Austauschkosten.
+
+---
+
+Neofort BIZ bietet Salamander-Fenster (greenEvolution 76, bluEvolution 82, bluEvolution 92) mit nZEB-Montage in Bukarest und Ilfov. Individuelles Angebot in 24 Stunden — [jetzt anfragen](/de/kontakt).`,
 
       fr: `## Qu'est-ce qui influence les prix des fenêtres Salamander à Bucarest ?
 
-Le prix d'un système de fenêtres Salamander dépend de **6 facteurs principaux**, et les différences entre devis peuvent atteindre 40–80% pour la même taille.
+Le prix d'un système de fenêtres Salamander dépend de **6 facteurs principaux**, et les différences entre devis peuvent atteindre 40–80% pour les mêmes dimensions. Avant de comparer les prix, vous devez comprendre ce que chaque devis inclut.
 
 ### 1. Type de profilé Salamander
 
@@ -1368,7 +2102,24 @@ Le prix d'un système de fenêtres Salamander dépend de **6 facteurs principaux
 - **Double vitrage (32 mm)** — standard, Ug = 1,0–1,1 W/(m²K)
 - **Triple vitrage (44 mm)** — recommandé, Ug = 0,5–0,7 W/(m²K), +15–25% de différence de prix
 - **Triple vitrage avec argon et Low-E** — performances optimales, +20–35%
-- **Espaceur Warm Edge** — +5–8%, élimine la condensation sur l'espaceur intérieur
+- **Espaceur Warm Edge** — +5–8% au prix du vitrage, élimine la condensation sur l'espaceur intérieur
+
+### 3. Couleur du profilé
+- **Blanc standard** — prix de base
+- **Folie imitation bois** (chêne, noyer, acajou, wengé) — +20–35% vs blanc
+- **Couleurs RAL spéciales** (peinture double face) — +30–50% vs blanc
+
+### 4. Quincaillerie
+- **Roto NT standard** — incluse au prix de base chez les fournisseurs sérieux
+- **Winkhaus** — prix similaire, préférée pour les projets commerciaux
+- **Quincaillerie anti-effraction RC2/RC3** — +15–25% vs standard
+
+### 5. Pose et accessoires
+- **Pose standard** (mousse + mastic extérieur) — incluse ou 10–15% de la valeur du produit
+- **Pose professionnelle nZEB** (bandes précomprimées + ancrages) — +20–30% vs standard
+- **Appuis de fenêtre intérieurs PVC** — 16–30 €/ml
+- **Appuis de fenêtre extérieurs aluminium** — 20–40 €/ml
+- **Précadres Blaugelb** — 40–80 €/pièce, obligatoires pour nZEB
 
 ## Prix indicatifs fenêtres Salamander Bucarest 2026
 
@@ -1376,24 +2127,38 @@ Le prix d'un système de fenêtres Salamander dépend de **6 facteurs principaux
 
 | Dimension | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
 |---|---|---|---|
+| 80×120 cm, blanc, double vitrage | 180–220 € | 210–260 € | 240–300 € |
 | 80×120 cm, blanc, triple vitrage | 220–270 € | 250–310 € | 290–360 € |
 | 100×150 cm, blanc, triple vitrage | 260–320 € | 310–380 € | 360–440 € |
 
-*Prix indicatifs 2026, hors TVA, sans pose.*
+### Fenêtre double oscillo-battante (2 vantaux)
+
+| Dimension | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 150×120 cm, blanc, triple vitrage | 440–540 € | 520–640 € | 600–740 € |
+| 200×140 cm, blanc, triple vitrage | 560–680 € | 660–800 € | 760–940 € |
+
+*Prix indicatifs 2026, hors TVA, sans pose, pour Bucarest et Ilfov.*
 
 ## Ce qu'il faut vérifier dans tout devis de fenêtres
 
-✅ **Profilé exact** — nombre de chambres, profondeur, classe (A ou B)\
-✅ **Type de vitrage** — double ou triple, Ug déclaré, type Low-E, gaz argon\
-✅ **Quincaillerie** — marque déclarée (Roto, Winkhaus, Maco)\
-✅ **Pose** — ce qui est inclus : bandes précomprimées, ancrages, appuis de fenêtre\
-✅ **Garantie** — séparément pour le produit (min. 5 ans) et la main-d'œuvre (min. 2 ans)
+✅ **Profilé exact** — nombre de chambres, profondeur, classe (A ou B)✅ **Type de vitrage** — double ou triple, Ug déclaré, type Low-E, gaz argon✅ **Quincaillerie** — marque déclarée (Roto, Winkhaus, Maco), pas seulement "quincaillerie de qualité"✅ **Pose** — ce qui est inclus : bandes précomprimées, ancrages, appuis de fenêtre✅ **Garantie** — séparément pour le produit (min. 5 ans) et la main-d'œuvre (min. 2 ans)
 
-Neofort BIZ propose des fenêtres Salamander avec pose nZEB à Bucarest et Ilfov. Devis personnalisé en 24 heures — [demander maintenant](/fr/contact).`,
+## Pourquoi les prix des fenêtres varient-ils autant ?
+
+Un devis à 160 € pour une fenêtre 100×120 cm cache généralement : **profilé Classe B** (parois sous 2,5 mm), double vitrage Ug = 1,0, quincaillerie générique sans marque, pose à la mousse, sans garantie sérieuse.
+
+Un devis à 300 € pour la même fenêtre inclut : **profilé Salamander Classe A**, triple vitrage avec argon et Low-E, quincaillerie Roto NT, pose avec bandes précomprimées, garantie 5 ans.
+
+La différence de 140 € est récupérée en 3–5 ans sur les factures d'énergie — et surtout vous évitez les coûts de réparation ou de remplacement prématuré.
+
+---
+
+Neofort BIZ propose des fenêtres Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) avec pose nZEB à Bucarest et Ilfov. Devis personnalisé en 24 heures — [demander maintenant](/fr/contact).`,
 
       es: `## ¿Qué influye en los precios de las ventanas Salamander en Bucarest?
 
-El precio de un sistema de ventanas Salamander depende de **6 factores principales**, y las diferencias entre presupuestos pueden ser del 40–80% para el mismo tamaño.
+El precio de un sistema de ventanas Salamander depende de **6 factores principales**, y las diferencias entre presupuestos pueden ser del 40–80% para las mismas dimensiones. Antes de comparar precios, debe entender qué incluye cada presupuesto.
 
 ### 1. Tipo de perfil Salamander
 
@@ -1407,7 +2172,24 @@ El precio de un sistema de ventanas Salamander depende de **6 factores principal
 - **Doble acristalamiento (32 mm)** — estándar, Ug = 1,0–1,1 W/(m²K)
 - **Triple acristalamiento (44 mm)** — recomendado, Ug = 0,5–0,7 W/(m²K), +15–25% diferencia de precio
 - **Triple acristalamiento con argón y Low-E** — máximo rendimiento, +20–35%
-- **Separador Warm Edge** — +5–8%, elimina la condensación en el separador interior
+- **Separador Warm Edge** — +5–8% al precio del acristalamiento, elimina la condensación en el separador interior
+
+### 3. Color del perfil
+- **Blanco estándar** — precio base
+- **Laminado imitación madera** (roble, nogal, caoba, wengé) — +20–35% vs blanco
+- **Colores RAL especiales** (pintura de doble cara) — +30–50% vs blanco
+
+### 4. Herraje
+- **Roto NT estándar** — incluido en el precio base en proveedores serios
+- **Winkhaus** — precio similar, preferido para proyectos comerciales
+- **Herraje antiefracción RC2/RC3** — +15–25% vs estándar
+
+### 5. Instalación y accesorios
+- **Instalación estándar** (espuma + sellante exterior) — incluida o 10–15% del valor del producto
+- **Instalación profesional nZEB** (bandas precomprimidas + anclajes) — +20–30% vs estándar
+- **Alféizares interiores PVC** — 16–30 €/ml
+- **Alféizares exteriores aluminio** — 20–40 €/ml
+- **Premarcos Blaugelb** — 40–80 €/ud, obligatorios para nZEB
 
 ## Precios orientativos ventanas Salamander Bucarest 2026
 
@@ -1415,24 +2197,38 @@ El precio de un sistema de ventanas Salamander depende de **6 factores principal
 
 | Tamaño | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
 |---|---|---|---|
-| 80×120 cm, blanco, triple acristalamiento | 220–270 € | 250–310 € | 290–360 € |
-| 100×150 cm, blanco, triple acristalamiento | 260–320 € | 310–380 € | 360–440 € |
+| 80×120 cm, blanco, doble acrist. | 180–220 € | 210–260 € | 240–300 € |
+| 80×120 cm, blanco, triple acrist. | 220–270 € | 250–310 € | 290–360 € |
+| 100×150 cm, blanco, triple acrist. | 260–320 € | 310–380 € | 360–440 € |
 
-*Precios orientativos 2026, sin IVA, sin instalación.*
+### Ventana doble oscilo-batiente (2 hojas)
 
-## Qué hay que verificar en cualquier presupuesto de ventanas
+| Tamaño | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 150×120 cm, blanco, triple acrist. | 440–540 € | 520–640 € | 600–740 € |
+| 200×140 cm, blanco, triple acrist. | 560–680 € | 660–800 € | 760–940 € |
 
-✅ **Perfil exacto** — número de cámaras, profundidad, clase (A o B)\
-✅ **Tipo de acristalamiento** — doble o triple, Ug declarado, tipo Low-E, gas argón\
-✅ **Herraje** — marca declarada (Roto, Winkhaus, Maco)\
-✅ **Instalación** — qué incluye: bandas precomprimidas, anclajes, alféizares\
-✅ **Garantía** — por separado para el producto (mín. 5 años) y mano de obra (mín. 2 años)
+*Precios orientativos 2026, sin IVA, sin instalación, para Bucarest e Ilfov.*
 
-Neofort BIZ ofrece ventanas Salamander con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 24 horas — [solicitar ahora](/es/contact).`,
+## Qué verificar en cualquier presupuesto de ventanas
+
+✅ **Perfil exacto** — número de cámaras, profundidad, clase (A o B)✅ **Tipo de acristalamiento** — doble o triple, Ug declarado, tipo Low-E, gas argón✅ **Herraje** — marca declarada (Roto, Winkhaus, Maco), no solo "herraje de calidad"✅ **Instalación** — qué incluye: bandas precomprimidas, anclajes, alféizares✅ **Garantía** — por separado para producto (mín. 5 años) y mano de obra (mín. 2 años)
+
+## ¿Por qué varían tanto los precios de las ventanas?
+
+Un presupuesto de 160 € para una ventana de 100×120 cm suele esconder: **perfil Clase B** (paredes bajo 2,5 mm), doble acristalamiento Ug = 1,0, herraje genérico sin marca, instalación con espuma, sin garantía seria.
+
+Un presupuesto de 300 € para la misma ventana incluye: **perfil Salamander Clase A**, triple acristalamiento con argón y Low-E, herraje Roto NT, instalación con bandas precomprimidas, garantía de 5 años.
+
+La diferencia de 140 € se recupera en 3–5 años en facturas de energía — y sobre todo evita costes de reparación o sustitución prematura.
+
+---
+
+Neofort BIZ ofrece ventanas Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 24 horas — [solicitar ahora](/es/contact).`,
 
       it: `## Cosa influenza i prezzi delle finestre Salamander a Bucarest?
 
-Il prezzo di un sistema di finestre Salamander dipende da **6 fattori principali**, e le differenze tra preventivi possono essere del 40–80% per la stessa dimensione.
+Il prezzo di un sistema di finestre Salamander dipende da **6 fattori principali**, e le differenze tra preventivi possono essere del 40–80% per le stesse dimensioni. Prima di confrontare i prezzi, devi capire cosa include ogni preventivo.
 
 ### 1. Tipo di profilo Salamander
 
@@ -1446,7 +2242,24 @@ Il prezzo di un sistema di finestre Salamander dipende da **6 fattori principali
 - **Doppio vetro (32 mm)** — standard, Ug = 1,0–1,1 W/(m²K)
 - **Triplo vetro (44 mm)** — consigliato, Ug = 0,5–0,7 W/(m²K), +15–25% differenza di prezzo
 - **Triplo vetro con argon e Low-E** — prestazioni massime, +20–35%
-- **Distanziale Warm Edge** — +5–8%, elimina la condensa sul distanziale interno
+- **Distanziale Warm Edge** — +5–8% al prezzo del vetro, elimina la condensa sul distanziale interno
+
+### 3. Colore del profilo
+- **Bianco standard** — prezzo base
+- **Pellicola effetto legno** (rovere, noce, mogano, wengè) — +20–35% vs bianco
+- **Colori RAL speciali** (verniciatura doppia faccia) — +30–50% vs bianco
+
+### 4. Ferramenta
+- **Roto NT standard** — inclusa nel prezzo base presso fornitori seri
+- **Winkhaus** — prezzo simile, preferita per progetti commerciali
+- **Ferramenta antieffrazione RC2/RC3** — +15–25% vs standard
+
+### 5. Installazione e accessori
+- **Installazione standard** (schiuma + sigillante esterno) — inclusa o 10–15% del valore del prodotto
+- **Installazione professionale nZEB** (nastri precompressi + ancoraggi) — +20–30% vs standard
+- **Davanzali interni PVC** — 16–30 €/ml
+- **Davanzali esterni alluminio** — 20–40 €/ml
+- **Precornici Blaugelb** — 40–80 €/pezzo, obbligatorie per nZEB
 
 ## Prezzi indicativi finestre Salamander Bucarest 2026
 
@@ -1454,20 +2267,34 @@ Il prezzo di un sistema di finestre Salamander dipende da **6 fattori principali
 
 | Dimensione | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
 |---|---|---|---|
+| 80×120 cm, bianco, doppio vetro | 180–220 € | 210–260 € | 240–300 € |
 | 80×120 cm, bianco, triplo vetro | 220–270 € | 250–310 € | 290–360 € |
 | 100×150 cm, bianco, triplo vetro | 260–320 € | 310–380 € | 360–440 € |
 
-*Prezzi indicativi 2026, IVA esclusa, senza installazione.*
+### Finestra doppia anta-ribalta (2 ante)
+
+| Dimensione | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
+|---|---|---|---|
+| 150×120 cm, bianco, triplo vetro | 440–540 € | 520–640 € | 600–740 € |
+| 200×140 cm, bianco, triplo vetro | 560–680 € | 660–800 € | 760–940 € |
+
+*Prezzi indicativi 2026, IVA esclusa, senza installazione, per Bucarest e Ilfov.*
 
 ## Cosa verificare in qualsiasi preventivo di finestre
 
-✅ **Profilo esatto** — numero di camere, profondità, classe (A o B)\
-✅ **Tipo di vetrocamera** — doppio o triplo, Ug dichiarato, tipo Low-E, gas argon\
-✅ **Ferramenta** — marca dichiarata (Roto, Winkhaus, Maco)\
-✅ **Installazione** — cosa include: nastri precompressi, ancoraggi, davanzali\
-✅ **Garanzia** — separatamente per il prodotto (min. 5 anni) e manodopera (min. 2 anni)
+✅ **Profilo esatto** — numero di camere, profondità, classe (A o B)✅ **Tipo di vetrocamera** — doppio o triplo, Ug dichiarato, tipo Low-E, gas argon✅ **Ferramenta** — marca dichiarata (Roto, Winkhaus, Maco), non solo "ferramenta di qualità"✅ **Installazione** — cosa include: nastri precompressi, ancoraggi, davanzali✅ **Garanzia** — separatamente per prodotto (min. 5 anni) e manodopera (min. 2 anni)
 
-Neofort BIZ offre finestre Salamander con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 24 ore — [richiedi ora](/it/contact).`,
+## Perché i prezzi delle finestre variano così tanto?
+
+Un preventivo da 160 € per una finestra 100×120 cm nasconde solitamente: **profilo Classe B** (pareti sotto 2,5 mm), doppio vetro Ug = 1,0, ferramenta generica senza marca, installazione con schiuma, nessuna garanzia seria.
+
+Un preventivo da 300 € per la stessa finestra include: **profilo Salamander Classe A**, triplo vetro con argon e Low-E, ferramenta Roto NT, installazione con nastri precompressi, garanzia 5 anni.
+
+La differenza di 140 € si recupera in 3–5 anni sulle bollette energetiche — e soprattutto si evitano costi di riparazione o sostituzione prematura.
+
+---
+
+Neofort BIZ offre finestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 24 ore — [richiedi ora](/it/contact).`,
     },
   },
 
