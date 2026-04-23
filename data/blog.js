@@ -10321,7 +10321,7 @@ Un furnizor serios răspunde imediat la toate 5. Dacă evită, nu știe sau refu
 
 ## De ce Neofort BIZ pentru fereastra ta din București sau Ilfov?
 
-Neofort BIZ este furnizor specializat de tâmplărie Salamander PVC și aluminiu Alumil în București, cu **21 de ani de experiență** și **46 recenzii Google cu rating 4,9/5**.
+Neofort BIZ este furnizor specializat de tâmplărie Salamander PVC și aluminiu Alumil în București, cu **21 de ani de experiență** și **50 recenzii Google cu rating 4,9/5**.
 
 Montăm exclusiv în sistem nZEB complet — nu oferim montaj fără precadre Blaugelb, pentru că nu respectăm standarde pe care nu le putem garanta.
 
@@ -11124,7 +11124,7 @@ Aluminiul se vopsește în orice culoare RAL prin **vopsire electostatică** (du
 - **21 ani experiență** în tâmplărie aluminiu și PVC
 - **Sisteme Alumil Supreme** — nu compromitem cu profile de gamă medie pentru proiecte premium
 - **Montaj cu echipă proprie** — nu subcontractăm montajul
-- **46 recenzii Google, rating 4,9/5**
+- **50 recenzii Google, rating 4,9/5**
 
 **WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**`,
 
