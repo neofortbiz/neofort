@@ -310,7 +310,7 @@ export default function BlogGrid({ articles, locale, read }) {
           {mounted && (
             <p className="bg-status" aria-live="polite" aria-atomic="true">
               {filtered.length} {filtered.length === 1 ? resLabel[0] : resLabel[1]}
-              {searchQuery.trim().length >= 2 && <> — <em style={{fontStyle:'normal',color:'#999'}}>"{searchQuery.trim()}"</em></>}
+              {searchQuery.trim().length >= 2 && <> — <em style={{fontStyle:'normal',color:'#6b6b6b'}}>"{searchQuery.trim()}"</em></>}
             </p>
           )}
         </div>
@@ -348,17 +348,17 @@ export default function BlogGrid({ articles, locale, read }) {
                     <div style={{ display:'flex', alignItems:'center', gap:'8px', marginBottom:'9px', flexWrap:'wrap' }}>
                       <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'.54rem', letterSpacing:'.18em', textTransform:'uppercase', color:accent }}>{cat}</span>
                       <span style={{ color:'#e0e0e0', fontSize:'.4rem' }}>◆</span>
-                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.58rem', letterSpacing:'.06em', color:'#bbb' }}>{date}</span>
-                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#ccc', marginLeft:'auto' }}>{rt}</span>
+                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.58rem', letterSpacing:'.06em', color:'#595959' }}>{date}</span>
+                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#595959', marginLeft:'auto' }}>{rt}</span>
                       {viewCounts[a.slugs?.ro] > 0 && (
-                        <span style={{ display:'inline-flex', alignItems:'center', gap:'3px', fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#bbb' }}>
+                        <span style={{ display:'inline-flex', alignItems:'center', gap:'3px', fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#595959' }}>
                           <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
                           {viewCounts[a.slugs?.ro].toLocaleString()}
                         </span>
                       )}
                     </div>
                     <h2 style={{ fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'1rem', color:'#1a1a1a', lineHeight:1.25, letterSpacing:'.01em', margin:'0 0 9px' }}>{title}</h2>
-                    <p style={{ fontSize:'.78rem', color:'#999', lineHeight:1.65, margin:'0 0 14px', flex:1 }}>{excerpt.slice(0,110)}…</p>
+                    <p style={{ fontSize:'.78rem', color:'#6b6b6b', lineHeight:1.65, margin:'0 0 14px', flex:1 }}>{excerpt.slice(0,110)}…</p>
                     <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.14em', textTransform:'uppercase', color:accent }}>{read}</span>
                   </div>
                 </Link>
