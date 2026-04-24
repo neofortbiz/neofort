@@ -64,6 +64,7 @@ export default function BlogGrid({ articles, locale, read }) {
   const [activeFilter, setActiveFilter] = useState('all');
   const [searchQuery, setSearchQuery]   = useState('');
   const [mounted, setMounted]           = useState(false);
+  const [viewCounts, setViewCounts]     = useState({});
 
   const labels      = FILTERS_LABELS[locale]     || FILTERS_LABELS.ro;
   const placeholder = SEARCH_PLACEHOLDER[locale]  || SEARCH_PLACEHOLDER.ro;
@@ -74,7 +75,21 @@ export default function BlogGrid({ articles, locale, read }) {
     setMounted(true);
     const hash = window.location.hash.replace('#', '');
     if (FILTER_KEYS.includes(hash)) setActiveFilter(hash);
-  }, []);
+    // Fetch views pentru toate articolele
+    const slugs = articles.map(a => a.slugs?.ro).filter(Boolean);
+    Promise.all(
+      slugs.map(slug =>
+        fetch(`/api/views/${slug}`)
+          .then(r => r.json())
+          .then(d => ({ slug, views: d.views || 0 }))
+          .catch(() => ({ slug, views: 0 }))
+      )
+    ).then(results => {
+      const counts = {};
+      results.forEach(({ slug, views }) => { counts[slug] = views; });
+      setViewCounts(counts);
+    });
+  }, [articles]);
 
   const handleFilter = useCallback((key) => {
     setActiveFilter(key);
@@ -147,7 +162,7 @@ export default function BlogGrid({ articles, locale, read }) {
           font-size: .6rem;
           letter-spacing: .12em;
           text-transform: uppercase;
-          color: #595959;
+          color: #aaa;
           background: transparent;
           border: none;
           border-bottom: 2px solid transparent;
@@ -161,7 +176,7 @@ export default function BlogGrid({ articles, locale, read }) {
         .bg-count {
           font-size: .46rem;
           background: #f0f0ee;
-          color: #4a4a4a;
+          color: #bbb;
           padding: 1px 4px;
           border-radius: 8px;
           font-weight: 700;
@@ -189,24 +204,24 @@ export default function BlogGrid({ articles, locale, read }) {
           flex-shrink: 0;
           transition: border-color .15s, width .2s;
         }
-        .bg-search:focus-within { border-color: #4a4a4a; width: 320px; }
-        .bg-search svg { flex-shrink: 0; color: #4a4a4a; }
+        .bg-search:focus-within { border-color: #bbb; width: 320px; }
+        .bg-search svg { flex-shrink: 0; color: #bbb; }
         .bg-search input {
           border: none; background: transparent;
           font-family: 'Barlow Condensed', sans-serif;
           font-size: .74rem; letter-spacing: .04em; color: #1a1a1a;
           width: 100%; outline: none;
         }
-        .bg-search input::placeholder { color: #595959; }
+        .bg-search input::placeholder { color: #ccc; }
         .bg-search-clear {
           background: none; border: none; padding: 0;
-          cursor: pointer; color: #595959; line-height: 1; flex-shrink: 0;
+          cursor: pointer; color: #ccc; line-height: 1; flex-shrink: 0;
         }
         .bg-search-clear:hover { color: #555; }
         .bg-status {
           font-family: 'Barlow Condensed', sans-serif;
           font-size: .58rem; letter-spacing: .12em;
-          text-transform: uppercase; color: #4a4a4a;
+          text-transform: uppercase; color: #bbb;
           margin-left: auto;
         }
 
@@ -227,7 +242,7 @@ export default function BlogGrid({ articles, locale, read }) {
         .bg-card:hover { border-color: #d8d8d4; box-shadow: 0 4px 20px rgba(0,0,0,.05); }
         .bg-empty {
           grid-column: 1/-1; text-align: center;
-          padding: 80px 0; color: #595959;
+          padding: 80px 0; color: #ccc;
           font-family: 'Barlow Condensed', sans-serif;
           font-size: 1rem; letter-spacing: .08em;
         }
@@ -295,7 +310,7 @@ export default function BlogGrid({ articles, locale, read }) {
           {mounted && (
             <p className="bg-status" aria-live="polite" aria-atomic="true">
               {filtered.length} {filtered.length === 1 ? resLabel[0] : resLabel[1]}
-              {searchQuery.trim().length >= 2 && <> — <em style={{fontStyle:'normal',color:'#404040'}}>"{searchQuery.trim()}"</em></>}
+              {searchQuery.trim().length >= 2 && <> — <em style={{fontStyle:'normal',color:'#999'}}>"{searchQuery.trim()}"</em></>}
             </p>
           )}
         </div>
@@ -333,11 +348,17 @@ export default function BlogGrid({ articles, locale, read }) {
                     <div style={{ display:'flex', alignItems:'center', gap:'8px', marginBottom:'9px', flexWrap:'wrap' }}>
                       <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'.54rem', letterSpacing:'.18em', textTransform:'uppercase', color:accent }}>{cat}</span>
                       <span style={{ color:'#e0e0e0', fontSize:'.4rem' }}>◆</span>
-                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.58rem', letterSpacing:'.06em', color:'#4a4a4a' }}>{date}</span>
-                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#404040', marginLeft:'auto' }}>{rt}</span>
+                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.58rem', letterSpacing:'.06em', color:'#bbb' }}>{date}</span>
+                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#ccc', marginLeft:'auto' }}>{rt}</span>
+                      {viewCounts[a.slugs?.ro] > 0 && (
+                        <span style={{ display:'inline-flex', alignItems:'center', gap:'3px', fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#bbb' }}>
+                          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+                          {viewCounts[a.slugs?.ro].toLocaleString()}
+                        </span>
+                      )}
                     </div>
                     <h2 style={{ fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'1rem', color:'#1a1a1a', lineHeight:1.25, letterSpacing:'.01em', margin:'0 0 9px' }}>{title}</h2>
-                    <p style={{ fontSize:'.78rem', color:'#404040', lineHeight:1.65, margin:'0 0 14px', flex:1 }}>{excerpt.slice(0,110)}…</p>
+                    <p style={{ fontSize:'.78rem', color:'#999', lineHeight:1.65, margin:'0 0 14px', flex:1 }}>{excerpt.slice(0,110)}…</p>
                     <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.14em', textTransform:'uppercase', color:accent }}>{read}</span>
                   </div>
                 </Link>
