@@ -99,11 +99,7 @@ Salamander bluEvolution 92 este profilul de referință pentru construcțiile nZ
 
 Pachetul de sticlă este componenta cu cel mai mare impact asupra coeficientului Ug (transfer termic al geamului). Specificațiile pentru sistemul nZEB:
 
-**Structura pachetului:**
-```
-4 mm Float / 16 mm Argon / 4 mm Float Low-E / 16 mm Argon / 4 mm Float
-Total: 44 mm
-```
+**Structura pachetului:** 4 mm Float / 16 mm Argon / 4 mm Float Low-E / 16 mm Argon / 4 mm Float — total 44 mm
 
 **Parametrii tehnici:**
 - Ug = 0,5 W/(m²K) cu argon 90% concentrație
