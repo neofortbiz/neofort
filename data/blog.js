@@ -4,6 +4,764 @@
 
 export const ARTICLES = [
 
+  // ─── ARTICOL: Sistem complet nZEB ──────────────────────────────────────────
+  {
+    slugs: {
+      ro: 'sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu',
+      en: 'complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing',
+      de: 'komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung',
+      fr: 'systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage',
+      es: 'sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento',
+      it: 'sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro',
+    },
+    date: '2026-04-10',
+    author: 'Neofort BIZ',
+    accentColor: '#4a7c59',
+    image: {
+      ro: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      en: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      de: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      fr: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      es: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+      it: '/blog/blog-sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1e0e 0%,#1a4a22 60%,#0a1e0e 100%)',
+    imageLabel: 'Sistem complet nZEB — Salamander + Blaugelb + Geam Triplu',
+    readTime: { ro:'14 min citire', en:'14 min read', de:'14 Min.', fr:'14 min', es:'14 min', it:'14 min' },
+    category: {
+      ro: 'Sisteme nZEB', en: 'nZEB Systems', de: 'nZEB-Systeme',
+      fr: 'Systèmes nZEB', es: 'Sistemas nZEB', it: 'Sistemi nZEB',
+    },
+    title: {
+      ro: 'Sistem complet nZEB: Salamander bluEvolution 92 + precadre Blaugelb Triotherm+ + geam triplu — Ghid tehnic complet 2026',
+      en: 'Complete nZEB System: Salamander bluEvolution 92 + Blaugelb Triotherm+ Preframes + Triple Glazing — Full Technical Guide 2026',
+      de: 'Komplettes nZEB-System: Salamander bluEvolution 92 + Blaugelb Triotherm+ Vorblendrahmen + Dreifachverglasung — Vollständiger technischer Leitfaden 2026',
+      fr: 'Système nZEB complet : Salamander bluEvolution 92 + précadres Blaugelb Triotherm+ + triple vitrage — Guide technique complet 2026',
+      es: 'Sistema nZEB completo: Salamander bluEvolution 92 + premarcos Blaugelb Triotherm+ + triple acristalamiento — Guía técnica completa 2026',
+      it: 'Sistema nZEB completo: Salamander bluEvolution 92 + precornici Blaugelb Triotherm+ + triplo vetro — Guida tecnica completa 2026',
+    },
+    metaDesc: {
+      ro: 'Ghid tehnic complet sistem nZEB: Salamander bluEvolution 92, precadre Blaugelb Triotherm+, geam triplu Saint-Gobain SGG, benzi precomprimate. Calcul Uw, performanțe reale, costuri și procedura de montaj.',
+      en: 'Complete technical guide for nZEB system: Salamander bluEvolution 92, Blaugelb Triotherm+ preframes, Saint-Gobain SGG triple glazing, pre-compressed bands. Uw calculation, real performance, costs and installation procedure.',
+      de: 'Vollständiger technischer Leitfaden für nZEB-System: Salamander bluEvolution 92, Blaugelb Triotherm+ Vorblendrahmen, Saint-Gobain SGG Dreifachverglasung, vorkomprimierte Bänder. Uw-Berechnung, reale Leistung, Kosten und Montageverfahren.',
+      fr: 'Guide technique complet système nZEB : Salamander bluEvolution 92, précadres Blaugelb Triotherm+, triple vitrage Saint-Gobain SGG, bandes précomprimées. Calcul Uw, performances réelles, coûts et procédure de pose.',
+      es: 'Guía técnica completa sistema nZEB: Salamander bluEvolution 92, premarcos Blaugelb Triotherm+, triple acristalamiento Saint-Gobain SGG, bandas precomprimidas. Cálculo Uw, rendimiento real, costes y procedimiento de instalación.',
+      it: 'Guida tecnica completa sistema nZEB: Salamander bluEvolution 92, precornici Blaugelb Triotherm+, triplo vetro Saint-Gobain SGG, nastri precompressi. Calcolo Uw, prestazioni reali, costi e procedura di installazione.',
+    },
+    excerpt: {
+      ro: 'Ce înseamnă cu adevărat un sistem de ferestre nZEB? Ghid tehnic complet: cum se combină profilul Salamander bluEvolution 92 cu precadrele Blaugelb Triotherm+, geamul triplu Saint-Gobain și benzile precomprimate pentru a atinge Uw ≤ 0,8 W/(m²K).',
+      en: 'What does an nZEB window system really mean? Complete technical guide: how Salamander bluEvolution 92 profile combines with Blaugelb Triotherm+ preframes, Saint-Gobain triple glazing and pre-compressed bands to achieve Uw ≤ 0.8 W/(m²K).',
+      de: 'Was bedeutet ein nZEB-Fenstersystem wirklich? Vollständiger technischer Leitfaden: wie Salamander bluEvolution 92 Profil mit Blaugelb Triotherm+ Vorblendrahmen, Saint-Gobain Dreifachverglasung und vorkomprimierten Bändern kombiniert wird, um Uw ≤ 0,8 W/(m²K) zu erreichen.',
+      fr: `Que signifie réellement un système de fenêtres nZEB ? Guide technique complet : comment le profilé Salamander bluEvolution 92 se combine avec les précadres Blaugelb Triotherm+, le triple vitrage Saint-Gobain et les bandes précomprimées pour atteindre Uw ≤ 0,8 W/(m²K).`,
+      es: '¿Qué significa realmente un sistema de ventanas nZEB? Guía técnica completa: cómo se combina el perfil Salamander bluEvolution 92 con los premarcos Blaugelb Triotherm+, el triple acristalamiento Saint-Gobain y las bandas precomprimidas para alcanzar Uw ≤ 0,8 W/(m²K).',
+      it: `Cosa significa veramente un sistema di finestre nZEB? Guida tecnica completa: come il profilo Salamander bluEvolution 92 si combina con le precornici Blaugelb Triotherm+, il triplo vetro Saint-Gobain e i nastri precompressi per raggiungere Uw ≤ 0,8 W/(m²K).`,
+    },
+    keywords: 'sistem nZEB ferestre, Salamander bluEvolution 92 nZEB, precadre Blaugelb Triotherm, geam triplu Saint-Gobain, benzi precomprimate ferestre, montaj nZEB Bucuresti, ferestre casa pasiva, Uw 0.8 ferestre, nZEB Romania',
+    dateDisplay: {
+      ro: '10 apr 2026', en: 'Apr 10 2026', de: '10. Apr. 2026',
+      fr: '10 avr. 2026', es: '10 abr 2026', it: '10 apr 2026',
+    },
+    content: {
+      ro: `## Ce este standardul nZEB și de ce contează pentru ferestrele tale
+
+nZEB — Nearly Zero Energy Building — nu este un brand sau o certificare opțională. Este standardul obligatoriu pentru toate construcțiile noi din România începând cu 2021, conform Directivei 2010/31/UE privind performanța energetică a clădirilor (EPBD) și transpunerii ei prin Legea 372/2005 modificată.
+
+Concret, o clădire nZEB trebuie să atingă un consum de energie primară ≤ 100 kWh/m²/an. Ferestrele contribuie direct la acest bilanț — ele reprezintă în medie 15-25% din suprafața anvelopei unei locuințe și sunt responsabile de 25-35% din pierderile de căldură într-o construcție convențională.
+
+Un sistem de ferestre nZEB nu înseamnă doar un profil bun. Înseamnă un sistem integrat în care fiecare componentă este selectată și instalată pentru a minimiza pierderile termice la nivelul golului de fereastră — de la profilul propriu-zis, la geamul termoizolator, la distanțierul din interiorul pachetului de sticlă și până la etanșarea perimetrului față de zidărie.
+
+## Componenta 1 — Profilul Salamander bluEvolution 92
+
+Salamander bluEvolution 92 este profilul de referință pentru construcțiile nZEB din portofoliul Neofort BIZ. Caracteristicile tehnice relevante pentru bilanțul energetic:
+
+**Geometrie profil:**
+- 6 camere de aer (5 camere principale + 1 cameră centrală de armare)
+- Adâncime construcție: 92 mm
+- Grosime pereți exteriori: 3,0 mm (Clasa A conform EN 12608)
+- 3 garnituri EPDM perimetrale
+
+**Performanță termică:**
+- Coeficient de transfer termic profil: Uf = 0,95 W/(m²K) (valoare certificată IFT Rosenheim)
+- Clasă de etanșeitate la aer: Clasa 4 (EN 12207) — maxim posibil
+- Clasă de etanșeitate la apă: Clasa E1500 (EN 12208)
+- Rezistență la vânt: Clasa C5 (EN 12210)
+
+**Compoziție chimică:**
+- Stabilizatori: exclusiv Calciu-Zinc (Ca-Zn) din 2008 — fără plumb, fără cadmiu
+- Certificat VinylPlus pentru reciclabilitate
+- Declarat conform Regulamentului REACH (CE) nr. 1907/2006
+
+**Feronerie inclusă standard:**
+- Roto NT sau echivalent — reglaj pe 3 axe
+- Antiefracție RC2 disponibil opțional
+
+## Componenta 2 — Geamul termoizolator triplu Saint-Gobain SGG
+
+Pachetul de sticlă este componenta cu cel mai mare impact asupra coeficientului Ug (transfer termic al geamului). Specificațiile pentru sistemul nZEB:
+
+**Structura pachetului:**
+```
+4 mm Float / 16 mm Argon / 4 mm Float Low-E / 16 mm Argon / 4 mm Float
+Total: 44 mm
+```
+
+**Parametrii tehnici:**
+- Ug = 0,5 W/(m²K) cu argon 90% concentrație
+- Ug = 0,6 W/(m²K) cu argon 80% concentrație (standard)
+- Factor solar g = 0,34 (Low-E pe poziția 2)
+- Transmitanță luminoasă TL = 70%
+- Atenuare fonică Rw = 34-36 dB
+
+**Distanțierul Warm Edge:**
+Distanțierul standard din aluminiu are conductivitate termică λ = 160 W/mK — generează o punte termică vizibilă ca dungă de condens pe marginea interioară a geamului în sezonul rece. Distanțierul Warm Edge (TGI, Swisspacer, Thermix) are λ = 0,15-0,2 W/mK — reduce puntea termică cu 75-85% și elimină condensul marginal.
+
+**Calculul Uw pentru fereastra completă (100×120 cm):**
+
+| Componentă | Valoare | Pondere |
+|---|---|---|
+| Uf (profil) | 0,95 W/(m²K) | ~30% din suprafață |
+| Ug (geam triplu + argon) | 0,5 W/(m²K) | ~65% din suprafață |
+| Ψg (distanțier Warm Edge) | 0,030 W/mK | perimetru |
+| **Uw rezultant** | **0,72 W/(m²K)** | — |
+
+Față de Uw = 1,4 W/(m²K) al unei ferestre standard cu geam dublu — reducerea pierderilor termice prin fereastră este de 49%.
+
+## Componenta 3 — Precadrele Blaugelb Triotherm+
+
+Precadrul Blaugelb Triotherm+ rezolvă problema pe care niciun profil performant nu o poate rezolva singur: puntea termică la perimetrul ferestrei — zona de contact dintre toc și zidărie.
+
+**De ce apare puntea termică perimetrală:**
+Tocul ferestrei, oricât de performant ar fi ca profil, vine în contact direct cu zidăria — material cu conductivitate termică semnificativ mai mare decât aerul din camerele profilului. La temperatura exterioară de −15°C, temperatura suprafeței interioare a tocului la contact cu zidăria coboară sub punctul de rouă → condens → mucegai.
+
+**Cum funcționează precadrul Blaugelb:**
+Precadrul se montează înainte de fereastra propriu-zisă, în planul de izolație termică al peretelui. Materialul compozit al precadrului are conductivitate termică λ = 0,035 W/mK — comparabil cu vata minerală. Fereastra se montează ulterior pe precadru, care:
+1. Izolează termic contactul toc-zidărie
+2. Permite montarea ferestrei în planul izolatiei termice (cerința Passive House)
+3. Creează o suprafață de montaj nivelată și standardizată independent de calitatea zidăriei
+
+**Performanța precadrului Triotherm+:**
+- Certificare PassivHaus Institut (PHI) pentru utilizare în case pasive
+- Elimină puntea termică lineică ψ (psi) la perimetrul ferestrei: de la ψ = 0,08 W/mK (fără precadru) la ψ = 0,01 W/mK (cu precadru)
+- Îmbunătățire a Uw efectiv: −0,05 până la −0,12 W/(m²K) față de montajul direct în zidărie
+
+## Componenta 4 — Etanșarea perimetrului (banda precomprimată)
+
+Regulamentul RAL pentru montajul profesional de ferestre definește 3 zone de etanșare:
+
+**Zona exterioară:** Bandă precomprimată din butilic (Illbruck TP600, blaugelb TrioSDL) — rezistă la apă (≥ 600 Pa), la UV și la variații de temperatură. Se aplică pe profilul ferestrei înainte de montaj și se expandează după instalare. Durabilitate: 20-25 ani.
+
+**Zona mediană:** Spumă poliuretanică cu celulă semi-deschisă — asigură izolația termică și fonică a spațiului dintre toc și zidărie.
+
+**Zona interioară:** Folie sau bandă antivapori — previne migrarea vaporilor din interior spre rost, eliminând riscul de condens interstițial și mucegai pe structura peretelui.
+
+## Calculul economic: cât costă și cât economisești
+
+**Cost orientativ sistem nZEB complet (fereastră 100×120 cm, inclusiv montaj):**
+
+| Componentă | Cost orientativ |
+|---|---|
+| Profil Salamander bluEvolution 92 | 1.100-1.400 lei |
+| Geam triplu + Warm Edge | inclus în preț profil |
+| Precadru Blaugelb Triotherm+ | 250-350 lei/buc |
+| Montaj profesional cu benzi precomprimate | 300-450 lei |
+| **Total fereastră 100×120 cm nZEB** | **1.650-2.200 lei** |
+
+**Față de fereastră standard (geam dublu, fără precadru):** 900-1.200 lei
+
+**Economia anuală de energie (calcul pentru apartament 80 m², 10 ferestre):**
+- Ferestre standard: pierderi termice estimat 2.800 kWh/an
+- Ferestre nZEB complete: pierderi termice estimat 980 kWh/an
+- Diferență: −1.820 kWh/an → economie ~550-700 lei/an la prețurile actuale ale energiei
+
+**Amortizarea investiției suplimentare** (diferența ~7.000 lei pentru 10 ferestre): 10-13 ani.
+
+Pe lângă amortizarea financiară, sistemul nZEB îmbunătățește semnificativ confortul termic (fără zone reci lângă ferestre, fără condens), reduce zgomotul și menține valoarea proprietății în conformitate cu reglementările energetice în vigoare.
+
+## Procedura de montaj nZEB pas cu pas
+
+1. **Instalarea precadrului Blaugelb** — pe structura peretelui, în planul de izolație
+2. **Aplicarea benzii precomprimate** pe perimetrul tocului ferestrei
+3. **Montarea tocului** pe precadru — nivelat în 3 axe cu ancore metalice
+4. **Injectarea spumei poliuretanice** în zona mediană
+5. **Aplicarea foliei antivapori** pe zona interioară
+6. **Introducerea pachetului de sticlă** și reglarea feronieriei Roto NT
+7. **Siliconarea exterioară** cu silicon neutru UV-rezistent
+8. **Montarea glafurilor** interior (PVC) și exterior (aluminiu cu picurătoare)
+
+---
+Neofort BIZ montează sisteme nZEB complete în București și Ilfov — profil Salamander bluEvolution 92, precadre Blaugelb Triotherm+, geam triplu Saint-Gobain, benzi precomprimate Illbruck. [Solicită ofertă tehnică](/ro/contact).`,
+      en: `## What is the nZEB Standard and Why Does It Matter for Your Windows
+
+nZEB — Nearly Zero Energy Building — is not an optional certification. It is the mandatory standard for all new constructions in Romania since 2021, under Directive 2010/31/EU on the energy performance of buildings (EPBD). A nZEB building must achieve primary energy consumption ≤ 100 kWh/m²/year. Windows contribute directly to this balance — they represent 15-25% of a dwelling's envelope area and account for 25-35% of heat losses in conventional construction.
+
+A nZEB window system is not just a good profile. It is an integrated system where each component is selected and installed to minimise thermal losses at the window opening — from the profile itself, to the glazing unit, to the spacer inside the glass pack and the perimeter seal against the masonry.
+
+## Component 1 — Salamander bluEvolution 92 Profile
+
+**Profile geometry:**
+- 6 air chambers, 92 mm construction depth, 3.0 mm outer walls (Class A per EN 12608), 3 EPDM gaskets
+
+**Thermal performance:**
+- Profile thermal transmittance: Uf = 0.95 W/(m²K) (IFT Rosenheim certified)
+- Air permeability: Class 4 (EN 12207) — maximum
+- Chemical composition: exclusively Ca-Zn stabilisers since 2008 — no lead, no cadmium, REACH compliant
+
+## Component 2 — Saint-Gobain SGG Triple Glazing
+
+**Pack structure:** 4 mm / 16 mm Argon / 4 mm Low-E / 16 mm Argon / 4 mm — total 44 mm
+
+**Technical parameters:**
+- Ug = 0.5 W/(m²K) with argon 90% concentration
+- Solar factor g = 0.34 (Low-E on position 2)
+- Light transmittance TL = 70%
+- Acoustic attenuation Rw = 34-36 dB
+
+**Warm Edge spacer:** Standard aluminium spacer has λ = 160 W/mK — creates visible condensation stripe at inner glass edge. Warm Edge spacer (TGI, Swisspacer, Thermix) has λ = 0.15-0.2 W/mK — reduces marginal thermal bridge by 75-85%.
+
+**Uw calculation for complete window (100×120 cm):**
+- Uf = 0.95, Ug = 0.5, Ψg Warm Edge = 0.030 W/mK
+- **Uw resultant = 0.72 W/(m²K)** — 49% reduction in heat loss vs standard double glazing (Uw = 1.4)
+
+## Component 3 — Blaugelb Triotherm+ Preframes
+
+The preframe is mounted before the window itself, in the thermal insulation plane of the wall. Its composite material has thermal conductivity λ = 0.035 W/mK — comparable to mineral wool. The window is subsequently mounted on the preframe, which:
+1. Thermally insulates the frame-masonry contact
+2. Allows window mounting in the thermal insulation plane (Passive House requirement)
+3. Reduces perimeter linear thermal bridge ψ from 0.08 W/mK (no preframe) to 0.01 W/mK (with preframe)
+4. PassivHaus Institut (PHI) certified
+
+## Component 4 — Perimeter Sealing (Pre-Compressed Band)
+
+Three-zone RAL installation:
+- **Exterior:** Pre-compressed butyl band (Illbruck TP600) — waterproof ≥ 600 Pa, UV-resistant, 20-25 year durability
+- **Middle:** Semi-open cell polyurethane foam — thermal and acoustic insulation
+- **Interior:** Vapour barrier film — prevents condensation and mould in wall structure
+
+## Economic Calculation
+
+**Indicative nZEB system cost (100×120 cm window, installation included):**
+- Salamander bluEvolution 92 profile + triple glazing: €220-280
+- Blaugelb Triotherm+ preframe: €50-70/unit
+- Professional nZEB installation: €60-90
+- **Total 100×120 cm nZEB window: €330-440**
+
+**Annual energy saving (80 m² apartment, 10 windows):**
+- Standard windows: ~2,800 kWh/year heat loss
+- Complete nZEB windows: ~980 kWh/year heat loss
+- Saving: −1,820 kWh/year → €110-140/year at current energy prices
+- Payback period on additional investment: 10-13 years
+
+---
+Neofort BIZ installs complete nZEB systems in Bucharest and Ilfov — Salamander bluEvolution 92, Blaugelb Triotherm+ preframes, Saint-Gobain triple glazing, Illbruck pre-compressed bands. [Request technical quote](/en/contact).`,
+      de: `## Was ist der nZEB-Standard und warum ist er für Ihre Fenster wichtig?
+
+nZEB — Nearly Zero Energy Building — ist kein optionales Zertifikat. Es ist der verbindliche Standard für alle Neubauten in Rumänien seit 2021 gemäß Richtlinie 2010/31/EU (EPBD). Ein nZEB-Gebäude muss einen Primärenergieverbrauch ≤ 100 kWh/m²/Jahr erreichen. Fenster tragen direkt zu dieser Bilanz bei — sie machen 15-25% der Hüllfläche aus und sind für 25-35% der Wärmeverluste verantwortlich.
+
+## Komponente 1 — Salamander bluEvolution 92
+
+- 6 Kammern, 92 mm Bautiefe, 3,0 mm Außenwände (Klasse A nach EN 12608), 3 EPDM-Dichtungen
+- Uf = 0,95 W/(m²K) (IFT Rosenheim zertifiziert)
+- Ausschließlich Ca-Zn-Stabilisatoren seit 2008 — bleifrei, cadmiumfrei, REACH-konform
+
+## Komponente 2 — Saint-Gobain SGG Dreifachverglasung
+
+**Paketaufbau:** 4 mm / 16 mm Argon / 4 mm Low-E / 16 mm Argon / 4 mm — gesamt 44 mm
+
+- Ug = 0,5 W/(m²K) mit Argon 90%
+- Sonnenschutzfaktor g = 0,34
+- Lichttransmission TL = 70%
+- **Warm-Edge-Abstandhalter:** λ = 0,15-0,2 W/mK — reduziert Randwärmebrücke um 75-85%
+
+**Uw für komplettes Fenster (100×120 cm): 0,72 W/(m²K)** — 49% weniger Wärmeverlust gegenüber Zweifachverglasung (Uw = 1,4)
+
+## Komponente 3 — Blaugelb Triotherm+ Vorblendrahmen
+
+Der Vorblendrahmen wird vor dem eigentlichen Fenster, in der Wärmedämmebene der Wand, montiert. Sein Verbundwerkstoff hat λ = 0,035 W/mK — vergleichbar mit Mineralwolle. Das Fenster wird anschließend auf dem Vorblendrahmen montiert:
+- Reduziert lineare Wärmebrücke ψ von 0,08 W/mK auf 0,01 W/mK
+- PassivHaus Institut (PHI) zertifiziert
+
+## Komponente 4 — Perimeterdichtung
+
+Drei Zonen nach RAL-Richtlinie:
+- **Außen:** Vorkomprimiertes Butylband (Illbruck TP600) — wasserdicht ≥ 600 Pa, 20-25 Jahre Haltbarkeit
+- **Mitte:** PU-Schaum — Wärme- und Schalldämmung
+- **Innen:** Dampfsperrfolie — verhindert Kondensat in der Wandstruktur
+
+## Wirtschaftlichkeitsrechnung
+
+**Geschätzte Kosten nZEB-System (100×120 cm, Montage inklusive): 330-440 €**
+
+**Jährliche Energieeinsparung (80 m² Wohnung, 10 Fenster):**
+- Standardfenster: ~2.800 kWh/Jahr Wärmeverlust
+- Komplette nZEB-Fenster: ~980 kWh/Jahr
+- Einsparung: −1.820 kWh/Jahr → 110-140 €/Jahr
+- Amortisationszeit der Mehrinvestition: 10-13 Jahre
+
+---
+Neofort BIZ montiert komplette nZEB-Systeme in Bukarest und Ilfov — Salamander bluEvolution 92, Blaugelb Triotherm+ Vorblendrahmen, Saint-Gobain Dreifachverglasung, Illbruck-Bänder. [Technisches Angebot anfordern](/de/kontakt).`,
+      fr: `## Qu'est-ce que la norme nZEB et pourquoi est-elle importante pour vos fenêtres ?
+
+nZEB — Nearly Zero Energy Building — n'est pas une certification optionnelle. C'est la norme obligatoire pour toutes les nouvelles constructions en Roumanie depuis 2021, conformément à la Directive 2010/31/UE (DPEB). Un bâtiment nZEB doit atteindre une consommation d'énergie primaire ≤ 100 kWh/m²/an. Les fenêtres représentent 15-25% de la surface de l'enveloppe et sont responsables de 25-35% des pertes de chaleur.
+
+## Composante 1 — Profilé Salamander bluEvolution 92
+
+- 6 chambres, 92 mm de profondeur, parois 3,0 mm (Classe A selon EN 12608), 3 joints EPDM
+- Uf = 0,95 W/(m²K) (certifié IFT Rosenheim)
+- Exclusivement stabilisants Ca-Zn depuis 2008 — sans plomb, sans cadmium, conforme REACH
+
+## Composante 2 — Triple vitrage Saint-Gobain SGG
+
+**Structure du pack :** 4 mm / 16 mm Argon / 4 mm Low-E / 16 mm Argon / 4 mm — total 44 mm
+
+- Ug = 0,5 W/(m²K) avec argon 90%
+- Facteur solaire g = 0,34 — transmittance lumineuse TL = 70%
+- **Espaceur Warm Edge :** λ = 0,15-0,2 W/mK — réduit le pont thermique marginal de 75-85%
+
+**Uw pour fenêtre complète (100×120 cm) : 0,72 W/(m²K)** — 49% moins de pertes qu'avec double vitrage (Uw = 1,4)
+
+## Composante 3 — Précadres Blaugelb Triotherm+
+
+Le précadre est monté avant la fenêtre, dans le plan d'isolation thermique du mur. Son matériau composite a λ = 0,035 W/mK — comparable à la laine minérale :
+- Réduit le pont thermique linéaire ψ de 0,08 à 0,01 W/mK
+- Certifié PassivHaus Institut (PHI)
+
+## Composante 4 — Étanchéité périmétrique
+
+Trois zones selon la norme RAL :
+- **Extérieur :** Bande précomprimée butyle (Illbruck TP600) — étanche ≥ 600 Pa, 20-25 ans de durabilité
+- **Milieu :** Mousse PU — isolation thermique et acoustique
+- **Intérieur :** Film pare-vapeur — prévient la condensation dans la structure du mur
+
+## Calcul économique
+
+**Coût indicatif système nZEB complet (100×120 cm, pose incluse) : 330-440 €**
+
+**Économie annuelle d'énergie (appartement 80 m², 10 fenêtres) :**
+- Fenêtres standard : ~2 800 kWh/an de pertes
+- Fenêtres nZEB complètes : ~980 kWh/an
+- Économie : −1 820 kWh/an → 110-140 €/an
+- Retour sur investissement : 10-13 ans
+
+---
+Neofort BIZ installe des systèmes nZEB complets à Bucarest et Ilfov — Salamander bluEvolution 92, précadres Blaugelb Triotherm+, triple vitrage Saint-Gobain, bandes Illbruck. [Demander un devis technique](/fr/contact).`,
+      es: `## ¿Qué es la norma nZEB y por qué importa para sus ventanas?
+
+nZEB — Nearly Zero Energy Building — no es una certificación opcional. Es la norma obligatoria para todas las nuevas construcciones en Rumanía desde 2021, según la Directiva 2010/31/UE (EPBD). Un edificio nZEB debe alcanzar un consumo de energía primaria ≤ 100 kWh/m²/año. Las ventanas representan el 15-25% de la superficie de la envolvente y son responsables del 25-35% de las pérdidas de calor.
+
+## Componente 1 — Perfil Salamander bluEvolution 92
+
+- 6 cámaras, 92 mm de profundidad, paredes 3,0 mm (Clase A según EN 12608), 3 juntas EPDM
+- Uf = 0,95 W/(m²K) (certificado IFT Rosenheim)
+- Exclusivamente estabilizadores Ca-Zn desde 2008 — sin plomo, sin cadmio, conforme REACH
+
+## Componente 2 — Triple acristalamiento Saint-Gobain SGG
+
+**Estructura del paquete:** 4 mm / 16 mm Argón / 4 mm Low-E / 16 mm Argón / 4 mm — total 44 mm
+
+- Ug = 0,5 W/(m²K) con argón 90%
+- Factor solar g = 0,34 — transmitancia luminosa TL = 70%
+- **Separador Warm Edge:** λ = 0,15-0,2 W/mK — reduce el puente térmico marginal un 75-85%
+
+**Uw para ventana completa (100×120 cm): 0,72 W/(m²K)** — 49% menos pérdidas que con doble acristalamiento (Uw = 1,4)
+
+## Componente 3 — Premarcos Blaugelb Triotherm+
+
+El premarco se monta antes de la ventana, en el plano de aislamiento térmico del muro. Su material compuesto tiene λ = 0,035 W/mK:
+- Reduce el puente térmico lineal ψ de 0,08 a 0,01 W/mK
+- Certificado PassivHaus Institut (PHI)
+
+## Componente 4 — Sellado perimetral
+
+Tres zonas según norma RAL:
+- **Exterior:** Banda precomprimida de butilo (Illbruck TP600) — estanca ≥ 600 Pa, 20-25 años de durabilidad
+- **Media:** Espuma PU — aislamiento térmico y acústico
+- **Interior:** Lámina barrera de vapor — previene condensación en la estructura del muro
+
+## Cálculo económico
+
+**Coste orientativo sistema nZEB completo (100×120 cm, instalación incluida): 330-440 €**
+
+**Ahorro energético anual (apartamento 80 m², 10 ventanas):**
+- Ventanas estándar: ~2.800 kWh/año de pérdidas
+- Ventanas nZEB completas: ~980 kWh/año
+- Ahorro: −1.820 kWh/año → 110-140 €/año
+- Periodo de amortización: 10-13 años
+
+---
+Neofort BIZ instala sistemas nZEB completos en Bucarest e Ilfov — Salamander bluEvolution 92, premarcos Blaugelb Triotherm+, triple acristalamiento Saint-Gobain, bandas Illbruck. [Solicitar presupuesto técnico](/es/contact).`,
+      it: `## Cos'è lo standard nZEB e perché è importante per le vostre finestre?
+
+nZEB — Nearly Zero Energy Building — non è una certificazione opzionale. È lo standard obbligatorio per tutte le nuove costruzioni in Romania dal 2021, ai sensi della Direttiva 2010/31/UE (EPBD). Un edificio nZEB deve raggiungere un consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre rappresentano il 15-25% della superficie dell'involucro e sono responsabili del 25-35% delle dispersioni di calore.
+
+## Componente 1 — Profilo Salamander bluEvolution 92
+
+- 6 camere, 92 mm di profondità costruttiva, pareti 3,0 mm (Classe A secondo EN 12608), 3 guarnizioni EPDM
+- Uf = 0,95 W/(m²K) (certificato IFT Rosenheim)
+- Esclusivamente stabilizzanti Ca-Zn dal 2008 — senza piombo, senza cadmio, conforme REACH
+
+## Componente 2 — Triplo vetro Saint-Gobain SGG
+
+**Struttura del pacchetto:** 4 mm / 16 mm Argon / 4 mm Low-E / 16 mm Argon / 4 mm — totale 44 mm
+
+- Ug = 0,5 W/(m²K) con argon 90%
+- Fattore solare g = 0,34 — trasmittanza luminosa TL = 70%
+- **Distanziale Warm Edge:** λ = 0,15-0,2 W/mK — riduce il ponte termico marginale del 75-85%
+
+**Uw per finestra completa (100×120 cm): 0,72 W/(m²K)** — 49% meno dispersioni rispetto al doppio vetro (Uw = 1,4)
+
+## Componente 3 — Precornici Blaugelb Triotherm+
+
+La precornice viene montata prima della finestra, nel piano di isolamento termico del muro. Il suo materiale composito ha λ = 0,035 W/mK:
+- Riduce il ponte termico lineare ψ da 0,08 a 0,01 W/mK
+- Certificato PassivHaus Institut (PHI)
+
+## Componente 4 — Sigillatura perimetrale
+
+Tre zone secondo la norma RAL:
+- **Esterno:** Nastro precompresso in butile (Illbruck TP600) — impermeabile ≥ 600 Pa, 20-25 anni di durabilità
+- **Medio:** Schiuma PU — isolamento termico e acustico
+- **Interno:** Film barriera vapore — previene condensazione nella struttura del muro
+
+## Calcolo economico
+
+**Costo indicativo sistema nZEB completo (100×120 cm, installazione inclusa): 330-440 €**
+
+**Risparmio energetico annuo (appartamento 80 m², 10 finestre):**
+- Finestre standard: ~2.800 kWh/anno di dispersioni
+- Finestre nZEB complete: ~980 kWh/anno
+- Risparmio: −1.820 kWh/anno → 110-140 €/anno
+- Periodo di ammortamento: 10-13 anni
+
+---
+Neofort BIZ installa sistemi nZEB completi a Bucarest e Ilfov — Salamander bluEvolution 92, precornici Blaugelb Triotherm+, triplo vetro Saint-Gobain, nastri Illbruck. [Richiedere preventivo tecnico](/it/contact).`,
+    },
+  },
+
+  // ─── ARTICOL: Mitul PVC toxic ──────────────────────────────────────────────
+  {
+    slugs: {
+      ro: 'mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre',
+      en: 'pvc-toxic-myth-safety-composition-evolution-windows',
+      de: 'pvc-giftig-mythos-sicherheit-zusammensetzung-entwicklung-fenster',
+      fr: 'mythe-pvc-toxique-securite-composition-evolution-fenetres',
+      es: 'mito-pvc-toxico-seguridad-composicion-evolucion-ventanas',
+      it: 'mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre',
+    },
+    date: '2026-04-04',
+    author: 'Neofort BIZ',
+    accentColor: '#2d5a8e',
+    image: {
+      ro: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+      en: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+      de: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+      fr: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+      es: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+      it: '/blog/blog-mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1628 0%,#2d5a8e 60%,#0a1628 100%)',
+    imageLabel: 'Mitul PVC-ului toxic — Analiză istorică și tehnică',
+    readTime: { ro:'12 min citire', en:'12 min read', de:'12 Min.', fr:'12 min', es:'12 min', it:'12 min' },
+    category: {
+      ro: 'Ghid tehnic', en: 'Technical Guide', de: 'Technischer Ratgeber',
+      fr: 'Guide technique', es: 'Guía técnica', it: 'Guida tecnica',
+    },
+    title: {
+      ro: 'Mitul PVC-ului toxic: de unde vine, ce spune știința și de ce ferestrele moderne sunt sigure — Analiză 2026',
+      en: 'The PVC Toxicity Myth: Origins, What Science Says and Why Modern Windows Are Safe — Analysis 2026',
+      de: 'Der PVC-Giftigkeitsmythos: Herkunft, was die Wissenschaft sagt und warum moderne Fenster sicher sind — Analyse 2026',
+      fr: 'Le mythe du PVC toxique : origines, ce que dit la science et pourquoi les fenêtres modernes sont sûres — Analyse 2026',
+      es: 'El mito del PVC tóxico: origen, qué dice la ciencia y por qué las ventanas modernas son seguras — Análisis 2026',
+      it: 'Il mito del PVC tossico: origini, cosa dice la scienza e perché le finestre moderne sono sicure — Analisi 2026',
+    },
+    metaDesc: {
+      ro: 'Analiza completă a mitului toxicității PVC-ului: istoric apariție, compoziție chimică, evoluție formulă fără plumb, comportament la temperaturi extreme și incendiu, certificate EU. Date verificabile, nu opinii.',
+      en: 'Complete analysis of the PVC toxicity myth: historical origins, chemical composition, evolution to lead-free formula, behaviour at extreme temperatures and fire, EU certifications. Verifiable data, not opinions.',
+      de: 'Vollständige Analyse des PVC-Giftigkeitsmythos: historische Ursprünge, chemische Zusammensetzung, Entwicklung zur bleifreien Formel, Verhalten bei extremen Temperaturen und Brand, EU-Zertifikate.',
+      fr: `Analyse complète du mythe de la toxicité du PVC : origines historiques, composition chimique, évolution vers une formule sans plomb, comportement aux températures extrêmes et en cas d'incendie, certifications UE.`,
+      es: 'Análisis completo del mito de la toxicidad del PVC: orígenes históricos, composición química, evolución a fórmula sin plomo, comportamiento a temperaturas extremas e incendio, certificaciones UE.',
+      it: `Analisi completa del mito della tossicità del PVC: origini storiche, composizione chimica, evoluzione alla formula senza piombo, comportamento a temperature estreme e incendio, certificazioni UE.`,
+    },
+    excerpt: {
+      ro: 'PVC-ul toxic este unul dintre cele mai rezistente mituri din industria construcțiilor. Dar de unde vine acest mit, ce spune chimia cu adevărat și de ce profilele moderne Salamander nu au nicio legătură cu PVC-ul din anii \'70? O analiză documentată, cu date reale.',
+      en: 'The toxic PVC myth is one of the most persistent in the construction industry. But where does it come from, what does chemistry actually say, and why do modern Salamander profiles have nothing to do with 1970s PVC? A documented analysis with real data.',
+      de: 'Der giftige PVC-Mythos ist einer der hartnäckigsten in der Bauindustrie. Aber woher kommt er, was sagt die Chemie wirklich und warum haben moderne Salamander-Profile nichts mit dem PVC der 1970er Jahre zu tun? Eine dokumentierte Analyse mit echten Daten.',
+      fr: `Le mythe du PVC toxique est l'un des plus tenaces dans l'industrie de la construction. Mais d'où vient-il, que dit réellement la chimie, et pourquoi les profilés Salamander modernes n'ont-ils rien à voir avec le PVC des années 70 ?`,
+      es: 'El mito del PVC tóxico es uno de los más persistentes en la industria de la construcción. Pero ¿de dónde viene, qué dice realmente la química y por qué los perfiles Salamander modernos no tienen nada que ver con el PVC de los años 70?',
+      it: `Il mito del PVC tossico è uno dei più persistenti nell'industria edile. Ma da dove viene, cosa dice davvero la chimica e perché i moderni profili Salamander non hanno nulla a che fare con il PVC degli anni '70?`,
+    },
+    keywords: 'PVC toxic, PVC sigur ferestre, compozitie PVC profile, PVC fara plumb, PVC Salamander siguranta, ferestre PVC sanatate, PVC incendiu, stabilizatori PVC calciu zinc, PVC reciclare, tamplarie PVC sigura',
+    dateDisplay: {
+      ro: '4 apr 2026', en: 'Apr 4 2026', de: '4. Apr. 2026',
+      fr: '4 avr. 2026', es: '4 abr 2026', it: '4 apr 2026',
+    },
+    content: {
+      ro: `## De unde vine mitul — scurt istoric documentat
+
+Mitul toxicității PVC-ului nu a apărut din neant. Are rădăcini reale în istoria industriei chimice, dar a rămas înghețat în anii în care problemele erau reale, ignorând 40 de ani de progres tehnic.
+
+În anii 1940-1970, PVC-ul industrial era stabilizat cu compuși de plumb și cadmiu — metale grele cu toxicitate dovedită. Aceste substanțe erau folosite pentru a preveni degradarea termică a polimerului în procesul de prelucrare. Cercetările medicale din anii '70 și '80 au identificat riscurile: lucrătorii din fabricile de PVC expuși la temperaturi înalte fără echipamente de protecție aveau concentrații crescute de plumb în sânge.
+
+Organizațiile de mediu din Europa de Vest — în special din Germania, Austria și Olanda — au dus o campanie susținută în anii '80 și '90 împotriva PVC-ului, bazată pe aceste date reale, dar dintr-o perioadă anterioară modernizărilor chimice. Campania a fost eficientă mediatic, dar a creat o imagine care nu mai corespundea produsului care era deja în fabricație.
+
+Problema este că mitul a supraviețuit chimiei care l-a generat.
+
+## Compoziția chimică reală a PVC-ului modern
+
+PVC — policlorura de vinil — este un polimer sintetic obținut prin polimerizarea monomerului cloruă de vinil (VCM). Compoziția unui profil PVC modern pentru ferestre include:
+
+- **Rășina PVC:** ~60-65% din masă. Polimer inert chimic în condiții normale de utilizare, fără emisii la temperaturi sub 60°C.
+- **Stabilizatori:** Până în 2015, stabilizatorii pe bază de plumb reprezentau norma industrială europeană. Tranziția completă la stabilizatori pe bază de calciu-zinc (Ca-Zn) a fost finalizată în industria europeană prin programul voluntar Stabiliser 2015, coordonat de ECVM (European Council of Vinyl Manufacturers). Profilul Salamander folosește exclusiv stabilizatori Ca-Zn din 2008.
+- **Modificatori de impact:** Compuși acrilici care îmbunătățesc rezistența la șoc, non-toxici.
+- **Lubrifianți interni și externi:** Esteri de acid gras sau polietilene cu greutate moleculară mică — inerți biochimic.
+- **Pigmenți:** Dioxid de titan (TiO₂) pentru alb sau pigmenți anorganici pentru culori. TiO₂ este clasificat de EFSA ca sigur în aplicații de contact cu suprafețele locuibile.
+- **Materiale de umplutură:** Carbonat de calciu (CaCO₃) — același material din care sunt făcute coaja de ou și calcarul.
+
+**Ce nu mai conțin profilul PVC moderne:** plumb, cadmiu, mercur sau compuși organostanici — toate interzise prin Regulamentul REACH (CE) nr. 1907/2006.
+
+## Comportamentul la temperaturi extreme — date reale
+
+Unul dintre argumentele cel mai frecvent invocat împotriva PVC-ului este comportamentul la temperaturi ridicate. Să separăm ficțiunea de date măsurabile:
+
+**La temperaturi normale de utilizare (−40°C până la +60°C):** PVC-ul pentru ferestre este complet stabil chimic. Nu emit substanțe volatile detectabile. Profilele Salamander sunt testate conform EN 12608 pentru rezistență la cicluri termice repetate în acest interval, fără deformare sau emisii.
+
+**La temperaturi mai ridicate (60°C–140°C):** Profilul PVC începe să se înmoaie progresiv. Nu este o ardere, ci o tranziție de fază reversibilă. Nu se emit substanțe toxice în cantități semnificative sub punctul de aprindere.
+
+**La punctul de aprindere (>270°C):** PVC-ul se aprinde mai greu decât lemnul (punctul de aprindere al lemnului uscat: ~220-260°C, al PVC-ului: >270°C). Odată aprins, produce gaze de combustie care includ acid clorhidric (HCl) — aceasta este baza îngrijorării reale din scenariile de incendiu. Totuși, concentrațiile de HCl produse de tâmplăria PVC dintr-o locuință sunt semnificativ mai mici decât cele produse de alte materiale comune (mochetă sintetică, mobilier cu PAL melaminat, cabluri electrice). Conform studiului COWI pentru Comisia Europeană (2001), contribuția PVC-ului la toxicitatea gazelor de incendiu la nivel de locuință este estimată sub 5% din totalul emisiilor toxice.
+
+**La ger extrem (sub −20°C):** Profilele din PVC plasticizat devin fragile — dar profilele pentru ferestre sunt **neplasticizate** (rigid PVC sau PVC-U). Salamander BluEvolution 92 este testat conform EN 12608 la −20°C fără modificări ale proprietăților mecanice.
+
+## De ce ferestrele PVC din anii '70 și cele de azi sunt produse diferite
+
+Confuzia temporală este sursa principală de rezistență a mitului. Iată cronologia modernizărilor relevante:
+
+**1985-1995:** Industria PVC europeană adoptă voluntar programul ECVM pentru reducerea compușilor de plumb și cadmiu. Primii stabilizatori Ca-Zn de serie apar pe piață.
+
+**1994:** Germania interzice utilizarea stabilizatorilor de cadmiu în PVC prin Chemikalienverbotsverordnung. Restul UE urmează în doi ani.
+
+**2001:** Angajamentul voluntar ECVM/ESPA pentru eliminarea completă a plumbului din stabilizatorii PVC până în 2015 — depășit în practică cu 5-7 ani față de termen.
+
+**2006:** Regulamentul REACH intră în vigoare, clasificând oficial plumbul, cadmiul și compușii organostanici ca substanțe de îngrijorare deosebită (SVHC) și restricționând utilizarea lor în produse de consum.
+
+**2008:** Salamander finalizează tranziția completă la stabilizatori Ca-Zn în toate gamele de profile.
+
+**2015:** Industria europeană a profilelor PVC pentru ferestre operează 100% fără stabilizatori de plumb. Confirmarea a fost certificată prin auditul independent VinylPlus.
+
+## Reciclabilitatea: argumentul pe care industria anti-PVC îl ignoră
+
+Una dintre ironiile tehnice ale dezbaterii este că PVC-ul este unul dintre cele mai reciclabile materiale de construcție. Un profil PVC poate fi reprocessat de până la 8 ori fără degradare semnificativă a proprietăților mecanice. Industria europeană reciclează anual peste 800.000 tone de PVC, dintre care o parte semnificativă provine din tâmplărie veche.
+
+VinylPlus — programul de sustenabilitate al industriei europene a PVC-ului — a publicat date verificate independent: între 2000 și 2023, au fost reciclate 7,7 milioane de tone de PVC în Europa.
+
+## Ce înseamnă concret pentru locuința ta
+
+Dacă ai ferestre Salamander BluEvolution 92 montate în 2026, ești proprietarul unui produs care:
+
+- Nu conține plumb, cadmiu, mercur sau compuși organostanici
+- Are emisii în aer interior de zero compuși volatili (VOC) la temperaturi normale
+- Este certificat conform EN 12608 (profile PVC pentru ferestre), EN 14351-1 (ferestre și uși) și are declarație de performanță în conformitate cu Regulamentul Produselor de Construcție (CPR) 305/2011
+- Are o durată de viață garantată de minimum 40 de ani fără modificarea proprietăților mecanice sau cromatice
+- Va putea fi 100% reciclat la sfârșitul duratei de viață
+
+Mitul PVC-ului toxic a jucat un rol util în presiunea exercitată asupra industriei pentru eliminarea compușilor cu adevărat problematici. Dar acea presiune a funcționat. Industria a răspuns cu date și cu modificări reale de formulă. Mitul a supraviețuit transformărilor pe care le-a determinat — ceea ce îl face astăzi nu o avertizare utilă, ci o prejudecată fără suport tehnic.
+
+Alegerea tipului de tâmplărie — PVC, aluminiu sau lemn — este legitimă pe baza criteriilor reale: performanță termică, estetică, cost, durabilitate. Toxicitatea PVC-ului modern nu mai este un criteriu relevant din 2015.
+
+---
+Neofort BIZ furnizează profile Salamander bluEvolution 92 cu stabilizatori Ca-Zn certificați REACH. [Solicită ofertă](/ro/contact).`,
+      en: `## Where the Myth Comes From — A Documented History
+
+The PVC toxicity myth did not emerge from nowhere. It has real roots in the history of the chemical industry, but became frozen in the era when the problems were genuine, ignoring 40 years of technical progress.
+
+In the 1940s–1970s, industrial PVC was stabilised with lead and cadmium compounds — heavy metals with proven toxicity. These substances prevented thermal degradation of the polymer during processing. Medical research in the 1970s and 1980s identified real risks: workers in PVC factories exposed to high temperatures without protective equipment showed elevated blood-lead concentrations.
+
+Environmental organisations in Western Europe — particularly in Germany, Austria and the Netherlands — ran sustained campaigns against PVC throughout the 1980s and 1990s, based on data that was accurate for that period but predated the chemical modernisations already underway. The campaign was mediatively effective but created an image that no longer corresponded to the product being manufactured.
+
+The problem is that the myth outlived the chemistry that generated it.
+
+## The Actual Chemical Composition of Modern PVC
+
+PVC — polyvinyl chloride — is a synthetic polymer produced by polymerising vinyl chloride monomer (VCM). The composition of a modern PVC window profile includes:
+
+- **PVC resin:** ~60-65% by mass. Chemically inert under normal use conditions, with no emissions below 60°C.
+- **Stabilisers:** Until 2015, lead-based stabilisers were the European industry standard. The complete transition to calcium-zinc (Ca-Zn) stabilisers was completed through the voluntary Stabiliser 2015 programme coordinated by ECVM. Salamander profiles have used exclusively Ca-Zn stabilisers since 2008.
+- **Impact modifiers:** Acrylic compounds improving shock resistance — non-toxic.
+- **Internal and external lubricants:** Fatty acid esters or low molecular weight polyethylenes — biochemically inert.
+- **Pigments:** Titanium dioxide (TiO₂) for white, or inorganic pigments for colours. TiO₂ is classified as safe by EFSA.
+- **Fillers:** Calcium carbonate (CaCO₃) — the same material as eggshells and limestone.
+
+**What modern PVC profiles no longer contain:** lead, cadmium, mercury or organotin compounds — all prohibited under REACH Regulation (EC) No 1907/2006.
+
+## Behaviour at Extreme Temperatures — Measurable Data
+
+**At normal use temperatures (−40°C to +60°C):** PVC for windows is completely chemically stable. No detectable volatile substances. Salamander profiles are tested to EN 12608 for resistance to repeated thermal cycling across this range.
+
+**At elevated temperatures (60°C–140°C):** The PVC profile begins to soften progressively — a reversible phase transition, not combustion. No toxic substances are emitted in significant quantities below the ignition point.
+
+**At ignition point (>270°C):** PVC ignites less readily than wood (dry wood: ~220-260°C; PVC: >270°C). Once ignited, combustion gases include hydrogen chloride (HCl). According to the COWI study for the European Commission (2001), PVC's contribution to fire gas toxicity at residential scale is estimated below 5% of total toxic emissions.
+
+**At extreme cold (below −20°C):** Window profiles are **unplasticised** (PVC-U). Salamander BluEvolution 92 is tested to EN 12608 at −20°C with no change to mechanical properties.
+
+## Why 1970s and Modern PVC Windows Are Fundamentally Different Products
+
+**1985–1995:** European PVC industry voluntarily adopts ECVM programme to reduce lead and cadmium compounds.
+**1994:** Germany bans cadmium stabilisers in PVC. The rest of the EU follows within two years.
+**2001:** Voluntary ECVM/ESPA commitment to completely eliminate lead from PVC stabilisers by 2015 — achieved 5–7 years early.
+**2006:** REACH Regulation classifies lead, cadmium and organotin compounds as Substances of Very High Concern (SVHC).
+**2008:** Salamander completes full transition to Ca-Zn stabilisers across all profile ranges.
+**2015:** European window PVC profile industry operates 100% without lead stabilisers. Confirmed through independent VinylPlus audit.
+
+## Recyclability: The Argument Anti-PVC Campaigns Ignore
+
+PVC is one of the most recyclable construction materials. A PVC profile can be reprocessed up to 8 times without significant degradation of mechanical properties. The European industry recycles over 800,000 tonnes of PVC annually. VinylPlus data: between 2000 and 2023, 7.7 million tonnes of PVC were recycled across Europe.
+
+## What This Means Concretely for Your Home
+
+Salamander BluEvolution 92 windows installed in 2026 contain no lead, cadmium, mercury or organotin compounds; emit zero VOCs at normal temperatures; are certified to EN 12608 and EN 14351-1 with Declaration of Performance under CPR 305/2011; carry a minimum 40-year manufacturer guarantee; and will be 100% recyclable at end of life.
+
+The PVC toxicity myth played a useful role in pressuring the industry to eliminate genuinely problematic compounds. That pressure worked. The myth survived the transformations it triggered — making it today not a useful warning, but a technically unsupported prejudice.
+
+---
+Neofort BIZ supplies Salamander bluEvolution 92 profiles with REACH-certified Ca-Zn stabilisers. [Request a quote](/en/contact).`,
+      de: `## Woher kommt der Mythos — eine dokumentierte Geschichte
+
+Der Mythos der PVC-Giftigkeit entstand nicht aus dem Nichts. Er hat reale Wurzeln in der Geschichte der chemischen Industrie, blieb aber in der Ära eingefroren, als die Probleme noch real waren — und ignoriert 40 Jahre technischen Fortschritt.
+
+In den 1940er bis 1970er Jahren wurde industrielles PVC mit Blei- und Cadmiumverbindungen stabilisiert — Schwermetalle mit nachgewiesener Toxizität. Medizinische Forschungen der 1970er und 1980er Jahre identifizierten reale Risiken: Arbeiter in PVC-Fabriken ohne Schutzausrüstung wiesen erhöhte Blutbleispiegel auf. Umweltorganisationen in Westeuropa führten nachhaltige Kampagnen gegen PVC — wirksam medienwirksam, aber auf veraltenden Daten basierend. Das Problem: Der Mythos überlebte die Chemie, die ihn erzeugt hatte.
+
+## Die tatsächliche chemische Zusammensetzung von modernem PVC
+
+- **PVC-Harz:** ~60-65% der Masse. Chemisch inert unter normalen Nutzungsbedingungen, keine Emissionen unter 60°C.
+- **Stabilisatoren:** Bis 2015 Blei-Standard. Vollständige Umstellung auf Calcium-Zink (Ca-Zn) durch ECVM-Programm. Salamander seit 2008 ausschließlich Ca-Zn.
+- **Schlagzähigkeitsmodifikatoren:** Acrylverbindungen — nicht toxisch.
+- **Füllstoffe:** Calciumcarbonat (CaCO₃) — identisch mit Eierschalen und Kalkstein.
+
+**Was moderne PVC-Profile nicht mehr enthalten:** Blei, Cadmium, Quecksilber, Organozinnverbindungen — verboten durch REACH-Verordnung (EG) Nr. 1907/2006.
+
+## Verhalten bei Extremtemperaturen
+
+**Normal (−40°C bis +60°C):** Vollständig chemisch stabil. Keine detektierbaren flüchtigen Substanzen. Getestet nach EN 12608.
+
+**Erhöht (60°C–140°C):** Progressives Erweichen — reversibler Phasenübergang, keine Verbrennung.
+
+**Zündpunkt (>270°C):** PVC entzündet sich schwerer als Holz (220-260°C). Laut COWI-Studie für die EU-Kommission (2001) liegt PVCs Beitrag zur Brandgastoxizität unter 5% der Gesamtemissionen.
+
+## Modernisierungszeitlinie
+
+**1994:** Deutschland verbietet Cadmium-Stabilisatoren. **2006:** REACH klassifiziert Blei als SVHC. **2008:** Salamander schließt Umstellung auf Ca-Zn ab. **2015:** Gesamte europäische Branche 100% bleifrei — bestätigt durch VinylPlus-Audit.
+
+## Recyclingfähigkeit
+
+Ein PVC-Profil kann bis zu 8 Mal wiederverarbeitet werden. Zwischen 2000 und 2023 wurden 7,7 Millionen Tonnen PVC in Europa recycelt (VinylPlus).
+
+Die Wahl des Fenstermaterials ist legitim auf Basis realer Kriterien: thermische Leistung, Ästhetik, Kosten, Haltbarkeit. Die Toxizität von modernem PVC ist seit 2015 kein relevantes Kriterium mehr.
+
+---
+Neofort BIZ liefert Salamander bluEvolution 92 Profile mit REACH-zertifizierten Ca-Zn-Stabilisatoren. [Angebot anfordern](/de/kontakt).`,
+      fr: `## D'où vient le mythe — une histoire documentée
+
+Le mythe de la toxicité du PVC ne vient pas de nulle part. Il a des racines réelles dans l'histoire de l'industrie chimique, mais est resté figé dans l'ère où les problèmes étaient réels — ignorant 40 ans de progrès technique.
+
+Dans les années 1940–1970, le PVC industriel était stabilisé avec des composés de plomb et de cadmium. Les recherches médicales des années 70 et 80 ont identifié des risques réels chez les travailleurs exposés. Les organisations environnementales d'Europe occidentale ont mené des campagnes soutenues dans les années 80 et 90 — efficaces médiatiquement, mais basées sur des données déjà dépassées par les modernisations chimiques en cours. Le problème : le mythe a survécu à la chimie qui l'avait engendré.
+
+## Composition chimique réelle du PVC moderne
+
+- **Résine PVC :** ~60-65% de la masse. Polymère chimiquement inerte à température normale, sans émissions sous 60°C.
+- **Stabilisants :** Jusqu'en 2015, les stabilisants au plomb étaient la norme européenne. Transition complète vers calcium-zinc (Ca-Zn) via le programme ECVM. Salamander utilise exclusivement Ca-Zn depuis 2008.
+- **Charges :** Carbonate de calcium (CaCO₃) — même matière que les coquilles d'œuf et le calcaire.
+
+**Ce que les profilés PVC modernes ne contiennent plus :** plomb, cadmium, mercure, composés organostanniques — tous interdits par le règlement REACH (CE) n° 1907/2006.
+
+## Comportement aux températures extrêmes
+
+**Normal (−40°C à +60°C) :** Stable chimiquement. Aucune substance volatile détectable. Testé selon EN 12608.
+
+**Élevé (60°C–140°C) :** Ramollissement progressif — transition de phase réversible, pas de combustion.
+
+**Point d'ignition (>270°C) :** Le PVC s'enflamme moins facilement que le bois (220-260°C). Selon l'étude COWI pour la Commission européenne (2001), la contribution du PVC à la toxicité des gaz d'incendie est estimée sous 5% des émissions totales.
+
+## Chronologie des modernisations
+
+**1994 :** Allemagne interdit les stabilisants au cadmium. **2006 :** REACH classe le plomb comme SVHC. **2008 :** Salamander finalise la transition vers Ca-Zn. **2015 :** Toute l'industrie européenne opère sans plomb — confirmé par audit VinylPlus.
+
+## Recyclabilité
+
+Un profilé PVC peut être retraité jusqu'à 8 fois. Entre 2000 et 2023, 7,7 millions de tonnes de PVC ont été recyclées en Europe (VinylPlus).
+
+Le choix du matériau de fenêtre est légitime sur la base de critères réels : performance thermique, esthétique, coût, durabilité. La toxicité du PVC moderne n'est plus un critère pertinent depuis 2015.
+
+---
+Neofort BIZ fournit des profilés Salamander bluEvolution 92 avec stabilisants Ca-Zn certifiés REACH. [Demander un devis](/fr/contact).`,
+      es: `## De dónde viene el mito — una historia documentada
+
+El mito de la toxicidad del PVC no surgió de la nada. Tiene raíces reales en la historia de la industria química, pero quedó congelado en la era en que los problemas eran reales — ignorando 40 años de progreso técnico.
+
+En los años 1940–1970, el PVC industrial se estabilizaba con compuestos de plomo y cadmio. Las investigaciones médicas de los años 70 y 80 identificaron riesgos reales en trabajadores expuestos. Las organizaciones medioambientales de Europa occidental realizaron campañas sostenidas en los años 80 y 90 — eficaces mediáticamente, pero basadas en datos ya superados por las modernizaciones químicas en curso. El problema: el mito sobrevivió a la química que lo generó.
+
+## Composición química real del PVC moderno
+
+- **Resina PVC:** ~60-65% de la masa. Polímero inerte bajo condiciones normales de uso, sin emisiones por debajo de 60°C.
+- **Estabilizadores:** Hasta 2015, los estabilizadores de plomo eran la norma industrial europea. Transición completa a calcio-zinc (Ca-Zn) mediante el programa ECVM. Salamander usa exclusivamente Ca-Zn desde 2008.
+- **Cargas:** Carbonato de calcio (CaCO₃) — el mismo material que las cáscaras de huevo y la piedra caliza.
+
+**Lo que los perfiles PVC modernos ya no contienen:** plomo, cadmio, mercurio, compuestos organoestaño — todos prohibidos por el Reglamento REACH (CE) n.º 1907/2006.
+
+## Comportamiento a temperaturas extremas
+
+**Normal (−40°C a +60°C):** Estable químicamente. Sin sustancias volátiles detectables. Probado según EN 12608.
+
+**Elevada (60°C–140°C):** Ablandamiento progresivo — transición de fase reversible, no combustión.
+
+**Punto de ignición (>270°C):** El PVC se inflama menos fácilmente que la madera (220-260°C). Según el estudio COWI para la Comisión Europea (2001), la contribución del PVC a la toxicidad de los gases de incendio se estima por debajo del 5% de las emisiones totales.
+
+## Cronología de modernizaciones
+
+**1994:** Alemania prohíbe estabilizadores de cadmio. **2006:** REACH clasifica el plomo como SVHC. **2008:** Salamander completa la transición a Ca-Zn. **2015:** Toda la industria europea opera sin plomo — confirmado por auditoría VinylPlus.
+
+## Reciclabilidad
+
+Un perfil PVC puede reprocesarse hasta 8 veces. Entre 2000 y 2023, se reciclaron 7,7 millones de toneladas de PVC en Europa (VinylPlus).
+
+La elección del material de ventana es legítima según criterios reales: rendimiento térmico, estética, coste, durabilidad. La toxicidad del PVC moderno no ha sido un criterio relevante desde 2015.
+
+---
+Neofort BIZ suministra perfiles Salamander bluEvolution 92 con estabilizadores Ca-Zn certificados REACH. [Solicitar presupuesto](/es/contact).`,
+      it: `## Da dove viene il mito — una storia documentata
+
+Il mito della tossicità del PVC non è emerso dal nulla. Ha radici reali nella storia dell'industria chimica, ma è rimasto congelato nell'era in cui i problemi erano reali — ignorando 40 anni di progresso tecnico.
+
+Negli anni 1940–1970, il PVC industriale veniva stabilizzato con composti di piombo e cadmio. Le ricerche mediche degli anni 70 e 80 identificarono rischi reali nei lavoratori esposti. Le organizzazioni ambientaliste dell'Europa occidentale condussero campagne sostenute negli anni 80 e 90 — efficaci mediaticamente, ma basate su dati già superati dalle modernizzazioni chimiche in corso. Il problema: il mito sopravvisse alla chimica che lo aveva generato.
+
+## Composizione chimica reale del PVC moderno
+
+- **Resina PVC:** ~60-65% della massa. Polimero inerte in condizioni normali di utilizzo, senza emissioni sotto i 60°C.
+- **Stabilizzanti:** Fino al 2015, gli stabilizzanti al piombo erano lo standard europeo. Transizione completa al calcio-zinco (Ca-Zn) tramite il programma ECVM. Salamander usa esclusivamente Ca-Zn dal 2008.
+- **Cariche:** Carbonato di calcio (CaCO₃) — lo stesso materiale dei gusci d'uovo e del calcare.
+
+**Cosa i profili PVC moderni non contengono più:** piombo, cadmio, mercurio, composti organostanici — tutti vietati dal Regolamento REACH (CE) n. 1907/2006.
+
+## Comportamento alle temperature estreme
+
+**Normale (−40°C a +60°C):** Chimicamente stabile. Nessuna sostanza volatile rilevabile. Testato secondo EN 12608.
+
+**Elevata (60°C–140°C):** Ammorbidimento progressivo — transizione di fase reversibile, non combustione.
+
+**Punto di accensione (>270°C):** Il PVC si accende meno facilmente del legno (220-260°C). Secondo lo studio COWI per la Commissione Europea (2001), il contributo del PVC alla tossicità dei gas di incendio è stimato sotto il 5% delle emissioni totali.
+
+## Cronologia delle modernizzazioni
+
+**1994:** Germania vieta gli stabilizzanti al cadmio. **2006:** REACH classifica il piombo come SVHC. **2008:** Salamander completa la transizione a Ca-Zn. **2015:** Tutta l'industria europea opera senza piombo — confermato da audit VinylPlus.
+
+## Riciclabilità
+
+Un profilo PVC può essere rielaborato fino a 8 volte. Tra il 2000 e il 2023, sono state riciclate 7,7 milioni di tonnellate di PVC in Europa (VinylPlus).
+
+La scelta del materiale della finestra è legittima in base a criteri reali: prestazione termica, estetica, costo, durata. La tossicità del PVC moderno non è più un criterio rilevante dal 2015.
+
+---
+Neofort BIZ fornisce profili Salamander bluEvolution 92 con stabilizzanti Ca-Zn certificati REACH. [Richiedi preventivo](/it/contact).`,
+    },
+  },
+
   // ─── ARTICOL: Unde pot comanda termopane cu izolatie avansata Bucuresti ────
   {
     slugs: {

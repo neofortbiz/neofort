@@ -678,6 +678,22 @@ export const routing = defineRouting({
     es: '/blog/opciones-aislamiento-perimetral-ventanas-rumania-2026',
     it: '/blog/opzioni-isolamento-perimetrale-finestre-romania-2026',
   },
+  '/blog/mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre': {
+    ro: '/blog/mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre',
+    en: '/blog/pvc-toxic-myth-safety-composition-evolution-windows',
+    de: '/blog/pvc-giftig-mythos-sicherheit-zusammensetzung-entwicklung-fenster',
+    fr: '/blog/mythe-pvc-toxique-securite-composition-evolution-fenetres',
+    es: '/blog/mito-pvc-toxico-seguridad-composicion-evolucion-ventanas',
+    it: '/blog/mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre',
+  },
+  '/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu': {
+    ro: '/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu',
+    en: '/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing',
+    de: '/blog/komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung',
+    fr: '/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage',
+    es: '/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento',
+    it: '/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro',
+  },
 
   // PILLAR PAGES
   }
