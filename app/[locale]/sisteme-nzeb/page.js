@@ -69,8 +69,8 @@ export async function generateMetadata({ params }) {
       canonical: `${BASE}/${locale}/${slug}`,
       languages: Object.fromEntries([...LOCALES.map(l => [l, `${BASE}/${l}/${SLUGS[l]}`]), ['x-default', `${BASE}/ro/${SLUGS.ro}`]]),
     },
-    openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images: [{ url:`${BASE}/og/nZEB.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Sisteme nZEB — ferestre pentru clădiri cu consum de energie aproape zero' : locale==='en' ? 'nZEB systems — windows for nearly zero energy buildings' : locale==='de' ? 'nZEB-Systeme — Fenster für Niedrigstenergiegebäude' : locale==='fr' ? 'Systèmes nZEB — fenêtres pour bâtiments à énergie quasi nulle' : locale==='es' ? 'Sistemas nZEB — ventanas para edificios de consumo casi nulo' : 'Sistemi nZEB — finestre per edifici a energia quasi zero', type:'image/jpeg' }] },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og/nZEB.jpg`] },
+    openGraph: { type:'website', url:`${BASE}/${locale}/${slug}`, siteName:'Neofort BIZ', title: ui.title, description: ui.desc, images: [{ url:`${BASE}/og/nZEB.avif`, width:1200, height:630, alt: locale==='ro' ? 'Sisteme nZEB — ferestre pentru clădiri cu consum de energie aproape zero' : locale==='en' ? 'nZEB systems — windows for nearly zero energy buildings' : locale==='de' ? 'nZEB-Systeme — Fenster für Niedrigstenergiegebäude' : locale==='fr' ? 'Systèmes nZEB — fenêtres pour bâtiments à énergie quasi nulle' : locale==='es' ? 'Sistemas nZEB — ventanas para edificios de consumo casi nulo' : 'Sistemi nZEB — finestre per edifici a energia quasi zero', type:'image/avif' }] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.title, description: ui.desc, images:[`${BASE}/og/nZEB.avif`] },
 };
 }
 
@@ -103,11 +103,11 @@ export default async function Page({ params }) {
   const faqSchema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    'mainEntity': ({'ro': [['Ce sunt precadrele Blaugelb Triotherm+ și de ce sunt obligatorii pentru nZEB?', 'Precadrele Blaugelb Triotherm+ sunt sistemul de montaj termic cu 3 zone de izolare XPS care elimină complet puntea termică de montaj — responsabilă pentru mucegaiul din jurul ramei. Sunt obligatorii pentru certificarea energetică A și A+ (nZEB) conform standardelor europene.'], ['Care este diferența dintre banda butilică și banda antivapori?', 'Banda butilică (exterior): impermeabilă la apă, permeabilă la vapori — respinge ploaia din exterior. Banda antivapori (interior): Sd > 10 m — blochează vaporii calzi din cameră să migreze în structura peretelui. Ambele sunt necesare pentru sistemul complet RAL 3 straturi.'], ['Ce înseamnă Warm Edge la geamul termoizolator?', 'Warm Edge este distanțierul termoplastic (λ = 0,035 W/mK) care înlocuiește distanțierul clasic de aluminiu (λ = 160 W/mK). Reduce puntea termică la marginea geamului cu 60%, crește temperatura marginii cu 4-6°C și elimină condensul vizibil pe geam lângă ramă.']], 'en': [['What are Blaugelb Triotherm+ precasings and why are they mandatory for nZEB?', 'Blaugelb Triotherm+ precasings are the thermal mounting system with 3 XPS insulation zones that completely eliminate the installation thermal bridge — responsible for mould around the frame. They are mandatory for A and A+ energy certification (nZEB) under European standards.'], ['What is the difference between butyl tape and vapour barrier tape?', 'Butyl tape (exterior): waterproof, vapour permeable — repels rain from outside. Vapour barrier tape (interior): Sd > 10 m — blocks warm indoor vapour from migrating into the wall structure. Both are needed for the complete RAL 3-layer system.'], ['What does Warm Edge mean in insulating glass?', 'Warm Edge is the thermoplastic spacer (λ = 0.035 W/mK) that replaces the classic aluminium spacer (λ = 160 W/mK). It reduces the glass edge thermal bridge by 60%, raises the edge temperature by 4-6°C and eliminates visible condensation on the glass near the frame.']]})[locale]?.map(([q,a]) => ({
+    'mainEntity': ({'ro': [['Ce sunt precadrele Blaugelb Triotherm+ și de ce sunt esențiale pentru nZEB?', 'Precadrele Blaugelb Triotherm+ sunt sistemul de montaj termic cu 3 zone de izolare XPS care elimină complet puntea termică de montaj — responsabilă pentru mucegaiul din jurul ramei. Sunt esențiale pentru atingerea certificării energetice A și A+ (nZEB) conform standardelor europene.'], ['Care este diferența dintre banda butilică și banda antivapori?', 'Banda butilică (exterior): impermeabilă la apă, permeabilă la vapori — respinge ploaia din exterior. Banda antivapori (interior): Sd > 10 m — blochează vaporii calzi din cameră să migreze în structura peretelui. Ambele sunt necesare pentru sistemul complet RAL 3 straturi.'], ['Ce înseamnă Warm Edge la geamul termoizolator?', 'Warm Edge este distanțierul termoplastic (λ = 0,035 W/mK) care înlocuiește distanțierul clasic de aluminiu (λ = 160 W/mK). Reduce puntea termică la marginea geamului cu 60%, crește temperatura marginii cu 4-6°C și elimină condensul vizibil pe geam lângă ramă.']], 'en': [['What are Blaugelb Triotherm+ precasings and why are they essential for nZEB?', 'Blaugelb Triotherm+ precasings are the thermal mounting system with 3 XPS insulation zones that completely eliminate the installation thermal bridge — responsible for mould around the frame. They are essential for achieving A and A+ energy certification (nZEB) under European standards.'], ['What is the difference between butyl tape and vapour barrier tape?', 'Butyl tape (exterior): waterproof, vapour permeable — repels rain from outside. Vapour barrier tape (interior): Sd > 10 m — blocks warm indoor vapour from migrating into the wall structure. Both are needed for the complete RAL 3-layer system.'], ['What does Warm Edge mean in insulating glass?', 'Warm Edge is the thermoplastic spacer (λ = 0.035 W/mK) that replaces the classic aluminium spacer (λ = 160 W/mK). It reduces the glass edge thermal bridge by 60%, raises the edge temperature by 4-6°C and eliminates visible condensation on the glass near the frame.']]})[locale]?.map(([q,a]) => ({
       '@type': 'Question',
       'name': q,
       'acceptedAnswer': { '@type': 'Answer', 'text': a }
-    })) || {'ro': [['Ce sunt precadrele Blaugelb Triotherm+ și de ce sunt obligatorii pentru nZEB?', 'Precadrele Blaugelb Triotherm+ sunt sistemul de montaj termic cu 3 zone de izolare XPS care elimină complet puntea termică de montaj — responsabilă pentru mucegaiul din jurul ramei. Sunt obligatorii pentru certificarea energetică A și A+ (nZEB) conform standardelor europene.'], ['Care este diferența dintre banda butilică și banda antivapori?', 'Banda butilică (exterior): impermeabilă la apă, permeabilă la vapori — respinge ploaia din exterior. Banda antivapori (interior): Sd > 10 m — blochează vaporii calzi din cameră să migreze în structura peretelui. Ambele sunt necesare pentru sistemul complet RAL 3 straturi.'], ['Ce înseamnă Warm Edge la geamul termoizolator?', 'Warm Edge este distanțierul termoplastic (λ = 0,035 W/mK) care înlocuiește distanțierul clasic de aluminiu (λ = 160 W/mK). Reduce puntea termică la marginea geamului cu 60%, crește temperatura marginii cu 4-6°C și elimină condensul vizibil pe geam lângă ramă.']], 'en': [['What are Blaugelb Triotherm+ precasings and why are they mandatory for nZEB?', 'Blaugelb Triotherm+ precasings are the thermal mounting system with 3 XPS insulation zones that completely eliminate the installation thermal bridge — responsible for mould around the frame. They are mandatory for A and A+ energy certification (nZEB) under European standards.'], ['What is the difference between butyl tape and vapour barrier tape?', 'Butyl tape (exterior): waterproof, vapour permeable — repels rain from outside. Vapour barrier tape (interior): Sd > 10 m — blocks warm indoor vapour from migrating into the wall structure. Both are needed for the complete RAL 3-layer system.'], ['What does Warm Edge mean in insulating glass?', 'Warm Edge is the thermoplastic spacer (λ = 0.035 W/mK) that replaces the classic aluminium spacer (λ = 160 W/mK). It reduces the glass edge thermal bridge by 60%, raises the edge temperature by 4-6°C and eliminates visible condensation on the glass near the frame.']]}['ro'].map(([q,a]) => ({
+    })) || {'ro': [['Ce sunt precadrele Blaugelb Triotherm+ și de ce sunt esențiale pentru nZEB?', 'Precadrele Blaugelb Triotherm+ sunt sistemul de montaj termic cu 3 zone de izolare XPS care elimină complet puntea termică de montaj — responsabilă pentru mucegaiul din jurul ramei. Sunt esențiale pentru atingerea certificării energetice A și A+ (nZEB) conform standardelor europene.'], ['Care este diferența dintre banda butilică și banda antivapori?', 'Banda butilică (exterior): impermeabilă la apă, permeabilă la vapori — respinge ploaia din exterior. Banda antivapori (interior): Sd > 10 m — blochează vaporii calzi din cameră să migreze în structura peretelui. Ambele sunt necesare pentru sistemul complet RAL 3 straturi.'], ['Ce înseamnă Warm Edge la geamul termoizolator?', 'Warm Edge este distanțierul termoplastic (λ = 0,035 W/mK) care înlocuiește distanțierul clasic de aluminiu (λ = 160 W/mK). Reduce puntea termică la marginea geamului cu 60%, crește temperatura marginii cu 4-6°C și elimină condensul vizibil pe geam lângă ramă.']], 'en': [['What are Blaugelb Triotherm+ precasings and why are they essential for nZEB?', 'Blaugelb Triotherm+ precasings are the thermal mounting system with 3 XPS insulation zones that completely eliminate the installation thermal bridge — responsible for mould around the frame. They are essential for achieving A and A+ energy certification (nZEB) under European standards.'], ['What is the difference between butyl tape and vapour barrier tape?', 'Butyl tape (exterior): waterproof, vapour permeable — repels rain from outside. Vapour barrier tape (interior): Sd > 10 m — blocks warm indoor vapour from migrating into the wall structure. Both are needed for the complete RAL 3-layer system.'], ['What does Warm Edge mean in insulating glass?', 'Warm Edge is the thermoplastic spacer (λ = 0.035 W/mK) that replaces the classic aluminium spacer (λ = 160 W/mK). It reduces the glass edge thermal bridge by 60%, raises the edge temperature by 4-6°C and eliminates visible condensation on the glass near the frame.']]}['ro'].map(([q,a]) => ({
       '@type': 'Question',
       'name': q,
       'acceptedAnswer': { '@type': 'Answer', 'text': a }
@@ -145,8 +145,6 @@ export default async function Page({ params }) {
 
   return (
     <>
-      {/* Preload LCP — prima imagine din grid produse */}
-      <link rel="preload" as="image" href="/accessories/precadre-blaugelb.avif" type="image/avif" fetchPriority="high" />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <style>{`
@@ -157,10 +155,10 @@ export default async function Page({ params }) {
         .acc-cat  { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.54rem; letter-spacing:.2em; text-transform:uppercase; margin-bottom:8px; display:block; }
         .acc-name { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:1rem; color:#1a1a1a; line-height:1.2; margin:0 0 12px; }
         .acc-specs { list-style:none; padding:0; margin:0 0 12px; }
-        .acc-specs li { font-size:.72rem; color:#4a4a4a; padding:3px 0; border-bottom:1px solid #f0f0ee; line-height:1.4; }
+        .acc-specs li { font-size:.72rem; color:#767676; padding:3px 0; border-bottom:1px solid #f0f0ee; line-height:1.4; }
         .acc-specs li:last-child { border-bottom:none; }
         .acc-specs strong { color:#1a1a1a; font-weight:600; }
-        .acc-desc { font-size:.76rem; color:#404040; line-height:1.6; margin:0 0 16px; flex:1; }
+        .acc-desc { font-size:.76rem; color:#888; line-height:1.6; margin:0 0 16px; flex:1; }
         .acc-btn  { font-family:'Barlow Condensed',sans-serif; font-size:.58rem; font-weight:600; letter-spacing:.16em; text-transform:uppercase; text-decoration:none; border:1px solid #e8e8e4; padding:8px 16px; text-align:center; color:#1a1a1a; transition:all .18s; display:block; margin-top:auto; }
         .acc-btn:hover { background:#1a1a1a; color:#fff; border-color:#1a1a1a; }
         @media(max-width:1100px){ .acc-grid{ grid-template-columns:repeat(3,1fr); } }
@@ -179,17 +177,14 @@ export default async function Page({ params }) {
       <section style={{padding:'48px 0 80px', background:'#fff'}}>
         <div className="container mx-auto px-6">
           <div className="acc-grid">
-            {A.map((a, idx) => {
+            {A.map(a => {
               const name  = a.name[locale]  || a.name.ro;
               const cat   = a.cat[locale]   || a.cat.ro;
               const desc  = a.desc[locale]  || a.desc.ro;
               const specs = a.specs[locale] || a.specs.ro;
               return (
                 <div key={a.slug} className="acc-card">
-                  <img src={a.img} alt={name} className="acc-img"
-                    loading={idx === 0 ? 'eager' : 'lazy'}
-                    fetchpriority={idx === 0 ? 'high' : 'auto'}
-                  />
+                  <img src={a.img} alt={name} className="acc-img" loading="lazy"/>
                   <div className="acc-body">
                     <span className="acc-cat" style={{color: a.color}}>{cat}</span>
                     <h2 className="acc-name">{name}</h2>
@@ -208,12 +203,22 @@ export default async function Page({ params }) {
         </div>
       </section>
 
+      <section aria-label={cta.tag} style={{background:'#111',padding:'0'}}>
+        <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
+          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
+            {cta.h2a}{' '}
+            <span style={{textDecoration:'underline'}}>{cta.h2b}</span>
+            {' '}{cta.h2c}
+          </p>
+        </div>
+      </section>
+
       {/* ── PILLAR GUIDE LINK ── */}
       <section style={{background:'#f7f7f5',padding:'0'}}>
         <div className="container" style={{paddingTop:'24px',paddingBottom:'24px',borderTop:'1px solid #e8e8e4'}}>
           <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'12px'}}>
             <div>
-              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#404040',marginBottom:'4px'}}>Ghid & Resurse</div>
+              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#888',marginBottom:'4px'}}>Ghid & Resurse</div>
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.92rem',fontWeight:600,letterSpacing:'.04em',color:'#1a2a3a'}}>{pillarLabel}</div>
             </div>
             <Link href={`/${pillarSlug}`} style={{display:'inline-block',background:'#1a2a3a',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.18em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',whiteSpace:'nowrap'}}>
