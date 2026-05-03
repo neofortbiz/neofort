@@ -84,7 +84,7 @@ const CONTENT = {
     hero_al_btn: 'ALUMINIUM PROFILES',
     sec_label_intro: 'Excellence in Thermal Insulation Windows',
     intro_h2: 'PVC Salamander Windows\n& Aluminium Alumil',
-    intro_p1: 'Neofort BIZ SRL is a specialised supplier of Salamander PVC windows and Alumil aluminium systems in Bucharest, Romania, with 21 years of experience and EU-wide delivery. BluEvolution 92 (6 chambers, Uw = 0.70 W/m²K) and GreenEvolution 76 (5 chambers, Uw = 0.73 W/m²K) profiles are nZEB certified, delivering 40–60% energy savings versus standard windows. We offer complete nZEB installation solutions — Blaugelb Triotherm+ precasings, butyl tape, vapour barriers and Warm Edge spacers — tailored to each project's requirements and quoted separately on request.',
+    intro_p1: 'Neofort BIZ SRL is a specialised supplier of Salamander PVC windows and Alumil aluminium systems in Bucharest, Romania, with 21 years of experience and EU-wide delivery. BluEvolution 92 (6 chambers, Uw = 0.70 W/m²K) and GreenEvolution 76 (5 chambers, Uw = 0.73 W/m²K) profiles are nZEB certified, delivering 40–60% energy savings versus standard windows. We offer complete nZEB installation solutions — Blaugelb Triotherm+ precasings, butyl tape, vapour barriers and Warm Edge spacers — tailored to each project\'s requirements and quoted separately on request.',
     intro_p2_pre: 'Whether you opt for the robustness of',
     intro_p2_b1: 'Alumil aluminium with thermal barrier',
     intro_p2_mid: 'or the superior acoustic insulation of',
