@@ -45,7 +45,7 @@ const UI = {
     glass_h2: 'Geamul termoizolator — alegerea care conteaza cel mai mult',
     glass: 'Geamul reprezinta 70-80% din suprafata ferestrei si are cel mai mare impact asupra izolarii termice. Neofort BIZ lucreaza exclusiv cu geam Saint-Gobain SGG. Geamul dublu Low-E (2 foi) este solutia standard pentru renovari, cu un coeficient Ug de 1,0-1,1 W/m2K. Geamul tripan Low-E cu argon (3 foi) este obligatoriu pentru certificarea nZEB, atingand valori Ug de 0,5-0,6 W/m2K. Diferenta de confort termic intre geamul dublu si tripan este resimtita in special in sezoanele reci — geamul tripan elimina complet senzatia de frig radiativ langa fereastra.',
     montaj_h2: 'Montajul profesional — diferenta dintre o fereastra buna si una excelenta',
-    montaj: 'Cea mai buna tamplarie PVC montata gresit isi pierde 30-50% din performantele termice. Neofort BIZ aplica standardul RAL pentru montajul tamplariei: banda butilic precomprimata la exterior (impermeabila la apa, permeabila la vapori), folie antivapori la interior si spuma PU intre toc si zid. Pentru proiectele nZEB, montajul include obligatoriu precadre Blaugelb Triotherm+ care elimina puntea termica la glaf.',
+    montaj: 'Cea mai buna tamplarie PVC montata gresit isi pierde 30-50% din performantele termice. Neofort BIZ aplica standardul RAL pentru montajul tamplariei: banda butilic precomprimata la exterior (impermeabila la apa, permeabila la vapori), folie antivapori la interior si spuma PU intre toc si zid. Pentru proiectele nZEB, recomandam precadre Blaugelb Triotherm+ care elimina puntea termica la glaf — disponibile ca optiune separata la cerere.',
     nzeb_h2: 'Tamplaria PVC si certificarea nZEB — ce trebuie sa stii',
     nzeb: 'Normativul nZEB (Nearly Zero Energy Building) in vigoare in Romania impune un coeficient global de transfer termic al ferestrei (Uw) de maximum 1,1 W/m2K pentru cladiri noi. Pentru a obtine valori Uw sub 1,0 W/m2K — necesare pentru case pasive sau pentru a maximiza scorul energetic — este recomandat sistemul BluEvolution 92 cu geam tripan Low-E Saint-Gobain si montaj cu precadre Blaugelb. Neofort BIZ ofera consultanta completa pentru proiectele nZEB si livreaza in toata Romania.',
     faq_h2: 'Intrebari frecvente — Tamplarie PVC',
@@ -81,7 +81,7 @@ const UI = {
     glass_h2: 'Insulating Glass — The Choice That Matters Most',
     glass: 'Glass represents 70-80% of the window surface and has the greatest impact on thermal insulation. Neofort BIZ works exclusively with Saint-Gobain SGG glass. Double Low-E glass (2 panes) is the standard solution for renovations with a Ug of 1.0-1.1 W/m2K. Triple Low-E glass with argon (3 panes) is mandatory for nZEB certification, achieving Ug values of 0.5-0.6 W/m2K.',
     montaj_h2: 'Professional Installation — The Difference Between Good and Excellent',
-    montaj: 'The best PVC joinery incorrectly installed loses 30-50% of its thermal performance. Neofort BIZ applies the RAL standard for window installation: pre-compressed butyl tape on the exterior, vapour barrier film on the interior and PU foam between frame and wall. For nZEB projects, installation includes Blaugelb Triotherm+ sub-sill frames that eliminate thermal bridging.',
+    montaj: 'The best PVC joinery incorrectly installed loses 30-50% of its thermal performance. Neofort BIZ applies the RAL standard for window installation: pre-compressed butyl tape on the exterior, vapour barrier film on the interior and PU foam between frame and wall. For nZEB projects, we recommend Blaugelb Triotherm+ preframes that eliminate thermal bridging at the window perimeter — available as a separate option on request.',
     nzeb_h2: 'PVC Windows and nZEB Certification — What You Need to Know',
     nzeb: 'The nZEB regulation in Romania requires a maximum overall heat transfer coefficient (Uw) of 1.1 W/m2K for new buildings. For Uw values below 1.0 W/m2K — required for passive houses — BluEvolution 92 with triple Low-E Saint-Gobain glass and Blaugelb installation is recommended. Neofort BIZ provides complete nZEB consultancy.',
     faq_h2: 'Frequently Asked Questions — PVC Windows',
@@ -117,7 +117,7 @@ const UI = {
     glass_h2: 'Isolierverglasung — Die entscheidende Wahl',
     glass: 'Glas macht 70-80% der Fensterflache aus und hat den grossten Einfluss auf die Warmedammung. Neofort BIZ arbeitet ausschliesslich mit Saint-Gobain SGG Glas. Zweifach-Low-E-Verglasung ist die Standardlosung fur Renovierungen. Dreifach-Low-E-Verglasung mit Argon ist fur die nZEB-Zertifizierung erforderlich.',
     montaj_h2: 'Professionelle Montage — Der Unterschied zwischen gut und exzellent',
-    montaj: 'Die beste PVC-Tischlerei verliert bei falscher Montage 30-50% ihrer Warmeleistung. Neofort BIZ wendet den RAL-Standard fur die Fenstermontage an: vorkomprimiertes Butylband aussen, Dampfsperrfolie innen und PU-Schaum zwischen Rahmen und Wand. Fur nZEB-Projekte umfasst die Montage Blaugelb Triotherm+ Vorfenster.',
+    montaj: 'Die beste PVC-Tischlerei verliert bei falscher Montage 30-50% ihrer Warmeleistung. Neofort BIZ wendet den RAL-Standard fur die Fenstermontage an: vorkomprimiertes Butylband aussen, Dampfsperrfolie innen und PU-Schaum zwischen Rahmen und Wand. Fur nZEB-Projekte empfehlen wir Blaugelb Triotherm+ Vorblendrahmen zur Eliminierung der Waermebrucke am Fensterperimeter — als separate Option auf Anfrage erhaeltlich.',
     nzeb_h2: 'PVC-Fenster und nZEB-Zertifizierung',
     nzeb: 'Die nZEB-Vorschrift in Rumanien verlangt einen maximalen Warmeubergangskoeffizienten (Uw) von 1,1 W/m2K fur Neubauten. Fur Uw-Werte unter 1,0 W/m2K wird BluEvolution 92 mit Dreifach-Low-E Saint-Gobain-Glas und Blaugelb-Montage empfohlen.',
     faq_h2: 'Haufig gestellte Fragen — PVC-Fenster',
@@ -153,7 +153,7 @@ const UI = {
     glass_h2: 'Le vitrage isolant — Le choix qui compte le plus',
     glass: 'Le vitrage represente 70-80% de la surface de la fenetre et a le plus grand impact sur l\'isolation thermique. Neofort BIZ travaille exclusivement avec le verre Saint-Gobain SGG. Le double vitrage Low-E est la solution standard pour les renovations. Le triple vitrage Low-E avec argon est obligatoire pour la certification nZEB.',
     montaj_h2: 'La pose professionnelle — La difference entre bon et excellent',
-    montaj: 'La meilleure menuiserie PVC mal installee perd 30 a 50% de ses performances thermiques. Neofort BIZ applique la norme RAL pour la pose des fenetres : ruban butyle precomprime a l\'exterieur, film pare-vapeur a l\'interieur et mousse PU entre dormant et mur.',
+    montaj: 'La meilleure menuiserie PVC mal installee perd 30 a 50% de ses performances thermiques. Neofort BIZ applique la norme RAL pour la pose des fenetres : ruban butyle precomprime a l\'exterieur, film pare-vapeur a l\'interieur et mousse PU entre dormant et mur. Pour les projets nZEB, nous recommandons les precadres Blaugelb Triotherm+ qui eliminent le pont thermique au perimetre de la fenetre — disponibles en option separee sur demande.',
     nzeb_h2: 'Menuiserie PVC et certification nZEB',
     nzeb: 'La reglementation nZEB en Roumanie exige un coefficient de transmission thermique maximal (Uw) de 1,1 W/m2K pour les batiments neufs. Pour des valeurs Uw inferieures a 1,0 W/m2K, le BluEvolution 92 avec triple vitrage Low-E Saint-Gobain est recommande.',
     faq_h2: 'Questions frequentes — Menuiserie PVC',
@@ -189,7 +189,7 @@ const UI = {
     glass_h2: 'El vidrio aislante — La eleccion que mas importa',
     glass: 'El vidrio representa el 70-80% de la superficie de la ventana y tiene el mayor impacto en el aislamiento termico. Neofort BIZ trabaja exclusivamente con vidrio Saint-Gobain SGG. El doble acristalamiento Low-E es la solucion estandar para reformas. El triple acristalamiento Low-E con argon es obligatorio para la certificacion nZEB.',
     montaj_h2: 'Instalacion profesional — La diferencia entre bueno y excelente',
-    montaj: 'La mejor carpinteria PVC mal instalada pierde el 30-50% de su rendimiento termico. Neofort BIZ aplica el estandar RAL para la instalacion de ventanas: cinta de butilo precomprimida en el exterior, lamina barrera de vapor en el interior y espuma de PU entre marco y pared.',
+    montaj: 'La mejor carpinteria PVC mal instalada pierde el 30-50% de su rendimiento termico. Neofort BIZ aplica el estandar RAL para la instalacion de ventanas: cinta de butilo precomprimida en el exterior, lamina barrera de vapor en el interior y espuma de PU entre marco y pared. Para proyectos nZEB, recomendamos premarcos Blaugelb Triotherm+ que eliminan el puente termico en el perimetro — disponibles como opcion separada a peticion.',
     nzeb_h2: 'Carpinteria PVC y certificacion nZEB',
     nzeb: 'La normativa nZEB en Rumania exige un coeficiente de transmitancia termica maximo (Uw) de 1,1 W/m2K para edificios nuevos. Para valores Uw inferiores a 1,0 W/m2K se recomienda BluEvolution 92 con triple acristalamiento Low-E Saint-Gobain.',
     faq_h2: 'Preguntas frecuentes — Carpinteria PVC',
@@ -225,7 +225,7 @@ const UI = {
     glass_h2: 'Il vetro isolante — La scelta che conta di piu',
     glass: 'Il vetro rappresenta il 70-80% della superficie della finestra e ha il maggiore impatto sull\'isolamento termico. Neofort BIZ lavora esclusivamente con vetro Saint-Gobain SGG. Il doppio vetro Low-E e la soluzione standard per le ristrutturazioni. Il triplo vetro Low-E con argon e obbligatorio per la certificazione nZEB.',
     montaj_h2: 'Installazione professionale — La differenza tra buono ed eccellente',
-    montaj: 'Il miglior infisso in PVC installato male perde il 30-50% delle sue prestazioni termiche. Neofort BIZ applica lo standard RAL per l\'installazione dei serramenti: nastro in butile precompresso all\'esterno, film barriera vapore all\'interno e schiuma PU tra telaio e parete.',
+    montaj: 'Il miglior infisso in PVC installato male perde il 30-50% delle sue prestazioni termiche. Neofort BIZ applica lo standard RAL per l\'installazione dei serramenti: nastro in butile precompresso all\'esterno, film barriera vapore all\'interno e schiuma PU tra telaio e parete. Per i progetti nZEB, raccomandiamo i precornici Blaugelb Triotherm+ che eliminano il ponte termico al perimetro della finestra — disponibili come opzione separata su richiesta.',
     nzeb_h2: 'Infissi PVC e certificazione nZEB',
     nzeb: 'La normativa nZEB in Romania richiede un coefficiente di trasmittanza termica massimo (Uw) di 1,1 W/m2K per i nuovi edifici. Per valori Uw inferiori a 1,0 W/m2K si raccomanda BluEvolution 92 con triplo vetro Low-E Saint-Gobain.',
     faq_h2: 'Domande frequenti — Infissi PVC',
@@ -337,8 +337,8 @@ export async function generateMetadata({ params }) {
         'x-default': `${BASE}/ro/${SLUGS.ro}`,
       },
     },
-    openGraph: { type: 'article', url: canonical, title: ui.h1, description: ui.sub, siteName: 'Neofort BIZ', images: [{ url: `${BASE}/og/nZEB.jpg`, width: 1200, height: 630, type: 'image/avif' }] },
-    twitter: { card: 'summary_large_image', site: '@NeofortBIZ', title: ui.h1, description: ui.sub, images: [`${BASE}/og/nZEB.jpg`] },
+    openGraph: { type: 'article', url: canonical, title: ui.h1, description: ui.sub, siteName: 'Neofort BIZ', images: [{ url: `${BASE}/og/Sisteme_NZEB.avif`, width: 1200, height: 630, type: 'image/avif' }] },
+    twitter: { card: 'summary_large_image', site: '@NeofortBIZ', title: ui.h1, description: ui.sub, images: [`${BASE}/og/Sisteme_NZEB.avif`] },
   };
 }
 
@@ -438,7 +438,7 @@ export default async function NZEBGhidPage({ params }) {
               <div style={{ border: '1px solid #e8e8e4', padding: '20px', background: '#fafaf8', transition: 'border-color .2s', borderRadius: '2px' }}>
                 <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: '.85rem', letterSpacing: '.08em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '8px' }}>{sys.name}</div>
                 <div style={{ fontSize: '.78rem', color: '#2d7a4e', fontWeight: 600, marginBottom: '4px' }}>{sys.uw}</div>
-                <div style={{ fontSize: '.75rem', color: '#404040', marginBottom: '8px' }}>{sys.chambers}</div>
+                <div style={{ fontSize: '.75rem', color: '#888', marginBottom: '8px' }}>{sys.chambers}</div>
                 <div style={{ fontSize: '.78rem', color: '#4a4a4a', lineHeight: 1.5 }}>{sys.ideal}</div>
               </div>
             </Link>
@@ -486,7 +486,7 @@ export default async function NZEBGhidPage({ params }) {
           {ui.faq.map((item, i) => (
             <div key={i} style={{ borderBottom: '1px solid #eee', padding: '20px 0' }}>
               <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 600, fontSize: '.95rem', letterSpacing: '.05em', color: '#1a2a3a', marginBottom: '8px' }}>{item.q}</div>
-              <div style={{ fontSize: '.88rem', color: '#404040', lineHeight: 1.65 }}>{item.a}</div>
+              <div style={{ fontSize: '.88rem', color: '#5a5a5a', lineHeight: 1.65 }}>{item.a}</div>
             </div>
           ))}
         </div>
