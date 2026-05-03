@@ -265,16 +265,9 @@ export default async function DesprePage({ params }) {
             {TEAM_DESPRE.map((m,i)=>(
               <div key={i} style={{background:'#fff',border:'1px solid #e5e7eb',borderTop:`3px solid ${m.color}`,padding:'24px',display:'flex',flexDirection:'column',gap:'12px'}}>
                 <div style={{display:'flex',alignItems:'center',gap:'12px'}}>
-                  <img
-                    src={m.photo}
-                    alt={m.name}
-                    width={56}
-                    height={56}
-                    loading="lazy"
-                    style={{width:'56px',height:'56px',borderRadius:'50%',objectFit:'cover',border:`2px solid ${m.color}`}}
-                    onError={e=>{e.target.style.display='none';e.target.nextSibling.style.display='flex';}}
-                  />
-                  <div style={{display:'none',width:'56px',height:'56px',borderRadius:'50%',background:m.color,color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.1rem',alignItems:'center',justifyContent:'center',flexShrink:0}}>{m.initials}</div>
+                  <div style={{width:'56px',height:'56px',borderRadius:'50%',background:m.color,color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.1rem',display:'flex',alignItems:'center',justifyContent:'center',flexShrink:0,overflow:'hidden'}}>
+                    <img src={m.photo} alt={m.name} width={56} height={56} loading="lazy" style={{width:'56px',height:'56px',objectFit:'cover'}}/>
+                  </div>
                   <div>
                     <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'0.9rem',color:'#1a1a1a',lineHeight:1.2}}>{m.name}</div>
                     <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.72rem',color:m.color,letterSpacing:'0.08em',textTransform:'uppercase',marginTop:'2px'}}>{m.role[locale]||m.role.ro}</div>
