@@ -694,6 +694,22 @@ export const routing = defineRouting({
     es: '/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento',
     it: '/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro',
   },
+  '/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti': {
+    ro: '/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti',
+    en: '/blog/best-aluminium-doors-sector-1-bucharest',
+    de: '/blog/beste-aluminiumtueren-sektor-1-bukarest',
+    fr: '/blog/meilleures-portes-aluminium-secteur-1-bucarest',
+    es: '/blog/mejores-puertas-aluminio-sector-1-bucarest',
+    it: '/blog/migliori-porte-alluminio-settore-1-bucarest',
+  },
+  '/blog/cum-imbunatatesc-izolatie-termica-ferestre-bucuresti': {
+    ro: '/blog/cum-imbunatatesc-izolatie-termica-ferestre-bucuresti',
+    en: '/blog/how-to-improve-window-thermal-insulation-bucharest',
+    de: '/blog/wie-verbessere-ich-die-waermedaemmung-der-fenster-in-bukarest',
+    fr: '/blog/comment-ameliorer-isolation-thermique-fenetres-bucarest',
+    es: '/blog/como-mejorar-aislamiento-termico-ventanas-bucarest',
+    it: '/blog/come-migliorare-isolamento-termico-finestre-bucarest',
+  },
 
   // PILLAR PAGES
   }

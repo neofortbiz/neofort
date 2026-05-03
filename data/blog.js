@@ -4,6 +4,770 @@
 
 export const ARTICLES = [
 
+  // ─── ARTICOL: Uși aluminiu Sector 1 București ──────────────────────────────
+  {
+    slugs: {
+      ro: 'cele-mai-bune-usi-aluminiu-sector-1-bucuresti',
+      en: 'best-aluminium-doors-sector-1-bucharest',
+      de: 'beste-aluminiumtueren-sektor-1-bukarest',
+      fr: 'meilleures-portes-aluminium-secteur-1-bucarest',
+      es: 'mejores-puertas-aluminio-sector-1-bucarest',
+      it: 'migliori-porte-alluminio-settore-1-bucarest',
+    },
+    date: '2026-04-28',
+    author: 'Mihai Dănălache',
+    authorRole: {
+      ro: 'Consultant Tehnic Senior — 21 ani experiență',
+      en: 'Senior Technical Consultant — 21 years experience',
+      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
+      fr: "Consultant technique senior — 21 ans d'expérience",
+      es: 'Asesor técnico senior — 21 años de experiencia',
+      it: 'Consulente tecnico senior — 21 anni di esperienza',
+    },
+    authorPhoto: '/team/mihai-danalache.avif',
+    accentColor: '#1a4a8a',
+    image: {
+      ro: '/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti.avif',
+      en: '/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti.avif',
+      de: '/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti.avif',
+      fr: '/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti.avif',
+      es: '/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti.avif',
+      it: '/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a0e1a 0%,#1a2a4a 60%,#0a0e1a 100%)',
+    imageLabel: 'Ușă aluminiu Alumil Sector 1 București — sistem termoizolant cu rupere de punte termică',
+    readTime: { ro:'10 min citire', en:'10 min read', de:'10 Min.', fr:'10 min', es:'10 min', it:'10 min' },
+    category: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
+    title: {
+      ro: 'Cele mai bune uși din aluminiu în Sector 1 București — Ghid complet 2026',
+      en: 'Best Aluminium Doors in Sector 1 Bucharest — Complete Guide 2026',
+      de: 'Beste Aluminiumtüren in Sektor 1 Bukarest — Vollständiger Ratgeber 2026',
+      fr: 'Meilleures portes en aluminium dans le Secteur 1 Bucarest — Guide complet 2026',
+      es: 'Mejores puertas de aluminio en el Sector 1 Bucarest — Guía completa 2026',
+      it: 'Migliori porte in alluminio nel Settore 1 Bucarest — Guida completa 2026',
+    },
+    metaDesc: {
+      ro: 'Uși aluminiu Sector 1 București 2026 — sisteme Alumil S77 Supreme și SF85, rupere de punte termică 34mm, geam triplu, antiefracție RC2/RC3. Prețuri, furnizori și cum alegi corect.',
+      en: 'Aluminium doors Sector 1 Bucharest 2026 — Alumil S77 Supreme and SF85 systems, 34mm thermal break, triple glazing, RC2/RC3 burglar resistance. Prices, suppliers and how to choose correctly.',
+      de: 'Aluminiumtüren Sektor 1 Bukarest 2026 — Alumil S77 Supreme und SF85 Systeme, 34mm Wärmedämmbrücke, Dreifachverglasung, RC2/RC3 Einbruchhemmung. Preise, Anbieter und die richtige Wahl.',
+      fr: 'Portes aluminium Secteur 1 Bucarest 2026 — systèmes Alumil S77 Supreme et SF85, rupture de pont thermique 34mm, triple vitrage, antieffraction RC2/RC3. Prix, fournisseurs et comment bien choisir.',
+      es: 'Puertas aluminio Sector 1 Bucarest 2026 — sistemas Alumil S77 Supreme y SF85, rotura de puente térmico 34mm, triple acristalamiento, antiefracción RC2/RC3. Precios, proveedores y cómo elegir.',
+      it: 'Porte alluminio Settore 1 Bucarest 2026 — sistemi Alumil S77 Supreme e SF85, taglio termico 34mm, triplo vetro, antieffrazione RC2/RC3. Prezzi, fornitori e come scegliere.',
+    },
+    excerpt: {
+      ro: 'Cauți uși din aluminiu în Sector 1 București? Ghid complet 2026: sisteme Alumil, rupere de punte termică, antiefracție RC2/RC3, prețuri reale și cum alegi un furnizor serios în zona Aviatorilor, Floreasca, Dorobanți.',
+      en: 'Looking for aluminium doors in Sector 1 Bucharest? Complete guide 2026: Alumil systems, thermal break, RC2/RC3 burglar resistance, real prices and how to choose a serious supplier in Aviatorilor, Floreasca, Dorobanți area.',
+      de: 'Suchen Sie Aluminiumtüren in Sektor 1 Bukarest? Vollständiger Ratgeber 2026: Alumil-Systeme, Wärmedämmbrücke, RC2/RC3-Einbruchhemmung, reale Preise und Tipps zur Wahl eines seriösen Anbieters.',
+      fr: 'Vous cherchez des portes en aluminium dans le Secteur 1 de Bucarest ? Guide complet 2026 : systèmes Alumil, rupture de pont thermique, antieffraction RC2/RC3, prix réels et comment choisir un fournisseur sérieux.',
+      es: '¿Busca puertas de aluminio en el Sector 1 de Bucarest? Guía completa 2026: sistemas Alumil, rotura de puente térmico, antiefracción RC2/RC3, precios reales y cómo elegir un proveedor serio.',
+      it: 'Cerchi porte in alluminio nel Settore 1 di Bucarest? Guida completa 2026: sistemi Alumil, taglio termico, antieffrazione RC2/RC3, prezzi reali e come scegliere un fornitore serio.',
+    },
+    keywords: 'usi aluminiu sector 1 Bucuresti, usi aluminiu Alumil Bucuresti, usi aluminiu termopan pret, usi aluminiu antiefractie Bucuresti, tamplarie aluminiu sector 1, usi aluminiu Aviatorilor Floreasca Dorobanti, montaj usi aluminiu Bucuresti',
+    dateDisplay: {
+      ro: '28 apr 2026', en: 'Apr 28 2026', de: '28. Apr. 2026',
+      fr: '28 avr. 2026', es: '28 abr 2026', it: '28 apr 2026',
+    },
+    content: {
+      ro: `## De ce Sector 1 București are cerințe speciale pentru uși din aluminiu
+
+Sectorul 1 al Bucureștiului — zona Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Ștefan cel Mare — concentrează un număr ridicat de vile, clădiri de birouri premium și ansambluri rezidențiale noi cu standarde arhitecturale înalte. Aceasta înseamnă că cerințele pentru uși din aluminiu sunt semnificativ mai exigente decât media pieței: finisaje premium, sisteme cu rupere de punte termică, rezistență antiefracție certificată și integrare estetică perfectă cu fațada.
+
+În același timp, prețurile din Sector 1 reflectă această cerere — o ușă de aluminiu entry-level nu este acceptată vizual în zonele premium. Ghidul de față îți explică exact ce sisteme există, cum se diferențiază și ce prețuri să aștepți în 2026.
+
+## Ce tipuri de uși din aluminiu există pentru Sector 1
+
+### 1. Uși de intrare rezidențiale cu panou plin și geam lateral
+
+Modelul din imaginea de mai sus este reprezentativ pentru această categorie: profil aluminiu vopsit în câmp electrostatic (RAL 7016 antracit în cazul de față), panou plin termoizolant 44mm și bandă laterală vitrată. Sistemul Alumil SF85 Supreme este soluția Neofort BIZ pentru această aplicație:
+
+- **Adâncime profil:** 85 mm
+- **Rupere de punte termică:** poliamidă 34 mm
+- **Uf profil:** 1,3 W/(m²K)
+- **Panou termoizolant:** 44 mm, cu miez de spumă PU de înaltă densitate
+- **Rezistență antiefracție:** RC2 standard (RC3 disponibil la cerere)
+- **Geam lateral:** triplu termoizolant, Ug = 0,5 W/(m²K)
+
+### 2. Uși de intrare cu vitrare integrală
+
+Varianta cu vitrare completă sau semi-vitrată — adesea utilizată la intrările în blocuri premium și birouri din Sector 1. Sistemul Alumil S77 Supreme oferă:
+
+- **Adâncime:** 77 mm
+- **Rupere de punte termică:** 34 mm poliamidă
+- **Geam triplu Saint-Gobain SGG:** Ug = 0,5 W/(m²K), Low-E, argon
+- **Izolare fonică:** Rw = 38-42 dB (ideal pentru zonele circulate din Floreasca/Aviatorilor)
+- **Dimensiuni maxime canat:** 1200 × 2800 mm
+
+### 3. Uși de acces comune pentru blocuri și ansambluri rezidențiale
+
+Pentru intrările în scările de bloc sau ansambluri rezidențiale din Sector 1, cerințele sunt orientate spre durabilitate, securitate și integrare cu sistemul de interfon/control acces. Alumil M19800 Smartia oferă:
+
+- Compatibilitate cu sisteme de control acces (cititor card, cod PIN, videointerfon)
+- Mecanism de închidere automată cu amortizor hidraulic
+- Rezistență antiefracție RC2 certificată
+
+## Ce înseamnă ruperea de punte termică și de ce contează în Sector 1
+
+Clădirile din Sector 1 — în special vilele construite sau renovate post-2010 — au sisteme de izolație termică performante. O ușă din aluminiu fără rupere de punte termică ar genera o punte termică vizibilă: condens pe profilul interior în sezonul rece, pierderi de căldură și posibilă degradare a finisajelor interioare premium.
+
+Ruperea de punte termică prin inserție de poliamidă de 34 mm (standard Alumil) separă fizic profilul exterior (rece) de cel interior (cald), reducând transferul termic de la λ = 160 W/mK (aluminiu pur) la λ ≈ 0,3 W/mK (poliamidă). Rezultatul practic: nicio picătură de condens pe tocul ușii, chiar la −15°C afară.
+
+## Antiefracție RC2 și RC3 — ce înseamnă și când e necesar
+
+**RC2 (Resistance Class 2)** — rezistă la tentative de efracție cu unelte simple (șurubelnițe, cozi de ranga) timp de 3 minute. Cerința minimă pentru locuințele din zonele rezidențiale premium.
+
+**RC3** — rezistă 5 minute cu unelte specializate (electrice). Recomandat pentru vile izolate, parteruri sau intrări cu acces direct din stradă în Sector 1.
+
+Diferența de preț între RC2 și RC3 este de 15-25% din valoarea ușii — nu semnificativă raportat la securitatea adăugată.
+
+## Prețuri uși aluminiu Sector 1 București 2026
+
+| Tip ușă | Sistem | Preț orientativ (inclusiv montaj) |
+|---|---|---|
+| Intrare rezidențială panou plin (90×210 cm) | Alumil SF85 RC2 | 2.800–4.200 lei |
+| Intrare rezidențială semi-vitrată (100×220 cm) | Alumil S77 RC2 | 3.200–5.000 lei |
+| Intrare bloc/ansamblu cu control acces | Alumil M19800 RC2 | 4.500–7.000 lei |
+| Ușă premium cu vitrare integrală RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | 5.500–9.000 lei |
+
+*Prețuri orientative 2026, fără TVA. Prețul final depinde de dimensiuni exacte, culoare RAL, accesorii și tipul de mecanism.*
+
+## Cum alegi furnizorul potrivit în Sector 1
+
+✅ Vine pentru **măsurători la fața locului** și analizează golul și structura existentă\
+✅ Oferă **mostre fizice** ale profilului și probă de culoare RAL înainte de comandă\
+✅ Are **certificate de produs** — declarație de performanță CE pentru sistemul Alumil\
+✅ Garanție **minimum 5 ani** pe produs și 2 ani pe montaj\
+✅ Execută montajul cu **benzi precomprimate** la exterior, nu doar cu silicon\
+✅ Poate livra și instala **în 10-15 zile lucrătoare** (standard pentru producție pe comandă)
+
+## Zone Sector 1 deservite de Neofort BIZ
+
+Neofort BIZ livrează și montează uși din aluminiu Alumil în toată zona Sectorului 1: **Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Băneasa, Ștefan cel Mare, Titulescu, Pajura, Colentina (limita Sector 1)** și în Ilfov adiacent: Voluntari, Tunari, Pipera, Otopeni.
+
+---
+
+**Articole conexe:**
+- [Tâmplărie aluminiu Alumil — sisteme Supreme și Smartia](/ro/tamplarie-aluminiu)
+- [Sistem complet nZEB: Salamander + Blaugelb + geam triplu](/ro/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu)
+- [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026)
+
+Neofort BIZ — distribuitor autorizat Alumil în București și Ilfov. [Solicită ofertă ușă aluminiu](/ro/contact).`,
+
+      en: `## Why Sector 1 Bucharest Has Special Requirements for Aluminium Doors
+
+Sector 1 of Bucharest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Ștefan cel Mare — concentrates a large number of villas, premium office buildings and new residential developments with high architectural standards. This means requirements for aluminium doors are significantly more demanding than the market average: premium finishes, thermal break systems, certified burglar resistance and perfect aesthetic integration with the facade.
+
+## Types of Aluminium Doors Available for Sector 1
+
+### 1. Residential Entrance Doors with Solid Panel and Side Glass
+
+The Alumil SF85 Supreme system for this application:
+- **Profile depth:** 85 mm — **Thermal break:** 34 mm polyamide
+- **Profile Uf:** 1.3 W/(m²K) — **Insulating panel:** 44 mm high-density PU foam
+- **Burglar resistance:** RC2 standard (RC3 available on request)
+- **Side glazing:** triple insulating, Ug = 0.5 W/(m²K)
+
+### 2. Fully Glazed Entrance Doors
+
+Alumil S77 Supreme: 77 mm depth, 34 mm thermal break, Saint-Gobain SGG triple glazing (Ug = 0.5), acoustic attenuation Rw = 38-42 dB — ideal for high-traffic areas in Floreasca/Aviatorilor.
+
+### 3. Common Access Doors for Residential Blocks
+
+Alumil M19800 Smartia: compatible with access control systems (card reader, PIN, video intercom), hydraulic automatic closing mechanism, RC2 certified burglar resistance.
+
+## What Thermal Break Means and Why It Matters
+
+Buildings in Sector 1 — especially villas built or renovated post-2010 — have high-performance thermal insulation systems. An aluminium door without thermal break would create a visible thermal bridge: condensation on the inner profile in cold season. The 34 mm polyamide thermal break reduces heat transfer from λ = 160 W/mK (pure aluminium) to λ ≈ 0.3 W/mK (polyamide).
+
+## RC2 and RC3 Burglar Resistance
+
+**RC2** — resists burglary attempts with basic tools (screwdrivers, crowbars) for 3 minutes. Minimum requirement for premium residential areas.
+**RC3** — resists 5 minutes with specialised (electric) tools. Recommended for isolated villas, ground floors or street-facing entrances in Sector 1.
+
+## Aluminium Door Prices Sector 1 Bucharest 2026
+
+| Door type | System | Indicative price (incl. installation) |
+|---|---|---|
+| Residential solid panel (90×210 cm) | Alumil SF85 RC2 | €560–840 |
+| Semi-glazed residential (100×220 cm) | Alumil S77 RC2 | €640–1,000 |
+| Block/complex entry with access control | Alumil M19800 RC2 | €900–1,400 |
+| Premium fully glazed RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | €1,100–1,800 |
+
+*Indicative prices 2026, VAT excluded. Final price depends on exact dimensions, RAL colour, accessories and mechanism type.*
+
+---
+
+**Related articles:**
+- [Alumil Aluminium Windows — Supreme and Smartia Systems](/en/aluminium-windows)
+- [Complete nZEB System: Salamander + Blaugelb + Triple Glazing](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing)
+- [Salamander Window Prices Bucharest 2026](/en/blog/salamander-window-prices-bucharest-2026)
+
+Neofort BIZ — authorised Alumil distributor in Bucharest and Ilfov. [Request aluminium door quote](/en/contact).`,
+
+      de: `## Warum Sektor 1 Bukarest besondere Anforderungen an Aluminiumtüren stellt
+
+Sektor 1 Bukarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău — konzentriert zahlreiche Villen, Premium-Bürogebäude und neue Wohnanlagen mit hohen Architekturstandards. Anforderungen an Aluminiumtüren sind deutlich höher als der Marktdurchschnitt: Premium-Oberflächen, Wärmedämmbrücken-Systeme, zertifizierter Einbruchschutz und perfekte ästhetische Integration.
+
+## Arten von Aluminiumtüren für Sektor 1
+
+### 1. Wohnhauseingangstüren mit Vollpanel und Seitenverglasung
+Alumil SF85 Supreme: 85 mm Tiefe, 34 mm Polyamid-Wärmedämmbrücke, Uf = 1,3 W/(m²K), 44 mm PU-Dämmplatte, RC2 Einbruchhemmung, Dreifachverglasung Ug = 0,5 W/(m²K).
+
+### 2. Vollverglaste Eingangstüren
+Alumil S77 Supreme: 77 mm, 34 mm Wärmedämmbrücke, Saint-Gobain SGG Dreifachverglasung, Schallschutz Rw = 38-42 dB.
+
+### 3. Gemeinschaftszugangstüren für Wohnanlagen
+Alumil M19800 Smartia: kompatibel mit Zugangskontrollsystemen, hydraulischem Türschließer, RC2-zertifiziert.
+
+## Was Wärmedämmbrücke bedeutet und warum sie wichtig ist
+
+Gebäude in Sektor 1 mit hochwertiger Wärmedämmung benötigen Türen mit Wärmedämmbrücke, um Kondensat am Innenrahmen zu vermeiden. Die 34-mm-Polyamid-Einlage reduziert den Wärmedurchgang von λ = 160 W/mK (Aluminium) auf λ ≈ 0,3 W/mK (Polyamid).
+
+## RC2 und RC3 Einbruchhemmung
+
+**RC2:** Widersteht 3 Minuten gegen einfache Werkzeuge — Mindestanforderung für Premium-Wohngebiete. **RC3:** 5 Minuten gegen spezialisierte Werkzeuge — empfohlen für freistehende Villen und Erdgeschosse in Sektor 1.
+
+## Preise Aluminiumtüren Sektor 1 Bukarest 2026
+
+| Türtyp | System | Richtpreis (inkl. Montage) |
+|---|---|---|
+| Wohnhaus Vollpanel (90×210 cm) | Alumil SF85 RC2 | 560–840 € |
+| Halb verglast (100×220 cm) | Alumil S77 RC2 | 640–1.000 € |
+| Wohnanlage mit Zugangskontrolle | Alumil M19800 RC2 | 900–1.400 € |
+| Premium vollverglast RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | 1.100–1.800 € |
+
+---
+
+**Verwandte Artikel:**
+- [Alumil Aluminiumfenster — Supreme und Smartia Systeme](/de/aluminiumfenster)
+- [Komplettes nZEB-System: Salamander + Blaugelb + Dreifachverglasung](/de/blog/komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung)
+- [Salamander-Fensterpreise Bukarest 2026](/de/blog/salamander-fenster-preise-bukarest-2026)
+
+Neofort BIZ — autorisierter Alumil-Händler in Bukarest und Ilfov. [Angebot Aluminiumtür anfordern](/de/kontakt).`,
+
+      fr: `## Pourquoi le Secteur 1 de Bucarest a des exigences particulières pour les portes en aluminium
+
+Le Secteur 1 de Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău — concentre de nombreuses villas, immeubles de bureaux premium et nouvelles résidences aux standards architecturaux élevés. Les exigences pour les portes en aluminium dépassent largement la moyenne du marché : finitions premium, systèmes à rupture de pont thermique, résistance antieffraction certifiée et intégration esthétique parfaite avec la façade.
+
+## Types de portes en aluminium pour le Secteur 1
+
+### 1. Portes d'entrée résidentielles avec panneau plein et vitrage latéral
+Alumil SF85 Supreme : profondeur 85 mm, rupture thermique polyamide 34 mm, Uf = 1,3 W/(m²K), panneau isolant 44 mm en mousse PU haute densité, antieffraction RC2 standard, triple vitrage Ug = 0,5 W/(m²K).
+
+### 2. Portes d'entrée entièrement vitrées
+Alumil S77 Supreme : 77 mm, rupture thermique 34 mm, triple vitrage Saint-Gobain SGG, isolation acoustique Rw = 38-42 dB.
+
+### 3. Portes d'accès communes pour résidences
+Alumil M19800 Smartia : compatible contrôle d'accès, ferme-porte hydraulique automatique, RC2 certifié.
+
+## Ce que signifie la rupture de pont thermique
+
+Les bâtiments du Secteur 1 avec isolation performante nécessitent des portes à rupture de pont thermique pour éviter la condensation sur le profil intérieur. L'insert polyamide 34 mm réduit le transfert thermique de λ = 160 W/mK (aluminium pur) à λ ≈ 0,3 W/mK.
+
+## RC2 et RC3 — antieffraction
+
+**RC2 :** résiste 3 minutes aux outils basiques — exigence minimale pour les zones résidentielles premium. **RC3 :** 5 minutes avec outils spécialisés — recommandé pour les villas isolées et rez-de-chaussée sur rue dans le Secteur 1.
+
+## Prix portes aluminium Secteur 1 Bucarest 2026
+
+| Type de porte | Système | Prix indicatif (pose incluse) |
+|---|---|---|
+| Résidentielle panneau plein (90×210 cm) | Alumil SF85 RC2 | 560–840 € |
+| Semi-vitrée (100×220 cm) | Alumil S77 RC2 | 640–1 000 € |
+| Résidence avec contrôle d'accès | Alumil M19800 RC2 | 900–1 400 € |
+| Premium entièrement vitrée RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | 1 100–1 800 € |
+
+---
+
+**Articles connexes :**
+- [Menuiserie aluminium Alumil — systèmes Supreme et Smartia](/fr/menuiserie-aluminiu)
+- [Système nZEB complet : Salamander + Blaugelb + triple vitrage](/fr/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage)
+- [Prix fenêtres Salamander Bucarest 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026)
+
+Neofort BIZ — distributeur agréé Alumil à Bucarest et Ilfov. [Demander un devis porte aluminium](/fr/contact).`,
+
+      es: `## Por qué el Sector 1 de Bucarest tiene requisitos especiales para puertas de aluminio
+
+El Sector 1 de Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău — concentra numerosas villas, edificios de oficinas premium y nuevas urbanizaciones con altos estándares arquitectónicos. Los requisitos para puertas de aluminio superan ampliamente la media del mercado: acabados premium, sistemas de rotura de puente térmico, resistencia antiefracción certificada e integración estética perfecta con la fachada.
+
+## Tipos de puertas de aluminio para el Sector 1
+
+### 1. Puertas de entrada residenciales con panel macizo y acristalamiento lateral
+Alumil SF85 Supreme: profundidad 85 mm, rotura térmica poliamida 34 mm, Uf = 1,3 W/(m²K), panel aislante 44 mm de espuma PU alta densidad, antiefracción RC2 estándar, triple acristalamiento Ug = 0,5 W/(m²K).
+
+### 2. Puertas de entrada totalmente acristaladas
+Alumil S77 Supreme: 77 mm, rotura térmica 34 mm, triple acristalamiento Saint-Gobain SGG, aislamiento acústico Rw = 38-42 dB.
+
+### 3. Puertas de acceso comunes para urbanizaciones
+Alumil M19800 Smartia: compatible con control de acceso, cierre automático hidráulico, RC2 certificado.
+
+## Qué significa la rotura de puente térmico
+
+Los edificios del Sector 1 con aislamiento de alto rendimiento necesitan puertas con rotura de puente térmico para evitar condensación en el perfil interior. El inserto de poliamida 34 mm reduce la transmisión térmica de λ = 160 W/mK (aluminio puro) a λ ≈ 0,3 W/mK.
+
+## RC2 y RC3 — antiefracción
+
+**RC2:** resiste 3 minutos con herramientas básicas — requisito mínimo para zonas residenciales premium. **RC3:** 5 minutos con herramientas especializadas — recomendado para villas aisladas y plantas bajas en el Sector 1.
+
+## Precios puertas aluminio Sector 1 Bucarest 2026
+
+| Tipo de puerta | Sistema | Precio orientativo (instalación incluida) |
+|---|---|---|
+| Residencial panel macizo (90×210 cm) | Alumil SF85 RC2 | 560–840 € |
+| Semi-acristalada (100×220 cm) | Alumil S77 RC2 | 640–1.000 € |
+| Urbanización con control de acceso | Alumil M19800 RC2 | 900–1.400 € |
+| Premium totalmente acristalada RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | 1.100–1.800 € |
+
+---
+
+**Artículos relacionados:**
+- [Carpintería aluminio Alumil — sistemas Supreme y Smartia](/es/carpinteria-aluminio)
+- [Sistema nZEB completo: Salamander + Blaugelb + triple acristalamiento](/es/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento)
+- [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)
+
+Neofort BIZ — distribuidor autorizado Alumil en Bucarest e Ilfov. [Solicitar presupuesto puerta aluminio](/es/contact).`,
+
+      it: `## Perché il Settore 1 di Bucarest ha requisiti speciali per le porte in alluminio
+
+Il Settore 1 di Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău — concentra numerose ville, edifici per uffici premium e nuovi complessi residenziali con elevati standard architettonici. I requisiti per le porte in alluminio superano ampiamente la media del mercato: finiture premium, sistemi con taglio termico, resistenza antieffrazione certificata e perfetta integrazione estetica con la facciata.
+
+## Tipi di porte in alluminio per il Settore 1
+
+### 1. Porte d'ingresso residenziali con pannello pieno e vetro laterale
+Alumil SF85 Supreme: profondità 85 mm, taglio termico poliammide 34 mm, Uf = 1,3 W/(m²K), pannello isolante 44 mm in schiuma PU ad alta densità, antieffrazione RC2 standard, triplo vetro Ug = 0,5 W/(m²K).
+
+### 2. Porte d'ingresso completamente vetrate
+Alumil S77 Supreme: 77 mm, taglio termico 34 mm, triplo vetro Saint-Gobain SGG, isolamento acustico Rw = 38-42 dB.
+
+### 3. Porte di accesso comuni per complessi residenziali
+Alumil M19800 Smartia: compatibile con sistemi di controllo accessi, chiudiporta idraulico automatico, RC2 certificato.
+
+## Cosa significa il taglio termico e perché è importante
+
+Gli edifici del Settore 1 con isolamento termico ad alte prestazioni necessitano porte con taglio termico per evitare condensa sul profilo interno. L'inserto in poliammide da 34 mm riduce il trasferimento termico da λ = 160 W/mK (alluminio puro) a λ ≈ 0,3 W/mK.
+
+## RC2 e RC3 — antieffrazione
+
+**RC2:** resiste 3 minuti con strumenti di base — requisito minimo per zone residenziali premium. **RC3:** 5 minuti con strumenti specializzati — consigliato per ville isolate e piani terra su strada nel Settore 1.
+
+## Prezzi porte alluminio Settore 1 Bucarest 2026
+
+| Tipo porta | Sistema | Prezzo indicativo (installazione inclusa) |
+|---|---|---|
+| Residenziale pannello pieno (90×210 cm) | Alumil SF85 RC2 | 560–840 € |
+| Semi-vetrata (100×220 cm) | Alumil S77 RC2 | 640–1.000 € |
+| Complesso con controllo accessi | Alumil M19800 RC2 | 900–1.400 € |
+| Premium completamente vetrata RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | 1.100–1.800 € |
+
+---
+
+**Articoli correlati:**
+- [Infissi alluminio Alumil — sistemi Supreme e Smartia](/it/tamplarie-aluminiu)
+- [Sistema nZEB completo: Salamander + Blaugelb + triplo vetro](/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro)
+- [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)
+
+Neofort BIZ — distributore autorizzato Alumil a Bucarest e Ilfov. [Richiedi preventivo porta alluminio](/it/contact).`,
+    },
+  },
+
+  // ─── ARTICOL: Îmbunătățire izolație termică ferestre București ──────────────
+  {
+    slugs: {
+      ro: 'cum-imbunatatesc-izolatie-termica-ferestre-bucuresti',
+      en: 'how-to-improve-window-thermal-insulation-bucharest',
+      de: 'wie-verbessere-ich-die-waermedaemmung-der-fenster-in-bukarest',
+      fr: 'comment-ameliorer-isolation-thermique-fenetres-bucarest',
+      es: 'como-mejorar-aislamiento-termico-ventanas-bucarest',
+      it: 'come-migliorare-isolamento-termico-finestre-bucarest',
+    },
+    date: '2026-05-03',
+    author: 'Mihai Dănălache',
+    authorRole: {
+      ro: 'Consultant Tehnic Senior — 21 ani experiență',
+      en: 'Senior Technical Consultant — 21 years experience',
+      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
+      fr: "Consultant technique senior — 21 ans d'expérience",
+      es: 'Asesor técnico senior — 21 años de experiencia',
+      it: 'Consulente tecnico senior — 21 anni di esperienza',
+    },
+    authorPhoto: '/team/mihai-danalache.avif',
+    accentColor: '#2d6a4f',
+    image: {
+      ro: '/blog/imbunatatire-izolatie-termica-ferestre-bucuresti.avif',
+      en: '/blog/imbunatatire-izolatie-termica-ferestre-bucuresti.avif',
+      de: '/blog/imbunatatire-izolatie-termica-ferestre-bucuresti.avif',
+      fr: '/blog/imbunatatire-izolatie-termica-ferestre-bucuresti.avif',
+      es: '/blog/imbunatatire-izolatie-termica-ferestre-bucuresti.avif',
+      it: '/blog/imbunatatire-izolatie-termica-ferestre-bucuresti.avif',
+    },
+    imageBg: 'linear-gradient(135deg,#0a1a0e 0%,#1a3a22 60%,#0a1a0e 100%)',
+    imageLabel: 'Secțiune transversală profil fereastră cu geam termoizolator dublu — izolație termică București',
+    readTime: { ro:'11 min citire', en:'11 min read', de:'11 Min.', fr:'11 min', es:'11 min', it:'11 min' },
+    category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Ratgeber', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
+    title: {
+      ro: 'Cum pot îmbunătăți izolația termică a ferestrelor în București? Ghid complet 2026',
+      en: 'How Can I Improve Window Thermal Insulation in Bucharest? Complete Guide 2026',
+      de: 'Wie kann ich die Wärmedämmung der Fenster in Bukarest verbessern? Vollständiger Ratgeber 2026',
+      fr: "Comment améliorer l'isolation thermique des fenêtres à Bucarest ? Guide complet 2026",
+      es: '¿Cómo puedo mejorar el aislamiento térmico de las ventanas en Bucarest? Guía completa 2026',
+      it: `Come posso migliorare l'isolamento termico delle finestre a Bucarest? Guida completa 2026`,
+    },
+    metaDesc: {
+      ro: 'Izolație termică ferestre București 2026 — cum îmbunătățești fără să schimbi tâmplăria, când e mai rentabilă înlocuirea, Uw real, geam triplu vs dublu, benzi, precadre. Soluții practice și prețuri.',
+      en: 'Window thermal insulation Bucharest 2026 — how to improve without replacing joinery, when replacement is more cost-effective, real Uw, triple vs double glazing, bands, preframes. Practical solutions and prices.',
+      de: 'Wärmedämmung Fenster Bukarest 2026 — wie man ohne Austausch verbessert, wann Ersatz rentabler ist, realer Uw-Wert, Dreifach- vs. Zweifachverglasung, Bänder, Vorblendrahmen. Praktische Lösungen und Preise.',
+      fr: "Isolation thermique fenêtres Bucarest 2026 — comment améliorer sans remplacer la menuiserie, quand le remplacement est plus rentable, Uw réel, triple vs double vitrage, bandes, précadres. Solutions pratiques et prix.",
+      es: 'Aislamiento térmico ventanas Bucarest 2026 — cómo mejorar sin cambiar la carpintería, cuándo es más rentable la sustitución, Uw real, triple vs doble acristalamiento, bandas, premarcos. Soluciones prácticas y precios.',
+      it: "Isolamento termico finestre Bucarest 2026 — come migliorare senza sostituire gli infissi, quando la sostituzione è più conveniente, Uw reale, triplo vs doppio vetro, nastri, precornici. Soluzioni pratiche e prezzi.",
+    },
+    excerpt: {
+      ro: 'Simți că pierzi căldura prin ferestre în București? Ghid complet 2026: cum îmbunătățești izolația ferestrelor existente fără înlocuire, când e mai rentabilă schimbarea completă și ce diferență face geamul triplu față de dublu.',
+      en: 'Feeling heat loss through your windows in Bucharest? Complete guide 2026: how to improve thermal insulation of existing windows without replacement, when complete replacement is more cost-effective and what difference triple glazing makes.',
+      de: 'Spüren Sie Wärmeverluste durch Ihre Fenster in Bukarest? Vollständiger Ratgeber 2026: wie Sie die Wärmedämmung vorhandener Fenster ohne Austausch verbessern, wann ein Kompletttausch rentabler ist und welchen Unterschied Dreifachverglasung macht.',
+      fr: "Vous sentez de la chaleur s'échapper par vos fenêtres à Bucarest ? Guide complet 2026 : comment améliorer l'isolation thermique des fenêtres existantes sans remplacement, quand le remplacement complet est plus rentable et quelle différence fait le triple vitrage.",
+      es: '¿Siente pérdida de calor por sus ventanas en Bucarest? Guía completa 2026: cómo mejorar el aislamiento térmico de las ventanas existentes sin sustitución, cuándo es más rentable el cambio completo y qué diferencia hace el triple acristalamiento.',
+      it: `Sente dispersione di calore attraverso le finestre a Bucarest? Guida completa 2026: come migliorare l'isolamento termico delle finestre esistenti senza sostituzione, quando la sostituzione completa è più conveniente e che differenza fa il triplo vetro.`,
+    },
+    keywords: 'izolatie termica ferestre Bucuresti, imbunatatire izolatie ferestre, geam triplu vs dublu Bucuresti, ferestre termopan izolatie, schimb ferestre Bucuresti pret, izolatie fereastra fara schimbare, condens fereastra Bucuresti, Uw ferestre nZEB',
+    dateDisplay: {
+      ro: '3 mai 2026', en: 'May 3 2026', de: '3. Mai 2026',
+      fr: '3 mai 2026', es: '3 may 2026', it: '3 mag 2026',
+    },
+    content: {
+      ro: `## De ce ferestrele sunt principala sursă de pierderi termice în locuințele din București
+
+Imaginea de mai sus arată secțiunea transversală a unui profil de fereastră modern cu geam dublu termoizolant. Distanțierul metalic dintre cele două foi de sticlă și spațiul puternic vizibil dintre profil și zidărie sunt exact locurile unde se produc cele mai mari pierderi termice — și aceste pierderi sunt recuperabile fără neapărat a înlocui toată tâmplăria.
+
+Studiile de eficiență energetică realizate pe fondul locativ din București arată că **ferestrele sunt responsabile de 25-40% din pierderile de căldură** ale unui apartament tipic. Facturile la încălzire din sezonul rece 2024-2025 au crescut cu 30-45% față de 2022 — ceea ce face rentabilitatea unei investiții în izolația termică a ferestrelor mai clară ca oricând.
+
+## Diagnosticul: cum știi că ferestrele pierd căldură
+
+Înainte să cheltuiești bani, verifică aceste semne:
+
+**Condens pe suprafața interioară a geamului** — cel mai clar semn. Dacă apare pe zona centrală a geamului (nu pe margine), înseamnă că Ug-ul pachetului de sticlă este ridicat (geam dublu vechi cu Ug = 1,1-1,6 W/(m²K)). Dacă apare pe marginea geamului, problema este distanțierul (soluție: înlocuire distanțier cu Warm Edge).
+
+**Curent de aer rece lângă fereastră** — etanșeitate slabă a garniturilor sau montaj defectuos. Soluție posibilă fără înlocuire totală: reglaj feronerie + înlocuire garnituri.
+
+**Toc rece la atingere** — punte termică la montaj. Dacă tocul e semnificativ mai rece decât peretele, problema nu e profilul, ci montajul.
+
+**Factură de gaz/curent cu 30%+ mai mare iarna** față de o locuință similară — calcul Uw real necesar.
+
+## Opțiunea 1 — Îmbunătățire fără înlocuire (cost mic, efect limitat)
+
+### a) Înlocuirea garniturilor EPDM
+Garniturile de etanșare se degradează în 8-12 ani. Înlocuirea lor costă 30-80 lei per fereastră și reduce infiltrațiile de aer cu 60-70%. Efect vizibil imediat: dispare curentul rece de lângă geam.
+
+### b) Reglarea feronieriei
+Feroneria Roto/Winkhaus nereglată corect lasă canatul să nu preseze uniform pe garnitură. Reglaj pe 3 axe costă 50-100 lei per fereastră și poate elimina infiltrațiile de aer fără înlocuire.
+
+### c) Aplicarea foliei Low-E pe geamul existent
+Folii low-emisivitate autoadezive (ex. 3M Thinsulate) aplicate pe suprafața interioară a geamului existent reduc Ug cu 0,2-0,4 W/(m²K). Cost: 80-150 lei/m². Dezavantaj: nu rezolvă condensul marginal și nu îmbunătățesc izolarea fonică.
+
+### d) Siliconare perimetrală exterioară
+Dacă siliconul exterior e crăpat sau lipsă, infiltrațiile de apă și aer sunt semnificative. Resiliconare cu silicon neutru UV-rezistent: 40-80 lei per fereastră.
+
+**Concluzie opțiunea 1:** Eficientă dacă fereastra are profil bun (6 camere, 82-92 mm) dar garnituri uzate sau feronerie nereglată. Nu rezolvă problemele de performanță termică ale geamului propriu-zis.
+
+## Opțiunea 2 — Înlocuirea pachetului de sticlă (cost mediu, efect semnificativ)
+
+Dacă profilul e în stare bună (PVC fără deformare, fără fisuri) dar geamul e dublu vechi (Ug = 1,0-1,6 W/(m²K)), înlocuirea doar a pachetului de sticlă este cel mai bun raport cost/beneficiu:
+
+- **Geam dublu standard → geam triplu cu argon și Low-E:** Ug scade de la 1,0 la 0,5 W/(m²K) — reducere de 50%
+- **Cost înlocuire pachet sticlă:** 150-300 lei/m² (față de 400-700 lei/m² pentru fereastra completă)
+- **Condiție:** profilul trebuie să aibă adâncime min. 70 mm pentru a accepta tripanul de 44 mm
+
+**Important:** Distanțierul Warm Edge trebuie inclus la înlocuire — elimină condensul marginal și adaugă 0,1-0,15 W/(m²K) la performanța totală.
+
+## Opțiunea 3 — Înlocuirea completă a tâmplăriei (cost mare, efect maxim)
+
+Când profilul e mai vechi de 20 de ani, deformat, sau când vrei să atingi standardul nZEB (Uw ≤ 1,0 W/(m²K)), înlocuirea completă e singura soluție:
+
+| Situație actuală | Uw actual | Uw după înlocuire | Economie anuală* |
+|---|---|---|---|
+| Geam simplu, toc lemn | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 700–900 lei/an |
+| Geam dublu vechi (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 350–500 lei/an |
+| Geam dublu modern (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 120–200 lei/an |
+
+*Estimare pentru apartament 70 m², 8 ferestre standard, prețuri energie 2026.
+
+## Ce profil să alegi pentru București — recomandare practică
+
+Clima din București (zona climatică II conform NP 048/2000) impune ierni cu temperaturi minime de −15°C și veri caniculare cu +38°C. Profilul optim:
+
+- **Salamander bluEvolution 82** (6 camere, 82 mm) — raportul optim calitate/preț pentru renovări rezidențiale în București. Uw = 0,8-0,95 W/(m²K) cu tripan.
+- **Salamander bluEvolution 92** (6 camere, 92 mm) — pentru case noi sau proiecte nZEB. Uw = 0,66-0,80 W/(m²K) cu tripan Saint-Gobain și Warm Edge.
+
+## Montajul — de ce face diferența între 40% și 60% economie la energie
+
+Cel mai performant profil pierde 30-50% din eficiență dacă montajul e defectuos. Cele 3 zone de etanșare:
+
+1. **Exterior** — bandă precomprimată butilică (nu silicon): etanșare la apă și vânt, durabilitate 20+ ani
+2. **Mediană** — spumă PU semi-deschisă: izolație termică și fonică
+3. **Interior** — folie antivapori: previne condensul interstițial în structura peretelui
+
+Precadrele Blaugelb Triotherm+ sunt recomandate pentru proiectele nZEB — elimină puntea termică la glaf și pot fi solicitate ca opțiune separată.
+
+---
+
+**Articole conexe:**
+- [Care sunt opțiunile de izolație perimetrală pentru ferestre în România?](/ro/blog/optiuni-izolatie-perimetrala-ferestre-romania-2026)
+- [Unde pot comanda termopane cu izolație avansată în București?](/ro/blog/unde-comand-termopane-izolatie-avansata-bucuresti)
+- [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026)
+
+Neofort BIZ — specialist în izolație termică ferestre în București și Ilfov. [Solicită consultanță gratuită](/ro/contact).`,
+
+      en: `## Why Windows Are the Main Source of Heat Loss in Bucharest Homes
+
+The cross-section image above shows a modern window profile with double thermal insulating glazing. The metal spacer between the two glass panes and the visible gap between profile and masonry are exactly where the greatest heat losses occur — and these losses are recoverable without necessarily replacing all the joinery.
+
+Energy efficiency studies on Bucharest's housing stock show **windows account for 25-40% of heat losses** in a typical apartment. Heating bills in the 2024-2025 cold season rose 30-45% vs 2022 — making a window insulation investment more worthwhile than ever.
+
+## Diagnosis: How to Know Your Windows Are Losing Heat
+
+**Condensation on the interior glass surface** — the clearest sign. If it appears on the central zone (not the edge), Ug is high (old double glazing with Ug = 1.1-1.6). If it appears at the glass edge, the problem is the spacer (solution: replace with Warm Edge spacer).
+
+**Cold draught near the window** — poor gasket sealing or defective installation. Possible solution without full replacement: hardware adjustment + gasket replacement.
+
+**Cold frame to the touch** — thermal bridge at installation. If the frame is significantly colder than the wall, the problem is the installation, not the profile.
+
+## Option 1 — Improvement Without Replacement (low cost, limited effect)
+
+**a) EPDM gasket replacement:** Sealing gaskets degrade in 8-12 years. Replacement costs €6-16 per window and reduces air infiltration by 60-70%.
+
+**b) Hardware adjustment:** Incorrectly adjusted Roto/Winkhaus hardware leaves the sash not pressing uniformly on the gasket. 3-axis adjustment costs €10-20 per window.
+
+**c) Applying Low-E film to existing glazing:** Self-adhesive low-emissivity films (e.g. 3M Thinsulate) applied to the inner surface reduce Ug by 0.2-0.4 W/(m²K). Cost: €16-30/m². Disadvantage: does not resolve marginal condensation.
+
+**d) Exterior perimeter siliconing:** If exterior silicone is cracked or missing, reseal with UV-resistant neutral silicone: €8-16 per window.
+
+## Option 2 — Glazing Pack Replacement (medium cost, significant effect)
+
+If the profile is in good condition but the glazing is old double (Ug = 1.0-1.6), replacing only the glass pack offers the best cost/benefit ratio:
+
+- **Old double → triple glazing with argon and Low-E:** Ug drops from 1.0 to 0.5 W/(m²K) — 50% reduction
+- **Cost of glass pack replacement:** €30-60/m² (vs €80-140/m² for the complete window)
+- **Condition:** profile must be at least 70 mm deep to accept the 44 mm triple pack
+
+## Option 3 — Complete Window Replacement (high cost, maximum effect)
+
+When the profile is more than 20 years old, deformed, or you want to reach nZEB standard (Uw ≤ 1.0 W/(m²K)):
+
+| Current situation | Current Uw | After replacement | Annual saving* |
+|---|---|---|---|
+| Single glazing, timber frame | 4.5–5.0 W/(m²K) | 0.72 W/(m²K) | €140–180/year |
+| Old double glazing (1990-2005) | 2.2–2.8 W/(m²K) | 0.72 W/(m²K) | €70–100/year |
+| Modern double glazing (2010-2020) | 1.1–1.4 W/(m²K) | 0.72 W/(m²K) | €24–40/year |
+
+*Estimate for 70 m² apartment, 8 standard windows, 2026 energy prices.
+
+## Which Profile to Choose for Bucharest
+
+- **Salamander bluEvolution 82** (6 chambers, 82 mm) — optimal quality/price ratio for residential renovations in Bucharest. Uw = 0.8-0.95 W/(m²K) with triple glazing.
+- **Salamander bluEvolution 92** (6 chambers, 92 mm) — for new builds or nZEB projects. Uw = 0.66-0.80 W/(m²K) with Saint-Gobain triple glazing and Warm Edge.
+
+---
+
+**Related articles:**
+- [What Are the Perimeter Insulation Options for Windows in Romania?](/en/blog/perimeter-insulation-options-windows-romania-2026)
+- [Where to Order Windows with Advanced Insulation in Bucharest?](/en/blog/where-to-order-advanced-insulation-windows-bucharest)
+- [Salamander Window Prices Bucharest 2026](/en/blog/salamander-window-prices-bucharest-2026)
+
+Neofort BIZ — window thermal insulation specialist in Bucharest and Ilfov. [Request free consultation](/en/contact).`,
+
+      de: `## Warum Fenster die Hauptquelle von Wärmeverlusten in Bukarester Wohnungen sind
+
+Studien zur Energieeffizienz des Bukarester Wohnungsbestands zeigen: **Fenster sind für 25-40% der Wärmeverluste** einer typischen Wohnung verantwortlich. Heizkosten in der Kaltsaison 2024-2025 stiegen um 30-45% — eine Investition in Fensterdämmung war nie rentabler.
+
+## Diagnose: Wie erkennt man Wärmeverluste durch Fenster?
+
+**Kondensat auf der Innenglasseite** — deutlichstes Zeichen. Zentral = hoher Ug (alter Zweifachverglasung). Am Rand = Problem des Abstandhalters (Lösung: Warm-Edge ersetzen).
+
+**Kältezug am Fenster** — schlechte Dichtungen oder falsch eingestellte Beschläge.
+
+**Kalter Rahmen bei Berührung** — Wärmebrücke bei der Montage.
+
+## Option 1 — Verbesserung ohne Austausch (geringe Kosten)
+
+**a) EPDM-Dichtungsaustausch:** 8-16 € pro Fenster, reduziert Luftinfiltration um 60-70%.
+**b) Beschlagseinstellung:** 3-Achsen-Einstellung für 10-20 € pro Fenster.
+**c) Low-E-Folie:** Reduziert Ug um 0,2-0,4 W/(m²K). Kosten 16-30 €/m².
+**d) Außensilikonierung:** 8-16 € pro Fenster bei gerissener Außenversiegelung.
+
+## Option 2 — Austausch des Verglasungspakets (mittlere Kosten)
+
+Bei gutem Profil, aber altem Zweifachglas (Ug = 1,0-1,6):
+- Ug sinkt von 1,0 auf 0,5 W/(m²K) durch Dreifachverglasung mit Argon und Low-E
+- Kosten Glaspaket-Austausch: 30-60 €/m² (vs. 80-140 €/m² für komplettes Fenster)
+- Voraussetzung: Profil mind. 70 mm tief für 44-mm-Dreifachpaket
+
+## Option 3 — Kompletter Fensterwechsel (hohe Kosten, maximale Wirkung)
+
+| Ausgangssituation | Aktueller Uw | Nach Austausch | Jährliche Einsparung* |
+|---|---|---|---|
+| Einfachverglasung, Holzrahmen | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 140–180 €/Jahr |
+| Alter Zweifachverglasung (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 70–100 €/Jahr |
+| Moderner Zweifachverglasung (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 24–40 €/Jahr |
+
+## Welches Profil für Bukarest wählen?
+
+- **Salamander bluEvolution 82** (6 Kammern, 82 mm) — optimales Preis-Leistungs-Verhältnis für Renovierungen in Bukarest. Uw = 0,8-0,95 W/(m²K) mit Dreifachverglasung.
+- **Salamander bluEvolution 92** (6 Kammern, 92 mm) — für Neubauten oder nZEB-Projekte. Uw = 0,66-0,80 W/(m²K).
+
+---
+
+**Verwandte Artikel:**
+- [Welche Perimeterdämmungsoptionen gibt es für Fenster in Rumänien?](/de/blog/perimeterdaemmung-optionen-fenster-rumaenien-2026)
+- [Wo kann ich Fenster mit erweiterter Dämmung in Bukarest bestellen?](/de/blog/wo-bestelle-ich-fenster-mit-erweiterter-daemmung-bukarest)
+- [Salamander-Fensterpreise Bukarest 2026](/de/blog/salamander-fenster-preise-bukarest-2026)
+
+Neofort BIZ — Spezialist für Fensterwärmedämmung in Bukarest und Ilfov. [Kostenlose Beratung anfordern](/de/kontakt).`,
+
+      fr: `## Pourquoi les fenêtres sont la principale source de pertes thermiques à Bucarest
+
+Les études d'efficacité énergétique sur le parc immobilier de Bucarest montrent que **les fenêtres représentent 25-40% des pertes de chaleur** d'un appartement typique. Les factures de chauffage en 2024-2025 ont augmenté de 30-45% — investir dans l'isolation des fenêtres n'a jamais été aussi rentable.
+
+## Diagnostic : comment savoir si vos fenêtres perdent de la chaleur ?
+
+**Condensation sur la surface intérieure du vitrage** — signe le plus clair. Au centre = Ug élevé (ancien double vitrage). Sur les bords = problème de l'espaceur (solution : remplacer par Warm Edge).
+
+**Courant d'air froid près de la fenêtre** — joints usés ou quincaillerie mal réglée.
+
+**Cadre froid au toucher** — pont thermique à la pose.
+
+## Option 1 — Amélioration sans remplacement (faible coût)
+
+**a) Remplacement des joints EPDM :** 6-16 € par fenêtre, réduit les infiltrations de 60-70%.
+**b) Réglage de la quincaillerie :** 10-20 € par fenêtre.
+**c) Film Low-E :** réduit Ug de 0,2-0,4 W/(m²K). Coût : 16-30 €/m².
+**d) Silicone extérieur :** 8-16 € par fenêtre si fissuré.
+
+## Option 2 — Remplacement du pack vitrage (coût moyen)
+
+Si le profilé est en bon état mais le vitrage ancien (Ug = 1,0-1,6) :
+- Ug passe de 1,0 à 0,5 W/(m²K) avec triple vitrage argon + Low-E
+- Coût remplacement pack : 30-60 €/m² (vs 80-140 €/m² pour la fenêtre complète)
+- Condition : profilé d'au moins 70 mm pour accueillir le triple 44 mm
+
+## Option 3 — Remplacement complet (coût élevé, effet maximal)
+
+| Situation actuelle | Uw actuel | Après remplacement | Économie annuelle* |
+|---|---|---|---|
+| Simple vitrage, cadre bois | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 140–180 €/an |
+| Ancien double vitrage (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 70–100 €/an |
+| Double vitrage moderne (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 24–40 €/an |
+
+## Quel profilé choisir pour Bucarest ?
+
+- **Salamander bluEvolution 82** (6 chambres, 82 mm) — rapport qualité/prix optimal pour les rénovations. Uw = 0,8-0,95 W/(m²K) avec triple vitrage.
+- **Salamander bluEvolution 92** (6 chambres, 92 mm) — pour les constructions neuves ou projets nZEB. Uw = 0,66-0,80 W/(m²K).
+
+---
+
+**Articles connexes :**
+- [Quelles sont les options d'isolation périphérique pour les fenêtres en Roumanie ?](/fr/blog/options-isolation-perimetrale-fenetres-roumanie-2026)
+- [Où commander des fenêtres à isolation avancée à Bucarest ?](/fr/blog/ou-commander-fenetres-isolation-avancee-bucarest)
+- [Prix fenêtres Salamander Bucarest 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026)
+
+Neofort BIZ — spécialiste en isolation thermique des fenêtres à Bucarest et Ilfov. [Demander une consultation gratuite](/fr/contact).`,
+
+      es: `## Por qué las ventanas son la principal fuente de pérdidas térmicas en los hogares de Bucarest
+
+Los estudios de eficiencia energética sobre el parque inmobiliario de Bucarest muestran que **las ventanas representan el 25-40% de las pérdidas de calor** de un apartamento típico. Las facturas de calefacción en 2024-2025 aumentaron un 30-45% — invertir en aislamiento de ventanas nunca ha sido tan rentable.
+
+## Diagnóstico: cómo saber si las ventanas pierden calor
+
+**Condensación en la superficie interior del vidrio** — señal más clara. En el centro = Ug elevado (doble acristalamiento antiguo). En los bordes = problema del separador (solución: sustituir por Warm Edge).
+
+**Corriente de aire frío cerca de la ventana** — juntas gastadas o herraje mal ajustado.
+
+**Marco frío al tacto** — puente térmico en la instalación.
+
+## Opción 1 — Mejora sin sustitución (bajo coste)
+
+**a) Sustitución de juntas EPDM:** 6-16 € por ventana, reduce infiltraciones en 60-70%.
+**b) Ajuste de herraje:** 10-20 € por ventana.
+**c) Lámina Low-E:** reduce Ug en 0,2-0,4 W/(m²K). Coste: 16-30 €/m².
+**d) Silicona exterior:** 8-16 € por ventana si está agrietada.
+
+## Opción 2 — Sustitución del paquete de vidrio (coste medio)
+
+Si el perfil está en buen estado pero el acristalamiento es antiguo (Ug = 1,0-1,6):
+- Ug baja de 1,0 a 0,5 W/(m²K) con triple acristalamiento argón + Low-E
+- Coste sustitución paquete: 30-60 €/m² (vs 80-140 €/m² para la ventana completa)
+- Condición: perfil mínimo 70 mm para el triple de 44 mm
+
+## Opción 3 — Sustitución completa (alto coste, efecto máximo)
+
+| Situación actual | Uw actual | Tras sustitución | Ahorro anual* |
+|---|---|---|---|
+| Vidrio simple, marco madera | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 140–180 €/año |
+| Doble acristalamiento antiguo (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 70–100 €/año |
+| Doble acristalamiento moderno (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 24–40 €/año |
+
+## Qué perfil elegir para Bucarest
+
+- **Salamander bluEvolution 82** (6 cámaras, 82 mm) — relación calidad/precio óptima para renovaciones. Uw = 0,8-0,95 W/(m²K) con triple acristalamiento.
+- **Salamander bluEvolution 92** (6 cámaras, 92 mm) — para obras nuevas o proyectos nZEB. Uw = 0,66-0,80 W/(m²K).
+
+---
+
+**Artículos relacionados:**
+- [¿Cuáles son las opciones de aislamiento perimetral para ventanas en Rumanía?](/es/blog/opciones-aislamiento-perimetral-ventanas-rumania-2026)
+- [¿Dónde pedir ventanas con aislamiento avanzado en Bucarest?](/es/blog/donde-pedir-ventanas-aislamiento-avanzado-bucarest)
+- [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)
+
+Neofort BIZ — especialista en aislamiento térmico de ventanas en Bucarest e Ilfov. [Solicitar consulta gratuita](/es/contact).`,
+
+      it: `## Perché le finestre sono la principale fonte di dispersione termica nelle case di Bucarest
+
+Gli studi sull'efficienza energetica del patrimonio immobiliare di Bucarest mostrano che **le finestre rappresentano il 25-40% delle dispersioni di calore** di un appartamento tipico. Le bollette del riscaldamento nel 2024-2025 sono aumentate del 30-45% — investire nell'isolamento delle finestre non è mai stato così conveniente.
+
+## Diagnosi: come capire se le finestre disperdono calore
+
+**Condensa sulla superficie interna del vetro** — segnale più chiaro. Al centro = Ug elevato (doppio vetro vecchio). Sul bordo = problema del distanziale (soluzione: sostituire con Warm Edge).
+
+**Corrente d'aria fredda vicino alla finestra** — guarnizioni usurate o ferramenta mal regolata.
+
+**Telaio freddo al tatto** — ponte termico nell'installazione.
+
+## Opzione 1 — Miglioramento senza sostituzione (basso costo)
+
+**a) Sostituzione guarnizioni EPDM:** 6-16 € per finestra, riduce le infiltrazioni del 60-70%.
+**b) Regolazione ferramenta:** 10-20 € per finestra.
+**c) Pellicola Low-E:** riduce Ug di 0,2-0,4 W/(m²K). Costo: 16-30 €/m².
+**d) Silicone esterno:** 8-16 € per finestra se incrinato.
+
+## Opzione 2 — Sostituzione del pacchetto vetrocamera (costo medio)
+
+Se il profilo è in buone condizioni ma il vetro è vecchio (Ug = 1,0-1,6):
+- Ug scende da 1,0 a 0,5 W/(m²K) con triplo vetro argon + Low-E
+- Costo sostituzione pacchetto: 30-60 €/m² (vs 80-140 €/m² per la finestra completa)
+- Condizione: profilo minimo 70 mm per il triplo da 44 mm
+
+## Opzione 3 — Sostituzione completa (alto costo, effetto massimo)
+
+| Situazione attuale | Uw attuale | Dopo sostituzione | Risparmio annuo* |
+|---|---|---|---|
+| Vetro singolo, telaio legno | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 140–180 €/anno |
+| Doppio vetro vecchio (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 70–100 €/anno |
+| Doppio vetro moderno (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 24–40 €/anno |
+
+## Quale profilo scegliere per Bucarest
+
+- **Salamander bluEvolution 82** (6 camere, 82 mm) — rapporto qualità/prezzo ottimale per le ristrutturazioni. Uw = 0,8-0,95 W/(m²K) con triplo vetro.
+- **Salamander bluEvolution 92** (6 camere, 92 mm) — per nuove costruzioni o progetti nZEB. Uw = 0,66-0,80 W/(m²K).
+
+---
+
+**Articoli correlati:**
+- [Quali sono le opzioni di isolamento perimetrale per finestre in Romania?](/it/blog/opzioni-isolamento-perimetrale-finestre-romania-2026)
+- [Dove ordinare finestre con isolamento avanzato a Bucarest?](/it/blog/dove-ordinare-finestre-isolamento-avanzato-bucarest)
+- [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)
+
+Neofort BIZ — specialista in isolamento termico finestre a Bucarest e Ilfov. [Richiedi consulenza gratuita](/it/contact).`,
+    },
+  },
+
+
   // ─── ARTICOL: Sistem complet nZEB ──────────────────────────────────────────
   {
     slugs: {
