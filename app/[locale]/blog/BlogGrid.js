@@ -176,7 +176,7 @@ export default function BlogGrid({ articles, locale, read }) {
         .bg-count {
           font-size: .46rem;
           background: #f0f0ee;
-          color: #bbb;
+          color: #595959;
           padding: 1px 4px;
           border-radius: 8px;
           font-weight: 700;
@@ -204,24 +204,24 @@ export default function BlogGrid({ articles, locale, read }) {
           flex-shrink: 0;
           transition: border-color .15s, width .2s;
         }
-        .bg-search:focus-within { border-color: #bbb; width: 320px; }
-        .bg-search svg { flex-shrink: 0; color: #bbb; }
+        .bg-search:focus-within { border-color: #595959; width: 320px; }
+        .bg-search svg { flex-shrink: 0; color: #595959; }
         .bg-search input {
           border: none; background: transparent;
           font-family: 'Barlow Condensed', sans-serif;
           font-size: .74rem; letter-spacing: .04em; color: #1a1a1a;
           width: 100%; outline: none;
         }
-        .bg-search input::placeholder { color: #ccc; }
+        .bg-search input::placeholder { color: #595959; }
         .bg-search-clear {
           background: none; border: none; padding: 0;
-          cursor: pointer; color: #ccc; line-height: 1; flex-shrink: 0;
+          cursor: pointer; color: #595959; line-height: 1; flex-shrink: 0;
         }
         .bg-search-clear:hover { color: #555; }
         .bg-status {
           font-family: 'Barlow Condensed', sans-serif;
           font-size: .58rem; letter-spacing: .12em;
-          text-transform: uppercase; color: #bbb;
+          text-transform: uppercase; color: #595959;
           margin-left: auto;
         }
 
@@ -242,7 +242,7 @@ export default function BlogGrid({ articles, locale, read }) {
         .bg-card:hover { border-color: #d8d8d4; box-shadow: 0 4px 20px rgba(0,0,0,.05); }
         .bg-empty {
           grid-column: 1/-1; text-align: center;
-          padding: 80px 0; color: #ccc;
+          padding: 80px 0; color: #595959;
           font-family: 'Barlow Condensed', sans-serif;
           font-size: 1rem; letter-spacing: .08em;
         }
