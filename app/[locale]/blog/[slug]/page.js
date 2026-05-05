@@ -204,6 +204,7 @@ export default async function BlogArticlePage({ params }) {
     "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
   } : null;
 
+  const authorName = a.author || 'Mihai Dănălache';
   const articleSchema = {
     "@context":"https://schema.org","@type":"BlogPosting",
     "headline": title,"description": a.metaDesc?.[locale] || excerpt,
@@ -263,7 +264,6 @@ export default async function BlogArticlePage({ params }) {
     }))
   } : null;
 
-    const authorName = a.author || 'Mihai Dănălache';
   // Author Person schema pentru E-E-A-T
   const articleWithAuthor = {
     ...articleSchema,
