@@ -563,7 +563,7 @@ Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnic
       ro: 'Merită tripanul față de termopanul clasic? Calcule concrete pentru apartamente și case în România 2026. Economii reale per m², tabel de amortizare și situațiile în care tripanul NU este alegerea optimă.',
       en: 'Is triple glazing worth it vs classic double? Concrete calculations for apartments and houses in Romania 2026. Real savings per m², amortisation table and situations where triple is NOT optimal.',
       de: 'Lohnt Dreifach vs klassisches Zweifach? Konkrete Berechnungen für Wohnungen in Rumänien 2026. Reale Einsparungen pro m² und Situationen, in denen Dreifach NICHT optimal ist.',
-      fr: 'Le triple vaut-il le double classique ? Calculs concrets pour appartements et maisons en Roumanie 2026. Économies réelles par m² et situations où le triple n'est PAS optimal.',
+      fr: `Le triple vaut-il le double classique ? Calculs concrets pour appartements et maisons en Roumanie 2026. Économies réelles par m² et situations où le triple n'est PAS optimal.`,
       es: '¿Vale el triple frente al doble clásico? Cálculos concretos para apartamentos y casas en Rumanía 2026. Ahorros reales por m² y situaciones donde el triple NO es óptimo.',
       it: `Vale il triplo rispetto al doppio classico? Calcoli concreti per appartamenti e case in Romania 2026. Risparmi reali per m² e situazioni in cui il triplo NON è ottimale.`,
     },
