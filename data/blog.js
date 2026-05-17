@@ -243,268 +243,1005 @@ Casă nZEB cu consum ≤ 100 kWh/m²/an, facturi reduse cu 40-60%, confort garan
 Neofort BIZ — specialist în ferestre nZEB în București și Ilfov. [Solicită consultanță tehnică gratuită](/ro/contact).`,
       en: `## What is the nZEB Standard in Romania and Why Are Windows Critical?
 
-**nZEB** is mandatory for all new constructions in Romania since 2021. Primary energy consumption ≤ 100 kWh/m²/year. In a well-insulated home, windows can represent **40-50% of total heat losses**.
+**nZEB (Nearly Zero Energy Building)** is the mandatory standard imposed by Directive 2010/31/EU on the energy performance of buildings (EPBD) and transposed into Romanian law through Law 372/2005 as amended and HG 765/2016.
 
-## Section 1 — Minimum Technical Values
+**What nZEB specifically requires:**
+- Primary energy consumption: ≤ 100 kWh/m²/year
+- Minimum requirement from renewable sources: ≥ 10% of total consumption
+- Applicability: all new constructions in Romania since 2021
 
-| Climate Zone | Max. Uw | Area |
+**Why windows are critical:**
+In a house with walls insulated to 20 cm (U = 0.20 W/m²K) and roof at 30 cm (U = 0.15 W/m²K), windows represent the main source of heat losses. Even with Uw of 0.72 W/(m²K), a window loses 3-4 times more heat per m² than the wall. In a house with 15% of the envelope glazed, windows can represent **40-50% of total losses**.
+
+## Section 1 — Minimum Technical Values for nZEB Windows
+
+### Uw Coefficient — Mandatory Thresholds
+
+According to NP 048/2000 updated and SR EN ISO 10077:
+
+| Climate Zone | Maximum Uw permitted | Applicability |
 |---|---|---|
-| Zone I | 1.10 W/(m²K) | South-East |
-| **Zone II (Bucharest, Ilfov)** | **1.00 W/(m²K)** | Muntenia |
-| Zone III | 0.85 W/(m²K) | Transylvania |
+| Zone I (lowland, coastal) | 1.10 W/(m²K) | South-East, Dobrogea |
+| **Zone II (Bucharest, Ilfov)** | **1.00 W/(m²K)** | Muntenia, Oltenia |
+| Zone III (hills, mountains) | 0.85 W/(m²K) | Transylvania, Moldova |
+| Zone IV (high mountains) | 0.70 W/(m²K) | Carpathians |
 
-**Neofort BIZ recommendation:** Uw ≤ 0.85 W/(m²K) — 15% safety margin.
+**Practical recommendation for nZEB:** Uw ≤ 0.85 W/(m²K) for Zone II (Bucharest) — with a 15% margin against the legal limit of 1.0 W/(m²K).
 
-| Parameter | Minimum | Recommended | Optimal |
+### Complete Technical Parameters for nZEB Windows
+
+| Parameter | Minimum value | Recommended | Optimal |
 |---|---|---|---|
 | Uw (W/m²K) | ≤ 1.00 | ≤ 0.85 | ≤ 0.72 |
 | Ug (W/m²K) | ≤ 0.70 | ≤ 0.60 | ≤ 0.50 |
 | Solar factor g | 0.30-0.60 | 0.30-0.45 (S/W) | 0.55+ (N/E) |
-| Air permeability | Class 3 | **Class 4** | Class 4 |
+| Air permeability (m³/h·m) | Class 3 | **Class 4** | Class 4 |
+| Acoustic attenuation Rw (dB) | 30 | 38 | 42+ |
+| Glazing spacer | Aluminium | **Warm Edge** | Warm Edge |
 
-**Q = U × A × ΔT × t** — Annual heat loss for 120 m² house, 18 m² glazed area:
+### Energy Consumption Calculation
 
-| Window type | Uw | Annual loss (kWh) | Annual cost* |
+**Heat transfer formula:**
+
+**Q = U × A × ΔT × t**
+
+**Applied to a 120 m² house in Bucharest (Zone II):**
+- Total glazed area: 18 m² (15% of envelope)
+- Average ΔT cold season: 20°C (22°C indoor − 2°C average)
+- Cold season hours: 3,500 hours
+
+| Window type | Uw | Annual Q (kWh) | Annual cost* |
 |---|---|---|---|
-| Old single | 4.8 | 6,048 | ~€726 |
-| Old double | 2.0 | 2,520 | ~€302 |
+| Old single glazing | 4.8 | 6,048 | ~€726 |
+| Old standard double | 2.0 | 2,520 | ~€302 |
 | Modern double | 1.2 | 1,512 | ~€181 |
-| **nZEB triple** | **0.72** | **907** | **~€109** |
+| **Recommended nZEB triple** | **0.72** | **907** | **~€109** |
+| Premium passive house | 0.55 | 693 | ~€83 |
 
-## Section 2 — Recommended Profiles for nZEB
+*Energy price €0.12/kWh (2026)
 
-**Salamander bluEvolution 92:** 6 chambers, 92 mm, Uf = 0.95 W/(m²K), Uw with triple 44 mm + Warm Edge: **0.72 W/(m²K)**
+## Section 2 — Recommended Profile Types for nZEB
 
-**Alumil S77 Supreme:** 34 mm thermal break, Uf = 1.3 W/(m²K), Uw: **1.0-1.15 W/(m²K)** — at Zone II nZEB limit
+### Premium PVC — The nZEB Standard Solution
 
-## Section 3 — Optimal Glazing
+**Salamander bluEvolution 92 (recommended by Neofort BIZ):**
+- 6 chambers, 92 mm depth
+- Uf = 0.95 W/(m²K) — best in class
+- Ca-Zn stabilisers (lead-free, cadmium-free) — REACH compliant
+- 3 EPDM gaskets
+- Uw with 44 mm triple glazing + Warm Edge: **0.72 W/(m²K)**
+- Uw with 52 mm triple glazing + Warm Edge: **0.66 W/(m²K)**
+- Certification: IFT Rosenheim, EN 12608 Class A
+- Warranty: 40 years profile
 
-**Triple 44 mm Saint-Gobain SGG:** 4 mm / 16 mm Argon 90% / 4 mm Low-E / 16 mm Argon 90% / 4 mm — Ug = **0.5 W/(m²K)**
+**Salamander bluEvolution 82 (economic nZEB solution):**
+- 6 chambers, 82 mm depth
+- Uf = 1.0 W/(m²K)
+- Uw with 44 mm triple glazing: **0.80-0.88 W/(m²K)** — marginal nZEB
 
-Low-E by orientation: N/E facades g=0.55-0.62 | S/W facades g=0.28-0.35
+### Aluminium with Thermal Break — nZEB with Premium Design
+
+**Alumil S77 Supreme:**
+- 77 mm depth, 34 mm polyamide thermal break
+- Uf = 1.3 W/(m²K)
+- Uw with 44 mm triple glazing: **1.0-1.15 W/(m²K)** — at Zone II nZEB limit
+
+**Important limitation:** Standard aluminium cannot achieve Uw ≤ 0.85 W/(m²K) — the recommended margin for nZEB.
+
+### Wood-Aluminium (Hybrid) — Premium nZEB
+
+- Uf = 0.70-0.90 W/(m²K) — excellent
+- Uw with 44 mm triple glazing: **0.65-0.75 W/(m²K)**
+- Cost: +50-80% compared to premium PVC
+- Limitation: limited availability in Romania, long lead times
+
+## Section 3 — Optimal Glazing Configuration for nZEB
+
+### Recommended Glazing Pack (Neofort BIZ standard)
+
+**Triple 44 mm Saint-Gobain SGG:**
+4 mm Float / 16 mm Argon 90% / 4 mm Float Low-E / 16 mm Argon 90% / 4 mm Float
+
+- Ug = **0.5 W/(m²K)**
+- Solar factor g = 0.32 (Low-E on position 2 facing middle chamber)
+- Light transmittance TL = 70%
+- Acoustic attenuation Rw = 34-36 dB
+
+**Warm Edge spacer — mandatory for nZEB:**
+- Conductivity λ = 0.15-0.2 W/(mK) vs λ = 160 W/(mK) for aluminium
+- Reduces marginal thermal bridge from Ψg = 0.1 to Ψg = 0.03 W/(mK)
+- Eliminates condensation on inner glass edge
+
+**Low-E variants by orientation:**
+- **N/E facade:** Low-E with g = 0.55-0.62 — maximises useful solar gain
+- **S/W facade:** Low-E with g = 0.28-0.35 — limits summer overheating
+- **E/W facade:** Balanced Low-E g = 0.40-0.50
 
 ## Section 4 — Correct nZEB Installation
 
-3 mandatory RAL zones:
-1. **Exterior:** Pre-compressed butyl band ≥ 600 Pa, 20-25 year durability
-2. **Middle:** Semi-open cell PU foam
-3. **Interior:** PE vapour barrier
+The most performant profile with the best glazing loses **30-50% of efficiency** if installation is incorrect. The RAL standard defines 3 mandatory zones:
 
-Blaugelb Triotherm+ preframes available as recommended separate option — PHI certified, reduces ψ from 0.08 to 0.01 W/(mK).
+### Exterior Zone — Water and Wind Sealing
+**Pre-compressed butyl band** (Illbruck TP600, blaugelb TrioSDL):
+- Withstands ≥ 600 Pa water pressure — tested per EN 1027
+- Withstands ≥ 50 m/s wind — tested per EN 12211
+- Durability: 20-25 years vs 3-5 years for classic silicone
+- Applied to the window profile BEFORE installation
+
+### Middle Zone — Thermal and Acoustic Insulation
+**Semi-open cell polyurethane foam:**
+- Fills the space between frame and masonry
+- Additional thermal insulation + acoustic attenuation
+- Injected AFTER fixing the frame with metal anchors
+
+### Interior Zone — Vapour Barrier
+**PE film or butyl tape:**
+- Prevents vapour migration from interior to the joint → condensation → mould
+- Applied continuously on the inner perimeter of the frame
+
+### Blaugelb Triotherm+ Preframes — for Complete nZEB
+
+Preframes are available as a separate option and recommended for projects needing to achieve effective Uw ≤ 0.80 W/(m²K) overall, eliminating the thermal bridge at the sill:
+- Composite material λ = 0.035 W/(mK) — comparable to mineral wool
+- Reduces perimeter ψ from 0.08 to 0.01 W/(mK)
+- PassivHaus Institut (PHI) certification
+- Installed BEFORE the window, in the thermal insulation plane
+
+### Window Positioning in the Insulated Wall
+
+**Common mistake:** Window installed in the middle of the wall thickness leaves the frame thermally exposed on both faces.
+
+**Correct for nZEB:** Window installed in the outer third of the wall thickness (or on a preframe, in the insulation plane) eliminates the perimeter thermal bridge.
 
 ## Section 5 — Real 2026 Costs
 
+### Indicative nZEB Window Prices (including installation)
+
 | Type | Size | Profile | Price |
 |---|---|---|---|
-| Tilt-and-turn | 80×120 cm | bluEvolution 92, triple | €290-360 |
-| Tilt-and-turn | 100×150 cm | bluEvolution 92, triple | €360-440 |
-| Double tilt-and-turn | 150×120 cm | bluEvolution 92, triple | €560-700 |
+| Tilt-and-turn window | 80×120 cm | Salamander bluEvolution 92, triple | €290-360 |
+| Tilt-and-turn window | 100×150 cm | Salamander bluEvolution 92, triple | €360-440 |
+| Double tilt-and-turn window | 150×120 cm | Salamander bluEvolution 92, triple | €560-700 |
+| Aluminium sliding | 200×230 cm | Alumil Smartia, triple | €900-1,200 |
+| Entrance door | 90×210 cm | Salamander SF85, triple | €700-1,000 |
 
-## FAQ
+*VAT excluded, standard installation (without preframes)
 
-**What Uw for nZEB?** Romanian standards: Uw ≤ 1.0 W/(m²K) Zone II. Recommended: ≤ 0.85 W/(m²K).
+### Additional Optional Costs
 
-**Is triple glazing mandatory?** No explicit requirement, but needed for comfortable margin above the legal limit.
+| Option | Indicative cost |
+|---|---|
+| Blaugelb Triotherm+ preframes | €50-80/unit |
+| nZEB installation with pre-compressed bands | +€60-90/window |
+| Warm Edge spacer (vs standard) | included in Neofort triple glazing price |
+| Exterior aluminium sills (ml) | €24-40/ml |
+| Interior PVC sills (ml) | €16-30/ml |
 
-**Best profiles for nZEB Romania?** Salamander bluEvolution 92 + triple 44 mm + Warm Edge = Uw 0.72 — 28% below legal limit.
+### Amortisation Calculation for a 120 m² House
 
-**Does installation matter?** Enormously — wrong installation can double effective Uw to 1.2-1.4 W/(m²K).
+| Additional investment vs standard double | Annual saving | Payback |
+|---|---|---|
+| +€3,000 (triple vs double, 12 windows) | €194/year | ~15 years |
+| +€700 (Blaugelb preframes, 12 units) | +€70/year additional | ~10 years |
+| +€1,000 (nZEB installation with bands) | Structural protection | Indirect (20+ year durability) |
 
-**PVC or aluminium for nZEB?** PVC for maximum Uw, aluminium for large glazed areas and premium design.
+## Complete FAQ — nZEB Windows Romania
 
-**Required certifications?** DoP per CPR 305/2011, CE marking, EN 14351-1 testing, IFT Rosenheim profile certification.
+**What Uw is required for nZEB?**
+Romanian standards: Uw ≤ 1.0 W/(m²K) for Climate Zone II (Bucharest, Ilfov). **Neofort BIZ recommendation:** Uw ≤ 0.85 W/(m²K) with safety margin.
 
-**Most efficient windows in Romania 2026?** Salamander bluEvolution 92 + triple 52 mm + Warm Edge + Blaugelb preframes: **Uw = 0.66 W/(m²K)**.
+**Is triple glazing mandatory for nZEB?**
+There is no explicit legal obligation for triple glazing. Mandatory is achieving Uw ≤ 1.0 W/(m²K). In practice, Uw ≤ 1.0 is achievable with modern double (Ug=1.0) + good PVC profile, but only marginally. Triple glazing (Ug=0.5) provides safety margin and superior performance.
+
+**What profiles are best for nZEB in Romania?**
+Salamander bluEvolution 92 (Uf=0.95 W/m²K) is the leading PVC performance available in Romania. Together with 44 mm Saint-Gobain triple + Warm Edge achieves Uw=0.72 — 28% below the legal limit.
+
+**Does installation matter?**
+Enormously. A bluEvolution 92 profile installed without pre-compressed bands and with thermal bridge at the sill can reach an effective Uw of 1.2-1.4 W/(m²K) due to infiltration and interstitial condensation — double the technical specification. RAL installation with 3 sealing zones is essential.
+
+**Aluminium or PVC for nZEB?**
+PVC for maximum Uw and cost-efficiency. Aluminium for large glazed areas (>150 cm width), large sliding doors and premium architectural design. Mix for villas: PVC for windows, aluminium for sliding doors.
+
+**What certifications must nZEB windows have?**
+- Declaration of Performance (DoP) per Construction Products Regulation (CPR) 305/2011
+- Mandatory CE marking
+- EN 14351-1 test for windows and external doors
+- Profile certification: IFT Rosenheim or TÜV for declared Uf
+
+**What are the most efficient windows on the Romanian market 2026?**
+Salamander bluEvolution 92 + 52 mm Saint-Gobain triple + Warm Edge spacer + Blaugelb preframes: **Uw = 0.66 W/(m²K)** — the best commercially available system in Romania for residential.
+
+## Conclusion
+
+Choosing windows for an nZEB house in Romania is not complicated if you follow this priority order:
+
+1. **First the glazing:** triple with argon + Low-E + Warm Edge → Ug = 0.5 W/(m²K)
+2. **Then the profile:** Salamander bluEvolution 92 → Uf = 0.95 W/(m²K)
+3. **Installation:** pre-compressed bands + 3 sealing zones → eliminate 30-50% losses through infiltration
+4. **Preframes** (optional but recommended): Blaugelb Triotherm+ → eliminate thermal bridge at sill
+5. **Verification:** Calculated Uw = 0.72 W/(m²K) → 28% below legal limit
+
+Result: nZEB house with consumption ≤ 100 kWh/m²/year, energy bills reduced 40-60% vs standard construction, thermal comfort guaranteed for 40+ years.
 
 ---
 
-Related: [PVC vs Aluminium nZEB 2026](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide) | [Triple vs Double Glazing Savings](/en/blog/triple-vs-double-glazing-real-savings-heating-cost) | [Complete nZEB System](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing)
+**Related articles:**
+- [PVC or Aluminium for nZEB Homes in 2026?](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide)
+- [Triple vs Double Glazing: Real Savings on Heating](/en/blog/triple-vs-double-glazing-real-savings-heating-cost)
+- [Complete nZEB System: Salamander + Blaugelb + Triple Glazing](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing)
 
-Neofort BIZ — nZEB window specialist in Bucharest and Ilfov. [Request free technical consultation](/en/contact).`,
-      de: `## Was ist der nZEB-Standard in Rumänien?
+Neofort BIZ — nZEB window specialist in Bucharest and Ilfov. [Request free technical consultation for your nZEB project](/en/contact).`,
+      de: `## Was ist der nZEB-Standard in Rumänien und warum sind Fenster entscheidend?
 
-**nZEB** ist seit 2021 Pflichtstandard. Primärenergieverbrauch ≤ 100 kWh/m²/Jahr. Fenster können **40-50% der Gesamtwärmeverluste** ausmachen.
+**nZEB (Nearly Zero Energy Building)** ist der gemäß Richtlinie 2010/31/EU (EPBD) und dem rumänischen Gesetz 372/2005 sowie HG 765/2016 vorgeschriebene Pflichtstandard.
 
-## Technische Mindestwerte
+**Was nZEB konkret fordert:**
+- Primärenergieverbrauch: ≤ 100 kWh/m²/Jahr
+- Mindestanteil erneuerbarer Energien: ≥ 10% des Gesamtverbrauchs
+- Anwendbarkeit: alle Neubauten in Rumänien seit 2021
 
-| Klimazone | Max. Uw | Anwendung |
+**Warum Fenster entscheidend sind:**
+In einem Haus mit Wänden bei 20 cm Dämmung (U = 0,20 W/m²K) und Dach bei 30 cm (U = 0,15 W/m²K) sind Fenster die Hauptquelle von Wärmeverlusten — 3-4 mal mehr pro m² als die Wand. Bei 15% verglaster Hüllfläche können Fenster **40-50% der Gesamtverluste** ausmachen.
+
+## Abschnitt 1 — Technische Mindestwerte für nZEB-Fenster
+
+### Uw-Koeffizient — Obligatorische Schwellenwerte
+
+| Klimazone | Maximaler Uw zulässig | Anwendung |
 |---|---|---|
-| Zone I | 1,10 W/(m²K) | Südost |
-| **Zone II (Bukarest, Ilfov)** | **1,00 W/(m²K)** | Muntenien |
-| Zone III | 0,85 W/(m²K) | Siebenbürgen |
+| Zone I (Tiefland, Küste) | 1,10 W/(m²K) | Südost, Dobrudscha |
+| **Zone II (Bukarest, Ilfov)** | **1,00 W/(m²K)** | Muntenien, Oltenien |
+| Zone III (Hügel, Berge) | 0,85 W/(m²K) | Siebenbürgen, Moldau |
+| Zone IV (Hochgebirge) | 0,70 W/(m²K) | Karpaten |
 
-**Neofort BIZ Empfehlung:** Uw ≤ 0,85 W/(m²K) mit Sicherheitsreserve.
+**Praktische Empfehlung für nZEB:** Uw ≤ 0,85 W/(m²K) für Zone II (Bukarest) — mit 15% Sicherheitsreserve gegenüber der gesetzlichen Grenze von 1,0 W/(m²K).
 
-**Q = U × A × ΔT × t** — Wärmeverlust 120 m² Haus, 18 m² Verglasung:
+### Vollständige technische Parameter für nZEB-Fenster
 
-| Fenstertyp | Uw | Verlust (kWh/Jahr) |
+| Parameter | Mindestwert | Empfohlen | Optimal |
+|---|---|---|---|
+| Uw (W/m²K) | ≤ 1,00 | ≤ 0,85 | ≤ 0,72 |
+| Ug (W/m²K) | ≤ 0,70 | ≤ 0,60 | ≤ 0,50 |
+| Solarfaktor g | 0,30-0,60 | 0,30-0,45 (S/W) | 0,55+ (N/O) |
+| Luftdurchlässigkeit | Klasse 3 | **Klasse 4** | Klasse 4 |
+| Schallschutz Rw (dB) | 30 | 38 | 42+ |
+| Verglasungsabstandhalter | Aluminium | **Warm Edge** | Warm Edge |
+
+### Energieverbrauchsberechnung
+
+**Wärmedurchgangsformel:**
+
+**Q = U × A × ΔT × t**
+
+**Angewendet auf ein 120 m² Haus in Bukarest (Zone II):**
+- Gesamte Verglasungsfläche: 18 m² (15% der Hülle)
+- Mittlere ΔT Kaltsaison: 20°C (22°C innen − 2°C Durchschnitt)
+- Kaltsaisonstunden: 3.500 Stunden
+
+| Fenstertyp | Uw | Jährliches Q (kWh) | Jährliche Kosten* |
+|---|---|---|---|
+| Altes Einfachglas | 4,8 | 6.048 | ~726 € |
+| Alter Standard-Zweifach | 2,0 | 2.520 | ~302 € |
+| Moderner Zweifach | 1,2 | 1.512 | ~181 € |
+| **Empfohlenes nZEB-Dreifach** | **0,72** | **907** | **~109 €** |
+| Premium Passivhaus | 0,55 | 693 | ~83 € |
+
+*Energiepreis 0,12 €/kWh (2026)
+
+## Abschnitt 2 — Empfohlene Profiltypen für nZEB
+
+### PVC Premium — Die nZEB-Standardlösung
+
+**Salamander bluEvolution 92 (von Neofort BIZ empfohlen):**
+- 6 Kammern, 92 mm Bautiefe
+- Uf = 0,95 W/(m²K) — Klassenführer
+- Ca-Zn-Stabilisatoren (bleifrei, cadmiumfrei) — REACH-konform
+- 3 EPDM-Dichtungen
+- Uw mit 44 mm Dreifach + Warm Edge: **0,72 W/(m²K)**
+- Uw mit 52 mm Dreifach + Warm Edge: **0,66 W/(m²K)**
+- Zertifizierung: IFT Rosenheim, EN 12608 Klasse A
+- Garantie: 40 Jahre Profil
+
+**Salamander bluEvolution 82 (günstige nZEB-Lösung):**
+- 6 Kammern, 82 mm, Uf = 1,0 W/(m²K)
+- Uw mit 44 mm Dreifach: **0,80-0,88 W/(m²K)** — marginales nZEB
+
+### Aluminium mit Wärmedämmbrücke — nZEB mit Premium-Design
+
+**Alumil S77 Supreme:**
+- 77 mm, 34 mm Polyamid-Wärmedämmbrücke, Uf = 1,3 W/(m²K)
+- Uw mit 44 mm Dreifach: **1,0-1,15 W/(m²K)** — an der nZEB Zone II Grenze
+
+**Wichtige Einschränkung:** Standard-Aluminium kann Uw ≤ 0,85 W/(m²K) nicht erreichen.
+
+## Abschnitt 3 — Optimale Verglasung für nZEB
+
+### Empfohlenes Verglasungspaket (Neofort BIZ Standard)
+
+**Dreifach 44 mm Saint-Gobain SGG:**
+4 mm Float / 16 mm Argon 90% / 4 mm Float Low-E / 16 mm Argon 90% / 4 mm Float
+
+- Ug = **0,5 W/(m²K)**
+- Solarfaktor g = 0,32 (Low-E auf Position 2)
+- Lichttransmission TL = 70%
+- Schalldämmung Rw = 34-36 dB
+
+**Warm-Edge-Abstandhalter — obligatorisch für nZEB:**
+- λ = 0,15-0,2 W/(mK) vs λ = 160 W/(mK) für Aluminium
+- Reduziert marginale Wärmebrücke von Ψg = 0,1 auf Ψg = 0,03 W/(mK)
+
+**Low-E-Varianten nach Orientierung:**
+- **N/O-Fassade:** Low-E mit g = 0,55-0,62 — maximiert nutzbaren Solargewinn
+- **S/W-Fassade:** Low-E mit g = 0,28-0,35 — begrenzt sommerliche Überhitzung
+- **O/W-Fassade:** Ausgewogenes Low-E g = 0,40-0,50
+
+## Abschnitt 4 — Korrekte nZEB-Montage
+
+Das leistungsstärkste Profil verliert **30-50% seiner Effizienz** bei falscher Montage. Der RAL-Standard definiert 3 Pflichtbereiche:
+
+**Außenbereich:** Vorkomprimiertes Butylband (Illbruck TP600) — ≥ 600 Pa wasserdicht, 20-25 Jahre Haltbarkeit
+
+**Mittelbereich:** Halboffenzelliger PU-Schaum — thermische und akustische Dämmung
+
+**Innenbereich:** PE-Folie Dampfsperre — verhindert Kondensat in der Wandstruktur
+
+**Blaugelb Triotherm+ Vorblendrahmen (empfohlene Option):**
+- Verbundwerkstoff λ = 0,035 W/(mK) — vergleichbar mit Mineralwolle
+- Reduziert perimetrales ψ von 0,08 auf 0,01 W/(mK)
+- PassivHaus Institut (PHI) Zertifizierung
+
+### Fensterpositionierung in der gedämmten Wand
+
+**Häufiger Fehler:** Fenster in der Mitte der Wandstärke montiert lässt den Rahmen beidseitig thermisch exponiert.
+
+**Korrekt für nZEB:** Fenster im äußeren Drittel der Wandstärke (oder auf Vorblendrahmen in der Dämmebene) eliminiert die Umfangs-Wärmebrücke.
+
+## Abschnitt 5 — Reale Kosten 2026
+
+### Richtpreise nZEB-Fenster (inkl. Montage)
+
+| Typ | Größe | Profil | Preis |
+|---|---|---|---|
+| Dreh-Kipp-Fenster | 80×120 cm | Salamander bluEvolution 92, Dreifach | 290-360 € |
+| Dreh-Kipp-Fenster | 100×150 cm | Salamander bluEvolution 92, Dreifach | 360-440 € |
+| Zweiflügliges Fenster | 150×120 cm | Salamander bluEvolution 92, Dreifach | 560-700 € |
+| Aluminium-Schiebetür | 200×230 cm | Alumil Smartia, Dreifach | 900-1.200 € |
+| Haustür | 90×210 cm | Salamander SF85, Dreifach | 700-1.000 € |
+
+*Ohne MwSt., Standardmontage ohne Vorblendrahmen
+
+### Amortisierungsberechnung für ein 120 m² Haus
+
+| Zusatzinvestition gegenüber Standard-Zweifach | Jährliche Einsparung | Amortisierung |
 |---|---|---|
-| Altes Einfachglas | 4,8 | 6.048 |
-| Alter Zweifach | 2,0 | 2.520 |
-| Modernes Zweifach | 1,2 | 1.512 |
-| **nZEB Dreifach** | **0,72** | **907** |
+| +3.000 € (Dreifach vs Zweifach, 12 Fenster) | 194 €/Jahr | ~15 Jahre |
+| +700 € (Blaugelb Vorblendrahmen, 12 Stück) | +70 €/Jahr zusätzlich | ~10 Jahre |
 
-## Empfohlene Profile
+## Vollständiges FAQ — nZEB-Fenster Rumänien
 
-**Salamander bluEvolution 92:** 6 Kammern, 92 mm, Uf = 0,95, Uw = **0,72 W/(m²K)** mit Dreifach + Warm Edge
+**Welcher Uw ist für nZEB erforderlich?**
+Rumänische Normen: Uw ≤ 1,0 W/(m²K) für Klimazone II (Bukarest, Ilfov). **Neofort BIZ Empfehlung:** Uw ≤ 0,85 W/(m²K) mit Sicherheitsreserve.
 
-## Korrekte nZEB-Montage
+**Ist Dreifachverglasung für nZEB obligatorisch?**
+Es gibt keine ausdrückliche gesetzliche Verpflichtung für Dreifachverglasung. Obligatorisch ist das Erreichen von Uw ≤ 1,0 W/(m²K). In der Praxis ist Uw ≤ 1,0 mit modernem Zweifach + gutem PVC-Profil möglich, aber nur knapp. Dreifachverglasung (Ug=0,5) bietet Sicherheitsreserve und überlegene Leistung.
 
-3 RAL-Pflichtbereiche: Außen (vorkomprimiertes Band), Mitte (PU-Schaum), Innen (Dampfsperrfolie).
+**Welche Profile sind die besten für nZEB in Rumänien?**
+Salamander bluEvolution 92 (Uf=0,95 W/m²K) ist der führende PVC-Leistungsanbieter in Rumänien. Mit 44 mm Saint-Gobain Dreifach + Warm Edge erreicht es Uw=0,72 — 28% unter der gesetzlichen Grenze.
 
-Blaugelb Triotherm+ Vorblendrahmen als empfohlene Option — PHI-zertifiziert.
+**Spielt die Montage eine Rolle?**
+Enorm. Ein bluEvolution 92 Profil ohne vorkomprimierte Bänder und mit Wärmebrücke am Fensterbrett kann durch Infiltration und Tauwasserausfall einen effektiven Uw von 1,2-1,4 W/(m²K) erreichen — doppelt so hoch wie die technische Spezifikation. RAL-Montage mit 3 Dichtungszonen ist unerlässlich.
 
-## FAQ
+**Aluminium oder PVC für nZEB?**
+PVC für maximalen Uw und Kostenwirksamkeit. Aluminium für große Verglasungsflächen (>150 cm Breite), große Schiebetüren und Premium-Architektur. Mix für Villen: PVC für Fenster, Aluminium für Schiebetüren.
 
-**Welcher Uw für nZEB?** ≤ 1,0 W/(m²K) Zone II. Empfohlen: ≤ 0,85 W/(m²K).
+**Welche Zertifizierungen müssen nZEB-Fenster haben?**
+- Leistungserklärung (DoP) nach Bauproduktenverordnung (CPR) 305/2011
+- Obligatorisches CE-Kennzeichen
+- Prüfung nach EN 14351-1
+- Profilzertifizierung: IFT Rosenheim oder TÜV für deklarierten Uf
 
-**Ist Dreifach Pflicht?** Nein, aber praktisch notwendig für komfortable Marge.
+**Welche sind die effizientesten Fenster auf dem rumänischen Markt 2026?**
+Salamander bluEvolution 92 + 52 mm Saint-Gobain Dreifach + Warm Edge + Blaugelb Vorblendrahmen: **Uw = 0,66 W/(m²K)** — das beste kommerziell erhältliche System in Rumänien für Wohngebäude.
 
-**Beste Profile Romania 2026?** Salamander bluEvolution 92 + Dreifach 44 mm + Warm Edge = Uw 0,72.
+## Fazit
 
-**Spielt Montage eine Rolle?** Enorm — falsche Montage verdoppelt effektiven Uw auf 1,2-1,4.
+Die richtige Prioritätsreihenfolge für nZEB-Fenster:
+
+1. **Zuerst die Verglasung:** Dreifach mit Argon + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
+2. **Dann das Profil:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
+3. **Die Montage:** vorkomprimierte Bänder + 3 Dichtungszonen
+4. **Vorblendrahmen** (optional aber empfohlen): Blaugelb Triotherm+
+5. **Ergebnis:** Uw = 0,72 W/(m²K) — 28% unter der gesetzlichen Grenze
+
+Ergebnis: nZEB-Haus mit ≤ 100 kWh/m²/Jahr, Energierechnungen um 40-60% reduziert, Wärmekomfort auf 40+ Jahre garantiert.
 
 ---
 
-Neofort BIZ — nZEB-Fensterspezialist in Bukarest und Ilfov. [Kostenloses Beratungsgespräch](/de/kontakt).`,
-      fr: `## Qu'est-ce que la norme nZEB en Roumanie ?
+**Verwandte Artikel:**
+- [PVC oder Aluminium für nZEB-Häuser 2026?](/de/blog/pvc-oder-aluminium-nzeb-haeuser-2026-ratgeber)
+- [Dreifach- vs. Zweifachverglasung: Reale Einsparungen beim Heizen](/de/blog/dreifach-vs-zweifachverglasung-reale-einsparungen-heizkosten)
+- [Komplettes nZEB-System: Salamander + Blaugelb + Dreifachverglasung](/de/blog/komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung)
 
-**nZEB** est obligatoire depuis 2021. Consommation d'énergie primaire ≤ 100 kWh/m²/an. Les fenêtres représentent **40-50% des pertes thermiques totales** dans les maisons bien isolées.
+Neofort BIZ — nZEB-Fensterspezialist in Bukarest und Ilfov. [Kostenloses technisches Beratungsgespräch für Ihr nZEB-Projekt](/de/kontakt).`,
+      fr: `## Qu'est-ce que la norme nZEB en Roumanie et pourquoi les fenêtres sont-elles critiques ?
 
-## Valeurs techniques minimales
+**nZEB (Nearly Zero Energy Building)** est la norme obligatoire imposée par la Directive 2010/31/UE sur la performance énergétique des bâtiments (DPEB) et transposée dans la législation roumaine par la Loi 372/2005 modifiée et le HG 765/2016.
 
-| Zone climatique | Uw max. | Application |
+**Ce que nZEB exige concrètement :**
+- Consommation d'énergie primaire : ≤ 100 kWh/m²/an
+- Exigence minimale d'énergies renouvelables : ≥ 10% de la consommation totale
+- Applicabilité : toutes les nouvelles constructions en Roumanie depuis 2021
+
+**Pourquoi les fenêtres sont critiques :**
+Dans une maison avec des murs isolés à 20 cm (U = 0,20 W/m²K) et un toit à 30 cm (U = 0,15 W/m²K), les fenêtres représentent la principale source de pertes thermiques — 3-4 fois plus par m² que le mur. Avec 15% de la surface de l'enveloppe vitrée, les fenêtres peuvent représenter **40-50% des pertes totales**.
+
+## Section 1 — Valeurs techniques minimales pour les fenêtres nZEB
+
+### Coefficient Uw — Seuils obligatoires
+
+| Zone climatique | Uw maximal admis | Applicabilité |
 |---|---|---|
-| Zone I | 1,10 W/(m²K) | Sud-Est |
-| **Zone II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Munténie |
-| Zone III | 0,85 W/(m²K) | Transylvanie |
+| Zone I (plaine, côtier) | 1,10 W/(m²K) | Sud-Est, Dobrogea |
+| **Zone II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Munténie, Olténie |
+| Zone III (collines, montagnes) | 0,85 W/(m²K) | Transylvanie, Moldavie |
+| Zone IV (haute montagne) | 0,70 W/(m²K) | Carpates |
 
-**Recommandation Neofort BIZ:** Uw ≤ 0,85 W/(m²K) avec marge de sécurité.
+**Recommandation pratique pour nZEB :** Uw ≤ 0,85 W/(m²K) pour la Zone II (Bucarest) — avec une marge de 15% par rapport à la limite légale de 1,0 W/(m²K).
 
-**Q = U × A × ΔT × t** — Pertes annuelles maison 120 m², 18 m² vitrés :
+### Paramètres techniques complets pour les fenêtres nZEB
 
-| Type de fenêtre | Uw | Pertes (kWh/an) |
+| Paramètre | Valeur minimale | Recommandé | Optimal |
+|---|---|---|---|
+| Uw (W/m²K) | ≤ 1,00 | ≤ 0,85 | ≤ 0,72 |
+| Ug (W/m²K) | ≤ 0,70 | ≤ 0,60 | ≤ 0,50 |
+| Facteur solaire g | 0,30-0,60 | 0,30-0,45 (S/O) | 0,55+ (N/E) |
+| Perméabilité à l'air | Classe 3 | **Classe 4** | Classe 4 |
+| Atténuation acoustique Rw (dB) | 30 | 38 | 42+ |
+| Espaceur de vitrage | Aluminium | **Warm Edge** | Warm Edge |
+
+### Calcul de la consommation énergétique
+
+**Formule de transfert thermique :**
+
+**Q = U × A × ΔT × t**
+
+**Appliqué à une maison de 120 m² à Bucarest (Zone II) :**
+- Surface vitrée totale : 18 m² (15% de l'enveloppe)
+- ΔT moyen saison froide : 20°C (22°C intérieur − 2°C moyenne)
+- Heures saison froide : 3 500 heures
+
+| Type de fenêtres | Uw | Q annuel (kWh) | Coût annuel* |
+|---|---|---|---|
+| Ancien simple vitrage | 4,8 | 6 048 | ~726 € |
+| Ancien double standard | 2,0 | 2 520 | ~302 € |
+| Double moderne | 1,2 | 1 512 | ~181 € |
+| **Triple nZEB recommandé** | **0,72** | **907** | **~109 €** |
+| Premium maison passive | 0,55 | 693 | ~83 € |
+
+*Prix énergie 0,12 €/kWh (2026)
+
+## Section 2 — Types de profilés recommandés pour nZEB
+
+### PVC Premium — La solution standard nZEB
+
+**Salamander bluEvolution 92 (recommandé par Neofort BIZ) :**
+- 6 chambres, profondeur 92 mm
+- Uf = 0,95 W/(m²K) — meilleur de sa classe
+- Stabilisants Ca-Zn (sans plomb, sans cadmium) — conforme REACH
+- 3 joints EPDM
+- Uw avec triple 44 mm + Warm Edge : **0,72 W/(m²K)**
+- Uw avec triple 52 mm + Warm Edge : **0,66 W/(m²K)**
+- Certification : IFT Rosenheim, EN 12608 Classe A
+- Garantie : 40 ans profilé
+
+**Salamander bluEvolution 82 (solution nZEB économique) :**
+- 6 chambres, 82 mm, Uf = 1,0 W/(m²K)
+- Uw avec triple 44 mm : **0,80-0,88 W/(m²K)** — nZEB marginal
+
+### Aluminium avec rupture de pont thermique — nZEB design premium
+
+**Alumil S77 Supreme :**
+- 77 mm, rupture thermique polyamide 34 mm, Uf = 1,3 W/(m²K)
+- Uw avec triple 44 mm : **1,0-1,15 W/(m²K)** — à la limite nZEB Zone II
+
+**Limitation importante :** L'aluminium standard ne peut pas atteindre Uw ≤ 0,85 W/(m²K).
+
+## Section 3 — Configuration optimale du vitrage pour nZEB
+
+### Pack de vitrage recommandé (standard Neofort BIZ)
+
+**Triple 44 mm Saint-Gobain SGG :**
+4 mm Float / 16 mm Argon 90% / 4 mm Float Low-E / 16 mm Argon 90% / 4 mm Float
+
+- Ug = **0,5 W/(m²K)**
+- Facteur solaire g = 0,32 (Low-E en position 2)
+- Transmittance lumineuse TL = 70%
+- Atténuation acoustique Rw = 34-36 dB
+
+**Espaceur Warm Edge — obligatoire pour nZEB :**
+- λ = 0,15-0,2 W/(mK) vs λ = 160 W/(mK) pour l'aluminium
+- Réduit le pont thermique marginal de Ψg = 0,1 à Ψg = 0,03 W/(mK)
+- Élimine la condensation sur le bord intérieur du vitrage
+
+**Variantes Low-E selon l'orientation :**
+- **Façade N/E :** Low-E avec g = 0,55-0,62 — maximise les apports solaires utiles
+- **Façade S/O :** Low-E avec g = 0,28-0,35 — limite la surchauffe estivale
+- **Façade E/O :** Low-E équilibré g = 0,40-0,50
+
+## Section 4 — La pose correcte pour nZEB
+
+Le profilé le plus performant perd **30-50% de son efficacité** avec une mauvaise pose. La norme RAL définit 3 zones obligatoires :
+
+**Zone extérieure :** Bande précomprimée en butyle (Illbruck TP600) — ≥ 600 Pa étanche à l'eau, 20-25 ans de durabilité
+
+**Zone médiane :** Mousse PU à cellules semi-ouvertes — isolation thermique et acoustique
+
+**Zone intérieure :** Film PE pare-vapeur — empêche la condensation dans la structure du mur
+
+**Précadres Blaugelb Triotherm+ (option recommandée) :**
+- Matériau composite λ = 0,035 W/(mK) — comparable à la laine minérale
+- Réduit ψ périphérique de 0,08 à 0,01 W/(mK)
+- Certification PassivHaus Institut (PHI)
+
+### Positionnement de la fenêtre dans le mur isolé
+
+**Erreur fréquente :** Fenêtre montée au milieu de l'épaisseur du mur laisse le cadre thermiquement exposé des deux côtés.
+
+**Correct pour nZEB :** Fenêtre dans le tiers extérieur de l'épaisseur du mur (ou sur précadre) élimine le pont thermique périphérique.
+
+## Section 5 — Coûts réels 2026
+
+### Prix indicatifs fenêtres nZEB (pose incluse)
+
+| Type | Dimension | Profilé | Prix |
+|---|---|---|---|
+| Fenêtre oscillo-battante | 80×120 cm | Salamander bluEvolution 92, triple | 290-360 € |
+| Fenêtre oscillo-battante | 100×150 cm | Salamander bluEvolution 92, triple | 360-440 € |
+| Fenêtre double vantail | 150×120 cm | Salamander bluEvolution 92, triple | 560-700 € |
+| Coulissant aluminium | 200×230 cm | Alumil Smartia, triple | 900-1 200 € |
+| Porte d'entrée | 90×210 cm | Salamander SF85, triple | 700-1 000 € |
+
+*Hors TVA, pose standard sans précadres
+
+### Calcul d'amortissement pour une maison de 120 m²
+
+| Investissement supplémentaire vs double standard | Économie annuelle | Amortissement |
 |---|---|---|
-| Simple ancien | 4,8 | 6.048 |
-| Ancien double | 2,0 | 2.520 |
-| Double moderne | 1,2 | 1.512 |
-| **Triple nZEB** | **0,72** | **907** |
+| +3 000 € (triple vs double, 12 fenêtres) | 194 €/an | ~15 ans |
+| +700 € (précadres Blaugelb, 12 unités) | +70 €/an supplémentaire | ~10 ans |
 
-## Profils recommandés
+## FAQ complet — Fenêtres nZEB Roumanie
 
-**Salamander bluEvolution 92 :** 6 chambres, 92 mm, Uf = 0,95, Uw = **0,72 W/(m²K)** avec triple + Warm Edge.
+**Quel Uw est requis pour nZEB ?**
+Normes roumaines : Uw ≤ 1,0 W/(m²K) pour la Zone II climatique (Bucarest, Ilfov). **Recommandation Neofort BIZ :** Uw ≤ 0,85 W/(m²K) avec marge de sécurité.
 
-## Pose correcte nZEB
+**Le triple vitrage est-il obligatoire pour nZEB ?**
+Il n'y a pas d'obligation légale explicite pour le triple vitrage. Obligatoire est d'atteindre Uw ≤ 1,0 W/(m²K). En pratique, le triple vitrage (Ug=0,5) offre une marge de sécurité et des performances supérieures.
 
-3 zones RAL obligatoires : extérieur (bande précomprimée), milieu (mousse PU), intérieur (pare-vapeur).
+**Quels profilés sont les meilleurs pour nZEB en Roumanie ?**
+Salamander bluEvolution 92 (Uf=0,95 W/m²K) est le leader de performance PVC disponible en Roumanie. Avec triple 44 mm Saint-Gobain + Warm Edge, il atteint Uw=0,72 — 28% sous la limite légale.
 
-Précadres Blaugelb Triotherm+ disponibles comme option recommandée — certifiés PHI.
+**La pose compte-t-elle ?**
+Énormément. Un profilé bluEvolution 92 sans bandes précomprimées et avec pont thermique peut atteindre un Uw effectif de 1,2-1,4 W/(m²K) — le double de la spécification technique. La pose RAL avec 3 zones est essentielle.
 
-## FAQ
+**Aluminium ou PVC pour nZEB ?**
+PVC pour Uw maximal et rapport qualité-prix. Aluminium pour grandes surfaces vitrées (>150 cm), grandes baies coulissantes et design architectural premium. Mix pour les villas.
 
-**Quel Uw pour nZEB ?** ≤ 1,0 W/(m²K) zone II. Recommandé : ≤ 0,85 W/(m²K).
+**Quelles certifications doivent avoir les fenêtres nZEB ?**
+- Déclaration de Performance (DoP) selon le Règlement des Produits de Construction (CPR) 305/2011
+- Marquage CE obligatoire
+- Test EN 14351-1
+- Certification profilé : IFT Rosenheim ou TÜV pour Uf déclaré
 
-**Le triple est-il obligatoire ?** Non, mais nécessaire pour une marge confortable.
+**Quelles sont les fenêtres les plus efficaces sur le marché roumain 2026 ?**
+Salamander bluEvolution 92 + triple 52 mm Saint-Gobain + Warm Edge + précadres Blaugelb : **Uw = 0,66 W/(m²K)** — le meilleur système disponible commercialement en Roumanie.
 
-**Meilleurs profilés Roumanie 2026 ?** Salamander bluEvolution 92 + triple 44 mm + Warm Edge = Uw 0,72.
+## Conclusion
 
-**La pose compte-t-elle ?** Énormément — une mauvaise pose double le Uw effectif à 1,2-1,4.
+L'ordre de priorité correct pour les fenêtres nZEB :
+
+1. **D'abord le vitrage :** triple avec argon + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
+2. **Puis le profilé :** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
+3. **La pose :** bandes précomprimées + 3 zones d'étanchéité
+4. **Les précadres** (optionnel mais recommandé) : Blaugelb Triotherm+
+5. **Résultat :** Uw = 0,72 W/(m²K) — 28% sous la limite légale
+
+Résultat : maison nZEB avec ≤ 100 kWh/m²/an, factures d'énergie réduites de 40-60%, confort thermique garanti sur 40+ ans.
 
 ---
 
-Neofort BIZ — spécialiste fenêtres nZEB à Bucarest et Ilfov. [Consultation technique gratuite](/fr/contact).`,
-      es: `## ¿Qué es la norma nZEB en Rumanía?
+**Articles connexes :**
+- [PVC ou Aluminium pour maisons nZEB en 2026 ?](/fr/blog/pvc-ou-aluminium-maisons-nzeb-2026-guide-complet)
+- [Triple vs Double vitrage : économies réelles sur le chauffage](/fr/blog/triple-vs-double-vitrage-economies-reelles-chauffage-prix)
+- [Système nZEB complet : Salamander + Blaugelb + triple vitrage](/fr/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage)
 
-**nZEB** es obligatoria desde 2021. Consumo de energía primaria ≤ 100 kWh/m²/año. Las ventanas representan **el 40-50% de las pérdidas térmicas totales** en casas bien aisladas.
+Neofort BIZ — spécialiste fenêtres nZEB à Bucarest et Ilfov. [Consultation technique gratuite pour votre projet nZEB](/fr/contact).`,
+      es: `## ¿Qué es la norma nZEB en Rumanía y por qué las ventanas son críticas?
 
-## Valores técnicos mínimos
+**nZEB (Nearly Zero Energy Building)** es la norma obligatoria impuesta por la Directiva 2010/31/UE sobre la eficiencia energética de los edificios (DEEE) y transpuesta a la legislación rumana mediante la Ley 372/2005 modificada y el HG 765/2016.
 
-| Zona climática | Uw máx. | Aplicación |
+**Lo que nZEB exige concretamente:**
+- Consumo de energía primaria: ≤ 100 kWh/m²/año
+- Requisito mínimo de energías renovables: ≥ 10% del consumo total
+- Aplicabilidad: todas las nuevas construcciones en Rumanía desde 2021
+
+**Por qué las ventanas son críticas:**
+En una casa con paredes aisladas a 20 cm (U = 0,20 W/m²K) y tejado a 30 cm (U = 0,15 W/m²K), las ventanas representan la principal fuente de pérdidas térmicas — 3-4 veces más por m² que la pared. Con un 15% de la envolvente acristalada, las ventanas pueden representar **el 40-50% de las pérdidas totales**.
+
+## Sección 1 — Valores técnicos mínimos para ventanas nZEB
+
+### Coeficiente Uw — Umbrales obligatorios
+
+| Zona climática | Uw máximo admitido | Aplicabilidad |
 |---|---|---|
-| Zona I | 1,10 W/(m²K) | Sureste |
-| **Zona II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Muntenia |
-| Zona III | 0,85 W/(m²K) | Transilvania |
+| Zona I (llanura, costa) | 1,10 W/(m²K) | Sureste, Dobrogea |
+| **Zona II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Muntenia, Oltenia |
+| Zona III (colinas, montaña) | 0,85 W/(m²K) | Transilvania, Moldavia |
+| Zona IV (alta montaña) | 0,70 W/(m²K) | Cárpatos |
 
-**Recomendación Neofort BIZ:** Uw ≤ 0,85 W/(m²K) con margen de seguridad.
+**Recomendación práctica para nZEB:** Uw ≤ 0,85 W/(m²K) para la Zona II (Bucarest) — con un margen del 15% respecto al límite legal de 1,0 W/(m²K).
 
-**Q = U × A × ΔT × t** — Pérdidas anuales casa 120 m², 18 m² acristalados:
+### Parámetros técnicos completos para ventanas nZEB
 
-| Tipo de ventana | Uw | Pérdidas (kWh/año) |
+| Parámetro | Valor mínimo | Recomendado | Óptimo |
+|---|---|---|---|
+| Uw (W/m²K) | ≤ 1,00 | ≤ 0,85 | ≤ 0,72 |
+| Ug (W/m²K) | ≤ 0,70 | ≤ 0,60 | ≤ 0,50 |
+| Factor solar g | 0,30-0,60 | 0,30-0,45 (S/O) | 0,55+ (N/E) |
+| Permeabilidad al aire | Clase 3 | **Clase 4** | Clase 4 |
+| Atenuación acústica Rw (dB) | 30 | 38 | 42+ |
+| Separador de acristalamiento | Aluminio | **Warm Edge** | Warm Edge |
+
+### Cálculo del consumo energético
+
+**Fórmula de transferencia térmica:**
+
+**Q = U × A × ΔT × t**
+
+**Aplicado a una casa de 120 m² en Bucarest (Zona II):**
+- Superficie acristalada total: 18 m² (15% de la envolvente)
+- ΔT media estación fría: 20°C (22°C interior − 2°C media)
+- Horas estación fría: 3.500 horas
+
+| Tipo de ventanas | Uw | Q anual (kWh) | Coste anual* |
+|---|---|---|---|
+| Antiguo vidrio simple | 4,8 | 6.048 | ~726 € |
+| Antiguo doble estándar | 2,0 | 2.520 | ~302 € |
+| Doble moderno | 1,2 | 1.512 | ~181 € |
+| **Triple nZEB recomendado** | **0,72** | **907** | **~109 €** |
+| Premium casa pasiva | 0,55 | 693 | ~83 € |
+
+*Precio energía 0,12 €/kWh (2026)
+
+## Sección 2 — Tipos de perfiles recomendados para nZEB
+
+### PVC Premium — La solución estándar nZEB
+
+**Salamander bluEvolution 92 (recomendado por Neofort BIZ):**
+- 6 cámaras, profundidad 92 mm
+- Uf = 0,95 W/(m²K) — líder de su clase
+- Estabilizadores Ca-Zn (sin plomo, sin cadmio) — conforme REACH
+- 3 juntas EPDM
+- Uw con triple 44 mm + Warm Edge: **0,72 W/(m²K)**
+- Uw con triple 52 mm + Warm Edge: **0,66 W/(m²K)**
+- Certificación: IFT Rosenheim, EN 12608 Clase A
+- Garantía: 40 años perfil
+
+**Salamander bluEvolution 82 (solución nZEB económica):**
+- 6 cámaras, 82 mm, Uf = 1,0 W/(m²K)
+- Uw con triple 44 mm: **0,80-0,88 W/(m²K)** — nZEB marginal
+
+### Aluminio con rotura de puente térmico — nZEB con diseño premium
+
+**Alumil S77 Supreme:**
+- 77 mm, rotura de puente térmico poliamida 34 mm, Uf = 1,3 W/(m²K)
+- Uw con triple 44 mm: **1,0-1,15 W/(m²K)** — en el límite nZEB Zona II
+
+**Limitación importante:** El aluminio estándar no puede alcanzar Uw ≤ 0,85 W/(m²K).
+
+## Sección 3 — Configuración óptima del acristalamiento para nZEB
+
+### Paquete de acristalamiento recomendado (estándar Neofort BIZ)
+
+**Triple 44 mm Saint-Gobain SGG:**
+4 mm Float / 16 mm Argón 90% / 4 mm Float Low-E / 16 mm Argón 90% / 4 mm Float
+
+- Ug = **0,5 W/(m²K)**
+- Factor solar g = 0,32 (Low-E en posición 2)
+- Transmitancia luminosa TL = 70%
+- Atenuación acústica Rw = 34-36 dB
+
+**Separador Warm Edge — obligatorio para nZEB:**
+- λ = 0,15-0,2 W/(mK) vs λ = 160 W/(mK) para aluminio
+- Reduce el puente térmico marginal de Ψg = 0,1 a Ψg = 0,03 W/(mK)
+- Elimina la condensación en el borde interior del vidrio
+
+**Variantes Low-E según orientación:**
+- **Fachada N/E:** Low-E con g = 0,55-0,62 — maximiza la ganancia solar útil
+- **Fachada S/O:** Low-E con g = 0,28-0,35 — limita el sobrecalentamiento veraniego
+- **Fachada E/O:** Low-E equilibrado g = 0,40-0,50
+
+## Sección 4 — La instalación correcta para nZEB
+
+El perfil más eficiente pierde **el 30-50% de su eficiencia** con una instalación incorrecta. La norma RAL define 3 zonas obligatorias:
+
+**Zona exterior:** Banda precomprimida de butilo (Illbruck TP600) — ≥ 600 Pa estanca al agua, 20-25 años de durabilidad
+
+**Zona media:** Espuma de PU de celda semiabierta — aislamiento térmico y acústico
+
+**Zona interior:** Lámina PE barrera de vapor — evita la condensación en la estructura del muro
+
+**Premarcos Blaugelb Triotherm+ (opción recomendada):**
+- Material compuesto λ = 0,035 W/(mK) — comparable a la lana mineral
+- Reduce ψ perimetral de 0,08 a 0,01 W/(mK)
+- Certificación PassivHaus Institut (PHI)
+
+### Posicionamiento de la ventana en el muro aislado
+
+**Error frecuente:** Ventana montada en el centro del espesor del muro deja el marco térmicamente expuesto por ambas caras.
+
+**Correcto para nZEB:** Ventana en el tercio exterior del espesor del muro (o sobre premarco) elimina el puente térmico perimetral.
+
+## Sección 5 — Costes reales 2026
+
+### Precios orientativos ventanas nZEB (instalación incluida)
+
+| Tipo | Dimensión | Perfil | Precio |
+|---|---|---|---|
+| Ventana oscilo-batiente | 80×120 cm | Salamander bluEvolution 92, triple | 290-360 € |
+| Ventana oscilo-batiente | 100×150 cm | Salamander bluEvolution 92, triple | 360-440 € |
+| Ventana doble hoja | 150×120 cm | Salamander bluEvolution 92, triple | 560-700 € |
+| Corredera aluminio | 200×230 cm | Alumil Smartia, triple | 900-1.200 € |
+| Puerta de entrada | 90×210 cm | Salamander SF85, triple | 700-1.000 € |
+
+*Sin IVA, instalación estándar sin premarcos
+
+### Cálculo de amortización para una casa de 120 m²
+
+| Inversión adicional vs doble estándar | Ahorro anual | Amortización |
 |---|---|---|
-| Simple antiguo | 4,8 | 6.048 |
-| Doble antiguo | 2,0 | 2.520 |
-| Doble moderno | 1,2 | 1.512 |
-| **Triple nZEB** | **0,72** | **907** |
+| +3.000 € (triple vs doble, 12 ventanas) | 194 €/año | ~15 años |
+| +700 € (premarcos Blaugelb, 12 unidades) | +70 €/año adicional | ~10 años |
 
-## Perfiles recomendados
+## FAQ completo — Ventanas nZEB Rumanía
 
-**Salamander bluEvolution 92:** 6 cámaras, 92 mm, Uf = 0,95, Uw = **0,72 W/(m²K)** con triple + Warm Edge.
+**¿Qué Uw se requiere para nZEB?**
+Normas rumanas: Uw ≤ 1,0 W/(m²K) para la Zona II climática (Bucarest, Ilfov). **Recomendación Neofort BIZ:** Uw ≤ 0,85 W/(m²K) con margen de seguridad.
 
-## Instalación correcta nZEB
+**¿Es obligatorio el triple acristalamiento para nZEB?**
+No hay obligación legal explícita para el triple acristalamiento. Obligatorio es alcanzar Uw ≤ 1,0 W/(m²K). En la práctica, el triple (Ug=0,5) ofrece margen de seguridad y prestaciones superiores.
 
-3 zonas RAL obligatorias: exterior (banda precomprimida), media (espuma PU), interior (barrera de vapor).
+**¿Qué perfiles son los mejores para nZEB en Rumanía?**
+Salamander bluEvolution 92 (Uf=0,95 W/m²K) es el líder de rendimiento PVC disponible en Rumanía. Con triple 44 mm Saint-Gobain + Warm Edge alcanza Uw=0,72 — el 28% por debajo del límite legal.
 
-Premarcos Blaugelb Triotherm+ disponibles como opción recomendada — certificados PHI.
+**¿Importa la instalación?**
+Enormemente. Un perfil bluEvolution 92 sin bandas precomprimidas y con puente térmico puede alcanzar un Uw efectivo de 1,2-1,4 W/(m²K) — el doble de la especificación técnica. La instalación RAL con 3 zonas es esencial.
 
-## FAQ
+**¿Aluminio o PVC para nZEB?**
+PVC para Uw máximo y eficiencia de costes. Aluminio para grandes superficies acristaladas (>150 cm), grandes correderas y diseño arquitectónico premium. Mix para villas.
 
-**¿Qué Uw para nZEB?** ≤ 1,0 W/(m²K) zona II. Recomendado: ≤ 0,85 W/(m²K).
+**¿Qué certificaciones deben tener las ventanas nZEB?**
+- Declaración de Prestaciones (DoP) según el Reglamento de Productos de Construcción (CPR) 305/2011
+- Marcado CE obligatorio
+- Ensayo EN 14351-1
+- Certificación del perfil: IFT Rosenheim o TÜV para Uf declarado
 
-**¿Es obligatorio el triple?** No explícitamente, pero necesario para margen cómodo.
+**¿Cuáles son las ventanas más eficientes en el mercado rumano 2026?**
+Salamander bluEvolution 92 + triple 52 mm Saint-Gobain + Warm Edge + premarcos Blaugelb: **Uw = 0,66 W/(m²K)** — el mejor sistema disponible comercialmente en Rumanía.
 
-**Mejores perfiles Rumanía 2026?** Salamander bluEvolution 92 + triple 44 mm + Warm Edge = Uw 0,72.
+## Conclusión
 
-**¿Importa la instalación?** Enormemente — una mala instalación duplica el Uw efectivo a 1,2-1,4.
+El orden correcto de prioridades para ventanas nZEB:
+
+1. **Primero el acristalamiento:** triple con argón + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
+2. **Luego el perfil:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
+3. **La instalación:** bandas precomprimidas + 3 zonas de sellado
+4. **Los premarcos** (opcional pero recomendado): Blaugelb Triotherm+
+5. **Resultado:** Uw = 0,72 W/(m²K) — el 28% por debajo del límite legal
+
+Resultado: casa nZEB con ≤ 100 kWh/m²/año, facturas energéticas reducidas un 40-60%, confort térmico garantizado durante 40+ años.
 
 ---
 
-Neofort BIZ — especialista ventanas nZEB en Bucarest e Ilfov. [Consulta técnica gratuita](/es/contact).`,
-      it: `## Cos'è lo standard nZEB in Romania?
+**Artículos relacionados:**
+- [¿PVC o Aluminio para casas nZEB en 2026?](/es/blog/pvc-o-aluminio-casas-nzeb-2026-guia-completa)
+- [Triple vs Doble Acristalamiento: Ahorros reales en calefacción](/es/blog/triple-vs-doble-acristalamiento-ahorros-reales-calefaccion-precio)
+- [Sistema nZEB completo: Salamander + Blaugelb + triple acristalamiento](/es/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento)
 
-**nZEB** è obbligatorio dal 2021. Consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre rappresentano **il 40-50% delle dispersioni termiche totali** nelle case ben isolate.
+Neofort BIZ — especialista en ventanas nZEB en Bucarest e Ilfov. [Consulta técnica gratuita para su proyecto nZEB](/es/contact).`,
+      it: `## Cos'è lo standard nZEB in Romania e perché le finestre sono critiche?
 
-## Valori tecnici minimi
+**nZEB (Nearly Zero Energy Building)** è lo standard obbligatorio imposto dalla Direttiva 2010/31/UE sulla prestazione energetica degli edifici (EPBD) e recepito nella legislazione rumena dalla Legge 372/2005 modificata e dal HG 765/2016.
 
-| Zona climatica | Uw max. | Applicazione |
+**Cosa richiede concretamente nZEB:**
+- Consumo di energia primaria: ≤ 100 kWh/m²/anno
+- Requisito minimo da fonti rinnovabili: ≥ 10% del consumo totale
+- Applicabilità: tutte le nuove costruzioni in Romania dal 2021
+
+**Perché le finestre sono critiche:**
+In una casa con pareti isolate a 20 cm (U = 0,20 W/m²K) e tetto a 30 cm (U = 0,15 W/m²K), le finestre rappresentano la principale fonte di dispersioni termiche — 3-4 volte più per m² della parete. Con il 15% della superficie dell'involucro vetrata, le finestre possono rappresentare **il 40-50% delle dispersioni totali**.
+
+## Sezione 1 — Valori tecnici minimi per finestre nZEB
+
+### Coefficiente Uw — Soglie obbligatorie
+
+| Zona climatica | Uw massimo ammesso | Applicabilità |
 |---|---|---|
-| Zona I | 1,10 W/(m²K) | Sud-Est |
-| **Zona II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Muntenia |
-| Zona III | 0,85 W/(m²K) | Transilvania |
+| Zona I (pianura, costa) | 1,10 W/(m²K) | Sud-Est, Dobrogea |
+| **Zona II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Muntenia, Oltenia |
+| Zona III (colline, montagna) | 0,85 W/(m²K) | Transilvania, Moldavia |
+| Zona IV (alta montagna) | 0,70 W/(m²K) | Carpazi |
 
-**Raccomandazione Neofort BIZ:** Uw ≤ 0,85 W/(m²K) con margine di sicurezza.
+**Raccomandazione pratica per nZEB:** Uw ≤ 0,85 W/(m²K) per la Zona II (Bucarest) — con un margine del 15% rispetto al limite legale di 1,0 W/(m²K).
 
-**Q = U × A × ΔT × t** — Dispersioni annue casa 120 m², 18 m² vetrati:
+### Parametri tecnici completi per finestre nZEB
 
-| Tipo di finestra | Uw | Dispersioni (kWh/anno) |
+| Parametro | Valore minimo | Raccomandato | Ottimale |
+|---|---|---|---|
+| Uw (W/m²K) | ≤ 1,00 | ≤ 0,85 | ≤ 0,72 |
+| Ug (W/m²K) | ≤ 0,70 | ≤ 0,60 | ≤ 0,50 |
+| Fattore solare g | 0,30-0,60 | 0,30-0,45 (S/O) | 0,55+ (N/E) |
+| Permeabilità all'aria | Classe 3 | **Classe 4** | Classe 4 |
+| Attenuazione acustica Rw (dB) | 30 | 38 | 42+ |
+| Distanziale vetrocamera | Alluminio | **Warm Edge** | Warm Edge |
+
+### Calcolo del consumo energetico
+
+**Formula di trasferimento termico:**
+
+**Q = U × A × ΔT × t**
+
+**Applicato a una casa di 120 m² a Bucarest (Zona II):**
+- Superficie vetrata totale: 18 m² (15% dell'involucro)
+- ΔT media stagione fredda: 20°C (22°C interno − 2°C media)
+- Ore stagione fredda: 3.500 ore
+
+| Tipo di finestre | Uw | Q annuo (kWh) | Costo annuo* |
+|---|---|---|---|
+| Vecchio vetro semplice | 4,8 | 6.048 | ~726 € |
+| Vecchio doppio standard | 2,0 | 2.520 | ~302 € |
+| Doppio moderno | 1,2 | 1.512 | ~181 € |
+| **Triplo nZEB consigliato** | **0,72** | **907** | **~109 €** |
+| Premium casa passiva | 0,55 | 693 | ~83 € |
+
+*Prezzo energia 0,12 €/kWh (2026)
+
+## Sezione 2 — Tipi di profili consigliati per nZEB
+
+### PVC Premium — La soluzione standard nZEB
+
+**Salamander bluEvolution 92 (consigliato da Neofort BIZ):**
+- 6 camere, profondità 92 mm
+- Uf = 0,95 W/(m²K) — il migliore della categoria
+- Stabilizzanti Ca-Zn (senza piombo, senza cadmio) — conforme REACH
+- 3 guarnizioni EPDM
+- Uw con triplo 44 mm + Warm Edge: **0,72 W/(m²K)**
+- Uw con triplo 52 mm + Warm Edge: **0,66 W/(m²K)**
+- Certificazione: IFT Rosenheim, EN 12608 Classe A
+- Garanzia: 40 anni profilo
+
+**Salamander bluEvolution 82 (soluzione nZEB economica):**
+- 6 camere, 82 mm, Uf = 1,0 W/(m²K)
+- Uw con triplo 44 mm: **0,80-0,88 W/(m²K)** — nZEB marginale
+
+### Alluminio con taglio termico — nZEB con design premium
+
+**Alumil S77 Supreme:**
+- 77 mm, taglio termico poliammide 34 mm, Uf = 1,3 W/(m²K)
+- Uw con triplo 44 mm: **1,0-1,15 W/(m²K)** — al limite nZEB Zona II
+
+**Limitazione importante:** L'alluminio standard non può raggiungere Uw ≤ 0,85 W/(m²K).
+
+## Sezione 3 — Configurazione ottimale della vetrocamera per nZEB
+
+### Pacchetto vetrocamera consigliato (standard Neofort BIZ)
+
+**Triplo 44 mm Saint-Gobain SGG:**
+4 mm Float / 16 mm Argon 90% / 4 mm Float Low-E / 16 mm Argon 90% / 4 mm Float
+
+- Ug = **0,5 W/(m²K)**
+- Fattore solare g = 0,32 (Low-E in posizione 2)
+- Trasmittanza luminosa TL = 70%
+- Attenuazione acustica Rw = 34-36 dB
+
+**Distanziale Warm Edge — obbligatorio per nZEB:**
+- λ = 0,15-0,2 W/(mK) vs λ = 160 W/(mK) per alluminio
+- Riduce il ponte termico marginale da Ψg = 0,1 a Ψg = 0,03 W/(mK)
+- Elimina la condensa sul bordo interno del vetro
+
+**Varianti Low-E per orientamento:**
+- **Facciata N/E:** Low-E con g = 0,55-0,62 — massimizza gli apporti solari utili
+- **Facciata S/O:** Low-E con g = 0,28-0,35 — limita il surriscaldamento estivo
+- **Facciata E/O:** Low-E equilibrato g = 0,40-0,50
+
+## Sezione 4 — L'installazione corretta per nZEB
+
+Il profilo più performante perde **il 30-50% della sua efficienza** con un'installazione errata. La norma RAL definisce 3 zone obbligatorie:
+
+**Zona esterna:** Nastro precompresso in butile (Illbruck TP600) — ≥ 600 Pa impermeabile, 20-25 anni di durabilità
+
+**Zona mediana:** Schiuma PU a cellula semi-aperta — isolamento termico e acustico
+
+**Zona interna:** Film PE barriera vapore — previene la condensa nella struttura del muro
+
+**Precornici Blaugelb Triotherm+ (opzione raccomandata):**
+- Materiale composito λ = 0,035 W/(mK) — paragonabile alla lana minerale
+- Riduce ψ perimetrale da 0,08 a 0,01 W/(mK)
+- Certificazione PassivHaus Institut (PHI)
+
+### Posizionamento della finestra nel muro isolato
+
+**Errore frequente:** Finestra montata al centro dello spessore del muro lascia il telaio termicamente esposto su entrambe le facce.
+
+**Corretto per nZEB:** Finestra nel terzo esterno dello spessore del muro (o su precornice) elimina il ponte termico perimetrale.
+
+## Sezione 5 — Costi reali 2026
+
+### Prezzi indicativi finestre nZEB (installazione inclusa)
+
+| Tipo | Dimensione | Profilo | Prezzo |
+|---|---|---|---|
+| Finestra anta-ribalta | 80×120 cm | Salamander bluEvolution 92, triplo | 290-360 € |
+| Finestra anta-ribalta | 100×150 cm | Salamander bluEvolution 92, triplo | 360-440 € |
+| Finestra doppio anta | 150×120 cm | Salamander bluEvolution 92, triplo | 560-700 € |
+| Scorrevole alluminio | 200×230 cm | Alumil Smartia, triplo | 900-1.200 € |
+| Porta d'ingresso | 90×210 cm | Salamander SF85, triplo | 700-1.000 € |
+
+*IVA esclusa, installazione standard senza precornici
+
+### Calcolo dell'ammortamento per una casa di 120 m²
+
+| Investimento aggiuntivo vs doppio standard | Risparmio annuo | Ammortamento |
 |---|---|---|
-| Semplice antico | 4,8 | 6.048 |
-| Doppio antico | 2,0 | 2.520 |
-| Doppio moderno | 1,2 | 1.512 |
-| **Triplo nZEB** | **0,72** | **907** |
+| +3.000 € (triplo vs doppio, 12 finestre) | 194 €/anno | ~15 anni |
+| +700 € (precornici Blaugelb, 12 unità) | +70 €/anno aggiuntivo | ~10 anni |
 
-## Profili consigliati
+## FAQ completo — Finestre nZEB Romania
 
-**Salamander bluEvolution 92:** 6 camere, 92 mm, Uf = 0,95, Uw = **0,72 W/(m²K)** con triplo + Warm Edge.
+**Quale Uw è richiesto per nZEB?**
+Norme romene: Uw ≤ 1,0 W/(m²K) per la Zona II climatica (Bucarest, Ilfov). **Raccomandazione Neofort BIZ:** Uw ≤ 0,85 W/(m²K) con margine di sicurezza.
 
-## Installazione corretta nZEB
+**Il triplo vetro è obbligatorio per nZEB?**
+Non esiste un obbligo legale esplicito per il triplo vetro. Obbligatorio è raggiungere Uw ≤ 1,0 W/(m²K). In pratica, il triplo (Ug=0,5) offre margine di sicurezza e prestazioni superiori.
 
-3 zone RAL obbligatorie: esterno (nastro precompresso), medio (schiuma PU), interno (barriera vapore).
+**Quali profili sono i migliori per nZEB in Romania?**
+Salamander bluEvolution 92 (Uf=0,95 W/m²K) è il leader di prestazioni PVC disponibile in Romania. Con triplo 44 mm Saint-Gobain + Warm Edge raggiunge Uw=0,72 — il 28% sotto il limite legale.
 
-Precornici Blaugelb Triotherm+ disponibili come opzione raccomandata — certificati PHI.
+**Conta l'installazione?**
+Enormemente. Un profilo bluEvolution 92 senza nastri precompressi e con ponte termico al davanzale può raggiungere uno Uw effettivo di 1,2-1,4 W/(m²K) — il doppio delle specifiche tecniche. L'installazione RAL con 3 zone è essenziale.
 
-## FAQ
+**Alluminio o PVC per nZEB?**
+PVC per Uw massimo ed efficienza dei costi. Alluminio per grandi superfici vetrate (>150 cm), grandi scorrevoli e design architettonico premium. Mix per ville.
 
-**Quale Uw per nZEB?** ≤ 1,0 W/(m²K) zona II. Raccomandato: ≤ 0,85 W/(m²K).
+**Quali certificazioni devono avere le finestre nZEB?**
+- Dichiarazione di Prestazione (DoP) secondo il Regolamento dei Prodotti da Costruzione (CPR) 305/2011
+- Marcatura CE obbligatoria
+- Test EN 14351-1
+- Certificazione profilo: IFT Rosenheim o TÜV per Uf dichiarato
 
-**Il triplo è obbligatorio?** Non esplicitamente, ma necessario per un margine confortevole.
+**Quali sono le finestre più efficienti sul mercato romeno 2026?**
+Salamander bluEvolution 92 + triplo 52 mm Saint-Gobain + Warm Edge + precornici Blaugelb: **Uw = 0,66 W/(m²K)** — il miglior sistema disponibile commercialmente in Romania.
 
-**Migliori profili Romania 2026?** Salamander bluEvolution 92 + triplo 44 mm + Warm Edge = Uw 0,72.
+## Conclusione
 
-**Conta l'installazione?** Enormemente — una cattiva installazione raddoppia lo Uw effettivo a 1,2-1,4.
+L'ordine corretto di priorità per le finestre nZEB:
+
+1. **Prima la vetrocamera:** triplo con argon + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
+2. **Poi il profilo:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
+3. **L'installazione:** nastri precompressi + 3 zone di sigillatura
+4. **Le precornici** (opzionale ma raccomandato): Blaugelb Triotherm+
+5. **Risultato:** Uw = 0,72 W/(m²K) — il 28% sotto il limite legale
+
+Risultato: casa nZEB con ≤ 100 kWh/m²/anno, bollette energetiche ridotte del 40-60%, comfort termico garantito per 40+ anni.
 
 ---
 
-Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnica gratuita](/it/contact).`,
+**Articoli correlati:**
+- [PVC o Alluminio per case nZEB nel 2026?](/it/blog/pvc-o-alluminio-case-nzeb-2026-guida-completa)
+- [Triplo vs Doppio Vetro: Risparmi reali sul riscaldamento](/it/blog/triplo-vs-doppio-vetro-risparmi-reali-riscaldamento-prezzo)
+- [Sistema nZEB completo: Salamander + Blaugelb + triplo vetro](/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro)
+
+Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnica gratuita per il vostro progetto nZEB](/it/contact).`,
     },
   },
 
@@ -714,212 +1451,773 @@ Strat subțire de oxid metalic depus pe suprafața sticlei. Reflectă radiația 
 Neofort BIZ montează tripan Saint-Gobain SGG cu Warm Edge în București și Ilfov. [Solicită ofertă cu calcul de economii personalizat](/ro/contact).`,
       en: `## Why Triple Glazing Has Become the nZEB Standard
 
-Until 2018, double glazing was the industry norm. Today, for any nZEB construction, triple glazing is the realistic minimum. The reason is mathematical: **Ug** is the most important window parameter — and triple glazing halves it.
+Until 2018, double glazing was the industry norm. Today, for any construction that must achieve nZEB standards, triple glazing is the realistic minimum requirement. The reason is simple and mathematical: **Ug** (the glass thermal transmittance coefficient) is the most important parameter of a window — and triple glazing halves it compared to double.
 
-## Real Technical Difference
+**Myths about thermopane vs triple glazing:**
+- *"Triple glazing is too heavy for windows"* — False: a 100×120 cm triple glazed window weighs ~8 kg more than double; Roto NT hardware handles this without problems
+- *"Triple glazing does not let enough light through"* — False: light transmittance TL = 70% vs 76-78% for double — visually imperceptible difference
+- *"Condensation disappears completely with triple glazing"* — Partly true: central condensation disappears; marginal condensation depends on the spacer (Warm Edge eliminates this too)
 
-**Double standard (32 mm):** Ug = **1.0 W/(m²K)**
-**Triple + argon + Low-E (44 mm):** Ug = **0.5 W/(m²K)** — 50% better
+## Section 1 — The Real Technical Difference
 
-**Heat loss formula: Q = U × A × ΔT × t**
+### Glazing Pack Structure
 
-| Glass type | Uw | Heat lost (kWh/year)* | Cost (€/year)* |
+**Standard double (32 mm total):**
+4 mm glass / 24 mm argon chamber / 4 mm Low-E glass
+- Ug = **1.0 W/(m²K)** with argon
+- Ug = **1.1 W/(m²K)** with air
+
+**Triple with argon and Low-E (44 mm total — Neofort BIZ standard):**
+4 mm / 16 mm argon / 4 mm Low-E / 16 mm argon / 4 mm
+- Ug = **0.5 W/(m²K)** — 50% better than double
+- With Warm Edge: effective Ug on complete window = 0.55-0.60 W/(m²K)
+
+**Premium triple (52 mm — passive house):**
+4 mm / 18 mm argon / 4 mm Low-E / 18 mm argon / 4 mm Low-E
+- Ug = **0.4 W/(m²K)**
+
+### Heat Loss Calculation
+
+Basic formula:
+
+**Q = U × A × ΔT × t**
+
+where:
+- **Q** = heat lost (kWh)
+- **U** = window Uw (W/m²K)
+- **A** = window area (m²)
+- **ΔT** = indoor-outdoor temperature difference (°C)
+- **t** = time (hours)
+
+**Concrete example — 100×120 cm window (1.2 m²), Bucharest:**
+- Average ΔT cold season: 22°C indoor − 2°C winter average = 20°C
+- Cold season hours (Oct-Apr): ~3,500 hours
+
+| Glass type | Uw | Heat lost (kWh/year) | Energy cost (€/year)* |
 |---|---|---|---|
 | Old single (timber) | 4.8 | 403 | ~48 € |
 | Standard double | 1.4 | 118 | ~14 € |
 | Modern double argon | 1.0 | 84 | ~10 € |
 | **Triple + argon** | **0.72** | **60** | **~7 €** |
+| Premium triple | 0.55 | 46 | ~5.5 € |
 
-*Per 1.2 m² window, Bucharest climate
+*Energy price ~0.12 €/kWh (2026)
 
-## Annual Savings: Real Examples
+**Saving triple vs modern double (per 1.2 m² window):** 24 kWh/year = ~€3/year
 
-**50 m² apartment, 6 windows (7.2 m²):**
+## Section 2 — How Much Do You Save Annually: Real Examples
 
-| Current situation | Saving/year | Payback |
+### 50 m² Apartment, 6 Windows (7.2 m² Total)
+
+| Current configuration | Replacement with triple | Saving/year | Payback |
+|---|---|---|---|
+| Old single glazing | New triple windows + installation | ~€380/year | 5-7 years |
+| Old double (pre-2005) | New triple windows + installation | ~€104/year | 8-12 years |
+| Modern double (2010-2020) | New triple windows + installation | ~€33/year | 15-20 years |
+
+### House 120 m², 12 Windows (14.4 m² Total)
+
+| Current configuration | Saving/year | Payback |
 |---|---|---|
-| Old single glazing | ~€380/year | 5-7 years |
-| Old double (pre-2005) | ~€104/year | 8-12 years |
-| Modern double (2010-2020) | ~€33/year | 15-20 years |
+| Old single glazing | ~€760/year | 5-7 years |
+| Old double | ~€208/year | 8-12 years |
+| Modern double | ~€66/year | 15-20 years |
 
-## Real Advantages Beyond Energy Savings
+### Premium Passive House 150 m² (Triple 52 mm)
 
-- **Thermal comfort:** Interior glass at +18°C when -5°C outside (vs +12°C double)
-- **Acoustic insulation:** Rw 34-36 dB vs 28-32 dB — 40% less perceived noise
-- **No condensation:** With Warm Edge spacer, glass stays above dew point
-- **Summer comfort:** Solar factor g=0.32 vs 0.62 — 48% less unwanted solar gain
+Compared to modern double: saving ~€104/year. Compared to standard 44 mm triple: additional saving ~€26/year.
 
-## When Triple Glazing is NOT Worth It
+## Section 3 — Real Advantages of Triple Glazing Beyond Savings
 
-- Uninsulated buildings (windows <20% of losses)
-- South-facing passive solar designs (low g reduces useful solar gain)
-- Functional modern double glazing on tight budgets
+**Thermal comfort**
+Interior glass surface temperature with triple at -5°C outside: +18°C (vs +12°C for double). Practical effect: you can sit next to the window in winter without feeling cold radiant draught.
 
-## FAQ
+**Acoustic insulation — the pleasant surprise**
+Triple glazing (3 panes) has acoustic attenuation Rw = 34-36 dB versus 28-32 dB for double. A 6-8 dB difference means we perceive noise ~40% less loudly. Essential in Bucharest for apartments on busy roads.
 
-**Does triple glazing reduce energy bills?** Yes — 50% less heat loss vs modern double. Saving €66-208/year on 120 m² house.
+**Condensation reduction**
+Dew point temperature at indoor (22°C, 50% relative humidity): 11°C. With triple glazing, the interior glass surface stays at +17-18°C → no condensation. With double, it can drop to 12-14°C → condensation possible at high humidity.
 
-**What is the difference?** Double: 2 panes, 1 gas chamber. Triple: 3 panes, 2 argon chambers. Ug: 1.0 vs 0.5.
+**Solar factor and summer thermal comfort**
+Triple glazing with Low-E on position 2 (facing the middle chamber) has solar factor g = 0.32 versus g = 0.62 for standard double. Result: 48% less unwanted solar gain in summer → less AC consumption.
 
-**Does it reduce noise?** Yes — Rw 34-36 vs 28-32 dB — 40% less perceived noise.
+## Section 4 — When Triple Glazing is NOT Worth It
 
-**What gas is used?** Argon 90% — standard. λ = 0.018 W/(mK). Krypton (λ=0.009) is better but 3-4x more expensive.
+**Thermally uninsulated buildings**
+If walls, roof or floors are not insulated, windows represent less than 20% of losses. Investing in triple glazing is inefficient without envelope insulation.
 
-**What does Low-E mean?** Thin metallic oxide coating reflecting infrared radiation — reduces Ug by 0.3-0.5 W/(m²K).
+**Exclusively south-facing orientations with important solar factor**
+For houses designed with passive solar capture (south-facing with large windows), the low solar factor of triple glazing (g=0.32) can reduce useful solar gain in winter. Triple glazing with g=0.40-0.50 is recommended on the south facade.
+
+**Very limited budgets with functional existing windows**
+If current windows are modern double (Ug=1.0) in good condition, replacing them for savings of €33/year on a small apartment does not financially justify under 15 years. Alternative: replace gaskets and adjust hardware.
+
+**Historic buildings with architectural restrictions**
+The thicker triple glazing profile (44 mm vs 32 mm) may be incompatible with original joinery in listed buildings.
+
+## Full Comparison Table Double vs Triple
+
+| Parameter | Standard double argon | Triple argon + Low-E | Premium triple |
+|---|---|---|---|
+| Ug (W/m²K) | 1.0 | **0.5** | 0.4 |
+| Total thickness | 32 mm | 44 mm | 52 mm |
+| Weight (1.2 m²) | ~16 kg | ~24 kg | ~28 kg |
+| Acoustic attenuation Rw | 28-32 dB | 34-36 dB | 36-40 dB |
+| Solar factor g | 0.62 | 0.32 | 0.28 |
+| Interior condensation | Possible | **Zero** (with Warm Edge) | **Zero** |
+| Premium vs double | — | +15-25% | +30-45% |
+| Payback (apartment) | — | 8-15 years | 15-25 years |
+
+## FAQ — Triple vs Double Glazing
+
+**Does triple glazing reduce the energy bill?**
+Yes. Compared to modern double (Ug=1.0), triple (Ug=0.5) reduces heat loss through glass by 50%. On a 120 m² house, saving €66-208/year depending on what is being replaced.
+
+**What is the difference between thermopane and triple glazing?**
+Thermopane (double) has 2 glass panes and 1 gas chamber (argon or air). Triple has 3 panes and 2 argon chambers. Ug difference: 1.0 vs 0.5 W/(m²K) — 50% better.
+
+**Is the investment worth it?**
+Depends on current state. Against old single glazing: payback 5-7 years. Against old double (pre-2005): 8-12 years. Against functional modern double: 15-20 years.
+
+**Does triple glazing reduce noise?**
+Yes, significantly. Rw = 34-36 dB vs 28-32 dB for double. You perceive noise ~40% less loudly — a major difference for homes on busy roads.
+
+**What thickness is recommended?**
+44 mm (standard triple) for standard residential nZEB. 52 mm (premium triple) for PHI passive houses.
+
+**What gas is used between the panes?**
+Argon (90% concentration) — industry standard. Thermal conductivity λ = 0.018 W/(mK) vs λ = 0.026 for air. Krypton (λ=0.009) is superior but costs 3-4 times more.
+
+**What does Low-E glass mean?**
+Low-E (Low Emissivity) = glass with a thin metallic oxide layer deposited on the surface. Reflects infrared radiation (heat) back into the room in winter and blocks it in summer. Reduces Ug by 0.3-0.5 W/(m²K) compared to clear glass.
+
+## Conclusion — Simple Verdict
+
+**Triple glazing is worth it if:**
+- You are building or fully renovating (new windows anyway)
+- You are replacing old single glazing or old double (pre-2005)
+- You want maximum thermal comfort and good acoustic insulation
+- You are building nZEB or a passive house
+
+**Triple glazing is not worth it if:**
+- You have functional modern double (Ug=1.0, gaskets OK)
+- The building is not thermally insulated
+- Limited budget and other more cost-effective energy efficiency priorities
+
+**Simple rule:** If you are replacing windows anyway, choose triple — the price difference (15-25%) is guaranteed to recover. If current windows are functional, calculate the ROI for your specific situation.
 
 ---
 
-Related: [PVC vs Aluminium nZEB 2026](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide) | [nZEB Windows Romania Guide](/en/blog/windows-nzeb-house-romania-complete-guide-2026) | [Advanced Insulation Windows Bucharest](/en/blog/where-to-order-advanced-insulation-windows-bucharest)
+**Related articles:**
+- [PVC or Aluminium for nZEB Homes in 2026?](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide)
+- [What Windows Should You Choose for an nZEB House in Romania?](/en/blog/windows-nzeb-house-romania-complete-guide-2026)
+- [Where to Order Windows with Advanced Insulation in Bucharest?](/en/blog/where-to-order-advanced-insulation-windows-bucharest)
 
-Neofort BIZ installs Saint-Gobain SGG triple glazing with Warm Edge in Bucharest and Ilfov. [Request personalised savings calculation](/en/contact).`,
+Neofort BIZ installs Saint-Gobain SGG triple glazing with Warm Edge in Bucharest and Ilfov. [Request a quote with personalised savings calculation](/en/contact).`,
       de: `## Warum Dreifachverglasung zum nZEB-Standard wurde
 
-Bis 2018 war Zweifach die Norm. Heute ist Dreifachverglasung für jeden nZEB-Bau das realistische Minimum. **Ug** halbiert sich — von 1,0 auf 0,5 W/(m²K).
+Bis 2018 war Zweifachverglasung die Branchennorm. Heute ist für jeden Bau, der den nZEB-Standard erfüllen muss, Dreifachverglasung die realistische Mindestanforderung. Der Grund ist einfach und mathematisch: **Ug** (der Wärmedurchgangskoeffizient des Glases) ist der wichtigste Parameter eines Fensters — und Dreifachverglasung halbiert ihn gegenüber Zweifachverglasung.
 
-**Wärmeverlustformel: Q = U × A × ΔT × t**
+**Mythen über Thermopane vs. Dreifachverglasung:**
+- *„Dreifachverglasung ist zu schwer für Fenster"* — Falsch: ein 100×120 cm Dreifachverglasungsfenster wiegt ~8 kg mehr als Zweifach; Roto NT Beschläge kommen damit problemlos zurecht
+- *„Dreifachverglasung lässt nicht genug Licht durch"* — Falsch: Lichttransmission TL = 70% vs. 76-78% für Zweifach — visuell nicht wahrnehmbar
+- *„Kondensat verschwindet vollständig bei Dreifachverglasung"* — Teils wahr: Zentralkondensat verschwindet; Randkondensat hängt vom Abstandhalter ab (Warm Edge eliminiert auch dieses)
 
-| Glastyp | Uw | Verlust (kWh/Jahr)* |
+## Abschnitt 1 — Der reale technische Unterschied
+
+### Aufbau des Verglasungspakets
+
+**Zweifach Standard (32 mm gesamt):**
+4 mm Glas / 24 mm Argonkammer / 4 mm Low-E Glas
+- Ug = **1,0 W/(m²K)** mit Argon
+
+**Dreifach mit Argon und Low-E (44 mm gesamt — Neofort BIZ Standard):**
+4 mm / 16 mm Argon / 4 mm Low-E / 16 mm Argon / 4 mm
+- Ug = **0,5 W/(m²K)** — 50% besser als Zweifach
+
+**Premium Dreifach (52 mm — Passivhaus):**
+4 mm / 18 mm Argon / 4 mm Low-E / 18 mm Argon / 4 mm Low-E
+- Ug = **0,4 W/(m²K)**
+
+### Wärmeverlustberechnung
+
+Grundformel:
+
+**Q = U × A × ΔT × t**
+
+wobei: Q = verlorene Wärme (kWh), U = Uw des Fensters (W/m²K), A = Fensterfläche (m²), ΔT = Innen-Außen-Temperaturdifferenz (°C), t = Zeit (Stunden)
+
+**Konkretes Beispiel — 100×120 cm Fenster (1,2 m²), Bukarest:**
+- Mittlere ΔT Kaltsaison: 22°C innen − 2°C Winterdurchschnitt = 20°C
+- Kaltsaisonsstunden (Okt-Apr): ~3.500 Stunden
+
+| Glastyp | Uw | Wärmeverlust (kWh/Jahr) | Energiekosten (€/Jahr)* |
+|---|---|---|---|
+| Altes Einfachglas (Holz) | 4,8 | 403 | ~48 € |
+| Standard Zweifach | 1,4 | 118 | ~14 € |
+| Modernes Zweifach Argon | 1,0 | 84 | ~10 € |
+| **Dreifach + Argon** | **0,72** | **60** | **~7 €** |
+| Premium Dreifach | 0,55 | 46 | ~5,5 € |
+
+*Energiepreis ~0,12 €/kWh (2026)
+
+**Einsparung Dreifach vs. modernes Zweifach (pro 1,2 m² Fenster):** 24 kWh/Jahr = ~3 €/Jahr
+
+## Abschnitt 2 — Wie viel sparen Sie jährlich: Reale Beispiele
+
+### 50 m² Wohnung, 6 Fenster (7,2 m² gesamt)
+
+| Aktuelle Konfiguration | Ersatz durch Dreifach | Einsparung/Jahr | Amortisierung |
+|---|---|---|---|
+| Altes Einfachglas | Neue Dreifachfenster + Montage | ~380 €/Jahr | 5-7 Jahre |
+| Alter Zweifach (vor 2005) | Neue Dreifachfenster + Montage | ~104 €/Jahr | 8-12 Jahre |
+| Moderner Zweifach (2010-2020) | Neue Dreifachfenster + Montage | ~33 €/Jahr | 15-20 Jahre |
+
+### Haus 120 m², 12 Fenster (14,4 m² gesamt)
+
+| Aktuelle Konfiguration | Einsparung/Jahr | Amortisierung |
 |---|---|---|
-| Altes Einfachglas | 4,8 | 403 |
-| Standard Zweifach | 1,4 | 118 |
-| Modernes Zweifach | 1,0 | 84 |
-| **Dreifach + Argon** | **0,72** | **60** |
+| Altes Einfachglas | ~760 €/Jahr | 5-7 Jahre |
+| Alter Zweifach | ~208 €/Jahr | 8-12 Jahre |
+| Moderner Zweifach | ~66 €/Jahr | 15-20 Jahre |
 
-## Jährliche Einsparungen: Reale Beispiele
+## Abschnitt 3 — Reale Vorteile von Dreifachverglasung jenseits der Energieeinsparungen
 
-**50 m² Wohnung, 6 Fenster:**
+**Thermischer Komfort**
+Innere Glasoberflächentemperatur bei Dreifach bei -5°C außen: +18°C (vs. +12°C für Zweifach). Praktischer Effekt: Sie können im Winter neben dem Fenster sitzen, ohne kalte Strahlungszüge zu spüren.
 
-| Aktueller Zustand | Einsparung/Jahr | Amortisierung |
-|---|---|---|
-| Altes Einfachglas | ~380 €/Jahr | 5-7 Jahre |
-| Alter Zweifach (vor 2005) | ~104 €/Jahr | 8-12 Jahre |
-| Moderner Zweifach | ~33 €/Jahr | 15-20 Jahre |
+**Schallschutz — die angenehme Überraschung**
+Dreifachverglasung (3 Scheiben) hat eine Schalldemmmung Rw = 34-36 dB gegenüber 28-32 dB für Zweifach. Ein Unterschied von 6-8 dB bedeutet, dass wir Lärm ~40% weniger laut wahrnehmen. Entscheidend in Bukarest für Wohnungen an viel befahrenen Straßen.
 
-## Wann lohnt sich Dreifachverglasung NICHT?
+**Kondensatreduktion**
+Taupunkttemperatur bei Innenraum (22°C, 50% relative Feuchte): 11°C. Bei Dreifachverglasung bleibt die Innenglasoberfläche bei +17-18°C → kein Kondensat. Bei Zweifach kann sie auf 12-14°C sinken → Kondensat bei hoher Luftfeuchtigkeit möglich.
 
-- Nicht gedämmte Gebäude
-- Reine Südfassaden mit Solarenergiekonzept
-- Funktionierender moderner Zweifach bei kleinem Budget
+**Solarfaktor und sommerlicher Wärmekomfort**
+Dreifachverglasung mit Low-E auf Position 2 hat Solarfaktor g = 0,32 gegenüber g = 0,62 für Standard-Zweifach. Ergebnis: 48% weniger unerwünschter Solargewinn im Sommer → weniger Klimaanlagenverbrauch.
 
-## FAQ
+## Abschnitt 4 — Wann Dreifachverglasung NICHT lohnt
 
-**Spart Dreifach Heizkosten?** Ja — 50% weniger Wärmeverlust. Amortisierung 5-20 Jahre je nach Ausgangssituation.
+**Thermisch nicht gedämmte Gebäude**
+Wenn Wände, Dach oder Decken nicht gedämmt sind, machen Fenster weniger als 20% der Verluste aus. Eine Investition in Dreifachverglasung ist ohne Hülledämmung ineffizient.
 
-**Was bedeutet Low-E?** Metalloxidschicht die Infrarotstrahlung reflektiert — reduziert Ug um 0,3-0,5 W/(m²K).
+**Ausschließlich südseitige Orientierungen mit wichtigem Solarfaktor**
+Für Häuser, die auf passive Solarerfassung ausgelegt sind, kann der niedrige Solarfaktor von Dreifachverglasung (g=0,32) den nutzbaren Solargewinn im Winter reduzieren. Dreifachverglasung mit g=0,40-0,50 wird für die Südfassade empfohlen.
 
-**Wann lohnt sich NICHT?** Bei nicht gedämmten Gebäuden oder funktionierendem modernen Zweifach.
+**Sehr begrenzte Budgets mit funktionierenden vorhandenen Fenstern**
+Wenn aktuelle Fenster modernen Zweifach (Ug=1,0) in gutem Zustand sind, rechtfertigt ein Austausch für 33 €/Jahr Einsparung in einer kleinen Wohnung unter 15 Jahren keine finanzielle Investition.
+
+## Vollständige Vergleichstabelle Zweifach vs. Dreifach
+
+| Parameter | Standard Zweifach Argon | Dreifach Argon + Low-E | Premium Dreifach |
+|---|---|---|---|
+| Ug (W/m²K) | 1,0 | **0,5** | 0,4 |
+| Gesamtdicke | 32 mm | 44 mm | 52 mm |
+| Gewicht (1,2 m²) | ~16 kg | ~24 kg | ~28 kg |
+| Schalldämmung Rw | 28-32 dB | 34-36 dB | 36-40 dB |
+| Solarfaktor g | 0,62 | 0,32 | 0,28 |
+| Innenkondensat | Möglich | **Null** (mit Warm Edge) | **Null** |
+| Aufpreis gegenüber Zweifach | — | +15-25% | +30-45% |
+| Amortisierung (Wohnung) | — | 8-15 Jahre | 15-25 Jahre |
+
+## FAQ — Dreifach vs. Zweifachverglasung
+
+**Reduziert Dreifachverglasung die Energierechnung?**
+Ja. Gegenüber modernem Zweifach (Ug=1,0) reduziert Dreifach (Ug=0,5) Wärmeverluste durch Glas um 50%. Bei einem 120 m² Haus: Einsparung 66-208 €/Jahr je nach was ersetzt wird.
+
+**Was ist der Unterschied zwischen Thermopane und Dreifachverglasung?**
+Thermopane (Zweifach): 2 Glasscheiben, 1 Gaskammer (Argon oder Luft). Dreifach: 3 Scheiben, 2 Argonkammern. Ug-Unterschied: 1,0 vs. 0,5 W/(m²K) — 50% besser.
+
+**Lohnt sich die Investition?**
+Hängt vom Ausgangszustand ab. Gegen altes Einfachglas: Amortisierung 5-7 Jahre. Gegen alten Zweifach (vor 2005): 8-12 Jahre. Gegen funktionierenden modernen Zweifach: 15-20 Jahre.
+
+**Reduziert Dreifachverglasung den Lärm?**
+Ja, deutlich. Rw = 34-36 dB vs. 28-32 dB für Zweifach. Sie nehmen Lärm ~40% leiser wahr — ein wesentlicher Unterschied für Wohnungen an belebten Straßen.
+
+**Welche Dicke wird empfohlen?**
+44 mm (Standard-Dreifach) für Standard-Wohn-nZEB. 52 mm (Premium-Dreifach) für PHI-Passivhäuser.
+
+**Welches Gas wird zwischen den Scheiben verwendet?**
+Argon (90% Konzentration) — Industriestandard. Wärmeleitfähigkeit λ = 0,018 W/(mK) vs. λ = 0,026 für Luft. Krypton (λ=0,009) ist überlegen, kostet aber 3-4 mal mehr.
+
+**Was bedeutet Low-E-Glas?**
+Low-E (Low Emissivity) = Glas mit einer dünnen metalloxidbeschichteten Oberfläche. Reflektiert Infrarotstrahlung (Wärme) im Winter in den Raum zurück und blockiert sie im Sommer. Reduziert Ug um 0,3-0,5 W/(m²K) gegenüber klarem Glas.
+
+## Fazit — Einfaches Urteil
+
+**Dreifachverglasung lohnt sich wenn:**
+- Sie bauen oder vollständig renovieren (sowieso neue Fenster)
+- Sie altes Einfachglas oder alten Zweifach (vor 2005) ersetzen
+- Sie maximalen Wärmekomfort und guten Schallschutz möchten
+- Sie nZEB oder ein Passivhaus bauen
+
+**Dreifachverglasung lohnt sich nicht wenn:**
+- Sie funktionierenden modernen Zweifach (Ug=1,0, Dichtungen OK) haben
+- Das Gebäude nicht thermisch gedämmt ist
+- Begrenztes Budget und andere kostengünstigere Energieeffizienzmaßnahmen
+
+**Einfache Regel:** Wenn Sie Fenster sowieso ersetzen → Dreifach wählen (der Preisunterschied 15-25% amortisiert sich garantiert). Wenn aktuelle Fenster funktionieren → ROI für Ihre spezifische Situation berechnen.
 
 ---
+
+**Verwandte Artikel:**
+- [PVC oder Aluminium für nZEB-Häuser 2026?](/de/blog/pvc-oder-aluminium-nzeb-haeuser-2026-ratgeber)
+- [Welche Fenster für ein nZEB-Haus in Rumänien?](/de/blog/fenster-nzeb-haus-rumaenien-vollstaendiger-ratgeber-2026)
+- [Wo bestelle ich Fenster mit erweiterter Dämmung in Bukarest?](/de/blog/wo-bestelle-ich-fenster-mit-erweiterter-daemmung-bukarest)
 
 Neofort BIZ montiert Saint-Gobain SGG Dreifachverglasung mit Warm Edge in Bukarest und Ilfov. [Angebot mit persönlicher Einsparungsberechnung](/de/kontakt).`,
       fr: `## Pourquoi le triple vitrage est devenu le standard nZEB
 
-Jusqu'en 2018, le double était la norme. Aujourd'hui le triple est le minimum réaliste pour nZEB. Le Ug passe de 1,0 à **0,5 W/(m²K)** — 50% meilleur.
+Jusqu'en 2018, le double vitrage était la norme de l'industrie. Aujourd'hui, pour toute construction qui doit atteindre les standards nZEB, le triple vitrage est l'exigence minimale réaliste. La raison est simple et mathématique : **Ug** (le coefficient de transmission thermique du vitrage) est le paramètre le plus important d'une fenêtre — et le triple vitrage le divise par deux par rapport au double.
 
-**Formule : Q = U × A × ΔT × t**
+**Mythes sur le thermopane vs le triple vitrage :**
+- *« Le triple vitrage est trop lourd pour les fenêtres »* — Faux : une fenêtre triple vitrage 100×120 cm pèse ~8 kg de plus que le double ; la quincaillerie Roto NT gère cela sans problème
+- *« Le triple vitrage ne laisse pas assez de lumière »* — Faux : transmittance lumineuse TL = 70% vs 76-78% pour le double — différence visuellement imperceptible
+- *« La condensation disparaît complètement avec le triple vitrage »* — Partiellement vrai : la condensation centrale disparaît ; la condensation marginale dépend de l'espaceur (Warm Edge l'élimine aussi)
 
-| Type de vitrage | Uw | Pertes (kWh/an)* |
+## Section 1 — La vraie différence technique
+
+### Structure du pack de vitrage
+
+**Double standard (32 mm total) :**
+4 mm verre / 24 mm chambre argon / 4 mm verre Low-E
+- Ug = **1,0 W/(m²K)** avec argon
+
+**Triple argon + Low-E (44 mm total — standard Neofort BIZ) :**
+4 mm / 16 mm argon / 4 mm Low-E / 16 mm argon / 4 mm
+- Ug = **0,5 W/(m²K)** — 50% meilleur que le double
+
+**Triple premium (52 mm — maison passive) :**
+4 mm / 18 mm argon / 4 mm Low-E / 18 mm argon / 4 mm Low-E
+- Ug = **0,4 W/(m²K)**
+
+### Calcul des pertes thermiques
+
+Formule de base :
+
+**Q = U × A × ΔT × t**
+
+où : Q = chaleur perdue (kWh), U = Uw de la fenêtre (W/m²K), A = surface (m²), ΔT = différence de température intérieur-extérieur (°C), t = temps (heures)
+
+**Exemple concret — fenêtre 100×120 cm (1,2 m²), Bucarest :**
+- ΔT moyen saison froide : 22°C intérieur − 2°C moyenne hivernale = 20°C
+- Heures saison froide (oct-avr) : ~3 500 heures
+
+| Type de vitrage | Uw | Chaleur perdue (kWh/an) | Coût énergie (€/an)* |
+|---|---|---|---|
+| Ancien simple (bois) | 4,8 | 403 | ~48 € |
+| Double standard | 1,4 | 118 | ~14 € |
+| Double moderne argon | 1,0 | 84 | ~10 € |
+| **Triple + argon** | **0,72** | **60** | **~7 €** |
+| Triple premium | 0,55 | 46 | ~5,5 € |
+
+*Prix énergie ~0,12 €/kWh (2026)
+
+**Économie triple vs double moderne (par fenêtre 1,2 m²) :** 24 kWh/an = ~3 €/an
+
+## Section 2 — Combien économisez-vous annuellement : exemples réels
+
+### Appartement 50 m², 6 fenêtres (7,2 m² total)
+
+| Configuration actuelle | Remplacement par triple | Économie/an | Amortissement |
+|---|---|---|---|
+| Ancien simple vitrage | Nouvelles fenêtres triple + pose | ~380 €/an | 5-7 ans |
+| Ancien double (avant 2005) | Nouvelles fenêtres triple + pose | ~104 €/an | 8-12 ans |
+| Double moderne (2010-2020) | Nouvelles fenêtres triple + pose | ~33 €/an | 15-20 ans |
+
+### Maison 120 m², 12 fenêtres (14,4 m² total)
+
+| Configuration actuelle | Économie/an | Amortissement |
 |---|---|---|
-| Simple ancien | 4,8 | 403 |
-| Double standard | 1,4 | 118 |
-| Double moderne argon | 1,0 | 84 |
-| **Triple + argon** | **0,72** | **60** |
+| Ancien simple vitrage | ~760 €/an | 5-7 ans |
+| Ancien double | ~208 €/an | 8-12 ans |
+| Double moderne | ~66 €/an | 15-20 ans |
 
-## Économies annuelles réelles — Appartement 50 m², 6 fenêtres
+## Section 3 — Avantages réels du triple vitrage au-delà des économies
 
-| Situation actuelle | Économie/an | Amortissement |
-|---|---|---|
-| Simple ancien | ~380 €/an | 5-7 ans |
-| Ancien double (avant 2005) | ~104 €/an | 8-12 ans |
-| Double moderne | ~33 €/an | 15-20 ans |
+**Confort thermique**
+Température de la surface intérieure du vitrage avec triple à -5°C extérieur : +18°C (vs +12°C pour le double). Effet pratique : vous pouvez vous asseoir près de la fenêtre en hiver sans ressentir le froid rayonnant.
 
-## Quand le triple ne vaut PAS ?
+**Isolation acoustique — la bonne surprise**
+Le triple vitrage (3 vitrages) a une atténuation acoustique Rw = 34-36 dB versus 28-32 dB pour le double. Une différence de 6-8 dB signifie que nous percevons le bruit ~40% moins fort. Essentiel à Bucarest pour les appartements sur axes passants.
 
-- Bâtiments non isolés thermiquement
-- Façades plein sud avec captage solaire passif
-- Double moderne fonctionnel avec petit budget
+**Réduction de la condensation**
+Point de rosée à l'intérieur (22°C, 50% d'humidité relative) : 11°C. Avec le triple vitrage, la surface intérieure du verre reste à +17-18°C → aucune condensation. Avec le double, elle peut descendre à 12-14°C → condensation possible à haute humidité.
 
-## FAQ
+**Facteur solaire et confort thermique estival**
+Le triple vitrage avec Low-E en position 2 a un facteur solaire g = 0,32 contre g = 0,62 pour le double standard. Résultat : 48% moins d'apport solaire non désiré en été → moins de consommation de climatisation.
 
-**Le triple réduit-il la facture ?** Oui — 50% moins de pertes. Économie 33-380 €/an selon la situation.
+## Section 4 — Quand le triple vitrage ne vaut PAS la peine
 
-**Qu'est-ce que Low-E ?** Couche d'oxyde métallique réfléchissant les infrarouges — réduit Ug de 0,3-0,5 W/(m²K).
+**Bâtiments thermiquement non isolés**
+Si les murs, le toit ou les planchers ne sont pas isolés, les fenêtres représentent moins de 20% des pertes. Investir dans le triple vitrage est inefficace sans isolation de l'enveloppe.
+
+**Orientations exclusivement sud avec captage solaire passif important**
+Pour les maisons conçues avec captage solaire passif, le faible facteur solaire du triple vitrage (g=0,32) peut réduire les apports solaires utiles en hiver. Triple vitrage avec g=0,40-0,50 recommandé sur la façade sud.
+
+**Budgets très limités avec double moderne fonctionnel**
+Si les fenêtres actuelles sont en double moderne (Ug=1,0) en bon état, les remplacer pour 33 €/an d'économies sur un petit appartement ne se justifie pas financièrement en moins de 15 ans.
+
+## Tableau comparatif complet double vs triple
+
+| Paramètre | Double standard argon | Triple argon + Low-E | Triple premium |
+|---|---|---|---|
+| Ug (W/m²K) | 1,0 | **0,5** | 0,4 |
+| Épaisseur totale | 32 mm | 44 mm | 52 mm |
+| Poids (1,2 m²) | ~16 kg | ~24 kg | ~28 kg |
+| Atténuation acoustique Rw | 28-32 dB | 34-36 dB | 36-40 dB |
+| Facteur solaire g | 0,62 | 0,32 | 0,28 |
+| Condensation intérieure | Possible | **Zéro** (avec Warm Edge) | **Zéro** |
+| Supplément par rapport au double | — | +15-25% | +30-45% |
+| Amortissement (appartement) | — | 8-15 ans | 15-25 ans |
+
+## FAQ — Triple vs double vitrage
+
+**Le triple vitrage réduit-il la facture d'énergie ?**
+Oui. Par rapport au double moderne (Ug=1,0), le triple (Ug=0,5) réduit les pertes de chaleur par le vitrage de 50%. Sur une maison de 120 m² : économie 66-208 €/an selon ce qui est remplacé.
+
+**Quelle est la différence entre thermopane et triple vitrage ?**
+Thermopane (double) : 2 vitrages, 1 chambre de gaz (argon ou air). Triple : 3 vitrages, 2 chambres d'argon. Différence Ug : 1,0 vs 0,5 W/(m²K) — 50% meilleur.
+
+**L'investissement en vaut-il la peine ?**
+Cela dépend de l'état actuel. Contre l'ancien simple vitrage : amortissement 5-7 ans. Contre l'ancien double (avant 2005) : 8-12 ans. Contre le double moderne fonctionnel : 15-20 ans.
+
+**Le triple vitrage réduit-il le bruit ?**
+Oui, significativement. Rw = 34-36 dB vs 28-32 dB pour le double. Vous percevez le bruit ~40% moins fort — une différence majeure pour les logements sur axes passants.
+
+**Quelle épaisseur est recommandée ?**
+44 mm (triple standard) pour le résidentiel nZEB standard. 52 mm (triple premium) pour les maisons passives PHI.
+
+**Quel gaz est utilisé entre les vitrages ?**
+Argon (concentration 90%) — standard industrie. Conductivité thermique λ = 0,018 W/(mK) vs λ = 0,026 pour l'air. Krypton (λ=0,009) est supérieur mais coûte 3-4 fois plus.
+
+**Que signifie le verre Low-E ?**
+Low-E (Low Emissivity) = verre avec une fine couche d'oxyde métallique déposée sur la surface. Réfléchit le rayonnement infrarouge (chaleur) dans la pièce en hiver et le bloque en été. Réduit Ug de 0,3-0,5 W/(m²K) par rapport au verre clair.
+
+## Conclusion — Verdict simple
+
+**Le triple vitrage en vaut la peine si :**
+- Vous construisez ou rénovez totalement (nouvelles fenêtres de toute façon)
+- Vous remplacez l'ancien simple vitrage ou l'ancien double (avant 2005)
+- Vous voulez un confort thermique maximal et une bonne isolation acoustique
+- Vous construisez nZEB ou une maison passive
+
+**Le triple vitrage ne vaut pas la peine si :**
+- Vous avez un double moderne fonctionnel (Ug=1,0, joints OK)
+- Le bâtiment n'est pas isolé thermiquement
+- Budget limité et autres priorités d'efficacité énergétique plus rentables
+
+**Règle simple :** Si vous remplacez de toute façon les fenêtres → choisir le triple (la différence de prix 15-25% se rentabilise garantie). Si les fenêtres actuelles sont fonctionnelles → calculer le ROI de votre situation spécifique.
 
 ---
 
-Neofort BIZ installe triple vitrage Saint-Gobain SGG avec Warm Edge à Bucarest et Ilfov. [Devis avec calcul d'économies personnalisé](/fr/contact).`,
+**Articles connexes :**
+- [PVC ou Aluminium pour maisons nZEB en 2026 ?](/fr/blog/pvc-ou-aluminium-maisons-nzeb-2026-guide-complet)
+- [Quelles fenêtres pour une maison nZEB en Roumanie ?](/fr/blog/fenetres-maison-nzeb-roumanie-guide-complet-2026)
+- [Où commander des fenêtres à isolation avancée à Bucarest ?](/fr/blog/ou-commander-fenetres-isolation-avancee-bucarest)
+
+Neofort BIZ installe le triple vitrage Saint-Gobain SGG avec Warm Edge à Bucarest et Ilfov. [Demandez un devis avec calcul d'économies personnalisé](/fr/contact).`,
       es: `## Por qué el triple acristalamiento se ha convertido en el estándar nZEB
 
-Hasta 2018, el doble era la norma. Hoy el triple es el mínimo realista para nZEB. El Ug pasa de 1,0 a **0,5 W/(m²K)** — 50% mejor.
+Hasta 2018, el doble acristalamiento era la norma de la industria. Hoy, para cualquier construcción que deba alcanzar los estándares nZEB, el triple acristalamiento es el requisito mínimo realista. La razón es simple y matemática: **Ug** (el coeficiente de transmisión térmica del vidrio) es el parámetro más importante de una ventana — y el triple acristalamiento lo reduce a la mitad en comparación con el doble.
 
-**Fórmula: Q = U × A × ΔT × t**
+**Mitos sobre el termopane vs el triple acristalamiento:**
+- *«El triple acristalamiento es demasiado pesado»* — Falso: una ventana triple de 100×120 cm pesa ~8 kg más que el doble; la herraje Roto NT lo gestiona sin problemas
+- *«El triple acristalamiento no deja suficiente luz»* — Falso: transmitancia luminosa TL = 70% vs 76-78% para el doble — diferencia visualmente imperceptible
+- *«La condensación desaparece completamente con el triple»* — Parcialmente cierto: la condensación central desaparece; la marginal depende del separador (Warm Edge también la elimina)
 
-| Tipo de vidrio | Uw | Pérdidas (kWh/año)* |
+## Sección 1 — La diferencia técnica real
+
+### Estructura del paquete de vidrio
+
+**Doble estándar (32 mm total):**
+4 mm vidrio / 24 mm cámara argón / 4 mm vidrio Low-E
+- Ug = **1,0 W/(m²K)** con argón
+
+**Triple argón + Low-E (44 mm total — estándar Neofort BIZ):**
+4 mm / 16 mm argón / 4 mm Low-E / 16 mm argón / 4 mm
+- Ug = **0,5 W/(m²K)** — 50% mejor que el doble
+
+**Triple premium (52 mm — casa pasiva):**
+4 mm / 18 mm argón / 4 mm Low-E / 18 mm argón / 4 mm Low-E
+- Ug = **0,4 W/(m²K)**
+
+### Cálculo de pérdidas térmicas
+
+Fórmula básica:
+
+**Q = U × A × ΔT × t**
+
+donde: Q = calor perdido (kWh), U = Uw de la ventana (W/m²K), A = superficie (m²), ΔT = diferencia de temperatura interior-exterior (°C), t = tiempo (horas)
+
+**Ejemplo concreto — ventana 100×120 cm (1,2 m²), Bucarest:**
+- ΔT media estación fría: 22°C interior − 2°C media invernal = 20°C
+- Horas estación fría (oct-abr): ~3.500 horas
+
+| Tipo de vidrio | Uw | Calor perdido (kWh/año) | Coste energía (€/año)* |
+|---|---|---|---|
+| Antiguo simple (madera) | 4,8 | 403 | ~48 € |
+| Doble estándar | 1,4 | 118 | ~14 € |
+| Doble moderno argón | 1,0 | 84 | ~10 € |
+| **Triple + argón** | **0,72** | **60** | **~7 €** |
+| Triple premium | 0,55 | 46 | ~5,5 € |
+
+*Precio energía ~0,12 €/kWh (2026)
+
+**Ahorro triple vs doble moderno (por ventana 1,2 m²):** 24 kWh/año = ~3 €/año
+
+## Sección 2 — Cuánto ahorra anualmente: ejemplos reales
+
+### Apartamento 50 m², 6 ventanas (7,2 m² total)
+
+| Configuración actual | Sustitución por triple | Ahorro/año | Amortización |
+|---|---|---|---|
+| Antiguo vidrio simple | Nuevas ventanas triple + instalación | ~380 €/año | 5-7 años |
+| Doble antiguo (antes 2005) | Nuevas ventanas triple + instalación | ~104 €/año | 8-12 años |
+| Doble moderno (2010-2020) | Nuevas ventanas triple + instalación | ~33 €/año | 15-20 años |
+
+### Casa 120 m², 12 ventanas (14,4 m² total)
+
+| Configuración actual | Ahorro/año | Amortización |
 |---|---|---|
-| Simple antiguo | 4,8 | 403 |
-| Doble estándar | 1,4 | 118 |
-| Doble moderno argón | 1,0 | 84 |
-| **Triple + argón** | **0,72** | **60** |
+| Antiguo vidrio simple | ~760 €/año | 5-7 años |
+| Doble antiguo | ~208 €/año | 8-12 años |
+| Doble moderno | ~66 €/año | 15-20 años |
 
-## Ahorros anuales reales — Apartamento 50 m², 6 ventanas
+## Sección 3 — Ventajas reales del triple acristalamiento más allá del ahorro
 
-| Situación actual | Ahorro/año | Amortización |
-|---|---|---|
-| Simple antiguo | ~380 €/año | 5-7 años |
-| Doble antiguo (antes 2005) | ~104 €/año | 8-12 años |
-| Doble moderno | ~33 €/año | 15-20 años |
+**Confort térmico**
+Temperatura de la superficie interior del vidrio con triple a -5°C exterior: +18°C (vs +12°C para doble). Efecto práctico: puede sentarse junto a la ventana en invierno sin sentir el frío radiante.
 
-## Cuándo el triple NO merece
+**Aislamiento acústico — la grata sorpresa**
+El triple acristalamiento (3 hojas) tiene atenuación acústica Rw = 34-36 dB frente a 28-32 dB para el doble. Una diferencia de 6-8 dB significa que percibimos el ruido ~40% menos fuerte. Esencial en Bucarest para apartamentos en vías transitadas.
 
-- Edificios sin aislar térmicamente
-- Fachadas sur con captación solar pasiva
-- Doble moderno funcional con presupuesto reducido
+**Reducción de la condensación**
+Punto de rocío a interior (22°C, 50% humedad relativa): 11°C. Con triple acristalamiento, la superficie interior del vidrio se mantiene a +17-18°C → sin condensación. Con doble puede bajar a 12-14°C → condensación posible con alta humedad.
 
-## FAQ
+**Factor solar y confort térmico en verano**
+El triple con Low-E en posición 2 tiene factor solar g = 0,32 frente a g = 0,62 para el doble estándar. Resultado: 48% menos ganancia solar no deseada en verano → menos consumo de aire acondicionado.
 
-**¿Reduce el triple la factura?** Sí — 50% menos pérdidas. Ahorro 33-380 €/año según situación.
+## Sección 4 — Cuándo el triple acristalamiento NO merece
 
-**¿Qué es Low-E?** Capa de óxido metálico que refleja infrarrojos — reduce Ug en 0,3-0,5 W/(m²K).
+**Edificios sin aislar térmicamente**
+Si paredes, tejado o forjados no están aislados, las ventanas representan menos del 20% de las pérdidas. Invertir en triple acristalamiento es ineficiente sin aislar la envolvente.
+
+**Orientaciones exclusivamente sur con captación solar pasiva importante**
+Para casas diseñadas con captación solar pasiva, el bajo factor solar del triple (g=0,32) puede reducir las ganancias solares útiles en invierno. Se recomienda triple con g=0,40-0,50 en la fachada sur.
+
+**Presupuestos muy limitados con doble moderno funcional**
+Si las ventanas actuales son doble moderno (Ug=1,0) en buen estado, reemplazarlas por 33 €/año de ahorro en un apartamento pequeño no se justifica financieramente en menos de 15 años.
+
+## Tabla comparativa completa doble vs triple
+
+| Parámetro | Doble estándar argón | Triple argón + Low-E | Triple premium |
+|---|---|---|---|
+| Ug (W/m²K) | 1,0 | **0,5** | 0,4 |
+| Espesor total | 32 mm | 44 mm | 52 mm |
+| Peso (1,2 m²) | ~16 kg | ~24 kg | ~28 kg |
+| Atenuación acústica Rw | 28-32 dB | 34-36 dB | 36-40 dB |
+| Factor solar g | 0,62 | 0,32 | 0,28 |
+| Condensación interior | Posible | **Cero** (con Warm Edge) | **Cero** |
+| Suplemento vs doble | — | +15-25% | +30-45% |
+| Amortización (apartamento) | — | 8-15 años | 15-25 años |
+
+## FAQ — Triple vs doble acristalamiento
+
+**¿El triple acristalamiento reduce la factura energética?**
+Sí. Frente al doble moderno (Ug=1,0), el triple (Ug=0,5) reduce las pérdidas de calor a través del vidrio en un 50%. En una casa de 120 m²: ahorro 66-208 €/año según lo que se reemplace.
+
+**¿Cuál es la diferencia entre termopane y triple acristalamiento?**
+Termopane (doble): 2 vidrios, 1 cámara de gas (argón o aire). Triple: 3 vidrios, 2 cámaras de argón. Diferencia Ug: 1,0 vs 0,5 W/(m²K) — 50% mejor.
+
+**¿Vale la pena la inversión?**
+Depende del estado actual. Contra vidrio simple antiguo: amortización 5-7 años. Contra doble antiguo (antes 2005): 8-12 años. Contra doble moderno funcional: 15-20 años.
+
+**¿El triple acristalamiento reduce el ruido?**
+Sí, significativamente. Rw = 34-36 dB vs 28-32 dB para el doble. Percibe el ruido ~40% menos fuerte — diferencia mayor para viviendas en vías concurridas.
+
+**¿Qué espesor se recomienda?**
+44 mm (triple estándar) para nZEB residencial estándar. 52 mm (triple premium) para casas pasivas PHI.
+
+**¿Qué gas se usa entre los vidrios?**
+Argón (concentración 90%) — estándar de industria. Conductividad térmica λ = 0,018 W/(mK) vs λ = 0,026 para aire. Kriptón (λ=0,009) es superior pero cuesta 3-4 veces más.
+
+**¿Qué significa el vidrio Low-E?**
+Low-E (Baja Emisividad) = vidrio con una fina capa de óxido metálico depositada en la superficie. Refleja la radiación infrarroja (calor) de vuelta a la habitación en invierno y la bloquea en verano. Reduce Ug en 0,3-0,5 W/(m²K) frente al vidrio claro.
+
+## Conclusión — Veredicto simple
+
+**El triple acristalamiento merece si:**
+- Construye o renueva totalmente (ventanas nuevas de todas formas)
+- Reemplaza vidrio simple antiguo o doble antiguo (antes 2005)
+- Quiere máximo confort térmico y buen aislamiento acústico
+- Construye nZEB o casa pasiva
+
+**El triple acristalamiento no merece si:**
+- Tiene doble moderno funcional (Ug=1,0, juntas OK)
+- El edificio no está aislado térmicamente
+- Presupuesto limitado y otras prioridades de eficiencia energética más rentables
+
+**Regla simple:** Si de todas formas cambia las ventanas → elija triple (la diferencia de precio 15-25% se amortiza garantizada). Si las ventanas actuales son funcionales → calcule el ROI de su situación específica.
 
 ---
 
-Neofort BIZ instala triple acristalamiento Saint-Gobain SGG con Warm Edge en Bucarest e Ilfov. [Presupuesto con cálculo de ahorros personalizado](/es/contact).`,
+**Artículos relacionados:**
+- [¿PVC o Aluminio para casas nZEB en 2026?](/es/blog/pvc-o-aluminio-casas-nzeb-2026-guia-completa)
+- [¿Qué ventanas elegir para una casa nZEB en Rumanía?](/es/blog/ventanas-casa-nzeb-rumania-guia-completa-2026)
+- [¿Dónde pedir ventanas con aislamiento avanzado en Bucarest?](/es/blog/donde-pedir-ventanas-aislamiento-avanzado-bucarest)
+
+Neofort BIZ instala triple acristalamiento Saint-Gobain SGG con Warm Edge en Bucarest e Ilfov. [Solicite presupuesto con cálculo de ahorros personalizado](/es/contact).`,
       it: `## Perché il triplo vetro è diventato lo standard nZEB
 
-Fino al 2018, il doppio era la norma. Oggi il triplo è il minimo realistico per nZEB. Il Ug passa da 1,0 a **0,5 W/(m²K)** — 50% migliore.
+Fino al 2018, il doppio vetro era la norma del settore. Oggi, per qualsiasi costruzione che deve raggiungere gli standard nZEB, il triplo vetro è il requisito minimo realistico. La ragione è semplice e matematica: **Ug** (il coefficiente di trasmissione termica del vetro) è il parametro più importante di una finestra — e il triplo vetro lo dimezza rispetto al doppio.
 
-**Formula: Q = U × A × ΔT × t**
+**Miti sul termopane vs il triplo vetro:**
+- *«Il triplo vetro è troppo pesante»* — Falso: una finestra triplo vetro 100×120 cm pesa ~8 kg in più del doppio; la ferramenta Roto NT gestisce questo senza problemi
+- *«Il triplo vetro non lascia abbastanza luce»* — Falso: trasmittanza luminosa TL = 70% vs 76-78% per il doppio — differenza visivamente impercettibile
+- *«La condensa scompare completamente con il triplo vetro»* — Parzialmente vero: la condensa centrale scompare; quella marginale dipende dal distanziale (Warm Edge la elimina anch'essa)
 
-| Tipo di vetro | Uw | Dispersioni (kWh/anno)* |
+## Sezione 1 — La vera differenza tecnica
+
+### Struttura del pacchetto vetrocamera
+
+**Doppio standard (32 mm totale):**
+4 mm vetro / 24 mm camera argon / 4 mm vetro Low-E
+- Ug = **1,0 W/(m²K)** con argon
+
+**Triplo argon + Low-E (44 mm totale — standard Neofort BIZ):**
+4 mm / 16 mm argon / 4 mm Low-E / 16 mm argon / 4 mm
+- Ug = **0,5 W/(m²K)** — 50% migliore del doppio
+
+**Triplo premium (52 mm — casa passiva):**
+4 mm / 18 mm argon / 4 mm Low-E / 18 mm argon / 4 mm Low-E
+- Ug = **0,4 W/(m²K)**
+
+### Calcolo delle dispersioni termiche
+
+Formula di base:
+
+**Q = U × A × ΔT × t**
+
+dove: Q = calore disperso (kWh), U = Uw della finestra (W/m²K), A = superficie (m²), ΔT = differenza di temperatura interno-esterno (°C), t = tempo (ore)
+
+**Esempio concreto — finestra 100×120 cm (1,2 m²), Bucarest:**
+- ΔT media stagione fredda: 22°C interno − 2°C media invernale = 20°C
+- Ore stagione fredda (ott-apr): ~3.500 ore
+
+| Tipo di vetro | Uw | Calore disperso (kWh/anno) | Costo energia (€/anno)* |
+|---|---|---|---|
+| Vecchio semplice (legno) | 4,8 | 403 | ~48 € |
+| Doppio standard | 1,4 | 118 | ~14 € |
+| Doppio moderno argon | 1,0 | 84 | ~10 € |
+| **Triplo + argon** | **0,72** | **60** | **~7 €** |
+| Triplo premium | 0,55 | 46 | ~5,5 € |
+
+*Prezzo energia ~0,12 €/kWh (2026)
+
+**Risparmio triplo vs doppio moderno (per finestra 1,2 m²):** 24 kWh/anno = ~3 €/anno
+
+## Sezione 2 — Quanto si risparmia annualmente: esempi reali
+
+### Appartamento 50 m², 6 finestre (7,2 m² totale)
+
+| Configurazione attuale | Sostituzione con triplo | Risparmio/anno | Ammortamento |
+|---|---|---|---|
+| Vecchio vetro semplice | Nuove finestre triple + installazione | ~380 €/anno | 5-7 anni |
+| Vecchio doppio (pre-2005) | Nuove finestre triple + installazione | ~104 €/anno | 8-12 anni |
+| Doppio moderno (2010-2020) | Nuove finestre triple + installazione | ~33 €/anno | 15-20 anni |
+
+### Casa 120 m², 12 finestre (14,4 m² totale)
+
+| Configurazione attuale | Risparmio/anno | Ammortamento |
 |---|---|---|
-| Semplice antico | 4,8 | 403 |
-| Doppio standard | 1,4 | 118 |
-| Doppio moderno argon | 1,0 | 84 |
-| **Triplo + argon** | **0,72** | **60** |
+| Vecchio vetro semplice | ~760 €/anno | 5-7 anni |
+| Vecchio doppio | ~208 €/anno | 8-12 anni |
+| Doppio moderno | ~66 €/anno | 15-20 anni |
 
-## Risparmi annui reali — Appartamento 50 m², 6 finestre
+## Sezione 3 — Vantaggi reali del triplo vetro oltre il risparmio energetico
 
-| Situazione attuale | Risparmio/anno | Ammortamento |
-|---|---|---|
-| Semplice antico | ~380 €/anno | 5-7 anni |
-| Doppio antico (pre-2005) | ~104 €/anno | 8-12 anni |
-| Doppio moderno | ~33 €/anno | 15-20 anni |
+**Comfort termico**
+Temperatura della superficie interna del vetro con triplo a -5°C esterno: +18°C (vs +12°C per il doppio). Effetto pratico: si può sedere vicino alla finestra in inverno senza sentire la corrente fredda radiante.
 
-## Quando il triplo NON vale?
+**Isolamento acustico — la piacevole sorpresa**
+Il triplo vetro (3 lastre) ha un'attenuazione acustica Rw = 34-36 dB rispetto a 28-32 dB per il doppio. Una differenza di 6-8 dB significa che percepiamo il rumore ~40% meno forte. Essenziale a Bucarest per gli appartamenti su arterie trafficate.
 
-- Edifici non isolati termicamente
-- Facciate pure sud con captazione solare passiva
-- Doppio moderno funzionante con budget ridotto
+**Riduzione della condensa**
+Punto di rugiada all'interno (22°C, 50% umidità relativa): 11°C. Con il triplo vetro, la superficie interna del vetro rimane a +17-18°C → nessuna condensa. Con il doppio può scendere a 12-14°C → condensa possibile ad alta umidità.
 
-## FAQ
+**Fattore solare e comfort termico estivo**
+Il triplo con Low-E in posizione 2 ha fattore solare g = 0,32 rispetto a g = 0,62 per il doppio standard. Risultato: 48% meno apporto solare indesiderato in estate → meno consumo di climatizzazione.
 
-**Il triplo riduce la bolletta?** Sì — 50% meno dispersioni. Risparmio 33-380 €/anno secondo la situazione.
+## Sezione 4 — Quando il triplo vetro NON vale
 
-**Cosa significa Low-E?** Strato di ossido metallico che riflette gli infrarossi — riduce Ug di 0,3-0,5 W/(m²K).
+**Edifici termicamente non isolati**
+Se pareti, tetto o solai non sono isolati, le finestre rappresentano meno del 20% delle perdite. Investire nel triplo vetro è inefficiente senza isolare l'involucro.
+
+**Orientamenti esclusivamente sud con captazione solare passiva importante**
+Per case progettate con captazione solare passiva, il basso fattore solare del triplo (g=0,32) può ridurre gli apporti solari utili in inverno. Triplo vetro con g=0,40-0,50 consigliato sulla facciata sud.
+
+**Budget molto limitati con doppio moderno funzionante**
+Se le finestre attuali sono doppio moderno (Ug=1,0) in buone condizioni, sostituirle per 33 €/anno di risparmio in un piccolo appartamento non si giustifica finanziariamente in meno di 15 anni.
+
+## Tabella comparativa completa doppio vs triplo
+
+| Parametro | Doppio standard argon | Triplo argon + Low-E | Triplo premium |
+|---|---|---|---|
+| Ug (W/m²K) | 1,0 | **0,5** | 0,4 |
+| Spessore totale | 32 mm | 44 mm | 52 mm |
+| Peso (1,2 m²) | ~16 kg | ~24 kg | ~28 kg |
+| Attenuazione acustica Rw | 28-32 dB | 34-36 dB | 36-40 dB |
+| Fattore solare g | 0,62 | 0,32 | 0,28 |
+| Condensa interiore | Possibile | **Zero** (con Warm Edge) | **Zero** |
+| Supplemento vs doppio | — | +15-25% | +30-45% |
+| Ammortamento (appartamento) | — | 8-15 anni | 15-25 anni |
+
+## FAQ — Triplo vs doppio vetro
+
+**Il triplo vetro riduce la bolletta energetica?**
+Sì. Rispetto al doppio moderno (Ug=1,0), il triplo (Ug=0,5) riduce le dispersioni di calore attraverso il vetro del 50%. Su una casa di 120 m²: risparmio 66-208 €/anno secondo cosa si sostituisce.
+
+**Qual è la differenza tra termopane e triplo vetro?**
+Termopane (doppio): 2 lastre, 1 camera di gas (argon o aria). Triplo: 3 lastre, 2 camere di argon. Differenza Ug: 1,0 vs 0,5 W/(m²K) — 50% migliore.
+
+**Vale la pena l'investimento?**
+Dipende dallo stato attuale. Contro vecchio vetro semplice: ammortamento 5-7 anni. Contro vecchio doppio (pre-2005): 8-12 anni. Contro doppio moderno funzionante: 15-20 anni.
+
+**Il triplo vetro riduce il rumore?**
+Sì, significativamente. Rw = 34-36 dB vs 28-32 dB per il doppio. Si percepisce il rumore ~40% meno forte — differenza importante per appartamenti su arterie frequentate.
+
+**Quale spessore è consigliato?**
+44 mm (triplo standard) per nZEB residenziale standard. 52 mm (triplo premium) per case passive PHI.
+
+**Quale gas viene usato tra le lastre?**
+Argon (concentrazione 90%) — standard settore. Conducibilità termica λ = 0,018 W/(mK) vs λ = 0,026 per aria. Kripton (λ=0,009) è superiore ma costa 3-4 volte di più.
+
+**Cosa significa vetro Low-E?**
+Low-E (Bassa Emissività) = vetro con un sottile strato di ossido metallico depositato sulla superficie. Riflette la radiazione infrarossa (calore) nella stanza in inverno e la blocca in estate. Riduce Ug di 0,3-0,5 W/(m²K) rispetto al vetro chiaro.
+
+## Conclusione — Verdetto semplice
+
+**Il triplo vetro vale se:**
+- Si costruisce o si ristruttura completamente (finestre nuove comunque)
+- Si sostituisce vecchio vetro semplice o vecchio doppio (pre-2005)
+- Si vuole massimo comfort termico e buon isolamento acustico
+- Si costruisce nZEB o casa passiva
+
+**Il triplo vetro non vale se:**
+- Si ha doppio moderno funzionante (Ug=1,0, guarnizioni OK)
+- L'edificio non è isolato termicamente
+- Budget limitato e altre priorità di efficienza energetica più convenienti
+
+**Regola semplice:** Se si sostituiscono comunque le finestre → scegliere il triplo (la differenza di prezzo 15-25% si ammortizza garantita). Se le finestre attuali sono funzionanti → calcolare il ROI della propria situazione specifica.
 
 ---
 
-Neofort BIZ installa triplo vetro Saint-Gobain SGG con Warm Edge a Bucarest e Ilfov. [Preventivo con calcolo di risparmio personalizzato](/it/contact).`,
+**Articoli correlati:**
+- [PVC o Alluminio per case nZEB nel 2026?](/it/blog/pvc-o-alluminio-case-nzeb-2026-guida-completa)
+- [Quali finestre per una casa nZEB in Romania?](/it/blog/finestre-casa-nzeb-romania-guida-completa-2026)
+- [Dove ordinare finestre con isolamento avanzato a Bucarest?](/it/blog/dove-ordinare-finestre-isolamento-avanzato-bucarest)
+
+Neofort BIZ installa triplo vetro Saint-Gobain SGG con Warm Edge a Bucarest e Ilfov. [Richiedi preventivo con calcolo di risparmio personalizzato](/it/contact).`,
     },
   },
 
