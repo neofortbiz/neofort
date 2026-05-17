@@ -63,11 +63,11 @@ export async function generateMetadata({ params }) {
     title: m.title, description: m.desc,
     robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1 } },
     alternates: {
-      canonical: `${BASE}/${locale}/blog/`,
-      languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog`])), 'x-default': `${BASE}/ro/blog/` },
+      canonical: `${BASE}/${locale}/blog`,
+      languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog`])), 'x-default': `${BASE}/ro/blog` },
     },
-    openGraph: { type:'website', url:`${BASE}/${locale}/blog`, title:m.title, description:m.desc, siteName:'Neofort BIZ', images:[{ url:`${BASE}/og/BLOG.jpg`, width:1200, height:630, type:'image/jpeg' }] },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:m.title, description:m.desc, images:[`${BASE}/og/BLOG.jpg`] },
+    openGraph: { type:'website', url:`${BASE}/${locale}/blog`, title:m.title, description:m.desc, siteName:'Neofort BIZ', images:[{ url:`${BASE}/og/BLOG.avif`, width:1200, height:630, type:'image/avif' }] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:m.title, description:m.desc, images:[`${BASE}/og/BLOG.avif`] },
   };
 }
 
@@ -86,14 +86,14 @@ export default async function BlogPage({ params }) {
     "description": META[locale]?.desc || META.ro.desc,
     "url":`${BASE}/${locale}/blog`,
     "publisher":{"@type":"Organization","name":"Neofort BIZ","url":BASE,
-      "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.jpg`}},
+      "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`}},
     "blogPost": articles.map(a => ({
       "@type":"BlogPosting",
       "headline": a.title[locale] || a.title.ro,
       "url":`${BASE}/${locale}/blog/${a.slugs?.[locale] || a.slugs?.ro}`,
       "datePublished": a.date,
       "description": a.excerpt[locale] || a.excerpt.ro,
-      "author":{"@type":"Organization","name":"Neofort BIZ"},
+      "author":{"@type":"Person","name":"Mihai Dănălache","jobTitle":"Consultant Tehnic Senior","worksFor":{"@type":"Organization","name":"Neofort BIZ","url":BASE}},
     }))
   };
 
@@ -112,8 +112,7 @@ export default async function BlogPage({ params }) {
         <img
           src="/blog-hero.avif"
           alt={hero.h1}
-          loading="eager"
-          fetchPriority="high"
+          fetchpriority="high"
           decoding="async"
           style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:0.18,display:'block'}}
         />

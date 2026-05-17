@@ -44,7 +44,7 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: `${title} | Neofort BIZ`,
       description: desc,
-      images: [{ url: a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`, width: 1200, height: 630, alt: title, type: a.image?.[locale] ? 'image/jpeg' : 'image/avif' }],
+      images: [{ url: a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`, width: 1200, height: 630, alt: title, type: a.image?.[locale] ? 'image/avif' : 'image/avif' }],
       publishedTime: a.date,
       modifiedTime: a.date,
       locale: locale,
@@ -307,9 +307,9 @@ export default async function BlogArticlePage({ params }) {
         <div className="container">
           <nav aria-label="breadcrumb" style={{display:'flex',alignItems:'center',gap:'6px',flexWrap:'wrap'}}>
             <Link href="/" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#595959',textDecoration:'none'}}>{ui.breadcrumb_home}</Link>
-            <span style={{color:'#ddd',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
+            <span style={{color:'#595959',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
             <Link href="/blog" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#595959',textDecoration:'none'}}>Blog</Link>
-            <span style={{color:'#ddd',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
+            <span style={{color:'#595959',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
             <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#6b6b6b'}}>{cat}</span>
           </nav>
         </div>
@@ -395,7 +395,7 @@ export default async function BlogArticlePage({ params }) {
             {pillarSlugBlog && (
               <div style={{marginTop:'40px',padding:'20px 24px',background:'#f0f4f8',borderLeft:'3px solid #2d5a8e',display:'flex',alignItems:'center',justifyContent:'space-between',gap:'16px',flexWrap:'wrap'}}>
                 <div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#888',marginBottom:'4px'}}>Resursa recomandata</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#595959',marginBottom:'4px'}}>Resursa recomandata</div>
                   <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.9rem',fontWeight:600,color:'#1a2a3a'}}>{pillarLabelBlog}</div>
                 </div>
                 <Link href={`/${pillarSlugBlog}`} style={{display:'inline-block',background:'#2d5a8e',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.7rem',letterSpacing:'.15em',textTransform:'uppercase',padding:'10px 20px',textDecoration:'none',whiteSpace:'nowrap'}}>
@@ -449,7 +449,7 @@ export default async function BlogArticlePage({ params }) {
                 {href:'/servicii',         label:{ro:'Servicii Montaj',en:'Installation Services',de:'Montagedienstleistungen',fr:'Services de pose',es:'Servicios instalación',it:'Servizi installazione'}},
               ].map(item => (
                 <Link key={item.href} href={item.href}
-                  style={{display:'block',padding:'9px 0',borderBottom:'1px solid #1e1e1e',textDecoration:'none',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.08em',textTransform:'uppercase',color:'#666'}}>
+                  style={{display:'block',padding:'9px 0',borderBottom:'1px solid #1e1e1e',textDecoration:'none',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.08em',textTransform:'uppercase',color:'#999'}}>
                   {item.label[locale] || item.label.ro}
                 </Link>
               ))}
@@ -460,8 +460,8 @@ export default async function BlogArticlePage({ params }) {
             </div>
 
             {/* 3. Card WhatsApp — contact rapid */}
-            <div className="sidebar-card" style={{background:'#f0faf3',borderTopColor:'#25D366'}}>
-              <span className="sidebar-label" style={{color:'#25D366'}}>
+            <div className="sidebar-card" style={{background:'#f0faf3',borderTopColor:'#075E35'}}>
+              <span className="sidebar-label" style={{color:'#075E35'}}>
                 {{'ro':'Contact rapid','en':'Quick contact','de':'Schnellkontakt','fr':'Contact rapide','es':'Contacto rápido','it':'Contatto rapido'}[locale]}
               </span>
               <p style={{fontSize:'.72rem',color:'#333',lineHeight:1.5,marginBottom:'12px'}}>
@@ -483,7 +483,7 @@ export default async function BlogArticlePage({ params }) {
                 return (
                   <Link key={l} href={`/blog/${lSlug}`} locale={l}
                     style={{display:'flex',justifyContent:'space-between',alignItems:'center',padding:'8px 0',borderBottom:'1px solid #e8e8e8',textDecoration:'none'}}>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.64rem',letterSpacing:'.1em',textTransform:'uppercase',color:isActive?'#1a1a1a':'#bbb',fontWeight:isActive?600:300}}>{l.toUpperCase()}</span>
+                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.64rem',letterSpacing:'.1em',textTransform:'uppercase',color:isActive?'#1a1a1a':'#6b6b6b',fontWeight:isActive?600:300}}>{l.toUpperCase()}</span>
                     {isActive && <span style={{width:'5px',height:'5px',borderRadius:'50%',background:a.accentColor,display:'inline-block'}}/>}
                   </Link>
                 );
