@@ -4,6 +4,1338 @@
 
 export const ARTICLES = [
 
+  // ─── A3: Ferestre casă nZEB România ─────────────────────────────────────────
+  {
+    slugs: {
+      ro: 'ferestre-casa-nzeb-romania-ghid-complet-2026',
+      en: 'windows-nzeb-house-romania-complete-guide-2026',
+      de: 'fenster-nzeb-haus-rumaenien-vollstaendiger-ratgeber-2026',
+      fr: 'fenetres-maison-nzeb-roumanie-guide-complet-2026',
+      es: 'ventanas-casa-nzeb-rumania-guia-completa-2026',
+      it: 'finestre-casa-nzeb-romania-guida-completa-2026',
+    },
+    date: '2026-05-17',
+    author: 'Mihai Dănălache',
+    authorRole: {
+      ro: 'Consultant Tehnic Senior — 21 ani experiență',
+      en: 'Senior Technical Consultant — 21 years experience',
+      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
+      fr: "Consultant technique senior — 21 ans d'expérience",
+      es: 'Asesor técnico senior — 21 años de experiencia',
+      it: 'Consulente tecnico senior — 21 anni di esperienza',
+    },
+    authorPhoto: '/team/mihai-danalache.avif',
+    accentColor: '#5a3e8a',
+    image: {
+      ro: '/blog/ferestre-casa-nzeb-romania-ghid-complet-2026.avif',
+      en: '/blog/ferestre-casa-nzeb-romania-ghid-complet-2026.avif',
+      de: '/blog/ferestre-casa-nzeb-romania-ghid-complet-2026.avif',
+      fr: '/blog/ferestre-casa-nzeb-romania-ghid-complet-2026.avif',
+      es: '/blog/ferestre-casa-nzeb-romania-ghid-complet-2026.avif',
+      it: '/blog/ferestre-casa-nzeb-romania-ghid-complet-2026.avif',
+    },
+    imageOg: '/blog/ferestre-casa-nzeb-romania-ghid-complet-2026-og.jpg',
+    imageBg: 'linear-gradient(135deg,#12081e 0%,#2a1a4a 60%,#12081e 100%)',
+    imageLabel: 'Ferestre casă nZEB România 2026 — ghid tehnic complet cu valori minime și prețuri',
+    readTime: { ro:'15 min citire', en:'15 min read', de:'15 Min.', fr:'15 min', es:'15 min', it:'15 min' },
+    category: { ro:'Sisteme nZEB', en:'nZEB Systems', de:'nZEB-Systeme', fr:'Systèmes nZEB', es:'Sistemas nZEB', it:'Sistemi nZEB' },
+    title: {
+      ro: 'Ce ferestre trebuie să alegi pentru o casă nZEB în România? Ghid complet 2026',
+      en: 'What Windows Should You Choose for an nZEB House in Romania? Complete Guide 2026',
+      de: 'Welche Fenster für ein nZEB-Haus in Rumänien? Vollständiger Ratgeber 2026',
+      fr: 'Quelles fenêtres pour une maison nZEB en Roumanie ? Guide complet 2026',
+      es: '¿Qué ventanas elegir para una casa nZEB en Rumanía? Guía completa 2026',
+      it: 'Quali finestre per una casa nZEB in Romania? Guida completa 2026',
+    },
+    metaDesc: {
+      ro: 'Ferestre casă nZEB România 2026 — Uw minim, Ug, factor solar, profile recomandate Salamander vs Alumil, configurație geam, montaj RAL, costuri reale și FAQ complet. Ghid tehnic verificat.',
+      en: 'Windows nZEB house Romania 2026 — minimum Uw, Ug, solar factor, recommended Salamander vs Alumil profiles, glazing config, RAL installation, real costs and complete FAQ.',
+      de: 'Fenster nZEB-Haus Rumänien 2026 — Mindest-Uw, Ug, Solarfaktor, Salamander vs Alumil Profile, Verglasung, RAL-Montage, reale Kosten und vollständiges FAQ.',
+      fr: 'Fenêtres maison nZEB Roumanie 2026 — Uw minimum, Ug, facteur solaire, profilés Salamander vs Alumil, vitrage, pose RAL, coûts réels et FAQ complet.',
+      es: 'Ventanas casa nZEB Rumanía 2026 — Uw mínimo, Ug, factor solar, perfiles Salamander vs Alumil, acristalamiento, instalación RAL, costes reales y FAQ completo.',
+      it: 'Finestre casa nZEB Romania 2026 — Uw minimo, Ug, fattore solare, profili Salamander vs Alumil, vetrocamera, installazione RAL, costi reali e FAQ completo.',
+    },
+    excerpt: {
+      ro: 'Ghid tehnic complet pentru ferestre nZEB în România 2026: valori minime obligatorii, profile recomandate, configurația optimă de geam, montajul corect conform RAL și costurile reale cu calculul amortizării.',
+      en: 'Complete technical guide for nZEB windows in Romania 2026: mandatory minimum values, recommended profiles, optimal glazing config, correct RAL installation and real costs with amortisation.',
+      de: 'Vollständiger technischer Leitfaden für nZEB-Fenster in Rumänien 2026: Mindestwerte, empfohlene Profile, optimale Verglasung, korrekte RAL-Montage und reale Kosten.',
+      fr: 'Guide technique complet pour les fenêtres nZEB en Roumanie 2026 : valeurs minimales, profilés recommandés, vitrage optimal, pose RAL correcte et coûts réels.',
+      es: 'Guía técnica completa para ventanas nZEB en Rumanía 2026: valores mínimos, perfiles recomendados, acristalamiento óptimo, instalación RAL correcta y costes reales.',
+      it: `Guida tecnica completa per finestre nZEB in Romania 2026: valori minimi, profili consigliati, vetrocamera ottimale, installazione RAL corretta e costi reali.`,
+    },
+    keywords: 'ferestre casa nZEB Romania, ferestre nZEB 2026, Uw ferestre nZEB Romania, profile ferestre nzeb, montaj ferestre nZEB, geam triplu nZEB, ferestre casa pasiva Romania, cost ferestre nZEB',
+    dateDisplay: {
+      ro: '17 mai 2026', en: 'May 17 2026', de: '17. Mai 2026',
+      fr: '17 mai 2026', es: '17 may 2026', it: '17 mag 2026',
+    },
+    content: {
+      ro: `## Ce este standardul nZEB în România și de ce ferestrele sunt critice
+
+**nZEB (Nearly Zero Energy Building)** este standardul obligatoriu impus prin Legea 372/2005 modificată și HG 765/2016. Cerință: consum de energie primară ≤ 100 kWh/m²/an, aplicabil tuturor construcțiilor noi din 2021.
+
+Într-o casă cu pereți izolați la 20 cm (U = 0,20 W/m²K), ferestrele reprezintă principala sursă de pierderi termice — de 3-4 ori mai mult per m² decât peretele. La o casă cu 15% din suprafața anvelopei vitrată, ferestrele pot reprezenta **40-50% din pierderile totale**.
+
+## Secțiunea 1 — Valorile tehnice minime pentru ferestre nZEB
+
+### Coeficientul Uw — praguri obligatorii
+
+| Zonă climatică | Uw maxim admis | Aplicabilitate |
+|---|---|---|
+| Zona I (câmpie, coastal) | 1,10 W/(m²K) | Sud-Est, Dobrogea |
+| **Zona II (București, Ilfov)** | **1,00 W/(m²K)** | Muntenia, Oltenia |
+| Zona III (deal, munte) | 0,85 W/(m²K) | Transilvania, Moldova |
+| Zona IV (munte înalt) | 0,70 W/(m²K) | Carpați |
+
+**Recomandare practică:** Uw ≤ 0,85 W/(m²K) pentru București — cu marjă de 15% față de limita legală.
+
+### Toți parametrii tehnici pentru ferestre nZEB
+
+| Parametru | Valoare minimă | Recomandată | Optimă |
+|---|---|---|---|
+| Uw (W/m²K) | ≤ 1,00 | ≤ 0,85 | ≤ 0,72 |
+| Ug (W/m²K) | ≤ 0,70 | ≤ 0,60 | ≤ 0,50 |
+| Factor solar g | 0,30-0,60 | 0,30-0,45 (S/V) | 0,55+ (N/E) |
+| Etanșeitate aer | Clasa 3 | **Clasa 4** | Clasa 4 |
+| Atenuare fonică Rw | 30 dB | 38 dB | 42+ dB |
+| Distanțier geam | Aluminiu | **Warm Edge** | Warm Edge |
+
+### Calculul consumului energetic pentru o casă 120 m²
+
+**Q = U × A × ΔT × t**
+
+Suprafață vitrată: 18 m² | ΔT = 20°C | Ore sezon rece: 3.500 h
+
+| Tip ferestre | Uw | Q anual (kWh) | Cost anual* |
+|---|---|---|---|
+| Ferestre vechi simple | 4,8 | 6.048 | ~3.629 lei |
+| Dublu vechi standard | 2,0 | 2.520 | ~1.512 lei |
+| Dublu modern | 1,2 | 1.512 | ~907 lei |
+| **nZEB triplu recomandat** | **0,72** | **907** | **~544 lei** |
+| Casă pasivă premium | 0,55 | 693 | ~416 lei |
+
+*Preț energie 0,60 lei/kWh (2026)
+
+## Secțiunea 2 — Tipuri de profile recomandate pentru nZEB
+
+### PVC Premium — soluția standard nZEB
+
+**Salamander bluEvolution 92 (recomandat Neofort BIZ):**
+- 6 camere, 92 mm adâncime, Uf = 0,95 W/(m²K)
+- Stabilizatori Ca-Zn — REACH compliant, fără plumb
+- Uw cu tripan 44 mm + Warm Edge: **0,72 W/(m²K)**
+- Certificare: IFT Rosenheim, EN 12608 Clasa A | Garanție: 40 ani
+
+**Salamander bluEvolution 82 (soluție economică nZEB):**
+- 6 camere, 82 mm, Uf = 1,0 W/(m²K)
+- Uw cu tripan 44 mm: **0,80-0,88 W/(m²K)** — marginal nZEB
+
+### Aluminiu cu barieră termică — nZEB cu design premium
+
+**Alumil S77 Supreme:**
+- 77 mm, rupere de punte termică 34 mm poliamidă, Uf = 1,3 W/(m²K)
+- Uw cu tripan 44 mm: **1,0-1,15 W/(m²K)** — la limita nZEB Zona II
+
+**Limitare:** Aluminiul standard nu poate atinge Uw ≤ 0,85 W/(m²K) — marja recomandată.
+
+## Secțiunea 3 — Configurația optimă de sticlă pentru nZEB
+
+**Triplu 44 mm Saint-Gobain SGG (standard Neofort BIZ):**
+4 mm Float / 16 mm Argon 90% / 4 mm Float Low-E / 16 mm Argon 90% / 4 mm Float
+
+- Ug = **0,5 W/(m²K)**
+- Factor solar g = 0,32 (Low-E pe poziția 2)
+- Transmitanță luminoasă TL = 70%
+- Atenuare fonică Rw = 34-36 dB
+
+**Distanțier Warm Edge — obligatoriu pentru nZEB:**
+- λ = 0,15-0,2 W/(mK) față de λ = 160 W/(mK) pentru aluminiu
+- Reduce puntea termică marginală cu 75-85%
+- Elimină condensul pe marginea interioară a geamului
+
+**Low-E în funcție de orientare:**
+- Fațada N/E: g = 0,55-0,62 — maximizează aportul solar util iarna
+- Fațada S/V: g = 0,28-0,35 — limitează supraîncălzirea vara
+- Fațada E/V: g = 0,40-0,50 — echilibrat
+
+## Secțiunea 4 — Montajul corect pentru nZEB
+
+Cel mai performant profil pierde **30-50% din eficiență** cu montaj greșit. Standardul RAL definește 3 zone obligatorii:
+
+**Zona exterioară:** Bandă precomprimată butilică (Illbruck TP600)
+- Rezistă ≥ 600 Pa presiunea apei | ≥ 50 m/s la vânt
+- Durabilitate: 20-25 ani față de 3-5 ani pentru silicon
+
+**Zona mediană:** Spumă PU semi-deschisă — izolație termică + fonică
+
+**Zona interioară:** Folie PE antivapori — previne condensul interstițial în structura peretelui
+
+**Precadrele Blaugelb Triotherm+ (opțiune recomandată pentru nZEB complet):**
+- Material compozit λ = 0,035 W/(mK)
+- Reduce ψ perimetral de la 0,08 la 0,01 W/(mK)
+- Certificare PassivHaus Institut (PHI)
+- Disponibile ca opțiune separată la cerere
+
+**Poziționarea ferestrei:** Montată în treimea exterioară a grosimii zidului (sau pe precadru) elimină puntea termică perimetrală.
+
+## Secțiunea 5 — Costuri reale 2026
+
+| Tip | Dimensiune | Profil | Preț orientativ |
+|---|---|---|---|
+| Fereastră oscilo-batantă | 80×120 cm | bluEvolution 92, triplu | 1.450-1.800 lei |
+| Fereastră oscilo-batantă | 100×150 cm | bluEvolution 92, triplu | 1.800-2.200 lei |
+| Fereastră dublă | 150×120 cm | bluEvolution 92, triplu | 2.800-3.500 lei |
+| Culisantă aluminiu | 200×230 cm | Alumil Smartia, triplu | 4.500-6.000 lei |
+
+*Fără TVA, montaj standard fără precadre
+
+### Calculul amortizării — casă 120 m²
+
+| Investiție suplimentară | Economie anuală | Amortizare |
+|---|---|---|
+| +15.000 lei (triplu vs dublu, 12 ferestre) | 968 lei/an | ~15 ani |
+| +3.500 lei (precadre Blaugelb, 12 buc) | +350 lei/an | ~10 ani |
+
+## FAQ complet — Ferestre nZEB România
+
+**Ce Uw trebuie pentru nZEB?**
+Normative românești (HG 765/2016): Uw ≤ 1,0 W/(m²K) pentru Zona II (București, Ilfov). Recomandare Neofort BIZ: Uw ≤ 0,85 W/(m²K) cu marjă de siguranță.
+
+**Sunt obligatorii ferestrele tripan pentru nZEB?**
+Nu există obligație legală explicită pentru tripan. Obligatorie este atingerea Uw ≤ 1,0 W/(m²K). Tripanul (Ug=0,5) oferă marjă de siguranță și performanță superioară față de limita legală.
+
+**Ce profile sunt cele mai bune pentru nZEB în România?**
+Salamander bluEvolution 92 (Uf=0,95 W/m²K) + tripan 44 mm Saint-Gobain + Warm Edge = Uw=0,72 — cu 28% sub limita legală.
+
+**Contează montajul?**
+Enorm. Fără benzi precomprimate și cu punte termică la glaf, Uw efectiv poate ajunge la 1,2-1,4 W/(m²K) din cauza infiltrațiilor. Montajul RAL cu 3 zone este esențial.
+
+**Aluminiu sau PVC pentru nZEB?**
+PVC pentru Uw maxim și cost-eficiență. Aluminiu pentru suprafețe vitrate mari, culisante și design premium. Mix recomandat pentru vile.
+
+**Ce certificări trebuie să aibă ferestrele nZEB?**
+- Declarație de performanță (DoP) conform CPR 305/2011
+- Marcaj CE obligatoriu
+- Test EN 14351-1
+- Certificare profil: IFT Rosenheim sau TÜV pentru Uf declarat
+
+**Care sunt cele mai eficiente ferestre din România 2026?**
+Salamander bluEvolution 92 + tripan 52 mm Saint-Gobain + Warm Edge + precadre Blaugelb: **Uw = 0,66 W/(m²K)** — cel mai bun sistem disponibil comercial în România.
+
+## Concluzie
+
+Ordinea corectă de priorități pentru ferestre nZEB:
+
+1. **Geam:** triplu + argon + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
+2. **Profil:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
+3. **Montaj:** benzi precomprimate + 3 zone etanșare
+4. **Precadre** (opțional): Blaugelb Triotherm+ → elimini puntea termică la glaf
+5. **Rezultat:** Uw = 0,72 W/(m²K) — cu 28% sub limita legală
+
+Casă nZEB cu consum ≤ 100 kWh/m²/an, facturi reduse cu 40-60%, confort garantat 40+ ani.
+
+---
+
+**Articole conexe:**
+- [PVC sau Aluminiu pentru case nZEB în 2026?](/ro/blog/pvc-sau-aluminiu-case-nzeb-2026-ghid-alegere)
+- [Tripan vs Termopan: cât economisești real?](/ro/blog/tripan-vs-termopan-economii-reale-incalzire-pret)
+- [Sistem complet nZEB: Salamander + Blaugelb + geam triplu](/ro/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu)
+
+Neofort BIZ — specialist în ferestre nZEB în București și Ilfov. [Solicită consultanță tehnică gratuită](/ro/contact).`,
+      en: `## What is the nZEB Standard in Romania and Why Are Windows Critical?
+
+**nZEB** is mandatory for all new constructions in Romania since 2021. Primary energy consumption ≤ 100 kWh/m²/year. In a well-insulated home, windows can represent **40-50% of total heat losses**.
+
+## Section 1 — Minimum Technical Values
+
+| Climate Zone | Max. Uw | Area |
+|---|---|---|
+| Zone I | 1.10 W/(m²K) | South-East |
+| **Zone II (Bucharest, Ilfov)** | **1.00 W/(m²K)** | Muntenia |
+| Zone III | 0.85 W/(m²K) | Transylvania |
+
+**Neofort BIZ recommendation:** Uw ≤ 0.85 W/(m²K) — 15% safety margin.
+
+| Parameter | Minimum | Recommended | Optimal |
+|---|---|---|---|
+| Uw (W/m²K) | ≤ 1.00 | ≤ 0.85 | ≤ 0.72 |
+| Ug (W/m²K) | ≤ 0.70 | ≤ 0.60 | ≤ 0.50 |
+| Solar factor g | 0.30-0.60 | 0.30-0.45 (S/W) | 0.55+ (N/E) |
+| Air permeability | Class 3 | **Class 4** | Class 4 |
+
+**Q = U × A × ΔT × t** — Annual heat loss for 120 m² house, 18 m² glazed area:
+
+| Window type | Uw | Annual loss (kWh) | Annual cost* |
+|---|---|---|---|
+| Old single | 4.8 | 6,048 | ~€726 |
+| Old double | 2.0 | 2,520 | ~€302 |
+| Modern double | 1.2 | 1,512 | ~€181 |
+| **nZEB triple** | **0.72** | **907** | **~€109** |
+
+## Section 2 — Recommended Profiles for nZEB
+
+**Salamander bluEvolution 92:** 6 chambers, 92 mm, Uf = 0.95 W/(m²K), Uw with triple 44 mm + Warm Edge: **0.72 W/(m²K)**
+
+**Alumil S77 Supreme:** 34 mm thermal break, Uf = 1.3 W/(m²K), Uw: **1.0-1.15 W/(m²K)** — at Zone II nZEB limit
+
+## Section 3 — Optimal Glazing
+
+**Triple 44 mm Saint-Gobain SGG:** 4 mm / 16 mm Argon 90% / 4 mm Low-E / 16 mm Argon 90% / 4 mm — Ug = **0.5 W/(m²K)**
+
+Low-E by orientation: N/E facades g=0.55-0.62 | S/W facades g=0.28-0.35
+
+## Section 4 — Correct nZEB Installation
+
+3 mandatory RAL zones:
+1. **Exterior:** Pre-compressed butyl band ≥ 600 Pa, 20-25 year durability
+2. **Middle:** Semi-open cell PU foam
+3. **Interior:** PE vapour barrier
+
+Blaugelb Triotherm+ preframes available as recommended separate option — PHI certified, reduces ψ from 0.08 to 0.01 W/(mK).
+
+## Section 5 — Real 2026 Costs
+
+| Type | Size | Profile | Price |
+|---|---|---|---|
+| Tilt-and-turn | 80×120 cm | bluEvolution 92, triple | €290-360 |
+| Tilt-and-turn | 100×150 cm | bluEvolution 92, triple | €360-440 |
+| Double tilt-and-turn | 150×120 cm | bluEvolution 92, triple | €560-700 |
+
+## FAQ
+
+**What Uw for nZEB?** Romanian standards: Uw ≤ 1.0 W/(m²K) Zone II. Recommended: ≤ 0.85 W/(m²K).
+
+**Is triple glazing mandatory?** No explicit requirement, but needed for comfortable margin above the legal limit.
+
+**Best profiles for nZEB Romania?** Salamander bluEvolution 92 + triple 44 mm + Warm Edge = Uw 0.72 — 28% below legal limit.
+
+**Does installation matter?** Enormously — wrong installation can double effective Uw to 1.2-1.4 W/(m²K).
+
+**PVC or aluminium for nZEB?** PVC for maximum Uw, aluminium for large glazed areas and premium design.
+
+**Required certifications?** DoP per CPR 305/2011, CE marking, EN 14351-1 testing, IFT Rosenheim profile certification.
+
+**Most efficient windows in Romania 2026?** Salamander bluEvolution 92 + triple 52 mm + Warm Edge + Blaugelb preframes: **Uw = 0.66 W/(m²K)**.
+
+---
+
+Related: [PVC vs Aluminium nZEB 2026](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide) | [Triple vs Double Glazing Savings](/en/blog/triple-vs-double-glazing-real-savings-heating-cost) | [Complete nZEB System](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing)
+
+Neofort BIZ — nZEB window specialist in Bucharest and Ilfov. [Request free technical consultation](/en/contact).`,
+      de: `## Was ist der nZEB-Standard in Rumänien?
+
+**nZEB** ist seit 2021 Pflichtstandard. Primärenergieverbrauch ≤ 100 kWh/m²/Jahr. Fenster können **40-50% der Gesamtwärmeverluste** ausmachen.
+
+## Technische Mindestwerte
+
+| Klimazone | Max. Uw | Anwendung |
+|---|---|---|
+| Zone I | 1,10 W/(m²K) | Südost |
+| **Zone II (Bukarest, Ilfov)** | **1,00 W/(m²K)** | Muntenien |
+| Zone III | 0,85 W/(m²K) | Siebenbürgen |
+
+**Neofort BIZ Empfehlung:** Uw ≤ 0,85 W/(m²K) mit Sicherheitsreserve.
+
+**Q = U × A × ΔT × t** — Wärmeverlust 120 m² Haus, 18 m² Verglasung:
+
+| Fenstertyp | Uw | Verlust (kWh/Jahr) |
+|---|---|---|
+| Altes Einfachglas | 4,8 | 6.048 |
+| Alter Zweifach | 2,0 | 2.520 |
+| Modernes Zweifach | 1,2 | 1.512 |
+| **nZEB Dreifach** | **0,72** | **907** |
+
+## Empfohlene Profile
+
+**Salamander bluEvolution 92:** 6 Kammern, 92 mm, Uf = 0,95, Uw = **0,72 W/(m²K)** mit Dreifach + Warm Edge
+
+## Korrekte nZEB-Montage
+
+3 RAL-Pflichtbereiche: Außen (vorkomprimiertes Band), Mitte (PU-Schaum), Innen (Dampfsperrfolie).
+
+Blaugelb Triotherm+ Vorblendrahmen als empfohlene Option — PHI-zertifiziert.
+
+## FAQ
+
+**Welcher Uw für nZEB?** ≤ 1,0 W/(m²K) Zone II. Empfohlen: ≤ 0,85 W/(m²K).
+
+**Ist Dreifach Pflicht?** Nein, aber praktisch notwendig für komfortable Marge.
+
+**Beste Profile Romania 2026?** Salamander bluEvolution 92 + Dreifach 44 mm + Warm Edge = Uw 0,72.
+
+**Spielt Montage eine Rolle?** Enorm — falsche Montage verdoppelt effektiven Uw auf 1,2-1,4.
+
+---
+
+Neofort BIZ — nZEB-Fensterspezialist in Bukarest und Ilfov. [Kostenloses Beratungsgespräch](/de/kontakt).`,
+      fr: `## Qu'est-ce que la norme nZEB en Roumanie ?
+
+**nZEB** est obligatoire depuis 2021. Consommation d'énergie primaire ≤ 100 kWh/m²/an. Les fenêtres représentent **40-50% des pertes thermiques totales** dans les maisons bien isolées.
+
+## Valeurs techniques minimales
+
+| Zone climatique | Uw max. | Application |
+|---|---|---|
+| Zone I | 1,10 W/(m²K) | Sud-Est |
+| **Zone II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Munténie |
+| Zone III | 0,85 W/(m²K) | Transylvanie |
+
+**Recommandation Neofort BIZ:** Uw ≤ 0,85 W/(m²K) avec marge de sécurité.
+
+**Q = U × A × ΔT × t** — Pertes annuelles maison 120 m², 18 m² vitrés :
+
+| Type de fenêtre | Uw | Pertes (kWh/an) |
+|---|---|---|
+| Simple ancien | 4,8 | 6.048 |
+| Ancien double | 2,0 | 2.520 |
+| Double moderne | 1,2 | 1.512 |
+| **Triple nZEB** | **0,72** | **907** |
+
+## Profils recommandés
+
+**Salamander bluEvolution 92 :** 6 chambres, 92 mm, Uf = 0,95, Uw = **0,72 W/(m²K)** avec triple + Warm Edge.
+
+## Pose correcte nZEB
+
+3 zones RAL obligatoires : extérieur (bande précomprimée), milieu (mousse PU), intérieur (pare-vapeur).
+
+Précadres Blaugelb Triotherm+ disponibles comme option recommandée — certifiés PHI.
+
+## FAQ
+
+**Quel Uw pour nZEB ?** ≤ 1,0 W/(m²K) zone II. Recommandé : ≤ 0,85 W/(m²K).
+
+**Le triple est-il obligatoire ?** Non, mais nécessaire pour une marge confortable.
+
+**Meilleurs profilés Roumanie 2026 ?** Salamander bluEvolution 92 + triple 44 mm + Warm Edge = Uw 0,72.
+
+**La pose compte-t-elle ?** Énormément — une mauvaise pose double le Uw effectif à 1,2-1,4.
+
+---
+
+Neofort BIZ — spécialiste fenêtres nZEB à Bucarest et Ilfov. [Consultation technique gratuite](/fr/contact).`,
+      es: `## ¿Qué es la norma nZEB en Rumanía?
+
+**nZEB** es obligatoria desde 2021. Consumo de energía primaria ≤ 100 kWh/m²/año. Las ventanas representan **el 40-50% de las pérdidas térmicas totales** en casas bien aisladas.
+
+## Valores técnicos mínimos
+
+| Zona climática | Uw máx. | Aplicación |
+|---|---|---|
+| Zona I | 1,10 W/(m²K) | Sureste |
+| **Zona II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Muntenia |
+| Zona III | 0,85 W/(m²K) | Transilvania |
+
+**Recomendación Neofort BIZ:** Uw ≤ 0,85 W/(m²K) con margen de seguridad.
+
+**Q = U × A × ΔT × t** — Pérdidas anuales casa 120 m², 18 m² acristalados:
+
+| Tipo de ventana | Uw | Pérdidas (kWh/año) |
+|---|---|---|
+| Simple antiguo | 4,8 | 6.048 |
+| Doble antiguo | 2,0 | 2.520 |
+| Doble moderno | 1,2 | 1.512 |
+| **Triple nZEB** | **0,72** | **907** |
+
+## Perfiles recomendados
+
+**Salamander bluEvolution 92:** 6 cámaras, 92 mm, Uf = 0,95, Uw = **0,72 W/(m²K)** con triple + Warm Edge.
+
+## Instalación correcta nZEB
+
+3 zonas RAL obligatorias: exterior (banda precomprimida), media (espuma PU), interior (barrera de vapor).
+
+Premarcos Blaugelb Triotherm+ disponibles como opción recomendada — certificados PHI.
+
+## FAQ
+
+**¿Qué Uw para nZEB?** ≤ 1,0 W/(m²K) zona II. Recomendado: ≤ 0,85 W/(m²K).
+
+**¿Es obligatorio el triple?** No explícitamente, pero necesario para margen cómodo.
+
+**Mejores perfiles Rumanía 2026?** Salamander bluEvolution 92 + triple 44 mm + Warm Edge = Uw 0,72.
+
+**¿Importa la instalación?** Enormemente — una mala instalación duplica el Uw efectivo a 1,2-1,4.
+
+---
+
+Neofort BIZ — especialista ventanas nZEB en Bucarest e Ilfov. [Consulta técnica gratuita](/es/contact).`,
+      it: `## Cos'è lo standard nZEB in Romania?
+
+**nZEB** è obbligatorio dal 2021. Consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre rappresentano **il 40-50% delle dispersioni termiche totali** nelle case ben isolate.
+
+## Valori tecnici minimi
+
+| Zona climatica | Uw max. | Applicazione |
+|---|---|---|
+| Zona I | 1,10 W/(m²K) | Sud-Est |
+| **Zona II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Muntenia |
+| Zona III | 0,85 W/(m²K) | Transilvania |
+
+**Raccomandazione Neofort BIZ:** Uw ≤ 0,85 W/(m²K) con margine di sicurezza.
+
+**Q = U × A × ΔT × t** — Dispersioni annue casa 120 m², 18 m² vetrati:
+
+| Tipo di finestra | Uw | Dispersioni (kWh/anno) |
+|---|---|---|
+| Semplice antico | 4,8 | 6.048 |
+| Doppio antico | 2,0 | 2.520 |
+| Doppio moderno | 1,2 | 1.512 |
+| **Triplo nZEB** | **0,72** | **907** |
+
+## Profili consigliati
+
+**Salamander bluEvolution 92:** 6 camere, 92 mm, Uf = 0,95, Uw = **0,72 W/(m²K)** con triplo + Warm Edge.
+
+## Installazione corretta nZEB
+
+3 zone RAL obbligatorie: esterno (nastro precompresso), medio (schiuma PU), interno (barriera vapore).
+
+Precornici Blaugelb Triotherm+ disponibili come opzione raccomandata — certificati PHI.
+
+## FAQ
+
+**Quale Uw per nZEB?** ≤ 1,0 W/(m²K) zona II. Raccomandato: ≤ 0,85 W/(m²K).
+
+**Il triplo è obbligatorio?** Non esplicitamente, ma necessario per un margine confortevole.
+
+**Migliori profili Romania 2026?** Salamander bluEvolution 92 + triplo 44 mm + Warm Edge = Uw 0,72.
+
+**Conta l'installazione?** Enormemente — una cattiva installazione raddoppia lo Uw effettivo a 1,2-1,4.
+
+---
+
+Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnica gratuita](/it/contact).`,
+    },
+  },
+
+  // ─── A2: Tripan vs Termopan ─────────────────────────────────────────────────
+  {
+    slugs: {
+      ro: 'tripan-vs-termopan-economii-reale-incalzire-pret',
+      en: 'triple-vs-double-glazing-real-savings-heating-cost',
+      de: 'dreifach-vs-zweifachverglasung-reale-einsparungen-heizkosten',
+      fr: 'triple-vs-double-vitrage-economies-reelles-chauffage-prix',
+      es: 'triple-vs-doble-acristalamiento-ahorros-reales-calefaccion-precio',
+      it: 'triplo-vs-doppio-vetro-risparmi-reali-riscaldamento-prezzo',
+    },
+    date: '2026-05-12',
+    author: 'Mihai Dănălache',
+    authorRole: {
+      ro: 'Consultant Tehnic Senior — 21 ani experiență',
+      en: 'Senior Technical Consultant — 21 years experience',
+      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
+      fr: "Consultant technique senior — 21 ans d'expérience",
+      es: 'Asesor técnico senior — 21 años de experiencia',
+      it: 'Consulente tecnico senior — 21 anni di esperienza',
+    },
+    authorPhoto: '/team/mihai-danalache.avif',
+    accentColor: '#2d6a4f',
+    image: {
+      ro: '/blog/tripan-vs-termopan-economii-reale-incalzire-pret.avif',
+      en: '/blog/tripan-vs-termopan-economii-reale-incalzire-pret.avif',
+      de: '/blog/tripan-vs-termopan-economii-reale-incalzire-pret.avif',
+      fr: '/blog/tripan-vs-termopan-economii-reale-incalzire-pret.avif',
+      es: '/blog/tripan-vs-termopan-economii-reale-incalzire-pret.avif',
+      it: '/blog/tripan-vs-termopan-economii-reale-incalzire-pret.avif',
+    },
+    imageOg: '/blog/tripan-vs-termopan-economii-reale-incalzire-pret-og.jpg',
+    imageBg: 'linear-gradient(135deg,#0a1e12 0%,#1a3a22 60%,#0a1e12 100%)',
+    imageLabel: 'Tripan vs Termopan — economii reale la încălzire și calcul ROI 2026',
+    readTime: { ro:'12 min citire', en:'12 min read', de:'12 Min.', fr:'12 min', es:'12 min', it:'12 min' },
+    category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Ratgeber', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
+    title: {
+      ro: 'Tripan vs Termopan: cât economisești real la încălzire și merită diferența de preț? Calcule reale 2026',
+      en: 'Triple vs Double Glazing: How Much Do You Really Save on Heating? Real Calculations 2026',
+      de: 'Dreifach- vs. Zweifachverglasung: Wie viel sparen Sie wirklich beim Heizen? Reale Berechnungen 2026',
+      fr: 'Triple vitrage vs Thermopane: combien économisez-vous vraiment sur le chauffage? Calculs réels 2026',
+      es: 'Triple vs Doble Acristalamiento: ¿Cuánto ahorras realmente en calefacción? Cálculos reales 2026',
+      it: 'Triplo vs Doppio Vetro: quanto risparmi davvero sul riscaldamento? Calcoli reali 2026',
+    },
+    metaDesc: {
+      ro: 'Tripan vs termopan 2026: calcule reale de economii la încălzire. Ug 0.5 vs 1.0, formula Q=U·A·ΔT, tabel economii pe tipuri de locuință, când NU merită tripanul. Analiza ROI cu prețuri actuale.',
+      en: 'Triple vs double glazing 2026: real heating savings. Ug 0.5 vs 1.0, Q=U·A·ΔT formula, savings table by home type, when triple glazing is NOT worth it. ROI analysis with current prices.',
+      de: 'Dreifach- vs Zweifachverglasung 2026: reale Heizkosteneinsparungen. Ug 0,5 vs 1,0, Q=U·A·ΔT, Einsparpotenzial nach Wohnungstyp, wann Dreifach NICHT lohnt. ROI-Analyse.',
+      fr: 'Triple vs double vitrage 2026 : économies de chauffage réelles. Ug 0,5 vs 1,0, Q=U·A·ΔT, tableau par type de logement, quand le triple ne vaut PAS. Analyse ROI.',
+      es: 'Triple vs doble acristalamiento 2026: ahorro real en calefacción. Ug 0,5 vs 1,0, Q=U·A·ΔT, tabla por tipo de vivienda, cuándo el triple NO merece. Análisis ROI.',
+      it: 'Triplo vs doppio vetro 2026: risparmio reale riscaldamento. Ug 0,5 vs 1,0, Q=U·A·ΔT, tabella per tipo di abitazione, quando il triplo NON vale. Analisi ROI.',
+    },
+    excerpt: {
+      ro: 'Merită tripanul față de termopanul clasic? Calcule concrete pentru apartamente și case în România 2026. Economii reale per m², tabel de amortizare și situațiile în care tripanul NU este alegerea optimă.',
+      en: 'Is triple glazing worth it vs classic double? Concrete calculations for apartments and houses in Romania 2026. Real savings per m², amortisation table and situations where triple is NOT optimal.',
+      de: 'Lohnt Dreifach vs klassisches Zweifach? Konkrete Berechnungen für Wohnungen in Rumänien 2026. Reale Einsparungen pro m² und Situationen, in denen Dreifach NICHT optimal ist.',
+      fr: 'Le triple vaut-il le double classique ? Calculs concrets pour appartements et maisons en Roumanie 2026. Économies réelles par m² et situations où le triple n'est PAS optimal.',
+      es: '¿Vale el triple frente al doble clásico? Cálculos concretos para apartamentos y casas en Rumanía 2026. Ahorros reales por m² y situaciones donde el triple NO es óptimo.',
+      it: `Vale il triplo rispetto al doppio classico? Calcoli concreti per appartamenti e case in Romania 2026. Risparmi reali per m² e situazioni in cui il triplo NON è ottimale.`,
+    },
+    keywords: 'tripan vs termopan economii, tripan pret Romania 2026, geam triplu economii incalzire, merita tripan ferestre, calcul economii ferestre, amortizare tripan, termopan dublu vs triplu',
+    dateDisplay: {
+      ro: '12 mai 2026', en: 'May 12 2026', de: '12. Mai 2026',
+      fr: '12 mai 2026', es: '12 may 2026', it: '12 mag 2026',
+    },
+    content: {
+      ro: `## De ce tripanul a devenit standard în nZEB
+
+Până în 2018, termopanul dublu era norma industriei. Astăzi, pentru orice construcție nZEB, tripanul este cerința minimă realistă. Motivul este matematic: **Ug-ul** geamului este cel mai important parametru al ferestrei — și tripanul îl înjumătățește față de dublu.
+
+**Mituri despre termopan vs tripan:**
+- *„Tripanul este prea greu"* — Fals: cu ~8 kg mai mult per fereastră; feroneria Roto NT face față fără probleme
+- *„Tripanul nu lasă suficientă lumină"* — Fals: TL = 70% față de 76% pentru dublu — diferență imperceptibilă
+- *„Condensul dispare complet"* — Parțial: condensul central dispare; cel marginal depinde de distanțier (Warm Edge îl elimină)
+
+## Secțiunea 1 — Diferența tehnică reală
+
+**Dublu standard (32 mm):**
+4 mm / 24 mm argon / 4 mm Low-E → Ug = **1,0 W/(m²K)**
+
+**Triplu argon + Low-E (44 mm — standard Neofort BIZ):**
+4 mm / 16 mm argon / 4 mm Low-E / 16 mm argon / 4 mm → Ug = **0,5 W/(m²K)** — cu 50% mai bun
+
+**Triplu premium (52 mm — casă pasivă):**
+4 mm / 18 mm argon / 4 mm Low-E / 18 mm argon / 4 mm Low-E → Ug = **0,4 W/(m²K)**
+
+### Calculul pierderilor termice
+
+**Q = U × A × ΔT × t**
+
+unde: Q = căldură pierdută (kWh), U = Uw ferestrei (W/m²K), A = suprafață (m²), ΔT = diferența temperaturi (°C), t = timp (ore)
+
+**Exemplu: fereastră 100×120 cm (1,2 m²), București, sezon rece 3.500 ore, ΔT = 20°C:**
+
+| Tip geam | Uw | Q pierdut (kWh/an) | Cost energie (lei/an) |
+|---|---|---|---|
+| Simplu vechi (lemn) | 4,8 | 403 | ~242 lei |
+| Dublu standard | 1,4 | 118 | ~71 lei |
+| Dublu modern argon | 1,0 | 84 | ~50 lei |
+| **Triplu + argon** | **0,72** | **60** | **~36 lei** |
+| Triplu premium | 0,55 | 46 | ~28 lei |
+
+**Economie triplu vs dublu modern per fereastră 1,2 m²: 24 kWh/an = ~14 lei/an**
+
+## Secțiunea 2 — Cât economisești anual: exemple reale
+
+### Apartament 50 m², 6 ferestre (7,2 m² total)
+
+| Configurație actuală | Economie/an | Amortizare investiție |
+|---|---|---|
+| Geam simplu vechi | ~1.900 lei/an | 5-7 ani |
+| Dublu vechi (pre-2005) | ~520 lei/an | 8-12 ani |
+| Dublu modern (2010-2020) | ~165 lei/an | 15-20 ani |
+
+### Casă 120 m², 12 ferestre (14,4 m² total)
+
+| Configurație actuală | Economie/an | Amortizare |
+|---|---|---|
+| Geam simplu vechi | ~3.800 lei/an | 5-7 ani |
+| Dublu vechi | ~1.040 lei/an | 8-12 ani |
+| Dublu modern | ~330 lei/an | 15-20 ani |
+
+## Secțiunea 3 — Avantajele reale ale tripanului
+
+**Confort termic**
+Temperatura suprafeței interioare cu triplu la exterior de −5°C: +18°C (față de +12°C pentru dublu). Poți sta lângă fereastră iarna fără să simți curentul rece radiant.
+
+**Antifonare**
+Rw = 34-36 dB față de 28-32 dB pentru dublu. Diferența de 6-8 dB = percepi zgomotul cu ~40% mai slab. Esențial în București pe artere circulate.
+
+**Reducerea condensului**
+Cu Warm Edge, suprafața interioară a geamului rămâne la +17-18°C — deasupra punctului de rouă la 22°C interior, 50% umiditate. Niciun condens.
+
+**Confort vara**
+Factor solar g = 0,32 față de g = 0,62 pentru dublu standard. Cu 48% mai puțin aport solar nedorit vara → mai puțin consum de AC.
+
+## Secțiunea 4 — Când NU merită tripanul
+
+**Clădiri neizolate termic**
+Dacă pereții și acoperișul nu sunt izolați, ferestrele reprezintă sub 20% din pierderi. Investiția în tripan este ineficientă fără izolarea anvelopei.
+
+**Orientări exclusiv sudice cu captare solară pasivă**
+Factorul solar scăzut al tripanului (g=0,32) poate reduce aportul solar util iarna. Recomandare: tripan cu g=0,40-0,50 pe fațada sud.
+
+**Dublu modern funcțional cu buget limitat**
+Dacă ai dublu modern (Ug=1,0) în stare bună, economiile de 165 lei/an pe un apartament mic nu justifică investiția sub 15 ani.
+
+## Tabel comparativ complet dublu vs triplu
+
+| Parametru | Dublu argon standard | Triplu argon + Low-E | Triplu premium |
+|---|---|---|---|
+| Ug (W/m²K) | 1,0 | **0,5** | 0,4 |
+| Grosime totală | 32 mm | 44 mm | 52 mm |
+| Greutate (1,2 m²) | ~16 kg | ~24 kg | ~28 kg |
+| Atenuare fonică Rw | 28-32 dB | 34-36 dB | 36-40 dB |
+| Factor solar g | 0,62 | 0,32 | 0,28 |
+| Condens interior | Posibil | **Nul** (cu Warm Edge) | **Nul** |
+| Suprapret față de dublu | — | +15-25% | +30-45% |
+
+## FAQ — Tripan vs Termopan
+
+**Tripanul reduce factura la energie?**
+Da. Față de dublu modern (Ug=1,0), tripanul (Ug=0,5) reduce pierderile prin geam cu 50%. Pe o casă 120 m²: economie 330-1.040 lei/an în funcție de ce înlocuiești.
+
+**Care este diferența dintre termopan și tripan?**
+Termopanul (dublu): 2 foi, 1 cameră de gaz. Tripanul: 3 foi, 2 camere cu argon. Diferența Ug: 1,0 vs 0,5 W/(m²K) — 50% mai bun.
+
+**Se amortizează investiția?**
+Față de geam simplu vechi: 5-7 ani. Față de dublu vechi (pre-2005): 8-12 ani. Față de dublu modern funcțional: 15-20 ani.
+
+**Tripanul reduce zgomotul?**
+Da, semnificativ. Rw = 34-36 dB față de 28-32 dB — percepi zgomotul cu ~40% mai slab.
+
+**Ce grosime este recomandată?**
+44 mm pentru nZEB rezidențial standard. 52 mm pentru case pasive PHI.
+
+**Ce gaz este folosit între foi?**
+Argon (90% concentrație) — standard industrie. λ = 0,018 W/(mK) față de 0,026 pentru aer. Krypton (λ=0,009) este superior dar costă 3-4x mai mult.
+
+**Ce înseamnă sticlă Low-E?**
+Strat subțire de oxid metalic depus pe suprafața sticlei. Reflectă radiația infraroșie înapoi în încăpere iarna, o blochează vara. Reduce Ug cu 0,3-0,5 W/(m²K).
+
+## Concluzie
+
+**Merită tripanul dacă:**
+- Construiești sau renovezi total (ferestre noi oricum)
+- Înlocuiești geam simplu sau dublu vechi (pre-2005)
+- Vrei confort termic maxim și antifonare bună
+- Construiești nZEB sau casă pasivă
+
+**Nu merită tripanul dacă:**
+- Ai dublu modern funcțional (Ug=1,0, garnituri OK)
+- Clădirea nu e izolată termic
+- Budget limitat și alte priorități mai rentabile
+
+**Regula simplă:** Dacă oricum schimbi ferestrele → alege triplu (diferența 15-25% se amortizează garantat). Dacă ferestrele sunt funcționale → calculează ROI-ul specific.
+
+---
+
+**Articole conexe:**
+- [PVC sau Aluminiu pentru case nZEB în 2026?](/ro/blog/pvc-sau-aluminiu-case-nzeb-2026-ghid-alegere)
+- [Ce ferestre trebuie să alegi pentru o casă nZEB în România?](/ro/blog/ferestre-casa-nzeb-romania-ghid-complet-2026)
+- [Unde pot comanda termopane cu izolație avansată în București?](/ro/blog/unde-comand-termopane-izolatie-avansata-bucuresti)
+
+Neofort BIZ montează tripan Saint-Gobain SGG cu Warm Edge în București și Ilfov. [Solicită ofertă cu calcul de economii personalizat](/ro/contact).`,
+      en: `## Why Triple Glazing Has Become the nZEB Standard
+
+Until 2018, double glazing was the industry norm. Today, for any nZEB construction, triple glazing is the realistic minimum. The reason is mathematical: **Ug** is the most important window parameter — and triple glazing halves it.
+
+## Real Technical Difference
+
+**Double standard (32 mm):** Ug = **1.0 W/(m²K)**
+**Triple + argon + Low-E (44 mm):** Ug = **0.5 W/(m²K)** — 50% better
+
+**Heat loss formula: Q = U × A × ΔT × t**
+
+| Glass type | Uw | Heat lost (kWh/year)* | Cost (€/year)* |
+|---|---|---|---|
+| Old single (timber) | 4.8 | 403 | ~48 € |
+| Standard double | 1.4 | 118 | ~14 € |
+| Modern double argon | 1.0 | 84 | ~10 € |
+| **Triple + argon** | **0.72** | **60** | **~7 €** |
+
+*Per 1.2 m² window, Bucharest climate
+
+## Annual Savings: Real Examples
+
+**50 m² apartment, 6 windows (7.2 m²):**
+
+| Current situation | Saving/year | Payback |
+|---|---|---|
+| Old single glazing | ~€380/year | 5-7 years |
+| Old double (pre-2005) | ~€104/year | 8-12 years |
+| Modern double (2010-2020) | ~€33/year | 15-20 years |
+
+## Real Advantages Beyond Energy Savings
+
+- **Thermal comfort:** Interior glass at +18°C when -5°C outside (vs +12°C double)
+- **Acoustic insulation:** Rw 34-36 dB vs 28-32 dB — 40% less perceived noise
+- **No condensation:** With Warm Edge spacer, glass stays above dew point
+- **Summer comfort:** Solar factor g=0.32 vs 0.62 — 48% less unwanted solar gain
+
+## When Triple Glazing is NOT Worth It
+
+- Uninsulated buildings (windows <20% of losses)
+- South-facing passive solar designs (low g reduces useful solar gain)
+- Functional modern double glazing on tight budgets
+
+## FAQ
+
+**Does triple glazing reduce energy bills?** Yes — 50% less heat loss vs modern double. Saving €66-208/year on 120 m² house.
+
+**What is the difference?** Double: 2 panes, 1 gas chamber. Triple: 3 panes, 2 argon chambers. Ug: 1.0 vs 0.5.
+
+**Does it reduce noise?** Yes — Rw 34-36 vs 28-32 dB — 40% less perceived noise.
+
+**What gas is used?** Argon 90% — standard. λ = 0.018 W/(mK). Krypton (λ=0.009) is better but 3-4x more expensive.
+
+**What does Low-E mean?** Thin metallic oxide coating reflecting infrared radiation — reduces Ug by 0.3-0.5 W/(m²K).
+
+---
+
+Related: [PVC vs Aluminium nZEB 2026](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide) | [nZEB Windows Romania Guide](/en/blog/windows-nzeb-house-romania-complete-guide-2026) | [Advanced Insulation Windows Bucharest](/en/blog/where-to-order-advanced-insulation-windows-bucharest)
+
+Neofort BIZ installs Saint-Gobain SGG triple glazing with Warm Edge in Bucharest and Ilfov. [Request personalised savings calculation](/en/contact).`,
+      de: `## Warum Dreifachverglasung zum nZEB-Standard wurde
+
+Bis 2018 war Zweifach die Norm. Heute ist Dreifachverglasung für jeden nZEB-Bau das realistische Minimum. **Ug** halbiert sich — von 1,0 auf 0,5 W/(m²K).
+
+**Wärmeverlustformel: Q = U × A × ΔT × t**
+
+| Glastyp | Uw | Verlust (kWh/Jahr)* |
+|---|---|---|
+| Altes Einfachglas | 4,8 | 403 |
+| Standard Zweifach | 1,4 | 118 |
+| Modernes Zweifach | 1,0 | 84 |
+| **Dreifach + Argon** | **0,72** | **60** |
+
+## Jährliche Einsparungen: Reale Beispiele
+
+**50 m² Wohnung, 6 Fenster:**
+
+| Aktueller Zustand | Einsparung/Jahr | Amortisierung |
+|---|---|---|
+| Altes Einfachglas | ~380 €/Jahr | 5-7 Jahre |
+| Alter Zweifach (vor 2005) | ~104 €/Jahr | 8-12 Jahre |
+| Moderner Zweifach | ~33 €/Jahr | 15-20 Jahre |
+
+## Wann lohnt sich Dreifachverglasung NICHT?
+
+- Nicht gedämmte Gebäude
+- Reine Südfassaden mit Solarenergiekonzept
+- Funktionierender moderner Zweifach bei kleinem Budget
+
+## FAQ
+
+**Spart Dreifach Heizkosten?** Ja — 50% weniger Wärmeverlust. Amortisierung 5-20 Jahre je nach Ausgangssituation.
+
+**Was bedeutet Low-E?** Metalloxidschicht die Infrarotstrahlung reflektiert — reduziert Ug um 0,3-0,5 W/(m²K).
+
+**Wann lohnt sich NICHT?** Bei nicht gedämmten Gebäuden oder funktionierendem modernen Zweifach.
+
+---
+
+Neofort BIZ montiert Saint-Gobain SGG Dreifachverglasung mit Warm Edge in Bukarest und Ilfov. [Angebot mit persönlicher Einsparungsberechnung](/de/kontakt).`,
+      fr: `## Pourquoi le triple vitrage est devenu le standard nZEB
+
+Jusqu'en 2018, le double était la norme. Aujourd'hui le triple est le minimum réaliste pour nZEB. Le Ug passe de 1,0 à **0,5 W/(m²K)** — 50% meilleur.
+
+**Formule : Q = U × A × ΔT × t**
+
+| Type de vitrage | Uw | Pertes (kWh/an)* |
+|---|---|---|
+| Simple ancien | 4,8 | 403 |
+| Double standard | 1,4 | 118 |
+| Double moderne argon | 1,0 | 84 |
+| **Triple + argon** | **0,72** | **60** |
+
+## Économies annuelles réelles — Appartement 50 m², 6 fenêtres
+
+| Situation actuelle | Économie/an | Amortissement |
+|---|---|---|
+| Simple ancien | ~380 €/an | 5-7 ans |
+| Ancien double (avant 2005) | ~104 €/an | 8-12 ans |
+| Double moderne | ~33 €/an | 15-20 ans |
+
+## Quand le triple ne vaut PAS ?
+
+- Bâtiments non isolés thermiquement
+- Façades plein sud avec captage solaire passif
+- Double moderne fonctionnel avec petit budget
+
+## FAQ
+
+**Le triple réduit-il la facture ?** Oui — 50% moins de pertes. Économie 33-380 €/an selon la situation.
+
+**Qu'est-ce que Low-E ?** Couche d'oxyde métallique réfléchissant les infrarouges — réduit Ug de 0,3-0,5 W/(m²K).
+
+---
+
+Neofort BIZ installe triple vitrage Saint-Gobain SGG avec Warm Edge à Bucarest et Ilfov. [Devis avec calcul d'économies personnalisé](/fr/contact).`,
+      es: `## Por qué el triple acristalamiento se ha convertido en el estándar nZEB
+
+Hasta 2018, el doble era la norma. Hoy el triple es el mínimo realista para nZEB. El Ug pasa de 1,0 a **0,5 W/(m²K)** — 50% mejor.
+
+**Fórmula: Q = U × A × ΔT × t**
+
+| Tipo de vidrio | Uw | Pérdidas (kWh/año)* |
+|---|---|---|
+| Simple antiguo | 4,8 | 403 |
+| Doble estándar | 1,4 | 118 |
+| Doble moderno argón | 1,0 | 84 |
+| **Triple + argón** | **0,72** | **60** |
+
+## Ahorros anuales reales — Apartamento 50 m², 6 ventanas
+
+| Situación actual | Ahorro/año | Amortización |
+|---|---|---|
+| Simple antiguo | ~380 €/año | 5-7 años |
+| Doble antiguo (antes 2005) | ~104 €/año | 8-12 años |
+| Doble moderno | ~33 €/año | 15-20 años |
+
+## Cuándo el triple NO merece
+
+- Edificios sin aislar térmicamente
+- Fachadas sur con captación solar pasiva
+- Doble moderno funcional con presupuesto reducido
+
+## FAQ
+
+**¿Reduce el triple la factura?** Sí — 50% menos pérdidas. Ahorro 33-380 €/año según situación.
+
+**¿Qué es Low-E?** Capa de óxido metálico que refleja infrarrojos — reduce Ug en 0,3-0,5 W/(m²K).
+
+---
+
+Neofort BIZ instala triple acristalamiento Saint-Gobain SGG con Warm Edge en Bucarest e Ilfov. [Presupuesto con cálculo de ahorros personalizado](/es/contact).`,
+      it: `## Perché il triplo vetro è diventato lo standard nZEB
+
+Fino al 2018, il doppio era la norma. Oggi il triplo è il minimo realistico per nZEB. Il Ug passa da 1,0 a **0,5 W/(m²K)** — 50% migliore.
+
+**Formula: Q = U × A × ΔT × t**
+
+| Tipo di vetro | Uw | Dispersioni (kWh/anno)* |
+|---|---|---|
+| Semplice antico | 4,8 | 403 |
+| Doppio standard | 1,4 | 118 |
+| Doppio moderno argon | 1,0 | 84 |
+| **Triplo + argon** | **0,72** | **60** |
+
+## Risparmi annui reali — Appartamento 50 m², 6 finestre
+
+| Situazione attuale | Risparmio/anno | Ammortamento |
+|---|---|---|
+| Semplice antico | ~380 €/anno | 5-7 anni |
+| Doppio antico (pre-2005) | ~104 €/anno | 8-12 anni |
+| Doppio moderno | ~33 €/anno | 15-20 anni |
+
+## Quando il triplo NON vale?
+
+- Edifici non isolati termicamente
+- Facciate pure sud con captazione solare passiva
+- Doppio moderno funzionante con budget ridotto
+
+## FAQ
+
+**Il triplo riduce la bolletta?** Sì — 50% meno dispersioni. Risparmio 33-380 €/anno secondo la situazione.
+
+**Cosa significa Low-E?** Strato di ossido metallico che riflette gli infrarossi — riduce Ug di 0,3-0,5 W/(m²K).
+
+---
+
+Neofort BIZ installa triplo vetro Saint-Gobain SGG con Warm Edge a Bucarest e Ilfov. [Preventivo con calcolo di risparmio personalizzato](/it/contact).`,
+    },
+  },
+
+  // ─── A1: PVC vs Aluminiu nZEB 2026 ──────────────────────────────────────────
+  {
+    slugs: {
+      ro: 'pvc-sau-aluminiu-case-nzeb-2026-ghid-alegere',
+      en: 'pvc-or-aluminium-nzeb-homes-2026-complete-guide',
+      de: 'pvc-oder-aluminium-nzeb-haeuser-2026-ratgeber',
+      fr: 'pvc-ou-aluminium-maisons-nzeb-2026-guide-complet',
+      es: 'pvc-o-aluminio-casas-nzeb-2026-guia-completa',
+      it: 'pvc-o-alluminio-case-nzeb-2026-guida-completa',
+    },
+    date: '2026-05-07',
+    author: 'Mihai Dănălache',
+    authorRole: {
+      ro: 'Consultant Tehnic Senior — 21 ani experiență',
+      en: 'Senior Technical Consultant — 21 years experience',
+      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
+      fr: "Consultant technique senior — 21 ans d'expérience",
+      es: 'Asesor técnico senior — 21 años de experiencia',
+      it: 'Consulente tecnico senior — 21 anni di esperienza',
+    },
+    authorPhoto: '/team/mihai-danalache.avif',
+    accentColor: '#1a4a8a',
+    image: {
+      ro: '/blog/pvc-vs-aluminiu-case-nzeb-2026-ghid-alegere.avif',
+      en: '/blog/pvc-vs-aluminiu-case-nzeb-2026-ghid-alegere.avif',
+      de: '/blog/pvc-vs-aluminiu-case-nzeb-2026-ghid-alegere.avif',
+      fr: '/blog/pvc-vs-aluminiu-case-nzeb-2026-ghid-alegere.avif',
+      es: '/blog/pvc-vs-aluminiu-case-nzeb-2026-ghid-alegere.avif',
+      it: '/blog/pvc-vs-aluminiu-case-nzeb-2026-ghid-alegere.avif',
+    },
+    imageOg: '/blog/pvc-vs-aluminiu-case-nzeb-2026-ghid-alegere-og.jpg',
+    imageBg: 'linear-gradient(135deg,#0a0e1a 0%,#1a2a4a 60%,#0a0e1a 100%)',
+    imageLabel: 'PVC vs Aluminiu case nZEB 2026 — comparație tehnică completă',
+    readTime: { ro:'14 min citire', en:'14 min read', de:'14 Min.', fr:'14 min', es:'14 min', it:'14 min' },
+    category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Ratgeber', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
+    title: {
+      ro: 'PVC sau Aluminiu pentru case nZEB în 2026? Ghid complet de alegere după eficiență energetică, cost și durabilitate',
+      en: 'PVC or Aluminium for nZEB Homes in 2026? Complete Guide by Energy Efficiency, Cost and Durability',
+      de: 'PVC oder Aluminium für nZEB-Häuser 2026? Vollständiger Ratgeber nach Energieeffizienz, Kosten und Haltbarkeit',
+      fr: 'PVC ou Aluminium pour maisons nZEB en 2026 ? Guide complet par efficacité énergétique, coût et durabilité',
+      es: '¿PVC o Aluminio para casas nZEB en 2026? Guía completa por eficiencia energética, coste y durabilidad',
+      it: 'PVC o Alluminio per case nZEB nel 2026? Guida completa per efficienza energetica, costo e durabilità',
+    },
+    metaDesc: {
+      ro: 'PVC sau aluminiu pentru case nZEB în 2026? Comparație completă: Uw, cost, durabilitate, design. Salamander bluEvolution 92 vs Alumil S77 Supreme. Recomandare clară pe scenarii: apartament, vilă premium, casă pasivă.',
+      en: 'PVC or aluminium for nZEB homes 2026? Complete comparison: Uw, cost, durability, design. Salamander bluEvolution 92 vs Alumil S77 Supreme. Clear recommendation by scenario.',
+      de: 'PVC oder Aluminium für nZEB-Häuser 2026? Vollständiger Vergleich: Uw, Kosten, Haltbarkeit. Salamander bluEvolution 92 vs Alumil S77 Supreme. Klare Empfehlung nach Szenario.',
+      fr: 'PVC ou aluminium pour maisons nZEB 2026 ? Comparaison complète : Uw, coût, durabilité. Salamander bluEvolution 92 vs Alumil S77 Supreme. Recommandation claire par scénario.',
+      es: '¿PVC o aluminio para casas nZEB 2026? Comparación completa: Uw, coste, durabilidad. Salamander bluEvolution 92 vs Alumil S77 Supreme. Recomendación clara por escenario.',
+      it: 'PVC o alluminio per case nZEB 2026? Confronto completo: Uw, costo, durabilità. Salamander bluEvolution 92 vs Alumil S77 Supreme. Raccomandazione chiara per scenario.',
+    },
+    excerpt: {
+      ro: 'PVC sau aluminiu pentru casa ta nZEB? Ghid tehnic complet 2026: Uw real, cost total, durabilitate și scenarii de utilizare. Răspuns clar pentru fiecare situație: apartament, vilă premium, casă pasivă, suprafețe vitrate mari.',
+      en: 'PVC or aluminium for your nZEB home? Complete technical guide 2026: real Uw, total cost, durability and usage scenarios. Clear answer for each situation.',
+      de: 'PVC oder Aluminium für Ihr nZEB-Haus? Vollständiger Leitfaden 2026: realer Uw, Gesamtkosten, Haltbarkeit. Klare Antwort für jede Situation.',
+      fr: 'PVC ou aluminium pour votre maison nZEB ? Guide complet 2026 : Uw réel, coût total, durabilité. Réponse claire pour chaque situation.',
+      es: '¿PVC o aluminio para su casa nZEB? Guía completa 2026: Uw real, coste total, durabilidad. Respuesta clara para cada situación.',
+      it: `PVC o alluminio per la vostra casa nZEB? Guida completa 2026: Uw reale, costo totale, durabilità. Risposta chiara per ogni situazione.`,
+    },
+    keywords: 'PVC sau aluminiu nZEB, ferestre nZEB 2026, Salamander vs Alumil, tamplarie casa nzeb, ferestre casa pasiva Romania, alegere tamplarie nZEB 2026',
+    dateDisplay: {
+      ro: '7 mai 2026', en: 'May 7 2026', de: '7. Mai 2026',
+      fr: '7 mai 2026', es: '7 may 2026', it: '7 mag 2026',
+    },
+    content: {
+      ro: `## Ce este o casă nZEB și de ce contează alegerea tâmplăriei
+
+**nZEB (Nearly Zero Energy Building)** este standardul obligatoriu pentru toate construcțiile noi din România din 2021, conform HG 765/2016. O casă nZEB trebuie să atingă un consum de energie primară ≤ 100 kWh/m²/an.
+
+Ferestrele și ușile reprezintă **15-25% din suprafața anvelopei** și sunt responsabile de **25-40% din pierderile termice totale**. Alegerea greșită a materialului — PVC sau aluminiu — poate sabota întregul bilanț energetic al casei, chiar dacă ai izolat perfect pereții și acoperișul.
+
+De ce apare dilema PVC vs aluminiu? Ambele materiale au evoluat enorm. PVC-ul modern nu mai este „plastic ieftin", iar aluminiul modern nu mai este „conductor termic periculos". Diferența reală constă în scenariul de utilizare.
+
+## Secțiunea 1 — Diferențele reale dintre PVC și aluminiu
+
+### Izolație termică
+
+**PVC (Salamander bluEvolution 92):**
+- Conductivitate termică profil: λ = 0,17 W/(mK)
+- Uf profil = 0,95 W/(m²K)
+- 6 camere, 92 mm adâncime
+- Uw total cu tripan Saint-Gobain + Warm Edge: **0,72 W/(m²K)**
+
+**Aluminiu (Alumil S77 Supreme):**
+- Conductivitate termică profil pur: λ = 160 W/(mK) — redusă la ~0,3 W/(mK) prin bariera de poliamidă 34 mm
+- Uf profil = 1,3 W/(m²K)
+- Uw total cu tripan + Warm Edge: **1,0-1,2 W/(m²K)**
+
+**Concluzie izolație:** PVC câștigă clar — diferența de 0,3-0,5 W/(m²K) în Uw înseamnă ~30% mai multă căldură pierdută prin ferestre din aluminiu față de PVC la aceleași dimensiuni.
+
+### Rezistență structurală și suprafețe vitrate mari
+
+Aluminiul câștigă net. Rezistență structurală de 3-4 ori superioară PVC la aceeași secțiune. Consecințe practice:
+
+- **Ferestre mari** (>1,5 m lățime): aluminiul permite profile vizual mai subțiri
+- **Culisante de mari dimensiuni** (3-6 m): aluminiul este soluția standard
+- **Fațade cortină**: exclusiv aluminiu
+- **Ferestre pivotante**: exclusiv aluminiu
+
+### Design și aspect vizual
+
+Aluminiul permite profile cu secțiune vizibilă mult mai subțire (30-45 mm față de 60-80 mm la PVC), mai multă suprafață vitrată, și orice culoare RAL inclusiv finisaje metalizate sau bicolor. PVC-ul oferă culorile standard și nu poate fi revopsit după instalare.
+
+### Durată de viață și reciclabilitate
+
+| Material | Durată garantată | Deformare termică | Mentenanță |
+|---|---|---|---|
+| PVC Salamander | 40+ ani | Minimă | Anuală (garnituri) |
+| Aluminiu Alumil | 50+ ani | Nulă | Minimă |
+
+## Tabel comparativ complet PVC vs Aluminiu nZEB
+
+| Caracteristică | PVC Salamander bluEvolution 92 | Aluminiu Alumil S77 Supreme |
+|---|---|---|
+| Uw cu tripan (W/m²K) | **0,72** | 1,0-1,2 |
+| Uf profil (W/m²K) | **0,95** | 1,3 |
+| Izolație fonică Rw (dB) | 42-47 | 38-42 |
+| Grosime profil vizibil | 70-82 mm | **30-45 mm** |
+| Suprafețe vitrate mari | Limitat | **Excelent** |
+| Rezistență structurală | Bună (cu armare) | **Superioară** |
+| Durată de viață | 40+ ani | **50+ ani** |
+| Cost relativ | **Mai mic** | +20-35% |
+| Recomandat nZEB | **Ideal** | Acceptabil |
+| Recomandat casă pasivă | **Ideal** | Limitat |
+
+## Secțiunea 2 — Ce contează cu adevărat la ferestrele nZEB
+
+Formula de calcul a coeficientului termic al ferestrei complete:
+
+**Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
+
+Elementele critice în ordine de impact:
+1. **Geam triplu cu argon** — Ug = 0,5 față de 1,0 pentru dublu: cel mai mare impact
+2. **Distanțier Warm Edge** — Ψg = 0,03 W/(mK) față de 0,1 pentru aluminiu
+3. **Tipul de profil** — Uf diferă între PVC (0,95) și aluminiu (1,3)
+4. **Strat Low-E** — reduce factorul solar g și emisivitatea
+5. **Montajul** — benzi precomprimate + eliminarea punții termice: 30-50% din performanța totală
+
+## Secțiunea 3 — Când merită PVC și când aluminiu
+
+**Apartament renovare:** PVC Salamander bluEvolution 82 sau 92 — Uw = 0,72, economie 20-30% față de aluminiu
+
+**Vilă premium:** Mix PVC pentru dormitoare/băi + Aluminiu culisante pentru living
+
+**Casă pasivă (PHI):** PVC Salamander bluEvolution 92 cu precadre Blaugelb — singura opțiune sub Uw 0,8 W/(m²K)
+
+**Spații comerciale, birouri, fațade:** Aluminiu Alumil (sistem cortină, S77, SF85)
+
+**Ferestre mari culisante (>3 m):** Aluminiu Alumil Smartia M19800
+
+## Secțiunea 4 — Greșeli frecvente de alegere
+
+❌ **Alegerea doar după numărul de camere al profilului** — un profil 5 camere + tripan poate fi mai bun decât 7 camere + dublu geam
+
+❌ **Ignorarea montajului** — fără benzi precomprimate și fără eliminarea punții termice la glaf, pierzi 30-50% din performanță
+
+❌ **Tripan cu distanțier standard din aluminiu** — fără Warm Edge, Uw crește cu 0,1-0,15 W/(m²K)
+
+❌ **Profile fără certificări EN** — profilele Salamander au certificare IFT Rosenheim și declarație CE conform EN 14351-1
+
+❌ **Aluminiu pentru case pasive** — aluminiul standard (Uf = 1,3 W/m²K) nu permite atingerea Uw ≤ 0,8 W/(m²K)
+
+## FAQ — PVC vs Aluminiu nZEB
+
+**Care este mai eficient energetic: PVC sau aluminiu?**
+PVC Salamander bluEvolution 92 — Uw = 0,72 față de 1,0-1,2 pentru aluminiu. Diferența vine din conductivitatea termică: PVC λ = 0,17 W/(mK) vs aluminiu pur λ = 160 W/(mK).
+
+**Aluminiul modern mai face condens?**
+Cu rupere de punte termică 34 mm + Warm Edge + montaj corect: nu face condens la exterior de -15°C.
+
+**Ce Uw trebuie pentru nZEB?**
+Normative românești (HG 765/2016): Uw ≤ 1,0 W/(m²K) pentru Zona II climatică (București, Ilfov). Case pasive PHI: Uw ≤ 0,8 W/(m²K).
+
+**Merită tripanul față de dublu geam?**
+Da, întotdeauna pentru nZEB. Ug = 0,5 față de 1,0 — reduce pierderile prin geam cu 50%. Diferența de preț (15-25%) se amortizează în 5-8 ani.
+
+**Ce profile sunt recomandate pentru case pasive?**
+Salamander bluEvolution 92 + tripan 52 mm Saint-Gobain SGG + Warm Edge + precadre Blaugelb Triotherm+. Uw = 0,66-0,72 W/(m²K).
+
+**Care rezistă mai mult: PVC sau aluminiu?**
+Aluminiul — 50+ ani față de 40+ ani PVC. Ambele superioare oricărei alternative din lemn netratat.
+
+**Ce aleg pentru suprafețe vitrate mari?**
+Aluminiu fără excepție. Rezistență structurală 3-4x superioară, permite culisante de 6 m lățime.
+
+## Concluzie — Recomandare clară pe scenarii
+
+| Scenariu | Material recomandat | Motivul principal |
+|---|---|---|
+| Apartament renovare | PVC Salamander bluEvolution 82 | Uw optim, cost-eficient |
+| Casă nouă standard | PVC Salamander bluEvolution 92 | nZEB cu marjă de siguranță |
+| Casă pasivă PHI | PVC bluEvolution 92 + Blaugelb | Singura opțiune sub Uw 0,8 |
+| Vilă cu living mare | Mix PVC + Aluminiu culisante | Fiecare material la locul lui |
+| Birouri, comercial | Aluminiu Alumil S77 | Structură + estetică |
+| Fațade cortină | Aluminiu sistem cortină | Exclusiv aluminiu |
+
+**Regula simplă:** Izolație maximă → PVC. Design sau suprafețe vitrate mari → aluminiu. Altceva → mix.
+
+---
+
+**Articole conexe:**
+- [Sistem complet nZEB: Salamander + Blaugelb + geam triplu](/ro/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu)
+- [Ce ferestre trebuie să alegi pentru o casă nZEB în România?](/ro/blog/ferestre-casa-nzeb-romania-ghid-complet-2026)
+- [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026)
+
+Neofort BIZ furnizează atât sisteme Salamander (PVC) cât și Alumil (aluminiu) în București și Ilfov. [Solicită consultanță gratuită pentru proiectul tău](/ro/contact).`,
+      en: `## What is an nZEB Home and Why Does Window Choice Matter
+
+**nZEB (Nearly Zero Energy Building)** is the mandatory standard for all new constructions in Romania since 2021. Primary energy consumption ≤ 100 kWh/m²/year. Windows represent 15-25% of the envelope and account for 25-40% of total heat losses.
+
+## Real Differences: PVC vs Aluminium
+
+**PVC (Salamander bluEvolution 92):** λ = 0.17 W/(mK) | Uf = 0.95 W/(m²K) | Uw with triple + Warm Edge: **0.72 W/(m²K)**
+
+**Aluminium (Alumil S77 Supreme):** 34 mm polyamide thermal break | Uf = 1.3 W/(m²K) | Uw: **1.0-1.2 W/(m²K)**
+
+## Full Comparison Table
+
+| Feature | PVC Salamander bluEvolution 92 | Aluminium Alumil S77 Supreme |
+|---|---|---|
+| Uw with triple glazing | **0.72 W/(m²K)** | 1.0-1.2 W/(m²K) |
+| Profile Uf | **0.95 W/(m²K)** | 1.3 W/(m²K) |
+| Acoustic Rw (dB) | 42-47 | 38-42 |
+| Visual profile width | 70-82 mm | **30-45 mm** |
+| Large glazed areas | Limited | **Excellent** |
+| nZEB recommendation | **Ideal** | Acceptable |
+| Passive house | **Ideal** | Limited |
+| Relative cost | **Lower** | +20-35% |
+
+## What Really Matters for nZEB Windows
+
+**Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
+
+Priority order: 1) Triple glazing + argon (Ug=0.5) 2) Warm Edge spacer (Ψg=0.03) 3) Profile type 4) Low-E coating 5) Installation quality
+
+## When PVC and When Aluminium
+
+- **Apartment renovation:** PVC bluEvolution 82/92 — Uw = 0.72, 20-30% cheaper than aluminium
+- **Premium villa:** Mix PVC (bedrooms) + Aluminium (large living area)
+- **Passive house PHI:** PVC bluEvolution 92 + Blaugelb preframes — only option under Uw 0.8
+- **Commercial, facades:** Aluminium Alumil S77/SF85
+- **Large sliding doors >3m:** Aluminium Alumil Smartia M19800
+
+## FAQ
+
+**Which is more energy efficient?** PVC — Uw = 0.72 vs 1.0-1.2 for aluminium.
+
+**What Uw for nZEB?** Romanian standards: Uw ≤ 1.0 W/(m²K) Zone II (Bucharest). Passive house: ≤ 0.8.
+
+**Does modern aluminium still condense?** No — with 34mm thermal break + Warm Edge + correct installation.
+
+**Is triple glazing worth it?** Always for nZEB — saves 50% heat loss vs double. Payback 5-8 years.
+
+## Conclusion
+
+| Scenario | Recommended | Reason |
+|---|---|---|
+| Apartment renovation | PVC bluEvolution 82 | Best Uw, cost-efficient |
+| New standard home | PVC bluEvolution 92 | nZEB with safety margin |
+| Passive house PHI | PVC + Blaugelb | Only option under Uw 0.8 |
+| Villa with large living | Mix PVC + Aluminium | Right material in right place |
+| Offices, facades | Aluminium Alumil S77 | Structure + aesthetics |
+
+---
+
+Related: [Complete nZEB System](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing) | [nZEB Windows Guide Romania](/en/blog/windows-nzeb-house-romania-complete-guide-2026) | [Salamander Prices 2026](/en/blog/salamander-window-prices-bucharest-2026)
+
+Neofort BIZ supplies Salamander (PVC) and Alumil (aluminium) in Bucharest and Ilfov. [Request free consultation](/en/contact).`,
+      de: `## Was ist ein nZEB-Haus und warum ist die Fensterwahl entscheidend?
+
+**nZEB** ist seit 2021 Pflichtstandard in Rumänien. Primärenergieverbrauch ≤ 100 kWh/m²/Jahr. Fenster machen 15-25% der Gebäudehülle aus und sind für 25-40% der Wärmeverluste verantwortlich.
+
+## Reale Unterschiede: PVC vs Aluminium
+
+**PVC (Salamander bluEvolution 92):** Uf = 0,95 W/(m²K) | Uw mit Dreifach + Warm Edge: **0,72 W/(m²K)**
+
+**Aluminium (Alumil S77 Supreme):** 34 mm Polyamid-Wärmedämmbrücke | Uf = 1,3 W/(m²K) | Uw: **1,0-1,2 W/(m²K)**
+
+## Vollständige Vergleichstabelle
+
+| Merkmal | PVC Salamander bluEvolution 92 | Aluminium Alumil S77 Supreme |
+|---|---|---|
+| Uw mit Dreifachverglasung | **0,72 W/(m²K)** | 1,0-1,2 W/(m²K) |
+| Profil Uf | **0,95 W/(m²K)** | 1,3 W/(m²K) |
+| Schallschutz Rw | 42-47 dB | 38-42 dB |
+| Sichtbare Profilbreite | 70-82 mm | **30-45 mm** |
+| Große Verglasungsflächen | Begrenzt | **Ausgezeichnet** |
+| nZEB-Empfehlung | **Ideal** | Akzeptabel |
+| Passivhaus | **Ideal** | Begrenzt |
+
+## Wann PVC, wann Aluminium?
+
+- Wohnungsrenovierung: PVC bluEvolution 82/92
+- Passivhaus PHI: PVC bluEvolution 92 + Blaugelb-Vorblendrahmen
+- Gewerbe/Fassaden: Aluminium Alumil S77
+- Große Schiebetüren >3m: Aluminium Alumil Smartia M19800
+
+## FAQ
+
+**Welches ist effizienter?** PVC — Uw = 0,72 vs 1,0-1,2 für Aluminium.
+
+**Welcher Uw für nZEB?** ≤ 1,0 W/(m²K) Zone II (Bukarest). Passivhaus: ≤ 0,8.
+
+**Lohnt Dreifachverglasung?** Immer für nZEB — 50% weniger Wärmeverlust. Amortisierung 5-8 Jahre.
+
+---
+
+Neofort BIZ liefert Salamander (PVC) und Alumil (Aluminium) in Bukarest und Ilfov. [Kostenloses Beratungsgespräch](/de/kontakt).`,
+      fr: `## PVC ou Aluminium pour une maison nZEB en 2026 ?
+
+**nZEB** est la norme obligatoire en Roumanie depuis 2021. Consommation d'énergie primaire ≤ 100 kWh/m²/an. Les fenêtres représentent 25-40% des pertes thermiques.
+
+## Tableau comparatif complet
+
+| Caractéristique | PVC Salamander bluEvolution 92 | Aluminium Alumil S77 Supreme |
+|---|---|---|
+| Uw avec triple vitrage | **0,72 W/(m²K)** | 1,0-1,2 W/(m²K) |
+| Uf profilé | **0,95 W/(m²K)** | 1,3 W/(m²K) |
+| Isolation acoustique Rw | 42-47 dB | 38-42 dB |
+| Largeur profil visible | 70-82 mm | **30-45 mm** |
+| Grandes surfaces vitrées | Limité | **Excellent** |
+| nZEB | **Idéal** | Acceptable |
+| Maison passive | **Idéal** | Limité |
+
+## Quand le PVC, quand l'aluminium ?
+
+- Rénovation appartement : PVC bluEvolution 82/92
+- Maison passive PHI : PVC bluEvolution 92 + précadres Blaugelb
+- Commercial/façades : Aluminium Alumil S77
+- Grandes baies >3m : Aluminium Alumil Smartia M19800
+
+## FAQ
+
+**Lequel est plus efficace ?** PVC — Uw = 0,72 vs 1,0-1,2 pour aluminium.
+
+**Quel Uw pour nZEB ?** ≤ 1,0 W/(m²K) zone II (Bucarest). Maison passive : ≤ 0,8.
+
+**Le triple vitrage vaut-il la peine ?** Toujours pour nZEB — 50% moins de pertes. Rentabilisé en 5-8 ans.
+
+---
+
+Neofort BIZ fournit Salamander (PVC) et Alumil (aluminium) à Bucarest et Ilfov. [Consultation gratuite](/fr/contact).`,
+      es: `## ¿PVC o Aluminio para casas nZEB en 2026?
+
+**nZEB** es la norma obligatoria en Rumanía desde 2021. Consumo de energía primaria ≤ 100 kWh/m²/año. Las ventanas representan el 25-40% de las pérdidas térmicas.
+
+## Tabla comparativa completa
+
+| Característica | PVC Salamander bluEvolution 92 | Aluminio Alumil S77 Supreme |
+|---|---|---|
+| Uw con triple acristalamiento | **0,72 W/(m²K)** | 1,0-1,2 W/(m²K) |
+| Uf perfil | **0,95 W/(m²K)** | 1,3 W/(m²K) |
+| Aislamiento acústico Rw | 42-47 dB | 38-42 dB |
+| Ancho perfil visible | 70-82 mm | **30-45 mm** |
+| Grandes superficies acristaladas | Limitado | **Excelente** |
+| nZEB | **Ideal** | Aceptable |
+| Casa pasiva | **Ideal** | Limitado |
+
+## ¿Cuándo PVC y cuándo aluminio?
+
+- Renovación apartamento: PVC bluEvolution 82/92
+- Casa pasiva PHI: PVC bluEvolution 92 + premarcos Blaugelb
+- Comercial/fachadas: Aluminio Alumil S77
+- Grandes correderas >3m: Aluminio Alumil Smartia M19800
+
+## FAQ
+
+**¿Cuál es más eficiente?** PVC — Uw = 0,72 vs 1,0-1,2 para aluminio.
+
+**¿Qué Uw para nZEB?** ≤ 1,0 W/(m²K) zona II (Bucarest). Casa pasiva: ≤ 0,8.
+
+**¿Vale el triple acristalamiento?** Siempre para nZEB — 50% menos pérdidas. Amortizado en 5-8 años.
+
+---
+
+Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov. [Consulta gratuita](/es/contact).`,
+      it: `## PVC o Alluminio per case nZEB nel 2026?
+
+**nZEB** è lo standard obbligatorio in Romania dal 2021. Consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre rappresentano il 25-40% delle dispersioni termiche.
+
+## Tabella comparativa completa
+
+| Caratteristica | PVC Salamander bluEvolution 92 | Alluminio Alumil S77 Supreme |
+|---|---|---|
+| Uw con triplo vetro | **0,72 W/(m²K)** | 1,0-1,2 W/(m²K) |
+| Uf profilo | **0,95 W/(m²K)** | 1,3 W/(m²K) |
+| Isolamento acustico Rw | 42-47 dB | 38-42 dB |
+| Larghezza profilo visibile | 70-82 mm | **30-45 mm** |
+| Grandi superfici vetrate | Limitato | **Eccellente** |
+| nZEB | **Ideale** | Accettabile |
+| Casa passiva | **Ideale** | Limitato |
+
+## Quando PVC e quando alluminio?
+
+- Ristrutturazione appartamento: PVC bluEvolution 82/92
+- Casa passiva PHI: PVC bluEvolution 92 + precornici Blaugelb
+- Commerciale/facciate: Alluminio Alumil S77
+- Grandi scorrevoli >3m: Alluminio Alumil Smartia M19800
+
+## FAQ
+
+**Quale è più efficiente?** PVC — Uw = 0,72 vs 1,0-1,2 per alluminio.
+
+**Quale Uw per nZEB?** ≤ 1,0 W/(m²K) zona II (Bucarest). Casa passiva: ≤ 0,8.
+
+**Vale il triplo vetro?** Sempre per nZEB — 50% meno dispersioni. Ammortizzato in 5-8 anni.
+
+---
+
+Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [Consulenza gratuita](/it/contact).`,
+    },
+  },
+
   // ─── ARTICOL: Uși aluminiu Sector 1 București ──────────────────────────────
   {
     slugs: {

@@ -710,6 +710,30 @@ export const routing = defineRouting({
     es: '/blog/como-mejorar-aislamiento-termico-ventanas-bucarest',
     it: '/blog/come-migliorare-isolamento-termico-finestre-bucarest',
   },
+  '/blog/pvc-sau-aluminiu-case-nzeb-2026-ghid-alegere': {
+    ro: '/blog/pvc-sau-aluminiu-case-nzeb-2026-ghid-alegere',
+    en: '/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide',
+    de: '/blog/pvc-oder-aluminium-nzeb-haeuser-2026-ratgeber',
+    fr: '/blog/pvc-ou-aluminium-maisons-nzeb-2026-guide-complet',
+    es: '/blog/pvc-o-aluminio-casas-nzeb-2026-guia-completa',
+    it: '/blog/pvc-o-alluminio-case-nzeb-2026-guida-completa',
+  },
+  '/blog/tripan-vs-termopan-economii-reale-incalzire-pret': {
+    ro: '/blog/tripan-vs-termopan-economii-reale-incalzire-pret',
+    en: '/blog/triple-vs-double-glazing-real-savings-heating-cost',
+    de: '/blog/dreifach-vs-zweifachverglasung-reale-einsparungen-heizkosten',
+    fr: '/blog/triple-vs-double-vitrage-economies-reelles-chauffage-prix',
+    es: '/blog/triple-vs-doble-acristalamiento-ahorros-reales-calefaccion-precio',
+    it: '/blog/triplo-vs-doppio-vetro-risparmi-reali-riscaldamento-prezzo',
+  },
+  '/blog/ferestre-casa-nzeb-romania-ghid-complet-2026': {
+    ro: '/blog/ferestre-casa-nzeb-romania-ghid-complet-2026',
+    en: '/blog/windows-nzeb-house-romania-complete-guide-2026',
+    de: '/blog/fenster-nzeb-haus-rumaenien-vollstaendiger-ratgeber-2026',
+    fr: '/blog/fenetres-maison-nzeb-roumanie-guide-complet-2026',
+    es: '/blog/ventanas-casa-nzeb-rumania-guia-completa-2026',
+    it: '/blog/finestre-casa-nzeb-romania-guida-completa-2026',
+  },
 
   // PILLAR PAGES
   }
