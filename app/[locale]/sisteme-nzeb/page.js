@@ -227,6 +227,22 @@ export default async function Page({ params }) {
           </div>
         </div>
       </section>
-    </>
+      {/* ── Linkuri interne ── */}
+      <section style={{padding:'36px 0',borderTop:'1px solid #e5e7eb',background:'#f7f7f5'}}>
+        <div className="container mx-auto px-6" style={{display:'flex',flexWrap:'wrap',gap:'10px',justifyContent:'center'}}>
+          {[
+            {href:'/tamplarie-pvc',     ro:'Tâmplărie PVC Salamander',  en:'Salamander PVC Windows',       de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander',     es:'Carpintería PVC Salamander',   it:'Infissi PVC Salamander'},
+            {href:'/tamplarie-aluminiu',ro:'Tâmplărie Aluminiu Alumil',  en:'Alumil Aluminium Windows',     de:'Alumil Aluminiumfenster',      fr:'Menuiserie Aluminium Alumil',   es:'Carpintería Aluminio Alumil',   it:'Infissi Alluminio Alumil'},
+            {href:'/blog/ferestre-casa-nzeb-romania-ghid-complet-2026', ro:'Ghid Ferestre nZEB 2026', en:'nZEB Windows Guide 2026', de:'nZEB Fenster Ratgeber 2026', fr:'Guide fenêtres nZEB 2026', es:'Guía ventanas nZEB 2026', it:'Guida finestre nZEB 2026'},
+            {href:'/contact',           ro:'Solicită Ofertă nZEB',       en:'Request nZEB Quote',           de:'nZEB Angebot anfragen',        fr:'Devis nZEB',                    es:'Presupuesto nZEB',             it:'Preventivo nZEB'},
+          ].map((item,i) => (
+            <Link key={i} href={item.href} style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#1a4a8a',textDecoration:'none',fontWeight:500}}>
+              {item[locale]||item.ro}
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      </>
   );
 }

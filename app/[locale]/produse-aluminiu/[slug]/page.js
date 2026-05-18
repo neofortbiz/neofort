@@ -437,9 +437,24 @@ export default async function ProductAluPage({ params }) {
     'additionalProperty': specs.map(([n,v]) => ({ '@type':'PropertyValue', 'name':n, 'value':v })),
   };
 
+
+  // ── BreadcrumbList ──
+  const aluParentSeg = {ro:'tamplarie-aluminiu',en:'aluminium-windows',de:'aluminiumfenster',fr:'menuiserie-aluminium',es:'carpinteria-aluminio',it:'infissi-alluminio'};
+  const aluParentLabel = {ro:'Tâmplărie Aluminiu',en:'Aluminium Windows',de:'Aluminiumfenster',fr:'Menuiserie Aluminium',es:'Carpintería Aluminio',it:'Infissi Alluminio'};
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      { '@type':'ListItem', 'position':1, 'name':'Neofort BIZ', 'item': BASE },
+      { '@type':'ListItem', 'position':2, 'name': aluParentLabel[locale]||'Tâmplărie Aluminiu', 'item': `${BASE}/${locale}/${aluParentSeg[locale]||'tamplarie-aluminiu'}` },
+      { '@type':'ListItem', 'position':3, 'name': name, 'item': `${BASE}/${locale}/${PALU_SEG[locale]||'produse-aluminiu'}/${SLUG_MAP[canonical]?.[locale]||slug}` },
+    ],
+  };
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <style>{`
         .prd-bc{font-size:.76rem;letter-spacing:.12em;text-transform:uppercase;color:#404040;display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:24px}
         .prd-bc a{color:#404040;text-decoration:none}.prd-bc a:hover{color:#1a1a1a}.prd-bc span{color:#404040}

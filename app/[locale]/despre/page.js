@@ -202,6 +202,25 @@ export default async function DesprePage({ params }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaDespre) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        'itemListElement': [
+          { '@type':'ListItem', 'position':1, 'name':'Neofort BIZ', 'item': BASE },
+          { '@type':'ListItem', 'position':2, 'name': locale==='ro'?'Despre noi':locale==='en'?'About us':locale==='de'?'Über uns':locale==='fr'?'À propos':locale==='es'?'Sobre nosotros':'Chi siamo', 'item': `${BASE}/${locale}/${SLUGS_DESPRE[locale]||'despre'}` },
+        ],
+      }) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@graph': TEAM_DESPRE.map(m => ({
+          '@type': 'Person',
+          'name': m.name,
+          'jobTitle': m.role[locale] || m.role.ro,
+          'worksFor': { '@type':'Organization', 'name':'Neofort BIZ SRL', 'url': BASE },
+          'image': `${BASE}${m.photo}`,
+          'url': `${BASE}/${locale}/${SLUGS_DESPRE[locale]||'despre'}`,
+        })),
+      }) }}/>
       <div className="page-header">
         <div className="container mx-auto px-6">
           <span className="sec-label">{ui.label}</span>
@@ -280,7 +299,24 @@ export default async function DesprePage({ params }) {
         </div>
       </section>
 
-      <section aria-label={CTA_LABELS[locale]?.tag || CTA_LABELS.ro.tag} style={{background:'#111',padding:'0'}}>
+      {/* ── Linkuri interne ── */}
+      <section style={{padding:'36px 0',borderTop:'1px solid #e5e7eb',background:'#f7f7f5'}}>
+        <div className="container mx-auto px-6" style={{display:'flex',flexWrap:'wrap',gap:'10px',justifyContent:'center'}}>
+          {[
+            {href:'/tamplarie-pvc',     ro:'Tâmplărie PVC Salamander',  en:'Salamander PVC Windows',   de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander',  es:'Carpintería PVC Salamander',  it:'Infissi PVC Salamander'},
+            {href:'/tamplarie-aluminiu',ro:'Tâmplărie Aluminiu Alumil',  en:'Alumil Aluminium Windows', de:'Alumil Aluminiumfenster',     fr:'Menuiserie Aluminium Alumil', es:'Carpintería Aluminio Alumil', it:'Infissi Alluminio Alumil'},
+            {href:'/servicii',          ro:'Servicii Montaj',            en:'Installation Services',    de:'Montagedienste',              fr:'Services de pose',            es:'Servicios de instalación',   it:'Servizi di installazione'},
+            {href:'/contact',           ro:'Contact',                    en:'Contact',                  de:'Kontakt',                     fr:'Contact',                     es:'Contacto',                   it:'Contatti'},
+          ].map((item,i) => (
+            <Link key={i} href={item.href}
+              style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#1a4a8a',textDecoration:'none',fontWeight:500}}>
+              {item[locale]||item.ro}
+            </Link>
+          ))}
+        </div>
+      </section>
+
+            <section aria-label={CTA_LABELS[locale]?.tag || CTA_LABELS.ro.tag} style={{background:'#111',padding:'0'}}>
         <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
           <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
             {CTA_LABELS[locale]?.h2a || CTA_LABELS.ro.h2a}{' '}

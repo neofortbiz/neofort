@@ -216,6 +216,22 @@ export default async function Page({ params }) {
           </div>
         </div>
       </section>
-    </>
+      {/* ── Linkuri interne ── */}
+      <section style={{padding:'36px 0',borderTop:'1px solid #e5e7eb',background:'#f7f7f5'}}>
+        <div className="container mx-auto px-6" style={{display:'flex',flexWrap:'wrap',gap:'10px',justifyContent:'center'}}>
+          {[
+            {href:'/tamplarie-pvc',     ro:'Tâmplărie PVC Salamander',  en:'PVC Windows',          de:'Kunststofffenster',  fr:'Menuiserie PVC',          es:'Carpintería PVC',          it:'Infissi PVC'},
+            {href:'/tamplarie-aluminiu',ro:'Tâmplărie Aluminiu',        en:'Aluminium Windows',    de:'Aluminiumfenster',   fr:'Menuiserie Aluminium',    es:'Carpintería Aluminio',     it:'Infissi Alluminio'},
+            {href:'/accesorii',         ro:'Accesorii Tâmplărie',       en:'Window Accessories',   de:'Fensterzubehör',     fr:'Accessoires menuiserie',  es:'Accesorios carpintería',   it:'Accessori infissi'},
+            {href:'/contact',           ro:'Solicită Ofertă',           en:'Request Quote',        de:'Angebot anfragen',   fr:'Demander un devis',       es:'Pedir presupuesto',        it:'Richiedi preventivo'},
+          ].map((item,i) => (
+            <Link key={i} href={item.href} style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#1a4a8a',textDecoration:'none',fontWeight:500}}>
+              {item[locale]||item.ro}
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      </>
   );
 }

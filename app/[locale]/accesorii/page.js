@@ -168,6 +168,22 @@ export default async function AccesoriiPage({ params }) {
         </div>
       </section>
 
-    </>
+      {/* ── Linkuri interne ── */}
+      <section style={{padding:'36px 0',borderTop:'1px solid #e5e7eb',background:'#f7f7f5'}}>
+        <div className="container mx-auto px-6" style={{display:'flex',flexWrap:'wrap',gap:'10px',justifyContent:'center'}}>
+          {[
+            {href:'/tamplarie-pvc',     ro:'Ferestre PVC Salamander', en:'PVC Windows',          de:'Kunststofffenster',  fr:'Fenêtres PVC',            es:'Ventanas PVC',             it:'Finestre PVC'},
+            {href:'/tamplarie-aluminiu',ro:'Ferestre Aluminiu Alumil', en:'Aluminium Windows',    de:'Aluminiumfenster',   fr:'Fenêtres aluminium',      es:'Ventanas aluminio',        it:'Finestre alluminio'},
+            {href:'/sisteme-nzeb',      ro:'Sisteme nZEB',            en:'nZEB Systems',         de:'nZEB-Systeme',       fr:'Systèmes nZEB',           es:'Sistemas nZEB',            it:'Sistemi nZEB'},
+            {href:'/contact',           ro:'Solicită Ofertă',         en:'Request Quote',        de:'Angebot anfragen',   fr:'Demander un devis',       es:'Pedir presupuesto',        it:'Richiedi preventivo'},
+          ].map((item,i) => (
+            <Link key={i} href={item.href} style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#1a4a8a',textDecoration:'none',fontWeight:500}}>
+              {item[locale]||item.ro}
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      </>
   );
 }

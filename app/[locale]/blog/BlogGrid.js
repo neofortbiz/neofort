@@ -337,7 +337,7 @@ export default function BlogGrid({ articles, locale, read }) {
                   {img ? (
                     <div style={{ width:'100%', aspectRatio:'16/9', overflow:'hidden', background:a.imageBg||'#1a1a1a', flexShrink:0 }}>
                       <img src={img} alt={title} loading="lazy" decoding="async"
-                        style={{ width:'100%', height:'100%', objectFit:'cover', display:'block' }}/>
+                        style={{ width:'100%', height:'100%', objectFit:'cover', objectPosition:'center center', display:'block' }}/>
                     </div>
                   ) : (
                     <div style={{ width:'100%', aspectRatio:'16/9', background:a.imageBg||'#1a1a1a', display:'flex', alignItems:'center', justifyContent:'center', flexShrink:0 }}>

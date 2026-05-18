@@ -640,9 +640,23 @@ export default async function ProductPage({ params }) {
     'additionalProperty': specs.map(([n,v]) => ({ '@type':'PropertyValue', 'name':n, 'value':v })),
   };
 
+
+  // ── Schema BreadcrumbList ──
+  const parentSeg = {ro:'tamplarie-pvc',en:'pvc-windows',de:'kunststofffenster-pvc',fr:'menuiserie-pvc',es:'carpinteria-pvc',it:'infissi-pvc'};
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      { '@type':'ListItem', 'position':1, 'name':'Neofort BIZ', 'item': BASE },
+      { '@type':'ListItem', 'position':2, 'name': bpLabel, 'item': `${BASE}/${locale}/${parentSeg[locale]||'tamplarie-pvc'}` },
+      { '@type':'ListItem', 'position':3, 'name': name, 'item': `${BASE}/${locale}/${PROD_SEG[locale]||'produse'}/${SLUG_MAP[canonical]?.[locale]||slug}` },
+    ],
+  };
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <style>{`
         /* ── BREADCRUMB ── */
         .prd-bc { font-size:.76rem; letter-spacing:.12em; text-transform:uppercase; color:#404040; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }

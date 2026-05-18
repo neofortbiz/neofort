@@ -220,9 +220,35 @@ export default async function ServiciiPage({ params }) {
     ]
   };
 
+  // ── FAQPage Schema ──
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    'mainEntity': [
+      { '@type':'Question', 'name': locale==='ro'?'Ce include serviciul de montaj tâmplărie?':locale==='en'?'What does the window installation service include?':locale==='de'?'Was ist im Fenstermontageservice enthalten?':locale==='fr'?'Que comprend le service de pose de menuiserie?':locale==='es'?'¿Qué incluye el servicio de instalación de ventanas?':'Cosa include il servizio di installazione infissi?',
+        'acceptedAnswer':{'@type':'Answer','text': locale==='ro'?'Serviciul de montaj Neofort BIZ include: consultanță tehnică, măsurători la fața locului, transport, montaj profesional cu benzi precomprimate conform standardului RAL, și garanție completă pe produs și montaj.':locale==='en'?'Neofort BIZ installation service includes: technical consultation, on-site measurements, transport, professional installation with pre-compressed bands per RAL standard, and full warranty on product and installation.':locale==='de'?'Der Montagedienst von Neofort BIZ umfasst: technische Beratung, Aufmaß vor Ort, Transport, professionelle Montage mit vorkomprimierten Bändern nach RAL-Standard und vollständige Garantie auf Produkt und Montage.':locale==='fr'?'Le service de pose Neofort BIZ comprend : consultation technique, relevés sur place, transport, pose professionnelle avec bandes précomprimées selon la norme RAL et garantie complète sur le produit et la pose.':locale==='es'?'El servicio de instalación de Neofort BIZ incluye: consulta técnica, mediciones in situ, transporte, instalación profesional con bandas precomprimidas según la norma RAL y garantía completa sobre el producto y la instalación.':'Il servizio di installazione di Neofort BIZ include: consulenza tecnica, misurazioni in loco, trasporto, installazione professionale con nastri precompressi secondo la norma RAL e garanzia completa su prodotto e installazione.'} },
+      { '@type':'Question', 'name': locale==='ro'?'În cât timp se execută montajul ferestrelor?':locale==='en'?'How long does window installation take?':locale==='de'?'Wie lange dauert die Fenstermontage?':locale==='fr'?'Combien de temps prend la pose des fenêtres?':locale==='es'?'¿Cuánto tiempo lleva la instalación de ventanas?':'Quanto tempo richiede l'installazione delle finestre?',
+        'acceptedAnswer':{'@type':'Answer','text': locale==='ro'?'Montajul unui apartament standard (8-12 ferestre) durează 1-2 zile lucrătoare. Termenul de livrare și montaj este de 10-15 zile lucrătoare de la confirmarea comenzii.':locale==='en'?'Installation of a standard apartment (8-12 windows) takes 1-2 working days. The delivery and installation lead time is 10-15 working days from order confirmation.':locale==='de'?'Die Montage einer Standardwohnung (8-12 Fenster) dauert 1-2 Werktage. Die Lieferungs- und Montagezeit beträgt 10-15 Werktage ab Auftragsbestätigung.':locale==='fr'?'La pose d'un appartement standard (8-12 fenêtres) prend 1-2 jours ouvrables. Le délai de livraison et de pose est de 10-15 jours ouvrables à compter de la confirmation de commande.':locale==='es'?'La instalación de un apartamento estándar (8-12 ventanas) lleva 1-2 días hábiles. El plazo de entrega e instalación es de 10-15 días hábiles desde la confirmación del pedido.':'L'installazione di un appartamento standard (8-12 finestre) richiede 1-2 giorni lavorativi. I tempi di consegna e installazione sono 10-15 giorni lavorativi dalla conferma dell'ordine.'} },
+      { '@type':'Question', 'name': locale==='ro'?'Oferiți garanție la montaj?':locale==='en'?'Do you offer a warranty on installation?':locale==='de'?'Bieten Sie eine Montagegarantie?':locale==='fr'?'Proposez-vous une garantie sur la pose?':locale==='es'?'¿Ofrecen garantía en la instalación?':'Offrite garanzia sull'installazione?',
+        'acceptedAnswer':{'@type':'Answer','text': locale==='ro'?'Da. Neofort BIZ oferă garanție completă: 5-10 ani pe profilul PVC Salamander, 10+ ani pe aluminiu Alumil și 2 ani pe montaj. Toate lucrările sunt însoțite de certificat de garanție scris.':locale==='en'?'Yes. Neofort BIZ offers full warranty: 5-10 years on Salamander PVC profile, 10+ years on Alumil aluminium and 2 years on installation. All work comes with a written warranty certificate.':locale==='de'?'Ja. Neofort BIZ bietet vollständige Garantie: 5-10 Jahre auf das Salamander PVC-Profil, 10+ Jahre auf Alumil-Aluminium und 2 Jahre auf die Montage. Alle Arbeiten werden mit einem schriftlichen Garantieschein begleitet.':locale==='fr'?'Oui. Neofort BIZ offre une garantie complète : 5-10 ans sur le profilé PVC Salamander, 10+ ans sur l'aluminium Alumil et 2 ans sur la pose. Tous les travaux sont accompagnés d'un certificat de garantie écrit.':locale==='es'?'Sí. Neofort BIZ ofrece garantía completa: 5-10 años en el perfil PVC Salamander, 10+ años en el aluminio Alumil y 2 años en la instalación. Todos los trabajos van acompañados de un certificado de garantía escrito.':'Sì. Neofort BIZ offre garanzia completa: 5-10 anni sul profilo PVC Salamander, 10+ anni sull'alluminio Alumil e 2 anni sull'installazione. Tutti i lavori sono accompagnati da un certificato di garanzia scritto.'} },
+    ],
+  };
+
+  // ── BreadcrumbList ──
+  const breadcrumbServSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      { '@type':'ListItem', 'position':1, 'name':'Neofort BIZ', 'item': BASE },
+      { '@type':'ListItem', 'position':2, 'name': locale==='ro'?'Servicii':locale==='en'?'Services':locale==='de'?'Dienstleistungen':locale==='fr'?'Services':locale==='es'?'Servicios':'Servizi', 'item': `${BASE}/${locale}/${SLUGS_SERVICII[locale]||'servicii'}` },
+    ],
+  };
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbServSchema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(howtoSchema) }}/>
       {/* Page header */}
       <div className="page-header">
@@ -298,6 +324,24 @@ export default async function ServiciiPage({ params }) {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* ── Linkuri interne ── */}
+      <section style={{padding:'36px 0',borderTop:'1px solid #e5e7eb',background:'#f7f7f5'}}>
+        <div className="container mx-auto px-6" style={{display:'flex',flexWrap:'wrap',gap:'10px',justifyContent:'center'}}>
+          {[
+            {href:'/tamplarie-pvc',     ro:'Tâmplărie PVC Salamander',  en:'Salamander PVC Windows',       de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander',    es:'Carpintería PVC Salamander',    it:'Infissi PVC Salamander'},
+            {href:'/tamplarie-aluminiu',ro:'Tâmplărie Aluminiu Alumil',  en:'Alumil Aluminium Windows',     de:'Alumil Aluminiumfenster',      fr:'Menuiserie Aluminium Alumil',   es:'Carpintería Aluminio Alumil',   it:'Infissi Alluminio Alumil'},
+            {href:'/sisteme-nzeb',      ro:'Sisteme nZEB',               en:'nZEB Systems',                 de:'nZEB-Systeme',                 fr:'Systèmes nZEB',                es:'Sistemas nZEB',                it:'Sistemi nZEB'},
+            {href:'/umbrire',           ro:'Sisteme Umbrire',            en:'Shading Systems',              de:'Beschattungssysteme',          fr:"Systèmes d'occultation",       es:'Sistemas de Sombreado',        it:'Sistemi di Oscuramento'},
+            {href:'/contact',           ro:'Solicită Ofertă',            en:'Request Quote',                de:'Angebot anfragen',             fr:'Demander un devis',            es:'Pedir presupuesto',            it:'Richiedi preventivo'},
+          ].map((item,i) => (
+            <Link key={i} href={item.href}
+              style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#1a4a8a',textDecoration:'none',fontWeight:500}}>
+              {item[locale]||item.ro}
+            </Link>
+          ))}
         </div>
       </section>
 

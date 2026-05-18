@@ -338,9 +338,24 @@ export default async function AccesorieProductPage({ params }) {
     additionalProperty: specs.map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
   };
 
+
+  // ── BreadcrumbList ──
+  const parentSeg_accesorii = {'ro': 'accesorii', 'en': 'accessories', 'de': 'zubehoer', 'fr': 'accessoires', 'es': 'accesorios', 'it': 'accessori'};
+  const parentLabel_accesorii = {'ro': 'Accesorii', 'en': 'Accessories', 'de': 'Zubehör', 'fr': 'Accessoires', 'es': 'Accesorios', 'it': 'Accessori'};
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    'itemListElement': [
+      { '@type':'ListItem', 'position':1, 'name':'Neofort BIZ', 'item': BASE },
+      { '@type':'ListItem', 'position':2, 'name': parentLabel_accesorii[locale]||'Neofort BIZ', 'item': `${BASE}/${locale}/${parentSeg_accesorii[locale]}` },
+      { '@type':'ListItem', 'position':3, 'name': name, 'item': `${BASE}/${locale}/${SLUG_MAP[canonical]?.[locale]||slug}` },
+    ],
+  };
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <style>{`
         .prd-bc{font-size:.76rem;letter-spacing:.12em;text-transform:uppercase;color:#404040;display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-bottom:24px}
         .prd-bc a{color:#404040;text-decoration:none}.prd-bc a:hover{color:#1a1a1a}.prd-bc span{color:#404040}
