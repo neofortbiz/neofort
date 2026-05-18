@@ -335,12 +335,12 @@ export default function BlogGrid({ articles, locale, read }) {
               return (
                 <Link key={a.slugs?.ro} href={`/blog/${slug}`} className="bg-card" role="listitem" aria-label={title}>
                   {img ? (
-                    <div style={{ width:'100%', aspectRatio:'16/9', overflow:'hidden', background:a.imageBg||'#1a1a1a', flexShrink:0 }}>
+                    <div style={{ width:'100%', aspectRatio:'3/2', overflow:'hidden', background:a.imageBg||'#1a1a1a', flexShrink:0 }}>
                       <img src={img} alt={title} loading="lazy" decoding="async"
-                        style={{ width:'100%', height:'100%', objectFit:'cover', display:'block' }}/>
+                        style={{ width:'100%', height:'100%', objectFit:'cover', objectPosition:'center center', display:'block' }}/>
                     </div>
                   ) : (
-                    <div style={{ width:'100%', aspectRatio:'16/9', background:a.imageBg||'#1a1a1a', display:'flex', alignItems:'center', justifyContent:'center', flexShrink:0 }}>
+                    <div style={{ width:'100%', aspectRatio:'3/2', background:a.imageBg||'#1a1a1a', display:'flex', alignItems:'center', justifyContent:'center', flexShrink:0 }}>
                       <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'1.8rem', fontWeight:300, color:'rgba(255,255,255,.12)', letterSpacing:'.1em' }}>{a.imageLabel}</span>
                     </div>
                   )}
