@@ -395,6 +395,8 @@ export default function Footer() {
             <ul className="footer-links">
               <li><Link href="/tamplarie-pvc">{col.pvc}</Link></li>
               <li><Link href="/tamplarie-aluminiu">{col.aluminiu}</Link></li>
+              <li><Link href="/sisteme-nzeb">{col.nzeb}</Link></li>
+              <li><Link href="/umbrire">{col.umbrire}</Link></li>
               <li><Link href="/accesorii">{col.accesorii}</Link></li>
             </ul>
           </div>
