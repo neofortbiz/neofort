@@ -36,7 +36,7 @@ export const ARTICLES = [
     },
     imageOg: '/blog/ferestre-casa-nzeb-romania-ghid-complet-2026-og.jpg',
     imageBg: 'linear-gradient(135deg,#12081e 0%,#2a1a4a 60%,#12081e 100%)',
-    imageLabel: 'Ferestre casă nZEB România 2026 — ghid tehnic complet cu valori minime și prețuri',
+    imageLabel: 'Casă modernă nZEB cu ferestre mari din aluminiu și panouri solare — standard eficiență energetică România 2026',
     readTime: { ro:'15 min citire', en:'15 min read', de:'15 Min.', fr:'15 min', es:'15 min', it:'15 min' },
     category: { ro:'Sisteme nZEB', en:'nZEB Systems', de:'nZEB-Systeme', fr:'Systèmes nZEB', es:'Sistemas nZEB', it:'Sistemi nZEB' },
     title: {
@@ -1277,7 +1277,7 @@ Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnic
     },
     imageOg: '/blog/tripan-vs-termopan-economii-reale-incalzire-pret-og.jpg',
     imageBg: 'linear-gradient(135deg,#0a1e12 0%,#1a3a22 60%,#0a1e12 100%)',
-    imageLabel: 'Tripan vs Termopan — economii reale la încălzire și calcul ROI 2026',
+    imageLabel: 'Fereastră cu condens iarna — exemplu termopan vechi vs tripan modern, economii încălzire București 2026',
     readTime: { ro:'12 min citire', en:'12 min read', de:'12 Min.', fr:'12 min', es:'12 min', it:'12 min' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Ratgeber', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     title: {
@@ -2253,7 +2253,7 @@ Neofort BIZ installa triplo vetro Saint-Gobain SGG con Warm Edge a Bucarest e Il
     },
     imageOg: '/blog/pvc-vs-aluminiu-case-nzeb-2026-ghid-alegere-og.jpg',
     imageBg: 'linear-gradient(135deg,#0a0e1a 0%,#1a2a4a 60%,#0a0e1a 100%)',
-    imageLabel: 'PVC vs Aluminiu case nZEB 2026 — comparație tehnică completă',
+    imageLabel: 'Fereastră PVC albă și fereastră aluminiu antracit montate în zid de cărămidă — comparație PVC vs Aluminiu pentru case nZEB 2026',
     readTime: { ro:'14 min citire', en:'14 min read', de:'14 Min.', fr:'14 min', es:'14 min', it:'14 min' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Ratgeber', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
     title: {
