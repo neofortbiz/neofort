@@ -66,7 +66,7 @@ img,video{max-width:100%;height:auto}
 .card-btn-aluminiu:hover{background:#2d5a8e;color:#fff;border-color:#2d5a8e}
 .card-btn-accesorii:hover{background:#e8721c;color:#fff;border-color:#e8721c}
 .card-btn-dark:hover{background:#1a1a1a;color:#fff;border-color:#1a1a1a}
-.spec-item{display:inline-flex;align-items:center;gap:6px;font-size:0.828rem;font-weight:300;color:#6c6c6c}
+.spec-item{display:inline-flex;align-items:center;gap:6px;font-size:0.828rem;font-weight:300;color:#9f9f9f}
 .spec-dot{width:4px;height:4px;border-radius:50%;background:#ccc;display:inline-block}
 .tag{display:inline-block;font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.69rem;letter-spacing:.14em;text-transform:uppercase;padding:3px 8px;border:1px solid #e8e8e8;color:#666666}
 
@@ -353,10 +353,10 @@ img,video{max-width:100%;height:auto}
 }
 
 .schedule-row{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-bottom:1px solid #1e1e1e}
-.schedule-day{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.828rem;font-weight:300;color:#6c6c6c}
+.schedule-day{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.828rem;font-weight:300;color:#9f9f9f}
 .schedule-hours{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.828rem;font-weight:400;color:#a3a3a3}
-.schedule-closed{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.828rem;font-weight:300;color:#444;letter-spacing:.08em;text-transform:uppercase}
-.maps-link{display:inline-flex;align-items:center;gap:8px;margin-top:24px;font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.77rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;color:#6c6c6c;text-decoration:none;padding:10px 0;border-bottom:1px solid #1e1e1e;width:100%;transition:color .15s}
+.schedule-closed{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.828rem;font-weight:300;color:#888888;letter-spacing:.08em;text-transform:uppercase}
+.maps-link{display:inline-flex;align-items:center;gap:8px;margin-top:24px;font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.77rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;color:#9f9f9f;text-decoration:none;padding:10px 0;border-bottom:1px solid #1e1e1e;width:100%;transition:color .15s}
 .maps-link:hover{color:#fff}
 
 /* ── FORMULAR CONTACT RESPONSIVE ── */
