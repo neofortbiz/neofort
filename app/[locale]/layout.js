@@ -124,7 +124,7 @@ export default async function LocaleLayout({ children, params }) {
         />
         <Script id="ga4-init" strategy="lazyOnload">{`
           gtag('js', new Date());
-          gtag('config', 'G-20PR5SV2XC', { anonymize_ip: true });
+          gtag('config', 'G-20PR5SV2XC', { anonymize_ip: true, send_page_view: true });
           try {
             if (localStorage.getItem('cookie_ok') === '1') {
               gtag('consent', 'update', { analytics_storage: 'granted' });

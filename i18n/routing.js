@@ -374,6 +374,14 @@ export const routing = defineRouting({
       es: '/politica-cookies',
       it: '/politica-cookie',
     },
+    '/termeni-si-conditii': {
+      ro: '/termeni-si-conditii',
+      en: '/terms-and-conditions',
+      de: '/allgemeine-geschaeftsbedingungen',
+      fr: '/conditions-generales',
+      es: '/terminos-y-condiciones',
+      it: '/termini-e-condizioni',
+    },
     '/gdpr': {
       ro: '/gdpr',
       en: '/privacy-policy',
