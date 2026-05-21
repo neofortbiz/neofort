@@ -364,7 +364,7 @@ export default function Footer() {
             <div className="footer-col-title">{col.brand}</div>
             <p className="footer-desc">{col.brand_desc}</p>
             {/* Date juridice + Rating Google */}
-            <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.04em',color:'#555',lineHeight:1.7,margin:'10px 0 6px'}}>
+            <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.04em',color:'#999',lineHeight:1.7,margin:'10px 0 6px'}}>
               {col.legal}
             </p>
             <a href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
