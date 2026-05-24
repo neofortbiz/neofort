@@ -66,7 +66,7 @@ img,video{max-width:100%;height:auto}
 .card-btn-aluminiu:hover{background:#2d5a8e;color:#fff;border-color:#2d5a8e}
 .card-btn-accesorii:hover{background:#e8721c;color:#fff;border-color:#e8721c}
 .card-btn-dark:hover{background:#1a1a1a;color:#fff;border-color:#1a1a1a}
-.spec-item{display:inline-flex;align-items:center;gap:6px;font-size:0.828rem;font-weight:300;color:#9f9f9f}
+.spec-item{display:inline-flex;align-items:center;gap:6px;font-size:0.828rem;font-weight:300;color:#6c6c6c}
 .spec-dot{width:4px;height:4px;border-radius:50%;background:#ccc;display:inline-block}
 .tag{display:inline-block;font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.69rem;letter-spacing:.14em;text-transform:uppercase;padding:3px 8px;border:1px solid #e8e8e8;color:#666666}
 
@@ -97,10 +97,34 @@ img,video{max-width:100%;height:auto}
 .footer-lang:hover,.footer-lang.active{color:#fff}
 .footer-bottom{display:flex;justify-content:space-between;padding-top:20px;font-size:0.867rem;font-weight:300;color:#c8c8c8;flex-wrap:wrap;gap:6px}
 
+
+/* ── HEADER CONTACT BUTTONS ──────────────────────────────────────────────── */
+.header-right{display:flex;align-items:center;gap:12px;flex-shrink:0}
+.header-contact-btns{display:flex;align-items:center;gap:6px}
+.hdr-btn{display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:4px;text-decoration:none;transition:opacity .15s,transform .1s}
+.hdr-btn:hover{opacity:.85;transform:scale(1.05)}
+.hdr-btn-tel{background:#1a4a8a;color:#fff}
+.hdr-btn-wa{background:#075E35;color:#fff}
+.hdr-btn-mail{background:#e8721c;color:#fff}
+
+/* ── FLOATING WHATSAPP DESKTOP ───────────────────────────────────────────── */
+.wa-float{position:fixed;left:20px;bottom:32px;z-index:900;width:48px;height:48px;border-radius:50%;background:#075E35;color:#fff;display:flex;align-items:center;justify-content:center;text-decoration:none;box-shadow:0 4px 16px rgba(0,0,0,.25);transition:transform .2s,box-shadow .2s}
+.wa-float:hover{transform:scale(1.1);box-shadow:0 6px 20px rgba(0,0,0,.32)}
+.wa-float svg{width:24px;height:24px}
+
+/* ── MOBILE BOTTOM BAR ───────────────────────────────────────────────────── */
+.mobile-bottom-bar{display:none}
+.header-mobile-right{display:none}
+
+/* ── HEADER RIGHT HIDE ON MOBILE ─────────────────────────────────────────── */
+
 /* ── RESPONSIVE ── */
 @media(max-width:1024px){
   .site-nav{display:none}
   .hamburger{display:flex}
+  .header-right{display:none}
+  .header-mobile-right{display:flex;align-items:center;gap:8px}
+  .wa-float{display:none}
 }
 @media(max-width:768px){
   .container{padding:0 20px}
@@ -111,6 +135,13 @@ img,video{max-width:100%;height:auto}
   .footer-col{padding:24px 0;border-left:none;border-top:1px solid #1e1e1e}
   .footer-col-contact{padding:24px 0;border-left:none;border-top:1px solid #1e1e1e}
   .footer-bottom{flex-direction:column;gap:4px}
+  .mobile-bottom-bar{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:800;background:#fff;border-top:1px solid #e8e8e8;height:60px}
+  .mbb-btn{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;text-decoration:none;color:#1a1a1a;font-family:'Barlow Condensed',sans-serif;font-size:.55rem;font-weight:500;letter-spacing:.08em;text-transform:uppercase;border:none;background:transparent;cursor:pointer;padding:6px 0;transition:background .15s}
+  .mbb-btn:hover{background:#f7f7f5}
+  .mbb-btn span{display:block}
+  .mbb-wa{color:#075E35}
+  .mbb-wa svg{color:#075E35}
+  body{padding-bottom:60px}
 }
 @media print{
   .site-header,.site-footer,.cta-section{display:none}
@@ -353,10 +384,10 @@ img,video{max-width:100%;height:auto}
 }
 
 .schedule-row{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-bottom:1px solid #1e1e1e}
-.schedule-day{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.828rem;font-weight:300;color:#9f9f9f}
+.schedule-day{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.828rem;font-weight:300;color:#6c6c6c}
 .schedule-hours{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.828rem;font-weight:400;color:#a3a3a3}
-.schedule-closed{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.828rem;font-weight:300;color:#888888;letter-spacing:.08em;text-transform:uppercase}
-.maps-link{display:inline-flex;align-items:center;gap:8px;margin-top:24px;font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.77rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;color:#9f9f9f;text-decoration:none;padding:10px 0;border-bottom:1px solid #1e1e1e;width:100%;transition:color .15s}
+.schedule-closed{font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.828rem;font-weight:300;color:#444;letter-spacing:.08em;text-transform:uppercase}
+.maps-link{display:inline-flex;align-items:center;gap:8px;margin-top:24px;font-family:var(--font-barlow-condensed),'Barlow Condensed',sans-serif;font-size:0.77rem;font-weight:400;letter-spacing:.14em;text-transform:uppercase;color:#6c6c6c;text-decoration:none;padding:10px 0;border-bottom:1px solid #1e1e1e;width:100%;transition:color .15s}
 .maps-link:hover{color:#fff}
 
 /* ── FORMULAR CONTACT RESPONSIVE ── */
