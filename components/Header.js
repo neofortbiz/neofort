@@ -61,11 +61,11 @@ export default function Header() {
       <a href="tel:+40752443435" className="hdr-btn hdr-btn-tel" aria-label="Telefon">
         {TEL_SVG}
       </a>
-      <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"
+      <a href="https://wa.me/40752443435?text=Bun%C4%83%20ziua%2C%20Neofort%20BIZ!%20Sunt%20interesat%20de%20produsele%2Fserviciile%20dvs.%20%C8%99i%20a%C8%99%20dori%20o%20ofert%C4%83.%20Mul%C8%9Bumesc!" target="_blank" rel="noopener noreferrer"
         className="hdr-btn hdr-btn-wa" aria-label="WhatsApp">
         {WA_SVG}
       </a>
-      <a href="mailto:oferte@neofort-biz.ro" className="hdr-btn hdr-btn-mail" aria-label="Email">
+      <a href="mailto:oferte@neofort-biz.ro?subject=Solicitare%20ofert%C4%83%20de%20pre%C8%9B%20%E2%80%93%20Neofort%20BIZ&body=Bun%C4%83%20ziua%2C%20v%C4%83%20contactez%20pentru%20a%20solicita%20o%20ofert%C4%83%20de%20pre%C8%9B%20pentru%20produsele%2Fserviciile%20Neofort%20BIZ.%20V%C4%83%20rog%20s%C4%83%20m%C4%83%20contacta%C8%9Bi%20pentru%20detalii.%20Mul%C8%9Bumesc!" className="hdr-btn hdr-btn-mail" aria-label="Email">
         {MAIL_SVG}
       </a>
     </div>
@@ -138,7 +138,7 @@ export default function Header() {
       </header>
 
       {/* ── Floating WhatsApp desktop (stânga) ─────────────────────────────── */}
-      <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"
+      <a href="https://wa.me/40752443435?text=Bun%C4%83%20ziua%2C%20Neofort%20BIZ!%20Sunt%20interesat%20de%20produsele%2Fserviciile%20dvs.%20%C8%99i%20a%C8%99%20dori%20o%20ofert%C4%83.%20Mul%C8%9Bumesc!" target="_blank" rel="noopener noreferrer"
         className="wa-float" aria-label="WhatsApp Neofort BIZ">
         {WA_SVG}
       </a>
@@ -149,12 +149,12 @@ export default function Header() {
           {TEL_SVG}
           <span>Sună</span>
         </a>
-        <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"
+        <a href="https://wa.me/40752443435?text=Bun%C4%83%20ziua%2C%20Neofort%20BIZ!%20Sunt%20interesat%20de%20produsele%2Fserviciile%20dvs.%20%C8%99i%20a%C8%99%20dori%20o%20ofert%C4%83.%20Mul%C8%9Bumesc!" target="_blank" rel="noopener noreferrer"
           className="mbb-btn mbb-wa">
           {WA_SVG}
           <span>WhatsApp</span>
         </a>
-        <a href="mailto:oferte@neofort-biz.ro" className="mbb-btn">
+        <a href="mailto:oferte@neofort-biz.ro?subject=Solicitare%20ofert%C4%83%20de%20pre%C8%9B%20%E2%80%93%20Neofort%20BIZ&body=Bun%C4%83%20ziua%2C%20v%C4%83%20contactez%20pentru%20a%20solicita%20o%20ofert%C4%83%20de%20pre%C8%9B%20pentru%20produsele%2Fserviciile%20Neofort%20BIZ.%20V%C4%83%20rog%20s%C4%83%20m%C4%83%20contacta%C8%9Bi%20pentru%20detalii.%20Mul%C8%9Bumesc!" className="mbb-btn">
           {MAIL_SVG}
           <span>Email</span>
         </a>

@@ -125,8 +125,8 @@ img,video{max-width:100%;height:auto}
   .hamburger{display:flex}
   .header-right{display:none}
   .header-mobile-right{display:flex;align-items:center;gap:8px}
-  .header-mobile-right .hdr-btn{width:29px;height:29px}
-  .header-mobile-right .hdr-btn svg{width:13px;height:13px}
+  .header-mobile-right .hdr-btn{width:32px;height:32px}
+  .header-mobile-right .hdr-btn svg{width:15px;height:15px}
   .wa-float{display:none}
 }
 @media(max-width:768px){
