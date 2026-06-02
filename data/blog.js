@@ -19727,7 +19727,7 @@ Il kit TaHoma Switch (hub + app) parte da **180 EUR**. Configurazione completa i
       es: '8 dec 2025',
       it: '8 dec 2025',
     },
-  },,
+  },
   {
     slugs: {
       ro: 'ce-coeficient-termic-trebuie-sa-aiba-ferestrele',
