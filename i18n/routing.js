@@ -738,3 +738,27 @@ export const routing = defineRouting({
   // PILLAR PAGES
   }
 });
+    '/blog/ce-coeficient-termic-trebuie-sa-aiba-ferestrele': {
+      ro: '/blog/ce-coeficient-termic-trebuie-sa-aiba-ferestrele',
+      en: '/blog/what-thermal-coefficient-should-windows-have',
+      de: '/blog/welchen-waermedurchgangskoeffizient-sollen-fenster-haben',
+      fr: '/blog/quel-coefficient-thermique-pour-les-fenetres',
+      es: '/blog/que-coeficiente-termico-deben-tener-las-ventanas',
+      it: '/blog/quale-coefficiente-termico-devono-avere-le-finestre',
+    },
+    '/blog/legislatie-2026-produse-constructii-regulament-european': {
+      ro: '/blog/legislatie-2026-produse-constructii-regulament-european',
+      en: '/blog/construction-products-legislation-2026-eu-regulation',
+      de: '/blog/bauprodukte-gesetzgebung-2026-eu-verordnung-aenderungen',
+      fr: '/blog/legislation-2026-produits-construction-reglement-europeen',
+      es: '/blog/legislacion-2026-productos-construccion-reglamento-europeo',
+      it: '/blog/legislazione-2026-prodotti-costruzione-regolamento-europeo',
+    },
+    '/blog/cat-dureaza-o-fereastra-pvc-cand-trebuie-inlocuita': {
+      ro: '/blog/cat-dureaza-o-fereastra-pvc-cand-trebuie-inlocuita',
+      en: '/blog/how-long-do-pvc-windows-last-when-to-replace-them',
+      de: '/blog/wie-lange-halten-pvc-fenster-wann-ersetzen',
+      fr: '/blog/combien-de-temps-durent-les-fenetres-pvc-quand-les-remplacer',
+      es: '/blog/cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas',
+      it: '/blog/quanto-durano-le-finestre-pvc-quando-sostituirle',
+    },
