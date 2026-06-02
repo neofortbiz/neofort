@@ -735,9 +735,6 @@ export const routing = defineRouting({
     it: '/blog/finestre-casa-nzeb-romania-guida-completa-2026',
   },
 
-  // PILLAR PAGES
-  }
-});
     '/blog/ce-coeficient-termic-trebuie-sa-aiba-ferestrele': {
       ro: '/blog/ce-coeficient-termic-trebuie-sa-aiba-ferestrele',
       en: '/blog/what-thermal-coefficient-should-windows-have',
@@ -762,3 +759,7 @@ export const routing = defineRouting({
       es: '/blog/cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas',
       it: '/blog/quanto-durano-le-finestre-pvc-quando-sostituirle',
     },
+
+  // PILLAR PAGES
+  }
+});
