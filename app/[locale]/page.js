@@ -1,7 +1,6 @@
 import { Link } from '../../i18n/navigation';
 
-const BASE = 'https://www.neofort-biz.ro';
-
+import { BASE } from '../../lib/constants.js';
 // ─── CONȚINUT MULTILINGV COMPLET ────────────────────────────────────────────
 const CONTENT = {
   ro: {
@@ -66,6 +65,13 @@ const CONTENT = {
     ],
     seo_bridge: 'Solicitați o ofertă de preț pentru Tâmplărie PVC Salamander sau Tâmplărie Aluminiu Alumil — București & Europa',
     seo_link: 'ofertă de preț',
+    qlinks: [
+      { href:'/umbrire', label:'Sisteme Umbrire' },
+      { href:'/servicii', label:'Servicii Montaj' },
+      { href:'/despre', label:'Despre Noi' },
+      { href:'/blog', label:'Blog Tehnic' },
+      { href:'/contact', label:'Contact' },
+    ],
   },
 
   en: {
@@ -129,6 +135,13 @@ const CONTENT = {
     ],
     seo_bridge: 'Request a price quote for PVC Salamander or Aluminium Alumil Windows — Bucharest & Europe',
     seo_link: 'price quote',
+    qlinks: [
+      { href:'/umbrire', label:'Shading Systems' },
+      { href:'/servicii', label:'Installation Services' },
+      { href:'/despre', label:'About Us' },
+      { href:'/blog', label:'Technical Blog' },
+      { href:'/contact', label:'Contact' },
+    ],
   },
 
   de: {
@@ -192,6 +205,13 @@ const CONTENT = {
     ],
     seo_bridge: 'Fordern Sie ein Preisangebot für Salamander Kunststoff- oder Alumil Aluminiumfenster an — Bukarest & Europa',
     seo_link: 'Preisangebot',
+    qlinks: [
+      { href:'/umbrire', label:'Beschattungssysteme' },
+      { href:'/servicii', label:'Montagedienste' },
+      { href:'/despre', label:'Über uns' },
+      { href:'/blog', label:'Fachblog' },
+      { href:'/contact', label:'Kontakt' },
+    ],
   },
 
   fr: {
@@ -255,6 +275,13 @@ const CONTENT = {
     ],
     seo_bridge: 'Demandez un devis pour menuiserie PVC Salamander ou Aluminium Alumil — Bucarest & Europe',
     seo_link: 'devis',
+    qlinks: [
+      { href:'/umbrire', label:"Systèmes d'occultation" },
+      { href:'/servicii', label:'Services de pose' },
+      { href:'/despre', label:'À propos' },
+      { href:'/blog', label:'Blog technique' },
+      { href:'/contact', label:'Contact' },
+    ],
   },
 
   es: {
@@ -318,6 +345,13 @@ const CONTENT = {
     ],
     seo_bridge: 'Solicite un presupuesto para carpintería PVC Salamander o Aluminio Alumil — Bucarest & Europa',
     seo_link: 'presupuesto',
+    qlinks: [
+      { href:'/umbrire', label:'Sistemas de Sombreado' },
+      { href:'/servicii', label:'Servicios de instalación' },
+      { href:'/despre', label:'Sobre nosotros' },
+      { href:'/blog', label:'Blog técnico' },
+      { href:'/contact', label:'Contacto' },
+    ],
   },
 
   it: {
@@ -381,6 +415,13 @@ const CONTENT = {
     ],
     seo_bridge: 'Richiedete un preventivo per infissi PVC Salamander o Alluminio Alumil — Bucarest & Europa',
     seo_link: 'preventivo',
+    qlinks: [
+      { href:'/umbrire', label:'Sistemi di Oscuramento' },
+      { href:'/servicii', label:'Servizi di installazione' },
+      { href:'/despre', label:'Chi siamo' },
+      { href:'/blog', label:'Blog tecnico' },
+      { href:'/contact', label:'Contatti' },
+    ],
   },
 };
 
@@ -616,12 +657,17 @@ export default async function HomePage({ params }) {
 
       {/* ── SEO BRIDGE ── */}
       <section aria-label={c.seo_bridge} style={{background:'#111',padding:'0',contentVisibility:'auto',containIntrinsicSize:'0 300px'}}>
-        <div className="container" style={{paddingTop:'32px',paddingBottom:'0',borderTop:'1px solid #1e1e1e'}}>
+        <div className="container" style={{paddingTop:'32px',paddingBottom:'24px',borderTop:'1px solid #1e1e1e'}}>
           <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#aaaaaa',marginBottom:'0',textAlign:'center'}}>
             {c.seo_bridge.split(c.seo_link)[0]}
-            <span style={{textDecoration:'underline'}}>{c.seo_link}</span>
+            <Link href="/contact" style={{color:'#fff',textDecoration:'underline'}}>{c.seo_link}</Link>
             {c.seo_bridge.split(c.seo_link)[1]}
           </p>
+          <nav aria-label="quick links" style={{display:'flex',justifyContent:'center',flexWrap:'wrap',gap:'14px',marginTop:'16px'}}>
+            {c.qlinks?.map((q,i)=>(
+              <Link key={i} href={q.href} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.08em',textTransform:'uppercase',color:'#888',textDecoration:'none'}}>{q.label}</Link>
+            ))}
+          </nav>
         </div>
       </section>
     </>

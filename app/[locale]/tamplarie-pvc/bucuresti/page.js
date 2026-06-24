@@ -1,8 +1,7 @@
 import { Link } from '../../../../i18n/navigation';
 import FaqAccordion from '../../../../components/FaqAccordion';
 
-const BASE = 'https://www.neofort-biz.ro';
-
+import { BASE, LOCALES } from '../../../../lib/constants.js';
 const SLUGS = {
   ro: 'tamplarie-pvc/bucuresti',
   en: 'pvc-windows/bucharest',
@@ -17,8 +16,6 @@ const PARENT_SLUGS = {
   de: 'kunststofffenster-pvc', fr: 'menuiserie-pvc',
   es: 'carpinteria-pvc', it: 'infissi-pvc',
 };
-
-const LOCALES = ['ro','en','de','fr','es','it'];
 
 const UI = {
   ro: {

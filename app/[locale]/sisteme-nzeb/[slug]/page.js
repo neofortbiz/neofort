@@ -1,9 +1,8 @@
 import { notFound } from 'next/navigation';
 import { Link } from '../../../../i18n/navigation';
 
-const BASE    = 'https://www.neofort-biz.ro';
+import { BASE, LOCALES } from '../../../../lib/constants.js';
 const NZEB_SEG = {ro:'sisteme-nzeb',en:'nzeb-systems',de:'nzeb-systeme',fr:'systemes-nzeb',es:'sistemas-nzeb',it:'sistemi-nzeb'};
-const LOCALES = ['ro','en','de','fr','es','it'];
 
 const SLUG_MAP = {
   'precadre-blaugelb-triotherm': {
@@ -407,7 +406,6 @@ export default async function NzebProductPage({ params }) {
     aggregateRating: { '@type':'AggregateRating', ratingValue:'4.9', reviewCount:'46', bestRating:'5', worstRating:'1' },
     additionalProperty: specs.map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
   };
-
 
   // ── BreadcrumbList ──
   const parentSeg_nzeb = {'ro': 'sisteme-nzeb', 'en': 'nzeb-systems', 'de': 'nzeb-systeme', 'fr': 'systemes-nzeb', 'es': 'sistemas-nzeb', 'it': 'sistemi-nzeb'};

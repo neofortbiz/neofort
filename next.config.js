@@ -7,13 +7,40 @@ const nextConfig = {
     serverActions: { bodySizeLimit: '20mb' },
     optimizePackageImports: ['next-intl'],
   },
-  images: {
-    formats: ['image/avif', 'image/webp'],
-    deviceSizes: [640, 750, 828, 1080, 1200, 1920],
-    minimumCacheTTL: 60 * 60 * 24 * 30,
-  },
+  // images: config eliminat (v188) — next/image nu e folosit nicăieri în proiect (cotă Vercel epuizată, decizie definitivă)
   async redirects() {
     return [
+      // === v188: eliminare duplicate content /ghid → /ghid-complet (8 pagini, audit Mai 2026) ===
+      { source: '/ro/tamplarie-pvc/ghid',          destination: '/ro/tamplarie-pvc/ghid-complet',                    permanent: true },
+      { source: '/en/pvc-windows/ghid',            destination: '/en/pvc-windows/complete-guide',                    permanent: true },
+      { source: '/de/kunststofffenster-pvc/ghid',  destination: '/de/kunststofffenster-pvc/kompletter-ratgeber',     permanent: true },
+      { source: '/fr/menuiserie-pvc/ghid',         destination: '/fr/menuiserie-pvc/guide-complet',                  permanent: true },
+      { source: '/es/carpinteria-pvc/ghid',        destination: '/es/carpinteria-pvc/guia-completa',                 permanent: true },
+      { source: '/it/infissi-pvc/ghid',            destination: '/it/infissi-pvc/guida-completa',                    permanent: true },
+
+      { source: '/ro/tamplarie-aluminiu/ghid',     destination: '/ro/tamplarie-aluminiu/ghid-complet',               permanent: true },
+      { source: '/en/aluminium-windows/ghid',      destination: '/en/aluminium-windows/complete-guide',              permanent: true },
+      { source: '/de/aluminiumfenster/ghid',       destination: '/de/aluminiumfenster/kompletter-ratgeber',          permanent: true },
+      { source: '/fr/menuiserie-aluminium/ghid',   destination: '/fr/menuiserie-aluminium/guide-complet',            permanent: true },
+      { source: '/es/carpinteria-aluminio/ghid',   destination: '/es/carpinteria-aluminio/guia-completa',            permanent: true },
+      { source: '/it/infissi-alluminio/ghid',      destination: '/it/infissi-alluminio/guida-completa',              permanent: true },
+
+      { source: '/ro/umbrire/ghid',                destination: '/ro/umbrire/ghid-complet-sisteme-umbrire',          permanent: true },
+      { source: '/en/shading-systems/ghid',        destination: '/en/shading-systems/complete-guide',                permanent: true },
+      { source: '/de/beschattungssysteme/ghid',    destination: '/de/beschattungssysteme/kompletter-ratgeber',       permanent: true },
+      { source: '/fr/systemes-occultation/ghid',   destination: '/fr/systemes-occultation/guide-complet',            permanent: true },
+      { source: '/es/sistemas-sombreado/ghid',     destination: '/es/sistemas-sombreado/guia-completa',              permanent: true },
+      { source: '/it/sistemi-oscuramento/ghid',    destination: '/it/sistemi-oscuramento/guida-completa',            permanent: true },
+
+      { source: '/ro/sisteme-nzeb/ghid',           destination: '/ro/sisteme-nzeb/ghid-complet-nzeb',                permanent: true },
+      { source: '/en/nzeb-systems/ghid',           destination: '/en/nzeb-systems/complete-guide',                   permanent: true },
+      { source: '/de/nzeb-systeme/ghid',           destination: '/de/nzeb-systeme/kompletter-ratgeber',              permanent: true },
+      { source: '/fr/systemes-nzeb/ghid',          destination: '/fr/systemes-nzeb/guide-complet',                   permanent: true },
+      { source: '/es/sistemas-nzeb/ghid',          destination: '/es/sistemas-nzeb/guia-completa',                   permanent: true },
+      { source: '/it/sistemi-nzeb/ghid',           destination: '/it/sistemi-nzeb/guida-completa',                   permanent: true },
+      // === v188: pagina Termeni și Condiții ștearsă definitiv (era promisă ștearsă în v181, dar fișierul rămăsese pe disk) ===
+      { source: '/ro/termeni-si-conditii',         destination: '/ro/despre',                                        permanent: true },
+
       { source: '/despre',         destination: '/ro/despre',         permanent: true },
       { source: '/about',          destination: '/en/about',          permanent: true },
       { source: '/ueber-uns',      destination: '/de/ueber-uns',      permanent: true },

@@ -2,9 +2,8 @@ import { notFound } from 'next/navigation';
 import { Link } from '../../../../i18n/navigation';
 import { getTranslations } from 'next-intl/server';
 
-const BASE   = 'https://www.neofort-biz.ro';
+import { BASE, LOCALES } from '../../../../lib/constants.js';
 const PROD_SEG = {ro:'produse',en:'products',de:'produkte',fr:'produits',es:'productos',it:'prodotti'};
-const LOCALES = ['ro','en','de','fr','es','it'];
 
 // ─── SLUG MAP — slug canonical → { ro, en, de, fr, es, it } ─────────────────
 const SLUG_MAP = {
@@ -639,7 +638,6 @@ export default async function ProductPage({ params }) {
     'aggregateRating': { '@type':'AggregateRating', 'ratingValue':'5', 'bestRating':'5', 'worstRating':'1', 'ratingCount':'47' },
     'additionalProperty': specs.map(([n,v]) => ({ '@type':'PropertyValue', 'name':n, 'value':v })),
   };
-
 
   // ── Schema BreadcrumbList ──
   const parentSeg = {ro:'tamplarie-pvc',en:'pvc-windows',de:'kunststofffenster-pvc',fr:'menuiserie-pvc',es:'carpinteria-pvc',it:'infissi-pvc'};

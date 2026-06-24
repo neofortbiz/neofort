@@ -2,9 +2,7 @@ import { Link } from '../../../i18n/navigation';
 import { ARTICLES } from '../../../data/blog.js';
 import BlogGrid from './BlogGrid';
 
-const BASE    = 'https://www.neofort-biz.ro';
-const LOCALES = ['ro','en','de','fr','es','it'];
-
+import { BASE, LOCALES } from '../../../lib/constants.js';
 const META = {
   ro: { title:'Blog Tâmplărie PVC & Aluminiu | Neofort BIZ', desc:'Ghiduri tehnice, comparații și sfaturi despre tâmplărie PVC Salamander, aluminiu Alumil, izolare nZEB, precadre Blaugelb și sisteme de umbrire Raffstore.' },
   en: { title:'PVC & Aluminium Blog | Neofort BIZ', desc:'Technical guides, comparisons and tips about Salamander PVC windows, Alumil aluminium, nZEB insulation and Raffstore shading systems.' },

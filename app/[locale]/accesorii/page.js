@@ -1,7 +1,6 @@
 import { Link } from '../../../i18n/navigation';
 
-const BASE = 'https://www.neofort-biz.ro';
-const LOCALES = ['ro','en','de','fr','es','it'];
+import { BASE, LOCALES } from '../../../lib/constants.js';
 const SLUGS = { ro:'accesorii', en:'accessories', de:'zubehoer', fr:'accessoires', es:'accesorios', it:'accessori' };
 
 const CTA_LABELS = {
@@ -21,7 +20,6 @@ const PAGE_UI = {
   es: { label:'Accesorios · Neofort BIZ', title:'Accesorios Ventanas PVC & Aluminio | Neofort BIZ', h1:'Accesorios', sub:'Marcos de renovación, alféizares interiores PVC y exteriores aluminio, rejillas de ventilación higrorreglables Aereco.', desc:'Accesorios de instalación y acabado para ventanas PVC y aluminio. Marcos renovación, alféizares RAL, rejillas Aereco. Entrega Bucarest.', btn_detail:'Detalles' },
   it: { label:'Accessori · Neofort BIZ', title:'Accessori Finestre PVC & Alluminio | Neofort BIZ', h1:'Accessori', sub:'Telai di ristrutturazione, davanzali interni PVC ed esterni alluminio, griglie di ventilazione igroregolab. Aereco.', desc:'Accessori di posa e finitura per infissi PVC e alluminio. Telai ristrutturazione, davanzali RAL, griglie Aereco. Consegna Bucarest.', btn_detail:'Dettagli' },
 };
-
 
 const A = [
   { slug:'toc-de-renovare', img:'/accessories/toc-renovare.avif', color:'#2d5a8e',
@@ -49,7 +47,6 @@ const A = [
     desc:{ ro:'Motor Somfy Oximo io pentru rulouri exterioare — silențios, cu autoreglare, compatibil TaHoma. Telecomandă radio, scenarii automate și control vocal Alexa/Google. Montaj profesional în București și Ilfov.', en:'Somfy Oximo io motor for exterior shutters — silent, self-adjusting, TaHoma compatible. Radio remote, automatic scenarios and Alexa/Google voice control. Professional installation in Bucharest and Ilfov.', de:'Somfy Oximo io Motor für Außenrollläden — leise, selbstjustierend, TaHoma-kompatibel. Funkfernbedienung, automatische Szenarien und Alexa/Google-Sprachsteuerung. Professionelle Montage in Bukarest und Ilfov.', fr:'Moteur Somfy Oximo io pour volets roulants — silencieux, autoréglable, compatible TaHoma. Télécommande radio, scénarios automatiques et contrôle vocal Alexa/Google. Pose professionnelle à Bucarest et Ilfov.', es:'Motor Somfy Oximo io para persianas exteriores — silencioso, autoajustable, compatible TaHoma. Mando radio, escenarios automáticos y control vocal Alexa/Google. Instalación profesional en Bucarest e Ilfov.', it:'Motore Somfy Oximo io per tapparelle esterne — silenzioso, autoregolante, compatibile TaHoma. Telecomando radio, scenari automatici e controllo vocale Alexa/Google. Installazione professionale a Bucarest e Ilfov.' },
   },
 ];
-
 
 export async function generateMetadata({ params }) {
   const { locale } = await params;

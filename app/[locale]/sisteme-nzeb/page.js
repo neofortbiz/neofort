@@ -1,8 +1,7 @@
 import { Link } from '../../../i18n/navigation';
 import { getTranslations } from 'next-intl/server';
 
-const BASE = 'https://www.neofort-biz.ro';
-const LOCALES = ['ro','en','de','fr','es','it'];
+import { BASE, LOCALES } from '../../../lib/constants.js';
 const SLUGS = { ro:'sisteme-nzeb', en:'nzeb-systems', de:'nzeb-systeme', fr:'systemes-nzeb', es:'sistemas-nzeb', it:'sistemi-nzeb' };
 
 const CTA_LABELS = {
@@ -113,7 +112,6 @@ export default async function Page({ params }) {
       'acceptedAnswer': { '@type': 'Answer', 'text': a }
     }))
   };
-
 
   const PILLAR_SLUGS = {
     ro: 'sisteme-nzeb/ghid-complet-nzeb',

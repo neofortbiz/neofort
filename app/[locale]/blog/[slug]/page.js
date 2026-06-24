@@ -3,9 +3,7 @@ import ViewCounter from '../../../../components/ViewCounter';
 import { ARTICLES, getArticle, getSlugForLocale, getAllLocaleSlugPairs } from '../../../../data/blog.js';
 import { notFound } from 'next/navigation';
 
-const BASE = 'https://www.neofort-biz.ro';
-const LOCALES = ['ro','en','de','fr','es','it'];
-
+import { BASE, LOCALES } from '../../../../lib/constants.js';
 const UI = {
   ro: { breadcrumb_home:'Acasă', related:'Articole similare', read_more:'Citește →', read_short:'Citește →', lang_notice:'Disponibil în:' },
   en: { breadcrumb_home:'Home', related:'Related articles', read_more:'Read →', read_short:'Read →', lang_notice:'Available in:' },
@@ -44,12 +42,12 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: `${title} | Neofort BIZ`,
       description: desc,
-      images: [{ url: a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`, width: 1200, height: 630, alt: title, type: a.image?.[locale] ? 'image/avif' : 'image/avif' }],
+      images: [{ url: a.imageOg ? `${BASE}${a.imageOg}` : `${BASE}/og/BLOG.jpg`, width: 1200, height: 630, alt: title, type: 'image/jpeg' }],
       publishedTime: a.date,
       modifiedTime: a.date,
       locale: locale,
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[a.imageOg ? `${BASE}${a.imageOg}` : `${BASE}/og/BLOG.jpg`] },
   };
 }
 

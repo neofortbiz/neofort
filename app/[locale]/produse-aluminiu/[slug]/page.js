@@ -1,9 +1,8 @@
 import { notFound } from 'next/navigation';
 import { Link } from '../../../../i18n/navigation';
 
-const BASE    = 'https://www.neofort-biz.ro';
+import { BASE, LOCALES } from '../../../../lib/constants.js';
 const PALU_SEG = {ro:'produse-aluminiu',en:'products-alu',de:'produkte-alu',fr:'produits-alu',es:'productos-alu',it:'prodotti-alu'};
-const LOCALES = ['ro','en','de','fr','es','it'];
 
 // ─── SLUG MAP — canonical → { ro, en, de, fr, es, it } ──────────────────────
 const SLUG_MAP = {
@@ -436,7 +435,6 @@ export default async function ProductAluPage({ params }) {
     'aggregateRating': { '@type':'AggregateRating', 'ratingValue':'5', 'bestRating':'5', 'worstRating':'1', 'ratingCount':'47' },
     'additionalProperty': specs.map(([n,v]) => ({ '@type':'PropertyValue', 'name':n, 'value':v })),
   };
-
 
   // ── BreadcrumbList ──
   const aluParentSeg = {ro:'tamplarie-aluminiu',en:'aluminium-windows',de:'aluminiumfenster',fr:'menuiserie-aluminium',es:'carpinteria-aluminio',it:'infissi-alluminio'};

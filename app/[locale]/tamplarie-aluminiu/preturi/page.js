@@ -1,8 +1,7 @@
 import { Link } from '../../../../i18n/navigation';
 import FaqAccordion from '../../../../components/FaqAccordion';
 
-const BASE = 'https://www.neofort-biz.ro';
-
+import { BASE, LOCALES } from '../../../../lib/constants.js';
 const SLUGS = {
   ro: 'tamplarie-aluminiu/preturi',
   en: 'aluminium-windows/prices',
@@ -17,8 +16,6 @@ const PARENT_SLUGS = {
   de: 'aluminiumfenster',   fr: 'menuiserie-aluminium',
   es: 'carpinteria-aluminio', it: 'infissi-alluminio',
 };
-
-const LOCALES = ['ro','en','de','fr','es','it'];
 
 const UI = {
   ro: {

@@ -1,8 +1,7 @@
 import { Link } from '../../../i18n/navigation';
 import { getTranslations } from 'next-intl/server';
 
-const BASE = 'https://www.neofort-biz.ro';
-const LOCALES = ['ro','en','de','fr','es','it'];
+import { BASE, LOCALES } from '../../../lib/constants.js';
 const SLUGS = { ro:'umbrire', en:'shading-systems', de:'beschattungssysteme', fr:'systemes-occultation', es:'sistemas-sombreado', it:'sistemi-oscuramento' };
 
 const CTA_LABELS = {
@@ -107,7 +106,6 @@ export default async function Page({ params }) {
       'acceptedAnswer': { '@type': 'Answer', 'text': a }
     }))
   };
-
 
   const PILLAR_SLUGS = {
     ro: 'umbrire/ghid-complet-sisteme-umbrire',

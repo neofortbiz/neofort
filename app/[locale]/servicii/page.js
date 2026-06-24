@@ -1,7 +1,7 @@
 import { getTranslations } from 'next-intl/server';
 import { Link } from '../../../i18n/navigation';
 
-const BASE = 'https://www.neofort-biz.ro';
+import { BASE } from '../../../lib/constants.js';
 const SLUGS_SERVICII = {'ro':'servicii', 'en':'services', 'de':'dienstleistungen', 'fr':'services', 'es':'servicios', 'it':'servizi'};
 
 const CTA_LABELS = {

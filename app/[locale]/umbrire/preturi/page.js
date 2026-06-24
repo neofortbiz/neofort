@@ -1,8 +1,6 @@
 import { Link } from '../../../../i18n/navigation';
 
-const BASE = 'https://www.neofort-biz.ro';
-const LOCALES = ['ro','en','de','fr','es','it'];
-
+import { BASE, LOCALES } from '../../../../lib/constants.js';
 const SLUGS = {
   ro: 'umbrire/preturi-sisteme-umbrire',
   en: 'shading-systems/shading-prices',
@@ -272,7 +270,6 @@ const UI = {
     "guide_slug": "sistemi-oscuramento/guida-completa"
   }
 };
-
 
 const WA_URLS = {
   ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20sisteme%20de%20umbrire.',

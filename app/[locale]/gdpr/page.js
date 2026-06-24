@@ -1,4 +1,4 @@
-const BASE = 'https://www.neofort-biz.ro';
+import { BASE } from '../../../lib/constants.js';
 const SLUGS_GDPR = {ro:'gdpr',en:'privacy-policy',de:'datenschutz',fr:'politique-confidentialite',es:'politica-privacidad',it:'informativa-privacy'};
 
 const UI = {
@@ -117,7 +117,6 @@ const UI = {
     ],
   },
 };
-
 
 export async function generateMetadata({ params }) {
   const { locale } = await params;

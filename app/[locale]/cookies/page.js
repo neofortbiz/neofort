@@ -1,4 +1,4 @@
-const BASE = 'https://www.neofort-biz.ro';
+import { BASE } from '../../../lib/constants.js';
 const SLUGS = {
   ro: 'cookies',
   en: 'cookie-policy',

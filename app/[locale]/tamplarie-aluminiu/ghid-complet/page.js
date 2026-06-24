@@ -1,8 +1,6 @@
 import { Link } from '../../../../i18n/navigation';
 
-const BASE = 'https://www.neofort-biz.ro';
-const LOCALES = ['ro','en','de','fr','es','it'];
-
+import { BASE, LOCALES } from '../../../../lib/constants.js';
 const SLUGS = {
   ro: 'tamplarie-aluminiu/ghid-complet',
   en: 'aluminium-windows/complete-guide',
@@ -281,7 +279,6 @@ const BLOG_LINKS = {
     { slug: 'posa-serramenti-salamander-evolutiondrive-plus-scorrevole-alumil-m19800-pieghevole', label: 'Posa: Salamander evolutionDrive Plus scorrevole + Alumil M19800BT pieghevole — Progetto completo Neofort BIZ' },
   ],
 };
-
 
 const WA_URLS = {
   ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20tamplarie%20aluminiu%20Alumil.',

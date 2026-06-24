@@ -2,7 +2,7 @@ import { getTranslations } from 'next-intl/server';
 import FaqAccordion from '../../../components/FaqAccordion';
 import { Link } from '../../../i18n/navigation';
 
-const BASE = 'https://www.neofort-biz.ro';
+import { BASE } from '../../../lib/constants.js';
 const SLUGS_TAMPLARIE_PVC = {'ro':'tamplarie-pvc', 'en':'pvc-windows', 'de':'kunststofffenster-pvc', 'fr':'menuiserie-pvc', 'es':'carpinteria-pvc', 'it':'infissi-pvc'};
 
 const CTA_LABELS = {
@@ -191,7 +191,6 @@ export default async function TamplariePVCPage({ params }) {
   const { locale } = await params;
   const ui = PAGE_UI[locale] || PAGE_UI.ro;
 
-
   const schemaPVC = {
     '@context': 'https://schema.org', '@type': ['CollectionPage', 'Product'],
     'name': PAGE_UI[locale]?.h1 || PAGE_UI.ro.h1,
@@ -274,7 +273,6 @@ export default async function TamplariePVCPage({ params }) {
   })[locale] || [];
 
   const faqLabelPVC = {ro:'Întrebări frecvente',en:'Frequently asked questions',de:'Häufig gestellte Fragen',fr:'Questions fréquentes',es:'Preguntas frecuentes',it:'Domande frequenti'}[locale] || 'Întrebări frecvente';
-
 
   const PILLAR_SLUGS = {
     ro: 'tamplarie-pvc/ghid-complet',

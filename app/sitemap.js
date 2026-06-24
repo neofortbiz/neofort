@@ -1,8 +1,8 @@
+import { ARTICLES } from '../data/blog.js';
+
 export const dynamic = 'force-static';
 
-const BASE = 'https://www.neofort-biz.ro';
-const LOCALES = ['ro','en','de','fr','es','it'];
-
+import { BASE, LOCALES } from '../lib/constants.js';
 const PAGE_SLUGS = {
   ro: { pvc:'tamplarie-pvc', aluminiu:'tamplarie-aluminiu', accesorii:'accesorii', servicii:'servicii', contact:'contact', despre:'despre', gdpr:'gdpr', cookies:'cookies', umbrire:'umbrire', nzeb:'sisteme-nzeb' },
   en: { pvc:'pvc-windows', aluminiu:'aluminium-windows', accesorii:'accessories', servicii:'services', contact:'contact', despre:'about', gdpr:'privacy-policy', cookies:'cookie-policy', umbrire:'shading-systems', nzeb:'nzeb-systems' },
@@ -12,200 +12,7 @@ const PAGE_SLUGS = {
   it: { pvc:'infissi-pvc', aluminiu:'infissi-alluminio', accesorii:'accessori', servicii:'servizi', contact:'contatti', despre:'chi-siamo', gdpr:'informativa-privacy', cookies:'politica-cookie', umbrire:'sistemi-oscuramento', nzeb:'sistemi-nzeb' },
 };
 
-const BLOG_SLUGS = [
-  {
-    ro: 'bluevolution-92-vs-greenevolution-76',
-    en: 'bluevolution-92-vs-greenevolution-76-guide',
-    de: 'bluevolution-92-vs-greenevolution-76-leitfaden',
-    fr: 'bluevolution-92-vs-greenevolution-76-guide',
-    es: 'bluevolution-92-vs-greenevolution-76-guia',
-    it: 'bluevolution-92-vs-greenevolution-76-guida',
-  },
-  {
-    ro: 'montaj-precadre-blaugelb-nzeb',
-    en: 'blaugelb-triotherm-precasing-installation-nzeb',
-    de: 'blaugelb-triotherm-vorfenster-montage-nzeb',
-    fr: 'precadres-blaugelb-triotherm-pose-nzeb',
-    es: 'instalacion-premarcos-blaugelb-triotherm-nzeb',
-    it: 'installazione-precontrotelaio-blaugelb-triotherm-nzeb',
-  },
-  {
-    ro: 'vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti',
-    en: 'glass-shopfronts-panoramic-large-format-tempered-windows-bucharest',
-    de: 'schaufenster-panoramascheiben-grosse-abmessungen-sicherheitsglas-bukarest',
-    fr: 'vitrines-verre-fenetres-panoramiques-grandes-dimensions-securisees-bucarest',
-    es: 'vitrinas-cristal-ventanas-panoramicas-grandes-dimensiones-securizadas-bucarest',
-    it: 'vetrine-vetro-finestre-panoramiche-grandi-dimensioni-securizzate-bucarest',
-  },
-  {
-    ro: 'montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
-    en: 'oversized-glass-installation-robot-vacuum-cups-large-panels',
-    de: 'montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat',
-    fr: 'pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
-    es: 'instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
-    it: 'posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
-  },
-  {
-    ro: 'tamplarie-aluminiu-pereti-cortina-fatade-sticla-lucrari-bucuresti',
-    en: 'aluminium-joinery-curtain-walls-glass-facades-projects-bucharest',
-    de: 'aluminiumtischlerarbeiten-vorhangfassaden-glasfassaden-projekte-bukarest',
-    fr: 'menuiserie-aluminium-murs-rideaux-facades-verre-projets-bucarest',
-    es: 'carpinteria-aluminio-muros-cortina-fachadas-vidrio-proyectos-bucarest',
-    it: 'infissi-alluminio-pareti-cortina-facciate-vetro-progetti-bucarest',
-  },
-  {
-    ro: 'tamplarie-aluminiu-reynaers-bloc-nou-construit-bucuresti',
-    en: 'reynaers-aluminium-windows-new-residential-block-bucharest',
-    de: 'reynaers-aluminiumfenster-neubau-wohnblock-bukarest',
-    fr: 'menuiserie-aluminium-reynaers-immeuble-neuf-bucarest',
-    es: 'carpinteria-aluminio-reynaers-bloque-nueva-construccion-bucarest',
-    it: 'infissi-alluminio-reynaers-condominio-nuova-costruzione-bucarest',
-  },
-  {
-    ro: 'salamander-bluevolution-92-casa-noua-smart-home-bucuresti',
-    en: 'salamander-bluevolution-92-new-house-smart-home-bucharest',
-    de: 'salamander-bluevolution-92-neubau-smart-home-bukarest',
-    fr: 'salamander-bluevolution-92-maison-neuve-maison-intelligente-bucarest',
-    es: 'salamander-bluevolution-92-casa-nueva-smart-home-bucarest',
-    it: 'salamander-bluevolution-92-casa-nuova-smart-home-bucarest',
-  },
-  {
-    ro: 'salamander-bluevolution-92-alu-placat-aluminiu-export-franta-casa-munte',
-    en: 'salamander-bluevolution-92-alu-aluminium-clad-export-france-mountain-house',
-    de: 'salamander-bluevolution-92-alu-aluminiumverkleidung-export-frankreich-berghaus',
-    fr: 'salamander-bluevolution-92-alu-revetu-aluminium-export-france-maison-montagne',
-    es: 'salamander-bluevolution-92-alu-revestido-aluminio-exportacion-francia-casa-montana',
-    it: 'salamander-bluevolution-92-alu-rivestito-alluminio-esportazione-francia-casa-montagna',
-  },
-  {
-    ro: 'inlocuire-ferestre-vechi-renovare-apartament-bucuresti',
-    en: 'replacing-old-windows-apartment-renovation-bucharest',
-    de: 'alte-fenster-ersetzen-wohnungsrenovierung-bukarest',
-    fr: 'remplacement-fenetres-renovation-appartement-bucarest',
-    es: 'sustitucion-ventanas-renovacion-apartamento-bucarest',
-    it: 'sostituzione-finestre-ristrutturazione-appartamento-bucarest',
-  },
-  {
-    ro: 'inchidere-balcon-terasa-tamplarie-aluminiu-bucuresti-2026',
-    en: 'balcony-terrace-enclosure-aluminium-windows-bucharest-2026',
-    de: 'balkon-terrasse-verglasung-aluminium-bukarest-2026',
-    fr: 'fermeture-balcon-terrasse-menuiserie-aluminium-bucarest-2026',
-    es: 'cierre-balcon-terraza-carpinteria-aluminio-bucarest-2026',
-    it: 'chiusura-balcone-terrazza-infissi-alluminio-bucarest-2026',
-  },
-  {
-    ro: 'vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti',
-    en: 'glass-shopfronts-panoramic-large-format-tempered-windows-bucharest',
-    de: 'schaufenster-panoramascheiben-grosse-abmessungen-sicherheitsglas-bukarest',
-    fr: 'vitrines-verre-fenetres-panoramiques-grandes-dimensions-securisees-bucarest',
-    es: 'vitrinas-cristal-ventanas-panoramicas-grandes-dimensiones-securizadas-bucarest',
-    it: 'vetrine-vetro-finestre-panoramiche-grandi-dimensioni-securizzate-bucarest',
-  },
-  {
-    ro: 'montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni',
-    en: 'oversized-glass-installation-robot-vacuum-cups-large-panels',
-    de: 'montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat',
-    fr: 'pose-verre-surdimensionne-robot-ventouses-grands-panneaux',
-    es: 'instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
-    it: 'posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
-  },
-  {
-    ro: 'tamplarie-aluminiu-pereti-cortina-fatade-sticla-lucrari-bucuresti',
-    en: 'aluminium-joinery-curtain-walls-glass-facades-projects-bucharest',
-    de: 'aluminiumtischlerarbeiten-vorhangfassaden-glasfassaden-projekte-bukarest',
-    fr: 'menuiserie-aluminium-murs-rideaux-facades-verre-projets-bucarest',
-    es: 'carpinteria-aluminio-muros-cortina-fachadas-vidrio-proyectos-bucarest',
-    it: 'infissi-alluminio-pareti-cortina-facciate-vetro-progetti-bucarest',
-  },
-  {
-    ro: 'tamplarie-aluminiu-reynaers-bloc-nou-construit-bucuresti',
-    en: 'reynaers-aluminium-windows-new-residential-block-bucharest',
-    de: 'reynaers-aluminiumfenster-neubau-wohnblock-bukarest',
-    fr: 'menuiserie-aluminium-reynaers-immeuble-neuf-bucarest',
-    es: 'carpinteria-aluminio-reynaers-bloque-nueva-construccion-bucarest',
-    it: 'infissi-alluminio-reynaers-condominio-nuova-costruzione-bucarest',
-  },
-  {
-    ro: 'salamander-bluevolution-92-casa-noua-smart-home-bucuresti',
-    en: 'salamander-bluevolution-92-new-house-smart-home-bucharest',
-    de: 'salamander-bluevolution-92-neubau-smart-home-bukarest',
-    fr: 'salamander-bluevolution-92-maison-neuve-maison-intelligente-bucarest',
-    es: 'salamander-bluevolution-92-casa-nueva-smart-home-bucarest',
-    it: 'salamander-bluevolution-92-casa-nuova-smart-home-bucarest',
-  },
-  {
-    ro: 'salamander-bluevolution-92-alu-placat-aluminiu-export-franta-casa-munte',
-    en: 'salamander-bluevolution-92-alu-aluminium-clad-export-france-mountain-house',
-    de: 'salamander-bluevolution-92-alu-aluminiumverkleidung-export-frankreich-berghaus',
-    fr: 'salamander-bluevolution-92-alu-revetu-aluminium-export-france-maison-montagne',
-    es: 'salamander-bluevolution-92-alu-revestido-aluminio-exportacion-francia-casa-montana',
-    it: 'salamander-bluevolution-92-alu-rivestito-alluminio-esportazione-francia-casa-montagna',
-  },
-  {
-    ro: 'inlocuire-ferestre-vechi-renovare-apartament-bucuresti',
-    en: 'replacing-old-windows-apartment-renovation-bucharest',
-    de: 'alte-fenster-ersetzen-wohnungsrenovierung-bukarest',
-    fr: 'remplacement-fenetres-renovation-appartement-bucarest',
-    es: 'sustitucion-ventanas-renovacion-apartamento-bucarest',
-    it: 'sostituzione-finestre-ristrutturazione-appartamento-bucarest',
-  },
-    {
-    ro: 'tamplarie-salamander-case-individuale-vile-export-europa',
-    en: 'salamander-windows-individual-houses-villas-europe-export',
-    de: 'salamander-fenster-einfamilienhaeuser-villen-europa-export',
-    fr: 'menuiserie-salamander-maisons-individuelles-villas-export-europe',
-    es: 'carpinteria-salamander-casas-individuales-villas-exportacion-europa',
-    it: 'infissi-salamander-case-individuali-ville-esportazione-europa',
-  },
-  {
-    ro: 'tamplarie-aluminiu-smart-home-ferestre-usi-inteligente',
-    en: 'aluminium-windows-smart-home-automated-windows-doors',
-    de: 'aluminiumfenster-smart-home-automatisierte-fenster-tueren',
-    fr: 'menuiserie-aluminium-maison-intelligente-fenetres-portes-automatisees',
-    es: 'carpinteria-aluminio-smart-home-ventanas-puertas-automatizadas',
-    it: 'infissi-alluminio-smart-home-finestre-porte-automatizzate',
-  },
-  {
-    ro: 'pereti-cortina-birouri-bucuresti-ghid-complet-2026',
-    en: 'curtain-wall-office-buildings-bucharest-complete-guide-2026',
-    de: 'vorhangfassade-buerogebaeude-bukarest-komplett-leitfaden-2026',
-    fr: 'mur-rideau-immeubles-bureaux-bucarest-guide-complet-2026',
-    es: 'muro-cortina-edificios-oficinas-bucarest-guia-completa-2026',
-    it: 'parete-cortina-edifici-uffici-bucarest-guida-completa-2026',
-  },
-  {
-    ro: 'preturi-termopane-salamander-bucuresti',
-    en: 'salamander-double-glazing-prices-bucharest',
-    de: 'salamander-isolierglas-preise-bukarest',
-    fr: 'prix-double-vitrage-salamander-bucarest',
-    es: 'precios-doble-acristalamiento-salamander-bucarest',
-    it: 'prezzi-doppio-vetro-salamander-bucarest',
-  },
-  {
-    ro: 'preturi-tamplarie-aluminiu-alumil-aluprof-cortizo-reynaers-bucuresti',
-    en: 'aluminium-windows-prices-alumil-aluprof-cortizo-reynaers-bucharest',
-    de: 'aluminiumfenster-preise-alumil-aluprof-cortizo-reynaers-bukarest',
-    fr: 'prix-menuiserie-aluminium-alumil-aluprof-cortizo-reynaers-bucarest',
-    es: 'precios-carpinteria-aluminio-alumil-aluprof-cortizo-reynaers-bucarest',
-    it: 'prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest',
-  },
-  {
-    ro: 'jaluzele-raffstore-vs-rulouri-aluminiu',
-    en: 'raffstore-blinds-vs-aluminium-shutters',
-    de: 'raffstore-jalousien-vs-aluminiumrolllaeden',
-    fr: 'stores-raffstore-vs-volets-roulants-aluminium',
-    es: 'persianas-raffstore-vs-cierres-enrollables-aluminio',
-    it: 'veneziane-raffstore-vs-tapparelle-alluminio',
-  },
-  {
-    ro: 'export-tamplarie-germania',
-    en: 'export-windows-germany-romania',
-    de: 'fensterexport-rumaenien-deutschland',
-    fr: 'export-menuiseries-roumanie-allemagne',
-    es: 'exportacion-carpinteria-rumania-alemania',
-    it: 'esportazione-serramenti-romania-germania',
-  },
-];
+const BLOG_SLUGS = ARTICLES.map(a => a.slugs); // sincronizat automat cu data/blog.js (v188 — elimina desincronizare, 22 articole lipseau anterior)
 
 const pages = [
   { key:'',          priority:1.0, freq:'weekly'  },
@@ -267,7 +74,6 @@ export default function sitemap() {
       });
     });
   });
-
 
   // ── Pagini SEO PVC (preturi + bucuresti) — NOUT v74
   const PVC_SEO = {

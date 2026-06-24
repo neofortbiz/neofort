@@ -8,8 +8,7 @@ import Footer from '../../components/Footer';
 import CookieBanner from '../../components/CookieBanner';
 import Script from 'next/script';
 
-const locales = ['ro', 'en', 'de', 'fr', 'es', 'it'];
-const baseUrl = 'https://www.neofort-biz.ro';
+import { BASE as baseUrl, LOCALES as locales } from '../../lib/constants.js';
 
 // next/font: self-hosted, zero layout shift, nu blochează render
 const barlow = Barlow({
