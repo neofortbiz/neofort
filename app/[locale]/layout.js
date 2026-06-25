@@ -9,6 +9,7 @@ import CookieBanner from '../../components/CookieBanner';
 import Script from 'next/script';
 
 import { BASE as baseUrl, LOCALES as locales } from '../../lib/constants.js';
+import { getGoogleRating } from '../../lib/googleRating.js';
 
 // next/font: self-hosted, zero layout shift, nu blochează render
 const barlow = Barlow({
@@ -55,6 +56,7 @@ export default async function LocaleLayout({ children, params }) {
   const { locale } = await params;
   if (!locales.includes(locale)) notFound();
   const messages = await getMessages();
+  const googleRating = await getGoogleRating(); // { rating, count } — live din Google sau fallback sigur
   return (
     <html lang={locale} className={`${barlow.variable} ${barlowCondensed.variable}`}>
       <head>
@@ -96,9 +98,9 @@ export default async function LocaleLayout({ children, params }) {
       </head>
       <body>
         <NextIntlClientProvider messages={messages}>
-          <Header />
+          <Header googleRating={googleRating} />
           <main>{children}</main>
-          <Footer />
+          <Footer googleRating={googleRating} />
           <CookieBanner locale={locale} />
         </NextIntlClientProvider>
         {/* Google Analytics 4 — G-20PR5SV2XC — Consent Mode v2 */}

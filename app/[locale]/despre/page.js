@@ -2,6 +2,7 @@ import { getTranslations } from 'next-intl/server';
 import { Link } from '../../../i18n/navigation';
 
 import { BASE } from '../../../lib/constants.js';
+import { getGoogleRating } from '../../../lib/googleRating.js';
 const SLUGS_DESPRE = {'ro':'despre', 'en':'about', 'de':'ueber-uns', 'fr':'a-propos', 'es':'sobre-nosotros', 'it':'chi-siamo'};
 
 const CTA_LABELS = {
@@ -122,6 +123,7 @@ export async function generateMetadata({ params }) {
 export default async function DesprePage({ params }) {
   const { locale } = await params;
   const ui = PAGE_UI[locale] || PAGE_UI.ro;
+  const googleRating = await getGoogleRating();
 
   const schemaDespre = {
     '@context': 'https://schema.org',
@@ -162,8 +164,8 @@ export default async function DesprePage({ params }) {
         ],
         'aggregateRating': {
           '@type': 'AggregateRating',
-          'ratingValue': '4.9',
-          'reviewCount':'50',
+          'ratingValue': String(googleRating.rating),
+          'reviewCount':String(googleRating.count),
           'bestRating': '5',
           'worstRating': '1',
         },

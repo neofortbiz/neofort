@@ -2,6 +2,8 @@ import { getTranslations } from 'next-intl/server';
 import { Link } from '../../../i18n/navigation';
 
 import { BASE } from '../../../lib/constants.js';
+import { getGoogleRating } from '../../../lib/googleRating.js';
+import { formatRatingLabel } from '../../../lib/formatRating.js';
 const SLUGS_CONTACT = {'ro':'contact','en':'contact','de':'kontakt','fr':'contact','es':'contacto','it':'contatti'};
 
 const CTA_LABELS = {
@@ -235,6 +237,7 @@ export async function generateMetadata({ params }) {
 export default async function ContactPage({ params }) {
   const { locale } = await params;
   const ui = UI[locale] || UI.ro;
+  const googleRating = await getGoogleRating();
 
   // Schema.org ContactPage + LocalBusiness
   const schema = {
@@ -264,7 +267,7 @@ export default async function ContactPage({ params }) {
           "postalCode": "010776",
           "addressCountry": "RO",
         },
-        "geo": { "@type": "GeoCoordinates", "latitude": 44.4429398, "longitude": 26.0859381 },
+        "geo": { "@type": "GeoCoordinates", "latitude": 44.4430930263596, "longitude": 26.088545186506916 },
         "hasMap": "https://maps.app.goo.gl/YcaANuqcmnzy14i1A",
         "openingHoursSpecification": [{
           "@type": "OpeningHoursSpecification",
@@ -370,22 +373,43 @@ export default async function ContactPage({ params }) {
               <h2 className="font-condensed text-xl font-semibold text-primary mb-4">{ui.map_title}</h2>
               {/* min-h pe mobil, flex-1 pe desktop = umple restul coloanei */}
               <div className="border border-border overflow-hidden flex-1" style={{ minHeight: '320px' }}>
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.3!2d26.0859381!3d44.4429398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff4770adb5b1%3A0xa9d64b2f9d9b0f2a!2sStrada%20Theodor%20Aman%2011%2C%20Bucure%C8%99ti!5e0!3m2!1sro!2sro!4v1700000000000!5m2!1sro!2sro"
-                  width="100%"
-                  height="100%"
-                  style={{ border: 0, display: 'block', minHeight: '320px' }}
-                  allowFullScreen=""
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                  title="Neofort BIZ — Str. Theodor Aman Pictor 11, Sector 1, București"
-                />
+                {process.env.GOOGLE_MAPS_API_KEY ? (
+                  <iframe
+                    src={`https://www.google.com/maps/embed/v1/place?key=${process.env.GOOGLE_MAPS_API_KEY}&q=NEOFORT+BIZ,44.4430930263596,26.088545186506916&zoom=17`}
+                    width="100%"
+                    height="100%"
+                    style={{ border: 0, display: 'block', minHeight: '320px' }}
+                    allowFullScreen=""
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                    title="Neofort BIZ — Str. Theodor Aman Pictor 11, Sector 1, București"
+                  />
+                ) : (
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.3!2d26.0859381!3d44.4429398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff4770adb5b1%3A0xa9d64b2f9d9b0f2a!2sStrada%20Theodor%20Aman%2011%2C%20Bucure%C8%99ti!5e0!3m2!1sro!2sro!4v1700000000000!5m2!1sro!2sro"
+                    width="100%"
+                    height="100%"
+                    style={{ border: 0, display: 'block', minHeight: '320px' }}
+                    allowFullScreen=""
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                    title="Neofort BIZ — Str. Theodor Aman Pictor 11, Sector 1, București"
+                  />
+                )}
               </div>
               <a
                 href="https://maps.app.goo.gl/YcaANuqcmnzy14i1A"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-block mt-4 font-condensed text-[0.68rem] tracking-[0.15em] uppercase font-semibold text-muted hover:text-primary transition-colors duration-200"
+                className="inline-flex items-center gap-2 mt-4 font-condensed text-[0.7rem] tracking-[0.1em] uppercase font-semibold text-[#f5a623] hover:text-primary transition-colors duration-200"
+              >
+                {formatRatingLabel(googleRating.rating, googleRating.count, locale)}
+              </a>
+              <a
+                href="https://maps.app.goo.gl/YcaANuqcmnzy14i1A"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block mt-2 font-condensed text-[0.68rem] tracking-[0.15em] uppercase font-semibold text-muted hover:text-primary transition-colors duration-200"
               >
                 {ui.maps_btn}
               </a>

@@ -2,12 +2,13 @@
 import { useLocale, useTranslations } from 'next-intl';
 import { useState } from 'react';
 import { Link, usePathname } from '../i18n/navigation';
+import { formatRatingLabel } from '../lib/formatRating.js';
 
 const LOCALES = [['ro','RO'],['it','IT'],['de','DE'],['fr','FR'],['es','ES'],['en','EN']];
 
 const EMPTY_ERR = { nume:'', telefon:'', email:'', comanda:'', adresa:'', gdpr:'' };
 
-export default function Footer() {
+export default function Footer({ googleRating }) {
   const locale = useLocale();
   const t  = useTranslations('form');
   const tf = useTranslations('footer');
@@ -369,7 +370,7 @@ export default function Footer() {
             </p>
             <a href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
               style={{display:'inline-flex',alignItems:'center',gap:'6px',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.06em',color:'#f5a623',textDecoration:'none',marginBottom:'20px',fontWeight:500,display:'block'}}>
-              {col.reviews}
+              {googleRating ? formatRatingLabel(googleRating.rating, googleRating.count, locale) : col.reviews}
             </a>
             {/* WhatsApp CTA Button — desktop footer */}
             <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"
