@@ -386,7 +386,7 @@ export default async function ContactPage({ params }) {
                   />
                 ) : (
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.3!2d26.0859381!3d44.4429398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff4770adb5b1%3A0xa9d64b2f9d9b0f2a!2sStrada%20Theodor%20Aman%2011%2C%20Bucure%C8%99ti!5e0!3m2!1sro!2sro!4v1700000000000!5m2!1sro!2sro"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.3!2d26.088545186506916!3d44.4430930263596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff4770adb5b1%3A0xa9d64b2f9d9b0f2a!2sStrada%20Theodor%20Aman%2011%2C%20Bucure%C8%99ti!5e0!3m2!1sro!2sro!4v1700000000000!5m2!1sro!2sro"
                     width="100%"
                     height="100%"
                     style={{ border: 0, display: 'block', minHeight: '320px' }}

@@ -1,4 +1,5 @@
 import { ARTICLES } from '../data/blog.js';
+import { routing } from '../i18n/routing.js';
 
 export const dynamic = 'force-static';
 
@@ -39,11 +40,8 @@ export default function sitemap() {
   const now = new Date().toISOString();
   const urls = [];
 
-  // Segmente folder traduse per limba
-  const ACC_SEG  = {ro:'accesorii',       en:'accessories',     de:'zubehoer',             fr:'accessoires',          es:'accesorios',        it:'accessori'};
-  const ALU_SEG  = {ro:'produse-aluminiu', en:'products-alu',    de:'produkte-alu',         fr:'produits-alu',         es:'productos-alu',     it:'prodotti-alu'};
-  const UMB_SEG  = {ro:'umbrire',          en:'shading-systems', de:'beschattungssysteme',  fr:'systemes-occultation', es:'sistemas-sombreado',it:'sistemi-oscuramento'};
-  const NZEB_SEG = {ro:'sisteme-nzeb',     en:'nzeb-systems',    de:'nzeb-systeme',         fr:'systemes-nzeb',        es:'sistemas-nzeb',     it:'sistemi-nzeb'};
+  // (Segmentele folder traduse per limbă au fost eliminate în v190 — generarea produselor
+  //  citește acum direct din routing.pathnames, deci nu mai sunt necesare.)
 
   LOCALES.forEach(locale => {
     // Pagini principale
@@ -87,83 +85,42 @@ export default function sitemap() {
     });
   });
 
-  // ── Produse PVC individuale
-  const PVC_SLUGS = {
-    'bluevolution-92-alu':           { ro:'profil-pvc-bluevolution-92-alu',          en:'bluevolution-92-alu-pvc-profile',          de:'bluevolution-92-alu-pvc-profil',          fr:'profil-pvc-bluevolution-92-alu',          es:'perfil-pvc-bluevolution-92-alu',          it:'profilo-pvc-bluevolution-92-alu' },
-    'bluevolution-92-flex':          { ro:'profil-pvc-bluevolution-92-flex',          en:'bluevolution-92-flex-pvc-profile',         de:'bluevolution-92-flex-pvc-profil',         fr:'profil-pvc-bluevolution-92-flex',         es:'perfil-pvc-bluevolution-92-flex',         it:'profilo-pvc-bluevolution-92-flex' },
-    'bluevolution-92-round':         { ro:'profil-pvc-bluevolution-92-round',         en:'bluevolution-92-round-pvc-profile',        de:'bluevolution-92-round-pvc-profil',        fr:'profil-pvc-bluevolution-92-round',        es:'perfil-pvc-bluevolution-92-round',        it:'profilo-pvc-bluevolution-92-round' },
-    'greenevolution-76-md-round':    { ro:'profil-pvc-greenevolution-76-md-round',    en:'greenevolution-76-md-round-pvc-profile',   de:'greenevolution-76-md-round-pvc-profil',   fr:'profil-pvc-greenevolution-76-md-round',   es:'perfil-pvc-greenevolution-76-md-round',   it:'profilo-pvc-greenevolution-76-md-round' },
-    'greenevolution-76-md-flex':     { ro:'profil-pvc-greenevolution-76-md-flex',     en:'greenevolution-76-md-flex-pvc-profile',    de:'greenevolution-76-md-flex-pvc-profil',    fr:'profil-pvc-greenevolution-76-md-flex',    es:'perfil-pvc-greenevolution-76-md-flex',    it:'profilo-pvc-greenevolution-76-md-flex' },
-    'greenevolution-76-ad-flex':     { ro:'profil-pvc-greenevolution-76-ad-flex',     en:'greenevolution-76-ad-flex-pvc-profile',    de:'greenevolution-76-ad-flex-pvc-profil',    fr:'profil-pvc-greenevolution-76-ad-flex',    es:'perfil-pvc-greenevolution-76-ad-flex',    it:'profilo-pvc-greenevolution-76-ad-flex' },
-  };
+  // ── Produse individuale (toate categoriile) — generat DINAMIC din i18n/routing.js (v190)
+  // Sursă unică de adevăr: elimină listele hardcodate (anterior 22 produse, lipseau zipscreen,
+  // pergole-somfy, automatizari-somfy ×2). Acum orice produs nou din routing apare automat.
+  const PROD_PRIORITY = { 'produse':0.85, 'produse-aluminiu':0.85, 'umbrire':0.82, 'sisteme-nzeb':0.82, 'accesorii':0.80 };
+  const EXCLUDE_NON_PRODUCT = /(ghid-complet|preturi|bucuresti)/;
+  const productKeys = Object.keys(routing.pathnames).filter(k =>
+    /^\/(produse|produse-aluminiu|umbrire|sisteme-nzeb|accesorii)\/[a-z0-9-]+$/.test(k) &&
+    !EXCLUDE_NON_PRODUCT.test(k)
+  );
+  // Dedup pe slug RO final: unele chei sunt alias-uri interne care produc același URL public
+  // (ex: '/accesorii/automatizari-somfy' → același slug ca '/accesorii/automatizari-somfy-rulouri-pergole').
+  const seenRoPaths = new Set();
+  const uniqueProductKeys = productKeys.filter(key => {
+    const roPath = routing.pathnames[key]?.ro || key;
+    if (seenRoPaths.has(roPath)) return false;
+    seenRoPaths.add(roPath);
+    return true;
+  });
   LOCALES.forEach(locale => {
-    Object.entries(PVC_SLUGS).forEach(([canonical, slugs]) => {
-      const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/produse/${mySlug}`, lastModified:now, priority:0.85, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/produse/${slugs[l]||canonical}`])) } });
+    uniqueProductKeys.forEach(key => {
+      const category = key.split('/')[1];
+      const localizedPath = routing.pathnames[key]?.[locale] || routing.pathnames[key]?.ro || key;
+      urls.push({
+        url: `${BASE}/${locale}${localizedPath}`,
+        lastModified: now,
+        priority: PROD_PRIORITY[category] || 0.8,
+        changeFrequency: 'monthly',
+        alternates: {
+          languages: Object.fromEntries(
+            LOCALES.map(l => [l, `${BASE}/${l}${routing.pathnames[key]?.[l] || routing.pathnames[key]?.ro || key}`])
+          ),
+        },
+      });
     });
   });
 
-  // ── Produse Aluminiu individuale
-  const ALU_SLUGS = {
-    'alumil-s77-supreme':    { ro:'sistem-aluminiu-alumil-s77-supreme',    en:'alumil-s77-supreme-aluminium-system',    de:'alumil-s77-supreme-aluminiumsystem',    fr:'systeme-aluminium-alumil-s77-supreme',    es:'sistema-aluminio-alumil-s77-supreme',    it:'sistema-alluminio-alumil-s77-supreme' },
-    'alumil-s67-smartia':    { ro:'sistem-aluminiu-alumil-s67-smartia',    en:'alumil-s67-smartia-aluminium-system',    de:'alumil-s67-smartia-aluminiumsystem',    fr:'systeme-aluminium-alumil-s67-smartia',    es:'sistema-aluminio-alumil-s67-smartia',    it:'sistema-alluminio-alumil-s67-smartia' },
-    'alumil-s700-supreme':   { ro:'sistem-aluminiu-alumil-s700-supreme',   en:'alumil-s700-supreme-aluminium-system',   de:'alumil-s700-supreme-aluminiumsystem',   fr:'systeme-aluminium-alumil-s700-supreme',   es:'sistema-aluminio-alumil-s700-supreme',   it:'sistema-alluminio-alumil-s700-supreme' },
-    'alumil-s350-smartia':   { ro:'sistem-aluminiu-alumil-s350-smartia',   en:'alumil-s350-smartia-aluminium-system',   de:'alumil-s350-smartia-aluminiumsystem',   fr:'systeme-aluminium-alumil-s350-smartia',   es:'sistema-aluminio-alumil-s350-smartia',   it:'sistema-alluminio-alumil-s350-smartia' },
-    'alumil-sf85-supreme':   { ro:'sistem-aluminiu-alumil-sf85-supreme',   en:'alumil-sf85-supreme-aluminium-system',   de:'alumil-sf85-supreme-aluminiumsystem',   fr:'systeme-aluminium-alumil-sf85-supreme',   es:'sistema-aluminio-alumil-sf85-supreme',   it:'sistema-alluminio-alumil-sf85-supreme' },
-    'alumil-m19800-smartia': { ro:'sistem-aluminiu-alumil-m19800-smartia', en:'alumil-m19800-smartia-aluminium-system', de:'alumil-m19800-smartia-aluminiumsystem', fr:'systeme-aluminium-alumil-m19800-smartia', es:'sistema-aluminio-alumil-m19800-smartia', it:'sistema-alluminio-alumil-m19800-smartia' },
-  };
-  LOCALES.forEach(locale => {
-    Object.entries(ALU_SLUGS).forEach(([canonical, slugs]) => {
-      const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/${ALU_SEG[locale]}/${mySlug}`, lastModified:now, priority:0.85, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${ALU_SEG[l]}/${slugs[l]||canonical}`])) } });
-    });
-  });
-
-  // ── Sisteme Umbrire individuale
-  const UMBRIRE_SLUGS = {
-    'rulouri-exterioare-aluminiu':    { ro:'rulouri-exterioare-aluminiu',      en:'aluminium-external-roller-shutters',    de:'aluminium-aussenrollladen',    fr:'volets-roulants-aluminium-exterieurs',    es:'persianas-exteriores-aluminio',    it:'tapparelle-esterne-alluminio' },
-    'jaluzele-venetiene-raffstore':   { ro:'jaluzele-venetiene-raffstore',      en:'raffstore-venetian-blinds',            de:'raffstore-aussenjalousien',    fr:'stores-venitiens-raffstore',              es:'persianas-venecianas-raffstore',   it:'veneziane-raffstore' },
-  };
-  LOCALES.forEach(locale => {
-    Object.entries(UMBRIRE_SLUGS).forEach(([canonical, slugs]) => {
-      const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/${UMB_SEG[locale]}/${mySlug}`, lastModified:now, priority:0.82, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${UMB_SEG[l]}/${slugs[l]||canonical}`])) } });
-    });
-  });
-
-  // ── Sisteme nZEB individuale
-  const NZEB_SLUGS = {
-    'precadre-blaugelb-triotherm':   { ro:'precadre-blaugelb-triotherm-plus',      en:'blaugelb-triotherm-plus-precasings',         de:'blaugelb-triotherm-plus-vorfenster',         fr:'precadres-blaugelb-triotherm-plus',      es:'premarcos-blaugelb-triotherm-plus',      it:'pre-telai-blaugelb-triotherm-plus' },
-    'banda-precomprimata-butil':     { ro:'banda-precomprimata-butilic',            en:'pre-compressed-butyl-sealing-tape',          de:'vorkomprimiertes-butyl-dichtband',           fr:'bande-precomprimee-butyle',              es:'cinta-precomprimida-butilica',           it:'nastro-precompresso-butilico' },
-    'banda-etansare-antivapori':     { ro:'banda-etansare-antivapori-interior',     en:'interior-vapour-barrier-sealing-tape',       de:'innen-dampfsperrband',                       fr:'ruban-etancheite-pare-vapeur-interieur', es:'banda-sellado-barrera-vapor-interior',   it:'nastro-tenuta-barriera-vapore-interno' },
-    'bagheta-warm-edge-thermo':      { ro:'bagheta-warm-edge-distantier-termic',    en:'warm-edge-thermo-spacer-insulating-glass',  de:'warm-edge-thermo-abstandhalter-isolierglas', fr:'espaceur-warm-edge-thermo-vitrage',      es:'separador-warm-edge-thermo-vidrio-aislante', it:'distanziale-warm-edge-thermo-vetro-isolante' },
-    'geamuri-termopan-saint-gobain': { ro:'geamuri-termopan-saint-gobain-sgg',      en:'saint-gobain-sgg-thermal-insulating-glass', de:'saint-gobain-sgg-waermeschutzisolierglas',   fr:'vitrage-isolant-saint-gobain-sgg',       es:'vidrio-aislante-saint-gobain-sgg',       it:'vetro-termoisolante-saint-gobain-sgg' },
-  };
-  LOCALES.forEach(locale => {
-    Object.entries(NZEB_SLUGS).forEach(([canonical, slugs]) => {
-      const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/${NZEB_SEG[locale]}/${mySlug}`, lastModified:now, priority:0.82, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${NZEB_SEG[l]}/${slugs[l]||canonical}`])) } });
-    });
-  });
-
-  // ── Accesorii individuale
-
-  const ACC_SLUGS = {
-    'toc-de-renovare':                   { ro:'toc-de-renovare-pvc',                                    en:'pvc-renovation-frame',                              de:'pvc-renovierungsrahmen',                              fr:'cadre-renovation-pvc',                    es:'marco-renovacion-pvc',                    it:'telaio-ristrutturazione-pvc' },
-    'pervazuri-interior-pvc-exterior-al':{ ro:'pervazuri-interior-pvc-glafuri-exterior-aluminiu',        en:'interior-pvc-windowsills-exterior-aluminium-sills',  de:'innenfensterbaenke-pvc-aussenfensterbaenke-aluminium', fr:'appuis-fenetre-interieurs-pvc-exterieurs-aluminium', es:'alfeizares-interiores-pvc-exteriores-aluminio', it:'davanzali-interni-pvc-esterni-alluminio' },
-    'grila-higroreglabila-aereco':        { ro:'grila-higroreglabila-aereco-ventilatie',                 en:'aereco-hygro-adjustable-ventilation-grille',         de:'aereco-hygroregelbare-lueftungsgitter',               fr:'grille-hygroreglable-aereco-ventilation',  es:'rejilla-higrorreglable-aereco-ventilacion', it:'griglia-igroregolab-aereco-ventilazione' },
-  };
-  LOCALES.forEach(locale => {
-    Object.entries(ACC_SLUGS).forEach(([canonical, slugs]) => {
-      const mySlug = slugs[locale] || canonical;
-      urls.push({ url:`${BASE}/${locale}/${ACC_SEG[locale]}/${mySlug}`, lastModified:now, priority:0.80, changeFrequency:'monthly',
-        alternates:{ languages: Object.fromEntries(LOCALES.map(l=>[l,`${BASE}/${l}/${ACC_SEG[l]}/${slugs[l]||canonical}`])) } });
-    });
-  });
   // llms.txt — pentru LLM crawlers
   urls.push({
     url: `${BASE}/llms.txt`,

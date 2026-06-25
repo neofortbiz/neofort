@@ -30,17 +30,18 @@ const barlowCondensed = Barlow_Condensed({
 
 export async function generateMetadata({ params }) {
   const { locale } = await params;
-  const alternates = {};
-  locales.forEach(l => { alternates[l] = `${baseUrl}/${l}`; });
+  // NOTĂ (v190): alternates.languages NU se mai setează aici. Layout-ul se aplică tuturor
+  // paginilor, iar fiecare pagină își definește propriul alternates corect (cu x-default și
+  // slug-uri traduse). Setarea aici crea hreflang care pointau greșit spre homepage pentru
+  // toate paginile. metadataBase rămâne global (necesar pentru rezolvarea URL-urilor relative).
   return {
     metadataBase: new URL(baseUrl),
-    alternates: { languages: alternates, canonical: `${baseUrl}/${locale}` },
     twitter: { card: 'summary_large_image', site: '@NeofortBIZ' },
     openGraph: {
       siteName: 'Neofort BIZ - Tâmplărie PVC & Aluminiu',
       images: [
         { url: 'https://www.neofort-biz.ro/og-neofort.jpg', width: 1200, height: 630, type: 'image/jpeg' },
-        { url: 'https://www.neofort-biz.ro/og/Fabrica_Neofort.avif', width: 1200, height: 630, type: 'image/avif' },
+        { url: 'https://www.neofort-biz.ro/og/Fabrica_Neofort.jpg', width: 1200, height: 630, type:'image/jpeg' },
       ],
       locale: locale,
     },
@@ -88,8 +89,8 @@ export default async function LocaleLayout({ children, params }) {
         {/* Geo */}
         <meta name="geo.region" content="RO-B" />
         <meta name="geo.placename" content="București" />
-        <meta name="geo.position" content="44.4429398;26.0859381" />
-        <meta name="ICBM" content="44.4429398, 26.0859381" />
+        <meta name="geo.position" content="44.4430930263596;26.088545186506916" />
+        <meta name="ICBM" content="44.4430930263596, 26.088545186506916" />
 
         {/* OG locale:alternate */}
         {locales.filter(l => l !== locale).map(l => (

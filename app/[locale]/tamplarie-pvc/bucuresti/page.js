@@ -345,7 +345,7 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type: 'website', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
       title: ui.h1, description: ui.sub,
-      images: [{ url: `${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width: 1200, height: 630, alt: ui.h1, type: 'image/avif' }],
+      images: [{ url: `${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width: 1200, height: 630, alt: ui.h1, type:'image/jpeg' }],
     },
   };
 }

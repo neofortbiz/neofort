@@ -59,6 +59,16 @@ function renderMarkdown(md) {
     const isExternal = url.startsWith('http');
     return `<a href="${url}"${isExternal?' target="_blank" rel="noopener"':''} style="color:#e8721c;text-decoration:underline;text-underline-offset:2px">${text}</a>`;
   });
+  // Slug-ifică textul headerului în id ancorabil (suport diacritice RO)
+  const slugify = (s) => s
+    .toLowerCase()
+    .replace(/\*\*/g, '')
+    .replace(/[ăâ]/g,'a').replace(/[î]/g,'i').replace(/[șş]/g,'s').replace(/[țţ]/g,'t')
+    .replace(/[^a-z0-9\s-]/g,'')
+    .trim()
+    .replace(/\s+/g,'-')
+    .replace(/-+/g,'-')
+    .slice(0, 60);
 
   const lines = md.split('\n');
   let html = '';
@@ -67,9 +77,11 @@ function renderMarkdown(md) {
   while (i < lines.length) {
     const line = lines[i];
     if (line.startsWith('## ')) {
-      html += `<h2 style="font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:1.3rem;color:#1a1a1a;margin-top:2.8rem;margin-bottom:1rem;letter-spacing:.01em;padding-bottom:.5rem;border-bottom:1px solid #f0f0f0">${esc(line.slice(3))}</h2>`;
+      const txt = line.slice(3);
+      html += `<h2 id="${slugify(txt)}" style="font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:1.3rem;color:#1a1a1a;margin-top:2.8rem;margin-bottom:1rem;letter-spacing:.01em;padding-bottom:.5rem;border-bottom:1px solid #f0f0f0;scroll-margin-top:90px">${esc(txt)}</h2>`;
     } else if (line.startsWith('### ')) {
-      html += `<h3 style="font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:1.05rem;color:#1a1a1a;margin-top:1.75rem;margin-bottom:.6rem;letter-spacing:.01em">${esc(line.slice(4))}</h3>`;
+      const txt = line.slice(4);
+      html += `<h3 id="${slugify(txt)}" style="font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:1.05rem;color:#1a1a1a;margin-top:1.75rem;margin-bottom:.6rem;letter-spacing:.01em;scroll-margin-top:90px">${esc(txt)}</h3>`;
     } else if (line.startsWith('---')) {
       html += '<hr style="border:none;border-top:1px solid #efefed;margin:2.5rem 0"/>';
     } else if (line.startsWith('| ')) {
@@ -128,6 +140,17 @@ export default async function BlogArticlePage({ params }) {
   const mySlug  = a.slugs[locale]   || a.slugs.ro;
 
   const contentHtml = renderMarkdown(content);
+
+  // ── Table of Contents — extras din H2-uri (v190: SEO jump-links + AEO + UX) ──
+  const tocSlugify = (s) => s.toLowerCase().replace(/\*\*/g,'')
+    .replace(/[ăâ]/g,'a').replace(/[î]/g,'i').replace(/[șş]/g,'s').replace(/[țţ]/g,'t')
+    .replace(/[^a-z0-9\s-]/g,'').trim().replace(/\s+/g,'-').replace(/-+/g,'-').slice(0,60);
+  const tocItems = content.split('\n')
+    .filter(l => l.startsWith('## '))
+    .map(l => ({ text: l.slice(3).replace(/\*\*/g,'').trim(), id: tocSlugify(l.slice(3)) }))
+    .filter(item => item.text && item.id);
+  const tocLabel = { ro:'Cuprins', en:'Contents', de:'Inhalt', fr:'Sommaire', es:'Índice', it:'Indice' }[locale] || 'Cuprins';
+
   // Related articles: aceeasi categorie intai, apoi altele
   const sameCat = ARTICLES.filter(r => r.slugs.ro !== a.slugs.ro && r.category?.ro === a.category?.ro);
   const otherCat = ARTICLES.filter(r => r.slugs.ro !== a.slugs.ro && r.category?.ro !== a.category?.ro);
@@ -197,7 +220,7 @@ export default async function BlogArticlePage({ params }) {
     "name": title,
     "description": a.metaDesc?.[locale] || excerpt,
     "embedUrl": a.video.embed.match(/src="([^"]+)"/)?.[1] || '',
-    "thumbnailUrl": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`,
+    "thumbnailUrl": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`,
     "uploadDate": a.date,
     "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
   } : null;
@@ -219,7 +242,7 @@ export default async function BlogArticlePage({ params }) {
     },
     "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE,
       "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":200,"height":60}},
-    "image": {"@type":"ImageObject","url": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.avif`,"width":1200,"height":630},
+    "image": {"@type":"ImageObject","url": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`,"width":1200,"height":630},
     "mainEntityOfPage": {"@type":"WebPage","@id":`${BASE}/${locale}/blog/${mySlug}`},
   };
 
@@ -362,6 +385,21 @@ export default async function BlogArticlePage({ params }) {
               <div style={{width:'100%',margin:'0 0 40px'}}>
                 <div style={{width:'100%'}} dangerouslySetInnerHTML={{__html: a.video.embed}} />
               </div>
+            )}
+            {tocItems.length >= 3 && (
+              <nav aria-label={tocLabel} style={{margin:'0 0 36px',padding:'20px 24px',background:'#f9f9f7',border:'1px solid #eee',borderRadius:'2px'}}>
+                <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.7rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#888',marginBottom:'12px'}}>{tocLabel}</div>
+                <ol style={{margin:0,padding:0,listStyle:'none',counterReset:'toc'}}>
+                  {tocItems.map((item, idx) => (
+                    <li key={idx} style={{counterIncrement:'toc',marginBottom:'7px',fontSize:'.85rem',lineHeight:1.5}}>
+                      <a href={`#${item.id}`} style={{color:'#555',textDecoration:'none',display:'flex',gap:'10px'}}>
+                        <span style={{color:'#e8721c',fontWeight:600,fontVariantNumeric:'tabular-nums',minWidth:'1.4em'}}>{String(idx+1).padStart(2,'0')}</span>
+                        <span>{item.text}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ol>
+              </nav>
             )}
             <div dangerouslySetInnerHTML={{__html: contentHtml}} />
 

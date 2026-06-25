@@ -398,12 +398,10 @@ export default async function NzebProductPage({ params }) {
       '@type':'Offer',
       availability:'https://schema.org/InStock',
       priceCurrency:'RON',
-      price:'0',
-      priceSpecification: { '@type':'PriceSpecification', price:'0', priceCurrency:'RON', description:'Preț la cerere — ofertă personalizată' },
+      priceSpecification: { '@type':'PriceSpecification', priceCurrency:'RON', description:'Preț la cerere — ofertă personalizată' },
       priceValidUntil: new Date(new Date().setFullYear(new Date().getFullYear()+1)).toISOString().split('T')[0],
       seller:{'@type':'Organization', name:'Neofort BIZ SRL', url:BASE}
     },
-    aggregateRating: { '@type':'AggregateRating', ratingValue:'4.9', reviewCount:'46', bestRating:'5', worstRating:'1' },
     additionalProperty: specs.map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
   };
 

@@ -114,9 +114,9 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: t('title'),
       description: t('description'),
-      images: [{ url:`${BASE}/og/Despre_noi.avif`, width:1200, height:630, alt: locale==='ro' ? 'Despre Neofort BIZ — 21 ani experiență tâmplărie PVC Salamander și aluminiu Alumil' : locale==='en' ? 'About Neofort BIZ — 21 years PVC Salamander and Alumil aluminium window experience' : locale==='de' ? 'Über Neofort BIZ — 21 Jahre Erfahrung mit Salamander PVC- und Alumil Aluminiumfenstern' : locale==='fr' ? 'À propos Neofort BIZ — 21 ans expérience menuiseries PVC Salamander et aluminium Alumil' : locale==='es' ? 'Sobre Neofort BIZ — 21 años experiencia carpintería PVC Salamander y aluminio Alumil' : 'Chi siamo Neofort BIZ — 21 anni esperienza infissi PVC Salamander e alluminio Alumil', type:'image/avif' }],
+      images: [{ url:`${BASE}/og/Despre_noi.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Despre Neofort BIZ — 21 ani experiență tâmplărie PVC Salamander și aluminiu Alumil' : locale==='en' ? 'About Neofort BIZ — 21 years PVC Salamander and Alumil aluminium window experience' : locale==='de' ? 'Über Neofort BIZ — 21 Jahre Erfahrung mit Salamander PVC- und Alumil Aluminiumfenstern' : locale==='fr' ? 'À propos Neofort BIZ — 21 ans expérience menuiseries PVC Salamander et aluminium Alumil' : locale==='es' ? 'Sobre Neofort BIZ — 21 años experiencia carpintería PVC Salamander y aluminio Alumil' : 'Chi siamo Neofort BIZ — 21 anni esperienza infissi PVC Salamander e alluminio Alumil', type:'image/jpeg' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Despre_noi.avif`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Despre_noi.jpg`] },
   };
 }
 
@@ -143,7 +143,7 @@ export default async function DesprePage({ params }) {
           'postalCode': '010776',
           'addressCountry': 'RO',
         },
-        'geo': { '@type': 'GeoCoordinates', 'latitude': 44.4268, 'longitude': 26.0994 },
+        'geo': { '@type': 'GeoCoordinates', 'latitude': 44.4430930263596, 'longitude': 26.088545186506916 },
         'telephone': '+40752443435',
         'faxNumber': '+40215280661',
         'email': 'oferte@neofort-biz.ro',

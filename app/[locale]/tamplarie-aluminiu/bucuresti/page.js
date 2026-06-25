@@ -345,7 +345,7 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type: 'article', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
       title: ui.h1, description: ui.sub,
-      images: [{ url: `${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width: 1200, height: 630, alt: ui.h1, type: 'image/avif' }],
+      images: [{ url: `${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width: 1200, height: 630, alt: ui.h1, type:'image/jpeg' }],
     },
   };
 }
@@ -368,7 +368,7 @@ export default async function BucurestiPage({ params }) {
     telephone: ['+40215280661', '+40752443435'],
     email: 'office@neofort-biz.ro',
     address: { '@type': 'PostalAddress', streetAddress: 'Str. Theodor Aman Pictor 11', addressLocality: 'București', addressRegion: 'Sector 1', postalCode: '010776', addressCountry: 'RO' },
-    geo: { '@type': 'GeoCoordinates', latitude: 44.4429398, longitude: 26.0859381 },
+    geo: { '@type': 'GeoCoordinates', latitude: 44.4430930263596, longitude: 26.088545186506916 },
     areaServed: [
       { '@type': 'City', name: 'București' },
       { '@type': 'AdministrativeArea', name: 'Ilfov' },

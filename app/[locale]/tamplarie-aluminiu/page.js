@@ -178,9 +178,9 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type: 'website', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
       title: t('title'), description: t('description'),
-      images: [{ url:`${BASE}/og/Tamplarie_Aluminiu_Alumil.avif`, width:1200, height:630, alt: locale==='ro' ? 'Tâmplărie aluminiu Alumil Supreme și Smartia — Neofort BIZ București' : locale==='en' ? 'Alumil Supreme and Smartia aluminium windows — Neofort BIZ Bucharest' : locale==='de' ? 'Alumil Supreme und Smartia Aluminiumfenster — Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiseries aluminium Alumil Supreme et Smartia — Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería aluminio Alumil Supreme y Smartia — Neofort BIZ Bucarest' : 'Infissi alluminio Alumil Supreme e Smartia — Neofort BIZ Bucarest', type:'image/avif' }],
+      images: [{ url:`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Tâmplărie aluminiu Alumil Supreme și Smartia — Neofort BIZ București' : locale==='en' ? 'Alumil Supreme and Smartia aluminium windows — Neofort BIZ Bucharest' : locale==='de' ? 'Alumil Supreme und Smartia Aluminiumfenster — Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiseries aluminium Alumil Supreme et Smartia — Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería aluminio Alumil Supreme y Smartia — Neofort BIZ Bucarest' : 'Infissi alluminio Alumil Supreme e Smartia — Neofort BIZ Bucarest', type:'image/jpeg' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Tamplarie_Aluminiu_Alumil.avif`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`] },
   };
 }
 
@@ -192,14 +192,6 @@ export default async function TamplaieAluminiuPage({ params }) {
     '@context': 'https://schema.org', '@type': ['CollectionPage', 'Product'],
     'name': PAGE_UI[locale]?.h1 || PAGE_UI.ro.h1,
     'url': `${BASE}/${locale}/${SLUGS_TAMPLARIE_ALUMINIU[locale] || SLUGS_TAMPLARIE_ALUMINIU.ro}`,
-    'aggregateRating': {
-      '@type': 'AggregateRating',
-      'ratingValue': '4.9',
-      'reviewCount':'46',
-      'bestRating': '5',
-      'worstRating': '1',
-      'ratingCount':'46',
-    },
     'provider': { '@type': 'Organization', 'name': 'Neofort BIZ', 'url': BASE },
     'breadcrumb': { '@type': 'BreadcrumbList', 'itemListElement': [
       { '@type': 'ListItem', 'position': 1, 'name': 'Neofort BIZ', 'item': `${BASE}/${locale}` },
