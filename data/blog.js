@@ -8089,7 +8089,7 @@ Denumirea „92" indică **adâncimea de construcție de 92 mm** — cea mai mar
 
 ### Variante disponibile
 
-**BluEvolution 92 Placat Aluminiu** — profilul PVC acoperit cu folie de aluminiu pe exterior. Aspect aluminiu, izolare PVC. Disponibil în orice culoare RAL.
+**BluEvolution 92 Placat Aluminiu** — [profilul PVC](/ro/tamplarie-pvc) acoperit cu folie de aluminiu pe exterior. Aspect aluminiu, izolare PVC. Disponibil în orice culoare RAL.
 
 **BluEvolution 92 Flex** — colțuri cu muchii teșite, design modern minimalist.
 
@@ -8100,7 +8100,7 @@ Denumirea „92" indică **adâncimea de construcție de 92 mm** — cea mai mar
 ✅ Cea mai bună izolare termică din gama Salamander
 ✅ Compatibil cu geam triplu — esențial pentru nZEB
 ✅ Varianta placat aluminiu — aspect premium fără costul aluminiului
-✅ Ideal pentru case pasive și construcții cu standard energetic ridicat
+✅ Ideal pentru [case pasive](/ro/sisteme-nzeb) și construcții cu standard energetic ridicat
 
 ### Dezavantaje
 
@@ -8198,7 +8198,7 @@ Da. BluEvolution 92 Placat Aluminiu e profilul PVC acoperit cu folie de aluminiu
 
       en: `## Why Does the PVC Profile Choice Matter?
 
-Choosing the right PVC profile is one of the most important decisions when building or renovating a home. The profile determines not only the visual appearance of the windows, but also **energy performance**, **acoustic insulation** and **long-term durability**.
+Choosing the right [PVC profile](/en/pvc-windows) is one of the most important decisions when building or renovating a home. The profile determines not only the visual appearance of the windows, but also **energy performance**, **acoustic insulation** and **long-term durability**.
 
 Salamander, the German manufacturer with over 50 years of experience, offers two distinct ranges for the premium segment: **BluEvolution 92** and **GreenEvolution 76**.
 
@@ -8232,7 +8232,7 @@ The "92" designation indicates a **construction depth of 92 mm** — the largest
 ✅ Best thermal insulation in the Salamander range
 ✅ Compatible with triple glazing — essential for nZEB
 ✅ Aluminium clad variant — premium appearance without aluminium cost
-✅ Ideal for passive houses and high energy standard construction
+✅ Ideal for [passive houses](/en/nzeb-systems) and high energy standard construction
 
 ### Disadvantages
 
@@ -8330,7 +8330,7 @@ Yes. BluEvolution 92 Aluminium-Clad is the PVC profile covered with aluminium fo
 
       de: `## Warum ist die Wahl des PVC-Profils so wichtig?
 
-Die Wahl des richtigen PVC-Profils ist eine der wichtigsten Entscheidungen beim Bau oder der Renovierung eines Hauses. Das Profil bestimmt nicht nur das äußere Erscheinungsbild der Fenster, sondern auch die **Energieleistung**, **Schalldämmung** und **langfristige Haltbarkeit**.
+Die Wahl des richtigen [PVC-Profil](/de/kunststofffenster-pvc)s ist eine der wichtigsten Entscheidungen beim Bau oder der Renovierung eines Hauses. Das Profil bestimmt nicht nur das äußere Erscheinungsbild der Fenster, sondern auch die **Energieleistung**, **Schalldämmung** und **langfristige Haltbarkeit**.
 
 Salamander, der deutsche Hersteller mit über 50 Jahren Erfahrung, bietet zwei verschiedene Serien für das Premiumsegment: **BluEvolution 92** und **GreenEvolution 76**.
 
@@ -8364,7 +8364,7 @@ Die Bezeichnung „92" steht für eine **Bautiefe von 92 mm** — die größte i
 ✅ Beste Wärmedämmung im Salamander-Sortiment
 ✅ Kompatibel mit Dreifachverglasung — unverzichtbar für nZEB
 ✅ Aluminium-beschichtete Variante — Premium-Optik ohne Aluminium-Kosten
-✅ Ideal für Passivhäuser und Gebäude mit hohem Energiestandard
+✅ Ideal für [Passivhäuser](/de/nzeb-systeme) und Gebäude mit hohem Energiestandard
 
 ### Nachteile
 
@@ -8462,7 +8462,7 @@ Ja. BluEvolution 92 Aluminiumverkleidet ist das PVC-Profil, außen mit Aluminium
 
       fr: `## Pourquoi le choix du profil PVC est-il si important ?
 
-Le choix du profil PVC est l'une des décisions les plus importantes lors de la construction ou de la rénovation d'un logement. Le profil détermine non seulement l'aspect visuel des fenêtres, mais aussi la **performance énergétique**, l'**isolation acoustique** et la **durabilité à long terme**.
+Le choix du profil [PVC](/fr/menuiserie-pvc) est l'une des décisions les plus importantes lors de la construction ou de la rénovation d'un logement. Le profil détermine non seulement l'aspect visuel des fenêtres, mais aussi la **performance énergétique**, l'**isolation acoustique** et la **durabilité à long terme**.
 
 Salamander, le fabricant allemand fort de plus de 50 ans d'expérience, propose deux gammes distinctes pour le segment premium : **BluEvolution 92** et **GreenEvolution 76**.
 
@@ -8496,7 +8496,7 @@ La dénomination « 92 » indique une **profondeur de construction de 92 mm** �
 ✅ Meilleure isolation thermique de la gamme Salamander
 ✅ Compatible triple vitrage — indispensable pour le nZEB
 ✅ Variante revêtement aluminium — aspect premium sans le coût de l'aluminium
-✅ Idéal pour les maisons passives et les constructions à haute performance énergétique
+✅ Idéal pour les [maisons passives](/fr/systemes-nzeb) et les constructions à haute performance énergétique
 
 ### Inconvénients
 
@@ -8594,7 +8594,7 @@ Oui. Le BluEvolution 92 Plaqué Aluminium est le profilé PVC recouvert d'un fil
 
       es: `## ¿Por qué es tan importante la elección del perfil de PVC?
 
-Elegir el perfil de PVC adecuado es una de las decisiones más importantes al construir o renovar una vivienda. El perfil determina no solo el aspecto visual de las ventanas, sino también el **rendimiento energético**, el **aislamiento acústico** y la **durabilidad a largo plazo**.
+Elegir el [perfil de PVC](/es/carpinteria-pvc) adecuado es una de las decisiones más importantes al construir o renovar una vivienda. El perfil determina no solo el aspecto visual de las ventanas, sino también el **rendimiento energético**, el **aislamiento acústico** y la **durabilidad a largo plazo**.
 
 Salamander, el fabricante alemán con más de 50 años de experiencia, ofrece dos gamas distintas para el segmento premium: **BluEvolution 92** y **GreenEvolution 76**.
 
@@ -8628,7 +8628,7 @@ La denominación «92» indica una **profundidad de construcción de 92 mm** —
 ✅ Mejor aislamiento térmico de la gama Salamander
 ✅ Compatible con triple acristalamiento — esencial para nZEB
 ✅ Variante revestimiento aluminio — aspecto premium sin el coste del aluminio
-✅ Ideal para casas pasivas y construcciones con alto estándar energético
+✅ Ideal para [casas pasivas](/es/sistemas-nzeb) y construcciones con alto estándar energético
 
 ### Desventajas
 
@@ -8726,7 +8726,7 @@ Sí. El BluEvolution 92 Revestido de Aluminio es el perfil de PVC cubierto con l
 
       it: `## Perché è così importante la scelta del profilo PVC?
 
-La scelta del profilo PVC giusto è una delle decisioni più importanti nella costruzione o ristrutturazione di un'abitazione. Il profilo determina non solo l'aspetto visivo delle finestre, ma anche le **prestazioni energetiche**, l'**isolamento acustico** e la **durabilità a lungo termine**.
+La scelta del [profilo PVC](/it/infissi-pvc) giusto è una delle decisioni più importanti nella costruzione o ristrutturazione di un'abitazione. Il profilo determina non solo l'aspetto visivo delle finestre, ma anche le **prestazioni energetiche**, l'**isolamento acustico** e la **durabilità a lungo termine**.
 
 Salamander, il produttore tedesco con oltre 50 anni di esperienza, offre due gamme distinte per il segmento premium: **BluEvolution 92** e **GreenEvolution 76**.
 
@@ -8760,7 +8760,7 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
 ✅ Miglior isolamento termico nella gamma Salamander
 ✅ Compatibile con triplo vetro — essenziale per nZEB
 ✅ Variante rivestimento alluminio — aspetto premium senza il costo dell'alluminio
-✅ Ideale per case passive e costruzioni ad alto standard energetico
+✅ Ideale per [case passive](/it/sistemi-nzeb) e costruzioni ad alto standard energetico
 
 ### Svantaggi
 
@@ -8921,11 +8921,11 @@ Sì. Il BluEvolution 92 Rivestito in Alluminio è il profilo in PVC ricoperto co
     content: {
       ro: `## Problema pe care nimeni nu o spune la vânzare
 
-Poți cumpăra cel mai performant profil PVC Salamander BluEvolution 92, cu Uw de 0,70 W/m²K și geam triplu cu argon. Dacă montajul e greșit, **ferestrei îi rămâne mai puțin de 60% din performanța termică plătită**.
+Poți cumpăra cel mai performant [profil PVC Salamander](/ro/tamplarie-pvc) BluEvolution 92, cu Uw de 0,70 W/m²K și geam triplu cu argon. Dacă montajul e greșit, **ferestrei îi rămâne mai puțin de 60% din performanța termică plătită**.
 
 De ce? Din cauza **punților termice perimetrale** — zonele din jurul ferestrei unde căldura din interior scapă direct în exterior prin materialul de construcție.
 
-Precadrele **Blaugelb Triotherm+** există exact pentru a rezolva această problemă. Iar pentru construcțiile care trebuie să atingă **standardul nZEB**, utilizarea lor este obligatorie tehnic.
+Precadrele **Blaugelb Triotherm+** există exact pentru a rezolva această problemă. Iar pentru construcțiile care trebuie să atingă **[standardul nZEB](/ro/sisteme-nzeb)**, utilizarea lor este obligatorie tehnic.
 
 ---
 
@@ -9025,11 +9025,11 @@ La un montaj greșit, fereastrei îi rămâne mai puțin de 60% din performanța
 
       en: `## The Problem Nobody Mentions at the Point of Sale
 
-You can buy the highest-performing Salamander BluEvolution 92 PVC profile, with a Uw of 0.70 W/m²K and triple glazing with argon. If installation is incorrect, **the window retains less than 60% of the thermal performance you paid for**.
+You can buy the highest-performing [Salamander BluEvolution 92](/en/pvc-windows) PVC profile, with a Uw of 0.70 W/m²K and triple glazing with argon. If installation is incorrect, **the window retains less than 60% of the thermal performance you paid for**.
 
 Why? Because of **perimeter thermal bridges** — the areas around the window where heat from inside escapes directly to the outside through the building material.
 
-**Blaugelb Triotherm+** precasings exist specifically to solve this problem. And for buildings that need to achieve the **nZEB standard**, their use is technically mandatory.
+**Blaugelb Triotherm+** precasings exist specifically to solve this problem. And for buildings that need to achieve the **[nZEB standard](/en/nzeb-systems)**, their use is technically mandatory.
 
 ---
 
@@ -9129,11 +9129,11 @@ With incorrect fitting, the window keeps under 60% of the thermal performance pa
 
       de: `## Das Problem, das beim Verkauf niemand erwähnt
 
-Sie können das leistungsstärkste Salamander BluEvolution 92 PVC-Profil kaufen, mit einem Uw-Wert von 0,70 W/m²K und Dreifachverglasung mit Argon. Wenn der Einbau falsch ist, **behält das Fenster weniger als 60% der bezahlten Wärmeleistung**.
+Sie können das leistungsstärkste [Salamander BluEvolution 92](/de/kunststofffenster-pvc) PVC-Profil kaufen, mit einem Uw-Wert von 0,70 W/m²K und Dreifachverglasung mit Argon. Wenn der Einbau falsch ist, **behält das Fenster weniger als 60% der bezahlten Wärmeleistung**.
 
 Warum? Wegen der **perimetralen Wärmebrücken** — die Bereiche rund um das Fenster, wo die Innenraumwärme direkt nach außen durch das Baumaterial entweicht.
 
-Die **Blaugelb Triotherm+** Vorfenster sind genau dafür konzipiert, dieses Problem zu lösen. Und für Gebäude, die den **nZEB-Standard** erreichen müssen, ist ihr Einsatz technisch obligatorisch.
+Die **Blaugelb Triotherm+** Vorfenster sind genau dafür konzipiert, dieses Problem zu lösen. Und für Gebäude, die den **[nZEB-Standard](/de/nzeb-systeme)** erreichen müssen, ist ihr Einsatz technisch obligatorisch.
 
 ---
 
@@ -9233,11 +9233,11 @@ Bei falschem Einbau behält das Fenster unter 60% der bezahlten thermischen Leis
 
       fr: `## Le problème que personne ne mentionne à la vente
 
-Vous pouvez acheter le profil PVC Salamander BluEvolution 92 le plus performant, avec un Uw de 0,70 W/m²K et un triple vitrage à l'argon. Si la pose est incorrecte, **la fenêtre conserve moins de 60 % des performances thermiques payées**.
+Vous pouvez acheter le profil PVC [Salamander BluEvolution 92](/fr/menuiserie-pvc) le plus performant, avec un Uw de 0,70 W/m²K et un triple vitrage à l'argon. Si la pose est incorrecte, **la fenêtre conserve moins de 60 % des performances thermiques payées**.
 
 Pourquoi ? À cause des **ponts thermiques périmétraux** — les zones autour de la fenêtre où la chaleur intérieure s'échappe directement vers l'extérieur à travers le matériau de construction.
 
-Les précadres **Blaugelb Triotherm+** existent précisément pour résoudre ce problème. Et pour les constructions qui doivent atteindre le **standard nZEB**, leur utilisation est techniquement obligatoire.
+Les précadres **Blaugelb Triotherm+** existent précisément pour résoudre ce problème. Et pour les constructions qui doivent atteindre le **[standard nZEB](/fr/systemes-nzeb)**, leur utilisation est techniquement obligatoire.
 
 ---
 
@@ -9337,11 +9337,11 @@ Avec une pose incorrecte, la fenêtre conserve moins de 60% de la performance th
 
       es: `## El problema que nadie menciona en la venta
 
-Puede comprar el perfil PVC Salamander BluEvolution 92 más eficiente, con un Uw de 0,70 W/m²K y triple acristalamiento con argón. Si la instalación es incorrecta, **la ventana conserva menos del 60% de las prestaciones térmicas pagadas**.
+Puede comprar el [perfil PVC Salamander](/es/carpinteria-pvc) BluEvolution 92 más eficiente, con un Uw de 0,70 W/m²K y triple acristalamiento con argón. Si la instalación es incorrecta, **la ventana conserva menos del 60% de las prestaciones térmicas pagadas**.
 
 ¿Por qué? Por los **puentes térmicos perimetrales** — las zonas alrededor de la ventana donde el calor interior escapa directamente al exterior a través del material de construcción.
 
-Los premarcos **Blaugelb Triotherm+** existen precisamente para resolver este problema. Y para las construcciones que deben alcanzar el **estándar nZEB**, su uso es técnicamente obligatorio.
+Los premarcos **Blaugelb Triotherm+** existen precisamente para resolver este problema. Y para las construcciones que deben alcanzar el **[estándar nZEB](/es/sistemas-nzeb)**, su uso es técnicamente obligatorio.
 
 ---
 
@@ -9441,11 +9441,11 @@ Con un montaje incorrecto, la ventana conserva menos del 60% del rendimiento té
 
       it: `## Il problema che nessuno menziona al momento della vendita
 
-Potete acquistare il profilo PVC Salamander BluEvolution 92 più performante, con un Uw di 0,70 W/m²K e triplo vetro con argon. Se l'installazione è errata, **la finestra conserva meno del 60% delle prestazioni termiche pagate**.
+Potete acquistare il [profilo PVC Salamander](/it/infissi-pvc) BluEvolution 92 più performante, con un Uw di 0,70 W/m²K e triplo vetro con argon. Se l'installazione è errata, **la finestra conserva meno del 60% delle prestazioni termiche pagate**.
 
 Perché? A causa dei **ponti termici perimetrali** — le aree attorno alla finestra dove il calore interno fuoriesce direttamente verso l'esterno attraverso il materiale da costruzione.
 
-I precontrotelaio **Blaugelb Triotherm+** esistono proprio per risolvere questo problema. E per le costruzioni che devono raggiungere lo **standard nZEB**, il loro utilizzo è tecnicamente obbligatorio.
+I precontrotelaio **Blaugelb Triotherm+** esistono proprio per risolvere questo problema. E per le costruzioni che devono raggiungere lo **[standard nZEB](/it/sistemi-nzeb)**, il loro utilizzo è tecnicamente obbligatorio.
 
 ---
 
@@ -9608,9 +9608,9 @@ Con una posa errata, la finestra mantiene meno del 60% delle prestazioni termich
     content: {
       ro: `## De ce contează sistemul de umbrire?
 
-Ferestrele moderne cu geam triplu low-e sunt excepționale iarna. Vara, aceeași performanță poate întoarce împotriva ta: **geamul low-e poate amplifica efectul de seră**, crescând temperatura camerei.
+Ferestrele moderne cu [geam triplu low-e](/ro/tamplarie-pvc) sunt excepționale iarna. Vara, aceeași performanță poate întoarce împotriva ta: **geamul low-e poate amplifica efectul de seră**, crescând temperatura camerei.
 
-Un sistem de umbrire exterior **reduce cu 60–80% energia solară** înainte ca aceasta să atingă geamul. O perdea sau jaluzea interioară reduce cu maxim 20–30% — restul căldurii a intrat deja.
+Un [sistem de umbrire](/ro/umbrire) exterior **reduce cu 60–80% energia solară** înainte ca aceasta să atingă geamul. O perdea sau jaluzea interioară reduce cu maxim 20–30% — restul căldurii a intrat deja.
 
 ---
 
@@ -9734,9 +9734,9 @@ Pentru control fin al luminii și vederii, alege Raffstore: poți avea jaluzeaua
 
       en: `## Why Does the Shading System Matter?
 
-Modern windows with triple low-e glazing are exceptional in winter. In summer, that same performance can work against you: **low-e glass can amplify the greenhouse effect**, raising room temperature.
+Modern windows with [triple low-e glazing](/en/pvc-windows) are exceptional in winter. In summer, that same performance can work against you: **low-e glass can amplify the greenhouse effect**, raising room temperature.
 
-An exterior shading system **reduces solar energy by 60–80%** before it reaches the glass. An interior curtain or blind reduces it by a maximum of 20–30% — the rest of the heat has already entered.
+An exterior [shading system](/en/shading-systems) **reduces solar energy by 60–80%** before it reaches the glass. An interior curtain or blind reduces it by a maximum of 20–30% — the rest of the heat has already entered.
 
 ---
 
@@ -9860,7 +9860,7 @@ For fine control of light and view, choose Raffstore: you can have the blind low
 
       de: `## Warum ist das Beschattungssystem so wichtig?
 
-Moderne Fenster mit Dreifachverglasung low-e sind im Winter hervorragend. Im Sommer kann dieselbe Leistung gegen Sie arbeiten: **Low-e-Glas kann den Treibhauseffekt verstärken** und die Raumtemperatur erhöhen.
+Moderne Fenster mit [Dreifachverglasung](/de/kunststofffenster-pvc) low-e sind im Winter hervorragend. Im Sommer kann dieselbe Leistung gegen Sie arbeiten: **Low-e-Glas kann den Treibhauseffekt verstärken** und die Raumtemperatur erhöhen.
 
 Ein Außenbeschattungssystem **reduziert die Solarenergie um 60–80 %**, bevor sie das Glas erreicht. Ein innerer Vorhang oder eine Jalousie reduziert sie um maximal 20–30 % — der Rest der Wärme ist bereits eingedrungen.
 
@@ -9889,7 +9889,7 @@ Antrieb: manuell (Schnur/Stab), **elektrisch** (Motor 24V/230V), **automatisch**
 ### Raffstore-Vorteile
 
 ✅ **Granulare Lichtkontrolle** — von diffus bis vollständige Verdunkelung
-✅ **Lüftung mit Beschattung** — Fenster offen, Lamellen blockieren die Sonne
+✅ **Lüftung mit [Beschattung](/de/beschattungssysteme)** — Fenster offen, Lamellen blockieren die Sonne
 ✅ **Überlegene Ästhetik** — Premium-Architekturerscheinung
 ✅ **Windbeständigkeit** — Führungssysteme bis 120 km/h
 ✅ **Reduktion des Solarfaktors** — g-Koeffizient um bis zu 85 % reduziert
@@ -9986,7 +9986,7 @@ Für feine Steuerung von Licht und Sicht wählen Sie Raffstore: Sie können die 
 
       fr: `## Pourquoi le système d'ombrage est-il si important ?
 
-Les fenêtres modernes à triple vitrage low-e sont exceptionnelles en hiver. En été, ces mêmes performances peuvent se retourner contre vous : **le vitrage low-e peut amplifier l'effet de serre**, faisant monter la température de la pièce.
+Les fenêtres modernes à [triple vitrage low-e](/fr/menuiserie-pvc) sont exceptionnelles en hiver. En été, ces mêmes performances peuvent se retourner contre vous : **le vitrage low-e peut amplifier l'effet de serre**, faisant monter la température de la pièce.
 
 Un système d'ombrage extérieur **réduit l'énergie solaire de 60 à 80 %** avant qu'elle n'atteigne le vitrage. Un rideau ou un store intérieur la réduit de 20 à 30 % au maximum — le reste de la chaleur est déjà entré.
 
@@ -9996,7 +9996,7 @@ Un système d'ombrage extérieur **réduit l'énergie solaire de 60 à 80 %** av
 
 ### Qu'est-ce que c'est ?
 
-Le Raffstore est la catégorie de stores vénitiens extérieurs haute performance. **Les lames ont une courbure spéciale** et peuvent être orientées à n'importe quel angle — de la lumière maximale à l'obscurité totale.
+Le [Raffstore](/fr/systemes-occultation) est la catégorie de stores vénitiens extérieurs haute performance. **Les lames ont une courbure spéciale** et peuvent être orientées à n'importe quel angle — de la lumière maximale à l'obscurité totale.
 
 ### Comment ça fonctionne ?
 
@@ -10112,9 +10112,9 @@ Pour un contrôle fin de la lumière et de la vue, choisissez Raffstore : vous p
 
       es: `## ¿Por qué es tan importante el sistema de sombreado?
 
-Las ventanas modernas con triple acristalamiento low-e son excepcionales en invierno. En verano, esa misma prestación puede volverse en su contra: **el vidrio low-e puede amplificar el efecto invernadero**, elevando la temperatura del ambiente.
+Las ventanas modernas con triple acristalamiento [low-e](/es/carpinteria-pvc) son excepcionales en invierno. En verano, esa misma prestación puede volverse en su contra: **el vidrio low-e puede amplificar el efecto invernadero**, elevando la temperatura del ambiente.
 
-Un sistema de sombreado exterior **reduce la energía solar entre un 60 y un 80 %** antes de que alcance el vidrio. Una cortina o persiana interior la reduce como máximo entre un 20 y un 30 % — el resto del calor ya ha entrado.
+Un [sistema de sombreado](/es/sistemas-sombreado) exterior **reduce la energía solar entre un 60 y un 80 %** antes de que alcance el vidrio. Una cortina o persiana interior la reduce como máximo entre un 20 y un 30 % — el resto del calor ya ha entrado.
 
 ---
 
@@ -10238,7 +10238,7 @@ Para control fino de luz y vista, elige Raffstore: puedes tener la persiana baja
 
       it: `## Perché il sistema di ombreggiamento è così importante?
 
-Le finestre moderne con triplo vetro low-e sono eccezionali in inverno. In estate, quelle stesse prestazioni possono ritorcersi contro di voi: **il vetro low-e può amplificare l'effetto serra**, alzando la temperatura della stanza.
+Le finestre moderne con [triplo vetro low-e](/it/infissi-pvc) sono eccezionali in inverno. In estate, quelle stesse prestazioni possono ritorcersi contro di voi: **il vetro low-e può amplificare l'effetto serra**, alzando la temperatura della stanza.
 
 Un sistema di ombreggiamento esterno **riduce l'energia solare del 60–80%** prima che raggiunga il vetro. Una tenda o una veneziana interna la riduce al massimo del 20–30% — il resto del calore è già entrato.
 
@@ -10248,7 +10248,7 @@ Un sistema di ombreggiamento esterno **riduce l'energia solare del 60–80%** pr
 
 ### Cosa sono?
 
-Raffstore è la categoria di veneziane esterne ad alte prestazioni. **Le lamelle hanno una curvatura speciale** e possono essere orientate a qualsiasi angolo — dalla luce massima all'oscurità totale.
+[Raffstore](/it/sistemi-oscuramento) è la categoria di veneziane esterne ad alte prestazioni. **Le lamelle hanno una curvatura speciale** e possono essere orientate a qualsiasi angolo — dalla luce massima all'oscurità totale.
 
 ### Come funzionano?
 
@@ -10427,7 +10427,7 @@ Per un controllo fine di luce e vista, scegli Raffstore: puoi avere la tenda abb
     content: {
       ro: `## De ce cumpără românii din Germania tâmplărie din România?
 
-Răspunsul e simplu: **raportul calitate-preț**. O fereastră PVC Salamander produsă în România, cu același profil german, același geam Saint-Gobain, aceeași feronerie Roto sau Siegenia, costă cu **30–50% mai puțin** decât aceeași fereastră cumpărată direct din Germania sau Austria.
+Răspunsul e simplu: **raportul calitate-preț**. O [fereastră PVC Salamander](/ro/tamplarie-pvc) produsă în România, cu același profil german, același geam Saint-Gobain, aceeași feronerie Roto sau Siegenia, costă cu **30–50% mai puțin** decât aceeași fereastră cumpărată direct din Germania sau Austria.
 
 De ce? Costurile cu forța de muncă din România sunt semnificativ mai mici, fără niciun compromis la calitatea materialelor — toate importate din Germania, Austria și Grecia.
 
@@ -10452,7 +10452,7 @@ La Neofort BIZ, **exportul în Germania și toată Europa** face parte din activ
 Totul începe cu o **cerere de ofertă** trimisă pe email sau WhatsApp. Aveți nevoie de:
 - Schițe sau fotografii cu golurile existente
 - Dimensiunile aproximative ale fiecărei deschideri
-- Preferința de profil: PVC Salamander sau aluminiu Alumil
+- Preferința de profil: PVC Salamander sau [aluminiu Alumil](/ro/tamplarie-aluminiu)
 - Tipul comenzii: livrare simplă / livrare + montaj / coletare din depozit
 
 Răspundem în maxim **48 de ore lucrătoare** cu ofertă orientativă.
@@ -10567,7 +10567,7 @@ Exportul în Germania și toată Europa face parte din activitatea curentă Neof
 
       en: `## Why Do Romanians in Germany Order Windows from Romania?
 
-The answer is simple: **value for money**. A Salamander PVC window manufactured in Romania, with the same German profile, the same Saint-Gobain glass, the same Roto or Siegenia hardware, costs **30–50% less** than the same window bought directly in Germany or Austria.
+The answer is simple: **value for money**. A [Salamander PVC window](/en/pvc-windows) manufactured in Romania, with the same German profile, the same Saint-Gobain glass, the same Roto or Siegenia hardware, costs **30–50% less** than the same window bought directly in Germany or Austria.
 
 Why? Labour costs in Romania are significantly lower, without any compromise on material quality — all imported from Germany, Austria and Greece.
 
@@ -10592,7 +10592,7 @@ At Neofort BIZ, **export to Germany and all of Europe** has been part of our reg
 Everything starts with a **quote request** sent by email or WhatsApp. You need:
 - Sketches or photographs of the existing openings
 - Approximate dimensions of each opening
-- Profile preference: Salamander PVC or Alumil aluminium
+- Profile preference: Salamander PVC or [Alumil aluminium](/en/aluminium-windows)
 - Order type: simple delivery / delivery + installation / collection from depot
 
 We respond within **48 working hours** with an indicative quote.
@@ -10707,7 +10707,7 @@ Exporting to Germany and across Europe has been part of Neofort BIZ's regular ac
 
       de: `## Warum bestellen Rumänen in Deutschland Fenster aus Rumänien?
 
-Die Antwort ist einfach: **Preis-Leistungs-Verhältnis**. Ein in Rumänien hergestelltes Salamander PVC-Fenster, mit demselben deutschen Profil, demselben Saint-Gobain-Glas, denselben Roto- oder Siegenia-Beschlägen, kostet **30–50 % weniger** als dasselbe Fenster, das direkt in Deutschland oder Österreich gekauft wird.
+Die Antwort ist einfach: **Preis-Leistungs-Verhältnis**. Ein in Rumänien hergestelltes [Salamander PVC-Fenster](/de/kunststofffenster-pvc), mit demselben deutschen Profil, demselben Saint-Gobain-Glas, denselben Roto- oder Siegenia-Beschlägen, kostet **30–50 % weniger** als dasselbe Fenster, das direkt in Deutschland oder Österreich gekauft wird.
 
 Warum? Die Arbeitskosten in Rumänien sind erheblich geringer, ohne jeglichen Kompromiss bei der Materialqualität — alles aus Deutschland, Österreich und Griechenland importiert.
 
@@ -10732,7 +10732,7 @@ Bei Neofort BIZ ist **der Export nach Deutschland und ganz Europa** seit über 1
 Alles beginnt mit einer **Angebotsanfrage** per E-Mail oder WhatsApp. Sie benötigen:
 - Skizzen oder Fotos der vorhandenen Öffnungen
 - Ungefähre Maße jeder Öffnung
-- Profilpräferenz: Salamander PVC oder Alumil Aluminium
+- Profilpräferenz: Salamander PVC oder [Alumil](/de/aluminiumfenster) Aluminium
 - Auftragstyp: einfache Lieferung / Lieferung + Montage / Abholung aus dem Lager
 
 Wir antworten innerhalb von **48 Arbeitsstunden** mit einem Richtangebot.
@@ -10847,7 +10847,7 @@ Der Export nach Deutschland und ganz Europa ist seit über 10 Jahren Teil der re
 
       fr: `## Pourquoi les Roumains d'Allemagne commandent-ils des menuiseries de Roumanie ?
 
-La réponse est simple : le **rapport qualité-prix**. Une fenêtre PVC Salamander fabriquée en Roumanie, avec le même profil allemand, le même vitrage Saint-Gobain, la même quincaillerie Roto ou Siegenia, coûte **30 à 50 % moins cher** que la même fenêtre achetée directement en Allemagne ou en Autriche.
+La réponse est simple : le **rapport qualité-prix**. Une [fenêtre PVC Salamander](/fr/menuiserie-pvc) fabriquée en Roumanie, avec le même profil allemand, le même vitrage Saint-Gobain, la même quincaillerie Roto ou Siegenia, coûte **30 à 50 % moins cher** que la même fenêtre achetée directement en Allemagne ou en Autriche.
 
 Pourquoi ? Les coûts de main-d'œuvre en Roumanie sont nettement inférieurs, sans aucun compromis sur la qualité des matériaux — tous importés d'Allemagne, d'Autriche et de Grèce.
 
@@ -10872,7 +10872,7 @@ Chez Neofort BIZ, **l'export vers l'Allemagne et toute l'Europe** fait partie de
 Tout commence par une **demande de devis** envoyée par e-mail ou WhatsApp. Vous avez besoin de :
 - Croquis ou photos des baies existantes
 - Dimensions approximatives de chaque ouverture
-- Préférence de profil : PVC Salamander ou aluminium Alumil
+- Préférence de profil : PVC Salamander ou [aluminium Alumil](/fr/menuiserie-aluminium)
 - Type de commande : livraison simple / livraison + pose / enlèvement en dépôt
 
 Nous répondons dans **48 heures ouvrables** avec un devis indicatif.
@@ -10987,7 +10987,7 @@ L'export vers l'Allemagne et toute l'Europe fait partie de l'activité courante 
 
       es: `## ¿Por qué los rumanos de Alemania piden carpintería de Rumanía?
 
-La respuesta es sencilla: la **relación calidad-precio**. Una ventana PVC Salamander fabricada en Rumanía, con el mismo perfil alemán, el mismo vidrio Saint-Gobain, la misma herrería Roto o Siegenia, cuesta **un 30–50% menos** que la misma ventana comprada directamente en Alemania o Austria.
+La respuesta es sencilla: la **relación calidad-precio**. Una [ventana PVC Salamander](/es/carpinteria-pvc) fabricada en Rumanía, con el mismo perfil alemán, el mismo vidrio Saint-Gobain, la misma herrería Roto o Siegenia, cuesta **un 30–50% menos** que la misma ventana comprada directamente en Alemania o Austria.
 
 ¿Por qué? Los costes laborales en Rumanía son significativamente más bajos, sin ningún compromiso en la calidad de los materiales — todos importados de Alemania, Austria y Grecia.
 
@@ -11012,7 +11012,7 @@ En Neofort BIZ, **la exportación a Alemania y toda Europa** forma parte de nues
 Todo comienza con una **solicitud de presupuesto** enviada por correo electrónico o WhatsApp. Necesita:
 - Bocetos o fotografías de los huecos existentes
 - Dimensiones aproximadas de cada apertura
-- Preferencia de perfil: PVC Salamander o aluminio Alumil
+- Preferencia de perfil: PVC Salamander o [aluminio Alumil](/es/carpinteria-aluminio)
 - Tipo de pedido: entrega simple / entrega + instalación / recogida en almacén
 
 Respondemos en un máximo de **48 horas laborables** con un presupuesto orientativo.
@@ -11127,7 +11127,7 @@ La exportación a Alemania y toda Europa forma parte de la actividad habitual de
 
       it: `## Perché i rumeni in Germania ordinano serramenti dalla Romania?
 
-La risposta è semplice: il **rapporto qualità-prezzo**. Una finestra PVC Salamander prodotta in Romania, con lo stesso profilo tedesco, lo stesso vetro Saint-Gobain, la stessa ferramenta Roto o Siegenia, costa **il 30–50% in meno** rispetto alla stessa finestra acquistata direttamente in Germania o Austria.
+La risposta è semplice: il **rapporto qualità-prezzo**. Una [finestra PVC Salamander](/it/infissi-pvc) prodotta in Romania, con lo stesso profilo tedesco, lo stesso vetro Saint-Gobain, la stessa ferramenta Roto o Siegenia, costa **il 30–50% in meno** rispetto alla stessa finestra acquistata direttamente in Germania o Austria.
 
 Perché? I costi della manodopera in Romania sono significativamente più bassi, senza alcun compromesso sulla qualità dei materiali — tutti importati da Germania, Austria e Grecia.
 
@@ -11152,7 +11152,7 @@ Da Neofort BIZ, **l'esportazione in Germania e in tutta Europa** fa parte della 
 Tutto inizia con una **richiesta di preventivo** inviata per e-mail o WhatsApp. Avete bisogno di:
 - Schizzi o fotografie delle aperture esistenti
 - Dimensioni approssimative di ogni apertura
-- Preferenza di profilo: PVC Salamander o alluminio Alumil
+- Preferenza di profilo: PVC Salamander o [alluminio Alumil](/it/infissi-alluminio)
 - Tipo di ordine: semplice consegna / consegna + installazione / ritiro dal deposito
 
 Rispondiamo entro **48 ore lavorative** con un preventivo indicativo.
@@ -11330,14 +11330,14 @@ L'esportazione in Germania e in tutta Europa fa parte dell'attività corrente di
     content: {
       ro: `## Ce este bariera termică și de ce contează la aluminiu
 
-Aluminiul pur conduce căldura de **~200 de ori mai bine decât PVC-ul**. Fără nicio intervenție, un profil de aluminiu ar deveni un radiator de frig iarna și un colector de căldură vara — exact opusul a ce vrei de la o fereastră modernă.
+Aluminiul pur conduce căldura de **~200 de ori mai bine decât PVC-ul**. Fără nicio intervenție, un [profil de aluminiu](/ro/tamplarie-aluminiu) ar deveni un radiator de frig iarna și un colector de căldură vara — exact opusul a ce vrei de la o fereastră modernă.
 
 **Bariera termică** rezolvă această problemă fundamental. Este o inserție de **poliamidă 6.6 armat cu fibră de sticlă**, turnată sau presată între cele două jumătăți ale profilului de aluminiu. Aceasta:
 
 - Oprește transferul de temperatură dintre interior și exterior
 - Elimină condensul pe tocul ferestrei
 - Reduce pierderile termice ale clădirii
-- Permite atingerea certificărilor **nZEB** și casă pasivă
+- Permite atingerea certificărilor **[nZEB](/ro/sisteme-nzeb)** și casă pasivă
 
 Fără barieră termică, aluminiul este adecvat **doar la interior** — compartimentări, showroom-uri, garaje — unde diferența de temperatură dintre cele două fețe ale profilului nu este semnificativă.
 
@@ -11465,14 +11465,14 @@ Nu este recomandat. Fără barieră termică, aluminiul este adecvat doar la int
 
       en: `## What is a thermal break and why does it matter for aluminium
 
-Pure aluminium conducts heat **~200 times better than PVC**. Without any treatment, an aluminium profile would become a cold radiator in winter and a heat collector in summer — the exact opposite of what you want from a modern window.
+Pure aluminium conducts heat **~200 times better than PVC**. Without any treatment, an [aluminium profile](/en/aluminium-windows) would become a cold radiator in winter and a heat collector in summer — the exact opposite of what you want from a modern window.
 
 **The thermal break** solves this problem fundamentally. It is a **6.6 polyamide insert reinforced with glass fibre**, cast or pressed between the two halves of the aluminium profile. This:
 
 - Stops heat transfer between inside and outside
 - Eliminates condensation on the window frame
 - Reduces building heat losses
-- Enables **nZEB** and passive house certifications
+- Enables **[nZEB](/en/nzeb-systems)** and passive house certifications
 
 Without a thermal break, aluminium is suitable **only indoors** — partitions, showrooms, garages — where the temperature difference between the two faces of the profile is not significant.
 
@@ -11587,14 +11587,14 @@ It is not recommended. Without a thermal break, aluminium is suitable only indoo
 
       de: `## Was ist eine Wärmedämmung und warum ist sie bei Aluminium wichtig
 
-Reines Aluminium leitet Wärme **~200 Mal besser als PVC**. Ohne jegliche Behandlung würde ein Aluminiumprofil im Winter zu einem Kälteheizkörper und im Sommer zu einem Wärmekollektor — genau das Gegenteil von dem, was Sie von einem modernen Fenster erwarten.
+Reines Aluminium leitet Wärme **~200 Mal besser als PVC**. Ohne jegliche Behandlung würde ein [Aluminiumprofil](/de/aluminiumfenster) im Winter zu einem Kälteheizkörper und im Sommer zu einem Wärmekollektor — genau das Gegenteil von dem, was Sie von einem modernen Fenster erwarten.
 
 **Die Wärmedämmung** löst dieses Problem grundlegend. Es handelt sich um einen **6.6-Polyamid-Einsatz verstärkt mit Glasfaser**, der zwischen die zwei Hälften des Aluminiumprofils gegossen oder gepresst wird. Dieser:
 
 - Stoppt den Wärmetransfer zwischen Innen- und Außenbereich
 - Beseitigt Kondensation am Fensterrahmen
 - Reduziert die Wärmeverluste des Gebäudes
-- Ermöglicht **nZEB**- und Passivhaus-Zertifizierungen
+- Ermöglicht **[nZEB](/de/nzeb-systeme)**- und Passivhaus-Zertifizierungen
 
 Ohne Wärmedämmung ist Aluminium **nur für den Innenbereich** geeignet — Trennwände, Showrooms, Garagen — wo der Temperaturunterschied zwischen den zwei Seiten des Profils nicht signifikant ist.
 
@@ -11686,14 +11686,14 @@ Nicht empfohlen. Ohne thermische Trennung ist Aluminium nur für innen geeignet 
 
       fr: `## Qu'est-ce que la rupture thermique et pourquoi est-elle importante pour l'aluminium
 
-L'aluminium pur conduit la chaleur **~200 fois mieux que le PVC**. Sans traitement, un profil aluminium deviendrait un radiateur de froid en hiver et un collecteur de chaleur en été — exactement l'inverse de ce que vous attendez d'une fenêtre moderne.
+L'[aluminium](/fr/menuiserie-aluminium) pur conduit la chaleur **~200 fois mieux que le PVC**. Sans traitement, un profil aluminium deviendrait un radiateur de froid en hiver et un collecteur de chaleur en été — exactement l'inverse de ce que vous attendez d'une fenêtre moderne.
 
 **La rupture thermique** résout ce problème fondamentalement. Il s'agit d'un **insert en polyamide 6.6 renforcé de fibre de verre**, coulé ou pressé entre les deux moitiés du profil aluminium. Celui-ci :
 
 - Arrête le transfert de chaleur entre l'intérieur et l'extérieur
 - Élimine la condensation sur le cadre de la fenêtre
 - Réduit les pertes thermiques du bâtiment
-- Permet les certifications **nZEB** et maison passive
+- Permet les certifications **[nZEB](/fr/systemes-nzeb)** et maison passive
 
 Sans rupture thermique, l'aluminium ne convient **qu'à l'intérieur** — cloisons, showrooms, garages — où la différence de température entre les deux faces du profil n'est pas significative.
 
@@ -11760,14 +11760,14 @@ Ce n'est pas recommandé. Sans rupture thermique, l'aluminium convient seulement
 
       es: `## Qué es el rotura de puente térmico y por qué importa en el aluminio
 
-El aluminio puro conduce el calor **~200 veces mejor que el PVC**. Sin tratamiento, un perfil de aluminio se convertiría en un radiador de frío en invierno y un colector de calor en verano — exactamente lo contrario de lo que quieres de una ventana moderna.
+El aluminio puro conduce el calor **~200 veces mejor que el PVC**. Sin tratamiento, un [perfil de aluminio](/es/carpinteria-aluminio) se convertiría en un radiador de frío en invierno y un colector de calor en verano — exactamente lo contrario de lo que quieres de una ventana moderna.
 
 **El rotura de puente térmico** resuelve este problema fundamentalmente. Es un **inserto de poliamida 6.6 reforzada con fibra de vidrio**, fundido o prensado entre las dos mitades del perfil de aluminio. Este:
 
 - Detiene la transferencia de calor entre interior y exterior
 - Elimina la condensación en el marco de la ventana
 - Reduce las pérdidas térmicas del edificio
-- Permite las certificaciones **nZEB** y casa pasiva
+- Permite las certificaciones **[nZEB](/es/sistemas-nzeb)** y casa pasiva
 
 Sin rotura de puente térmico, el aluminio es adecuado **solo para interiores** — tabiques, showrooms, garajes.
 
@@ -11834,14 +11834,14 @@ No se recomienda. Sin rotura térmica, el aluminio solo es apto para interior �
 
       it: `## Cos'è il taglio termico e perché è importante per l'alluminio
 
-L'alluminio puro conduce il calore **~200 volte meglio del PVC**. Senza trattamento, un profilo in alluminio diventerebbe un radiatore di freddo in inverno e un collettore di calore in estate — esattamente l'opposto di ciò che si vuole da una finestra moderna.
+L'alluminio puro conduce il calore **~200 volte meglio del PVC**. Senza trattamento, un [profilo in alluminio](/it/infissi-alluminio) diventerebbe un radiatore di freddo in inverno e un collettore di calore in estate — esattamente l'opposto di ciò che si vuole da una finestra moderna.
 
 **Il taglio termico** risolve questo problema fondamentalmente. È un **inserto in poliammide 6.6 rinforzata con fibra di vetro**, fuso o pressato tra le due metà del profilo in alluminio. Questo:
 
 - Ferma il trasferimento di calore tra interno ed esterno
 - Elimina la condensa sul telaio della finestra
 - Riduce le perdite termiche dell'edificio
-- Consente le certificazioni **nZEB** e casa passiva
+- Consente le certificazioni **[nZEB](/it/sistemi-nzeb)** e casa passiva
 
 Senza taglio termico, l'alluminio è adatto **solo per interni** — tramezzi, showroom, garage.
 
@@ -11972,7 +11972,7 @@ Non è consigliato. Senza taglio termico, l'alluminio è adatto solo all'interno
     content: {
       ro: `## Ce este un perete cortină
 
-Peretele cortină este o **fațadă exterioară autoportantă**, realizată din profile de aluminiu și sticlă, care:
+Peretele cortină este o **fațadă exterioară autoportantă**, realizată din [profile de aluminiu](/ro/tamplarie-aluminiu) și sticlă, care:
 
 - **Nu preia nicio sarcină structurală** a clădirii — greutatea proprie este transferată la planșeele sau stâlpii clădirii
 - Protejează interiorul împotriva precipitațiilor, vântului și variațiilor termice
@@ -11994,7 +11994,7 @@ Profilul de aluminiu este **vizibil din exterior**, fixând geamul cu capace pre
 - Sticlă termopan dublu sau triplu, grosimi 24–48 mm
 - Rezistență la vânt clasa C3
 - Impermeabilitate clasa E1050
-- **Preț: 800–1.200 lei/m²** (inclusiv montaj)
+- **Preț: 800–1.200 lei/m²** (inclusiv [montaj](/ro/servicii))
 
 **Recomandat pentru:** clădiri de birouri, spații comerciale, showroom-uri, hale industriale cu zonă de birou.
 
@@ -12130,7 +12130,7 @@ Peretele cortină standard, cel mai accesibil ca preț, are profilul vizibil cu 
 
       en: `## What is a curtain wall
 
-A curtain wall is a **self-supporting exterior facade**, made of aluminium profiles and glass, that:
+A curtain wall is a **self-supporting exterior facade**, made of [aluminium profiles](/en/aluminium-windows) and glass, that:
 
 - **Bears no structural loads** of the building — its own weight is transferred to the building's slabs or columns
 - Protects the interior against precipitation, wind and thermal variations
@@ -12152,7 +12152,7 @@ The aluminium profile is **visible from the outside**, fixing the glass with pre
 - Double or triple glazing, 24–48 mm thickness
 - Wind resistance class C3
 - Watertightness class E1050
-- **Price: €160–240/m²** (including installation)
+- **Price: €160–240/m²** (including [installation](/en/services))
 
 **Recommended for:** office buildings, commercial spaces, showrooms, industrial halls with office area.
 
@@ -12244,7 +12244,7 @@ The standard curtain wall, the most affordable, has a visible profile with press
 
       de: `## Was ist eine Vorhangfassade
 
-Eine Vorhangfassade ist eine **selbsttragende Außenfassade** aus Aluminiumprofilen und Glas, die:
+Eine Vorhangfassade ist eine **selbsttragende Außenfassade** aus [Aluminiumprofile](/de/aluminiumfenster)n und Glas, die:
 
 - **Keine Strukturlasten** des Gebäudes trägt — das Eigengewicht wird auf die Decken oder Stützen des Gebäudes übertragen
 - Das Innere vor Niederschlag, Wind und Temperaturschwankungen schützt
@@ -12261,7 +12261,7 @@ Das Aluminiumprofil ist **von außen sichtbar** und fixiert das Glas mit Andruck
 
 - Windwiderstand Klasse C3
 - Wasserdichtigkeit Klasse E1050
-- **Preis: 160–240 €/m²** (inkl. Montage)
+- **Preis: 160–240 €/m²** (inkl. [Montage](/de/dienstleistungen))
 
 ### 2. Halb-strukturelle Vorhangfassade
 
@@ -12326,7 +12326,7 @@ Die Standard-Vorhangfassade, die günstigste, hat ein sichtbares Profil mit Pres
 
       fr: `## Qu'est-ce qu'un mur rideau
 
-Un mur rideau est une **façade extérieure autoportante** en aluminium et verre, qui ne reprend aucune charge structurale du bâtiment.
+Un mur rideau est une **façade extérieure autoportante** en [aluminium](/fr/menuiserie-aluminium) et verre, qui ne reprend aucune charge structurale du bâtiment.
 
 ---
 
@@ -12336,7 +12336,7 @@ Un mur rideau est une **façade extérieure autoportante** en aluminium et verre
 
 Profile aluminium **visible de l'extérieur**, fixant le vitrage avec des couvre-joints. Le plus courant et le plus abordable.
 
-- **Prix : 160–240 €/m²** (montage inclus)
+- **Prix : 160–240 €/m²** ([montage](/fr/services) inclus)
 
 ### 2. Mur rideau semi-structurel
 
@@ -12400,7 +12400,7 @@ Le mur-rideau standard, le plus abordable, a un profilé visible avec capots pre
 
       es: `## Qué es un muro cortina
 
-Un muro cortina es una **fachada exterior autoportante** de aluminio y vidrio que no soporta cargas estructurales del edificio.
+Un muro cortina es una **fachada exterior autoportante** de [aluminio](/es/carpinteria-aluminio) y vidrio que no soporta cargas estructurales del edificio.
 
 ---
 
@@ -12443,7 +12443,7 @@ Perfiles visibles **solo en una dirección**, otros lados pegados con silicona e
 1. **Consulta y mediciones** (1–2 días)
 2. **Diseño técnico** (3–7 días)
 3. **Producción** (15–30 días)
-4. **Transporte e instalación** (3–10 días)
+4. **Transporte e [instalación](/es/servicios)** (3–10 días)
 5. **Sellado y pruebas** (1–2 días)
 
 ---
@@ -12474,7 +12474,7 @@ El muro cortina estándar, el más asequible, tiene perfil visible con tapas pre
 
       it: `## Cos'è una parete cortina
 
-Una parete cortina è una **facciata esterna autoportante** in alluminio e vetro che non sopporta carichi strutturali dell'edificio.
+Una parete cortina è una **facciata esterna autoportante** in [alluminio](/it/infissi-alluminio) e vetro che non sopporta carichi strutturali dell'edificio.
 
 ---
 
@@ -12484,7 +12484,7 @@ Una parete cortina è una **facciata esterna autoportante** in alluminio e vetro
 
 Profilo in alluminio **visibile dall'esterno**, che fissa il vetro con pressori.
 
-- **Prezzo: 160–240 €/m²** (installazione inclusa)
+- **Prezzo: 160–240 €/m²** ([installazione](/it/servizi) inclusa)
 
 ### 2. Parete cortina semi-strutturale
 
@@ -12614,7 +12614,7 @@ La facciata continua standard, la più accessibile, ha profilo visibile con copr
 
 La prima vedere, Zipscreen pare un rulou exterior obișnuit. Diferența fundamentală e invizibilă până când bate vântul.
 
-Un rulou exterior clasic — chiar și din aluminiu — are marginile materialului libere în ghidaje. La vânt, materialul se bombează, fluturează și poate ieși din șine. **Zipscreen rezolvă această problemă prin fermoarul ZIP**: marginile materialului textil sunt prinse mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar de jachetă. Materialul nu poate ieși din ghidaje indiferent de intensitatea vântului — sistemul este testat și certificat **Clasa 6 Beaufort, până la 88 km/h**.
+Un rulou exterior clasic — chiar și din [aluminiu](/ro/tamplarie-aluminiu) — are marginile materialului libere în ghidaje. La vânt, materialul se bombează, fluturează și poate ieși din șine. **Zipscreen rezolvă această problemă prin fermoarul ZIP**: marginile materialului textil sunt prinse mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar de jachetă. Materialul nu poate ieși din ghidaje indiferent de intensitatea vântului — sistemul este testat și certificat **Clasa 6 Beaufort, până la 88 km/h**.
 
 Aceasta este diferența care justifică prețul superior față de un rulou clasic și care face din Zipscreen singura soluție textilă viabilă pentru terase deschise, pergole și fațade expuse.
 
@@ -12665,7 +12665,7 @@ Ideal pentru: terase rezidențiale unde se vrea umbra fără izolare, restaurant
 
 ## Zipscreen vs Jaluzele Raffstore — când alegi ce
 
-Raffstore (jaluzele venețiene exterioare) sunt sistemul de umbrire cu cel mai bun control al luminii — lamelele se orientează la orice unghi 0°–90°. Dar au un cost suplimentar și nu sunt ideale pentru suprafețe mari sau terase deschise.
+Raffstore (jaluzele venețiene exterioare) sunt [sistemul de umbrire](/ro/umbrire) cu cel mai bun control al luminii — lamelele se orientează la orice unghi 0°–90°. Dar au un cost suplimentar și nu sunt ideale pentru suprafețe mari sau terase deschise.
 
 | Criteriu | Zipscreen | Raffstore |
 |---|---|---|
@@ -12749,9 +12749,9 @@ Da. Datorită fermoarului ZIP care fixează marginile materialului în ghidaje, 
 
       en: `## What is Zipscreen and why is it different from classic roller shutters
 
-At first glance, Zipscreen looks like an ordinary exterior roller. The fundamental difference is invisible until the wind blows.
+At first glance, [Zipscreen](/en/shading-systems) looks like an ordinary exterior roller. The fundamental difference is invisible until the wind blows.
 
-A classic exterior roller shutter — even aluminium — has the fabric edges free in the guides. In wind, the fabric bulges, flutters and can exit the rails. **Zipscreen solves this with the ZIP fastener**: the fabric edges are mechanically locked in a U-shaped aluminium profile, exactly like a jacket zipper. The fabric cannot exit the guides regardless of wind intensity — the system is tested and certified **Class 6 Beaufort, up to 88 km/h**.
+A classic exterior roller shutter — even [aluminium](/en/aluminium-windows) — has the fabric edges free in the guides. In wind, the fabric bulges, flutters and can exit the rails. **Zipscreen solves this with the ZIP fastener**: the fabric edges are mechanically locked in a U-shaped aluminium profile, exactly like a jacket zipper. The fabric cannot exit the guides regardless of wind intensity — the system is tested and certified **Class 6 Beaufort, up to 88 km/h**.
 
 This is the difference that justifies the higher price versus a classic roller and makes Zipscreen the only viable textile solution for open terraces, pergolas and exposed facades.
 
@@ -12833,9 +12833,9 @@ Yes. Thanks to the ZIP that locks the fabric edges in the guides, Zipscreen is t
 
       de: `## Was ist Zipscreen und warum ist es anders als klassische Rollläden
 
-Auf den ersten Blick sieht Zipscreen wie ein gewöhnlicher Außenrollladen aus. Der grundlegende Unterschied ist unsichtbar, bis der Wind bläst.
+Auf den ersten Blick sieht [Zipscreen](/de/beschattungssysteme) wie ein gewöhnlicher Außenrollladen aus. Der grundlegende Unterschied ist unsichtbar, bis der Wind bläst.
 
-Ein klassischer Außenrollladen — auch aus Aluminium — hat die Gewebekanten frei in den Führungen. Bei Wind wölbt sich das Gewebe, flattert und kann aus den Schienen austreten. **Zipscreen löst das mit dem ZIP-Reißverschluss**: Die Gewebekanten sind mechanisch in einem U-förmigen Aluminiumprofil eingerastet, genau wie ein Jacken-Reißverschluss. Das Gewebe kann die Führungen nicht verlassen, unabhängig von der Windintensität — das System ist getestet und zertifiziert nach **Klasse 6 Beaufort, bis 88 km/h**.
+Ein klassischer Außenrollladen — auch aus [Aluminium](/de/aluminiumfenster) — hat die Gewebekanten frei in den Führungen. Bei Wind wölbt sich das Gewebe, flattert und kann aus den Schienen austreten. **Zipscreen löst das mit dem ZIP-Reißverschluss**: Die Gewebekanten sind mechanisch in einem U-förmigen Aluminiumprofil eingerastet, genau wie ein Jacken-Reißverschluss. Das Gewebe kann die Führungen nicht verlassen, unabhängig von der Windintensität — das System ist getestet und zertifiziert nach **Klasse 6 Beaufort, bis 88 km/h**.
 
 ---
 
@@ -12901,9 +12901,9 @@ Ja. Dank des ZIP, der die Stoffkanten in den Führungen verriegelt, ist Zipscree
 
       fr: `## Qu'est-ce que Zipscreen et pourquoi est-il différent des stores classiques
 
-Au premier regard, Zipscreen ressemble à un store extérieur ordinaire. La différence fondamentale est invisible jusqu'à ce que le vent souffle.
+Au premier regard, [Zipscreen](/fr/systemes-occultation) ressemble à un store extérieur ordinaire. La différence fondamentale est invisible jusqu'à ce que le vent souffle.
 
-Un store extérieur classique — même en aluminium — a les bords du tissu libres dans les glissières. Par vent, le tissu se bombe, claque et peut sortir des rails. **Zipscreen résout cela avec la fermeture ZIP** : les bords du tissu sont mécaniquement bloqués dans un profilé aluminium en U, exactement comme une fermeture éclair de veste. Le tissu ne peut pas quitter les glissières quelle que soit l'intensité du vent — système testé et certifié **Classe 6 Beaufort, jusqu'à 88 km/h**.
+Un store extérieur classique — même en [aluminium](/fr/menuiserie-aluminium) — a les bords du tissu libres dans les glissières. Par vent, le tissu se bombe, claque et peut sortir des rails. **Zipscreen résout cela avec la fermeture ZIP** : les bords du tissu sont mécaniquement bloqués dans un profilé aluminium en U, exactement comme une fermeture éclair de veste. Le tissu ne peut pas quitter les glissières quelle que soit l'intensité du vent — système testé et certifié **Classe 6 Beaufort, jusqu'à 88 km/h**.
 
 ---
 
@@ -12967,9 +12967,9 @@ Oui. Grâce à la fermeture ZIP qui verrouille les bords du tissu dans les guide
 
       es: `## Qué es Zipscreen y por qué es diferente de las persianas clásicas
 
-A primera vista, Zipscreen parece una persiana exterior ordinaria. La diferencia fundamental es invisible hasta que sopla el viento.
+A primera vista, [Zipscreen](/es/sistemas-sombreado) parece una persiana exterior ordinaria. La diferencia fundamental es invisible hasta que sopla el viento.
 
-Una persiana exterior clásica — incluso de aluminio — tiene los bordes del tejido libres en las guías. Con viento, el tejido se abomba, aletea y puede salir de los rieles. **Zipscreen resuelve esto con el cierre ZIP**: los bordes del tejido están mecánicamente bloqueados en un perfil de aluminio en U, exactamente como la cremallera de una chaqueta. El tejido no puede salir de las guías independientemente de la intensidad del viento — sistema probado y certificado **Clase 6 Beaufort, hasta 88 km/h**.
+Una persiana exterior clásica — incluso de [aluminio](/es/carpinteria-aluminio) — tiene los bordes del tejido libres en las guías. Con viento, el tejido se abomba, aletea y puede salir de los rieles. **Zipscreen resuelve esto con el cierre ZIP**: los bordes del tejido están mecánicamente bloqueados en un perfil de aluminio en U, exactamente como la cremallera de una chaqueta. El tejido no puede salir de las guías independientemente de la intensidad del viento — sistema probado y certificado **Clase 6 Beaufort, hasta 88 km/h**.
 
 ---
 
@@ -13031,9 +13031,9 @@ Sí. Gracias a la cremallera ZIP que bloquea los bordes del tejido en las guías
 
       it: `## Cos'è Zipscreen e perché è diverso dalle tapparelle classiche
 
-A prima vista, Zipscreen sembra una tapparella esterna ordinaria. La differenza fondamentale è invisibile finché non soffia il vento.
+A prima vista, [Zipscreen](/it/sistemi-oscuramento) sembra una tapparella esterna ordinaria. La differenza fondamentale è invisibile finché non soffia il vento.
 
-Una tapparella esterna classica — anche in alluminio — ha i bordi del tessuto liberi nelle guide. Con il vento, il tessuto si gonfia, svolazza e può uscire dalle rotaie. **Zipscreen risolve questo con la chiusura ZIP**: i bordi del tessuto sono meccanicamente bloccati in un profilo in alluminio a U, esattamente come la zip di una giacca. Il tessuto non può uscire dalle guide indipendentemente dall'intensità del vento — sistema testato e certificato **Classe 6 Beaufort, fino a 88 km/h**.
+Una tapparella esterna classica — anche in [alluminio](/it/infissi-alluminio) — ha i bordi del tessuto liberi nelle guide. Con il vento, il tessuto si gonfia, svolazza e può uscire dalle rotaie. **Zipscreen risolve questo con la chiusura ZIP**: i bordi del tessuto sono meccanicamente bloccati in un profilo in alluminio a U, esattamente come la zip di una giacca. Il tessuto non può uscire dalle guide indipendentemente dall'intensità del vento — sistema testato e certificato **Classe 6 Beaufort, fino a 88 km/h**.
 
 ---
 
@@ -13159,7 +13159,7 @@ Sì. Grazie alla cerniera ZIP che blocca i bordi del tessuto nelle guide, lo Zip
     content: {
       ro: `## Prețuri termopane Salamander — București 2026
 
-GreenEvolution 76 și BluEvolution 92 sunt cele două game principale Salamander disponibile la Neofort BIZ. Iată prețurile complete pentru 2026.
+[GreenEvolution 76](/ro/tamplarie-pvc) și BluEvolution 92 sunt cele două game principale Salamander disponibile la Neofort BIZ. Iată prețurile complete pentru 2026.
 
 ---
 
@@ -13175,7 +13175,7 @@ GreenEvolution 76 și BluEvolution 92 sunt cele două game principale Salamander
 | Ușă balcon 80×210 cm, geam dublu | 450–580 EUR |
 | **Preț per mp montat** | **150–220 EUR/mp** |
 
-> ⚠️ **Notă importantă privind prețurile:** Toate prețurile prezentate în acest articol sunt **orientative** și reflectă condițiile de piață din martie 2026. Prețurile materialelor, energiei și manoperei sunt în continuă schimbare și pot crește sau scădea. Solicitați întotdeauna o ofertă actualizată înainte de a lua o decizie de achiziție.
+> ⚠️ **Notă importantă privind prețurile:** Toate prețurile prezentate în acest articol sunt **orientative** și reflectă condițiile de piață din martie 2026. Prețurile materialelor, energiei și manoperei sunt în continuă schimbare și pot crește sau scădea. Solicitați întotdeauna o [ofertă actualizată](/ro/contact) înainte de a lua o decizie de achiziție.
 
 
 ### BluEvolution 92 — profil 6 camere, Uw 0,70 W/m²K (nZEB)
@@ -13268,7 +13268,7 @@ BluEvolution 92, cu 6 camere și Uw 0,70 W/m²K, este profilul recomandat pentru
 | Tilt-and-turn 100×120 cm, triple Low-E | 390–510 EUR |
 | **Price per m² installed** | **150–220 EUR/m²** |
 
-> ⚠️ **Important note on prices:** All prices in this article are **indicative** and reflect market conditions as of March 2026. Material, energy and labour costs are constantly changing and may increase or decrease. Always request an updated quote before making a purchasing decision.
+> ⚠️ **Important note on prices:** All prices in this article are **indicative** and reflect market conditions as of March 2026. Material, energy and labour costs are constantly changing and may increase or decrease. Always request an [updated quote](/en/contact) before making a purchasing decision.
 
 
 ### BluEvolution 92 — Uw 0.70 W/m²K (nZEB)
@@ -13283,7 +13283,7 @@ BluEvolution 92, cu 6 camere și Uw 0,70 W/m²K, este profilul recomandat pentru
 
 ## 6 factors that influence the final price
 
-1. Profile choice — BluEvolution 92 costs 25–40% more than GreenEvolution 76
+1. Profile choice — BluEvolution 92 costs 25–40% more than [GreenEvolution 76](/en/pvc-windows)
 2. Glazing type — triple Low-E adds 40–80 EUR/m²
 3. Dimensions — 2-sash windows cost 15–25% more
 4. Colour — 7 standard colours included, RAL specials +8–15%
@@ -13322,7 +13322,7 @@ BluEvolution 92, with 6 chambers and Uw 0.70 W/m²K, is the profile recommended 
 | Dreh-Kipp 100×120 cm, Dreifach-Low-E | 390–510 EUR |
 | **Preis pro m² montiert** | **150–220 EUR/m²** |
 
-> ⚠️ **Wichtiger Hinweis zu Preisen:** Alle in diesem Artikel genannten Preise sind **Richtwerte** und spiegeln die Marktbedingungen vom März 2026 wider. Material-, Energie- und Arbeitskosten ändern sich ständig und können steigen oder fallen. Fordern Sie immer ein aktuelles Angebot an, bevor Sie eine Kaufentscheidung treffen.
+> ⚠️ **Wichtiger Hinweis zu Preisen:** Alle in diesem Artikel genannten Preise sind **Richtwerte** und spiegeln die Marktbedingungen vom März 2026 wider. Material-, Energie- und Arbeitskosten ändern sich ständig und können steigen oder fallen. Fordern Sie immer ein [aktuelles Angebot](/de/kontakt) an, bevor Sie eine Kaufentscheidung treffen.
 
 
 ### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
@@ -13364,7 +13364,7 @@ BluEvolution 92, mit 6 Kammern und Uw 0,70 W/m²K, ist das für den nZEB-Standar
 | Oscillo-battant 100×120 cm, triple Low-E | 390–510 EUR |
 | **Prix par m² posé** | **150–220 EUR/m²** |
 
-> ⚠️ **Note importante sur les prix :** Tous les prix présentés dans cet article sont **indicatifs** et reflètent les conditions du marché en mars 2026. Les coûts des matériaux, de l'énergie et de la main-d'œuvre évoluent constamment et peuvent augmenter ou diminuer. Demandez toujours un devis actualisé avant de prendre une décision d'achat.
+> ⚠️ **Note importante sur les prix :** Tous les prix présentés dans cet article sont **indicatifs** et reflètent les conditions du marché en mars 2026. Les coûts des matériaux, de l'énergie et de la main-d'œuvre évoluent constamment et peuvent augmenter ou diminuer. Demandez toujours un [devis actualisé](/fr/contact) avant de prendre une décision d'achat.
 
 
 ### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
@@ -13406,7 +13406,7 @@ BluEvolution 92, avec 6 chambres et Uw 0,70 W/m²K, est le profilé recommandé 
 | Oscilobatiente 100×120 cm, triple Low-E | 390–510 EUR |
 | **Precio por m² instalado** | **150–220 EUR/m²** |
 
-> ⚠️ **Nota importante sobre los precios:** Todos los precios presentados en este artículo son **orientativos** y reflejan las condiciones del mercado en marzo de 2026. Los costes de materiales, energía y mano de obra cambian constantemente y pueden subir o bajar. Solicite siempre un presupuesto actualizado antes de tomar una decisión de compra.
+> ⚠️ **Nota importante sobre los precios:** Todos los precios presentados en este artículo son **orientativos** y reflejan las condiciones del mercado en marzo de 2026. Los costes de materiales, energía y mano de obra cambian constantemente y pueden subir o bajar. Solicite siempre un [presupuesto actualizado](/es/contacto) antes de tomar una decisión de compra.
 
 
 ### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
@@ -13448,7 +13448,7 @@ BluEvolution 92, con 6 cámaras y Uw 0,70 W/m²K, es el perfil recomendado para 
 | Ribaltabile 100×120 cm, triplo Low-E | 390–510 EUR |
 | **Prezzo per m² posato** | **150–220 EUR/m²** |
 
-> ⚠️ **Nota importante sui prezzi:** Tutti i prezzi presentati in questo articolo sono **indicativi** e riflettono le condizioni di mercato di marzo 2026. I costi dei materiali, dell'energia e della manodopera sono in continua evoluzione e possono aumentare o diminuire. Richiedete sempre un preventivo aggiornato prima di prendere una decisione di acquisto.
+> ⚠️ **Nota importante sui prezzi:** Tutti i prezzi presentati in questo articolo sono **indicativi** e riflettono le condizioni di mercato di marzo 2026. I costi dei materiali, dell'energia e della manodopera sono in continua evoluzione e possono aumentare o diminuire. Richiedete sempre un [preventivo aggiornato](/it/contatti) prima di prendere una decisione di acquisto.
 
 
 ### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
@@ -13546,7 +13546,7 @@ BluEvolution 92, con 6 camere e Uw 0,70 W/m²K, è il profilo consigliato per lo
     content: {
       ro: `## Alumil, Aluprof, Cortizo sau Reynaers — care e alegerea corectă în 2026?
 
-Cele 4 mărci dominante pe piața din București: **Alumil** (Grecia), **Aluprof** (Polonia), **Cortizo** (Spania) și **Reynaers** (Belgia). Fiecare are avantaje distincte — iată comparația completă.
+Cele 4 mărci dominante pe piața din București: **[Alumil](/ro/tamplarie-aluminiu)** (Grecia), **Aluprof** (Polonia), **Cortizo** (Spania) și **Reynaers** (Belgia). Fiecare are avantaje distincte — iată comparația completă.
 
 ---
 
@@ -13563,7 +13563,7 @@ Cele 4 mărci dominante pe piața din București: **Alumil** (Grecia), **Aluprof
 | Cortizo COR 80 RPT | 80 mm | 1,0–1,2 | 360–500 EUR | 4–6 săptămâni |
 | Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 săptămâni |
 
-> ⚠️ **Notă importantă privind prețurile:** Toate prețurile prezentate în acest articol sunt **orientative** și reflectă condițiile de piață din martie 2026. Prețurile materialelor, energiei și manoperei sunt în continuă schimbare și pot crește sau scădea. Solicitați întotdeauna o ofertă actualizată înainte de a lua o decizie de achiziție.
+> ⚠️ **Notă importantă privind prețurile:** Toate prețurile prezentate în acest articol sunt **orientative** și reflectă condițiile de piață din martie 2026. Prețurile materialelor, energiei și manoperei sunt în continuă schimbare și pot crește sau scădea. Solicitați întotdeauna o [ofertă actualizată](/ro/contact) înainte de a lua o decizie de achiziție.
 
 
 ---
@@ -13622,7 +13622,7 @@ Aluprof MB-104 Passive (104 mm) atinge Uw 0,75-0,90 W/m²K, iar Reynaers CS 86-H
 
       en: `## Alumil, Aluprof, Cortizo or Reynaers — which is the right choice in 2026?
 
-The 4 dominant brands on the Bucharest market: **Alumil** (Greece), **Aluprof** (Poland), **Cortizo** (Spain) and **Reynaers** (Belgium).
+The 4 dominant brands on the Bucharest market: **[Alumil](/en/aluminium-windows)** (Greece), **Aluprof** (Poland), **Cortizo** (Spain) and **Reynaers** (Belgium).
 
 ---
 
@@ -13638,7 +13638,7 @@ The 4 dominant brands on the Bucharest market: **Alumil** (Greece), **Aluprof** 
 | Aluprof MB-104 | 104 mm | 0.75–0.90 | 380–550 EUR | 2–3 weeks |
 | Reynaers CS 86-HI | 86 mm | 0.80–1.0 | 550–800 EUR | 5–8 weeks |
 
-> ⚠️ **Important note on prices:** All prices in this article are **indicative** and reflect market conditions as of March 2026. Material, energy and labour costs are constantly changing and may increase or decrease. Always request an updated quote before making a purchasing decision.
+> ⚠️ **Important note on prices:** All prices in this article are **indicative** and reflect market conditions as of March 2026. Material, energy and labour costs are constantly changing and may increase or decrease. Always request an [updated quote](/en/contact) before making a purchasing decision.
 
 
 ---
@@ -13695,10 +13695,10 @@ Aluprof MB-104 Passive (104 mm) reaches Uw 0.75-0.90 W/m²K, and Reynaers CS 86-
 | **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 Tage** |
 | Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 Wochen |
 
-> ⚠️ **Wichtiger Hinweis zu Preisen:** Alle in diesem Artikel genannten Preise sind **Richtwerte** und spiegeln die Marktbedingungen vom März 2026 wider. Material-, Energie- und Arbeitskosten ändern sich ständig und können steigen oder fallen. Fordern Sie immer ein aktuelles Angebot an, bevor Sie eine Kaufentscheidung treffen.
+> ⚠️ **Wichtiger Hinweis zu Preisen:** Alle in diesem Artikel genannten Preise sind **Richtwerte** und spiegeln die Marktbedingungen vom März 2026 wider. Material-, Energie- und Arbeitskosten ändern sich ständig und können steigen oder fallen. Fordern Sie immer ein [aktuelles Angebot](/de/kontakt) an, bevor Sie eine Kaufentscheidung treffen.
 
 
-**Alumil**: größte Präsenz in Rumänien, lokales Lager Bukarest, bestes Preis-Leistungs-Verhältnis.
+**[Alumil](/de/aluminiumfenster)**: größte Präsenz in Rumänien, lokales Lager Bukarest, bestes Preis-Leistungs-Verhältnis.
 **Reynaers**: Ultra-Premium, 40–80% teurer als Alumil bei vergleichbarer Leistung.
 
 **WhatsApp:** +40 752 443 435
@@ -13737,10 +13737,10 @@ Aluprof MB-104 Passive (104 mm) erreicht Uw 0,75-0,90 W/m²K, und Reynaers CS 86
 | **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 jours** |
 | Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 semaines |
 
-> ⚠️ **Note importante sur les prix :** Tous les prix présentés dans cet article sont **indicatifs** et reflètent les conditions du marché en mars 2026. Les coûts des matériaux, de l'énergie et de la main-d'œuvre évoluent constamment et peuvent augmenter ou diminuer. Demandez toujours un devis actualisé avant de prendre une décision d'achat.
+> ⚠️ **Note importante sur les prix :** Tous les prix présentés dans cet article sont **indicatifs** et reflètent les conditions du marché en mars 2026. Les coûts des matériaux, de l'énergie et de la main-d'œuvre évoluent constamment et peuvent augmenter ou diminuer. Demandez toujours un [devis actualisé](/fr/contact) avant de prendre une décision d'achat.
 
 
-**Alumil** : plus grande présence en Roumanie, stock local Bucarest, meilleur rapport qualité-prix.
+**[Alumil](/fr/menuiserie-aluminium)** : plus grande présence en Roumanie, stock local Bucarest, meilleur rapport qualité-prix.
 **Reynaers** : ultra-premium, 40–80% plus cher qu'Alumil à performances comparables.
 
 **WhatsApp :** +40 752 443 435
@@ -13779,10 +13779,10 @@ L'Aluprof MB-104 Passive (104 mm) atteint Uw 0,75-0,90 W/m²K, et le Reynaers CS
 | **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 días** |
 | Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 semanas |
 
-> ⚠️ **Nota importante sobre los precios:** Todos los precios presentados en este artículo son **orientativos** y reflejan las condiciones del mercado en marzo de 2026. Los costes de materiales, energía y mano de obra cambian constantemente y pueden subir o bajar. Solicite siempre un presupuesto actualizado antes de tomar una decisión de compra.
+> ⚠️ **Nota importante sobre los precios:** Todos los precios presentados en este artículo son **orientativos** y reflejan las condiciones del mercado en marzo de 2026. Los costes de materiales, energía y mano de obra cambian constantemente y pueden subir o bajar. Solicite siempre un [presupuesto actualizado](/es/contacto) antes de tomar una decisión de compra.
 
 
-**Alumil**: mayor presencia en Rumanía, almacén local Bucarest, mejor relación calidad-precio.
+**[Alumil](/es/carpinteria-aluminio)**: mayor presencia en Rumanía, almacén local Bucarest, mejor relación calidad-precio.
 **Reynaers**: ultra-premium, 40–80% más caro que Alumil a rendimiento comparable.
 
 **WhatsApp:** +40 752 443 435
@@ -13821,10 +13821,10 @@ El Aluprof MB-104 Passive (104 mm) alcanza Uw 0,75-0,90 W/m²K, y el Reynaers CS
 | **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 giorni** |
 | Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 settimane |
 
-> ⚠️ **Nota importante sui prezzi:** Tutti i prezzi presentati in questo articolo sono **indicativi** e riflettono le condizioni di mercato di marzo 2026. I costi dei materiali, dell'energia e della manodopera sono in continua evoluzione e possono aumentare o diminuire. Richiedete sempre un preventivo aggiornato prima di prendere una decisione di acquisto.
+> ⚠️ **Nota importante sui prezzi:** Tutti i prezzi presentati in questo articolo sono **indicativi** e riflettono le condizioni di mercato di marzo 2026. I costi dei materiali, dell'energia e della manodopera sono in continua evoluzione e possono aumentare o diminuire. Richiedete sempre un [preventivo aggiornato](/it/contatti) prima di prendere una decisione di acquisto.
 
 
-**Alumil**: maggiore presenza in Romania, magazzino locale Bucarest, miglior rapporto qualità-prezzo.
+**[Alumil](/it/infissi-alluminio)**: maggiore presenza in Romania, magazzino locale Bucarest, miglior rapporto qualità-prezzo.
 **Reynaers**: ultra-premium, 40–80% più caro di Alumil a prestazioni comparabili.
 
 **WhatsApp:** +40 752 443 435
@@ -13918,7 +13918,7 @@ Când vorbim despre case inteligente, materialul ferestrei nu pare relevant la p
 
 Un profil PVC se deformează termic cu 2–3 mm la variații de 40°C — suficient pentru a bloca un motor de 24V montat în rama ferestrei. Aluminiul are dilatare termică de 6× mai mică, menținând toleranțele necesare pentru mecanisme automate pe 20–30 ani.
 
-**Concluzie practică:** dacă construiești sau renovezi o casă cu viziune smart home, tâmplăria din aluminiu nu este o opțiune — este singurul material care garantează funcționarea sistemelor automate pe termen lung.
+**Concluzie practică:** dacă construiești sau renovezi o casă cu viziune smart home, [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) nu este o opțiune — este singurul material care garantează funcționarea sistemelor automate pe termen lung.
 
 ---
 
@@ -13926,7 +13926,7 @@ Un profil PVC se deformează termic cu 2–3 mm la variații de 40°C — sufici
 
 ### Somfy — standardul de facto pentru rezidențial
 
-**Somfy** este cel mai utilizat sistem de automatizare pentru tâmplărie rezidențială în Europa. Compatibilitate nativă cu toate sistemele Alumil Supreme și Smartia.
+**[Somfy](/ro/accesorii)** este cel mai utilizat sistem de automatizare pentru tâmplărie rezidențială în Europa. Compatibilitate nativă cu toate sistemele Alumil Supreme și Smartia.
 
 **Motoare Somfy compatibile cu tâmplăria aluminiu:**
 
@@ -14077,7 +14077,7 @@ When it comes to smart homes, the window material seems irrelevant at first glan
 
 A PVC profile deforms thermally by 2–3 mm at 40°C temperature variations — enough to jam a 24V motor mounted in the window frame. Aluminium has 6× lower thermal expansion, maintaining the tolerances required for automatic mechanisms over 20–30 years.
 
-**Practical conclusion:** if you are building or renovating a house with a smart home vision, aluminium joinery is not an option — it is the only material that guarantees long-term operation of automatic systems.
+**Practical conclusion:** if you are building or renovating a house with a smart home vision, [aluminium joinery](/en/aluminium-windows) is not an option — it is the only material that guarantees long-term operation of automatic systems.
 
 ---
 
@@ -14085,7 +14085,7 @@ A PVC profile deforms thermally by 2–3 mm at 40°C temperature variations — 
 
 ### Somfy — the de facto residential standard
 
-**Somfy** is the most widely used home joinery automation system in Europe. Native compatibility with all Alumil Supreme and Smartia systems.
+**[Somfy](/en/accessories)** is the most widely used home joinery automation system in Europe. Native compatibility with all Alumil Supreme and Smartia systems.
 
 **Somfy motors compatible with aluminium joinery:**
 - **Somfy Yslo Extend io** — tubular motor for sliding and lift-and-slide doors. Force 160N, adjustable stroke, TaHoma Switch compatible.
@@ -14170,7 +14170,7 @@ Somfy and Nice are proprietary systems — devices work within the same ecosyste
 
       de: `## Warum Aluminium das ideale Material für Smart Home ist
 
-Aluminium hat einen entscheidenden strukturellen Vorteil gegenüber PVC: die Profilsteifigkeit ermöglicht die direkte Montage von Elektromotoren in Rahmen oder Beschlagsystem, ohne Verformung im Laufe der Zeit.
+[Aluminium](/de/aluminiumfenster) hat einen entscheidenden strukturellen Vorteil gegenüber PVC: die Profilsteifigkeit ermöglicht die direkte Montage von Elektromotoren in Rahmen oder Beschlagsystem, ohne Verformung im Laufe der Zeit.
 
 Ein PVC-Profil verformt sich bei 40°C Temperaturschwankungen thermisch um 2–3 mm — genug, um einen 24V-Motor zu blockieren. Aluminium hat eine 6× geringere Wärmedehnung.
 
@@ -14179,7 +14179,7 @@ Ein PVC-Profil verformt sich bei 40°C Temperaturschwankungen thermisch um 2–3
 ## Kompatible Automatisierungssysteme für Alumil Aluminiumfenster
 
 ### Somfy — der De-facto-Wohnstandard
-Somfy ist das meistgenutzte Fensterautomatisierungssystem in Europa. Native Kompatibilität mit allen Alumil Supreme und Smartia Systemen.
+[Somfy](/de/zubehoer) ist das meistgenutzte Fensterautomatisierungssystem in Europa. Native Kompatibilität mit allen Alumil Supreme und Smartia Systemen.
 
 - **Somfy Yslo Extend io** — Rohrmotor für Schiebe- und Hebeschiebetüren, Kraft 160N
 - **Somfy TaHoma Switch** — Premium KNX/io/RTS Hub
@@ -14236,7 +14236,7 @@ Somfy und Nice sind proprietäre Systeme — Geräte arbeiten innerhalb desselbe
 
       fr: `## Pourquoi l'aluminium est le matériau idéal pour la maison intelligente
 
-L'aluminium a un avantage structurel décisif sur le PVC : la rigidité du profil permet de monter des moteurs électriques directement dans le dormant ou le système de quincaillerie, sans déformation dans le temps.
+L'[aluminium](/fr/menuiserie-aluminium) a un avantage structurel décisif sur le PVC : la rigidité du profil permet de monter des moteurs électriques directement dans le dormant ou le système de quincaillerie, sans déformation dans le temps.
 
 Un profil PVC se déforme thermiquement de 2–3 mm à des variations de 40°C — suffisant pour bloquer un moteur 24V monté dans le cadre. L'aluminium a une dilatation thermique 6× plus faible.
 
@@ -14245,7 +14245,7 @@ Un profil PVC se déforme thermiquement de 2–3 mm à des variations de 40°C �
 ## Systèmes d'automatisation compatibles avec la menuiserie Alumil
 
 ### Somfy — le standard de facto résidentiel
-Somfy est le système d'automatisation de menuiserie le plus utilisé en Europe. Compatibilité native avec tous les systèmes Alumil Supreme et Smartia.
+[Somfy](/fr/accessoires) est le système d'automatisation de menuiserie le plus utilisé en Europe. Compatibilité native avec tous les systèmes Alumil Supreme et Smartia.
 
 - **Somfy Yslo Extend io** — moteur tubulaire pour portes coulissantes et levant-coulissantes, force 160N
 - **Somfy TaHoma Switch** — hub premium KNX/io/RTS
@@ -14302,7 +14302,7 @@ Somfy et Nice sont des systèmes propriétaires — les appareils fonctionnent a
 
       es: `## Por qué el aluminio es el material ideal para el smart home
 
-El aluminio tiene una ventaja estructural decisiva sobre el PVC: la rigidez del perfil permite montar motores eléctricos directamente en el marco o en el sistema de herrajes, sin deformación a lo largo del tiempo.
+El [aluminio](/es/carpinteria-aluminio) tiene una ventaja estructural decisiva sobre el PVC: la rigidez del perfil permite montar motores eléctricos directamente en el marco o en el sistema de herrajes, sin deformación a lo largo del tiempo.
 
 Un perfil de PVC se deforma térmicamente 2–3 mm con variaciones de 40°C — suficiente para bloquear un motor de 24V. El aluminio tiene una dilatación térmica 6× menor.
 
@@ -14311,7 +14311,7 @@ Un perfil de PVC se deforma térmicamente 2–3 mm con variaciones de 40°C — 
 ## Sistemas de automatización compatibles con la carpintería Alumil
 
 ### Somfy — el estándar de facto residencial
-Somfy es el sistema de automatización de carpintería más utilizado en Europa. Compatibilidad nativa con todos los sistemas Alumil Supreme y Smartia.
+[Somfy](/es/accesorios) es el sistema de automatización de carpintería más utilizado en Europa. Compatibilidad nativa con todos los sistemas Alumil Supreme y Smartia.
 
 - **Somfy Yslo Extend io** — motor tubular para puertas correderas y elevadoras, fuerza 160N
 - **Somfy TaHoma Switch** — hub premium KNX/io/RTS
@@ -14365,7 +14365,7 @@ Somfy y Nice son sistemas propietarios — los dispositivos funcionan dentro del
 
       it: `## Perché l'alluminio è il materiale ideale per lo smart home
 
-L'alluminio ha un vantaggio strutturale decisivo rispetto al PVC: la rigidità del profilo consente di montare motori elettrici direttamente nel telaio o nel sistema di ferramenta, senza deformazione nel tempo.
+L'[alluminio](/it/infissi-alluminio) ha un vantaggio strutturale decisivo rispetto al PVC: la rigidità del profilo consente di montare motori elettrici direttamente nel telaio o nel sistema di ferramenta, senza deformazione nel tempo.
 
 Un profilo PVC si deforma termicamente di 2–3 mm a variazioni di 40°C — sufficiente per bloccare un motore 24V. L'alluminio ha una dilatazione termica 6× inferiore.
 
@@ -14374,7 +14374,7 @@ Un profilo PVC si deforma termicamente di 2–3 mm a variazioni di 40°C — suf
 ## Sistemi di automazione compatibili con la falegnameria Alumil
 
 ### Somfy — lo standard de facto residenziale
-Somfy è il sistema di automazione per serramenti più utilizzato in Europa. Compatibilità nativa con tutti i sistemi Alumil Supreme e Smartia.
+[Somfy](/it/accessori) è il sistema di automazione per serramenti più utilizzato in Europa. Compatibilità nativa con tutti i sistemi Alumil Supreme e Smartia.
 
 - **Somfy Yslo Extend io** — motore tubolare per porte scorrevoli e alzanti, forza 160N
 - **Somfy TaHoma Switch** — hub premium KNX/io/RTS
@@ -14499,7 +14499,7 @@ Bucureștiul este cel mai activ piață de birouri din Europa de Sud-Est. În 20
 
 **Standardul de facto** pentru orice clădire de birouri de clasă A din București în 2026 este fațada cortină din aluminiu și sticlă — cerință impusă de chiriașii corporativi (multinaționale), de standardele de certificare energetică (BREEAM, LEED, DGNB) și de normele de eficiență energetică europene.
 
-Neofort BIZ lucrează direct cu **dezvoltatori imobiliari, arhitecți și antreprenori generali** din București pentru livrarea și montajul sistemelor Alumil de pereți cortină. Această pagină centralizează tot ce trebuie să știi înainte de a deschide un dosar de proiect.
+Neofort BIZ lucrează direct cu **dezvoltatori imobiliari, arhitecți și antreprenori generali** din București pentru livrarea și [montaj](/ro/servicii)ul sistemelor Alumil de pereți cortină. Această pagină centralizează tot ce trebuie să știi înainte de a deschide un dosar de proiect.
 
 ---
 
@@ -14545,7 +14545,7 @@ Specificații tehnice:
 - Înălțime panou maximă (fără sprijin intermediar): 4.200 mm
 - Lățime panou maximă: 1.800 mm
 
-**Opțiuni casetă umbrire integrată:** jaluzele Raffstore 80mm și Zipscreen pot fi integrate în caseta de perete cortină.
+**Opțiuni casetă umbrire integrată:** jaluzele Raffstore 80mm și Zipscreen pot fi integrate în caseta de [perete cortină](/ro/tamplarie-aluminiu).
 
 **Prețuri orientative CW50 — 2026:**
 
@@ -14675,7 +14675,7 @@ Neofort BIZ lucrează direct cu dezvoltatori imobiliari, arhitecți și antrepre
 
 Bucharest is the most active office market in South-Eastern Europe. In 2024–2025, modern office stock exceeded **4 million m²**, with 15–20 new projects annually in zones such as Floreasca-Barbu Văcărescu, Pipera, Centre-West and Timpuri Noi.
 
-The **de facto standard** for any Class A office building in Bucharest in 2026 is an aluminium and glass curtain wall facade — required by corporate tenants (multinationals), energy certification standards (BREEAM, LEED, DGNB) and European energy efficiency regulations.
+The **de facto standard** for any Class A office building in Bucharest in 2026 is an aluminium and glass [curtain wall](/en/aluminium-windows) facade — required by corporate tenants (multinationals), energy certification standards (BREEAM, LEED, DGNB) and European energy efficiency regulations.
 
 ---
 
@@ -14743,7 +14743,7 @@ The **de facto standard** for any Class A office building in Bucharest in 2026 i
 
 **Complete documentation** — DoP declarations, technical data sheets, test reports and CE certificates for all Alumil systems.
 
-**Own installation teams** — we do not subcontract installation for commercial projects.
+**Own [installation](/en/services) teams** — we do not subcontract installation for commercial projects.
 
 **WhatsApp Projects:** +40 752 443 439
 
@@ -14770,7 +14770,7 @@ Neofort BIZ works directly with property developers, architects and general cont
 
 Bukarest ist der aktivste Büromarkt in Südosteuropa. 2024–2025 überschritt der moderne Bürobestand **4 Millionen m²** mit 15–20 neuen Projekten jährlich.
 
-Der **De-facto-Standard** für jedes Klasse-A-Bürogebäude in Bukarest 2026 ist eine Aluminium-Glas-Vorhangfassade — gefordert von Firmenmietern, Energiezertifizierungsstandards (BREEAM, LEED, DGNB) und europäischen Energieeffizienzvorschriften.
+Der **De-facto-Standard** für jedes Klasse-A-Bürogebäude in Bukarest 2026 ist eine Aluminium-Glas-[Vorhangfassade](/de/aluminiumfenster) — gefordert von Firmenmietern, Energiezertifizierungsstandards (BREEAM, LEED, DGNB) und europäischen Energieeffizienzvorschriften.
 
 ---
 
@@ -14808,7 +14808,7 @@ Der **De-facto-Standard** für jedes Klasse-A-Bürogebäude in Bukarest 2026 ist
 2. **Statische Berechnung** (3–7 Tage) — Windlasten EN 1991-1-4
 3. **Werkstattzeichnungen** (7–14 Tage)
 4. **Produktion** (21–35 Tage)
-5. **Montage** — 500 m²: 10–15 Tage; 2.000 m²: 30–45 Tage
+5. **[Montage](/de/dienstleistungen)** — 500 m²: 10–15 Tage; 2.000 m²: 30–45 Tage
 6. **Prüfung und Abnahme** — EN 1027/EN 1026, BREEAM/LEED Dokumentation
 
 ---
@@ -14842,7 +14842,7 @@ Neofort BIZ arbeitet direkt mit Immobilienentwicklern, Architekten und Generalun
 
 Bucarest est le marché de bureaux le plus actif d'Europe du Sud-Est. En 2024–2025, le stock de bureaux modernes a dépassé **4 millions de m²** avec 15–20 nouveaux projets annuellement.
 
-Le **standard de facto** pour tout immeuble de bureaux de classe A à Bucarest en 2026 est une façade rideau en aluminium et verre — exigée par les locataires corporatifs, les standards de certification énergétique (BREEAM, LEED, DGNB) et les réglementations européennes.
+Le **standard de facto** pour tout immeuble de bureaux de classe A à Bucarest en 2026 est une [façade](/fr/menuiserie-aluminium) rideau en aluminium et verre — exigée par les locataires corporatifs, les standards de certification énergétique (BREEAM, LEED, DGNB) et les réglementations européennes.
 
 ---
 
@@ -14886,7 +14886,7 @@ Le **standard de facto** pour tout immeuble de bureaux de classe A à Bucarest e
 
 ## Pourquoi Neofort BIZ pour les projets de bureaux
 
-Stock local Alumil — profils disponibles en 3–5 jours vs 6–8 semaines pour les importateurs. Équipes de pose propres. Documentation CE complète pour tous les systèmes.
+Stock local Alumil — profils disponibles en 3–5 jours vs 6–8 semaines pour les importateurs. Équipes de [pose](/fr/services) propres. Documentation CE complète pour tous les systèmes.
 
 **WhatsApp Projets :** +40 752 443 439
 
@@ -14913,7 +14913,7 @@ Neofort BIZ travaille directement avec les promoteurs immobiliers, architectes e
 
 Bucarest es el mercado de oficinas más activo del sureste de Europa. En 2024–2025, el stock moderno de oficinas superó los **4 millones de m²** con 15–20 nuevos proyectos anuales.
 
-El **estándar de facto** para cualquier edificio de oficinas de clase A en Bucarest en 2026 es una fachada cortina de aluminio y vidrio — requerida por inquilinos corporativos, estándares de certificación energética (BREEAM, LEED, DGNB) y regulaciones europeas.
+El **estándar de facto** para cualquier edificio de oficinas de clase A en Bucarest en 2026 es una [fachada](/es/carpinteria-aluminio) cortina de aluminio y vidrio — requerida por inquilinos corporativos, estándares de certificación energética (BREEAM, LEED, DGNB) y regulaciones europeas.
 
 ---
 
@@ -14957,7 +14957,7 @@ El **estándar de facto** para cualquier edificio de oficinas de clase A en Buca
 
 ## Por qué Neofort BIZ para proyectos de oficinas
 
-Stock local Alumil — perfiles disponibles en 3–5 días vs 6–8 semanas para importadores. Equipos de instalación propios. Documentación CE completa.
+Stock local Alumil — perfiles disponibles en 3–5 días vs 6–8 semanas para importadores. Equipos de [instalación](/es/servicios) propios. Documentación CE completa.
 
 **WhatsApp Proyectos:** +40 752 443 439
 
@@ -14984,7 +14984,7 @@ Neofort BIZ trabaja directamente con promotores inmobiliarios, arquitectos y con
 
 Bucarest è il mercato degli uffici più attivo del Sud-Est Europa. Nel 2024–2025, lo stock moderno di uffici ha superato **4 milioni di m²** con 15–20 nuovi progetti annualmente.
 
-Lo **standard de facto** per qualsiasi edificio per uffici di classe A a Bucarest nel 2026 è una facciata continua in alluminio e vetro — richiesta da inquilini aziendali, standard di certificazione energetica (BREEAM, LEED, DGNB) e normative europee.
+Lo **standard de facto** per qualsiasi edificio per uffici di classe A a Bucarest nel 2026 è una [facciata continua](/it/infissi-alluminio) in alluminio e vetro — richiesta da inquilini aziendali, standard di certificazione energetica (BREEAM, LEED, DGNB) e normative europee.
 
 ---
 
@@ -15028,7 +15028,7 @@ Lo **standard de facto** per qualsiasi edificio per uffici di classe A a Bucares
 
 ## Perché Neofort BIZ per progetti di uffici
 
-Stock locale Alumil — profili disponibili in 3–5 giorni vs 6–8 settimane per gli importatori. Squadre di posa proprie. Documentazione CE completa per tutti i sistemi.
+Stock locale Alumil — profili disponibili in 3–5 giorni vs 6–8 settimane per gli importatori. Squadre di [posa](/it/servizi) proprie. Documentazione CE completa per tutti i sistemi.
 
 **WhatsApp Progetti:** +40 752 443 439
 
@@ -15142,7 +15142,7 @@ Pentru un apartament de 60 mp din București cu ferestre vechi:
 
 - Pierderi termice actuale prin ferestre: ~35% din totalul pierderilor
 - Cost mediu încălzire iarnă: 800–1.200 EUR/an
-- Reducere după BluEvolution 92 + geam Low-E + montaj nZEB: **65–75%**
+- Reducere după [BluEvolution 92](/ro/tamplarie-pvc) + geam Low-E + montaj [nZEB](/ro/sisteme-nzeb): **65–75%**
 - **Economie anuală estimată: 280–500 EUR/an**
 - Recuperarea investiției: 6–10 ani
 - Durată de viață Salamander: 30–40 ani → 20–30 ani de economii nete
@@ -15277,7 +15277,7 @@ Cel mai bun moment este în paralel cu o renovare generală, când pereții sunt
 
 For a 60 m² Bucharest apartment with old windows:
 - Heat losses through windows: ~35% of total
-- Heating cost reduction after BluEvolution 92 + Low-E + nZEB installation: **65–75%**
+- Heating cost reduction after [BluEvolution 92](/en/pvc-windows) + Low-E + [nZEB](/en/nzeb-systems) installation: **65–75%**
 - **Annual estimated saving: 280–500 EUR**
 - Payback period: 6–10 years
 
@@ -15340,7 +15340,7 @@ The best time is alongside a general renovation, when the walls are stripped any
 
 1. **Kondensat zwischen den Scheiben** — Isolierglasdichtung versagt. Nicht reparierbar.
 2. **Zugluft bei geschlossenen Fenstern** — Dichtungen verschlissen.
-3. **Hohe Energierechnungen** — Alte Fenster Uw 2,8 vs. moderne Uw 1,0 W/m²K = 3× mehr Wärmeverlust.
+3. **Hohe Energierechnungen** — Alte Fenster Uw 2,8 vs. moderne Uw 1,0 W/m²K = 3× mehr [Wärmeverlust](/de/nzeb-systeme).
 4. **Übermäßiger Straßenlärm** — Alt: 20–25 dB. Salamander modern: 38–47 dB.
 5. **Schwierigkeiten beim Öffnen/Schließen** — Wiederholte Reparaturen kosten mehr als Austausch.
 6. **Vergilbte oder rissige Profile** — Altes PVC ohne UV-Stabilisatoren.
@@ -15352,7 +15352,7 @@ The best time is alongside a general renovation, when the walls are stripped any
 
 **GreenEvolution 76** — bestes Preis-Leistungs-Verhältnis. Uw 0,73, bis 42 dB, 76 mm Tiefe passt in bestehende Öffnungen ohne strukturelle Änderungen.
 
-**BluEvolution 92** — Hoher Standard. Uw 0,70 (Doppel-Low-E) oder 0,55 (Dreifach). Bis 47 dB Schallschutz.
+**[BluEvolution 92](/de/kunststofffenster-pvc)** — Hoher Standard. Uw 0,70 (Doppel-Low-E) oder 0,55 (Dreifach). Bis 47 dB Schallschutz.
 
 ---
 
@@ -15414,7 +15414,7 @@ Der beste Zeitpunkt ist parallel zu einer Generalrenovierung, wenn die Wände oh
 
 **GreenEvolution 76** — meilleur rapport qualité-prix. Uw 0,73, jusqu'à 42 dB, profondeur 76 mm s'adapte aux baies existantes sans modifications structurelles.
 
-**BluEvolution 92** — haut standard. Uw 0,70 (double Low-E) ou 0,55 (triple). Jusqu'à 47 dB d'isolation acoustique.
+**[BluEvolution 92](/fr/menuiserie-pvc)** — haut standard. Uw 0,70 (double Low-E) ou 0,55 (triple). Jusqu'à 47 dB d'[isolation](/fr/systemes-nzeb) acoustique.
 
 ---
 
@@ -15476,7 +15476,7 @@ Le meilleur moment est en parallèle d'une rénovation générale, quand les mur
 
 **GreenEvolution 76** — mejor relación calidad-precio. Uw 0,73, hasta 42 dB, profundidad 76 mm encaja en huecos existentes sin cambios estructurales.
 
-**BluEvolution 92** — alto estándar. Uw 0,70 (doble Low-E) o 0,55 (triple). Hasta 47 dB de aislamiento acústico.
+**[BluEvolution 92](/es/carpinteria-pvc)** — alto estándar. Uw 0,70 (doble Low-E) o 0,55 (triple). Hasta 47 dB de [aislamiento](/es/sistemas-nzeb) acústico.
 
 ---
 
@@ -15538,7 +15538,7 @@ El mejor momento es en paralelo a una reforma general, cuando los muros están d
 
 **GreenEvolution 76** — miglior rapporto qualità-prezzo. Uw 0,73, fino a 42 dB, profondità 76 mm si adatta alle aperture esistenti senza modifiche strutturali.
 
-**BluEvolution 92** — alto standard. Uw 0,70 (doppio Low-E) o 0,55 (triplo). Fino a 47 dB di isolamento acustico.
+**[BluEvolution 92](/it/infissi-pvc)** — alto standard. Uw 0,70 (doppio Low-E) o 0,55 (triplo). Fino a 47 dB di [isolamento](/it/sistemi-nzeb) acustico.
 
 ---
 
@@ -15660,7 +15660,7 @@ O economie de 15% la costul ferestrelor poate însemna o creștere de 30–40% a
 
 ### Profilul — BluEvolution 92 ALU sau BluEvolution 92 FLEX
 
-**BluEvolution 92** este singurul profil Salamander cu certificare completă pentru standard nZEB și casă pasivă.
+**[BluEvolution 92](/ro/tamplarie-pvc)** este singurul profil Salamander cu certificare completă pentru [standard nZEB](/ro/sisteme-nzeb) și casă pasivă.
 
 - 6 camere | adâncime 92–104 mm | Uw = 0,70 W/m²K
 - 3 garnituri EPDM | izolare fonică până la 47 dB
@@ -15791,7 +15791,7 @@ In a modern individual house, glazed areas can reach **50–70% of the building 
 
 ## Recommended configuration for a new individual house in 2026
 
-**Profile — BluEvolution 92 ALU or FLEX**
+**Profile — [BluEvolution 92](/en/pvc-windows) ALU or FLEX**
 - 6 chambers | 92–104 mm depth | Uw = 0.70 W/m²K
 - 3 EPDM seals | acoustic insulation up to 47 dB
 - Compatible with triple 4+12+4+12+4 krypton → Ug = 0.5 W/m²K
@@ -15804,7 +15804,7 @@ In a modern individual house, glazed areas can reach **50–70% of the building 
 | Triple Low-E 4+12+4+12+4 argon | 0.5 | New builds, nZEB |
 | Triple Low-E with krypton | 0.4 | Passive houses |
 
-**Installation — nZEB with Blaugelb precasings mandatory**
+**Installation — [nZEB](/en/nzeb-systems) with Blaugelb precasings mandatory**
 Perimeter thermal bridges have direct impact on the energy calculation for individual houses.
 
 ---
@@ -15873,7 +15873,7 @@ In einem modernen Einfamilienhaus können verglaste Flächen **50–70% der Geb�
 
 ## Empfohlene Konfiguration für ein neues Einfamilienhaus 2026
 
-**Profil — BluEvolution 92 ALU oder FLEX**
+**Profil — [BluEvolution 92](/de/kunststofffenster-pvc) ALU oder FLEX**
 6 Kammern | 92–104 mm Tiefe | Uw = 0,70 W/m²K | bis 47 dB Schalldämmung
 
 **Verglasung — Dreifach-Low-E mit Argon oder Krypton**
@@ -15928,13 +15928,13 @@ BluEvolution 92 ALU ist außen aluminiumverkleidet und verbindet Aluminiumästhe
 
       fr: `## Pourquoi une maison individuelle nécessite-t-elle un standard différent d'un immeuble ?
 
-Dans une maison individuelle moderne, les surfaces vitrées peuvent atteindre **50–70% de l'enveloppe du bâtiment**. La menuiserie devient ainsi le **composant principal déterminant** la consommation énergétique et le confort.
+Dans une maison individuelle moderne, les surfaces vitrées peuvent atteindre **50–70% de l'enveloppe du bâtiment**. La menuiserie devient ainsi le **composant principal déterminant** la consommation [énergétique](/fr/systemes-nzeb) et le confort.
 
 ---
 
 ## Configuration recommandée pour une maison neuve en 2026
 
-**Profilé — BluEvolution 92 ALU ou FLEX**
+**Profilé — [BluEvolution 92](/fr/menuiserie-pvc) ALU ou FLEX**
 6 chambres | 92–104 mm | Uw = 0,70 W/m²K | jusqu'à 47 dB
 
 **Vitrage — triple Low-E argon ou krypton**
@@ -15989,13 +15989,13 @@ Le BluEvolution 92 ALU est plaqué aluminium à l'extérieur, combinant l'esthé
 
       es: `## ¿Por qué una casa individual necesita un estándar diferente al de un bloque?
 
-En una casa individual moderna, las superficies acristaladas pueden alcanzar el **50–70% de la envolvente del edificio**. La carpintería se convierte en el **componente principal que determina** el consumo energético y el confort.
+En una casa individual moderna, las superficies acristaladas pueden alcanzar el **50–70% de la envolvente del edificio**. La carpintería se convierte en el **componente principal que determina** el consumo [energético](/es/sistemas-nzeb) y el confort.
 
 ---
 
 ## Configuración recomendada para una casa nueva en 2026
 
-**Perfil — BluEvolution 92 ALU o FLEX**
+**Perfil — [BluEvolution 92](/es/carpinteria-pvc) ALU o FLEX**
 6 cámaras | 92–104 mm | Uw = 0,70 W/m²K | hasta 47 dB
 
 **Vidrio — triple Low-E argón o kriptón**
@@ -16048,13 +16048,13 @@ El BluEvolution 92 ALU está revestido de aluminio en el exterior, combinando la
 
       it: `## Perché una casa individuale ha bisogno di uno standard diverso da un condominio?
 
-In una casa individuale moderna, le superfici vetrate possono raggiungere il **50–70% dell'involucro edilizio**. Gli infissi diventano il **componente principale che determina** il consumo energetico e il comfort.
+In una casa individuale moderna, le superfici vetrate possono raggiungere il **50–70% dell'involucro edilizio**. Gli infissi diventano il **componente principale che determina** il consumo [energetico](/it/sistemi-nzeb) e il comfort.
 
 ---
 
 ## Configurazione consigliata per una casa nuova nel 2026
 
-**Profilato — BluEvolution 92 ALU o FLEX**
+**Profilato — [BluEvolution 92](/it/infissi-pvc) ALU o FLEX**
 6 camere | 92–104 mm | Uw = 0,70 W/m²K | fino a 47 dB
 
 **Vetro — triplo Low-E argon o kripton**
@@ -16201,7 +16201,7 @@ Dezvoltatorii din zona premium București — Floreasca, Dorobanți, Aviatorilor
 
 ### 3. Argumentul comercial — valoarea adăugată în prețul de vânzare
 
-Un apartament cu tâmplărie aluminiu Reynaers se vinde cu **5–8% mai mult** față de același apartament cu PVC, pe același stradal și aceeași suprafață. La un apartament de 120.000 EUR, diferența este 6.000–9.600 EUR — față de un cost suplimentar al aluminiului față de PVC de 1.500–3.000 EUR per apartament.
+Un apartament cu [tâmplărie aluminiu](/ro/tamplarie-aluminiu) Reynaers se vinde cu **5–8% mai mult** față de același apartament cu PVC, pe același stradal și aceeași suprafață. La un apartament de 120.000 EUR, diferența este 6.000–9.600 EUR — față de un cost suplimentar al aluminiului față de PVC de 1.500–3.000 EUR per apartament.
 
 Raportul este clar: **investiția în aluminiu Reynaers se recuperează de 2–4× în prețul de vânzare**.
 
@@ -16238,7 +16238,7 @@ Sistemul pentru terase și balcoane mari — acolo unde ușa de balcon clasică 
 
 ## Cum lucrează Neofort BIZ cu antreprenorii generali
 
-**Proiect la cheie** — de la măsurători pe planurile de arhitectură până la montajul final și protocolul de recepție, Neofort BIZ este un singur interlocutor pentru toată tâmplăria blocului.
+**Proiect la cheie** — de la măsurători pe planurile de arhitectură până la [montaj](/ro/servicii)ul final și protocolul de recepție, Neofort BIZ este un singur interlocutor pentru toată tâmplăria blocului.
 
 **Coordonare cu fazele de construcție** — livrăm pe tranșe în funcție de avansul lucrărilor pe etaje. Nu blocăm șantierul cu stocuri excesive, nu întârziem faza finisajelor.
 
@@ -16290,7 +16290,7 @@ Pe un bloc nou cu fațadă modernă, aluminiu Reynaers oferă linii arhitectural
 
       en: `## The Neofort BIZ Project — New Block, Delea Veche, Bucharest
 
-Delea Veche is one of the most active residential development zones in Bucharest's sector 2. Neofort BIZ delivered and installed **Reynaers ConceptSystem 77 aluminium windows** for the entire block — windows for all apartments, balcony doors, block entrance doors and common area doors.
+Delea Veche is one of the most active residential development zones in Bucharest's sector 2. Neofort BIZ delivered and installed **Reynaers [ConceptSystem](/en/services) 77 [aluminium window](/en/aluminium-windows)s** for the entire block — windows for all apartments, balcony doors, block entrance doors and common area doors.
 
 ---
 
@@ -16357,7 +16357,7 @@ On a new block with a modern façade, Reynaers aluminium gives clean architectur
 
       de: `## Das Neofort BIZ Projekt — Neubau-Wohnblock, Delea Veche, Bukarest
 
-Delea Veche ist eine der aktivsten Wohnbaugebiete im 2. Bezirk Bukarests. Neofort BIZ lieferte und montierte **Reynaers ConceptSystem 77 Aluminiumfenster** für den gesamten Block.
+Delea Veche ist eine der aktivsten Wohnbaugebiete im 2. Bezirk Bukarests. Neofort BIZ lieferte und [montiert](/de/dienstleistungen)e **Reynaers ConceptSystem 77 [Aluminium](/de/aluminiumfenster)fenster** für den gesamten Block.
 
 ---
 
@@ -16411,7 +16411,7 @@ An einem Neubaublock mit moderner Fassade bietet Reynaers-Aluminium saubere arch
 
       fr: `## Le projet Neofort BIZ — immeuble neuf, Delea Veche, Bucarest
 
-Delea Veche est l'une des zones de développement résidentiel les plus actives du secteur 2 de Bucarest. Neofort BIZ a livré et installé la **menuiserie aluminium Reynaers ConceptSystem 77** pour l'ensemble de l'immeuble.
+Delea Veche est l'une des zones de développement résidentiel les plus actives du secteur 2 de Bucarest. Neofort BIZ a [livré](/fr/services) et installé la **[menuiserie aluminium](/fr/menuiserie-aluminium) Reynaers ConceptSystem 77** pour l'ensemble de l'immeuble.
 
 ---
 
@@ -16464,7 +16464,7 @@ Sur un immeuble neuf à façade moderne, l'aluminium Reynaers offre des lignes a
 
       es: `## El proyecto Neofort BIZ — bloque nuevo, Delea Veche, Bucarest
 
-Delea Veche es una de las zonas de desarrollo residencial más activas del sector 2 de Bucarest. Neofort BIZ entregó e instaló **carpintería aluminio Reynaers ConceptSystem 77** para todo el bloque.
+Delea Veche es una de las zonas de desarrollo residencial más activas del sector 2 de Bucarest. Neofort BIZ entregó e instaló **carpintería [aluminio](/es/carpinteria-aluminio) Reynaers [ConceptSystem](/es/servicios) 77** para todo el bloque.
 
 ---
 
@@ -16509,7 +16509,7 @@ En un bloque nuevo con fachada moderna, el aluminio Reynaers ofrece líneas arqu
 
       it: `## Il progetto Neofort BIZ — nuovo condominio, Delea Veche, Bucarest
 
-Delea Veche è una delle zone di sviluppo residenziale più attive del settore 2 di Bucarest. Neofort BIZ ha consegnato e installato **infissi alluminio Reynaers ConceptSystem 77** per l'intero condominio.
+Delea Veche è una delle zone di sviluppo residenziale più attive del settore 2 di Bucarest. Neofort BIZ ha consegnato e [installato](/it/servizi) **infissi [alluminio](/it/infissi-alluminio) Reynaers ConceptSystem 77** per l'intero condominio.
 
 ---
 
@@ -16620,7 +16620,7 @@ Su un nuovo edificio con facciata moderna, l'alluminio Reynaers offre linee arch
 
 Berceni este un sector în plină transformare — case individuale noi cu arhitectură modernă sau scandinav-nordică, proprietari tineri cu așteptări ridicate pentru eficiență energetică și tehnologie.
 
-Această casă, finalizată în 2025, a ales **Salamander BluEvolution 92** ca profil PVC principal — decizia corectă pentru un proiect care combina standardul nZEB cu un sistem smart home complet integrat.
+Această casă, finalizată în 2025, a ales **Salamander [BluEvolution 92](/ro/tamplarie-pvc)** ca profil PVC principal — decizia corectă pentru un proiect care combina standardul [nZEB](/ro/sisteme-nzeb) cu un sistem smart home complet integrat.
 
 ---
 
@@ -16741,7 +16741,7 @@ BluEvolution 92 oferă izolare fonică până la 47 dB, asigurând liniște comp
 
 Berceni is a sector in full transformation — new individual houses with modern or Scandinavian-Nordic architecture, young homeowners with high expectations for energy efficiency and technology.
 
-This house, completed in 2025, chose **Salamander BluEvolution 92** as the main PVC profile — the right decision for a project combining nZEB standard with a fully integrated smart home system.
+This house, completed in 2025, chose **Salamander [BluEvolution 92](/en/pvc-windows)** as the main PVC profile — the right decision for a project combining [nZEB standard](/en/nzeb-systems) with a fully integrated smart home system.
 
 ---
 
@@ -16805,7 +16805,7 @@ BluEvolution 92 offers sound insulation up to 47 dB, ensuring complete quiet eve
 
       de: `## Das Neofort BIZ Projekt — neues Haus im nordischen Stil, Berceni, Bukarest
 
-Dieses 2025 fertiggestellte Haus wählte **Salamander BluEvolution 92** als Haupt-PVC-Profil — die richtige Entscheidung für ein Projekt, das nZEB-Standard mit einem vollständig integrierten Smart-Home-System kombiniert.
+Dieses 2025 fertiggestellte Haus wählte **Salamander [BluEvolution 92](/de/kunststofffenster-pvc)** als Haupt-PVC-Profil — die richtige Entscheidung für ein Projekt, das [nZEB-Standard](/de/nzeb-systeme) mit einem vollständig integrierten Smart-Home-System kombiniert.
 
 ---
 
@@ -16856,7 +16856,7 @@ BluEvolution 92 bietet Schalldämmung bis 47 dB und sorgt für völlige Ruhe sel
 
       fr: `## Le projet Neofort BIZ — maison neuve style nordique, Berceni, Bucarest
 
-Cette maison achevée en 2025 a choisi **Salamander BluEvolution 92** comme profil PVC principal — le bon choix pour un projet combinant le standard nZEB avec un système maison intelligente entièrement intégré.
+Cette maison achevée en 2025 a choisi **Salamander [BluEvolution 92](/fr/menuiserie-pvc)** comme profil PVC principal — le bon choix pour un projet combinant le [standard nZEB](/fr/systemes-nzeb) avec un système maison intelligente entièrement intégré.
 
 ---
 
@@ -16906,7 +16906,7 @@ Le BluEvolution 92 offre une isolation acoustique jusqu'à 47 dB, assurant un ca
 
       es: `## El proyecto Neofort BIZ — casa nueva estilo nórdico, Berceni, Bucarest
 
-Esta casa, completada en 2025, eligió **Salamander BluEvolution 92** como perfil PVC principal — la decisión correcta para un proyecto que combina el estándar nZEB con un sistema smart home completamente integrado.
+Esta casa, completada en 2025, eligió **Salamander [BluEvolution 92](/es/carpinteria-pvc)** como perfil PVC principal — la decisión correcta para un proyecto que combina el [estándar nZEB](/es/sistemas-nzeb) con un sistema smart home completamente integrado.
 
 ---
 
@@ -16955,7 +16955,7 @@ El BluEvolution 92 ofrece aislamiento acústico hasta 47 dB, asegurando silencio
 
       it: `## Il progetto Neofort BIZ — nuova casa in stile nordico, Berceni, Bucarest
 
-Questa casa, completata nel 2025, ha scelto **Salamander BluEvolution 92** come profilo PVC principale — la scelta giusta per un progetto che combina lo standard nZEB con un sistema smart home completamente integrato.
+Questa casa, completata nel 2025, ha scelto **Salamander [BluEvolution 92](/it/infissi-pvc)** come profilo PVC principale — la scelta giusta per un progetto che combina lo [standard nZEB](/it/sistemi-nzeb) con un sistema smart home completamente integrato.
 
 ---
 
@@ -17068,9 +17068,9 @@ Il BluEvolution 92 offre isolamento acustico fino a 47 dB, garantendo silenzio c
     content: {
       ro: `## Lucrarea Neofort BIZ — export Franța, casă de munte
 
-Această lucrare ilustrează perfect intersecția dintre **export**, **climă extremă** și **performanță termică maximă**. Un client român stabilit în Franța, casă de munte în zona alpină franceză, cu cerințe clare: aspect de aluminiu, performanța PVC, rezistență la climat sever.
+Această lucrare ilustrează perfect intersecția dintre **export**, **climă extremă** și **performanță termică maximă**. Un client român stabilit în Franța, casă de munte în zona alpină franceză, cu cerințe clare: aspect de [aluminiu](/ro/tamplarie-aluminiu), performanța PVC, rezistență la climat sever.
 
-Soluția aleasă: **Salamander BluEvolution 92 ALU**, profilul PVC cu placare exterioară de aluminiu — produsul exact conceput pentru această situație.
+Soluția aleasă: **Salamander [BluEvolution 92](/ro/tamplarie-pvc) ALU**, profilul PVC cu placare exterioară de aluminiu — produsul exact conceput pentru această situație.
 
 ---
 
@@ -17171,9 +17171,9 @@ Da. E produsul exact conceput pentru intersecția dintre export, climă extremă
 
       en: `## The Neofort BIZ Project — Export to France, Mountain House
 
-This project perfectly illustrates the intersection of **export**, **extreme climate** and **maximum thermal performance**. A Romanian client based in France, mountain house in the French alpine zone — clear requirements: aluminium appearance, PVC performance, resistance to severe climate.
+This project perfectly illustrates the intersection of **export**, **extreme climate** and **maximum thermal performance**. A Romanian client based in France, mountain house in the French alpine zone — clear requirements: [aluminium](/en/aluminium-windows) appearance, PVC performance, resistance to severe climate.
 
-The solution: **Salamander BluEvolution 92 ALU**, the PVC profile with exterior aluminium cladding.
+The solution: **Salamander [BluEvolution 92](/en/pvc-windows) ALU**, the PVC profile with exterior aluminium cladding.
 
 ---
 
@@ -17236,7 +17236,7 @@ Yes. It is the product designed exactly for the intersection of export, extreme 
 
       de: `## Das Neofort BIZ Projekt — Export nach Frankreich, Berghaus
 
-**Salamander BluEvolution 92 ALU** ist KEIN Aluminiumprofil. Es ist ein **BluEvolution 92 PVC-Profil** (6 Kammern, 92 mm, nZEB) mit einer **außen aufgeklebten Aluminiumfolie** — das Beste aus beiden Materialien.
+**Salamander [BluEvolution 92](/de/kunststofffenster-pvc) ALU** ist KEIN [Aluminium](/de/aluminiumfenster)profil. Es ist ein **BluEvolution 92 PVC-Profil** (6 Kammern, 92 mm, nZEB) mit einer **außen aufgeklebten Aluminiumfolie** — das Beste aus beiden Materialien.
 
 | Merkmal | Standard PVC | Reines Aluminium | BluEvolution 92 ALU |
 |---|---|---|---|
@@ -17284,7 +17284,7 @@ Ja. Es ist das Produkt, das genau für die Schnittstelle von Export, extremem Kl
 
       fr: `## Le projet Neofort BIZ — export France, maison de montagne
 
-**Salamander BluEvolution 92 ALU** n'est PAS un profil aluminium. C'est un **profil PVC BluEvolution 92** (6 chambres, 92 mm, nZEB) avec une **feuille d'aluminium collée sur la face extérieure** — le meilleur des deux matériaux.
+**Salamander [BluEvolution 92](/fr/menuiserie-pvc) ALU** n'est PAS un profil [aluminium](/fr/menuiserie-aluminium). C'est un **profil PVC BluEvolution 92** (6 chambres, 92 mm, nZEB) avec une **feuille d'aluminium collée sur la face extérieure** — le meilleur des deux matériaux.
 
 | Caractéristique | PVC standard | Aluminium pur | BluEvolution 92 ALU |
 |---|---|---|---|
@@ -17332,7 +17332,7 @@ Oui. C'est le produit conçu exactement pour l'intersection entre export, climat
 
       es: `## El proyecto Neofort BIZ — exportación Francia, casa de montaña
 
-**Salamander BluEvolution 92 ALU** NO es un perfil de aluminio. Es un **perfil PVC BluEvolution 92** (6 cámaras, 92 mm, nZEB) con una **lámina de aluminio pegada en la cara exterior** — lo mejor de ambos materiales.
+**Salamander [BluEvolution 92](/es/carpinteria-pvc) ALU** NO es un perfil de [aluminio](/es/carpinteria-aluminio). Es un **perfil PVC BluEvolution 92** (6 cámaras, 92 mm, nZEB) con una **lámina de aluminio pegada en la cara exterior** — lo mejor de ambos materiales.
 
 | Característica | PVC estándar | Aluminio puro | BluEvolution 92 ALU |
 |---|---|---|---|
@@ -17378,7 +17378,7 @@ Sí. Es el producto diseñado exactamente para la intersección entre exportaci�
 
       it: `## Il progetto Neofort BIZ — esportazione Francia, casa di montagna
 
-**Salamander BluEvolution 92 ALU** NON è un profilo in alluminio. È un **profilo PVC BluEvolution 92** (6 camere, 92 mm, nZEB) con un **foglio di alluminio incollato sulla faccia esterna** — il meglio di entrambi i materiali.
+**Salamander [BluEvolution 92](/it/infissi-pvc) ALU** NON è un profilo in [alluminio](/it/infissi-alluminio). È un **profilo PVC BluEvolution 92** (6 camere, 92 mm, nZEB) con un **foglio di alluminio incollato sulla faccia esterna** — il meglio di entrambi i materiali.
 
 | Caratteristica | PVC standard | Alluminio puro | BluEvolution 92 ALU |
 |---|---|---|---|
@@ -17575,7 +17575,7 @@ Cea mai elegantă soluție pentru vitrine comerciale — sticla este prinsă cu 
 
 ### Profil aluminiu minim (structura tip slot)
 
-Profil de aluminiu cu slot de 10 mm în care sticla se introduce direct. Vizual: o linie subțire de aluminiu la perimetru, sticla în prim-plan.
+Profil de [aluminiu](/ro/tamplarie-aluminiu) cu slot de 10 mm în care sticla se introduce direct. Vizual: o linie subțire de aluminiu la perimetru, sticla în prim-plan.
 
 ### Sistem SG (Silicon Structural)
 
@@ -17603,7 +17603,7 @@ Sticla lipită cu silicon structural pe o structură metalică ascunsă. Zero pr
 
 ## De ce Neofort BIZ pentru vitrine și geamuri mari?
 
-Montajul geamurilor agabaritice nu se poate face cu mijloace convenționale. Neofort BIZ dispune de echipament specializat de manipulare cu ventuze (capacitate până la 1.400 kg) și colaborează cu echipe certificate pentru montaj la înălțime și în spații înguste.
+Montajul geamurilor agabaritice nu se poate face cu mijloace convenționale. Neofort BIZ dispune de echipament specializat de manipulare cu ventuze (capacitate până la 1.400 kg) și colaborează cu echipe certificate pentru [montaj](/ro/servicii) la înălțime și în spații înguste.
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
@@ -17628,7 +17628,7 @@ Sticla securizată, la spargere, se fragmentează în granule mici fără muchii
 
       en: `## What are oversized glass panels and who needs them?
 
-The term "oversized" describes any glass panel exceeding standard transport and handling capabilities — in practice, any sheet larger than **2,500 × 3,500 mm** or heavier than **150 kg per panel**.
+The term "oversized" describes any [glass](/en/aluminium-windows) panel exceeding standard transport and [handling](/en/services) capabilities — in practice, any sheet larger than **2,500 × 3,500 mm** or heavier than **150 kg per panel**.
 
 ---
 
@@ -17701,7 +17701,7 @@ Toughened glass, on breakage, fragments into small granules without sharp edges,
 
       de: `## Was sind übergroße Glasscheiben und wer braucht sie?
 
-Übergroße Glasscheiben überschreiten Standardtransport- und Handhabungsmöglichkeiten — in der Praxis jede Scheibe größer als **2.500 × 3.500 mm** oder schwerer als **150 kg pro Panel**.
+Übergroße [Glas](/de/aluminiumfenster)scheiben überschreiten Standardtransport- und [Handhabung](/de/dienstleistungen)smöglichkeiten — in der Praxis jede Scheibe größer als **2.500 × 3.500 mm** oder schwerer als **150 kg pro Panel**.
 
 ---
 
@@ -17758,7 +17758,7 @@ Vorgespanntes Glas zerfällt beim Bruch in kleine Granulate ohne scharfe Kanten,
 
       fr: `## Que sont les panneaux de verre surdimensionnés et qui en a besoin ?
 
-Les panneaux surdimensionnés dépassent les capacités de transport et de manutention standard — en pratique, toute feuille supérieure à **2.500 × 3.500 mm** ou plus lourde que **150 kg par panneau**.
+Les [panneaux surdimensionnés](/fr/menuiserie-aluminium) dépassent les capacités de transport et de [manutention](/fr/services) standard — en pratique, toute feuille supérieure à **2.500 × 3.500 mm** ou plus lourde que **150 kg par panneau**.
 
 ---
 
@@ -17811,7 +17811,7 @@ Le verre trempé, à la casse, se fragmente en petits granules sans arêtes vive
 
       es: `## ¿Qué son los paneles de vidrio sobredimensionados y quién los necesita?
 
-Los paneles sobredimensionados superan las capacidades estándar de transporte y manipulación — en la práctica, cualquier hoja mayor de **2.500 × 3.500 mm** o más pesada de **150 kg por panel**.
+Los [paneles sobredimensionados](/es/carpinteria-aluminio) superan las capacidades estándar de transporte y [manipulación](/es/servicios) — en la práctica, cualquier hoja mayor de **2.500 × 3.500 mm** o más pesada de **150 kg por panel**.
 
 ---
 
@@ -17864,7 +17864,7 @@ El vidrio templado, al romperse, se fragmenta en gránulos pequeños sin aristas
 
       it: `## Cosa sono i pannelli di vetro sovradimensionati e chi ne ha bisogno?
 
-I pannelli sovradimensionati superano le capacità di trasporto e movimentazione standard — in pratica, qualsiasi lastra più grande di **2.500 × 3.500 mm** o più pesante di **150 kg per pannello**.
+I [pannelli sovradimensionati](/it/infissi-alluminio) superano le capacità di trasporto e [movimentazione](/it/servizi) standard — in pratica, qualsiasi lastra più grande di **2.500 × 3.500 mm** o più pesante di **150 kg per pannello**.
 
 ---
 
@@ -18011,7 +18011,7 @@ O ventuză industrială de 200mm diametru la 0,85 bar vid generează o forță d
 
 ### Sistemul TGT RoboCrane — echipamentul pe care îl folosim
 
-**TGT RoboCrane 1400** este sistemul de referință european pentru montaj sticlă agabarită:
+**TGT RoboCrane 1400** este sistemul de referință european pentru [montaj](/ro/servicii) sticlă agabarită:
 
 - **Capacitate maximă:** 1.400 kg per panou
 - **Înălțime de lucru:** până la 10 m
@@ -18060,7 +18060,7 @@ Operatorul cu telecomanda ridică panoului, îl roteaze dacă e necesar (ex: pan
 
 ### Etapa 6 — Fixarea definitivă
 
-Odată panou pozițional corect, echipa fixează elementele de prindere (bolțuri spider, profil aluminiu, silicon structural). Robotul menține panoului susținut până la întărirea silicone (minimum 30 minute).
+Odată panou pozițional corect, echipa fixează elementele de prindere (bolțuri spider, profil [aluminiu](/ro/tamplarie-aluminiu), silicon structural). Robotul menține panoului susținut până la întărirea silicone (minimum 30 minute).
 
 ---
 
@@ -18126,7 +18126,7 @@ Montajul panourilor de mari dimensiuni necesită o precizie ridicată — eroril
 
       en: `## Why large glass cannot be installed manually
 
-A 3×4 m tempered glass panel at 12 mm thickness weighs **360 kg**. Manual handling without specialised equipment risks breakage and serious accidents. The vacuum cup robot allows millimetre-precise positioning of panels up to 1,400 kg.
+A 3×4 m tempered [glass](/en/aluminium-windows) panel at 12 mm thickness weighs **360 kg**. Manual handling without specialised equipment risks breakage and serious accidents. The vacuum cup [robot](/en/services) allows millimetre-precise positioning of panels up to 1,400 kg.
 
 ---
 
@@ -18192,7 +18192,7 @@ Fitting large panels requires high precision — positioning errors of 2-3 mm de
 
       de: `## Warum Großglas nicht manuell montiert werden kann
 
-Eine 3×4 m ESG-Scheibe mit 12 mm Dicke wiegt **360 kg**. Manuelle Handhabung ohne Spezialausrüstung riskiert Bruch und schwere Unfälle. Der Vakuum-Saugnapf-Roboter ermöglicht millimetergenaue Positionierung von Scheiben bis 1.400 kg.
+Eine 3×4 m [ESG](/de/aluminiumfenster)-Scheibe mit 12 mm Dicke wiegt **360 kg**. Manuelle Handhabung ohne Spezialausrüstung riskiert Bruch und schwere Unfälle. Der Vakuum-Saugnapf-[Roboter](/de/dienstleistungen) ermöglicht millimetergenaue Positionierung von Scheiben bis 1.400 kg.
 
 ---
 
@@ -18250,7 +18250,7 @@ Der Einbau großer Paneele erfordert hohe Präzision — Positionierungsfehler v
 
       fr: `## Pourquoi le grand verre ne peut pas être posé manuellement
 
-Un panneau ESG 3×4 m de 12 mm pèse **360 kg**. La manutention manuelle sans équipement spécialisé risque la casse et de graves accidents. Le robot à ventouses permet un positionnement au millimètre près de panneaux jusqu'à 1.400 kg.
+Un [panneau](/fr/menuiserie-aluminium) ESG 3×4 m de 12 mm pèse **360 kg**. La manutention manuelle sans équipement spécialisé risque la casse et de graves accidents. Le [robot](/fr/services) à ventouses permet un positionnement au millimètre près de panneaux jusqu'à 1.400 kg.
 
 ---
 
@@ -18308,7 +18308,7 @@ La pose de grands panneaux nécessite une haute précision — des erreurs de po
 
       es: `## Por qué el vidrio grande no se puede instalar manualmente
 
-Un panel ESG de 3×4 m y 12 mm de grosor pesa **360 kg**. La manipulación manual sin equipo especializado arriesga la rotura y accidentes graves. El robot de ventosas permite el posicionamiento milimétrico de paneles de hasta 1.400 kg.
+Un [panel](/es/carpinteria-aluminio) ESG de 3×4 m y 12 mm de grosor pesa **360 kg**. La manipulación manual sin equipo especializado arriesga la rotura y accidentes graves. El [robot](/es/servicios) de ventosas permite el posicionamiento milimétrico de paneles de hasta 1.400 kg.
 
 ---
 
@@ -18365,7 +18365,7 @@ El montaje de paneles grandes requiere alta precisión — errores de posicionam
 
       it: `## Perché il vetro grande non può essere installato manualmente
 
-Un pannello ESG 3×4 m da 12 mm pesa **360 kg**. La movimentazione manuale senza attrezzatura specializzata rischia la rottura e gravi incidenti. Il robot con ventose permette il posizionamento millimetrico di pannelli fino a 1.400 kg.
+Un [pannello](/it/infissi-alluminio) ESG 3×4 m da 12 mm pesa **360 kg**. La movimentazione manuale senza attrezzatura specializzata rischia la rottura e gravi incidenti. Il [robot](/it/servizi) con ventose permette il posizionamento millimetrico di pannelli fino a 1.400 kg.
 
 ---
 
@@ -18486,7 +18486,7 @@ Il montaggio di grandi pannelli richiede alta precisione — errori di posiziona
     content: {
       ro: `## Portofoliu Neofort BIZ — lucrări finalizate București 2025–2026
 
-Neofort BIZ este furnizor și coordonator de montaj pentru tâmplărie aluminiu, pereți cortină și fațade din sticlă în București și Ilfov. Fiecare proiect prezentat mai jos a fost livrat integral de echipa noastră, de la măsurători și documentație până la montaj și recepție.
+Neofort BIZ este furnizor și coordonator de [montaj](/ro/servicii) pentru [tâmplărie aluminiu](/ro/tamplarie-aluminiu), pereți cortină și fațade din sticlă în București și Ilfov. Fiecare proiect prezentat mai jos a fost livrat integral de echipa noastră, de la măsurători și documentație până la montaj și recepție.
 
 ---
 
@@ -18623,7 +18623,7 @@ Delivered: Reynaers CS 77 tilt-and-turn windows for all apartments (double Low-E
 
 **System:** Alumil CW50 + Alumil Smartia S67 | **Facade area:** ~1,200 m² | **Completed:** 2025
 
-Delivered: Alumil CW50 standard curtain wall on south and west facades, reflective Low-E double glazing 6+16+6 (g = 0.27), Alumil Smartia S67 windows on north and east facades. BREEAM Very Good Uw: 1.3 W/m²K.
+Delivered: Alumil CW50 standard [curtain wall](/en/services) on south and west facades, reflective Low-E double glazing 6+16+6 (g = 0.27), Alumil Smartia S67 windows on north and east facades. BREEAM Very Good Uw: 1.3 W/m²K.
 
 ---
 
@@ -18631,7 +18631,7 @@ Delivered: Alumil CW50 standard curtain wall on south and west facades, reflecti
 
 **System:** Alumil + ACM panels (Alucobond) | **Area:** ~600 m² | **Completed:** 2024
 
-Delivered: Alumil extruded aluminium load-bearing structure, 15 cm basalt wool thermal insulation, Alucobond 4mm exterior cladding (brushed silver), Alumil Smartia S67 complementary joinery.
+Delivered: Alumil extruded [aluminium](/en/aluminium-windows) load-bearing structure, 15 cm basalt wool thermal insulation, Alucobond 4mm exterior cladding (brushed silver), Alumil Smartia S67 complementary joinery.
 
 ---
 
@@ -18683,7 +18683,7 @@ Geliefert: Reynaers CS 77 Dreh-Kipp-Fenster, ConceptPatio Hebeschiebetüren, Hau
 ## Projekt 2 — Bürogebäude, Floreasca–Barbu Văcărescu
 **System:** Alumil CW50 + Smartia S67 | **Fassadenfläche:** ~1.200 m² | **Fertiggestellt:** 2025
 
-Alumil CW50 Vorhangfassade, Reflexions-Isolierglas 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
+Alumil CW50 [Vorhangfassade](/de/aluminiumfenster), Reflexions-Isolierglas 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
 
 ---
 
@@ -18731,14 +18731,14 @@ Aluminiumprofile können elektrostatisch in jeder RAL-Farbe beschichtet werden. 
 ---
 
 ## Projet 1 — Immeuble résidentiel neuf, Delea Veche, Secteur 2
-**Système :** Reynaers CS 77 | **Surface totale :** ~800 m² | **Achevé :** 2025
+**Système :** [Reynaers](/fr/services) CS 77 | **Surface totale :** ~800 m² | **Achevé :** 2025
 
 Livré : fenêtres oscillo-battantes Reynaers CS 77 pour tous les appartements (double Low-E 4+16+4 argon), portes levant-coulissantes ConceptPatio, porte d'entrée avec contrôle d'accès. RAL 7016 anthracite extérieur.
 
 ---
 
 ## Projet 2 — Bâtiment de bureaux, zone Floreasca–Barbu Văcărescu
-**Système :** Alumil CW50 + Smartia S67 | **Surface façade :** ~1.200 m² | **Achevé :** 2025
+**Système :** Alumil CW50 + Smartia S67 | **Surface [façade](/fr/menuiserie-aluminium) :** ~1.200 m² | **Achevé :** 2025
 
 Mur rideau Alumil CW50, vitrage réfléchissant Low-E 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
 
@@ -18788,14 +18788,14 @@ La menuiserie aluminium peut être thermolaquée dans toute couleur RAL. Sur les
 ---
 
 ## Proyecto 1 — Bloque residencial nuevo, Delea Veche, Sector 2
-**Sistema:** Reynaers CS 77 | **Superficie total:** ~800 m² | **Completado:** 2025
+**Sistema:** [Reynaers](/es/servicios) CS 77 | **Superficie total:** ~800 m² | **Completado:** 2025
 
 Entregado: ventanas oscilobatientes Reynaers CS 77 para todos los apartamentos (doble Low-E 4+16+4 argón), puertas elevadoras-correderas ConceptPatio, puerta de entrada con control de acceso. RAL 7016 antracita exterior.
 
 ---
 
 ## Proyecto 2 — Edificio de oficinas, zona Floreasca–Barbu Văcărescu
-**Sistema:** Alumil CW50 + Smartia S67 | **Superficie fachada:** ~1.200 m² | **Completado:** 2025
+**Sistema:** Alumil CW50 + Smartia S67 | **Superficie [fachada](/es/carpinteria-aluminio):** ~1.200 m² | **Completado:** 2025
 
 Muro cortina Alumil CW50, vidrio reflectante Low-E 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
 
@@ -18838,14 +18838,14 @@ La carpintería de aluminio puede lacarse electrostáticamente en cualquier colo
 ---
 
 ## Progetto 1 — Nuovo condominio, Delea Veche, Settore 2
-**Sistema:** Reynaers CS 77 | **Superficie totale:** ~800 m² | **Completato:** 2025
+**Sistema:** [Reynaers](/it/servizi) CS 77 | **Superficie totale:** ~800 m² | **Completato:** 2025
 
 Consegnato: finestre ribaltabili Reynaers CS 77 per tutti gli appartamenti (doppio Low-E 4+16+4 argon), porte alzanti-scorrevoli ConceptPatio, porta di ingresso con controllo accessi. RAL 7016 antracite esterno.
 
 ---
 
 ## Progetto 2 — Edificio per uffici, zona Floreasca–Barbu Văcărescu
-**Sistema:** Alumil CW50 + Smartia S67 | **Superficie facciata:** ~1.200 m² | **Completato:** 2025
+**Sistema:** Alumil CW50 + Smartia S67 | **Superficie [facciata](/it/infissi-alluminio):** ~1.200 m² | **Completato:** 2025
 
 Parete cortina Alumil CW50, vetro riflettente Low-E 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
 
@@ -18950,7 +18950,7 @@ I serramenti in alluminio possono essere verniciati elettrostaticamente in quals
     content: {
       ro: `## Întrebarea pe care o primim cel mai des: blackout sau transparent?
 
-Aproape fiecare client care comandă un rulou Zipscreen în București pune aceeași întrebare: **„Ce e mai bine — blackout sau transparent?"**
+Aproape fiecare client care comandă un rulou [Zipscreen](/ro/umbrire) în București pune aceeași întrebare: **„Ce e mai bine — blackout sau transparent?"**
 
 Răspunsul corect depinde de trei factori: **orientarea ferestrei sau terasei**, **scopul principal** (umbrire vs. intimitate vs. confort vizual) și **contextul urbanistic** (stradă, vecini, curtea privată).
 
@@ -18960,7 +18960,7 @@ Acest ghid îți explică exact ce înseamnă fiecare opțiune și cum alegi cor
 
 ## Înțelegerea „procentului de deschidere" — ce înseamnă 1%, 3%, 5%, 10%
 
-**Procentul de deschidere** (openness factor) reprezintă proporția de goluri din țesătura screen față de suprafața totală. Un procent mai mic = material mai dens = mai puțină lumină și vizibilitate.
+**Procentul de deschidere** (openness factor) reprezintă proporția de goluri din țesătura [screen](/ro/accesorii) față de suprafața totală. Un procent mai mic = material mai dens = mai puțină lumină și vizibilitate.
 
 | Tip țesătură | Deschidere | Filtrare UV | Vizibilitate din interior | Vizibilitate din exterior (zi) |
 |---|---|---|---|---|
@@ -19105,7 +19105,7 @@ Pentru intimitate maximă alege blackout (opac, 0% deschidere) — oferă întun
 
       en: `## The question we get most often: blackout or transparent?
 
-Almost every customer ordering a Zipscreen blind in Bucharest asks the same question: **"What\'s better — blackout or transparent?"**
+Almost every customer ordering a [Zipscreen](/en/shading-systems) blind in Bucharest asks the same question: **"What's better — blackout or [transparent](/en/accessories)?"**
 
 The correct answer depends on three factors: **window or terrace orientation**, **primary purpose** (shading vs. privacy vs. visual comfort) and **urban context** (street, neighbours, private garden).
 
@@ -19179,7 +19179,7 @@ For maximum privacy choose blackout (opaque, 0% openness) — it gives total dar
 
       de: `## Die häufigste Frage: Blackout oder transparent?
 
-Fast jeder Kunde, der ein Zipscreen-Rollo in Bukarest bestellt, stellt dieselbe Frage. Die richtige Antwort hängt von drei Faktoren ab: **Ausrichtung**, **Hauptzweck** und **städtischer Kontext**.
+Fast jeder Kunde, der ein [Zipscreen](/de/beschattungssysteme)-Rollo in Bukarest bestellt, stellt dieselbe Frage. Die richtige Antwort hängt von drei Faktoren ab: **Ausrichtung**, **Hauptzweck** und **städtischer Kontext**.
 
 ---
 
@@ -19197,7 +19197,7 @@ Fast jeder Kunde, der ein Zipscreen-Rollo in Bukarest bestellt, stellt dieselbe 
 
 **Süd/West:** 1–3% halblichtdurchlässig oder Blackout, helle Farben — reflektiert bis 70% der Sonnenstrahlung.
 
-**Ost:** 5% transparent — Morgensonne ist weniger thermisch aggressiv.
+**Ost:** 5% [transparent](/de/zubehoer) — Morgensonne ist weniger thermisch aggressiv.
 
 **Nord:** 5–10% transparent — kein direktes Sonnenlicht, maximales Tageslicht.
 
@@ -19248,13 +19248,13 @@ Für maximale Privatsphäre wählen Sie Blackout (opak, 0% Öffnung) — es gibt
 
       fr: `## La question la plus fréquente : occultant ou transparent ?
 
-Presque tous les clients qui commandent un store Zipscreen à Bucarest posent la même question. La bonne réponse dépend de trois facteurs : **l\'orientation**, **l\'objectif principal** et **le contexte urbain**.
+Presque tous les clients qui commandent un store [Zipscreen](/fr/systemes-occultation) à Bucarest posent la même question. La bonne réponse dépend de trois facteurs : **l'orientation**, **l'objectif principal** et **le contexte urbain**.
 
 ---
 
-## Facteur d\'ouverture — ce que signifient 1%, 3%, 5%, 10%
+## Facteur d'ouverture — ce que signifient 1%, 3%, 5%, 10%
 
-| Type de toile | Ouverture | Filtration UV | Visibilité de l\'intérieur | Visibilité de l\'extérieur (jour) |
+| Type de toile | Ouverture | Filtration UV | Visibilité de l'intérieur | Visibilité de l'extérieur (jour) |
 |---|---|---|---|---|
 | Transparente | 5–10% | 90–95% | Excellente | Réduite (effet miroir) |
 | Semi-opaque | 1–3% | 97–99% | Bonne à réduite | Très réduite |
@@ -19262,13 +19262,13 @@ Presque tous les clients qui commandent un store Zipscreen à Bucarest posent la
 
 ---
 
-## Règle d\'orientation
+## Règle d'orientation
 
-**Sud/Ouest :** 1–3% semi-opaque ou 0% occultant, couleurs claires — réfléchit jusqu\'à 70% du rayonnement.
+**Sud/Ouest :** 1–3% semi-opaque ou 0% occultant, couleurs claires — réfléchit jusqu'à 70% du rayonnement.
 
-**Est :** 5% transparent — soleil matinal moins agressif thermiquement.
+**Est :** 5% [transparent](/fr/accessoires) — soleil matinal moins agressif thermiquement.
 
-**Nord :** 5–10% transparent — pas d\'ensoleillement direct, maximiser la lumière naturelle.
+**Nord :** 5–10% transparent — pas d'ensoleillement direct, maximiser la lumière naturelle.
 
 ---
 
@@ -19280,7 +19280,7 @@ Presque tous les clients qui commandent un store Zipscreen à Bucarest posent la
 | Terrasse est, belle vue | 5% transparent |
 | Chambre sur rue animée | 0% occultant |
 | Salon, grande baie vitrée jardin | 5% transparent |
-| Bureau à domicile, écran d\'ordinateur | 3% couleur moyenne |
+| Bureau à domicile, écran d'ordinateur | 3% couleur moyenne |
 
 ---
 
@@ -19317,7 +19317,7 @@ Pour une intimité maximale, choisissez le blackout (opaque, 0% d'ouverture) —
 
       es: `## La pregunta más frecuente: ¿blackout o transparente?
 
-Casi todos los clientes que piden una persiana Zipscreen en Bucarest hacen la misma pregunta. La respuesta correcta depende de tres factores: **orientación**, **objetivo principal** y **contexto urbano**.
+Casi todos los clientes que piden una persiana [Zipscreen](/es/sistemas-sombreado) en Bucarest hacen la misma pregunta. La respuesta correcta depende de tres factores: **orientación**, **objetivo principal** y **contexto urbano**.
 
 ---
 
@@ -19335,7 +19335,7 @@ Casi todos los clientes que piden una persiana Zipscreen en Bucarest hacen la mi
 
 **Sur/Oeste:** 1–3% semiopaco o 0% blackout, colores claros — refleja hasta el 70% de la radiación.
 
-**Este:** 5% transparente — sol matutino menos agresivo térmicamente.
+**Este:** 5% [transparente](/es/accesorios) — sol matutino menos agresivo térmicamente.
 
 **Norte:** 5–10% transparente — sin incidencia solar directa, maximizar luz natural.
 
@@ -19386,13 +19386,13 @@ Para máxima intimidad elige blackout (opaco, 0% de apertura) — da oscuridad t
 
       it: `## La domanda più frequente: oscurante o trasparente?
 
-Quasi tutti i clienti che ordinano una tenda Zipscreen a Bucarest fanno la stessa domanda. La risposta giusta dipende da tre fattori: **orientamento**, **scopo principale** e **contesto urbano**.
+Quasi tutti i clienti che ordinano una tenda [Zipscreen](/it/sistemi-oscuramento) a Bucarest fanno la stessa domanda. La risposta giusta dipende da tre fattori: **orientamento**, **scopo principale** e **contesto urbano**.
 
 ---
 
 ## Fattore di apertura — cosa significano 1%, 3%, 5%, 10%
 
-| Tipo di tessuto | Apertura | Filtrazione UV | Visibilità dall\'interno | Visibilità dall\'esterno (giorno) |
+| Tipo di tessuto | Apertura | Filtrazione UV | Visibilità dall'interno | Visibilità dall'esterno (giorno) |
 |---|---|---|---|---|
 | Trasparente | 5–10% | 90–95% | Eccellente | Ridotta (effetto specchio) |
 | Semi-opaco | 1–3% | 97–99% | Buona a ridotta | Molto ridotta |
@@ -19400,11 +19400,11 @@ Quasi tutti i clienti che ordinano una tenda Zipscreen a Bucarest fanno la stess
 
 ---
 
-## Regola dell\'orientamento
+## Regola dell'orientamento
 
 **Sud/Ovest:** 1–3% semi-opaco o 0% oscurante, colori chiari — riflette fino al 70% della radiazione.
 
-**Est:** 5% trasparente — sole mattutino meno aggressivo termicamente.
+**Est:** 5% [trasparente](/it/accessori) — sole mattutino meno aggressivo termicamente.
 
 **Nord:** 5–10% trasparente — nessuna incidenza solare diretta, massimizzare la luce naturale.
 
@@ -19521,7 +19521,7 @@ Per la massima privacy scegli il blackout (opaco, 0% di apertura) — dà buio t
 
 Bucureștiul are una din cele mai provocatoare climate pentru tâmplărie din Europa: **−15°C iarna** și **+38°C vara** — o diferență de 53°C pe parcursul anului. Ferestrele ineficiente pierd 25–35% din energia de încălzire iarna și permit intrarea a 40–60% din căldura solară vara.
 
-Un studiu al INCERC (Institutul Național de Cercetare în Construcții) arată că înlocuirea ferestrelor vechi cu tâmplărie nZEB reduce consumul energetic al unui apartament mediu din București cu **35–55%**.
+Un studiu al INCERC (Institutul Național de Cercetare în Construcții) arată că înlocuirea ferestrelor vechi cu tâmplărie [nZEB](/ro/sisteme-nzeb) reduce consumul energetic al unui apartament mediu din București cu **35–55%**.
 
 ---
 
@@ -19559,7 +19559,7 @@ Din **2021**, toate construcțiile noi autorizate în România trebuie să respe
 - Uw = **0,73 W/m²K** cu geam dublu Low-E
 - Certificat nZEB ✅
 
-**Când alegi BluEvolution 92 vs GreenEvolution 76?**
+**Când alegi [BluEvolution 92](/ro/tamplarie-pvc) vs GreenEvolution 76?**
 - **Renovare apartament bloc, buget echilibrat:** GreenEvolution 76 — suficient pentru nZEB, cost mai mic
 - **Casă nouă, penthouse, ultimul etaj:** BluEvolution 92 — performanță maximă, durată de viață mai lungă
 - **Export, zone montane, condiții extreme:** BluEvolution 92 cu geam triplu — singura alegere corectă
@@ -19666,7 +19666,7 @@ Un studiu INCERC arată că înlocuirea ferestrelor vechi cu tâmplărie nZEB re
 
       en: `## Why does window choice matter so much in Bucharest?
 
-Bucharest has one of Europe's most demanding climates: **−15°C in winter** and **+38°C in summer** — a 53°C annual swing. Inefficient windows lose 25–35% of heating energy in winter and allow 40–60% of solar heat in summer. Replacing old windows with nZEB joinery reduces energy consumption in an average Bucharest apartment by **35–55%**.
+Bucharest has one of Europe's most demanding climates: **−15°C in winter** and **+38°C in summer** — a 53°C annual swing. Inefficient windows lose 25–35% of heating energy in winter and allow 40–60% of solar heat in summer. Replacing old windows with [nZEB](/en/nzeb-systems) joinery reduces energy consumption in an average Bucharest apartment by **35–55%**.
 
 ---
 
@@ -19685,7 +19685,7 @@ Bucharest has one of Europe's most demanding climates: **−15°C in winter** an
 
 ## Step 2: nZEB profiles available from Neofort BIZ
 
-**Salamander BluEvolution 92:** 6 chambers, 92mm depth, Uw = 0.70 W/m²K (double Low-E), 0.55 W/m²K (triple Low-E). nZEB ✅ Passive House ✅
+**Salamander [BluEvolution 92](/en/pvc-windows):** 6 chambers, 92mm depth, Uw = 0.70 W/m²K (double Low-E), 0.55 W/m²K (triple Low-E). nZEB ✅ Passive House ✅
 
 **Salamander GreenEvolution 76:** 5 chambers, 76mm depth, Uw = 0.73 W/m²K (double Low-E). nZEB ✅
 
@@ -19767,7 +19767,7 @@ Bukarest hat eines der anspruchsvollsten Klimata Europas: **−15°C im Winter**
 
 ## Schritt 2: nZEB-Profile bei Neofort BIZ
 
-**Salamander BluEvolution 92:** 6 Kammern, 92mm, Uw = 0,70 W/m²K (Zweifach-Low-E). nZEB ✅ Passivhaus ✅
+**Salamander [BluEvolution 92](/de/kunststofffenster-pvc):** 6 Kammern, 92mm, Uw = 0,70 W/m²K (Zweifach-Low-E). nZEB ✅ [Passivhaus](/de/nzeb-systeme) ✅
 
 **Salamander GreenEvolution 76:** 5 Kammern, 76mm, Uw = 0,73 W/m²K. nZEB ✅
 
@@ -19816,7 +19816,7 @@ Eine INCERC-Studie zeigt, dass der Austausch alter Fenster gegen nZEB-Fenster de
 
       fr: `## Pourquoi le choix des fenêtres est-il si important à Bucarest ?
 
-Bucarest connaît l'un des climats les plus exigeants d\'Europe : **−15°C en hiver** et **+38°C en été** — une variation annuelle de 53°C. Remplacer les anciennes fenêtres par une menuiserie nZEB réduit la consommation énergétique d\'un appartement moyen à Bucarest de **35 à 55%**.
+Bucarest connaît l'un des climats les plus exigeants d'Europe : **−15°C en hiver** et **+38°C en été** — une variation annuelle de 53°C. Remplacer les anciennes fenêtres par une menuiserie [nZEB](/fr/systemes-nzeb) réduit la consommation énergétique d'un appartement moyen à Bucarest de **35 à 55%**.
 
 ---
 
@@ -19824,7 +19824,7 @@ Bucarest connaît l'un des climats les plus exigeants d\'Europe : **−15°C en 
 
 | Norme | Uw | Contexte |
 |---|---|---|
-| Anciennes fenêtres (avant 2005) | 3,0–4,5 W/m²K | À remplacer d\'urgence |
+| Anciennes fenêtres (avant 2005) | 3,0–4,5 W/m²K | À remplacer d'urgence |
 | Minimum actuel | 1,1–1,4 W/m²K | Rénovations budget |
 | **nZEB obligatoire (2021+)** | **≤ 0,73 W/m²K** | **Constructions neuves Bucarest** |
 | Maison passive | ≤ 0,60 W/m²K | Maisons passives certifiées |
@@ -19833,7 +19833,7 @@ Bucarest connaît l'un des climats les plus exigeants d\'Europe : **−15°C en 
 
 ## Étape 2 : Profils nZEB disponibles chez Neofort BIZ
 
-**Salamander BluEvolution 92 :** 6 chambres, 92mm, Uw = 0,70 W/m²K (double Low-E). nZEB ✅ Maison passive ✅
+**Salamander [BluEvolution 92](/fr/menuiserie-pvc) :** 6 chambres, 92mm, Uw = 0,70 W/m²K (double Low-E). nZEB ✅ Maison passive ✅
 
 **Salamander GreenEvolution 76 :** 5 chambres, 76mm, Uw = 0,73 W/m²K. nZEB ✅
 
@@ -19843,7 +19843,7 @@ Bucarest connaît l'un des climats les plus exigeants d\'Europe : **−15°C en 
 
 - **Précadres Blaugelb Triotherm+** — élimine 30–40% du pont thermique à la jonction
 - **Ruban butyle précomprimé** — étanchéité contre pluie/vent
-- **Mousse PU à cellules fermées** — résistante à l\'humidité 30+ ans
+- **Mousse PU à cellules fermées** — résistante à l'humidité 30+ ans
 - **Espaceur Warm Edge** — élimine la condensation marginale, réduit Uw de 0,1–0,2 W/m²K
 
 ---
@@ -19882,7 +19882,7 @@ Une étude INCERC montre que remplacer les vieilles fenêtres par des menuiserie
 
       es: `## ¿Por qué importa tanto la elección de ventanas en Bucarest?
 
-Bucarest tiene uno de los climas más exigentes de Europa: **−15°C en invierno** y **+38°C en verano** — una variación anual de 53°C. Reemplazar ventanas antiguas por carpintería nZEB reduce el consumo energético de un apartamento medio en Bucarest entre un **35 y 55%**.
+Bucarest tiene uno de los climas más exigentes de Europa: **−15°C en invierno** y **+38°C en verano** — una variación anual de 53°C. Reemplazar ventanas antiguas por carpintería [nZEB](/es/sistemas-nzeb) reduce el consumo energético de un apartamento medio en Bucarest entre un **35 y 55%**.
 
 ---
 
@@ -19899,7 +19899,7 @@ Bucarest tiene uno de los climas más exigentes de Europa: **−15°C en inviern
 
 ## Paso 2: Perfiles nZEB disponibles en Neofort BIZ
 
-**Salamander BluEvolution 92:** 6 cámaras, 92mm, Uw = 0,70 W/m²K (doble Low-E). nZEB ✅ Casa Pasiva ✅
+**Salamander [BluEvolution 92](/es/carpinteria-pvc):** 6 cámaras, 92mm, Uw = 0,70 W/m²K (doble Low-E). nZEB ✅ Casa Pasiva ✅
 
 **Salamander GreenEvolution 76:** 5 cámaras, 76mm, Uw = 0,73 W/m²K. nZEB ✅
 
@@ -19948,11 +19948,11 @@ Un estudio INCERC muestra que sustituir ventanas viejas por carpintería nZEB re
 
       it: `## Perché la scelta delle finestre è così importante a Bucarest?
 
-Bucarest ha uno dei climi più impegnativi d\'Europa: **−15°C in inverno** e **+38°C in estate** — una variazione annuale di 53°C. Sostituire le vecchie finestre con infissi nZEB riduce il consumo energetico di un appartamento medio a Bucarest del **35–55%**.
+Bucarest ha uno dei climi più impegnativi d'Europa: **−15°C in inverno** e **+38°C in estate** — una variazione annuale di 53°C. Sostituire le vecchie finestre con infissi [nZEB](/it/sistemi-nzeb) riduce il consumo energetico di un appartamento medio a Bucarest del **35–55%**.
 
 ---
 
-## Passo 1: Il coefficiente Uw — l\'unico numero che conta davvero
+## Passo 1: Il coefficiente Uw — l'unico numero che conta davvero
 
 | Standard | Uw | Contesto |
 |---|---|---|
@@ -19965,7 +19965,7 @@ Bucarest ha uno dei climi più impegnativi d\'Europa: **−15°C in inverno** e 
 
 ## Passo 2: Profili nZEB disponibili da Neofort BIZ
 
-**Salamander BluEvolution 92:** 6 camere, 92mm, Uw = 0,70 W/m²K (doppio Low-E). nZEB ✅ Casa Passiva ✅
+**Salamander [BluEvolution 92](/it/infissi-pvc):** 6 camere, 92mm, Uw = 0,70 W/m²K (doppio Low-E). nZEB ✅ Casa Passiva ✅
 
 **Salamander GreenEvolution 76:** 5 camere, 76mm, Uw = 0,73 W/m²K. nZEB ✅
 
@@ -19975,7 +19975,7 @@ Bucarest ha uno dei climi più impegnativi d\'Europa: **−15°C in inverno** e 
 
 - **Precontrotelaio Blaugelb Triotherm+** — elimina il 30–40% del ponte termico alla giunzione
 - **Nastro butilico precompresso** — tenuta contro pioggia/vento
-- **Schiuma PU a cellule chiuse** — resistente all\'umidità 30+ anni
+- **Schiuma PU a cellule chiuse** — resistente all'umidità 30+ anni
 - **Distanziatore Warm Edge** — elimina la condensazione marginale, riduce Uw di 0,1–0,2 W/m²K
 
 ---
@@ -20078,7 +20078,7 @@ Uno studio INCERC mostra che sostituire le vecchie finestre con serramenti nZEB 
     content: {
       ro: `## De ce caută tot mai mulți europeni ferestre Salamander din România?
 
-În 2026, o fereastră Salamander BluEvolution 92 produsă în România costă cu **30–50% mai puțin** față de aceleași profile cumpărate de la furnizori locali din Germania, Austria, Franța sau Italia.
+În 2026, o fereastră Salamander [BluEvolution 92](/ro/tamplarie-pvc) produsă în România costă cu **30–50% mai puțin** față de aceleași profile cumpărate de la furnizori locali din Germania, Austria, Franța sau Italia.
 
 Motivele sunt simple:
 - Costul forței de muncă în România este de 3–4× mai mic față de Europa Occidentală
@@ -20151,7 +20151,7 @@ Tâmplăria este produsă la specificațiile exacte. Ambalarea pentru export inc
 
 ## Prețuri orientative export — Neofort BIZ 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative, valabile martie 2026. Cursul EUR/RON și costurile de transport se pot modifica. Solicitați ofertă actualizată.
+> ⚠️ **Notă importantă:** Prețurile sunt orientative, valabile martie 2026. Cursul EUR/RON și costurile de transport se pot modifica. Solicitați [ofertă](/ro/contact) actualizată.
 
 | Produs | Configurație | Preț estimat FOB București |
 |---|---|---|
@@ -20188,7 +20188,7 @@ Depinde de land și tipul imobilului. Neofort BIZ furnizează toată documentaț
 
       en: `## Why are more and more Europeans buying Salamander windows from Romania?
 
-In 2026, a Salamander BluEvolution 92 window produced in Romania costs **30–50% less** than the same profiles purchased from local suppliers in Germany, Austria, France or Italy.
+In 2026, a Salamander [BluEvolution 92](/en/pvc-windows) window produced in Romania costs **30–50% less** than the same profiles purchased from local suppliers in Germany, Austria, France or Italy.
 
 The reasons are straightforward:
 - Labour costs in Romania are 3–4× lower than in Western Europe
@@ -20204,7 +20204,7 @@ The reasons are straightforward:
 
 ## How export ordering works at Neofort BIZ
 
-**Step 1:** Send us your window dimensions, opening types, colour and destination country → preliminary quote within 24 working hours.
+**Step 1:** Send us your window dimensions, opening types, colour and destination country → preliminary [quote](/en/contact) within 24 working hours.
 
 **Step 2:** Production and export packaging — double protective film, wooden/cardboard frame per piece, complete CE documentation.
 
@@ -20236,7 +20236,7 @@ The reasons are straightforward:
 
       de: `## Warum kaufen immer mehr Europäer Salamander-Fenster aus Rumänien?
 
-Im Jahr 2026 kostet ein in Rumänien hergestelltes Salamander BluEvolution 92 Fenster **30–50% weniger** als dasselbe Profil bei lokalen Anbietern in Deutschland, Österreich, Frankreich oder Italien.
+Im Jahr 2026 kostet ein in Rumänien hergestelltes Salamander [BluEvolution 92](/de/kunststofffenster-pvc) Fenster **30–50% weniger** als dasselbe Profil bei lokalen Anbietern in Deutschland, Österreich, Frankreich oder Italien.
 
 Die Gründe liegen auf der Hand:
 - Die Arbeitskosten in Rumänien sind 3–4× niedriger als in Westeuropa
@@ -20246,7 +20246,7 @@ Die Gründe liegen auf der Hand:
 
 ## So funktioniert die Exportbestellung bei Neofort BIZ
 
-**Schritt 1:** Maße, Öffnungsarten, Farbe und Bestimmungsland senden → vorläufiges Angebot innerhalb von 24 Werktagen.
+**Schritt 1:** Maße, Öffnungsarten, Farbe und Bestimmungsland senden → vorläufiges [Angebot](/de/kontakt) innerhalb von 24 Werktagen.
 
 **Schritt 2:** Produktion und Exportverpackung — doppelte Schutzfolie, Holz-/Kartonrahmen, vollständige CE-Dokumentation.
 
@@ -20278,17 +20278,17 @@ Die Gründe liegen auf der Hand:
 
       fr: `## Pourquoi de plus en plus d'Européens achètent-ils des fenêtres Salamander de Roumanie ?
 
-En 2026, une fenêtre Salamander BluEvolution 92 produite en Roumanie coûte **30 à 50% moins cher** que les mêmes profils achetés chez des fournisseurs locaux en Allemagne, Autriche, France ou Italie.
+En 2026, une fenêtre Salamander [BluEvolution 92](/fr/menuiserie-pvc) produite en Roumanie coûte **30 à 50% moins cher** que les mêmes profils achetés chez des fournisseurs locaux en Allemagne, Autriche, France ou Italie.
 
 Les raisons sont simples :
-- Les coûts de main-d\'œuvre en Roumanie sont 3 à 4× inférieurs à ceux de l\'Europe occidentale
+- Les coûts de main-d'œuvre en Roumanie sont 3 à 4× inférieurs à ceux de l'Europe occidentale
 - Le **profil Salamander est identique** — produit par la même entreprise allemande (Salamander Industrie-Produkte GmbH, Türkheim, Bavière)
 
 ---
 
 ## Comment fonctionne la commande export chez Neofort BIZ
 
-**Étape 1 :** Envoyez dimensions, types d\'ouverture, couleur et pays de destination → devis préliminaire sous 24 heures ouvrées.
+**Étape 1 :** Envoyez dimensions, types d'ouverture, couleur et pays de destination → [devis](/fr/contact) préliminaire sous 24 heures ouvrées.
 
 **Étape 2 :** Production et emballage export — double film protecteur, cadre bois/carton, documentation CE complète.
 
@@ -20298,7 +20298,7 @@ Les raisons sont simples :
 
 ## Documents inclus dans la livraison export
 
-✅ Déclaration de performance CE (obligatoire dans l\'UE)
+✅ Déclaration de performance CE (obligatoire dans l'UE)
 ✅ Fiches techniques profil Salamander
 ✅ Facture avec TVA 0% pour opérateurs intracommunautaires
 ✅ CMR document de transport international
@@ -20320,7 +20320,7 @@ Les raisons sont simples :
 
       es: `## ¿Por qué cada vez más europeos compran ventanas Salamander de Rumanía?
 
-En 2026, una ventana Salamander BluEvolution 92 producida en Rumanía cuesta un **30–50% menos** que los mismos perfiles comprados a proveedores locales en Alemania, Austria, Francia o Italia.
+En 2026, una ventana Salamander [BluEvolution 92](/es/carpinteria-pvc) producida en Rumanía cuesta un **30–50% menos** que los mismos perfiles comprados a proveedores locales en Alemania, Austria, Francia o Italia.
 
 Las razones son simples:
 - Los costes laborales en Rumanía son 3–4× inferiores a los de Europa Occidental
@@ -20330,7 +20330,7 @@ Las razones son simples:
 
 ## Cómo funciona el pedido de exportación en Neofort BIZ
 
-**Paso 1:** Envíe dimensiones, tipos de apertura, color y país de destino → presupuesto preliminar en 24 horas laborables.
+**Paso 1:** Envíe dimensiones, tipos de apertura, color y país de destino → [presupuesto](/es/contacto) preliminar en 24 horas laborables.
 
 **Paso 2:** Producción y embalaje de exportación — doble film protector, marco de madera/cartón, documentación CE completa.
 
@@ -20362,17 +20362,17 @@ Las razones son simples:
 
       it: `## Perché sempre più europei acquistano finestre Salamander dalla Romania?
 
-Nel 2026, una finestra Salamander BluEvolution 92 prodotta in Romania costa il **30–50% in meno** rispetto agli stessi profili acquistati da fornitori locali in Germania, Austria, Francia o Italia.
+Nel 2026, una finestra Salamander [BluEvolution 92](/it/infissi-pvc) prodotta in Romania costa il **30–50% in meno** rispetto agli stessi profili acquistati da fornitori locali in Germania, Austria, Francia o Italia.
 
 Le ragioni sono semplici:
-- Il costo del lavoro in Romania è 3–4× inferiore rispetto all\'Europa occidentale
+- Il costo del lavoro in Romania è 3–4× inferiore rispetto all'Europa occidentale
 - Il **profilo Salamander è identico** — prodotto dalla stessa azienda tedesca (Salamander Industrie-Produkte GmbH, Türkheim, Baviera)
 
 ---
 
-## Come funziona l\'ordine export da Neofort BIZ
+## Come funziona l'ordine export da Neofort BIZ
 
-**Passo 1:** Inviate dimensioni, tipi di apertura, colore e paese di destinazione → preventivo preliminare entro 24 ore lavorative.
+**Passo 1:** Inviate dimensioni, tipi di apertura, colore e paese di destinazione → [preventivo](/it/contatti) preliminare entro 24 ore lavorative.
 
 **Passo 2:** Produzione e imballaggio export — doppio film protettivo, cornice in legno/cartone, documentazione CE completa.
 
@@ -20382,7 +20382,7 @@ Le ragioni sono semplici:
 
 ## Documenti inclusi nella consegna export
 
-✅ Dichiarazione di prestazione CE (obbligatoria nell\'UE)
+✅ Dichiarazione di prestazione CE (obbligatoria nell'UE)
 ✅ Schede tecniche profilo Salamander
 ✅ Fattura con IVA 0% per operatori intracomunitari
 ✅ CMR documento di trasporto internazionale
@@ -20566,14 +20566,14 @@ Aluminiul se vopsește în orice culoare RAL prin **vopsire electostatică** (du
 | Pivot vilă | 120×280 cm | 4.000–8.000 EUR |
 | Perete cortină cu ușă integrată | Per mp | 400–700 EUR/mp |
 
-*Prețurile includ profil, geam termoizolant, feronerie și montaj profesional. Culori speciale RAL pot adăuga 5–15%.*
+*Prețurile includ profil, geam termoizolant, feronerie și [montaj](/ro/servicii) profesional. Culori speciale RAL pot adăuga 5–15%.*
 
 ---
 
 ## De ce Neofort BIZ pentru uși aluminiu în Sector 1?
 
 - **Sediu în Sector 1** — Str. Theodor Aman Pictor nr. 11, deplasăm echipa rapid
-- **21 ani experiență** în tâmplărie aluminiu și PVC
+- **21 ani experiență** în [tâmplărie aluminiu](/ro/tamplarie-aluminiu) și PVC
 - **Sisteme Alumil Supreme** — nu compromitem cu profile de gamă medie pentru proiecte premium
 - **Montaj cu echipă proprie** — nu subcontractăm montajul
 - **50 recenzii Google, rating 4,9/5**
@@ -20603,7 +20603,7 @@ O ușă batantă din aluminiu cu barieră termică poate ajunge la dimensiuni de
 
 Sector 1 concentrates the highest number of premium villas, luxury residences and office buildings in Bucharest. Requirements match: thermally broken doors, minimalist aesthetics, overheight dimensions and certified anti-burglary systems.
 
-Neofort BIZ supplies and installs Alumil aluminium doors throughout Sector 1, with offices at **11 Theodor Aman Pictor St., Sector 1, Bucharest**.
+Neofort BIZ supplies and [installs](/en/services) Alumil [aluminium doors](/en/aluminium-windows) throughout Sector 1, with offices at **11 Theodor Aman Pictor St., Sector 1, Bucharest**.
 
 ---
 
@@ -20662,7 +20662,7 @@ A hinged aluminium door with a thermal break can reach dimensions up to 120 cm w
 
       de: `## Arten von Aluminiumtüren in Sektor 1 Bukarest
 
-Sektor 1 konzentriert die meisten Premium-Villen, Luxusresidenzen und Bürogebäude in Bukarest. Neofort BIZ liefert und installiert Alumil-Aluminiumtüren im gesamten Sektor 1, mit Büro in der **Str. Theodor Aman Pictor Nr. 11, Sektor 1, Bukarest**.
+Sektor 1 konzentriert die meisten Premium-Villen, Luxusresidenzen und Bürogebäude in Bukarest. [Neofort BIZ](/de/dienstleistungen) liefert und installiert Alumil-[Aluminiumtüren](/de/aluminiumfenster) im gesamten Sektor 1, mit Büro in der **Str. Theodor Aman Pictor Nr. 11, Sektor 1, Bukarest**.
 
 ---
 
@@ -20715,7 +20715,7 @@ Eine Aluminium-Drehtür mit thermischer Trennung kann Maße bis 120 cm Breite un
 
       fr: `## Types de portes en aluminium disponibles dans le Secteur 1 Bucarest
 
-Le Secteur 1 concentre le plus grand nombre de villas premium, de résidences de luxe et de bureaux à Bucarest. Neofort BIZ fournit et installe des portes Alumil dans tout le Secteur 1, avec des bureaux au **11 rue Theodor Aman Pictor, Secteur 1, Bucarest**.
+Le Secteur 1 concentre le plus grand nombre de villas premium, de résidences de luxe et de bureaux à Bucarest. [Neofort BIZ](/fr/services) fournit et installe des portes [Alumil](/fr/menuiserie-aluminium) dans tout le Secteur 1, avec des bureaux au **11 rue Theodor Aman Pictor, Secteur 1, Bucarest**.
 
 ---
 
@@ -20723,11 +20723,11 @@ Le Secteur 1 concentre le plus grand nombre de villas premium, de résidences de
 
 **Portes battantes (rupture de pont thermique) :** Alumil Supreme S77 / Smartia S67. Uw = 1,1–1,4 W/m²K. Anti-effraction RC2 disponible.
 
-**Portes coulissantes :** Alumil Smartia S350 / S700. 2–4 vantaux, jusqu\'à 3m de hauteur.
+**Portes coulissantes :** Alumil Smartia S350 / S700. 2–4 vantaux, jusqu'à 3m de hauteur.
 
-**Portes levantes-coulissantes :** Alumil Supreme S700. Capacité : jusqu\'à **300 kg** par vantail. Ouvertures 3–6m de large. Les plus demandées pour les connexions salon-terrasse dans les villas de Floreasca.
+**Portes levantes-coulissantes :** Alumil Supreme S700. Capacité : jusqu'à **300 kg** par vantail. Ouvertures 3–6m de large. Les plus demandées pour les connexions salon-terrasse dans les villas de Floreasca.
 
-**Portes pivotantes :** pièce architecturale maîtresse, jusqu\'à 3,5m de hauteur. Sur commande exclusivement.
+**Portes pivotantes :** pièce architecturale maîtresse, jusqu'à 3,5m de hauteur. Sur commande exclusivement.
 
 **Murs-rideaux avec portes intégrées :** Alumil CW50/CW60.
 
@@ -20768,7 +20768,7 @@ Une porte battante en aluminium à rupture thermique peut atteindre des dimensio
 
       es: `## Tipos de puertas de aluminio disponibles en el Sector 1 de Bucarest
 
-El Sector 1 concentra el mayor número de villas premium, residencias de lujo y edificios de oficinas de Bucarest. Neofort BIZ suministra e instala puertas Alumil en todo el Sector 1, con oficinas en **C/ Theodor Aman Pictor 11, Sector 1, Bucarest**.
+El Sector 1 concentra el mayor número de villas premium, residencias de lujo y edificios de oficinas de Bucarest. [Neofort BIZ](/es/servicios) suministra e instala puertas [Alumil](/es/carpinteria-aluminio) en todo el Sector 1, con oficinas en **C/ Theodor Aman Pictor 11, Sector 1, Bucarest**.
 
 ---
 
@@ -20821,7 +20821,7 @@ Una puerta abatible de aluminio con rotura térmica puede alcanzar dimensiones d
 
       it: `## Tipi di porte in alluminio disponibili nel Settore 1 di Bucarest
 
-Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e uffici a Bucarest. Neofort BIZ fornisce e installa porte Alumil in tutto il Settore 1, con sede in **Via Theodor Aman Pictor 11, Settore 1, Bucarest**.
+Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e uffici a Bucarest. [Neofort BIZ](/it/servizi) fornisce e installa porte [Alumil](/it/infissi-alluminio) in tutto il Settore 1, con sede in **Via Theodor Aman Pictor 11, Settore 1, Bucarest**.
 
 ---
 
