@@ -2797,7 +2797,26 @@ Neofort BIZ livrează și montează uși din aluminiu Alumil în toată zona Sec
 - [Sistem complet nZEB: Salamander + Blaugelb + geam triplu](/ro/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu)
 - [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026)
 
-Ne## Întrebări frecvente\n\n### Ce sistem de ușă din aluminiu e recomandat pentru o vilă în Sector 1?\nPentru vile premium din Sector 1, sistemul Alumil SF85 Supreme (adâncime 85 mm, rupere de punte termică din poliamidă 34 mm, panou termoizolant 44 mm) cu rezistență antiefracție RC2 standard este soluția recomandată de Neofort BIZ. RC3 e disponibil la cerere pentru intrări cu acces direct din stradă.\n\n### Cât costă o ușă de intrare din aluminiu montată în Sector 1 București?\nÎn 2026, o ușă de intrare rezidențială cu panou plin (Alumil SF85 RC2) costă orientativ 2.800–4.200 lei cu montaj. O ușă premium cu vitrare integrală RC3 ajunge la 5.500–9.000 lei. Prețul final depinde de dimensiuni, culoarea RAL, accesorii și tipul de mecanism.\n\n### De ce contează ruperea de punte termică la ușile din aluminiu?\nInserția de poliamidă de 34 mm separă fizic profilul exterior rece de cel interior cald, reducând transferul termic de la λ = 160 W/mK (aluminiu pur) la circa 0,3 W/mK. Rezultatul practic: nicio picătură de condens pe tocul ușii chiar și la −15°C afară, esențial în vilele bine izolate din Sector 1.\n\nofort BIZ — distribuitor autorizat Alumil în București și Ilfov. [Solicită ofertă ușă aluminiu](/ro/contact).`,
+Ne## Întrebări frecvente\n\n### Ce sistem de ușă din aluminiu e recomandat pentru o vilă în Sector 1?\nPentru vile premium din Sector 1, sistemul Alumil SF85 Supreme (adâncime 85 mm, rupere de punte termică din poliamidă 34 mm, panou termoizolant 44 mm) cu rezistență antiefracție RC2 standard este soluția recomandată de Neofort BIZ. RC3 e disponibil la cerere pentru intrări cu acces direct din stradă.\n\n### Cât costă o ușă de intrare din aluminiu montată în Sector 1 București?\nÎn 2026, o ușă de intrare rezidențială cu panou plin (Alumil SF85 RC2) costă orientativ 2.800–4.200 lei cu montaj. O ușă premium cu vitrare integrală RC3 ajunge la 5.500–9.000 lei. Prețul final depinde de dimensiuni, culoarea RAL, accesorii și tipul de mecanism.\n\n### De ce contează ruperea de punte termică la ușile din aluminiu?\nInserția de poliamidă de 34 mm separă fizic profilul exterior rece de cel interior cald, reducând transferul termic de la λ = 160 W/mK (aluminiu pur) la circa 0,3 W/mK. Rezultatul practic: nicio picătură de condens pe tocul ușii chiar și la −15°C afară, esențial în vilele bine izolate din Sector 1.\n\nofort BIZ — distribuitor autorizat Alumil în București și Ilfov. [Solicită ofertă ușă aluminiu](/ro/contact).
+
+## Întrebări frecvente
+
+### Ce sistem de uși din aluminiu e recomandat pentru o vilă din Sector 1?
+
+Pentru uși de intrare rezidențiale în Sector 1, sistemul Alumil SF85 Supreme are adâncime 85 mm, rupere de punte termică din poliamidă 34 mm, panou termoizolant 44 mm cu miez PU, antiefracție RC2 standard (RC3 la cerere) și geam lateral triplu cu Ug 0,5 W/(m²K).
+
+### Ce înseamnă ruperea de punte termică la o ușă de aluminiu?
+
+Ruperea de punte termică e o inserție de poliamidă de 34 mm care separă fizic profilul exterior rece de cel interior cald, reducând transferul termic de la 160 W/mK (aluminiu pur) la circa 0,3 W/mK. Rezultatul: nicio picătură de condens pe toc, chiar la −15°C afară.
+
+### Ce clasă antiefracție trebuie să aibă o ușă de aluminiu în Sector 1?
+
+RC2 rezistă 3 minute la unelte simple (șurubelnițe, răngi) și e cerința minimă pentru zonele rezidențiale premium. RC3 rezistă 5 minute la unelte electrice și e recomandat pentru vile izolate, parteruri sau intrări cu acces direct din stradă.
+
+### Ce sistem se folosește la ușile de acces comune ale blocurilor din Sector 1?
+
+Alumil M19800 Smartia, compatibil cu sisteme de control acces (cititor card, cod PIN, videointerfon), cu mecanism de închidere automată cu amortizor hidraulic și rezistență antiefracție RC2 certificată — soluția pentru intrările în scări de bloc și ansambluri rezidențiale.
+`,
 
       en: `## Why Sector 1 Bucharest Has Special Requirements for Aluminium Doors
 
@@ -2860,7 +2879,26 @@ The 34 mm polyamide insert physically separates the cold outer profile from the 
 - [Complete nZEB System: Salamander + Blaugelb + Triple Glazing](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing)
 - [Salamander Window Prices Bucharest 2026](/en/blog/salamander-window-prices-bucharest-2026)
 
-Neofort BIZ — authorised Alumil distributor in Bucharest and Ilfov. [Request aluminium door quote](/en/contact).`,
+Neofort BIZ — authorised Alumil distributor in Bucharest and Ilfov. [Request aluminium door quote](/en/contact).
+
+## Frequently Asked Questions
+
+### Which aluminium door system is recommended for a villa in Sector 1?
+
+For residential entrance doors in Sector 1, the Alumil SF85 Supreme system has 85 mm depth, a 34 mm polyamide thermal break, a 44 mm insulated panel with PU core, RC2 anti-burglary as standard (RC3 on request) and a triple side glazing with Ug 0.5 W/(m²K).
+
+### What does a thermal break mean on an aluminium door?
+
+A thermal break is a 34 mm polyamide insert that physically separates the cold outer profile from the warm inner one, cutting heat transfer from 160 W/mK (pure aluminium) to about 0.3 W/mK. The result: no condensation on the frame, even at −15°C outside.
+
+### Which anti-burglary class should an aluminium door have in Sector 1?
+
+RC2 resists 3 minutes against simple tools (screwdrivers, crowbars) and is the minimum for premium residential areas. RC3 resists 5 minutes against power tools and is recommended for detached villas, ground floors or entrances with direct street access.
+
+### Which system is used for the common entrance doors of buildings in Sector 1?
+
+Alumil M19800 Smartia, compatible with access-control systems (card reader, PIN code, video intercom), with an automatic closing mechanism and hydraulic damper and certified RC2 anti-burglary resistance — the solution for stairwell and residential-complex entrances.
+`,
 
       de: `## Warum Sektor 1 Bukarest besondere Anforderungen an Aluminiumtüren stellt
 
@@ -2913,7 +2951,26 @@ Der 34-mm-Polyamideinsatz trennt das kalte Außenprofil physisch vom warmen Inne
 - [Komplettes nZEB-System: Salamander + Blaugelb + Dreifachverglasung](/de/blog/komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung)
 - [Salamander-Fensterpreise Bukarest 2026](/de/blog/salamander-fenster-preise-bukarest-2026)
 
-Neofort BIZ — autorisierter Alumil-Händler in Bukarest und Ilfov. [Angebot Aluminiumtür anfordern](/de/kontakt).`,
+Neofort BIZ — autorisierter Alumil-Händler in Bukarest und Ilfov. [Angebot Aluminiumtür anfordern](/de/kontakt).
+
+## Häufig gestellte Fragen
+
+### Welches Aluminiumtürsystem wird für eine Villa in Sektor 1 empfohlen?
+
+Für Wohnungseingangstüren in Sektor 1 hat das System Alumil SF85 Supreme 85 mm Bautiefe, eine 34-mm-Polyamid-Trennung, ein 44-mm-Dämmpaneel mit PU-Kern, RC2-Einbruchschutz serienmäßig (RC3 auf Anfrage) und eine dreifache Seitenverglasung mit Ug 0,5 W/(m²K).
+
+### Was bedeutet die thermische Trennung bei einer Aluminiumtür?
+
+Die thermische Trennung ist ein 34-mm-Polyamid-Einsatz, der das kalte äußere Profil physisch vom warmen inneren trennt und die Wärmeübertragung von 160 W/mK (reines Aluminium) auf etwa 0,3 W/mK senkt. Ergebnis: kein Kondensat am Rahmen, selbst bei −15°C draußen.
+
+### Welche Einbruchschutzklasse sollte eine Aluminiumtür in Sektor 1 haben?
+
+RC2 widersteht 3 Minuten gegen einfache Werkzeuge (Schraubendreher, Brecheisen) und ist das Minimum für Premium-Wohngebiete. RC3 widersteht 5 Minuten gegen Elektrowerkzeuge und wird für freistehende Villen, Erdgeschosse oder Eingänge mit direktem Straßenzugang empfohlen.
+
+### Welches System wird für die gemeinsamen Eingangstüren der Gebäude in Sektor 1 verwendet?
+
+Alumil M19800 Smartia, kompatibel mit Zutrittskontrollsystemen (Kartenleser, PIN-Code, Video-Gegensprechanlage), mit automatischem Schließmechanismus und Hydraulikdämpfer und zertifiziertem RC2-Einbruchschutz — die Lösung für Treppenhaus- und Wohnanlageneingänge.
+`,
 
       fr: `## Pourquoi le Secteur 1 de Bucarest a des exigences particulières pour les portes en aluminium
 
@@ -2966,7 +3023,26 @@ L'insert en polyamide de 34 mm sépare physiquement le profilé extérieur froid
 - [Système nZEB complet : Salamander + Blaugelb + triple vitrage](/fr/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage)
 - [Prix fenêtres Salamander Bucarest 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026)
 
-Neofort BIZ — distributeur agréé Alumil à Bucarest et Ilfov. [Demander un devis porte aluminium](/fr/contact).`,
+Neofort BIZ — distributeur agréé Alumil à Bucarest et Ilfov. [Demander un devis porte aluminium](/fr/contact).
+
+## Questions fréquentes
+
+### Quel système de portes en aluminium est recommandé pour une villa du Secteur 1 ?
+
+Pour les portes d'entrée résidentielles du Secteur 1, le système Alumil SF85 Supreme a 85 mm de profondeur, une rupture de pont thermique en polyamide de 34 mm, un panneau isolant de 44 mm à âme PU, l'anti-effraction RC2 de série (RC3 sur demande) et un vitrage latéral triple avec Ug 0,5 W/(m²K).
+
+### Que signifie la rupture de pont thermique sur une porte aluminium ?
+
+La rupture de pont thermique est un insert en polyamide de 34 mm qui sépare physiquement le profilé extérieur froid de l'intérieur chaud, réduisant le transfert thermique de 160 W/mK (aluminium pur) à environ 0,3 W/mK. Résultat : aucune condensation sur le dormant, même à −15°C dehors.
+
+### Quelle classe anti-effraction une porte aluminium doit-elle avoir dans le Secteur 1 ?
+
+RC2 résiste 3 minutes aux outils simples (tournevis, pieds-de-biche) et constitue le minimum pour les zones résidentielles premium. RC3 résiste 5 minutes aux outils électriques et est recommandé pour les villas isolées, rez-de-chaussée ou entrées avec accès direct sur rue.
+
+### Quel système est utilisé pour les portes d'accès communes des immeubles du Secteur 1 ?
+
+Alumil M19800 Smartia, compatible avec les systèmes de contrôle d'accès (lecteur de carte, code PIN, visiophone), avec mécanisme de fermeture automatique et amortisseur hydraulique et résistance anti-effraction RC2 certifiée — la solution pour les entrées de cages d'escalier et d'ensembles résidentiels.
+`,
 
       es: `## Por qué el Sector 1 de Bucarest tiene requisitos especiales para puertas de aluminio
 
@@ -3019,7 +3095,26 @@ El inserto de poliamida de 34 mm separa físicamente el perfil exterior frío de
 - [Sistema nZEB completo: Salamander + Blaugelb + triple acristalamiento](/es/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento)
 - [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)
 
-Neofort BIZ — distribuidor autorizado Alumil en Bucarest e Ilfov. [Solicitar presupuesto puerta aluminio](/es/contact).`,
+Neofort BIZ — distribuidor autorizado Alumil en Bucarest e Ilfov. [Solicitar presupuesto puerta aluminio](/es/contact).
+
+## Preguntas frecuentes
+
+### ¿Qué sistema de puertas de aluminio se recomienda para una villa en el Sector 1?
+
+Para puertas de entrada residenciales en el Sector 1, el sistema Alumil SF85 Supreme tiene 85 mm de profundidad, rotura de puente térmico de poliamida de 34 mm, panel aislante de 44 mm con núcleo PU, antirrobo RC2 de serie (RC3 bajo pedido) y un acristalamiento lateral triple con Ug 0,5 W/(m²K).
+
+### ¿Qué significa la rotura de puente térmico en una puerta de aluminio?
+
+La rotura de puente térmico es un inserto de poliamida de 34 mm que separa físicamente el perfil exterior frío del interior cálido, reduciendo la transferencia térmica de 160 W/mK (aluminio puro) a unos 0,3 W/mK. El resultado: ninguna condensación en el marco, incluso a −15°C fuera.
+
+### ¿Qué clase antirrobo debe tener una puerta de aluminio en el Sector 1?
+
+RC2 resiste 3 minutos a herramientas simples (destornilladores, palanquetas) y es el mínimo para zonas residenciales premium. RC3 resiste 5 minutos a herramientas eléctricas y se recomienda para villas aisladas, plantas bajas o entradas con acceso directo desde la calle.
+
+### ¿Qué sistema se usa para las puertas de acceso comunes de los edificios del Sector 1?
+
+Alumil M19800 Smartia, compatible con sistemas de control de acceso (lector de tarjeta, código PIN, videoportero), con mecanismo de cierre automático y amortiguador hidráulico y resistencia antirrobo RC2 certificada — la solución para entradas de portales y conjuntos residenciales.
+`,
 
       it: `## Perché il Settore 1 di Bucarest ha requisiti speciali per le porte in alluminio
 
@@ -3072,7 +3167,26 @@ L'inserto in poliammide da 34 mm separa fisicamente il profilo esterno freddo da
 - [Sistema nZEB completo: Salamander + Blaugelb + triplo vetro](/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro)
 - [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)
 
-Neofort BIZ — distributore autorizzato Alumil a Bucarest e Ilfov. [Richiedi preventivo porta alluminio](/it/contact).`,
+Neofort BIZ — distributore autorizzato Alumil a Bucarest e Ilfov. [Richiedi preventivo porta alluminio](/it/contact).
+
+## Domande frequenti
+
+### Quale sistema di porte in alluminio è consigliato per una villa nel Settore 1?
+
+Per porte d'ingresso residenziali nel Settore 1, il sistema Alumil SF85 Supreme ha profondità 85 mm, taglio termico in poliammide da 34 mm, pannello isolante da 44 mm con anima PU, antieffrazione RC2 di serie (RC3 su richiesta) e una vetrata laterale tripla con Ug 0,5 W/(m²K).
+
+### Cosa significa il taglio termico su una porta in alluminio?
+
+Il taglio termico è un inserto in poliammide da 34 mm che separa fisicamente il profilo esterno freddo da quello interno caldo, riducendo il trasferimento termico da 160 W/mK (alluminio puro) a circa 0,3 W/mK. Il risultato: nessuna condensa sul telaio, anche a −15°C fuori.
+
+### Quale classe antieffrazione deve avere una porta in alluminio nel Settore 1?
+
+RC2 resiste 3 minuti agli attrezzi semplici (cacciaviti, piedi di porco) ed è il minimo per le zone residenziali premium. RC3 resiste 5 minuti agli attrezzi elettrici ed è consigliato per ville isolate, piani terra o ingressi con accesso diretto dalla strada.
+
+### Quale sistema si usa per le porte d'accesso comuni degli edifici nel Settore 1?
+
+Alumil M19800 Smartia, compatibile con sistemi di controllo accessi (lettore di schede, codice PIN, videocitofono), con meccanismo di chiusura automatica e ammortizzatore idraulico e resistenza antieffrazione RC2 certificata — la soluzione per ingressi di vani scala e complessi residenziali.
+`,
     },
   },
 
@@ -4724,7 +4838,26 @@ Neofort BIZ furnizează și montează termopane cu izolație avansată în **toa
 
 ---
 
-Neofort BIZ — distribuitor autorizat Salamander și Alumil, montaj nZEB certificat în București și Ilfov. [Solicită ofertă gratuită](/ro/contact).`,
+Neofort BIZ — distribuitor autorizat Salamander și Alumil, montaj nZEB certificat în București și Ilfov. [Solicită ofertă gratuită](/ro/contact).
+
+## Întrebări frecvente
+
+### Ce criterii tehnice trebuie să îndeplinească termopanele cu izolație avansată?
+
+Un sistem cu izolație avansată trebuie să îndeplinească simultan: Uw ≤ 1,0 W/(m²K) (prag nZEB), tripan cu argon/krypton și Low-E (Ug ≤ 0,6), profil PVC cu min. 6 camere sau aluminiu cu rupere de punte ≥ 34 mm, distanțier Warm Edge și montaj conform RAL/nZEB. Fără toate împreună, termenul e folosit abuziv.
+
+### Ce profil de termopan are cea mai bună izolație în București?
+
+Salamander bluEvolution 92 (6 camere, 92 mm, Uf 0,9) cu tripan 52 mm, argon, Low-E SGG și Warm Edge atinge Uw 0,66-0,8 W/(m²K) — performanță de casă pasivă. bluEvolution 82 oferă echilibrul calitate-preț cu Uw 0,8-0,95, ideal pentru renovări cu buget controlat.
+
+### Ce trebuie să cer obligatoriu în orice ofertă de termopane?
+
+Cere declarat în scris: valoarea Uw a ferestrei complete (nu doar Ug-ul geamului), tipul de profil și numărul de camere, tipul de geam și gazul de umplere, prezența distanțierului Warm Edge și metoda de montaj. Fără aceste date, nu poți compara corect ofertele.
+
+### De ce nu se califică un geam dublu standard ca izolație avansată?
+
+Un geam dublu standard are Uw = 1,3-1,6 W/(m²K), peste pragul nZEB de 1,0 W/(m²K). Pentru izolație avansată e nevoie de tripan cu două camere de argon sau krypton și cel puțin un strat Low-E, cu Ug al pachetului ≤ 0,6 W/(m²K).
+`,
 
       en: `## What Does "Advanced Insulation" Really Mean for Windows?
 
@@ -4788,7 +4921,26 @@ Neofort BIZ supplies and installs windows with advanced insulation in **all sect
 
 ---
 
-Neofort BIZ — authorised Salamander and Alumil distributor, nZEB-certified installation in Bucharest and Ilfov. [Request free quote](/en/contact).`,
+Neofort BIZ — authorised Salamander and Alumil distributor, nZEB-certified installation in Bucharest and Ilfov. [Request free quote](/en/contact).
+
+## Frequently Asked Questions
+
+### What technical criteria must advanced-insulation windows meet?
+
+An advanced-insulation system must simultaneously meet: Uw ≤ 1.0 W/(m²K) (nZEB threshold), triple glazing with argon/krypton and Low-E (Ug ≤ 0.6), a PVC profile with min. 6 chambers or aluminium with a ≥ 34 mm thermal break, a Warm Edge spacer and RAL/nZEB-compliant fitting. Without all of these, the term is misused.
+
+### Which window profile has the best insulation in Bucharest?
+
+Salamander bluEvolution 92 (6 chambers, 92 mm, Uf 0.9) with 52 mm triple glazing, argon, Low-E SGG and Warm Edge reaches Uw 0.66-0.8 W/(m²K) — passive-house performance. bluEvolution 82 offers the value balance with Uw 0.8-0.95, ideal for budget-controlled renovations.
+
+### What must I always ask for in any window quote?
+
+Ask for it in writing: the Uw value of the complete window (not just the glass Ug), the profile type and number of chambers, the glazing type and fill gas, the presence of a Warm Edge spacer and the fitting method. Without these figures you cannot compare quotes correctly.
+
+### Why does standard double glazing not qualify as advanced insulation?
+
+Standard double glazing has Uw = 1.3-1.6 W/(m²K), above the nZEB threshold of 1.0 W/(m²K). Advanced insulation requires triple glazing with two argon or krypton chambers and at least one Low-E layer, with a glass-unit Ug ≤ 0.6 W/(m²K).
+`,
 
       de: `## Was bedeutet „erweiterte Dämmung" bei Fenstern wirklich?
 
@@ -4849,7 +5001,26 @@ Neofort BIZ liefert und montiert Fenster mit erweiterter Dämmung in **allen Sta
 
 ---
 
-Neofort BIZ — autorisierter Salamander- und Alumil-Händler, nZEB-zertifizierter Einbau in Bukarest und Ilfov. [Kostenloses Angebot anfordern](/de/kontakt).`,
+Neofort BIZ — autorisierter Salamander- und Alumil-Händler, nZEB-zertifizierter Einbau in Bukarest und Ilfov. [Kostenloses Angebot anfordern](/de/kontakt).
+
+## Häufig gestellte Fragen
+
+### Welche technischen Kriterien müssen Fenster mit fortschrittlicher Dämmung erfüllen?
+
+Ein System mit fortschrittlicher Dämmung muss gleichzeitig erfüllen: Uw ≤ 1,0 W/(m²K) (nZEB-Schwelle), Dreifachglas mit Argon/Krypton und Low-E (Ug ≤ 0,6), ein PVC-Profil mit min. 6 Kammern oder Aluminium mit ≥ 34 mm Trennung, Warm-Edge-Abstandhalter und RAL/nZEB-konformer Einbau. Ohne all dies wird der Begriff missbraucht.
+
+### Welches Fensterprofil hat die beste Dämmung in Bukarest?
+
+Salamander bluEvolution 92 (6 Kammern, 92 mm, Uf 0,9) mit 52-mm-Dreifachglas, Argon, Low-E SGG und Warm Edge erreicht Uw 0,66-0,8 W/(m²K) — Passivhaus-Leistung. bluEvolution 82 bietet das Preis-Leistungs-Gleichgewicht mit Uw 0,8-0,95, ideal für budgetbewusste Renovierungen.
+
+### Was muss ich bei jedem Fensterangebot verlangen?
+
+Verlangen Sie es schriftlich: den Uw-Wert des kompletten Fensters (nicht nur den Glas-Ug), den Profiltyp und die Kammerzahl, den Verglasungstyp und das Füllgas, das Vorhandensein eines Warm-Edge-Abstandhalters und die Einbaumethode. Ohne diese Werte können Sie Angebote nicht korrekt vergleichen.
+
+### Warum qualifiziert sich Standard-Doppelglas nicht als fortschrittliche Dämmung?
+
+Standard-Doppelglas hat Uw = 1,3-1,6 W/(m²K), über der nZEB-Schwelle von 1,0 W/(m²K). Fortschrittliche Dämmung erfordert Dreifachglas mit zwei Argon- oder Kryptonkammern und mindestens einer Low-E-Schicht, mit einem Glaspaket-Ug ≤ 0,6 W/(m²K).
+`,
 
       fr: `## Que signifie réellement « isolation avancée » pour les fenêtres ?
 
@@ -4906,7 +5077,26 @@ Rupture thermique 34 mm, Uf = 1,3 W/(m²K) au profilé — avec triple vitrage e
 
 ---
 
-Neofort BIZ — distributeur agréé Salamander et Alumil, pose nZEB certifiée à Bucarest et Ilfov. [Demander un devis gratuit](/fr/contact).`,
+Neofort BIZ — distributeur agréé Salamander et Alumil, pose nZEB certifiée à Bucarest et Ilfov. [Demander un devis gratuit](/fr/contact).
+
+## Questions fréquentes
+
+### Quels critères techniques les fenêtres à isolation avancée doivent-elles remplir ?
+
+Un système à isolation avancée doit remplir simultanément : Uw ≤ 1,0 W/(m²K) (seuil nZEB), triple vitrage à argon/krypton et Low-E (Ug ≤ 0,6), un profilé PVC à min. 6 chambres ou aluminium à rupture ≥ 34 mm, un intercalaire Warm Edge et une pose conforme RAL/nZEB. Sans tout cela, le terme est galvaudé.
+
+### Quel profilé de fenêtre a la meilleure isolation à Bucarest ?
+
+Le Salamander bluEvolution 92 (6 chambres, 92 mm, Uf 0,9) avec triple vitrage 52 mm, argon, Low-E SGG et Warm Edge atteint Uw 0,66-0,8 W/(m²K) — performance maison passive. Le bluEvolution 82 offre l'équilibre qualité-prix avec Uw 0,8-0,95, idéal pour les rénovations à budget maîtrisé.
+
+### Que dois-je toujours demander dans tout devis de fenêtres ?
+
+Demandez-le par écrit : la valeur Uw de la fenêtre complète (pas seulement l'Ug du vitrage), le type de profilé et le nombre de chambres, le type de vitrage et le gaz de remplissage, la présence d'un intercalaire Warm Edge et la méthode de pose. Sans ces chiffres, vous ne pouvez pas comparer correctement les devis.
+
+### Pourquoi un double vitrage standard ne compte-t-il pas comme isolation avancée ?
+
+Un double vitrage standard a Uw = 1,3-1,6 W/(m²K), au-dessus du seuil nZEB de 1,0 W/(m²K). L'isolation avancée nécessite un triple vitrage à deux chambres d'argon ou krypton et au moins une couche Low-E, avec un Ug du vitrage ≤ 0,6 W/(m²K).
+`,
 
       es: `## ¿Qué significa realmente el "aislamiento avanzado" en ventanas?
 
@@ -4963,7 +5153,26 @@ Rotura térmica 34 mm, Uf = 1,3 W/(m²K) en el perfil — con triple acristalami
 
 ---
 
-Neofort BIZ — distribuidor autorizado Salamander y Alumil, instalación nZEB certificada en Bucarest e Ilfov. [Solicitar presupuesto gratuito](/es/contact).`,
+Neofort BIZ — distribuidor autorizado Salamander y Alumil, instalación nZEB certificada en Bucarest e Ilfov. [Solicitar presupuesto gratuito](/es/contact).
+
+## Preguntas frecuentes
+
+### ¿Qué criterios técnicos deben cumplir las ventanas de aislamiento avanzado?
+
+Un sistema con aislamiento avanzado debe cumplir simultáneamente: Uw ≤ 1,0 W/(m²K) (umbral nZEB), triple vidrio con argón/kriptón y Low-E (Ug ≤ 0,6), un perfil de PVC con mín. 6 cámaras o aluminio con rotura ≥ 34 mm, separador Warm Edge e instalación conforme RAL/nZEB. Sin todo esto, el término se usa de forma abusiva.
+
+### ¿Qué perfil de ventana tiene el mejor aislamiento en Bucarest?
+
+El Salamander bluEvolution 92 (6 cámaras, 92 mm, Uf 0,9) con triple vidrio de 52 mm, argón, Low-E SGG y Warm Edge alcanza Uw 0,66-0,8 W/(m²K) — rendimiento de casa pasiva. El bluEvolution 82 ofrece el equilibrio calidad-precio con Uw 0,8-0,95, ideal para reformas con presupuesto controlado.
+
+### ¿Qué debo pedir siempre en cualquier presupuesto de ventanas?
+
+Pídelo por escrito: el valor Uw de la ventana completa (no solo el Ug del vidrio), el tipo de perfil y número de cámaras, el tipo de vidrio y gas de relleno, la presencia de separador Warm Edge y el método de instalación. Sin estos datos no puedes comparar presupuestos correctamente.
+
+### ¿Por qué un doble vidrio estándar no cuenta como aislamiento avanzado?
+
+Un doble vidrio estándar tiene Uw = 1,3-1,6 W/(m²K), por encima del umbral nZEB de 1,0 W/(m²K). El aislamiento avanzado requiere triple vidrio con dos cámaras de argón o kriptón y al menos una capa Low-E, con un Ug del vidrio ≤ 0,6 W/(m²K).
+`,
 
       it: `## Cosa significa veramente "isolamento avanzato" per le finestre?
 
@@ -5020,7 +5229,26 @@ Taglio termico 34 mm, Uf = 1,3 W/(m²K) al profilo — con triplo vetro e Low-E 
 
 ---
 
-Neofort BIZ — distributore autorizzato Salamander e Alumil, installazione nZEB certificata a Bucarest e Ilfov. [Richiedi preventivo gratuito](/it/contact).`,
+Neofort BIZ — distributore autorizzato Salamander e Alumil, installazione nZEB certificata a Bucarest e Ilfov. [Richiedi preventivo gratuito](/it/contact).
+
+## Domande frequenti
+
+### Quali criteri tecnici devono soddisfare le finestre a isolamento avanzato?
+
+Un sistema a isolamento avanzato deve soddisfare simultaneamente: Uw ≤ 1,0 W/(m²K) (soglia nZEB), triplo vetro con argon/krypton e Low-E (Ug ≤ 0,6), un profilo in PVC con min. 6 camere o alluminio con taglio ≥ 34 mm, distanziatore Warm Edge e posa conforme RAL/nZEB. Senza tutto questo, il termine è usato impropriamente.
+
+### Quale profilo di finestra ha il miglior isolamento a Bucarest?
+
+Il Salamander bluEvolution 92 (6 camere, 92 mm, Uf 0,9) con triplo vetro da 52 mm, argon, Low-E SGG e Warm Edge raggiunge Uw 0,66-0,8 W/(m²K) — prestazioni da casa passiva. Il bluEvolution 82 offre l'equilibrio qualità-prezzo con Uw 0,8-0,95, ideale per ristrutturazioni a budget controllato.
+
+### Cosa devo chiedere sempre in qualsiasi preventivo di finestre?
+
+Chiedilo per iscritto: il valore Uw della finestra completa (non solo l'Ug del vetro), il tipo di profilo e il numero di camere, il tipo di vetro e il gas di riempimento, la presenza del distanziatore Warm Edge e il metodo di posa. Senza questi dati non puoi confrontare correttamente i preventivi.
+
+### Perché un doppio vetro standard non conta come isolamento avanzato?
+
+Un doppio vetro standard ha Uw = 1,3-1,6 W/(m²K), sopra la soglia nZEB di 1,0 W/(m²K). L'isolamento avanzato richiede triplo vetro con due camere di argon o krypton e almeno uno strato Low-E, con un Ug del pacchetto ≤ 0,6 W/(m²K).
+`,
     },
   },
 
@@ -5175,7 +5403,26 @@ Conform **Legii 372/2005** (modificată) și **HG 765/2016**, orice clădire nou
 
 ---
 
-Neofort BIZ execută montaje cu bandă precomprimată Illbruck și precadre Blaugelb Triotherm+ în București și Ilfov. [Solicită ofertă montaj nZEB](/ro/contact).`,
+Neofort BIZ execută montaje cu bandă precomprimată Illbruck și precadre Blaugelb Triotherm+ în București și Ilfov. [Solicită ofertă montaj nZEB](/ro/contact).
+
+## Întrebări frecvente
+
+### De ce e izolația perimetrală mai importantă decât profilul ferestrei?
+
+Poți monta cel mai performant profil cu tripan și Warm Edge, dar dacă rostul dintre toc și zidărie nu e etanșat corect pierzi 30-50% din eficiența termică. Imaginile termice arată frecvent dungi calde în jurul tocurilor — semn că izolația perimetrală a fost neglijată.
+
+### Care sunt cele 3 opțiuni de izolație perimetrală a ferestrelor?
+
+Spuma poliuretanică (montaj standard, ieftin, dar crapă în 3-5 ani și nu îndeplinește nZEB), banda precomprimată (montaj profesional, etanșare durabilă 20+ ani) și precadrul termic Blaugelb (standardul nZEB complet, elimină puntea termică la perimetru).
+
+### De ce nu e suficientă spuma poliuretanică pentru standard nZEB?
+
+Spuma singură crapă în 3-5 ani sub UV și variații termice, permite infiltrații de apă, are izolare fonică slabă și nu are proprietăți de barieră antivapori. Odată crăpată, lasă vaporii să migreze spre perete, generând condens și mucegai — de aceea nu îndeplinește cerințele nZEB.
+
+### Ce impune standardul nZEB pentru montajul ferestrelor în România?
+
+nZEB, obligatoriu pentru construcții noi din 2021 și renovări majore, impune etanșarea în trei zone: interior (barieră antivapori), mediană (izolație termică și fonică) și exterior (protecție la apă și vânt). Banda precomprimată sau precadrul termic asigură aceste straturi.
+`,
 
       en: `## Why Perimeter Insulation Matters More Than the Window Profile
 
@@ -5259,7 +5506,26 @@ According to **Law 372/2005** (amended) and **GD 765/2016**, any new building or
 
 ---
 
-Neofort BIZ installs with Illbruck pre-compressed bands and Blaugelb Triotherm+ preframes in Bucharest and Ilfov. [Request nZEB installation quote](/en/contact).`,
+Neofort BIZ installs with Illbruck pre-compressed bands and Blaugelb Triotherm+ preframes in Bucharest and Ilfov. [Request nZEB installation quote](/en/contact).
+
+## Frequently Asked Questions
+
+### Why is perimeter insulation more important than the window profile?
+
+You can fit the highest-performance profile with triple glazing and Warm Edge, but if the joint between frame and masonry is not sealed correctly you lose 30-50% of the thermal efficiency. Thermal images often show warm streaks around frames — a sign perimeter insulation was neglected.
+
+### What are the 3 options for window perimeter insulation?
+
+Polyurethane foam (standard, cheap fitting, but cracks in 3-5 years and fails nZEB), pre-compressed tape (professional fitting, durable 20+ year seal) and the Blaugelb thermal pre-frame (the full nZEB standard, eliminating the perimeter thermal bridge).
+
+### Why is polyurethane foam not enough for the nZEB standard?
+
+Foam alone cracks in 3-5 years under UV and thermal swings, allows water infiltration, has poor sound insulation and no vapour-barrier properties. Once cracked, it lets vapour migrate into the wall, causing condensation and mould — which is why it fails nZEB requirements.
+
+### What does the nZEB standard require for window fitting in Romania?
+
+nZEB, mandatory for new builds since 2021 and major renovations, requires sealing in three zones: interior (vapour barrier), middle (thermal and sound insulation) and exterior (water and wind protection). Pre-compressed tape or a thermal pre-frame provides these layers.
+`,
 
       de: `## Warum Perimeterdämmung wichtiger ist als das Fensterprofil
 
@@ -5333,7 +5599,26 @@ Gemäß **Gesetz 372/2005** (geändert) und **GD 765/2016** muss jedes neue Geb�
 
 ---
 
-Neofort BIZ montiert mit Illbruck-Bändern und Blaugelb Triotherm+ Vorblendrahmen in Bukarest und Ilfov. [nZEB-Montage anfragen](/de/kontakt).`,
+Neofort BIZ montiert mit Illbruck-Bändern und Blaugelb Triotherm+ Vorblendrahmen in Bukarest und Ilfov. [nZEB-Montage anfragen](/de/kontakt).
+
+## Häufig gestellte Fragen
+
+### Warum ist die Perimeterdämmung wichtiger als das Fensterprofil?
+
+Sie können das leistungsstärkste Profil mit Dreifachglas und Warm Edge einbauen, aber wenn die Fuge zwischen Rahmen und Mauerwerk nicht korrekt abgedichtet ist, verlieren Sie 30-50% der thermischen Effizienz. Thermografien zeigen oft warme Streifen um Rahmen — ein Zeichen, dass die Perimeterdämmung vernachlässigt wurde.
+
+### Was sind die 3 Optionen für die Fenster-Perimeterdämmung?
+
+PU-Schaum (Standard, günstiger Einbau, reißt aber in 3-5 Jahren und erfüllt nZEB nicht), vorkomprimiertes Band (professioneller Einbau, dauerhafte 20+ Jahre Abdichtung) und der Blaugelb-Thermo-Vorrahmen (der volle nZEB-Standard, der die Perimeter-Wärmebrücke beseitigt).
+
+### Warum reicht PU-Schaum für den nZEB-Standard nicht aus?
+
+Schaum allein reißt in 3-5 Jahren unter UV und Temperaturschwankungen, lässt Wasser eindringen, hat schlechte Schalldämmung und keine Dampfsperre-Eigenschaften. Einmal gerissen, lässt er Dampf in die Wand migrieren und verursacht Kondensat und Schimmel — daher erfüllt er die nZEB-Anforderungen nicht.
+
+### Was verlangt der nZEB-Standard für den Fenstereinbau in Rumänien?
+
+nZEB, verpflichtend für Neubauten seit 2021 und Großrenovierungen, verlangt Abdichtung in drei Zonen: innen (Dampfsperre), mittig (Wärme- und Schalldämmung) und außen (Wasser- und Windschutz). Vorkomprimiertes Band oder ein Thermo-Vorrahmen liefert diese Schichten.
+`,
 
       fr: `## Pourquoi l'isolation périphérique compte plus que le profilé de fenêtre
 
@@ -5406,7 +5691,26 @@ Selon la **Loi 372/2005** (modifiée) et le **GD 765/2016**, tout bâtiment neuf
 
 ---
 
-Neofort BIZ réalise des poses avec bandes Illbruck et précadres Blaugelb Triotherm+ à Bucarest et Ilfov. [Demander un devis pose nZEB](/fr/contact).`,
+Neofort BIZ réalise des poses avec bandes Illbruck et précadres Blaugelb Triotherm+ à Bucarest et Ilfov. [Demander un devis pose nZEB](/fr/contact).
+
+## Questions fréquentes
+
+### Pourquoi l'isolation périmétrique est-elle plus importante que le profilé ?
+
+Vous pouvez poser le profilé le plus performant avec triple vitrage et Warm Edge, mais si le joint entre dormant et maçonnerie n'est pas correctement étanché, vous perdez 30-50% de l'efficacité thermique. Les images thermiques montrent souvent des bandes chaudes autour des dormants — signe que l'isolation périmétrique a été négligée.
+
+### Quelles sont les 3 options d'isolation périmétrique des fenêtres ?
+
+La mousse polyuréthane (pose standard, peu chère, mais se fissure en 3-5 ans et échoue au nZEB), la bande précomprimée (pose professionnelle, étanchéité durable 20+ ans) et le précadre thermique Blaugelb (le standard nZEB complet, éliminant le pont thermique périmétrique).
+
+### Pourquoi la mousse polyuréthane ne suffit-elle pas pour le standard nZEB ?
+
+La mousse seule se fissure en 3-5 ans sous UV et variations thermiques, laisse passer l'eau, a une isolation acoustique médiocre et aucune propriété de pare-vapeur. Une fois fissurée, elle laisse la vapeur migrer dans le mur, causant condensation et moisissure — d'où son échec aux exigences nZEB.
+
+### Qu'exige le standard nZEB pour la pose des fenêtres en Roumanie ?
+
+Le nZEB, obligatoire pour les constructions neuves depuis 2021 et les rénovations majeures, exige l'étanchéité en trois zones : intérieur (pare-vapeur), médiane (isolation thermique et acoustique) et extérieur (protection eau et vent). La bande précomprimée ou un précadre thermique fournit ces couches.
+`,
 
       es: `## Por qué el aislamiento perimetral importa más que el perfil de ventana
 
@@ -5479,7 +5783,26 @@ Según la **Ley 372/2005** (modificada) y el **GD 765/2016**, cualquier edificio
 
 ---
 
-Neofort BIZ instala con bandas Illbruck y premarcos Blaugelb Triotherm+ en Bucarest e Ilfov. [Solicitar presupuesto instalación nZEB](/es/contact).`,
+Neofort BIZ instala con bandas Illbruck y premarcos Blaugelb Triotherm+ en Bucarest e Ilfov. [Solicitar presupuesto instalación nZEB](/es/contact).
+
+## Preguntas frecuentes
+
+### ¿Por qué el aislamiento perimetral es más importante que el perfil de la ventana?
+
+Puedes montar el perfil más eficiente con triple vidrio y Warm Edge, pero si la junta entre marco y muro no se sella correctamente pierdes el 30-50% de la eficiencia térmica. Las imágenes térmicas muestran a menudo franjas cálidas alrededor de los marcos — señal de que el aislamiento perimetral se descuidó.
+
+### ¿Cuáles son las 3 opciones de aislamiento perimetral de ventanas?
+
+La espuma de poliuretano (montaje estándar, barato, pero se agrieta en 3-5 años e incumple nZEB), la banda precomprimida (montaje profesional, sellado duradero 20+ años) y el premarco térmico Blaugelb (el estándar nZEB completo, que elimina el puente térmico perimetral).
+
+### ¿Por qué no basta la espuma de poliuretano para el estándar nZEB?
+
+La espuma sola se agrieta en 3-5 años bajo UV y cambios térmicos, permite infiltraciones de agua, tiene mal aislamiento acústico y ninguna propiedad de barrera de vapor. Una vez agrietada, deja migrar el vapor al muro, causando condensación y moho — por eso incumple los requisitos nZEB.
+
+### ¿Qué exige el estándar nZEB para la instalación de ventanas en Rumanía?
+
+El nZEB, obligatorio para obra nueva desde 2021 y reformas mayores, exige sellado en tres zonas: interior (barrera de vapor), media (aislamiento térmico y acústico) y exterior (protección al agua y viento). La banda precomprimida o un premarco térmico aporta estas capas.
+`,
 
       it: `## Perché l'isolamento perimetrale conta più del profilo della finestra
 
@@ -5552,7 +5875,26 @@ Secondo la **Legge 372/2005** (modificata) e il **GD 765/2016**, qualsiasi nuovo
 
 ---
 
-Neofort BIZ installa con nastri Illbruck e precornici Blaugelb Triotherm+ a Bucarest e Ilfov. [Richiedere preventivo installazione nZEB](/it/contact).`,
+Neofort BIZ installa con nastri Illbruck e precornici Blaugelb Triotherm+ a Bucarest e Ilfov. [Richiedere preventivo installazione nZEB](/it/contact).
+
+## Domande frequenti
+
+### Perché l'isolamento perimetrale è più importante del profilo della finestra?
+
+Puoi montare il profilo più performante con triplo vetro e Warm Edge, ma se il giunto tra telaio e muratura non è sigillato correttamente perdi il 30-50% dell'efficienza termica. Le immagini termiche mostrano spesso strisce calde attorno ai telai — segno che l'isolamento perimetrale è stato trascurato.
+
+### Quali sono le 3 opzioni di isolamento perimetrale delle finestre?
+
+La schiuma poliuretanica (posa standard, economica, ma si crepa in 3-5 anni e non soddisfa nZEB), il nastro precompresso (posa professionale, sigillatura durevole 20+ anni) e il controtelaio termico Blaugelb (lo standard nZEB completo, che elimina il ponte termico perimetrale).
+
+### Perché la schiuma poliuretanica non basta per lo standard nZEB?
+
+La schiuma da sola si crepa in 3-5 anni sotto UV e sbalzi termici, permette infiltrazioni d'acqua, ha scarso isolamento acustico e nessuna proprietà di barriera al vapore. Una volta crepata, lascia migrare il vapore nel muro, causando condensa e muffa — per questo non soddisfa i requisiti nZEB.
+
+### Cosa richiede lo standard nZEB per la posa delle finestre in Romania?
+
+Lo nZEB, obbligatorio per nuove costruzioni dal 2021 e ristrutturazioni importanti, richiede la sigillatura in tre zone: interna (barriera al vapore), mediana (isolamento termico e acustico) ed esterna (protezione da acqua e vento). Il nastro precompresso o un controtelaio termico fornisce questi strati.
+`,
     },
   },
 
@@ -5683,7 +6025,26 @@ Neofort BIZ furnizează și montează jaluzele exterioare în **toate sectoarele
 
 ---
 
-Neofort BIZ este distribuitor autorizat Somfy și montator certificat pentru sisteme de umbrire în București și Ilfov. Consultanță gratuită — [solicită ofertă](/ro/contact).`,
+Neofort BIZ este distribuitor autorizat Somfy și montator certificat pentru sisteme de umbrire în București și Ilfov. Consultanță gratuită — [solicită ofertă](/ro/contact).
+
+## Întrebări frecvente
+
+### Ce sunt jaluzelele exterioare Raffstore și cu ce diferă de rulouri?
+
+Jaluzelele venetiene exterioare Raffstore (C80/Z90) au lamele orizontale din aluminiu de 80-90 mm care se înclină între 0° și 90°. Spre deosebire de rulourile care coboară ca un oblon, lamelele Raffstore controlează simultan lumina și vizibilitatea, fără a bloca ventilația.
+
+### Cât reduc jaluzelele exterioare Raffstore radiația solară?
+
+Jaluzelele Raffstore reduc până la 90% din radiația solară (coeficient g ≤ 0,10 cu lamelele închise). Sunt compatibile cu automatizare Somfy (motor Sunea io sau Altus 50 RTS) și disponibile cu senzori de vânt și lumină pentru retragere automată.
+
+### Care e diferența între jaluzelele C80 și Z90?
+
+Raffstore C80 are lamele de 80 mm din aluminiu lăcuit, modelul standard pentru rezidențial și comercial. Z90 are lamele de 90 mm cu profil Z, ce oferă rigiditate superioară și etanșare mai bună la lumină în poziția închis — recomandat pentru geamuri mari (peste 2 m) și fațade expuse la vânt.
+
+### Când nu sunt potrivite jaluzelele exterioare?
+
+Nu sunt potrivite la apartamentele de bloc cu fațadă comună, unde montajul necesită aprobarea asociației, și nici dacă bugetul e limitat — costă mai mult decât rulourile standard. În aceste cazuri, rulourile exterioare din aluminiu rămân o alternativă mai accesibilă.
+`,
 
       en: `## Exterior Blinds in Bucharest — What Options Exist in 2026?
 
@@ -5746,7 +6107,26 @@ Neofort BIZ supplies and installs exterior blinds in **all sectors of Bucharest*
 
 ---
 
-Neofort BIZ is an authorised Somfy distributor and certified installer for shading systems in Bucharest and Ilfov. Free consultation — [request a quote](/en/contact).`,
+Neofort BIZ is an authorised Somfy distributor and certified installer for shading systems in Bucharest and Ilfov. Free consultation — [request a quote](/en/contact).
+
+## Frequently Asked Questions
+
+### What are Raffstore external blinds and how do they differ from roller shutters?
+
+Raffstore external venetian blinds (C80/Z90) have horizontal aluminium slats of 80-90 mm that tilt between 0° and 90°. Unlike roller shutters that drop like a shutter, Raffstore slats control light and visibility simultaneously without blocking ventilation.
+
+### How much do Raffstore external blinds cut solar radiation?
+
+Raffstore blinds cut up to 90% of solar radiation (g-factor ≤ 0.10 with slats closed). They are compatible with Somfy automation (Sunea io or Altus 50 RTS motor) and available with wind and light sensors for automatic retraction.
+
+### What is the difference between C80 and Z90 blinds?
+
+Raffstore C80 has 80 mm lacquered aluminium slats, the standard model for residential and commercial use. Z90 has 90 mm Z-profile slats offering superior rigidity and better light sealing when closed — recommended for large windows (over 2 m) and wind-exposed façades.
+
+### When are external blinds not suitable?
+
+They are not suitable for apartment blocks with a shared façade, where fitting needs the residents' association approval, nor where budget is limited — they cost more than standard roller shutters. In these cases, aluminium roller shutters remain a more affordable alternative.
+`,
 
       de: `## Außenjalousien in Bukarest — Welche Optionen gibt es 2026?
 
@@ -5809,7 +6189,26 @@ Neofort BIZ liefert und montiert Außenjalousien in **allen Stadtbezirken Bukare
 
 ---
 
-Neofort BIZ ist autorisierter Somfy-Händler und zertifizierter Installateur für Beschattungssysteme in Bukarest und Ilfov. Kostenlose Beratung — [Angebot anfordern](/de/kontakt).`,
+Neofort BIZ ist autorisierter Somfy-Händler und zertifizierter Installateur für Beschattungssysteme in Bukarest und Ilfov. Kostenlose Beratung — [Angebot anfordern](/de/kontakt).
+
+## Häufig gestellte Fragen
+
+### Was sind Raffstore-Außenjalousien und wie unterscheiden sie sich von Rollläden?
+
+Raffstore-Außenjalousien (C80/Z90) haben horizontale Aluminiumlamellen von 80-90 mm, die zwischen 0° und 90° kippen. Anders als Rollläden, die wie ein Laden herabfallen, steuern Raffstore-Lamellen Licht und Sicht gleichzeitig, ohne die Belüftung zu blockieren.
+
+### Wie stark reduzieren Raffstore-Außenjalousien die Sonneneinstrahlung?
+
+Raffstore-Jalousien reduzieren bis zu 90% der Sonneneinstrahlung (g-Faktor ≤ 0,10 bei geschlossenen Lamellen). Sie sind kompatibel mit Somfy-Automatisierung (Sunea io oder Altus 50 RTS Motor) und mit Wind- und Lichtsensoren für automatisches Einfahren erhältlich.
+
+### Was ist der Unterschied zwischen C80- und Z90-Jalousien?
+
+Raffstore C80 hat 80-mm-Lamellen aus lackiertem Aluminium, das Standardmodell für Wohn- und Gewerbebereich. Z90 hat 90-mm-Z-Profil-Lamellen mit überlegener Steifigkeit und besserer Lichtabdichtung im geschlossenen Zustand — empfohlen für große Fenster (über 2 m) und windexponierte Fassaden.
+
+### Wann sind Außenjalousien nicht geeignet?
+
+Sie sind nicht geeignet für Wohnblöcke mit gemeinsamer Fassade, wo der Einbau die Zustimmung der Eigentümergemeinschaft erfordert, und auch nicht bei begrenztem Budget — sie kosten mehr als Standard-Rollläden. In diesen Fällen bleiben Aluminium-Rollläden eine günstigere Alternative.
+`,
 
       fr: `## Stores extérieurs à Bucarest — Quelles options en 2026 ?
 
@@ -5872,7 +6271,26 @@ Neofort BIZ fournit et pose des stores extérieurs dans **tous les secteurs de B
 
 ---
 
-Neofort BIZ est distributeur agréé Somfy et installateur certifié pour les systèmes d'occultation à Bucarest et Ilfov. Conseil gratuit — [demander un devis](/fr/contact).`,
+Neofort BIZ est distributeur agréé Somfy et installateur certifié pour les systèmes d'occultation à Bucarest et Ilfov. Conseil gratuit — [demander un devis](/fr/contact).
+
+## Questions fréquentes
+
+### Que sont les stores extérieurs Raffstore et en quoi diffèrent-ils des volets roulants ?
+
+Les stores vénitiens extérieurs Raffstore (C80/Z90) ont des lames horizontales en aluminium de 80-90 mm qui s'inclinent entre 0° et 90°. Contrairement aux volets roulants qui descendent comme un volet, les lames Raffstore contrôlent lumière et visibilité simultanément sans bloquer la ventilation.
+
+### De combien les stores extérieurs Raffstore réduisent-ils le rayonnement solaire ?
+
+Les stores Raffstore réduisent jusqu'à 90% du rayonnement solaire (facteur g ≤ 0,10 lames fermées). Ils sont compatibles avec l'automatisation Somfy (moteur Sunea io ou Altus 50 RTS) et disponibles avec capteurs de vent et de lumière pour rétraction automatique.
+
+### Quelle est la différence entre les stores C80 et Z90 ?
+
+Le Raffstore C80 a des lames de 80 mm en aluminium laqué, le modèle standard pour le résidentiel et le commercial. Le Z90 a des lames de 90 mm à profil Z offrant une rigidité supérieure et une meilleure étanchéité à la lumière en position fermée — recommandé pour les grandes baies (plus de 2 m) et façades exposées au vent.
+
+### Quand les stores extérieurs ne conviennent-ils pas ?
+
+Ils ne conviennent pas aux immeubles à façade commune, où la pose nécessite l'accord de la copropriété, ni si le budget est limité — ils coûtent plus cher que les volets roulants standard. Dans ces cas, les volets roulants en aluminium restent une alternative plus abordable.
+`,
 
       es: `## Persianas exteriores en Bucarest — ¿Qué opciones existen en 2026?
 
@@ -5935,7 +6353,26 @@ Neofort BIZ suministra e instala persianas exteriores en **todos los sectores de
 
 ---
 
-Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Asesoramiento gratuito — [solicitar presupuesto](/es/contact).`,
+Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Asesoramiento gratuito — [solicitar presupuesto](/es/contact).
+
+## Preguntas frecuentes
+
+### ¿Qué son las persianas exteriores Raffstore y en qué se diferencian de las enrollables?
+
+Las persianas venecianas exteriores Raffstore (C80/Z90) tienen lamas horizontales de aluminio de 80-90 mm que se inclinan entre 0° y 90°. A diferencia de las enrollables que bajan como un postigo, las lamas Raffstore controlan luz y visibilidad simultáneamente sin bloquear la ventilación.
+
+### ¿Cuánto reducen las persianas exteriores Raffstore la radiación solar?
+
+Las persianas Raffstore reducen hasta el 90% de la radiación solar (factor g ≤ 0,10 con lamas cerradas). Son compatibles con automatización Somfy (motor Sunea io o Altus 50 RTS) y están disponibles con sensores de viento y luz para retracción automática.
+
+### ¿Cuál es la diferencia entre las persianas C80 y Z90?
+
+La Raffstore C80 tiene lamas de 80 mm de aluminio lacado, el modelo estándar para residencial y comercial. La Z90 tiene lamas de 90 mm con perfil Z que ofrecen rigidez superior y mejor sellado de luz en posición cerrada — recomendada para ventanas grandes (más de 2 m) y fachadas expuestas al viento.
+
+### ¿Cuándo no son adecuadas las persianas exteriores?
+
+No son adecuadas para bloques de pisos con fachada común, donde el montaje requiere aprobación de la comunidad, ni si el presupuesto es limitado — cuestan más que las enrollables estándar. En estos casos, las enrollables de aluminio siguen siendo una alternativa más asequible.
+`,
 
       it: `## Veneziane esterne a Bucarest — Quali opzioni esistono nel 2026?
 
@@ -5998,7 +6435,26 @@ Neofort BIZ fornisce e installa veneziane esterne in **tutti i settori di Bucare
 
 ---
 
-Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi preventivo](/it/contact).`,
+Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi preventivo](/it/contact).
+
+## Domande frequenti
+
+### Cosa sono le tende esterne Raffstore e in cosa differiscono dalle tapparelle?
+
+Le tende veneziane esterne Raffstore (C80/Z90) hanno lamelle orizzontali in alluminio da 80-90 mm che si inclinano tra 0° e 90°. A differenza delle tapparelle che scendono come una serranda, le lamelle Raffstore controllano luce e visibilità simultaneamente senza bloccare la ventilazione.
+
+### Quanto riducono le tende esterne Raffstore la radiazione solare?
+
+Le tende Raffstore riducono fino al 90% della radiazione solare (fattore g ≤ 0,10 con lamelle chiuse). Sono compatibili con automazione Somfy (motore Sunea io o Altus 50 RTS) e disponibili con sensori di vento e luce per ritrazione automatica.
+
+### Qual è la differenza tra le tende C80 e Z90?
+
+La Raffstore C80 ha lamelle da 80 mm in alluminio laccato, il modello standard per residenziale e commerciale. La Z90 ha lamelle da 90 mm con profilo Z che offrono rigidità superiore e migliore tenuta alla luce in posizione chiusa — consigliata per finestre grandi (oltre 2 m) e facciate esposte al vento.
+
+### Quando le tende esterne non sono adatte?
+
+Non sono adatte per condomini con facciata comune, dove la posa richiede l'approvazione dell'amministrazione, né se il budget è limitato — costano più delle tapparelle standard. In questi casi, le tapparelle in alluminio restano un'alternativa più accessibile.
+`,
     },
   },
 
@@ -6132,7 +6588,26 @@ După montaj, feroneria Roto NT sau Winkhaus trebuie **reglată precis** în toa
 
 ---
 
-Neofort BIZ execută montaje termopane Salamander în București și Ilfov cu echipe proprii certificate, benzi precomprimate Illbruck și precadre Blaugelb Triotherm Plus. [Solicită ofertă montaj](/ro/contact).`,
+Neofort BIZ execută montaje termopane Salamander în București și Ilfov cu echipe proprii certificate, benzi precomprimate Illbruck și precadre Blaugelb Triotherm Plus. [Solicită ofertă montaj](/ro/contact).
+
+## Întrebări frecvente
+
+### Ce probleme apar dacă termopanele Salamander sunt montate greșit?
+
+Performanțele profilului (Uf până la 0,9 W/m²K, 47 dB izolare fonică) nu contează dacă montajul e greșit. Un montaj incorect generează punți termice la îmbinarea toc-zidărie, infiltrații de apă și aer, condens pe glafuri și, în timp, deformări ale tocului.
+
+### Ce presupune montajul nZEB conform regulii RAL?
+
+Regula RAL impune etanșare în trei zone: interior cu bandă antivapori (împiedică migrarea vaporilor spre îmbinare), mediană cu spumă pentru izolație termică și fonică, și exterior cu bandă precomprimată pentru protecție la apă și vânt. Fiecare strat are un rol distinct.
+
+### La ce folosesc precadrele Blaugelb Triotherm Plus la montaj?
+
+Precadrul Blaugelb Triotherm Plus se montează înainte de fereastră și creează o barieră termică continuă între toc și zidărie, eliminând puntea termică la perimetru — principala cauză a condensului pe glaf în locuințele vechi. E standardul pentru construcții noi și renovări nZEB.
+
+### Cum începe un montaj profesional de termopane?
+
+Întotdeauna cu măsurători la fața locului, nu cu dimensiuni aproximative. Tehnicianul măsoară golul de zidărie și calculează tocul ținând cont de tipul de perete (BCA, cărămidă, beton), grosimea tencuielii sau termoizolației, tipul de montaj (direct sau pe precadru) și glafuri.
+`,
 
       en: `## Why Salamander Window Installation Matters So Much
 
@@ -6190,7 +6665,26 @@ After installation, Roto NT or Winkhaus hardware must be **precisely adjusted** 
 
 ---
 
-Neofort BIZ installs Salamander windows in Bucharest and Ilfov with certified in-house teams, Illbruck pre-compressed bands and Blaugelb Triotherm Plus preframes. [Request installation quote](/en/contact).`,
+Neofort BIZ installs Salamander windows in Bucharest and Ilfov with certified in-house teams, Illbruck pre-compressed bands and Blaugelb Triotherm Plus preframes. [Request installation quote](/en/contact).
+
+## Frequently Asked Questions
+
+### What problems arise if Salamander windows are fitted incorrectly?
+
+The profile's performance (Uf down to 0.9 W/m²K, 47 dB sound insulation) means nothing if the fitting is wrong. Incorrect fitting creates thermal bridges at the frame-masonry joint, water and air infiltration, condensation on sills and, over time, frame deformation.
+
+### What does nZEB fitting under the RAL rule involve?
+
+The RAL rule requires sealing in three zones: interior with a vapour-barrier tape (preventing vapour migration to the joint), middle with foam for thermal and sound insulation, and exterior with pre-compressed tape for water and wind protection. Each layer has a distinct role.
+
+### What are Blaugelb Triotherm Plus pre-frames used for in fitting?
+
+The Blaugelb Triotherm Plus pre-frame is fitted before the window and creates a continuous thermal barrier between frame and masonry, eliminating the perimeter thermal bridge — the main cause of sill condensation in older homes. It is the standard for new builds and nZEB renovations.
+
+### How does a professional window fitting begin?
+
+Always with on-site measurements, not approximate dimensions. The technician measures the masonry opening and calculates the frame considering the wall type (AAC, brick, concrete), the plaster or insulation thickness, the fitting method (direct or on a pre-frame) and the sills.
+`,
 
       de: `## Warum die Montage von Salamander-Fenstern so wichtig ist
 
@@ -6247,7 +6741,26 @@ Nach der Montage müssen Roto NT oder Winkhaus Beschläge **präzise in allen 3 
 
 ---
 
-Neofort BIZ montiert Salamander-Fenster in Bukarest und Ilfov mit zertifizierten Eigenteams, Illbruck-Bändern und Blaugelb Triotherm Plus Vorblendrahmen. [Angebot Montage anfordern](/de/kontakt).`,
+Neofort BIZ montiert Salamander-Fenster in Bukarest und Ilfov mit zertifizierten Eigenteams, Illbruck-Bändern und Blaugelb Triotherm Plus Vorblendrahmen. [Angebot Montage anfordern](/de/kontakt).
+
+## Häufig gestellte Fragen
+
+### Welche Probleme entstehen, wenn Salamander-Fenster falsch eingebaut werden?
+
+Die Profilleistung (Uf bis 0,9 W/m²K, 47 dB Schalldämmung) bedeutet nichts, wenn der Einbau falsch ist. Falscher Einbau erzeugt Wärmebrücken an der Rahmen-Mauerwerk-Fuge, Wasser- und Lufteintritt, Kondensat an Fensterbänken und mit der Zeit Rahmenverformung.
+
+### Was umfasst der nZEB-Einbau nach der RAL-Regel?
+
+Die RAL-Regel verlangt Abdichtung in drei Zonen: innen mit Dampfsperrband (verhindert Dampfmigration zur Fuge), mittig mit Schaum für Wärme- und Schalldämmung und außen mit vorkomprimiertem Band für Wasser- und Windschutz. Jede Schicht hat eine eigene Rolle.
+
+### Wofür werden Blaugelb Triotherm Plus Vorrahmen beim Einbau verwendet?
+
+Der Blaugelb Triotherm Plus Vorrahmen wird vor dem Fenster eingebaut und schafft eine durchgehende Wärmebarriere zwischen Rahmen und Mauerwerk, die die Perimeter-Wärmebrücke beseitigt — die Hauptursache für Fensterbankkondensat in Altbauten. Er ist Standard für Neubauten und nZEB-Renovierungen.
+
+### Wie beginnt ein professioneller Fenstereinbau?
+
+Immer mit Vor-Ort-Messungen, nicht mit Näherungsmaßen. Der Techniker misst die Maueröffnung und berechnet den Rahmen unter Berücksichtigung von Wandtyp (Porenbeton, Ziegel, Beton), Putz- oder Dämmstärke, Einbaumethode (direkt oder auf Vorrahmen) und Fensterbänken.
+`,
 
       fr: `## Pourquoi la pose des fenêtres Salamander est-elle si importante ?
 
@@ -6304,7 +6817,26 @@ Après la pose, la quincaillerie Roto NT ou Winkhaus doit être **réglée préc
 
 ---
 
-Neofort BIZ pose des fenêtres Salamander à Bucarest et Ilfov avec des équipes certifiées, bandes Illbruck et précadres Blaugelb Triotherm Plus. [Demander un devis pose](/fr/contact).`,
+Neofort BIZ pose des fenêtres Salamander à Bucarest et Ilfov avec des équipes certifiées, bandes Illbruck et précadres Blaugelb Triotherm Plus. [Demander un devis pose](/fr/contact).
+
+## Questions fréquentes
+
+### Quels problèmes surviennent si les fenêtres Salamander sont mal posées ?
+
+La performance du profilé (Uf jusqu'à 0,9 W/m²K, 47 dB d'isolation acoustique) ne sert à rien si la pose est mauvaise. Une pose incorrecte crée des ponts thermiques au joint dormant-maçonnerie, des infiltrations d'eau et d'air, de la condensation sur les appuis et, avec le temps, une déformation du dormant.
+
+### Qu'implique la pose nZEB selon la règle RAL ?
+
+La règle RAL exige une étanchéité en trois zones : intérieur avec bande pare-vapeur (empêchant la migration de vapeur vers le joint), médiane avec mousse pour isolation thermique et acoustique, et extérieur avec bande précomprimée pour protection eau et vent. Chaque couche a un rôle distinct.
+
+### À quoi servent les précadres Blaugelb Triotherm Plus à la pose ?
+
+Le précadre Blaugelb Triotherm Plus se pose avant la fenêtre et crée une barrière thermique continue entre dormant et maçonnerie, éliminant le pont thermique périmétrique — la principale cause de condensation sur appui dans les logements anciens. C'est le standard pour le neuf et les rénovations nZEB.
+
+### Comment commence une pose professionnelle de fenêtres ?
+
+Toujours par des mesures sur place, pas des dimensions approximatives. Le technicien mesure la baie en maçonnerie et calcule le dormant en tenant compte du type de mur (béton cellulaire, brique, béton), de l'épaisseur d'enduit ou d'isolation, de la méthode de pose (directe ou sur précadre) et des appuis.
+`,
 
       es: `## Por qué la instalación de ventanas Salamander importa tanto
 
@@ -6361,7 +6893,26 @@ Tras la instalación, la herraje Roto NT o Winkhaus debe ser **ajustado con prec
 
 ---
 
-Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos certificados, bandas Illbruck y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contact).`,
+Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos certificados, bandas Illbruck y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contact).
+
+## Preguntas frecuentes
+
+### ¿Qué problemas surgen si las ventanas Salamander se montan mal?
+
+El rendimiento del perfil (Uf hasta 0,9 W/m²K, 47 dB de aislamiento acústico) no sirve de nada si la instalación está mal. Una instalación incorrecta genera puentes térmicos en la junta marco-muro, infiltraciones de agua y aire, condensación en los alféizares y, con el tiempo, deformación del marco.
+
+### ¿Qué implica la instalación nZEB según la regla RAL?
+
+La regla RAL exige sellado en tres zonas: interior con banda barrera de vapor (impide la migración de vapor a la junta), media con espuma para aislamiento térmico y acústico, y exterior con banda precomprimida para protección al agua y viento. Cada capa tiene un papel distinto.
+
+### ¿Para qué sirven los premarcos Blaugelb Triotherm Plus en la instalación?
+
+El premarco Blaugelb Triotherm Plus se monta antes de la ventana y crea una barrera térmica continua entre marco y muro, eliminando el puente térmico perimetral — la causa principal de condensación en el alféizar en viviendas antiguas. Es el estándar para obra nueva y reformas nZEB.
+
+### ¿Cómo empieza una instalación profesional de ventanas?
+
+Siempre con mediciones in situ, no con dimensiones aproximadas. El técnico mide el hueco de obra y calcula el marco teniendo en cuenta el tipo de muro (hormigón celular, ladrillo, hormigón), el grosor del revoco o aislamiento, el método de instalación (directo o sobre premarco) y los alféizares.
+`,
 
       it: `## Perché l'installazione delle finestre Salamander è così importante
 
@@ -6418,7 +6969,26 @@ Dopo l'installazione, la ferramenta Roto NT o Winkhaus deve essere **regolata co
 
 ---
 
-Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Illbruck e precornici Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contact).`,
+Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Illbruck e precornici Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contact).
+
+## Domande frequenti
+
+### Quali problemi sorgono se le finestre Salamander sono montate male?
+
+Le prestazioni del profilo (Uf fino a 0,9 W/m²K, 47 dB di isolamento acustico) non contano nulla se la posa è sbagliata. Una posa errata genera ponti termici al giunto telaio-muratura, infiltrazioni d'acqua e aria, condensa sui davanzali e, col tempo, deformazione del telaio.
+
+### Cosa comporta la posa nZEB secondo la regola RAL?
+
+La regola RAL richiede sigillatura in tre zone: interna con nastro barriera al vapore (impedisce la migrazione del vapore al giunto), mediana con schiuma per isolamento termico e acustico, ed esterna con nastro precompresso per protezione da acqua e vento. Ogni strato ha un ruolo distinto.
+
+### A cosa servono i controtelai Blaugelb Triotherm Plus nella posa?
+
+Il controtelaio Blaugelb Triotherm Plus si monta prima della finestra e crea una barriera termica continua tra telaio e muratura, eliminando il ponte termico perimetrale — la causa principale della condensa sul davanzale nelle case vecchie. È lo standard per nuove costruzioni e ristrutturazioni nZEB.
+
+### Come inizia una posa professionale di finestre?
+
+Sempre con misurazioni in loco, non con dimensioni approssimative. Il tecnico misura il vano in muratura e calcola il telaio considerando il tipo di parete (calcestruzzo cellulare, mattone, cemento), lo spessore di intonaco o isolamento, il metodo di posa (diretto o su controtelaio) e i davanzali.
+`,
     },
   },
 
@@ -6571,7 +7141,26 @@ Diferența de 700 lei se recuperează în 3–5 ani din facturile la energie —
 
 ---
 
-Neofort BIZ oferă ferestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) cu montaj nZEB în București și Ilfov. Ofertă personalizată în 24 ore — [solicită acum](/ro/contact).`,
+Neofort BIZ oferă ferestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) cu montaj nZEB în București și Ilfov. Ofertă personalizată în 24 ore — [solicită acum](/ro/contact).
+
+## Întrebări frecvente
+
+### De ce variază atât de mult prețurile la ferestrele Salamander?
+
+Prețul depinde de 6 factori principali: tipul de profil (greenEvolution 76, bluEvolution 82 sau 92), tipul de geam (dublu/triplu/Low-E), culoarea profilului, feroneria, dimensiunile și tipul de montaj. Diferențele între oferte pot ajunge la 40-80% pentru aceeași dimensiune.
+
+### Care e diferența de preț între geam dublu și triplu la Salamander?
+
+Geamul triplu (44 mm, Ug 0,5-0,7) costă cu 15-25% mai mult decât cel dublu standard (32 mm, Ug 1,0-1,1). Varianta triplu cu argon și Low-E adaugă 20-35%, iar bagheta Warm Edge încă 5-8%, dar elimină condensul pe bagheta interioară.
+
+### Cât costă în plus o culoare sau imitație lemn la profilul Salamander?
+
+Alb standard e prețul de bază. Folia imitație lemn (stejar, nuc, mahon, wenge) adaugă 20-35%, iar culorile RAL speciale prin vopsire pe dublă față adaugă 30-50% față de alb. Feroneria Roto NT standard e de obicei inclusă în prețul de bază la furnizorii serioși.
+
+### Care profil Salamander e potrivit pentru ce tip de locuință?
+
+greenEvolution 76 (5-6 camere, 76 mm) e pentru locuințe standard și renovări economice; bluEvolution 82 (6 camere, 82 mm) pentru case noi cu eficiență ridicată; bluEvolution 92 (6 camere, 92 mm) pentru case pasive și nZEB cu izolare maximă.
+`,
 
       en: `## What Influences Salamander Window Prices in Bucharest?
 
@@ -6652,7 +7241,26 @@ The €140 difference is recovered in 3–5 years from energy bills — and abov
 
 ---
 
-Neofort BIZ offers Salamander windows (greenEvolution 76, bluEvolution 82, bluEvolution 92) with nZEB installation in Bucharest and Ilfov. Personalised quote in 24 hours — [request now](/en/contact).`,
+Neofort BIZ offers Salamander windows (greenEvolution 76, bluEvolution 82, bluEvolution 92) with nZEB installation in Bucharest and Ilfov. Personalised quote in 24 hours — [request now](/en/contact).
+
+## Frequently Asked Questions
+
+### Why do Salamander window prices vary so much?
+
+The price depends on 6 main factors: profile type (greenEvolution 76, bluEvolution 82 or 92), glazing type (double/triple/Low-E), profile colour, hardware, dimensions and fitting type. Differences between quotes can reach 40-80% for the same size.
+
+### What is the price difference between double and triple glazing at Salamander?
+
+Triple glazing (44 mm, Ug 0.5-0.7) costs 15-25% more than standard double (32 mm, Ug 1.0-1.1). The triple variant with argon and Low-E adds 20-35%, and the Warm Edge spacer adds another 5-8%, but eliminates condensation on the inner spacer.
+
+### How much extra is a colour or wood-effect finish on a Salamander profile?
+
+Standard white is the base price. Wood-effect foil (oak, walnut, mahogany, wenge) adds 20-35%, and special RAL colours via double-side coating add 30-50% over white. Standard Roto NT hardware is usually included in the base price at reputable suppliers.
+
+### Which Salamander profile suits which type of home?
+
+greenEvolution 76 (5-6 chambers, 76 mm) is for standard homes and economical renovations; bluEvolution 82 (6 chambers, 82 mm) for new houses with high efficiency; bluEvolution 92 (6 chambers, 92 mm) for passive houses and nZEB with maximum insulation.
+`,
 
       de: `## Was beeinflusst die Preise von Salamander-Fenstern in Bukarest?
 
@@ -6722,7 +7330,26 @@ Die Differenz von 140 € amortisiert sich in 3–5 Jahren über die Energiekost
 
 ---
 
-Neofort BIZ bietet Salamander-Fenster (greenEvolution 76, bluEvolution 82, bluEvolution 92) mit nZEB-Montage in Bukarest und Ilfov. Individuelles Angebot in 24 Stunden — [jetzt anfragen](/de/kontakt).`,
+Neofort BIZ bietet Salamander-Fenster (greenEvolution 76, bluEvolution 82, bluEvolution 92) mit nZEB-Montage in Bukarest und Ilfov. Individuelles Angebot in 24 Stunden — [jetzt anfragen](/de/kontakt).
+
+## Häufig gestellte Fragen
+
+### Warum variieren die Preise für Salamander-Fenster so stark?
+
+Der Preis hängt von 6 Hauptfaktoren ab: Profiltyp (greenEvolution 76, bluEvolution 82 oder 92), Verglasungstyp (Doppel/Dreifach/Low-E), Profilfarbe, Beschlag, Maße und Einbauart. Die Unterschiede zwischen Angeboten können 40-80% bei gleicher Größe erreichen.
+
+### Was ist der Preisunterschied zwischen Doppel- und Dreifachglas bei Salamander?
+
+Dreifachglas (44 mm, Ug 0,5-0,7) kostet 15-25% mehr als Standard-Doppel (32 mm, Ug 1,0-1,1). Die Dreifach-Variante mit Argon und Low-E fügt 20-35% hinzu, und der Warm-Edge-Abstandhalter weitere 5-8%, beseitigt aber Kondensat am inneren Abstandhalter.
+
+### Wie viel kostet eine Farbe oder Holzoptik beim Salamander-Profil extra?
+
+Standardweiß ist der Basispreis. Holzoptik-Folie (Eiche, Nuss, Mahagoni, Wenge) fügt 20-35% hinzu, und spezielle RAL-Farben durch beidseitige Beschichtung fügen 30-50% gegenüber Weiß hinzu. Standard-Roto-NT-Beschlag ist bei seriösen Anbietern meist im Basispreis enthalten.
+
+### Welches Salamander-Profil passt zu welchem Haustyp?
+
+greenEvolution 76 (5-6 Kammern, 76 mm) ist für Standardhäuser und wirtschaftliche Renovierungen; bluEvolution 82 (6 Kammern, 82 mm) für Neubauten mit hoher Effizienz; bluEvolution 92 (6 Kammern, 92 mm) für Passivhäuser und nZEB mit maximaler Dämmung.
+`,
 
       fr: `## Qu'est-ce qui influence les prix des fenêtres Salamander à Bucarest ?
 
@@ -6792,7 +7419,26 @@ La différence de 140 € est récupérée en 3–5 ans sur les factures d'éner
 
 ---
 
-Neofort BIZ propose des fenêtres Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) avec pose nZEB à Bucarest et Ilfov. Devis personnalisé en 24 heures — [demander maintenant](/fr/contact).`,
+Neofort BIZ propose des fenêtres Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) avec pose nZEB à Bucarest et Ilfov. Devis personnalisé en 24 heures — [demander maintenant](/fr/contact).
+
+## Questions fréquentes
+
+### Pourquoi les prix des fenêtres Salamander varient-ils autant ?
+
+Le prix dépend de 6 facteurs principaux : type de profilé (greenEvolution 76, bluEvolution 82 ou 92), type de vitrage (double/triple/Low-E), couleur du profilé, quincaillerie, dimensions et type de pose. Les écarts entre devis peuvent atteindre 40-80% pour la même taille.
+
+### Quelle est la différence de prix entre double et triple vitrage chez Salamander ?
+
+Le triple vitrage (44 mm, Ug 0,5-0,7) coûte 15-25% de plus que le double standard (32 mm, Ug 1,0-1,1). La variante triple avec argon et Low-E ajoute 20-35%, et l'intercalaire Warm Edge encore 5-8%, mais élimine la condensation sur l'intercalaire intérieur.
+
+### Combien coûte en plus une couleur ou un aspect bois sur un profilé Salamander ?
+
+Le blanc standard est le prix de base. Le film aspect bois (chêne, noyer, acajou, wengé) ajoute 20-35%, et les couleurs RAL spéciales par laquage double face ajoutent 30-50% par rapport au blanc. La quincaillerie Roto NT standard est généralement incluse dans le prix de base chez les fournisseurs sérieux.
+
+### Quel profilé Salamander convient à quel type de logement ?
+
+Le greenEvolution 76 (5-6 chambres, 76 mm) est pour les logements standard et rénovations économiques ; le bluEvolution 82 (6 chambres, 82 mm) pour les maisons neuves à haute efficacité ; le bluEvolution 92 (6 chambres, 92 mm) pour les maisons passives et nZEB à isolation maximale.
+`,
 
       es: `## ¿Qué influye en los precios de las ventanas Salamander en Bucarest?
 
@@ -6862,7 +7508,26 @@ La diferencia de 140 € se recupera en 3–5 años en facturas de energía — 
 
 ---
 
-Neofort BIZ ofrece ventanas Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 24 horas — [solicitar ahora](/es/contact).`,
+Neofort BIZ ofrece ventanas Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 24 horas — [solicitar ahora](/es/contact).
+
+## Preguntas frecuentes
+
+### ¿Por qué varían tanto los precios de las ventanas Salamander?
+
+El precio depende de 6 factores principales: tipo de perfil (greenEvolution 76, bluEvolution 82 o 92), tipo de vidrio (doble/triple/Low-E), color del perfil, herrajes, dimensiones y tipo de instalación. Las diferencias entre presupuestos pueden llegar al 40-80% para el mismo tamaño.
+
+### ¿Cuál es la diferencia de precio entre vidrio doble y triple en Salamander?
+
+El vidrio triple (44 mm, Ug 0,5-0,7) cuesta un 15-25% más que el doble estándar (32 mm, Ug 1,0-1,1). La variante triple con argón y Low-E añade un 20-35%, y el separador Warm Edge otro 5-8%, pero elimina la condensación en el separador interior.
+
+### ¿Cuánto cuesta de más un color o imitación madera en el perfil Salamander?
+
+El blanco estándar es el precio base. La lámina imitación madera (roble, nogal, caoba, wengué) añade un 20-35%, y los colores RAL especiales mediante lacado a doble cara añaden un 30-50% sobre el blanco. El herraje Roto NT estándar suele estar incluido en el precio base en proveedores serios.
+
+### ¿Qué perfil Salamander conviene a cada tipo de vivienda?
+
+El greenEvolution 76 (5-6 cámaras, 76 mm) es para viviendas estándar y reformas económicas; el bluEvolution 82 (6 cámaras, 82 mm) para casas nuevas de alta eficiencia; el bluEvolution 92 (6 cámaras, 92 mm) para casas pasivas y nZEB con aislamiento máximo.
+`,
 
       it: `## Cosa influenza i prezzi delle finestre Salamander a Bucarest?
 
@@ -6932,7 +7597,26 @@ La differenza di 140 € si recupera in 3–5 anni sulle bollette energetiche �
 
 ---
 
-Neofort BIZ offre finestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 24 ore — [richiedi ora](/it/contact).`,
+Neofort BIZ offre finestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 24 ore — [richiedi ora](/it/contact).
+
+## Domande frequenti
+
+### Perché i prezzi delle finestre Salamander variano così tanto?
+
+Il prezzo dipende da 6 fattori principali: tipo di profilo (greenEvolution 76, bluEvolution 82 o 92), tipo di vetro (doppio/triplo/Low-E), colore del profilo, ferramenta, dimensioni e tipo di posa. Le differenze tra preventivi possono raggiungere il 40-80% per la stessa misura.
+
+### Qual è la differenza di prezzo tra vetro doppio e triplo da Salamander?
+
+Il vetro triplo (44 mm, Ug 0,5-0,7) costa il 15-25% in più del doppio standard (32 mm, Ug 1,0-1,1). La variante tripla con argon e Low-E aggiunge il 20-35%, e il distanziatore Warm Edge un altro 5-8%, ma elimina la condensa sul distanziatore interno.
+
+### Quanto costa in più un colore o effetto legno sul profilo Salamander?
+
+Il bianco standard è il prezzo base. La pellicola effetto legno (rovere, noce, mogano, wengé) aggiunge il 20-35%, e i colori RAL speciali con verniciatura bifacciale aggiungono il 30-50% rispetto al bianco. La ferramenta Roto NT standard è di solito inclusa nel prezzo base presso fornitori seri.
+
+### Quale profilo Salamander è adatto a quale tipo di abitazione?
+
+Il greenEvolution 76 (5-6 camere, 76 mm) è per abitazioni standard e ristrutturazioni economiche; il bluEvolution 82 (6 camere, 82 mm) per case nuove ad alta efficienza; il bluEvolution 92 (6 camere, 92 mm) per case passive e nZEB con isolamento massimo.
+`,
     },
   },
 
@@ -7059,7 +7743,26 @@ Pergola cu pânză Somfy e alegerea corectă dacă: terasa e acoperită în peri
 
 Nu există un răspuns universal. **Pergola bioclimatică** câștigă la versatilitate și durabilitate totală, dar costă semnificativ mai mult. **Pergola clasică cu pânză Somfy** câștigă la raport calitate-preț, automatizare și flexibilitate. La Neofort BIZ furnizăm și montăm pergole cu pânză automatizate Somfy — motor Pergola 50/60 RGS io, pânze impermeabile UPF 50+, configurare TaHoma inclus.
 
-[Solicită ofertă pergolă automată Somfy](/ro/umbrire/pergole-automate-somfy)`,
+[Solicită ofertă pergolă automată Somfy](/ro/umbrire/pergole-automate-somfy)
+
+## Întrebări frecvente
+
+### Care e diferența între pergola bioclimatică și cea clasică?
+
+Pergola bioclimatică are acoperiș din lamele de aluminiu orientabile între 0° și 120°, cu evacuare integrată a apei — funcționează permanent, inclusiv în ploaie. Pergola clasică folosește o pânză retractabilă (manual sau electric) care se strânge când vrei lumină naturală.
+
+### De ce e pergola bioclimatică mai scumpă decât cea clasică?
+
+Pergola bioclimatică costă de 2-4 ori mai mult pentru că are structură permanentă din aluminiu, lamele extrudate orientabile, sistem integrat de evacuare a apei și instalare mai complexă cu fundații sau ancore solide. În schimb oferă durabilitate superioară și utilizare în orice vreme.
+
+### Funcționează pergola bioclimatică pe ploaie?
+
+Da. Când lamelele de aluminiu sunt închise, formează un acoperiș etanș care evacuează apa de ploaie prin profile, fără pânză. Când sunt deschise, ventilează spațiul de dedesubt. Acesta e avantajul principal față de pergola clasică, care depinde de pânză pentru protecție.
+
+### Ce pergolă să aleg pentru terasa mea?
+
+Pergola bioclimatică e ideală pentru utilizare permanentă, terase folosite tot anul și buget mai mare. Pergola clasică cu pânză retractabilă (ex. Somfy Pergola RGS io) e potrivită pentru buget accesibil și terase folosite sezonier, oferind umbră flexibilă când e nevoie.
+`,
       en: `## Bioclimatic vs classic pergola — what differences really matter?
 
 If you have a terrace and want to cover it, you will quickly encounter two main categories of pergolas: the **bioclimatic pergola** (with orientable aluminium louvres) and the **classic pergola** (with retractable fabric, manual or motorised). Both have clear advantages, but for different terraces.
@@ -7103,7 +7806,26 @@ A classic retractable fabric pergola (including Somfy models with Pergola RGS io
 
 **Bioclimatic pergola** wins on versatility and total durability but costs significantly more. **Classic Somfy fabric pergola** wins on value for money, automation and flexibility. Neofort BIZ supplies and installs Somfy automatic pergolas — Pergola 50/60 RGS io motor, UPF 50+ waterproof fabrics, TaHoma configuration included.
 
-[Request a Somfy automatic pergola quote](/en/shading-systems/somfy-automatic-pergolas)`,
+[Request a Somfy automatic pergola quote](/en/shading-systems/somfy-automatic-pergolas)
+
+## Frequently Asked Questions
+
+### What is the difference between a bioclimatic and a classic pergola?
+
+A bioclimatic pergola has a roof of aluminium slats adjustable between 0° and 120°, with integrated water drainage — it works permanently, including in rain. A classic pergola uses a retractable fabric (manual or electric) that folds away when you want natural light.
+
+### Why is a bioclimatic pergola more expensive than a classic one?
+
+A bioclimatic pergola costs 2-4 times more because it has a permanent aluminium structure, adjustable extruded slats, an integrated water-drainage system and more complex installation with foundations or solid anchors. In return it offers superior durability and all-weather use.
+
+### Does a bioclimatic pergola work in the rain?
+
+Yes. When the aluminium slats are closed, they form a watertight roof that drains rainwater through the profiles, without fabric. When open, they ventilate the space below. This is the main advantage over a classic pergola, which depends on fabric for protection.
+
+### Which pergola should I choose for my terrace?
+
+A bioclimatic pergola is ideal for permanent use, terraces used year-round and a larger budget. A classic pergola with retractable fabric (e.g. Somfy Pergola RGS io) suits an affordable budget and seasonally used terraces, offering flexible shade when needed.
+`,
       de: `## Bioklimatische vs klassische Pergola — welche Unterschiede zählen wirklich?
 
 Beim Überdachen einer Terrasse begegnen Sie schnell zwei Hauptkategorien: der **bioklimatischen Pergola** (mit verstellbaren Aluminiumlamellen) und der **klassischen Pergola** (mit einziehbarem Markisentuch, manuell oder motorisiert).
@@ -7142,7 +7864,26 @@ Eine klassische Markisenpergola (Somfy Pergola 50/60 RGS io) verwendet wasserdic
 
 Neofort BIZ liefert und installiert Somfy-Automatikpergolen in Bukarest und Ilfov — Motor Pergola RGS io, UV-Schutz UPF 50+, TaHoma-Konfiguration inklusive.
 
-[Somfy Automatikpergola anfragen](/de/beschattungssysteme/somfy-automatische-pergolen)`,
+[Somfy Automatikpergola anfragen](/de/beschattungssysteme/somfy-automatische-pergolen)
+
+## Häufig gestellte Fragen
+
+### Was ist der Unterschied zwischen einer bioklimatischen und einer klassischen Pergola?
+
+Eine bioklimatische Pergola hat ein Dach aus Aluminiumlamellen, verstellbar zwischen 0° und 120°, mit integrierter Wasserableitung — sie funktioniert dauerhaft, auch im Regen. Eine klassische Pergola nutzt ein einziehbares Tuch (manuell oder elektrisch), das sich zusammenfaltet, wenn man natürliches Licht möchte.
+
+### Warum ist eine bioklimatische Pergola teurer als eine klassische?
+
+Eine bioklimatische Pergola kostet 2-4 mal mehr, weil sie eine dauerhafte Aluminiumstruktur, verstellbare extrudierte Lamellen, ein integriertes Wasserableitsystem und eine komplexere Installation mit Fundamenten oder festen Ankern hat. Dafür bietet sie überlegene Haltbarkeit und Allwetternutzung.
+
+### Funktioniert eine bioklimatische Pergola im Regen?
+
+Ja. Wenn die Aluminiumlamellen geschlossen sind, bilden sie ein wasserdichtes Dach, das Regenwasser durch die Profile ableitet, ohne Tuch. Wenn geöffnet, belüften sie den Raum darunter. Das ist der Hauptvorteil gegenüber einer klassischen Pergola, die für den Schutz auf das Tuch angewiesen ist.
+
+### Welche Pergola soll ich für meine Terrasse wählen?
+
+Eine bioklimatische Pergola ist ideal für dauerhafte Nutzung, ganzjährig genutzte Terrassen und ein größeres Budget. Eine klassische Pergola mit einziehbarem Tuch (z. B. Somfy Pergola RGS io) passt zu einem erschwinglichen Budget und saisonal genutzten Terrassen und bietet flexiblen Schatten bei Bedarf.
+`,
       fr: `## Pergola bioclimatique vs pergola classique — quelles différences comptent vraiment ?
 
 Pour couvrir une terrasse, vous rencontrerez rapidement deux catégories : la **pergola bioclimatique** (à lames en aluminium orientables) et la **pergola classique** (à toile rétractable, manuelle ou motorisée).
@@ -7162,7 +7903,26 @@ Pour couvrir une terrasse, vous rencontrerez rapidement deux catégories : la **
 
 Neofort BIZ fournit et installe des pergolas automatiques Somfy à Bucarest et en Ilfov — moteur Pergola RGS io, toile imperméable UPF 50+, configuration TaHoma incluse.
 
-[Demander un devis pergola automatique Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy)`,
+[Demander un devis pergola automatique Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy)
+
+## Questions fréquentes
+
+### Quelle est la différence entre une pergola bioclimatique et classique ?
+
+Une pergola bioclimatique a un toit en lames d'aluminium orientables entre 0° et 120°, avec évacuation d'eau intégrée — elle fonctionne en permanence, y compris sous la pluie. Une pergola classique utilise une toile rétractable (manuelle ou électrique) qui se replie quand on veut de la lumière naturelle.
+
+### Pourquoi une pergola bioclimatique est-elle plus chère qu'une classique ?
+
+Une pergola bioclimatique coûte 2 à 4 fois plus cher car elle a une structure permanente en aluminium, des lames extrudées orientables, un système d'évacuation d'eau intégré et une installation plus complexe avec fondations ou ancrages solides. En retour, elle offre une durabilité supérieure et un usage par tous les temps.
+
+### Une pergola bioclimatique fonctionne-t-elle sous la pluie ?
+
+Oui. Quand les lames en aluminium sont fermées, elles forment un toit étanche qui évacue l'eau de pluie par les profilés, sans toile. Quand elles sont ouvertes, elles ventilent l'espace en dessous. C'est l'avantage principal sur une pergola classique, qui dépend de la toile pour la protection.
+
+### Quelle pergola choisir pour ma terrasse ?
+
+Une pergola bioclimatique est idéale pour un usage permanent, des terrasses utilisées toute l'année et un budget plus élevé. Une pergola classique à toile rétractable (ex. Somfy Pergola RGS io) convient à un budget abordable et des terrasses à usage saisonnier, offrant de l'ombre flexible au besoin.
+`,
       es: `## Pérgola bioclimática vs pérgola clásica — ¿qué diferencias importan realmente?
 
 Para cubrir una terraza encontrará rápidamente dos categorías: la **pérgola bioclimática** (con lamas de aluminio orientables) y la **pérgola clásica** (con tela retráctil, manual o motorizada).
@@ -7182,7 +7942,26 @@ Para cubrir una terraza encontrará rápidamente dos categorías: la **pérgola 
 
 Neofort BIZ suministra e instala pérgolas automáticas Somfy en Bucarest e Ilfov — motor Pergola RGS io, tela impermeable UPF 50+, configuración TaHoma incluida.
 
-[Solicitar presupuesto pérgola automática Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy)`,
+[Solicitar presupuesto pérgola automática Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy)
+
+## Preguntas frecuentes
+
+### ¿Cuál es la diferencia entre una pérgola bioclimática y una clásica?
+
+Una pérgola bioclimática tiene techo de lamas de aluminio orientables entre 0° y 120°, con evacuación de agua integrada — funciona de forma permanente, incluso con lluvia. Una pérgola clásica usa una lona retráctil (manual o eléctrica) que se recoge cuando quieres luz natural.
+
+### ¿Por qué una pérgola bioclimática es más cara que una clásica?
+
+Una pérgola bioclimática cuesta 2-4 veces más porque tiene estructura permanente de aluminio, lamas extruidas orientables, sistema integrado de evacuación de agua e instalación más compleja con cimientos o anclajes sólidos. A cambio ofrece durabilidad superior y uso en cualquier clima.
+
+### ¿Funciona una pérgola bioclimática bajo la lluvia?
+
+Sí. Cuando las lamas de aluminio están cerradas, forman un techo estanco que evacúa el agua de lluvia por los perfiles, sin lona. Cuando están abiertas, ventilan el espacio inferior. Esta es la ventaja principal frente a una pérgola clásica, que depende de la lona para la protección.
+
+### ¿Qué pérgola elegir para mi terraza?
+
+Una pérgola bioclimática es ideal para uso permanente, terrazas usadas todo el año y un presupuesto mayor. Una pérgola clásica con lona retráctil (ej. Somfy Pergola RGS io) conviene a un presupuesto asequible y terrazas de uso estacional, ofreciendo sombra flexible cuando se necesita.
+`,
       it: `## Pergola bioclimatica vs pergola classica — quali differenze contano davvero?
 
 Per coprire una terrazza incontrerete rapidamente due categorie: la **pergola bioclimatica** (con lamelle in alluminio orientabili) e la **pergola classica** (con telo retrattile, manuale o motorizzato).
@@ -7202,7 +7981,26 @@ Per coprire una terrazza incontrerete rapidamente due categorie: la **pergola bi
 
 Neofort BIZ fornisce e installa pergole automatiche Somfy a Bucarest e Ilfov — motore Pergola RGS io, telo impermeabile UPF 50+, configurazione TaHoma inclusa.
 
-[Richiedere preventivo pergola automatica Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy)`,
+[Richiedere preventivo pergola automatica Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy)
+
+## Domande frequenti
+
+### Qual è la differenza tra una pergola bioclimatica e una classica?
+
+Una pergola bioclimatica ha un tetto di lamelle in alluminio orientabili tra 0° e 120°, con scarico dell'acqua integrato — funziona in modo permanente, anche sotto la pioggia. Una pergola classica usa un telo retrattile (manuale o elettrico) che si ripiega quando si vuole luce naturale.
+
+### Perché una pergola bioclimatica è più costosa di una classica?
+
+Una pergola bioclimatica costa 2-4 volte di più perché ha struttura permanente in alluminio, lamelle estruse orientabili, un sistema integrato di scarico dell'acqua e un'installazione più complessa con fondazioni o ancoraggi solidi. In cambio offre durabilità superiore e uso in ogni condizione meteo.
+
+### Una pergola bioclimatica funziona sotto la pioggia?
+
+Sì. Quando le lamelle in alluminio sono chiuse, formano un tetto impermeabile che scarica l'acqua piovana attraverso i profili, senza telo. Quando sono aperte, ventilano lo spazio sottostante. Questo è il vantaggio principale rispetto a una pergola classica, che dipende dal telo per la protezione.
+
+### Quale pergola scegliere per il mio terrazzo?
+
+Una pergola bioclimatica è ideale per uso permanente, terrazzi usati tutto l'anno e un budget maggiore. Una pergola classica con telo retrattile (es. Somfy Pergola RGS io) è adatta a un budget accessibile e terrazzi a uso stagionale, offrendo ombra flessibile quando serve.
+`,
     },
   },
   {
@@ -7377,7 +8175,26 @@ Denumirea „92" indică **adâncimea de construcție de 92 mm** — cea mai mar
 
 ## Concluzie
 
-**BluEvolution 92 pentru exigențele maxime**, **GreenEvolution 76 pentru standardul optim calitate-preț**. Echipa Neofort BIZ oferă consultanță tehnică gratuită și calcul termic personalizat. Contactați-ne pentru o ofertă detaliată.`,
+**BluEvolution 92 pentru exigențele maxime**, **GreenEvolution 76 pentru standardul optim calitate-preț**. Echipa Neofort BIZ oferă consultanță tehnică gratuită și calcul termic personalizat. Contactați-ne pentru o ofertă detaliată.
+
+## Întrebări frecvente
+
+### Care e diferența principală între BluEvolution 92 și GreenEvolution 76?
+
+BluEvolution 92 are 92 mm adâncime, 6 camere, Uf 0,95 W/m²K și Uw până la 0,70 cu geam triplu — profilul de vârf Salamander, certificat nZEB. GreenEvolution 76 are 76 mm adâncime, ideal pentru locuințe standard și renovări la un preț mai accesibil.
+
+### Ce performanță energetică are BluEvolution 92?
+
+BluEvolution 92 are 6 camere plus cameră suplimentară în cercevea, Uf profil 0,95 W/m²K și Uw până la 0,70 W/m²K cu geam triplu Low-E + argon. Acceptă pachete de geam până la 48 mm (2 sau 3 foi, argon sau krypton) și e certificat pentru standard nZEB.
+
+### Ce izolare fonică oferă BluEvolution 92?
+
+BluEvolution 92 oferă izolare fonică până la 47 dB Rw, ideal pentru locuințe pe străzi cu trafic. Adâncimea de 92 mm și cele 6 camere permit configurații de geam care reduc semnificativ zgomotul exterior față de profilele mai subțiri.
+
+### Există BluEvolution 92 placat cu aluminiu?
+
+Da. BluEvolution 92 Placat Aluminiu e profilul PVC acoperit cu folie de aluminiu pe exterior — aspect de aluminiu cu izolarea termică a PVC-ului. E disponibil în orice culoare RAL, combinând estetica premium a aluminiului cu performanța energetică superioară a PVC-ului.
+`,
 
       en: `## Why Does the PVC Profile Choice Matter?
 
@@ -7490,7 +8307,26 @@ The "92" designation indicates a **construction depth of 92 mm** — the largest
 
 ## Conclusion
 
-**BluEvolution 92 for maximum demands**, **GreenEvolution 76 for optimal value-for-money**. The Neofort BIZ team offers free technical consultancy and personalised thermal calculations. Contact us for a detailed quote.`,
+**BluEvolution 92 for maximum demands**, **GreenEvolution 76 for optimal value-for-money**. The Neofort BIZ team offers free technical consultancy and personalised thermal calculations. Contact us for a detailed quote.
+
+## Frequently Asked Questions
+
+### What is the main difference between BluEvolution 92 and GreenEvolution 76?
+
+BluEvolution 92 has 92 mm depth, 6 chambers, Uf 0.95 W/m²K and Uw down to 0.70 with triple glazing — Salamander's top profile, nZEB certified. GreenEvolution 76 has 76 mm depth, ideal for standard homes and renovations at a more affordable price.
+
+### What energy performance does BluEvolution 92 have?
+
+BluEvolution 92 has 6 chambers plus an extra chamber in the sash, profile Uf 0.95 W/m²K and Uw down to 0.70 W/m²K with triple Low-E + argon glazing. It accepts glass units up to 48 mm (double or triple, argon or krypton) and is certified for the nZEB standard.
+
+### What sound insulation does BluEvolution 92 offer?
+
+BluEvolution 92 offers sound insulation up to 47 dB Rw, ideal for homes on busy streets. The 92 mm depth and 6 chambers allow glass configurations that significantly reduce outside noise compared to thinner profiles.
+
+### Is there an aluminium-clad BluEvolution 92?
+
+Yes. BluEvolution 92 Aluminium-Clad is the PVC profile covered with aluminium foil on the outside — an aluminium look with the thermal insulation of PVC. It is available in any RAL colour, combining the premium aesthetics of aluminium with the superior energy performance of PVC.
+`,
 
       de: `## Warum ist die Wahl des PVC-Profils so wichtig?
 
@@ -7603,7 +8439,26 @@ Die Bezeichnung „92" steht für eine **Bautiefe von 92 mm** — die größte i
 
 ## Fazit
 
-**BluEvolution 92 für höchste Ansprüche**, **GreenEvolution 76 für optimales Preis-Leistungs-Verhältnis**. Das Neofort BIZ-Team bietet kostenlose technische Beratung und individuelle Wärmeberechnungen. Kontaktieren Sie uns für ein detailliertes Angebot.`,
+**BluEvolution 92 für höchste Ansprüche**, **GreenEvolution 76 für optimales Preis-Leistungs-Verhältnis**. Das Neofort BIZ-Team bietet kostenlose technische Beratung und individuelle Wärmeberechnungen. Kontaktieren Sie uns für ein detailliertes Angebot.
+
+## Häufig gestellte Fragen
+
+### Was ist der Hauptunterschied zwischen BluEvolution 92 und GreenEvolution 76?
+
+BluEvolution 92 hat 92 mm Bautiefe, 6 Kammern, Uf 0,95 W/m²K und Uw bis 0,70 mit Dreifachglas — Salamanders Top-Profil, nZEB-zertifiziert. GreenEvolution 76 hat 76 mm Bautiefe, ideal für Standardhäuser und Renovierungen zu einem günstigeren Preis.
+
+### Welche Energieleistung hat BluEvolution 92?
+
+BluEvolution 92 hat 6 Kammern plus eine zusätzliche Kammer im Flügel, Profil-Uf 0,95 W/m²K und Uw bis 0,70 W/m²K mit Dreifach-Low-E + Argon. Es nimmt Glaspakete bis 48 mm auf (Doppel oder Dreifach, Argon oder Krypton) und ist für den nZEB-Standard zertifiziert.
+
+### Welche Schalldämmung bietet BluEvolution 92?
+
+BluEvolution 92 bietet Schalldämmung bis 47 dB Rw, ideal für Häuser an belebten Straßen. Die 92 mm Tiefe und die 6 Kammern ermöglichen Glaskonfigurationen, die den Außenlärm im Vergleich zu dünneren Profilen erheblich reduzieren.
+
+### Gibt es ein aluminiumverkleidetes BluEvolution 92?
+
+Ja. BluEvolution 92 Aluminiumverkleidet ist das PVC-Profil, außen mit Aluminiumfolie überzogen — Aluminiumoptik mit der Wärmedämmung von PVC. Es ist in jeder RAL-Farbe erhältlich und verbindet die Premium-Ästhetik von Aluminium mit der überlegenen Energieleistung von PVC.
+`,
 
       fr: `## Pourquoi le choix du profil PVC est-il si important ?
 
@@ -7716,7 +8571,26 @@ La dénomination « 92 » indique une **profondeur de construction de 92 mm** �
 
 ## Conclusion
 
-**BluEvolution 92 pour les exigences maximales**, **GreenEvolution 76 pour le standard optimal qualité-prix**. L'équipe Neofort BIZ offre un conseil technique gratuit et des calculs thermiques personnalisés. Contactez-nous pour un devis détaillé.`,
+**BluEvolution 92 pour les exigences maximales**, **GreenEvolution 76 pour le standard optimal qualité-prix**. L'équipe Neofort BIZ offre un conseil technique gratuit et des calculs thermiques personnalisés. Contactez-nous pour un devis détaillé.
+
+## Questions fréquentes
+
+### Quelle est la principale différence entre BluEvolution 92 et GreenEvolution 76 ?
+
+Le BluEvolution 92 a 92 mm de profondeur, 6 chambres, Uf 0,95 W/m²K et Uw jusqu'à 0,70 avec triple vitrage — le profilé haut de gamme Salamander, certifié nZEB. Le GreenEvolution 76 a 76 mm de profondeur, idéal pour les logements standard et rénovations à un prix plus abordable.
+
+### Quelle performance énergétique a le BluEvolution 92 ?
+
+Le BluEvolution 92 a 6 chambres plus une chambre supplémentaire dans l'ouvrant, Uf profilé 0,95 W/m²K et Uw jusqu'à 0,70 W/m²K avec triple vitrage Low-E + argon. Il accepte des vitrages jusqu'à 48 mm (double ou triple, argon ou krypton) et est certifié pour le standard nZEB.
+
+### Quelle isolation acoustique offre le BluEvolution 92 ?
+
+Le BluEvolution 92 offre une isolation acoustique jusqu'à 47 dB Rw, idéale pour les logements sur rues passantes. La profondeur de 92 mm et les 6 chambres permettent des configurations de vitrage qui réduisent significativement le bruit extérieur par rapport aux profilés plus fins.
+
+### Existe-t-il un BluEvolution 92 plaqué aluminium ?
+
+Oui. Le BluEvolution 92 Plaqué Aluminium est le profilé PVC recouvert d'un film aluminium à l'extérieur — un aspect aluminium avec l'isolation thermique du PVC. Il est disponible dans toutes les couleurs RAL, combinant l'esthétique premium de l'aluminium avec la performance énergétique supérieure du PVC.
+`,
 
       es: `## ¿Por qué es tan importante la elección del perfil de PVC?
 
@@ -7829,7 +8703,26 @@ La denominación «92» indica una **profundidad de construcción de 92 mm** —
 
 ## Conclusión
 
-**BluEvolution 92 para las máximas exigencias**, **GreenEvolution 76 para el estándar óptimo calidad-precio**. El equipo de Neofort BIZ ofrece asesoramiento técnico gratuito y cálculos térmicos personalizados. Contáctenos para un presupuesto detallado.`,
+**BluEvolution 92 para las máximas exigencias**, **GreenEvolution 76 para el estándar óptimo calidad-precio**. El equipo de Neofort BIZ ofrece asesoramiento técnico gratuito y cálculos térmicos personalizados. Contáctenos para un presupuesto detallado.
+
+## Preguntas frecuentes
+
+### ¿Cuál es la diferencia principal entre BluEvolution 92 y GreenEvolution 76?
+
+El BluEvolution 92 tiene 92 mm de profundidad, 6 cámaras, Uf 0,95 W/m²K y Uw hasta 0,70 con triple vidrio — el perfil tope de Salamander, certificado nZEB. El GreenEvolution 76 tiene 76 mm de profundidad, ideal para viviendas estándar y reformas a un precio más asequible.
+
+### ¿Qué rendimiento energético tiene el BluEvolution 92?
+
+El BluEvolution 92 tiene 6 cámaras más una cámara adicional en la hoja, Uf de perfil 0,95 W/m²K y Uw hasta 0,70 W/m²K con triple vidrio Low-E + argón. Admite vidrios de hasta 48 mm (doble o triple, argón o kriptón) y está certificado para el estándar nZEB.
+
+### ¿Qué aislamiento acústico ofrece el BluEvolution 92?
+
+El BluEvolution 92 ofrece aislamiento acústico hasta 47 dB Rw, ideal para viviendas en calles con tráfico. La profundidad de 92 mm y las 6 cámaras permiten configuraciones de vidrio que reducen significativamente el ruido exterior frente a perfiles más finos.
+
+### ¿Existe el BluEvolution 92 revestido de aluminio?
+
+Sí. El BluEvolution 92 Revestido de Aluminio es el perfil de PVC cubierto con lámina de aluminio en el exterior — aspecto de aluminio con el aislamiento térmico del PVC. Está disponible en cualquier color RAL, combinando la estética premium del aluminio con el rendimiento energético superior del PVC.
+`,
 
       it: `## Perché è così importante la scelta del profilo PVC?
 
@@ -7942,7 +8835,26 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
 
 ## Conclusione
 
-**BluEvolution 92 per le massime esigenze**, **GreenEvolution 76 per lo standard ottimale qualità-prezzo**. Il team Neofort BIZ offre consulenza tecnica gratuita e calcoli termici personalizzati. Contattateci per un preventivo dettagliato.`,
+**BluEvolution 92 per le massime esigenze**, **GreenEvolution 76 per lo standard ottimale qualità-prezzo**. Il team Neofort BIZ offre consulenza tecnica gratuita e calcoli termici personalizzati. Contattateci per un preventivo dettagliato.
+
+## Domande frequenti
+
+### Qual è la differenza principale tra BluEvolution 92 e GreenEvolution 76?
+
+Il BluEvolution 92 ha 92 mm di profondità, 6 camere, Uf 0,95 W/m²K e Uw fino a 0,70 con triplo vetro — il profilo di punta Salamander, certificato nZEB. Il GreenEvolution 76 ha 76 mm di profondità, ideale per abitazioni standard e ristrutturazioni a un prezzo più accessibile.
+
+### Quali prestazioni energetiche ha il BluEvolution 92?
+
+Il BluEvolution 92 ha 6 camere più una camera aggiuntiva nell'anta, Uf profilo 0,95 W/m²K e Uw fino a 0,70 W/m²K con triplo vetro Low-E + argon. Accetta vetrate fino a 48 mm (doppio o triplo, argon o krypton) ed è certificato per lo standard nZEB.
+
+### Quale isolamento acustico offre il BluEvolution 92?
+
+Il BluEvolution 92 offre isolamento acustico fino a 47 dB Rw, ideale per abitazioni su strade trafficate. La profondità di 92 mm e le 6 camere consentono configurazioni di vetro che riducono significativamente il rumore esterno rispetto ai profili più sottili.
+
+### Esiste un BluEvolution 92 rivestito in alluminio?
+
+Sì. Il BluEvolution 92 Rivestito in Alluminio è il profilo in PVC ricoperto con pellicola di alluminio all'esterno — un aspetto alluminio con l'isolamento termico del PVC. È disponibile in qualsiasi colore RAL, combinando l'estetica premium dell'alluminio con le prestazioni energetiche superiori del PVC.
+`,
     },
   },
 
@@ -8090,7 +9002,26 @@ Un montaj complet cu Blaugelb Triotherm+ costă cu **15–25% mai mult** față 
 
 ## Concluzie
 
-La Neofort BIZ, **toate montajele noastre** includ sistemul complet de izolare perimetrală Blaugelb. Nu furnizăm ferestre fără să garantăm și montajul corect. Contactați-ne pentru evaluare și ofertă.`,
+La Neofort BIZ, **toate montajele noastre** includ sistemul complet de izolare perimetrală Blaugelb. Nu furnizăm ferestre fără să garantăm și montajul corect. Contactați-ne pentru evaluare și ofertă.
+
+## Întrebări frecvente
+
+### Din ce material e făcut un precadru Blaugelb Triotherm+?
+
+Precadrul Blaugelb Triotherm+ este un profil termoizolator (λ = 0,035 W/mK) montat în golul de zidărie înaintea ferestrei. Elimină puntea termică dintre toc și zidărie, creează un plan de montaj plat și nivel, separă termic interiorul de exterior și permite integrarea benzilor de etanșare.
+
+### De ce e obligatoriu montajul cu precadre pentru certificarea nZEB?
+
+Fără rezolvarea punților termice perimetrale, o fereastră performantă (Uw 0,70) păstrează sub 60% din performanța termică plătită. Precadrul Triotherm+ elimină exact aceste punți, iar pentru construcțiile care trebuie să atingă standardul nZEB, utilizarea lui e obligatorie tehnic.
+
+### Din ce e compus sistemul complet de montaj Blaugelb?
+
+Sistemul complet include: precadrul Triotherm+ (profil termoizolator principal), banda butilică precomprimată (etanșare exterioară la ploi și vânt), banda de etanșare vapori (barieră pe interior contra condensului), spumă poliuretanică cu densitate controlată și ancore speciale de fixare.
+
+### Cât din performanța termică se pierde la un montaj greșit?
+
+La un montaj greșit, fereastrei îi rămâne mai puțin de 60% din performanța termică plătită, din cauza punților termice perimetrale — zonele din jurul ferestrei unde căldura interioară scapă direct în exterior prin materialul de construcție. Precadrul Blaugelb rezolvă această problemă.
+`,
 
       en: `## The Problem Nobody Mentions at the Point of Sale
 
@@ -8175,7 +9106,26 @@ A complete installation with Blaugelb Triotherm+ costs **15–25% more** than st
 
 ## Conclusion
 
-At Neofort BIZ, **all our installations** include the complete Blaugelb perimeter insulation system. We do not supply windows without also guaranteeing correct installation. Contact us for assessment and quote.`,
+At Neofort BIZ, **all our installations** include the complete Blaugelb perimeter insulation system. We do not supply windows without also guaranteeing correct installation. Contact us for assessment and quote.
+
+## Frequently Asked Questions
+
+### What material is a Blaugelb Triotherm+ pre-frame made of?
+
+The Blaugelb Triotherm+ pre-frame is a thermal-insulating profile (λ = 0.035 W/mK) fitted in the masonry opening before the window. It eliminates the thermal bridge between frame and masonry, creates a flat and level fitting plane, thermally separates inside from outside and allows sealing tapes to be integrated.
+
+### Why is pre-frame fitting mandatory for nZEB certification?
+
+Without solving the perimeter thermal bridges, a high-performance window (Uw 0.70) keeps under 60% of the thermal performance paid for. The Triotherm+ pre-frame eliminates exactly these bridges, and for buildings that must reach the nZEB standard, its use is technically mandatory.
+
+### What does the complete Blaugelb fitting system consist of?
+
+The complete system includes: the Triotherm+ pre-frame (main thermal-insulating profile), pre-compressed butyl tape (exterior sealing against rain and wind), vapour-sealing tape (interior barrier against condensation), density-controlled polyurethane foam and special fixing anchors.
+
+### How much thermal performance is lost with incorrect fitting?
+
+With incorrect fitting, the window keeps under 60% of the thermal performance paid for, due to perimeter thermal bridges — the zones around the window where interior heat escapes directly outside through the building material. The Blaugelb pre-frame solves this problem.
+`,
 
       de: `## Das Problem, das beim Verkauf niemand erwähnt
 
@@ -8260,7 +9210,26 @@ Ein kompletter Einbau mit Blaugelb Triotherm+ kostet **15–25% mehr** als die S
 
 ## Fazit
 
-Bei Neofort BIZ umfassen **alle unsere Montagen** das komplette Blaugelb Perimeterdämmsystem. Wir liefern keine Fenster, ohne auch den korrekten Einbau zu garantieren. Kontaktieren Sie uns für eine Bewertung und ein Angebot.`,
+Bei Neofort BIZ umfassen **alle unsere Montagen** das komplette Blaugelb Perimeterdämmsystem. Wir liefern keine Fenster, ohne auch den korrekten Einbau zu garantieren. Kontaktieren Sie uns für eine Bewertung und ein Angebot.
+
+## Häufig gestellte Fragen
+
+### Aus welchem Material besteht ein Blaugelb Triotherm+ Vorrahmen?
+
+Der Blaugelb Triotherm+ Vorrahmen ist ein wärmedämmendes Profil (λ = 0,035 W/mK), das vor dem Fenster in die Maueröffnung eingebaut wird. Er beseitigt die Wärmebrücke zwischen Rahmen und Mauerwerk, schafft eine flache und ebene Einbauebene, trennt innen thermisch von außen und ermöglicht die Integration von Dichtbändern.
+
+### Warum ist der Einbau mit Vorrahmen für die nZEB-Zertifizierung verpflichtend?
+
+Ohne Lösung der Perimeter-Wärmebrücken behält ein Hochleistungsfenster (Uw 0,70) unter 60% der bezahlten thermischen Leistung. Der Triotherm+ Vorrahmen beseitigt genau diese Brücken, und für Gebäude, die den nZEB-Standard erreichen müssen, ist seine Verwendung technisch verpflichtend.
+
+### Woraus besteht das komplette Blaugelb-Einbausystem?
+
+Das komplette System umfasst: den Triotherm+ Vorrahmen (wärmedämmendes Hauptprofil), vorkomprimiertes Butylband (Außenabdichtung gegen Regen und Wind), Dampfsperrband (Innenbarriere gegen Kondensat), dichtegeregelten PU-Schaum und spezielle Befestigungsanker.
+
+### Wie viel Wärmeleistung geht bei falschem Einbau verloren?
+
+Bei falschem Einbau behält das Fenster unter 60% der bezahlten thermischen Leistung, aufgrund von Perimeter-Wärmebrücken — den Zonen rund ums Fenster, wo Innenwärme direkt durch das Baumaterial nach außen entweicht. Der Blaugelb-Vorrahmen löst dieses Problem.
+`,
 
       fr: `## Le problème que personne ne mentionne à la vente
 
@@ -8345,7 +9314,26 @@ Une pose complète avec Blaugelb Triotherm+ coûte **15–25% de plus** que la p
 
 ## Conclusion
 
-Chez Neofort BIZ, **toutes nos poses** comprennent le système complet d'isolation périphérique Blaugelb. Nous ne fournissons pas de fenêtres sans garantir également une pose correcte. Contactez-nous pour une évaluation et un devis.`,
+Chez Neofort BIZ, **toutes nos poses** comprennent le système complet d'isolation périphérique Blaugelb. Nous ne fournissons pas de fenêtres sans garantir également une pose correcte. Contactez-nous pour une évaluation et un devis.
+
+## Questions fréquentes
+
+### En quel matériau est fait un précadre Blaugelb Triotherm+ ?
+
+Le précadre Blaugelb Triotherm+ est un profilé isolant thermique (λ = 0,035 W/mK) posé dans la baie en maçonnerie avant la fenêtre. Il élimine le pont thermique entre dormant et maçonnerie, crée un plan de pose plat et de niveau, sépare thermiquement l'intérieur de l'extérieur et permet d'intégrer les bandes d'étanchéité.
+
+### Pourquoi la pose avec précadre est-elle obligatoire pour la certification nZEB ?
+
+Sans résoudre les ponts thermiques périmétriques, une fenêtre performante (Uw 0,70) conserve moins de 60% de la performance thermique payée. Le précadre Triotherm+ élimine exactement ces ponts, et pour les bâtiments qui doivent atteindre le standard nZEB, son usage est techniquement obligatoire.
+
+### De quoi se compose le système de pose Blaugelb complet ?
+
+Le système complet comprend : le précadre Triotherm+ (profilé isolant principal), la bande butyle précomprimée (étanchéité extérieure contre pluie et vent), la bande d'étanchéité vapeur (barrière intérieure contre la condensation), une mousse polyuréthane à densité contrôlée et des ancrages de fixation spéciaux.
+
+### Combien de performance thermique perd-on avec une pose incorrecte ?
+
+Avec une pose incorrecte, la fenêtre conserve moins de 60% de la performance thermique payée, à cause des ponts thermiques périmétriques — les zones autour de la fenêtre où la chaleur intérieure s'échappe directement dehors par le matériau de construction. Le précadre Blaugelb résout ce problème.
+`,
 
       es: `## El problema que nadie menciona en la venta
 
@@ -8430,7 +9418,26 @@ Una instalación completa con Blaugelb Triotherm+ cuesta **15–25% más** que l
 
 ## Conclusión
 
-En Neofort BIZ, **todas nuestras instalaciones** incluyen el sistema completo de aislamiento perimetral Blaugelb. No suministramos ventanas sin garantizar también la instalación correcta. Contáctenos para evaluación y presupuesto.`,
+En Neofort BIZ, **todas nuestras instalaciones** incluyen el sistema completo de aislamiento perimetral Blaugelb. No suministramos ventanas sin garantizar también la instalación correcta. Contáctenos para evaluación y presupuesto.
+
+## Preguntas frecuentes
+
+### ¿De qué material está hecho un premarco Blaugelb Triotherm+?
+
+El premarco Blaugelb Triotherm+ es un perfil aislante térmico (λ = 0,035 W/mK) montado en el hueco de obra antes de la ventana. Elimina el puente térmico entre marco y muro, crea un plano de montaje plano y nivelado, separa térmicamente el interior del exterior y permite integrar las bandas de sellado.
+
+### ¿Por qué es obligatorio el montaje con premarco para la certificación nZEB?
+
+Sin resolver los puentes térmicos perimetrales, una ventana eficiente (Uw 0,70) conserva menos del 60% del rendimiento térmico pagado. El premarco Triotherm+ elimina exactamente estos puentes, y para edificios que deben alcanzar el estándar nZEB, su uso es técnicamente obligatorio.
+
+### ¿De qué se compone el sistema de montaje Blaugelb completo?
+
+El sistema completo incluye: el premarco Triotherm+ (perfil aislante principal), la banda butílica precomprimida (sellado exterior contra lluvia y viento), la banda de sellado de vapor (barrera interior contra la condensación), espuma de poliuretano de densidad controlada y anclajes de fijación especiales.
+
+### ¿Cuánto rendimiento térmico se pierde con un montaje incorrecto?
+
+Con un montaje incorrecto, la ventana conserva menos del 60% del rendimiento térmico pagado, debido a los puentes térmicos perimetrales — las zonas alrededor de la ventana donde el calor interior escapa directamente al exterior por el material de construcción. El premarco Blaugelb resuelve este problema.
+`,
 
       it: `## Il problema che nessuno menziona al momento della vendita
 
@@ -8515,7 +9522,26 @@ Un'installazione completa con Blaugelb Triotherm+ costa **15–25% in più** ris
 
 ## Conclusione
 
-Da Neofort BIZ, **tutte le nostre installazioni** includono il sistema completo di isolamento perimetrale Blaugelb. Non forniamo finestre senza garantire anche l'installazione corretta. Contattateci per una valutazione e un preventivo.`,
+Da Neofort BIZ, **tutte le nostre installazioni** includono il sistema completo di isolamento perimetrale Blaugelb. Non forniamo finestre senza garantire anche l'installazione corretta. Contattateci per una valutazione e un preventivo.
+
+## Domande frequenti
+
+### Di quale materiale è fatto un controtelaio Blaugelb Triotherm+?
+
+Il controtelaio Blaugelb Triotherm+ è un profilo termoisolante (λ = 0,035 W/mK) montato nel vano in muratura prima della finestra. Elimina il ponte termico tra telaio e muratura, crea un piano di posa piatto e a livello, separa termicamente l'interno dall'esterno e permette di integrare i nastri di sigillatura.
+
+### Perché la posa con controtelaio è obbligatoria per la certificazione nZEB?
+
+Senza risolvere i ponti termici perimetrali, una finestra performante (Uw 0,70) mantiene meno del 60% delle prestazioni termiche pagate. Il controtelaio Triotherm+ elimina esattamente questi ponti, e per gli edifici che devono raggiungere lo standard nZEB, il suo uso è tecnicamente obbligatorio.
+
+### Di cosa è composto il sistema di posa Blaugelb completo?
+
+Il sistema completo include: il controtelaio Triotherm+ (profilo termoisolante principale), il nastro butilico precompresso (sigillatura esterna contro pioggia e vento), il nastro di tenuta al vapore (barriera interna contro la condensa), schiuma poliuretanica a densità controllata e ancoraggi di fissaggio speciali.
+
+### Quanta prestazione termica si perde con una posa errata?
+
+Con una posa errata, la finestra mantiene meno del 60% delle prestazioni termiche pagate, a causa dei ponti termici perimetrali — le zone attorno alla finestra dove il calore interno fugge direttamente all'esterno attraverso il materiale da costruzione. Il controtelaio Blaugelb risolve questo problema.
+`,
     },
   },
 
@@ -8685,7 +9711,26 @@ Lamele din **aluminiu extrudat**, umplute cu **spumă PU** (densitate 28–32 kg
 
 ## Concluzie
 
-La Neofort BIZ furnizăm și montăm ambele sisteme. Contactați-ne pentru o ofertă comparativă personalizată.`,
+La Neofort BIZ furnizăm și montăm ambele sisteme. Contactați-ne pentru o ofertă comparativă personalizată.
+
+## Întrebări frecvente
+
+### De ce contează un sistem de umbrire exterior?
+
+Un sistem de umbrire exterior reduce cu 60-80% energia solară înainte ca aceasta să atingă geamul. O perdea sau jaluzea interioară reduce maxim 20-30% — restul căldurii a intrat deja. Vara, geamul triplu Low-E poate amplifica efectul de seră, deci umbrirea exterioară devine esențială.
+
+### Ce diferență e între jaluzelele Raffstore și rulourile de aluminiu?
+
+Raffstore sunt jaluzele venețiene exterioare cu lamele orientabile în orice unghi (control fin al luminii și vederii), prin două mișcări independente: sus-jos și rotația lamelelor. Rulourile de aluminiu coboară ca un oblon și oferă întuneric total, dar fără reglajul fin al luminii.
+
+### Cum se acționează jaluzelele Raffstore?
+
+Raffstore se acționează manual (snur sau tijă), electric (motor 24V sau 230V) sau automat cu senzori de vânt și lumină, integrabile în smart home (Somfy, KNX, Loxone). Lamelele din aluminiu extrudat finisat electrostatic au lățime 80 mm sau 50 mm, în toată paleta RAL.
+
+### Ce sistem de umbrire să aleg pentru control fin al luminii?
+
+Pentru control fin al luminii și vederii, alege Raffstore: poți avea jaluzeaua coborâtă cu lamelele la 45°, lăsând lumina difuză să intre în timp ce vederea directă din exterior e blocată și soarele direct eliminat. Pentru întuneric total (dormitor), rulourile de aluminiu sunt mai potrivite.
+`,
 
       en: `## Why Does the Shading System Matter?
 
@@ -8792,7 +9837,26 @@ Slats in **extruded aluminium**, filled with **PU foam** (density 28–32 kg/m³
 
 ## Conclusion
 
-At Neofort BIZ we supply and install both systems. Contact us for a personalised comparative quote.`,
+At Neofort BIZ we supply and install both systems. Contact us for a personalised comparative quote.
+
+## Frequently Asked Questions
+
+### Why does an external shading system matter?
+
+An external shading system cuts 60-80% of solar energy before it reaches the glass. An interior curtain or blind cuts at most 20-30% — the rest of the heat has already entered. In summer, triple Low-E glazing can amplify the greenhouse effect, so external shading becomes essential.
+
+### What is the difference between Raffstore blinds and aluminium roller shutters?
+
+Raffstore are external venetian blinds with slats adjustable to any angle (fine control of light and view), through two independent movements: up-down and slat rotation. Aluminium roller shutters drop like a shutter and give total darkness, but without the fine light adjustment.
+
+### How are Raffstore blinds operated?
+
+Raffstore are operated manually (cord or rod), electrically (24V or 230V motor) or automatically with wind and light sensors, integratable into smart homes (Somfy, KNX, Loxone). The electrostatically finished extruded aluminium slats are 80 mm or 50 mm wide, in the full RAL range.
+
+### Which shading system should I choose for fine light control?
+
+For fine control of light and view, choose Raffstore: you can have the blind lowered with slats at 45°, letting diffuse light in while blocking the direct outside view and eliminating direct sun. For total darkness (bedroom), aluminium roller shutters are more suitable.
+`,
 
       de: `## Warum ist das Beschattungssystem so wichtig?
 
@@ -8899,7 +9963,26 @@ Lamellen aus **stranggepresstem Aluminium**, gefüllt mit **PU-Schaum** (Dichte 
 
 ## Fazit
 
-Bei Neofort BIZ liefern und montieren wir beide Systeme. Kontaktieren Sie uns für ein personalisiertes Vergleichsangebot.`,
+Bei Neofort BIZ liefern und montieren wir beide Systeme. Kontaktieren Sie uns für ein personalisiertes Vergleichsangebot.
+
+## Häufig gestellte Fragen
+
+### Warum ist ein Außenbeschattungssystem wichtig?
+
+Ein Außenbeschattungssystem reduziert 60-80% der Sonnenenergie, bevor sie das Glas erreicht. Ein Innenvorhang oder eine Innenjalousie reduziert höchstens 20-30% — der Rest der Wärme ist bereits eingedrungen. Im Sommer kann Dreifach-Low-E-Glas den Treibhauseffekt verstärken, daher wird Außenbeschattung essenziell.
+
+### Was ist der Unterschied zwischen Raffstore-Jalousien und Aluminium-Rollläden?
+
+Raffstore sind Außenjalousien mit in jeden Winkel verstellbaren Lamellen (feine Steuerung von Licht und Sicht) durch zwei unabhängige Bewegungen: auf-ab und Lamellendrehung. Aluminium-Rollläden fallen wie ein Laden herab und geben totale Dunkelheit, aber ohne die feine Lichtregulierung.
+
+### Wie werden Raffstore-Jalousien bedient?
+
+Raffstore werden manuell (Schnur oder Stab), elektrisch (24V- oder 230V-Motor) oder automatisch mit Wind- und Lichtsensoren bedient, integrierbar ins Smart Home (Somfy, KNX, Loxone). Die elektrostatisch beschichteten extrudierten Aluminiumlamellen sind 80 mm oder 50 mm breit, in der vollen RAL-Palette.
+
+### Welches Beschattungssystem soll ich für feine Lichtsteuerung wählen?
+
+Für feine Steuerung von Licht und Sicht wählen Sie Raffstore: Sie können die Jalousie herabgelassen mit Lamellen auf 45° haben, diffuses Licht hereinlassen, während die direkte Außensicht blockiert und die direkte Sonne eliminiert wird. Für totale Dunkelheit (Schlafzimmer) sind Aluminium-Rollläden geeigneter.
+`,
 
       fr: `## Pourquoi le système d'ombrage est-il si important ?
 
@@ -9006,7 +10089,26 @@ Lames en **aluminium extrudé**, remplies de **mousse PU** (densité 28–32 kg/
 
 ## Conclusion
 
-Chez Neofort BIZ nous fournissons et installons les deux systèmes. Contactez-nous pour un devis comparatif personnalisé.`,
+Chez Neofort BIZ nous fournissons et installons les deux systèmes. Contactez-nous pour un devis comparatif personnalisé.
+
+## Questions fréquentes
+
+### Pourquoi un système d'occultation extérieur compte-t-il ?
+
+Un système d'occultation extérieur réduit 60-80% de l'énergie solaire avant qu'elle n'atteigne le vitrage. Un rideau ou store intérieur réduit au maximum 20-30% — le reste de la chaleur est déjà entré. En été, le triple vitrage Low-E peut amplifier l'effet de serre, donc l'occultation extérieure devient essentielle.
+
+### Quelle différence entre les stores Raffstore et les volets roulants aluminium ?
+
+Les Raffstore sont des stores vénitiens extérieurs à lames orientables à tout angle (contrôle fin de la lumière et de la vue), par deux mouvements indépendants : haut-bas et rotation des lames. Les volets roulants aluminium descendent comme un volet et donnent l'obscurité totale, mais sans le réglage fin de la lumière.
+
+### Comment actionne-t-on les stores Raffstore ?
+
+Les Raffstore s'actionnent manuellement (cordon ou tige), électriquement (moteur 24V ou 230V) ou automatiquement avec capteurs de vent et de lumière, intégrables en domotique (Somfy, KNX, Loxone). Les lames en aluminium extrudé fini électrostatique font 80 mm ou 50 mm de large, dans toute la palette RAL.
+
+### Quel système d'occultation choisir pour un contrôle fin de la lumière ?
+
+Pour un contrôle fin de la lumière et de la vue, choisissez Raffstore : vous pouvez avoir le store baissé avec les lames à 45°, laissant entrer la lumière diffuse tout en bloquant la vue directe de l'extérieur et en éliminant le soleil direct. Pour l'obscurité totale (chambre), les volets roulants aluminium conviennent mieux.
+`,
 
       es: `## ¿Por qué es tan importante el sistema de sombreado?
 
@@ -9113,7 +10215,26 @@ Lamas de **aluminio extruido**, rellenas con **espuma PU** (densidad 28–32 kg/
 
 ## Conclusión
 
-En Neofort BIZ suministramos e instalamos ambos sistemas. Contáctenos para un presupuesto comparativo personalizado.`,
+En Neofort BIZ suministramos e instalamos ambos sistemas. Contáctenos para un presupuesto comparativo personalizado.
+
+## Preguntas frecuentes
+
+### ¿Por qué importa un sistema de sombreado exterior?
+
+Un sistema de sombreado exterior reduce el 60-80% de la energía solar antes de que alcance el vidrio. Una cortina o persiana interior reduce como máximo el 20-30% — el resto del calor ya ha entrado. En verano, el triple vidrio Low-E puede amplificar el efecto invernadero, por lo que el sombreado exterior se vuelve esencial.
+
+### ¿Qué diferencia hay entre las persianas Raffstore y las enrollables de aluminio?
+
+Las Raffstore son persianas venecianas exteriores con lamas orientables a cualquier ángulo (control fino de luz y vista), mediante dos movimientos independientes: subir-bajar y rotación de lamas. Las enrollables de aluminio bajan como un postigo y dan oscuridad total, pero sin el ajuste fino de la luz.
+
+### ¿Cómo se accionan las persianas Raffstore?
+
+Las Raffstore se accionan manualmente (cordón o varilla), eléctricamente (motor 24V o 230V) o automáticamente con sensores de viento y luz, integrables en domótica (Somfy, KNX, Loxone). Las lamas de aluminio extruido con acabado electrostático tienen 80 mm o 50 mm de ancho, en toda la gama RAL.
+
+### ¿Qué sistema de sombreado elegir para control fino de la luz?
+
+Para control fino de luz y vista, elige Raffstore: puedes tener la persiana bajada con las lamas a 45°, dejando entrar luz difusa mientras bloqueas la vista directa desde el exterior y eliminas el sol directo. Para oscuridad total (dormitorio), las enrollables de aluminio son más adecuadas.
+`,
 
       it: `## Perché il sistema di ombreggiamento è così importante?
 
@@ -9220,7 +10341,26 @@ Lamelle in **alluminio estruso**, riempite con **schiuma PU** (densità 28–32 
 
 ## Conclusione
 
-Da Neofort BIZ forniamo e installiamo entrambi i sistemi. Contattateci per un preventivo comparativo personalizzato.`,
+Da Neofort BIZ forniamo e installiamo entrambi i sistemi. Contattateci per un preventivo comparativo personalizzato.
+
+## Domande frequenti
+
+### Perché un sistema di schermatura esterno è importante?
+
+Un sistema di schermatura esterno riduce il 60-80% dell'energia solare prima che raggiunga il vetro. Una tenda o veneziana interna riduce al massimo il 20-30% — il resto del calore è già entrato. In estate, il triplo vetro Low-E può amplificare l'effetto serra, quindi la schermatura esterna diventa essenziale.
+
+### Che differenza c'è tra le tende Raffstore e le tapparelle in alluminio?
+
+Le Raffstore sono tende veneziane esterne con lamelle orientabili a qualsiasi angolo (controllo fine di luce e vista), tramite due movimenti indipendenti: su-giù e rotazione delle lamelle. Le tapparelle in alluminio scendono come una serranda e danno buio totale, ma senza la regolazione fine della luce.
+
+### Come si azionano le tende Raffstore?
+
+Le Raffstore si azionano manualmente (cordino o asta), elettricamente (motore 24V o 230V) o automaticamente con sensori di vento e luce, integrabili in smart home (Somfy, KNX, Loxone). Le lamelle in alluminio estruso con finitura elettrostatica sono larghe 80 mm o 50 mm, in tutta la gamma RAL.
+
+### Quale sistema di schermatura scegliere per un controllo fine della luce?
+
+Per un controllo fine di luce e vista, scegli Raffstore: puoi avere la tenda abbassata con le lamelle a 45°, lasciando entrare luce diffusa mentre blocchi la vista diretta dall'esterno ed elimini il sole diretto. Per il buio totale (camera da letto), le tapparelle in alluminio sono più adatte.
+`,
     },
   },
 
@@ -9404,7 +10544,26 @@ Exportul intra-UE este **fără formalități vamale**. Documente standard inclu
 
 **Program:** Luni–Vineri, 10:00–18:00 ora României
 
-Comunicăm fluent în **română, engleză și germană**. Trimiteți-ne fotografiile golurilor — răspundem cu ofertă în 48 de ore.`,
+Comunicăm fluent în **română, engleză și germană**. Trimiteți-ne fotografiile golurilor — răspundem cu ofertă în 48 de ore.
+
+## Întrebări frecvente
+
+### Cât de mult mai ieftină e o fereastră din România față de Germania?
+
+Raportul calitate-preț: o fereastră PVC Salamander produsă în România, cu același profil german, geam Saint-Gobain și feronerie Roto sau Siegenia, costă cu 30-50% mai puțin decât aceeași fereastră cumpărată direct din Germania sau Austria. Costul forței de muncă e mai mic, fără compromis la materiale.
+
+### Cine beneficiază de exportul de tâmplărie în Germania?
+
+Trei tipuri de clienți: diaspora română care cumpără sau renovează o casă în Germania, antreprenorii în construcții cu personal român care cumpără en-gros pentru șantiere, și proprietarii de case de vacanță din Germania, Austria sau Italia care au proprietăți de renovat în România.
+
+### Cum începe procesul de export de tâmplărie?
+
+Totul începe cu o cerere de ofertă pe email sau WhatsApp. Ai nevoie de schițe sau fotografii cu golurile existente, dimensiunile aproximative ale fiecărei deschideri și preferința de profil: PVC Salamander sau aluminiu Alumil. Pe baza acestora se întocmește oferta detaliată.
+
+### De cât timp face Neofort BIZ export de tâmplărie în Europa?
+
+Exportul în Germania și toată Europa face parte din activitatea curentă Neofort BIZ de peste 10 ani. Materialele sunt toate importate din Germania, Austria și Grecia, deci calitatea e identică cu cea a produselor cumpărate direct în Europa de Vest, la un preț semnificativ mai mic.
+`,
 
       en: `## Why Do Romanians in Germany Order Windows from Romania?
 
@@ -9525,7 +10684,26 @@ Intra-EU export is **customs-free**. Standard documents included:
 
 **Hours:** Monday–Friday, 10:00–18:00 Romanian time
 
-We communicate fluently in **Romanian, English and German**. Send us photographs of your openings — we respond with a quote within 48 hours.`,
+We communicate fluently in **Romanian, English and German**. Send us photographs of your openings — we respond with a quote within 48 hours.
+
+## Frequently Asked Questions
+
+### How much cheaper is a window from Romania compared to Germany?
+
+Value for money: a Salamander PVC window made in Romania, with the same German profile, Saint-Gobain glass and Roto or Siegenia hardware, costs 30-50% less than the same window bought directly in Germany or Austria. Labour costs are lower, with no compromise on materials.
+
+### Who benefits from exporting window joinery to Germany?
+
+Three types of customer: the Romanian diaspora buying or renovating a house in Germany, construction contractors with Romanian staff buying wholesale for sites, and holiday-home owners from Germany, Austria or Italy who have properties to renovate in Romania.
+
+### How does the joinery export process begin?
+
+It all starts with a quote request by email or WhatsApp. You need sketches or photos of the existing openings, the approximate dimensions of each opening and your profile preference: Salamander PVC or Alumil aluminium. The detailed quote is drawn up from these.
+
+### How long has Neofort BIZ been exporting joinery to Europe?
+
+Exporting to Germany and across Europe has been part of Neofort BIZ's regular activity for over 10 years. All materials are imported from Germany, Austria and Greece, so quality is identical to products bought directly in Western Europe, at a significantly lower price.
+`,
 
       de: `## Warum bestellen Rumänen in Deutschland Fenster aus Rumänien?
 
@@ -9646,7 +10824,26 @@ EU-Binnenexport ist **zollfrei**. Standarddokumente enthalten:
 
 **Geschäftszeiten:** Montag–Freitag, 10:00–18:00 Uhr rumänischer Zeit
 
-Wir kommunizieren fließend auf **Rumänisch, Englisch und Deutsch**. Senden Sie uns Fotos Ihrer Öffnungen — wir antworten innerhalb von 48 Stunden mit einem Angebot.`,
+Wir kommunizieren fließend auf **Rumänisch, Englisch und Deutsch**. Senden Sie uns Fotos Ihrer Öffnungen — wir antworten innerhalb von 48 Stunden mit einem Angebot.
+
+## Häufig gestellte Fragen
+
+### Wie viel günstiger ist ein Fenster aus Rumänien im Vergleich zu Deutschland?
+
+Preis-Leistung: Ein in Rumänien gefertigtes Salamander-PVC-Fenster mit demselben deutschen Profil, Saint-Gobain-Glas und Roto- oder Siegenia-Beschlag kostet 30-50% weniger als dasselbe Fenster, direkt in Deutschland oder Österreich gekauft. Die Arbeitskosten sind niedriger, ohne Kompromiss bei den Materialien.
+
+### Wer profitiert vom Export von Fenstern nach Deutschland?
+
+Drei Kundentypen: die rumänische Diaspora, die ein Haus in Deutschland kauft oder renoviert, Bauunternehmer mit rumänischem Personal, die im Großhandel für Baustellen kaufen, und Ferienhausbesitzer aus Deutschland, Österreich oder Italien mit zu renovierenden Immobilien in Rumänien.
+
+### Wie beginnt der Fenster-Exportprozess?
+
+Alles beginnt mit einer Angebotsanfrage per E-Mail oder WhatsApp. Sie benötigen Skizzen oder Fotos der vorhandenen Öffnungen, die ungefähren Maße jeder Öffnung und Ihre Profilpräferenz: Salamander-PVC oder Alumil-Aluminium. Daraus wird das detaillierte Angebot erstellt.
+
+### Wie lange exportiert Neofort BIZ schon Fenster nach Europa?
+
+Der Export nach Deutschland und ganz Europa ist seit über 10 Jahren Teil der regulären Tätigkeit von Neofort BIZ. Alle Materialien werden aus Deutschland, Österreich und Griechenland importiert, sodass die Qualität mit direkt in Westeuropa gekauften Produkten identisch ist, zu einem deutlich niedrigeren Preis.
+`,
 
       fr: `## Pourquoi les Roumains d'Allemagne commandent-ils des menuiseries de Roumanie ?
 
@@ -9767,7 +10964,26 @@ L'export intra-UE est **sans formalités douanières**. Documents standards incl
 
 **Horaires :** Lundi–Vendredi, 10h00–18h00 heure de Roumanie
 
-Nous communiquons couramment en **roumain, anglais et allemand**. Envoyez-nous des photos de vos baies — nous répondons avec un devis dans les 48 heures.`,
+Nous communiquons couramment en **roumain, anglais et allemand**. Envoyez-nous des photos de vos baies — nous répondons avec un devis dans les 48 heures.
+
+## Questions fréquentes
+
+### Combien une fenêtre de Roumanie est-elle moins chère qu'en Allemagne ?
+
+Le rapport qualité-prix : une fenêtre PVC Salamander fabriquée en Roumanie, avec le même profilé allemand, verre Saint-Gobain et quincaillerie Roto ou Siegenia, coûte 30-50% de moins que la même fenêtre achetée directement en Allemagne ou en Autriche. Le coût de la main-d'œuvre est plus bas, sans compromis sur les matériaux.
+
+### Qui bénéficie de l'export de menuiseries vers l'Allemagne ?
+
+Trois types de clients : la diaspora roumaine achetant ou rénovant une maison en Allemagne, les entrepreneurs du bâtiment à personnel roumain achetant en gros pour leurs chantiers, et les propriétaires de maisons de vacances d'Allemagne, d'Autriche ou d'Italie ayant des biens à rénover en Roumanie.
+
+### Comment commence le processus d'export de menuiseries ?
+
+Tout commence par une demande de devis par email ou WhatsApp. Il vous faut des croquis ou photos des baies existantes, les dimensions approximatives de chaque ouverture et votre préférence de profilé : PVC Salamander ou aluminium Alumil. Le devis détaillé est établi à partir de cela.
+
+### Depuis combien de temps Neofort BIZ exporte-t-il des menuiseries en Europe ?
+
+L'export vers l'Allemagne et toute l'Europe fait partie de l'activité courante de Neofort BIZ depuis plus de 10 ans. Tous les matériaux sont importés d'Allemagne, d'Autriche et de Grèce, donc la qualité est identique aux produits achetés directement en Europe de l'Ouest, à un prix nettement inférieur.
+`,
 
       es: `## ¿Por qué los rumanos de Alemania piden carpintería de Rumanía?
 
@@ -9888,7 +11104,26 @@ La exportación intra-UE es **sin trámites aduaneros**. Documentos estándar in
 
 **Horario:** Lunes–Viernes, 10:00–18:00 hora de Rumanía
 
-Nos comunicamos con fluidez en **rumano, inglés y alemán**. Envíenos fotos de sus huecos — respondemos con presupuesto en 48 horas.`,
+Nos comunicamos con fluidez en **rumano, inglés y alemán**. Envíenos fotos de sus huecos — respondemos con presupuesto en 48 horas.
+
+## Preguntas frecuentes
+
+### ¿Cuánto más barata es una ventana de Rumanía frente a Alemania?
+
+La relación calidad-precio: una ventana de PVC Salamander fabricada en Rumanía, con el mismo perfil alemán, vidrio Saint-Gobain y herrajes Roto o Siegenia, cuesta un 30-50% menos que la misma ventana comprada directamente en Alemania o Austria. El coste de la mano de obra es menor, sin compromiso en los materiales.
+
+### ¿Quién se beneficia de exportar carpintería a Alemania?
+
+Tres tipos de cliente: la diáspora rumana que compra o reforma una casa en Alemania, los contratistas de construcción con personal rumano que compran al por mayor para sus obras, y los propietarios de casas de vacaciones de Alemania, Austria o Italia con propiedades que reformar en Rumanía.
+
+### ¿Cómo empieza el proceso de exportación de carpintería?
+
+Todo empieza con una solicitud de presupuesto por email o WhatsApp. Necesitas bocetos o fotos de los huecos existentes, las dimensiones aproximadas de cada apertura y tu preferencia de perfil: PVC Salamander o aluminio Alumil. A partir de esto se elabora el presupuesto detallado.
+
+### ¿Desde cuándo exporta Neofort BIZ carpintería a Europa?
+
+La exportación a Alemania y toda Europa forma parte de la actividad habitual de Neofort BIZ desde hace más de 10 años. Todos los materiales se importan de Alemania, Austria y Grecia, por lo que la calidad es idéntica a los productos comprados directamente en Europa Occidental, a un precio notablemente inferior.
+`,
 
       it: `## Perché i rumeni in Germania ordinano serramenti dalla Romania?
 
@@ -10009,7 +11244,26 @@ L'export intra-UE è **senza formalità doganali**. Documenti standard inclusi:
 
 **Orario:** Lunedì–Venerdì, 10:00–18:00 ora della Romania
 
-Comunichiamo fluentemente in **rumeno, inglese e tedesco**. Inviateci le fotografie delle vostre aperture — rispondiamo con preventivo entro 48 ore.`,
+Comunichiamo fluentemente in **rumeno, inglese e tedesco**. Inviateci le fotografie delle vostre aperture — rispondiamo con preventivo entro 48 ore.
+
+## Domande frequenti
+
+### Quanto è più economica una finestra dalla Romania rispetto alla Germania?
+
+Il rapporto qualità-prezzo: una finestra in PVC Salamander prodotta in Romania, con lo stesso profilo tedesco, vetro Saint-Gobain e ferramenta Roto o Siegenia, costa il 30-50% in meno della stessa finestra acquistata direttamente in Germania o Austria. Il costo della manodopera è inferiore, senza compromessi sui materiali.
+
+### Chi beneficia dell'esportazione di serramenti in Germania?
+
+Tre tipi di cliente: la diaspora rumena che compra o ristruttura una casa in Germania, gli imprenditori edili con personale rumeno che acquistano all'ingrosso per i cantieri, e i proprietari di case vacanza da Germania, Austria o Italia con proprietà da ristrutturare in Romania.
+
+### Come inizia il processo di esportazione dei serramenti?
+
+Tutto inizia con una richiesta di preventivo via email o WhatsApp. Servono schizzi o foto dei vani esistenti, le dimensioni approssimative di ogni apertura e la preferenza di profilo: PVC Salamander o alluminio Alumil. Da questi si redige il preventivo dettagliato.
+
+### Da quanto tempo Neofort BIZ esporta serramenti in Europa?
+
+L'esportazione in Germania e in tutta Europa fa parte dell'attività corrente di Neofort BIZ da oltre 10 anni. Tutti i materiali sono importati da Germania, Austria e Grecia, quindi la qualità è identica ai prodotti acquistati direttamente in Europa occidentale, a un prezzo notevolmente inferiore.
+`,
     },
   },
   // ─── ARTICOL 5: Tâmplărie aluminiu cu barieră termică ───────────────────
@@ -12345,7 +13599,26 @@ Segment ultra-premium. Utilizat în proiecte arhitecturale de referință. Preț
 
 Lucrăm exclusiv cu **Alumil** pentru 3 motive: stoc local (livrare 3–5 zile), cel mai bun raport calitate-preț și suport tehnic local pentru certificări nZEB.
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Întrebări frecvente
+
+### Care sunt cele 4 mărci dominante de tâmplărie aluminiu în București?
+
+Cele 4 mărci dominante sunt Alumil (Grecia), Aluprof (Polonia), Cortizo (Spania) și Reynaers (Belgia). Fiecare are avantaje distincte de performanță, preț și termen de livrare. Alumil are cea mai rapidă livrare în România (3-5 zile), fiind importat direct.
+
+### Cât costă tâmplăria aluminiu Alumil în 2026?
+
+Alumil Smartia S67 (67 mm, Uw 1,2-1,4) costă 250-350 EUR/mp montat, cu livrare 3-5 zile. Alumil Supreme SF85 (85 mm, Uw 0,95-1,1, nZEB) costă 350-500 EUR/mp montat. Toate prețurile sunt orientative, condiții martie 2026 — cere o ofertă actualizată.
+
+### Care marcă de aluminiu are cea mai rapidă livrare în România?
+
+Alumil are cea mai rapidă livrare — 3-5 zile, fiind importat direct. Aluprof livrează în 2-3 săptămâni, Cortizo în 4-6 săptămâni, iar Reynaers în 5-8 săptămâni. Pentru proiecte cu termen strâns, Alumil e avantajul clar de disponibilitate.
+
+### Ce sistem de aluminiu atinge cea mai bună performanță termică?
+
+Aluprof MB-104 Passive (104 mm) atinge Uw 0,75-0,90 W/m²K, iar Reynaers CS 86-HI (86 mm) ajunge la 0,80-1,0. Alumil Supreme SF85 (85 mm) oferă Uw 0,95-1,1 cu cea mai rapidă livrare. Toate sunt potrivite pentru standard nZEB, diferind ca preț și termen.
+`,
 
       en: `## Alumil, Aluprof, Cortizo or Reynaers — which is the right choice in 2026?
 
@@ -12386,7 +13659,26 @@ The 4 dominant brands on the Bucharest market: **Alumil** (Greece), **Aluprof** 
 
 We work exclusively with Alumil: local stock (3–5 day delivery), best price-performance ratio, local technical support for nZEB certifications.
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Frequently Asked Questions
+
+### What are the 4 dominant aluminium joinery brands in Bucharest?
+
+The 4 dominant brands are Alumil (Greece), Aluprof (Poland), Cortizo (Spain) and Reynaers (Belgium). Each has distinct advantages in performance, price and lead time. Alumil has the fastest delivery in Romania (3-5 days), being imported directly.
+
+### How much does Alumil aluminium joinery cost in 2026?
+
+Alumil Smartia S67 (67 mm, Uw 1.2-1.4) costs 250-350 EUR/m² fitted, with 3-5 day delivery. Alumil Supreme SF85 (85 mm, Uw 0.95-1.1, nZEB) costs 350-500 EUR/m² fitted. All prices are indicative, March 2026 conditions — ask for an updated quote.
+
+### Which aluminium brand has the fastest delivery in Romania?
+
+Alumil has the fastest delivery — 3-5 days, being imported directly. Aluprof delivers in 2-3 weeks, Cortizo in 4-6 weeks, and Reynaers in 5-8 weeks. For projects on a tight deadline, Alumil is the clear availability advantage.
+
+### Which aluminium system reaches the best thermal performance?
+
+Aluprof MB-104 Passive (104 mm) reaches Uw 0.75-0.90 W/m²K, and Reynaers CS 86-HI (86 mm) reaches 0.80-1.0. Alumil Supreme SF85 (85 mm) offers Uw 0.95-1.1 with the fastest delivery. All suit the nZEB standard, differing in price and lead time.
+`,
 
       de: `## Alumil, Aluprof, Cortizo oder Reynaers — Bukarest 2026
 
@@ -12409,7 +13701,26 @@ We work exclusively with Alumil: local stock (3–5 day delivery), best price-pe
 **Alumil**: größte Präsenz in Rumänien, lokales Lager Bukarest, bestes Preis-Leistungs-Verhältnis.
 **Reynaers**: Ultra-Premium, 40–80% teurer als Alumil bei vergleichbarer Leistung.
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Häufig gestellte Fragen
+
+### Was sind die 4 dominanten Aluminium-Marken in Bukarest?
+
+Die 4 dominanten Marken sind Alumil (Griechenland), Aluprof (Polen), Cortizo (Spanien) und Reynaers (Belgien). Jede hat eigene Vorteile bei Leistung, Preis und Lieferzeit. Alumil hat die schnellste Lieferung in Rumänien (3-5 Tage), da direkt importiert.
+
+### Was kostet Alumil-Aluminiumprofil 2026?
+
+Alumil Smartia S67 (67 mm, Uw 1,2-1,4) kostet 250-350 EUR/m² montiert, mit 3-5 Tagen Lieferung. Alumil Supreme SF85 (85 mm, Uw 0,95-1,1, nZEB) kostet 350-500 EUR/m² montiert. Alle Preise sind Richtwerte, Stand März 2026 — fragen Sie ein aktuelles Angebot an.
+
+### Welche Aluminium-Marke hat die schnellste Lieferung in Rumänien?
+
+Alumil hat die schnellste Lieferung — 3-5 Tage, da direkt importiert. Aluprof liefert in 2-3 Wochen, Cortizo in 4-6 Wochen und Reynaers in 5-8 Wochen. Für Projekte mit engem Termin ist Alumil der klare Verfügbarkeitsvorteil.
+
+### Welches Aluminiumsystem erreicht die beste Wärmeleistung?
+
+Aluprof MB-104 Passive (104 mm) erreicht Uw 0,75-0,90 W/m²K, und Reynaers CS 86-HI (86 mm) erreicht 0,80-1,0. Alumil Supreme SF85 (85 mm) bietet Uw 0,95-1,1 mit der schnellsten Lieferung. Alle eignen sich für den nZEB-Standard, unterscheiden sich in Preis und Lieferzeit.
+`,
 
       fr: `## Alumil, Aluprof, Cortizo ou Reynaers — Bucarest 2026
 
@@ -12432,7 +13743,26 @@ We work exclusively with Alumil: local stock (3–5 day delivery), best price-pe
 **Alumil** : plus grande présence en Roumanie, stock local Bucarest, meilleur rapport qualité-prix.
 **Reynaers** : ultra-premium, 40–80% plus cher qu'Alumil à performances comparables.
 
-**WhatsApp :** +40 752 443 435`,
+**WhatsApp :** +40 752 443 435
+
+## Questions fréquentes
+
+### Quelles sont les 4 marques dominantes de menuiserie aluminium à Bucarest ?
+
+Les 4 marques dominantes sont Alumil (Grèce), Aluprof (Pologne), Cortizo (Espagne) et Reynaers (Belgique). Chacune a des avantages distincts en performance, prix et délai. Alumil a la livraison la plus rapide en Roumanie (3-5 jours), étant importée directement.
+
+### Combien coûte la menuiserie aluminium Alumil en 2026 ?
+
+Alumil Smartia S67 (67 mm, Uw 1,2-1,4) coûte 250-350 EUR/m² posé, avec livraison en 3-5 jours. Alumil Supreme SF85 (85 mm, Uw 0,95-1,1, nZEB) coûte 350-500 EUR/m² posé. Tous les prix sont indicatifs, conditions mars 2026 — demandez un devis actualisé.
+
+### Quelle marque d'aluminium a la livraison la plus rapide en Roumanie ?
+
+Alumil a la livraison la plus rapide — 3-5 jours, étant importée directement. Aluprof livre en 2-3 semaines, Cortizo en 4-6 semaines et Reynaers en 5-8 semaines. Pour les projets à délai serré, Alumil est l'avantage de disponibilité évident.
+
+### Quel système aluminium atteint la meilleure performance thermique ?
+
+L'Aluprof MB-104 Passive (104 mm) atteint Uw 0,75-0,90 W/m²K, et le Reynaers CS 86-HI (86 mm) atteint 0,80-1,0. L'Alumil Supreme SF85 (85 mm) offre Uw 0,95-1,1 avec la livraison la plus rapide. Tous conviennent au standard nZEB, différant en prix et délai.
+`,
 
       es: `## Alumil, Aluprof, Cortizo o Reynaers — Bucarest 2026
 
@@ -12455,7 +13785,26 @@ We work exclusively with Alumil: local stock (3–5 day delivery), best price-pe
 **Alumil**: mayor presencia en Rumanía, almacén local Bucarest, mejor relación calidad-precio.
 **Reynaers**: ultra-premium, 40–80% más caro que Alumil a rendimiento comparable.
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Preguntas frecuentes
+
+### ¿Cuáles son las 4 marcas dominantes de carpintería de aluminio en Bucarest?
+
+Las 4 marcas dominantes son Alumil (Grecia), Aluprof (Polonia), Cortizo (España) y Reynaers (Bélgica). Cada una tiene ventajas distintas en rendimiento, precio y plazo. Alumil tiene la entrega más rápida en Rumanía (3-5 días), al importarse directamente.
+
+### ¿Cuánto cuesta la carpintería de aluminio Alumil en 2026?
+
+Alumil Smartia S67 (67 mm, Uw 1,2-1,4) cuesta 250-350 EUR/m² instalado, con entrega en 3-5 días. Alumil Supreme SF85 (85 mm, Uw 0,95-1,1, nZEB) cuesta 350-500 EUR/m² instalado. Todos los precios son orientativos, condiciones marzo 2026 — pide un presupuesto actualizado.
+
+### ¿Qué marca de aluminio tiene la entrega más rápida en Rumanía?
+
+Alumil tiene la entrega más rápida — 3-5 días, al importarse directamente. Aluprof entrega en 2-3 semanas, Cortizo en 4-6 semanas y Reynaers en 5-8 semanas. Para proyectos con plazo ajustado, Alumil es la clara ventaja de disponibilidad.
+
+### ¿Qué sistema de aluminio alcanza el mejor rendimiento térmico?
+
+El Aluprof MB-104 Passive (104 mm) alcanza Uw 0,75-0,90 W/m²K, y el Reynaers CS 86-HI (86 mm) llega a 0,80-1,0. El Alumil Supreme SF85 (85 mm) ofrece Uw 0,95-1,1 con la entrega más rápida. Todos sirven para el estándar nZEB, diferenciándose en precio y plazo.
+`,
 
       it: `## Alumil, Aluprof, Cortizo o Reynaers — Bucarest 2026
 
@@ -12478,7 +13827,26 @@ We work exclusively with Alumil: local stock (3–5 day delivery), best price-pe
 **Alumil**: maggiore presenza in Romania, magazzino locale Bucarest, miglior rapporto qualità-prezzo.
 **Reynaers**: ultra-premium, 40–80% più caro di Alumil a prestazioni comparabili.
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Domande frequenti
+
+### Quali sono i 4 marchi dominanti di serramenti in alluminio a Bucarest?
+
+I 4 marchi dominanti sono Alumil (Grecia), Aluprof (Polonia), Cortizo (Spagna) e Reynaers (Belgio). Ognuno ha vantaggi distinti in prestazioni, prezzo e tempi. Alumil ha la consegna più rapida in Romania (3-5 giorni), essendo importato direttamente.
+
+### Quanto costa il serramento in alluminio Alumil nel 2026?
+
+Alumil Smartia S67 (67 mm, Uw 1,2-1,4) costa 250-350 EUR/m² posato, con consegna in 3-5 giorni. Alumil Supreme SF85 (85 mm, Uw 0,95-1,1, nZEB) costa 350-500 EUR/m² posato. Tutti i prezzi sono indicativi, condizioni marzo 2026 — richiedi un preventivo aggiornato.
+
+### Quale marchio di alluminio ha la consegna più rapida in Romania?
+
+Alumil ha la consegna più rapida — 3-5 giorni, essendo importato direttamente. Aluprof consegna in 2-3 settimane, Cortizo in 4-6 settimane e Reynaers in 5-8 settimane. Per progetti con scadenza stretta, Alumil è il chiaro vantaggio di disponibilità.
+
+### Quale sistema in alluminio raggiunge le migliori prestazioni termiche?
+
+L'Aluprof MB-104 Passive (104 mm) raggiunge Uw 0,75-0,90 W/m²K, e il Reynaers CS 86-HI (86 mm) raggiunge 0,80-1,0. L'Alumil Supreme SF85 (85 mm) offre Uw 0,95-1,1 con la consegna più rapida. Tutti sono adatti allo standard nZEB, differendo in prezzo e tempi.
+`,
     },
   },
 
@@ -13870,7 +15238,26 @@ Geamul reprezintă 70% din suprafața ferestrei. Un profil premium cu geam stand
 
 **Măsurători gratuite** la adresa ta în 24–48 ore. **Producție proprie** — nu intermediem, nu subcontractăm. **Montaj certificat nZEB** cu precadre Blaugelb Triotherm+ incluse standard. **Ridicăm tâmplăria veche** fără costuri suplimentare.
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Întrebări frecvente
+
+### Care sunt semnele că ferestrele vechi trebuie înlocuite?
+
+Cele 7 semnale clare sunt: condens între foile de geam (garnitură perimetrală deteriorată, neReparabilă), curenți de aer la ferestre închise, facturi mari la energie iarna, zgomot stradal excesiv, dificultate la deschidere/închidere, profile îngălbenite sau crăpate, și o renovare generală în curs.
+
+### Cât din pierderile termice ale unui apartament provin din ferestre vechi?
+
+Ferestrele vechi pot reprezenta 30-40% din pierderile termice. O fereastră veche cu Uw = 2,8 W/m²K față de una modernă cu Uw = 1,0 W/m²K înseamnă de aproape 3 ori mai multă căldură pierdută. Înlocuirea reduce direct factura de încălzire iarna.
+
+### Se poate repara condensul dintre foile de geam?
+
+Nu. Condensul intern, între cele două foi de geam, indică deteriorarea garniturii perimetrale a geamului termoizolant — geamul nu mai izolează. Acest defect nu se poate repara, geamul trebuie înlocuit. Spre deosebire, curenții de aer pot fi remediați temporar prin reglaj de feronerie.
+
+### Care e cel mai bun moment pentru a înlocui ferestrele?
+
+Cel mai bun moment este în paralel cu o renovare generală, când pereții sunt oricum goluți. Ferestrele vechi oferă doar 20-25 dB izolare fonică, în timp ce un profil Salamander modern oferă 38-47 dB, plus o reducere semnificativă a pierderilor termice.
+`,
 
       en: `## When is the right time to replace your windows?
 
@@ -13926,7 +15313,26 @@ For a 60 m² Bucharest apartment with old windows:
 | BluEvolution 92, double Low-E | 2,400–3,600 EUR | 3,600–5,500 EUR | 5,200–8,000 EUR |
 | BluEvolution 92, triple Low-E, nZEB | 3,200–4,800 EUR | 4,800–7,000 EUR | 6,800–10,000 EUR |
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Frequently Asked Questions
+
+### What are the signs that old windows need replacing?
+
+The 7 clear signs are: condensation between the glass panes (damaged perimeter seal, unrepairable), draughts with windows closed, high winter energy bills, excessive street noise, difficulty opening/closing, yellowed or cracked profiles, and an ongoing general renovation.
+
+### How much of an apartment's heat loss comes from old windows?
+
+Old windows can account for 30-40% of heat loss. An old window with Uw = 2.8 W/m²K versus a modern one with Uw = 1.0 W/m²K means almost 3 times more heat lost. Replacement directly reduces the winter heating bill.
+
+### Can condensation between the glass panes be repaired?
+
+No. Internal condensation, between the two glass panes, indicates a damaged perimeter seal of the insulated glass unit — the glass no longer insulates. This defect cannot be repaired, the glass must be replaced. By contrast, draughts can be temporarily remedied by adjusting the hardware.
+
+### When is the best time to replace windows?
+
+The best time is alongside a general renovation, when the walls are stripped anyway. Old windows offer only 20-25 dB sound insulation, while a modern Salamander profile offers 38-47 dB, plus a significant reduction in heat loss.
+`,
 
       de: `## Wann ist der richtige Zeitpunkt für den Fensterwechsel?
 
@@ -13969,7 +15375,26 @@ For a 60 m² Bucharest apartment with old windows:
 | GreenEvolution 76, Doppel-Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
 | BluEvolution 92, Dreifach-Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Häufig gestellte Fragen
+
+### Was sind die Anzeichen, dass alte Fenster ersetzt werden müssen?
+
+Die 7 klaren Anzeichen sind: Kondensat zwischen den Glasscheiben (beschädigte Randdichtung, nicht reparierbar), Zugluft bei geschlossenen Fenstern, hohe Winter-Energierechnungen, übermäßiger Straßenlärm, Schwierigkeiten beim Öffnen/Schließen, vergilbte oder gerissene Profile und eine laufende Generalrenovierung.
+
+### Wie viel Wärmeverlust einer Wohnung kommt von alten Fenstern?
+
+Alte Fenster können 30-40% des Wärmeverlusts ausmachen. Ein altes Fenster mit Uw = 2,8 W/m²K gegenüber einem modernen mit Uw = 1,0 W/m²K bedeutet fast 3 mal mehr Wärmeverlust. Der Austausch reduziert direkt die Winter-Heizkostenrechnung.
+
+### Kann Kondensat zwischen den Glasscheiben repariert werden?
+
+Nein. Inneres Kondensat zwischen den beiden Glasscheiben zeigt eine beschädigte Randdichtung der Isolierglaseinheit an — das Glas dämmt nicht mehr. Dieser Defekt ist nicht reparierbar, das Glas muss ersetzt werden. Zugluft hingegen kann durch Beschlageinstellung vorübergehend behoben werden.
+
+### Wann ist der beste Zeitpunkt für den Fensteraustausch?
+
+Der beste Zeitpunkt ist parallel zu einer Generalrenovierung, wenn die Wände ohnehin freigelegt sind. Alte Fenster bieten nur 20-25 dB Schalldämmung, während ein modernes Salamander-Profil 38-47 dB bietet, plus eine deutliche Reduzierung des Wärmeverlusts.
+`,
 
       fr: `## Quand est-il temps de remplacer vos fenêtres ?
 
@@ -14012,7 +15437,26 @@ For a 60 m² Bucharest apartment with old windows:
 | GreenEvolution 76, double Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
 | BluEvolution 92, triple Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp :** +40 752 443 435`,
+**WhatsApp :** +40 752 443 435
+
+## Questions fréquentes
+
+### Quels sont les signes que des fenêtres anciennes doivent être remplacées ?
+
+Les 7 signes clairs sont : condensation entre les vitres (joint périmétrique endommagé, irréparable), courants d'air fenêtres fermées, factures d'énergie élevées en hiver, bruit de rue excessif, difficulté à ouvrir/fermer, profilés jaunis ou fissurés, et une rénovation générale en cours.
+
+### Quelle part des pertes de chaleur d'un appartement vient des vieilles fenêtres ?
+
+Les vieilles fenêtres peuvent représenter 30-40% des pertes de chaleur. Une vieille fenêtre à Uw = 2,8 W/m²K contre une moderne à Uw = 1,0 W/m²K signifie presque 3 fois plus de chaleur perdue. Le remplacement réduit directement la facture de chauffage en hiver.
+
+### La condensation entre les vitres peut-elle être réparée ?
+
+Non. La condensation interne, entre les deux vitres, indique un joint périmétrique endommagé du vitrage isolant — le vitrage n'isole plus. Ce défaut est irréparable, le vitrage doit être remplacé. En revanche, les courants d'air peuvent être temporairement corrigés par un réglage de la quincaillerie.
+
+### Quel est le meilleur moment pour remplacer les fenêtres ?
+
+Le meilleur moment est en parallèle d'une rénovation générale, quand les murs sont de toute façon mis à nu. Les vieilles fenêtres n'offrent que 20-25 dB d'isolation acoustique, alors qu'un profilé Salamander moderne offre 38-47 dB, plus une réduction significative des pertes de chaleur.
+`,
 
       es: `## ¿Cuándo es el momento adecuado para sustituir las ventanas?
 
@@ -14055,7 +15499,26 @@ For a 60 m² Bucharest apartment with old windows:
 | GreenEvolution 76, doble Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
 | BluEvolution 92, triple Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Preguntas frecuentes
+
+### ¿Cuáles son las señales de que las ventanas viejas deben sustituirse?
+
+Las 7 señales claras son: condensación entre los vidrios (junta perimetral dañada, irreparable), corrientes de aire con ventanas cerradas, facturas de energía altas en invierno, ruido de calle excesivo, dificultad para abrir/cerrar, perfiles amarilleados o agrietados, y una reforma general en curso.
+
+### ¿Qué parte de las pérdidas de calor de un piso viene de las ventanas viejas?
+
+Las ventanas viejas pueden representar el 30-40% de las pérdidas de calor. Una ventana vieja con Uw = 2,8 W/m²K frente a una moderna con Uw = 1,0 W/m²K significa casi 3 veces más calor perdido. La sustitución reduce directamente la factura de calefacción en invierno.
+
+### ¿Se puede reparar la condensación entre los vidrios?
+
+No. La condensación interna, entre los dos vidrios, indica una junta perimetral dañada del vidrio aislante — el vidrio ya no aísla. Este defecto no se puede reparar, el vidrio debe sustituirse. En cambio, las corrientes de aire pueden remediarse temporalmente ajustando los herrajes.
+
+### ¿Cuál es el mejor momento para sustituir las ventanas?
+
+El mejor momento es en paralelo a una reforma general, cuando los muros están de todas formas al descubierto. Las ventanas viejas ofrecen solo 20-25 dB de aislamiento acústico, mientras que un perfil Salamander moderno ofrece 38-47 dB, más una reducción significativa de las pérdidas de calor.
+`,
 
       it: `## Quando è il momento giusto per sostituire le finestre?
 
@@ -14098,7 +15561,26 @@ For a 60 m² Bucharest apartment with old windows:
 | GreenEvolution 76, doppio Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
 | BluEvolution 92, triplo Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Domande frequenti
+
+### Quali sono i segni che le vecchie finestre vanno sostituite?
+
+I 7 segni chiari sono: condensa tra le lastre di vetro (guarnizione perimetrale danneggiata, non riparabile), spifferi a finestre chiuse, bollette energetiche alte d'inverno, rumore stradale eccessivo, difficoltà di apertura/chiusura, profili ingialliti o crepati, e una ristrutturazione generale in corso.
+
+### Quanta parte delle dispersioni di calore di un appartamento viene dalle vecchie finestre?
+
+Le vecchie finestre possono rappresentare il 30-40% delle dispersioni di calore. Una vecchia finestra con Uw = 2,8 W/m²K rispetto a una moderna con Uw = 1,0 W/m²K significa quasi 3 volte più calore perso. La sostituzione riduce direttamente la bolletta del riscaldamento d'inverno.
+
+### Si può riparare la condensa tra le lastre di vetro?
+
+No. La condensa interna, tra le due lastre, indica una guarnizione perimetrale danneggiata della vetrocamera — il vetro non isola più. Questo difetto non è riparabile, il vetro va sostituito. Gli spifferi invece possono essere temporaneamente risolti regolando la ferramenta.
+
+### Qual è il momento migliore per sostituire le finestre?
+
+Il momento migliore è in parallelo a una ristrutturazione generale, quando le pareti sono comunque a nudo. Le vecchie finestre offrono solo 20-25 dB di isolamento acustico, mentre un profilo Salamander moderno offre 38-47 dB, più una riduzione significativa delle dispersioni di calore.
+`,
     },
   },
 
@@ -14280,7 +15762,26 @@ La Neofort BIZ tratăm diferit proiectele de case față de apartamente. Fiecare
 
 **Export organizat complet** — pentru clienții din diaspora, coordonăm toată logistica: producție, ambalare, transport cu asigurare internațională și documentație vamală UE.
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Întrebări frecvente
+
+### De ce o casă individuală are nevoie de alt standard de tâmplărie decât un bloc?
+
+Într-un bloc, suprafața vitrată e 20-30% din fațadă; într-o casă individuală modernă cu ferestre mari, terase vitrate și uși glisante, ajunge la 50-70% din anvelopă. Tâmplăria devine componenta principală care determină consumul energetic, confortul termic, zgomotul și aspectul casei.
+
+### Ce profil Salamander e recomandat pentru o casă individuală nouă?
+
+BluEvolution 92 (ALU sau FLEX) — singurul profil Salamander cu certificare completă nZEB și casă pasivă: 6 camere, 92-104 mm, Uw = 0,70 W/m²K, 3 garnituri EPDM, izolare fonică până la 47 dB și compatibil cu geam triplu krypton (Ug = 0,5 W/m²K).
+
+### Cât poate costa pe termen lung o economie la ferestrele unei case?
+
+O economie de 15% la costul ferestrelor poate însemna o creștere de 30-40% a facturii la energie pe an. La o casă de 150 mp cu 25-30 ani de viață utilă, diferența cumulată poate fi de 20.000-40.000 EUR în costuri energetice — de aceea tâmplăria nu e un detaliu.
+
+### Ce avantaj oferă BluEvolution 92 ALU pentru case cu design contemporan?
+
+BluEvolution 92 ALU e placat cu aluminiu pe exterior, combinând estetica aluminiului cu performanța termică a PVC-ului. E ideal pentru case cu design contemporan, disponibil în orice culoare RAL, inclusiv negru mat, antracit și nuanțe de lemn — un aspect premium cu izolare nZEB.
+`,
 
       en: `## Why individual houses need a different standard than apartment blocks?
 
@@ -14343,7 +15844,26 @@ We deliver regularly to: **France** (Paris, Lyon, Île-de-France — 3–4 days)
 |---|---|
 | BluEvolution 92 ALU, triple krypton, full nZEB | 35,000–55,000 EUR |
 
-**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
+
+## Frequently Asked Questions
+
+### Why does a detached house need a different joinery standard than a block?
+
+In a block, glazing is 20-30% of the façade; in a modern detached house with large windows, glazed terraces and sliding doors, it reaches 50-70% of the envelope. Joinery becomes the main component determining energy use, thermal comfort, noise and the house's appearance.
+
+### Which Salamander profile is recommended for a new detached house?
+
+BluEvolution 92 (ALU or FLEX) — the only Salamander profile with full nZEB and passive-house certification: 6 chambers, 92-104 mm, Uw = 0.70 W/m²K, 3 EPDM seals, sound insulation up to 47 dB and compatible with krypton triple glazing (Ug = 0.5 W/m²K).
+
+### How much can saving on a house's windows cost in the long run?
+
+A 15% saving on window cost can mean a 30-40% rise in the annual energy bill. For a 150 m² house with 25-30 years of useful life, the cumulative difference can be 20,000-40,000 EUR in energy costs — which is why joinery is not a detail.
+
+### What advantage does BluEvolution 92 ALU offer for contemporary-design houses?
+
+BluEvolution 92 ALU is aluminium-clad on the outside, combining aluminium aesthetics with PVC thermal performance. It is ideal for contemporary-design houses, available in any RAL colour, including matt black, anthracite and wood tones — a premium look with nZEB insulation.
+`,
 
       de: `## Warum braucht ein Einfamilienhaus einen anderen Standard als ein Wohnblock?
 
@@ -14385,7 +15905,26 @@ Regelmäßige Lieferungen nach: **Frankreich** (3–4 Tage), **Deutschland** (2�
 | BluEvolution 92 FLEX, Dreifach-Low-E, nZEB-Montage | 18.000–26.000 EUR |
 | BluEvolution 92 ALU, Dreifach-Low-E, nZEB | 22.000–32.000 EUR |
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Häufig gestellte Fragen
+
+### Warum braucht ein Einfamilienhaus einen anderen Fensterstandard als ein Block?
+
+In einem Block beträgt die Verglasung 20-30% der Fassade; in einem modernen Einfamilienhaus mit großen Fenstern, verglasten Terrassen und Schiebetüren erreicht sie 50-70% der Hülle. Die Fenster werden die Hauptkomponente, die Energieverbrauch, thermischen Komfort, Lärm und Aussehen des Hauses bestimmt.
+
+### Welches Salamander-Profil wird für ein neues Einfamilienhaus empfohlen?
+
+BluEvolution 92 (ALU oder FLEX) — das einzige Salamander-Profil mit voller nZEB- und Passivhaus-Zertifizierung: 6 Kammern, 92-104 mm, Uw = 0,70 W/m²K, 3 EPDM-Dichtungen, Schalldämmung bis 47 dB und kompatibel mit Krypton-Dreifachglas (Ug = 0,5 W/m²K).
+
+### Wie viel kann das Sparen an den Fenstern eines Hauses langfristig kosten?
+
+Eine Ersparnis von 15% bei den Fensterkosten kann einen Anstieg von 30-40% der jährlichen Energierechnung bedeuten. Bei einem 150-m²-Haus mit 25-30 Jahren Nutzungsdauer kann der kumulierte Unterschied 20.000-40.000 EUR an Energiekosten betragen — deshalb sind Fenster kein Detail.
+
+### Welchen Vorteil bietet BluEvolution 92 ALU für Häuser mit zeitgenössischem Design?
+
+BluEvolution 92 ALU ist außen aluminiumverkleidet und verbindet Aluminiumästhetik mit der Wärmeleistung von PVC. Es ist ideal für Häuser mit zeitgenössischem Design, in jeder RAL-Farbe erhältlich, inklusive Mattschwarz, Anthrazit und Holztönen — eine Premium-Optik mit nZEB-Dämmung.
+`,
 
       fr: `## Pourquoi une maison individuelle nécessite-t-elle un standard différent d'un immeuble ?
 
@@ -14427,7 +15966,26 @@ Livraisons régulières en **France** (Paris, Lyon, Île-de-France — 3–4 jou
 | BluEvolution 92 FLEX, triple Low-E, pose nZEB | 18.000–26.000 EUR |
 | BluEvolution 92 ALU, triple Low-E, nZEB | 22.000–32.000 EUR |
 
-**WhatsApp :** +40 752 443 435`,
+**WhatsApp :** +40 752 443 435
+
+## Questions fréquentes
+
+### Pourquoi une maison individuelle a-t-elle besoin d'un autre standard de menuiserie qu'un immeuble ?
+
+Dans un immeuble, le vitrage représente 20-30% de la façade ; dans une maison individuelle moderne à grandes baies, terrasses vitrées et portes coulissantes, il atteint 50-70% de l'enveloppe. La menuiserie devient le composant principal déterminant la consommation, le confort thermique, le bruit et l'aspect de la maison.
+
+### Quel profilé Salamander est recommandé pour une maison individuelle neuve ?
+
+BluEvolution 92 (ALU ou FLEX) — le seul profilé Salamander à certification complète nZEB et maison passive : 6 chambres, 92-104 mm, Uw = 0,70 W/m²K, 3 joints EPDM, isolation acoustique jusqu'à 47 dB et compatible triple vitrage krypton (Ug = 0,5 W/m²K).
+
+### Combien peut coûter à long terme une économie sur les fenêtres d'une maison ?
+
+Une économie de 15% sur le coût des fenêtres peut signifier une hausse de 30-40% de la facture énergétique annuelle. Pour une maison de 150 m² à 25-30 ans de vie utile, la différence cumulée peut être de 20 000-40 000 EUR en coûts énergétiques — c'est pourquoi la menuiserie n'est pas un détail.
+
+### Quel avantage offre le BluEvolution 92 ALU pour les maisons au design contemporain ?
+
+Le BluEvolution 92 ALU est plaqué aluminium à l'extérieur, combinant l'esthétique de l'aluminium et la performance thermique du PVC. Il est idéal pour les maisons au design contemporain, disponible dans toutes les couleurs RAL, dont noir mat, anthracite et tons bois — un aspect premium avec isolation nZEB.
+`,
 
       es: `## ¿Por qué una casa individual necesita un estándar diferente al de un bloque?
 
@@ -14467,7 +16025,26 @@ Una ventana BluEvolution 92 (100×120 cm, triple Low-E) cuesta en Neofort BIZ 48
 | BluEvolution 92 FLEX, triple Low-E, instalación nZEB | 18.000–26.000 EUR |
 | BluEvolution 92 ALU, triple Low-E, nZEB | 22.000–32.000 EUR |
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Preguntas frecuentes
+
+### ¿Por qué una casa individual necesita otro estándar de carpintería que un bloque?
+
+En un bloque, el acristalamiento es el 20-30% de la fachada; en una casa individual moderna con ventanas grandes, terrazas acristaladas y puertas correderas, alcanza el 50-70% de la envolvente. La carpintería se vuelve el componente principal que determina el consumo, el confort térmico, el ruido y el aspecto de la casa.
+
+### ¿Qué perfil Salamander se recomienda para una casa individual nueva?
+
+BluEvolution 92 (ALU o FLEX) — el único perfil Salamander con certificación completa nZEB y casa pasiva: 6 cámaras, 92-104 mm, Uw = 0,70 W/m²K, 3 juntas EPDM, aislamiento acústico hasta 47 dB y compatible con triple vidrio kriptón (Ug = 0,5 W/m²K).
+
+### ¿Cuánto puede costar a largo plazo ahorrar en las ventanas de una casa?
+
+Un ahorro del 15% en el coste de las ventanas puede suponer un aumento del 30-40% en la factura energética anual. En una casa de 150 m² con 25-30 años de vida útil, la diferencia acumulada puede ser de 20.000-40.000 EUR en costes energéticos — por eso la carpintería no es un detalle.
+
+### ¿Qué ventaja ofrece el BluEvolution 92 ALU para casas de diseño contemporáneo?
+
+El BluEvolution 92 ALU está revestido de aluminio en el exterior, combinando la estética del aluminio con el rendimiento térmico del PVC. Es ideal para casas de diseño contemporáneo, disponible en cualquier color RAL, incluido negro mate, antracita y tonos madera — un aspecto premium con aislamiento nZEB.
+`,
 
       it: `## Perché una casa individuale ha bisogno di uno standard diverso da un condominio?
 
@@ -14507,7 +16084,26 @@ Una finestra BluEvolution 92 (100×120 cm, triplo Low-E) costa da Neofort BIZ 48
 | BluEvolution 92 FLEX, triplo Low-E, posa nZEB | 18.000–26.000 EUR |
 | BluEvolution 92 ALU, triplo Low-E, nZEB | 22.000–32.000 EUR |
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Domande frequenti
+
+### Perché una casa individuale necessita di uno standard di serramenti diverso da un condominio?
+
+In un condominio, la vetratura è il 20-30% della facciata; in una casa individuale moderna con grandi finestre, terrazze vetrate e porte scorrevoli, raggiunge il 50-70% dell'involucro. I serramenti diventano il componente principale che determina consumo, comfort termico, rumore e aspetto della casa.
+
+### Quale profilo Salamander è consigliato per una casa individuale nuova?
+
+BluEvolution 92 (ALU o FLEX) — l'unico profilo Salamander con certificazione completa nZEB e casa passiva: 6 camere, 92-104 mm, Uw = 0,70 W/m²K, 3 guarnizioni EPDM, isolamento acustico fino a 47 dB e compatibile con triplo vetro krypton (Ug = 0,5 W/m²K).
+
+### Quanto può costare a lungo termine risparmiare sulle finestre di una casa?
+
+Un risparmio del 15% sul costo delle finestre può significare un aumento del 30-40% della bolletta energetica annua. Per una casa di 150 m² con 25-30 anni di vita utile, la differenza cumulata può essere di 20.000-40.000 EUR in costi energetici — per questo i serramenti non sono un dettaglio.
+
+### Quale vantaggio offre il BluEvolution 92 ALU per case dal design contemporaneo?
+
+Il BluEvolution 92 ALU è rivestito in alluminio all'esterno, combinando l'estetica dell'alluminio con le prestazioni termiche del PVC. È ideale per case dal design contemporaneo, disponibile in qualsiasi colore RAL, incluso nero opaco, antracite e tonalità legno — un aspetto premium con isolamento nZEB.
+`,
     },
   },
 
@@ -14671,7 +16267,26 @@ Sistemul pentru terase și balcoane mari — acolo unde ușa de balcon clasică 
 
 Neofort BIZ lucrează direct cu **dezvoltatori imobiliari, antreprenori generali și arhitecți** din București și din toată România.
 
-**WhatsApp Proiecte:** +40 752 443 439 | **L–V 10–18**`,
+**WhatsApp Proiecte:** +40 752 443 439 | **L–V 10–18**
+
+## Întrebări frecvente
+
+### Ce avantaje estetice are aluminiu Reynaers față de PVC la blocuri?
+
+Două argumente: estetic — profilul aluminiu vizibil de 60-77 mm oferă linii curate, subțiri și aspect premium care crește valoarea percepută; și tehnic — rigiditate structurală foarte ridicată, rezistență la vânt C4/B4, deschideri mari nelimitate și durată de viață 40-50 ani.
+
+### Ce sistem Reynaers a montat Neofort BIZ la blocul din Delea Veche?
+
+Neofort BIZ a livrat și montat tâmplăria aluminiu Reynaers ConceptSystem 77 pentru întregul bloc nou din Delea Veche, Sector 2 — ferestre la toate apartamentele, uși de balcon, uși de intrare în bloc și uși comune. Lucrare completă, un singur furnizor și un singur interlocutor tehnic.
+
+### Care e diferența între PVC BluEvolution 92 și aluminiu Reynaers CS 77?
+
+PVC BluEvolution 92 are Uw mai bun (0,70-1,0 vs 1,1-1,4) și preț mai mic, dar aluminiu Reynaers CS 77 are rigiditate foarte ridicată, rezistență la vânt C4/B4 (vs C3/B3), deschideri mari nelimitate, garanție culoare 25 ani (vs 10) și durată 40-50 ani (vs 30).
+
+### De ce e aluminiul potrivit pentru blocuri din zone premium București?
+
+Pe un bloc nou cu fațadă modernă, aluminiu Reynaers oferă linii arhitecturale curate care cresc valoarea percepută a apartamentelor. Dezvoltatorii din Floreasca, Dorobanți, Aviatorilor și zone în ascensiune ca Delea Veche au migrat spre aluminiu pentru că cumpărătorul vede ferestrele din prima vizită.
+`,
 
       en: `## The Neofort BIZ Project — New Block, Delea Veche, Bucharest
 
@@ -14719,7 +16334,26 @@ An apartment with Reynaers aluminium sells for **5–8% more** than the same apa
 | CS 77, double Low-E | 4 windows + 2 balcony doors (3-room) | 4,200–6,500 EUR |
 | CS 77, triple Low-E | 4 windows + 2 balcony doors (3-room) | 5,500–8,000 EUR |
 
-**WhatsApp Projects:** +40 752 443 439`,
+**WhatsApp Projects:** +40 752 443 439
+
+## Frequently Asked Questions
+
+### What aesthetic advantages does Reynaers aluminium have over PVC on blocks?
+
+Two arguments: aesthetic — the visible 60-77 mm aluminium profile gives clean, slim lines and a premium look that raises perceived value; and technical — very high structural rigidity, C4/B4 wind resistance, unlimited large openings and a 40-50 year lifespan.
+
+### Which Reynaers system did Neofort BIZ install at the Delea Veche block?
+
+Neofort BIZ supplied and installed Reynaers ConceptSystem 77 aluminium joinery for the entire new block in Delea Veche, Sector 2 — windows in all apartments, balcony doors, building entrance doors and common doors. A complete job, a single supplier and a single technical contact.
+
+### What is the difference between PVC BluEvolution 92 and aluminium Reynaers CS 77?
+
+PVC BluEvolution 92 has a better Uw (0.70-1.0 vs 1.1-1.4) and lower price, but aluminium Reynaers CS 77 has very high rigidity, C4/B4 wind resistance (vs C3/B3), unlimited large openings, a 25-year colour warranty (vs 10) and a 40-50 year lifespan (vs 30).
+
+### Why is aluminium suitable for blocks in premium Bucharest areas?
+
+On a new block with a modern façade, Reynaers aluminium gives clean architectural lines that raise the perceived value of apartments. Developers in Floreasca, Dorobanți, Aviatorilor and rising areas like Delea Veche have moved to aluminium because the buyer sees the windows on the first visit.
+`,
 
       de: `## Das Neofort BIZ Projekt — Neubau-Wohnblock, Delea Veche, Bukarest
 
@@ -14754,7 +16388,26 @@ Delea Veche ist eine der aktivsten Wohnbaugebiete im 2. Bezirk Bukarests. Neofor
 | CS 77, Zweifach-Low-E | 4 Fenster + 2 Balkontüren (3 Zi.) | 4.200–6.500 EUR |
 | CS 77, Dreifach-Low-E | 4 Fenster + 2 Balkontüren (3 Zi.) | 5.500–8.000 EUR |
 
-**WhatsApp Projekte:** +40 752 443 439`,
+**WhatsApp Projekte:** +40 752 443 439
+
+## Häufig gestellte Fragen
+
+### Welche ästhetischen Vorteile hat Reynaers-Aluminium gegenüber PVC bei Blöcken?
+
+Zwei Argumente: ästhetisch — das sichtbare 60-77-mm-Aluminiumprofil bietet saubere, schlanke Linien und eine Premium-Optik, die den wahrgenommenen Wert erhöht; und technisch — sehr hohe Steifigkeit, C4/B4-Windwiderstand, unbegrenzt große Öffnungen und 40-50 Jahre Lebensdauer.
+
+### Welches Reynaers-System montierte Neofort BIZ am Block in Delea Veche?
+
+Neofort BIZ lieferte und montierte Reynaers ConceptSystem 77 Aluminiumprofile für den gesamten Neubaublock in Delea Veche, Sektor 2 — Fenster in allen Wohnungen, Balkontüren, Gebäudeeingangstüren und gemeinsame Türen. Komplettarbeit, ein Lieferant und ein technischer Ansprechpartner.
+
+### Was ist der Unterschied zwischen PVC BluEvolution 92 und Aluminium Reynaers CS 77?
+
+PVC BluEvolution 92 hat einen besseren Uw (0,70-1,0 vs 1,1-1,4) und niedrigeren Preis, aber Aluminium Reynaers CS 77 hat sehr hohe Steifigkeit, C4/B4-Windwiderstand (vs C3/B3), unbegrenzt große Öffnungen, 25 Jahre Farbgarantie (vs 10) und 40-50 Jahre Lebensdauer (vs 30).
+
+### Warum eignet sich Aluminium für Blöcke in Premium-Gebieten Bukarests?
+
+An einem Neubaublock mit moderner Fassade bietet Reynaers-Aluminium saubere architektonische Linien, die den wahrgenommenen Wert der Wohnungen erhöhen. Entwickler in Floreasca, Dorobanți, Aviatorilor und aufstrebenden Gebieten wie Delea Veche sind zu Aluminium gewechselt, weil der Käufer die Fenster beim ersten Besuch sieht.
+`,
 
       fr: `## Le projet Neofort BIZ — immeuble neuf, Delea Veche, Bucarest
 
@@ -14788,7 +16441,26 @@ Delea Veche est l'une des zones de développement résidentiel les plus actives 
 | CS 77, double Low-E | 4 fenêtres + 2 portes balcon (3 p.) | 4.200–6.500 EUR |
 | CS 77, triple Low-E | 4 fenêtres + 2 portes balcon (3 p.) | 5.500–8.000 EUR |
 
-**WhatsApp Projets :** +40 752 443 439`,
+**WhatsApp Projets :** +40 752 443 439
+
+## Questions fréquentes
+
+### Quels avantages esthétiques l'aluminium Reynaers a-t-il sur le PVC pour les immeubles ?
+
+Deux arguments : esthétique — le profilé aluminium visible de 60-77 mm offre des lignes nettes, fines et un aspect premium qui augmente la valeur perçue ; et technique — rigidité structurelle très élevée, résistance au vent C4/B4, grandes ouvertures illimitées et durée de vie de 40-50 ans.
+
+### Quel système Reynaers Neofort BIZ a-t-il posé à l'immeuble de Delea Veche ?
+
+Neofort BIZ a fourni et posé la menuiserie aluminium Reynaers ConceptSystem 77 pour tout l'immeuble neuf de Delea Veche, Secteur 2 — fenêtres de tous les appartements, portes de balcon, portes d'entrée d'immeuble et portes communes. Travail complet, un seul fournisseur et un seul interlocuteur technique.
+
+### Quelle différence entre le PVC BluEvolution 92 et l'aluminium Reynaers CS 77 ?
+
+Le PVC BluEvolution 92 a un meilleur Uw (0,70-1,0 vs 1,1-1,4) et un prix plus bas, mais l'aluminium Reynaers CS 77 a une rigidité très élevée, une résistance au vent C4/B4 (vs C3/B3), des grandes ouvertures illimitées, une garantie couleur de 25 ans (vs 10) et une durée de 40-50 ans (vs 30).
+
+### Pourquoi l'aluminium convient-il aux immeubles des zones premium de Bucarest ?
+
+Sur un immeuble neuf à façade moderne, l'aluminium Reynaers offre des lignes architecturales nettes qui augmentent la valeur perçue des appartements. Les promoteurs de Floreasca, Dorobanți, Aviatorilor et zones en essor comme Delea Veche ont migré vers l'aluminium car l'acheteur voit les fenêtres dès la première visite.
+`,
 
       es: `## El proyecto Neofort BIZ — bloque nuevo, Delea Veche, Bucarest
 
@@ -14814,7 +16486,26 @@ Delea Veche es una de las zonas de desarrollo residencial más activas del secto
 | CS 77, doble Low-E | 4 ventanas + 2 puertas balcón (3 hab.) | 4.200–6.500 EUR |
 | CS 77, triple Low-E | 4 ventanas + 2 puertas balcón (3 hab.) | 5.500–8.000 EUR |
 
-**WhatsApp Proyectos:** +40 752 443 439`,
+**WhatsApp Proyectos:** +40 752 443 439
+
+## Preguntas frecuentes
+
+### ¿Qué ventajas estéticas tiene el aluminio Reynaers frente al PVC en bloques?
+
+Dos argumentos: estético — el perfil de aluminio visible de 60-77 mm ofrece líneas limpias, finas y un aspecto premium que aumenta el valor percibido; y técnico — rigidez estructural muy alta, resistencia al viento C4/B4, grandes aberturas ilimitadas y una vida útil de 40-50 años.
+
+### ¿Qué sistema Reynaers montó Neofort BIZ en el bloque de Delea Veche?
+
+Neofort BIZ suministró y montó la carpintería de aluminio Reynaers ConceptSystem 77 para todo el bloque nuevo de Delea Veche, Sector 2 — ventanas en todos los pisos, puertas de balcón, puertas de entrada al bloque y puertas comunes. Trabajo completo, un solo proveedor y un solo interlocutor técnico.
+
+### ¿Qué diferencia hay entre el PVC BluEvolution 92 y el aluminio Reynaers CS 77?
+
+El PVC BluEvolution 92 tiene mejor Uw (0,70-1,0 vs 1,1-1,4) y precio más bajo, pero el aluminio Reynaers CS 77 tiene rigidez muy alta, resistencia al viento C4/B4 (vs C3/B3), grandes aberturas ilimitadas, garantía de color de 25 años (vs 10) y vida de 40-50 años (vs 30).
+
+### ¿Por qué el aluminio es adecuado para bloques en zonas premium de Bucarest?
+
+En un bloque nuevo con fachada moderna, el aluminio Reynaers ofrece líneas arquitectónicas limpias que aumentan el valor percibido de los pisos. Los promotores de Floreasca, Dorobanți, Aviatorilor y zonas en auge como Delea Veche han migrado al aluminio porque el comprador ve las ventanas en la primera visita.
+`,
 
       it: `## Il progetto Neofort BIZ — nuovo condominio, Delea Veche, Bucarest
 
@@ -14840,7 +16531,26 @@ Delea Veche è una delle zone di sviluppo residenziale più attive del settore 2
 | CS 77, doppio Low-E | 4 finestre + 2 porte balcone (3 vani) | 4.200–6.500 EUR |
 | CS 77, triplo Low-E | 4 finestre + 2 porte balcone (3 vani) | 5.500–8.000 EUR |
 
-**WhatsApp Progetti:** +40 752 443 439`,
+**WhatsApp Progetti:** +40 752 443 439
+
+## Domande frequenti
+
+### Quali vantaggi estetici ha l'alluminio Reynaers rispetto al PVC negli edifici?
+
+Due argomenti: estetico — il profilo in alluminio visibile da 60-77 mm offre linee pulite, sottili e un aspetto premium che aumenta il valore percepito; e tecnico — rigidità strutturale molto elevata, resistenza al vento C4/B4, grandi aperture illimitate e durata di vita di 40-50 anni.
+
+### Quale sistema Reynaers ha montato Neofort BIZ all'edificio di Delea Veche?
+
+Neofort BIZ ha fornito e montato i serramenti in alluminio Reynaers ConceptSystem 77 per l'intero nuovo edificio di Delea Veche, Settore 2 — finestre in tutti gli appartamenti, porte da balcone, porte d'ingresso dell'edificio e porte comuni. Lavoro completo, un solo fornitore e un solo interlocutore tecnico.
+
+### Qual è la differenza tra il PVC BluEvolution 92 e l'alluminio Reynaers CS 77?
+
+Il PVC BluEvolution 92 ha un Uw migliore (0,70-1,0 vs 1,1-1,4) e prezzo più basso, ma l'alluminio Reynaers CS 77 ha rigidità molto elevata, resistenza al vento C4/B4 (vs C3/B3), grandi aperture illimitate, garanzia colore di 25 anni (vs 10) e durata di 40-50 anni (vs 30).
+
+### Perché l'alluminio è adatto per edifici in zone premium di Bucarest?
+
+Su un nuovo edificio con facciata moderna, l'alluminio Reynaers offre linee architettoniche pulite che aumentano il valore percepito degli appartamenti. Gli sviluppatori di Floreasca, Dorobanți, Aviatorilor e zone in ascesa come Delea Veche sono passati all'alluminio perché l'acquirente vede le finestre alla prima visita.
+`,
     },
   },
 
@@ -15438,7 +17148,26 @@ Aceste cerințe se aplică și în România. Case de vacanță și reședințe p
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
-Comunicăm în română, engleză, franceză și germană. Livrăm în toată Europa UE — fără taxe vamale, cu documentație CE completă.`,
+Comunicăm în română, engleză, franceză și germană. Livrăm în toată Europa UE — fără taxe vamale, cu documentație CE completă.
+
+## Întrebări frecvente
+
+### Cum e construit profilul BluEvolution 92 ALU placat cu aluminiu?
+
+Nu e un profil de aluminiu, ci un profil PVC BluEvolution 92 (6 camere, 92 mm, performanță nZEB) cu o folie de aluminiu lipită pe fața exterioară. Combină izolarea termică excelentă a PVC-ului cu rezistența UV și durabilitatea exterioară a aluminiului (25 ani).
+
+### De ce e BluEvolution 92 ALU ideal pentru o casă de munte?
+
+Pentru o casă de munte cu ierni aspre, radiație UV intensă la altitudine și variații termice de 60-70°C între vară și iarnă, BluEvolution 92 ALU e superior atât aluminiului pur (mai bună izolare termică) cât și PVC-ului standard (rezistență exterioară incomparabil mai bună).
+
+### Care e avantajul BluEvolution 92 ALU față de aluminiul pur?
+
+BluEvolution 92 ALU oferă aceeași rezistență UV (25 ani), la îngheț și la variații termice extreme ca aluminiul pur, dar cu izolare termică excelentă (PVC) în loc de necesitatea unei bariere termice. În plus, costă cu 20-30% mai puțin decât aluminiul pur.
+
+### E potrivit BluEvolution 92 ALU pentru export în climat sever?
+
+Da. E produsul exact conceput pentru intersecția dintre export, climă extremă și performanță termică maximă. Aspectul de aluminiu cu performanța PVC îl face ideal pentru clienți români stabiliți în Franța, Austria sau zone alpine cu cerințe de rezistență la climat sever.
+`,
 
       en: `## The Neofort BIZ Project — Export to France, Mountain House
 
@@ -15484,7 +17213,26 @@ At 1,000–2,000 m altitude: thermal variation of 55°C (vs 35°C at sea level),
 
 We communicate in Romanian, English, French and German. We deliver across the EU — no customs duties, complete CE documentation.
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Frequently Asked Questions
+
+### How is the aluminium-clad BluEvolution 92 ALU profile built?
+
+It is not an aluminium profile, but a PVC BluEvolution 92 profile (6 chambers, 92 mm, nZEB performance) with aluminium foil bonded to its outer face. It combines PVC's excellent thermal insulation with aluminium's UV resistance and exterior durability (25 years).
+
+### Why is BluEvolution 92 ALU ideal for a mountain house?
+
+For a mountain house with harsh winters, intense UV radiation at altitude and thermal swings of 60-70°C between summer and winter, BluEvolution 92 ALU is superior to both pure aluminium (better thermal insulation) and standard PVC (incomparably better exterior resistance).
+
+### What is the advantage of BluEvolution 92 ALU over pure aluminium?
+
+BluEvolution 92 ALU offers the same UV, frost and extreme-thermal-swing resistance (25 years) as pure aluminium, but with excellent thermal insulation (PVC) instead of needing a thermal break. In addition, it costs 20-30% less than pure aluminium.
+
+### Is BluEvolution 92 ALU suitable for export to harsh climates?
+
+Yes. It is the product designed exactly for the intersection of export, extreme climate and maximum thermal performance. The aluminium look with PVC performance makes it ideal for Romanian clients settled in France, Austria or alpine areas with harsh-climate resistance requirements.
+`,
 
       de: `## Das Neofort BIZ Projekt — Export nach Frankreich, Berghaus
 
@@ -15513,7 +17261,26 @@ We communicate in Romanian, English, French and German. We deliver across the EU
 
 Wir liefern in der gesamten EU — keine Zölle, vollständige CE-Dokumentation.
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Häufig gestellte Fragen
+
+### Wie ist das aluminiumverkleidete BluEvolution 92 ALU Profil aufgebaut?
+
+Es ist kein Aluminiumprofil, sondern ein PVC-Profil BluEvolution 92 (6 Kammern, 92 mm, nZEB-Leistung) mit einer auf die Außenseite geklebten Aluminiumfolie. Es verbindet die ausgezeichnete Wärmedämmung von PVC mit der UV-Beständigkeit und Außenhaltbarkeit von Aluminium (25 Jahre).
+
+### Warum ist BluEvolution 92 ALU ideal für ein Berghaus?
+
+Für ein Berghaus mit harten Wintern, intensiver UV-Strahlung in der Höhe und Temperaturschwankungen von 60-70°C zwischen Sommer und Winter ist BluEvolution 92 ALU sowohl reinem Aluminium (bessere Wärmedämmung) als auch Standard-PVC (unvergleichlich bessere Außenbeständigkeit) überlegen.
+
+### Was ist der Vorteil von BluEvolution 92 ALU gegenüber reinem Aluminium?
+
+BluEvolution 92 ALU bietet dieselbe UV-, Frost- und Extremtemperaturschwankungsbeständigkeit (25 Jahre) wie reines Aluminium, aber mit ausgezeichneter Wärmedämmung (PVC) statt einer benötigten thermischen Trennung. Zudem kostet es 20-30% weniger als reines Aluminium.
+
+### Ist BluEvolution 92 ALU für den Export in raue Klimazonen geeignet?
+
+Ja. Es ist das Produkt, das genau für die Schnittstelle von Export, extremem Klima und maximaler Wärmeleistung konzipiert ist. Die Aluminiumoptik mit PVC-Leistung macht es ideal für in Frankreich, Österreich oder Alpengebieten ansässige rumänische Kunden mit Anforderungen an raue Klimabeständigkeit.
+`,
 
       fr: `## Le projet Neofort BIZ — export France, maison de montagne
 
@@ -15542,7 +17309,26 @@ Wir liefern in der gesamten EU — keine Zölle, vollständige CE-Dokumentation.
 
 Nous communiquons en roumain, anglais, français et allemand. Livraison dans toute l'UE — sans droits de douane, documentation CE complète.
 
-**WhatsApp :** +40 752 443 435`,
+**WhatsApp :** +40 752 443 435
+
+## Questions fréquentes
+
+### Comment est construit le profilé BluEvolution 92 ALU plaqué aluminium ?
+
+Ce n'est pas un profilé aluminium, mais un profilé PVC BluEvolution 92 (6 chambres, 92 mm, performance nZEB) avec un film aluminium collé sur sa face extérieure. Il combine l'excellente isolation thermique du PVC avec la résistance UV et la durabilité extérieure de l'aluminium (25 ans).
+
+### Pourquoi le BluEvolution 92 ALU est-il idéal pour une maison de montagne ?
+
+Pour une maison de montagne aux hivers rudes, rayonnement UV intense en altitude et variations thermiques de 60-70°C entre été et hiver, le BluEvolution 92 ALU est supérieur à l'aluminium pur (meilleure isolation thermique) et au PVC standard (résistance extérieure incomparablement meilleure).
+
+### Quel est l'avantage du BluEvolution 92 ALU sur l'aluminium pur ?
+
+Le BluEvolution 92 ALU offre la même résistance aux UV, au gel et aux variations thermiques extrêmes (25 ans) que l'aluminium pur, mais avec une excellente isolation thermique (PVC) au lieu de nécessiter une rupture de pont thermique. De plus, il coûte 20-30% de moins que l'aluminium pur.
+
+### Le BluEvolution 92 ALU convient-il à l'export vers des climats rudes ?
+
+Oui. C'est le produit conçu exactement pour l'intersection entre export, climat extrême et performance thermique maximale. L'aspect aluminium avec la performance du PVC le rend idéal pour les clients roumains établis en France, en Autriche ou en zones alpines avec des exigences de résistance au climat rude.
+`,
 
       es: `## El proyecto Neofort BIZ — exportación Francia, casa de montaña
 
@@ -15569,7 +17355,26 @@ Nous communiquons en roumain, anglais, français et allemand. Livraison dans tou
 | Oscilobatiente 100×120 cm, triple Low-E | 600–780 EUR |
 | **Precio por m² instalado** | **280–400 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Preguntas frecuentes
+
+### ¿Cómo está construido el perfil BluEvolution 92 ALU revestido de aluminio?
+
+No es un perfil de aluminio, sino un perfil de PVC BluEvolution 92 (6 cámaras, 92 mm, rendimiento nZEB) con una lámina de aluminio pegada a su cara exterior. Combina el excelente aislamiento térmico del PVC con la resistencia UV y la durabilidad exterior del aluminio (25 años).
+
+### ¿Por qué el BluEvolution 92 ALU es ideal para una casa de montaña?
+
+Para una casa de montaña con inviernos duros, radiación UV intensa en altitud y variaciones térmicas de 60-70°C entre verano e invierno, el BluEvolution 92 ALU es superior tanto al aluminio puro (mejor aislamiento térmico) como al PVC estándar (resistencia exterior incomparablemente mejor).
+
+### ¿Cuál es la ventaja del BluEvolution 92 ALU sobre el aluminio puro?
+
+El BluEvolution 92 ALU ofrece la misma resistencia a UV, helada y variaciones térmicas extremas (25 años) que el aluminio puro, pero con excelente aislamiento térmico (PVC) en lugar de necesitar una rotura de puente térmico. Además, cuesta un 20-30% menos que el aluminio puro.
+
+### ¿Es adecuado el BluEvolution 92 ALU para exportar a climas severos?
+
+Sí. Es el producto diseñado exactamente para la intersección entre exportación, clima extremo y rendimiento térmico máximo. El aspecto de aluminio con el rendimiento del PVC lo hace ideal para clientes rumanos establecidos en Francia, Austria o zonas alpinas con requisitos de resistencia a clima severo.
+`,
 
       it: `## Il progetto Neofort BIZ — esportazione Francia, casa di montagna
 
@@ -15596,7 +17401,26 @@ Nous communiquons en roumain, anglais, français et allemand. Livraison dans tou
 | Ribaltabile 100×120 cm, triplo Low-E | 600–780 EUR |
 | **Prezzo per m² posato** | **280–400 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435`,
+**WhatsApp:** +40 752 443 435
+
+## Domande frequenti
+
+### Com'è costruito il profilo BluEvolution 92 ALU rivestito in alluminio?
+
+Non è un profilo in alluminio, ma un profilo in PVC BluEvolution 92 (6 camere, 92 mm, prestazioni nZEB) con una pellicola di alluminio incollata sulla faccia esterna. Combina l'eccellente isolamento termico del PVC con la resistenza UV e la durabilità esterna dell'alluminio (25 anni).
+
+### Perché il BluEvolution 92 ALU è ideale per una casa di montagna?
+
+Per una casa di montagna con inverni rigidi, radiazione UV intensa in quota e sbalzi termici di 60-70°C tra estate e inverno, il BluEvolution 92 ALU è superiore sia all'alluminio puro (migliore isolamento termico) sia al PVC standard (resistenza esterna incomparabilmente migliore).
+
+### Qual è il vantaggio del BluEvolution 92 ALU rispetto all'alluminio puro?
+
+Il BluEvolution 92 ALU offre la stessa resistenza a UV, gelo e sbalzi termici estremi (25 anni) dell'alluminio puro, ma con eccellente isolamento termico (PVC) invece di richiedere un taglio termico. Inoltre, costa il 20-30% in meno dell'alluminio puro.
+
+### Il BluEvolution 92 ALU è adatto all'export in climi rigidi?
+
+Sì. È il prodotto concepito esattamente per l'intersezione tra export, clima estremo e prestazioni termiche massime. L'aspetto alluminio con le prestazioni del PVC lo rende ideale per clienti rumeni stabiliti in Francia, Austria o zone alpine con requisiti di resistenza al clima rigido.
+`,
     },
   },
 
@@ -15781,7 +17605,26 @@ Sticla lipită cu silicon structural pe o structură metalică ascunsă. Zero pr
 
 Montajul geamurilor agabaritice nu se poate face cu mijloace convenționale. Neofort BIZ dispune de echipament specializat de manipulare cu ventuze (capacitate până la 1.400 kg) și colaborează cu echipe certificate pentru montaj la înălțime și în spații înguste.
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Întrebări frecvente
+
+### De la ce dimensiuni o sticlă e considerată agabaritică?
+
+„Agabaritic” descrie orice panou de sticlă care depășește posibilitățile de transport standard — în practică, orice foaie mai mare de 2.500 × 3.500 mm sau mai grea de 150 kg. Sunt cerute de showroom-uri auto, retail premium, restaurante, birouri, hoteluri și rezidențial premium cu ferestre de podea până la tavan.
+
+### Ce tip de sticlă se folosește pentru vitrine de mari dimensiuni?
+
+Sticla securizată (călită termic) e standardul pentru vitrine. Călirea la 620-680°C urmată de răcire bruscă crește rezistența de 4-5 ori față de sticla float. La spargere se fragmentează în granule mici fără muchii ascuțite — esențial pentru siguranța în spații publice.
+
+### Care sunt dimensiunile maxime ale unei foi de sticlă securizată?
+
+O foaie de sticlă securizată poate ajunge la dimensiuni maxime de 3.500 × 8.000 mm, în grosimi standard de 8, 10, 12, 15 sau 19 mm. Aceste dimensiuni permit vitrine panoramice de 3-5 m lățime fără rost vertical vizibil, ideale pentru showroom-uri și fațade retail.
+
+### De ce e importantă securizarea sticlei pentru spații publice?
+
+Sticla securizată, la spargere, se fragmentează în granule mici fără muchii ascuțite, spre deosebire de sticla float care produce cioburi periculoase. Aceasta e esențial pentru siguranța în showroom-uri, magazine, restaurante și orice spațiu public cu trafic intens de persoane.
+`,
 
       en: `## What are oversized glass panels and who needs them?
 
@@ -15835,7 +17678,26 @@ Standard specifications: 8–19 mm thickness, maximum sheet size **3,500 × 8,00
 | Spider fitting inox (per point) | — | 80–180 EUR |
 | **Full installation (robot + labour)** | per panel | **350–800 EUR** |
 
-**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
+
+## Frequently Asked Questions
+
+### From what dimensions is glass considered oversized?
+
+"Oversized" describes any glass panel exceeding standard transport limits — in practice, any sheet larger than 2,500 × 3,500 mm or heavier than 150 kg. It is required by car showrooms, premium retail, restaurants, offices, hotels and premium residential with floor-to-ceiling windows.
+
+### What type of glass is used for large shopfronts?
+
+Toughened (heat-tempered) glass is the standard for shopfronts. Tempering at 620-680°C followed by rapid cooling increases strength 4-5 times over float glass. On breakage it fragments into small granules without sharp edges — essential for safety in public spaces.
+
+### What are the maximum dimensions of a toughened glass sheet?
+
+A toughened glass sheet can reach maximum dimensions of 3,500 × 8,000 mm, in standard thicknesses of 8, 10, 12, 15 or 19 mm. These dimensions allow panoramic shopfronts of 3-5 m wide with no visible vertical joint, ideal for showrooms and retail façades.
+
+### Why is toughening important for public spaces?
+
+Toughened glass, on breakage, fragments into small granules without sharp edges, unlike float glass which produces dangerous shards. This is essential for safety in showrooms, shops, restaurants and any public space with heavy footfall.
+`,
 
       de: `## Was sind übergroße Glasscheiben und wer braucht sie?
 
@@ -15873,7 +17735,26 @@ Thermische Härtung bei 620–680°C erhöht Glasfestigkeit **4–5×**. Maximal
 | Isolierglas ESG 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
 | **Komplettmontage (Roboter + Arbeit)** | pro Panel | **350–800 EUR** |
 
-**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
+
+## Häufig gestellte Fragen
+
+### Ab welchen Maßen gilt Glas als überformatig?
+
+„Überformatig“ beschreibt jedes Glaspaneel, das die Standard-Transportgrenzen überschreitet — in der Praxis jede Scheibe größer als 2.500 × 3.500 mm oder schwerer als 150 kg. Es wird von Autohäusern, Premium-Einzelhandel, Restaurants, Büros, Hotels und Premium-Wohnbau mit raumhohen Fenstern benötigt.
+
+### Welcher Glastyp wird für große Schaufenster verwendet?
+
+Vorgespanntes (wärmebehandeltes) Glas ist der Standard für Schaufenster. Das Vorspannen bei 620-680°C mit anschließender schneller Abkühlung erhöht die Festigkeit um das 4-5-fache gegenüber Floatglas. Beim Bruch zerfällt es in kleine Granulate ohne scharfe Kanten — essenziell für die Sicherheit in öffentlichen Räumen.
+
+### Was sind die Maximalmaße einer vorgespannten Glasscheibe?
+
+Eine vorgespannte Glasscheibe kann Maximalmaße von 3.500 × 8.000 mm erreichen, in Standarddicken von 8, 10, 12, 15 oder 19 mm. Diese Maße ermöglichen Panorama-Schaufenster von 3-5 m Breite ohne sichtbare vertikale Fuge, ideal für Showrooms und Einzelhandelsfassaden.
+
+### Warum ist das Vorspannen für öffentliche Räume wichtig?
+
+Vorgespanntes Glas zerfällt beim Bruch in kleine Granulate ohne scharfe Kanten, anders als Floatglas, das gefährliche Scherben erzeugt. Das ist essenziell für die Sicherheit in Showrooms, Geschäften, Restaurants und jedem öffentlichen Raum mit starkem Publikumsverkehr.
+`,
 
       fr: `## Que sont les panneaux de verre surdimensionnés et qui en a besoin ?
 
@@ -15907,7 +17788,26 @@ Trempe thermique à 620–680°C : résistance **4–5× supérieure**. Dimensio
 | Double vitrage trempé 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
 | **Pose complète (robot + main-d'œuvre)** | par panneau | **350–800 EUR** |
 
-**WhatsApp :** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp :** +40 752 443 435 | **L–V 10–18**
+
+## Questions fréquentes
+
+### À partir de quelles dimensions un verre est-il considéré hors gabarit ?
+
+« Hors gabarit » décrit tout panneau de verre dépassant les limites de transport standard — en pratique, toute feuille de plus de 2 500 × 3 500 mm ou de plus de 150 kg. Il est requis par les showrooms auto, le retail premium, les restaurants, bureaux, hôtels et le résidentiel premium à fenêtres du sol au plafond.
+
+### Quel type de verre utilise-t-on pour les grandes vitrines ?
+
+Le verre trempé (traité thermiquement) est le standard pour les vitrines. La trempe à 620-680°C suivie d'un refroidissement rapide augmente la résistance de 4 à 5 fois par rapport au verre float. À la casse, il se fragmente en petits granules sans arêtes vives — essentiel pour la sécurité dans les espaces publics.
+
+### Quelles sont les dimensions maximales d'une feuille de verre trempé ?
+
+Une feuille de verre trempé peut atteindre des dimensions maximales de 3 500 × 8 000 mm, en épaisseurs standard de 8, 10, 12, 15 ou 19 mm. Ces dimensions permettent des vitrines panoramiques de 3-5 m de large sans joint vertical visible, idéales pour les showrooms et façades retail.
+
+### Pourquoi la trempe est-elle importante pour les espaces publics ?
+
+Le verre trempé, à la casse, se fragmente en petits granules sans arêtes vives, contrairement au verre float qui produit des éclats dangereux. C'est essentiel pour la sécurité dans les showrooms, magasins, restaurants et tout espace public à fort passage.
+`,
 
       es: `## ¿Qué son los paneles de vidrio sobredimensionados y quién los necesita?
 
@@ -15941,7 +17841,26 @@ Temple térmico a 620–680°C: resistencia **4–5× superior**. Dimensiones m�
 | Doble acristalamiento templado 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
 | **Instalación completa (robot + mano de obra)** | por panel | **350–800 EUR** |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Preguntas frecuentes
+
+### ¿A partir de qué dimensiones se considera el vidrio de gran formato?
+
+«Gran formato» describe cualquier panel de vidrio que supera los límites de transporte estándar — en la práctica, cualquier hoja mayor de 2.500 × 3.500 mm o más pesada de 150 kg. Lo requieren showrooms de automóviles, retail premium, restaurantes, oficinas, hoteles y residencial premium con ventanas de suelo a techo.
+
+### ¿Qué tipo de vidrio se usa para escaparates de gran tamaño?
+
+El vidrio templado (tratado térmicamente) es el estándar para escaparates. El templado a 620-680°C seguido de enfriamiento rápido aumenta la resistencia de 4 a 5 veces frente al vidrio float. Al romperse se fragmenta en gránulos pequeños sin aristas afiladas — esencial para la seguridad en espacios públicos.
+
+### ¿Cuáles son las dimensiones máximas de una hoja de vidrio templado?
+
+Una hoja de vidrio templado puede alcanzar dimensiones máximas de 3.500 × 8.000 mm, en grosores estándar de 8, 10, 12, 15 o 19 mm. Estas dimensiones permiten escaparates panorámicos de 3-5 m de ancho sin junta vertical visible, ideales para showrooms y fachadas retail.
+
+### ¿Por qué es importante el templado para espacios públicos?
+
+El vidrio templado, al romperse, se fragmenta en gránulos pequeños sin aristas afiladas, a diferencia del vidrio float que produce esquirlas peligrosas. Esto es esencial para la seguridad en showrooms, tiendas, restaurantes y cualquier espacio público con alto tránsito de personas.
+`,
 
       it: `## Cosa sono i pannelli di vetro sovradimensionati e chi ne ha bisogno?
 
@@ -15975,7 +17894,26 @@ Tempra termica a 620–680°C: resistenza **4–5× superiore**. Dimensioni mass
 | Vetrocamera temprato 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
 | **Posa completa (robot + manodopera)** | per pannello | **350–800 EUR** |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Domande frequenti
+
+### Da quali dimensioni un vetro è considerato fuori misura?
+
+«Fuori misura» descrive qualsiasi pannello di vetro che supera i limiti di trasporto standard — in pratica, qualsiasi lastra più grande di 2.500 × 3.500 mm o più pesante di 150 kg. È richiesto da showroom auto, retail premium, ristoranti, uffici, hotel e residenziale premium con finestre dal pavimento al soffitto.
+
+### Che tipo di vetro si usa per le grandi vetrine?
+
+Il vetro temperato (trattato termicamente) è lo standard per le vetrine. La tempera a 620-680°C seguita da raffreddamento rapido aumenta la resistenza di 4-5 volte rispetto al vetro float. Alla rottura si frammenta in piccoli granuli senza bordi taglienti — essenziale per la sicurezza negli spazi pubblici.
+
+### Quali sono le dimensioni massime di una lastra di vetro temperato?
+
+Una lastra di vetro temperato può raggiungere dimensioni massime di 3.500 × 8.000 mm, in spessori standard di 8, 10, 12, 15 o 19 mm. Queste dimensioni permettono vetrine panoramiche di 3-5 m di larghezza senza giunto verticale visibile, ideali per showroom e facciate retail.
+
+### Perché la tempera è importante per gli spazi pubblici?
+
+Il vetro temperato, alla rottura, si frammenta in piccoli granuli senza bordi taglienti, a differenza del vetro float che produce schegge pericolose. Questo è essenziale per la sicurezza in showroom, negozi, ristoranti e qualsiasi spazio pubblico ad alto transito di persone.
+`,
     },
   },
 
@@ -16165,7 +18103,26 @@ Odată panou pozițional corect, echipa fixează elementele de prindere (bolțur
 | Montaj per panou > 600 kg | 800–1.500 EUR |
 | Deplasare în afara Bucureștiului (per km) | 1,5–2,5 EUR/km |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Întrebări frecvente
+
+### De ce nu se poate monta sticla agabarită manual?
+
+Un panou de sticlă securizată de 3.000 × 4.000 mm la 10 mm cântărește 300 kg, iar un termopan 3×5 m ajunge la 500+ kg. Nicio echipă nu poate manipula fizic aceste greutăți fără risc major de spargere, accidentare gravă și imposibilitatea poziționării precise (erori de 2-3 mm distrug etanșarea).
+
+### Cum funcționează robotul cu ventuze cu vid pentru sticlă?
+
+Ventuzele cu vid creează o zonă de presiune negativă (vid parțial) pe suprafața sticlei. Forța de aderență e proporțională cu suprafața ventuzei și nivelul de vid, permițând manipularea sigură și precisă a panourilor de sute de kilograme, imposibil de mișcat manual.
+
+### Cât poate cântări un panou de geam agabaritic?
+
+O sticlă securizată de 10 mm cântărește 25 kg/mp, deci un panou de 3.000 × 4.000 mm ajunge la 300 kg (360 kg la 12 mm). Un termopan securizat 6+16+6 la 3×5 m depășește 500 kg — de aceea montajul necesită obligatoriu robot cu ventuze cu vid.
+
+### Ce precizie e necesară la montajul geamurilor mari?
+
+Montajul panourilor de mari dimensiuni necesită o precizie ridicată — erorile de poziționare de 2-3 mm distrug etanșarea perimetrală. Robotul cu ventuze cu vid permite poziționarea milimetrică imposibil de atins manual, garantând o etanșare corectă și durabilă a panoului.
+`,
 
       en: `## Why large glass cannot be installed manually
 
@@ -16212,7 +18169,26 @@ Vacuum cups create negative pressure on the glass surface. An industrial 200mm c
 | Installation per panel 200–600 kg | 450–800 EUR |
 | Installation per panel > 600 kg | 800–1,500 EUR |
 
-**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
+
+## Frequently Asked Questions
+
+### Why can't oversized glass be fitted by hand?
+
+A toughened glass panel of 3,000 × 4,000 mm at 10 mm weighs 300 kg, and a 3×5 m insulated unit reaches 500+ kg. No team can physically handle these weights without a major risk of breakage, serious injury and the impossibility of precise positioning (2-3 mm errors destroy the seal).
+
+### How does the vacuum-suction glass robot work?
+
+Vacuum suction cups create a negative-pressure zone (partial vacuum) on the glass surface. The adhesion force is proportional to the cup area and vacuum level, allowing safe and precise handling of panels weighing hundreds of kilograms, impossible to move by hand.
+
+### How much can an oversized glass panel weigh?
+
+Toughened 10 mm glass weighs 25 kg/m², so a 3,000 × 4,000 mm panel reaches 300 kg (360 kg at 12 mm). A toughened 6+16+6 insulated unit at 3×5 m exceeds 500 kg — which is why fitting requires a vacuum-suction robot.
+
+### What precision is needed when fitting large glass?
+
+Fitting large panels requires high precision — positioning errors of 2-3 mm destroy the perimeter seal. The vacuum-suction robot allows millimetre positioning impossible to achieve by hand, guaranteeing a correct and durable seal of the panel.
+`,
 
       de: `## Warum Großglas nicht manuell montiert werden kann
 
@@ -16251,7 +18227,26 @@ Eine 3×4 m ESG-Scheibe mit 12 mm Dicke wiegt **360 kg**. Manuelle Handhabung oh
 | Montage pro Scheibe < 200 kg | 250–450 EUR |
 | Montage pro Scheibe 200–600 kg | 450–800 EUR |
 
-**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
+
+## Häufig gestellte Fragen
+
+### Warum kann überformatiges Glas nicht von Hand eingebaut werden?
+
+Ein vorgespanntes Glaspaneel von 3.000 × 4.000 mm bei 10 mm wiegt 300 kg, und eine 3×5-m-Isolierglaseinheit erreicht 500+ kg. Kein Team kann diese Gewichte physisch ohne großes Bruchrisiko, schwere Verletzungen und die Unmöglichkeit präziser Positionierung (2-3-mm-Fehler zerstören die Abdichtung) bewältigen.
+
+### Wie funktioniert der Vakuum-Saug-Glasroboter?
+
+Vakuumsaugnäpfe erzeugen eine Unterdruckzone (Teilvakuum) auf der Glasoberfläche. Die Haftkraft ist proportional zur Saugnapffläche und zum Vakuumniveau und ermöglicht die sichere und präzise Handhabung von Paneelen mit Hunderten von Kilogramm, die von Hand unmöglich zu bewegen sind.
+
+### Wie viel kann ein überformatiges Glaspaneel wiegen?
+
+Vorgespanntes 10-mm-Glas wiegt 25 kg/m², ein 3.000 × 4.000-mm-Paneel erreicht also 300 kg (360 kg bei 12 mm). Eine vorgespannte 6+16+6-Isolierglaseinheit bei 3×5 m überschreitet 500 kg — daher erfordert der Einbau einen Vakuum-Saugroboter.
+
+### Welche Präzision ist beim Einbau großer Gläser erforderlich?
+
+Der Einbau großer Paneele erfordert hohe Präzision — Positionierungsfehler von 2-3 mm zerstören die Randabdichtung. Der Vakuum-Saugroboter ermöglicht eine millimetergenaue Positionierung, die von Hand unmöglich ist, und garantiert eine korrekte und dauerhafte Abdichtung des Paneels.
+`,
 
       fr: `## Pourquoi le grand verre ne peut pas être posé manuellement
 
@@ -16290,7 +18285,26 @@ Un panneau ESG 3×4 m de 12 mm pèse **360 kg**. La manutention manuelle sans é
 | Pose par panneau < 200 kg | 250–450 EUR |
 | Pose par panneau 200–600 kg | 450–800 EUR |
 
-**WhatsApp :** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp :** +40 752 443 435 | **L–V 10–18**
+
+## Questions fréquentes
+
+### Pourquoi le verre hors gabarit ne peut-il pas être posé à la main ?
+
+Un panneau de verre trempé de 3 000 × 4 000 mm en 10 mm pèse 300 kg, et un double vitrage 3×5 m atteint 500+ kg. Aucune équipe ne peut manipuler physiquement ces poids sans risque majeur de casse, blessure grave et impossibilité de positionnement précis (des erreurs de 2-3 mm détruisent l'étanchéité).
+
+### Comment fonctionne le robot à ventouses à vide pour le verre ?
+
+Les ventouses à vide créent une zone de pression négative (vide partiel) sur la surface du verre. La force d'adhérence est proportionnelle à la surface de la ventouse et au niveau de vide, permettant la manipulation sûre et précise de panneaux de centaines de kilogrammes, impossibles à bouger à la main.
+
+### Combien peut peser un panneau de verre hors gabarit ?
+
+Le verre trempé de 10 mm pèse 25 kg/m², donc un panneau de 3 000 × 4 000 mm atteint 300 kg (360 kg en 12 mm). Un double vitrage trempé 6+16+6 en 3×5 m dépasse 500 kg — c'est pourquoi la pose nécessite un robot à ventouses à vide.
+
+### Quelle précision faut-il pour la pose de grands verres ?
+
+La pose de grands panneaux nécessite une haute précision — des erreurs de positionnement de 2-3 mm détruisent l'étanchéité périmétrique. Le robot à ventouses à vide permet un positionnement au millimètre impossible à la main, garantissant une étanchéité correcte et durable du panneau.
+`,
 
       es: `## Por qué el vidrio grande no se puede instalar manualmente
 
@@ -16328,7 +18342,26 @@ Un panel ESG de 3×4 m y 12 mm de grosor pesa **360 kg**. La manipulación manua
 | Instalación por panel < 200 kg | 250–450 EUR |
 | Instalación por panel 200–600 kg | 450–800 EUR |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Preguntas frecuentes
+
+### ¿Por qué no se puede montar el vidrio de gran formato a mano?
+
+Un panel de vidrio templado de 3.000 × 4.000 mm en 10 mm pesa 300 kg, y un vidrio doble de 3×5 m alcanza 500+ kg. Ningún equipo puede manipular físicamente estos pesos sin un riesgo grave de rotura, lesión seria y la imposibilidad de un posicionamiento preciso (errores de 2-3 mm destruyen el sellado).
+
+### ¿Cómo funciona el robot de ventosas de vacío para vidrio?
+
+Las ventosas de vacío crean una zona de presión negativa (vacío parcial) en la superficie del vidrio. La fuerza de adherencia es proporcional a la superficie de la ventosa y al nivel de vacío, permitiendo la manipulación segura y precisa de paneles de cientos de kilogramos, imposibles de mover a mano.
+
+### ¿Cuánto puede pesar un panel de vidrio de gran formato?
+
+El vidrio templado de 10 mm pesa 25 kg/m², por lo que un panel de 3.000 × 4.000 mm alcanza 300 kg (360 kg en 12 mm). Un vidrio doble templado 6+16+6 en 3×5 m supera los 500 kg — por eso el montaje requiere un robot de ventosas de vacío.
+
+### ¿Qué precisión se necesita al montar vidrios grandes?
+
+El montaje de paneles grandes requiere alta precisión — errores de posicionamiento de 2-3 mm destruyen el sellado perimetral. El robot de ventosas de vacío permite un posicionamiento milimétrico imposible a mano, garantizando un sellado correcto y duradero del panel.
+`,
 
       it: `## Perché il vetro grande non può essere installato manualmente
 
@@ -16366,7 +18399,26 @@ Un pannello ESG 3×4 m da 12 mm pesa **360 kg**. La movimentazione manuale senza
 | Posa per pannello < 200 kg | 250–450 EUR |
 | Posa per pannello 200–600 kg | 450–800 EUR |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Domande frequenti
+
+### Perché il vetro fuori misura non può essere montato a mano?
+
+Un pannello di vetro temperato di 3.000 × 4.000 mm a 10 mm pesa 300 kg, e una vetrocamera 3×5 m raggiunge 500+ kg. Nessuna squadra può manipolare fisicamente questi pesi senza un grave rischio di rottura, infortunio serio e l'impossibilità di un posizionamento preciso (errori di 2-3 mm distruggono la sigillatura).
+
+### Come funziona il robot a ventose a vuoto per il vetro?
+
+Le ventose a vuoto creano una zona di pressione negativa (vuoto parziale) sulla superficie del vetro. La forza di adesione è proporzionale alla superficie della ventosa e al livello di vuoto, permettendo la manipolazione sicura e precisa di pannelli di centinaia di chilogrammi, impossibili da muovere a mano.
+
+### Quanto può pesare un pannello di vetro fuori misura?
+
+Il vetro temperato da 10 mm pesa 25 kg/m², quindi un pannello di 3.000 × 4.000 mm raggiunge 300 kg (360 kg a 12 mm). Una vetrocamera temperata 6+16+6 a 3×5 m supera i 500 kg — per questo il montaggio richiede un robot a ventose a vuoto.
+
+### Quale precisione serve nel montaggio di grandi vetri?
+
+Il montaggio di grandi pannelli richiede alta precisione — errori di posizionamento di 2-3 mm distruggono la sigillatura perimetrale. Il robot a ventose a vuoto permette un posizionamento millimetrico impossibile a mano, garantendo una sigillatura corretta e durevole del pannello.
+`,
     },
   },
 
@@ -17030,7 +19082,26 @@ Blackout total are sens în situații specifice:
 
 Nu ești sigur ce să alegi? Trimite-ne o fotografie cu fereastra sau terasa și orientarea casei — îți recomandăm specific.
 
-**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**
+
+## Întrebări frecvente
+
+### Zipscreen blackout sau transparent — care e mai bun?
+
+Depinde de trei factori: orientarea ferestrei sau terasei, scopul principal (umbrire, intimitate sau confort vizual) și contextul urbanistic (stradă, vecini, curte privată). Transparentul păstrează vederea și filtrează 90-95% UV; blackout-ul oferă întuneric total și 100% filtrare UV, dar zero vizibilitate.
+
+### Ce înseamnă procentul de deschidere la o țesătură screen?
+
+Procentul de deschidere (openness factor) e proporția de goluri din țesătură față de suprafața totală. Un procent mai mic înseamnă material mai dens, mai puțină lumină și vizibilitate. Transparent = 5-10% deschidere (90-95% UV filtrat), semi-opac = 1-3%, opac/blackout = 0% (100% UV).
+
+### Se vede în casă printr-un screen transparent pe timp de zi?
+
+Nu. La țesăturile screen cu 5-10% deschidere, din exterior pe timp de zi nu se vede înăuntru — funcționează ca o oglindă. Noaptea, când ai lumină interioară aprinsă, situația se inversează și se poate vedea în casă. E un mit frecvent că transparentul oferă vizibilitate din exterior ziua.
+
+### Ce țesătură Zipscreen aleg pentru intimitate maximă?
+
+Pentru intimitate maximă alege blackout (opac, 0% deschidere) — oferă întuneric total, zero vizibilitate în ambele sensuri și 100% filtrare UV, ideal pentru dormitoare. Dacă vrei și păstrarea vederii spre exterior, semi-opacul (1-3%) oferă un compromis cu vizibilitate redusă și 97-99% UV filtrat.
+`,
 
       en: `## The question we get most often: blackout or transparent?
 
@@ -17085,7 +19156,26 @@ The correct answer depends on three factors: **window or terrace orientation**, 
 | Semi-opaque | 3% | 170–240 EUR/m² |
 | Blackout | 0% | 190–280 EUR/m² |
 
-**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
+
+## Frequently Asked Questions
+
+### Zipscreen blackout or transparent — which is better?
+
+It depends on three factors: the orientation of the window or terrace, the main purpose (shading, privacy or visual comfort) and the urban context (street, neighbours, private yard). Transparent keeps the view and filters 90-95% UV; blackout gives total darkness and 100% UV filtering, but zero visibility.
+
+### What does the openness factor of a screen fabric mean?
+
+The openness factor is the proportion of gaps in the fabric relative to the total area. A lower percentage means denser material, less light and visibility. Transparent = 5-10% openness (90-95% UV filtered), semi-opaque = 1-3%, opaque/blackout = 0% (100% UV).
+
+### Can you see into the house through a transparent screen during the day?
+
+No. With screen fabrics of 5-10% openness, you cannot see in from outside during the day — it acts like a mirror. At night, with interior lights on, the situation reverses and you can see in. It is a common myth that transparent fabric gives outside visibility during the day.
+
+### Which Zipscreen fabric should I choose for maximum privacy?
+
+For maximum privacy choose blackout (opaque, 0% openness) — it gives total darkness, zero visibility both ways and 100% UV filtering, ideal for bedrooms. If you also want to keep the outward view, semi-opaque (1-3%) offers a compromise with reduced visibility and 97-99% UV filtered.
+`,
 
       de: `## Die häufigste Frage: Blackout oder transparent?
 
@@ -17135,7 +19225,26 @@ Fast jeder Kunde, der ein Zipscreen-Rollo in Bukarest bestellt, stellt dieselbe 
 | Halblichtdurchlässig | 3% | 170–240 EUR/m² |
 | Blackout | 0% | 190–280 EUR/m² |
 
-**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
+
+## Häufig gestellte Fragen
+
+### Zipscreen Blackout oder transparent — was ist besser?
+
+Es hängt von drei Faktoren ab: Ausrichtung des Fensters oder der Terrasse, Hauptzweck (Beschattung, Privatsphäre oder Sehkomfort) und städtischer Kontext (Straße, Nachbarn, privater Hof). Transparent behält die Sicht und filtert 90-95% UV; Blackout gibt totale Dunkelheit und 100% UV-Filterung, aber null Sicht.
+
+### Was bedeutet der Öffnungsfaktor eines Screen-Gewebes?
+
+Der Öffnungsfaktor ist der Anteil der Lücken im Gewebe im Verhältnis zur Gesamtfläche. Ein niedrigerer Prozentsatz bedeutet dichteres Material, weniger Licht und Sicht. Transparent = 5-10% Öffnung (90-95% UV gefiltert), halbopak = 1-3%, opak/Blackout = 0% (100% UV).
+
+### Sieht man tagsüber durch ein transparentes Screen ins Haus?
+
+Nein. Bei Screen-Geweben mit 5-10% Öffnung sieht man tagsüber von außen nicht hinein — es wirkt wie ein Spiegel. Nachts, bei eingeschaltetem Innenlicht, kehrt sich die Situation um und man kann hineinsehen. Es ist ein häufiger Mythos, dass transparentes Gewebe tagsüber Außensicht bietet.
+
+### Welches Zipscreen-Gewebe wähle ich für maximale Privatsphäre?
+
+Für maximale Privatsphäre wählen Sie Blackout (opak, 0% Öffnung) — es gibt totale Dunkelheit, null Sicht in beide Richtungen und 100% UV-Filterung, ideal für Schlafzimmer. Wenn Sie auch die Außensicht behalten möchten, bietet Halbopak (1-3%) einen Kompromiss mit reduzierter Sicht und 97-99% UV gefiltert.
+`,
 
       fr: `## La question la plus fréquente : occultant ou transparent ?
 
@@ -17185,7 +19294,26 @@ Presque tous les clients qui commandent un store Zipscreen à Bucarest posent la
 | Semi-opaque | 3% | 170–240 EUR/m² |
 | Occultante | 0% | 190–280 EUR/m² |
 
-**WhatsApp :** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp :** +40 752 443 435 | **L–V 10–18**
+
+## Questions fréquentes
+
+### Zipscreen blackout ou transparent — lequel est meilleur ?
+
+Cela dépend de trois facteurs : l'orientation de la fenêtre ou terrasse, l'objectif principal (occultation, intimité ou confort visuel) et le contexte urbain (rue, voisins, cour privée). Le transparent garde la vue et filtre 90-95% des UV ; le blackout donne l'obscurité totale et 100% de filtration UV, mais zéro visibilité.
+
+### Que signifie le facteur d'ouverture d'une toile screen ?
+
+Le facteur d'ouverture est la proportion de vides dans la toile par rapport à la surface totale. Un pourcentage plus faible signifie un matériau plus dense, moins de lumière et de visibilité. Transparent = 5-10% d'ouverture (90-95% UV filtré), semi-opaque = 1-3%, opaque/blackout = 0% (100% UV).
+
+### Voit-on dans la maison à travers un screen transparent en journée ?
+
+Non. Avec les toiles screen de 5-10% d'ouverture, on ne voit pas à l'intérieur depuis l'extérieur en journée — cela agit comme un miroir. La nuit, avec la lumière intérieure allumée, la situation s'inverse et on peut voir à l'intérieur. C'est un mythe fréquent que le transparent offre une visibilité extérieure en journée.
+
+### Quelle toile Zipscreen choisir pour une intimité maximale ?
+
+Pour une intimité maximale, choisissez le blackout (opaque, 0% d'ouverture) — il donne l'obscurité totale, zéro visibilité dans les deux sens et 100% de filtration UV, idéal pour les chambres. Si vous voulez aussi garder la vue extérieure, le semi-opaque (1-3%) offre un compromis avec visibilité réduite et 97-99% UV filtré.
+`,
 
       es: `## La pregunta más frecuente: ¿blackout o transparente?
 
@@ -17235,7 +19363,26 @@ Casi todos los clientes que piden una persiana Zipscreen en Bucarest hacen la mi
 | Semiopaco | 3% | 170–240 EUR/m² |
 | Blackout | 0% | 190–280 EUR/m² |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Preguntas frecuentes
+
+### Zipscreen blackout o transparente — ¿cuál es mejor?
+
+Depende de tres factores: la orientación de la ventana o terraza, el objetivo principal (sombreado, intimidad o confort visual) y el contexto urbano (calle, vecinos, patio privado). El transparente mantiene la vista y filtra el 90-95% de UV; el blackout da oscuridad total y 100% de filtración UV, pero cero visibilidad.
+
+### ¿Qué significa el factor de apertura de un tejido screen?
+
+El factor de apertura es la proporción de huecos en el tejido respecto a la superficie total. Un porcentaje menor significa material más denso, menos luz y visibilidad. Transparente = 5-10% de apertura (90-95% UV filtrado), semiopaco = 1-3%, opaco/blackout = 0% (100% UV).
+
+### ¿Se ve dentro de la casa a través de un screen transparente de día?
+
+No. Con los tejidos screen de 5-10% de apertura, desde el exterior de día no se ve dentro — funciona como un espejo. De noche, con luz interior encendida, la situación se invierte y se puede ver dentro. Es un mito frecuente que el transparente ofrece visibilidad desde el exterior de día.
+
+### ¿Qué tejido Zipscreen elijo para máxima intimidad?
+
+Para máxima intimidad elige blackout (opaco, 0% de apertura) — da oscuridad total, cero visibilidad en ambos sentidos y 100% de filtración UV, ideal para dormitorios. Si también quieres conservar la vista al exterior, el semiopaco (1-3%) ofrece un compromiso con visibilidad reducida y 97-99% UV filtrado.
+`,
 
       it: `## La domanda più frequente: oscurante o trasparente?
 
@@ -17285,7 +19432,26 @@ Quasi tutti i clienti che ordinano una tenda Zipscreen a Bucarest fanno la stess
 | Semi-opaco | 3% | 170–240 EUR/m² |
 | Oscurante | 0% | 190–280 EUR/m² |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Domande frequenti
+
+### Zipscreen blackout o trasparente — quale è meglio?
+
+Dipende da tre fattori: l'orientamento della finestra o terrazza, lo scopo principale (schermatura, privacy o comfort visivo) e il contesto urbano (strada, vicini, cortile privato). Il trasparente mantiene la vista e filtra il 90-95% degli UV; il blackout dà buio totale e 100% di filtrazione UV, ma zero visibilità.
+
+### Cosa significa il fattore di apertura di un tessuto screen?
+
+Il fattore di apertura è la proporzione di vuoti nel tessuto rispetto alla superficie totale. Una percentuale minore significa materiale più denso, meno luce e visibilità. Trasparente = 5-10% di apertura (90-95% UV filtrato), semiopaco = 1-3%, opaco/blackout = 0% (100% UV).
+
+### Si vede in casa attraverso uno screen trasparente di giorno?
+
+No. Con i tessuti screen dal 5-10% di apertura, dall'esterno di giorno non si vede dentro — funziona come uno specchio. Di notte, con la luce interna accesa, la situazione si inverte e si può vedere dentro. È un mito frequente che il trasparente offra visibilità dall'esterno di giorno.
+
+### Quale tessuto Zipscreen scelgo per la massima privacy?
+
+Per la massima privacy scegli il blackout (opaco, 0% di apertura) — dà buio totale, zero visibilità in entrambi i sensi e 100% di filtrazione UV, ideale per le camere da letto. Se vuoi anche mantenere la vista verso l'esterno, il semiopaco (1-3%) offre un compromesso con visibilità ridotta e 97-99% UV filtrato.
+`,
     },
   },
 
@@ -17477,7 +19643,26 @@ Neofort BIZ este furnizor specializat de tâmplărie Salamander PVC și aluminiu
 
 Montăm exclusiv în sistem nZEB complet — nu oferim montaj fără precadre Blaugelb, pentru că nu respectăm standarde pe care nu le putem garanta.
 
-**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**
+
+## Întrebări frecvente
+
+### Cât de extreme sunt variațiile de temperatură din București pentru ferestre?
+
+Bucureștiul are una dintre cele mai provocatoare climate din Europa: −15°C iarna și +38°C vara, o diferență de 53°C. Ferestrele ineficiente pierd 25-35% din energia de încălzire iarna și lasă să intre 40-60% din căldura solară vara. Înlocuirea cu tâmplărie nZEB reduce consumul cu 35-55%.
+
+### Ce coeficient Uw trebuie să aibă o fereastră nZEB în București?
+
+Pentru construcții noi în București, standardul nZEB obligatoriu (din 2021) cere Uw ≤ 0,73 W/m²K. Ferestrele vechi pre-2005 au 3,0-4,5 (de înlocuit urgent), standardul minim de renovare e 1,1-1,4, iar casele pasive certificate ating ≤ 0,60 W/m²K.
+
+### Care e diferența între Uw și Uf la o fereastră?
+
+Uw măsoară cât căldură pierde fereastra completă (cu geam), iar Uf doar profilul gol. Uf e întotdeauna mai bun (mai mic) decât Uw. Mulți furnizori afișează Uf în loc de Uw în marketing — cere întotdeauna Uw al ferestrei complete, singurul număr care contează cu adevărat.
+
+### Cât reduce consumul energetic înlocuirea ferestrelor vechi cu nZEB?
+
+Un studiu INCERC arată că înlocuirea ferestrelor vechi cu tâmplărie nZEB reduce consumul energetic al unui apartament mediu din București cu 35-55%. Ferestrele ineficiente pierd 25-35% din energia de încălzire iarna și lasă să intre 40-60% din căldura solară vara.
+`,
 
       en: `## Why does window choice matter so much in Bucharest?
 
@@ -17542,7 +19727,26 @@ A poorly installed BluEvolution 92 performs worse than a correctly installed Gre
 | BluEvolution 92 + triple Low-E | 100×120 cm | 480–650 EUR |
 | **Per m² fully installed nZEB** | — | **280–420 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
+
+## Frequently Asked Questions
+
+### How extreme are Bucharest's temperature swings for windows?
+
+Bucharest has one of Europe's most challenging climates: −15°C in winter and +38°C in summer, a 53°C difference. Inefficient windows lose 25-35% of heating energy in winter and let in 40-60% of solar heat in summer. Replacing with nZEB joinery cuts consumption by 35-55%.
+
+### What Uw value must an nZEB window have in Bucharest?
+
+For new builds in Bucharest, the mandatory nZEB standard (since 2021) requires Uw ≤ 0.73 W/m²K. Pre-2005 old windows have 3.0-4.5 (replace urgently), the minimum renovation standard is 1.1-1.4, and certified passive houses reach ≤ 0.60 W/m²K.
+
+### What is the difference between Uw and Uf on a window?
+
+Uw measures how much heat the complete window (with glass) loses, while Uf is just the bare profile. Uf is always better (lower) than Uw. Many suppliers display Uf instead of Uw in marketing — always ask for the Uw of the complete window, the only number that really matters.
+
+### How much does replacing old windows with nZEB cut energy use?
+
+An INCERC study shows that replacing old windows with nZEB joinery cuts the energy consumption of an average Bucharest apartment by 35-55%. Inefficient windows lose 25-35% of heating energy in winter and let in 40-60% of solar heat in summer.
+`,
 
       de: `## Warum ist die Fensterwahl in Bukarest so wichtig?
 
@@ -17589,7 +19793,26 @@ Bukarest hat eines der anspruchsvollsten Klimata Europas: **−15°C im Winter**
 | BluEvolution 92 + Dreifach-Low-E | 100×120 cm | 480–650 EUR |
 | **Pro m² nZEB montiert** | — | **280–420 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
+
+## Häufig gestellte Fragen
+
+### Wie extrem sind die Temperaturschwankungen in Bukarest für Fenster?
+
+Bukarest hat eines der herausforderndsten Klimata Europas: −15°C im Winter und +38°C im Sommer, ein Unterschied von 53°C. Ineffiziente Fenster verlieren 25-35% der Heizenergie im Winter und lassen 40-60% der Sonnenwärme im Sommer herein. Der Austausch gegen nZEB-Fenster senkt den Verbrauch um 35-55%.
+
+### Welchen Uw-Wert muss ein nZEB-Fenster in Bukarest haben?
+
+Für Neubauten in Bukarest verlangt der verpflichtende nZEB-Standard (seit 2021) Uw ≤ 0,73 W/m²K. Alte Fenster vor 2005 haben 3,0-4,5 (dringend austauschen), der Mindest-Renovierungsstandard ist 1,1-1,4, und zertifizierte Passivhäuser erreichen ≤ 0,60 W/m²K.
+
+### Was ist der Unterschied zwischen Uw und Uf bei einem Fenster?
+
+Uw misst, wie viel Wärme das komplette Fenster (mit Glas) verliert, während Uf nur das nackte Profil ist. Uf ist immer besser (niedriger) als Uw. Viele Anbieter zeigen Uf statt Uw im Marketing — fragen Sie immer nach dem Uw des kompletten Fensters, der einzigen Zahl, die wirklich zählt.
+
+### Wie stark senkt der Austausch alter Fenster gegen nZEB den Energieverbrauch?
+
+Eine INCERC-Studie zeigt, dass der Austausch alter Fenster gegen nZEB-Fenster den Energieverbrauch einer durchschnittlichen Bukarester Wohnung um 35-55% senkt. Ineffiziente Fenster verlieren 25-35% der Heizenergie im Winter und lassen 40-60% der Sonnenwärme im Sommer herein.
+`,
 
       fr: `## Pourquoi le choix des fenêtres est-il si important à Bucarest ?
 
@@ -17636,7 +19859,26 @@ Bucarest connaît l'un des climats les plus exigeants d\'Europe : **−15°C en 
 | BluEvolution 92 + triple Low-E | 100×120 cm | 480–650 EUR |
 | **Par m² nZEB posé complet** | — | **280–420 EUR/m²** |
 
-**WhatsApp :** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp :** +40 752 443 435 | **L–V 10–18**
+
+## Questions fréquentes
+
+### À quel point les variations de température à Bucarest sont-elles extrêmes pour les fenêtres ?
+
+Bucarest a l'un des climats les plus difficiles d'Europe : −15°C en hiver et +38°C en été, une différence de 53°C. Les fenêtres inefficaces perdent 25-35% de l'énergie de chauffage en hiver et laissent entrer 40-60% de la chaleur solaire en été. Le remplacement par des menuiseries nZEB réduit la consommation de 35-55%.
+
+### Quelle valeur Uw une fenêtre nZEB doit-elle avoir à Bucarest ?
+
+Pour le neuf à Bucarest, le standard nZEB obligatoire (depuis 2021) exige Uw ≤ 0,73 W/m²K. Les vieilles fenêtres d'avant 2005 ont 3,0-4,5 (à remplacer d'urgence), le standard minimal de rénovation est 1,1-1,4, et les maisons passives certifiées atteignent ≤ 0,60 W/m²K.
+
+### Quelle différence entre Uw et Uf sur une fenêtre ?
+
+L'Uw mesure combien de chaleur perd la fenêtre complète (avec vitrage), tandis que l'Uf est seulement le profilé nu. L'Uf est toujours meilleur (plus bas) que l'Uw. Beaucoup de fournisseurs affichent l'Uf au lieu de l'Uw en marketing — demandez toujours l'Uw de la fenêtre complète, le seul chiffre qui compte vraiment.
+
+### De combien le remplacement des vieilles fenêtres par du nZEB réduit-il la consommation ?
+
+Une étude INCERC montre que remplacer les vieilles fenêtres par des menuiseries nZEB réduit la consommation énergétique d'un appartement bucarestois moyen de 35-55%. Les fenêtres inefficaces perdent 25-35% de l'énergie de chauffage en hiver et laissent entrer 40-60% de la chaleur solaire en été.
+`,
 
       es: `## ¿Por qué importa tanto la elección de ventanas en Bucarest?
 
@@ -17683,7 +19925,26 @@ Bucarest tiene uno de los climas más exigentes de Europa: **−15°C en inviern
 | BluEvolution 92 + triple Low-E | 100×120 cm | 480–650 EUR |
 | **Por m² nZEB instalado completo** | — | **280–420 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Preguntas frecuentes
+
+### ¿Qué tan extremas son las variaciones de temperatura de Bucarest para las ventanas?
+
+Bucarest tiene uno de los climas más exigentes de Europa: −15°C en invierno y +38°C en verano, una diferencia de 53°C. Las ventanas ineficientes pierden el 25-35% de la energía de calefacción en invierno y dejan entrar el 40-60% del calor solar en verano. Sustituir por carpintería nZEB reduce el consumo un 35-55%.
+
+### ¿Qué valor Uw debe tener una ventana nZEB en Bucarest?
+
+Para obra nueva en Bucarest, el estándar nZEB obligatorio (desde 2021) exige Uw ≤ 0,73 W/m²K. Las ventanas viejas anteriores a 2005 tienen 3,0-4,5 (sustituir con urgencia), el estándar mínimo de reforma es 1,1-1,4, y las casas pasivas certificadas alcanzan ≤ 0,60 W/m²K.
+
+### ¿Cuál es la diferencia entre Uw y Uf en una ventana?
+
+El Uw mide cuánto calor pierde la ventana completa (con vidrio), mientras que el Uf es solo el perfil desnudo. El Uf siempre es mejor (menor) que el Uw. Muchos proveedores muestran el Uf en lugar del Uw en marketing — pide siempre el Uw de la ventana completa, el único número que realmente importa.
+
+### ¿Cuánto reduce el consumo sustituir ventanas viejas por nZEB?
+
+Un estudio INCERC muestra que sustituir ventanas viejas por carpintería nZEB reduce el consumo energético de un piso medio de Bucarest un 35-55%. Las ventanas ineficientes pierden el 25-35% de la energía de calefacción en invierno y dejan entrar el 40-60% del calor solar en verano.
+`,
 
       it: `## Perché la scelta delle finestre è così importante a Bucarest?
 
@@ -17730,7 +19991,26 @@ Bucarest ha uno dei climi più impegnativi d\'Europa: **−15°C in inverno** e 
 | BluEvolution 92 + triplo Low-E | 100×120 cm | 480–650 EUR |
 | **Per m² nZEB installato completo** | — | **280–420 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Domande frequenti
+
+### Quanto sono estreme le variazioni di temperatura di Bucarest per le finestre?
+
+Bucarest ha uno dei climi più impegnativi d'Europa: −15°C d'inverno e +38°C d'estate, una differenza di 53°C. Le finestre inefficienti perdono il 25-35% dell'energia di riscaldamento d'inverno e lasciano entrare il 40-60% del calore solare d'estate. Sostituire con serramenti nZEB riduce il consumo del 35-55%.
+
+### Quale valore Uw deve avere una finestra nZEB a Bucarest?
+
+Per le nuove costruzioni a Bucarest, lo standard nZEB obbligatorio (dal 2021) richiede Uw ≤ 0,73 W/m²K. Le vecchie finestre pre-2005 hanno 3,0-4,5 (da sostituire con urgenza), lo standard minimo di ristrutturazione è 1,1-1,4, e le case passive certificate raggiungono ≤ 0,60 W/m²K.
+
+### Qual è la differenza tra Uw e Uf su una finestra?
+
+L'Uw misura quanto calore perde la finestra completa (con vetro), mentre l'Uf è solo il profilo nudo. L'Uf è sempre migliore (più basso) dell'Uw. Molti fornitori mostrano l'Uf invece dell'Uw nel marketing — chiedi sempre l'Uw della finestra completa, l'unico numero che conta davvero.
+
+### Quanto riduce il consumo sostituire le vecchie finestre con nZEB?
+
+Uno studio INCERC mostra che sostituire le vecchie finestre con serramenti nZEB riduce il consumo energetico di un appartamento medio di Bucarest del 35-55%. Le finestre inefficienti perdono il 25-35% dell'energia di riscaldamento d'inverno e lasciano entrare il 40-60% del calore solare d'estate.
+`,
     },
   },
 
@@ -18298,7 +20578,26 @@ Aluminiul se vopsește în orice culoare RAL prin **vopsire electostatică** (du
 - **Montaj cu echipă proprie** — nu subcontractăm montajul
 - **50 recenzii Google, rating 4,9/5**
 
-**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**
+
+## Întrebări frecvente
+
+### Ce tipuri de uși din aluminiu pot comanda în Sector 1 București?
+
+Poți comanda uși batante cu barieră termică (Alumil Supreme S77/Smartia S67, Uw 1,1-1,4), uși glisante, uși de intrare cu panou plin și sisteme antiefracție certificate. Sectorul 1 cere uși cu estetică minimalistă, dimensiuni supraînălțate și barieră termică pentru vilele și birourile premium.
+
+### Ce sistem Alumil e recomandat pentru ușa de intrare a unei vile?
+
+Alumil Supreme S77 sau Smartia S67, cu barieră termică din poliamidă, Uw = 1,1-1,4 W/m²K cu geam termoizolant, disponibil cu 1 sau 2 canate și luminatoare, antiefracție RC2 și dimensiuni până la 120 cm lățime / 250 cm înălțime per canat — potrivit pentru intrare vilă, bloc, birou sau spațiu comercial.
+
+### Unde furnizează Neofort BIZ uși din aluminiu în Sector 1?
+
+Neofort BIZ furnizează și montează uși din aluminiu Alumil pe întreg Sectorul 1, cu sediul la Str. Theodor Aman Pictor nr. 11, Sector 1, București — acoperind zonele Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău și Ștefan cel Mare.
+
+### Ce dimensiuni maxime poate avea o ușă batantă din aluminiu?
+
+O ușă batantă din aluminiu cu barieră termică poate ajunge la dimensiuni de până la 120 cm lățime și 250 cm înălțime per canat. Pentru deschideri mai mari se folosesc configurații cu 2 canate sau cu luminatoare laterale și superioare, integrate în același sistem.
+`,
 
       en: `## Types of aluminium doors available in Sector 1 Bucharest
 
@@ -18340,7 +20639,26 @@ For villas and residences, we recommend **RC2 certification** (Resistance Class 
 | Lift-and-slide Alumil S700 | 300×240 cm | 3,500–6,000 EUR |
 | Villa pivot | 120×280 cm | 4,000–8,000 EUR |
 
-**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
+
+## Frequently Asked Questions
+
+### What types of aluminium doors can I order in Sector 1 Bucharest?
+
+You can order hinged doors with a thermal break (Alumil Supreme S77/Smartia S67, Uw 1.1-1.4), sliding doors, entrance doors with a solid panel and certified anti-burglary systems. Sector 1 demands doors with minimalist aesthetics, oversized dimensions and a thermal break for premium villas and offices.
+
+### Which Alumil system is recommended for a villa entrance door?
+
+Alumil Supreme S77 or Smartia S67, with a polyamide thermal break, Uw = 1.1-1.4 W/m²K with insulated glass, available with 1 or 2 leaves and fanlights, RC2 anti-burglary and dimensions up to 120 cm wide / 250 cm high per leaf — suitable for a villa, block, office or commercial entrance.
+
+### Where does Neofort BIZ supply aluminium doors in Sector 1?
+
+Neofort BIZ supplies and installs Alumil aluminium doors across all of Sector 1, based at Str. Theodor Aman Pictor no. 11, Sector 1, Bucharest — covering the Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău and Ștefan cel Mare areas.
+
+### What maximum dimensions can an aluminium hinged door have?
+
+A hinged aluminium door with a thermal break can reach dimensions up to 120 cm wide and 250 cm high per leaf. For larger openings, configurations with 2 leaves or with side and top fanlights are used, integrated into the same system.
+`,
 
       de: `## Arten von Aluminiumtüren in Sektor 1 Bukarest
 
@@ -18374,7 +20692,26 @@ Sektor 1 konzentriert die meisten Premium-Villen, Luxusresidenzen und Bürogebä
 | Hebe-Schiebetür Alumil S700 | 300×240 cm | 3.500–6.000 EUR |
 | Villa-Pivottür | 120×280 cm | 4.000–8.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**`,
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
+
+## Häufig gestellte Fragen
+
+### Welche Arten von Aluminiumtüren kann ich in Sektor 1 Bukarest bestellen?
+
+Sie können Drehtüren mit thermischer Trennung (Alumil Supreme S77/Smartia S67, Uw 1,1-1,4), Schiebetüren, Eingangstüren mit Vollpaneel und zertifizierte Einbruchschutzsysteme bestellen. Sektor 1 verlangt Türen mit minimalistischer Ästhetik, übergroßen Maßen und thermischer Trennung für Premium-Villen und -Büros.
+
+### Welches Alumil-System wird für eine Villen-Eingangstür empfohlen?
+
+Alumil Supreme S77 oder Smartia S67, mit Polyamid-Trennung, Uw = 1,1-1,4 W/m²K mit Isolierglas, verfügbar mit 1 oder 2 Flügeln und Oberlichtern, RC2-Einbruchschutz und Maßen bis 120 cm Breite / 250 cm Höhe pro Flügel — geeignet für Villen-, Block-, Büro- oder Geschäftseingang.
+
+### Wo liefert Neofort BIZ Aluminiumtüren in Sektor 1?
+
+Neofort BIZ liefert und montiert Alumil-Aluminiumtüren in ganz Sektor 1, mit Sitz in Str. Theodor Aman Pictor Nr. 11, Sektor 1, Bukarest — und deckt die Gebiete Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău und Ștefan cel Mare ab.
+
+### Welche Maximalmaße kann eine Aluminium-Drehtür haben?
+
+Eine Aluminium-Drehtür mit thermischer Trennung kann Maße bis 120 cm Breite und 250 cm Höhe pro Flügel erreichen. Für größere Öffnungen werden Konfigurationen mit 2 Flügeln oder mit Seiten- und Oberlichtern verwendet, in dasselbe System integriert.
+`,
 
       fr: `## Types de portes en aluminium disponibles dans le Secteur 1 Bucarest
 
@@ -18408,7 +20745,26 @@ Le Secteur 1 concentre le plus grand nombre de villas premium, de résidences de
 | Levante-coulissante Alumil S700 | 300×240 cm | 3.500–6.000 EUR |
 | Pivotante villa | 120×280 cm | 4.000–8.000 EUR |
 
-**WhatsApp :** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp :** +40 752 443 435 | **L–V 10–18**
+
+## Questions fréquentes
+
+### Quels types de portes en aluminium puis-je commander dans le Secteur 1 de Bucarest ?
+
+Vous pouvez commander des portes battantes à rupture de pont thermique (Alumil Supreme S77/Smartia S67, Uw 1,1-1,4), des portes coulissantes, des portes d'entrée à panneau plein et des systèmes anti-effraction certifiés. Le Secteur 1 exige des portes à esthétique minimaliste, dimensions surdimensionnées et rupture thermique pour les villas et bureaux premium.
+
+### Quel système Alumil est recommandé pour une porte d'entrée de villa ?
+
+Alumil Supreme S77 ou Smartia S67, à rupture de pont thermique en polyamide, Uw = 1,1-1,4 W/m²K avec vitrage isolant, disponible à 1 ou 2 vantaux et impostes, anti-effraction RC2 et dimensions jusqu'à 120 cm de large / 250 cm de haut par vantail — adapté à une entrée de villa, immeuble, bureau ou local commercial.
+
+### Où Neofort BIZ fournit-il des portes en aluminium dans le Secteur 1 ?
+
+Neofort BIZ fournit et pose des portes en aluminium Alumil dans tout le Secteur 1, avec son siège au Str. Theodor Aman Pictor n° 11, Secteur 1, Bucarest — couvrant les zones d'Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău et Ștefan cel Mare.
+
+### Quelles dimensions maximales peut avoir une porte battante en aluminium ?
+
+Une porte battante en aluminium à rupture thermique peut atteindre des dimensions jusqu'à 120 cm de large et 250 cm de haut par vantail. Pour les ouvertures plus grandes, on utilise des configurations à 2 vantaux ou avec imposte latérale et supérieure, intégrées au même système.
+`,
 
       es: `## Tipos de puertas de aluminio disponibles en el Sector 1 de Bucarest
 
@@ -18442,7 +20798,26 @@ El Sector 1 concentra el mayor número de villas premium, residencias de lujo y 
 | Elevadora corredera Alumil S700 | 300×240 cm | 3.500–6.000 EUR |
 | Pivotante villa | 120×280 cm | 4.000–8.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Preguntas frecuentes
+
+### ¿Qué tipos de puertas de aluminio puedo encargar en el Sector 1 de Bucarest?
+
+Puedes encargar puertas abatibles con rotura de puente térmico (Alumil Supreme S77/Smartia S67, Uw 1,1-1,4), puertas correderas, puertas de entrada con panel macizo y sistemas antirrobo certificados. El Sector 1 exige puertas con estética minimalista, dimensiones sobredimensionadas y rotura térmica para villas y oficinas premium.
+
+### ¿Qué sistema Alumil se recomienda para la puerta de entrada de una villa?
+
+Alumil Supreme S77 o Smartia S67, con rotura de puente térmico de poliamida, Uw = 1,1-1,4 W/m²K con vidrio aislante, disponible con 1 o 2 hojas y montantes, antirrobo RC2 y dimensiones hasta 120 cm de ancho / 250 cm de alto por hoja — adecuado para entrada de villa, bloque, oficina o local comercial.
+
+### ¿Dónde suministra Neofort BIZ puertas de aluminio en el Sector 1?
+
+Neofort BIZ suministra e instala puertas de aluminio Alumil en todo el Sector 1, con sede en Str. Theodor Aman Pictor n.º 11, Sector 1, Bucarest — cubriendo las zonas de Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău y Ștefan cel Mare.
+
+### ¿Qué dimensiones máximas puede tener una puerta abatible de aluminio?
+
+Una puerta abatible de aluminio con rotura térmica puede alcanzar dimensiones de hasta 120 cm de ancho y 250 cm de alto por hoja. Para aberturas mayores se usan configuraciones de 2 hojas o con montantes laterales y superiores, integrados en el mismo sistema.
+`,
 
       it: `## Tipi di porte in alluminio disponibili nel Settore 1 di Bucarest
 
@@ -18476,7 +20851,26 @@ Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e 
 | Alzante scorrevole Alumil S700 | 300×240 cm | 3.500–6.000 EUR |
 | Pivot villa | 120×280 cm | 4.000–8.000 EUR |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**`,
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Domande frequenti
+
+### Che tipi di porte in alluminio posso ordinare nel Settore 1 di Bucarest?
+
+Puoi ordinare porte a battente con taglio termico (Alumil Supreme S77/Smartia S67, Uw 1,1-1,4), porte scorrevoli, porte d'ingresso con pannello pieno e sistemi antieffrazione certificati. Il Settore 1 richiede porte con estetica minimalista, dimensioni maggiorate e taglio termico per ville e uffici premium.
+
+### Quale sistema Alumil è consigliato per la porta d'ingresso di una villa?
+
+Alumil Supreme S77 o Smartia S67, con taglio termico in poliammide, Uw = 1,1-1,4 W/m²K con vetro isolante, disponibile con 1 o 2 ante e sopraluce, antieffrazione RC2 e dimensioni fino a 120 cm di larghezza / 250 cm di altezza per anta — adatto a ingresso villa, edificio, ufficio o locale commerciale.
+
+### Dove fornisce Neofort BIZ porte in alluminio nel Settore 1?
+
+Neofort BIZ fornisce e monta porte in alluminio Alumil in tutto il Settore 1, con sede in Str. Theodor Aman Pictor n. 11, Settore 1, Bucarest — coprendo le zone di Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău e Ștefan cel Mare.
+
+### Quali dimensioni massime può avere una porta a battente in alluminio?
+
+Una porta a battente in alluminio con taglio termico può raggiungere dimensioni fino a 120 cm di larghezza e 250 cm di altezza per anta. Per aperture più grandi si usano configurazioni a 2 ante o con sopraluce laterali e superiori, integrati nello stesso sistema.
+`,
     },
   },
 
@@ -20717,7 +23111,26 @@ Prețul unui motor Somfy montat profesional în București și Ilfov pornește d
 
 Prin TaHoma Switch puteți programa scenarii automate: rulourile coboară la apus de soare, se ridică dimineața la o oră fixă, reacționează la temperaturi extreme sau la intensitatea vântului prin senzorul Sunis io.
 
-[Solicitați ofertă pentru automatizări Somfy](/ro/accesorii/automatizari-somfy-rulouri-pergole)`,
+[Solicitați ofertă pentru automatizări Somfy](/ro/accesorii/automatizari-somfy-rulouri-pergole)
+
+## Întrebări frecvente
+
+### De ce să aleg Somfy pentru motorizarea rulourilor exterioare?
+
+Somfy e liderul global în automatizarea rulourilor, prezent în România de peste 20 de ani. Oferă cel mai extins ecosistem — de la telecomandă simplă la integrare completă TaHoma smart home, compatibil cu Alexa, Google Home și Apple HomeKit, spre deosebire de motoarele generice din import.
+
+### Care e motorul Somfy de referință pentru rulouri exterioare?
+
+Somfy Oximo io e motorul de referință pentru rulouri medii și mari: 230V, 2 viteze (coborâre rapidă + oprire lentă), autoreglare automată a lungimii cortinei pe toată durata de viață și detectare automată a obstacolelor. Testat la 17.500 cicluri, cu garanție de 5 ani.
+
+### Ce motor Somfy funcționează fără cabluri electrice?
+
+Somfy RS100 io Solar funcționează exclusiv cu energie solară — panou fotovoltaic plus baterie 12V — eliminând complet necesitatea cablurilor electrice. RS100 io e soluția universală adaptată tuturor tipurilor de rulouri exterioare, inclusiv celor înguste.
+
+### Cum se controlează de la distanță rulourile Somfy?
+
+Telecomanda Somfy Situo 5 io permite controlul individual sau centralizat a până la 5 rulouri. Criptarea pe 128 biți, frecvența de 868 MHz și 16 milioane de coduri posibile asigură securitate maximă. Pentru control complet din aplicație se folosește hub-ul TaHoma.
+`,
       en: `## Why Somfy for exterior shutters?
 
 Somfy is the global leader in shutter and blind automation, with over 20 years of presence in Romania. Unlike generic imported motors, Somfy offers the most extensive automation ecosystem — from simple remote control to full integration into the TaHoma smart home system, compatible with Alexa, Google Home and Apple HomeKit.
@@ -20736,7 +23149,26 @@ The RS100 io Solar variant operates exclusively on solar energy — photovoltaic
 
 The price of a professionally installed Somfy motor in Bucharest and Ilfov starts from **250 EUR / motor**. TaHoma Switch kit from 180 EUR.
 
-[Request a Somfy automation quote](/en/accessories/somfy-automation-shutters-pergolas)`,
+[Request a Somfy automation quote](/en/accessories/somfy-automation-shutters-pergolas)
+
+## Frequently Asked Questions
+
+### Why choose Somfy for motorising exterior roller shutters?
+
+Somfy is the global leader in shutter automation, present in Romania for over 20 years. It offers the most extensive ecosystem — from a simple remote to full TaHoma smart-home integration, compatible with Alexa, Google Home and Apple HomeKit, unlike generic imported motors.
+
+### Which is the reference Somfy motor for exterior roller shutters?
+
+Somfy Oximo io is the reference motor for medium and large shutters: 230V, 2 speeds (fast descent + slow stop), automatic length self-adjustment over the whole lifespan and automatic obstacle detection. Tested to 17,500 cycles, with a 5-year warranty.
+
+### Which Somfy motor works without electrical cables?
+
+Somfy RS100 io Solar works exclusively on solar energy — a photovoltaic panel plus a 12V battery — fully eliminating the need for electrical cables. RS100 io is the universal solution adapted to all types of exterior roller shutters, including narrow ones.
+
+### How are Somfy shutters controlled remotely?
+
+The Somfy Situo 5 io remote allows individual or centralised control of up to 5 shutters. 128-bit encryption, 868 MHz frequency and 16 million possible codes ensure maximum security. For full app control, the TaHoma hub is used.
+`,
       de: `## Warum Somfy für Außenrollläden?
 
 Somfy ist der globale Marktführer in der Automatisierung von Rollläden, mit über 20 Jahren Präsenz in Rumänien. Kompatibel mit Alexa, Google Home und Apple HomeKit.
@@ -20755,7 +23187,26 @@ Der RS100 io Solar läuft mit Photovoltaik-Panel und 12V-Akku — ideal für Ren
 
 Professionell montierter Somfy Motor in Bukarest ab **250 EUR / Motor**. TaHoma Switch Kit ab 180 EUR.
 
-[Somfy Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)`,
+[Somfy Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
+
+## Häufig gestellte Fragen
+
+### Warum Somfy für die Motorisierung von Außenrollläden wählen?
+
+Somfy ist der Weltmarktführer in der Rollladenautomatisierung, seit über 20 Jahren in Rumänien präsent. Es bietet das umfangreichste Ökosystem — von der einfachen Fernbedienung bis zur vollen TaHoma-Smart-Home-Integration, kompatibel mit Alexa, Google Home und Apple HomeKit, anders als generische Importmotoren.
+
+### Welcher ist der Referenz-Somfy-Motor für Außenrollläden?
+
+Somfy Oximo io ist der Referenzmotor für mittlere und große Rollläden: 230V, 2 Geschwindigkeiten (schnelles Absenken + langsamer Stopp), automatische Längen-Selbstanpassung über die gesamte Lebensdauer und automatische Hinderniserkennung. Getestet auf 17.500 Zyklen, mit 5 Jahren Garantie.
+
+### Welcher Somfy-Motor funktioniert ohne Elektrokabel?
+
+Somfy RS100 io Solar funktioniert ausschließlich mit Solarenergie — ein Photovoltaikpanel plus 12V-Batterie — und eliminiert vollständig den Bedarf an Elektrokabeln. RS100 io ist die universelle Lösung für alle Arten von Außenrollläden, auch schmale.
+
+### Wie werden Somfy-Rollläden ferngesteuert?
+
+Die Somfy Situo 5 io Fernbedienung ermöglicht die individuelle oder zentrale Steuerung von bis zu 5 Rollläden. 128-Bit-Verschlüsselung, 868-MHz-Frequenz und 16 Millionen mögliche Codes sorgen für maximale Sicherheit. Für volle App-Steuerung wird der TaHoma-Hub verwendet.
+`,
       fr: `## Pourquoi Somfy pour les volets roulants ?
 
 Somfy est le leader mondial de l'automatisation des volets, avec plus de 20 ans en Roumanie. Compatible avec Alexa, Google Home et Apple HomeKit.
@@ -20774,7 +23225,26 @@ Le RS100 io Solar fonctionne avec panneau photovoltaïque et batterie 12V — id
 
 Moteur Somfy posé à Bucarest à partir de **250 EUR / moteur**. Kit TaHoma Switch à partir de 180 EUR.
 
-[Demander un devis automatisation Somfy](/fr/accessoires/automatisation-somfy-volets-pergolas)`,
+[Demander un devis automatisation Somfy](/fr/accessoires/automatisation-somfy-volets-pergolas)
+
+## Questions fréquentes
+
+### Pourquoi choisir Somfy pour motoriser les volets roulants extérieurs ?
+
+Somfy est le leader mondial de l'automatisation des volets, présent en Roumanie depuis plus de 20 ans. Il offre l'écosystème le plus étendu — de la simple télécommande à l'intégration complète TaHoma smart home, compatible Alexa, Google Home et Apple HomeKit, contrairement aux moteurs génériques d'import.
+
+### Quel est le moteur Somfy de référence pour volets roulants extérieurs ?
+
+Le Somfy Oximo io est le moteur de référence pour volets moyens et grands : 230V, 2 vitesses (descente rapide + arrêt lent), auto-réglage automatique de la longueur sur toute la durée de vie et détection automatique des obstacles. Testé à 17 500 cycles, avec 5 ans de garantie.
+
+### Quel moteur Somfy fonctionne sans câbles électriques ?
+
+Le Somfy RS100 io Solar fonctionne exclusivement à l'énergie solaire — panneau photovoltaïque plus batterie 12V — éliminant totalement le besoin de câbles électriques. Le RS100 io est la solution universelle adaptée à tous les types de volets roulants extérieurs, y compris étroits.
+
+### Comment contrôle-t-on les volets Somfy à distance ?
+
+La télécommande Somfy Situo 5 io permet le contrôle individuel ou centralisé de jusqu'à 5 volets. Le cryptage 128 bits, la fréquence 868 MHz et 16 millions de codes possibles assurent une sécurité maximale. Pour un contrôle complet par application, on utilise le hub TaHoma.
+`,
       es: `## Por qué Somfy para persianas exteriores?
 
 Somfy es el líder mundial en automatización de persianas, con más de 20 años en Rumanía. Compatible con Alexa, Google Home y Apple HomeKit.
@@ -20793,7 +23263,26 @@ El RS100 io Solar funciona con panel fotovoltaico y batería 12V — ideal para 
 
 Motor Somfy instalado en Bucarest desde **250 EUR / motor**. Kit TaHoma Switch desde 180 EUR.
 
-[Solicitar presupuesto automatización Somfy](/es/accesorios/automatizacion-somfy-persianas-pergolas)`,
+[Solicitar presupuesto automatización Somfy](/es/accesorios/automatizacion-somfy-persianas-pergolas)
+
+## Preguntas frecuentes
+
+### ¿Por qué elegir Somfy para motorizar las persianas enrollables exteriores?
+
+Somfy es el líder mundial en automatización de persianas, presente en Rumanía desde hace más de 20 años. Ofrece el ecosistema más amplio — desde un simple mando a la integración completa TaHoma smart home, compatible con Alexa, Google Home y Apple HomeKit, a diferencia de los motores genéricos de importación.
+
+### ¿Cuál es el motor Somfy de referencia para persianas enrollables exteriores?
+
+El Somfy Oximo io es el motor de referencia para persianas medianas y grandes: 230V, 2 velocidades (descenso rápido + parada lenta), autoajuste automático de la longitud durante toda la vida útil y detección automática de obstáculos. Probado a 17.500 ciclos, con garantía de 5 años.
+
+### ¿Qué motor Somfy funciona sin cables eléctricos?
+
+El Somfy RS100 io Solar funciona exclusivamente con energía solar — panel fotovoltaico más batería de 12V — eliminando por completo la necesidad de cables eléctricos. El RS100 io es la solución universal adaptada a todo tipo de persianas enrollables exteriores, incluidas las estrechas.
+
+### ¿Cómo se controlan a distancia las persianas Somfy?
+
+El mando Somfy Situo 5 io permite el control individual o centralizado de hasta 5 persianas. El cifrado de 128 bits, la frecuencia de 868 MHz y 16 millones de códigos posibles aseguran la máxima seguridad. Para control completo desde la app se usa el hub TaHoma.
+`,
       it: `## Perché Somfy per le tapparelle esterne?
 
 Somfy è il leader mondiale nell'automazione delle tapparelle, con oltre 20 anni in Romania. Compatibile con Alexa, Google Home e Apple HomeKit.
@@ -20812,7 +23301,26 @@ Il RS100 io Solare funziona con pannello fotovoltaico e batteria 12V — ideale 
 
 Motore Somfy installato a Bucarest da **250 EUR / motore**. Kit TaHoma Switch da 180 EUR.
 
-[Richiedere preventivo automazione Somfy](/it/accessori/automazione-somfy-tapparelle-pergole)`,
+[Richiedere preventivo automazione Somfy](/it/accessori/automazione-somfy-tapparelle-pergole)
+
+## Domande frequenti
+
+### Perché scegliere Somfy per motorizzare le tapparelle esterne?
+
+Somfy è il leader globale nell'automazione delle tapparelle, presente in Romania da oltre 20 anni. Offre l'ecosistema più esteso — dal semplice telecomando all'integrazione completa TaHoma smart home, compatibile con Alexa, Google Home e Apple HomeKit, a differenza dei motori generici d'importazione.
+
+### Qual è il motore Somfy di riferimento per le tapparelle esterne?
+
+Il Somfy Oximo io è il motore di riferimento per tapparelle medie e grandi: 230V, 2 velocità (discesa rapida + arresto lento), autoregolazione automatica della lunghezza per tutta la vita utile e rilevamento automatico degli ostacoli. Testato a 17.500 cicli, con garanzia di 5 anni.
+
+### Quale motore Somfy funziona senza cavi elettrici?
+
+Il Somfy RS100 io Solar funziona esclusivamente a energia solare — pannello fotovoltaico più batteria 12V — eliminando completamente la necessità di cavi elettrici. L'RS100 io è la soluzione universale adatta a tutti i tipi di tapparelle esterne, comprese quelle strette.
+
+### Come si controllano a distanza le tapparelle Somfy?
+
+Il telecomando Somfy Situo 5 io permette il controllo individuale o centralizzato di fino a 5 tapparelle. La crittografia a 128 bit, la frequenza di 868 MHz e 16 milioni di codici possibili assicurano la massima sicurezza. Per il controllo completo da app si usa l'hub TaHoma.
+`,
     },
     keywords: 'motor Somfy rulouri, automatizare rulouri exterioare, motor Oximo io, RS100 io Somfy, telecomanda Somfy, Somfy TaHoma, automatizare jaluzele, motor rulou pret, rulouri electrice Somfy, Somfy Bucuresti',
     dateDisplay: {
@@ -20903,7 +23411,26 @@ Senzorul Sunis Wirefree II io monitorizează intensitatea luminii, temperatura �
 
 Motorul Somfy pentru pergolă pornește de la **350 EUR montat** (Pergola 50 RGS io, inclusiv manoperă și configurare TaHoma). Senzorul de vânt/lumină Sunis io de la 80 EUR.
 
-[Solicitați ofertă automatizare Somfy pergole și rulouri](/ro/accesorii/automatizari-somfy-rulouri-pergole)`,
+[Solicitați ofertă automatizare Somfy pergole și rulouri](/ro/accesorii/automatizari-somfy-rulouri-pergole)
+
+## Întrebări frecvente
+
+### De ce să automatizez pergola sau copertina cu Somfy?
+
+O pergolă sau copertină manuală necesită intervenție constantă. Automatizarea Somfy elimină rutina: motoarele Pergola RGS io sau Sunea io asigură reacția automată la vânt, ploaie și lumină, programarea prin TaHoma și controlul vocal prin Alexa sau Google Home.
+
+### Ce motoare Somfy se folosesc pentru pergole?
+
+Seria Pergola RGS io e dedicată pergolelor ghidate pe șine: Pergola 50 RGS io acoperă deschideri până la 4 m, iar 60 RGS io până la 5 m. Ambele includ protecție automată la vânt — la rafale care depășesc un prag prestabilit, motorul retrage automat pânza pergolei.
+
+### Cum protejează automat senzorul Somfy copertinele la vânt?
+
+Senzorul Sunis Wirefree II io monitorizează intensitatea luminii, temperatura și viteza vântului. Când rafalele depășesc 50 km/h, copertinele și pergolele Somfy se retrag automat, prevenind daunele structurale. Funcționează fără fir, ideal pentru montaj rapid.
+
+### Cât costă automatizarea unei pergole Somfy în București în 2026?
+
+Motorul Somfy pentru pergolă pornește de la 350 EUR montat (Pergola 50 RGS io, inclusiv manoperă și configurare TaHoma). Senzorul de vânt și lumină Sunis io pornește de la 80 EUR. Prețurile sunt orientative pentru București 2026.
+`,
       en: `## Why automate your pergola or awning?
 
 A manual pergola or awning requires constant intervention. Somfy automation with Pergola RGS io and Sunea io motors reacts automatically to wind, rain and light, integrating with TaHoma and Alexa/Google Home.
@@ -20924,7 +23451,26 @@ The Sunis Wirefree II io sensor monitors light, temperature and wind speed. When
 
 A Somfy pergola motor starts from **350 EUR installed**. Sunis io sensor from 80 EUR.
 
-[Request Somfy pergola automation quote](/en/accessories/somfy-automation-shutters-pergolas)`,
+[Request Somfy pergola automation quote](/en/accessories/somfy-automation-shutters-pergolas)
+
+## Frequently Asked Questions
+
+### Why automate a pergola or awning with Somfy?
+
+A manual pergola or awning requires constant intervention. Somfy automation eliminates the routine: Pergola RGS io or Sunea io motors provide automatic reaction to wind, rain and light, programming via TaHoma and voice control through Alexa or Google Home.
+
+### Which Somfy motors are used for pergolas?
+
+The Pergola RGS io series is dedicated to rail-guided pergolas: Pergola 50 RGS io covers openings up to 4 m, and 60 RGS io up to 5 m. Both include automatic wind protection — when gusts exceed a preset threshold, the motor automatically retracts the pergola fabric.
+
+### How does the Somfy sensor automatically protect awnings from wind?
+
+The Sunis Wirefree II io sensor monitors light intensity, temperature and wind speed. When gusts exceed 50 km/h, Somfy awnings and pergolas retract automatically, preventing structural damage. It is wireless, ideal for quick installation.
+
+### How much does automating a Somfy pergola cost in Bucharest in 2026?
+
+The Somfy pergola motor starts at 350 EUR fitted (Pergola 50 RGS io, including labour and TaHoma configuration). The Sunis io wind and light sensor starts at 80 EUR. Prices are indicative for Bucharest 2026.
+`,
       de: `## Warum Pergola oder Markise automatisieren?
 
 Eine manuelle Pergola erfordert ständige Eingriffe. Somfy-Automatisierung mit Pergola RGS io und Sunea io reagiert automatisch auf Wind, Regen und Licht.
@@ -20941,7 +23487,26 @@ Der Sunis Wirefree II io Sensor überwacht Licht, Temperatur und Windgeschwindig
 
 Somfy Pergola-Motor ab **350 EUR montiert**. Sunis io Sensor ab 80 EUR.
 
-[Somfy Pergola-Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)`,
+[Somfy Pergola-Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
+
+## Häufig gestellte Fragen
+
+### Warum eine Pergola oder Markise mit Somfy automatisieren?
+
+Eine manuelle Pergola oder Markise erfordert ständiges Eingreifen. Die Somfy-Automatisierung beseitigt die Routine: Pergola RGS io oder Sunea io Motoren bieten automatische Reaktion auf Wind, Regen und Licht, Programmierung über TaHoma und Sprachsteuerung über Alexa oder Google Home.
+
+### Welche Somfy-Motoren werden für Pergolen verwendet?
+
+Die Pergola RGS io Serie ist für schienengeführte Pergolen bestimmt: Pergola 50 RGS io deckt Öffnungen bis 4 m, und 60 RGS io bis 5 m. Beide enthalten automatischen Windschutz — wenn Böen einen voreingestellten Schwellenwert überschreiten, fährt der Motor das Pergolatuch automatisch ein.
+
+### Wie schützt der Somfy-Sensor Markisen automatisch vor Wind?
+
+Der Sunis Wirefree II io Sensor überwacht Lichtintensität, Temperatur und Windgeschwindigkeit. Wenn Böen 50 km/h überschreiten, fahren Somfy-Markisen und -Pergolen automatisch ein und verhindern strukturelle Schäden. Er ist kabellos, ideal für schnelle Montage.
+
+### Was kostet die Automatisierung einer Somfy-Pergola in Bukarest 2026?
+
+Der Somfy-Pergolamotor beginnt bei 350 EUR montiert (Pergola 50 RGS io, inklusive Arbeit und TaHoma-Konfiguration). Der Sunis io Wind- und Lichtsensor beginnt bei 80 EUR. Die Preise sind Richtwerte für Bukarest 2026.
+`,
       fr: `## Pourquoi automatiser sa pergola ou son store ?
 
 Une pergola manuelle nécessite une intervention constante. L'automatisation Somfy avec Pergola RGS io et Sunea io réagit automatiquement au vent, à la pluie et à la lumière.
@@ -20958,7 +23523,26 @@ Le capteur Sunis Wirefree II io surveille lumière, température et vent. Quand 
 
 Moteur Somfy pergola à partir de **350 EUR posé**. Capteur Sunis io à partir de 80 EUR.
 
-[Demander un devis automatisation Somfy pergola](/fr/accessoires/automatisation-somfy-volets-pergolas)`,
+[Demander un devis automatisation Somfy pergola](/fr/accessoires/automatisation-somfy-volets-pergolas)
+
+## Questions fréquentes
+
+### Pourquoi automatiser une pergola ou un store avec Somfy ?
+
+Une pergola ou un store manuel nécessite une intervention constante. L'automatisation Somfy élimine la routine : les moteurs Pergola RGS io ou Sunea io assurent la réaction automatique au vent, à la pluie et à la lumière, la programmation via TaHoma et le contrôle vocal par Alexa ou Google Home.
+
+### Quels moteurs Somfy sont utilisés pour les pergolas ?
+
+La série Pergola RGS io est dédiée aux pergolas guidées sur rails : Pergola 50 RGS io couvre des ouvertures jusqu'à 4 m, et 60 RGS io jusqu'à 5 m. Les deux incluent une protection automatique au vent — quand les rafales dépassent un seuil prédéfini, le moteur rétracte automatiquement la toile de la pergola.
+
+### Comment le capteur Somfy protège-t-il automatiquement les stores du vent ?
+
+Le capteur Sunis Wirefree II io surveille l'intensité lumineuse, la température et la vitesse du vent. Quand les rafales dépassent 50 km/h, les stores et pergolas Somfy se rétractent automatiquement, prévenant les dommages structurels. Il est sans fil, idéal pour une pose rapide.
+
+### Combien coûte l'automatisation d'une pergola Somfy à Bucarest en 2026 ?
+
+Le moteur Somfy pour pergola démarre à 350 EUR posé (Pergola 50 RGS io, main-d'œuvre et configuration TaHoma incluses). Le capteur de vent et lumière Sunis io démarre à 80 EUR. Les prix sont indicatifs pour Bucarest 2026.
+`,
       es: `## Por qué automatizar la pérgola o el toldo?
 
 Una pérgola manual requiere intervención constante. La automatización Somfy con Pergola RGS io y Sunea io reacciona automáticamente al viento, la lluvia y la luz.
@@ -20975,7 +23559,26 @@ El sensor Sunis Wirefree II io monitoriza luz, temperatura y viento. Cuando las 
 
 Motor Somfy pérgola desde **350 EUR instalado**. Sensor Sunis io desde 80 EUR.
 
-[Solicitar presupuesto automatización Somfy pérgola](/es/accesorios/automatizacion-somfy-persianas-pergolas)`,
+[Solicitar presupuesto automatización Somfy pérgola](/es/accesorios/automatizacion-somfy-persianas-pergolas)
+
+## Preguntas frecuentes
+
+### ¿Por qué automatizar una pérgola o toldo con Somfy?
+
+Una pérgola o toldo manual requiere intervención constante. La automatización Somfy elimina la rutina: los motores Pergola RGS io o Sunea io aseguran la reacción automática al viento, la lluvia y la luz, la programación mediante TaHoma y el control por voz con Alexa o Google Home.
+
+### ¿Qué motores Somfy se usan para pérgolas?
+
+La serie Pergola RGS io está dedicada a pérgolas guiadas por raíles: Pergola 50 RGS io cubre aberturas de hasta 4 m, y 60 RGS io hasta 5 m. Ambas incluyen protección automática al viento — cuando las rachas superan un umbral prefijado, el motor retrae automáticamente la lona de la pérgola.
+
+### ¿Cómo protege automáticamente el sensor Somfy los toldos del viento?
+
+El sensor Sunis Wirefree II io monitoriza la intensidad de luz, la temperatura y la velocidad del viento. Cuando las rachas superan los 50 km/h, los toldos y pérgolas Somfy se retraen automáticamente, previniendo daños estructurales. Es inalámbrico, ideal para una instalación rápida.
+
+### ¿Cuánto cuesta automatizar una pérgola Somfy en Bucarest en 2026?
+
+El motor Somfy para pérgola parte de 350 EUR instalado (Pergola 50 RGS io, incluida mano de obra y configuración TaHoma). El sensor de viento y luz Sunis io parte de 80 EUR. Los precios son orientativos para Bucarest 2026.
+`,
       it: `## Perché automatizzare la pergola o la tenda?
 
 Una pergola manuale richiede un intervento costante. L'automazione Somfy con Pergola RGS io e Sunea io reagisce automaticamente a vento, pioggia e luce.
@@ -20992,7 +23595,26 @@ Il sensore Sunis Wirefree II io monitora luce, temperatura e vento. Quando le ra
 
 Motore Somfy pergola da **350 EUR installato**. Sensore Sunis io da 80 EUR.
 
-[Richiedere preventivo automazione Somfy pergola](/it/accessori/automazione-somfy-tapparelle-pergole)`,
+[Richiedere preventivo automazione Somfy pergola](/it/accessori/automazione-somfy-tapparelle-pergole)
+
+## Domande frequenti
+
+### Perché automatizzare una pergola o tenda con Somfy?
+
+Una pergola o tenda manuale richiede un intervento costante. L'automazione Somfy elimina la routine: i motori Pergola RGS io o Sunea io assicurano la reazione automatica a vento, pioggia e luce, la programmazione tramite TaHoma e il controllo vocale con Alexa o Google Home.
+
+### Quali motori Somfy si usano per le pergole?
+
+La serie Pergola RGS io è dedicata alle pergole guidate su binari: Pergola 50 RGS io copre aperture fino a 4 m, e 60 RGS io fino a 5 m. Entrambe includono protezione automatica dal vento — quando le raffiche superano una soglia prestabilita, il motore ritrae automaticamente il telo della pergola.
+
+### Come protegge automaticamente il sensore Somfy le tende dal vento?
+
+Il sensore Sunis Wirefree II io monitora l'intensità della luce, la temperatura e la velocità del vento. Quando le raffiche superano i 50 km/h, le tende e pergole Somfy si ritraggono automaticamente, prevenendo danni strutturali. È senza fili, ideale per un montaggio rapido.
+
+### Quanto costa automatizzare una pergola Somfy a Bucarest nel 2026?
+
+Il motore Somfy per pergola parte da 350 EUR montato (Pergola 50 RGS io, inclusi manodopera e configurazione TaHoma). Il sensore di vento e luce Sunis io parte da 80 EUR. I prezzi sono indicativi per Bucarest 2026.
+`,
     },
     keywords: 'automatizare pergola Somfy, motor pergola Somfy, Somfy copertine, Pergola RGS io, Sunea io Somfy, automatizare copertina, pergola motoricata Somfy, Somfy Bucuresti pergola, motor copertina retractabila',
     dateDisplay: {
@@ -21089,7 +23711,26 @@ TaHoma Switch este compatibil nativ cu Amazon Alexa, Google Home și Apple HomeK
 
 Kit-ul TaHoma Switch (hub + aplicație) pornește de la **180 EUR**. Configurarea completă cu scenariile personalizate este inclusă în serviciile Neofort BIZ.
 
-[Solicitați ofertă pentru TaHoma Switch și automatizări Somfy](/ro/accesorii/automatizari-somfy-rulouri-pergole)`,
+[Solicitați ofertă pentru TaHoma Switch și automatizări Somfy](/ro/accesorii/automatizari-somfy-rulouri-pergole)
+
+## Întrebări frecvente
+
+### Cum se conectează hub-ul Somfy TaHoma în casă?
+
+TaHoma Switch e hub-ul central al ecosistemului Somfy — un dispozitiv mic conectat la routerul de internet care permite controlul și programarea tuturor echipamentelor motorizate din casă dintr-o singură aplicație de smartphone. Funcționează cu aproape 300 de tipuri de produse Somfy și parteneri certificați.
+
+### Ce pot controla cu Somfy TaHoma în 2026?
+
+Prin aplicația TaHoma poți gestiona: rulouri exterioare și interioare, jaluzele raffstore, copertine și pergole, porți și uși de garaj, sisteme de alarmă Somfy Protect, camere video și prize inteligente Zigbee pentru monitorizarea consumului de energie — toate dintr-un singur loc.
+
+### Ce scenarii automate poate rula Somfy TaHoma?
+
+TaHoma rulează scenarii cu un tap sau vocal: Plecare (rulourile se închid, alarma se activează, prizele se opresc), Bun venit acasă (poarta se deschide, rulourile din living se ridică, lumina se aprinde) și Noapte (rulourile se închid la 22:30, temperatura nocturnă se setează automat).
+
+### E Somfy TaHoma compatibil cu Alexa, Google Home și Apple HomeKit?
+
+Da. Somfy TaHoma e compatibil cu Alexa, Google Home și Apple HomeKit, permițând controlul vocal al tuturor echipamentelor — de exemplu „Alexa, activează plecarea” declanșează scenariul complet. Integrarea cu cele trei ecosisteme principale face TaHoma centrul casei smart.
+`,
       en: `## What is Somfy TaHoma?
 
 TaHoma Switch is the central hub of the Somfy ecosystem — a small device connected to the internet router that allows control and programming of all motorised home equipment from a single smartphone app. TaHoma works with almost 300 Somfy products and certified partners.
@@ -21116,7 +23757,26 @@ TaHoma Switch is natively compatible with Amazon Alexa, Google Home and Apple Ho
 
 The TaHoma Switch kit (hub + app) starts from **180 EUR**. Full configuration with personalised scenarios included in Neofort BIZ services.
 
-[Request a TaHoma Switch and Somfy automation quote](/en/accessories/somfy-automation-shutters-pergolas)`,
+[Request a TaHoma Switch and Somfy automation quote](/en/accessories/somfy-automation-shutters-pergolas)
+
+## Frequently Asked Questions
+
+### How does the Somfy TaHoma hub connect in the home?
+
+TaHoma Switch is the central hub of the Somfy ecosystem — a small device connected to the internet router that lets you control and program all motorised equipment in the house from a single smartphone app. It works with almost 300 types of Somfy products and certified partners.
+
+### What can I control with Somfy TaHoma in 2026?
+
+Through the TaHoma app you can manage: exterior and interior roller shutters, raffstore blinds, awnings and pergolas, gates and garage doors, Somfy Protect alarm systems, video cameras and Zigbee smart plugs for energy-consumption monitoring — all from one place.
+
+### What automated scenarios can Somfy TaHoma run?
+
+TaHoma runs scenarios with one tap or by voice: Leaving (shutters close, alarm arms, plugs switch off), Welcome Home (gate opens, living-room shutters raise, light turns on) and Night (shutters close at 22:30, night temperature is set automatically).
+
+### Is Somfy TaHoma compatible with Alexa, Google Home and Apple HomeKit?
+
+Yes. Somfy TaHoma is compatible with Alexa, Google Home and Apple HomeKit, allowing voice control of all equipment — for example "Alexa, activate leaving" triggers the full scenario. Integration with the three main ecosystems makes TaHoma the centre of the smart home.
+`,
       de: `## Was ist Somfy TaHoma?
 
 TaHoma Switch ist der zentrale Hub des Somfy-Ökosystems — ein kleines Gerät, das alle motorisierten Geräte im Haus über eine einzige Smartphone-App steuert. TaHoma funktioniert mit fast 300 Somfy-Produkten.
@@ -21137,7 +23797,26 @@ TaHoma Switch ist der zentrale Hub des Somfy-Ökosystems — ein kleines Gerät,
 
 Das TaHoma Switch Kit (Hub + App) startet ab **180 EUR**. Vollständige Konfiguration in den Neofort BIZ Services enthalten.
 
-[TaHoma Switch und Somfy Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)`,
+[TaHoma Switch und Somfy Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
+
+## Häufig gestellte Fragen
+
+### Wie wird der Somfy TaHoma Hub im Haus angeschlossen?
+
+TaHoma Switch ist der zentrale Hub des Somfy-Ökosystems — ein kleines, mit dem Internetrouter verbundenes Gerät, mit dem Sie alle motorisierten Geräte im Haus aus einer einzigen Smartphone-App steuern und programmieren. Es funktioniert mit fast 300 Somfy-Produkttypen und zertifizierten Partnern.
+
+### Was kann ich 2026 mit Somfy TaHoma steuern?
+
+Über die TaHoma-App können Sie verwalten: Außen- und Innenrollläden, Raffstore-Jalousien, Markisen und Pergolen, Tore und Garagentore, Somfy-Protect-Alarmsysteme, Videokameras und Zigbee-Smart-Steckdosen zur Energieverbrauchsüberwachung — alles an einem Ort.
+
+### Welche automatischen Szenarien kann Somfy TaHoma ausführen?
+
+TaHoma führt Szenarien mit einem Tippen oder per Sprache aus: Verlassen (Rollläden schließen, Alarm aktiviert, Steckdosen aus), Willkommen zu Hause (Tor öffnet, Wohnzimmerrollläden hoch, Licht an) und Nacht (Rollläden schließen um 22:30, Nachttemperatur wird automatisch gesetzt).
+
+### Ist Somfy TaHoma mit Alexa, Google Home und Apple HomeKit kompatibel?
+
+Ja. Somfy TaHoma ist mit Alexa, Google Home und Apple HomeKit kompatibel und ermöglicht die Sprachsteuerung aller Geräte — zum Beispiel löst "Alexa, aktiviere Verlassen" das komplette Szenario aus. Die Integration mit den drei Haupt-Ökosystemen macht TaHoma zum Zentrum des Smart Homes.
+`,
       fr: `## Qu'est-ce que Somfy TaHoma ?
 
 TaHoma Switch est le hub central de l'écosystème Somfy — un petit appareil qui contrôle tous les équipements motorisés depuis une seule application smartphone. TaHoma fonctionne avec près de 300 produits Somfy.
@@ -21158,7 +23837,26 @@ Via l'application TaHoma : volets roulants, stores vénitiens raffstore, pergola
 
 Le kit TaHoma Switch (hub + application) commence à **180 EUR**. Configuration complète incluse dans les services Neofort BIZ.
 
-[Demander un devis TaHoma Switch et automatisation Somfy](/fr/accessoires/automatisation-somfy-volets-pergolas)`,
+[Demander un devis TaHoma Switch et automatisation Somfy](/fr/accessoires/automatisation-somfy-volets-pergolas)
+
+## Questions fréquentes
+
+### Comment le hub Somfy TaHoma se connecte-t-il dans la maison ?
+
+TaHoma Switch est le hub central de l'écosystème Somfy — un petit appareil connecté au routeur internet qui permet de contrôler et programmer tous les équipements motorisés de la maison depuis une seule application smartphone. Il fonctionne avec près de 300 types de produits Somfy et partenaires certifiés.
+
+### Que puis-je contrôler avec Somfy TaHoma en 2026 ?
+
+Via l'application TaHoma, vous pouvez gérer : volets roulants extérieurs et intérieurs, stores raffstore, stores et pergolas, portails et portes de garage, systèmes d'alarme Somfy Protect, caméras vidéo et prises connectées Zigbee pour le suivi de la consommation d'énergie — le tout au même endroit.
+
+### Quels scénarios automatiques Somfy TaHoma peut-il exécuter ?
+
+TaHoma exécute des scénarios d'un tap ou à la voix : Départ (les volets se ferment, l'alarme s'active, les prises s'éteignent), Bienvenue à la maison (le portail s'ouvre, les volets du salon se lèvent, la lumière s'allume) et Nuit (les volets se ferment à 22h30, la température nocturne est réglée automatiquement).
+
+### Somfy TaHoma est-il compatible avec Alexa, Google Home et Apple HomeKit ?
+
+Oui. Somfy TaHoma est compatible avec Alexa, Google Home et Apple HomeKit, permettant le contrôle vocal de tous les équipements — par exemple « Alexa, active le départ » déclenche le scénario complet. L'intégration avec les trois écosystèmes principaux fait de TaHoma le centre de la maison connectée.
+`,
       es: `## Qué es Somfy TaHoma?
 
 TaHoma Switch es el hub central del ecosistema Somfy — un pequeño dispositivo que controla todos los equipos motorizados del hogar desde una única app de smartphone. TaHoma funciona con casi 300 productos Somfy.
@@ -21179,7 +23877,26 @@ Via la app TaHoma: persianas, estores raffstore, pérgolas y toldos, puertas y g
 
 El kit TaHoma Switch (hub + app) comienza desde **180 EUR**. Configuración completa incluida en los servicios Neofort BIZ.
 
-[Solicitar presupuesto TaHoma Switch y automatización Somfy](/es/accesorios/automatizacion-somfy-persianas-pergolas)`,
+[Solicitar presupuesto TaHoma Switch y automatización Somfy](/es/accesorios/automatizacion-somfy-persianas-pergolas)
+
+## Preguntas frecuentes
+
+### ¿Cómo se conecta el hub Somfy TaHoma en casa?
+
+TaHoma Switch es el hub central del ecosistema Somfy — un pequeño dispositivo conectado al router de internet que permite controlar y programar todos los equipos motorizados de la casa desde una sola app de smartphone. Funciona con casi 300 tipos de productos Somfy y socios certificados.
+
+### ¿Qué puedo controlar con Somfy TaHoma en 2026?
+
+A través de la app TaHoma puedes gestionar: persianas enrollables exteriores e interiores, persianas raffstore, toldos y pérgolas, puertas y portones de garaje, sistemas de alarma Somfy Protect, cámaras de vídeo y enchufes inteligentes Zigbee para el seguimiento del consumo de energía — todo en un solo lugar.
+
+### ¿Qué escenarios automáticos puede ejecutar Somfy TaHoma?
+
+TaHoma ejecuta escenarios con un toque o por voz: Salida (las persianas se cierran, la alarma se activa, los enchufes se apagan), Bienvenido a casa (el portón se abre, las persianas del salón suben, la luz se enciende) y Noche (las persianas se cierran a las 22:30, la temperatura nocturna se ajusta automáticamente).
+
+### ¿Es Somfy TaHoma compatible con Alexa, Google Home y Apple HomeKit?
+
+Sí. Somfy TaHoma es compatible con Alexa, Google Home y Apple HomeKit, permitiendo el control por voz de todos los equipos — por ejemplo «Alexa, activa la salida» dispara el escenario completo. La integración con los tres ecosistemas principales hace de TaHoma el centro del hogar inteligente.
+`,
       it: `## Cos'è Somfy TaHoma?
 
 TaHoma Switch è l'hub centrale dell'ecosistema Somfy — un piccolo dispositivo che controlla tutti i dispositivi motorizzati della casa da un'unica app smartphone. TaHoma funziona con quasi 300 prodotti Somfy.
@@ -21200,7 +23917,26 @@ Tramite l'app TaHoma: tapparelle, veneziane raffstore, pergole e tende, cancelli
 
 Il kit TaHoma Switch (hub + app) parte da **180 EUR**. Configurazione completa inclusa nei servizi Neofort BIZ.
 
-[Richiedere preventivo TaHoma Switch e automazione Somfy](/it/accessori/automazione-somfy-tapparelle-pergole)`,
+[Richiedere preventivo TaHoma Switch e automazione Somfy](/it/accessori/automazione-somfy-tapparelle-pergole)
+
+## Domande frequenti
+
+### Come si collega l'hub Somfy TaHoma in casa?
+
+TaHoma Switch è l'hub centrale dell'ecosistema Somfy — un piccolo dispositivo collegato al router internet che permette di controllare e programmare tutti gli apparecchi motorizzati della casa da una sola app per smartphone. Funziona con quasi 300 tipi di prodotti Somfy e partner certificati.
+
+### Cosa posso controllare con Somfy TaHoma nel 2026?
+
+Tramite l'app TaHoma puoi gestire: tapparelle esterne e interne, tende raffstore, tende da sole e pergole, cancelli e porte da garage, sistemi di allarme Somfy Protect, videocamere e prese intelligenti Zigbee per il monitoraggio del consumo energetico — tutto da un unico posto.
+
+### Quali scenari automatici può eseguire Somfy TaHoma?
+
+TaHoma esegue scenari con un tocco o a voce: Uscita (le tapparelle si chiudono, l'allarme si attiva, le prese si spengono), Bentornato a casa (il cancello si apre, le tapparelle del soggiorno si alzano, la luce si accende) e Notte (le tapparelle si chiudono alle 22:30, la temperatura notturna si imposta automaticamente).
+
+### Somfy TaHoma è compatibile con Alexa, Google Home e Apple HomeKit?
+
+Sì. Somfy TaHoma è compatibile con Alexa, Google Home e Apple HomeKit, permettendo il controllo vocale di tutti gli apparecchi — ad esempio "Alexa, attiva l'uscita" avvia lo scenario completo. L'integrazione con i tre ecosistemi principali rende TaHoma il centro della casa intelligente.
+`,
     },
     keywords: 'Somfy TaHoma, TaHoma Switch, smart home Somfy Romania, casa inteligenta Somfy, control vocal rulouri, Alexa Somfy, Google Home Somfy, automatizare casa Bucuresti, TaHoma pret Romania',
     dateDisplay: {
