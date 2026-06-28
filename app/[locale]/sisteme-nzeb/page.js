@@ -175,14 +175,14 @@ export default async function Page({ params }) {
       <section style={{padding:'48px 0 80px', background:'#fff'}}>
         <div className="container mx-auto px-6">
           <div className="acc-grid">
-            {A.map(a => {
+            {A.map((a, idx) => {
               const name  = a.name[locale]  || a.name.ro;
               const cat   = a.cat[locale]   || a.cat.ro;
               const desc  = a.desc[locale]  || a.desc.ro;
               const specs = a.specs[locale] || a.specs.ro;
               return (
                 <div key={a.slug} className="acc-card">
-                  <img src={a.img} alt={name} className="acc-img" loading="lazy"/>
+                  <img src={a.img} alt={name} className="acc-img" loading={idx === 0 ? 'eager' : 'lazy'} fetchpriority={idx === 0 ? 'high' : 'auto'} decoding="async"/>
                   <div className="acc-body">
                     <span className="acc-cat" style={{color: a.color}}>{cat}</span>
                     <h2 className="acc-name">{name}</h2>
