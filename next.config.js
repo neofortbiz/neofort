@@ -157,6 +157,13 @@ const nextConfig = {
       { source: '/fr/sisteme-nzeb/vitrage-isolant-saint-gobain-sgg', destination: '/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg', permanent: true },
       { source: '/es/sisteme-nzeb/vidrio-aislante-saint-gobain-sgg', destination: '/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg', permanent: true },
       { source: '/it/sisteme-nzeb/vetro-termoisolante-saint-gobain-sgg', destination: '/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg', permanent: true },
+      // === v196: articol 'inchidere balcon/terasa' sters (5 limbi) -> pillar aluminiu ===
+      { source: '/ro/blog/inchidere-balcon-terasa-tamplarie-aluminiu-bucuresti-2026', destination: '/ro/tamplarie-aluminiu', permanent: true },
+      { source: '/en/blog/balcony-terrace-enclosure-aluminium-windows-bucharest-2026', destination: '/en/aluminium-windows', permanent: true },
+      { source: '/de/blog/balkon-terrasse-verglasung-aluminium-bukarest-2026', destination: '/de/aluminiumfenster', permanent: true },
+      { source: '/fr/blog/fermeture-balcon-terrasse-menuiserie-aluminium-bucarest-2026', destination: '/fr/menuiserie-aluminium', permanent: true },
+      { source: '/es/blog/cierre-balcon-terraza-carpinteria-aluminio-bucarest-2026', destination: '/es/carpinteria-aluminio', permanent: true },
+      { source: '/it/blog/chiusura-balcone-terrazza-infissi-alluminio-bucarest-2026', destination: '/it/infissi-alluminio', permanent: true },
       // === v196: fix 404-uri indexare (slug-uri vechi gresite) ===
       { source: '/it/produse/profilo-pvc-bluevolution-92-flex', destination: '/it/prodotti/profilo-pvc-bluevolution-92-flex', permanent: true },
       { source: '/de/produse/greenevolution-76-md-flex-pvc-profil', destination: '/de/produkte/greenevolution-76-md-flex-pvc-profil', permanent: true },
