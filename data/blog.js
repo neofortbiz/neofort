@@ -25239,6 +25239,1218 @@ Dopo 10–15 anni. Segnali: sensazione di durezza al tatto, non riprendono la fo
 Neofort BIZ installa finestre PVC Salamander con 5 anni di garanzia a Bucarest e Ilfov. [Richiedi preventivo o servizio](/it/contact).`,
     },
   },
+  {
+    slugs: {ro:"subventii-programe-schimb-ferestre-2026-pnrr-casa-eficienta",en:"subsidies-programmes-window-replacement-2026-pnrr-energy-efficient-home",de:"foerderungen-programme-fenstertausch-2026-pnrr-energieeffizientes-haus",fr:"subventions-programmes-remplacement-fenetres-2026-pnrr-maison-econome",es:"subvenciones-programas-cambio-ventanas-2026-pnrr-casa-eficiente",it:"incentivi-programmi-sostituzione-finestre-2026-pnrr-casa-efficiente"},
+    date: "2026-06-09",
+    author: "Mihai Dănălache",
+    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorPhoto: "/team/mihai-danalache.avif",
+    accentColor: "#1d4e89",
+    image: {ro:"/blog/subventii-programe-ferestre-2026.avif",en:"/blog/subventii-programe-ferestre-2026.avif",de:"/blog/subventii-programe-ferestre-2026.avif",fr:"/blog/subventii-programe-ferestre-2026.avif",es:"/blog/subventii-programe-ferestre-2026.avif",it:"/blog/subventii-programe-ferestre-2026.avif"},
+    imageOg: "/blog/subventii-programe-ferestre-2026-og.jpg",
+    imageBg: "linear-gradient(135deg,#0a1830 0%,#15315c 60%,#0a1830 100%)",
+    imageLabel: "Fereastră PVC modernă cu profil termoizolant și placard despre subvenții PNRR Casa Eficientă Energetic pentru schimbul de ferestre în 2026",
+    readTime: {ro:"8 min citire",en:"8 min read",de:"8 Min.",fr:"8 min",es:"8 min",it:"8 min"},
+    category: {ro:"Finanțare & Subvenții",en:"Funding & Subsidies",de:"Förderung & Zuschüsse",fr:"Financement & Subventions",es:"Financiación & Subvenciones",it:"Finanziamenti & Incentivi"},
+    title: {ro:"Subvenții ferestre 2026: PNRR „Casa Eficientă Energetic\" și ce program acoperă tâmplăria",en:"Window subsidies 2026: PNRR \"Energy Efficient Home\" and which programme covers joinery",de:"Fensterförderung 2026: PNRR „Energieeffizientes Haus\" und welches Programm Fenster abdeckt",fr:"Subventions fenêtres 2026 : PNRR « Maison Économe en Énergie » et quel programme couvre la menuiserie",es:"Subvenciones ventanas 2026: PNRR «Casa Eficiente Energéticamente» y qué programa cubre la carpintería",it:"Incentivi finestre 2026: PNRR «Casa Efficiente Energeticamente» e quale programma copre i serramenti"},
+    metaDesc: {ro:"Ce subvenții există în 2026 pentru schimbul de ferestre? Programul PNRR „Casa Eficientă Energetic\" (RePowerEU) finanțează tâmplăria termoizolantă cu vouchere de până la 72.500 lei și până la 100% din costuri. Ghid complet: axe, condiții, documente.",en:"What subsidies exist in 2026 for window replacement? The PNRR \"Energy Efficient Home\" (RePowerEU) programme funds thermally insulating joinery with vouchers up to 72,500 lei and up to 100% of costs. Complete guide: axes, conditions, documents.",de:"Welche Förderungen gibt es 2026 für den Fenstertausch? Das PNRR-Programm „Energieeffizientes Haus\" (RePowerEU) fördert wärmedämmende Fenster mit Gutscheinen bis 72.500 Lei und bis zu 100% der Kosten. Vollständiger Leitfaden.",fr:"Quelles subventions existent en 2026 pour le remplacement des fenêtres ? Le programme PNRR « Maison Économe en Énergie » (RePowerEU) finance la menuiserie thermo-isolante avec des bons jusqu’à 72 500 lei et jusqu’à 100% des coûts.",es:"¿Qué subvenciones existen en 2026 para el cambio de ventanas? El programa PNRR «Casa Eficiente Energéticamente» (RePowerEU) financia la carpintería termoaislante con bonos de hasta 72.500 lei y hasta el 100% de los costes.",it:"Quali incentivi esistono nel 2026 per la sostituzione delle finestre? Il programma PNRR «Casa Efficiente Energeticamente» (RePowerEU) finanzia i serramenti termoisolanti con voucher fino a 72.500 lei e fino al 100% dei costi."},
+    excerpt: {ro:"Ce programe de finanțare poți accesa în 2026 pentru schimbul ferestrelor? Ghid complet despre PNRR „Casa Eficientă Energetic\", sumele disponibile, cele două axe, distincția față de Casa Verde și documentele necesare pentru dosar.",en:"Which funding programmes can you access in 2026 for window replacement? Complete guide on PNRR \"Energy Efficient Home\", available amounts, the two axes, the distinction from Casa Verde and the documents needed for the application.",de:"Welche Förderprogramme können Sie 2026 für den Fenstertausch nutzen? Vollständiger Leitfaden zum PNRR „Energieeffizientes Haus\", verfügbare Beträge, die zwei Achsen, die Unterscheidung von Casa Verde und die benötigten Unterlagen.",fr:"Quels programmes de financement pouvez-vous accéder en 2026 pour le remplacement des fenêtres ? Guide complet sur le PNRR « Maison Économe en Énergie », les montants disponibles, les deux axes et les documents nécessaires.",es:"¿A qué programas de financiación puedes acceder en 2026 para el cambio de ventanas? Guía completa sobre el PNRR «Casa Eficiente Energéticamente», los importes disponibles, los dos ejes y los documentos necesarios.",it:"A quali programmi di finanziamento puoi accedere nel 2026 per la sostituzione delle finestre? Guida completa sul PNRR «Casa Efficiente Energeticamente», gli importi disponibili, i due assi e i documenti necessari."},
+    dateDisplay: {ro:"9 iunie 2026",en:"June 9 2026",de:"9. Juni 2026",fr:"9 juin 2026",es:"9 jun 2026",it:"9 giu 2026"},
+    content: {
+      ro: `Mulți proprietari din București și Ilfov amână schimbarea ferestrelor pentru că presupun că trebuie să suporte singuri întregul cost. În 2026 există însă programe de finanțare reale prin care statul și fondurile europene acoperă o parte importantă — uneori chiar 100% — din costul tâmplăriei termoizolante. Cel mai relevant program pentru înlocuirea ferestrelor este PNRR „Casa Eficientă Energetic" (RePowerEU). Acest ghid îți explică exact ce program acoperă ferestrele, ce sume poți obține și cum se combină cu celelalte scheme de sprijin.
+
+## Programul care finanțează efectiv schimbul de ferestre în 2026
+
+Programul principal care acoperă înlocuirea tâmplăriei exterioare este **PNRR — Programul Național „Casa Eficientă Energetic"**, parte a componentei RePowerEU. Spre deosebire de Casa Verde (care vizează panourile fotovoltaice), acest program finanțează direct renovarea energetică a anvelopei locuinței — inclusiv înlocuirea ferestrelor și ușilor exterioare cu tâmplărie termoizolantă cu performanță ridicată.
+
+Valoarea voucherului poate ajunge la aproximativ **72.500 lei per locuință**, iar pentru o clădire rezidențială unifamilială valoarea nerambursabilă a fost stabilită în jurul a **20.200 EUR (circa 100.513 lei)**. Rata de finanțare poate atinge **100% din costurile eligibile**, ceea ce înseamnă că, în anumite situații, beneficiarul nu trebuie să contribuie cu nimic din costul lucrărilor eligibile.
+
+> Condiție esențială: renovarea trebuie să asigure o reducere de minimum 30% a consumului de energie al locuinței. Înlocuirea ferestrelor vechi cu tâmplărie termoizolantă performantă contribuie semnificativ la atingerea acestui prag.
+
+## PNRR „Casa Eficientă Energetic" — cele două axe
+
+Programul este structurat pe două axe, în funcție de profilul beneficiarului:
+
+| Axă | Cui se adresează | Ce acoperă |
+|---|---|---|
+| Axa 1 | Persoane vulnerabile energetic | Renovare energetică + opțional sistem fotovoltaic |
+| Axa 2 | Persoane fizice, clădiri unifamiliale | Renovarea energetică a locuinței (anvelopă, ferestre, izolație) |
+
+Un beneficiar nu poate fi finanțat decât prin una dintre cele două axe, pentru a respecta principiul evitării dublei finanțări. Lucrările eligibile includ izolarea termică a pereților și fațadei, înlocuirea tâmplăriei exterioare cu tâmplărie termoizolantă (ferestre și uși), precum și alte intervenții care cresc eficiența energetică.
+
+## Rolul fiecărui program de finanțare
+
+Există confuzie frecventă între programe. Iată, pe scurt, la ce folosește fiecare:
+
+| Program | Destinație principală | Acoperă ferestrele? |
+|---|---|---|
+| PNRR „Casa Eficientă Energetic" | Renovare energetică anvelopă | Da — direct |
+| Casa Verde Fotovoltaice | Panouri fotovoltaice | Nu |
+| Casa Verde Plus | Izolație cu materiale organice | Indirect (izolație, nu ferestre) |
+| Programe locale (primării) | Variabil, eficiență energetică | Uneori, în funcție de localitate |
+
+Concluzia practică: dacă obiectivul tău este **schimbarea ferestrelor**, programul de urmărit este PNRR „Casa Eficientă Energetic". Casa Verde rămâne utilă pentru cine vrea panouri solare, iar unele primării oferă scheme locale complementare.
+
+## Documentele necesare pentru dosar
+
+Documentația variază de la o sesiune la alta, dar în general este nevoie de actul de identitate, extrasul de carte funciară care dovedește proprietatea, certificatul de atestare fiscală (fără datorii la bugetul de stat și local), oferta detaliată de la o firmă autorizată și, în multe cazuri, un certificat de performanță energetică al clădirii. Pentru a înțelege cum se integrează ferestrele în evaluarea energetică, poți citi [Ce coeficient termic trebuie să aibă ferestrele](/ro/blog/ce-coeficient-termic-trebuie-sa-aiba-ferestrele).
+
+## Cum te pregătești din timp
+
+Sesiunile de înscriere au fonduri limitate și se pot epuiza rapid. Recomandarea practică este să ai documentația pregătită înainte de deschiderea apelului și o ofertă tehnică validă de la un furnizor autorizat. O ofertă corectă include specificațiile tehnice ale tâmplăriei propuse — coeficientul Uw, tipul de geam, profilul — pentru ca auditorul să poată calcula reducerea de consum. Dacă vrei o estimare a investiției înainte de a aplica, vezi [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026).
+
+> Atenție: cheltuielile efectuate înainte de semnarea contractului de finanțare nu sunt, de regulă, eligibile pentru rambursare. Așteaptă aprobarea oficială înainte de a începe lucrările.
+
+## FAQ — Subvenții ferestre 2026
+
+### Ce program acoperă schimbarea ferestrelor în 2026?
+Programul principal este PNRR „Casa Eficientă Energetic" (RePowerEU), care finanțează direct înlocuirea tâmplăriei exterioare cu tâmplărie termoizolantă, cu vouchere de până la circa 72.500 lei și finanțare de până la 100% din costurile eligibile.
+
+### Casa Verde acoperă înlocuirea ferestrelor?
+Nu direct. Programul Casa Verde Fotovoltaice vizează panourile solare, iar Casa Verde Plus se referă la izolația cu materiale organice. Pentru ferestre, programul potrivit este PNRR „Casa Eficientă Energetic".
+
+### Cât pot obține pentru renovarea energetică a casei?
+Pentru o clădire rezidențială unifamilială, valoarea nerambursabilă a fost stabilită în jurul a 20.200 EUR (circa 100.513 lei), cu o rată de finanțare care poate atinge 100% din costurile eligibile, în funcție de axă și de condițiile sesiunii.
+
+### Ce condiție trebuie să îndeplinească renovarea?
+Renovarea trebuie să asigure o reducere de minimum 30% a consumului de energie al locuinței. Înlocuirea ferestrelor vechi cu tâmplărie termoizolantă performantă contribuie semnificativ la atingerea acestui obiectiv.
+
+### Pot combina mai multe programe?
+Nu poți fi finanțat de două ori pentru aceeași lucrare prin axe diferite ale aceluiași program. Poți însă combina, în anumite condiții, finanțarea de renovare cu scheme locale sau cu credite verzi bancare pentru partea necontractată.
+
+---
+
+Neofort BIZ furnizează și montează tâmplărie PVC Salamander și aluminiu Alumil termoizolantă, conformă cerințelor de eficiență energetică, în București și Ilfov. [Solicită o ofertă pentru proiectul tău](/ro/contact).`,
+      en: `Many homeowners in Bucharest and Ilfov postpone replacing their windows because they assume they must bear the entire cost themselves. In 2026, however, there are real funding programmes through which the state and European funds cover a significant part — sometimes even 100% — of the cost of thermally insulating joinery. The most relevant programme for window replacement is the PNRR "Energy Efficient Home" (RePowerEU). This guide explains exactly which programme covers windows, what amounts you can obtain and how it combines with the other support schemes.
+
+## The programme that actually funds window replacement in 2026
+
+The main programme covering the replacement of exterior joinery is the **PNRR — National "Energy Efficient Home" Programme**, part of the RePowerEU component. Unlike Casa Verde (which targets photovoltaic panels), this programme directly funds the energy renovation of the home's envelope — including replacing exterior windows and doors with high-performance thermally insulating joinery.
+
+The voucher value can reach approximately **72,500 lei per dwelling**, and for a single-family residential building the non-reimbursable value was set at around **EUR 20,200 (roughly 100,513 lei)**. The funding rate can reach **100% of eligible costs**, meaning that in certain situations the beneficiary does not have to contribute anything towards the eligible works.
+
+> Essential condition: the renovation must achieve a minimum 30% reduction in the home's energy consumption. Replacing old windows with high-performance thermally insulating joinery contributes significantly to reaching this threshold.
+
+## PNRR "Energy Efficient Home" — the two axes
+
+The programme is structured along two axes, depending on the beneficiary profile:
+
+| Axis | Who it addresses | What it covers |
+|---|---|---|
+| Axis 1 | Energy-vulnerable persons | Energy renovation + optional photovoltaic system |
+| Axis 2 | Individuals, single-family buildings | Energy renovation of the home (envelope, windows, insulation) |
+
+A beneficiary can only be funded through one of the two axes, to respect the principle of avoiding double funding. Eligible works include thermal insulation of walls and façade, replacement of exterior joinery with thermally insulating joinery (windows and doors), as well as other interventions that increase energy efficiency.
+
+## The role of each funding programme
+
+There is frequent confusion between programmes. Here, in short, is what each is for:
+
+| Programme | Main purpose | Does it cover windows? |
+|---|---|---|
+| PNRR "Energy Efficient Home" | Energy renovation of envelope | Yes — directly |
+| Casa Verde Photovoltaics | Photovoltaic panels | No |
+| Casa Verde Plus | Insulation with organic materials | Indirectly (insulation, not windows) |
+| Local programmes (city halls) | Variable, energy efficiency | Sometimes, depending on locality |
+
+The practical conclusion: if your goal is **window replacement**, the programme to follow is PNRR "Energy Efficient Home". Casa Verde remains useful for those who want solar panels, and some city halls offer complementary local schemes.
+
+## Documents needed for the application
+
+The documentation varies from session to session, but generally you need an identity document, the land registry extract proving ownership, the fiscal attestation certificate (no debts to the state and local budget), a detailed offer from an authorised company and, in many cases, an energy performance certificate for the building. To understand how windows fit into the energy assessment, you can read [What thermal coefficient should windows have](/en/blog/what-thermal-coefficient-should-windows-have).
+
+## How to prepare in advance
+
+Enrolment sessions have limited funds and can be exhausted quickly. The practical recommendation is to have your documentation ready before the call opens and a valid technical offer from an authorised supplier. A correct offer includes the technical specifications of the proposed joinery — the Uw coefficient, the glazing type, the profile — so the auditor can calculate the consumption reduction. If you want an estimate of the investment before applying, see [Salamander window prices Bucharest 2026](/en/blog/salamander-window-prices-bucharest-2026).
+
+> Note: expenses incurred before signing the funding contract are generally not eligible for reimbursement. Wait for official approval before starting the works.
+
+## FAQ — Window subsidies 2026
+
+### Which programme covers window replacement in 2026?
+The main programme is PNRR "Energy Efficient Home" (RePowerEU), which directly funds the replacement of exterior joinery with thermally insulating joinery, with vouchers of up to around 72,500 lei and funding of up to 100% of eligible costs.
+
+### Does Casa Verde cover window replacement?
+Not directly. The Casa Verde Photovoltaics programme targets solar panels, and Casa Verde Plus refers to insulation with organic materials. For windows, the appropriate programme is PNRR "Energy Efficient Home".
+
+### How much can I obtain for my home's energy renovation?
+For a single-family residential building, the non-reimbursable value was set at around EUR 20,200 (roughly 100,513 lei), with a funding rate that can reach 100% of eligible costs, depending on the axis and session conditions.
+
+### What condition must the renovation meet?
+The renovation must achieve a minimum 30% reduction in the home's energy consumption. Replacing old windows with high-performance thermally insulating joinery contributes significantly to reaching this objective.
+
+### Can I combine several programmes?
+You cannot be funded twice for the same work through different axes of the same programme. However, under certain conditions, you can combine renovation funding with local schemes or green bank loans for the non-contracted part.
+
+---
+
+Neofort BIZ supplies and installs thermally insulating Salamander PVC and Alumil aluminium joinery, compliant with energy efficiency requirements, in Bucharest and Ilfov. [Request a quote for your project](/en/contact).`,
+      de: `Viele Eigentümer in Bukarest und Ilfov verschieben den Fenstertausch, weil sie annehmen, die gesamten Kosten allein tragen zu müssen. 2026 gibt es jedoch reale Förderprogramme, über die der Staat und EU-Mittel einen erheblichen Teil — manchmal sogar 100% — der Kosten für wärmedämmende Fenster übernehmen. Das relevanteste Programm für den Fenstertausch ist das PNRR-Programm „Energieeffizientes Haus" (RePowerEU). Dieser Leitfaden erklärt genau, welches Programm Fenster abdeckt, welche Beträge Sie erhalten können und wie es sich mit den übrigen Förderschemata kombinieren lässt.
+
+## Das Programm, das 2026 tatsächlich den Fenstertausch fördert
+
+Das wichtigste Programm für den Austausch der Außenfenster ist das **PNRR — Nationale Programm „Energieeffizientes Haus"**, Teil der RePowerEU-Komponente. Im Gegensatz zu Casa Verde (das auf Photovoltaikmodule abzielt) fördert dieses Programm direkt die energetische Sanierung der Gebäudehülle — einschließlich des Austauschs von Außenfenstern und -türen durch hochwertige wärmedämmende Fenster.
+
+Der Gutscheinwert kann etwa **72.500 Lei pro Wohneinheit** erreichen, und für ein Einfamilienhaus wurde der nicht rückzahlbare Wert auf rund **20.200 EUR (etwa 100.513 Lei)** festgelegt. Die Förderquote kann **100% der förderfähigen Kosten** erreichen, was bedeutet, dass der Begünstigte in bestimmten Fällen nichts zu den förderfähigen Arbeiten beitragen muss.
+
+> Wesentliche Bedingung: Die Sanierung muss eine Senkung des Energieverbrauchs des Hauses um mindestens 30% bewirken. Der Austausch alter Fenster durch hochwertige wärmedämmende Fenster trägt erheblich zum Erreichen dieser Schwelle bei.
+
+## PNRR „Energieeffizientes Haus" — die zwei Achsen
+
+Das Programm ist je nach Begünstigtenprofil in zwei Achsen gegliedert:
+
+| Achse | An wen es sich richtet | Was es abdeckt |
+|---|---|---|
+| Achse 1 | Energiearme Personen | Energetische Sanierung + optionale Photovoltaikanlage |
+| Achse 2 | Privatpersonen, Einfamilienhäuser | Energetische Sanierung des Hauses (Hülle, Fenster, Dämmung) |
+
+Ein Begünstigter kann nur über eine der beiden Achsen gefördert werden, um den Grundsatz der Vermeidung von Doppelförderung zu wahren. Förderfähige Arbeiten umfassen die Wärmedämmung von Wänden und Fassade, den Austausch der Außenfenster durch wärmedämmende Fenster (Fenster und Türen) sowie weitere Maßnahmen zur Steigerung der Energieeffizienz.
+
+## Die Rolle jedes Förderprogramms
+
+Es gibt häufig Verwechslungen zwischen den Programmen. Hier kurz, wozu jedes dient:
+
+| Programm | Hauptzweck | Deckt es Fenster ab? |
+|---|---|---|
+| PNRR „Energieeffizientes Haus" | Energetische Sanierung der Hülle | Ja — direkt |
+| Casa Verde Photovoltaik | Photovoltaikmodule | Nein |
+| Casa Verde Plus | Dämmung mit organischen Materialien | Indirekt (Dämmung, keine Fenster) |
+| Lokale Programme (Rathäuser) | Variabel, Energieeffizienz | Manchmal, je nach Ort |
+
+Die praktische Schlussfolgerung: Wenn Ihr Ziel der **Fenstertausch** ist, ist das zu verfolgende Programm PNRR „Energieeffizientes Haus". Casa Verde bleibt nützlich für alle, die Solarmodule wünschen, und einige Rathäuser bieten ergänzende lokale Schemata an.
+
+## Die für den Antrag benötigten Unterlagen
+
+Die Unterlagen variieren von Sitzung zu Sitzung, aber in der Regel benötigen Sie einen Ausweis, den Grundbuchauszug als Eigentumsnachweis, die steuerliche Bescheinigung (keine Schulden gegenüber dem Staats- und Lokalhaushalt), ein detailliertes Angebot eines autorisierten Unternehmens und in vielen Fällen einen Energieausweis des Gebäudes. Um zu verstehen, wie Fenster in die Energiebewertung einfließen, können Sie [Welchen Wärmedurchgangskoeffizienten sollten Fenster haben](/de/blog/welchen-waermedurchgangskoeffizient-sollen-fenster-haben) lesen.
+
+## Wie Sie sich rechtzeitig vorbereiten
+
+Die Anmeldesitzungen verfügen über begrenzte Mittel und können schnell ausgeschöpft sein. Die praktische Empfehlung lautet, die Unterlagen vor Eröffnung des Aufrufs bereit zu haben und ein gültiges technisches Angebot eines autorisierten Lieferanten. Ein korrektes Angebot enthält die technischen Spezifikationen der vorgeschlagenen Fenster — den Uw-Koeffizienten, den Glastyp, das Profil — damit der Auditor die Verbrauchsreduzierung berechnen kann. Wenn Sie vor der Antragstellung eine Schätzung der Investition wünschen, siehe [Salamander Fensterpreise Bukarest 2026](/de/blog/salamander-fenster-preise-bukarest-2026).
+
+> Achtung: Ausgaben, die vor Unterzeichnung des Förderungsvertrags getätigt werden, sind in der Regel nicht erstattungsfähig. Warten Sie auf die offizielle Genehmigung, bevor Sie mit den Arbeiten beginnen.
+
+## FAQ — Fensterförderung 2026
+
+### Welches Programm deckt 2026 den Fenstertausch ab?
+Das Hauptprogramm ist PNRR „Energieeffizientes Haus" (RePowerEU), das direkt den Austausch der Außenfenster durch wärmedämmende Fenster fördert, mit Gutscheinen von bis zu rund 72.500 Lei und einer Förderung von bis zu 100% der förderfähigen Kosten.
+
+### Deckt Casa Verde den Fenstertausch ab?
+Nicht direkt. Das Programm Casa Verde Photovoltaik zielt auf Solarmodule ab, und Casa Verde Plus bezieht sich auf Dämmung mit organischen Materialien. Für Fenster ist das passende Programm PNRR „Energieeffizientes Haus".
+
+### Wie viel kann ich für die energetische Sanierung meines Hauses erhalten?
+Für ein Einfamilienhaus wurde der nicht rückzahlbare Wert auf rund 20.200 EUR (etwa 100.513 Lei) festgelegt, mit einer Förderquote, die je nach Achse und Sitzungsbedingungen 100% der förderfähigen Kosten erreichen kann.
+
+### Welche Bedingung muss die Sanierung erfüllen?
+Die Sanierung muss eine Senkung des Energieverbrauchs des Hauses um mindestens 30% bewirken. Der Austausch alter Fenster durch hochwertige wärmedämmende Fenster trägt erheblich zum Erreichen dieses Ziels bei.
+
+### Kann ich mehrere Programme kombinieren?
+Sie können nicht zweimal für dieselbe Arbeit über verschiedene Achsen desselben Programms gefördert werden. Unter bestimmten Bedingungen können Sie jedoch die Sanierungsförderung mit lokalen Schemata oder grünen Bankkrediten für den nicht vertraglich gebundenen Teil kombinieren.
+
+---
+
+Neofort BIZ liefert und montiert wärmedämmende Fenster aus Salamander-PVC und Alumil-Aluminium, konform mit den Energieeffizienzanforderungen, in Bukarest und Ilfov. [Fordern Sie ein Angebot für Ihr Projekt an](/de/kontakt).`,
+      fr: `De nombreux propriétaires à Bucarest et Ilfov reportent le remplacement de leurs fenêtres parce qu'ils supposent devoir supporter seuls la totalité du coût. En 2026, il existe pourtant de réels programmes de financement par lesquels l'État et les fonds européens couvrent une part importante — parfois même 100% — du coût de la menuiserie thermo-isolante. Le programme le plus pertinent pour le remplacement des fenêtres est le PNRR « Maison Économe en Énergie » (RePowerEU). Ce guide explique exactement quel programme couvre les fenêtres, quels montants vous pouvez obtenir et comment il se combine avec les autres dispositifs de soutien.
+
+## Le programme qui finance réellement le remplacement des fenêtres en 2026
+
+Le principal programme couvrant le remplacement de la menuiserie extérieure est le **PNRR — Programme National « Maison Économe en Énergie »**, partie de la composante RePowerEU. Contrairement à Casa Verde (qui vise les panneaux photovoltaïques), ce programme finance directement la rénovation énergétique de l'enveloppe du logement — y compris le remplacement des fenêtres et portes extérieures par une menuiserie thermo-isolante haute performance.
+
+La valeur du bon peut atteindre environ **72 500 lei par logement**, et pour un bâtiment résidentiel unifamilial la valeur non remboursable a été fixée autour de **20 200 EUR (environ 100 513 lei)**. Le taux de financement peut atteindre **100% des coûts éligibles**, ce qui signifie que dans certaines situations le bénéficiaire n'a rien à contribuer pour les travaux éligibles.
+
+> Condition essentielle : la rénovation doit assurer une réduction d'au moins 30% de la consommation d'énergie du logement. Le remplacement des anciennes fenêtres par une menuiserie thermo-isolante performante contribue significativement à atteindre ce seuil.
+
+## PNRR « Maison Économe en Énergie » — les deux axes
+
+Le programme est structuré selon deux axes, en fonction du profil du bénéficiaire :
+
+| Axe | À qui il s'adresse | Ce qu'il couvre |
+|---|---|---|
+| Axe 1 | Personnes vulnérables sur le plan énergétique | Rénovation énergétique + système photovoltaïque optionnel |
+| Axe 2 | Particuliers, bâtiments unifamiliaux | Rénovation énergétique du logement (enveloppe, fenêtres, isolation) |
+
+Un bénéficiaire ne peut être financé que par l'un des deux axes, afin de respecter le principe d'évitement du double financement. Les travaux éligibles comprennent l'isolation thermique des murs et de la façade, le remplacement de la menuiserie extérieure par une menuiserie thermo-isolante (fenêtres et portes), ainsi que d'autres interventions qui augmentent l'efficacité énergétique.
+
+## Le rôle de chaque programme de financement
+
+Il y a une confusion fréquente entre les programmes. Voici, en bref, à quoi sert chacun :
+
+| Programme | But principal | Couvre-t-il les fenêtres ? |
+|---|---|---|
+| PNRR « Maison Économe en Énergie » | Rénovation énergétique de l'enveloppe | Oui — directement |
+| Casa Verde Photovoltaïque | Panneaux photovoltaïques | Non |
+| Casa Verde Plus | Isolation avec matériaux organiques | Indirectement (isolation, pas fenêtres) |
+| Programmes locaux (mairies) | Variable, efficacité énergétique | Parfois, selon la localité |
+
+La conclusion pratique : si votre objectif est le **remplacement des fenêtres**, le programme à suivre est PNRR « Maison Économe en Énergie ». Casa Verde reste utile pour ceux qui veulent des panneaux solaires, et certaines mairies offrent des dispositifs locaux complémentaires.
+
+## Les documents nécessaires pour le dossier
+
+La documentation varie d'une session à l'autre, mais en général il faut une pièce d'identité, l'extrait du livre foncier prouvant la propriété, le certificat d'attestation fiscale (sans dettes envers le budget de l'État et local), une offre détaillée d'une entreprise autorisée et, dans de nombreux cas, un certificat de performance énergétique du bâtiment. Pour comprendre comment les fenêtres s'intègrent dans l'évaluation énergétique, vous pouvez lire [Quel coefficient thermique pour les fenêtres](/fr/blog/quel-coefficient-thermique-pour-les-fenetres).
+
+## Comment se préparer à l'avance
+
+Les sessions d'inscription disposent de fonds limités et peuvent être épuisées rapidement. La recommandation pratique est d'avoir la documentation prête avant l'ouverture de l'appel et une offre technique valide d'un fournisseur autorisé. Une offre correcte inclut les spécifications techniques de la menuiserie proposée — le coefficient Uw, le type de vitrage, le profil — afin que l'auditeur puisse calculer la réduction de consommation. Si vous souhaitez une estimation de l'investissement avant de postuler, voir [Prix fenêtres Salamander Bucarest 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026).
+
+> Attention : les dépenses engagées avant la signature du contrat de financement ne sont généralement pas éligibles au remboursement. Attendez l'approbation officielle avant de commencer les travaux.
+
+## FAQ — Subventions fenêtres 2026
+
+### Quel programme couvre le remplacement des fenêtres en 2026 ?
+Le programme principal est le PNRR « Maison Économe en Énergie » (RePowerEU), qui finance directement le remplacement de la menuiserie extérieure par une menuiserie thermo-isolante, avec des bons allant jusqu'à environ 72 500 lei et un financement allant jusqu'à 100% des coûts éligibles.
+
+### Casa Verde couvre-t-il le remplacement des fenêtres ?
+Pas directement. Le programme Casa Verde Photovoltaïque vise les panneaux solaires, et Casa Verde Plus concerne l'isolation avec des matériaux organiques. Pour les fenêtres, le programme approprié est le PNRR « Maison Économe en Énergie ».
+
+### Combien puis-je obtenir pour la rénovation énergétique de ma maison ?
+Pour un bâtiment résidentiel unifamilial, la valeur non remboursable a été fixée autour de 20 200 EUR (environ 100 513 lei), avec un taux de financement pouvant atteindre 100% des coûts éligibles, selon l'axe et les conditions de la session.
+
+### Quelle condition la rénovation doit-elle remplir ?
+La rénovation doit assurer une réduction d'au moins 30% de la consommation d'énergie du logement. Le remplacement des anciennes fenêtres par une menuiserie thermo-isolante performante contribue significativement à atteindre cet objectif.
+
+### Puis-je combiner plusieurs programmes ?
+Vous ne pouvez pas être financé deux fois pour le même travail via différents axes du même programme. Cependant, sous certaines conditions, vous pouvez combiner le financement de rénovation avec des dispositifs locaux ou des prêts bancaires verts pour la partie non contractée.
+
+---
+
+Neofort BIZ fournit et installe de la menuiserie thermo-isolante en PVC Salamander et aluminium Alumil, conforme aux exigences d'efficacité énergétique, à Bucarest et Ilfov. [Demandez un devis pour votre projet](/fr/contact).`,
+      es: `Muchos propietarios en Bucarest e Ilfov posponen el cambio de ventanas porque suponen que deben asumir solos todo el coste. Sin embargo, en 2026 existen programas de financiación reales mediante los cuales el Estado y los fondos europeos cubren una parte importante — a veces incluso el 100% — del coste de la carpintería termoaislante. El programa más relevante para la sustitución de ventanas es el PNRR «Casa Eficiente Energéticamente» (RePowerEU). Esta guía explica exactamente qué programa cubre las ventanas, qué importes puedes obtener y cómo se combina con los demás esquemas de apoyo.
+
+## El programa que financia realmente el cambio de ventanas en 2026
+
+El programa principal que cubre la sustitución de la carpintería exterior es el **PNRR — Programa Nacional «Casa Eficiente Energéticamente»**, parte del componente RePowerEU. A diferencia de Casa Verde (que se dirige a los paneles fotovoltaicos), este programa financia directamente la renovación energética de la envolvente de la vivienda — incluida la sustitución de ventanas y puertas exteriores por carpintería termoaislante de alto rendimiento.
+
+El valor del bono puede alcanzar aproximadamente **72.500 lei por vivienda**, y para un edificio residencial unifamiliar el valor no reembolsable se fijó en torno a **20.200 EUR (unos 100.513 lei)**. La tasa de financiación puede alcanzar el **100% de los costes elegibles**, lo que significa que en ciertas situaciones el beneficiario no tiene que contribuir con nada a las obras elegibles.
+
+> Condición esencial: la renovación debe garantizar una reducción de al menos el 30% del consumo de energía de la vivienda. La sustitución de las ventanas viejas por carpintería termoaislante de alto rendimiento contribuye significativamente a alcanzar este umbral.
+
+## PNRR «Casa Eficiente Energéticamente» — los dos ejes
+
+El programa está estructurado en dos ejes, según el perfil del beneficiario:
+
+| Eje | A quién se dirige | Qué cubre |
+|---|---|---|
+| Eje 1 | Personas vulnerables energéticamente | Renovación energética + sistema fotovoltaico opcional |
+| Eje 2 | Particulares, edificios unifamiliares | Renovación energética de la vivienda (envolvente, ventanas, aislamiento) |
+
+Un beneficiario solo puede financiarse a través de uno de los dos ejes, para respetar el principio de evitar la doble financiación. Las obras elegibles incluyen el aislamiento térmico de paredes y fachada, la sustitución de la carpintería exterior por carpintería termoaislante (ventanas y puertas), así como otras intervenciones que aumentan la eficiencia energética.
+
+## El papel de cada programa de financiación
+
+Hay confusión frecuente entre los programas. Aquí, en breve, para qué sirve cada uno:
+
+| Programa | Propósito principal | ¿Cubre las ventanas? |
+|---|---|---|
+| PNRR «Casa Eficiente Energéticamente» | Renovación energética de la envolvente | Sí — directamente |
+| Casa Verde Fotovoltaica | Paneles fotovoltaicos | No |
+| Casa Verde Plus | Aislamiento con materiales orgánicos | Indirectamente (aislamiento, no ventanas) |
+| Programas locales (ayuntamientos) | Variable, eficiencia energética | A veces, según la localidad |
+
+La conclusión práctica: si tu objetivo es el **cambio de ventanas**, el programa a seguir es PNRR «Casa Eficiente Energéticamente». Casa Verde sigue siendo útil para quienes quieren paneles solares, y algunos ayuntamientos ofrecen esquemas locales complementarios.
+
+## Los documentos necesarios para el expediente
+
+La documentación varía de una sesión a otra, pero en general se necesita un documento de identidad, el extracto del registro de la propiedad que acredite la titularidad, el certificado de atestación fiscal (sin deudas con el presupuesto estatal y local), una oferta detallada de una empresa autorizada y, en muchos casos, un certificado de eficiencia energética del edificio. Para entender cómo se integran las ventanas en la evaluación energética, puedes leer [Qué coeficiente térmico deben tener las ventanas](/es/blog/que-coeficiente-termico-deben-tener-las-ventanas).
+
+## Cómo prepararte con antelación
+
+Las sesiones de inscripción tienen fondos limitados y pueden agotarse rápidamente. La recomendación práctica es tener la documentación lista antes de la apertura de la convocatoria y una oferta técnica válida de un proveedor autorizado. Una oferta correcta incluye las especificaciones técnicas de la carpintería propuesta — el coeficiente Uw, el tipo de vidrio, el perfil — para que el auditor pueda calcular la reducción de consumo. Si deseas una estimación de la inversión antes de solicitar, consulta [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026).
+
+> Atención: los gastos realizados antes de firmar el contrato de financiación generalmente no son elegibles para reembolso. Espera la aprobación oficial antes de iniciar las obras.
+
+## FAQ — Subvenciones ventanas 2026
+
+### ¿Qué programa cubre el cambio de ventanas en 2026?
+El programa principal es PNRR «Casa Eficiente Energéticamente» (RePowerEU), que financia directamente la sustitución de la carpintería exterior por carpintería termoaislante, con bonos de hasta unos 72.500 lei y financiación de hasta el 100% de los costes elegibles.
+
+### ¿Casa Verde cubre el cambio de ventanas?
+No directamente. El programa Casa Verde Fotovoltaica se dirige a los paneles solares, y Casa Verde Plus se refiere al aislamiento con materiales orgánicos. Para ventanas, el programa adecuado es PNRR «Casa Eficiente Energéticamente».
+
+### ¿Cuánto puedo obtener para la renovación energética de mi casa?
+Para un edificio residencial unifamiliar, el valor no reembolsable se fijó en torno a 20.200 EUR (unos 100.513 lei), con una tasa de financiación que puede alcanzar el 100% de los costes elegibles, según el eje y las condiciones de la sesión.
+
+### ¿Qué condición debe cumplir la renovación?
+La renovación debe garantizar una reducción de al menos el 30% del consumo de energía de la vivienda. La sustitución de las ventanas viejas por carpintería termoaislante de alto rendimiento contribuye significativamente a alcanzar este objetivo.
+
+### ¿Puedo combinar varios programas?
+No puedes recibir financiación dos veces por la misma obra mediante diferentes ejes del mismo programa. Sin embargo, bajo ciertas condiciones, puedes combinar la financiación de renovación con esquemas locales o créditos verdes bancarios para la parte no contratada.
+
+---
+
+Neofort BIZ suministra e instala carpintería termoaislante de PVC Salamander y aluminio Alumil, conforme a los requisitos de eficiencia energética, en Bucarest e Ilfov. [Solicita un presupuesto para tu proyecto](/es/contacto).`,
+      it: `Molti proprietari a Bucarest e Ilfov rimandano la sostituzione delle finestre perché presumono di dover sostenere da soli l'intero costo. Nel 2026, tuttavia, esistono programmi di finanziamento reali attraverso i quali lo Stato e i fondi europei coprono una parte importante — a volte persino il 100% — del costo dei serramenti termoisolanti. Il programma più rilevante per la sostituzione delle finestre è il PNRR «Casa Efficiente dal Punto di Vista Energetico» (RePowerEU). Questa guida spiega esattamente quale programma copre le finestre, quali importi puoi ottenere e come si combina con gli altri schemi di sostegno.
+
+## Il programma che finanzia effettivamente la sostituzione delle finestre nel 2026
+
+Il programma principale che copre la sostituzione dei serramenti esterni è il **PNRR — Programma Nazionale «Casa Efficiente dal Punto di Vista Energetico»**, parte della componente RePowerEU. A differenza di Casa Verde (che si rivolge ai pannelli fotovoltaici), questo programma finanzia direttamente la ristrutturazione energetica dell'involucro dell'abitazione — inclusa la sostituzione delle finestre e porte esterne con serramenti termoisolanti ad alte prestazioni.
+
+Il valore del voucher può raggiungere circa **72.500 lei per abitazione**, e per un edificio residenziale unifamiliare il valore non rimborsabile è stato fissato intorno a **20.200 EUR (circa 100.513 lei)**. Il tasso di finanziamento può raggiungere il **100% dei costi ammissibili**, il che significa che in certe situazioni il beneficiario non deve contribuire con nulla ai lavori ammissibili.
+
+> Condizione essenziale: la ristrutturazione deve garantire una riduzione di almeno il 30% del consumo energetico dell'abitazione. La sostituzione delle vecchie finestre con serramenti termoisolanti ad alte prestazioni contribuisce significativamente al raggiungimento di questa soglia.
+
+## PNRR «Casa Efficiente dal Punto di Vista Energetico» — i due assi
+
+Il programma è strutturato secondo due assi, in base al profilo del beneficiario:
+
+| Asse | A chi si rivolge | Cosa copre |
+|---|---|---|
+| Asse 1 | Persone vulnerabili dal punto di vista energetico | Ristrutturazione energetica + sistema fotovoltaico opzionale |
+| Asse 2 | Privati, edifici unifamiliari | Ristrutturazione energetica dell'abitazione (involucro, finestre, isolamento) |
+
+Un beneficiario può essere finanziato solo attraverso uno dei due assi, per rispettare il principio di evitare il doppio finanziamento. I lavori ammissibili includono l'isolamento termico di pareti e facciata, la sostituzione dei serramenti esterni con serramenti termoisolanti (finestre e porte), nonché altri interventi che aumentano l'efficienza energetica.
+
+## Il ruolo di ciascun programma di finanziamento
+
+C'è frequente confusione tra i programmi. Ecco, in breve, a cosa serve ciascuno:
+
+| Programma | Scopo principale | Copre le finestre? |
+|---|---|---|
+| PNRR «Casa Efficiente Energeticamente» | Ristrutturazione energetica dell'involucro | Sì — direttamente |
+| Casa Verde Fotovoltaico | Pannelli fotovoltaici | No |
+| Casa Verde Plus | Isolamento con materiali organici | Indirettamente (isolamento, non finestre) |
+| Programmi locali (comuni) | Variabile, efficienza energetica | A volte, a seconda della località |
+
+La conclusione pratica: se il tuo obiettivo è la **sostituzione delle finestre**, il programma da seguire è PNRR «Casa Efficiente dal Punto di Vista Energetico». Casa Verde resta utile per chi desidera pannelli solari, e alcuni comuni offrono schemi locali complementari.
+
+## I documenti necessari per la pratica
+
+La documentazione varia da sessione a sessione, ma in generale servono un documento d'identità, l'estratto del registro fondiario che attesta la proprietà, il certificato di attestazione fiscale (senza debiti verso il bilancio statale e locale), un'offerta dettagliata di un'azienda autorizzata e, in molti casi, un certificato di prestazione energetica dell'edificio. Per capire come le finestre si integrano nella valutazione energetica, puoi leggere [Quale coefficiente termico devono avere le finestre](/it/blog/quale-coefficiente-termico-devono-avere-le-finestre).
+
+## Come prepararsi in anticipo
+
+Le sessioni di iscrizione dispongono di fondi limitati e possono esaurirsi rapidamente. La raccomandazione pratica è di avere la documentazione pronta prima dell'apertura del bando e un'offerta tecnica valida da un fornitore autorizzato. Un'offerta corretta include le specifiche tecniche dei serramenti proposti — il coefficiente Uw, il tipo di vetro, il profilo — affinché l'auditor possa calcolare la riduzione del consumo. Se desideri una stima dell'investimento prima di presentare domanda, vedi [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026).
+
+> Attenzione: le spese sostenute prima della firma del contratto di finanziamento generalmente non sono ammissibili al rimborso. Attendi l'approvazione ufficiale prima di iniziare i lavori.
+
+## FAQ — Incentivi finestre 2026
+
+### Quale programma copre la sostituzione delle finestre nel 2026?
+Il programma principale è PNRR «Casa Efficiente dal Punto di Vista Energetico» (RePowerEU), che finanzia direttamente la sostituzione dei serramenti esterni con serramenti termoisolanti, con voucher fino a circa 72.500 lei e finanziamento fino al 100% dei costi ammissibili.
+
+### Casa Verde copre la sostituzione delle finestre?
+Non direttamente. Il programma Casa Verde Fotovoltaico si rivolge ai pannelli solari, e Casa Verde Plus riguarda l'isolamento con materiali organici. Per le finestre, il programma adeguato è PNRR «Casa Efficiente dal Punto di Vista Energetico».
+
+### Quanto posso ottenere per la ristrutturazione energetica della mia casa?
+Per un edificio residenziale unifamiliare, il valore non rimborsabile è stato fissato intorno a 20.200 EUR (circa 100.513 lei), con un tasso di finanziamento che può raggiungere il 100% dei costi ammissibili, a seconda dell'asse e delle condizioni della sessione.
+
+### Quale condizione deve soddisfare la ristrutturazione?
+La ristrutturazione deve garantire una riduzione di almeno il 30% del consumo energetico dell'abitazione. La sostituzione delle vecchie finestre con serramenti termoisolanti ad alte prestazioni contribuisce significativamente al raggiungimento di questo obiettivo.
+
+### Posso combinare più programmi?
+Non puoi essere finanziato due volte per lo stesso lavoro attraverso assi diversi dello stesso programma. Tuttavia, a determinate condizioni, puoi combinare il finanziamento di ristrutturazione con schemi locali o prestiti bancari verdi per la parte non contrattualizzata.
+
+---
+
+Neofort BIZ fornisce e installa serramenti termoisolanti in PVC Salamander e alluminio Alumil, conformi ai requisiti di efficienza energetica, a Bucarest e Ilfov. [Richiedi un preventivo per il tuo progetto](/it/contatti).`
+    },
+  },
+  {
+    slugs: {ro:"autorizatie-construire-schimbare-ferestre-apartament-casa-2026",en:"building-permit-window-replacement-apartment-house-2026",de:"baugenehmigung-fenstertausch-wohnung-haus-2026",fr:"permis-construire-remplacement-fenetres-appartement-maison-2026",es:"permiso-construccion-cambio-ventanas-apartamento-casa-2026",it:"permesso-costruire-sostituzione-finestre-appartamento-casa-2026"},
+    date: "2026-06-16",
+    author: "Mihai Dănălache",
+    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorPhoto: "/team/mihai-danalache.avif",
+    accentColor: "#8a5a1b",
+    image: {ro:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif",en:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif",de:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif",fr:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif",es:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif",it:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif"},
+    imageOg: "/blog/autorizatie-construire-schimbare-ferestre-2026-og.jpg",
+    imageBg: "linear-gradient(135deg,#2a1c0a 0%,#5c3e15 60%,#2a1c0a 100%)",
+    imageLabel: "Proprietar cu dosar de autorizație de construire în fața unui bloc, ilustrând întrebarea dacă e nevoie de autorizație pentru schimbarea ferestrelor în 2026",
+    readTime: {ro:"7 min citire",en:"7 min read",de:"7 Min.",fr:"7 min",es:"7 min",it:"7 min"},
+    category: {ro:"Legislație",en:"Legislation",de:"Gesetzgebung",fr:"Législation",es:"Legislación",it:"Legislazione"},
+    title: {ro:"Am nevoie de autorizație de construire ca să schimb ferestrele în 2026? Ce spune Legea 50/1991",en:"Do I need a building permit to replace windows in 2026? What Law 50/1991 says",de:"Brauche ich 2026 eine Baugenehmigung für den Fenstertausch? Was das Gesetz 50/1991 sagt",fr:"Ai-je besoin d’un permis de construire pour remplacer les fenêtres en 2026 ? Ce que dit la loi 50/1991",es:"¿Necesito permiso de construcción para cambiar las ventanas en 2026? Qué dice la ley 50/1991",it:"Ho bisogno di un permesso di costruire per sostituire le finestre nel 2026? Cosa dice la legge 50/1991"},
+    metaDesc: {ro:"Ai nevoie de autorizație de construire ca să schimbi ferestrele la apartament sau casă în 2026? În general nu, dacă păstrezi dimensiunile golurilor. Află când e obligatorie autorizația, excepțiile și amenzile (1.000–100.000 lei) conform Legii 50/1991.",en:"Do you need a building permit to replace windows in your apartment or house in 2026? Generally no, if you keep the opening dimensions. Find out when the permit is mandatory, the exceptions and the fines (1,000–100,000 lei) under Law 50/1991.",de:"Brauchen Sie 2026 eine Baugenehmigung für den Fenstertausch in Wohnung oder Haus? In der Regel nein, wenn Sie die Öffnungsmaße beibehalten. Erfahren Sie, wann die Genehmigung verpflichtend ist, die Ausnahmen und die Bußgelder nach Gesetz 50/1991.",fr:"Avez-vous besoin d’un permis de construire pour remplacer les fenêtres de votre appartement ou maison en 2026 ? En général non, si vous gardez les dimensions des ouvertures. Découvrez quand le permis est obligatoire, les exceptions et les amendes selon la loi 50/1991.",es:"¿Necesitas permiso de construcción para cambiar las ventanas de tu apartamento o casa en 2026? En general no, si conservas las dimensiones de los huecos. Descubre cuándo es obligatorio el permiso, las excepciones y las multas según la ley 50/1991.",it:"Hai bisogno di un permesso di costruire per sostituire le finestre del tuo appartamento o casa nel 2026? In generale no, se conservi le dimensioni delle aperture. Scopri quando il permesso è obbligatorio, le eccezioni e le multe secondo la legge 50/1991."},
+    excerpt: {ro:"În majoritatea cazurilor, înlocuirea ferestrelor nu necesită autorizație de construire. Ghid clar despre când poți schimba ferestrele liber, când devine obligatorie autorizația, ce înseamnă modificarea fațadei și ce amenzi riști conform Legii 50/1991.",en:"In most cases, replacing windows does not require a building permit. A clear guide on when you can replace windows freely, when the permit becomes mandatory, what façade modification means and what fines you risk under Law 50/1991.",de:"In den meisten Fällen erfordert der Fenstertausch keine Baugenehmigung. Ein klarer Leitfaden, wann Sie Fenster frei austauschen können, wann die Genehmigung verpflichtend wird und welche Bußgelder Sie nach Gesetz 50/1991 riskieren.",fr:"Dans la plupart des cas, le remplacement des fenêtres ne nécessite pas de permis de construire. Un guide clair sur quand vous pouvez remplacer les fenêtres librement, quand le permis devient obligatoire et quelles amendes vous risquez selon la loi 50/1991.",es:"En la mayoría de los casos, la sustitución de ventanas no requiere permiso de construcción. Una guía clara sobre cuándo puedes cambiar las ventanas libremente, cuándo es obligatorio el permiso y qué multas arriesgas según la ley 50/1991.",it:"Nella maggior parte dei casi, la sostituzione delle finestre non richiede un permesso di costruire. Una guida chiara su quando puoi sostituire le finestre liberamente, quando il permesso diventa obbligatorio e quali multe rischi secondo la legge 50/1991."},
+    dateDisplay: {ro:"16 iunie 2026",en:"June 16 2026",de:"16. Juni 2026",fr:"16 juin 2026",es:"16 jun 2026",it:"16 giu 2026"},
+    content: {
+      ro: `Una dintre cele mai frecvente întrebări înainte de a schimba ferestrele este dacă ai nevoie de autorizație de construire. Vestea bună: în majoritatea cazurilor, înlocuirea ferestrelor existente NU necesită autorizație. Există însă situații concrete în care autorizația devine obligatorie, iar lucrul fără ea poate atrage amenzi între 1.000 și 100.000 lei. Acest ghid îți explică, pe baza Legii 50/1991, când poți schimba ferestrele liber și când ai nevoie de aprobare.
+
+## Regula generală: înlocuirea identică nu necesită autorizație
+
+Conform articolului 11 din Legea 50/1991, reparațiile și înlocuirile de tâmplărie interioară și exterioară se pot face **fără autorizație de construire**, dacă se păstrează forma, dimensiunile golurilor și ale tâmplăriei. Acest lucru rămâne valabil chiar dacă se schimbă materialul — de exemplu, înlocuiești ferestre vechi din lemn cu ferestre PVC sau aluminiu — atâta timp cât golul din zid și dimensiunile rămân aceleași.
+
+Practic, dacă scoți o fereastră veche și montezi una nouă de aceleași dimensiuni, în același gol, fără să modifici zidăria, ești în regulă și nu trebuie să ceri nimic primăriei.
+
+> Excepție importantă: regula nu se aplică clădirilor declarate monumente istorice sau aflate în zone protejate. Acolo, orice intervenție necesită autorizație și avize speciale.
+
+## Când AI nevoie de autorizație de construire
+
+Autorizația devine obligatorie atunci când lucrarea depășește simpla înlocuire identică. Situațiile principale:
+
+| Situație | Autorizație necesară? |
+|---|---|
+| Înlocuire fereastră identică, același gol | Nu |
+| Modificarea dimensiunii golului (mărire/micșorare) | Da |
+| Schimbarea formei sau configurației ferestrei | Da |
+| Modificarea aspectului fațadei (culoare, împărțire) | Da |
+| Închiderea unui balcon sau a unei logii | Da |
+| Clădire monument istoric / zonă protejată | Da |
+| Adăugarea unui balcon sau a unei terase | Da |
+
+Motivul este că aceste lucrări afectează fie structura de rezistență, fie aspectul arhitectural al clădirii — două aspecte pe care legea le protejează expres.
+
+## Ce înseamnă „modificarea fațadei"
+
+Multe persoane nu realizează că schimbarea culorii tâmplăriei sau a modului de împărțire a ferestrelor poate constitui o modificare a fațadei. Dacă blocul tău are ferestre albe și tu montezi ferestre antracit, sau dacă schimbi o fereastră cu două canate cu una cu trei canate, modifici aspectul fațadei. La bloc, acest aspect ține și de regulamentul asociației de proprietari, care poate impune păstrarea unui aspect unitar.
+
+Pentru a evita problemele, înainte de a alege culoarea sau configurația, verifică regulamentul asociației și, dacă ai dubii, cere un certificat de urbanism de la primărie — acesta îți spune exact ce e permis.
+
+## Procedura, dacă autorizația este necesară
+
+Când autorizația e obligatorie, pașii generali sunt: obținerea certificatului de urbanism de la primărie (în maximum 30 de zile), pregătirea documentației tehnice (DTAC) de către un proiectant, obținerea avizelor cerute prin certificatul de urbanism și depunerea dosarului. Conform OUG 31/2025, autoritățile au obligația de a răspunde în maximum 15 zile pentru autorizațiile de construire, cu excepții pentru avize speciale (mediu, monumente istorice).
+
+## Riscurile lucrului fără autorizație
+
+Dacă execuți lucrări pentru care autorizația era obligatorie, Legea 50/1991 prevede amenzi între **1.000 și 100.000 lei**. În plus, autoritățile pot dispune oprirea lucrărilor și intrarea în legalitate. În cazul clădirilor monument istoric, intervențiile neautorizate pot fi considerate chiar infracțiuni. La vânzarea ulterioară a locuinței, lipsa documentelor poate bloca tranzacția la notar.
+
+> Orice persoană — nu doar vecinii — poate sesiza primăria sau Inspectoratul de Stat în Construcții cu privire la lucrări neautorizate.
+
+## FAQ — Autorizație schimbare ferestre
+
+### Am nevoie de autorizație ca să schimb ferestrele la apartament?
+În general nu, dacă păstrezi forma și dimensiunile golurilor și ale tâmplăriei. Conform Legii 50/1991, înlocuirea identică a ferestrelor este o lucrare permisă fără autorizație, chiar dacă schimbi materialul. Excepție fac clădirile monument istoric și cele din zone protejate.
+
+### Când devine obligatorie autorizația de construire pentru ferestre?
+Când modifici dimensiunea golului, forma ferestrei, aspectul fațadei (culoare, împărțire), când închizi un balcon sau adaugi o terasă, ori dacă locuința este monument istoric sau în zonă protejată.
+
+### Schimbarea culorii ferestrelor afectează fațada?
+Da, schimbarea culorii tâmplăriei sau a configurației ferestrelor poate fi considerată modificare a aspectului fațadei, care necesită autorizație. La bloc, ține și de regulamentul asociației de proprietari privind aspectul unitar.
+
+### Ce amendă risc dacă schimb ferestrele fără autorizație când era necesară?
+Legea 50/1991 prevede amenzi între 1.000 și 100.000 lei pentru lucrări executate fără autorizație, când aceasta era obligatorie, plus oprirea lucrărilor și obligația de intrare în legalitate.
+
+### Trebuie să anunț asociația de proprietari?
+Pentru înlocuirea identică nu este o obligație legală, dar este recomandat. Pentru lucrări care afectează fațada sau părțile comune, acordul asociației poate fi necesar conform regulamentului acesteia.
+
+---
+
+Neofort BIZ montează tâmplărie PVC Salamander și aluminiu Alumil în București și Ilfov, respectând dimensiunile golurilor existente acolo unde nu se dorește autorizație. [Solicită o evaluare gratuită la fața locului](/ro/contact).`,
+      en: `One of the most frequent questions before replacing windows is whether you need a building permit. The good news: in most cases, replacing existing windows does NOT require a permit. There are, however, concrete situations in which the permit becomes mandatory, and working without one can attract fines between 1,000 and 100,000 lei. This guide explains, based on Romania's Law 50/1991, when you can replace windows freely and when you need approval.
+
+## The general rule: identical replacement requires no permit
+
+According to Article 11 of Law 50/1991, repairs and replacements of interior and exterior joinery can be done **without a building permit**, provided the shape and dimensions of the openings and joinery are preserved. This remains valid even if the material changes — for example, replacing old wooden windows with PVC or aluminium windows — as long as the wall opening and dimensions stay the same.
+
+In practice, if you remove an old window and install a new one of the same dimensions, in the same opening, without modifying the masonry, you are fine and do not need to ask the city hall for anything.
+
+> Important exception: the rule does not apply to buildings declared historical monuments or located in protected areas. There, any intervention requires a permit and special approvals.
+
+## When you DO need a building permit
+
+The permit becomes mandatory when the work goes beyond a simple identical replacement. The main situations:
+
+| Situation | Permit required? |
+|---|---|
+| Identical window replacement, same opening | No |
+| Modifying the opening size (enlarging/reducing) | Yes |
+| Changing the shape or configuration of the window | Yes |
+| Modifying the façade appearance (colour, division) | Yes |
+| Enclosing a balcony or loggia | Yes |
+| Historical monument building / protected area | Yes |
+| Adding a balcony or terrace | Yes |
+
+The reason is that these works affect either the load-bearing structure or the architectural appearance of the building — two aspects the law expressly protects.
+
+## What "modifying the façade" means
+
+Many people do not realise that changing the colour of the joinery or the way the windows are divided can constitute a façade modification. If your block has white windows and you install anthracite windows, or if you replace a two-sash window with a three-sash one, you change the façade appearance. In a block, this also relates to the owners' association regulations, which may require a unified appearance to be maintained.
+
+To avoid problems, before choosing the colour or configuration, check the association regulations and, if in doubt, request an urbanism certificate from the city hall — it tells you exactly what is allowed.
+
+## The procedure, if a permit is required
+
+When a permit is mandatory, the general steps are: obtaining the urbanism certificate from the city hall (within 30 days), preparing the technical documentation (DTAC) by a designer, obtaining the approvals required by the urbanism certificate and submitting the file. According to Emergency Ordinance 31/2025, authorities are obliged to respond within 15 days for building permits, with exceptions for special approvals (environment, historical monuments).
+
+## The risks of working without a permit
+
+If you carry out works for which a permit was mandatory, Law 50/1991 provides fines between **1,000 and 100,000 lei**. In addition, authorities can order the works to stop and require legalisation. In the case of historical monument buildings, unauthorised interventions can even be considered offences. When the home is later sold, the lack of documents can block the transaction at the notary.
+
+> Any person — not just neighbours — can notify the city hall or the State Construction Inspectorate about unauthorised works.
+
+## FAQ — Window replacement permit
+
+### Do I need a permit to replace the windows in my apartment?
+Generally no, if you preserve the shape and dimensions of the openings and joinery. According to Law 50/1991, identical window replacement is permitted without a permit, even if you change the material. Exceptions are historical monument buildings and those in protected areas.
+
+### When does a building permit become mandatory for windows?
+When you modify the opening size, the window shape, the façade appearance (colour, division), when you enclose a balcony or add a terrace, or if the home is a historical monument or in a protected area.
+
+### Does changing the window colour affect the façade?
+Yes, changing the colour of the joinery or the configuration of the windows can be considered a modification of the façade appearance, which requires a permit. In a block, it also relates to the owners' association regulations on unified appearance.
+
+### What fine do I risk if I replace windows without a permit when one was required?
+Law 50/1991 provides fines between 1,000 and 100,000 lei for works carried out without a permit, when one was mandatory, plus stopping the works and the obligation to legalise.
+
+### Must I notify the owners' association?
+For identical replacement it is not a legal obligation, but it is recommended. For works that affect the façade or common areas, the association's approval may be required according to its regulations.
+
+---
+
+Neofort BIZ installs Salamander PVC and Alumil aluminium joinery in Bucharest and Ilfov, respecting existing opening dimensions where a permit is not desired. [Request a free on-site assessment](/en/contact).`,
+      de: `Eine der häufigsten Fragen vor dem Fenstertausch ist, ob man eine Baugenehmigung benötigt. Die gute Nachricht: In den meisten Fällen erfordert der Austausch bestehender Fenster KEINE Genehmigung. Es gibt jedoch konkrete Situationen, in denen die Genehmigung verpflichtend wird, und Arbeiten ohne sie können Bußgelder zwischen 1.000 und 100.000 Lei nach sich ziehen. Dieser Leitfaden erklärt anhand des rumänischen Gesetzes 50/1991, wann Sie Fenster frei austauschen können und wann Sie eine Genehmigung benötigen.
+
+## Die allgemeine Regel: identischer Austausch erfordert keine Genehmigung
+
+Gemäß Artikel 11 des Gesetzes 50/1991 können Reparaturen und der Austausch von Innen- und Außenfenstern **ohne Baugenehmigung** durchgeführt werden, sofern Form und Abmessungen der Öffnungen und der Fenster erhalten bleiben. Dies gilt auch, wenn sich das Material ändert — zum Beispiel der Austausch alter Holzfenster durch PVC- oder Aluminiumfenster — solange die Wandöffnung und die Abmessungen gleich bleiben.
+
+In der Praxis: Wenn Sie ein altes Fenster entfernen und ein neues mit gleichen Abmessungen in dieselbe Öffnung einbauen, ohne das Mauerwerk zu verändern, ist alles in Ordnung und Sie müssen beim Rathaus nichts beantragen.
+
+> Wichtige Ausnahme: Die Regel gilt nicht für Gebäude, die als historische Denkmäler erklärt wurden oder in geschützten Bereichen liegen. Dort erfordert jeder Eingriff eine Genehmigung und besondere Zustimmungen.
+
+## Wann Sie eine Baugenehmigung BENÖTIGEN
+
+Die Genehmigung wird verpflichtend, wenn die Arbeit über einen einfachen identischen Austausch hinausgeht. Die wichtigsten Situationen:
+
+| Situation | Genehmigung erforderlich? |
+|---|---|
+| Identischer Fensteraustausch, gleiche Öffnung | Nein |
+| Änderung der Öffnungsgröße (Vergrößerung/Verkleinerung) | Ja |
+| Änderung der Form oder Konfiguration des Fensters | Ja |
+| Änderung des Fassadenbildes (Farbe, Aufteilung) | Ja |
+| Verglasung eines Balkons oder einer Loggia | Ja |
+| Denkmalgeschütztes Gebäude / geschützter Bereich | Ja |
+| Hinzufügen eines Balkons oder einer Terrasse | Ja |
+
+Der Grund ist, dass diese Arbeiten entweder die tragende Struktur oder das architektonische Erscheinungsbild des Gebäudes betreffen — zwei Aspekte, die das Gesetz ausdrücklich schützt.
+
+## Was „Änderung der Fassade" bedeutet
+
+Viele Menschen erkennen nicht, dass die Änderung der Fensterfarbe oder der Fensteraufteilung eine Fassadenänderung darstellen kann. Wenn Ihr Block weiße Fenster hat und Sie anthrazitfarbene Fenster einbauen, oder wenn Sie ein zweiflügeliges Fenster durch ein dreiflügeliges ersetzen, ändern Sie das Fassadenbild. Im Mehrfamilienhaus betrifft dies auch die Hausordnung der Eigentümergemeinschaft, die ein einheitliches Erscheinungsbild vorschreiben kann.
+
+Um Probleme zu vermeiden, prüfen Sie vor der Wahl von Farbe oder Konfiguration die Vereinsordnung und beantragen Sie im Zweifelsfall eine Urbanismusbescheinigung beim Rathaus — diese sagt Ihnen genau, was erlaubt ist.
+
+## Das Verfahren, falls eine Genehmigung erforderlich ist
+
+Wenn eine Genehmigung verpflichtend ist, sind die allgemeinen Schritte: Einholen der Urbanismusbescheinigung beim Rathaus (innerhalb von 30 Tagen), Erstellung der technischen Dokumentation (DTAC) durch einen Planer, Einholen der durch die Urbanismusbescheinigung erforderlichen Zustimmungen und Einreichung des Antrags. Gemäß der Eilverordnung 31/2025 sind die Behörden verpflichtet, innerhalb von 15 Tagen für Baugenehmigungen zu antworten, mit Ausnahmen für besondere Zustimmungen (Umwelt, historische Denkmäler).
+
+## Die Risiken des Arbeitens ohne Genehmigung
+
+Wenn Sie Arbeiten durchführen, für die eine Genehmigung verpflichtend war, sieht das Gesetz 50/1991 Bußgelder zwischen **1.000 und 100.000 Lei** vor. Zusätzlich können die Behörden den Stopp der Arbeiten und die Legalisierung anordnen. Bei denkmalgeschützten Gebäuden können nicht genehmigte Eingriffe sogar als Straftaten gewertet werden. Beim späteren Verkauf des Hauses kann das Fehlen der Unterlagen die Transaktion beim Notar blockieren.
+
+> Jede Person — nicht nur Nachbarn — kann das Rathaus oder die staatliche Bauaufsicht über nicht genehmigte Arbeiten informieren.
+
+## FAQ — Genehmigung Fenstertausch
+
+### Brauche ich eine Genehmigung, um die Fenster in meiner Wohnung auszutauschen?
+Im Allgemeinen nein, wenn Sie Form und Abmessungen der Öffnungen und Fenster erhalten. Gemäß Gesetz 50/1991 ist der identische Fensteraustausch ohne Genehmigung erlaubt, auch wenn Sie das Material ändern. Ausnahmen sind denkmalgeschützte Gebäude und solche in geschützten Bereichen.
+
+### Wann wird eine Baugenehmigung für Fenster verpflichtend?
+Wenn Sie die Öffnungsgröße, die Fensterform, das Fassadenbild (Farbe, Aufteilung) ändern, wenn Sie einen Balkon verglasen oder eine Terrasse hinzufügen, oder wenn das Haus ein historisches Denkmal oder in einem geschützten Bereich ist.
+
+### Wirkt sich die Änderung der Fensterfarbe auf die Fassade aus?
+Ja, die Änderung der Fensterfarbe oder der Fensterkonfiguration kann als Änderung des Fassadenbildes gewertet werden, was eine Genehmigung erfordert. Im Mehrfamilienhaus betrifft es auch die Hausordnung der Eigentümergemeinschaft zum einheitlichen Erscheinungsbild.
+
+### Welches Bußgeld riskiere ich, wenn ich Fenster ohne erforderliche Genehmigung austausche?
+Das Gesetz 50/1991 sieht Bußgelder zwischen 1.000 und 100.000 Lei für ohne Genehmigung durchgeführte Arbeiten vor, wenn diese verpflichtend war, plus Stopp der Arbeiten und Legalisierungspflicht.
+
+### Muss ich die Eigentümergemeinschaft informieren?
+Für den identischen Austausch ist es keine gesetzliche Pflicht, aber empfehlenswert. Für Arbeiten, die die Fassade oder Gemeinschaftsbereiche betreffen, kann die Zustimmung der Gemeinschaft gemäß ihrer Ordnung erforderlich sein.
+
+---
+
+Neofort BIZ montiert Fenster aus Salamander-PVC und Alumil-Aluminium in Bukarest und Ilfov und behält dort die bestehenden Öffnungsmaße bei, wo keine Genehmigung gewünscht ist. [Fordern Sie eine kostenlose Vor-Ort-Bewertung an](/de/kontakt).`,
+      fr: `L'une des questions les plus fréquentes avant de remplacer les fenêtres est de savoir si vous avez besoin d'un permis de construire. La bonne nouvelle : dans la plupart des cas, le remplacement des fenêtres existantes NE nécessite PAS de permis. Il existe cependant des situations concrètes où le permis devient obligatoire, et travailler sans lui peut entraîner des amendes entre 1 000 et 100 000 lei. Ce guide explique, sur la base de la loi roumaine 50/1991, quand vous pouvez remplacer les fenêtres librement et quand vous avez besoin d'une autorisation.
+
+## La règle générale : le remplacement identique ne nécessite pas de permis
+
+Selon l'article 11 de la loi 50/1991, les réparations et remplacements de menuiserie intérieure et extérieure peuvent se faire **sans permis de construire**, à condition de conserver la forme et les dimensions des ouvertures et de la menuiserie. Cela reste valable même si le matériau change — par exemple, remplacer d'anciennes fenêtres en bois par des fenêtres PVC ou aluminium — tant que l'ouverture dans le mur et les dimensions restent les mêmes.
+
+En pratique, si vous retirez une ancienne fenêtre et installez une nouvelle de mêmes dimensions, dans la même ouverture, sans modifier la maçonnerie, tout est en ordre et vous n'avez rien à demander à la mairie.
+
+> Exception importante : la règle ne s'applique pas aux bâtiments déclarés monuments historiques ou situés dans des zones protégées. Là, toute intervention nécessite un permis et des avis spéciaux.
+
+## Quand vous AVEZ besoin d'un permis de construire
+
+Le permis devient obligatoire lorsque les travaux dépassent un simple remplacement identique. Les principales situations :
+
+| Situation | Permis nécessaire ? |
+|---|---|
+| Remplacement de fenêtre identique, même ouverture | Non |
+| Modification de la taille de l'ouverture (agrandissement/réduction) | Oui |
+| Changement de la forme ou configuration de la fenêtre | Oui |
+| Modification de l'aspect de la façade (couleur, division) | Oui |
+| Fermeture d'un balcon ou d'une loggia | Oui |
+| Bâtiment monument historique / zone protégée | Oui |
+| Ajout d'un balcon ou d'une terrasse | Oui |
+
+La raison est que ces travaux affectent soit la structure porteuse, soit l'aspect architectural du bâtiment — deux aspects que la loi protège expressément.
+
+## Ce que signifie « modifier la façade »
+
+Beaucoup de personnes ne réalisent pas que changer la couleur de la menuiserie ou la façon dont les fenêtres sont divisées peut constituer une modification de façade. Si votre immeuble a des fenêtres blanches et que vous installez des fenêtres anthracite, ou si vous remplacez une fenêtre à deux vantaux par une à trois vantaux, vous modifiez l'aspect de la façade. En immeuble, cela relève aussi du règlement de l'association de copropriétaires, qui peut imposer le maintien d'un aspect unitaire.
+
+Pour éviter les problèmes, avant de choisir la couleur ou la configuration, vérifiez le règlement de l'association et, en cas de doute, demandez un certificat d'urbanisme à la mairie — il vous dit exactement ce qui est permis.
+
+## La procédure, si un permis est nécessaire
+
+Lorsqu'un permis est obligatoire, les étapes générales sont : l'obtention du certificat d'urbanisme auprès de la mairie (sous 30 jours), la préparation de la documentation technique (DTAC) par un concepteur, l'obtention des avis requis par le certificat d'urbanisme et le dépôt du dossier. Selon l'ordonnance d'urgence 31/2025, les autorités sont tenues de répondre sous 15 jours pour les permis de construire, avec des exceptions pour les avis spéciaux (environnement, monuments historiques).
+
+## Les risques de travailler sans permis
+
+Si vous réalisez des travaux pour lesquels un permis était obligatoire, la loi 50/1991 prévoit des amendes entre **1 000 et 100 000 lei**. De plus, les autorités peuvent ordonner l'arrêt des travaux et la régularisation. Dans le cas des bâtiments monuments historiques, les interventions non autorisées peuvent même être considérées comme des infractions. Lors de la vente ultérieure du logement, l'absence de documents peut bloquer la transaction chez le notaire.
+
+> Toute personne — pas seulement les voisins — peut signaler à la mairie ou à l'Inspection d'État des Constructions des travaux non autorisés.
+
+## FAQ — Permis remplacement fenêtres
+
+### Ai-je besoin d'un permis pour remplacer les fenêtres de mon appartement ?
+En général non, si vous conservez la forme et les dimensions des ouvertures et de la menuiserie. Selon la loi 50/1991, le remplacement identique des fenêtres est permis sans permis, même si vous changez le matériau. Les exceptions sont les bâtiments monuments historiques et ceux en zones protégées.
+
+### Quand un permis de construire devient-il obligatoire pour les fenêtres ?
+Lorsque vous modifiez la taille de l'ouverture, la forme de la fenêtre, l'aspect de la façade (couleur, division), lorsque vous fermez un balcon ou ajoutez une terrasse, ou si le logement est un monument historique ou en zone protégée.
+
+### Changer la couleur des fenêtres affecte-t-il la façade ?
+Oui, changer la couleur de la menuiserie ou la configuration des fenêtres peut être considéré comme une modification de l'aspect de la façade, qui nécessite un permis. En immeuble, cela relève aussi du règlement de l'association de copropriétaires sur l'aspect unitaire.
+
+### Quelle amende est-ce que je risque si je remplace les fenêtres sans permis alors qu'il était nécessaire ?
+La loi 50/1991 prévoit des amendes entre 1 000 et 100 000 lei pour des travaux réalisés sans permis, lorsque celui-ci était obligatoire, plus l'arrêt des travaux et l'obligation de régularisation.
+
+### Dois-je informer l'association de copropriétaires ?
+Pour le remplacement identique ce n'est pas une obligation légale, mais c'est recommandé. Pour les travaux qui affectent la façade ou les parties communes, l'accord de l'association peut être requis selon son règlement.
+
+---
+
+Neofort BIZ installe de la menuiserie PVC Salamander et aluminium Alumil à Bucarest et Ilfov, en respectant les dimensions des ouvertures existantes là où aucun permis n'est souhaité. [Demandez une évaluation gratuite sur place](/fr/contact).`,
+      es: `Una de las preguntas más frecuentes antes de cambiar las ventanas es si necesitas un permiso de construcción. La buena noticia: en la mayoría de los casos, la sustitución de ventanas existentes NO requiere permiso. Sin embargo, hay situaciones concretas en las que el permiso se vuelve obligatorio, y trabajar sin él puede acarrear multas entre 1.000 y 100.000 lei. Esta guía explica, sobre la base de la ley rumana 50/1991, cuándo puedes cambiar las ventanas libremente y cuándo necesitas aprobación.
+
+## La regla general: la sustitución idéntica no requiere permiso
+
+Según el artículo 11 de la ley 50/1991, las reparaciones y sustituciones de carpintería interior y exterior pueden realizarse **sin permiso de construcción**, siempre que se conserven la forma y las dimensiones de los huecos y de la carpintería. Esto sigue siendo válido incluso si cambia el material — por ejemplo, sustituir ventanas viejas de madera por ventanas de PVC o aluminio — mientras el hueco en la pared y las dimensiones permanezcan iguales.
+
+En la práctica, si retiras una ventana vieja e instalas una nueva de las mismas dimensiones, en el mismo hueco, sin modificar la mampostería, está todo en orden y no tienes que pedir nada al ayuntamiento.
+
+> Excepción importante: la regla no se aplica a los edificios declarados monumentos históricos o situados en zonas protegidas. Allí, cualquier intervención requiere permiso y aprobaciones especiales.
+
+## Cuándo SÍ necesitas un permiso de construcción
+
+El permiso se vuelve obligatorio cuando la obra va más allá de una simple sustitución idéntica. Las principales situaciones:
+
+| Situación | ¿Permiso necesario? |
+|---|---|
+| Sustitución de ventana idéntica, mismo hueco | No |
+| Modificación del tamaño del hueco (ampliar/reducir) | Sí |
+| Cambio de la forma o configuración de la ventana | Sí |
+| Modificación del aspecto de la fachada (color, división) | Sí |
+| Cierre de un balcón o una galería | Sí |
+| Edificio monumento histórico / zona protegida | Sí |
+| Añadir un balcón o una terraza | Sí |
+
+La razón es que estas obras afectan ya sea a la estructura portante o al aspecto arquitectónico del edificio — dos aspectos que la ley protege expresamente.
+
+## Qué significa «modificar la fachada»
+
+Muchas personas no se dan cuenta de que cambiar el color de la carpintería o la forma en que se dividen las ventanas puede constituir una modificación de fachada. Si tu bloque tiene ventanas blancas e instalas ventanas antracita, o si sustituyes una ventana de dos hojas por una de tres hojas, modificas el aspecto de la fachada. En un bloque, esto también depende del reglamento de la comunidad de propietarios, que puede exigir mantener un aspecto unitario.
+
+Para evitar problemas, antes de elegir el color o la configuración, consulta el reglamento de la comunidad y, en caso de duda, solicita un certificado de urbanismo al ayuntamiento — este te dice exactamente qué está permitido.
+
+## El procedimiento, si el permiso es necesario
+
+Cuando un permiso es obligatorio, los pasos generales son: obtener el certificado de urbanismo del ayuntamiento (en un máximo de 30 días), preparar la documentación técnica (DTAC) por un proyectista, obtener las aprobaciones requeridas por el certificado de urbanismo y presentar el expediente. Según la ordenanza de urgencia 31/2025, las autoridades están obligadas a responder en un máximo de 15 días para los permisos de construcción, con excepciones para aprobaciones especiales (medio ambiente, monumentos históricos).
+
+## Los riesgos de trabajar sin permiso
+
+Si realizas obras para las que el permiso era obligatorio, la ley 50/1991 prevé multas entre **1.000 y 100.000 lei**. Además, las autoridades pueden ordenar la detención de las obras y la legalización. En el caso de edificios monumento histórico, las intervenciones no autorizadas pueden considerarse incluso delitos. En la venta posterior de la vivienda, la falta de documentos puede bloquear la transacción ante el notario.
+
+> Cualquier persona — no solo los vecinos — puede notificar al ayuntamiento o a la Inspección Estatal de Construcciones sobre obras no autorizadas.
+
+## FAQ — Permiso cambio de ventanas
+
+### ¿Necesito permiso para cambiar las ventanas de mi apartamento?
+En general no, si conservas la forma y las dimensiones de los huecos y de la carpintería. Según la ley 50/1991, la sustitución idéntica de ventanas está permitida sin permiso, incluso si cambias el material. Las excepciones son los edificios monumento histórico y los situados en zonas protegidas.
+
+### ¿Cuándo se vuelve obligatorio un permiso de construcción para las ventanas?
+Cuando modificas el tamaño del hueco, la forma de la ventana, el aspecto de la fachada (color, división), cuando cierras un balcón o añades una terraza, o si la vivienda es un monumento histórico o está en zona protegida.
+
+### ¿Cambiar el color de las ventanas afecta a la fachada?
+Sí, cambiar el color de la carpintería o la configuración de las ventanas puede considerarse una modificación del aspecto de la fachada, que requiere permiso. En un bloque, también depende del reglamento de la comunidad de propietarios sobre el aspecto unitario.
+
+### ¿Qué multa arriesgo si cambio las ventanas sin permiso cuando era necesario?
+La ley 50/1991 prevé multas entre 1.000 y 100.000 lei para obras realizadas sin permiso, cuando este era obligatorio, además de la detención de las obras y la obligación de legalizar.
+
+### ¿Debo informar a la comunidad de propietarios?
+Para la sustitución idéntica no es una obligación legal, pero es recomendable. Para obras que afecten a la fachada o a las zonas comunes, la aprobación de la comunidad puede ser necesaria según su reglamento.
+
+---
+
+Neofort BIZ instala carpintería de PVC Salamander y aluminio Alumil en Bucarest e Ilfov, respetando las dimensiones de los huecos existentes donde no se desea permiso. [Solicita una evaluación gratuita in situ](/es/contacto).`,
+      it: `Una delle domande più frequenti prima di sostituire le finestre è se serve un permesso di costruire. La buona notizia: nella maggior parte dei casi, la sostituzione delle finestre esistenti NON richiede un permesso. Esistono tuttavia situazioni concrete in cui il permesso diventa obbligatorio, e lavorare senza di esso può comportare multe tra 1.000 e 100.000 lei. Questa guida spiega, sulla base della legge rumena 50/1991, quando puoi sostituire le finestre liberamente e quando hai bisogno di un'approvazione.
+
+## La regola generale: la sostituzione identica non richiede permesso
+
+Secondo l'articolo 11 della legge 50/1991, le riparazioni e le sostituzioni di serramenti interni ed esterni possono essere effettuate **senza permesso di costruire**, a condizione di conservare la forma e le dimensioni delle aperture e dei serramenti. Questo resta valido anche se cambia il materiale — ad esempio, sostituire vecchie finestre in legno con finestre in PVC o alluminio — purché l'apertura nel muro e le dimensioni restino le stesse.
+
+In pratica, se rimuovi una vecchia finestra e installi una nuova delle stesse dimensioni, nella stessa apertura, senza modificare la muratura, è tutto in ordine e non devi chiedere nulla al comune.
+
+> Eccezione importante: la regola non si applica agli edifici dichiarati monumenti storici o situati in aree protette. Lì, qualsiasi intervento richiede un permesso e pareri speciali.
+
+## Quando HAI bisogno di un permesso di costruire
+
+Il permesso diventa obbligatorio quando il lavoro va oltre una semplice sostituzione identica. Le principali situazioni:
+
+| Situazione | Permesso necessario? |
+|---|---|
+| Sostituzione finestra identica, stessa apertura | No |
+| Modifica della dimensione dell'apertura (ampliamento/riduzione) | Sì |
+| Cambio della forma o configurazione della finestra | Sì |
+| Modifica dell'aspetto della facciata (colore, divisione) | Sì |
+| Chiusura di un balcone o di una loggia | Sì |
+| Edificio monumento storico / area protetta | Sì |
+| Aggiunta di un balcone o di una terrazza | Sì |
+
+Il motivo è che questi lavori interessano o la struttura portante o l'aspetto architettonico dell'edificio — due aspetti che la legge protegge espressamente.
+
+## Cosa significa «modificare la facciata»
+
+Molte persone non si rendono conto che cambiare il colore dei serramenti o il modo in cui le finestre sono divise può costituire una modifica della facciata. Se il tuo condominio ha finestre bianche e installi finestre antracite, o se sostituisci una finestra a due ante con una a tre ante, modifichi l'aspetto della facciata. In condominio, questo riguarda anche il regolamento dell'associazione dei proprietari, che può imporre il mantenimento di un aspetto unitario.
+
+Per evitare problemi, prima di scegliere il colore o la configurazione, verifica il regolamento dell'associazione e, in caso di dubbio, richiedi un certificato di urbanistica al comune — ti dice esattamente cosa è permesso.
+
+## La procedura, se il permesso è necessario
+
+Quando un permesso è obbligatorio, i passi generali sono: ottenere il certificato di urbanistica dal comune (entro 30 giorni), preparare la documentazione tecnica (DTAC) da parte di un progettista, ottenere i pareri richiesti dal certificato di urbanistica e presentare la pratica. Secondo l'ordinanza d'urgenza 31/2025, le autorità sono obbligate a rispondere entro 15 giorni per i permessi di costruire, con eccezioni per i pareri speciali (ambiente, monumenti storici).
+
+## I rischi di lavorare senza permesso
+
+Se esegui lavori per i quali un permesso era obbligatorio, la legge 50/1991 prevede multe tra **1.000 e 100.000 lei**. Inoltre, le autorità possono ordinare l'arresto dei lavori e la regolarizzazione. Nel caso di edifici monumento storico, gli interventi non autorizzati possono persino essere considerati reati. Nella successiva vendita dell'abitazione, la mancanza di documenti può bloccare la transazione dal notaio.
+
+> Qualsiasi persona — non solo i vicini — può segnalare al comune o all'Ispettorato di Stato delle Costruzioni lavori non autorizzati.
+
+## FAQ — Permesso sostituzione finestre
+
+### Ho bisogno di un permesso per sostituire le finestre del mio appartamento?
+In generale no, se conservi la forma e le dimensioni delle aperture e dei serramenti. Secondo la legge 50/1991, la sostituzione identica delle finestre è permessa senza permesso, anche se cambi il materiale. Le eccezioni sono gli edifici monumento storico e quelli in aree protette.
+
+### Quando diventa obbligatorio un permesso di costruire per le finestre?
+Quando modifichi la dimensione dell'apertura, la forma della finestra, l'aspetto della facciata (colore, divisione), quando chiudi un balcone o aggiungi una terrazza, o se l'abitazione è un monumento storico o in area protetta.
+
+### Cambiare il colore delle finestre influisce sulla facciata?
+Sì, cambiare il colore dei serramenti o la configurazione delle finestre può essere considerato una modifica dell'aspetto della facciata, che richiede un permesso. In condominio, riguarda anche il regolamento dell'associazione dei proprietari sull'aspetto unitario.
+
+### Quale multa rischio se sostituisco le finestre senza permesso quando era necessario?
+La legge 50/1991 prevede multe tra 1.000 e 100.000 lei per lavori eseguiti senza permesso, quando questo era obbligatorio, oltre all'arresto dei lavori e all'obbligo di regolarizzazione.
+
+### Devo informare l'associazione dei proprietari?
+Per la sostituzione identica non è un obbligo legale, ma è raccomandato. Per lavori che interessano la facciata o le parti comuni, l'approvazione dell'associazione può essere richiesta secondo il suo regolamento.
+
+---
+
+Neofort BIZ installa serramenti in PVC Salamander e alluminio Alumil a Bucarest e Ilfov, rispettando le dimensioni delle aperture esistenti dove non si desidera un permesso. [Richiedi una valutazione gratuita in loco](/it/contatti).`
+    },
+  },
+  {
+    slugs: {ro:"certificat-energetic-cladire-ce-este-componente-rol-ferestre",en:"building-energy-certificate-what-is-components-role-windows",de:"gebaeude-energieausweis-was-ist-komponenten-rolle-fenster",fr:"certificat-energetique-batiment-quest-ce-composants-role-fenetres",es:"certificado-energetico-edificio-que-es-componentes-papel-ventanas",it:"certificato-energetico-edificio-cos-e-componenti-ruolo-finestre"},
+    date: "2026-06-13",
+    author: "Mihai Dănălache",
+    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorPhoto: "/team/mihai-danalache.avif",
+    accentColor: "#2d6a4f",
+    image: {ro:"/blog/certificat-energetic-cladire-ferestre.avif",en:"/blog/certificat-energetic-cladire-ferestre.avif",de:"/blog/certificat-energetic-cladire-ferestre.avif",fr:"/blog/certificat-energetic-cladire-ferestre.avif",es:"/blog/certificat-energetic-cladire-ferestre.avif",it:"/blog/certificat-energetic-cladire-ferestre.avif"},
+    imageOg: "/blog/certificat-energetic-cladire-ferestre-og.jpg",
+    imageBg: "linear-gradient(135deg,#0a1e12 0%,#1a3a22 60%,#0a1e12 100%)",
+    imageLabel: "Fereastră modernă cu etichetă de certificat energetic clasa A++ și coeficient termic Uw, ilustrând rolul ferestrelor în certificarea energetică a clădirii",
+    readTime: {ro:"8 min citire",en:"8 min read",de:"8 Min.",fr:"8 min",es:"8 min",it:"8 min"},
+    category: {ro:"Eficiență energetică",en:"Energy Efficiency",de:"Energieeffizienz",fr:"Efficacité énergétique",es:"Eficiencia energética",it:"Efficienza energetica"},
+    title: {ro:"Certificatul energetic al unei clădiri: ce este, ce componente are și rolul ferestrelor",en:"A building’s energy certificate: what it is, what components it has and the role of windows",de:"Der Energieausweis eines Gebäudes: was er ist, welche Komponenten er hat und die Rolle der Fenster",fr:"Le certificat énergétique d’un bâtiment : ce qu’il est, ses composants et le rôle des fenêtres",es:"El certificado energético de un edificio: qué es, qué componentes tiene y el papel de las ventanas",it:"Il certificato energetico di un edificio: cos’è, quali componenti ha e il ruolo delle finestre"},
+    metaDesc: {ro:"Ce este certificatul energetic al unei clădiri, din ce componente este compus și cum influențează ferestrele clasa energetică (A–G)? Ghid complet 2026 conform Legii 372/2005: când e obligatoriu, valabilitate, rolul coeficientului Uw al ferestrelor.",en:"What is a building’s energy certificate, what components does it consist of and how do windows influence the energy class (A–G)? Complete 2026 guide under Law 372/2005: when it’s mandatory, validity, the role of the windows’ Uw coefficient.",de:"Was ist der Energieausweis eines Gebäudes, aus welchen Komponenten besteht er und wie beeinflussen Fenster die Energieklasse (A–G)? Vollständiger Leitfaden 2026 nach Gesetz 372/2005: wann verpflichtend, Gültigkeit, Rolle des Uw-Koeffizienten.",fr:"Qu’est-ce que le certificat énergétique d’un bâtiment, de quels composants est-il constitué et comment les fenêtres influencent-elles la classe énergétique (A–G) ? Guide complet 2026 selon la loi 372/2005 : quand obligatoire, validité, rôle du coefficient Uw.",es:"¿Qué es el certificado energético de un edificio, de qué componentes está compuesto y cómo influyen las ventanas en la clase energética (A–G)? Guía completa 2026 según la ley 372/2005: cuándo es obligatorio, validez, papel del coeficiente Uw.",it:"Cos’è il certificato energetico di un edificio, da quali componenti è composto e come le finestre influenzano la classe energetica (A–G)? Guida completa 2026 secondo la legge 372/2005: quando obbligatorio, validità, ruolo del coefficiente Uw."},
+    excerpt: {ro:"Certificatul de performanță energetică clasifică o clădire de la A la G. Află ce este, din ce componente este compus (anvelopă, sisteme tehnice, surse regenerabile) și cum coeficientul Uw al ferestrelor influențează direct clasa energetică și valoarea locuinței.",en:"The energy performance certificate classifies a building from A to G. Find out what it is, what components it consists of (envelope, technical systems, renewable sources) and how the windows’ Uw coefficient directly influences the energy class and the home’s value.",de:"Der Energieausweis stuft ein Gebäude von A bis G ein. Erfahren Sie, was er ist, aus welchen Komponenten er besteht (Hülle, technische Systeme, erneuerbare Quellen) und wie der Uw-Koeffizient der Fenster die Energieklasse und den Wert beeinflusst.",fr:"Le certificat de performance énergétique classe un bâtiment de A à G. Découvrez ce qu’il est, de quels composants il est constitué (enveloppe, systèmes techniques, sources renouvelables) et comment le coefficient Uw des fenêtres influence la classe énergétique.",es:"El certificado de eficiencia energética clasifica un edificio de A a G. Descubre qué es, de qué componentes está compuesto (envolvente, sistemas técnicos, fuentes renovables) y cómo el coeficiente Uw de las ventanas influye en la clase energética.",it:"Il certificato di prestazione energetica classifica un edificio da A a G. Scopri cos’è, da quali componenti è composto (involucro, sistemi tecnici, fonti rinnovabili) e come il coefficiente Uw delle finestre influenza la classe energetica."},
+    dateDisplay: {ro:"13 iunie 2026",en:"June 13 2026",de:"13. Juni 2026",fr:"13 juin 2026",es:"13 jun 2026",it:"13 giu 2026"},
+    content: {
+      ro: `Certificatul de performanță energetică (CPE) a devenit un document esențial pentru orice proprietar care vrea să vândă, să închirieze sau să construiască o locuință. Dincolo de obligația legală, el oferă o imagine clară a eficienței energetice a clădirii — iar ferestrele, prin coeficientul lor termic, joacă un rol direct în clasa energetică obținută. Acest ghid îți explică ce este certificatul energetic, din ce componente este compus și cum se integrează performanța ferestrelor în evaluarea finală.
+
+## Ce este certificatul de performanță energetică
+
+Certificatul de performanță energetică este un document tehnic, reglementat de Legea 372/2005, care evaluează cantitatea de energie consumată anual de o clădire pentru încălzire, răcire, ventilare, iluminat și apă caldă menajeră. Pe baza acestui calcul, clădirea primește o **clasă energetică de la A (cea mai eficientă) la G (cea mai ineficientă)**, similar cu eticheta electrocasnicelor.
+
+Documentul este eliberat exclusiv de un auditor energetic atestat, conform metodologiei de calcul Mc 001-2022, și are o **valabilitate de 10 ani**, cu condiția ca locuința să nu sufere modificări majore din punct de vedere energetic.
+
+## Când este obligatoriu certificatul energetic
+
+Conform Legii 372/2005, certificatul energetic este obligatoriu în mai multe situații clar definite:
+
+| Situație | Certificat obligatoriu? |
+|---|---|
+| Vânzarea unei locuințe sau spațiu | Da — pus la dispoziția cumpărătorului |
+| Închiriere mai mare de 30 de zile | Da — clasa menționată în anunț |
+| Recepția unei clădiri noi | Da — parte din documentația finală |
+| Accesarea fondurilor de renovare (PNRR) | Da — în multe cazuri |
+
+La vânzare, notarul nu poate autentifica tranzacția fără certificat, iar lipsa lui poate atrage nulitatea relativă a contractului. La închiriere și în anunțurile imobiliare, clasa energetică trebuie menționată explicit.
+
+## Componentele certificatului energetic
+
+Certificatul energetic analizează clădirea ca pe un sistem integrat. Principalele componente evaluate sunt:
+
+| Componentă | Ce evaluează |
+|---|---|
+| Anvelopa clădirii | Pereți, acoperiș, planșee, **ferestre și uși** |
+| Sistemele tehnice | Încălzire, apă caldă, răcire, ventilare |
+| Sursele de energie | Tipul de combustibil, randamentul echipamentelor |
+| Sursele regenerabile | Panouri fotovoltaice, solare termice |
+
+Datele despre anvelopă includ explicit tipul ferestrelor — numărul de straturi de sticlă și coeficientul de transfer termic. Valori U mai mici înseamnă izolație mai bună și un consum estimat mai redus, ceea ce împinge clădirea spre o clasă energetică superioară.
+
+## Cum se integrează coeficientul ferestrelor în certificat
+
+Aici intervine rolul direct al tâmplăriei. Auditorul energetic ia în calcul coeficientul Uw al ferestrelor ca parte a pierderilor prin anvelopă. O fereastră veche, cu un singur geam sau cu termopan ieftin, poate avea un Uw de 2,5–3,5 W/m²K, în timp ce o fereastră modernă termoizolantă coboară la 0,8–1,0 W/m²K. Diferența se traduce direct în consumul estimat de energie și, implicit, în clasa energetică.
+
+Cu alte cuvinte, înlocuirea ferestrelor vechi cu tâmplărie performantă este una dintre cele mai eficiente măsuri pentru a urca în clasa energetică a clădirii. Pentru a înțelege exact ce valori contează, citește [Ce coeficient termic trebuie să aibă ferestrele](/ro/blog/ce-coeficient-termic-trebuie-sa-aiba-ferestrele).
+
+> O clădire în clasa F sau G poate genera costuri lunare de utilități cu 50–70% mai mari decât una în clasa A sau B, pentru aceeași suprafață.
+
+## De ce contează clasa energetică pentru valoarea locuinței
+
+Dincolo de obligația legală, clasa energetică are impact financiar real. O încadrare superioară (A sau B) poate crește valoarea de piață a imobilului cu 10–15%, în timp ce clasele inferioare devin un semnal negativ pentru cumpărători și pentru bănci, care pot refuza creditarea în cadrul politicilor de „credit verde". Investiția în ferestre performante se reflectă astfel atât în facturi mai mici, cât și într-o valoare de revânzare mai mare. Dacă plănuiești o renovare, vezi și [Cum aleg ferestre eficiente energetic](/ro/blog/cum-aleg-ferestre-eficiente-energetic-bucuresti-ghid-nzeb-2026).
+
+## FAQ — Certificat energetic clădire
+
+### Ce este certificatul de performanță energetică?
+Este un document tehnic reglementat de Legea 372/2005, care evaluează consumul anual de energie al unei clădiri și o încadrează într-o clasă de la A (eficientă) la G (ineficientă). Este eliberat de un auditor energetic atestat și este valabil 10 ani.
+
+### Când am nevoie de certificat energetic?
+La vânzarea sau închirierea unei locuințe (peste 30 de zile), la recepția unei clădiri noi și, în multe cazuri, la accesarea fondurilor de renovare energetică precum PNRR. La vânzare, notarul nu poate autentifica tranzacția fără el.
+
+### Din ce componente este compus certificatul energetic?
+Evaluează anvelopa clădirii (pereți, acoperiș, planșee, ferestre și uși), sistemele tehnice (încălzire, apă caldă, răcire, ventilare), sursele de energie și sursele regenerabile. Ferestrele intră în calcul prin coeficientul lor termic Uw.
+
+### Cum influențează ferestrele clasa energetică?
+Ferestrele contribuie la pierderile prin anvelopă. O fereastră veche poate avea Uw 2,5–3,5 W/m²K, una modernă 0,8–1,0 W/m²K. Înlocuirea ferestrelor vechi cu tâmplărie performantă reduce consumul estimat și ajută la urcarea în clasa energetică.
+
+### Cât este valabil certificatul energetic?
+Certificatul energetic este valabil 10 ani de la emitere, cu condiția să nu se facă modificări majore asupra clădirii. Dacă faci lucrări de izolare sau înlocuiești ferestrele, poți solicita un certificat nou pentru o clasă superioară.
+
+---
+
+Neofort BIZ furnizează și montează tâmplărie PVC Salamander și aluminiu Alumil cu coeficienți termici performanți, care contribuie la o clasă energetică superioară, în București și Ilfov. [Solicită o consultanță tehnică gratuită](/ro/contact).`,
+      en: `The energy performance certificate (EPC) has become an essential document for any owner who wants to sell, rent or build a home. Beyond the legal obligation, it offers a clear picture of the building's energy efficiency — and windows, through their thermal coefficient, play a direct role in the energy class obtained. This guide explains what the energy certificate is, what components it consists of and how window performance integrates into the final assessment.
+
+## What the energy performance certificate is
+
+The energy performance certificate is a technical document, regulated by Law 372/2005, which evaluates the amount of energy a building consumes annually for heating, cooling, ventilation, lighting and domestic hot water. Based on this calculation, the building receives an **energy class from A (most efficient) to G (least efficient)**, similar to the appliance label.
+
+The document is issued exclusively by a certified energy auditor, according to the Mc 001-2022 calculation methodology, and has a **validity of 10 years**, provided the home does not undergo major energy-related modifications.
+
+## When the energy certificate is mandatory
+
+According to Law 372/2005, the energy certificate is mandatory in several clearly defined situations:
+
+| Situation | Certificate mandatory? |
+|---|---|
+| Selling a home or space | Yes — provided to the buyer |
+| Renting longer than 30 days | Yes — class mentioned in the listing |
+| Reception of a new building | Yes — part of the final documentation |
+| Accessing renovation funds (PNRR) | Yes — in many cases |
+
+When selling, the notary cannot authenticate the transaction without the certificate, and its absence can attract relative nullity of the contract. When renting and in real estate listings, the energy class must be explicitly mentioned.
+
+## The components of the energy certificate
+
+The energy certificate analyses the building as an integrated system. The main components evaluated are:
+
+| Component | What it evaluates |
+|---|---|
+| Building envelope | Walls, roof, floors, **windows and doors** |
+| Technical systems | Heating, hot water, cooling, ventilation |
+| Energy sources | Fuel type, equipment efficiency |
+| Renewable sources | Photovoltaic panels, solar thermal |
+
+The envelope data explicitly includes the window type — the number of glass layers and the thermal transfer coefficient. Lower U values mean better insulation and a lower estimated consumption, which pushes the building towards a higher energy class.
+
+## How the window coefficient integrates into the certificate
+
+This is where the direct role of joinery comes in. The energy auditor takes the windows' Uw coefficient into account as part of envelope losses. An old window, with a single pane or cheap double glazing, can have a Uw of 2.5–3.5 W/m²K, while a modern thermally insulating window drops to 0.8–1.0 W/m²K. The difference translates directly into estimated energy consumption and, implicitly, into the energy class.
+
+In other words, replacing old windows with high-performance joinery is one of the most effective measures to climb in the building's energy class. To understand exactly which values matter, read [What thermal coefficient should windows have](/en/blog/what-thermal-coefficient-should-windows-have).
+
+> A building in class F or G can generate monthly utility costs 50–70% higher than one in class A or B, for the same surface area.
+
+## Why the energy class matters for the home's value
+
+Beyond the legal obligation, the energy class has real financial impact. A higher classification (A or B) can increase the property's market value by 10–15%, while lower classes become a negative signal for buyers and banks, which may refuse lending under "green mortgage" policies. Investment in high-performance windows is thus reflected both in lower bills and a higher resale value. If you are planning a renovation, also see [How to choose energy-efficient windows](/en/blog/how-to-choose-energy-efficient-windows-bucharest-nzeb-guide-2026).
+
+## FAQ — Building energy certificate
+
+### What is the energy performance certificate?
+It is a technical document regulated by Law 372/2005, which evaluates a building's annual energy consumption and classifies it from A (efficient) to G (inefficient). It is issued by a certified energy auditor and is valid for 10 years.
+
+### When do I need an energy certificate?
+When selling or renting a home (over 30 days), at the reception of a new building and, in many cases, when accessing energy renovation funds such as PNRR. When selling, the notary cannot authenticate the transaction without it.
+
+### What components does the energy certificate consist of?
+It evaluates the building envelope (walls, roof, floors, windows and doors), the technical systems (heating, hot water, cooling, ventilation), the energy sources and the renewable sources. Windows enter the calculation through their Uw thermal coefficient.
+
+### How do windows influence the energy class?
+Windows contribute to envelope losses. An old window can have a Uw of 2.5–3.5 W/m²K, a modern one 0.8–1.0 W/m²K. Replacing old windows with high-performance joinery reduces estimated consumption and helps climb in the energy class.
+
+### How long is the energy certificate valid?
+The energy certificate is valid for 10 years from issuance, provided no major modifications are made to the building. If you carry out insulation works or replace the windows, you can request a new certificate for a higher class.
+
+---
+
+Neofort BIZ supplies and installs Salamander PVC and Alumil aluminium joinery with high-performance thermal coefficients, which contribute to a higher energy class, in Bucharest and Ilfov. [Request a free technical consultation](/en/contact).`,
+      de: `Der Energieausweis ist zu einem wesentlichen Dokument für jeden Eigentümer geworden, der eine Wohnung verkaufen, vermieten oder bauen möchte. Über die gesetzliche Verpflichtung hinaus bietet er ein klares Bild der Energieeffizienz des Gebäudes — und Fenster spielen durch ihren Wärmedurchgangskoeffizienten eine direkte Rolle bei der erreichten Energieklasse. Dieser Leitfaden erklärt, was der Energieausweis ist, aus welchen Komponenten er besteht und wie die Fensterleistung in die Endbewertung einfließt.
+
+## Was der Energieausweis ist
+
+Der Energieausweis ist ein technisches Dokument, geregelt durch das Gesetz 372/2005, das die Energiemenge bewertet, die ein Gebäude jährlich für Heizung, Kühlung, Lüftung, Beleuchtung und Warmwasser verbraucht. Auf Grundlage dieser Berechnung erhält das Gebäude eine **Energieklasse von A (am effizientesten) bis G (am wenigsten effizient)**, ähnlich dem Geräte-Label.
+
+Das Dokument wird ausschließlich von einem zertifizierten Energieauditor gemäß der Berechnungsmethodik Mc 001-2022 ausgestellt und hat eine **Gültigkeit von 10 Jahren**, sofern das Haus keine größeren energetischen Änderungen erfährt.
+
+## Wann der Energieausweis verpflichtend ist
+
+Gemäß dem Gesetz 372/2005 ist der Energieausweis in mehreren klar definierten Situationen verpflichtend:
+
+| Situation | Ausweis verpflichtend? |
+|---|---|
+| Verkauf einer Wohnung oder eines Raums | Ja — dem Käufer zur Verfügung gestellt |
+| Vermietung länger als 30 Tage | Ja — Klasse im Inserat genannt |
+| Abnahme eines neuen Gebäudes | Ja — Teil der Enddokumentation |
+| Zugang zu Sanierungsfonds (PNRR) | Ja — in vielen Fällen |
+
+Beim Verkauf kann der Notar die Transaktion ohne Ausweis nicht beurkunden, und sein Fehlen kann die relative Nichtigkeit des Vertrags nach sich ziehen. Bei Vermietung und in Immobilieninseraten muss die Energieklasse ausdrücklich genannt werden.
+
+## Die Komponenten des Energieausweises
+
+Der Energieausweis analysiert das Gebäude als integriertes System. Die wichtigsten bewerteten Komponenten sind:
+
+| Komponente | Was sie bewertet |
+|---|---|
+| Gebäudehülle | Wände, Dach, Decken, **Fenster und Türen** |
+| Technische Systeme | Heizung, Warmwasser, Kühlung, Lüftung |
+| Energiequellen | Brennstoffart, Anlageneffizienz |
+| Erneuerbare Quellen | Photovoltaikmodule, Solarthermie |
+
+Die Hülldaten umfassen ausdrücklich den Fenstertyp — die Anzahl der Glasschichten und den Wärmedurchgangskoeffizienten. Niedrigere U-Werte bedeuten bessere Dämmung und einen geringeren geschätzten Verbrauch, was das Gebäude in eine höhere Energieklasse drückt.
+
+## Wie der Fensterkoeffizient in den Ausweis einfließt
+
+Hier kommt die direkte Rolle der Fenster ins Spiel. Der Energieauditor berücksichtigt den Uw-Koeffizienten der Fenster als Teil der Hüllverluste. Ein altes Fenster mit einer einzigen Scheibe oder billiger Doppelverglasung kann einen Uw von 2,5–3,5 W/m²K haben, während ein modernes wärmedämmendes Fenster auf 0,8–1,0 W/m²K sinkt. Der Unterschied schlägt sich direkt im geschätzten Energieverbrauch und damit in der Energieklasse nieder.
+
+Mit anderen Worten: Der Austausch alter Fenster durch hochwertige Fenster ist eine der wirksamsten Maßnahmen, um in der Energieklasse des Gebäudes aufzusteigen. Um genau zu verstehen, welche Werte zählen, lesen Sie [Welchen Wärmedurchgangskoeffizienten sollten Fenster haben](/de/blog/welchen-waermedurchgangskoeffizient-sollen-fenster-haben).
+
+> Ein Gebäude in Klasse F oder G kann monatliche Nebenkosten verursachen, die 50–70% höher sind als eines in Klasse A oder B, bei gleicher Fläche.
+
+## Warum die Energieklasse für den Wert der Wohnung zählt
+
+Über die gesetzliche Verpflichtung hinaus hat die Energieklasse reale finanzielle Auswirkungen. Eine höhere Einstufung (A oder B) kann den Marktwert der Immobilie um 10–15% steigern, während niedrigere Klassen zu einem negativen Signal für Käufer und Banken werden, die im Rahmen von „Green-Mortgage"-Richtlinien die Kreditvergabe verweigern können. Die Investition in hochwertige Fenster spiegelt sich somit sowohl in niedrigeren Rechnungen als auch in einem höheren Wiederverkaufswert wider. Wenn Sie eine Sanierung planen, siehe auch [Energieeffiziente Fenster auswählen](/de/blog/energieeffiziente-fenster-bukarest-auswaehlen-nzeb-leitfaden-2026).
+
+## FAQ — Gebäude-Energieausweis
+
+### Was ist der Energieausweis?
+Es ist ein technisches Dokument, geregelt durch das Gesetz 372/2005, das den jährlichen Energieverbrauch eines Gebäudes bewertet und es von A (effizient) bis G (ineffizient) einstuft. Es wird von einem zertifizierten Energieauditor ausgestellt und ist 10 Jahre gültig.
+
+### Wann benötige ich einen Energieausweis?
+Beim Verkauf oder bei der Vermietung einer Wohnung (über 30 Tage), bei der Abnahme eines neuen Gebäudes und in vielen Fällen beim Zugang zu energetischen Sanierungsfonds wie PNRR. Beim Verkauf kann der Notar die Transaktion ohne ihn nicht beurkunden.
+
+### Aus welchen Komponenten besteht der Energieausweis?
+Er bewertet die Gebäudehülle (Wände, Dach, Decken, Fenster und Türen), die technischen Systeme (Heizung, Warmwasser, Kühlung, Lüftung), die Energiequellen und die erneuerbaren Quellen. Fenster fließen über ihren Uw-Wärmedurchgangskoeffizienten in die Berechnung ein.
+
+### Wie beeinflussen Fenster die Energieklasse?
+Fenster tragen zu den Hüllverlusten bei. Ein altes Fenster kann einen Uw von 2,5–3,5 W/m²K haben, ein modernes 0,8–1,0 W/m²K. Der Austausch alter Fenster durch hochwertige Fenster senkt den geschätzten Verbrauch und hilft beim Aufstieg in der Energieklasse.
+
+### Wie lange ist der Energieausweis gültig?
+Der Energieausweis ist 10 Jahre ab Ausstellung gültig, sofern keine größeren Änderungen am Gebäude vorgenommen werden. Wenn Sie Dämmarbeiten durchführen oder die Fenster austauschen, können Sie einen neuen Ausweis für eine höhere Klasse beantragen.
+
+---
+
+Neofort BIZ liefert und montiert Fenster aus Salamander-PVC und Alumil-Aluminium mit hochwertigen Wärmedurchgangskoeffizienten, die zu einer höheren Energieklasse beitragen, in Bukarest und Ilfov. [Fordern Sie eine kostenlose technische Beratung an](/de/kontakt).`,
+      fr: `Le certificat de performance énergétique (CPE) est devenu un document essentiel pour tout propriétaire qui souhaite vendre, louer ou construire un logement. Au-delà de l'obligation légale, il offre une image claire de l'efficacité énergétique du bâtiment — et les fenêtres, par leur coefficient thermique, jouent un rôle direct dans la classe énergétique obtenue. Ce guide explique ce qu'est le certificat énergétique, de quels composants il est constitué et comment la performance des fenêtres s'intègre dans l'évaluation finale.
+
+## Ce qu’est le certificat de performance énergétique
+
+Le certificat de performance énergétique est un document technique, réglementé par la loi 372/2005, qui évalue la quantité d'énergie qu'un bâtiment consomme annuellement pour le chauffage, le refroidissement, la ventilation, l'éclairage et l'eau chaude sanitaire. Sur la base de ce calcul, le bâtiment reçoit une **classe énergétique de A (la plus efficace) à G (la moins efficace)**, similaire à l'étiquette des appareils.
+
+Le document est délivré exclusivement par un auditeur énergétique certifié, selon la méthodologie de calcul Mc 001-2022, et a une **validité de 10 ans**, à condition que le logement ne subisse pas de modifications énergétiques majeures.
+
+## Quand le certificat énergétique est obligatoire
+
+Selon la loi 372/2005, le certificat énergétique est obligatoire dans plusieurs situations clairement définies :
+
+| Situation | Certificat obligatoire ? |
+|---|---|
+| Vente d'un logement ou espace | Oui — mis à disposition de l'acheteur |
+| Location de plus de 30 jours | Oui — classe mentionnée dans l'annonce |
+| Réception d'un bâtiment neuf | Oui — partie de la documentation finale |
+| Accès aux fonds de rénovation (PNRR) | Oui — dans de nombreux cas |
+
+Lors de la vente, le notaire ne peut authentifier la transaction sans le certificat, et son absence peut entraîner la nullité relative du contrat. Lors de la location et dans les annonces immobilières, la classe énergétique doit être explicitement mentionnée.
+
+## Les composants du certificat énergétique
+
+Le certificat énergétique analyse le bâtiment comme un système intégré. Les principaux composants évalués sont :
+
+| Composant | Ce qu'il évalue |
+|---|---|
+| Enveloppe du bâtiment | Murs, toit, planchers, **fenêtres et portes** |
+| Systèmes techniques | Chauffage, eau chaude, refroidissement, ventilation |
+| Sources d'énergie | Type de combustible, rendement des équipements |
+| Sources renouvelables | Panneaux photovoltaïques, solaire thermique |
+
+Les données sur l'enveloppe incluent explicitement le type de fenêtre — le nombre de couches de verre et le coefficient de transfert thermique. Des valeurs U plus faibles signifient une meilleure isolation et une consommation estimée plus basse, ce qui pousse le bâtiment vers une classe énergétique supérieure.
+
+## Comment le coefficient des fenêtres s'intègre dans le certificat
+
+C'est ici qu'intervient le rôle direct de la menuiserie. L'auditeur énergétique prend en compte le coefficient Uw des fenêtres comme partie des pertes par l'enveloppe. Une ancienne fenêtre, avec un seul vitrage ou un double vitrage bon marché, peut avoir un Uw de 2,5–3,5 W/m²K, tandis qu'une fenêtre moderne thermo-isolante descend à 0,8–1,0 W/m²K. La différence se traduit directement dans la consommation d'énergie estimée et, implicitement, dans la classe énergétique.
+
+Autrement dit, le remplacement des anciennes fenêtres par une menuiserie performante est l'une des mesures les plus efficaces pour grimper dans la classe énergétique du bâtiment. Pour comprendre exactement quelles valeurs comptent, lisez [Quel coefficient thermique pour les fenêtres](/fr/blog/quel-coefficient-thermique-pour-les-fenetres).
+
+> Un bâtiment en classe F ou G peut générer des coûts mensuels de services publics 50–70% plus élevés qu'un en classe A ou B, pour la même surface.
+
+## Pourquoi la classe énergétique compte pour la valeur du logement
+
+Au-delà de l'obligation légale, la classe énergétique a un impact financier réel. Un classement supérieur (A ou B) peut augmenter la valeur marchande du bien de 10–15%, tandis que les classes inférieures deviennent un signal négatif pour les acheteurs et les banques, qui peuvent refuser le crédit dans le cadre des politiques de « prêt vert ». L'investissement dans des fenêtres performantes se reflète ainsi à la fois dans des factures plus basses et une valeur de revente plus élevée. Si vous planifiez une rénovation, voir aussi [Comment choisir des fenêtres efficaces énergétiquement](/fr/blog/comment-choisir-fenetres-efficaces-energetiquement-bucarest-nzeb-2026).
+
+## FAQ — Certificat énergétique bâtiment
+
+### Qu’est-ce que le certificat de performance énergétique ?
+C'est un document technique réglementé par la loi 372/2005, qui évalue la consommation annuelle d'énergie d'un bâtiment et le classe de A (efficace) à G (inefficace). Il est délivré par un auditeur énergétique certifié et est valable 10 ans.
+
+### Quand ai-je besoin d'un certificat énergétique ?
+Lors de la vente ou de la location d'un logement (plus de 30 jours), à la réception d'un bâtiment neuf et, dans de nombreux cas, lors de l'accès aux fonds de rénovation énergétique comme le PNRR. Lors de la vente, le notaire ne peut authentifier la transaction sans lui.
+
+### De quels composants le certificat énergétique est-il constitué ?
+Il évalue l'enveloppe du bâtiment (murs, toit, planchers, fenêtres et portes), les systèmes techniques (chauffage, eau chaude, refroidissement, ventilation), les sources d'énergie et les sources renouvelables. Les fenêtres entrent dans le calcul par leur coefficient thermique Uw.
+
+### Comment les fenêtres influencent-elles la classe énergétique ?
+Les fenêtres contribuent aux pertes par l'enveloppe. Une ancienne fenêtre peut avoir un Uw de 2,5–3,5 W/m²K, une moderne 0,8–1,0 W/m²K. Le remplacement des anciennes fenêtres par une menuiserie performante réduit la consommation estimée et aide à grimper dans la classe énergétique.
+
+### Combien de temps le certificat énergétique est-il valable ?
+Le certificat énergétique est valable 10 ans à compter de l'émission, à condition qu'aucune modification majeure ne soit apportée au bâtiment. Si vous effectuez des travaux d'isolation ou remplacez les fenêtres, vous pouvez demander un nouveau certificat pour une classe supérieure.
+
+---
+
+Neofort BIZ fournit et installe de la menuiserie PVC Salamander et aluminium Alumil avec des coefficients thermiques performants, qui contribuent à une classe énergétique supérieure, à Bucarest et Ilfov. [Demandez une consultation technique gratuite](/fr/contact).`,
+      es: `El certificado de eficiencia energética (CEE) se ha convertido en un documento esencial para cualquier propietario que quiera vender, alquilar o construir una vivienda. Más allá de la obligación legal, ofrece una imagen clara de la eficiencia energética del edificio — y las ventanas, a través de su coeficiente térmico, juegan un papel directo en la clase energética obtenida. Esta guía explica qué es el certificado energético, de qué componentes está compuesto y cómo se integra el rendimiento de las ventanas en la evaluación final.
+
+## Qué es el certificado de eficiencia energética
+
+El certificado de eficiencia energética es un documento técnico, regulado por la ley 372/2005, que evalúa la cantidad de energía que un edificio consume anualmente para calefacción, refrigeración, ventilación, iluminación y agua caliente sanitaria. Sobre la base de este cálculo, el edificio recibe una **clase energética de A (la más eficiente) a G (la menos eficiente)**, similar a la etiqueta de los electrodomésticos.
+
+El documento es emitido exclusivamente por un auditor energético certificado, según la metodología de cálculo Mc 001-2022, y tiene una **validez de 10 años**, siempre que la vivienda no sufra modificaciones energéticas importantes.
+
+## Cuándo es obligatorio el certificado energético
+
+Según la ley 372/2005, el certificado energético es obligatorio en varias situaciones claramente definidas:
+
+| Situación | ¿Certificado obligatorio? |
+|---|---|
+| Venta de una vivienda o espacio | Sí — puesto a disposición del comprador |
+| Alquiler de más de 30 días | Sí — clase mencionada en el anuncio |
+| Recepción de un edificio nuevo | Sí — parte de la documentación final |
+| Acceso a fondos de renovación (PNRR) | Sí — en muchos casos |
+
+En la venta, el notario no puede autenticar la transacción sin el certificado, y su ausencia puede acarrear la nulidad relativa del contrato. En el alquiler y en los anuncios inmobiliarios, la clase energética debe mencionarse explícitamente.
+
+## Los componentes del certificado energético
+
+El certificado energético analiza el edificio como un sistema integrado. Los principales componentes evaluados son:
+
+| Componente | Qué evalúa |
+|---|---|
+| Envolvente del edificio | Paredes, tejado, forjados, **ventanas y puertas** |
+| Sistemas técnicos | Calefacción, agua caliente, refrigeración, ventilación |
+| Fuentes de energía | Tipo de combustible, rendimiento de los equipos |
+| Fuentes renovables | Paneles fotovoltaicos, solares térmicos |
+
+Los datos sobre la envolvente incluyen explícitamente el tipo de ventana — el número de capas de vidrio y el coeficiente de transferencia térmica. Valores U más bajos significan mejor aislamiento y un consumo estimado más reducido, lo que empuja al edificio hacia una clase energética superior.
+
+## Cómo se integra el coeficiente de las ventanas en el certificado
+
+Aquí interviene el papel directo de la carpintería. El auditor energético tiene en cuenta el coeficiente Uw de las ventanas como parte de las pérdidas por la envolvente. Una ventana vieja, con un solo vidrio o doble acristalamiento barato, puede tener un Uw de 2,5–3,5 W/m²K, mientras que una ventana moderna termoaislante baja a 0,8–1,0 W/m²K. La diferencia se traduce directamente en el consumo de energía estimado y, por consiguiente, en la clase energética.
+
+En otras palabras, la sustitución de las ventanas viejas por carpintería de alto rendimiento es una de las medidas más eficaces para subir en la clase energética del edificio. Para entender exactamente qué valores importan, lee [Qué coeficiente térmico deben tener las ventanas](/es/blog/que-coeficiente-termico-deben-tener-las-ventanas).
+
+> Un edificio en clase F o G puede generar costes mensuales de servicios un 50–70% más altos que uno en clase A o B, para la misma superficie.
+
+## Por qué la clase energética importa para el valor de la vivienda
+
+Más allá de la obligación legal, la clase energética tiene un impacto financiero real. Una clasificación superior (A o B) puede aumentar el valor de mercado del inmueble en un 10–15%, mientras que las clases inferiores se convierten en una señal negativa para los compradores y los bancos, que pueden rechazar la financiación en el marco de las políticas de «hipoteca verde». La inversión en ventanas de alto rendimiento se refleja así tanto en facturas más bajas como en un mayor valor de reventa. Si planeas una renovación, consulta también [Cómo elegir ventanas eficientes energéticamente](/es/blog/como-elegir-ventanas-eficientes-energeticamente-bucarest-nzeb-2026).
+
+## FAQ — Certificado energético edificio
+
+### ¿Qué es el certificado de eficiencia energética?
+Es un documento técnico regulado por la ley 372/2005, que evalúa el consumo anual de energía de un edificio y lo clasifica de A (eficiente) a G (ineficiente). Es emitido por un auditor energético certificado y es válido 10 años.
+
+### ¿Cuándo necesito un certificado energético?
+Al vender o alquilar una vivienda (más de 30 días), en la recepción de un edificio nuevo y, en muchos casos, al acceder a fondos de renovación energética como el PNRR. En la venta, el notario no puede autenticar la transacción sin él.
+
+### ¿De qué componentes está compuesto el certificado energético?
+Evalúa la envolvente del edificio (paredes, tejado, forjados, ventanas y puertas), los sistemas técnicos (calefacción, agua caliente, refrigeración, ventilación), las fuentes de energía y las fuentes renovables. Las ventanas entran en el cálculo por su coeficiente térmico Uw.
+
+### ¿Cómo influyen las ventanas en la clase energética?
+Las ventanas contribuyen a las pérdidas por la envolvente. Una ventana vieja puede tener un Uw de 2,5–3,5 W/m²K, una moderna 0,8–1,0 W/m²K. La sustitución de las ventanas viejas por carpintería de alto rendimiento reduce el consumo estimado y ayuda a subir en la clase energética.
+
+### ¿Cuánto tiempo es válido el certificado energético?
+El certificado energético es válido 10 años desde su emisión, siempre que no se realicen modificaciones importantes en el edificio. Si realizas trabajos de aislamiento o sustituyes las ventanas, puedes solicitar un nuevo certificado para una clase superior.
+
+---
+
+Neofort BIZ suministra e instala carpintería de PVC Salamander y aluminio Alumil con coeficientes térmicos de alto rendimiento, que contribuyen a una clase energética superior, en Bucarest e Ilfov. [Solicita una consultoría técnica gratuita](/es/contacto).`,
+      it: `Il certificato di prestazione energetica (APE) è diventato un documento essenziale per qualsiasi proprietario che voglia vendere, affittare o costruire un'abitazione. Oltre all'obbligo legale, offre un'immagine chiara dell'efficienza energetica dell'edificio — e le finestre, attraverso il loro coefficiente termico, svolgono un ruolo diretto nella classe energetica ottenuta. Questa guida spiega cos'è il certificato energetico, da quali componenti è composto e come la prestazione delle finestre si integra nella valutazione finale.
+
+## Cos’è il certificato di prestazione energetica
+
+Il certificato di prestazione energetica è un documento tecnico, regolato dalla legge 372/2005, che valuta la quantità di energia che un edificio consuma annualmente per riscaldamento, raffrescamento, ventilazione, illuminazione e acqua calda sanitaria. Sulla base di questo calcolo, l'edificio riceve una **classe energetica da A (la più efficiente) a G (la meno efficiente)**, simile all'etichetta degli elettrodomestici.
+
+Il documento è rilasciato esclusivamente da un auditor energetico certificato, secondo la metodologia di calcolo Mc 001-2022, e ha una **validità di 10 anni**, a condizione che l'abitazione non subisca modifiche energetiche importanti.
+
+## Quando è obbligatorio il certificato energetico
+
+Secondo la legge 372/2005, il certificato energetico è obbligatorio in diverse situazioni chiaramente definite:
+
+| Situazione | Certificato obbligatorio? |
+|---|---|
+| Vendita di un'abitazione o spazio | Sì — messo a disposizione dell'acquirente |
+| Affitto superiore a 30 giorni | Sì — classe indicata nell'annuncio |
+| Collaudo di un edificio nuovo | Sì — parte della documentazione finale |
+| Accesso ai fondi di ristrutturazione (PNRR) | Sì — in molti casi |
+
+Nella vendita, il notaio non può autenticare la transazione senza il certificato, e la sua assenza può comportare la nullità relativa del contratto. Nell'affitto e negli annunci immobiliari, la classe energetica deve essere indicata esplicitamente.
+
+## I componenti del certificato energetico
+
+Il certificato energetico analizza l'edificio come un sistema integrato. I principali componenti valutati sono:
+
+| Componente | Cosa valuta |
+|---|---|
+| Involucro dell'edificio | Pareti, tetto, solai, **finestre e porte** |
+| Sistemi tecnici | Riscaldamento, acqua calda, raffrescamento, ventilazione |
+| Fonti di energia | Tipo di combustibile, rendimento degli impianti |
+| Fonti rinnovabili | Pannelli fotovoltaici, solari termici |
+
+I dati sull'involucro includono esplicitamente il tipo di finestra — il numero di strati di vetro e il coefficiente di trasmittanza termica. Valori U più bassi significano migliore isolamento e un consumo stimato più ridotto, il che spinge l'edificio verso una classe energetica superiore.
+
+## Come si integra il coefficiente delle finestre nel certificato
+
+Qui interviene il ruolo diretto dei serramenti. L'auditor energetico tiene conto del coefficiente Uw delle finestre come parte delle perdite attraverso l'involucro. Una vecchia finestra, con un solo vetro o doppio vetro economico, può avere un Uw di 2,5–3,5 W/m²K, mentre una finestra moderna termoisolante scende a 0,8–1,0 W/m²K. La differenza si traduce direttamente nel consumo energetico stimato e, di conseguenza, nella classe energetica.
+
+In altre parole, la sostituzione delle vecchie finestre con serramenti ad alte prestazioni è una delle misure più efficaci per salire nella classe energetica dell'edificio. Per capire esattamente quali valori contano, leggi [Quale coefficiente termico devono avere le finestre](/it/blog/quale-coefficiente-termico-devono-avere-le-finestre).
+
+> Un edificio in classe F o G può generare costi mensili delle utenze del 50–70% più alti rispetto a uno in classe A o B, a parità di superficie.
+
+## Perché la classe energetica conta per il valore dell'abitazione
+
+Oltre all'obbligo legale, la classe energetica ha un impatto finanziario reale. Una classificazione superiore (A o B) può aumentare il valore di mercato dell'immobile del 10–15%, mentre le classi inferiori diventano un segnale negativo per gli acquirenti e le banche, che possono rifiutare il credito nell'ambito delle politiche di «mutuo verde». L'investimento in finestre ad alte prestazioni si riflette così sia in bollette più basse sia in un maggiore valore di rivendita. Se stai pianificando una ristrutturazione, vedi anche [Come scegliere finestre efficienti dal punto di vista energetico](/it/blog/come-scegliere-finestre-efficienti-energeticamente-bucarest-nzeb-2026).
+
+## FAQ — Certificato energetico edificio
+
+### Cos’è il certificato di prestazione energetica?
+È un documento tecnico regolato dalla legge 372/2005, che valuta il consumo annuale di energia di un edificio e lo classifica da A (efficiente) a G (inefficiente). È rilasciato da un auditor energetico certificato ed è valido 10 anni.
+
+### Quando ho bisogno di un certificato energetico?
+Alla vendita o all'affitto di un'abitazione (oltre 30 giorni), al collaudo di un edificio nuovo e, in molti casi, all'accesso ai fondi di ristrutturazione energetica come il PNRR. Nella vendita, il notaio non può autenticare la transazione senza di esso.
+
+### Da quali componenti è composto il certificato energetico?
+Valuta l'involucro dell'edificio (pareti, tetto, solai, finestre e porte), i sistemi tecnici (riscaldamento, acqua calda, raffrescamento, ventilazione), le fonti di energia e le fonti rinnovabili. Le finestre entrano nel calcolo attraverso il loro coefficiente termico Uw.
+
+### Come influenzano le finestre la classe energetica?
+Le finestre contribuiscono alle perdite attraverso l'involucro. Una vecchia finestra può avere un Uw di 2,5–3,5 W/m²K, una moderna 0,8–1,0 W/m²K. La sostituzione delle vecchie finestre con serramenti ad alte prestazioni riduce il consumo stimato e aiuta a salire nella classe energetica.
+
+### Quanto è valido il certificato energetico?
+Il certificato energetico è valido 10 anni dall'emissione, a condizione che non vengano apportate modifiche importanti all'edificio. Se esegui lavori di isolamento o sostituisci le finestre, puoi richiedere un nuovo certificato per una classe superiore.
+
+---
+
+Neofort BIZ fornisce e installa serramenti in PVC Salamander e alluminio Alumil con coefficienti termici ad alte prestazioni, che contribuiscono a una classe energetica superiore, a Bucarest e Ilfov. [Richiedi una consulenza tecnica gratuita](/it/contatti).`
+    },
+  },
 ];
 
 

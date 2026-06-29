@@ -759,6 +759,30 @@ export const routing = defineRouting({
       es: '/blog/cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas',
       it: '/blog/quanto-durano-le-finestre-pvc-quando-sostituirle',
     },
+    '/blog/subventii-programe-schimb-ferestre-2026-pnrr-casa-eficienta': {
+      ro: '/blog/subventii-programe-schimb-ferestre-2026-pnrr-casa-eficienta',
+      en: '/blog/subsidies-programmes-window-replacement-2026-pnrr-energy-efficient-home',
+      de: '/blog/foerderungen-programme-fenstertausch-2026-pnrr-energieeffizientes-haus',
+      fr: '/blog/subventions-programmes-remplacement-fenetres-2026-pnrr-maison-econome',
+      es: '/blog/subvenciones-programas-cambio-ventanas-2026-pnrr-casa-eficiente',
+      it: '/blog/incentivi-programmi-sostituzione-finestre-2026-pnrr-casa-efficiente',
+    },
+    '/blog/autorizatie-construire-schimbare-ferestre-apartament-casa-2026': {
+      ro: '/blog/autorizatie-construire-schimbare-ferestre-apartament-casa-2026',
+      en: '/blog/building-permit-window-replacement-apartment-house-2026',
+      de: '/blog/baugenehmigung-fenstertausch-wohnung-haus-2026',
+      fr: '/blog/permis-construire-remplacement-fenetres-appartement-maison-2026',
+      es: '/blog/permiso-construccion-cambio-ventanas-apartamento-casa-2026',
+      it: '/blog/permesso-costruire-sostituzione-finestre-appartamento-casa-2026',
+    },
+    '/blog/certificat-energetic-cladire-ce-este-componente-rol-ferestre': {
+      ro: '/blog/certificat-energetic-cladire-ce-este-componente-rol-ferestre',
+      en: '/blog/building-energy-certificate-what-is-components-role-windows',
+      de: '/blog/gebaeude-energieausweis-was-ist-komponenten-rolle-fenster',
+      fr: '/blog/certificat-energetique-batiment-quest-ce-composants-role-fenetres',
+      es: '/blog/certificado-energetico-edificio-que-es-componentes-papel-ventanas',
+      it: '/blog/certificato-energetico-edificio-cos-e-componenti-ruolo-finestre',
+    },
 
   // PILLAR PAGES
   }
