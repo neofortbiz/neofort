@@ -26451,6 +26451,392 @@ Il certificato energetico è valido 10 anni dall'emissione, a condizione che non
 Neofort BIZ fornisce e installa serramenti in PVC Salamander e alluminio Alumil con coefficienti termici ad alte prestazioni, che contribuiscono a una classe energetica superiore, a Bucarest e Ilfov. [Richiedi una consulenza tecnica gratuita](/it/contatti).`
     },
   },
+  {
+    slugs: {ro:"pot-schimba-ferestrele-bloc-fara-acordul-asociatiei-2026",en:"can-i-replace-windows-apartment-block-without-association-approval-2026",de:"fenster-wohnblock-ohne-zustimmung-eigentuemergemeinschaft-2026",fr:"remplacer-fenetres-immeuble-sans-accord-association-coproprietaires-2026",es:"cambiar-ventanas-bloque-sin-acuerdo-comunidad-propietarios-2026",it:"sostituire-finestre-condominio-senza-consenso-associazione-2026"},
+    date: "2026-06-29",
+    author: "Mihai Dănălache",
+    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorPhoto: "/team/mihai-danalache.avif",
+    accentColor: "#b3271e",
+    image: {ro:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif",en:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif",de:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif",fr:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif",es:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif",it:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif"},
+    imageOg: "/blog/schimbare-ferestre-bloc-acord-asociatie-og.jpg",
+    imageBg: "linear-gradient(135deg,#2a0a08 0%,#5c1512 60%,#2a0a08 100%)",
+    imageLabel: "Proprietar care se întreabă dacă poate schimba ferestrele la bloc fără acordul asociației de proprietari, cu regulament de asociație și montator de ferestre",
+    readTime: {ro:"7 min citire",en:"7 min read",de:"7 Min.",fr:"7 min",es:"7 min",it:"7 min"},
+    category: {ro:"Legislație",en:"Legislation",de:"Gesetzgebung",fr:"Législation",es:"Legislación",it:"Legislazione"},
+    title: {ro:"Pot schimba ferestrele la bloc fără acordul asociației? Ce spune Legea 196/2018",en:"Can I replace windows in an apartment block without the association’s approval? What Law 196/2018 says",de:"Kann ich Fenster im Wohnblock ohne Zustimmung der Eigentümergemeinschaft austauschen? Was das Gesetz 196/2018 sagt",fr:"Puis-je remplacer les fenêtres en immeuble sans l’accord de l’association ? Ce que dit la loi 196/2018",es:"¿Puedo cambiar las ventanas en un bloque sin el acuerdo de la comunidad? Qué dice la ley 196/2018",it:"Posso sostituire le finestre in condominio senza il consenso dell’associazione? Cosa dice la legge 196/2018"},
+    metaDesc: {ro:"Pot schimba ferestrele la bloc fără acordul asociației de proprietari? În general da, dacă păstrezi dimensiunea, forma și culoarea. Află când e obligatoriu acordul, de ce fațada e proprietate comună și ce riști, conform Legii 196/2018.",en:"Can I replace windows in an apartment block without the owners’ association approval? Generally yes, if you keep the size, shape and colour. Find out when approval is mandatory, why the façade is common property and what you risk, under Law 196/2018.",de:"Kann ich Fenster im Wohnblock ohne Zustimmung der Eigentümergemeinschaft austauschen? In der Regel ja, wenn Sie Größe, Form und Farbe beibehalten. Erfahren Sie, wann die Zustimmung verpflichtend ist und was Sie riskieren, nach Gesetz 196/2018.",fr:"Puis-je remplacer les fenêtres en immeuble sans l’accord de l’association de copropriétaires ? En général oui, si vous gardez la taille, la forme et la couleur. Découvrez quand l’accord est obligatoire et ce que vous risquez, selon la loi 196/2018.",es:"¿Puedo cambiar las ventanas en un bloque sin el acuerdo de la comunidad de propietarios? En general sí, si conservas el tamaño, la forma y el color. Descubre cuándo es obligatorio el acuerdo y qué arriesgas, según la ley 196/2018.",it:"Posso sostituire le finestre in condominio senza il consenso dell’associazione dei proprietari? In generale sì, se conservi dimensione, forma e colore. Scopri quando il consenso è obbligatorio e cosa rischi, secondo la legge 196/2018."},
+    excerpt: {ro:"În majoritatea cazurilor poți schimba ferestrele la bloc fără acordul asociației, dacă păstrezi aspectul. Ghid clar despre când e nevoie de acord, de ce fațada e proprietate comună și ce riști dacă o modifici fără aprobare, conform Legii 196/2018.",en:"In most cases you can replace windows in an apartment block without the association’s approval, if you keep the appearance. A clear guide on when approval is needed, why the façade is common property and what you risk if you modify it, under Law 196/2018.",de:"In den meisten Fällen können Sie Fenster im Wohnblock ohne Zustimmung der Gemeinschaft austauschen, wenn Sie das Erscheinungsbild beibehalten. Ein klarer Leitfaden, wann die Zustimmung nötig ist und was Sie riskieren, nach Gesetz 196/2018.",fr:"Dans la plupart des cas, vous pouvez remplacer les fenêtres en immeuble sans l’accord de l’association, si vous gardez l’aspect. Un guide clair sur quand l’accord est nécessaire et ce que vous risquez, selon la loi 196/2018.",es:"En la mayoría de los casos puedes cambiar las ventanas en un bloque sin el acuerdo de la comunidad, si conservas el aspecto. Una guía clara sobre cuándo se necesita el acuerdo y qué arriesgas, según la ley 196/2018.",it:"Nella maggior parte dei casi puoi sostituire le finestre in condominio senza il consenso dell’associazione, se conservi l’aspetto. Una guida chiara su quando serve il consenso e cosa rischi, secondo la legge 196/2018."},
+    dateDisplay: {ro:"29 iunie 2026",en:"June 29 2026",de:"29. Juni 2026",fr:"29 juin 2026",es:"29 jun 2026",it:"29 giu 2026"},
+    content: {
+      ro: `Locuiești la bloc și vrei să-ți schimbi ferestrele, dar te întrebi dacă ai nevoie de acordul asociației de proprietari? Răspunsul scurt: în majoritatea cazurilor NU, dacă păstrezi aceeași dimensiune, formă și aspect. Dar există situații în care acordul devine obligatoriu, iar nerespectarea lui poate duce la conflicte, sesizări și chiar obligația de a reveni la starea inițială. Acest ghid îți explică, pe baza Legii 196/2018, exact când poți schimba ferestrele liber și când ai nevoie de acordul asociației.
+
+## Regula generală: înlocuirea identică nu necesită acordul asociației
+
+Înlocuirea ferestrelor vechi cu unele noi, de aceeași dimensiune, formă și aspect, este considerată o lucrare de întreținere și modernizare a proprietății individuale. Pentru astfel de lucrări, legea îți permite să le faci liber, fără a cere acordul asociației de proprietari și fără autorizație de construire. Acest lucru rămâne valabil chiar dacă schimbi materialul — de exemplu, înlocuiești ferestre vechi din lemn cu ferestre PVC sau aluminiu.
+
+Practic, dacă noua fereastră are aceleași dimensiuni, aceeași culoare (de regulă alb) și aceeași împărțire ca cea veche, intervenția nu afectează aspectul fațadei și nu necesită acordul nimănui.
+
+> Recomandare: chiar dacă legal nu ești obligat, e bine să informezi asociația printr-o simplă notificare. Evită discuții cu vecinii și demonstrează bună-credință în cazul unor neînțelegeri ulterioare.
+
+## Fațada blocului este proprietate comună
+
+Aici e cheia înțelegerii. Conform Legii 196/2018, fațada blocului este parte comună a clădirii — aparține tuturor proprietarilor, nu doar celui din spatele ferestrei respective. De aceea, orice intervenție care schimbă aspectul fațadei nu mai ține doar de tine.
+
+Asta înseamnă că, atâta timp cât fereastra ta nouă arată la fel ca celelalte (aceeași culoare, formă și configurație), nu modifici fațada. Dar dacă montezi o fereastră cu o culoare diferită, cu altă împărțire sau cu altă formă, schimbi aspectul fațadei comune — și aici intervin regulile asociației.
+
+## Când AI nevoie de acordul asociației
+
+Acordul devine obligatoriu atunci când lucrarea afectează fațada sau părțile comune. Situațiile principale:
+
+| Situație | Acord asociație necesar? |
+|---|---|
+| Înlocuire identică (aceeași dimensiune, culoare, formă) | Nu |
+| Schimbarea culorii tâmplăriei (ex. din alb în antracit) | Da |
+| Schimbarea formei sau împărțirii ferestrei | Da |
+| Modificarea dimensiunii golului din zid | Da |
+| Închiderea balconului cu tâmplărie | Da |
+| Clădire monument istoric / zonă protejată | Da |
+
+Pentru modificările constructive ale fațadei, Legea 196/2018 cere acordul a două treimi din proprietarii membri ai asociației, plus acordul tuturor proprietarilor direct afectați, și autorizație de construire.
+
+## De ce contează unitatea aspectului fațadei
+
+Multe asociații au în regulamentul condominiului reguli privind păstrarea unui aspect unitar al fațadei. Logica e simplă: dacă fiecare proprietar ar monta ferestre de culori și forme diferite, fațada ar deveni un mozaic dezordonat, ceea ce scade valoarea întregului imobil. De aceea, înainte de a alege o culoare sau o configurație diferită de standardul blocului, verifică regulamentul asociației. Dacă vrei să afli și ce spune legislația din perspectiva primăriei, citește [Am nevoie de autorizație de construire ca să schimb ferestrele](/ro/blog/autorizatie-construire-schimbare-ferestre-apartament-casa-2026).
+
+## Ce riști dacă ignori regulile
+
+Dacă modifici fațada fără acordul asociației, ceilalți proprietari sau asociația te pot soluționa la primărie sau în instanță. Consecințele pot include obligația de a reveni la aspectul inițial (pe cheltuiala ta), amenzi pentru lucrări neautorizate și conflicte de durată cu vecinii. La o eventuală vânzare a apartamentului, modificările neînregistrate pot crea probleme. Pentru a fi sigur că alegi o soluție conformă, vezi [Cum aleg ferestre eficiente energetic](/ro/blog/cum-aleg-ferestre-eficiente-energetic-bucuresti-ghid-nzeb-2026).
+
+> Orice proprietar din bloc poate sesiza modificările neconforme ale fațadei — nu doar vecinii direcți.
+
+## FAQ — Schimbare ferestre la bloc
+
+### Pot schimba ferestrele la bloc fără acordul asociației?
+Da, dacă păstrezi aceeași dimensiune, formă și aspect (inclusiv culoarea). Înlocuirea identică este o lucrare de întreținere a proprietății individuale și nu necesită acordul asociației. Este însă recomandat să informezi asociația printr-o notificare simplă.
+
+### Când am nevoie de acordul asociației pentru ferestre?
+Când modifici aspectul fațadei: schimbi culoarea tâmplăriei, forma sau împărțirea ferestrei, dimensiunea golului, ori închizi balconul. Fațada e proprietate comună, iar modificările constructive necesită acordul a două treimi din proprietari plus al celor direct afectați.
+
+### Schimbarea culorii ferestrelor afectează fațada?
+Da. Dacă blocul are ferestre albe și montezi ferestre antracit sau de altă culoare, modifici aspectul fațadei comune, ceea ce necesită acordul asociației conform Legii 196/2018 și, adesea, autorizație de construire.
+
+### Ce se întâmplă dacă schimb ferestrele fără acord când era necesar?
+Asociația sau ceilalți proprietari te pot sesiza la primărie sau în instanță. Poți fi obligat să revii la aspectul inițial pe cheltuiala ta, poți primi amenzi pentru lucrări neautorizate și poți avea probleme la vânzarea apartamentului.
+
+### Trebuie să anunț asociația chiar și pentru o înlocuire identică?
+Legal nu ești obligat pentru o înlocuire identică, dar este recomandat. O notificare simplă evită neînțelegerile cu vecinii și demonstrează bună-credință dacă apar discuții ulterioare despre aspectul fațadei.
+
+---
+
+Neofort BIZ montează tâmplărie PVC Salamander și aluminiu Alumil la bloc în București și Ilfov, respectând dimensiunile și aspectul existent atunci când nu se dorește modificarea fațadei. [Solicită o evaluare gratuită la fața locului](/ro/contact).`,
+      en: `You live in an apartment block and want to replace your windows, but you wonder whether you need the owners' association's approval? The short answer: in most cases NO, if you keep the same size, shape and appearance. But there are situations where approval becomes mandatory, and failing to obtain it can lead to conflicts, complaints and even the obligation to revert to the original state. This guide explains, based on Romania's Law 196/2018, exactly when you can replace windows freely and when you need the association's approval.
+
+## The general rule: identical replacement requires no association approval
+
+Replacing old windows with new ones of the same size, shape and appearance is considered maintenance and modernisation work on individual property. For such work, the law allows you to proceed freely, without requesting the owners' association's approval and without a building permit. This remains valid even if you change the material — for example, replacing old wooden windows with PVC or aluminium ones.
+
+In practice, if the new window has the same dimensions, the same colour (usually white) and the same division as the old one, the intervention does not affect the façade's appearance and requires no one's approval.
+
+> Recommendation: even if you are not legally obliged, it is good to inform the association through a simple notification. It avoids disputes with neighbours and demonstrates good faith in case of later disagreements.
+
+## The block's façade is common property
+
+This is the key to understanding. According to Law 196/2018, the block's façade is a common part of the building — it belongs to all owners, not just the one behind that particular window. Therefore, any intervention that changes the façade's appearance is no longer just up to you.
+
+This means that, as long as your new window looks the same as the others (same colour, shape and configuration), you are not modifying the façade. But if you install a window of a different colour, with a different division or a different shape, you change the appearance of the common façade — and here the association's rules come into play.
+
+## When you DO need the association's approval
+
+Approval becomes mandatory when the work affects the façade or common parts. The main situations:
+
+| Situation | Association approval required? |
+|---|---|
+| Identical replacement (same size, colour, shape) | No |
+| Changing the joinery colour (e.g. from white to anthracite) | Yes |
+| Changing the shape or division of the window | Yes |
+| Modifying the wall opening dimensions | Yes |
+| Enclosing the balcony with joinery | Yes |
+| Historical monument building / protected area | Yes |
+
+For constructive modifications of the façade, Law 196/2018 requires the approval of two thirds of the association's member owners, plus the approval of all directly affected owners, and a building permit.
+
+## Why façade uniformity matters
+
+Many associations have rules in their condominium regulations about maintaining a unified façade appearance. The logic is simple: if every owner installed windows of different colours and shapes, the façade would become a disorderly mosaic, lowering the value of the entire building. That is why, before choosing a colour or configuration different from the block standard, check the association's regulations. If you also want to know what the legislation says from the city hall's perspective, read [Do I need a building permit to replace windows](/en/blog/building-permit-window-replacement-apartment-house-2026).
+
+## What you risk if you ignore the rules
+
+If you modify the façade without the association's approval, the other owners or the association can report you to the city hall or in court. The consequences can include the obligation to revert to the original appearance (at your expense), fines for unauthorised work and lasting conflicts with neighbours. At a possible sale of the apartment, unregistered modifications can create problems. To make sure you choose a compliant solution, see [How to choose energy-efficient windows](/en/blog/how-to-choose-energy-efficient-windows-bucharest-nzeb-guide-2026).
+
+> Any owner in the block can report non-compliant façade modifications — not just direct neighbours.
+
+## FAQ — Window replacement in an apartment block
+
+### Can I replace windows in an apartment block without the association's approval?
+Yes, if you keep the same size, shape and appearance (including colour). Identical replacement is maintenance work on individual property and requires no association approval. It is, however, recommended to inform the association through a simple notification.
+
+### When do I need the association's approval for windows?
+When you change the façade's appearance: changing the joinery colour, the shape or division of the window, the opening size, or enclosing the balcony. The façade is common property, and constructive modifications require the approval of two thirds of owners plus those directly affected.
+
+### Does changing the window colour affect the façade?
+Yes. If the block has white windows and you install anthracite or differently coloured ones, you modify the appearance of the common façade, which requires the association's approval under Law 196/2018 and, often, a building permit.
+
+### What happens if I replace windows without approval when it was required?
+The association or other owners can report you to the city hall or in court. You may be obliged to revert to the original appearance at your own expense, you may receive fines for unauthorised work and you may have problems when selling the apartment.
+
+### Must I notify the association even for an identical replacement?
+Legally you are not obliged for an identical replacement, but it is recommended. A simple notification avoids misunderstandings with neighbours and demonstrates good faith if later disputes arise about the façade's appearance.
+
+---
+
+Neofort BIZ installs Salamander PVC and Alumil aluminium joinery in apartment blocks in Bucharest and Ilfov, respecting the existing dimensions and appearance when no façade modification is desired. [Request a free on-site assessment](/en/contact).`,
+      de: `Sie wohnen in einem Wohnblock und möchten Ihre Fenster austauschen, fragen sich aber, ob Sie die Zustimmung der Eigentümergemeinschaft benötigen? Die kurze Antwort: In den meisten Fällen NEIN, wenn Sie dieselbe Größe, Form und dasselbe Erscheinungsbild beibehalten. Es gibt jedoch Situationen, in denen die Zustimmung verpflichtend wird, und ihr Fehlen kann zu Konflikten, Beschwerden und sogar zur Pflicht führen, den ursprünglichen Zustand wiederherzustellen. Dieser Leitfaden erklärt anhand des rumänischen Gesetzes 196/2018 genau, wann Sie Fenster frei austauschen können und wann Sie die Zustimmung der Gemeinschaft benötigen.
+
+## Die allgemeine Regel: identischer Austausch erfordert keine Zustimmung der Gemeinschaft
+
+Der Austausch alter Fenster durch neue mit derselben Größe, Form und demselben Erscheinungsbild gilt als Instandhaltungs- und Modernisierungsarbeit am individuellen Eigentum. Für solche Arbeiten erlaubt das Gesetz, frei vorzugehen, ohne die Zustimmung der Eigentümergemeinschaft und ohne Baugenehmigung. Dies bleibt auch dann gültig, wenn Sie das Material ändern — zum Beispiel alte Holzfenster durch PVC- oder Aluminiumfenster ersetzen.
+
+In der Praxis: Wenn das neue Fenster dieselben Abmessungen, dieselbe Farbe (in der Regel weiß) und dieselbe Aufteilung wie das alte hat, beeinträchtigt der Eingriff das Fassadenbild nicht und erfordert niemandes Zustimmung.
+
+> Empfehlung: Auch wenn Sie rechtlich nicht verpflichtet sind, ist es gut, die Gemeinschaft durch eine einfache Mitteilung zu informieren. Das vermeidet Streit mit Nachbarn und zeigt guten Glauben im Falle späterer Meinungsverschiedenheiten.
+
+## Die Fassade des Blocks ist Gemeinschaftseigentum
+
+Das ist der Schlüssel zum Verständnis. Gemäß dem Gesetz 196/2018 ist die Fassade des Blocks ein gemeinschaftlicher Teil des Gebäudes — sie gehört allen Eigentümern, nicht nur dem hinter dem jeweiligen Fenster. Daher liegt jeder Eingriff, der das Fassadenbild verändert, nicht mehr allein bei Ihnen.
+
+Das bedeutet: Solange Ihr neues Fenster genauso aussieht wie die anderen (gleiche Farbe, Form und Konfiguration), verändern Sie die Fassade nicht. Aber wenn Sie ein Fenster in einer anderen Farbe, mit einer anderen Aufteilung oder einer anderen Form einbauen, verändern Sie das Bild der gemeinsamen Fassade — und hier kommen die Regeln der Gemeinschaft ins Spiel.
+
+## Wann Sie die Zustimmung der Gemeinschaft BENÖTIGEN
+
+Die Zustimmung wird verpflichtend, wenn die Arbeit die Fassade oder die Gemeinschaftsteile betrifft. Die wichtigsten Situationen:
+
+| Situation | Zustimmung der Gemeinschaft erforderlich? |
+|---|---|
+| Identischer Austausch (gleiche Größe, Farbe, Form) | Nein |
+| Änderung der Fensterfarbe (z. B. von weiß zu anthrazit) | Ja |
+| Änderung der Form oder Aufteilung des Fensters | Ja |
+| Änderung der Maueröffnungsmaße | Ja |
+| Verglasung des Balkons | Ja |
+| Denkmalgeschütztes Gebäude / geschützter Bereich | Ja |
+
+Für konstruktive Änderungen der Fassade verlangt das Gesetz 196/2018 die Zustimmung von zwei Dritteln der Mitglieder-Eigentümer der Gemeinschaft, plus die Zustimmung aller direkt betroffenen Eigentümer, und eine Baugenehmigung.
+
+## Warum die Einheitlichkeit des Fassadenbildes zählt
+
+Viele Gemeinschaften haben in ihrer Hausordnung Regeln zur Wahrung eines einheitlichen Fassadenbildes. Die Logik ist einfach: Würde jeder Eigentümer Fenster in verschiedenen Farben und Formen einbauen, würde die Fassade zu einem unordentlichen Mosaik, was den Wert des gesamten Gebäudes mindert. Deshalb sollten Sie vor der Wahl einer Farbe oder Konfiguration, die vom Blockstandard abweicht, die Hausordnung prüfen. Wenn Sie auch wissen möchten, was die Gesetzgebung aus Sicht des Rathauses sagt, lesen Sie [Brauche ich eine Baugenehmigung für den Fenstertausch](/de/blog/baugenehmigung-fenstertausch-wohnung-haus-2026).
+
+## Was Sie riskieren, wenn Sie die Regeln ignorieren
+
+Wenn Sie die Fassade ohne Zustimmung der Gemeinschaft ändern, können die anderen Eigentümer oder die Gemeinschaft Sie beim Rathaus oder vor Gericht melden. Die Folgen können die Pflicht zur Wiederherstellung des ursprünglichen Erscheinungsbildes (auf Ihre Kosten), Bußgelder für nicht genehmigte Arbeiten und langwierige Konflikte mit Nachbarn umfassen. Bei einem möglichen Verkauf der Wohnung können nicht eingetragene Änderungen Probleme verursachen. Um sicherzugehen, dass Sie eine konforme Lösung wählen, siehe [Energieeffiziente Fenster auswählen](/de/blog/energieeffiziente-fenster-bukarest-auswaehlen-nzeb-leitfaden-2026).
+
+> Jeder Eigentümer im Block kann nicht konforme Fassadenänderungen melden — nicht nur die direkten Nachbarn.
+
+## FAQ — Fenstertausch im Wohnblock
+
+### Kann ich die Fenster im Wohnblock ohne Zustimmung der Gemeinschaft austauschen?
+Ja, wenn Sie dieselbe Größe, Form und dasselbe Erscheinungsbild (einschließlich Farbe) beibehalten. Der identische Austausch ist eine Instandhaltungsarbeit am individuellen Eigentum und erfordert keine Zustimmung der Gemeinschaft. Es wird jedoch empfohlen, die Gemeinschaft durch eine einfache Mitteilung zu informieren.
+
+### Wann benötige ich die Zustimmung der Gemeinschaft für Fenster?
+Wenn Sie das Fassadenbild ändern: die Fensterfarbe, die Form oder Aufteilung des Fensters, die Öffnungsgröße ändern oder den Balkon verglasen. Die Fassade ist Gemeinschaftseigentum, und konstruktive Änderungen erfordern die Zustimmung von zwei Dritteln der Eigentümer plus der direkt Betroffenen.
+
+### Wirkt sich die Änderung der Fensterfarbe auf die Fassade aus?
+Ja. Wenn der Block weiße Fenster hat und Sie anthrazitfarbene oder andersfarbige einbauen, verändern Sie das Bild der gemeinsamen Fassade, was die Zustimmung der Gemeinschaft gemäß Gesetz 196/2018 und oft eine Baugenehmigung erfordert.
+
+### Was passiert, wenn ich Fenster ohne erforderliche Zustimmung austausche?
+Die Gemeinschaft oder andere Eigentümer können Sie beim Rathaus oder vor Gericht melden. Sie können verpflichtet werden, das ursprüngliche Erscheinungsbild auf eigene Kosten wiederherzustellen, Bußgelder für nicht genehmigte Arbeiten erhalten und Probleme beim Verkauf der Wohnung bekommen.
+
+### Muss ich die Gemeinschaft auch bei einem identischen Austausch informieren?
+Rechtlich sind Sie bei einem identischen Austausch nicht verpflichtet, aber es wird empfohlen. Eine einfache Mitteilung vermeidet Missverständnisse mit Nachbarn und zeigt guten Glauben, falls später Streitigkeiten über das Fassadenbild entstehen.
+
+---
+
+Neofort BIZ montiert Fenster aus Salamander-PVC und Alumil-Aluminium in Wohnblöcken in Bukarest und Ilfov und behält die bestehenden Abmessungen und das Erscheinungsbild bei, wenn keine Fassadenänderung gewünscht ist. [Fordern Sie eine kostenlose Vor-Ort-Bewertung an](/de/kontakt).`,
+      fr: `Vous habitez en immeuble et souhaitez remplacer vos fenêtres, mais vous vous demandez si vous avez besoin de l'accord de l'association de copropriétaires ? La réponse courte : dans la plupart des cas NON, si vous conservez la même taille, forme et apparence. Mais il existe des situations où l'accord devient obligatoire, et son absence peut entraîner des conflits, des plaintes et même l'obligation de revenir à l'état initial. Ce guide explique, sur la base de la loi roumaine 196/2018, exactement quand vous pouvez remplacer les fenêtres librement et quand vous avez besoin de l'accord de l'association.
+
+## La règle générale : le remplacement identique ne nécessite pas l'accord de l'association
+
+Le remplacement d'anciennes fenêtres par de nouvelles de même taille, forme et apparence est considéré comme un travail d'entretien et de modernisation de la propriété individuelle. Pour de tels travaux, la loi vous permet de procéder librement, sans demander l'accord de l'association de copropriétaires et sans permis de construire. Cela reste valable même si vous changez le matériau — par exemple, remplacer d'anciennes fenêtres en bois par des fenêtres PVC ou aluminium.
+
+En pratique, si la nouvelle fenêtre a les mêmes dimensions, la même couleur (généralement blanc) et la même division que l'ancienne, l'intervention n'affecte pas l'aspect de la façade et ne nécessite l'accord de personne.
+
+> Recommandation : même si vous n'êtes pas légalement obligé, il est bon d'informer l'association par une simple notification. Cela évite les disputes avec les voisins et démontre la bonne foi en cas de désaccords ultérieurs.
+
+## La façade de l'immeuble est propriété commune
+
+C'est la clé de la compréhension. Selon la loi 196/2018, la façade de l'immeuble est une partie commune du bâtiment — elle appartient à tous les copropriétaires, pas seulement à celui derrière la fenêtre concernée. Par conséquent, toute intervention qui change l'aspect de la façade ne dépend plus seulement de vous.
+
+Cela signifie que, tant que votre nouvelle fenêtre ressemble aux autres (même couleur, forme et configuration), vous ne modifiez pas la façade. Mais si vous installez une fenêtre d'une couleur différente, avec une division différente ou une forme différente, vous changez l'aspect de la façade commune — et là les règles de l'association entrent en jeu.
+
+## Quand vous AVEZ besoin de l'accord de l'association
+
+L'accord devient obligatoire lorsque les travaux affectent la façade ou les parties communes. Les principales situations :
+
+| Situation | Accord de l'association nécessaire ? |
+|---|---|
+| Remplacement identique (même taille, couleur, forme) | Non |
+| Changement de la couleur de la menuiserie (ex. de blanc à anthracite) | Oui |
+| Changement de la forme ou division de la fenêtre | Oui |
+| Modification des dimensions de l'ouverture | Oui |
+| Fermeture du balcon avec menuiserie | Oui |
+| Bâtiment monument historique / zone protégée | Oui |
+
+Pour les modifications constructives de la façade, la loi 196/2018 exige l'accord de deux tiers des copropriétaires membres de l'association, plus l'accord de tous les copropriétaires directement affectés, et un permis de construire.
+
+## Pourquoi l'uniformité de l'aspect de la façade compte
+
+Beaucoup d'associations ont dans leur règlement de copropriété des règles sur le maintien d'un aspect unitaire de la façade. La logique est simple : si chaque copropriétaire installait des fenêtres de couleurs et de formes différentes, la façade deviendrait une mosaïque désordonnée, ce qui réduit la valeur de tout l'immeuble. C'est pourquoi, avant de choisir une couleur ou une configuration différente du standard de l'immeuble, vérifiez le règlement de l'association. Si vous voulez aussi savoir ce que dit la législation du point de vue de la mairie, lisez [Ai-je besoin d'un permis de construire pour remplacer les fenêtres](/fr/blog/permis-construire-remplacement-fenetres-appartement-maison-2026).
+
+## Ce que vous risquez si vous ignorez les règles
+
+Si vous modifiez la façade sans l'accord de l'association, les autres copropriétaires ou l'association peuvent vous signaler à la mairie ou en justice. Les conséquences peuvent inclure l'obligation de revenir à l'aspect initial (à vos frais), des amendes pour travaux non autorisés et des conflits durables avec les voisins. Lors d'une éventuelle vente de l'appartement, les modifications non enregistrées peuvent créer des problèmes. Pour être sûr de choisir une solution conforme, voir [Comment choisir des fenêtres efficaces énergétiquement](/fr/blog/comment-choisir-fenetres-efficaces-energetiquement-bucarest-nzeb-2026).
+
+> Tout copropriétaire de l'immeuble peut signaler les modifications non conformes de la façade — pas seulement les voisins directs.
+
+## FAQ — Remplacement des fenêtres en immeuble
+
+### Puis-je remplacer les fenêtres en immeuble sans l'accord de l'association ?
+Oui, si vous conservez la même taille, forme et apparence (y compris la couleur). Le remplacement identique est un travail d'entretien de la propriété individuelle et ne nécessite pas l'accord de l'association. Il est toutefois recommandé d'informer l'association par une simple notification.
+
+### Quand ai-je besoin de l'accord de l'association pour les fenêtres ?
+Lorsque vous changez l'aspect de la façade : changer la couleur de la menuiserie, la forme ou division de la fenêtre, la taille de l'ouverture, ou fermer le balcon. La façade est propriété commune, et les modifications constructives nécessitent l'accord de deux tiers des copropriétaires plus ceux directement affectés.
+
+### Changer la couleur des fenêtres affecte-t-il la façade ?
+Oui. Si l'immeuble a des fenêtres blanches et que vous installez des fenêtres anthracite ou d'une autre couleur, vous modifiez l'aspect de la façade commune, ce qui nécessite l'accord de l'association selon la loi 196/2018 et, souvent, un permis de construire.
+
+### Que se passe-t-il si je remplace les fenêtres sans accord alors qu'il était nécessaire ?
+L'association ou les autres copropriétaires peuvent vous signaler à la mairie ou en justice. Vous pouvez être obligé de revenir à l'aspect initial à vos frais, recevoir des amendes pour travaux non autorisés et avoir des problèmes lors de la vente de l'appartement.
+
+### Dois-je informer l'association même pour un remplacement identique ?
+Légalement vous n'êtes pas obligé pour un remplacement identique, mais c'est recommandé. Une simple notification évite les malentendus avec les voisins et démontre la bonne foi si des désaccords surviennent plus tard sur l'aspect de la façade.
+
+---
+
+Neofort BIZ installe de la menuiserie PVC Salamander et aluminium Alumil en immeuble à Bucarest et Ilfov, en respectant les dimensions et l'aspect existants lorsqu'aucune modification de façade n'est souhaitée. [Demandez une évaluation gratuite sur place](/fr/contact).`,
+      es: `Vives en un bloque de pisos y quieres cambiar las ventanas, pero te preguntas si necesitas el acuerdo de la comunidad de propietarios? La respuesta corta: en la mayoría de los casos NO, si conservas el mismo tamaño, forma y aspecto. Pero hay situaciones en las que el acuerdo se vuelve obligatorio, y no obtenerlo puede provocar conflictos, denuncias e incluso la obligación de volver al estado inicial. Esta guía explica, sobre la base de la ley rumana 196/2018, exactamente cuándo puedes cambiar las ventanas libremente y cuándo necesitas el acuerdo de la comunidad.
+
+## La regla general: la sustitución idéntica no requiere el acuerdo de la comunidad
+
+La sustitución de ventanas viejas por nuevas del mismo tamaño, forma y aspecto se considera un trabajo de mantenimiento y modernización de la propiedad individual. Para tales trabajos, la ley te permite proceder libremente, sin solicitar el acuerdo de la comunidad de propietarios y sin permiso de construcción. Esto sigue siendo válido incluso si cambias el material — por ejemplo, sustituir ventanas viejas de madera por ventanas de PVC o aluminio.
+
+En la práctica, si la nueva ventana tiene las mismas dimensiones, el mismo color (normalmente blanco) y la misma división que la vieja, la intervención no afecta al aspecto de la fachada y no requiere el acuerdo de nadie.
+
+> Recomendación: aunque no estés legalmente obligado, conviene informar a la comunidad mediante una simple notificación. Evita disputas con los vecinos y demuestra buena fe en caso de desacuerdos posteriores.
+
+## La fachada del bloque es propiedad común
+
+Esta es la clave de la comprensión. Según la ley 196/2018, la fachada del bloque es una parte común del edificio — pertenece a todos los propietarios, no solo al que está detrás de esa ventana concreta. Por lo tanto, cualquier intervención que cambie el aspecto de la fachada ya no depende solo de ti.
+
+Esto significa que, mientras tu nueva ventana se vea igual que las demás (mismo color, forma y configuración), no modificas la fachada. Pero si instalas una ventana de un color diferente, con otra división u otra forma, cambias el aspecto de la fachada común — y aquí entran en juego las reglas de la comunidad.
+
+## Cuándo SÍ necesitas el acuerdo de la comunidad
+
+El acuerdo se vuelve obligatorio cuando el trabajo afecta a la fachada o a las partes comunes. Las principales situaciones:
+
+| Situación | ¿Acuerdo de la comunidad necesario? |
+|---|---|
+| Sustitución idéntica (mismo tamaño, color, forma) | No |
+| Cambio del color de la carpintería (ej. de blanco a antracita) | Sí |
+| Cambio de la forma o división de la ventana | Sí |
+| Modificación de las dimensiones del hueco | Sí |
+| Cierre del balcón con carpintería | Sí |
+| Edificio monumento histórico / zona protegida | Sí |
+
+Para las modificaciones constructivas de la fachada, la ley 196/2018 exige el acuerdo de dos tercios de los propietarios miembros de la comunidad, más el acuerdo de todos los propietarios directamente afectados, y un permiso de construcción.
+
+## Por qué importa la uniformidad del aspecto de la fachada
+
+Muchas comunidades tienen en su reglamento de la propiedad horizontal reglas sobre el mantenimiento de un aspecto unitario de la fachada. La lógica es simple: si cada propietario instalara ventanas de colores y formas diferentes, la fachada se convertiría en un mosaico desordenado, lo que reduce el valor de todo el edificio. Por eso, antes de elegir un color o configuración diferente del estándar del bloque, consulta el reglamento de la comunidad. Si también quieres saber qué dice la legislación desde la perspectiva del ayuntamiento, lee [¿Necesito permiso de construcción para cambiar las ventanas](/es/blog/permiso-construccion-cambio-ventanas-apartamento-casa-2026).
+
+## Qué arriesgas si ignoras las reglas
+
+Si modificas la fachada sin el acuerdo de la comunidad, los otros propietarios o la comunidad pueden denunciarte al ayuntamiento o ante los tribunales. Las consecuencias pueden incluir la obligación de volver al aspecto inicial (a tu cargo), multas por trabajos no autorizados y conflictos duraderos con los vecinos. En una posible venta del piso, las modificaciones no registradas pueden crear problemas. Para asegurarte de elegir una solución conforme, consulta [Cómo elegir ventanas eficientes energéticamente](/es/blog/como-elegir-ventanas-eficientes-energeticamente-bucarest-nzeb-2026).
+
+> Cualquier propietario del bloque puede denunciar las modificaciones no conformes de la fachada — no solo los vecinos directos.
+
+## FAQ — Cambio de ventanas en un bloque
+
+### ¿Puedo cambiar las ventanas en un bloque sin el acuerdo de la comunidad?
+Sí, si conservas el mismo tamaño, forma y aspecto (incluido el color). La sustitución idéntica es un trabajo de mantenimiento de la propiedad individual y no requiere el acuerdo de la comunidad. Sin embargo, se recomienda informar a la comunidad mediante una simple notificación.
+
+### ¿Cuándo necesito el acuerdo de la comunidad para las ventanas?
+Cuando cambias el aspecto de la fachada: cambiar el color de la carpintería, la forma o división de la ventana, el tamaño del hueco, o cerrar el balcón. La fachada es propiedad común, y las modificaciones constructivas requieren el acuerdo de dos tercios de los propietarios más los directamente afectados.
+
+### ¿Cambiar el color de las ventanas afecta a la fachada?
+Sí. Si el bloque tiene ventanas blancas e instalas ventanas antracita o de otro color, modificas el aspecto de la fachada común, lo que requiere el acuerdo de la comunidad según la ley 196/2018 y, a menudo, un permiso de construcción.
+
+### ¿Qué pasa si cambio las ventanas sin acuerdo cuando era necesario?
+La comunidad o los otros propietarios pueden denunciarte al ayuntamiento o ante los tribunales. Puedes ser obligado a volver al aspecto inicial a tu cargo, recibir multas por trabajos no autorizados y tener problemas al vender el piso.
+
+### ¿Debo informar a la comunidad incluso para una sustitución idéntica?
+Legalmente no estás obligado para una sustitución idéntica, pero es recomendable. Una simple notificación evita malentendidos con los vecinos y demuestra buena fe si surgen disputas posteriores sobre el aspecto de la fachada.
+
+---
+
+Neofort BIZ instala carpintería de PVC Salamander y aluminio Alumil en bloques de pisos en Bucarest e Ilfov, respetando las dimensiones y el aspecto existentes cuando no se desea modificar la fachada. [Solicita una evaluación gratuita in situ](/es/contacto).`,
+      it: `Vivi in un condominio e vuoi sostituire le finestre, ma ti chiedi se hai bisogno del consenso dell'associazione dei proprietari? La risposta breve: nella maggior parte dei casi NO, se conservi la stessa dimensione, forma e aspetto. Ma ci sono situazioni in cui il consenso diventa obbligatorio, e non ottenerlo può portare a conflitti, segnalazioni e persino all'obbligo di tornare allo stato iniziale. Questa guida spiega, sulla base della legge rumena 196/2018, esattamente quando puoi sostituire le finestre liberamente e quando hai bisogno del consenso dell'associazione.
+
+## La regola generale: la sostituzione identica non richiede il consenso dell'associazione
+
+La sostituzione di vecchie finestre con nuove della stessa dimensione, forma e aspetto è considerata un lavoro di manutenzione e modernizzazione della proprietà individuale. Per tali lavori, la legge ti permette di procedere liberamente, senza richiedere il consenso dell'associazione dei proprietari e senza permesso di costruire. Questo resta valido anche se cambi il materiale — ad esempio, sostituire vecchie finestre in legno con finestre in PVC o alluminio.
+
+In pratica, se la nuova finestra ha le stesse dimensioni, lo stesso colore (di solito bianco) e la stessa divisione di quella vecchia, l'intervento non influisce sull'aspetto della facciata e non richiede il consenso di nessuno.
+
+> Raccomandazione: anche se non sei legalmente obbligato, è bene informare l'associazione con una semplice notifica. Evita dispute con i vicini e dimostra buona fede in caso di disaccordi successivi.
+
+## La facciata del condominio è proprietà comune
+
+Questa è la chiave della comprensione. Secondo la legge 196/2018, la facciata del condominio è una parte comune dell'edificio — appartiene a tutti i proprietari, non solo a quello dietro quella specifica finestra. Pertanto, qualsiasi intervento che cambia l'aspetto della facciata non dipende più solo da te.
+
+Questo significa che, finché la tua nuova finestra appare uguale alle altre (stesso colore, forma e configurazione), non modifichi la facciata. Ma se installi una finestra di un colore diverso, con una divisione diversa o una forma diversa, cambi l'aspetto della facciata comune — e qui entrano in gioco le regole dell'associazione.
+
+## Quando HAI bisogno del consenso dell'associazione
+
+Il consenso diventa obbligatorio quando il lavoro interessa la facciata o le parti comuni. Le principali situazioni:
+
+| Situazione | Consenso dell'associazione necessario? |
+|---|---|
+| Sostituzione identica (stessa dimensione, colore, forma) | No |
+| Cambio del colore dei serramenti (es. da bianco a antracite) | Sì |
+| Cambio della forma o divisione della finestra | Sì |
+| Modifica delle dimensioni dell'apertura | Sì |
+| Chiusura del balcone con serramenti | Sì |
+| Edificio monumento storico / area protetta | Sì |
+
+Per le modifiche costruttive della facciata, la legge 196/2018 richiede il consenso di due terzi dei proprietari membri dell'associazione, più il consenso di tutti i proprietari direttamente interessati, e un permesso di costruire.
+
+## Perché conta l'uniformità dell'aspetto della facciata
+
+Molte associazioni hanno nel regolamento condominiale regole sul mantenimento di un aspetto unitario della facciata. La logica è semplice: se ogni proprietario installasse finestre di colori e forme diverse, la facciata diventerebbe un mosaico disordinato, riducendo il valore dell'intero edificio. Per questo, prima di scegliere un colore o una configurazione diversa dallo standard del condominio, verifica il regolamento dell'associazione. Se vuoi anche sapere cosa dice la legislazione dal punto di vista del comune, leggi [Ho bisogno di un permesso di costruire per sostituire le finestre](/it/blog/permesso-costruire-sostituzione-finestre-appartamento-casa-2026).
+
+## Cosa rischi se ignori le regole
+
+Se modifichi la facciata senza il consenso dell'associazione, gli altri proprietari o l'associazione possono segnalarti al comune o in tribunale. Le conseguenze possono includere l'obbligo di tornare all'aspetto iniziale (a tue spese), multe per lavori non autorizzati e conflitti duraturi con i vicini. In una possibile vendita dell'appartamento, le modifiche non registrate possono creare problemi. Per essere sicuro di scegliere una soluzione conforme, vedi [Come scegliere finestre efficienti dal punto di vista energetico](/it/blog/come-scegliere-finestre-efficienti-energeticamente-bucarest-nzeb-2026).
+
+> Qualsiasi proprietario del condominio può segnalare le modifiche non conformi della facciata — non solo i vicini diretti.
+
+## FAQ — Sostituzione finestre in condominio
+
+### Posso sostituire le finestre in condominio senza il consenso dell'associazione?
+Sì, se conservi la stessa dimensione, forma e aspetto (incluso il colore). La sostituzione identica è un lavoro di manutenzione della proprietà individuale e non richiede il consenso dell'associazione. È però raccomandato informare l'associazione con una semplice notifica.
+
+### Quando ho bisogno del consenso dell'associazione per le finestre?
+Quando cambi l'aspetto della facciata: cambiare il colore dei serramenti, la forma o divisione della finestra, la dimensione dell'apertura, o chiudere il balcone. La facciata è proprietà comune, e le modifiche costruttive richiedono il consenso di due terzi dei proprietari più quelli direttamente interessati.
+
+### Cambiare il colore delle finestre influisce sulla facciata?
+Sì. Se il condominio ha finestre bianche e installi finestre antracite o di un altro colore, modifichi l'aspetto della facciata comune, il che richiede il consenso dell'associazione secondo la legge 196/2018 e, spesso, un permesso di costruire.
+
+### Cosa succede se sostituisco le finestre senza consenso quando era necessario?
+L'associazione o gli altri proprietari possono segnalarti al comune o in tribunale. Puoi essere obbligato a tornare all'aspetto iniziale a tue spese, ricevere multe per lavori non autorizzati e avere problemi nella vendita dell'appartamento.
+
+### Devo informare l'associazione anche per una sostituzione identica?
+Legalmente non sei obbligato per una sostituzione identica, ma è raccomandato. Una semplice notifica evita malintesi con i vicini e dimostra buona fede se sorgono dispute successive sull'aspetto della facciata.
+
+---
+
+Neofort BIZ installa serramenti in PVC Salamander e alluminio Alumil in condominio a Bucarest e Ilfov, rispettando le dimensioni e l'aspetto esistenti quando non si desidera modificare la facciata. [Richiedi una valutazione gratuita in loco](/it/contatti).`
+    },
+  },
 ];
 
 

@@ -783,6 +783,14 @@ export const routing = defineRouting({
       es: '/blog/certificado-energetico-edificio-que-es-componentes-papel-ventanas',
       it: '/blog/certificato-energetico-edificio-cos-e-componenti-ruolo-finestre',
     },
+    '/blog/pot-schimba-ferestrele-bloc-fara-acordul-asociatiei-2026': {
+      ro: '/blog/pot-schimba-ferestrele-bloc-fara-acordul-asociatiei-2026',
+      en: '/blog/can-i-replace-windows-apartment-block-without-association-approval-2026',
+      de: '/blog/fenster-wohnblock-ohne-zustimmung-eigentuemergemeinschaft-2026',
+      fr: '/blog/remplacer-fenetres-immeuble-sans-accord-association-coproprietaires-2026',
+      es: '/blog/cambiar-ventanas-bloque-sin-acuerdo-comunidad-propietarios-2026',
+      it: '/blog/sostituire-finestre-condominio-senza-consenso-associazione-2026',
+    },
 
   // PILLAR PAGES
   }
