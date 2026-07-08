@@ -75,7 +75,11 @@ export default async function BlogPage({ params }) {
   const read = UI[locale]   || UI.ro;
 
   // Sortare FIFO descrescător — cel mai nou articol primul
-  const articles = [...ARTICLES].sort((a, b) => new Date(b.date) - new Date(a.date));
+  // v199: strip `content` (6 limbi, ~1.6MB) din props — BlogGrid e 'use client', iar Next
+  // serializeaza TOATE props-urile in payload-ul HTML. Cardurile folosesc doar metadatele.
+  const articles = [...ARTICLES]
+    .sort((a, b) => new Date(b.date) - new Date(a.date))
+    .map(({ content, ...meta }) => meta);
 
   // Schema JSON-LD — TOATE articolele indexate (filtrele sunt client-side, nu afecteaza SEO)
   const schema = {

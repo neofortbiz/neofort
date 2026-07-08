@@ -1,3 +1,4 @@
+import { BASE } from '../../../lib/constants.js';
 import { Resend } from 'resend';
 
 const resend = new Resend(process.env.RESEND_API_KEY);
@@ -132,7 +133,7 @@ export async function POST(request) {
 
             <!-- Butoane -->
             <div style="display:flex;gap:12px;margin-bottom:32px;">
-              <a href="https://www.neofort-biz.ro" style="display:inline-block;background:#1a1a1a;color:#fff;font-family:sans-serif;font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;padding:14px 28px;text-decoration:none;">
+              <a href="${BASE}" style="display:inline-block;background:#1a1a1a;color:#fff;font-family:sans-serif;font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;padding:14px 28px;text-decoration:none;">
                 Vizitați site-ul
               </a>
               <a href="tel:+40752443435" style="display:inline-block;background:transparent;color:#1a1a1a;font-family:sans-serif;font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;padding:14px 28px;text-decoration:none;border:1px solid #1a1a1a;">
@@ -150,7 +151,7 @@ export async function POST(request) {
             <div style="color:#fff;letter-spacing:.2em;text-transform:uppercase;font-size:.65rem;margin-bottom:6px;">NEOFORT BIZ SRL</div>
             Str. Theodor Aman 11, Sector 1, București 010776<br/>
             Luni — Vineri: 10:00 — 18:00<br/>
-            <a href="https://www.neofort-biz.ro" style="color:#404040;text-decoration:none;">www.neofort-biz.ro</a>
+            <a href="${BASE}" style="color:#404040;text-decoration:none;">www.neofort-biz.ro</a>
             <div style="margin-top:12px;font-size:.65rem;color:#555;">
               Marcă înregistrată O.S.I.M. nr. M 2014 05130 · Acest email a fost generat automat ca urmare a solicitării dvs.
             </div>

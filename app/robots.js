@@ -1,3 +1,5 @@
+import { BASE } from '../lib/constants.js';
+
 export default function robots() {
   return {
     rules: [
@@ -50,6 +52,6 @@ export default function robots() {
       // Default — toți ceilalți
       { userAgent: '*', allow: '/', disallow: ['/api/'] },
     ],
-    sitemap: 'https://www.neofort-biz.ro/sitemap.xml',
+    sitemap: `${BASE}/sitemap.xml`,
   };
 }

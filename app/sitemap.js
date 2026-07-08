@@ -13,7 +13,8 @@ const PAGE_SLUGS = {
   it: { pvc:'infissi-pvc', aluminiu:'infissi-alluminio', accesorii:'accessori', servicii:'servizi', contact:'contatti', despre:'chi-siamo', gdpr:'informativa-privacy', cookies:'politica-cookie', umbrire:'sistemi-oscuramento', nzeb:'sistemi-nzeb' },
 };
 
-const BLOG_SLUGS = ARTICLES.map(a => a.slugs); // sincronizat automat cu data/blog.js (v188 — elimina desincronizare, 22 articole lipseau anterior)
+// v199: transportă și data reală (dateModified || date) pentru lastModified corect per articol
+const BLOG_SLUGS = ARTICLES.map(a => ({ slugs: a.slugs, lastmod: a.dateModified || a.date })); // sincronizat automat cu data/blog.js
 
 const pages = [
   { key:'',          priority:1.0, freq:'weekly'  },
@@ -59,11 +60,11 @@ export default function sitemap() {
     });
 
     // Articole blog — slug tradus per limbă
-    BLOG_SLUGS.forEach(slugs => {
+    BLOG_SLUGS.forEach(({ slugs, lastmod }) => {
       const mySlug = slugs[locale] || slugs.ro;
       urls.push({
         url: `${BASE}/${locale}/blog/${mySlug}`,
-        lastModified: now,
+        lastModified: lastmod,
         priority: 0.8,
         changeFrequency: 'monthly',
         alternates: {

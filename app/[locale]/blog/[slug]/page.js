@@ -44,7 +44,7 @@ export async function generateMetadata({ params }) {
       description: desc,
       images: [{ url: a.imageOg ? `${BASE}${a.imageOg}` : `${BASE}/og/BLOG.jpg`, width: 1200, height: 630, alt: title, type: 'image/jpeg' }],
       publishedTime: a.date,
-      modifiedTime: a.date,
+      modifiedTime: a.dateModified || a.date,
       locale: locale,
     },
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[a.imageOg ? `${BASE}${a.imageOg}` : `${BASE}/og/BLOG.jpg`] },
@@ -231,7 +231,7 @@ export default async function BlogArticlePage({ params }) {
     "headline": title,"description": a.metaDesc?.[locale] || excerpt,
     "keywords": a.keywords || '',"url": `${BASE}/${locale}/blog/${mySlug}`,
     "datePublished": a.date,
-    "wordCount": a.content?.[locale]?.split(/\s+/).length || a.content?.ro?.split(/\s+/).length || 800,"dateModified": a.date,"inLanguage": locale,
+    "wordCount": a.content?.[locale]?.split(/\s+/).length || a.content?.ro?.split(/\s+/).length || 800,"dateModified": a.dateModified || a.date,"inLanguage": locale,
     "articleSection": cat,
     "author": {
       "@type": "Person",
