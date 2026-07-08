@@ -1,7 +1,6 @@
 import { Link } from '../../../i18n/navigation';
 import { ARTICLES } from '../../../data/blog.js';
 import BlogGrid from './BlogGrid';
-import { THEMES, THEME_LABELS, CAT_PATHS, CATEGORY_THEME } from '../../../lib/blogCategories.js';
 
 import { BASE, LOCALES } from '../../../lib/constants.js';
 const META = {
@@ -150,22 +149,6 @@ export default async function BlogPage({ params }) {
         IMPORTANT SEO: Toate articolele sunt in schema JSON-LD de mai sus (server-side).
         Client Component-ul filtreaza doar vizual — crawlerele vad tot continutul.
       */}
-      {/* v202: nav categorii crawlabil (server-rendered) — hub-uri tematice indexabile */}
-      <nav aria-label="Categorii" style={{ maxWidth: 1180, margin: '0 auto', padding: '0 20px 4px' }}>
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10 }}>
-          {THEMES.map(theme => {
-            const n = articles.filter(a => CATEGORY_THEME[a.category?.ro] === theme).length;
-            if (n === 0) return null;
-            return (
-              <a key={theme} href={`/${locale}${CAT_PATHS[theme][locale]}`}
-                 style={{ fontSize: '.72rem', letterSpacing: '.1em', textTransform: 'uppercase', color: '#595959',
-                          border: '1px solid #e5e5e5', borderRadius: 2, padding: '7px 14px', textDecoration: 'none', background: '#fff' }}>
-                {(THEME_LABELS[locale] || THEME_LABELS.ro)[theme]} <span style={{ color: '#aaa' }}>({n})</span>
-              </a>
-            );
-          })}
-        </div>
-      </nav>
       <BlogGrid articles={articles} locale={locale} read={read} />
     </>
   );

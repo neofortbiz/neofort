@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useMemo, useCallback } from 'react';
-import { CATEGORY_THEME, THEME_LABELS } from '../../../lib/blogCategories.js';
+import { CATEGORY_THEME, THEME_LABELS, CAT_PATHS } from '../../../lib/blogCategories.js';
 import Link from 'next/link';
 
 // ── Mapare categorie RO → temă internă ──────────────────────────────────────
@@ -237,16 +237,17 @@ export default function BlogGrid({ articles, locale, read }) {
       <nav className="bg-bar" aria-label={labels.all}>
         <div className="bg-bar-inner">
           {FILTER_KEYS.map(key => (
-            <button
+            <a
               key={key}
+              href={key === 'all' ? `/${locale}/blog` : `/${locale}${CAT_PATHS[key][locale]}`}
               className={`bg-pill${activeFilter === key ? ' active' : ''}`}
-              style={activeFilter === key ? { color: THEME_COLOR[key] } : {}}
-              onClick={() => handleFilter(key)}
-              aria-pressed={activeFilter === key}
+              style={{ textDecoration: 'none', ...(activeFilter === key ? { color: THEME_COLOR[key] } : {}) }}
+              onClick={(e) => { e.preventDefault(); handleFilter(key); }}
+              aria-current={activeFilter === key ? 'true' : undefined}
             >
               {labels[key]}
               <span className="bg-count">{counts[key]}</span>
-            </button>
+            </a>
           ))}
         </div>
       </nav>
