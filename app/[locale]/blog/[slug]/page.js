@@ -226,6 +226,54 @@ export default async function BlogArticlePage({ params }) {
   } : null;
 
   const authorName = a.author || 'Mihai Dănălache';
+
+  // ── v201: entități semantice per articol (E-E-A-T + AEO) ──
+  // citation: actele normative pe care se bazează articolul (schema.org/Legislation — nume oficial,
+  //           fără URL-uri externe ca să nu riscăm linkuri greșite; numele e suficient semantic)
+  // about:    entitățile principale ale articolului (Thing cu sameAs Wikipedia unde există pagină stabilă)
+  const ARTICLE_ENTITIES = {
+    'autorizatie-construire-schimbare-ferestre-apartament-casa-2026': {
+      citation: [
+        { "@type":"Legislation", "name":"Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții", "legislationIdentifier":"Legea 50/1991" },
+        { "@type":"Legislation", "name":"Ordonanța de urgență nr. 31/2025", "legislationIdentifier":"OUG 31/2025" },
+      ],
+      about: [ { "@type":"Thing", "name":"Autorizație de construire" } ],
+    },
+    'pot-schimba-ferestrele-bloc-fara-acordul-asociatiei-2026': {
+      citation: [
+        { "@type":"Legislation", "name":"Legea nr. 196/2018 privind înființarea, organizarea și funcționarea asociațiilor de proprietari", "legislationIdentifier":"Legea 196/2018" },
+      ],
+      about: [ { "@type":"Thing", "name":"Asociație de proprietari" } ],
+    },
+    'certificat-energetic-cladire-ce-este-componente-rol-ferestre': {
+      citation: [
+        { "@type":"Legislation", "name":"Legea nr. 372/2005 privind performanța energetică a clădirilor", "legislationIdentifier":"Legea 372/2005" },
+      ],
+      about: [ { "@type":"Thing", "name":"Certificat de performanță energetică", "sameAs":"https://en.wikipedia.org/wiki/Energy_performance_certificate" } ],
+    },
+    'legislatie-2026-produse-constructii-regulament-european': {
+      citation: [
+        { "@type":"Legislation", "name":"Regulamentul (UE) privind produsele pentru construcții (CPR)", "legislationIdentifier":"Regulamentul UE 305/2011" },
+      ],
+    },
+    'subventii-programe-schimb-ferestre-2026-pnrr-casa-eficienta': {
+      about: [
+        { "@type":"Thing", "name":"Planul Național de Redresare și Reziliență (PNRR)" },
+        { "@type":"Thing", "name":"Eficiență energetică", "sameAs":"https://en.wikipedia.org/wiki/Efficient_energy_use" },
+      ],
+    },
+    'ce-coeficient-termic-trebuie-sa-aiba-ferestrele': {
+      about: [ { "@type":"Thing", "name":"Coeficient de transfer termic (valoare U)", "sameAs":"https://en.wikipedia.org/wiki/Thermal_transmittance" } ],
+    },
+    'ferestre-casa-nzeb-romania-ghid-complet-2026': {
+      about: [ { "@type":"Thing", "name":"Clădire cu consum de energie aproape zero (nZEB)", "sameAs":"https://en.wikipedia.org/wiki/Zero-energy_building" } ],
+    },
+    'mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre': {
+      about: [ { "@type":"Thing", "name":"Policlorură de vinil (PVC)", "sameAs":"https://en.wikipedia.org/wiki/Polyvinyl_chloride" } ],
+    },
+  };
+  const entities = ARTICLE_ENTITIES[a.slugs.ro] || {};
+
   const articleSchema = {
     "@context":"https://schema.org","@type":"BlogPosting",
     "headline": title,"description": a.metaDesc?.[locale] || excerpt,
@@ -244,6 +292,11 @@ export default async function BlogArticlePage({ params }) {
       "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":200,"height":60}},
     "image": {"@type":"ImageObject","url": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`,"width":1200,"height":630},
     "mainEntityOfPage": {"@type":"WebPage","@id":`${BASE}/${locale}/blog/${mySlug}`},
+    // v201: speakable (asistenți vocali + AEO) — titlul și headingurile de secțiune
+    "speakable": { "@type":"SpeakableSpecification", "cssSelector": ["h1", "article h2"] },
+    // v201: entități semantice (doar unde sunt definite pentru articol)
+    ...(entities.citation ? { "citation": entities.citation } : {}),
+    ...(entities.about ? { "about": entities.about } : {}),
   };
 
   const breadcrumbSchema = {
