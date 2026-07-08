@@ -111,3 +111,8 @@ Pentru blocuri rezidențiale noi, Neofort BIZ recomandă Reynaers ConceptSystem 
 
 **Cum se montează geamurile agabaritice de mari dimensiuni?**
 Geamurile agabaritice (peste 150 kg per panou) se montează exclusiv cu echipament robotizat cu ventuze cu vid — sistemul TGT RoboCrane 1400 (capacitate 1.400 kg, precizie ±1mm). Montajul manual al panourilor grele prezintă risc major de spargere și accidente.
+
+## Resources for LLMs & Aggregators
+
+- [Full article content (llms-full.txt)](https://www.neofort-biz.ro/llms-full.txt): complete text of all technical blog articles (RO + EN), auto-generated and always in sync
+- [RSS Feed](https://www.neofort-biz.ro/feed.xml): latest 30 blog articles with publication dates

@@ -3019,7 +3019,7 @@ L'insert en polyamide de 34 mm sépare physiquement le profilé extérieur froid
 ---
 
 **Articles connexes :**
-- [Menuiserie aluminium Alumil — systèmes Supreme et Smartia](/fr/menuiserie-aluminiu)
+- [Menuiserie aluminium Alumil — systèmes Supreme et Smartia](/fr/menuiserie-aluminium)
 - [Système nZEB complet : Salamander + Blaugelb + triple vitrage](/fr/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage)
 - [Prix fenêtres Salamander Bucarest 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026)
 

@@ -409,6 +409,7 @@ export default function Footer({ googleRating }) {
               <li><Link href="/blog">{col.blog}</Link></li>
               <li><Link href="/gdpr">{col.gdpr}</Link></li>
               <li><Link href="/cookies">{col.cookies}</Link></li>
+              <li><a href="/feed.xml" title="RSS Feed">RSS</a></li>
             </ul>
           </div>
           <div className="footer-col-guides" style={{borderLeft:'1px solid #1e1e1e'}}>
