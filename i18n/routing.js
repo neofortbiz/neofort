@@ -86,6 +86,36 @@ export const routing = defineRouting({
       it: '/contatti',
     },
     '/blog': '/blog',
+
+    // ── PAGINI CATEGORIE BLOG (v202) — sincron cu lib/blogCategories.js CAT_PATHS ──
+    '/blog/categorie/pvc': {
+      ro: '/blog/categorie/pvc', en: '/blog/category/pvc', de: '/blog/kategorie/pvc',
+      fr: '/blog/categorie/pvc', es: '/blog/categoria/pvc', it: '/blog/categoria/pvc',
+    },
+    '/blog/categorie/aluminiu': {
+      ro: '/blog/categorie/aluminiu', en: '/blog/category/aluminium', de: '/blog/kategorie/aluminium',
+      fr: '/blog/categorie/aluminium', es: '/blog/categoria/aluminio', it: '/blog/categoria/alluminio',
+    },
+    '/blog/categorie/umbrire': {
+      ro: '/blog/categorie/umbrire', en: '/blog/category/shading', de: '/blog/kategorie/beschattung',
+      fr: '/blog/categorie/occultation', es: '/blog/categoria/sombreado', it: '/blog/categoria/oscuramento',
+    },
+    '/blog/categorie/nzeb': {
+      ro: '/blog/categorie/nzeb', en: '/blog/category/nzeb', de: '/blog/kategorie/nzeb',
+      fr: '/blog/categorie/nzeb', es: '/blog/categoria/nzeb', it: '/blog/categoria/nzeb',
+    },
+    '/blog/categorie/automatizare': {
+      ro: '/blog/categorie/automatizare', en: '/blog/category/automation', de: '/blog/kategorie/automation',
+      fr: '/blog/categorie/automatisation', es: '/blog/categoria/automatizacion', it: '/blog/categoria/automazione',
+    },
+    '/blog/categorie/proiecte': {
+      ro: '/blog/categorie/proiecte', en: '/blog/category/projects', de: '/blog/kategorie/projekte',
+      fr: '/blog/categorie/projets', es: '/blog/categoria/proyectos', it: '/blog/categoria/progetti',
+    },
+    '/blog/categorie/ghiduri': {
+      ro: '/blog/categorie/ghiduri', en: '/blog/category/guides', de: '/blog/kategorie/ratgeber',
+      fr: '/blog/categorie/guides', es: '/blog/categoria/guias', it: '/blog/categoria/guide',
+    },
     '/blog/bluevolution-92-vs-greenevolution-76': {
       ro: '/blog/bluevolution-92-vs-greenevolution-76',
       en: '/blog/bluevolution-92-vs-greenevolution-76-guide',

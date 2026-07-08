@@ -1,44 +1,13 @@
 'use client';
 
 import { useState, useEffect, useMemo, useCallback } from 'react';
+import { CATEGORY_THEME, THEME_LABELS } from '../../../lib/blogCategories.js';
 import Link from 'next/link';
 
 // ── Mapare categorie RO → temă internă ──────────────────────────────────────
-const CATEGORY_THEME = {
-  'Ghid tehnic': 'pvc',
-  'Comparație produse': 'pvc',
-  'Prețuri & Comparație': 'pvc',
-  'Ghiduri & Sfaturi': 'pvc',
-  'Tâmplărie Aluminiu': 'aluminiu',
-  'Pereți Cortină': 'aluminiu',
-  'Pereți Cortină & Birouri': 'aluminiu',
-  'Vitrine & Geamuri Mari': 'aluminiu',
-  'Sisteme Umbrire': 'umbrire',
-  'Sisteme de Umbrire': 'umbrire',
-  'Montaj & Izolare': 'nzeb',
-  'Prețuri & Ghid': 'nzeb',
-  'Renovare & Ghid': 'nzeb',
-  'Automatizare & Smart Home': 'automatizare',
-  'Smart Home & Automatizare': 'automatizare',
-  'Case Individuale & Export': 'proiecte',
-  'Case Noi & Smart Home': 'proiecte',
-  'Export & Europa': 'proiecte',
-  'Export & Case Munte': 'proiecte',
-  'Export & Livrare': 'proiecte',
-  'Lucrări București': 'proiecte',
-  'Construcții Noi & Blocuri': 'proiecte',
-  'Montaj Specializat': 'proiecte',
-  'Proiecte realizate': 'proiecte',
-};
+// v202: CATEGORY_THEME + labels mutate in lib/blogCategories.js (sursa unica, partajata cu paginile de categorie)
 
-const FILTERS_LABELS = {
-  ro: { all:'Toate', pvc:'Tâmplărie PVC', aluminiu:'Aluminiu', umbrire:'Umbrire', nzeb:'nZEB', automatizare:'Automatizare', proiecte:'Proiecte' },
-  en: { all:'All', pvc:'PVC Windows', aluminiu:'Aluminium', umbrire:'Shading', nzeb:'nZEB', automatizare:'Automation', proiecte:'Projects' },
-  de: { all:'Alle', pvc:'PVC-Fenster', aluminiu:'Aluminiu', umbrire:'Beschattung', nzeb:'nZEB', automatizare:'Automation', proiecte:'Projekte' },
-  fr: { all:'Tous', pvc:'Menuiserie PVC', aluminiu:'Aluminium', umbrire:'Occultation', nzeb:'nZEB', automatizare:'Automatisation', proiecte:'Projets' },
-  es: { all:'Todos', pvc:'Carpintería PVC', aluminiu:'Aluminio', umbrire:'Sombreado', nzeb:'nZEB', automatizare:'Automatización', proiecte:'Proyectos' },
-  it: { all:'Tutti', pvc:'Infissi PVC', aluminiu:'Alluminio', umbrire:'Oscuramento', nzeb:'nZEB', automatizare:'Automazione', proiecte:'Progetti' },
-};
+
 
 const SEARCH_PLACEHOLDER = {
   ro:'Caută în articole…', en:'Search articles…', de:'Artikel suchen…',
@@ -53,7 +22,7 @@ const RESULTS_LABEL = {
   fr:['article','articles'], es:['artículo','artículos'], it:['articolo','articoli'],
 };
 
-const FILTER_KEYS = ['all','pvc','aluminiu','umbrire','nzeb','automatizare','proiecte'];
+const FILTER_KEYS = ['all','pvc','aluminiu','umbrire','nzeb','automatizare','proiecte','ghiduri'];
 
 const THEME_COLOR = {
   all:'#4a7c59', pvc:'#2d5a8e', aluminiu:'#3a6a9e',
@@ -66,7 +35,7 @@ export default function BlogGrid({ articles, locale, read }) {
   const [mounted, setMounted]           = useState(false);
   const [viewCounts, setViewCounts]     = useState({});
 
-  const labels      = FILTERS_LABELS[locale]     || FILTERS_LABELS.ro;
+  const labels      = THEME_LABELS[locale]     || THEME_LABELS.ro;
   const placeholder = SEARCH_PLACEHOLDER[locale]  || SEARCH_PLACEHOLDER.ro;
   const noResults   = NO_RESULTS[locale]          || NO_RESULTS.ro;
   const resLabel    = RESULTS_LABEL[locale]       || RESULTS_LABEL.ro;

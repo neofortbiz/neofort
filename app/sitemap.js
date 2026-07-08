@@ -4,6 +4,7 @@ import { routing } from '../i18n/routing.js';
 export const dynamic = 'force-static';
 
 import { BASE, LOCALES } from '../lib/constants.js';
+import { THEMES, CAT_PATHS } from '../lib/blogCategories.js';
 const PAGE_SLUGS = {
   ro: { pvc:'tamplarie-pvc', aluminiu:'tamplarie-aluminiu', accesorii:'accesorii', servicii:'servicii', contact:'contact', despre:'despre', gdpr:'gdpr', cookies:'cookies', umbrire:'umbrire', nzeb:'sisteme-nzeb' },
   en: { pvc:'pvc-windows', aluminiu:'aluminium-windows', accesorii:'accessories', servicii:'services', contact:'contact', despre:'about', gdpr:'privacy-policy', cookies:'cookie-policy', umbrire:'shading-systems', nzeb:'nzeb-systems' },
@@ -69,6 +70,19 @@ export default function sitemap() {
         changeFrequency: 'monthly',
         alternates: {
           languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${slugs[l] || slugs.ro}`])),
+        },
+      });
+    });
+
+    // v202: Pagini categorie blog — hub-uri tematice (sincron cu lib/blogCategories.js)
+    THEMES.forEach(theme => {
+      urls.push({
+        url: `${BASE}/${locale}${CAT_PATHS[theme][locale]}`,
+        lastModified: now,
+        priority: 0.75,
+        changeFrequency: 'weekly',
+        alternates: {
+          languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}${CAT_PATHS[theme][l]}`])),
         },
       });
     });
