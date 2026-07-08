@@ -33,7 +33,7 @@ const CONTENT = {
     intro_p2_b4: 'geam termoizolator 3 foi',
     intro_p2_link2: 'profile de renovare, pervazuri, jaluzele Raffstore și rulouri exterioare aluminiu',
     intro_p2_end: '— tot ce aveți nevoie pentru o locuință modernă, eficientă energetic și conformă cu standardele nZEB. Executăm proiecte rezidențiale și comerciale în București, Ilfov și livrăm în toată Uniunea Europeană, inclusiv Germania, Austria și Italia.',
-    stats: [['21+','Ani activitate neîntreruptă'],['nZEB','Certificate conformitate'],['50%+','Clienți recurenți'],['4.9★','50 Recenzii Google']],
+    stats: [['21+','Ani activitate neîntreruptă'],['nZEB','Certificate conformitate'],['50%+','Clienți recurenți'],['5.0★','50 Recenzii Google']],
     sec_products: 'Produse & Servicii',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Tâmplărie PVC Salamander', title:'Profile PVC Salamander', desc:'Furnizăm tâmplărie PVC Salamander BluEvolution 92 și GreenEvolution 76 din gamele premium, executată pe linii automatizate și compatibilă nZEB.', btn:'card-btn card-btn-pvc' },
@@ -103,7 +103,7 @@ const CONTENT = {
     intro_p2_b4: 'triple-pane thermal glass',
     intro_p2_link2: 'renovation profiles, windowsills, Raffstore blinds and aluminium external shutters',
     intro_p2_end: '— everything you need for a modern, energy-efficient home compliant with nZEB standards. We carry out residential and commercial projects in Bucharest and Ilfov, with delivery throughout the European Union, including Germany, Austria and Italy.',
-    stats: [['21+','Years of activity'],['nZEB','Compliance certificates'],['50%+','Returning clients'],['4.9★','50 Google Reviews']],
+    stats: [['21+','Years of activity'],['nZEB','Compliance certificates'],['50%+','Returning clients'],['5.0★','50 Google Reviews']],
     sec_products: 'Products & Services',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'PVC Salamander Windows', title:'Salamander PVC Profiles', desc:'We supply PVC Salamander BluEvolution 92 and GreenEvolution 76 windows from premium ranges, manufactured on automated lines and nZEB compatible.', btn:'card-btn card-btn-pvc' },
@@ -173,7 +173,7 @@ const CONTENT = {
     intro_p2_b4: 'Dreischeiben-Isolierglas',
     intro_p2_link2: 'Renovierungsprofile, Fensterbänke, Raffstore Jalousien und Aluminiumrollläden',
     intro_p2_end: '— alles, was Sie für ein modernes, energieeffizientes Haus nach nZEB-Standard benötigen. Wir realisieren Wohn- und Gewerbeprojekte in Bukarest und Ilfov mit Lieferung in die gesamte EU, einschließlich Deutschland, Österreich und Italien.',
-    stats: [['21+','Jahre Erfahrung'],['nZEB','Zertifizierte Konformität'],['50%+','Stammkunden'],['4.9★','50 Google-Bewertungen']],
+    stats: [['21+','Jahre Erfahrung'],['nZEB','Zertifizierte Konformität'],['50%+','Stammkunden'],['5.0★','50 Google-Bewertungen']],
     sec_products: 'Produkte & Dienstleistungen',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Kunststofffenster Salamander', title:'Salamander PVC-Profile', desc:'Wir liefern PVC Salamander BluEvolution 92 und GreenEvolution 76 Fenster aus den Premiumsortimenten, auf automatisierten Linien gefertigt und nZEB-kompatibel.', btn:'card-btn card-btn-pvc' },
@@ -243,7 +243,7 @@ const CONTENT = {
     intro_p2_b4: 'vitrage isolant triple vitrage',
     intro_p2_link2: 'profils de rénovation, appuis de fenêtre, stores Raffstore et volets roulants aluminium',
     intro_p2_end: '— tout ce dont vous avez besoin pour un logement moderne, efficace sur le plan énergétique et conforme aux normes de confort thermique et acoustique les plus exigeantes.',
-    stats: [['21+','Ans d\'activité'],['nZEB','Certifiés conformes'],['50%+','Clients fidèles'],['4.9★','50 Avis Google']],
+    stats: [['21+','Ans d\'activité'],['nZEB','Certifiés conformes'],['50%+','Clients fidèles'],['5.0★','50 Avis Google']],
     sec_products: 'Produits & Services',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Menuiserie PVC Salamander', title:'Profilés PVC Salamander', desc:'Nous fournissons des menuiseries PVC Salamander BluEvolution 92 et GreenEvolution 76 des gammes premium, fabriquées sur lignes automatisées et compatibles nZEB.', btn:'card-btn card-btn-pvc' },
@@ -313,7 +313,7 @@ const CONTENT = {
     intro_p2_b4: 'vidrio aislante triple hoja',
     intro_p2_link2: 'marcos de renovación, alféizares, persianas Raffstore y cierres enrollables de aluminio',
     intro_p2_end: '— todo lo que necesita para una vivienda moderna, eficiente energéticamente y conforme a los estándares más exigentes de confort térmico y acústico.',
-    stats: [['21+','Años de actividad'],['nZEB','Certificados conformes'],['50%+','Clientes recurrentes'],['4.9★','50 Reseñas Google']],
+    stats: [['21+','Años de actividad'],['nZEB','Certificados conformes'],['50%+','Clientes recurrentes'],['5.0★','50 Reseñas Google']],
     sec_products: 'Productos & Servicios',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Carpintería PVC Salamander', title:'Perfiles PVC Salamander', desc:'Suministramos carpintería PVC Salamander BluEvolution 92 y GreenEvolution 76 de las gamas premium, fabricada en líneas automatizadas y compatible con nZEB.', btn:'card-btn card-btn-pvc' },
@@ -383,7 +383,7 @@ const CONTENT = {
     intro_p2_b4: 'vetro isolante a tripla lastra',
     intro_p2_link2: 'telai di ristrutturazione, davanzali, veneziane Raffstore e tapparelle esterne in alluminio',
     intro_p2_end: '— tutto ciò di cui avete bisogno per un\'abitazione moderna, efficiente e conforme agli standard nZEB. Realizziamo progetti residenziali e commerciali a Bucarest e Ilfov, con consegna in tutta l\'Unione Europea, inclusi Germania, Austria e Italia.',
-    stats: [['21+','Anni di attività'],['nZEB','Certificati conformi'],['50%+','Clienti fedeli'],['4.9★','50 Recensioni Google']],
+    stats: [['21+','Anni di attività'],['nZEB','Certificati conformi'],['50%+','Clienti fedeli'],['5.0★','50 Recensioni Google']],
     sec_products: 'Prodotti & Servizi',
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Infissi in PVC Salamander', title:'Profili PVC Salamander', desc:'Forniamo infissi in PVC Salamander BluEvolution 92 e GreenEvolution 76 delle gamme premium, prodotti su linee automatizzate e compatibili nZEB.', btn:'card-btn card-btn-pvc' },
