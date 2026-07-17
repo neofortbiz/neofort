@@ -87,6 +87,15 @@ export const routing = defineRouting({
     },
     '/blog': '/blog',
 
+    '/blog/de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii': {
+      ro: '/blog/de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii',
+      en: '/blog/why-do-windows-whistle-when-the-wind-blows-causes-solutions',
+      de: '/blog/warum-pfeifen-fenster-bei-wind-ursachen-loesungen',
+      fr: '/blog/pourquoi-les-fenetres-sifflent-quand-le-vent-souffle-causes-solutions',
+      es: '/blog/por-que-silban-las-ventanas-cuando-sopla-el-viento-causas-soluciones',
+      it: '/blog/perche-le-finestre-fischiano-quando-soffia-il-vento-cause-soluzioni',
+    },
+
     // ── PAGINI CATEGORIE BLOG (v202) — sincron cu lib/blogCategories.js CAT_PATHS ──
     '/blog/categorie/pvc': {
       ro: '/blog/categorie/pvc', en: '/blog/category/pvc', de: '/blog/kategorie/pvc',

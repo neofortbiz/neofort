@@ -26837,6 +26837,362 @@ Legalmente non sei obbligato per una sostituzione identica, ma è raccomandato. 
 Neofort BIZ installa serramenti in PVC Salamander e alluminio Alumil in condominio a Bucarest e Ilfov, rispettando le dimensioni e l'aspetto esistenti quando non si desidera modificare la facciata. [Richiedi una valutazione gratuita in loco](/it/contatti).`
     },
   },
+  {
+    slugs: {ro:"de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii",en:"why-do-windows-whistle-when-the-wind-blows-causes-solutions",de:"warum-pfeifen-fenster-bei-wind-ursachen-loesungen",fr:"pourquoi-les-fenetres-sifflent-quand-le-vent-souffle-causes-solutions",es:"por-que-silban-las-ventanas-cuando-sopla-el-viento-causas-soluciones",it:"perche-le-finestre-fischiano-quando-soffia-il-vento-cause-soluzioni"},
+    date: "2026-07-15",
+    author: "Mihai Dănălache",
+    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorPhoto: "/team/mihai-danalache.avif",
+    accentColor: "#2b6cb0",
+    image: {ro:"/blog/de-ce-suiera-termopanele-vant.avif",en:"/blog/de-ce-suiera-termopanele-vant.avif",de:"/blog/de-ce-suiera-termopanele-vant.avif",fr:"/blog/de-ce-suiera-termopanele-vant.avif",es:"/blog/de-ce-suiera-termopanele-vant.avif",it:"/blog/de-ce-suiera-termopanele-vant.avif"},
+    imageOg: "/blog/de-ce-suiera-termopanele-vant-og.jpg",
+    imageBg: "linear-gradient(135deg,#0a1a2e 0%,#153a5c 60%,#0a1a2e 100%)",
+    imageLabel: "Fereastră PVC batută de vânt puternic, ilustrând fenomenul de șuierat cauzat de aerul care trece prin garnituri uzate sau montaj neetanș",
+    readTime: {ro:"7 min citire",en:"7 min read",de:"7 Min.",fr:"7 min",es:"7 min",it:"7 min"},
+    category: {ro:"Ghid tehnic",en:"Technical Guide",de:"Technischer Ratgeber",fr:"Guide technique",es:"Guía técnica",it:"Guida tecnica"},
+    title: {ro:"De ce șuieră termopanele când bate vântul? Cauze și soluții",en:"Why do windows whistle when the wind blows? Causes and solutions",de:"Warum pfeifen Fenster bei Wind? Ursachen und Lösungen",fr:"Pourquoi les fenêtres sifflent-elles quand le vent souffle ? Causes et solutions",es:"¿Por qué silban las ventanas cuando sopla el viento? Causas y soluciones",it:"Perché le finestre fischiano quando soffia il vento? Cause e soluzioni"},
+    metaDesc: {ro:"De ce șuieră termopanele când bate vântul? Sunetul apare când aerul trece printr-o fantă îngustă. Află cele 4 cauze reale (garnituri uzate, feronerie dereglată, montaj neetanș, drenaj) și cum se rezolvă fiecare.",en:"Why do windows whistle when the wind blows? The sound appears when air passes through a narrow gap. Learn the 4 real causes (worn gaskets, misadjusted hardware, non-airtight installation, drainage) and how each is solved.",de:"Warum pfeifen Fenster bei Wind? Das Geräusch entsteht, wenn Luft durch einen schmalen Spalt strömt. Erfahren Sie die 4 echten Ursachen (Dichtungen, Beschlag, Montage, Drainage) und wie jede gelöst wird.",fr:"Pourquoi les fenêtres sifflent-elles quand le vent souffle ? Le son apparaît quand l’air passe par un interstice étroit. Découvrez les 4 vraies causes (joints usés, quincaillerie, pose, drainage) et comment les résoudre.",es:"¿Por qué silban las ventanas cuando sopla el viento? El sonido aparece cuando el aire pasa por una rendija estrecha. Descubre las 4 causas reales (juntas, herrería, montaje, drenaje) y cómo se resuelve cada una.",it:"Perché le finestre fischiano quando soffia il vento? Il suono compare quando l’aria passa attraverso una fessura stretta. Scopri le 4 cause reali (guarnizioni, ferramenta, montaggio, drenaggio) e come risolverle."},
+    excerpt: {ro:"Șuieratul ferestrelor la vânt nu înseamnă că geamul e defect, ci că aerul trece printr-o fantă îngustă. Ghid tehnic despre cele 4 cauze reale — garnituri uzate, feronerie dereglată, montaj neetanș, orificii de drenaj — și soluția pentru fiecare.",en:"Window whistling in the wind does not mean the glass is faulty, but that air is passing through a narrow gap. A technical guide on the 4 real causes — worn gaskets, misadjusted hardware, non-airtight installation, drainage holes — and the solution for each.",de:"Fensterpfeifen bei Wind bedeutet nicht, dass das Glas defekt ist, sondern dass Luft durch einen schmalen Spalt strömt. Ein technischer Ratgeber über die 4 echten Ursachen und die Lösung für jede.",fr:"Le sifflement des fenêtres au vent ne signifie pas que le vitrage est défectueux, mais que l’air passe par un interstice étroit. Un guide technique sur les 4 vraies causes et la solution pour chacune.",es:"El silbido de las ventanas con viento no significa que el vidrio esté defectuoso, sino que el aire pasa por una rendija estrecha. Una guía técnica sobre las 4 causas reales y la solución para cada una.",it:"Il fischio delle finestre al vento non significa che il vetro sia difettoso, ma che l’aria passa attraverso una fessura stretta. Una guida tecnica sulle 4 cause reali e la soluzione per ciascuna."},
+    dateDisplay: {ro:"15 iulie 2026",en:"July 15 2026",de:"15. Juli 2026",fr:"15 juillet 2026",es:"15 jul 2026",it:"15 lug 2026"},
+    content: {
+      ro: `Ai observat că, atunci când bate vântul puternic, ferestrele tale scot un sunet de șuierat sau fluierat? Nu ești singurul — este una dintre cele mai frecvente reclamații legate de tâmplăria PVC și aluminiu. Vestea bună: în cele mai multe cazuri, șuieratul nu înseamnă că fereastra e defectă, ci că undeva există o fantă îngustă prin care aerul este forțat să treacă. Acest ghid îți explică de ce apare fenomenul, care sunt cauzele reale și cum se rezolvă fiecare.
+
+## De ce se produce, de fapt, șuieratul
+
+Șuieratul este un fenomen pur fizic. Când vântul bate, creează o diferență de presiune între exteriorul și interiorul locuinței. Aerul caută să treacă din zona de presiune mare în cea de presiune mică, iar dacă găsește o fantă îngustă — o garnitură care nu mai etanșează, un rost la feronerie, un spațiu de montaj neizolat — este forțat să se strecoare prin ea la viteză mare.
+
+Exact ca atunci când sufli printr-o deschidere îngustă și se produce un fluierat, aerul care trece cu viteză printr-o fantă mică generează turbulență și vibrație, care se aud ca un șuierat. Cu cât fanta e mai îngustă și vântul mai puternic, cu atât sunetul e mai ascuțit.
+
+> Concluzia importantă: șuieratul nu este un defect al geamului, ci un semnal că undeva pe conturul ferestrei aerul trece pe unde n-ar trebui. Iar dacă trece aerul, trece și căldura — deci un șuierat înseamnă și pierdere de energie.
+
+## Cauza 1: Garniturile uzate sau întărite
+
+Cea mai frecventă cauză. Garniturile de etanșare (benzile de cauciuc sau EPDM de pe cercevea și toc) au rolul de a închide complet spațiul dintre canat și ramă atunci când fereastra e închisă. În timp — de regulă după 8–12 ani — cauciucul se usucă, se întărește și nu mai revine la formă. Apar micro-fante prin care aerul se strecoară.
+
+Cum recunoști: pe lângă șuierat, simți un curent rece cu mâna pe conturul ferestrei chiar cu ea închisă, iar garnitura pare tare și crăpată la atingere. Soluția este înlocuirea garniturilor — o intervenție relativ ieftină care rezolvă atât șuieratul, cât și pierderea de căldură.
+
+## Cauza 2: Feroneria dereglată
+
+Feroneria (mecanismul de închidere) apasă canatul pe garnitură. Dacă feroneria e dereglată sau uzată, presiunea de apăsare scade, iar canatul nu mai strânge garnitura suficient. Rezultatul: aceeași micro-fantă și același șuierat, chiar dacă garnitura e încă bună.
+
+Cum recunoști: fereastra se închide „prea ușor" sau, dimpotrivă, mânerul se rotește greu; simți joc în canat când îl împingi cu fereastra închisă. Soluția este reglarea feroneriei — majoritatea sistemelor moderne au came reglabile care ajustează presiunea de strângere. Pentru a înțelege ce presupune un montaj și o reglare corectă, poți citi [Cum se montează corect termopanele Salamander](/ro/blog/cum-se-monteaza-corect-termopanele-salamander-bucuresti).
+
+## Cauza 3: Montajul neetanș
+
+Dacă șuieratul vine nu dinspre canat, ci dinspre marginea ferestrei — de la îmbinarea cu zidul — problema e la montaj. Spațiul dintre toc și zid trebuie umplut cu spumă și etanșat corect pe ambele fețe. Un montaj făcut în grabă, cu spumă insuficientă sau fără benzi de etanșare, lasă căi prin care aerul circulă direct prin perete.
+
+Aceasta este cea mai gravă cauză, pentru că afectează și izolația termică a întregii îmbinări. Soluția ține de refacerea etanșării perimetrale. Detaliile despre cum se face corect le găsești în [Opțiuni de izolație perimetrală a ferestrelor](/ro/blog/optiuni-izolatie-perimetrala-ferestre-romania-2026).
+
+## Cauza 4: Orificiile de drenaj
+
+Tâmplăria PVC și aluminiu are, în partea de jos a tocului, mici orificii de drenaj prin care se scurge apa de condens sau infiltrată. La vânt puternic, aerul poate pătrunde prin aceste orificii și, dacă sunt poziționate nefericit sau au capace lipsă, pot genera un fluierat. Aceasta este o cauză mai rară și de obicei inofensivă din punct de vedere al izolației — orificiile trebuie să rămână deschise pentru drenaj, dar li se pot monta capace speciale care reduc zgomotul fără a bloca scurgerea.
+
+## Cum previi șuieratul pe termen lung
+
+Cel mai bun antidot este alegerea de la început a unei tâmplării cu etanșare pe mai multe niveluri (2–3 garnituri), feronerie de calitate cu came reglabile și, esențial, un montaj profesional cu izolație perimetrală corectă. O fereastră performantă montată prost va șuiera, în timp ce una montată corect rămâne tăcută ani de zile. Dacă te gândești la înlocuire, vezi și [Cât durează o fereastră PVC și când trebuie înlocuită](/ro/blog/cat-dureaza-o-fereastra-pvc-cand-trebuie-inlocuita).
+
+## FAQ — Șuieratul termopanelor
+
+### De ce șuieră termopanele când bate vântul?
+Pentru că vântul creează o diferență de presiune, iar aerul este forțat să treacă printr-o fantă îngustă de pe conturul ferestrei — o garnitură uzată, feronerie dereglată sau un montaj neetanș. Aerul care trece cu viteză prin fanta îngustă generează turbulență și fluierat.
+
+### Șuieratul înseamnă că fereastra e defectă?
+Nu neapărat. Geamul în sine e rareori cauza. Șuieratul semnalează că aerul trece pe undeva pe conturul ferestrei — cel mai des din cauza garniturilor uzate sau a feroneriei dereglate, ambele reparabile fără a schimba fereastra.
+
+### Cum opresc șuieratul ferestrelor?
+Depinde de cauză: înlocuirea garniturilor uzate, reglarea feroneriei pentru o strângere mai bună, sau refacerea etanșării de montaj dacă aerul vine dinspre zid. Un specialist poate identifica rapid sursa printr-un test simplu cu mâna sau o lumânare pe conturul ferestrei.
+
+### Șuieratul înseamnă și pierdere de căldură?
+Da. Dacă aerul trece prin fantă și produce șuierat, prin aceeași fantă se pierde și căldură iarna. De aceea, rezolvarea șuieratului nu e doar o chestiune de confort acustic, ci și de eficiență energetică și facturi mai mici.
+
+### Ferestrele noi pot șuiera și ele?
+Da, dacă montajul e făcut prost. O fereastră nouă de calitate montată fără izolație perimetrală corectă poate șuiera de la început. De aceea montajul profesional este la fel de important ca fereastra în sine.
+
+---
+
+Neofort BIZ montează și reglează tâmplărie PVC Salamander și aluminiu Alumil în București și Ilfov, cu etanșare pe mai multe niveluri și montaj profesional care elimină șuieratul. [Solicită o evaluare gratuită la fața locului](/ro/contact).`,
+      en: `Have you noticed that when the wind blows hard, your windows make a whistling or hissing sound? You are not alone — it is one of the most common complaints about PVC and aluminium joinery. The good news: in most cases, the whistling does not mean the window is faulty, but that somewhere there is a narrow gap through which air is forced to pass. This guide explains why the phenomenon occurs, what the real causes are and how each one is solved.
+
+## Why the whistling actually happens
+
+Whistling is a purely physical phenomenon. When the wind blows, it creates a pressure difference between the outside and the inside of the home. Air seeks to move from the high-pressure zone to the low-pressure one, and if it finds a narrow gap — a gasket that no longer seals, a gap at the hardware, an uninsulated installation space — it is forced to squeeze through it at high speed.
+
+Just like when you blow through a narrow opening and produce a whistle, air passing at speed through a small gap generates turbulence and vibration, which are heard as a whistle. The narrower the gap and the stronger the wind, the sharper the sound.
+
+> The important conclusion: whistling is not a defect of the glass, but a signal that somewhere around the window contour air is passing where it should not. And if air passes, heat passes too — so a whistle also means energy loss.
+
+## Cause 1: Worn or hardened gaskets
+
+The most frequent cause. The sealing gaskets (the rubber or EPDM strips on the sash and frame) have the role of completely closing the space between the sash and frame when the window is shut. Over time — usually after 8–12 years — the rubber dries out, hardens and no longer returns to shape. Micro-gaps appear through which air sneaks in.
+
+How to recognise it: besides the whistling, you feel a cold draught with your hand along the window contour even with it closed, and the gasket feels hard and cracked to the touch. The solution is replacing the gaskets — a relatively cheap intervention that solves both the whistling and the heat loss.
+
+## Cause 2: Misadjusted hardware
+
+The hardware (the closing mechanism) presses the sash onto the gasket. If the hardware is misadjusted or worn, the pressing force decreases and the sash no longer tightens the gasket enough. The result: the same micro-gap and the same whistling, even if the gasket is still good.
+
+How to recognise it: the window closes "too easily" or, on the contrary, the handle turns hard; you feel play in the sash when you push it with the window closed. The solution is adjusting the hardware — most modern systems have adjustable cams that fine-tune the clamping pressure. To understand what correct installation and adjustment involve, you can read [How to correctly install Salamander windows](/en/blog/how-to-correctly-install-salamander-windows-bucharest).
+
+## Cause 3: Non-airtight installation
+
+If the whistling comes not from the sash, but from the edge of the window — from the joint with the wall — the problem is with the installation. The space between the frame and the wall must be filled with foam and sealed correctly on both faces. An installation done in a hurry, with insufficient foam or without sealing tapes, leaves paths through which air circulates directly through the wall.
+
+This is the most serious cause, because it also affects the thermal insulation of the entire joint. The solution involves redoing the perimeter sealing. Details on how it is done correctly can be found in [Perimeter insulation options for windows](/en/blog/perimeter-insulation-options-windows-romania-2026).
+
+## Cause 4: Drainage holes
+
+PVC and aluminium joinery has, at the bottom of the frame, small drainage holes through which condensation or infiltrated water drains. In strong wind, air can enter through these holes and, if they are unfavourably positioned or have missing caps, can generate a whistle. This is a rarer cause and usually harmless in terms of insulation — the holes must remain open for drainage, but special caps can be fitted that reduce the noise without blocking the drainage.
+
+## How to prevent whistling long term
+
+The best antidote is choosing from the start joinery with multi-level sealing (2–3 gaskets), quality hardware with adjustable cams and, essentially, a professional installation with correct perimeter insulation. A high-performance window installed poorly will whistle, while one installed correctly stays silent for years. If you are considering replacement, also see [How long a PVC window lasts and when to replace it](/en/blog/how-long-do-pvc-windows-last-when-to-replace-them).
+
+## FAQ — Window whistling
+
+### Why do windows whistle when the wind blows?
+Because the wind creates a pressure difference, and air is forced to pass through a narrow gap around the window contour — a worn gasket, misadjusted hardware or a non-airtight installation. Air passing at speed through the narrow gap generates turbulence and whistling.
+
+### Does whistling mean the window is faulty?
+Not necessarily. The glass itself is rarely the cause. Whistling signals that air is passing somewhere around the window contour — most often due to worn gaskets or misadjusted hardware, both repairable without changing the window.
+
+### How do I stop windows from whistling?
+It depends on the cause: replacing worn gaskets, adjusting the hardware for better clamping, or redoing the installation sealing if the air comes from the wall. A specialist can quickly identify the source through a simple test with the hand or a candle along the window contour.
+
+### Does whistling also mean heat loss?
+Yes. If air passes through the gap and produces whistling, heat is also lost through the same gap in winter. That is why solving the whistling is not just a matter of acoustic comfort, but also of energy efficiency and lower bills.
+
+### Can new windows whistle too?
+Yes, if the installation is done poorly. A new quality window installed without correct perimeter insulation can whistle from the start. That is why professional installation is just as important as the window itself.
+
+---
+
+Neofort BIZ installs and adjusts Salamander PVC and Alumil aluminium joinery in Bucharest and Ilfov, with multi-level sealing and professional installation that eliminates whistling. [Request a free on-site assessment](/en/contact).`,
+      de: `Ist Ihnen aufgefallen, dass Ihre Fenster bei starkem Wind ein pfeifendes oder zischendes Geräusch machen? Damit sind Sie nicht allein — es ist eine der häufigsten Beschwerden über PVC- und Aluminiumfenster. Die gute Nachricht: In den meisten Fällen bedeutet das Pfeifen nicht, dass das Fenster defekt ist, sondern dass es irgendwo einen schmalen Spalt gibt, durch den die Luft gezwungen wird zu strömen. Dieser Leitfaden erklärt, warum das Phänomen auftritt, welche die tatsächlichen Ursachen sind und wie jede davon gelöst wird.
+
+## Warum das Pfeifen tatsächlich entsteht
+
+Das Pfeifen ist ein rein physikalisches Phänomen. Wenn der Wind weht, erzeugt er einen Druckunterschied zwischen der Außen- und der Innenseite des Hauses. Die Luft versucht, aus der Hochdruckzone in die Niederdruckzone zu strömen, und wenn sie einen schmalen Spalt findet — eine Dichtung, die nicht mehr abdichtet, einen Spalt am Beschlag, einen ungedämmten Montageraum — wird sie gezwungen, sich mit hoher Geschwindigkeit hindurchzuzwängen.
+
+Genau wie wenn Sie durch eine schmale Öffnung blasen und ein Pfeifen erzeugen, erzeugt die mit Geschwindigkeit durch einen kleinen Spalt strömende Luft Turbulenz und Vibration, die als Pfeifen zu hören sind. Je schmaler der Spalt und je stärker der Wind, desto schärfer der Ton.
+
+> Die wichtige Schlussfolgerung: Das Pfeifen ist kein Defekt des Glases, sondern ein Signal, dass irgendwo am Fensterumfang Luft strömt, wo sie nicht sollte. Und wenn Luft strömt, strömt auch Wärme — ein Pfeifen bedeutet also auch Energieverlust.
+
+## Ursache 1: Abgenutzte oder verhärtete Dichtungen
+
+Die häufigste Ursache. Die Dichtungen (die Gummi- oder EPDM-Streifen an Flügel und Rahmen) haben die Aufgabe, den Raum zwischen Flügel und Rahmen bei geschlossenem Fenster vollständig zu schließen. Mit der Zeit — in der Regel nach 8–12 Jahren — trocknet der Gummi aus, verhärtet und kehrt nicht mehr in seine Form zurück. Es entstehen Mikrospalten, durch die sich die Luft schleicht.
+
+Wie Sie es erkennen: Neben dem Pfeifen spüren Sie mit der Hand einen kalten Zug entlang des Fensterumfangs, selbst bei geschlossenem Fenster, und die Dichtung fühlt sich hart und rissig an. Die Lösung ist der Austausch der Dichtungen — ein relativ günstiger Eingriff, der sowohl das Pfeifen als auch den Wärmeverlust behebt.
+
+## Ursache 2: Fehlerhaft eingestellter Beschlag
+
+Der Beschlag (der Schließmechanismus) drückt den Flügel auf die Dichtung. Wenn der Beschlag falsch eingestellt oder abgenutzt ist, sinkt die Andruckkraft und der Flügel presst die Dichtung nicht mehr ausreichend. Das Ergebnis: derselbe Mikrospalt und dasselbe Pfeifen, selbst wenn die Dichtung noch gut ist.
+
+Wie Sie es erkennen: Das Fenster schließt „zu leicht" oder im Gegenteil, der Griff dreht sich schwer; Sie spüren Spiel im Flügel, wenn Sie ihn bei geschlossenem Fenster drücken. Die Lösung ist die Einstellung des Beschlags — die meisten modernen Systeme haben verstellbare Nocken, die den Anpressdruck justieren. Um zu verstehen, was eine korrekte Montage und Einstellung bedeutet, können Sie [Wie werden Salamander-Fenster richtig montiert](/de/blog/wie-werden-salamander-fenster-richtig-montiert-bukarest) lesen.
+
+## Ursache 3: Undichte Montage
+
+Wenn das Pfeifen nicht vom Flügel, sondern vom Rand des Fensters kommt — von der Verbindung mit der Wand — liegt das Problem bei der Montage. Der Raum zwischen Rahmen und Wand muss mit Schaum gefüllt und auf beiden Seiten korrekt abgedichtet werden. Eine in Eile ausgeführte Montage, mit unzureichendem Schaum oder ohne Dichtbänder, lässt Wege offen, durch die Luft direkt durch die Wand zirkuliert.
+
+Dies ist die schwerwiegendste Ursache, da sie auch die Wärmedämmung der gesamten Verbindung beeinträchtigt. Die Lösung besteht in der Erneuerung der Perimeterabdichtung. Details, wie das korrekt gemacht wird, finden Sie in [Optionen zur Perimeterdämmung von Fenstern](/de/blog/perimeterdaemmung-optionen-fenster-rumaenien-2026).
+
+## Ursache 4: Die Entwässerungsöffnungen
+
+PVC- und Aluminiumfenster haben am unteren Rahmenteil kleine Entwässerungsöffnungen, durch die Kondens- oder eingedrungenes Wasser abfließt. Bei starkem Wind kann Luft durch diese Öffnungen eindringen und, wenn sie ungünstig positioniert sind oder Kappen fehlen, ein Pfeifen erzeugen. Dies ist eine seltenere Ursache und in Bezug auf die Dämmung meist harmlos — die Öffnungen müssen für die Entwässerung offen bleiben, aber es können spezielle Kappen angebracht werden, die das Geräusch reduzieren, ohne den Abfluss zu blockieren.
+
+## Wie Sie das Pfeifen langfristig verhindern
+
+Das beste Gegenmittel ist die anfängliche Wahl von Fenstern mit mehrstufiger Abdichtung (2–3 Dichtungen), hochwertigem Beschlag mit verstellbaren Nocken und, wesentlich, einer professionellen Montage mit korrekter Perimeterdämmung. Ein schlecht montiertes Hochleistungsfenster wird pfeifen, während ein korrekt montiertes jahrelang still bleibt. Wenn Sie über einen Austausch nachdenken, siehe auch [Wie lange hält ein PVC-Fenster und wann muss es ersetzt werden](/de/blog/wie-lange-halten-pvc-fenster-wann-ersetzen).
+
+## FAQ — Fensterpfeifen
+
+### Warum pfeifen Fenster, wenn der Wind weht?
+Weil der Wind einen Druckunterschied erzeugt und die Luft gezwungen wird, durch einen schmalen Spalt am Fensterumfang zu strömen — eine abgenutzte Dichtung, einen falsch eingestellten Beschlag oder eine undichte Montage. Die mit Geschwindigkeit durch den schmalen Spalt strömende Luft erzeugt Turbulenz und Pfeifen.
+
+### Bedeutet Pfeifen, dass das Fenster defekt ist?
+Nicht unbedingt. Das Glas selbst ist selten die Ursache. Das Pfeifen signalisiert, dass Luft irgendwo am Fensterumfang strömt — meist aufgrund abgenutzter Dichtungen oder falsch eingestellten Beschlags, beide ohne Fensterwechsel reparierbar.
+
+### Wie stoppe ich das Pfeifen der Fenster?
+Es hängt von der Ursache ab: Austausch abgenutzter Dichtungen, Einstellung des Beschlags für besseren Anpressdruck oder Erneuerung der Montageabdichtung, wenn die Luft von der Wand kommt. Ein Fachmann kann die Quelle schnell durch einen einfachen Test mit der Hand oder einer Kerze am Fensterumfang identifizieren.
+
+### Bedeutet Pfeifen auch Wärmeverlust?
+Ja. Wenn Luft durch den Spalt strömt und Pfeifen erzeugt, geht durch denselben Spalt im Winter auch Wärme verloren. Deshalb ist die Behebung des Pfeifens nicht nur eine Frage des akustischen Komforts, sondern auch der Energieeffizienz und niedrigerer Rechnungen.
+
+### Können auch neue Fenster pfeifen?
+Ja, wenn die Montage schlecht ausgeführt ist. Ein neues Qualitätsfenster, das ohne korrekte Perimeterdämmung montiert wird, kann von Anfang an pfeifen. Deshalb ist die professionelle Montage genauso wichtig wie das Fenster selbst.
+
+---
+
+Neofort BIZ montiert und justiert Fenster aus Salamander-PVC und Alumil-Aluminium in Bukarest und Ilfov, mit mehrstufiger Abdichtung und professioneller Montage, die das Pfeifen beseitigt. [Fordern Sie eine kostenlose Vor-Ort-Bewertung an](/de/kontakt).`,
+      fr: `Avez-vous remarqué que, lorsque le vent souffle fort, vos fenêtres émettent un sifflement ? Vous n’êtes pas seul — c’est l’une des plaintes les plus fréquentes concernant la menuiserie PVC et aluminium. La bonne nouvelle : dans la plupart des cas, le sifflement ne signifie pas que la fenêtre est défectueuse, mais qu’il existe quelque part un interstice étroit par lequel l’air est forcé de passer. Ce guide explique pourquoi le phénomène se produit, quelles en sont les vraies causes et comment chacune se résout.
+
+## Pourquoi le sifflement se produit réellement
+
+Le sifflement est un phénomène purement physique. Lorsque le vent souffle, il crée une différence de pression entre l’extérieur et l’intérieur du logement. L’air cherche à passer de la zone de haute pression vers celle de basse pression, et s’il trouve un interstice étroit — un joint qui n’étanche plus, un jeu au niveau de la quincaillerie, un espace de pose non isolé — il est forcé de s’y faufiler à grande vitesse.
+
+Exactement comme lorsque vous soufflez à travers une ouverture étroite et produisez un sifflement, l’air qui passe à vitesse par un petit interstice génère de la turbulence et des vibrations, entendues comme un sifflement. Plus l’interstice est étroit et le vent fort, plus le son est aigu.
+
+> La conclusion importante : le sifflement n’est pas un défaut du vitrage, mais un signal qu’à un endroit du contour de la fenêtre l’air passe là où il ne devrait pas. Et si l’air passe, la chaleur passe aussi — un sifflement signifie donc aussi une perte d’énergie.
+
+## Cause 1 : Les joints usés ou durcis
+
+La cause la plus fréquente. Les joints d’étanchéité (les bandes de caoutchouc ou EPDM sur l’ouvrant et le dormant) ont pour rôle de fermer complètement l’espace entre l’ouvrant et le cadre lorsque la fenêtre est fermée. Avec le temps — généralement après 8 à 12 ans — le caoutchouc se dessèche, durcit et ne reprend plus sa forme. Des micro-interstices apparaissent par lesquels l’air se faufile.
+
+Comment le reconnaître : outre le sifflement, vous sentez un courant froid avec la main le long du contour de la fenêtre même fermée, et le joint paraît dur et fissuré au toucher. La solution est le remplacement des joints — une intervention relativement peu coûteuse qui résout à la fois le sifflement et la perte de chaleur.
+
+## Cause 2 : La quincaillerie déréglée
+
+La quincaillerie (le mécanisme de fermeture) presse l’ouvrant sur le joint. Si la quincaillerie est déréglée ou usée, la force de pression diminue et l’ouvrant ne serre plus assez le joint. Le résultat : le même micro-interstice et le même sifflement, même si le joint est encore bon.
+
+Comment le reconnaître : la fenêtre se ferme « trop facilement » ou, au contraire, la poignée tourne difficilement ; vous sentez du jeu dans l’ouvrant lorsque vous le poussez fenêtre fermée. La solution est le réglage de la quincaillerie — la plupart des systèmes modernes ont des cames réglables qui ajustent la pression de serrage. Pour comprendre ce qu’impliquent une pose et un réglage corrects, vous pouvez lire [Comment installer correctement les fenêtres Salamander](/fr/blog/comment-installer-correctement-fenetres-salamander-bucarest).
+
+## Cause 3 : La pose non étanche
+
+Si le sifflement vient non pas de l’ouvrant, mais du bord de la fenêtre — de la jonction avec le mur — le problème vient de la pose. L’espace entre le dormant et le mur doit être rempli de mousse et étanché correctement sur les deux faces. Une pose faite à la hâte, avec une mousse insuffisante ou sans bandes d’étanchéité, laisse des chemins par lesquels l’air circule directement à travers le mur.
+
+C’est la cause la plus grave, car elle affecte aussi l’isolation thermique de toute la jonction. La solution consiste à refaire l’étanchéité périmétrique. Les détails sur la manière correcte de procéder se trouvent dans [Options d’isolation périmétrique des fenêtres](/fr/blog/options-isolation-perimetrale-fenetres-roumanie-2026).
+
+## Cause 4 : Les orifices de drainage
+
+La menuiserie PVC et aluminium possède, en partie basse du dormant, de petits orifices de drainage par lesquels s’écoule l’eau de condensation ou infiltrée. Par vent fort, l’air peut pénétrer par ces orifices et, s’ils sont mal positionnés ou ont des capuchons manquants, générer un sifflement. C’est une cause plus rare et généralement sans danger du point de vue de l’isolation — les orifices doivent rester ouverts pour le drainage, mais des capuchons spéciaux peuvent être posés pour réduire le bruit sans bloquer l’écoulement.
+
+## Comment prévenir le sifflement à long terme
+
+Le meilleur remède est de choisir dès le départ une menuiserie à étanchéité multi-niveaux (2 à 3 joints), une quincaillerie de qualité avec cames réglables et, surtout, une pose professionnelle avec une isolation périmétrique correcte. Une fenêtre performante mal posée sifflera, tandis qu’une posée correctement reste silencieuse pendant des années. Si vous envisagez un remplacement, voir aussi [Combien de temps dure une fenêtre PVC et quand la remplacer](/fr/blog/combien-de-temps-durent-les-fenetres-pvc-quand-les-remplacer).
+
+## FAQ — Le sifflement des fenêtres
+
+### Pourquoi les fenêtres sifflent-elles quand le vent souffle ?
+Parce que le vent crée une différence de pression, et l’air est forcé de passer par un interstice étroit du contour de la fenêtre — un joint usé, une quincaillerie déréglée ou une pose non étanche. L’air qui passe à vitesse par l’interstice étroit génère de la turbulence et un sifflement.
+
+### Le sifflement signifie-t-il que la fenêtre est défectueuse ?
+Pas nécessairement. Le vitrage lui-même est rarement la cause. Le sifflement signale que l’air passe quelque part sur le contour de la fenêtre — le plus souvent à cause de joints usés ou d’une quincaillerie déréglée, tous deux réparables sans changer la fenêtre.
+
+### Comment arrêter le sifflement des fenêtres ?
+Cela dépend de la cause : remplacer les joints usés, régler la quincaillerie pour un meilleur serrage, ou refaire l’étanchéité de pose si l’air vient du mur. Un spécialiste peut identifier rapidement la source par un test simple avec la main ou une bougie le long du contour de la fenêtre.
+
+### Le sifflement signifie-t-il aussi une perte de chaleur ?
+Oui. Si l’air passe par l’interstice et produit un sifflement, la chaleur se perd aussi par le même interstice en hiver. C’est pourquoi résoudre le sifflement n’est pas seulement une question de confort acoustique, mais aussi d’efficacité énergétique et de factures réduites.
+
+### Les fenêtres neuves peuvent-elles aussi siffler ?
+Oui, si la pose est mal faite. Une fenêtre neuve de qualité posée sans isolation périmétrique correcte peut siffler dès le départ. C’est pourquoi la pose professionnelle est aussi importante que la fenêtre elle-même.
+
+---
+
+Neofort BIZ pose et règle de la menuiserie PVC Salamander et aluminium Alumil à Bucarest et Ilfov, avec une étanchéité multi-niveaux et une pose professionnelle qui élimine le sifflement. [Demandez une évaluation gratuite sur place](/fr/contact).`,
+      es: `¿Has notado que, cuando el viento sopla fuerte, tus ventanas emiten un silbido? No eres el único — es una de las quejas más frecuentes sobre la carpintería de PVC y aluminio. La buena noticia: en la mayoría de los casos, el silbido no significa que la ventana esté defectuosa, sino que en algún lugar hay una rendija estrecha por la que el aire se ve forzado a pasar. Esta guía explica por qué se produce el fenómeno, cuáles son las causas reales y cómo se resuelve cada una.
+
+## Por qué se produce realmente el silbido
+
+El silbido es un fenómeno puramente físico. Cuando el viento sopla, crea una diferencia de presión entre el exterior y el interior de la vivienda. El aire busca pasar de la zona de alta presión a la de baja presión, y si encuentra una rendija estrecha — una junta que ya no sella, una holgura en la herrería, un espacio de montaje sin aislar — se ve forzado a colarse por ella a gran velocidad.
+
+Exactamente como cuando soplas a través de una abertura estrecha y produces un silbido, el aire que pasa a velocidad por una pequeña rendija genera turbulencia y vibración, que se oyen como un silbido. Cuanto más estrecha es la rendija y más fuerte el viento, más agudo es el sonido.
+
+> La conclusión importante: el silbido no es un defecto del vidrio, sino una señal de que en algún punto del contorno de la ventana el aire pasa por donde no debería. Y si pasa el aire, también pasa el calor — así que un silbido significa también pérdida de energía.
+
+## Causa 1: Las juntas gastadas o endurecidas
+
+La causa más frecuente. Las juntas de sellado (las tiras de goma o EPDM en la hoja y el marco) tienen la función de cerrar completamente el espacio entre la hoja y el marco cuando la ventana está cerrada. Con el tiempo — normalmente tras 8–12 años — la goma se seca, se endurece y ya no recupera su forma. Aparecen micro-rendijas por las que el aire se cuela.
+
+Cómo reconocerlo: además del silbido, sientes una corriente fría con la mano a lo largo del contorno de la ventana incluso cerrada, y la junta se nota dura y agrietada al tacto. La solución es la sustitución de las juntas — una intervención relativamente barata que resuelve tanto el silbido como la pérdida de calor.
+
+## Causa 2: La herrería desajustada
+
+La herrería (el mecanismo de cierre) presiona la hoja contra la junta. Si la herrería está desajustada o desgastada, la fuerza de presión disminuye y la hoja ya no aprieta la junta lo suficiente. El resultado: la misma micro-rendija y el mismo silbido, aunque la junta esté todavía bien.
+
+Cómo reconocerlo: la ventana se cierra «demasiado fácilmente» o, por el contrario, la manilla gira con dificultad; sientes juego en la hoja cuando la empujas con la ventana cerrada. La solución es el ajuste de la herrería — la mayoría de los sistemas modernos tienen levas regulables que ajustan la presión de apriete. Para entender qué implica un montaje y un ajuste correctos, puedes leer [Cómo instalar correctamente las ventanas Salamander](/es/blog/como-instalar-correctamente-ventanas-salamander-bucarest).
+
+## Causa 3: El montaje no estanco
+
+Si el silbido viene no de la hoja, sino del borde de la ventana — de la unión con la pared — el problema está en el montaje. El espacio entre el marco y la pared debe rellenarse con espuma y sellarse correctamente en ambas caras. Un montaje hecho con prisa, con espuma insuficiente o sin bandas de sellado, deja caminos por los que el aire circula directamente a través de la pared.
+
+Esta es la causa más grave, porque afecta también al aislamiento térmico de toda la unión. La solución consiste en rehacer el sellado perimetral. Los detalles sobre cómo se hace correctamente se encuentran en [Opciones de aislamiento perimetral de las ventanas](/es/blog/opciones-aislamiento-perimetral-ventanas-rumania-2026).
+
+## Causa 4: Los orificios de drenaje
+
+La carpintería de PVC y aluminio tiene, en la parte inferior del marco, pequeños orificios de drenaje por los que se escurre el agua de condensación o infiltrada. Con viento fuerte, el aire puede penetrar por estos orificios y, si están mal posicionados o tienen tapas faltantes, generar un silbido. Esta es una causa más rara y normalmente inofensiva desde el punto de vista del aislamiento — los orificios deben permanecer abiertos para el drenaje, pero se pueden montar tapas especiales que reducen el ruido sin bloquear el desagüe.
+
+## Cómo prevenir el silbido a largo plazo
+
+El mejor antídoto es elegir desde el principio una carpintería con sellado multinivel (2–3 juntas), herrería de calidad con levas regulables y, esencialmente, un montaje profesional con aislamiento perimetral correcto. Una ventana de alto rendimiento mal montada silbará, mientras que una montada correctamente permanece silenciosa durante años. Si estás pensando en una sustitución, consulta también [Cuánto dura una ventana de PVC y cuándo reemplazarla](/es/blog/cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas).
+
+## FAQ — El silbido de las ventanas
+
+### ¿Por qué silban las ventanas cuando sopla el viento?
+Porque el viento crea una diferencia de presión, y el aire se ve forzado a pasar por una rendija estrecha del contorno de la ventana — una junta gastada, una herrería desajustada o un montaje no estanco. El aire que pasa a velocidad por la rendija estrecha genera turbulencia y silbido.
+
+### ¿El silbido significa que la ventana está defectuosa?
+No necesariamente. El vidrio en sí rara vez es la causa. El silbido señala que el aire pasa por algún punto del contorno de la ventana — con mayor frecuencia por juntas gastadas o herrería desajustada, ambas reparables sin cambiar la ventana.
+
+### ¿Cómo detengo el silbido de las ventanas?
+Depende de la causa: sustituir las juntas gastadas, ajustar la herrería para un mejor apriete, o rehacer el sellado de montaje si el aire viene de la pared. Un especialista puede identificar rápidamente la fuente mediante una prueba sencilla con la mano o una vela a lo largo del contorno de la ventana.
+
+### ¿El silbido significa también pérdida de calor?
+Sí. Si el aire pasa por la rendija y produce silbido, por la misma rendija se pierde también calor en invierno. Por eso, resolver el silbido no es solo una cuestión de confort acústico, sino también de eficiencia energética y facturas más bajas.
+
+### ¿Las ventanas nuevas también pueden silbar?
+Sí, si el montaje está mal hecho. Una ventana nueva de calidad montada sin aislamiento perimetral correcto puede silbar desde el principio. Por eso el montaje profesional es tan importante como la ventana en sí.
+
+---
+
+Neofort BIZ instala y ajusta carpintería de PVC Salamander y aluminio Alumil en Bucarest e Ilfov, con sellado multinivel y montaje profesional que elimina el silbido. [Solicita una evaluación gratuita in situ](/es/contacto).`,
+      it: `Hai notato che, quando il vento soffia forte, le tue finestre emettono un fischio? Non sei l’unico — è uno dei reclami più frequenti riguardo ai serramenti in PVC e alluminio. La buona notizia: nella maggior parte dei casi, il fischio non significa che la finestra sia difettosa, ma che da qualche parte c’è una fessura stretta attraverso cui l’aria è costretta a passare. Questa guida spiega perché si verifica il fenomeno, quali sono le cause reali e come si risolve ciascuna.
+
+## Perché si produce davvero il fischio
+
+Il fischio è un fenomeno puramente fisico. Quando il vento soffia, crea una differenza di pressione tra l’esterno e l’interno dell’abitazione. L’aria cerca di passare dalla zona di alta pressione a quella di bassa pressione, e se trova una fessura stretta — una guarnizione che non sigilla più, un gioco nella ferramenta, uno spazio di montaggio non isolato — è costretta a infilarsi attraverso di essa ad alta velocità.
+
+Esattamente come quando soffi attraverso un’apertura stretta e produci un fischio, l’aria che passa a velocità attraverso una piccola fessura genera turbolenza e vibrazione, che si sentono come un fischio. Più la fessura è stretta e il vento forte, più il suono è acuto.
+
+> La conclusione importante: il fischio non è un difetto del vetro, ma un segnale che da qualche parte sul contorno della finestra l’aria passa dove non dovrebbe. E se passa l’aria, passa anche il calore — quindi un fischio significa anche perdita di energia.
+
+## Causa 1: Le guarnizioni usurate o indurite
+
+La causa più frequente. Le guarnizioni di tenuta (le strisce di gomma o EPDM sull’anta e sul telaio) hanno il compito di chiudere completamente lo spazio tra anta e telaio quando la finestra è chiusa. Con il tempo — di solito dopo 8–12 anni — la gomma si secca, si indurisce e non ritorna più alla sua forma. Compaiono micro-fessure attraverso cui l’aria si infila.
+
+Come riconoscerlo: oltre al fischio, senti una corrente fredda con la mano lungo il contorno della finestra anche chiusa, e la guarnizione risulta dura e crepata al tatto. La soluzione è la sostituzione delle guarnizioni — un intervento relativamente economico che risolve sia il fischio che la perdita di calore.
+
+## Causa 2: La ferramenta mal regolata
+
+La ferramenta (il meccanismo di chiusura) preme l’anta sulla guarnizione. Se la ferramenta è mal regolata o usurata, la forza di pressione diminuisce e l’anta non stringe più a sufficienza la guarnizione. Il risultato: la stessa micro-fessura e lo stesso fischio, anche se la guarnizione è ancora buona.
+
+Come riconoscerlo: la finestra si chiude «troppo facilmente» o, al contrario, la maniglia gira con difficoltà; senti gioco nell’anta quando la spingi con la finestra chiusa. La soluzione è la regolazione della ferramenta — la maggior parte dei sistemi moderni ha camme regolabili che aggiustano la pressione di serraggio. Per capire cosa comporta un montaggio e una regolazione corretti, puoi leggere [Come installare correttamente le finestre Salamander](/it/blog/come-installare-correttamente-finestre-salamander-bucarest).
+
+## Causa 3: Il montaggio non ermetico
+
+Se il fischio proviene non dall’anta, ma dal bordo della finestra — dalla giunzione con il muro — il problema è nel montaggio. Lo spazio tra il telaio e il muro deve essere riempito con schiuma e sigillato correttamente su entrambi i lati. Un montaggio fatto in fretta, con schiuma insufficiente o senza nastri di tenuta, lascia percorsi attraverso cui l’aria circola direttamente attraverso il muro.
+
+Questa è la causa più grave, perché influisce anche sull’isolamento termico dell’intera giunzione. La soluzione consiste nel rifare la sigillatura perimetrale. I dettagli su come si fa correttamente si trovano in [Opzioni di isolamento perimetrale delle finestre](/it/blog/opzioni-isolamento-perimetrale-finestre-romania-2026).
+
+## Causa 4: I fori di drenaggio
+
+I serramenti in PVC e alluminio hanno, nella parte inferiore del telaio, piccoli fori di drenaggio attraverso cui defluisce l’acqua di condensa o infiltrata. Con vento forte, l’aria può penetrare attraverso questi fori e, se sono posizionati male o hanno tappi mancanti, generare un fischio. Questa è una causa più rara e di solito innocua dal punto di vista dell’isolamento — i fori devono rimanere aperti per il drenaggio, ma si possono montare tappi speciali che riducono il rumore senza bloccare lo scolo.
+
+## Come prevenire il fischio a lungo termine
+
+Il miglior antidoto è scegliere fin dall’inizio serramenti con tenuta multilivello (2–3 guarnizioni), ferramenta di qualità con camme regolabili e, essenzialmente, un montaggio professionale con isolamento perimetrale corretto. Una finestra ad alte prestazioni montata male fischierà, mentre una montata correttamente rimane silenziosa per anni. Se stai pensando a una sostituzione, vedi anche [Quanto dura una finestra in PVC e quando sostituirla](/it/blog/quanto-durano-le-finestre-pvc-quando-sostituirle).
+
+## FAQ — Il fischio delle finestre
+
+### Perché le finestre fischiano quando soffia il vento?
+Perché il vento crea una differenza di pressione, e l’aria è costretta a passare attraverso una fessura stretta del contorno della finestra — una guarnizione usurata, una ferramenta mal regolata o un montaggio non ermetico. L’aria che passa a velocità attraverso la fessura stretta genera turbolenza e fischio.
+
+### Il fischio significa che la finestra è difettosa?
+Non necessariamente. Il vetro in sé è raramente la causa. Il fischio segnala che l’aria passa da qualche parte sul contorno della finestra — il più delle volte a causa di guarnizioni usurate o ferramenta mal regolata, entrambe riparabili senza cambiare la finestra.
+
+### Come fermo il fischio delle finestre?
+Dipende dalla causa: sostituire le guarnizioni usurate, regolare la ferramenta per una migliore chiusura, o rifare la sigillatura di montaggio se l’aria proviene dal muro. Uno specialista può identificare rapidamente la fonte con un semplice test con la mano o una candela lungo il contorno della finestra.
+
+### Il fischio significa anche perdita di calore?
+Sì. Se l’aria passa attraverso la fessura e produce fischio, attraverso la stessa fessura si perde anche calore in inverno. Per questo, risolvere il fischio non è solo una questione di comfort acustico, ma anche di efficienza energetica e bollette più basse.
+
+### Anche le finestre nuove possono fischiare?
+Sì, se il montaggio è fatto male. Una finestra nuova di qualità montata senza isolamento perimetrale corretto può fischiare fin dall’inizio. Per questo il montaggio professionale è importante quanto la finestra stessa.
+
+---
+
+Neofort BIZ installa e regola serramenti in PVC Salamander e alluminio Alumil a Bucarest e Ilfov, con tenuta multilivello e montaggio professionale che elimina il fischio. [Richiedi una valutazione gratuita in loco](/it/contatti).`
+    },
+  },
 ];
 
 
