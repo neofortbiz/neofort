@@ -96,6 +96,32 @@ export const routing = defineRouting({
       it: '/blog/perche-le-finestre-fischiano-quando-soffia-il-vento-cause-soluzioni',
     },
 
+    '/blog/testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra': {
+      ro: '/blog/testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra',
+      en: '/blog/paper-sheet-test-find-where-air-enters-window',
+      de: '/blog/papiertest-herausfinden-wo-luft-am-fenster-eindringt',
+      fr: '/blog/test-feuille-papier-trouver-ou-entre-air-fenetre',
+      es: '/blog/prueba-hoja-papel-encontrar-por-donde-entra-aire-ventana',
+      it: '/blog/test-foglio-carta-scoprire-dove-entra-aria-finestra',
+    },
+
+    '/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus': {
+      ro: '/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus',
+      en: '/blog/how-to-adjust-roto-hardware-winter-summer-allen-key',
+      de: '/blog/roto-beschlag-winter-sommer-einstellen-inbusschluessel',
+      fr: '/blog/regler-quincaillerie-roto-hiver-ete-cle-allen',
+      es: '/blog/ajustar-herreria-roto-invierno-verano-llave-allen',
+      it: '/blog/regolare-ferramenta-roto-inverno-estate-chiave-brugola',
+    },
+    '/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne': {
+      ro: '/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne',
+      en: '/blog/when-window-gaskets-need-replacing-signs',
+      de: '/blog/wann-fensterdichtungen-ersetzt-werden-muessen-anzeichen',
+      fr: '/blog/quand-remplacer-joints-fenetre-signes',
+      es: '/blog/cuando-sustituir-juntas-ventana-senales',
+      it: '/blog/quando-sostituire-guarnizioni-finestra-segni',
+    },
+
     // ── PAGINI CATEGORIE BLOG (v202) — sincron cu lib/blogCategories.js CAT_PATHS ──
     '/blog/categorie/pvc': {
       ro: '/blog/categorie/pvc', en: '/blog/category/pvc', de: '/blog/kategorie/pvc',

@@ -27193,6 +27193,434 @@ Sì, se il montaggio è fatto male. Una finestra nuova di qualità montata senza
 Neofort BIZ installa e regola serramenti in PVC Salamander e alluminio Alumil a Bucarest e Ilfov, con tenuta multilivello e montaggio professionale che elimina il fischio. [Richiedi una valutazione gratuita in loco](/it/contatti).`
     },
   },
+  {
+    slugs: {ro:"testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra",en:"paper-sheet-test-find-where-air-enters-window",de:"papiertest-herausfinden-wo-luft-am-fenster-eindringt",fr:"test-feuille-papier-trouver-ou-entre-air-fenetre",es:"prueba-hoja-papel-encontrar-por-donde-entra-aire-ventana",it:"test-foglio-carta-scoprire-dove-entra-aria-finestra"},
+    date: "2026-07-17",
+    author: "Mihai Dănălache",
+    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorPhoto: "/team/mihai-danalache.avif",
+    accentColor: "#0d7d5a",
+    image: {ro:"/blog/test-coala-hartie-termopan.avif",en:"/blog/test-coala-hartie-termopan.avif",de:"/blog/test-coala-hartie-termopan.avif",fr:"/blog/test-coala-hartie-termopan.avif",es:"/blog/test-coala-hartie-termopan.avif",it:"/blog/test-coala-hartie-termopan.avif"},
+    imageOg: "/blog/test-coala-hartie-termopan-og.jpg",
+    imageBg: "linear-gradient(135deg,#0a2e22 0%,#0d7d5a 60%,#0a2e22 100%)",
+    imageLabel: "Mână care testează etanșeitatea unei ferestre PVC cu o coală de hârtie prinsă între canat și toc",
+    readTime: {ro:"6 min citire",en:"6 min read",de:"6 Min.",fr:"6 min",es:"6 min",it:"6 min"},
+    category: {ro:"Ghid practic",en:"Practical Guide",de:"Praktischer Ratgeber",fr:"Guide pratique",es:"Guía práctica",it:"Guida pratica"},
+    title: {ro:"Testul cu coala de hârtie: identifică singur pe unde intră aerul",en:"The paper sheet test: find out yourself where the air enters",de:"Der Papiertest: finden Sie selbst heraus, wo die Luft eindringt",fr:"Le test de la feuille de papier : trouvez vous-même par où entre l’air",es:"La prueba de la hoja de papel: descubre tú mismo por dónde entra el aire",it:"Il test del foglio di carta: scopri da solo da dove entra l’aria"},
+    metaDesc: {ro:"Testul cu coala de hârtie îți arată în 2 minute pe unde intră aerul pe la fereastră. Ghid pas cu pas: cum așezi coala, cum tragi, cum interpretezi rezultatul și ce faci mai departe.",en:"The paper sheet test shows you in 2 minutes where air enters around your window. Step-by-step guide: how to place the sheet, how to pull, how to interpret the result and what to do next.",de:"Der Papiertest zeigt Ihnen in 2 Minuten, wo Luft am Fenster eindringt. Schritt-für-Schritt-Anleitung: Blatt auflegen, ziehen, Ergebnis deuten und wie es weitergeht.",fr:"Le test de la feuille de papier vous montre en 2 minutes par où entre l’air à la fenêtre. Guide pas à pas : placer la feuille, tirer, interpréter le résultat et la suite.",es:"La prueba de la hoja de papel te muestra en 2 minutos por dónde entra el aire en la ventana. Guía paso a paso: colocar la hoja, tirar, interpretar el resultado y qué hacer después.",it:"Il test del foglio di carta ti mostra in 2 minuti da dove entra l’aria dalla finestra. Guida passo passo: posizionare il foglio, tirare, interpretare il risultato e come procedere."},
+    excerpt: {ro:"Cel mai simplu test de etanșeitate: cu o coală de hârtie afli în 2 minute exact pe unde intră aerul pe la fereastră. Ghid pas cu pas cum se face, cum interpretezi rezultatul și ce soluție ți se potrivește.",en:"The simplest airtightness test: with a sheet of paper you find out in 2 minutes exactly where air enters around your window. A step-by-step guide on how to do it, how to interpret the result and which solution fits you.",de:"Der einfachste Dichtheitstest: mit einem Blatt Papier finden Sie in 2 Minuten heraus, wo genau Luft am Fenster eindringt. Eine Schritt-für-Schritt-Anleitung.",fr:"Le test d’étanchéité le plus simple : avec une feuille de papier, vous découvrez en 2 minutes par où entre l’air à la fenêtre. Un guide pas à pas.",es:"La prueba de estanqueidad más sencilla: con una hoja de papel descubres en 2 minutos por dónde entra el aire en la ventana. Una guía paso a paso.",it:"Il test di tenuta più semplice: con un foglio di carta scopri in 2 minuti da dove entra l’aria dalla finestra. Una guida passo passo."},
+    dateDisplay: {ro:"17 iulie 2026",en:"July 17 2026",de:"17. Juli 2026",fr:"17 juillet 2026",es:"17 jul 2026",it:"17 lug 2026"},
+    content: {
+      ro: `Simți un curent rece pe lângă fereastră chiar dacă e închisă? Auzi un șuierat când bate vântul? Înainte de a chema un specialist sau de a schimba ceva, poți afla singur, în două minute, exact pe unde intră aerul — cu o simplă coală de hârtie. Este cel mai simplu test de etanșeitate, folosit inclusiv de montatori profesioniști, și nu costă nimic. Acest ghid îți arată pas cu pas cum se face și cum interpretezi rezultatul.
+
+## De ce funcționează testul cu hârtia
+
+O fereastră etanșă strânge garnitura uniform pe tot conturul, astfel încât între canat (partea mobilă) și toc (rama fixă) nu rămâne niciun spațiu. Dacă undeva garnitura nu mai apasă — pentru că e uzată, pentru că feroneria s-a slăbit sau pentru că fereastra s-a lăsat puțin în timp — acolo rămâne o micro-fantă. Prin ea intră aerul rece și, la vânt, se produce șuieratul.
+
+Coala de hârtie măsoară exact această forță de strângere. Acolo unde garnitura apasă corect, hârtia e prinsă ferm și nu o poți trage. Acolo unde apăsarea e slabă, hârtia alunecă ușor — semn că în acel punct există o scurgere de aer.
+
+> Ideea de bază: dacă hârtia iese ușor, aerul intră ușor. Testul îți arată pe hartă, punct cu punct, unde e problema — informație pe care altfel un specialist ar afla-o tot cu acest test.
+
+## Ce îți trebuie
+
+Doar o coală de hârtie obișnuită (format A4, hârtie de imprimantă). Nu ai nevoie de unelte, aplicații sau dispozitive. Opțional, o bucată de bandă adezivă ca să marchezi punctele-problemă pe geam pe măsură ce le găsești.
+
+## Pasul 1: Deschide fereastra și așază coala
+
+Deschide canatul. Așază coala de hârtie peste rama tocului, în zona în care garnitura va apăsa când închizi — lasă jumătate din coală în interior, ca să ai de ce trage, și jumătate în exteriorul conturului de etanșare.
+
+## Pasul 2: Închide fereastra peste coală
+
+Închide canatul normal și acționează complet mânerul, ca și cum ai închide fereastra pentru iarnă. Feroneria trebuie să tragă canatul pe garnitură cu forța ei normală de strângere — altfel testul nu e concludent.
+
+## Pasul 3: Trage de coală
+
+Prinde capătul liber al colii și trage ușor, orizontal. Interpretează după cum se comportă hârtia:
+
+Dacă hârtia se rupe sau opune rezistență fermă și trebuie să tragi tare — perfect, garnitura strânge corect în acel punct. Nu intră aer acolo.
+
+Dacă hârtia iese ușor, alunecând fără efort — în acel punct garnitura NU apasă suficient. Acolo intră aerul și de acolo poate veni șuieratul. Marchează punctul cu o bucată de bandă adezivă pe geam.
+
+## Pasul 4: Repetă pe tot conturul
+
+Repetă testul în minimum 8 puncte pe tot perimetrul ferestrei: cele 4 colțuri, mijlocul fiecărei laturi, și obligatoriu în dreptul balamalelor și în partea opusă mânerului. Acestea sunt zonele unde apar cel mai des scurgerile. La final vei avea o „hartă" clară a punctelor unde hârtia iese ușor — exact acolo e problema.
+
+## Cum interpretezi rezultatul
+
+Ce ai găsit îți spune și care e probabil cauza:
+
+Dacă hârtia iese ușor doar în partea opusă mânerului sau lângă balamale, dar strânge bine lângă mâner, cel mai probabil feroneria e dereglată sau presiunea de strângere e prea mică — se rezolvă prin reglaj, fără piese noi. Vezi [Cum reglezi feroneria Roto pe modul iarnă/vară](/ro/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+
+Dacă hârtia iese ușor pe mai multe laturi, uniform, iar garnitura pare tare și crăpată la atingere, problema e la garnituri — și-au pierdut elasticitatea. Vezi [Când trebuie înlocuite garniturile ferestrei](/ro/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+
+Dacă hârtia strânge bine peste tot, dar tot simți curent — atunci aerul nu intră pe la canat, ci pe la îmbinarea cu zidul, adică problema e la montaj, nu la fereastră. Contextul complet îl găsești în articolul-ghid [De ce șuieră termopanele când bate vântul](/ro/blog/de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii).
+
+## Un test alternativ: flacăra
+
+Dacă vrei o confirmare vizuală, poți folosi și o lumânare sau o brichetă. Cu fereastra închisă, plimbă flacăra încet pe la 2–3 cm de conturul ferestrei, pe interior. Acolo unde flacăra tremură sau se înclină, există un curent de aer. Este mai puțin precis decât hârtia pentru forța de strângere, dar util pe vânt puternic. Atenție să nu apropii flacăra de perdele, garnituri sau alte materiale inflamabile.
+
+## FAQ — Testul cu coala de hârtie
+
+### Cum verific dacă fereastra mai este etanșă?
+Cel mai simplu test: pune o coală de hârtie pe rama ferestrei, închide fereastra peste ea și trage. Dacă hârtia iese ușor, garnitura nu mai strânge în acel punct și acolo intră aer. Repetă pe tot conturul ca să găsești toate zonele-problemă.
+
+### Ce înseamnă dacă hârtia iese ușor dintr-o parte a ferestrei?
+Înseamnă că în acea zonă garnitura nu apasă suficient — fie s-a uzat, fie feroneria e dereglată. Este exact punctul pe unde intră aerul rece și de unde poate veni șuieratul la vânt. Zona respectivă are nevoie de reglaj sau de garnitură nouă.
+
+### Testul cu hârtia funcționează la orice tip de fereastră?
+Da, funcționează identic la ferestre PVC, aluminiu și lemn, indiferent de producător, pentru că măsoară un lucru universal: cât de ferm strânge garnitura canatul pe toc. Este metoda standard folosită și de montatorii profesioniști pentru verificarea rapidă a etanșeității.
+
+### Cât de des ar trebui să fac testul?
+Ideal o dată pe an, toamna, înainte de sezonul rece — atunci contează cel mai mult ca ferestrele să fie etanșe. Un test rapid pe tot conturul îți spune dacă ai nevoie de un reglaj de feronerie sau de garnituri noi înainte să vină frigul.
+
+### Ce fac după ce găsesc zonele pe unde intră aerul?
+Depinde de tipar: dacă e localizat lângă balamale sau opus mânerului, încerci întâi un reglaj de feronerie; dacă e generalizat și garnitura e tare și crăpată, înlocuiești garniturile; dacă hârtia strânge bine dar tot simți curent, problema e la montajul în zid și e nevoie de un specialist.
+
+---
+
+Neofort BIZ verifică, reglează și reetanșează tâmplărie PVC Salamander și aluminiu Alumil în București și Ilfov. Dacă testul cu hârtia a scos la iveală scurgeri de aer, [solicită o evaluare gratuită la fața locului](/ro/contact).`,
+      en: `Do you feel a cold draught near the window even when it is closed? Do you hear whistling when the wind blows? Before calling a specialist or changing anything, you can find out yourself, in two minutes, exactly where the air is coming in — with a simple sheet of paper. It is the simplest airtightness test, used even by professional installers, and it costs nothing. This guide shows you step by step how to do it and how to interpret the result.
+
+## Why the paper test works
+
+An airtight window presses the gasket evenly all around the contour, so that no gap remains between the sash (the moving part) and the frame (the fixed part). If somewhere the gasket no longer presses — because it is worn, because the hardware has loosened or because the window has dropped slightly over time — a micro-gap remains there. Cold air enters through it and, in wind, the whistling occurs.
+
+The sheet of paper measures precisely this clamping force. Where the gasket presses correctly, the paper is held firmly and you cannot pull it. Where the pressing is weak, the paper slides out easily — a sign that there is an air leak at that point.
+
+> The basic idea: if the paper comes out easily, the air comes in easily. The test shows you on a map, point by point, where the problem is — information a specialist would otherwise find using this very same test.
+
+## What you need
+
+Just an ordinary sheet of paper (A4 format, printer paper). You do not need tools, apps or devices. Optionally, a piece of adhesive tape to mark the problem points on the glass as you find them.
+
+## Step 1: Open the window and place the sheet
+
+Open the sash. Place the sheet of paper over the frame, in the area where the gasket will press when you close — leave half of the sheet on the inside, so you have something to pull, and half on the outside of the sealing contour.
+
+## Step 2: Close the window over the sheet
+
+Close the sash normally and fully operate the handle, as if closing the window for winter. The hardware must pull the sash onto the gasket with its normal clamping force — otherwise the test is not conclusive.
+
+## Step 3: Pull the sheet
+
+Grab the free end of the sheet and pull gently, horizontally. Interpret according to how the paper behaves:
+
+If the paper tears or offers firm resistance and you have to pull hard — perfect, the gasket clamps correctly at that point. No air enters there.
+
+If the paper comes out easily, sliding without effort — at that point the gasket is NOT pressing enough. Air enters there and the whistling may come from there. Mark the point with a piece of adhesive tape on the glass.
+
+## Step 4: Repeat all around the contour
+
+Repeat the test at a minimum of 8 points around the entire window perimeter: the 4 corners, the middle of each side, and always at the hinges and on the side opposite the handle. These are the areas where leaks appear most often. In the end you will have a clear "map" of the points where the paper comes out easily — that is exactly where the problem is.
+
+## How to interpret the result
+
+What you found also tells you the likely cause:
+
+If the paper comes out easily only on the side opposite the handle or near the hinges, but clamps well near the handle, most likely the hardware is misadjusted or the clamping pressure is too low — this is solved by adjustment, without new parts. See [How to adjust Roto hardware for winter/summer mode](/en/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+
+If the paper comes out easily on several sides, uniformly, and the gasket feels hard and cracked to the touch, the problem is with the gaskets — they have lost their elasticity. See [When window gaskets need replacing](/en/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+
+If the paper clamps well everywhere, but you still feel a draught — then air is not entering at the sash, but at the joint with the wall, meaning the problem is with the installation, not the window. The full context is in the guide article [Why windows whistle when the wind blows](/en/blog/why-do-windows-whistle-when-the-wind-blows-causes-solutions).
+
+## An alternative test: the flame
+
+If you want a visual confirmation, you can also use a candle or a lighter. With the window closed, move the flame slowly about 2–3 cm from the window contour, on the inside. Where the flame flickers or leans, there is an air current. It is less precise than paper for the clamping force, but useful in strong wind. Be careful not to bring the flame near curtains, gaskets or other flammable materials.
+
+## FAQ — The paper test
+
+### How do I check if my window is still airtight?
+The simplest test: put a sheet of paper on the window frame, close the window over it and pull. If the paper comes out easily, the gasket no longer clamps at that point and air enters there. Repeat all around the contour to find all the problem areas.
+
+### What does it mean if the paper comes out easily from one side of the window?
+It means that in that area the gasket is not pressing enough — either it is worn, or the hardware is misadjusted. It is exactly the point where cold air enters and where the whistling in the wind may come from. That area needs adjustment or a new gasket.
+
+### Does the paper test work on any type of window?
+Yes, it works identically on PVC, aluminium and wood windows, regardless of manufacturer, because it measures something universal: how firmly the gasket clamps the sash onto the frame. It is the standard method used even by professional installers for a quick airtightness check.
+
+### How often should I do the test?
+Ideally once a year, in autumn, before the cold season — that is when it matters most that the windows are airtight. A quick test all around the contour tells you whether you need a hardware adjustment or new gaskets before the cold arrives.
+
+### What do I do after finding the areas where air enters?
+It depends on the pattern: if it is localised near the hinges or opposite the handle, try a hardware adjustment first; if it is widespread and the gasket is hard and cracked, replace the gaskets; if the paper clamps well but you still feel a draught, the problem is with the installation in the wall and a specialist is needed.
+
+---
+
+Neofort BIZ checks, adjusts and re-seals Salamander PVC and Alumil aluminium joinery in Bucharest and Ilfov. If the paper test revealed air leaks, [request a free on-site assessment](/en/contact).`,
+      de: `Spüren Sie einen kalten Zug am Fenster, obwohl es geschlossen ist? Hören Sie ein Pfeifen, wenn der Wind weht? Bevor Sie einen Fachmann rufen oder etwas ändern, können Sie in zwei Minuten selbst herausfinden, wo genau die Luft eindringt — mit einem einfachen Blatt Papier. Es ist der einfachste Dichtheitstest, der sogar von professionellen Monteuren verwendet wird, und er kostet nichts. Diese Anleitung zeigt Ihnen Schritt für Schritt, wie es geht und wie Sie das Ergebnis deuten.
+
+## Warum der Papiertest funktioniert
+
+Ein dichtes Fenster presst die Dichtung gleichmäßig am gesamten Umfang, sodass zwischen Flügel (dem beweglichen Teil) und Rahmen (dem festen Teil) kein Spalt bleibt. Wenn die Dichtung irgendwo nicht mehr presst — weil sie abgenutzt ist, weil der Beschlag sich gelockert hat oder weil das Fenster sich mit der Zeit leicht gesenkt hat — bleibt dort ein Mikrospalt. Kalte Luft dringt hindurch ein und bei Wind entsteht das Pfeifen.
+
+Das Blatt Papier misst genau diese Anpresskraft. Wo die Dichtung korrekt presst, wird das Papier fest gehalten und Sie können es nicht ziehen. Wo der Anpressdruck schwach ist, rutscht das Papier leicht heraus — ein Zeichen, dass an dieser Stelle ein Luftleck besteht.
+
+> Die Grundidee: Wenn das Papier leicht herauskommt, kommt auch die Luft leicht herein. Der Test zeigt Ihnen Punkt für Punkt, wo das Problem liegt — eine Information, die ein Fachmann sonst mit genau diesem Test ermitteln würde.
+
+## Was Sie brauchen
+
+Nur ein gewöhnliches Blatt Papier (Format A4, Druckerpapier). Sie brauchen keine Werkzeuge, Apps oder Geräte. Optional ein Stück Klebeband, um die Problempunkte auf der Scheibe zu markieren, während Sie sie finden.
+
+## Schritt 1: Öffnen Sie das Fenster und legen Sie das Blatt auf
+
+Öffnen Sie den Flügel. Legen Sie das Blatt Papier über den Rahmen, in den Bereich, in dem die Dichtung beim Schließen presst — lassen Sie die Hälfte des Blattes innen, damit Sie etwas zum Ziehen haben, und die Hälfte außerhalb der Dichtungskontur.
+
+## Schritt 2: Schließen Sie das Fenster über dem Blatt
+
+Schließen Sie den Flügel normal und betätigen Sie den Griff vollständig, als würden Sie das Fenster für den Winter schließen. Der Beschlag muss den Flügel mit seiner normalen Anpresskraft auf die Dichtung ziehen — sonst ist der Test nicht aussagekräftig.
+
+## Schritt 3: Ziehen Sie am Blatt
+
+Fassen Sie das freie Ende des Blattes und ziehen Sie sanft, horizontal. Deuten Sie danach, wie sich das Papier verhält:
+
+Wenn das Papier reißt oder festen Widerstand bietet und Sie kräftig ziehen müssen — perfekt, die Dichtung klemmt an dieser Stelle korrekt. Dort dringt keine Luft ein.
+
+Wenn das Papier leicht herauskommt, mühelos gleitend — an dieser Stelle presst die Dichtung NICHT ausreichend. Dort dringt Luft ein und das Pfeifen kann von dort kommen. Markieren Sie den Punkt mit einem Stück Klebeband auf der Scheibe.
+
+## Schritt 4: Wiederholen Sie am gesamten Umfang
+
+Wiederholen Sie den Test an mindestens 8 Punkten am gesamten Fensterumfang: den 4 Ecken, der Mitte jeder Seite und unbedingt an den Bändern und an der dem Griff gegenüberliegenden Seite. Dies sind die Bereiche, wo Lecks am häufigsten auftreten. Am Ende haben Sie eine klare „Karte" der Punkte, an denen das Papier leicht herauskommt — genau dort liegt das Problem.
+
+## Wie Sie das Ergebnis deuten
+
+Was Sie gefunden haben, verrät Ihnen auch die wahrscheinliche Ursache:
+
+Wenn das Papier nur an der dem Griff gegenüberliegenden Seite oder in der Nähe der Bänder leicht herauskommt, aber am Griff gut klemmt, ist höchstwahrscheinlich der Beschlag falsch eingestellt oder der Anpressdruck zu niedrig — das wird durch Einstellung gelöst, ohne neue Teile. Siehe [Wie Sie den Roto-Beschlag auf Winter-/Sommermodus einstellen](/de/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+
+Wenn das Papier an mehreren Seiten gleichmäßig leicht herauskommt und die Dichtung hart und rissig anfühlt, liegt das Problem bei den Dichtungen — sie haben ihre Elastizität verloren. Siehe [Wann Fensterdichtungen ersetzt werden müssen](/de/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+
+Wenn das Papier überall gut klemmt, Sie aber trotzdem einen Zug spüren — dann dringt die Luft nicht am Flügel ein, sondern an der Verbindung mit der Wand, das heißt, das Problem liegt bei der Montage, nicht am Fenster. Den vollständigen Kontext finden Sie im Ratgeber-Artikel [Warum Fenster bei Wind pfeifen](/de/blog/warum-pfeifen-fenster-bei-wind-ursachen-loesungen).
+
+## Ein alternativer Test: die Flamme
+
+Wenn Sie eine visuelle Bestätigung möchten, können Sie auch eine Kerze oder ein Feuerzeug verwenden. Bewegen Sie bei geschlossenem Fenster die Flamme langsam etwa 2–3 cm vom Fensterumfang entfernt, auf der Innenseite. Wo die Flamme flackert oder sich neigt, besteht ein Luftstrom. Es ist weniger präzise als Papier für die Anpresskraft, aber bei starkem Wind nützlich. Achten Sie darauf, die Flamme nicht in die Nähe von Gardinen, Dichtungen oder anderen brennbaren Materialien zu bringen.
+
+## FAQ — Der Papiertest
+
+### Wie prüfe ich, ob mein Fenster noch dicht ist?
+Der einfachste Test: Legen Sie ein Blatt Papier auf den Fensterrahmen, schließen Sie das Fenster darüber und ziehen Sie. Wenn das Papier leicht herauskommt, klemmt die Dichtung an dieser Stelle nicht mehr und dort dringt Luft ein. Wiederholen Sie am gesamten Umfang, um alle Problembereiche zu finden.
+
+### Was bedeutet es, wenn das Papier an einer Seite des Fensters leicht herauskommt?
+Es bedeutet, dass die Dichtung in diesem Bereich nicht ausreichend presst — entweder ist sie abgenutzt oder der Beschlag ist falsch eingestellt. Es ist genau der Punkt, an dem kalte Luft eindringt und von dem das Pfeifen bei Wind kommen kann. Dieser Bereich braucht eine Einstellung oder eine neue Dichtung.
+
+### Funktioniert der Papiertest bei jedem Fenstertyp?
+Ja, er funktioniert bei PVC-, Aluminium- und Holzfenstern identisch, unabhängig vom Hersteller, weil er etwas Universelles misst: wie fest die Dichtung den Flügel auf den Rahmen klemmt. Es ist die Standardmethode, die auch von professionellen Monteuren zur schnellen Dichtheitsprüfung verwendet wird.
+
+### Wie oft sollte ich den Test machen?
+Idealerweise einmal im Jahr, im Herbst, vor der kalten Jahreszeit — dann ist es am wichtigsten, dass die Fenster dicht sind. Ein schneller Test am gesamten Umfang sagt Ihnen, ob Sie vor dem Kälteeinbruch eine Beschlagseinstellung oder neue Dichtungen brauchen.
+
+### Was mache ich, nachdem ich die Bereiche gefunden habe, wo Luft eindringt?
+Es hängt vom Muster ab: Wenn es in der Nähe der Bänder oder gegenüber dem Griff lokalisiert ist, versuchen Sie zuerst eine Beschlagseinstellung; wenn es weit verbreitet ist und die Dichtung hart und rissig ist, ersetzen Sie die Dichtungen; wenn das Papier gut klemmt, Sie aber trotzdem einen Zug spüren, liegt das Problem bei der Montage in der Wand und ein Fachmann ist erforderlich.
+
+---
+
+Neofort BIZ prüft, stellt ein und dichtet Fenster aus Salamander-PVC und Alumil-Aluminium in Bukarest und Ilfov neu ab. Wenn der Papiertest Luftlecks aufgedeckt hat, [fordern Sie eine kostenlose Vor-Ort-Bewertung an](/de/kontakt).`,
+      fr: `Ressentez-vous un courant froid près de la fenêtre même lorsqu’elle est fermée ? Entendez-vous un sifflement quand le vent souffle ? Avant d’appeler un spécialiste ou de changer quoi que ce soit, vous pouvez découvrir vous-même, en deux minutes, par où entre exactement l’air — avec une simple feuille de papier. C’est le test d’étanchéité le plus simple, utilisé même par les poseurs professionnels, et il ne coûte rien. Ce guide vous montre pas à pas comment le faire et comment interpréter le résultat.
+
+## Pourquoi le test du papier fonctionne
+
+Une fenêtre étanche presse le joint uniformément sur tout le contour, de sorte qu’aucun espace ne reste entre l’ouvrant (la partie mobile) et le dormant (le cadre fixe). Si quelque part le joint ne presse plus — parce qu’il est usé, parce que la quincaillerie s’est desserrée ou parce que la fenêtre s’est légèrement affaissée avec le temps — un micro-interstice y demeure. L’air froid y entre et, par vent, le sifflement se produit.
+
+La feuille de papier mesure précisément cette force de serrage. Là où le joint presse correctement, le papier est retenu fermement et vous ne pouvez pas le tirer. Là où le serrage est faible, le papier glisse facilement — signe qu’il y a une fuite d’air à cet endroit.
+
+> L’idée de base : si le papier sort facilement, l’air entre facilement. Le test vous montre, point par point, où est le problème — information qu’un spécialiste trouverait autrement avec ce même test.
+
+## Ce qu’il vous faut
+
+Juste une feuille de papier ordinaire (format A4, papier d’imprimante). Vous n’avez besoin ni d’outils, ni d’applications, ni d’appareils. En option, un morceau de ruban adhésif pour marquer les points problématiques sur le vitrage au fur et à mesure que vous les trouvez.
+
+## Étape 1 : Ouvrez la fenêtre et placez la feuille
+
+Ouvrez l’ouvrant. Placez la feuille de papier sur le cadre du dormant, dans la zone où le joint pressera à la fermeture — laissez la moitié de la feuille à l’intérieur, pour avoir de quoi tirer, et la moitié à l’extérieur du contour d’étanchéité.
+
+## Étape 2 : Fermez la fenêtre sur la feuille
+
+Fermez l’ouvrant normalement et actionnez complètement la poignée, comme si vous fermiez la fenêtre pour l’hiver. La quincaillerie doit tirer l’ouvrant sur le joint avec sa force de serrage normale — sinon le test n’est pas concluant.
+
+## Étape 3 : Tirez sur la feuille
+
+Saisissez l’extrémité libre de la feuille et tirez doucement, horizontalement. Interprétez selon le comportement du papier :
+
+Si le papier se déchire ou offre une résistance ferme et que vous devez tirer fort — parfait, le joint serre correctement à cet endroit. Aucun air n’y entre.
+
+Si le papier sort facilement, glissant sans effort — à cet endroit le joint ne presse PAS suffisamment. L’air y entre et le sifflement peut venir de là. Marquez le point avec un morceau de ruban adhésif sur le vitrage.
+
+## Étape 4 : Répétez sur tout le contour
+
+Répétez le test en au moins 8 points sur tout le périmètre de la fenêtre : les 4 coins, le milieu de chaque côté, et obligatoirement au niveau des paumelles et du côté opposé à la poignée. Ce sont les zones où les fuites apparaissent le plus souvent. À la fin, vous aurez une « carte » claire des points où le papier sort facilement — c’est exactement là qu’est le problème.
+
+## Comment interpréter le résultat
+
+Ce que vous avez trouvé vous indique aussi la cause probable :
+
+Si le papier sort facilement seulement du côté opposé à la poignée ou près des paumelles, mais serre bien près de la poignée, la quincaillerie est très probablement déréglée ou la pression de serrage trop faible — cela se résout par un réglage, sans pièces neuves. Voir [Comment régler la quincaillerie Roto en mode hiver/été](/fr/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+
+Si le papier sort facilement sur plusieurs côtés, uniformément, et que le joint paraît dur et fissuré au toucher, le problème vient des joints — ils ont perdu leur élasticité. Voir [Quand remplacer les joints de fenêtre](/fr/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+
+Si le papier serre bien partout, mais que vous ressentez toujours un courant — alors l’air n’entre pas par l’ouvrant, mais par la jonction avec le mur, ce qui signifie que le problème vient de la pose, pas de la fenêtre. Le contexte complet se trouve dans l’article-guide [Pourquoi les fenêtres sifflent quand le vent souffle](/fr/blog/pourquoi-les-fenetres-sifflent-quand-le-vent-souffle-causes-solutions).
+
+## Un test alternatif : la flamme
+
+Si vous voulez une confirmation visuelle, vous pouvez aussi utiliser une bougie ou un briquet. Fenêtre fermée, déplacez la flamme lentement à environ 2–3 cm du contour de la fenêtre, à l’intérieur. Là où la flamme vacille ou penche, il y a un courant d’air. C’est moins précis que le papier pour la force de serrage, mais utile par vent fort. Attention à ne pas approcher la flamme des rideaux, des joints ou d’autres matériaux inflammables.
+
+## FAQ — Le test du papier
+
+### Comment vérifier si ma fenêtre est encore étanche ?
+Le test le plus simple : posez une feuille de papier sur le cadre de la fenêtre, fermez la fenêtre par-dessus et tirez. Si le papier sort facilement, le joint ne serre plus à cet endroit et l’air y entre. Répétez sur tout le contour pour trouver toutes les zones problématiques.
+
+### Que signifie si le papier sort facilement d’un côté de la fenêtre ?
+Cela signifie que dans cette zone le joint ne presse pas suffisamment — soit il est usé, soit la quincaillerie est déréglée. C’est exactement le point par où l’air froid entre et d’où le sifflement au vent peut venir. Cette zone a besoin d’un réglage ou d’un joint neuf.
+
+### Le test du papier fonctionne-t-il sur tout type de fenêtre ?
+Oui, il fonctionne de manière identique sur les fenêtres PVC, aluminium et bois, quel que soit le fabricant, car il mesure une chose universelle : la fermeté avec laquelle le joint serre l’ouvrant sur le dormant. C’est la méthode standard utilisée même par les poseurs professionnels pour une vérification rapide de l’étanchéité.
+
+### À quelle fréquence devrais-je faire le test ?
+Idéalement une fois par an, en automne, avant la saison froide — c’est alors qu’il importe le plus que les fenêtres soient étanches. Un test rapide sur tout le contour vous dit si vous avez besoin d’un réglage de quincaillerie ou de joints neufs avant l’arrivée du froid.
+
+### Que faire après avoir trouvé les zones par où l’air entre ?
+Cela dépend du schéma : si c’est localisé près des paumelles ou à l’opposé de la poignée, essayez d’abord un réglage de quincaillerie ; si c’est généralisé et que le joint est dur et fissuré, remplacez les joints ; si le papier serre bien mais que vous ressentez toujours un courant, le problème vient de la pose dans le mur et un spécialiste est nécessaire.
+
+---
+
+Neofort BIZ vérifie, règle et réétanche la menuiserie PVC Salamander et aluminium Alumil à Bucarest et Ilfov. Si le test du papier a révélé des fuites d’air, [demandez une évaluation gratuite sur place](/fr/contact).`,
+      es: `¿Sientes una corriente fría cerca de la ventana aunque esté cerrada? ¿Oyes un silbido cuando sopla el viento? Antes de llamar a un especialista o cambiar algo, puedes averiguar tú mismo, en dos minutos, por dónde entra exactamente el aire — con una simple hoja de papel. Es la prueba de estanqueidad más sencilla, utilizada incluso por instaladores profesionales, y no cuesta nada. Esta guía te muestra paso a paso cómo hacerla y cómo interpretar el resultado.
+
+## Por qué funciona la prueba del papel
+
+Una ventana estanca presiona la junta uniformemente en todo el contorno, de modo que no queda ningún espacio entre la hoja (la parte móvil) y el marco (el cerco fijo). Si en algún lugar la junta ya no presiona — porque está gastada, porque la herrería se ha aflojado o porque la ventana se ha descolgado ligeramente con el tiempo — allí queda una micro-rendija. El aire frío entra por ella y, con viento, se produce el silbido.
+
+La hoja de papel mide precisamente esta fuerza de apriete. Donde la junta presiona correctamente, el papel queda retenido con firmeza y no puedes tirar de él. Donde el apriete es débil, el papel se desliza fácilmente — señal de que hay una fuga de aire en ese punto.
+
+> La idea básica: si el papel sale fácilmente, el aire entra fácilmente. La prueba te muestra, punto por punto, dónde está el problema — información que un especialista encontraría de todos modos con esta misma prueba.
+
+## Qué necesitas
+
+Solo una hoja de papel corriente (formato A4, papel de impresora). No necesitas herramientas, aplicaciones ni dispositivos. Opcionalmente, un trozo de cinta adhesiva para marcar los puntos problemáticos en el vidrio a medida que los encuentras.
+
+## Paso 1: Abre la ventana y coloca la hoja
+
+Abre la hoja de la ventana. Coloca la hoja de papel sobre el marco, en la zona donde la junta presionará al cerrar — deja la mitad de la hoja en el interior, para tener de qué tirar, y la mitad en el exterior del contorno de sellado.
+
+## Paso 2: Cierra la ventana sobre la hoja
+
+Cierra la hoja normalmente y acciona completamente la manilla, como si cerraras la ventana para el invierno. La herrería debe tirar de la hoja sobre la junta con su fuerza de apriete normal — de lo contrario la prueba no es concluyente.
+
+## Paso 3: Tira del papel
+
+Agarra el extremo libre del papel y tira suavemente, en horizontal. Interpreta según cómo se comporte el papel:
+
+Si el papel se rompe u ofrece una resistencia firme y tienes que tirar fuerte — perfecto, la junta aprieta correctamente en ese punto. No entra aire allí.
+
+Si el papel sale fácilmente, deslizándose sin esfuerzo — en ese punto la junta NO presiona lo suficiente. Allí entra aire y el silbido puede venir de allí. Marca el punto con un trozo de cinta adhesiva en el vidrio.
+
+## Paso 4: Repite en todo el contorno
+
+Repite la prueba en un mínimo de 8 puntos por todo el perímetro de la ventana: las 4 esquinas, el centro de cada lado, y obligatoriamente a la altura de las bisagras y en el lado opuesto a la manilla. Estas son las zonas donde las fugas aparecen con más frecuencia. Al final tendrás un «mapa» claro de los puntos donde el papel sale fácilmente — ahí es exactamente donde está el problema.
+
+## Cómo interpretar el resultado
+
+Lo que has encontrado también te indica la causa probable:
+
+Si el papel sale fácilmente solo en el lado opuesto a la manilla o cerca de las bisagras, pero aprieta bien cerca de la manilla, lo más probable es que la herrería esté desajustada o la presión de apriete sea demasiado baja — se resuelve con un ajuste, sin piezas nuevas. Consulta [Cómo ajustar la herrería Roto en modo invierno/verano](/es/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+
+Si el papel sale fácilmente en varios lados, uniformemente, y la junta se nota dura y agrietada al tacto, el problema está en las juntas — han perdido su elasticidad. Consulta [Cuándo hay que sustituir las juntas de la ventana](/es/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+
+Si el papel aprieta bien en todas partes, pero aun así sientes corriente — entonces el aire no entra por la hoja, sino por la unión con la pared, es decir, el problema está en el montaje, no en la ventana. El contexto completo lo encuentras en el artículo-guía [Por qué silban las ventanas cuando sopla el viento](/es/blog/por-que-silban-las-ventanas-cuando-sopla-el-viento-causas-soluciones).
+
+## Una prueba alternativa: la llama
+
+Si quieres una confirmación visual, también puedes usar una vela o un mechero. Con la ventana cerrada, pasa la llama despacio a unos 2–3 cm del contorno de la ventana, por el interior. Donde la llama tiemble o se incline, hay una corriente de aire. Es menos precisa que el papel para la fuerza de apriete, pero útil con viento fuerte. Ten cuidado de no acercar la llama a cortinas, juntas u otros materiales inflamables.
+
+## FAQ — La prueba del papel
+
+### ¿Cómo compruebo si mi ventana sigue siendo estanca?
+La prueba más sencilla: pon una hoja de papel sobre el marco de la ventana, cierra la ventana sobre ella y tira. Si el papel sale fácilmente, la junta ya no aprieta en ese punto y allí entra aire. Repite por todo el contorno para encontrar todas las zonas problemáticas.
+
+### ¿Qué significa si el papel sale fácilmente de un lado de la ventana?
+Significa que en esa zona la junta no presiona lo suficiente — o está gastada, o la herrería está desajustada. Es exactamente el punto por donde entra el aire frío y de donde puede venir el silbido con viento. Esa zona necesita un ajuste o una junta nueva.
+
+### ¿La prueba del papel funciona en cualquier tipo de ventana?
+Sí, funciona de forma idéntica en ventanas de PVC, aluminio y madera, independientemente del fabricante, porque mide algo universal: la firmeza con que la junta aprieta la hoja contra el marco. Es el método estándar utilizado incluso por los instaladores profesionales para una comprobación rápida de la estanqueidad.
+
+### ¿Con qué frecuencia debería hacer la prueba?
+Idealmente una vez al año, en otoño, antes de la temporada fría — es cuando más importa que las ventanas sean estancas. Una prueba rápida por todo el contorno te dice si necesitas un ajuste de herrería o juntas nuevas antes de que llegue el frío.
+
+### ¿Qué hago después de encontrar las zonas por donde entra el aire?
+Depende del patrón: si está localizado cerca de las bisagras u opuesto a la manilla, prueba primero un ajuste de herrería; si es generalizado y la junta está dura y agrietada, sustituye las juntas; si el papel aprieta bien pero aun así sientes corriente, el problema está en el montaje en la pared y se necesita un especialista.
+
+---
+
+Neofort BIZ comprueba, ajusta y resella carpintería de PVC Salamander y aluminio Alumil en Bucarest e Ilfov. Si la prueba del papel reveló fugas de aire, [solicita una evaluación gratuita in situ](/es/contacto).`,
+      it: `Senti una corrente fredda vicino alla finestra anche se è chiusa? Senti un fischio quando soffia il vento? Prima di chiamare uno specialista o cambiare qualcosa, puoi scoprire da solo, in due minuti, da dove entra esattamente l’aria — con un semplice foglio di carta. È il test di tenuta più semplice, usato anche dai posatori professionisti, e non costa nulla. Questa guida ti mostra passo dopo passo come farlo e come interpretare il risultato.
+
+## Perché il test della carta funziona
+
+Una finestra a tenuta preme la guarnizione uniformemente su tutto il contorno, così che non rimanga alcuno spazio tra anta (la parte mobile) e telaio (il cassa fisso). Se da qualche parte la guarnizione non preme più — perché è usurata, perché la ferramenta si è allentata o perché la finestra si è leggermente abbassata nel tempo — lì rimane una micro-fessura. L’aria fredda vi entra e, con il vento, si produce il fischio.
+
+Il foglio di carta misura precisamente questa forza di serraggio. Dove la guarnizione preme correttamente, la carta è trattenuta saldamente e non puoi tirarla. Dove il serraggio è debole, la carta scivola facilmente — segno che in quel punto c’è una perdita d’aria.
+
+> L’idea di base: se la carta esce facilmente, l’aria entra facilmente. Il test ti mostra, punto per punto, dove è il problema — informazione che uno specialista troverebbe comunque con questo stesso test.
+
+## Cosa ti serve
+
+Solo un foglio di carta comune (formato A4, carta da stampante). Non hai bisogno di attrezzi, app o dispositivi. Facoltativamente, un pezzo di nastro adesivo per segnare i punti problematici sul vetro mentre li trovi.
+
+## Passo 1: Apri la finestra e posiziona il foglio
+
+Apri l’anta. Posiziona il foglio di carta sul telaio, nella zona in cui la guarnizione premerà alla chiusura — lascia metà del foglio all’interno, per avere qualcosa da tirare, e metà all’esterno del contorno di tenuta.
+
+## Passo 2: Chiudi la finestra sul foglio
+
+Chiudi l’anta normalmente e aziona completamente la maniglia, come se chiudessi la finestra per l’inverno. La ferramenta deve tirare l’anta sulla guarnizione con la sua normale forza di serraggio — altrimenti il test non è concludente.
+
+## Passo 3: Tira il foglio
+
+Afferra l’estremità libera del foglio e tira delicatamente, in orizzontale. Interpreta in base a come si comporta la carta:
+
+Se la carta si strappa o offre una resistenza ferma e devi tirare forte — perfetto, la guarnizione stringe correttamente in quel punto. Non entra aria lì.
+
+Se la carta esce facilmente, scivolando senza sforzo — in quel punto la guarnizione NON preme a sufficienza. Lì entra aria e il fischio può venire da lì. Segna il punto con un pezzo di nastro adesivo sul vetro.
+
+## Passo 4: Ripeti su tutto il contorno
+
+Ripeti il test in almeno 8 punti su tutto il perimetro della finestra: i 4 angoli, il centro di ogni lato, e obbligatoriamente in corrispondenza delle cerniere e sul lato opposto alla maniglia. Queste sono le zone dove le perdite compaiono più spesso. Alla fine avrai una «mappa» chiara dei punti in cui la carta esce facilmente — è esattamente lì che è il problema.
+
+## Come interpretare il risultato
+
+Ciò che hai trovato ti indica anche la causa probabile:
+
+Se la carta esce facilmente solo sul lato opposto alla maniglia o vicino alle cerniere, ma stringe bene vicino alla maniglia, molto probabilmente la ferramenta è mal regolata o la pressione di serraggio è troppo bassa — si risolve con una regolazione, senza pezzi nuovi. Vedi [Come regolare la ferramenta Roto in modalità inverno/estate](/it/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+
+Se la carta esce facilmente su più lati, uniformemente, e la guarnizione risulta dura e crepata al tatto, il problema è nelle guarnizioni — hanno perso la loro elasticità. Vedi [Quando sostituire le guarnizioni della finestra](/it/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+
+Se la carta stringe bene ovunque, ma senti comunque una corrente — allora l’aria non entra dall’anta, ma dalla giunzione con il muro, cioè il problema è nel montaggio, non nella finestra. Il contesto completo lo trovi nell’articolo-guida [Perché le finestre fischiano quando soffia il vento](/it/blog/perche-le-finestre-fischiano-quando-soffia-il-vento-cause-soluzioni).
+
+## Un test alternativo: la fiamma
+
+Se vuoi una conferma visiva, puoi anche usare una candela o un accendino. Con la finestra chiusa, muovi la fiamma lentamente a circa 2–3 cm dal contorno della finestra, all’interno. Dove la fiamma tremola o si inclina, c’è una corrente d’aria. È meno preciso della carta per la forza di serraggio, ma utile con vento forte. Attenzione a non avvicinare la fiamma a tende, guarnizioni o altri materiali infiammabili.
+
+## FAQ — Il test della carta
+
+### Come verifico se la mia finestra è ancora a tenuta?
+Il test più semplice: metti un foglio di carta sul telaio della finestra, chiudi la finestra sopra di esso e tira. Se la carta esce facilmente, la guarnizione non stringe più in quel punto e lì entra aria. Ripeti su tutto il contorno per trovare tutte le zone problematiche.
+
+### Cosa significa se la carta esce facilmente da un lato della finestra?
+Significa che in quella zona la guarnizione non preme a sufficienza — o è usurata, o la ferramenta è mal regolata. È esattamente il punto da cui entra l’aria fredda e da cui può venire il fischio con il vento. Quella zona ha bisogno di una regolazione o di una guarnizione nuova.
+
+### Il test della carta funziona su qualsiasi tipo di finestra?
+Sì, funziona in modo identico su finestre in PVC, alluminio e legno, indipendentemente dal produttore, perché misura una cosa universale: quanto saldamente la guarnizione stringe l’anta sul telaio. È il metodo standard usato anche dai posatori professionisti per una verifica rapida della tenuta.
+
+### Ogni quanto dovrei fare il test?
+Idealmente una volta all’anno, in autunno, prima della stagione fredda — è allora che conta di più che le finestre siano a tenuta. Un test rapido su tutto il contorno ti dice se hai bisogno di una regolazione della ferramenta o di guarnizioni nuove prima che arrivi il freddo.
+
+### Cosa faccio dopo aver trovato le zone da cui entra l’aria?
+Dipende dallo schema: se è localizzato vicino alle cerniere o opposto alla maniglia, prova prima una regolazione della ferramenta; se è diffuso e la guarnizione è dura e crepata, sostituisci le guarnizioni; se la carta stringe bene ma senti comunque una corrente, il problema è nel montaggio nel muro e serve uno specialista.
+
+---
+
+Neofort BIZ verifica, regola e risigilla serramenti in PVC Salamander e alluminio Alumil a Bucarest e Ilfov. Se il test della carta ha rivelato perdite d’aria, [richiedi una valutazione gratuita in loco](/it/contatti).`
+    },
+  },
 ];
 
 
