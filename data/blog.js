@@ -26869,13 +26869,13 @@ Exact ca atunci când sufli printr-o deschidere îngustă și se produce un flui
 
 Cea mai frecventă cauză. Garniturile de etanșare (benzile de cauciuc sau EPDM de pe cercevea și toc) au rolul de a închide complet spațiul dintre canat și ramă atunci când fereastra e închisă. În timp — de regulă după 8–12 ani — cauciucul se usucă, se întărește și nu mai revine la formă. Apar micro-fante prin care aerul se strecoară.
 
-Cum recunoști: pe lângă șuierat, simți un curent rece cu mâna pe conturul ferestrei chiar cu ea închisă, iar garnitura pare tare și crăpată la atingere. Soluția este înlocuirea garniturilor — o intervenție relativ ieftină care rezolvă atât șuieratul, cât și pierderea de căldură.
+Cum recunoști: pe lângă șuierat, simți un curent rece cu mâna pe conturul ferestrei chiar cu ea închisă, iar garnitura pare tare și crăpată la atingere. Soluția este înlocuirea garniturilor — o intervenție relativ ieftină care rezolvă atât șuieratul, cât și pierderea de căldură. Vezi semnele clare la [Când trebuie înlocuite garniturile ferestrei](/ro/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
 
 ## Cauza 2: Feroneria dereglată
 
 Feroneria (mecanismul de închidere) apasă canatul pe garnitură. Dacă feroneria e dereglată sau uzată, presiunea de apăsare scade, iar canatul nu mai strânge garnitura suficient. Rezultatul: aceeași micro-fantă și același șuierat, chiar dacă garnitura e încă bună.
 
-Cum recunoști: fereastra se închide „prea ușor" sau, dimpotrivă, mânerul se rotește greu; simți joc în canat când îl împingi cu fereastra închisă. Soluția este reglarea feroneriei — majoritatea sistemelor moderne au came reglabile care ajustează presiunea de strângere. Pentru a înțelege ce presupune un montaj și o reglare corectă, poți citi [Cum se montează corect termopanele Salamander](/ro/blog/cum-se-monteaza-corect-termopanele-salamander-bucuresti).
+Cum recunoști: fereastra se închide „prea ușor" sau, dimpotrivă, mânerul se rotește greu; simți joc în canat când îl împingi cu fereastra închisă. Soluția este reglarea feroneriei — majoritatea sistemelor moderne au came reglabile care ajustează presiunea de strângere. Vezi pas cu pas la [Cum reglezi feroneria Roto pe modul iarnă/vară](/ro/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus), iar pentru a găsi exact zona pe unde intră aerul, folosește [testul cu coala de hârtie](/ro/blog/testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra). Pentru a înțelege ce presupune un montaj și o reglare corectă, poți citi [Cum se montează corect termopanele Salamander](/ro/blog/cum-se-monteaza-corect-termopanele-salamander-bucuresti).
 
 ## Cauza 3: Montajul neetanș
 
@@ -26925,13 +26925,13 @@ Just like when you blow through a narrow opening and produce a whistle, air pass
 
 The most frequent cause. The sealing gaskets (the rubber or EPDM strips on the sash and frame) have the role of completely closing the space between the sash and frame when the window is shut. Over time — usually after 8–12 years — the rubber dries out, hardens and no longer returns to shape. Micro-gaps appear through which air sneaks in.
 
-How to recognise it: besides the whistling, you feel a cold draught with your hand along the window contour even with it closed, and the gasket feels hard and cracked to the touch. The solution is replacing the gaskets — a relatively cheap intervention that solves both the whistling and the heat loss.
+How to recognise it: besides the whistling, you feel a cold draught with your hand along the window contour even with it closed, and the gasket feels hard and cracked to the touch. The solution is replacing the gaskets — a relatively cheap intervention that solves both the whistling and the heat loss. See the clear signs at [When window gaskets need replacing](/en/blog/when-window-gaskets-need-replacing-signs).
 
 ## Cause 2: Misadjusted hardware
 
 The hardware (the closing mechanism) presses the sash onto the gasket. If the hardware is misadjusted or worn, the pressing force decreases and the sash no longer tightens the gasket enough. The result: the same micro-gap and the same whistling, even if the gasket is still good.
 
-How to recognise it: the window closes "too easily" or, on the contrary, the handle turns hard; you feel play in the sash when you push it with the window closed. The solution is adjusting the hardware — most modern systems have adjustable cams that fine-tune the clamping pressure. To understand what correct installation and adjustment involve, you can read [How to correctly install Salamander windows](/en/blog/how-to-correctly-install-salamander-windows-bucharest).
+How to recognise it: the window closes "too easily" or, on the contrary, the handle turns hard; you feel play in the sash when you push it with the window closed. The solution is adjusting the hardware — most modern systems have adjustable cams that fine-tune the clamping pressure. See step by step at [How to adjust Roto hardware for winter/summer mode](/en/blog/how-to-adjust-roto-hardware-winter-summer-allen-key), and to find exactly where the air enters, use [the paper sheet test](/en/blog/paper-sheet-test-find-where-air-enters-window). To understand what correct installation and adjustment involve, you can read [How to correctly install Salamander windows](/en/blog/how-to-correctly-install-salamander-windows-bucharest).
 
 ## Cause 3: Non-airtight installation
 
@@ -26981,13 +26981,13 @@ Genau wie wenn Sie durch eine schmale Öffnung blasen und ein Pfeifen erzeugen, 
 
 Die häufigste Ursache. Die Dichtungen (die Gummi- oder EPDM-Streifen an Flügel und Rahmen) haben die Aufgabe, den Raum zwischen Flügel und Rahmen bei geschlossenem Fenster vollständig zu schließen. Mit der Zeit — in der Regel nach 8–12 Jahren — trocknet der Gummi aus, verhärtet und kehrt nicht mehr in seine Form zurück. Es entstehen Mikrospalten, durch die sich die Luft schleicht.
 
-Wie Sie es erkennen: Neben dem Pfeifen spüren Sie mit der Hand einen kalten Zug entlang des Fensterumfangs, selbst bei geschlossenem Fenster, und die Dichtung fühlt sich hart und rissig an. Die Lösung ist der Austausch der Dichtungen — ein relativ günstiger Eingriff, der sowohl das Pfeifen als auch den Wärmeverlust behebt.
+Wie Sie es erkennen: Neben dem Pfeifen spüren Sie mit der Hand einen kalten Zug entlang des Fensterumfangs, selbst bei geschlossenem Fenster, und die Dichtung fühlt sich hart und rissig an. Die Lösung ist der Austausch der Dichtungen — ein relativ günstiger Eingriff, der sowohl das Pfeifen als auch den Wärmeverlust behebt. Sehen Sie die klaren Anzeichen unter [Wann Fensterdichtungen ersetzt werden müssen](/de/blog/wann-fensterdichtungen-ersetzt-werden-muessen-anzeichen).
 
 ## Ursache 2: Fehlerhaft eingestellter Beschlag
 
 Der Beschlag (der Schließmechanismus) drückt den Flügel auf die Dichtung. Wenn der Beschlag falsch eingestellt oder abgenutzt ist, sinkt die Andruckkraft und der Flügel presst die Dichtung nicht mehr ausreichend. Das Ergebnis: derselbe Mikrospalt und dasselbe Pfeifen, selbst wenn die Dichtung noch gut ist.
 
-Wie Sie es erkennen: Das Fenster schließt „zu leicht" oder im Gegenteil, der Griff dreht sich schwer; Sie spüren Spiel im Flügel, wenn Sie ihn bei geschlossenem Fenster drücken. Die Lösung ist die Einstellung des Beschlags — die meisten modernen Systeme haben verstellbare Nocken, die den Anpressdruck justieren. Um zu verstehen, was eine korrekte Montage und Einstellung bedeutet, können Sie [Wie werden Salamander-Fenster richtig montiert](/de/blog/wie-werden-salamander-fenster-richtig-montiert-bukarest) lesen.
+Wie Sie es erkennen: Das Fenster schließt „zu leicht" oder im Gegenteil, der Griff dreht sich schwer; Sie spüren Spiel im Flügel, wenn Sie ihn bei geschlossenem Fenster drücken. Die Lösung ist die Einstellung des Beschlags — die meisten modernen Systeme haben verstellbare Nocken, die den Anpressdruck justieren. Sehen Sie Schritt für Schritt unter [Roto-Beschlag auf Winter-/Sommermodus einstellen](/de/blog/roto-beschlag-winter-sommer-einstellen-inbusschluessel), und um genau zu finden, wo die Luft eindringt, verwenden Sie [den Papiertest](/de/blog/papiertest-herausfinden-wo-luft-am-fenster-eindringt). Um zu verstehen, was eine korrekte Montage und Einstellung bedeutet, können Sie [Wie werden Salamander-Fenster richtig montiert](/de/blog/wie-werden-salamander-fenster-richtig-montiert-bukarest) lesen.
 
 ## Ursache 3: Undichte Montage
 
@@ -27037,13 +27037,13 @@ Exactement comme lorsque vous soufflez à travers une ouverture étroite et prod
 
 La cause la plus fréquente. Les joints d’étanchéité (les bandes de caoutchouc ou EPDM sur l’ouvrant et le dormant) ont pour rôle de fermer complètement l’espace entre l’ouvrant et le cadre lorsque la fenêtre est fermée. Avec le temps — généralement après 8 à 12 ans — le caoutchouc se dessèche, durcit et ne reprend plus sa forme. Des micro-interstices apparaissent par lesquels l’air se faufile.
 
-Comment le reconnaître : outre le sifflement, vous sentez un courant froid avec la main le long du contour de la fenêtre même fermée, et le joint paraît dur et fissuré au toucher. La solution est le remplacement des joints — une intervention relativement peu coûteuse qui résout à la fois le sifflement et la perte de chaleur.
+Comment le reconnaître : outre le sifflement, vous sentez un courant froid avec la main le long du contour de la fenêtre même fermée, et le joint paraît dur et fissuré au toucher. La solution est le remplacement des joints — une intervention relativement peu coûteuse qui résout à la fois le sifflement et la perte de chaleur. Voir les signes clairs sur [Quand remplacer les joints de fenêtre](/fr/blog/quand-remplacer-joints-fenetre-signes).
 
 ## Cause 2 : La quincaillerie déréglée
 
 La quincaillerie (le mécanisme de fermeture) presse l’ouvrant sur le joint. Si la quincaillerie est déréglée ou usée, la force de pression diminue et l’ouvrant ne serre plus assez le joint. Le résultat : le même micro-interstice et le même sifflement, même si le joint est encore bon.
 
-Comment le reconnaître : la fenêtre se ferme « trop facilement » ou, au contraire, la poignée tourne difficilement ; vous sentez du jeu dans l’ouvrant lorsque vous le poussez fenêtre fermée. La solution est le réglage de la quincaillerie — la plupart des systèmes modernes ont des cames réglables qui ajustent la pression de serrage. Pour comprendre ce qu’impliquent une pose et un réglage corrects, vous pouvez lire [Comment installer correctement les fenêtres Salamander](/fr/blog/comment-installer-correctement-fenetres-salamander-bucarest).
+Comment le reconnaître : la fenêtre se ferme « trop facilement » ou, au contraire, la poignée tourne difficilement ; vous sentez du jeu dans l’ouvrant lorsque vous le poussez fenêtre fermée. La solution est le réglage de la quincaillerie — la plupart des systèmes modernes ont des cames réglables qui ajustent la pression de serrage. Voir pas à pas sur [Comment régler la quincaillerie Roto en mode hiver/été](/fr/blog/regler-quincaillerie-roto-hiver-ete-cle-allen), et pour trouver exactement par où entre l’air, utilisez [le test de la feuille de papier](/fr/blog/test-feuille-papier-trouver-ou-entre-air-fenetre). Pour comprendre ce qu’impliquent une pose et un réglage corrects, vous pouvez lire [Comment installer correctement les fenêtres Salamander](/fr/blog/comment-installer-correctement-fenetres-salamander-bucarest).
 
 ## Cause 3 : La pose non étanche
 
@@ -27093,13 +27093,13 @@ Exactamente como cuando soplas a través de una abertura estrecha y produces un 
 
 La causa más frecuente. Las juntas de sellado (las tiras de goma o EPDM en la hoja y el marco) tienen la función de cerrar completamente el espacio entre la hoja y el marco cuando la ventana está cerrada. Con el tiempo — normalmente tras 8–12 años — la goma se seca, se endurece y ya no recupera su forma. Aparecen micro-rendijas por las que el aire se cuela.
 
-Cómo reconocerlo: además del silbido, sientes una corriente fría con la mano a lo largo del contorno de la ventana incluso cerrada, y la junta se nota dura y agrietada al tacto. La solución es la sustitución de las juntas — una intervención relativamente barata que resuelve tanto el silbido como la pérdida de calor.
+Cómo reconocerlo: además del silbido, sientes una corriente fría con la mano a lo largo del contorno de la ventana incluso cerrada, y la junta se nota dura y agrietada al tacto. La solución es la sustitución de las juntas — una intervención relativamente barata que resuelve tanto el silbido como la pérdida de calor. Consulta las señales claras en [Cuándo hay que sustituir las juntas de la ventana](/es/blog/cuando-sustituir-juntas-ventana-senales).
 
 ## Causa 2: La herrería desajustada
 
 La herrería (el mecanismo de cierre) presiona la hoja contra la junta. Si la herrería está desajustada o desgastada, la fuerza de presión disminuye y la hoja ya no aprieta la junta lo suficiente. El resultado: la misma micro-rendija y el mismo silbido, aunque la junta esté todavía bien.
 
-Cómo reconocerlo: la ventana se cierra «demasiado fácilmente» o, por el contrario, la manilla gira con dificultad; sientes juego en la hoja cuando la empujas con la ventana cerrada. La solución es el ajuste de la herrería — la mayoría de los sistemas modernos tienen levas regulables que ajustan la presión de apriete. Para entender qué implica un montaje y un ajuste correctos, puedes leer [Cómo instalar correctamente las ventanas Salamander](/es/blog/como-instalar-correctamente-ventanas-salamander-bucarest).
+Cómo reconocerlo: la ventana se cierra «demasiado fácilmente» o, por el contrario, la manilla gira con dificultad; sientes juego en la hoja cuando la empujas con la ventana cerrada. La solución es el ajuste de la herrería — la mayoría de los sistemas modernos tienen levas regulables que ajustan la presión de apriete. Consulta el paso a paso en [Cómo ajustar la herrería Roto en modo invierno/verano](/es/blog/ajustar-herreria-roto-invierno-verano-llave-allen), y para encontrar exactamente por dónde entra el aire, usa [la prueba de la hoja de papel](/es/blog/prueba-hoja-papel-encontrar-por-donde-entra-aire-ventana). Para entender qué implica un montaje y un ajuste correctos, puedes leer [Cómo instalar correctamente las ventanas Salamander](/es/blog/como-instalar-correctamente-ventanas-salamander-bucarest).
 
 ## Causa 3: El montaje no estanco
 
@@ -27149,13 +27149,13 @@ Esattamente come quando soffi attraverso un’apertura stretta e produci un fisc
 
 La causa più frequente. Le guarnizioni di tenuta (le strisce di gomma o EPDM sull’anta e sul telaio) hanno il compito di chiudere completamente lo spazio tra anta e telaio quando la finestra è chiusa. Con il tempo — di solito dopo 8–12 anni — la gomma si secca, si indurisce e non ritorna più alla sua forma. Compaiono micro-fessure attraverso cui l’aria si infila.
 
-Come riconoscerlo: oltre al fischio, senti una corrente fredda con la mano lungo il contorno della finestra anche chiusa, e la guarnizione risulta dura e crepata al tatto. La soluzione è la sostituzione delle guarnizioni — un intervento relativamente economico che risolve sia il fischio che la perdita di calore.
+Come riconoscerlo: oltre al fischio, senti una corrente fredda con la mano lungo il contorno della finestra anche chiusa, e la guarnizione risulta dura e crepata al tatto. La soluzione è la sostituzione delle guarnizioni — un intervento relativamente economico che risolve sia il fischio che la perdita di calore. Vedi i segni chiari su [Quando sostituire le guarnizioni della finestra](/it/blog/quando-sostituire-guarnizioni-finestra-segni).
 
 ## Causa 2: La ferramenta mal regolata
 
 La ferramenta (il meccanismo di chiusura) preme l’anta sulla guarnizione. Se la ferramenta è mal regolata o usurata, la forza di pressione diminuisce e l’anta non stringe più a sufficienza la guarnizione. Il risultato: la stessa micro-fessura e lo stesso fischio, anche se la guarnizione è ancora buona.
 
-Come riconoscerlo: la finestra si chiude «troppo facilmente» o, al contrario, la maniglia gira con difficoltà; senti gioco nell’anta quando la spingi con la finestra chiusa. La soluzione è la regolazione della ferramenta — la maggior parte dei sistemi moderni ha camme regolabili che aggiustano la pressione di serraggio. Per capire cosa comporta un montaggio e una regolazione corretti, puoi leggere [Come installare correttamente le finestre Salamander](/it/blog/come-installare-correttamente-finestre-salamander-bucarest).
+Come riconoscerlo: la finestra si chiude «troppo facilmente» o, al contrario, la maniglia gira con difficoltà; senti gioco nell’anta quando la spingi con la finestra chiusa. La soluzione è la regolazione della ferramenta — la maggior parte dei sistemi moderni ha camme regolabili che aggiustano la pressione di serraggio. Vedi passo passo su [Come regolare la ferramenta Roto in modalità inverno/estate](/it/blog/regolare-ferramenta-roto-inverno-estate-chiave-brugola), e per trovare esattamente da dove entra l’aria, usa [il test del foglio di carta](/it/blog/test-foglio-carta-scoprire-dove-entra-aria-finestra). Per capire cosa comporta un montaggio e una regolazione corretti, puoi leggere [Come installare correttamente le finestre Salamander](/it/blog/come-installare-correttamente-finestre-salamander-bucarest).
 
 ## Causa 3: Il montaggio non ermetico
 
@@ -28047,6 +28047,386 @@ Non puoi rovinare la finestra con una regolazione, ma puoi temporaneamente peggi
 ---
 
 Neofort BIZ regola e fa la manutenzione della ferramenta Roto su serramenti in PVC Salamander e alluminio Alumil a Bucarest e Ilfov. Se la regolazione da sola non risolve la corrente o il fischio, [richiedi una valutazione gratuita in loco](/it/contatti).`
+    },
+  },
+  {
+    slugs: {ro:"cand-trebuie-inlocuite-garniturile-ferestrei-semne",en:"when-window-gaskets-need-replacing-signs",de:"wann-fensterdichtungen-ersetzt-werden-muessen-anzeichen",fr:"quand-remplacer-joints-fenetre-signes",es:"cuando-sustituir-juntas-ventana-senales",it:"quando-sostituire-guarnizioni-finestra-segni"},
+    date: "2026-06-22",
+    author: "Mihai Dănălache",
+    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorPhoto: "/team/mihai-danalache.avif",
+    accentColor: "#1c6b8c",
+    image: {ro:"/blog/garnituri-uzate-cand-inlocuiesti.avif",en:"/blog/garnituri-uzate-cand-inlocuiesti.avif",de:"/blog/garnituri-uzate-cand-inlocuiesti.avif",fr:"/blog/garnituri-uzate-cand-inlocuiesti.avif",es:"/blog/garnituri-uzate-cand-inlocuiesti.avif",it:"/blog/garnituri-uzate-cand-inlocuiesti.avif"},
+    imageOg: "/blog/garnituri-uzate-cand-inlocuiesti-og.jpg",
+    imageBg: "linear-gradient(135deg,#0a2430 0%,#1c6b8c 60%,#0a2430 100%)",
+    imageLabel: "Deget care atinge o garnitură de cauciuc uzată și crăpată pe conturul unei ferestre PVC, prin care intră aer și frig",
+    readTime: {ro:"7 min citire",en:"7 min read",de:"7 Min.",fr:"7 min",es:"7 min",it:"7 min"},
+    category: {ro:"Ghid practic",en:"Practical Guide",de:"Praktischer Ratgeber",fr:"Guide pratique",es:"Guía práctica",it:"Guida pratica"},
+    title: {ro:"Când trebuie înlocuite garniturile ferestrei: 5 semne clare",en:"When window gaskets need replacing: 5 clear signs",de:"Wann Fensterdichtungen ersetzt werden müssen: 5 klare Anzeichen",fr:"Quand remplacer les joints de fenêtre : 5 signes clairs",es:"Cuándo hay que sustituir las juntas de la ventana: 5 señales claras",it:"Quando sostituire le guarnizioni della finestra: 5 segni chiari"},
+    metaDesc: {ro:"Când trebuie înlocuite garniturile ferestrei? 5 semne clare: garnitură tare și crăpată, curent cu fereastra închisă, șuierat care nu dispare la reglaj, condens pe contur, zgomot mai puternic. Plus ce presupune schimbarea.",en:"When do window gaskets need replacing? 5 clear signs: hard and cracked gasket, draught with window closed, whistling that does not disappear with adjustment, condensation on the contour, louder noise. Plus what the change involves.",de:"Wann müssen Fensterdichtungen ersetzt werden? 5 klare Anzeichen: harte und rissige Dichtung, Zug bei geschlossenem Fenster, Pfeifen, das bei der Einstellung nicht verschwindet, Kondens am Umfang, lauterer Lärm.",fr:"Quand faut-il remplacer les joints de fenêtre ? 5 signes clairs : joint dur et fissuré, courant fenêtre fermée, sifflement qui ne disparaît pas au réglage, condensation sur le contour, bruit plus fort.",es:"¿Cuándo hay que sustituir las juntas de la ventana? 5 señales claras: junta dura y agrietada, corriente con la ventana cerrada, silbido que no desaparece con el ajuste, condensación en el contorno, ruido más fuerte.",it:"Quando vanno sostituite le guarnizioni della finestra? 5 segni chiari: guarnizione dura e crepata, corrente con finestra chiusa, fischio che non scompare con la regolazione, condensa sul contorno, rumore più forte."},
+    excerpt: {ro:"Fereastra lasă aer și șuieră chiar și după reglaj? Garniturile sunt cauza. Cele 5 semne clare că trebuie înlocuite — de la cauciucul tare și crăpat până la condensul pe contur — și ce presupune schimbarea.",en:"Window lets air in and whistles even after adjustment? The gaskets are the cause. The 5 clear signs they must be replaced — from hard, cracked rubber to condensation on the contour — and what the change involves.",de:"Fenster lässt Luft durch und pfeift auch nach der Einstellung? Die Dichtungen sind die Ursache. Die 5 klaren Anzeichen, dass sie ersetzt werden müssen, und was der Wechsel umfasst.",fr:"La fenêtre laisse passer l’air et siffle même après réglage ? Les joints en sont la cause. Les 5 signes clairs qu’ils doivent être remplacés et ce qu’implique le changement.",es:"¿La ventana deja pasar el aire y silba incluso tras el ajuste? Las juntas son la causa. Las 5 señales claras de que deben sustituirse y qué implica el cambio.",it:"La finestra lascia passare l’aria e fischia anche dopo la regolazione? Le guarnizioni sono la causa. I 5 segni chiari che vanno sostituite e cosa comporta il cambio."},
+    dateDisplay: {ro:"22 iunie 2026",en:"June 22 2026",de:"22. Juni 2026",fr:"22 juin 2026",es:"22 jun 2026",it:"22 giu 2026"},
+    content: {
+      ro: `Ai reglat feroneria, ai făcut testul cu coala de hârtie, dar fereastra tot lasă aer și șuieră la vânt? Atunci, cel mai probabil, problema nu mai poate fi reglată — garniturile s-au uzat și trebuie înlocuite. Garniturile sunt piesa care se degradează cel mai repede la o fereastră și, din fericire, sunt și cel mai ieftin de schimbat. Acest ghid îți arată cum recunoști o garnitură uzată, care sunt semnele clare că trebuie înlocuită și ce presupune schimbarea.
+
+## Ce sunt, de fapt, garniturile și de ce se uzează
+
+Garniturile sunt benzile de cauciuc sau EPDM montate pe conturul canatului și al tocului. Rolul lor este să comprime spațiul dintre partea mobilă și cea fixă a ferestrei atunci când o închizi, astfel încât să nu treacă aer, apă sau zgomot. O fereastră are de obicei 2 sau 3 rânduri de garnituri, pe niveluri diferite, pentru o etanșare mai bună.
+
+Problema e că un cauciuc, oricât de bun, îmbătrânește. Sub acțiunea soarelui, a frigului, a căldurii și a comprimării repetate la fiecare deschidere, materialul își pierde treptat elasticitatea. La ferestrele PVC de calitate, garniturile rezistă de regulă 8–12 ani; la cele ieftine, mult mai puțin. Când cauciucul nu mai revine la formă după ce e comprimat, apar micro-fantele prin care intră aerul.
+
+> Semnul cheie: o garnitură bună e moale, flexibilă și elastică — o apeși cu unghia și revine. O garnitură uzată e tare, uscată, uneori crăpată sau turtită definitiv. Diferența se simte imediat la atingere.
+
+## Semnul 1: Garnitura e tare și crăpată la atingere
+
+Cel mai clar semn. Deschide fereastra și plimbă degetul pe garnitura de pe canat. Dacă e moale și cauciucată — e bună. Dacă e tare ca plasticul, uscată, cu crăpături fine sau bucăți lipsă, și-a pierdut elasticitatea. O astfel de garnitură nu mai etanșează, indiferent cât reglezi feroneria.
+
+## Semnul 2: Simți curent rece cu fereastra închisă
+
+Cu fereastra complet închisă, plimbă mâna pe conturul interior. Dacă simți aer rece intrând — mai ales pe vânt — garnitura nu mai comprimă corect. Poți confirma exact unde, cu [testul cu coala de hârtie](/ro/blog/testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra): dacă hârtia iese ușor chiar și după ce ai reglat feroneria la maxim, garnitura e cauza.
+
+## Semnul 3: Șuierat care nu dispare la reglaj
+
+Dacă ai încercat deja [reglajul feroneriei Roto](/ro/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus) și șuieratul persistă, e semn că problema nu mai e presiunea, ci garnitura care nu mai poate fi comprimată suficient. Reglajul mărește apăsarea, dar dacă materialul e întărit și turtit, nu se mai mulează pe suprafață — și aerul tot trece.
+
+## Semnul 4: Condens și igrasie pe conturul ferestrei
+
+O garnitură uzată lasă aerul rece să intre exact pe marginea ferestrei, unde întâlnește aerul cald din cameră. Acolo apare condensul, iar în timp, mucegaiul negru pe conturul geamului. Dacă vezi condens sau pete negre localizate pe marginea ferestrei (nu pe mijlocul geamului), garnitura slabă e adesea cauza.
+
+## Semnul 5: Zgomot de afară mai puternic decât înainte
+
+Garniturile nu opresc doar aerul, ci și zgomotul. Dacă observi că, în ultima vreme, auzi strada mai tare decât îți aminteai, e posibil ca garniturile să se fi uzat și să nu mai izoleze fonic la fel de bine. E un semn mai subtil, dar real.
+
+## Ce presupune înlocuirea garniturilor
+
+Vestea bună: e una dintre cele mai simple și mai ieftine intervenții la o fereastră. Garnitura veche se trage afară din canalul ei (la majoritatea sistemelor e doar presată, nu lipită), iar cea nouă se împinge la loc. Cheia este să folosești garnitura corectă pentru sistemul tău de profil — Salamander, de exemplu, are un profil de garnitură specific, iar o garnitură universală nepotrivită nu va etanșa corect.
+
+De aceea, deși schimbarea în sine pare simplă, merită făcută de cineva care are garnitura potrivită pentru profilul tău și o montează fără să o întindă (dacă o întinzi la montaj, se va contracta la loc și vor apărea goluri la colțuri). Costul e mic comparativ cu economia de căldură și confortul recâștigat.
+
+## Reglaj sau garnituri noi — cum decizi
+
+Regula simplă: încearcă întâi reglajul, treci la garnituri dacă reglajul nu ajunge. Dacă vrei să înțelegi de la început care e cauza reală a curentului sau șuieratului, pornește de la ghidul general [De ce șuieră termopanele când bate vântul](/ro/blog/de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii), care îți arată toate cauzele posibile și cum le deosebești între ele.
+
+## FAQ — Înlocuirea garniturilor
+
+### Cum știu dacă trebuie să înlocuiesc garniturile ferestrei?
+Semnul cel mai clar: garnitura e tare, uscată sau crăpată la atingere, în loc să fie moale și elastică. În plus, dacă simți curent cu fereastra închisă și șuieratul nu dispare nici după ce reglezi feroneria, garnitura e cauza și trebuie schimbată.
+
+### Cât durează garniturile unei ferestre PVC?
+La ferestrele de calitate, garniturile rezistă de regulă 8–12 ani. La profilele ieftine sau la ferestrele expuse mult la soare și intemperii, se pot usca mai repede. Nu geamul sau profilul cedează primul, ci garnitura — de aceea e normal să o înlocuiești o dată sau de două ori pe durata de viață a ferestrei.
+
+### Pot schimba singur garniturile?
+Tehnic, garnitura veche se trage afară și cea nouă se împinge în canal, fără scule speciale. Partea dificilă e să obții garnitura corectă pentru profilul tău (Salamander are un profil specific) și să o montezi fără să o întinzi, altfel se contractă și lasă goluri la colțuri. De aceea mulți preferă să lase asta unui specialist.
+
+### Cât costă înlocuirea garniturilor?
+Este una dintre cele mai ieftine intervenții la o fereastră, mult mai puțin decât o fereastră nouă sau chiar decât o reparație de feronerie. Costul exact depinde de metrajul de garnitură și de tipul profilului, dar raportat la căldura economisită și confortul recâștigat, se amortizează repede.
+
+### Merită să schimb garniturile sau toată fereastra?
+Dacă profilul și geamul sunt în stare bună și doar garnitura s-a uzat, schimbarea garniturii e alegerea evidentă — rezolvi problema cu o fracțiune din costul unei ferestre noi. Fereastra întreagă se justifică doar dacă profilul e degradat, geamul e spart sau termopanul e aburit între foi.
+
+---
+
+Neofort BIZ înlocuiește garnituri și service-uiește tâmplărie PVC Salamander și aluminiu Alumil în București și Ilfov, cu garnituri potrivite pentru fiecare profil. Dacă ferestrele tale lasă aer și reglajul nu mai ajută, [solicită o evaluare gratuită la fața locului](/ro/contact).`,
+      en: `You adjusted the hardware, you did the paper sheet test, but the window still lets air in and whistles in the wind? Then, most likely, the problem can no longer be adjusted — the gaskets have worn out and must be replaced. Gaskets are the part that degrades fastest on a window and, fortunately, they are also the cheapest to change. This guide shows you how to recognise a worn gasket, what the clear signs are that it must be replaced and what the replacement involves.
+
+## What gaskets actually are and why they wear out
+
+Gaskets are the rubber or EPDM strips fitted around the contour of the sash and frame. Their role is to compress the space between the moving and fixed parts of the window when you close it, so that no air, water or noise gets through. A window usually has 2 or 3 rows of gaskets, on different levels, for better sealing.
+
+The problem is that rubber, however good, ages. Under the action of sun, cold, heat and repeated compression at every opening, the material gradually loses its elasticity. On quality PVC windows, gaskets usually last 8–12 years; on cheap ones, much less. When the rubber no longer returns to shape after being compressed, micro-gaps appear through which air enters.
+
+> The key sign: a good gasket is soft, flexible and elastic — you press it with your nail and it springs back. A worn gasket is hard, dry, sometimes cracked or permanently flattened. The difference is felt immediately to the touch.
+
+## Sign 1: The gasket is hard and cracked to the touch
+
+The clearest sign. Open the window and run your finger over the gasket on the sash. If it is soft and rubbery — it is good. If it is hard as plastic, dry, with fine cracks or missing pieces, it has lost its elasticity. Such a gasket no longer seals, no matter how much you adjust the hardware.
+
+## Sign 2: You feel a cold draught with the window closed
+
+With the window fully closed, run your hand over the inner contour. If you feel cold air entering — especially in wind — the gasket no longer compresses correctly. You can confirm exactly where with [the paper sheet test](/en/blog/paper-sheet-test-find-where-air-enters-window): if the paper comes out easily even after you have adjusted the hardware to maximum, the gasket is the cause.
+
+## Sign 3: Whistling that does not disappear with adjustment
+
+If you have already tried [adjusting the Roto hardware](/en/blog/how-to-adjust-roto-hardware-winter-summer-allen-key) and the whistling persists, it is a sign that the problem is no longer the pressure, but the gasket that can no longer be compressed enough. Adjustment increases the pressing, but if the material is hardened and flattened, it no longer moulds to the surface — and the air still gets through.
+
+## Sign 4: Condensation and damp on the window contour
+
+A worn gasket lets cold air in exactly at the window edge, where it meets the warm air from the room. There, condensation appears and, over time, black mould on the glass contour. If you see condensation or localised black spots on the window edge (not in the middle of the glass), a weak gasket is often the cause.
+
+## Sign 5: Outside noise louder than before
+
+Gaskets do not only stop air, but also noise. If you notice that, lately, you hear the street louder than you remember, it is possible the gaskets have worn out and no longer insulate against sound as well. It is a more subtle sign, but a real one.
+
+## What replacing the gaskets involves
+
+The good news: it is one of the simplest and cheapest interventions on a window. The old gasket is pulled out of its channel (on most systems it is just pressed in, not glued), and the new one is pushed back into place. The key is to use the correct gasket for your profile system — Salamander, for example, has a specific gasket profile, and an unsuitable universal gasket will not seal correctly.
+
+That is why, although the change itself seems simple, it is worth having it done by someone who has the right gasket for your profile and fits it without stretching it (if you stretch it during fitting, it will contract back and gaps will appear at the corners). The cost is small compared to the heat saving and the comfort regained.
+
+## Adjustment or new gaskets — how to decide
+
+The simple rule: try adjustment first, move to gaskets if adjustment is not enough. If you want to understand from the start what the real cause of the draught or whistling is, start from the general guide [Why windows whistle when the wind blows](/en/blog/why-do-windows-whistle-when-the-wind-blows-causes-solutions), which shows you all the possible causes and how to tell them apart.
+
+## FAQ — Replacing gaskets
+
+### How do I know if I need to replace my window gaskets?
+The clearest sign: the gasket is hard, dry or cracked to the touch, instead of being soft and elastic. In addition, if you feel a draught with the window closed and the whistling does not disappear even after you adjust the hardware, the gasket is the cause and must be changed.
+
+### How long do PVC window gaskets last?
+On quality windows, gaskets usually last 8–12 years. On cheap profiles or windows heavily exposed to sun and weather, they can dry out faster. It is not the glass or profile that fails first, but the gasket — that is why it is normal to replace it once or twice over the window's lifetime.
+
+### Can I change the gaskets myself?
+Technically, the old gasket is pulled out and the new one is pushed into the channel, without special tools. The difficult part is getting the correct gasket for your profile (Salamander has a specific profile) and fitting it without stretching it, otherwise it contracts and leaves gaps at the corners. That is why many prefer to leave this to a specialist.
+
+### How much does replacing gaskets cost?
+It is one of the cheapest interventions on a window, much less than a new window or even than a hardware repair. The exact cost depends on the length of gasket and the type of profile, but relative to the heat saved and the comfort regained, it pays off quickly.
+
+### Is it worth changing the gaskets or the whole window?
+If the profile and glass are in good condition and only the gasket has worn out, changing the gasket is the obvious choice — you solve the problem at a fraction of the cost of a new window. The whole window is only justified if the profile is degraded, the glass is broken or the glazing is fogged between panes.
+
+---
+
+Neofort BIZ replaces gaskets and services Salamander PVC and Alumil aluminium joinery in Bucharest and Ilfov, with gaskets suited to each profile. If your windows let air in and adjustment no longer helps, [request a free on-site assessment](/en/contact).`,
+      de: `Sie haben den Beschlag eingestellt, den Papiertest gemacht, aber das Fenster lässt immer noch Luft durch und pfeift bei Wind? Dann kann das Problem höchstwahrscheinlich nicht mehr eingestellt werden — die Dichtungen sind verschlissen und müssen ersetzt werden. Dichtungen sind das Teil, das an einem Fenster am schnellsten verschleißt, und glücklicherweise sind sie auch am günstigsten zu wechseln. Diese Anleitung zeigt Ihnen, wie Sie eine verschlissene Dichtung erkennen, was die klaren Anzeichen sind, dass sie ersetzt werden muss, und was der Austausch umfasst.
+
+## Was Dichtungen eigentlich sind und warum sie verschleißen
+
+Dichtungen sind die Gummi- oder EPDM-Streifen, die am Umfang von Flügel und Rahmen angebracht sind. Ihre Aufgabe ist es, beim Schließen den Raum zwischen dem beweglichen und dem festen Teil des Fensters zu komprimieren, sodass keine Luft, kein Wasser und kein Lärm durchdringt. Ein Fenster hat meist 2 oder 3 Dichtungsreihen auf verschiedenen Ebenen, für eine bessere Abdichtung.
+
+Das Problem ist, dass Gummi, so gut er auch sein mag, altert. Unter der Einwirkung von Sonne, Kälte, Hitze und wiederholter Kompression bei jedem Öffnen verliert das Material allmählich seine Elastizität. Bei hochwertigen PVC-Fenstern halten Dichtungen in der Regel 8–12 Jahre; bei billigen viel weniger. Wenn der Gummi nach dem Zusammendrücken nicht mehr in seine Form zurückkehrt, entstehen Mikrospalten, durch die Luft eindringt.
+
+> Das Schlüsselzeichen: Eine gute Dichtung ist weich, flexibel und elastisch — Sie drücken sie mit dem Fingernagel und sie federt zurück. Eine verschlissene Dichtung ist hart, trocken, manchmal rissig oder dauerhaft platt gedrückt. Der Unterschied ist beim Berühren sofort spürbar.
+
+## Anzeichen 1: Die Dichtung ist hart und rissig beim Berühren
+
+Das deutlichste Anzeichen. Öffnen Sie das Fenster und fahren Sie mit dem Finger über die Dichtung am Flügel. Wenn sie weich und gummiartig ist — ist sie gut. Wenn sie hart wie Plastik, trocken, mit feinen Rissen oder fehlenden Stücken ist, hat sie ihre Elastizität verloren. Eine solche Dichtung dichtet nicht mehr ab, egal wie sehr Sie den Beschlag einstellen.
+
+## Anzeichen 2: Sie spüren einen kalten Zug bei geschlossenem Fenster
+
+Fahren Sie bei vollständig geschlossenem Fenster mit der Hand über den inneren Umfang. Wenn Sie kalte Luft eindringen spüren — besonders bei Wind — komprimiert die Dichtung nicht mehr korrekt. Sie können mit [dem Papiertest](/de/blog/papiertest-herausfinden-wo-luft-am-fenster-eindringt) genau bestätigen, wo: Wenn das Papier leicht herauskommt, selbst nachdem Sie den Beschlag auf Maximum eingestellt haben, ist die Dichtung die Ursache.
+
+## Anzeichen 3: Pfeifen, das bei der Einstellung nicht verschwindet
+
+Wenn Sie bereits [die Einstellung des Roto-Beschlags](/de/blog/roto-beschlag-winter-sommer-einstellen-inbusschluessel) versucht haben und das Pfeifen bleibt, ist das ein Zeichen, dass das Problem nicht mehr der Druck ist, sondern die Dichtung, die nicht mehr ausreichend komprimiert werden kann. Die Einstellung erhöht den Anpressdruck, aber wenn das Material verhärtet und platt gedrückt ist, passt es sich nicht mehr an die Oberfläche an — und die Luft dringt trotzdem durch.
+
+## Anzeichen 4: Kondens und Feuchtigkeit am Fensterumfang
+
+Eine verschlissene Dichtung lässt kalte Luft genau an der Fensterkante eindringen, wo sie auf die warme Raumluft trifft. Dort entsteht Kondens und mit der Zeit schwarzer Schimmel am Glasumfang. Wenn Sie Kondens oder lokale schwarze Flecken an der Fensterkante sehen (nicht in der Mitte des Glases), ist eine schwache Dichtung oft die Ursache.
+
+## Anzeichen 5: Außenlärm lauter als vorher
+
+Dichtungen halten nicht nur Luft ab, sondern auch Lärm. Wenn Sie bemerken, dass Sie in letzter Zeit die Straße lauter hören als in Erinnerung, ist es möglich, dass die Dichtungen verschlissen sind und nicht mehr so gut gegen Schall dämmen. Es ist ein subtileres Zeichen, aber ein echtes.
+
+## Was der Austausch der Dichtungen umfasst
+
+Die gute Nachricht: Es ist einer der einfachsten und günstigsten Eingriffe an einem Fenster. Die alte Dichtung wird aus ihrem Kanal gezogen (bei den meisten Systemen ist sie nur eingedrückt, nicht geklebt), und die neue wird wieder eingedrückt. Der Schlüssel ist, die richtige Dichtung für Ihr Profilsystem zu verwenden — Salamander zum Beispiel hat ein spezifisches Dichtungsprofil, und eine unpassende Universaldichtung dichtet nicht korrekt ab.
+
+Deshalb lohnt es sich, obwohl der Wechsel selbst einfach erscheint, ihn von jemandem machen zu lassen, der die richtige Dichtung für Ihr Profil hat und sie ohne Dehnung anbringt (wenn Sie sie beim Anbringen dehnen, zieht sie sich zurück und es entstehen Lücken an den Ecken). Die Kosten sind gering im Vergleich zur Wärmeersparnis und dem zurückgewonnenen Komfort.
+
+## Einstellung oder neue Dichtungen — wie Sie entscheiden
+
+Die einfache Regel: Versuchen Sie zuerst die Einstellung, gehen Sie zu den Dichtungen über, wenn die Einstellung nicht ausreicht. Wenn Sie von Anfang an verstehen wollen, was die wirkliche Ursache des Zugs oder Pfeifens ist, beginnen Sie mit dem allgemeinen Ratgeber [Warum Fenster bei Wind pfeifen](/de/blog/warum-pfeifen-fenster-bei-wind-ursachen-loesungen), der Ihnen alle möglichen Ursachen zeigt und wie Sie sie voneinander unterscheiden.
+
+## FAQ — Austausch der Dichtungen
+
+### Woher weiß ich, ob ich die Fensterdichtungen ersetzen muss?
+Das deutlichste Anzeichen: Die Dichtung ist hart, trocken oder rissig beim Berühren, anstatt weich und elastisch zu sein. Zudem, wenn Sie bei geschlossenem Fenster einen Zug spüren und das Pfeifen auch nach der Beschlagseinstellung nicht verschwindet, ist die Dichtung die Ursache und muss gewechselt werden.
+
+### Wie lange halten PVC-Fensterdichtungen?
+Bei hochwertigen Fenstern halten Dichtungen in der Regel 8–12 Jahre. Bei billigen Profilen oder stark der Sonne und Witterung ausgesetzten Fenstern können sie schneller austrocknen. Nicht das Glas oder Profil versagt zuerst, sondern die Dichtung — deshalb ist es normal, sie ein- oder zweimal während der Lebensdauer des Fensters zu ersetzen.
+
+### Kann ich die Dichtungen selbst wechseln?
+Technisch wird die alte Dichtung herausgezogen und die neue in den Kanal gedrückt, ohne Spezialwerkzeug. Der schwierige Teil ist, die richtige Dichtung für Ihr Profil zu bekommen (Salamander hat ein spezifisches Profil) und sie ohne Dehnung anzubringen, sonst zieht sie sich zusammen und hinterlässt Lücken an den Ecken. Deshalb überlassen viele dies einem Fachmann.
+
+### Wie viel kostet der Austausch der Dichtungen?
+Es ist einer der günstigsten Eingriffe an einem Fenster, viel weniger als ein neues Fenster oder sogar als eine Beschlagsreparatur. Die genauen Kosten hängen von der Dichtungslänge und der Profilart ab, aber im Verhältnis zur gesparten Wärme und dem zurückgewonnenen Komfort amortisiert es sich schnell.
+
+### Lohnt es sich, die Dichtungen oder das ganze Fenster zu wechseln?
+Wenn Profil und Glas in gutem Zustand sind und nur die Dichtung verschlissen ist, ist der Dichtungswechsel die offensichtliche Wahl — Sie lösen das Problem zu einem Bruchteil der Kosten eines neuen Fensters. Das ganze Fenster ist nur gerechtfertigt, wenn das Profil beschädigt, das Glas gebrochen oder die Verglasung zwischen den Scheiben beschlagen ist.
+
+---
+
+Neofort BIZ ersetzt Dichtungen und wartet Salamander-PVC- und Alumil-Aluminiumfenster in Bukarest und Ilfov, mit für jedes Profil passenden Dichtungen. Wenn Ihre Fenster Luft durchlassen und die Einstellung nicht mehr hilft, [fordern Sie eine kostenlose Vor-Ort-Bewertung an](/de/kontakt).`,
+      fr: `Vous avez réglé la quincaillerie, fait le test de la feuille de papier, mais la fenêtre laisse toujours passer l’air et siffle au vent ? Alors, très probablement, le problème ne peut plus être réglé — les joints sont usés et doivent être remplacés. Les joints sont la pièce qui se dégrade le plus vite sur une fenêtre et, heureusement, ils sont aussi les moins chers à changer. Ce guide vous montre comment reconnaître un joint usé, quels sont les signes clairs qu’il doit être remplacé et ce qu’implique le remplacement.
+
+## Ce que sont réellement les joints et pourquoi ils s’usent
+
+Les joints sont les bandes de caoutchouc ou EPDM posées sur le contour de l’ouvrant et du dormant. Leur rôle est de comprimer l’espace entre la partie mobile et la partie fixe de la fenêtre à la fermeture, afin qu’aucun air, eau ou bruit ne passe. Une fenêtre a généralement 2 ou 3 rangées de joints, sur différents niveaux, pour une meilleure étanchéité.
+
+Le problème est que le caoutchouc, aussi bon soit-il, vieillit. Sous l’action du soleil, du froid, de la chaleur et de la compression répétée à chaque ouverture, le matériau perd progressivement son élasticité. Sur les fenêtres PVC de qualité, les joints durent généralement 8–12 ans ; sur les bon marché, beaucoup moins. Quand le caoutchouc ne reprend plus sa forme après avoir été comprimé, des micro-interstices apparaissent par lesquels l’air entre.
+
+> Le signe clé : un bon joint est souple, flexible et élastique — vous le pressez avec l’ongle et il revient. Un joint usé est dur, sec, parfois fissuré ou définitivement écrasé. La différence se sent immédiatement au toucher.
+
+## Signe 1 : Le joint est dur et fissuré au toucher
+
+Le signe le plus clair. Ouvrez la fenêtre et passez le doigt sur le joint de l’ouvrant. S’il est souple et caoutchouteux — il est bon. S’il est dur comme du plastique, sec, avec de fines fissures ou des morceaux manquants, il a perdu son élasticité. Un tel joint n’étanche plus, quel que soit le réglage de la quincaillerie.
+
+## Signe 2 : Vous ressentez un courant froid fenêtre fermée
+
+Fenêtre complètement fermée, passez la main sur le contour intérieur. Si vous sentez de l’air froid entrer — surtout par vent — le joint ne comprime plus correctement. Vous pouvez confirmer exactement où avec [le test de la feuille de papier](/fr/blog/test-feuille-papier-trouver-ou-entre-air-fenetre) : si le papier sort facilement même après avoir réglé la quincaillerie au maximum, le joint est la cause.
+
+## Signe 3 : Sifflement qui ne disparaît pas au réglage
+
+Si vous avez déjà essayé [le réglage de la quincaillerie Roto](/fr/blog/regler-quincaillerie-roto-hiver-ete-cle-allen) et que le sifflement persiste, c’est un signe que le problème n’est plus la pression, mais le joint qui ne peut plus être comprimé suffisamment. Le réglage augmente le serrage, mais si le matériau est durci et écrasé, il ne se moule plus à la surface — et l’air passe quand même.
+
+## Signe 4 : Condensation et humidité sur le contour de la fenêtre
+
+Un joint usé laisse l’air froid entrer exactement au bord de la fenêtre, où il rencontre l’air chaud de la pièce. Là apparaît la condensation et, avec le temps, la moisissure noire sur le contour du vitrage. Si vous voyez de la condensation ou des taches noires localisées sur le bord de la fenêtre (pas au milieu du vitrage), un joint faible en est souvent la cause.
+
+## Signe 5 : Bruit extérieur plus fort qu’avant
+
+Les joints n’arrêtent pas seulement l’air, mais aussi le bruit. Si vous remarquez que, dernièrement, vous entendez la rue plus fort que dans votre souvenir, il est possible que les joints se soient usés et n’isolent plus aussi bien du bruit. C’est un signe plus subtil, mais réel.
+
+## Ce qu’implique le remplacement des joints
+
+La bonne nouvelle : c’est l’une des interventions les plus simples et les moins chères sur une fenêtre. Le joint usé est tiré hors de sa rainure (sur la plupart des systèmes il est juste pressé, pas collé), et le neuf est repoussé en place. La clé est d’utiliser le joint correct pour votre système de profil — Salamander, par exemple, a un profil de joint spécifique, et un joint universel inadapté n’étanchera pas correctement.
+
+C’est pourquoi, bien que le changement en lui-même paraisse simple, il vaut la peine de le faire faire par quelqu’un qui a le bon joint pour votre profil et le pose sans l’étirer (si vous l’étirez à la pose, il se contracte et des vides apparaissent aux angles). Le coût est faible par rapport à l’économie de chaleur et au confort retrouvé.
+
+## Réglage ou joints neufs — comment décider
+
+La règle simple : essayez d’abord le réglage, passez aux joints si le réglage ne suffit pas. Si vous voulez comprendre dès le départ quelle est la cause réelle du courant ou du sifflement, partez du guide général [Pourquoi les fenêtres sifflent quand le vent souffle](/fr/blog/pourquoi-les-fenetres-sifflent-quand-le-vent-souffle-causes-solutions), qui vous montre toutes les causes possibles et comment les distinguer.
+
+## FAQ — Le remplacement des joints
+
+### Comment savoir si je dois remplacer les joints de ma fenêtre ?
+Le signe le plus clair : le joint est dur, sec ou fissuré au toucher, au lieu d’être souple et élastique. De plus, si vous ressentez un courant fenêtre fermée et que le sifflement ne disparaît pas même après avoir réglé la quincaillerie, le joint est la cause et doit être changé.
+
+### Combien de temps durent les joints d’une fenêtre PVC ?
+Sur les fenêtres de qualité, les joints durent généralement 8–12 ans. Sur les profils bon marché ou les fenêtres très exposées au soleil et aux intempéries, ils peuvent se dessécher plus vite. Ce n’est pas le vitrage ou le profil qui cède en premier, mais le joint — c’est pourquoi il est normal de le remplacer une ou deux fois durant la vie de la fenêtre.
+
+### Puis-je changer les joints moi-même ?
+Techniquement, le joint usé se tire et le neuf se pousse dans la rainure, sans outils spéciaux. La partie difficile est d’obtenir le joint correct pour votre profil (Salamander a un profil spécifique) et de le poser sans l’étirer, sinon il se contracte et laisse des vides aux angles. C’est pourquoi beaucoup préfèrent laisser cela à un spécialiste.
+
+### Combien coûte le remplacement des joints ?
+C’est l’une des interventions les moins chères sur une fenêtre, bien moins qu’une fenêtre neuve ou même qu’une réparation de quincaillerie. Le coût exact dépend du métrage de joint et du type de profil, mais rapporté à la chaleur économisée et au confort retrouvé, il s’amortit vite.
+
+### Vaut-il mieux changer les joints ou toute la fenêtre ?
+Si le profil et le vitrage sont en bon état et que seul le joint est usé, changer le joint est le choix évident — vous résolvez le problème pour une fraction du coût d’une fenêtre neuve. La fenêtre entière ne se justifie que si le profil est dégradé, le vitrage cassé ou le double vitrage embué entre les feuilles.
+
+---
+
+Neofort BIZ remplace les joints et entretient la menuiserie PVC Salamander et aluminium Alumil à Bucarest et Ilfov, avec des joints adaptés à chaque profil. Si vos fenêtres laissent passer l’air et que le réglage n’aide plus, [demandez une évaluation gratuite sur place](/fr/contact).`,
+      es: `¿Has ajustado la herrería, has hecho la prueba de la hoja de papel, pero la ventana sigue dejando pasar el aire y silba con el viento? Entonces, lo más probable es que el problema ya no se pueda ajustar — las juntas se han gastado y deben sustituirse. Las juntas son la pieza que se degrada más rápido en una ventana y, por suerte, también son las más baratas de cambiar. Esta guía te muestra cómo reconocer una junta gastada, cuáles son las señales claras de que debe sustituirse y qué implica el cambio.
+
+## Qué son realmente las juntas y por qué se gastan
+
+Las juntas son las tiras de goma o EPDM montadas en el contorno de la hoja y del marco. Su función es comprimir el espacio entre la parte móvil y la fija de la ventana al cerrarla, de modo que no pase aire, agua ni ruido. Una ventana suele tener 2 o 3 filas de juntas, en distintos niveles, para un mejor sellado.
+
+El problema es que la goma, por buena que sea, envejece. Bajo la acción del sol, el frío, el calor y la compresión repetida en cada apertura, el material pierde gradualmente su elasticidad. En las ventanas de PVC de calidad, las juntas duran normalmente 8–12 años; en las baratas, mucho menos. Cuando la goma ya no recupera su forma después de comprimirse, aparecen micro-rendijas por las que entra el aire.
+
+> La señal clave: una junta buena es blanda, flexible y elástica — la presionas con la uña y vuelve. Una junta gastada es dura, seca, a veces agrietada o aplastada definitivamente. La diferencia se nota de inmediato al tacto.
+
+## Señal 1: La junta está dura y agrietada al tacto
+
+La señal más clara. Abre la ventana y pasa el dedo por la junta de la hoja. Si es blanda y gomosa — está bien. Si es dura como el plástico, seca, con grietas finas o trozos faltantes, ha perdido su elasticidad. Una junta así ya no sella, por mucho que ajustes la herrería.
+
+## Señal 2: Sientes corriente fría con la ventana cerrada
+
+Con la ventana completamente cerrada, pasa la mano por el contorno interior. Si sientes aire frío entrando — sobre todo con viento — la junta ya no comprime correctamente. Puedes confirmar exactamente dónde con [la prueba de la hoja de papel](/es/blog/prueba-hoja-papel-encontrar-por-donde-entra-aire-ventana): si el papel sale fácilmente incluso después de haber ajustado la herrería al máximo, la junta es la causa.
+
+## Señal 3: Silbido que no desaparece con el ajuste
+
+Si ya has probado [el ajuste de la herrería Roto](/es/blog/ajustar-herreria-roto-invierno-verano-llave-allen) y el silbido persiste, es señal de que el problema ya no es la presión, sino la junta que ya no se puede comprimir lo suficiente. El ajuste aumenta el apriete, pero si el material está endurecido y aplastado, ya no se amolda a la superficie — y el aire pasa igualmente.
+
+## Señal 4: Condensación y humedad en el contorno de la ventana
+
+Una junta gastada deja entrar el aire frío exactamente en el borde de la ventana, donde se encuentra con el aire caliente de la habitación. Ahí aparece la condensación y, con el tiempo, el moho negro en el contorno del vidrio. Si ves condensación o manchas negras localizadas en el borde de la ventana (no en el centro del vidrio), una junta débil suele ser la causa.
+
+## Señal 5: Ruido de fuera más fuerte que antes
+
+Las juntas no solo detienen el aire, sino también el ruido. Si notas que, últimamente, oyes la calle más fuerte de lo que recordabas, es posible que las juntas se hayan gastado y ya no aíslen del ruido tan bien. Es una señal más sutil, pero real.
+
+## Qué implica la sustitución de las juntas
+
+La buena noticia: es una de las intervenciones más sencillas y baratas en una ventana. La junta vieja se saca de su canal (en la mayoría de los sistemas está solo presionada, no pegada), y la nueva se empuja en su sitio. La clave es usar la junta correcta para tu sistema de perfil — Salamander, por ejemplo, tiene un perfil de junta específico, y una junta universal inadecuada no sellará correctamente.
+
+Por eso, aunque el cambio en sí parezca sencillo, vale la pena que lo haga alguien que tenga la junta adecuada para tu perfil y la monte sin estirarla (si la estiras al montarla, se contrae y aparecen huecos en las esquinas). El coste es pequeño comparado con el ahorro de calor y el confort recuperado.
+
+## Ajuste o juntas nuevas — cómo decidir
+
+La regla sencilla: prueba primero el ajuste, pasa a las juntas si el ajuste no es suficiente. Si quieres entender desde el principio cuál es la causa real de la corriente o el silbido, parte de la guía general [Por qué silban las ventanas cuando sopla el viento](/es/blog/por-que-silban-las-ventanas-cuando-sopla-el-viento-causas-soluciones), que te muestra todas las causas posibles y cómo distinguirlas.
+
+## FAQ — La sustitución de las juntas
+
+### ¿Cómo sé si tengo que sustituir las juntas de la ventana?
+La señal más clara: la junta está dura, seca o agrietada al tacto, en lugar de ser blanda y elástica. Además, si sientes corriente con la ventana cerrada y el silbido no desaparece ni después de ajustar la herrería, la junta es la causa y debe cambiarse.
+
+### ¿Cuánto duran las juntas de una ventana de PVC?
+En las ventanas de calidad, las juntas duran normalmente 8–12 años. En los perfiles baratos o en las ventanas muy expuestas al sol y la intemperie, se pueden secar más rápido. No es el vidrio o el perfil lo que cede primero, sino la junta — por eso es normal sustituirla una o dos veces durante la vida de la ventana.
+
+### ¿Puedo cambiar las juntas yo mismo?
+Técnicamente, la junta vieja se saca y la nueva se empuja en el canal, sin herramientas especiales. La parte difícil es conseguir la junta correcta para tu perfil (Salamander tiene un perfil específico) y montarla sin estirarla, de lo contrario se contrae y deja huecos en las esquinas. Por eso muchos prefieren dejar esto a un especialista.
+
+### ¿Cuánto cuesta la sustitución de las juntas?
+Es una de las intervenciones más baratas en una ventana, mucho menos que una ventana nueva o incluso que una reparación de herrería. El coste exacto depende del metraje de junta y del tipo de perfil, pero en relación al calor ahorrado y al confort recuperado, se amortiza rápido.
+
+### ¿Merece la pena cambiar las juntas o toda la ventana?
+Si el perfil y el vidrio están en buen estado y solo la junta se ha gastado, cambiar la junta es la elección evidente — resuelves el problema por una fracción del coste de una ventana nueva. La ventana entera solo se justifica si el perfil está degradado, el vidrio roto o el doble acristalamiento empañado entre las láminas.
+
+---
+
+Neofort BIZ sustituye juntas y hace el mantenimiento de carpintería de PVC Salamander y aluminio Alumil en Bucarest e Ilfov, con juntas adecuadas para cada perfil. Si tus ventanas dejan pasar el aire y el ajuste ya no ayuda, [solicita una evaluación gratuita in situ](/es/contacto).`,
+      it: `Hai regolato la ferramenta, hai fatto il test del foglio di carta, ma la finestra lascia ancora passare l’aria e fischia con il vento? Allora, molto probabilmente, il problema non può più essere regolato — le guarnizioni si sono usurate e devono essere sostituite. Le guarnizioni sono la parte che si degrada più velocemente su una finestra e, per fortuna, sono anche le più economiche da cambiare. Questa guida ti mostra come riconoscere una guarnizione usurata, quali sono i segni chiari che va sostituita e cosa comporta la sostituzione.
+
+## Cosa sono davvero le guarnizioni e perché si usurano
+
+Le guarnizioni sono le strisce di gomma o EPDM montate sul contorno dell’anta e del telaio. Il loro ruolo è comprimere lo spazio tra la parte mobile e quella fissa della finestra alla chiusura, in modo che non passino aria, acqua o rumore. Una finestra ha di solito 2 o 3 file di guarnizioni, su livelli diversi, per una migliore tenuta.
+
+Il problema è che la gomma, per quanto buona, invecchia. Sotto l’azione del sole, del freddo, del caldo e della compressione ripetuta a ogni apertura, il materiale perde gradualmente la sua elasticità. Sulle finestre in PVC di qualità, le guarnizioni durano di solito 8–12 anni; su quelle economiche, molto meno. Quando la gomma non ritorna più alla sua forma dopo essere stata compressa, compaiono micro-fessure attraverso cui entra l’aria.
+
+> Il segno chiave: una guarnizione buona è morbida, flessibile ed elastica — la premi con l’unghia e ritorna. Una guarnizione usurata è dura, secca, a volte crepata o schiacciata definitivamente. La differenza si sente immediatamente al tatto.
+
+## Segno 1: La guarnizione è dura e crepata al tatto
+
+Il segno più chiaro. Apri la finestra e passa il dito sulla guarnizione dell’anta. Se è morbida e gommosa — è buona. Se è dura come la plastica, secca, con crepe fini o pezzi mancanti, ha perso la sua elasticità. Una guarnizione così non sigilla più, per quanto tu regoli la ferramenta.
+
+## Segno 2: Senti una corrente fredda con la finestra chiusa
+
+Con la finestra completamente chiusa, passa la mano sul contorno interno. Se senti aria fredda entrare — soprattutto con il vento — la guarnizione non comprime più correttamente. Puoi confermare esattamente dove con [il test del foglio di carta](/it/blog/test-foglio-carta-scoprire-dove-entra-aria-finestra): se la carta esce facilmente anche dopo aver regolato la ferramenta al massimo, la guarnizione è la causa.
+
+## Segno 3: Fischio che non scompare con la regolazione
+
+Se hai già provato [la regolazione della ferramenta Roto](/it/blog/regolare-ferramenta-roto-inverno-estate-chiave-brugola) e il fischio persiste, è segno che il problema non è più la pressione, ma la guarnizione che non può più essere compressa a sufficienza. La regolazione aumenta il serraggio, ma se il materiale è indurito e schiacciato, non si adatta più alla superficie — e l’aria passa comunque.
+
+## Segno 4: Condensa e umidità sul contorno della finestra
+
+Una guarnizione usurata lascia entrare l’aria fredda esattamente sul bordo della finestra, dove incontra l’aria calda della stanza. Lì compare la condensa e, con il tempo, la muffa nera sul contorno del vetro. Se vedi condensa o macchie nere localizzate sul bordo della finestra (non al centro del vetro), una guarnizione debole ne è spesso la causa.
+
+## Segno 5: Rumore esterno più forte di prima
+
+Le guarnizioni non fermano solo l’aria, ma anche il rumore. Se noti che, ultimamente, senti la strada più forte di quanto ricordavi, è possibile che le guarnizioni si siano usurate e non isolino più così bene dal rumore. È un segno più sottile, ma reale.
+
+## Cosa comporta la sostituzione delle guarnizioni
+
+La buona notizia: è uno degli interventi più semplici ed economici su una finestra. La guarnizione vecchia si tira fuori dal suo canale (nella maggior parte dei sistemi è solo pressata, non incollata), e la nuova si spinge al suo posto. La chiave è usare la guarnizione corretta per il tuo sistema di profilo — Salamander, per esempio, ha un profilo di guarnizione specifico, e una guarnizione universale inadatta non sigillerà correttamente.
+
+Per questo, anche se il cambio in sé sembra semplice, vale la pena farlo fare da qualcuno che ha la guarnizione giusta per il tuo profilo e la monta senza tenderla (se la tendi al montaggio, si contrae e compaiono vuoti agli angoli). Il costo è piccolo rispetto al risparmio di calore e al comfort riguadagnato.
+
+## Regolazione o guarnizioni nuove — come decidere
+
+La regola semplice: prova prima la regolazione, passa alle guarnizioni se la regolazione non basta. Se vuoi capire fin dall’inizio quale sia la causa reale della corrente o del fischio, parti dalla guida generale [Perché le finestre fischiano quando soffia il vento](/it/blog/perche-le-finestre-fischiano-quando-soffia-il-vento-cause-soluzioni), che ti mostra tutte le cause possibili e come distinguerle.
+
+## FAQ — La sostituzione delle guarnizioni
+
+### Come faccio a sapere se devo sostituire le guarnizioni della finestra?
+Il segno più chiaro: la guarnizione è dura, secca o crepata al tatto, invece di essere morbida ed elastica. Inoltre, se senti una corrente con la finestra chiusa e il fischio non scompare nemmeno dopo aver regolato la ferramenta, la guarnizione è la causa e va cambiata.
+
+### Quanto durano le guarnizioni di una finestra in PVC?
+Sulle finestre di qualità, le guarnizioni durano di solito 8–12 anni. Sui profili economici o sulle finestre molto esposte al sole e alle intemperie, possono seccarsi più velocemente. Non è il vetro o il profilo a cedere per primo, ma la guarnizione — per questo è normale sostituirla una o due volte durante la vita della finestra.
+
+### Posso cambiare le guarnizioni da solo?
+Tecnicamente, la guarnizione vecchia si tira fuori e la nuova si spinge nel canale, senza attrezzi speciali. La parte difficile è procurarsi la guarnizione corretta per il tuo profilo (Salamander ha un profilo specifico) e montarla senza tenderla, altrimenti si contrae e lascia vuoti agli angoli. Per questo molti preferiscono lasciare questo a uno specialista.
+
+### Quanto costa la sostituzione delle guarnizioni?
+È uno degli interventi più economici su una finestra, molto meno di una finestra nuova o persino di una riparazione della ferramenta. Il costo esatto dipende dal metraggio di guarnizione e dal tipo di profilo, ma rapportato al calore risparmiato e al comfort riguadagnato, si ammortizza in fretta.
+
+### Conviene cambiare le guarnizioni o tutta la finestra?
+Se il profilo e il vetro sono in buono stato e solo la guarnizione si è usurata, cambiare la guarnizione è la scelta ovvia — risolvi il problema a una frazione del costo di una finestra nuova. La finestra intera si giustifica solo se il profilo è degradato, il vetro rotto o il vetrocamera appannato tra le lastre.
+
+---
+
+Neofort BIZ sostituisce guarnizioni e fa la manutenzione di serramenti in PVC Salamander e alluminio Alumil a Bucarest e Ilfov, con guarnizioni adatte a ogni profilo. Se le tue finestre lasciano passare l’aria e la regolazione non aiuta più, [richiedi una valutazione gratuita in loco](/it/contatti).`
     },
   },
 ];
