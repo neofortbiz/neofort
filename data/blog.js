@@ -27621,6 +27621,434 @@ Dipende dallo schema: se è localizzato vicino alle cerniere o opposto alla mani
 Neofort BIZ verifica, regola e risigilla serramenti in PVC Salamander e alluminio Alumil a Bucarest e Ilfov. Se il test della carta ha rivelato perdite d’aria, [richiedi una valutazione gratuita in loco](/it/contatti).`
     },
   },
+  {
+    slugs: {ro:"cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus",en:"how-to-adjust-roto-hardware-winter-summer-allen-key",de:"roto-beschlag-winter-sommer-einstellen-inbusschluessel",fr:"regler-quincaillerie-roto-hiver-ete-cle-allen",es:"ajustar-herreria-roto-invierno-verano-llave-allen",it:"regolare-ferramenta-roto-inverno-estate-chiave-brugola"},
+    date: "2026-07-07",
+    author: "Mihai Dănălache",
+    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorPhoto: "/team/mihai-danalache.avif",
+    accentColor: "#1e4d8c",
+    image: {ro:"/blog/reglaj-feronerie-roto-iarna-vara.avif",en:"/blog/reglaj-feronerie-roto-iarna-vara.avif",de:"/blog/reglaj-feronerie-roto-iarna-vara.avif",fr:"/blog/reglaj-feronerie-roto-iarna-vara.avif",es:"/blog/reglaj-feronerie-roto-iarna-vara.avif",it:"/blog/reglaj-feronerie-roto-iarna-vara.avif"},
+    imageOg: "/blog/reglaj-feronerie-roto-iarna-vara-og.jpg",
+    imageBg: "linear-gradient(135deg,#0a1830 0%,#1e4d8c 60%,#0a1830 100%)",
+    imageLabel: "Mână care reglează excentricul feroneriei Roto de pe canatul unei ferestre PVC cu o cheie imbus, pentru modul iarnă",
+    readTime: {ro:"7 min citire",en:"7 min read",de:"7 Min.",fr:"7 min",es:"7 min",it:"7 min"},
+    category: {ro:"Ghid practic",en:"Practical Guide",de:"Praktischer Ratgeber",fr:"Guide pratique",es:"Guía práctica",it:"Guida pratica"},
+    title: {ro:"Cum reglezi feroneria Roto pe modul iarnă/vară cu cheia imbus",en:"How to adjust Roto hardware for winter/summer mode with an Allen key",de:"Roto-Beschlag mit dem Inbusschlüssel auf Winter-/Sommermodus einstellen",fr:"Comment régler la quincaillerie Roto en mode hiver/été avec une clé Allen",es:"Cómo ajustar la herrería Roto en modo invierno/verano con llave Allen",it:"Come regolare la ferramenta Roto in modalità inverno/estate con la chiave a brugola"},
+    metaDesc: {ro:"Cum reglezi singur feroneria Roto pe modul iarnă/vară cu o cheie imbus: identifici excentricii, citești marcajul, strângi pe garnitură și verifici. Ghid pas cu pas, corect tehnic, ca să nu dereglezi fereastra.",en:"How to adjust Roto hardware yourself for winter/summer mode with an Allen key: identify the cams, read the mark, tighten onto the gasket and check. A step-by-step, technically correct guide so you do not misadjust the window.",de:"Wie Sie den Roto-Beschlag selbst mit einem Inbusschlüssel auf Winter-/Sommermodus einstellen: Nocken finden, Markierung lesen, auf die Dichtung anziehen und prüfen. Eine technisch korrekte Schritt-für-Schritt-Anleitung.",fr:"Comment régler soi-même la quincaillerie Roto en mode hiver/été avec une clé Allen : identifier les galets, lire le repère, serrer sur le joint et vérifier. Un guide pas à pas techniquement correct.",es:"Cómo ajustar tú mismo la herrería Roto en modo invierno/verano con una llave Allen: identifica las levas, lee la marca, aprieta sobre la junta y comprueba. Una guía paso a paso técnicamente correcta.",it:"Come regolare da soli la ferramenta Roto in modalità inverno/estate con una chiave a brugola: identifica le camme, leggi il segno, stringi sulla guarnizione e verifica. Una guida passo passo tecnicamente corretta."},
+    excerpt: {ro:"Curent sau șuierat la fereastră? De multe ori se rezolvă cu un reglaj al feroneriei Roto, nu cu piese noi. Ghid pas cu pas: cum identifici excentricii, cum citești corect marcajul pentru modul iarnă/vară și cum verifici rezultatul.",en:"Draught or whistling at the window? Often it is solved with a Roto hardware adjustment, not new parts. A step-by-step guide: how to identify the cams, how to correctly read the mark for winter/summer mode and how to check the result.",de:"Zug oder Pfeifen am Fenster? Oft wird es mit einer Roto-Beschlagseinstellung gelöst, nicht mit neuen Teilen. Eine Schritt-für-Schritt-Anleitung: Nocken finden, Markierung richtig lesen und Ergebnis prüfen.",fr:"Courant ou sifflement à la fenêtre ? Souvent résolu par un réglage de la quincaillerie Roto, pas par des pièces neuves. Un guide pas à pas : identifier les galets, lire correctement le repère et vérifier le résultat.",es:"¿Corriente o silbido en la ventana? A menudo se resuelve con un ajuste de la herrería Roto, no con piezas nuevas. Una guía paso a paso: identificar las levas, leer correctamente la marca y comprobar el resultado.",it:"Corrente o fischio alla finestra? Spesso si risolve con una regolazione della ferramenta Roto, non con pezzi nuovi. Una guida passo passo: identificare le camme, leggere correttamente il segno e verificare il risultato."},
+    dateDisplay: {ro:"7 iulie 2026",en:"July 7 2026",de:"7. Juli 2026",fr:"7 juillet 2026",es:"7 jul 2026",it:"7 lug 2026"},
+    content: {
+      ro: `Dacă ai făcut testul cu coala de hârtie și ai descoperit că fereastra nu strânge suficient într-o zonă, sau simți curent și auzi șuierat la vânt, de multe ori soluția nu e o piesă nouă, ci un simplu reglaj al feroneriei. Majoritatea ferestrelor moderne au feronerie Roto — cea pe care o montăm și noi pe termopanele Salamander — și aceasta permite ajustarea presiunii de strângere cu o cheie imbus, în câteva minute. Acest ghid îți arată exact cum, cu precizările care contează ca să nu dereglezi în loc să reglezi.
+
+## Ce face reglajul, de fapt
+
+Pe muchia laterală a canatului (partea mobilă a ferestrei), acolo unde se închide peste toc, vei vedea niște piese metalice rotunde sau ovale numite excentrici — sunt bolțurile care intră în plăcuțele de pe toc când închizi fereastra. Aceste bolțuri sunt „excentrice", adică pot fi rotite pentru a apăsa canatul mai tare sau mai slab pe garnitură.
+
+Când strângi mai tare, garnitura este comprimată mai mult, etanșarea e mai bună și dispare curentul de aer și șuieratul — acesta este numit popular „modul iarnă". Când slăbești, garnitura se relaxează, aerisirea e puțin mai bună dar etanșarea mai slabă — „modul vară". Reglajul acesta e gândit să compenseze exact uzura garniturii în timp.
+
+> Important: reglajul modifică presiunea pe garnitură. Prea slab și intră aer; prea tare și forțezi inutil garnitura și feroneria, iar mânerul se va roti greu. Scopul este strângere fermă, dar nu maximă cu forța.
+
+## Ce îți trebuie
+
+O cheie imbus (cheie hexagonală), de obicei de 4 mm — aceeași cu care se reglează multe mobile. Unii excentrici Roto se rotesc în schimb cu o cheie „torx" sau direct cu mâna, în funcție de generație. Dacă bolțul are un locaș hexagonal în mijloc, e cheie imbus de 4 mm.
+
+## Pasul 1: Identifică excentricii
+
+Deschide fereastra și uită-te pe muchia laterală a canatului, pe toată înălțimea. Vei găsi mai mulți excentrici: de obicei 2–3 pe latura mânerului, plus câte unul lângă balamale și în partea de sus/jos. Fiecare are un mic marcaj — o liniuță, un punct sau o adâncitură — care îți arată în ce poziție e setat acum. Acest marcaj este cheia întregului reglaj.
+
+## Pasul 2: Înțelege marcajul (partea cea mai importantă)
+
+La feroneria Roto, poziția excentricului se citește după unde e orientat marcajul de pe el, NU după un sens fix de rotație:
+
+Când marcajul (punctul sau liniuța) este orientat spre INTERIORUL camerei, spre garnitură — presiunea este maximă. Aceasta este poziția de iarnă, cu etanșare maximă.
+
+Când marcajul este orientat spre EXTERIOR, spre stradă — presiunea este minimă. Aceasta este poziția de vară.
+
+Când marcajul e la mijloc (neutru) — presiune standard, poziția din fabrică.
+
+De aceea nu poți spune universal „rotește în sensul acelor de ceasornic": sensul în care trebuie să rotești depinde de unde e marcajul acum. Ceea ce contează este UNDE ajunge marcajul la final, nu în ce direcție îl învârți.
+
+## Pasul 3: Reglează pentru mai multă etanșare (modul iarnă)
+
+Pune cheia imbus în locașul excentricului. Rotește-l încet până când marcajul se orientează spre interior, spre garnitură. Vei simți o mică rezistență — e normal. Rotește puțin, cca un sfert de tură, nu forța până la capăt din prima.
+
+Fă acest lucru pe rând, la fiecare excentric, în special în zona unde testul cu hârtia a arătat că fereastra nu strânge. Reglează-i uniform — dacă strângi doar unul mult mai tare decât restul, canatul se va apăsa strâmb pe garnitură.
+
+## Pasul 4: Verifică rezultatul
+
+După fiecare reglaj, închide fereastra și testează. Două verificări simple:
+
+Mânerul trebuie să se rotească ferm, dar fără efort mare. Dacă abia îl poți mișca, ai strâns prea tare — slăbește puțin excentricii înapoi.
+
+Refă testul cu coala de hârtie în zona reglată. Dacă acum hârtia se prinde ferm și nu mai iese ușor, ai rezolvat scurgerea. Dacă tot iese ușor, mai strânge puțin — dar dacă nici la strângere maximă nu ține, garnitura e uzată și trebuie înlocuită, nu mai e o problemă de reglaj. Vezi [Când trebuie înlocuite garniturile ferestrei](/ro/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+
+## Când NU e suficient reglajul
+
+Reglajul feroneriei rezolvă scurgerile cauzate de o presiune prea mică. Dar dacă problema vine de la garnituri crăpate și întărite, sau de la un montaj neetanș în zid, reglajul nu ajută — sau ajută doar temporar. Pentru a înțelege care e de fapt cauza șuieratului tău, pornește de la ghidul general [De ce șuieră termopanele când bate vântul](/ro/blog/de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii), iar pentru a localiza exact zona problemă folosește [Testul cu coala de hârtie](/ro/blog/testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra).
+
+## FAQ — Reglajul feroneriei
+
+### Cum reglez feroneria Roto pe modul iarnă?
+Deschide fereastra, identifică excentricii de pe muchia canatului și rotește-i cu o cheie imbus (de obicei 4 mm) până când marcajul de pe fiecare este orientat spre interiorul camerei, spre garnitură. Aceasta este poziția de presiune maximă, care etanșează cel mai bine. Reglează toți excentricii uniform.
+
+### În ce sens rotesc excentricul pentru mai multă strângere?
+Nu există un sens universal — depinde de poziția de start. Regula corectă la Roto este după marcaj: rotește-l astfel încât punctul sau liniuța de pe excentric să ajungă orientat spre interior (spre garnitură) pentru presiune maximă, sau spre exterior pentru presiune minimă.
+
+### Ce cheie folosesc pentru reglajul feroneriei?
+De obicei o cheie imbus (hexagonală) de 4 mm. În funcție de generația feroneriei, unii excentrici se pot roti cu o cheie torx sau chiar cu mâna. Verifică ce tip de locaș are bolțul din mijloc înainte să forțezi.
+
+### Cât de des ar trebui să reglez feroneria?
+De regulă, o dată pe an poți trece pe modul iarnă toamna și înapoi pe vară primăvara, ca să menajezi garnitura. Dacă simți curent sau auzi șuierat, e semn că ai nevoie de un reglaj indiferent de sezon — sau, dacă reglajul nu mai ajută, de garnituri noi.
+
+### Pot strica fereastra dacă reglez greșit?
+Nu poți strica fereastra dintr-un reglaj, dar poți înrăutăți temporar situația: prea strâns și mânerul se rotește greu și forțezi feroneria; prea slab și intră aer. De aceea se reglează în pași mici, câte un sfert de tură, și se verifică după fiecare. Dacă ai dubii, un tehnician face reglajul complet în câteva minute.
+
+---
+
+Neofort BIZ reglează și service-uiește feronerie Roto pe tâmplărie PVC Salamander și aluminiu Alumil în București și Ilfov. Dacă reglajul singur nu rezolvă curentul sau șuieratul, [solicită o evaluare gratuită la fața locului](/ro/contact).`,
+      en: `If you did the paper sheet test and discovered that the window does not clamp enough in one area, or you feel a draught and hear whistling in the wind, the solution is often not a new part, but a simple hardware adjustment. Most modern windows have Roto hardware — the one we also fit on Salamander windows — and it allows adjusting the clamping pressure with an Allen key, in a few minutes. This guide shows you exactly how, with the details that matter so you adjust rather than misadjust.
+
+## What the adjustment actually does
+
+On the side edge of the sash (the moving part of the window), where it closes over the frame, you will see some round or oval metal parts called cams — they are the bolts that go into the plates on the frame when you close the window. These bolts are "eccentric", meaning they can be rotated to press the sash harder or softer onto the gasket.
+
+When you tighten more, the gasket is compressed more, the seal is better and the draught and whistling disappear — this is popularly called "winter mode". When you loosen, the gasket relaxes, ventilation is slightly better but sealing weaker — "summer mode". This adjustment is designed to compensate precisely for gasket wear over time.
+
+> Important: the adjustment changes the pressure on the gasket. Too loose and air enters; too tight and you needlessly strain the gasket and hardware, and the handle will turn hard. The goal is a firm clamp, but not maximum by force.
+
+## What you need
+
+An Allen key (hex key), usually 4 mm — the same one used for much furniture. Some Roto cams are instead rotated with a "torx" key or directly by hand, depending on the generation. If the bolt has a hexagonal socket in the middle, it is a 4 mm Allen key.
+
+## Step 1: Identify the cams
+
+Open the window and look at the side edge of the sash, along its whole height. You will find several cams: usually 2–3 on the handle side, plus one near the hinges and at the top/bottom. Each has a small mark — a line, a dot or a notch — that shows you which position it is set to now. This mark is the key to the whole adjustment.
+
+## Step 2: Understand the mark (the most important part)
+
+On Roto hardware, the position of the cam is read by where the mark on it points, NOT by a fixed direction of rotation:
+
+When the mark (the dot or line) points towards the INSIDE of the room, towards the gasket — the pressure is maximum. This is the winter position, with maximum sealing.
+
+When the mark points towards the OUTSIDE, towards the street — the pressure is minimum. This is the summer position.
+
+When the mark is in the middle (neutral) — standard pressure, the factory position.
+
+That is why you cannot universally say "turn clockwise": the direction you need to turn depends on where the mark is now. What matters is WHERE the mark ends up in the end, not which direction you turn it.
+
+## Step 3: Adjust for more sealing (winter mode)
+
+Put the Allen key into the cam's socket. Rotate it slowly until the mark points towards the inside, towards the gasket. You will feel slight resistance — that is normal. Turn a little, about a quarter turn, do not force it all the way at once.
+
+Do this one by one, at each cam, especially in the area where the paper test showed the window is not clamping. Adjust them evenly — if you tighten just one much more than the rest, the sash will press crookedly on the gasket.
+
+## Step 4: Check the result
+
+After each adjustment, close the window and test. Two simple checks:
+
+The handle must turn firmly, but without great effort. If you can barely move it, you have tightened too much — loosen the cams back a little.
+
+Redo the paper sheet test in the adjusted area. If the paper now grips firmly and no longer comes out easily, you have solved the leak. If it still comes out easily, tighten a little more — but if it does not hold even at maximum tightness, the gasket is worn and must be replaced, it is no longer an adjustment issue. See [When window gaskets need replacing](/en/blog/when-window-gaskets-need-replacing-signs).
+
+## When adjustment is NOT enough
+
+Hardware adjustment solves leaks caused by pressure that is too low. But if the problem comes from cracked and hardened gaskets, or from a non-airtight installation in the wall, adjustment does not help — or helps only temporarily. To understand what the actual cause of your whistling is, start from the general guide [Why windows whistle when the wind blows](/en/blog/why-do-windows-whistle-when-the-wind-blows-causes-solutions), and to locate the exact problem area use [The paper sheet test](/en/blog/paper-sheet-test-find-where-air-enters-window).
+
+## FAQ — Hardware adjustment
+
+### How do I adjust Roto hardware to winter mode?
+Open the window, identify the cams on the sash edge and rotate them with an Allen key (usually 4 mm) until the mark on each points towards the inside of the room, towards the gasket. This is the maximum-pressure position, which seals best. Adjust all cams evenly.
+
+### Which direction do I turn the cam for more clamping?
+There is no universal direction — it depends on the starting position. The correct rule on Roto is by the mark: rotate it so that the dot or line on the cam ends up pointing towards the inside (towards the gasket) for maximum pressure, or towards the outside for minimum pressure.
+
+### Which key do I use for hardware adjustment?
+Usually a 4 mm Allen key (hex). Depending on the hardware generation, some cams can be turned with a torx key or even by hand. Check what type of socket the bolt in the middle has before forcing it.
+
+### How often should I adjust the hardware?
+As a rule, once a year you can switch to winter mode in autumn and back to summer in spring, to spare the gasket. If you feel a draught or hear whistling, it is a sign you need an adjustment regardless of season — or, if adjustment no longer helps, new gaskets.
+
+### Can I damage the window if I adjust it wrong?
+You cannot damage the window from an adjustment, but you can temporarily worsen things: too tight and the handle turns hard and you strain the hardware; too loose and air enters. That is why you adjust in small steps, a quarter turn at a time, and check after each. If in doubt, a technician does the full adjustment in a few minutes.
+
+---
+
+Neofort BIZ adjusts and services Roto hardware on Salamander PVC and Alumil aluminium joinery in Bucharest and Ilfov. If adjustment alone does not solve the draught or whistling, [request a free on-site assessment](/en/contact).`,
+      de: `Wenn Sie den Papiertest gemacht und festgestellt haben, dass das Fenster in einem Bereich nicht ausreichend klemmt, oder Sie einen Zug spüren und bei Wind ein Pfeifen hören, ist die Lösung oft kein neues Teil, sondern eine einfache Beschlagseinstellung. Die meisten modernen Fenster haben Roto-Beschläge — die wir auch an Salamander-Fenstern montieren — und dieser ermöglicht es, den Anpressdruck mit einem Inbusschlüssel in wenigen Minuten zu justieren. Diese Anleitung zeigt Ihnen genau wie, mit den Details, die wichtig sind, damit Sie einstellen statt verstellen.
+
+## Was die Einstellung tatsächlich bewirkt
+
+An der seitlichen Kante des Flügels (dem beweglichen Teil des Fensters), dort wo er über den Rahmen schließt, sehen Sie runde oder ovale Metallteile, sogenannte Nocken — es sind die Zapfen, die beim Schließen in die Platten am Rahmen eingreifen. Diese Zapfen sind „exzentrisch", das heißt, sie können gedreht werden, um den Flügel stärker oder schwächer auf die Dichtung zu pressen.
+
+Wenn Sie stärker anziehen, wird die Dichtung mehr komprimiert, die Abdichtung ist besser und Zug und Pfeifen verschwinden — das wird umgangssprachlich „Wintermodus" genannt. Wenn Sie lockern, entspannt sich die Dichtung, die Belüftung ist etwas besser, aber die Abdichtung schwächer — „Sommermodus". Diese Einstellung ist dafür gedacht, genau den Verschleiß der Dichtung im Laufe der Zeit auszugleichen.
+
+> Wichtig: Die Einstellung ändert den Druck auf die Dichtung. Zu locker und Luft dringt ein; zu fest und Sie belasten Dichtung und Beschlag unnötig, und der Griff dreht sich schwer. Das Ziel ist ein fester Anpressdruck, aber nicht maximal mit Kraft.
+
+## Was Sie brauchen
+
+Einen Inbusschlüssel (Sechskantschlüssel), meist 4 mm — derselbe, der für viele Möbel verwendet wird. Manche Roto-Nocken werden stattdessen mit einem „Torx"-Schlüssel oder direkt von Hand gedreht, je nach Generation. Wenn der Zapfen in der Mitte eine Sechskantaufnahme hat, ist es ein 4-mm-Inbusschlüssel.
+
+## Schritt 1: Identifizieren Sie die Nocken
+
+Öffnen Sie das Fenster und schauen Sie auf die seitliche Flügelkante über die gesamte Höhe. Sie finden mehrere Nocken: meist 2–3 auf der Griffseite, plus je eine in der Nähe der Bänder und oben/unten. Jede hat eine kleine Markierung — eine Linie, einen Punkt oder eine Kerbe — die Ihnen zeigt, auf welche Position sie jetzt eingestellt ist. Diese Markierung ist der Schlüssel zur gesamten Einstellung.
+
+## Schritt 2: Verstehen Sie die Markierung (der wichtigste Teil)
+
+Beim Roto-Beschlag wird die Position der Nocke daran abgelesen, wohin die Markierung darauf zeigt, NICHT an einer festen Drehrichtung:
+
+Wenn die Markierung (der Punkt oder die Linie) zum INNEREN des Raums zeigt, zur Dichtung — ist der Druck maximal. Dies ist die Winterposition mit maximaler Abdichtung.
+
+Wenn die Markierung nach AUSSEN zeigt, zur Straße — ist der Druck minimal. Dies ist die Sommerposition.
+
+Wenn die Markierung in der Mitte ist (neutral) — Standarddruck, die Werksposition.
+
+Deshalb kann man nicht universell sagen „im Uhrzeigersinn drehen": die Richtung, in die Sie drehen müssen, hängt davon ab, wo die Markierung jetzt ist. Wichtig ist, WO die Markierung am Ende landet, nicht in welche Richtung Sie sie drehen.
+
+## Schritt 3: Einstellen für mehr Abdichtung (Wintermodus)
+
+Setzen Sie den Inbusschlüssel in die Aufnahme der Nocke. Drehen Sie sie langsam, bis die Markierung nach innen zeigt, zur Dichtung. Sie werden einen leichten Widerstand spüren — das ist normal. Drehen Sie ein wenig, etwa eine Vierteldrehung, forcieren Sie nicht gleich bis zum Anschlag.
+
+Tun Sie dies nacheinander an jeder Nocke, besonders in dem Bereich, wo der Papiertest gezeigt hat, dass das Fenster nicht klemmt. Stellen Sie sie gleichmäßig ein — wenn Sie nur eine viel stärker anziehen als die anderen, presst der Flügel schief auf die Dichtung.
+
+## Schritt 4: Prüfen Sie das Ergebnis
+
+Schließen Sie nach jeder Einstellung das Fenster und testen Sie. Zwei einfache Prüfungen:
+
+Der Griff muss sich fest drehen, aber ohne großen Kraftaufwand. Wenn Sie ihn kaum bewegen können, haben Sie zu fest angezogen — lockern Sie die Nocken etwas zurück.
+
+Wiederholen Sie den Papiertest im eingestellten Bereich. Wenn das Papier jetzt fest greift und nicht mehr leicht herauskommt, haben Sie das Leck behoben. Wenn es immer noch leicht herauskommt, ziehen Sie etwas mehr an — aber wenn es auch bei maximaler Festigkeit nicht hält, ist die Dichtung verschlissen und muss ersetzt werden, es ist kein Einstellungsproblem mehr. Siehe [Wann Fensterdichtungen ersetzt werden müssen](/de/blog/wann-fensterdichtungen-ersetzt-werden-muessen-anzeichen).
+
+## Wann die Einstellung NICHT ausreicht
+
+Die Beschlagseinstellung behebt Lecks, die durch zu niedrigen Druck verursacht werden. Aber wenn das Problem von rissigen und verhärteten Dichtungen oder von einer undichten Montage in der Wand kommt, hilft die Einstellung nicht — oder hilft nur vorübergehend. Um zu verstehen, was die tatsächliche Ursache Ihres Pfeifens ist, beginnen Sie mit dem allgemeinen Ratgeber [Warum Fenster bei Wind pfeifen](/de/blog/warum-pfeifen-fenster-bei-wind-ursachen-loesungen), und um den genauen Problembereich zu lokalisieren, verwenden Sie [Den Papiertest](/de/blog/papiertest-herausfinden-wo-luft-am-fenster-eindringt).
+
+## FAQ — Die Beschlagseinstellung
+
+### Wie stelle ich den Roto-Beschlag auf Wintermodus ein?
+Öffnen Sie das Fenster, identifizieren Sie die Nocken an der Flügelkante und drehen Sie sie mit einem Inbusschlüssel (meist 4 mm), bis die Markierung auf jeder zum Inneren des Raums zeigt, zur Dichtung. Dies ist die Position maximalen Drucks, die am besten abdichtet. Stellen Sie alle Nocken gleichmäßig ein.
+
+### In welche Richtung drehe ich die Nocke für mehr Anpressdruck?
+Es gibt keine universelle Richtung — es hängt von der Ausgangsposition ab. Die richtige Regel bei Roto ist nach der Markierung: drehen Sie sie so, dass der Punkt oder die Linie auf der Nocke am Ende zum Inneren (zur Dichtung) zeigt für maximalen Druck, oder nach außen für minimalen Druck.
+
+### Welchen Schlüssel verwende ich für die Beschlagseinstellung?
+Meist einen 4-mm-Inbusschlüssel (Sechskant). Je nach Beschlagsgeneration können manche Nocken mit einem Torx-Schlüssel oder sogar von Hand gedreht werden. Prüfen Sie, welche Art von Aufnahme der Zapfen in der Mitte hat, bevor Sie forcieren.
+
+### Wie oft sollte ich den Beschlag einstellen?
+In der Regel können Sie einmal im Jahr im Herbst auf Wintermodus und im Frühjahr zurück auf Sommer umstellen, um die Dichtung zu schonen. Wenn Sie einen Zug spüren oder ein Pfeifen hören, ist das ein Zeichen, dass Sie unabhängig von der Jahreszeit eine Einstellung brauchen — oder, wenn die Einstellung nicht mehr hilft, neue Dichtungen.
+
+### Kann ich das Fenster beschädigen, wenn ich falsch einstelle?
+Sie können das Fenster durch eine Einstellung nicht beschädigen, aber Sie können die Situation vorübergehend verschlechtern: zu fest und der Griff dreht sich schwer und Sie belasten den Beschlag; zu locker und Luft dringt ein. Deshalb stellt man in kleinen Schritten ein, jeweils eine Vierteldrehung, und prüft nach jedem. Im Zweifelsfall macht ein Techniker die komplette Einstellung in wenigen Minuten.
+
+---
+
+Neofort BIZ stellt Roto-Beschläge an Salamander-PVC- und Alumil-Aluminiumfenstern in Bukarest und Ilfov ein und wartet sie. Wenn die Einstellung allein den Zug oder das Pfeifen nicht behebt, [fordern Sie eine kostenlose Vor-Ort-Bewertung an](/de/kontakt).`,
+      fr: `Si vous avez fait le test de la feuille de papier et découvert que la fenêtre ne serre pas assez dans une zone, ou si vous ressentez un courant d’air et entendez un sifflement au vent, la solution n’est souvent pas une pièce neuve, mais un simple réglage de la quincaillerie. La plupart des fenêtres modernes ont une quincaillerie Roto — celle que nous posons aussi sur les fenêtres Salamander — et elle permet d’ajuster la pression de serrage avec une clé Allen, en quelques minutes. Ce guide vous montre exactement comment, avec les détails qui comptent pour régler et non dérégler.
+
+## Ce que fait réellement le réglage
+
+Sur le chant latéral de l’ouvrant (la partie mobile de la fenêtre), là où il ferme sur le dormant, vous verrez des pièces métalliques rondes ou ovales appelées galets — ce sont les tétons qui entrent dans les gâches du dormant à la fermeture. Ces tétons sont « excentriques », c’est-à-dire qu’ils peuvent être tournés pour presser l’ouvrant plus ou moins fort sur le joint.
+
+Quand vous serrez davantage, le joint est plus comprimé, l’étanchéité est meilleure et le courant d’air et le sifflement disparaissent — c’est ce qu’on appelle populairement le « mode hiver ». Quand vous desserrez, le joint se détend, l’aération est un peu meilleure mais l’étanchéité plus faible — « mode été ». Ce réglage est conçu pour compenser précisément l’usure du joint avec le temps.
+
+> Important : le réglage modifie la pression sur le joint. Trop lâche et l’air entre ; trop serré et vous sollicitez inutilement le joint et la quincaillerie, et la poignée tournera difficilement. L’objectif est un serrage ferme, mais pas maximal par la force.
+
+## Ce qu’il vous faut
+
+Une clé Allen (clé hexagonale), généralement de 4 mm — la même que pour beaucoup de meubles. Certains galets Roto se tournent plutôt avec une clé « torx » ou directement à la main, selon la génération. Si le téton a un logement hexagonal au milieu, c’est une clé Allen de 4 mm.
+
+## Étape 1 : Identifiez les galets
+
+Ouvrez la fenêtre et regardez le chant latéral de l’ouvrant sur toute sa hauteur. Vous trouverez plusieurs galets : généralement 2–3 côté poignée, plus un près des paumelles et en haut/bas. Chacun a un petit repère — un trait, un point ou une encoche — qui vous indique sur quelle position il est réglé actuellement. Ce repère est la clé de tout le réglage.
+
+## Étape 2 : Comprenez le repère (la partie la plus importante)
+
+Sur la quincaillerie Roto, la position du galet se lit selon l’endroit où pointe le repère, PAS selon un sens de rotation fixe :
+
+Quand le repère (le point ou le trait) pointe vers l’INTÉRIEUR de la pièce, vers le joint — la pression est maximale. C’est la position hiver, avec étanchéité maximale.
+
+Quand le repère pointe vers l’EXTÉRIEUR, vers la rue — la pression est minimale. C’est la position été.
+
+Quand le repère est au milieu (neutre) — pression standard, la position d’usine.
+
+C’est pourquoi on ne peut pas dire universellement « tourner dans le sens des aiguilles d’une montre » : le sens dans lequel vous devez tourner dépend de l’endroit où se trouve le repère actuellement. Ce qui compte, c’est OÙ le repère aboutit à la fin, pas dans quel sens vous le tournez.
+
+## Étape 3 : Réglez pour plus d’étanchéité (mode hiver)
+
+Placez la clé Allen dans le logement du galet. Tournez-le lentement jusqu’à ce que le repère pointe vers l’intérieur, vers le joint. Vous sentirez une légère résistance — c’est normal. Tournez un peu, environ un quart de tour, ne forcez pas jusqu’au bout d’emblée.
+
+Faites-le un par un, à chaque galet, surtout dans la zone où le test du papier a montré que la fenêtre ne serre pas. Réglez-les uniformément — si vous en serrez un seul bien plus que les autres, l’ouvrant pressera de travers sur le joint.
+
+## Étape 4 : Vérifiez le résultat
+
+Après chaque réglage, fermez la fenêtre et testez. Deux vérifications simples :
+
+La poignée doit tourner fermement, mais sans grand effort. Si vous pouvez à peine la bouger, vous avez trop serré — desserrez un peu les galets.
+
+Refaites le test de la feuille de papier dans la zone réglée. Si le papier tient maintenant fermement et ne sort plus facilement, vous avez résolu la fuite. S’il sort encore facilement, serrez un peu plus — mais s’il ne tient pas même au serrage maximal, le joint est usé et doit être remplacé, ce n’est plus un problème de réglage. Voir [Quand remplacer les joints de fenêtre](/fr/blog/quand-remplacer-joints-fenetre-signes).
+
+## Quand le réglage NE suffit PAS
+
+Le réglage de la quincaillerie résout les fuites causées par une pression trop faible. Mais si le problème vient de joints fissurés et durcis, ou d’une pose non étanche dans le mur, le réglage n’aide pas — ou aide seulement temporairement. Pour comprendre quelle est la cause réelle de votre sifflement, partez du guide général [Pourquoi les fenêtres sifflent quand le vent souffle](/fr/blog/pourquoi-les-fenetres-sifflent-quand-le-vent-souffle-causes-solutions), et pour localiser la zone problématique exacte, utilisez [Le test de la feuille de papier](/fr/blog/test-feuille-papier-trouver-ou-entre-air-fenetre).
+
+## FAQ — Le réglage de la quincaillerie
+
+### Comment régler la quincaillerie Roto en mode hiver ?
+Ouvrez la fenêtre, identifiez les galets sur le chant de l’ouvrant et tournez-les avec une clé Allen (généralement 4 mm) jusqu’à ce que le repère de chacun pointe vers l’intérieur de la pièce, vers le joint. C’est la position de pression maximale, qui étanche le mieux. Réglez tous les galets uniformément.
+
+### Dans quel sens je tourne le galet pour plus de serrage ?
+Il n’y a pas de sens universel — cela dépend de la position de départ. La bonne règle sur Roto est selon le repère : tournez-le de sorte que le point ou le trait sur le galet aboutisse vers l’intérieur (vers le joint) pour une pression maximale, ou vers l’extérieur pour une pression minimale.
+
+### Quelle clé j’utilise pour le réglage de la quincaillerie ?
+Généralement une clé Allen (hexagonale) de 4 mm. Selon la génération de la quincaillerie, certains galets peuvent se tourner avec une clé torx ou même à la main. Vérifiez quel type de logement a le téton au milieu avant de forcer.
+
+### À quelle fréquence devrais-je régler la quincaillerie ?
+En règle générale, une fois par an vous pouvez passer en mode hiver en automne et revenir en été au printemps, pour ménager le joint. Si vous ressentez un courant ou entendez un sifflement, c’est le signe que vous avez besoin d’un réglage quelle que soit la saison — ou, si le réglage n’aide plus, de joints neufs.
+
+### Puis-je abîmer la fenêtre si je règle mal ?
+Vous ne pouvez pas abîmer la fenêtre par un réglage, mais vous pouvez temporairement aggraver la situation : trop serré et la poignée tourne difficilement et vous sollicitez la quincaillerie ; trop lâche et l’air entre. C’est pourquoi on règle par petits pas, un quart de tour à la fois, et on vérifie après chaque. En cas de doute, un technicien fait le réglage complet en quelques minutes.
+
+---
+
+Neofort BIZ règle et entretient la quincaillerie Roto sur la menuiserie PVC Salamander et aluminium Alumil à Bucarest et Ilfov. Si le réglage seul ne résout pas le courant d’air ou le sifflement, [demandez une évaluation gratuite sur place](/fr/contact).`,
+      es: `Si has hecho la prueba de la hoja de papel y has descubierto que la ventana no aprieta lo suficiente en una zona, o sientes corriente y oyes silbido con el viento, la solución a menudo no es una pieza nueva, sino un simple ajuste de la herrería. La mayoría de las ventanas modernas tienen herrería Roto — la que también montamos en las ventanas Salamander — y esta permite ajustar la presión de apriete con una llave Allen, en unos minutos. Esta guía te muestra exactamente cómo, con los detalles que importan para ajustar y no desajustar.
+
+## Qué hace realmente el ajuste
+
+En el canto lateral de la hoja (la parte móvil de la ventana), donde cierra sobre el marco, verás unas piezas metálicas redondas u ovaladas llamadas levas — son los bulones que entran en las placas del marco al cerrar la ventana. Estos bulones son «excéntricos», es decir, se pueden girar para presionar la hoja más fuerte o más flojo sobre la junta.
+
+Cuando aprietas más, la junta se comprime más, el sellado es mejor y desaparecen la corriente de aire y el silbido — esto se llama popularmente «modo invierno». Cuando aflojas, la junta se relaja, la ventilación es algo mejor pero el sellado más débil — «modo verano». Este ajuste está pensado para compensar precisamente el desgaste de la junta con el tiempo.
+
+> Importante: el ajuste cambia la presión sobre la junta. Demasiado flojo y entra aire; demasiado apretado y fuerzas innecesariamente la junta y la herrería, y la manilla girará con dificultad. El objetivo es un apriete firme, pero no máximo por la fuerza.
+
+## Qué necesitas
+
+Una llave Allen (llave hexagonal), normalmente de 4 mm — la misma que se usa para muchos muebles. Algunas levas Roto se giran en cambio con una llave «torx» o directamente con la mano, según la generación. Si el bulón tiene un alojamiento hexagonal en el centro, es una llave Allen de 4 mm.
+
+## Paso 1: Identifica las levas
+
+Abre la ventana y mira el canto lateral de la hoja en toda su altura. Encontrarás varias levas: normalmente 2–3 en el lado de la manilla, más una cerca de las bisagras y arriba/abajo. Cada una tiene una pequeña marca — una línea, un punto o una muesca — que te indica en qué posición está ajustada ahora. Esta marca es la clave de todo el ajuste.
+
+## Paso 2: Entiende la marca (la parte más importante)
+
+En la herrería Roto, la posición de la leva se lee según hacia dónde apunta la marca en ella, NO según un sentido de giro fijo:
+
+Cuando la marca (el punto o la línea) apunta hacia el INTERIOR de la habitación, hacia la junta — la presión es máxima. Esta es la posición de invierno, con sellado máximo.
+
+Cuando la marca apunta hacia el EXTERIOR, hacia la calle — la presión es mínima. Esta es la posición de verano.
+
+Cuando la marca está en el medio (neutra) — presión estándar, la posición de fábrica.
+
+Por eso no se puede decir universalmente «girar en el sentido de las agujas del reloj»: el sentido en el que debes girar depende de dónde esté la marca ahora. Lo que importa es DÓNDE acaba la marca al final, no en qué dirección la giras.
+
+## Paso 3: Ajusta para más sellado (modo invierno)
+
+Coloca la llave Allen en el alojamiento de la leva. Gírala despacio hasta que la marca apunte hacia el interior, hacia la junta. Sentirás una ligera resistencia — es normal. Gira un poco, aproximadamente un cuarto de vuelta, no fuerces hasta el tope de golpe.
+
+Haz esto una por una, en cada leva, especialmente en la zona donde la prueba del papel mostró que la ventana no aprieta. Ajústalas uniformemente — si aprietas solo una mucho más que las demás, la hoja presionará torcida sobre la junta.
+
+## Paso 4: Comprueba el resultado
+
+Después de cada ajuste, cierra la ventana y prueba. Dos comprobaciones sencillas:
+
+La manilla debe girar con firmeza, pero sin gran esfuerzo. Si apenas puedes moverla, has apretado demasiado — afloja un poco las levas hacia atrás.
+
+Repite la prueba de la hoja de papel en la zona ajustada. Si el papel ahora sujeta con firmeza y ya no sale fácilmente, has resuelto la fuga. Si aún sale fácilmente, aprieta un poco más — pero si no sujeta ni con el apriete máximo, la junta está gastada y debe sustituirse, ya no es un problema de ajuste. Consulta [Cuándo hay que sustituir las juntas de la ventana](/es/blog/cuando-sustituir-juntas-ventana-senales).
+
+## Cuándo NO es suficiente el ajuste
+
+El ajuste de la herrería resuelve las fugas causadas por una presión demasiado baja. Pero si el problema viene de juntas agrietadas y endurecidas, o de un montaje no estanco en la pared, el ajuste no ayuda — o ayuda solo temporalmente. Para entender cuál es la causa real de tu silbido, parte de la guía general [Por qué silban las ventanas cuando sopla el viento](/es/blog/por-que-silban-las-ventanas-cuando-sopla-el-viento-causas-soluciones), y para localizar la zona problemática exacta usa [La prueba de la hoja de papel](/es/blog/prueba-hoja-papel-encontrar-por-donde-entra-aire-ventana).
+
+## FAQ — El ajuste de la herrería
+
+### ¿Cómo ajusto la herrería Roto en modo invierno?
+Abre la ventana, identifica las levas del canto de la hoja y gíralas con una llave Allen (normalmente 4 mm) hasta que la marca de cada una apunte hacia el interior de la habitación, hacia la junta. Esta es la posición de presión máxima, que sella mejor. Ajusta todas las levas uniformemente.
+
+### ¿En qué sentido giro la leva para más apriete?
+No hay un sentido universal — depende de la posición de partida. La regla correcta en Roto es según la marca: gírala de modo que el punto o la línea de la leva acabe apuntando hacia el interior (hacia la junta) para presión máxima, o hacia el exterior para presión mínima.
+
+### ¿Qué llave uso para el ajuste de la herrería?
+Normalmente una llave Allen (hexagonal) de 4 mm. Según la generación de la herrería, algunas levas se pueden girar con una llave torx o incluso con la mano. Comprueba qué tipo de alojamiento tiene el bulón del centro antes de forzar.
+
+### ¿Con qué frecuencia debería ajustar la herrería?
+Por regla general, una vez al año puedes pasar a modo invierno en otoño y volver a verano en primavera, para cuidar la junta. Si sientes corriente u oyes silbido, es señal de que necesitas un ajuste independientemente de la estación — o, si el ajuste ya no ayuda, juntas nuevas.
+
+### ¿Puedo estropear la ventana si ajusto mal?
+No puedes estropear la ventana con un ajuste, pero puedes empeorar temporalmente la situación: demasiado apretado y la manilla gira con dificultad y fuerzas la herrería; demasiado flojo y entra aire. Por eso se ajusta en pasos pequeños, un cuarto de vuelta cada vez, y se comprueba después de cada uno. Si tienes dudas, un técnico hace el ajuste completo en unos minutos.
+
+---
+
+Neofort BIZ ajusta y hace el mantenimiento de la herrería Roto en carpintería de PVC Salamander y aluminio Alumil en Bucarest e Ilfov. Si el ajuste por sí solo no resuelve la corriente o el silbido, [solicita una evaluación gratuita in situ](/es/contacto).`,
+      it: `Se hai fatto il test del foglio di carta e hai scoperto che la finestra non stringe a sufficienza in una zona, o senti una corrente e senti un fischio con il vento, la soluzione spesso non è un pezzo nuovo, ma una semplice regolazione della ferramenta. La maggior parte delle finestre moderne ha ferramenta Roto — quella che montiamo anche sulle finestre Salamander — e questa permette di regolare la pressione di serraggio con una chiave a brugola, in pochi minuti. Questa guida ti mostra esattamente come, con i dettagli che contano per regolare e non sregolare.
+
+## Cosa fa davvero la regolazione
+
+Sul bordo laterale dell’anta (la parte mobile della finestra), dove chiude sul telaio, vedrai delle parti metalliche rotonde o ovali chiamate camme — sono i perni che entrano nelle piastre del telaio alla chiusura della finestra. Questi perni sono «eccentrici», cioè possono essere ruotati per premere l’anta più forte o più debole sulla guarnizione.
+
+Quando stringi di più, la guarnizione è più compressa, la tenuta è migliore e la corrente d’aria e il fischio scompaiono — questo è chiamato popolarmente «modalità inverno». Quando allenti, la guarnizione si rilassa, l’aerazione è un po’ migliore ma la tenuta più debole — «modalità estate». Questa regolazione è pensata per compensare precisamente l’usura della guarnizione nel tempo.
+
+> Importante: la regolazione cambia la pressione sulla guarnizione. Troppo lasca ed entra aria; troppo stretta e sforzi inutilmente la guarnizione e la ferramenta, e la maniglia girerà con difficoltà. L’obiettivo è un serraggio fermo, ma non massimo con la forza.
+
+## Cosa ti serve
+
+Una chiave a brugola (chiave esagonale), di solito da 4 mm — la stessa usata per molti mobili. Alcune camme Roto si girano invece con una chiave «torx» o direttamente a mano, a seconda della generazione. Se il perno ha una sede esagonale al centro, è una chiave a brugola da 4 mm.
+
+## Passo 1: Identifica le camme
+
+Apri la finestra e guarda il bordo laterale dell’anta su tutta la sua altezza. Troverai diverse camme: di solito 2–3 sul lato maniglia, più una vicino alle cerniere e in alto/basso. Ognuna ha un piccolo segno — una linea, un punto o una tacca — che ti indica su quale posizione è regolata ora. Questo segno è la chiave di tutta la regolazione.
+
+## Passo 2: Comprendi il segno (la parte più importante)
+
+Nella ferramenta Roto, la posizione della camma si legge in base a dove punta il segno su di essa, NON in base a un senso di rotazione fisso:
+
+Quando il segno (il punto o la linea) punta verso l’INTERNO della stanza, verso la guarnizione — la pressione è massima. Questa è la posizione invernale, con tenuta massima.
+
+Quando il segno punta verso l’ESTERNO, verso la strada — la pressione è minima. Questa è la posizione estiva.
+
+Quando il segno è al centro (neutro) — pressione standard, la posizione di fabbrica.
+
+Per questo non si può dire universalmente «girare in senso orario»: il senso in cui devi girare dipende da dove si trova il segno ora. Ciò che conta è DOVE finisce il segno alla fine, non in che direzione lo giri.
+
+## Passo 3: Regola per più tenuta (modalità inverno)
+
+Metti la chiave a brugola nella sede della camma. Ruotala lentamente finché il segno punta verso l’interno, verso la guarnizione. Sentirai una leggera resistenza — è normale. Gira un po’, circa un quarto di giro, non forzare fino in fondo subito.
+
+Fai questo una alla volta, a ogni camma, specialmente nella zona dove il test della carta ha mostrato che la finestra non stringe. Regolale uniformemente — se stringi solo una molto più delle altre, l’anta premerà storta sulla guarnizione.
+
+## Passo 4: Verifica il risultato
+
+Dopo ogni regolazione, chiudi la finestra e prova. Due verifiche semplici:
+
+La maniglia deve girare con fermezza, ma senza grande sforzo. Se riesci a malapena a muoverla, hai stretto troppo — allenta un po’ le camme indietro.
+
+Ripeti il test del foglio di carta nella zona regolata. Se la carta ora tiene con fermezza e non esce più facilmente, hai risolto la perdita. Se esce ancora facilmente, stringi un po’ di più — ma se non tiene nemmeno al serraggio massimo, la guarnizione è usurata e va sostituita, non è più un problema di regolazione. Vedi [Quando sostituire le guarnizioni della finestra](/it/blog/quando-sostituire-guarnizioni-finestra-segni).
+
+## Quando la regolazione NON è sufficiente
+
+La regolazione della ferramenta risolve le perdite causate da una pressione troppo bassa. Ma se il problema viene da guarnizioni crepate e indurite, o da un montaggio non ermetico nel muro, la regolazione non aiuta — o aiuta solo temporaneamente. Per capire quale sia la causa reale del tuo fischio, parti dalla guida generale [Perché le finestre fischiano quando soffia il vento](/it/blog/perche-le-finestre-fischiano-quando-soffia-il-vento-cause-soluzioni), e per localizzare la zona problematica esatta usa [Il test del foglio di carta](/it/blog/test-foglio-carta-scoprire-dove-entra-aria-finestra).
+
+## FAQ — La regolazione della ferramenta
+
+### Come regolo la ferramenta Roto in modalità inverno?
+Apri la finestra, identifica le camme sul bordo dell’anta e ruotale con una chiave a brugola (di solito 4 mm) finché il segno di ognuna punta verso l’interno della stanza, verso la guarnizione. Questa è la posizione di pressione massima, che sigilla meglio. Regola tutte le camme uniformemente.
+
+### In che senso giro la camma per più serraggio?
+Non c’è un senso universale — dipende dalla posizione di partenza. La regola corretta su Roto è in base al segno: ruotala in modo che il punto o la linea sulla camma finisca puntando verso l’interno (verso la guarnizione) per pressione massima, o verso l’esterno per pressione minima.
+
+### Quale chiave uso per la regolazione della ferramenta?
+Di solito una chiave a brugola (esagonale) da 4 mm. A seconda della generazione della ferramenta, alcune camme si possono girare con una chiave torx o persino a mano. Verifica che tipo di sede ha il perno al centro prima di forzare.
+
+### Ogni quanto dovrei regolare la ferramenta?
+Di norma, una volta all’anno puoi passare in modalità inverno in autunno e tornare a estate in primavera, per risparmiare la guarnizione. Se senti una corrente o senti un fischio, è segno che hai bisogno di una regolazione indipendentemente dalla stagione — o, se la regolazione non aiuta più, di guarnizioni nuove.
+
+### Posso rovinare la finestra se regolo male?
+Non puoi rovinare la finestra con una regolazione, ma puoi temporaneamente peggiorare la situazione: troppo stretta e la maniglia gira con difficoltà e sforzi la ferramenta; troppo lasca ed entra aria. Per questo si regola a piccoli passi, un quarto di giro alla volta, e si verifica dopo ognuno. In caso di dubbio, un tecnico fa la regolazione completa in pochi minuti.
+
+---
+
+Neofort BIZ regola e fa la manutenzione della ferramenta Roto su serramenti in PVC Salamander e alluminio Alumil a Bucarest e Ilfov. Se la regolazione da sola non risolve la corrente o il fischio, [richiedi una valutazione gratuita in loco](/it/contatti).`
+    },
+  },
 ];
 
 
