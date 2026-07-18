@@ -150,18 +150,18 @@ export async function generateMetadata({ params }) {
   const t = await getTranslations({ locale, namespace: 'pvc' });
   const slug = SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro;
   return {
-    title: locale === 'ro' ? 'Tâmplărie PVC Salamander București — BluEvolution 92, GreenEvolution 76, Montaj nZEB | Neofort BIZ'
-           : locale === 'en' ? 'Salamander PVC Windows Bucharest — BluEvolution 92, GreenEvolution 76, nZEB Installation | Neofort BIZ'
-           : locale === 'de' ? 'Salamander PVC-Fenster Bukarest — BluEvolution 92, GreenEvolution 76, nZEB-Montage | Neofort BIZ'
-           : locale === 'fr' ? 'Menuiserie PVC Salamander Bucarest — BluEvolution 92, GreenEvolution 76, Pose nZEB | Neofort BIZ'
-           : locale === 'es' ? 'Carpintería PVC Salamander Bucarest — BluEvolution 92, GreenEvolution 76, Instalación nZEB | Neofort BIZ'
-           : 'Infissi PVC Salamander Bucarest — BluEvolution 92, GreenEvolution 76, Posa nZEB | Neofort BIZ',
-    description: locale === 'ro' ? 'Tâmplărie PVC Salamander București — BluEvolution 92 și GreenEvolution 76. Montaj nZEB, precadre Blaugelb, geam termopan. Ofertă gratuită.'
-               : locale === 'en' ? 'Salamander PVC windows with thermal glass — BluEvolution 92 (6-chamber) and GreenEvolution 76 systems. nZEB certified installation, Blaugelb Triotherm+ precasings, delivery across Europe.'
-               : locale === 'de' ? 'Salamander PVC-Fenster mit Isolierglas — BluEvolution 92 (6-Kammer) und GreenEvolution 76. nZEB-Montage, Blaugelb Triotherm+ Vorfenster, Lieferung in ganz Europa.'
-               : locale === 'fr' ? 'Menuiserie PVC Salamander avec vitrage isolant — BluEvolution 92 (6 chambres) et GreenEvolution 76. Pose nZEB, précadres Blaugelb Triotherm+, livraison en Europe.'
-               : locale === 'es' ? 'Carpintería PVC Salamander con vidrio aislante — BluEvolution 92 (6 cámaras) y GreenEvolution 76. Instalación nZEB, premarcos Blaugelb Triotherm+, entrega en Europa.'
-               : 'Infissi PVC Salamander con vetro isolante — BluEvolution 92 (6 camere) e GreenEvolution 76. Posa nZEB, precontrotelaio Blaugelb Triotherm+, consegna in Europa.',
+    title: locale === 'ro' ? 'Tâmplărie PVC Salamander București — Ofertă de Preț în 24h | Neofort BIZ'
+           : locale === 'en' ? 'Salamander PVC Windows Bucharest — Price Quote in 24h | Neofort BIZ'
+           : locale === 'de' ? 'Salamander PVC-Fenster Bukarest — Preisangebot in 24h | Neofort BIZ'
+           : locale === 'fr' ? 'Menuiserie PVC Salamander Bucarest — Devis Prix en 24h | Neofort BIZ'
+           : locale === 'es' ? 'Carpintería PVC Salamander Bucarest — Presupuesto en 24h | Neofort BIZ'
+           : 'Infissi PVC Salamander Bucarest — Preventivo Prezzo in 24h | Neofort BIZ',
+    description: locale === 'ro' ? 'Tâmplărie PVC Salamander în București — cere o ofertă de preț personalizată, cu răspuns în 24h. Sisteme BluEvolution 92 și GreenEvolution 76, montaj propriu, 21 ani experiență, 5.0★ din 50 recenzii.'
+               : locale === 'en' ? 'Salamander PVC windows in Bucharest — request a personalised price quote, answered in 24h. BluEvolution 92 and GreenEvolution 76 systems, own installation team, 21 years experience, 5.0★ from 50 reviews.'
+               : locale === 'de' ? 'Salamander PVC-Fenster in Bukarest — fordern Sie ein persönliches Preisangebot an, Antwort in 24h. BluEvolution 92 und GreenEvolution 76, eigene Montage, 21 Jahre Erfahrung, 5.0★ aus 50 Bewertungen.'
+               : locale === 'fr' ? 'Menuiserie PVC Salamander à Bucarest — demandez un devis prix personnalisé, réponse en 24h. Systèmes BluEvolution 92 et GreenEvolution 76, pose par notre équipe, 21 ans d\u2019expérience, 5.0★ sur 50 avis.'
+               : locale === 'es' ? 'Carpintería PVC Salamander en Bucarest — solicita un presupuesto personalizado, respuesta en 24h. Sistemas BluEvolution 92 y GreenEvolution 76, montaje propio, 21 años de experiencia, 5.0★ de 50 reseñas.'
+               : 'Infissi PVC Salamander a Bucarest — richiedi un preventivo prezzo personalizzato, risposta in 24h. Sistemi BluEvolution 92 e GreenEvolution 76, posa propria, 21 anni di esperienza, 5.0★ su 50 recensioni.',
     keywords: locale === 'ro' ? 'tamplarie PVC Salamander, tamplarie salamander bucuresti, ferestre PVC Bucuresti, BluEvolution 92, GreenEvolution 76, termopane pvc bucuresti, ferestre pvc pret 2026, montaj ferestre pvc nZEB, sisteme salamander 6 camere' : locale === 'en' ? 'PVC Salamander windows, BluEvolution 92, GreenEvolution 76, nZEB windows Bucharest' : locale === 'de' ? 'PVC Salamander Fenster, BluEvolution 92, GreenEvolution 76, nZEB Fenster Bukarest' : locale === 'fr' ? 'menuiserie PVC Salamander, BluEvolution 92, GreenEvolution 76, fenêtres nZEB Bucarest' : locale === 'es' ? 'carpintería PVC Salamander, BluEvolution 92, GreenEvolution 76, ventanas nZEB Bucarest' : 'infissi PVC Salamander, BluEvolution 92, GreenEvolution 76, finestre nZEB Bucarest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
