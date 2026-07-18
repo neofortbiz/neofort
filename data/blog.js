@@ -3335,7 +3335,7 @@ Precadrele Blaugelb Triotherm+ sunt recomandate pentru proiectele nZEB — elimi
 - [Unde pot comanda termopane cu izolație avansată în București?](/ro/blog/unde-comand-termopane-izolatie-avansata-bucuresti)
 - [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026)
 
-Neofort BIZ — specialist în izolație termică ferestre în București și Ilfov. [Solicită consultanță gratuită](/ro/contact).
+Neofort BIZ — specialist în izolație termică ferestre în București și Ilfov. [Solicită consultanță gratuită](/ro/contact). Descoperă [gama de ferestre PVC](/ro/tamplarie-pvc) pe care le montăm.
 
 ## Întrebări frecvente
 
@@ -3412,7 +3412,7 @@ When the profile is more than 20 years old, deformed, or you want to reach nZEB 
 - [Where to Order Windows with Advanced Insulation in Bucharest?](/en/blog/where-to-order-advanced-insulation-windows-bucharest)
 - [Salamander Window Prices Bucharest 2026](/en/blog/salamander-window-prices-bucharest-2026)
 
-Neofort BIZ — window thermal insulation specialist in Bucharest and Ilfov. [Request free consultation](/en/contact).
+Neofort BIZ — window thermal insulation specialist in Bucharest and Ilfov. [Request free consultation](/en/contact). Discover [the range of PVC windows](/en/pvc-windows) we install.
 
 ## Frequently Asked Questions
 
@@ -3479,7 +3479,7 @@ Bei gutem Profil, aber altem Zweifachglas (Ug = 1,0-1,6):
 - [Wo kann ich Fenster mit erweiterter Dämmung in Bukarest bestellen?](/de/blog/wo-bestelle-ich-fenster-mit-erweiterter-daemmung-bukarest)
 - [Salamander-Fensterpreise Bukarest 2026](/de/blog/salamander-fenster-preise-bukarest-2026)
 
-Neofort BIZ — Spezialist für Fensterwärmedämmung in Bukarest und Ilfov. [Kostenlose Beratung anfordern](/de/kontakt).
+Neofort BIZ — Spezialist für Fensterwärmedämmung in Bukarest und Ilfov. [Kostenlose Beratung anfordern](/de/kontakt). Entdecken Sie [das Sortiment an PVC-Fenstern](/de/kunststofffenster-pvc), die wir montieren.
 
 ## Häufig gestellte Fragen
 
@@ -3546,7 +3546,7 @@ Si le profilé est en bon état mais le vitrage ancien (Ug = 1,0-1,6) :
 - [Où commander des fenêtres à isolation avancée à Bucarest ?](/fr/blog/ou-commander-fenetres-isolation-avancee-bucarest)
 - [Prix fenêtres Salamander Bucarest 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026)
 
-Neofort BIZ — spécialiste en isolation thermique des fenêtres à Bucarest et Ilfov. [Demander une consultation gratuite](/fr/contact).
+Neofort BIZ — spécialiste en isolation thermique des fenêtres à Bucarest et Ilfov. [Demander une consultation gratuite](/fr/contact). Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) que nous posons.
 
 ## Questions fréquentes
 
@@ -3613,7 +3613,7 @@ Si el perfil está en buen estado pero el acristalamiento es antiguo (Ug = 1,0-1
 - [¿Dónde pedir ventanas con aislamiento avanzado en Bucarest?](/es/blog/donde-pedir-ventanas-aislamiento-avanzado-bucarest)
 - [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)
 
-Neofort BIZ — especialista en aislamiento térmico de ventanas en Bucarest e Ilfov. [Solicitar consulta gratuita](/es/contact).
+Neofort BIZ — especialista en aislamiento térmico de ventanas en Bucarest e Ilfov. [Solicitar consulta gratuita](/es/contact). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que instalamos.
 
 ## Preguntas frecuentes
 
@@ -3680,7 +3680,7 @@ Se il profilo è in buone condizioni ma il vetro è vecchio (Ug = 1,0-1,6):
 - [Dove ordinare finestre con isolamento avanzato a Bucarest?](/it/blog/dove-ordinare-finestre-isolamento-avanzato-bucarest)
 - [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)
 
-Neofort BIZ — specialista in isolamento termico finestre a Bucarest e Ilfov. [Richiedi consulenza gratuita](/it/contact).
+Neofort BIZ — specialista in isolamento termico finestre a Bucarest e Ilfov. [Richiedi consulenza gratuita](/it/contact). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che montiamo.
 
 ## Domande frequenti
 
@@ -6025,7 +6025,7 @@ Neofort BIZ furnizează și montează jaluzele exterioare în **toate sectoarele
 
 ---
 
-Neofort BIZ este distribuitor autorizat Somfy și montator certificat pentru sisteme de umbrire în București și Ilfov. Consultanță gratuită — [solicită ofertă](/ro/contact).
+Neofort BIZ este distribuitor autorizat Somfy și montator certificat pentru sisteme de umbrire în București și Ilfov. Consultanță gratuită — [solicită ofertă](/ro/contact). Descoperă [sistemele de umbrire](/ro/umbrire) pe care le montăm.
 
 ## Întrebări frecvente
 
@@ -6107,7 +6107,7 @@ Neofort BIZ supplies and installs exterior blinds in **all sectors of Bucharest*
 
 ---
 
-Neofort BIZ is an authorised Somfy distributor and certified installer for shading systems in Bucharest and Ilfov. Free consultation — [request a quote](/en/contact).
+Neofort BIZ is an authorised Somfy distributor and certified installer for shading systems in Bucharest and Ilfov. Free consultation — [request a quote](/en/contact). Discover [the shading systems](/en/shading-systems) we install.
 
 ## Frequently Asked Questions
 
@@ -6189,7 +6189,7 @@ Neofort BIZ liefert und montiert Außenjalousien in **allen Stadtbezirken Bukare
 
 ---
 
-Neofort BIZ ist autorisierter Somfy-Händler und zertifizierter Installateur für Beschattungssysteme in Bukarest und Ilfov. Kostenlose Beratung — [Angebot anfordern](/de/kontakt).
+Neofort BIZ ist autorisierter Somfy-Händler und zertifizierter Installateur für Beschattungssysteme in Bukarest und Ilfov. Kostenlose Beratung — [Angebot anfordern](/de/kontakt). Entdecken Sie [die Beschattungssysteme](/de/beschattungssysteme), die wir montieren.
 
 ## Häufig gestellte Fragen
 
@@ -6271,7 +6271,7 @@ Neofort BIZ fournit et pose des stores extérieurs dans **tous les secteurs de B
 
 ---
 
-Neofort BIZ est distributeur agréé Somfy et installateur certifié pour les systèmes d'occultation à Bucarest et Ilfov. Conseil gratuit — [demander un devis](/fr/contact).
+Neofort BIZ est distributeur agréé Somfy et installateur certifié pour les systèmes d'occultation à Bucarest et Ilfov. Conseil gratuit — [demander un devis](/fr/contact). Découvrez [les systèmes d’occultation](/fr/systemes-occultation) que nous posons.
 
 ## Questions fréquentes
 
@@ -6353,7 +6353,7 @@ Neofort BIZ suministra e instala persianas exteriores en **todos los sectores de
 
 ---
 
-Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Asesoramiento gratuito — [solicitar presupuesto](/es/contact).
+Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Asesoramiento gratuito — [solicitar presupuesto](/es/contact). Descubre [los sistemas de sombreado](/es/sistemas-sombreado) que instalamos.
 
 ## Preguntas frecuentes
 
@@ -6435,7 +6435,7 @@ Neofort BIZ fornisce e installa veneziane esterne in **tutti i settori di Bucare
 
 ---
 
-Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi preventivo](/it/contact).
+Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi preventivo](/it/contact). Scopri [i sistemi di oscuramento](/it/sistemi-oscuramento) che montiamo.
 
 ## Domande frequenti
 
@@ -6588,7 +6588,7 @@ După montaj, feroneria Roto NT sau Winkhaus trebuie **reglată precis** în toa
 
 ---
 
-Neofort BIZ execută montaje termopane Salamander în București și Ilfov cu echipe proprii certificate, benzi precomprimate Illbruck și precadre Blaugelb Triotherm Plus. [Solicită ofertă montaj](/ro/contact).
+Neofort BIZ execută montaje termopane Salamander în București și Ilfov cu echipe proprii certificate, benzi precomprimate Illbruck și precadre Blaugelb Triotherm Plus. [Solicită ofertă montaj](/ro/contact). Vezi toată gama de [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care le montăm.
 
 ## Întrebări frecvente
 
@@ -6665,7 +6665,7 @@ After installation, Roto NT or Winkhaus hardware must be **precisely adjusted** 
 
 ---
 
-Neofort BIZ installs Salamander windows in Bucharest and Ilfov with certified in-house teams, Illbruck pre-compressed bands and Blaugelb Triotherm Plus preframes. [Request installation quote](/en/contact).
+Neofort BIZ installs Salamander windows in Bucharest and Ilfov with certified in-house teams, Illbruck pre-compressed bands and Blaugelb Triotherm Plus preframes. [Request installation quote](/en/contact). See the full range of [Salamander PVC windows](/en/pvc-windows) we install.
 
 ## Frequently Asked Questions
 
@@ -6741,7 +6741,7 @@ Nach der Montage müssen Roto NT oder Winkhaus Beschläge **präzise in allen 3 
 
 ---
 
-Neofort BIZ montiert Salamander-Fenster in Bukarest und Ilfov mit zertifizierten Eigenteams, Illbruck-Bändern und Blaugelb Triotherm Plus Vorblendrahmen. [Angebot Montage anfordern](/de/kontakt).
+Neofort BIZ montiert Salamander-Fenster in Bukarest und Ilfov mit zertifizierten Eigenteams, Illbruck-Bändern und Blaugelb Triotherm Plus Vorblendrahmen. [Angebot Montage anfordern](/de/kontakt). Sehen Sie das gesamte Sortiment an [Salamander PVC-Fenster](/de/kunststofffenster-pvc), die wir montieren.
 
 ## Häufig gestellte Fragen
 
@@ -6817,7 +6817,7 @@ Après la pose, la quincaillerie Roto NT ou Winkhaus doit être **réglée préc
 
 ---
 
-Neofort BIZ pose des fenêtres Salamander à Bucarest et Ilfov avec des équipes certifiées, bandes Illbruck et précadres Blaugelb Triotherm Plus. [Demander un devis pose](/fr/contact).
+Neofort BIZ pose des fenêtres Salamander à Bucarest et Ilfov avec des équipes certifiées, bandes Illbruck et précadres Blaugelb Triotherm Plus. [Demander un devis pose](/fr/contact). Voir toute la gamme de [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous posons.
 
 ## Questions fréquentes
 
@@ -6893,7 +6893,7 @@ Tras la instalación, la herraje Roto NT o Winkhaus debe ser **ajustado con prec
 
 ---
 
-Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos certificados, bandas Illbruck y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contact).
+Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos certificados, bandas Illbruck y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contact). Ver toda la gama de [la carpintería PVC Salamander](/es/carpinteria-pvc) que instalamos.
 
 ## Preguntas frecuentes
 
@@ -6969,7 +6969,7 @@ Dopo l'installazione, la ferramenta Roto NT o Winkhaus deve essere **regolata co
 
 ---
 
-Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Illbruck e precornici Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contact).
+Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Illbruck e precornici Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contact). Vedi tutta la gamma di [gli infissi PVC Salamander](/it/infissi-pvc) che montiamo.
 
 ## Domande frequenti
 
