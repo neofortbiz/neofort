@@ -2426,7 +2426,7 @@ Aluminiu fără excepție. Rezistență structurală 3-4x superioară, permite c
 - [Ce ferestre trebuie să alegi pentru o casă nZEB în România?](/ro/blog/ferestre-casa-nzeb-romania-ghid-complet-2026)
 - [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026)
 
-Neofort BIZ furnizează atât sisteme Salamander (PVC) cât și Alumil (aluminiu) în București și Ilfov. [Solicită consultanță gratuită pentru proiectul tău](/ro/contact). Află mai multe despre [sistemele Alumil](/ro/tamplarie-aluminiu) pe care le oferim.`,
+Neofort BIZ furnizează atât sisteme Salamander (PVC) cât și Alumil (aluminiu) în București și Ilfov. [Solicită consultanță gratuită pentru proiectul tău](/ro/contact). Află mai multe despre [sistemele Alumil](/ro/tamplarie-aluminiu) pe care le oferim. Pentru context complet, citește [ghidul tâmplăriei din aluminiu cu barieră termică](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
       en: `## What is an nZEB Home and Why Does Window Choice Matter
 
 **nZEB (Nearly Zero Energy Building)** is the mandatory standard for all new constructions in Romania since 2021. Primary energy consumption ≤ 100 kWh/m²/year. Windows represent 15-25% of the envelope and account for 25-40% of total heat losses.
@@ -2492,7 +2492,7 @@ Always for nZEB — saves 50% heat loss vs double. Payback 5-8 years.
 
 Related: [Complete nZEB System](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing) | [nZEB Windows Guide Romania](/en/blog/windows-nzeb-house-romania-complete-guide-2026) | [Salamander Prices 2026](/en/blog/salamander-window-prices-bucharest-2026)
 
-Neofort BIZ supplies Salamander (PVC) and Alumil (aluminium) in Bucharest and Ilfov. [Request free consultation](/en/contact). Learn more about [our Alumil systems](/en/aluminium-windows) we offer.`,
+Neofort BIZ supplies Salamander (PVC) and Alumil (aluminium) in Bucharest and Ilfov. [Request free consultation](/en/contact). Learn more about [our Alumil systems](/en/aluminium-windows) we offer. For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
       de: `## Was ist ein nZEB-Haus und warum ist die Fensterwahl entscheidend?
 
 **nZEB** ist seit 2021 Pflichtstandard in Rumänien. Primärenergieverbrauch ≤ 100 kWh/m²/Jahr. Fenster machen 15-25% der Gebäudehülle aus und sind für 25-40% der Wärmeverluste verantwortlich.
@@ -2535,7 +2535,7 @@ Immer für nZEB — 50% weniger Wärmeverlust. Amortisierung 5-8 Jahre.
 
 ---
 
-Neofort BIZ liefert Salamander (PVC) und Alumil (Aluminium) in Bukarest und Ilfov. [Kostenloses Beratungsgespräch](/de/kontakt). Erfahren Sie mehr über [unsere Alumil-Systeme](/de/aluminiumfenster), die wir anbieten.`,
+Neofort BIZ liefert Salamander (PVC) und Alumil (Aluminium) in Bukarest und Ilfov. [Kostenloses Beratungsgespräch](/de/kontakt). Erfahren Sie mehr über [unsere Alumil-Systeme](/de/aluminiumfenster), die wir anbieten. Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
       fr: `## PVC ou Aluminium pour une maison nZEB en 2026 ?
 
 **nZEB** est la norme obligatoire en Roumanie depuis 2021. Consommation d'énergie primaire ≤ 100 kWh/m²/an. Les fenêtres représentent 25-40% des pertes thermiques.
@@ -2572,7 +2572,7 @@ Toujours pour nZEB — 50% moins de pertes. Rentabilisé en 5-8 ans.
 
 ---
 
-Neofort BIZ fournit Salamander (PVC) et Alumil (aluminium) à Bucarest et Ilfov. [Consultation gratuite](/fr/contact). En savoir plus sur [nos systèmes Alumil](/fr/menuiserie-aluminium) que nous proposons.`,
+Neofort BIZ fournit Salamander (PVC) et Alumil (aluminium) à Bucarest et Ilfov. [Consultation gratuite](/fr/contact). En savoir plus sur [nos systèmes Alumil](/fr/menuiserie-aluminium) que nous proposons. Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
       es: `## ¿PVC o Aluminio para casas nZEB en 2026?
 
 **nZEB** es la norma obligatoria en Rumanía desde 2021. Consumo de energía primaria ≤ 100 kWh/m²/año. Las ventanas representan el 25-40% de las pérdidas térmicas.
@@ -2609,7 +2609,7 @@ Siempre para nZEB — 50% menos pérdidas. Amortizado en 5-8 años.
 
 ---
 
-Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov. [Consulta gratuita](/es/contact). Más información sobre [nuestros sistemas Alumil](/es/carpinteria-aluminio) que ofrecemos.`,
+Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov. [Consulta gratuita](/es/contact). Más información sobre [nuestros sistemas Alumil](/es/carpinteria-aluminio) que ofrecemos. Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
       it: `## PVC o Alluminio per case nZEB nel 2026?
 
 **nZEB** è lo standard obbligatorio in Romania dal 2021. Consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre rappresentano il 25-40% delle dispersioni termiche.
@@ -2646,7 +2646,7 @@ Sempre per nZEB — 50% meno dispersioni. Ammortizzato in 5-8 anni.
 
 ---
 
-Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [Consulenza gratuita](/it/contact). Scopri di più su [i nostri sistemi Alumil](/it/infissi-alluminio) che offriamo.`,
+Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [Consulenza gratuita](/it/contact). Scopri di più su [i nostri sistemi Alumil](/it/infissi-alluminio) che offriamo. Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
@@ -11379,6 +11379,22 @@ Fără barieră termică, aluminiul este adecvat **doar la interior** — compar
 
 ---
 
+## Ghidul complet al tâmplăriei din aluminiu — pe categorii
+
+Aluminiul acoperă o gamă mult mai largă decât ferestrele obișnuite. În funcție de ce ai nevoie, iată unde găsești detaliile:
+
+**Prețuri și comparație între mărci.** Alumil, Aluprof, Cortizo și Reynaers au poziționări și prețuri diferite: comparația detaliată e în [prețuri tâmplărie aluminiu pe mărci](/ro/blog/preturi-tamplarie-aluminiu-alumil-aluprof-cortizo-reynaers-bucuresti).
+
+**Pereți cortină și fațade din sticlă.** Pentru clădiri cu suprafețe vitrate mari, principiile de proiectare sunt în [ghidul pereților cortină și fațadelor din sticlă](/ro/blog/pereti-cortina-fatade-sticla-ghid-complet), aplicațiile pentru clădiri de birouri în [pereți cortină pentru birouri în București](/ro/blog/pereti-cortina-birouri-bucuresti-ghid-complet-2026), iar lucrări reale executate de noi în [proiecte de fațade din sticlă în București](/ro/blog/tamplarie-aluminiu-pereti-cortina-fatade-sticla-lucrari-bucuresti).
+
+**Geamuri de mari dimensiuni.** Pentru vitrine și panouri panoramice vezi [vitrine din sticlă și geamuri panoramice securizate](/ro/blog/vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti), iar despre cum se montează efectiv panourile agabaritice, cu robot cu ventuze, în [montajul geamurilor de mari dimensiuni](/ro/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni).
+
+**Uși din aluminiu.** Soluțiile de securitate și control acces sunt detaliate în [uși de intrare antiefracție cu amprentă digitală](/ro/blog/usi-intrare-antiefractie-comanda-tactica-amprenta-digitala-aluminiu), iar dacă ești în căutare locală, în [unde comanzi uși din aluminiu în Sectorul 1](/ro/blog/unde-comand-usi-aluminiu-sector-1-bucuresti).
+
+**Automatizare și aplicații rezidențiale.** Integrarea ferestrelor și ușilor în sisteme inteligente e explicată în [tâmplărie din aluminiu și smart home](/ro/blog/tamplarie-aluminiu-smart-home-ferestre-usi-inteligente), iar un exemplu concret de bloc nou în [tâmplărie Reynaers pentru bloc nou construit](/ro/blog/tamplarie-aluminiu-reynaers-bloc-nou-construit-bucuresti).
+
+**Aluminiu sau PVC?** Dacă încă ești în faza de alegere a materialului, comparația directă e în [PVC sau aluminiu pentru case nZEB](/ro/blog/pvc-sau-aluminiu-case-nzeb-2026-ghid-alegere).
+
 ## Cu barieră termică vs fără: comparație directă
 
 | Caracteristică | Aluminiu fără barieră | Aluminiu cu barieră 34 mm | Aluminiu cu barieră 52 mm |
@@ -11514,6 +11530,22 @@ Without a thermal break, aluminium is suitable **only indoors** — partitions, 
 
 ---
 
+## The complete aluminium joinery guide — by category
+
+Aluminium covers a far wider range than ordinary windows. Depending on what you need, here is where to find the details:
+
+**Prices and brand comparison.** Alumil, Aluprof, Cortizo and Reynaers have different positioning and prices: the detailed comparison is in [aluminium joinery prices by brand](/en/blog/aluminium-windows-prices-alumil-aluprof-cortizo-reynaers-bucharest).
+
+**Curtain walls and glass facades.** For buildings with large glazed areas, the design principles are in [the curtain wall and glass facade guide](/en/blog/curtain-wall-glass-facades-complete-guide), office building applications in [curtain walls for offices in Bucharest](/en/blog/curtain-wall-office-buildings-bucharest-complete-guide-2026), and real projects we have completed in [glass facade projects in Bucharest](/en/blog/aluminium-joinery-curtain-walls-glass-facades-projects-bucharest).
+
+**Large-format glass.** For shopfronts and panoramic panels see [glass shopfronts and panoramic tempered windows](/en/blog/glass-shopfronts-panoramic-large-format-tempered-windows-bucharest), and for how oversized panels are actually installed, with a vacuum-cup robot, in [oversized glass installation](/en/blog/oversized-glass-installation-robot-vacuum-cups-large-panels).
+
+**Aluminium doors.** Security and access control solutions are detailed in [anti-burglary entry doors with fingerprint](/en/blog/anti-burglary-entry-doors-fingerprint-touch-aluminium), and if you are searching locally, in [where to order aluminium doors in Sector 1](/en/blog/where-to-order-aluminium-doors-sector-1-bucharest).
+
+**Automation and residential applications.** Integrating windows and doors into smart systems is explained in [aluminium joinery and smart home](/en/blog/aluminium-windows-smart-home-automated-windows-doors), and a concrete new-block example in [Reynaers joinery for a newly built block](/en/blog/reynaers-aluminium-windows-new-residential-block-bucharest).
+
+**Aluminium or PVC?** If you are still choosing the material, the direct comparison is in [PVC or aluminium for nZEB homes](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide).
+
 ## With vs without thermal break: direct comparison
 
 | Feature | Aluminium without break | Aluminium with 34 mm break | Aluminium with 52 mm break |
@@ -11636,6 +11668,22 @@ Ohne Wärmedämmung ist Aluminium **nur für den Innenbereich** geeignet — Tre
 
 ---
 
+## Der komplette Ratgeber für Aluminiumfenster — nach Kategorien
+
+Aluminium deckt einen weit größeren Bereich ab als gewöhnliche Fenster. Je nach Bedarf finden Sie hier die Details:
+
+**Preise und Markenvergleich.** Alumil, Aluprof, Cortizo und Reynaers haben unterschiedliche Positionierungen und Preise: der detaillierte Vergleich ist in [Aluminiumfenster-Preise nach Marken](/de/blog/aluminiumfenster-preise-alumil-aluprof-cortizo-reynaers-bukarest).
+
+**Vorhangfassaden und Glasfassaden.** Für Gebäude mit großen Glasflächen finden Sie die Planungsgrundlagen in [dem Ratgeber zu Vorhang- und Glasfassaden](/de/blog/vorhangfassade-glasfassade-komplett-leitfaden), Anwendungen für Bürogebäude in [Vorhangfassaden für Büros in Bukarest](/de/blog/vorhangfassade-buerogebaeude-bukarest-komplett-leitfaden-2026) und echte ausgeführte Projekte in [Glasfassaden-Projekte in Bukarest](/de/blog/aluminiumtischlerarbeiten-vorhangfassaden-glasfassaden-projekte-bukarest).
+
+**Großformatiges Glas.** Für Schaufenster und Panoramascheiben siehe [Schaufenster und Panorama-Sicherheitsglas](/de/blog/schaufenster-panoramascheiben-grosse-abmessungen-sicherheitsglas-bukarest), und wie übergroße Scheiben tatsächlich montiert werden, mit Saugnapfroboter, in [Montage übergroßer Glasscheiben](/de/blog/montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat).
+
+**Aluminiumtüren.** Sicherheits- und Zutrittslösungen sind in [einbruchsichere Eingangstüren mit Fingerabdruck](/de/blog/einbruchsichere-eingangstuer-fingerabdruck-touchbedienung-aluminium) beschrieben, und bei lokaler Suche in [wo Sie Aluminiumtüren im Sektor 1 bestellen](/de/blog/wo-aluminiumtueren-sektor-1-bukarest-bestellen).
+
+**Automatisierung und Wohnanwendungen.** Die Integration von Fenstern und Türen in intelligente Systeme wird in [Aluminiumfenster und Smart Home](/de/blog/aluminiumfenster-smart-home-automatisierte-fenster-tueren) erklärt, ein konkretes Neubaubeispiel in [Reynaers-Fenster für einen Neubau](/de/blog/reynaers-aluminiumfenster-neubau-wohnblock-bukarest).
+
+**Aluminium oder PVC?** Wenn Sie das Material noch wählen, ist der direkte Vergleich in [PVC oder Aluminium für nZEB-Häuser](/de/blog/pvc-oder-aluminium-nzeb-haeuser-2026-ratgeber).
+
 ## Mit vs ohne Wärmedämmung: Direktvergleich
 
 | Merkmal | Aluminium ohne Dämmung | Aluminium mit 34 mm Dämmung | Aluminium mit 52 mm Dämmung |
@@ -11735,6 +11783,22 @@ Sans rupture thermique, l'aluminium ne convient **qu'à l'intérieur** — clois
 
 ---
 
+## Le guide complet de la menuiserie aluminium — par catégorie
+
+L’aluminium couvre une gamme bien plus large que les fenêtres ordinaires. Selon vos besoins, voici où trouver les détails :
+
+**Prix et comparaison des marques.** Alumil, Aluprof, Cortizo et Reynaers ont des positionnements et des prix différents : la comparaison détaillée est dans [prix menuiserie aluminium par marque](/fr/blog/prix-menuiserie-aluminium-alumil-aluprof-cortizo-reynaers-bucarest).
+
+**Murs-rideaux et façades en verre.** Pour les bâtiments à grandes surfaces vitrées, les principes de conception sont dans [le guide des murs-rideaux et façades en verre](/fr/blog/mur-rideau-facade-verre-guide-complet), les applications pour immeubles de bureaux dans [murs-rideaux pour bureaux à Bucarest](/fr/blog/mur-rideau-immeubles-bureaux-bucarest-guide-complet-2026), et des chantiers réels dans [projets de façades en verre à Bucarest](/fr/blog/menuiserie-aluminium-murs-rideaux-facades-verre-projets-bucarest).
+
+**Vitrages de grandes dimensions.** Pour vitrines et panneaux panoramiques voir [vitrines et vitrages panoramiques trempés](/fr/blog/vitrines-verre-fenetres-panoramiques-grandes-dimensions-securisees-bucarest), et pour la pose effective des panneaux surdimensionnés, avec robot à ventouses, dans [pose de vitrages surdimensionnés](/fr/blog/pose-verre-surdimensionne-robot-ventouses-grands-panneaux).
+
+**Portes en aluminium.** Les solutions de sécurité et contrôle d’accès sont détaillées dans [portes d’entrée anti-effraction à empreinte digitale](/fr/blog/porte-entree-anti-effraction-commande-tactile-empreinte-aluminium), et pour une recherche locale, dans [où commander des portes en aluminium au Secteur 1](/fr/blog/ou-commander-portes-aluminium-secteur-1-bucarest).
+
+**Automatisation et applications résidentielles.** L’intégration des fenêtres et portes dans les systèmes intelligents est expliquée dans [menuiserie aluminium et maison connectée](/fr/blog/menuiserie-aluminium-maison-intelligente-fenetres-portes-automatisees), et un exemple concret d’immeuble neuf dans [menuiserie Reynaers pour immeuble neuf](/fr/blog/menuiserie-aluminium-reynaers-immeuble-neuf-bucarest).
+
+**Aluminium ou PVC ?** Si vous choisissez encore le matériau, la comparaison directe est dans [PVC ou aluminium pour maisons nZEB](/fr/blog/pvc-ou-aluminium-maisons-nzeb-2026-guide-complet).
+
 ## Systèmes Alumil disponibles chez Neofort BIZ
 
 ### Alumil Supreme SF85 — performance maximale
@@ -11809,6 +11873,22 @@ Sin rotura de puente térmico, el aluminio es adecuado **solo para interiores** 
 
 ---
 
+## La guía completa de la carpintería de aluminio — por categorías
+
+El aluminio abarca una gama mucho más amplia que las ventanas corrientes. Según lo que necesites, aquí encuentras los detalles:
+
+**Precios y comparación de marcas.** Alumil, Aluprof, Cortizo y Reynaers tienen posicionamientos y precios distintos: la comparación detallada está en [precios de carpintería de aluminio por marcas](/es/blog/precios-carpinteria-aluminio-alumil-aluprof-cortizo-reynaers-bucarest).
+
+**Muros cortina y fachadas de vidrio.** Para edificios con grandes superficies acristaladas, los principios de diseño están en [la guía de muros cortina y fachadas de vidrio](/es/blog/muro-cortina-fachada-vidrio-guia-completa), las aplicaciones para oficinas en [muros cortina para oficinas en Bucarest](/es/blog/muro-cortina-edificios-oficinas-bucarest-guia-completa-2026), y obras reales en [proyectos de fachadas de vidrio en Bucarest](/es/blog/carpinteria-aluminio-muros-cortina-fachadas-vidrio-proyectos-bucarest).
+
+**Vidrios de gran formato.** Para escaparates y paneles panorámicos ver [escaparates de vidrio y ventanales panorámicos templados](/es/blog/vitrinas-cristal-ventanas-panoramicas-grandes-dimensiones-securizadas-bucarest), y sobre cómo se instalan realmente los paneles sobredimensionados, con robot de ventosas, en [montaje de vidrios de gran formato](/es/blog/instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles).
+
+**Puertas de aluminio.** Las soluciones de seguridad y control de acceso se detallan en [puertas de entrada antirrobo con huella digital](/es/blog/puerta-entrada-antirrobo-control-tactil-huella-dactilar-aluminio), y si buscas localmente, en [dónde encargar puertas de aluminio en el Sector 1](/es/blog/donde-pedir-puertas-aluminio-sector-1-bucarest).
+
+**Automatización y aplicaciones residenciales.** La integración de ventanas y puertas en sistemas inteligentes se explica en [carpintería de aluminio y hogar inteligente](/es/blog/carpinteria-aluminio-smart-home-ventanas-puertas-automatizadas), y un ejemplo concreto de bloque nuevo en [carpintería Reynaers para bloque de nueva construcción](/es/blog/carpinteria-aluminio-reynaers-bloque-nueva-construccion-bucarest).
+
+**¿Aluminio o PVC?** Si todavía estás eligiendo el material, la comparación directa está en [PVC o aluminio para casas nZEB](/es/blog/pvc-o-aluminio-casas-nzeb-2026-guia-completa).
+
 ## Sistemas Alumil disponibles en Neofort BIZ
 
 ### Alumil Supreme SF85 — rendimiento máximo
@@ -11882,6 +11962,22 @@ L'alluminio puro conduce il calore **~200 volte meglio del PVC**. Senza trattame
 Senza taglio termico, l'alluminio è adatto **solo per interni** — tramezzi, showroom, garage.
 
 ---
+
+## La guida completa ai serramenti in alluminio — per categorie
+
+L’alluminio copre una gamma molto più ampia delle normali finestre. A seconda di ciò che ti serve, ecco dove trovare i dettagli:
+
+**Prezzi e confronto tra marchi.** Alumil, Aluprof, Cortizo e Reynaers hanno posizionamenti e prezzi diversi: il confronto dettagliato è in [prezzi serramenti in alluminio per marchi](/it/blog/prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest).
+
+**Facciate continue e facciate in vetro.** Per edifici con grandi superfici vetrate, i principi progettuali sono in [la guida alle facciate continue e in vetro](/it/blog/parete-cortina-facciata-vetro-guida-completa), le applicazioni per uffici in [facciate continue per uffici a Bucarest](/it/blog/parete-cortina-edifici-uffici-bucarest-guida-completa-2026), e lavori reali in [progetti di facciate in vetro a Bucarest](/it/blog/infissi-alluminio-pareti-cortina-facciate-vetro-progetti-bucarest).
+
+**Vetri di grandi dimensioni.** Per vetrine e pannelli panoramici vedi [vetrine e vetrate panoramiche temperate](/it/blog/vetrine-vetro-finestre-panoramiche-grandi-dimensioni-securizzate-bucarest), e su come si installano davvero i pannelli fuori misura, con robot a ventose, in [montaggio di vetri di grandi dimensioni](/it/blog/posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli).
+
+**Porte in alluminio.** Le soluzioni di sicurezza e controllo accessi sono dettagliate in [porte d’ingresso antieffrazione con impronta digitale](/it/blog/porta-ingresso-antieffrazione-comando-tattile-impronta-digitale-alluminio), e per una ricerca locale, in [dove ordinare porte in alluminio nel Settore 1](/it/blog/dove-ordinare-porte-alluminio-settore-1-bucarest).
+
+**Automazione e applicazioni residenziali.** L’integrazione di finestre e porte nei sistemi intelligenti è spiegata in [serramenti in alluminio e smart home](/it/blog/infissi-alluminio-smart-home-finestre-porte-automatizzate), e un esempio concreto di edificio nuovo in [serramenti Reynaers per edificio di nuova costruzione](/it/blog/infissi-alluminio-reynaers-condominio-nuova-costruzione-bucarest).
+
+**Alluminio o PVC?** Se stai ancora scegliendo il materiale, il confronto diretto è in [PVC o alluminio per case nZEB](/it/blog/pvc-o-alluminio-case-nzeb-2026-guida-completa).
 
 ## Sistemi Alumil disponibili da Neofort BIZ
 
@@ -12162,7 +12258,10 @@ La peretele cortină structural, profilele de aluminiu sunt complet invizibile d
 ### Pentru ce clădiri se recomandă peretele cortină standard?
 
 Peretele cortină standard, cel mai accesibil ca preț, are profilul vizibil cu capace presoare, sticlă dublu sau triplu de 24-48 mm, rezistență la vânt clasa C3 și impermeabilitate clasa E1050. E recomandat pentru clădiri de birouri, spații comerciale, showroom-uri și hale industriale cu zonă de birou.
-`,
+
+---
+
+Neofort BIZ proiectează și montează tâmplărie din aluminiu Alumil în București și Ilfov, cu barieră termică și montaj cu echipe proprii. Vezi [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al tâmplăriei din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
 
       en: `## What is a curtain wall
 
@@ -12276,7 +12375,10 @@ In a structural curtain wall, the aluminium profiles are fully invisible from ou
 ### Which buildings is the standard curtain wall recommended for?
 
 The standard curtain wall, the most affordable, has a visible profile with pressure caps, double or triple glazing of 24-48 mm, class C3 wind resistance and class E1050 watertightness. It is recommended for office buildings, retail spaces, showrooms and industrial halls with an office area.
-`,
+
+---
+
+Neofort BIZ designs and installs Alumil aluminium joinery in Bucharest and Ilfov, with thermal break and its own installation teams. See [the aluminium joinery](/en/aluminium-windows) we offer or [request a quote](/en/contact). See also [the complete aluminium joinery guide](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
       de: `## Was ist eine Vorhangfassade
 
@@ -12358,7 +12460,10 @@ Bei einer strukturellen Vorhangfassade sind die Aluminiumprofile von außen voll
 ### Für welche Gebäude wird die Standard-Vorhangfassade empfohlen?
 
 Die Standard-Vorhangfassade, die günstigste, hat ein sichtbares Profil mit Pressleisten, Doppel- oder Dreifachglas von 24-48 mm, Windwiderstand Klasse C3 und Schlagregendichtheit Klasse E1050. Empfohlen für Bürogebäude, Geschäftsräume, Showrooms und Industriehallen mit Bürobereich.
-`,
+
+---
+
+Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit Wärmedämmbrücke und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber für Aluminiumfenster](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
       fr: `## Qu'est-ce qu'un mur rideau
 
@@ -12432,7 +12537,10 @@ Dans un mur-rideau structurel, les profilés aluminium sont totalement invisible
 ### Pour quels bâtiments le mur-rideau standard est-il recommandé ?
 
 Le mur-rideau standard, le plus abordable, a un profilé visible avec capots presseurs, double ou triple vitrage de 24-48 mm, résistance au vent classe C3 et étanchéité classe E1050. Il est recommandé pour les immeubles de bureaux, espaces commerciaux, showrooms et halls industriels avec zone de bureau.
-`,
+
+---
+
+Neofort BIZ conçoit et pose de la menuiserie aluminium Alumil à Bucarest et Ilfov, à rupture thermique et avec ses propres équipes. Voir [la menuiserie aluminium](/fr/menuiserie-aluminium) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet de la menuiserie aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
       es: `## Qué es un muro cortina
 
@@ -12506,7 +12614,10 @@ En un muro cortina estructural, los perfiles de aluminio son totalmente invisibl
 ### ¿Para qué edificios se recomienda el muro cortina estándar?
 
 El muro cortina estándar, el más asequible, tiene perfil visible con tapas presoras, vidrio doble o triple de 24-48 mm, resistencia al viento clase C3 y estanqueidad clase E1050. Se recomienda para edificios de oficinas, espacios comerciales, showrooms y naves industriales con zona de oficina.
-`,
+
+---
+
+Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico y equipos propios. Ver [la carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía completa de la carpintería de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
       it: `## Cos'è una parete cortina
 
@@ -12580,7 +12691,10 @@ In una facciata continua strutturale, i profili in alluminio sono totalmente inv
 ### Per quali edifici è consigliata la facciata continua standard?
 
 La facciata continua standard, la più accessibile, ha profilo visibile con coprifili pressori, vetro doppio o triplo da 24-48 mm, resistenza al vento classe C3 e tenuta all'acqua classe E1050. È consigliata per edifici per uffici, spazi commerciali, showroom e capannoni industriali con zona uffici.
-`,
+
+---
+
+Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfov, a taglio termico e con squadre proprie. Vedi [i serramenti in alluminio](/it/infissi-alluminio) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa ai serramenti in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
@@ -13738,7 +13852,10 @@ Alumil are cea mai rapidă livrare — 3-5 zile, fiind importat direct. Aluprof 
 ### Ce sistem de aluminiu atinge cea mai bună performanță termică?
 
 Aluprof MB-104 Passive (104 mm) atinge Uw 0,75-0,90 W/m²K, iar Reynaers CS 86-HI (86 mm) ajunge la 0,80-1,0. Alumil Supreme SF85 (85 mm) oferă Uw 0,95-1,1 cu cea mai rapidă livrare. Toate sunt potrivite pentru standard nZEB, diferind ca preț și termen.
-`,
+
+---
+
+Neofort BIZ execută lucrări de tâmplărie și fațade din aluminiu în București și Ilfov, de la ferestre și uși până la pereți cortină. Descoperă [gama de ferestre din aluminiu](/ro/tamplarie-aluminiu) sau [solicită o ofertă](/ro/contact). Pentru context complet, citește [ghidul tâmplăriei din aluminiu cu barieră termică](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
 
       en: `## Alumil, Aluprof, Cortizo or Reynaers — which is the right choice in 2026?
 
@@ -13798,7 +13915,10 @@ Alumil has the fastest delivery — 3-5 days, being imported directly. Aluprof d
 ### Which aluminium system reaches the best thermal performance?
 
 Aluprof MB-104 Passive (104 mm) reaches Uw 0.75-0.90 W/m²K, and Reynaers CS 86-HI (86 mm) reaches 0.80-1.0. Alumil Supreme SF85 (85 mm) offers Uw 0.95-1.1 with the fastest delivery. All suit the nZEB standard, differing in price and lead time.
-`,
+
+---
+
+Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
       de: `## Alumil, Aluprof, Cortizo oder Reynaers — Bukarest 2026
 
@@ -13840,7 +13960,10 @@ Alumil hat die schnellste Lieferung — 3-5 Tage, da direkt importiert. Aluprof 
 ### Welches Aluminiumsystem erreicht die beste Wärmeleistung?
 
 Aluprof MB-104 Passive (104 mm) erreicht Uw 0,75-0,90 W/m²K, und Reynaers CS 86-HI (86 mm) erreicht 0,80-1,0. Alumil Supreme SF85 (85 mm) bietet Uw 0,95-1,1 mit der schnellsten Lieferung. Alle eignen sich für den nZEB-Standard, unterscheiden sich in Preis und Lieferzeit.
-`,
+
+---
+
+Neofort BIZ führt Aluminium- und Fassadenarbeiten in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
       fr: `## Alumil, Aluprof, Cortizo ou Reynaers — Bucarest 2026
 
@@ -13882,7 +14005,10 @@ Alumil a la livraison la plus rapide — 3-5 jours, étant importée directement
 ### Quel système aluminium atteint la meilleure performance thermique ?
 
 L'Aluprof MB-104 Passive (104 mm) atteint Uw 0,75-0,90 W/m²K, et le Reynaers CS 86-HI (86 mm) atteint 0,80-1,0. L'Alumil Supreme SF85 (85 mm) offre Uw 0,95-1,1 avec la livraison la plus rapide. Tous conviennent au standard nZEB, différant en prix et délai.
-`,
+
+---
+
+Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
       es: `## Alumil, Aluprof, Cortizo o Reynaers — Bucarest 2026
 
@@ -13924,7 +14050,10 @@ Alumil tiene la entrega más rápida — 3-5 días, al importarse directamente. 
 ### ¿Qué sistema de aluminio alcanza el mejor rendimiento térmico?
 
 El Aluprof MB-104 Passive (104 mm) alcanza Uw 0,75-0,90 W/m²K, y el Reynaers CS 86-HI (86 mm) llega a 0,80-1,0. El Alumil Supreme SF85 (85 mm) ofrece Uw 0,95-1,1 con la entrega más rápida. Todos sirven para el estándar nZEB, diferenciándose en precio y plazo.
-`,
+
+---
+
+Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
       it: `## Alumil, Aluprof, Cortizo o Reynaers — Bucarest 2026
 
@@ -13966,7 +14095,10 @@ Alumil ha la consegna più rapida — 3-5 giorni, essendo importato direttamente
 ### Quale sistema in alluminio raggiunge le migliori prestazioni termiche?
 
 L'Aluprof MB-104 Passive (104 mm) raggiunge Uw 0,75-0,90 W/m²K, e il Reynaers CS 86-HI (86 mm) raggiunge 0,80-1,0. L'Alumil Supreme SF85 (85 mm) offre Uw 0,95-1,1 con la consegna più rapida. Tutti sono adatti allo standard nZEB, differendo in prezzo e tempi.
-`,
+
+---
+
+Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilfov, da finestre e porte alle facciate continue. Scopri [la gamma di infissi in alluminio](/it/infissi-alluminio) o [richiedi un preventivo](/it/contatti). Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
@@ -14189,7 +14321,10 @@ Somfy Connexoon, hub WiFi de intrare, controlează până la 30 de motoare prin 
 ### Ce diferență e între Somfy, Nice și KNX pentru tâmplărie automată?
 
 Somfy și Nice sunt sisteme proprietare — dispozitivele funcționează în cadrul aceluiași ecosistem. KNX e un standard european deschis (EN 50090): orice dispozitiv KNX funcționează cu orice alt dispozitiv KNX, indiferent de producător, ideal pentru clădiri smart complexe.
-`,
+
+---
+
+Neofort BIZ proiectează și montează tâmplărie din aluminiu Alumil în București și Ilfov, cu barieră termică și montaj cu echipe proprii. Vezi [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [ghidul complet al sistemelor din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
 
       en: `## Why aluminium is the ideal material for smart home
 
@@ -14286,7 +14421,10 @@ Somfy Connexoon, an entry-level WiFi hub, controls up to 30 motors via the mobil
 ### What is the difference between Somfy, Nice and KNX for automated joinery?
 
 Somfy and Nice are proprietary systems — devices work within the same ecosystem. KNX is an open European standard (EN 50090): any KNX device works with any other KNX device, regardless of manufacturer, ideal for complex smart buildings.
-`,
+
+---
+
+Neofort BIZ designs and installs Alumil aluminium joinery in Bucharest and Ilfov, with thermal break and its own installation teams. See [the aluminium joinery](/en/aluminium-windows) we offer or [request a quote](/en/contact). All the details in [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
       de: `## Warum Aluminium das ideale Material für Smart Home ist
 
@@ -14352,7 +14490,10 @@ Somfy Connexoon, ein Einstiegs-WiFi-Hub, steuert bis zu 30 Motoren über die mob
 ### Was ist der Unterschied zwischen Somfy, Nice und KNX bei automatisierten Profilen?
 
 Somfy und Nice sind proprietäre Systeme — Geräte arbeiten innerhalb desselben Ökosystems. KNX ist ein offener europäischer Standard (EN 50090): Jedes KNX-Gerät arbeitet mit jedem anderen KNX-Gerät, herstellerunabhängig, ideal für komplexe Smart Buildings.
-`,
+
+---
+
+Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit Wärmedämmbrücke und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details in [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
       fr: `## Pourquoi l'aluminium est le matériau idéal pour la maison intelligente
 
@@ -14418,7 +14559,10 @@ Somfy Connexoon, hub WiFi d'entrée de gamme, contrôle jusqu'à 30 moteurs via 
 ### Quelle différence entre Somfy, Nice et KNX pour la menuiserie automatisée ?
 
 Somfy et Nice sont des systèmes propriétaires — les appareils fonctionnent au sein du même écosystème. KNX est un standard européen ouvert (EN 50090) : tout appareil KNX fonctionne avec tout autre appareil KNX, quel que soit le fabricant, idéal pour les bâtiments intelligents complexes.
-`,
+
+---
+
+Neofort BIZ conçoit et pose de la menuiserie aluminium Alumil à Bucarest et Ilfov, à rupture thermique et avec ses propres équipes. Voir [la menuiserie aluminium](/fr/menuiserie-aluminium) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
       es: `## Por qué el aluminio es el material ideal para el smart home
 
@@ -14481,7 +14625,10 @@ Somfy Connexoon, hub WiFi de entrada, controla hasta 30 motores mediante la app 
 ### ¿Qué diferencia hay entre Somfy, Nice y KNX para carpintería automatizada?
 
 Somfy y Nice son sistemas propietarios — los dispositivos funcionan dentro del mismo ecosistema. KNX es un estándar europeo abierto (EN 50090): cualquier dispositivo KNX funciona con cualquier otro dispositivo KNX, sin importar el fabricante, ideal para edificios inteligentes complejos.
-`,
+
+---
+
+Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico y equipos propios. Ver [la carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicita un presupuesto](/es/contacto). Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
       it: `## Perché l'alluminio è il materiale ideale per lo smart home
 
@@ -14547,7 +14694,10 @@ Somfy Connexoon, hub WiFi di base, controlla fino a 30 motori tramite l'app mobi
 ### Che differenza c'è tra Somfy, Nice e KNX per serramenti automatizzati?
 
 Somfy e Nice sono sistemi proprietari — i dispositivi funzionano nello stesso ecosistema. KNX è uno standard europeo aperto (EN 50090): qualsiasi dispositivo KNX funziona con qualsiasi altro dispositivo KNX, indipendentemente dal produttore, ideale per edifici intelligenti complessi.
-`,
+
+---
+
+Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfov, a taglio termico e con squadre proprie. Vedi [i serramenti in alluminio](/it/infissi-alluminio) che offriamo o [richiedi un preventivo](/it/contatti). Tutti i dettagli in [la guida completa ai sistemi in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
@@ -14619,7 +14769,7 @@ Bucureștiul este cel mai activ piață de birouri din Europa de Sud-Est. În 20
 
 **Standardul de facto** pentru orice clădire de birouri de clasă A din București în 2026 este fațada cortină din aluminiu și sticlă — cerință impusă de chiriașii corporativi (multinaționale), de standardele de certificare energetică (BREEAM, LEED, DGNB) și de normele de eficiență energetică europene.
 
-Neofort BIZ lucrează direct cu **dezvoltatori imobiliari, arhitecți și antreprenori generali** din București pentru livrarea și [montaj](/ro/servicii)ul sistemelor Alumil de pereți cortină. Această pagină centralizează tot ce trebuie să știi înainte de a deschide un dosar de proiect.
+Neofort BIZ lucrează direct cu **dezvoltatori imobiliari, arhitecți și antreprenori generali** din București pentru livrarea și [montaj](/ro/servicii)ul sistemelor Alumil de pereți cortină. Această pagină centralizează tot ce trebuie să știi înainte de a deschide un dosar de proiect. Vezi și [ghidul complet al tâmplăriei din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).
 
 ---
 
@@ -14884,7 +15034,10 @@ Alumil curtain wall systems can meet the requirements of BREEAM, LEED and DGNB c
 ### Who does Neofort BIZ work with on office curtain-wall projects?
 
 Neofort BIZ works directly with property developers, architects and general contractors in Bucharest for the supply and installation of Alumil curtain-wall systems. Bucharest has over 4 million m² of modern offices, with 15-20 new projects each year.
-`,
+
+---
+
+Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). See also [the complete aluminium joinery guide](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
       de: `## Der Bukarester Büromarkt und die Anforderung an moderne Fassaden
 
@@ -14956,7 +15109,10 @@ Alumil-Vorhangfassadensysteme können die Anforderungen von BREEAM-, LEED- und D
 ### Mit wem arbeitet Neofort BIZ bei Büro-Vorhangfassadenprojekten?
 
 Neofort BIZ arbeitet direkt mit Immobilienentwicklern, Architekten und Generalunternehmern in Bukarest für Lieferung und Montage von Alumil-Vorhangfassadensystemen. Bukarest hat über 4 Millionen m² moderne Büros, mit 15-20 neuen Projekten pro Jahr.
-`,
+
+---
+
+Neofort BIZ führt Aluminium- und Fassadenarbeiten in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber für Aluminiumfenster](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
       fr: `## Le marché des bureaux à Bucarest et l'exigence de façades modernes
 
@@ -15027,7 +15183,10 @@ Les systèmes de murs-rideaux Alumil peuvent satisfaire les exigences des certif
 ### Avec qui Neofort BIZ travaille-t-il pour les projets de murs-rideaux de bureaux ?
 
 Neofort BIZ travaille directement avec les promoteurs immobiliers, architectes et entreprises générales de Bucarest pour la fourniture et la pose des systèmes de murs-rideaux Alumil. Bucarest compte plus de 4 millions de m² de bureaux modernes, avec 15-20 nouveaux projets par an.
-`,
+
+---
+
+Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Voir aussi [le guide complet de la menuiserie aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
       es: `## El mercado de oficinas de Bucarest y el requisito de fachadas modernas
 
@@ -15098,7 +15257,10 @@ Los sistemas de muro cortina Alumil pueden cumplir los requisitos de las certifi
 ### ¿Con quién trabaja Neofort BIZ en proyectos de muro cortina de oficinas?
 
 Neofort BIZ trabaja directamente con promotores inmobiliarios, arquitectos y contratistas generales de Bucarest para el suministro e instalación de sistemas de muro cortina Alumil. Bucarest tiene más de 4 millones de m² de oficinas modernas, con 15-20 proyectos nuevos al año.
-`,
+
+---
+
+Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Ver también [la guía completa de la carpintería de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
       it: `## Il mercato degli uffici di Bucarest e il requisito di facciate moderne
 
@@ -15169,7 +15331,10 @@ I sistemi di facciata continua Alumil possono soddisfare i requisiti delle certi
 ### Con chi lavora Neofort BIZ per i progetti di facciate continue per uffici?
 
 Neofort BIZ lavora direttamente con sviluppatori immobiliari, architetti e imprese generali di Bucarest per la fornitura e il montaggio dei sistemi di facciata continua Alumil. Bucarest ha oltre 4 milioni di m² di uffici moderni, con 15-20 nuovi progetti all'anno.
-`,
+
+---
+
+Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilfov, da finestre e porte alle facciate continue. Scopri [la gamma di infissi in alluminio](/it/infissi-alluminio) o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa ai serramenti in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
@@ -16358,7 +16523,7 @@ Sistemul pentru terase și balcoane mari — acolo unde ușa de balcon clasică 
 
 ## Cum lucrează Neofort BIZ cu antreprenorii generali
 
-**Proiect la cheie** — de la măsurători pe planurile de arhitectură până la [montaj](/ro/servicii)ul final și protocolul de recepție, Neofort BIZ este un singur interlocutor pentru toată tâmplăria blocului.
+**Proiect la cheie** — de la măsurători pe planurile de arhitectură până la [montaj](/ro/servicii)ul final și protocolul de recepție, Neofort BIZ este un singur interlocutor pentru toată tâmplăria blocului. Pentru context complet, citește [ghidul tâmplăriei din aluminiu cu barieră termică](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).
 
 **Coordonare cu fazele de construcție** — livrăm pe tranșe în funcție de avansul lucrărilor pe etaje. Nu blocăm șantierul cu stocuri excesive, nu întârziem faza finisajelor.
 
@@ -16410,7 +16575,7 @@ Pe un bloc nou cu fațadă modernă, aluminiu Reynaers oferă linii arhitectural
 
       en: `## The Neofort BIZ Project — New Block, Delea Veche, Bucharest
 
-Delea Veche is one of the most active residential development zones in Bucharest's sector 2. Neofort BIZ delivered and installed **Reynaers [ConceptSystem](/en/services) 77 [aluminium window](/en/aluminium-windows)s** for the entire block — windows for all apartments, balcony doors, block entrance doors and common area doors.
+Delea Veche is one of the most active residential development zones in Bucharest's sector 2. Neofort BIZ delivered and installed **Reynaers [ConceptSystem](/en/services) 77 [aluminium window](/en/aluminium-windows)s** for the entire block — windows for all apartments, balcony doors, block entrance doors and common area doors. For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide).
 
 ---
 
@@ -16477,7 +16642,7 @@ On a new block with a modern façade, Reynaers aluminium gives clean architectur
 
       de: `## Das Neofort BIZ Projekt — Neubau-Wohnblock, Delea Veche, Bukarest
 
-Delea Veche ist eine der aktivsten Wohnbaugebiete im 2. Bezirk Bukarests. Neofort BIZ lieferte und [montiert](/de/dienstleistungen)e **Reynaers ConceptSystem 77 [Aluminium](/de/aluminiumfenster)fenster** für den gesamten Block.
+Delea Veche ist eine der aktivsten Wohnbaugebiete im 2. Bezirk Bukarests. Neofort BIZ lieferte und [montiert](/de/dienstleistungen)e **Reynaers ConceptSystem 77 [Aluminium](/de/aluminiumfenster)fenster** für den gesamten Block. Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
 
 ---
 
@@ -16531,7 +16696,7 @@ An einem Neubaublock mit moderner Fassade bietet Reynaers-Aluminium saubere arch
 
       fr: `## Le projet Neofort BIZ — immeuble neuf, Delea Veche, Bucarest
 
-Delea Veche est l'une des zones de développement résidentiel les plus actives du secteur 2 de Bucarest. Neofort BIZ a [livré](/fr/services) et installé la **[menuiserie aluminium](/fr/menuiserie-aluminium) Reynaers ConceptSystem 77** pour l'ensemble de l'immeuble.
+Delea Veche est l'une des zones de développement résidentiel les plus actives du secteur 2 de Bucarest. Neofort BIZ a [livré](/fr/services) et installé la **[menuiserie aluminium](/fr/menuiserie-aluminium) Reynaers ConceptSystem 77** pour l'ensemble de l'immeuble. Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).
 
 ---
 
@@ -16584,7 +16749,7 @@ Sur un immeuble neuf à façade moderne, l'aluminium Reynaers offre des lignes a
 
       es: `## El proyecto Neofort BIZ — bloque nuevo, Delea Veche, Bucarest
 
-Delea Veche es una de las zonas de desarrollo residencial más activas del sector 2 de Bucarest. Neofort BIZ entregó e instaló **carpintería [aluminio](/es/carpinteria-aluminio) Reynaers [ConceptSystem](/es/servicios) 77** para todo el bloque.
+Delea Veche es una de las zonas de desarrollo residencial más activas del sector 2 de Bucarest. Neofort BIZ entregó e instaló **carpintería [aluminio](/es/carpinteria-aluminio) Reynaers [ConceptSystem](/es/servicios) 77** para todo el bloque. Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).
 
 ---
 
@@ -16629,7 +16794,7 @@ En un bloque nuevo con fachada moderna, el aluminio Reynaers ofrece líneas arqu
 
       it: `## Il progetto Neofort BIZ — nuovo condominio, Delea Veche, Bucarest
 
-Delea Veche è una delle zone di sviluppo residenziale più attive del settore 2 di Bucarest. Neofort BIZ ha consegnato e [installato](/it/servizi) **infissi [alluminio](/it/infissi-alluminio) Reynaers ConceptSystem 77** per l'intero condominio.
+Delea Veche è una delle zone di sviluppo residenziale più attive del settore 2 di Bucarest. Neofort BIZ ha consegnato e [installato](/it/servizi) **infissi [alluminio](/it/infissi-alluminio) Reynaers ConceptSystem 77** per l'intero condominio. Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa).
 
 ---
 
@@ -17723,7 +17888,7 @@ Sticla lipită cu silicon structural pe o structură metalică ascunsă. Zero pr
 
 ## De ce Neofort BIZ pentru vitrine și geamuri mari?
 
-Montajul geamurilor agabaritice nu se poate face cu mijloace convenționale. Neofort BIZ dispune de echipament specializat de manipulare cu ventuze (capacitate până la 1.400 kg) și colaborează cu echipe certificate pentru [montaj](/ro/servicii) la înălțime și în spații înguste.
+Montajul geamurilor agabaritice nu se poate face cu mijloace convenționale. Neofort BIZ dispune de echipament specializat de manipulare cu ventuze (capacitate până la 1.400 kg) și colaborează cu echipe certificate pentru [montaj](/ro/servicii) la înălțime și în spații înguste. Toate detaliile în [ghidul complet al sistemelor din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
@@ -17817,7 +17982,10 @@ A toughened glass sheet can reach maximum dimensions of 3,500 × 8,000 mm, in st
 ### Why is toughening important for public spaces?
 
 Toughened glass, on breakage, fragments into small granules without sharp edges, unlike float glass which produces dangerous shards. This is essential for safety in showrooms, shops, restaurants and any public space with heavy footfall.
-`,
+
+---
+
+Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). All the details in [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
       de: `## Was sind übergroße Glasscheiben und wer braucht sie?
 
@@ -17874,7 +18042,10 @@ Eine vorgespannte Glasscheibe kann Maximalmaße von 3.500 × 8.000 mm erreichen,
 ### Warum ist das Vorspannen für öffentliche Räume wichtig?
 
 Vorgespanntes Glas zerfällt beim Bruch in kleine Granulate ohne scharfe Kanten, anders als Floatglas, das gefährliche Scherben erzeugt. Das ist essenziell für die Sicherheit in Showrooms, Geschäften, Restaurants und jedem öffentlichen Raum mit starkem Publikumsverkehr.
-`,
+
+---
+
+Neofort BIZ führt Aluminium- und Fassadenarbeiten in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details in [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
       fr: `## Que sont les panneaux de verre surdimensionnés et qui en a besoin ?
 
@@ -17927,7 +18098,10 @@ Une feuille de verre trempé peut atteindre des dimensions maximales de 3 500 ×
 ### Pourquoi la trempe est-elle importante pour les espaces publics ?
 
 Le verre trempé, à la casse, se fragmente en petits granules sans arêtes vives, contrairement au verre float qui produit des éclats dangereux. C'est essentiel pour la sécurité dans les showrooms, magasins, restaurants et tout espace public à fort passage.
-`,
+
+---
+
+Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Tous les détails dans [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
       es: `## ¿Qué son los paneles de vidrio sobredimensionados y quién los necesita?
 
@@ -17980,7 +18154,10 @@ Una hoja de vidrio templado puede alcanzar dimensiones máximas de 3.500 × 8.00
 ### ¿Por qué es importante el templado para espacios públicos?
 
 El vidrio templado, al romperse, se fragmenta en gránulos pequeños sin aristas afiladas, a diferencia del vidrio float que produce esquirlas peligrosas. Esto es esencial para la seguridad en showrooms, tiendas, restaurantes y cualquier espacio público con alto tránsito de personas.
-`,
+
+---
+
+Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
       it: `## Cosa sono i pannelli di vetro sovradimensionati e chi ne ha bisogno?
 
@@ -18033,7 +18210,10 @@ Una lastra di vetro temperato può raggiungere dimensioni massime di 3.500 × 8.
 ### Perché la tempera è importante per gli spazi pubblici?
 
 Il vetro temperato, alla rottura, si frammenta in piccoli granuli senza bordi taglienti, a differenza del vetro float che produce schegge pericolose. Questo è essenziale per la sicurezza in showroom, negozi, ristoranti e qualsiasi spazio pubblico ad alto transito di persone.
-`,
+
+---
+
+Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilfov, da finestre e porte alle facciate continue. Scopri [la gamma di infissi in alluminio](/it/infissi-alluminio) o [richiedi un preventivo](/it/contatti). Tutti i dettagli in [la guida completa ai sistemi in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
@@ -18242,7 +18422,10 @@ O sticlă securizată de 10 mm cântărește 25 kg/mp, deci un panou de 3.000 ×
 ### Ce precizie e necesară la montajul geamurilor mari?
 
 Montajul panourilor de mari dimensiuni necesită o precizie ridicată — erorile de poziționare de 2-3 mm distrug etanșarea perimetrală. Robotul cu ventuze cu vid permite poziționarea milimetrică imposibil de atins manual, garantând o etanșare corectă și durabilă a panoului.
-`,
+
+---
+
+Neofort BIZ proiectează și montează tâmplărie din aluminiu Alumil în București și Ilfov, cu barieră termică și montaj cu echipe proprii. Vezi [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al tâmplăriei din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
 
       en: `## Why large glass cannot be installed manually
 
@@ -18308,7 +18491,10 @@ Toughened 10 mm glass weighs 25 kg/m², so a 3,000 × 4,000 mm panel reaches 300
 ### What precision is needed when fitting large glass?
 
 Fitting large panels requires high precision — positioning errors of 2-3 mm destroy the perimeter seal. The vacuum-suction robot allows millimetre positioning impossible to achieve by hand, guaranteeing a correct and durable seal of the panel.
-`,
+
+---
+
+Neofort BIZ designs and installs Alumil aluminium joinery in Bucharest and Ilfov, with thermal break and its own installation teams. See [the aluminium joinery](/en/aluminium-windows) we offer or [request a quote](/en/contact). See also [the complete aluminium joinery guide](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
       de: `## Warum Großglas nicht manuell montiert werden kann
 
@@ -18366,7 +18552,10 @@ Vorgespanntes 10-mm-Glas wiegt 25 kg/m², ein 3.000 × 4.000-mm-Paneel erreicht 
 ### Welche Präzision ist beim Einbau großer Gläser erforderlich?
 
 Der Einbau großer Paneele erfordert hohe Präzision — Positionierungsfehler von 2-3 mm zerstören die Randabdichtung. Der Vakuum-Saugroboter ermöglicht eine millimetergenaue Positionierung, die von Hand unmöglich ist, und garantiert eine korrekte und dauerhafte Abdichtung des Paneels.
-`,
+
+---
+
+Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit Wärmedämmbrücke und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber für Aluminiumfenster](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
       fr: `## Pourquoi le grand verre ne peut pas être posé manuellement
 
@@ -18424,7 +18613,10 @@ Le verre trempé de 10 mm pèse 25 kg/m², donc un panneau de 3 000 × 4 000 mm 
 ### Quelle précision faut-il pour la pose de grands verres ?
 
 La pose de grands panneaux nécessite une haute précision — des erreurs de positionnement de 2-3 mm détruisent l'étanchéité périmétrique. Le robot à ventouses à vide permet un positionnement au millimètre impossible à la main, garantissant une étanchéité correcte et durable du panneau.
-`,
+
+---
+
+Neofort BIZ conçoit et pose de la menuiserie aluminium Alumil à Bucarest et Ilfov, à rupture thermique et avec ses propres équipes. Voir [la menuiserie aluminium](/fr/menuiserie-aluminium) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet de la menuiserie aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
       es: `## Por qué el vidrio grande no se puede instalar manualmente
 
@@ -18481,7 +18673,10 @@ El vidrio templado de 10 mm pesa 25 kg/m², por lo que un panel de 3.000 × 4.00
 ### ¿Qué precisión se necesita al montar vidrios grandes?
 
 El montaje de paneles grandes requiere alta precisión — errores de posicionamiento de 2-3 mm destruyen el sellado perimetral. El robot de ventosas de vacío permite un posicionamiento milimétrico imposible a mano, garantizando un sellado correcto y duradero del panel.
-`,
+
+---
+
+Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico y equipos propios. Ver [la carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía completa de la carpintería de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
       it: `## Perché il vetro grande non può essere installato manualmente
 
@@ -18538,7 +18733,10 @@ Il vetro temperato da 10 mm pesa 25 kg/m², quindi un pannello di 3.000 × 4.000
 ### Quale precisione serve nel montaggio di grandi vetri?
 
 Il montaggio di grandi pannelli richiede alta precisione — errori di posizionamento di 2-3 mm distruggono la sigillatura perimetrale. Il robot a ventose a vuoto permette un posizionamento millimetrico impossibile a mano, garantendo una sigillatura corretta e durevole del pannello.
-`,
+
+---
+
+Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfov, a taglio termico e con squadre proprie. Vedi [i serramenti in alluminio](/it/infissi-alluminio) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa ai serramenti in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
@@ -18606,7 +18804,7 @@ Il montaggio di grandi pannelli richiede alta precisione — errori di posiziona
     content: {
       ro: `## Portofoliu Neofort BIZ — lucrări finalizate București 2025–2026
 
-Neofort BIZ este furnizor și coordonator de [montaj](/ro/servicii) pentru [tâmplărie aluminiu](/ro/tamplarie-aluminiu), pereți cortină și fațade din sticlă în București și Ilfov. Fiecare proiect prezentat mai jos a fost livrat integral de echipa noastră, de la măsurători și documentație până la montaj și recepție.
+Neofort BIZ este furnizor și coordonator de [montaj](/ro/servicii) pentru [tâmplărie aluminiu](/ro/tamplarie-aluminiu), pereți cortină și fațade din sticlă în București și Ilfov. Fiecare proiect prezentat mai jos a fost livrat integral de echipa noastră, de la măsurători și documentație până la montaj și recepție. Pentru context complet, citește [ghidul tâmplăriei din aluminiu cu barieră termică](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).
 
 ---
 
@@ -18787,7 +18985,10 @@ Yes. The portfolio includes new residential buildings in areas of intense constr
 ### What aluminium joinery colours are available on Neofort BIZ projects?
 
 Aluminium joinery can be electrostatically coated in any RAL colour. On residential projects, a frequent combination is RAL 7016 matt anthracite outside with white inside — the preferred finish for modern architecture in Bucharest.
-`,
+
+---
+
+Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
       de: `## Neofort BIZ Portfolio — abgeschlossene Projekte Bukarest 2025–2026
 
@@ -18844,7 +19045,10 @@ Ja. Das Portfolio umfasst neue Wohngebäude in Gebieten mit intensiver Bautätig
 ### Welche Aluminiumfarben sind bei Neofort-BIZ-Projekten verfügbar?
 
 Aluminiumprofile können elektrostatisch in jeder RAL-Farbe beschichtet werden. Bei Wohnprojekten ist eine häufige Kombination RAL 7016 Anthrazit matt außen mit Weiß innen — das bevorzugte Finish für moderne Architektur in Bukarest.
-`,
+
+---
+
+Neofort BIZ führt Aluminium- und Fassadenarbeiten in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
       fr: `## Portefeuille Neofort BIZ — projets achevés Bucarest 2025–2026
 
@@ -18901,7 +19105,10 @@ Oui. Le portfolio comprend des immeubles résidentiels neufs dans des zones à f
 ### Quelles couleurs de menuiserie aluminium sont disponibles sur les projets Neofort BIZ ?
 
 La menuiserie aluminium peut être thermolaquée dans toute couleur RAL. Sur les projets résidentiels, une combinaison fréquente est RAL 7016 anthracite mat à l'extérieur avec blanc à l'intérieur — la finition préférée pour l'architecture moderne à Bucarest.
-`,
+
+---
+
+Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
       es: `## Portafolio Neofort BIZ — proyectos completados Bucarest 2025–2026
 
@@ -18951,7 +19158,10 @@ Sí. El portafolio incluye edificios residenciales nuevos en zonas de intensa co
 ### ¿Qué colores de carpintería de aluminio están disponibles en los proyectos Neofort BIZ?
 
 La carpintería de aluminio puede lacarse electrostáticamente en cualquier color RAL. En proyectos residenciales, una combinación frecuente es RAL 7016 antracita mate al exterior con blanco al interior — el acabado preferido para la arquitectura moderna en Bucarest.
-`,
+
+---
+
+Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
       it: `## Portfolio Neofort BIZ — progetti completati Bucarest 2025–2026
 
@@ -19001,7 +19211,10 @@ Sì. Il portfolio include edifici residenziali nuovi in zone ad alta attività e
 ### Quali colori di serramenti in alluminio sono disponibili nei progetti Neofort BIZ?
 
 I serramenti in alluminio possono essere verniciati elettrostaticamente in qualsiasi colore RAL. Nei progetti residenziali, una combinazione frequente è RAL 7016 antracite opaco all'esterno con bianco all'interno — la finitura preferita per l'architettura moderna a Bucarest.
-`,
+
+---
+
+Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilfov, da finestre e porte alle facciate continue. Scopri [la gamma di infissi in alluminio](/it/infissi-alluminio) o [richiedi un preventivo](/it/contatti). Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
@@ -20735,13 +20948,16 @@ Neofort BIZ furnizează și montează uși din aluminiu Alumil pe întreg Sector
 ### Ce dimensiuni maxime poate avea o ușă batantă din aluminiu?
 
 O ușă batantă din aluminiu cu barieră termică poate ajunge la dimensiuni de până la 120 cm lățime și 250 cm înălțime per canat. Pentru deschideri mai mari se folosesc configurații cu 2 canate sau cu luminatoare laterale și superioare, integrate în același sistem.
-`,
+
+---
+
+Neofort BIZ execută lucrări de tâmplărie și fațade din aluminiu în București și Ilfov, de la ferestre și uși până la pereți cortină. Descoperă [gama de ferestre din aluminiu](/ro/tamplarie-aluminiu) sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al tâmplăriei din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
 
       en: `## Types of aluminium doors available in Sector 1 Bucharest
 
 Sector 1 concentrates the highest number of premium villas, luxury residences and office buildings in Bucharest. Requirements match: thermally broken doors, minimalist aesthetics, overheight dimensions and certified anti-burglary systems.
 
-Neofort BIZ supplies and [installs](/en/services) Alumil [aluminium doors](/en/aluminium-windows) throughout Sector 1, with offices at **11 Theodor Aman Pictor St., Sector 1, Bucharest**.
+Neofort BIZ supplies and [installs](/en/services) Alumil [aluminium doors](/en/aluminium-windows) throughout Sector 1, with offices at **11 Theodor Aman Pictor St., Sector 1, Bucharest**. See also [the complete aluminium joinery guide](/en/blog/aluminium-windows-thermal-break-complete-guide).
 
 ---
 
@@ -20800,7 +21016,7 @@ A hinged aluminium door with a thermal break can reach dimensions up to 120 cm w
 
       de: `## Arten von Aluminiumtüren in Sektor 1 Bukarest
 
-Sektor 1 konzentriert die meisten Premium-Villen, Luxusresidenzen und Bürogebäude in Bukarest. [Neofort BIZ](/de/dienstleistungen) liefert und installiert Alumil-[Aluminiumtüren](/de/aluminiumfenster) im gesamten Sektor 1, mit Büro in der **Str. Theodor Aman Pictor Nr. 11, Sektor 1, Bukarest**.
+Sektor 1 konzentriert die meisten Premium-Villen, Luxusresidenzen und Bürogebäude in Bukarest. [Neofort BIZ](/de/dienstleistungen) liefert und installiert Alumil-[Aluminiumtüren](/de/aluminiumfenster) im gesamten Sektor 1, mit Büro in der **Str. Theodor Aman Pictor Nr. 11, Sektor 1, Bukarest**. Siehe auch [den kompletten Ratgeber für Aluminiumfenster](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
 
 ---
 
@@ -20853,7 +21069,7 @@ Eine Aluminium-Drehtür mit thermischer Trennung kann Maße bis 120 cm Breite un
 
       fr: `## Types de portes en aluminium disponibles dans le Secteur 1 Bucarest
 
-Le Secteur 1 concentre le plus grand nombre de villas premium, de résidences de luxe et de bureaux à Bucarest. [Neofort BIZ](/fr/services) fournit et installe des portes [Alumil](/fr/menuiserie-aluminium) dans tout le Secteur 1, avec des bureaux au **11 rue Theodor Aman Pictor, Secteur 1, Bucarest**.
+Le Secteur 1 concentre le plus grand nombre de villas premium, de résidences de luxe et de bureaux à Bucarest. [Neofort BIZ](/fr/services) fournit et installe des portes [Alumil](/fr/menuiserie-aluminium) dans tout le Secteur 1, avec des bureaux au **11 rue Theodor Aman Pictor, Secteur 1, Bucarest**. Voir aussi [le guide complet de la menuiserie aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).
 
 ---
 
@@ -20906,7 +21122,7 @@ Une porte battante en aluminium à rupture thermique peut atteindre des dimensio
 
       es: `## Tipos de puertas de aluminio disponibles en el Sector 1 de Bucarest
 
-El Sector 1 concentra el mayor número de villas premium, residencias de lujo y edificios de oficinas de Bucarest. [Neofort BIZ](/es/servicios) suministra e instala puertas [Alumil](/es/carpinteria-aluminio) en todo el Sector 1, con oficinas en **C/ Theodor Aman Pictor 11, Sector 1, Bucarest**.
+El Sector 1 concentra el mayor número de villas premium, residencias de lujo y edificios de oficinas de Bucarest. [Neofort BIZ](/es/servicios) suministra e instala puertas [Alumil](/es/carpinteria-aluminio) en todo el Sector 1, con oficinas en **C/ Theodor Aman Pictor 11, Sector 1, Bucarest**. Ver también [la guía completa de la carpintería de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).
 
 ---
 
@@ -20959,7 +21175,7 @@ Una puerta abatible de aluminio con rotura térmica puede alcanzar dimensiones d
 
       it: `## Tipi di porte in alluminio disponibili nel Settore 1 di Bucarest
 
-Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e uffici a Bucarest. [Neofort BIZ](/it/servizi) fornisce e installa porte [Alumil](/it/infissi-alluminio) in tutto il Settore 1, con sede in **Via Theodor Aman Pictor 11, Settore 1, Bucarest**.
+Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e uffici a Bucarest. [Neofort BIZ](/it/servizi) fornisce e installa porte [Alumil](/it/infissi-alluminio) in tutto il Settore 1, con sede in **Via Theodor Aman Pictor 11, Settore 1, Bucarest**. Vedi anche [la guida completa ai serramenti in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).
 
 ---
 
@@ -22935,7 +23151,10 @@ Pentru case și vile din București și Ilfov se recomandă minimum clasa RC 3, 
 ### Cum elimină accesul biometric vulnerabilitatea cilindrilor clasici?
 
 Ușile antiefracție moderne combină protecția mecanică (construcție RC 2-RC 4) cu acces biometric — amprentă digitală, cod PIN sau card. Accesul biometric elimină cilindrul clasic, care e cel mai vulnerabil punct la forțare prin metode precum bumping sau picking.
-`,
+
+---
+
+Neofort BIZ proiectează și montează tâmplărie din aluminiu Alumil în București și Ilfov, cu barieră termică și montaj cu echipe proprii. Vezi [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [ghidul complet al sistemelor din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
 
       en: `## Why the entry door is the critical security point of any home
 
@@ -22986,7 +23205,10 @@ For houses and villas in Bucharest and Ilfov, at least class RC 3 is recommended
 ### How does biometric access remove the vulnerability of classic cylinders?
 
 Modern anti-burglary doors combine mechanical protection (RC 2-RC 4 construction) with biometric access — fingerprint, PIN code or card. Biometric access removes the classic cylinder, the most vulnerable point to forcing via methods such as bumping or picking.
-`,
+
+---
+
+Neofort BIZ designs and installs Alumil aluminium joinery in Bucharest and Ilfov, with thermal break and its own installation teams. See [the aluminium joinery](/en/aluminium-windows) we offer or [request a quote](/en/contact). All the details in [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
       de: `## Warum die Eingangstür der kritische Sicherheitspunkt jedes Hauses ist
 
@@ -23029,7 +23251,10 @@ Für Häuser und Villen in Bukarest und Ilfov wird mindestens Klasse RC 3 empfoh
 ### Wie beseitigt biometrischer Zugang die Schwachstelle klassischer Zylinder?
 
 Moderne Einbruchschutztüren kombinieren mechanischen Schutz (RC-2-RC-4-Konstruktion) mit biometrischem Zugang — Fingerabdruck, PIN-Code oder Karte. Biometrischer Zugang entfernt den klassischen Zylinder, den anfälligsten Punkt für Forcierung durch Methoden wie Bumping oder Picking.
-`,
+
+---
+
+Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit Wärmedämmbrücke und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details in [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
       fr: `## Pourquoi la porte d'entrée est le point de sécurité critique de toute habitation
 
@@ -23072,7 +23297,10 @@ Pour les maisons et villas de Bucarest et Ilfov, la classe RC 3 minimum est reco
 ### Comment l'accès biométrique élimine-t-il la vulnérabilité des cylindres classiques ?
 
 Les portes anti-effraction modernes combinent protection mécanique (construction RC 2-RC 4) et accès biométrique — empreinte digitale, code PIN ou carte. L'accès biométrique supprime le cylindre classique, le point le plus vulnérable au forçage par des méthodes comme le bumping ou le picking.
-`,
+
+---
+
+Neofort BIZ conçoit et pose de la menuiserie aluminium Alumil à Bucarest et Ilfov, à rupture thermique et avec ses propres équipes. Voir [la menuiserie aluminium](/fr/menuiserie-aluminium) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
       es: `## Por qué la puerta de entrada es el punto crítico de seguridad de cualquier hogar
 
@@ -23115,7 +23343,10 @@ Para casas y villas en Bucarest e Ilfov se recomienda mínimo la clase RC 3, que
 ### ¿Cómo elimina el acceso biométrico la vulnerabilidad de los cilindros clásicos?
 
 Las puertas antirrobo modernas combinan protección mecánica (construcción RC 2-RC 4) con acceso biométrico — huella digital, código PIN o tarjeta. El acceso biométrico elimina el cilindro clásico, el punto más vulnerable al forzado mediante métodos como bumping o picking.
-`,
+
+---
+
+Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico y equipos propios. Ver [la carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicita un presupuesto](/es/contacto). Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
       it: `## Perché la porta d'ingresso è il punto critico di sicurezza di ogni abitazione
 
@@ -23160,7 +23391,10 @@ Per case e ville a Bucarest e Ilfov si consiglia minimo la classe RC 3, che resi
 ### Come elimina l'accesso biometrico la vulnerabilità dei cilindri classici?
 
 Le porte antieffrazione moderne combinano protezione meccanica (costruzione RC 2-RC 4) con accesso biometrico — impronta digitale, codice PIN o carta. L'accesso biometrico elimina il cilindro classico, il punto più vulnerabile al forzamento con metodi come bumping o picking.
-`,
+
+---
+
+Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfov, a taglio termico e con squadre proprie. Vedi [i serramenti in alluminio](/it/infissi-alluminio) che offriamo o [richiedi un preventivo](/it/contatti). Tutti i dettagli in [la guida completa ai sistemi in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
