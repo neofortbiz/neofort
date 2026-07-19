@@ -431,7 +431,6 @@ export default async function ProductAluPage({ params }) {
     'brand': { '@type':'Brand', 'name':'Alumil' },
     'manufacturer': { '@type':'Organization', 'name':'Alumil S.A.', 'addressCountry':'GR' },
     'seller': { '@type':'Organization', 'name':'Neofort BIZ SRL', 'url':BASE },
-    'offers': { '@type':'Offer', 'priceCurrency':'RON', 'availability':'https://schema.org/InStock', 'url':`${BASE}/ro/contact`, 'priceSpecification':{'@type':'PriceSpecification','priceCurrency':'RON','description':'Preț la cerere — ofertă personalizată'}, 'seller':{'@type':'Organization','name':'Neofort BIZ SRL','url':BASE} },
     'additionalProperty': specs.map(([n,v]) => ({ '@type':'PropertyValue', 'name':n, 'value':v })),
   };
 

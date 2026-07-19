@@ -634,7 +634,6 @@ export default async function ProductPage({ params }) {
     'brand': { '@type':'Brand', 'name':'Salamander' },
     'manufacturer': { '@type':'Organization', 'name':'Salamander GmbH & Co. KG', 'addressCountry':'DE' },
     'seller': { '@type':'Organization', 'name':'Neofort BIZ SRL', 'url':BASE },
-    'offers': { '@type':'Offer', 'priceCurrency':'RON', 'availability':'https://schema.org/InStock', 'url':`${BASE}/ro/contact`, 'priceSpecification':{'@type':'PriceSpecification','priceCurrency':'RON','description':'Preț la cerere — ofertă personalizată'}, 'seller':{'@type':'Organization','name':'Neofort BIZ SRL','url':BASE} },
     'additionalProperty': specs.map(([n,v]) => ({ '@type':'PropertyValue', 'name':n, 'value':v })),
   };
 
