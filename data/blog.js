@@ -5935,20 +5935,20 @@ Lo nZEB, obbligatorio per nuove costruzioni dal 2021 e ristrutturazioni importan
     readTime: { ro:'8 min citire', en:'8 min read', de:'8 Min.', fr:'8 min', es:'8 min', it:'8 min' },
     category: { ro:'Sisteme Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:"Systèmes d'occultation", es:'Sistemas de sombreado', it:'Sistemi di oscuramento' },
     title: {
-      ro: 'Unde pot cumpăra jaluzele exterioare în București? Ghid complet 2026',
-      en: 'Where to Buy Exterior Blinds in Bucharest? Complete Guide 2026',
-      de: 'Wo kann ich Außenjalousien in Bukarest kaufen? Vollständiger Ratgeber 2026',
-      fr: 'Où acheter des stores extérieurs à Bucarest ? Guide complet 2026',
-      es: '¿Dónde comprar persianas exteriores en Bucarest? Guía completa 2026',
-      it: 'Dove comprare veneziane esterne a Bucarest? Guida completa 2026',
+      ro: 'Unde cumperi sisteme de umbrire exterioară în București? Ghid 2026',
+      en: 'Where to Buy Exterior Shading Systems in Bucharest? 2026 Guide',
+      de: 'Wo kaufe ich Außenbeschattungssysteme in Bukarest? Ratgeber 2026',
+      fr: 'Où acheter des systèmes d’occultation extérieure à Bucarest ? Guide 2026',
+      es: '¿Dónde comprar sistemas de sombreado exterior en Bucarest? Guía 2026',
+      it: 'Dove comprare sistemi di oscuramento esterno a Bucarest? Guida 2026',
     },
     metaDesc: {
-      ro: 'Jaluzele exterioare venetiene Raffstore în București și Ilfov — tipuri, prețuri, furnizori, montaj profesional. Tot ce trebuie să știi înainte să cumperi jaluzele exterioare în 2026.',
-      en: 'Exterior venetian blinds Raffstore in Bucharest and Ilfov — types, prices, suppliers, professional installation. Everything you need to know before buying exterior blinds in 2026.',
-      de: 'Außenjalousien Raffstore in Bukarest und Ilfov — Typen, Preise, Anbieter, professionelle Montage. Alles, was Sie vor dem Kauf von Außenjalousien 2026 wissen müssen.',
-      fr: "Stores vénitiens extérieurs Raffstore à Bucarest et Ilfov — types, prix, fournisseurs, pose professionnelle. Tout ce qu'il faut savoir avant d'acheter des stores extérieurs en 2026.",
-      es: 'Persianas venecianas exteriores Raffstore en Bucarest e Ilfov — tipos, precios, proveedores, instalación profesional. Todo lo que necesita saber antes de comprar persianas exteriores en 2026.',
-      it: 'Veneziane esterne Raffstore a Bucarest e Ilfov — tipi, prezzi, fornitori, installazione professionale. Tutto quello che devi sapere prima di acquistare veneziane esterne nel 2026.',
+      ro: 'Unde cumperi sisteme de umbrire exterioară în București: rulouri din aluminiu, ZipScreen, jaluzele Raffstore și pergole. Ce opțiuni există în 2026, prețuri orientative, automatizare Somfy și zone de montaj în București și Ilfov.',
+      en: 'Where to buy exterior shading systems in Bucharest: aluminium roller shutters, ZipScreen, Raffstore blinds and pergolas. What options exist in 2026, indicative prices, Somfy automation and installation areas in Bucharest and Ilfov.',
+      de: 'Wo Sie Außenbeschattungssysteme in Bukarest kaufen: Aluminiumrollläden, ZipScreen, Raffstore-Jalousien und Pergolen. Welche Optionen es 2026 gibt, Richtpreise, Somfy-Automatisierung und Montagegebiete in Bukarest und Ilfov.',
+      fr: "Où acheter des systèmes d’occultation extérieure à Bucarest : volets roulants aluminium, ZipScreen, stores Raffstore et pergolas. Quelles options en 2026, prix indicatifs, automatisation Somfy et zones de pose à Bucarest et Ilfov.",
+      es: 'Dónde comprar sistemas de sombreado exterior en Bucarest: persianas de aluminio, ZipScreen, venecianas Raffstore y pérgolas. Qué opciones existen en 2026, precios orientativos, automatización Somfy y zonas de montaje.',
+      it: 'Dove comprare sistemi di oscuramento esterno a Bucarest: tapparelle in alluminio, ZipScreen, veneziane Raffstore e pergole. Quali opzioni esistono nel 2026, prezzi indicativi, automazione Somfy e zone di installazione.',
     },
     excerpt: {
       ro: 'Cauți jaluzele exterioare în București? Ghid complet: jaluzele venetiene Raffstore vs rulouri exterioare, prețuri 2026, zone de livrare în Ilfov, montaj profesional și automatizare Somfy.',
@@ -6025,7 +6025,7 @@ Neofort BIZ furnizează și montează jaluzele exterioare în **toate sectoarele
 
 ---
 
-Neofort BIZ este distribuitor autorizat Somfy și montator certificat pentru sisteme de umbrire în București și Ilfov. Consultanță gratuită — [solicită ofertă](/ro/contact). Descoperă [sistemele de umbrire](/ro/umbrire) pe care le montăm.
+Neofort BIZ este distribuitor autorizat Somfy și montator certificat pentru sisteme de umbrire în București și Ilfov. Consultanță gratuită — [solicită ofertă](/ro/contact). Descoperă [sistemele de umbrire](/ro/umbrire) pe care le montăm. Vezi și [ghidul complet al sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet).
 
 ## Întrebări frecvente
 
@@ -6107,7 +6107,7 @@ Neofort BIZ supplies and installs exterior blinds in **all sectors of Bucharest*
 
 ---
 
-Neofort BIZ is an authorised Somfy distributor and certified installer for shading systems in Bucharest and Ilfov. Free consultation — [request a quote](/en/contact). Discover [the shading systems](/en/shading-systems) we install.
+Neofort BIZ is an authorised Somfy distributor and certified installer for shading systems in Bucharest and Ilfov. Free consultation — [request a quote](/en/contact). Discover [the shading systems](/en/shading-systems) we install. See also [the complete guide to exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide).
 
 ## Frequently Asked Questions
 
@@ -6189,7 +6189,7 @@ Neofort BIZ liefert und montiert Außenjalousien in **allen Stadtbezirken Bukare
 
 ---
 
-Neofort BIZ ist autorisierter Somfy-Händler und zertifizierter Installateur für Beschattungssysteme in Bukarest und Ilfov. Kostenlose Beratung — [Angebot anfordern](/de/kontakt). Entdecken Sie [die Beschattungssysteme](/de/beschattungssysteme), die wir montieren.
+Neofort BIZ ist autorisierter Somfy-Händler und zertifizierter Installateur für Beschattungssysteme in Bukarest und Ilfov. Kostenlose Beratung — [Angebot anfordern](/de/kontakt). Entdecken Sie [die Beschattungssysteme](/de/beschattungssysteme), die wir montieren. Siehe auch [den kompletten Ratgeber zu Außenbeschattungssystemen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden).
 
 ## Häufig gestellte Fragen
 
@@ -6271,7 +6271,7 @@ Neofort BIZ fournit et pose des stores extérieurs dans **tous les secteurs de B
 
 ---
 
-Neofort BIZ est distributeur agréé Somfy et installateur certifié pour les systèmes d'occultation à Bucarest et Ilfov. Conseil gratuit — [demander un devis](/fr/contact). Découvrez [les systèmes d’occultation](/fr/systemes-occultation) que nous posons.
+Neofort BIZ est distributeur agréé Somfy et installateur certifié pour les systèmes d'occultation à Bucarest et Ilfov. Conseil gratuit — [demander un devis](/fr/contact). Découvrez [les systèmes d’occultation](/fr/systemes-occultation) que nous posons. Voir aussi [le guide complet des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet).
 
 ## Questions fréquentes
 
@@ -6353,7 +6353,7 @@ Neofort BIZ suministra e instala persianas exteriores en **todos los sectores de
 
 ---
 
-Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Asesoramiento gratuito — [solicitar presupuesto](/es/contact). Descubre [los sistemas de sombreado](/es/sistemas-sombreado) que instalamos.
+Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Asesoramiento gratuito — [solicitar presupuesto](/es/contact). Descubre [los sistemas de sombreado](/es/sistemas-sombreado) que instalamos. Ver también [la guía completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa).
 
 ## Preguntas frecuentes
 
@@ -6435,7 +6435,7 @@ Neofort BIZ fornisce e installa veneziane esterne in **tutti i settori di Bucare
 
 ---
 
-Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi preventivo](/it/contact). Scopri [i sistemi di oscuramento](/it/sistemi-oscuramento) che montiamo.
+Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi preventivo](/it/contact). Scopri [i sistemi di oscuramento](/it/sistemi-oscuramento) che montiamo. Vedi anche [la guida completa ai sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).
 
 ## Domande frequenti
 
@@ -7762,7 +7762,10 @@ Da. Când lamelele de aluminiu sunt închise, formează un acoperiș etanș care
 ### Ce pergolă să aleg pentru terasa mea?
 
 Pergola bioclimatică e ideală pentru utilizare permanentă, terase folosite tot anul și buget mai mare. Pergola clasică cu pânză retractabilă (ex. Somfy Pergola RGS io) e potrivită pentru buget accesibil și terase folosite sezonier, oferind umbră flexibilă când e nevoie.
-`,
+
+---
+
+Neofort BIZ montează pergole bioclimatice și clasice, cu automatizare Somfy, în București și Ilfov. Află mai multe despre [rulourile și jaluzelele exterioare](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet).`,
       en: `## Bioclimatic vs classic pergola — what differences really matter?
 
 If you have a terrace and want to cover it, you will quickly encounter two main categories of pergolas: the **bioclimatic pergola** (with orientable aluminium louvres) and the **classic pergola** (with retractable fabric, manual or motorised). Both have clear advantages, but for different terraces.
@@ -7825,7 +7828,10 @@ Yes. When the aluminium slats are closed, they form a watertight roof that drain
 ### Which pergola should I choose for my terrace?
 
 A bioclimatic pergola is ideal for permanent use, terraces used year-round and a larger budget. A classic pergola with retractable fabric (e.g. Somfy Pergola RGS io) suits an affordable budget and seasonally used terraces, offering flexible shade when needed.
-`,
+
+---
+
+Neofort BIZ installs bioclimatic and classic pergolas, with Somfy automation, in Bucharest and Ilfov. Learn more about [the exterior roller shutters and blinds](/en/shading-systems) we offer or [request a quote](/en/contact). See also [the complete guide to exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide).`,
       de: `## Bioklimatische vs klassische Pergola — welche Unterschiede zählen wirklich?
 
 Beim Überdachen einer Terrasse begegnen Sie schnell zwei Hauptkategorien: der **bioklimatischen Pergola** (mit verstellbaren Aluminiumlamellen) und der **klassischen Pergola** (mit einziehbarem Markisentuch, manuell oder motorisiert).
@@ -7883,7 +7889,10 @@ Ja. Wenn die Aluminiumlamellen geschlossen sind, bilden sie ein wasserdichtes Da
 ### Welche Pergola soll ich für meine Terrasse wählen?
 
 Eine bioklimatische Pergola ist ideal für dauerhafte Nutzung, ganzjährig genutzte Terrassen und ein größeres Budget. Eine klassische Pergola mit einziehbarem Tuch (z. B. Somfy Pergola RGS io) passt zu einem erschwinglichen Budget und saisonal genutzten Terrassen und bietet flexiblen Schatten bei Bedarf.
-`,
+
+---
+
+Neofort BIZ montiert bioklimatische und klassische Pergolen mit Somfy-Automatisierung in Bukarest und Ilfov. Erfahren Sie mehr über [die Außenrollläden und Jalousien](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber zu Außenbeschattungssystemen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden).`,
       fr: `## Pergola bioclimatique vs pergola classique — quelles différences comptent vraiment ?
 
 Pour couvrir une terrasse, vous rencontrerez rapidement deux catégories : la **pergola bioclimatique** (à lames en aluminium orientables) et la **pergola classique** (à toile rétractable, manuelle ou motorisée).
@@ -7922,7 +7931,10 @@ Oui. Quand les lames en aluminium sont fermées, elles forment un toit étanche 
 ### Quelle pergola choisir pour ma terrasse ?
 
 Une pergola bioclimatique est idéale pour un usage permanent, des terrasses utilisées toute l'année et un budget plus élevé. Une pergola classique à toile rétractable (ex. Somfy Pergola RGS io) convient à un budget abordable et des terrasses à usage saisonnier, offrant de l'ombre flexible au besoin.
-`,
+
+---
+
+Neofort BIZ pose des pergolas bioclimatiques et classiques, avec automatisation Somfy, à Bucarest et Ilfov. En savoir plus sur [les volets et stores extérieurs](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet).`,
       es: `## Pérgola bioclimática vs pérgola clásica — ¿qué diferencias importan realmente?
 
 Para cubrir una terraza encontrará rápidamente dos categorías: la **pérgola bioclimática** (con lamas de aluminio orientables) y la **pérgola clásica** (con tela retráctil, manual o motorizada).
@@ -7961,7 +7973,10 @@ Sí. Cuando las lamas de aluminio están cerradas, forman un techo estanco que e
 ### ¿Qué pérgola elegir para mi terraza?
 
 Una pérgola bioclimática es ideal para uso permanente, terrazas usadas todo el año y un presupuesto mayor. Una pérgola clásica con lona retráctil (ej. Somfy Pergola RGS io) conviene a un presupuesto asequible y terrazas de uso estacional, ofreciendo sombra flexible cuando se necesita.
-`,
+
+---
+
+Neofort BIZ instala pérgolas bioclimáticas y clásicas, con automatización Somfy, en Bucarest e Ilfov. Más información sobre [las persianas y estores exteriores](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa).`,
       it: `## Pergola bioclimatica vs pergola classica — quali differenze contano davvero?
 
 Per coprire una terrazza incontrerete rapidamente due categorie: la **pergola bioclimatica** (con lamelle in alluminio orientabili) e la **pergola classica** (con telo retrattile, manuale o motorizzato).
@@ -8000,7 +8015,10 @@ Sì. Quando le lamelle in alluminio sono chiuse, formano un tetto impermeabile c
 ### Quale pergola scegliere per il mio terrazzo?
 
 Una pergola bioclimatica è ideale per uso permanente, terrazzi usati tutto l'anno e un budget maggiore. Una pergola classica con telo retrattile (es. Somfy Pergola RGS io) è adatta a un budget accessibile e terrazzi a uso stagionale, offrendo ombra flessibile quando serve.
-`,
+
+---
+
+Neofort BIZ installa pergole bioclimatiche e classiche, con automazione Somfy, a Bucarest e Ilfov. Scopri di più su [le tapparelle e veneziane esterne](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa ai sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).`,
     },
   },
   {
@@ -9730,7 +9748,10 @@ Raffstore se acționează manual (snur sau tijă), electric (motor 24V sau 230V)
 ### Ce sistem de umbrire să aleg pentru control fin al luminii?
 
 Pentru control fin al luminii și vederii, alege Raffstore: poți avea jaluzeaua coborâtă cu lamelele la 45°, lăsând lumina difuză să intre în timp ce vederea directă din exterior e blocată și soarele direct eliminat. Pentru întuneric total (dormitor), rulourile de aluminiu sunt mai potrivite.
-`,
+
+---
+
+Neofort BIZ montează atât jaluzele Raffstore, cât și rulouri exterioare din aluminiu în București și Ilfov, cu automatizare Somfy opțională. Vezi [sistemele de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Pentru context complet, citește [ghidul sistemelor de umbrire — ZipScreen, rulouri, Raffstore, pergole](/ro/blog/zipscreen-umbrire-terasa-ghid-complet).`,
 
       en: `## Why Does the Shading System Matter?
 
@@ -9856,7 +9877,10 @@ Raffstore are operated manually (cord or rod), electrically (24V or 230V motor) 
 ### Which shading system should I choose for fine light control?
 
 For fine control of light and view, choose Raffstore: you can have the blind lowered with slats at 45°, letting diffuse light in while blocking the direct outside view and eliminating direct sun. For total darkness (bedroom), aluminium roller shutters are more suitable.
-`,
+
+---
+
+Neofort BIZ installs both Raffstore blinds and aluminium roller shutters in Bucharest and Ilfov, with optional Somfy automation. See [the shading systems](/en/shading-systems) we offer or [request a quote](/en/contact). For the full context, read [the shading systems guide — ZipScreen, shutters, Raffstore, pergolas](/en/blog/zipscreen-terrace-shading-complete-guide).`,
 
       de: `## Warum ist das Beschattungssystem so wichtig?
 
@@ -9982,7 +10006,10 @@ Raffstore werden manuell (Schnur oder Stab), elektrisch (24V- oder 230V-Motor) o
 ### Welches Beschattungssystem soll ich für feine Lichtsteuerung wählen?
 
 Für feine Steuerung von Licht und Sicht wählen Sie Raffstore: Sie können die Jalousie herabgelassen mit Lamellen auf 45° haben, diffuses Licht hereinlassen, während die direkte Außensicht blockiert und die direkte Sonne eliminiert wird. Für totale Dunkelheit (Schlafzimmer) sind Aluminium-Rollläden geeigneter.
-`,
+
+---
+
+Neofort BIZ montiert sowohl Raffstore-Jalousien als auch Aluminiumrollläden in Bukarest und Ilfov, mit optionaler Somfy-Automatisierung. Sehen Sie [die Beschattungssysteme](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Beschattungssysteme-Ratgeber — ZipScreen, Rollläden, Raffstore, Pergolen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden).`,
 
       fr: `## Pourquoi le système d'ombrage est-il si important ?
 
@@ -10108,7 +10135,10 @@ Les Raffstore s'actionnent manuellement (cordon ou tige), électriquement (moteu
 ### Quel système d'occultation choisir pour un contrôle fin de la lumière ?
 
 Pour un contrôle fin de la lumière et de la vue, choisissez Raffstore : vous pouvez avoir le store baissé avec les lames à 45°, laissant entrer la lumière diffuse tout en bloquant la vue directe de l'extérieur et en éliminant le soleil direct. Pour l'obscurité totale (chambre), les volets roulants aluminium conviennent mieux.
-`,
+
+---
+
+Neofort BIZ pose aussi bien des stores Raffstore que des volets roulants en aluminium à Bucarest et Ilfov, avec automatisation Somfy en option. Voir [les systèmes d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide des systèmes d’occultation — ZipScreen, volets, Raffstore, pergolas](/fr/blog/zipscreen-ombriere-terrasse-guide-complet).`,
 
       es: `## ¿Por qué es tan importante el sistema de sombreado?
 
@@ -10234,7 +10264,10 @@ Las Raffstore se accionan manualmente (cordón o varilla), eléctricamente (moto
 ### ¿Qué sistema de sombreado elegir para control fino de la luz?
 
 Para control fino de luz y vista, elige Raffstore: puedes tener la persiana bajada con las lamas a 45°, dejando entrar luz difusa mientras bloqueas la vista directa desde el exterior y eliminas el sol directo. Para oscuridad total (dormitorio), las enrollables de aluminio son más adecuadas.
-`,
+
+---
+
+Neofort BIZ instala tanto venecianas Raffstore como persianas enrollables de aluminio en Bucarest e Ilfov, con automatización Somfy opcional. Ver [los sistemas de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía de sistemas de sombreado — ZipScreen, persianas, Raffstore, pérgolas](/es/blog/zipscreen-sombreado-terraza-guia-completa).`,
 
       it: `## Perché il sistema di ombreggiamento è così importante?
 
@@ -10360,7 +10393,10 @@ Le Raffstore si azionano manualmente (cordino o asta), elettricamente (motore 24
 ### Quale sistema di schermatura scegliere per un controllo fine della luce?
 
 Per un controllo fine di luce e vista, scegli Raffstore: puoi avere la tenda abbassata con le lamelle a 45°, lasciando entrare luce diffusa mentre blocchi la vista diretta dall'esterno ed elimini il sole diretto. Per il buio totale (camera da letto), le tapparelle in alluminio sono più adatte.
-`,
+
+---
+
+Neofort BIZ installa sia veneziane Raffstore che tapparelle in alluminio a Bucarest e Ilfov, con automazione Somfy opzionale. Vedi [i sistemi di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Per il contesto completo, leggi [la guida ai sistemi di oscuramento — ZipScreen, tapparelle, Raffstore, pergole](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).`,
     },
   },
 
@@ -12585,28 +12621,28 @@ La facciata continua standard, la più accessibile, ha profilo visibile con copr
     imageLabel: 'Zipscreen ZIP',
     accentColor: '#3a7a3a',
     title: {
-      ro: 'Zipscreen — ghid complet 2026: blackout vs screen, prețuri și comparație cu rulouri exterioare',
-      en: 'Zipscreen — complete guide 2026: blackout vs screen, prices and comparison with roller shutters',
-      de: 'Zipscreen — Komplettleitfaden 2026: Blackout vs Screen, Preise und Vergleich mit Rollläden',
-      fr: 'Zipscreen — guide complet 2026 : blackout vs screen, prix et comparaison avec volets roulants',
-      es: 'Zipscreen — guía completa 2026: blackout vs screen, precios y comparación con persianas enrollables',
-      it: 'Zipscreen — guida completa 2026: blackout vs screen, prezzi e confronto con tapparelle',
+      ro: 'Sisteme de umbrire exterioară — ghid 2026: ZipScreen, rulouri, Raffstore, pergole',
+      en: 'Exterior shading systems — 2026 guide: ZipScreen, roller shutters, Raffstore, pergolas',
+      de: 'Außenbeschattungssysteme — Ratgeber 2026: ZipScreen, Rollläden, Raffstore, Pergolen',
+      fr: 'Systèmes d’occultation extérieure — guide 2026 : ZipScreen, volets, Raffstore, pergolas',
+      es: 'Sistemas de sombreado exterior — guía 2026: ZipScreen, persianas, Raffstore, pérgolas',
+      it: 'Sistemi di oscuramento esterno — guida 2026: ZipScreen, tapparelle, Raffstore, pergole',
     },
     excerpt: {
-      ro: 'Zipscreen este singurul sistem de umbrire textil exterior în care materialul rămâne perfect tensionat la vânt — datorită fermoarului ZIP din aluminiu. Ghid complet: diferența dintre blackout și screen, cum se compară cu rulourile exterioare clasice și cu jaluzelele Raffstore, ce prețuri să aștepți și pentru ce situații este potrivit fiecare.',
-      en: 'Zipscreen is the only exterior textile shading system where the fabric stays perfectly tensioned in wind — thanks to the aluminium ZIP fastener. Complete guide: difference between blackout and screen, how it compares with classic roller shutters and Raffstore blinds, what prices to expect and which situations suit each.',
-      de: 'Zipscreen ist das einzige textile Außenbeschattungssystem, bei dem das Gewebe windbeständig gespannt bleibt — dank dem Aluminium-ZIP-Reißverschluss. Komplettleitfaden: Unterschied zwischen Blackout und Screen, Vergleich mit klassischen Rollläden und Raffstore-Jalousien, Preise und geeignete Situationen.',
-      fr: 'Zipscreen est le seul système d\'occultation textile extérieur où le tissu reste parfaitement tendu par vent — grâce à la fermeture ZIP en aluminium. Guide complet : différence entre blackout et screen, comparaison avec volets roulants classiques et stores Raffstore, prix et situations appropriées.',
-      es: 'Zipscreen es el único sistema de sombreado textil exterior donde el tejido permanece perfectamente tensado con viento — gracias al cierre ZIP de aluminio. Guía completa: diferencia entre blackout y screen, comparación con persianas enrollables clásicas y Raffstore, precios y situaciones adecuadas.',
-      it: `Zipscreen è l'unico sistema di oscuramento tessile esterno dove il tessuto rimane perfettamente teso con il vento — grazie alla chiusura ZIP in alluminio. Guida completa: differenza tra blackout e screen, confronto con tapparelle classiche e veneziane Raffstore, prezzi e situazioni appropriate.`,
+      ro: 'Care sistem de umbrire exterioară ți se potrivește: ZipScreen, rulouri din aluminiu, jaluzele Raffstore sau pergolă? Ghid complet cu comparații directe, diferența blackout vs screen, prețuri orientative și automatizare Somfy.',
+      en: 'Which exterior shading system suits you: ZipScreen, aluminium roller shutters, Raffstore blinds or a pergola? A complete guide with direct comparisons, blackout vs screen, indicative prices and Somfy automation.',
+      de: 'Welches Außenbeschattungssystem passt zu Ihnen: ZipScreen, Aluminiumrollläden, Raffstore-Jalousien oder Pergola? Ein kompletter Ratgeber mit direkten Vergleichen, Blackout vs Screen, Richtpreisen und Somfy-Automatisierung.',
+      fr: 'Quel système d’occultation extérieure vous convient : ZipScreen, volets roulants aluminium, stores Raffstore ou pergola ? Un guide complet avec comparaisons directes, blackout vs screen, prix indicatifs et automatisation Somfy.',
+      es: '¿Qué sistema de sombreado exterior te conviene: ZipScreen, persianas de aluminio, venecianas Raffstore o pérgola? Una guía completa con comparaciones directas, blackout vs screen, precios orientativos y automatización Somfy.',
+      it: `Quale sistema di oscuramento esterno fa per te: ZipScreen, tapparelle in alluminio, veneziane Raffstore o pergola? Una guida completa con confronti diretti, blackout vs screen, prezzi indicativi e automazione Somfy.`,
     },
     metaDesc: {
-      ro: 'Ghid complet Zipscreen 2026: ce este, blackout vs screen, comparație cu rulouri exterioare aluminiu și Raffstore, prețuri 225–450 EUR/mp, montaj terase și pergole București.',
-      en: 'Complete Zipscreen guide 2026: what it is, blackout vs screen, comparison with aluminium roller shutters and Raffstore, prices 225–450 EUR/m², installation for terraces and pergolas Bucharest.',
-      de: 'Zipscreen Komplettleitfaden 2026: Was ist es, Blackout vs Screen, Vergleich mit Aluminiumrollläden und Raffstore, Preise 225–450 EUR/m², Montage für Terrassen und Pergolen.',
-      fr: 'Guide complet Zipscreen 2026 : qu\'est-ce que c\'est, blackout vs screen, comparaison avec volets roulants aluminium et Raffstore, prix 225–450 EUR/m², installation terrasses et pergolas.',
-      es: 'Guía completa Zipscreen 2026: qué es, blackout vs screen, comparación con persianas aluminio y Raffstore, precios 225–450 EUR/m², instalación terrazas y pérgolas.',
-      it: `Guida completa Zipscreen 2026: cos'è, blackout vs screen, confronto con tapparelle alluminio e Raffstore, prezzi 225–450 EUR/m², installazione terrazze e pergole.`,
+      ro: 'Ghid complet al sistemelor de umbrire exterioară în 2026: ZipScreen, rulouri din aluminiu, jaluzele Raffstore și pergole. Comparații directe, diferența blackout vs screen, automatizare Somfy și cum alegi sistemul potrivit pentru casa ta.',
+      en: 'Complete guide to exterior shading systems in 2026: ZipScreen, aluminium roller shutters, Raffstore blinds and pergolas. Direct comparisons, blackout vs screen, Somfy automation and how to choose the right system for your home.',
+      de: 'Kompletter Ratgeber zu Außenbeschattungssystemen 2026: ZipScreen, Aluminiumrollläden, Raffstore-Jalousien und Pergolen. Direkte Vergleiche, Blackout vs Screen, Somfy-Automatisierung und wie Sie das richtige System wählen.',
+      fr: 'Guide complet des systèmes d’occultation extérieure en 2026 : ZipScreen, volets roulants aluminium, stores Raffstore et pergolas. Comparaisons directes, blackout vs screen, automatisation Somfy et comment choisir.',
+      es: 'Guía completa de los sistemas de sombreado exterior en 2026: ZipScreen, persianas de aluminio, venecianas Raffstore y pérgolas. Comparaciones directas, blackout vs screen, automatización Somfy y cómo elegir.',
+      it: `Guida completa ai sistemi di oscuramento esterno nel 2026: ZipScreen, tapparelle in alluminio, veneziane Raffstore e pergole. Confronti diretti, blackout vs screen, automazione Somfy e come scegliere.`,
     },
     keywords: 'zipscreen, zipscreen pret, zipscreen terasa, zipscreen blackout, zipscreen screen transparent, rulou textil exterior zip, umbrire terasa 2026, zipscreen vs rulouri exterioare, zipscreen vs raffstore, zipscreen somfy, zipscreen pergola, zipscreen balcon',
     content: {
@@ -12619,6 +12655,20 @@ Un rulou exterior clasic — chiar și din [aluminiu](/ro/tamplarie-aluminiu) �
 Aceasta este diferența care justifică prețul superior față de un rulou clasic și care face din Zipscreen singura soluție textilă viabilă pentru terase deschise, pergole și fațade expuse.
 
 ---
+
+## Cele patru sisteme de umbrire exterioară — care ți se potrivește
+
+Înainte de a intra în detaliile ZipScreen, merită să știi ce alternative ai. În România se montează patru tipuri principale de protecție solară exterioară, fiecare cu punctele lui forte:
+
+**Rulourile exterioare din aluminiu** sunt cele mai răspândite: lamele rigide, izolare termică și fonică bună, întuneric complet și un plus de securitate. Sunt alegerea clasică pentru dormitoare și ferestre expuse la stradă.
+
+**Jaluzelele venețiene exterioare (Raffstore)** au lamele orientabile, deci îți dau control fin asupra luminii: poți umbri fără să întuneci complet camera. Comparația detaliată dintre cele două o găsești în [Jaluzele Raffstore vs rulouri exterioare din aluminiu](/ro/blog/jaluzele-raffstore-vs-rulouri-aluminiu).
+
+**ZipScreen** — sistemul pe care îl detaliem în acest ghid — folosește o țesătură tehnică ghidată în fermoar lateral, rezistentă la vânt, ideală pentru terase și suprafețe vitrate mari. Poate fi transparent (păstrează vederea) sau blackout (întuneric total): diferența practică e explicată în [ZipScreen blackout sau transparent — cum alegi](/ro/blog/rulouri-zipscreen-blackout-sau-transparent-cum-alegi).
+
+**Pergolele** sunt soluția pentru terase și grădini, unde nu umbrești o fereastră, ci un spațiu exterior întreg. Diferența dintre cele bioclimatice (cu lamele orientabile) și cele clasice e detaliată în [Pergolă bioclimatică vs clasică](/ro/blog/pergola-bioclimatica-vs-clasica-ghid-alegere).
+
+Dacă vrei să vezi direct ce opțiuni și prețuri există pe piața din București, citește și [Unde cumperi sisteme de umbrire în București](/ro/blog/unde-cumpar-jaluzele-exterioare-bucuresti).
 
 ## Blackout sau Screen — care este diferența reală
 
@@ -12703,7 +12753,7 @@ Zipscreen se poate acționa manual (cu manivelă) sau electric. Motorul electric
 
 Costul motorului Somfy față de varianta manuală: +150–250 EUR per unitate. Recomandăm întotdeauna varianta electrică — senzorul de vânt singur justifică diferența de preț.
 
----
+--- Detalii pe fiecare tip de automatizare găsești în [motoare Somfy pentru rulouri exterioare](/ro/blog/somfy-rulouri-motoare-exterioare), [automatizarea pergolelor și copertinelor](/ro/blog/somfy-automatizare-pergole-copertine) și [integrarea în smart home cu Somfy TaHoma](/ro/blog/somfy-tahoma-smart-home-romania).
 
 ## Prețuri orientative Zipscreen 2026
 
@@ -12756,6 +12806,20 @@ A classic exterior roller shutter — even [aluminium](/en/aluminium-windows) �
 This is the difference that justifies the higher price versus a classic roller and makes Zipscreen the only viable textile solution for open terraces, pergolas and exposed facades.
 
 ---
+
+## The four exterior shading systems — which one suits you
+
+Before going into ZipScreen details, it is worth knowing what alternatives you have. Four main types of exterior solar protection are installed, each with its own strengths:
+
+**Aluminium roller shutters** are the most widespread: rigid slats, good thermal and acoustic insulation, complete darkness and added security. They are the classic choice for bedrooms and street-facing windows.
+
+**Exterior venetian blinds (Raffstore)** have tiltable slats, giving you fine control over light: you can shade without darkening the room completely. The detailed comparison between the two is in [Raffstore blinds vs aluminium roller shutters](/en/blog/raffstore-blinds-vs-aluminium-shutters).
+
+**ZipScreen** — the system detailed in this guide — uses a technical fabric guided in a lateral zip, wind-resistant, ideal for terraces and large glazed areas. It can be transparent (keeps the view) or blackout (total darkness): the practical difference is explained in [ZipScreen blackout or transparent — how to choose](/en/blog/zipscreen-blinds-blackout-or-transparent-how-to-choose).
+
+**Pergolas** are the solution for terraces and gardens, where you are not shading a window but an entire outdoor space. The difference between bioclimatic ones (with tiltable louvres) and classic ones is detailed in [Bioclimatic vs classic pergola](/en/blog/bioclimatic-vs-classic-pergola-guide).
+
+If you want to see directly what options and prices exist on the Bucharest market, also read [Where to buy shading systems in Bucharest](/en/blog/where-to-buy-exterior-blinds-bucharest). Details on each type of automation are in [Somfy motors for roller shutters](/en/blog/somfy-shutter-motors), [pergola and awning automation](/en/blog/somfy-pergola-awning-automation) and [smart home integration with Somfy TaHoma](/en/blog/somfy-tahoma-smart-home-bucharest).
 
 ## Blackout or Screen — the real difference
 
@@ -12839,6 +12903,20 @@ Ein klassischer Außenrollladen — auch aus [Aluminium](/de/aluminiumfenster) �
 
 ---
 
+## Die vier Außenbeschattungssysteme — welches passt zu Ihnen
+
+Bevor wir auf ZipScreen-Details eingehen, lohnt es sich zu wissen, welche Alternativen Sie haben. Es werden vier Haupttypen des äußeren Sonnenschutzes montiert, jeder mit eigenen Stärken:
+
+**Aluminiumrollläden** sind am weitesten verbreitet: starre Lamellen, gute Wärme- und Schalldämmung, vollständige Dunkelheit und zusätzliche Sicherheit. Sie sind die klassische Wahl für Schlafzimmer und straßenseitige Fenster.
+
+**Außenjalousien (Raffstore)** haben verstellbare Lamellen und geben Ihnen feine Kontrolle über das Licht: Sie können beschatten, ohne den Raum vollständig zu verdunkeln. Den detaillierten Vergleich finden Sie in [Raffstore-Jalousien vs Aluminiumrollläden](/de/blog/raffstore-jalousien-vs-aluminiumrolllaeden).
+
+**ZipScreen** — das in diesem Ratgeber behandelte System — verwendet ein technisches Gewebe, das in einem seitlichen Reißverschluss geführt wird, windbeständig, ideal für Terrassen und große Glasflächen. Es kann transparent (erhält die Sicht) oder Blackout (völlige Dunkelheit) sein: der praktische Unterschied wird in [ZipScreen Blackout oder transparent — wie wählen](/de/blog/zipscreen-rollos-blackout-oder-transparent-wie-waehlen) erklärt.
+
+**Pergolen** sind die Lösung für Terrassen und Gärten, wo Sie kein Fenster, sondern einen ganzen Außenbereich beschatten. Der Unterschied zwischen bioklimatischen (mit verstellbaren Lamellen) und klassischen wird in [Bioklimatische vs klassische Pergola](/de/blog/bioklimatische-vs-klassische-pergola-ratgeber) erläutert.
+
+Wenn Sie direkt sehen möchten, welche Optionen und Preise es auf dem Bukarester Markt gibt, lesen Sie auch [Wo kaufe ich Beschattungssysteme in Bukarest](/de/blog/wo-kaufe-ich-aussenjalousien-bukarest). Details zu jeder Automatisierungsart finden Sie in [Somfy-Motoren für Rollläden](/de/blog/somfy-rolllaeden-motoren), [Pergola- und Markisenautomatisierung](/de/blog/somfy-pergola-markisen-automatisierung) und [Smart-Home-Integration mit Somfy TaHoma](/de/blog/somfy-tahoma-smart-home-bukarest).
+
 ## Blackout oder Screen — der echte Unterschied
 
 ### Zipscreen Blackout (opak)
@@ -12907,6 +12985,20 @@ Un store extérieur classique — même en [aluminium](/fr/menuiserie-aluminium)
 
 ---
 
+## Les quatre systèmes d’occultation extérieure — lequel vous convient
+
+Avant d’entrer dans les détails du ZipScreen, il vaut la peine de savoir quelles alternatives existent. Quatre types principaux de protection solaire extérieure sont posés, chacun avec ses points forts :
+
+**Les volets roulants en aluminium** sont les plus répandus : lames rigides, bonne isolation thermique et acoustique, obscurité complète et sécurité accrue. C’est le choix classique pour les chambres et les fenêtres donnant sur la rue.
+
+**Les stores vénitiens extérieurs (Raffstore)** ont des lames orientables, ce qui vous donne un contrôle fin de la lumière : vous pouvez ombrager sans assombrir complètement la pièce. La comparaison détaillée se trouve dans [Stores Raffstore vs volets roulants aluminium](/fr/blog/stores-raffstore-vs-volets-roulants-aluminium).
+
+**Le ZipScreen** — le système détaillé dans ce guide — utilise une toile technique guidée dans une fermeture éclair latérale, résistante au vent, idéale pour les terrasses et grandes surfaces vitrées. Il peut être transparent (préserve la vue) ou occultant (obscurité totale) : la différence pratique est expliquée dans [ZipScreen occultant ou transparent — comment choisir](/fr/blog/stores-zipscreen-occultant-ou-transparent-comment-choisir).
+
+**Les pergolas** sont la solution pour terrasses et jardins, où vous n’ombragez pas une fenêtre mais tout un espace extérieur. La différence entre bioclimatiques (à lames orientables) et classiques est détaillée dans [Pergola bioclimatique vs classique](/fr/blog/pergola-bioclimatique-vs-classique-guide).
+
+Si vous voulez voir directement quelles options et quels prix existent sur le marché de Bucarest, lisez aussi [Où acheter des systèmes d’occultation à Bucarest](/fr/blog/ou-acheter-stores-exterieurs-bucarest). Les détails sur chaque type d’automatisation se trouvent dans [moteurs Somfy pour volets roulants](/fr/blog/somfy-moteurs-volets), [automatisation des pergolas et stores](/fr/blog/somfy-automatisation-pergola-store) et [intégration domotique avec Somfy TaHoma](/fr/blog/somfy-tahoma-maison-connectee-bucarest).
+
 ## Blackout ou Screen — la vraie différence
 
 ### Zipscreen Blackout (opaque)
@@ -12973,6 +13065,20 @@ Una persiana exterior clásica — incluso de [aluminio](/es/carpinteria-alumini
 
 ---
 
+## Los cuatro sistemas de sombreado exterior — cuál te conviene
+
+Antes de entrar en los detalles del ZipScreen, vale la pena saber qué alternativas existen. Se instalan cuatro tipos principales de protección solar exterior, cada uno con sus puntos fuertes:
+
+**Las persianas enrollables de aluminio** son las más extendidas: lamas rígidas, buen aislamiento térmico y acústico, oscuridad completa y seguridad añadida. Son la elección clásica para dormitorios y ventanas que dan a la calle.
+
+**Las venecianas exteriores (Raffstore)** tienen lamas orientables, lo que te da un control fino de la luz: puedes dar sombra sin oscurecer completamente la habitación. La comparación detallada está en [Venecianas Raffstore vs persianas de aluminio](/es/blog/persianas-raffstore-vs-cierres-enrollables-aluminio).
+
+**El ZipScreen** — el sistema detallado en esta guía — usa un tejido técnico guiado en una cremallera lateral, resistente al viento, ideal para terrazas y grandes superficies acristaladas. Puede ser transparente (mantiene la vista) o blackout (oscuridad total): la diferencia práctica se explica en [ZipScreen blackout o transparente — cómo elegir](/es/blog/persianas-zipscreen-blackout-o-transparente-como-elegir).
+
+**Las pérgolas** son la solución para terrazas y jardines, donde no das sombra a una ventana sino a todo un espacio exterior. La diferencia entre las bioclimáticas (con lamas orientables) y las clásicas se detalla en [Pérgola bioclimática vs clásica](/es/blog/pergola-bioclimatica-vs-clasica-guia).
+
+Si quieres ver directamente qué opciones y precios existen en el mercado de Bucarest, lee también [Dónde comprar sistemas de sombreado en Bucarest](/es/blog/donde-comprar-persianas-exteriores-bucarest). Los detalles de cada tipo de automatización están en [motores Somfy para persianas](/es/blog/somfy-motores-persianas), [automatización de pérgolas y toldos](/es/blog/somfy-automatizacion-pergola-toldo) e [integración smart home con Somfy TaHoma](/es/blog/somfy-tahoma-hogar-inteligente-bucarest).
+
 ## Blackout o Screen — la diferencia real
 
 ### Zipscreen Blackout (opaco)
@@ -13036,6 +13142,20 @@ A prima vista, [Zipscreen](/it/sistemi-oscuramento) sembra una tapparella estern
 Una tapparella esterna classica — anche in [alluminio](/it/infissi-alluminio) — ha i bordi del tessuto liberi nelle guide. Con il vento, il tessuto si gonfia, svolazza e può uscire dalle rotaie. **Zipscreen risolve questo con la chiusura ZIP**: i bordi del tessuto sono meccanicamente bloccati in un profilo in alluminio a U, esattamente come la zip di una giacca. Il tessuto non può uscire dalle guide indipendentemente dall'intensità del vento — sistema testato e certificato **Classe 6 Beaufort, fino a 88 km/h**.
 
 ---
+
+## I quattro sistemi di oscuramento esterno — quale fa per te
+
+Prima di entrare nei dettagli dello ZipScreen, vale la pena sapere quali alternative esistono. Si installano quattro tipi principali di protezione solare esterna, ciascuno con i suoi punti di forza:
+
+**Le tapparelle in alluminio** sono le più diffuse: stecche rigide, buon isolamento termico e acustico, oscurità completa e sicurezza aggiuntiva. Sono la scelta classica per camere da letto e finestre esposte sulla strada.
+
+**Le veneziane esterne (Raffstore)** hanno lamelle orientabili, che ti danno un controllo fine della luce: puoi ombreggiare senza oscurare completamente la stanza. Il confronto dettagliato si trova in [Veneziane Raffstore vs tapparelle in alluminio](/it/blog/veneziane-raffstore-vs-tapparelle-alluminio).
+
+**Lo ZipScreen** — il sistema dettagliato in questa guida — usa un tessuto tecnico guidato in una cerniera laterale, resistente al vento, ideale per terrazze e grandi superfici vetrate. Può essere trasparente (mantiene la vista) o oscurante (buio totale): la differenza pratica è spiegata in [ZipScreen oscurante o trasparente — come scegliere](/it/blog/tende-zipscreen-oscuranti-o-trasparenti-come-scegliere).
+
+**Le pergole** sono la soluzione per terrazze e giardini, dove non ombreggi una finestra ma un intero spazio esterno. La differenza tra quelle bioclimatiche (a lamelle orientabili) e quelle classiche è dettagliata in [Pergola bioclimatica vs classica](/it/blog/pergola-bioclimatica-vs-classica-guida).
+
+Se vuoi vedere direttamente quali opzioni e prezzi esistono sul mercato di Bucarest, leggi anche [Dove comprare sistemi di oscuramento a Bucarest](/it/blog/dove-comprare-veneziane-esterne-bucarest). I dettagli su ogni tipo di automazione sono in [motori Somfy per tapparelle](/it/blog/somfy-motori-tapparelle), [automazione di pergole e tende](/it/blog/somfy-automazione-pergola-tenda) e [integrazione smart home con Somfy TaHoma](/it/blog/somfy-tahoma-casa-intelligente-bucarest).
 
 ## Blackout o Screen — la vera differenza
 
@@ -19101,7 +19221,10 @@ Nu. La țesăturile screen cu 5-10% deschidere, din exterior pe timp de zi nu se
 ### Ce țesătură Zipscreen aleg pentru intimitate maximă?
 
 Pentru intimitate maximă alege blackout (opac, 0% deschidere) — oferă întuneric total, zero vizibilitate în ambele sensuri și 100% filtrare UV, ideal pentru dormitoare. Dacă vrei și păstrarea vederii spre exterior, semi-opacul (1-3%) oferă un compromis cu vizibilitate redusă și 97-99% UV filtrat.
-`,
+
+---
+
+Neofort BIZ montează sisteme ZipScreen cu țesături blackout și screen transparent în București și Ilfov, dimensionate pe fiecare deschidere. Descoperă [soluțiile de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Compară toate opțiunile în [comparația completă a sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet).`,
 
       en: `## The question we get most often: blackout or transparent?
 
@@ -19175,7 +19298,10 @@ No. With screen fabrics of 5-10% openness, you cannot see in from outside during
 ### Which Zipscreen fabric should I choose for maximum privacy?
 
 For maximum privacy choose blackout (opaque, 0% openness) — it gives total darkness, zero visibility both ways and 100% UV filtering, ideal for bedrooms. If you also want to keep the outward view, semi-opaque (1-3%) offers a compromise with reduced visibility and 97-99% UV filtered.
-`,
+
+---
+
+Neofort BIZ installs ZipScreen systems with blackout and transparent screen fabrics in Bucharest and Ilfov, sized for each opening. Discover [the shading solutions](/en/shading-systems) we offer or [request a quote](/en/contact). Compare all options in [the full comparison of exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide).`,
 
       de: `## Die häufigste Frage: Blackout oder transparent?
 
@@ -19244,7 +19370,10 @@ Nein. Bei Screen-Geweben mit 5-10% Öffnung sieht man tagsüber von außen nicht
 ### Welches Zipscreen-Gewebe wähle ich für maximale Privatsphäre?
 
 Für maximale Privatsphäre wählen Sie Blackout (opak, 0% Öffnung) — es gibt totale Dunkelheit, null Sicht in beide Richtungen und 100% UV-Filterung, ideal für Schlafzimmer. Wenn Sie auch die Außensicht behalten möchten, bietet Halbopak (1-3%) einen Kompromiss mit reduzierter Sicht und 97-99% UV gefiltert.
-`,
+
+---
+
+Neofort BIZ montiert ZipScreen-Systeme mit Blackout- und transparenten Screen-Geweben in Bukarest und Ilfov, passend für jede Öffnung. Entdecken Sie [die Beschattungslösungen](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Vergleichen Sie alle Optionen in [dem vollständigen Vergleich der Außenbeschattungssysteme](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden).`,
 
       fr: `## La question la plus fréquente : occultant ou transparent ?
 
@@ -19313,7 +19442,10 @@ Non. Avec les toiles screen de 5-10% d'ouverture, on ne voit pas à l'intérieur
 ### Quelle toile Zipscreen choisir pour une intimité maximale ?
 
 Pour une intimité maximale, choisissez le blackout (opaque, 0% d'ouverture) — il donne l'obscurité totale, zéro visibilité dans les deux sens et 100% de filtration UV, idéal pour les chambres. Si vous voulez aussi garder la vue extérieure, le semi-opaque (1-3%) offre un compromis avec visibilité réduite et 97-99% UV filtré.
-`,
+
+---
+
+Neofort BIZ pose des systèmes ZipScreen avec toiles occultantes et screen transparent à Bucarest et Ilfov, dimensionnés pour chaque ouverture. Découvrez [les solutions d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Comparez toutes les options dans [la comparaison complète des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet).`,
 
       es: `## La pregunta más frecuente: ¿blackout o transparente?
 
@@ -19382,7 +19514,10 @@ No. Con los tejidos screen de 5-10% de apertura, desde el exterior de día no se
 ### ¿Qué tejido Zipscreen elijo para máxima intimidad?
 
 Para máxima intimidad elige blackout (opaco, 0% de apertura) — da oscuridad total, cero visibilidad en ambos sentidos y 100% de filtración UV, ideal para dormitorios. Si también quieres conservar la vista al exterior, el semiopaco (1-3%) ofrece un compromiso con visibilidad reducida y 97-99% UV filtrado.
-`,
+
+---
+
+Neofort BIZ instala sistemas ZipScreen con tejidos blackout y screen transparente en Bucarest e Ilfov, dimensionados para cada hueco. Descubre [las soluciones de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Compara todas las opciones en [la comparación completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa).`,
 
       it: `## La domanda più frequente: oscurante o trasparente?
 
@@ -19451,7 +19586,10 @@ No. Con i tessuti screen dal 5-10% di apertura, dall'esterno di giorno non si ve
 ### Quale tessuto Zipscreen scelgo per la massima privacy?
 
 Per la massima privacy scegli il blackout (opaco, 0% di apertura) — dà buio totale, zero visibilità in entrambi i sensi e 100% di filtrazione UV, ideale per le camere da letto. Se vuoi anche mantenere la vista verso l'esterno, il semiopaco (1-3%) offre un compromesso con visibilità ridotta e 97-99% UV filtrato.
-`,
+
+---
+
+Neofort BIZ installa sistemi ZipScreen con tessuti oscuranti e screen trasparente a Bucarest e Ilfov, dimensionati per ogni apertura. Scopri [le soluzioni di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Confronta tutte le opzioni in [il confronto completo dei sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).`,
     },
   },
 
@@ -23133,7 +23271,7 @@ Telecomanda Somfy Situo 5 io permite controlul individual sau centralizat a pân
 
 ---
 
-Neofort BIZ instalează rulouri exterioare cu motorizare Somfy în București și Ilfov, cu programare și integrare în casa inteligentă. Vezi [sistemele de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact).`,
+Neofort BIZ instalează rulouri exterioare cu motorizare Somfy în București și Ilfov, cu programare și integrare în casa inteligentă. Vezi [sistemele de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Pentru context complet, citește [ghidul sistemelor de umbrire — ZipScreen, rulouri, Raffstore, pergole](/ro/blog/zipscreen-umbrire-terasa-ghid-complet).`,
       en: `## Why Somfy for exterior shutters?
 
 Somfy is the global leader in shutter and blind automation, with over 20 years of presence in Romania. Unlike generic imported motors, Somfy offers the most extensive automation ecosystem — from simple remote control to full integration into the TaHoma smart home system, compatible with Alexa, Google Home and Apple HomeKit.
@@ -23174,7 +23312,7 @@ The Somfy Situo 5 io remote allows individual or centralised control of up to 5 
 
 ---
 
-Neofort BIZ installs exterior roller shutters with Somfy motorisation in Bucharest and Ilfov, with programming and smart home integration. See [the shading systems](/en/shading-systems) we offer or [request a quote](/en/contact).`,
+Neofort BIZ installs exterior roller shutters with Somfy motorisation in Bucharest and Ilfov, with programming and smart home integration. See [the shading systems](/en/shading-systems) we offer or [request a quote](/en/contact). For the full context, read [the shading systems guide — ZipScreen, shutters, Raffstore, pergolas](/en/blog/zipscreen-terrace-shading-complete-guide).`,
       de: `## Warum Somfy für Außenrollläden?
 
 Somfy ist der globale Marktführer in der Automatisierung von Rollläden, mit über 20 Jahren Präsenz in Rumänien. Kompatibel mit Alexa, Google Home und Apple HomeKit.
@@ -23215,7 +23353,7 @@ Die Somfy Situo 5 io Fernbedienung ermöglicht die individuelle oder zentrale St
 
 ---
 
-Neofort BIZ installiert Außenrollläden mit Somfy-Motorisierung in Bukarest und Ilfov, mit Programmierung und Smart-Home-Integration. Sehen Sie [die Beschattungssysteme](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt).`,
+Neofort BIZ installiert Außenrollläden mit Somfy-Motorisierung in Bukarest und Ilfov, mit Programmierung und Smart-Home-Integration. Sehen Sie [die Beschattungssysteme](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Beschattungssysteme-Ratgeber — ZipScreen, Rollläden, Raffstore, Pergolen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden).`,
       fr: `## Pourquoi Somfy pour les volets roulants ?
 
 Somfy est le leader mondial de l'automatisation des volets, avec plus de 20 ans en Roumanie. Compatible avec Alexa, Google Home et Apple HomeKit.
@@ -23256,7 +23394,7 @@ La télécommande Somfy Situo 5 io permet le contrôle individuel ou centralisé
 
 ---
 
-Neofort BIZ installe des volets roulants extérieurs avec motorisation Somfy à Bucarest et Ilfov, avec programmation et intégration domotique. Voir [les systèmes d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact).`,
+Neofort BIZ installe des volets roulants extérieurs avec motorisation Somfy à Bucarest et Ilfov, avec programmation et intégration domotique. Voir [les systèmes d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide des systèmes d’occultation — ZipScreen, volets, Raffstore, pergolas](/fr/blog/zipscreen-ombriere-terrasse-guide-complet).`,
       es: `## Por qué Somfy para persianas exteriores?
 
 Somfy es el líder mundial en automatización de persianas, con más de 20 años en Rumanía. Compatible con Alexa, Google Home y Apple HomeKit.
@@ -23297,7 +23435,7 @@ El mando Somfy Situo 5 io permite el control individual o centralizado de hasta 
 
 ---
 
-Neofort BIZ instala persianas exteriores con motorización Somfy en Bucarest e Ilfov, con programación e integración en el hogar inteligente. Ver [los sistemas de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto).`,
+Neofort BIZ instala persianas exteriores con motorización Somfy en Bucarest e Ilfov, con programación e integración en el hogar inteligente. Ver [los sistemas de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía de sistemas de sombreado — ZipScreen, persianas, Raffstore, pérgolas](/es/blog/zipscreen-sombreado-terraza-guia-completa).`,
       it: `## Perché Somfy per le tapparelle esterne?
 
 Somfy è il leader mondiale nell'automazione delle tapparelle, con oltre 20 anni in Romania. Compatibile con Alexa, Google Home e Apple HomeKit.
@@ -23338,7 +23476,7 @@ Il telecomando Somfy Situo 5 io permette il controllo individuale o centralizzat
 
 ---
 
-Neofort BIZ installa tapparelle esterne con motorizzazione Somfy a Bucarest e Ilfov, con programmazione e integrazione smart home. Vedi [i sistemi di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti).`,
+Neofort BIZ installa tapparelle esterne con motorizzazione Somfy a Bucarest e Ilfov, con programmazione e integrazione smart home. Vedi [i sistemi di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Per il contesto completo, leggi [la guida ai sistemi di oscuramento — ZipScreen, tapparelle, Raffstore, pergole](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).`,
     },
     keywords: 'motor Somfy rulouri, automatizare rulouri exterioare, motor Oximo io, RS100 io Somfy, telecomanda Somfy, Somfy TaHoma, automatizare jaluzele, motor rulou pret, rulouri electrice Somfy, Somfy Bucuresti',
     dateDisplay: {
@@ -23451,7 +23589,7 @@ Motorul Somfy pentru pergolă pornește de la 350 EUR montat (Pergola 50 RGS io,
 
 ---
 
-Neofort BIZ montează și automatizează pergole bioclimatice și copertine cu motoare Somfy în București și Ilfov. Descoperă [soluțiile de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact).`,
+Neofort BIZ montează și automatizează pergole bioclimatice și copertine cu motoare Somfy în București și Ilfov. Descoperă [soluțiile de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Compară toate opțiunile în [comparația completă a sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet).`,
       en: `## Why automate your pergola or awning?
 
 A manual pergola or awning requires constant intervention. Somfy automation with Pergola RGS io and Sunea io motors reacts automatically to wind, rain and light, integrating with TaHoma and Alexa/Google Home.
@@ -23494,7 +23632,7 @@ The Somfy pergola motor starts at 350 EUR fitted (Pergola 50 RGS io, including l
 
 ---
 
-Neofort BIZ installs and automates bioclimatic pergolas and awnings with Somfy motors in Bucharest and Ilfov. Discover [the shading solutions](/en/shading-systems) we offer or [request a quote](/en/contact).`,
+Neofort BIZ installs and automates bioclimatic pergolas and awnings with Somfy motors in Bucharest and Ilfov. Discover [the shading solutions](/en/shading-systems) we offer or [request a quote](/en/contact). Compare all options in [the full comparison of exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide).`,
       de: `## Warum Pergola oder Markise automatisieren?
 
 Eine manuelle Pergola erfordert ständige Eingriffe. Somfy-Automatisierung mit Pergola RGS io und Sunea io reagiert automatisch auf Wind, Regen und Licht.
@@ -23533,7 +23671,7 @@ Der Somfy-Pergolamotor beginnt bei 350 EUR montiert (Pergola 50 RGS io, inklusiv
 
 ---
 
-Neofort BIZ montiert und automatisiert bioklimatische Pergolen und Markisen mit Somfy-Motoren in Bukarest und Ilfov. Entdecken Sie [die Beschattungslösungen](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt).`,
+Neofort BIZ montiert und automatisiert bioklimatische Pergolen und Markisen mit Somfy-Motoren in Bukarest und Ilfov. Entdecken Sie [die Beschattungslösungen](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Vergleichen Sie alle Optionen in [den vollständigen Vergleich der Außenbeschattungssysteme](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden).`,
       fr: `## Pourquoi automatiser sa pergola ou son store ?
 
 Une pergola manuelle nécessite une intervention constante. L'automatisation Somfy avec Pergola RGS io et Sunea io réagit automatiquement au vent, à la pluie et à la lumière.
@@ -23572,7 +23710,7 @@ Le moteur Somfy pour pergola démarre à 350 EUR posé (Pergola 50 RGS io, main-
 
 ---
 
-Neofort BIZ pose et automatise pergolas bioclimatiques et stores avec moteurs Somfy à Bucarest et Ilfov. Découvrez [les solutions d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact).`,
+Neofort BIZ pose et automatise pergolas bioclimatiques et stores avec moteurs Somfy à Bucarest et Ilfov. Découvrez [les solutions d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Comparez toutes les options dans [la comparaison complète des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet).`,
       es: `## Por qué automatizar la pérgola o el toldo?
 
 Una pérgola manual requiere intervención constante. La automatización Somfy con Pergola RGS io y Sunea io reacciona automáticamente al viento, la lluvia y la luz.
@@ -23611,7 +23749,7 @@ El motor Somfy para pérgola parte de 350 EUR instalado (Pergola 50 RGS io, incl
 
 ---
 
-Neofort BIZ instala y automatiza pérgolas bioclimáticas y toldos con motores Somfy en Bucarest e Ilfov. Descubre [las soluciones de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto).`,
+Neofort BIZ instala y automatiza pérgolas bioclimáticas y toldos con motores Somfy en Bucarest e Ilfov. Descubre [las soluciones de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Compara todas las opciones en [la comparación completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa).`,
       it: `## Perché automatizzare la pergola o la tenda?
 
 Una pergola manuale richiede un intervento costante. L'automazione Somfy con Pergola RGS io e Sunea io reagisce automaticamente a vento, pioggia e luce.
@@ -23650,7 +23788,7 @@ Il motore Somfy per pergola parte da 350 EUR montato (Pergola 50 RGS io, inclusi
 
 ---
 
-Neofort BIZ installa e automatizza pergole bioclimatiche e tende con motori Somfy a Bucarest e Ilfov. Scopri [le soluzioni di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti).`,
+Neofort BIZ installa e automatizza pergole bioclimatiche e tende con motori Somfy a Bucarest e Ilfov. Scopri [le soluzioni di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Confronta tutte le opzioni in [il confronto completo dei sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).`,
     },
     keywords: 'automatizare pergola Somfy, motor pergola Somfy, Somfy copertine, Pergola RGS io, Sunea io Somfy, automatizare copertina, pergola motoricata Somfy, Somfy Bucuresti pergola, motor copertina retractabila',
     dateDisplay: {
@@ -23769,7 +23907,7 @@ Da. Somfy TaHoma e compatibil cu Alexa, Google Home și Apple HomeKit, permițâ
 
 ---
 
-Neofort BIZ integrează rulouri, jaluzele și pergole în sisteme smart home TaHoma, în București și Ilfov. Află mai multe despre [rulourile și jaluzelele exterioare](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact).`,
+Neofort BIZ integrează rulouri, jaluzele și pergole în sisteme smart home TaHoma, în București și Ilfov. Află mai multe despre [rulourile și jaluzelele exterioare](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet).`,
       en: `## What is Somfy TaHoma?
 
 TaHoma Switch is the central hub of the Somfy ecosystem — a small device connected to the internet router that allows control and programming of all motorised home equipment from a single smartphone app. TaHoma works with almost 300 Somfy products and certified partners.
@@ -23818,7 +23956,7 @@ Yes. Somfy TaHoma is compatible with Alexa, Google Home and Apple HomeKit, allow
 
 ---
 
-Neofort BIZ integrates roller shutters, blinds and pergolas into TaHoma smart home systems, in Bucharest and Ilfov. Learn more about [the exterior roller shutters and blinds](/en/shading-systems) we offer or [request a quote](/en/contact).`,
+Neofort BIZ integrates roller shutters, blinds and pergolas into TaHoma smart home systems, in Bucharest and Ilfov. Learn more about [the exterior roller shutters and blinds](/en/shading-systems) we offer or [request a quote](/en/contact). See also [the complete guide to exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide).`,
       de: `## Was ist Somfy TaHoma?
 
 TaHoma Switch ist der zentrale Hub des Somfy-Ökosystems — ein kleines Gerät, das alle motorisierten Geräte im Haus über eine einzige Smartphone-App steuert. TaHoma funktioniert mit fast 300 Somfy-Produkten.
@@ -23861,7 +23999,7 @@ Ja. Somfy TaHoma ist mit Alexa, Google Home und Apple HomeKit kompatibel und erm
 
 ---
 
-Neofort BIZ integriert Rollläden, Jalousien und Pergolen in TaHoma Smart-Home-Systeme, in Bukarest und Ilfov. Erfahren Sie mehr über [die Außenrollläden und Jalousien](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt).`,
+Neofort BIZ integriert Rollläden, Jalousien und Pergolen in TaHoma Smart-Home-Systeme, in Bukarest und Ilfov. Erfahren Sie mehr über [die Außenrollläden und Jalousien](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber zu Außenbeschattungssystemen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden).`,
       fr: `## Qu'est-ce que Somfy TaHoma ?
 
 TaHoma Switch est le hub central de l'écosystème Somfy — un petit appareil qui contrôle tous les équipements motorisés depuis une seule application smartphone. TaHoma fonctionne avec près de 300 produits Somfy.
@@ -23904,7 +24042,7 @@ Oui. Somfy TaHoma est compatible avec Alexa, Google Home et Apple HomeKit, perme
 
 ---
 
-Neofort BIZ intègre volets, stores et pergolas dans les systèmes domotiques TaHoma, à Bucarest et Ilfov. En savoir plus sur [les volets et stores extérieurs](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact).`,
+Neofort BIZ intègre volets, stores et pergolas dans les systèmes domotiques TaHoma, à Bucarest et Ilfov. En savoir plus sur [les volets et stores extérieurs](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet).`,
       es: `## Qué es Somfy TaHoma?
 
 TaHoma Switch es el hub central del ecosistema Somfy — un pequeño dispositivo que controla todos los equipos motorizados del hogar desde una única app de smartphone. TaHoma funciona con casi 300 productos Somfy.
@@ -23947,7 +24085,7 @@ Sí. Somfy TaHoma es compatible con Alexa, Google Home y Apple HomeKit, permitie
 
 ---
 
-Neofort BIZ integra persianas, estores y pérgolas en sistemas smart home TaHoma, en Bucarest e Ilfov. Más información sobre [las persianas y estores exteriores](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto).`,
+Neofort BIZ integra persianas, estores y pérgolas en sistemas smart home TaHoma, en Bucarest e Ilfov. Más información sobre [las persianas y estores exteriores](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa).`,
       it: `## Cos'è Somfy TaHoma?
 
 TaHoma Switch è l'hub centrale dell'ecosistema Somfy — un piccolo dispositivo che controlla tutti i dispositivi motorizzati della casa da un'unica app smartphone. TaHoma funziona con quasi 300 prodotti Somfy.
@@ -23990,7 +24128,7 @@ Sì. Somfy TaHoma è compatibile con Alexa, Google Home e Apple HomeKit, permett
 
 ---
 
-Neofort BIZ integra tapparelle, veneziane e pergole in sistemi smart home TaHoma, a Bucarest e Ilfov. Scopri di più su [le tapparelle e veneziane esterne](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti).`,
+Neofort BIZ integra tapparelle, veneziane e pergole in sistemi smart home TaHoma, a Bucarest e Ilfov. Scopri di più su [le tapparelle e veneziane esterne](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa ai sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).`,
     },
     keywords: 'Somfy TaHoma, TaHoma Switch, smart home Somfy Romania, casa inteligenta Somfy, control vocal rulouri, Alexa Somfy, Google Home Somfy, automatizare casa Bucuresti, TaHoma pret Romania',
     dateDisplay: {
