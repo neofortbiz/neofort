@@ -2,7 +2,8 @@
 // URL-uri localizate via i18n/routing.js; conținut 100% server-rendered (zero JS client).
 import { ARTICLES } from '../../../../../data/blog.js';
 import { BASE, LOCALES } from '../../../../../lib/constants.js';
-import { THEMES, THEME_LABELS, THEME_DESC, CAT_PATHS, getThemeArticles } from '../../../../../lib/blogCategories.js';
+import { THEMES, THEME_LABELS, THEME_DESC, CAT_PATHS, getThemeArticles, THEME_INTRO, THEME_PILLAR, THEME_PILLAR_CTA } from '../../../../../lib/blogCategories.js';
+import { routing } from '../../../../../i18n/routing.js';
 import { notFound } from 'next/navigation';
 
 export const dynamic = 'force-static';
@@ -54,6 +55,11 @@ export default async function CategoryPage({ params }) {
   const label = THEME_LABELS[locale]?.[cat] || THEME_LABELS.ro[cat];
   const desc  = THEME_DESC[locale]?.[cat] || THEME_DESC.ro[cat];
   const items = getThemeArticles(ARTICLES, cat);
+  const intro = THEME_INTRO[locale]?.[cat] || THEME_INTRO.ro?.[cat] || '';
+  const pillarKey = THEME_PILLAR[cat];
+  const pillarPath = pillarKey ? (routing.pathnames[pillarKey]?.[locale] || routing.pathnames[pillarKey]?.ro) : null;
+  const pillarHref = pillarPath ? `/${locale}${pillarPath}` : null;
+  const pillarCta = THEME_PILLAR_CTA[locale] || THEME_PILLAR_CTA.ro;
   const url = `${BASE}/${locale}${CAT_PATHS[cat][locale]}`;
 
   const collectionSchema = {
@@ -97,6 +103,21 @@ export default async function CategoryPage({ params }) {
         {label}
       </h1>
       <p style={{ fontSize: '.95rem', lineHeight: 1.65, color: '#595959', maxWidth: 720, margin: '0 0 12px' }}>{desc}</p>
+
+      {/* v218: text introductiv propriu per categorie — face pagina unica fata de /blog,
+          care era motivul pentru care Google o lasa la "Descoperita — nu este indexata". */}
+      {intro && (
+        <p style={{ fontSize: '.9rem', lineHeight: 1.75, color: '#404040', maxWidth: 760, margin: '0 0 16px' }}>
+          {intro}
+        </p>
+      )}
+      {pillarHref && (
+        <p style={{ margin: '0 0 20px' }}>
+          <a href={pillarHref} style={{ fontSize: '.78rem', letterSpacing: '.12em', textTransform: 'uppercase', color: '#e8721c', textDecoration: 'none', fontWeight: 600 }}>
+            {pillarCta} &rsaquo;
+          </a>
+        </p>
+      )}
       <div style={{ fontSize: '.78rem', letterSpacing: '.1em', textTransform: 'uppercase', color: '#999', marginBottom: 40 }}>
         {items.length} {items.length === 1 ? t.count[0] : t.count[1]}
       </div>
