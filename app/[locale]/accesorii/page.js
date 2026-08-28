@@ -91,19 +91,6 @@ export default async function AccesoriiPage({ params }) {
     ],
   };
 
-  const faqSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    'mainEntity': ({'ro': [['Ce este un toc de renovare și când se folosește?', 'Tocul de renovare PVC se montează direct peste tocul vechi (lemn, PVC degradat, aluminiu) fără a sparge tencuiala. Reduce timpul de montaj cu 50% și elimină costurile de reparare finisaje. Ideal pentru blocuri și clădiri istorice.'], ['Grila Aereco consumă energie electrică?', 'Nu. Grila higroreglabilă Aereco este complet pasivă — reglează debitul de aer (5-35 m³/h) automat în funcție de umiditatea din cameră, fără motor sau consum electric, fără zgomot mecanic.'], ['Unde se montează pervazul interior față de glaf exterior?', 'Pervazul interior PVC se montează pe față interioară a zidului sub fereastră. Glaf exterior din aluminiu anodizat se montează pe fața exterioară cu pantă de scurgere. Etanșarea cu garnitură EPDM la baza glafului exterior previne infiltrațiile.']], 'en': [['What is a renovation frame and when is it used?', 'The PVC renovation frame is installed directly over the old frame (wood, degraded PVC, aluminium) without breaking plasterwork. Reduces installation time by 50% and eliminates finish repair costs. Ideal for apartment blocks and historic buildings.'], ['Does the Aereco grille consume electricity?', 'No. The Aereco hygro-adjustable grille is completely passive — it automatically regulates airflow (5-35 m³/h) based on room humidity, without motor or electricity consumption, without mechanical noise.'], ['Where is the interior windowsill installed vs. exterior sill?', 'The interior PVC sill is installed on the interior face of the wall below the window. The exterior anodised aluminium sill is installed on the exterior face with drainage slope. EPDM gasket sealing at the base of the exterior sill prevents infiltrations.']]})[locale]?.map(([q,a]) => ({
-      '@type': 'Question',
-      'name': q,
-      'acceptedAnswer': { '@type': 'Answer', 'text': a }
-    })) || {'ro': [['Ce este un toc de renovare și când se folosește?', 'Tocul de renovare PVC se montează direct peste tocul vechi (lemn, PVC degradat, aluminiu) fără a sparge tencuiala. Reduce timpul de montaj cu 50% și elimină costurile de reparare finisaje. Ideal pentru blocuri și clădiri istorice.'], ['Grila Aereco consumă energie electrică?', 'Nu. Grila higroreglabilă Aereco este complet pasivă — reglează debitul de aer (5-35 m³/h) automat în funcție de umiditatea din cameră, fără motor sau consum electric, fără zgomot mecanic.'], ['Unde se montează pervazul interior față de glaf exterior?', 'Pervazul interior PVC se montează pe față interioară a zidului sub fereastră. Glaf exterior din aluminiu anodizat se montează pe fața exterioară cu pantă de scurgere. Etanșarea cu garnitură EPDM la baza glafului exterior previne infiltrațiile.']], 'en': [['What is a renovation frame and when is it used?', 'The PVC renovation frame is installed directly over the old frame (wood, degraded PVC, aluminium) without breaking plasterwork. Reduces installation time by 50% and eliminates finish repair costs. Ideal for apartment blocks and historic buildings.'], ['Does the Aereco grille consume electricity?', 'No. The Aereco hygro-adjustable grille is completely passive — it automatically regulates airflow (5-35 m³/h) based on room humidity, without motor or electricity consumption, without mechanical noise.'], ['Where is the interior windowsill installed vs. exterior sill?', 'The interior PVC sill is installed on the interior face of the wall below the window. The exterior anodised aluminium sill is installed on the exterior face with drainage slope. EPDM gasket sealing at the base of the exterior sill prevents infiltrations.']]}['ro'].map(([q,a]) => ({
-      '@type': 'Question',
-      'name': q,
-      'acceptedAnswer': { '@type': 'Answer', 'text': a }
-    }))
-  };
 
   return (
     <>

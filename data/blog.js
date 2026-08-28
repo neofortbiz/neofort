@@ -1048,7 +1048,7 @@ Resultado: casa nZEB con ≤ 100 kWh/m²/año, facturas energéticas reducidas u
 - [Triple vs Doble Acristalamiento: Ahorros reales en calefacción](/es/blog/triple-vs-doble-acristalamiento-ahorros-reales-calefaccion-precio)
 - [Sistema nZEB completo: Salamander + Blaugelb + triple acristalamiento](/es/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento)
 
-Neofort BIZ — especialista en ventanas nZEB en Bucarest e Ilfov. [Consulta técnica gratuita para su proyecto nZEB](/es/contact). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.`,
+Neofort BIZ — especialista en ventanas nZEB en Bucarest e Ilfov. [Consulta técnica gratuita para su proyecto nZEB](/es/contacto). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.`,
       it: `## Cos'è lo standard nZEB in Romania e perché le finestre sono critiche?
 
 **nZEB (Nearly Zero Energy Building)** è lo standard obbligatorio imposto dalla Direttiva 2010/31/UE sulla prestazione energetica degli edifici (EPBD) e recepito nella legislazione rumena dalla Legge 372/2005 modificata e dal HG 765/2016.
@@ -1241,7 +1241,7 @@ Risultato: casa nZEB con ≤ 100 kWh/m²/anno, bollette energetiche ridotte del 
 - [Triplo vs Doppio Vetro: Risparmi reali sul riscaldamento](/it/blog/triplo-vs-doppio-vetro-risparmi-reali-riscaldamento-prezzo)
 - [Sistema nZEB completo: Salamander + Blaugelb + triplo vetro](/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro)
 
-Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnica gratuita per il vostro progetto nZEB](/it/contact). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.`,
+Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnica gratuita per il vostro progetto nZEB](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.`,
     },
   },
 
@@ -2066,7 +2066,7 @@ Low-E (Baja Emisividad) = vidrio con una fina capa de óxido metálico depositad
 - [¿Qué ventanas elegir para una casa nZEB en Rumanía?](/es/blog/ventanas-casa-nzeb-rumania-guia-completa-2026)
 - [¿Dónde pedir ventanas con aislamiento avanzado en Bucarest?](/es/blog/donde-pedir-ventanas-aislamiento-avanzado-bucarest)
 
-Neofort BIZ instala triple acristalamiento Saint-Gobain SGG con Warm Edge en Bucarest e Ilfov. [Solicite presupuesto con cálculo de ahorros personalizado](/es/contact). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos.`,
+Neofort BIZ instala triple acristalamiento Saint-Gobain SGG con Warm Edge en Bucarest e Ilfov. [Solicite presupuesto con cálculo de ahorros personalizado](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos.`,
       it: `## Perché il triplo vetro è diventato lo standard nZEB
 
 Fino al 2018, il doppio vetro era la norma del settore. Oggi, per qualsiasi costruzione che deve raggiungere gli standard nZEB, il triplo vetro è il requisito minimo realistico. La ragione è semplice e matematica: **Ug** (il coefficiente di trasmissione termica del vetro) è il parametro più importante di una finestra — e il triplo vetro lo dimezza rispetto al doppio.
@@ -2217,7 +2217,7 @@ Low-E (Bassa Emissività) = vetro con un sottile strato di ossido metallico depo
 - [Quali finestre per una casa nZEB in Romania?](/it/blog/finestre-casa-nzeb-romania-guida-completa-2026)
 - [Dove ordinare finestre con isolamento avanzato a Bucarest?](/it/blog/dove-ordinare-finestre-isolamento-avanzato-bucarest)
 
-Neofort BIZ installa triplo vetro Saint-Gobain SGG con Warm Edge a Bucarest e Ilfov. [Richiedi preventivo con calcolo di risparmio personalizzato](/it/contact). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo.`,
+Neofort BIZ installa triplo vetro Saint-Gobain SGG con Warm Edge a Bucarest e Ilfov. [Richiedi preventivo con calcolo di risparmio personalizzato](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo.`,
     },
   },
 
@@ -2609,7 +2609,7 @@ Siempre para nZEB — 50% menos pérdidas. Amortizado en 5-8 años.
 
 ---
 
-Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov. [Consulta gratuita](/es/contact). Más información sobre [nuestros sistemas Alumil](/es/carpinteria-aluminio) que ofrecemos. Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
+Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov. [Consulta gratuita](/es/contacto). Más información sobre [nuestros sistemas Alumil](/es/carpinteria-aluminio) que ofrecemos. Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
       it: `## PVC o Alluminio per case nZEB nel 2026?
 
 **nZEB** è lo standard obbligatorio in Romania dal 2021. Consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre rappresentano il 25-40% delle dispersioni termiche.
@@ -2646,7 +2646,7 @@ Sempre per nZEB — 50% meno dispersioni. Ammortizzato in 5-8 anni.
 
 ---
 
-Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [Consulenza gratuita](/it/contact). Scopri di più su [i nostri sistemi Alumil](/it/infissi-alluminio) che offriamo. Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
+Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [Consulenza gratuita](/it/contatti). Scopri di più su [i nostri sistemi Alumil](/it/infissi-alluminio) che offriamo. Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
@@ -3095,7 +3095,7 @@ El inserto de poliamida de 34 mm separa físicamente el perfil exterior frío de
 - [Sistema nZEB completo: Salamander + Blaugelb + triple acristalamiento](/es/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento)
 - [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)
 
-Neofort BIZ — distribuidor autorizado Alumil en Bucarest e Ilfov. [Solicitar presupuesto puerta aluminio](/es/contact).
+Neofort BIZ — distribuidor autorizado Alumil en Bucarest e Ilfov. [Solicitar presupuesto puerta aluminio](/es/contacto).
 
 ## Preguntas frecuentes
 
@@ -3163,11 +3163,11 @@ L'inserto in poliammide da 34 mm separa fisicamente il profilo esterno freddo da
 ---
 
 **Articoli correlati:**
-- [Infissi alluminio Alumil — sistemi Supreme e Smartia](/it/tamplarie-aluminiu)
+- [Infissi alluminio Alumil — sistemi Supreme e Smartia](/it/infissi-alluminio)
 - [Sistema nZEB completo: Salamander + Blaugelb + triplo vetro](/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro)
 - [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)
 
-Neofort BIZ — distributore autorizzato Alumil a Bucarest e Ilfov. [Richiedi preventivo porta alluminio](/it/contact).
+Neofort BIZ — distributore autorizzato Alumil a Bucarest e Ilfov. [Richiedi preventivo porta alluminio](/it/contatti).
 
 ## Domande frequenti
 
@@ -3613,7 +3613,7 @@ Si el perfil está en buen estado pero el acristalamiento es antiguo (Ug = 1,0-1
 - [¿Dónde pedir ventanas con aislamiento avanzado en Bucarest?](/es/blog/donde-pedir-ventanas-aislamiento-avanzado-bucarest)
 - [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)
 
-Neofort BIZ — especialista en aislamiento térmico de ventanas en Bucarest e Ilfov. [Solicitar consulta gratuita](/es/contact). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que instalamos.
+Neofort BIZ — especialista en aislamiento térmico de ventanas en Bucarest e Ilfov. [Solicitar consulta gratuita](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que instalamos.
 
 ## Preguntas frecuentes
 
@@ -3680,7 +3680,7 @@ Se il profilo è in buone condizioni ma il vetro è vecchio (Ug = 1,0-1,6):
 - [Dove ordinare finestre con isolamento avanzato a Bucarest?](/it/blog/dove-ordinare-finestre-isolamento-avanzato-bucarest)
 - [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)
 
-Neofort BIZ — specialista in isolamento termico finestre a Bucarest e Ilfov. [Richiedi consulenza gratuita](/it/contact). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che montiamo.
+Neofort BIZ — specialista in isolamento termico finestre a Bucarest e Ilfov. [Richiedi consulenza gratuita](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che montiamo.
 
 ## Domande frequenti
 
@@ -4170,7 +4170,7 @@ Tres zonas según norma RAL:
 - Periodo de amortización: 10-13 años
 
 ---
-Neofort BIZ instala sistemas nZEB completos en Bucarest e Ilfov — Salamander bluEvolution 92, premarcos Blaugelb Triotherm+, triple acristalamiento Saint-Gobain, bandas Illbruck. [Solicitar presupuesto técnico](/es/contact). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.
+Neofort BIZ instala sistemas nZEB completos en Bucarest e Ilfov — Salamander bluEvolution 92, premarcos Blaugelb Triotherm+, triple acristalamiento Saint-Gobain, bandas Illbruck. [Solicitar presupuesto técnico](/es/contacto). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.
 
 ## Preguntas frecuentes
 
@@ -4234,7 +4234,7 @@ Tre zone secondo la norma RAL:
 - Periodo di ammortamento: 10-13 anni
 
 ---
-Neofort BIZ installa sistemi nZEB completi a Bucarest e Ilfov — Salamander bluEvolution 92, precornici Blaugelb Triotherm+, triplo vetro Saint-Gobain, nastri Illbruck. [Richiedere preventivo tecnico](/it/contact). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
+Neofort BIZ installa sistemi nZEB completi a Bucarest e Ilfov — Salamander bluEvolution 92, precornici Blaugelb Triotherm+, triplo vetro Saint-Gobain, nastri Illbruck. [Richiedere preventivo tecnico](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
 
 ## Domande frequenti
 
@@ -4630,7 +4630,7 @@ Un perfil PVC puede reprocesarse hasta 8 veces. Entre 2000 y 2023, se reciclaron
 La elección del material de ventana es legítima según criterios reales: rendimiento térmico, estética, coste, durabilidad. La toxicidad del PVC moderno no ha sido un criterio relevante desde 2015.
 
 ---
-Neofort BIZ suministra perfiles Salamander bluEvolution 92 con estabilizadores Ca-Zn certificados REACH. [Solicitar presupuesto](/es/contact). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos. Ver también [la comparación Salamander bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
+Neofort BIZ suministra perfiles Salamander bluEvolution 92 con estabilizadores Ca-Zn certificados REACH. [Solicitar presupuesto](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos. Ver también [la comparación Salamander bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
 
 ## Preguntas frecuentes
 
@@ -4683,7 +4683,7 @@ Un profilo PVC può essere rielaborato fino a 8 volte. Tra il 2000 e il 2023, so
 La scelta del materiale della finestra è legittima in base a criteri reali: prestazione termica, estetica, costo, durata. La tossicità del PVC moderno non è più un criterio rilevante dal 2015.
 
 ---
-Neofort BIZ fornisce profili Salamander bluEvolution 92 con stabilizzanti Ca-Zn certificati REACH. [Richiedi preventivo](/it/contact). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo. Vedi anche [il confronto Salamander bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
+Neofort BIZ fornisce profili Salamander bluEvolution 92 con stabilizzanti Ca-Zn certificati REACH. [Richiedi preventivo](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo. Vedi anche [il confronto Salamander bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
 
 ## Domande frequenti
 
@@ -5153,7 +5153,7 @@ Rotura térmica 34 mm, Uf = 1,3 W/(m²K) en el perfil — con triple acristalami
 
 ---
 
-Neofort BIZ — distribuidor autorizado Salamander y Alumil, instalación nZEB certificada en Bucarest e Ilfov. [Solicitar presupuesto gratuito](/es/contact). Más información sobre [nuestros sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos.
+Neofort BIZ — distribuidor autorizado Salamander y Alumil, instalación nZEB certificada en Bucarest e Ilfov. [Solicitar presupuesto gratuito](/es/contacto). Más información sobre [nuestros sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos.
 
 ## Preguntas frecuentes
 
@@ -5229,7 +5229,7 @@ Taglio termico 34 mm, Uf = 1,3 W/(m²K) al profilo — con triplo vetro e Low-E 
 
 ---
 
-Neofort BIZ — distributore autorizzato Salamander e Alumil, installazione nZEB certificata a Bucarest e Ilfov. [Richiedi preventivo gratuito](/it/contact). Scopri di più su [i nostri sistemi PVC Salamander](/it/infissi-pvc) che offriamo.
+Neofort BIZ — distributore autorizzato Salamander e Alumil, installazione nZEB certificata a Bucarest e Ilfov. [Richiedi preventivo gratuito](/it/contatti). Scopri di più su [i nostri sistemi PVC Salamander](/it/infissi-pvc) che offriamo.
 
 ## Domande frequenti
 
@@ -5783,7 +5783,7 @@ Según la **Ley 372/2005** (modificada) y el **GD 765/2016**, cualquier edificio
 
 ---
 
-Neofort BIZ instala con bandas Illbruck y premarcos Blaugelb Triotherm+ en Bucarest e Ilfov. [Solicitar presupuesto instalación nZEB](/es/contact). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.
+Neofort BIZ instala con bandas Illbruck y premarcos Blaugelb Triotherm+ en Bucarest e Ilfov. [Solicitar presupuesto instalación nZEB](/es/contacto). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.
 
 ## Preguntas frecuentes
 
@@ -5875,7 +5875,7 @@ Secondo la **Legge 372/2005** (modificata) e il **GD 765/2016**, qualsiasi nuovo
 
 ---
 
-Neofort BIZ installa con nastri Illbruck e precornici Blaugelb Triotherm+ a Bucarest e Ilfov. [Richiedere preventivo installazione nZEB](/it/contact). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
+Neofort BIZ installa con nastri Illbruck e precornici Blaugelb Triotherm+ a Bucarest e Ilfov. [Richiedere preventivo installazione nZEB](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
 
 ## Domande frequenti
 
@@ -6353,7 +6353,7 @@ Neofort BIZ suministra e instala persianas exteriores en **todos los sectores de
 
 ---
 
-Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Asesoramiento gratuito — [solicitar presupuesto](/es/contact). Descubre [los sistemas de sombreado](/es/sistemas-sombreado) que instalamos. Ver también [la guía completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa).
+Neofort BIZ es distribuidor autorizado Somfy e instalador certificado para sistemas de sombreado en Bucarest e Ilfov. Asesoramiento gratuito — [solicitar presupuesto](/es/contacto). Descubre [los sistemas de sombreado](/es/sistemas-sombreado) que instalamos. Ver también [la guía completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa).
 
 ## Preguntas frecuentes
 
@@ -6435,7 +6435,7 @@ Neofort BIZ fornisce e installa veneziane esterne in **tutti i settori di Bucare
 
 ---
 
-Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi preventivo](/it/contact). Scopri [i sistemi di oscuramento](/it/sistemi-oscuramento) che montiamo. Vedi anche [la guida completa ai sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).
+Neofort BIZ è distributore autorizzato Somfy e installatore certificato per sistemi di oscuramento a Bucarest e Ilfov. Consulenza gratuita — [richiedi preventivo](/it/contatti). Scopri [i sistemi di oscuramento](/it/sistemi-oscuramento) che montiamo. Vedi anche [la guida completa ai sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).
 
 ## Domande frequenti
 
@@ -6893,7 +6893,7 @@ Tras la instalación, la herraje Roto NT o Winkhaus debe ser **ajustado con prec
 
 ---
 
-Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos certificados, bandas Illbruck y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contact). Ver toda la gama de [la carpintería PVC Salamander](/es/carpinteria-pvc) que instalamos.
+Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos certificados, bandas Illbruck y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contacto). Ver toda la gama de [la carpintería PVC Salamander](/es/carpinteria-pvc) que instalamos.
 
 ## Preguntas frecuentes
 
@@ -6969,7 +6969,7 @@ Dopo l'installazione, la ferramenta Roto NT o Winkhaus deve essere **regolata co
 
 ---
 
-Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Illbruck e precornici Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contact). Vedi tutta la gamma di [gli infissi PVC Salamander](/it/infissi-pvc) che montiamo.
+Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Illbruck e precornici Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contatti). Vedi tutta la gamma di [gli infissi PVC Salamander](/it/infissi-pvc) che montiamo.
 
 ## Domande frequenti
 
@@ -7508,7 +7508,7 @@ La diferencia de 140 € se recupera en 3–5 años en facturas de energía — 
 
 ---
 
-Neofort BIZ ofrece ventanas Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 24 horas — [solicitar ahora](/es/contact). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos. Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
+Neofort BIZ ofrece ventanas Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 24 horas — [solicitar ahora](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos. Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
 
 ## Preguntas frecuentes
 
@@ -7597,7 +7597,7 @@ La differenza di 140 € si recupera in 3–5 anni sulle bollette energetiche �
 
 ---
 
-Neofort BIZ offre finestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 24 ore — [richiedi ora](/it/contact). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo. Vedi anche [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
+Neofort BIZ offre finestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 24 ore — [richiedi ora](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo. Vedi anche [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
 
 ## Domande frequenti
 
@@ -21756,7 +21756,7 @@ Salamander BluEvolution 92 profiles are manufactured from **Class A PVC** to EN 
 
 Neofort BIZ installs all windows to the **RAL installation standard**, including Blaugelb Triotherm+ subframes, pre-compressed butyl tape and anti-vapour membranes — ensuring real-world performance equal to the declared technical specifications.
 
-Explore our full [Salamander PVC range](/en/tamplarie-pvc) or see [indicative prices](/en/tamplarie-pvc/preturi).
+Explore our full [Salamander PVC range](/en/pvc-windows) or see [indicative prices](/en/pvc-windows/prices).
 
 **For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**
 
@@ -22226,7 +22226,7 @@ A 2.5–3.0 m sliding door raises a practical issue: standard insect screens don
 
 **Key advantages:** covers openings up to 3.0–4.0 m, opens from both ends, minimal visual obstruction, UV and moisture resistant.
 
-Explore our full [Salamander PVC range](/en/tamplarie-pvc) or see [indicative prices](/en/tamplarie-pvc/preturi).
+Explore our full [Salamander PVC range](/en/pvc-windows) or see [indicative prices](/en/pvc-windows/prices).
 
 **For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**
 
@@ -25156,7 +25156,7 @@ No — el límite legal para Bucarest (Zona II) es Uw ≤ 1,00 W/(m²K).
 
 ---
 
-Neofort BIZ suministra ventanas PVC Salamander y aluminio Alumil con Uw desde 0,66 W/(m²K). [Consulta técnica gratuita](/es/contact). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos.`,
+Neofort BIZ suministra ventanas PVC Salamander y aluminio Alumil con Uw desde 0,66 W/(m²K). [Consulta técnica gratuita](/es/contacto). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos.`,
       it: `## Cos'è il coefficiente termico Uw di una finestra?
 
 **Uw** misura quanta energia termica disperde una finestra — più basso è il valore, migliore è l'isolamento. Si esprime in **W/(m²K)** e include il profilo (Uf), il vetro (Ug) e il distanziale (Ψg).
@@ -25213,7 +25213,7 @@ No — il limite di legge per Bucarest (Zona II) è Uw ≤ 1,00 W/(m²K).
 
 ---
 
-Neofort BIZ fornisce finestre PVC Salamander e alluminio Alumil con Uw a partire da 0,66 W/(m²K). [Consulenza tecnica gratuita](/it/contact). Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo.`,
+Neofort BIZ fornisce finestre PVC Salamander e alluminio Alumil con Uw a partire da 0,66 W/(m²K). [Consulenza tecnica gratuita](/it/contatti). Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo.`,
     },
   },
   {
@@ -25536,7 +25536,7 @@ DoPs digitales con código QR, controles reforzados en recepción de obras, RPC 
 
 ---
 
-Neofort BIZ suministra exclusivamente productos con marcado CE y DoP completa. [Solicitar documentos técnicos](/es/contact). Descubre [las soluciones para casas nZEB](/es/sistemas-nzeb) que ofrecemos.`,
+Neofort BIZ suministra exclusivamente productos con marcado CE y DoP completa. [Solicitar documentos técnicos](/es/contacto). Descubre [las soluciones para casas nZEB](/es/sistemas-nzeb) que ofrecemos.`,
       it: `## Cos'è il Regolamento Europeo sui Prodotti da Costruzione (RPC)?
 
 Il **Regolamento (UE) n. 305/2011** (RPC) disciplina la commercializzazione dei prodotti da costruzione nell'UE. Obbliga i produttori a redigere una **Dichiarazione di Prestazione (DoP)** e ad apporre la **marcatura CE**.
@@ -25572,7 +25572,7 @@ DoP digitali con QR code, controlli rafforzati al collaudo, RPC 2 in periodo di 
 
 ---
 
-Neofort BIZ fornisce esclusivamente prodotti con marcatura CE e DoP completa. [Richiedere i documenti tecnici](/it/contact). Scopri [le soluzioni per case nZEB](/it/sistemi-nzeb) che offriamo.`,
+Neofort BIZ fornisce esclusivamente prodotti con marcatura CE e DoP completa. [Richiedere i documenti tecnici](/it/contatti). Scopri [le soluzioni per case nZEB](/it/sistemi-nzeb) che offriamo.`,
     },
   },
   {
@@ -25948,7 +25948,7 @@ Tras 10–15 años. Señales: sensación de dureza, no recuperan su forma, corri
 
 ---
 
-Neofort BIZ instala ventanas PVC Salamander con 5 años de garantía en Bucarest e Ilfov. [Solicitar presupuesto o servicio](/es/contact). Más información sobre [nuestros sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos.`,
+Neofort BIZ instala ventanas PVC Salamander con 5 años de garantía en Bucarest e Ilfov. [Solicitar presupuesto o servicio](/es/contacto). Más información sobre [nuestros sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos.`,
       it: `## Quanto durano le finestre in PVC in condizioni normali?
 
 Le finestre in PVC moderne con profili certificati e installazione professionale hanno una **vita utile di 30–50 anni**. La ferramenta (cerniere, serrature, maniglie) necessita di sostituzione dopo 15–20 anni.
@@ -25991,7 +25991,7 @@ Dopo 10–15 anni. Segnali: sensazione di durezza al tatto, non riprendono la fo
 
 ---
 
-Neofort BIZ installa finestre PVC Salamander con 5 anni di garanzia a Bucarest e Ilfov. [Richiedi preventivo o servizio](/it/contact). Scopri di più su [i nostri sistemi PVC Salamander](/it/infissi-pvc) che offriamo.`,
+Neofort BIZ installa finestre PVC Salamander con 5 anni di garanzia a Bucarest e Ilfov. [Richiedi preventivo o servizio](/it/contatti). Scopri di più su [i nostri sistemi PVC Salamander](/it/infissi-pvc) che offriamo.`,
     },
   },
   {
@@ -28072,9 +28072,9 @@ Repeat the test at a minimum of 8 points around the entire window perimeter: the
 
 What you found also tells you the likely cause:
 
-If the paper comes out easily only on the side opposite the handle or near the hinges, but clamps well near the handle, most likely the hardware is misadjusted or the clamping pressure is too low — this is solved by adjustment, without new parts. See [How to adjust Roto hardware for winter/summer mode](/en/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+If the paper comes out easily only on the side opposite the handle or near the hinges, but clamps well near the handle, most likely the hardware is misadjusted or the clamping pressure is too low — this is solved by adjustment, without new parts. See [How to adjust Roto hardware for winter/summer mode](/en/blog/how-to-adjust-roto-hardware-winter-summer-allen-key).
 
-If the paper comes out easily on several sides, uniformly, and the gasket feels hard and cracked to the touch, the problem is with the gaskets — they have lost their elasticity. See [When window gaskets need replacing](/en/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+If the paper comes out easily on several sides, uniformly, and the gasket feels hard and cracked to the touch, the problem is with the gaskets — they have lost their elasticity. See [When window gaskets need replacing](/en/blog/when-window-gaskets-need-replacing-signs).
 
 If the paper clamps well everywhere, but you still feel a draught — then air is not entering at the sash, but at the joint with the wall, meaning the problem is with the installation, not the window. The full context is in the guide article [Why windows whistle when the wind blows](/en/blog/why-do-windows-whistle-when-the-wind-blows-causes-solutions).
 
@@ -28140,9 +28140,9 @@ Wiederholen Sie den Test an mindestens 8 Punkten am gesamten Fensterumfang: den 
 
 Was Sie gefunden haben, verrät Ihnen auch die wahrscheinliche Ursache:
 
-Wenn das Papier nur an der dem Griff gegenüberliegenden Seite oder in der Nähe der Bänder leicht herauskommt, aber am Griff gut klemmt, ist höchstwahrscheinlich der Beschlag falsch eingestellt oder der Anpressdruck zu niedrig — das wird durch Einstellung gelöst, ohne neue Teile. Siehe [Wie Sie den Roto-Beschlag auf Winter-/Sommermodus einstellen](/de/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+Wenn das Papier nur an der dem Griff gegenüberliegenden Seite oder in der Nähe der Bänder leicht herauskommt, aber am Griff gut klemmt, ist höchstwahrscheinlich der Beschlag falsch eingestellt oder der Anpressdruck zu niedrig — das wird durch Einstellung gelöst, ohne neue Teile. Siehe [Wie Sie den Roto-Beschlag auf Winter-/Sommermodus einstellen](/de/blog/roto-beschlag-winter-sommer-einstellen-inbusschluessel).
 
-Wenn das Papier an mehreren Seiten gleichmäßig leicht herauskommt und die Dichtung hart und rissig anfühlt, liegt das Problem bei den Dichtungen — sie haben ihre Elastizität verloren. Siehe [Wann Fensterdichtungen ersetzt werden müssen](/de/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+Wenn das Papier an mehreren Seiten gleichmäßig leicht herauskommt und die Dichtung hart und rissig anfühlt, liegt das Problem bei den Dichtungen — sie haben ihre Elastizität verloren. Siehe [Wann Fensterdichtungen ersetzt werden müssen](/de/blog/wann-fensterdichtungen-ersetzt-werden-muessen-anzeichen).
 
 Wenn das Papier überall gut klemmt, Sie aber trotzdem einen Zug spüren — dann dringt die Luft nicht am Flügel ein, sondern an der Verbindung mit der Wand, das heißt, das Problem liegt bei der Montage, nicht am Fenster. Den vollständigen Kontext finden Sie im Ratgeber-Artikel [Warum Fenster bei Wind pfeifen](/de/blog/warum-pfeifen-fenster-bei-wind-ursachen-loesungen).
 
@@ -28208,9 +28208,9 @@ Répétez le test en au moins 8 points sur tout le périmètre de la fenêtre : 
 
 Ce que vous avez trouvé vous indique aussi la cause probable :
 
-Si le papier sort facilement seulement du côté opposé à la poignée ou près des paumelles, mais serre bien près de la poignée, la quincaillerie est très probablement déréglée ou la pression de serrage trop faible — cela se résout par un réglage, sans pièces neuves. Voir [Comment régler la quincaillerie Roto en mode hiver/été](/fr/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+Si le papier sort facilement seulement du côté opposé à la poignée ou près des paumelles, mais serre bien près de la poignée, la quincaillerie est très probablement déréglée ou la pression de serrage trop faible — cela se résout par un réglage, sans pièces neuves. Voir [Comment régler la quincaillerie Roto en mode hiver/été](/fr/blog/regler-quincaillerie-roto-hiver-ete-cle-allen).
 
-Si le papier sort facilement sur plusieurs côtés, uniformément, et que le joint paraît dur et fissuré au toucher, le problème vient des joints — ils ont perdu leur élasticité. Voir [Quand remplacer les joints de fenêtre](/fr/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+Si le papier sort facilement sur plusieurs côtés, uniformément, et que le joint paraît dur et fissuré au toucher, le problème vient des joints — ils ont perdu leur élasticité. Voir [Quand remplacer les joints de fenêtre](/fr/blog/quand-remplacer-joints-fenetre-signes).
 
 Si le papier serre bien partout, mais que vous ressentez toujours un courant — alors l’air n’entre pas par l’ouvrant, mais par la jonction avec le mur, ce qui signifie que le problème vient de la pose, pas de la fenêtre. Le contexte complet se trouve dans l’article-guide [Pourquoi les fenêtres sifflent quand le vent souffle](/fr/blog/pourquoi-les-fenetres-sifflent-quand-le-vent-souffle-causes-solutions).
 
@@ -28276,9 +28276,9 @@ Repite la prueba en un mínimo de 8 puntos por todo el perímetro de la ventana:
 
 Lo que has encontrado también te indica la causa probable:
 
-Si el papel sale fácilmente solo en el lado opuesto a la manilla o cerca de las bisagras, pero aprieta bien cerca de la manilla, lo más probable es que la herrería esté desajustada o la presión de apriete sea demasiado baja — se resuelve con un ajuste, sin piezas nuevas. Consulta [Cómo ajustar la herrería Roto en modo invierno/verano](/es/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+Si el papel sale fácilmente solo en el lado opuesto a la manilla o cerca de las bisagras, pero aprieta bien cerca de la manilla, lo más probable es que la herrería esté desajustada o la presión de apriete sea demasiado baja — se resuelve con un ajuste, sin piezas nuevas. Consulta [Cómo ajustar la herrería Roto en modo invierno/verano](/es/blog/ajustar-herreria-roto-invierno-verano-llave-allen).
 
-Si el papel sale fácilmente en varios lados, uniformemente, y la junta se nota dura y agrietada al tacto, el problema está en las juntas — han perdido su elasticidad. Consulta [Cuándo hay que sustituir las juntas de la ventana](/es/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+Si el papel sale fácilmente en varios lados, uniformemente, y la junta se nota dura y agrietada al tacto, el problema está en las juntas — han perdido su elasticidad. Consulta [Cuándo hay que sustituir las juntas de la ventana](/es/blog/cuando-sustituir-juntas-ventana-senales).
 
 Si el papel aprieta bien en todas partes, pero aun así sientes corriente — entonces el aire no entra por la hoja, sino por la unión con la pared, es decir, el problema está en el montaje, no en la ventana. El contexto completo lo encuentras en el artículo-guía [Por qué silban las ventanas cuando sopla el viento](/es/blog/por-que-silban-las-ventanas-cuando-sopla-el-viento-causas-soluciones).
 
@@ -28344,9 +28344,9 @@ Ripeti il test in almeno 8 punti su tutto il perimetro della finestra: i 4 angol
 
 Ciò che hai trovato ti indica anche la causa probabile:
 
-Se la carta esce facilmente solo sul lato opposto alla maniglia o vicino alle cerniere, ma stringe bene vicino alla maniglia, molto probabilmente la ferramenta è mal regolata o la pressione di serraggio è troppo bassa — si risolve con una regolazione, senza pezzi nuovi. Vedi [Come regolare la ferramenta Roto in modalità inverno/estate](/it/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus).
+Se la carta esce facilmente solo sul lato opposto alla maniglia o vicino alle cerniere, ma stringe bene vicino alla maniglia, molto probabilmente la ferramenta è mal regolata o la pressione di serraggio è troppo bassa — si risolve con una regolazione, senza pezzi nuovi. Vedi [Come regolare la ferramenta Roto in modalità inverno/estate](/it/blog/regolare-ferramenta-roto-inverno-estate-chiave-brugola).
 
-Se la carta esce facilmente su più lati, uniformemente, e la guarnizione risulta dura e crepata al tatto, il problema è nelle guarnizioni — hanno perso la loro elasticità. Vedi [Quando sostituire le guarnizioni della finestra](/it/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne).
+Se la carta esce facilmente su più lati, uniformemente, e la guarnizione risulta dura e crepata al tatto, il problema è nelle guarnizioni — hanno perso la loro elasticità. Vedi [Quando sostituire le guarnizioni della finestra](/it/blog/quando-sostituire-guarnizioni-finestra-segni).
 
 Se la carta stringe bene ovunque, ma senti comunque una corrente — allora l’aria non entra dall’anta, ma dalla giunzione con il muro, cioè il problema è nel montaggio, non nella finestra. Il contesto completo lo trovi nell’articolo-guida [Perché le finestre fischiano quando soffia il vento](/it/blog/perche-le-finestre-fischiano-quando-soffia-il-vento-cause-soluzioni).
 

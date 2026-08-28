@@ -31,8 +31,35 @@ const BLOG_SVG = (
   </svg>
 );
 
+// ── Texte de contact localizate — v217 ──────────────────────────────────────
+// Anterior: eticheta "Sună" si mesajele pre-completate WhatsApp/email erau
+// hardcodate in romana si apareau identic pe toate cele 6 limbi.
+const CONTACT_TEXTS = {
+  ro: { call: 'Sună',    wa: 'Bună ziua, Neofort BIZ! Sunt interesat de produsele/serviciile dvs. și aș dori o ofertă. Mulțumesc!',
+        subj: 'Solicitare ofertă de preț – Neofort BIZ',
+        body: 'Bună ziua, vă contactez pentru a solicita o ofertă de preț pentru produsele/serviciile Neofort BIZ. Vă rog să mă contactați pentru detalii. Mulțumesc!' },
+  en: { call: 'Call',    wa: 'Hello, Neofort BIZ! I am interested in your products and services and would like a quote. Thank you!',
+        subj: 'Quote request – Neofort BIZ',
+        body: 'Hello, I am writing to request a quote for Neofort BIZ products and services. Please get in touch with me for details. Thank you!' },
+  de: { call: 'Anrufen', wa: 'Guten Tag, Neofort BIZ! Ich interessiere mich für Ihre Produkte und Leistungen und hätte gern ein Angebot. Vielen Dank!',
+        subj: 'Angebotsanfrage – Neofort BIZ',
+        body: 'Guten Tag, ich möchte ein Angebot für Produkte und Leistungen von Neofort BIZ anfragen. Bitte melden Sie sich bei mir für weitere Einzelheiten. Vielen Dank!' },
+  fr: { call: 'Appeler', wa: 'Bonjour, Neofort BIZ ! Vos produits et services m’intéressent et je souhaiterais recevoir un devis. Merci !',
+        subj: 'Demande de devis – Neofort BIZ',
+        body: 'Bonjour, je vous contacte afin d’obtenir un devis pour les produits et services Neofort BIZ. Merci de me recontacter pour les détails. Cordialement.' },
+  es: { call: 'Llamar',  wa: '¡Buenos días, Neofort BIZ! Me interesan sus productos y servicios y me gustaría recibir un presupuesto. ¡Gracias!',
+        subj: 'Solicitud de presupuesto – Neofort BIZ',
+        body: 'Buenos días, les escribo para solicitar un presupuesto de los productos y servicios de Neofort BIZ. Pónganse en contacto conmigo para los detalles. Gracias.' },
+  it: { call: 'Chiama',  wa: 'Buongiorno, Neofort BIZ! Sono interessato ai vostri prodotti e servizi e vorrei ricevere un preventivo. Grazie!',
+        subj: 'Richiesta di preventivo – Neofort BIZ',
+        body: 'Buongiorno, vi scrivo per richiedere un preventivo per i prodotti e i servizi Neofort BIZ. Vi prego di contattarmi per i dettagli. Grazie.' },
+};
+
 export default function Header() {
   const locale   = useLocale();
+  const ct       = CONTACT_TEXTS[locale] || CONTACT_TEXTS.ro;
+  const waHref   = `https://wa.me/40752443435?text=${encodeURIComponent(ct.wa)}`;
+  const mailHref = `mailto:oferte@neofort-biz.ro?subject=${encodeURIComponent(ct.subj)}&body=${encodeURIComponent(ct.body)}`;
   const t        = useTranslations('nav');
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
@@ -61,11 +88,11 @@ export default function Header() {
       <a href="tel:+40752443435" className="hdr-btn hdr-btn-tel" aria-label="Telefon">
         {TEL_SVG}
       </a>
-      <a href="https://wa.me/40752443435?text=Bun%C4%83%20ziua%2C%20Neofort%20BIZ!%20Sunt%20interesat%20de%20produsele%2Fserviciile%20dvs.%20%C8%99i%20a%C8%99%20dori%20o%20ofert%C4%83.%20Mul%C8%9Bumesc!" target="_blank" rel="noopener noreferrer"
+      <a href={waHref} target="_blank" rel="noopener noreferrer"
         className="hdr-btn hdr-btn-wa" aria-label="WhatsApp">
         {WA_SVG}
       </a>
-      <a href="mailto:oferte@neofort-biz.ro?subject=Solicitare%20ofert%C4%83%20de%20pre%C8%9B%20%E2%80%93%20Neofort%20BIZ&body=Bun%C4%83%20ziua%2C%20v%C4%83%20contactez%20pentru%20a%20solicita%20o%20ofert%C4%83%20de%20pre%C8%9B%20pentru%20produsele%2Fserviciile%20Neofort%20BIZ.%20V%C4%83%20rog%20s%C4%83%20m%C4%83%20contacta%C8%9Bi%20pentru%20detalii.%20Mul%C8%9Bumesc!" className="hdr-btn hdr-btn-mail" aria-label="Email">
+      <a href={mailHref} className="hdr-btn hdr-btn-mail" aria-label="Email">
         {MAIL_SVG}
       </a>
     </div>
@@ -138,7 +165,7 @@ export default function Header() {
       </header>
 
       {/* ── Floating WhatsApp desktop (stânga) ─────────────────────────────── */}
-      <a href="https://wa.me/40752443435?text=Bun%C4%83%20ziua%2C%20Neofort%20BIZ!%20Sunt%20interesat%20de%20produsele%2Fserviciile%20dvs.%20%C8%99i%20a%C8%99%20dori%20o%20ofert%C4%83.%20Mul%C8%9Bumesc!" target="_blank" rel="noopener noreferrer"
+      <a href={waHref} target="_blank" rel="noopener noreferrer"
         className="wa-float" aria-label="WhatsApp Neofort BIZ">
         {WA_SVG}
       </a>
@@ -147,14 +174,14 @@ export default function Header() {
       <nav className="mobile-bottom-bar" aria-label="Contact rapid">
         <a href="tel:+40752443435" className="mbb-btn">
           {TEL_SVG}
-          <span>Sună</span>
+          <span>{ct.call}</span>
         </a>
-        <a href="https://wa.me/40752443435?text=Bun%C4%83%20ziua%2C%20Neofort%20BIZ!%20Sunt%20interesat%20de%20produsele%2Fserviciile%20dvs.%20%C8%99i%20a%C8%99%20dori%20o%20ofert%C4%83.%20Mul%C8%9Bumesc!" target="_blank" rel="noopener noreferrer"
+        <a href={waHref} target="_blank" rel="noopener noreferrer"
           className="mbb-btn mbb-wa">
           {WA_SVG}
           <span>WhatsApp</span>
         </a>
-        <a href="mailto:oferte@neofort-biz.ro?subject=Solicitare%20ofert%C4%83%20de%20pre%C8%9B%20%E2%80%93%20Neofort%20BIZ&body=Bun%C4%83%20ziua%2C%20v%C4%83%20contactez%20pentru%20a%20solicita%20o%20ofert%C4%83%20de%20pre%C8%9B%20pentru%20produsele%2Fserviciile%20Neofort%20BIZ.%20V%C4%83%20rog%20s%C4%83%20m%C4%83%20contacta%C8%9Bi%20pentru%20detalii.%20Mul%C8%9Bumesc!" className="mbb-btn">
+        <a href={mailHref} className="mbb-btn">
           {MAIL_SVG}
           <span>Email</span>
         </a>

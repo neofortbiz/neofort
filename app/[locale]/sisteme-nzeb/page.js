@@ -99,20 +99,8 @@ export default async function Page({ params }) {
     ],
   };
 
-  const faqSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    'mainEntity': ({'ro': [['Ce sunt precadrele Blaugelb Triotherm+ și de ce sunt esențiale pentru nZEB?', 'Precadrele Blaugelb Triotherm+ sunt sistemul de montaj termic cu 3 zone de izolare XPS care elimină complet puntea termică de montaj — responsabilă pentru mucegaiul din jurul ramei. Sunt esențiale pentru atingerea certificării energetice A și A+ (nZEB) conform standardelor europene.'], ['Care este diferența dintre banda butilică și banda antivapori?', 'Banda butilică (exterior): impermeabilă la apă, permeabilă la vapori — respinge ploaia din exterior. Banda antivapori (interior): Sd > 10 m — blochează vaporii calzi din cameră să migreze în structura peretelui. Ambele sunt necesare pentru sistemul complet RAL 3 straturi.'], ['Ce înseamnă Warm Edge la geamul termoizolator?', 'Warm Edge este distanțierul termoplastic (λ = 0,035 W/mK) care înlocuiește distanțierul clasic de aluminiu (λ = 160 W/mK). Reduce puntea termică la marginea geamului cu 60%, crește temperatura marginii cu 4-6°C și elimină condensul vizibil pe geam lângă ramă.']], 'en': [['What are Blaugelb Triotherm+ precasings and why are they essential for nZEB?', 'Blaugelb Triotherm+ precasings are the thermal mounting system with 3 XPS insulation zones that completely eliminate the installation thermal bridge — responsible for mould around the frame. They are essential for achieving A and A+ energy certification (nZEB) under European standards.'], ['What is the difference between butyl tape and vapour barrier tape?', 'Butyl tape (exterior): waterproof, vapour permeable — repels rain from outside. Vapour barrier tape (interior): Sd > 10 m — blocks warm indoor vapour from migrating into the wall structure. Both are needed for the complete RAL 3-layer system.'], ['What does Warm Edge mean in insulating glass?', 'Warm Edge is the thermoplastic spacer (λ = 0.035 W/mK) that replaces the classic aluminium spacer (λ = 160 W/mK). It reduces the glass edge thermal bridge by 60%, raises the edge temperature by 4-6°C and eliminates visible condensation on the glass near the frame.']]})[locale]?.map(([q,a]) => ({
-      '@type': 'Question',
-      'name': q,
-      'acceptedAnswer': { '@type': 'Answer', 'text': a }
-    })) || {'ro': [['Ce sunt precadrele Blaugelb Triotherm+ și de ce sunt esențiale pentru nZEB?', 'Precadrele Blaugelb Triotherm+ sunt sistemul de montaj termic cu 3 zone de izolare XPS care elimină complet puntea termică de montaj — responsabilă pentru mucegaiul din jurul ramei. Sunt esențiale pentru atingerea certificării energetice A și A+ (nZEB) conform standardelor europene.'], ['Care este diferența dintre banda butilică și banda antivapori?', 'Banda butilică (exterior): impermeabilă la apă, permeabilă la vapori — respinge ploaia din exterior. Banda antivapori (interior): Sd > 10 m — blochează vaporii calzi din cameră să migreze în structura peretelui. Ambele sunt necesare pentru sistemul complet RAL 3 straturi.'], ['Ce înseamnă Warm Edge la geamul termoizolator?', 'Warm Edge este distanțierul termoplastic (λ = 0,035 W/mK) care înlocuiește distanțierul clasic de aluminiu (λ = 160 W/mK). Reduce puntea termică la marginea geamului cu 60%, crește temperatura marginii cu 4-6°C și elimină condensul vizibil pe geam lângă ramă.']], 'en': [['What are Blaugelb Triotherm+ precasings and why are they essential for nZEB?', 'Blaugelb Triotherm+ precasings are the thermal mounting system with 3 XPS insulation zones that completely eliminate the installation thermal bridge — responsible for mould around the frame. They are essential for achieving A and A+ energy certification (nZEB) under European standards.'], ['What is the difference between butyl tape and vapour barrier tape?', 'Butyl tape (exterior): waterproof, vapour permeable — repels rain from outside. Vapour barrier tape (interior): Sd > 10 m — blocks warm indoor vapour from migrating into the wall structure. Both are needed for the complete RAL 3-layer system.'], ['What does Warm Edge mean in insulating glass?', 'Warm Edge is the thermoplastic spacer (λ = 0.035 W/mK) that replaces the classic aluminium spacer (λ = 160 W/mK). It reduces the glass edge thermal bridge by 60%, raises the edge temperature by 4-6°C and eliminates visible condensation on the glass near the frame.']]}['ro'].map(([q,a]) => ({
-      '@type': 'Question',
-      'name': q,
-      'acceptedAnswer': { '@type': 'Answer', 'text': a }
-    }))
-  };
 
+  const pillarSectionLabel = {"ro":"Ghid & Resurse","en":"Guide & Resources","de":"Ratgeber & Ressourcen","fr":"Guide & Ressources","es":"Guía y Recursos","it":"Guida e Risorse"}[locale] || "Ghid & Resurse";
   const PILLAR_SLUGS = {
     ro: 'sisteme-nzeb/ghid-complet-nzeb',
     en: 'nzeb-systems/complete-guide',
@@ -216,7 +204,7 @@ export default async function Page({ params }) {
         <div className="container" style={{paddingTop:'24px',paddingBottom:'24px',borderTop:'1px solid #e8e8e4'}}>
           <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'12px'}}>
             <div>
-              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#888',marginBottom:'4px'}}>Ghid & Resurse</div>
+              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#888',marginBottom:'4px'}}>{pillarSectionLabel}</div>
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.92rem',fontWeight:600,letterSpacing:'.04em',color:'#1a2a3a'}}>{pillarLabel}</div>
             </div>
             <Link href={`/${pillarSlug}`} style={{display:'inline-block',background:'#1a2a3a',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.18em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',whiteSpace:'nowrap'}}>

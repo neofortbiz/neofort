@@ -100,6 +100,36 @@ export default function sitemap() {
     });
   });
 
+  // ── Pagini pilon secundare: ghiduri complete + preturi/orase non-PVC — v217
+  // Erau excluse involuntar de EXCLUDE_NON_PRODUCT (mai jos), care filtreaza
+  // 'ghid-complet|preturi|bucuresti' din generarea de produse. PVC_SEO recupera
+  // manual doar variantele PVC, deci 7 rute x 6 limbi = 42 URL-uri lipseau complet
+  // desi paginile exista si sunt declarate in routing.js.
+  const PILLAR_EXTRA_KEYS = [
+    '/tamplarie-pvc/ghid-complet',
+    '/tamplarie-aluminiu/ghid-complet',
+    '/tamplarie-aluminiu/preturi',
+    '/tamplarie-aluminiu/bucuresti',
+    '/sisteme-nzeb/ghid-complet-nzeb',
+    '/umbrire/ghid-complet-sisteme-umbrire',
+    '/umbrire/preturi-sisteme-umbrire',
+  ];
+  LOCALES.forEach(locale => {
+    PILLAR_EXTRA_KEYS.forEach(key => {
+      const p = routing.pathnames[key];
+      if (!p) return;
+      urls.push({
+        url: `${BASE}/${locale}${p[locale] || p.ro}`,
+        lastModified: now,
+        priority: 0.86,
+        changeFrequency: 'monthly',
+        alternates: {
+          languages: Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}${p[l] || p.ro}`])),
+        },
+      });
+    });
+  });
+
   // ── Produse individuale (toate categoriile) — generat DINAMIC din i18n/routing.js (v190)
   // Sursă unică de adevăr: elimină listele hardcodate (anterior 22 produse, lipseau zipscreen,
   // pergole-somfy, automatizari-somfy ×2). Acum orice produs nou din routing apare automat.

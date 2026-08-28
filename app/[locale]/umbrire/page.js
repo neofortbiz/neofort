@@ -93,20 +93,8 @@ export default async function Page({ params }) {
     ],
   };
 
-  const faqSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    'mainEntity': ({'ro': [['Ce este mai bun: rulouri aluminiu sau jaluzele Raffstore?', 'Rulourile asigură protecție maximă la efracție (RC3) și izolare termică nocturnă. Raffstore oferă control solar de precizie cu vedere păstrată. Dacă prioritatea e securitatea și izolarea termică — rulouri. Dacă e controlul luminii — Raffstore.'], ['Rulourile exterioare din aluminiu se pot monta pe ferestre deja instalate?', 'Da, rulourile aluminiu se montează ca sistem aplicat sau suprapus direct pe tâmplăria existentă, fără modificări structurale, atât pe PVC cât și pe aluminiu.'], ['Ce reducere solară oferă jaluzelele Raffstore față de rulourile clasice?', 'Raffstore reduce câștigul solar cu până la 85% (față de 70% la rulouri), cu avantajul unic că menține vederea spre exterior la orice poziție intermediară a lamelelor.']], 'en': [['What is better: aluminium roller shutters or Raffstore blinds?', "Shutters offer maximum RC3 burglary protection and night thermal insulation. Raffstore provides precision solar control with maintained exterior view. If priority is security and insulation — shutters. If it's light control — Raffstore."], ['Can exterior aluminium shutters be fitted to already installed windows?', 'Yes, aluminium shutters are installed as a surface-mounted or overlay system directly on existing joinery, without structural modifications, on both PVC and aluminium frames.'], ['What solar reduction do Raffstore blinds offer vs. classic shutters?', 'Raffstore reduces solar heat gain by up to 85% (vs. 70% for shutters), with the unique advantage of maintaining exterior view at any intermediate slat position.']]})[locale]?.map(([q,a]) => ({
-      '@type': 'Question',
-      'name': q,
-      'acceptedAnswer': { '@type': 'Answer', 'text': a }
-    })) || {'ro': [['Ce este mai bun: rulouri aluminiu sau jaluzele Raffstore?', 'Rulourile asigură protecție maximă la efracție (RC3) și izolare termică nocturnă. Raffstore oferă control solar de precizie cu vedere păstrată. Dacă prioritatea e securitatea și izolarea termică — rulouri. Dacă e controlul luminii — Raffstore.'], ['Rulourile exterioare din aluminiu se pot monta pe ferestre deja instalate?', 'Da, rulourile aluminiu se montează ca sistem aplicat sau suprapus direct pe tâmplăria existentă, fără modificări structurale, atât pe PVC cât și pe aluminiu.'], ['Ce reducere solară oferă jaluzelele Raffstore față de rulourile clasice?', 'Raffstore reduce câștigul solar cu până la 85% (față de 70% la rulouri), cu avantajul unic că menține vederea spre exterior la orice poziție intermediară a lamelelor.']], 'en': [['What is better: aluminium roller shutters or Raffstore blinds?', "Shutters offer maximum RC3 burglary protection and night thermal insulation. Raffstore provides precision solar control with maintained exterior view. If priority is security and insulation — shutters. If it's light control — Raffstore."], ['Can exterior aluminium shutters be fitted to already installed windows?', 'Yes, aluminium shutters are installed as a surface-mounted or overlay system directly on existing joinery, without structural modifications, on both PVC and aluminium frames.'], ['What solar reduction do Raffstore blinds offer vs. classic shutters?', 'Raffstore reduces solar heat gain by up to 85% (vs. 70% for shutters), with the unique advantage of maintaining exterior view at any intermediate slat position.']]}['ro'].map(([q,a]) => ({
-      '@type': 'Question',
-      'name': q,
-      'acceptedAnswer': { '@type': 'Answer', 'text': a }
-    }))
-  };
 
+  const pillarSectionLabel = {"ro":"Ghid & Resurse","en":"Guide & Resources","de":"Ratgeber & Ressourcen","fr":"Guide & Ressources","es":"Guía y Recursos","it":"Guida e Risorse"}[locale] || "Ghid & Resurse";
   const PILLAR_SLUGS = {
     ro: 'umbrire/ghid-complet-sisteme-umbrire',
     en: 'shading-systems/complete-guide',
@@ -205,7 +193,7 @@ export default async function Page({ params }) {
         <div className="container" style={{paddingTop:'24px',paddingBottom:'24px',borderTop:'1px solid #e8e8e4'}}>
           <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'12px'}}>
             <div>
-              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#404040',marginBottom:'4px'}}>Ghid & Resurse</div>
+              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#404040',marginBottom:'4px'}}>{pillarSectionLabel}</div>
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.92rem',fontWeight:600,letterSpacing:'.04em',color:'#1a2a3a'}}>{pillarLabel}</div>
             </div>
             <Link href={`/${pillarSlug}`} style={{display:'inline-block',background:'#1a2a3a',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.18em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',whiteSpace:'nowrap'}}>

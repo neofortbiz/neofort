@@ -11,6 +11,9 @@ import Script from 'next/script';
 import { BASE as baseUrl, LOCALES as locales } from '../../lib/constants.js';
 import { getGoogleRating } from '../../lib/googleRating.js';
 
+// Format Open Graph pentru limbi — identic cu maparea folosita in homepage (v217).
+const OG_LOCALE = { ro:'ro_RO', en:'en_US', de:'de_DE', fr:'fr_FR', es:'es_ES', it:'it_IT' };
+
 // next/font: self-hosted, zero layout shift, nu blochează render
 const barlow = Barlow({
   subsets: ['latin', 'latin-ext'],
@@ -43,7 +46,13 @@ export async function generateMetadata({ params }) {
         { url: 'https://www.neofort-biz.ro/og-neofort.jpg', width: 1200, height: 630, type: 'image/jpeg' },
         { url: 'https://www.neofort-biz.ro/og/Fabrica_Neofort.jpg', width: 1200, height: 630, type:'image/jpeg' },
       ],
-      locale: locale,
+      // v217: format lung (ro_RO), consecvent cu maparea din homepage. Anterior se trimitea
+      // codul scurt ('ro'), care nu respecta standardul Open Graph.
+      locale: OG_LOCALE[locale] || OG_LOCALE.ro,
+      // v217: alternateLocale se declara AICI, nu ca <meta> in <head>. Bucla manuala din head
+      // emitea 5 tag-uri cu acelasi `property`, iar Next.js le deduplica: pe live ajungea
+      // unul singur ('it' — ultimul din array). Aici Next le serializeaza corect pe toate.
+      alternateLocale: locales.filter(l => l !== locale).map(l => OG_LOCALE[l]).filter(Boolean),
     },
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1, 'max-video-preview': -1 } },
   };
@@ -92,10 +101,8 @@ export default async function LocaleLayout({ children, params }) {
         <meta name="geo.position" content="44.4430930263596;26.088545186506916" />
         <meta name="ICBM" content="44.4430930263596, 26.088545186506916" />
 
-        {/* OG locale:alternate */}
-        {locales.filter(l => l !== locale).map(l => (
-          <meta key={`og-alt-${l}`} property="og:locale:alternate" content={l} />
-        ))}
+        {/* OG locale:alternate — mutat in generateMetadata (v217). Bucla manuala de aici
+            emitea un singur tag din cauza deduplicarii Next.js pe acelasi `property`. */}
       </head>
       <body>
         <NextIntlClientProvider messages={messages}>

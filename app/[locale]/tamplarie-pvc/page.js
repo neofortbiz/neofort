@@ -192,7 +192,7 @@ export default async function TamplariePVCPage({ params }) {
   const ui = PAGE_UI[locale] || PAGE_UI.ro;
 
   const schemaPVC = {
-    '@context': 'https://schema.org', '@type': ['CollectionPage', 'Product'],
+    '@context': 'https://schema.org', '@type': 'CollectionPage',
     'name': PAGE_UI[locale]?.h1 || PAGE_UI.ro.h1,
     'description': PAGE_UI[locale]?.sub || PAGE_UI.ro.sub,
     'url': `${BASE}/${locale}/${SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro}`,
@@ -204,19 +204,6 @@ export default async function TamplariePVCPage({ params }) {
         { '@type': 'ListItem', 'position': 2, 'name': PAGE_UI[locale]?.h1 || 'Profile PVC Salamander', 'item': `${BASE}/${locale}/${SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro}` },
       ],
     },
-  };
-  const faqSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    'mainEntity': ({'ro': [['Cât costă tâmplăria PVC Salamander în 2026?', 'Prețul tâmplăriei PVC Salamander pornește de la 180–250 EUR/mp pentru GreenEvolution 76 și ajunge la 250–380 EUR/mp pentru BluEvolution 92, inclusiv geam termopan și montaj profesional. Prețul final depinde de dimensiuni, configurație (fixe, batante, culisante) și opțiuni (culoare RAL, geam tripan).'], ['Care este diferența dintre tâmplărie PVC Salamander și termopanele obișnuite?', 'Termopan este termenul popular pentru geamul termoizolator, nu pentru tâmplărie. Tâmplăria PVC Salamander este profilele (ramele) ferestrei. BluEvolution 92 și GreenEvolution 76 sunt profile certificate nZEB cu 5–6 camere de aer, Uw ≤ 0,70–0,73 W/m²K — semnificativ mai performante decât profilele generice ieftine de 3–4 camere.'], ['Care este diferența dintre BluEvolution 92 și GreenEvolution 76?', 'BluEvolution 92 are 6 camere, adâncime 92mm și Uw = 0,70 W/m²K — standard Passive House. GreenEvolution 76 are 5 camere, adâncime 76mm și Uw = 0,73 W/m²K — standard nZEB. BluEvolution 92 este recomandat pentru proiecte premium; GreenEvolution 76 pentru proiecte rezidențiale cu raport calitate-preț optim.'], ['Ce înseamnă nZEB și de ce contează la tâmplăria PVC?', 'nZEB (Nearly Zero Energy Building) este standardul european pentru clădiri cu consum de energie aproape zero, obligatoriu în România din 2021 pentru construcții noi. Profilele PVC Salamander GreenEvolution 76 și BluEvolution 92 sunt certificate nZEB, cu Uw ≤ 0,73 W/m²K.'], ['Ce este profilul MD față de AD în gama GreenEvolution 76?', 'MD (Middle Density) înseamnă că profilul are o garnitură mediană suplimentară — 3 puncte de etanșare total. AD (Advanced Design) are 2 garnituri EPDM fără garnitură mediană. Ambele au 5 camere. MD ROUND are design curbat, MD FLEX și AD FLEX au design drept.']], 'en': [['What is the difference between BluEvolution 92 and GreenEvolution 76?', 'BluEvolution 92 has 6 chambers, 92mm depth and Uw = 0.70 W/m²K — Passive House standard. GreenEvolution 76 has 5 chambers, 76mm depth and Uw = 0.73 W/m²K — nZEB standard. BluEvolution 92 is recommended for premium projects; GreenEvolution 76 for residential projects with optimal value.'], ['What does nZEB mean and why does it matter for PVC windows?', 'nZEB (Nearly Zero Energy Building) is the European standard for nearly zero energy buildings, mandatory in Romania from 2021 for new constructions. Salamander GreenEvolution 76 and BluEvolution 92 PVC profiles are nZEB certified with Uw ≤ 0.73 W/m²K.'], ['What is MD vs AD profile in GreenEvolution 76?', 'MD (Middle Density) means the profile has an additional middle gasket — 3 sealing points total. AD (Advanced Design) has 2 EPDM gaskets without middle gasket. Both have 5 chambers. MD ROUND has rounded design, MD FLEX and AD FLEX have straight design.']]})[locale]?.map(([q,a]) => ({
-      '@type': 'Question',
-      'name': q,
-      'acceptedAnswer': { '@type': 'Answer', 'text': a }
-    })) || {'ro': [['Cât costă tâmplăria PVC Salamander în 2026?', 'Prețul tâmplăriei PVC Salamander pornește de la 180–250 EUR/mp pentru GreenEvolution 76 și ajunge la 250–380 EUR/mp pentru BluEvolution 92, inclusiv geam termopan și montaj profesional. Prețul final depinde de dimensiuni, configurație (fixe, batante, culisante) și opțiuni (culoare RAL, geam tripan).'], ['Care este diferența dintre tâmplărie PVC Salamander și termopanele obișnuite?', 'Termopan este termenul popular pentru geamul termoizolator, nu pentru tâmplărie. Tâmplăria PVC Salamander este profilele (ramele) ferestrei. BluEvolution 92 și GreenEvolution 76 sunt profile certificate nZEB cu 5–6 camere de aer, Uw ≤ 0,70–0,73 W/m²K — semnificativ mai performante decât profilele generice ieftine de 3–4 camere.'], ['Care este diferența dintre BluEvolution 92 și GreenEvolution 76?', 'BluEvolution 92 are 6 camere, adâncime 92mm și Uw = 0,70 W/m²K — standard Passive House. GreenEvolution 76 are 5 camere, adâncime 76mm și Uw = 0,73 W/m²K — standard nZEB. BluEvolution 92 este recomandat pentru proiecte premium; GreenEvolution 76 pentru proiecte rezidențiale cu raport calitate-preț optim.'], ['Ce înseamnă nZEB și de ce contează la tâmplăria PVC?', 'nZEB (Nearly Zero Energy Building) este standardul european pentru clădiri cu consum de energie aproape zero, obligatoriu în România din 2021 pentru construcții noi. Profilele PVC Salamander GreenEvolution 76 și BluEvolution 92 sunt certificate nZEB, cu Uw ≤ 0,73 W/m²K.'], ['Ce este profilul MD față de AD în gama GreenEvolution 76?', 'MD (Middle Density) înseamnă că profilul are o garnitură mediană suplimentară — 3 puncte de etanșare total. AD (Advanced Design) are 2 garnituri EPDM fără garnitură mediană. Ambele au 5 camere. MD ROUND are design curbat, MD FLEX și AD FLEX au design drept.']], 'en': [['What is the difference between BluEvolution 92 and GreenEvolution 76?', 'BluEvolution 92 has 6 chambers, 92mm depth and Uw = 0.70 W/m²K — Passive House standard. GreenEvolution 76 has 5 chambers, 76mm depth and Uw = 0.73 W/m²K — nZEB standard. BluEvolution 92 is recommended for premium projects; GreenEvolution 76 for residential projects with optimal value.'], ['What does nZEB mean and why does it matter for PVC windows?', 'nZEB (Nearly Zero Energy Building) is the European standard for nearly zero energy buildings, mandatory in Romania from 2021 for new constructions. Salamander GreenEvolution 76 and BluEvolution 92 PVC profiles are nZEB certified with Uw ≤ 0.73 W/m²K.'], ['What is MD vs AD profile in GreenEvolution 76?', 'MD (Middle Density) means the profile has an additional middle gasket — 3 sealing points total. AD (Advanced Design) has 2 EPDM gaskets without middle gasket. Both have 5 chambers. MD ROUND has rounded design, MD FLEX and AD FLEX have straight design.']]}['ro'].map(([q,a]) => ({
-      '@type': 'Question',
-      'name': q,
-      'acceptedAnswer': { '@type': 'Answer', 'text': a }
-    }))
   };
 
   const faqItemsPVC = ({
@@ -266,6 +253,20 @@ export default async function TamplariePVCPage({ params }) {
 
   const faqLabelPVC = {ro:'Întrebări frecvente',en:'Frequently asked questions',de:'Häufig gestellte Fragen',fr:'Questions fréquentes',es:'Preguntas frecuentes',it:'Domande frequenti'}[locale] || 'Întrebări frecvente';
 
+  // FAQPage generat din faqItemsPVC — sursa unica, localizata pe toate cele 6 limbi.
+  // Anterior: obiect inline separat cu doar 'ro'/'en', care servea intrebari in
+  // romana pe paginile de/fr/es/it si avea 3 intrebari pe EN fata de 5 vizibile.
+  const faqSchema = faqItemsPVC.length ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    'mainEntity': faqItemsPVC.map(([q, a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a },
+    })),
+  } : null;
+
+  const pillarSectionLabel = {"ro":"Ghid & Resurse","en":"Guide & Resources","de":"Ratgeber & Ressourcen","fr":"Guide & Ressources","es":"Guía y Recursos","it":"Guida e Risorse"}[locale] || "Ghid & Resurse";
   const PILLAR_SLUGS = {
     ro: 'tamplarie-pvc/ghid-complet',
     en: 'pvc-windows/complete-guide',
@@ -299,7 +300,7 @@ export default async function TamplariePVCPage({ params }) {
       {/* Preload LCP — prima imagine din grid produse */}
       <link rel="preload" as="image" href="/products/bluevolution-92-alu.avif" type="image/avif" fetchPriority="high" />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaPVC) }}/>
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>
+      {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>}
       {/* ── PAGE HEADER ── */}
       <div className="page-header">
         <div className="container mx-auto px-6">
@@ -428,7 +429,7 @@ export default async function TamplariePVCPage({ params }) {
         <div className="container" style={{paddingTop:'24px',paddingBottom:'24px',borderTop:'1px solid #e8e8e4'}}>
           <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'12px'}}>
             <div>
-              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#404040',marginBottom:'4px'}}>Ghid & Resurse</div>
+              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#404040',marginBottom:'4px'}}>{pillarSectionLabel}</div>
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.92rem',fontWeight:600,letterSpacing:'.04em',color:'#1a2a3a'}}>{pillarLabel}</div>
             </div>
             <Link href={`/${pillarSlug}`} style={{display:'inline-block',background:'#1a2a3a',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.18em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',whiteSpace:'nowrap'}}>

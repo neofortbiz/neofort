@@ -10,6 +10,14 @@ const nextConfig = {
   // images: config eliminat (v188) — next/image nu e folosit nicăieri în proiect (cotă Vercel epuizată, decizie definitivă)
   async redirects() {
     return [
+      // v217: /umbrire/preturi era duplicat identic (acelasi md5) al paginii
+      // /umbrire/preturi-sisteme-umbrire. Folderul a fost sters; pastram 301.
+      { source: '/ro/umbrire/preturi', destination: '/ro/umbrire/preturi-sisteme-umbrire', permanent: true },
+      { source: '/en/shading-systems/prices', destination: '/en/shading-systems/shading-prices', permanent: true },
+      { source: '/de/beschattungssysteme/preise', destination: '/de/beschattungssysteme/beschattung-preise', permanent: true },
+      { source: '/fr/systemes-occultation/prix', destination: '/fr/systemes-occultation/prix-occultation', permanent: true },
+      { source: '/es/sistemas-sombreado/precios', destination: '/es/sistemas-sombreado/precios-sombreado', permanent: true },
+      { source: '/it/sistemi-oscuramento/prezzi', destination: '/it/sistemi-oscuramento/prezzi-oscuramento', permanent: true },
       // === v188: eliminare duplicate content /ghid → /ghid-complet (8 pagini, audit Mai 2026) ===
       { source: '/ro/tamplarie-pvc/ghid',          destination: '/ro/tamplarie-pvc/ghid-complet',                    permanent: true },
       { source: '/en/pvc-windows/ghid',            destination: '/en/pvc-windows/complete-guide',                    permanent: true },

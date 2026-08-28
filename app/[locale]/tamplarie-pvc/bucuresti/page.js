@@ -317,6 +317,7 @@ const UI = {
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const ui = UI[locale] || UI.ro;
+  const cityName = {"ro":"București","en":"Bucharest","de":"Bukarest","fr":"Bucarest","es":"Bucarest","it":"Bucarest"}[locale] || "București";
   const slug = SLUGS[locale] || SLUGS.ro;
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
   return {
@@ -394,7 +395,7 @@ export default async function BucurestiPvcPage({ params }) {
             <span style={{ color: '#4a4a4a' }}>›</span>
             <Link href={`/${parentSlug}`} style={{ color: '#404040', textDecoration: 'none' }}>{ui.parent}</Link>
             <span style={{ color: '#4a4a4a' }}>›</span>
-            <span style={{ color: '#1a1a1a' }}>București</span>
+            <span style={{ color: '#1a1a1a' }}>{cityName}</span>
           </nav>
           <span className="sec-label">{ui.label}</span>
           <h1 className="font-condensed text-4xl font-semibold text-primary mb-3">{ui.h1}</h1>

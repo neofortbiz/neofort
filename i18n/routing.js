@@ -311,14 +311,6 @@ export const routing = defineRouting({
       es: '/blog/sustitucion-ventanas-renovacion-apartamento-bucarest',
       it: '/blog/sostituzione-finestre-ristrutturazione-appartamento-bucarest',
     },
-    '/blog/inchidere-balcon-terasa-tamplarie-aluminiu-bucuresti-2026': {
-      ro: '/blog/inchidere-balcon-terasa-tamplarie-aluminiu-bucuresti-2026',
-      en: '/blog/balcony-terrace-enclosure-aluminium-windows-bucharest-2026',
-      de: '/blog/balkon-terrasse-verglasung-aluminium-bukarest-2026',
-      fr: '/blog/fermeture-balcon-terrasse-menuiserie-aluminium-bucarest-2026',
-      es: '/blog/cierre-balcon-terraza-carpinteria-aluminio-bucarest-2026',
-      it: '/blog/chiusura-balcone-terrazza-infissi-alluminio-bucarest-2026',
-    },
     '/blog/vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti': {
       ro: '/blog/vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti',
       en: '/blog/glass-shopfronts-panoramic-large-format-tempered-windows-bucharest',
