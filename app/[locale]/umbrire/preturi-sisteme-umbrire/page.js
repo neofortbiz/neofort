@@ -296,12 +296,12 @@ const MID_TITLES = {
   it: 'Richiedi il tuo preventivo gratuito — rispondiamo in 2 ore',
 };
 const MID_DESCS = {
-  ro: 'Masuratori gratuite in Bucuresti si Ilfov. Oferta in 24h. 50 recenzii Google 5.0/5.',
-  en: 'Free measurements in Bucharest and Ilfov. Quote in 24h. 50 Google reviews 5.0/5.',
-  de: 'Kostenlose Aufmasse in Bukarest. Angebot in 24h. 50 Google-Bewertungen 5.0/5.',
-  fr: 'Prises de cotes gratuites a Bucarest. Devis en 24h. 50 avis Google 5.0/5.',
-  es: 'Mediciones gratuitas en Bucarest. Presupuesto en 24h. 50 resenas Google 5.0/5.',
-  it: 'Misurazioni gratuite a Bucarest. Preventivo in 24h. 50 recensioni Google 5.0/5.',
+  ro: 'Masuratori gratuite in Bucuresti si Ilfov. Oferta in 24h. 52 recenzii Google 5.0/5.',
+  en: 'Free measurements in Bucharest and Ilfov. Quote in 24h. 52 Google reviews 5.0/5.',
+  de: 'Kostenlose Aufmasse in Bukarest. Angebot in 24h. 52 Google-Bewertungen 5.0/5.',
+  fr: 'Prises de cotes gratuites a Bucarest. Devis en 24h. 52 avis Google 5.0/5.',
+  es: 'Mediciones gratuitas en Bucarest. Presupuesto en 24h. 52 resenas Google 5.0/5.',
+  it: 'Misurazioni gratuite a Bucarest. Preventivo in 24h. 52 recensioni Google 5.0/5.',
 };
 
 export async function generateStaticParams() {
