@@ -54,7 +54,7 @@ const UI = {
       }
     ],
     "h2_cta": "Solicitati oferta personalizata",
-    "cta_desc": "Echipa Neofort BIZ va efectueaza masuratori gratuite si va ofera oferta detaliata pentru sistemul de umbrire potrivit. Montaj profesional in Bucuresti si Ilfov.",
+    "cta_desc": "Echipa Neofort BIZ va ofera o oferta detaliata pentru sistemul de umbrire potrivit. Masuratorile la fata locului se fac dupa semnarea contractului. Montaj profesional in Bucuresti si Ilfov.",
     "cta_btn": "Cerere Oferta Umbrire",
     "guide_link": "Citeste Ghidul Complet Sisteme Umbrire",
     "guide_slug": "umbrire/ghid-complet-sisteme-umbrire"
@@ -96,7 +96,7 @@ const UI = {
       }
     ],
     "h2_cta": "Request a Personalised Quote",
-    "cta_desc": "The Neofort BIZ team will carry out free measurements and provide a detailed quote for the right shading system. Professional installation in Bucharest and Ilfov.",
+    "cta_desc": "The Neofort BIZ team will provide a detailed quote for the right shading system. On-site measurements are taken after the contract is signed. Professional installation in Bucharest and Ilfov.",
     "cta_btn": "Request Shading Quote",
     "guide_link": "Read the Complete Shading Systems Guide",
     "guide_slug": "shading-systems/complete-guide"
@@ -138,7 +138,7 @@ const UI = {
       }
     ],
     "h2_cta": "Personalisiertes Angebot anfordern",
-    "cta_desc": "Das Neofort BIZ-Team fuhrt kostenlose Aufmasse durch und erstellt ein detailliertes Angebot fur das richtige Beschattungssystem.",
+    "cta_desc": "Das Neofort BIZ-Team erstellt ein detailliertes Angebot fur das richtige Beschattungssystem. Das Aufmass vor Ort erfolgt nach Vertragsabschluss.",
     "cta_btn": "Beschattungsangebot anfordern",
     "guide_link": "Kompletten Beschattungsratgeber lesen",
     "guide_slug": "beschattungssysteme/kompletter-ratgeber"
@@ -180,7 +180,7 @@ const UI = {
       }
     ],
     "h2_cta": "Demander un devis personnalise",
-    "cta_desc": "L'equipe Neofort BIZ effectue des prises de cotes gratuites et vous fournit un devis detaille pour le systeme d'occultation adapte.",
+    "cta_desc": "L'equipe Neofort BIZ vous fournit un devis detaille pour le systeme d'occultation adapte. Les prises de cotes sur place ont lieu apres la signature du contrat.",
     "cta_btn": "Demander un devis occultation",
     "guide_link": "Lire le Guide Complet Systemes d'Occultation",
     "guide_slug": "systemes-occultation/guide-complet"
@@ -222,7 +222,7 @@ const UI = {
       }
     ],
     "h2_cta": "Solicitar presupuesto personalizado",
-    "cta_desc": "El equipo de Neofort BIZ realizara mediciones gratuitas y le proporcionara un presupuesto detallado para el sistema de sombreado adecuado.",
+    "cta_desc": "El equipo de Neofort BIZ le proporcionara un presupuesto detallado para el sistema de sombreado adecuado. Las mediciones en obra se realizan tras la firma del contrato.",
     "cta_btn": "Solicitar presupuesto sombreado",
     "guide_link": "Leer la Guia Completa de Sistemas de Sombreado",
     "guide_slug": "sistemas-sombreado/guia-completa"
@@ -264,7 +264,7 @@ const UI = {
       }
     ],
     "h2_cta": "Richiedi un preventivo personalizzato",
-    "cta_desc": "Il team Neofort BIZ effettuera misurazioni gratuite e fornira un preventivo dettagliato per il sistema di oscuramento adeguato.",
+    "cta_desc": "Il team Neofort BIZ fornira un preventivo dettagliato per il sistema di oscuramento adeguato. Le misurazioni in loco avvengono dopo la firma del contratto.",
     "cta_btn": "Richiedi preventivo oscuramento",
     "guide_link": "Leggi la Guida Completa Sistemi di Oscuramento",
     "guide_slug": "sistemi-oscuramento/guida-completa"
@@ -296,12 +296,12 @@ const MID_TITLES = {
   it: 'Richiedi il tuo preventivo gratuito — rispondiamo in 2 ore',
 };
 const MID_DESCS = {
-  ro: 'Masuratori gratuite in Bucuresti si Ilfov. Oferta in 24h. 52 recenzii Google 5.0/5.',
-  en: 'Free measurements in Bucharest and Ilfov. Quote in 24h. 52 Google reviews 5.0/5.',
-  de: 'Kostenlose Aufmasse in Bukarest. Angebot in 24h. 52 Google-Bewertungen 5.0/5.',
-  fr: 'Prises de cotes gratuites a Bucarest. Devis en 24h. 52 avis Google 5.0/5.',
-  es: 'Mediciones gratuitas en Bucarest. Presupuesto en 24h. 52 resenas Google 5.0/5.',
-  it: 'Misurazioni gratuite a Bucarest. Preventivo in 24h. 52 recensioni Google 5.0/5.',
+  ro: 'Montaj in Bucuresti si Ilfov. Oferta in 48h. 52 recenzii Google 5.0/5.',
+  en: 'Installation in Bucharest and Ilfov. Quote in 48h. 52 Google reviews 5.0/5.',
+  de: 'Montage in Bukarest und Ilfov. Angebot in 48h. 52 Google-Bewertungen 5.0/5.',
+  fr: 'Pose a Bucarest et Ilfov. Devis en 48h. 52 avis Google 5.0/5.',
+  es: 'Instalacion en Bucarest e Ilfov. Presupuesto en 48h. 52 resenas Google 5.0/5.',
+  it: 'Posa a Bucarest e Ilfov. Preventivo in 48h. 52 recensioni Google 5.0/5.',
 };
 
 export async function generateStaticParams() {

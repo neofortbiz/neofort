@@ -4827,7 +4827,7 @@ Rupere de punte termică 34 mm, Uf = 1,3 W/(m²K) la profil — echipat cu tripa
 1. **Soliciți ofertă** — prin formularul de contact, telefon sau WhatsApp
 2. **Consultanță tehnică gratuită** — discutăm proiectul, tipul de construcție, orientarea
 3. **Măsurători la fața locului** — echipa noastră vine și măsoară golurile exacte
-4. **Ofertă personalizată în 24 ore** — cu specificații tehnice complete, transparente
+4. **Ofertă personalizată în 48 de ore** — cu specificații tehnice complete, transparente
 5. **Producție și livrare** — 7–14 zile lucrătoare pentru profiluri standard
 6. **Montaj nZEB** — echipe proprii cu benzi precomprimate Illbruck și precadre Blaugelb
 7. **Garanție 5 ani** pe produs și manoperă
@@ -4990,7 +4990,7 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 1. **Angebot anfordern** — über das Kontaktformular, Telefon oder WhatsApp
 2. **Kostenlose Fachberatung** — wir besprechen das Projekt, Bauart, Ausrichtung
 3. **Aufmaß vor Ort** — unser Team kommt und misst die genauen Öffnungen
-4. **Individuelles Angebot in 24 Stunden** — mit vollständigen, transparenten technischen Spezifikationen
+4. **Individuelles Angebot in 48 Stunden** — mit vollständigen, transparenten technischen Spezifikationen
 5. **Produktion und Lieferung** — 7–14 Werktage für Standardprofile
 6. **nZEB-Montage** — Eigenteams mit Illbruck-Bändern und Blaugelb-Vorblendrahmen
 7. **5 Jahre Garantie** auf Produkt und Montage
@@ -5070,7 +5070,7 @@ Rupture thermique 34 mm, Uf = 1,3 W/(m²K) au profilé — avec triple vitrage e
 1. **Demander un devis** — via le formulaire de contact, téléphone ou WhatsApp
 2. **Consultation technique gratuite** — nous discutons du projet, type de construction, orientation
 3. **Métrage sur place** — notre équipe vient mesurer les ouvertures exactes
-4. **Devis personnalisé en 24 heures** — avec spécifications techniques complètes et transparentes
+4. **Devis personnalisé en 48 heures** — avec spécifications techniques complètes et transparentes
 5. **Production et livraison** — 7 à 14 jours ouvrables pour les profilés standard
 6. **Pose nZEB** — équipes propres avec bandes Illbruck et précadres Blaugelb
 7. **Garantie 5 ans** sur produit et main-d'œuvre
@@ -5146,7 +5146,7 @@ Rotura térmica 34 mm, Uf = 1,3 W/(m²K) en el perfil — con triple acristalami
 1. **Solicitar presupuesto** — a través del formulario de contacto, teléfono o WhatsApp
 2. **Consulta técnica gratuita** — discutimos el proyecto, tipo de construcción, orientación
 3. **Mediciones in situ** — nuestro equipo viene y mide las aperturas exactas
-4. **Presupuesto personalizado en 24 horas** — con especificaciones técnicas completas y transparentes
+4. **Presupuesto personalizado en 48 horas** — con especificaciones técnicas completas y transparentes
 5. **Producción y entrega** — 7–14 días hábiles para perfiles estándar
 6. **Instalación nZEB** — equipos propios con bandas Illbruck y premarcos Blaugelb
 7. **Garantía de 5 años** en producto y mano de obra
@@ -5222,7 +5222,7 @@ Taglio termico 34 mm, Uf = 1,3 W/(m²K) al profilo — con triplo vetro e Low-E 
 1. **Richiedere un preventivo** — tramite il modulo di contatto, telefono o WhatsApp
 2. **Consulenza tecnica gratuita** — discutiamo il progetto, tipo di costruzione, orientamento
 3. **Misurazioni in loco** — il nostro team viene e misura le aperture esatte
-4. **Preventivo personalizzato in 24 ore** — con specifiche tecniche complete e trasparenti
+4. **Preventivo personalizzato in 48 ore** — con specifiche tecniche complete e trasparenti
 5. **Produzione e consegna** — 7–14 giorni lavorativi per profili standard
 6. **Installazione nZEB** — team propri con nastri Illbruck e precornici Blaugelb
 7. **Garanzia di 5 anni** su prodotto e manodopera
@@ -6018,8 +6018,8 @@ Neofort BIZ furnizează și montează jaluzele exterioare în **toate sectoarele
 
 **Procesul de achiziție la Neofort BIZ:**
 1. Soliciți ofertă prin formularul de contact sau telefonic
-2. Venim la fața locului pentru măsurători gratuite
-3. Primești ofertă personalizată în 24 ore
+2. Primești ofertă personalizată în 48 de ore
+3. După semnarea contractului venim la fața locului pentru măsurători
 4. Producem și montăm în 5–10 zile lucrătoare
 5. Garanție 3 ani pe produs și manoperă
 
@@ -6100,8 +6100,8 @@ Neofort BIZ supplies and installs exterior blinds in **all sectors of Bucharest*
 
 **The purchase process at Neofort BIZ:**
 1. Request a quote via the contact form or by phone
-2. We come on-site for free measurements
-3. You receive a personalised quote within 24 hours
+2. You receive a personalised quote within 48 hours
+3. After the contract is signed we come on-site to take measurements
 4. We manufacture and install in 5–10 working days
 5. 3-year warranty on product and workmanship
 
@@ -6182,8 +6182,8 @@ Neofort BIZ liefert und montiert Außenjalousien in **allen Stadtbezirken Bukare
 
 **Der Bestellprozess bei Neofort BIZ:**
 1. Angebot über das Kontaktformular oder telefonisch anfordern
-2. Wir kommen für kostenlose Aufmaßnahmen vor Ort
-3. Sie erhalten innerhalb von 24 Stunden ein individuelles Angebot
+2. Sie erhalten innerhalb von 48 Stunden ein individuelles Angebot
+3. Nach Vertragsabschluss nehmen wir vor Ort Maß
 4. Produktion und Montage in 5–10 Werktagen
 5. 3 Jahre Garantie auf Produkt und Montage
 
@@ -6264,8 +6264,8 @@ Neofort BIZ fournit et pose des stores extérieurs dans **tous les secteurs de B
 
 **Le processus d'achat chez Neofort BIZ :**
 1. Demande de devis via le formulaire de contact ou par téléphone
-2. Nous venons sur place pour des métrés gratuits
-3. Vous recevez un devis personnalisé sous 24 heures
+2. Vous recevez un devis personnalisé sous 48 heures
+3. Après la signature du contrat, nous venons prendre les cotes sur place
 4. Fabrication et pose en 5 à 10 jours ouvrables
 5. Garantie 3 ans sur le produit et la pose
 
@@ -6346,8 +6346,8 @@ Neofort BIZ suministra e instala persianas exteriores en **todos los sectores de
 
 **El proceso de compra en Neofort BIZ:**
 1. Solicitar presupuesto a través del formulario de contacto o por teléfono
-2. Venimos al lugar para mediciones gratuitas
-3. Recibes un presupuesto personalizado en 24 horas
+2. Recibes un presupuesto personalizado en 48 horas
+3. Tras firmar el contrato acudimos a tomar las medidas en obra
 4. Fabricamos e instalamos en 5–10 días hábiles
 5. Garantía de 3 años en producto y mano de obra
 
@@ -6428,8 +6428,8 @@ Neofort BIZ fornisce e installa veneziane esterne in **tutti i settori di Bucare
 
 **Il processo di acquisto da Neofort BIZ:**
 1. Richiedere un preventivo tramite il modulo di contatto o telefonicamente
-2. Veniamo sul posto per misurazioni gratuite
-3. Ricevi un preventivo personalizzato entro 24 ore
+2. Ricevi un preventivo personalizzato entro 48 ore
+3. Dopo la firma del contratto veniamo sul posto per il rilievo
 4. Produciamo e installiamo in 5–10 giorni lavorativi
 5. Garanzia di 3 anni su prodotto e manodopera
 
@@ -7141,7 +7141,7 @@ Diferența de 700 lei se recuperează în 3–5 ani din facturile la energie —
 
 ---
 
-Neofort BIZ oferă ferestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) cu montaj nZEB în București și Ilfov. Ofertă personalizată în 24 ore — [solicită acum](/ro/contact). Vezi [sistemele PVC Salamander](/ro/tamplarie-pvc) pe care le oferim. Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76).
+Neofort BIZ oferă ferestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) cu montaj nZEB în București și Ilfov. Ofertă personalizată în 48 de ore — [solicită acum](/ro/contact). Vezi [sistemele PVC Salamander](/ro/tamplarie-pvc) pe care le oferim. Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76).
 
 ## Întrebări frecvente
 
@@ -7241,7 +7241,7 @@ The €140 difference is recovered in 3–5 years from energy bills — and abov
 
 ---
 
-Neofort BIZ offers Salamander windows (greenEvolution 76, bluEvolution 82, bluEvolution 92) with nZEB installation in Bucharest and Ilfov. Personalised quote in 24 hours — [request now](/en/contact). Discover [the PVC windows range](/en/pvc-windows) we offer. See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-guide).
+Neofort BIZ offers Salamander windows (greenEvolution 76, bluEvolution 82, bluEvolution 92) with nZEB installation in Bucharest and Ilfov. Personalised quote in 48 hours — [request now](/en/contact). Discover [the PVC windows range](/en/pvc-windows) we offer. See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-guide).
 
 ## Frequently Asked Questions
 
@@ -7330,7 +7330,7 @@ Die Differenz von 140 € amortisiert sich in 3–5 Jahren über die Energiekost
 
 ---
 
-Neofort BIZ bietet Salamander-Fenster (greenEvolution 76, bluEvolution 82, bluEvolution 92) mit nZEB-Montage in Bukarest und Ilfov. Individuelles Angebot in 24 Stunden — [jetzt anfragen](/de/kontakt). Entdecken Sie [das PVC-Fenster-Sortiment](/de/kunststofffenster-pvc), die wir anbieten. Siehe auch [den Vergleich bluEvolution 92 vs greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden).
+Neofort BIZ bietet Salamander-Fenster (greenEvolution 76, bluEvolution 82, bluEvolution 92) mit nZEB-Montage in Bukarest und Ilfov. Individuelles Angebot in 48 Stunden — [jetzt anfragen](/de/kontakt). Entdecken Sie [das PVC-Fenster-Sortiment](/de/kunststofffenster-pvc), die wir anbieten. Siehe auch [den Vergleich bluEvolution 92 vs greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden).
 
 ## Häufig gestellte Fragen
 
@@ -7419,7 +7419,7 @@ La différence de 140 € est récupérée en 3–5 ans sur les factures d'éner
 
 ---
 
-Neofort BIZ propose des fenêtres Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) avec pose nZEB à Bucarest et Ilfov. Devis personnalisé en 24 heures — [demander maintenant](/fr/contact). Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) que nous proposons. Voir aussi [la comparaison bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide).
+Neofort BIZ propose des fenêtres Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) avec pose nZEB à Bucarest et Ilfov. Devis personnalisé en 48 heures — [demander maintenant](/fr/contact). Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) que nous proposons. Voir aussi [la comparaison bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide).
 
 ## Questions fréquentes
 
@@ -7508,7 +7508,7 @@ La diferencia de 140 € se recupera en 3–5 años en facturas de energía — 
 
 ---
 
-Neofort BIZ ofrece ventanas Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 24 horas — [solicitar ahora](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos. Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
+Neofort BIZ ofrece ventanas Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 48 horas — [solicitar ahora](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos. Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
 
 ## Preguntas frecuentes
 
@@ -7597,7 +7597,7 @@ La differenza di 140 € si recupera in 3–5 anni sulle bollette energetiche �
 
 ---
 
-Neofort BIZ offre finestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 24 ore — [richiedi ora](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo. Vedi anche [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
+Neofort BIZ offre finestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 48 ore — [richiedi ora](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo. Vedi anche [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
 
 ## Domande frequenti
 
@@ -12994,7 +12994,7 @@ Prețul variază în funcție de dimensiuni, material (blackout sau screen) și 
 
 ## Solicită ofertă Zipscreen de la Neofort BIZ
 
-Neofort BIZ furnizează și montează sisteme Zipscreen în București și toată Europa. Serviciul include măsurători gratuite, consultanță privind alegerea materialului și integrarea în arhitectura existentă.
+Neofort BIZ furnizează și montează sisteme Zipscreen în București și toată Europa. Serviciul include consultanță privind alegerea materialului și integrarea în arhitectura existentă.
 
 **WhatsApp:** +40 752 443 435
 
@@ -15515,11 +15515,11 @@ Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilf
       it: 'La sostituzione delle finestre è uno degli investimenti più redditizi in un appartamento di Bucarest. Risparmio riscaldamento 35–50%, eliminazione condensa e rumore — guida completa.',
     },
     metaDesc: {
-      ro: 'Ghid înlocuire ferestre vechi București 2026: când înlocuiești, ce profil Salamander alegi, cât costă per apartament, cât durează montajul. Neofort BIZ — măsurători gratuite, răspuns 48h.',
-      en: 'Guide replacing old windows Bucharest 2026: when to replace, Salamander profile choice, cost per apartment, installation time. Neofort BIZ — free measurements, 48h response.',
+      ro: 'Ghid înlocuire ferestre vechi București 2026: când înlocuiești, ce profil Salamander alegi, cât costă per apartament, cât durează montajul. Neofort BIZ — ofertă în 48h, montaj în București și Ilfov.',
+      en: 'Guide replacing old windows Bucharest 2026: when to replace, Salamander profile choice, cost per apartment, installation time. Neofort BIZ — quote in 48h, installation in Bucharest and Ilfov.',
       de: 'Leitfaden Fensteraustausch Bukarest 2026: wann tauschen, Salamander-Profil, Kosten pro Wohnung, Montagezeit. Neofort BIZ — kostenlose Vermessung, 48h Antwort.',
-      fr: 'Guide remplacement fenêtres Bucarest 2026 : quand remplacer, profil Salamander, coût par appartement, durée montage. Neofort BIZ — métrés gratuits, réponse 48h.',
-      es: 'Guía sustitución ventanas Bucarest 2026: cuándo sustituir, perfil Salamander, coste por apartamento, tiempo instalación. Neofort BIZ — mediciones gratuitas, respuesta 48h.',
+      fr: 'Guide remplacement fenêtres Bucarest 2026 : quand remplacer, profil Salamander, coût par appartement, durée montage. Neofort BIZ — devis en 48h, pose à Bucarest et Ilfov.',
+      es: 'Guía sustitución ventanas Bucarest 2026: cuándo sustituir, perfil Salamander, coste por apartamento, tiempo instalación. Neofort BIZ — presupuesto en 48h, instalación en Bucarest e Ilfov.',
       it: 'Guida sostituzione finestre Bucarest 2026: quando sostituire, profilo Salamander, costo per appartamento, tempi installazione. Neofort BIZ — rilievi gratuiti, risposta 48h.',
     },
     keywords: 'inlocuire ferestre vechi Bucuresti, renovare apartament ferestre, montaj termopane Bucuresti, inlocuire geamuri bloc, cat costa inlocuire ferestre apartament, ferestre noi apartament Bucuresti, schimbare termopane Bucuresti pret, montaj ferestre PVC Salamander Bucuresti',
@@ -15585,11 +15585,11 @@ Aspectul aluminiului cu performanța PVC. Ideal dacă vrei culori RAL speciale �
 **Pasul 1 — Verifică regulamentul asociației de proprietari**
 La bloc pot exista restricții privind culoarea. Culoarea albă este obligatorie în unele blocuri ANL sau zone protejate.
 
-**Pasul 2 — Programează măsurătorile gratuite**
-Nu te baza pe dimensiunile din actele apartamentului — golurile reale diferă cu 10–30 mm pe fiecare latură față de proiect.
+**Pasul 2 — Primești oferta în 48h**
+Oferta se face pe baza dimensiunilor pe care le comunici. Nu te baza pe cele din actele apartamentului — golurile reale diferă cu 10–30 mm pe fiecare latură față de proiect, iar valorile finale se confirmă la măsurătoarea de după contract.
 
 **Pasul 3 — Alege configurația completă**
-La măsurători stabilim: profil, geam, culoare, tip deschidere, feronerie, glafuri.
+Stabilim împreună: profil, geam, culoare, tip deschidere, feronerie, glafuri. Măsurătoarea la fața locului se face după semnarea contractului și fixează dimensiunile de producție.
 
 **Pasul 4 — Producție: 3–4 săptămâni**
 
@@ -15644,7 +15644,7 @@ Geamul reprezintă 70% din suprafața ferestrei. Un profil premium cu geam stand
 
 ## De ce Neofort BIZ pentru renovarea apartamentului tău
 
-**Măsurători gratuite** la adresa ta în 24–48 ore. **Producție proprie** — nu intermediem, nu subcontractăm. **Montaj certificat nZEB** cu precadre Blaugelb Triotherm+ incluse standard. **Ridicăm tâmplăria veche** fără costuri suplimentare.
+**Măsurători la fața locului** la adresa ta în 24–48 ore. **Producție proprie** — nu intermediem, nu subcontractăm. **Montaj certificat nZEB** cu precadre Blaugelb Triotherm+ incluse standard. **Ridicăm tâmplăria veche** fără costuri suplimentare.
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
@@ -20888,7 +20888,7 @@ Les raisons sont simples :
 
 ## Comment fonctionne la commande export chez Neofort BIZ
 
-**Étape 1 :** Envoyez dimensions, types d'ouverture, couleur et pays de destination → [devis](/fr/contact) préliminaire sous 24 heures ouvrées.
+**Étape 1 :** Envoyez dimensions, types d'ouverture, couleur et pays de destination → [devis](/fr/contact) préliminaire sous 48 heures ouvrées.
 
 **Étape 2 :** Production et emballage export — double film protecteur, cadre bois/carton, documentation CE complète.
 
@@ -20934,7 +20934,7 @@ Las razones son simples:
 
 ## Cómo funciona el pedido de exportación en Neofort BIZ
 
-**Paso 1:** Envíe dimensiones, tipos de apertura, color y país de destino → [presupuesto](/es/contacto) preliminar en 24 horas laborables.
+**Paso 1:** Envíe dimensiones, tipos de apertura, color y país de destino → [presupuesto](/es/contacto) preliminar en 48 horas laborables.
 
 **Paso 2:** Producción y embalaje de exportación — doble film protector, marco de madera/cartón, documentación CE completa.
 
@@ -20980,7 +20980,7 @@ Le ragioni sono semplici:
 
 ## Come funziona l'ordine export da Neofort BIZ
 
-**Passo 1:** Inviate dimensioni, tipi di apertura, colore e paese di destinazione → [preventivo](/it/contatti) preliminare entro 24 ore lavorative.
+**Passo 1:** Inviate dimensioni, tipi di apertura, colore e paese di destinazione → [preventivo](/it/contatti) preliminare entro 48 ore lavorative.
 
 **Passo 2:** Produzione e imballaggio export — doppio film protettivo, cornice in legno/cartone, documentazione CE completa.
 

@@ -22,7 +22,7 @@ const UI = {
     label: 'Tâmplărie Aluminiu · București',
     parent: 'Tâmplărie Aluminiu',
     h1: 'Tâmplărie Aluminiu București — Furnizare și Montaj Alumil în Sectoarele 1–6',
-    sub: 'Neofort BIZ furnizează și montează tâmplărie aluminiu Alumil în București și Ilfov. Consultanță gratuită, măsurători la domiciliu, montaj certificat nZEB.',
+    sub: 'Neofort BIZ furnizează și montează tâmplărie aluminiu Alumil în București și Ilfov. Consultanță tehnică, montaj certificat nZEB, garanție 5 ani.',
     intro: 'Neofort BIZ este prezent în București din 2005, cu sediul în Sectorul 1 (Str. Theodor Aman Pictor 11). Furnizăm și montăm tâmplărie aluminiu Alumil în toate cele 6 sectoare ale Capitalei și în zona metropolitană Ilfov — cu echipe proprii de montaj, consultanți tehnici și servicii complete de la măsurători până la garanție post-montaj.',
     zones_title: 'Zone de acoperire în București și Ilfov',
     zones: [
@@ -39,14 +39,14 @@ const UI = {
       ['21 ani experiență', 'Prezență continuă în piața bucureșteană din 2005, cu sute de proiecte rezidențiale și comerciale finalizate în Capitală.'],
       ['Echipe proprii de montaj', 'Nu subcontractăm montajul — echipele noastre sunt instruite și certificate direct de Alumil pentru sisteme Supreme și Smartia.'],
       ['Consultanță tehnică gratuită', 'Inginer tehnic disponibil pentru consultanță privind alegerea sistemului, dimensionarea și calculul performanțelor termice.'],
-      ['Măsurători la domiciliu gratuite', 'Deplasare gratuită în tot Bucureștiul și Ilfovul pentru măsurători, evaluare lucrare și elaborare ofertă detaliată.'],
+      ['Măsurători la domiciliu după contract', 'Ofertă detaliată pentru tot Bucureștiul și Ilfovul, pe baza dimensiunilor comunicate. Măsurătorile la fața locului se fac după semnarea contractului.'],
       ['Montaj certificat nZEB', 'Folosim precadre Blaugelb Triotherm+ și benzi de etanșare pe 3 straturi — condiție necesară pentru autorizații noi și certificate energetice.'],
       ['Garanție 5 ani', 'Garanție completă pe profilul aluminiu, geam și montaj. Intervenție în 48 ore pentru orice solicitare post-montaj în București.'],
     ],
     process_title: 'Cum funcționează procesul în București',
     process: [
       ['Zi 1', 'Contact inițial', 'Suni sau trimiți cerere online. Specialist tehnic te contactează în maxim 2 ore (L–V, 10–18).'],
-      ['Zi 2–3', 'Măsurători gratuite', 'Echipa vine la adresa ta pentru măsurători precise și consultanță privind sistemul recomandat.'],
+      ['Zi 2–3', 'Măsurători la fața locului', 'Echipa vine la adresa ta pentru măsurători precise și consultanță privind sistemul recomandat.'],
       ['Zi 3–5', 'Ofertă detaliată', 'Primești oferta cu specificații complete, prețuri finale și termen de livrare.'],
       ['Zi 14–21', 'Producție', 'Tâmplăria este produsă în fabrica Alumil partenera pe baza măsurătorilor exacte.'],
       ['Zi 21–25', 'Montaj', 'Echipa noastră realizează montajul conform RAL și nZEB, cu toate benzile și precontrolatelaio.'],
@@ -59,7 +59,7 @@ const UI = {
       ['Pot să comand tâmplărie aluminiu fără a fi prezent în București?', 'Da — pentru clienți din diaspora sau care nu pot fi prezenți, organizăm măsurătorile cu un reprezentant al clientului sau cu arhitectul de proiect. Comunicăm integral prin email și WhatsApp.'],
       ['Oferiți factură fiscală cu TVA?', 'Da, toate lucrările sunt facturate cu TVA 19%. Emitem factură fiscală și documentație completă pentru dosarul de autorizație sau certificat energetic.'],
     ],
-    cta_h: 'Solicitați măsurători gratuite în București',
+    cta_h: 'Solicitați o ofertă pentru București',
     cta_sub: 'Echipa noastră ajunge la adresa dvs. în 24–48 ore.',
     cta_btn: 'Cerere ofertă gratuită',
     cta_call: 'Sună acum',
@@ -71,7 +71,7 @@ const UI = {
     label: 'Aluminium Windows · Bucharest',
     parent: 'Aluminium Windows',
     h1: 'Aluminium Windows Bucharest — Alumil Supply and Installation in all Districts',
-    sub: 'Neofort BIZ supplies and installs Alumil aluminium windows in Bucharest and Ilfov. Free consultation, home measurements, nZEB certified installation.',
+    sub: 'Neofort BIZ supplies and installs Alumil aluminium windows in Bucharest and Ilfov. Technical consultation, nZEB certified installation, 5-year warranty.',
     intro: 'Neofort BIZ has been present in Bucharest since 2005, headquartered in District 1 (Str. Theodor Aman Pictor 11). We supply and install Alumil aluminium windows across all 6 districts of the capital and the Ilfov metropolitan area — with our own installation teams, technical consultants and complete services from measurements to post-installation warranty.',
     zones_title: 'Coverage areas in Bucharest and Ilfov',
     zones: [
@@ -88,14 +88,14 @@ const UI = {
       ['21 years experience', 'Continuous presence in the Bucharest market since 2005, with hundreds of residential and commercial projects completed in the capital.'],
       ['Own installation teams', 'We do not subcontract installation — our teams are trained and certified directly by Alumil for Supreme and Smartia systems.'],
       ['Free technical consultation', 'Technical engineer available for consultation on system selection, sizing and thermal performance calculation.'],
-      ['Free home measurements', 'Free visit throughout Bucharest and Ilfov for measurements, project assessment and detailed quote.'],
+      ['Home measurements after contract', 'Detailed quote for all of Bucharest and Ilfov, based on the dimensions you provide. On-site measurements follow once the contract is signed.'],
       ['nZEB certified installation', 'We use Blaugelb Triotherm+ precasings and 3-layer sealing tapes — required for new building permits and energy certificates.'],
       ['5 year warranty', 'Full warranty on aluminium profile, glass and installation. 48-hour response for any post-installation request in Bucharest.'],
     ],
     process_title: 'How the process works in Bucharest',
     process: [
       ['Day 1', 'Initial contact', 'Call or send an online request. Technical specialist contacts you within 2 hours (Mon–Fri, 10–18).'],
-      ['Day 2–3', 'Free measurements', 'Our team visits your address for precise measurements and consultation on the recommended system.'],
+      ['Day 2–3', 'On-site measurements', 'Our team visits your address for precise measurements and consultation on the recommended system.'],
       ['Day 3–5', 'Detailed quote', 'You receive the quote with complete specifications, final prices and delivery schedule.'],
       ['Day 14–21', 'Production', 'Windows are manufactured at the partner Alumil factory based on exact measurements.'],
       ['Day 21–25', 'Installation', 'Our team carries out installation per RAL and nZEB standards, with all tapes and precasings.'],
@@ -108,7 +108,7 @@ const UI = {
       ['Can I order without being present in Bucharest?', 'Yes — for diaspora clients or those who cannot be present, we organise measurements with a client representative or project architect. We communicate entirely by email and WhatsApp.'],
       ['Do you issue a VAT invoice?', 'Yes, all works are invoiced with 19% VAT. We issue fiscal invoice and complete documentation for permit or energy certificate files.'],
     ],
-    cta_h: 'Request free measurements in Bucharest',
+    cta_h: 'Request a quote for Bucharest',
     cta_sub: 'Our team arrives at your address within 24–48 hours.',
     cta_btn: 'Request free quote',
     cta_call: 'Call now',
@@ -137,14 +137,14 @@ const UI = {
       ['21 Jahre Erfahrung', 'Kontinuierliche Präsenz auf dem Bukarester Markt seit 2005, mit Hunderten von abgeschlossenen Wohn- und Gewerbeprojekten.'],
       ['Eigene Montageteams', 'Wir vergeben keine Montageaufträge — unsere Teams sind direkt von Alumil für Supreme- und Smartia-Systeme zertifiziert.'],
       ['Kostenlose Fachberatung', 'Technischer Ingenieur für Systemauswahl, Dimensionierung und Berechnung der Wärmeleistung verfügbar.'],
-      ['Kostenlose Hausaufnahmen', 'Kostenloser Besuch in ganz Bukarest und Ilfov für Aufmaße, Projektevaluierung und detailliertes Angebot.'],
+      ['Kostenlose Hausaufnahmen', 'Detailliertes Angebot für ganz Bukarest und Ilfov auf Basis der von Ihnen genannten Maße. Das Aufmaß vor Ort erfolgt nach Vertragsabschluss.'],
       ['nZEB-zertifizierter Einbau', 'Wir verwenden Blaugelb Triotherm+ Vorfenster und 3-lagige Dichtbänder — erforderlich für neue Baugenehmigungen und Energieausweise.'],
       ['5 Jahre Garantie', 'Vollgarantie auf Aluminiumprofil, Glas und Einbau. 48-Stunden-Reaktion für alle Nachgarantieanfragen in Bukarest.'],
     ],
     process_title: 'Wie der Prozess in Bukarest funktioniert',
     process: [
       ['Tag 1', 'Erstkontakt', 'Anrufen oder Online-Anfrage senden. Fachspezialist meldet sich innerhalb von 2 Stunden (Mo–Fr, 10–18).'],
-      ['Tag 2–3', 'Kostenlose Aufmaße', 'Unser Team besucht Ihre Adresse für präzise Aufmaße und Beratung zum empfohlenen System.'],
+      ['Tag 2–3', 'Aufmaß nach Vertragsabschluss', 'Unser Team besucht Ihre Adresse für präzise Aufmaße und Beratung zum empfohlenen System.'],
       ['Tag 3–5', 'Detailliertes Angebot', 'Sie erhalten das Angebot mit vollständigen Spezifikationen, Endpreisen und Lieferplan.'],
       ['Tag 14–21', 'Produktion', 'Fenster werden im Alumil-Partnerwerk nach exakten Aufmaßen gefertigt.'],
       ['Tag 21–25', 'Montage', 'Unser Team führt den Einbau nach RAL- und nZEB-Normen durch, mit allen Bändern und Vorfenstern.'],
@@ -169,7 +169,7 @@ const UI = {
     label: 'Menuiserie Aluminium · Bucarest',
     parent: 'Menuiserie Aluminium',
     h1: 'Menuiserie Aluminium Bucarest — Fourniture et Pose Alumil dans tous les Arrondissements',
-    sub: 'Neofort BIZ fournit et pose la menuiserie aluminium Alumil à Bucarest et Ilfov. Conseil gratuit, métrés à domicile, pose certifiée nZEB.',
+    sub: 'Neofort BIZ fournit et pose la menuiserie aluminium Alumil à Bucarest et Ilfov. Conseil technique, pose certifiée nZEB, garantie 5 ans.',
     intro: "Neofort BIZ est présent à Bucarest depuis 2005, avec siège dans l'Arrondissement 1 (Str. Theodor Aman Pictor 11). Nous fournissons et posons la menuiserie aluminium Alumil dans les 6 arrondissements de la capitale et dans la zone métropolitaine d'Ilfov — avec nos propres équipes de pose, conseillers techniques et services complets des métrés à la garantie post-pose.",
     zones_title: 'Zones de couverture à Bucarest et Ilfov',
     zones: [
@@ -186,14 +186,14 @@ const UI = {
       ["21 ans d'expérience", 'Présence continue sur le marché bucarestois depuis 2005, avec des centaines de projets résidentiels et commerciaux réalisés dans la capitale.'],
       ['Équipes de pose propres', 'Nous ne sous-traitons pas la pose — nos équipes sont formées et certifiées directement par Alumil pour les systèmes Supreme et Smartia.'],
       ['Conseil technique gratuit', 'Ingénieur technique disponible pour le choix du système, le dimensionnement et le calcul des performances thermiques.'],
-      ['Métrés gratuits à domicile', 'Déplacement gratuit dans tout Bucarest et Ilfov pour métrés, évaluation du chantier et devis détaillé.'],
+      ['Métrés à domicile après contrat', 'Devis détaillé pour tout Bucarest et Ilfov, établi sur la base des dimensions que vous nous communiquez. Les métrés sur place ont lieu après la signature du contrat.'],
       ['Pose certifiée nZEB', "Nous utilisons des précadres Blaugelb Triotherm+ et des bandes d'étanchéité 3 couches — requis pour les permis de construire et certificats énergétiques."],
       ['Garantie 5 ans', 'Garantie complète sur profilé aluminium, vitrage et pose. Intervention sous 48h pour toute demande post-pose à Bucarest.'],
     ],
     process_title: 'Comment fonctionne le processus à Bucarest',
     process: [
       ['Jour 1', 'Premier contact', 'Appelez ou envoyez une demande en ligne. Un spécialiste technique vous contacte sous 2 heures (Lun–Ven, 10–18).'],
-      ['Jour 2–3', 'Métrés gratuits', 'Notre équipe se déplace à votre adresse pour des métrés précis et un conseil sur le système recommandé.'],
+      ['Jour 2–3', 'Métrés sur place', 'Notre équipe se déplace à votre adresse pour des métrés précis et un conseil sur le système recommandé.'],
       ['Jour 3–5', 'Devis détaillé', 'Vous recevez le devis avec spécifications complètes, prix définitifs et calendrier de livraison.'],
       ['Jour 14–21', 'Production', "La menuiserie est fabriquée dans l'usine partenaire Alumil sur la base des métrés exacts."],
       ['Jour 21–25', 'Pose', 'Notre équipe réalise la pose selon les normes RAL et nZEB, avec toutes les bandes et précadres.'],
@@ -206,7 +206,7 @@ const UI = {
       ['Puis-je commander sans être présent à Bucarest ?', "Oui — pour les clients de la diaspora, nous organisons les métrés avec un représentant ou l'architecte du projet. Communication intégrale par e-mail et WhatsApp."],
       ['Émettez-vous une facture avec TVA ?', 'Oui, tous les travaux sont facturés avec 19% de TVA. Nous émettons une facture fiscale et une documentation complète.'],
     ],
-    cta_h: 'Demandez des métrés gratuits à Bucarest',
+    cta_h: 'Demandez un devis pour Bucarest',
     cta_sub: 'Notre équipe se déplace à votre adresse sous 24–48 heures.',
     cta_btn: 'Devis gratuit',
     cta_call: 'Appeler maintenant',
@@ -218,7 +218,7 @@ const UI = {
     label: 'Carpintería Aluminio · Bucarest',
     parent: 'Carpintería Aluminio',
     h1: 'Carpintería Aluminio Bucarest — Suministro e Instalación Alumil en todos los Distritos',
-    sub: 'Neofort BIZ suministra e instala carpintería de aluminio Alumil en Bucarest e Ilfov. Consulta gratuita, mediciones a domicilio, instalación certificada nZEB.',
+    sub: 'Neofort BIZ suministra e instala carpintería de aluminio Alumil en Bucarest e Ilfov. Asesoramiento técnico, instalación certificada nZEB, garantía 5 años.',
     intro: 'Neofort BIZ lleva presente en Bucarest desde 2005, con sede en el Distrito 1 (Str. Theodor Aman Pictor 11). Suministramos e instalamos carpintería de aluminio Alumil en los 6 distritos de la capital y en el área metropolitana de Ilfov — con nuestros propios equipos de instalación, consultores técnicos y servicios completos desde la medición hasta la garantía postventa.',
     zones_title: 'Zonas de cobertura en Bucarest e Ilfov',
     zones: [
@@ -235,14 +235,14 @@ const UI = {
       ['21 años de experiencia', 'Presencia continua en el mercado de Bucarest desde 2005, con cientos de proyectos residenciales y comerciales completados en la capital.'],
       ['Equipos de instalación propios', 'No subcontratamos la instalación — nuestros equipos están formados y certificados directamente por Alumil para sistemas Supreme y Smartia.'],
       ['Consulta técnica gratuita', 'Ingeniero técnico disponible para selección de sistema, dimensionamiento y cálculo de rendimiento térmico.'],
-      ['Mediciones gratuitas a domicilio', 'Visita gratuita en todo Bucarest e Ilfov para mediciones, evaluación del proyecto y presupuesto detallado.'],
+      ['Mediciones a domicilio tras el contrato', 'Presupuesto detallado para todo Bucarest e Ilfov, a partir de las medidas que nos indique. Las mediciones en obra se realizan tras la firma del contrato.'],
       ['Instalación certificada nZEB', 'Usamos premarcos Blaugelb Triotherm+ y cintas de sellado de 3 capas — necesarios para permisos de obra nuevos y certificados energéticos.'],
       ['Garantía 5 años', 'Garantía completa en perfil de aluminio, vidrio e instalación. Respuesta en 48 horas para cualquier solicitud postventa en Bucarest.'],
     ],
     process_title: 'Cómo funciona el proceso en Bucarest',
     process: [
       ['Día 1', 'Contacto inicial', 'Llame o envíe una solicitud online. Un especialista técnico le contacta en un máximo de 2 horas (Lun–Vie, 10–18).'],
-      ['Día 2–3', 'Mediciones gratuitas', 'Nuestro equipo visita su dirección para mediciones precisas y asesoramiento sobre el sistema recomendado.'],
+      ['Día 2–3', 'Mediciones en obra', 'Nuestro equipo visita su dirección para mediciones precisas y asesoramiento sobre el sistema recomendado.'],
       ['Día 3–5', 'Presupuesto detallado', 'Recibe el presupuesto con especificaciones completas, precios finales y calendario de entrega.'],
       ['Día 14–21', 'Producción', 'La carpintería se fabrica en la fábrica partner de Alumil basándose en las mediciones exactas.'],
       ['Día 21–25', 'Instalación', 'Nuestro equipo realiza la instalación según normas RAL y nZEB, con todas las cintas y premarcos.'],
@@ -255,7 +255,7 @@ const UI = {
       ['¿Puedo pedir sin estar presente en Bucarest?', 'Sí — para clientes de la diáspora, organizamos las mediciones con un representante del cliente o el arquitecto del proyecto. Comunicación íntegra por email y WhatsApp.'],
       ['¿Emiten factura con IVA?', 'Sí, todos los trabajos se facturan con 19% de IVA. Emitimos factura fiscal y documentación completa.'],
     ],
-    cta_h: 'Solicite mediciones gratuitas en Bucarest',
+    cta_h: 'Solicite un presupuesto para Bucarest',
     cta_sub: 'Nuestro equipo llega a su dirección en 24–48 horas.',
     cta_btn: 'Presupuesto gratuito',
     cta_call: 'Llamar ahora',
@@ -327,11 +327,11 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Menuiserie Aluminium Bucarest — Pose Alumil Arrondissements 1–6, Ilfov | Neofort BIZ'
          : locale === 'es' ? 'Carpintería Aluminio Bucarest — Instalación Alumil Distritos 1–6, Ilfov | Neofort BIZ'
          : 'Infissi Alluminio Bucarest — Posa Alumil Settori 1–6, Ilfov | Neofort BIZ',
-    description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil în București — montaj toate sectoarele și Ilfov. Echipe certificate nZEB, măsurătoare gratuită, livrare rapidă.'
-               : locale === 'en' ? 'Alumil aluminium windows in Bucharest — installation in all districts and Ilfov. Own nZEB-certified teams, free measurements, 5-year warranty. District 1, Voluntari, Pipera, Otopeni.'
-               : locale === 'de' ? 'Alumil Aluminiumfenster in Bukarest — Montage in allen Bezirken und Ilfov. Eigene nZEB-zertifizierte Teams, kostenlose Aufmaße, 5 Jahre Garantie.'
-               : locale === 'fr' ? 'Menuiserie aluminium Alumil à Bucarest — pose dans tous les arrondissements et Ilfov. Équipes propres certifiées nZEB, métrés gratuits, garantie 5 ans.'
-               : locale === 'es' ? 'Carpintería aluminio Alumil en Bucarest — instalación en todos los distritos e Ilfov. Equipos propios certificados nZEB, mediciones gratuitas, garantía 5 años.'
+    description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil în București — montaj toate sectoarele și Ilfov. Echipe certificate nZEB, montaj garantat, livrare rapidă.'
+               : locale === 'en' ? 'Alumil aluminium windows in Bucharest — installation in all districts and Ilfov. Own nZEB-certified teams, 5-year warranty. District 1, Voluntari, Pipera, Otopeni.'
+               : locale === 'de' ? 'Alumil Aluminiumfenster in Bukarest — Montage in allen Bezirken und Ilfov. Eigene nZEB-zertifizierte Teams, 5 Jahre Garantie.'
+               : locale === 'fr' ? 'Menuiserie aluminium Alumil à Bucarest — pose dans tous les arrondissements et Ilfov. Équipes propres certifiées nZEB, garantie 5 ans.'
+               : locale === 'es' ? 'Carpintería aluminio Alumil en Bucarest — instalación en todos los distritos e Ilfov. Equipos propios certificados nZEB, garantía 5 años.'
                : 'Infissi alluminio Alumil a Bucarest — posa in tutti i settori e Ilfov. Team propri certificati nZEB, rilievi gratuiti, garanzia 5 anni.',
     keywords: locale === 'ro' ? 'tamplarie aluminiu bucuresti, montaj tamplarie aluminiu bucuresti, tamplarie aluminiu sector 1 bucuresti, alumil bucuresti, ferestre aluminiu bucuresti, montaj ferestre aluminiu bucuresti, tamplarie aluminiu ilfov, ferestre aluminiu voluntari pipera otopeni'
             : 'aluminium windows Bucharest, aluminium window installation Bucharest, Alumil Bucharest',

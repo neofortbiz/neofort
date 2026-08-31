@@ -22,7 +22,7 @@ const UI = {
     label: 'Tâmplărie PVC · București',
     parent: 'Tâmplărie PVC',
     h1: 'Tâmplărie PVC București — Furnizare și Montaj Salamander în Sectoarele 1–6',
-    sub: 'Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov. Consultanță gratuită, măsurători la domiciliu, montaj certificat nZEB.',
+    sub: 'Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov. Consultanță tehnică, montaj certificat nZEB, garanție 5 ani.',
     intro: 'Neofort BIZ este prezent în București din 2005, cu sediul în Sectorul 1 (Str. Theodor Aman Pictor 11). Furnizăm și montăm tâmplărie PVC Salamander în toate cele 6 sectoare ale Capitalei și în zona metropolitană Ilfov — cu echipe proprii de montaj, consultanți tehnici și servicii complete de la măsurători până la garanție post-montaj.',
     zones_title: 'Zone de acoperire în București și Ilfov',
     zones: [
@@ -39,14 +39,14 @@ const UI = {
       ['21 ani experiență', 'Prezență continuă în piața bucureșteană din 2005, cu sute de proiecte rezidențiale și comerciale finalizate în Capitală.'],
       ['Echipe proprii de montaj', 'Nu subcontractăm montajul — echipele noastre sunt instruite și certificate pentru sistemele Salamander BluEvolution și GreenEvolution.'],
       ['Consultanță tehnică gratuită', 'Specialist tehnic disponibil pentru consultanță privind alegerea profilului, dimensionarea și calculul performanțelor termice și fonice.'],
-      ['Măsurători la domiciliu gratuite', 'Deplasare gratuită în tot Bucureștiul și Ilfovul pentru măsurători, evaluare lucrare și elaborare ofertă detaliată.'],
+      ['Măsurători la domiciliu după contract', 'Ofertă detaliată pentru tot Bucureștiul și Ilfovul, pe baza dimensiunilor comunicate. Măsurătorile la fața locului se fac după semnarea contractului.'],
       ['Montaj certificat nZEB', 'Folosim precadre Blaugelb Triotherm+ și benzi de etanșare pe 3 straturi — condiție necesară pentru autorizații noi și certificate energetice.'],
       ['Garanție 5 ani', 'Garanție completă pe profilul PVC, geam și montaj. Intervenție în 48 ore pentru orice solicitare post-montaj în București.'],
     ],
     process_title: 'Cum funcționează procesul în București',
     process: [
       ['Zi 1', 'Contact inițial', 'Suni sau trimiți cerere online. Specialist tehnic te contactează în maxim 2 ore (L–V, 10–18).'],
-      ['Zi 2–3', 'Măsurători gratuite', 'Echipa vine la adresa ta pentru măsurători precise și consultanță privind profilul recomandat.'],
+      ['Zi 2–3', 'Măsurători la fața locului', 'Echipa vine la adresa ta pentru măsurători precise și consultanță privind profilul recomandat.'],
       ['Zi 3–5', 'Ofertă detaliată', 'Primești oferta cu specificații complete, prețuri finale și termen de livrare.'],
       ['Zi 14–21', 'Producție', 'Tâmplăria PVC este produsă pe linii automate cu profile Salamander originale.'],
       ['Zi 21–25', 'Montaj', 'Echipa noastră realizează montajul conform RAL și nZEB, cu toate benzile și precadrele Blaugelb.'],
@@ -59,7 +59,7 @@ const UI = {
       ['Pot să comand tâmplărie PVC fără a fi prezent în București?', 'Da — pentru clienți din diaspora sau care nu pot fi prezenți, organizăm măsurătorile cu un reprezentant al clientului sau cu arhitectul de proiect. Comunicăm integral prin email și WhatsApp.'],
       ['Care profil PVC Salamander este recomandat pentru un apartament din București?', 'Pentru apartamente standard, recomandăm GreenEvolution 76 MD — 5 camere, Uw 0,73 W/(m²K), excelent raport calitate-preț. Pentru case noi sau renovări cu cerințe nZEB, BluEvolution 92 cu 6 camere și Uw 0,70 W/(m²K) este alegerea optimă.'],
     ],
-    cta_h: 'Solicitați măsurători gratuite în București',
+    cta_h: 'Solicitați o ofertă pentru București',
     cta_sub: 'Echipa noastră ajunge la adresa dvs. în 24–48 ore.',
     cta_btn: 'Cerere ofertă gratuită',
     cta_call: 'Sună acum',
@@ -71,7 +71,7 @@ const UI = {
     label: 'PVC Windows · Bucharest',
     parent: 'PVC Windows',
     h1: 'PVC Windows Bucharest — Salamander Supply and Installation in all Districts',
-    sub: 'Neofort BIZ supplies and installs Salamander PVC windows in Bucharest and Ilfov. Free consultation, home measurements, nZEB certified installation.',
+    sub: 'Neofort BIZ supplies and installs Salamander PVC windows in Bucharest and Ilfov. Technical consultation, nZEB certified installation, 5-year warranty.',
     intro: 'Neofort BIZ has been present in Bucharest since 2005, headquartered in District 1 (Str. Theodor Aman Pictor 11). We supply and install Salamander PVC windows across all 6 districts of the capital and the Ilfov metropolitan area — with our own installation teams, technical consultants and complete services from measurements to post-installation warranty.',
     zones_title: 'Coverage areas in Bucharest and Ilfov',
     zones: [
@@ -88,14 +88,14 @@ const UI = {
       ['21 years experience', 'Continuous presence in the Bucharest market since 2005, with hundreds of residential and commercial projects completed in the capital.'],
       ['Own installation teams', 'We do not subcontract installation — our teams are trained and certified for Salamander BluEvolution and GreenEvolution systems.'],
       ['Free technical consultation', 'Technical specialist available for consultation on profile selection, sizing and thermal and acoustic performance calculation.'],
-      ['Free home measurements', 'Free visit throughout Bucharest and Ilfov for measurements, project assessment and detailed quote.'],
+      ['Home measurements after contract', 'Detailed quote for all of Bucharest and Ilfov, based on the dimensions you provide. On-site measurements follow once the contract is signed.'],
       ['nZEB certified installation', 'We use Blaugelb Triotherm+ precasings and 3-layer sealing tapes — required for new building permits and energy certificates.'],
       ['5 year warranty', 'Full warranty on PVC profile, glass and installation. 48-hour response for any post-installation request in Bucharest.'],
     ],
     process_title: 'How the process works in Bucharest',
     process: [
       ['Day 1', 'Initial contact', 'Call or send an online request. Technical specialist contacts you within 2 hours (Mon–Fri, 10–18).'],
-      ['Day 2–3', 'Free measurements', 'Our team visits your address for precise measurements and profile recommendation.'],
+      ['Day 2–3', 'On-site measurements', 'Our team visits your address for precise measurements and profile recommendation.'],
       ['Day 3–5', 'Detailed quote', 'You receive the quote with full specifications, final prices and delivery timeline.'],
       ['Day 14–21', 'Production', 'PVC windows are produced on automated lines with original Salamander profiles.'],
       ['Day 21–25', 'Installation', 'Our team carries out installation per RAL and nZEB standards, with all tapes and Blaugelb precasings.'],
@@ -108,7 +108,7 @@ const UI = {
       ['Can I order PVC windows without being present in Bucharest?', 'Yes — for clients in the diaspora or who cannot be present, we organise measurements with the client\'s representative or the project architect. We communicate entirely via email and WhatsApp.'],
       ['Which Salamander PVC profile is recommended for a Bucharest apartment?', 'For standard apartments, we recommend GreenEvolution 76 MD — 5 chambers, Uw 0.73 W/(m²K), excellent value for money. For new builds or nZEB renovations, BluEvolution 92 with 6 chambers and Uw 0.70 W/(m²K) is the optimal choice.'],
     ],
-    cta_h: 'Request free measurements in Bucharest',
+    cta_h: 'Request a quote for Bucharest',
     cta_sub: 'Our team reaches your address within 24–48 hours.',
     cta_btn: 'Request free quote',
     cta_call: 'Call now',
@@ -120,7 +120,7 @@ const UI = {
     label: 'Kunststofffenster PVC · Bukarest',
     parent: 'Kunststofffenster PVC',
     h1: 'Kunststofffenster Bukarest — Salamander Lieferung und Montage in allen Bezirken',
-    sub: 'Neofort BIZ liefert und montiert Salamander PVC-Fenster in Bukarest und Ilfov. Kostenlose Beratung, Aufmaß vor Ort, nZEB-zertifizierter Einbau.',
+    sub: 'Neofort BIZ liefert und montiert Salamander PVC-Fenster in Bukarest und Ilfov. Technische Beratung, nZEB-zertifizierter Einbau, 5 Jahre Garantie.',
     intro: 'Neofort BIZ ist seit 2005 in Bukarest präsent, mit Sitz im 1. Bezirk (Str. Theodor Aman Pictor 11). Wir liefern und montieren Salamander PVC-Fenster in allen 6 Bezirken der Hauptstadt und der Metropolregion Ilfov — mit eigenen Montageteams, technischen Beratern und Komplettservice von Aufmaß bis zur Montagegarantie.',
     zones_title: 'Einsatzgebiete in Bukarest und Ilfov',
     zones: [
@@ -137,14 +137,14 @@ const UI = {
       ['21 Jahre Erfahrung', 'Kontinuierliche Präsenz auf dem Bukarester Markt seit 2005, mit Hunderten von Wohn- und Gewerbeprojekten in der Hauptstadt.'],
       ['Eigene Montageteams', 'Wir vergeben keine Montageaufträge — unsere Teams sind für Salamander BluEvolution und GreenEvolution Systeme geschult und zertifiziert.'],
       ['Kostenlose Fachberatung', 'Technischer Spezialist für Beratung zu Profilauswahl, Dimensionierung und Berechnung der Wärme- und Schalldämmeigenschaften.'],
-      ['Kostenloser Aufmaßservice', 'Kostenloser Hausbesuch in ganz Bukarest und Ilfov für Aufmaß, Projektbewertung und detailliertes Angebot.'],
+      ['Aufmaß nach Vertragsabschluss', 'Detailliertes Angebot für ganz Bukarest und Ilfov auf Basis der von Ihnen genannten Maße. Das Aufmaß vor Ort erfolgt nach Vertragsabschluss.'],
       ['nZEB-zertifizierter Einbau', 'Wir verwenden Blaugelb Triotherm+ Vorfenster und 3-lagige Dichtungsbänder — Voraussetzung für neue Baugenehmigungen und Energieausweise.'],
       ['5 Jahre Garantie', 'Vollständige Garantie auf PVC-Profil, Glas und Montage. 48-Stunden-Reaktionszeit für Nachmontageanfragen in Bukarest.'],
     ],
     process_title: 'So läuft der Prozess in Bukarest ab',
     process: [
       ['Tag 1', 'Erstkontakt', 'Anruf oder Online-Anfrage. Fachberater meldet sich innerhalb von 2 Stunden (Mo–Fr, 10–18 Uhr).'],
-      ['Tag 2–3', 'Kostenloser Aufmaß', 'Unser Team kommt zu Ihrer Adresse für präzise Aufmaße und Profilempfehlung.'],
+      ['Tag 2–3', 'Aufmaß nach Vertragsabschluss', 'Unser Team kommt zu Ihrer Adresse für präzise Aufmaße und Profilempfehlung.'],
       ['Tag 3–5', 'Detailliertes Angebot', 'Sie erhalten das Angebot mit vollständigen Spezifikationen, Endpreisen und Liefertermin.'],
       ['Tag 14–21', 'Produktion', 'PVC-Fenster werden auf automatisierten Linien mit originalen Salamander-Profilen gefertigt.'],
       ['Tag 21–25', 'Montage', 'Unser Team führt die Montage nach RAL und nZEB durch, mit allen Bändern und Blaugelb-Vorfenstern.'],
@@ -157,7 +157,7 @@ const UI = {
       ['Kann ich PVC-Fenster bestellen ohne in Bukarest zu sein?', 'Ja — für Kunden aus der Diaspora oder die nicht vor Ort sein können, organisieren wir das Aufmaß mit dem Vertreter des Kunden oder dem Projektarchitekten. Wir kommunizieren vollständig per E-Mail und WhatsApp.'],
       ['Welches Salamander PVC-Profil wird für eine Bukarester Wohnung empfohlen?', 'Für Standardwohnungen empfehlen wir GreenEvolution 76 MD — 5 Kammern, Uw 0,73 W/(m²K), ausgezeichnetes Preis-Leistungs-Verhältnis. Für Neubauten oder nZEB-Renovierungen ist BluEvolution 92 mit 6 Kammern und Uw 0,70 W/(m²K) die optimale Wahl.'],
     ],
-    cta_h: 'Kostenloses Aufmaß in Bukarest anfragen',
+    cta_h: 'Angebot für Bukarest anfordern',
     cta_sub: 'Unser Team ist in 24–48 Stunden bei Ihnen.',
     cta_btn: 'Kostenloses Angebot',
     cta_call: 'Jetzt anrufen',
@@ -169,7 +169,7 @@ const UI = {
     label: 'Menuiserie PVC · Bucarest',
     parent: 'Menuiserie PVC',
     h1: 'Menuiserie PVC Bucarest — Fourniture et Pose Salamander dans tous les Arrondissements',
-    sub: 'Neofort BIZ fournit et pose la menuiserie PVC Salamander à Bucarest et Ilfov. Conseil gratuit, métrés à domicile, pose certifiée nZEB.',
+    sub: 'Neofort BIZ fournit et pose la menuiserie PVC Salamander à Bucarest et Ilfov. Conseil technique, pose certifiée nZEB, garantie 5 ans.',
     intro: "Neofort BIZ est présent à Bucarest depuis 2005, avec son siège dans le 1er arrondissement (Str. Theodor Aman Pictor 11). Nous fournissons et posons la menuiserie PVC Salamander dans les 6 arrondissements de la capitale et la zone métropolitaine d'Ilfov — avec nos propres équipes de pose, conseillers techniques et services complets du métrage à la garantie post-pose.",
     zones_title: "Zones d'intervention à Bucarest et Ilfov",
     zones: [
@@ -186,14 +186,14 @@ const UI = {
       ['21 ans d\'expérience', 'Présence continue sur le marché bucarestois depuis 2005, avec des centaines de projets résidentiels et commerciaux réalisés dans la capitale.'],
       ['Équipes de pose propres', "Nous ne sous-traitons pas la pose — nos équipes sont formées et certifiées pour les systèmes Salamander BluEvolution et GreenEvolution."],
       ['Conseil technique gratuit', "Spécialiste technique disponible pour conseiller sur le choix du profilé, le dimensionnement et le calcul des performances thermiques et acoustiques."],
-      ['Métrés à domicile gratuits', "Déplacement gratuit dans tout Bucarest et Ilfov pour métrés, évaluation du chantier et devis détaillé."],
+      ['Métrés à domicile après contrat', "Devis détaillé pour tout Bucarest et Ilfov, établi sur la base des dimensions que vous nous communiquez. Les métrés sur place ont lieu après la signature du contrat."],
       ['Pose certifiée nZEB', "Nous utilisons des précadres Blaugelb Triotherm+ et des bandes d'étanchéité en 3 couches — exigés pour les permis de construire neufs et les certificats énergétiques."],
       ['Garantie 5 ans', "Garantie complète sur le profilé PVC, le vitrage et la pose. Intervention sous 48 heures pour toute demande post-pose à Bucarest."],
     ],
     process_title: 'Comment fonctionne le processus à Bucarest',
     process: [
       ["Jour 1", "Contact initial", "Appelez ou envoyez une demande en ligne. Un spécialiste technique vous contacte sous 2 heures (Lun–Ven, 10–18h)."],
-      ["Jour 2–3", "Métrés gratuits", "Notre équipe se rend à votre adresse pour des métrés précis et des conseils sur le profilé recommandé."],
+      ["Jour 2–3", "Métrés sur place", "Notre équipe se rend à votre adresse pour des métrés précis et des conseils sur le profilé recommandé."],
       ["Jour 3–5", "Devis détaillé", "Vous recevez le devis avec spécifications complètes, prix définitifs et délai de livraison."],
       ["Jour 14–21", "Production", "Les fenêtres PVC sont produites sur lignes automatisées avec des profilés Salamander d'origine."],
       ["Jour 21–25", "Pose", "Notre équipe réalise la pose selon les normes RAL et nZEB, avec toutes les bandes et précadres Blaugelb."],
@@ -206,7 +206,7 @@ const UI = {
       ["Puis-je commander sans être présent à Bucarest ?", "Oui — pour les clients de la diaspora ou ne pouvant être présents, nous organisons les métrés avec le représentant du client ou l'architecte. Toute la communication se fait par e-mail et WhatsApp."],
       ["Quel profilé PVC Salamander recommandez-vous pour un appartement à Bucarest ?", "Pour les appartements standard, nous recommandons GreenEvolution 76 MD — 5 chambres, Uw 0,73 W/(m²K), excellent rapport qualité-prix. Pour les constructions neuves ou rénovations nZEB, BluEvolution 92 avec 6 chambres et Uw 0,70 W/(m²K) est le choix optimal."],
     ],
-    cta_h: 'Demandez des métrés gratuits à Bucarest',
+    cta_h: 'Demandez un devis pour Bucarest',
     cta_sub: 'Notre équipe se déplace chez vous sous 24–48 heures.',
     cta_btn: 'Devis gratuit',
     cta_call: 'Appeler maintenant',
@@ -218,7 +218,7 @@ const UI = {
     label: 'Carpintería PVC · Bucarest',
     parent: 'Carpintería PVC',
     h1: 'Carpintería PVC Bucarest — Suministro e Instalación Salamander en todos los Distritos',
-    sub: 'Neofort BIZ suministra e instala carpintería PVC Salamander en Bucarest e Ilfov. Asesoramiento gratuito, mediciones a domicilio, instalación certificada nZEB.',
+    sub: 'Neofort BIZ suministra e instala carpintería PVC Salamander en Bucarest e Ilfov. Asesoramiento técnico, instalación certificada nZEB, garantía 5 años.',
     intro: 'Neofort BIZ está presente en Bucarest desde 2005, con sede en el Distrito 1 (Str. Theodor Aman Pictor 11). Suministramos e instalamos carpintería PVC Salamander en los 6 distritos de la capital y la zona metropolitana de Ilfov — con nuestros propios equipos de instalación, consultores técnicos y servicios completos desde las mediciones hasta la garantía post-instalación.',
     zones_title: 'Zonas de cobertura en Bucarest e Ilfov',
     zones: [
@@ -235,14 +235,14 @@ const UI = {
       ['21 años de experiencia', 'Presencia continua en el mercado de Bucarest desde 2005, con cientos de proyectos residenciales y comerciales finalizados en la capital.'],
       ['Equipos propios de instalación', 'No subcontratamos la instalación — nuestros equipos están formados y certificados para los sistemas Salamander BluEvolution y GreenEvolution.'],
       ['Asesoramiento técnico gratuito', 'Especialista técnico disponible para asesorar sobre la elección del perfil, dimensionamiento y cálculo de rendimiento térmico y acústico.'],
-      ['Mediciones gratuitas a domicilio', 'Desplazamiento gratuito por todo Bucarest e Ilfov para mediciones, evaluación de obra y presupuesto detallado.'],
+      ['Mediciones a domicilio tras el contrato', 'Presupuesto detallado para todo Bucarest e Ilfov, a partir de las medidas que nos indique. Las mediciones en obra se realizan tras la firma del contrato.'],
       ['Instalación certificada nZEB', 'Usamos premarcos Blaugelb Triotherm+ y cintas de sellado de 3 capas — requisito para nuevos permisos de obra y certificados energéticos.'],
       ['Garantía 5 años', 'Garantía completa sobre el perfil PVC, vidrio e instalación. Intervención en 48 horas para cualquier solicitud post-instalación en Bucarest.'],
     ],
     process_title: 'Cómo funciona el proceso en Bucarest',
     process: [
       ['Día 1', 'Contacto inicial', 'Llama o envía una solicitud online. Un especialista técnico te contacta en máximo 2 horas (Lun–Vie, 10–18h).'],
-      ['Día 2–3', 'Mediciones gratuitas', 'Nuestro equipo visita tu dirección para mediciones precisas y recomendación de perfil.'],
+      ['Día 2–3', 'Mediciones en obra', 'Nuestro equipo visita tu dirección para mediciones precisas y recomendación de perfil.'],
       ['Día 3–5', 'Presupuesto detallado', 'Recibes el presupuesto con especificaciones completas, precios finales y plazo de entrega.'],
       ['Día 14–21', 'Producción', 'Las ventanas PVC se producen en líneas automatizadas con perfiles Salamander originales.'],
       ['Día 21–25', 'Instalación', 'Nuestro equipo realiza la instalación según normas RAL y nZEB, con todas las cintas y premarcos Blaugelb.'],
@@ -255,7 +255,7 @@ const UI = {
       ['¿Puedo pedir carpintería PVC sin estar presente en Bucarest?', 'Sí — para clientes de la diáspora o que no pueden estar presentes, organizamos las mediciones con el representante del cliente o el arquitecto del proyecto. Comunicamos íntegramente por email y WhatsApp.'],
       ['¿Qué perfil PVC Salamander recomendáis para un apartamento en Bucarest?', 'Para apartamentos estándar, recomendamos GreenEvolution 76 MD — 5 cámaras, Uw 0,73 W/(m²K), excelente relación calidad-precio. Para obra nueva o renovaciones nZEB, BluEvolution 92 con 6 cámaras y Uw 0,70 W/(m²K) es la elección óptima.'],
     ],
-    cta_h: 'Solicite mediciones gratuitas en Bucarest',
+    cta_h: 'Solicite un presupuesto para Bucarest',
     cta_sub: 'Nuestro equipo llega a su dirección en 24–48 horas.',
     cta_btn: 'Presupuesto gratuito',
     cta_call: 'Llamar ahora',
@@ -327,11 +327,11 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Menuiserie PVC Bucarest — Pose Salamander BluEvolution & GreenEvolution | Neofort BIZ'
          : locale === 'es' ? 'Carpintería PVC Bucarest — Instalación Salamander BluEvolution & GreenEvolution | Neofort BIZ'
          : 'Infissi PVC Bucarest — Posa Salamander BluEvolution & GreenEvolution | Neofort BIZ',
-    description: locale === 'ro' ? 'Furnizare și montaj tâmplărie PVC Salamander în București — toate sectoarele și Ilfov. Măsurători gratuite, montaj nZEB cu precadre Blaugelb, garanție 5 ani.'
-               : locale === 'en' ? 'PVC Salamander window supply and installation in Bucharest — all districts and Ilfov. Free measurements, nZEB installation with Blaugelb precasings, 5-year warranty.'
-               : locale === 'de' ? 'Lieferung und Montage Salamander PVC-Fenster in Bukarest — alle Bezirke und Ilfov. Kostenloser Aufmaß, nZEB-Montage mit Blaugelb-Vorfenstern, 5 Jahre Garantie.'
-               : locale === 'fr' ? 'Fourniture et pose menuiserie PVC Salamander à Bucarest — tous arrondissements et Ilfov. Métrés gratuits, pose nZEB avec précadres Blaugelb, garantie 5 ans.'
-               : locale === 'es' ? 'Suministro e instalación carpintería PVC Salamander en Bucarest — todos los distritos e Ilfov. Mediciones gratuitas, instalación nZEB con premarcos Blaugelb, garantía 5 años.'
+    description: locale === 'ro' ? 'Furnizare și montaj tâmplărie PVC Salamander în București — toate sectoarele și Ilfov. Măsurători la fața locului, montaj nZEB cu precadre Blaugelb, garanție 5 ani.'
+               : locale === 'en' ? 'PVC Salamander window supply and installation in Bucharest — all districts and Ilfov. On-site measurements, nZEB installation with Blaugelb precasings, 5-year warranty.'
+               : locale === 'de' ? 'Lieferung und Montage Salamander PVC-Fenster in Bukarest — alle Bezirke und Ilfov. Aufmaß nach Vertragsabschluss, nZEB-Montage mit Blaugelb-Vorfenstern, 5 Jahre Garantie.'
+               : locale === 'fr' ? 'Fourniture et pose menuiserie PVC Salamander à Bucarest — tous arrondissements et Ilfov. Métrés sur place, pose nZEB avec précadres Blaugelb, garantie 5 ans.'
+               : locale === 'es' ? 'Suministro e instalación carpintería PVC Salamander en Bucarest — todos los distritos e Ilfov. Mediciones en obra, instalación nZEB con premarcos Blaugelb, garantía 5 años.'
                : 'Fornitura e posa infissi PVC Salamander a Bucarest — tutti i quartieri e Ilfov. Rilievi gratuiti, posa nZEB con precontrotelaio Blaugelb, garanzia 5 anni.',
     keywords: locale === 'ro' ? 'tamplarie pvc bucuresti, ferestre pvc bucuresti, montaj pvc bucuresti, salamander bucuresti, bluevolution 92 bucuresti, greenevolution 76 bucuresti, termopane pvc bucuresti, inlocuit ferestre bucuresti'
             : 'PVC windows Bucharest, Salamander windows Bucharest installation, BluEvolution 92 Bucharest',

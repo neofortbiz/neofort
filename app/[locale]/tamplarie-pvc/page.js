@@ -150,12 +150,12 @@ export async function generateMetadata({ params }) {
   const t = await getTranslations({ locale, namespace: 'pvc' });
   const slug = SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro;
   return {
-    title: locale === 'ro' ? 'Tâmplărie PVC Salamander București — Ofertă de Preț în 24h | Neofort BIZ'
-           : locale === 'en' ? 'Salamander PVC Windows Bucharest — Price Quote in 24h | Neofort BIZ'
-           : locale === 'de' ? 'Salamander PVC-Fenster Bukarest — Preisangebot in 24h | Neofort BIZ'
-           : locale === 'fr' ? 'Menuiserie PVC Salamander Bucarest — Devis Prix en 24h | Neofort BIZ'
-           : locale === 'es' ? 'Carpintería PVC Salamander Bucarest — Presupuesto en 24h | Neofort BIZ'
-           : 'Infissi PVC Salamander Bucarest — Preventivo Prezzo in 24h | Neofort BIZ',
+    title: locale === 'ro' ? 'Tâmplărie PVC Salamander București — Ofertă de Preț în 48h | Neofort BIZ'
+           : locale === 'en' ? 'Salamander PVC Windows Bucharest — Price Quote in 48h | Neofort BIZ'
+           : locale === 'de' ? 'Salamander PVC-Fenster Bukarest — Preisangebot in 48h | Neofort BIZ'
+           : locale === 'fr' ? 'Menuiserie PVC Salamander Bucarest — Devis Prix en 48h | Neofort BIZ'
+           : locale === 'es' ? 'Carpintería PVC Salamander Bucarest — Presupuesto en 48h | Neofort BIZ'
+           : 'Infissi PVC Salamander Bucarest — Preventivo Prezzo in 48h | Neofort BIZ',
     description: locale === 'ro' ? 'Tâmplărie PVC Salamander în București — cere o ofertă de preț personalizată, cu răspuns în 24h. Sisteme BluEvolution 92 și GreenEvolution 76, montaj propriu, 21 ani experiență, 5.0★ din 52 recenzii.'
                : locale === 'en' ? 'Salamander PVC windows in Bucharest — request a personalised price quote, answered in 24h. BluEvolution 92 and GreenEvolution 76 systems, own installation team, 21 years experience, 5.0★ from 52 reviews.'
                : locale === 'de' ? 'Salamander PVC-Fenster in Bukarest — fordern Sie ein persönliches Preisangebot an, Antwort in 24h. BluEvolution 92 und GreenEvolution 76, eigene Montage, 21 Jahre Erfahrung, 5.0★ aus 52 Bewertungen.'
