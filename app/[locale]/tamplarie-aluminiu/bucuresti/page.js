@@ -317,7 +317,6 @@ const UI = {
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   const ui = UI[locale] || UI.ro;
-  const cityName = {"ro":"București","en":"Bucharest","de":"Bukarest","fr":"Bucarest","es":"Bucarest","it":"Bucarest"}[locale] || "București";
   const slug = SLUGS[locale] || SLUGS.ro;
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
   return {
@@ -353,6 +352,7 @@ export async function generateMetadata({ params }) {
 
 export default async function BucurestiPage({ params }) {
   const { locale } = await params;
+  const cityName = {"ro":"București","en":"Bucharest","de":"Bukarest","fr":"Bucarest","es":"Bucarest","it":"Bucarest"}[locale] || "București";
   const ui = UI[locale] || UI.ro;
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
   const slug = SLUGS[locale] || SLUGS.ro;
