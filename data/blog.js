@@ -233,6 +233,8 @@ Ordinea corectă de priorități pentru ferestre nZEB:
 
 Casă nZEB cu consum ≤ 100 kWh/m²/an, facturi reduse cu 40-60%, confort garantat 40+ ani.
 
+Standardul european evoluează: din 2030 reperul devine ZEB, nu nZEB. Ce se schimbă la cerințele de fereastră este explicat în [ghidul despre trecerea la clădiri cu emisii zero](/ro/blog/de-la-nzeb-la-zeb-ce-schimba-epbd-pentru-ferestre).
+
 ---
 
 **Articole conexe:**
@@ -463,6 +465,8 @@ Choosing windows for an nZEB house in Romania is not complicated if you follow t
 
 Result: nZEB house with consumption ≤ 100 kWh/m²/year, energy bills reduced 40-60% vs standard construction, thermal comfort guaranteed for 40+ years.
 
+The European standard is moving on: from 2030 the benchmark becomes ZEB, not nZEB. What changes in the window requirements is set out in [the guide to zero-emission buildings](/en/blog/from-nzeb-to-zeb-what-epbd-changes-for-windows).
+
 ---
 
 **Related articles:**
@@ -654,6 +658,8 @@ Die richtige Prioritätsreihenfolge für nZEB-Fenster:
 5. **Ergebnis:** Uw = 0,72 W/(m²K) — 28% unter der gesetzlichen Grenze
 
 Ergebnis: nZEB-Haus mit ≤ 100 kWh/m²/Jahr, Energierechnungen um 40-60% reduziert, Wärmekomfort auf 40+ Jahre garantiert.
+
+Der europäische Standard entwickelt sich weiter: Ab 2030 gilt ZEB statt nZEB als Maßstab. Was sich bei den Fensteranforderungen ändert, erklärt [der Ratgeber zu Nullemissionsgebäuden](/de/blog/von-nzeb-zu-zeb-was-die-epbd-fuer-fenster-aendert).
 
 ---
 
@@ -848,6 +854,8 @@ L'ordre de priorité correct pour les fenêtres nZEB :
 
 Résultat : maison nZEB avec ≤ 100 kWh/m²/an, factures d'énergie réduites de 40-60%, confort thermique garanti sur 40+ ans.
 
+La norme européenne évolue : à partir de 2030, la référence devient le ZEB et non plus le nZEB. Ce qui change pour les exigences des fenêtres est détaillé dans [le guide sur les bâtiments à émissions nulles](/fr/blog/de-nzeb-a-zeb-ce-que-change-la-epbd-pour-les-fenetres).
+
 ---
 
 **Articles connexes :**
@@ -1040,6 +1048,8 @@ El orden correcto de prioridades para ventanas nZEB:
 5. **Resultado:** Uw = 0,72 W/(m²K) — el 28% por debajo del límite legal
 
 Resultado: casa nZEB con ≤ 100 kWh/m²/año, facturas energéticas reducidas un 40-60%, confort térmico garantizado durante 40+ años.
+
+El estándar europeo evoluciona: desde 2030 la referencia pasa a ser ZEB, no nZEB. Qué cambia en los requisitos de ventana se explica en [la guía sobre edificios de cero emisiones](/es/blog/de-nzeb-a-zeb-que-cambia-la-epbd-para-las-ventanas).
 
 ---
 
@@ -1240,6 +1250,7 @@ Risultato: casa nZEB con ≤ 100 kWh/m²/anno, bollette energetiche ridotte del 
 - [PVC o Alluminio per case nZEB nel 2026?](/it/blog/pvc-o-alluminio-case-nzeb-2026-guida-completa)
 - [Triplo vs Doppio Vetro: Risparmi reali sul riscaldamento](/it/blog/triplo-vs-doppio-vetro-risparmi-reali-riscaldamento-prezzo)
 - [Sistema nZEB completo: Salamander + Blaugelb + triplo vetro](/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro)
+- [Da nZEB a ZEB: cosa cambia per le finestre dal 2030](/it/blog/da-nzeb-a-zeb-cosa-cambia-la-epbd-per-le-finestre)
 
 Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnica gratuita per il vostro progetto nZEB](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.`,
     },
@@ -24872,6 +24883,8 @@ Solicită **Declarația de Performanță (DoP)** și **certificatul IFT Rosenhei
 
 **Regula simplă:** Alege întotdeauna Uw cu minimum 15% sub limita zonei tale climatice. Pentru București, asta înseamnă Uw ≤ 0,85 W/(m²K) în loc de limita legală de 1,00.
 
+Dacă instalezi o pompă de căldură, această valoare devine decisivă: vezi [de ce contează Uw pentru randamentul pompei](/ro/blog/pompa-de-caldura-si-ferestre-de-ce-conteaza-uw).
+
 ---
 
 **Articole conexe:**
@@ -24977,6 +24990,8 @@ Salamander bluEvolution 92 + triple 52mm + Warm Edge spacer + Blaugelb Triotherm
 | Certified nZEB home | ≤ 0.72 | Salamander bluEvolution 92 + triple |
 | PHI passive house | ≤ 0.66 | bluEvolution 92 + triple 52mm + Blaugelb |
 
+If you are installing a heat pump, this figure becomes decisive: see [why Uw determines the pump’s efficiency](/en/blog/heat-pump-and-windows-why-uw-matters).
+
 ---
 
 Related: [nZEB Windows Guide Romania 2026](/en/blog/windows-nzeb-house-romania-complete-guide-2026) · [Triple vs Double Glazing Savings](/en/blog/triple-vs-double-glazing-real-savings-heating-cost) · [PVC vs Aluminium nZEB 2026](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide)
@@ -25040,6 +25055,8 @@ Nein — für Bukarest (Zone II) gilt Uw ≤ 1,00 W/(m²K) als gesetzliche Grenz
 **Welcher Uw ist in Rumänien der beste?**
 Salamander bluEvolution 92 + Dreifach 52mm + Warm-Edge-Abstandhalter + Blaugelb-Vorblendrahmen: **Uw = 0,66 W/(m²K)** — PassivHaus-zertifiziert.
 
+Bei einer Wärmepumpe wird dieser Wert entscheidend: siehe [warum der Uw-Wert die Effizienz der Wärmepumpe bestimmt](/de/blog/waermepumpe-und-fenster-warum-der-uw-wert-zaehlt).
+
 ---
 
 Neofort BIZ liefert Salamander PVC- und Alumil-Aluminiumfenster mit Uw ab 0,66 W/(m²K). [Kostenloses Beratungsgespräch](/de/kontakt). Sehen Sie [Salamander PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten.`,
@@ -25096,6 +25113,8 @@ Ug est le coefficient du vitrage. Double argon : Ug = 1,0 W/(m²K) ; Triple argo
 
 **Un Uw de 1,1 est-il acceptable à Bucarest ?**
 Non — la limite légale pour Bucarest (Zone II) est Uw ≤ 1,00 W/(m²K).
+
+Si vous installez une pompe à chaleur, cette valeur devient décisive : voir [pourquoi le Uw détermine le rendement de la pompe](/fr/blog/pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte).
 
 ---
 
@@ -25154,6 +25173,8 @@ Ug es el coeficiente del vidrio. Doble argón: Ug = 1,0 W/(m²K); Triple argón:
 **¿Es aceptable un Uw de 1,1 en Bucarest?**
 No — el límite legal para Bucarest (Zona II) es Uw ≤ 1,00 W/(m²K).
 
+Si va a instalar una bomba de calor, este valor resulta decisivo: vea [por qué el Uw determina el rendimiento de la bomba](/es/blog/bomba-de-calor-y-ventanas-por-que-importa-el-uw).
+
 ---
 
 Neofort BIZ suministra ventanas PVC Salamander y aluminio Alumil con Uw desde 0,66 W/(m²K). [Consulta técnica gratuita](/es/contacto). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos.`,
@@ -25210,6 +25231,8 @@ Ug è il coefficiente del vetro. Doppio argon: Ug = 1,0 W/(m²K); Triplo argon: 
 
 **Un Uw di 1,1 è accettabile a Bucarest?**
 No — il limite di legge per Bucarest (Zona II) è Uw ≤ 1,00 W/(m²K).
+
+Se installate una pompa di calore, questo valore diventa decisivo: vedete [perché l’Uw determina il rendimento della pompa](/it/blog/pompa-di-calore-e-finestre-perche-conta-uw).
 
 ---
 
@@ -26073,6 +26096,8 @@ Renovarea trebuie să asigure o reducere de minimum 30% a consumului de energie 
 ### Pot combina mai multe programe?
 Nu poți fi finanțat de două ori pentru aceeași lucrare prin axe diferite ale aceluiași program. Poți însă combina, în anumite condiții, finanțarea de renovare cu scheme locale sau cu credite verzi bancare pentru partea necontractată.
 
+Dacă finanțarea vizează și o pompă de căldură, ordinea lucrărilor contează: detalii în [articolul despre pompa de căldură și ferestre](/ro/blog/pompa-de-caldura-si-ferestre-de-ce-conteaza-uw).
+
 ---
 
 Neofort BIZ furnizează și montează tâmplărie PVC Salamander și aluminiu Alumil termoizolantă, conformă cerințelor de eficiență energetică, în București și Ilfov. [Solicită o ofertă pentru proiectul tău](/ro/contact). Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care le oferim.`,
@@ -26136,6 +26161,8 @@ The renovation must achieve a minimum 30% reduction in the home's energy consump
 
 ### Can I combine several programmes?
 You cannot be funded twice for the same work through different axes of the same programme. However, under certain conditions, you can combine renovation funding with local schemes or green bank loans for the non-contracted part.
+
+If the funding also covers a heat pump, the order of works matters: details in [the article on heat pumps and windows](/en/blog/heat-pump-and-windows-why-uw-matters).
 
 ---
 
@@ -26201,6 +26228,8 @@ Die Sanierung muss eine Senkung des Energieverbrauchs des Hauses um mindestens 3
 ### Kann ich mehrere Programme kombinieren?
 Sie können nicht zweimal für dieselbe Arbeit über verschiedene Achsen desselben Programms gefördert werden. Unter bestimmten Bedingungen können Sie jedoch die Sanierungsförderung mit lokalen Schemata oder grünen Bankkrediten für den nicht vertraglich gebundenen Teil kombinieren.
 
+Wenn die Förderung auch eine Wärmepumpe umfasst, zählt die Reihenfolge der Arbeiten: Einzelheiten im [Beitrag zu Wärmepumpe und Fenstern](/de/blog/waermepumpe-und-fenster-warum-der-uw-wert-zaehlt).
+
 ---
 
 Neofort BIZ liefert und montiert wärmedämmende Fenster aus Salamander-PVC und Alumil-Aluminium, konform mit den Energieeffizienzanforderungen, in Bukarest und Ilfov. [Fordern Sie ein Angebot für Ihr Projekt an](/de/kontakt). Sehen Sie [Salamander PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten.`,
@@ -26264,6 +26293,8 @@ La rénovation doit assurer une réduction d'au moins 30% de la consommation d'�
 
 ### Puis-je combiner plusieurs programmes ?
 Vous ne pouvez pas être financé deux fois pour le même travail via différents axes du même programme. Cependant, sous certaines conditions, vous pouvez combiner le financement de rénovation avec des dispositifs locaux ou des prêts bancaires verts pour la partie non contractée.
+
+Si le financement porte aussi sur une pompe à chaleur, l’ordre des travaux compte : détails dans [l’article sur pompe à chaleur et fenêtres](/fr/blog/pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte).
 
 ---
 
@@ -26329,6 +26360,8 @@ La renovación debe garantizar una reducción de al menos el 30% del consumo de 
 ### ¿Puedo combinar varios programas?
 No puedes recibir financiación dos veces por la misma obra mediante diferentes ejes del mismo programa. Sin embargo, bajo ciertas condiciones, puedes combinar la financiación de renovación con esquemas locales o créditos verdes bancarios para la parte no contratada.
 
+Si la ayuda cubre también una bomba de calor, el orden de las obras importa: detalles en [el artículo sobre bomba de calor y ventanas](/es/blog/bomba-de-calor-y-ventanas-por-que-importa-el-uw).
+
 ---
 
 Neofort BIZ suministra e instala carpintería termoaislante de PVC Salamander y aluminio Alumil, conforme a los requisitos de eficiencia energética, en Bucarest e Ilfov. [Solicita un presupuesto para tu proyecto](/es/contacto). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos.`,
@@ -26392,6 +26425,8 @@ La ristrutturazione deve garantire una riduzione di almeno il 30% del consumo en
 
 ### Posso combinare più programmi?
 Non puoi essere finanziato due volte per lo stesso lavoro attraverso assi diversi dello stesso programma. Tuttavia, a determinate condizioni, puoi combinare il finanziamento di ristrutturazione con schemi locali o prestiti bancari verdi per la parte non contrattualizzata.
+
+Se il finanziamento riguarda anche una pompa di calore, l’ordine dei lavori conta: dettagli nell’[articolo su pompa di calore e finestre](/it/blog/pompa-di-calore-e-finestre-perche-conta-uw).
 
 ---
 
@@ -29182,6 +29217,1076 @@ Se il profilo e il vetro sono in buono stato e solo la guarnizione si è usurata
 ---
 
 Neofort BIZ sostituisce guarnizioni e fa la manutenzione di serramenti in PVC Salamander e alluminio Alumil a Bucarest e Ilfov, con guarnizioni adatte a ogni profilo. Se le tue finestre lasciano passare l’aria e la regolazione non aiuta più, [richiedi una valutazione gratuita in loco](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo.`
+    },
+  },
+  {
+    slugs: {
+      ro: "de-la-nzeb-la-zeb-ce-schimba-epbd-pentru-ferestre",
+      en: "from-nzeb-to-zeb-what-epbd-changes-for-windows",
+      de: "von-nzeb-zu-zeb-was-die-epbd-fuer-fenster-aendert",
+      fr: "de-nzeb-a-zeb-ce-que-change-la-epbd-pour-les-fenetres",
+      es: "de-nzeb-a-zeb-que-cambia-la-epbd-para-las-ventanas",
+      it: "da-nzeb-a-zeb-cosa-cambia-la-epbd-per-le-finestre",
+    },
+    date: "2026-08-10",
+    author: "Mihai Dănălache",
+    authorRole: {
+      ro: "Consultant Tehnic Senior — 21 ani experiență",
+      en: "Senior Technical Consultant — 21 years experience",
+      de: "Leitender technischer Berater — 21 Jahre Erfahrung",
+      fr: "Consultant technique senior — 21 ans d’expérience",
+      es: "Asesor técnico senior — 21 años de experiencia",
+      it: "Consulente tecnico senior — 21 anni di esperienza",
+    },
+    authorPhoto: "/team/mihai-danalache.avif",
+    accentColor: "#1f7a3d",
+    image: {
+      ro: "/blog/nzeb-zeb-epbd-ferestre.avif",
+      en: "/blog/nzeb-zeb-epbd-ferestre.avif",
+      de: "/blog/nzeb-zeb-epbd-ferestre.avif",
+      fr: "/blog/nzeb-zeb-epbd-ferestre.avif",
+      es: "/blog/nzeb-zeb-epbd-ferestre.avif",
+      it: "/blog/nzeb-zeb-epbd-ferestre.avif",
+    },
+    imageOg: "/blog/nzeb-zeb-epbd-ferestre-og.jpg",
+    imageBg: "linear-gradient(135deg,#07200f 0%,#14472a 60%,#07200f 100%)",
+    imageLabel: "Prezentare tehnica despre trecerea de la standardul nZEB la ZEB si cerintele noi pentru ferestre — Uw, factor solar g, montaj etans",
+    readTime: {
+      ro: "9 min citire",
+      en: "9 min read",
+      de: "9 Min.",
+      fr: "9 min",
+      es: "9 min",
+      it: "9 min",
+    },
+    category: {
+      ro: "Sisteme nZEB",
+      en: "nZEB Systems",
+      de: "nZEB-Systeme",
+      fr: "Systèmes nZEB",
+      es: "Sistemas nZEB",
+      it: "Sistemi nZEB",
+    },
+    title: {
+      ro: "De la nZEB la ZEB: ce se schimbă concret pentru ferestre după EPBD",
+      en: "From nZEB to ZEB: what actually changes for windows under the EPBD",
+      de: "Von nZEB zu ZEB: Was sich durch die EPBD konkret für Fenster ändert",
+      fr: "De nZEB à ZEB : ce qui change concrètement pour les fenêtres avec la EPBD",
+      es: "De nZEB a ZEB: qué cambia realmente para las ventanas con la EPBD",
+      it: "Da nZEB a ZEB: cosa cambia davvero per le finestre con la EPBD",
+    },
+    metaDesc: {
+      ro: "Directiva EPBD mută standardul de la nZEB la ZEB: clădiri publice noi din 2028, toate clădirile noi din 2030. Ce înseamnă pentru Uw, factorul solar și montaj.",
+      en: "The EPBD moves the standard from nZEB to ZEB: new public buildings from 2028, all new buildings from 2030. What it means for Uw, solar factor and installation.",
+      de: "Die EPBD verschiebt den Standard von nZEB zu ZEB: neue öffentliche Gebäude ab 2028, alle Neubauten ab 2030. Was das für Uw, g-Wert und Montage bedeutet.",
+      fr: "La EPBD fait passer la norme de nZEB à ZEB : bâtiments publics neufs dès 2028, tous les neufs dès 2030. Ce que cela change pour Uw, facteur solaire et pose.",
+      es: "La EPBD traslada el estándar de nZEB a ZEB: edificios públicos nuevos desde 2028, todos los nuevos desde 2030. Qué implica para Uw, factor solar e instalación.",
+      it: "La EPBD sposta lo standard da nZEB a ZEB: nuovi edifici pubblici dal 2028, tutti i nuovi dal 2030. Cosa cambia per Uw, fattore solare e posa.",
+    },
+    excerpt: {
+      ro: "Standardul european trece de la „aproape zero energie\" la „zero emisii\". Pentru ferestre asta înseamnă praguri mai strânse la Uw, atenție reală la factorul solar și un montaj care intră în calculul de performanță.",
+      en: "The European standard moves from “nearly zero energy” to “zero emissions”. For windows that means tighter Uw thresholds, real attention to the solar factor and installation that counts in the performance calculation.",
+      de: "Der europäische Standard geht von „Fast-Nullenergie\" zu „Nullemission\". Für Fenster heißt das strengere Uw-Werte, echte Beachtung des g-Werts und eine Montage, die in die Berechnung eingeht.",
+      fr: "La norme européenne passe de « presque zéro énergie » à « zéro émission ». Pour les fenêtres : seuils Uw plus stricts, facteur solaire pris au sérieux et pose intégrée au calcul.",
+      es: "El estándar europeo pasa de «consumo casi nulo» a «cero emisiones». Para las ventanas: umbrales Uw más estrictos, atención real al factor solar y una instalación que entra en el cálculo.",
+      it: "Lo standard europeo passa da «quasi zero energia» a «zero emissioni». Per le finestre: soglie Uw più severe, attenzione reale al fattore solare e posa che entra nel calcolo.",
+    },
+    dateDisplay: {
+      ro: "10 august 2026",
+      en: "August 10 2026",
+      de: "10. August 2026",
+      fr: "10 août 2026",
+      es: "10 ago 2026",
+      it: "10 ago 2026",
+    },
+    content: {
+      ro: `Timp de un deceniu, nZEB a fost reperul pentru o clădire eficientă în România. Din 2030, reperul se schimbă: toate clădirile noi din Uniunea Europeană vor trebui să fie ZEB — clădiri cu emisii zero. Directiva EPBD (UE 2024/1275) a intrat în vigoare în mai 2024, iar statele membre au avut termen până la 29 mai 2026 să o transpună în legislația națională. Pentru cine construiește sau schimbă ferestrele acum, întrebarea practică e simplă: ce anume se schimbă la fereastră?
+
+## nZEB și ZEB nu măsoară același lucru
+
+Diferența nu e doar de prag numeric. nZEB înseamnă „consum de energie aproape zero" — se uită la cât consumă clădirea. ZEB adaugă o a doua dimensiune: emisiile. O clădire cu emisii zero are consum foarte redus **și** acoperă restul din surse regenerabile, fără combustibili fosili la fața locului.
+
+Pentru clădirile mari, EPBD introduce și raportarea potențialului de încălzire globală pe întreg ciclul de viață — de la producerea materialelor până la demolare. Fereastra nu mai contează doar prin cât izolează, ci și prin cum a fost produsă și ce se întâmplă cu ea la final.
+
+## Calendarul concret
+
+- **1 ianuarie 2028** — clădirile publice noi trebuie să fie ZEB
+- **1 ianuarie 2030** — toate clădirile noi trebuie să fie ZEB
+- **29 mai 2026** — termenul de transpunere în legislația națională
+
+Clădirile existente nu intră sub obligația de a deveni ZEB. Pentru ele, directiva stabilește traiectorii de renovare și obiective de reducere a consumului mediu al fondului construit.
+
+## Ce se schimbă la fereastră: coeficientul Uw
+
+Valorile exacte se stabilesc prin transpunerea națională, dar direcția e clară. Ca reper practic, folosit deja în proiectele nZEB serioase:
+
+| Parametru | nZEB (reper actual) | ZEB (direcția) |
+|---|---|---|
+| Uw fereastră | ≤ 1,1 W/m²K | ≤ 0,8 W/m²K |
+| Factor solar g | ≈ 0,50 | ≈ 0,35–0,40 |
+| Vitraj | dublu sau triplu | triplu, low-E avansat |
+| Montaj | corect executat | etanș, fără punți termice |
+
+Diferența dintre 1,1 și 0,8 W/m²K pare mică pe hârtie. În practică înseamnă altă clasă de produs: geam triplu obligatoriu, baghetă distanțieră warm edge în loc de aluminiu, profil cu mai multe camere și adâncime constructivă mai mare. Un profil de 70 mm cu geam dublu nu ajunge la 0,8 indiferent cât de bine e montat. Am detaliat cum se citește această valoare în ghidul despre [ce coeficient termic trebuie să aibă ferestrele](/ro/blog/ce-coeficient-termic-trebuie-sa-aiba-ferestrele).
+
+## Factorul solar g — partea pe care o ignoră aproape toată lumea
+
+Uw descrie pierderea de căldură iarna. Factorul solar g descrie cât din energia soarelui trece prin geam vara. Cu cât g e mai mare, cu atât intră mai multă căldură.
+
+La nZEB, un g de aproximativ 0,50 era acceptabil pentru că accentul cădea pe încălzire. La ZEB, unde se contabilizează și energia consumată pentru răcire, un g mare devine o problemă: clădirea se supraîncălzește vara și consumă pentru climatizare exact ce a economisit iarna.
+
+De aici două consecințe practice. Prima: geamul cu control solar nu mai e opțiune de lux, ci componentă de calcul. A doua: umbrirea exterioară intră în ecuație ca element de proiect, nu ca accesoriu adăugat ulterior — pentru că oprește radiația înainte să treacă prin sticlă.
+
+## Montajul intră în calcul, nu doar produsul
+
+Aici e schimbarea cea mai puțin discutată și cea mai costisitoare când e ignorată. O fereastră cu Uw de 0,8 montată cu spumă poliuretanică și atât nu produce performanța din fișa tehnică. Punțile termice de pe conturul golului și infiltrațiile de aer degradează rezultatul real cu mult peste ce arată calculul teoretic.
+
+Montajul în trei planuri de etanșare — barieră de vapori la interior, izolație termică în mijloc, barieră permeabilă la vapori spre exterior — devine cerință de performanță, nu recomandare. Precadrele termoizolante scot rama din zona rece a zidului și elimină puntea de la buiandrug și glaf. Detaliile sunt în ghidul despre [opțiunile de izolație perimetrală](/ro/blog/optiuni-izolatie-perimetrala-ferestre-romania-2026).
+
+## Ce înseamnă dacă schimbi ferestrele acum
+
+Dacă renovezi o casă existentă, nu ai obligația de a atinge ZEB. Dar există un calcul practic: o fereastră montată în 2026 rămâne pe casă 25–30 de ani, adică mult după 2030.
+
+Trei decizii care contează:
+
+1. **Nu cobori sub nivelul nZEB actual.** Un profil de 70–76 mm cu geam triplu și baghetă warm edge rămâne valid și peste zece ani.
+2. **Ceri factorul solar, nu doar Uw.** Pe fațadele sudice și vestice, un g necontrolat înseamnă aer condiționat pornit din mai.
+3. **Nu economisești la montaj.** Diferența de preț dintre un montaj obișnuit și unul etanș e o fracțiune din costul tâmplăriei, dar decide dacă produsul își atinge sau nu performanța.
+
+Pentru construcții noi cu autorizație după 2028, discuția e alta: proiectul trebuie să pornească de la cerințele ZEB, iar tâmplăria se alege din start la acel nivel. Comparația între materiale în acest contexte e tratată în [PVC sau aluminiu pentru case nZEB](/ro/blog/pvc-sau-aluminiu-case-nzeb-2026-ghid-alegere).
+
+## FAQ — trecerea de la nZEB la ZEB
+
+### Ce înseamnă ZEB pentru o clădire?
+ZEB (Zero Emission Building) este o clădire cu consum de energie foarte redus, acoperit din surse regenerabile, fără emisii directe de carbon din combustibili fosili la fața locului. Spre deosebire de nZEB, care măsoară doar consumul, ZEB include și componenta de emisii, iar pentru clădirile mari și potențialul de încălzire globală pe ciclul de viață.
+
+### Din ce an devine obligatoriu standardul ZEB?
+Clădirile publice noi trebuie să respecte standardul de la 1 ianuarie 2028, iar toate clădirile noi de la 1 ianuarie 2030. Termenul pentru transpunerea directivei EPBD în legislația națională a fost 29 mai 2026.
+
+### Trebuie să îmi transform casa existentă în ZEB?
+Nu. Obligația ZEB se aplică clădirilor noi. Pentru fondul construit existent, directiva stabilește traiectorii de renovare și ținte de reducere a consumului mediu, nu o obligație individuală de conformare la ZEB.
+
+### Ce coeficient Uw trebuie să aibă o fereastră pentru ZEB?
+Valorile obligatorii se stabilesc prin transpunerea națională. Ca reper practic de proiectare, nivelul nZEB uzual este Uw ≤ 1,1 W/m²K, iar direcția pentru ZEB este Uw ≤ 0,8 W/m²K, ceea ce presupune geam triplu, baghetă warm edge și profil cu adâncime constructivă mare.
+
+### De ce contează factorul solar la standardul ZEB?
+Pentru că ZEB contabilizează și energia consumată pentru răcire. Un factor solar mare lasă să intre multă căldură vara, iar clădirea consumă pentru climatizare energia economisită la încălzire. La ZEB se urmărește un g de aproximativ 0,35–0,40, combinat cu umbrire exterioară.
+
+---
+
+Neofort BIZ furnizează și montează tâmplărie PVC Salamander și aluminiu Alumil în București și Ilfov, cu montaj în trei planuri de etanșare și precadre termoizolante Blaugelb. Dacă pregătești un proiect care trebuie să respecte cerințe nZEB sau ZEB, [scrie-ne datele proiectului](/ro/contact) și primești ofertă în 48 de ore. Vezi și [sistemele nZEB complete](/ro/sisteme-nzeb) sau ghidul despre [ce ferestre alegi pentru o casă nZEB](/ro/blog/ferestre-casa-nzeb-romania-ghid-complet-2026).`,
+      en: `For a decade, nZEB has been the benchmark for an efficient building in Romania. From 2030, the benchmark changes: every new building in the European Union will have to be a ZEB — a zero-emission building. The EPBD (EU 2024/1275) entered into force in May 2024, and member states had until 29 May 2026 to transpose it into national law. For anyone building or replacing windows right now, the practical question is simple: what actually changes at the window?
+
+## nZEB and ZEB do not measure the same thing
+
+The difference is not just a numerical threshold. nZEB means “nearly zero energy consumption” — it looks at how much the building consumes. ZEB adds a second dimension: emissions. A zero-emission building has very low consumption **and** covers the remainder from renewable sources, with no fossil fuels burned on site.
+
+For large buildings, the EPBD also introduces reporting of global warming potential across the whole life cycle — from material production to demolition. A window no longer counts only for how well it insulates, but also for how it was produced and what happens to it at the end.
+
+## The actual timeline
+
+- **1 January 2028** — new public buildings must be ZEB
+- **1 January 2030** — all new buildings must be ZEB
+- **29 May 2026** — deadline for transposition into national law
+
+Existing buildings are not required to become ZEB. For them, the directive sets renovation trajectories and targets for reducing the average consumption of the building stock.
+
+## What changes at the window: the Uw coefficient
+
+Exact values are set by national transposition, but the direction is clear. As a practical benchmark, already used in serious nZEB projects:
+
+| Parameter | nZEB (current benchmark) | ZEB (direction) |
+|---|---|---|
+| Window Uw | ≤ 1.1 W/m²K | ≤ 0.8 W/m²K |
+| Solar factor g | ≈ 0.50 | ≈ 0.35–0.40 |
+| Glazing | double or triple | triple, advanced low-E |
+| Installation | properly executed | airtight, no thermal bridges |
+
+The gap between 1.1 and 0.8 W/m²K looks small on paper. In practice it means a different class of product: triple glazing becomes mandatory, a warm edge spacer replaces the aluminium one, and the profile needs more chambers and greater structural depth. A 70 mm profile with double glazing will not reach 0.8 no matter how well it is installed. How to read this figure is explained in the guide on [what thermal coefficient windows should have](/en/blog/what-thermal-coefficient-should-windows-have).
+
+## The solar factor g — the part almost everyone ignores
+
+Uw describes heat loss in winter. The solar factor g describes how much of the sun’s energy passes through the glass in summer. The higher the g, the more heat comes in.
+
+Under nZEB, a g of roughly 0.50 was acceptable because the focus was on heating. Under ZEB, where energy used for cooling is also counted, a high g becomes a problem: the building overheats in summer and spends on air conditioning exactly what it saved in winter.
+
+Two practical consequences follow. First, solar control glass is no longer a luxury option but a calculation component. Second, external shading enters the equation as a design element rather than an accessory added later — because it stops radiation before it passes through the glass.
+
+## Installation enters the calculation, not just the product
+
+This is the least discussed change and the most expensive one when ignored. A window with a Uw of 0.8 installed with nothing but polyurethane foam will not deliver the performance on its data sheet. Thermal bridges around the opening and air infiltration degrade the real result far beyond what the theoretical calculation suggests.
+
+Installation across three sealing planes — vapour barrier inside, thermal insulation in the middle, vapour-permeable barrier towards the outside — becomes a performance requirement rather than a recommendation. Thermally insulating precasings move the frame out of the cold zone of the wall and eliminate the bridge at the lintel and the sill. The details are in the guide on [perimeter insulation options](/en/blog/perimeter-insulation-options-windows-romania-2026).
+
+## What it means if you are replacing windows now
+
+If you are renovating an existing house, you are under no obligation to reach ZEB. But there is a practical calculation to make: a window installed in 2026 stays on the house for 25–30 years, well past 2030.
+
+Three decisions that matter:
+
+1. **Do not drop below the current nZEB level.** A 70–76 mm profile with triple glazing and a warm edge spacer will still be valid ten years from now.
+2. **Ask for the solar factor, not just Uw.** On south and west facades, an uncontrolled g means the air conditioning runs from May onwards.
+3. **Do not cut costs on installation.** The price difference between ordinary and airtight installation is a fraction of the joinery cost, but it decides whether the product reaches its rated performance.
+
+For new builds permitted after 2028 the discussion is different: the design has to start from ZEB requirements, and the joinery is specified at that level from the outset. The comparison between materials in this context is covered in [PVC or aluminium for nZEB homes](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide).
+
+## FAQ — moving from nZEB to ZEB
+
+### What does ZEB mean for a building?
+A ZEB (Zero Emission Building) has very low energy consumption, covered from renewable sources, with no direct carbon emissions from fossil fuels on site. Unlike nZEB, which measures consumption only, ZEB also includes the emissions dimension and, for large buildings, the global warming potential across the life cycle.
+
+### From what year does the ZEB standard become mandatory?
+New public buildings must meet the standard from 1 January 2028, and all new buildings from 1 January 2030. The deadline for transposing the EPBD into national law was 29 May 2026.
+
+### Do I have to turn my existing house into a ZEB?
+No. The ZEB obligation applies to new buildings. For the existing stock, the directive sets renovation trajectories and targets for reducing average consumption, not an individual obligation to comply with ZEB.
+
+### What Uw does a window need for ZEB?
+Mandatory values are set by national transposition. As a practical design benchmark, the usual nZEB level is Uw ≤ 1.1 W/m²K, while the direction for ZEB is Uw ≤ 0.8 W/m²K, which requires triple glazing, a warm edge spacer and a profile with substantial structural depth.
+
+### Why does the solar factor matter under the ZEB standard?
+Because ZEB also counts the energy used for cooling. A high solar factor lets a lot of heat in during summer, and the building spends on air conditioning the energy it saved on heating. ZEB aims for a g of roughly 0.35–0.40, combined with external shading.
+
+---
+
+Neofort BIZ supplies and installs Salamander PVC and Alumil aluminium joinery in Bucharest and Ilfov, with three-plane sealed installation and Blaugelb thermally insulating precasings. If you are preparing a project that has to meet nZEB or ZEB requirements, [send us the project details](/en/contact) and you will receive a quote within 48 hours. See also the [complete nZEB systems](/en/nzeb-systems) or the guide on [which windows to choose for an nZEB house](/en/blog/windows-nzeb-house-romania-complete-guide-2026).`,
+      de: `Ein Jahrzehnt lang war nZEB der Maßstab für ein effizientes Gebäude in Rumänien. Ab 2030 ändert sich dieser Maßstab: Alle Neubauten in der Europäischen Union müssen Nullemissionsgebäude sein — ZEB. Die EPBD (EU 2024/1275) trat im Mai 2024 in Kraft, und die Mitgliedstaaten hatten bis zum 29. Mai 2026 Zeit, sie in nationales Recht umzusetzen. Für alle, die jetzt bauen oder Fenster austauschen, lautet die praktische Frage: Was ändert sich konkret am Fenster?
+
+## nZEB und ZEB messen nicht dasselbe
+
+Der Unterschied liegt nicht nur in einem Zahlenwert. nZEB bedeutet „Fast-Nullenergie" — betrachtet wird, wie viel das Gebäude verbraucht. ZEB fügt eine zweite Dimension hinzu: die Emissionen. Ein Nullemissionsgebäude hat einen sehr geringen Verbrauch **und** deckt den Rest aus erneuerbaren Quellen, ohne fossile Brennstoffe vor Ort.
+
+Für große Gebäude führt die EPBD zusätzlich die Berichterstattung über das Treibhauspotenzial im gesamten Lebenszyklus ein — von der Materialherstellung bis zum Rückbau. Ein Fenster zählt damit nicht mehr nur über seine Dämmwirkung, sondern auch darüber, wie es hergestellt wurde und was am Ende mit ihm geschieht.
+
+## Der konkrete Zeitplan
+
+- **1. Januar 2028** — neue öffentliche Gebäude müssen ZEB sein
+- **1. Januar 2030** — alle Neubauten müssen ZEB sein
+- **29. Mai 2026** — Frist für die Umsetzung in nationales Recht
+
+Bestandsgebäude müssen nicht zu ZEB werden. Für sie legt die Richtlinie Renovierungspfade und Ziele zur Senkung des durchschnittlichen Verbrauchs des Gebäudebestands fest.
+
+## Was sich am Fenster ändert: der Uw-Wert
+
+Die genauen Werte werden durch die nationale Umsetzung festgelegt, die Richtung ist jedoch eindeutig. Als praktischer Anhaltspunkt, der in ernsthaften nZEB-Projekten bereits verwendet wird:
+
+| Parameter | nZEB (aktueller Richtwert) | ZEB (Richtung) |
+|---|---|---|
+| Uw Fenster | ≤ 1,1 W/m²K | ≤ 0,8 W/m²K |
+| g-Wert | ≈ 0,50 | ≈ 0,35–0,40 |
+| Verglasung | Zweifach oder Dreifach | Dreifach, hochwertiges Low-E |
+| Montage | fachgerecht ausgeführt | luftdicht, ohne Wärmebrücken |
+
+Der Unterschied zwischen 1,1 und 0,8 W/m²K wirkt auf dem Papier gering. In der Praxis bedeutet er eine andere Produktklasse: Dreifachverglasung wird zwingend, ein Warm-Edge-Abstandhalter ersetzt den aus Aluminium, und das Profil braucht mehr Kammern sowie eine größere Bautiefe. Ein 70-mm-Profil mit Zweifachverglasung erreicht die 0,8 nicht, gleich wie sorgfältig montiert wird. Wie dieser Wert zu lesen ist, erklärt der Ratgeber zu [welchem Wärmedurchgangskoeffizienten Fenster haben sollen](/de/blog/welchen-waermedurchgangskoeffizient-sollen-fenster-haben).
+
+## Der g-Wert — der Punkt, den fast alle übersehen
+
+Uw beschreibt den Wärmeverlust im Winter. Der g-Wert beschreibt, wie viel Sonnenenergie im Sommer durch die Scheibe dringt. Je höher der g-Wert, desto mehr Wärme kommt herein.
+
+Bei nZEB war ein g-Wert von etwa 0,50 vertretbar, weil der Schwerpunkt auf dem Heizen lag. Bei ZEB, wo auch die Energie für die Kühlung angerechnet wird, wird ein hoher g-Wert zum Problem: Das Gebäude überhitzt im Sommer und verbraucht für die Klimatisierung genau das, was es im Winter eingespart hat.
+
+Daraus folgen zwei praktische Konsequenzen. Erstens ist Sonnenschutzglas keine Luxusoption mehr, sondern ein Berechnungsbestandteil. Zweitens gehört außenliegender Sonnenschutz in die Planung und nicht als nachträgliches Zubehör — denn er hält die Strahlung auf, bevor sie durch das Glas dringt.
+
+## Die Montage geht in die Berechnung ein, nicht nur das Produkt
+
+Das ist die am wenigsten diskutierte Änderung und die teuerste, wenn man sie übergeht. Ein Fenster mit Uw 0,8, das nur mit Bauschaum eingesetzt wird, liefert nicht die Leistung des Datenblatts. Wärmebrücken rund um die Öffnung und Luftundichtheiten verschlechtern das reale Ergebnis weit über das hinaus, was die theoretische Berechnung zeigt.
+
+Die Montage in drei Dichtebenen — Dampfsperre innen, Wärmedämmung in der Mitte, dampfdurchlässige Ebene nach außen — wird zur Leistungsanforderung statt zur Empfehlung. Wärmegedämmte Vorblendrahmen holen den Rahmen aus der kalten Zone der Wand und beseitigen die Wärmebrücke an Sturz und Fensterbank. Die Details stehen im Ratgeber zu den [Optionen der Perimeterdämmung](/de/blog/perimeterdaemmung-optionen-fenster-rumaenien-2026).
+
+## Was das bedeutet, wenn Sie jetzt Fenster tauschen
+
+Bei der Renovierung eines Bestandsgebäudes besteht keine Pflicht, ZEB zu erreichen. Es gibt jedoch eine praktische Überlegung: Ein 2026 eingebautes Fenster bleibt 25 bis 30 Jahre am Haus, also weit über 2030 hinaus.
+
+Drei Entscheidungen, auf die es ankommt:
+
+1. **Bleiben Sie nicht unter dem heutigen nZEB-Niveau.** Ein 70–76-mm-Profil mit Dreifachverglasung und Warm-Edge-Abstandhalter ist auch in zehn Jahren noch zeitgemäß.
+2. **Fragen Sie nach dem g-Wert, nicht nur nach Uw.** An Süd- und Westfassaden bedeutet ein unkontrollierter g-Wert, dass die Klimaanlage ab Mai läuft.
+3. **Sparen Sie nicht an der Montage.** Der Preisunterschied zwischen üblicher und luftdichter Montage ist ein Bruchteil der Fensterkosten, entscheidet aber darüber, ob das Produkt seine Leistung erreicht.
+
+Bei Neubauten mit Genehmigung nach 2028 sieht die Sache anders aus: Die Planung muss von den ZEB-Anforderungen ausgehen, und die Fenster werden von Anfang an auf diesem Niveau gewählt. Den Materialvergleich in diesem Zusammenhang behandelt [PVC oder Aluminium für nZEB-Häuser](/de/blog/pvc-oder-aluminium-nzeb-haeuser-2026-ratgeber).
+
+## FAQ — der Übergang von nZEB zu ZEB
+
+### Was bedeutet ZEB für ein Gebäude?
+Ein ZEB (Zero Emission Building) hat einen sehr geringen Energiebedarf, der aus erneuerbaren Quellen gedeckt wird, ohne direkte CO2-Emissionen aus fossilen Brennstoffen vor Ort. Anders als nZEB, das nur den Verbrauch misst, umfasst ZEB auch die Emissionen und bei großen Gebäuden das Treibhauspotenzial über den Lebenszyklus.
+
+### Ab welchem Jahr gilt der ZEB-Standard verpflichtend?
+Neue öffentliche Gebäude müssen den Standard ab dem 1. Januar 2028 erfüllen, alle Neubauten ab dem 1. Januar 2030. Die Frist für die Umsetzung der EPBD in nationales Recht war der 29. Mai 2026.
+
+### Muss ich mein Bestandshaus zu einem ZEB umbauen?
+Nein. Die ZEB-Pflicht gilt für Neubauten. Für den Gebäudebestand legt die Richtlinie Renovierungspfade und Ziele zur Senkung des Durchschnittsverbrauchs fest, keine individuelle Pflicht zur ZEB-Konformität.
+
+### Welchen Uw-Wert braucht ein Fenster für ZEB?
+Die verbindlichen Werte ergeben sich aus der nationalen Umsetzung. Als praktischer Planungsrichtwert liegt das übliche nZEB-Niveau bei Uw ≤ 1,1 W/m²K, die Richtung für ZEB bei Uw ≤ 0,8 W/m²K — das setzt Dreifachverglasung, Warm-Edge-Abstandhalter und ein Profil mit großer Bautiefe voraus.
+
+### Warum ist der g-Wert beim ZEB-Standard wichtig?
+Weil ZEB auch die Energie für die Kühlung anrechnet. Ein hoher g-Wert lässt im Sommer viel Wärme herein, und das Gebäude verbraucht für die Klimatisierung die im Winter eingesparte Energie. Bei ZEB wird ein g-Wert von etwa 0,35–0,40 angestrebt, kombiniert mit außenliegendem Sonnenschutz.
+
+---
+
+Neofort BIZ liefert und montiert Salamander Kunststofffenster und Alumil Aluminiumfenster in Bukarest und Ilfov, mit Montage in drei Dichtebenen und wärmegedämmten Blaugelb-Vorblendrahmen. Wenn Sie ein Projekt vorbereiten, das nZEB- oder ZEB-Anforderungen erfüllen muss, [senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie sich auch die [kompletten nZEB-Systeme](/de/nzeb-systeme) an oder den Ratgeber, [welche Fenster für ein nZEB-Haus](/de/blog/fenster-nzeb-haus-rumaenien-vollstaendiger-ratgeber-2026) geeignet sind.`,
+      fr: `Pendant une décennie, le nZEB a servi de référence pour un bâtiment performant en Roumanie. À partir de 2030, la référence change : tous les bâtiments neufs de l’Union européenne devront être des ZEB — des bâtiments à émissions nulles. La directive EPBD (UE 2024/1275) est entrée en vigueur en mai 2024 et les États membres avaient jusqu’au 29 mai 2026 pour la transposer en droit national. Pour qui construit ou remplace ses fenêtres aujourd’hui, la question pratique est simple : qu’est-ce qui change concrètement au niveau de la fenêtre ?
+
+## nZEB et ZEB ne mesurent pas la même chose
+
+La différence ne tient pas seulement à un seuil chiffré. Le nZEB signifie « consommation d’énergie quasi nulle » — on regarde ce que le bâtiment consomme. Le ZEB ajoute une seconde dimension : les émissions. Un bâtiment à émissions nulles présente une consommation très faible **et** couvre le reste par des sources renouvelables, sans combustibles fossiles sur site.
+
+Pour les grands bâtiments, l’EPBD introduit aussi la déclaration du potentiel de réchauffement global sur l’ensemble du cycle de vie — de la production des matériaux jusqu’à la démolition. Une fenêtre ne compte donc plus seulement par son pouvoir isolant, mais aussi par sa fabrication et par ce qu’elle devient en fin de vie.
+
+## Le calendrier concret
+
+- **1er janvier 2028** — les bâtiments publics neufs doivent être ZEB
+- **1er janvier 2030** — tous les bâtiments neufs doivent être ZEB
+- **29 mai 2026** — échéance de transposition en droit national
+
+Les bâtiments existants ne sont pas tenus de devenir ZEB. Pour eux, la directive fixe des trajectoires de rénovation et des objectifs de réduction de la consommation moyenne du parc bâti.
+
+## Ce qui change au niveau de la fenêtre : le coefficient Uw
+
+Les valeurs exactes relèvent de la transposition nationale, mais la direction est claire. Comme repère pratique, déjà utilisé dans les projets nZEB sérieux :
+
+| Paramètre | nZEB (repère actuel) | ZEB (direction) |
+|---|---|---|
+| Uw fenêtre | ≤ 1,1 W/m²K | ≤ 0,8 W/m²K |
+| Facteur solaire g | ≈ 0,50 | ≈ 0,35–0,40 |
+| Vitrage | double ou triple | triple, low-E avancé |
+| Pose | correctement exécutée | étanche, sans ponts thermiques |
+
+L’écart entre 1,1 et 0,8 W/m²K paraît faible sur le papier. En pratique, il s’agit d’une autre classe de produit : le triple vitrage devient indispensable, l’intercalaire warm edge remplace celui en aluminium, et le profilé exige davantage de chambres et une plus grande profondeur. Un profilé de 70 mm en double vitrage n’atteindra pas 0,8, quelle que soit la qualité de la pose. La lecture de cette valeur est détaillée dans le guide sur [quel coefficient thermique pour les fenêtres](/fr/blog/quel-coefficient-thermique-pour-les-fenetres).
+
+## Le facteur solaire g — le point que presque tout le monde néglige
+
+Le Uw décrit la perte de chaleur en hiver. Le facteur solaire g décrit la part d’énergie solaire qui traverse le vitrage en été. Plus le g est élevé, plus la chaleur entre.
+
+En nZEB, un g d’environ 0,50 restait acceptable car l’accent portait sur le chauffage. En ZEB, où l’énergie consommée pour le refroidissement est également comptabilisée, un g élevé devient un problème : le bâtiment surchauffe en été et dépense en climatisation exactement ce qu’il a économisé en hiver.
+
+Deux conséquences pratiques en découlent. D’abord, le vitrage à contrôle solaire n’est plus une option de confort mais un élément de calcul. Ensuite, l’occultation extérieure entre dans l’équation dès la conception, et non comme un accessoire ajouté après coup — parce qu’elle arrête le rayonnement avant qu’il ne traverse le verre.
+
+## La pose entre dans le calcul, pas seulement le produit
+
+C’est le changement le moins discuté et le plus coûteux lorsqu’il est ignoré. Une fenêtre affichant un Uw de 0,8 posée à la simple mousse polyuréthane ne délivre pas la performance de sa fiche technique. Les ponts thermiques au pourtour de la baie et les infiltrations d’air dégradent le résultat réel bien au-delà de ce que laisse penser le calcul théorique.
+
+La pose en trois plans d’étanchéité — pare-vapeur à l’intérieur, isolation thermique au milieu, membrane perméable à la vapeur vers l’extérieur — devient une exigence de performance et non une recommandation. Les précadres isolants sortent le dormant de la zone froide du mur et suppriment le pont thermique au linteau et à l’appui. Les détails figurent dans le guide sur les [options d’isolation périphérique](/fr/blog/options-isolation-perimetrale-fenetres-roumanie-2026).
+
+## Ce que cela implique si vous changez vos fenêtres maintenant
+
+Pour la rénovation d’une maison existante, aucune obligation d’atteindre le ZEB. Mais un calcul pratique s’impose : une fenêtre posée en 2026 reste en place 25 à 30 ans, donc bien au-delà de 2030.
+
+Trois décisions qui comptent :
+
+1. **Ne descendez pas sous le niveau nZEB actuel.** Un profilé de 70–76 mm avec triple vitrage et intercalaire warm edge restera valable dans dix ans.
+2. **Demandez le facteur solaire, pas seulement le Uw.** Sur les façades sud et ouest, un g non maîtrisé signifie une climatisation en marche dès mai.
+3. **N’économisez pas sur la pose.** L’écart de prix entre une pose ordinaire et une pose étanche représente une fraction du coût des menuiseries, mais détermine si le produit atteint sa performance annoncée.
+
+Pour les constructions neuves autorisées après 2028, la discussion est différente : le projet doit partir des exigences ZEB et les menuiseries se choisissent d’emblée à ce niveau. La comparaison des matériaux dans ce contexte est traitée dans [PVC ou aluminium pour maisons nZEB](/fr/blog/pvc-ou-aluminium-maisons-nzeb-2026-guide-complet).
+
+## FAQ — le passage du nZEB au ZEB
+
+### Que signifie ZEB pour un bâtiment ?
+Un ZEB (Zero Emission Building) présente une consommation d’énergie très faible, couverte par des sources renouvelables, sans émissions directes de carbone issues de combustibles fossiles sur site. Contrairement au nZEB qui ne mesure que la consommation, le ZEB intègre aussi les émissions et, pour les grands bâtiments, le potentiel de réchauffement sur le cycle de vie.
+
+### À partir de quelle année la norme ZEB devient-elle obligatoire ?
+Les bâtiments publics neufs doivent respecter la norme dès le 1er janvier 2028, et tous les bâtiments neufs dès le 1er janvier 2030. L’échéance de transposition de l’EPBD en droit national était le 29 mai 2026.
+
+### Dois-je transformer ma maison existante en ZEB ?
+Non. L’obligation ZEB s’applique aux bâtiments neufs. Pour le parc existant, la directive fixe des trajectoires de rénovation et des objectifs de réduction de la consommation moyenne, et non une obligation individuelle de conformité au ZEB.
+
+### Quel Uw faut-il pour une fenêtre en ZEB ?
+Les valeurs obligatoires découlent de la transposition nationale. Comme repère de conception, le niveau nZEB usuel se situe à Uw ≤ 1,1 W/m²K, tandis que la direction pour le ZEB est Uw ≤ 0,8 W/m²K, ce qui suppose un triple vitrage, un intercalaire warm edge et un profilé de forte profondeur.
+
+### Pourquoi le facteur solaire compte-t-il pour la norme ZEB ?
+Parce que le ZEB comptabilise aussi l’énergie consommée pour le refroidissement. Un facteur solaire élevé laisse entrer beaucoup de chaleur en été, et le bâtiment dépense en climatisation l’énergie économisée au chauffage. Le ZEB vise un g d’environ 0,35–0,40, associé à une occultation extérieure.
+
+---
+
+Neofort BIZ fournit et pose des menuiseries PVC Salamander et aluminium Alumil à Bucarest et dans l’Ilfov, avec une pose en trois plans d’étanchéité et des précadres isolants Blaugelb. Si vous préparez un projet devant répondre à des exigences nZEB ou ZEB, [transmettez-nous les données du projet](/fr/contact) et vous recevrez un devis sous 48 heures. Consultez aussi les [systèmes nZEB complets](/fr/systemes-nzeb) ou le guide sur [les fenêtres à choisir pour une maison nZEB](/fr/blog/fenetres-maison-nzeb-roumanie-guide-complet-2026).`,
+      es: `Durante una década, el nZEB ha sido la referencia de un edificio eficiente en Rumanía. A partir de 2030 esa referencia cambia: todos los edificios nuevos de la Unión Europea deberán ser ZEB — edificios de cero emisiones. La directiva EPBD (UE 2024/1275) entró en vigor en mayo de 2024 y los Estados miembros tenían hasta el 29 de mayo de 2026 para transponerla a la legislación nacional. Para quien construye o cambia ventanas ahora, la pregunta práctica es sencilla: ¿qué cambia realmente en la ventana?
+
+## nZEB y ZEB no miden lo mismo
+
+La diferencia no es solo un umbral numérico. nZEB significa «consumo de energía casi nulo» — se mira cuánto consume el edificio. ZEB añade una segunda dimensión: las emisiones. Un edificio de cero emisiones tiene un consumo muy reducido **y** cubre el resto con fuentes renovables, sin combustibles fósiles en el propio inmueble.
+
+Para los edificios grandes, la EPBD introduce además la declaración del potencial de calentamiento global a lo largo de todo el ciclo de vida — desde la fabricación de los materiales hasta la demolición. Una ventana ya no cuenta solo por lo que aísla, sino también por cómo se ha fabricado y qué ocurre con ella al final de su vida útil.
+
+## El calendario concreto
+
+- **1 de enero de 2028** — los edificios públicos nuevos deben ser ZEB
+- **1 de enero de 2030** — todos los edificios nuevos deben ser ZEB
+- **29 de mayo de 2026** — plazo de transposición a la legislación nacional
+
+Los edificios existentes no están obligados a convertirse en ZEB. Para ellos, la directiva establece trayectorias de renovación y objetivos de reducción del consumo medio del parque construido.
+
+## Qué cambia en la ventana: el coeficiente Uw
+
+Los valores exactos se fijan en la transposición nacional, pero la dirección es clara. Como referencia práctica, ya empleada en proyectos nZEB serios:
+
+| Parámetro | nZEB (referencia actual) | ZEB (dirección) |
+|---|---|---|
+| Uw ventana | ≤ 1,1 W/m²K | ≤ 0,8 W/m²K |
+| Factor solar g | ≈ 0,50 | ≈ 0,35–0,40 |
+| Acristalamiento | doble o triple | triple, low-E avanzado |
+| Instalación | correctamente ejecutada | estanca, sin puentes térmicos |
+
+La distancia entre 1,1 y 0,8 W/m²K parece pequeña sobre el papel. En la práctica supone otra clase de producto: el triple acristalamiento pasa a ser obligatorio, el separador warm edge sustituye al de aluminio y el perfil necesita más cámaras y mayor profundidad constructiva. Un perfil de 70 mm con doble acristalamiento no alcanza 0,8 por bien instalado que esté. Cómo se lee este valor se explica en la guía sobre [qué coeficiente térmico deben tener las ventanas](/es/blog/que-coeficiente-termico-deben-tener-las-ventanas).
+
+## El factor solar g — la parte que casi todo el mundo ignora
+
+El Uw describe la pérdida de calor en invierno. El factor solar g describe cuánta energía del sol atraviesa el vidrio en verano. Cuanto mayor es g, más calor entra.
+
+En nZEB, un g de aproximadamente 0,50 resultaba aceptable porque el foco estaba en la calefacción. En ZEB, donde también se contabiliza la energía destinada a refrigeración, un g elevado se convierte en un problema: el edificio se sobrecalienta en verano y gasta en climatización justo lo que ahorró en invierno.
+
+De ahí dos consecuencias prácticas. La primera: el vidrio de control solar deja de ser una opción de lujo y pasa a ser un componente de cálculo. La segunda: el sombreado exterior entra en la ecuación como elemento de proyecto, no como accesorio añadido después — porque detiene la radiación antes de que atraviese el vidrio.
+
+## La instalación entra en el cálculo, no solo el producto
+
+Este es el cambio menos comentado y el más caro cuando se pasa por alto. Una ventana con Uw de 0,8 instalada solo con espuma de poliuretano no ofrece el rendimiento de su ficha técnica. Los puentes térmicos del perímetro del hueco y las infiltraciones de aire degradan el resultado real mucho más de lo que sugiere el cálculo teórico.
+
+La instalación en tres planos de sellado — barrera de vapor al interior, aislamiento térmico en el centro, membrana permeable al vapor hacia el exterior — se convierte en requisito de rendimiento y no en recomendación. Los premarcos termoaislantes sacan el marco de la zona fría del muro y eliminan el puente del dintel y del alféizar. Los detalles están en la guía sobre las [opciones de aislamiento perimetral](/es/blog/opciones-aislamiento-perimetral-ventanas-rumania-2026).
+
+## Qué significa si cambia las ventanas ahora
+
+Si renueva una vivienda existente, no tiene obligación de alcanzar el ZEB. Pero conviene hacer un cálculo práctico: una ventana instalada en 2026 permanece en la casa entre 25 y 30 años, mucho más allá de 2030.
+
+Tres decisiones que importan:
+
+1. **No baje del nivel nZEB actual.** Un perfil de 70–76 mm con triple acristalamiento y separador warm edge seguirá siendo válido dentro de diez años.
+2. **Pida el factor solar, no solo el Uw.** En fachadas sur y oeste, un g descontrolado significa aire acondicionado funcionando desde mayo.
+3. **No recorte en la instalación.** La diferencia de precio entre una instalación corriente y una estanca es una fracción del coste de la carpintería, pero decide si el producto alcanza o no su rendimiento.
+
+Para obra nueva con licencia posterior a 2028 la conversación es distinta: el proyecto debe partir de los requisitos ZEB y la carpintería se elige a ese nivel desde el principio. La comparación entre materiales en este contexto se trata en [PVC o aluminio para casas nZEB](/es/blog/pvc-o-aluminio-casas-nzeb-2026-guia-completa).
+
+## FAQ — el paso de nZEB a ZEB
+
+### ¿Qué significa ZEB para un edificio?
+Un ZEB (Zero Emission Building) tiene un consumo de energía muy bajo, cubierto con fuentes renovables y sin emisiones directas de carbono procedentes de combustibles fósiles en el propio inmueble. A diferencia del nZEB, que solo mide el consumo, el ZEB incluye también las emisiones y, en edificios grandes, el potencial de calentamiento a lo largo del ciclo de vida.
+
+### ¿Desde qué año es obligatorio el estándar ZEB?
+Los edificios públicos nuevos deben cumplirlo desde el 1 de enero de 2028 y todos los edificios nuevos desde el 1 de enero de 2030. El plazo para transponer la EPBD a la legislación nacional fue el 29 de mayo de 2026.
+
+### ¿Tengo que convertir mi vivienda existente en ZEB?
+No. La obligación ZEB se aplica a los edificios nuevos. Para el parque existente, la directiva establece trayectorias de renovación y objetivos de reducción del consumo medio, no una obligación individual de cumplir el ZEB.
+
+### ¿Qué Uw necesita una ventana para ZEB?
+Los valores obligatorios se fijan en la transposición nacional. Como referencia de diseño, el nivel nZEB habitual es Uw ≤ 1,1 W/m²K, mientras que la dirección para ZEB es Uw ≤ 0,8 W/m²K, lo que exige triple acristalamiento, separador warm edge y un perfil de gran profundidad constructiva.
+
+### ¿Por qué importa el factor solar en el estándar ZEB?
+Porque el ZEB contabiliza también la energía empleada en refrigeración. Un factor solar alto deja entrar mucho calor en verano y el edificio gasta en climatización la energía ahorrada en calefacción. El ZEB busca un g de aproximadamente 0,35–0,40, combinado con sombreado exterior.
+
+---
+
+Neofort BIZ suministra e instala carpintería PVC Salamander y aluminio Alumil en Bucarest e Ilfov, con instalación en tres planos de sellado y premarcos termoaislantes Blaugelb. Si prepara un proyecto que debe cumplir requisitos nZEB o ZEB, [envíenos los datos del proyecto](/es/contacto) y recibirá un presupuesto en 48 horas. Consulte también los [sistemas nZEB completos](/es/sistemas-nzeb) o la guía sobre [qué ventanas elegir para una casa nZEB](/es/blog/ventanas-casa-nzeb-rumania-guia-completa-2026).`,
+      it: `Per un decennio, nZEB è stato il riferimento per un edificio efficiente in Romania. Dal 2030 il riferimento cambia: tutti gli edifici nuovi dell’Unione Europea dovranno essere ZEB — edifici a zero emissioni. La direttiva EPBD (UE 2024/1275) è entrata in vigore a maggio 2024 e gli Stati membri avevano tempo fino al 29 maggio 2026 per recepirla nella legislazione nazionale. Per chi costruisce o sostituisce le finestre adesso, la domanda pratica è semplice: che cosa cambia concretamente sulla finestra?
+
+## nZEB e ZEB non misurano la stessa cosa
+
+La differenza non riguarda soltanto una soglia numerica. nZEB significa «consumo di energia quasi zero» — si guarda quanto consuma l’edificio. ZEB aggiunge una seconda dimensione: le emissioni. Un edificio a zero emissioni ha un consumo molto ridotto **e** copre il resto con fonti rinnovabili, senza combustibili fossili in loco.
+
+Per gli edifici di grandi dimensioni, la EPBD introduce anche la dichiarazione del potenziale di riscaldamento globale sull’intero ciclo di vita — dalla produzione dei materiali fino alla demolizione. Una finestra non conta più solo per quanto isola, ma anche per come è stata prodotta e per che fine fa a fine vita.
+
+## Il calendario concreto
+
+- **1 gennaio 2028** — i nuovi edifici pubblici devono essere ZEB
+- **1 gennaio 2030** — tutti gli edifici nuovi devono essere ZEB
+- **29 maggio 2026** — termine per il recepimento nella legislazione nazionale
+
+Gli edifici esistenti non sono obbligati a diventare ZEB. Per essi la direttiva stabilisce traiettorie di ristrutturazione e obiettivi di riduzione del consumo medio del patrimonio edilizio.
+
+## Cosa cambia sulla finestra: il coefficiente Uw
+
+I valori esatti vengono fissati dal recepimento nazionale, ma la direzione è chiara. Come riferimento pratico, già usato nei progetti nZEB seri:
+
+| Parametro | nZEB (riferimento attuale) | ZEB (direzione) |
+|---|---|---|
+| Uw finestra | ≤ 1,1 W/m²K | ≤ 0,8 W/m²K |
+| Fattore solare g | ≈ 0,50 | ≈ 0,35–0,40 |
+| Vetro | doppio o triplo | triplo, low-E avanzato |
+| Posa | eseguita a regola d’arte | a tenuta, senza ponti termici |
+
+La distanza tra 1,1 e 0,8 W/m²K sembra minima sulla carta. In pratica significa un’altra classe di prodotto: il triplo vetro diventa obbligatorio, il distanziale warm edge sostituisce quello in alluminio e il profilo richiede più camere e una maggiore profondità costruttiva. Un profilo da 70 mm con doppio vetro non arriva a 0,8 per quanto bene venga posato. Come si legge questo valore è spiegato nella guida su [quale coefficiente termico devono avere le finestre](/it/blog/quale-coefficiente-termico-devono-avere-le-finestre).
+
+## Il fattore solare g — la parte che quasi tutti trascurano
+
+L’Uw descrive la dispersione di calore in inverno. Il fattore solare g descrive quanta energia solare attraversa il vetro in estate. Più alto è g, più calore entra.
+
+Con nZEB un g di circa 0,50 era accettabile perché l’attenzione era sul riscaldamento. Con ZEB, dove viene conteggiata anche l’energia per il raffrescamento, un g elevato diventa un problema: l’edificio si surriscalda d’estate e consuma per la climatizzazione esattamente quello che ha risparmiato d’inverno.
+
+Da qui due conseguenze pratiche. La prima: il vetro a controllo solare non è più un’opzione di pregio ma un componente di calcolo. La seconda: l’oscuramento esterno entra nell’equazione come elemento di progetto e non come accessorio aggiunto in seguito — perché ferma la radiazione prima che attraversi il vetro.
+
+## La posa entra nel calcolo, non solo il prodotto
+
+È il cambiamento meno discusso e il più costoso quando viene ignorato. Una finestra con Uw 0,8 posata soltanto con schiuma poliuretanica non restituisce le prestazioni della scheda tecnica. I ponti termici sul perimetro del vano e le infiltrazioni d’aria peggiorano il risultato reale ben oltre quanto suggerisce il calcolo teorico.
+
+La posa su tre piani di tenuta — barriera al vapore all’interno, isolamento termico al centro, membrana traspirante verso l’esterno — diventa un requisito prestazionale e non una raccomandazione. I controtelai termoisolanti portano il telaio fuori dalla zona fredda della muratura ed eliminano il ponte termico su architrave e davanzale. I dettagli sono nella guida sulle [opzioni di isolamento perimetrale](/it/blog/opzioni-isolamento-perimetrale-finestre-romania-2026).
+
+## Cosa significa se sostituite le finestre adesso
+
+Se ristrutturate una casa esistente non avete l’obbligo di raggiungere lo ZEB. C’è però un calcolo pratico da fare: una finestra posata nel 2026 resta sulla casa 25–30 anni, quindi ben oltre il 2030.
+
+Tre decisioni che contano:
+
+1. **Non scendete sotto il livello nZEB attuale.** Un profilo da 70–76 mm con triplo vetro e distanziale warm edge resterà valido anche fra dieci anni.
+2. **Chiedete il fattore solare, non solo l’Uw.** Sulle facciate a sud e a ovest, un g non controllato significa climatizzatore acceso già da maggio.
+3. **Non risparmiate sulla posa.** La differenza di prezzo tra una posa ordinaria e una a tenuta è una frazione del costo dei serramenti, ma decide se il prodotto raggiunge o meno le prestazioni dichiarate.
+
+Per le nuove costruzioni autorizzate dopo il 2028 il discorso è diverso: il progetto deve partire dai requisiti ZEB e i serramenti si scelgono da subito a quel livello. Il confronto tra i materiali in questo contesto è trattato in [PVC o alluminio per case nZEB](/it/blog/pvc-o-alluminio-case-nzeb-2026-guida-completa).
+
+## FAQ — il passaggio da nZEB a ZEB
+
+### Che cosa significa ZEB per un edificio?
+Uno ZEB (Zero Emission Building) ha un consumo energetico molto basso, coperto da fonti rinnovabili, senza emissioni dirette di carbonio da combustibili fossili in loco. A differenza dell’nZEB, che misura solo il consumo, lo ZEB comprende anche le emissioni e, per i grandi edifici, il potenziale di riscaldamento sul ciclo di vita.
+
+### Da quale anno lo standard ZEB diventa obbligatorio?
+I nuovi edifici pubblici devono rispettarlo dal 1 gennaio 2028 e tutti gli edifici nuovi dal 1 gennaio 2030. Il termine per il recepimento della EPBD nella legislazione nazionale era il 29 maggio 2026.
+
+### Devo trasformare la mia casa esistente in uno ZEB?
+No. L’obbligo ZEB riguarda gli edifici nuovi. Per il patrimonio esistente la direttiva fissa traiettorie di ristrutturazione e obiettivi di riduzione del consumo medio, non un obbligo individuale di conformità allo ZEB.
+
+### Quale Uw serve a una finestra per lo ZEB?
+I valori obbligatori derivano dal recepimento nazionale. Come riferimento progettuale, il livello nZEB abituale è Uw ≤ 1,1 W/m²K, mentre la direzione per lo ZEB è Uw ≤ 0,8 W/m²K, che richiede triplo vetro, distanziale warm edge e un profilo di notevole profondità costruttiva.
+
+### Perché il fattore solare conta per lo standard ZEB?
+Perché lo ZEB conteggia anche l’energia impiegata per il raffrescamento. Un fattore solare alto lascia entrare molto calore d’estate e l’edificio consuma per la climatizzazione l’energia risparmiata sul riscaldamento. Lo ZEB punta a un g di circa 0,35–0,40, abbinato a oscuramento esterno.
+
+---
+
+Neofort BIZ fornisce e posa serramenti in PVC Salamander e alluminio Alumil a Bucarest e nell’Ilfov, con posa su tre piani di tenuta e controtelai termoisolanti Blaugelb. Se state preparando un progetto che deve rispettare requisiti nZEB o ZEB, [inviateci i dati del progetto](/it/contatti) e riceverete un preventivo entro 48 ore. Vedete anche i [sistemi nZEB completi](/it/sistemi-nzeb) o la guida su [quali finestre scegliere per una casa nZEB](/it/blog/finestre-casa-nzeb-romania-guida-completa-2026).`,
+    },
+  },
+  {
+    slugs: {
+      ro: "pompa-de-caldura-si-ferestre-de-ce-conteaza-uw",
+      en: "heat-pump-and-windows-why-uw-matters",
+      de: "waermepumpe-und-fenster-warum-der-uw-wert-zaehlt",
+      fr: "pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte",
+      es: "bomba-de-calor-y-ventanas-por-que-importa-el-uw",
+      it: "pompa-di-calore-e-finestre-perche-conta-uw",
+    },
+    date: "2026-08-20",
+    author: "Mihai Dănălache",
+    authorRole: {
+      ro: "Consultant Tehnic Senior — 21 ani experiență",
+      en: "Senior Technical Consultant — 21 years experience",
+      de: "Leitender technischer Berater — 21 Jahre Erfahrung",
+      fr: "Consultant technique senior — 21 ans d’expérience",
+      es: "Asesor técnico senior — 21 años de experiencia",
+      it: "Consulente tecnico senior — 21 anni di esperienza",
+    },
+    authorPhoto: "/team/mihai-danalache.avif",
+    accentColor: "#c25e00",
+    image: {
+      ro: "/blog/pompa-caldura-ferestre-eficiente.avif",
+      en: "/blog/pompa-caldura-ferestre-eficiente.avif",
+      de: "/blog/pompa-caldura-ferestre-eficiente.avif",
+      fr: "/blog/pompa-caldura-ferestre-eficiente.avif",
+      es: "/blog/pompa-caldura-ferestre-eficiente.avif",
+      it: "/blog/pompa-caldura-ferestre-eficiente.avif",
+    },
+    imageOg: "/blog/pompa-caldura-ferestre-eficiente-og.jpg",
+    imageBg: "linear-gradient(135deg,#2a1405 0%,#7a3c08 60%,#2a1405 100%)",
+    imageLabel: "Comparatie intre o pompa de caldura montata la o casa cu ferestre vechi si una cu ferestre eficiente termic — pierderi de caldura si consum de energie",
+    readTime: {
+      ro: "9 min citire",
+      en: "9 min read",
+      de: "9 Min.",
+      fr: "9 min",
+      es: "9 min",
+      it: "9 min",
+    },
+    category: {
+      ro: "Eficiență energetică",
+      en: "Energy Efficiency",
+      de: "Energieeffizienz",
+      fr: "Efficacité énergétique",
+      es: "Eficiencia energética",
+      it: "Efficienza energetica",
+    },
+    title: {
+      ro: "Pompa de căldură și ferestrele: de ce nu funcționează eficient cu tâmplărie veche",
+      en: "Heat pumps and windows: why they don’t work efficiently with old joinery",
+      de: "Wärmepumpe und Fenster: Warum sie mit alten Fenstern nicht effizient arbeitet",
+      fr: "Pompe à chaleur et fenêtres : pourquoi elle perd son rendement avec des menuiseries anciennes",
+      es: "Bomba de calor y ventanas: por qué no rinde con carpintería antigua",
+      it: "Pompa di calore e finestre: perché non rende con serramenti vecchi",
+    },
+    metaDesc: {
+      ro: "O pompă de căldură lucrează la temperatură joasă. Cu ferestre vechi, pierderile obligă sistemul să funcționeze la parametri la care randamentul scade. Ce Uw îți trebuie.",
+      en: "A heat pump works at low temperature. With old windows, heat losses force it into a regime where efficiency drops. What Uw you actually need.",
+      de: "Eine Wärmepumpe arbeitet mit niedriger Vorlauftemperatur. Alte Fenster zwingen sie in einen Bereich, in dem die Effizienz sinkt. Welchen Uw Sie brauchen.",
+      fr: "Une pompe à chaleur fonctionne à basse température. Avec des fenêtres anciennes, les pertes la poussent dans un régime où le rendement chute. Quel Uw viser.",
+      es: "Una bomba de calor trabaja a baja temperatura. Con ventanas antiguas, las pérdidas la llevan a un régimen donde cae el rendimiento. Qué Uw necesita.",
+      it: "Una pompa di calore lavora a bassa temperatura. Con finestre vecchie le dispersioni la portano in un regime dove il rendimento cala. Quale Uw serve.",
+    },
+    excerpt: {
+      ro: "Pompa de căldură are randament maxim la temperaturi joase pe tur. Ferestrele vechi cresc necesarul de căldură, obligă sistemul să urce temperatura și taie exact economia pentru care ai instalat-o.",
+      en: "A heat pump performs best at low flow temperatures. Old windows raise the heat demand, force the system to run hotter and cancel exactly the saving you installed it for.",
+      de: "Eine Wärmepumpe arbeitet bei niedriger Vorlauftemperatur am effizientesten. Alte Fenster erhöhen den Wärmebedarf, zwingen die Anlage höher zu fahren und vernichten genau die Ersparnis.",
+      fr: "Une pompe à chaleur donne son meilleur rendement à basse température de départ. Les fenêtres anciennes augmentent les besoins et annulent l’économie attendue.",
+      es: "Una bomba de calor rinde al máximo con temperaturas de impulsión bajas. Las ventanas antiguas elevan la demanda y anulan justo el ahorro esperado.",
+      it: "Una pompa di calore rende al massimo con basse temperature di mandata. Le finestre vecchie aumentano il fabbisogno e annullano proprio il risparmio atteso.",
+    },
+    dateDisplay: {
+      ro: "20 august 2026",
+      en: "August 20 2026",
+      de: "20. August 2026",
+      fr: "20 août 2026",
+      es: "20 ago 2026",
+      it: "20 ago 2026",
+    },
+    content: {
+      ro: `Programul Casa Verde PLUS finanțează în 2026 instalarea pompelor de căldură cu până la 70% din costuri. Mulți proprietari fac calculul doar pentru echipament, îl instalează într-o casă cu ferestre de acum douăzeci de ani și constată iarna următoare că factura la curent nu a scăzut cât se așteptau. Explicația nu ține de pompă, ci de anvelopa clădirii — iar ferestrele sunt cea mai slabă parte a ei.
+
+## De ce o pompă de căldură e altfel decât o centrală pe gaz
+
+O centrală pe gaz produce apă la 60–75 °C și nu o deranjează prea mult dacă temperatura crește. Randamentul ei rămâne aproximativ constant.
+
+Pompa de căldură funcționează pe alt principiu: nu produce căldură, ci o mută din aerul exterior în casă. Eficiența ei se măsoară prin COP — de câte ori mai multă energie termică livrează față de energia electrică consumată. Iar COP depinde direct de diferența dintre temperatura sursei și temperatura la care trebuie livrată apa în instalație.
+
+Regula practică: **cu cât temperatura pe tur e mai mică, cu atât pompa consumă mai puțin**. La 35 °C pe tur, o pompă modernă poate avea un COP în jur de 4. Ridici turul la 55 °C și COP-ul coboară spre 2,5–3. Aceeași casă, același echipament, dar factura crește cu 30–40%.
+
+## Unde intră ferestrele în ecuație
+
+Temperatura pe tur nu se alege arbitrar. Ea rezultă din necesarul de căldură al casei: cu cât pierzi mai multă căldură prin pereți, acoperiș și ferestre, cu atât instalația trebuie să livreze mai mult ca să mențină 21 °C în cameră.
+
+O fereastră veche cu geam termopan din primele generații are un Uw în jur de 2,8–3,2 W/m²K. O fereastră nZEB actuală are 0,9–1,1. Diferența e de trei ori. Pe o casă cu 25 m² de suprafață vitrată, asta înseamnă câțiva kilowați în plus de necesar — exact cât să împingă sistemul din zona de randament bun în zona în care pompa lucrează greu.
+
+Am detaliat cum se citește această valoare și ce înseamnă fiecare cifră în ghidul despre [ce coeficient termic trebuie să aibă ferestrele](/ro/blog/ce-coeficient-termic-trebuie-sa-aiba-ferestrele).
+
+## Problema temperaturii de suprafață și a confortului
+
+Sistemele optimizate pentru pompă de căldură folosesc de obicei încălzire în pardoseală sau radiatoare supradimensionate, tocmai pentru a lucra la temperaturi joase — încălzesc lent și uniform, fără vârfuri.
+
+O fereastră cu Uw mare are geamul rece la interior — sub 14–15 °C în zilele geroase. Corpul pierde căldură prin radiație către suprafața rece, iar senzația e de frig chiar dacă termometrul arată 21 °C. Reacția normală a proprietarului e să urce termostatul, ceea ce forțează pompa să crească temperatura pe tur și readuce exact problema de la punctul anterior.
+
+Cu geam triplu și baghetă distanțieră warm edge, temperatura pe fața interioară a sticlei rămâne în jur de 17–18 °C, aproape de temperatura pereților. Diferența de confort e evidentă și permite menținerea aceleiași senzații termice la o temperatură mai mică a aerului.
+
+## Infiltrațiile de aer contează la fel de mult
+
+Uw descrie transferul de căldură prin fereastră. Nu spune nimic despre aerul care intră pe lângă ea.
+
+O tâmplărie cu garnituri uzate lasă să intre aer rece continuu. Pentru o centrală pe gaz asta înseamnă un consum ceva mai mare; pentru o pompă dimensionată la limită poate declanșa rezistența electrică de rezervă — elementul care consumă cel mai mult și anulează avantajul economic al sistemului.
+
+Poți verifica singur starea etanșeității în câteva minute, cu [testul cu coala de hârtie](/ro/blog/testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra). Dacă hârtia iese fără rezistență, ai infiltrații.
+
+## Ce Uw îți trebuie, practic
+
+Pentru o casă în care urmează să instalezi pompă de căldură:
+
+| Situație | Uw recomandat | Vitraj |
+|---|---|---|
+| Renovare, buget limitat | ≤ 1,3 W/m²K | dublu low-E, warm edge |
+| Renovare, obiectiv randament | ≤ 1,1 W/m²K | triplu, warm edge |
+| Casă nouă cu pompă de căldură | ≤ 0,9 W/m²K | triplu, profil adânc |
+
+Sub 1,1 W/m²K, o instalație bine proiectată poate lucra la 35–40 °C pe tur, adică acolo unde pompa își atinge randamentul de catalog. Peste 2,0, sistemul urcă temperatura și economia promisă se erodează.
+
+Contează și montajul: o fereastră performantă pusă doar cu spumă lasă punți termice pe conturul golului, care adaugă pierderi ce nu apar în fișa tehnică. Diferența dintre catalog și realitate vine aproape întotdeauna de acolo.
+
+## Ordinea corectă a investiției
+
+Dacă ai buget limitat și vrei să faci ambele lucrări, ordinea contează mai mult decât pare.
+
+**Întâi anvelopa, apoi echipamentul.** Pompa se dimensionează după necesarul de căldură al casei. Dimensionată pe o casă cu ferestre vechi, iese mai mare și mai scumpă; schimbi ferestrele după aceea și rămâi cu o pompă supradimensionată, care ciclează frecvent și lucrează sub randamentul optim. Invers, dacă schimbi întâi ferestrele, necesarul scade și pompa poate fi mai mică — mai ieftină la achiziție și mai eficientă în exploatare. Costurile și opțiunile de finanțare disponibile sunt detaliate în ghidul despre [subvențiile pentru schimbul ferestrelor în 2026](/ro/blog/subventii-programe-schimb-ferestre-2026-pnrr-casa-eficienta).
+
+## FAQ — pompa de căldură și ferestrele
+
+### Merită să instalez pompă de căldură dacă am ferestre vechi?
+Se poate instala, dar nu va lucra la randamentul din specificații. Ferestrele vechi cresc necesarul de căldură, ceea ce obligă instalația să funcționeze la temperaturi mai mari pe tur, unde COP-ul scade. Rezultatul e o factură la energie electrică mai mare decât cea estimată la achiziție.
+
+### Ce Uw trebuie să aibă ferestrele pentru o pompă de căldură?
+Ca reper practic: sub 1,3 W/m²K pentru o renovare cu buget limitat, sub 1,1 W/m²K dacă urmărești randamentul real al pompei și sub 0,9 W/m²K la o casă nouă proiectată de la început cu pompă de căldură și încălzire în pardoseală.
+
+### Schimb întâi ferestrele sau instalez întâi pompa?
+Întâi ferestrele. Pompa se dimensionează după necesarul de căldură al casei. Dacă o alegi înainte de a reduce pierderile, cumperi un echipament supradimensionat, mai scump, care va cicla frecvent și va lucra sub randamentul optim după ce anvelopa e îmbunătățită.
+
+### De ce simt frig lângă fereastră deși termostatul arată 21 de grade?
+Pentru că geamul cu Uw mare are temperatura suprafeței interioare mult sub temperatura aerului, iar corpul pierde căldură prin radiație către suprafața rece. Cu geam triplu și baghetă warm edge, fața interioară rămâne în jur de 17–18 °C și senzația de disconfort dispare.
+
+### Cât contează etanșeitatea față de coeficientul Uw?
+Contează comparabil. Uw descrie transferul prin fereastră, dar infiltrațiile de aer pe lângă canat adaugă pierderi separate. La o pompă dimensionată strâns, aceste infiltrații pot declanșa rezistența electrică de rezervă, care consumă mult și anulează avantajul economic al sistemului.
+
+---
+
+Neofort BIZ furnizează și montează tâmplărie PVC Salamander și aluminiu Alumil în București și Ilfov, cu geam triplu, baghetă warm edge și montaj în trei planuri de etanșare. Dacă pregătești o casă pentru pompă de căldură și vrei să știi ce Uw îți trebuie, [trimite-ne datele proiectului](/ro/contact) și primești ofertă în 48 de ore. Vezi și [sistemele nZEB complete](/ro/sisteme-nzeb) sau comparația [tripan vs termopan](/ro/blog/tripan-vs-termopan-economii-reale-incalzire-pret).`,
+      en: `Romania’s Casa Verde PLUS programme funds heat pump installations in 2026 with up to 70% of the cost. Many owners do the maths for the equipment alone, install it in a house with twenty-year-old windows, and find the following winter that the electricity bill has not dropped as much as expected. The explanation is not the pump but the building envelope — and windows are its weakest part.
+
+## Why a heat pump behaves differently from a gas boiler
+
+A gas boiler produces water at 60–75 °C and is not greatly bothered if that temperature rises. Its efficiency stays roughly constant.
+
+A heat pump works on a different principle: it does not produce heat, it moves it from the outside air into the house. Its efficiency is measured by the COP — how many times more thermal energy it delivers than the electricity it consumes. And the COP depends directly on the difference between the source temperature and the temperature the water has to reach in the system.
+
+The practical rule: **the lower the flow temperature, the less the pump consumes**. At 35 °C flow, a modern pump can reach a COP of around 4. Raise the flow to 55 °C and the COP falls towards 2.5–3. Same house, same equipment, but the bill rises by 30–40%.
+
+## Where windows enter the equation
+
+The flow temperature is not chosen arbitrarily. It follows from the heat demand of the house: the more heat you lose through walls, roof and windows, the more the system has to deliver to hold 21 °C in the room.
+
+An old window with first-generation double glazing has a Uw of around 2.8–3.2 W/m²K. A current nZEB window sits at 0.9–1.1. That is a factor of three. On a house with 25 m² of glazed area, this means several extra kilowatts of demand — exactly enough to push the system out of the efficient range and into the one where the pump has to work hard.
+
+How to read this figure, and what each number means, is set out in the guide on [what thermal coefficient windows should have](/en/blog/what-thermal-coefficient-should-windows-have).
+
+## Surface temperature and the comfort problem
+
+Systems optimised for heat pumps usually use underfloor heating or oversized radiators, precisely so they can run at low temperatures — heating slowly and evenly, without peaks.
+
+A window with a high Uw has cold glass on the inside — below 14–15 °C on frosty days. The body loses heat by radiation towards that cold surface, and it feels cold even though the thermometer reads 21 °C. The owner’s natural reaction is to turn up the thermostat, which forces the pump to raise the flow temperature and brings back exactly the problem described above.
+
+With triple glazing and a warm edge spacer, the inner glass surface stays around 17–18 °C, close to the wall temperature. The comfort difference is obvious and it lets you keep the same thermal sensation at a lower air temperature.
+
+## Air leakage matters just as much
+
+Uw describes heat transfer through the window. It says nothing about the air coming in around it.
+
+Joinery with worn gaskets lets cold air in continuously. For a gas boiler that means slightly higher consumption; for a tightly sized heat pump it can trigger the electric backup heater — the element that draws the most power and cancels the system’s economic advantage.
+
+You can check the airtightness yourself in a few minutes with [the paper sheet test](/en/blog/paper-sheet-test-find-where-air-enters-window). If the paper slides out without resistance, you have leakage.
+
+## What Uw you actually need
+
+For a house where a heat pump is going in:
+
+| Situation | Recommended Uw | Glazing |
+|---|---|---|
+| Renovation, limited budget | ≤ 1.3 W/m²K | double low-E, warm edge |
+| Renovation, efficiency target | ≤ 1.1 W/m²K | triple, warm edge |
+| New house with heat pump | ≤ 0.9 W/m²K | triple, deep profile |
+
+Below 1.1 W/m²K, a well-designed system can run at 35–40 °C flow, which is where the pump reaches its rated efficiency. Above 2.0, the system has to raise the temperature and the promised saving erodes.
+
+Installation counts too: a high-performance window fitted with foam alone leaves thermal bridges around the opening, adding losses that never appear on the data sheet. The gap between catalogue figures and reality in the house almost always comes from there.
+
+## The right order of investment
+
+If your budget is limited and you want to do both jobs, the order matters more than it seems.
+
+**Envelope first, equipment second.** The pump is sized according to the heat demand of the house. Sized for a house with old windows, it comes out larger and more expensive; replace the windows afterwards and you are left with an oversized pump that cycles frequently and runs below optimum efficiency. The other way round, replacing the windows first lowers the demand, so the pump can be smaller — cheaper to buy and more efficient to run.
+
+Costs and available funding options are covered in the guide on [subsidies for window replacement in 2026](/en/blog/subsidies-programmes-window-replacement-2026-pnrr-energy-efficient-home).
+
+## FAQ — heat pumps and windows
+
+### Is a heat pump worth installing if I have old windows?
+It can be installed, but it will not perform to specification. Old windows increase the heat demand, which forces the system to run at higher flow temperatures, where the COP falls. The result is a higher electricity bill than the one estimated at purchase.
+
+### What Uw should windows have for a heat pump?
+As a practical benchmark: below 1.3 W/m²K for a renovation on a limited budget, below 1.1 W/m²K if you want the pump’s real efficiency, and below 0.9 W/m²K for a new house designed from the start around a heat pump and underfloor heating.
+
+### Should I replace the windows first or install the pump first?
+Windows first. The pump is sized according to the heat demand of the house. Choose it before reducing losses and you buy oversized, more expensive equipment that will cycle frequently and run below optimum efficiency once the envelope is improved.
+
+### Why do I feel cold near the window when the thermostat reads 21 degrees?
+Because glass with a high Uw has an inner surface temperature well below the air temperature, and the body loses heat by radiation towards that cold surface. With triple glazing and a warm edge spacer, the inner face stays around 17–18 °C and the discomfort disappears.
+
+### How much does airtightness matter compared with the Uw?
+Comparably. Uw describes transfer through the window, but air leaking around the sash adds separate losses. On a tightly sized pump, that leakage can trigger the electric backup heater, which consumes heavily and cancels the system’s economic advantage.
+
+---
+
+Neofort BIZ supplies and installs Salamander PVC and Alumil aluminium joinery in Bucharest and Ilfov, with triple glazing, warm edge spacers and three-plane sealed installation. If you are preparing a house for a heat pump and want to know what Uw you need, [send us the project details](/en/contact) and you will receive a quote within 48 hours. See also the [complete nZEB systems](/en/nzeb-systems) or the [triple vs double glazing](/en/blog/triple-vs-double-glazing-real-savings-heating-cost) comparison.`,
+      de: `Das rumänische Programm Casa Verde PLUS fördert 2026 die Installation von Wärmepumpen mit bis zu 70 % der Kosten. Viele Eigentümer rechnen nur mit den Gerätekosten, bauen die Anlage in ein Haus mit zwanzig Jahre alten Fenstern ein und stellen im folgenden Winter fest, dass die Stromrechnung nicht so stark gesunken ist wie erwartet. Die Erklärung liegt nicht bei der Wärmepumpe, sondern bei der Gebäudehülle — und die Fenster sind deren schwächster Teil.
+
+## Warum sich eine Wärmepumpe anders verhält als eine Gastherme
+
+Eine Gastherme erzeugt Wasser mit 60–75 °C, und es stört sie wenig, wenn diese Temperatur steigt. Ihr Wirkungsgrad bleibt weitgehend konstant.
+
+Eine Wärmepumpe arbeitet nach einem anderen Prinzip: Sie erzeugt keine Wärme, sondern verlagert sie aus der Außenluft ins Haus. Ihre Effizienz wird über die Leistungszahl COP gemessen — wie viel mehr Wärmeenergie sie liefert als die aufgenommene elektrische Energie. Und der COP hängt unmittelbar von der Differenz zwischen Quellentemperatur und der benötigten Vorlauftemperatur ab.
+
+Die praktische Regel: **je niedriger die Vorlauftemperatur, desto weniger verbraucht die Wärmepumpe**. Bei 35 °C Vorlauf erreicht eine moderne Anlage einen COP um 4. Erhöht man den Vorlauf auf 55 °C, sinkt der COP Richtung 2,5–3. Gleiches Haus, gleiches Gerät, aber 30–40 % höhere Kosten.
+
+## Wo die Fenster ins Spiel kommen
+
+Die Vorlauftemperatur lässt sich nicht frei wählen. Sie ergibt sich aus dem Wärmebedarf des Hauses: Je mehr Wärme über Wände, Dach und Fenster verloren geht, desto mehr muss die Anlage liefern, um 21 °C im Raum zu halten.
+
+Ein altes Fenster mit Isolierglas der ersten Generationen hat einen Uw-Wert um 2,8–3,2 W/m²K. Ein heutiges nZEB-Fenster liegt bei 0,9–1,1. Das ist der Faktor drei. Bei einem Haus mit 25 m² Glasfläche bedeutet das mehrere Kilowatt zusätzlichen Bedarf — genug, um die Anlage aus dem effizienten Bereich in jenen zu drücken, in dem die Wärmepumpe schwer arbeitet.
+
+Wie dieser Wert zu lesen ist und was die einzelnen Zahlen bedeuten, steht im Ratgeber zu [welchem Wärmedurchgangskoeffizienten Fenster haben sollen](/de/blog/welchen-waermedurchgangskoeffizient-sollen-fenster-haben).
+
+## Oberflächentemperatur und das Komfortproblem
+
+Auf Wärmepumpen abgestimmte Systeme nutzen meist Fußbodenheizung oder großzügig dimensionierte Heizkörper, gerade um mit niedrigen Temperaturen auszukommen — sie heizen langsam und gleichmäßig, ohne Spitzen.
+
+Ein Fenster mit hohem Uw-Wert hat innen kaltes Glas — an Frosttagen unter 14–15 °C. Der Körper gibt Wärme durch Strahlung an diese kalte Fläche ab, und es fühlt sich kalt an, obwohl das Thermometer 21 °C zeigt. Die natürliche Reaktion ist, das Thermostat höher zu stellen, was die Wärmepumpe zwingt, die Vorlauftemperatur anzuheben — und damit genau das oben beschriebene Problem zurückbringt.
+
+Mit Dreifachverglasung und Warm-Edge-Abstandhalter bleibt die innere Glasoberfläche bei etwa 17–18 °C, nahe der Wandtemperatur. Der Komfortunterschied ist deutlich spürbar und erlaubt dasselbe Wärmeempfinden bei niedrigerer Lufttemperatur.
+
+## Luftundichtheiten wiegen genauso schwer
+
+Der Uw-Wert beschreibt den Wärmedurchgang durch das Fenster. Über die Luft, die daneben eindringt, sagt er nichts.
+
+Fenster mit verschlissenen Dichtungen lassen dauerhaft kalte Luft herein. Für eine Gastherme bedeutet das etwas mehr Verbrauch; bei einer knapp dimensionierten Wärmepumpe kann es den elektrischen Heizstab zuschalten — jenes Bauteil mit dem höchsten Verbrauch, das den wirtschaftlichen Vorteil der Anlage zunichtemacht.
+
+Die Dichtheit können Sie in wenigen Minuten selbst prüfen, mit [dem Papiertest](/de/blog/papiertest-herausfinden-wo-luft-am-fenster-eindringt). Lässt sich das Blatt ohne Widerstand herausziehen, haben Sie Undichtheiten.
+
+## Welchen Uw-Wert Sie praktisch brauchen
+
+Für ein Haus, in das eine Wärmepumpe kommt:
+
+| Situation | Empfohlener Uw | Verglasung |
+|---|---|---|
+| Sanierung, begrenztes Budget | ≤ 1,3 W/m²K | Zweifach Low-E, Warm Edge |
+| Sanierung, Effizienzziel | ≤ 1,1 W/m²K | Dreifach, Warm Edge |
+| Neubau mit Wärmepumpe | ≤ 0,9 W/m²K | Dreifach, große Bautiefe |
+
+Unter 1,1 W/m²K kann eine gut geplante Anlage mit 35–40 °C Vorlauf arbeiten, also dort, wo die Wärmepumpe ihre Katalogeffizienz erreicht. Über 2,0 muss das System die Temperatur anheben, und die versprochene Ersparnis schmilzt.
+
+Auch die Montage zählt: Ein leistungsfähiges Fenster, das nur mit Bauschaum eingesetzt wird, hinterlässt Wärmebrücken am Anschluss, die Verluste erzeugen, welche im Datenblatt nicht auftauchen. Die Differenz zwischen Katalogwert und Realität im Haus stammt fast immer von dort.
+
+## Die richtige Reihenfolge der Investition
+
+Bei begrenztem Budget und dem Wunsch, beides zu machen, zählt die Reihenfolge mehr, als man denkt.
+
+**Zuerst die Hülle, dann die Technik.** Die Wärmepumpe wird nach dem Wärmebedarf des Hauses ausgelegt. Für ein Haus mit alten Fenstern ausgelegt, fällt sie größer und teurer aus; tauscht man die Fenster danach, bleibt eine überdimensionierte Anlage, die häufig taktet und unterhalb des optimalen Wirkungsgrads läuft. Umgekehrt sinkt der Bedarf, wenn die Fenster zuerst getauscht werden — die Wärmepumpe darf kleiner sein, ist günstiger in der Anschaffung und effizienter im Betrieb.
+
+Kosten und verfügbare Förderungen behandelt der Ratgeber zu den [Förderungen für den Fenstertausch 2026](/de/blog/foerderungen-programme-fenstertausch-2026-pnrr-energieeffizientes-haus).
+
+## FAQ — Wärmepumpe und Fenster
+
+### Lohnt sich eine Wärmepumpe bei alten Fenstern?
+Sie lässt sich einbauen, arbeitet aber nicht mit der angegebenen Effizienz. Alte Fenster erhöhen den Wärmebedarf, wodurch die Anlage mit höheren Vorlauftemperaturen fahren muss, bei denen der COP sinkt. Ergebnis ist eine höhere Stromrechnung als bei der Anschaffung kalkuliert.
+
+### Welchen Uw-Wert sollten Fenster für eine Wärmepumpe haben?
+Als praktischer Richtwert: unter 1,3 W/m²K bei einer Sanierung mit begrenztem Budget, unter 1,1 W/m²K, wenn die tatsächliche Effizienz der Wärmepumpe zählt, und unter 0,9 W/m²K bei einem Neubau, der von Anfang an auf Wärmepumpe und Fußbodenheizung ausgelegt ist.
+
+### Zuerst Fenster tauschen oder zuerst die Wärmepumpe einbauen?
+Zuerst die Fenster. Die Wärmepumpe wird nach dem Wärmebedarf ausgelegt. Wählt man sie, bevor die Verluste gesenkt sind, kauft man ein überdimensioniertes, teureres Gerät, das nach der Sanierung häufig taktet und unterhalb des optimalen Wirkungsgrads läuft.
+
+### Warum ist mir am Fenster kalt, obwohl das Thermostat 21 Grad anzeigt?
+Weil Glas mit hohem Uw-Wert innen eine Oberflächentemperatur deutlich unter der Lufttemperatur hat und der Körper Wärme durch Strahlung an diese kalte Fläche abgibt. Mit Dreifachverglasung und Warm-Edge-Abstandhalter bleibt die Innenseite bei etwa 17–18 °C und das Unbehagen verschwindet.
+
+### Wie wichtig ist die Dichtheit im Vergleich zum Uw-Wert?
+Vergleichbar wichtig. Der Uw-Wert beschreibt den Durchgang durch das Fenster, doch Luft, die am Flügel vorbei eindringt, erzeugt zusätzliche Verluste. Bei knapp ausgelegter Wärmepumpe kann das den elektrischen Heizstab zuschalten, der viel verbraucht und den wirtschaftlichen Vorteil aufhebt.
+
+---
+
+Neofort BIZ liefert und montiert Salamander Kunststofffenster und Alumil Aluminiumfenster in Bukarest und Ilfov, mit Dreifachverglasung, Warm-Edge-Abstandhaltern und Montage in drei Dichtebenen. Wenn Sie ein Haus für eine Wärmepumpe vorbereiten und wissen möchten, welchen Uw-Wert Sie brauchen, [senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie auch die [kompletten nZEB-Systeme](/de/nzeb-systeme) oder den Vergleich [Dreifach- und Zweifachverglasung](/de/blog/dreifach-vs-zweifachverglasung-reale-einsparungen-heizkosten).`,
+      fr: `Le programme roumain Casa Verde PLUS finance en 2026 l’installation de pompes à chaleur jusqu’à 70 % du coût. Beaucoup de propriétaires font le calcul pour le seul équipement, l’installent dans une maison dont les fenêtres ont vingt ans, et constatent l’hiver suivant que la facture d’électricité n’a pas baissé autant qu’ils l’espéraient. L’explication ne vient pas de la pompe mais de l’enveloppe du bâtiment — et les fenêtres en sont le maillon faible.
+
+## Pourquoi une pompe à chaleur ne se comporte pas comme une chaudière gaz
+
+Une chaudière gaz produit de l’eau à 60–75 °C et supporte sans grand dommage que cette température monte. Son rendement reste à peu près constant.
+
+Une pompe à chaleur fonctionne autrement : elle ne produit pas de chaleur, elle la déplace de l’air extérieur vers la maison. Son efficacité se mesure par le COP — combien de fois plus d’énergie thermique elle restitue par rapport à l’électricité consommée. Or le COP dépend directement de l’écart entre la température de la source et celle à laquelle l’eau doit être livrée dans l’installation.
+
+La règle pratique : **plus la température de départ est basse, moins la pompe consomme**. À 35 °C de départ, une pompe moderne atteint un COP proche de 4. Portez le départ à 55 °C et le COP descend vers 2,5–3. Même maison, même matériel, mais une facture supérieure de 30 à 40 %.
+
+## Où interviennent les fenêtres
+
+La température de départ ne se choisit pas librement. Elle découle des besoins de chaleur de la maison : plus vous perdez de chaleur par les murs, la toiture et les fenêtres, plus l’installation doit fournir pour tenir 21 °C dans la pièce.
+
+Une ancienne fenêtre à double vitrage de première génération affiche un Uw d’environ 2,8–3,2 W/m²K. Une fenêtre nZEB actuelle se situe entre 0,9 et 1,1. Le rapport est de un à trois. Sur une maison comptant 25 m² de surface vitrée, cela représente plusieurs kilowatts de besoin supplémentaire — assez pour faire sortir le système de la plage de bon rendement.
+
+La lecture de cette valeur et la signification de chaque chiffre sont détaillées dans le guide sur [quel coefficient thermique pour les fenêtres](/fr/blog/quel-coefficient-thermique-pour-les-fenetres).
+
+## Température de surface et question du confort
+
+Les systèmes optimisés pour pompe à chaleur utilisent généralement un plancher chauffant ou des radiateurs surdimensionnés, précisément pour fonctionner à basse température — ils chauffent lentement et uniformément, sans pics.
+
+Une fenêtre à Uw élevé présente un vitrage froid côté intérieur — sous 14–15 °C les jours de gel. Le corps perd de la chaleur par rayonnement vers cette surface froide, et la sensation est celle du froid même si le thermomètre indique 21 °C. Le réflexe est de monter le thermostat, ce qui oblige la pompe à élever la température de départ et ramène exactement le problème précédent.
+
+Avec un triple vitrage et un intercalaire warm edge, la face intérieure du verre reste autour de 17–18 °C, proche de la température des murs. L’écart de confort est net et permet la même sensation thermique à température d’air plus basse.
+
+## Les infiltrations d’air pèsent tout autant
+
+Le Uw décrit le transfert de chaleur à travers la fenêtre. Il ne dit rien de l’air qui entre à côté.
+
+Des menuiseries aux joints usés laissent entrer de l’air froid en continu. Pour une chaudière gaz, cela signifie une consommation un peu supérieure ; pour une pompe à chaleur dimensionnée au plus juste, cela peut déclencher la résistance électrique d’appoint — l’élément le plus gourmand, qui annule l’avantage économique du système.
+
+Vous pouvez vérifier vous-même l’étanchéité en quelques minutes avec [le test de la feuille de papier](/fr/blog/test-feuille-papier-trouver-ou-entre-air-fenetre). Si la feuille sort sans résistance, il y a infiltration.
+
+## Quel Uw viser concrètement
+
+Pour une maison qui va recevoir une pompe à chaleur :
+
+| Situation | Uw recommandé | Vitrage |
+|---|---|---|
+| Rénovation, budget limité | ≤ 1,3 W/m²K | double low-E, warm edge |
+| Rénovation, objectif rendement | ≤ 1,1 W/m²K | triple, warm edge |
+| Maison neuve avec pompe à chaleur | ≤ 0,9 W/m²K | triple, profilé profond |
+
+Sous 1,1 W/m²K, une installation bien conçue peut travailler à 35–40 °C de départ, là où la pompe atteint le rendement annoncé. Au-dessus de 2,0, le système doit monter en température et l’économie promise s’érode.
+
+La pose compte aussi : une fenêtre performante posée à la seule mousse laisse des ponts thermiques au pourtour de la baie, générant des pertes absentes de la fiche technique. L’écart entre le catalogue et la réalité vient presque toujours de là.
+
+## Le bon ordre d’investissement
+
+Avec un budget limité et l’intention de réaliser les deux travaux, l’ordre compte plus qu’il n’y paraît.
+
+**L’enveloppe d’abord, l’équipement ensuite.** La pompe se dimensionne selon les besoins de chaleur de la maison. Dimensionnée pour une maison aux fenêtres anciennes, elle sort plus grosse et plus chère ; remplacez les fenêtres ensuite et vous conservez une pompe surdimensionnée, qui cycle souvent et travaille sous son rendement optimal. À l’inverse, remplacer d’abord les fenêtres fait baisser les besoins : la pompe peut être plus petite, moins chère à l’achat et plus efficace à l’usage.
+
+Les coûts et les aides disponibles sont détaillés dans le guide sur les [subventions pour le remplacement des fenêtres en 2026](/fr/blog/subventions-programmes-remplacement-fenetres-2026-pnrr-maison-econome).
+
+## FAQ — pompe à chaleur et fenêtres
+
+### Une pompe à chaleur vaut-elle la peine avec des fenêtres anciennes ?
+Elle peut être installée, mais elle ne fonctionnera pas au rendement annoncé. Les fenêtres anciennes augmentent les besoins de chaleur, ce qui contraint l’installation à travailler à des températures de départ plus élevées, où le COP chute. Le résultat est une facture d’électricité supérieure à celle estimée à l’achat.
+
+### Quel Uw les fenêtres doivent-elles avoir pour une pompe à chaleur ?
+Comme repère pratique : sous 1,3 W/m²K pour une rénovation à budget limité, sous 1,1 W/m²K si le rendement réel de la pompe compte, et sous 0,9 W/m²K pour une maison neuve conçue dès l’origine autour d’une pompe à chaleur et d’un plancher chauffant.
+
+### Faut-il remplacer les fenêtres avant ou installer la pompe d’abord ?
+Les fenêtres d’abord. La pompe se dimensionne selon les besoins de chaleur. La choisir avant d’avoir réduit les pertes revient à acheter un matériel surdimensionné et plus cher, qui cyclera souvent et travaillera sous son rendement optimal une fois l’enveloppe améliorée.
+
+### Pourquoi ai-je froid près de la fenêtre alors que le thermostat indique 21 degrés ?
+Parce qu’un vitrage à Uw élevé présente une température de surface intérieure nettement inférieure à celle de l’air, et que le corps perd de la chaleur par rayonnement vers cette surface froide. Avec un triple vitrage et un intercalaire warm edge, la face intérieure reste autour de 17–18 °C et l’inconfort disparaît.
+
+### L’étanchéité compte-t-elle autant que le Uw ?
+De façon comparable. Le Uw décrit le transfert à travers la fenêtre, mais l’air qui passe à côté de l’ouvrant crée des pertes distinctes. Sur une pompe dimensionnée au plus juste, ces infiltrations peuvent déclencher la résistance électrique d’appoint, très consommatrice, qui annule l’avantage économique.
+
+---
+
+Neofort BIZ fournit et pose des menuiseries PVC Salamander et aluminium Alumil à Bucarest et dans l’Ilfov, avec triple vitrage, intercalaires warm edge et pose en trois plans d’étanchéité. Si vous préparez une maison pour une pompe à chaleur et souhaitez connaître le Uw nécessaire, [transmettez-nous les données du projet](/fr/contact) et vous recevrez un devis sous 48 heures. Consultez aussi les [systèmes nZEB complets](/fr/systemes-nzeb) ou le comparatif [triple et double vitrage](/fr/blog/triple-vs-double-vitrage-economies-reelles-chauffage-prix).`,
+      es: `El programa rumano Casa Verde PLUS financia en 2026 la instalación de bombas de calor con hasta el 70 % del coste. Muchos propietarios hacen el cálculo solo del equipo, lo instalan en una casa con ventanas de hace veinte años y comprueban al invierno siguiente que la factura eléctrica no ha bajado lo previsto. La explicación no está en la bomba, sino en la envolvente del edificio — y las ventanas son su punto más débil.
+
+## Por qué una bomba de calor se comporta distinto que una caldera de gas
+
+Una caldera de gas produce agua a 60–75 °C y no le afecta demasiado que esa temperatura suba. Su rendimiento se mantiene prácticamente constante.
+
+Una bomba de calor funciona con otro principio: no produce calor, lo traslada desde el aire exterior al interior de la vivienda. Su eficiencia se mide con el COP — cuántas veces más energía térmica entrega frente a la electricidad que consume. Y el COP depende directamente de la diferencia entre la temperatura de la fuente y la que debe alcanzar el agua en la instalación.
+
+La regla práctica: **cuanto más baja es la temperatura de impulsión, menos consume la bomba**. A 35 °C de impulsión, una bomba moderna alcanza un COP cercano a 4. Suba la impulsión a 55 °C y el COP baja hacia 2,5–3. La misma casa, el mismo equipo, pero un 30–40 % más de factura.
+
+## Dónde entran las ventanas en la ecuación
+
+La temperatura de impulsión no se elige libremente. Resulta de la demanda de calor de la vivienda: cuanto más calor se pierde por muros, cubierta y ventanas, más tiene que entregar la instalación para mantener 21 °C en la estancia.
+
+Una ventana antigua con doble acristalamiento de primera generación tiene un Uw en torno a 2,8–3,2 W/m²K. Una ventana nZEB actual se sitúa en 0,9–1,1. La diferencia es de tres veces. En una vivienda con 25 m² de superficie acristalada, eso supone varios kilovatios adicionales de demanda — suficiente para sacar al sistema de la franja de buen rendimiento.
+
+Cómo se lee este valor y qué significa cada cifra se explica en la guía sobre [qué coeficiente térmico deben tener las ventanas](/es/blog/que-coeficiente-termico-deben-tener-las-ventanas).
+
+## Temperatura superficial y la cuestión del confort
+
+Los sistemas optimizados para bomba de calor emplean normalmente suelo radiante o radiadores sobredimensionados, precisamente para trabajar a temperaturas bajas — calientan despacio y de forma uniforme, sin picos.
+
+Una ventana con Uw elevado tiene el vidrio frío por dentro — por debajo de 14–15 °C en días de helada. El cuerpo pierde calor por radiación hacia esa superficie fría y la sensación es de frío aunque el termómetro marque 21 °C. La reacción natural es subir el termostato, lo que obliga a la bomba a elevar la temperatura de impulsión y devuelve exactamente el problema anterior.
+
+Con triple acristalamiento y separador warm edge, la cara interior del vidrio se mantiene en torno a 17–18 °C, próxima a la de los muros. La diferencia de confort es evidente y permite la misma sensación térmica con una temperatura del aire más baja.
+
+## Las infiltraciones de aire pesan igual
+
+El Uw describe la transferencia de calor a través de la ventana. No dice nada del aire que entra por su perímetro.
+
+Una carpintería con juntas desgastadas deja entrar aire frío de forma continua. Para una caldera de gas eso supone algo más de consumo; para una bomba de calor ajustada al límite puede activar la resistencia eléctrica de apoyo — el elemento que más consume y que anula la ventaja económica del sistema.
+
+Puede comprobar usted mismo la estanqueidad en unos minutos con [la prueba de la hoja de papel](/es/blog/prueba-hoja-papel-encontrar-por-donde-entra-aire-ventana). Si el papel sale sin resistencia, hay infiltración.
+
+## Qué Uw necesita en la práctica
+
+Para una vivienda en la que va a instalarse una bomba de calor:
+
+| Situación | Uw recomendado | Acristalamiento |
+|---|---|---|
+| Reforma, presupuesto limitado | ≤ 1,3 W/m²K | doble low-E, warm edge |
+| Reforma, objetivo de rendimiento | ≤ 1,1 W/m²K | triple, warm edge |
+| Obra nueva con bomba de calor | ≤ 0,9 W/m²K | triple, perfil profundo |
+
+Por debajo de 1,1 W/m²K, una instalación bien diseñada puede trabajar a 35–40 °C de impulsión, que es donde la bomba alcanza el rendimiento de catálogo. Por encima de 2,0, el sistema tendrá que subir la temperatura y el ahorro prometido se erosiona.
+
+La instalación también cuenta: una ventana de altas prestaciones colocada solo con espuma deja puentes térmicos en el perímetro del hueco, que generan pérdidas ausentes de la ficha técnica. La distancia entre el catálogo y la realidad casi siempre viene de ahí.
+
+## El orden correcto de la inversión
+
+Con presupuesto limitado y la intención de hacer ambas obras, el orden importa más de lo que parece.
+
+**Primero la envolvente, después el equipo.** La bomba se dimensiona según la demanda de calor de la vivienda. Dimensionada para una casa con ventanas antiguas, sale más grande y más cara; si cambia las ventanas después, se queda con una bomba sobredimensionada que cicla con frecuencia y trabaja por debajo del rendimiento óptimo. Al revés, cambiar primero las ventanas reduce la demanda: la bomba puede ser menor, más barata de comprar y más eficiente en uso.
+
+Los costes y las ayudas disponibles se detallan en la guía sobre las [subvenciones para el cambio de ventanas en 2026](/es/blog/subvenciones-programas-cambio-ventanas-2026-pnrr-casa-eficiente).
+
+## FAQ — bomba de calor y ventanas
+
+### ¿Merece la pena instalar una bomba de calor si tengo ventanas antiguas?
+Puede instalarse, pero no rendirá según especificaciones. Las ventanas antiguas aumentan la demanda de calor, lo que obliga a la instalación a trabajar con temperaturas de impulsión más altas, donde el COP cae. El resultado es una factura eléctrica superior a la estimada en la compra.
+
+### ¿Qué Uw deben tener las ventanas para una bomba de calor?
+Como referencia práctica: por debajo de 1,3 W/m²K en una reforma con presupuesto limitado, por debajo de 1,1 W/m²K si busca el rendimiento real de la bomba, y por debajo de 0,9 W/m²K en obra nueva proyectada desde el inicio con bomba de calor y suelo radiante.
+
+### ¿Cambio primero las ventanas o instalo antes la bomba?
+Primero las ventanas. La bomba se dimensiona según la demanda de calor. Elegirla antes de reducir las pérdidas implica comprar un equipo sobredimensionado y más caro, que ciclará con frecuencia y trabajará por debajo del rendimiento óptimo una vez mejorada la envolvente.
+
+### ¿Por qué siento frío junto a la ventana si el termostato marca 21 grados?
+Porque un vidrio con Uw elevado tiene una temperatura superficial interior muy por debajo de la del aire, y el cuerpo pierde calor por radiación hacia esa superficie fría. Con triple acristalamiento y separador warm edge, la cara interior se mantiene en torno a 17–18 °C y la incomodidad desaparece.
+
+### ¿Cuánto importa la estanqueidad frente al coeficiente Uw?
+De forma comparable. El Uw describe la transferencia a través de la ventana, pero el aire que pasa junto a la hoja añade pérdidas independientes. En una bomba ajustada al límite, esas infiltraciones pueden activar la resistencia eléctrica de apoyo, que consume mucho y anula la ventaja económica.
+
+---
+
+Neofort BIZ suministra e instala carpintería PVC Salamander y aluminio Alumil en Bucarest e Ilfov, con triple acristalamiento, separadores warm edge e instalación en tres planos de sellado. Si prepara una vivienda para bomba de calor y quiere saber qué Uw necesita, [envíenos los datos del proyecto](/es/contacto) y recibirá un presupuesto en 48 horas. Consulte también los [sistemas nZEB completos](/es/sistemas-nzeb) o la comparativa [triple y doble acristalamiento](/es/blog/triple-vs-doble-acristalamiento-ahorros-reales-calefaccion-precio).`,
+      it: `Il programma rumeno Casa Verde PLUS finanzia nel 2026 l’installazione di pompe di calore fino al 70 % del costo. Molti proprietari fanno il conto solo sull’apparecchio, lo installano in una casa con finestre di vent’anni fa e l’inverno successivo scoprono che la bolletta elettrica non è scesa quanto si aspettavano. La spiegazione non sta nella pompa, ma nell’involucro dell’edificio — e le finestre ne sono la parte più debole.
+
+## Perché una pompa di calore si comporta diversamente da una caldaia a gas
+
+Una caldaia a gas produce acqua a 60–75 °C e non risente molto se quella temperatura sale. Il suo rendimento resta pressoché costante.
+
+Una pompa di calore funziona su un principio diverso: non produce calore, lo sposta dall’aria esterna dentro casa. La sua efficienza si misura con il COP — quante volte più energia termica restituisce rispetto all’energia elettrica assorbita. E il COP dipende direttamente dalla differenza tra la temperatura della sorgente e quella a cui l’acqua deve essere mandata nell’impianto.
+
+La regola pratica: **più bassa è la temperatura di mandata, meno consuma la pompa**. A 35 °C di mandata una pompa moderna raggiunge un COP intorno a 4. Portate la mandata a 55 °C e il COP scende verso 2,5–3. Stessa casa, stesso apparecchio, ma bolletta più alta del 30–40 %.
+
+## Dove entrano in gioco le finestre
+
+La temperatura di mandata non si sceglie liberamente. Deriva dal fabbisogno termico della casa: più calore si disperde attraverso muri, tetto e finestre, più l’impianto deve erogare per mantenere 21 °C in ambiente.
+
+Una vecchia finestra con vetrocamera di prima generazione ha un Uw intorno a 2,8–3,2 W/m²K. Una finestra nZEB attuale si colloca a 0,9–1,1. Il rapporto è di uno a tre. Su una casa con 25 m² di superficie vetrata questo significa diversi kilowatt di fabbisogno in più — abbastanza per spingere l’impianto fuori dalla fascia di buon rendimento.
+
+Come si legge questo valore e che cosa significa ogni cifra è spiegato nella guida su [quale coefficiente termico devono avere le finestre](/it/blog/quale-coefficiente-termico-devono-avere-le-finestre).
+
+## Temperatura superficiale e questione del comfort
+
+Gli impianti ottimizzati per pompa di calore usano di norma riscaldamento a pavimento o radiatori sovradimensionati, proprio per lavorare a bassa temperatura — riscaldano lentamente e in modo uniforme, senza picchi.
+
+Una finestra con Uw elevato ha il vetro freddo all’interno — sotto i 14–15 °C nelle giornate di gelo. Il corpo cede calore per irraggiamento verso quella superficie fredda e la sensazione è di freddo anche se il termometro segna 21 °C. La reazione naturale è alzare il termostato, il che obbliga la pompa ad aumentare la temperatura di mandata e riporta esattamente il problema precedente.
+
+Con triplo vetro e distanziale warm edge, la faccia interna del vetro resta intorno a 17–18 °C, vicina alla temperatura delle pareti. La differenza di comfort è evidente e consente la stessa sensazione termica con una temperatura dell’aria più bassa.
+
+## Le infiltrazioni d’aria pesano allo stesso modo
+
+L’Uw descrive il trasferimento di calore attraverso la finestra. Non dice nulla sull’aria che entra accanto ad essa.
+
+Serramenti con guarnizioni usurate lasciano entrare aria fredda in continuo. Per una caldaia a gas significa un consumo leggermente maggiore; per una pompa di calore dimensionata al limite può far intervenire la resistenza elettrica di riserva — il componente che consuma di più e che annulla il vantaggio economico dell’impianto.
+
+Potete verificare da soli la tenuta in pochi minuti con [il test del foglio di carta](/it/blog/test-foglio-carta-scoprire-dove-entra-aria-finestra). Se il foglio esce senza resistenza, ci sono infiltrazioni.
+
+## Quale Uw serve in pratica
+
+Per una casa in cui verrà installata una pompa di calore:
+
+| Situazione | Uw consigliato | Vetro |
+|---|---|---|
+| Ristrutturazione, budget limitato | ≤ 1,3 W/m²K | doppio low-E, warm edge |
+| Ristrutturazione, obiettivo rendimento | ≤ 1,1 W/m²K | triplo, warm edge |
+| Casa nuova con pompa di calore | ≤ 0,9 W/m²K | triplo, profilo profondo |
+
+Sotto 1,1 W/m²K un impianto ben progettato può lavorare a 35–40 °C di mandata, cioè dove la pompa raggiunge il rendimento di catalogo. Oltre 2,0 il sistema deve alzare la temperatura e il risparmio promesso si erode.
+
+Conta anche la posa: una finestra performante montata solo con schiuma lascia ponti termici sul perimetro del vano, che generano dispersioni assenti dalla scheda tecnica. La distanza tra catalogo e realtà nasce quasi sempre da lì.
+
+## L’ordine corretto dell’investimento
+
+Con un budget limitato e l’intenzione di fare entrambi gli interventi, l’ordine conta più di quanto sembri.
+
+**Prima l’involucro, poi l’impianto.** La pompa si dimensiona in base al fabbisogno termico della casa. Dimensionata su una casa con finestre vecchie, risulta più grande e più costosa; se sostituite le finestre dopo, restate con una pompa sovradimensionata che cicla spesso e lavora sotto il rendimento ottimale. Al contrario, sostituendo prima le finestre il fabbisogno cala: la pompa può essere più piccola, meno costosa all’acquisto e più efficiente in esercizio.
+
+Costi e incentivi disponibili sono dettagliati nella guida sugli [incentivi per la sostituzione delle finestre nel 2026](/it/blog/incentivi-programmi-sostituzione-finestre-2026-pnrr-casa-efficiente).
+
+## FAQ — pompa di calore e finestre
+
+### Conviene installare una pompa di calore se ho finestre vecchie?
+Si può installare, ma non renderà secondo specifiche. Le finestre vecchie aumentano il fabbisogno termico, il che costringe l’impianto a lavorare con temperature di mandata più alte, dove il COP cala. Il risultato è una bolletta elettrica superiore a quella stimata all’acquisto.
+
+### Quale Uw devono avere le finestre per una pompa di calore?
+Come riferimento pratico: sotto 1,3 W/m²K per una ristrutturazione con budget limitato, sotto 1,1 W/m²K se conta il rendimento reale della pompa e sotto 0,9 W/m²K per una casa nuova progettata fin dall’inizio con pompa di calore e riscaldamento a pavimento.
+
+### Sostituisco prima le finestre o installo prima la pompa?
+Prima le finestre. La pompa si dimensiona sul fabbisogno termico. Sceglierla prima di ridurre le dispersioni significa acquistare un apparecchio sovradimensionato e più costoso, che ciclerà spesso e lavorerà sotto il rendimento ottimale una volta migliorato l’involucro.
+
+### Perché sento freddo vicino alla finestra se il termostato segna 21 gradi?
+Perché un vetro con Uw elevato ha una temperatura superficiale interna molto inferiore a quella dell’aria e il corpo cede calore per irraggiamento verso quella superficie fredda. Con triplo vetro e distanziale warm edge la faccia interna resta intorno a 17–18 °C e il disagio scompare.
+
+### Quanto conta la tenuta rispetto al coefficiente Uw?
+In modo comparabile. L’Uw descrive il trasferimento attraverso la finestra, ma l’aria che passa accanto all’anta aggiunge dispersioni separate. Su una pompa dimensionata al limite, quelle infiltrazioni possono far intervenire la resistenza elettrica di riserva, che consuma molto e annulla il vantaggio economico.
+
+---
+
+Neofort BIZ fornisce e posa serramenti in PVC Salamander e alluminio Alumil a Bucarest e nell’Ilfov, con triplo vetro, distanziali warm edge e posa su tre piani di tenuta. Se state preparando una casa per una pompa di calore e volete sapere quale Uw serve, [inviateci i dati del progetto](/it/contatti) e riceverete un preventivo entro 48 ore. Vedete anche i [sistemi nZEB completi](/it/sistemi-nzeb) o il confronto [triplo e doppio vetro](/it/blog/triplo-vs-doppio-vetro-risparmi-reali-riscaldamento-prezzo).`,
     },
   },
 ];

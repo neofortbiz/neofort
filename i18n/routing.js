@@ -96,6 +96,24 @@ export const routing = defineRouting({
       it: '/blog/perche-le-finestre-fischiano-quando-soffia-il-vento-cause-soluzioni',
     },
 
+    '/blog/de-la-nzeb-la-zeb-ce-schimba-epbd-pentru-ferestre': {
+      ro: '/blog/de-la-nzeb-la-zeb-ce-schimba-epbd-pentru-ferestre',
+      en: '/blog/from-nzeb-to-zeb-what-epbd-changes-for-windows',
+      de: '/blog/von-nzeb-zu-zeb-was-die-epbd-fuer-fenster-aendert',
+      fr: '/blog/de-nzeb-a-zeb-ce-que-change-la-epbd-pour-les-fenetres',
+      es: '/blog/de-nzeb-a-zeb-que-cambia-la-epbd-para-las-ventanas',
+      it: '/blog/da-nzeb-a-zeb-cosa-cambia-la-epbd-per-le-finestre',
+    },
+
+    '/blog/pompa-de-caldura-si-ferestre-de-ce-conteaza-uw': {
+      ro: '/blog/pompa-de-caldura-si-ferestre-de-ce-conteaza-uw',
+      en: '/blog/heat-pump-and-windows-why-uw-matters',
+      de: '/blog/waermepumpe-und-fenster-warum-der-uw-wert-zaehlt',
+      fr: '/blog/pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte',
+      es: '/blog/bomba-de-calor-y-ventanas-por-que-importa-el-uw',
+      it: '/blog/pompa-di-calore-e-finestre-perche-conta-uw',
+    },
+
     '/blog/testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra': {
       ro: '/blog/testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra',
       en: '/blog/paper-sheet-test-find-where-air-enters-window',
