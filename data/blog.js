@@ -22089,22 +22089,51 @@ Zgomotul urban din București — trafic, tramvaie, construcții — face ca izo
 
 ## Durată de viață și rezistență
 
-## FAQ — Tâmplărie osciloculisantă dublă
+### Cât durează o osciloculisantă dublă Salamander?
+
+Profilele Salamander BluEvolution 92 sunt fabricate din **PVC clasa A** conform EN 12608, cu grosimea peretelui de **3 mm** — standardul de calitate german RAL GZ-716. Durata de viață declarată: **minimum 40–60 de ani** în condiții normale de utilizare.
+
+Factorii care influențează longevitatea:
+- **Calitatea montajului** — montajul cu precadre Blaugelb Triotherm+ și bandă precomprimată butilică elimină infiltrațiile de apă și condensul la rost
+- **Feroneria** — Roto NT/NX sau Winkhaus, cu ungere anuală
+- **Curățarea** — exclusiv cu detergenți neutri, fără solvenți
+- **Reglajele periodice** — la fiecare 2–3 ani, din balamalele cu reglaj multipunct
+
+### Garanție Neofort BIZ
+
+Neofort BIZ oferă **garanție completă pe produs și manoperă**, confirmată prin certificat emis la finalizarea lucrării.
+
+---
+
+## Montaj corect — diferența dintre o fereastră bună și una perfectă
+
+Chiar și cel mai bun profil PVC devine ineficient dacă montajul este necorespunzător. Neofort BIZ execută montajul conform standardului **RAL pentru montaj ferestre**, care presupune:
+
+1. **Precadre Blaugelb Triotherm+** — sistem de izolare perimetrală care elimină punțile termice la joncțiunea dintre fereastră și perete
+2. **Bandă precomprimată butilică** — etanșare exterioară împotriva apei și vântului
+3. **Folie antivapori** — etanșare interioară pentru prevenirea condensului
+4. **Baghetă Warm Edge** — în pachetul de geam, reduce puntea termică marginală
+
+Rezultatul: o fereastră cu performanță reală egală cu cea declarată în datele tehnice ale profilului.
+
+---
+
+## Întrebări frecvente — osciloculisanta dublă Salamander
+
+### Pot bascula ambele canaturi simultan?
+Nu, mecanismul este independent — fiecare canat se operează separat. Aceasta este de fapt un avantaj: poți ventila selectiv.
+
+### Ce dimensiuni maxime poate avea o osciloculisantă dublă?
+Lățime totală: până la 2,0–2,4 m. Înălțime: până la 2,2 m per canat. La dimensiuni mari, recomandăm armătură din oțel în profil și feronerie grea.
+
+### Este indicată osciloculisanta dublă pentru renovare în bloc?
+Da — este soluția standard pentru renovarea apartamentelor în blocuri din perioada 1960–1990. Se montează în gol existent fără lucrări de zidărie suplimentare.
+
+### Cât costă o osciloculisantă dublă Salamander BluEvolution 92?
+Prețul variază în funcție de dimensiuni, culoare, geam și accesorii. Consultați [gama completă de tâmplărie PVC Salamander](/ro/tamplarie-pvc) sau [prețurile orientative](/ro/tamplarie-pvc/preturi). Solicitați ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.
 
 ### Ce înseamnă cele trei poziții ale mânerului?
 Mâner orizontal — fereastra e închisă și blocată. Rotit în sus — canatul se basculează din partea superioară și lasă o fantă de ventilație de 10–15 cm, fără curent direct. Rotit lateral — canatul se deschide complet spre interior, ca o ușă.
-
-### Ce coeficient Uw atinge o osciloculisantă dublă cu bluEvolution 92?
-Cu geam triplu de 52 mm, distanțier warm edge și montaj etanș, sistemul ajunge la Uw de 0,66 W/(m²K). Cu geam dublu, valoarea urcă în jur de 1,0 W/(m²K).
-
-### Se poate monta plasă de insecte pe o osciloculisantă?
-Da, dar doar plasă exterioară, fixă sau rulantă. Plasa se montează pe partea exterioară a tocului, ca să nu împiedice bascularea canatului spre interior.
-
-### Cât durează o osciloculisantă dublă Salamander?
-Profilul rezistă 40–50 de ani, geamul termoizolant 20–25, iar feroneria 15–20 de ani cu întreținere anuală. Garniturile se schimbă o dată la 8–12 ani.
-
-### Ce lățime maximă poate avea un canat?
-Pentru un canat cu deschidere interioară, limita practică e 90–100 cm lățime și 240 cm înălțime, în funcție de greutatea geamului. Peste aceste valori se recomandă altă tipologie.
 
 ---
 
@@ -23257,16 +23286,16 @@ La recepție: certificat de garanție pe produs și manoperă, proces verbal cu 
 
 ## Întrebări frecvente — evolutionDrive Plus+ și M19800BT
 
-**Pot comanda evolutionDrive Plus+ în culori speciale?**
+### Pot comanda evolutionDrive Plus+ în culori speciale?
 Da — gama completă de folii decor Salamander, inclusiv nuanțe de lemn, antracit mat, gri Agate, gri Basalt și alb clasic. Ambele fețe pot fi în culori diferite.
 
-**M19800BT poate fi automatizat?**
+### M19800BT poate fi automatizat?
 Da — sistemul este compatibil cu motorizare Somfy sau Nice, cu comandă prin telecomandă, aplicație mobilă sau integrare KNX/Smart Home.
 
-**Cât durează producția și montajul?**
+### Cât durează producția și montajul?
 Producție: 3–4 săptămâni de la semnarea comenzii. Montaj: 1 zi pentru evolutionDrive Plus+, 1–2 zile pentru M19800BT.
 
-**Oferă Neofort BIZ garanție extinsă?**
+### Oferă Neofort BIZ garanție extinsă?
 Da — garanție completă pe produs și manoperă, plus verificare anuală gratuită în București și Ilfov.
 
 Aflați mai multe despre [sistemele PVC Salamander](/ro/tamplarie-pvc) și [tâmplăria aluminiu Alumil](/ro/tamplarie-aluminiu) disponibile la Neofort BIZ. Pentru context complet, citește [ghidul de alegere între sistemele Salamander](/ro/blog/bluevolution-92-vs-greenevolution-76).
