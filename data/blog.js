@@ -2883,6 +2883,11 @@ RC2 rezistă 3 minute la unelte simple (șurubelnițe, răngi) și e cerința mi
 ### Ce sistem se folosește la ușile de acces comune ale blocurilor din Sector 1?
 
 Alumil M19800 Smartia, compatibil cu sisteme de control acces (cititor card, cod PIN, videointerfon), cu mecanism de închidere automată cu amortizor hidraulic și rezistență antiefracție RC2 certificată — soluția pentru intrările în scări de bloc și ansambluri rezidențiale.
+
+
+---
+
+Neofort BIZ furnizează și montează uși din aluminiu Alumil în București și Ilfov, inclusiv în Sectorul 1. [Trimite-ne datele proiectului](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim.
 `,
 
       en: `## Why Sector 1 Bucharest Has Special Requirements for Aluminium Doors
@@ -2965,6 +2970,10 @@ RC2 resists 3 minutes against simple tools (screwdrivers, crowbars) and is the m
 ### Which system is used for the common entrance doors of buildings in Sector 1?
 
 Alumil M19800 Smartia, compatible with access-control systems (card reader, PIN code, video intercom), with an automatic closing mechanism and hydraulic damper and certified RC2 anti-burglary resistance — the solution for stairwell and residential-complex entrances.
+
+---
+
+Neofort BIZ supplies and installs Alumil aluminium doors in Bucharest and Ilfov, including Sector 1. [Send us your project details](/en/contact) and you will receive a quote within 48 hours. See the [aluminium joinery range](/en/aluminium-windows) we offer.
 `,
 
       de: `## Warum Sektor 1 Bukarest besondere Anforderungen an Aluminiumtüren stellt
@@ -3037,6 +3046,10 @@ RC2 widersteht 3 Minuten gegen einfache Werkzeuge (Schraubendreher, Brecheisen) 
 ### Welches System wird für die gemeinsamen Eingangstüren der Gebäude in Sektor 1 verwendet?
 
 Alumil M19800 Smartia, kompatibel mit Zutrittskontrollsystemen (Kartenleser, PIN-Code, Video-Gegensprechanlage), mit automatischem Schließmechanismus und Hydraulikdämpfer und zertifiziertem RC2-Einbruchschutz — die Lösung für Treppenhaus- und Wohnanlageneingänge.
+
+---
+
+Neofort BIZ liefert und montiert Alumil Aluminiumtüren in Bukarest und Ilfov, auch im Sektor 1. [Senden Sie uns Ihre Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [Aluminium-Sortiment](/de/aluminiumfenster).
 `,
 
       fr: `## Pourquoi le Secteur 1 de Bucarest a des exigences particulières pour les portes en aluminium
@@ -3109,6 +3122,10 @@ RC2 résiste 3 minutes aux outils simples (tournevis, pieds-de-biche) et constit
 ### Quel système est utilisé pour les portes d'accès communes des immeubles du Secteur 1 ?
 
 Alumil M19800 Smartia, compatible avec les systèmes de contrôle d'accès (lecteur de carte, code PIN, visiophone), avec mécanisme de fermeture automatique et amortisseur hydraulique et résistance anti-effraction RC2 certifiée — la solution pour les entrées de cages d'escalier et d'ensembles résidentiels.
+
+---
+
+Neofort BIZ fournit et pose des portes en aluminium Alumil à Bucarest et dans l’Ilfov, secteur 1 compris. [Transmettez-nous les données du projet](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme de menuiseries aluminium](/fr/menuiserie-aluminium).
 `,
 
       es: `## Por qué el Sector 1 de Bucarest tiene requisitos especiales para puertas de aluminio
@@ -3181,6 +3198,10 @@ RC2 resiste 3 minutos a herramientas simples (destornilladores, palanquetas) y e
 ### ¿Qué sistema se usa para las puertas de acceso comunes de los edificios del Sector 1?
 
 Alumil M19800 Smartia, compatible con sistemas de control de acceso (lector de tarjeta, código PIN, videoportero), con mecanismo de cierre automático y amortiguador hidráulico y resistencia antirrobo RC2 certificada — la solución para entradas de portales y conjuntos residenciales.
+
+---
+
+Neofort BIZ suministra e instala puertas de aluminio Alumil en Bucarest e Ilfov, incluido el Sector 1. [Envíenos los datos del proyecto](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería de aluminio](/es/carpinteria-aluminio).
 `,
 
       it: `## Perché il Settore 1 di Bucarest ha requisiti speciali per le porte in alluminio
@@ -3253,6 +3274,10 @@ RC2 resiste 3 minuti agli attrezzi semplici (cacciaviti, piedi di porco) ed è i
 ### Quale sistema si usa per le porte d'accesso comuni degli edifici nel Settore 1?
 
 Alumil M19800 Smartia, compatibile con sistemi di controllo accessi (lettore di schede, codice PIN, videocitofono), con meccanismo di chiusura automatica e ammortizzatore idraulico e resistenza antieffrazione RC2 certificata — la soluzione per ingressi di vani scala e complessi residenziali.
+
+---
+
+Neofort BIZ fornisce e posa porte in alluminio Alumil a Bucarest e nell’Ilfov, Settore 1 compreso. [Inviateci i dati del progetto](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma di serramenti in alluminio](/it/infissi-alluminio).
 `,
     },
   },
@@ -3429,6 +3454,10 @@ Dacă profilul e în stare bună (PVC fără deformare, adâncime min. 70 mm) da
 ### Ce profil Salamander e recomandat pentru renovări în București?
 
 Pentru renovări rezidențiale, Salamander bluEvolution 82 (6 camere, 82 mm) oferă raportul optim calitate/preț, cu Uw 0,8-0,95 W/(m²K). Pentru case noi sau proiecte nZEB, bluEvolution 92 atinge Uw 0,66-0,80 cu tripan Saint-Gobain și Warm Edge.
+
+---
+
+Neofort BIZ montează tâmplărie PVC Salamander cu montaj în trei planuri de etanșare, în București și Ilfov. [Descrie-ne situația ferestrelor tale](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim.
 `,
 
       en: `## Why Windows Are the Main Source of Heat Loss in Bucharest Homes
@@ -3508,6 +3537,10 @@ If the frame is in good condition (undeformed PVC, min. 70 mm depth) but the gla
 ### Which Salamander profile is recommended for renovations in Bucharest?
 
 For residential renovations, Salamander bluEvolution 82 (6 chambers, 82 mm) offers the best value, with Uw 0.8-0.95 W/(m²K). For new houses or nZEB projects, bluEvolution 92 reaches Uw 0.66-0.80 with Saint-Gobain triple glazing and Warm Edge.
+
+---
+
+Neofort BIZ installs Salamander PVC joinery with three-plane sealed installation in Bucharest and Ilfov. [Tell us about your current windows](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer.
 `,
 
       de: `## Warum Fenster die Hauptquelle von Wärmeverlusten in Bukarester Wohnungen sind
@@ -3577,6 +3610,10 @@ Ist der Rahmen in gutem Zustand (unverformtes PVC, min. 70 mm Tiefe), aber das G
 ### Welches Salamander-Profil wird für Renovierungen in Bukarest empfohlen?
 
 Für Wohnungsrenovierungen bietet Salamander bluEvolution 82 (6 Kammern, 82 mm) das beste Preis-Leistungs-Verhältnis mit Uw 0,8-0,95 W/(m²K). Für Neubauten oder nZEB-Projekte erreicht bluEvolution 92 Uw 0,66-0,80 mit Saint-Gobain-Dreifachglas und Warm Edge.
+
+---
+
+Neofort BIZ montiert Salamander Kunststofffenster mit Montage in drei Dichtebenen in Bukarest und Ilfov. [Beschreiben Sie uns Ihre jetzige Situation](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc).
 `,
 
       fr: `## Pourquoi les fenêtres sont la principale source de pertes thermiques à Bucarest
@@ -3646,6 +3683,10 @@ Si le profilé est en bon état (PVC non déformé, profondeur min. 70 mm) mais 
 ### Quel profilé Salamander est recommandé pour des rénovations à Bucarest ?
 
 Pour les rénovations résidentielles, le Salamander bluEvolution 82 (6 chambres, 82 mm) offre le meilleur rapport qualité/prix, avec un Uw de 0,8-0,95 W/(m²K). Pour les maisons neuves ou projets nZEB, le bluEvolution 92 atteint Uw 0,66-0,80 avec triple vitrage Saint-Gobain et Warm Edge.
+
+---
+
+Neofort BIZ pose des menuiseries PVC Salamander avec une pose en trois plans d’étanchéité à Bucarest et dans l’Ilfov. [Décrivez-nous l’état de vos fenêtres](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc).
 `,
 
       es: `## Por qué las ventanas son la principal fuente de pérdidas térmicas en los hogares de Bucarest
@@ -3715,6 +3756,10 @@ Si el perfil está en buen estado (PVC sin deformar, profundidad mín. 70 mm) pe
 ### ¿Qué perfil Salamander se recomienda para reformas en Bucarest?
 
 Para reformas residenciales, el Salamander bluEvolution 82 (6 cámaras, 82 mm) ofrece la mejor relación calidad/precio, con Uw 0,8-0,95 W/(m²K). Para casas nuevas o proyectos nZEB, el bluEvolution 92 alcanza Uw 0,66-0,80 con triple vidrio Saint-Gobain y Warm Edge.
+
+---
+
+Neofort BIZ instala carpintería PVC Salamander con instalación en tres planos de sellado en Bucarest e Ilfov. [Cuéntenos cómo están sus ventanas](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc).
 `,
 
       it: `## Perché le finestre sono la principale fonte di dispersione termica nelle case di Bucarest
@@ -3784,6 +3829,10 @@ Se il profilo è in buono stato (PVC non deformato, profondità min. 70 mm) ma i
 ### Quale profilo Salamander è consigliato per ristrutturazioni a Bucarest?
 
 Per ristrutturazioni residenziali, il Salamander bluEvolution 82 (6 camere, 82 mm) offre il miglior rapporto qualità/prezzo, con Uw 0,8-0,95 W/(m²K). Per case nuove o progetti nZEB, il bluEvolution 92 raggiunge Uw 0,66-0,80 con triplo vetro Saint-Gobain e Warm Edge.
+
+---
+
+Neofort BIZ posa serramenti in PVC Salamander con posa su tre piani di tenuta a Bucarest e nell’Ilfov. [Raccontateci lo stato delle vostre finestre](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc).
 `,
     },
   },
@@ -4009,6 +4058,10 @@ Pachetul triplu de 44 mm (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) ati
 ### Profilul Salamander bluEvolution 92 conține plumb?
 
 Nu. Salamander bluEvolution 92 folosește exclusiv stabilizatori Calciu-Zinc (Ca-Zn) din 2008, fără plumb și fără cadmiu. Este certificat VinylPlus pentru reciclabilitate și declarat conform Regulamentului REACH (CE) nr. 1907/2006.
+
+---
+
+Neofort BIZ execută montaj nZEB complet, cu precadre Blaugelb Triotherm+ și geam triplu, în București și Ilfov. [Trimite-ne detaliile proiectului](/ro/contact) și primești ofertă în 48 de ore. Vezi [sistemele nZEB complete](/ro/sisteme-nzeb) pe care le oferim.
 `,
       en: `## What is the nZEB Standard and Why Does It Matter for Your Windows
 
@@ -4091,6 +4144,10 @@ The 44 mm triple unit (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) reache
 ### Does the Salamander bluEvolution 92 profile contain lead?
 
 No. Salamander bluEvolution 92 has used exclusively Calcium-Zinc (Ca-Zn) stabilisers since 2008, free of lead and cadmium. It is VinylPlus certified for recyclability and declared compliant with REACH Regulation (EC) No. 1907/2006.
+
+---
+
+Neofort BIZ carries out complete nZEB installations with Blaugelb Triotherm+ precasings and triple glazing in Bucharest and Ilfov. [Send us the project details](/en/contact) and you will receive a quote within 48 hours. See the [complete nZEB systems](/en/nzeb-systems) we offer.
 `,
       de: `## Was ist der nZEB-Standard und warum ist er für Ihre Fenster wichtig?
 
@@ -4156,6 +4213,10 @@ Die 44-mm-Dreifacheinheit (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) er
 ### Enthält das Salamander bluEvolution 92 Profil Blei?
 
 Nein. Salamander bluEvolution 92 verwendet seit 2008 ausschließlich Calcium-Zink-Stabilisatoren (Ca-Zn), frei von Blei und Cadmium. Es ist VinylPlus-zertifiziert für Recyclingfähigkeit und konform mit der REACH-Verordnung (EG) Nr. 1907/2006.
+
+---
+
+Neofort BIZ führt komplette nZEB-Montagen mit Blaugelb Triotherm+ Vorblendrahmen und Dreifachverglasung in Bukarest und Ilfov aus. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie die [kompletten nZEB-Systeme](/de/nzeb-systeme).
 `,
       fr: `## Qu'est-ce que la norme nZEB et pourquoi est-elle importante pour vos fenêtres ?
 
@@ -4220,6 +4281,10 @@ Le triple vitrage de 44 mm (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) a
 ### Le profilé Salamander bluEvolution 92 contient-il du plomb ?
 
 Non. Le Salamander bluEvolution 92 utilise exclusivement des stabilisants Calcium-Zinc (Ca-Zn) depuis 2008, sans plomb ni cadmium. Il est certifié VinylPlus pour la recyclabilité et déclaré conforme au Règlement REACH (CE) n° 1907/2006.
+
+---
+
+Neofort BIZ réalise des poses nZEB complètes, avec précadres Blaugelb Triotherm+ et triple vitrage, à Bucarest et dans l’Ilfov. [Transmettez-nous les détails du projet](/fr/contact) et recevez un devis sous 48 heures. Découvrez les [systèmes nZEB complets](/fr/systemes-nzeb).
 `,
       es: `## ¿Qué es la norma nZEB y por qué importa para sus ventanas?
 
@@ -4284,6 +4349,10 @@ El triple vidrio de 44 mm (4 Float / 16 Argón / 4 Low-E / 16 Argón / 4 Float) 
 ### ¿El perfil Salamander bluEvolution 92 contiene plomo?
 
 No. El Salamander bluEvolution 92 usa exclusivamente estabilizantes Calcio-Zinc (Ca-Zn) desde 2008, sin plomo ni cadmio. Está certificado VinylPlus para reciclabilidad y declarado conforme al Reglamento REACH (CE) n.º 1907/2006.
+
+---
+
+Neofort BIZ ejecuta instalaciones nZEB completas, con premarcos Blaugelb Triotherm+ y triple acristalamiento, en Bucarest e Ilfov. [Envíenos los detalles del proyecto](/es/contacto) y recibirá un presupuesto en 48 horas. Vea los [sistemas nZEB completos](/es/sistemas-nzeb).
 `,
       it: `## Cos'è lo standard nZEB e perché è importante per le vostre finestre?
 
@@ -4348,6 +4417,10 @@ Il triplo vetro da 44 mm (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) rag
 ### Il profilo Salamander bluEvolution 92 contiene piombo?
 
 No. Il Salamander bluEvolution 92 usa esclusivamente stabilizzanti Calcio-Zinco (Ca-Zn) dal 2008, senza piombo né cadmio. È certificato VinylPlus per la riciclabilità e dichiarato conforme al Regolamento REACH (CE) n. 1907/2006.
+
+---
+
+Neofort BIZ realizza pose nZEB complete, con controtelai Blaugelb Triotherm+ e triplo vetro, a Bucarest e nell’Ilfov. [Inviateci i dettagli del progetto](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite i [sistemi nZEB completi](/it/sistemi-nzeb).
 `,
     },
   },
@@ -4519,6 +4592,10 @@ PVC-ul se aprinde mai greu decât lemnul (>270°C față de 220-260°C). Conform
 ### De ce ferestrele PVC din anii '70 sunt diferite de cele de azi?
 
 Sunt produse chimic diferite. Din 2008, Salamander folosește exclusiv stabilizatori Calciu-Zinc, iar industria europeană a eliminat complet plumbul și cadmiul prin programul ECVM și interdicțiile legale (Germania, 1994). Mitul a supraviețuit chimiei care l-a generat.
+
+---
+
+Neofort BIZ furnizează tâmplărie PVC Salamander cu stabilizatori calciu-zinc, fără plumb, în București și Ilfov. [Întreabă-ne orice despre materiale](/ro/contact) și primești răspuns în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim.
 `,
       en: `## Where the Myth Comes From — A Documented History
 
@@ -4592,6 +4669,10 @@ PVC ignites harder than wood (>270°C versus 220-260°C). According to the COWI 
 ### Why are 1970s PVC windows different from today's?
 
 They are chemically different products. Since 2008, Salamander uses exclusively Calcium-Zinc stabilisers, and the European industry has fully eliminated lead and cadmium through the ECVM programme and legal bans (Germany, 1994). The myth outlived the chemistry that created it.
+
+---
+
+Neofort BIZ supplies Salamander PVC joinery with lead-free calcium-zinc stabilisers in Bucharest and Ilfov. [Ask us anything about the materials](/en/contact) and you will get an answer within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer.
 `,
       de: `## Woher kommt der Mythos — eine dokumentierte Geschichte
 
@@ -4646,6 +4727,10 @@ PVC entzündet sich schwerer als Holz (>270°C gegenüber 220-260°C). Laut COWI
 ### Warum unterscheiden sich PVC-Fenster der 1970er von den heutigen?
 
 Es sind chemisch unterschiedliche Produkte. Seit 2008 verwendet Salamander ausschließlich Calcium-Zink-Stabilisatoren, und die europäische Industrie hat Blei und Cadmium durch das ECVM-Programm und gesetzliche Verbote (Deutschland, 1994) vollständig eliminiert. Der Mythos überlebte die Chemie, die ihn schuf.
+
+---
+
+Neofort BIZ liefert Salamander Kunststofffenster mit bleifreien Calcium-Zink-Stabilisatoren in Bukarest und Ilfov. [Fragen Sie uns alles zum Material](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden eine Antwort. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc).
 `,
       fr: `## D'où vient le mythe — une histoire documentée
 
@@ -4699,6 +4784,10 @@ Le PVC s'enflamme plus difficilement que le bois (>270°C contre 220-260°C). Se
 ### Pourquoi les fenêtres PVC des années 1970 diffèrent-elles d'aujourd'hui ?
 
 Ce sont des produits chimiquement différents. Depuis 2008, Salamander utilise exclusivement des stabilisants Calcium-Zinc, et l'industrie européenne a totalement éliminé le plomb et le cadmium via le programme ECVM et les interdictions légales (Allemagne, 1994). Le mythe a survécu à la chimie qui l'a engendré.
+
+---
+
+Neofort BIZ fournit des menuiseries PVC Salamander à stabilisants calcium-zinc, sans plomb, à Bucarest et dans l’Ilfov. [Posez-nous vos questions sur les matériaux](/fr/contact) et recevez une réponse sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc).
 `,
       es: `## De dónde viene el mito — una historia documentada
 
@@ -4752,6 +4841,10 @@ El PVC se enciende con más dificultad que la madera (>270°C frente a 220-260°
 ### ¿Por qué las ventanas de PVC de los años 70 son distintas de las actuales?
 
 Son productos químicamente diferentes. Desde 2008, Salamander usa exclusivamente estabilizantes Calcio-Zinc, y la industria europea ha eliminado por completo el plomo y el cadmio mediante el programa ECVM y las prohibiciones legales (Alemania, 1994). El mito sobrevivió a la química que lo generó.
+
+---
+
+Neofort BIZ suministra carpintería PVC Salamander con estabilizantes de calcio-zinc, sin plomo, en Bucarest e Ilfov. [Pregúntenos lo que quiera sobre los materiales](/es/contacto) y recibirá respuesta en 48 horas. Vea nuestra [gama PVC](/es/carpinteria-pvc).
 `,
       it: `## Da dove viene il mito — una storia documentata
 
@@ -4805,6 +4898,10 @@ Il PVC si accende più difficilmente del legno (>270°C contro 220-260°C). Seco
 ### Perché le finestre in PVC degli anni '70 sono diverse da quelle di oggi?
 
 Sono prodotti chimicamente diversi. Dal 2008, Salamander usa esclusivamente stabilizzanti Calcio-Zinco, e l'industria europea ha eliminato completamente piombo e cadmio tramite il programma ECVM e i divieti legali (Germania, 1994). Il mito è sopravvissuto alla chimica che lo ha generato.
+
+---
+
+Neofort BIZ fornisce serramenti in PVC Salamander con stabilizzanti calcio-zinco, senza piombo, a Bucarest e nell’Ilfov. [Chiedeteci qualsiasi cosa sui materiali](/it/contatti) e riceverete risposta entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc).
 `,
     },
   },
@@ -4968,6 +5065,11 @@ Cere declarat în scris: valoarea Uw a ferestrei complete (nu doar Ug-ul geamulu
 ### De ce nu se califică un geam dublu standard ca izolație avansată?
 
 Un geam dublu standard are Uw = 1,3-1,6 W/(m²K), peste pragul nZEB de 1,0 W/(m²K). Pentru izolație avansată e nevoie de tripan cu două camere de argon sau krypton și cel puțin un strat Low-E, cu Ug al pachetului ≤ 0,6 W/(m²K).
+
+
+---
+
+Neofort BIZ furnizează termopane cu geam triplu, Low-E și baghetă warm edge, în București și Ilfov. [Spune-ne ce dimensiuni ai](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim.
 `,
 
       en: `## What Does "Advanced Insulation" Really Mean for Windows?
@@ -5051,6 +5153,10 @@ Ask for it in writing: the Uw value of the complete window (not just the glass U
 ### Why does standard double glazing not qualify as advanced insulation?
 
 Standard double glazing has Uw = 1.3-1.6 W/(m²K), above the nZEB threshold of 1.0 W/(m²K). Advanced insulation requires triple glazing with two argon or krypton chambers and at least one Low-E layer, with a glass-unit Ug ≤ 0.6 W/(m²K).
+
+---
+
+Neofort BIZ supplies insulating glazing with triple glass, Low-E coating and warm edge spacers in Bucharest and Ilfov. [Tell us your dimensions](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer.
 `,
 
       de: `## Was bedeutet „erweiterte Dämmung" bei Fenstern wirklich?
@@ -5131,6 +5237,10 @@ Verlangen Sie es schriftlich: den Uw-Wert des kompletten Fensters (nicht nur den
 ### Warum qualifiziert sich Standard-Doppelglas nicht als fortschrittliche Dämmung?
 
 Standard-Doppelglas hat Uw = 1,3-1,6 W/(m²K), über der nZEB-Schwelle von 1,0 W/(m²K). Fortschrittliche Dämmung erfordert Dreifachglas mit zwei Argon- oder Kryptonkammern und mindestens einer Low-E-Schicht, mit einem Glaspaket-Ug ≤ 0,6 W/(m²K).
+
+---
+
+Neofort BIZ liefert Isolierverglasung mit Dreifachglas, Low-E-Beschichtung und Warm-Edge-Abstandhaltern in Bukarest und Ilfov. [Nennen Sie uns Ihre Maße](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc).
 `,
 
       fr: `## Que signifie réellement « isolation avancée » pour les fenêtres ?
@@ -5207,6 +5317,10 @@ Demandez-le par écrit : la valeur Uw de la fenêtre complète (pas seulement l'
 ### Pourquoi un double vitrage standard ne compte-t-il pas comme isolation avancée ?
 
 Un double vitrage standard a Uw = 1,3-1,6 W/(m²K), au-dessus du seuil nZEB de 1,0 W/(m²K). L'isolation avancée nécessite un triple vitrage à deux chambres d'argon ou krypton et au moins une couche Low-E, avec un Ug du vitrage ≤ 0,6 W/(m²K).
+
+---
+
+Neofort BIZ fournit des vitrages isolants en triple vitrage, Low-E et intercalaire warm edge, à Bucarest et dans l’Ilfov. [Indiquez-nous vos dimensions](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc).
 `,
 
       es: `## ¿Qué significa realmente el "aislamiento avanzado" en ventanas?
@@ -5283,6 +5397,10 @@ Pídelo por escrito: el valor Uw de la ventana completa (no solo el Ug del vidri
 ### ¿Por qué un doble vidrio estándar no cuenta como aislamiento avanzado?
 
 Un doble vidrio estándar tiene Uw = 1,3-1,6 W/(m²K), por encima del umbral nZEB de 1,0 W/(m²K). El aislamiento avanzado requiere triple vidrio con dos cámaras de argón o kriptón y al menos una capa Low-E, con un Ug del vidrio ≤ 0,6 W/(m²K).
+
+---
+
+Neofort BIZ suministra vidrio aislante con triple acristalamiento, capa Low-E y separador warm edge en Bucarest e Ilfov. [Indíquenos sus medidas](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama PVC](/es/carpinteria-pvc).
 `,
 
       it: `## Cosa significa veramente "isolamento avanzato" per le finestre?
@@ -5359,6 +5477,10 @@ Chiedilo per iscritto: il valore Uw della finestra completa (non solo l'Ug del v
 ### Perché un doppio vetro standard non conta come isolamento avanzato?
 
 Un doppio vetro standard ha Uw = 1,3-1,6 W/(m²K), sopra la soglia nZEB di 1,0 W/(m²K). L'isolamento avanzato richiede triplo vetro con due camere di argon o krypton e almeno uno strato Low-E, con un Ug del pacchetto ≤ 0,6 W/(m²K).
+
+---
+
+Neofort BIZ fornisce vetrocamere con triplo vetro, trattamento Low-E e distanziale warm edge a Bucarest e nell’Ilfov. [Comunicateci le vostre misure](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc).
 `,
     },
   },
