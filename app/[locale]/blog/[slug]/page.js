@@ -52,9 +52,9 @@ export async function generateMetadata({ params }) {
       images: [{ url: a.imageOg ? `${BASE}${a.imageOg}` : `${BASE}/og/BLOG.jpg`, width: 1200, height: 630, alt: title, type: 'image/jpeg' }],
       publishedTime: a.date,
       modifiedTime: a.dateModified || a.date,
-      locale: locale,
+      locale: { ro:'ro_RO', en:'en_US', de:'de_DE', fr:'fr_FR', es:'es_ES', it:'it_IT' }[locale] || 'ro_RO',
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: title, description: desc, images:[a.imageOg ? `${BASE}${a.imageOg}` : `${BASE}/og/BLOG.jpg`] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: metaTitle, description: desc, images:[a.imageOg ? `${BASE}${a.imageOg}` : `${BASE}/og/BLOG.jpg`] },
   };
 }
 
@@ -326,10 +326,22 @@ export default async function BlogArticlePage({ params }) {
         const answerLines = [];
         for (let j = i + 1; j < Math.min(i + 8, lines.length); j++) {
           if (lines[j].startsWith('#')) break;
+          // v226: opreste si la separatorul orizontal — altfel ultimul raspuns
+          // inghitea "---" plus paragraful final de CTA de dupa articol.
+          if (/^\s*(---|\*\*\*|___)\s*$/.test(lines[j])) break;
           if (lines[j].trim()) answerLines.push(lines[j].replace(/\*\*/g,'').trim());
           if (answerLines.length >= 3) break;
         }
-        if (answerLines.length > 0) pairs.push({ q, a: answerLines.join(' ').slice(0, 300) });
+        if (answerLines.length > 0) {
+          // v226: taiere la finalul unei propozitii, nu brutal la 300 de caractere.
+          let a = answerLines.join(' ').trim();
+          if (a.length > 300) {
+            const cut = a.slice(0, 300);
+            const lastStop = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+            a = lastStop > 120 ? cut.slice(0, lastStop + 1) : cut.replace(/\s+\S*$/, '') + '…';
+          }
+          pairs.push({ q, a });
+        }
       }
     }
     return pairs.slice(0, 8);
