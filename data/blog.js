@@ -21105,16 +21105,16 @@ Tâmplăria este produsă la specificațiile exacte. Ambalarea pentru export inc
 
 ## Întrebări frecvente pentru export
 
-**Pot comanda din Germania fără să vin în România?**
+### Pot comanda din Germania fără să vin în România?
 Da. Toată procesul de ofertare, confirmare și plată se poate face online sau telefonic. Livrăm la adresa din Germania.
 
-**Ce garanție primesc pentru export?**
+### Ce garanție primesc pentru export?
 Aceeași garanție ca pentru clienții din România: 5 ani pe profil și geam, 2 ani pe feronerie.
 
-**Pot comanda și feronerie sau accesorii separat?**
+### Pot comanda și feronerie sau accesorii separat?
 Da — rulouri exterioare aluminiu, jaluzele Raffstore, zipscreen, glafuri, plase insecte.
 
-**E nevoie de arhitect sau autorizație pentru înlocuire ferestre în Germania?**
+### E nevoie de arhitect sau autorizație pentru înlocuire ferestre în Germania?
 Depinde de land și tipul imobilului. Neofort BIZ furnizează toată documentația tehnică CE necesară pentru eventuale autorizații.
 
 ---
@@ -25266,22 +25266,22 @@ Distanțierul (rama metalică dintre foile de geam) are un impact major pe Uw fi
 
 ## FAQ — Coeficient termic ferestre
 
-**Ce Uw trebuie să aibă ferestrele pentru nZEB?**
+### Ce Uw trebuie să aibă ferestrele pentru nZEB?
 Conform HG 765/2016, Uw ≤ 1,00 W/(m²K) pentru Zona II (București). Recomandarea pentru case nZEB: Uw ≤ 0,85 W/(m²K). Cel mai bun sistem disponibil: Salamander bluEvolution 92 cu tripan 52mm — Uw = 0,66 W/(m²K).
 
-**Ce înseamnă Uf la ferestre?**
+### Ce înseamnă Uf la ferestre?
 Uf este coeficientul termic al profilului (rama ferestrei), fără geam. Salamander bluEvolution 92 are Uf = 0,95 W/(m²K) — cel mai bun din gama PVC disponibilă comercial în România.
 
-**Ce înseamnă Ug la ferestre?**
+### Ce înseamnă Ug la ferestre?
 Ug este coeficientul termic al geamului. Geamul dublu argon are Ug = 1,0 W/(m²K), geamul triplu argon are Ug = 0,5 W/(m²K) — cu 50% mai bun.
 
-**Uw 1,1 este ok pentru București?**
+### Uw 1,1 este ok pentru București?
 Nu — limita legală pentru București (Zona II) este Uw ≤ 1,00 W/(m²K). O fereastră cu Uw = 1,1 nu respectă normativele pentru construcții noi.
 
-**Care este cel mai bun Uw disponibil în România?**
+### Care este cel mai bun Uw disponibil în România?
 Salamander bluEvolution 92 + tripan 52mm + distanțier Warm Edge + precadre Blaugelb Triotherm+: **Uw = 0,66 W/(m²K)** — certificat PassivHaus.
 
-**Cum verific Uw-ul unei ferestre?**
+### Cum verific Uw-ul unei ferestre?
 Solicită **Declarația de Performanță (DoP)** și **certificatul IFT Rosenheim** sau TÜV pentru profilul folosit. Uw-ul trebuie să fie calculat conform EN ISO 10077 și specificat în documentele tehnice.
 
 ## Concluzie — Ce valoare Uw să alegi
@@ -25380,19 +25380,19 @@ The spacer (metal frame between glass panes) has a major impact on final window 
 
 ## FAQ — Window Thermal Coefficient
 
-**What Uw should windows have for nZEB?**
+### What Uw should windows have for nZEB?
 Per HG 765/2016, Uw ≤ 1.00 W/(m²K) for Zone II (Bucharest). Recommendation for nZEB homes: Uw ≤ 0.85 W/(m²K). Best available system: Salamander bluEvolution 92 with triple 52mm glazing — Uw = 0.66 W/(m²K).
 
-**What does Uf mean for windows?**
+### What does Uf mean for windows?
 Uf is the thermal coefficient of the profile (window frame), excluding glass. Salamander bluEvolution 92 has Uf = 0.95 W/(m²K) — the best in the PVC range commercially available in Romania.
 
-**What does Ug mean for windows?**
+### What does Ug mean for windows?
 Ug is the thermal coefficient of the glass unit. Double argon glass has Ug = 1.0 W/(m²K), triple argon has Ug = 0.5 W/(m²K) — 50% better.
 
-**Is Uw 1.1 acceptable for Bucharest?**
+### Is Uw 1.1 acceptable for Bucharest?
 No — the legal limit for Bucharest (Zone II) is Uw ≤ 1.00 W/(m²K). A window with Uw = 1.1 does not comply with regulations for new buildings.
 
-**What is the best Uw available in Romania?**
+### What is the best Uw available in Romania?
 Salamander bluEvolution 92 + triple 52mm + Warm Edge spacer + Blaugelb Triotherm+ preframes: **Uw = 0.66 W/(m²K)** — PassivHaus certified.
 
 ## Conclusion — Which Uw Value to Choose
@@ -25456,19 +25456,19 @@ Gemäß **HG 765/2016** und **NP 048** gelten folgende Höchstwerte:
 
 ## FAQ — Wärmedurchgangskoeffizient Fenster
 
-**Welchen Uw brauchen Fenster für nZEB?**
+### Welchen Uw brauchen Fenster für nZEB?
 HG 765/2016 schreibt Uw ≤ 1,00 W/(m²K) für Zone II (Bukarest) vor. Empfehlung für nZEB-Häuser: Uw ≤ 0,85 W/(m²K). Bestes verfügbares System: Salamander bluEvolution 92 mit Dreifachverglasung 52mm — Uw = 0,66 W/(m²K).
 
-**Was bedeutet Uf bei Fenstern?**
+### Was bedeutet Uf bei Fenstern?
 Uf ist der Wärmedurchgangskoeffizient des Rahmenprofils ohne Verglasung. Salamander bluEvolution 92 hat Uf = 0,95 W/(m²K) — bester Wert im PVC-Bereich.
 
-**Was bedeutet Ug bei Fenstern?**
+### Was bedeutet Ug bei Fenstern?
 Ug ist der Wärmedurchgangskoeffizient der Verglasung. Zweifach Argon: Ug = 1,0 W/(m²K); Dreifach Argon: Ug = 0,5 W/(m²K) — 50% besser.
 
-**Ist Uw 1,1 in Bukarest zulässig?**
+### Ist Uw 1,1 in Bukarest zulässig?
 Nein — für Bukarest (Zone II) gilt Uw ≤ 1,00 W/(m²K) als gesetzliche Grenze.
 
-**Welcher Uw ist in Rumänien der beste?**
+### Welcher Uw ist in Rumänien der beste?
 Salamander bluEvolution 92 + Dreifach 52mm + Warm-Edge-Abstandhalter + Blaugelb-Vorblendrahmen: **Uw = 0,66 W/(m²K)** — PassivHaus-zertifiziert.
 
 Bei einer Wärmepumpe wird dieser Wert entscheidend: siehe [warum der Uw-Wert die Effizienz der Wärmepumpe bestimmt](/de/blog/waermepumpe-und-fenster-warum-der-uw-wert-zaehlt).
@@ -25520,16 +25520,16 @@ Selon **HG 765/2016** et la norme **NP 048**, les valeurs maximales admises sont
 
 ## FAQ — Coefficient thermique fenêtres
 
-**Quel Uw pour les fenêtres nZEB ?**
+### Quel Uw pour les fenêtres nZEB ?
 HG 765/2016 impose Uw ≤ 1,00 W/(m²K) pour la Zone II (Bucarest). Recommandation nZEB : Uw ≤ 0,85 W/(m²K). Meilleur système : Salamander bluEvolution 92 avec triple 52mm — Uw = 0,66 W/(m²K).
 
-**Que signifie Uf pour les fenêtres ?**
+### Que signifie Uf pour les fenêtres ?
 Uf est le coefficient du profilé seul, sans vitrage. Salamander bluEvolution 92 : Uf = 0,95 W/(m²K).
 
-**Que signifie Ug pour les fenêtres ?**
+### Que signifie Ug pour les fenêtres ?
 Ug est le coefficient du vitrage. Double argon : Ug = 1,0 W/(m²K) ; Triple argon : Ug = 0,5 W/(m²K) — 50% meilleur.
 
-**Un Uw de 1,1 est-il acceptable à Bucarest ?**
+### Un Uw de 1,1 est-il acceptable à Bucarest ?
 Non — la limite légale pour Bucarest (Zone II) est Uw ≤ 1,00 W/(m²K).
 
 Si vous installez une pompe à chaleur, cette valeur devient décisive : voir [pourquoi le Uw détermine le rendement de la pompe](/fr/blog/pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte).
@@ -25581,16 +25581,16 @@ Según **HG 765/2016** y la norma **NP 048**, los valores máximos admitidos son
 
 ## FAQ — Coeficiente térmico ventanas
 
-**¿Qué Uw deben tener las ventanas para nZEB?**
+### ¿Qué Uw deben tener las ventanas para nZEB?
 HG 765/2016 exige Uw ≤ 1,00 W/(m²K) para la Zona II (Bucarest). Recomendación nZEB: Uw ≤ 0,85 W/(m²K). Mejor sistema: Salamander bluEvolution 92 con triple 52mm — Uw = 0,66 W/(m²K).
 
-**¿Qué significa Uf en ventanas?**
+### ¿Qué significa Uf en ventanas?
 Uf es el coeficiente del perfil solo, sin vidrio. Salamander bluEvolution 92: Uf = 0,95 W/(m²K).
 
-**¿Qué significa Ug en ventanas?**
+### ¿Qué significa Ug en ventanas?
 Ug es el coeficiente del vidrio. Doble argón: Ug = 1,0 W/(m²K); Triple argón: Ug = 0,5 W/(m²K) — un 50% mejor.
 
-**¿Es aceptable un Uw de 1,1 en Bucarest?**
+### ¿Es aceptable un Uw de 1,1 en Bucarest?
 No — el límite legal para Bucarest (Zona II) es Uw ≤ 1,00 W/(m²K).
 
 Si va a instalar una bomba de calor, este valor resulta decisivo: vea [por qué el Uw determina el rendimiento de la bomba](/es/blog/bomba-de-calor-y-ventanas-por-que-importa-el-uw).
@@ -25642,16 +25642,16 @@ Secondo **HG 765/2016** e la norma **NP 048**, i valori massimi ammessi sono:
 
 ## FAQ — Coefficiente termico finestre
 
-**Quale Uw devono avere le finestre per nZEB?**
+### Quale Uw devono avere le finestre per nZEB?
 HG 765/2016 impone Uw ≤ 1,00 W/(m²K) per la Zona II (Bucarest). Raccomandazione nZEB: Uw ≤ 0,85 W/(m²K). Sistema migliore: Salamander bluEvolution 92 con triplo 52mm — Uw = 0,66 W/(m²K).
 
-**Cosa significa Uf nelle finestre?**
+### Cosa significa Uf nelle finestre?
 Uf è il coefficiente del profilo da solo, senza vetro. Salamander bluEvolution 92: Uf = 0,95 W/(m²K).
 
-**Cosa significa Ug nelle finestre?**
+### Cosa significa Ug nelle finestre?
 Ug è il coefficiente del vetro. Doppio argon: Ug = 1,0 W/(m²K); Triplo argon: Ug = 0,5 W/(m²K) — il 50% migliore.
 
-**Un Uw di 1,1 è accettabile a Bucarest?**
+### Un Uw di 1,1 è accettabile a Bucarest?
 No — il limite di legge per Bucarest (Zona II) è Uw ≤ 1,00 W/(m²K).
 
 Se installate una pompa di calore, questo valore diventa decisivo: vedete [perché l’Uw determina il rendimento della pompa](/it/blog/pompa-di-calore-e-finestre-perche-conta-uw).
@@ -25801,19 +25801,19 @@ Solicită întotdeauna **DoP-ul produsului** și **certificatul de testare** (IF
 
 ## FAQ — Legislație produse construcții 2026
 
-**Ce este Declarația de Performanță (DoP)?**
+### Ce este Declarația de Performanță (DoP)?
 DoP este documentul obligatoriu emis de producător care declară valorile tehnice testate ale produsului (Uw, permeabilitate aer, rezistență vânt etc.) conform EN 14351-1. Fără DoP, produsul nu poate fi comercializat legal în UE.
 
-**Ce este marcajul CE la ferestre?**
+### Ce este marcajul CE la ferestre?
 Marcajul CE confirmă că fereastra a fost testată și îndeplinește cerințele standardului european EN 14351-1. Nu este o marcă de calitate, ci o declarație de conformitate obligatorie pentru comercializare în UE.
 
-**Este obligatorie certificarea nZEB pentru renovări?**
+### Este obligatorie certificarea nZEB pentru renovări?
 Da, pentru renovări cu autorizație de construire care implică mai mult de 25% din suprafața anvelopei. Dacă schimbi toate ferestrele unui bloc sau case, proiectul trebuie să atingă performanța nZEB.
 
-**Ce se schimbă concret în 2026 față de 2025?**
+### Ce se schimbă concret în 2026 față de 2025?
 Principalele schimbări: DoP digitale cu QR code devin standard, controalele ISC la recepție se intensifică, și noul CPR 2 intră în perioadă de tranziție (producătorii au 3 ani pentru conformare deplină).
 
-**Cum verific dacă ferestrele cumpărate sunt conforme?**
+### Cum verific dacă ferestrele cumpărate sunt conforme?
 Solicită numărul DoP de pe eticheta CE a produsului și verifică-l pe site-ul producătorului sau al organismului de certificare. La Neofort BIZ, toate documentele sunt disponibile la cerere.
 
 ---
@@ -25867,16 +25867,16 @@ Any window or door legally sold in Romania and the EU **must carry CE marking** 
 
 ## FAQ — Construction Products Legislation 2026
 
-**What is the Declaration of Performance (DoP)?**
+### What is the Declaration of Performance (DoP)?
 The DoP is the mandatory document issued by the manufacturer declaring the tested technical values of the product (Uw, air permeability, wind resistance, etc.) per EN 14351-1. Without a DoP, the product cannot be legally marketed in the EU.
 
-**What is CE marking on windows?**
+### What is CE marking on windows?
 CE marking confirms the window has been tested and meets EN 14351-1 requirements. It is not a quality mark but a mandatory conformity declaration for EU marketing.
 
-**Is nZEB certification mandatory for renovations?**
+### Is nZEB certification mandatory for renovations?
 Yes, for permitted renovations affecting more than 25% of the building envelope. If replacing all windows in a building, the project must achieve nZEB performance.
 
-**What specifically changes in 2026 vs 2025?**
+### What specifically changes in 2026 vs 2025?
 Digital DoPs with QR codes become standard, ISC checks at reception intensify, and CPR 2 enters transition period (manufacturers have 3 years for full compliance).
 
 ---
@@ -25908,13 +25908,13 @@ Jedes Fenster muss CE-Kennzeichnung tragen mit Normbezug (EN 14351-1), deklarier
 
 ## FAQ — Bauproduktegesetzgebung 2026
 
-**Was ist eine Leistungserklärung (DoP)?**
+### Was ist eine Leistungserklärung (DoP)?
 DoP ist das Pflichtdokument des Herstellers mit getesteten technischen Werten (Uw, Luftdurchlässigkeit, Windwiderstand) gemäß EN 14351-1. Ohne DoP darf das Produkt nicht legal in der EU vermarktet werden.
 
-**Was ist CE-Kennzeichnung bei Fenstern?**
+### Was ist CE-Kennzeichnung bei Fenstern?
 CE bestätigt, dass das Fenster EN 14351-1 erfüllt. Es ist kein Qualitätszeichen, sondern eine Pflichtkonformitätserklärung für den EU-Markt.
 
-**Was ändert sich 2026 konkret?**
+### Was ändert sich 2026 konkret?
 Digitale DoPs mit QR-Code werden Standard, verstärkte Bauabnahmeprüfungen, BauPVO 2 tritt in die Übergangszeit ein.
 
 ---
@@ -25944,13 +25944,13 @@ Toute fenêtre commercialisée doit porter le marquage CE avec la référence EN
 
 ## FAQ — Législation produits construction 2026
 
-**Qu'est-ce qu'une Déclaration de Performance (DoP) ?**
+### Qu'est-ce qu'une Déclaration de Performance (DoP) ?
 Document obligatoire du fabricant déclarant les valeurs techniques testées (Uw, perméabilité à l'air, résistance au vent) selon EN 14351-1.
 
-**Qu'est-ce que le marquage CE pour les fenêtres ?**
+### Qu'est-ce que le marquage CE pour les fenêtres ?
 Confirmation que la fenêtre respecte EN 14351-1. Ce n'est pas un label qualité mais une déclaration de conformité obligatoire.
 
-**Qu'est-ce qui change concrètement en 2026 ?**
+### Qu'est-ce qui change concrètement en 2026 ?
 DoP numériques avec QR code, contrôles renforcés à la réception, RPC 2 en période de transition.
 
 ---
@@ -25980,13 +25980,13 @@ Toda ventana comercializada debe llevar marcado CE con la referencia EN 14351-1,
 
 ## FAQ — Legislación productos construcción 2026
 
-**¿Qué es una Declaración de Prestaciones (DoP)?**
+### ¿Qué es una Declaración de Prestaciones (DoP)?
 Documento obligatorio del fabricante que declara los valores técnicos testados (Uw, permeabilidad al aire, resistencia al viento) según EN 14351-1.
 
-**¿Qué es el marcado CE en ventanas?**
+### ¿Qué es el marcado CE en ventanas?
 Confirmación de que la ventana cumple EN 14351-1. No es un sello de calidad sino una declaración de conformidad obligatoria.
 
-**¿Qué cambia concretamente en 2026?**
+### ¿Qué cambia concretamente en 2026?
 DoPs digitales con código QR, controles reforzados en recepción de obras, RPC 2 en período de transición.
 
 ---
@@ -26016,13 +26016,13 @@ Ogni finestra commercializzata deve portare la marcatura CE con il riferimento E
 
 ## FAQ — Legislazione prodotti da costruzione 2026
 
-**Cos'è una Dichiarazione di Prestazione (DoP)?**
+### Cos'è una Dichiarazione di Prestazione (DoP)?
 Documento obbligatorio del produttore che dichiara i valori tecnici testati (Uw, permeabilità all'aria, resistenza al vento) secondo EN 14351-1.
 
-**Cos'è la marcatura CE per le finestre?**
+### Cos'è la marcatura CE per le finestre?
 Conferma che la finestra rispetta EN 14351-1. Non è un marchio di qualità ma una dichiarazione di conformità obbligatoria.
 
-**Cosa cambia concretamente nel 2026?**
+### Cosa cambia concretamente nel 2026?
 DoP digitali con QR code, controlli rafforzati al collaudo, RPC 2 in periodo di transizione.
 
 ---
@@ -26192,19 +26192,19 @@ Apartament 50 m², 6 ferestre cu dublu vechi (Uw = 2,0) → înlocuire cu triplu
 
 ## FAQ — Durată ferestre PVC
 
-**Cât durează ferestrele PVC Salamander?**
+### Cât durează ferestrele PVC Salamander?
 Profilul PVC Salamander are o durată de viață estimată de 40–50 de ani în condiții normale. Garanția comercială acordată de Neofort BIZ este de 5 ani. Feroneria necesită înlocuire sau service după 15–20 ani.
 
-**Se pot înlocui doar geamurile fără a schimba rama?**
+### Se pot înlocui doar geamurile fără a schimba rama?
 Da, dacă rama/profilul sunt în stare bună. Un pachet de geam nou costă 400–800 lei față de 1.500–2.000 lei pentru fereastra completă. Meșterul verifică dacă fălțul ramei permite un pachet mai gros (ex: triplu în loc de dublu).
 
-**La câți ani se schimbă garniturile la ferestre PVC?**
+### La câți ani se schimbă garniturile la ferestre PVC?
 Garniturile EPDM se înlocuiesc la 10–15 ani. Semne că trebuie schimbate: se simt crăpate la atingere, nu mai revin la forma inițială, sau apare curent cu fereastra închisă.
 
-**Este mai bine să repar sau să înlocuiesc ferestrele vechi?**
+### Este mai bine să repar sau să înlocuiesc ferestrele vechi?
 Depinde de starea profilului și performanța termică actuală. Dacă profilul e intact și Uw-ul actual e sub 1,5 W/(m²K), repararea e rentabilă. Dacă profilul e degradat sau Uw > 1,5 W/(m²K) și vrei eficiență energetică, înlocuirea completă e mai bună pe termen lung.
 
-**Cât costă service-ul la ferestre PVC?**
+### Cât costă service-ul la ferestre PVC?
 Reglaj feronerie + ungere: 150–250 lei/fereastră (sau abonament service anual). Înlocuire garnituri: 50–100 lei/fereastră. Înlocuire feronerie completă: 400–700 lei/fereastră.
 
 ---
@@ -26269,13 +26269,13 @@ EPDM gaskets harden after 10–15 years. Once hard, they no longer seal.
 
 ## FAQ — PVC Window Lifespan
 
-**How long do Salamander PVC windows last?**
+### How long do Salamander PVC windows last?
 Salamander PVC profiles have an estimated 40–50 year lifespan under normal conditions. Commercial warranty from Neofort BIZ is 5 years. Hardware needs replacement or service after 15–20 years.
 
-**Can just the glass be replaced without changing the frame?**
+### Can just the glass be replaced without changing the frame?
 Yes, if the frame/profile is in good condition. A new glazing unit costs €80–160 vs €300–400 for the complete window. The technician checks whether the frame rebate allows a thicker unit (e.g. triple instead of double).
 
-**When should PVC window gaskets be replaced?**
+### When should PVC window gaskets be replaced?
 EPDM gaskets should be replaced at 10–15 years. Signs: feel cracked to the touch, no longer spring back, or draught with window closed.
 
 ---
@@ -26314,13 +26314,13 @@ Zweimal jährlich: Beschläge mit Silikonöl (kein WD-40) schmieren, 3-Punkt-Bes
 
 ## FAQ — Lebensdauer PVC-Fenster
 
-**Wie lange halten Salamander PVC-Fenster?**
+### Wie lange halten Salamander PVC-Fenster?
 Geschätzte Lebensdauer 40–50 Jahre. Handelsgarantie Neofort BIZ: 5 Jahre. Beschläge nach 15–20 Jahren wechseln oder warten.
 
-**Kann nur das Glas ohne Rahmentausch ersetzt werden?**
+### Kann nur das Glas ohne Rahmentausch ersetzt werden?
 Ja, wenn Rahmen/Profil in gutem Zustand. Isolierglaseinheit: 80–160 €; komplettes Fenster: 300–400 €.
 
-**Wann sollten PVC-Fensterdichtungen ersetzt werden?**
+### Wann sollten PVC-Fensterdichtungen ersetzt werden?
 Nach 10–15 Jahren. Zeichen: fühlen sich rissig an, springen nicht zurück, Zugluft trotz geschlossenem Fenster.
 
 ---
@@ -26357,13 +26357,13 @@ Deux fois par an : lubrifier toute la quincaillerie à l'huile silicone (pas de 
 
 ## FAQ — Durée de vie fenêtres PVC
 
-**Combien de temps durent les fenêtres PVC Salamander ?**
+### Combien de temps durent les fenêtres PVC Salamander ?
 Durée de vie estimée 40–50 ans. Garantie commerciale Neofort BIZ : 5 ans. Quincaillerie à changer après 15–20 ans.
 
-**Peut-on remplacer seulement le vitrage sans changer le cadre ?**
+### Peut-on remplacer seulement le vitrage sans changer le cadre ?
 Oui, si le cadre est en bon état. Unité de vitrage : 80–160 € contre 300–400 € pour la fenêtre complète.
 
-**Quand remplacer les joints de fenêtres PVC ?**
+### Quand remplacer les joints de fenêtres PVC ?
 Après 10–15 ans. Signes : dureté au toucher, ne reprennent plus leur forme, courants d'air fenêtre fermée.
 
 ---
@@ -26400,13 +26400,13 @@ Dos veces al año: lubricar toda la herraje con aceite de silicona (no WD-40), a
 
 ## FAQ — Vida útil ventanas PVC
 
-**¿Cuánto duran las ventanas PVC Salamander?**
+### ¿Cuánto duran las ventanas PVC Salamander?
 Vida útil estimada 40–50 años. Garantía comercial Neofort BIZ: 5 años. La herraje necesita cambio o servicio tras 15–20 años.
 
-**¿Se puede sustituir solo el vidrio sin cambiar el marco?**
+### ¿Se puede sustituir solo el vidrio sin cambiar el marco?
 Sí, si el marco está en buen estado. Unidad de vidrio: 80–160 € frente a 300–400 € para la ventana completa.
 
-**¿Cuándo hay que sustituir las juntas de las ventanas de PVC?**
+### ¿Cuándo hay que sustituir las juntas de las ventanas de PVC?
 Tras 10–15 años. Señales: sensación de dureza, no recuperan su forma, corrientes de aire con la ventana cerrada.
 
 ---
@@ -26443,13 +26443,13 @@ Due volte l'anno: lubrificare tutta la ferramenta con olio al silicone (non WD-4
 
 ## FAQ — Vita utile finestre PVC
 
-**Quanto durano le finestre PVC Salamander?**
+### Quanto durano le finestre PVC Salamander?
 Vita utile stimata 40–50 anni. Garanzia commerciale Neofort BIZ: 5 anni. La ferramenta necessita di cambio o manutenzione dopo 15–20 anni.
 
-**Si può sostituire solo il vetro senza cambiare il telaio?**
+### Si può sostituire solo il vetro senza cambiare il telaio?
 Sì, se il telaio è in buone condizioni. Unità vetrocamera: 80–160 € contro 300–400 € per la finestra completa.
 
-**Quando vanno sostituite le guarnizioni delle finestre in PVC?**
+### Quando vanno sostituite le guarnizioni delle finestre in PVC?
 Dopo 10–15 anni. Segnali: sensazione di durezza al tatto, non riprendono la forma, correnti d'aria con finestra chiusa.
 
 ---
