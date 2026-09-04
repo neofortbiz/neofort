@@ -21125,6 +21125,9 @@ Depinde de land și tipul imobilului. Neofort BIZ furnizează toată documentaț
 **Email:** oferte@neofort-biz.ro
 **Program:** L–V 10:00–18:00 (EET / UTC+2)
 
+### Cât durează livrarea într-o țară din Uniunea Europeană?
+Producția durează 3–4 săptămâni, iar transportul 3–7 zile în funcție de destinație. Pentru Germania, Austria și Ungaria termenul total uzual e de 4–5 săptămâni de la confirmarea comenzii.
+
 ---
 
 Neofort BIZ oferă sisteme Salamander pentru case, apartamente și proiecte de export, cu montaj cu echipe proprii. Descoperă [gama de ferestre PVC](/ro/tamplarie-pvc) sau [solicită o ofertă](/ro/contact). Pentru context complet, citește [ghidul livrărilor Salamander în Europa](/ro/blog/tamplarie-salamander-case-individuale-vile-export-europa).`,
@@ -21177,6 +21180,23 @@ The reasons are straightforward:
 
 **WhatsApp (EN/DE/FR/IT/ES):** +40 752 443 435 | **Mon–Fri 10–18 EET**
 
+## FAQ — Salamander windows for export
+
+### Can I order from Germany without travelling to Romania?
+Yes. The whole process — quotation, confirmation and payment — can be handled online or by phone. We deliver to the address you give us and supply the full technical documentation.
+
+### What warranty do I get on an export order?
+The same as for customers in Romania: 5 years on the profile and the glazing, 2 years on the hardware. The warranty certificate travels with the goods.
+
+### Can I order hardware or accessories separately?
+Yes — aluminium roller shutters, Raffstore blinds, zipscreen, window boards and insect screens can all be ordered on their own, without a full window order.
+
+### Do I need an architect or a permit to replace windows in Germany?
+It depends on the federal state and the type of building. Neofort BIZ supplies the complete CE technical documentation needed for any approval procedure.
+
+### How long does delivery to an EU country take?
+Production takes 3–4 weeks and transport 3–7 days depending on the destination. For Germany, Austria and Hungary the usual total is 4–5 weeks from order confirmation.
+
 ---
 
 Neofort BIZ supplies Salamander systems for houses, apartments and export projects, installed by our own teams. Discover [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). For the full context, read [the Salamander Europe delivery guide](/en/blog/salamander-windows-individual-houses-villas-europe-export).`,
@@ -21222,6 +21242,23 @@ Die Gründe liegen auf der Hand:
 | GreenEvolution 76 + Zweifach-Low-E | Standard 100×120 cm | 180–270 EUR |
 
 **WhatsApp (DE/EN/FR/IT/ES):** +40 752 443 435 | **Mo–Fr 10–18 MEZ+1**
+
+## FAQ — Salamander Fenster für den Export
+
+### Kann ich aus Deutschland bestellen, ohne nach Rumänien zu reisen?
+Ja. Der gesamte Ablauf — Angebot, Bestätigung und Zahlung — lässt sich online oder telefonisch abwickeln. Wir liefern an die angegebene Adresse und stellen die vollständige technische Dokumentation bereit.
+
+### Welche Garantie erhalte ich bei einer Exportbestellung?
+Dieselbe wie für Kunden in Rumänien: 5 Jahre auf Profil und Verglasung, 2 Jahre auf den Beschlag. Die Garantieurkunde begleitet die Ware.
+
+### Kann ich Beschläge oder Zubehör separat bestellen?
+Ja — Aluminiumrollläden, Raffstore, Zipscreen, Fensterbänke und Insektenschutz lassen sich auch einzeln bestellen, ohne komplette Fensterbestellung.
+
+### Brauche ich einen Architekten oder eine Genehmigung für den Fenstertausch in Deutschland?
+Das hängt vom Bundesland und der Gebäudeart ab. Neofort BIZ liefert die vollständige technische CE-Dokumentation für jedes Genehmigungsverfahren.
+
+### Wie lange dauert die Lieferung in ein EU-Land?
+Die Produktion dauert 3–4 Wochen, der Transport 3–7 Tage je nach Ziel. Für Deutschland, Österreich und Ungarn liegt die Gesamtdauer üblicherweise bei 4–5 Wochen ab Auftragsbestätigung.
 
 ---
 
@@ -21269,6 +21306,23 @@ Les raisons sont simples :
 
 **WhatsApp (FR/EN/DE/IT/ES) :** +40 752 443 435 | **L–V 10–18 EET**
 
+## FAQ — Fenêtres Salamander à l’export
+
+### Puis-je commander depuis la France sans me rendre en Roumanie ?
+Oui. L’ensemble du processus — devis, confirmation et paiement — se traite en ligne ou par téléphone. Nous livrons à l’adresse indiquée et fournissons toute la documentation technique.
+
+### Quelle garantie s’applique à une commande export ?
+La même que pour les clients roumains : 5 ans sur le profilé et le vitrage, 2 ans sur la quincaillerie. Le certificat de garantie accompagne la marchandise.
+
+### Puis-je commander la quincaillerie ou les accessoires séparément ?
+Oui — volets roulants aluminium, stores Raffstore, zipscreen, appuis et moustiquaires peuvent être commandés seuls, sans commande complète de menuiseries.
+
+### Faut-il un architecte ou une autorisation pour remplacer des fenêtres en France ?
+Cela dépend de la commune et du type de bâtiment. Neofort BIZ fournit l’ensemble de la documentation technique CE nécessaire à toute démarche.
+
+### Quel est le délai de livraison dans un pays de l’Union européenne ?
+La production prend 3 à 4 semaines et le transport 3 à 7 jours selon la destination. Pour la France, l’Allemagne et l’Autriche, comptez 4 à 5 semaines au total après confirmation.
+
 ---
 
 Neofort BIZ fournit des systèmes Salamander pour maisons, appartements et projets d’export, posés par nos équipes. Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide des livraisons Salamander en Europe](/fr/blog/menuiserie-salamander-maisons-individuelles-villas-export-europe).`,
@@ -21315,6 +21369,23 @@ Las razones son simples:
 
 **WhatsApp (ES/EN/DE/FR/IT):** +40 752 443 435 | **L–V 10–18 EET**
 
+## FAQ — Ventanas Salamander para exportación
+
+### ¿Puedo pedir desde España sin viajar a Rumanía?
+Sí. Todo el proceso — presupuesto, confirmación y pago — se gestiona en línea o por teléfono. Entregamos en la dirección que nos indique y facilitamos toda la documentación técnica.
+
+### ¿Qué garantía tengo en un pedido de exportación?
+La misma que para los clientes en Rumanía: 5 años en perfil y vidrio, 2 años en la herrajería. El certificado de garantía viaja con la mercancía.
+
+### ¿Puedo pedir herrajes o accesorios por separado?
+Sí — persianas de aluminio, Raffstore, zipscreen, vierteaguas y mosquiteras pueden pedirse sueltos, sin necesidad de un pedido completo de ventanas.
+
+### ¿Hace falta arquitecto o licencia para cambiar ventanas en España?
+Depende del municipio y del tipo de inmueble. Neofort BIZ entrega toda la documentación técnica CE necesaria para cualquier trámite.
+
+### ¿Cuánto tarda la entrega en un país de la Unión Europea?
+La producción lleva 3–4 semanas y el transporte 3–7 días según el destino. Para España, Francia y Alemania el plazo total habitual es de 4–5 semanas desde la confirmación.
+
 ---
 
 Neofort BIZ suministra sistemas Salamander para casas, pisos y proyectos de exportación, montados por equipos propios. Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía de entregas Salamander en Europa](/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa).`,
@@ -21360,6 +21431,23 @@ Le ragioni sono semplici:
 | GreenEvolution 76 + doppio Low-E | Standard 100×120 cm | 180–270 EUR |
 
 **WhatsApp (IT/EN/DE/FR/ES):** +40 752 443 435 | **L–V 10–18 EET**
+
+## FAQ — Finestre Salamander per l’export
+
+### Posso ordinare dall’Italia senza venire in Romania?
+Sì. L’intero processo — preventivo, conferma e pagamento — si gestisce online o al telefono. Consegniamo all’indirizzo indicato e forniamo tutta la documentazione tecnica.
+
+### Quale garanzia ho su un ordine per l’estero?
+La stessa dei clienti in Romania: 5 anni su profilo e vetro, 2 anni sulla ferramenta. Il certificato di garanzia accompagna la merce.
+
+### Posso ordinare ferramenta o accessori separatamente?
+Sì — tapparelle in alluminio, Raffstore, zipscreen, davanzali e zanzariere si possono ordinare singolarmente, senza un ordine completo di serramenti.
+
+### Serve un architetto o un permesso per sostituire le finestre in Italia?
+Dipende dal comune e dal tipo di immobile. Neofort BIZ fornisce tutta la documentazione tecnica CE necessaria per qualsiasi pratica.
+
+### Quanto dura la consegna in un paese dell’Unione Europea?
+La produzione richiede 3–4 settimane e il trasporto 3–7 giorni secondo la destinazione. Per Italia, Austria e Germania il tempo totale abituale è di 4–5 settimane dalla conferma.
 
 ---
 
@@ -21859,11 +21947,11 @@ Una porta a battente in alluminio con taglio termico può raggiungere dimensioni
     },
     seoTitle: {
       ro: "Tâmplărie PVC osciloculisantă dublă",
-      en: "Double tilt-and-slide PVC windows",
-      de: "PVC Dreh-Kipp-Schiebefenster",
-      fr: "Fenêtre PVC oscillo-coulissante",
-      es: "Ventana PVC oscilo-corredera",
-      it: "Finestra PVC anta-scorrevole",
+      en: "Double tilt-and-turn PVC windows",
+      de: "PVC Dreh-Kipp-Fenster",
+      fr: "Fenêtre PVC oscillo-battante",
+      es: "Ventana PVC oscilobatiente",
+      it: "Finestra PVC anta-ribalta",
     },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
@@ -21906,11 +21994,11 @@ Una porta a battente in alluminio con taglio termico può raggiungere dimensioni
     },
     metaDesc: {
       ro: "Tâmplărie PVC osciloculisantă dublă Salamander: cum funcționează, ce izolare oferă față de o culisantă clasică și pentru ce deschideri se pretează.",
-      en: "Salamander double tilt-and-slide PVC windows: how they work, the insulation gain over a classic slider, and the openings they suit.",
-      de: "Salamander PVC Dreh-Kipp-Schiebefenster: wie es funktioniert, wie viel besser es dämmt als ein klassischer Schiebeflügel und wofür es passt.",
-      fr: "Fenêtre PVC oscillo-coulissante double Salamander : fonctionnement, gain d’isolation face à un coulissant classique et cas d’usage.",
-      es: "Ventana PVC oscilo-corredera doble Salamander: cómo funciona, cuánto mejor aísla que una corredera clásica y para qué huecos sirve.",
-      it: "Finestra PVC anta-scorrevole doppia Salamander: come funziona, quanto isola in più di uno scorrevole classico e per quali aperture serve.",
+      en: "Salamander double tilt-and-turn PVC windows: how the three-position handle works, the insulation they deliver and where they fit best.",
+      de: "Salamander PVC Dreh-Kipp-Fenster: wie der Griff in drei Stellungen arbeitet, welche Dämmung erreicht wird und wofür sich das System eignet.",
+      fr: "Fenêtre PVC oscillo-battante double Salamander : la poignée à trois positions, l’isolation obtenue et les cas où ce système convient.",
+      es: "Ventana PVC oscilobatiente doble Salamander: cómo trabaja la manilla de tres posiciones, qué aislamiento logra y dónde encaja mejor.",
+      it: "Finestra PVC anta-ribalta doppia Salamander: come lavora la maniglia a tre posizioni, quale isolamento offre e dove conviene usarla.",
     },
     keywords: {
       ro: 'osciloculisanta dubla, tamplarie PVC Salamander oscilobatanta, ferestre PVC dubla deschidere, osciloculisanta Bucuresti Ilfov, ferestre termopane oscilobatante, BluEvolution 92 osciloculisanta, feronerie osciloculisanta',
@@ -22001,48 +22089,22 @@ Zgomotul urban din București — trafic, tramvaie, construcții — face ca izo
 
 ## Durată de viață și rezistență
 
+## FAQ — Tâmplărie osciloculisantă dublă
+
+### Ce înseamnă cele trei poziții ale mânerului?
+Mâner orizontal — fereastra e închisă și blocată. Rotit în sus — canatul se basculează din partea superioară și lasă o fantă de ventilație de 10–15 cm, fără curent direct. Rotit lateral — canatul se deschide complet spre interior, ca o ușă.
+
+### Ce coeficient Uw atinge o osciloculisantă dublă cu bluEvolution 92?
+Cu geam triplu de 52 mm, distanțier warm edge și montaj etanș, sistemul ajunge la Uw de 0,66 W/(m²K). Cu geam dublu, valoarea urcă în jur de 1,0 W/(m²K).
+
+### Se poate monta plasă de insecte pe o osciloculisantă?
+Da, dar doar plasă exterioară, fixă sau rulantă. Plasa se montează pe partea exterioară a tocului, ca să nu împiedice bascularea canatului spre interior.
+
 ### Cât durează o osciloculisantă dublă Salamander?
+Profilul rezistă 40–50 de ani, geamul termoizolant 20–25, iar feroneria 15–20 de ani cu întreținere anuală. Garniturile se schimbă o dată la 8–12 ani.
 
-Profilele Salamander BluEvolution 92 sunt fabricate din **PVC clasa A** conform EN 12608, cu grosimea peretelui de **3 mm** — standardul de calitate german RAL GZ-716. Durata de viață declarată: **minimum 40–60 de ani** în condiții normale de utilizare.
-
-Factorii care influențează longevitatea:
-- **Calitatea montajului** — montajul cu precadre Blaugelb Triotherm+ și bandă precomprimată butilică elimină infiltrațiile de apă și condensul la rost
-- **Feroneria** — Roto NT/NX sau Winkhaus, cu ungere anuală
-- **Curățarea** — exclusiv cu detergenți neutri, fără solvenți
-- **Reglajele periodice** — la fiecare 2–3 ani, din balamalele cu reglaj multipunct
-
-### Garanție Neofort BIZ
-
-Neofort BIZ oferă **garanție completă pe produs și manoperă**, confirmată prin certificat emis la finalizarea lucrării.
-
----
-
-## Montaj corect — diferența dintre o fereastră bună și una perfectă
-
-Chiar și cel mai bun profil PVC devine ineficient dacă montajul este necorespunzător. Neofort BIZ execută montajul conform standardului **RAL pentru montaj ferestre**, care presupune:
-
-1. **Precadre Blaugelb Triotherm+** — sistem de izolare perimetrală care elimină punțile termice la joncțiunea dintre fereastră și perete
-2. **Bandă precomprimată butilică** — etanșare exterioară împotriva apei și vântului
-3. **Folie antivapori** — etanșare interioară pentru prevenirea condensului
-4. **Baghetă Warm Edge** — în pachetul de geam, reduce puntea termică marginală
-
-Rezultatul: o fereastră cu performanță reală egală cu cea declarată în datele tehnice ale profilului.
-
----
-
-## Întrebări frecvente — osciloculisanta dublă Salamander
-
-**Pot bascula ambele canaturi simultan?**
-Nu, mecanismul este independent — fiecare canat se operează separat. Aceasta este de fapt un avantaj: poți ventila selectiv.
-
-**Ce dimensiuni maxime poate avea o osciloculisantă dublă?**
-Lățime totală: până la 2,0–2,4 m. Înălțime: până la 2,2 m per canat. La dimensiuni mari, recomandăm armătură din oțel în profil și feronerie grea.
-
-**Este indicată osciloculisanta dublă pentru renovare în bloc?**
-Da — este soluția standard pentru renovarea apartamentelor în blocuri din perioada 1960–1990. Se montează în gol existent fără lucrări de zidărie suplimentare.
-
-**Cât costă o osciloculisantă dublă Salamander BluEvolution 92?**
-Prețul variază în funcție de dimensiuni, culoare, geam și accesorii. Consultați [gama completă de tâmplărie PVC Salamander](/ro/tamplarie-pvc) sau [prețurile orientative](/ro/tamplarie-pvc/preturi). Solicitați ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.
+### Ce lățime maximă poate avea un canat?
+Pentru un canat cu deschidere interioară, limita practică e 90–100 cm lățime și 240 cm înălțime, în funcție de greutatea geamului. Peste aceste valori se recomandă altă tipologie.
 
 ---
 
@@ -22127,6 +22189,23 @@ Explore our full [Salamander PVC range](/en/pvc-windows) or see [indicative pric
 
 **For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**
 
+## FAQ — Double tilt-and-turn windows
+
+### What do the three handle positions mean?
+Handle horizontal — the window is closed and locked. Turned up — the sash tilts from the top and leaves a 10–15 cm ventilation gap without a direct draught. Turned sideways — the sash opens fully inwards, like a door.
+
+### What Uw does a double tilt-and-turn window with bluEvolution 92 reach?
+With 52 mm triple glazing, a warm edge spacer and airtight installation, the system reaches a Uw of 0.66 W/(m²K). With double glazing the figure rises to around 1.0 W/(m²K).
+
+### Can an insect screen be fitted to a tilt-and-turn window?
+Yes, but only an external screen, fixed or roller type. It mounts on the outer face of the frame so it does not obstruct the sash tilting inwards.
+
+### How long does a Salamander double tilt-and-turn window last?
+The profile lasts 40–50 years, the insulating glass unit 20–25, and the hardware 15–20 years with annual servicing. Gaskets are replaced every 8–12 years.
+
+### What is the maximum sash width?
+For an inward-opening sash the practical limit is 90–100 cm wide and 240 cm high, depending on the weight of the glass. Above that, a different window type is recommended.
+
 ---
 
 Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details in [the full Salamander profile comparison](/en/blog/bluevolution-92-vs-greenevolution-76-guide).`,
@@ -22189,6 +22268,23 @@ Salamander BluEvolution 92 Profile werden aus **PVC Klasse A** nach EN 12608 mit
 Neofort BIZ montiert alle Fenster nach dem **RAL-Montageleitfaden**, einschließlich Blaugelb Triotherm+ Vorbaurahmen, vorkomprimiertem Butylband und Dampfsperrfolie.
 
 **Für ein persönliches Angebot:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**
+
+## FAQ — Dreh-Kipp-Fenster mit zwei Flügeln
+
+### Was bedeuten die drei Griffstellungen?
+Griff waagerecht — das Fenster ist geschlossen und verriegelt. Nach oben gedreht — der Flügel kippt oben und lässt einen Lüftungsspalt von 10–15 cm ohne direkten Zug. Zur Seite gedreht — der Flügel öffnet vollständig nach innen, wie eine Tür.
+
+### Welchen Uw erreicht ein Dreh-Kipp-Fenster mit bluEvolution 92?
+Mit 52-mm-Dreifachverglasung, Warm-Edge-Abstandhalter und luftdichter Montage erreicht das System einen Uw von 0,66 W/(m²K). Mit Zweifachverglasung liegt der Wert bei etwa 1,0 W/(m²K).
+
+### Lässt sich ein Insektenschutz an einem Dreh-Kipp-Fenster anbringen?
+Ja, aber nur außen liegend, als festes Gitter oder Rollo. Er wird auf der Außenseite des Rahmens montiert, damit der Flügel nach innen kippen kann.
+
+### Wie lange hält ein Salamander Dreh-Kipp-Fenster?
+Das Profil hält 40–50 Jahre, die Isolierglaseinheit 20–25 und der Beschlag 15–20 Jahre bei jährlicher Wartung. Dichtungen werden alle 8–12 Jahre erneuert.
+
+### Wie breit darf ein Flügel maximal sein?
+Bei nach innen öffnenden Flügeln liegt die praktische Grenze bei 90–100 cm Breite und 240 cm Höhe, abhängig vom Glasgewicht. Darüber empfiehlt sich eine andere Bauart.
 
 ---
 
@@ -22253,6 +22349,23 @@ Neofort BIZ installe toutes les fenêtres selon le **guide de pose RAL**, avec p
 
 **Pour un devis personnalisé :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
 
+## FAQ — Fenêtres oscillo-battantes à deux vantaux
+
+### Que signifient les trois positions de la poignée ?
+Poignée horizontale — la fenêtre est fermée et verrouillée. Tournée vers le haut — le vantail bascule par le haut et laisse un espace de ventilation de 10 à 15 cm sans courant d’air direct. Tournée sur le côté — le vantail s’ouvre entièrement vers l’intérieur, comme une porte.
+
+### Quel Uw atteint une oscillo-battante double avec bluEvolution 92 ?
+Avec un triple vitrage de 52 mm, un intercalaire warm edge et une pose étanche, le système atteint un Uw de 0,66 W/(m²K). En double vitrage, la valeur remonte autour de 1,0 W/(m²K).
+
+### Peut-on poser une moustiquaire sur une oscillo-battante ?
+Oui, mais uniquement une moustiquaire extérieure, fixe ou enroulable. Elle se monte sur la face extérieure du dormant afin de ne pas gêner la bascule du vantail vers l’intérieur.
+
+### Combien de temps dure une oscillo-battante Salamander ?
+Le profilé tient 40 à 50 ans, le vitrage isolant 20 à 25 ans et la quincaillerie 15 à 20 ans avec un entretien annuel. Les joints se remplacent tous les 8 à 12 ans.
+
+### Quelle est la largeur maximale d’un vantail ?
+Pour un vantail ouvrant à la française, la limite pratique est de 90 à 100 cm de large et 240 cm de haut, selon le poids du vitrage. Au-delà, une autre typologie est conseillée.
+
 ---
 
 Neofort BIZ fabrique et pose de la menuiserie PVC Salamander à Bucarest et Ilfov, avec livraison dans toute l’Europe. Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans [la comparaison complète des profilés Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide).`,
@@ -22316,6 +22429,23 @@ Neofort BIZ instala todas las ventanas según la **guía de montaje RAL**, inclu
 
 **Para un presupuesto personalizado:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18**
 
+## FAQ — Ventanas oscilobatientes de dos hojas
+
+### ¿Qué significan las tres posiciones de la manilla?
+Manilla horizontal — la ventana está cerrada y bloqueada. Girada hacia arriba — la hoja bascula por la parte superior y deja una abertura de ventilación de 10–15 cm sin corriente directa. Girada de lado — la hoja se abre por completo hacia el interior, como una puerta.
+
+### ¿Qué Uw alcanza una oscilobatiente doble con bluEvolution 92?
+Con triple acristalamiento de 52 mm, separador warm edge e instalación estanca, el sistema alcanza un Uw de 0,66 W/(m²K). Con doble acristalamiento el valor sube a unos 1,0 W/(m²K).
+
+### ¿Se puede montar mosquitera en una oscilobatiente?
+Sí, pero solo mosquitera exterior, fija o enrollable. Se monta en la cara exterior del marco para no impedir el basculamiento de la hoja hacia dentro.
+
+### ¿Cuánto dura una oscilobatiente Salamander?
+El perfil dura 40–50 años, el vidrio aislante 20–25 y la herrajería 15–20 años con mantenimiento anual. Las juntas se cambian cada 8–12 años.
+
+### ¿Cuál es el ancho máximo de una hoja?
+En hojas de apertura interior el límite práctico es de 90–100 cm de ancho y 240 cm de alto, según el peso del vidrio. Por encima conviene otra tipología.
+
 ---
 
 Neofort BIZ fabrica e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Todos los detalles en [la comparación completa de los perfiles Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia).`,
@@ -22378,6 +22508,23 @@ I profili Salamander BluEvolution 92 sono prodotti in **PVC classe A** secondo E
 Neofort BIZ installa tutte le finestre secondo la **guida di posa RAL**, con controtelai Blaugelb Triotherm+, nastro precompresso butilico e membrana vapore.
 
 **Per un preventivo personalizzato:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
+
+## FAQ — Finestre anta-ribalta a due ante
+
+### Che cosa significano le tre posizioni della maniglia?
+Maniglia orizzontale — la finestra è chiusa e bloccata. Ruotata verso l’alto — l’anta ribalta dalla parte superiore e lascia una fessura di ventilazione di 10–15 cm senza corrente diretta. Ruotata di lato — l’anta si apre completamente verso l’interno, come una porta.
+
+### Quale Uw raggiunge un’anta-ribalta doppia con bluEvolution 92?
+Con triplo vetro da 52 mm, distanziale warm edge e posa a tenuta, il sistema raggiunge un Uw di 0,66 W/(m²K). Con doppio vetro il valore sale intorno a 1,0 W/(m²K).
+
+### Si può montare una zanzariera su un’anta-ribalta?
+Sì, ma solo esterna, fissa o avvolgibile. Si monta sul lato esterno del telaio per non ostacolare il ribaltamento dell’anta verso l’interno.
+
+### Quanto dura una finestra anta-ribalta Salamander?
+Il profilo dura 40–50 anni, la vetrocamera 20–25 e la ferramenta 15–20 anni con manutenzione annuale. Le guarnizioni si sostituiscono ogni 8–12 anni.
+
+### Qual è la larghezza massima di un’anta?
+Per un’anta con apertura interna il limite pratico è 90–100 cm di larghezza e 240 cm di altezza, a seconda del peso del vetro. Oltre, conviene un’altra tipologia.
 
 ---
 
@@ -22562,6 +22709,9 @@ Da — există modele plissé pentru ferestre osciloculisante și batante, cu di
 ### Prețul unui sistem evolutionDrive Plus+ cu plasă plissé?
 Consultați [gama de tâmplărie PVC Salamander](/ro/tamplarie-pvc) sau [accesoriile disponibile](/ro/accesorii). Solicită ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.
 
+### Cât de greu se manevrează un canat mare?
+Sistemul evolutionDrive Plus+ folosește role pe rulmenți, iar un canat de până la 200 kg se deplasează cu efort comparabil cu deschiderea unei uși obișnuite. Peste această greutate se recomandă acționare motorizată.
+
 ---
 
 Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76).`,
@@ -22605,6 +22755,23 @@ Explore our full [Salamander PVC range](/en/pvc-windows) or see [indicative pric
 
 **For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**
 
+## FAQ — evolutionDrive Plus+ sliding door
+
+### Can it be fitted to an existing terrace?
+Yes, provided the opening allows a suitable threshold. The low threshold version needs 20 mm of depth in the floor screed; without it, a surface-mounted threshold is used, slightly raised.
+
+### What happens to the seal in strong wind?
+The sash presses against the gasket when locked, not just when closed, so tightness holds in gusts. The system is tested to class 9A for water tightness and C4 for wind load.
+
+### Can a plissé screen be fitted to ordinary windows too?
+Yes, the plissé runs on a bottom and top guide and can be adapted to any opening up to 4 m wide. On standard windows a roller screen is usually cheaper.
+
+### How much does an evolutionDrive Plus+ system with a plissé screen cost?
+For a two-panel opening of roughly 3 × 2.2 m, the range is 4,500–6,500 EUR depending on glazing, colour and hardware. The plissé screen adds 600–900 EUR.
+
+### How hard is a large sash to operate?
+The evolutionDrive Plus+ runs on bearing rollers, so a sash of up to 200 kg moves with about the effort of opening a normal door. Above that weight, motorised operation is recommended.
+
 ---
 
 Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-guide).`,
@@ -22640,6 +22807,23 @@ Der wesentliche Unterschied: **Abdichtung im Blendrahmen**. Anders als bei klass
 Ein 2,5–3,0 m breites Schiebesystem benötigt einen passenden Insektenschutz. Das **Plissee-Schiebegitter** löst dies elegant: Die gefaltete Insektenschutzbahn lässt sich auf engstem Raum zusammenschieben und entfaltet sich bei Bedarf auf die volle Breite des Öffnungsfeldes.
 
 **Für ein persönliches Angebot:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**
+
+## FAQ — evolutionDrive Plus+ Schiebetür
+
+### Lässt sie sich an einer bestehenden Terrasse nachrüsten?
+Ja, sofern die Öffnung eine passende Schwelle zulässt. Die Variante mit niedriger Schwelle benötigt 20 mm Tiefe im Estrich; ohne diese wird eine aufgesetzte, leicht erhöhte Schwelle verwendet.
+
+### Was passiert mit der Dichtheit bei starkem Wind?
+Der Flügel presst beim Verriegeln gegen die Dichtung, nicht nur beim Anlehnen, sodass die Dichtheit auch bei Böen hält. Das System ist auf Schlagregendichtheit 9A und Windlast C4 geprüft.
+
+### Kann ein Plissee auch an normalen Fenstern montiert werden?
+Ja, das Plissee läuft in einer unteren und oberen Führung und lässt sich an Öffnungen bis 4 m Breite anpassen. Bei Standardfenstern ist ein Rollo meist günstiger.
+
+### Was kostet ein evolutionDrive Plus+ System mit Plissee?
+Für eine zweiflügelige Öffnung von etwa 3 × 2,2 m liegt die Spanne bei 4.500–6.500 EUR, je nach Verglasung, Farbe und Beschlag. Das Plissee kommt mit 600–900 EUR hinzu.
+
+### Wie schwer lässt sich ein großer Flügel bewegen?
+Der evolutionDrive Plus+ läuft auf Kugellagerrollen, ein Flügel bis 200 kg bewegt sich mit etwa dem Kraftaufwand einer normalen Tür. Darüber empfiehlt sich ein motorischer Antrieb.
 
 ---
 
@@ -22677,6 +22861,23 @@ Une porte coulissante de 2,5–3,0 m nécessite une protection insectes adaptée
 
 **Pour un devis personnalisé :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
 
+## FAQ — Porte coulissante evolutionDrive Plus+
+
+### Peut-elle être posée sur une terrasse existante ?
+Oui, à condition que l’ouverture permette un seuil adapté. La version à seuil bas demande 20 mm de profondeur dans la chape ; à défaut, on pose un seuil en applique, légèrement surélevé.
+
+### Que devient l’étanchéité par vent fort ?
+Le vantail vient presser contre le joint lors du verrouillage, et pas seulement en position fermée : l’étanchéité tient donc dans les rafales. Le système est testé en classe 9A à l’eau et C4 au vent.
+
+### La moustiquaire plissée peut-elle équiper des fenêtres classiques ?
+Oui, le plissé coulisse dans un guide bas et haut et s’adapte à toute ouverture jusqu’à 4 m de large. Sur des fenêtres standard, une moustiquaire enroulable revient généralement moins cher.
+
+### Combien coûte un système evolutionDrive Plus+ avec moustiquaire plissée ?
+Pour une ouverture à deux vantaux d’environ 3 × 2,2 m, comptez 4 500 à 6 500 EUR selon le vitrage, la teinte et la quincaillerie. La moustiquaire plissée ajoute 600 à 900 EUR.
+
+### Un grand vantail est-il difficile à manœuvrer ?
+L’evolutionDrive Plus+ roule sur galets à roulements : un vantail jusqu’à 200 kg se déplace avec l’effort d’une porte ordinaire. Au-delà, la motorisation est conseillée.
+
 ---
 
 Neofort BIZ fabrique et pose de la menuiserie PVC Salamander à Bucarest et Ilfov, avec livraison dans toute l’Europe. Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [la comparaison bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide).`,
@@ -22713,6 +22914,23 @@ Una puerta corredera de 2,5–3,0 m requiere una protección contra insectos ade
 
 **Para un presupuesto personalizado:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18**
 
+## FAQ — Puerta corredera evolutionDrive Plus+
+
+### ¿Se puede instalar en una terraza ya construida?
+Sí, siempre que el hueco permita un umbral adecuado. La versión de umbral bajo necesita 20 mm de profundidad en la solera; si no los hay, se coloca un umbral superpuesto, ligeramente elevado.
+
+### ¿Qué pasa con la estanqueidad con viento fuerte?
+La hoja presiona contra la junta al bloquearse, no solo al cerrar, de modo que la estanqueidad aguanta con rachas. El sistema está ensayado en clase 9A al agua y C4 a la carga de viento.
+
+### ¿La mosquitera plisada sirve también para ventanas normales?
+Sí, la plisada corre por una guía inferior y otra superior y se adapta a huecos de hasta 4 m de ancho. En ventanas estándar suele salir más barata una enrollable.
+
+### ¿Cuánto cuesta un sistema evolutionDrive Plus+ con mosquitera plisada?
+Para un hueco de dos hojas de unos 3 × 2,2 m, la horquilla es de 4.500–6.500 EUR según acristalamiento, color y herrajes. La mosquitera plisada añade 600–900 EUR.
+
+### ¿Cuesta mover una hoja grande?
+El evolutionDrive Plus+ rueda sobre rodamientos: una hoja de hasta 200 kg se desplaza con el esfuerzo de abrir una puerta normal. Por encima, se recomienda accionamiento motorizado.
+
 ---
 
 Neofort BIZ fabrica e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).`,
@@ -22748,6 +22966,23 @@ La differenza essenziale: **tenuta nel telaio fisso**. A differenza delle porte 
 Una porta scorrevole di 2,5–3,0 m richiede una protezione antizanzare adeguata. La **zanzariera plissé scorrevole** risolve questo in modo elegante: la rete a soffietto si comprime in un'estremità e si estende sull'intera larghezza alla chiusura.
 
 **Per un preventivo personalizzato:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
+
+## FAQ — Porta scorrevole evolutionDrive Plus+
+
+### Si può installare su una terrazza esistente?
+Sì, purché il vano consenta una soglia adeguata. La versione a soglia ribassata richiede 20 mm di profondità nel massetto; in mancanza, si usa una soglia in appoggio, leggermente rialzata.
+
+### Che cosa succede alla tenuta con vento forte?
+L’anta preme contro la guarnizione al momento del blocco, non solo in chiusura, quindi la tenuta regge anche con le raffiche. Il sistema è testato in classe 9A all’acqua e C4 al carico del vento.
+
+### La zanzariera plissé si può montare anche su finestre normali?
+Sì, la plissé scorre su una guida inferiore e una superiore e si adatta ad aperture fino a 4 m di larghezza. Su finestre standard una avvolgibile costa di norma meno.
+
+### Quanto costa un sistema evolutionDrive Plus+ con zanzariera plissé?
+Per un vano a due ante di circa 3 × 2,2 m la forbice è di 4.500–6.500 EUR secondo vetro, colore e ferramenta. La zanzariera plissé aggiunge 600–900 EUR.
+
+### Quanto è faticoso muovere un’anta grande?
+L’evolutionDrive Plus+ scorre su rulli a cuscinetti: un’anta fino a 200 kg si sposta con lo sforzo di una porta normale. Oltre quel peso si consiglia la motorizzazione.
 
 ---
 
