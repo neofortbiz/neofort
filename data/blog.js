@@ -475,6 +475,8 @@ Result: nZEB house with consumption ≤ 100 kWh/m²/year, energy bills reduced 4
 
 The European standard is moving on: from 2030 the benchmark becomes ZEB, not nZEB. What changes in the window requirements is set out in [the guide to zero-emission buildings](/en/blog/from-nzeb-to-zeb-what-epbd-changes-for-windows).
 
+We covered the safety of modern PVC separately, with data from the technical literature: [The PVC Toxicity Myth: Origins, What Science Says and Why Mo](/en/blog/pvc-toxic-myth-safety-composition-evolution-windows).
+
 ---
 
 **Related articles:**
@@ -668,6 +670,8 @@ Die richtige Prioritätsreihenfolge für nZEB-Fenster:
 Ergebnis: nZEB-Haus mit ≤ 100 kWh/m²/Jahr, Energierechnungen um 40-60% reduziert, Wärmekomfort auf 40+ Jahre garantiert.
 
 Der europäische Standard entwickelt sich weiter: Ab 2030 gilt ZEB statt nZEB als Maßstab. Was sich bei den Fensteranforderungen ändert, erklärt [der Ratgeber zu Nullemissionsgebäuden](/de/blog/von-nzeb-zu-zeb-was-die-epbd-fuer-fenster-aendert).
+
+Über die Sicherheit von modernem PVC haben wir separat geschrieben, mit Daten aus der Fachliteratur: [Der PVC-Giftigkeitsmythos: Herkunft, was die Wissenschaft sa](/de/blog/pvc-giftig-mythos-sicherheit-zusammensetzung-entwicklung-fenster).
 
 ---
 
@@ -864,6 +868,8 @@ Résultat : maison nZEB avec ≤ 100 kWh/m²/an, factures d'énergie réduites d
 
 La norme européenne évolue : à partir de 2030, la référence devient le ZEB et non plus le nZEB. Ce qui change pour les exigences des fenêtres est détaillé dans [le guide sur les bâtiments à émissions nulles](/fr/blog/de-nzeb-a-zeb-ce-que-change-la-epbd-pour-les-fenetres).
 
+Nous avons traité séparément la sécurité du PVC moderne, données techniques à l’appui: [Le mythe du PVC toxique : origines, ce que dit la science et](/fr/blog/mythe-pvc-toxique-securite-composition-evolution-fenetres).
+
 ---
 
 **Articles connexes :**
@@ -1059,6 +1065,8 @@ Resultado: casa nZEB con ≤ 100 kWh/m²/año, facturas energéticas reducidas u
 
 El estándar europeo evoluciona: desde 2030 la referencia pasa a ser ZEB, no nZEB. Qué cambia en los requisitos de ventana se explica en [la guía sobre edificios de cero emisiones](/es/blog/de-nzeb-a-zeb-que-cambia-la-epbd-para-las-ventanas).
 
+Sobre la seguridad del PVC moderno escribimos aparte, con datos de la literatura técnica: [El mito del PVC tóxico: origen, qué dice la ciencia y por qu](/es/blog/mito-pvc-toxico-seguridad-composicion-evolucion-ventanas).
+
 ---
 
 **Artículos relacionados:**
@@ -1182,7 +1190,7 @@ Il profilo più performante perde **il 30-50% della sua efficienza** con un'inst
 
 **Zona interna:** Film PE barriera vapore — previene la condensa nella struttura del muro
 
-**Precornici Blaugelb Triotherm+ (opzione raccomandata):**
+**Controtelai Blaugelb Triotherm+ (opzione raccomandata):**
 - Materiale composito λ = 0,035 W/(mK) — paragonabile alla lana minerale
 - Riduce ψ perimetrale da 0,08 a 0,01 W/(mK)
 - Certificazione PassivHaus Institut (PHI)
@@ -1205,14 +1213,14 @@ Il profilo più performante perde **il 30-50% della sua efficienza** con un'inst
 | Scorrevole alluminio | 200×230 cm | Alumil Smartia, triplo | 900-1.200 € |
 | Porta d'ingresso | 90×210 cm | Salamander SF85, triplo | 700-1.000 € |
 
-*IVA esclusa, installazione standard senza precornici
+*IVA esclusa, installazione standard senza controtelai
 
 ### Calcolo dell'ammortamento per una casa di 120 m²
 
 | Investimento aggiuntivo vs doppio standard | Risparmio annuo | Ammortamento |
 |---|---|---|
 | +3.000 € (triplo vs doppio, 12 finestre) | 194 €/anno | ~15 anni |
-| +700 € (precornici Blaugelb, 12 unità) | +70 €/anno aggiuntivo | ~10 anni |
+| +700 € (controtelai Blaugelb, 12 unità) | +70 €/anno aggiuntivo | ~10 anni |
 
 ## FAQ completo — Finestre nZEB Romania
 
@@ -1238,7 +1246,7 @@ PVC per Uw massimo ed efficienza dei costi. Alluminio per grandi superfici vetra
 - Certificazione profilo: IFT Rosenheim o TÜV per Uf dichiarato
 
 ### Quali sono le finestre più efficienti sul mercato romeno 2026?
-Salamander bluEvolution 92 + triplo 52 mm Saint-Gobain + Warm Edge + precornici Blaugelb: **Uw = 0,66 W/(m²K)** — il miglior sistema disponibile commercialmente in Romania.
+Salamander bluEvolution 92 + triplo 52 mm Saint-Gobain + Warm Edge + controtelai Blaugelb: **Uw = 0,66 W/(m²K)** — il miglior sistema disponibile commercialmente in Romania.
 
 ## Conclusione
 
@@ -1247,10 +1255,12 @@ L'ordine corretto di priorità per le finestre nZEB:
 1. **Prima la vetrocamera:** triplo con argon + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
 2. **Poi il profilo:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
 3. **L'installazione:** nastri precompressi + 3 zone di sigillatura
-4. **Le precornici** (opzionale ma raccomandato): Blaugelb Triotherm+
+4. **I controtelai** (opzionale ma raccomandato): Blaugelb Triotherm+
 5. **Risultato:** Uw = 0,72 W/(m²K) — il 28% sotto il limite legale
 
 Risultato: casa nZEB con ≤ 100 kWh/m²/anno, bollette energetiche ridotte del 40-60%, comfort termico garantito per 40+ anni.
+
+Sulla sicurezza del PVC moderno abbiamo scritto a parte, con dati dalla letteratura tecnica: [Il mito del PVC tossico: origini, cosa dice la scienza e per](/it/blog/mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre).
 
 ---
 
@@ -1467,6 +1477,8 @@ Strat subțire de oxid metalic depus pe suprafața sticlei. Reflectă radiația 
 - Budget limitat și alte priorități mai rentabile
 
 **Regula simplă:** Dacă oricum schimbi ferestrele → alege triplu (diferența 15-25% se amortizează garantat). Dacă ferestrele sunt funcționale → calculează ROI-ul specific.
+
+Despre siguranța PVC-ului modern am scris separat, cu datele din literatura de specialitate: [Mitul PVC-ului toxic: de unde vine, ce spune știința și de c](/ro/blog/mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre).
 
 ---
 
@@ -2523,6 +2535,8 @@ Always for nZEB — saves 50% heat loss vs double. Payback 5-8 years.
 | Villa with large living | Mix PVC + Aluminium | Right material in right place |
 | Offices, facades | Aluminium Alumil S77 | Structure + aesthetics |
 
+The breakdown by profile and system is in the detailed price guide: [Salamander double glazing prices in Bucharest 2026 — complet](/en/blog/salamander-double-glazing-prices-bucharest).
+
 ---
 
 Related: [Complete nZEB System](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing) | [nZEB Windows Guide Romania](/en/blog/windows-nzeb-house-romania-complete-guide-2026) | [Salamander Prices 2026](/en/blog/salamander-window-prices-bucharest-2026)
@@ -2568,6 +2582,8 @@ PVC — Uw = 0,72 vs 1,0-1,2 für Aluminium.
 ### Lohnt Dreifachverglasung?
 Immer für nZEB — 50% weniger Wärmeverlust. Amortisierung 5-8 Jahre.
 
+Die Aufschlüsselung nach Profil und System finden Sie im detaillierten Preisführer: [Salamander Isolierglasfenster Preise in Bukarest 2026 — Komp](/de/blog/salamander-isolierglas-preise-bukarest).
+
 ---
 
 Neofort BIZ liefert Salamander (PVC) und Alumil (Aluminium) in Bukarest und Ilfov. [Kostenloses Beratungsgespräch](/de/kontakt). Erfahren Sie mehr über [unsere Alumil-Systeme](/de/aluminiumfenster), die wir anbieten. Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
@@ -2604,6 +2620,8 @@ PVC — Uw = 0,72 vs 1,0-1,2 pour aluminium.
 
 ### Le triple vitrage vaut-il la peine ?
 Toujours pour nZEB — 50% moins de pertes. Rentabilisé en 5-8 ans.
+
+Le détail par profilé et par système figure dans le guide de prix complet: [Prix double vitrage Salamander à Bucarest 2026 — guide compl](/fr/blog/prix-double-vitrage-salamander-bucarest).
 
 ---
 
@@ -2642,6 +2660,8 @@ PVC — Uw = 0,72 vs 1,0-1,2 para aluminio.
 ### ¿Vale el triple acristalamiento?
 Siempre para nZEB — 50% menos pérdidas. Amortizado en 5-8 años.
 
+El desglose por perfil y sistema está en la guía detallada de precios: [Precios ventanas Salamander en Bucarest 2026 — guía completa](/es/blog/precios-doble-acristalamiento-salamander-bucarest).
+
 ---
 
 Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov. [Consulta gratuita](/es/contacto). Más información sobre [nuestros sistemas Alumil](/es/carpinteria-aluminio) que ofrecemos. Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
@@ -2664,7 +2684,7 @@ Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov.
 ## Quando PVC e quando alluminio?
 
 - Ristrutturazione appartamento: PVC bluEvolution 82/92
-- Casa passiva PHI: PVC bluEvolution 92 + precornici Blaugelb
+- Casa passiva PHI: PVC bluEvolution 92 + controtelai Blaugelb
 - Commerciale/facciate: Alluminio Alumil S77
 - Grandi scorrevoli >3m: Alluminio Alumil Smartia M19800
 
@@ -2678,6 +2698,8 @@ PVC — Uw = 0,72 vs 1,0-1,2 per alluminio.
 
 ### Vale il triplo vetro?
 Sempre per nZEB — 50% meno dispersioni. Ammortizzato in 5-8 anni.
+
+La ripartizione per profilo e sistema si trova nella guida dettagliata ai prezzi: [Prezzi finestre Salamander a Bucarest 2026 — guida completa ](/it/blog/prezzi-doppio-vetro-salamander-bucarest).
 
 ---
 
@@ -2832,6 +2854,8 @@ Diferența de preț între RC2 și RC3 este de 15-25% din valoarea ușii — nu 
 ## Zone Sector 1 deservite de Neofort BIZ
 
 Neofort BIZ livrează și montează uși din aluminiu Alumil în toată zona Sectorului 1: **Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Băneasa, Ștefan cel Mare, Titulescu, Pajura, Colentina (limita Sector 1)** și în Ilfov adiacent: Voluntari, Tunari, Pipera, Otopeni.
+
+Defalcarea pe profile și sisteme se găsește în ghidul detaliat de prețuri: [Prețuri termopane Salamander în București 2026 — ghid comple](/ro/blog/preturi-termopane-salamander-bucuresti).
 
 ---
 
@@ -3290,7 +3314,7 @@ Alumil M19800 Smartia, compatibile con sistemi di controllo accessi (lettore di 
       de: 'Wärmedämmung Fenster Bukarest 2026 — wie man ohne Austausch verbessert, wann Ersatz rentabler ist, realer Uw-Wert, Dreifach- vs. Zweifachverglasung, Bänder, Vorblendrahmen. Praktische Lösungen und Preise.',
       fr: "Isolation thermique fenêtres Bucarest 2026 — comment améliorer sans remplacer la menuiserie, quand le remplacement est plus rentable, Uw réel, triple vs double vitrage, bandes, précadres. Solutions pratiques et prix.",
       es: 'Aislamiento térmico ventanas Bucarest 2026 — cómo mejorar sin cambiar la carpintería, cuándo es más rentable la sustitución, Uw real, triple vs doble acristalamiento, bandas, premarcos. Soluciones prácticas y precios.',
-      it: "Isolamento termico finestre Bucarest 2026 — come migliorare senza sostituire gli infissi, quando la sostituzione è più conveniente, Uw reale, triplo vs doppio vetro, nastri, precornici. Soluzioni pratiche e prezzi.",
+      it: "Isolamento termico finestre Bucarest 2026 — come migliorare senza sostituire gli infissi, quando la sostituzione è più conveniente, Uw reale, triplo vs doppio vetro, nastri, controtelai. Soluzioni pratiche e prezzi.",
     },
     excerpt: {
       ro: 'Simți că pierzi căldura prin ferestre în București? Ghid complet 2026: cum îmbunătățești izolația ferestrelor existente fără înlocuire, când e mai rentabilă schimbarea completă și ce diferență face geamul triplu față de dublu.',
@@ -3456,6 +3480,8 @@ When the profile is more than 20 years old, deformed, or you want to reach nZEB 
 - **Salamander bluEvolution 82** (6 chambers, 82 mm) — optimal quality/price ratio for residential renovations in Bucharest. Uw = 0.8-0.95 W/(m²K) with triple glazing.
 - **Salamander bluEvolution 92** (6 chambers, 92 mm) — for new builds or nZEB projects. Uw = 0.66-0.80 W/(m²K) with Saint-Gobain triple glazing and Warm Edge.
 
+The installation details with Blaugelb Triotherm+ precasings are covered step by step here: [Installation with Blaugelb Triotherm+ Precasings — Why It's ](/en/blog/blaugelb-triotherm-precasing-installation-nzeb).
+
 ---
 
 **Related articles:**
@@ -3522,6 +3548,8 @@ Bei gutem Profil, aber altem Zweifachglas (Ug = 1,0-1,6):
 
 - **Salamander bluEvolution 82** (6 Kammern, 82 mm) — optimales Preis-Leistungs-Verhältnis für Renovierungen in Bukarest. Uw = 0,8-0,95 W/(m²K) mit Dreifachverglasung.
 - **Salamander bluEvolution 92** (6 Kammern, 92 mm) — für Neubauten oder nZEB-Projekte. Uw = 0,66-0,80 W/(m²K).
+
+Die Montagedetails mit Blaugelb Triotherm+ Vorblendrahmen werden hier Schritt für Schritt behandelt: [Montage mit Blaugelb Triotherm+ — Warum es für die nZEB-Zert](/de/blog/blaugelb-triotherm-vorfenster-montage-nzeb).
 
 ---
 
@@ -3590,6 +3618,8 @@ Si le profilé est en bon état mais le vitrage ancien (Ug = 1,0-1,6) :
 - **Salamander bluEvolution 82** (6 chambres, 82 mm) — rapport qualité/prix optimal pour les rénovations. Uw = 0,8-0,95 W/(m²K) avec triple vitrage.
 - **Salamander bluEvolution 92** (6 chambres, 92 mm) — pour les constructions neuves ou projets nZEB. Uw = 0,66-0,80 W/(m²K).
 
+Les détails de pose avec précadres Blaugelb Triotherm+ sont traités pas à pas ici: [Pose avec précadres Blaugelb Triotherm+ — pourquoi c'est obl](/fr/blog/precadres-blaugelb-triotherm-pose-nzeb).
+
 ---
 
 **Articles connexes :**
@@ -3657,6 +3687,8 @@ Si el perfil está en buen estado pero el acristalamiento es antiguo (Ug = 1,0-1
 - **Salamander bluEvolution 82** (6 cámaras, 82 mm) — relación calidad/precio óptima para renovaciones. Uw = 0,8-0,95 W/(m²K) con triple acristalamiento.
 - **Salamander bluEvolution 92** (6 cámaras, 92 mm) — para obras nuevas o proyectos nZEB. Uw = 0,66-0,80 W/(m²K).
 
+Los detalles de instalación con premarcos Blaugelb Triotherm+ se tratan paso a paso aquí: [Montaje con premarcos Blaugelb Triotherm+ — por qué es oblig](/es/blog/instalacion-premarcos-blaugelb-triotherm-nzeb).
+
 ---
 
 **Artículos relacionados:**
@@ -3723,6 +3755,8 @@ Se il profilo è in buone condizioni ma il vetro è vecchio (Ug = 1,0-1,6):
 
 - **Salamander bluEvolution 82** (6 camere, 82 mm) — rapporto qualità/prezzo ottimale per le ristrutturazioni. Uw = 0,8-0,95 W/(m²K) con triplo vetro.
 - **Salamander bluEvolution 92** (6 camere, 92 mm) — per nuove costruzioni o progetti nZEB. Uw = 0,66-0,80 W/(m²K).
+
+I dettagli di posa con controtelai Blaugelb Triotherm+ sono trattati passo per passo qui: [Montaggio con controtelai Blaugelb Triotherm+ — perché è obb](/it/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb).
 
 ---
 
@@ -3807,7 +3841,7 @@ Per ristrutturazioni residenziali, il Salamander bluEvolution 82 (6 camere, 82 m
       de: 'Komplettes nZEB-System: Salamander bluEvolution 92 + Blaugelb Triotherm+ Vorblendrahmen + Dreifachverglasung — Vollständiger technischer Leitfaden 2026',
       fr: 'Système nZEB complet : Salamander bluEvolution 92 + précadres Blaugelb Triotherm+ + triple vitrage — Guide technique complet 2026',
       es: 'Sistema nZEB completo: Salamander bluEvolution 92 + premarcos Blaugelb Triotherm+ + triple acristalamiento — Guía técnica completa 2026',
-      it: 'Sistema nZEB completo: Salamander bluEvolution 92 + precornici Blaugelb Triotherm+ + triplo vetro — Guida tecnica completa 2026',
+      it: 'Sistema nZEB completo: Salamander bluEvolution 92 + controtelai Blaugelb Triotherm+ + triplo vetro — Guida tecnica completa 2026',
     },
     metaDesc: {
       ro: 'Ghid tehnic complet sistem nZEB: Salamander bluEvolution 92, precadre Blaugelb Triotherm+, geam triplu Saint-Gobain SGG, benzi precomprimate. Calcul Uw, performanțe reale, costuri și procedura de montaj.',
@@ -3815,7 +3849,7 @@ Per ristrutturazioni residenziali, il Salamander bluEvolution 82 (6 camere, 82 m
       de: 'Vollständiger technischer Leitfaden für nZEB-System: Salamander bluEvolution 92, Blaugelb Triotherm+ Vorblendrahmen, Saint-Gobain SGG Dreifachverglasung, vorkomprimierte Bänder. Uw-Berechnung, reale Leistung, Kosten und Montageverfahren.',
       fr: 'Guide technique complet système nZEB : Salamander bluEvolution 92, précadres Blaugelb Triotherm+, triple vitrage Saint-Gobain SGG, bandes précomprimées. Calcul Uw, performances réelles, coûts et procédure de pose.',
       es: 'Guía técnica completa sistema nZEB: Salamander bluEvolution 92, premarcos Blaugelb Triotherm+, triple acristalamiento Saint-Gobain SGG, bandas precomprimidas. Cálculo Uw, rendimiento real, costes y procedimiento de instalación.',
-      it: 'Guida tecnica completa sistema nZEB: Salamander bluEvolution 92, precornici Blaugelb Triotherm+, triplo vetro Saint-Gobain SGG, nastri precompressi. Calcolo Uw, prestazioni reali, costi e procedura di installazione.',
+      it: 'Guida tecnica completa sistema nZEB: Salamander bluEvolution 92, controtelai Blaugelb Triotherm+, triplo vetro Saint-Gobain SGG, nastri precompressi. Calcolo Uw, prestazioni reali, costi e procedura di installazione.',
     },
     excerpt: {
       ro: 'Ce înseamnă cu adevărat un sistem de ferestre nZEB? Ghid tehnic complet: cum se combină profilul Salamander bluEvolution 92 cu precadrele Blaugelb Triotherm+, geamul triplu Saint-Gobain și benzile precomprimate pentru a atinge Uw ≤ 0,8 W/(m²K).',
@@ -3823,7 +3857,7 @@ Per ristrutturazioni residenziali, il Salamander bluEvolution 82 (6 camere, 82 m
       de: 'Was bedeutet ein nZEB-Fenstersystem wirklich? Vollständiger technischer Leitfaden: wie Salamander bluEvolution 92 Profil mit Blaugelb Triotherm+ Vorblendrahmen, Saint-Gobain Dreifachverglasung und vorkomprimierten Bändern kombiniert wird, um Uw ≤ 0,8 W/(m²K) zu erreichen.',
       fr: `Que signifie réellement un système de fenêtres nZEB ? Guide technique complet : comment le profilé Salamander bluEvolution 92 se combine avec les précadres Blaugelb Triotherm+, le triple vitrage Saint-Gobain et les bandes précomprimées pour atteindre Uw ≤ 0,8 W/(m²K).`,
       es: '¿Qué significa realmente un sistema de ventanas nZEB? Guía técnica completa: cómo se combina el perfil Salamander bluEvolution 92 con los premarcos Blaugelb Triotherm+, el triple acristalamiento Saint-Gobain y las bandas precomprimidas para alcanzar Uw ≤ 0,8 W/(m²K).',
-      it: `Cosa significa veramente un sistema di finestre nZEB? Guida tecnica completa: come il profilo Salamander bluEvolution 92 si combina con le precornici Blaugelb Triotherm+, il triplo vetro Saint-Gobain e i nastri precompressi per raggiungere Uw ≤ 0,8 W/(m²K).`,
+      it: `Cosa significa veramente un sistema di finestre nZEB? Guida tecnica completa: come il profilo Salamander bluEvolution 92 si combina con i controtelai Blaugelb Triotherm+, il triplo vetro Saint-Gobain e i nastri precompressi per raggiungere Uw ≤ 0,8 W/(m²K).`,
     },
     keywords: 'sistem nZEB ferestre, Salamander bluEvolution 92 nZEB, precadre Blaugelb Triotherm, geam triplu Saint-Gobain, benzi precomprimate ferestre, montaj nZEB Bucuresti, ferestre casa pasiva, Uw 0.8 ferestre, nZEB Romania',
     dateDisplay: {
@@ -3952,6 +3986,8 @@ Pe lângă amortizarea financiară, sistemul nZEB îmbunătățește semnificati
 6. **Introducerea pachetului de sticlă** și reglarea feronieriei Roto NT
 7. **Siliconarea exterioară** cu silicon neutru UV-rezistent
 8. **Montarea glafurilor** interior (PVC) și exterior (aluminiu cu picurătoare)
+
+Detaliile de montaj cu precadre Blaugelb Triotherm+ sunt tratate pas cu pas aici: [Montaj cu precadre Blaugelb Triotherm+ — de ce este obligato](/ro/blog/montaj-precadre-blaugelb-nzeb).
 
 ---
 Neofort BIZ montează sisteme nZEB complete în București și Ilfov — profil Salamander bluEvolution 92, precadre Blaugelb Triotherm+, geam triplu Saint-Gobain, benzi precomprimate Illbruck. [Solicită ofertă tehnică](/ro/contact). Vezi [sistemele nZEB](/ro/sisteme-nzeb) pe care le oferim.
@@ -4269,7 +4305,7 @@ nZEB — Nearly Zero Energy Building — non è una certificazione opzionale. È
 
 **Uw per finestra completa (100×120 cm): 0,72 W/(m²K)** — 49% meno dispersioni rispetto al doppio vetro (Uw = 1,4)
 
-## Componente 3 — Precornici Blaugelb Triotherm+
+## Componente 3 — Controtelai Blaugelb Triotherm+
 
 La precornice viene montata prima della finestra, nel piano di isolamento termico del muro. Il suo materiale composito ha λ = 0,035 W/mK:
 - Riduce il ponte termico lineare ψ da 0,08 a 0,01 W/mK
@@ -4293,7 +4329,7 @@ Tre zone secondo la norma RAL:
 - Periodo di ammortamento: 10-13 anni
 
 ---
-Neofort BIZ installa sistemi nZEB completi a Bucarest e Ilfov — Salamander bluEvolution 92, precornici Blaugelb Triotherm+, triplo vetro Saint-Gobain, nastri Illbruck. [Richiedere preventivo tecnico](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
+Neofort BIZ installa sistemi nZEB completi a Bucarest e Ilfov — Salamander bluEvolution 92, controtelai Blaugelb Triotherm+, triplo vetro Saint-Gobain, nastri Illbruck. [Richiedere preventivo tecnico](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
 
 ## Domande frequenti
 
@@ -5286,7 +5322,7 @@ Taglio termico 34 mm, Uf = 1,3 W/(m²K) al profilo — con triplo vetro e Low-E 
 
 **Chiedere esplicitamente:**
 - L'installazione con nastri precompressi Illbruck o equivalente è inclusa?
-- Le precornici Blaugelb Triotherm+ sono disponibili e a quale costo aggiuntivo?
+- I controtelai Blaugelb Triotherm+ sono disponibili e a quale costo aggiuntivo?
 
 ## Segnali che un fornitore è serio
 
@@ -5299,7 +5335,7 @@ Taglio termico 34 mm, Uf = 1,3 W/(m²K) al profilo — con triplo vetro e Low-E 
 3. **Misurazioni in loco** — il nostro team viene e misura le aperture esatte
 4. **Preventivo personalizzato in 48 ore** — con specifiche tecniche complete e trasparenti
 5. **Produzione e consegna** — 7–14 giorni lavorativi per profili standard
-6. **Installazione nZEB** — team propri con nastri Illbruck e precornici Blaugelb
+6. **Installazione nZEB** — team propri con nastri Illbruck e controtelai Blaugelb
 7. **Garanzia di 5 anni** su prodotto e manodopera
 
 ---
@@ -5384,7 +5420,7 @@ Un doppio vetro standard ha Uw = 1,3-1,6 W/(m²K), sopra la soglia nZEB di 1,0 W
       de: 'Fenster-Perimeterdämmung Rumänien 2026 — Polyurethanschaum vs. vorkomprimiertes Band vs. Blaugelb-Vorblendrahmen. Vollständiger Vergleich, Kosten, wann was gilt und was der nZEB-Standard verlangt.',
       fr: "Isolation périphérique fenêtres Roumanie 2026 — mousse polyuréthane vs bande précomprimée vs précadres Blaugelb. Comparaison complète, coûts, quand chaque solution s'applique et ce que la norme nZEB exige.",
       es: 'Aislamiento perimetral ventanas Rumanía 2026 — espuma de poliuretano vs banda precomprimida vs premarcos Blaugelb. Comparación completa, costes, cuándo se aplica cada uno y qué exige la norma nZEB.',
-      it: `Isolamento perimetrale finestre Romania 2026 — schiuma poliuretanica vs nastro precompresso vs precornici Blaugelb. Confronto completo, costi, quando si applica ciascuno e cosa richiede lo standard nZEB.`,
+      it: `Isolamento perimetrale finestre Romania 2026 — schiuma poliuretanica vs nastro precompresso vs controtelai Blaugelb. Confronto completo, costi, quando si applica ciascuno e cosa richiede lo standard nZEB.`,
     },
     excerpt: {
       ro: 'Izolația perimetrală a ferestrelor e cea mai neglijată componentă a unui montaj de calitate. Ghid complet: diferența dintre spumă, bandă precomprimată și precadre Blaugelb, costurile reale și ce standard nZEB impune în România 2026.',
@@ -5392,7 +5428,7 @@ Un doppio vetro standard ha Uw = 1,3-1,6 W/(m²K), sopra la soglia nZEB di 1,0 W
       de: 'Die Fenster-Perimeterdämmung ist die am häufigsten vernachlässigte Komponente einer Qualitätsmontage. Vollständiger Ratgeber: Unterschied zwischen Schaum, vorkomprimiertem Band und Blaugelb-Vorblendrahmen, reale Kosten und was der nZEB-Standard in Rumänien 2026 verlangt.',
       fr: "L'isolation périphérique des fenêtres est le composant le plus négligé d'une pose de qualité. Guide complet : la différence entre mousse, bande précomprimée et précadres Blaugelb, coûts réels et ce que la norme nZEB exige en Roumanie 2026.",
       es: 'El aislamiento perimetral de ventanas es el componente más descuidado de una instalación de calidad. Guía completa: la diferencia entre espuma, banda precomprimida y premarcos Blaugelb, costes reales y qué exige la norma nZEB en Rumanía 2026.',
-      it: `L'isolamento perimetrale delle finestre è il componente più trascurato di un'installazione di qualità. Guida completa: la differenza tra schiuma, nastro precompresso e precornici Blaugelb, costi reali e cosa richiede lo standard nZEB in Romania nel 2026.`,
+      it: `L'isolamento perimetrale delle finestre è il componente più trascurato di un'installazione di qualità. Guida completa: la differenza tra schiuma, nastro precompresso e controtelai Blaugelb, costi reali e cosa richiede lo standard nZEB in Romania nel 2026.`,
     },
     keywords: 'izolatie perimetrala ferestre, benzi precomprimate ferestre Romania, precadre Blaugelb Triotherm, montaj nZEB ferestre, spuma poliuretanica vs banda precomprimata, izolatie rost ferestre, montaj profesional ferestre Bucuresti, puntii termice ferestre',
     dateDisplay: {
@@ -5927,7 +5963,7 @@ In Romania, lo standard **nZEB** — obbligatorio per le nuove costruzioni dal 2
 
 **Conclusione:** Nastro precompresso = standard minimo per installazione professionale nZEB.
 
-### Opzione 3 — Precornici termoisolanti Blaugelb Triotherm+ (nZEB premium)
+### Opzione 3 — Controtelai termoisolanti Blaugelb Triotherm+ (nZEB premium)
 
 **Come funziona:** La precornice Blaugelb Triotherm+ è un telaio in materiale composito termico (conduttività termica λ = 0,035 W/mK) montato **prima della finestra**. La finestra viene successivamente montata sulla precornice, non direttamente nella muratura.
 
@@ -5958,7 +5994,7 @@ Secondo la **Legge 372/2005** (modificata) e il **GD 765/2016**, qualsiasi nuovo
 
 ---
 
-Neofort BIZ installa con nastri Illbruck e precornici Blaugelb Triotherm+ a Bucarest e Ilfov. [Richiedere preventivo installazione nZEB](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
+Neofort BIZ installa con nastri Illbruck e controtelai Blaugelb Triotherm+ a Bucarest e Ilfov. [Richiedere preventivo installazione nZEB](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
 
 ## Domande frequenti
 
@@ -6606,7 +6642,7 @@ Non sono adatte per condomini con facciata comune, dove la posa richiede l'appro
       de: 'Salamander-Fenstermontage in Bukarest — vollständige Schritte, vorkomprimierte Bänder, Blaugelb-Vorblendrahmen, nZEB, häufige Fehler und wie man ein seriöses Montageunternehmen wählt 2026.',
       fr: "Installation de fenêtres Salamander à Bucarest — étapes complètes, bandes précomprimées, précadres Blaugelb, nZEB, erreurs fréquentes et comment choisir une entreprise de pose sérieuse en 2026.",
       es: 'Instalación de ventanas Salamander en Bucarest — pasos completos, bandas precomprimidas, premarcos Blaugelb, nZEB, errores frecuentes y cómo elegir una empresa de instalación seria en 2026.',
-      it: `Installazione finestre Salamander a Bucarest — fasi complete, nastri precompressi, precornici Blaugelb, nZEB, errori comuni e come scegliere un'azienda di installazione seria nel 2026.`,
+      it: `Installazione finestre Salamander a Bucarest — fasi complete, nastri precompressi, controtelai Blaugelb, nZEB, errori comuni e come scegliere un'azienda di installazione seria nel 2026.`,
     },
     excerpt: {
       ro: 'Montajul corect al termopanelor Salamander în București înseamnă mult mai mult decât înlocuirea geamurilor. Ghid complet: benzi precomprimate, precadre Blaugelb nZEB, etapele montajului profesional și greșelile care costă.',
@@ -6614,7 +6650,7 @@ Non sono adatte per condomini con facciata comune, dove la posa richiede l'appro
       de: 'Die korrekte Montage von Salamander-Fenstern in Bukarest bedeutet weit mehr als nur den Austausch von Fenstern. Vollständiger Leitfaden: vorkomprimierte Bänder, Blaugelb nZEB-Vorblendrahmen, professionelle Montageschritte und kostspielige Fehler.',
       fr: "L'installation correcte des fenêtres Salamander à Bucarest va bien au-delà du simple remplacement des fenêtres. Guide complet : bandes précomprimées, précadres Blaugelb nZEB, étapes de pose professionnelle et erreurs coûteuses.",
       es: 'La instalación correcta de ventanas Salamander en Bucarest significa mucho más que simplemente reemplazar ventanas. Guía completa: bandas precomprimidas, premarcos Blaugelb nZEB, pasos de instalación profesional y errores costosos.',
-      it: `L'installazione corretta delle finestre Salamander a Bucarest significa molto di più che sostituire semplicemente le finestre. Guida completa: nastri precompressi, precornici Blaugelb nZEB, fasi di installazione professionale ed errori costosi.`,
+      it: `L'installazione corretta delle finestre Salamander a Bucarest significa molto di più che sostituire semplicemente le finestre. Guida completa: nastri precompressi, controtelai Blaugelb nZEB, fasi di installazione professionale ed errori costosi.`,
     },
     keywords: 'montaj termopane Bucuresti, montaj ferestre Salamander, montaj nZEB Bucuresti, benzi precomprimate montaj geamuri, precadre Blaugelb, montaj termopane profesional, firme montaj termopane Bucuresti, montaj ferestre bluEvolution 92',
     dateDisplay: {
@@ -7026,8 +7062,8 @@ L'installazione professionale inizia sempre con **misurazioni in loco**, non con
 - Tipo di installazione scelto — **direttamente nella muratura** o **su precornice Blaugelb**
 - Necessità di davanzali interni (PVC o alluminio) ed esterni (alluminio)
 
-### Precornici Blaugelb Triotherm Plus — Lo standard nZEB
-Per nuove costruzioni e ristrutturazioni **nZEB**, Neofort BIZ utilizza **precornici Blaugelb Triotherm Plus**. La precornice viene montata prima della finestra e crea una barriera termica continua tra telaio e muratura, eliminando il ponte termico al perimetro della finestra.
+### Controtelai Blaugelb Triotherm Plus — Lo standard nZEB
+Per nuove costruzioni e ristrutturazioni **nZEB**, Neofort BIZ utilizza **controtelai Blaugelb Triotherm Plus**. La precornice viene montata prima della finestra e crea una barriera termica continua tra telaio e muratura, eliminando il ponte termico al perimetro della finestra.
 
 ## Fase 2 — Rimozione delle vecchie finestre
 
@@ -7064,11 +7100,11 @@ Dopo l'installazione, la ferramenta Roto NT o Winkhaus deve essere **regolata co
 
 ## Come scegliere un'azienda seria di installazione a Bucarest
 
-✅ L'azienda viene obbligatoriamente per **misurazioni in loco** (non accetta ordini basati su misure del cliente)✅ Usa **nastri precompressi** (chiedere esplicitamente — non schiuma all'esterno)✅ Offre un **contratto scritto** con le specifiche tecniche complete✅ Garanzia minima di **5 anni** su prodotto e manodopera✅ Squadre di installazione proprie, non subappaltatori✅ Precornici Blaugelb o equivalente per progetti nZEB
+✅ L'azienda viene obbligatoriamente per **misurazioni in loco** (non accetta ordini basati su misure del cliente)✅ Usa **nastri precompressi** (chiedere esplicitamente — non schiuma all'esterno)✅ Offre un **contratto scritto** con le specifiche tecniche complete✅ Garanzia minima di **5 anni** su prodotto e manodopera✅ Squadre di installazione proprie, non subappaltatori✅ Controtelai Blaugelb o equivalente per progetti nZEB
 
 ---
 
-Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Illbruck e precornici Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contatti). Vedi tutta la gamma di [gli infissi PVC Salamander](/it/infissi-pvc) che montiamo.
+Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Illbruck e controtelai Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contatti). Vedi tutta la gamma di [gli infissi PVC Salamander](/it/infissi-pvc) che montiamo.
 
 ## Domande frequenti
 
@@ -7669,7 +7705,7 @@ Il prezzo di un sistema di finestre Salamander dipende da **6 fattori principali
 - **Installazione professionale nZEB** (nastri precompressi + ancoraggi) — +20–30% vs standard
 - **Davanzali interni PVC** — 16–30 €/ml
 - **Davanzali esterni alluminio** — 20–40 €/ml
-- **Precornici Blaugelb** — 40–80 €/pezzo, obbligatorie per nZEB
+- **Controtelai Blaugelb** — 40–80 €/pezzo, obbligatorie per nZEB
 
 ## Prezzi indicativi finestre Salamander Bucarest 2026
 
@@ -9120,7 +9156,7 @@ Sì. Il BluEvolution 92 Rivestito in Alluminio è il profilo in PVC ricoperto co
       de: 'Montage mit Blaugelb Triotherm+ — Warum es für die nZEB-Zertifizierung obligatorisch ist',
       fr: 'Pose avec précadres Blaugelb Triotherm+ — pourquoi c\'est obligatoire pour la certification nZEB',
       es: 'Montaje con premarcos Blaugelb Triotherm+ — por qué es obligatorio para la certificación nZEB',
-      it: 'Montaggio con precontrotelaio Blaugelb Triotherm+ — perché è obbligatorio per la certificazione nZEB',
+      it: 'Montaggio con controtelai Blaugelb Triotherm+ — perché è obbligatorio per la certificazione nZEB',
     },
     excerpt: {
       ro: 'Un profil PVC performant montat greșit pierde 40% din eficiența termică. Descoperă cum precadrele Blaugelb Triotherm+ elimină punțile termice și de ce sunt esențiale pentru nZEB.',
@@ -9128,7 +9164,7 @@ Sì. Il BluEvolution 92 Rivestito in Alluminio è il profilo in PVC ricoperto co
       de: 'Ein hochwertiges PVC-Profil falsch eingebaut verliert 40% Wärmedämmleistung. Wie Blaugelb Triotherm+ Wärmebrücken eliminiert.',
       fr: 'Un profil PVC performant mal posé perd 40% d\'efficacité thermique. Comment les précadres Blaugelb Triotherm+ éliminent les ponts thermiques.',
       es: 'Un perfil PVC instalado incorrectamente pierde el 40% de eficiencia térmica. Cómo los premarcos Blaugelb Triotherm+ eliminan los puentes térmicos.',
-      it: 'Un profilo PVC installato in modo errato perde il 40% di efficienza termica. Come i precontrotelaio Blaugelb Triotherm+ eliminano i ponti termici.',
+      it: 'Un profilo PVC installato in modo errato perde il 40% di efficienza termica. Come i controtelai Blaugelb Triotherm+ eliminano i ponti termici.',
     },
     metaDesc: {
       ro: 'Ghid complet montaj precadre Blaugelb Triotherm+ pentru izolare perimetrală nZEB. De ce sunt obligatorii, cum se montează corect și cât costă față de montajul clasic.',
@@ -9136,7 +9172,7 @@ Sì. Il BluEvolution 92 Rivestito in Alluminio è il profilo in PVC ricoperto co
       de: 'Vollständiger Leitfaden für die Montage von Blaugelb Triotherm+ Vorfenstern für nZEB. Warum notwendig, korrekte Montageschritte und Kosten.',
       fr: 'Guide complet pour la pose des précadres Blaugelb Triotherm+ pour le nZEB. Pourquoi obligatoires, étapes de pose correcte et coûts.',
       es: 'Guía completa para la instalación de premarcos Blaugelb Triotherm+ para nZEB. Por qué son obligatorios, pasos de instalación correcta y costes.',
-      it: `Guida completa per l'installazione di precontrotelaio Blaugelb Triotherm+ per nZEB. Perché obbligatori, passi di installazione corretta e costi.`,
+      it: `Guida completa per l'installazione di controtelai Blaugelb Triotherm+ per nZEB. Perché obbligatori, passi di installazione corretta e costi.`,
     },
     keywords: 'precadre Blaugelb Triotherm, montaj tamplarie nZEB, puntii termice ferestre, izolare perimetrala ferestre, banda precomprimata, montaj corect PVC',
     content: {
@@ -9681,11 +9717,11 @@ Potete acquistare il [profilo PVC Salamander](/it/infissi-pvc) BluEvolution 92 p
 
 Perché? A causa dei **ponti termici perimetrali** — le aree attorno alla finestra dove il calore interno fuoriesce direttamente verso l'esterno attraverso il materiale da costruzione.
 
-I precontrotelaio **Blaugelb Triotherm+** esistono proprio per risolvere questo problema. E per le costruzioni che devono raggiungere lo **[standard nZEB](/it/sistemi-nzeb)**, il loro utilizzo è tecnicamente obbligatorio.
+I controtelai **Blaugelb Triotherm+** esistono proprio per risolvere questo problema. E per le costruzioni che devono raggiungere lo **[standard nZEB](/it/sistemi-nzeb)**, il loro utilizzo è tecnicamente obbligatorio.
 
 ---
 
-## Cosa sono i precontrotelaio Blaugelb Triotherm+?
+## Cosa sono i controtelai Blaugelb Triotherm+?
 
 Blaugelb è un produttore tedesco specializzato esclusivamente in sistemi di installazione per serramenti. **Triotherm+** è la gamma di punta per l'isolamento perimetrale completo.
 
@@ -9752,7 +9788,7 @@ I davanzali interni vengono fissati al precassonetto, non alla muratura — elim
 
 Un'installazione completa con Blaugelb Triotherm+ costa **15–25% in più** rispetto all'installazione standard. Per una casa con 12 finestre, la differenza: 1.500–3.000 EUR.
 
-**Recupero:** tramite risparmi sul riscaldamento del 20–35%, l'investimento si recupera in **3–6 anni**. Su 30 anni di vita della finestra, i risparmi netti superano di 5–8 volte il costo aggiuntivo dei precontrotelaio.
+**Recupero:** tramite risparmi sul riscaldamento del 20–35%, l'investimento si recupera in **3–6 anni**. Su 30 anni di vita della finestra, i risparmi netti superano di 5–8 volte il costo aggiuntivo dei controtelai.
 
 ---
 
@@ -11887,6 +11923,8 @@ The best thermal break window becomes useless if installed incorrectly. At Neofo
 
 Without these 4 elements, nZEB certification is not possible, regardless of the profile quality.
 
+See also the comparison of the best aluminium doors for Sector 1: [Best Aluminium Doors in Sector 1 Bucharest — Complete Guide ](/en/blog/best-aluminium-doors-sector-1-bucharest).
+
 ---
 
 ## Request a quote for Alumil aluminium windows
@@ -12002,6 +12040,8 @@ Das beste Wärmedämmfenster wird nutzlos, wenn es falsch eingebaut wird. Bei Ne
 
 Ohne diese 4 Elemente ist eine nZEB-Zertifizierung nicht möglich, unabhängig von der Profilqualität.
 
+Sehen Sie auch den Vergleich der besten Aluminiumtüren für Sektor 1: [Beste Aluminiumtüren in Sektor 1 Bukarest — Vollständiger Ra](/de/blog/beste-aluminiumtueren-sektor-1-bukarest).
+
 ---
 
 ## Angebot für Alumil-Aluminiumfenster anfragen
@@ -12093,6 +12133,8 @@ La meilleure fenêtre à rupture thermique devient inutile si elle est mal insta
 - **Ruban pare-vapeur** à l'intérieur — barrière à la diffusion de vapeur
 - **Espaceurs Warm Edge** dans le verre — éliminent le pont thermique en périphérie
 
+Voir aussi le comparatif des meilleures portes en aluminium pour le secteur 1: [Meilleures portes en aluminium dans le Secteur 1 Bucarest — ](/fr/blog/meilleures-portes-aluminium-secteur-1-bucarest).
+
 ---
 
 ## Demandez un devis pour les menuiseries aluminium Alumil
@@ -12183,6 +12225,8 @@ La mejor ventana con rotura de puente térmico se vuelve inútil si se instala i
 - **Cinta antivapor** en interior — barrera a la difusión de vapor
 - **Espaciadores Warm Edge** en el vidrio — eliminan el puente térmico en el perímetro
 
+Vea también la comparativa de las mejores puertas de aluminio para el Sector 1: [Mejores puertas de aluminio en el Sector 1 Bucarest — Guía c](/es/blog/mejores-puertas-aluminio-sector-1-bucarest).
+
 ---
 
 ## Solicite presupuesto para carpintería aluminio Alumil
@@ -12268,10 +12312,12 @@ L’alluminio copre una gamma molto più ampia delle normali finestre. A seconda
 
 La migliore finestra con taglio termico diventa inutile se installata in modo errato. Da Neofort BIZ utilizziamo sempre:
 
-- **Precornici Blaugelb Triotherm+** — eliminano il ponte termico nella zona di installazione
+- **Controtelai Blaugelb Triotherm+** — eliminano il ponte termico nella zona di installazione
 - **Nastro precompresso** all'esterno — tenuta al vento e all'acqua
 - **Nastro antivapore** all'interno — barriera alla diffusione del vapore
 - **Distanziatori Warm Edge** nel vetro — eliminano il ponte termico in periferia
+
+Vedete anche il confronto delle migliori porte in alluminio per il Settore 1: [Migliori porte in alluminio nel Settore 1 Bucarest — Guida c](/it/blog/migliori-porte-alluminio-settore-1-bucarest).
 
 ---
 
@@ -12529,6 +12575,8 @@ La peretele cortină structural, profilele de aluminiu sunt complet invizibile d
 ### Pentru ce clădiri se recomandă peretele cortină standard?
 
 Peretele cortină standard, cel mai accesibil ca preț, are profilul vizibil cu capace presoare, sticlă dublu sau triplu de 24-48 mm, rezistență la vânt clasa C3 și impermeabilitate clasa E1050. E recomandat pentru clădiri de birouri, spații comerciale, showroom-uri și hale industriale cu zonă de birou.
+
+Vezi și comparația celor mai bune uși din aluminiu pentru Sector 1: [Cele mai bune uși din aluminiu în Sector 1 București — Ghid ](/ro/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti).
 
 ---
 
@@ -15955,6 +16003,8 @@ No. Internal condensation, between the two glass panes, indicates a damaged peri
 
 The best time is alongside a general renovation, when the walls are stripped anyway. Old windows offer only 20-25 dB sound insulation, while a modern Salamander profile offers 38-47 dB, plus a significant reduction in heat loss.
 
+For an apartment, the full replacement process is described separately: [Replacing old windows with Salamander double glazing — compl](/en/blog/replacing-old-windows-apartment-renovation-bucharest).
+
 ---
 
 Neofort BIZ replaces old windows in apartments and houses in Bucharest and Ilfov, including removal, installation and finishing. See [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). See also [how long a PVC window lasts and when to replace it](/en/blog/how-long-do-pvc-windows-last-when-to-replace-them).`,
@@ -16019,6 +16069,8 @@ Nein. Inneres Kondensat zwischen den beiden Glasscheiben zeigt eine beschädigte
 ### Wann ist der beste Zeitpunkt für den Fensteraustausch?
 
 Der beste Zeitpunkt ist parallel zu einer Generalrenovierung, wenn die Wände ohnehin freigelegt sind. Alte Fenster bieten nur 20-25 dB Schalldämmung, während ein modernes Salamander-Profil 38-47 dB bietet, plus eine deutliche Reduzierung des Wärmeverlusts.
+
+Für eine Wohnung wird der komplette Austauschprozess separat beschrieben: [Alte Fenster durch Salamander ersetzen — Komplett-Renovierun](/de/blog/alte-fenster-ersetzen-wohnungsrenovierung-bukarest).
 
 ---
 
@@ -16085,6 +16137,8 @@ Non. La condensation interne, entre les deux vitres, indique un joint périmétr
 
 Le meilleur moment est en parallèle d'une rénovation générale, quand les murs sont de toute façon mis à nu. Les vieilles fenêtres n'offrent que 20-25 dB d'isolation acoustique, alors qu'un profilé Salamander moderne offre 38-47 dB, plus une réduction significative des pertes de chaleur.
 
+Pour un appartement, le processus complet de remplacement est décrit à part: [Remplacement fenêtres anciennes Salamander — guide complet r](/fr/blog/remplacement-fenetres-renovation-appartement-bucarest).
+
 ---
 
 Neofort BIZ remplace les anciennes fenêtres dans les appartements et maisons à Bucarest et Ilfov, dépose, pose et finitions comprises. Voir [la gamme de fenêtres PVC](/fr/menuiserie-pvc) ou [demandez un devis](/fr/contact). Voir aussi [la durée de vie d’une fenêtre PVC et quand la remplacer](/fr/blog/combien-de-temps-durent-les-fenetres-pvc-quand-les-remplacer).`,
@@ -16150,6 +16204,8 @@ No. La condensación interna, entre los dos vidrios, indica una junta perimetral
 
 El mejor momento es en paralelo a una reforma general, cuando los muros están de todas formas al descubierto. Las ventanas viejas ofrecen solo 20-25 dB de aislamiento acústico, mientras que un perfil Salamander moderno ofrece 38-47 dB, más una reducción significativa de las pérdidas de calor.
 
+Para un piso, el proceso completo de sustitución se describe aparte: [Sustitución ventanas antiguas Salamander — guía completa ren](/es/blog/sustitucion-ventanas-renovacion-apartamento-bucarest).
+
 ---
 
 Neofort BIZ sustituye ventanas antiguas en pisos y casas de Bucarest e Ilfov, con desmontaje, montaje y acabados incluidos. Ver [la gama de ventanas PVC](/es/carpinteria-pvc) o [solicita un presupuesto](/es/contacto). Ver también [cuánto dura una ventana de PVC y cuándo sustituirla](/es/blog/cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas).`,
@@ -16180,7 +16236,7 @@ Neofort BIZ sustituye ventanas antiguas en pisos y casas de Bucarest e Ilfov, co
 
 1. Scegliere per prezzo più basso — i profilati economici costano di più su 30 anni
 2. Non verificare la marca della ferramenta — insistere su Roto o Siegenia
-3. Posa senza precontrotelaio Blaugelb Triotherm+ — elimina 30–40% delle prestazioni termiche
+3. Posa senza controtelai Blaugelb Triotherm+ — elimina 30–40% delle prestazioni termiche
 4. Non ordinare i davanzali contemporaneamente — 40–60% più caro dopo
 5. Ignorare il tipo di vetro — richiedere sempre Low-E con argon
 
@@ -16214,6 +16270,8 @@ No. La condensa interna, tra le due lastre, indica una guarnizione perimetrale d
 ### Qual è il momento migliore per sostituire le finestre?
 
 Il momento migliore è in parallelo a una ristrutturazione generale, quando le pareti sono comunque a nudo. Le vecchie finestre offrono solo 20-25 dB di isolamento acustico, mentre un profilo Salamander moderno offre 38-47 dB, più una riduzione significativa delle dispersioni di calore.
+
+Per un appartamento, l’intero processo di sostituzione è descritto a parte: [Sostituzione finestre vecchie Salamander — guida completa ri](/it/blog/sostituzione-finestre-ristrutturazione-appartamento-bucarest).
 
 ---
 
@@ -16402,6 +16460,8 @@ Neofort BIZ livrează tâmplărie Salamander în toată Europa. Cel mai frecvent
 |---|---|
 | BluEvolution 92 FLEX, geam dublu Low-E, montaj standard | 12.000–18.000 EUR |
 | BluEvolution 92 ALU, geam triplu Low-E, montaj nZEB | 16.000–24.000 EUR |
+
+Pentru un apartament, procesul complet de înlocuire e descris separat: [Înlocuire ferestre vechi cu termopane Salamander — ghid comp](/ro/blog/inlocuire-ferestre-vechi-renovare-apartament-bucuresti).
 
 ---
 
@@ -20376,7 +20436,7 @@ Neofort BIZ installa sistemi ZipScreen con tessuti oscuranti e screen trasparent
       de: 'Energieeffiziente Fenster in Bukarest zu wählen bedeutet mehr als eine PVC-Kammeranzahl. Vollständiger Leitfaden 2026: was Uw, nZEB und Passivhaus bedeuten, warum Blaugelb Triotherm+ Vorfenster und Butylband mehr als das Profil zählen.',
       fr: "Choisir des fenêtres efficaces à Bucarest signifie bien plus qu\'un nombre de chambres PVC. Guide complet 2026 : ce que signifient Uw, nZEB et maison passive, pourquoi les précadres Blaugelb Triotherm+ comptent plus que le profil.",
       es: 'Elegir ventanas eficientes en Bucarest significa más que un número de cámaras PVC. Guía completa 2026: qué significan Uw, nZEB y Casa Pasiva, por qué los premarcos Blaugelb Triotherm+ importan más que el perfil.',
-      it: "Scegliere finestre efficienti a Bucarest significa più di un numero di camere PVC. Guida completa 2026: cosa significano Uw, nZEB e Casa Passiva, perché i precontrotelaio Blaugelb Triotherm+ contano più del profilo.",
+      it: "Scegliere finestre efficienti a Bucarest significa più di un numero di camere PVC. Guida completa 2026: cosa significano Uw, nZEB e Casa Passiva, perché i controtelai Blaugelb Triotherm+ contano più del profilo.",
     },
     metaDesc: {
       ro: 'Ferestre eficiente energetic București 2026: coeficient Uw nZEB ≤0.73, BluEvolution 92 vs GreenEvolution 76, precadre Blaugelb Triotherm, geam triplu Low-E argon, prețuri 280-420 EUR/mp. Ghid Neofort BIZ.',
@@ -20384,7 +20444,7 @@ Neofort BIZ installa sistemi ZipScreen con tessuti oscuranti e screen trasparent
       de: 'Energieeffiziente Fenster Bukarest 2026: Uw nZEB ≤0,73, BluEvolution 92 vs GreenEvolution 76, Blaugelb Triotherm Vorfenster, Dreifach-Low-E Argon, Preise 280–420 EUR/m². Neofort BIZ Leitfaden.',
       fr: 'Fenêtres efficaces Bucarest 2026 : Uw nZEB ≤0,73, BluEvolution 92 vs GreenEvolution 76, précadres Blaugelb Triotherm, triple Low-E argon, prix 280–420 EUR/m². Guide Neofort BIZ.',
       es: 'Ventanas eficientes Bucarest 2026: Uw nZEB ≤0,73, BluEvolution 92 vs GreenEvolution 76, premarcos Blaugelb Triotherm, triple Low-E argón, precios 280–420 EUR/m². Guía Neofort BIZ.',
-      it: 'Finestre efficienti Bucarest 2026: Uw nZEB ≤0,73, BluEvolution 92 vs GreenEvolution 76, precontrotelaio Blaugelb Triotherm, triplo Low-E argon, prezzi 280–420 EUR/m². Guida Neofort BIZ.',
+      it: 'Finestre efficienti Bucarest 2026: Uw nZEB ≤0,73, BluEvolution 92 vs GreenEvolution 76, controtelaio Blaugelb Triotherm, triplo Low-E argon, prezzi 280–420 EUR/m². Guida Neofort BIZ.',
     },
     keywords: 'ferestre eficiente energetic Bucuresti, nZEB ferestre Bucuresti 2026, Uw coeficient termic ferestre, BluEvolution 92 pret Bucuresti, GreenEvolution 76 vs BluEvolution 92, precadre Blaugelb Triotherm montaj, geam triplu Low-E argon, ferestre casa pasiva Ilfov',
     content: {
@@ -20844,7 +20904,7 @@ Bucarest ha uno dei climi più impegnativi d'Europa: **−15°C in inverno** e *
 
 ## Passo 3: Perché il sistema di posa conta più del profilo
 
-- **Precontrotelaio Blaugelb Triotherm+** — elimina il 30–40% del ponte termico alla giunzione
+- **Controtelaio Blaugelb Triotherm+** — elimina il 30–40% del ponte termico alla giunzione
 - **Nastro butilico precompresso** — tenuta contro pioggia/vento
 - **Schiuma PU a cellule chiuse** — resistente all'umidità 30+ anni
 - **Distanziatore Warm Edge** — elimina la condensazione marginale, riduce Uw di 0,1–0,2 W/m²K
@@ -25237,6 +25297,8 @@ Solicită **Declarația de Performanță (DoP)** și **certificatul IFT Rosenhei
 
 Dacă instalezi o pompă de căldură, această valoare devine decisivă: vezi [de ce contează Uw pentru randamentul pompei](/ro/blog/pompa-de-caldura-si-ferestre-de-ce-conteaza-uw).
 
+Dacă vrei să îmbunătățești izolația fără să schimbi ferestrele, sunt câteva soluții: [Cum pot îmbunătăți izolația termică a ferestrelor în Bucureș](/ro/blog/cum-imbunatatesc-izolatie-termica-ferestre-bucuresti).
+
 ---
 
 **Articole conexe:**
@@ -25344,6 +25406,8 @@ Salamander bluEvolution 92 + triple 52mm + Warm Edge spacer + Blaugelb Triotherm
 
 If you are installing a heat pump, this figure becomes decisive: see [why Uw determines the pump’s efficiency](/en/blog/heat-pump-and-windows-why-uw-matters).
 
+If you want to improve insulation without replacing the windows, there are a few options: [How Can I Improve Window Thermal Insulation in Bucharest? Co](/en/blog/how-to-improve-window-thermal-insulation-bucharest).
+
 ---
 
 Related: [nZEB Windows Guide Romania 2026](/en/blog/windows-nzeb-house-romania-complete-guide-2026) · [Triple vs Double Glazing Savings](/en/blog/triple-vs-double-glazing-real-savings-heating-cost) · [PVC vs Aluminium nZEB 2026](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide)
@@ -25409,6 +25473,8 @@ Salamander bluEvolution 92 + Dreifach 52mm + Warm-Edge-Abstandhalter + Blaugelb-
 
 Bei einer Wärmepumpe wird dieser Wert entscheidend: siehe [warum der Uw-Wert die Effizienz der Wärmepumpe bestimmt](/de/blog/waermepumpe-und-fenster-warum-der-uw-wert-zaehlt).
 
+Wenn Sie die Dämmung verbessern wollen, ohne die Fenster zu tauschen, gibt es Möglichkeiten: [Wie kann ich die Wärmedämmung der Fenster in Bukarest verbes](/de/blog/wie-verbessere-ich-die-waermedaemmung-der-fenster-in-bukarest).
+
 ---
 
 Neofort BIZ liefert Salamander PVC- und Alumil-Aluminiumfenster mit Uw ab 0,66 W/(m²K). [Kostenloses Beratungsgespräch](/de/kontakt). Sehen Sie [Salamander PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten.`,
@@ -25467,6 +25533,8 @@ Ug est le coefficient du vitrage. Double argon : Ug = 1,0 W/(m²K) ; Triple argo
 Non — la limite légale pour Bucarest (Zone II) est Uw ≤ 1,00 W/(m²K).
 
 Si vous installez une pompe à chaleur, cette valeur devient décisive : voir [pourquoi le Uw détermine le rendement de la pompe](/fr/blog/pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte).
+
+Pour améliorer l’isolation sans remplacer les fenêtres, plusieurs solutions existent: [Comment améliorer l'isolation thermique des fenêtres à Bucar](/fr/blog/comment-ameliorer-isolation-thermique-fenetres-bucarest).
 
 ---
 
@@ -25527,6 +25595,8 @@ No — el límite legal para Bucarest (Zona II) es Uw ≤ 1,00 W/(m²K).
 
 Si va a instalar una bomba de calor, este valor resulta decisivo: vea [por qué el Uw determina el rendimiento de la bomba](/es/blog/bomba-de-calor-y-ventanas-por-que-importa-el-uw).
 
+Para mejorar el aislamiento sin cambiar las ventanas, hay varias soluciones: [¿Cómo puedo mejorar el aislamiento térmico de las ventanas e](/es/blog/como-mejorar-aislamiento-termico-ventanas-bucarest).
+
 ---
 
 Neofort BIZ suministra ventanas PVC Salamander y aluminio Alumil con Uw desde 0,66 W/(m²K). [Consulta técnica gratuita](/es/contacto). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos.`,
@@ -25585,6 +25655,8 @@ Ug è il coefficiente del vetro. Doppio argon: Ug = 1,0 W/(m²K); Triplo argon: 
 No — il limite di legge per Bucarest (Zona II) è Uw ≤ 1,00 W/(m²K).
 
 Se installate una pompa di calore, questo valore diventa decisivo: vedete [perché l’Uw determina il rendimento della pompa](/it/blog/pompa-di-calore-e-finestre-perche-conta-uw).
+
+Per migliorare l’isolamento senza sostituire le finestre ci sono alcune soluzioni: [Come posso migliorare l'isolamento termico delle finestre a ](/it/blog/come-migliorare-isolamento-termico-finestre-bucarest).
 
 ---
 
@@ -26474,6 +26546,8 @@ Nu poți fi finanțat de două ori pentru aceeași lucrare prin axe diferite ale
 
 Dacă finanțarea vizează și o pompă de căldură, ordinea lucrărilor contează: detalii în [articolul despre pompa de căldură și ferestre](/ro/blog/pompa-de-caldura-si-ferestre-de-ce-conteaza-uw).
 
+Aproape orice program de finanțare cere certificat energetic — iată ce conține: [Certificatul energetic al unei clădiri: ce este, ce componen](/ro/blog/certificat-energetic-cladire-ce-este-componente-rol-ferestre).
+
 ---
 
 Neofort BIZ furnizează și montează tâmplărie PVC Salamander și aluminiu Alumil termoizolantă, conformă cerințelor de eficiență energetică, în București și Ilfov. [Solicită o ofertă pentru proiectul tău](/ro/contact). Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care le oferim.`,
@@ -26539,6 +26613,8 @@ The renovation must achieve a minimum 30% reduction in the home's energy consump
 You cannot be funded twice for the same work through different axes of the same programme. However, under certain conditions, you can combine renovation funding with local schemes or green bank loans for the non-contracted part.
 
 If the funding also covers a heat pump, the order of works matters: details in [the article on heat pumps and windows](/en/blog/heat-pump-and-windows-why-uw-matters).
+
+Almost every funding scheme requires an energy certificate — here is what it contains: [A building’s energy certificate: what it is, what components](/en/blog/building-energy-certificate-what-is-components-role-windows).
 
 ---
 
@@ -26606,6 +26682,8 @@ Sie können nicht zweimal für dieselbe Arbeit über verschiedene Achsen desselb
 
 Wenn die Förderung auch eine Wärmepumpe umfasst, zählt die Reihenfolge der Arbeiten: Einzelheiten im [Beitrag zu Wärmepumpe und Fenstern](/de/blog/waermepumpe-und-fenster-warum-der-uw-wert-zaehlt).
 
+Fast jedes Förderprogramm verlangt einen Energieausweis — das steht darin: [Der Energieausweis eines Gebäudes: was er ist, welche Kompon](/de/blog/gebaeude-energieausweis-was-ist-komponenten-rolle-fenster).
+
 ---
 
 Neofort BIZ liefert und montiert wärmedämmende Fenster aus Salamander-PVC und Alumil-Aluminium, konform mit den Energieeffizienzanforderungen, in Bukarest und Ilfov. [Fordern Sie ein Angebot für Ihr Projekt an](/de/kontakt). Sehen Sie [Salamander PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten.`,
@@ -26671,6 +26749,8 @@ La rénovation doit assurer une réduction d'au moins 30% de la consommation d'�
 Vous ne pouvez pas être financé deux fois pour le même travail via différents axes du même programme. Cependant, sous certaines conditions, vous pouvez combiner le financement de rénovation avec des dispositifs locaux ou des prêts bancaires verts pour la partie non contractée.
 
 Si le financement porte aussi sur une pompe à chaleur, l’ordre des travaux compte : détails dans [l’article sur pompe à chaleur et fenêtres](/fr/blog/pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte).
+
+Presque tout programme d’aide exige un certificat énergétique — voici son contenu: [Le certificat énergétique d’un bâtiment : ce qu’il est, ses ](/fr/blog/certificat-energetique-batiment-quest-ce-composants-role-fenetres).
 
 ---
 
@@ -26738,6 +26818,8 @@ No puedes recibir financiación dos veces por la misma obra mediante diferentes 
 
 Si la ayuda cubre también una bomba de calor, el orden de las obras importa: detalles en [el artículo sobre bomba de calor y ventanas](/es/blog/bomba-de-calor-y-ventanas-por-que-importa-el-uw).
 
+Casi toda ayuda exige un certificado energético — esto es lo que contiene: [El certificado energético de un edificio: qué es, qué compon](/es/blog/certificado-energetico-edificio-que-es-componentes-papel-ventanas).
+
 ---
 
 Neofort BIZ suministra e instala carpintería termoaislante de PVC Salamander y aluminio Alumil, conforme a los requisitos de eficiencia energética, en Bucarest e Ilfov. [Solicita un presupuesto para tu proyecto](/es/contacto). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos.`,
@@ -26803,6 +26885,8 @@ La ristrutturazione deve garantire una riduzione di almeno il 30% del consumo en
 Non puoi essere finanziato due volte per lo stesso lavoro attraverso assi diversi dello stesso programma. Tuttavia, a determinate condizioni, puoi combinare il finanziamento di ristrutturazione con schemi locali o prestiti bancari verdi per la parte non contrattualizzata.
 
 Se il finanziamento riguarda anche una pompa di calore, l’ordine dei lavori conta: dettagli nell’[articolo su pompa di calore e finestre](/it/blog/pompa-di-calore-e-finestre-perche-conta-uw).
+
+Quasi ogni incentivo richiede il certificato energetico — ecco cosa contiene: [Il certificato energetico di un edificio: cos’è, quali compo](/it/blog/certificato-energetico-edificio-cos-e-componenti-ruolo-finestre).
 
 ---
 
@@ -26894,6 +26978,8 @@ Legea 50/1991 prevede amenzi între 1.000 și 100.000 lei pentru lucrări execut
 ### Trebuie să anunț asociația de proprietari?
 Pentru înlocuirea identică nu este o obligație legală, dar este recomandat. Pentru lucrări care afectează fațada sau părțile comune, acordul asociației poate fi necesar conform regulamentului acesteia.
 
+La bloc mai intervine și acordul asociației de proprietari: [Pot schimba ferestrele la bloc fără acordul asociației? Ce s](/ro/blog/pot-schimba-ferestrele-bloc-fara-acordul-asociatiei-2026).
+
 ---
 
 Neofort BIZ montează tâmplărie PVC Salamander și aluminiu Alumil în București și Ilfov, respectând dimensiunile golurilor existente acolo unde nu se dorește autorizație. [Solicită o evaluare gratuită la fața locului](/ro/contact). Descoperă [gama de ferestre PVC](/ro/tamplarie-pvc) pe care le oferim.`,
@@ -26955,6 +27041,8 @@ Law 50/1991 provides fines between 1,000 and 100,000 lei for works carried out w
 
 ### Must I notify the owners' association?
 For identical replacement it is not a legal obligation, but it is recommended. For works that affect the façade or common areas, the association's approval may be required according to its regulations.
+
+In an apartment block, the owners association approval also comes into play: [Can I replace windows in an apartment block without the asso](/en/blog/can-i-replace-windows-apartment-block-without-association-approval-2026).
 
 ---
 
@@ -27018,6 +27106,8 @@ Das Gesetz 50/1991 sieht Bußgelder zwischen 1.000 und 100.000 Lei für ohne Gen
 ### Muss ich die Eigentümergemeinschaft informieren?
 Für den identischen Austausch ist es keine gesetzliche Pflicht, aber empfehlenswert. Für Arbeiten, die die Fassade oder Gemeinschaftsbereiche betreffen, kann die Zustimmung der Gemeinschaft gemäß ihrer Ordnung erforderlich sein.
 
+Im Wohnblock kommt zusätzlich die Zustimmung der Eigentümergemeinschaft hinzu: [Kann ich Fenster im Wohnblock ohne Zustimmung der Eigentümer](/de/blog/fenster-wohnblock-ohne-zustimmung-eigentuemergemeinschaft-2026).
+
 ---
 
 Neofort BIZ montiert Fenster aus Salamander-PVC und Alumil-Aluminium in Bukarest und Ilfov und behält dort die bestehenden Öffnungsmaße bei, wo keine Genehmigung gewünscht ist. [Fordern Sie eine kostenlose Vor-Ort-Bewertung an](/de/kontakt). Entdecken Sie [das PVC-Fenster-Sortiment](/de/kunststofffenster-pvc), die wir anbieten.`,
@@ -27079,6 +27169,8 @@ La loi 50/1991 prévoit des amendes entre 1 000 et 100 000 lei pour des travaux 
 
 ### Dois-je informer l'association de copropriétaires ?
 Pour le remplacement identique ce n'est pas une obligation légale, mais c'est recommandé. Pour les travaux qui affectent la façade ou les parties communes, l'accord de l'association peut être requis selon son règlement.
+
+En immeuble, l’accord de la copropriété entre aussi en jeu: [Puis-je remplacer les fenêtres en immeuble sans l’accord de ](/fr/blog/remplacer-fenetres-immeuble-sans-accord-association-coproprietaires-2026).
 
 ---
 
@@ -27142,6 +27234,8 @@ La ley 50/1991 prevé multas entre 1.000 y 100.000 lei para obras realizadas sin
 ### ¿Debo informar a la comunidad de propietarios?
 Para la sustitución idéntica no es una obligación legal, pero es recomendable. Para obras que afecten a la fachada o a las zonas comunes, la aprobación de la comunidad puede ser necesaria según su reglamento.
 
+En un bloque interviene además el acuerdo de la comunidad de propietarios: [¿Puedo cambiar las ventanas en un bloque sin el acuerdo de l](/es/blog/cambiar-ventanas-bloque-sin-acuerdo-comunidad-propietarios-2026).
+
 ---
 
 Neofort BIZ instala carpintería de PVC Salamander y aluminio Alumil en Bucarest e Ilfov, respetando las dimensiones de los huecos existentes donde no se desea permiso. [Solicita una evaluación gratuita in situ](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos.`,
@@ -27203,6 +27297,8 @@ La legge 50/1991 prevede multe tra 1.000 e 100.000 lei per lavori eseguiti senza
 
 ### Devo informare l'associazione dei proprietari?
 Per la sostituzione identica non è un obbligo legale, ma è raccomandato. Per lavori che interessano la facciata o le parti comuni, l'approvazione dell'associazione può essere richiesta secondo il suo regolamento.
+
+In condominio interviene anche il consenso dell’assemblea: [Posso sostituire le finestre in condominio senza il consenso](/it/blog/sostituire-finestre-condominio-senza-consenso-associazione-2026).
 
 ---
 
