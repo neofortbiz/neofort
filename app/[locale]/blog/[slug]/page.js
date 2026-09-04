@@ -22,10 +22,17 @@ export async function generateMetadata({ params }) {
   const a = getArticle(slug);
   if (!a) return {};
   const title  = a.title[locale]  || a.title.ro;
+  // v225: titlu scurt pentru <title>, ca sa nu fie taiat de Google.
+  // Sufixul " | Neofort BIZ" adauga 14 caractere, deci seoTitle tinteste ≤46.
+  // ATENTIE la fallback: daca limba curenta NU are seoTitle, se foloseste titlul
+  // LUNG AL ACELEI LIMBI, nu seoTitle romanesc — altfel ar aparea text romanesc
+  // pe paginile EN/DE/FR/ES/IT.
+  const seoTitle = a.seoTitle?.[locale] || title;
+  const metaTitle = `${seoTitle} | Neofort BIZ`;
   const desc   = a.metaDesc?.[locale] || a.excerpt[locale] || a.excerpt.ro;
   const mySlug = a.slugs[locale]  || a.slugs.ro;
   return {
-    title: `${title} | Neofort BIZ`,
+    title: metaTitle,
     description: desc,
     keywords: a.keywords || '',
     robots: {
@@ -40,7 +47,7 @@ export async function generateMetadata({ params }) {
       type: 'article',
       url: `${BASE}/${locale}/blog/${mySlug}`,
       siteName: 'Neofort BIZ',
-      title: `${title} | Neofort BIZ`,
+      title: metaTitle,
       description: desc,
       images: [{ url: a.imageOg ? `${BASE}${a.imageOg}` : `${BASE}/og/BLOG.jpg`, width: 1200, height: 630, alt: title, type: 'image/jpeg' }],
       publishedTime: a.date,

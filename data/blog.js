@@ -14,6 +14,7 @@ export const ARTICLES = [
       es: 'ventanas-casa-nzeb-rumania-guia-completa-2026',
       it: 'finestre-casa-nzeb-romania-guida-completa-2026',
     },
+    seoTitle: { ro: "Ce ferestre alegi pentru o casă nZEB" },
     date: '2026-05-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -1266,6 +1267,7 @@ Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnic
       es: 'triple-vs-doble-acristalamiento-ahorros-reales-calefaccion-precio',
       it: 'triplo-vs-doppio-vetro-risparmi-reali-riscaldamento-prezzo',
     },
+    seoTitle: { ro: "Tripan vs termopan: cât economisești" },
     date: '2026-05-12',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -2242,6 +2244,7 @@ Neofort BIZ installa triplo vetro Saint-Gobain SGG con Warm Edge a Bucarest e Il
       es: 'pvc-o-aluminio-casas-nzeb-2026-guia-completa',
       it: 'pvc-o-alluminio-case-nzeb-2026-guida-completa',
     },
+    seoTitle: { ro: "PVC sau aluminiu pentru case nZEB" },
     date: '2026-05-07',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -2671,6 +2674,7 @@ Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [
       es: 'mejores-puertas-aluminio-sector-1-bucarest',
       it: 'migliori-porte-alluminio-settore-1-bucarest',
     },
+    seoTitle: { ro: "Cele mai bune uși aluminiu Sector 1" },
     date: '2026-04-28',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -3211,6 +3215,7 @@ Alumil M19800 Smartia, compatibile con sistemi di controllo accessi (lettore di 
       es: 'como-mejorar-aislamiento-termico-ventanas-bucarest',
       it: 'come-migliorare-isolamento-termico-finestre-bucarest',
     },
+    seoTitle: { ro: "Cum îmbunătățești izolația ferestrelor" },
     date: '2026-05-03',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -3725,6 +3730,7 @@ Per ristrutturazioni residenziali, il Salamander bluEvolution 82 (6 camere, 82 m
       es: 'sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento',
       it: 'sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro',
     },
+    seoTitle: { ro: "Sistem nZEB: Salamander 92 + Blaugelb" },
     date: '2026-04-10',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -4278,6 +4284,7 @@ No. Il Salamander bluEvolution 92 usa esclusivamente stabilizzanti Calcio-Zinco 
       es: 'mito-pvc-toxico-seguridad-composicion-evolucion-ventanas',
       it: 'mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre',
     },
+    seoTitle: { ro: "Mitul PVC-ului toxic: ce spune știința" },
     date: '2026-04-04',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -4727,6 +4734,7 @@ Sono prodotti chimicamente diversi. Dal 2008, Salamander usa esclusivamente stab
       es: 'donde-pedir-ventanas-aislamiento-avanzado-bucarest',
       it: 'dove-ordinare-finestre-isolamento-avanzato-bucarest',
     },
+    seoTitle: { ro: "Termopane cu izolație avansată" },
     date: '2026-04-21',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -5273,6 +5281,7 @@ Un doppio vetro standard ha Uw = 1,3-1,6 W/(m²K), sopra la soglia nZEB di 1,0 W
       es: 'opciones-aislamiento-perimetral-ventanas-rumania-2026',
       it: 'opzioni-isolamento-perimetrale-finestre-romania-2026',
     },
+    seoTitle: { ro: "Izolație perimetrală ferestre: opțiuni" },
     date: '2026-04-23',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -5920,6 +5929,7 @@ Lo nZEB, obbligatorio per nuove costruzioni dal 2021 e ristrutturazioni importan
       es: 'donde-comprar-persianas-exteriores-bucarest',
       it: 'dove-comprare-veneziane-esterne-bucarest',
     },
+    seoTitle: { ro: "Unde cumperi umbrire exterioară" },
     date: '2026-04-09',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -6479,6 +6489,7 @@ Non sono adatte per condomini con facciata comune, dove la posa richiede l'appro
       es: 'como-instalar-correctamente-ventanas-salamander-bucarest',
       it: 'come-installare-correttamente-finestre-salamander-bucarest',
     },
+    seoTitle: { ro: "Cum se montează corect termopanele" },
     date: '2026-04-14',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -7013,6 +7024,7 @@ Sempre con misurazioni in loco, non con dimensioni approssimative. Il tecnico mi
       es: 'precios-ventanas-salamander-bucarest-2026',
       it: 'prezzi-finestre-salamander-bucarest-2026',
     },
+    seoTitle: { ro: "Prețuri ferestre Salamander București" },
     date: '2026-04-18',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -7640,6 +7652,7 @@ Il greenEvolution 76 (5-6 camere, 76 mm) è per abitazioni standard e ristruttur
       es: 'pergola-bioclimatica-vs-clasica-guia',
       it: 'pergola-bioclimatica-vs-classica-guida',
     },
+    seoTitle: { ro: "Pergolă bioclimatică vs clasică" },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -8041,6 +8054,7 @@ Neofort BIZ installa pergole bioclimatiche e classiche, con automazione Somfy, a
       es: 'bluevolution-92-vs-greenevolution-76-guia',
       it: 'bluevolution-92-vs-greenevolution-76-guida',
     },
+    seoTitle: { ro: "BluEvolution 92 vs GreenEvolution 76" },
     date: '2026-02-15',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -8968,6 +8982,7 @@ Sì. Il BluEvolution 92 Rivestito in Alluminio è il profilo in PVC ricoperto co
       es: 'instalacion-premarcos-blaugelb-triotherm-nzeb',
       it: 'installazione-precontrotelaio-blaugelb-triotherm-nzeb',
     },
+    seoTitle: { ro: "Precadre Blaugelb: de ce sunt necesare" },
     date: '2026-02-22',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -9673,6 +9688,7 @@ Neofort BIZ installa controtelai Blaugelb Triotherm+ e serramenti certificati nZ
       es: 'persianas-raffstore-vs-cierres-enrollables-aluminio',
       it: 'veneziane-raffstore-vs-tapparelle-alluminio',
     },
+    seoTitle: { ro: "Raffstore vs rulouri exterioare" },
     date: '2026-03-01',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -10510,6 +10526,7 @@ Neofort BIZ installa sia veneziane Raffstore che tapparelle in alluminio a Bucar
       es: 'exportacion-carpinteria-rumania-alemania',
       it: 'esportazione-serramenti-romania-germania',
     },
+    seoTitle: { ro: "Export tâmplărie în Germania: cum merge" },
     date: '2026-03-08',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -11431,6 +11448,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
       es: 'carpinteria-aluminio-rotura-termica-guia-completa',
       it: 'infissi-alluminio-taglio-termico-guida-completa',
     },
+    seoTitle: { ro: "Tâmplărie aluminiu cu barieră termică" },
     date: '2026-03-10',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -12169,6 +12187,7 @@ Non è consigliato. Senza taglio termico, l'alluminio è adatto solo all'interno
       es: 'muro-cortina-fachada-vidrio-guia-completa',
       it: 'parete-cortina-facciata-vetro-guida-completa',
     },
+    seoTitle: { ro: "Pereți cortină și fațade din sticlă" },
     date: '2026-03-15',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -12827,6 +12846,7 @@ Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfo
       es: 'zipscreen-sombreado-terraza-guia-completa',
       it: 'zipscreen-ombreggiatura-terrazza-guida-completa',
     },
+    seoTitle: { ro: "Sisteme de umbrire exterioară: ghid" },
     date: '2026-03-15',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -13458,6 +13478,7 @@ Sì. Grazie alla cerniera ZIP che blocca i bordi del tessuto nelle guide, lo Zip
       es: 'precios-doble-acristalamiento-salamander-bucarest',
       it: 'prezzi-doppio-vetro-salamander-bucarest',
     },
+    seoTitle: { ro: "Prețuri termopane Salamander 2026" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -13860,6 +13881,7 @@ Neofort BIZ fornisce sistemi Salamander per case, appartamenti e progetti export
       es: 'precios-carpinteria-aluminio-alumil-aluprof-cortizo-reynaers-bucarest',
       it: 'prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest',
     },
+    seoTitle: { ro: "Prețuri tâmplărie aluminiu: 4 mărci" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -14246,6 +14268,7 @@ Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilf
       es: 'carpinteria-aluminio-smart-home-ventanas-puertas-automatizadas',
       it: 'infissi-alluminio-smart-home-finestre-porte-automatizzate',
     },
+    seoTitle: { ro: "Ferestre și uși inteligente din aluminiu" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -14845,6 +14868,7 @@ Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfo
       es: 'muro-cortina-edificios-oficinas-bucarest-guia-completa-2026',
       it: 'parete-cortina-edifici-uffici-bucarest-guida-completa-2026',
     },
+    seoTitle: { ro: "Pereți cortină pentru clădiri de birouri" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -15483,6 +15507,7 @@ Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilf
       es: 'sustitucion-ventanas-renovacion-apartamento-bucarest',
       it: 'sostituzione-finestre-ristrutturazione-appartamento-bucarest',
     },
+    seoTitle: { ro: "Înlocuire ferestre vechi în apartament" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -16031,6 +16056,7 @@ Neofort BIZ sostituisce vecchie finestre in appartamenti e case a Bucarest e Ilf
       es: 'carpinteria-salamander-casas-individuales-villas-exportacion-europa',
       it: 'infissi-salamander-case-individuali-ville-esportazione-europa',
     },
+    seoTitle: { ro: "Tâmplărie Salamander pentru case și vile" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -16614,6 +16640,7 @@ Il BluEvolution 92 ALU è rivestito in alluminio all'esterno, combinando l'estet
       es: 'carpinteria-aluminio-reynaers-bloque-nueva-construccion-bucarest',
       it: 'infissi-alluminio-reynaers-condominio-nuova-costruzione-bucarest',
     },
+    seoTitle: { ro: "Tâmplărie Reynaers pentru blocuri noi" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -17061,6 +17088,7 @@ Su un nuovo edificio con facciata moderna, l'alluminio Reynaers offre linee arch
       es: 'salamander-bluevolution-92-casa-nueva-smart-home-bucarest',
       it: 'salamander-bluevolution-92-casa-nuova-smart-home-bucarest',
     },
+    seoTitle: { ro: "BluEvolution 92 la casă smart: lucrare" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -17529,6 +17557,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
       es: 'salamander-bluevolution-92-alu-revestido-aluminio-exportacion-francia-casa-montana',
       it: 'salamander-bluevolution-92-alu-rivestito-alluminio-esportazione-francia-casa-montagna',
     },
+    seoTitle: { ro: "BluEvolution 92 ALU: export casă munte" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -17968,6 +17997,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
       es: 'vitrinas-cristal-ventanas-panoramicas-grandes-dimensiones-securizadas-bucarest',
       it: 'vetrine-vetro-finestre-panoramiche-grandi-dimensioni-securizzate-bucarest',
     },
+    seoTitle: { ro: "Vitrine și geamuri panoramice mari" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -18475,6 +18505,7 @@ Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilf
       es: 'instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles',
       it: 'posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli',
     },
+    seoTitle: { ro: "Montaj geamuri agabaritice cu robot" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -18998,6 +19029,7 @@ Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfo
       es: 'carpinteria-aluminio-muros-cortina-fachadas-vidrio-proyectos-bucarest',
       it: 'infissi-alluminio-pareti-cortina-facciate-vetro-progetti-bucarest',
     },
+    seoTitle: { ro: "Pereți cortină: lucrări în București" },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -19477,6 +19509,7 @@ Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilf
       es: 'persianas-zipscreen-blackout-o-transparente-como-elegir',
       it: 'tende-zipscreen-oscuranti-o-trasparenti-come-scegliere',
     },
+    seoTitle: { ro: "Zipscreen blackout sau transparent?" },
     date: '2026-03-21',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -20064,6 +20097,7 @@ Neofort BIZ installa sistemi ZipScreen con tessuti oscuranti e screen trasparent
       es: 'como-elegir-ventanas-eficientes-energeticamente-bucarest-nzeb-2026',
       it: 'come-scegliere-finestre-efficienti-energeticamente-bucarest-nzeb-2026',
     },
+    seoTitle: { ro: "Cum alegi ferestre eficiente energetic" },
     date: '2026-03-21',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -20623,6 +20657,7 @@ Uno studio INCERC mostra che sostituire le vecchie finestre con serramenti nZEB 
       es: 'donde-encontrar-ventanas-salamander-con-entrega-internacional',
       it: 'dove-trovare-finestre-salamander-con-consegna-internazionale',
     },
+    seoTitle: { ro: "Ferestre Salamander cu livrare în UE" },
     date: '2026-03-21',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -21037,6 +21072,7 @@ Neofort BIZ fornisce sistemi Salamander per case, appartamenti e progetti export
       es: 'donde-pedir-puertas-aluminio-sector-1-bucarest',
       it: 'dove-ordinare-porte-alluminio-settore-1-bucarest',
     },
+    seoTitle: { ro: "Unde comanzi uși aluminiu Sector 1" },
     date: '2026-03-21',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -21509,6 +21545,7 @@ Una porta a battente in alluminio con taglio termico può raggiungere dimensioni
       es: 'ventana-pvc-oscilobatiente-doble-salamander',
       it: 'finestra-pvc-anta-ribalta-doppia-salamander',
     },
+    seoTitle: { ro: "Tâmplărie PVC osciloculisantă dublă" },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -22037,6 +22074,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
       es: 'puerta-corredera-pvc-salamander-evolutiondrive-plus-mosquitera-plise',
       it: 'porta-scorrevole-pvc-salamander-evolutiondrive-plus-zanzariera-plisse',
     },
+    seoTitle: { ro: "Ușă culisantă PVC cu plasă plissé" },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -22400,6 +22438,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
       es: 'instalacion-carpinteria-salamander-evolutiondrive-plus-corredera-alumil-m19800-plegable',
       it: 'posa-serramenti-salamander-evolutiondrive-plus-scorrevole-alumil-m19800-pieghevole',
     },
+    seoTitle: { ro: "Montaj ușă culisantă și armonică" },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -23296,6 +23335,7 @@ Neofort BIZ fornisce sistemi Salamander per case, appartamenti e progetti export
       es: 'puerta-entrada-antirrobo-control-tactil-huella-dactilar-aluminio',
       it: 'porta-ingresso-antieffrazione-comando-tattile-impronta-digitale-alluminio',
     },
+    seoTitle: { ro: "Uși antiefracție cu amprentă digitală" },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -23747,6 +23787,7 @@ Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfo
       es: 'somfy-motores-persianas',
       it: 'somfy-motori-tapparelle',
     },
+    seoTitle: { ro: "Motor Somfy pentru rulouri exterioare" },
     date: '2026-02-10',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -24071,6 +24112,7 @@ Neofort BIZ installa tapparelle esterne con motorizzazione Somfy a Bucarest e Il
       es: 'somfy-automatizacion-pergola-toldo',
       it: 'somfy-automazione-pergola-tenda',
     },
+    seoTitle: { ro: "Automatizare Somfy pentru pergole" },
     date: '2026-01-15',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -24383,6 +24425,7 @@ Neofort BIZ installa e automatizza pergole bioclimatiche e tende con motori Somf
       es: 'somfy-tahoma-hogar-inteligente-bucarest',
       it: 'somfy-tahoma-casa-intelligente-bucarest',
     },
+    seoTitle: { ro: "Somfy TaHoma: casa dintr-o aplicație" },
     date: '2025-12-08',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -24723,6 +24766,7 @@ Neofort BIZ integra tapparelle, veneziane e pergole in sistemi smart home TaHoma
       es: 'que-coeficiente-termico-deben-tener-las-ventanas',
       it: 'quale-coefficiente-termico-devono-avere-le-finestre',
     },
+    seoTitle: { ro: "Ce coeficient termic Uw să aibă geamul" },
     date: '2026-05-22',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -25248,6 +25292,7 @@ Neofort BIZ fornisce finestre PVC Salamander e alluminio Alumil con Uw a partire
       es: 'legislacion-2026-productos-construccion-reglamento-europeo',
       it: 'legislazione-2026-prodotti-costruzione-regolamento-europeo',
     },
+    seoTitle: { ro: "Legislație 2026 produse de construcții" },
     date: '2026-05-27',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -25607,6 +25652,7 @@ Neofort BIZ fornisce esclusivamente prodotti con marcatura CE e DoP completa. [R
       es: 'cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas',
       it: 'quanto-durano-le-finestre-pvc-quando-sostituirle',
     },
+    seoTitle: { ro: "Cât durează o fereastră PVC?" },
     date: '2026-06-02',
     author: 'Mihai Dănălache',
     authorRole: {
@@ -26019,6 +26065,7 @@ Neofort BIZ installa finestre PVC Salamander con 5 anni di garanzia a Bucarest e
   },
   {
     slugs: {ro:"subventii-programe-schimb-ferestre-2026-pnrr-casa-eficienta",en:"subsidies-programmes-window-replacement-2026-pnrr-energy-efficient-home",de:"foerderungen-programme-fenstertausch-2026-pnrr-energieeffizientes-haus",fr:"subventions-programmes-remplacement-fenetres-2026-pnrr-maison-econome",es:"subvenciones-programas-cambio-ventanas-2026-pnrr-casa-eficiente",it:"incentivi-programmi-sostituzione-finestre-2026-pnrr-casa-efficiente"},
+    seoTitle: { ro: "Subvenții ferestre 2026: ce program ai" },
     date: "2026-06-09",
     author: "Mihai Dănălache",
     authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
@@ -26435,6 +26482,7 @@ Neofort BIZ fornisce e installa serramenti termoisolanti in PVC Salamander e all
   },
   {
     slugs: {ro:"autorizatie-construire-schimbare-ferestre-apartament-casa-2026",en:"building-permit-window-replacement-apartment-house-2026",de:"baugenehmigung-fenstertausch-wohnung-haus-2026",fr:"permis-construire-remplacement-fenetres-appartement-maison-2026",es:"permiso-construccion-cambio-ventanas-apartamento-casa-2026",it:"permesso-costruire-sostituzione-finestre-appartamento-casa-2026"},
+    seoTitle: { ro: "Ai nevoie de autorizație pentru ferestre?" },
     date: "2026-06-16",
     author: "Mihai Dănălache",
     authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
@@ -26827,6 +26875,7 @@ Neofort BIZ installa serramenti in PVC Salamander e alluminio Alumil a Bucarest 
   },
   {
     slugs: {ro:"certificat-energetic-cladire-ce-este-componente-rol-ferestre",en:"building-energy-certificate-what-is-components-role-windows",de:"gebaeude-energieausweis-was-ist-komponenten-rolle-fenster",fr:"certificat-energetique-batiment-quest-ce-composants-role-fenetres",es:"certificado-energetico-edificio-que-es-componentes-papel-ventanas",it:"certificato-energetico-edificio-cos-e-componenti-ruolo-finestre"},
+    seoTitle: { ro: "Certificatul energetic și ferestrele" },
     date: "2026-06-13",
     author: "Mihai Dănălache",
     authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
@@ -27243,6 +27292,7 @@ Neofort BIZ fornisce e installa serramenti in PVC Salamander e alluminio Alumil 
   },
   {
     slugs: {ro:"pot-schimba-ferestrele-bloc-fara-acordul-asociatiei-2026",en:"can-i-replace-windows-apartment-block-without-association-approval-2026",de:"fenster-wohnblock-ohne-zustimmung-eigentuemergemeinschaft-2026",fr:"remplacer-fenetres-immeuble-sans-accord-association-coproprietaires-2026",es:"cambiar-ventanas-bloque-sin-acuerdo-comunidad-propietarios-2026",it:"sostituire-finestre-condominio-senza-consenso-associazione-2026"},
+    seoTitle: { ro: "Schimbi ferestrele la bloc fără acord?" },
     date: "2026-06-29",
     author: "Mihai Dănălache",
     authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
@@ -27629,6 +27679,7 @@ Neofort BIZ installa serramenti in PVC Salamander e alluminio Alumil in condomin
   },
   {
     slugs: {ro:"de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii",en:"why-do-windows-whistle-when-the-wind-blows-causes-solutions",de:"warum-pfeifen-fenster-bei-wind-ursachen-loesungen",fr:"pourquoi-les-fenetres-sifflent-quand-le-vent-souffle-causes-solutions",es:"por-que-silban-las-ventanas-cuando-sopla-el-viento-causas-soluciones",it:"perche-le-finestre-fischiano-quando-soffia-il-vento-cause-soluzioni"},
+    seoTitle: { ro: "De ce șuieră termopanele la vânt" },
     date: "2026-07-15",
     author: "Mihai Dănălache",
     authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
@@ -27985,6 +28036,7 @@ Neofort BIZ installa e regola serramenti in PVC Salamander e alluminio Alumil a 
   },
   {
     slugs: {ro:"testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra",en:"paper-sheet-test-find-where-air-enters-window",de:"papiertest-herausfinden-wo-luft-am-fenster-eindringt",fr:"test-feuille-papier-trouver-ou-entre-air-fenetre",es:"prueba-hoja-papel-encontrar-por-donde-entra-aire-ventana",it:"test-foglio-carta-scoprire-dove-entra-aria-finestra"},
+    seoTitle: { ro: "Testul cu coala de hârtie la fereastră" },
     date: "2026-07-17",
     author: "Mihai Dănălache",
     authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
@@ -28413,6 +28465,7 @@ Neofort BIZ verifica, regola e risigilla serramenti in PVC Salamander e allumini
   },
   {
     slugs: {ro:"cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus",en:"how-to-adjust-roto-hardware-winter-summer-allen-key",de:"roto-beschlag-winter-sommer-einstellen-inbusschluessel",fr:"regler-quincaillerie-roto-hiver-ete-cle-allen",es:"ajustar-herreria-roto-invierno-verano-llave-allen",it:"regolare-ferramenta-roto-inverno-estate-chiave-brugola"},
+    seoTitle: { ro: "Cum reglezi feroneria Roto iarnă/vară" },
     date: "2026-07-07",
     author: "Mihai Dănălache",
     authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
@@ -28841,6 +28894,7 @@ Neofort BIZ regola e fa la manutenzione della ferramenta Roto su serramenti in P
   },
   {
     slugs: {ro:"cand-trebuie-inlocuite-garniturile-ferestrei-semne",en:"when-window-gaskets-need-replacing-signs",de:"wann-fensterdichtungen-ersetzt-werden-muessen-anzeichen",fr:"quand-remplacer-joints-fenetre-signes",es:"cuando-sustituir-juntas-ventana-senales",it:"quando-sostituire-guarnizioni-finestra-segni"},
+    seoTitle: { ro: "Când înlocuiești garniturile ferestrei" },
     date: "2026-06-22",
     author: "Mihai Dănălache",
     authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
@@ -29228,6 +29282,7 @@ Neofort BIZ sostituisce guarnizioni e fa la manutenzione di serramenti in PVC Sa
       es: "de-nzeb-a-zeb-que-cambia-la-epbd-para-las-ventanas",
       it: "da-nzeb-a-zeb-cosa-cambia-la-epbd-per-le-finestre",
     },
+    seoTitle: { ro: "De la nZEB la ZEB: ce se schimbă" },
     date: "2026-08-10",
     author: "Mihai Dănălache",
     authorRole: {
@@ -29761,6 +29816,7 @@ Neofort BIZ fornisce e posa serramenti in PVC Salamander e alluminio Alumil a Bu
       es: "bomba-de-calor-y-ventanas-por-que-importa-el-uw",
       it: "pompa-di-calore-e-finestre-perche-conta-uw",
     },
+    seoTitle: { ro: "Pompa de căldură și ferestrele vechi" },
     date: "2026-08-20",
     author: "Mihai Dănălache",
     authorRole: {
