@@ -260,7 +260,6 @@ const PRODUCTS = {
       it:'Le pergole automatiche Somfy con motore Pergola 50/60 RGS io rappresentano la soluzione premium per proteggere terrazze e giardini in Romania. A differenza delle pergole manuali, il sistema Somfy reagisce automaticamente alle condizioni meteo tramite il sensore Sunis Wirefree II io: quando le raffiche superano i 50 km/h, il telo si ritira automaticamente, prevenendo danni strutturali. Tramite l\'integrazione con TaHoma Switch, la pergola diventa parte dell\'ecosistema smart home — scenari automatici, controllo vocale Alexa e Google Home, programmazione oraria. Neofort BIZ fornisce e installa professionalmente pergole automatiche Somfy a Bucarest e Ilfov.',
     },
   },
-
 };
 
 const UI = {
@@ -502,7 +501,7 @@ export default async function UmbrireProductPage({ params }) {
     name, description: seotxt, image: `${BASE}${product.img}`,
     brand: { '@type':'Brand', name:'Neofort BIZ' },
     seller: { '@type':'Organization', name:'Neofort BIZ SRL', url:BASE },
-    offers: { '@type':'Offer', priceCurrency:'RON', priceValidUntil:'2026-12-31', availability:'https://schema.org/InStock', url:`${BASE}/ro/contact`, seller:{'@type':'Organization',name:'Neofort BIZ SRL',url:BASE} },
+
     additionalProperty: specs.map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
   };
 

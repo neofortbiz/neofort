@@ -140,8 +140,19 @@ export default async function CookiesPage({ params }) {
   const ui = UI[locale] || UI.ro;
   const gdprSlug = { ro:'gdpr', en:'privacy-policy', de:'datenschutz', fr:'politique-confidentialite', es:'politica-privacidad', it:'informativa-privacy' }[locale] || 'gdpr';
 
+  // v224: schema WebPage — era singura pagina din site fara marcaj structurat
+  const schema = {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    'name': ui.h1 + ' — Neofort BIZ',
+    'url': `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}`,
+    'isPartOf': { '@id': `${BASE}/#website` },
+    'inLanguage': locale,
+  };
+
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <div className="page-header">
         <div className="container mx-auto px-6">
           <span className="sec-label">{ui.label}</span>

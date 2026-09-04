@@ -29885,7 +29885,7 @@ Contează și montajul: o fereastră performantă pusă doar cu spumă lasă pun
 
 Dacă ai buget limitat și vrei să faci ambele lucrări, ordinea contează mai mult decât pare.
 
-**Întâi anvelopa, apoi echipamentul.** Pompa se dimensionează după necesarul de căldură al casei. Dimensionată pe o casă cu ferestre vechi, iese mai mare și mai scumpă; schimbi ferestrele după aceea și rămâi cu o pompă supradimensionată, care ciclează frecvent și lucrează sub randamentul optim. Invers, dacă schimbi întâi ferestrele, necesarul scade și pompa poate fi mai mică — mai ieftină la achiziție și mai eficientă în exploatare. Costurile și opțiunile de finanțare disponibile sunt detaliate în ghidul despre [subvențiile pentru schimbul ferestrelor în 2026](/ro/blog/subventii-programe-schimb-ferestre-2026-pnrr-casa-eficienta).
+**Întâi anvelopa, apoi echipamentul.** Pompa se dimensionează după necesarul de căldură al casei. Dimensionată pe o casă cu ferestre vechi, iese mai mare și mai scumpă; schimbi ferestrele după aceea și rămâi cu o pompă supradimensionată, care pornește și se oprește frecvent și lucrează sub randamentul optim. Invers, dacă schimbi întâi ferestrele, necesarul scade și pompa poate fi mai mică — mai ieftină la achiziție și mai eficientă în exploatare. Costurile și opțiunile de finanțare disponibile sunt detaliate în ghidul despre [subvențiile pentru schimbul ferestrelor în 2026](/ro/blog/subventii-programe-schimb-ferestre-2026-pnrr-casa-eficienta).
 
 ## FAQ — pompa de căldură și ferestrele
 
@@ -29896,7 +29896,7 @@ Se poate instala, dar nu va lucra la randamentul din specificații. Ferestrele v
 Ca reper practic: sub 1,3 W/m²K pentru o renovare cu buget limitat, sub 1,1 W/m²K dacă urmărești randamentul real al pompei și sub 0,9 W/m²K la o casă nouă proiectată de la început cu pompă de căldură și încălzire în pardoseală.
 
 ### Schimb întâi ferestrele sau instalez întâi pompa?
-Întâi ferestrele. Pompa se dimensionează după necesarul de căldură al casei. Dacă o alegi înainte de a reduce pierderile, cumperi un echipament supradimensionat, mai scump, care va cicla frecvent și va lucra sub randamentul optim după ce anvelopa e îmbunătățită.
+Întâi ferestrele. Pompa se dimensionează după necesarul de căldură al casei. Dacă o alegi înainte de a reduce pierderile, cumperi un echipament supradimensionat, mai scump, care va porni și se va opri frecvent și va lucra sub randamentul optim după ce anvelopa e îmbunătățită.
 
 ### De ce simt frig lângă fereastră deși termostatul arată 21 de grade?
 Pentru că geamul cu Uw mare are temperatura suprafeței interioare mult sub temperatura aerului, iar corpul pierde căldură prin radiație către suprafața rece. Cu geam triplu și baghetă warm edge, fața interioară rămâne în jur de 17–18 °C și senzația de disconfort dispare.
