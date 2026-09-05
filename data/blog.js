@@ -27009,204 +27009,425 @@ Solicită numărul DoP de pe eticheta CE a produsului și verifică-l pe site-ul
 Neofort BIZ furnizează exclusiv produse cu marcaj CE și DoP complet. [Solicită documentele tehnice pentru orice produs](/ro/contact). Descoperă [soluțiile pentru case nZEB](/ro/sisteme-nzeb) pe care le oferim.`,
       en: `## What is the European Construction Products Regulation (CPR)?
 
-**Regulation (EU) No 305/2011** — known as the **CPR (Construction Products Regulation)** — is the European legislation governing the marketing of construction products in the EU. It requires manufacturers to draw up a **Declaration of Performance (DoP)** and apply **CE marking** to products, including windows, doors, PVC and aluminium profiles.
+**Regulation (EU) No 305/2011** — known as the **CPR (Construction Products Regulation)** — is the European legislation that sets the conditions for placing all construction products on the EU market. It requires manufacturers to draw up a **Declaration of Performance (DoP)** and to affix the **CE marking** to their products, windows, doors, PVC and aluminium profiles included.
 
-## What Changes Does 2026 Bring for Construction Products?
+Romania transposed the CPR through **Law 10/1995 on quality in construction** and **Government Decision 622/2004**, updated by **Government Decision 765/2016** — the act that also sets the nZEB requirements mandatory since 2021.
 
-### 1. New CPR 2 — Entry into Force
+## What changes in 2026 for construction products?
 
-The European Commission adopted in 2024 **Regulation (EU) 2024/3110**, replacing the 2011 CPR with stricter requirements:
+### 1. The new CPR 2 regulation comes into force
 
-**Key changes:**
-- **Digital Performance Declarations (eDoP)** — mandatory from 2026, accessible via QR code
-- **Digital Product Passport (DPP)** — each product will have a unique European ID with full technical specifications
-- **Extended ESG requirements** — carbon footprint (PCF) and recycled material content declarations become mandatory for selected categories
-- **Stronger market surveillance** — stricter controls for products imported from outside the EU
+In 2024 the European Commission adopted **Regulation (EU) 2024/3110**, which replaces the 2011 CPR and introduces stricter requirements:
 
-### 2. Standard EN 14351-1 Update 2026
+**The main changes:**
+- **Digital Declarations of Performance (eDoP)** — mandatory from 2026, accessible via a QR code on the product
+- **Digital Product Passport (DPP)** — every product will carry a unique European ID with all its technical specifications
+- **Extended ESG requirements** — declaring the product carbon footprint (PCF) and the recycled material content becomes mandatory for selected categories
+- **Reinforced market surveillance** — tighter controls on products imported from outside the EU
 
-The window and external door standard is under revision, expected 2026–2027, introducing:
-- Updated air permeability requirements (Class 4 — mandatory for nZEB)
-- Enhanced wind resistance testing (≥ Class C3)
-- New burglar resistance requirements (RC2 for residential buildings)
+### 2. Standard EN 14351-1 — 2026 update
 
-### 3. nZEB Requirements — Remain Mandatory
+**EN 14351-1:2006+A2:2016** (the standard for external windows and doors) is under revision, with a new version expected in 2026–2027, which will include:
+- Updated requirements for air permeability (Class 4 — mandatory for nZEB)
+- Improved testing for wind resistance (≥ Class C3)
+- New requirements for burglary resistance (RC2 for residential buildings)
 
-Since 2021, **all new constructions in Romania must meet the nZEB standard**, requiring:
-- **Uw ≤ 1.00 W/(m²K)** for windows in Zone II (Bucharest)
+### 3. nZEB requirements remain mandatory and get stricter
+
+Since 2021, **every new building in Romania must meet the nZEB standard** (Nearly Zero Energy Building), which requires:
+- **Uw ≤ 1.00 W/(m²K)** for windows in Climate Zone II, which covers Bucharest
 - Primary energy consumption ≤ 100 kWh/m²/year
-- Minimum 10% energy from renewable sources
+- At least 10% of energy from renewable sources
 
-From 2026, the State Construction Inspectorate (ISC) intensifies checks at reception, with mandatory verification of windows' and doors' technical documents.
+**From 2026**, local authorities (ISC — the State Construction Inspectorate) are stepping up checks at project handover, with mandatory verification of the technical documents for the windows and doors installed.
 
-### 4. CE Marking — What to Check
+### 4. CE marking — what you need to check
 
-Any window or door legally sold in Romania and the EU **must carry CE marking** with:
-- Standard reference (EN 14351-1)
-- Declared values: air permeability, water tightness, wind resistance, Uw
-- DoP reference number
+Any window or door sold legally in Romania and the EU **must carry the CE marking**, showing:
+- The standard number (EN 14351-1)
+- The declared values: air permeability, water tightness, wind resistance, Uw
+- A reference to the Declaration of Performance (DoP)
 
-**What this means for you as a buyer:** Always request the **product DoP** and **test certificate** (IFT Rosenheim, TÜV, CSTB) before signing the contract.
+**What this means for you as a buyer:**
+Always ask for the **product DoP** and the **test certificate** (IFT Rosenheim, TÜV, CSTB) before signing the contract. A serious supplier provides these documents without being asked.
 
-## FAQ — Construction Products Legislation 2026
+## What certifications do Neofort BIZ products hold?
 
-### What is the Declaration of Performance (DoP)?
-The DoP is the mandatory document issued by the manufacturer declaring the tested technical values of the product (Uw, air permeability, wind resistance, etc.) per EN 14351-1. Without a DoP, the product cannot be legally marketed in the EU.
+| Product | Certification | Standard |
+|---|---|---|
+| Salamander PVC profiles | IFT Rosenheim | EN 12608-1 Class A |
+| Alumil aluminium profiles | Alumil Certified | EN 12020-2 |
+| Roto hardware | TÜV SÜD | EN 13126 |
+| Saint-Gobain SGG triple glazing | SGG Certified | EN 1279-2 |
+| Complete window system | DoP under CPR | EN 14351-1 |
 
-### What is CE marking on windows?
-CE marking confirms the window has been tested and meets EN 14351-1 requirements. It is not a quality mark but a mandatory conformity declaration for EU marketing.
+## Prohibited practices and risks for buyers
+
+**Watch out for:**
+- Windows with no CE marking, or with a false CE marking (no verifiable DoP number)
+- PVC profiles without an IFT or TÜV certificate — the declared Uw may be wrong
+- Suppliers who cannot produce a DoP on request
+- Non-EU imported profiles that have not been tested to European standards
+
+**Legal consequences:** installing non-compliant windows in a building that required a construction permit can lead to **the works being rejected** by the ISC, with remediation at the investor’s expense.
+
+## FAQ — Construction product legislation 2026
+
+### What is a Declaration of Performance (DoP)?
+The DoP is the mandatory document issued by the manufacturer declaring the tested technical values of the product (Uw, air permeability, wind resistance and so on) under EN 14351-1. Without a DoP, the product cannot legally be sold in the EU.
+
+### What does CE marking mean on a window?
+CE marking confirms that the window has been tested and meets the requirements of the European standard EN 14351-1. It is not a quality label but a mandatory declaration of conformity for sale within the EU.
 
 ### Is nZEB certification mandatory for renovations?
-Yes, for permitted renovations affecting more than 25% of the building envelope. If replacing all windows in a building, the project must achieve nZEB performance.
+Yes, for renovations under a construction permit that affect more than 25% of the envelope area. If you replace all the windows of a block or a house, the project has to reach nZEB performance.
 
-### What specifically changes in 2026 vs 2025?
-Digital DoPs with QR codes become standard, ISC checks at reception intensify, and CPR 2 enters transition period (manufacturers have 3 years for full compliance).
+### What changes concretely in 2026 compared with 2025?
+The main points: digital DoPs with QR codes become the norm, ISC checks at handover intensify, and the new CPR 2 enters its transition period — manufacturers have three years to comply fully.
+
+### How do I check whether the windows I bought are compliant?
+Ask for the DoP number on the product’s CE label and verify it on the manufacturer’s site or with the certification body. At Neofort BIZ, all documents are available on request.
 
 ---
 
+**Related articles:**
+- [What thermal coefficient should windows have?](/en/blog/what-thermal-coefficient-should-windows-have)
+- [Which windows to choose for an nZEB house in Romania?](/en/blog/windows-nzeb-house-romania-complete-guide-2026)
+- [PVC or aluminium for nZEB homes in 2026?](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide)
+
 Neofort BIZ supplies exclusively CE-marked products with complete DoP. [Request technical documents for any product](/en/contact). Discover [the nZEB house solutions](/en/nzeb-systems) we offer.`,
-      de: `## Was ist die Europäische Bauproduktenverordnung (BauPVO/CPR)?
+      de: `## Was ist die Europäische Bauprodukteverordnung (CPR)?
 
-**Verordnung (EU) Nr. 305/2011** — die **BauPVO (Bauproduktenverordnung)** — regelt das Inverkehrbringen von Bauprodukten auf dem EU-Markt. Hersteller müssen eine **Leistungserklärung (DoP)** erstellen und eine **CE-Kennzeichnung** anbringen.
+**Verordnung (EU) Nr. 305/2011** — bekannt als **CPR (Construction Products Regulation)** — ist die europäische Rechtsgrundlage, die die Bedingungen für das Inverkehrbringen aller Bauprodukte im EU-Markt festlegt. Sie verpflichtet Hersteller, eine **Leistungserklärung (DoP)** zu erstellen und die **CE-Kennzeichnung** anzubringen, auch auf Fenstern, Türen sowie PVC- und Aluminiumprofilen.
 
-## Wichtige Änderungen 2026
+Rumänien hat die CPR über das **Gesetz 10/1995 über die Qualität im Bauwesen** und den **Regierungsbeschluss 622/2004** umgesetzt, aktualisiert durch den **Regierungsbeschluss 765/2016** — jenen Rechtsakt, der auch die seit 2021 verbindlichen nZEB-Anforderungen festlegt.
 
-### Neue BauPVO 2 — Inkrafttreten
+## Was ändert sich 2026 für Bauprodukte?
 
-Die EU hat 2024 **Verordnung (EU) 2024/3110** verabschiedet mit:
-- **Digitale Leistungserklärungen (eDoP)** — ab 2026 über QR-Code abrufbar
-- **Digitaler Produktpass (DPP)** — eindeutige EU-ID mit vollständigen technischen Angaben
-- **Erweiterte ESG-Anforderungen** — Deklaration des CO₂-Fußabdrucks wird Pflicht
-- **Verstärkte Marktüberwachung**
+### 1. Die neue Verordnung CPR 2 tritt in Kraft
 
-### nZEB-Anforderungen — weiterhin verpflichtend
+Die Europäische Kommission hat 2024 die **Verordnung (EU) 2024/3110** verabschiedet, die die CPR von 2011 ersetzt und strengere Anforderungen einführt:
 
-Seit 2021 müssen alle Neubauten in Rumänien den **nZEB-Standard** erfüllen:
-- **Uw ≤ 1,00 W/(m²K)** für Fenster in Zone II (Bukarest)
-- Primärenergieverbrauch ≤ 100 kWh/m²/Jahr
+**Die wichtigsten Neuerungen:**
+- **Digitale Leistungserklärungen (eDoP)** — ab 2026 verpflichtend, über einen QR-Code am Produkt abrufbar
+- **Digitaler Produktpass (DPP)** — jedes Produkt erhält eine eindeutige europäische Kennung mit allen technischen Angaben
+- **Erweiterte ESG-Anforderungen** — die Angabe des CO2-Fußabdrucks (PCF) und des Rezyklatanteils wird für ausgewählte Kategorien verpflichtend
+- **Verstärkte Marktüberwachung** — schärfere Kontrollen für Produkte aus Drittstaaten
 
-### CE-Kennzeichnung — Was zu prüfen ist
+### 2. Norm EN 14351-1 — Aktualisierung 2026
 
-Jedes Fenster muss CE-Kennzeichnung tragen mit Normbezug (EN 14351-1), deklarierten Werten und DoP-Referenz.
+**EN 14351-1:2006+A2:2016** (die Norm für Außenfenster und -türen) wird derzeit überarbeitet; eine neue Fassung wird für 2026–2027 erwartet und soll enthalten:
+- Aktualisierte Anforderungen an die Luftdurchlässigkeit (Klasse 4 — für nZEB verpflichtend)
+- Verbesserte Prüfung der Windwiderstandsfähigkeit (≥ Klasse C3)
+- Neue Anforderungen an die Einbruchhemmung (RC2 für Wohngebäude)
 
-## FAQ — Bauproduktegesetzgebung 2026
+### 3. Die nZEB-Anforderungen bleiben verbindlich und werden verschärft
 
-### Was ist eine Leistungserklärung (DoP)?
-DoP ist das Pflichtdokument des Herstellers mit getesteten technischen Werten (Uw, Luftdurchlässigkeit, Windwiderstand) gemäß EN 14351-1. Ohne DoP darf das Produkt nicht legal in der EU vermarktet werden.
+Seit 2021 **müssen alle Neubauten in Rumänien den nZEB-Standard erfüllen** (Nearly Zero Energy Building). Das bedeutet:
+- **Uw ≤ 1,00 W/(m²K)** für Fenster in Klimazone II, zu der Bukarest gehört
+- Primärenergiebedarf ≤ 100 kWh/m²/Jahr
+- Mindestens 10 % der Energie aus erneuerbaren Quellen
 
-### Was ist CE-Kennzeichnung bei Fenstern?
-CE bestätigt, dass das Fenster EN 14351-1 erfüllt. Es ist kein Qualitätszeichen, sondern eine Pflichtkonformitätserklärung für den EU-Markt.
+**Ab 2026** verschärfen die lokalen Behörden (ISC — die staatliche Bauaufsicht) die Kontrollen bei der Bauabnahme, mit verpflichtender Prüfung der technischen Unterlagen der eingebauten Fenster und Türen.
 
-### Was ändert sich 2026 konkret?
-Digitale DoPs mit QR-Code werden Standard, verstärkte Bauabnahmeprüfungen, BauPVO 2 tritt in die Übergangszeit ein.
+### 4. CE-Kennzeichnung — worauf Sie achten müssen
+
+Jedes Fenster und jede Tür, die in Rumänien und der EU legal verkauft wird, **muss eine CE-Kennzeichnung tragen** mit:
+- der Nummer der Norm (EN 14351-1)
+- den erklärten Werten: Luftdurchlässigkeit, Schlagregendichtheit, Windwiderstand, Uw
+- dem Verweis auf die Leistungserklärung (DoP)
+
+**Was das für Sie als Käufer bedeutet:**
+Verlangen Sie stets die **DoP des Produkts** und das **Prüfzeugnis** (IFT Rosenheim, TÜV, CSTB), bevor Sie den Vertrag unterschreiben. Ein seriöser Anbieter legt diese Unterlagen unaufgefordert vor.
+
+## Welche Zertifizierungen haben die Produkte von Neofort BIZ?
+
+| Produkt | Zertifizierung | Norm |
+|---|---|---|
+| Salamander PVC-Profile | IFT Rosenheim | EN 12608-1 Klasse A |
+| Alumil Aluminiumprofile | Alumil Certified | EN 12020-2 |
+| Roto Beschläge | TÜV SÜD | EN 13126 |
+| Saint-Gobain SGG Dreifachglas | SGG Certified | EN 1279-2 |
+| Komplettes Fenstersystem | DoP nach CPR | EN 14351-1 |
+
+## Unzulässige Praktiken und Risiken für Käufer
+
+**Achten Sie auf:**
+- Fenster ohne CE-Kennzeichnung oder mit gefälschter CE-Kennzeichnung (ohne nachprüfbare DoP-Nummer)
+- PVC-Profile ohne IFT- oder TÜV-Zertifikat — der angegebene Uw kann falsch sein
+- Anbieter, die auf Nachfrage keine DoP vorlegen können
+- Importprofile aus Drittstaaten ohne Prüfung nach europäischen Normen
+
+**Rechtliche Folgen:** Der Einbau nicht konformer Fenster in genehmigungspflichtigen Bauvorhaben kann dazu führen, dass die **Abnahme durch die ISC verweigert** wird, mit Nachbesserung auf Kosten des Bauherrn.
+
+## FAQ — Bauprodukte-Vorschriften 2026
+
+### Was ist die Leistungserklärung (DoP)?
+Die DoP ist das verpflichtende Dokument des Herstellers, das die geprüften technischen Werte des Produkts erklärt (Uw, Luftdurchlässigkeit, Windwiderstand und weitere) nach EN 14351-1. Ohne DoP darf das Produkt in der EU nicht rechtmäßig verkauft werden.
+
+### Was bedeutet die CE-Kennzeichnung bei Fenstern?
+Die CE-Kennzeichnung bestätigt, dass das Fenster geprüft wurde und die Anforderungen der europäischen Norm EN 14351-1 erfüllt. Sie ist kein Gütesiegel, sondern eine für den Verkauf in der EU verpflichtende Konformitätserklärung.
+
+### Ist die nZEB-Zertifizierung bei Sanierungen Pflicht?
+Ja, bei genehmigungspflichtigen Sanierungen, die mehr als 25 % der Hüllfläche betreffen. Wenn Sie alle Fenster eines Wohnblocks oder Hauses tauschen, muss das Vorhaben die nZEB-Leistung erreichen.
+
+### Was ändert sich 2026 konkret gegenüber 2025?
+Die wichtigsten Punkte: digitale DoPs mit QR-Code werden zum Standard, die ISC-Kontrollen bei der Abnahme werden verschärft, und die neue CPR 2 tritt in ihre Übergangsphase — Hersteller haben drei Jahre für die vollständige Umstellung.
+
+### Wie prüfe ich, ob die gekauften Fenster konform sind?
+Fragen Sie nach der DoP-Nummer auf dem CE-Etikett des Produkts und prüfen Sie sie auf der Website des Herstellers oder bei der Zertifizierungsstelle. Bei Neofort BIZ sind alle Unterlagen auf Anfrage verfügbar.
 
 ---
 
 Neofort BIZ liefert ausschließlich CE-gekennzeichnete Produkte mit vollständiger DoP. [Technische Dokumente anfordern](/de/kontakt). Entdecken Sie [die nZEB-Hauslösungen](/de/nzeb-systeme), die wir anbieten.`,
-      fr: `## Qu'est-ce que le Règlement Européen des Produits de Construction (RPC) ?
+      fr: `## Qu’est-ce que le Règlement européen des produits de construction (RPC) ?
 
-Le **Règlement (UE) n° 305/2011** (RPC) encadre la commercialisation des produits de construction dans l'UE. Il oblige les fabricants à établir une **Déclaration de Performance (DoP)** et à apposer le **marquage CE**.
+Le **règlement (UE) n° 305/2011** — connu sous le nom de **RPC (Règlement Produits de Construction)** — est la législation européenne qui fixe les conditions de mise sur le marché de tous les produits de construction dans l’UE. Il impose aux fabricants d’établir une **Déclaration des Performances (DoP)** et d’apposer le **marquage CE** sur leurs produits, fenêtres, portes, profilés PVC et aluminium compris.
 
-## Changements importants en 2026
+La Roumanie a transposé le RPC par la **loi 10/1995 sur la qualité dans la construction** et la **décision gouvernementale 622/2004**, actualisées par la **décision 765/2016** — le texte qui fixe aussi les exigences nZEB obligatoires depuis 2021.
 
-### Nouveau RPC 2 — entrée en vigueur
+## Ce qui change en 2026 pour les produits de construction
 
-La Commission européenne a adopté en 2024 le **Règlement (UE) 2024/3110** introduisant :
-- **Déclarations de Performance numériques (eDoP)** — accessibles par QR code dès 2026
-- **Passeport numérique du produit (DPP)** — identifiant UE unique avec toutes les spécifications
-- **Exigences ESG étendues** — déclaration de l'empreinte carbone obligatoire
-- **Surveillance du marché renforcée**
+### 1. Le nouveau règlement RPC 2 entre en vigueur
 
-### Exigences nZEB — maintenues et renforcées
+La Commission européenne a adopté en 2024 le **règlement (UE) 2024/3110**, qui remplace le RPC de 2011 et introduit des exigences plus strictes :
 
-Depuis 2021, toutes les nouvelles constructions en Roumanie doivent respecter **nZEB** : Uw ≤ 1,00 W/(m²K) pour les fenêtres en Zone II (Bucarest). Dès 2026, les contrôles à la réception des travaux s'intensifient.
+**Les principales nouveautés :**
+- **Déclarations des Performances numériques (eDoP)** — obligatoires à partir de 2026, accessibles via un QR code sur le produit
+- **Passeport numérique du produit (DPP)** — chaque produit recevra un identifiant européen unique reprenant toutes ses caractéristiques techniques
+- **Exigences ESG élargies** — la déclaration de l’empreinte carbone (PCF) et du taux de matière recyclée devient obligatoire pour certaines catégories
+- **Surveillance du marché renforcée** — contrôles plus stricts sur les produits importés hors UE
 
-### Marquage CE — ce qu'il faut vérifier
+### 2. Norme EN 14351-1 — mise à jour 2026
 
-Toute fenêtre commercialisée doit porter le marquage CE avec la référence EN 14351-1, les valeurs déclarées et la référence DoP.
+La norme **EN 14351-1:2006+A2:2016** (fenêtres et portes extérieures) est en cours de révision, avec une nouvelle version attendue en 2026–2027, qui comprendra :
+- Des exigences actualisées de perméabilité à l’air (classe 4 — obligatoire en nZEB)
+- Un essai renforcé de résistance au vent (≥ classe C3)
+- De nouvelles exigences d’anti-effraction (RC2 pour les bâtiments résidentiels)
 
-## FAQ — Législation produits construction 2026
+### 3. Les exigences nZEB restent obligatoires et se durcissent
 
-### Qu'est-ce qu'une Déclaration de Performance (DoP) ?
-Document obligatoire du fabricant déclarant les valeurs techniques testées (Uw, perméabilité à l'air, résistance au vent) selon EN 14351-1.
+Depuis 2021, **toutes les constructions neuves en Roumanie doivent respecter la norme nZEB** (Nearly Zero Energy Building), ce qui impose :
+- **Uw ≤ 1,00 W/(m²K)** pour les fenêtres en zone climatique II, qui couvre Bucarest
+- Une consommation d’énergie primaire ≤ 100 kWh/m²/an
+- Au moins 10 % d’énergie d’origine renouvelable
 
-### Qu'est-ce que le marquage CE pour les fenêtres ?
-Confirmation que la fenêtre respecte EN 14351-1. Ce n'est pas un label qualité mais une déclaration de conformité obligatoire.
+**À partir de 2026**, les autorités locales (ISC — l’Inspection d’État dans la construction) renforcent les contrôles à la réception des travaux, avec vérification obligatoire des documents techniques des fenêtres et portes posées.
 
-### Qu'est-ce qui change concrètement en 2026 ?
-DoP numériques avec QR code, contrôles renforcés à la réception, RPC 2 en période de transition.
+### 4. Marquage CE — ce qu’il faut vérifier
+
+Toute fenêtre ou porte vendue légalement en Roumanie et dans l’UE **doit porter le marquage CE**, indiquant :
+- Le numéro de la norme (EN 14351-1)
+- Les valeurs déclarées : perméabilité à l’air, étanchéité à l’eau, résistance au vent, Uw
+- La référence à la Déclaration des Performances (DoP)
+
+**Ce que cela implique pour vous, acheteur :**
+Demandez systématiquement la **DoP du produit** et le **certificat d’essai** (IFT Rosenheim, TÜV, CSTB) avant de signer le contrat. Un fournisseur sérieux fournit ces documents sans qu’on les réclame.
+
+## Quelles certifications portent les produits Neofort BIZ ?
+
+| Produit | Certification | Norme |
+|---|---|---|
+| Profilés PVC Salamander | IFT Rosenheim | EN 12608-1 classe A |
+| Profilés aluminium Alumil | Alumil Certified | EN 12020-2 |
+| Quincaillerie Roto | TÜV SÜD | EN 13126 |
+| Triple vitrage Saint-Gobain SGG | SGG Certified | EN 1279-2 |
+| Système de fenêtre complet | DoP conforme au RPC | EN 14351-1 |
+
+## Pratiques interdites et risques pour les acheteurs
+
+**Méfiez-vous :**
+- Des fenêtres sans marquage CE, ou avec un marquage CE falsifié (sans numéro de DoP vérifiable)
+- Des profilés PVC sans certificat IFT ou TÜV — le Uw annoncé peut être faux
+- Des fournisseurs incapables de présenter une DoP sur demande
+- Des profilés importés hors UE non testés selon les normes européennes
+
+**Conséquences juridiques :** poser des fenêtres non conformes dans une construction soumise à permis peut entraîner **le refus de réception des travaux** par l’ISC, avec remise en conformité aux frais du maître d’ouvrage.
+
+## FAQ — Réglementation produits de construction 2026
+
+### Qu’est-ce que la Déclaration des Performances (DoP) ?
+La DoP est le document obligatoire émis par le fabricant, qui déclare les valeurs techniques testées du produit (Uw, perméabilité à l’air, résistance au vent, etc.) selon la norme EN 14351-1. Sans DoP, le produit ne peut pas être commercialisé légalement dans l’UE.
+
+### Que signifie le marquage CE sur une fenêtre ?
+Le marquage CE atteste que la fenêtre a été testée et satisfait aux exigences de la norme européenne EN 14351-1. Ce n’est pas un label de qualité, mais une déclaration de conformité obligatoire pour la vente dans l’UE.
+
+### La certification nZEB est-elle obligatoire en rénovation ?
+Oui, pour les rénovations soumises à permis qui touchent plus de 25 % de la surface de l’enveloppe. Si vous remplacez toutes les fenêtres d’un immeuble ou d’une maison, le projet doit atteindre la performance nZEB.
+
+### Qu’est-ce qui change concrètement en 2026 par rapport à 2025 ?
+L’essentiel : les DoP numériques à QR code deviennent la norme, les contrôles de l’ISC à la réception s’intensifient, et le nouveau RPC 2 entre en période de transition — les fabricants disposent de trois ans pour se conformer pleinement.
+
+### Comment vérifier que les fenêtres achetées sont conformes ?
+Demandez le numéro de DoP figurant sur l’étiquette CE du produit et vérifiez-le sur le site du fabricant ou auprès de l’organisme de certification. Chez Neofort BIZ, tous les documents sont disponibles sur demande.
 
 ---
 
 Neofort BIZ fournit exclusivement des produits marqués CE avec DoP complète. [Demander les documents techniques](/fr/contact). Découvrez [les solutions pour maisons nZEB](/fr/systemes-nzeb) que nous proposons.`,
       es: `## ¿Qué es el Reglamento Europeo de Productos de Construcción (RPC)?
 
-El **Reglamento (UE) n.º 305/2011** (RPC) regula la comercialización de productos de construcción en la UE. Obliga a los fabricantes a redactar una **Declaración de Prestaciones (DoP)** y aplicar el **marcado CE**.
+El **Reglamento (UE) n.º 305/2011** — conocido como **RPC (Reglamento de Productos de Construcción)** — es la legislación europea que fija las condiciones de comercialización de todos los productos de construcción en el mercado de la UE. Obliga a los fabricantes a redactar una **Declaración de Prestaciones (DoP)** y a aplicar el **marcado CE** a sus productos, ventanas, puertas y perfiles de PVC y aluminio incluidos.
 
-## Cambios importantes en 2026
+Rumanía transpuso el RPC mediante la **Ley 10/1995 sobre la calidad en la construcción** y el **Decreto 622/2004**, actualizados por el **Decreto 765/2016** — la norma que también establece los requisitos nZEB obligatorios desde 2021.
 
-### Nuevo RPC 2 — entrada en vigor
+## Qué cambia en 2026 para los productos de construcción
 
-La Comisión Europea adoptó en 2024 el **Reglamento (UE) 2024/3110** con:
-- **Declaraciones de Prestaciones digitales (eDoP)** — accesibles mediante código QR desde 2026
-- **Pasaporte digital del producto (DPP)** — ID único europeo con todas las especificaciones
-- **Requisitos ESG ampliados** — declaración de huella de carbono obligatoria
-- **Vigilancia de mercado reforzada**
+### 1. Entra en vigor el nuevo Reglamento RPC 2
 
-### Requisitos nZEB — se mantienen y refuerzan
+La Comisión Europea adoptó en 2024 el **Reglamento (UE) 2024/3110**, que sustituye al RPC de 2011 e introduce requisitos más estrictos:
 
-Desde 2021, todas las nuevas construcciones en Rumanía deben cumplir **nZEB**: Uw ≤ 1,00 W/(m²K) para ventanas en Zona II (Bucarest). Desde 2026, los controles en la recepción de obras se intensifican.
+**Las novedades principales:**
+- **Declaraciones de Prestaciones digitales (eDoP)** — obligatorias desde 2026, accesibles mediante un código QR en el producto
+- **Pasaporte digital del producto (DPP)** — cada producto tendrá un identificador europeo único con todas sus especificaciones técnicas
+- **Requisitos ESG ampliados** — declarar la huella de carbono (PCF) y el contenido de material reciclado pasa a ser obligatorio para categorías seleccionadas
+- **Vigilancia de mercado reforzada** — controles más estrictos sobre productos importados de fuera de la UE
 
-### Marcado CE — qué verificar
+### 2. Norma EN 14351-1 — actualización 2026
 
-Toda ventana comercializada debe llevar marcado CE con la referencia EN 14351-1, los valores declarados y la referencia DoP.
+La norma **EN 14351-1:2006+A2:2016** (ventanas y puertas exteriores) está en revisión, con una nueva versión prevista para 2026–2027, que incluirá:
+- Requisitos actualizados de permeabilidad al aire (clase 4 — obligatoria para nZEB)
+- Ensayo mejorado de resistencia al viento (≥ clase C3)
+- Nuevos requisitos de resistencia a la efracción (RC2 para edificios residenciales)
 
-## FAQ — Legislación productos construcción 2026
+### 3. Los requisitos nZEB siguen siendo obligatorios y se endurecen
 
-### ¿Qué es una Declaración de Prestaciones (DoP)?
-Documento obligatorio del fabricante que declara los valores técnicos testados (Uw, permeabilidad al aire, resistencia al viento) según EN 14351-1.
+Desde 2021, **toda obra nueva en Rumanía debe cumplir el estándar nZEB** (Nearly Zero Energy Building), lo que exige:
+- **Uw ≤ 1,00 W/(m²K)** para ventanas en la zona climática II, que incluye Bucarest
+- Consumo de energía primaria ≤ 100 kWh/m²/año
+- Al menos un 10 % de energía de fuentes renovables
 
-### ¿Qué es el marcado CE en ventanas?
-Confirmación de que la ventana cumple EN 14351-1. No es un sello de calidad sino una declaración de conformidad obligatoria.
+**Desde 2026**, las autoridades locales (ISC — la Inspección Estatal de Construcción) intensifican los controles en la recepción de obra, con verificación obligatoria de la documentación técnica de las ventanas y puertas instaladas.
 
-### ¿Qué cambia concretamente en 2026?
-DoPs digitales con código QR, controles reforzados en recepción de obras, RPC 2 en período de transición.
+### 4. Marcado CE — qué debe comprobar
+
+Toda ventana o puerta vendida legalmente en Rumanía y en la UE **debe llevar el marcado CE**, con:
+- El número de la norma (EN 14351-1)
+- Los valores declarados: permeabilidad al aire, estanqueidad al agua, resistencia al viento, Uw
+- La referencia a la Declaración de Prestaciones (DoP)
+
+**Qué significa esto para usted como comprador:**
+Pida siempre la **DoP del producto** y el **certificado de ensayo** (IFT Rosenheim, TÜV, CSTB) antes de firmar el contrato. Un proveedor serio entrega estos documentos sin que se los pidan.
+
+## ¿Qué certificaciones tienen los productos de Neofort BIZ?
+
+| Producto | Certificación | Norma |
+|---|---|---|
+| Perfiles PVC Salamander | IFT Rosenheim | EN 12608-1 clase A |
+| Perfiles de aluminio Alumil | Alumil Certified | EN 12020-2 |
+| Herrajes Roto | TÜV SÜD | EN 13126 |
+| Triple vidrio Saint-Gobain SGG | SGG Certified | EN 1279-2 |
+| Sistema de ventana completo | DoP conforme al RPC | EN 14351-1 |
+
+## Prácticas prohibidas y riesgos para el comprador
+
+**Tenga cuidado con:**
+- Ventanas sin marcado CE, o con marcado CE falso (sin número de DoP verificable)
+- Perfiles de PVC sin certificado IFT o TÜV — el Uw declarado puede ser incorrecto
+- Proveedores que no pueden presentar la DoP cuando se les pide
+- Perfiles importados de fuera de la UE sin ensayos según normas europeas
+
+**Consecuencias legales:** instalar ventanas no conformes en una obra con licencia puede llevar a que **la ISC no reciba la obra**, con la obligación de subsanar a cargo del promotor.
+
+## FAQ — Normativa de productos de construcción 2026
+
+### ¿Qué es la Declaración de Prestaciones (DoP)?
+La DoP es el documento obligatorio emitido por el fabricante que declara los valores técnicos ensayados del producto (Uw, permeabilidad al aire, resistencia al viento, etc.) conforme a EN 14351-1. Sin DoP, el producto no puede comercializarse legalmente en la UE.
+
+### ¿Qué significa el marcado CE en una ventana?
+El marcado CE confirma que la ventana ha sido ensayada y cumple los requisitos de la norma europea EN 14351-1. No es un sello de calidad, sino una declaración de conformidad obligatoria para su venta en la UE.
+
+### ¿Es obligatoria la certificación nZEB en reformas?
+Sí, en reformas con licencia de obra que afecten a más del 25 % de la superficie de la envolvente. Si cambia todas las ventanas de un bloque o una vivienda, el proyecto debe alcanzar la prestación nZEB.
+
+### ¿Qué cambia concretamente en 2026 frente a 2025?
+Lo esencial: las DoP digitales con código QR se convierten en estándar, los controles de la ISC en la recepción se intensifican y el nuevo RPC 2 entra en su periodo transitorio — los fabricantes disponen de tres años para adaptarse por completo.
+
+### ¿Cómo compruebo si las ventanas compradas son conformes?
+Pida el número de DoP que figura en la etiqueta CE del producto y verifíquelo en la web del fabricante o del organismo de certificación. En Neofort BIZ, toda la documentación está disponible a petición.
 
 ---
 
 Neofort BIZ suministra exclusivamente productos con marcado CE y DoP completa. [Solicitar documentos técnicos](/es/contacto). Descubre [las soluciones para casas nZEB](/es/sistemas-nzeb) que ofrecemos.`,
-      it: `## Cos'è il Regolamento Europeo sui Prodotti da Costruzione (RPC)?
+      it: `## Che cos’è il Regolamento europeo sui prodotti da costruzione (CPR)?
 
-Il **Regolamento (UE) n. 305/2011** (RPC) disciplina la commercializzazione dei prodotti da costruzione nell'UE. Obbliga i produttori a redigere una **Dichiarazione di Prestazione (DoP)** e ad apporre la **marcatura CE**.
+Il **Regolamento (UE) n. 305/2011** — noto come **CPR (Construction Products Regulation)** — è la normativa europea che stabilisce le condizioni di commercializzazione di tutti i prodotti da costruzione nel mercato UE. Obbliga i fabbricanti a redigere una **Dichiarazione di Prestazione (DoP)** e ad apporre la **marcatura CE** sui prodotti, finestre, porte e profili in PVC e alluminio compresi.
 
-## Cambiamenti importanti nel 2026
+La Romania ha recepito il CPR con la **Legge 10/1995 sulla qualità nelle costruzioni** e il **Decreto 622/2004**, aggiornati dal **Decreto 765/2016** — l’atto che fissa anche i requisiti nZEB obbligatori dal 2021.
 
-### Nuovo RPC 2 — entrata in vigore
+## Che cosa cambia nel 2026 per i prodotti da costruzione
 
-La Commissione europea ha adottato nel 2024 il **Regolamento (UE) 2024/3110** con:
-- **Dichiarazioni di Prestazione digitali (eDoP)** — accessibili tramite QR code dal 2026
-- **Passaporto digitale del prodotto (DPP)** — ID unico europeo con tutte le specifiche tecniche
-- **Requisiti ESG estesi** — dichiarazione dell'impronta di carbonio obbligatoria
-- **Sorveglianza del mercato rafforzata**
+### 1. Entra in vigore il nuovo Regolamento CPR 2
 
-### Requisiti nZEB — mantenuti e rafforzati
+Nel 2024 la Commissione europea ha adottato il **Regolamento (UE) 2024/3110**, che sostituisce il CPR del 2011 e introduce requisiti più severi:
 
-Dal 2021, tutte le nuove costruzioni in Romania devono rispettare **nZEB**: Uw ≤ 1,00 W/(m²K) per le finestre in Zona II (Bucarest). Dal 2026, i controlli al collaudo si intensificano.
+**Le principali novità:**
+- **Dichiarazioni di Prestazione digitali (eDoP)** — obbligatorie dal 2026, accessibili tramite un codice QR sul prodotto
+- **Passaporto digitale del prodotto (DPP)** — ogni prodotto avrà un identificativo europeo unico con tutte le specifiche tecniche
+- **Requisiti ESG estesi** — la dichiarazione dell’impronta di carbonio (PCF) e del contenuto di materiale riciclato diventa obbligatoria per categorie selezionate
+- **Sorveglianza del mercato rafforzata** — controlli più severi sui prodotti importati da fuori UE
 
-### Marcatura CE — cosa verificare
+### 2. Norma EN 14351-1 — aggiornamento 2026
 
-Ogni finestra commercializzata deve portare la marcatura CE con il riferimento EN 14351-1, i valori dichiarati e il riferimento DoP.
+La norma **EN 14351-1:2006+A2:2016** (finestre e porte esterne) è in revisione, con una nuova versione attesa per il 2026–2027, che comprenderà:
+- Requisiti aggiornati di permeabilità all’aria (classe 4 — obbligatoria per nZEB)
+- Prova rafforzata di resistenza al vento (≥ classe C3)
+- Nuovi requisiti di resistenza all’effrazione (RC2 per edifici residenziali)
 
-## FAQ — Legislazione prodotti da costruzione 2026
+### 3. I requisiti nZEB restano obbligatori e si irrigidiscono
 
-### Cos'è una Dichiarazione di Prestazione (DoP)?
-Documento obbligatorio del produttore che dichiara i valori tecnici testati (Uw, permeabilità all'aria, resistenza al vento) secondo EN 14351-1.
+Dal 2021 **tutte le nuove costruzioni in Romania devono rispettare lo standard nZEB** (Nearly Zero Energy Building), il che impone:
+- **Uw ≤ 1,00 W/(m²K)** per le finestre nella zona climatica II, che comprende Bucarest
+- Consumo di energia primaria ≤ 100 kWh/m²/anno
+- Almeno il 10 % di energia da fonti rinnovabili
 
-### Cos'è la marcatura CE per le finestre?
-Conferma che la finestra rispetta EN 14351-1. Non è un marchio di qualità ma una dichiarazione di conformità obbligatoria.
+**Dal 2026** le autorità locali (ISC — l’Ispettorato di Stato per le Costruzioni) intensificano i controlli al collaudo, con verifica obbligatoria della documentazione tecnica di finestre e porte installate.
 
-### Cosa cambia concretamente nel 2026?
-DoP digitali con QR code, controlli rafforzati al collaudo, RPC 2 in periodo di transizione.
+### 4. Marcatura CE — che cosa va verificato
+
+Ogni finestra o porta venduta legalmente in Romania e nell’UE **deve recare la marcatura CE**, con:
+- Il numero della norma (EN 14351-1)
+- I valori dichiarati: permeabilità all’aria, tenuta all’acqua, resistenza al vento, Uw
+- Il riferimento alla Dichiarazione di Prestazione (DoP)
+
+**Che cosa significa per voi che acquistate:**
+Chiedete sempre la **DoP del prodotto** e il **certificato di prova** (IFT Rosenheim, TÜV, CSTB) prima di firmare il contratto. Un fornitore serio consegna questi documenti senza che vengano richiesti.
+
+## Quali certificazioni hanno i prodotti Neofort BIZ?
+
+| Prodotto | Certificazione | Norma |
+|---|---|---|
+| Profili PVC Salamander | IFT Rosenheim | EN 12608-1 classe A |
+| Profili in alluminio Alumil | Alumil Certified | EN 12020-2 |
+| Ferramenta Roto | TÜV SÜD | EN 13126 |
+| Triplo vetro Saint-Gobain SGG | SGG Certified | EN 1279-2 |
+| Sistema finestra completo | DoP conforme al CPR | EN 14351-1 |
+
+## Pratiche vietate e rischi per chi acquista
+
+**Attenzione a:**
+- Finestre prive di marcatura CE, o con marcatura CE falsa (senza numero DoP verificabile)
+- Profili in PVC senza certificato IFT o TÜV — l’Uw dichiarato può essere errato
+- Fornitori che non sanno presentare la DoP su richiesta
+- Profili importati da fuori UE non testati secondo le norme europee
+
+**Conseguenze legali:** installare finestre non conformi in un intervento soggetto a permesso può portare al **mancato collaudo da parte dell’ISC**, con obbligo di rimedio a spese del committente.
+
+## FAQ — Normativa prodotti da costruzione 2026
+
+### Che cos’è la Dichiarazione di Prestazione (DoP)?
+La DoP è il documento obbligatorio emesso dal fabbricante che dichiara i valori tecnici provati del prodotto (Uw, permeabilità all’aria, resistenza al vento e altri) secondo la EN 14351-1. Senza DoP il prodotto non può essere commercializzato legalmente nell’UE.
+
+### Che cosa significa la marcatura CE su una finestra?
+La marcatura CE attesta che la finestra è stata provata e soddisfa i requisiti della norma europea EN 14351-1. Non è un marchio di qualità, ma una dichiarazione di conformità obbligatoria per la vendita nell’UE.
+
+### La certificazione nZEB è obbligatoria nelle ristrutturazioni?
+Sì, per le ristrutturazioni soggette a permesso che interessano più del 25 % della superficie dell’involucro. Se sostituite tutte le finestre di un condominio o di una casa, l’intervento deve raggiungere la prestazione nZEB.
+
+### Che cosa cambia concretamente nel 2026 rispetto al 2025?
+I punti principali: le DoP digitali con codice QR diventano lo standard, i controlli dell’ISC al collaudo si intensificano e il nuovo CPR 2 entra nel periodo transitorio — i fabbricanti hanno tre anni per adeguarsi completamente.
+
+### Come verifico se le finestre acquistate sono conformi?
+Chiedete il numero DoP riportato sull’etichetta CE del prodotto e verificatelo sul sito del fabbricante o dell’organismo di certificazione. In Neofort BIZ tutta la documentazione è disponibile su richiesta.
 
 ---
 
@@ -27398,242 +27619,544 @@ Reglaj feronerie + ungere: 150–250 lei/fereastră (sau abonament service anual
 - [Legislație 2026: Ce se schimbă pentru produsele de construcții](/ro/blog/legislatie-2026-produse-constructii-regulament-european)
 
 Neofort BIZ montează ferestre PVC Salamander cu garanție 5 ani și service în București și Ilfov. [Solicită ofertă sau service](/ro/contact). Află mai multe despre [sistemele PVC Salamander](/ro/tamplarie-pvc) pe care le oferim.`,
-      en: `## How Long Do PVC Windows Last Under Normal Conditions?
+      en: `## How long does a PVC window last in normal conditions?
 
-Modern PVC windows, with certified profiles and professional installation, have a **lifespan of 30–50 years** under normal use. Hardware (hinges, locks, handles) typically needs replacement after 15–20 years, but the profile and glass remain functional much longer.
+A modern PVC window, with certified profiles and professional installation, has a **service life of 30–50 years** under normal use. The hardware — hinges, locking gear, closing mechanisms — needs replacing after 15–20 years, but the profile and the glazing stay serviceable far longer.
 
-**Lifespans guaranteed by Neofort BIZ:**
-- **Salamander bluEvolution PVC profiles:** 5-year warranty, estimated 40–50 years lifespan
-- **Triple argon thermal insulating glass:** 5-year seal warranty, estimated 30–40 years
-- **Roto/Winkhaus hardware:** 2-year warranty, estimated 15–25 years (with maintenance)
+**Service lives guaranteed by Neofort BIZ:**
+- **Salamander bluEvolution PVC profiles:** 5-year warranty, estimated life 40–50 years
+- **Triple argon insulating glass:** 5-year warranty on the seal, estimated life 30–40 years
+- **Roto/Winkhaus hardware:** 2-year warranty, estimated life 15–25 years with maintenance
 
-## 7 Clear Signs Your PVC Windows Need Replacing
+**Why do some windows fail sooner?**
 
-### 1. Permanent condensation between glass panes
-Condensation **between the panes** (not on the interior glass surface) means the insulating glass unit seal has failed. The argon has escaped and the glass no longer insulates. **Cannot be repaired — replacement mandatory.**
+| Factor | Impact on service life |
+|---|---|
+| Profile quality (chamber count, wall thickness) | Major — Class A profiles last twice as long |
+| Installation quality (pre-compressed tapes, anchoring) | Major — poor installation leads to leaks and degradation |
+| Regular maintenance (lubricating the hardware) | Medium — without lubrication the mechanisms fail in 8–10 years |
+| UV exposure (orientation, no curtains) | Minor — modern profiles with UV stabilisers hold up |
+| Climate (temperature extremes, humidity) | Minor for quality PVC profiles |
 
-### 2. Draughts or water infiltration
-If you feel draught around a closed window, gaskets are worn. Water on the interior sill after rain means the perimeter seal has failed.
+## Seven clear signs a PVC window needs replacing
+
+### 1. Permanent condensation between the panes
+Condensation **between the panes of the sealed unit** — not on the inner surface of the glass — means the seal of the glazing unit has failed. The argon has escaped and the unit no longer insulates. **This cannot be repaired; the unit has to be replaced.**
+
+### 2. Draughts or water ingress
+If you feel a draught around the window when it is closed, the gaskets are worn. If water appears on the inner sill after rain, the perimeter seal has failed. Both call for prompt intervention.
 
 ### 3. Difficulty opening or closing
-Windows that jam, don't close properly or have a stiff handle have worn hardware or a deformed frame. If hardware adjustment doesn't help, replacement is needed.
+A window that jams, that will not close properly, or whose handle resists excessively has worn hardware or a deformed frame. If adjusting the three-point hardware does not solve it, replacement is required.
 
-### 4. Yellowed, brittle or cracked profiles
-Old profiles (pre-2000) with lead-based stabilisers yellow and become brittle. Cracks in corners or on the profile surface indicate irreversible material degradation.
+### 4. The profile is yellowed, brittle or cracked
+Older profiles from before 2000, made with lead-based stabilisers, yellow and grow brittle over time. Cracks at the corners or on the profile surface indicate irreversible degradation of the material.
 
-### 5. Significantly increased heating costs
-A 20–30% unexplained increase in energy bills may indicate degraded window thermal performance. Test: hold your hand 10 cm from the window in winter — if you feel intense cold radiation, the glass no longer insulates.
+### 5. Heating costs have risen noticeably
+A rise of 20–30% in energy bills that has no other explanation can point to a loss of thermal performance in the windows. A simple test: hold your hand 10 cm from the window in winter — if you feel intense radiant cold, the glazing no longer insulates.
 
-### 6. Increased outside noise
-If street noise levels haven't changed but you hear them louder, acoustic gaskets have worn. Modern triple glazing with Rw = 34–36 dB cuts ~40% of perceived noise vs old double.
+### 6. Outside noise has increased
+If the traffic has not changed but you hear it more clearly, the acoustic gaskets are worn. Modern triple glazing with Rw = 34–36 dB removes roughly 40% of perceived noise compared with old double glazing.
 
-### 7. Hard, cracked or missing gasket sections
-EPDM gaskets harden after 10–15 years. Once hard, they no longer seal.
+### 7. The gaskets are hard, cracked or missing pieces
+EPDM gaskets wear and harden within 10–15 years. Once hard they no longer seal. They can be replaced on their own, but if the frame is worn as well, full replacement is the better value.
 
-## Repair or Replace? The Right Calculation
+## Repair or replace? The correct calculation
 
-**When repair is worthwhile:**
-- Worn hardware on otherwise sound windows → replace hardware only (€40–80/window)
-- Worn gaskets → replace gaskets (€10–20/window)
-- Broken glass or fogging → replace glazing unit only (€80–160)
+### When repair is worth it
+- Worn hardware on otherwise sound windows → replace the hardware alone (200–400 lei per window)
+- Worn gaskets → replace the gaskets (50–100 lei per window)
+- Broken glass or condensation inside the unit → replace the glazing unit alone (400–800 lei)
+- Windows under 15 years old with an intact profile → systematic repair
 
-**When full replacement is more cost-effective:**
-- Yellowed or cracked profiles → cannot be repaired
-- Old double glazed windows (pre-2010) → triple glazing reduces bills by 35–50%
-- Uw > 1.5 W/(m²K) → replacement with triple pays back in 8–12 years
+### When full replacement pays better
+- Yellowed or cracked profiles → these cannot be repaired
+- Old double-glazed windows from before 2010 → switching to triple cuts the bill by 35–50%
+- Uw above 1.5 W/(m²K) → replacement with triple glazing pays back in 8–12 years
+- Windows with structural leaks → the frame itself has degraded
 
-## How to Extend PVC Window Lifespan
+## What does replacing PVC windows cost in 2026?
 
-**Mandatory maintenance twice a year (spring and autumn):**
-1. Lubricate all hardware mechanisms with silicone oil (not WD-40)
-2. Check and adjust the 3-point hardware setting
-3. Clean gaskets with water and soap, apply silicone spray
-4. Check perimeter seal — if you feel draught, call service
+| Window type | Size | Indicative price (installation included) |
+|---|---|---|
+| Tilt-and-turn PVC Salamander bluEvolution 92, triple | 80×120 cm | 1,450–1,800 lei |
+| Tilt-and-turn PVC Salamander bluEvolution 92, triple | 100×150 cm | 1,800–2,200 lei |
+| Double PVC window bluEvolution 92, triple | 150×120 cm | 2,800–3,500 lei |
+| PVC balcony door, triple | 80×210 cm | 2,200–2,800 lei |
 
-## FAQ — PVC Window Lifespan
+*Prices excluding VAT, standard installation in Bucharest and Ilfov*
+
+**Payback calculation for replacement:**
+A 50 m² apartment with 6 old double-glazed windows (Uw = 2.0), replaced with triple-glazed Salamander 92 (Uw = 0.72):
+- Annual saving: around 520 lei per year on energy
+- Total cost for 6 windows: around 12,000 lei
+- **Payback: about 23 years** — but the thermal and acoustic comfort improve immediately
+
+## How to extend the life of PVC windows
+
+**Mandatory maintenance twice a year, in spring and autumn:**
+1. Lubricate all hardware mechanisms with silicone oil, not WD-40
+2. Check and adjust the three-point hardware setting
+3. Clean the gaskets with soap and water, then apply silicone spray
+4. Check the perimeter seal — if you feel a draught, call for service
+5. Clean the profile with non-abrasive, non-acidic products
+
+**What not to do:**
+- Cleaning with acetone, thinner or abrasive products
+- Painting the profile without PVC-specific products
+- Fixing objects to the profile by drilling
+- Forcing the handle while the window is open
+
+## FAQ — PVC window service life
 
 ### How long do Salamander PVC windows last?
-Salamander PVC profiles have an estimated 40–50 year lifespan under normal conditions. Commercial warranty from Neofort BIZ is 5 years. Hardware needs replacement or service after 15–20 years.
+The Salamander PVC profile has an estimated service life of 40–50 years under normal conditions. The commercial warranty from Neofort BIZ is 5 years. The hardware needs replacing or servicing after 15–20 years.
 
-### Can just the glass be replaced without changing the frame?
-Yes, if the frame/profile is in good condition. A new glazing unit costs €80–160 vs €300–400 for the complete window. The technician checks whether the frame rebate allows a thicker unit (e.g. triple instead of double).
+### Can the glazing be replaced without changing the frame?
+Yes, if the frame and profile are in good condition. A new glazing unit costs 400–800 lei against 1,500–2,000 lei for a complete window. The installer checks whether the frame rebate allows a thicker unit, for instance triple instead of double.
 
-### When should PVC window gaskets be replaced?
-EPDM gaskets should be replaced at 10–15 years. Signs: feel cracked to the touch, no longer spring back, or draught with window closed.
+### How often should gaskets be replaced on PVC windows?
+EPDM gaskets are replaced every 10–15 years. The signs: they feel cracked to the touch, they no longer spring back into shape, or a draught appears with the window closed.
+
+### Is it better to repair or replace old windows?
+It depends on the condition of the profile and the current thermal performance. If the profile is intact and the present Uw is below 1.5 W/(m²K), repair is worthwhile. If the profile has degraded or Uw exceeds 1.5 W/(m²K) and you want energy efficiency, full replacement is better in the long run.
+
+### What does servicing PVC windows cost?
+Hardware adjustment and lubrication: 150–250 lei per window, or an annual service contract. Gasket replacement: 50–100 lei per window. Complete hardware replacement: 400–700 lei per window.
 
 ---
 
 Related: [Window Thermal Coefficient Guide 2026](/en/blog/what-thermal-coefficient-should-windows-have) · [Triple vs Double Glazing Savings](/en/blog/triple-vs-double-glazing-real-savings-heating-cost)
 
 Neofort BIZ installs Salamander PVC windows with 5-year warranty and service in Bucharest and Ilfov. [Request quote or service](/en/contact). Learn more about [our Salamander PVC systems](/en/pvc-windows) we offer.`,
-      de: `## Wie lange halten PVC-Fenster unter normalen Bedingungen?
+      de: `## Wie lange hält ein PVC-Fenster unter normalen Bedingungen?
 
-Moderne PVC-Fenster mit zertifizierten Profilen und professioneller Montage haben eine **Lebensdauer von 30–50 Jahren**. Beschläge (Scharniere, Schlösser, Griffe) müssen nach 15–20 Jahren ersetzt werden.
+Ein modernes PVC-Fenster mit zertifizierten Profilen und fachgerechter Montage hat bei normaler Nutzung eine **Lebensdauer von 30–50 Jahren**. Der Beschlag — Bänder, Getriebe, Verschlüsse — muss nach 15–20 Jahren ersetzt werden, Profil und Verglasung bleiben deutlich länger funktionsfähig.
 
-**Von Neofort BIZ garantierte Lebensdauern:**
+**Von Neofort BIZ zugesicherte Lebensdauern:**
 - **Salamander bluEvolution PVC-Profile:** 5 Jahre Garantie, geschätzte Lebensdauer 40–50 Jahre
-- **Dreifach-Isolierglas Argon:** 5 Jahre Dichtungsgarantie, geschätzte Lebensdauer 30–40 Jahre
-- **Roto/Winkhaus Beschläge:** 2 Jahre Garantie, geschätzte Lebensdauer 15–25 Jahre (mit Wartung)
+- **Dreifach-Isolierglas mit Argon:** 5 Jahre Garantie auf die Dichtheit, geschätzte Lebensdauer 30–40 Jahre
+- **Roto/Winkhaus Beschlag:** 2 Jahre Garantie, geschätzte Lebensdauer 15–25 Jahre bei Wartung
 
-## 7 klare Zeichen, dass PVC-Fenster ausgetauscht werden müssen
+**Warum versagen manche Fenster früher?**
 
-1. **Dauerhafter Kondensat zwischen den Scheiben** — Isolierglasdichtung versagt, Austausch zwingend
-2. **Zugluft oder Wasserinfiltration** — Dichtungen verschlissen oder Perimeterdichtung defekt
-3. **Schwierigkeiten beim Öffnen/Schließen** — Beschläge verschlissen oder Rahmen verformt
-4. **Vergilbte, brüchige oder gerissene Profile** — irreversible Materialdegradation
-5. **Deutlich gestiegene Heizkosten** — thermische Leistung hat nachgelassen
-6. **Mehr Außenlärm** — Schallschutzdichtungen verschlissen
-7. **Harte, gerissene oder fehlende Dichtungsabschnitte** — EPDM-Dichtungen nach 10–15 Jahren
+| Faktor | Auswirkung auf die Lebensdauer |
+|---|---|
+| Profilqualität (Kammerzahl, Wandstärke) | Groß — Profile der Klasse A halten doppelt so lange |
+| Montagequalität (vorkomprimierte Bänder, Verankerung) | Groß — mangelhafte Montage führt zu Undichtheiten und Schäden |
+| Regelmäßige Wartung (Beschlag schmieren) | Mittel — ohne Schmierung versagen die Mechanismen in 8–10 Jahren |
+| UV-Belastung (Ausrichtung, keine Vorhänge) | Gering — moderne Profile mit UV-Stabilisatoren halten stand |
+| Klima (Temperaturextreme, Feuchte) | Gering bei hochwertigen PVC-Profilen |
 
-## Reparieren oder ersetzen?
+## Sieben klare Anzeichen, dass ein PVC-Fenster ersetzt werden muss
 
-**Reparatur sinnvoll:** Beschläge tauschen (40–80 €/Fenster), Dichtungen ersetzen (10–20 €/Fenster), Isolierglas einzeln wechseln (80–160 €)
+### 1. Dauerhaftes Kondensat zwischen den Scheiben
+Kondensat **zwischen den Scheiben der Isolierglaseinheit** — nicht auf der Innenseite des Glases — bedeutet, dass der Randverbund versagt hat. Das Argon ist entwichen, die Einheit dämmt nicht mehr. **Das lässt sich nicht reparieren, die Einheit muss ersetzt werden.**
 
-**Kompletter Austausch besser:** Vergilbte/gerissene Profile, alte Zweifachverglasung (vor 2010), Uw > 1,5 W/(m²K)
+### 2. Zugluft oder eindringendes Wasser
+Spüren Sie bei geschlossenem Fenster Zug, sind die Dichtungen verschlissen. Erscheint nach Regen Wasser auf der inneren Fensterbank, hat die Anschlussabdichtung versagt. Beides erfordert rasches Handeln.
 
-## Pflege zur Lebensdauerverlängerung
+### 3. Schwergängiges Öffnen oder Schließen
+Ein Fenster, das klemmt, sich nicht richtig schließt oder dessen Griff übermäßigen Widerstand bietet, hat einen verschlissenen Beschlag oder einen verzogenen Rahmen. Hilft die Einstellung des Dreipunktbeschlags nicht, ist ein Austausch nötig.
 
-Zweimal jährlich: Beschläge mit Silikonöl (kein WD-40) schmieren, 3-Punkt-Beschlag einstellen, Dichtungen reinigen und mit Silikonspray behandeln.
+### 4. Das Profil ist vergilbt, spröde oder gerissen
+Ältere Profile von vor 2000 mit bleihaltigen Stabilisatoren vergilben und werden mit der Zeit spröde. Risse an den Ecken oder auf der Profiloberfläche zeigen eine irreversible Materialschädigung an.
 
-## FAQ — Lebensdauer PVC-Fenster
+### 5. Die Heizkosten sind merklich gestiegen
+Ein Anstieg der Energiekosten um 20–30 %, der sich nicht anders erklären lässt, kann auf nachlassende Wärmedämmung der Fenster hindeuten. Ein einfacher Test: Halten Sie im Winter die Hand 10 cm vor das Fenster — spüren Sie starke Strahlungskälte, dämmt die Verglasung nicht mehr.
+
+### 6. Der Außenlärm hat zugenommen
+Hat sich der Verkehr nicht verändert, Sie hören ihn aber deutlicher, sind die Schalldichtungen verschlissen. Moderne Dreifachverglasung mit Rw = 34–36 dB entfernt rund 40 % des wahrgenommenen Lärms gegenüber alter Zweifachverglasung.
+
+### 7. Die Dichtungen sind hart, rissig oder unvollständig
+EPDM-Dichtungen verschleißen und härten in 10–15 Jahren aus. Einmal hart, dichten sie nicht mehr. Sie lassen sich einzeln ersetzen, doch ist auch der Rahmen verschlissen, lohnt sich der komplette Austausch eher.
+
+## Reparieren oder ersetzen? Die richtige Rechnung
+
+### Wann sich eine Reparatur lohnt
+- Verschlissener Beschlag an ansonsten intakten Fenstern → nur den Beschlag tauschen (200–400 Lei je Fenster)
+- Verschlissene Dichtungen → Dichtungen tauschen (50–100 Lei je Fenster)
+- Gebrochenes Glas oder Kondensat im Scheibenzwischenraum → nur die Glaseinheit tauschen (400–800 Lei)
+- Fenster unter 15 Jahren mit intaktem Profil → systematische Reparatur
+
+### Wann der komplette Austausch günstiger ist
+- Vergilbte oder gerissene Profile → nicht reparabel
+- Alte Zweifachverglasung von vor 2010 → der Wechsel auf Dreifachglas senkt die Rechnung um 35–50 %
+- Uw über 1,5 W/(m²K) → der Austausch gegen Dreifachglas amortisiert sich in 8–12 Jahren
+- Fenster mit baulichen Undichtheiten → der Rahmen selbst ist geschädigt
+
+## Was kostet der Austausch von PVC-Fenstern 2026?
+
+| Fenstertyp | Maß | Richtpreis (Montage inklusive) |
+|---|---|---|
+| Dreh-Kipp PVC Salamander bluEvolution 92, Dreifachglas | 80×120 cm | 1.450–1.800 Lei |
+| Dreh-Kipp PVC Salamander bluEvolution 92, Dreifachglas | 100×150 cm | 1.800–2.200 Lei |
+| Zweiflügeliges PVC-Fenster bluEvolution 92, Dreifachglas | 150×120 cm | 2.800–3.500 Lei |
+| PVC-Balkontür, Dreifachglas | 80×210 cm | 2.200–2.800 Lei |
+
+*Preise ohne MwSt., Standardmontage in Bukarest und Ilfov*
+
+**Amortisationsrechnung für den Austausch:**
+Eine 50-m²-Wohnung mit 6 alten Zweifachfenstern (Uw = 2,0), ersetzt durch Dreifachverglasung Salamander 92 (Uw = 0,72):
+- Jährliche Ersparnis: rund 520 Lei pro Jahr an Energie
+- Gesamtkosten für 6 Fenster: rund 12.000 Lei
+- **Amortisation: etwa 23 Jahre** — der thermische und akustische Komfort verbessert sich jedoch sofort
+
+## Wie Sie die Lebensdauer von PVC-Fenstern verlängern
+
+**Pflichtwartung zweimal jährlich, im Frühjahr und im Herbst:**
+1. Alle Beschlagteile mit Silikonöl schmieren, nicht mit WD-40
+2. Die Einstellung des Dreipunktbeschlags prüfen und nachjustieren
+3. Die Dichtungen mit Wasser und Seife reinigen, danach Silikonspray auftragen
+4. Die Anschlussabdichtung prüfen — bei spürbarer Zugluft den Service rufen
+5. Das Profil mit nicht scheuernden, nicht säurehaltigen Mitteln reinigen
+
+**Was Sie nicht tun sollten:**
+- Reinigen mit Aceton, Verdünner oder Scheuermitteln
+- Das Profil ohne PVC-geeignete Produkte streichen
+- Gegenstände durch Bohren am Profil befestigen
+- Den Griff bei geöffnetem Fenster gewaltsam drehen
+
+## FAQ — Lebensdauer von PVC-Fenstern
 
 ### Wie lange halten Salamander PVC-Fenster?
-Geschätzte Lebensdauer 40–50 Jahre. Handelsgarantie Neofort BIZ: 5 Jahre. Beschläge nach 15–20 Jahren wechseln oder warten.
+Das Salamander PVC-Profil hat unter normalen Bedingungen eine geschätzte Lebensdauer von 40–50 Jahren. Die kaufmännische Garantie von Neofort BIZ beträgt 5 Jahre. Der Beschlag muss nach 15–20 Jahren getauscht oder gewartet werden.
 
-### Kann nur das Glas ohne Rahmentausch ersetzt werden?
-Ja, wenn Rahmen/Profil in gutem Zustand. Isolierglaseinheit: 80–160 €; komplettes Fenster: 300–400 €.
+### Kann man nur die Verglasung tauschen, ohne den Rahmen?
+Ja, wenn Rahmen und Profil in gutem Zustand sind. Eine neue Glaseinheit kostet 400–800 Lei gegenüber 1.500–2.000 Lei für ein komplettes Fenster. Der Monteur prüft, ob der Glasfalz eine dickere Einheit zulässt, etwa Dreifach statt Zweifach.
 
-### Wann sollten PVC-Fensterdichtungen ersetzt werden?
-Nach 10–15 Jahren. Zeichen: fühlen sich rissig an, springen nicht zurück, Zugluft trotz geschlossenem Fenster.
+### Nach wie vielen Jahren werden die Dichtungen getauscht?
+EPDM-Dichtungen werden alle 10–15 Jahre erneuert. Anzeichen dafür: Sie fühlen sich rissig an, sie kehren nicht mehr in ihre Form zurück, oder bei geschlossenem Fenster tritt Zugluft auf.
+
+### Soll man alte Fenster besser reparieren oder ersetzen?
+Das hängt vom Zustand des Profils und der aktuellen Wärmedämmung ab. Ist das Profil intakt und der derzeitige Uw unter 1,5 W/(m²K), lohnt die Reparatur. Ist das Profil geschädigt oder liegt der Uw über 1,5 W/(m²K) und Sie streben Energieeffizienz an, ist der komplette Austausch langfristig besser.
+
+### Was kostet der Service an PVC-Fenstern?
+Beschlag einstellen und schmieren: 150–250 Lei je Fenster, oder ein jährlicher Wartungsvertrag. Dichtungen tauschen: 50–100 Lei je Fenster. Kompletter Beschlagtausch: 400–700 Lei je Fenster.
 
 ---
 
 Neofort BIZ montiert Salamander PVC-Fenster mit 5 Jahren Garantie in Bukarest und Ilfov. [Angebot oder Service anfragen](/de/kontakt). Erfahren Sie mehr über [unsere Salamander PVC-Systeme](/de/kunststofffenster-pvc), die wir anbieten.`,
-      fr: `## Combien de temps durent les fenêtres PVC dans des conditions normales ?
+      fr: `## Combien de temps dure une fenêtre PVC dans des conditions normales ?
 
-Les fenêtres PVC modernes avec profils certifiés et pose professionnelle ont une **durée de vie de 30 à 50 ans**. La quincaillerie (charnières, serrures, poignées) doit être remplacée après 15–20 ans.
+Une fenêtre PVC moderne, avec des profilés certifiés et une pose professionnelle, a une **durée de vie de 30 à 50 ans** en usage normal. La quincaillerie — paumelles, crémones, systèmes de fermeture — demande un remplacement au bout de 15 à 20 ans, mais le profilé et le vitrage restent fonctionnels bien plus longtemps.
 
 **Durées de vie garanties par Neofort BIZ :**
-- **Profilés PVC Salamander bluEvolution :** 5 ans de garantie, durée estimée 40–50 ans
-- **Triple vitrage isolant argon :** 5 ans de garantie étanchéité, durée estimée 30–40 ans
-- **Quincaillerie Roto/Winkhaus :** 2 ans de garantie, durée estimée 15–25 ans (avec entretien)
+- **Profilés PVC Salamander bluEvolution :** garantie 5 ans, durée estimée 40 à 50 ans
+- **Vitrage isolant triple à l’argon :** garantie 5 ans sur l’étanchéité, durée estimée 30 à 40 ans
+- **Quincaillerie Roto/Winkhaus :** garantie 2 ans, durée estimée 15 à 25 ans avec entretien
 
-## 7 signes évidents que les fenêtres PVC doivent être remplacées
+**Pourquoi certaines fenêtres cèdent-elles plus tôt ?**
 
-1. **Condensation permanente entre les vitrages** — joint du vitrage isolant défaillant, remplacement obligatoire
-2. **Courants d'air ou infiltrations d'eau** — joints usés ou étanchéité périphérique défaillante
-3. **Difficultés d'ouverture/fermeture** — quincaillerie usée ou cadre déformé
-4. **Profilés jaunis, cassants ou fissurés** — dégradation irréversible du matériau
-5. **Hausse significative des coûts de chauffage** — performance thermique dégradée
-6. **Augmentation du bruit extérieur** — joints acoustiques usés
-7. **Joints durs, craquelés ou manquants** — joints EPDM à remplacer après 10–15 ans
+| Facteur | Effet sur la durée de vie |
+|---|---|
+| Qualité du profilé (nombre de chambres, épaisseur des parois) | Majeur — les profilés Classe A durent deux fois plus longtemps |
+| Qualité de la pose (bandes précomprimées, ancrage) | Majeur — une pose défaillante entraîne infiltrations et dégradation |
+| Entretien régulier (graissage de la quincaillerie) | Moyen — sans graissage, les mécanismes cèdent en 8 à 10 ans |
+| Exposition aux UV (orientation, absence de rideaux) | Mineur — les profilés modernes à stabilisants UV résistent |
+| Climat (températures extrêmes, humidité) | Mineur pour des profilés PVC de qualité |
 
-## Réparer ou remplacer ?
+## Sept signes clairs qu’une fenêtre PVC doit être remplacée
 
-**Réparation rentable :** Quincaillerie (40–80 €/fenêtre), joints (10–20 €/fenêtre), vitrage seul (80–160 €)
+### 1. Condensation permanente entre les vitres
+La condensation **entre les vitres du double ou triple vitrage** — et non sur la face intérieure — signifie que le scellement de l’unité vitrée a lâché. L’argon s’est échappé, le vitrage n’isole plus. **Cela ne se répare pas : l’unité doit être remplacée.**
 
-**Remplacement complet préférable :** Profilés jaunis/fissurés, double vitrage ancien (avant 2010), Uw > 1,5 W/(m²K)
+### 2. Courants d’air ou infiltrations d’eau
+Si vous sentez un courant d’air autour de la fenêtre fermée, les joints sont usés. Si de l’eau apparaît sur l’appui intérieur après la pluie, l’étanchéité périphérique a cédé. Les deux cas demandent une intervention rapide.
 
-## Entretien pour prolonger la durée de vie
+### 3. Difficultés à ouvrir ou fermer
+Une fenêtre qui coince, qui ne ferme plus correctement ou dont la poignée résiste excessivement a une quincaillerie usée ou un dormant déformé. Si le réglage en trois points ne suffit pas, le remplacement s’impose.
 
-Deux fois par an : lubrifier toute la quincaillerie à l'huile silicone (pas de WD-40), ajuster le réglage 3 points, nettoyer les joints et appliquer un spray silicone.
+### 4. Le profilé est jauni, cassant ou fissuré
+Les profilés anciens d’avant 2000, à stabilisants au plomb, jaunissent et deviennent cassants avec le temps. Des fissures dans les angles ou en surface signalent une dégradation irréversible du matériau.
 
-## FAQ — Durée de vie fenêtres PVC
+### 5. Les coûts de chauffage ont nettement augmenté
+Une hausse de 20 à 30 % des factures d’énergie sans autre explication peut indiquer une perte de performance thermique des fenêtres. Un test simple : placez la main à 10 cm de la fenêtre en hiver — si vous ressentez un froid rayonnant marqué, le vitrage n’isole plus.
+
+### 6. Le bruit extérieur a augmenté
+Si la circulation n’a pas changé mais que vous l’entendez davantage, les joints acoustiques sont usés. Un triple vitrage moderne à Rw = 34–36 dB supprime environ 40 % du bruit perçu par rapport à un ancien double vitrage.
+
+### 7. Les joints sont durs, fissurés ou incomplets
+Les joints EPDM s’usent et durcissent en 10 à 15 ans. Une fois durs, ils n’étanchent plus. Ils se remplacent séparément, mais si le dormant est également usé, le remplacement complet est plus rentable.
+
+## Réparer ou remplacer ? Le calcul juste
+
+### Quand la réparation vaut le coup
+- Quincaillerie usée sur des fenêtres par ailleurs saines → remplacer la seule quincaillerie (200 à 400 lei par fenêtre)
+- Joints usés → remplacer les joints (50 à 100 lei par fenêtre)
+- Vitrage brisé ou avec condensation interne → remplacer la seule unité vitrée (400 à 800 lei)
+- Fenêtres de moins de 15 ans au profilé intact → réparation systématique
+
+### Quand le remplacement complet est plus rentable
+- Profilés jaunis ou fissurés → non réparables
+- Anciennes fenêtres à double vitrage d’avant 2010 → le passage au triple réduit la facture de 35 à 50 %
+- Uw supérieur à 1,5 W/(m²K) → le remplacement par du triple s’amortit en 8 à 12 ans
+- Fenêtres à infiltrations structurelles → le dormant lui-même s’est dégradé
+
+## Combien coûte le remplacement des fenêtres PVC en 2026 ?
+
+| Type de fenêtre | Dimensions | Prix indicatif (pose comprise) |
+|---|---|---|
+| Oscillo-battante PVC Salamander bluEvolution 92, triple | 80×120 cm | 1 450 à 1 800 lei |
+| Oscillo-battante PVC Salamander bluEvolution 92, triple | 100×150 cm | 1 800 à 2 200 lei |
+| Fenêtre à deux vantaux PVC bluEvolution 92, triple | 150×120 cm | 2 800 à 3 500 lei |
+| Porte-fenêtre PVC, triple | 80×210 cm | 2 200 à 2 800 lei |
+
+*Prix hors TVA, pose standard à Bucarest et dans l’Ilfov*
+
+**Calcul d’amortissement du remplacement :**
+Un appartement de 50 m² avec 6 anciennes fenêtres à double vitrage (Uw = 2,0), remplacées par du triple Salamander 92 (Uw = 0,72) :
+- Économie annuelle : environ 520 lei par an sur l’énergie
+- Coût total pour 6 fenêtres : environ 12 000 lei
+- **Amortissement : environ 23 ans** — mais le confort thermique et acoustique s’améliore immédiatement
+
+## Comment prolonger la durée de vie des fenêtres PVC
+
+**Entretien obligatoire deux fois par an, au printemps et à l’automne :**
+1. Graisser tous les mécanismes de la quincaillerie à l’huile silicone, pas au WD-40
+2. Vérifier et ajuster le réglage en trois points de la quincaillerie
+3. Nettoyer les joints à l’eau savonneuse, puis appliquer un spray silicone
+4. Contrôler l’étanchéité périphérique — en cas de courant d’air, faire appel au service
+5. Nettoyer le profilé avec des produits non abrasifs et non acides
+
+**Ce qu’il ne faut pas faire :**
+- Nettoyer à l’acétone, au diluant ou avec des produits abrasifs
+- Peindre le profilé sans produits spécifiques PVC
+- Fixer des objets au profilé en le perçant
+- Forcer la poignée lorsque la fenêtre est ouverte
+
+## FAQ — Durée de vie des fenêtres PVC
 
 ### Combien de temps durent les fenêtres PVC Salamander ?
-Durée de vie estimée 40–50 ans. Garantie commerciale Neofort BIZ : 5 ans. Quincaillerie à changer après 15–20 ans.
+Le profilé PVC Salamander a une durée de vie estimée de 40 à 50 ans dans des conditions normales. La garantie commerciale accordée par Neofort BIZ est de 5 ans. La quincaillerie demande un remplacement ou un entretien après 15 à 20 ans.
 
-### Peut-on remplacer seulement le vitrage sans changer le cadre ?
-Oui, si le cadre est en bon état. Unité de vitrage : 80–160 € contre 300–400 € pour la fenêtre complète.
+### Peut-on remplacer uniquement le vitrage sans changer le dormant ?
+Oui, si le dormant et le profilé sont en bon état. Une unité vitrée neuve coûte 400 à 800 lei contre 1 500 à 2 000 lei pour une fenêtre complète. Le poseur vérifie si la feuillure permet une unité plus épaisse, par exemple du triple à la place du double.
 
-### Quand remplacer les joints de fenêtres PVC ?
-Après 10–15 ans. Signes : dureté au toucher, ne reprennent plus leur forme, courants d'air fenêtre fermée.
+### Tous les combien remplace-t-on les joints des fenêtres PVC ?
+Les joints EPDM se remplacent tous les 10 à 15 ans. Les signes : ils sont fissurés au toucher, ils ne reprennent plus leur forme, ou un courant d’air apparaît fenêtre fermée.
+
+### Vaut-il mieux réparer ou remplacer d’anciennes fenêtres ?
+Cela dépend de l’état du profilé et de la performance thermique actuelle. Si le profilé est intact et que le Uw actuel est inférieur à 1,5 W/(m²K), la réparation est rentable. Si le profilé est dégradé ou que le Uw dépasse 1,5 W/(m²K) et que vous visez l’efficacité énergétique, le remplacement complet est préférable sur le long terme.
+
+### Combien coûte l’entretien des fenêtres PVC ?
+Réglage de la quincaillerie et graissage : 150 à 250 lei par fenêtre, ou un contrat d’entretien annuel. Remplacement des joints : 50 à 100 lei par fenêtre. Remplacement complet de la quincaillerie : 400 à 700 lei par fenêtre.
 
 ---
 
 Neofort BIZ pose des fenêtres PVC Salamander avec 5 ans de garantie à Bucarest et Ilfov. [Demander un devis ou un service](/fr/contact). En savoir plus sur [nos systèmes PVC Salamander](/fr/menuiserie-pvc) que nous proposons.`,
-      es: `## ¿Cuánto duran las ventanas de PVC en condiciones normales?
+      es: `## ¿Cuánto dura una ventana de PVC en condiciones normales?
 
-Las ventanas de PVC modernas con perfiles certificados e instalación profesional tienen una **vida útil de 30 a 50 años**. La herraje (bisagras, cierres, manillas) suele necesitar sustitución tras 15–20 años.
+Una ventana de PVC moderna, con perfiles certificados e instalación profesional, tiene una **vida útil de 30 a 50 años** en uso normal. La herrajería — bisagras, cremonas, sistemas de cierre — necesita sustitución a los 15 o 20 años, pero el perfil y el vidrio siguen siendo funcionales mucho más tiempo.
 
 **Vidas útiles garantizadas por Neofort BIZ:**
-- **Perfiles PVC Salamander bluEvolution:** 5 años de garantía, vida útil estimada 40–50 años
-- **Triple acristalamiento aislante argón:** 5 años de garantía de sellado, vida útil estimada 30–40 años
-- **Herraje Roto/Winkhaus:** 2 años de garantía, vida útil estimada 15–25 años (con mantenimiento)
+- **Perfiles PVC Salamander bluEvolution:** garantía de 5 años, duración estimada de 40 a 50 años
+- **Vidrio aislante triple con argón:** garantía de 5 años en la estanqueidad, duración estimada de 30 a 40 años
+- **Herrajería Roto/Winkhaus:** garantía de 2 años, duración estimada de 15 a 25 años con mantenimiento
 
-## 7 señales claras de que las ventanas de PVC deben reemplazarse
+**¿Por qué algunas ventanas fallan antes?**
 
-1. **Condensación permanente entre los vidrios** — sellado de la unidad de vidrio fallido, sustitución obligatoria
-2. **Corrientes de aire o infiltraciones de agua** — juntas desgastadas o sellado perimetral fallido
-3. **Dificultades al abrir/cerrar** — herraje desgastado o marco deformado
-4. **Perfiles amarillentos, frágiles o agrietados** — degradación irreversible del material
-5. **Aumento significativo de los costes de calefacción** — rendimiento térmico degradado
-6. **Mayor ruido exterior** — juntas acústicas desgastadas
-7. **Juntas duras, agrietadas o con partes faltantes** — juntas EPDM a sustituir tras 10–15 años
+| Factor | Efecto sobre la vida útil |
+|---|---|
+| Calidad del perfil (número de cámaras, espesor de paredes) | Mayor — los perfiles Clase A duran el doble |
+| Calidad de la instalación (cintas precomprimidas, anclaje) | Mayor — una mala instalación provoca infiltraciones y deterioro |
+| Mantenimiento periódico (engrase de la herrajería) | Medio — sin engrase los mecanismos fallan en 8 a 10 años |
+| Exposición a los UV (orientación, sin cortinas) | Menor — los perfiles modernos con estabilizantes UV resisten |
+| Clima (temperaturas extremas, humedad) | Menor en perfiles de PVC de calidad |
 
-## ¿Reparar o reemplazar?
+## Siete señales claras de que hay que cambiar una ventana de PVC
 
-**Reparación rentable:** Herraje (40–80 €/ventana), juntas (10–20 €/ventana), solo el vidrio (80–160 €)
+### 1. Condensación permanente entre los vidrios
+La condensación **entre los vidrios de la unidad aislante** — no en la cara interior del cristal — indica que el sellado del vidrio ha fallado. El argón se ha escapado y el vidrio ya no aísla. **No tiene reparación: hay que sustituir la unidad.**
 
-**Sustitución completa preferible:** Perfiles amarillentos/agrietados, doble vidrio antiguo (antes de 2010), Uw > 1,5 W/(m²K)
+### 2. Corrientes de aire o entrada de agua
+Si nota corriente alrededor de la ventana cerrada, las juntas están gastadas. Si aparece agua en el alféizar interior tras la lluvia, el sellado perimetral ha fallado. Ambos casos exigen intervención rápida.
 
-## Mantenimiento para prolongar la vida útil
+### 3. Dificultad para abrir o cerrar
+Una ventana que se atasca, que no cierra bien o cuya manilla ofrece una resistencia excesiva tiene la herrajería gastada o el marco deformado. Si el ajuste de tres puntos no lo resuelve, hay que sustituirla.
 
-Dos veces al año: lubricar toda la herraje con aceite de silicona (no WD-40), ajustar el regulado de 3 puntos, limpiar las juntas y aplicar spray de silicona.
+### 4. El perfil está amarillento, quebradizo o agrietado
+Los perfiles antiguos anteriores a 2000, con estabilizantes de plomo, amarillean y se vuelven quebradizos con el tiempo. Las grietas en las esquinas o en la superficie indican un deterioro irreversible del material.
 
-## FAQ — Vida útil ventanas PVC
+### 5. Los costes de calefacción han subido de forma notable
+Un aumento del 20 al 30 % en las facturas de energía sin otra explicación puede indicar pérdida de prestaciones térmicas en las ventanas. Una prueba sencilla: ponga la mano a 10 cm de la ventana en invierno — si siente un frío radiante intenso, el vidrio ya no aísla.
 
-### ¿Cuánto duran las ventanas PVC Salamander?
-Vida útil estimada 40–50 años. Garantía comercial Neofort BIZ: 5 años. La herraje necesita cambio o servicio tras 15–20 años.
+### 6. El ruido exterior ha aumentado
+Si el tráfico no ha cambiado pero lo oye con más claridad, las juntas acústicas están gastadas. Un triple acristalamiento moderno con Rw = 34–36 dB elimina en torno al 40 % del ruido percibido frente a un doble antiguo.
 
-### ¿Se puede sustituir solo el vidrio sin cambiar el marco?
-Sí, si el marco está en buen estado. Unidad de vidrio: 80–160 € frente a 300–400 € para la ventana completa.
+### 7. Las juntas están duras, agrietadas o incompletas
+Las juntas de EPDM se desgastan y endurecen en 10 a 15 años. Una vez duras, dejan de sellar. Se pueden cambiar por separado, pero si el marco también está gastado, la sustitución completa sale más rentable.
 
-### ¿Cuándo hay que sustituir las juntas de las ventanas de PVC?
-Tras 10–15 años. Señales: sensación de dureza, no recuperan su forma, corrientes de aire con la ventana cerrada.
+## ¿Reparar o sustituir? El cálculo correcto
+
+### Cuándo compensa reparar
+- Herrajería gastada en ventanas por lo demás sanas → cambiar solo la herrajería (200 a 400 lei por ventana)
+- Juntas gastadas → cambiar las juntas (50 a 100 lei por ventana)
+- Vidrio roto o con condensación interior → cambiar solo la unidad de vidrio (400 a 800 lei)
+- Ventanas de menos de 15 años con el perfil intacto → reparación sistemática
+
+### Cuándo sale mejor la sustitución completa
+- Perfiles amarillentos o agrietados → no tienen reparación
+- Ventanas antiguas de doble vidrio anteriores a 2010 → pasar al triple reduce la factura entre un 35 y un 50 %
+- Uw superior a 1,5 W/(m²K) → la sustitución por triple se amortiza en 8 a 12 años
+- Ventanas con infiltraciones estructurales → el propio marco se ha deteriorado
+
+## ¿Cuánto cuesta cambiar las ventanas de PVC en 2026?
+
+| Tipo de ventana | Medidas | Precio orientativo (instalación incluida) |
+|---|---|---|
+| Oscilobatiente PVC Salamander bluEvolution 92, triple | 80×120 cm | 1.450 a 1.800 lei |
+| Oscilobatiente PVC Salamander bluEvolution 92, triple | 100×150 cm | 1.800 a 2.200 lei |
+| Ventana de dos hojas PVC bluEvolution 92, triple | 150×120 cm | 2.800 a 3.500 lei |
+| Puerta de balcón PVC, triple | 80×210 cm | 2.200 a 2.800 lei |
+
+*Precios sin IVA, instalación estándar en Bucarest e Ilfov*
+
+**Cálculo de amortización de la sustitución:**
+Un piso de 50 m² con 6 ventanas antiguas de doble vidrio (Uw = 2,0), sustituidas por triple Salamander 92 (Uw = 0,72):
+- Ahorro anual: unos 520 lei al año en energía
+- Coste total de las 6 ventanas: unos 12.000 lei
+- **Amortización: unos 23 años** — pero el confort térmico y acústico mejora de inmediato
+
+## Cómo alargar la vida útil de las ventanas de PVC
+
+**Mantenimiento obligatorio dos veces al año, en primavera y otoño:**
+1. Engrasar todos los mecanismos de la herrajería con aceite de silicona, no con WD-40
+2. Comprobar y ajustar la regulación de tres puntos de la herrajería
+3. Limpiar las juntas con agua y jabón y aplicar después spray de silicona
+4. Revisar el sellado perimetral — si nota corriente, avise al servicio técnico
+5. Limpiar el perfil con productos no abrasivos ni ácidos
+
+**Lo que no debe hacerse:**
+- Limpiar con acetona, disolvente o productos abrasivos
+- Pintar el perfil sin productos específicos para PVC
+- Fijar objetos al perfil taladrándolo
+- Forzar la manilla con la ventana abierta
+
+## FAQ — Vida útil de las ventanas de PVC
+
+### ¿Cuánto duran las ventanas de PVC Salamander?
+El perfil de PVC Salamander tiene una vida útil estimada de 40 a 50 años en condiciones normales. La garantía comercial de Neofort BIZ es de 5 años. La herrajería necesita sustitución o revisión a los 15 o 20 años.
+
+### ¿Se pueden cambiar solo los vidrios sin tocar el marco?
+Sí, si el marco y el perfil están en buen estado. Una unidad de vidrio nueva cuesta de 400 a 800 lei frente a 1.500 a 2.000 lei de una ventana completa. El instalador comprueba si el galce del marco admite una unidad más gruesa, por ejemplo triple en lugar de doble.
+
+### ¿Cada cuántos años se cambian las juntas de las ventanas de PVC?
+Las juntas de EPDM se sustituyen cada 10 a 15 años. Las señales: se notan agrietadas al tacto, ya no recuperan su forma, o aparece corriente con la ventana cerrada.
+
+### ¿Es mejor reparar o sustituir las ventanas antiguas?
+Depende del estado del perfil y de las prestaciones térmicas actuales. Si el perfil está intacto y el Uw actual es inferior a 1,5 W/(m²K), reparar es rentable. Si el perfil está deteriorado o el Uw supera 1,5 W/(m²K) y busca eficiencia energética, la sustitución completa es mejor a largo plazo.
+
+### ¿Cuánto cuesta el servicio técnico de ventanas de PVC?
+Ajuste de la herrajería y engrase: de 150 a 250 lei por ventana, o un contrato anual de mantenimiento. Cambio de juntas: de 50 a 100 lei por ventana. Sustitución completa de la herrajería: de 400 a 700 lei por ventana.
 
 ---
 
 Neofort BIZ instala ventanas PVC Salamander con 5 años de garantía en Bucarest e Ilfov. [Solicitar presupuesto o servicio](/es/contacto). Más información sobre [nuestros sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos.`,
-      it: `## Quanto durano le finestre in PVC in condizioni normali?
+      it: `## Quanto dura una finestra in PVC in condizioni normali?
 
-Le finestre in PVC moderne con profili certificati e installazione professionale hanno una **vita utile di 30–50 anni**. La ferramenta (cerniere, serrature, maniglie) necessita di sostituzione dopo 15–20 anni.
+Una finestra in PVC moderna, con profili certificati e posa professionale, ha una **durata di 30–50 anni** in uso normale. La ferramenta — cerniere, cremonesi, sistemi di chiusura — richiede sostituzione dopo 15–20 anni, ma profilo e vetro restano funzionali molto più a lungo.
 
-**Vite utili garantite da Neofort BIZ:**
-- **Profili PVC Salamander bluEvolution:** 5 anni di garanzia, vita utile stimata 40–50 anni
-- **Triplo vetro isolante argon:** 5 anni di garanzia tenuta, vita utile stimata 30–40 anni
-- **Ferramenta Roto/Winkhaus:** 2 anni di garanzia, vita utile stimata 15–25 anni (con manutenzione)
+**Durate garantite da Neofort BIZ:**
+- **Profili PVC Salamander bluEvolution:** garanzia 5 anni, durata stimata 40–50 anni
+- **Vetrocamera tripla con argon:** garanzia 5 anni sulla tenuta, durata stimata 30–40 anni
+- **Ferramenta Roto/Winkhaus:** garanzia 2 anni, durata stimata 15–25 anni con manutenzione
 
-## 7 segnali chiari che le finestre in PVC vanno sostituite
+**Perché alcune finestre cedono prima?**
 
-1. **Condensa permanente tra i vetri** — guarnizione della vetrocamera ceduta, sostituzione obbligatoria
-2. **Correnti d'aria o infiltrazioni d'acqua** — guarnizioni usurate o sigillatura perimetrale ceduta
-3. **Difficoltà di apertura/chiusura** — ferramenta usurata o telaio deformato
-4. **Profili ingialliti, fragili o screpolati** — degradazione irreversibile del materiale
-5. **Aumento significativo dei costi di riscaldamento** — prestazioni termiche degradate
-6. **Maggiore rumore esterno** — guarnizioni acustiche usurate
-7. **Guarnizioni dure, screpolate o mancanti** — guarnizioni EPDM da sostituire dopo 10–15 anni
+| Fattore | Effetto sulla durata |
+|---|---|
+| Qualità del profilo (numero di camere, spessore delle pareti) | Rilevante — i profili Classe A durano il doppio |
+| Qualità della posa (nastri precompressi, ancoraggio) | Rilevante — una posa scadente porta a infiltrazioni e degrado |
+| Manutenzione periodica (lubrificazione della ferramenta) | Medio — senza lubrificazione i meccanismi cedono in 8–10 anni |
+| Esposizione ai raggi UV (orientamento, assenza di tende) | Modesto — i profili moderni con stabilizzanti UV reggono |
+| Clima (temperature estreme, umidità) | Modesto sui profili in PVC di qualità |
 
-## Riparare o sostituire?
+## Sette segnali chiari che una finestra in PVC va sostituita
 
-**Riparazione conveniente:** Ferramenta (40–80 €/finestra), guarnizioni (10–20 €/finestra), solo il vetro (80–160 €)
+### 1. Condensa permanente tra i vetri
+La condensa **tra i vetri della vetrocamera** — non sulla faccia interna del vetro — indica che la sigillatura dell’unità vetrata ha ceduto. L’argon è uscito e il vetro non isola più. **Non è riparabile: l’unità va sostituita.**
 
-**Sostituzione completa preferibile:** Profili ingialliti/screpolati, doppio vetro antico (prima del 2010), Uw > 1,5 W/(m²K)
+### 2. Spifferi o infiltrazioni d’acqua
+Se avvertite corrente attorno alla finestra chiusa, le guarnizioni sono usurate. Se dopo la pioggia compare acqua sul davanzale interno, la sigillatura perimetrale ha ceduto. Entrambi i casi richiedono un intervento rapido.
 
-## Manutenzione per prolungare la vita utile
+### 3. Difficoltà nell’apertura o nella chiusura
+Una finestra che si blocca, che non chiude bene o la cui maniglia oppone una resistenza eccessiva ha la ferramenta usurata o il telaio deformato. Se la regolazione a tre punti non risolve, serve la sostituzione.
 
-Due volte l'anno: lubrificare tutta la ferramenta con olio al silicone (non WD-40), regolare l'assetto a 3 punti, pulire le guarnizioni e applicare spray al silicone.
+### 4. Il profilo è ingiallito, fragile o crepato
+I profili vecchi, precedenti al 2000, con stabilizzanti a base di piombo ingialliscono e diventano fragili nel tempo. Le crepe negli angoli o sulla superficie indicano un degrado irreversibile del materiale.
 
-## FAQ — Vita utile finestre PVC
+### 5. I costi di riscaldamento sono aumentati sensibilmente
+Un aumento del 20–30 % delle bollette energetiche senza altra spiegazione può indicare una perdita di prestazioni termiche delle finestre. Una prova semplice: mettete la mano a 10 cm dalla finestra d’inverno — se avvertite un freddo radiante marcato, il vetro non isola più.
 
-### Quanto durano le finestre PVC Salamander?
-Vita utile stimata 40–50 anni. Garanzia commerciale Neofort BIZ: 5 anni. La ferramenta necessita di cambio o manutenzione dopo 15–20 anni.
+### 6. Il rumore esterno è aumentato
+Se il traffico non è cambiato ma lo sentite di più, le guarnizioni acustiche sono usurate. Un triplo vetro moderno con Rw = 34–36 dB elimina circa il 40 % del rumore percepito rispetto a un doppio vetro datato.
 
-### Si può sostituire solo il vetro senza cambiare il telaio?
-Sì, se il telaio è in buone condizioni. Unità vetrocamera: 80–160 € contro 300–400 € per la finestra completa.
+### 7. Le guarnizioni sono dure, crepate o incomplete
+Le guarnizioni in EPDM si usurano e induriscono in 10–15 anni. Una volta dure non sigillano più. Si possono sostituire da sole, ma se anche il telaio è usurato conviene la sostituzione completa.
 
-### Quando vanno sostituite le guarnizioni delle finestre in PVC?
-Dopo 10–15 anni. Segnali: sensazione di durezza al tatto, non riprendono la forma, correnti d'aria con finestra chiusa.
+## Riparare o sostituire? Il calcolo corretto
+
+### Quando conviene riparare
+- Ferramenta usurata su finestre per il resto integre → sostituire solo la ferramenta (200–400 lei a finestra)
+- Guarnizioni usurate → sostituire le guarnizioni (50–100 lei a finestra)
+- Vetro rotto o con condensa interna → sostituire solo la vetrocamera (400–800 lei)
+- Finestre con meno di 15 anni e profilo integro → riparazione sistematica
+
+### Quando conviene la sostituzione completa
+- Profili ingialliti o crepati → non riparabili
+- Vecchie finestre con doppio vetro anteriori al 2010 → passare al triplo riduce la bolletta del 35–50 %
+- Uw superiore a 1,5 W/(m²K) → la sostituzione con triplo si ammortizza in 8–12 anni
+- Finestre con infiltrazioni strutturali → il telaio stesso si è degradato
+
+## Quanto costa sostituire le finestre in PVC nel 2026?
+
+| Tipo di finestra | Dimensioni | Prezzo indicativo (posa inclusa) |
+|---|---|---|
+| Anta-ribalta PVC Salamander bluEvolution 92, triplo | 80×120 cm | 1.450–1.800 lei |
+| Anta-ribalta PVC Salamander bluEvolution 92, triplo | 100×150 cm | 1.800–2.200 lei |
+| Finestra a due ante PVC bluEvolution 92, triplo | 150×120 cm | 2.800–3.500 lei |
+| Porta-finestra PVC, triplo | 80×210 cm | 2.200–2.800 lei |
+
+*Prezzi IVA esclusa, posa standard a Bucarest e nell’Ilfov*
+
+**Calcolo dell’ammortamento della sostituzione:**
+Un appartamento di 50 m² con 6 vecchie finestre a doppio vetro (Uw = 2,0), sostituite con triplo Salamander 92 (Uw = 0,72):
+- Risparmio annuo: circa 520 lei all’anno di energia
+- Costo totale per 6 finestre: circa 12.000 lei
+- **Ammortamento: circa 23 anni** — ma il comfort termico e acustico migliora subito
+
+## Come allungare la vita delle finestre in PVC
+
+**Manutenzione obbligatoria due volte l’anno, in primavera e in autunno:**
+1. Lubrificare tutti i meccanismi della ferramenta con olio siliconico, non con WD-40
+2. Verificare e regolare la registrazione a tre punti della ferramenta
+3. Pulire le guarnizioni con acqua e sapone, poi applicare spray siliconico
+4. Controllare la tenuta perimetrale — se avvertite corrente, chiamate l’assistenza
+5. Pulire il profilo con prodotti non abrasivi e non acidi
+
+**Cosa non fare:**
+- Pulire con acetone, diluente o prodotti abrasivi
+- Verniciare il profilo senza prodotti specifici per PVC
+- Fissare oggetti al profilo forandolo
+- Forzare la maniglia con la finestra aperta
+
+## FAQ — Durata delle finestre in PVC
+
+### Quanto durano le finestre in PVC Salamander?
+Il profilo in PVC Salamander ha una durata stimata di 40–50 anni in condizioni normali. La garanzia commerciale di Neofort BIZ è di 5 anni. La ferramenta richiede sostituzione o manutenzione dopo 15–20 anni.
+
+### Si possono sostituire solo i vetri senza cambiare il telaio?
+Sì, se telaio e profilo sono in buono stato. Una vetrocamera nuova costa 400–800 lei contro 1.500–2.000 lei di una finestra completa. Il posatore verifica se la battuta del telaio consente uno spessore maggiore, per esempio triplo al posto del doppio.
+
+### Ogni quanti anni si cambiano le guarnizioni?
+Le guarnizioni in EPDM si sostituiscono ogni 10–15 anni. I segnali: risultano crepate al tatto, non tornano più in forma, oppure compare corrente a finestra chiusa.
+
+### È meglio riparare o sostituire le finestre vecchie?
+Dipende dallo stato del profilo e dalle prestazioni termiche attuali. Se il profilo è integro e l’Uw attuale è sotto 1,5 W/(m²K), la riparazione conviene. Se il profilo è degradato o l’Uw supera 1,5 W/(m²K) e puntate all’efficienza energetica, la sostituzione completa è migliore sul lungo periodo.
+
+### Quanto costa l’assistenza sulle finestre in PVC?
+Regolazione della ferramenta e lubrificazione: 150–250 lei a finestra, oppure un contratto annuale di manutenzione. Sostituzione delle guarnizioni: 50–100 lei a finestra. Sostituzione completa della ferramenta: 400–700 lei a finestra.
 
 ---
 
