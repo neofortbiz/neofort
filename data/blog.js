@@ -12084,6 +12084,11 @@ Alumil Supreme SF85, cu poliamidă de 34 mm, inserții Kooltherm și spumă izol
 ### Poate fi folosit aluminiul fără barieră termică la exterior?
 
 Nu este recomandat. Fără barieră termică, aluminiul este adecvat doar la interior — compartimentări, showroom-uri, garaje — unde diferența de temperatură dintre cele două fețe ale profilului nu este semnificativă. La exterior produce condens și pierderi termice mari.
+
+
+---
+
+Neofort BIZ furnizează și montează tâmplărie din aluminiu Alumil cu barieră termică, în București și Ilfov. [Trimite-ne datele proiectului](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim.
 `,
 
       en: `## What is a thermal break and why does it matter for aluminium
@@ -12224,6 +12229,11 @@ Alumil Supreme SF85, with a 34 mm polyamide, Kooltherm inserts and insulating fo
 ### Can aluminium without a thermal break be used outdoors?
 
 It is not recommended. Without a thermal break, aluminium is suitable only indoors — partitions, showrooms, garages — where the temperature difference between the two faces of the profile is not significant. Outdoors it causes condensation and large heat loss.
+
+
+---
+
+Neofort BIZ supplies and installs thermally broken Alumil aluminium joinery in Bucharest and Ilfov. [Send us the project details](/en/contact) and you will receive a quote within 48 hours. See the [aluminium joinery range](/en/aluminium-windows) we offer.
 `,
 
       de: `## Was ist eine Wärmedämmung und warum ist sie bei Aluminium wichtig
@@ -12341,6 +12351,11 @@ Alumil Supreme SF85, mit 34-mm-Polyamid, Kooltherm-Einsätzen und Dämmschaum, e
 ### Kann Aluminium ohne thermische Trennung außen verwendet werden?
 
 Nicht empfohlen. Ohne thermische Trennung ist Aluminium nur für innen geeignet — Trennwände, Showrooms, Garagen — wo der Temperaturunterschied zwischen den beiden Profilseiten nicht signifikant ist. Außen verursacht es Kondensat und große Wärmeverluste.
+
+
+---
+
+Neofort BIZ liefert und montiert Alumil Aluminiumfenster mit thermischer Trennung in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [Aluminium-Sortiment](/de/aluminiumfenster).
 `,
 
       fr: `## Qu'est-ce que la rupture thermique et pourquoi est-elle importante pour l'aluminium
@@ -12433,6 +12448,11 @@ L'Alumil Supreme SF85, avec polyamide de 34 mm, inserts Kooltherm et mousse isol
 ### L'aluminium sans rupture thermique peut-il être utilisé à l'extérieur ?
 
 Ce n'est pas recommandé. Sans rupture thermique, l'aluminium convient seulement à l'intérieur — cloisons, showrooms, garages — où la différence de température entre les deux faces du profilé n'est pas significative. À l'extérieur, il provoque condensation et grandes pertes thermiques.
+
+
+---
+
+Neofort BIZ fournit et pose des menuiseries aluminium Alumil à rupture de pont thermique, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du projet](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme aluminium](/fr/menuiserie-aluminium).
 `,
 
       es: `## Qué es el rotura de puente térmico y por qué importa en el aluminio
@@ -12525,6 +12545,11 @@ El Alumil Supreme SF85, con poliamida de 34 mm, insertos Kooltherm y espuma aisl
 ### ¿Se puede usar aluminio sin rotura térmica en el exterior?
 
 No se recomienda. Sin rotura térmica, el aluminio solo es apto para interior — tabiques, showrooms, garajes — donde la diferencia de temperatura entre las dos caras del perfil no es significativa. En el exterior provoca condensación y grandes pérdidas térmicas.
+
+
+---
+
+Neofort BIZ suministra e instala carpintería de aluminio Alumil con rotura de puente térmico en Bucarest e Ilfov. [Envíenos los datos del proyecto](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de aluminio](/es/carpinteria-aluminio).
 `,
 
       it: `## Cos'è il taglio termico e perché è importante per l'alluminio
@@ -12617,6 +12642,11 @@ L'Alumil Supreme SF85, con poliammide da 34 mm, inserti Kooltherm e schiuma isol
 ### L'alluminio senza taglio termico può essere usato all'esterno?
 
 Non è consigliato. Senza taglio termico, l'alluminio è adatto solo all'interno — pareti divisorie, showroom, garage — dove la differenza di temperatura tra le due facce del profilo non è significativa. All'esterno provoca condensa e grandi dispersioni termiche.
+
+
+---
+
+Neofort BIZ fornisce e posa serramenti in alluminio Alumil a taglio termico a Bucarest e nell’Ilfov. [Inviateci i dati del progetto](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma in alluminio](/it/infissi-alluminio).
 `,
     },
   },
@@ -13508,6 +13538,11 @@ Zipscreen Screen, cu microperforații de 3-10% deschidere vizuală, filtrează 9
 ### Rezistă Zipscreen la vânt puternic pe terase deschise?
 
 Da. Datorită fermoarului ZIP care fixează marginile materialului în ghidaje, Zipscreen este testat și certificat Clasa 6 Beaufort, până la 88 km/h. Este singura soluție textilă viabilă pentru terase deschise, pergole și fațade expuse la vânt.
+
+
+---
+
+Neofort BIZ montează ZipScreen, rulouri, Raffstore și pergole bioclimatice, în București și Ilfov. [Descrie-ne terasa](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de sisteme de umbrire](/ro/umbrire) pe care o oferim.
 `,
 
       en: `## What is Zipscreen and why is it different from classic roller shutters
@@ -13606,6 +13641,11 @@ Zipscreen Screen, with micro-perforations of 3-10% visual openness, filters 95-9
 ### Does Zipscreen withstand strong wind on open terraces?
 
 Yes. Thanks to the ZIP that locks the fabric edges in the guides, Zipscreen is tested and certified Beaufort Class 6, up to 88 km/h. It is the only viable fabric solution for open terraces, pergolas and wind-exposed façades.
+
+
+---
+
+Neofort BIZ installs ZipScreen, roller shutters, Raffstore and bioclimatic pergolas in Bucharest and Ilfov. [Describe your terrace](/en/contact) and you will receive a quote within 48 hours. See the [shading systems range](/en/shading-systems) we offer.
 `,
 
       de: `## Was ist Zipscreen und warum ist es anders als klassische Rollläden
@@ -13688,6 +13728,11 @@ Zipscreen Screen, mit Mikroperforationen von 3-10% visueller Öffnung, filtert 9
 ### Hält Zipscreen starkem Wind auf offenen Terrassen stand?
 
 Ja. Dank des ZIP, der die Stoffkanten in den Führungen verriegelt, ist Zipscreen getestet und zertifiziert nach Beaufort Klasse 6, bis 88 km/h. Es ist die einzige praktikable Stofflösung für offene Terrassen, Pergolen und windexponierte Fassaden.
+
+
+---
+
+Neofort BIZ montiert ZipScreen, Rollläden, Raffstore und bioklimatische Pergolen in Bukarest und Ilfov. [Beschreiben Sie uns Ihre Terrasse](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [Beschattungssortiment](/de/beschattungssysteme).
 `,
 
       fr: `## Qu'est-ce que Zipscreen et pourquoi est-il différent des stores classiques
@@ -13768,6 +13813,11 @@ Le Zipscreen Screen, avec micro-perforations de 3-10% d'ouverture visuelle, filt
 ### Le Zipscreen résiste-t-il au vent fort sur terrasses ouvertes ?
 
 Oui. Grâce à la fermeture ZIP qui verrouille les bords du tissu dans les guides, le Zipscreen est testé et certifié classe 6 Beaufort, jusqu'à 88 km/h. C'est la seule solution textile viable pour terrasses ouvertes, pergolas et façades exposées au vent.
+
+
+---
+
+Neofort BIZ pose ZipScreen, volets roulants, Raffstore et pergolas bioclimatiques à Bucarest et dans l’Ilfov. [Décrivez-nous votre terrasse](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme d’occultation](/fr/systemes-occultation).
 `,
 
       es: `## Qué es Zipscreen y por qué es diferente de las persianas clásicas
@@ -13846,6 +13896,11 @@ El Zipscreen Screen, con microperforaciones de 3-10% de apertura visual, filtra 
 ### ¿Resiste el Zipscreen al viento fuerte en terrazas abiertas?
 
 Sí. Gracias a la cremallera ZIP que bloquea los bordes del tejido en las guías, el Zipscreen está probado y certificado clase 6 Beaufort, hasta 88 km/h. Es la única solución textil viable para terrazas abiertas, pérgolas y fachadas expuestas al viento.
+
+
+---
+
+Neofort BIZ instala ZipScreen, persianas, Raffstore y pérgolas bioclimáticas en Bucarest e Ilfov. [Descríbanos su terraza](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de sombreado](/es/sistemas-sombreado).
 `,
 
       it: `## Cos'è Zipscreen e perché è diverso dalle tapparelle classiche
@@ -13924,6 +13979,11 @@ Lo Zipscreen Screen, con microperforazioni dal 3-10% di apertura visiva, filtra 
 ### Lo Zipscreen resiste al vento forte su terrazze aperte?
 
 Sì. Grazie alla cerniera ZIP che blocca i bordi del tessuto nelle guide, lo Zipscreen è testato e certificato Classe 6 Beaufort, fino a 88 km/h. È l'unica soluzione tessile valida per terrazze aperte, pergole e facciate esposte al vento.
+
+
+---
+
+Neofort BIZ installa ZipScreen, tapparelle, Raffstore e pergole bioclimatiche a Bucarest e nell’Ilfov. [Descriveteci la vostra terrazza](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma di oscuramento](/it/sistemi-oscuramento).
 `,
     },
   },
@@ -14096,6 +14156,11 @@ O ușă de balcon 80×210 cm cu geam dublu în profil GreenEvolution 76 costă a
 ### Ce profil Salamander e recomandat pentru standard nZEB?
 
 BluEvolution 92, cu 6 camere și Uw 0,70 W/m²K, este profilul recomandat pentru standardul nZEB. Versiunea ALU placată cu aluminiu adaugă aspect premium. GreenEvolution 76 (5 camere, Uw 0,73) e o alternativă mai economică, foarte aproape de pragul nZEB.
+
+
+---
+
+Neofort BIZ furnizează termopane Salamander pe toate profilele, în București și Ilfov. [Trimite-ne dimensiunile golurilor](/ro/contact) și primești ofertă detaliată în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim.
 `,
 
       en: `## Salamander window prices — Bucharest 2026
@@ -16768,6 +16833,11 @@ O economie de 15% la costul ferestrelor poate însemna o creștere de 30-40% a f
 ### Ce avantaj oferă BluEvolution 92 ALU pentru case cu design contemporan?
 
 BluEvolution 92 ALU e placat cu aluminiu pe exterior, combinând estetica aluminiului cu performanța termică a PVC-ului. E ideal pentru case cu design contemporan, disponibil în orice culoare RAL, inclusiv negru mat, antracit și nuanțe de lemn — un aspect premium cu izolare nZEB.
+
+
+---
+
+Neofort BIZ furnizează tâmplărie Salamander pentru case și vile, cu montaj în București și Ilfov și livrare în Uniunea Europeană. [Trimite-ne planul casei](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim.
 `,
 
       en: `## Why individual houses need a different standard than apartment blocks?
@@ -16860,6 +16930,11 @@ A 15% saving on window cost can mean a 30-40% rise in the annual energy bill. Fo
 ### What advantage does BluEvolution 92 ALU offer for contemporary-design houses?
 
 BluEvolution 92 ALU is aluminium-clad on the outside, combining aluminium aesthetics with PVC thermal performance. It is ideal for contemporary-design houses, available in any RAL colour, including matt black, anthracite and wood tones — a premium look with nZEB insulation.
+
+
+---
+
+Neofort BIZ supplies Salamander joinery for houses and villas, with installation in Bucharest and Ilfov and delivery across the European Union. [Send us the house plan](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer.
 `,
 
       de: `## Warum braucht ein Einfamilienhaus einen anderen Standard als ein Wohnblock?
@@ -16931,6 +17006,11 @@ Eine Ersparnis von 15% bei den Fensterkosten kann einen Anstieg von 30-40% der j
 ### Welchen Vorteil bietet BluEvolution 92 ALU für Häuser mit zeitgenössischem Design?
 
 BluEvolution 92 ALU ist außen aluminiumverkleidet und verbindet Aluminiumästhetik mit der Wärmeleistung von PVC. Es ist ideal für Häuser mit zeitgenössischem Design, in jeder RAL-Farbe erhältlich, inklusive Mattschwarz, Anthrazit und Holztönen — eine Premium-Optik mit nZEB-Dämmung.
+
+
+---
+
+Neofort BIZ liefert Salamander-Fenster für Häuser und Villen, mit Montage in Bukarest und Ilfov und Lieferung in die Europäische Union. [Senden Sie uns den Hausplan](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc).
 `,
 
       fr: `## Pourquoi une maison individuelle nécessite-t-elle un standard différent d'un immeuble ?
@@ -17002,6 +17082,11 @@ Une économie de 15% sur le coût des fenêtres peut signifier une hausse de 30-
 ### Quel avantage offre le BluEvolution 92 ALU pour les maisons au design contemporain ?
 
 Le BluEvolution 92 ALU est plaqué aluminium à l'extérieur, combinant l'esthétique de l'aluminium et la performance thermique du PVC. Il est idéal pour les maisons au design contemporain, disponible dans toutes les couleurs RAL, dont noir mat, anthracite et tons bois — un aspect premium avec isolation nZEB.
+
+
+---
+
+Neofort BIZ fournit des menuiseries Salamander pour maisons et villas, avec pose à Bucarest et dans l’Ilfov et livraison dans l’Union européenne. [Transmettez-nous le plan de la maison](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc).
 `,
 
       es: `## ¿Por qué una casa individual necesita un estándar diferente al de un bloque?
@@ -17071,6 +17156,11 @@ Un ahorro del 15% en el coste de las ventanas puede suponer un aumento del 30-40
 ### ¿Qué ventaja ofrece el BluEvolution 92 ALU para casas de diseño contemporáneo?
 
 El BluEvolution 92 ALU está revestido de aluminio en el exterior, combinando la estética del aluminio con el rendimiento térmico del PVC. Es ideal para casas de diseño contemporáneo, disponible en cualquier color RAL, incluido negro mate, antracita y tonos madera — un aspecto premium con aislamiento nZEB.
+
+
+---
+
+Neofort BIZ suministra carpintería Salamander para casas y chalets, con instalación en Bucarest e Ilfov y entrega en la Unión Europea. [Envíenos el plano de la vivienda](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc).
 `,
 
       it: `## Perché una casa individuale ha bisogno di uno standard diverso da un condominio?
@@ -17140,6 +17230,11 @@ Un risparmio del 15% sul costo delle finestre può significare un aumento del 30
 ### Quale vantaggio offre il BluEvolution 92 ALU per case dal design contemporaneo?
 
 Il BluEvolution 92 ALU è rivestito in alluminio all'esterno, combinando l'estetica dell'alluminio con le prestazioni termiche del PVC. È ideale per case dal design contemporaneo, disponibile in qualsiasi colore RAL, incluso nero opaco, antracite e tonalità legno — un aspetto premium con isolamento nZEB.
+
+
+---
+
+Neofort BIZ fornisce serramenti Salamander per case e ville, con posa a Bucarest e nell’Ilfov e consegna nell’Unione Europea. [Inviateci la pianta della casa](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc).
 `,
     },
   },
@@ -17331,6 +17426,11 @@ PVC BluEvolution 92 are Uw mai bun (0,70-1,0 vs 1,1-1,4) și preț mai mic, dar 
 ### De ce e aluminiul potrivit pentru blocuri din zone premium București?
 
 Pe un bloc nou cu fațadă modernă, aluminiu Reynaers oferă linii arhitecturale curate care cresc valoarea percepută a apartamentelor. Dezvoltatorii din Floreasca, Dorobanți, Aviatorilor și zone în ascensiune ca Delea Veche au migrat spre aluminiu pentru că cumpărătorul vede ferestrele din prima vizită.
+
+
+---
+
+Neofort BIZ furnizează și montează tâmplărie din aluminiu pentru blocuri noi, cu livrare pe etape de execuție, în București și Ilfov. [Trimite-ne detaliile ansamblului](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim.
 `,
 
       en: `## The Neofort BIZ Project — New Block, Delea Veche, Bucharest
@@ -17398,6 +17498,11 @@ PVC BluEvolution 92 has a better Uw (0.70-1.0 vs 1.1-1.4) and lower price, but a
 ### Why is aluminium suitable for blocks in premium Bucharest areas?
 
 On a new block with a modern façade, Reynaers aluminium gives clean architectural lines that raise the perceived value of apartments. Developers in Floreasca, Dorobanți, Aviatorilor and rising areas like Delea Veche have moved to aluminium because the buyer sees the windows on the first visit.
+
+
+---
+
+Neofort BIZ supplies and installs aluminium joinery for new apartment blocks, with phased delivery, in Bucharest and Ilfov. [Send us the development details](/en/contact) and you will receive a quote within 48 hours. See the [aluminium joinery range](/en/aluminium-windows) we offer.
 `,
 
       de: `## Das Neofort BIZ Projekt — Neubau-Wohnblock, Delea Veche, Bukarest
@@ -17452,6 +17557,11 @@ PVC BluEvolution 92 hat einen besseren Uw (0,70-1,0 vs 1,1-1,4) und niedrigeren 
 ### Warum eignet sich Aluminium für Blöcke in Premium-Gebieten Bukarests?
 
 An einem Neubaublock mit moderner Fassade bietet Reynaers-Aluminium saubere architektonische Linien, die den wahrgenommenen Wert der Wohnungen erhöhen. Entwickler in Floreasca, Dorobanți, Aviatorilor und aufstrebenden Gebieten wie Delea Veche sind zu Aluminium gewechselt, weil der Käufer die Fenster beim ersten Besuch sieht.
+
+
+---
+
+Neofort BIZ liefert und montiert Aluminiumfenster für Neubaublocks, mit Lieferung nach Bauabschnitten, in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [Aluminium-Sortiment](/de/aluminiumfenster).
 `,
 
       fr: `## Le projet Neofort BIZ — immeuble neuf, Delea Veche, Bucarest
@@ -17505,6 +17615,11 @@ Le PVC BluEvolution 92 a un meilleur Uw (0,70-1,0 vs 1,1-1,4) et un prix plus ba
 ### Pourquoi l'aluminium convient-il aux immeubles des zones premium de Bucarest ?
 
 Sur un immeuble neuf à façade moderne, l'aluminium Reynaers offre des lignes architecturales nettes qui augmentent la valeur perçue des appartements. Les promoteurs de Floreasca, Dorobanți, Aviatorilor et zones en essor comme Delea Veche ont migré vers l'aluminium car l'acheteur voit les fenêtres dès la première visite.
+
+
+---
+
+Neofort BIZ fournit et pose des menuiseries aluminium pour immeubles neufs, avec livraison par phases, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du programme](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme aluminium](/fr/menuiserie-aluminium).
 `,
 
       es: `## El proyecto Neofort BIZ — bloque nuevo, Delea Veche, Bucarest
@@ -17550,6 +17665,11 @@ El PVC BluEvolution 92 tiene mejor Uw (0,70-1,0 vs 1,1-1,4) y precio más bajo, 
 ### ¿Por qué el aluminio es adecuado para bloques en zonas premium de Bucarest?
 
 En un bloque nuevo con fachada moderna, el aluminio Reynaers ofrece líneas arquitectónicas limpias que aumentan el valor percibido de los pisos. Los promotores de Floreasca, Dorobanți, Aviatorilor y zonas en auge como Delea Veche han migrado al aluminio porque el comprador ve las ventanas en la primera visita.
+
+
+---
+
+Neofort BIZ suministra e instala carpintería de aluminio para bloques de obra nueva, con entrega por fases, en Bucarest e Ilfov. [Envíenos los datos de la promoción](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de aluminio](/es/carpinteria-aluminio).
 `,
 
       it: `## Il progetto Neofort BIZ — nuovo condominio, Delea Veche, Bucarest
@@ -17595,6 +17715,11 @@ Il PVC BluEvolution 92 ha un Uw migliore (0,70-1,0 vs 1,1-1,4) e prezzo più bas
 ### Perché l'alluminio è adatto per edifici in zone premium di Bucarest?
 
 Su un nuovo edificio con facciata moderna, l'alluminio Reynaers offre linee architettoniche pulite che aumentano il valore percepito degli appartamenti. Gli sviluppatori di Floreasca, Dorobanți, Aviatorilor e zone in ascesa come Delea Veche sono passati all'alluminio perché l'acquirente vede le finestre alla prima visita.
+
+
+---
+
+Neofort BIZ fornisce e posa serramenti in alluminio per edifici nuovi, con consegna per fasi, a Bucarest e nell’Ilfov. [Inviateci i dati dell’intervento](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma in alluminio](/it/infissi-alluminio).
 `,
     },
   },
@@ -18729,6 +18854,11 @@ O foaie de sticlă securizată poate ajunge la dimensiuni maxime de 3.500 × 8.0
 ### De ce e importantă securizarea sticlei pentru spații publice?
 
 Sticla securizată, la spargere, se fragmentează în granule mici fără muchii ascuțite, spre deosebire de sticla float care produce cioburi periculoase. Aceasta e esențial pentru siguranța în showroom-uri, magazine, restaurante și orice spațiu public cu trafic intens de persoane.
+
+
+---
+
+Neofort BIZ execută vitrine și geamuri panoramice de mari dimensiuni, cu montaj mecanizat, în București și Ilfov. [Trimite-ne dimensiunile și accesul](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim.
 `,
 
       en: `## What are oversized glass panels and who needs them?
@@ -19759,6 +19889,11 @@ Da. Portofoliul include blocuri rezidențiale noi în zone cu activitate intens�
 ### Ce culori de tâmplărie aluminiu sunt disponibile la lucrările Neofort BIZ?
 
 Tâmplăria aluminiu poate fi vopsită electrostatic în orice culoare RAL. La proiectele rezidențiale, o combinație frecventă este RAL 7016 antracit mat la exterior cu alb la interior — finisajul preferat pentru arhitectura modernă din București.
+
+
+---
+
+Neofort BIZ execută pereți cortină și fațade din sticlă pentru clădiri de birouri și spații comerciale, în București și Ilfov. [Trimite-ne planurile de fațadă](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim.
 `,
 
       en: `## Neofort BIZ Portfolio — completed projects Bucharest 2025–2026
@@ -20865,6 +21000,11 @@ Uw măsoară cât căldură pierde fereastra completă (cu geam), iar Uf doar pr
 ### Cât reduce consumul energetic înlocuirea ferestrelor vechi cu nZEB?
 
 Un studiu INCERC arată că înlocuirea ferestrelor vechi cu tâmplărie nZEB reduce consumul energetic al unui apartament mediu din București cu 35-55%. Ferestrele ineficiente pierd 25-35% din energia de încălzire iarna și lasă să intre 40-60% din căldura solară vara.
+
+
+---
+
+Neofort BIZ furnizează tâmplărie certificată nZEB și montaj în trei planuri de etanșare, în București și Ilfov. [Spune-ne ce urmărești](/ro/contact) și primești ofertă în 48 de ore. Vezi [sistemele nZEB complete](/ro/sisteme-nzeb) pe care le oferim.
 `,
 
       en: `## Why does window choice matter so much in Bucharest?
@@ -20949,6 +21089,11 @@ Uw measures how much heat the complete window (with glass) loses, while Uf is ju
 ### How much does replacing old windows with nZEB cut energy use?
 
 An INCERC study shows that replacing old windows with nZEB joinery cuts the energy consumption of an average Bucharest apartment by 35-55%. Inefficient windows lose 25-35% of heating energy in winter and let in 40-60% of solar heat in summer.
+
+
+---
+
+Neofort BIZ supplies nZEB-certified joinery and three-plane sealed installation in Bucharest and Ilfov. [Tell us what you are aiming for](/en/contact) and you will receive a quote within 48 hours. See the [complete nZEB systems](/en/nzeb-systems) we offer.
 `,
 
       de: `## Warum ist die Fensterwahl in Bukarest so wichtig?
@@ -21015,6 +21160,11 @@ Uw misst, wie viel Wärme das komplette Fenster (mit Glas) verliert, während Uf
 ### Wie stark senkt der Austausch alter Fenster gegen nZEB den Energieverbrauch?
 
 Eine INCERC-Studie zeigt, dass der Austausch alter Fenster gegen nZEB-Fenster den Energieverbrauch einer durchschnittlichen Bukarester Wohnung um 35-55% senkt. Ineffiziente Fenster verlieren 25-35% der Heizenergie im Winter und lassen 40-60% der Sonnenwärme im Sommer herein.
+
+
+---
+
+Neofort BIZ liefert nZEB-zertifizierte Fenster und Montage in drei Dichtebenen in Bukarest und Ilfov. [Sagen Sie uns, worauf es Ihnen ankommt](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie die [kompletten nZEB-Systeme](/de/nzeb-systeme).
 `,
 
       fr: `## Pourquoi le choix des fenêtres est-il si important à Bucarest ?
@@ -21081,6 +21231,11 @@ L'Uw mesure combien de chaleur perd la fenêtre complète (avec vitrage), tandis
 ### De combien le remplacement des vieilles fenêtres par du nZEB réduit-il la consommation ?
 
 Une étude INCERC montre que remplacer les vieilles fenêtres par des menuiseries nZEB réduit la consommation énergétique d'un appartement bucarestois moyen de 35-55%. Les fenêtres inefficaces perdent 25-35% de l'énergie de chauffage en hiver et laissent entrer 40-60% de la chaleur solaire en été.
+
+
+---
+
+Neofort BIZ fournit des menuiseries certifiées nZEB et une pose en trois plans d’étanchéité, à Bucarest et dans l’Ilfov. [Dites-nous ce que vous visez](/fr/contact) et recevez un devis sous 48 heures. Découvrez les [systèmes nZEB complets](/fr/systemes-nzeb).
 `,
 
       es: `## ¿Por qué importa tanto la elección de ventanas en Bucarest?
@@ -21147,6 +21302,11 @@ El Uw mide cuánto calor pierde la ventana completa (con vidrio), mientras que e
 ### ¿Cuánto reduce el consumo sustituir ventanas viejas por nZEB?
 
 Un estudio INCERC muestra que sustituir ventanas viejas por carpintería nZEB reduce el consumo energético de un piso medio de Bucarest un 35-55%. Las ventanas ineficientes pierden el 25-35% de la energía de calefacción en invierno y dejan entrar el 40-60% del calor solar en verano.
+
+
+---
+
+Neofort BIZ suministra carpintería certificada nZEB e instalación en tres planos de sellado en Bucarest e Ilfov. [Cuéntenos qué busca](/es/contacto) y recibirá un presupuesto en 48 horas. Vea los [sistemas nZEB completos](/es/sistemas-nzeb).
 `,
 
       it: `## Perché la scelta delle finestre è così importante a Bucarest?
@@ -21213,6 +21373,11 @@ L'Uw misura quanto calore perde la finestra completa (con vetro), mentre l'Uf è
 ### Quanto riduce il consumo sostituire le vecchie finestre con nZEB?
 
 Uno studio INCERC mostra che sostituire le vecchie finestre con serramenti nZEB riduce il consumo energetico di un appartamento medio di Bucarest del 35-55%. Le finestre inefficienti perdono il 25-35% dell'energia di riscaldamento d'inverno e lasciano entrare il 40-60% del calore solare d'estate.
+
+
+---
+
+Neofort BIZ fornisce serramenti certificati nZEB e posa su tre piani di tenuta a Bucarest e nell’Ilfov. [Diteci qual è il vostro obiettivo](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite i [sistemi nZEB completi](/it/sistemi-nzeb).
 `,
     },
   },
@@ -21992,6 +22157,11 @@ Neofort BIZ supplies and installs Alumil aluminium doors across all of Sector 1,
 ### What maximum dimensions can an aluminium hinged door have?
 
 A hinged aluminium door with a thermal break can reach dimensions up to 120 cm wide and 250 cm high per leaf. For larger openings, configurations with 2 leaves or with side and top fanlights are used, integrated into the same system.
+
+
+---
+
+Neofort BIZ supplies and installs Alumil aluminium doors across Bucharest and Ilfov, Sector 1 included. [Send us the opening dimensions](/en/contact) and you will receive a quote within 48 hours. See the [aluminium joinery range](/en/aluminium-windows) we offer.
 `,
 
       de: `## Arten von Aluminiumtüren in Sektor 1 Bukarest
@@ -22045,6 +22215,11 @@ Neofort BIZ liefert und montiert Alumil-Aluminiumtüren in ganz Sektor 1, mit Si
 ### Welche Maximalmaße kann eine Aluminium-Drehtür haben?
 
 Eine Aluminium-Drehtür mit thermischer Trennung kann Maße bis 120 cm Breite und 250 cm Höhe pro Flügel erreichen. Für größere Öffnungen werden Konfigurationen mit 2 Flügeln oder mit Seiten- und Oberlichtern verwendet, in dasselbe System integriert.
+
+
+---
+
+Neofort BIZ liefert und montiert Alumil Aluminiumtüren in ganz Bukarest und Ilfov, Sektor 1 inbegriffen. [Senden Sie uns die Maße der Öffnung](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [Aluminium-Sortiment](/de/aluminiumfenster).
 `,
 
       fr: `## Types de portes en aluminium disponibles dans le Secteur 1 Bucarest
@@ -22098,6 +22273,11 @@ Neofort BIZ fournit et pose des portes en aluminium Alumil dans tout le Secteur 
 ### Quelles dimensions maximales peut avoir une porte battante en aluminium ?
 
 Une porte battante en aluminium à rupture thermique peut atteindre des dimensions jusqu'à 120 cm de large et 250 cm de haut par vantail. Pour les ouvertures plus grandes, on utilise des configurations à 2 vantaux ou avec imposte latérale et supérieure, intégrées au même système.
+
+
+---
+
+Neofort BIZ fournit et pose des portes en aluminium Alumil dans tout Bucarest et l’Ilfov, secteur 1 compris. [Transmettez-nous les dimensions de la baie](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme aluminium](/fr/menuiserie-aluminium).
 `,
 
       es: `## Tipos de puertas de aluminio disponibles en el Sector 1 de Bucarest
@@ -22151,6 +22331,11 @@ Neofort BIZ suministra e instala puertas de aluminio Alumil en todo el Sector 1,
 ### ¿Qué dimensiones máximas puede tener una puerta abatible de aluminio?
 
 Una puerta abatible de aluminio con rotura térmica puede alcanzar dimensiones de hasta 120 cm de ancho y 250 cm de alto por hoja. Para aberturas mayores se usan configuraciones de 2 hojas o con montantes laterales y superiores, integrados en el mismo sistema.
+
+
+---
+
+Neofort BIZ suministra e instala puertas de aluminio Alumil en todo Bucarest e Ilfov, Sector 1 incluido. [Envíenos las medidas del hueco](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de aluminio](/es/carpinteria-aluminio).
 `,
 
       it: `## Tipi di porte in alluminio disponibili nel Settore 1 di Bucarest
@@ -22204,6 +22389,11 @@ Neofort BIZ fornisce e monta porte in alluminio Alumil in tutto il Settore 1, co
 ### Quali dimensioni massime può avere una porta a battente in alluminio?
 
 Una porta a battente in alluminio con taglio termico può raggiungere dimensioni fino a 120 cm di larghezza e 250 cm di altezza per anta. Per aperture più grandi si usano configurazioni a 2 ante o con sopraluce laterali e superiori, integrati nello stesso sistema.
+
+
+---
+
+Neofort BIZ fornisce e posa porte in alluminio Alumil in tutta Bucarest e nell’Ilfov, Settore 1 compreso. [Inviateci le misure del vano](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma in alluminio](/it/infissi-alluminio).
 `,
     },
   },
@@ -23572,7 +23762,12 @@ Da — garanție completă pe produs și manoperă, plus verificare anuală grat
 
 Aflați mai multe despre [sistemele PVC Salamander](/ro/tamplarie-pvc) și [tâmplăria aluminiu Alumil](/ro/tamplarie-aluminiu) disponibile la Neofort BIZ. Pentru context complet, citește [ghidul de alegere între sistemele Salamander](/ro/blog/bluevolution-92-vs-greenevolution-76).
 
-**Solicitați o ofertă pentru proiectul dvs.:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**`,
+**Solicitați o ofertă pentru proiectul dvs.:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**
+
+---
+
+Neofort BIZ montează sisteme culisante Salamander și armonice Alumil pe aceeași fațadă, în București și Ilfov. [Trimite-ne deschiderile pe care le ai](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim.
+`,
 
       en: `## Salamander evolutionDrive Plus+ Sliding Door — The Most Advanced PVC Sliding System in 2026
 
