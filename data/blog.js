@@ -5663,6 +5663,11 @@ Spuma singură crapă în 3-5 ani sub UV și variații termice, permite infiltra
 ### Ce impune standardul nZEB pentru montajul ferestrelor în România?
 
 nZEB, obligatoriu pentru construcții noi din 2021 și renovări majore, impune etanșarea în trei zone: interior (barieră antivapori), mediană (izolație termică și fonică) și exterior (protecție la apă și vânt). Banda precomprimată sau precadrul termic asigură aceste straturi.
+
+
+---
+
+Neofort BIZ execută montaj în trei planuri de etanșare, cu precadre termoizolante Blaugelb, în București și Ilfov. [Trimite-ne detaliile golului](/ro/contact) și primești ofertă în 48 de ore. Vezi [sistemele nZEB complete](/ro/sisteme-nzeb) pe care le oferim.
 `,
 
       en: `## Why Perimeter Insulation Matters More Than the Window Profile
@@ -5766,6 +5771,11 @@ Foam alone cracks in 3-5 years under UV and thermal swings, allows water infiltr
 ### What does the nZEB standard require for window fitting in Romania?
 
 nZEB, mandatory for new builds since 2021 and major renovations, requires sealing in three zones: interior (vapour barrier), middle (thermal and sound insulation) and exterior (water and wind protection). Pre-compressed tape or a thermal pre-frame provides these layers.
+
+
+---
+
+Neofort BIZ carries out three-plane sealed installation with Blaugelb insulating precasings in Bucharest and Ilfov. [Send us the opening details](/en/contact) and you will receive a quote within 48 hours. See the [complete nZEB systems](/en/nzeb-systems) we offer.
 `,
 
       de: `## Warum Perimeterdämmung wichtiger ist als das Fensterprofil
@@ -5859,6 +5869,11 @@ Schaum allein reißt in 3-5 Jahren unter UV und Temperaturschwankungen, lässt W
 ### Was verlangt der nZEB-Standard für den Fenstereinbau in Rumänien?
 
 nZEB, verpflichtend für Neubauten seit 2021 und Großrenovierungen, verlangt Abdichtung in drei Zonen: innen (Dampfsperre), mittig (Wärme- und Schalldämmung) und außen (Wasser- und Windschutz). Vorkomprimiertes Band oder ein Thermo-Vorrahmen liefert diese Schichten.
+
+
+---
+
+Neofort BIZ führt Montagen in drei Dichtebenen mit wärmegedämmten Blaugelb-Vorblendrahmen in Bukarest und Ilfov aus. [Senden Sie uns die Maße der Öffnung](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie die [kompletten nZEB-Systeme](/de/nzeb-systeme).
 `,
 
       fr: `## Pourquoi l'isolation périphérique compte plus que le profilé de fenêtre
@@ -5951,6 +5966,11 @@ La mousse seule se fissure en 3-5 ans sous UV et variations thermiques, laisse p
 ### Qu'exige le standard nZEB pour la pose des fenêtres en Roumanie ?
 
 Le nZEB, obligatoire pour les constructions neuves depuis 2021 et les rénovations majeures, exige l'étanchéité en trois zones : intérieur (pare-vapeur), médiane (isolation thermique et acoustique) et extérieur (protection eau et vent). La bande précomprimée ou un précadre thermique fournit ces couches.
+
+
+---
+
+Neofort BIZ réalise des poses en trois plans d’étanchéité, avec précadres isolants Blaugelb, à Bucarest et dans l’Ilfov. [Transmettez-nous les dimensions de la baie](/fr/contact) et recevez un devis sous 48 heures. Découvrez les [systèmes nZEB complets](/fr/systemes-nzeb).
 `,
 
       es: `## Por qué el aislamiento perimetral importa más que el perfil de ventana
@@ -6043,6 +6063,11 @@ La espuma sola se agrieta en 3-5 años bajo UV y cambios térmicos, permite infi
 ### ¿Qué exige el estándar nZEB para la instalación de ventanas en Rumanía?
 
 El nZEB, obligatorio para obra nueva desde 2021 y reformas mayores, exige sellado en tres zonas: interior (barrera de vapor), media (aislamiento térmico y acústico) y exterior (protección al agua y viento). La banda precomprimida o un premarco térmico aporta estas capas.
+
+
+---
+
+Neofort BIZ ejecuta instalación en tres planos de sellado, con premarcos aislantes Blaugelb, en Bucarest e Ilfov. [Envíenos las medidas del hueco](/es/contacto) y recibirá un presupuesto en 48 horas. Vea los [sistemas nZEB completos](/es/sistemas-nzeb).
 `,
 
       it: `## Perché l'isolamento perimetrale conta più del profilo della finestra
@@ -6135,6 +6160,11 @@ La schiuma da sola si crepa in 3-5 anni sotto UV e sbalzi termici, permette infi
 ### Cosa richiede lo standard nZEB per la posa delle finestre in Romania?
 
 Lo nZEB, obbligatorio per nuove costruzioni dal 2021 e ristrutturazioni importanti, richiede la sigillatura in tre zone: interna (barriera al vapore), mediana (isolamento termico e acustico) ed esterna (protezione da acqua e vento). Il nastro precompresso o un controtelaio termico fornisce questi strati.
+
+
+---
+
+Neofort BIZ esegue pose su tre piani di tenuta, con controtelai isolanti Blaugelb, a Bucarest e nell’Ilfov. [Inviateci le misure del vano](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite i [sistemi nZEB completi](/it/sistemi-nzeb).
 `,
     },
   },
@@ -6293,6 +6323,11 @@ Raffstore C80 are lamele de 80 mm din aluminiu lăcuit, modelul standard pentru 
 ### Când nu sunt potrivite jaluzelele exterioare?
 
 Nu sunt potrivite la apartamentele de bloc cu fațadă comună, unde montajul necesită aprobarea asociației, și nici dacă bugetul e limitat — costă mai mult decât rulourile standard. În aceste cazuri, rulourile exterioare din aluminiu rămân o alternativă mai accesibilă.
+
+
+---
+
+Neofort BIZ montează sisteme de umbrire exterioară — rulouri, Raffstore, ZipScreen și pergole — în București și Ilfov. [Spune-ne ce fațadă ai](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de sisteme de umbrire](/ro/umbrire) pe care o oferim.
 `,
 
       en: `## Exterior Blinds in Bucharest — What Options Exist in 2026?
@@ -6375,6 +6410,11 @@ Raffstore C80 has 80 mm lacquered aluminium slats, the standard model for reside
 ### When are external blinds not suitable?
 
 They are not suitable for apartment blocks with a shared façade, where fitting needs the residents' association approval, nor where budget is limited — they cost more than standard roller shutters. In these cases, aluminium roller shutters remain a more affordable alternative.
+
+
+---
+
+Neofort BIZ installs exterior shading systems — roller shutters, Raffstore, ZipScreen and pergolas — in Bucharest and Ilfov. [Tell us about your facade](/en/contact) and you will receive a quote within 48 hours. See the [shading systems range](/en/shading-systems) we offer.
 `,
 
       de: `## Außenjalousien in Bukarest — Welche Optionen gibt es 2026?
@@ -6457,6 +6497,11 @@ Raffstore C80 hat 80-mm-Lamellen aus lackiertem Aluminium, das Standardmodell f�
 ### Wann sind Außenjalousien nicht geeignet?
 
 Sie sind nicht geeignet für Wohnblöcke mit gemeinsamer Fassade, wo der Einbau die Zustimmung der Eigentümergemeinschaft erfordert, und auch nicht bei begrenztem Budget — sie kosten mehr als Standard-Rollläden. In diesen Fällen bleiben Aluminium-Rollläden eine günstigere Alternative.
+
+
+---
+
+Neofort BIZ montiert außenliegenden Sonnenschutz — Rollläden, Raffstore, ZipScreen und Pergolen — in Bukarest und Ilfov. [Beschreiben Sie uns Ihre Fassade](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [Beschattungssortiment](/de/beschattungssysteme).
 `,
 
       fr: `## Stores extérieurs à Bucarest — Quelles options en 2026 ?
@@ -6539,6 +6584,11 @@ Le Raffstore C80 a des lames de 80 mm en aluminium laqué, le modèle standard p
 ### Quand les stores extérieurs ne conviennent-ils pas ?
 
 Ils ne conviennent pas aux immeubles à façade commune, où la pose nécessite l'accord de la copropriété, ni si le budget est limité — ils coûtent plus cher que les volets roulants standard. Dans ces cas, les volets roulants en aluminium restent une alternative plus abordable.
+
+
+---
+
+Neofort BIZ pose des systèmes d’occultation extérieure — volets roulants, Raffstore, ZipScreen et pergolas — à Bucarest et dans l’Ilfov. [Décrivez-nous votre façade](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme d’occultation](/fr/systemes-occultation).
 `,
 
       es: `## Persianas exteriores en Bucarest — ¿Qué opciones existen en 2026?
@@ -6621,6 +6671,11 @@ La Raffstore C80 tiene lamas de 80 mm de aluminio lacado, el modelo estándar pa
 ### ¿Cuándo no son adecuadas las persianas exteriores?
 
 No son adecuadas para bloques de pisos con fachada común, donde el montaje requiere aprobación de la comunidad, ni si el presupuesto es limitado — cuestan más que las enrollables estándar. En estos casos, las enrollables de aluminio siguen siendo una alternativa más asequible.
+
+
+---
+
+Neofort BIZ instala sistemas de sombreado exterior — persianas, Raffstore, ZipScreen y pérgolas — en Bucarest e Ilfov. [Cuéntenos cómo es su fachada](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de sombreado](/es/sistemas-sombreado).
 `,
 
       it: `## Veneziane esterne a Bucarest — Quali opzioni esistono nel 2026?
@@ -6703,6 +6758,11 @@ La Raffstore C80 ha lamelle da 80 mm in alluminio laccato, il modello standard p
 ### Quando le tende esterne non sono adatte?
 
 Non sono adatte per condomini con facciata comune, dove la posa richiede l'approvazione dell'amministrazione, né se il budget è limitato — costano più delle tapparelle standard. In questi casi, le tapparelle in alluminio restano un'alternativa più accessibile.
+
+
+---
+
+Neofort BIZ installa sistemi di oscuramento esterno — tapparelle, Raffstore, ZipScreen e pergole — a Bucarest e nell’Ilfov. [Descriveteci la vostra facciata](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma di oscuramento](/it/sistemi-oscuramento).
 `,
     },
   },
@@ -6864,6 +6924,11 @@ Precadrul Blaugelb Triotherm Plus se montează înainte de fereastră și creeaz
 ### Cum începe un montaj profesional de termopane?
 
 Întotdeauna cu măsurători la fața locului, nu cu dimensiuni aproximative. Tehnicianul măsoară golul de zidărie și calculează tocul ținând cont de tipul de perete (BCA, cărămidă, beton), grosimea tencuielii sau termoizolației, tipul de montaj (direct sau pe precadru) și glafuri.
+
+
+---
+
+Neofort BIZ montează tâmplărie Salamander cu echipe proprii certificate nZEB, în București și Ilfov. [Trimite-ne datele lucrării](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim.
 `,
 
       en: `## Why Salamander Window Installation Matters So Much
@@ -6941,6 +7006,11 @@ The Blaugelb Triotherm Plus pre-frame is fitted before the window and creates a 
 ### How does a professional window fitting begin?
 
 Always with on-site measurements, not approximate dimensions. The technician measures the masonry opening and calculates the frame considering the wall type (AAC, brick, concrete), the plaster or insulation thickness, the fitting method (direct or on a pre-frame) and the sills.
+
+
+---
+
+Neofort BIZ installs Salamander joinery with its own nZEB-certified teams in Bucharest and Ilfov. [Send us the project details](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer.
 `,
 
       de: `## Warum die Montage von Salamander-Fenstern so wichtig ist
@@ -7017,6 +7087,11 @@ Der Blaugelb Triotherm Plus Vorrahmen wird vor dem Fenster eingebaut und schafft
 ### Wie beginnt ein professioneller Fenstereinbau?
 
 Immer mit Vor-Ort-Messungen, nicht mit Näherungsmaßen. Der Techniker misst die Maueröffnung und berechnet den Rahmen unter Berücksichtigung von Wandtyp (Porenbeton, Ziegel, Beton), Putz- oder Dämmstärke, Einbaumethode (direkt oder auf Vorrahmen) und Fensterbänken.
+
+
+---
+
+Neofort BIZ montiert Salamander-Fenster mit eigenen nZEB-zertifizierten Teams in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc).
 `,
 
       fr: `## Pourquoi la pose des fenêtres Salamander est-elle si importante ?
@@ -7093,6 +7168,11 @@ Le précadre Blaugelb Triotherm Plus se pose avant la fenêtre et crée une barr
 ### Comment commence une pose professionnelle de fenêtres ?
 
 Toujours par des mesures sur place, pas des dimensions approximatives. Le technicien mesure la baie en maçonnerie et calcule le dormant en tenant compte du type de mur (béton cellulaire, brique, béton), de l'épaisseur d'enduit ou d'isolation, de la méthode de pose (directe ou sur précadre) et des appuis.
+
+
+---
+
+Neofort BIZ pose des menuiseries Salamander avec ses propres équipes certifiées nZEB, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du chantier](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc).
 `,
 
       es: `## Por qué la instalación de ventanas Salamander importa tanto
@@ -7169,6 +7249,11 @@ El premarco Blaugelb Triotherm Plus se monta antes de la ventana y crea una barr
 ### ¿Cómo empieza una instalación profesional de ventanas?
 
 Siempre con mediciones in situ, no con dimensiones aproximadas. El técnico mide el hueco de obra y calcula el marco teniendo en cuenta el tipo de muro (hormigón celular, ladrillo, hormigón), el grosor del revoco o aislamiento, el método de instalación (directo o sobre premarco) y los alféizares.
+
+
+---
+
+Neofort BIZ instala carpintería Salamander con equipos propios certificados nZEB en Bucarest e Ilfov. [Envíenos los datos de la obra](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc).
 `,
 
       it: `## Perché l'installazione delle finestre Salamander è così importante
@@ -7245,6 +7330,11 @@ Il controtelaio Blaugelb Triotherm Plus si monta prima della finestra e crea una
 ### Come inizia una posa professionale di finestre?
 
 Sempre con misurazioni in loco, non con dimensioni approssimative. Il tecnico misura il vano in muratura e calcola il telaio considerando il tipo di parete (calcestruzzo cellulare, mattone, cemento), lo spessore di intonaco o isolamento, il metodo di posa (diretto o su controtelaio) e i davanzali.
+
+
+---
+
+Neofort BIZ posa serramenti Salamander con squadre proprie certificate nZEB a Bucarest e nell’Ilfov. [Inviateci i dati del cantiere](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc).
 `,
     },
   },
@@ -7425,6 +7515,11 @@ Alb standard e prețul de bază. Folia imitație lemn (stejar, nuc, mahon, wenge
 ### Care profil Salamander e potrivit pentru ce tip de locuință?
 
 greenEvolution 76 (5-6 camere, 76 mm) e pentru locuințe standard și renovări economice; bluEvolution 82 (6 camere, 82 mm) pentru case noi cu eficiență ridicată; bluEvolution 92 (6 camere, 92 mm) pentru case pasive și nZEB cu izolare maximă.
+
+
+---
+
+Neofort BIZ furnizează toate cele trei profile Salamander — greenEvolution 76, bluEvolution 82 și 92 — în București și Ilfov. [Trimite-ne dimensiunile](/ro/contact) și primești ofertă detaliată în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim.
 `,
 
       en: `## What Influences Salamander Window Prices in Bucharest?
@@ -7525,6 +7620,11 @@ Standard white is the base price. Wood-effect foil (oak, walnut, mahogany, wenge
 ### Which Salamander profile suits which type of home?
 
 greenEvolution 76 (5-6 chambers, 76 mm) is for standard homes and economical renovations; bluEvolution 82 (6 chambers, 82 mm) for new houses with high efficiency; bluEvolution 92 (6 chambers, 92 mm) for passive houses and nZEB with maximum insulation.
+
+
+---
+
+Neofort BIZ supplies all three Salamander profiles — greenEvolution 76, bluEvolution 82 and 92 — in Bucharest and Ilfov. [Send us your dimensions](/en/contact) and you will receive a detailed quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer.
 `,
 
       de: `## Was beeinflusst die Preise von Salamander-Fenstern in Bukarest?
@@ -7614,6 +7714,11 @@ Standardweiß ist der Basispreis. Holzoptik-Folie (Eiche, Nuss, Mahagoni, Wenge)
 ### Welches Salamander-Profil passt zu welchem Haustyp?
 
 greenEvolution 76 (5-6 Kammern, 76 mm) ist für Standardhäuser und wirtschaftliche Renovierungen; bluEvolution 82 (6 Kammern, 82 mm) für Neubauten mit hoher Effizienz; bluEvolution 92 (6 Kammern, 92 mm) für Passivhäuser und nZEB mit maximaler Dämmung.
+
+
+---
+
+Neofort BIZ liefert alle drei Salamander-Profile — greenEvolution 76, bluEvolution 82 und 92 — in Bukarest und Ilfov. [Senden Sie uns Ihre Maße](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein detailliertes Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc).
 `,
 
       fr: `## Qu'est-ce qui influence les prix des fenêtres Salamander à Bucarest ?
@@ -7703,6 +7808,11 @@ Le blanc standard est le prix de base. Le film aspect bois (chêne, noyer, acajo
 ### Quel profilé Salamander convient à quel type de logement ?
 
 Le greenEvolution 76 (5-6 chambres, 76 mm) est pour les logements standard et rénovations économiques ; le bluEvolution 82 (6 chambres, 82 mm) pour les maisons neuves à haute efficacité ; le bluEvolution 92 (6 chambres, 92 mm) pour les maisons passives et nZEB à isolation maximale.
+
+
+---
+
+Neofort BIZ fournit les trois profilés Salamander — greenEvolution 76, bluEvolution 82 et 92 — à Bucarest et dans l’Ilfov. [Transmettez-nous vos dimensions](/fr/contact) et recevez un devis détaillé sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc).
 `,
 
       es: `## ¿Qué influye en los precios de las ventanas Salamander en Bucarest?
@@ -7792,6 +7902,11 @@ El blanco estándar es el precio base. La lámina imitación madera (roble, noga
 ### ¿Qué perfil Salamander conviene a cada tipo de vivienda?
 
 El greenEvolution 76 (5-6 cámaras, 76 mm) es para viviendas estándar y reformas económicas; el bluEvolution 82 (6 cámaras, 82 mm) para casas nuevas de alta eficiencia; el bluEvolution 92 (6 cámaras, 92 mm) para casas pasivas y nZEB con aislamiento máximo.
+
+
+---
+
+Neofort BIZ suministra los tres perfiles Salamander — greenEvolution 76, bluEvolution 82 y 92 — en Bucarest e Ilfov. [Envíenos sus medidas](/es/contacto) y recibirá un presupuesto detallado en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc).
 `,
 
       it: `## Cosa influenza i prezzi delle finestre Salamander a Bucarest?
@@ -7881,6 +7996,11 @@ Il bianco standard è il prezzo base. La pellicola effetto legno (rovere, noce, 
 ### Quale profilo Salamander è adatto a quale tipo di abitazione?
 
 Il greenEvolution 76 (5-6 camere, 76 mm) è per abitazioni standard e ristrutturazioni economiche; il bluEvolution 82 (6 camere, 82 mm) per case nuove ad alta efficienza; il bluEvolution 92 (6 camere, 92 mm) per case passive e nZEB con isolamento massimo.
+
+
+---
+
+Neofort BIZ fornisce tutti e tre i profili Salamander — greenEvolution 76, bluEvolution 82 e 92 — a Bucarest e nell’Ilfov. [Inviateci le vostre misure](/it/contatti) e riceverete un preventivo dettagliato entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc).
 `,
     },
   },
@@ -8505,6 +8625,11 @@ BluEvolution 92 oferă izolare fonică până la 47 dB Rw, ideal pentru locuinț
 ### Există BluEvolution 92 placat cu aluminiu?
 
 Da. BluEvolution 92 Placat Aluminiu e profilul PVC acoperit cu folie de aluminiu pe exterior — aspect de aluminiu cu izolarea termică a PVC-ului. E disponibil în orice culoare RAL, combinând estetica premium a aluminiului cu performanța energetică superioară a PVC-ului.
+
+
+---
+
+Neofort BIZ lucrează cu ambele profile Salamander și îți spune care se potrivește proiectului tău, în București și Ilfov. [Descrie-ne casa sau apartamentul](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim.
 `,
 
       en: `## Why Does the PVC Profile Choice Matter?
@@ -8649,6 +8774,11 @@ BluEvolution 92 offers sound insulation up to 47 dB Rw, ideal for homes on busy 
 ### Is there an aluminium-clad BluEvolution 92?
 
 Yes. BluEvolution 92 Aluminium-Clad is the PVC profile covered with aluminium foil on the outside — an aluminium look with the thermal insulation of PVC. It is available in any RAL colour, combining the premium aesthetics of aluminium with the superior energy performance of PVC.
+
+
+---
+
+Neofort BIZ works with both Salamander profiles and will tell you which suits your project, in Bucharest and Ilfov. [Describe your house or flat](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer.
 `,
 
       de: `## Warum ist die Wahl des PVC-Profils so wichtig?
@@ -8793,6 +8923,11 @@ BluEvolution 92 bietet Schalldämmung bis 47 dB Rw, ideal für Häuser an belebt
 ### Gibt es ein aluminiumverkleidetes BluEvolution 92?
 
 Ja. BluEvolution 92 Aluminiumverkleidet ist das PVC-Profil, außen mit Aluminiumfolie überzogen — Aluminiumoptik mit der Wärmedämmung von PVC. Es ist in jeder RAL-Farbe erhältlich und verbindet die Premium-Ästhetik von Aluminium mit der überlegenen Energieleistung von PVC.
+
+
+---
+
+Neofort BIZ arbeitet mit beiden Salamander-Profilen und sagt Ihnen, welches zu Ihrem Projekt passt — in Bukarest und Ilfov. [Beschreiben Sie uns Ihr Haus oder Ihre Wohnung](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc).
 `,
 
       fr: `## Pourquoi le choix du profil PVC est-il si important ?
@@ -8937,6 +9072,11 @@ Le BluEvolution 92 offre une isolation acoustique jusqu'à 47 dB Rw, idéale pou
 ### Existe-t-il un BluEvolution 92 plaqué aluminium ?
 
 Oui. Le BluEvolution 92 Plaqué Aluminium est le profilé PVC recouvert d'un film aluminium à l'extérieur — un aspect aluminium avec l'isolation thermique du PVC. Il est disponible dans toutes les couleurs RAL, combinant l'esthétique premium de l'aluminium avec la performance énergétique supérieure du PVC.
+
+
+---
+
+Neofort BIZ travaille avec les deux profilés Salamander et vous indique celui qui convient à votre projet, à Bucarest et dans l’Ilfov. [Décrivez-nous votre logement](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc).
 `,
 
       es: `## ¿Por qué es tan importante la elección del perfil de PVC?
@@ -9081,6 +9221,11 @@ El BluEvolution 92 ofrece aislamiento acústico hasta 47 dB Rw, ideal para vivie
 ### ¿Existe el BluEvolution 92 revestido de aluminio?
 
 Sí. El BluEvolution 92 Revestido de Aluminio es el perfil de PVC cubierto con lámina de aluminio en el exterior — aspecto de aluminio con el aislamiento térmico del PVC. Está disponible en cualquier color RAL, combinando la estética premium del aluminio con el rendimiento energético superior del PVC.
+
+
+---
+
+Neofort BIZ trabaja con ambos perfiles Salamander y le dirá cuál encaja en su proyecto, en Bucarest e Ilfov. [Descríbanos su vivienda](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc).
 `,
 
       it: `## Perché è così importante la scelta del profilo PVC?
@@ -9225,6 +9370,11 @@ Il BluEvolution 92 offre isolamento acustico fino a 47 dB Rw, ideale per abitazi
 ### Esiste un BluEvolution 92 rivestito in alluminio?
 
 Sì. Il BluEvolution 92 Rivestito in Alluminio è il profilo in PVC ricoperto con pellicola di alluminio all'esterno — un aspetto alluminio con l'isolamento termico del PVC. È disponibile in qualsiasi colore RAL, combinando l'estetica premium dell'alluminio con le prestazioni energetiche superiori del PVC.
+
+
+---
+
+Neofort BIZ lavora con entrambi i profili Salamander e vi dice quale è adatto al vostro progetto, a Bucarest e nell’Ilfov. [Descriveteci la vostra abitazione](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc).
 `,
     },
   },
