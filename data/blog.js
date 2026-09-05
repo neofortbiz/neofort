@@ -19313,305 +19313,711 @@ Sticla securizată, la spargere, se fragmentează în granule mici fără muchii
 Neofort BIZ execută vitrine și geamuri panoramice de mari dimensiuni, cu montaj mecanizat, în București și Ilfov. [Trimite-ne dimensiunile și accesul](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim.
 `,
 
-      en: `## What are oversized glass panels and who needs them?
+      en: `## What oversized glass is and who needs it
 
-The term "oversized" describes any [glass](/en/aluminium-windows) panel exceeding standard transport and [handling](/en/services) capabilities — in practice, any sheet larger than **2,500 × 3,500 mm** or heavier than **150 kg per panel**.
+The term "oversized" describes any glass panel whose dimensions exceed standard transport and handling limits — in practice, any sheet larger than **2,500 × 3,500 mm** or heavier than **150 kg per panel**.
 
----
+These sizes are regularly required by:
 
-## Glass types for large format shopfronts and windows
-
-### 1. Tempered safety glass
-Thermal tempering at 620–680°C increases glass strength **4–5 times**. At breakage, fragments into small granules without sharp edges.
-
-Standard specifications: 8–19 mm thickness, maximum sheet size **3,500 × 8,000 mm**.
-
-### 2. Laminated glass (VSG) — burglar resistance classes
-
-| Class (EN 356/EN 1627) | Resistance | Typical application |
-|---|---|---|
-| P2A / RC2 | 3 min with screwdriver | Standard retail |
-| P4A / RC3 | 5 min with crowbar | Jewellery, pharmacies |
-| P6B / RC4 | 10 min with drill | Banks, exchange offices |
-
-### 3. Large format thermal glazing
-
-- **4+16+4** argon: Ug = 1.0 W/m²K — commercial standard
-- **6+16+6** argon + Low-E: Ug = 0.6 W/m²K — premium showroom
-- **8+16+8** tempered + Low-E — combined resistance + insulation
+- **Car showrooms and dealerships** — panoramic display windows 3–5 m wide with no visible vertical joint
+- **Premium retail stores** — glass facades for maximum visibility from the street
+- **Restaurants and cafés** — glass walls that erase the boundary between inside and outside
+- **Office buildings and corporate headquarters** — curtain wall facades with large panels for visual identity
+- **Hotels** — glazed lobbies, panoramic walls at pools and conference rooms
+- **Premium residential** — villas with floor-to-ceiling windows or sliding doors with a single panel over 3 m
 
 ---
 
-## Maximum available dimensions
+## Glass types for large display windows and panels
 
-| Glass type | Thickness | Max dimensions | Max weight |
+### 1. Toughened glass (thermally tempered)
+
+Thermal tempering at 620–680 °C followed by rapid cooling increases the strength of the glass **four to five times** over ordinary float glass. On breakage it shatters into small granules with no sharp edges — essential for safety in public spaces.
+
+**Specifications for commercial display windows:**
+- Standard thicknesses: 8 mm, 10 mm, 12 mm, 15 mm, 19 mm
+- Maximum toughened sheet size: **3,500 × 8,000 mm**
+- Recommended thickness for a ground-floor commercial window: **10–12 mm**
+- Thickness for a frameless structural facade: **15–19 mm**
+
+### 2. Laminated glass (VSG — Verbund-Sicherheitsglas)
+
+Two or more sheets of glass bonded with interlayers of PVB or SGP. On impact the glass stays in the frame — the fragments adhere to the interlayer. **The standard for anti-burglary and bullet-resistant applications.**
+
+**Resistance classes to EN 356:**
+- **P2A** — withstands 3 hammer blows → standard shop window
+- **P4A** — withstands 9 hammer blows → jewellers, pharmacies
+- **P6B** — withstands an axe → banks, currency exchange offices
+- **FB4/FB6** — bullet resistant → special applications
+
+**Burglary resistance classes to EN 1627:**
+- **RC2** — resists 3 minutes against a screwdriver → retail standard
+- **RC3** — resists 5 minutes against a crowbar → jewellers, night pharmacies
+- **RC4** — resists 10 minutes against a drill → banks, vaults
+
+### 3. Large-format insulating glass
+
+Oversized insulating glazing combines thermal performance with large dimensions. The technical challenge: the perimeter spacer and the sealing gaskets have to stay tight along the full length of a panel over 3 m.
+
+**Recommended build-ups for large display windows:**
+- **4+16+4** with argon: Ug = 1.0 W/m²K — commercial standard
+- **6+16+6** with argon and Low-E: Ug = 0.6 W/m²K — showroom with energy requirements
+- **8+16+8** toughened with Low-E: strength plus insulation for premium retail
+
+**Warm Edge spacers** are mandatory on large panels, to eliminate condensation at the corners and avoid perimeter thermal bridges.
+
+### 4. Reflective and screen-printed glass for facades
+
+**Reflective glass** (metallic coating on face 2) reduces the solar factor g to 0.15–0.30 and gives a mirror appearance from outside. The standard choice for car showrooms and commercial facades facing south or west.
+
+**Screen-printed glass**: ceramic ink fired at 620 °C into the body of the glass — permanent and UV resistant. It allows branding on the shopfront, partial privacy effects or purely architectural detail.
+
+---
+
+## Maximum available dimensions — what we can deliver
+
+| Glass type | Thickness | Maximum size | Maximum weight |
 |---|---|---|---|
-| Tempered float | 8–19 mm | 3,500 × 8,000 mm | 1,500 kg |
-| VSG laminated | 8+8–12+12 | 3,300 × 6,000 mm | 900 kg |
-| Thermal double | 4+16+4 | 3,000 × 4,000 mm | 120 kg |
-| Tempered thermal | 6+16+6 | 3,000 × 5,000 mm | 350 kg |
+| Toughened float | 8–19 mm | 3,500 × 8,000 mm | 1,500 kg |
+| Laminated VSG | 8+8 – 12+12 | 3,300 × 6,000 mm | 900 kg |
+| Standard insulating unit | 4+16+4 | 3,000 × 4,000 mm | 120 kg |
+| Toughened insulating unit | 6+16+6 | 3,000 × 5,000 mm | 350 kg |
+| Toughened reflective | 6–12 mm | 3,200 × 6,000 mm | 600 kg |
+
+*Dimensions depend on the specific build-up and on transport capacity. Contact us for confirmation on your project.*
 
 ---
 
-## Indicative prices — 2026
+## Fixing systems for frameless display windows
 
-> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+### Spider fitting (point fixing)
+
+The most elegant solution for commercial shopfronts — the glass is held by stainless steel point bolts, with no visible perimeter frame. The visual result is a continuous glass surface.
+
+- Standard spacing between points: 1,000–1,500 mm
+- Minimum glass size: 1,000 × 1,000 mm
+- Minimum glass thickness: **12 mm toughened** or **8+8 laminated**
+- The glass must be **drilled before tempering** — drilling after toughening is impossible
+
+### Minimal aluminium profile (slot system)
+
+An [aluminium](/en/aluminium-windows) profile with a 10 mm slot into which the glass is inserted directly. Visually: a thin aluminium line at the perimeter, with the glass in the foreground.
+
+### SG system (structural silicone)
+
+The glass is bonded with structural silicone onto a concealed metal frame. No visible profiles at all. Used in semi-structural and structural curtain walls.
+
+---
+
+## Indicative prices for large glass panels — 2026
+
+> ⚠️ **Important note:** these prices are indicative and reflect conditions as at March 2026. Glass prices vary considerably with availability and exchange rates. Always ask for an up-to-date quotation.
 
 | Product | Size | Indicative price |
 |---|---|---|
-| Tempered 10mm | 2,000 × 3,000 mm | 450–700 EUR |
-| VSG laminated RC2 | 2,000 × 3,000 mm | 900–1,400 EUR |
-| Thermal tempered 6+16+6 | 2,500 × 3,000 mm | 800–1,300 EUR |
-| Spider fitting inox (per point) | — | 80–180 EUR |
-| **Full installation (robot + labour)** | per panel | **350–800 EUR** |
+| Toughened glass 10 mm | 2,000 × 3,000 mm | 450–700 EUR |
+| Toughened glass 12 mm | 2,500 × 3,500 mm | 700–1,100 EUR |
+| Laminated VSG 8+8 P2A | 2,000 × 3,000 mm | 600–900 EUR |
+| Laminated VSG RC2 | 2,000 × 3,000 mm | 900–1,400 EUR |
+| Toughened insulating unit 6+16+6 | 2,500 × 3,000 mm | 800–1,300 EUR |
+| Stainless spider fitting (per point) | — | 80–180 EUR |
+| **Complete installation (robot plus labour)** | per panel | **350–800 EUR** |
+
+*Prices exclude specialised transport and any preparatory work on the supporting structure.*
+
+---
+
+## Why Neofort BIZ for large glass panels
+
+Installing oversized glass cannot be done by conventional means. Neofort BIZ has specialised vacuum-cup handling equipment with a capacity of up to 1,400 kg and works with certified teams for [installation](/en/services) at height and in confined spaces. All the details in [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide).
 
 **WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
 
-## Frequently Asked Questions
+## Frequently asked questions
 
-### From what dimensions is glass considered oversized?
+### From what size is glass considered oversized?
 
-"Oversized" describes any glass panel exceeding standard transport limits — in practice, any sheet larger than 2,500 × 3,500 mm or heavier than 150 kg. It is required by car showrooms, premium retail, restaurants, offices, hotels and premium residential with floor-to-ceiling windows.
+"Oversized" describes any glass panel that exceeds standard transport limits — in practice, any sheet larger than 2,500 × 3,500 mm or heavier than 150 kg. Such panels are required by car showrooms, premium retail, restaurants, offices, hotels and high-end residential projects with floor-to-ceiling windows.
 
-### What type of glass is used for large shopfronts?
+### What type of glass is used for large display windows?
 
-Toughened (heat-tempered) glass is the standard for shopfronts. Tempering at 620-680°C followed by rapid cooling increases strength 4-5 times over float glass. On breakage it fragments into small granules without sharp edges — essential for safety in public spaces.
+Toughened glass, thermally tempered, is the standard for shopfronts. Tempering at 620–680 °C followed by rapid cooling increases strength four to five times over float glass. On breakage it shatters into small granules with no sharp edges — essential for safety in public spaces.
 
 ### What are the maximum dimensions of a toughened glass sheet?
 
-A toughened glass sheet can reach maximum dimensions of 3,500 × 8,000 mm, in standard thicknesses of 8, 10, 12, 15 or 19 mm. These dimensions allow panoramic shopfronts of 3-5 m wide with no visible vertical joint, ideal for showrooms and retail façades.
+A toughened sheet can reach a maximum of 3,500 × 8,000 mm, in standard thicknesses of 8, 10, 12, 15 or 19 mm. These sizes allow panoramic shopfronts 3–5 m wide with no visible vertical joint, ideal for showrooms and retail facades.
 
-### Why is toughening important for public spaces?
+### Why does toughening matter in public spaces?
 
-Toughened glass, on breakage, fragments into small granules without sharp edges, unlike float glass which produces dangerous shards. This is essential for safety in showrooms, shops, restaurants and any public space with heavy footfall.
+When it breaks, toughened glass shatters into small granules with no sharp edges, unlike float glass, which produces dangerous shards. That is essential for safety in showrooms, shops, restaurants and any public space with heavy footfall.
 
 ---
 
 Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). All the details in [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
-      de: `## Was sind übergroße Glasscheiben und wer braucht sie?
+      de: `## Was Übergrößenglas ist und wer es braucht
 
-Übergroße [Glas](/de/aluminiumfenster)scheiben überschreiten Standardtransport- und [Handhabung](/de/dienstleistungen)smöglichkeiten — in der Praxis jede Scheibe größer als **2.500 × 3.500 mm** oder schwerer als **150 kg pro Panel**.
+Der Begriff „Übergröße" beschreibt jede Glasscheibe, deren Abmessungen die üblichen Transport- und Handhabungsgrenzen überschreiten — in der Praxis jede Tafel größer als **2.500 × 3.500 mm** oder schwerer als **150 kg pro Element**.
 
----
+Solche Größen werden regelmäßig verlangt von:
 
-## Glastypen für große Schaufenster
-
-### 1. Einscheibensicherheitsglas (ESG)
-Thermische Härtung bei 620–680°C erhöht Glasfestigkeit **4–5×**. Maximale Scheibengröße: **3.500 × 8.000 mm**.
-
-### 2. Verbundglas (VSG) — Einbruchschutzklassen
-
-| Klasse (EN 1627) | Widerstand | Typische Anwendung |
-|---|---|---|
-| RC2 | 3 Min. mit Schraubenzieher | Standard Einzelhandel |
-| RC3 | 5 Min. mit Brecheisen | Juweliere, Apotheken |
-| RC4 | 10 Min. mit Bohrer | Banken, Wechselstuben |
-
-### 3. Großformat-Isolierverglasung
-- **4+16+4** Argon: Ug = 1,0 W/m²K
-- **6+16+6** Argon + Low-E: Ug = 0,6 W/m²K
+- **Autohäusern und Händlern** — Panoramaschaufenster von 3–5 m Breite ohne sichtbare vertikale Fuge
+- **Premium-Einzelhandel** — Glasfassaden für maximale Sichtbarkeit von der Straße
+- **Restaurants und Cafés** — Glaswände, die die Grenze zwischen innen und außen aufheben
+- **Bürogebäuden und Firmenzentralen** — Vorhangfassaden mit großen Elementen für die visuelle Identität
+- **Hotels** — verglaste Lobbys, Panoramawände an Pools und Konferenzräumen
+- **Gehobenem Wohnbau** — Villen mit bodentiefen Fenstern oder Schiebetüren mit einem Element über 3 m
 
 ---
 
-## Richtpreise — 2026
+## Glasarten für große Schaufenster und Scheiben
 
-> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+### 1. Einscheibensicherheitsglas (thermisch vorgespannt)
+
+Das thermische Vorspannen bei 620–680 °C mit anschließender schneller Abkühlung erhöht die Festigkeit des Glases um das **Vier- bis Fünffache** gegenüber gewöhnlichem Floatglas. Beim Bruch zerfällt es in kleine Krümel ohne scharfe Kanten — entscheidend für die Sicherheit im öffentlichen Raum.
+
+**Spezifikationen für gewerbliche Schaufenster:**
+- Standarddicken: 8 mm, 10 mm, 12 mm, 15 mm, 19 mm
+- Maximale Tafelgröße vorgespannt: **3.500 × 8.000 mm**
+- Empfohlene Dicke für ein Erdgeschoss-Schaufenster: **10–12 mm**
+- Dicke für eine rahmenlose Structural-Glazing-Fassade: **15–19 mm**
+
+### 2. Verbund-Sicherheitsglas (VSG)
+
+Zwei oder mehr Glasscheiben, verbunden mit PVB- oder SGP-Folien. Beim Aufprall bleibt das Glas im Rahmen — die Splitter haften an der Folie. **Der Standard für einbruchhemmende und beschussfeste Anwendungen.**
+
+**Widerstandsklassen nach EN 356:**
+- **P2A** — hält 3 Hammerschlägen stand → normales Ladenschaufenster
+- **P4A** — hält 9 Hammerschlägen stand → Juweliere, Apotheken
+- **P6B** — hält einem Beil stand → Banken, Wechselstuben
+- **FB4/FB6** — beschusshemmend → Sonderanwendungen
+
+**Einbruchhemmungsklassen nach EN 1627:**
+- **RC2** — widersteht 3 Minuten dem Schraubendreher → Standard im Einzelhandel
+- **RC3** — widersteht 5 Minuten dem Brecheisen → Juweliere, Nachtapotheken
+- **RC4** — widersteht 10 Minuten der Bohrmaschine → Banken, Tresorräume
+
+### 3. Isolierglas in Großformat
+
+Isolierglas in Übergröße verbindet Wärmedämmung mit großen Abmessungen. Die technische Herausforderung: Randverbund und Dichtungen müssen über die gesamte Länge eines Elements von über 3 m dicht bleiben.
+
+**Empfohlene Aufbauten für große Schaufenster:**
+- **4+16+4** mit Argon: Ug = 1,0 W/m²K — gewerblicher Standard
+- **6+16+6** mit Argon und Low-E: Ug = 0,6 W/m²K — Showroom mit Energieanforderungen
+- **8+16+8** vorgespannt mit Low-E: Festigkeit plus Dämmung für gehobenen Einzelhandel
+
+**Warm-Edge-Abstandhalter** sind bei großen Elementen zwingend, um Kondensat an den Ecken und Wärmebrücken am Rand zu vermeiden.
+
+### 4. Reflexions- und Siebdruckglas für Fassaden
+
+**Reflexionsglas** (metallische Beschichtung auf Fläche 2) senkt den g-Wert auf 0,15–0,30 und wirkt von außen wie ein Spiegel. Standard für Autohäuser und nach Süden oder Westen ausgerichtete Gewerbefassaden.
+
+**Siebdruckglas**: keramische Farbe, bei 620 °C in die Glasmasse eingebrannt — dauerhaft und UV-beständig. Ermöglicht Branding auf dem Schaufenster, teilweisen Sichtschutz oder rein gestalterische Wirkung.
+
+---
+
+## Maximal verfügbare Abmessungen — was wir liefern können
+
+| Glasart | Dicke | Maximale Größe | Maximales Gewicht |
+|---|---|---|---|
+| Floatglas vorgespannt | 8–19 mm | 3.500 × 8.000 mm | 1.500 kg |
+| VSG laminiert | 8+8 – 12+12 | 3.300 × 6.000 mm | 900 kg |
+| Isolierglas Standard | 4+16+4 | 3.000 × 4.000 mm | 120 kg |
+| Isolierglas vorgespannt | 6+16+6 | 3.000 × 5.000 mm | 350 kg |
+| Reflexionsglas vorgespannt | 6–12 mm | 3.200 × 6.000 mm | 600 kg |
+
+*Die Abmessungen hängen vom konkreten Aufbau und von der Transportkapazität ab. Sprechen Sie uns für die Bestätigung zu Ihrem Projekt an.*
+
+---
+
+## Befestigungssysteme für rahmenlose Schaufenster
+
+### Punkthalter (Spider Fitting)
+
+Die eleganteste Lösung für gewerbliche Schaufenster — das Glas wird über Punkthalter aus Edelstahl gehalten, ohne sichtbaren Rahmen. Optisch entsteht eine durchgehende Glasfläche.
+
+- Übliche Abstände zwischen den Punkten: 1.000–1.500 mm
+- Mindestgröße des Glases: 1.000 × 1.000 mm
+- Mindestdicke des Glases: **12 mm vorgespannt** oder **8+8 laminiert**
+- Das Glas muss **vor dem Vorspannen gebohrt werden** — nach dem Härten ist Bohren unmöglich
+
+### Minimalprofil aus Aluminium (Slot-System)
+
+Ein [Aluminiumprofil](/de/aluminiumfenster) mit 10-mm-Nut, in die das Glas direkt eingesetzt wird. Optisch: eine schmale Aluminiumlinie am Rand, das Glas im Vordergrund.
+
+### SG-System (Structural Glazing)
+
+Das Glas wird mit Strukturklebstoff auf eine verdeckte Metallunterkonstruktion geklebt. Keine sichtbaren Profile. Eingesetzt bei halbstrukturellen und strukturellen Vorhangfassaden.
+
+---
+
+## Richtpreise für große Glaselemente — 2026
+
+> ⚠️ **Wichtiger Hinweis:** Die Preise sind Richtwerte und geben den Stand von März 2026 wieder. Glaspreise schwanken erheblich mit Verfügbarkeit und Wechselkurs. Fordern Sie stets ein aktuelles Angebot an.
 
 | Produkt | Größe | Richtpreis |
 |---|---|---|
-| ESG 10mm | 2.000 × 3.000 mm | 450–700 EUR |
-| VSG RC2 laminiert | 2.000 × 3.000 mm | 900–1.400 EUR |
-| Isolierglas ESG 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
-| **Komplettmontage (Roboter + Arbeit)** | pro Panel | **350–800 EUR** |
+| Vorgespanntes Glas 10 mm | 2.000 × 3.000 mm | 450–700 EUR |
+| Vorgespanntes Glas 12 mm | 2.500 × 3.500 mm | 700–1.100 EUR |
+| VSG laminiert 8+8 P2A | 2.000 × 3.000 mm | 600–900 EUR |
+| VSG laminiert RC2 | 2.000 × 3.000 mm | 900–1.400 EUR |
+| Isolierglas vorgespannt 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
+| Punkthalter Edelstahl (je Punkt) | — | 80–180 EUR |
+| **Komplette Montage (Roboter plus Arbeit)** | je Element | **350–800 EUR** |
+
+*Die Preise verstehen sich ohne Spezialtransport und ohne etwaige Vorarbeiten an der Unterkonstruktion.*
+
+---
+
+## Warum Neofort BIZ für große Glaselemente
+
+Der Einbau von Übergrößenglas lässt sich nicht mit konventionellen Mitteln bewerkstelligen. Neofort BIZ verfügt über spezielle Saugheber mit einer Tragfähigkeit bis 1.400 kg und arbeitet mit zertifizierten Teams für die [Montage](/de/dienstleistungen) in Höhe und auf engem Raum. Alle Details in [dem vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
 
 **WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
 
 ## Häufig gestellte Fragen
 
-### Ab welchen Maßen gilt Glas als überformatig?
+### Ab welcher Größe gilt Glas als Übergröße?
 
-„Überformatig“ beschreibt jedes Glaspaneel, das die Standard-Transportgrenzen überschreitet — in der Praxis jede Scheibe größer als 2.500 × 3.500 mm oder schwerer als 150 kg. Es wird von Autohäusern, Premium-Einzelhandel, Restaurants, Büros, Hotels und Premium-Wohnbau mit raumhohen Fenstern benötigt.
+„Übergröße" beschreibt jede Glasscheibe, die die üblichen Transportgrenzen überschreitet — in der Praxis jede Tafel größer als 2.500 × 3.500 mm oder schwerer als 150 kg. Solche Elemente werden von Autohäusern, Premium-Einzelhandel, Restaurants, Büros, Hotels und gehobenem Wohnbau mit bodentiefen Fenstern verlangt.
 
-### Welcher Glastyp wird für große Schaufenster verwendet?
+### Welche Glasart wird für große Schaufenster verwendet?
 
-Vorgespanntes (wärmebehandeltes) Glas ist der Standard für Schaufenster. Das Vorspannen bei 620-680°C mit anschließender schneller Abkühlung erhöht die Festigkeit um das 4-5-fache gegenüber Floatglas. Beim Bruch zerfällt es in kleine Granulate ohne scharfe Kanten — essenziell für die Sicherheit in öffentlichen Räumen.
+Thermisch vorgespanntes Einscheibensicherheitsglas ist der Standard für Schaufenster. Das Vorspannen bei 620–680 °C mit anschließender schneller Abkühlung erhöht die Festigkeit um das Vier- bis Fünffache gegenüber Floatglas. Beim Bruch zerfällt es in kleine Krümel ohne scharfe Kanten — entscheidend für die Sicherheit im öffentlichen Raum.
 
-### Was sind die Maximalmaße einer vorgespannten Glasscheibe?
+### Wie groß darf eine vorgespannte Glastafel maximal sein?
 
-Eine vorgespannte Glasscheibe kann Maximalmaße von 3.500 × 8.000 mm erreichen, in Standarddicken von 8, 10, 12, 15 oder 19 mm. Diese Maße ermöglichen Panorama-Schaufenster von 3-5 m Breite ohne sichtbare vertikale Fuge, ideal für Showrooms und Einzelhandelsfassaden.
+Eine vorgespannte Tafel kann maximal 3.500 × 8.000 mm erreichen, in Standarddicken von 8, 10, 12, 15 oder 19 mm. Diese Größen erlauben Panoramaschaufenster von 3–5 m Breite ohne sichtbare vertikale Fuge, ideal für Showrooms und Einzelhandelsfassaden.
 
-### Warum ist das Vorspannen für öffentliche Räume wichtig?
+### Warum ist Vorspannen im öffentlichen Raum so wichtig?
 
-Vorgespanntes Glas zerfällt beim Bruch in kleine Granulate ohne scharfe Kanten, anders als Floatglas, das gefährliche Scherben erzeugt. Das ist essenziell für die Sicherheit in Showrooms, Geschäften, Restaurants und jedem öffentlichen Raum mit starkem Publikumsverkehr.
+Vorgespanntes Glas zerfällt beim Bruch in kleine Krümel ohne scharfe Kanten, anders als Floatglas, das gefährliche Scherben bildet. Das ist entscheidend für die Sicherheit in Showrooms, Läden, Restaurants und jedem öffentlichen Raum mit starkem Publikumsverkehr.
 
 ---
 
 Neofort BIZ führt Aluminium- und Fassadenarbeiten in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details in [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
-      fr: `## Que sont les panneaux de verre surdimensionnés et qui en a besoin ?
+      fr: `## Ce qu’est un vitrage hors normes et qui en a besoin
 
-Les [panneaux surdimensionnés](/fr/menuiserie-aluminium) dépassent les capacités de transport et de [manutention](/fr/services) standard — en pratique, toute feuille supérieure à **2.500 × 3.500 mm** ou plus lourde que **150 kg par panneau**.
+Le terme « hors normes » désigne tout panneau de verre dont les dimensions dépassent les limites habituelles de transport et de manutention — en pratique, toute feuille de plus de **2 500 × 3 500 mm** ou pesant plus de **150 kg par panneau**.
 
----
+Ces dimensions sont régulièrement demandées par :
 
-## Types de verre pour grandes vitrines
-
-### 1. Verre trempé (VSG simple)
-Trempe thermique à 620–680°C : résistance **4–5× supérieure**. Dimensions maximales : **3.500 × 8.000 mm**.
-
-### 2. Verre feuilleté — classes de résistance antieffraction
-
-| Classe (EN 1627) | Résistance | Application typique |
-|---|---|---|
-| RC2 | 3 min avec tournevis | Commerce standard |
-| RC3 | 5 min avec pied-de-biche | Bijouteries, pharmacies |
-| RC4 | 10 min avec perceuse | Banques, bureaux de change |
+- **Les concessions et showrooms automobiles** — vitrines panoramiques de 3 à 5 m de large sans joint vertical visible
+- **Les commerces haut de gamme** — façades vitrées pour une visibilité maximale depuis la rue
+- **Les restaurants et cafés** — parois de verre qui effacent la limite entre intérieur et extérieur
+- **Les immeubles de bureaux et sièges sociaux** — murs-rideaux à grands panneaux pour l’identité visuelle
+- **Les hôtels** — halls vitrés, parois panoramiques aux piscines et salles de conférence
+- **Le résidentiel haut de gamme** — villas avec baies du sol au plafond ou coulissants d’un seul vantail de plus de 3 m
 
 ---
 
-## Prix indicatifs — 2026
+## Types de verre pour vitrines et grands panneaux
 
-> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+### 1. Verre trempé thermiquement
 
-| Produit | Dimension | Prix indicatif |
+La trempe thermique à 620–680 °C suivie d’un refroidissement brutal multiplie la résistance du verre par **quatre à cinq** par rapport au float ordinaire. À la casse, il se fragmente en petits granulés sans arêtes coupantes — essentiel pour la sécurité dans les lieux publics.
+
+**Spécifications pour vitrines commerciales :**
+- Épaisseurs standard : 8 mm, 10 mm, 12 mm, 15 mm, 19 mm
+- Dimensions maximales d’une feuille trempée : **3 500 × 8 000 mm**
+- Épaisseur conseillée pour une vitrine de rez-de-chaussée : **10–12 mm**
+- Épaisseur pour une façade structurelle sans cadre : **15–19 mm**
+
+### 2. Verre feuilleté (VSG)
+
+Deux feuilles de verre ou plus assemblées par des intercalaires PVB ou SGP. À l’impact, le verre reste dans son cadre — les éclats adhèrent au film. **La référence pour les applications anti-effraction et pare-balles.**
+
+**Classes de résistance selon EN 356 :**
+- **P2A** — résiste à 3 coups de marteau → vitrine de magasin standard
+- **P4A** — résiste à 9 coups de marteau → bijouteries, pharmacies
+- **P6B** — résiste à la hache → banques, bureaux de change
+- **FB4/FB6** — pare-balles → applications spéciales
+
+**Classes anti-effraction selon EN 1627 :**
+- **RC2** — résiste 3 minutes au tournevis → standard du commerce
+- **RC3** — résiste 5 minutes au pied-de-biche → bijoutiers, pharmacies de nuit
+- **RC4** — résiste 10 minutes à la perceuse → banques, coffres
+
+### 3. Vitrage isolant grand format
+
+Le vitrage isolant hors normes associe performance thermique et grandes dimensions. La difficulté technique : l’intercalaire périphérique et les joints doivent rester étanches sur toute la longueur d’un panneau de plus de 3 m.
+
+**Compositions recommandées pour grandes vitrines :**
+- **4+16+4** à l’argon : Ug = 1,0 W/m²K — standard commercial
+- **6+16+6** argon et Low-E : Ug = 0,6 W/m²K — showroom avec exigences énergétiques
+- **8+16+8** trempé et Low-E : résistance et isolation pour le commerce haut de gamme
+
+**Les intercalaires Warm Edge** sont indispensables sur les grands panneaux, pour éliminer la condensation dans les angles et éviter les ponts thermiques périphériques.
+
+### 4. Verre réfléchissant et sérigraphié pour façades
+
+**Le verre réfléchissant** (couche métallique en face 2) abaisse le facteur solaire g à 0,15–0,30 et donne un aspect miroir depuis l’extérieur. Standard pour les showrooms automobiles et les façades commerciales exposées sud ou ouest.
+
+**Le verre sérigraphié** : encre céramique cuite à 620 °C dans la masse du verre — permanente et résistante aux UV. Il permet le marquage sur vitrine, des effets d’intimité partielle ou un pur parti pris architectural.
+
+---
+
+## Dimensions maximales disponibles — ce que nous pouvons livrer
+
+| Type de verre | Épaisseur | Dimensions maximales | Poids maximal |
+|---|---|---|---|
+| Float trempé | 8–19 mm | 3 500 × 8 000 mm | 1 500 kg |
+| Feuilleté VSG | 8+8 – 12+12 | 3 300 × 6 000 mm | 900 kg |
+| Vitrage isolant standard | 4+16+4 | 3 000 × 4 000 mm | 120 kg |
+| Vitrage isolant trempé | 6+16+6 | 3 000 × 5 000 mm | 350 kg |
+| Réfléchissant trempé | 6–12 mm | 3 200 × 6 000 mm | 600 kg |
+
+*Les dimensions dépendent de la composition retenue et de la capacité de transport. Contactez-nous pour confirmation sur votre projet.*
+
+---
+
+## Systèmes de fixation pour vitrines sans cadre
+
+### Fixation ponctuelle (spider fitting)
+
+La solution la plus élégante pour les vitrines commerciales — le verre est maintenu par des attaches ponctuelles en inox, sans cadre périphérique visible. Résultat visuel : une surface de verre continue.
+
+- Entraxe habituel entre points : 1 000–1 500 mm
+- Dimensions minimales du verre : 1 000 × 1 000 mm
+- Épaisseur minimale : **12 mm trempé** ou **8+8 feuilleté**
+- Le verre doit être **percé avant la trempe** — le perçage après trempe est impossible
+
+### Profilé aluminium minimal (système à feuillure)
+
+Un profilé en [aluminium](/fr/menuiserie-aluminium) doté d’une feuillure de 10 mm dans laquelle le verre s’insère directement. Visuellement : une fine ligne d’aluminium en périphérie, le verre au premier plan.
+
+### Système VEC (verre extérieur collé)
+
+Le verre est collé au silicone structurel sur une ossature métallique dissimulée. Aucun profilé visible. Utilisé dans les murs-rideaux semi-structurels et structurels.
+
+---
+
+## Prix indicatifs des grands vitrages — 2026
+
+> ⚠️ **Note importante :** ces prix sont indicatifs et reflètent les conditions de mars 2026. Les prix du verre varient sensiblement selon la disponibilité et le taux de change. Demandez toujours un devis actualisé.
+
+| Produit | Dimensions | Prix indicatif |
 |---|---|---|
-| Trempé 10mm | 2.000 × 3.000 mm | 450–700 EUR |
-| Feuilleté RC2 | 2.000 × 3.000 mm | 900–1.400 EUR |
-| Double vitrage trempé 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
-| **Pose complète (robot + main-d'œuvre)** | par panneau | **350–800 EUR** |
+| Verre trempé 10 mm | 2 000 × 3 000 mm | 450–700 EUR |
+| Verre trempé 12 mm | 2 500 × 3 500 mm | 700–1 100 EUR |
+| Feuilleté VSG 8+8 P2A | 2 000 × 3 000 mm | 600–900 EUR |
+| Feuilleté VSG RC2 | 2 000 × 3 000 mm | 900–1 400 EUR |
+| Vitrage isolant trempé 6+16+6 | 2 500 × 3 000 mm | 800–1 300 EUR |
+| Attache ponctuelle inox (par point) | — | 80–180 EUR |
+| **Pose complète (robot et main-d’œuvre)** | par panneau | **350–800 EUR** |
 
-**WhatsApp :** +40 752 443 435 | **L–V 10–18**
+*Les prix n’incluent ni le transport spécialisé ni les éventuels travaux de préparation de la structure porteuse.*
+
+---
+
+## Pourquoi Neofort BIZ pour les grands vitrages
+
+La pose de vitrages hors normes ne peut se faire avec des moyens conventionnels. Neofort BIZ dispose d’équipements de manutention à ventouses d’une capacité allant jusqu’à 1 400 kg et travaille avec des équipes certifiées pour la [pose](/fr/services) en hauteur et en espace restreint. Tous les détails dans [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).
+
+**WhatsApp :** +40 752 443 435 | **Lun–Ven 10–18**
 
 ## Questions fréquentes
 
-### À partir de quelles dimensions un verre est-il considéré hors gabarit ?
+### À partir de quelles dimensions un vitrage est-il hors normes ?
 
-« Hors gabarit » décrit tout panneau de verre dépassant les limites de transport standard — en pratique, toute feuille de plus de 2 500 × 3 500 mm ou de plus de 150 kg. Il est requis par les showrooms auto, le retail premium, les restaurants, bureaux, hôtels et le résidentiel premium à fenêtres du sol au plafond.
+« Hors normes » désigne tout panneau de verre qui dépasse les limites habituelles de transport — en pratique, toute feuille de plus de 2 500 × 3 500 mm ou pesant plus de 150 kg. Ces panneaux sont demandés par les showrooms automobiles, le commerce haut de gamme, les restaurants, les bureaux, les hôtels et le résidentiel de standing à baies toute hauteur.
 
 ### Quel type de verre utilise-t-on pour les grandes vitrines ?
 
-Le verre trempé (traité thermiquement) est le standard pour les vitrines. La trempe à 620-680°C suivie d'un refroidissement rapide augmente la résistance de 4 à 5 fois par rapport au verre float. À la casse, il se fragmente en petits granules sans arêtes vives — essentiel pour la sécurité dans les espaces publics.
+Le verre trempé thermiquement est la référence pour les vitrines. La trempe à 620–680 °C suivie d’un refroidissement brutal multiplie la résistance par quatre à cinq par rapport au float. À la casse, il se fragmente en petits granulés sans arêtes coupantes — essentiel dans les lieux publics.
 
-### Quelles sont les dimensions maximales d'une feuille de verre trempé ?
+### Quelles sont les dimensions maximales d’une feuille de verre trempé ?
 
-Une feuille de verre trempé peut atteindre des dimensions maximales de 3 500 × 8 000 mm, en épaisseurs standard de 8, 10, 12, 15 ou 19 mm. Ces dimensions permettent des vitrines panoramiques de 3-5 m de large sans joint vertical visible, idéales pour les showrooms et façades retail.
+Une feuille trempée peut atteindre 3 500 × 8 000 mm au maximum, en épaisseurs standard de 8, 10, 12, 15 ou 19 mm. Ces dimensions permettent des vitrines panoramiques de 3 à 5 m de large sans joint vertical visible, idéales pour les showrooms et les façades commerciales.
 
-### Pourquoi la trempe est-elle importante pour les espaces publics ?
+### Pourquoi la trempe est-elle si importante dans les lieux publics ?
 
-Le verre trempé, à la casse, se fragmente en petits granules sans arêtes vives, contrairement au verre float qui produit des éclats dangereux. C'est essentiel pour la sécurité dans les showrooms, magasins, restaurants et tout espace public à fort passage.
+À la casse, le verre trempé se fragmente en petits granulés sans arêtes coupantes, contrairement au float qui produit des éclats dangereux. C’est essentiel pour la sécurité dans les showrooms, les magasins, les restaurants et tout lieu public à forte fréquentation.
 
 ---
 
 Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Tous les détails dans [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
-      es: `## ¿Qué son los paneles de vidrio sobredimensionados y quién los necesita?
+      es: `## Qué es el vidrio de gran formato y quién lo necesita
 
-Los [paneles sobredimensionados](/es/carpinteria-aluminio) superan las capacidades estándar de transporte y [manipulación](/es/servicios) — en la práctica, cualquier hoja mayor de **2.500 × 3.500 mm** o más pesada de **150 kg por panel**.
+El término «gran formato» describe cualquier panel de vidrio cuyas dimensiones superan los límites habituales de transporte y manipulación — en la práctica, cualquier hoja mayor de **2.500 × 3.500 mm** o de más de **150 kg por panel**.
 
----
+Estas medidas las solicitan con frecuencia:
 
-## Tipos de vidrio para grandes vitrinas
-
-### 1. Vidrio templado
-Temple térmico a 620–680°C: resistencia **4–5× superior**. Dimensiones máximas: **3.500 × 8.000 mm**.
-
-### 2. Vidrio laminado — clases de resistencia antiefracción
-
-| Clase (EN 1627) | Resistencia | Aplicación típica |
-|---|---|---|
-| RC2 | 3 min con destornillador | Comercio estándar |
-| RC3 | 5 min con palanca | Joyerías, farmacias |
-| RC4 | 10 min con taladro | Bancos, casas de cambio |
+- **Concesionarios y showrooms de automoción** — escaparates panorámicos de 3 a 5 m de ancho sin junta vertical visible
+- **Comercios de gama alta** — fachadas de vidrio para máxima visibilidad desde la calle
+- **Restaurantes y cafeterías** — paredes de vidrio que borran el límite entre interior y exterior
+- **Edificios de oficinas y sedes corporativas** — muros cortina con grandes paños para la identidad visual
+- **Hoteles** — vestíbulos acristalados, paredes panorámicas en piscinas y salas de conferencias
+- **Residencial de alto standing** — chalets con ventanales de suelo a techo o correderas de una sola hoja de más de 3 m
 
 ---
 
-## Precios orientativos — 2026
+## Tipos de vidrio para escaparates y grandes paños
 
-> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+### 1. Vidrio templado térmicamente
 
-| Producto | Dimensión | Precio orientativo |
+El templado térmico a 620–680 °C seguido de enfriamiento brusco multiplica la resistencia del vidrio por **cuatro o cinco** frente al float común. Al romperse se fragmenta en gránulos pequeños sin aristas cortantes — esencial para la seguridad en espacios públicos.
+
+**Especificaciones para escaparates comerciales:**
+- Espesores estándar: 8 mm, 10 mm, 12 mm, 15 mm, 19 mm
+- Dimensiones máximas de hoja templada: **3.500 × 8.000 mm**
+- Espesor recomendado para escaparate a pie de calle: **10–12 mm**
+- Espesor para fachada estructural sin marco: **15–19 mm**
+
+### 2. Vidrio laminado (VSG)
+
+Dos o más hojas de vidrio unidas con láminas intercaladas de PVB o SGP. Ante un impacto el vidrio permanece en el marco — los fragmentos quedan adheridos a la lámina. **El estándar para aplicaciones antirrobo y antibala.**
+
+**Clases de resistencia según EN 356:**
+- **P2A** — resiste 3 golpes de martillo → escaparate de tienda estándar
+- **P4A** — resiste 9 golpes de martillo → joyerías, farmacias
+- **P6B** — resiste al hacha → bancos, casas de cambio
+- **FB4/FB6** — antibala → aplicaciones especiales
+
+**Clases antirrobo según EN 1627:**
+- **RC2** — resiste 3 minutos al destornillador → estándar del comercio
+- **RC3** — resiste 5 minutos a la palanca → joyeros, farmacias de guardia
+- **RC4** — resiste 10 minutos al taladro → bancos, cajas fuertes
+
+### 3. Vidrio aislante de gran formato
+
+El vidrio aislante de gran formato combina prestación térmica con grandes dimensiones. El reto técnico: el separador perimetral y las juntas deben mantener la estanqueidad en toda la longitud de un paño de más de 3 m.
+
+**Composiciones recomendadas para grandes escaparates:**
+- **4+16+4** con argón: Ug = 1,0 W/m²K — estándar comercial
+- **6+16+6** con argón y Low-E: Ug = 0,6 W/m²K — showroom con exigencias energéticas
+- **8+16+8** templado con Low-E: resistencia más aislamiento para comercio premium
+
+**Los separadores Warm Edge** son obligatorios en paños grandes, para eliminar la condensación en las esquinas y evitar puentes térmicos perimetrales.
+
+### 4. Vidrio reflectante y serigrafiado para fachadas
+
+**El vidrio reflectante** (capa metálica en cara 2) reduce el factor solar g a 0,15–0,30 y ofrece aspecto de espejo desde el exterior. Estándar para showrooms de automoción y fachadas comerciales orientadas a sur u oeste.
+
+**El vidrio serigrafiado**: tinta cerámica cocida a 620 °C en la masa del vidrio — permanente y resistente a los UV. Permite marca en el escaparate, efectos de privacidad parcial o un recurso puramente arquitectónico.
+
+---
+
+## Dimensiones máximas disponibles — qué podemos entregar
+
+| Tipo de vidrio | Espesor | Dimensiones máximas | Peso máximo |
+|---|---|---|---|
+| Float templado | 8–19 mm | 3.500 × 8.000 mm | 1.500 kg |
+| Laminado VSG | 8+8 – 12+12 | 3.300 × 6.000 mm | 900 kg |
+| Vidrio aislante estándar | 4+16+4 | 3.000 × 4.000 mm | 120 kg |
+| Vidrio aislante templado | 6+16+6 | 3.000 × 5.000 mm | 350 kg |
+| Reflectante templado | 6–12 mm | 3.200 × 6.000 mm | 600 kg |
+
+*Las dimensiones dependen de la composición concreta y de la capacidad de transporte. Contáctenos para confirmar en su proyecto.*
+
+---
+
+## Sistemas de fijación para escaparates sin marco
+
+### Fijación puntual (spider fitting)
+
+La solución más elegante para escaparates comerciales — el vidrio se sujeta con anclajes puntuales de acero inoxidable, sin marco perimetral visible. El resultado visual es una superficie de vidrio continua.
+
+- Separación habitual entre puntos: 1.000–1.500 mm
+- Dimensiones mínimas del vidrio: 1.000 × 1.000 mm
+- Espesor mínimo: **12 mm templado** o **8+8 laminado**
+- El vidrio debe **taladrarse antes del templado** — perforar después es imposible
+
+### Perfil de aluminio mínimo (sistema de ranura)
+
+Un perfil de [aluminio](/es/carpinteria-aluminio) con ranura de 10 mm en la que el vidrio se introduce directamente. Visualmente: una línea fina de aluminio en el perímetro, con el vidrio en primer plano.
+
+### Sistema SG (silicona estructural)
+
+El vidrio se adhiere con silicona estructural sobre una estructura metálica oculta. Sin perfiles a la vista. Se emplea en muros cortina semiestructurales y estructurales.
+
+---
+
+## Precios orientativos de grandes vidrios — 2026
+
+> ⚠️ **Nota importante:** los precios son orientativos y reflejan las condiciones de marzo de 2026. El precio del vidrio varía sensiblemente según disponibilidad y tipo de cambio. Solicite siempre un presupuesto actualizado.
+
+| Producto | Dimensiones | Precio orientativo |
 |---|---|---|
-| Templado 10mm | 2.000 × 3.000 mm | 450–700 EUR |
-| Laminado RC2 | 2.000 × 3.000 mm | 900–1.400 EUR |
-| Doble acristalamiento templado 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
-| **Instalación completa (robot + mano de obra)** | por panel | **350–800 EUR** |
+| Vidrio templado 10 mm | 2.000 × 3.000 mm | 450–700 EUR |
+| Vidrio templado 12 mm | 2.500 × 3.500 mm | 700–1.100 EUR |
+| Laminado VSG 8+8 P2A | 2.000 × 3.000 mm | 600–900 EUR |
+| Laminado VSG RC2 | 2.000 × 3.000 mm | 900–1.400 EUR |
+| Vidrio aislante templado 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
+| Anclaje puntual inox (por punto) | — | 80–180 EUR |
+| **Instalación completa (robot y mano de obra)** | por panel | **350–800 EUR** |
+
+*Los precios no incluyen transporte especializado ni posibles trabajos de preparación de la estructura de soporte.*
+
+---
+
+## Por qué Neofort BIZ para grandes vidrios
+
+La instalación de vidrio de gran formato no puede hacerse con medios convencionales. Neofort BIZ dispone de equipos de manipulación por ventosas con capacidad de hasta 1.400 kg y trabaja con equipos certificados para la [instalación](/es/servicios) en altura y en espacios reducidos. Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
 ## Preguntas frecuentes
 
-### ¿A partir de qué dimensiones se considera el vidrio de gran formato?
+### ¿A partir de qué dimensiones se considera un vidrio de gran formato?
 
-«Gran formato» describe cualquier panel de vidrio que supera los límites de transporte estándar — en la práctica, cualquier hoja mayor de 2.500 × 3.500 mm o más pesada de 150 kg. Lo requieren showrooms de automóviles, retail premium, restaurantes, oficinas, hoteles y residencial premium con ventanas de suelo a techo.
+«Gran formato» describe cualquier panel de vidrio que supera los límites habituales de transporte — en la práctica, cualquier hoja mayor de 2.500 × 3.500 mm o de más de 150 kg. Los solicitan showrooms de automoción, comercio premium, restaurantes, oficinas, hoteles y residencial de alto standing con ventanales de suelo a techo.
 
-### ¿Qué tipo de vidrio se usa para escaparates de gran tamaño?
+### ¿Qué tipo de vidrio se usa en escaparates de grandes dimensiones?
 
-El vidrio templado (tratado térmicamente) es el estándar para escaparates. El templado a 620-680°C seguido de enfriamiento rápido aumenta la resistencia de 4 a 5 veces frente al vidrio float. Al romperse se fragmenta en gránulos pequeños sin aristas afiladas — esencial para la seguridad en espacios públicos.
+El vidrio templado térmicamente es el estándar para escaparates. El templado a 620–680 °C con enfriamiento brusco multiplica la resistencia por cuatro o cinco frente al float. Al romperse se fragmenta en gránulos pequeños sin aristas cortantes — esencial en espacios públicos.
 
 ### ¿Cuáles son las dimensiones máximas de una hoja de vidrio templado?
 
-Una hoja de vidrio templado puede alcanzar dimensiones máximas de 3.500 × 8.000 mm, en grosores estándar de 8, 10, 12, 15 o 19 mm. Estas dimensiones permiten escaparates panorámicos de 3-5 m de ancho sin junta vertical visible, ideales para showrooms y fachadas retail.
+Una hoja templada puede alcanzar 3.500 × 8.000 mm, en espesores estándar de 8, 10, 12, 15 o 19 mm. Estas medidas permiten escaparates panorámicos de 3 a 5 m de ancho sin junta vertical visible, ideales para showrooms y fachadas comerciales.
 
-### ¿Por qué es importante el templado para espacios públicos?
+### ¿Por qué importa el templado en espacios públicos?
 
-El vidrio templado, al romperse, se fragmenta en gránulos pequeños sin aristas afiladas, a diferencia del vidrio float que produce esquirlas peligrosas. Esto es esencial para la seguridad en showrooms, tiendas, restaurantes y cualquier espacio público con alto tránsito de personas.
+Al romperse, el vidrio templado se fragmenta en gránulos pequeños sin aristas cortantes, a diferencia del float, que produce astillas peligrosas. Esto resulta esencial para la seguridad en showrooms, tiendas, restaurantes y cualquier espacio público con mucho tránsito.
 
 ---
 
 Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
-      it: `## Cosa sono i pannelli di vetro sovradimensionati e chi ne ha bisogno?
+      it: `## Che cos’è il vetro fuori misura e chi ne ha bisogno
 
-I [pannelli sovradimensionati](/it/infissi-alluminio) superano le capacità di trasporto e [movimentazione](/it/servizi) standard — in pratica, qualsiasi lastra più grande di **2.500 × 3.500 mm** o più pesante di **150 kg per pannello**.
+Il termine «fuori misura» indica qualsiasi lastra di vetro le cui dimensioni superano i limiti abituali di trasporto e movimentazione — in pratica, ogni lastra più grande di **2.500 × 3.500 mm** o più pesante di **150 kg per elemento**.
 
----
+Queste dimensioni vengono richieste con frequenza da:
 
-## Tipi di vetro per grandi vetrine
-
-### 1. Vetro temprato
-Tempra termica a 620–680°C: resistenza **4–5× superiore**. Dimensioni massime: **3.500 × 8.000 mm**.
-
-### 2. Vetro laminato — classi di resistenza antieffrazione
-
-| Classe (EN 1627) | Resistenza | Applicazione tipica |
-|---|---|---|
-| RC2 | 3 min con cacciavite | Commercio standard |
-| RC3 | 5 min con piede di porco | Gioiellerie, farmacie |
-| RC4 | 10 min con trapano | Banche, cambiavalute |
+- **Concessionarie e showroom auto** — vetrine panoramiche di 3–5 m di larghezza senza giunto verticale a vista
+- **Negozi e retail di fascia alta** — facciate in vetro per la massima visibilità dalla strada
+- **Ristoranti e caffetterie** — pareti in vetro che annullano il confine tra interno ed esterno
+- **Edifici per uffici e sedi aziendali** — facciate continue con grandi lastre per l’identità visiva
+- **Hotel** — hall vetrate, pareti panoramiche a piscine e sale conferenze
+- **Residenziale di pregio** — ville con vetrate dal pavimento al soffitto o scorrevoli con anta unica oltre 3 m
 
 ---
 
-## Prezzi indicativi — 2026
+## Tipi di vetro per vetrine e grandi lastre
 
-> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+### 1. Vetro temprato termicamente
 
-| Prodotto | Dimensione | Prezzo indicativo |
+La tempra termica a 620–680 °C seguita da raffreddamento rapido aumenta la resistenza del vetro di **quattro o cinque volte** rispetto al float comune. In caso di rottura si frantuma in granuli piccoli senza spigoli taglienti — essenziale per la sicurezza negli spazi pubblici.
+
+**Specifiche per vetrine commerciali:**
+- Spessori standard: 8 mm, 10 mm, 12 mm, 15 mm, 19 mm
+- Dimensioni massime della lastra temprata: **3.500 × 8.000 mm**
+- Spessore consigliato per vetrina al piano strada: **10–12 mm**
+- Spessore per facciata strutturale senza telaio: **15–19 mm**
+
+### 2. Vetro stratificato (VSG)
+
+Due o più lastre unite da intercalari in PVB o SGP. All’urto il vetro resta nel telaio — i frammenti aderiscono alla pellicola. **Lo standard per applicazioni antieffrazione e antiproiettile.**
+
+**Classi di resistenza secondo EN 356:**
+- **P2A** — resiste a 3 colpi di martello → vetrina di negozio standard
+- **P4A** — resiste a 9 colpi di martello → gioiellerie, farmacie
+- **P6B** — resiste all’ascia → banche, uffici cambio
+- **FB4/FB6** — antiproiettile → applicazioni speciali
+
+**Classi antieffrazione secondo EN 1627:**
+- **RC2** — resiste 3 minuti al cacciavite → standard del retail
+- **RC3** — resiste 5 minuti al piede di porco → gioiellieri, farmacie notturne
+- **RC4** — resiste 10 minuti al trapano → banche, caveau
+
+### 3. Vetrocamera di grande formato
+
+La vetrocamera fuori misura unisce prestazione termica e grandi dimensioni. La sfida tecnica: il distanziale perimetrale e le guarnizioni devono garantire tenuta su tutta la lunghezza di una lastra oltre i 3 m.
+
+**Composizioni consigliate per grandi vetrine:**
+- **4+16+4** con argon: Ug = 1,0 W/m²K — standard commerciale
+- **6+16+6** con argon e Low-E: Ug = 0,6 W/m²K — showroom con requisiti energetici
+- **8+16+8** temprato con Low-E: resistenza e isolamento per retail di pregio
+
+**I distanziali Warm Edge** sono indispensabili sulle lastre grandi, per eliminare la condensa negli angoli ed evitare ponti termici perimetrali.
+
+### 4. Vetro riflettente e serigrafato per facciate
+
+**Il vetro riflettente** (rivestimento metallico in faccia 2) abbassa il fattore solare g a 0,15–0,30 e dà un effetto specchio dall’esterno. Standard per showroom auto e facciate commerciali esposte a sud o a ovest.
+
+**Il vetro serigrafato**: inchiostro ceramico cotto a 620 °C nella massa del vetro — permanente e resistente ai raggi UV. Consente il branding sulla vetrina, effetti di privacy parziale o una scelta puramente architettonica.
+
+---
+
+## Dimensioni massime disponibili — che cosa possiamo consegnare
+
+| Tipo di vetro | Spessore | Dimensioni massime | Peso massimo |
+|---|---|---|---|
+| Float temprato | 8–19 mm | 3.500 × 8.000 mm | 1.500 kg |
+| Stratificato VSG | 8+8 – 12+12 | 3.300 × 6.000 mm | 900 kg |
+| Vetrocamera standard | 4+16+4 | 3.000 × 4.000 mm | 120 kg |
+| Vetrocamera temprata | 6+16+6 | 3.000 × 5.000 mm | 350 kg |
+| Riflettente temprato | 6–12 mm | 3.200 × 6.000 mm | 600 kg |
+
+*Le dimensioni dipendono dalla composizione specifica e dalla capacità di trasporto. Contattateci per la conferma sul vostro progetto.*
+
+---
+
+## Sistemi di fissaggio per vetrine senza telaio
+
+### Fissaggio puntuale (spider fitting)
+
+La soluzione più elegante per le vetrine commerciali — il vetro è trattenuto da attacchi puntuali in acciaio inox, senza telaio perimetrale a vista. L’effetto visivo è una superficie di vetro continua.
+
+- Interasse abituale tra i punti: 1.000–1.500 mm
+- Dimensioni minime del vetro: 1.000 × 1.000 mm
+- Spessore minimo: **12 mm temprato** oppure **8+8 stratificato**
+- Il vetro va **forato prima della tempra** — forarlo dopo è impossibile
+
+### Profilo in alluminio minimale (sistema a cava)
+
+Un profilo in [alluminio](/it/infissi-alluminio) con cava da 10 mm nella quale il vetro si inserisce direttamente. Visivamente: una linea sottile di alluminio sul perimetro, con il vetro in primo piano.
+
+### Sistema SG (silicone strutturale)
+
+Il vetro è incollato con silicone strutturale su una struttura metallica nascosta. Nessun profilo a vista. Impiegato nelle facciate continue semistrutturali e strutturali.
+
+---
+
+## Prezzi indicativi per grandi vetrate — 2026
+
+> ⚠️ **Nota importante:** i prezzi sono indicativi e riflettono le condizioni di marzo 2026. Il prezzo del vetro varia sensibilmente in base a disponibilità e cambio valutario. Richiedete sempre un preventivo aggiornato.
+
+| Prodotto | Dimensioni | Prezzo indicativo |
 |---|---|---|
-| Temprato 10mm | 2.000 × 3.000 mm | 450–700 EUR |
-| Laminato RC2 | 2.000 × 3.000 mm | 900–1.400 EUR |
-| Vetrocamera temprato 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
-| **Posa completa (robot + manodopera)** | per pannello | **350–800 EUR** |
+| Vetro temprato 10 mm | 2.000 × 3.000 mm | 450–700 EUR |
+| Vetro temprato 12 mm | 2.500 × 3.500 mm | 700–1.100 EUR |
+| Stratificato VSG 8+8 P2A | 2.000 × 3.000 mm | 600–900 EUR |
+| Stratificato VSG RC2 | 2.000 × 3.000 mm | 900–1.400 EUR |
+| Vetrocamera temprata 6+16+6 | 2.500 × 3.000 mm | 800–1.300 EUR |
+| Attacco puntuale inox (al punto) | — | 80–180 EUR |
+| **Posa completa (robot e manodopera)** | per lastra | **350–800 EUR** |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+*I prezzi non comprendono il trasporto specializzato né eventuali lavori di preparazione della struttura portante.*
+
+---
+
+## Perché Neofort BIZ per le grandi vetrate
+
+La posa di vetro fuori misura non si può eseguire con mezzi convenzionali. Neofort BIZ dispone di attrezzature di movimentazione a ventose con capacità fino a 1.400 kg e collabora con squadre certificate per la [posa](/it/servizi) in quota e in spazi ristretti. Tutti i dettagli in [la guida completa ai sistemi in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).
+
+**WhatsApp:** +40 752 443 435 | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
 ### Da quali dimensioni un vetro è considerato fuori misura?
 
-«Fuori misura» descrive qualsiasi pannello di vetro che supera i limiti di trasporto standard — in pratica, qualsiasi lastra più grande di 2.500 × 3.500 mm o più pesante di 150 kg. È richiesto da showroom auto, retail premium, ristoranti, uffici, hotel e residenziale premium con finestre dal pavimento al soffitto.
+«Fuori misura» indica qualsiasi lastra che superi i limiti abituali di trasporto — in pratica, ogni lastra più grande di 2.500 × 3.500 mm o più pesante di 150 kg. Sono richieste da showroom auto, retail di fascia alta, ristoranti, uffici, hotel e residenziale di pregio con vetrate a tutta altezza.
 
-### Che tipo di vetro si usa per le grandi vetrine?
+### Quale tipo di vetro si usa per le vetrine di grandi dimensioni?
 
-Il vetro temperato (trattato termicamente) è lo standard per le vetrine. La tempera a 620-680°C seguita da raffreddamento rapido aumenta la resistenza di 4-5 volte rispetto al vetro float. Alla rottura si frammenta in piccoli granuli senza bordi taglienti — essenziale per la sicurezza negli spazi pubblici.
+Il vetro temprato termicamente è lo standard per le vetrine. La tempra a 620–680 °C con raffreddamento rapido aumenta la resistenza di quattro o cinque volte rispetto al float. In caso di rottura si frantuma in granuli piccoli senza spigoli taglienti — essenziale negli spazi pubblici.
 
-### Quali sono le dimensioni massime di una lastra di vetro temperato?
+### Quali sono le dimensioni massime di una lastra temprata?
 
-Una lastra di vetro temperato può raggiungere dimensioni massime di 3.500 × 8.000 mm, in spessori standard di 8, 10, 12, 15 o 19 mm. Queste dimensioni permettono vetrine panoramiche di 3-5 m di larghezza senza giunto verticale visibile, ideali per showroom e facciate retail.
+Una lastra temprata può arrivare a 3.500 × 8.000 mm, in spessori standard di 8, 10, 12, 15 o 19 mm. Queste dimensioni consentono vetrine panoramiche di 3–5 m di larghezza senza giunto verticale a vista, ideali per showroom e facciate commerciali.
 
-### Perché la tempera è importante per gli spazi pubblici?
+### Perché la tempra è importante negli spazi pubblici?
 
-Il vetro temperato, alla rottura, si frammenta in piccoli granuli senza bordi taglienti, a differenza del vetro float che produce schegge pericolose. Questo è essenziale per la sicurezza in showroom, negozi, ristoranti e qualsiasi spazio pubblico ad alto transito di persone.
+Rompendosi, il vetro temprato si frantuma in granuli piccoli senza spigoli taglienti, a differenza del float che produce schegge pericolose. È essenziale per la sicurezza in showroom, negozi, ristoranti e ogni spazio pubblico ad alta affluenza.
 
 ---
 
