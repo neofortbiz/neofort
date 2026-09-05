@@ -2474,232 +2474,684 @@ Aluminiu fără excepție. Rezistență structurală 3-4x superioară, permite c
 - [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026)
 
 Neofort BIZ furnizează atât sisteme Salamander (PVC) cât și Alumil (aluminiu) în București și Ilfov. [Solicită consultanță gratuită pentru proiectul tău](/ro/contact). Află mai multe despre [sistemele Alumil](/ro/tamplarie-aluminiu) pe care le oferim. Pentru context complet, citește [ghidul tâmplăriei din aluminiu cu barieră termică](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
-      en: `## What is an nZEB Home and Why Does Window Choice Matter
+      en: `## What an nZEB house is and why the joinery choice matters
 
-**nZEB (Nearly Zero Energy Building)** is the mandatory standard for all new constructions in Romania since 2021. Primary energy consumption ≤ 100 kWh/m²/year. Windows represent 15-25% of the envelope and account for 25-40% of total heat losses.
+**nZEB (Nearly Zero Energy Building)** has been the mandatory standard for all new builds in Romania since 2021, under Government Decision 765/2016. An nZEB house has to reach a primary energy consumption of ≤ 100 kWh/m²/year.
 
-## Real Differences: PVC vs Aluminium
+Windows and doors make up **15-25% of the envelope surface** and account for **25-40% of total heat losses**. Choosing the wrong material — PVC or aluminium — can undo the entire energy balance of the house, even if the walls and roof are insulated perfectly.
 
-**PVC (Salamander bluEvolution 92):** λ = 0.17 W/(mK) | Uf = 0.95 W/(m²K) | Uw with triple + Warm Edge: **0.72 W/(m²K)**
+Why does the PVC-versus-aluminium dilemma come up at all? Both materials have moved on considerably. Modern PVC is no longer "cheap plastic", and modern aluminium is no longer a "dangerous thermal conductor". The real difference lies in the use case.
 
-**Aluminium (Alumil S77 Supreme):** 34 mm polyamide thermal break | Uf = 1.3 W/(m²K) | Uw: **1.0-1.2 W/(m²K)**
+## Section 1 — The real differences between PVC and aluminium
 
-## Full Comparison Table
+### Thermal insulation
 
-| Feature | PVC Salamander bluEvolution 92 | Aluminium Alumil S77 Supreme |
+**PVC (Salamander bluEvolution 92):**
+- Profile thermal conductivity: λ = 0.17 W/(mK)
+- Profile Uf = 0.95 W/(m²K)
+- 6 chambers, 92 mm depth
+- Total Uw with Saint-Gobain triple glazing + Warm Edge: **0.72 W/(m²K)**
+
+**Aluminium (Alumil S77 Supreme):**
+- Pure profile conductivity: λ = 160 W/(mK) — brought down to about 0.3 W/(mK) by the 34 mm polyamide thermal break
+- Profile Uf = 1.3 W/(m²K)
+- Total Uw with triple glazing + Warm Edge: **1.0-1.2 W/(m²K)**
+
+**Verdict on insulation:** PVC wins clearly. A gap of 0.3-0.5 W/(m²K) in Uw means roughly 30% more heat lost through aluminium windows than through PVC ones at the same dimensions.
+
+### Structural strength and large glazed areas
+
+Aluminium wins outright here, with structural strength three to four times that of PVC at the same section. The practical consequences:
+
+- **Large windows** (over 1.5 m wide): aluminium allows visually slimmer profiles
+- **Large sliding units** (3-6 m): aluminium is the standard solution
+- **Curtain walls**: aluminium only
+- **Pivot windows**: aluminium only
+
+### Design and appearance
+
+Aluminium allows a much slimmer visible section — 30-45 mm against 60-80 mm for PVC — which means more glazed area, and any RAL colour including metallic or two-tone finishes. PVC offers the standard colour range and cannot be repainted after installation.
+
+### Service life and recyclability
+
+| Material | Guaranteed life | Thermal deformation | Maintenance |
+|---|---|---|---|
+| Salamander PVC | 40+ years | Minimal | Annual (gaskets) |
+| Alumil aluminium | 50+ years | None | Minimal |
+
+## Full comparison table: PVC vs aluminium for nZEB
+
+| Characteristic | PVC Salamander bluEvolution 92 | Aluminium Alumil S77 Supreme |
 |---|---|---|
-| Uw with triple glazing | **0.72 W/(m²K)** | 1.0-1.2 W/(m²K) |
-| Profile Uf | **0.95 W/(m²K)** | 1.3 W/(m²K) |
-| Acoustic Rw (dB) | 42-47 | 38-42 |
-| Visual profile width | 70-82 mm | **30-45 mm** |
+| Uw with triple glazing (W/m²K) | **0.72** | 1.0-1.2 |
+| Profile Uf (W/m²K) | **0.95** | 1.3 |
+| Acoustic insulation Rw (dB) | 42-47 | 38-42 |
+| Visible profile thickness | 70-82 mm | **30-45 mm** |
 | Large glazed areas | Limited | **Excellent** |
-| nZEB recommendation | **Ideal** | Acceptable |
-| Passive house | **Ideal** | Limited |
+| Structural strength | Good (with reinforcement) | **Superior** |
+| Service life | 40+ years | **50+ years** |
 | Relative cost | **Lower** | +20-35% |
+| Recommended for nZEB | **Ideal** | Acceptable |
+| Recommended for passive house | **Ideal** | Limited |
 
-## What Really Matters for nZEB Windows
+## Section 2 — What actually matters in nZEB windows
+
+The calculation formula for the thermal coefficient of a complete window:
 
 **Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-Priority order: 1) Triple glazing + argon (Ug=0.5) 2) Warm Edge spacer (Ψg=0.03) 3) Profile type 4) Low-E coating 5) Installation quality
+The critical elements, in order of impact:
+1. **Triple glazing with argon** — Ug = 0.5 against 1.0 for double glazing: the single largest factor
+2. **Warm Edge spacer** — Ψg = 0.03 W/(mK) against 0.1 for aluminium spacers
+3. **Profile type** — Uf differs between PVC (0.95) and aluminium (1.3)
+4. **Low-E coating** — reduces the solar factor g and the emissivity
+5. **Installation** — pre-compressed tapes and elimination of the thermal bridge account for 30-50% of the total performance
 
-## When PVC and When Aluminium
+## Section 3 — When PVC is worth it and when aluminium is
 
-- **Apartment renovation:** PVC bluEvolution 82/92 — Uw = 0.72, 20-30% cheaper than aluminium
-- **Premium villa:** Mix PVC (bedrooms) + Aluminium (large living area)
-- **Passive house PHI:** PVC bluEvolution 92 + Blaugelb preframes — only option under Uw 0.8
-- **Commercial, facades:** Aluminium Alumil S77/SF85
-- **Large sliding doors >3m:** Aluminium Alumil Smartia M19800
+**Apartment renovation:** Salamander PVC bluEvolution 82 or 92 — Uw = 0.72, saving 20-30% against aluminium
 
-## FAQ
+**Premium villa:** a mix — PVC for bedrooms and bathrooms, aluminium sliders for the living area
 
-### Which is more energy efficient?
-PVC — Uw = 0.72 vs 1.0-1.2 for aluminium.
+**Passive house (PHI):** Salamander PVC bluEvolution 92 with Blaugelb precasings — the only option below Uw 0.8 W/(m²K)
 
-### What Uw for nZEB?
-Romanian standards: Uw ≤ 1.0 W/(m²K) Zone II (Bucharest). Passive house: ≤ 0.8.
+**Commercial space, offices, facades:** Alumil aluminium (curtain wall system, S77, SF85)
 
-### Does modern aluminium still condense?
-No — with 34mm thermal break + Warm Edge + correct installation.
+**Large sliding units (over 3 m):** Alumil Smartia M19800 aluminium
 
-### Is triple glazing worth it?
-Always for nZEB — saves 50% heat loss vs double. Payback 5-8 years.
+## Section 4 — Common mistakes when choosing
 
-## Conclusion
+❌ **Choosing on chamber count alone** — a 5-chamber profile with triple glazing can outperform a 7-chamber one with double glazing
 
-| Scenario | Recommended | Reason |
+❌ **Ignoring the installation** — without pre-compressed tapes and without eliminating the thermal bridge at the sill, you lose 30-50% of the performance
+
+❌ **Triple glazing with a standard aluminium spacer** — without Warm Edge, Uw rises by 0.1-0.15 W/(m²K)
+
+❌ **Profiles without EN certification** — Salamander profiles carry IFT Rosenheim certification and a CE declaration to EN 14351-1
+
+❌ **Aluminium for passive houses** — standard aluminium (Uf = 1.3 W/m²K) cannot reach Uw ≤ 0.8 W/(m²K)
+
+## FAQ — PVC vs aluminium for nZEB
+
+### Which is more energy efficient: PVC or aluminium?
+PVC, through the Salamander bluEvolution 92 — Uw = 0.72 against 1.0-1.2 for aluminium. The difference comes from thermal conductivity: PVC λ = 0.17 W/(mK) against pure aluminium λ = 160 W/(mK).
+
+### Does modern aluminium still cause condensation?
+With a 34 mm thermal break, a Warm Edge spacer and correct installation, there is no condensation down to an outside temperature of −15 °C.
+
+### What Uw do you need for nZEB?
+Romanian regulations (Government Decision 765/2016): Uw ≤ 1.0 W/(m²K) for climate Zone II, which covers Bucharest and Ilfov. PHI passive houses: Uw ≤ 0.8 W/(m²K).
+
+### Is triple glazing worth it over double?
+Yes, always for nZEB. Ug = 0.5 against 1.0 halves the losses through the glass. The price difference of 15-25% pays for itself in 5-8 years.
+
+### Which profiles are recommended for passive houses?
+Salamander bluEvolution 92 with 52 mm Saint-Gobain SGG triple glazing, a Warm Edge spacer and Blaugelb Triotherm+ precasings. Uw = 0.66-0.72 W/(m²K).
+
+### Which lasts longer: PVC or aluminium?
+Aluminium — 50+ years against 40+ for PVC. Both outlast any untreated timber alternative.
+
+### What should I choose for large glazed areas?
+Aluminium, without exception. Its structural strength is three to four times higher and it allows sliding units up to 6 m wide.
+
+## Conclusion — a clear recommendation by scenario
+
+| Scenario | Recommended material | Main reason |
 |---|---|---|
-| Apartment renovation | PVC bluEvolution 82 | Best Uw, cost-efficient |
-| New standard home | PVC bluEvolution 92 | nZEB with safety margin |
-| Passive house PHI | PVC + Blaugelb | Only option under Uw 0.8 |
-| Villa with large living | Mix PVC + Aluminium | Right material in right place |
-| Offices, facades | Aluminium Alumil S77 | Structure + aesthetics |
+| Apartment renovation | PVC Salamander bluEvolution 82 | Optimal Uw, cost-effective |
+| Standard new house | PVC Salamander bluEvolution 92 | nZEB with a safety margin |
+| PHI passive house | PVC bluEvolution 92 + Blaugelb | The only option below Uw 0.8 |
+| Villa with a large living area | Mix of PVC and aluminium sliders | Each material where it belongs |
+| Offices, commercial | Aluminium Alumil S77 | Structure plus appearance |
+| Curtain walls | Aluminium curtain wall system | Aluminium only |
 
-The breakdown by profile and system is in the detailed price guide: [Salamander double glazing prices in Bucharest 2026 — complet](/en/blog/salamander-double-glazing-prices-bucharest).
+**The simple rule:** maximum insulation → PVC. Design or large glazed areas → aluminium. Anything else → a mix.
 
 ---
 
 Related: [Complete nZEB System](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing) | [nZEB Windows Guide Romania](/en/blog/windows-nzeb-house-romania-complete-guide-2026) | [Salamander Prices 2026](/en/blog/salamander-window-prices-bucharest-2026)
 
 Neofort BIZ supplies Salamander (PVC) and Alumil (aluminium) in Bucharest and Ilfov. [Request free consultation](/en/contact). Learn more about [our Alumil systems](/en/aluminium-windows) we offer. For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
-      de: `## Was ist ein nZEB-Haus und warum ist die Fensterwahl entscheidend?
+      de: `## Was ein nZEB-Haus ist und warum die Fensterwahl zählt
 
-**nZEB** ist seit 2021 Pflichtstandard in Rumänien. Primärenergieverbrauch ≤ 100 kWh/m²/Jahr. Fenster machen 15-25% der Gebäudehülle aus und sind für 25-40% der Wärmeverluste verantwortlich.
+**nZEB (Nearly Zero Energy Building)** ist seit 2021 der verbindliche Standard für alle Neubauten in Rumänien, gemäß Regierungsbeschluss 765/2016. Ein nZEB-Haus muss einen Primärenergiebedarf von ≤ 100 kWh/m²/Jahr erreichen.
 
-## Reale Unterschiede: PVC vs Aluminium
+Fenster und Türen machen **15-25 % der Hüllfläche** aus und verantworten **25-40 % der gesamten Wärmeverluste**. Die falsche Materialwahl — PVC oder Aluminium — kann die gesamte Energiebilanz des Hauses zunichtemachen, selbst wenn Wände und Dach perfekt gedämmt sind.
 
-**PVC (Salamander bluEvolution 92):** Uf = 0,95 W/(m²K) | Uw mit Dreifach + Warm Edge: **0,72 W/(m²K)**
+Warum stellt sich die Frage PVC gegen Aluminium überhaupt? Beide Werkstoffe haben sich stark weiterentwickelt. Modernes PVC ist kein „billiger Kunststoff" mehr, und modernes Aluminium ist kein „gefährlicher Wärmeleiter" mehr. Der eigentliche Unterschied liegt im Anwendungsfall.
 
-**Aluminium (Alumil S77 Supreme):** 34 mm Polyamid-Wärmedämmbrücke | Uf = 1,3 W/(m²K) | Uw: **1,0-1,2 W/(m²K)**
+## Abschnitt 1 — Die realen Unterschiede zwischen PVC und Aluminium
 
-## Vollständige Vergleichstabelle
+### Wärmedämmung
+
+**PVC (Salamander bluEvolution 92):**
+- Wärmeleitfähigkeit des Profils: λ = 0,17 W/(mK)
+- Profil-Uf = 0,95 W/(m²K)
+- 6 Kammern, 92 mm Bautiefe
+- Gesamt-Uw mit Saint-Gobain Dreifachverglasung + Warm Edge: **0,72 W/(m²K)**
+
+**Aluminium (Alumil S77 Supreme):**
+- Leitfähigkeit des reinen Profils: λ = 160 W/(mK) — durch die 34 mm Polyamid-Trennung auf etwa 0,3 W/(mK) gesenkt
+- Profil-Uf = 1,3 W/(m²K)
+- Gesamt-Uw mit Dreifachverglasung + Warm Edge: **1,0-1,2 W/(m²K)**
+
+**Fazit zur Dämmung:** PVC gewinnt deutlich. Ein Unterschied von 0,3-0,5 W/(m²K) im Uw bedeutet rund 30 % mehr Wärmeverlust durch Aluminiumfenster als durch PVC-Fenster bei gleichen Abmessungen.
+
+### Statik und große Glasflächen
+
+Hier gewinnt Aluminium klar, mit drei- bis vierfacher Tragfähigkeit gegenüber PVC bei gleichem Querschnitt. Die praktischen Folgen:
+
+- **Große Fenster** (über 1,5 m Breite): Aluminium erlaubt optisch schlankere Profile
+- **Große Schiebeelemente** (3-6 m): Aluminium ist die Standardlösung
+- **Vorhangfassaden**: ausschließlich Aluminium
+- **Drehflügelfenster**: ausschließlich Aluminium
+
+### Gestaltung und Optik
+
+Aluminium erlaubt eine deutlich schlankere sichtbare Ansicht — 30-45 mm gegenüber 60-80 mm bei PVC — also mehr Glasfläche, und jede RAL-Farbe einschließlich metallischer oder zweifarbiger Ausführungen. PVC bietet die Standardfarben und lässt sich nach dem Einbau nicht überstreichen.
+
+### Lebensdauer und Recyclingfähigkeit
+
+| Material | Garantierte Lebensdauer | Wärmeverformung | Wartung |
+|---|---|---|---|
+| Salamander PVC | 40+ Jahre | Minimal | Jährlich (Dichtungen) |
+| Alumil Aluminium | 50+ Jahre | Keine | Minimal |
+
+## Vollständige Vergleichstabelle PVC gegen Aluminium für nZEB
 
 | Merkmal | PVC Salamander bluEvolution 92 | Aluminium Alumil S77 Supreme |
 |---|---|---|
-| Uw mit Dreifachverglasung | **0,72 W/(m²K)** | 1,0-1,2 W/(m²K) |
-| Profil Uf | **0,95 W/(m²K)** | 1,3 W/(m²K) |
-| Schallschutz Rw | 42-47 dB | 38-42 dB |
+| Uw mit Dreifachglas (W/m²K) | **0,72** | 1,0-1,2 |
+| Profil-Uf (W/m²K) | **0,95** | 1,3 |
+| Schalldämmung Rw (dB) | 42-47 | 38-42 |
 | Sichtbare Profilbreite | 70-82 mm | **30-45 mm** |
-| Große Verglasungsflächen | Begrenzt | **Ausgezeichnet** |
-| nZEB-Empfehlung | **Ideal** | Akzeptabel |
-| Passivhaus | **Ideal** | Begrenzt |
+| Große Glasflächen | Begrenzt | **Ausgezeichnet** |
+| Tragfähigkeit | Gut (mit Verstärkung) | **Überlegen** |
+| Lebensdauer | 40+ Jahre | **50+ Jahre** |
+| Relative Kosten | **Geringer** | +20-35 % |
+| Für nZEB empfohlen | **Ideal** | Vertretbar |
+| Für Passivhaus empfohlen | **Ideal** | Eingeschränkt |
 
-## Wann PVC, wann Aluminium?
+## Abschnitt 2 — Worauf es bei nZEB-Fenstern wirklich ankommt
 
-- Wohnungsrenovierung: PVC bluEvolution 82/92
-- Passivhaus PHI: PVC bluEvolution 92 + Blaugelb-Vorblendrahmen
-- Gewerbe/Fassaden: Aluminium Alumil S77
-- Große Schiebetüren >3m: Aluminium Alumil Smartia M19800
+Die Berechnungsformel für den Wärmedurchgangskoeffizienten des kompletten Fensters:
 
-## FAQ
+**Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-### Welches ist effizienter?
-PVC — Uw = 0,72 vs 1,0-1,2 für Aluminium.
+Die entscheidenden Größen, nach Wirkung geordnet:
+1. **Dreifachverglasung mit Argon** — Ug = 0,5 gegenüber 1,0 bei Zweifachglas: der größte Einzelfaktor
+2. **Warm-Edge-Abstandhalter** — Ψg = 0,03 W/(mK) gegenüber 0,1 bei Aluminiumabstandhaltern
+3. **Profilart** — der Uf unterscheidet sich zwischen PVC (0,95) und Aluminium (1,3)
+4. **Low-E-Beschichtung** — senkt den g-Wert und die Emissivität
+5. **Montage** — vorkomprimierte Bänder und die Beseitigung der Wärmebrücke machen 30-50 % der Gesamtleistung aus
 
-### Welcher Uw für nZEB?
-≤ 1,0 W/(m²K) Zone II (Bukarest). Passivhaus: ≤ 0,8.
+## Abschnitt 3 — Wann sich PVC lohnt und wann Aluminium
 
-### Lohnt Dreifachverglasung?
-Immer für nZEB — 50% weniger Wärmeverlust. Amortisierung 5-8 Jahre.
+**Wohnungssanierung:** Salamander PVC bluEvolution 82 oder 92 — Uw = 0,72, 20-30 % günstiger als Aluminium
 
-Die Aufschlüsselung nach Profil und System finden Sie im detaillierten Preisführer: [Salamander Isolierglasfenster Preise in Bukarest 2026 — Komp](/de/blog/salamander-isolierglas-preise-bukarest).
+**Hochwertige Villa:** eine Mischung — PVC für Schlaf- und Badezimmer, Aluminium-Schiebeelemente für den Wohnbereich
+
+**Passivhaus (PHI):** Salamander PVC bluEvolution 92 mit Blaugelb-Vorblendrahmen — die einzige Option unter Uw 0,8 W/(m²K)
+
+**Gewerbeflächen, Büros, Fassaden:** Alumil Aluminium (Vorhangfassadensystem, S77, SF85)
+
+**Große Schiebeelemente (über 3 m):** Alumil Smartia M19800 Aluminium
+
+## Abschnitt 4 — Häufige Fehler bei der Wahl
+
+❌ **Auswahl allein nach Kammerzahl** — ein Fünfkammerprofil mit Dreifachglas kann besser sein als ein Siebenkammerprofil mit Zweifachglas
+
+❌ **Die Montage übergehen** — ohne vorkomprimierte Bänder und ohne Beseitigung der Wärmebrücke an der Fensterbank verlieren Sie 30-50 % der Leistung
+
+❌ **Dreifachglas mit Standard-Aluminiumabstandhalter** — ohne Warm Edge steigt der Uw um 0,1-0,15 W/(m²K)
+
+❌ **Profile ohne EN-Zertifizierung** — Salamander-Profile tragen die IFT-Rosenheim-Zertifizierung und eine CE-Erklärung nach EN 14351-1
+
+❌ **Aluminium für Passivhäuser** — Standardaluminium (Uf = 1,3 W/m²K) erreicht Uw ≤ 0,8 W/(m²K) nicht
+
+## FAQ — PVC gegen Aluminium für nZEB
+
+### Was ist energieeffizienter: PVC oder Aluminium?
+PVC, über das Salamander bluEvolution 92 — Uw = 0,72 gegenüber 1,0-1,2 bei Aluminium. Der Unterschied kommt aus der Wärmeleitfähigkeit: PVC λ = 0,17 W/(mK) gegenüber reinem Aluminium λ = 160 W/(mK).
+
+### Bildet modernes Aluminium noch Kondensat?
+Mit 34 mm thermischer Trennung, Warm-Edge-Abstandhalter und fachgerechter Montage entsteht bis −15 °C Außentemperatur kein Kondensat.
+
+### Welchen Uw braucht man für nZEB?
+Rumänische Vorschriften (Regierungsbeschluss 765/2016): Uw ≤ 1,0 W/(m²K) für Klimazone II, zu der Bukarest und Ilfov gehören. PHI-Passivhäuser: Uw ≤ 0,8 W/(m²K).
+
+### Lohnt sich Dreifach- gegenüber Zweifachverglasung?
+Ja, für nZEB immer. Ug = 0,5 gegenüber 1,0 halbiert die Verluste durch das Glas. Der Preisunterschied von 15-25 % amortisiert sich in 5-8 Jahren.
+
+### Welche Profile werden für Passivhäuser empfohlen?
+Salamander bluEvolution 92 mit 52 mm Saint-Gobain SGG Dreifachglas, Warm-Edge-Abstandhalter und Blaugelb Triotherm+ Vorblendrahmen. Uw = 0,66-0,72 W/(m²K).
+
+### Was hält länger: PVC oder Aluminium?
+Aluminium — 50+ Jahre gegenüber 40+ bei PVC. Beide übertreffen jede Alternative aus unbehandeltem Holz.
+
+### Was wähle ich für große Glasflächen?
+Aluminium, ausnahmslos. Die Tragfähigkeit ist drei- bis viermal höher und erlaubt Schiebeelemente bis 6 m Breite.
+
+## Fazit — klare Empfehlung nach Szenario
+
+| Szenario | Empfohlenes Material | Hauptgrund |
+|---|---|---|
+| Wohnungssanierung | PVC Salamander bluEvolution 82 | Optimaler Uw, wirtschaftlich |
+| Standard-Neubau | PVC Salamander bluEvolution 92 | nZEB mit Sicherheitsreserve |
+| PHI-Passivhaus | PVC bluEvolution 92 + Blaugelb | Einzige Option unter Uw 0,8 |
+| Villa mit großem Wohnbereich | Mischung aus PVC und Aluminium-Schiebeelementen | Jedes Material an seinem Platz |
+| Büro, Gewerbe | Aluminium Alumil S77 | Statik und Optik |
+| Vorhangfassaden | Aluminium-Fassadensystem | Ausschließlich Aluminium |
+
+**Die einfache Regel:** maximale Dämmung → PVC. Gestaltung oder große Glasflächen → Aluminium. Alles andere → Mischung.
 
 ---
 
 Neofort BIZ liefert Salamander (PVC) und Alumil (Aluminium) in Bukarest und Ilfov. [Kostenloses Beratungsgespräch](/de/kontakt). Erfahren Sie mehr über [unsere Alumil-Systeme](/de/aluminiumfenster), die wir anbieten. Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
-      fr: `## PVC ou Aluminium pour une maison nZEB en 2026 ?
+      fr: `## Ce qu’est une maison nZEB et pourquoi le choix des menuiseries compte
 
-**nZEB** est la norme obligatoire en Roumanie depuis 2021. Consommation d'énergie primaire ≤ 100 kWh/m²/an. Les fenêtres représentent 25-40% des pertes thermiques.
+**nZEB (Nearly Zero Energy Building)** est la norme obligatoire pour toutes les constructions neuves en Roumanie depuis 2021, selon la décision gouvernementale 765/2016. Une maison nZEB doit atteindre une consommation d’énergie primaire ≤ 100 kWh/m²/an.
 
-## Tableau comparatif complet
+Les fenêtres et les portes représentent **15 à 25 % de la surface de l’enveloppe** et sont responsables de **25 à 40 % des déperditions thermiques totales**. Un mauvais choix de matériau — PVC ou aluminium — peut ruiner tout le bilan énergétique de la maison, même si les murs et la toiture sont parfaitement isolés.
+
+Pourquoi ce dilemme entre PVC et aluminium ? Les deux matériaux ont énormément évolué. Le PVC moderne n’est plus du « plastique bon marché » et l’aluminium moderne n’est plus un « conducteur thermique dangereux ». La vraie différence tient à l’usage.
+
+## Section 1 — Les différences réelles entre PVC et aluminium
+
+### Isolation thermique
+
+**PVC (Salamander bluEvolution 92) :**
+- Conductivité thermique du profilé : λ = 0,17 W/(mK)
+- Uf du profilé = 0,95 W/(m²K)
+- 6 chambres, 92 mm de profondeur
+- Uw total avec triple vitrage Saint-Gobain + Warm Edge : **0,72 W/(m²K)**
+
+**Aluminium (Alumil S77 Supreme) :**
+- Conductivité du profilé pur : λ = 160 W/(mK) — ramenée à environ 0,3 W/(mK) par la rupture de pont thermique en polyamide de 34 mm
+- Uf du profilé = 1,3 W/(m²K)
+- Uw total avec triple vitrage + Warm Edge : **1,0-1,2 W/(m²K)**
+
+**Conclusion sur l’isolation :** le PVC l’emporte nettement. Un écart de 0,3 à 0,5 W/(m²K) sur le Uw représente environ 30 % de chaleur perdue en plus par des fenêtres en aluminium à dimensions égales.
+
+### Résistance structurelle et grandes surfaces vitrées
+
+L’aluminium l’emporte sans conteste, avec une résistance structurelle trois à quatre fois supérieure au PVC à section égale. Les conséquences pratiques :
+
+- **Grandes fenêtres** (plus de 1,5 m de large) : l’aluminium autorise des profilés visuellement plus fins
+- **Grands coulissants** (3 à 6 m) : l’aluminium est la solution standard
+- **Murs-rideaux** : aluminium exclusivement
+- **Fenêtres pivotantes** : aluminium exclusivement
+
+### Design et aspect visuel
+
+L’aluminium permet une section visible bien plus fine — 30 à 45 mm contre 60 à 80 mm pour le PVC — donc davantage de surface vitrée, et toute teinte RAL, y compris les finitions métallisées ou bicolores. Le PVC propose les coloris standard et ne peut pas être repeint après la pose.
+
+### Durée de vie et recyclabilité
+
+| Matériau | Durée garantie | Déformation thermique | Entretien |
+|---|---|---|---|
+| PVC Salamander | 40+ ans | Minime | Annuel (joints) |
+| Aluminium Alumil | 50+ ans | Nulle | Minime |
+
+## Tableau comparatif complet PVC contre aluminium nZEB
 
 | Caractéristique | PVC Salamander bluEvolution 92 | Aluminium Alumil S77 Supreme |
 |---|---|---|
-| Uw avec triple vitrage | **0,72 W/(m²K)** | 1,0-1,2 W/(m²K) |
-| Uf profilé | **0,95 W/(m²K)** | 1,3 W/(m²K) |
-| Isolation acoustique Rw | 42-47 dB | 38-42 dB |
-| Largeur profil visible | 70-82 mm | **30-45 mm** |
+| Uw avec triple vitrage (W/m²K) | **0,72** | 1,0-1,2 |
+| Uf du profilé (W/m²K) | **0,95** | 1,3 |
+| Isolation acoustique Rw (dB) | 42-47 | 38-42 |
+| Épaisseur visible du profilé | 70-82 mm | **30-45 mm** |
 | Grandes surfaces vitrées | Limité | **Excellent** |
-| nZEB | **Idéal** | Acceptable |
-| Maison passive | **Idéal** | Limité |
+| Résistance structurelle | Bonne (avec renfort) | **Supérieure** |
+| Durée de vie | 40+ ans | **50+ ans** |
+| Coût relatif | **Inférieur** | +20-35 % |
+| Recommandé nZEB | **Idéal** | Acceptable |
+| Recommandé maison passive | **Idéal** | Limité |
 
-## Quand le PVC, quand l'aluminium ?
+## Section 2 — Ce qui compte vraiment pour des fenêtres nZEB
 
-- Rénovation appartement : PVC bluEvolution 82/92
-- Maison passive PHI : PVC bluEvolution 92 + précadres Blaugelb
-- Commercial/façades : Aluminium Alumil S77
-- Grandes baies >3m : Aluminium Alumil Smartia M19800
+La formule de calcul du coefficient thermique de la fenêtre complète :
 
-## FAQ
+**Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-### Lequel est plus efficace ?
-PVC — Uw = 0,72 vs 1,0-1,2 pour aluminium.
+Les éléments critiques, par ordre d’impact :
+1. **Triple vitrage à l’argon** — Ug = 0,5 contre 1,0 pour du double : le facteur le plus important
+2. **Intercalaire Warm Edge** — Ψg = 0,03 W/(mK) contre 0,1 pour un intercalaire aluminium
+3. **Type de profilé** — le Uf diffère entre PVC (0,95) et aluminium (1,3)
+4. **Couche Low-E** — réduit le facteur solaire g et l’émissivité
+5. **La pose** — bandes précomprimées et suppression du pont thermique : 30 à 50 % de la performance totale
 
-### Quel Uw pour nZEB ?
-≤ 1,0 W/(m²K) zone II (Bucarest). Maison passive : ≤ 0,8.
+## Section 3 — Quand le PVC vaut le coup et quand l’aluminium
 
-### Le triple vitrage vaut-il la peine ?
-Toujours pour nZEB — 50% moins de pertes. Rentabilisé en 5-8 ans.
+**Rénovation d’appartement :** PVC Salamander bluEvolution 82 ou 92 — Uw = 0,72, économie de 20 à 30 % par rapport à l’aluminium
 
-Le détail par profilé et par système figure dans le guide de prix complet: [Prix double vitrage Salamander à Bucarest 2026 — guide compl](/fr/blog/prix-double-vitrage-salamander-bucarest).
+**Villa haut de gamme :** un mixte — PVC pour les chambres et les salles de bains, coulissants aluminium pour le séjour
+
+**Maison passive (PHI) :** PVC Salamander bluEvolution 92 avec précadres Blaugelb — la seule option sous Uw 0,8 W/(m²K)
+
+**Locaux commerciaux, bureaux, façades :** aluminium Alumil (système mur-rideau, S77, SF85)
+
+**Grands coulissants (plus de 3 m) :** aluminium Alumil Smartia M19800
+
+## Section 4 — Erreurs fréquentes dans le choix
+
+❌ **Choisir sur le seul nombre de chambres** — un profilé 5 chambres avec triple vitrage peut surpasser un 7 chambres en double vitrage
+
+❌ **Négliger la pose** — sans bandes précomprimées et sans suppression du pont thermique à l’appui, vous perdez 30 à 50 % de la performance
+
+❌ **Triple vitrage avec intercalaire aluminium standard** — sans Warm Edge, le Uw augmente de 0,1 à 0,15 W/(m²K)
+
+❌ **Profilés sans certification EN** — les profilés Salamander disposent de la certification IFT Rosenheim et d’une déclaration CE selon EN 14351-1
+
+❌ **Aluminium pour maison passive** — l’aluminium standard (Uf = 1,3 W/m²K) n’atteint pas Uw ≤ 0,8 W/(m²K)
+
+## FAQ — PVC contre aluminium nZEB
+
+### Lequel est le plus performant sur le plan énergétique : PVC ou aluminium ?
+Le PVC, via le Salamander bluEvolution 92 — Uw = 0,72 contre 1,0-1,2 pour l’aluminium. L’écart vient de la conductivité thermique : PVC λ = 0,17 W/(mK) contre aluminium pur λ = 160 W/(mK).
+
+### L’aluminium moderne provoque-t-il encore de la condensation ?
+Avec une rupture thermique de 34 mm, un intercalaire Warm Edge et une pose correcte, il n’y a pas de condensation jusqu’à −15 °C à l’extérieur.
+
+### Quel Uw faut-il pour le nZEB ?
+Réglementation roumaine (décision 765/2016) : Uw ≤ 1,0 W/(m²K) pour la zone climatique II, qui couvre Bucarest et l’Ilfov. Maisons passives PHI : Uw ≤ 0,8 W/(m²K).
+
+### Le triple vitrage vaut-il la peine face au double ?
+Oui, toujours en nZEB. Ug = 0,5 contre 1,0 réduit de moitié les déperditions par le vitrage. L’écart de prix de 15 à 25 % s’amortit en 5 à 8 ans.
+
+### Quels profilés recommande-t-on pour les maisons passives ?
+Salamander bluEvolution 92 avec triple vitrage Saint-Gobain SGG de 52 mm, intercalaire Warm Edge et précadres Blaugelb Triotherm+. Uw = 0,66-0,72 W/(m²K).
+
+### Lequel dure le plus longtemps : PVC ou aluminium ?
+L’aluminium — plus de 50 ans contre plus de 40 pour le PVC. Les deux dépassent toute alternative en bois non traité.
+
+### Que choisir pour de grandes surfaces vitrées ?
+L’aluminium, sans exception. Sa résistance structurelle est trois à quatre fois supérieure et permet des coulissants jusqu’à 6 m de large.
+
+## Conclusion — recommandation claire par scénario
+
+| Scénario | Matériau recommandé | Raison principale |
+|---|---|---|
+| Rénovation d’appartement | PVC Salamander bluEvolution 82 | Uw optimal, économique |
+| Maison neuve standard | PVC Salamander bluEvolution 92 | nZEB avec marge de sécurité |
+| Maison passive PHI | PVC bluEvolution 92 + Blaugelb | Seule option sous Uw 0,8 |
+| Villa avec grand séjour | Mixte PVC et coulissants aluminium | Chaque matériau à sa place |
+| Bureaux, commerce | Aluminium Alumil S77 | Structure et esthétique |
+| Murs-rideaux | Système mur-rideau aluminium | Aluminium exclusivement |
+
+**La règle simple :** isolation maximale → PVC. Design ou grandes surfaces vitrées → aluminium. Le reste → un mixte.
 
 ---
 
 Neofort BIZ fournit Salamander (PVC) et Alumil (aluminium) à Bucarest et Ilfov. [Consultation gratuite](/fr/contact). En savoir plus sur [nos systèmes Alumil](/fr/menuiserie-aluminium) que nous proposons. Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
-      es: `## ¿PVC o Aluminio para casas nZEB en 2026?
+      es: `## Qué es una casa nZEB y por qué importa la elección de la carpintería
 
-**nZEB** es la norma obligatoria en Rumanía desde 2021. Consumo de energía primaria ≤ 100 kWh/m²/año. Las ventanas representan el 25-40% de las pérdidas térmicas.
+**nZEB (Nearly Zero Energy Building)** es el estándar obligatorio para toda obra nueva en Rumanía desde 2021, según el Decreto 765/2016. Una casa nZEB debe alcanzar un consumo de energía primaria ≤ 100 kWh/m²/año.
 
-## Tabla comparativa completa
+Las ventanas y las puertas suponen el **15-25 % de la superficie de la envolvente** y son responsables del **25-40 % de las pérdidas térmicas totales**. Elegir mal el material — PVC o aluminio — puede echar por tierra todo el balance energético de la vivienda, aunque muros y cubierta estén perfectamente aislados.
+
+¿Por qué surge la disyuntiva PVC frente a aluminio? Ambos materiales han evolucionado mucho. El PVC moderno ya no es «plástico barato» y el aluminio moderno ya no es un «conductor térmico peligroso». La diferencia real está en el caso de uso.
+
+## Sección 1 — Las diferencias reales entre PVC y aluminio
+
+### Aislamiento térmico
+
+**PVC (Salamander bluEvolution 92):**
+- Conductividad térmica del perfil: λ = 0,17 W/(mK)
+- Uf del perfil = 0,95 W/(m²K)
+- 6 cámaras, 92 mm de profundidad
+- Uw total con triple vidrio Saint-Gobain + Warm Edge: **0,72 W/(m²K)**
+
+**Aluminio (Alumil S77 Supreme):**
+- Conductividad del perfil puro: λ = 160 W/(mK) — reducida a unos 0,3 W/(mK) por la rotura de puente térmico de poliamida de 34 mm
+- Uf del perfil = 1,3 W/(m²K)
+- Uw total con triple vidrio + Warm Edge: **1,0-1,2 W/(m²K)**
+
+**Conclusión sobre el aislamiento:** gana el PVC con claridad. Una diferencia de 0,3-0,5 W/(m²K) en el Uw significa aproximadamente un 30 % más de calor perdido por ventanas de aluminio que por las de PVC a igualdad de dimensiones.
+
+### Resistencia estructural y grandes superficies acristaladas
+
+Aquí gana el aluminio con holgura, con una resistencia estructural tres o cuatro veces superior al PVC a igual sección. Las consecuencias prácticas:
+
+- **Ventanas grandes** (más de 1,5 m de ancho): el aluminio permite perfiles visualmente más estrechos
+- **Correderas de gran formato** (3-6 m): el aluminio es la solución estándar
+- **Muros cortina**: aluminio exclusivamente
+- **Ventanas pivotantes**: aluminio exclusivamente
+
+### Diseño y aspecto visual
+
+El aluminio permite una sección vista mucho más estrecha — 30-45 mm frente a 60-80 mm del PVC — es decir, más superficie de vidrio, y cualquier color RAL, incluidos acabados metalizados o bicolor. El PVC ofrece la gama estándar y no puede repintarse una vez instalado.
+
+### Vida útil y reciclabilidad
+
+| Material | Vida garantizada | Deformación térmica | Mantenimiento |
+|---|---|---|---|
+| PVC Salamander | 40+ años | Mínima | Anual (juntas) |
+| Aluminio Alumil | 50+ años | Nula | Mínimo |
+
+## Tabla comparativa completa PVC frente a aluminio nZEB
 
 | Característica | PVC Salamander bluEvolution 92 | Aluminio Alumil S77 Supreme |
 |---|---|---|
-| Uw con triple acristalamiento | **0,72 W/(m²K)** | 1,0-1,2 W/(m²K) |
-| Uf perfil | **0,95 W/(m²K)** | 1,3 W/(m²K) |
-| Aislamiento acústico Rw | 42-47 dB | 38-42 dB |
-| Ancho perfil visible | 70-82 mm | **30-45 mm** |
+| Uw con triple vidrio (W/m²K) | **0,72** | 1,0-1,2 |
+| Uf del perfil (W/m²K) | **0,95** | 1,3 |
+| Aislamiento acústico Rw (dB) | 42-47 | 38-42 |
+| Espesor visible del perfil | 70-82 mm | **30-45 mm** |
 | Grandes superficies acristaladas | Limitado | **Excelente** |
-| nZEB | **Ideal** | Aceptable |
-| Casa pasiva | **Ideal** | Limitado |
+| Resistencia estructural | Buena (con refuerzo) | **Superior** |
+| Vida útil | 40+ años | **50+ años** |
+| Coste relativo | **Menor** | +20-35 % |
+| Recomendado nZEB | **Ideal** | Aceptable |
+| Recomendado casa pasiva | **Ideal** | Limitado |
 
-## ¿Cuándo PVC y cuándo aluminio?
+## Sección 2 — Qué importa de verdad en las ventanas nZEB
 
-- Renovación apartamento: PVC bluEvolution 82/92
-- Casa pasiva PHI: PVC bluEvolution 92 + premarcos Blaugelb
-- Comercial/fachadas: Aluminio Alumil S77
-- Grandes correderas >3m: Aluminio Alumil Smartia M19800
+La fórmula de cálculo del coeficiente térmico de la ventana completa:
 
-## FAQ
+**Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-### ¿Cuál es más eficiente?
-PVC — Uw = 0,72 vs 1,0-1,2 para aluminio.
+Los elementos críticos, por orden de impacto:
+1. **Triple vidrio con argón** — Ug = 0,5 frente a 1,0 del doble: el factor de mayor peso
+2. **Separador Warm Edge** — Ψg = 0,03 W/(mK) frente a 0,1 del separador de aluminio
+3. **Tipo de perfil** — el Uf difiere entre PVC (0,95) y aluminio (1,3)
+4. **Capa Low-E** — reduce el factor solar g y la emisividad
+5. **La instalación** — cintas precomprimidas y eliminación del puente térmico: 30-50 % del rendimiento total
 
-### ¿Qué Uw para nZEB?
-≤ 1,0 W/(m²K) zona II (Bucarest). Casa pasiva: ≤ 0,8.
+## Sección 3 — Cuándo compensa el PVC y cuándo el aluminio
 
-### ¿Vale el triple acristalamiento?
-Siempre para nZEB — 50% menos pérdidas. Amortizado en 5-8 años.
+**Reforma de piso:** PVC Salamander bluEvolution 82 o 92 — Uw = 0,72, un 20-30 % más económico que el aluminio
 
-El desglose por perfil y sistema está en la guía detallada de precios: [Precios ventanas Salamander en Bucarest 2026 — guía completa](/es/blog/precios-doble-acristalamiento-salamander-bucarest).
+**Chalet premium:** una combinación — PVC para dormitorios y baños, correderas de aluminio para el salón
+
+**Casa pasiva (PHI):** PVC Salamander bluEvolution 92 con premarcos Blaugelb — la única opción por debajo de Uw 0,8 W/(m²K)
+
+**Locales comerciales, oficinas, fachadas:** aluminio Alumil (sistema de muro cortina, S77, SF85)
+
+**Correderas grandes (más de 3 m):** aluminio Alumil Smartia M19800
+
+## Sección 4 — Errores frecuentes al elegir
+
+❌ **Elegir solo por el número de cámaras** — un perfil de 5 cámaras con triple vidrio puede superar a uno de 7 cámaras con doble vidrio
+
+❌ **Descuidar la instalación** — sin cintas precomprimidas y sin eliminar el puente térmico del alféizar se pierde el 30-50 % del rendimiento
+
+❌ **Triple vidrio con separador de aluminio estándar** — sin Warm Edge, el Uw sube 0,1-0,15 W/(m²K)
+
+❌ **Perfiles sin certificación EN** — los perfiles Salamander cuentan con certificación IFT Rosenheim y declaración CE según EN 14351-1
+
+❌ **Aluminio para casas pasivas** — el aluminio estándar (Uf = 1,3 W/m²K) no alcanza Uw ≤ 0,8 W/(m²K)
+
+## FAQ — PVC frente a aluminio nZEB
+
+### ¿Cuál es más eficiente energéticamente: PVC o aluminio?
+El PVC, mediante el Salamander bluEvolution 92 — Uw = 0,72 frente a 1,0-1,2 del aluminio. La diferencia viene de la conductividad térmica: PVC λ = 0,17 W/(mK) frente a aluminio puro λ = 160 W/(mK).
+
+### ¿El aluminio moderno sigue provocando condensación?
+Con rotura de puente térmico de 34 mm, separador Warm Edge e instalación correcta no aparece condensación hasta −15 °C en el exterior.
+
+### ¿Qué Uw se necesita para nZEB?
+Normativa rumana (Decreto 765/2016): Uw ≤ 1,0 W/(m²K) para la zona climática II, que incluye Bucarest e Ilfov. Casas pasivas PHI: Uw ≤ 0,8 W/(m²K).
+
+### ¿Merece la pena el triple frente al doble vidrio?
+Sí, siempre en nZEB. Ug = 0,5 frente a 1,0 reduce a la mitad las pérdidas por el vidrio. La diferencia de precio del 15-25 % se amortiza en 5-8 años.
+
+### ¿Qué perfiles se recomiendan para casas pasivas?
+Salamander bluEvolution 92 con triple vidrio Saint-Gobain SGG de 52 mm, separador Warm Edge y premarcos Blaugelb Triotherm+. Uw = 0,66-0,72 W/(m²K).
+
+### ¿Cuál dura más: PVC o aluminio?
+El aluminio — más de 50 años frente a más de 40 del PVC. Ambos superan a cualquier alternativa de madera sin tratar.
+
+### ¿Qué elijo para grandes superficies acristaladas?
+Aluminio, sin excepción. Su resistencia estructural es tres o cuatro veces mayor y permite correderas de hasta 6 m de ancho.
+
+## Conclusión — recomendación clara por escenario
+
+| Escenario | Material recomendado | Motivo principal |
+|---|---|---|
+| Reforma de piso | PVC Salamander bluEvolution 82 | Uw óptimo, coste ajustado |
+| Casa nueva estándar | PVC Salamander bluEvolution 92 | nZEB con margen de seguridad |
+| Casa pasiva PHI | PVC bluEvolution 92 + Blaugelb | Única opción por debajo de Uw 0,8 |
+| Chalet con salón amplio | Combinación de PVC y correderas de aluminio | Cada material en su sitio |
+| Oficinas, comercial | Aluminio Alumil S77 | Estructura y estética |
+| Muros cortina | Sistema de muro cortina de aluminio | Aluminio exclusivamente |
+
+**La regla simple:** aislamiento máximo → PVC. Diseño o grandes superficies acristaladas → aluminio. Lo demás → combinación.
 
 ---
 
 Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov. [Consulta gratuita](/es/contacto). Más información sobre [nuestros sistemas Alumil](/es/carpinteria-aluminio) que ofrecemos. Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
-      it: `## PVC o Alluminio per case nZEB nel 2026?
+      it: `## Che cos’è una casa nZEB e perché conta la scelta dei serramenti
 
-**nZEB** è lo standard obbligatorio in Romania dal 2021. Consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre rappresentano il 25-40% delle dispersioni termiche.
+**nZEB (Nearly Zero Energy Building)** è lo standard obbligatorio per tutte le nuove costruzioni in Romania dal 2021, in base al Decreto 765/2016. Una casa nZEB deve raggiungere un consumo di energia primaria ≤ 100 kWh/m²/anno.
 
-## Tabella comparativa completa
+Finestre e porte rappresentano il **15-25 % della superficie dell’involucro** e sono responsabili del **25-40 % delle dispersioni termiche totali**. Sbagliare la scelta del materiale — PVC o alluminio — può compromettere l’intero bilancio energetico della casa, anche con pareti e tetto isolati alla perfezione.
+
+Perché nasce il dilemma PVC contro alluminio? Entrambi i materiali sono molto cambiati. Il PVC moderno non è più «plastica economica» e l’alluminio moderno non è più un «conduttore termico pericoloso». La differenza reale sta nel caso d’uso.
+
+## Sezione 1 — Le differenze reali tra PVC e alluminio
+
+### Isolamento termico
+
+**PVC (Salamander bluEvolution 92):**
+- Conduttività termica del profilo: λ = 0,17 W/(mK)
+- Uf del profilo = 0,95 W/(m²K)
+- 6 camere, 92 mm di profondità
+- Uw totale con triplo vetro Saint-Gobain + Warm Edge: **0,72 W/(m²K)**
+
+**Alluminio (Alumil S77 Supreme):**
+- Conduttività del profilo puro: λ = 160 W/(mK) — ridotta a circa 0,3 W/(mK) dal taglio termico in poliammide da 34 mm
+- Uf del profilo = 1,3 W/(m²K)
+- Uw totale con triplo vetro + Warm Edge: **1,0-1,2 W/(m²K)**
+
+**Conclusione sull’isolamento:** vince nettamente il PVC. Uno scarto di 0,3-0,5 W/(m²K) sull’Uw significa circa il 30 % di calore in più disperso dalle finestre in alluminio rispetto a quelle in PVC a parità di dimensioni.
+
+### Resistenza strutturale e grandi superfici vetrate
+
+Qui vince l’alluminio senza discussione, con una resistenza strutturale tre o quattro volte superiore al PVC a parità di sezione. Le conseguenze pratiche:
+
+- **Finestre grandi** (oltre 1,5 m di larghezza): l’alluminio consente profili visivamente più sottili
+- **Scorrevoli di grandi dimensioni** (3-6 m): l’alluminio è la soluzione standard
+- **Pareti continue**: esclusivamente alluminio
+- **Finestre a bilico**: esclusivamente alluminio
+
+### Design e aspetto
+
+L’alluminio permette una sezione a vista molto più sottile — 30-45 mm contro 60-80 mm del PVC — quindi più superficie vetrata, e qualsiasi colore RAL, comprese finiture metallizzate o bicolori. Il PVC offre la gamma standard e non può essere riverniciato dopo la posa.
+
+### Durata e riciclabilità
+
+| Materiale | Durata garantita | Deformazione termica | Manutenzione |
+|---|---|---|---|
+| PVC Salamander | 40+ anni | Minima | Annuale (guarnizioni) |
+| Alluminio Alumil | 50+ anni | Nulla | Minima |
+
+## Tabella comparativa completa PVC contro alluminio nZEB
 
 | Caratteristica | PVC Salamander bluEvolution 92 | Alluminio Alumil S77 Supreme |
 |---|---|---|
-| Uw con triplo vetro | **0,72 W/(m²K)** | 1,0-1,2 W/(m²K) |
-| Uf profilo | **0,95 W/(m²K)** | 1,3 W/(m²K) |
-| Isolamento acustico Rw | 42-47 dB | 38-42 dB |
-| Larghezza profilo visibile | 70-82 mm | **30-45 mm** |
+| Uw con triplo vetro (W/m²K) | **0,72** | 1,0-1,2 |
+| Uf del profilo (W/m²K) | **0,95** | 1,3 |
+| Isolamento acustico Rw (dB) | 42-47 | 38-42 |
+| Spessore visibile del profilo | 70-82 mm | **30-45 mm** |
 | Grandi superfici vetrate | Limitato | **Eccellente** |
-| nZEB | **Ideale** | Accettabile |
-| Casa passiva | **Ideale** | Limitato |
+| Resistenza strutturale | Buona (con rinforzo) | **Superiore** |
+| Durata | 40+ anni | **50+ anni** |
+| Costo relativo | **Inferiore** | +20-35 % |
+| Consigliato nZEB | **Ideale** | Accettabile |
+| Consigliato casa passiva | **Ideale** | Limitato |
 
-## Quando PVC e quando alluminio?
+## Sezione 2 — Che cosa conta davvero nelle finestre nZEB
 
-- Ristrutturazione appartamento: PVC bluEvolution 82/92
-- Casa passiva PHI: PVC bluEvolution 92 + controtelai Blaugelb
-- Commerciale/facciate: Alluminio Alumil S77
-- Grandi scorrevoli >3m: Alluminio Alumil Smartia M19800
+La formula di calcolo del coefficiente termico della finestra completa:
 
-## FAQ
+**Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-### Quale è più efficiente?
-PVC — Uw = 0,72 vs 1,0-1,2 per alluminio.
+Gli elementi critici, in ordine di impatto:
+1. **Triplo vetro con argon** — Ug = 0,5 contro 1,0 del doppio: il fattore di maggior peso
+2. **Distanziale Warm Edge** — Ψg = 0,03 W/(mK) contro 0,1 del distanziale in alluminio
+3. **Tipo di profilo** — l’Uf differisce tra PVC (0,95) e alluminio (1,3)
+4. **Strato Low-E** — riduce il fattore solare g e l’emissività
+5. **La posa** — nastri precompressi ed eliminazione del ponte termico: 30-50 % della prestazione complessiva
 
-### Quale Uw per nZEB?
-≤ 1,0 W/(m²K) zona II (Bucarest). Casa passiva: ≤ 0,8.
+## Sezione 3 — Quando conviene il PVC e quando l’alluminio
 
-### Vale il triplo vetro?
-Sempre per nZEB — 50% meno dispersioni. Ammortizzato in 5-8 anni.
+**Ristrutturazione di appartamento:** PVC Salamander bluEvolution 82 o 92 — Uw = 0,72, con un risparmio del 20-30 % rispetto all’alluminio
 
-La ripartizione per profilo e sistema si trova nella guida dettagliata ai prezzi: [Prezzi finestre Salamander a Bucarest 2026 — guida completa ](/it/blog/prezzi-doppio-vetro-salamander-bucarest).
+**Villa di pregio:** una combinazione — PVC per camere e bagni, scorrevoli in alluminio per il soggiorno
+
+**Casa passiva (PHI):** PVC Salamander bluEvolution 92 con controtelai Blaugelb — l’unica opzione sotto Uw 0,8 W/(m²K)
+
+**Spazi commerciali, uffici, facciate:** alluminio Alumil (sistema a parete continua, S77, SF85)
+
+**Scorrevoli grandi (oltre 3 m):** alluminio Alumil Smartia M19800
+
+## Sezione 4 — Errori frequenti nella scelta
+
+❌ **Scegliere solo in base al numero di camere** — un profilo a 5 camere con triplo vetro può battere uno a 7 camere con doppio vetro
+
+❌ **Trascurare la posa** — senza nastri precompressi e senza eliminare il ponte termico sul davanzale si perde il 30-50 % della prestazione
+
+❌ **Triplo vetro con distanziale in alluminio standard** — senza Warm Edge l’Uw sale di 0,1-0,15 W/(m²K)
+
+❌ **Profili senza certificazione EN** — i profili Salamander hanno la certificazione IFT Rosenheim e la dichiarazione CE secondo EN 14351-1
+
+❌ **Alluminio per case passive** — l’alluminio standard (Uf = 1,3 W/m²K) non raggiunge Uw ≤ 0,8 W/(m²K)
+
+## FAQ — PVC contro alluminio nZEB
+
+### Quale è più efficiente dal punto di vista energetico: PVC o alluminio?
+Il PVC, tramite il Salamander bluEvolution 92 — Uw = 0,72 contro 1,0-1,2 dell’alluminio. La differenza nasce dalla conduttività termica: PVC λ = 0,17 W/(mK) contro alluminio puro λ = 160 W/(mK).
+
+### L’alluminio moderno forma ancora condensa?
+Con taglio termico da 34 mm, distanziale Warm Edge e posa corretta non si forma condensa fino a −15 °C esterni.
+
+### Quale Uw serve per lo nZEB?
+Normativa rumena (Decreto 765/2016): Uw ≤ 1,0 W/(m²K) per la zona climatica II, che comprende Bucarest e l’Ilfov. Case passive PHI: Uw ≤ 0,8 W/(m²K).
+
+### Conviene il triplo vetro rispetto al doppio?
+Sì, sempre per lo nZEB. Ug = 0,5 contro 1,0 dimezza le dispersioni attraverso il vetro. La differenza di prezzo del 15-25 % si ammortizza in 5-8 anni.
+
+### Quali profili sono consigliati per le case passive?
+Salamander bluEvolution 92 con triplo vetro Saint-Gobain SGG da 52 mm, distanziale Warm Edge e controtelai Blaugelb Triotherm+. Uw = 0,66-0,72 W/(m²K).
+
+### Quale dura di più: PVC o alluminio?
+L’alluminio — oltre 50 anni contro oltre 40 del PVC. Entrambi superano qualsiasi alternativa in legno non trattato.
+
+### Che cosa scelgo per grandi superfici vetrate?
+Alluminio, senza eccezioni. La resistenza strutturale è tre o quattro volte superiore e consente scorrevoli fino a 6 m di larghezza.
+
+## Conclusione — indicazione chiara per scenario
+
+| Scenario | Materiale consigliato | Motivo principale |
+|---|---|---|
+| Ristrutturazione appartamento | PVC Salamander bluEvolution 82 | Uw ottimale, costo contenuto |
+| Casa nuova standard | PVC Salamander bluEvolution 92 | nZEB con margine di sicurezza |
+| Casa passiva PHI | PVC bluEvolution 92 + Blaugelb | Unica opzione sotto Uw 0,8 |
+| Villa con ampio soggiorno | Combinazione PVC e scorrevoli in alluminio | Ogni materiale al posto giusto |
+| Uffici, commerciale | Alluminio Alumil S77 | Struttura ed estetica |
+| Pareti continue | Sistema a parete continua in alluminio | Esclusivamente alluminio |
+
+**La regola semplice:** isolamento massimo → PVC. Design o grandi superfici vetrate → alluminio. Il resto → combinazione.
 
 ---
 
