@@ -25465,241 +25465,726 @@ Ușile antiefracție moderne combină protecția mecanică (construcție RC 2-RC
 
 Neofort BIZ proiectează și montează tâmplărie din aluminiu Alumil în București și Ilfov, cu barieră termică și montaj cu echipe proprii. Vezi [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [ghidul complet al sistemelor din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
 
-      en: `## Why the entry door is the critical security point of any home
+      en: `## Why the entrance door is the critical security point of a house
 
-European residential security statistics consistently show that **over 70% of residential break-ins** occur through the main or rear entry door — not through windows. The reason: doors are large openings with a single locking point and often vulnerable cylinders.
+European statistics from the residential security sector consistently show that **more than 70% of home burglaries** happen through the main or back entrance door — not through windows or other access points. The reason is simple: doors are large openings with a single locking zone (the lock), and often with cylinders that are vulnerable to forcing.
 
-The modern solution combines two layers of protection:
-1. **Mechanical** — certified robust construction, resistance classes RC 2–RC 4
-2. **Biometric** — fingerprint, PIN or card access, eliminating cylinder vulnerability
+The modern answer combines two layers of protection:
+1. **Mechanical** — robust certified construction, resistance classes RC 2–RC 4
+2. **Biometric** — access by fingerprint, PIN code or card, which removes the weakness of classic cylinders
 
 ---
 
-## Resistance classes — what RC 2, RC 3, RC 4 mean
+## Burglary resistance classes — what RC 2, RC 3 and RC 4 mean
 
-European standard EN 1627 defines **six resistance classes** (RC 1–RC 6) based on the time and tools required to force the product:
+The European classification EN 1627 defines **six resistance classes** (RC 1–RC 6) for doors and windows, based on the time and tools an attacker needs to force the product:
 
-| Class | Resistance time | Attacker's tools | Typical application |
+| Class | Resistance time | Attacker tools | Typical application |
 |---|---|---|---|
-| **RC 2** | **3 minutes** | **Levers, screwdrivers** | **Standard apartments** |
-| **RC 3** | **5 minutes** | **Chisels, crowbars** | **Residential villa** |
+| RC 1 | 3 minutes | Bodily force | Interior, utility doors |
+| **RC 2** | **3 minutes** | **Crowbars, screwdrivers** | **Apartment standard** |
+| **RC 3** | **5 minutes** | **Chisels, pry bar** | **Residential villa** |
 | **RC 4** | **10 minutes** | **Saw, drill** | **High-risk properties** |
+| RC 5 | 15 minutes | Power tools | Commercial, institutional |
+| RC 6 | 20 minutes | Advanced power tools | Banks, jewellers |
+
+**The Neofort BIZ recommendation:**
+- **Houses and villas in Bucharest and Ilfov** — **RC 3** minimum
+- **High-risk areas or isolated properties** — **RC 4**
+- **Apartments** — **RC 2** is sufficient, RC 3 gives extra comfort
 
 ---
 
-## The fingerprint system — why it eliminates the classic key's vulnerability
+## Construction of an aluminium and steel security door — what it must contain
 
-A classic key can be **copied**, **lost** or **stolen**. A door cylinder can be bypassed by bumping or picking in seconds. Fingerprint access eliminates all these vulnerabilities: it cannot be copied without physical presence, cannot be lost, and user access is revoked in 3 seconds.
+### The door leaf structure
 
-Modern systems support fingerprint, PIN, RFID card, Bluetooth and mechanical key — independently or in two-factor combination.
+A properly built security door has:
 
-**Neofort BIZ manufactures and installs anti-burglary aluminium and metal doors to order, with complete customisation of dimensions, finishes and access systems.**
+- **The core** — steel plates 1.5–3 mm thick, arranged in multiple layers, filled with **basalt wool** (thermal and acoustic insulation plus resistance to forcing)
+- **The frame** — steel or extruded aluminium profile, with certified minimum thicknesses
+- **The external cladding** — electrostatically coated aluminium in any RAL colour, toughened glass or laminated timber on request
 
-**For a quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**
+### The multipoint locking system
 
-## Frequently Asked Questions
+A lock with **a single locking point** resists less than a multipoint system, whatever the class of the cylinder. Security doors from RC 3 upwards include:
 
-### Where do most home break-ins happen?
+- At least **5 locking points** (bolts and hooks on 3 sides of the leaf)
+- **Steel bolts Ø14–18 mm** — resistant to impact and forcing
+- **Locking hooks** — prevent the leaf from bending under a crowbar attack
+- **Cylinder protection plates** — hardened steel, preventing the cylinder from being pulled out
 
-European statistics show that over 70% of residential break-ins happen through the main or back entrance door — not through windows. The reason: doors are large openings with a single locking zone (the lock) and often cylinders vulnerable to forcing.
+### The frame and its anchoring in the masonry
 
-### What do the anti-burglary resistance classes RC 2, RC 3 and RC 4 mean?
+Even the most robust door system becomes ineffective if the frame is poorly anchored. Neofort BIZ uses:
+- A **steel frame** at least 2 mm thick, in closed profiles
+- **At least 4 anchors** per side — fixed into masonry or concrete with chemical anchors
+- **EPDM sealing profiles** on 3 sides — thermal and acoustic insulation
 
-Under EN 1627, RC 2 resists 3 minutes against levers and screwdrivers (apartment standard), RC 3 resists 5 minutes against chisels and a crowbar (residential villas), and RC 4 resists 10 minutes against a saw and drill (high-risk targets).
+---
 
-### Which anti-burglary class is recommended for a villa in Bucharest?
+## The fingerprint control system — how it works and what it offers
 
-For houses and villas in Bucharest and Ilfov, at least class RC 3 is recommended, resisting 5 minutes against attack with chisels and a crowbar. For apartments, the RC 2 standard (3 minutes) is usually sufficient.
+### The biometric sensor
 
-### How does biometric access remove the vulnerability of classic cylinders?
+The fingerprint sensor built into the handle or access plate is an **optical or capacitive scanner** which:
+- Scans and digitises the fingerprint in under **0.5 seconds**
+- Compares it against up to **200 stored fingerprints** (authorised users)
+- Releases the lock electrically on a match, or displays a rejection code
+- Works at temperatures from **−20 °C to +65 °C**
+- Power: **AA batteries** (6–12 months of autonomy) or a 12 V cable
 
-Modern anti-burglary doors combine mechanical protection (RC 2-RC 4 construction) with biometric access — fingerprint, PIN code or card. Biometric access removes the classic cylinder, the most vulnerable point to forcing via methods such as bumping or picking.
+### Available access methods
+
+Modern systems offer several access methods, each configurable independently:
+
+| Method | Security | Convenience |
+|---|---|---|
+| **Fingerprint** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **PIN code** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **RFID / NFC card** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Bluetooth (smartphone)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Mechanical key** | ⭐⭐ | ⭐⭐ |
+| **Combined (2FA)** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+
+### Why a fingerprint removes the weakness of a classic key
+
+A classic key has a fundamental security flaw: it can be **copied** (sometimes without the owner knowing), **lost** or **stolen**. A door cylinder can be forced by **bumping** or **picking** in seconds by an experienced attacker, regardless of the brand or price of the cylinder.
+
+**A fingerprint removes those weaknesses entirely:**
+- It cannot be copied without the finger being physically present
+- It cannot be lost or left at home
+- Revoking a user’s access takes three seconds from the menu
+
+### Integration with smart home systems
+
+Modern biometric access systems integrate with:
+- **Wi-Fi and Bluetooth protocols** — control and monitoring from a mobile app
+- **Alexa and Google Home** — voice commands for locking and unlocking
+- **Alarm systems** — automatic triggering on a break-in attempt
+- **Video cameras** — automatic recording on access or unauthorised attempt
+
+---
+
+## Manufacture and installation at Neofort BIZ
+
+Neofort BIZ manufactures security doors **to order**, customised for each project:
+
+### Customisation options
+- **Dimensions** — any size, including double doors and doors with a transom light
+- **External material** — RAL-coated aluminium, toughened glass, perforated metal panels
+- **Colours** — any RAL colour or wood-effect film
+- **Glazing** — toughened glass, insulating glass, opaque glass (frosted or printed)
+- **Access systems** — fingerprint, PIN, card, Bluetooth, or a combination
+
+### The manufacturing and installation process
+1. **Consultation and design** — site visit, measurements, proposed solution
+2. **Manufacture** — 15–25 working days
+3. **Professional installation** — specialist team, 4–8 hours per door
+4. **Warranty certificate** — full cover on product and workmanship
+5. **Service** — rapid response for adjustments or parts under warranty
+
+See also [our aluminium joinery](/en/aluminium-windows) or [contact us](/en/contact) for a consultation at our offices.
+
+**Request a quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**
+
+## Frequently asked questions
+
+### Where do most burglaries in a home take place?
+
+European statistics show that more than 70% of residential burglaries happen through the main or back entrance door — not through windows. The reason: doors are large openings with a single locking zone (the lock) and often cylinders that are vulnerable to forcing.
+
+### What do burglary resistance classes RC 2, RC 3 and RC 4 mean?
+
+Under EN 1627, RC 2 resists 3 minutes against crowbars and screwdrivers (apartment standard), RC 3 resists 5 minutes against chisels and a pry bar (residential villas), and RC 4 resists 10 minutes against a saw and a drill (high-risk properties).
+
+### Which resistance class is recommended for a villa in Bucharest?
+
+For houses and villas in Bucharest and Ilfov, class RC 3 is the recommended minimum, resisting 5 minutes against chisels and a pry bar. For apartments, the RC 2 standard (3 minutes) is usually sufficient.
+
+### How does biometric access remove the weakness of classic cylinders?
+
+Modern security doors combine mechanical protection (RC 2–RC 4 construction) with biometric access — fingerprint, PIN code or card. Biometric access removes the classic cylinder, which is the point most vulnerable to forcing through methods such as bumping or picking.
 
 ---
 
 Neofort BIZ designs and installs Alumil aluminium joinery in Bucharest and Ilfov, with thermal break and its own installation teams. See [the aluminium joinery](/en/aluminium-windows) we offer or [request a quote](/en/contact). All the details in [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
-      de: `## Warum die Eingangstür der kritische Sicherheitspunkt jedes Hauses ist
+      de: `## Warum die Eingangstür der sicherheitskritische Punkt des Hauses ist
 
-Europäische Statistiken zeigen, dass **über 70% der Wohnungseinbrüche** über die Haupt- oder Hintertür erfolgen. Die moderne Lösung kombiniert zwei Schutzebenen: **mechanisch** (zertifizierte Konstruktion RC 2–RC 4) und **biometrisch** (Fingerabdruck, PIN oder Karte).
+Europäische Statistiken aus dem Bereich der Wohnungssicherheit zeigen durchgängig, dass **über 70 % der Wohnungseinbrüche** über die Haupt- oder Hintereingangstür erfolgen — nicht über Fenster oder andere Zugänge. Der Grund ist einfach: Türen sind große Öffnungen mit einer einzigen Verriegelungszone (dem Schloss) und oft mit Zylindern, die sich leicht aufhebeln lassen.
+
+Die moderne Antwort verbindet zwei Schutzebenen:
+1. **Mechanisch** — robuste zertifizierte Konstruktion, Widerstandsklassen RC 2–RC 4
+2. **Biometrisch** — Zutritt per Fingerabdruck, PIN-Code oder Karte, wodurch die Schwachstelle klassischer Zylinder entfällt
 
 ---
 
-## Widerstandsklassen — was RC 2, RC 3, RC 4 bedeuten
+## Einbruchhemmungsklassen — was RC 2, RC 3 und RC 4 bedeuten
 
-| Klasse | Widerstandszeit | Werkzeuge | Anwendung |
+Die europäische Klassifizierung EN 1627 definiert **sechs Widerstandsklassen** (RC 1–RC 6) für Türen und Fenster, je nach Zeit und Werkzeug, die ein Täter zum Aufbrechen benötigt:
+
+| Klasse | Widerstandszeit | Werkzeug des Täters | Typische Anwendung |
 |---|---|---|---|
-| **RC 2** | **3 Minuten** | **Hebel, Schraubenzieher** | **Standard Wohnungen** |
-| **RC 3** | **5 Minuten** | **Meißel, Brechstange** | **Wohnhaus / Villa** |
-| **RC 4** | **10 Minuten** | **Säge, Bohrer** | **Hochrisiko-Objekte** |
+| RC 1 | 3 Minuten | Körperliche Gewalt | Innen- und Nebentüren |
+| **RC 2** | **3 Minuten** | **Brecheisen, Schraubendreher** | **Standard für Wohnungen** |
+| **RC 3** | **5 Minuten** | **Meißel, Kuhfuß** | **Wohnhaus, Villa** |
+| **RC 4** | **10 Minuten** | **Säge, Bohrmaschine** | **Objekte mit hohem Risiko** |
+| RC 5 | 15 Minuten | Elektrowerkzeuge | Gewerbe, Institutionen |
+| RC 6 | 20 Minuten | Leistungsstarke Elektrowerkzeuge | Banken, Juweliere |
+
+**Die Empfehlung von Neofort BIZ:**
+- **Häuser und Villen in Bukarest und Ilfov** — mindestens **RC 3**
+- **Gebiete mit erhöhtem Risiko oder abgelegene Anwesen** — **RC 4**
+- **Wohnungen** — **RC 2** genügt, RC 3 bietet zusätzliche Sicherheit
 
 ---
 
-## Das Fingerabdrucksystem — warum es die Schwachstelle des klassischen Schlüssels beseitigt
+## Aufbau einer einbruchhemmenden Tür aus Aluminium und Stahl
 
-Ein klassischer Schlüssel kann kopiert, verloren oder gestohlen werden. Ein Türzylinder lässt sich durch Bumping oder Picking in Sekunden überwinden. Der Fingerabdruckzugang eliminiert all diese Schwachstellen vollständig.
+### Der Aufbau des Türblatts
 
-**Neofort BIZ fertigt und montiert einbruchsichere Türen aus Aluminium und Metall auf Bestellung, mit vollständiger Anpassung von Maßen, Oberflächen und Zugangssystemen.**
+Eine fachgerecht gebaute einbruchhemmende Tür besitzt:
 
-**Für ein Angebot:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**
+- **Den Kern** — Stahlplatten von 1,5–3 mm Stärke in mehreren Lagen, mit **Basaltwolle** gefüllt (Wärme- und Schalldämmung sowie Widerstand gegen Aufhebeln)
+- **Den Rahmen** — Profil aus Stahl oder stranggepresstem Aluminium mit zertifizierten Mindeststärken
+- **Die äußere Verkleidung** — elektrostatisch beschichtetes Aluminium in jeder RAL-Farbe, Sicherheitsglas oder auf Wunsch Schichtholz
+
+### Das Mehrfachverriegelungssystem
+
+Ein Schloss mit **einem einzigen Verriegelungspunkt** widersteht weniger als ein Mehrfachverriegelungssystem, unabhängig von der Klasse des Zylinders. Einbruchhemmende Türen ab RC 3 enthalten:
+
+- Mindestens **5 Verriegelungspunkte** (Bolzen und Haken an 3 Seiten des Türblatts)
+- **Stahlbolzen Ø14–18 mm** — widerstandsfähig gegen Schläge und Hebelkraft
+- **Verriegelungshaken** — verhindern das Verbiegen des Türblatts beim Hebelangriff
+- **Zylinderschutzplatten** — aus gehärtetem Stahl, verhindern das Herausziehen des Zylinders
+
+### Der Blendrahmen und seine Verankerung im Mauerwerk
+
+Auch das robusteste Türsystem wird wirkungslos, wenn der Rahmen schlecht verankert ist. Neofort BIZ verwendet:
+- Einen **Stahlrahmen** mit mindestens 2 mm Stärke, in geschlossenen Profilen
+- **Mindestens 4 Anker** je Seite — Befestigung in Mauerwerk oder Beton mit Chemiedübeln
+- **EPDM-Dichtprofile** an 3 Seiten — Wärme- und Schalldämmung
+
+---
+
+## Das Fingerabdrucksystem — Funktionsweise und Nutzen
+
+### Der biometrische Sensor
+
+Der in Griff oder Zutrittsplatte integrierte Fingerabdrucksensor ist ein **optischer oder kapazitiver Scanner**, der:
+- den Fingerabdruck in unter **0,5 Sekunden** erfasst und digitalisiert
+- ihn mit bis zu **200 gespeicherten Abdrücken** vergleicht (berechtigte Nutzer)
+- bei Übereinstimmung das Schloss elektrisch öffnet oder einen Ablehnungscode anzeigt
+- bei Temperaturen von **−20 °C bis +65 °C** arbeitet
+- über **AA-Batterien** (6–12 Monate Laufzeit) oder ein 12-V-Kabel versorgt wird
+
+### Verfügbare Zutrittsarten
+
+Moderne Systeme bieten mehrere, unabhängig konfigurierbare Zutrittsarten:
+
+| Methode | Sicherheit | Komfort |
+|---|---|---|
+| **Fingerabdruck** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **PIN-Code** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **RFID-/NFC-Karte** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Bluetooth (Smartphone)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Mechanischer Schlüssel** | ⭐⭐ | ⭐⭐ |
+| **Kombiniert (2FA)** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+
+### Warum der Fingerabdruck die Schwäche des klassischen Schlüssels beseitigt
+
+Der klassische Schlüssel hat einen grundlegenden Sicherheitsmangel: Er kann **kopiert** (mitunter ohne Wissen des Eigentümers), **verloren** oder **gestohlen** werden. Ein Türzylinder lässt sich durch **Bumping** oder **Picking** in Sekunden von einem erfahrenen Täter öffnen, unabhängig von Marke oder Preis.
+
+**Der Fingerabdruck beseitigt diese Schwachstellen vollständig:**
+- Er kann ohne den physisch anwesenden Finger nicht kopiert werden
+- Er geht nicht verloren und bleibt nicht zu Hause liegen
+- Der Entzug einer Zutrittsberechtigung dauert drei Sekunden im Menü
+
+### Einbindung in Smart-Home-Systeme
+
+Moderne biometrische Zutrittssysteme lassen sich einbinden in:
+- **WLAN- und Bluetooth-Protokolle** — Steuerung und Überwachung aus der mobilen App
+- **Alexa und Google Home** — Sprachbefehle zum Ver- und Entriegeln
+- **Alarmanlagen** — automatische Auslösung bei Einbruchversuch
+- **Videokameras** — automatische Aufzeichnung bei Zutritt oder unbefugtem Versuch
+
+---
+
+## Fertigung und Montage bei Neofort BIZ
+
+Neofort BIZ fertigt einbruchhemmende Türen **auf Maß**, individuell für jedes Projekt:
+
+### Individualisierungsmöglichkeiten
+- **Abmessungen** — jede Größe, auch Doppeltüren und Türen mit Oberlicht
+- **Außenmaterial** — RAL-beschichtetes Aluminium, Sicherheitsglas, gelochte Metallpaneele
+- **Farben** — jede RAL-Farbe oder Holzdekorfolie
+- **Verglasung** — Sicherheitsglas, Isolierglas, blickdichtes Glas (satiniert oder bedruckt)
+- **Zutrittssysteme** — Fingerabdruck, PIN, Karte, Bluetooth oder Kombination
+
+### Der Fertigungs- und Montageablauf
+1. **Beratung und Planung** — Ortstermin, Aufmaß, Lösungsvorschlag
+2. **Fertigung** — 15–25 Werktage
+3. **Fachgerechte Montage** — Spezialteam, 4–8 Stunden je Tür
+4. **Garantieurkunde** — vollständige Deckung für Produkt und Ausführung
+5. **Service** — schnelle Einsätze für Einstellungen oder Garantieteile
+
+Sehen Sie auch [unsere Aluminiumfenster](/de/aluminiumfenster) oder [nehmen Sie Kontakt auf](/de/kontakt) für eine Beratung in unserem Büro.
+
+**Angebot anfordern:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**
 
 ## Häufig gestellte Fragen
 
-### Wo finden die meisten Wohnungseinbrüche statt?
+### Wo finden die meisten Einbrüche in einem Wohnhaus statt?
 
-Europäische Statistiken zeigen, dass über 70% der Wohnungseinbrüche durch die Haupt- oder Hintertür erfolgen — nicht durch Fenster. Der Grund: Türen sind große Öffnungen mit einer einzigen Verriegelungszone (dem Schloss) und oft mit forcieranfälligen Zylindern.
+Europäische Statistiken zeigen, dass über 70 % der Wohnungseinbrüche über die Haupt- oder Hintereingangstür erfolgen — nicht über Fenster. Der Grund: Türen sind große Öffnungen mit einer einzigen Verriegelungszone (dem Schloss) und oft mit leicht aufhebelbaren Zylindern.
 
-### Was bedeuten die Einbruchschutzklassen RC 2, RC 3 und RC 4?
+### Was bedeuten die Einbruchhemmungsklassen RC 2, RC 3 und RC 4?
 
-Nach EN 1627 widersteht RC 2 3 Minuten gegen Hebel und Schraubendreher (Wohnungsstandard), RC 3 5 Minuten gegen Meißel und Brecheisen (Wohnvillen) und RC 4 10 Minuten gegen Säge und Bohrer (Hochrisikoobjekte).
+Nach EN 1627 widersteht RC 2 drei Minuten Brecheisen und Schraubendrehern (Standard für Wohnungen), RC 3 fünf Minuten Meißeln und Kuhfuß (Wohnhäuser und Villen) und RC 4 zehn Minuten Säge und Bohrmaschine (Objekte mit hohem Risiko).
 
-### Welche Einbruchschutzklasse wird für eine Villa in Bukarest empfohlen?
+### Welche Widerstandsklasse empfiehlt sich für eine Villa in Bukarest?
 
-Für Häuser und Villen in Bukarest und Ilfov wird mindestens Klasse RC 3 empfohlen, die 5 Minuten gegen Angriff mit Meißel und Brecheisen widersteht. Für Wohnungen reicht der RC-2-Standard (3 Minuten) meist aus.
+Für Häuser und Villen in Bukarest und Ilfov gilt Klasse RC 3 als empfohlenes Minimum; sie widersteht fünf Minuten dem Angriff mit Meißel und Kuhfuß. Für Wohnungen genügt in der Regel der Standard RC 2 (drei Minuten).
 
-### Wie beseitigt biometrischer Zugang die Schwachstelle klassischer Zylinder?
+### Wie beseitigt biometrischer Zutritt die Schwäche klassischer Zylinder?
 
-Moderne Einbruchschutztüren kombinieren mechanischen Schutz (RC-2-RC-4-Konstruktion) mit biometrischem Zugang — Fingerabdruck, PIN-Code oder Karte. Biometrischer Zugang entfernt den klassischen Zylinder, den anfälligsten Punkt für Forcierung durch Methoden wie Bumping oder Picking.
+Moderne einbruchhemmende Türen verbinden mechanischen Schutz (Konstruktion RC 2–RC 4) mit biometrischem Zutritt — Fingerabdruck, PIN-Code oder Karte. Der biometrische Zutritt macht den klassischen Zylinder überflüssig, der die anfälligste Stelle für Methoden wie Bumping oder Picking ist.
 
 ---
 
 Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit Wärmedämmbrücke und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details in [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
-      fr: `## Pourquoi la porte d'entrée est le point de sécurité critique de toute habitation
+      fr: `## Pourquoi la porte d’entrée est le point critique de sécurité d’une maison
 
-Les statistiques européennes montrent que **plus de 70% des cambriolages résidentiels** se produisent par la porte d'entrée principale ou de service. La solution moderne combine deux couches de protection : **mécanique** (construction certifiée RC 2–RC 4) et **biométrique** (empreinte digitale, code PIN ou badge).
+Les statistiques européennes du secteur de la sécurité résidentielle montrent de manière constante que **plus de 70 % des cambriolages** se produisent par la porte d’entrée principale ou celle de service — et non par les fenêtres ou d’autres accès. La raison est simple : les portes sont de grandes ouvertures avec une seule zone de verrouillage (la serrure), et souvent des cylindres vulnérables au forçage.
+
+La réponse moderne associe deux niveaux de protection :
+1. **Mécanique** — construction robuste certifiée, classes de résistance RC 2–RC 4
+2. **Biométrique** — accès par empreinte digitale, code PIN ou carte, qui supprime la faiblesse des cylindres classiques
 
 ---
 
-## Classes de résistance — que signifient RC 2, RC 3, RC 4
+## Les classes de résistance anti-effraction — ce que signifient RC 2, RC 3 et RC 4
 
-| Classe | Temps de résistance | Outils de l'attaquant | Application typique |
+La classification européenne EN 1627 définit **six classes de résistance** (RC 1–RC 6) pour les portes et fenêtres, selon le temps et les outils nécessaires à un intrus pour forcer le produit :
+
+| Classe | Temps de résistance | Outils de l’intrus | Application typique |
 |---|---|---|---|
-| **RC 2** | **3 minutes** | **Leviers, tournevis** | **Appartements standard** |
-| **RC 3** | **5 minutes** | **Ciseaux, pied-de-biche** | **Villa résidentielle** |
-| **RC 4** | **10 minutes** | **Scie, perceuse** | **Propriétés à risque élevé** |
+| RC 1 | 3 minutes | Force physique | Portes intérieures, de service |
+| **RC 2** | **3 minutes** | **Pieds-de-biche, tournevis** | **Standard en appartement** |
+| **RC 3** | **5 minutes** | **Burins, barre à mine** | **Maison, villa** |
+| **RC 4** | **10 minutes** | **Scie, perceuse** | **Biens à risque élevé** |
+| RC 5 | 15 minutes | Outils électriques | Commercial, institutionnel |
+| RC 6 | 20 minutes | Outils électriques avancés | Banques, bijouteries |
+
+**La recommandation de Neofort BIZ :**
+- **Maisons et villas à Bucarest et dans l’Ilfov** — **RC 3** au minimum
+- **Zones à risque élevé ou propriétés isolées** — **RC 4**
+- **Appartements** — **RC 2** suffit, RC 3 apporte un confort supplémentaire
 
 ---
 
-## Le système d'empreinte — pourquoi il élimine la vulnérabilité de la clé classique
+## La construction d’une porte anti-effraction en aluminium et acier
 
-Une clé classique peut être copiée, perdue ou volée. Un cylindre de serrure peut être crocheté en quelques secondes. L'accès par empreinte digitale élimine toutes ces vulnérabilités : elle ne peut être ni copiée ni perdue, et la révocation d'accès se fait en 3 secondes.
+### La structure du vantail
 
-**Neofort BIZ fabrique et pose des portes anti-effraction en aluminium et métal sur commande, avec personnalisation complète des dimensions, finitions et systèmes d'accès.**
+Une porte anti-effraction correctement construite comporte :
 
-**Pour un devis :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
+- **Le noyau** — plaques d’acier de 1,5 à 3 mm d’épaisseur, disposées en plusieurs couches, avec remplissage en **laine de basalte** (isolation thermique et acoustique, plus résistance au forçage)
+- **Le cadre** — profilé en acier ou en aluminium extrudé, avec des épaisseurs minimales certifiées
+- **Le parement extérieur** — aluminium thermolaqué dans toute teinte RAL, verre trempé ou bois lamellé sur demande
+
+### Le système de verrouillage multipoint
+
+Une serrure à **un seul point de verrouillage** résiste moins qu’un système multipoint, quelle que soit la classe du cylindre. Les portes anti-effraction à partir de RC 3 comportent :
+
+- Au moins **5 points de verrouillage** (pênes et crochets sur 3 côtés du vantail)
+- Des **pênes en acier Ø14–18 mm** — résistants aux chocs et au forçage
+- Des **crochets de verrouillage** — empêchent le vantail de se déformer sous l’effet d’un levier
+- Des **plaques de protection du cylindre** — en acier trempé, empêchant l’arrachement du cylindre
+
+### Le dormant et son ancrage dans la maçonnerie
+
+Même le système de porte le plus robuste devient inefficace si le dormant est mal ancré. Neofort BIZ utilise :
+- Un **dormant en acier** d’au moins 2 mm d’épaisseur, en profilés fermés
+- **Au moins 4 ancrages** par côté — fixation dans la maçonnerie ou le béton par chevilles chimiques
+- Des **profilés d’étanchéité EPDM** sur 3 côtés — isolation thermique et acoustique
+
+---
+
+## Le système de commande par empreinte digitale
+
+### Le capteur biométrique
+
+Le capteur d’empreinte intégré à la poignée ou à la platine d’accès est un **scanner optique ou capacitif** qui :
+- numérise l’empreinte en moins de **0,5 seconde**
+- la compare à un maximum de **200 empreintes enregistrées** (utilisateurs autorisés)
+- déverrouille électriquement en cas de correspondance, ou affiche un code de refus
+- fonctionne de **−20 °C à +65 °C**
+- s’alimente par **piles AA** (6 à 12 mois d’autonomie) ou par câble 12 V
+
+### Les méthodes d’accès disponibles
+
+Les systèmes modernes offrent plusieurs méthodes d’accès, configurables indépendamment :
+
+| Méthode | Sécurité | Confort |
+|---|---|---|
+| **Empreinte digitale** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Code PIN** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Carte RFID / NFC** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Bluetooth (smartphone)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Clé mécanique** | ⭐⭐ | ⭐⭐ |
+| **Combiné (2FA)** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+
+### Pourquoi l’empreinte supprime la faiblesse de la clé classique
+
+La clé classique présente un défaut de sécurité fondamental : elle peut être **copiée** (parfois à l’insu du propriétaire), **perdue** ou **volée**. Un cylindre de porte peut être forcé par **bumping** ou **crochetage** en quelques secondes par un intrus expérimenté, quelles que soient la marque et le prix du cylindre.
+
+**L’empreinte digitale supprime entièrement ces vulnérabilités :**
+- Elle ne peut être copiée sans la présence physique du doigt
+- Elle ne se perd pas et ne reste pas à la maison
+- Révoquer l’accès d’un utilisateur prend trois secondes depuis le menu
+
+### L’intégration aux systèmes domotiques
+
+Les systèmes d’accès biométrique modernes s’intègrent avec :
+- **Les protocoles Wi-Fi et Bluetooth** — contrôle et supervision depuis une application mobile
+- **Alexa et Google Home** — commandes vocales de verrouillage et déverrouillage
+- **Les systèmes d’alarme** — déclenchement automatique en cas de tentative d’effraction
+- **Les caméras vidéo** — enregistrement automatique à l’accès ou lors d’une tentative non autorisée
+
+---
+
+## Fabrication et pose chez Neofort BIZ
+
+Neofort BIZ fabrique des portes anti-effraction **sur mesure**, personnalisées pour chaque projet :
+
+### Options de personnalisation
+- **Dimensions** — toute dimension, y compris portes doubles et portes avec imposte
+- **Matériau extérieur** — aluminium laqué RAL, verre trempé, panneaux métalliques perforés
+- **Couleurs** — toute teinte RAL ou film imitation bois
+- **Vitrages** — verre trempé, vitrage isolant, verre opaque (satiné ou imprimé)
+- **Systèmes d’accès** — empreinte, PIN, carte, Bluetooth ou combinaison
+
+### Le processus de fabrication et de pose
+1. **Consultation et projet** — visite sur site, relevé, proposition de solution
+2. **Fabrication** — 15 à 25 jours ouvrés
+3. **Pose professionnelle** — équipe spécialisée, 4 à 8 heures par porte
+4. **Certificat de garantie** — couverture complète produit et main-d’œuvre
+5. **Service après-vente** — interventions rapides pour réglages ou pièces sous garantie
+
+Voir aussi [nos menuiseries en aluminium](/fr/menuiserie-aluminium) ou [contactez-nous](/fr/contact) pour une consultation dans nos bureaux.
+
+**Demander un devis :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
 
 ## Questions fréquentes
 
 ### Par où se produisent la plupart des cambriolages dans un logement ?
 
-Les statistiques européennes montrent que plus de 70% des cambriolages résidentiels passent par la porte d'entrée principale ou arrière — pas par les fenêtres. La raison : les portes sont de grandes ouvertures avec une seule zone de verrouillage (la serrure) et souvent des cylindres vulnérables au forçage.
+Les statistiques européennes montrent que plus de 70 % des cambriolages résidentiels se produisent par la porte d’entrée principale ou celle de service — pas par les fenêtres. La raison : les portes sont de grandes ouvertures avec une seule zone de verrouillage (la serrure) et souvent des cylindres vulnérables au forçage.
 
-### Que signifient les classes de résistance anti-effraction RC 2, RC 3 et RC 4 ?
+### Que signifient les classes anti-effraction RC 2, RC 3 et RC 4 ?
 
-Selon EN 1627, RC 2 résiste 3 minutes aux leviers et tournevis (standard appartements), RC 3 résiste 5 minutes aux burins et pied-de-biche (villas résidentielles), et RC 4 résiste 10 minutes à la scie et la perceuse (objectifs à haut risque).
+Selon EN 1627, la classe RC 2 résiste 3 minutes aux pieds-de-biche et tournevis (standard en appartement), RC 3 résiste 5 minutes aux burins et à la barre à mine (maisons et villas), et RC 4 résiste 10 minutes à la scie et à la perceuse (biens à risque élevé).
 
-### Quelle classe anti-effraction est recommandée pour une villa à Bucarest ?
+### Quelle classe anti-effraction recommander pour une villa à Bucarest ?
 
-Pour les maisons et villas de Bucarest et Ilfov, la classe RC 3 minimum est recommandée, résistant 5 minutes à une attaque au burin et au pied-de-biche. Pour les appartements, le standard RC 2 (3 minutes) est généralement suffisant.
+Pour les maisons et villas de Bucarest et de l’Ilfov, la classe RC 3 constitue le minimum recommandé : elle résiste 5 minutes à une attaque au burin et à la barre à mine. Pour les appartements, le standard RC 2 (3 minutes) suffit généralement.
 
-### Comment l'accès biométrique élimine-t-il la vulnérabilité des cylindres classiques ?
+### Comment l’accès biométrique supprime-t-il la faiblesse des cylindres classiques ?
 
-Les portes anti-effraction modernes combinent protection mécanique (construction RC 2-RC 4) et accès biométrique — empreinte digitale, code PIN ou carte. L'accès biométrique supprime le cylindre classique, le point le plus vulnérable au forçage par des méthodes comme le bumping ou le picking.
+Les portes anti-effraction modernes associent la protection mécanique (construction RC 2–RC 4) à l’accès biométrique — empreinte digitale, code PIN ou carte. L’accès biométrique supprime le cylindre classique, qui est le point le plus vulnérable à des méthodes comme le bumping ou le crochetage.
 
 ---
 
 Neofort BIZ conçoit et pose de la menuiserie aluminium Alumil à Bucarest et Ilfov, à rupture thermique et avec ses propres équipes. Voir [la menuiserie aluminium](/fr/menuiserie-aluminium) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
-      es: `## Por qué la puerta de entrada es el punto crítico de seguridad de cualquier hogar
+      es: `## Por qué la puerta de entrada es el punto crítico de seguridad de una vivienda
 
-Las estadísticas europeas muestran que **más del 70% de los robos residenciales** se producen a través de la puerta principal o trasera. La solución moderna combina dos capas de protección: **mecánica** (construcción certificada RC 2–RC 4) y **biométrica** (huella dactilar, código PIN o tarjeta).
+Las estadísticas europeas del sector de la seguridad residencial muestran de forma constante que **más del 70 % de los robos en viviendas** se producen por la puerta de entrada principal o la trasera — no por las ventanas ni por otros accesos. La razón es sencilla: las puertas son huecos grandes, con una única zona de bloqueo (la cerradura) y a menudo con bombines vulnerables al forzado.
+
+La solución moderna combina dos capas de protección:
+1. **Mecánica** — construcción robusta certificada, clases de resistencia RC 2–RC 4
+2. **Biométrica** — acceso por huella dactilar, código PIN o tarjeta, que elimina la vulnerabilidad de los bombines clásicos
 
 ---
 
-## Clases de resistencia — qué significan RC 2, RC 3, RC 4
+## Las clases de resistencia antirrobo — qué significan RC 2, RC 3 y RC 4
 
-| Clase | Tiempo de resistencia | Herramientas | Aplicación |
+La clasificación europea EN 1627 define **seis clases de resistencia** (RC 1–RC 6) para puertas y ventanas, según el tiempo y las herramientas que necesita un intruso para forzar el producto:
+
+| Clase | Tiempo de resistencia | Herramientas del intruso | Aplicación típica |
 |---|---|---|---|
-| **RC 2** | **3 minutos** | **Palancas, destornilladores** | **Apartamentos estándar** |
-| **RC 3** | **5 minutos** | **Escoplos, palanca** | **Villa residencial** |
-| **RC 4** | **10 minutos** | **Sierra, taladro** | **Propiedades de alto riesgo** |
+| RC 1 | 3 minutos | Fuerza física | Puertas interiores, de servicio |
+| **RC 2** | **3 minutos** | **Palancas, destornilladores** | **Estándar en pisos** |
+| **RC 3** | **5 minutos** | **Cinceles, barra de uña** | **Vivienda unifamiliar, chalet** |
+| **RC 4** | **10 minutos** | **Sierra, taladro** | **Inmuebles de alto riesgo** |
+| RC 5 | 15 minutos | Herramientas eléctricas | Comercial, institucional |
+| RC 6 | 20 minutos | Herramientas eléctricas avanzadas | Bancos, joyerías |
+
+**La recomendación de Neofort BIZ:**
+- **Casas y chalets en Bucarest e Ilfov** — **RC 3** como mínimo
+- **Zonas de alto riesgo o propiedades aisladas** — **RC 4**
+- **Pisos** — **RC 2** es suficiente, RC 3 aporta tranquilidad adicional
 
 ---
 
-## El sistema de huella dactilar — por qué elimina la vulnerabilidad de la llave clásica
+## La construcción de una puerta antirrobo de aluminio y acero
 
-Una llave clásica puede copiarse, perderse o robarse. Un cilindro de cerradura puede ser forzado mediante bumping o ganzúa en segundos. El acceso por huella dactilar elimina completamente estas vulnerabilidades.
+### La estructura de la hoja
 
-**Neofort BIZ fabrica e instala puertas antirrobo de aluminio y metal a medida, con personalización completa de dimensiones, acabados y sistemas de acceso.**
+Una puerta antirrobo bien construida tiene:
 
-**Para un presupuesto:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18**
+- **El núcleo** — chapas de acero de 1,5–3 mm de espesor, dispuestas en varias capas, con relleno de **lana de basalto** (aislamiento térmico y acústico más resistencia al forzado)
+- **El marco** — perfil de acero o aluminio extruido, con espesores mínimos certificados
+- **El revestimiento exterior** — aluminio lacado electrostáticamente en cualquier color RAL, vidrio templado o madera laminada bajo pedido
+
+### El sistema de cierre multipunto
+
+Una cerradura con **un solo punto de bloqueo** resiste menos que un sistema multipunto, sea cual sea la clase del bombín. Las puertas antirrobo a partir de RC 3 incluyen:
+
+- Al menos **5 puntos de bloqueo** (bulones y ganchos en 3 lados de la hoja)
+- **Bulones de acero Ø14–18 mm** — resistentes al golpe y al forzado
+- **Ganchos de bloqueo** — impiden que la hoja se doble ante un ataque con palanca
+- **Placas de protección del bombín** — de acero templado, impiden extraer el bombín
+
+### El cerco y su anclaje en la obra
+
+Hasta el sistema de puerta más robusto pierde eficacia si el cerco está mal anclado. Neofort BIZ emplea:
+- Un **cerco de acero** de al menos 2 mm de espesor, en perfiles cerrados
+- **Un mínimo de 4 anclajes** por lado — fijación en fábrica u hormigón con tacos químicos
+- **Perfiles de estanqueidad EPDM** en 3 lados — aislamiento térmico y acústico
+
+---
+
+## El sistema de control por huella dactilar
+
+### El sensor biométrico
+
+El sensor de huella integrado en la manilla o en la placa de acceso es un **escáner óptico o capacitivo** que:
+- Escanea y digitaliza la huella en menos de **0,5 segundos**
+- La compara con hasta **200 huellas almacenadas** (usuarios autorizados)
+- Abre la cerradura eléctricamente si hay coincidencia, o muestra un código de rechazo
+- Funciona a temperaturas de **−20 °C a +65 °C**
+- Alimentación: **pilas AA** (6–12 meses de autonomía) o cable de 12 V
+
+### Los métodos de acceso disponibles
+
+Los sistemas modernos ofrecen varios métodos de acceso, configurables de forma independiente:
+
+| Método | Seguridad | Comodidad |
+|---|---|---|
+| **Huella dactilar** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Código PIN** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Tarjeta RFID / NFC** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Bluetooth (móvil)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Llave mecánica** | ⭐⭐ | ⭐⭐ |
+| **Combinado (2FA)** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+
+### Por qué la huella elimina la vulnerabilidad de la llave clásica
+
+La llave clásica tiene un defecto de seguridad fundamental: puede **copiarse** (a veces sin que el propietario lo sepa), **perderse** o ser **robada**. Un bombín puede forzarse mediante **bumping** o **ganzúa** en pocos segundos por un intruso con experiencia, sea cual sea la marca o el precio del bombín.
+
+**La huella dactilar elimina por completo esas vulnerabilidades:**
+- No puede copiarse sin la presencia física del dedo
+- No se pierde ni se olvida en casa
+- Revocar el acceso de un usuario lleva tres segundos desde el menú
+
+### Integración con sistemas domóticos
+
+Los sistemas de acceso biométrico modernos se integran con:
+- **Protocolos Wi-Fi y Bluetooth** — control y supervisión desde una app móvil
+- **Alexa y Google Home** — órdenes de voz para bloquear y desbloquear
+- **Sistemas de alarma** — activación automática ante un intento de robo
+- **Cámaras de vídeo** — grabación automática en el acceso o ante un intento no autorizado
+
+---
+
+## Fabricación e instalación en Neofort BIZ
+
+Neofort BIZ fabrica puertas antirrobo **a medida**, personalizadas para cada proyecto:
+
+### Opciones de personalización
+- **Dimensiones** — cualquier medida, incluidas puertas dobles y con montante superior
+- **Material exterior** — aluminio lacado RAL, vidrio templado, paneles metálicos perforados
+- **Colores** — cualquier color RAL o lámina imitación madera
+- **Acristalamientos** — vidrio templado, vidrio aislante, vidrio opaco (mateado o impreso)
+- **Sistemas de acceso** — huella, PIN, tarjeta, Bluetooth o combinación
+
+### El proceso de fabricación e instalación
+1. **Consulta y proyecto** — visita al lugar, mediciones, propuesta de solución
+2. **Fabricación** — 15–25 días laborables
+3. **Instalación profesional** — equipo especializado, 4–8 horas por puerta
+4. **Certificado de garantía** — cobertura completa de producto y mano de obra
+5. **Servicio técnico** — intervenciones rápidas para ajustes o piezas en garantía
+
+Vea también [nuestra carpintería de aluminio](/es/carpinteria-aluminio) o [contáctenos](/es/contacto) para una consulta en nuestras oficinas.
+
+**Solicitar presupuesto:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**
 
 ## Preguntas frecuentes
 
 ### ¿Por dónde se producen la mayoría de los robos en una vivienda?
 
-Las estadísticas europeas muestran que más del 70% de los robos residenciales se producen por la puerta de entrada principal o trasera — no por las ventanas. El motivo: las puertas son grandes huecos con una sola zona de bloqueo (la cerradura) y a menudo cilindros vulnerables al forzado.
+Las estadísticas europeas muestran que más del 70 % de los robos residenciales se producen por la puerta de entrada principal o la trasera — no por las ventanas. El motivo: las puertas son huecos grandes, con una única zona de bloqueo (la cerradura) y a menudo bombines vulnerables al forzado.
 
-### ¿Qué significan las clases de resistencia antirrobo RC 2, RC 3 y RC 4?
+### ¿Qué significan las clases antirrobo RC 2, RC 3 y RC 4?
 
-Según EN 1627, RC 2 resiste 3 minutos a palancas y destornilladores (estándar pisos), RC 3 resiste 5 minutos a cinceles y palanqueta (villas residenciales), y RC 4 resiste 10 minutos a sierra y taladro (objetivos de alto riesgo).
+Según EN 1627, RC 2 resiste 3 minutos ante palancas y destornilladores (estándar en pisos), RC 3 resiste 5 minutos ante cinceles y barra de uña (viviendas unifamiliares y chalets), y RC 4 resiste 10 minutos ante sierra y taladro (inmuebles de alto riesgo).
 
-### ¿Qué clase antirrobo se recomienda para una villa en Bucarest?
+### ¿Qué clase antirrobo se recomienda para un chalet en Bucarest?
 
-Para casas y villas en Bucarest e Ilfov se recomienda mínimo la clase RC 3, que resiste 5 minutos a un ataque con cinceles y palanqueta. Para pisos, el estándar RC 2 (3 minutos) suele ser suficiente.
+Para casas y chalets en Bucarest e Ilfov se recomienda como mínimo la clase RC 3, que resiste 5 minutos a un ataque con cinceles y barra de uña. Para pisos, el estándar RC 2 (3 minutos) suele ser suficiente.
 
-### ¿Cómo elimina el acceso biométrico la vulnerabilidad de los cilindros clásicos?
+### ¿Cómo elimina el acceso biométrico la vulnerabilidad de los bombines clásicos?
 
-Las puertas antirrobo modernas combinan protección mecánica (construcción RC 2-RC 4) con acceso biométrico — huella digital, código PIN o tarjeta. El acceso biométrico elimina el cilindro clásico, el punto más vulnerable al forzado mediante métodos como bumping o picking.
+Las puertas antirrobo modernas combinan la protección mecánica (construcción RC 2–RC 4) con el acceso biométrico — huella dactilar, código PIN o tarjeta. El acceso biométrico elimina el bombín clásico, que es el punto más vulnerable al forzado mediante métodos como el bumping o la ganzúa.
 
 ---
 
 Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico y equipos propios. Ver [la carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicita un presupuesto](/es/contacto). Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
-      it: `## Perché la porta d'ingresso è il punto critico di sicurezza di ogni abitazione
+      it: `## Perché la porta d’ingresso è il punto critico di sicurezza della casa
 
-Le statistiche europee mostrano che **oltre il 70% dei furti in abitazione** avviene attraverso la porta d'ingresso principale o posteriore — non dalle finestre. La soluzione moderna combina due livelli di protezione: **meccanico** (costruzione certificata RC 2–RC 4) e **biometrico** (impronta digitale, PIN o badge).
+Le statistiche europee del settore della sicurezza residenziale mostrano con costanza che **oltre il 70 % dei furti in abitazione** avviene attraverso la porta d’ingresso principale o quella di servizio — non dalle finestre o da altri accessi. Il motivo è semplice: le porte sono aperture ampie, con un’unica zona di bloccaggio (la serratura) e spesso con cilindri vulnerabili allo scasso.
+
+La risposta moderna combina due livelli di protezione:
+1. **Meccanico** — costruzione robusta certificata, classi di resistenza RC 2–RC 4
+2. **Biometrico** — accesso con impronta digitale, codice PIN o tessera, che elimina la debolezza dei cilindri classici
 
 ---
 
-## Classi di resistenza — cosa significano RC 2, RC 3, RC 4
+## Le classi di resistenza antieffrazione — che cosa significano RC 2, RC 3 e RC 4
 
-| Classe | Tempo di resistenza | Strumenti dell'aggressore | Applicazione tipica |
+La classificazione europea EN 1627 definisce **sei classi di resistenza** (RC 1–RC 6) per porte e finestre, in base al tempo e agli utensili necessari a un malintenzionato per forzare il prodotto:
+
+| Classe | Tempo di resistenza | Utensili del malintenzionato | Applicazione tipica |
 |---|---|---|---|
-| **RC 2** | **3 minuti** | **Leve, cacciaviti** | **Appartamenti standard** |
-| **RC 3** | **5 minuti** | **Scalpelli, piede di porco** | **Villa residenziale** |
-| **RC 4** | **10 minuti** | **Sega, trapano** | **Proprietà ad alto rischio** |
+| RC 1 | 3 minuti | Forza fisica | Porte interne, di servizio |
+| **RC 2** | **3 minuti** | **Leve, cacciaviti** | **Standard per appartamenti** |
+| **RC 3** | **5 minuti** | **Scalpelli, piede di porco** | **Casa unifamiliare, villa** |
+| **RC 4** | **10 minuti** | **Sega, trapano** | **Immobili ad alto rischio** |
+| RC 5 | 15 minuti | Utensili elettrici | Commerciale, istituzionale |
+| RC 6 | 20 minuti | Utensili elettrici avanzati | Banche, gioiellerie |
+
+**La raccomandazione di Neofort BIZ:**
+- **Case e ville a Bucarest e nell’Ilfov** — almeno **RC 3**
+- **Zone ad alto rischio o proprietà isolate** — **RC 4**
+- **Appartamenti** — **RC 2** è sufficiente, RC 3 offre tranquillità in più
 
 ---
 
-## Il sistema di impronta digitale — perché elimina la vulnerabilità della chiave classica
+## La costruzione di una porta antieffrazione in alluminio e acciaio
 
-Una chiave classica può essere copiata, persa o rubata. Un cilindro di serratura può essere aperto con bumping o grimaldelli in pochi secondi. L'accesso tramite impronta digitale elimina completamente queste vulnerabilità: non può essere copiata né persa, e la revoca dell'accesso a un utente richiede 3 secondi.
+### La struttura dell’anta
 
-I sistemi moderni si integrano con Wi-Fi, Bluetooth, Alexa, Google Home e sistemi di allarme — ideali per le **smart home** a Roma, Milano, Bucarest e in tutta Europa.
+Una porta antieffrazione costruita correttamente ha:
 
-**Neofort BIZ produce e installa porte antieffrazione in alluminio e metallo su misura, con personalizzazione completa di dimensioni, finiture e sistemi di accesso.**
+- **Il nucleo** — lamiere di acciaio da 1,5–3 mm di spessore, disposte su più strati, con riempimento in **lana di basalto** (isolamento termico e acustico più resistenza allo scasso)
+- **Il telaio** — profilo in acciaio o alluminio estruso, con spessori minimi certificati
+- **Il rivestimento esterno** — alluminio verniciato elettrostaticamente in qualsiasi colore RAL, vetro temprato o legno lamellare su richiesta
 
-**Per un preventivo:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
+### Il sistema di chiusura multipunto
+
+Una serratura con **un solo punto di bloccaggio** resiste meno di un sistema multipunto, indipendentemente dalla classe del cilindro. Le porte antieffrazione dalla RC 3 in su comprendono:
+
+- Almeno **5 punti di bloccaggio** (catenacci e ganci su 3 lati dell’anta)
+- **Catenacci in acciaio Ø14–18 mm** — resistenti agli urti e alla forzatura
+- **Ganci di bloccaggio** — impediscono che l’anta si pieghi sotto l’azione di una leva
+- **Placche di protezione del cilindro** — in acciaio temprato, impediscono l’estrazione del cilindro
+
+### Il telaio fisso e il suo ancoraggio nella muratura
+
+Anche il sistema più robusto perde efficacia se il telaio è ancorato male. Neofort BIZ utilizza:
+- Un **telaio in acciaio** di almeno 2 mm di spessore, in profili chiusi
+- **Almeno 4 ancoraggi** per lato — fissaggio nella muratura o nel calcestruzzo con tasselli chimici
+- **Profili di tenuta EPDM** su 3 lati — isolamento termico e acustico
+
+---
+
+## Il sistema di comando con impronta digitale
+
+### Il sensore biometrico
+
+Il sensore di impronta integrato nella maniglia o nella placca di accesso è uno **scanner ottico o capacitivo** che:
+- Acquisisce e digitalizza l’impronta in meno di **0,5 secondi**
+- La confronta con un massimo di **200 impronte memorizzate** (utenti autorizzati)
+- Apre la serratura elettricamente in caso di corrispondenza, oppure mostra un codice di rifiuto
+- Funziona a temperature da **−20 °C a +65 °C**
+- Alimentazione: **batterie AA** (6–12 mesi di autonomia) o cavo a 12 V
+
+### I metodi di accesso disponibili
+
+I sistemi moderni offrono più metodi di accesso, configurabili in modo indipendente:
+
+| Metodo | Sicurezza | Comodità |
+|---|---|---|
+| **Impronta digitale** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Codice PIN** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Tessera RFID / NFC** | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| **Bluetooth (smartphone)** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| **Chiave meccanica** | ⭐⭐ | ⭐⭐ |
+| **Combinato (2FA)** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+
+### Perché l’impronta elimina la debolezza della chiave classica
+
+La chiave classica ha un difetto di sicurezza fondamentale: può essere **copiata** (a volte all’insaputa del proprietario), **persa** o **rubata**. Un cilindro può essere forzato con le tecniche di **bumping** o **picking** in pochi secondi da un malintenzionato esperto, indipendentemente dalla marca o dal prezzo.
+
+**L’impronta digitale elimina del tutto queste vulnerabilità:**
+- Non può essere copiata senza la presenza fisica del dito
+- Non si perde e non resta a casa
+- Revocare l’accesso di un utente richiede tre secondi dal menu
+
+### Integrazione con i sistemi smart home
+
+I sistemi di accesso biometrico moderni si integrano con:
+- **Protocolli Wi-Fi e Bluetooth** — controllo e monitoraggio da app mobile
+- **Alexa e Google Home** — comandi vocali per bloccare e sbloccare
+- **Sistemi di allarme** — attivazione automatica in caso di tentativo di effrazione
+- **Telecamere** — registrazione automatica all’accesso o al tentativo non autorizzato
+
+---
+
+## Produzione e posa in Neofort BIZ
+
+Neofort BIZ produce porte antieffrazione **su misura**, personalizzate per ogni progetto:
+
+### Opzioni di personalizzazione
+- **Dimensioni** — qualsiasi misura, comprese porte doppie e con sopraluce
+- **Materiale esterno** — alluminio verniciato RAL, vetro temprato, pannelli metallici forati
+- **Colori** — qualsiasi colore RAL o pellicola effetto legno
+- **Vetrazioni** — vetro temprato, vetrocamera, vetro opaco (satinato o stampato)
+- **Sistemi di accesso** — impronta, PIN, tessera, Bluetooth o combinazione
+
+### Il processo di produzione e posa
+1. **Consulenza e progetto** — sopralluogo, rilievo, proposta di soluzione
+2. **Produzione** — 15–25 giorni lavorativi
+3. **Posa professionale** — squadra specializzata, 4–8 ore per porta
+4. **Certificato di garanzia** — copertura completa su prodotto e manodopera
+5. **Assistenza** — interventi rapidi per regolazioni o ricambi in garanzia
+
+Vedete anche [i nostri serramenti in alluminio](/it/infissi-alluminio) oppure [contattateci](/it/contatti) per una consulenza in sede.
+
+**Richiedere un preventivo:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
 
 ## Domande frequenti
 
-### Da dove avvengono la maggior parte dei furti in un'abitazione?
+### Da dove avviene la maggior parte dei furti in abitazione?
 
-Le statistiche europee mostrano che oltre il 70% dei furti residenziali avviene attraverso la porta d'ingresso principale o secondaria — non dalle finestre. Il motivo: le porte sono grandi aperture con un'unica zona di bloccaggio (la serratura) e spesso cilindri vulnerabili al forzamento.
+Le statistiche europee mostrano che oltre il 70 % dei furti in abitazione avviene attraverso la porta d’ingresso principale o quella di servizio — non dalle finestre. Il motivo: le porte sono aperture ampie, con un’unica zona di bloccaggio (la serratura) e spesso con cilindri vulnerabili allo scasso.
 
-### Cosa significano le classi di resistenza antieffrazione RC 2, RC 3 e RC 4?
+### Che cosa significano le classi antieffrazione RC 2, RC 3 e RC 4?
 
-Secondo EN 1627, RC 2 resiste 3 minuti a leve e cacciaviti (standard appartamenti), RC 3 resiste 5 minuti a scalpelli e piede di porco (ville residenziali), e RC 4 resiste 10 minuti a sega e trapano (obiettivi ad alto rischio).
+Secondo la EN 1627, la RC 2 resiste 3 minuti a leve e cacciaviti (standard per appartamenti), la RC 3 resiste 5 minuti a scalpelli e piede di porco (case unifamiliari e ville) e la RC 4 resiste 10 minuti a sega e trapano (immobili ad alto rischio).
 
-### Quale classe antieffrazione è consigliata per una villa a Bucarest?
+### Quale classe antieffrazione si consiglia per una villa a Bucarest?
 
-Per case e ville a Bucarest e Ilfov si consiglia minimo la classe RC 3, che resiste 5 minuti a un attacco con scalpelli e piede di porco. Per appartamenti, lo standard RC 2 (3 minuti) è di solito sufficiente.
+Per case e ville a Bucarest e nell’Ilfov si consiglia almeno la classe RC 3, che resiste 5 minuti a un attacco con scalpelli e piede di porco. Per gli appartamenti lo standard RC 2 (3 minuti) è di norma sufficiente.
 
-### Come elimina l'accesso biometrico la vulnerabilità dei cilindri classici?
+### Come elimina l’accesso biometrico la debolezza dei cilindri classici?
 
-Le porte antieffrazione moderne combinano protezione meccanica (costruzione RC 2-RC 4) con accesso biometrico — impronta digitale, codice PIN o carta. L'accesso biometrico elimina il cilindro classico, il punto più vulnerabile al forzamento con metodi come bumping o picking.
+Le porte antieffrazione moderne uniscono la protezione meccanica (costruzione RC 2–RC 4) all’accesso biometrico — impronta digitale, codice PIN o tessera. L’accesso biometrico elimina il cilindro classico, che è il punto più vulnerabile a metodi come il bumping o il picking.
 
 ---
 
