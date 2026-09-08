@@ -21042,7 +21042,7 @@ Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilf
     },
     keywords: 'montaj geamuri agabaritice robot ventuze, robot montaj sticla mari dimensiuni, ventuze vacuum sticla grea, manipulare sticla 300 400 500 kg, TGT RoboCrane montaj geam, montaj vitrina comerciala robot Bucuresti, montaj panou sticla pesant echipament specializat',
     content: {
-      ro: `## De ce nu se poate monta sticla agabarită manual
+      ro: `## De ce nu se poate monta sticla agabaritică manual
 
 Un calcul simplu explică totul:
 
@@ -21074,7 +21074,7 @@ O ventuză industrială de 200mm diametru la 0,85 bar vid generează o forță d
 
 ### Sistemul TGT RoboCrane — echipamentul pe care îl folosim
 
-**TGT RoboCrane 1400** este sistemul de referință european pentru [montaj](/ro/servicii) sticlă agabarită:
+**TGT RoboCrane 1400** este sistemul de referință european pentru [montaj](/ro/servicii) sticlă agabaritică:
 
 - **Capacitate maximă:** 1.400 kg per panou
 - **Înălțime de lucru:** până la 10 m
@@ -21087,13 +21087,13 @@ O ventuză industrială de 200mm diametru la 0,85 bar vid generează o forță d
 ### Sistemul de vid dublu — siguranță certificată
 
 Robotul folosește **2 circuite de vid independente** conform EN 13155:
-- Dacă unul din circuite cedează, celălalt menține panoului suspendat
+- Dacă unul din circuite cedează, celălalt menține panoul suspendat
 - Alarmă sonoră și vizuală la scăderea presiunii sub prag de siguranță
 - Timp de menținere vid fără alimentare electrică: **minimum 15 minute** (acumulatori)
 
 ---
 
-## Pașii unui montaj profesional de sticlă agabarită
+## Pașii unui montaj profesional de sticlă agabaritică
 
 ### Etapa 1 — Evaluarea șantierului (ziua precedentă)
 
@@ -21101,7 +21101,7 @@ Verificăm: accesul camionului cu sticla, spațiul de manevră pentru robotul pe
 
 ### Etapa 2 — Transportul specializat
 
-Panourile agabaritice se transportă **vertical**, în rastele speciale cu separatoare din burete. Camionul dedic transportului sticlei mari are podea coborâtă și sisteme de blocare a rastelelor.
+Panourile agabaritice se transportă **vertical**, în rastele speciale cu separatoare din burete. Camionul dedicat transportului sticlei mari are podea coborâtă și sisteme de blocare a rastelelor.
 
 Descărcarea: cu macaraua camionului sau cu robotul — panourile nu aterizează niciodată orizontal (risc de spargere).
 
@@ -21117,13 +21117,13 @@ Robotul se apropie de panoul vertical din rastel, ventuzele aderă la suprafaț�
 
 ### Etapa 5 — Ridicarea și poziționarea
 
-Operatorul cu telecomanda ridică panoului, îl roteaze dacă e necesar (ex: panou vertical → orizontal pentru luminatoare), îl deplasează lateral și îl poziționează cu precizie milimetrică în dreptul structurii de prindere.
+Operatorul cu telecomanda ridică panoul, îl rotește dacă e necesar (ex: panou vertical → orizontal pentru luminatoare), îl deplasează lateral și îl poziționează cu precizie milimetrică în dreptul structurii de prindere.
 
 **Timp mediu de poziționare** per panou 300×400 cm: **8–15 minute** cu robot vs **imposibil** manual.
 
 ### Etapa 6 — Fixarea definitivă
 
-Odată panou pozițional corect, echipa fixează elementele de prindere (bolțuri spider, profil [aluminiu](/ro/tamplarie-aluminiu), silicon structural). Robotul menține panoului susținut până la întărirea silicone (minimum 30 minute).
+Odată panoul poziționat corect, echipa fixează elementele de prindere (bolțuri spider, profil [aluminiu](/ro/tamplarie-aluminiu), silicon structural). Robotul menține panoul susținut până la întărirea siliconului (minimum 30 minute).
 
 ---
 
@@ -21145,7 +21145,7 @@ Odată panou pozițional corect, echipa fixează elementele de prindere (bolțur
 
 **Scenarii frecvente de accident pe șantierele din România:**
 
-- Panou „alunecat" din mâinile echipei → spargere completă (sticla securizată se farâmă instantaneu la impact)
+- Panou „alunecat" din mâinile echipei → spargere completă (sticla securizată se fărâmă instantaneu la impact)
 - Echipier prins sub panou căzut → fracturi, riscuri fatale
 - Panou montat cu eroare de 5mm → sigiliu defect, infiltrații de apă în 6 luni, reclamație
 - Panou nefixat corect în spider fitting → căzut după câteva zile de la montaj
@@ -21154,7 +21154,7 @@ Odată panou pozițional corect, echipa fixează elementele de prindere (bolțur
 
 ---
 
-## Prețuri orientative montaj specializat sticlă agabarită — 2026
+## Prețuri orientative montaj specializat sticlă agabaritică — 2026
 
 > ⚠️ **Notă importantă:** Prețurile sunt orientative. Se pot modifica în funcție de complexitatea șantierului, distanță și disponibilitatea echipamentului. Solicitați ofertă actualizată.
 
@@ -21170,7 +21170,7 @@ Odată panou pozițional corect, echipa fixează elementele de prindere (bolțur
 
 ## Întrebări frecvente
 
-### De ce nu se poate monta sticla agabarită manual?
+### De ce nu se poate monta sticla agabaritică manual?
 
 Un panou de sticlă securizată de 3.000 × 4.000 mm la 10 mm cântărește 300 kg, iar un termopan 3×5 m ajunge la 500+ kg. Nicio echipă nu poate manipula fizic aceste greutăți fără risc major de spargere, accidentare gravă și imposibilitatea poziționării precise (erori de 2-3 mm distrug etanșarea).
 
@@ -22072,7 +22072,7 @@ Pereți cortină CW50/CW60, geam reflexiv sau Low-E, jaluzele integrate, uși de
 Structură aluminiu + izolație + placaj exterior (ACM, HPL, piatră, lemn termotratat). Proiectare inclusă, calcule termice și detalii de execuție.
 
 ### Spații comerciale și retail
-Vitrine showroom, uși glisante automate, pereți de sticlă interiori, compartimentări. Inclusiv sticlă agabarită montată cu echipament robot.
+Vitrine showroom, uși glisante automate, pereți de sticlă interiori, compartimentări. Inclusiv sticlă agabaritică montată cu echipament robot.
 
 ### Vile și case individuale premium
 Sisteme glisante liftant, ferestre panoramice, pergole cu tâmplărie, fațade parțiale sticlă-aluminiu.
@@ -22130,106 +22130,233 @@ Tâmplăria aluminiu poate fi vopsită electrostatic în orice culoare RAL. La p
 Neofort BIZ execută pereți cortină și fațade din sticlă pentru clădiri de birouri și spații comerciale, în București și Ilfov. [Trimite-ne planurile de fațadă](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim.
 `,
 
-      en: `## Neofort BIZ Portfolio — completed projects Bucharest 2025–2026
+      en: `## The Neofort BIZ portfolio — completed projects in Bucharest 2025–2026
+
+Neofort BIZ supplies and coordinates the [installation](/en/services) of [aluminium joinery](/en/aluminium-windows), curtain walls and glass facades in Bucharest and Ilfov. Every project presented below was delivered in full by our team, from surveying and documentation through to installation and handover. For the complete context, read [the guide to thermally broken aluminium joinery](/en/blog/aluminium-windows-thermal-break-complete-guide).
 
 ---
 
 ## Project 1 — New residential block, Delea Veche, Sector 2
 
-**System:** Reynaers ConceptSystem 77 | **Total area:** ~800 m² | **Completed:** 2025
+**System:** Reynaers ConceptSystem 77 | **Total area:** approx. 800 sqm | **Completed:** 2025
 
-Delivered: Reynaers CS 77 tilt-and-turn windows for all apartments (double Low-E 4+16+4 argon), Reynaers ConceptPatio lift-and-slide balcony doors, block entrance door with access control. Colour: RAL 7016 anthracite exterior, white interior.
+Delea Veche is one of the most intensely developed residential areas in Sector 2 — a district in rapid transformation, with young buyers and high expectations of the finishes.
+
+**What we delivered:**
+- Reynaers CS 77 tilt-and-turn windows throughout the apartments (double Low-E glazing 4+16+4 argon)
+- Balcony doors with the Reynaers ConceptPatio lift-and-slide system
+- Building entrance door in Reynaers CS 77 with access control and toughened glass
+- Communal doors on the stairwell — Reynaers with thermal break
+
+**Colour:** RAL 7016 matt anthracite outside, white inside
+
+**The technical challenge:** a ground-plus-eight block, where the upper floor windows had to be lifted with a platform hoist. Full coordination with the general contractor for delivery in batches, floor by floor.
 
 ---
 
-## Project 2 — Office building, Floreasca–Barbu Văcărescu area
+## Project 2 — Office building, Floreasca–Barbu Văcărescu district
 
-**System:** Alumil CW50 + Alumil Smartia S67 | **Facade area:** ~1,200 m² | **Completed:** 2025
+**System:** Alumil CW50 with Alumil Smartia S67 | **Facade area:** approx. 1,200 sqm | **Completed:** 2025
 
-Delivered: Alumil CW50 standard [curtain wall](/en/services) on south and west facades, reflective Low-E double glazing 6+16+6 (g = 0.27), Alumil Smartia S67 windows on north and east facades. BREEAM Very Good Uw: 1.3 W/m²K.
+The Floreasca–Barbu Văcărescu district is the core of the class A office market in Bucharest. A project with BREEAM Very Good certification requirements.
+
+**What we delivered:**
+- Standard Alumil CW50 curtain wall on the main south and west elevations
+- Reflective double Low-E glazing 6+16+6 for solar control (g = 0.27)
+- Alumil Smartia S67 tilt-and-turn windows on the north and east elevations
+- Main access doors — Alumil with RC2 anti-burglary hardware and integrated access control
+- 80 mm Raffstore blinds integrated into the curtain wall cassette (south elevation)
+
+**Facade assembly Uw:** 1.3 W/m²K — meeting BREEAM Very Good
 
 ---
 
 ## Project 3 — Ventilated aluminium facade, mixed-use building, Sector 3
 
-**System:** Alumil + ACM panels (Alucobond) | **Area:** ~600 m² | **Completed:** 2024
+**System:** Alumil with ACM panels (Alucobond) | **Area:** approx. 600 sqm | **Completed:** 2024
 
-Delivered: Alumil extruded [aluminium](/en/aluminium-windows) load-bearing structure, 15 cm basalt wool thermal insulation, Alucobond 4mm exterior cladding (brushed silver), Alumil Smartia S67 complementary joinery.
+Ventilated facades combine a load-bearing aluminium structure with an outer layer of ACM panels (aluminium composite), heat-treated timber or stone. The circulating air gap between the insulation and the cladding eliminates condensation and provides natural drainage.
+
+**What we delivered:**
+- Load-bearing structure in extruded Alumil aluminium profiles
+- 15 cm basalt wool thermal insulation fixed to the metal structure
+- Exterior cladding in 4 mm Alucobond panels with a brushed silver finish
+- Infill joinery in Alumil Smartia S67 within the existing openings
+- Perimeter flashing and corner cassettes in aluminium
+
+**The difference against conventional render:** a ventilated facade eliminates thermal bridges, extends the life of the insulation and removes the “breathing building” effect — condensation no longer accumulates within the body of the wall.
 
 ---
 
-## Indicative prices for Bucharest projects — 2026
+## The types of project we take on in Bucharest and Ilfov
 
-> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+### New residential buildings (blocks, developments)
+From 20 to 500+ apartments. Full coordination with the developer and the general contractor. Delivery in batches by floor or by stairwell. Complete CE documentation for the building file.
 
-| Project type | Estimate per m² |
+### Commercial and office buildings
+CW50/CW60 curtain walls, reflective or Low-E glazing, integrated blinds, automatic access doors. Support for BREEAM and LEED certification.
+
+### Ventilated facades
+Aluminium structure with insulation and exterior cladding (ACM, HPL, stone, heat-treated timber). Design included, along with thermal calculations and construction details.
+
+### Retail and commercial units
+Showroom shopfronts, automatic sliding doors, interior glass walls, partitions. Including oversized glass installed with robotic equipment.
+
+### Premium villas and individual houses
+Lift-and-slide systems, panoramic windows, pergolas with joinery, partial glass-and-aluminium facades.
+
+---
+
+## Indicative project prices in Bucharest — 2026
+
+> ⚠️ **Important note:** the prices are indicative and reflect conditions as at March 2026. The cost of aluminium and labour can change. Always ask for an up-to-date quotation.
+
+| Type of work | Estimate per sqm |
 |---|---|
-| Alumil Smartia S67 aluminium joinery | 250–400 EUR/m² |
-| Reynaers CS 77 aluminium joinery | 400–600 EUR/m² |
-| Alumil CW50 curtain wall | 150–250 EUR/m² |
-| Semi-structural curtain wall | 250–400 EUR/m² |
-| Ventilated facade aluminium + ACM | 180–320 EUR/m² |
-| Structural curtain wall | 400–600 EUR/m² |
+| Alumil Smartia S67 aluminium joinery | 250–400 EUR/sqm |
+| Reynaers CS 77 aluminium joinery | 400–600 EUR/sqm |
+| Alumil CW50 curtain wall | 150–250 EUR/sqm |
+| Semi-structural curtain wall | 250–400 EUR/sqm |
+| Ventilated aluminium and ACM facade | 180–320 EUR/sqm |
+| Structural curtain wall | 400–600 EUR/sqm |
+
+*Prices include materials, installation and CE documentation. They exclude transport over 50 km and any structural preparation works.*
+
+---
+
+## How to get a quotation for your project
+
+**Step 1:** Send us the drawings or photographs of the facade or building by WhatsApp or email.
+
+**Step 2:** The Neofort BIZ technical team assesses the project and asks for further information if needed.
+
+**Step 3:** You receive a detailed quotation with system specifications, prices per element and an estimated total — within **48–72 hours**.
 
 **WhatsApp Projects:** +40 752 443 439 | **Mon–Fri 10–18**
 
-## Frequently Asked Questions
+## Frequently asked questions
 
-### What types of aluminium joinery work does Neofort BIZ carry out in Bucharest?
+### What kinds of aluminium joinery projects does Neofort BIZ carry out in Bucharest?
 
-Neofort BIZ is a supplier and installation coordinator for aluminium joinery, curtain walls and glass façades in Bucharest and Ilfov. Each project is delivered entirely by the team, from measurements and documentation through to installation and handover.
+Neofort BIZ supplies and coordinates the installation of aluminium joinery, curtain walls and glass facades in Bucharest and Ilfov. Every project is delivered in full by the team, from surveying and documentation through to installation and handover.
 
-### Which aluminium systems did Neofort BIZ use at the Delea Veche building?
+### Which aluminium systems did Neofort BIZ use on the Delea Veche block?
 
-At the new residential building in Delea Veche, Sector 2 (~800 m², completed 2025), Neofort BIZ installed the Reynaers ConceptSystem 77: tilt-and-turn windows with double Low-E 4+16+4 argon glazing and Reynaers ConceptPatio lift-and-slide balcony doors.
+On the new residential block in Delea Veche, Sector 2 (approx. 800 sqm, completed in 2025), Neofort BIZ installed the Reynaers ConceptSystem 77: tilt-and-turn windows with double Low-E glazing 4+16+4 argon and Reynaers ConceptPatio lift-and-slide balcony doors.
 
-### Does Neofort BIZ work on new residential projects in Bucharest?
+### Does Neofort BIZ work on new residential developments in Bucharest?
 
-Yes. The portfolio includes new residential buildings in areas of intense construction such as Delea Veche, Sector 2 — fast-changing neighbourhoods with young buyers and high expectations for aluminium and glass finishes.
+Yes. The portfolio includes new residential blocks in areas of intense construction activity such as Delea Veche, Sector 2 — districts in rapid transformation, with young buyers and high expectations of aluminium and glass finishes.
 
 ### What aluminium joinery colours are available on Neofort BIZ projects?
 
-Aluminium joinery can be electrostatically coated in any RAL colour. On residential projects, a frequent combination is RAL 7016 matt anthracite outside with white inside — the preferred finish for modern architecture in Bucharest.
+Aluminium joinery can be electrostatically coated in any RAL colour. On residential projects, a frequent combination is RAL 7016 matt anthracite outside with white inside — the preferred finish for contemporary architecture in Bucharest.
 
 ---
 
-Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
+Neofort BIZ builds curtain walls and glass facades for office buildings and commercial premises in Bucharest and Ilfov. [Send us the facade drawings](/en/contact) and you will receive a quote within 48 hours. See [the aluminium joinery range](/en/aluminium-windows) we offer.`,
 
-      de: `## Neofort BIZ Portfolio — abgeschlossene Projekte Bukarest 2025–2026
+      de: `## Das Portfolio von Neofort BIZ — abgeschlossene Projekte in Bukarest 2025–2026
 
----
-
-## Projekt 1 — Neuer Wohnblock, Delea Veche, Sektor 2
-**System:** Reynaers CS 77 | **Gesamtfläche:** ~800 m² | **Fertiggestellt:** 2025
-
-Geliefert: Reynaers CS 77 Dreh-Kipp-Fenster, ConceptPatio Hebeschiebetüren, Hauseingangstür mit Zutrittskontrolle. RAL 7016 Anthrazit außen, weiß innen.
+Neofort BIZ liefert und koordiniert die [Montage](/de/dienstleistungen) von [Aluminiumfenstern](/de/aluminiumfenster), Vorhangfassaden und Glasfassaden in Bukarest und Ilfov. Jedes der nachstehend vorgestellten Projekte wurde vollständig von unserem Team abgewickelt, vom Aufmaß und der Dokumentation bis zu Montage und Abnahme. Für den vollständigen Zusammenhang lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmbrücke](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
 
 ---
 
-## Projekt 2 — Bürogebäude, Floreasca–Barbu Văcărescu
-**System:** Alumil CW50 + Smartia S67 | **Fassadenfläche:** ~1.200 m² | **Fertiggestellt:** 2025
+## Projekt 1 — Neubau-Wohnblock, Delea Veche, Sektor 2
 
-Alumil CW50 [Vorhangfassade](/de/aluminiumfenster), Reflexions-Isolierglas 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
+**System:** Reynaers ConceptSystem 77 | **Gesamtfläche:** rund 800 m² | **Fertigstellung:** 2025
+
+Delea Veche ist eines der am intensivsten bebauten Wohngebiete im Sektor 2 — ein Viertel im schnellen Wandel, mit jungen Käufern und hohen Erwartungen an die Ausstattung.
+
+**Was wir geliefert haben:**
+- Reynaers CS 77 Dreh-Kipp-Fenster in allen Wohnungen (Zweifach-Low-E-Glas 4+16+4 mit Argon)
+- Balkontüren mit dem Hebe-Schiebe-System Reynaers ConceptPatio
+- Hauseingangstür aus Reynaers CS 77 mit Zutrittskontrolle und Sicherheitsglas
+- Gemeinschaftstüren im Treppenhaus — Reynaers mit thermischer Trennung
+
+**Farbe:** RAL 7016 Anthrazit matt außen, weiß innen
+
+**Die technische Herausforderung:** ein Gebäude mit acht Obergeschossen, bei dem die Fenster der oberen Etagen mit einer Hebebühne transportiert werden mussten. Vollständige Abstimmung mit dem Generalunternehmer für die etagenweise Lieferung in Tranchen.
 
 ---
 
-## Projekt 3 — Hinterlüftete Aluminiumfassade, Sektor 3
-**System:** Alumil + ACM-Platten | **Fläche:** ~600 m² | **Fertiggestellt:** 2024
+## Projekt 2 — Bürogebäude, Gebiet Floreasca–Barbu Văcărescu
 
-Alumil Tragstruktur, 15 cm Basaltwolle, Alucobond 4mm Außenverkleidung.
+**System:** Alumil CW50 mit Alumil Smartia S67 | **Fassadenfläche:** rund 1.200 m² | **Fertigstellung:** 2025
+
+Das Gebiet Floreasca–Barbu Văcărescu ist der Kern des Class-A-Büromarkts in Bukarest. Ein Projekt mit den Anforderungen der Zertifizierung BREEAM Very Good.
+
+**Was wir geliefert haben:**
+- Standard-Vorhangfassade Alumil CW50 an der Haupt-, Süd- und Westfassade
+- Reflektierendes Zweifach-Low-E-Glas 6+16+6 für den Sonnenschutz (g = 0,27)
+- Dreh-Kipp-Fenster Alumil Smartia S67 an der Nord- und Ostfassade
+- Hauptzugangstüren — Alumil mit einbruchhemmendem Beschlag RC2 und integrierter Zutrittskontrolle
+- Raffstore-Jalousien 80 mm, integriert in den Kasten der Vorhangfassade (Südfassade)
+
+**Uw der Fassadenkonstruktion:** 1,3 W/m²K — entsprechend BREEAM Very Good
 
 ---
 
-## Richtpreise Bukarest Projekte — 2026
+## Projekt 3 — Hinterlüftete Aluminiumfassade, Mischgebäude, Sektor 3
 
-> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+**System:** Alumil mit ACM-Platten (Alucobond) | **Fläche:** rund 600 m² | **Fertigstellung:** 2024
 
-| Projekttyp | Schätzung pro m² |
+Hinterlüftete Fassaden verbinden eine tragende Aluminiumkonstruktion mit einer äußeren Schicht aus ACM-Platten (Aluminiumverbund), thermisch behandeltem Holz oder Stein. Der durchströmte Luftraum zwischen Dämmung und Bekleidung verhindert Kondensat und sorgt für natürliche Entwässerung.
+
+**Was wir geliefert haben:**
+- Tragende Konstruktion aus stranggepressten Alumil-Aluminiumprofilen
+- Wärmedämmung aus 15 cm Basaltwolle, auf der Metallkonstruktion befestigt
+- Außenbekleidung aus 4 mm Alucobond-Platten mit silbern gebürsteter Oberfläche
+- Ergänzende Fenster Alumil Smartia S67 in den vorhandenen Öffnungen
+- Umlaufende Abdeckbleche und Eckkassetten aus Aluminium
+
+**Der Unterschied zum klassischen Putz:** Die hinterlüftete Fassade beseitigt Wärmebrücken, verlängert die Lebensdauer der Dämmung und hebt den Effekt des „atmenden Gebäudes" auf — Kondensat sammelt sich nicht mehr in der Wandmasse.
+
+---
+
+## Welche Projekte wir in Bukarest und Ilfov übernehmen
+
+### Wohnungsneubauten (Blocks, Anlagen)
+Von 20 bis über 500 Wohnungen. Vollständige Abstimmung mit Bauträger und Generalunternehmer. Lieferung in Tranchen je Etage oder je Treppenhaus. Komplette CE-Dokumentation für die Bauakte.
+
+### Gewerbe- und Bürogebäude
+Vorhangfassaden CW50/CW60, Reflexions- oder Low-E-Glas, integrierte Jalousien, automatische Zugangstüren. Unterstützung für Zertifizierungen nach BREEAM und LEED.
+
+### Hinterlüftete Fassaden
+Aluminiumkonstruktion mit Dämmung und Außenbekleidung (ACM, HPL, Stein, thermisch behandeltes Holz). Planung inbegriffen, samt Wärmeschutznachweisen und Ausführungsdetails.
+
+### Handels- und Ladenflächen
+Showroom-Schaufenster, automatische Schiebetüren, Glaswände im Innenbereich, Abtrennungen. Einschließlich Übergrößenglas, mit Robotertechnik eingebaut.
+
+### Villen und hochwertige Einfamilienhäuser
+Hebe-Schiebe-Systeme, Panoramafenster, Pergolen mit Rahmenkonstruktion, teilweise Glas-Aluminium-Fassaden.
+
+---
+
+## Richtpreise für Arbeiten in Bukarest — 2026
+
+> ⚠️ **Wichtiger Hinweis:** Die Preise sind Richtwerte und geben den Stand von März 2026 wieder. Die Kosten für Aluminium und Arbeitsleistung können sich ändern. Fordern Sie stets ein aktuelles Angebot an.
+
+| Art der Arbeit | Schätzung je m² |
 |---|---|
-| Alumil Smartia S67 | 250–400 EUR/m² |
-| Reynaers CS 77 | 400–600 EUR/m² |
-| Alumil CW50 Vorhangfassade | 150–250 EUR/m² |
-| Hinterlüftete Fassade Aluminium + ACM | 180–320 EUR/m² |
+| Aluminiumfenster Alumil Smartia S67 | 250–400 EUR/m² |
+| Aluminiumfenster Reynaers CS 77 | 400–600 EUR/m² |
+| Vorhangfassade Alumil CW50 | 150–250 EUR/m² |
+| Halbstrukturelle Vorhangfassade | 250–400 EUR/m² |
+| Hinterlüftete Fassade Aluminium und ACM | 180–320 EUR/m² |
+| Strukturelle Vorhangfassade | 400–600 EUR/m² |
+
+*Die Preise umfassen Material, Montage und CE-Dokumentation. Nicht enthalten sind Transporte über 50 km sowie Vorarbeiten an der Tragkonstruktion.*
+
+---
+
+## So erhalten Sie ein Angebot für Ihr Projekt
+
+**Schritt 1:** Senden Sie uns die Pläne oder Fotos der Fassade beziehungsweise des Gebäudes per WhatsApp oder E-Mail.
+
+**Schritt 2:** Das technische Team von Neofort BIZ bewertet das Projekt und fragt bei Bedarf weitere Angaben nach.
+
+**Schritt 3:** Sie erhalten ein detailliertes Angebot mit Systemspezifikationen, Preisen je Element und geschätzter Gesamtsumme — innerhalb von **48–72 Stunden**.
 
 **WhatsApp Projekte:** +40 752 443 439 | **Mo–Fr 10–18**
 
@@ -22237,189 +22364,401 @@ Alumil Tragstruktur, 15 cm Basaltwolle, Alucobond 4mm Außenverkleidung.
 
 ### Welche Arten von Aluminiumarbeiten führt Neofort BIZ in Bukarest aus?
 
-Neofort BIZ ist Lieferant und Montagekoordinator für Aluminiumprofile, Vorhangfassaden und Glasfassaden in Bukarest und Ilfov. Jedes Projekt wird vollständig vom Team geliefert, von Aufmaß und Dokumentation bis zu Montage und Abnahme.
+Neofort BIZ liefert und koordiniert die Montage von Aluminiumfenstern, Vorhangfassaden und Glasfassaden in Bukarest und Ilfov. Jedes Projekt wird vollständig vom Team abgewickelt, vom Aufmaß und der Dokumentation bis zu Montage und Abnahme.
 
-### Welche Aluminiumsysteme nutzte Neofort BIZ beim Gebäude in Delea Veche?
+### Welche Aluminiumsysteme hat Neofort BIZ am Block in Delea Veche eingesetzt?
 
-Beim neuen Wohngebäude in Delea Veche, Sektor 2 (~800 m², fertig 2025), montierte Neofort BIZ das Reynaers ConceptSystem 77: Dreh-Kipp-Fenster mit Doppel-Low-E 4+16+4 Argon und Reynaers ConceptPatio Hebe-Schiebe-Balkontüren.
+Am Neubau-Wohnblock in Delea Veche, Sektor 2 (rund 800 m², fertiggestellt 2025), hat Neofort BIZ das System Reynaers ConceptSystem 77 montiert: Dreh-Kipp-Fenster mit Zweifach-Low-E-Glas 4+16+4 Argon und Hebe-Schiebe-Balkontüren Reynaers ConceptPatio.
 
-### Arbeitet Neofort BIZ an neuen Wohnprojekten in Bukarest?
+### Arbeitet Neofort BIZ an neuen Wohnbauprojekten in Bukarest?
 
-Ja. Das Portfolio umfasst neue Wohngebäude in Gebieten mit intensiver Bautätigkeit wie Delea Veche, Sektor 2 — sich schnell wandelnde Viertel mit jungen Käufern und hohen Erwartungen an Aluminium- und Glasoberflächen.
+Ja. Das Portfolio umfasst neue Wohnblocks in Gebieten mit intensiver Bautätigkeit wie Delea Veche, Sektor 2 — Viertel im schnellen Wandel, mit jungen Käufern und hohen Erwartungen an Ausführungen in Aluminium und Glas.
 
-### Welche Aluminiumfarben sind bei Neofort-BIZ-Projekten verfügbar?
+### Welche Farben für Aluminiumfenster sind bei Projekten von Neofort BIZ verfügbar?
 
-Aluminiumprofile können elektrostatisch in jeder RAL-Farbe beschichtet werden. Bei Wohnprojekten ist eine häufige Kombination RAL 7016 Anthrazit matt außen mit Weiß innen — das bevorzugte Finish für moderne Architektur in Bukarest.
-
----
-
-Neofort BIZ führt Aluminium- und Fassadenarbeiten in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
-
-      fr: `## Portefeuille Neofort BIZ — projets achevés Bucarest 2025–2026
+Aluminiumfenster lassen sich elektrostatisch in jeder RAL-Farbe beschichten. Bei Wohnprojekten ist eine häufige Kombination RAL 7016 Anthrazit matt außen mit Weiß innen — die bevorzugte Ausführung für zeitgenössische Architektur in Bukarest.
 
 ---
 
-## Projet 1 — Immeuble résidentiel neuf, Delea Veche, Secteur 2
-**Système :** [Reynaers](/fr/services) CS 77 | **Surface totale :** ~800 m² | **Achevé :** 2025
+Neofort BIZ errichtet Vorhangfassaden und Glasfassaden für Bürogebäude und Gewerbeflächen in Bukarest und Ilfov. [Senden Sie uns die Fassadenpläne](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster), das wir anbieten.`,
 
-Livré : fenêtres oscillo-battantes Reynaers CS 77 pour tous les appartements (double Low-E 4+16+4 argon), portes levant-coulissantes ConceptPatio, porte d'entrée avec contrôle d'accès. RAL 7016 anthracite extérieur.
+      fr: `## Le portefeuille Neofort BIZ — chantiers livrés à Bucarest 2025–2026
 
----
-
-## Projet 2 — Bâtiment de bureaux, zone Floreasca–Barbu Văcărescu
-**Système :** Alumil CW50 + Smartia S67 | **Surface [façade](/fr/menuiserie-aluminium) :** ~1.200 m² | **Achevé :** 2025
-
-Mur rideau Alumil CW50, vitrage réfléchissant Low-E 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
+Neofort BIZ fournit et coordonne la [pose](/fr/services) de [menuiseries aluminium](/fr/menuiserie-aluminium), murs-rideaux et façades vitrées à Bucarest et dans l’Ilfov. Chacun des projets présentés ci-dessous a été livré intégralement par notre équipe, du relevé et de la documentation jusqu’à la pose et la réception. Pour le contexte complet, lisez [le guide de la menuiserie aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).
 
 ---
 
-## Projet 3 — Façade ventilée aluminium, bâtiment mixte, Secteur 3
-**Système :** Alumil + panneaux ACM | **Surface :** ~600 m² | **Achevé :** 2024
+## Chantier 1 — Immeuble résidentiel neuf, Delea Veche, secteur 2
 
-Structure portante Alumil, isolation 15 cm laine de basalte, bardage Alucobond 4mm.
+**Système :** Reynaers ConceptSystem 77 | **Surface totale :** environ 800 m² | **Livraison :** 2025
+
+Delea Veche est l’un des secteurs à l’activité de construction résidentielle la plus intense du secteur 2 — un quartier en transformation rapide, avec de jeunes acquéreurs et des attentes élevées quant aux finitions.
+
+**Ce que nous avons livré :**
+- Fenêtres oscillo-battantes Reynaers CS 77 dans tous les appartements (double vitrage Low-E 4+16+4 argon)
+- Portes de balcon avec système levant-coulissant Reynaers ConceptPatio
+- Porte d’entrée d’immeuble en Reynaers CS 77 avec contrôle d’accès et verre trempé
+- Portes communes de cage d’escalier — Reynaers à rupture thermique
+
+**Teinte :** RAL 7016 anthracite mat à l’extérieur, blanc à l’intérieur
+
+**La difficulté technique :** un immeuble R+8, dont les fenêtres des étages supérieurs ont dû être montées par nacelle élévatrice. Coordination complète avec l’entreprise générale pour une livraison par tranches, étage par étage.
 
 ---
 
-## Prix indicatifs projets Bucarest — 2026
+## Chantier 2 — Immeuble de bureaux, quartier Floreasca–Barbu Văcărescu
 
-> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+**Système :** Alumil CW50 et Alumil Smartia S67 | **Surface de façade :** environ 1 200 m² | **Livraison :** 2025
 
-| Type de projet | Estimation par m² |
+Le quartier Floreasca–Barbu Văcărescu est le cœur du marché de bureaux classe A de Bucarest. Un projet soumis aux exigences de la certification BREEAM Very Good.
+
+**Ce que nous avons livré :**
+- Mur-rideau standard Alumil CW50 sur les façades principale, sud et ouest
+- Double vitrage Low-E réfléchissant 6+16+6 pour le contrôle solaire (g = 0,27)
+- Fenêtres oscillo-battantes Alumil Smartia S67 sur les façades nord et est
+- Portes d’accès principales — Alumil avec quincaillerie anti-effraction RC2 et contrôle d’accès intégré
+- Stores Raffstore 80 mm intégrés au coffre du mur-rideau (façade sud)
+
+**Uw de l’ensemble de façade :** 1,3 W/m²K — conforme à BREEAM Very Good
+
+---
+
+## Chantier 3 — Façade ventilée aluminium, bâtiment mixte, secteur 3
+
+**Système :** Alumil et panneaux ACM (Alucobond) | **Surface :** environ 600 m² | **Livraison :** 2024
+
+Les façades ventilées associent une ossature porteuse en aluminium à une peau extérieure en panneaux ACM (aluminium composite), bois traité thermiquement ou pierre. La lame d’air circulante entre l’isolant et le bardage supprime la condensation et assure un drainage naturel.
+
+**Ce que nous avons livré :**
+- Ossature porteuse en profilés aluminium extrudé Alumil
+- Isolation thermique en laine de basalte de 15 cm fixée sur l’ossature métallique
+- Bardage extérieur en panneaux Alucobond de 4 mm, finition argent brossé
+- Menuiseries de complément Alumil Smartia S67 dans les baies existantes
+- Bavettes périphériques et caissons d’angle en aluminium
+
+**La différence avec un enduit classique :** la façade ventilée supprime les ponts thermiques, prolonge la durée de vie de l’isolant et fait disparaître l’effet de « bâtiment qui respire » — la condensation ne s’accumule plus dans la masse du mur.
+
+---
+
+## Les types de projets que nous prenons en charge à Bucarest et dans l’Ilfov
+
+### Bâtiments résidentiels neufs (immeubles, ensembles)
+De 20 à plus de 500 logements. Coordination complète avec le promoteur et l’entreprise générale. Livraison par tranches, par étage ou par cage. Documentation CE complète pour le dossier de l’ouvrage.
+
+### Bâtiments commerciaux et de bureaux
+Murs-rideaux CW50/CW60, vitrage réfléchissant ou Low-E, stores intégrés, portes d’accès automatiques. Appui pour les certifications BREEAM et LEED.
+
+### Façades ventilées
+Ossature aluminium avec isolant et bardage extérieur (ACM, HPL, pierre, bois traité thermiquement). Conception incluse, avec calculs thermiques et détails d’exécution.
+
+### Commerces et surfaces de vente
+Vitrines de showroom, portes coulissantes automatiques, cloisons vitrées intérieures, séparations. Y compris vitrage hors normes posé avec un équipement robotisé.
+
+### Villas et maisons individuelles haut de gamme
+Systèmes levants-coulissants, baies panoramiques, pergolas avec menuiseries, façades partielles verre-aluminium.
+
+---
+
+## Prix indicatifs des chantiers à Bucarest — 2026
+
+> ⚠️ **Note importante :** les prix sont indicatifs et reflètent les conditions de mars 2026. Le coût de l’aluminium et de la main-d’œuvre peut évoluer. Demandez toujours un devis actualisé.
+
+| Type de travaux | Estimation au m² |
 |---|---|
-| Alumil Smartia S67 | 250–400 EUR/m² |
-| Reynaers CS 77 | 400–600 EUR/m² |
-| Mur rideau Alumil CW50 | 150–250 EUR/m² |
-| Façade ventilée aluminium + ACM | 180–320 EUR/m² |
+| Menuiserie aluminium Alumil Smartia S67 | 250–400 EUR/m² |
+| Menuiserie aluminium Reynaers CS 77 | 400–600 EUR/m² |
+| Mur-rideau Alumil CW50 | 150–250 EUR/m² |
+| Mur-rideau semi-structurel | 250–400 EUR/m² |
+| Façade ventilée aluminium et ACM | 180–320 EUR/m² |
+| Mur-rideau structurel | 400–600 EUR/m² |
 
-**WhatsApp Projets :** +40 752 443 439 | **L–V 10–18**
+*Les prix comprennent les matériaux, la pose et la documentation CE. Ils excluent le transport au-delà de 50 km et les travaux de préparation structurelle.*
+
+---
+
+## Comment obtenir un devis pour votre projet
+
+**Étape 1 :** Envoyez-nous les plans ou les photos de la façade ou du bâtiment par WhatsApp ou par email.
+
+**Étape 2 :** L’équipe technique de Neofort BIZ évalue le projet et demande des informations complémentaires si nécessaire.
+
+**Étape 3 :** Vous recevez un devis détaillé avec les spécifications du système, les prix par élément et un total estimé — sous **48 à 72 heures**.
+
+**WhatsApp Projets :** +40 752 443 439 | **Lun–Ven 10–18**
 
 ## Questions fréquentes
 
-### Quels types de travaux de menuiserie aluminium Neofort BIZ réalise-t-il à Bucarest ?
+### Quels types de travaux en aluminium Neofort BIZ réalise-t-il à Bucarest ?
 
-Neofort BIZ est fournisseur et coordinateur de pose pour menuiserie aluminium, murs-rideaux et façades en verre à Bucarest et Ilfov. Chaque projet est livré entièrement par l'équipe, des relevés et de la documentation jusqu'à la pose et la réception.
+Neofort BIZ fournit et coordonne la pose de menuiseries aluminium, murs-rideaux et façades vitrées à Bucarest et dans l’Ilfov. Chaque projet est livré intégralement par l’équipe, du relevé et de la documentation jusqu’à la pose et la réception.
 
-### Quels systèmes aluminium Neofort BIZ a-t-il utilisés à l'immeuble de Delea Veche ?
+### Quels systèmes en aluminium Neofort BIZ a-t-il employés à l’immeuble de Delea Veche ?
 
-À l'immeuble résidentiel neuf de Delea Veche, Secteur 2 (~800 m², achevé 2025), Neofort BIZ a posé le Reynaers ConceptSystem 77 : fenêtres oscillo-battantes à double vitrage Low-E 4+16+4 argon et portes de balcon levant-coulissantes Reynaers ConceptPatio.
+Sur l’immeuble résidentiel neuf de Delea Veche, secteur 2 (environ 800 m², livré en 2025), Neofort BIZ a posé le système Reynaers ConceptSystem 77 : fenêtres oscillo-battantes en double vitrage Low-E 4+16+4 argon et portes de balcon levantes-coulissantes Reynaers ConceptPatio.
 
-### Neofort BIZ travaille-t-il sur des projets résidentiels neufs à Bucarest ?
+### Neofort BIZ intervient-il sur des programmes résidentiels neufs à Bucarest ?
 
-Oui. Le portfolio comprend des immeubles résidentiels neufs dans des zones à forte activité de construction comme Delea Veche, Secteur 2 — des quartiers en mutation rapide, avec de jeunes acheteurs et des attentes élevées sur les finitions aluminium et verre.
+Oui. Le portefeuille comprend des immeubles résidentiels neufs dans des secteurs à forte activité de construction comme Delea Veche, secteur 2 — des quartiers en transformation rapide, avec de jeunes acquéreurs et des attentes élevées sur les finitions en aluminium et en verre.
 
-### Quelles couleurs de menuiserie aluminium sont disponibles sur les projets Neofort BIZ ?
+### Quelles teintes de menuiserie aluminium sont disponibles sur les chantiers Neofort BIZ ?
 
-La menuiserie aluminium peut être thermolaquée dans toute couleur RAL. Sur les projets résidentiels, une combinaison fréquente est RAL 7016 anthracite mat à l'extérieur avec blanc à l'intérieur — la finition préférée pour l'architecture moderne à Bucarest.
-
----
-
-Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
-
-      es: `## Portafolio Neofort BIZ — proyectos completados Bucarest 2025–2026
+La menuiserie aluminium peut être thermolaquée dans toute teinte RAL. Sur les projets résidentiels, une combinaison fréquente est le RAL 7016 anthracite mat à l’extérieur avec du blanc à l’intérieur — la finition privilégiée par l’architecture contemporaine à Bucarest.
 
 ---
 
-## Proyecto 1 — Bloque residencial nuevo, Delea Veche, Sector 2
-**Sistema:** [Reynaers](/es/servicios) CS 77 | **Superficie total:** ~800 m² | **Completado:** 2025
+Neofort BIZ réalise des murs-rideaux et des façades vitrées pour immeubles de bureaux et locaux commerciaux, à Bucarest et dans l’Ilfov. [Transmettez-nous les plans de façade](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme de menuiseries aluminium](/fr/menuiserie-aluminium) que nous proposons.`,
 
-Entregado: ventanas oscilobatientes Reynaers CS 77 para todos los apartamentos (doble Low-E 4+16+4 argón), puertas elevadoras-correderas ConceptPatio, puerta de entrada con control de acceso. RAL 7016 antracita exterior.
+      es: `## El portafolio de Neofort BIZ — obras terminadas en Bucarest 2025–2026
 
----
-
-## Proyecto 2 — Edificio de oficinas, zona Floreasca–Barbu Văcărescu
-**Sistema:** Alumil CW50 + Smartia S67 | **Superficie [fachada](/es/carpinteria-aluminio):** ~1.200 m² | **Completado:** 2025
-
-Muro cortina Alumil CW50, vidrio reflectante Low-E 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
+Neofort BIZ suministra y coordina la [instalación](/es/servicios) de [carpintería de aluminio](/es/carpinteria-aluminio), muros cortina y fachadas de vidrio en Bucarest e Ilfov. Cada uno de los proyectos que se presentan abajo fue entregado íntegramente por nuestro equipo, desde las mediciones y la documentación hasta el montaje y la recepción. Para el contexto completo, lea [la guía de la carpintería de aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).
 
 ---
 
-## Precios orientativos proyectos Bucarest — 2026
+## Obra 1 — Bloque residencial nuevo, Delea Veche, Sector 2
 
-> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+**Sistema:** Reynaers ConceptSystem 77 | **Superficie total:** unos 800 m² | **Terminada:** 2025
 
-| Tipo de proyecto | Estimación por m² |
+Delea Veche es una de las zonas con mayor actividad de construcción residencial del Sector 2 — un barrio en rápida transformación, con compradores jóvenes y expectativas altas respecto a los acabados.
+
+**Lo que entregamos:**
+- Ventanas oscilobatientes Reynaers CS 77 en todas las viviendas (doble acristalamiento Low-E 4+16+4 argón)
+- Puertas de balcón con sistema elevable-corredero Reynaers ConceptPatio
+- Puerta de acceso al bloque en Reynaers CS 77 con control de acceso y vidrio templado
+- Puertas comunes de la caja de escalera — Reynaers con rotura de puente térmico
+
+**Color:** RAL 7016 antracita mate al exterior, blanco al interior
+
+**El reto técnico:** un bloque de planta baja más ocho alturas, cuyas ventanas de los pisos superiores hubo que subir con plataforma elevadora. Coordinación completa con la contrata general para la entrega por tramos, planta a planta.
+
+---
+
+## Obra 2 — Edificio de oficinas, zona Floreasca–Barbu Văcărescu
+
+**Sistema:** Alumil CW50 y Alumil Smartia S67 | **Superficie de fachada:** unos 1.200 m² | **Terminada:** 2025
+
+La zona Floreasca–Barbu Văcărescu es el núcleo del mercado de oficinas clase A de Bucarest. Un proyecto con requisitos de certificación BREEAM Very Good.
+
+**Lo que entregamos:**
+- Muro cortina estándar Alumil CW50 en las fachadas principal, sur y oeste
+- Doble acristalamiento Low-E reflectante 6+16+6 para control solar (g = 0,27)
+- Ventanas oscilobatientes Alumil Smartia S67 en las fachadas norte y este
+- Puertas de acceso principales — Alumil con herrajes antirrobo RC2 y control de acceso integrado
+- Persianas Raffstore de 80 mm integradas en el cajón del muro cortina (fachada sur)
+
+**Uw del conjunto de fachada:** 1,3 W/m²K — conforme a BREEAM Very Good
+
+---
+
+## Obra 3 — Fachada ventilada de aluminio, edificio mixto, Sector 3
+
+**Sistema:** Alumil con paneles ACM (Alucobond) | **Superficie:** unos 600 m² | **Terminada:** 2024
+
+Las fachadas ventiladas combinan una estructura portante de aluminio con una capa exterior de paneles ACM (aluminio compuesto), madera termotratada o piedra. La cámara de aire circulante entre el aislamiento y el revestimiento elimina la condensación y garantiza un drenaje natural.
+
+**Lo que entregamos:**
+- Estructura portante de perfiles de aluminio extruido Alumil
+- Aislamiento térmico de lana de basalto de 15 cm fijado a la estructura metálica
+- Revestimiento exterior de paneles Alucobond de 4 mm con acabado plata cepillado
+- Carpintería complementaria Alumil Smartia S67 en los huecos existentes
+- Vierteaguas perimetral y casetones de esquina de aluminio
+
+**La diferencia frente al revoco clásico:** la fachada ventilada elimina los puentes térmicos, alarga la vida del aislamiento y suprime el efecto de «edificio que respira» — la condensación deja de acumularse en la masa del muro.
+
+---
+
+## Qué tipos de proyecto asumimos en Bucarest e Ilfov
+
+### Edificios residenciales nuevos (bloques, promociones)
+De 20 a más de 500 viviendas. Coordinación completa con la promotora y la contrata general. Entrega por tramos, por planta o por portal. Documentación CE completa para el libro del edificio.
+
+### Edificios comerciales y de oficinas
+Muros cortina CW50/CW60, vidrio reflectante o Low-E, persianas integradas, puertas de acceso automáticas. Apoyo para las certificaciones BREEAM y LEED.
+
+### Fachadas ventiladas
+Estructura de aluminio con aislamiento y revestimiento exterior (ACM, HPL, piedra, madera termotratada). Diseño incluido, con cálculos térmicos y detalles de ejecución.
+
+### Locales comerciales y retail
+Escaparates de showroom, puertas correderas automáticas, paredes de vidrio interiores, compartimentaciones. Incluido vidrio de gran formato instalado con equipo robotizado.
+
+### Chalets y viviendas unifamiliares premium
+Sistemas elevables-correderos, ventanales panorámicos, pérgolas con carpintería, fachadas parciales de vidrio y aluminio.
+
+---
+
+## Precios orientativos de obras en Bucarest — 2026
+
+> ⚠️ **Nota importante:** los precios son orientativos y reflejan las condiciones de marzo de 2026. El coste del aluminio y de la mano de obra puede variar. Solicite siempre un presupuesto actualizado.
+
+| Tipo de obra | Estimación por m² |
 |---|---|
-| Alumil Smartia S67 | 250–400 EUR/m² |
-| Reynaers CS 77 | 400–600 EUR/m² |
+| Carpintería de aluminio Alumil Smartia S67 | 250–400 EUR/m² |
+| Carpintería de aluminio Reynaers CS 77 | 400–600 EUR/m² |
 | Muro cortina Alumil CW50 | 150–250 EUR/m² |
-| Fachada ventilada aluminio + ACM | 180–320 EUR/m² |
+| Muro cortina semiestructural | 250–400 EUR/m² |
+| Fachada ventilada de aluminio y ACM | 180–320 EUR/m² |
+| Muro cortina estructural | 400–600 EUR/m² |
+
+*Los precios incluyen materiales, instalación y documentación CE. No incluyen transporte a más de 50 km ni trabajos de preparación estructural.*
+
+---
+
+## Cómo conseguir un presupuesto para su proyecto
+
+**Paso 1:** Envíenos los planos o las fotografías de la fachada o del inmueble por WhatsApp o correo electrónico.
+
+**Paso 2:** El equipo técnico de Neofort BIZ evalúa el proyecto y solicita información adicional si hace falta.
+
+**Paso 3:** Recibe un presupuesto detallado con las especificaciones del sistema, precios por elemento y total estimado — en **48–72 horas**.
 
 **WhatsApp Proyectos:** +40 752 443 439 | **L–V 10–18**
 
 ## Preguntas frecuentes
 
-### ¿Qué tipos de trabajos de carpintería de aluminio realiza Neofort BIZ en Bucarest?
+### ¿Qué tipos de trabajos de aluminio ejecuta Neofort BIZ en Bucarest?
 
-Neofort BIZ es proveedor y coordinador de montaje para carpintería de aluminio, muros cortina y fachadas de vidrio en Bucarest e Ilfov. Cada proyecto lo entrega íntegramente el equipo, desde mediciones y documentación hasta montaje y recepción.
+Neofort BIZ suministra y coordina la instalación de carpintería de aluminio, muros cortina y fachadas de vidrio en Bucarest e Ilfov. Cada proyecto lo entrega íntegramente el equipo, desde las mediciones y la documentación hasta el montaje y la recepción.
 
-### ¿Qué sistemas de aluminio usó Neofort BIZ en el edificio de Delea Veche?
+### ¿Qué sistemas de aluminio empleó Neofort BIZ en el bloque de Delea Veche?
 
-En el edificio residencial nuevo de Delea Veche, Sector 2 (~800 m², terminado 2025), Neofort BIZ montó el Reynaers ConceptSystem 77: ventanas oscilobatientes con doble vidrio Low-E 4+16+4 argón y puertas de balcón elevadoras-correderas Reynaers ConceptPatio.
+En el bloque residencial nuevo de Delea Veche, Sector 2 (unos 800 m², terminado en 2025), Neofort BIZ instaló el sistema Reynaers ConceptSystem 77: ventanas oscilobatientes con doble acristalamiento Low-E 4+16+4 argón y puertas de balcón elevables-correderas Reynaers ConceptPatio.
 
-### ¿Trabaja Neofort BIZ en proyectos residenciales nuevos en Bucarest?
+### ¿Trabaja Neofort BIZ en promociones residenciales nuevas de Bucarest?
 
-Sí. El portafolio incluye edificios residenciales nuevos en zonas de intensa construcción como Delea Veche, Sector 2 — barrios en rápida transformación, con compradores jóvenes y altas expectativas en acabados de aluminio y vidrio.
+Sí. El portafolio incluye bloques residenciales nuevos en zonas de intensa actividad constructora como Delea Veche, Sector 2 — barrios en rápida transformación, con compradores jóvenes y expectativas altas sobre los acabados de aluminio y vidrio.
 
-### ¿Qué colores de carpintería de aluminio están disponibles en los proyectos Neofort BIZ?
+### ¿Qué colores de carpintería de aluminio hay disponibles en las obras de Neofort BIZ?
 
-La carpintería de aluminio puede lacarse electrostáticamente en cualquier color RAL. En proyectos residenciales, una combinación frecuente es RAL 7016 antracita mate al exterior con blanco al interior — el acabado preferido para la arquitectura moderna en Bucarest.
-
----
-
-Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
-
-      it: `## Portfolio Neofort BIZ — progetti completati Bucarest 2025–2026
+La carpintería de aluminio puede lacarse electrostáticamente en cualquier color RAL. En los proyectos residenciales, una combinación frecuente es el RAL 7016 antracita mate al exterior con blanco al interior — el acabado preferido por la arquitectura contemporánea de Bucarest.
 
 ---
 
-## Progetto 1 — Nuovo condominio, Delea Veche, Settore 2
-**Sistema:** [Reynaers](/it/servizi) CS 77 | **Superficie totale:** ~800 m² | **Completato:** 2025
+Neofort BIZ ejecuta muros cortina y fachadas de vidrio para edificios de oficinas y locales comerciales en Bucarest e Ilfov. [Envíenos los planos de fachada](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos.`,
 
-Consegnato: finestre ribaltabili Reynaers CS 77 per tutti gli appartamenti (doppio Low-E 4+16+4 argon), porte alzanti-scorrevoli ConceptPatio, porta di ingresso con controllo accessi. RAL 7016 antracite esterno.
+      it: `## Il portfolio di Neofort BIZ — cantieri conclusi a Bucarest 2025–2026
 
----
-
-## Progetto 2 — Edificio per uffici, zona Floreasca–Barbu Văcărescu
-**Sistema:** Alumil CW50 + Smartia S67 | **Superficie [facciata](/it/infissi-alluminio):** ~1.200 m² | **Completato:** 2025
-
-Parete cortina Alumil CW50, vetro riflettente Low-E 6+16+6 (g = 0,27), BREEAM Very Good Uw 1,3 W/m²K.
+Neofort BIZ fornisce e coordina la [posa](/it/servizi) di [serramenti in alluminio](/it/infissi-alluminio), facciate continue e facciate in vetro a Bucarest e nell’Ilfov. Ciascuno dei progetti presentati di seguito è stato consegnato per intero dalla nostra squadra, dal rilievo e dalla documentazione fino alla posa e al collaudo. Per il quadro completo, leggete [la guida ai serramenti in alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa).
 
 ---
 
-## Prezzi indicativi progetti Bucarest — 2026
+## Cantiere 1 — Nuovo edificio residenziale, Delea Veche, Settore 2
 
-> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+**Sistema:** Reynaers ConceptSystem 77 | **Superficie totale:** circa 800 m² | **Concluso:** 2025
 
-| Tipo di progetto | Stima per m² |
+Delea Veche è una delle zone con la maggiore attività edilizia residenziale del Settore 2 — un quartiere in rapida trasformazione, con acquirenti giovani e aspettative elevate sulle finiture.
+
+**Che cosa abbiamo consegnato:**
+- Finestre anta-ribalta Reynaers CS 77 in tutti gli appartamenti (doppio vetro Low-E 4+16+4 argon)
+- Porte-finestra con sistema alzante scorrevole Reynaers ConceptPatio
+- Portone d’ingresso in Reynaers CS 77 con controllo accessi e vetro temprato
+- Porte comuni del vano scala — Reynaers a taglio termico
+
+**Colore:** RAL 7016 antracite opaco all’esterno, bianco all’interno
+
+**La sfida tecnica:** un edificio di otto piani fuori terra, in cui le finestre dei piani alti sono state portate in quota con piattaforma elevatrice. Coordinamento completo con l’impresa generale per la consegna a lotti, piano per piano.
+
+---
+
+## Cantiere 2 — Edificio per uffici, zona Floreasca–Barbu Văcărescu
+
+**Sistema:** Alumil CW50 e Alumil Smartia S67 | **Superficie di facciata:** circa 1.200 m² | **Concluso:** 2025
+
+La zona Floreasca–Barbu Văcărescu è il cuore del mercato degli uffici di classe A a Bucarest. Un progetto con requisiti di certificazione BREEAM Very Good.
+
+**Che cosa abbiamo consegnato:**
+- Facciata continua standard Alumil CW50 sui prospetti principale, sud e ovest
+- Doppio vetro Low-E riflettente 6+16+6 per il controllo solare (g = 0,27)
+- Finestre anta-ribalta Alumil Smartia S67 sui prospetti nord ed est
+- Porte di accesso principali — Alumil con ferramenta antieffrazione RC2 e controllo accessi integrato
+- Veneziane Raffstore da 80 mm integrate nel cassonetto della facciata continua (prospetto sud)
+
+**Uw dell’insieme di facciata:** 1,3 W/m²K — conforme a BREEAM Very Good
+
+---
+
+## Cantiere 3 — Facciata ventilata in alluminio, edificio misto, Settore 3
+
+**Sistema:** Alumil con pannelli ACM (Alucobond) | **Superficie:** circa 600 m² | **Concluso:** 2024
+
+Le facciate ventilate uniscono una struttura portante in alluminio a uno strato esterno in pannelli ACM (alluminio composito), legno termotrattato o pietra. L’intercapedine d’aria fra isolante e rivestimento elimina la condensa e assicura un drenaggio naturale.
+
+**Che cosa abbiamo consegnato:**
+- Struttura portante in profili di alluminio estruso Alumil
+- Isolamento termico in lana di basalto da 15 cm fissato alla struttura metallica
+- Rivestimento esterno in pannelli Alucobond da 4 mm, finitura argento spazzolato
+- Serramenti di completamento Alumil Smartia S67 nei vani esistenti
+- Scossaline perimetrali e cassonetti d’angolo in alluminio
+
+**La differenza rispetto all’intonaco classico:** la facciata ventilata elimina i ponti termici, allunga la vita dell’isolante e annulla l’effetto dell’«edificio che respira» — la condensa non si accumula più nella massa muraria.
+
+---
+
+## Quali tipi di progetto seguiamo a Bucarest e nell’Ilfov
+
+### Edifici residenziali nuovi (condomini, complessi)
+Da 20 a oltre 500 appartamenti. Coordinamento completo con lo sviluppatore e l’impresa generale. Consegna a lotti, per piano o per scala. Documentazione CE completa per il fascicolo dell’opera.
+
+### Edifici commerciali e direzionali
+Facciate continue CW50/CW60, vetro riflettente o Low-E, veneziane integrate, porte di accesso automatiche. Supporto per le certificazioni BREEAM e LEED.
+
+### Facciate ventilate
+Struttura in alluminio con isolante e rivestimento esterno (ACM, HPL, pietra, legno termotrattato). Progettazione inclusa, con calcoli termici e dettagli esecutivi.
+
+### Locali commerciali e retail
+Vetrine di showroom, porte scorrevoli automatiche, pareti in vetro interne, compartimentazioni. Compreso il vetro fuori misura posato con attrezzatura robotizzata.
+
+### Ville e case unifamiliari di pregio
+Sistemi alzanti scorrevoli, vetrate panoramiche, pergole con serramenti, facciate parziali in vetro e alluminio.
+
+---
+
+## Prezzi indicativi dei cantieri a Bucarest — 2026
+
+> ⚠️ **Nota importante:** i prezzi sono indicativi e riflettono le condizioni di marzo 2026. I costi dell’alluminio e della manodopera possono variare. Richiedete sempre un preventivo aggiornato.
+
+| Tipo di lavoro | Stima al m² |
 |---|---|
-| Alumil Smartia S67 | 250–400 EUR/m² |
-| Reynaers CS 77 | 400–600 EUR/m² |
-| Parete cortina Alumil CW50 | 150–250 EUR/m² |
-| Facciata ventilata alluminio + ACM | 180–320 EUR/m² |
+| Serramenti in alluminio Alumil Smartia S67 | 250–400 EUR/m² |
+| Serramenti in alluminio Reynaers CS 77 | 400–600 EUR/m² |
+| Facciata continua Alumil CW50 | 150–250 EUR/m² |
+| Facciata continua semistrutturale | 250–400 EUR/m² |
+| Facciata ventilata in alluminio e ACM | 180–320 EUR/m² |
+| Facciata continua strutturale | 400–600 EUR/m² |
 
-**WhatsApp Progetti:** +40 752 443 439 | **L–V 10–18**
+*I prezzi comprendono materiali, posa e documentazione CE. Non comprendono il trasporto oltre i 50 km né i lavori di preparazione strutturale.*
+
+---
+
+## Come ottenere un preventivo per il vostro progetto
+
+**Passo 1:** Inviateci i disegni o le fotografie della facciata o dell’immobile via WhatsApp o email.
+
+**Passo 2:** Il team tecnico di Neofort BIZ valuta il progetto e richiede ulteriori informazioni se necessario.
+
+**Passo 3:** Ricevete un preventivo dettagliato con le specifiche del sistema, i prezzi per elemento e il totale stimato — entro **48–72 ore**.
+
+**WhatsApp Progetti:** +40 752 443 439 | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
-### Che tipi di lavori in alluminio realizza Neofort BIZ a Bucarest?
+### Che tipi di lavori in alluminio esegue Neofort BIZ a Bucarest?
 
-Neofort BIZ è fornitore e coordinatore di montaggio per serramenti in alluminio, facciate continue e facciate in vetro a Bucarest e Ilfov. Ogni progetto è consegnato interamente dal team, dai rilievi e documentazione fino al montaggio e collaudo.
+Neofort BIZ fornisce e coordina la posa di serramenti in alluminio, facciate continue e facciate in vetro a Bucarest e nell’Ilfov. Ogni progetto viene consegnato per intero dalla squadra, dal rilievo e dalla documentazione fino alla posa e al collaudo.
 
-### Quali sistemi in alluminio ha usato Neofort BIZ nell'edificio di Delea Veche?
+### Quali sistemi in alluminio ha impiegato Neofort BIZ nell’edificio di Delea Veche?
 
-Nell'edificio residenziale nuovo di Delea Veche, Settore 2 (~800 m², completato 2025), Neofort BIZ ha montato il Reynaers ConceptSystem 77: finestre anta-ribalta con doppio vetro Low-E 4+16+4 argon e porte da balcone alzanti-scorrevoli Reynaers ConceptPatio.
+Nel nuovo edificio residenziale di Delea Veche, Settore 2 (circa 800 m², concluso nel 2025), Neofort BIZ ha posato il sistema Reynaers ConceptSystem 77: finestre anta-ribalta con doppio vetro Low-E 4+16+4 argon e porte-finestra alzanti scorrevoli Reynaers ConceptPatio.
 
-### Neofort BIZ lavora a progetti residenziali nuovi a Bucarest?
+### Neofort BIZ lavora su nuovi interventi residenziali a Bucarest?
 
-Sì. Il portfolio include edifici residenziali nuovi in zone ad alta attività edilizia come Delea Veche, Settore 2 — quartieri in rapida trasformazione, con giovani acquirenti e alte aspettative sulle finiture in alluminio e vetro.
+Sì. Il portfolio comprende nuovi edifici residenziali in zone con intensa attività edilizia come Delea Veche, Settore 2 — quartieri in rapida trasformazione, con acquirenti giovani e aspettative elevate sulle finiture in alluminio e vetro.
 
-### Quali colori di serramenti in alluminio sono disponibili nei progetti Neofort BIZ?
+### Quali colori di serramenti in alluminio sono disponibili nei cantieri Neofort BIZ?
 
-I serramenti in alluminio possono essere verniciati elettrostaticamente in qualsiasi colore RAL. Nei progetti residenziali, una combinazione frequente è RAL 7016 antracite opaco all'esterno con bianco all'interno — la finitura preferita per l'architettura moderna a Bucarest.
+I serramenti in alluminio possono essere verniciati elettrostaticamente in qualsiasi colore RAL. Nei progetti residenziali una combinazione frequente è il RAL 7016 antracite opaco all’esterno con il bianco all’interno — la finitura preferita dall’architettura contemporanea di Bucarest.
 
 ---
 
-Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilfov, da finestre e porte alle facciate continue. Scopri [la gamma di infissi in alluminio](/it/infissi-alluminio) o [richiedi un preventivo](/it/contatti). Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
+Neofort BIZ realizza facciate continue e facciate in vetro per edifici per uffici e spazi commerciali a Bucarest e nell’Ilfov. [Inviateci i disegni di facciata](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma di serramenti in alluminio](/it/infissi-alluminio) che offriamo.`,
     },
   },
 
