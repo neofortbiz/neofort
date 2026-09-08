@@ -3307,7 +3307,7 @@ Diferența de preț între RC2 și RC3 este de 15-25% din valoarea ușii — nu 
 
 Neofort BIZ livrează și montează uși din aluminiu Alumil în toată zona Sectorului 1: **Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Băneasa, Ștefan cel Mare, Titulescu, Pajura, Colentina (limita Sector 1)** și în Ilfov adiacent: Voluntari, Tunari, Pipera, Otopeni.
 
-Defalcarea pe profile și sisteme se găsește în ghidul detaliat de prețuri: [Prețuri termopane Salamander în București 2026 — ghid comple](/ro/blog/preturi-termopane-salamander-bucuresti).
+Defalcarea pe profile și sisteme se găsește în ghidul detaliat de prețuri: [Prețuri termopane Salamander în București 2026 — ghid complet](/ro/blog/preturi-termopane-salamander-bucuresti).
 
 ---
 
@@ -6729,7 +6729,7 @@ Sistemul Zipscreen sau Screen ZIP folosește o pânză Screen cu perforații mic
 
 Prețurile variază în funcție de dimensiuni, tip de acționare și complexitatea montajului:
 
-| Tip sistem | Preț estimat (manopera inclusă) |
+| Tip sistem | Preț estimat (manoperă inclusă) |
 |---|---|
 | Raffstore C80 manual (100×150 cm) | 600–900 lei |
 | Raffstore C80 electric Somfy (100×150 cm) | 1.200–1.800 lei |
@@ -18197,7 +18197,7 @@ Neofort BIZ livrează tâmplărie Salamander în toată Europa. Cel mai frecvent
 | BluEvolution 92 FLEX, geam dublu Low-E, montaj standard | 12.000–18.000 EUR |
 | BluEvolution 92 ALU, geam triplu Low-E, montaj nZEB | 16.000–24.000 EUR |
 
-Pentru un apartament, procesul complet de înlocuire e descris separat: [Înlocuire ferestre vechi cu termopane Salamander — ghid comp](/ro/blog/inlocuire-ferestre-vechi-renovare-apartament-bucuresti).
+Pentru un apartament, procesul complet de înlocuire e descris separat: [Înlocuire ferestre vechi cu termopane Salamander — ghid complet](/ro/blog/inlocuire-ferestre-vechi-renovare-apartament-bucuresti).
 
 ---
 
@@ -18239,258 +18239,469 @@ BluEvolution 92 ALU e placat cu aluminiu pe exterior, combinând estetica alumin
 Neofort BIZ furnizează tâmplărie Salamander pentru case și vile, cu montaj în București și Ilfov și livrare în Uniunea Europeană. [Trimite-ne planul casei](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim.
 `,
 
-      en: `## Why individual houses need a different standard than apartment blocks?
+      en: `## Why does an individual house need a different standard from an apartment block?
 
-In a modern individual house, glazed areas can reach **50–70% of the building envelope**. This means joinery is no longer a detail — it becomes the **main component determining** energy consumption, thermal comfort, noise level and the home's aesthetics.
+In a block of flats, the glazed area accounts for 20–30% of the facade. In a modern individual house with large windows, glazed terraces and sliding doors, the glazed area can reach **50–70% of the building envelope**.
+
+That means the joinery is no longer a detail — it becomes **the principal component determining** energy consumption, thermal comfort, noise levels and the appearance of the whole house.
+
+A 15% saving on the cost of the windows can translate into a 30–40% increase in the annual energy bill. On a 150 sqm house with a useful life of 25–30 years, the difference can amount to **20,000–40,000 EUR** in cumulative energy costs.
 
 ---
 
 ## Delivery and export across Europe — how it works
 
-We deliver Salamander and Alumil joinery beyond Romania, and the process differs by destination and project type:
+We deliver Salamander and Alumil joinery beyond Romania, and the process differs according to the destination and the type of project:
 
-**Germany** is the most frequent export destination: conditions, technical requirements and logistics are detailed in [joinery export to Germany](/en/blog/export-windows-germany-romania).
+**Germany** is the most frequent export destination: the conditions, technical requirements and logistics are set out in [exporting windows to Germany](/en/blog/export-windows-germany-romania).
 
-**International orders in general** — how to order, what documents are needed and how delivery works: [where to find Salamander windows with international delivery](/en/blog/where-to-find-salamander-windows-with-international-delivery).
+**International orders in general** — how to order, which documents are needed and how delivery proceeds: [where to find Salamander windows with international delivery](/en/blog/where-to-find-salamander-windows-with-international-delivery).
 
-**A real project in France** — bluEvolution 92 with aluminium cladding for a mountain house, with all technical decisions explained: [bluEvolution 92 alu-clad, export to France](/en/blog/salamander-bluevolution-92-alu-aluminium-clad-export-france-mountain-house).
+**A real project in France** — bluEvolution 92 with aluminium cladding for a mountain house, with every technical decision explained: [bluEvolution 92 ALU clad, exported to France](/en/blog/salamander-bluevolution-92-alu-aluminium-clad-export-france-mountain-house).
 
-## Recommended configuration for a new individual house in 2026
+## The recommended configuration for a new individual house in 2026
 
-**Profile — [BluEvolution 92](/en/pvc-windows) ALU or FLEX**
-- 6 chambers | 92–104 mm depth | Uw = 0.70 W/m²K
-- 3 EPDM seals | acoustic insulation up to 47 dB
-- Compatible with triple 4+12+4+12+4 krypton → Ug = 0.5 W/m²K
+### The profile — BluEvolution 92 ALU or BluEvolution 92 FLEX
 
-**Glazing — triple Low-E with argon or krypton**
+**[BluEvolution 92](/en/pvc-windows)** is the only Salamander profile with full certification for the [nZEB standard](/en/nzeb-systems) and for passive houses.
 
-| Glass | Ug (W/m²K) | Ideal for |
-|---|---|---|
-| Double Low-E 4+16+4 argon | 0.6 | Standard recommendation |
-| Triple Low-E 4+12+4+12+4 argon | 0.5 | New builds, nZEB |
-| Triple Low-E with krypton | 0.4 | Passive houses |
+- 6 chambers | depth 92–104 mm | Uw = 0.70 W/m²K
+- 3 EPDM gaskets | acoustic insulation up to 47 dB
+- Compatible with triple glazing 4+12+4+12+4 filled with krypton → Ug = 0.5 W/m²K
 
-**Installation — [nZEB](/en/nzeb-systems) with Blaugelb precasings mandatory**
-Perimeter thermal bridges have direct impact on the energy calculation for individual houses.
+**BluEvolution 92 ALU** — clad with aluminium on the outside. Ideal for houses with a contemporary design that combines the appearance of aluminium with the performance of PVC. Available in any RAL colour, including matt black, anthracite and wood tones.
+
+### The glazing — triple Low-E with argon or krypton
+
+For a house built in 2026, double glazing is no longer enough if you want an energy certificate of class A or a passive house.
+
+| Glazing | Ug (W/m²K) | Saving against standard double | Ideal for |
+|---|---|---|---|
+| Standard double 4+16+4 | 1.0 | Reference | Budget renovations |
+| Double Low-E 4+16+4 argon | 0.6 | around 25% | The recommended standard |
+| Triple Low-E 4+12+4+12+4 argon | 0.5 | around 35% | New houses, nZEB |
+| Triple Low-E with krypton | 0.4 | around 45% | Passive houses |
+
+### The installation — nZEB with Blaugelb precasings, mandatory
+
+On an individual house, perimeter thermal bridges have a direct impact on the energy calculation. Blaugelb Triotherm+ precasings eliminate the thermal bridge and are mandatory for nZEB certification.
 
 ---
 
-## Smart home integration
+## Integration with smart home systems
 
-Individual houses are the ideal environment for complete joinery automation. Recommended smart configuration:
-- Lift-and-slide terrace doors — Somfy Yslo io motor, wind sensor, Apple HomeKit / Google Home integration
-- Bedroom windows — chain motor, CO2 sensor, automatic opening at 1,000 ppm
-- Central hub — Somfy TaHoma Switch or Loxone
+The individual house is the ideal setting for full automation of the joinery. Unlike apartment blocks, where adaptations are limited, in a new house the electrical infrastructure is planned from the foundations.
+
+**The recommended configuration for a smart house:**
+
+- **Lift-and-slide doors** (terrace, garden) — Somfy Yslo io motor, wind sensor, Apple HomeKit and Google Home integration
+- **Bedroom windows** — Somfy chain actuator, CO2 sensor, automatic opening at 1,000 ppm
+- **Central hub** — Somfy TaHoma Switch or Loxone for unified control
+- **Automatic scenes** — “Leaving”: every window closes and the blinds come down; “Night”: controlled ventilation at 10% opening
 
 ---
 
 ## Direct export from Bucharest — for Romanians in France, Germany and Italy
 
-Neofort BIZ delivers Salamander windows across Europe. A BluEvolution 92 window (100×120 cm, triple Low-E) costs at Neofort BIZ 480–620 EUR installed — the same product in France or Germany costs 900–1,400 EUR (**30–45% cheaper**).
+Neofort BIZ delivers Salamander joinery throughout Europe. The most frequently ordered profiles for export: **BluEvolution 92 FLEX** and **BluEvolution 92 ALU** — a German profile, manufactured in Romania, delivered to France, Germany or Italy at **30–45% less** than the local price.
 
-We deliver regularly to: **France** (Paris, Lyon, Île-de-France — 3–4 days), **Germany** (Munich, Frankfurt, Berlin — 2–3 days), **Italy** (Milan, Rome, Turin — 3–5 days).
+### Why do Romanians abroad choose Neofort BIZ?
+
+**The price** — a BluEvolution 92 window (100 × 120 cm, triple Low-E, argon) costs 480–620 EUR installed at Neofort BIZ. The same product in France or Germany costs 900–1,400 EUR.
+
+**Identical quality** — the Salamander profile is manufactured in Germany and distributed across Europe. There is no difference in quality between a Salamander window fitted in Paris and one fitted in Bucharest.
+
+**Complete documentation** — we deliver with a CE declaration of conformity, technical data sheet and warranty certificate, recognised throughout the EU.
+
+### The countries we deliver to regularly
+
+**France** — the Romanian community in Paris, Lyon and Île-de-France. Delivery in 3–4 days. Communication in Romanian and French.
+
+**Germany** — the most active export route. Munich, Frankfurt, Stuttgart, Berlin. Delivery in 2–3 days. Communication in Romanian, German and English.
+
+**Italy** — a large Romanian community in Milan, Rome and Turin. Delivery in 3–5 days.
+
+**Austria, Belgium, Spain** — on request, assessed individually per project.
 
 ---
 
 ## Indicative prices for individual house projects — 2026
 
-> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+> ⚠️ **Important note:** the prices are indicative and reflect conditions as at March 2026. Material prices and exchange rates change continuously and may rise or fall. Always ask for an up-to-date quotation for your project.
 
-### New house 120 m²
-
-| Configuration | Total estimate |
-|---|---|
-| BluEvolution 92 FLEX, triple Low-E, nZEB installation | 18,000–26,000 EUR |
-| BluEvolution 92 ALU, triple Low-E, nZEB installation | 22,000–32,000 EUR |
-| + Somfy automation | +3,000–6,000 EUR |
-
-### New house 200 m² premium
+### New house of 120 sqm — standard configuration
 
 | Configuration | Total estimate |
 |---|---|
-| BluEvolution 92 ALU, triple krypton, full nZEB | 35,000–55,000 EUR |
+| BluEvolution 92 FLEX, triple Low-E glazing, nZEB installation | 18,000–26,000 EUR |
+| BluEvolution 92 ALU, triple Low-E glazing, nZEB installation | 22,000–32,000 EUR |
+| Plus Somfy automation (sliding doors and sensors) | +3,000–6,000 EUR |
+
+### New house of 200 sqm — premium configuration
+
+| Configuration | Total estimate |
+|---|---|
+| BluEvolution 92 ALU, triple krypton glazing, full nZEB installation | 35,000–55,000 EUR |
+| Plus complete Somfy TaHoma automation | +5,000–12,000 EUR |
+
+### Full renovation of an older 100 sqm house
+
+| Configuration | Total estimate |
+|---|---|
+| BluEvolution 92 FLEX, double Low-E glazing, standard installation | 12,000–18,000 EUR |
+| BluEvolution 92 ALU, triple Low-E glazing, nZEB installation | 16,000–24,000 EUR |
+
+For an apartment, the full replacement process is described separately: [replacing old windows with Salamander units — the complete guide](/en/blog/replacing-old-windows-apartment-renovation-bucharest).
+
+---
+
+## How we work on individual house projects
+
+At Neofort BIZ we treat house projects differently from apartments. Every individual house project includes:
+
+**Extended technical consultancy** — a technical engineer available for the thermal calculation of the envelope, for recommending the glazing according to the orientation of each window, and for checking compatibility with the planned automation systems.
+
+**Coordination with the architect and the builder** — we take part in project meetings where needed, and supply technical data sheets and declarations of performance for the building permit file.
+
+**Site visits** — for new house projects we visit at the key stages: before the sills are cast, at the installation of the precasings and at final handover.
+
+**Fully organised export** — for clients abroad, we coordinate the whole logistics chain: production, packing, transport with international insurance and EU customs documentation.
 
 **WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
 
-## Frequently Asked Questions
+## Frequently asked questions
 
-### Why does a detached house need a different joinery standard than a block?
+### Why does an individual house need a different joinery standard from a block?
 
-In a block, glazing is 20-30% of the façade; in a modern detached house with large windows, glazed terraces and sliding doors, it reaches 50-70% of the envelope. Joinery becomes the main component determining energy use, thermal comfort, noise and the house's appearance.
+In a block, the glazed area is 20–30% of the facade; in a modern individual house with large windows, glazed terraces and sliding doors, it reaches 50–70% of the envelope. The joinery becomes the principal component determining energy consumption, thermal comfort, noise and the appearance of the house.
 
-### Which Salamander profile is recommended for a new detached house?
+### Which Salamander profile is recommended for a new individual house?
 
-BluEvolution 92 (ALU or FLEX) — the only Salamander profile with full nZEB and passive-house certification: 6 chambers, 92-104 mm, Uw = 0.70 W/m²K, 3 EPDM seals, sound insulation up to 47 dB and compatible with krypton triple glazing (Ug = 0.5 W/m²K).
+BluEvolution 92 (ALU or FLEX) — the only Salamander profile with full nZEB and passive house certification: 6 chambers, 92–104 mm, Uw = 0.70 W/m²K, 3 EPDM gaskets, acoustic insulation up to 47 dB and compatible with triple krypton glazing (Ug = 0.5 W/m²K).
 
-### How much can saving on a house's windows cost in the long run?
+### What can a saving on a house’s windows cost in the long run?
 
-A 15% saving on window cost can mean a 30-40% rise in the annual energy bill. For a 150 m² house with 25-30 years of useful life, the cumulative difference can be 20,000-40,000 EUR in energy costs — which is why joinery is not a detail.
+A 15% saving on the cost of the windows can mean a 30–40% increase in the annual energy bill. On a 150 sqm house with a useful life of 25–30 years, the cumulative difference can reach 20,000–40,000 EUR in energy costs — which is why the joinery is not a detail.
 
-### What advantage does BluEvolution 92 ALU offer for contemporary-design houses?
+### What does BluEvolution 92 ALU offer houses with a contemporary design?
 
-BluEvolution 92 ALU is aluminium-clad on the outside, combining aluminium aesthetics with PVC thermal performance. It is ideal for contemporary-design houses, available in any RAL colour, including matt black, anthracite and wood tones — a premium look with nZEB insulation.
-
+BluEvolution 92 ALU is clad with aluminium on the outside, combining the appearance of aluminium with the thermal performance of PVC. It suits houses with a contemporary design, is available in any RAL colour including matt black, anthracite and wood tones — a premium look with nZEB insulation.
 
 ---
 
-Neofort BIZ supplies Salamander joinery for houses and villas, with installation in Bucharest and Ilfov and delivery across the European Union. [Send us the house plan](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer.
-`,
+Neofort BIZ supplies Salamander joinery for houses and villas, with installation in Bucharest and Ilfov and delivery across the European Union. [Send us the house plan](/en/contact) and you will receive a quote within 48 hours. See [the PVC joinery range](/en/pvc-windows) we offer.`,
 
       de: `## Warum braucht ein Einfamilienhaus einen anderen Standard als ein Wohnblock?
 
-In einem modernen Einfamilienhaus können verglaste Flächen **50–70% der Gebäudehülle** ausmachen. Die Tischlerarbeiten sind nicht mehr ein Detail — sie werden zur **Hauptkomponente**, die Energieverbrauch, Wärmekomfort und Ästhetik bestimmt.
+In einem Mehrfamilienhaus macht die Glasfläche 20–30 % der Fassade aus. In einem modernen Einfamilienhaus mit großen Fenstern, verglasten Terrassen und Schiebetüren kann die Glasfläche **50–70 % der Gebäudehülle** erreichen.
+
+Das bedeutet: Die Fenster sind kein Detail mehr — sie werden zum **Hauptbestandteil, der** Energieverbrauch, thermische Behaglichkeit, Lärmpegel und das Erscheinungsbild des ganzen Hauses **bestimmt**.
+
+Eine Ersparnis von 15 % bei den Fensterkosten kann eine um 30–40 % höhere jährliche Energierechnung bedeuten. Bei einem Haus mit 150 m² und einer Nutzungsdauer von 25–30 Jahren kann der Unterschied **20.000–40.000 EUR** an kumulierten Energiekosten ausmachen.
 
 ---
 
-## Lieferung und Export in Europa — wie es funktioniert
+## Lieferung und Export in Europa — wie es abläuft
 
-Wir liefern Salamander- und Alumil-Fenster über Rumänien hinaus, und der Ablauf unterscheidet sich je nach Zielland und Projekttyp:
+Wir liefern Salamander- und Alumil-Fenster über Rumänien hinaus; der Ablauf hängt von Zielland und Projektart ab:
 
-**Deutschland** ist das häufigste Exportziel: Bedingungen, technische Anforderungen und Logistik sind in [Fensterexport nach Deutschland](/de/blog/fensterexport-rumaenien-deutschland) beschrieben.
+**Deutschland** ist das häufigste Exportziel: Bedingungen, technische Anforderungen und Logistik sind beschrieben im [Fensterexport nach Deutschland](/de/blog/fensterexport-rumaenien-deutschland).
 
-**Internationale Bestellungen allgemein** — wie bestellt wird, welche Dokumente nötig sind und wie die Lieferung abläuft: [wo Sie Salamander-Fenster mit internationalem Versand finden](/de/blog/wo-finde-ich-salamander-fenster-mit-internationalem-versand).
+**Internationale Bestellungen allgemein** — wie bestellt wird, welche Unterlagen nötig sind und wie die Lieferung abläuft: [wo Sie Salamander-Fenster mit internationalem Versand finden](/de/blog/wo-finde-ich-salamander-fenster-mit-internationalem-versand).
 
-**Ein reales Projekt in Frankreich** — bluEvolution 92 mit Aluminiumverkleidung für ein Berghaus, mit allen technischen Entscheidungen: [bluEvolution 92 alu-verkleidet, Export nach Frankreich](/de/blog/salamander-bluevolution-92-alu-aluminiumverkleidung-export-frankreich-berghaus).
+**Ein reales Projekt in Frankreich** — bluEvolution 92 mit Aluminiumverkleidung für ein Berghaus, mit allen technischen Entscheidungen erläutert: [bluEvolution 92 ALU, Export nach Frankreich](/de/blog/salamander-bluevolution-92-alu-aluminiumverkleidung-export-frankreich-berghaus).
 
-## Empfohlene Konfiguration für ein neues Einfamilienhaus 2026
+## Die empfohlene Konfiguration für ein neues Einfamilienhaus 2026
 
-**Profil — [BluEvolution 92](/de/kunststofffenster-pvc) ALU oder FLEX**
-6 Kammern | 92–104 mm Tiefe | Uw = 0,70 W/m²K | bis 47 dB Schalldämmung
+### Das Profil — BluEvolution 92 ALU oder BluEvolution 92 FLEX
 
-**Verglasung — Dreifach-Low-E mit Argon oder Krypton**
+**[BluEvolution 92](/de/kunststofffenster-pvc)** ist das einzige Salamander-Profil mit vollständiger Zertifizierung für den [nZEB-Standard](/de/nzeb-systeme) und für Passivhäuser.
 
-| Glas | Ug (W/m²K) | Ideal für |
-|---|---|---|
-| Zweifach Low-E 4+16+4 Argon | 0,6 | Standardempfehlung |
-| Dreifach Low-E 4+12+4+12+4 Argon | 0,5 | Neubauten, nZEB |
-| Dreifach Low-E mit Krypton | 0,4 | Passivhäuser |
+- 6 Kammern | Bautiefe 92–104 mm | Uw = 0,70 W/m²K
+- 3 EPDM-Dichtungen | Schalldämmung bis 47 dB
+- Kompatibel mit Dreifachverglasung 4+12+4+12+4 mit Krypton → Ug = 0,5 W/m²K
+
+**BluEvolution 92 ALU** — außen mit Aluminium verkleidet. Ideal für Häuser mit zeitgenössischem Entwurf, die die Optik des Aluminiums mit der Leistung des PVC verbinden. Erhältlich in jeder RAL-Farbe, auch Schwarz matt, Anthrazit und Holztöne.
+
+### Die Verglasung — Dreifach-Low-E mit Argon oder Krypton
+
+Für ein 2026 gebautes Haus genügt Zweifachverglasung nicht mehr, wenn Sie einen Energieausweis der Klasse A oder ein Passivhaus anstreben.
+
+| Verglasung | Ug (W/m²K) | Ersparnis gegenüber Standard-Zweifach | Ideal für |
+|---|---|---|---|
+| Standard Zweifach 4+16+4 | 1,0 | Referenz | Sanierungen mit Budget |
+| Zweifach Low-E 4+16+4 Argon | 0,6 | etwa 25 % | Der empfohlene Standard |
+| Dreifach Low-E 4+12+4+12+4 Argon | 0,5 | etwa 35 % | Neubauten, nZEB |
+| Dreifach Low-E mit Krypton | 0,4 | etwa 45 % | Passivhäuser |
+
+### Die Montage — nZEB mit Blaugelb-Vorblendrahmen, zwingend
+
+Bei einem Einfamilienhaus wirken sich Wärmebrücken am Anschluss unmittelbar auf die Energiebilanz aus. Blaugelb Triotherm+ Vorblendrahmen beseitigen die Wärmebrücke und sind für die nZEB-Zertifizierung zwingend.
+
+---
+
+## Einbindung in Smart-Home-Systeme
+
+Das Einfamilienhaus ist das ideale Umfeld für die vollständige Automatisierung der Fenster. Anders als im Wohnblock, wo Anpassungen begrenzt sind, wird beim Neubau die Elektroinfrastruktur ab dem Fundament geplant.
+
+**Die empfohlene Konfiguration für ein smartes Haus:**
+
+- **Hebe-Schiebetüren** (Terrasse, Garten) — Motor Somfy Yslo io, Windsensor, Einbindung in Apple HomeKit und Google Home
+- **Schlafzimmerfenster** — Somfy Kettenantrieb, CO2-Sensor, automatisches Öffnen bei 1.000 ppm
+- **Zentraler Hub** — Somfy TaHoma Switch oder Loxone für die einheitliche Steuerung
+- **Automatische Szenen** — „Verlassen": alle Fenster schließen und die Behänge fahren herunter; „Nacht": kontrollierte Lüftung bei 10 % Öffnung
 
 ---
 
 ## Direktexport aus Bukarest — für Rumänen in Frankreich, Deutschland und Italien
 
-Ein BluEvolution 92 Fenster (100×120 cm, Dreifach-Low-E) kostet bei Neofort BIZ 480–620 EUR montiert — dasselbe Produkt in Frankreich oder Deutschland kostet 900–1.400 EUR (**30–45% günstiger**).
+Neofort BIZ liefert Salamander-Fenster in ganz Europa. Die am häufigsten bestellten Profile für den Export: **BluEvolution 92 FLEX** und **BluEvolution 92 ALU** — ein deutsches Profil, in Rumänien gefertigt, nach Frankreich, Deutschland oder Italien geliefert, **30–45 % günstiger** als der lokale Preis.
 
-Regelmäßige Lieferungen nach: **Frankreich** (3–4 Tage), **Deutschland** (2–3 Tage), **Italien** (3–5 Tage).
+### Warum wählen Rumänen im Ausland Neofort BIZ?
+
+**Der Preis** — ein Fenster BluEvolution 92 (100 × 120 cm, Dreifach-Low-E, Argon) kostet bei Neofort BIZ montiert 480–620 EUR. Dasselbe Produkt kostet in Frankreich oder Deutschland 900–1.400 EUR.
+
+**Gleiche Qualität** — das Salamander-Profil wird in Deutschland gefertigt und europaweit vertrieben. Zwischen einem in Paris und einem in Bukarest eingebauten Salamander-Fenster besteht kein Qualitätsunterschied.
+
+**Vollständige Unterlagen** — wir liefern mit CE-Konformitätserklärung, technischem Datenblatt und Garantieurkunde, EU-weit anerkannt.
+
+### Die Länder, in die wir regelmäßig liefern
+
+**Frankreich** — die rumänische Gemeinschaft in Paris, Lyon und der Île-de-France. Lieferung in 3–4 Tagen. Kommunikation auf Rumänisch und Französisch.
+
+**Deutschland** — die aktivste Exportroute. München, Frankfurt, Stuttgart, Berlin. Lieferung in 2–3 Tagen. Kommunikation auf Rumänisch, Deutsch und Englisch.
+
+**Italien** — eine große rumänische Gemeinschaft in Mailand, Rom und Turin. Lieferung in 3–5 Tagen.
+
+**Österreich, Belgien, Spanien** — auf Anfrage, mit individueller Bewertung je Projekt.
 
 ---
 
-## Richtpreise für Einfamilienhausprojecte — 2026
+## Richtpreise für Einfamilienhausprojekte — 2026
 
-> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+> ⚠️ **Wichtiger Hinweis:** Die Preise sind Richtwerte und geben den Stand von März 2026 wieder. Materialpreise und Wechselkurse ändern sich laufend und können steigen oder fallen. Fordern Sie stets ein aktuelles Angebot für Ihr Projekt an.
 
-### Neubau 120 m²
+### Neubau 120 m² — Standardkonfiguration
 
 | Konfiguration | Gesamtschätzung |
 |---|---|
 | BluEvolution 92 FLEX, Dreifach-Low-E, nZEB-Montage | 18.000–26.000 EUR |
-| BluEvolution 92 ALU, Dreifach-Low-E, nZEB | 22.000–32.000 EUR |
+| BluEvolution 92 ALU, Dreifach-Low-E, nZEB-Montage | 22.000–32.000 EUR |
+| Zuzüglich Somfy-Automatisierung (Schiebetüren und Sensoren) | +3.000–6.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+### Neubau 200 m² — Premiumkonfiguration
+
+| Konfiguration | Gesamtschätzung |
+|---|---|
+| BluEvolution 92 ALU, Dreifach-Krypton, vollständige nZEB-Montage | 35.000–55.000 EUR |
+| Zuzüglich komplette Somfy TaHoma Automatisierung | +5.000–12.000 EUR |
+
+### Vollsanierung eines älteren Hauses mit 100 m²
+
+| Konfiguration | Gesamtschätzung |
+|---|---|
+| BluEvolution 92 FLEX, Zweifach-Low-E, Standardmontage | 12.000–18.000 EUR |
+| BluEvolution 92 ALU, Dreifach-Low-E, nZEB-Montage | 16.000–24.000 EUR |
+
+Für eine Wohnung wird der komplette Austauschprozess separat beschrieben: [alte Fenster durch Salamander ersetzen — der vollständige Ratgeber](/de/blog/alte-fenster-ersetzen-wohnungsrenovierung-bukarest).
+
+---
+
+## Wie wir bei Einfamilienhausprojekten arbeiten
+
+Bei Neofort BIZ behandeln wir Hausprojekte anders als Wohnungen. Jedes Einfamilienhausprojekt umfasst:
+
+**Erweiterte technische Beratung** — ein Ingenieur steht für die wärmetechnische Berechnung der Hülle zur Verfügung, für die Empfehlung der Verglasung je nach Ausrichtung jedes Fensters und für die Prüfung der Verträglichkeit mit den geplanten Automatisierungssystemen.
+
+**Abstimmung mit Architekt und Bauunternehmen** — wir nehmen bei Bedarf an Projektbesprechungen teil und liefern technische Datenblätter und Leistungserklärungen für die Baugenehmigungsakte.
+
+**Baustellenbesuche** — bei Neubauprojekten besuchen wir die Schlüsselphasen: vor dem Betonieren der Fensterbänke, bei der Montage der Vorblendrahmen und bei der Endabnahme.
+
+**Vollständig organisierter Export** — für Kunden im Ausland koordinieren wir die gesamte Logistik: Produktion, Verpackung, Transport mit internationaler Versicherung und EU-Zollunterlagen.
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
 
 ## Häufig gestellte Fragen
 
-### Warum braucht ein Einfamilienhaus einen anderen Fensterstandard als ein Block?
+### Warum braucht ein Einfamilienhaus einen anderen Fensterstandard als ein Wohnblock?
 
-In einem Block beträgt die Verglasung 20-30% der Fassade; in einem modernen Einfamilienhaus mit großen Fenstern, verglasten Terrassen und Schiebetüren erreicht sie 50-70% der Hülle. Die Fenster werden die Hauptkomponente, die Energieverbrauch, thermischen Komfort, Lärm und Aussehen des Hauses bestimmt.
+Im Wohnblock beträgt die Glasfläche 20–30 % der Fassade; in einem modernen Einfamilienhaus mit großen Fenstern, verglasten Terrassen und Schiebetüren erreicht sie 50–70 % der Hülle. Die Fenster werden zum Hauptbestandteil, der Energieverbrauch, Behaglichkeit, Lärm und Erscheinungsbild des Hauses bestimmt.
 
-### Welches Salamander-Profil wird für ein neues Einfamilienhaus empfohlen?
+### Welches Salamander-Profil empfiehlt sich für ein neues Einfamilienhaus?
 
-BluEvolution 92 (ALU oder FLEX) — das einzige Salamander-Profil mit voller nZEB- und Passivhaus-Zertifizierung: 6 Kammern, 92-104 mm, Uw = 0,70 W/m²K, 3 EPDM-Dichtungen, Schalldämmung bis 47 dB und kompatibel mit Krypton-Dreifachglas (Ug = 0,5 W/m²K).
+BluEvolution 92 (ALU oder FLEX) — das einzige Salamander-Profil mit vollständiger nZEB- und Passivhaus-Zertifizierung: 6 Kammern, 92–104 mm, Uw = 0,70 W/m²K, 3 EPDM-Dichtungen, Schalldämmung bis 47 dB und kompatibel mit Dreifach-Krypton-Verglasung (Ug = 0,5 W/m²K).
 
-### Wie viel kann das Sparen an den Fenstern eines Hauses langfristig kosten?
+### Was kann eine Ersparnis bei den Fenstern eines Hauses langfristig kosten?
 
-Eine Ersparnis von 15% bei den Fensterkosten kann einen Anstieg von 30-40% der jährlichen Energierechnung bedeuten. Bei einem 150-m²-Haus mit 25-30 Jahren Nutzungsdauer kann der kumulierte Unterschied 20.000-40.000 EUR an Energiekosten betragen — deshalb sind Fenster kein Detail.
+Eine Ersparnis von 15 % bei den Fensterkosten kann eine um 30–40 % höhere Jahresenergierechnung bedeuten. Bei einem Haus mit 150 m² und 25–30 Jahren Nutzungsdauer kann der kumulierte Unterschied 20.000–40.000 EUR an Energiekosten erreichen — deshalb sind die Fenster kein Detail.
 
-### Welchen Vorteil bietet BluEvolution 92 ALU für Häuser mit zeitgenössischem Design?
+### Was bietet BluEvolution 92 ALU Häusern mit zeitgenössischem Entwurf?
 
-BluEvolution 92 ALU ist außen aluminiumverkleidet und verbindet Aluminiumästhetik mit der Wärmeleistung von PVC. Es ist ideal für Häuser mit zeitgenössischem Design, in jeder RAL-Farbe erhältlich, inklusive Mattschwarz, Anthrazit und Holztönen — eine Premium-Optik mit nZEB-Dämmung.
-
-
----
-
-Neofort BIZ liefert Salamander-Fenster für Häuser und Villen, mit Montage in Bukarest und Ilfov und Lieferung in die Europäische Union. [Senden Sie uns den Hausplan](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc).
-`,
-
-      fr: `## Pourquoi une maison individuelle nécessite-t-elle un standard différent d'un immeuble ?
-
-Dans une maison individuelle moderne, les surfaces vitrées peuvent atteindre **50–70% de l'enveloppe du bâtiment**. La menuiserie devient ainsi le **composant principal déterminant** la consommation [énergétique](/fr/systemes-nzeb) et le confort.
+BluEvolution 92 ALU ist außen mit Aluminium verkleidet und verbindet die Optik des Aluminiums mit der Wärmedämmung des PVC. Es passt zu Häusern mit zeitgenössischem Entwurf, ist in jeder RAL-Farbe erhältlich, auch Schwarz matt, Anthrazit und Holztöne — hochwertige Optik mit nZEB-Dämmung.
 
 ---
 
-## Livraison et export en Europe — comment ça marche
+Neofort BIZ liefert Salamander-Fenster für Häuser und Villen, mit Montage in Bukarest und Ilfov und Lieferung in die Europäische Union. [Senden Sie uns den Hausplan](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das PVC-Sortiment](/de/kunststofffenster-pvc), das wir anbieten.`,
 
-Nous livrons de la menuiserie Salamander et Alumil au-delà de la Roumanie, et le processus diffère selon la destination et le type de projet :
+      fr: `## Pourquoi une maison individuelle exige-t-elle un autre standard qu’un immeuble ?
 
-**L’Allemagne** est la destination d’export la plus fréquente : conditions, exigences techniques et logistique sont détaillées dans [l’export de menuiserie vers l’Allemagne](/fr/blog/export-menuiseries-roumanie-allemagne).
+Dans un immeuble collectif, la surface vitrée représente 20 à 30 % de la façade. Dans une maison individuelle moderne, avec de grandes baies, des terrasses vitrées et des portes coulissantes, la surface vitrée peut atteindre **50 à 70 % de l’enveloppe du bâtiment**.
 
-**Commandes internationales en général** — comment commander, quels documents sont nécessaires et comment se déroule la livraison : [où trouver des fenêtres Salamander avec livraison internationale](/fr/blog/ou-trouver-fenetres-salamander-avec-livraison-internationale).
+Cela signifie que les menuiseries ne sont plus un détail — elles deviennent **le composant principal qui détermine** la consommation d’énergie, le confort thermique, le niveau sonore et l’aspect de toute la maison.
 
-**Un projet réel en France** — bluEvolution 92 avec habillage aluminium pour une maison de montagne, avec toutes les décisions techniques : [bluEvolution 92 alu-revêtu, export France](/fr/blog/salamander-bluevolution-92-alu-revetu-aluminium-export-france-maison-montagne).
-
-## Configuration recommandée pour une maison neuve en 2026
-
-**Profilé — [BluEvolution 92](/fr/menuiserie-pvc) ALU ou FLEX**
-6 chambres | 92–104 mm | Uw = 0,70 W/m²K | jusqu'à 47 dB
-
-**Vitrage — triple Low-E argon ou krypton**
-
-| Vitrage | Ug (W/m²K) | Idéal pour |
-|---|---|---|
-| Double Low-E 4+16+4 argon | 0,6 | Standard recommandé |
-| Triple Low-E 4+12+4+12+4 argon | 0,5 | Constructions neuves, nZEB |
-| Triple Low-E krypton | 0,4 | Maisons passives |
+Une économie de 15 % sur le coût des fenêtres peut se traduire par une hausse de 30 à 40 % de la facture d’énergie annuelle. Sur une maison de 150 m² avec une durée de vie utile de 25 à 30 ans, l’écart peut atteindre **20 000 à 40 000 EUR** de coûts énergétiques cumulés.
 
 ---
 
-## Export direct depuis Bucarest — pour les Roumains en France
+## Livraison et export en Europe — comment cela fonctionne
 
-Une fenêtre BluEvolution 92 (100×120 cm, triple Low-E) coûte chez Neofort BIZ 480–620 EUR posée — le même produit en France coûte 900–1.400 EUR (**30–45% moins cher**).
+Nous livrons des menuiseries Salamander et Alumil au-delà de la Roumanie, et le processus varie selon la destination et le type de projet :
 
-Livraisons régulières en **France** (Paris, Lyon, Île-de-France — 3–4 jours).
+**L’Allemagne** est la destination d’export la plus fréquente : conditions, exigences techniques et logistique sont détaillées dans [l’export de menuiseries vers l’Allemagne](/fr/blog/export-menuiseries-roumanie-allemagne).
+
+**Les commandes internationales en général** — comment commander, quels documents sont nécessaires et comment se déroule la livraison : [où trouver des fenêtres Salamander avec livraison internationale](/fr/blog/ou-trouver-fenetres-salamander-avec-livraison-internationale).
+
+**Un projet réel en France** — bluEvolution 92 avec habillage aluminium pour une maison de montagne, chaque décision technique expliquée : [bluEvolution 92 ALU, export France](/fr/blog/salamander-bluevolution-92-alu-revetu-aluminium-export-france-maison-montagne).
+
+## La configuration recommandée pour une maison individuelle neuve en 2026
+
+### Le profilé — BluEvolution 92 ALU ou BluEvolution 92 FLEX
+
+**[BluEvolution 92](/fr/menuiserie-pvc)** est le seul profilé Salamander bénéficiant d’une certification complète pour [la norme nZEB](/fr/systemes-nzeb) et pour la maison passive.
+
+- 6 chambres | profondeur 92–104 mm | Uw = 0,70 W/m²K
+- 3 joints EPDM | isolation acoustique jusqu’à 47 dB
+- Compatible triple vitrage 4+12+4+12+4 au krypton → Ug = 0,5 W/m²K
+
+**BluEvolution 92 ALU** — habillé d’aluminium à l’extérieur. Idéal pour les maisons au design contemporain qui associent l’esthétique de l’aluminium à la performance du PVC. Disponible dans toute teinte RAL, y compris noir mat, anthracite et tons bois.
+
+### Le vitrage — triple Low-E à l’argon ou au krypton
+
+Pour une maison construite en 2026, le double vitrage ne suffit plus si vous visez un certificat énergétique de classe A ou une maison passive.
+
+| Vitrage | Ug (W/m²K) | Économie face au double standard | Idéal pour |
+|---|---|---|---|
+| Double standard 4+16+4 | 1,0 | Référence | Rénovations à budget |
+| Double Low-E 4+16+4 argon | 0,6 | environ 25 % | Le standard recommandé |
+| Triple Low-E 4+12+4+12+4 argon | 0,5 | environ 35 % | Maisons neuves, nZEB |
+| Triple Low-E au krypton | 0,4 | environ 45 % | Maisons passives |
+
+### La pose — nZEB avec précadres Blaugelb, obligatoire
+
+Sur une maison individuelle, les ponts thermiques périphériques pèsent directement sur le calcul énergétique. Les précadres Blaugelb Triotherm+ suppriment le pont thermique et sont obligatoires pour la certification nZEB.
 
 ---
 
-## Prix indicatifs projets maisons individuelles — 2026
+## L’intégration aux systèmes domotiques
 
-> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+La maison individuelle est le cadre idéal pour l’automatisation complète des menuiseries. Contrairement aux immeubles où les adaptations sont limitées, dans une maison neuve l’infrastructure électrique se planifie dès les fondations.
 
-### Maison neuve 120 m²
+**La configuration recommandée pour une maison connectée :**
+
+- **Portes levantes-coulissantes** (terrasse, jardin) — moteur Somfy Yslo io, capteur de vent, intégration Apple HomeKit et Google Home
+- **Fenêtres de chambre** — moteur à chaîne Somfy, capteur CO2, ouverture automatique à 1 000 ppm
+- **Box centrale** — Somfy TaHoma Switch ou Loxone pour un pilotage unifié
+- **Scènes automatiques** — « Départ » : toutes les fenêtres se ferment et les stores descendent ; « Nuit » : ventilation contrôlée à 10 % d’ouverture
+
+---
+
+## Export direct depuis Bucarest — pour les Roumains de France, d’Allemagne et d’Italie
+
+Neofort BIZ livre des menuiseries Salamander dans toute l’Europe. Les profilés les plus commandés à l’export : **BluEvolution 92 FLEX** et **BluEvolution 92 ALU** — un profilé allemand, fabriqué en Roumanie, livré en France, en Allemagne ou en Italie **30 à 45 % moins cher** que le prix local.
+
+### Pourquoi les Roumains de l’étranger choisissent-ils Neofort BIZ ?
+
+**Le prix** — une fenêtre BluEvolution 92 (100 × 120 cm, triple Low-E, argon) coûte 480 à 620 EUR posée chez Neofort BIZ. Le même produit coûte 900 à 1 400 EUR en France ou en Allemagne.
+
+**Une qualité identique** — le profilé Salamander est fabriqué en Allemagne et distribué dans toute l’Europe. Il n’existe aucune différence de qualité entre une fenêtre Salamander posée à Paris et une posée à Bucarest.
+
+**Une documentation complète** — nous livrons avec déclaration de conformité CE, fiche technique et certificat de garantie, reconnus dans toute l’UE.
+
+### Les pays où nous livrons régulièrement
+
+**France** — la communauté roumaine de Paris, Lyon et Île-de-France. Livraison en 3 à 4 jours. Communication en roumain et en français.
+
+**Allemagne** — la route d’export la plus active. Munich, Francfort, Stuttgart, Berlin. Livraison en 2 à 3 jours. Communication en roumain, allemand et anglais.
+
+**Italie** — une importante communauté roumaine à Milan, Rome et Turin. Livraison en 3 à 5 jours.
+
+**Autriche, Belgique, Espagne** — sur demande, avec évaluation individuelle par projet.
+
+---
+
+## Prix indicatifs pour des projets de maisons individuelles — 2026
+
+> ⚠️ **Note importante :** les prix sont indicatifs et reflètent les conditions de mars 2026. Les prix des matériaux et les taux de change évoluent en permanence et peuvent monter ou baisser. Demandez toujours un devis actualisé pour votre projet.
+
+### Maison neuve de 120 m² — configuration standard
 
 | Configuration | Estimation totale |
 |---|---|
-| BluEvolution 92 FLEX, triple Low-E, pose nZEB | 18.000–26.000 EUR |
-| BluEvolution 92 ALU, triple Low-E, nZEB | 22.000–32.000 EUR |
+| BluEvolution 92 FLEX, triple vitrage Low-E, pose nZEB | 18 000–26 000 EUR |
+| BluEvolution 92 ALU, triple vitrage Low-E, pose nZEB | 22 000–32 000 EUR |
+| Plus automatisation Somfy (coulissants et capteurs) | +3 000–6 000 EUR |
 
-**WhatsApp :** +40 752 443 435
+### Maison neuve de 200 m² — configuration premium
 
-## Questions fréquentes
+| Configuration | Estimation totale |
+|---|---|
+| BluEvolution 92 ALU, triple vitrage krypton, pose nZEB complète | 35 000–55 000 EUR |
+| Plus automatisation Somfy TaHoma complète | +5 000–12 000 EUR |
 
-### Pourquoi une maison individuelle a-t-elle besoin d'un autre standard de menuiserie qu'un immeuble ?
+### Rénovation complète d’une maison ancienne de 100 m²
 
-Dans un immeuble, le vitrage représente 20-30% de la façade ; dans une maison individuelle moderne à grandes baies, terrasses vitrées et portes coulissantes, il atteint 50-70% de l'enveloppe. La menuiserie devient le composant principal déterminant la consommation, le confort thermique, le bruit et l'aspect de la maison.
+| Configuration | Estimation totale |
+|---|---|
+| BluEvolution 92 FLEX, double vitrage Low-E, pose standard | 12 000–18 000 EUR |
+| BluEvolution 92 ALU, triple vitrage Low-E, pose nZEB | 16 000–24 000 EUR |
 
-### Quel profilé Salamander est recommandé pour une maison individuelle neuve ?
-
-BluEvolution 92 (ALU ou FLEX) — le seul profilé Salamander à certification complète nZEB et maison passive : 6 chambres, 92-104 mm, Uw = 0,70 W/m²K, 3 joints EPDM, isolation acoustique jusqu'à 47 dB et compatible triple vitrage krypton (Ug = 0,5 W/m²K).
-
-### Combien peut coûter à long terme une économie sur les fenêtres d'une maison ?
-
-Une économie de 15% sur le coût des fenêtres peut signifier une hausse de 30-40% de la facture énergétique annuelle. Pour une maison de 150 m² à 25-30 ans de vie utile, la différence cumulée peut être de 20 000-40 000 EUR en coûts énergétiques — c'est pourquoi la menuiserie n'est pas un détail.
-
-### Quel avantage offre le BluEvolution 92 ALU pour les maisons au design contemporain ?
-
-Le BluEvolution 92 ALU est plaqué aluminium à l'extérieur, combinant l'esthétique de l'aluminium et la performance thermique du PVC. Il est idéal pour les maisons au design contemporain, disponible dans toutes les couleurs RAL, dont noir mat, anthracite et tons bois — un aspect premium avec isolation nZEB.
-
+Pour un appartement, le processus complet de remplacement est décrit à part : [remplacer d’anciennes fenêtres par du Salamander — le guide complet](/fr/blog/remplacement-fenetres-renovation-appartement-bucarest).
 
 ---
 
-Neofort BIZ fournit des menuiseries Salamander pour maisons et villas, avec pose à Bucarest et dans l’Ilfov et livraison dans l’Union européenne. [Transmettez-nous le plan de la maison](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc).
-`,
+## Comment nous travaillons sur les projets de maisons individuelles
 
-      es: `## ¿Por qué una casa individual necesita un estándar diferente al de un bloque?
+Chez Neofort BIZ, nous traitons les projets de maisons différemment des appartements. Chaque projet de maison individuelle comprend :
 
-En una casa individual moderna, las superficies acristaladas pueden alcanzar el **50–70% de la envolvente del edificio**. La carpintería se convierte en el **componente principal que determina** el consumo [energético](/es/sistemas-nzeb) y el confort.
+**Un conseil technique approfondi** — un ingénieur disponible pour le calcul thermique de l’enveloppe, la recommandation du vitrage selon l’orientation de chaque fenêtre et la vérification de la compatibilité avec les systèmes domotiques prévus.
+
+**Une coordination avec l’architecte et le constructeur** — nous participons aux réunions de projet si nécessaire et fournissons fiches techniques et déclarations des performances pour le dossier de permis de construire.
+
+**Des visites de chantier** — pour les maisons neuves, nous intervenons aux étapes clés : avant le coulage des appuis, à la pose des précadres et à la réception finale.
+
+**Un export entièrement organisé** — pour les clients de la diaspora, nous coordonnons toute la logistique : production, emballage, transport avec assurance internationale et documentation douanière UE.
+
+**WhatsApp :** +40 752 443 435 | **Lun–Ven 10–18**
+
+## Questions fréquentes
+
+### Pourquoi une maison individuelle exige-t-elle un autre standard de menuiseries qu’un immeuble ?
+
+Dans un immeuble, la surface vitrée représente 20 à 30 % de la façade ; dans une maison individuelle moderne avec grandes baies, terrasses vitrées et coulissants, elle atteint 50 à 70 % de l’enveloppe. Les menuiseries deviennent le composant principal qui détermine la consommation, le confort, le bruit et l’aspect de la maison.
+
+### Quel profilé Salamander recommander pour une maison individuelle neuve ?
+
+BluEvolution 92 (ALU ou FLEX) — le seul profilé Salamander certifié pleinement nZEB et maison passive : 6 chambres, 92–104 mm, Uw = 0,70 W/m²K, 3 joints EPDM, isolation acoustique jusqu’à 47 dB et compatible triple vitrage krypton (Ug = 0,5 W/m²K).
+
+### Combien peut coûter à long terme une économie sur les fenêtres d’une maison ?
+
+Une économie de 15 % sur le coût des fenêtres peut entraîner une hausse de 30 à 40 % de la facture d’énergie annuelle. Sur une maison de 150 m² avec 25 à 30 ans de durée de vie, l’écart cumulé peut atteindre 20 000 à 40 000 EUR de coûts énergétiques — c’est pourquoi les menuiseries ne sont pas un détail.
+
+### Qu’apporte le BluEvolution 92 ALU aux maisons au design contemporain ?
+
+Le BluEvolution 92 ALU est habillé d’aluminium à l’extérieur, associant l’esthétique de l’aluminium à la performance thermique du PVC. Il convient aux maisons au design contemporain, disponible dans toute teinte RAL, y compris noir mat, anthracite et tons bois — une allure premium avec une isolation nZEB.
+
+---
+
+Neofort BIZ fournit des menuiseries Salamander pour maisons et villas, avec pose à Bucarest et Ilfov et livraison dans l’Union européenne. [Transmettez-nous le plan de la maison](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme PVC](/fr/menuiserie-pvc) que nous proposons.`,
+
+      es: `## ¿Por qué una vivienda unifamiliar necesita otro estándar que un bloque?
+
+En un bloque de pisos, la superficie acristalada supone entre el 20 y el 30 % de la fachada. En una vivienda unifamiliar moderna, con ventanales grandes, terrazas acristaladas y puertas correderas, la superficie acristalada puede alcanzar el **50–70 % de la envolvente del edificio**.
+
+Eso significa que la carpintería deja de ser un detalle — pasa a ser **el componente principal que determina** el consumo energético, el confort térmico, el nivel de ruido y el aspecto de toda la casa.
+
+Un ahorro del 15 % en el coste de las ventanas puede traducirse en un aumento del 30–40 % en la factura anual de energía. En una vivienda de 150 m² con una vida útil de 25–30 años, la diferencia puede llegar a **20.000–40.000 EUR** en costes energéticos acumulados.
 
 ---
 
@@ -18498,143 +18709,295 @@ En una casa individual moderna, las superficies acristaladas pueden alcanzar el 
 
 Entregamos carpintería Salamander y Alumil más allá de Rumanía, y el proceso varía según el destino y el tipo de proyecto:
 
-**Alemania** es el destino de exportación más frecuente: condiciones, requisitos técnicos y logística se detallan en [la exportación de carpintería a Alemania](/es/blog/exportacion-carpinteria-rumania-alemania).
+**Alemania** es el destino de exportación más frecuente: las condiciones, los requisitos técnicos y la logística se detallan en [la exportación de carpintería a Alemania](/es/blog/exportacion-carpinteria-rumania-alemania).
 
-**Pedidos internacionales en general** — cómo se pide, qué documentos hacen falta y cómo transcurre la entrega: [dónde encontrar ventanas Salamander con entrega internacional](/es/blog/donde-encontrar-ventanas-salamander-con-entrega-internacional).
+**Pedidos internacionales en general** — cómo se pide, qué documentos hacen falta y cómo transcurre la entrega: [dónde encontrar ventanas Salamander con envío internacional](/es/blog/donde-encontrar-ventanas-salamander-con-entrega-internacional).
 
-**Un proyecto real en Francia** — bluEvolution 92 con revestimiento de aluminio para una casa de montaña, con todas las decisiones técnicas: [bluEvolution 92 alu-revestido, exportación a Francia](/es/blog/salamander-bluevolution-92-alu-revestido-aluminio-exportacion-francia-casa-montana).
+**Un proyecto real en Francia** — bluEvolution 92 con revestimiento de aluminio para una casa de montaña, con todas las decisiones técnicas explicadas: [bluEvolution 92 ALU, exportación a Francia](/es/blog/salamander-bluevolution-92-alu-revestido-aluminio-exportacion-francia-casa-montana).
 
-## Configuración recomendada para una casa nueva en 2026
+## La configuración recomendada para una vivienda unifamiliar nueva en 2026
 
-**Perfil — [BluEvolution 92](/es/carpinteria-pvc) ALU o FLEX**
-6 cámaras | 92–104 mm | Uw = 0,70 W/m²K | hasta 47 dB
+### El perfil — BluEvolution 92 ALU o BluEvolution 92 FLEX
 
-**Vidrio — triple Low-E argón o kriptón**
+**[BluEvolution 92](/es/carpinteria-pvc)** es el único perfil Salamander con certificación completa para [el estándar nZEB](/es/sistemas-nzeb) y para casa pasiva.
 
-| Vidrio | Ug (W/m²K) | Ideal para |
-|---|---|---|
-| Doble Low-E 4+16+4 argón | 0,6 | Estándar recomendado |
-| Triple Low-E 4+12+4+12+4 argón | 0,5 | Obra nueva, nZEB |
-| Triple Low-E kriptón | 0,4 | Casas pasivas |
+- 6 cámaras | profundidad 92–104 mm | Uw = 0,70 W/m²K
+- 3 juntas EPDM | aislamiento acústico hasta 47 dB
+- Compatible con triple acristalamiento 4+12+4+12+4 con criptón → Ug = 0,5 W/m²K
+
+**BluEvolution 92 ALU** — revestido de aluminio al exterior. Ideal para viviendas de diseño contemporáneo que combinan la estética del aluminio con las prestaciones del PVC. Disponible en cualquier color RAL, incluidos negro mate, antracita y tonos madera.
+
+### El vidrio — triple Low-E con argón o criptón
+
+Para una vivienda construida en 2026, el doble acristalamiento ya no basta si busca un certificado energético de clase A o una casa pasiva.
+
+| Acristalamiento | Ug (W/m²K) | Ahorro frente al doble estándar | Ideal para |
+|---|---|---|---|
+| Doble estándar 4+16+4 | 1,0 | Referencia | Reformas con presupuesto |
+| Doble Low-E 4+16+4 argón | 0,6 | en torno al 25 % | El estándar recomendado |
+| Triple Low-E 4+12+4+12+4 argón | 0,5 | en torno al 35 % | Obra nueva, nZEB |
+| Triple Low-E con criptón | 0,4 | en torno al 45 % | Casas pasivas |
+
+### La instalación — nZEB con premarcos Blaugelb, obligatorio
+
+En una vivienda unifamiliar, los puentes térmicos perimetrales influyen directamente en el cálculo energético. Los premarcos Blaugelb Triotherm+ eliminan el puente térmico y son obligatorios para la certificación nZEB.
 
 ---
 
-## Exportación directa desde Bucarest — para rumanos en Francia y Europa
+## La integración con los sistemas domóticos
 
-Una ventana BluEvolution 92 (100×120 cm, triple Low-E) cuesta en Neofort BIZ 480–620 EUR instalada — el mismo producto en Francia o Alemania cuesta 900–1.400 EUR (**30–45% más barato**).
+La vivienda unifamiliar es el entorno ideal para automatizar por completo la carpintería. A diferencia de los bloques, donde las adaptaciones son limitadas, en una casa nueva la infraestructura eléctrica se planifica desde la cimentación.
+
+**La configuración recomendada para una casa domótica:**
+
+- **Puertas elevables-correderas** (terraza, jardín) — motor Somfy Yslo io, sensor de viento, integración con Apple HomeKit y Google Home
+- **Ventanas de dormitorio** — motor de cadena Somfy, sensor de CO2, apertura automática a 1.000 ppm
+- **Hub central** — Somfy TaHoma Switch o Loxone para el control unificado
+- **Escenas automáticas** — «Salida»: todas las ventanas se cierran y las persianas bajan; «Noche»: ventilación controlada al 10 % de apertura
 
 ---
 
-## Precios orientativos proyectos casas individuales — 2026
+## Exportación directa desde Bucarest — para rumanos en Francia, Alemania e Italia
 
-> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+Neofort BIZ entrega carpintería Salamander en toda Europa. Los perfiles más pedidos para exportación: **BluEvolution 92 FLEX** y **BluEvolution 92 ALU** — un perfil alemán, fabricado en Rumanía, entregado en Francia, Alemania o Italia **entre un 30 y un 45 % más barato** que el precio local.
 
-### Casa nueva 120 m²
+### ¿Por qué los rumanos en el extranjero eligen Neofort BIZ?
+
+**El precio** — una ventana BluEvolution 92 (100 × 120 cm, triple Low-E, argón) cuesta 480–620 EUR instalada en Neofort BIZ. El mismo producto cuesta 900–1.400 EUR en Francia o Alemania.
+
+**Calidad idéntica** — el perfil Salamander se fabrica en Alemania y se distribuye por toda Europa. No hay diferencia de calidad entre una ventana Salamander instalada en París y otra instalada en Bucarest.
+
+**Documentación completa** — entregamos con declaración de conformidad CE, ficha técnica y certificado de garantía, reconocidos en toda la UE.
+
+### Los países a los que enviamos con frecuencia
+
+**Francia** — la comunidad rumana de París, Lyon y la Île-de-France. Entrega en 3–4 días. Comunicación en rumano y francés.
+
+**Alemania** — la ruta de exportación más activa. Múnich, Fráncfort, Stuttgart, Berlín. Entrega en 2–3 días. Comunicación en rumano, alemán e inglés.
+
+**Italia** — una comunidad rumana amplia en Milán, Roma y Turín. Entrega en 3–5 días.
+
+**Austria, Bélgica, España** — bajo pedido, con evaluación individual por proyecto.
+
+---
+
+## Precios orientativos para proyectos de vivienda unifamiliar — 2026
+
+> ⚠️ **Nota importante:** los precios son orientativos y reflejan las condiciones de marzo de 2026. Los precios de los materiales y el tipo de cambio varían continuamente y pueden subir o bajar. Solicite siempre un presupuesto actualizado para su proyecto.
+
+### Vivienda nueva de 120 m² — configuración estándar
 
 | Configuración | Estimación total |
 |---|---|
 | BluEvolution 92 FLEX, triple Low-E, instalación nZEB | 18.000–26.000 EUR |
-| BluEvolution 92 ALU, triple Low-E, nZEB | 22.000–32.000 EUR |
+| BluEvolution 92 ALU, triple Low-E, instalación nZEB | 22.000–32.000 EUR |
+| Más automatización Somfy (correderas y sensores) | +3.000–6.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+### Vivienda nueva de 200 m² — configuración premium
 
-## Preguntas frecuentes
+| Configuración | Estimación total |
+|---|---|
+| BluEvolution 92 ALU, triple criptón, instalación nZEB completa | 35.000–55.000 EUR |
+| Más automatización Somfy TaHoma completa | +5.000–12.000 EUR |
 
-### ¿Por qué una casa individual necesita otro estándar de carpintería que un bloque?
+### Reforma completa de vivienda antigua de 100 m²
 
-En un bloque, el acristalamiento es el 20-30% de la fachada; en una casa individual moderna con ventanas grandes, terrazas acristaladas y puertas correderas, alcanza el 50-70% de la envolvente. La carpintería se vuelve el componente principal que determina el consumo, el confort térmico, el ruido y el aspecto de la casa.
+| Configuración | Estimación total |
+|---|---|
+| BluEvolution 92 FLEX, doble Low-E, instalación estándar | 12.000–18.000 EUR |
+| BluEvolution 92 ALU, triple Low-E, instalación nZEB | 16.000–24.000 EUR |
 
-### ¿Qué perfil Salamander se recomienda para una casa individual nueva?
-
-BluEvolution 92 (ALU o FLEX) — el único perfil Salamander con certificación completa nZEB y casa pasiva: 6 cámaras, 92-104 mm, Uw = 0,70 W/m²K, 3 juntas EPDM, aislamiento acústico hasta 47 dB y compatible con triple vidrio kriptón (Ug = 0,5 W/m²K).
-
-### ¿Cuánto puede costar a largo plazo ahorrar en las ventanas de una casa?
-
-Un ahorro del 15% en el coste de las ventanas puede suponer un aumento del 30-40% en la factura energética anual. En una casa de 150 m² con 25-30 años de vida útil, la diferencia acumulada puede ser de 20.000-40.000 EUR en costes energéticos — por eso la carpintería no es un detalle.
-
-### ¿Qué ventaja ofrece el BluEvolution 92 ALU para casas de diseño contemporáneo?
-
-El BluEvolution 92 ALU está revestido de aluminio en el exterior, combinando la estética del aluminio con el rendimiento térmico del PVC. Es ideal para casas de diseño contemporáneo, disponible en cualquier color RAL, incluido negro mate, antracita y tonos madera — un aspecto premium con aislamiento nZEB.
-
+Para un piso, el proceso completo de sustitución se describe aparte: [cambiar ventanas antiguas por Salamander — la guía completa](/es/blog/sustitucion-ventanas-renovacion-apartamento-bucarest).
 
 ---
 
-Neofort BIZ suministra carpintería Salamander para casas y chalets, con instalación en Bucarest e Ilfov y entrega en la Unión Europea. [Envíenos el plano de la vivienda](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc).
-`,
+## Cómo trabajamos en proyectos de vivienda unifamiliar
 
-      it: `## Perché una casa individuale ha bisogno di uno standard diverso da un condominio?
+En Neofort BIZ tratamos los proyectos de vivienda de forma distinta a los de piso. Cada proyecto unifamiliar incluye:
 
-In una casa individuale moderna, le superfici vetrate possono raggiungere il **50–70% dell'involucro edilizio**. Gli infissi diventano il **componente principale che determina** il consumo [energetico](/it/sistemi-nzeb) e il comfort.
+**Asesoramiento técnico ampliado** — un ingeniero disponible para el cálculo térmico de la envolvente, la recomendación del vidrio según la orientación de cada ventana y la comprobación de compatibilidad con los sistemas de automatización previstos.
+
+**Coordinación con el arquitecto y el constructor** — participamos en las reuniones de proyecto cuando hace falta y facilitamos fichas técnicas y declaraciones de prestaciones para el expediente de licencia.
+
+**Visitas de obra** — en obra nueva acudimos en las fases clave: antes del hormigonado de los vierteaguas, en el montaje de los premarcos y en la recepción final.
+
+**Exportación organizada por completo** — para clientes en el extranjero coordinamos toda la logística: producción, embalaje, transporte con seguro internacional y documentación aduanera de la UE.
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+
+## Preguntas frecuentes
+
+### ¿Por qué una vivienda unifamiliar necesita otro estándar de carpintería que un bloque?
+
+En un bloque, la superficie acristalada es del 20–30 % de la fachada; en una vivienda unifamiliar moderna con ventanales grandes, terrazas acristaladas y correderas, llega al 50–70 % de la envolvente. La carpintería pasa a ser el componente principal que determina el consumo, el confort, el ruido y el aspecto de la casa.
+
+### ¿Qué perfil Salamander se recomienda para una vivienda unifamiliar nueva?
+
+BluEvolution 92 (ALU o FLEX) — el único perfil Salamander con certificación completa nZEB y casa pasiva: 6 cámaras, 92–104 mm, Uw = 0,70 W/m²K, 3 juntas EPDM, aislamiento acústico hasta 47 dB y compatible con triple acristalamiento de criptón (Ug = 0,5 W/m²K).
+
+### ¿Cuánto puede costar a largo plazo un ahorro en las ventanas de una casa?
+
+Un ahorro del 15 % en el coste de las ventanas puede suponer un aumento del 30–40 % en la factura anual de energía. En una vivienda de 150 m² con 25–30 años de vida útil, la diferencia acumulada puede alcanzar los 20.000–40.000 EUR en costes energéticos — por eso la carpintería no es un detalle.
+
+### ¿Qué aporta el BluEvolution 92 ALU a las viviendas de diseño contemporáneo?
+
+El BluEvolution 92 ALU va revestido de aluminio al exterior y combina la estética del aluminio con las prestaciones térmicas del PVC. Encaja en viviendas de diseño contemporáneo, está disponible en cualquier color RAL, incluidos negro mate, antracita y tonos madera — aspecto premium con aislamiento nZEB.
+
+---
+
+Neofort BIZ suministra carpintería Salamander para casas y chalets, con instalación en Bucarest e Ilfov y entrega en la Unión Europea. [Envíenos el plano de la vivienda](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería PVC](/es/carpinteria-pvc) que ofrecemos.`,
+
+      it: `## Perché una casa unifamiliare richiede uno standard diverso da un condominio?
+
+In un condominio la superficie vetrata rappresenta il 20–30 % della facciata. In una casa unifamiliare moderna, con grandi vetrate, terrazze vetrate e porte scorrevoli, la superficie vetrata può arrivare al **50–70 % dell’involucro dell’edificio**.
+
+Questo significa che i serramenti non sono più un dettaglio — diventano **il componente principale che determina** il consumo energetico, il comfort termico, il livello di rumore e l’aspetto dell’intera casa.
+
+Un risparmio del 15 % sul costo delle finestre può tradursi in un aumento del 30–40 % della bolletta energetica annua. Su una casa di 150 m² con una vita utile di 25–30 anni, la differenza può arrivare a **20.000–40.000 EUR** di costi energetici cumulati.
 
 ---
 
 ## Consegna ed export in Europa — come funziona
 
-Consegniamo serramenti Salamander e Alumil oltre la Romania, e il processo varia in base alla destinazione e al tipo di progetto:
+Consegniamo serramenti Salamander e Alumil oltre i confini della Romania, e il processo varia in base alla destinazione e al tipo di progetto:
 
-**La Germania** è la destinazione di export più frequente: condizioni, requisiti tecnici e logistica sono dettagliati in [l’export di serramenti verso la Germania](/it/blog/esportazione-serramenti-romania-germania).
+**La Germania** è la destinazione di export più frequente: condizioni, requisiti tecnici e logistica sono descritti in [l’export di serramenti verso la Germania](/it/blog/esportazione-serramenti-romania-germania).
 
-**Ordini internazionali in generale** — come si ordina, quali documenti servono e come avviene la consegna: [dove trovare finestre Salamander con consegna internazionale](/it/blog/dove-trovare-finestre-salamander-con-consegna-internazionale).
+**Ordini internazionali in generale** — come si ordina, quali documenti servono e come si svolge la consegna: [dove trovare finestre Salamander con consegna internazionale](/it/blog/dove-trovare-finestre-salamander-con-consegna-internazionale).
 
-**Un progetto reale in Francia** — bluEvolution 92 con rivestimento in alluminio per una casa di montagna, con tutte le decisioni tecniche: [bluEvolution 92 alu-rivestito, export Francia](/it/blog/salamander-bluevolution-92-alu-rivestito-alluminio-esportazione-francia-casa-montagna).
+**Un progetto reale in Francia** — bluEvolution 92 con rivestimento in alluminio per una casa di montagna, con tutte le scelte tecniche spiegate: [bluEvolution 92 ALU, export in Francia](/it/blog/salamander-bluevolution-92-alu-rivestito-alluminio-esportazione-francia-casa-montagna).
 
-## Configurazione consigliata per una casa nuova nel 2026
+## La configurazione consigliata per una casa unifamiliare nuova nel 2026
 
-**Profilato — [BluEvolution 92](/it/infissi-pvc) ALU o FLEX**
-6 camere | 92–104 mm | Uw = 0,70 W/m²K | fino a 47 dB
+### Il profilo — BluEvolution 92 ALU o BluEvolution 92 FLEX
 
-**Vetro — triplo Low-E argon o kripton**
+**[BluEvolution 92](/it/infissi-pvc)** è l’unico profilo Salamander con certificazione completa per [lo standard nZEB](/it/sistemi-nzeb) e per la casa passiva.
 
-| Vetro | Ug (W/m²K) | Ideale per |
-|---|---|---|
-| Doppio Low-E 4+16+4 argon | 0,6 | Standard consigliato |
-| Triplo Low-E 4+12+4+12+4 argon | 0,5 | Nuove costruzioni, nZEB |
-| Triplo Low-E kripton | 0,4 | Case passive |
+- 6 camere | profondità 92–104 mm | Uw = 0,70 W/m²K
+- 3 guarnizioni EPDM | isolamento acustico fino a 47 dB
+- Compatibile con triplo vetro 4+12+4+12+4 con kripton → Ug = 0,5 W/m²K
+
+**BluEvolution 92 ALU** — rivestito in alluminio all’esterno. Ideale per case dal design contemporaneo che uniscono l’estetica dell’alluminio alle prestazioni del PVC. Disponibile in qualsiasi colore RAL, compresi nero opaco, antracite e tonalità legno.
+
+### Il vetro — triplo Low-E con argon o kripton
+
+Per una casa costruita nel 2026, il doppio vetro non basta più se puntate a un attestato energetico di classe A o a una casa passiva.
+
+| Vetro | Ug (W/m²K) | Risparmio rispetto al doppio standard | Ideale per |
+|---|---|---|---|
+| Doppio standard 4+16+4 | 1,0 | Riferimento | Ristrutturazioni a budget |
+| Doppio Low-E 4+16+4 argon | 0,6 | circa 25 % | Lo standard consigliato |
+| Triplo Low-E 4+12+4+12+4 argon | 0,5 | circa 35 % | Case nuove, nZEB |
+| Triplo Low-E con kripton | 0,4 | circa 45 % | Case passive |
+
+### La posa — nZEB con controtelai Blaugelb, obbligatoria
+
+In una casa unifamiliare i ponti termici perimetrali incidono direttamente sul calcolo energetico. I controtelai Blaugelb Triotherm+ eliminano il ponte termico e sono obbligatori per la certificazione nZEB.
 
 ---
 
-## Esportazione diretta da Bucarest — per i rumeni in Francia e Europa
+## L’integrazione con i sistemi domotici
 
-Una finestra BluEvolution 92 (100×120 cm, triplo Low-E) costa da Neofort BIZ 480–620 EUR posata — lo stesso prodotto in Francia o Germania costa 900–1.400 EUR (**30–45% più economico**).
+La casa unifamiliare è l’ambiente ideale per automatizzare completamente i serramenti. A differenza dei condomini, dove gli adattamenti sono limitati, in una casa nuova l’impianto elettrico si progetta fin dalle fondazioni.
+
+**La configurazione consigliata per una casa domotica:**
+
+- **Porte alzanti scorrevoli** (terrazza, giardino) — motore Somfy Yslo io, sensore vento, integrazione con Apple HomeKit e Google Home
+- **Finestre delle camere** — attuatore a catena Somfy, sensore CO2, apertura automatica a 1.000 ppm
+- **Hub centrale** — Somfy TaHoma Switch o Loxone per il controllo unificato
+- **Scenari automatici** — «Uscita»: tutte le finestre si chiudono e le tende scendono; «Notte»: ventilazione controllata al 10 % di apertura
 
 ---
 
-## Prezzi indicativi progetti case individuali — 2026
+## Export diretto da Bucarest — per i romeni in Francia, Germania e Italia
 
-> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+Neofort BIZ consegna serramenti Salamander in tutta Europa. I profili più richiesti per l’export: **BluEvolution 92 FLEX** e **BluEvolution 92 ALU** — un profilo tedesco, prodotto in Romania, consegnato in Francia, Germania o Italia con un **30–45 % in meno** rispetto al prezzo locale.
 
-### Casa nuova 120 m²
+### Perché i romeni all’estero scelgono Neofort BIZ?
+
+**Il prezzo** — una finestra BluEvolution 92 (100 × 120 cm, triplo Low-E, argon) costa 480–620 EUR posata da Neofort BIZ. Lo stesso prodotto costa 900–1.400 EUR in Francia o in Germania.
+
+**Qualità identica** — il profilo Salamander è prodotto in Germania e distribuito in tutta Europa. Non c’è differenza di qualità tra una finestra Salamander posata a Parigi e una posata a Bucarest.
+
+**Documentazione completa** — consegniamo con dichiarazione di conformità CE, scheda tecnica e certificato di garanzia, riconosciuti in tutta l’UE.
+
+### I paesi in cui consegniamo abitualmente
+
+**Francia** — la comunità romena di Parigi, Lione e dell’Île-de-France. Consegna in 3–4 giorni. Comunicazione in romeno e francese.
+
+**Germania** — la rotta di export più attiva. Monaco, Francoforte, Stoccarda, Berlino. Consegna in 2–3 giorni. Comunicazione in romeno, tedesco e inglese.
+
+**Italia** — un’ampia comunità romena a Milano, Roma e Torino. Consegna in 3–5 giorni.
+
+**Austria, Belgio, Spagna** — su richiesta, con valutazione individuale per progetto.
+
+---
+
+## Prezzi indicativi per progetti di case unifamiliari — 2026
+
+> ⚠️ **Nota importante:** i prezzi sono indicativi e riflettono le condizioni di marzo 2026. I prezzi dei materiali e i cambi valutari variano di continuo e possono salire o scendere. Richiedete sempre un preventivo aggiornato per il vostro progetto.
+
+### Casa nuova da 120 m² — configurazione standard
 
 | Configurazione | Stima totale |
 |---|---|
-| BluEvolution 92 FLEX, triplo Low-E, posa nZEB | 18.000–26.000 EUR |
-| BluEvolution 92 ALU, triplo Low-E, nZEB | 22.000–32.000 EUR |
+| BluEvolution 92 FLEX, triplo vetro Low-E, posa nZEB | 18.000–26.000 EUR |
+| BluEvolution 92 ALU, triplo vetro Low-E, posa nZEB | 22.000–32.000 EUR |
+| Più automazione Somfy (scorrevoli e sensori) | +3.000–6.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+### Casa nuova da 200 m² — configurazione premium
 
-## Domande frequenti
+| Configurazione | Stima totale |
+|---|---|
+| BluEvolution 92 ALU, triplo vetro kripton, posa nZEB completa | 35.000–55.000 EUR |
+| Più automazione Somfy TaHoma completa | +5.000–12.000 EUR |
 
-### Perché una casa individuale necessita di uno standard di serramenti diverso da un condominio?
+### Ristrutturazione completa di una casa vecchia da 100 m²
 
-In un condominio, la vetratura è il 20-30% della facciata; in una casa individuale moderna con grandi finestre, terrazze vetrate e porte scorrevoli, raggiunge il 50-70% dell'involucro. I serramenti diventano il componente principale che determina consumo, comfort termico, rumore e aspetto della casa.
+| Configurazione | Stima totale |
+|---|---|
+| BluEvolution 92 FLEX, doppio vetro Low-E, posa standard | 12.000–18.000 EUR |
+| BluEvolution 92 ALU, triplo vetro Low-E, posa nZEB | 16.000–24.000 EUR |
 
-### Quale profilo Salamander è consigliato per una casa individuale nuova?
-
-BluEvolution 92 (ALU o FLEX) — l'unico profilo Salamander con certificazione completa nZEB e casa passiva: 6 camere, 92-104 mm, Uw = 0,70 W/m²K, 3 guarnizioni EPDM, isolamento acustico fino a 47 dB e compatibile con triplo vetro krypton (Ug = 0,5 W/m²K).
-
-### Quanto può costare a lungo termine risparmiare sulle finestre di una casa?
-
-Un risparmio del 15% sul costo delle finestre può significare un aumento del 30-40% della bolletta energetica annua. Per una casa di 150 m² con 25-30 anni di vita utile, la differenza cumulata può essere di 20.000-40.000 EUR in costi energetici — per questo i serramenti non sono un dettaglio.
-
-### Quale vantaggio offre il BluEvolution 92 ALU per case dal design contemporaneo?
-
-Il BluEvolution 92 ALU è rivestito in alluminio all'esterno, combinando l'estetica dell'alluminio con le prestazioni termiche del PVC. È ideale per case dal design contemporaneo, disponibile in qualsiasi colore RAL, incluso nero opaco, antracite e tonalità legno — un aspetto premium con isolamento nZEB.
-
+Per un appartamento, l’intero processo di sostituzione è descritto a parte: [sostituire le vecchie finestre con Salamander — la guida completa](/it/blog/sostituzione-finestre-ristrutturazione-appartamento-bucarest).
 
 ---
 
-Neofort BIZ fornisce serramenti Salamander per case e ville, con posa a Bucarest e nell’Ilfov e consegna nell’Unione Europea. [Inviateci la pianta della casa](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc).
-`,
+## Come lavoriamo sui progetti di case unifamiliari
+
+In Neofort BIZ trattiamo i progetti di casa in modo diverso dagli appartamenti. Ogni progetto unifamiliare comprende:
+
+**Consulenza tecnica estesa** — un ingegnere disponibile per il calcolo termico dell’involucro, per consigliare il vetro in base all’orientamento di ciascuna finestra e per verificare la compatibilità con i sistemi di automazione previsti.
+
+**Coordinamento con l’architetto e il costruttore** — partecipiamo alle riunioni di progetto quando serve e forniamo schede tecniche e dichiarazioni di prestazione per la pratica edilizia.
+
+**Sopralluoghi in cantiere** — per le case nuove interveniamo nelle fasi chiave: prima del getto dei davanzali, alla posa dei controtelai e al collaudo finale.
+
+**Export organizzato per intero** — per i clienti all’estero coordiniamo tutta la logistica: produzione, imballaggio, trasporto con assicurazione internazionale e documentazione doganale UE.
+
+**WhatsApp:** +40 752 443 435 | **Lun–Ven 10–18**
+
+## Domande frequenti
+
+### Perché una casa unifamiliare richiede uno standard di serramenti diverso da un condominio?
+
+In un condominio la superficie vetrata è il 20–30 % della facciata; in una casa unifamiliare moderna con grandi vetrate, terrazze vetrate e scorrevoli arriva al 50–70 % dell’involucro. I serramenti diventano il componente principale che determina consumo, comfort, rumore e aspetto della casa.
+
+### Quale profilo Salamander è consigliato per una casa unifamiliare nuova?
+
+BluEvolution 92 (ALU o FLEX) — l’unico profilo Salamander con certificazione completa nZEB e casa passiva: 6 camere, 92–104 mm, Uw = 0,70 W/m²K, 3 guarnizioni EPDM, isolamento acustico fino a 47 dB e compatibile con triplo vetro al kripton (Ug = 0,5 W/m²K).
+
+### Quanto può costare nel lungo periodo un risparmio sulle finestre di una casa?
+
+Un risparmio del 15 % sul costo delle finestre può comportare un aumento del 30–40 % della bolletta energetica annua. Su una casa di 150 m² con 25–30 anni di vita utile, la differenza cumulata può raggiungere i 20.000–40.000 EUR di costi energetici — per questo i serramenti non sono un dettaglio.
+
+### Che cosa offre il BluEvolution 92 ALU alle case dal design contemporaneo?
+
+Il BluEvolution 92 ALU è rivestito in alluminio all’esterno e unisce l’estetica dell’alluminio alle prestazioni termiche del PVC. Si adatta alle case dal design contemporaneo, è disponibile in qualsiasi colore RAL, compresi nero opaco, antracite e tonalità legno — aspetto di pregio con isolamento nZEB.
+
+---
+
+Neofort BIZ fornisce serramenti Salamander per case e ville, con posa a Bucarest e nell’Ilfov e consegna nell’Unione Europea. [Inviateci la pianta della casa](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma PVC](/it/infissi-pvc) che offriamo.`,
     },
   },
 
