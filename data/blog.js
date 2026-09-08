@@ -15481,374 +15481,811 @@ Somfy și Nice sunt sisteme proprietare — dispozitivele funcționează în cad
 
 Neofort BIZ proiectează și montează tâmplărie din aluminiu Alumil în București și Ilfov, cu barieră termică și montaj cu echipe proprii. Vezi [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [ghidul complet al sistemelor din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
 
-      en: `## Why aluminium is the ideal material for smart home
+      en: `## Why aluminium is the ideal material for a smart home
 
-When it comes to smart homes, the window material seems irrelevant at first glance. But in practice, **aluminium has a decisive structural advantage over PVC**: profile rigidity allows electric motors to be mounted directly in the frame or hardware system, without deformation over time.
+When we talk about smart homes, the window material does not seem relevant at first sight. In practice, though, **aluminium has a decisive structural advantage over PVC**: the rigidity of the profile allows electric motors to be fitted directly into the frame or the hardware system, without distortion over time.
 
-A PVC profile deforms thermally by 2–3 mm at 40°C temperature variations — enough to jam a 24V motor mounted in the window frame. Aluminium has 6× lower thermal expansion, maintaining the tolerances required for automatic mechanisms over 20–30 years.
+A PVC profile deforms thermally by 2–3 mm across a 40 °C swing — enough to jam a 24 V motor fitted in the window frame. Aluminium expands six times less, holding the tolerances that automated mechanisms need for 20–30 years.
 
-**Practical conclusion:** if you are building or renovating a house with a smart home vision, [aluminium joinery](/en/aluminium-windows) is not an option — it is the only material that guarantees long-term operation of automatic systems.
+**The practical conclusion:** if you are building or renovating a house with a smart home in mind, [aluminium joinery](/en/aluminium-windows) is not an option — it is the only material that guarantees automated systems will keep working in the long run.
 
 ---
 
-## Compatible automation systems for Alumil aluminium joinery
+## Which automation systems work with Alumil aluminium joinery
 
-### Somfy — the de facto residential standard
+### Somfy — the de facto standard for residential
 
-**[Somfy](/en/accessories)** is the most widely used home joinery automation system in Europe. Native compatibility with all Alumil Supreme and Smartia systems.
+**[Somfy](/en/accessories)** is the most widely used automation system for residential joinery in Europe. Native compatibility with every Alumil Supreme and Smartia system.
 
 **Somfy motors compatible with aluminium joinery:**
-- **Somfy Yslo Extend io** — tubular motor for sliding and lift-and-slide doors. Force 160N, adjustable stroke, TaHoma Switch compatible.
-- **Somfy Chronis io** — motor with integrated astronomical programmer. Automatic opening/closing at sunset/sunrise, no external hub.
+
+- **Somfy Yslo Extend io** — tubular motor for sliding and lift-and-slide doors. 160 N force, adjustable travel, compatible with TaHoma Switch.
+- **Somfy Chronis io** — motor with a built-in astronomical timer. Automatic opening and closing at sunrise and sunset, with no external hub.
+- **Somfy Connexoon** — entry-level WiFi hub, controls up to 30 motors from the mobile app. Compatible with Apple HomeKit, Google Home and Amazon Alexa.
 - **Somfy TaHoma Switch** — premium KNX/io/RTS hub, full integration with BMS systems.
+
+**The io-homecontrol protocol** — Somfy’s proprietary encrypted protocol, 20 m range with meshing between devices. All io motors work with each other and with the Somfy apps.
 
 ### Nice — the competitive European alternative
 
-**Nice** (Italy) is the second option by volume on the Romanian market. Slightly better value at entry-level motors.
+**Nice** (Italy) is the second option by volume on the Romanian market. Slightly better value than Somfy on entry-level motors.
 
-### KNX — the standard for premium projects
+- **Nice Era One** — motor for sliding doors, 100 N force, built-in WiFi
+- **Nice Home** — mobile app and hub for up to 100 devices
+- **Nice IFTTT** — integration with third-party platforms via webhook
 
-**KNX** is the open European protocol for building automation (EN 50090). Unlike Somfy and Nice (proprietary systems), KNX is an open standard — any KNX device works with any other KNX device regardless of manufacturer.
+### KNX — the standard for premium projects and smart buildings
 
-**Choose KNX over Somfy when:**
-- New house project with complete automation (lighting + climate + joinery)
-- Project budget over EUR 15,000–20,000 for automation
-- Architect or systems integrator has specified KNX
+**KNX** is the open European protocol for building automation (EN 50090). Unlike Somfy and Nice, which are proprietary systems, KNX is an open standard — any KNX device works with any other KNX device, whatever the manufacturer.
+
+**When to choose KNX over Somfy:**
+- A new-build house with full automation (lighting, climate control and joinery)
+- A project budget above 15,000–20,000 EUR for automation
+- An architect or systems integrator who has specified KNX
+- You want a system with guaranteed technical support for 20+ years
+
+**Alumil compatibility with KNX:** the Supreme SF85 and Smartia S67 systems with Geze or Winkhaus motorisation can be integrated directly into a KNX network through compatible actuators. Neofort BIZ works with certified KNX integrators in Bucharest on complete projects.
 
 ---
 
-## Integration with major smart home ecosystems
+## Integration with the major smart home ecosystems
 
 ### Apple HomeKit
-Somfy TaHoma Switch and Nice Home are natively HomeKit compatible since 2024. Windows appear as accessories in the Home app on iPhone/iPad/Mac.
 
-**Voice control Siri:** "Hey Siri, close the bedroom windows"
+Apple HomeKit needs either a **homebridge** or natively compatible devices. Somfy TaHoma Switch and Nice Home have been HomeKit native since 2024 — the windows appear as accessories in the Home app on iPhone, iPad and Mac.
 
-### Google Home & Amazon Alexa
-Native compatibility via Somfy Connexoon or Nice Home. 5-minute setup.
+**What you can do with HomeKit and aluminium windows:**
+- Automatic opening at a set time or at a set room temperature
+- Scenes: “Leaving home” → close every window
+- Notifications if a window is left open when you leave
+- Siri voice control: “Hey Siri, close the bedroom windows”
 
-**Voice control:** "Ok Google, open the terrace door"
+### Google Home and Amazon Alexa
 
-### Loxone (premium residential projects)
-Most popular in Romania for premium residential projects. A complete Loxone project for a 200 m² house costs EUR 8,000–20,000 including hardware, programming and commissioning.
+Native compatibility through Somfy Connexoon or Nice Home. Set up in five minutes from the Google Home or Alexa apps.
+
+**Voice control:** “Ok Google, open the terrace door” → the lift-and-slide motor activates instantly.
+
+### KNX with Control4 / Crestron / Loxone (premium projects)
+
+For villas and houses over 500 sqm, integrators use centralised control platforms such as **Control4**, **Crestron** or **Loxone**. These run every system in the house — climate, lighting, security, joinery — from a single interface.
+
+**Loxone** is the most popular in Romania for premium residential projects. A complete Loxone project for a 200 sqm house costs 8,000–20,000 EUR including hardware, programming and commissioning.
 
 ---
 
-## Recommended Alumil systems for smart home
+## Recommended Alumil systems for a smart home
 
-**Alumil S700 Supreme** — lift-and-slide: ideal for smart terraces. Silent motor (< 45 dB), force 500N, opening up to 5,000 mm.
+### Alumil S700 Supreme — smart lift-and-slide
 
-**Alumil S350 Smartia** — sliding: economical system for terraces and bedrooms.
+**The ideal system for smart home terraces.** The electric motor is integrated into the lower track profile — visually invisible, quiet (< 45 dB), with 500 N of force, enough for panels weighing 400 kg.
 
-**Alumil SF85 Supreme** — tilt-and-turn motorised: chain actuator mounted invisibly in frame. Optional CO2 sensor: automatic opening when CO2 exceeds 1,000 ppm.
+- Compatibility: Somfy, Nice, Geze, Winkhaus
+- Maximum automated opening: 5,000 mm
+- Opening speed: 12–18 mm/s (a 3 m panel opens in about 4 minutes)
+- Obstacle sensor: automatic stop on unexpected resistance
+
+### Alumil S350 Smartia — automated slider
+
+**The economical system for terraces and bedrooms.** It needs less motor force than the S700 — compatible with entry-level Nice Era One motors as well.
+
+- Compatibility: Nice, Somfy Yslo
+- Motorisation cost: 800–1,500 EUR per complete system
+
+### Alumil SF85 Supreme — motorised tilt-and-turn windows
+
+**Standard windows with full automation.** The chain actuator mounts inside the frame, invisible from the room. Ideal for windows at height or for automatic ventilation controlled by CO2.
+
+- Compatibility: Somfy, Nice, Geze
+- Optional CO2 sensor: automatic opening when CO2 exceeds 1,000 ppm
+- Rain sensor: automatic closing within 30 seconds of the first drops
 
 ---
 
-## Automation costs — indicative 2026
+## Essential sensors for smart aluminium joinery
 
-> ⚠️ **Important note:** All prices are indicative and subject to change. Always request an updated quote.
+**Wind sensor** — mandatory for motorised sliding doors. Automatic closing at 45–60 km/h. Without a wind sensor, a 300 kg panel moving in gusts can damage the tracks.
+
+**Rain sensor** — integrates with motorised windows and with the shading system (Zipscreen or Raffstore). When it rains, the windows close and the blinds retract automatically.
+
+**Presence sensor** — automatic opening as you approach the entrance door or the terrace. Standard in KNX projects.
+
+**CO2 and air quality sensor** — opens the windows automatically when CO2 passes the set threshold. Important in bedrooms and home offices.
+
+---
+
+## Automation costs for aluminium joinery — 2026
+
+> ⚠️ **Important note:** the prices below are indicative and may change with the market. Always ask for an up-to-date quotation.
 
 | System | Configuration | Estimated cost |
 |---|---|---|
 | Somfy Yslo io | Motor per sliding system | 350–600 EUR |
 | Nice Era One | Motor per sliding system | 280–480 EUR |
-| Somfy Connexoon Hub | Control up to 30 motors | 180–250 EUR |
+| Somfy Connexoon Hub | Controls up to 30 motors | 180–250 EUR |
 | Somfy TaHoma Switch | Premium KNX hub | 450–650 EUR |
-| Wind sensor | Per installation | 80–150 EUR |
-| Complete KNX integration | Per 150 m² house project | 5,000–15,000 EUR |
+| Somfy wind sensor | Per installation | 80–150 EUR |
+| Rain sensor | Per installation | 60–120 EUR |
+| Full KNX integration | Per 150 sqm house project | 5,000–15,000 EUR |
+| Complete Loxone | Per 200 sqm house project | 8,000–20,000 EUR |
 
-**WhatsApp:** +40 752 443 435
+**Motorisation cost for a lift-and-slide terrace (S700, 3 m):** 1,200–2,500 EUR including motor, Somfy hub and configuration.
 
-## Frequently Asked Questions
+---
 
-### Why is aluminium more suitable than PVC for smart homes?
+## How to order aluminium joinery prepared for a smart home
 
-The rigidity of the aluminium profile allows electric motors to be mounted directly in the frame, without deformation over time. A PVC profile deforms thermally by 2-3 mm at 40°C swings — enough to jam a 24V motor. Aluminium expands 6× less, keeping tolerances for 20-30 years.
+At Neofort BIZ we supply Alumil systems **pre-configured for motorisation** — with the motor housings prepared in the profile, the electrical wiring routed through the frame and the sensor connections integrated at the factory. You will not have to break anything open after installation in order to add automation.
+
+**Our recommendation:** even if you do not want automation straight away, order the joinery with motor preparation. The extra cost is 50–150 EUR per sliding system — against 500–1,000 EUR if you add motorisation later through modifications.
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
+
+## Frequently asked questions
+
+### Why is aluminium better suited than PVC for a smart home?
+
+The rigidity of the aluminium profile allows electric motors to be fitted directly into the frame without distortion over time. A PVC profile deforms thermally by 2–3 mm across a 40 °C swing — enough to jam a 24 V motor. Aluminium expands six times less, holding the tolerances for 20–30 years.
 
 ### Which automation systems are compatible with Alumil aluminium joinery?
 
-Somfy is the de-facto standard, with native compatibility across all Alumil Supreme and Smartia systems via the encrypted io-homecontrol protocol. Nice (Italy) is the competitive alternative, and KNX (open EN 50090 standard) is recommended for premium projects and smart buildings.
+Somfy is the de facto standard, with native compatibility across all Alumil Supreme and Smartia systems through the encrypted io-homecontrol protocol. Nice (Italy) is the competitive alternative, while KNX (the open EN 50090 standard) is recommended for premium projects and smart buildings.
 
 ### Which Somfy hub controls automated windows and doors?
 
-Somfy Connexoon, an entry-level WiFi hub, controls up to 30 motors via the mobile app and is compatible with Apple HomeKit, Google Home and Amazon Alexa. For premium projects, Somfy TaHoma Switch offers full KNX/io/RTS integration with BMS systems.
+Somfy Connexoon, the entry-level WiFi hub, controls up to 30 motors from the mobile app and is compatible with Apple HomeKit, Google Home and Amazon Alexa. For premium projects, Somfy TaHoma Switch offers full KNX/io/RTS integration with BMS systems.
 
 ### What is the difference between Somfy, Nice and KNX for automated joinery?
 
-Somfy and Nice are proprietary systems — devices work within the same ecosystem. KNX is an open European standard (EN 50090): any KNX device works with any other KNX device, regardless of manufacturer, ideal for complex smart buildings.
+Somfy and Nice are proprietary systems — the devices work within their own ecosystem. KNX is an open European standard (EN 50090): any KNX device works with any other KNX device, whatever the manufacturer, which makes it ideal for complex smart buildings.
 
 ---
 
 Neofort BIZ designs and installs Alumil aluminium joinery in Bucharest and Ilfov, with thermal break and its own installation teams. See [the aluminium joinery](/en/aluminium-windows) we offer or [request a quote](/en/contact). All the details in [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
-      de: `## Warum Aluminium das ideale Material für Smart Home ist
+      de: `## Warum Aluminium das ideale Material für das Smart Home ist
 
-[Aluminium](/de/aluminiumfenster) hat einen entscheidenden strukturellen Vorteil gegenüber PVC: die Profilsteifigkeit ermöglicht die direkte Montage von Elektromotoren in Rahmen oder Beschlagsystem, ohne Verformung im Laufe der Zeit.
+Wenn von intelligenten Häusern die Rede ist, scheint das Material des Fensters auf den ersten Blick nebensächlich. In der Praxis hat **Aluminium jedoch einen entscheidenden konstruktiven Vorteil gegenüber PVC**: Die Steifigkeit des Profils erlaubt es, Elektromotoren direkt im Rahmen oder im Beschlagsystem unterzubringen, ohne dass es mit der Zeit zu Verformungen kommt.
 
-Ein PVC-Profil verformt sich bei 40°C Temperaturschwankungen thermisch um 2–3 mm — genug, um einen 24V-Motor zu blockieren. Aluminium hat eine 6× geringere Wärmedehnung.
+Ein PVC-Profil verformt sich thermisch um 2–3 mm bei einer Schwankung von 40 °C — genug, um einen im Fensterrahmen verbauten 24-V-Motor zu blockieren. Aluminium dehnt sich sechsmal weniger aus und hält damit die Toleranzen, die automatische Mechanismen über 20 bis 30 Jahre benötigen.
 
----
-
-## Kompatible Automatisierungssysteme für Alumil Aluminiumfenster
-
-### Somfy — der De-facto-Wohnstandard
-[Somfy](/de/zubehoer) ist das meistgenutzte Fensterautomatisierungssystem in Europa. Native Kompatibilität mit allen Alumil Supreme und Smartia Systemen.
-
-- **Somfy Yslo Extend io** — Rohrmotor für Schiebe- und Hebeschiebetüren, Kraft 160N
-- **Somfy TaHoma Switch** — Premium KNX/io/RTS Hub
-- **Somfy Connexoon** — WiFi Hub, Apple HomeKit, Google Home, Amazon Alexa kompatibel
-
-### KNX — Standard für Premium-Projekte
-KNX ist das offene europäische Protokoll für Gebäudeautomation (EN 50090). Alle KNX-Geräte sind untereinander kompatibel, unabhängig vom Hersteller.
-
-### Loxone — beliebteste Premium-Lösung in Rumänien
-Komplettes Loxone-Projekt für ein 200 m² Haus: 8.000–20.000 EUR inklusive Hardware, Programmierung und Inbetriebnahme.
+**Die praktische Schlussfolgerung:** Wenn Sie ein Haus mit Smart-Home-Perspektive bauen oder sanieren, sind [Aluminiumfenster](/de/aluminiumfenster) keine Option — sie sind das einzige Material, das die dauerhafte Funktion automatischer Systeme sicherstellt.
 
 ---
 
-## Empfohlene Alumil-Systeme für Smart Home
+## Welche Automatisierungssysteme mit Alumil-Aluminiumfenstern zusammenarbeiten
 
-**Alumil S700 Supreme** — Hebeschiebesystem: ideal für Smart-Terrassen. Stiller Motor (< 45 dB), Kraft 500N, Öffnung bis 5.000 mm.
+### Somfy — der De-facto-Standard im Wohnbereich
 
-**Alumil SF85 Supreme** — motorisierte Dreh-Kipp-Fenster: Kettenantrieb unsichtbar im Rahmen montiert. Optionaler CO2-Sensor: automatisches Öffnen bei CO2 > 1.000 ppm.
+**[Somfy](/de/zubehoer)** ist das in Europa am weitesten verbreitete Automatisierungssystem für Fenster im Wohnbau. Native Kompatibilität mit allen Systemen von Alumil Supreme und Smartia.
+
+**Mit Aluminiumfenstern kompatible Somfy-Motoren:**
+
+- **Somfy Yslo Extend io** — Rohrmotor für Schiebe- und Hebe-Schiebetüren. 160 N Kraft, einstellbarer Hub, kompatibel mit TaHoma Switch.
+- **Somfy Chronis io** — Motor mit integrierter Astro-Zeitschaltuhr. Automatisches Öffnen und Schließen bei Sonnenauf- und -untergang, ohne externen Hub.
+- **Somfy Connexoon** — WLAN-Einsteigerhub, steuert bis zu 30 Motoren über die mobile App. Kompatibel mit Apple HomeKit, Google Home und Amazon Alexa.
+- **Somfy TaHoma Switch** — Premium-Hub für KNX/io/RTS, vollständige Einbindung in BMS-Systeme.
+
+**Das Protokoll io-homecontrol** — das verschlüsselte proprietäre Protokoll von Somfy, 20 m Reichweite mit Vermaschung zwischen den Geräten. Alle io-Motoren sind untereinander und mit den Somfy-Apps kompatibel.
+
+### Nice — die wettbewerbsfähige europäische Alternative
+
+**Nice** (Italien) ist auf dem rumänischen Markt die zweitstärkste Option nach Volumen. Bei Einsteigermotoren etwas besseres Preis-Leistungs-Verhältnis als Somfy.
+
+- **Nice Era One** — Motor für Schiebetüren, 100 N Kraft, integriertes WLAN
+- **Nice Home** — mobile App und Hub für bis zu 100 Geräte
+- **Nice IFTTT** — Anbindung an Drittplattformen über Webhook
+
+### KNX — der Standard für Premiumprojekte und Smart Buildings
+
+**KNX** ist das offene europäische Protokoll für die Gebäudeautomation (EN 50090). Anders als Somfy und Nice, die proprietäre Systeme sind, ist KNX ein offener Standard — jedes KNX-Gerät arbeitet mit jedem anderen KNX-Gerät zusammen, unabhängig vom Hersteller.
+
+**Wann Sie KNX statt Somfy wählen:**
+- Neubau mit vollständiger Automatisierung (Beleuchtung, Klimatisierung und Fenster)
+- Projektbudget über 15.000–20.000 EUR für die Automatisierung
+- Architekt oder Systemintegrator hat KNX vorgegeben
+- Sie wollen ein System mit garantiertem technischem Support über 20 Jahre hinaus
+
+**Kompatibilität von Alumil mit KNX:** Die Systeme Supreme SF85 und Smartia S67 mit Motorisierung von Geze oder Winkhaus lassen sich über kompatible Aktoren direkt in ein KNX-Netz einbinden. Neofort BIZ arbeitet bei Gesamtprojekten mit zertifizierten KNX-Integratoren aus Bukarest zusammen.
 
 ---
 
-## Automatisierungskosten — orientativ 2026
+## Einbindung in die großen Smart-Home-Ökosysteme
 
-> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+### Apple HomeKit
 
-| System | Konfiguration | Geschätzter Preis |
+Apple HomeKit benötigt entweder eine **Homebridge** oder nativ kompatible Geräte. Somfy TaHoma Switch und Nice Home sind seit 2024 HomeKit-nativ — die Fenster erscheinen als Zubehör in der Home-App auf iPhone, iPad und Mac.
+
+**Was mit HomeKit und Aluminiumfenstern möglich ist:**
+- Automatisches Öffnen zu einer festgelegten Uhrzeit oder bei einer bestimmten Raumtemperatur
+- Szenen: „Haus verlassen" → alle Fenster schließen
+- Benachrichtigung, wenn ein Fenster beim Verlassen offen geblieben ist
+- Sprachsteuerung per Siri: „Hey Siri, schließe die Fenster im Schlafzimmer"
+
+### Google Home und Amazon Alexa
+
+Native Kompatibilität über Somfy Connexoon oder Nice Home. Einrichtung in fünf Minuten über die Apps Google Home oder Alexa.
+
+**Sprachsteuerung:** „Ok Google, öffne die Terrassentür" → der Hebe-Schiebe-Motor läuft sofort an.
+
+### KNX mit Control4 / Crestron / Loxone (Premiumprojekte)
+
+Für Villen und Häuser ab 500 m² setzen Integratoren zentrale Steuerungsplattformen wie **Control4**, **Crestron** oder **Loxone** ein. Diese steuern sämtliche Gewerke des Hauses — Klima, Beleuchtung, Sicherheit, Fenster — über eine einzige Oberfläche.
+
+**Loxone** ist in Rumänien bei gehobenen Wohnprojekten am beliebtesten. Ein komplettes Loxone-Projekt für ein Haus mit 200 m² kostet 8.000–20.000 EUR einschließlich Hardware, Programmierung und Inbetriebnahme.
+
+---
+
+## Empfohlene Alumil-Systeme für das Smart Home
+
+### Alumil S700 Supreme — smarte Hebe-Schiebetür
+
+**Das ideale System für Smart-Home-Terrassen.** Der Elektromotor ist in das untere Laufschienenprofil integriert — optisch unsichtbar, leise (< 45 dB), mit 500 N Kraft, ausreichend für Elemente von 400 kg.
+
+- Kompatibilität: Somfy, Nice, Geze, Winkhaus
+- Maximale automatische Öffnung: 5.000 mm
+- Öffnungsgeschwindigkeit: 12–18 mm/s (ein 3-m-Element öffnet in etwa 4 Minuten)
+- Hindernissensor: automatischer Stopp bei unerwartetem Widerstand
+
+### Alumil S350 Smartia — automatischer Schiebeflügel
+
+**Das wirtschaftliche System für Terrassen und Schlafzimmer.** Es benötigt weniger Motorkraft als das S700 — auch mit Einsteigermotoren Nice Era One kompatibel.
+
+- Kompatibilität: Nice, Somfy Yslo
+- Kosten der Motorisierung: 800–1.500 EUR je komplettes System
+
+### Alumil SF85 Supreme — motorisierte Dreh-Kipp-Fenster
+
+**Standardfenster mit vollständiger Automatisierung.** Der Kettenantrieb wird im Rahmen montiert, vom Raum aus unsichtbar. Ideal für hoch gelegene Fenster oder für eine automatische, CO2-geführte Lüftung.
+
+- Kompatibilität: Somfy, Nice, Geze
+- Optionaler CO2-Sensor: automatisches Öffnen, wenn der CO2-Wert 1.000 ppm übersteigt
+- Regensensor: automatisches Schließen binnen 30 Sekunden nach den ersten Tropfen
+
+---
+
+## Unverzichtbare Sensoren für smarte Aluminiumfenster
+
+**Windsensor** — bei motorisierten Schiebetüren zwingend. Automatisches Schließen bei 45–60 km/h. Ohne Windsensor kann ein 300 kg schweres Element in Böen die Laufschienen beschädigen.
+
+**Regensensor** — Einbindung motorisierter Fenster und der Beschattung (Zipscreen oder Raffstore). Bei Regen schließen die Fenster und die Behänge fahren automatisch ein.
+
+**Präsenzsensor** — automatisches Öffnen bei Annäherung an Eingangstür oder Terrasse. In KNX-Projekten Standard.
+
+**CO2- und Luftqualitätssensor** — öffnet die Fenster automatisch, wenn der CO2-Wert die eingestellte Schwelle überschreitet. Wichtig in Schlafzimmern und Arbeitszimmern.
+
+---
+
+## Kosten der Fensterautomatisierung — 2026
+
+> ⚠️ **Wichtiger Hinweis:** Die folgenden Preise sind Richtwerte und können sich mit dem Markt ändern. Fordern Sie stets ein aktuelles Angebot an.
+
+| System | Konfiguration | Geschätzte Kosten |
 |---|---|---|
-| Somfy Yslo io | Motor pro Schiebesystem | 350–600 EUR |
-| Nice Era One | Motor pro Schiebesystem | 280–480 EUR |
-| Somfy TaHoma Switch | Premium KNX Hub | 450–650 EUR |
-| KNX-Integration komplett | Haus 150 m² | 5.000–15.000 EUR |
-| Loxone komplett | Haus 200 m² | 8.000–20.000 EUR |
+| Somfy Yslo io | Motor je Schiebesystem | 350–600 EUR |
+| Nice Era One | Motor je Schiebesystem | 280–480 EUR |
+| Somfy Connexoon Hub | Steuert bis zu 30 Motoren | 180–250 EUR |
+| Somfy TaHoma Switch | Premium-Hub KNX | 450–650 EUR |
+| Somfy Windsensor | Je Anlage | 80–150 EUR |
+| Regensensor | Je Anlage | 60–120 EUR |
+| Vollständige KNX-Integration | Je Hausprojekt 150 m² | 5.000–15.000 EUR |
+| Loxone komplett | Je Hausprojekt 200 m² | 8.000–20.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+**Kosten der Motorisierung einer Hebe-Schiebe-Terrassentür (S700, 3 m):** 1.200–2.500 EUR einschließlich Motor, Somfy-Hub und Konfiguration.
+
+---
+
+## Wie Sie Aluminiumfenster smart-home-tauglich bestellen
+
+Bei Neofort BIZ liefern wir Alumil-Systeme **vorbereitet für die Motorisierung** — mit den Aufnahmen für die Motoren im Profil, der im Rahmen geführten Elektroverkabelung und den ab Werk integrierten Sensoranschlüssen. Sie müssen nach der Montage nichts aufstemmen, um Automatisierung nachzurüsten.
+
+**Unsere Empfehlung:** Auch wenn Sie die Automatisierung nicht sofort wollen, bestellen Sie die Fenster mit Motorvorbereitung. Der Aufpreis beträgt 50–150 EUR je Schiebesystem — gegenüber 500–1.000 EUR, wenn die Motorisierung später durch Umbauten ergänzt wird.
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
 
 ## Häufig gestellte Fragen
 
-### Warum ist Aluminium für Smart Homes besser geeignet als PVC?
+### Warum eignet sich Aluminium besser als PVC für das Smart Home?
 
-Die Steifigkeit des Aluminiumprofils ermöglicht den Einbau von Elektromotoren direkt im Rahmen, ohne Verformung über die Zeit. Ein PVC-Profil verformt sich thermisch um 2-3 mm bei 40°C-Schwankungen — genug, um einen 24V-Motor zu blockieren. Aluminium dehnt sich 6× weniger aus und hält Toleranzen 20-30 Jahre.
+Die Steifigkeit des Aluminiumprofils erlaubt den Einbau von Elektromotoren direkt im Rahmen, ohne Verformung über die Zeit. Ein PVC-Profil verformt sich thermisch um 2–3 mm bei 40 °C Schwankung — genug, um einen 24-V-Motor zu blockieren. Aluminium dehnt sich sechsmal weniger aus und hält die Toleranzen über 20 bis 30 Jahre.
 
-### Welche Automatisierungssysteme sind mit Alumil-Aluminiumprofilen kompatibel?
+### Welche Automatisierungssysteme sind mit Alumil-Aluminiumfenstern kompatibel?
 
-Somfy ist der De-facto-Standard, mit nativer Kompatibilität über alle Alumil-Supreme- und Smartia-Systeme via verschlüsseltem io-homecontrol-Protokoll. Nice (Italien) ist die konkurrenzfähige Alternative, und KNX (offener EN-50090-Standard) wird für Premium-Projekte und Smart Buildings empfohlen.
+Somfy ist der De-facto-Standard, mit nativer Kompatibilität für alle Systeme von Alumil Supreme und Smartia über das verschlüsselte Protokoll io-homecontrol. Nice (Italien) ist die wettbewerbsfähige Alternative, während KNX (der offene Standard EN 50090) für Premiumprojekte und Smart Buildings empfohlen wird.
 
-### Welcher Somfy-Hub steuert automatisierte Fenster und Türen?
+### Welcher Somfy-Hub steuert automatische Fenster und Türen?
 
-Somfy Connexoon, ein Einstiegs-WiFi-Hub, steuert bis zu 30 Motoren über die mobile App und ist kompatibel mit Apple HomeKit, Google Home und Amazon Alexa. Für Premium-Projekte bietet Somfy TaHoma Switch volle KNX/io/RTS-Integration mit BMS-Systemen.
+Somfy Connexoon, der WLAN-Einsteigerhub, steuert bis zu 30 Motoren über die mobile App und ist mit Apple HomeKit, Google Home und Amazon Alexa kompatibel. Für Premiumprojekte bietet Somfy TaHoma Switch die vollständige Einbindung von KNX/io/RTS in BMS-Systeme.
 
-### Was ist der Unterschied zwischen Somfy, Nice und KNX bei automatisierten Profilen?
+### Worin unterscheiden sich Somfy, Nice und KNX bei automatisierten Fenstern?
 
-Somfy und Nice sind proprietäre Systeme — Geräte arbeiten innerhalb desselben Ökosystems. KNX ist ein offener europäischer Standard (EN 50090): Jedes KNX-Gerät arbeitet mit jedem anderen KNX-Gerät, herstellerunabhängig, ideal für komplexe Smart Buildings.
+Somfy und Nice sind proprietäre Systeme — die Geräte arbeiten innerhalb des jeweils eigenen Ökosystems. KNX ist ein offener europäischer Standard (EN 50090): Jedes KNX-Gerät arbeitet mit jedem anderen KNX-Gerät zusammen, unabhängig vom Hersteller, was es für komplexe Smart Buildings ideal macht.
 
 ---
 
 Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit Wärmedämmbrücke und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details in [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
-      fr: `## Pourquoi l'aluminium est le matériau idéal pour la maison intelligente
+      fr: `## Pourquoi l’aluminium est le matériau idéal pour la maison connectée
 
-L'[aluminium](/fr/menuiserie-aluminium) a un avantage structurel décisif sur le PVC : la rigidité du profil permet de monter des moteurs électriques directement dans le dormant ou le système de quincaillerie, sans déformation dans le temps.
+Quand on parle de maison connectée, le matériau de la fenêtre ne semble pas déterminant au premier abord. En pratique, pourtant, **l’aluminium possède un avantage structurel décisif sur le PVC** : la rigidité du profilé permet d’intégrer les moteurs électriques directement dans le dormant ou dans la quincaillerie, sans déformation dans le temps.
 
-Un profil PVC se déforme thermiquement de 2–3 mm à des variations de 40°C — suffisant pour bloquer un moteur 24V monté dans le cadre. L'aluminium a une dilatation thermique 6× plus faible.
+Un profilé PVC se déforme thermiquement de 2 à 3 mm sur une amplitude de 40 °C — assez pour bloquer un moteur 24 V logé dans le cadre. L’aluminium se dilate six fois moins et conserve les tolérances nécessaires aux mécanismes automatiques pendant 20 à 30 ans.
 
----
-
-## Systèmes d'automatisation compatibles avec la menuiserie Alumil
-
-### Somfy — le standard de facto résidentiel
-[Somfy](/fr/accessoires) est le système d'automatisation de menuiserie le plus utilisé en Europe. Compatibilité native avec tous les systèmes Alumil Supreme et Smartia.
-
-- **Somfy Yslo Extend io** — moteur tubulaire pour portes coulissantes et levant-coulissantes, force 160N
-- **Somfy TaHoma Switch** — hub premium KNX/io/RTS
-- **Somfy Connexoon** — hub WiFi, compatible Apple HomeKit, Google Home, Amazon Alexa
-
-### KNX — standard pour projets premium
-KNX est le protocole européen ouvert pour la domotique (EN 50090). Tous les appareils KNX sont interopérables, quel que soit le fabricant.
-
-### Loxone — solution premium la plus populaire en Roumanie
-Projet Loxone complet pour une maison de 200 m² : 8.000–20.000 EUR incluant matériel, programmation et mise en service.
+**Conclusion pratique :** si vous construisez ou rénovez une maison avec une perspective domotique, [la menuiserie aluminium](/fr/menuiserie-aluminium) n’est pas une option — c’est le seul matériau qui garantisse le fonctionnement durable des systèmes automatisés.
 
 ---
 
-## Systèmes Alumil recommandés pour maison intelligente
+## Quels systèmes d’automatisation fonctionnent avec les menuiseries aluminium Alumil
 
-**Alumil S700 Supreme** — levant-coulissant : idéal pour terrasses connectées. Moteur silencieux (< 45 dB), force 500N, ouverture jusqu'à 5.000 mm.
+### Somfy — le standard de fait en résidentiel
 
-**Alumil SF85 Supreme** — fenêtres oscillo-battantes motorisées : actionneur à chaîne monté invisiblement dans le dormant. Capteur CO2 optionnel : ouverture automatique au-dessus de 1.000 ppm.
+**[Somfy](/fr/accessoires)** est le système d’automatisation le plus répandu en Europe pour les menuiseries résidentielles. Compatibilité native avec tous les systèmes Alumil Supreme et Smartia.
+
+**Moteurs Somfy compatibles avec les menuiseries aluminium :**
+
+- **Somfy Yslo Extend io** — moteur tubulaire pour portes coulissantes et levantes-coulissantes. Force 160 N, course réglable, compatible TaHoma Switch.
+- **Somfy Chronis io** — moteur avec horloge astronomique intégrée. Ouverture et fermeture automatiques au lever et au coucher du soleil, sans box externe.
+- **Somfy Connexoon** — box WiFi d’entrée de gamme, pilote jusqu’à 30 moteurs depuis l’application mobile. Compatible Apple HomeKit, Google Home et Amazon Alexa.
+- **Somfy TaHoma Switch** — box premium KNX/io/RTS, intégration complète aux systèmes de GTB.
+
+**Le protocole io-homecontrol** — le protocole propriétaire chiffré de Somfy, portée de 20 m avec maillage entre appareils. Tous les moteurs io sont compatibles entre eux et avec les applications Somfy.
+
+### Nice — l’alternative européenne compétitive
+
+**Nice** (Italie) est la deuxième option en volume sur le marché roumain. Rapport qualité-prix légèrement meilleur que Somfy sur les moteurs d’entrée de gamme.
+
+- **Nice Era One** — moteur pour portes coulissantes, force 100 N, WiFi intégré
+- **Nice Home** — application mobile et box pour jusqu’à 100 appareils
+- **Nice IFTTT** — intégration à des plateformes tierces par webhook
+
+### KNX — le standard des projets premium et des bâtiments intelligents
+
+**KNX** est le protocole européen ouvert pour l’automatisation des bâtiments (EN 50090). Contrairement à Somfy et Nice, systèmes propriétaires, KNX est un standard ouvert — tout appareil KNX fonctionne avec tout autre appareil KNX, quel que soit le fabricant.
+
+**Quand choisir KNX plutôt que Somfy :**
+- Maison neuve avec automatisation complète (éclairage, climatisation et menuiseries)
+- Budget d’automatisation supérieur à 15 000–20 000 EUR
+- Architecte ou intégrateur ayant prescrit KNX
+- Vous voulez un système au support technique garanti sur plus de 20 ans
+
+**Compatibilité Alumil avec KNX :** les systèmes Supreme SF85 et Smartia S67 motorisés par Geze ou Winkhaus s’intègrent directement au réseau KNX via des actionneurs compatibles. Neofort BIZ collabore avec des intégrateurs KNX certifiés de Bucarest sur les projets complets.
 
 ---
 
-## Coûts d'automatisation — indicatifs 2026
+## Intégration aux grands écosystèmes domotiques
 
-> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+### Apple HomeKit
+
+Apple HomeKit exige soit un **homebridge**, soit des appareils nativement compatibles. Somfy TaHoma Switch et Nice Home sont natifs HomeKit depuis 2024 — les fenêtres apparaissent comme accessoires dans l’application Maison sur iPhone, iPad et Mac.
+
+**Ce que permet HomeKit avec des fenêtres aluminium :**
+- Ouverture automatique à une heure définie ou selon la température de la pièce
+- Scènes : « Départ de la maison » → fermeture de toutes les fenêtres
+- Notification si une fenêtre est restée ouverte à votre départ
+- Commande vocale Siri : « Dis Siri, ferme les fenêtres de la chambre »
+
+### Google Home et Amazon Alexa
+
+Compatibilité native via Somfy Connexoon ou Nice Home. Configuration en cinq minutes depuis les applications Google Home ou Alexa.
+
+**Commande vocale :** « Ok Google, ouvre la porte de la terrasse » → le moteur levant-coulissant s’active aussitôt.
+
+### KNX avec Control4 / Crestron / Loxone (projets premium)
+
+Pour les villas et maisons de plus de 500 m², les intégrateurs utilisent des plateformes de pilotage centralisé comme **Control4**, **Crestron** ou **Loxone**. Elles gèrent tous les systèmes de la maison — climatisation, éclairage, sécurité, menuiseries — depuis une interface unique.
+
+**Loxone** est le plus répandu en Roumanie pour les projets résidentiels haut de gamme. Un projet Loxone complet pour une maison de 200 m² coûte 8 000 à 20 000 EUR, matériel, programmation et mise en service compris.
+
+---
+
+## Systèmes Alumil recommandés pour la maison connectée
+
+### Alumil S700 Supreme — levant-coulissant connecté
+
+**Le système idéal pour les terrasses connectées.** Le moteur électrique s’intègre dans le profilé bas du rail — invisible, silencieux (< 45 dB), force 500 N, suffisante pour des vantaux de 400 kg.
+
+- Compatibilité : Somfy, Nice, Geze, Winkhaus
+- Ouverture automatique maximale : 5 000 mm
+- Vitesse d’ouverture : 12–18 mm/s (un vantail de 3 m s’ouvre en 4 minutes environ)
+- Détecteur d’obstacle : arrêt automatique en cas de résistance inattendue
+
+### Alumil S350 Smartia — coulissant automatisé
+
+**Le système économique pour terrasses et chambres.** Il demande moins de force moteur que le S700 — compatible aussi avec les moteurs d’entrée de gamme Nice Era One.
+
+- Compatibilité : Nice, Somfy Yslo
+- Coût de motorisation : 800–1 500 EUR par système complet
+
+### Alumil SF85 Supreme — fenêtres oscillo-battantes motorisées
+
+**Des fenêtres standard entièrement automatisées.** Le moteur à chaîne se monte dans le dormant, invisible depuis la pièce. Idéal pour les fenêtres en hauteur ou pour une ventilation automatique pilotée par le CO2.
+
+- Compatibilité : Somfy, Nice, Geze
+- Capteur CO2 en option : ouverture automatique dès que le CO2 dépasse 1 000 ppm
+- Détecteur de pluie : fermeture automatique dans les 30 secondes suivant les premières gouttes
+
+---
+
+## Capteurs indispensables pour une menuiserie aluminium connectée
+
+**Capteur de vent** — obligatoire pour les portes coulissantes motorisées. Fermeture automatique à 45–60 km/h. Sans capteur de vent, un vantail de 300 kg en mouvement dans les rafales peut endommager les rails.
+
+**Détecteur de pluie** — intégré aux fenêtres motorisées et au système d’occultation (Zipscreen ou Raffstore). Sous la pluie, les fenêtres se ferment et les stores remontent automatiquement.
+
+**Détecteur de présence** — ouverture automatique à l’approche de la porte d’entrée ou de la terrasse. Standard dans les projets KNX.
+
+**Capteur CO2 et qualité de l’air** — ouverture automatique des fenêtres dès que le CO2 dépasse le seuil réglé. Important dans les chambres et les bureaux.
+
+---
+
+## Coûts d’automatisation des menuiseries aluminium — 2026
+
+> ⚠️ **Note importante :** les prix ci-dessous sont indicatifs et peuvent évoluer avec le marché. Demandez toujours un devis actualisé.
 
 | Système | Configuration | Coût estimé |
 |---|---|---|
 | Somfy Yslo io | Moteur par système coulissant | 350–600 EUR |
 | Nice Era One | Moteur par système coulissant | 280–480 EUR |
-| Somfy TaHoma Switch | Hub premium KNX | 450–650 EUR |
-| Intégration KNX complète | Maison 150 m² | 5.000–15.000 EUR |
-| Loxone complet | Maison 200 m² | 8.000–20.000 EUR |
+| Box Somfy Connexoon | Pilote jusqu’à 30 moteurs | 180–250 EUR |
+| Somfy TaHoma Switch | Box premium KNX | 450–650 EUR |
+| Capteur de vent Somfy | Par installation | 80–150 EUR |
+| Détecteur de pluie | Par installation | 60–120 EUR |
+| Intégration KNX complète | Par projet maison 150 m² | 5 000–15 000 EUR |
+| Loxone complet | Par projet maison 200 m² | 8 000–20 000 EUR |
 
-**WhatsApp :** +40 752 443 435
+**Coût de motorisation d’une baie levante-coulissante (S700, 3 m) :** 1 200–2 500 EUR, moteur, box Somfy et configuration compris.
+
+---
+
+## Comment commander des menuiseries aluminium prêtes pour la domotique
+
+Chez Neofort BIZ, nous livrons les systèmes Alumil **pré-équipés pour la motorisation** — logements des moteurs préparés dans le profilé, câblage électrique passé dans le dormant et connexions pour capteurs intégrées en usine. Vous n’aurez rien à casser après la pose pour ajouter l’automatisation.
+
+**Notre recommandation :** même si vous ne souhaitez pas l’automatisation immédiatement, commandez les menuiseries avec la préparation moteur. Le surcoût est de 50 à 150 EUR par système coulissant — contre 500 à 1 000 EUR si vous ajoutez la motorisation plus tard par modification.
+
+**WhatsApp :** +40 752 443 435 | **Lun–Ven 10–18**
 
 ## Questions fréquentes
 
-### Pourquoi l'aluminium est-il plus adapté que le PVC pour la maison connectée ?
+### Pourquoi l’aluminium convient-il mieux que le PVC à la maison connectée ?
 
-La rigidité du profilé aluminium permet de monter les moteurs électriques directement dans le dormant, sans déformation dans le temps. Un profilé PVC se déforme thermiquement de 2-3 mm à 40°C d'écart — assez pour bloquer un moteur 24V. L'aluminium se dilate 6× moins, gardant les tolérances 20-30 ans.
+La rigidité du profilé aluminium permet d’intégrer les moteurs électriques directement dans le dormant, sans déformation dans le temps. Un profilé PVC se déforme thermiquement de 2 à 3 mm sur 40 °C d’amplitude — assez pour bloquer un moteur 24 V. L’aluminium se dilate six fois moins et conserve les tolérances pendant 20 à 30 ans.
 
-### Quels systèmes d'automatisation sont compatibles avec la menuiserie aluminium Alumil ?
+### Quels systèmes d’automatisation sont compatibles avec les menuiseries aluminium Alumil ?
 
-Somfy est le standard de facto, avec compatibilité native sur tous les systèmes Alumil Supreme et Smartia via le protocole crypté io-homecontrol. Nice (Italie) est l'alternative compétitive, et KNX (standard ouvert EN 50090) est recommandé pour les projets premium et bâtiments intelligents.
+Somfy est le standard de fait, avec une compatibilité native sur tous les systèmes Alumil Supreme et Smartia via le protocole chiffré io-homecontrol. Nice (Italie) est l’alternative compétitive, tandis que KNX (standard ouvert EN 50090) est recommandé pour les projets premium et les bâtiments intelligents.
 
-### Quel hub Somfy contrôle les fenêtres et portes automatisées ?
+### Quelle box Somfy pilote les fenêtres et portes automatisées ?
 
-Somfy Connexoon, hub WiFi d'entrée de gamme, contrôle jusqu'à 30 moteurs via l'application mobile et est compatible Apple HomeKit, Google Home et Amazon Alexa. Pour les projets premium, Somfy TaHoma Switch offre une intégration complète KNX/io/RTS avec les systèmes BMS.
+Somfy Connexoon, la box WiFi d’entrée de gamme, pilote jusqu’à 30 moteurs depuis l’application mobile et est compatible Apple HomeKit, Google Home et Amazon Alexa. Pour les projets premium, Somfy TaHoma Switch offre l’intégration complète KNX/io/RTS aux systèmes de GTB.
 
-### Quelle différence entre Somfy, Nice et KNX pour la menuiserie automatisée ?
+### Quelle différence entre Somfy, Nice et KNX pour des menuiseries automatisées ?
 
-Somfy et Nice sont des systèmes propriétaires — les appareils fonctionnent au sein du même écosystème. KNX est un standard européen ouvert (EN 50090) : tout appareil KNX fonctionne avec tout autre appareil KNX, quel que soit le fabricant, idéal pour les bâtiments intelligents complexes.
+Somfy et Nice sont des systèmes propriétaires — les appareils fonctionnent au sein de leur propre écosystème. KNX est un standard européen ouvert (EN 50090) : tout appareil KNX fonctionne avec tout autre appareil KNX, quel que soit le fabricant, ce qui le rend idéal pour les bâtiments intelligents complexes.
 
 ---
 
 Neofort BIZ conçoit et pose de la menuiserie aluminium Alumil à Bucarest et Ilfov, à rupture thermique et avec ses propres équipes. Voir [la menuiserie aluminium](/fr/menuiserie-aluminium) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
-      es: `## Por qué el aluminio es el material ideal para el smart home
+      es: `## Por qué el aluminio es el material ideal para el hogar inteligente
 
-El [aluminio](/es/carpinteria-aluminio) tiene una ventaja estructural decisiva sobre el PVC: la rigidez del perfil permite montar motores eléctricos directamente en el marco o en el sistema de herrajes, sin deformación a lo largo del tiempo.
+Cuando se habla de casas inteligentes, el material de la ventana no parece relevante a primera vista. En la práctica, sin embargo, **el aluminio tiene una ventaja estructural decisiva sobre el PVC**: la rigidez del perfil permite montar los motores eléctricos directamente en el marco o en la herrajería, sin deformaciones con el tiempo.
 
-Un perfil de PVC se deforma térmicamente 2–3 mm con variaciones de 40°C — suficiente para bloquear un motor de 24V. El aluminio tiene una dilatación térmica 6× menor.
+Un perfil de PVC se deforma térmicamente entre 2 y 3 mm con una oscilación de 40 °C — suficiente para bloquear un motor de 24 V alojado en el marco. El aluminio se dilata seis veces menos y mantiene las tolerancias que necesitan los mecanismos automáticos durante 20 o 30 años.
 
----
-
-## Sistemas de automatización compatibles con la carpintería Alumil
-
-### Somfy — el estándar de facto residencial
-[Somfy](/es/accesorios) es el sistema de automatización de carpintería más utilizado en Europa. Compatibilidad nativa con todos los sistemas Alumil Supreme y Smartia.
-
-- **Somfy Yslo Extend io** — motor tubular para puertas correderas y elevadoras, fuerza 160N
-- **Somfy TaHoma Switch** — hub premium KNX/io/RTS
-- **Somfy Connexoon** — hub WiFi, compatible Apple HomeKit, Google Home, Amazon Alexa
-
-### KNX — estándar para proyectos premium
-KNX es el protocolo europeo abierto para la domótica (EN 50090). Todos los dispositivos KNX son interoperables, independientemente del fabricante.
+**Conclusión práctica:** si construye o reforma una vivienda pensando en domótica, [la carpintería de aluminio](/es/carpinteria-aluminio) no es una opción — es el único material que garantiza el funcionamiento duradero de los sistemas automáticos.
 
 ---
 
-## Sistemas Alumil recomendados para smart home
+## Qué sistemas de automatización funcionan con la carpintería de aluminio Alumil
 
-**Alumil S700 Supreme** — elevadora corredera: ideal para terrazas inteligentes. Motor silencioso (< 45 dB), fuerza 500N, apertura hasta 5.000 mm.
+### Somfy — el estándar de facto en residencial
 
-**Alumil SF85 Supreme** — ventanas oscilobatientes motorizadas: actuador de cadena montado invisiblemente en el marco. Sensor CO2 opcional: apertura automática por encima de 1.000 ppm.
+**[Somfy](/es/accesorios)** es el sistema de automatización más extendido en Europa para carpintería residencial. Compatibilidad nativa con todos los sistemas Alumil Supreme y Smartia.
+
+**Motores Somfy compatibles con carpintería de aluminio:**
+
+- **Somfy Yslo Extend io** — motor tubular para puertas correderas y elevables-correderas. Fuerza 160 N, recorrido regulable, compatible con TaHoma Switch.
+- **Somfy Chronis io** — motor con temporizador astronómico integrado. Apertura y cierre automáticos al amanecer y al anochecer, sin hub externo.
+- **Somfy Connexoon** — hub WiFi de entrada, controla hasta 30 motores desde la app móvil. Compatible con Apple HomeKit, Google Home y Amazon Alexa.
+- **Somfy TaHoma Switch** — hub premium KNX/io/RTS, integración completa con sistemas BMS.
+
+**El protocolo io-homecontrol** — el protocolo propietario cifrado de Somfy, alcance de 20 m con malla entre dispositivos. Todos los motores io son compatibles entre sí y con las aplicaciones Somfy.
+
+### Nice — la alternativa europea competitiva
+
+**Nice** (Italia) es la segunda opción por volumen en el mercado rumano. Relación calidad-precio algo mejor que Somfy en motores de gama de entrada.
+
+- **Nice Era One** — motor para puertas correderas, fuerza 100 N, WiFi integrado
+- **Nice Home** — app móvil y hub para hasta 100 dispositivos
+- **Nice IFTTT** — integración con plataformas de terceros mediante webhook
+
+### KNX — el estándar para proyectos premium y edificios inteligentes
+
+**KNX** es el protocolo europeo abierto para la automatización de edificios (EN 50090). A diferencia de Somfy y Nice, que son sistemas propietarios, KNX es un estándar abierto — cualquier dispositivo KNX funciona con cualquier otro dispositivo KNX, sea cual sea el fabricante.
+
+**Cuándo elegir KNX en lugar de Somfy:**
+- Obra nueva con automatización completa (iluminación, climatización y carpintería)
+- Presupuesto de automatización superior a 15.000–20.000 EUR
+- Arquitecto o integrador que ha prescrito KNX
+- Quiere un sistema con soporte técnico garantizado más de 20 años
+
+**Compatibilidad de Alumil con KNX:** los sistemas Supreme SF85 y Smartia S67 motorizados con Geze o Winkhaus se integran directamente en la red KNX mediante actuadores compatibles. Neofort BIZ colabora con integradores KNX certificados de Bucarest en proyectos completos.
 
 ---
 
-## Costes de automatización — orientativos 2026
+## Integración con los grandes ecosistemas domóticos
 
-> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+### Apple HomeKit
+
+Apple HomeKit necesita un **homebridge** o dispositivos nativamente compatibles. Somfy TaHoma Switch y Nice Home son nativos HomeKit desde 2024 — las ventanas aparecen como accesorios en la app Casa de iPhone, iPad y Mac.
+
+**Qué permite HomeKit con ventanas de aluminio:**
+- Apertura automática a una hora fijada o según la temperatura de la estancia
+- Escenas: «Salgo de casa» → cierre de todas las ventanas
+- Aviso si una ventana ha quedado abierta al salir
+- Control por voz con Siri: «Oye Siri, cierra las ventanas del dormitorio»
+
+### Google Home y Amazon Alexa
+
+Compatibilidad nativa mediante Somfy Connexoon o Nice Home. Configuración en cinco minutos desde las apps de Google Home o Alexa.
+
+**Control por voz:** «Ok Google, abre la puerta de la terraza» → el motor elevable-corredero se activa al instante.
+
+### KNX con Control4 / Crestron / Loxone (proyectos premium)
+
+Para chalets y viviendas de más de 500 m², los integradores emplean plataformas de control centralizado como **Control4**, **Crestron** o **Loxone**. Gestionan todos los sistemas de la casa — climatización, iluminación, seguridad, carpintería — desde una única interfaz.
+
+**Loxone** es el más extendido en Rumanía para proyectos residenciales de gama alta. Un proyecto Loxone completo para una vivienda de 200 m² cuesta entre 8.000 y 20.000 EUR, incluidos hardware, programación y puesta en marcha.
+
+---
+
+## Sistemas Alumil recomendados para el hogar inteligente
+
+### Alumil S700 Supreme — elevable-corredera inteligente
+
+**El sistema ideal para terrazas domóticas.** El motor eléctrico se integra en el perfil inferior de la guía — invisible, silencioso (< 45 dB), con 500 N de fuerza, suficiente para hojas de 400 kg.
+
+- Compatibilidad: Somfy, Nice, Geze, Winkhaus
+- Apertura automática máxima: 5.000 mm
+- Velocidad de apertura: 12–18 mm/s (una hoja de 3 m se abre en unos 4 minutos)
+- Sensor de obstáculo: parada automática ante una resistencia inesperada
+
+### Alumil S350 Smartia — corredera automatizada
+
+**El sistema económico para terrazas y dormitorios.** Requiere menos fuerza de motor que el S700 — compatible también con motores de entrada Nice Era One.
+
+- Compatibilidad: Nice, Somfy Yslo
+- Coste de motorización: 800–1.500 EUR por sistema completo
+
+### Alumil SF85 Supreme — ventanas oscilobatientes motorizadas
+
+**Ventanas estándar con automatización completa.** El motor de cadena se monta en el marco, invisible desde la estancia. Ideal para ventanas a gran altura o para ventilación automática controlada por CO2.
+
+- Compatibilidad: Somfy, Nice, Geze
+- Sensor de CO2 opcional: apertura automática cuando el CO2 supera 1.000 ppm
+- Sensor de lluvia: cierre automático en 30 segundos desde las primeras gotas
+
+---
+
+## Sensores imprescindibles en carpintería de aluminio inteligente
+
+**Sensor de viento** — obligatorio en puertas correderas motorizadas. Cierre automático a 45–60 km/h. Sin sensor de viento, una hoja de 300 kg en movimiento con rachas puede dañar las guías.
+
+**Sensor de lluvia** — integrado con las ventanas motorizadas y con el sistema de sombreado (Zipscreen o Raffstore). Al llover, las ventanas se cierran y los estores se recogen automáticamente.
+
+**Sensor de presencia** — apertura automática al acercarse a la puerta de entrada o a la terraza. Estándar en los proyectos KNX.
+
+**Sensor de CO2 y calidad del aire** — abre las ventanas automáticamente cuando el CO2 supera el umbral fijado. Importante en dormitorios y despachos.
+
+---
+
+## Costes de automatización de la carpintería de aluminio — 2026
+
+> ⚠️ **Nota importante:** los precios siguientes son orientativos y pueden variar con el mercado. Solicite siempre un presupuesto actualizado.
 
 | Sistema | Configuración | Coste estimado |
 |---|---|---|
-| Somfy Yslo io | Motor por sistema corredera | 350–600 EUR |
-| Nice Era One | Motor por sistema corredera | 280–480 EUR |
+| Somfy Yslo io | Motor por sistema corredero | 350–600 EUR |
+| Nice Era One | Motor por sistema corredero | 280–480 EUR |
+| Hub Somfy Connexoon | Controla hasta 30 motores | 180–250 EUR |
 | Somfy TaHoma Switch | Hub premium KNX | 450–650 EUR |
-| Integración KNX completa | Casa 150 m² | 5.000–15.000 EUR |
-| Loxone completo | Casa 200 m² | 8.000–20.000 EUR |
+| Sensor de viento Somfy | Por instalación | 80–150 EUR |
+| Sensor de lluvia | Por instalación | 60–120 EUR |
+| Integración KNX completa | Por proyecto de vivienda 150 m² | 5.000–15.000 EUR |
+| Loxone completo | Por proyecto de vivienda 200 m² | 8.000–20.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+**Coste de motorización de una terraza elevable-corredera (S700, 3 m):** 1.200–2.500 EUR incluidos motor, hub Somfy y configuración.
+
+---
+
+## Cómo pedir carpintería de aluminio preparada para domótica
+
+En Neofort BIZ entregamos sistemas Alumil **preconfigurados para motorización** — con los alojamientos de los motores preparados en el perfil, el cableado eléctrico pasado por el marco y las conexiones para sensores integradas de fábrica. No tendrá que picar nada después del montaje para añadir automatización.
+
+**Nuestra recomendación:** aunque no quiera automatización de inmediato, pida la carpintería con preparación para motor. El sobrecoste es de 50–150 EUR por sistema corredero — frente a 500–1.000 EUR si añade la motorización más tarde mediante modificaciones.
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
 ## Preguntas frecuentes
 
-### ¿Por qué el aluminio es más adecuado que el PVC para el hogar inteligente?
+### ¿Por qué el aluminio se adapta mejor que el PVC al hogar inteligente?
 
-La rigidez del perfil de aluminio permite montar los motores eléctricos directamente en el marco, sin deformación con el tiempo. Un perfil de PVC se deforma térmicamente 2-3 mm con cambios de 40°C — suficiente para bloquear un motor de 24V. El aluminio se dilata 6× menos, manteniendo las tolerancias 20-30 años.
+La rigidez del perfil de aluminio permite montar los motores eléctricos directamente en el marco, sin deformaciones con el tiempo. Un perfil de PVC se deforma térmicamente entre 2 y 3 mm con 40 °C de oscilación — suficiente para bloquear un motor de 24 V. El aluminio se dilata seis veces menos y mantiene las tolerancias durante 20 o 30 años.
 
 ### ¿Qué sistemas de automatización son compatibles con la carpintería de aluminio Alumil?
 
-Somfy es el estándar de facto, con compatibilidad nativa en todos los sistemas Alumil Supreme y Smartia mediante el protocolo cifrado io-homecontrol. Nice (Italia) es la alternativa competitiva, y KNX (estándar abierto EN 50090) se recomienda para proyectos premium y edificios inteligentes.
+Somfy es el estándar de facto, con compatibilidad nativa en todos los sistemas Alumil Supreme y Smartia mediante el protocolo cifrado io-homecontrol. Nice (Italia) es la alternativa competitiva, mientras que KNX (estándar abierto EN 50090) se recomienda para proyectos premium y edificios inteligentes.
 
 ### ¿Qué hub Somfy controla las ventanas y puertas automatizadas?
 
-Somfy Connexoon, hub WiFi de entrada, controla hasta 30 motores mediante la app móvil y es compatible con Apple HomeKit, Google Home y Amazon Alexa. Para proyectos premium, Somfy TaHoma Switch ofrece integración completa KNX/io/RTS con sistemas BMS.
+Somfy Connexoon, el hub WiFi de entrada, controla hasta 30 motores desde la app móvil y es compatible con Apple HomeKit, Google Home y Amazon Alexa. Para proyectos premium, Somfy TaHoma Switch ofrece integración completa KNX/io/RTS con sistemas BMS.
 
-### ¿Qué diferencia hay entre Somfy, Nice y KNX para carpintería automatizada?
+### ¿Qué diferencia hay entre Somfy, Nice y KNX en carpintería automatizada?
 
-Somfy y Nice son sistemas propietarios — los dispositivos funcionan dentro del mismo ecosistema. KNX es un estándar europeo abierto (EN 50090): cualquier dispositivo KNX funciona con cualquier otro dispositivo KNX, sin importar el fabricante, ideal para edificios inteligentes complejos.
+Somfy y Nice son sistemas propietarios — los dispositivos funcionan dentro de su propio ecosistema. KNX es un estándar europeo abierto (EN 50090): cualquier dispositivo KNX funciona con cualquier otro dispositivo KNX, sea cual sea el fabricante, lo que lo hace ideal para edificios inteligentes complejos.
 
 ---
 
 Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico y equipos propios. Ver [la carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicita un presupuesto](/es/contacto). Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
-      it: `## Perché l'alluminio è il materiale ideale per lo smart home
+      it: `## Perché l’alluminio è il materiale ideale per la casa intelligente
 
-L'[alluminio](/it/infissi-alluminio) ha un vantaggio strutturale decisivo rispetto al PVC: la rigidità del profilo consente di montare motori elettrici direttamente nel telaio o nel sistema di ferramenta, senza deformazione nel tempo.
+Quando si parla di case intelligenti, il materiale della finestra non sembra rilevante a prima vista. Nella pratica, però, **l’alluminio ha un vantaggio strutturale decisivo sul PVC**: la rigidità del profilo consente di montare i motori elettrici direttamente nel telaio o nella ferramenta, senza deformazioni nel tempo.
 
-Un profilo PVC si deforma termicamente di 2–3 mm a variazioni di 40°C — sufficiente per bloccare un motore 24V. L'alluminio ha una dilatazione termica 6× inferiore.
+Un profilo in PVC si deforma termicamente di 2–3 mm con un’escursione di 40 °C — abbastanza per bloccare un motore a 24 V alloggiato nel telaio. L’alluminio si dilata sei volte meno e mantiene le tolleranze necessarie ai meccanismi automatici per 20–30 anni.
 
----
-
-## Sistemi di automazione compatibili con la falegnameria Alumil
-
-### Somfy — lo standard de facto residenziale
-[Somfy](/it/accessori) è il sistema di automazione per serramenti più utilizzato in Europa. Compatibilità nativa con tutti i sistemi Alumil Supreme e Smartia.
-
-- **Somfy Yslo Extend io** — motore tubolare per porte scorrevoli e alzanti, forza 160N
-- **Somfy TaHoma Switch** — hub premium KNX/io/RTS
-- **Somfy Connexoon** — hub WiFi, compatibile Apple HomeKit, Google Home, Amazon Alexa
-
-### KNX — standard per progetti premium
-KNX è il protocollo europeo aperto per la domotica (EN 50090). Tutti i dispositivi KNX sono interoperabili, indipendentemente dal produttore.
-
-### Loxone — soluzione premium più popolare in Romania
-Progetto Loxone completo per una casa di 200 m²: 8.000–20.000 EUR inclusi hardware, programmazione e messa in servizio.
+**Conclusione pratica:** se costruite o ristrutturate una casa in ottica domotica, [i serramenti in alluminio](/it/infissi-alluminio) non sono un’opzione — sono l’unico materiale che garantisce il funzionamento duraturo dei sistemi automatici.
 
 ---
 
-## Sistemi Alumil consigliati per smart home
+## Quali sistemi di automazione funzionano con i serramenti in alluminio Alumil
 
-**Alumil S700 Supreme** — alzante scorrevole: ideale per terrazze intelligenti. Motore silenzioso (< 45 dB), forza 500N, apertura fino a 5.000 mm.
+### Somfy — lo standard di fatto nel residenziale
 
-**Alumil SF85 Supreme** — finestre ribaltabili motorizzate: attuatore a catena montato invisibilmente nel telaio. Sensore CO2 opzionale: apertura automatica oltre 1.000 ppm.
+**[Somfy](/it/accessori)** è il sistema di automazione più diffuso in Europa per i serramenti residenziali. Compatibilità nativa con tutti i sistemi Alumil Supreme e Smartia.
+
+**Motori Somfy compatibili con i serramenti in alluminio:**
+
+- **Somfy Yslo Extend io** — motore tubolare per porte scorrevoli e alzanti scorrevoli. Forza 160 N, corsa regolabile, compatibile con TaHoma Switch.
+- **Somfy Chronis io** — motore con temporizzatore astronomico integrato. Apertura e chiusura automatiche all’alba e al tramonto, senza hub esterno.
+- **Somfy Connexoon** — hub WiFi di ingresso, comanda fino a 30 motori dall’app mobile. Compatibile con Apple HomeKit, Google Home e Amazon Alexa.
+- **Somfy TaHoma Switch** — hub premium KNX/io/RTS, integrazione completa con sistemi BMS.
+
+**Il protocollo io-homecontrol** — il protocollo proprietario cifrato di Somfy, portata 20 m con maglia tra i dispositivi. Tutti i motori io sono compatibili tra loro e con le applicazioni Somfy.
+
+### Nice — l’alternativa europea competitiva
+
+**Nice** (Italia) è la seconda opzione per volume sul mercato rumeno. Rapporto qualità-prezzo leggermente migliore di Somfy sui motori di fascia d’ingresso.
+
+- **Nice Era One** — motore per porte scorrevoli, forza 100 N, WiFi integrato
+- **Nice Home** — app mobile e hub per un massimo di 100 dispositivi
+- **Nice IFTTT** — integrazione con piattaforme di terze parti tramite webhook
+
+### KNX — lo standard per progetti premium ed edifici intelligenti
+
+**KNX** è il protocollo europeo aperto per l’automazione degli edifici (EN 50090). A differenza di Somfy e Nice, che sono sistemi proprietari, KNX è uno standard aperto — qualsiasi dispositivo KNX funziona con qualsiasi altro dispositivo KNX, indipendentemente dal produttore.
+
+**Quando scegliere KNX invece di Somfy:**
+- Casa nuova con automazione completa (illuminazione, climatizzazione e serramenti)
+- Budget di automazione superiore a 15.000–20.000 EUR
+- Architetto o integratore che ha prescritto KNX
+- Volete un sistema con supporto tecnico garantito per oltre 20 anni
+
+**Compatibilità di Alumil con KNX:** i sistemi Supreme SF85 e Smartia S67 motorizzati con Geze o Winkhaus si integrano direttamente nella rete KNX tramite attuatori compatibili. Neofort BIZ collabora con integratori KNX certificati di Bucarest sui progetti completi.
 
 ---
 
-## Costi di automazione — indicativi 2026
+## Integrazione con i principali ecosistemi domotici
 
-> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+### Apple HomeKit
+
+Apple HomeKit richiede un **homebridge** oppure dispositivi nativamente compatibili. Somfy TaHoma Switch e Nice Home sono nativi HomeKit dal 2024 — le finestre compaiono come accessori nell’app Casa su iPhone, iPad e Mac.
+
+**Che cosa permette HomeKit con finestre in alluminio:**
+- Apertura automatica a un orario impostato o in base alla temperatura della stanza
+- Scenari: «Esco di casa» → chiusura di tutte le finestre
+- Notifica se una finestra è rimasta aperta al momento di uscire
+- Comando vocale Siri: «Ehi Siri, chiudi le finestre della camera»
+
+### Google Home e Amazon Alexa
+
+Compatibilità nativa tramite Somfy Connexoon o Nice Home. Configurazione in cinque minuti dalle app Google Home o Alexa.
+
+**Comando vocale:** «Ok Google, apri la porta della terrazza» → il motore alzante scorrevole si attiva all’istante.
+
+### KNX con Control4 / Crestron / Loxone (progetti premium)
+
+Per ville e case oltre i 500 m², gli integratori impiegano piattaforme di controllo centralizzato come **Control4**, **Crestron** o **Loxone**. Gestiscono tutti gli impianti della casa — clima, illuminazione, sicurezza, serramenti — da un’unica interfaccia.
+
+**Loxone** è il più diffuso in Romania nei progetti residenziali di pregio. Un progetto Loxone completo per una casa di 200 m² costa tra 8.000 e 20.000 EUR, compresi hardware, programmazione e messa in servizio.
+
+---
+
+## Sistemi Alumil consigliati per la casa intelligente
+
+### Alumil S700 Supreme — alzante scorrevole smart
+
+**Il sistema ideale per le terrazze domotiche.** Il motore elettrico è integrato nel profilo inferiore della guida — invisibile, silenzioso (< 45 dB), con 500 N di forza, sufficienti per ante da 400 kg.
+
+- Compatibilità: Somfy, Nice, Geze, Winkhaus
+- Apertura automatica massima: 5.000 mm
+- Velocità di apertura: 12–18 mm/s (un’anta da 3 m si apre in circa 4 minuti)
+- Sensore ostacoli: arresto automatico in caso di resistenza imprevista
+
+### Alumil S350 Smartia — scorrevole automatizzato
+
+**Il sistema economico per terrazze e camere.** Richiede meno forza motore rispetto all’S700 — compatibile anche con i motori di ingresso Nice Era One.
+
+- Compatibilità: Nice, Somfy Yslo
+- Costo della motorizzazione: 800–1.500 EUR per sistema completo
+
+### Alumil SF85 Supreme — finestre anta-ribalta motorizzate
+
+**Finestre standard con automazione completa.** L’attuatore a catena si monta nel telaio, invisibile dall’interno. Ideale per finestre in quota o per una ventilazione automatica governata dalla CO2.
+
+- Compatibilità: Somfy, Nice, Geze
+- Sensore CO2 opzionale: apertura automatica quando la CO2 supera 1.000 ppm
+- Sensore pioggia: chiusura automatica entro 30 secondi dalle prime gocce
+
+---
+
+## Sensori indispensabili per serramenti in alluminio smart
+
+**Sensore vento** — obbligatorio per le porte scorrevoli motorizzate. Chiusura automatica a 45–60 km/h. Senza sensore vento, un’anta da 300 kg in movimento con le raffiche può danneggiare le guide.
+
+**Sensore pioggia** — integrato con le finestre motorizzate e con il sistema di oscuramento (Zipscreen o Raffstore). Con la pioggia le finestre si chiudono e le tende si ritirano automaticamente.
+
+**Sensore di presenza** — apertura automatica all’avvicinarsi della porta d’ingresso o della terrazza. Standard nei progetti KNX.
+
+**Sensore CO2 e qualità dell’aria** — apre le finestre automaticamente quando la CO2 supera la soglia impostata. Importante in camere e studi.
+
+---
+
+## Costi di automazione dei serramenti in alluminio — 2026
+
+> ⚠️ **Nota importante:** i prezzi seguenti sono indicativi e possono variare con il mercato. Richiedete sempre un preventivo aggiornato.
 
 | Sistema | Configurazione | Costo stimato |
 |---|---|---|
 | Somfy Yslo io | Motore per sistema scorrevole | 350–600 EUR |
 | Nice Era One | Motore per sistema scorrevole | 280–480 EUR |
+| Hub Somfy Connexoon | Comanda fino a 30 motori | 180–250 EUR |
 | Somfy TaHoma Switch | Hub premium KNX | 450–650 EUR |
-| Integrazione KNX completa | Casa 150 m² | 5.000–15.000 EUR |
-| Loxone completo | Casa 200 m² | 8.000–20.000 EUR |
+| Sensore vento Somfy | Per impianto | 80–150 EUR |
+| Sensore pioggia | Per impianto | 60–120 EUR |
+| Integrazione KNX completa | Per progetto casa 150 m² | 5.000–15.000 EUR |
+| Loxone completo | Per progetto casa 200 m² | 8.000–20.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+**Costo di motorizzazione di una terrazza alzante scorrevole (S700, 3 m):** 1.200–2.500 EUR compresi motore, hub Somfy e configurazione.
+
+---
+
+## Come ordinare serramenti in alluminio predisposti per la domotica
+
+In Neofort BIZ consegniamo sistemi Alumil **predisposti per la motorizzazione** — con le sedi dei motori già ricavate nel profilo, il cablaggio elettrico passato nel telaio e i collegamenti per i sensori integrati in fabbrica. Non dovrete demolire nulla dopo la posa per aggiungere l’automazione.
+
+**Il nostro consiglio:** anche se non volete l’automazione subito, ordinate i serramenti con la predisposizione motore. Il sovrapprezzo è di 50–150 EUR per sistema scorrevole — contro 500–1.000 EUR se aggiungete la motorizzazione in seguito con modifiche.
+
+**WhatsApp:** +40 752 443 435 | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
-### Perché l'alluminio è più adatto del PVC per la casa intelligente?
+### Perché l’alluminio è più adatto del PVC per la casa intelligente?
 
-La rigidità del profilo in alluminio consente di montare i motori elettrici direttamente nel telaio, senza deformazioni nel tempo. Un profilo in PVC si deforma termicamente di 2-3 mm con sbalzi di 40°C — abbastanza da bloccare un motore da 24V. L'alluminio si dilata 6× meno, mantenendo le tolleranze 20-30 anni.
+La rigidità del profilo in alluminio consente di montare i motori elettrici direttamente nel telaio, senza deformazioni nel tempo. Un profilo in PVC si deforma termicamente di 2–3 mm con 40 °C di escursione — abbastanza per bloccare un motore a 24 V. L’alluminio si dilata sei volte meno e mantiene le tolleranze per 20–30 anni.
 
 ### Quali sistemi di automazione sono compatibili con i serramenti in alluminio Alumil?
 
-Somfy è lo standard di fatto, con compatibilità nativa su tutti i sistemi Alumil Supreme e Smartia tramite il protocollo criptato io-homecontrol. Nice (Italia) è l'alternativa competitiva, e KNX (standard aperto EN 50090) è consigliato per progetti premium ed edifici intelligenti.
+Somfy è lo standard di fatto, con compatibilità nativa su tutti i sistemi Alumil Supreme e Smartia tramite il protocollo cifrato io-homecontrol. Nice (Italia) è l’alternativa competitiva, mentre KNX (standard aperto EN 50090) è consigliato per progetti premium ed edifici intelligenti.
 
-### Quale hub Somfy controlla finestre e porte automatizzate?
+### Quale hub Somfy comanda finestre e porte automatizzate?
 
-Somfy Connexoon, hub WiFi di base, controlla fino a 30 motori tramite l'app mobile ed è compatibile con Apple HomeKit, Google Home e Amazon Alexa. Per progetti premium, Somfy TaHoma Switch offre integrazione completa KNX/io/RTS con sistemi BMS.
+Somfy Connexoon, l’hub WiFi di ingresso, comanda fino a 30 motori dall’app mobile ed è compatibile con Apple HomeKit, Google Home e Amazon Alexa. Per i progetti premium, Somfy TaHoma Switch offre l’integrazione completa KNX/io/RTS con i sistemi BMS.
 
-### Che differenza c'è tra Somfy, Nice e KNX per serramenti automatizzati?
+### Che differenza c’è tra Somfy, Nice e KNX per i serramenti automatizzati?
 
-Somfy e Nice sono sistemi proprietari — i dispositivi funzionano nello stesso ecosistema. KNX è uno standard europeo aperto (EN 50090): qualsiasi dispositivo KNX funziona con qualsiasi altro dispositivo KNX, indipendentemente dal produttore, ideale per edifici intelligenti complessi.
+Somfy e Nice sono sistemi proprietari — i dispositivi funzionano all’interno del proprio ecosistema. KNX è uno standard europeo aperto (EN 50090): qualsiasi dispositivo KNX funziona con qualsiasi altro dispositivo KNX, indipendentemente dal produttore, il che lo rende ideale per edifici intelligenti complessi.
 
 ---
 
