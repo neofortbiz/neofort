@@ -15410,7 +15410,7 @@ Pentru vile și case de 500+ mp, integratorii folosesc platforme de control cent
 - Compatibilitate: Nice, Somfy Yslo
 - Cost motorare: 800–1.500 EUR per sistem complet
 
-### Alumil SF85 Supreme — ferestre oscilo-batante motorízate
+### Alumil SF85 Supreme — ferestre oscilo-batante motorizate
 
 **Ferestre standard cu automatizare completă.** Motorul de lanț (chain actuator) se montează în toc, invizibil din interior. Ideal pentru ferestre la înălțime mare sau ventilație automată controlată de CO2.
 
@@ -15422,9 +15422,9 @@ Pentru vile și case de 500+ mp, integratorii folosesc platforme de control cent
 
 ## Senzori esențiali pentru tâmplărie aluminiu smart
 
-**Senzor vânt** — obligatoriu pentru uși glisante motorízate. Închidere automată la 45–60 km/h. Fără senzor de vânt, un panou de 300 kg în mișcare la rafale poate deteriora ghidajele.
+**Senzor vânt** — obligatoriu pentru uși glisante motorizate. Închidere automată la 45–60 km/h. Fără senzor de vânt, un panou de 300 kg în mișcare la rafale poate deteriora ghidajele.
 
-**Senzor ploaie** — integrare cu ferestre motorízate și sistemul de umbrire (Zipscreen/Raffstore). La ploaie, ferestre se închid și rulourile se ridică automat.
+**Senzor ploaie** — integrare cu ferestre motorizate și sistemul de umbrire (Zipscreen/Raffstore). La ploaie, ferestre se închid și rulourile se ridică automat.
 
 **Senzor prezență** — deschidere automată la apropierea de ușa de intrare sau de terasa. Standard în proiectele KNX.
 
@@ -15451,7 +15451,7 @@ Pentru vile și case de 500+ mp, integratorii folosesc platforme de control cent
 
 ---
 
-## Cum comanda tâmplărie aluminiu pregătită pentru smart home
+## Cum comanzi tâmplărie aluminiu pregătită pentru smart home
 
 La Neofort BIZ, livrăm sisteme Alumil **pre-configurate pentru motorare** — cu locașurile pentru motoare pregătite în profil, cablajul electric preluat din toc și conexiunile pentru senzori integrate din fabrică. Nu ești nevoit să demolezi după montaj pentru a adăuga automatizare.
 
@@ -21190,25 +21190,88 @@ Montajul panourilor de mari dimensiuni necesită o precizie ridicată — eroril
 
 Neofort BIZ proiectează și montează tâmplărie din aluminiu Alumil în București și Ilfov, cu barieră termică și montaj cu echipe proprii. Vezi [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al tâmplăriei din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).`,
 
-      en: `## Why large glass cannot be installed manually
+      en: `## Why oversized glass cannot be installed by hand
 
-A 3×4 m tempered [glass](/en/aluminium-windows) panel at 12 mm thickness weighs **360 kg**. Manual handling without specialised equipment risks breakage and serious accidents. The vacuum cup [robot](/en/services) allows millimetre-precise positioning of panels up to 1,400 kg.
+A simple calculation explains everything:
+
+- Toughened glass 10 mm → **25 kg/sqm**
+- A panel of 3,000 × 4,000 mm → **12 sqm × 25 kg = 300 kg**
+- The same panel in 12 mm → **360 kg**
+- A toughened insulating unit 6+16+6 at 3 × 5 m → **500+ kg**
+
+**No team of installers can physically handle 300–500 kg of glass without:**
+- A major risk of breakage (toughened glass shatters on impact, it does not bend)
+- A serious risk of injury (a 300 kg panel that falls or breaks is a lethal hazard)
+- Being unable to position it to the accuracy required (errors of 2–3 mm destroy the seal)
+
+**The solution**: the vacuum-cup robot — the only equipment that allows large glass panels to be handled safely and precisely.
 
 ---
 
-## How the vacuum cup robot works
+## How the vacuum-cup robot works
 
-Vacuum cups create negative pressure on the glass surface. An industrial 200mm cup at 0.85 bar generates **~270 kg holding force**. Multi-cup systems reach **1,400 kg total capacity**.
+### The operating principle
 
-### TGT RoboCrane 1400 — our equipment
+Vacuum cups create a zone of negative pressure (partial vacuum) on the surface of the glass. The resulting holding force is proportional to the area of the cup and to the level of vacuum:
 
-- Maximum capacity: **1,400 kg** per panel
-- Working height: up to **10 m**
-- Lateral range: up to **7.5 m**
-- Positioning precision: **±1 mm** by remote control
-- Movements: 360° rotation, fore/aft tilt, lateral movement, telescoping
-- Mobility: tracks — works on any terrain including gravel, sand, small steps
-- Double vacuum circuit per EN 13155 — independent backup if one circuit fails
+**The simplified formula:** F = P × A
+
+Where F is the holding force (kg), P is the pressure difference against atmosphere (bar) and A is the area of the cup (cm²).
+
+An industrial cup of 200 mm diameter at 0.85 bar of vacuum generates a holding force of roughly **270 kg**. Multi-cup systems reach a **total capacity of 1,400 kg**.
+
+### The TGT RoboCrane system — the equipment we use
+
+**TGT RoboCrane 1400** is the European reference system for the [installation](/en/services) of oversized glass:
+
+- **Maximum capacity:** 1,400 kg per panel
+- **Working height:** up to 10 m
+- **Lateral reach:** up to 7.5 m
+- **Positioning accuracy:** ±1 mm by remote control
+- **Available movements:** 360° rotation, forward and back tilt, lateral travel, telescoping
+- **Travel:** tracks — it can move over any ground, including sand, gravel and small steps
+- **Control:** wireless remote with overload protection and emergency stop
+
+### The dual vacuum system — certified safety
+
+The robot uses **two independent vacuum circuits** to EN 13155:
+- If one circuit fails, the other keeps the panel suspended
+- Audible and visual alarm when the pressure falls below the safety threshold
+- Vacuum hold time without electrical supply: **at least 15 minutes** (battery backup)
+
+---
+
+## The steps of a professional oversized glass installation
+
+### Stage 1 — Site assessment (the day before)
+
+We check: access for the truck carrying the glass, manoeuvring space for the tracked robot, clear height at the ceiling (if indoors) and the fixing structure for the glass (prepared and verified).
+
+### Stage 2 — Specialised transport
+
+Oversized panels travel **vertically**, in special racks with foam separators. The truck dedicated to large glass has a lowered floor and systems to lock the racks in place.
+
+Unloading: with the truck crane or with the robot — the panels never come to rest horizontally, because of the risk of breakage.
+
+### Stage 3 — Preparing the robot
+
+- Calibrating the cups for the specific type of glass
+- Vacuum test at 110% of the panel weight
+- Positioning the robot at the optimal working distance
+
+### Stage 4 — Gripping the panel
+
+The robot approaches the upright panel in its rack, the cups adhere to the surface and the vacuum system activates. Confirmation of the grip: a digital indicator displays the holding force in real time.
+
+### Stage 5 — Lifting and positioning
+
+Using the remote control, the operator lifts the panel, rotates it if necessary (for example from vertical to horizontal for rooflights), moves it laterally and positions it to millimetre accuracy against the fixing structure.
+
+**Average positioning time** for a 300 × 400 cm panel: **8–15 minutes** with the robot, against being impossible by hand.
+
+### Stage 6 — Final fixing
+
+Once the panel is correctly positioned, the team secures the fixing elements (spider bolts, [aluminium](/en/aluminium-windows) profile, structural silicone). The robot keeps the panel supported until the silicone has cured, for at least 30 minutes.
 
 ---
 
@@ -21217,289 +21280,655 @@ Vacuum cups create negative pressure on the glass surface. An industrial 200mm c
 | Criterion | Manual team | Vacuum robot |
 |---|---|---|
 | Panel < 60 kg | ✅ Possible | Optional |
+| Panel 60–150 kg | ⚠️ With auxiliary devices | Recommended |
 | Panel 150–400 kg | ❌ Not safely possible | **Mandatory** |
 | Panel > 400 kg | ❌ Prohibited | **Mandatory** |
-| Height > 4m | ⚠️ Limited | **Mandatory** |
-| Precision required < 2 mm | ❌ Not achievable | ✅ ±1mm |
+| Installation above 4 m | ⚠️ Limited | **Mandatory** |
+| Narrow space < 1.5 m | ❌ Dangerous | ✅ Narrow tracks |
+| Accuracy needed < 2 mm | ❌ Impossible | ✅ ±1 mm |
 
 ---
 
-## Indicative prices for specialised glass installation — 2026
+## What happens if heavy glass is installed by hand?
 
-> ⚠️ **Important note:** All prices are indicative and subject to change. Always request an updated quote.
+**Accident scenarios that recur on Romanian sites:**
+
+- A panel slips from the team’s hands → complete breakage (toughened glass disintegrates instantly on impact)
+- A worker trapped under a fallen panel → fractures, potentially fatal outcomes
+- A panel installed 5 mm out of position → defective seal, water ingress within 6 months, a complaint
+- A panel not correctly secured in the spider fitting → falls a few days after installation
+
+**The cost of a 3 × 4 m panel broken during installation:** 800–2,000 EUR for the glass, plus restarting the whole production process, which takes 4–6 weeks.
+
+---
+
+## Indicative prices for specialist oversized glass installation — 2026
+
+> ⚠️ **Important note:** prices are indicative. They vary with the complexity of the site, the distance and the availability of the equipment. Ask for an up-to-date quotation.
 
 | Service | Estimate |
 |---|---|
-| Robot + team mobilisation (Bucharest/Ilfov) | 600–1,200 EUR |
+| Robot and team mobilisation (Bucharest/Ilfov) | 600–1,200 EUR |
 | Installation per panel < 200 kg | 250–450 EUR |
 | Installation per panel 200–600 kg | 450–800 EUR |
 | Installation per panel > 600 kg | 800–1,500 EUR |
+| Travel outside Bucharest (per km) | 1.5–2.5 EUR/km |
 
 **WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
 
-## Frequently Asked Questions
+## Frequently asked questions
 
-### Why can't oversized glass be fitted by hand?
+### Why can oversized glass not be installed by hand?
 
-A toughened glass panel of 3,000 × 4,000 mm at 10 mm weighs 300 kg, and a 3×5 m insulated unit reaches 500+ kg. No team can physically handle these weights without a major risk of breakage, serious injury and the impossibility of precise positioning (2-3 mm errors destroy the seal).
+A toughened glass panel of 3,000 × 4,000 mm at 10 mm weighs 300 kg, and an insulating unit at 3 × 5 m reaches 500 kg or more. No team can physically handle these weights without a major risk of breakage, serious injury and the impossibility of accurate positioning — errors of 2–3 mm destroy the seal.
 
-### How does the vacuum-suction glass robot work?
+### How does the vacuum-cup robot work?
 
-Vacuum suction cups create a negative-pressure zone (partial vacuum) on the glass surface. The adhesion force is proportional to the cup area and vacuum level, allowing safe and precise handling of panels weighing hundreds of kilograms, impossible to move by hand.
+Vacuum cups create a zone of negative pressure (partial vacuum) on the surface of the glass. The holding force is proportional to the area of the cup and the level of vacuum, which allows panels weighing hundreds of kilograms to be handled safely and precisely — something impossible to do by hand.
 
 ### How much can an oversized glass panel weigh?
 
-Toughened 10 mm glass weighs 25 kg/m², so a 3,000 × 4,000 mm panel reaches 300 kg (360 kg at 12 mm). A toughened 6+16+6 insulated unit at 3×5 m exceeds 500 kg — which is why fitting requires a vacuum-suction robot.
+Toughened glass of 10 mm weighs 25 kg/sqm, so a panel of 3,000 × 4,000 mm reaches 300 kg (360 kg at 12 mm). A toughened insulating unit 6+16+6 at 3 × 5 m exceeds 500 kg — which is why installation requires a vacuum-cup robot.
 
-### What precision is needed when fitting large glass?
+### What accuracy is required when installing large glass?
 
-Fitting large panels requires high precision — positioning errors of 2-3 mm destroy the perimeter seal. The vacuum-suction robot allows millimetre positioning impossible to achieve by hand, guaranteeing a correct and durable seal of the panel.
-
----
-
-Neofort BIZ designs and installs Alumil aluminium joinery in Bucharest and Ilfov, with thermal break and its own installation teams. See [the aluminium joinery](/en/aluminium-windows) we offer or [request a quote](/en/contact). See also [the complete aluminium joinery guide](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
-
-      de: `## Warum Großglas nicht manuell montiert werden kann
-
-Eine 3×4 m [ESG](/de/aluminiumfenster)-Scheibe mit 12 mm Dicke wiegt **360 kg**. Manuelle Handhabung ohne Spezialausrüstung riskiert Bruch und schwere Unfälle. Der Vakuum-Saugnapf-[Roboter](/de/dienstleistungen) ermöglicht millimetergenaue Positionierung von Scheiben bis 1.400 kg.
+Installing large panels demands high accuracy — positioning errors of 2–3 mm destroy the perimeter seal. The vacuum-cup robot allows millimetre positioning that cannot be achieved by hand, guaranteeing a correct and durable seal around the panel.
 
 ---
 
-## TGT RoboCrane 1400 — unsere Ausrüstung
+Neofort BIZ designs and installs Alumil aluminium joinery in Bucharest and Ilfov, with thermal break and its own installation teams. See [the aluminium joinery](/en/aluminium-windows) we offer or [request a quote](/en/contact). See also [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide).`,
 
-- Maximale Kapazität: **1.400 kg** pro Scheibe
-- Arbeitshöhe: bis zu **10 m**
-- Seitliche Reichweite: bis zu **7,5 m**
-- Positioniergenauigkeit: **±1 mm** per Fernbedienung
-- Doppletes Vakuumsystem nach EN 13155
+      de: `## Warum übergroßes Glas nicht von Hand eingebaut werden kann
+
+Eine einfache Rechnung erklärt alles:
+
+- Sicherheitsglas 10 mm → **25 kg/m²**
+- Element 3.000 × 4.000 mm → **12 m² × 25 kg = 300 kg**
+- Dasselbe Element in 12 mm → **360 kg**
+- Isolierglas 6+16+6 vorgespannt bei 3 × 5 m → **über 500 kg**
+
+**Kein Montageteam kann 300–500 kg Glas körperlich bewegen, ohne:**
+- ein hohes Bruchrisiko (Sicherheitsglas zerspringt beim Aufprall, es biegt sich nicht)
+- ein schweres Verletzungsrisiko (ein fallendes oder brechendes 300-kg-Element ist lebensgefährlich)
+- die nötige Genauigkeit zu verfehlen (Abweichungen von 2–3 mm zerstören die Abdichtung)
+
+**Die Lösung**: der Vakuum-Sauggreiferroboter — das einzige Gerät, das große Glaselemente sicher und präzise handhaben lässt.
 
 ---
 
-## Wann ist Roboterausrüstung Pflicht?
+## Wie der Vakuum-Sauggreiferroboter arbeitet
 
-| Kriterium | Manuelle Montage | Vakuumroboter |
+### Das Funktionsprinzip
+
+Saugnäpfe erzeugen auf der Glasoberfläche eine Zone mit Unterdruck (Teilvakuum). Die entstehende Haltekraft ist proportional zur Fläche des Saugnapfs und zum Vakuumniveau:
+
+**Die vereinfachte Formel:** F = P × A
+
+Dabei ist F die Haltekraft (kg), P die Druckdifferenz gegenüber der Atmosphäre (bar) und A die Fläche des Saugnapfs (cm²).
+
+Ein industrieller Saugnapf von 200 mm Durchmesser erzeugt bei 0,85 bar Vakuum eine Haltekraft von rund **270 kg**. Systeme mit mehreren Saugnäpfen erreichen eine **Gesamtkapazität von 1.400 kg**.
+
+### Das System TGT RoboCrane — unser Gerät
+
+**TGT RoboCrane 1400** ist das europäische Referenzsystem für die [Montage](/de/dienstleistungen) übergroßer Gläser:
+
+- **Maximale Tragfähigkeit:** 1.400 kg je Element
+- **Arbeitshöhe:** bis 10 m
+- **Seitliche Reichweite:** bis 7,5 m
+- **Positioniergenauigkeit:** ±1 mm über Funkfernsteuerung
+- **Verfügbare Bewegungen:** Drehung um 360°, Kippen vor und zurück, seitliches Verfahren, Teleskopieren
+- **Fahrwerk:** Raupen — befahrbar auf jedem Untergrund, auch Sand, Kies und kleinen Stufen
+- **Steuerung:** Funkfernsteuerung mit Überlastschutz und Not-Aus
+
+### Das doppelte Vakuumsystem — zertifizierte Sicherheit
+
+Der Roboter arbeitet mit **zwei unabhängigen Vakuumkreisen** nach EN 13155:
+- Fällt ein Kreis aus, hält der andere das Element weiter
+- Akustischer und optischer Alarm, wenn der Druck unter die Sicherheitsschwelle fällt
+- Vakuumhaltezeit ohne Stromversorgung: **mindestens 15 Minuten** (Akkupufferung)
+
+---
+
+## Die Schritte einer fachgerechten Montage übergroßer Gläser
+
+### Schritt 1 — Baustellenbewertung (am Vortag)
+
+Wir prüfen: die Zufahrt des Lkw mit dem Glas, den Rangierraum für den Raupenroboter, die lichte Höhe zur Decke (bei Innenmontage) und die Befestigungskonstruktion für das Glas (vorbereitet und geprüft).
+
+### Schritt 2 — Spezialtransport
+
+Übergroße Elemente werden **stehend** transportiert, in besonderen Gestellen mit Schaumstofftrennern. Der für Großglas eingesetzte Lkw hat einen abgesenkten Boden und Systeme zur Verriegelung der Gestelle.
+
+Entladung: mit dem Lkw-Kran oder mit dem Roboter — die Elemente werden nie waagerecht abgelegt, wegen der Bruchgefahr.
+
+### Schritt 3 — Vorbereitung des Roboters
+
+- Kalibrierung der Saugnäpfe auf die konkrete Glasart
+- Vakuumtest bei 110 % des Elementgewichts
+- Positionierung des Roboters im optimalen Arbeitsabstand
+
+### Schritt 4 — Aufnahme des Elements
+
+Der Roboter fährt an das stehende Element im Gestell heran, die Saugnäpfe legen sich an die Oberfläche an, das Vakuumsystem schaltet ein. Bestätigung der Aufnahme: eine digitale Anzeige zeigt die Haltekraft in Echtzeit.
+
+### Schritt 5 — Heben und Positionieren
+
+Über die Fernsteuerung hebt der Bediener das Element, dreht es bei Bedarf (etwa von senkrecht auf waagerecht für Oberlichter), verfährt es seitlich und positioniert es millimetergenau vor der Befestigungskonstruktion.
+
+**Durchschnittliche Positionierzeit** je Element 300 × 400 cm: **8–15 Minuten** mit Roboter, von Hand nicht möglich.
+
+### Schritt 6 — Endgültige Befestigung
+
+Sobald das Element korrekt sitzt, setzt das Team die Befestigungselemente (Punkthalter, [Aluminiumprofil](/de/aluminiumfenster), Strukturklebstoff). Der Roboter hält das Element weiter, bis der Klebstoff ausgehärtet ist, mindestens 30 Minuten.
+
+---
+
+## Wann ist Robotertechnik zwingend erforderlich?
+
+| Kriterium | Manuelles Team | Vakuumroboter |
 |---|---|---|
-| Scheibe < 60 kg | ✅ Möglich | Optional |
-| Scheibe 150–400 kg | ❌ Nicht sicher möglich | **Pflicht** |
-| Scheibe > 400 kg | ❌ Verboten | **Pflicht** |
-| Höhe > 4m | ⚠️ Begrenzt | **Pflicht** |
+| Element < 60 kg | ✅ Möglich | Optional |
+| Element 60–150 kg | ⚠️ Mit Hilfsgeräten | Empfohlen |
+| Element 150–400 kg | ❌ Nicht sicher möglich | **Zwingend** |
+| Element > 400 kg | ❌ Untersagt | **Zwingend** |
+| Montage über 4 m Höhe | ⚠️ Eingeschränkt | **Zwingend** |
+| Enger Raum < 1,5 m | ❌ Gefährlich | ✅ Schmale Raupen |
+| Erforderliche Genauigkeit < 2 mm | ❌ Unmöglich | ✅ ±1 mm |
 
 ---
 
-## Richtpreise Spezialmontage — 2026
+## Was passiert beim Versuch, schweres Glas von Hand einzubauen?
 
-> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+**Auf rumänischen Baustellen wiederkehrende Unfallszenarien:**
+
+- Ein Element rutscht dem Team aus den Händen → vollständiger Bruch (Sicherheitsglas zerfällt beim Aufprall sofort)
+- Ein Arbeiter unter einem gestürzten Element eingeklemmt → Frakturen, potenziell tödlicher Ausgang
+- Ein Element mit 5 mm Abweichung eingebaut → mangelhafte Abdichtung, Wassereintritt binnen 6 Monaten, Reklamation
+- Ein im Punkthalter nicht korrekt gesichertes Element → stürzt wenige Tage nach der Montage
+
+**Kosten eines beim Einbau gebrochenen 3 × 4 m Elements:** 800–2.000 EUR für das Glas, zuzüglich des erneuten Durchlaufs der gesamten Produktion, was 4–6 Wochen dauert.
+
+---
+
+## Richtpreise für die Spezialmontage übergroßer Gläser — 2026
+
+> ⚠️ **Wichtiger Hinweis:** Die Preise sind Richtwerte. Sie ändern sich je nach Komplexität der Baustelle, Entfernung und Verfügbarkeit des Geräts. Fordern Sie ein aktuelles Angebot an.
 
 | Leistung | Schätzung |
 |---|---|
-| Roboter + Team Mobilisierung (Bukarest) | 600–1.200 EUR |
-| Montage pro Scheibe < 200 kg | 250–450 EUR |
-| Montage pro Scheibe 200–600 kg | 450–800 EUR |
+| Mobilisierung von Roboter und Team (Bukarest/Ilfov) | 600–1.200 EUR |
+| Montage je Element < 200 kg | 250–450 EUR |
+| Montage je Element 200–600 kg | 450–800 EUR |
+| Montage je Element > 600 kg | 800–1.500 EUR |
+| Anfahrt außerhalb Bukarests (je km) | 1,5–2,5 EUR/km |
 
 **WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
 
 ## Häufig gestellte Fragen
 
-### Warum kann überformatiges Glas nicht von Hand eingebaut werden?
+### Warum lässt sich übergroßes Glas nicht von Hand einbauen?
 
-Ein vorgespanntes Glaspaneel von 3.000 × 4.000 mm bei 10 mm wiegt 300 kg, und eine 3×5-m-Isolierglaseinheit erreicht 500+ kg. Kein Team kann diese Gewichte physisch ohne großes Bruchrisiko, schwere Verletzungen und die Unmöglichkeit präziser Positionierung (2-3-mm-Fehler zerstören die Abdichtung) bewältigen.
+Ein Element aus Sicherheitsglas von 3.000 × 4.000 mm bei 10 mm wiegt 300 kg, ein Isolierglas bei 3 × 5 m erreicht über 500 kg. Kein Team kann diese Gewichte körperlich bewegen, ohne hohes Bruchrisiko, schwere Verletzungsgefahr und die Unmöglichkeit einer genauen Positionierung — Abweichungen von 2–3 mm zerstören die Abdichtung.
 
-### Wie funktioniert der Vakuum-Saug-Glasroboter?
+### Wie arbeitet der Vakuum-Sauggreiferroboter?
 
-Vakuumsaugnäpfe erzeugen eine Unterdruckzone (Teilvakuum) auf der Glasoberfläche. Die Haftkraft ist proportional zur Saugnapffläche und zum Vakuumniveau und ermöglicht die sichere und präzise Handhabung von Paneelen mit Hunderten von Kilogramm, die von Hand unmöglich zu bewegen sind.
+Saugnäpfe erzeugen auf der Glasoberfläche eine Zone mit Unterdruck (Teilvakuum). Die Haltekraft ist proportional zur Fläche des Saugnapfs und zum Vakuumniveau und erlaubt es, Elemente von mehreren hundert Kilogramm sicher und präzise zu bewegen — von Hand unmöglich.
 
-### Wie viel kann ein überformatiges Glaspaneel wiegen?
+### Wie schwer kann ein übergroßes Glaselement sein?
 
-Vorgespanntes 10-mm-Glas wiegt 25 kg/m², ein 3.000 × 4.000-mm-Paneel erreicht also 300 kg (360 kg bei 12 mm). Eine vorgespannte 6+16+6-Isolierglaseinheit bei 3×5 m überschreitet 500 kg — daher erfordert der Einbau einen Vakuum-Saugroboter.
+Sicherheitsglas von 10 mm wiegt 25 kg/m², ein Element von 3.000 × 4.000 mm erreicht also 300 kg (360 kg bei 12 mm). Ein vorgespanntes Isolierglas 6+16+6 bei 3 × 5 m übersteigt 500 kg — deshalb ist für die Montage ein Vakuum-Sauggreiferroboter erforderlich.
 
-### Welche Präzision ist beim Einbau großer Gläser erforderlich?
+### Welche Genauigkeit ist bei der Montage großer Gläser nötig?
 
-Der Einbau großer Paneele erfordert hohe Präzision — Positionierungsfehler von 2-3 mm zerstören die Randabdichtung. Der Vakuum-Saugroboter ermöglicht eine millimetergenaue Positionierung, die von Hand unmöglich ist, und garantiert eine korrekte und dauerhafte Abdichtung des Paneels.
-
----
-
-Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit Wärmedämmbrücke und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber für Aluminiumfenster](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
-
-      fr: `## Pourquoi le grand verre ne peut pas être posé manuellement
-
-Un [panneau](/fr/menuiserie-aluminium) ESG 3×4 m de 12 mm pèse **360 kg**. La manutention manuelle sans équipement spécialisé risque la casse et de graves accidents. Le [robot](/fr/services) à ventouses permet un positionnement au millimètre près de panneaux jusqu'à 1.400 kg.
+Die Montage großer Elemente verlangt hohe Genauigkeit — Positionsabweichungen von 2–3 mm zerstören die umlaufende Abdichtung. Der Vakuumroboter ermöglicht eine millimetergenaue Positionierung, die von Hand nicht erreichbar ist, und sichert damit eine korrekte, dauerhafte Abdichtung.
 
 ---
 
-## TGT RoboCrane 1400 — notre équipement
+Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit Wärmedämmbrücke und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Sehen Sie auch [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).`,
 
-- Capacité maximale : **1.400 kg** par panneau
-- Hauteur de travail : jusqu'à **10 m**
-- Portée latérale : jusqu'à **7,5 m**
-- Précision de positionnement : **±1 mm** par télécommande
-- Double circuit de vide selon EN 13155
+      fr: `## Pourquoi un vitrage hors normes ne peut pas être posé à la main
+
+Un calcul simple explique tout :
+
+- Verre trempé 10 mm → **25 kg/m²**
+- Panneau de 3 000 × 4 000 mm → **12 m² × 25 kg = 300 kg**
+- Le même panneau en 12 mm → **360 kg**
+- Vitrage isolant 6+16+6 trempé en 3 × 5 m → **plus de 500 kg**
+
+**Aucune équipe de poseurs ne peut manipuler physiquement 300 à 500 kg de verre sans :**
+- un risque majeur de casse (le verre trempé éclate à l’impact, il ne plie pas)
+- un risque grave d’accident (un panneau de 300 kg qui tombe ou se brise est un danger mortel)
+- l’impossibilité de positionner avec la précision requise (des écarts de 2 à 3 mm détruisent l’étanchéité)
+
+**La solution** : le robot à ventouses à vide — le seul équipement permettant de manipuler des panneaux de grande dimension en sécurité et avec précision.
 
 ---
 
-## Quand l'équipement robotisé est-il obligatoire ?
+## Comment fonctionne le robot à ventouses à vide
 
-| Critère | Équipe manuelle | Robot ventouses |
+### Le principe de fonctionnement
+
+Les ventouses créent une zone de pression négative (vide partiel) à la surface du verre. La force de préhension obtenue est proportionnelle à la surface de la ventouse et au niveau de vide :
+
+**La formule simplifiée :** F = P × A
+
+Où F est la force de préhension (kg), P la différence de pression par rapport à l’atmosphère (bar) et A la surface de la ventouse (cm²).
+
+Une ventouse industrielle de 200 mm de diamètre à 0,85 bar de vide développe une force de préhension d’environ **270 kg**. Les systèmes à ventouses multiples atteignent une **capacité totale de 1 400 kg**.
+
+### Le système TGT RoboCrane — notre équipement
+
+**TGT RoboCrane 1400** est le système de référence européen pour la [pose](/fr/services) de vitrages hors normes :
+
+- **Capacité maximale :** 1 400 kg par panneau
+- **Hauteur de travail :** jusqu’à 10 m
+- **Portée latérale :** jusqu’à 7,5 m
+- **Précision de positionnement :** ±1 mm par télécommande
+- **Mouvements disponibles :** rotation 360°, basculement avant-arrière, translation latérale, télescopage
+- **Déplacement :** chenilles — circulation sur tout terrain, y compris sable, gravier et petites marches
+- **Commande :** télécommande sans fil avec protection contre la surcharge et arrêt d’urgence
+
+### Le double circuit de vide — une sécurité certifiée
+
+Le robot utilise **deux circuits de vide indépendants** conformes à EN 13155 :
+- Si un circuit lâche, l’autre maintient le panneau suspendu
+- Alarme sonore et visuelle dès que la pression passe sous le seuil de sécurité
+- Maintien du vide sans alimentation électrique : **15 minutes au minimum** (batteries)
+
+---
+
+## Les étapes d’une pose professionnelle de vitrage hors normes
+
+### Étape 1 — Évaluation du chantier (la veille)
+
+Nous vérifions : l’accès du camion transportant le verre, l’espace de manœuvre pour le robot à chenilles, la hauteur libre sous plafond (en intérieur) et la structure de fixation du verre (préparée et contrôlée).
+
+### Étape 2 — Le transport spécialisé
+
+Les panneaux hors normes voyagent **debout**, dans des racks spéciaux à séparateurs en mousse. Le camion dédié au grand vitrage possède un plancher surbaissé et des systèmes de verrouillage des racks.
+
+Déchargement : à la grue du camion ou au robot — les panneaux ne sont jamais posés à plat, en raison du risque de casse.
+
+### Étape 3 — Préparation du robot
+
+- Calibrage des ventouses selon le type de verre
+- Test de vide à 110 % du poids du panneau
+- Positionnement du robot à la distance de travail optimale
+
+### Étape 4 — Préhension du panneau
+
+Le robot s’approche du panneau debout dans son rack, les ventouses adhèrent à la surface et le circuit de vide s’active. Confirmation de la prise : un indicateur numérique affiche la force de préhension en temps réel.
+
+### Étape 5 — Levage et positionnement
+
+À la télécommande, l’opérateur lève le panneau, le fait pivoter si nécessaire (par exemple de vertical à horizontal pour des verrières), le déplace latéralement et le positionne au millimètre face à la structure de fixation.
+
+**Temps moyen de positionnement** pour un panneau de 300 × 400 cm : **8 à 15 minutes** avec le robot, impossible à la main.
+
+### Étape 6 — Fixation définitive
+
+Une fois le panneau correctement positionné, l’équipe met en place les éléments de fixation (attaches ponctuelles, profilé [aluminium](/fr/menuiserie-aluminium), silicone structurel). Le robot maintient le panneau jusqu’à durcissement du silicone, pendant 30 minutes au minimum.
+
+---
+
+## Quand l’équipement robotisé est-il obligatoire ?
+
+| Critère | Équipe manuelle | Robot à ventouses |
 |---|---|---|
-| Panneau < 60 kg | ✅ Possible | Optionnel |
-| Panneau 150–400 kg | ❌ Impossible sûrement | **Obligatoire** |
+| Panneau < 60 kg | ✅ Possible | Facultatif |
+| Panneau 60–150 kg | ⚠️ Avec dispositifs auxiliaires | Recommandé |
+| Panneau 150–400 kg | ❌ Impossible en sécurité | **Obligatoire** |
 | Panneau > 400 kg | ❌ Interdit | **Obligatoire** |
-| Hauteur > 4m | ⚠️ Limité | **Obligatoire** |
+| Pose à plus de 4 m | ⚠️ Limitée | **Obligatoire** |
+| Espace étroit < 1,5 m | ❌ Dangereux | ✅ Chenilles étroites |
+| Précision requise < 2 mm | ❌ Impossible | ✅ ±1 mm |
 
 ---
 
-## Prix indicatifs pose spécialisée — 2026
+## Que se passe-t-il si l’on tente une pose manuelle de vitrage lourd ?
 
-> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+**Scénarios d’accident récurrents sur les chantiers roumains :**
+
+- Panneau échappé des mains de l’équipe → casse complète (le verre trempé se désintègre instantanément à l’impact)
+- Ouvrier coincé sous un panneau tombé → fractures, issues potentiellement fatales
+- Panneau posé avec 5 mm d’écart → joint défectueux, infiltrations d’eau sous 6 mois, réclamation
+- Panneau mal fixé dans l’attache ponctuelle → chute quelques jours après la pose
+
+**Coût d’un panneau de 3 × 4 m cassé à la pose :** 800 à 2 000 EUR pour le verre, auxquels s’ajoute la reprise complète du processus de production, soit 4 à 6 semaines.
+
+---
+
+## Prix indicatifs de la pose spécialisée de vitrage hors normes — 2026
+
+> ⚠️ **Note importante :** ces prix sont indicatifs. Ils varient selon la complexité du chantier, la distance et la disponibilité de l’équipement. Demandez un devis actualisé.
 
 | Prestation | Estimation |
 |---|---|
-| Mobilisation robot + équipe (Bucarest) | 600–1.200 EUR |
+| Mobilisation robot et équipe (Bucarest/Ilfov) | 600–1 200 EUR |
 | Pose par panneau < 200 kg | 250–450 EUR |
 | Pose par panneau 200–600 kg | 450–800 EUR |
+| Pose par panneau > 600 kg | 800–1 500 EUR |
+| Déplacement hors de Bucarest (au km) | 1,5–2,5 EUR/km |
 
-**WhatsApp :** +40 752 443 435 | **L–V 10–18**
+**WhatsApp :** +40 752 443 435 | **Lun–Ven 10–18**
 
 ## Questions fréquentes
 
-### Pourquoi le verre hors gabarit ne peut-il pas être posé à la main ?
+### Pourquoi un vitrage hors normes ne peut-il pas être posé à la main ?
 
-Un panneau de verre trempé de 3 000 × 4 000 mm en 10 mm pèse 300 kg, et un double vitrage 3×5 m atteint 500+ kg. Aucune équipe ne peut manipuler physiquement ces poids sans risque majeur de casse, blessure grave et impossibilité de positionnement précis (des erreurs de 2-3 mm détruisent l'étanchéité).
+Un panneau de verre trempé de 3 000 × 4 000 mm en 10 mm pèse 300 kg, et un vitrage isolant en 3 × 5 m dépasse 500 kg. Aucune équipe ne peut manipuler physiquement ces poids sans risque majeur de casse, d’accident grave et sans l’impossibilité d’un positionnement précis — des écarts de 2 à 3 mm détruisent l’étanchéité.
 
-### Comment fonctionne le robot à ventouses à vide pour le verre ?
+### Comment fonctionne le robot à ventouses à vide ?
 
-Les ventouses à vide créent une zone de pression négative (vide partiel) sur la surface du verre. La force d'adhérence est proportionnelle à la surface de la ventouse et au niveau de vide, permettant la manipulation sûre et précise de panneaux de centaines de kilogrammes, impossibles à bouger à la main.
+Les ventouses créent une zone de pression négative (vide partiel) à la surface du verre. La force de préhension est proportionnelle à la surface de la ventouse et au niveau de vide, ce qui permet de manipuler en sécurité et avec précision des panneaux de plusieurs centaines de kilos, impossibles à déplacer à la main.
 
-### Combien peut peser un panneau de verre hors gabarit ?
+### Combien peut peser un panneau de vitrage hors normes ?
 
-Le verre trempé de 10 mm pèse 25 kg/m², donc un panneau de 3 000 × 4 000 mm atteint 300 kg (360 kg en 12 mm). Un double vitrage trempé 6+16+6 en 3×5 m dépasse 500 kg — c'est pourquoi la pose nécessite un robot à ventouses à vide.
+Un verre trempé de 10 mm pèse 25 kg/m², donc un panneau de 3 000 × 4 000 mm atteint 300 kg (360 kg en 12 mm). Un vitrage isolant trempé 6+16+6 en 3 × 5 m dépasse 500 kg — d’où la nécessité d’un robot à ventouses à vide pour la pose.
 
-### Quelle précision faut-il pour la pose de grands verres ?
+### Quelle précision faut-il pour poser de grands vitrages ?
 
-La pose de grands panneaux nécessite une haute précision — des erreurs de positionnement de 2-3 mm détruisent l'étanchéité périmétrique. Le robot à ventouses à vide permet un positionnement au millimètre impossible à la main, garantissant une étanchéité correcte et durable du panneau.
-
----
-
-Neofort BIZ conçoit et pose de la menuiserie aluminium Alumil à Bucarest et Ilfov, à rupture thermique et avec ses propres équipes. Voir [la menuiserie aluminium](/fr/menuiserie-aluminium) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet de la menuiserie aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
-
-      es: `## Por qué el vidrio grande no se puede instalar manualmente
-
-Un [panel](/es/carpinteria-aluminio) ESG de 3×4 m y 12 mm de grosor pesa **360 kg**. La manipulación manual sin equipo especializado arriesga la rotura y accidentes graves. El [robot](/es/servicios) de ventosas permite el posicionamiento milimétrico de paneles de hasta 1.400 kg.
+La pose de grands panneaux exige une précision élevée — des écarts de positionnement de 2 à 3 mm détruisent l’étanchéité périphérique. Le robot à ventouses permet un positionnement au millimètre, impossible à obtenir à la main, garantissant une étanchéité correcte et durable du panneau.
 
 ---
 
-## TGT RoboCrane 1400 — nuestro equipo
+Neofort BIZ conçoit et pose de la menuiserie aluminium Alumil à Bucarest et Ilfov, à rupture thermique et avec ses propres équipes. Voir [la menuiserie aluminium](/fr/menuiserie-aluminium) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).`,
 
-- Capacidad máxima: **1.400 kg** por panel
-- Altura de trabajo: hasta **10 m**
-- Alcance lateral: hasta **7,5 m**
-- Precisión de posicionamiento: **±1 mm** por control remoto
-- Doble circuito de vacío según EN 13155
+      es: `## Por qué el vidrio de gran formato no puede instalarse a mano
+
+Un cálculo sencillo lo explica todo:
+
+- Vidrio templado de 10 mm → **25 kg/m²**
+- Panel de 3.000 × 4.000 mm → **12 m² × 25 kg = 300 kg**
+- El mismo panel en 12 mm → **360 kg**
+- Vidrio aislante 6+16+6 templado de 3 × 5 m → **más de 500 kg**
+
+**Ningún equipo de instaladores puede manipular físicamente 300–500 kg de vidrio sin:**
+- Un riesgo elevado de rotura (el vidrio templado estalla al impacto, no se dobla)
+- Un riesgo grave de accidente (un panel de 300 kg que cae o se rompe es un peligro mortal)
+- La imposibilidad de posicionar con la precisión necesaria (errores de 2–3 mm destruyen el sellado)
+
+**La solución**: el robot de ventosas de vacío — el único equipo que permite manipular paneles de vidrio de gran tamaño con seguridad y precisión.
+
+---
+
+## Cómo funciona el robot de ventosas de vacío
+
+### El principio de funcionamiento
+
+Las ventosas crean una zona de presión negativa (vacío parcial) sobre la superficie del vidrio. La fuerza de agarre resultante es proporcional a la superficie de la ventosa y al nivel de vacío:
+
+**La fórmula simplificada:** F = P × A
+
+Donde F es la fuerza de agarre (kg), P la diferencia de presión respecto a la atmósfera (bar) y A la superficie de la ventosa (cm²).
+
+Una ventosa industrial de 200 mm de diámetro a 0,85 bar de vacío genera una fuerza de agarre de unos **270 kg**. Los sistemas de ventosas múltiples alcanzan una **capacidad total de 1.400 kg**.
+
+### El sistema TGT RoboCrane — el equipo que utilizamos
+
+**TGT RoboCrane 1400** es el sistema de referencia europeo para la [instalación](/es/servicios) de vidrio de gran formato:
+
+- **Capacidad máxima:** 1.400 kg por panel
+- **Altura de trabajo:** hasta 10 m
+- **Alcance lateral:** hasta 7,5 m
+- **Precisión de posicionamiento:** ±1 mm por mando a distancia
+- **Movimientos disponibles:** giro de 360°, basculación adelante y atrás, desplazamiento lateral, telescopaje
+- **Desplazamiento:** orugas — circula por cualquier terreno, incluidos arena, grava y escalones pequeños
+- **Control:** mando inalámbrico con protección contra sobrecarga y parada de emergencia
+
+### El doble circuito de vacío — seguridad certificada
+
+El robot emplea **dos circuitos de vacío independientes** conforme a EN 13155:
+- Si un circuito falla, el otro mantiene el panel suspendido
+- Alarma acústica y visual cuando la presión baja del umbral de seguridad
+- Tiempo de mantenimiento del vacío sin alimentación eléctrica: **15 minutos como mínimo** (baterías)
+
+---
+
+## Los pasos de una instalación profesional de vidrio de gran formato
+
+### Fase 1 — Evaluación de la obra (el día anterior)
+
+Comprobamos: el acceso del camión con el vidrio, el espacio de maniobra para el robot de orugas, la altura libre hasta el techo (si es interior) y la estructura de fijación del vidrio (preparada y verificada).
+
+### Fase 2 — El transporte especializado
+
+Los paneles de gran formato se transportan **en vertical**, en bastidores especiales con separadores de espuma. El camión dedicado al vidrio grande tiene el piso rebajado y sistemas de bloqueo de los bastidores.
+
+Descarga: con la grúa del camión o con el robot — los paneles nunca se apoyan en horizontal, por el riesgo de rotura.
+
+### Fase 3 — Preparación del robot
+
+- Calibrado de las ventosas según el tipo concreto de vidrio
+- Prueba de vacío al 110 % del peso del panel
+- Colocación del robot a la distancia de trabajo óptima
+
+### Fase 4 — Agarre del panel
+
+El robot se acerca al panel vertical en su bastidor, las ventosas se adhieren a la superficie y el sistema de vacío se activa. Confirmación del agarre: un indicador digital muestra la fuerza de sujeción en tiempo real.
+
+### Fase 5 — Elevación y posicionamiento
+
+Con el mando a distancia, el operario eleva el panel, lo gira si es necesario (por ejemplo de vertical a horizontal para lucernarios), lo desplaza lateralmente y lo posiciona con precisión milimétrica frente a la estructura de fijación.
+
+**Tiempo medio de posicionamiento** para un panel de 300 × 400 cm: **8–15 minutos** con robot, imposible a mano.
+
+### Fase 6 — Fijación definitiva
+
+Una vez colocado correctamente el panel, el equipo fija los elementos de sujeción (anclajes puntuales, perfil de [aluminio](/es/carpinteria-aluminio), silicona estructural). El robot mantiene el panel sujeto hasta que la silicona endurece, un mínimo de 30 minutos.
 
 ---
 
 ## ¿Cuándo es obligatorio el equipo robotizado?
 
-| Criterio | Equipo manual | Robot ventosas |
+| Criterio | Equipo manual | Robot de ventosas |
 |---|---|---|
 | Panel < 60 kg | ✅ Posible | Opcional |
-| Panel 150–400 kg | ❌ No es posible con seguridad | **Obligatorio** |
+| Panel 60–150 kg | ⚠️ Con medios auxiliares | Recomendado |
+| Panel 150–400 kg | ❌ Imposible con seguridad | **Obligatorio** |
 | Panel > 400 kg | ❌ Prohibido | **Obligatorio** |
+| Instalación a más de 4 m | ⚠️ Limitada | **Obligatorio** |
+| Espacio estrecho < 1,5 m | ❌ Peligroso | ✅ Orugas estrechas |
+| Precisión necesaria < 2 mm | ❌ Imposible | ✅ ±1 mm |
 
 ---
 
-## Precios orientativos instalación especializada — 2026
+## ¿Qué ocurre si se intenta instalar a mano un vidrio pesado?
 
-> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+**Escenarios de accidente frecuentes en las obras rumanas:**
+
+- Panel que se escapa de las manos del equipo → rotura total (el vidrio templado se desintegra al instante con el impacto)
+- Operario atrapado bajo un panel caído → fracturas, desenlaces potencialmente mortales
+- Panel colocado con 5 mm de desviación → sellado defectuoso, filtraciones de agua en 6 meses, reclamación
+- Panel mal fijado en el anclaje puntual → cae a los pocos días de la instalación
+
+**Coste de un panel de 3 × 4 m roto durante la instalación:** 800–2.000 EUR por el vidrio, más repetir todo el proceso de producción, lo que supone 4–6 semanas.
+
+---
+
+## Precios orientativos de instalación especializada de vidrio de gran formato — 2026
+
+> ⚠️ **Nota importante:** los precios son orientativos. Varían según la complejidad de la obra, la distancia y la disponibilidad del equipo. Solicite un presupuesto actualizado.
 
 | Servicio | Estimación |
 |---|---|
-| Movilización robot + equipo (Bucarest) | 600–1.200 EUR |
+| Movilización de robot y equipo (Bucarest/Ilfov) | 600–1.200 EUR |
 | Instalación por panel < 200 kg | 250–450 EUR |
 | Instalación por panel 200–600 kg | 450–800 EUR |
+| Instalación por panel > 600 kg | 800–1.500 EUR |
+| Desplazamiento fuera de Bucarest (por km) | 1,5–2,5 EUR/km |
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
 ## Preguntas frecuentes
 
-### ¿Por qué no se puede montar el vidrio de gran formato a mano?
+### ¿Por qué no se puede instalar a mano el vidrio de gran formato?
 
-Un panel de vidrio templado de 3.000 × 4.000 mm en 10 mm pesa 300 kg, y un vidrio doble de 3×5 m alcanza 500+ kg. Ningún equipo puede manipular físicamente estos pesos sin un riesgo grave de rotura, lesión seria y la imposibilidad de un posicionamiento preciso (errores de 2-3 mm destruyen el sellado).
+Un panel de vidrio templado de 3.000 × 4.000 mm en 10 mm pesa 300 kg, y un vidrio aislante de 3 × 5 m supera los 500 kg. Ningún equipo puede manipular físicamente estos pesos sin un riesgo elevado de rotura, accidente grave y la imposibilidad de posicionar con precisión — errores de 2–3 mm destruyen el sellado.
 
-### ¿Cómo funciona el robot de ventosas de vacío para vidrio?
+### ¿Cómo funciona el robot de ventosas de vacío?
 
-Las ventosas de vacío crean una zona de presión negativa (vacío parcial) en la superficie del vidrio. La fuerza de adherencia es proporcional a la superficie de la ventosa y al nivel de vacío, permitiendo la manipulación segura y precisa de paneles de cientos de kilogramos, imposibles de mover a mano.
+Las ventosas crean una zona de presión negativa (vacío parcial) sobre la superficie del vidrio. La fuerza de agarre es proporcional a la superficie de la ventosa y al nivel de vacío, lo que permite manipular con seguridad y precisión paneles de cientos de kilos, imposibles de mover a mano.
 
 ### ¿Cuánto puede pesar un panel de vidrio de gran formato?
 
-El vidrio templado de 10 mm pesa 25 kg/m², por lo que un panel de 3.000 × 4.000 mm alcanza 300 kg (360 kg en 12 mm). Un vidrio doble templado 6+16+6 en 3×5 m supera los 500 kg — por eso el montaje requiere un robot de ventosas de vacío.
+Un vidrio templado de 10 mm pesa 25 kg/m², de modo que un panel de 3.000 × 4.000 mm alcanza los 300 kg (360 kg en 12 mm). Un vidrio aislante templado 6+16+6 de 3 × 5 m supera los 500 kg — por eso la instalación exige un robot de ventosas de vacío.
 
-### ¿Qué precisión se necesita al montar vidrios grandes?
+### ¿Qué precisión se necesita al instalar vidrios grandes?
 
-El montaje de paneles grandes requiere alta precisión — errores de posicionamiento de 2-3 mm destruyen el sellado perimetral. El robot de ventosas de vacío permite un posicionamiento milimétrico imposible a mano, garantizando un sellado correcto y duradero del panel.
-
----
-
-Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico y equipos propios. Ver [la carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía completa de la carpintería de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
-
-      it: `## Perché il vetro grande non può essere installato manualmente
-
-Un [pannello](/it/infissi-alluminio) ESG 3×4 m da 12 mm pesa **360 kg**. La movimentazione manuale senza attrezzatura specializzata rischia la rottura e gravi incidenti. Il [robot](/it/servizi) con ventose permette il posizionamento millimetrico di pannelli fino a 1.400 kg.
+La instalación de paneles grandes exige una precisión alta — los errores de posicionamiento de 2–3 mm destruyen el sellado perimetral. El robot de ventosas permite un posicionamiento milimétrico imposible de alcanzar a mano, lo que garantiza un sellado correcto y duradero del panel.
 
 ---
 
-## TGT RoboCrane 1400 — la nostra attrezzatura
+Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico y equipos propios. Ver [la carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicita un presupuesto](/es/contacto). Vea también [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).`,
 
-- Capacità massima: **1.400 kg** per pannello
-- Altezza di lavoro: fino a **10 m**
-- Portata laterale: fino a **7,5 m**
-- Precisione di posizionamento: **±1 mm** per telecomando
-- Doppio circuito di vuoto secondo EN 13155
+      it: `## Perché il vetro fuori misura non si può posare a mano
+
+Un calcolo semplice spiega tutto:
+
+- Vetro temprato da 10 mm → **25 kg/m²**
+- Lastra di 3.000 × 4.000 mm → **12 m² × 25 kg = 300 kg**
+- La stessa lastra in 12 mm → **360 kg**
+- Vetrocamera 6+16+6 temprata da 3 × 5 m → **oltre 500 kg**
+
+**Nessuna squadra di posatori può movimentare fisicamente 300–500 kg di vetro senza:**
+- Un rischio elevato di rottura (il vetro temprato esplode all’urto, non si piega)
+- Un grave rischio di infortunio (una lastra da 300 kg che cade o si rompe è un pericolo mortale)
+- L’impossibilità di posizionare con la precisione richiesta (errori di 2–3 mm distruggono la tenuta)
+
+**La soluzione**: il robot a ventose a vuoto — l’unica attrezzatura che consente di movimentare in sicurezza e con precisione lastre di grandi dimensioni.
 
 ---
 
-## Quando è obbligatoria l'attrezzatura robotizzata?
+## Come funziona il robot a ventose a vuoto
 
-| Criterio | Squadra manuale | Robot ventose |
+### Il principio di funzionamento
+
+Le ventose creano una zona di pressione negativa (vuoto parziale) sulla superficie del vetro. La forza di presa che ne deriva è proporzionale alla superficie della ventosa e al livello di vuoto:
+
+**La formula semplificata:** F = P × A
+
+Dove F è la forza di presa (kg), P la differenza di pressione rispetto all’atmosfera (bar) e A la superficie della ventosa (cm²).
+
+Una ventosa industriale da 200 mm di diametro a 0,85 bar di vuoto genera una forza di presa di circa **270 kg**. I sistemi a ventose multiple raggiungono una **capacità totale di 1.400 kg**.
+
+### Il sistema TGT RoboCrane — l’attrezzatura che usiamo
+
+**TGT RoboCrane 1400** è il sistema di riferimento europeo per la [posa](/it/servizi) di vetri fuori misura:
+
+- **Portata massima:** 1.400 kg per lastra
+- **Altezza di lavoro:** fino a 10 m
+- **Sbraccio laterale:** fino a 7,5 m
+- **Precisione di posizionamento:** ±1 mm con radiocomando
+- **Movimenti disponibili:** rotazione a 360°, ribaltamento avanti e indietro, traslazione laterale, sfilo telescopico
+- **Spostamento:** cingoli — transitabile su ogni terreno, compresi sabbia, ghiaia e gradini bassi
+- **Comando:** radiocomando con protezione da sovraccarico e arresto di emergenza
+
+### Il doppio circuito del vuoto — sicurezza certificata
+
+Il robot impiega **due circuiti del vuoto indipendenti** secondo la EN 13155:
+- Se un circuito cede, l’altro mantiene la lastra sospesa
+- Allarme acustico e visivo quando la pressione scende sotto la soglia di sicurezza
+- Tempo di mantenimento del vuoto senza alimentazione elettrica: **almeno 15 minuti** (batterie)
+
+---
+
+## Le fasi di una posa professionale di vetro fuori misura
+
+### Fase 1 — Valutazione del cantiere (il giorno prima)
+
+Verifichiamo: l’accesso del camion con il vetro, lo spazio di manovra per il robot cingolato, l’altezza libera al soffitto (in interni) e la struttura di fissaggio del vetro (predisposta e controllata).
+
+### Fase 2 — Il trasporto specializzato
+
+Le lastre fuori misura viaggiano **in verticale**, su cavalletti speciali con separatori in spugna. Il camion dedicato al vetro di grandi dimensioni ha il piano ribassato e sistemi di bloccaggio dei cavalletti.
+
+Scarico: con la gru del camion o con il robot — le lastre non vengono mai appoggiate in orizzontale, per il rischio di rottura.
+
+### Fase 3 — Preparazione del robot
+
+- Taratura delle ventose sul tipo specifico di vetro
+- Prova del vuoto al 110 % del peso della lastra
+- Posizionamento del robot alla distanza di lavoro ottimale
+
+### Fase 4 — Presa della lastra
+
+Il robot si avvicina alla lastra in piedi sul cavalletto, le ventose aderiscono alla superficie e il sistema del vuoto si attiva. Conferma della presa: un indicatore digitale mostra la forza di tenuta in tempo reale.
+
+### Fase 5 — Sollevamento e posizionamento
+
+Con il radiocomando l’operatore solleva la lastra, la ruota se necessario (per esempio da verticale a orizzontale per i lucernari), la trasla lateralmente e la posiziona con precisione millimetrica davanti alla struttura di fissaggio.
+
+**Tempo medio di posizionamento** per una lastra da 300 × 400 cm: **8–15 minuti** con il robot, impossibile a mano.
+
+### Fase 6 — Fissaggio definitivo
+
+Una volta posizionata correttamente la lastra, la squadra monta gli elementi di fissaggio (attacchi puntuali, profilo in [alluminio](/it/infissi-alluminio), silicone strutturale). Il robot mantiene la lastra sostenuta fino all’indurimento del silicone, per almeno 30 minuti.
+
+---
+
+## Quando l’attrezzatura robotizzata è obbligatoria?
+
+| Criterio | Squadra manuale | Robot a ventose |
 |---|---|---|
-| Pannello < 60 kg | ✅ Possibile | Opzionale |
-| Pannello 150–400 kg | ❌ Non sicuro | **Obbligatorio** |
-| Pannello > 400 kg | ❌ Vietato | **Obbligatorio** |
+| Lastra < 60 kg | ✅ Possibile | Facoltativo |
+| Lastra 60–150 kg | ⚠️ Con mezzi ausiliari | Consigliato |
+| Lastra 150–400 kg | ❌ Non possibile in sicurezza | **Obbligatorio** |
+| Lastra > 400 kg | ❌ Vietato | **Obbligatorio** |
+| Posa oltre i 4 m di altezza | ⚠️ Limitata | **Obbligatorio** |
+| Spazio stretto < 1,5 m | ❌ Pericoloso | ✅ Cingoli stretti |
+| Precisione richiesta < 2 mm | ❌ Impossibile | ✅ ±1 mm |
 
 ---
 
-## Prezzi indicativi posa specializzata — 2026
+## Che cosa succede se si tenta la posa manuale di un vetro pesante?
 
-> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+**Scenari di infortunio ricorrenti nei cantieri rumeni:**
+
+- Lastra sfuggita dalle mani della squadra → rottura totale (il vetro temprato si disintegra all’istante con l’urto)
+- Operaio intrappolato sotto una lastra caduta → fratture, esiti potenzialmente mortali
+- Lastra posata con 5 mm di scarto → sigillatura difettosa, infiltrazioni d’acqua entro 6 mesi, reclamo
+- Lastra non fissata correttamente nell’attacco puntuale → caduta a pochi giorni dalla posa
+
+**Costo di una lastra da 3 × 4 m rotta in posa:** 800–2.000 EUR per il vetro, più la ripetizione dell’intero ciclo produttivo, che richiede 4–6 settimane.
+
+---
+
+## Prezzi indicativi per la posa specializzata di vetri fuori misura — 2026
+
+> ⚠️ **Nota importante:** i prezzi sono indicativi. Variano in base alla complessità del cantiere, alla distanza e alla disponibilità dell’attrezzatura. Richiedete un preventivo aggiornato.
 
 | Servizio | Stima |
 |---|---|
-| Mobilizzazione robot + squadra (Bucarest) | 600–1.200 EUR |
-| Posa per pannello < 200 kg | 250–450 EUR |
-| Posa per pannello 200–600 kg | 450–800 EUR |
+| Mobilitazione di robot e squadra (Bucarest/Ilfov) | 600–1.200 EUR |
+| Posa per lastra < 200 kg | 250–450 EUR |
+| Posa per lastra 200–600 kg | 450–800 EUR |
+| Posa per lastra > 600 kg | 800–1.500 EUR |
+| Trasferta fuori Bucarest (al km) | 1,5–2,5 EUR/km |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+**WhatsApp:** +40 752 443 435 | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
-### Perché il vetro fuori misura non può essere montato a mano?
+### Perché il vetro fuori misura non si può posare a mano?
 
-Un pannello di vetro temperato di 3.000 × 4.000 mm a 10 mm pesa 300 kg, e una vetrocamera 3×5 m raggiunge 500+ kg. Nessuna squadra può manipolare fisicamente questi pesi senza un grave rischio di rottura, infortunio serio e l'impossibilità di un posizionamento preciso (errori di 2-3 mm distruggono la sigillatura).
+Una lastra di vetro temprato da 3.000 × 4.000 mm in 10 mm pesa 300 kg, e una vetrocamera da 3 × 5 m supera i 500 kg. Nessuna squadra può movimentare fisicamente questi pesi senza un rischio elevato di rottura, gravi infortuni e l’impossibilità di un posizionamento preciso — errori di 2–3 mm distruggono la tenuta.
 
-### Come funziona il robot a ventose a vuoto per il vetro?
+### Come funziona il robot a ventose a vuoto?
 
-Le ventose a vuoto creano una zona di pressione negativa (vuoto parziale) sulla superficie del vetro. La forza di adesione è proporzionale alla superficie della ventosa e al livello di vuoto, permettendo la manipolazione sicura e precisa di pannelli di centinaia di chilogrammi, impossibili da muovere a mano.
+Le ventose creano una zona di pressione negativa (vuoto parziale) sulla superficie del vetro. La forza di presa è proporzionale alla superficie della ventosa e al livello di vuoto, il che consente di movimentare in sicurezza e con precisione lastre da centinaia di chili, impossibili da spostare a mano.
 
-### Quanto può pesare un pannello di vetro fuori misura?
+### Quanto può pesare una lastra fuori misura?
 
-Il vetro temperato da 10 mm pesa 25 kg/m², quindi un pannello di 3.000 × 4.000 mm raggiunge 300 kg (360 kg a 12 mm). Una vetrocamera temperata 6+16+6 a 3×5 m supera i 500 kg — per questo il montaggio richiede un robot a ventose a vuoto.
+Un vetro temprato da 10 mm pesa 25 kg/m², quindi una lastra da 3.000 × 4.000 mm arriva a 300 kg (360 kg in 12 mm). Una vetrocamera temprata 6+16+6 da 3 × 5 m supera i 500 kg — per questo la posa richiede un robot a ventose a vuoto.
 
-### Quale precisione serve nel montaggio di grandi vetri?
+### Quale precisione serve nella posa di vetri di grandi dimensioni?
 
-Il montaggio di grandi pannelli richiede alta precisione — errori di posizionamento di 2-3 mm distruggono la sigillatura perimetrale. Il robot a ventose a vuoto permette un posizionamento millimetrico impossibile a mano, garantendo una sigillatura corretta e durevole del pannello.
+La posa di lastre grandi richiede una precisione elevata — errori di posizionamento di 2–3 mm distruggono la sigillatura perimetrale. Il robot a ventose consente un posizionamento millimetrico impossibile da ottenere a mano, garantendo una tenuta corretta e duratura della lastra.
 
 ---
 
-Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfov, a taglio termico e con squadre proprie. Vedi [i serramenti in alluminio](/it/infissi-alluminio) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa ai serramenti in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
+Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfov, a taglio termico e con squadre proprie. Vedi [i serramenti in alluminio](/it/infissi-alluminio) che offriamo o [richiedi un preventivo](/it/contatti). Vedete anche [la guida completa ai sistemi in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).`,
     },
   },
 
