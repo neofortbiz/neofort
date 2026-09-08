@@ -16365,7 +16365,7 @@ Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfo
     content: {
       ro: `## Piața de birouri din București și cerința de fațadă modernă
 
-Bucureștiul este cel mai activ piață de birouri din Europa de Sud-Est. În 2024–2025, stocul modern de birouri a depășit **4 milioane mp**, cu 15–20 proiecte noi anual în zone precum Floreasca-Barbu Văcărescu, Pipera, Centru-Vest și Timpuri Noi.
+Bucureștiul este cea mai activă piață de birouri din Europa de Sud-Est. În 2024–2025, stocul modern de birouri a depășit **4 milioane mp**, cu 15–20 proiecte noi anual în zone precum Floreasca-Barbu Văcărescu, Pipera, Centru-Vest și Timpuri Noi.
 
 **Standardul de facto** pentru orice clădire de birouri de clasă A din București în 2026 este fațada cortină din aluminiu și sticlă — cerință impusă de chiriașii corporativi (multinaționale), de standardele de certificare energetică (BREEAM, LEED, DGNB) și de normele de eficiență energetică europene.
 
@@ -18173,7 +18173,7 @@ Neofort BIZ livrează tâmplărie Salamander în toată Europa. Cel mai frecvent
 
 ## Prețuri orientative pentru proiecte de case individuale — 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Prețurile materialelor și cursul valutar sunt în continuă schimbare — pot crește sau scădea. Solicitați întotdeauna o ofertă actualizată pentru proiectul dumneavoastră.
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Prețurile materialelor și cursul valutar sunt în continuă schimbare — pot crește sau scădea. Solicitați întotdeauna o ofertă actualizată pentru proiectul dumneavoastră.
 
 ### Casă nouă 120 mp — configurație standard
 
@@ -18789,7 +18789,7 @@ Sistemul pentru terase și balcoane mari — acolo unde ușa de balcon clasică 
 
 ## Prețuri orientative tâmplărie aluminiu Reynaers pentru bloc nou — 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Costurile aluminiului, energiei și manoperei sunt în continuă schimbare — pot crește sau scădea. Solicitați ofertă actualizată pentru proiectul dumneavoastră.
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Costurile aluminiului, energiei și manoperei sunt în continuă schimbare — pot crește sau scădea. Solicitați ofertă actualizată pentru proiectul dumneavoastră.
 
 | Sistem Reynaers | Configurație tipică apartament | Estimare per apartament |
 |---|---|---|
@@ -18832,294 +18832,615 @@ Pe un bloc nou cu fațadă modernă, aluminiu Reynaers oferă linii arhitectural
 Neofort BIZ furnizează și montează tâmplărie din aluminiu pentru blocuri noi, cu livrare pe etape de execuție, în București și Ilfov. [Trimite-ne detaliile ansamblului](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim.
 `,
 
-      en: `## The Neofort BIZ Project — New Block, Delea Veche, Bucharest
+      en: `## The Neofort BIZ project — new block, Delea Veche, Bucharest
 
-Delea Veche is one of the most active residential development zones in Bucharest's sector 2. Neofort BIZ delivered and installed **Reynaers [ConceptSystem](/en/services) 77 [aluminium window](/en/aluminium-windows)s** for the entire block — windows for all apartments, balcony doors, block entrance doors and common area doors. For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide).
+Delea Veche is one of the most active residential development areas in Sector 2 of Bucharest. New blocks of four to eight storeys, apartments of two to four rooms, buyers with high expectations of the quality of the finishes.
+
+Neofort BIZ supplied and installed **Reynaers ConceptSystem 77 aluminium joinery** for the entire block — windows in every apartment, balcony doors, the building entrance door and the communal doors. A complete package, one supplier, one technical contact for the general contractor.
 
 ---
 
 ## Why do developers choose Reynaers aluminium over PVC for new blocks?
 
-### 1. Aesthetics — visible difference immediately
-PVC profiles are wider and more "plastic" looking. On a new block with a modern facade, Reynaers aluminium with 60–77 mm visible profile delivers **clean, thin lines and premium architectural appearance** that increases the perceived value of apartments.
+### 1. The aesthetic argument — a difference visible at once
 
-### 2. Technical performance
+PVC, however good, has a wider and more “plastic” profile than aluminium. On a new block with a modern facade, Reynaers aluminium joinery with a visible profile of 60–77 mm delivers **clean, slim lines and a premium architectural appearance** that raises the perceived value of the apartments.
+
+Developers in premium Bucharest districts — Floreasca, Dorobanți, Aviatorilor, and also rising areas such as Delea Veche or Timpuri Noi — have moved decisively to aluminium over the past five years for exactly this reason: **the buyer of a new apartment sees the windows on the first visit**.
+
+### 2. The technical argument — better performance over the long run
 
 | Criterion | PVC BluEvolution 92 | Reynaers CS 77 Aluminium |
 |---|---|---|
-| Structural rigidity | Medium (requires steel reinforcement) | **Very high** (extruded aluminium) |
+| Window Uw (double Low-E glazing) | 0.70–1.0 W/m²K | 1.1–1.4 W/m²K |
+| Structural rigidity | Medium (needs steel reinforcement) | **Very high** (extruded aluminium) |
 | Wind resistance | C3/B3 | **C4/B4** |
-| Large openings (>1.5m) | Limited | **Unlimited** |
-| Colour guarantee | 10 years | **25 years** |
+| Large openings (over 1.5 m wide) | Limited | **Unlimited** |
+| Colour warranty | 10 years | **25 years** |
 | Service life | 30 years | **40–50 years** |
+| Maintenance | Required (gaskets, PU) | **Minimal** |
 
-### 3. Commercial value
-An apartment with Reynaers aluminium sells for **5–8% more** than the same apartment with PVC. At a €120,000 apartment, the difference is €6,000–9,600 — vs. an additional cost of aluminium over PVC of €1,500–3,000 per apartment. **Return: 2–4×.**
+**The conclusion for a developer:** on a block of 50–100 apartments, ten extra years of service life and zero maintenance interventions mean **significantly lower after-sales costs** and fewer complaints from buyers.
 
----
+### 3. The commercial argument — added value in the sale price
 
-## Reynaers systems from Neofort BIZ for new blocks
+An apartment with Reynaers [aluminium joinery](/en/aluminium-windows) sells for **5–8% more** than the same apartment with PVC, on the same street and at the same floor area. On a 120,000 EUR apartment, that is a difference of 6,000–9,600 EUR — against an additional cost for aluminium over PVC of 1,500–3,000 EUR per apartment.
 
-**Reynaers ConceptSystem 77** — standard system for premium residential windows. Uw = 1.1–1.4 W/m²K (double Low-E), 38–42 dB acoustic insulation, RC2 anti-burglary.
-
-**Reynaers ConceptPatio 155** — sliding and lift-and-slide for large terraces. Panels up to 3,500 mm width.
-
-**Reynaers CS 86-HI** — nZEB variant. Uw = 0.8–1.0 W/m²K.
+The ratio is clear: **the investment in Reynaers aluminium returns two to four times over in the sale price**.
 
 ---
 
-## Indicative prices per apartment — 2026
+## The Reynaers systems Neofort BIZ supplies for new blocks
 
-> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+### Reynaers ConceptSystem 77 — tilt-and-turn windows and doors
 
-| System | Typical apartment configuration | Estimate per apartment |
+The standard system for premium residential windows.
+
+- Depth: **77 mm** | Thermal break: 34 mm polyamide
+- Uw = 1.1–1.4 W/m²K with double Low-E glazing 4+16+4 argon
+- Uw = 0.8–1.0 W/m²K with triple Low-E glazing
+- Acoustic insulation: **38–42 dB** — important for blocks on the busy boulevards of Bucharest
+- Burglary resistance: **RC2** — the standard for the ground floor of any new block
+
+### Reynaers ConceptPatio 155 — sliding and lift-and-slide systems
+
+The system for large terraces and balconies — where a classic balcony door is no longer enough.
+
+- Panels up to **3,500 mm wide**
+- Uw = 1.2 W/m²K with double Low-E glazing
+- Better sealing than standard sliding systems
+- Ideal for penthouse apartments or units with a terrace
+
+### Reynaers CS 86-HI — the nZEB version for premium apartments
+
+- Thermal break: **52 mm**
+- Uw = 0.8–1.0 W/m²K — full nZEB certification
+- Recommended for upper floors with a northern or eastern aspect
+
+---
+
+## How Neofort BIZ works with general contractors
+
+**A turnkey project** — from surveying on the architectural drawings through to the final [installation](/en/services) and the handover protocol, Neofort BIZ is a single point of contact for all the joinery in the building. For the complete context, read [the guide to thermally broken aluminium joinery](/en/blog/aluminium-windows-thermal-break-complete-guide).
+
+**Coordination with the construction phases** — we deliver in batches according to how the works progress floor by floor. We neither block the site with excess stock nor delay the finishing phase.
+
+**Complete documentation** — declarations of performance (DoP), CE certificates, technical data sheets and thermal calculations for the building permit file and for the building record.
+
+**Contractual warranty** — 10 years on profiles, 5 years on glazing, 2 years on installation. Clear clauses in the contract, with no surprises after handover.
+
+---
+
+## Indicative prices for Reynaers aluminium joinery in a new block — 2026
+
+> ⚠️ **Important note:** the prices are indicative and reflect conditions as at March 2026. The costs of aluminium, energy and labour change continuously and may rise or fall. Ask for an up-to-date quotation for your project.
+
+| Reynaers system | Typical apartment configuration | Estimate per apartment |
 |---|---|---|
-| CS 77, double Low-E | 3 windows + 1 balcony door (2-room) | 2,800–4,200 EUR |
-| CS 77, double Low-E | 4 windows + 2 balcony doors (3-room) | 4,200–6,500 EUR |
-| CS 77, triple Low-E | 4 windows + 2 balcony doors (3-room) | 5,500–8,000 EUR |
+| CS 77, double Low-E glazing | 3 windows + 1 balcony door (2 rooms) | 2,800–4,200 EUR |
+| CS 77, double Low-E glazing | 4 windows + 2 balcony doors (3 rooms) | 4,200–6,500 EUR |
+| CS 77, triple Low-E glazing | 4 windows + 2 balcony doors (3 rooms) | 5,500–8,000 EUR |
+| CP 155 lift-and-slide terrace | Per complete system | 2,500–5,000 EUR |
 
-**WhatsApp Projects:** +40 752 443 439
-
-## Frequently Asked Questions
-
-### What aesthetic advantages does Reynaers aluminium have over PVC on blocks?
-
-Two arguments: aesthetic — the visible 60-77 mm aluminium profile gives clean, slim lines and a premium look that raises perceived value; and technical — very high structural rigidity, C4/B4 wind resistance, unlimited large openings and a 40-50 year lifespan.
-
-### Which Reynaers system did Neofort BIZ install at the Delea Veche block?
-
-Neofort BIZ supplied and installed Reynaers ConceptSystem 77 aluminium joinery for the entire new block in Delea Veche, Sector 2 — windows in all apartments, balcony doors, building entrance doors and common doors. A complete job, a single supplier and a single technical contact.
-
-### What is the difference between PVC BluEvolution 92 and aluminium Reynaers CS 77?
-
-PVC BluEvolution 92 has a better Uw (0.70-1.0 vs 1.1-1.4) and lower price, but aluminium Reynaers CS 77 has very high rigidity, C4/B4 wind resistance (vs C3/B3), unlimited large openings, a 25-year colour warranty (vs 10) and a 40-50 year lifespan (vs 30).
-
-### Why is aluminium suitable for blocks in premium Bucharest areas?
-
-On a new block with a modern façade, Reynaers aluminium gives clean architectural lines that raise the perceived value of apartments. Developers in Floreasca, Dorobanți, Aviatorilor and rising areas like Delea Veche have moved to aluminium because the buyer sees the windows on the first visit.
-
+*Prices are per finished apartment, including installation, window boards and removal of packaging. They exclude building entrance doors and communal elements.*
 
 ---
 
-Neofort BIZ supplies and installs aluminium joinery for new apartment blocks, with phased delivery, in Bucharest and Ilfov. [Send us the development details](/en/contact) and you will receive a quote within 48 hours. See the [aluminium joinery range](/en/aluminium-windows) we offer.
-`,
+## Contact for property development projects
 
-      de: `## Das Neofort BIZ Projekt — Neubau-Wohnblock, Delea Veche, Bukarest
+Neofort BIZ works directly with **property developers, general contractors and architects** in Bucharest and throughout Romania.
 
-Delea Veche ist eine der aktivsten Wohnbaugebiete im 2. Bezirk Bukarests. Neofort BIZ lieferte und [montiert](/de/dienstleistungen)e **Reynaers ConceptSystem 77 [Aluminium](/de/aluminiumfenster)fenster** für den gesamten Block. Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
+**WhatsApp Projects:** +40 752 443 439 | **Mon–Fri 10–18**
+
+## Frequently asked questions
+
+### What advantages does Reynaers aluminium have over PVC on apartment blocks?
+
+Two arguments: aesthetic — the visible aluminium profile of 60–77 mm gives clean, slim lines and a premium appearance that raises perceived value; and technical — very high structural rigidity, wind resistance C4/B4, unlimited large openings and a service life of 40–50 years.
+
+### Which Reynaers system did Neofort BIZ install on the Delea Veche block?
+
+Neofort BIZ supplied and installed Reynaers ConceptSystem 77 aluminium joinery for the entire new block in Delea Veche, Sector 2 — windows in every apartment, balcony doors, the building entrance door and the communal doors. A complete package, one supplier and one technical contact.
+
+### What is the difference between PVC BluEvolution 92 and Reynaers CS 77 aluminium?
+
+PVC BluEvolution 92 has a better Uw (0.70–1.0 against 1.1–1.4) and a lower price, but Reynaers CS 77 aluminium offers very high rigidity, wind resistance C4/B4 (against C3/B3), unlimited large openings, a 25-year colour warranty (against 10) and a service life of 40–50 years (against 30).
+
+### Why is aluminium suited to blocks in premium Bucharest districts?
+
+On a new block with a modern facade, Reynaers aluminium delivers clean architectural lines that raise the perceived value of the apartments. Developers in Floreasca, Dorobanți, Aviatorilor and rising areas such as Delea Veche have moved to aluminium because the buyer sees the windows on the first visit.
 
 ---
 
-## Warum wählen Bauträger Reynaers statt PVC für neue Wohnblöcke?
+Neofort BIZ supplies and installs aluminium joinery for new apartment blocks, with phased delivery, in Bucharest and Ilfov. [Send us the development details](/en/contact) and you will receive a quote within 48 hours. See [the aluminium joinery range](/en/aluminium-windows) we offer.`,
 
-**Ästhetik** — Reynaers Aluminium mit 60–77 mm sichtbarem Profil bietet klare, schlanke Linien und Premium-Architekturoptik, die den wahrgenommenen Wert der Wohnungen erhöht.
+      de: `## Das Projekt von Neofort BIZ — Neubaublock, Delea Veche, Bukarest
 
-**Technische Leistung:**
+Delea Veche ist eines der aktivsten Wohnbaugebiete im Sektor 2 von Bukarest. Neubauten mit vier bis acht Geschossen, Wohnungen mit zwei bis vier Zimmern, Käufer mit hohen Erwartungen an die Qualität der Ausstattung.
 
-| Kriterium | Reynaers CS 77 |
-|---|---|
-| Struktursteifigkeit | **Sehr hoch** (Strangpressprofil) |
-| Windwiderstand | **C4/B4** |
-| Farbgarantie | **25 Jahre** |
-| Lebensdauer | **40–50 Jahre** |
-
-**Kommerzieller Wert** — eine Wohnung mit Reynaers Aluminium verkauft sich für **5–8% mehr**. Bei einer 120.000 EUR Wohnung: 6.000–9.600 EUR mehr Erlös vs. 1.500–3.000 EUR Mehrkosten. **Rendite: 2–4×.**
+Neofort BIZ hat für den gesamten Block **Reynaers ConceptSystem 77 Aluminiumfenster** geliefert und montiert — Fenster in allen Wohnungen, Balkontüren, die Hauseingangstür und die Gemeinschaftstüren. Ein Komplettpaket, ein Lieferant, ein technischer Ansprechpartner für den Generalunternehmer.
 
 ---
 
-## Richtpreise pro Wohnung — 2026
+## Warum wählen Bauträger für Neubaublocks Reynaers-Aluminium statt PVC?
 
-> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+### 1. Das gestalterische Argument — der sofort sichtbare Unterschied
 
-| System | Konfiguration | Schätzung pro Wohnung |
+PVC hat, wie gut es auch sein mag, ein breiteres und „kunststoffigeres" Profil als Aluminium. An einem Neubau mit moderner Fassade bieten Reynaers-Aluminiumfenster mit 60–77 mm Ansichtsbreite **klare, schlanke Linien und eine hochwertige architektonische Wirkung**, die den wahrgenommenen Wert der Wohnungen steigert.
+
+Bauträger in den gehobenen Vierteln Bukarests — Floreasca, Dorobanți, Aviatorilor, aber auch aufstrebende Lagen wie Delea Veche oder Timpuri Noi — sind in den vergangenen fünf Jahren aus genau diesem Grund massiv zu Aluminium gewechselt: **wer eine Neubauwohnung kauft, sieht die Fenster beim ersten Besuch**.
+
+### 2. Das technische Argument — die bessere Leistung auf Dauer
+
+| Kriterium | PVC BluEvolution 92 | Reynaers CS 77 Aluminium |
 |---|---|---|
-| CS 77, Zweifach-Low-E | 3 Fenster + 1 Balkontür (2 Zi.) | 2.800–4.200 EUR |
-| CS 77, Zweifach-Low-E | 4 Fenster + 2 Balkontüren (3 Zi.) | 4.200–6.500 EUR |
-| CS 77, Dreifach-Low-E | 4 Fenster + 2 Balkontüren (3 Zi.) | 5.500–8.000 EUR |
+| Uw Fenster (Zweifach-Low-E) | 0,70–1,0 W/m²K | 1,1–1,4 W/m²K |
+| Formsteifigkeit | Mittel (Stahlarmierung nötig) | **Sehr hoch** (stranggepresstes Aluminium) |
+| Windwiderstand | C3/B3 | **C4/B4** |
+| Große Öffnungen (über 1,5 m Breite) | Begrenzt | **Unbegrenzt** |
+| Farbgarantie | 10 Jahre | **25 Jahre** |
+| Lebensdauer | 30 Jahre | **40–50 Jahre** |
+| Wartung | Erforderlich (Dichtungen, PU) | **Minimal** |
 
-**WhatsApp Projekte:** +40 752 443 439
+**Die Schlussfolgerung für einen Bauträger:** Bei einem Block mit 50–100 Wohnungen bedeuten zehn Jahre mehr Lebensdauer und keinerlei Wartungseinsätze **deutlich geringere Kosten nach dem Verkauf** und weniger Reklamationen der Käufer.
+
+### 3. Das wirtschaftliche Argument — der Mehrwert im Verkaufspreis
+
+Eine Wohnung mit [Aluminiumfenstern](/de/aluminiumfenster) von Reynaers verkauft sich um **5–8 % teurer** als dieselbe Wohnung mit PVC, in derselben Straße und bei gleicher Fläche. Bei einer Wohnung für 120.000 EUR sind das 6.000–9.600 EUR Unterschied — gegenüber Mehrkosten für Aluminium von 1.500–3.000 EUR je Wohnung.
+
+Das Verhältnis ist eindeutig: **die Investition in Reynaers-Aluminium kommt im Verkaufspreis zwei- bis vierfach zurück**.
+
+---
+
+## Die Reynaers-Systeme, die Neofort BIZ für Neubaublocks liefert
+
+### Reynaers ConceptSystem 77 — Dreh-Kipp-Fenster und -Türen
+
+Das Standardsystem für hochwertige Wohnungsfenster.
+
+- Bautiefe: **77 mm** | Thermische Trennung: 34 mm Polyamid
+- Uw = 1,1–1,4 W/m²K mit Zweifach-Low-E-Glas 4+16+4 Argon
+- Uw = 0,8–1,0 W/m²K mit Dreifach-Low-E-Glas
+- Schalldämmung: **38–42 dB** — wichtig für Blocks an den stark befahrenen Boulevards Bukarests
+- Einbruchhemmung: **RC2** — Standard für das Erdgeschoss jedes Neubaus
+
+### Reynaers ConceptPatio 155 — Schiebe- und Hebe-Schiebe-Systeme
+
+Das System für große Terrassen und Balkone — dort, wo die klassische Balkontür nicht mehr genügt.
+
+- Elemente bis **3.500 mm Breite**
+- Uw = 1,2 W/m²K mit Zweifach-Low-E-Glas
+- Bessere Dichtheit als bei Standard-Schiebesystemen
+- Ideal für Penthouse-Wohnungen oder Einheiten mit Terrasse
+
+### Reynaers CS 86-HI — die nZEB-Variante für gehobene Wohnungen
+
+- Thermische Trennung: **52 mm**
+- Uw = 0,8–1,0 W/m²K — vollständige nZEB-Zertifizierung
+- Empfohlen für obere Geschosse mit Nord- oder Ostausrichtung
+
+---
+
+## Wie Neofort BIZ mit Generalunternehmern arbeitet
+
+**Ein schlüsselfertiges Projekt** — vom Aufmaß auf den Architekturplänen bis zur abschließenden [Montage](/de/dienstleistungen) und zum Abnahmeprotokoll ist Neofort BIZ ein einziger Ansprechpartner für sämtliche Fenster des Gebäudes. Für den vollständigen Zusammenhang lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmbrücke](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
+
+**Abstimmung mit den Bauphasen** — wir liefern in Tranchen entsprechend dem Baufortschritt Etage für Etage. Wir blockieren die Baustelle nicht mit Überbeständen und verzögern die Ausbauphase nicht.
+
+**Vollständige Unterlagen** — Leistungserklärungen (DoP), CE-Zertifikate, technische Datenblätter und Wärmeschutznachweise für die Baugenehmigungsakte und die Bauakte.
+
+**Vertragliche Gewährleistung** — 10 Jahre auf Profile, 5 Jahre auf Verglasung, 2 Jahre auf die Montage. Klare Klauseln im Vertrag, ohne Überraschungen nach der Abnahme.
+
+---
+
+## Richtpreise für Reynaers-Aluminiumfenster im Neubaublock — 2026
+
+> ⚠️ **Wichtiger Hinweis:** Die Preise sind Richtwerte und geben den Stand von März 2026 wieder. Die Kosten für Aluminium, Energie und Arbeitsleistung ändern sich laufend und können steigen oder fallen. Fordern Sie für Ihr Projekt ein aktuelles Angebot an.
+
+| Reynaers-System | Typische Wohnungskonfiguration | Schätzung je Wohnung |
+|---|---|---|
+| CS 77, Zweifach-Low-E | 3 Fenster + 1 Balkontür (2 Zimmer) | 2.800–4.200 EUR |
+| CS 77, Zweifach-Low-E | 4 Fenster + 2 Balkontüren (3 Zimmer) | 4.200–6.500 EUR |
+| CS 77, Dreifach-Low-E | 4 Fenster + 2 Balkontüren (3 Zimmer) | 5.500–8.000 EUR |
+| CP 155 Hebe-Schiebe-Terrasse | Je komplettes System | 2.500–5.000 EUR |
+
+*Die Preise verstehen sich je fertiggestellter Wohnung, einschließlich Montage, Fensterbänken und Entsorgung der Verpackungen. Nicht enthalten sind Hauseingangstüren und Gemeinschaftselemente.*
+
+---
+
+## Kontakt für Projektentwicklungen
+
+Neofort BIZ arbeitet direkt mit **Projektentwicklern, Generalunternehmern und Architekten** in Bukarest und in ganz Rumänien.
+
+**WhatsApp Projekte:** +40 752 443 439 | **Mo–Fr 10–18**
 
 ## Häufig gestellte Fragen
 
-### Welche ästhetischen Vorteile hat Reynaers-Aluminium gegenüber PVC bei Blöcken?
+### Welche Vorteile hat Reynaers-Aluminium gegenüber PVC bei Wohnblocks?
 
-Zwei Argumente: ästhetisch — das sichtbare 60-77-mm-Aluminiumprofil bietet saubere, schlanke Linien und eine Premium-Optik, die den wahrgenommenen Wert erhöht; und technisch — sehr hohe Steifigkeit, C4/B4-Windwiderstand, unbegrenzt große Öffnungen und 40-50 Jahre Lebensdauer.
+Zwei Argumente: gestalterisch — das sichtbare Aluminiumprofil von 60–77 mm ergibt klare, schlanke Linien und eine hochwertige Wirkung, die den wahrgenommenen Wert steigert; und technisch — sehr hohe Formsteifigkeit, Windwiderstand C4/B4, unbegrenzt große Öffnungen und eine Lebensdauer von 40–50 Jahren.
 
-### Welches Reynaers-System montierte Neofort BIZ am Block in Delea Veche?
+### Welches Reynaers-System hat Neofort BIZ am Block in Delea Veche montiert?
 
-Neofort BIZ lieferte und montierte Reynaers ConceptSystem 77 Aluminiumprofile für den gesamten Neubaublock in Delea Veche, Sektor 2 — Fenster in allen Wohnungen, Balkontüren, Gebäudeeingangstüren und gemeinsame Türen. Komplettarbeit, ein Lieferant und ein technischer Ansprechpartner.
+Neofort BIZ hat für den gesamten Neubaublock in Delea Veche, Sektor 2, Reynaers ConceptSystem 77 Aluminiumfenster geliefert und montiert — Fenster in allen Wohnungen, Balkontüren, die Hauseingangstür und die Gemeinschaftstüren. Ein Komplettpaket, ein Lieferant und ein technischer Ansprechpartner.
 
-### Was ist der Unterschied zwischen PVC BluEvolution 92 und Aluminium Reynaers CS 77?
+### Worin unterscheiden sich PVC BluEvolution 92 und Reynaers CS 77 Aluminium?
 
-PVC BluEvolution 92 hat einen besseren Uw (0,70-1,0 vs 1,1-1,4) und niedrigeren Preis, aber Aluminium Reynaers CS 77 hat sehr hohe Steifigkeit, C4/B4-Windwiderstand (vs C3/B3), unbegrenzt große Öffnungen, 25 Jahre Farbgarantie (vs 10) und 40-50 Jahre Lebensdauer (vs 30).
+PVC BluEvolution 92 hat den besseren Uw-Wert (0,70–1,0 gegenüber 1,1–1,4) und den günstigeren Preis, doch Reynaers CS 77 Aluminium bietet sehr hohe Steifigkeit, Windwiderstand C4/B4 (gegenüber C3/B3), unbegrenzt große Öffnungen, 25 Jahre Farbgarantie (gegenüber 10) und 40–50 Jahre Lebensdauer (gegenüber 30).
 
-### Warum eignet sich Aluminium für Blöcke in Premium-Gebieten Bukarests?
+### Warum eignet sich Aluminium für Blocks in gehobenen Lagen Bukarests?
 
-An einem Neubaublock mit moderner Fassade bietet Reynaers-Aluminium saubere architektonische Linien, die den wahrgenommenen Wert der Wohnungen erhöhen. Entwickler in Floreasca, Dorobanți, Aviatorilor und aufstrebenden Gebieten wie Delea Veche sind zu Aluminium gewechselt, weil der Käufer die Fenster beim ersten Besuch sieht.
-
-
----
-
-Neofort BIZ liefert und montiert Aluminiumfenster für Neubaublocks, mit Lieferung nach Bauabschnitten, in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [Aluminium-Sortiment](/de/aluminiumfenster).
-`,
-
-      fr: `## Le projet Neofort BIZ — immeuble neuf, Delea Veche, Bucarest
-
-Delea Veche est l'une des zones de développement résidentiel les plus actives du secteur 2 de Bucarest. Neofort BIZ a [livré](/fr/services) et installé la **[menuiserie aluminium](/fr/menuiserie-aluminium) Reynaers ConceptSystem 77** pour l'ensemble de l'immeuble. Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).
+An einem Neubau mit moderner Fassade ergibt Reynaers-Aluminium klare architektonische Linien, die den wahrgenommenen Wert der Wohnungen steigern. Bauträger in Floreasca, Dorobanți, Aviatorilor und aufstrebenden Lagen wie Delea Veche sind zu Aluminium gewechselt, weil der Käufer die Fenster beim ersten Besuch sieht.
 
 ---
 
-## Pourquoi les promoteurs choisissent-ils Reynaers plutôt que le PVC pour les immeubles neufs ?
+Neofort BIZ liefert und montiert Aluminiumfenster für Neubaublocks, mit Lieferung nach Bauabschnitten, in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster), das wir anbieten.`,
 
-**Esthétique** — le profil aluminium Reynaers visible de 60–77 mm offre des lignes fines et épurées qui augmentent la valeur perçue des appartements.
+      fr: `## Le chantier Neofort BIZ — immeuble neuf, Delea Veche, Bucarest
 
-**Performance technique :**
+Delea Veche est l’un des secteurs de développement résidentiel les plus actifs du secteur 2 de Bucarest. Immeubles neufs de quatre à huit étages, appartements de deux à quatre pièces, acquéreurs aux attentes élevées sur la qualité des finitions.
 
-| Critère | Reynaers CS 77 |
-|---|---|
-| Résistance au vent | **C4/B4** |
-| Garantie couleur | **25 ans** |
-| Durée de vie | **40–50 ans** |
-
-**Valeur commerciale** — un appartement avec menuiserie aluminium Reynaers se vend **5–8% plus cher**. Pour un appartement de 120.000 EUR : 6.000–9.600 EUR de plus vs. 1.500–3.000 EUR de surcoût. **Retour sur investissement : 2–4×.**
+Neofort BIZ a fourni et posé **la menuiserie aluminium Reynaers ConceptSystem 77** pour l’ensemble de l’immeuble — fenêtres dans tous les appartements, portes de balcon, porte d’entrée d’immeuble et portes communes. Une prestation complète, un seul fournisseur, un seul interlocuteur technique pour l’entreprise générale.
 
 ---
 
-## Prix indicatifs par appartement — 2026
+## Pourquoi les promoteurs choisissent-ils l’aluminium Reynaers plutôt que le PVC pour les immeubles neufs ?
 
-> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+### 1. L’argument esthétique — une différence visible immédiatement
 
-| Système | Configuration | Estimation par appartement |
+Le PVC, aussi bon soit-il, présente un profilé plus large et plus « plastique » que l’aluminium. Sur un immeuble neuf à façade moderne, la menuiserie aluminium Reynaers, avec un profilé visible de 60 à 77 mm, offre **des lignes nettes, fines et une allure architecturale haut de gamme** qui augmente la valeur perçue des appartements.
+
+Les promoteurs des quartiers premium de Bucarest — Floreasca, Dorobanți, Aviatorilor, mais aussi des secteurs en devenir comme Delea Veche ou Timpuri Noi — sont massivement passés à l’aluminium ces cinq dernières années pour cette raison précise : **l’acquéreur d’un appartement neuf voit les fenêtres dès la première visite**.
+
+### 2. L’argument technique — une performance supérieure dans la durée
+
+| Critère | PVC BluEvolution 92 | Reynaers CS 77 aluminium |
 |---|---|---|
-| CS 77, double Low-E | 3 fenêtres + 1 porte balcon (2 p.) | 2.800–4.200 EUR |
-| CS 77, double Low-E | 4 fenêtres + 2 portes balcon (3 p.) | 4.200–6.500 EUR |
-| CS 77, triple Low-E | 4 fenêtres + 2 portes balcon (3 p.) | 5.500–8.000 EUR |
+| Uw fenêtre (double vitrage Low-E) | 0,70–1,0 W/m²K | 1,1–1,4 W/m²K |
+| Rigidité structurelle | Moyenne (armature acier nécessaire) | **Très élevée** (aluminium extrudé) |
+| Résistance au vent | C3/B3 | **C4/B4** |
+| Grandes ouvertures (plus de 1,5 m) | Limitée | **Illimitée** |
+| Garantie de teinte | 10 ans | **25 ans** |
+| Durée de vie | 30 ans | **40–50 ans** |
+| Entretien | Nécessaire (joints, PU) | **Minimal** |
 
-**WhatsApp Projets :** +40 752 443 439
+**La conclusion pour un promoteur :** sur un immeuble de 50 à 100 appartements, dix ans de durée de vie supplémentaires et zéro intervention d’entretien signifient **des coûts après-vente nettement inférieurs** et moins de réclamations des acquéreurs.
+
+### 3. L’argument commercial — la valeur ajoutée au prix de vente
+
+Un appartement doté de [menuiseries aluminium](/fr/menuiserie-aluminium) Reynaers se vend **5 à 8 % plus cher** que le même appartement en PVC, dans la même rue et à surface égale. Sur un appartement à 120 000 EUR, l’écart représente 6 000 à 9 600 EUR — face à un surcoût de l’aluminium par rapport au PVC de 1 500 à 3 000 EUR par appartement.
+
+Le rapport est clair : **l’investissement dans l’aluminium Reynaers se récupère deux à quatre fois dans le prix de vente**.
+
+---
+
+## Les systèmes Reynaers livrés par Neofort BIZ pour les immeubles neufs
+
+### Reynaers ConceptSystem 77 — fenêtres et portes oscillo-battantes
+
+Le système standard pour les fenêtres résidentielles haut de gamme.
+
+- Profondeur : **77 mm** | Rupture thermique : polyamide 34 mm
+- Uw = 1,1–1,4 W/m²K avec double vitrage Low-E 4+16+4 argon
+- Uw = 0,8–1,0 W/m²K avec triple vitrage Low-E
+- Isolation acoustique : **38–42 dB** — important pour les immeubles situés sur les boulevards fréquentés de Bucarest
+- Résistance à l’effraction : **RC2** — le standard pour le rez-de-chaussée de tout immeuble neuf
+
+### Reynaers ConceptPatio 155 — systèmes coulissants et levants-coulissants
+
+Le système pour les grandes terrasses et balcons — là où la porte-fenêtre classique ne suffit plus.
+
+- Vantaux jusqu’à **3 500 mm de large**
+- Uw = 1,2 W/m²K avec double vitrage Low-E
+- Étanchéité supérieure aux systèmes coulissants standard
+- Idéal pour les appartements en attique ou avec terrasse
+
+### Reynaers CS 86-HI — la version nZEB pour appartements haut de gamme
+
+- Rupture thermique : **52 mm**
+- Uw = 0,8–1,0 W/m²K — certification nZEB complète
+- Recommandé pour les étages supérieurs exposés nord ou est
+
+---
+
+## Comment Neofort BIZ travaille avec les entreprises générales
+
+**Un projet clé en main** — du relevé sur les plans d’architecte jusqu’à la [pose](/fr/services) finale et au procès-verbal de réception, Neofort BIZ est l’interlocuteur unique pour toutes les menuiseries de l’immeuble. Pour le contexte complet, lisez [le guide de la menuiserie aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).
+
+**Coordination avec les phases de chantier** — nous livrons par tranches selon l’avancement des travaux, étage par étage. Nous n’encombrons pas le chantier de stocks excédentaires et ne retardons pas la phase de finitions.
+
+**Documentation complète** — déclarations des performances (DoP), certificats CE, fiches techniques et calculs thermiques pour le dossier de permis de construire et pour le dossier de l’ouvrage.
+
+**Garantie contractuelle** — 10 ans sur les profilés, 5 ans sur le vitrage, 2 ans sur la pose. Des clauses claires dans le contrat, sans surprise après réception.
+
+---
+
+## Prix indicatifs de la menuiserie aluminium Reynaers pour immeuble neuf — 2026
+
+> ⚠️ **Note importante :** les prix sont indicatifs et reflètent les conditions de mars 2026. Les coûts de l’aluminium, de l’énergie et de la main-d’œuvre évoluent en permanence et peuvent monter ou baisser. Demandez un devis actualisé pour votre projet.
+
+| Système Reynaers | Configuration type d’appartement | Estimation par appartement |
+|---|---|---|
+| CS 77, double vitrage Low-E | 3 fenêtres + 1 porte-fenêtre (2 pièces) | 2 800–4 200 EUR |
+| CS 77, double vitrage Low-E | 4 fenêtres + 2 portes-fenêtres (3 pièces) | 4 200–6 500 EUR |
+| CS 77, triple vitrage Low-E | 4 fenêtres + 2 portes-fenêtres (3 pièces) | 5 500–8 000 EUR |
+| CP 155 levant-coulissant terrasse | Par système complet | 2 500–5 000 EUR |
+
+*Les prix s’entendent par appartement fini, pose, appuis et évacuation des emballages compris. Ils excluent les portes d’entrée d’immeuble et les éléments communs.*
+
+---
+
+## Contact pour les projets de promotion immobilière
+
+Neofort BIZ travaille directement avec les **promoteurs immobiliers, entreprises générales et architectes** de Bucarest et de toute la Roumanie.
+
+**WhatsApp Projets :** +40 752 443 439 | **Lun–Ven 10–18**
 
 ## Questions fréquentes
 
-### Quels avantages esthétiques l'aluminium Reynaers a-t-il sur le PVC pour les immeubles ?
+### Quels avantages l’aluminium Reynaers offre-t-il face au PVC sur les immeubles ?
 
-Deux arguments : esthétique — le profilé aluminium visible de 60-77 mm offre des lignes nettes, fines et un aspect premium qui augmente la valeur perçue ; et technique — rigidité structurelle très élevée, résistance au vent C4/B4, grandes ouvertures illimitées et durée de vie de 40-50 ans.
+Deux arguments : esthétique — le profilé aluminium visible de 60 à 77 mm donne des lignes nettes, fines et une allure haut de gamme qui augmente la valeur perçue ; et technique — rigidité structurelle très élevée, résistance au vent C4/B4, grandes ouvertures illimitées et durée de vie de 40 à 50 ans.
 
-### Quel système Reynaers Neofort BIZ a-t-il posé à l'immeuble de Delea Veche ?
+### Quel système Reynaers Neofort BIZ a-t-il posé à l’immeuble de Delea Veche ?
 
-Neofort BIZ a fourni et posé la menuiserie aluminium Reynaers ConceptSystem 77 pour tout l'immeuble neuf de Delea Veche, Secteur 2 — fenêtres de tous les appartements, portes de balcon, portes d'entrée d'immeuble et portes communes. Travail complet, un seul fournisseur et un seul interlocuteur technique.
+Neofort BIZ a fourni et posé la menuiserie aluminium Reynaers ConceptSystem 77 pour l’ensemble de l’immeuble neuf de Delea Veche, secteur 2 — fenêtres dans tous les appartements, portes de balcon, porte d’entrée d’immeuble et portes communes. Une prestation complète, un seul fournisseur et un seul interlocuteur technique.
 
-### Quelle différence entre le PVC BluEvolution 92 et l'aluminium Reynaers CS 77 ?
+### Quelle différence entre le PVC BluEvolution 92 et l’aluminium Reynaers CS 77 ?
 
-Le PVC BluEvolution 92 a un meilleur Uw (0,70-1,0 vs 1,1-1,4) et un prix plus bas, mais l'aluminium Reynaers CS 77 a une rigidité très élevée, une résistance au vent C4/B4 (vs C3/B3), des grandes ouvertures illimitées, une garantie couleur de 25 ans (vs 10) et une durée de 40-50 ans (vs 30).
+Le PVC BluEvolution 92 affiche un meilleur Uw (0,70–1,0 contre 1,1–1,4) et un prix inférieur, mais l’aluminium Reynaers CS 77 offre une rigidité très élevée, une résistance au vent C4/B4 (contre C3/B3), des grandes ouvertures illimitées, une garantie de teinte de 25 ans (contre 10) et une durée de vie de 40 à 50 ans (contre 30).
 
-### Pourquoi l'aluminium convient-il aux immeubles des zones premium de Bucarest ?
+### Pourquoi l’aluminium convient-il aux immeubles des quartiers premium de Bucarest ?
 
-Sur un immeuble neuf à façade moderne, l'aluminium Reynaers offre des lignes architecturales nettes qui augmentent la valeur perçue des appartements. Les promoteurs de Floreasca, Dorobanți, Aviatorilor et zones en essor comme Delea Veche ont migré vers l'aluminium car l'acheteur voit les fenêtres dès la première visite.
-
-
----
-
-Neofort BIZ fournit et pose des menuiseries aluminium pour immeubles neufs, avec livraison par phases, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du programme](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme aluminium](/fr/menuiserie-aluminium).
-`,
-
-      es: `## El proyecto Neofort BIZ — bloque nuevo, Delea Veche, Bucarest
-
-Delea Veche es una de las zonas de desarrollo residencial más activas del sector 2 de Bucarest. Neofort BIZ entregó e instaló **carpintería [aluminio](/es/carpinteria-aluminio) Reynaers [ConceptSystem](/es/servicios) 77** para todo el bloque. Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).
+Sur un immeuble neuf à façade moderne, l’aluminium Reynaers donne des lignes architecturales nettes qui augmentent la valeur perçue des appartements. Les promoteurs de Floreasca, Dorobanți, Aviatorilor et de secteurs en devenir comme Delea Veche sont passés à l’aluminium parce que l’acquéreur voit les fenêtres dès la première visite.
 
 ---
 
-## ¿Por qué los promotores eligen Reynaers en lugar de PVC para bloques nuevos?
+Neofort BIZ fournit et pose des menuiseries aluminium pour immeubles neufs, avec livraison par phases, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du programme](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme de menuiseries aluminium](/fr/menuiserie-aluminium) que nous proposons.`,
 
-**Estética** — el perfil visible de 60–77 mm ofrece líneas limpias y finas que aumentan el valor percibido de los apartamentos.
+      es: `## La obra de Neofort BIZ — bloque nuevo, Delea Veche, Bucarest
 
-**Valor comercial** — un apartamento con aluminio Reynaers se vende un **5–8% más caro**. En un apartamento de 120.000 EUR: 6.000–9.600 EUR más de ingreso vs. 1.500–3.000 EUR de sobrecoste. **Retorno: 2–4×.**
+Delea Veche es una de las zonas de desarrollo residencial más activas del Sector 2 de Bucarest. Bloques nuevos de cuatro a ocho plantas, viviendas de dos a cuatro habitaciones, compradores con expectativas altas sobre la calidad de los acabados.
+
+Neofort BIZ suministró e instaló **la carpintería de aluminio Reynaers ConceptSystem 77** para todo el bloque — ventanas en todas las viviendas, puertas de balcón, puerta de acceso al edificio y puertas comunes. Una obra completa, un solo proveedor, un solo interlocutor técnico para la contrata general.
 
 ---
 
-## Precios orientativos por apartamento — 2026
+## ¿Por qué las promotoras eligen aluminio Reynaers en lugar de PVC para bloques nuevos?
 
-> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+### 1. El argumento estético — una diferencia visible al instante
 
-| Sistema | Configuración | Estimación por apartamento |
+El PVC, por bueno que sea, tiene un perfil más ancho y más «plástico» que el aluminio. En un bloque nuevo con fachada moderna, la carpintería de aluminio Reynaers, con perfil visto de 60 a 77 mm, aporta **líneas limpias, esbeltas y un aspecto arquitectónico premium** que eleva el valor percibido de las viviendas.
+
+Las promotoras de las zonas premium de Bucarest — Floreasca, Dorobanți, Aviatorilor, y también barrios en auge como Delea Veche o Timpuri Noi — se han pasado masivamente al aluminio en los últimos cinco años precisamente por eso: **quien compra una vivienda nueva ve las ventanas en la primera visita**.
+
+### 2. El argumento técnico — mejor rendimiento a largo plazo
+
+| Criterio | PVC BluEvolution 92 | Reynaers CS 77 aluminio |
 |---|---|---|
-| CS 77, doble Low-E | 3 ventanas + 1 puerta balcón (2 hab.) | 2.800–4.200 EUR |
-| CS 77, doble Low-E | 4 ventanas + 2 puertas balcón (3 hab.) | 4.200–6.500 EUR |
-| CS 77, triple Low-E | 4 ventanas + 2 puertas balcón (3 hab.) | 5.500–8.000 EUR |
+| Uw ventana (doble acristalamiento Low-E) | 0,70–1,0 W/m²K | 1,1–1,4 W/m²K |
+| Rigidez estructural | Media (requiere refuerzo de acero) | **Muy alta** (aluminio extruido) |
+| Resistencia al viento | C3/B3 | **C4/B4** |
+| Huecos grandes (más de 1,5 m de ancho) | Limitados | **Ilimitados** |
+| Garantía de color | 10 años | **25 años** |
+| Vida útil | 30 años | **40–50 años** |
+| Mantenimiento | Necesario (juntas, PU) | **Mínimo** |
 
-**WhatsApp Proyectos:** +40 752 443 439
+**La conclusión para una promotora:** en un bloque de 50 a 100 viviendas, diez años más de vida útil y cero intervenciones de mantenimiento suponen **costes posventa notablemente menores** y menos reclamaciones de los compradores.
+
+### 3. El argumento comercial — el valor añadido en el precio de venta
+
+Una vivienda con [carpintería de aluminio](/es/carpinteria-aluminio) Reynaers se vende un **5–8 % más cara** que la misma vivienda con PVC, en la misma calle y con idéntica superficie. En una vivienda de 120.000 EUR, la diferencia es de 6.000–9.600 EUR — frente a un sobrecoste del aluminio respecto al PVC de 1.500–3.000 EUR por vivienda.
+
+La relación es clara: **la inversión en aluminio Reynaers se recupera de dos a cuatro veces en el precio de venta**.
+
+---
+
+## Los sistemas Reynaers que suministra Neofort BIZ para bloques nuevos
+
+### Reynaers ConceptSystem 77 — ventanas y puertas oscilobatientes
+
+El sistema estándar para ventanas residenciales de gama alta.
+
+- Profundidad: **77 mm** | Rotura de puente térmico: poliamida de 34 mm
+- Uw = 1,1–1,4 W/m²K con doble acristalamiento Low-E 4+16+4 argón
+- Uw = 0,8–1,0 W/m²K con triple acristalamiento Low-E
+- Aislamiento acústico: **38–42 dB** — importante para los bloques situados en los bulevares con más tráfico de Bucarest
+- Resistencia antirrobo: **RC2** — el estándar para la planta baja de cualquier bloque nuevo
+
+### Reynaers ConceptPatio 155 — sistemas correderos y elevables-correderos
+
+El sistema para terrazas y balcones grandes — allí donde la puerta de balcón clásica ya no basta.
+
+- Hojas de hasta **3.500 mm de ancho**
+- Uw = 1,2 W/m²K con doble acristalamiento Low-E
+- Estanqueidad superior a la de los sistemas correderos estándar
+- Ideal para áticos o viviendas con terraza
+
+### Reynaers CS 86-HI — la versión nZEB para viviendas premium
+
+- Rotura de puente térmico: **52 mm**
+- Uw = 0,8–1,0 W/m²K — certificación nZEB completa
+- Recomendado para plantas altas con orientación norte o este
+
+---
+
+## Cómo trabaja Neofort BIZ con las contratas generales
+
+**Un proyecto llave en mano** — desde las mediciones sobre los planos de arquitectura hasta la [instalación](/es/servicios) final y el acta de recepción, Neofort BIZ es el interlocutor único para toda la carpintería del edificio. Para el contexto completo, lea [la guía de la carpintería de aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).
+
+**Coordinación con las fases de obra** — entregamos por tramos según avanzan los trabajos, planta a planta. No bloqueamos la obra con excedentes de material ni retrasamos la fase de acabados.
+
+**Documentación completa** — declaraciones de prestaciones (DoP), certificados CE, fichas técnicas y cálculos térmicos para el expediente de licencia y para el libro del edificio.
+
+**Garantía contractual** — 10 años en perfiles, 5 años en vidrio, 2 años en instalación. Cláusulas claras en el contrato, sin sorpresas tras la recepción.
+
+---
+
+## Precios orientativos de carpintería de aluminio Reynaers para bloque nuevo — 2026
+
+> ⚠️ **Nota importante:** los precios son orientativos y reflejan las condiciones de marzo de 2026. Los costes del aluminio, la energía y la mano de obra cambian continuamente y pueden subir o bajar. Solicite un presupuesto actualizado para su proyecto.
+
+| Sistema Reynaers | Configuración típica de vivienda | Estimación por vivienda |
+|---|---|---|
+| CS 77, doble acristalamiento Low-E | 3 ventanas + 1 puerta de balcón (2 hab.) | 2.800–4.200 EUR |
+| CS 77, doble acristalamiento Low-E | 4 ventanas + 2 puertas de balcón (3 hab.) | 4.200–6.500 EUR |
+| CS 77, triple acristalamiento Low-E | 4 ventanas + 2 puertas de balcón (3 hab.) | 5.500–8.000 EUR |
+| CP 155 elevable-corredera terraza | Por sistema completo | 2.500–5.000 EUR |
+
+*Los precios son por vivienda terminada, incluidos instalación, vierteaguas y retirada de embalajes. No incluyen puertas de acceso al edificio ni elementos comunes.*
+
+---
+
+## Contacto para proyectos de promoción inmobiliaria
+
+Neofort BIZ trabaja directamente con **promotoras inmobiliarias, contratas generales y arquitectos** de Bucarest y de toda Rumanía.
+
+**WhatsApp Proyectos:** +40 752 443 439 | **L–V 10–18**
 
 ## Preguntas frecuentes
 
-### ¿Qué ventajas estéticas tiene el aluminio Reynaers frente al PVC en bloques?
+### ¿Qué ventajas tiene el aluminio Reynaers frente al PVC en bloques de viviendas?
 
-Dos argumentos: estético — el perfil de aluminio visible de 60-77 mm ofrece líneas limpias, finas y un aspecto premium que aumenta el valor percibido; y técnico — rigidez estructural muy alta, resistencia al viento C4/B4, grandes aberturas ilimitadas y una vida útil de 40-50 años.
+Dos argumentos: estético — el perfil de aluminio visto de 60 a 77 mm da líneas limpias, esbeltas y aspecto premium que eleva el valor percibido; y técnico — rigidez estructural muy alta, resistencia al viento C4/B4, huecos grandes ilimitados y una vida útil de 40 a 50 años.
 
-### ¿Qué sistema Reynaers montó Neofort BIZ en el bloque de Delea Veche?
+### ¿Qué sistema Reynaers instaló Neofort BIZ en el bloque de Delea Veche?
 
-Neofort BIZ suministró y montó la carpintería de aluminio Reynaers ConceptSystem 77 para todo el bloque nuevo de Delea Veche, Sector 2 — ventanas en todos los pisos, puertas de balcón, puertas de entrada al bloque y puertas comunes. Trabajo completo, un solo proveedor y un solo interlocutor técnico.
+Neofort BIZ suministró e instaló la carpintería de aluminio Reynaers ConceptSystem 77 para todo el bloque nuevo de Delea Veche, Sector 2 — ventanas en todas las viviendas, puertas de balcón, puerta de acceso al edificio y puertas comunes. Obra completa, un solo proveedor y un solo interlocutor técnico.
 
-### ¿Qué diferencia hay entre el PVC BluEvolution 92 y el aluminio Reynaers CS 77?
+### ¿Cuál es la diferencia entre PVC BluEvolution 92 y aluminio Reynaers CS 77?
 
-El PVC BluEvolution 92 tiene mejor Uw (0,70-1,0 vs 1,1-1,4) y precio más bajo, pero el aluminio Reynaers CS 77 tiene rigidez muy alta, resistencia al viento C4/B4 (vs C3/B3), grandes aberturas ilimitadas, garantía de color de 25 años (vs 10) y vida de 40-50 años (vs 30).
+El PVC BluEvolution 92 tiene mejor Uw (0,70–1,0 frente a 1,1–1,4) y precio menor, pero el aluminio Reynaers CS 77 ofrece rigidez muy alta, resistencia al viento C4/B4 (frente a C3/B3), huecos grandes ilimitados, garantía de color de 25 años (frente a 10) y vida útil de 40 a 50 años (frente a 30).
 
-### ¿Por qué el aluminio es adecuado para bloques en zonas premium de Bucarest?
+### ¿Por qué es adecuado el aluminio para bloques de zonas premium de Bucarest?
 
-En un bloque nuevo con fachada moderna, el aluminio Reynaers ofrece líneas arquitectónicas limpias que aumentan el valor percibido de los pisos. Los promotores de Floreasca, Dorobanți, Aviatorilor y zonas en auge como Delea Veche han migrado al aluminio porque el comprador ve las ventanas en la primera visita.
-
-
----
-
-Neofort BIZ suministra e instala carpintería de aluminio para bloques de obra nueva, con entrega por fases, en Bucarest e Ilfov. [Envíenos los datos de la promoción](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de aluminio](/es/carpinteria-aluminio).
-`,
-
-      it: `## Il progetto Neofort BIZ — nuovo condominio, Delea Veche, Bucarest
-
-Delea Veche è una delle zone di sviluppo residenziale più attive del settore 2 di Bucarest. Neofort BIZ ha consegnato e [installato](/it/servizi) **infissi [alluminio](/it/infissi-alluminio) Reynaers ConceptSystem 77** per l'intero condominio. Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa).
+En un bloque nuevo con fachada moderna, el aluminio Reynaers aporta líneas arquitectónicas limpias que elevan el valor percibido de las viviendas. Las promotoras de Floreasca, Dorobanți, Aviatorilor y zonas en auge como Delea Veche se han pasado al aluminio porque el comprador ve las ventanas en la primera visita.
 
 ---
 
-## Perché gli sviluppatori scelgono Reynaers invece del PVC per i nuovi condomini?
+Neofort BIZ suministra e instala carpintería de aluminio para bloques de obra nueva, con entrega por fases, en Bucarest e Ilfov. [Envíenos los datos de la promoción](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos.`,
 
-**Estetica** — il profilo visibile da 60–77 mm offre linee pulite e sottili che aumentano il valore percepito degli appartamenti.
+      it: `## Il cantiere di Neofort BIZ — edificio nuovo, Delea Veche, Bucarest
 
-**Valore commerciale** — un appartamento con alluminio Reynaers si vende **5–8% in più**. Per un appartamento da 120.000 EUR: 6.000–9.600 EUR in più vs. 1.500–3.000 EUR di costo aggiuntivo. **Ritorno: 2–4×.**
+Delea Veche è una delle zone di sviluppo residenziale più attive del Settore 2 di Bucarest. Edifici nuovi da quattro a otto piani, appartamenti da due a quattro locali, acquirenti con aspettative elevate sulla qualità delle finiture.
+
+Neofort BIZ ha fornito e posato **i serramenti in alluminio Reynaers ConceptSystem 77** per l’intero edificio — finestre in tutti gli appartamenti, porte-finestra, portone d’ingresso e porte comuni. Un intervento completo, un solo fornitore, un solo interlocutore tecnico per l’impresa generale.
 
 ---
 
-## Prezzi indicativi per appartamento — 2026
+## Perché gli sviluppatori scelgono l’alluminio Reynaers invece del PVC per i nuovi edifici?
 
-> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+### 1. L’argomento estetico — una differenza subito visibile
 
-| Sistema | Configurazione | Stima per appartamento |
+Il PVC, per quanto valido, ha un profilo più largo e più «plastico» dell’alluminio. Su un edificio nuovo con facciata moderna, i serramenti in alluminio Reynaers, con profilo a vista da 60 a 77 mm, offrono **linee pulite, sottili e un aspetto architettonico di pregio** che aumenta il valore percepito degli appartamenti.
+
+Gli sviluppatori delle zone di pregio di Bucarest — Floreasca, Dorobanți, Aviatorilor, ma anche quartieri in ascesa come Delea Veche o Timpuri Noi — sono passati in massa all’alluminio negli ultimi cinque anni proprio per questo: **chi compra un appartamento nuovo vede le finestre già alla prima visita**.
+
+### 2. L’argomento tecnico — prestazioni superiori nel tempo
+
+| Criterio | PVC BluEvolution 92 | Reynaers CS 77 alluminio |
 |---|---|---|
-| CS 77, doppio Low-E | 3 finestre + 1 porta balcone (2 vani) | 2.800–4.200 EUR |
-| CS 77, doppio Low-E | 4 finestre + 2 porte balcone (3 vani) | 4.200–6.500 EUR |
-| CS 77, triplo Low-E | 4 finestre + 2 porte balcone (3 vani) | 5.500–8.000 EUR |
+| Uw finestra (doppio vetro Low-E) | 0,70–1,0 W/m²K | 1,1–1,4 W/m²K |
+| Rigidità strutturale | Media (richiede rinforzo in acciaio) | **Molto elevata** (alluminio estruso) |
+| Resistenza al vento | C3/B3 | **C4/B4** |
+| Aperture grandi (oltre 1,5 m di larghezza) | Limitate | **Illimitate** |
+| Garanzia sul colore | 10 anni | **25 anni** |
+| Durata | 30 anni | **40–50 anni** |
+| Manutenzione | Necessaria (guarnizioni, PU) | **Minima** |
 
-**WhatsApp Progetti:** +40 752 443 439
+**La conclusione per uno sviluppatore:** su un edificio da 50 a 100 appartamenti, dieci anni di durata in più e nessun intervento di manutenzione significano **costi post-vendita nettamente inferiori** e meno reclami da parte degli acquirenti.
+
+### 3. L’argomento commerciale — il valore aggiunto sul prezzo di vendita
+
+Un appartamento con [serramenti in alluminio](/it/infissi-alluminio) Reynaers si vende **il 5–8 % in più** rispetto allo stesso appartamento in PVC, nella stessa via e a parità di superficie. Su un appartamento da 120.000 EUR la differenza è di 6.000–9.600 EUR — a fronte di un sovrapprezzo dell’alluminio rispetto al PVC di 1.500–3.000 EUR per appartamento.
+
+Il rapporto è chiaro: **l’investimento nell’alluminio Reynaers si recupera da due a quattro volte nel prezzo di vendita**.
+
+---
+
+## I sistemi Reynaers forniti da Neofort BIZ per i nuovi edifici
+
+### Reynaers ConceptSystem 77 — finestre e porte anta-ribalta
+
+Il sistema standard per finestre residenziali di pregio.
+
+- Profondità: **77 mm** | Taglio termico: poliammide da 34 mm
+- Uw = 1,1–1,4 W/m²K con doppio vetro Low-E 4+16+4 argon
+- Uw = 0,8–1,0 W/m²K con triplo vetro Low-E
+- Isolamento acustico: **38–42 dB** — importante per gli edifici sui viali più trafficati di Bucarest
+- Resistenza antieffrazione: **RC2** — lo standard per il piano terra di ogni nuovo edificio
+
+### Reynaers ConceptPatio 155 — sistemi scorrevoli e alzanti scorrevoli
+
+Il sistema per terrazze e balconi ampi — dove la porta-finestra classica non basta più.
+
+- Ante fino a **3.500 mm di larghezza**
+- Uw = 1,2 W/m²K con doppio vetro Low-E
+- Tenuta superiore rispetto ai sistemi scorrevoli standard
+- Ideale per attici o unità con terrazza
+
+### Reynaers CS 86-HI — la versione nZEB per appartamenti di pregio
+
+- Taglio termico: **52 mm**
+- Uw = 0,8–1,0 W/m²K — certificazione nZEB completa
+- Consigliato per i piani alti con esposizione a nord o a est
+
+---
+
+## Come lavora Neofort BIZ con le imprese generali
+
+**Un progetto chiavi in mano** — dal rilievo sui disegni di architettura fino alla [posa](/it/servizi) finale e al verbale di collaudo, Neofort BIZ è l’interlocutore unico per tutti i serramenti dell’edificio. Per il quadro completo, leggete [la guida ai serramenti in alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa).
+
+**Coordinamento con le fasi di cantiere** — consegniamo a lotti secondo l’avanzamento dei lavori, piano per piano. Non ingombriamo il cantiere con scorte eccessive e non ritardiamo la fase delle finiture.
+
+**Documentazione completa** — dichiarazioni di prestazione (DoP), certificati CE, schede tecniche e calcoli termici per la pratica edilizia e per il fascicolo dell’opera.
+
+**Garanzia contrattuale** — 10 anni sui profili, 5 anni sul vetro, 2 anni sulla posa. Clausole chiare nel contratto, senza sorprese dopo il collaudo.
+
+---
+
+## Prezzi indicativi dei serramenti in alluminio Reynaers per edificio nuovo — 2026
+
+> ⚠️ **Nota importante:** i prezzi sono indicativi e riflettono le condizioni di marzo 2026. I costi di alluminio, energia e manodopera cambiano di continuo e possono salire o scendere. Richiedete un preventivo aggiornato per il vostro progetto.
+
+| Sistema Reynaers | Configurazione tipica di appartamento | Stima per appartamento |
+|---|---|---|
+| CS 77, doppio vetro Low-E | 3 finestre + 1 porta-finestra (2 locali) | 2.800–4.200 EUR |
+| CS 77, doppio vetro Low-E | 4 finestre + 2 porte-finestra (3 locali) | 4.200–6.500 EUR |
+| CS 77, triplo vetro Low-E | 4 finestre + 2 porte-finestra (3 locali) | 5.500–8.000 EUR |
+| CP 155 alzante scorrevole terrazza | Per sistema completo | 2.500–5.000 EUR |
+
+*I prezzi si intendono per appartamento finito, compresi posa, davanzali e smaltimento degli imballaggi. Non comprendono il portone d’ingresso e gli elementi comuni.*
+
+---
+
+## Contatto per progetti di sviluppo immobiliare
+
+Neofort BIZ collabora direttamente con **sviluppatori immobiliari, imprese generali e architetti** di Bucarest e di tutta la Romania.
+
+**WhatsApp Progetti:** +40 752 443 439 | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
-### Quali vantaggi estetici ha l'alluminio Reynaers rispetto al PVC negli edifici?
+### Quali vantaggi ha l’alluminio Reynaers rispetto al PVC nei condomini?
 
-Due argomenti: estetico — il profilo in alluminio visibile da 60-77 mm offre linee pulite, sottili e un aspetto premium che aumenta il valore percepito; e tecnico — rigidità strutturale molto elevata, resistenza al vento C4/B4, grandi aperture illimitate e durata di vita di 40-50 anni.
+Due argomenti: estetico — il profilo in alluminio a vista da 60 a 77 mm dà linee pulite, sottili e un aspetto di pregio che aumenta il valore percepito; e tecnico — rigidità strutturale molto elevata, resistenza al vento C4/B4, aperture grandi illimitate e una durata di 40–50 anni.
 
-### Quale sistema Reynaers ha montato Neofort BIZ all'edificio di Delea Veche?
+### Quale sistema Reynaers ha posato Neofort BIZ nell’edificio di Delea Veche?
 
-Neofort BIZ ha fornito e montato i serramenti in alluminio Reynaers ConceptSystem 77 per l'intero nuovo edificio di Delea Veche, Settore 2 — finestre in tutti gli appartamenti, porte da balcone, porte d'ingresso dell'edificio e porte comuni. Lavoro completo, un solo fornitore e un solo interlocutore tecnico.
+Neofort BIZ ha fornito e posato i serramenti in alluminio Reynaers ConceptSystem 77 per l’intero edificio nuovo di Delea Veche, Settore 2 — finestre in tutti gli appartamenti, porte-finestra, portone d’ingresso e porte comuni. Intervento completo, un solo fornitore e un solo interlocutore tecnico.
 
-### Qual è la differenza tra il PVC BluEvolution 92 e l'alluminio Reynaers CS 77?
+### Qual è la differenza tra PVC BluEvolution 92 e alluminio Reynaers CS 77?
 
-Il PVC BluEvolution 92 ha un Uw migliore (0,70-1,0 vs 1,1-1,4) e prezzo più basso, ma l'alluminio Reynaers CS 77 ha rigidità molto elevata, resistenza al vento C4/B4 (vs C3/B3), grandi aperture illimitate, garanzia colore di 25 anni (vs 10) e durata di 40-50 anni (vs 30).
+Il PVC BluEvolution 92 ha un Uw migliore (0,70–1,0 contro 1,1–1,4) e un prezzo inferiore, ma l’alluminio Reynaers CS 77 offre rigidità molto elevata, resistenza al vento C4/B4 (contro C3/B3), aperture grandi illimitate, garanzia sul colore di 25 anni (contro 10) e durata di 40–50 anni (contro 30).
 
-### Perché l'alluminio è adatto per edifici in zone premium di Bucarest?
+### Perché l’alluminio è adatto agli edifici nelle zone di pregio di Bucarest?
 
-Su un nuovo edificio con facciata moderna, l'alluminio Reynaers offre linee architettoniche pulite che aumentano il valore percepito degli appartamenti. Gli sviluppatori di Floreasca, Dorobanți, Aviatorilor e zone in ascesa come Delea Veche sono passati all'alluminio perché l'acquirente vede le finestre alla prima visita.
-
+Su un edificio nuovo con facciata moderna, l’alluminio Reynaers dà linee architettoniche pulite che aumentano il valore percepito degli appartamenti. Gli sviluppatori di Floreasca, Dorobanți, Aviatorilor e di zone in ascesa come Delea Veche sono passati all’alluminio perché l’acquirente vede le finestre già alla prima visita.
 
 ---
 
-Neofort BIZ fornisce e posa serramenti in alluminio per edifici nuovi, con consegna per fasi, a Bucarest e nell’Ilfov. [Inviateci i dati dell’intervento](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma in alluminio](/it/infissi-alluminio).
-`,
+Neofort BIZ fornisce e posa serramenti in alluminio per edifici nuovi, con consegna per fasi, a Bucarest e nell’Ilfov. [Inviateci i dati dell’intervento](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma di serramenti in alluminio](/it/infissi-alluminio) che offriamo.`,
     },
   },
 
@@ -19278,7 +19599,7 @@ Fără precadre, **BluEvolution 92 pierde 35–40% din performanța termică** l
 
 ## Prețuri orientative BluEvolution 92 cu smart home — casă individuală 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Se pot modifica în funcție de evoluția pieței. Solicitați întotdeauna o ofertă actualizată.
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Se pot modifica în funcție de evoluția pieței. Solicitați întotdeauna o ofertă actualizată.
 
 | Configurație | Casă 120 mp | Casă 180 mp |
 |---|---|---|
@@ -19734,7 +20055,7 @@ Aceste cerințe se aplică și în România. Case de vacanță și reședințe p
 
 ## Prețuri orientative BluEvolution 92 ALU — 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Costurile materialelor și cursul EUR/RON se pot modifica. Solicitați întotdeauna o ofertă actualizată.
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Costurile materialelor și cursul EUR/RON se pot modifica. Solicitați întotdeauna o ofertă actualizată.
 
 | Configurație | Preț estimat (montat) |
 |---|---|
@@ -20214,7 +20535,7 @@ Sticla lipită cu silicon structural pe o structură metalică ascunsă. Zero pr
 
 ## Prețuri orientative vitrine și geamuri mari dimensiuni — 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Prețurile sticlei variază semnificativ în funcție de disponibilitate și cursul valutar. Solicitați întotdeauna o ofertă actualizată.
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Prețurile sticlei variază semnificativ în funcție de disponibilitate și cursul valutar. Solicitați întotdeauna o ofertă actualizată.
 
 | Produs | Dimensiune | Preț orientativ |
 |---|---|---|
@@ -22081,7 +22402,7 @@ Sisteme glisante liftant, ferestre panoramice, pergole cu tâmplărie, fațade p
 
 ## Prețuri orientative lucrări București — 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Costurile aluminiului și manoperei se pot modifica. Solicitați întotdeauna ofertă actualizată.
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Costurile aluminiului și manoperei se pot modifica. Solicitați întotdeauna ofertă actualizată.
 
 | Tip lucrare | Estimare per mp |
 |---|---|
@@ -24624,7 +24945,7 @@ Aluminiul se vopsește în orice culoare RAL prin **vopsire electostatică** (du
 
 ## Prețuri orientative uși aluminiu Sector 1, 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflect condițiile din martie 2026. Solicitați ofertă actualizată cu specificații exacte.
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Solicitați ofertă actualizată cu specificații exacte.
 
 | Tip ușă | Configurație | Preț estimat montat |
 |---|---|---|
