@@ -23621,7 +23621,7 @@ Blackout total are sens în situații specifice:
 
 ## Prețuri comparative pe tip de țesătură — 2026
 
-> ⚠️ **Notă:** Prețurile sunt orientative, valabile martie 2026. Solicități ofertă actualizată.
+> ⚠️ **Notă:** Prețurile sunt orientative, valabile martie 2026. Solicitați ofertă actualizată.
 
 | Tip țesătură | Deschidere | Preț orientativ / mp instalat |
 |---|---|---|
@@ -23675,106 +23675,278 @@ Pentru intimitate maximă alege blackout (opac, 0% deschidere) — oferă întun
 
 Neofort BIZ montează sisteme ZipScreen cu țesături blackout și screen transparent în București și Ilfov, dimensionate pe fiecare deschidere. Descoperă [soluțiile de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Compară toate opțiunile în [comparația completă a sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet).`,
 
-      en: `## The question we get most often: blackout or transparent?
+      en: `## The question we are asked most often: blackout or transparent?
 
-Almost every customer ordering a [Zipscreen](/en/shading-systems) blind in Bucharest asks the same question: **"What's better — blackout or [transparent](/en/accessories)?"**
+Almost every client ordering a [Zipscreen](/en/shading-systems) blind in Bucharest asks the same thing: **“Which is better — blackout or transparent?”**
 
-The correct answer depends on three factors: **window or terrace orientation**, **primary purpose** (shading vs. privacy vs. visual comfort) and **urban context** (street, neighbours, private garden).
+The right answer depends on three factors: **the orientation of the window or terrace**, **the main purpose** (shading, privacy or visual comfort) and **the urban context** (street, neighbours, private garden).
+
+This guide explains exactly what each option means and how to choose correctly the first time.
 
 ---
 
-## Understanding the "openness factor" — what 1%, 3%, 5%, 10% means
+## Understanding the “openness factor” — what 1%, 3%, 5% and 10% mean
 
-| Fabric type | Openness | UV filtration | View from inside | View from outside (day) |
+**The openness factor** represents the proportion of gaps in the [screen](/en/accessories) fabric against the total surface. A lower percentage means a denser material, less light and less visibility.
+
+| Fabric type | Openness | UV filtering | Visibility from inside | Visibility from outside (daytime) |
 |---|---|---|---|---|
-| Transparent | 5–10% | 90–95% | Excellent | Reduced (mirror effect) |
-| Semi-opaque | 1–3% | 97–99% | Good to reduced | Very reduced |
-| Blackout | 0% | 100% | Zero | Zero |
+| Transparent | 5–10% | 90–95% | Excellent | Low (mirror effect) |
+| Semi-opaque | 1–3% | 97–99% | Good to low | Very low |
+| Opaque (blackout) | 0% | 100% | None | None |
 
-**Common myth:** with 5–10% openness fabrics, you cannot be seen from outside during the day — it works like a mirror. At night with interior lighting, the situation reverses.
-
----
-
-## House orientation — the golden rule
-
-**South/West exposure:** semi-opaque 1–3% or blackout 0%, light colours (white, pearl grey, cream) — reflects up to 70% of solar radiation.
-
-**East exposure:** transparent 5% or semi-opaque 3% — morning sun is less thermally aggressive.
-
-**North exposure:** transparent 5–10% — no direct solar radiation, maximise natural light.
+**Beware of a common myth:** with screen fabrics of 5–10% openness, you cannot see inside from the outside during the day — it works like a mirror. At night, with the interior lights on, the situation reverses.
 
 ---
 
-## Quick decision table
+## The orientation of the house — the golden rule for choosing the fabric
+
+### South or west aspect (the warmest)
+South and west facades receive the most direct sun — in summer, the interior temperature can rise by 8–15 °C without protection.
+
+**Recommendation:** **semi-opaque 1–3%** or **opaque 0%** fabric.
+- Reflects the maximum amount of solar radiation
+- Choose **light colours** (white, pearl grey, cream beige) — they reflect more effectively than dark ones
+- For a living room or office where you want visibility, 3% is the optimal compromise
+
+### East aspect (morning sun)
+Strong sun in the morning (7–11), shade in the afternoon.
+
+**Recommendation:** **transparent 5%** or **semi-opaque 3%** fabric.
+- The morning sun is less aggressive thermally than the afternoon sun
+- Visibility outwards is valuable if you have a view
+
+### North aspect (no direct sun)
+Diffuse light, with no direct solar incidence.
+
+**Recommendation:** **transparent 5–10%** fabric, or even an interior blind instead of a Zipscreen.
+- The main issue is wind and rain, not heat
+- Maximum visibility is an advantage
+
+---
+
+## Terrace against window — different scenarios
+
+### Covered terrace (pergola, awning)
+On a terrace, the Zipscreen **replaces a wall** — the aim is to create a usable outdoor room.
+
+**Recommended choice:**
+- **North or east side:** 5% transparent — lets the light in, blocks the wind
+- **South or west side:** 1–3% semi-opaque — thermal protection plus privacy from neighbours
+- **Mixed solution:** 3% on south and west, 5% on the other sides — the standard for terraces in Ilfov
+
+### Living room or bedroom window
+On a window, the main aims are UV protection, privacy from the street or neighbours, and heat reduction.
+
+**Recommended choice:**
+- **Living room with a view over a park or greenery:** 5% transparent — you keep the view
+- **Bedroom on a busy street:** 1–3% or 0% blackout — complete privacy
+- **Home office:** 3% — reduces glare on the screen without losing the light
+
+---
+
+## The colour of the fabric — not just an aesthetic matter
+
+Colour directly influences **thermal efficiency**:
+
+**Light colours** (white, light grey, beige, cream):
+- Reflect 60–70% of the solar radiation
+- Reduce the interior temperature more effectively in summer
+- **Recommended for south and west aspects**
+
+**Dark colours** (anthracite, black, dark brown):
+- Absorb 60–70% of the radiation — they heat up more
+- Give better visual contrast looking from inside outwards
+- **Recommended for north or east aspects, where heat is not the issue**
+
+**The Neofort BIZ tip:** for terraces in Bucharest, white or light grey on the south and west sides reduces the need for ventilation by 30–40% against anthracite.
+
+---
+
+## Complete blackout (0%) — when it is the right solution
+
+Total blackout makes sense in specific situations:
+
+✅ **A bedroom** with an east or south aspect — sleep without morning light
+✅ **A cinema room** or gaming space
+✅ **A relaxation pergola** where you want complete privacy from neighbours
+✅ **A street-facing balcony** with heavy traffic and neighbours opposite
+✅ **A showroom or shop** with digital displays sensitive to sunlight
+
+❌ **Not recommended** for: living rooms, kitchens, offices, or any space where natural light matters
+
+---
+
+## Comparative prices by fabric type — 2026
+
+> ⚠️ **Note:** the prices are indicative, valid as at March 2026. Ask for an up-to-date quotation.
+
+| Fabric type | Openness | Indicative price per sqm installed |
+|---|---|---|
+| Standard transparent | 5% | 160–220 EUR/sqm |
+| Semi-opaque | 3% | 170–240 EUR/sqm |
+| Premium semi-opaque | 1% | 180–260 EUR/sqm |
+| Complete blackout | 0% | 190–280 EUR/sqm |
+
+*The price differences between types are small — the choice is made on technical criteria, not financial ones.*
+
+---
+
+## A quick decision table
 
 | Your situation | Recommended fabric |
 |---|---|
-| South/west terrace, want privacy | 1–3% light colour |
-| East terrace, beautiful view | 5% transparent |
-| Bedroom on busy street | 0% blackout |
-| Living room, large garden window | 5% transparent |
-| Home office, computer screen | 3% medium colour |
-| Apartment balcony, facing neighbours | 1–3% or 0% |
+| South or west terrace, you also want privacy | 1–3% in a light colour |
+| East terrace, you have a fine view | 5% transparent |
+| Bedroom on a busy street | 0% blackout |
+| Living room with a large window onto the garden | 5% transparent |
+| Home office, computer screen | 3% in a medium colour |
+| Apartment balcony, neighbours opposite | 1–3% or 0% |
 
 ---
 
-## Indicative prices by fabric type — 2026
+## Free consultation — Neofort BIZ Bucharest
 
-> ⚠️ **Note:** Prices are indicative as of March 2026. Always request an updated quote.
+Not sure what to choose? Send us a photograph of the window or terrace along with the orientation of the house, and we will give you a specific recommendation.
 
-| Fabric type | Openness | Indicative price / m² installed |
-|---|---|---|
-| Standard transparent | 5% | 160–220 EUR/m² |
-| Semi-opaque | 3% | 170–240 EUR/m² |
-| Blackout | 0% | 190–280 EUR/m² |
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **Mon–Fri 10–18**
 
-**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
-
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### Zipscreen blackout or transparent — which is better?
 
-It depends on three factors: the orientation of the window or terrace, the main purpose (shading, privacy or visual comfort) and the urban context (street, neighbours, private yard). Transparent keeps the view and filters 90-95% UV; blackout gives total darkness and 100% UV filtering, but zero visibility.
+It depends on three factors: the orientation of the window or terrace, the main purpose (shading, privacy or visual comfort) and the urban context (street, neighbours, private garden). Transparent keeps the view and filters 90–95% of UV; blackout gives total darkness and 100% UV filtering, but no visibility at all.
 
 ### What does the openness factor of a screen fabric mean?
 
-The openness factor is the proportion of gaps in the fabric relative to the total area. A lower percentage means denser material, less light and visibility. Transparent = 5-10% openness (90-95% UV filtered), semi-opaque = 1-3%, opaque/blackout = 0% (100% UV).
+The openness factor is the proportion of gaps in the fabric against the total surface. A lower percentage means a denser material, less light and less visibility. Transparent means 5–10% openness (90–95% UV filtered), semi-opaque 1–3%, opaque or blackout 0% (100% UV).
 
-### Can you see into the house through a transparent screen during the day?
+### Can people see inside through a transparent screen during the day?
 
-No. With screen fabrics of 5-10% openness, you cannot see in from outside during the day — it acts like a mirror. At night, with interior lights on, the situation reverses and you can see in. It is a common myth that transparent fabric gives outside visibility during the day.
+No. With screen fabrics of 5–10% openness, you cannot see inside from the outside during the day — the fabric works like a mirror. At night, with the interior lights on, the situation reverses and the inside becomes visible. It is a common myth that transparent fabric gives visibility from outside during the day.
 
 ### Which Zipscreen fabric should I choose for maximum privacy?
 
-For maximum privacy choose blackout (opaque, 0% openness) — it gives total darkness, zero visibility both ways and 100% UV filtering, ideal for bedrooms. If you also want to keep the outward view, semi-opaque (1-3%) offers a compromise with reduced visibility and 97-99% UV filtered.
+For maximum privacy choose blackout (opaque, 0% openness) — it gives total darkness, no visibility in either direction and 100% UV filtering, ideal for bedrooms. If you also want to keep the view outwards, semi-opaque (1–3%) offers a compromise with reduced visibility and 97–99% UV filtered.
 
 ---
 
-Neofort BIZ installs ZipScreen systems with blackout and transparent screen fabrics in Bucharest and Ilfov, sized for each opening. Discover [the shading solutions](/en/shading-systems) we offer or [request a quote](/en/contact). Compare all options in [the full comparison of exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide).`,
+Neofort BIZ installs ZipScreen systems with blackout and transparent screen fabrics in Bucharest and Ilfov, sized for each opening. Discover [the shading solutions](/en/shading-systems) we offer or [request a quote](/en/contact). Compare every option in [the complete guide to exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide).`,
 
-      de: `## Die häufigste Frage: Blackout oder transparent?
+      de: `## Die Frage, die uns am häufigsten gestellt wird: blickdicht oder transparent?
 
-Fast jeder Kunde, der ein [Zipscreen](/de/beschattungssysteme)-Rollo in Bukarest bestellt, stellt dieselbe Frage. Die richtige Antwort hängt von drei Faktoren ab: **Ausrichtung**, **Hauptzweck** und **städtischer Kontext**.
+Fast jeder Kunde, der in Bukarest einen [Zipscreen](/de/beschattungssysteme) bestellt, stellt dieselbe Frage: **„Was ist besser — blickdicht oder transparent?"**
+
+Die richtige Antwort hängt von drei Faktoren ab: **der Ausrichtung des Fensters oder der Terrasse**, **dem Hauptzweck** (Beschattung, Sichtschutz oder visueller Komfort) und **dem städtebaulichen Umfeld** (Straße, Nachbarn, privater Garten).
+
+Dieser Ratgeber erklärt genau, was jede Option bedeutet und wie Sie gleich beim ersten Mal richtig wählen.
 
 ---
 
-## Öffnungsfaktor — was 1%, 3%, 5%, 10% bedeutet
+## Den „Öffnungsfaktor" verstehen — was 1 %, 3 %, 5 % und 10 % bedeuten
 
-| Gewebetyp | Öffnung | UV-Filterung | Sicht von innen | Sicht von außen (Tag) |
+**Der Öffnungsfaktor** bezeichnet den Anteil der Zwischenräume im [Screen-Gewebe](/de/zubehoer) an der Gesamtfläche. Ein kleinerer Prozentsatz bedeutet dichteres Material, weniger Licht und weniger Durchsicht.
+
+| Gewebeart | Öffnung | UV-Filterung | Durchsicht von innen | Durchsicht von außen (tagsüber) |
 |---|---|---|---|---|
-| Transparent | 5–10% | 90–95% | Ausgezeichnet | Gering (Spiegeleffekt) |
-| Halblichtdurchlässig | 1–3% | 97–99% | Gut bis gering | Sehr gering |
-| Blackout | 0% | 100% | Null | Null |
+| Transparent | 5–10 % | 90–95 % | Ausgezeichnet | Gering (Spiegeleffekt) |
+| Halbblickdicht | 1–3 % | 97–99 % | Gut bis gering | Sehr gering |
+| Blickdicht (Blackout) | 0 % | 100 % | Keine | Keine |
+
+**Achtung, ein verbreiteter Irrtum:** Bei Screen-Geweben mit 5–10 % Öffnung sieht man tagsüber von außen nicht hinein — das Gewebe wirkt wie ein Spiegel. Nachts, bei eingeschaltetem Innenlicht, kehrt sich die Lage um.
 
 ---
 
-## Ausrichtungsregel
+## Die Ausrichtung des Hauses — die goldene Regel für die Gewebewahl
 
-**Süd/West:** 1–3% halblichtdurchlässig oder Blackout, helle Farben — reflektiert bis 70% der Sonnenstrahlung.
+### Süd- oder Westausrichtung (die wärmsten)
+Süd- und Westfassaden bekommen die meiste direkte Sonne — im Sommer kann die Innentemperatur ohne Schutz um 8–15 °C steigen.
 
-**Ost:** 5% [transparent](/de/zubehoer) — Morgensonne ist weniger thermisch aggressiv.
+**Empfehlung:** Gewebe **halbblickdicht 1–3 %** oder **blickdicht 0 %**.
+- Reflektiert das Maximum der Sonnenstrahlung
+- Wählen Sie **helle Farben** (Weiß, Perlgrau, Cremebeige) — sie reflektieren wirksamer als dunkle
+- Für Wohnzimmer oder Büro mit Durchsichtswunsch sind 3 % der optimale Kompromiss
 
-**Nord:** 5–10% transparent — kein direktes Sonnenlicht, maximales Tageslicht.
+### Ostausrichtung (Morgensonne)
+Starke Sonne am Morgen (7–11 Uhr), am Nachmittag Schatten.
+
+**Empfehlung:** Gewebe **transparent 5 %** oder **halbblickdicht 3 %**.
+- Die Morgensonne ist thermisch weniger aggressiv als die Nachmittagssonne
+- Die Durchsicht nach außen ist wertvoll, wenn Sie eine Aussicht haben
+
+### Nordausrichtung (keine direkte Sonne)
+Diffuses Licht, ohne direkte Sonneneinstrahlung.
+
+**Empfehlung:** Gewebe **transparent 5–10 %**, oder statt eines Zipscreen ein Innenrollo.
+- Das Hauptproblem sind Wind und Regen, nicht die Wärme
+- Maximale Durchsicht ist von Vorteil
+
+---
+
+## Terrasse gegenüber Fenster — unterschiedliche Szenarien
+
+### Überdachte Terrasse (Pergola, Markise)
+Auf der Terrasse **ersetzt der Zipscreen eine Wand** — Ziel ist ein nutzbarer Außenraum.
+
+**Empfohlene Wahl:**
+- **Nord- oder Ostseite:** 5 % transparent — lässt Licht durch, hält Wind ab
+- **Süd- oder Westseite:** 1–3 % halbblickdicht — Wärmeschutz und Sichtschutz vor Nachbarn
+- **Gemischte Lösung:** 3 % auf Süd und West, 5 % auf den übrigen Seiten — Standard für Terrassen in Ilfov
+
+### Wohn- oder Schlafzimmerfenster
+Am Fenster sind die Hauptziele UV-Schutz, Sichtschutz vor Straße oder Nachbarn und Wärmereduzierung.
+
+**Empfohlene Wahl:**
+- **Wohnzimmer mit Blick auf Park oder Grün:** 5 % transparent — die Aussicht bleibt erhalten
+- **Schlafzimmer an belebter Straße:** 1–3 % oder 0 % blickdicht — vollständiger Sichtschutz
+- **Homeoffice:** 3 % — verringert Blendung am Bildschirm, ohne Licht zu verlieren
+
+---
+
+## Die Farbe des Gewebes — nicht nur eine Frage der Ästhetik
+
+Die Farbe beeinflusst unmittelbar die **thermische Wirksamkeit**:
+
+**Helle Farben** (Weiß, Hellgrau, Beige, Creme):
+- Reflektieren 60–70 % der Sonnenstrahlung
+- Senken die Innentemperatur im Sommer wirksamer
+- **Empfohlen für Süd- und Westausrichtung**
+
+**Dunkle Farben** (Anthrazit, Schwarz, Dunkelbraun):
+- Absorbieren 60–70 % der Strahlung — sie erwärmen sich stärker
+- Bieten von innen nach außen einen besseren Sehkontrast
+- **Empfohlen für Nord- oder Ostausrichtung, wo Wärme kein Problem ist**
+
+**Der Tipp von Neofort BIZ:** Für Terrassen in Bukarest senkt Weiß oder Hellgrau auf der Süd- und Westseite den Lüftungsbedarf um 30–40 % gegenüber Anthrazit.
+
+---
+
+## Vollständiger Blackout (0 %) — wann er die richtige Lösung ist
+
+Vollständige Verdunkelung ist in bestimmten Fällen sinnvoll:
+
+✅ **Ein Schlafzimmer** mit Ost- oder Südausrichtung — Schlaf ohne Morgenlicht
+✅ **Ein Heimkino** oder Gaming-Raum
+✅ **Eine Ruhe-Pergola**, in der Sie vollständigen Sichtschutz vor Nachbarn wünschen
+✅ **Ein Balkon zur Straße** mit starkem Verkehr und gegenüberliegenden Nachbarn
+✅ **Ein Showroom oder Geschäft** mit digitalen Displays, die auf Sonnenlicht empfindlich reagieren
+
+❌ **Nicht empfohlen** für: Wohnzimmer, Küche, Büro und alle Räume, in denen Tageslicht wichtig ist
+
+---
+
+## Preisvergleich nach Gewebeart — 2026
+
+> ⚠️ **Hinweis:** Die Preise sind Richtwerte, Stand März 2026. Fordern Sie ein aktuelles Angebot an.
+
+| Gewebeart | Öffnung | Richtpreis je m² montiert |
+|---|---|---|
+| Standard transparent | 5 % | 160–220 EUR/m² |
+| Halbblickdicht | 3 % | 170–240 EUR/m² |
+| Halbblickdicht Premium | 1 % | 180–260 EUR/m² |
+| Vollständiger Blackout | 0 % | 190–280 EUR/m² |
+
+*Die Preisunterschiede zwischen den Arten sind gering — die Wahl erfolgt nach technischen, nicht nach finanziellen Kriterien.*
 
 ---
 
@@ -23782,71 +23954,157 @@ Fast jeder Kunde, der ein [Zipscreen](/de/beschattungssysteme)-Rollo in Bukarest
 
 | Ihre Situation | Empfohlenes Gewebe |
 |---|---|
-| Süd/West-Terrasse, Sichtschutz gewünscht | 1–3% helle Farbe |
-| Ost-Terrasse, schöne Aussicht | 5% transparent |
-| Schlafzimmer an belebter Straße | 0% Blackout |
-| Wohnzimmer, großes Gartenfenster | 5% transparent |
-| Homeoffice, Computerbildschirm | 3% mittlere Farbe |
+| Terrasse nach Süd oder West, Sichtschutz erwünscht | 1–3 % in heller Farbe |
+| Terrasse nach Ost, schöne Aussicht vorhanden | 5 % transparent |
+| Schlafzimmer an belebter Straße | 0 % blickdicht |
+| Wohnzimmer mit großem Fenster zum Garten | 5 % transparent |
+| Homeoffice, Computerbildschirm | 3 % in mittlerer Farbe |
+| Wohnungsbalkon, Nachbarn gegenüber | 1–3 % oder 0 % |
 
 ---
 
-## Richtpreise nach Gewebetyp — 2026
+## Kostenlose Beratung — Neofort BIZ Bukarest
 
-> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+Unsicher bei der Wahl? Senden Sie uns ein Foto des Fensters oder der Terrasse zusammen mit der Ausrichtung des Hauses, und wir geben Ihnen eine konkrete Empfehlung.
 
-| Gewebetyp | Öffnung | Richtpreis / m² montiert |
-|---|---|---|
-| Standard transparent | 5% | 160–220 EUR/m² |
-| Halblichtdurchlässig | 3% | 170–240 EUR/m² |
-| Blackout | 0% | 190–280 EUR/m² |
-
-**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **Mo–Fr 10–18**
 
 ## Häufig gestellte Fragen
 
-### Zipscreen Blackout oder transparent — was ist besser?
+### Zipscreen blickdicht oder transparent — was ist besser?
 
-Es hängt von drei Faktoren ab: Ausrichtung des Fensters oder der Terrasse, Hauptzweck (Beschattung, Privatsphäre oder Sehkomfort) und städtischer Kontext (Straße, Nachbarn, privater Hof). Transparent behält die Sicht und filtert 90-95% UV; Blackout gibt totale Dunkelheit und 100% UV-Filterung, aber null Sicht.
+Das hängt von drei Faktoren ab: der Ausrichtung des Fensters oder der Terrasse, dem Hauptzweck (Beschattung, Sichtschutz oder visueller Komfort) und dem städtebaulichen Umfeld (Straße, Nachbarn, privater Garten). Transparent erhält die Aussicht und filtert 90–95 % der UV-Strahlung; Blackout bringt völlige Dunkelheit und 100 % UV-Filterung, aber keinerlei Durchsicht.
 
-### Was bedeutet der Öffnungsfaktor eines Screen-Gewebes?
+### Was bedeutet der Öffnungsfaktor bei einem Screen-Gewebe?
 
-Der Öffnungsfaktor ist der Anteil der Lücken im Gewebe im Verhältnis zur Gesamtfläche. Ein niedrigerer Prozentsatz bedeutet dichteres Material, weniger Licht und Sicht. Transparent = 5-10% Öffnung (90-95% UV gefiltert), halbopak = 1-3%, opak/Blackout = 0% (100% UV).
+Der Öffnungsfaktor ist der Anteil der Zwischenräume im Gewebe an der Gesamtfläche. Ein kleinerer Prozentsatz bedeutet dichteres Material, weniger Licht und weniger Durchsicht. Transparent heißt 5–10 % Öffnung (90–95 % UV gefiltert), halbblickdicht 1–3 %, blickdicht 0 % (100 % UV).
 
-### Sieht man tagsüber durch ein transparentes Screen ins Haus?
+### Kann man tagsüber durch ein transparentes Screen-Gewebe hineinsehen?
 
-Nein. Bei Screen-Geweben mit 5-10% Öffnung sieht man tagsüber von außen nicht hinein — es wirkt wie ein Spiegel. Nachts, bei eingeschaltetem Innenlicht, kehrt sich die Situation um und man kann hineinsehen. Es ist ein häufiger Mythos, dass transparentes Gewebe tagsüber Außensicht bietet.
+Nein. Bei Screen-Geweben mit 5–10 % Öffnung sieht man tagsüber von außen nicht hinein — das Gewebe wirkt wie ein Spiegel. Nachts, bei eingeschaltetem Innenlicht, kehrt sich die Lage um und der Innenraum wird sichtbar. Dass transparentes Gewebe tagsüber Einblick gewährt, ist ein verbreiteter Irrtum.
 
-### Welches Zipscreen-Gewebe wähle ich für maximale Privatsphäre?
+### Welches Zipscreen-Gewebe wähle ich für maximalen Sichtschutz?
 
-Für maximale Privatsphäre wählen Sie Blackout (opak, 0% Öffnung) — es gibt totale Dunkelheit, null Sicht in beide Richtungen und 100% UV-Filterung, ideal für Schlafzimmer. Wenn Sie auch die Außensicht behalten möchten, bietet Halbopak (1-3%) einen Kompromiss mit reduzierter Sicht und 97-99% UV gefiltert.
-
----
-
-Neofort BIZ montiert ZipScreen-Systeme mit Blackout- und transparenten Screen-Geweben in Bukarest und Ilfov, passend für jede Öffnung. Entdecken Sie [die Beschattungslösungen](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Vergleichen Sie alle Optionen in [dem vollständigen Vergleich der Außenbeschattungssysteme](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden).`,
-
-      fr: `## La question la plus fréquente : occultant ou transparent ?
-
-Presque tous les clients qui commandent un store [Zipscreen](/fr/systemes-occultation) à Bucarest posent la même question. La bonne réponse dépend de trois facteurs : **l'orientation**, **l'objectif principal** et **le contexte urbain**.
+Für maximalen Sichtschutz wählen Sie Blackout (blickdicht, 0 % Öffnung) — völlige Dunkelheit, keine Durchsicht in beide Richtungen und 100 % UV-Filterung, ideal für Schlafzimmer. Wenn Sie zugleich die Aussicht behalten möchten, bietet halbblickdicht (1–3 %) einen Kompromiss mit verringerter Durchsicht und 97–99 % gefilterter UV-Strahlung.
 
 ---
 
-## Facteur d'ouverture — ce que signifient 1%, 3%, 5%, 10%
+Neofort BIZ montiert ZipScreen-Systeme mit blickdichten und transparenten Screen-Geweben in Bukarest und Ilfov, passend zu jeder Öffnung. Entdecken Sie [die Beschattungslösungen](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Vergleichen Sie alle Optionen in [dem vollständigen Ratgeber zu außenliegender Beschattung](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden).`,
 
-| Type de toile | Ouverture | Filtration UV | Visibilité de l'intérieur | Visibilité de l'extérieur (jour) |
+      fr: `## La question qu’on nous pose le plus souvent : occultant ou transparent ?
+
+Presque chaque client qui commande un store [Zipscreen](/fr/systemes-occultation) à Bucarest pose la même question : **« Qu’est-ce qui vaut mieux — occultant ou transparent ? »**
+
+La bonne réponse dépend de trois facteurs : **l’orientation de la fenêtre ou de la terrasse**, **l’objectif principal** (occultation, intimité ou confort visuel) et **le contexte urbain** (rue, voisins, jardin privé).
+
+Ce guide explique précisément ce que signifie chaque option et comment choisir juste dès la première fois.
+
+---
+
+## Comprendre le « facteur d’ouverture » — ce que veulent dire 1 %, 3 %, 5 % et 10 %
+
+**Le facteur d’ouverture** représente la proportion de vides dans la toile [screen](/fr/accessoires) par rapport à la surface totale. Un pourcentage plus faible signifie un matériau plus dense, moins de lumière et moins de visibilité.
+
+| Type de toile | Ouverture | Filtration UV | Visibilité de l’intérieur | Visibilité de l’extérieur (jour) |
 |---|---|---|---|---|
-| Transparente | 5–10% | 90–95% | Excellente | Réduite (effet miroir) |
-| Semi-opaque | 1–3% | 97–99% | Bonne à réduite | Très réduite |
-| Occultante | 0% | 100% | Nulle | Nulle |
+| Transparente | 5–10 % | 90–95 % | Excellente | Faible (effet miroir) |
+| Semi-occultante | 1–3 % | 97–99 % | Bonne à faible | Très faible |
+| Occultante (blackout) | 0 % | 100 % | Nulle | Nulle |
+
+**Attention à une idée reçue :** avec des toiles screen de 5 à 10 % d’ouverture, on ne voit pas à l’intérieur depuis l’extérieur en journée — la toile agit comme un miroir. La nuit, lumière intérieure allumée, la situation s’inverse.
 
 ---
 
-## Règle d'orientation
+## L’orientation de la maison — la règle d’or pour choisir la toile
 
-**Sud/Ouest :** 1–3% semi-opaque ou 0% occultant, couleurs claires — réfléchit jusqu'à 70% du rayonnement.
+### Exposition sud ou ouest (les plus chaudes)
+Les façades sud et ouest reçoivent le plus de soleil direct — en été, la température intérieure peut monter de 8 à 15 °C sans protection.
 
-**Est :** 5% [transparent](/fr/accessoires) — soleil matinal moins agressif thermiquement.
+**Recommandation :** toile **semi-occultante 1–3 %** ou **occultante 0 %**.
+- Réfléchit au maximum le rayonnement solaire
+- Choisissez des **teintes claires** (blanc, gris perle, beige crème) — elles réfléchissent plus efficacement que les teintes foncées
+- Pour un séjour ou un bureau où vous voulez de la visibilité, 3 % est le compromis optimal
 
-**Nord :** 5–10% transparent — pas d'ensoleillement direct, maximiser la lumière naturelle.
+### Exposition est (soleil du matin)
+Soleil fort le matin (7 h–11 h), ombre l’après-midi.
+
+**Recommandation :** toile **transparente 5 %** ou **semi-occultante 3 %**.
+- Le soleil du matin est thermiquement moins agressif que celui de l’après-midi
+- La visibilité vers l’extérieur est précieuse si vous avez une vue
+
+### Exposition nord (pas de soleil direct)
+Lumière diffuse, sans incidence solaire directe.
+
+**Recommandation :** toile **transparente 5–10 %**, voire un store intérieur plutôt qu’un Zipscreen.
+- Le problème principal est le vent et la pluie, pas la chaleur
+- Une visibilité maximale est un avantage
+
+---
+
+## Terrasse ou fenêtre — des scénarios différents
+
+### Terrasse couverte (pergola, store banne)
+Sur une terrasse, le Zipscreen **remplace un mur** — l’objectif est de créer une pièce extérieure utilisable.
+
+**Choix recommandé :**
+- **Côté nord ou est :** 5 % transparent — laisse passer la lumière, coupe le vent
+- **Côté sud ou ouest :** 1–3 % semi-occultant — protection thermique et intimité vis-à-vis des voisins
+- **Solution mixte :** 3 % au sud et à l’ouest, 5 % sur les autres côtés — le standard des terrasses de l’Ilfov
+
+### Fenêtre de séjour ou de chambre
+Sur une fenêtre, les objectifs principaux sont la protection UV, l’intimité par rapport à la rue ou aux voisins, et la réduction de la chaleur.
+
+**Choix recommandé :**
+- **Séjour avec vue sur un parc ou de la verdure :** 5 % transparent — vous gardez la vue
+- **Chambre sur rue passante :** 1–3 % ou 0 % occultant — intimité complète
+- **Bureau à domicile :** 3 % — réduit les reflets sur l’écran sans perdre la lumière
+
+---
+
+## La couleur de la toile — pas seulement une question d’esthétique
+
+La couleur influence directement l’**efficacité thermique** :
+
+**Teintes claires** (blanc, gris clair, beige, crème) :
+- Réfléchissent 60 à 70 % du rayonnement solaire
+- Abaissent plus efficacement la température intérieure en été
+- **Recommandées pour une exposition sud ou ouest**
+
+**Teintes foncées** (anthracite, noir, brun foncé) :
+- Absorbent 60 à 70 % du rayonnement — elles chauffent davantage
+- Offrent un meilleur contraste visuel de l’intérieur vers l’extérieur
+- **Recommandées pour une exposition nord ou est, où la chaleur n’est pas le sujet**
+
+**Le conseil Neofort BIZ :** pour les terrasses de Bucarest, le blanc ou le gris clair au sud et à l’ouest réduit le besoin de ventilation de 30 à 40 % par rapport à l’anthracite.
+
+---
+
+## Occultation totale (0 %) — quand c’est la bonne solution
+
+L’occultation totale a du sens dans des cas précis :
+
+✅ **Une chambre** exposée est ou sud — dormir sans lumière le matin
+✅ **Une salle de cinéma** ou un espace gaming
+✅ **Une pergola de détente** où vous voulez une intimité totale vis-à-vis des voisins
+✅ **Un balcon sur rue** à trafic dense avec des voisins en vis-à-vis
+✅ **Un showroom ou un magasin** avec des écrans sensibles à la lumière du jour
+
+❌ **Déconseillée** pour : séjour, cuisine, bureau, et tout espace où la lumière naturelle compte
+
+---
+
+## Prix comparés par type de toile — 2026
+
+> ⚠️ **Note :** les prix sont indicatifs, valables en mars 2026. Demandez un devis actualisé.
+
+| Type de toile | Ouverture | Prix indicatif au m² posé |
+|---|---|---|
+| Transparente standard | 5 % | 160–220 EUR/m² |
+| Semi-occultante | 3 % | 170–240 EUR/m² |
+| Semi-occultante premium | 1 % | 180–260 EUR/m² |
+| Occultation totale | 0 % | 190–280 EUR/m² |
+
+*Les écarts de prix entre les types sont faibles — le choix se fait sur des critères techniques, pas financiers.*
 
 ---
 
@@ -23854,191 +24112,358 @@ Presque tous les clients qui commandent un store [Zipscreen](/fr/systemes-occult
 
 | Votre situation | Toile recommandée |
 |---|---|
-| Terrasse sud/ouest, intimité souhaitée | 1–3% couleur claire |
-| Terrasse est, belle vue | 5% transparent |
-| Chambre sur rue animée | 0% occultant |
-| Salon, grande baie vitrée jardin | 5% transparent |
-| Bureau à domicile, écran d'ordinateur | 3% couleur moyenne |
+| Terrasse sud ou ouest, intimité souhaitée | 1–3 % en teinte claire |
+| Terrasse est, belle vue à préserver | 5 % transparent |
+| Chambre sur rue passante | 0 % occultant |
+| Séjour avec grande baie sur le jardin | 5 % transparent |
+| Bureau à domicile, écran d’ordinateur | 3 % en teinte moyenne |
+| Balcon d’immeuble, voisins en vis-à-vis | 1–3 % ou 0 % |
 
 ---
 
-## Prix indicatifs par type de toile — 2026
+## Conseil gratuit — Neofort BIZ Bucarest
 
-> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+Vous hésitez ? Envoyez-nous une photo de la fenêtre ou de la terrasse avec l’orientation de la maison, et nous vous donnerons une recommandation précise.
 
-| Type de toile | Ouverture | Prix indicatif / m² posé |
-|---|---|---|
-| Transparente standard | 5% | 160–220 EUR/m² |
-| Semi-opaque | 3% | 170–240 EUR/m² |
-| Occultante | 0% | 190–280 EUR/m² |
-
-**WhatsApp :** +40 752 443 435 | **L–V 10–18**
+**WhatsApp :** +40 752 443 435 | **oferte@neofort-biz.ro** | **Lun–Ven 10–18**
 
 ## Questions fréquentes
 
-### Zipscreen blackout ou transparent — lequel est meilleur ?
+### Zipscreen occultant ou transparent — lequel est le meilleur ?
 
-Cela dépend de trois facteurs : l'orientation de la fenêtre ou terrasse, l'objectif principal (occultation, intimité ou confort visuel) et le contexte urbain (rue, voisins, cour privée). Le transparent garde la vue et filtre 90-95% des UV ; le blackout donne l'obscurité totale et 100% de filtration UV, mais zéro visibilité.
+Cela dépend de trois facteurs : l’orientation de la fenêtre ou de la terrasse, l’objectif principal (occultation, intimité ou confort visuel) et le contexte urbain (rue, voisins, jardin privé). Le transparent préserve la vue et filtre 90 à 95 % des UV ; l’occultant donne l’obscurité totale et 100 % de filtration UV, mais aucune visibilité.
 
-### Que signifie le facteur d'ouverture d'une toile screen ?
+### Que signifie le facteur d’ouverture d’une toile screen ?
 
-Le facteur d'ouverture est la proportion de vides dans la toile par rapport à la surface totale. Un pourcentage plus faible signifie un matériau plus dense, moins de lumière et de visibilité. Transparent = 5-10% d'ouverture (90-95% UV filtré), semi-opaque = 1-3%, opaque/blackout = 0% (100% UV).
+Le facteur d’ouverture est la proportion de vides dans la toile par rapport à la surface totale. Un pourcentage plus faible signifie un matériau plus dense, moins de lumière et moins de visibilité. Transparent correspond à 5–10 % d’ouverture (90–95 % d’UV filtrés), semi-occultant à 1–3 %, occultant à 0 % (100 % d’UV).
 
-### Voit-on dans la maison à travers un screen transparent en journée ?
+### Voit-on à l’intérieur à travers une toile transparente en journée ?
 
-Non. Avec les toiles screen de 5-10% d'ouverture, on ne voit pas à l'intérieur depuis l'extérieur en journée — cela agit comme un miroir. La nuit, avec la lumière intérieure allumée, la situation s'inverse et on peut voir à l'intérieur. C'est un mythe fréquent que le transparent offre une visibilité extérieure en journée.
+Non. Avec des toiles screen de 5 à 10 % d’ouverture, on ne voit pas à l’intérieur depuis l’extérieur en journée — la toile agit comme un miroir. La nuit, lumière intérieure allumée, la situation s’inverse et l’intérieur devient visible. C’est une idée reçue courante que le transparent laisse voir de l’extérieur en journée.
 
 ### Quelle toile Zipscreen choisir pour une intimité maximale ?
 
-Pour une intimité maximale, choisissez le blackout (opaque, 0% d'ouverture) — il donne l'obscurité totale, zéro visibilité dans les deux sens et 100% de filtration UV, idéal pour les chambres. Si vous voulez aussi garder la vue extérieure, le semi-opaque (1-3%) offre un compromis avec visibilité réduite et 97-99% UV filtré.
+Pour une intimité maximale, choisissez l’occultant (0 % d’ouverture) — obscurité totale, aucune visibilité dans les deux sens et 100 % de filtration UV, idéal pour les chambres. Si vous voulez aussi conserver la vue, le semi-occultant (1–3 %) offre un compromis avec une visibilité réduite et 97 à 99 % d’UV filtrés.
 
 ---
 
-Neofort BIZ pose des systèmes ZipScreen avec toiles occultantes et screen transparent à Bucarest et Ilfov, dimensionnés pour chaque ouverture. Découvrez [les solutions d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Comparez toutes les options dans [la comparaison complète des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet).`,
+Neofort BIZ pose des systèmes ZipScreen avec toiles occultantes et screen transparentes à Bucarest et dans l’Ilfov, dimensionnées pour chaque ouverture. Découvrez [les solutions d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Comparez toutes les options dans [le guide complet des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet).`,
 
-      es: `## La pregunta más frecuente: ¿blackout o transparente?
+      es: `## La pregunta que más nos hacen: ¿opaco o transparente?
 
-Casi todos los clientes que piden una persiana [Zipscreen](/es/sistemas-sombreado) en Bucarest hacen la misma pregunta. La respuesta correcta depende de tres factores: **orientación**, **objetivo principal** y **contexto urbano**.
+Casi todos los clientes que piden una persiana [Zipscreen](/es/sistemas-sombreado) en Bucarest hacen la misma pregunta: **«¿Qué es mejor, opaco o transparente?»**
+
+La respuesta correcta depende de tres factores: **la orientación de la ventana o la terraza**, **el objetivo principal** (sombreado, intimidad o confort visual) y **el contexto urbano** (calle, vecinos, jardín privado).
+
+Esta guía explica exactamente qué significa cada opción y cómo acertar a la primera.
 
 ---
 
-## Factor de apertura — qué significan 1%, 3%, 5%, 10%
+## Entender el «factor de apertura» — qué significan 1 %, 3 %, 5 % y 10 %
 
-| Tipo de tejido | Apertura | Filtración UV | Visibilidad desde dentro | Visibilidad desde fuera (día) |
+**El factor de apertura** representa la proporción de huecos del tejido [screen](/es/accesorios) respecto a la superficie total. Un porcentaje menor significa un material más denso, menos luz y menos visibilidad.
+
+| Tipo de tejido | Apertura | Filtrado UV | Visibilidad desde dentro | Visibilidad desde fuera (día) |
 |---|---|---|---|---|
-| Transparente | 5–10% | 90–95% | Excelente | Reducida (efecto espejo) |
-| Semiopaco | 1–3% | 97–99% | Buena a reducida | Muy reducida |
-| Blackout | 0% | 100% | Nula | Nula |
+| Transparente | 5–10 % | 90–95 % | Excelente | Baja (efecto espejo) |
+| Semiopaco | 1–3 % | 97–99 % | De buena a baja | Muy baja |
+| Opaco (blackout) | 0 % | 100 % | Nula | Nula |
+
+**Ojo con un mito habitual:** con tejidos screen de 5–10 % de apertura, desde fuera y de día no se ve el interior — funciona como un espejo. De noche, con la luz interior encendida, la situación se invierte.
 
 ---
 
-## Regla de orientación
+## La orientación de la casa — la regla de oro para elegir el tejido
 
-**Sur/Oeste:** 1–3% semiopaco o 0% blackout, colores claros — refleja hasta el 70% de la radiación.
+### Orientación sur u oeste (las más cálidas)
+Las fachadas sur y oeste reciben más sol directo — en verano, la temperatura interior puede subir entre 8 y 15 °C sin protección.
 
-**Este:** 5% [transparente](/es/accesorios) — sol matutino menos agresivo térmicamente.
+**Recomendación:** tejido **semiopaco 1–3 %** u **opaco 0 %**.
+- Refleja al máximo la radiación solar
+- Elija **colores claros** (blanco, gris perla, beis crema) — reflejan con más eficacia que los oscuros
+- Para un salón u oficina donde quiera visibilidad, el 3 % es el compromiso óptimo
 
-**Norte:** 5–10% transparente — sin incidencia solar directa, maximizar luz natural.
+### Orientación este (sol de mañana)
+Sol fuerte por la mañana (7–11), sombra por la tarde.
+
+**Recomendación:** tejido **transparente 5 %** o **semiopaco 3 %**.
+- El sol de la mañana es térmicamente menos agresivo que el de la tarde
+- La visibilidad hacia fuera es valiosa si tiene vistas
+
+### Orientación norte (sin sol directo)
+Luz difusa, sin incidencia solar directa.
+
+**Recomendación:** tejido **transparente 5–10 %**, o incluso un estor interior en lugar de un Zipscreen.
+- El problema principal es el viento y la lluvia, no el calor
+- La visibilidad máxima resulta ventajosa
+
+---
+
+## Terraza frente a ventana — escenarios distintos
+
+### Terraza cubierta (pérgola, toldo)
+En una terraza, el Zipscreen **sustituye a un muro** — el objetivo es crear una habitación exterior utilizable.
+
+**Elección recomendada:**
+- **Lado norte o este:** 5 % transparente — deja pasar la luz, corta el viento
+- **Lado sur u oeste:** 1–3 % semiopaco — protección térmica e intimidad frente a los vecinos
+- **Solución mixta:** 3 % en sur y oeste, 5 % en los demás lados — el estándar de las terrazas de Ilfov
+
+### Ventana de salón o dormitorio
+En una ventana, los objetivos principales son la protección UV, la intimidad frente a la calle o los vecinos, y la reducción del calor.
+
+**Elección recomendada:**
+- **Salón con vistas a un parque o zona verde:** 5 % transparente — conserva las vistas
+- **Dormitorio en calle transitada:** 1–3 % o 0 % opaco — intimidad completa
+- **Despacho en casa:** 3 % — reduce el reflejo en la pantalla sin perder luz
+
+---
+
+## El color del tejido — no es solo estética
+
+El color influye directamente en la **eficiencia térmica**:
+
+**Colores claros** (blanco, gris claro, beis, crema):
+- Reflejan el 60–70 % de la radiación solar
+- Bajan con más eficacia la temperatura interior en verano
+- **Recomendados para orientación sur u oeste**
+
+**Colores oscuros** (antracita, negro, marrón oscuro):
+- Absorben el 60–70 % de la radiación — se calientan más
+- Ofrecen mejor contraste visual desde dentro hacia fuera
+- **Recomendados para orientación norte o este, donde el calor no es el problema**
+
+**El consejo de Neofort BIZ:** en las terrazas de Bucarest, el blanco o el gris claro en sur y oeste reduce la necesidad de ventilación entre un 30 y un 40 % frente al antracita.
+
+---
+
+## Opacidad total (0 %) — cuándo es la solución correcta
+
+La opacidad total tiene sentido en situaciones concretas:
+
+✅ **Un dormitorio** con orientación este o sur — dormir sin luz por la mañana
+✅ **Una sala de cine** o espacio de juego
+✅ **Una pérgola de descanso** donde quiera intimidad total frente a los vecinos
+✅ **Un balcón a la calle** con tráfico intenso y vecinos enfrente
+✅ **Un showroom o tienda** con pantallas digitales sensibles a la luz solar
+
+❌ **No recomendada** para: salón, cocina, oficina, y cualquier espacio donde la luz natural importe
+
+---
+
+## Precios comparados por tipo de tejido — 2026
+
+> ⚠️ **Nota:** los precios son orientativos, válidos a marzo de 2026. Solicite un presupuesto actualizado.
+
+| Tipo de tejido | Apertura | Precio orientativo por m² instalado |
+|---|---|---|
+| Transparente estándar | 5 % | 160–220 EUR/m² |
+| Semiopaco | 3 % | 170–240 EUR/m² |
+| Semiopaco premium | 1 % | 180–260 EUR/m² |
+| Opacidad total | 0 % | 190–280 EUR/m² |
+
+*Las diferencias de precio entre tipos son pequeñas — la elección se hace por criterios técnicos, no económicos.*
 
 ---
 
 ## Tabla de decisión rápida
 
-| Tu situación | Tejido recomendado |
+| Su situación | Tejido recomendado |
 |---|---|
-| Terraza sur/oeste, quiero privacidad | 1–3% color claro |
-| Terraza este, vista bonita | 5% transparente |
-| Dormitorio calle transitada | 0% blackout |
-| Salón, gran ventanal al jardín | 5% transparente |
-| Oficina en casa, pantalla ordenador | 3% color medio |
+| Terraza sur u oeste, quiere también intimidad | 1–3 % en color claro |
+| Terraza este, tiene buenas vistas | 5 % transparente |
+| Dormitorio en calle transitada | 0 % opaco |
+| Salón con ventanal al jardín | 5 % transparente |
+| Despacho en casa, pantalla de ordenador | 3 % en color medio |
+| Balcón de piso, vecinos enfrente | 1–3 % o 0 % |
 
 ---
 
-## Precios orientativos por tipo de tejido — 2026
+## Asesoramiento gratuito — Neofort BIZ Bucarest
 
-> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+¿No lo tiene claro? Envíenos una foto de la ventana o la terraza junto con la orientación de la casa y le daremos una recomendación concreta.
 
-| Tipo de tejido | Apertura | Precio orientativo / m² instalado |
-|---|---|---|
-| Transparente estándar | 5% | 160–220 EUR/m² |
-| Semiopaco | 3% | 170–240 EUR/m² |
-| Blackout | 0% | 190–280 EUR/m² |
-
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**
 
 ## Preguntas frecuentes
 
-### Zipscreen blackout o transparente — ¿cuál es mejor?
+### Zipscreen opaco o transparente, ¿cuál es mejor?
 
-Depende de tres factores: la orientación de la ventana o terraza, el objetivo principal (sombreado, intimidad o confort visual) y el contexto urbano (calle, vecinos, patio privado). El transparente mantiene la vista y filtra el 90-95% de UV; el blackout da oscuridad total y 100% de filtración UV, pero cero visibilidad.
+Depende de tres factores: la orientación de la ventana o la terraza, el objetivo principal (sombreado, intimidad o confort visual) y el contexto urbano (calle, vecinos, jardín privado). El transparente conserva las vistas y filtra el 90–95 % de los UV; el opaco da oscuridad total y 100 % de filtrado UV, pero ninguna visibilidad.
 
 ### ¿Qué significa el factor de apertura de un tejido screen?
 
-El factor de apertura es la proporción de huecos en el tejido respecto a la superficie total. Un porcentaje menor significa material más denso, menos luz y visibilidad. Transparente = 5-10% de apertura (90-95% UV filtrado), semiopaco = 1-3%, opaco/blackout = 0% (100% UV).
+El factor de apertura es la proporción de huecos del tejido respecto a la superficie total. Un porcentaje menor significa material más denso, menos luz y menos visibilidad. Transparente equivale a 5–10 % de apertura (90–95 % de UV filtrados), semiopaco a 1–3 %, opaco a 0 % (100 % de UV).
 
-### ¿Se ve dentro de la casa a través de un screen transparente de día?
+### ¿Se ve el interior a través de un screen transparente durante el día?
 
-No. Con los tejidos screen de 5-10% de apertura, desde el exterior de día no se ve dentro — funciona como un espejo. De noche, con luz interior encendida, la situación se invierte y se puede ver dentro. Es un mito frecuente que el transparente ofrece visibilidad desde el exterior de día.
+No. Con tejidos screen de 5–10 % de apertura, desde fuera y de día no se ve el interior — el tejido funciona como un espejo. De noche, con la luz interior encendida, la situación se invierte y el interior queda a la vista. Es un mito habitual que el transparente permita ver desde fuera durante el día.
 
 ### ¿Qué tejido Zipscreen elijo para máxima intimidad?
 
-Para máxima intimidad elige blackout (opaco, 0% de apertura) — da oscuridad total, cero visibilidad en ambos sentidos y 100% de filtración UV, ideal para dormitorios. Si también quieres conservar la vista al exterior, el semiopaco (1-3%) ofrece un compromiso con visibilidad reducida y 97-99% UV filtrado.
+Para máxima intimidad elija el opaco (0 % de apertura) — oscuridad total, ninguna visibilidad en ambos sentidos y 100 % de filtrado UV, ideal para dormitorios. Si además quiere conservar las vistas, el semiopaco (1–3 %) ofrece un compromiso con visibilidad reducida y un 97–99 % de UV filtrados.
 
 ---
 
-Neofort BIZ instala sistemas ZipScreen con tejidos blackout y screen transparente en Bucarest e Ilfov, dimensionados para cada hueco. Descubre [las soluciones de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Compara todas las opciones en [la comparación completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa).`,
+Neofort BIZ instala sistemas ZipScreen con tejidos opacos y screen transparentes en Bucarest e Ilfov, dimensionados para cada hueco. Descubra [las soluciones de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicite un presupuesto](/es/contacto). Compare todas las opciones en [la guía completa de sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa).`,
 
-      it: `## La domanda più frequente: oscurante o trasparente?
+      it: `## La domanda che ci fanno più spesso: oscurante o trasparente?
 
-Quasi tutti i clienti che ordinano una tenda [Zipscreen](/it/sistemi-oscuramento) a Bucarest fanno la stessa domanda. La risposta giusta dipende da tre fattori: **orientamento**, **scopo principale** e **contesto urbano**.
+Quasi ogni cliente che ordina una tenda [Zipscreen](/it/sistemi-oscuramento) a Bucarest pone la stessa domanda: **«Che cosa è meglio, oscurante o trasparente?»**
+
+La risposta giusta dipende da tre fattori: **l’orientamento della finestra o della terrazza**, **lo scopo principale** (oscuramento, privacy o comfort visivo) e **il contesto urbano** (strada, vicini, giardino privato).
+
+Questa guida spiega esattamente che cosa significa ciascuna opzione e come scegliere bene già la prima volta.
 
 ---
 
-## Fattore di apertura — cosa significano 1%, 3%, 5%, 10%
+## Capire il «fattore di apertura» — che cosa significano 1 %, 3 %, 5 % e 10 %
 
-| Tipo di tessuto | Apertura | Filtrazione UV | Visibilità dall'interno | Visibilità dall'esterno (giorno) |
+**Il fattore di apertura** indica la proporzione dei vuoti nel tessuto [screen](/it/accessori) rispetto alla superficie totale. Una percentuale minore significa materiale più denso, meno luce e meno visibilità.
+
+| Tipo di tessuto | Apertura | Filtrazione UV | Visibilità dall’interno | Visibilità dall’esterno (giorno) |
 |---|---|---|---|---|
-| Trasparente | 5–10% | 90–95% | Eccellente | Ridotta (effetto specchio) |
-| Semi-opaco | 1–3% | 97–99% | Buona a ridotta | Molto ridotta |
-| Oscurante | 0% | 100% | Nulla | Nulla |
+| Trasparente | 5–10 % | 90–95 % | Ottima | Bassa (effetto specchio) |
+| Semioscurante | 1–3 % | 97–99 % | Da buona a bassa | Molto bassa |
+| Oscurante (blackout) | 0 % | 100 % | Nulla | Nulla |
+
+**Attenzione a un mito diffuso:** con tessuti screen dal 5 al 10 % di apertura, di giorno dall’esterno non si vede dentro — il tessuto funziona come uno specchio. Di notte, con la luce interna accesa, la situazione si inverte.
 
 ---
 
-## Regola dell'orientamento
+## L’orientamento della casa — la regola d’oro per scegliere il tessuto
 
-**Sud/Ovest:** 1–3% semi-opaco o 0% oscurante, colori chiari — riflette fino al 70% della radiazione.
+### Esposizione sud o ovest (le più calde)
+Le facciate a sud e a ovest ricevono più sole diretto — d’estate la temperatura interna può salire di 8–15 °C senza protezione.
 
-**Est:** 5% [trasparente](/it/accessori) — sole mattutino meno aggressivo termicamente.
+**Consiglio:** tessuto **semioscurante 1–3 %** oppure **oscurante 0 %**.
+- Riflette al massimo la radiazione solare
+- Scegliete **colori chiari** (bianco, grigio perla, beige crema) — riflettono più efficacemente di quelli scuri
+- Per un soggiorno o un ufficio in cui volete visibilità, il 3 % è il compromesso ottimale
 
-**Nord:** 5–10% trasparente — nessuna incidenza solare diretta, massimizzare la luce naturale.
+### Esposizione est (sole del mattino)
+Sole forte al mattino (7–11), ombra nel pomeriggio.
+
+**Consiglio:** tessuto **trasparente 5 %** oppure **semioscurante 3 %**.
+- Il sole del mattino è termicamente meno aggressivo di quello pomeridiano
+- La visibilità verso l’esterno è preziosa se avete una vista
+
+### Esposizione nord (senza sole diretto)
+Luce diffusa, senza incidenza solare diretta.
+
+**Consiglio:** tessuto **trasparente 5–10 %**, oppure una tenda interna al posto dello Zipscreen.
+- Il problema principale sono vento e pioggia, non il calore
+- La massima visibilità è un vantaggio
 
 ---
 
-## Tabella decisionale rapida
+## Terrazza o finestra — scenari diversi
 
-| La tua situazione | Tessuto consigliato |
-|---|---|
-| Terrazza sud/ovest, vuoi privacy | 1–3% colore chiaro |
-| Terrazza est, bella vista | 5% trasparente |
-| Camera da letto su strada trafficata | 0% oscurante |
-| Soggiorno, grande vetrata sul giardino | 5% trasparente |
-| Ufficio in casa, schermo computer | 3% colore medio |
+### Terrazza coperta (pergola, tenda da sole)
+In terrazza lo Zipscreen **sostituisce una parete** — l’obiettivo è creare una stanza esterna utilizzabile.
+
+**Scelta consigliata:**
+- **Lato nord o est:** 5 % trasparente — lascia passare la luce, ferma il vento
+- **Lato sud o ovest:** 1–3 % semioscurante — protezione termica e privacy dai vicini
+- **Soluzione mista:** 3 % a sud e a ovest, 5 % sugli altri lati — lo standard per le terrazze dell’Ilfov
+
+### Finestra del soggiorno o della camera
+Sulla finestra gli obiettivi principali sono la protezione UV, la privacy dalla strada o dai vicini e la riduzione del calore.
+
+**Scelta consigliata:**
+- **Soggiorno con vista su un parco o sul verde:** 5 % trasparente — mantenete la vista
+- **Camera su strada trafficata:** 1–3 % o 0 % oscurante — privacy completa
+- **Studio in casa:** 3 % — riduce i riflessi sullo schermo senza perdere luce
 
 ---
 
-## Prezzi indicativi per tipo di tessuto — 2026
+## Il colore del tessuto — non è solo estetica
 
-> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+Il colore incide direttamente sull’**efficienza termica**:
 
-| Tipo di tessuto | Apertura | Prezzo indicativo / m² installato |
+**Colori chiari** (bianco, grigio chiaro, beige, crema):
+- Riflettono il 60–70 % della radiazione solare
+- Abbassano più efficacemente la temperatura interna d’estate
+- **Consigliati per esposizione a sud o a ovest**
+
+**Colori scuri** (antracite, nero, marrone scuro):
+- Assorbono il 60–70 % della radiazione — si scaldano di più
+- Offrono un contrasto visivo migliore dall’interno verso l’esterno
+- **Consigliati per esposizione a nord o a est, dove il calore non è un problema**
+
+**Il consiglio di Neofort BIZ:** per le terrazze di Bucarest, il bianco o il grigio chiaro a sud e a ovest riduce il bisogno di ventilazione del 30–40 % rispetto all’antracite.
+
+---
+
+## Oscuramento totale (0 %) — quando è la scelta giusta
+
+L’oscuramento totale ha senso in situazioni precise:
+
+✅ **Una camera da letto** esposta a est o a sud — dormire senza luce al mattino
+✅ **Una sala cinema** o uno spazio gaming
+✅ **Una pergola relax** in cui volete privacy totale dai vicini
+✅ **Un balcone sulla strada** con traffico intenso e vicini di fronte
+✅ **Uno showroom o un negozio** con display digitali sensibili alla luce solare
+
+❌ **Sconsigliato** per: soggiorno, cucina, ufficio e ogni ambiente in cui la luce naturale conta
+
+---
+
+## Prezzi a confronto per tipo di tessuto — 2026
+
+> ⚠️ **Nota:** i prezzi sono indicativi, validi a marzo 2026. Richiedete un preventivo aggiornato.
+
+| Tipo di tessuto | Apertura | Prezzo indicativo al m² posato |
 |---|---|---|
-| Trasparente standard | 5% | 160–220 EUR/m² |
-| Semi-opaco | 3% | 170–240 EUR/m² |
-| Oscurante | 0% | 190–280 EUR/m² |
+| Trasparente standard | 5 % | 160–220 EUR/m² |
+| Semioscurante | 3 % | 170–240 EUR/m² |
+| Semioscurante premium | 1 % | 180–260 EUR/m² |
+| Oscuramento totale | 0 % | 190–280 EUR/m² |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+*Le differenze di prezzo tra i tipi sono contenute — la scelta si fa su criteri tecnici, non economici.*
+
+---
+
+## Tabella di decisione rapida
+
+| La vostra situazione | Tessuto consigliato |
+|---|---|
+| Terrazza a sud o a ovest, volete anche privacy | 1–3 % in colore chiaro |
+| Terrazza a est, avete una bella vista | 5 % trasparente |
+| Camera su strada trafficata | 0 % oscurante |
+| Soggiorno con grande vetrata sul giardino | 5 % trasparente |
+| Studio in casa, schermo del computer | 3 % in colore medio |
+| Balcone di condominio, vicini di fronte | 1–3 % o 0 % |
+
+---
+
+## Consulenza gratuita — Neofort BIZ Bucarest
+
+Non sapete che cosa scegliere? Inviateci una foto della finestra o della terrazza insieme all’orientamento della casa e vi daremo un consiglio specifico.
+
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
-### Zipscreen blackout o trasparente — quale è meglio?
+### Zipscreen oscurante o trasparente, quale è meglio?
 
-Dipende da tre fattori: l'orientamento della finestra o terrazza, lo scopo principale (schermatura, privacy o comfort visivo) e il contesto urbano (strada, vicini, cortile privato). Il trasparente mantiene la vista e filtra il 90-95% degli UV; il blackout dà buio totale e 100% di filtrazione UV, ma zero visibilità.
+Dipende da tre fattori: l’orientamento della finestra o della terrazza, lo scopo principale (oscuramento, privacy o comfort visivo) e il contesto urbano (strada, vicini, giardino privato). Il trasparente conserva la vista e filtra il 90–95 % degli UV; l’oscurante dà buio totale e il 100 % di filtrazione UV, ma nessuna visibilità.
 
-### Cosa significa il fattore di apertura di un tessuto screen?
+### Che cosa significa il fattore di apertura di un tessuto screen?
 
-Il fattore di apertura è la proporzione di vuoti nel tessuto rispetto alla superficie totale. Una percentuale minore significa materiale più denso, meno luce e visibilità. Trasparente = 5-10% di apertura (90-95% UV filtrato), semiopaco = 1-3%, opaco/blackout = 0% (100% UV).
+Il fattore di apertura è la proporzione dei vuoti nel tessuto rispetto alla superficie totale. Una percentuale minore significa materiale più denso, meno luce e meno visibilità. Trasparente corrisponde al 5–10 % di apertura (90–95 % di UV filtrati), semioscurante all’1–3 %, oscurante allo 0 % (100 % di UV).
 
-### Si vede in casa attraverso uno screen trasparente di giorno?
+### Di giorno si vede dentro attraverso uno screen trasparente?
 
-No. Con i tessuti screen dal 5-10% di apertura, dall'esterno di giorno non si vede dentro — funziona come uno specchio. Di notte, con la luce interna accesa, la situazione si inverte e si può vedere dentro. È un mito frequente che il trasparente offra visibilità dall'esterno di giorno.
+No. Con tessuti screen dal 5 al 10 % di apertura, di giorno dall’esterno non si vede dentro — il tessuto funziona come uno specchio. Di notte, con la luce interna accesa, la situazione si inverte e l’interno diventa visibile. È un mito diffuso che il trasparente consenta di vedere dall’esterno di giorno.
 
 ### Quale tessuto Zipscreen scelgo per la massima privacy?
 
-Per la massima privacy scegli il blackout (opaco, 0% di apertura) — dà buio totale, zero visibilità in entrambi i sensi e 100% di filtrazione UV, ideale per le camere da letto. Se vuoi anche mantenere la vista verso l'esterno, il semiopaco (1-3%) offre un compromesso con visibilità ridotta e 97-99% UV filtrato.
+Per la massima privacy scegliete l’oscurante (0 % di apertura) — buio totale, nessuna visibilità in entrambe le direzioni e 100 % di filtrazione UV, ideale per le camere. Se volete anche mantenere la vista, il semioscurante (1–3 %) offre un compromesso con visibilità ridotta e il 97–99 % di UV filtrati.
 
 ---
 
-Neofort BIZ installa sistemi ZipScreen con tessuti oscuranti e screen trasparente a Bucarest e Ilfov, dimensionati per ogni apertura. Scopri [le soluzioni di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Confronta tutte le opzioni in [il confronto completo dei sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).`,
+Neofort BIZ installa sistemi ZipScreen con tessuti oscuranti e screen trasparenti a Bucarest e nell’Ilfov, dimensionati su ogni apertura. Scoprite [le soluzioni di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedete un preventivo](/it/contatti). Confrontate tutte le opzioni in [la guida completa ai sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa).`,
     },
   },
 
