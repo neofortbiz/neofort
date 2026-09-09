@@ -4488,7 +4488,7 @@ Pe lângă amortizarea financiară, sistemul nZEB îmbunătățește semnificati
 7. **Siliconarea exterioară** cu silicon neutru UV-rezistent
 8. **Montarea glafurilor** interior (PVC) și exterior (aluminiu cu picurătoare)
 
-Detaliile de montaj cu precadre Blaugelb Triotherm+ sunt tratate pas cu pas aici: [Montaj cu precadre Blaugelb Triotherm+ — de ce este obligato](/ro/blog/montaj-precadre-blaugelb-nzeb).
+Detaliile de montaj cu precadre Blaugelb Triotherm+ sunt tratate pas cu pas aici: [Montaj cu precadre Blaugelb Triotherm+ — de ce este obligatoriu](/ro/blog/montaj-precadre-blaugelb-nzeb).
 
 ---
 Neofort BIZ montează sisteme nZEB complete în București și Ilfov — profil Salamander bluEvolution 92, precadre Blaugelb Triotherm+, geam triplu Saint-Gobain, benzi precomprimate Illbruck. [Solicită ofertă tehnică](/ro/contact). Vezi [sistemele nZEB](/ro/sisteme-nzeb) pe care le oferim.
@@ -4515,365 +4515,746 @@ Nu. Salamander bluEvolution 92 folosește exclusiv stabilizatori Calciu-Zinc (Ca
 
 Neofort BIZ execută montaj nZEB complet, cu precadre Blaugelb Triotherm+ și geam triplu, în București și Ilfov. [Trimite-ne detaliile proiectului](/ro/contact) și primești ofertă în 48 de ore. Vezi [sistemele nZEB complete](/ro/sisteme-nzeb) pe care le oferim.
 `,
-      en: `## What is the nZEB Standard and Why Does It Matter for Your Windows
+      en: `## What the nZEB standard is and why it matters for your windows
 
-nZEB — Nearly Zero Energy Building — is not an optional certification. It is the mandatory standard for all new constructions in Romania since 2021, under Directive 2010/31/EU on the energy performance of buildings (EPBD). A nZEB building must achieve primary energy consumption ≤ 100 kWh/m²/year. Windows contribute directly to this balance — they represent 15-25% of a dwelling's envelope area and account for 25-35% of heat losses in conventional construction.
+nZEB — Nearly Zero Energy Building — is not a brand or an optional certification. It is the mandatory standard for every new build in Romania from 2021, under Directive 2010/31/EU on the energy performance of buildings (EPBD) and its transposition through Law 372/2005 as amended.
 
-A nZEB window system is not just a good profile. It is an integrated system where each component is selected and installed to minimise thermal losses at the window opening — from the profile itself, to the glazing unit, to the spacer inside the glass pack and the perimeter seal against the masonry.
+In concrete terms, an nZEB building has to reach a primary energy consumption of ≤ 100 kWh/m²/year. Windows contribute directly to that balance — they represent on average 15–25% of the envelope surface of a dwelling and are responsible for 25–35% of the heat losses in a conventional building.
 
-## Component 1 — Salamander bluEvolution 92 Profile
+An nZEB window system does not simply mean a good profile. It means an integrated system in which every component is selected and installed to minimise heat loss at the window opening — from the profile itself to the insulating glass unit, the spacer inside the glazing package and the sealing of the perimeter against the masonry.
+
+## Component 1 — The Salamander bluEvolution 92 profile
+
+Salamander bluEvolution 92 is the reference profile for nZEB construction in the Neofort BIZ portfolio. The technical characteristics relevant to the energy balance:
 
 **Profile geometry:**
-- 6 air chambers, 92 mm construction depth, 3.0 mm outer walls (Class A per EN 12608), 3 EPDM gaskets
+- 6 air chambers (5 main chambers plus 1 central reinforcement chamber)
+- Structural depth: 92 mm
+- Outer wall thickness: 3.0 mm (Class A to EN 12608)
+- 3 perimeter EPDM gaskets
 
 **Thermal performance:**
-- Profile thermal transmittance: Uf = 0.95 W/(m²K) (IFT Rosenheim certified)
-- Air permeability: Class 4 (EN 12207) — maximum
-- Chemical composition: exclusively Ca-Zn stabilisers since 2008 — no lead, no cadmium, REACH compliant
+- Profile heat transfer coefficient: Uf = 0.95 W/(m²K) (value certified by IFT Rosenheim)
+- Air tightness class: Class 4 (EN 12207) — the maximum possible
+- Water tightness class: Class E1500 (EN 12208)
+- Wind resistance: Class C5 (EN 12210)
 
-## Component 2 — Saint-Gobain SGG Triple Glazing
+**Chemical composition:**
+- Stabilisers: exclusively calcium-zinc (Ca-Zn) since 2008 — no lead, no cadmium
+- VinylPlus certified for recyclability
+- Declared compliant with REACH Regulation (EC) No 1907/2006
 
-**Pack structure:** 4 mm / 16 mm Argon / 4 mm Low-E / 16 mm Argon / 4 mm — total 44 mm
+**Hardware included as standard:**
+- Roto NT or equivalent — adjustment on 3 axes
+- RC2 burglary resistance available as an option
+
+## Component 2 — The Saint-Gobain SGG triple insulating glass unit
+
+The glazing package is the component with the greatest impact on the Ug coefficient (heat transfer through the glass). The specification for the nZEB system:
+
+**Package structure:** 4 mm float / 16 mm argon / 4 mm Low-E float / 16 mm argon / 4 mm float — 44 mm in total
 
 **Technical parameters:**
-- Ug = 0.5 W/(m²K) with argon 90% concentration
-- Solar factor g = 0.34 (Low-E on position 2)
+- Ug = 0.5 W/(m²K) with argon at 90% concentration
+- Ug = 0.6 W/(m²K) with argon at 80% concentration (standard)
+- Solar factor g = 0.34 (Low-E on face 2)
 - Light transmittance TL = 70%
-- Acoustic attenuation Rw = 34-36 dB
+- Acoustic attenuation Rw = 34–36 dB
 
-**Warm Edge spacer:** Standard aluminium spacer has λ = 160 W/mK — creates visible condensation stripe at inner glass edge. Warm Edge spacer (TGI, Swisspacer, Thermix) has λ = 0.15-0.2 W/mK — reduces marginal thermal bridge by 75-85%.
+**The Warm Edge spacer:**
+The standard aluminium spacer has a thermal conductivity of λ = 160 W/mK — it creates a thermal bridge visible as a line of condensation on the inner edge of the glass during the cold season. The Warm Edge spacer (TGI, Swisspacer, Thermix) has λ = 0.15–0.2 W/mK — it reduces the thermal bridge by 75–85% and eliminates edge condensation.
 
-**Uw calculation for complete window (100×120 cm):**
-- Uf = 0.95, Ug = 0.5, Ψg Warm Edge = 0.030 W/mK
-- **Uw resultant = 0.72 W/(m²K)** — 49% reduction in heat loss vs standard double glazing (Uw = 1.4)
+**Calculating Uw for the complete window (100 × 120 cm):**
 
-## Component 3 — Blaugelb Triotherm+ Preframes
+| Component | Value | Share |
+|---|---|---|
+| Uf (profile) | 0.95 W/(m²K) | about 30% of the area |
+| Ug (triple glazing with argon) | 0.5 W/(m²K) | about 65% of the area |
+| Ψg (Warm Edge spacer) | 0.030 W/mK | perimeter |
+| **Resulting Uw** | **0.72 W/(m²K)** | — |
 
-The preframe is mounted before the window itself, in the thermal insulation plane of the wall. Its composite material has thermal conductivity λ = 0.035 W/mK — comparable to mineral wool. The window is subsequently mounted on the preframe, which:
-1. Thermally insulates the frame-masonry contact
-2. Allows window mounting in the thermal insulation plane (Passive House requirement)
-3. Reduces perimeter linear thermal bridge ψ from 0.08 W/mK (no preframe) to 0.01 W/mK (with preframe)
-4. PassivHaus Institut (PHI) certified
+Against the Uw = 1.4 W/(m²K) of a standard window with double glazing, the reduction in heat loss through the window is 49%.
 
-## Component 4 — Perimeter Sealing (Pre-Compressed Band)
+## Component 3 — Blaugelb Triotherm+ precasings
 
-Three-zone RAL installation:
-- **Exterior:** Pre-compressed butyl band (Illbruck TP600) — waterproof ≥ 600 Pa, UV-resistant, 20-25 year durability
-- **Middle:** Semi-open cell polyurethane foam — thermal and acoustic insulation
-- **Interior:** Vapour barrier film — prevents condensation and mould in wall structure
+The Blaugelb Triotherm+ precasing solves the problem that no high-performance profile can solve on its own: the thermal bridge at the window perimeter — the contact zone between the frame and the masonry.
 
-## Economic Calculation
+**Why the perimeter thermal bridge arises:**
+The window frame, however well the profile performs, comes into direct contact with the masonry — a material with a thermal conductivity significantly higher than the air in the profile chambers. At an outside temperature of −15 °C, the temperature of the inner surface of the frame where it meets the masonry falls below the dew point → condensation → mould.
 
-**Indicative nZEB system cost (100×120 cm window, installation included):**
-- Salamander bluEvolution 92 profile + triple glazing: €220-280
-- Blaugelb Triotherm+ preframe: €50-70/unit
-- Professional nZEB installation: €60-90
-- **Total 100×120 cm nZEB window: €330-440**
+**How the Blaugelb precasing works:**
+The precasing is installed before the window itself, in the plane of the wall’s thermal insulation. The composite material of the precasing has a thermal conductivity of λ = 0.035 W/mK — comparable to mineral wool. The window is then fitted onto the precasing, which:
+1. Thermally insulates the frame-to-masonry contact
+2. Allows the window to be installed within the plane of the insulation (a Passive House requirement)
+3. Creates a level, standardised mounting surface, independent of the quality of the masonry
 
-**Annual energy saving (80 m² apartment, 10 windows):**
-- Standard windows: ~2,800 kWh/year heat loss
-- Complete nZEB windows: ~980 kWh/year heat loss
-- Saving: −1,820 kWh/year → €110-140/year at current energy prices
-- Payback period on additional investment: 10-13 years
+**The performance of the Triotherm+ precasing:**
+- PassivHaus Institut (PHI) certification for use in passive houses
+- Eliminates the linear thermal bridge ψ (psi) at the window perimeter: from ψ = 0.08 W/mK (without precasing) to ψ = 0.01 W/mK (with precasing)
+- Improvement in effective Uw: −0.05 to −0.12 W/(m²K) against installing directly into the masonry
+
+## Component 4 — Sealing the perimeter (pre-compressed tape)
+
+The RAL guideline for professional window installation defines 3 sealing zones:
+
+**The outer zone:** pre-compressed butyl tape (Illbruck TP600, blaugelb TrioSDL) — resistant to water (≥ 600 Pa), to UV and to temperature variation. It is applied to the window profile before installation and expands once fitted. Durability: 20–25 years.
+
+**The middle zone:** semi-open cell polyurethane foam — provides the thermal and acoustic insulation of the space between frame and masonry.
+
+**The inner zone:** vapour barrier film or tape — prevents the migration of vapour from inside into the joint, removing the risk of interstitial condensation and mould within the wall structure.
+
+## The economics: what it costs and what you save
+
+**Indicative cost of a complete nZEB system (100 × 120 cm window, installation included):**
+
+| Component | Indicative cost |
+|---|---|
+| Salamander bluEvolution 92 profile | 1,100–1,400 lei |
+| Triple glazing with Warm Edge | included in the profile price |
+| Blaugelb Triotherm+ precasing | 250–350 lei each |
+| Professional installation with pre-compressed tapes | 300–450 lei |
+| **Total, 100 × 120 cm nZEB window** | **1,650–2,200 lei** |
+
+**Against a standard window (double glazing, no precasing):** 900–1,200 lei
+
+**Annual energy saving (calculation for an 80 sqm apartment, 10 windows):**
+- Standard windows: estimated heat loss 2,800 kWh/year
+- Complete nZEB windows: estimated heat loss 980 kWh/year
+- Difference: −1,820 kWh/year → a saving of roughly 550–700 lei/year at current energy prices
+
+**Payback on the additional investment** (a difference of about 7,000 lei for 10 windows): 10–13 years.
+
+Beyond the financial payback, the nZEB system markedly improves thermal comfort (no cold zones beside the windows, no condensation), reduces noise and keeps the property in line with the energy regulations in force.
+
+## The nZEB installation procedure, step by step
+
+1. **Installing the Blaugelb precasing** — on the wall structure, in the plane of the insulation
+2. **Applying the pre-compressed tape** around the perimeter of the window frame
+3. **Fitting the frame** onto the precasing — levelled on 3 axes with metal anchors
+4. **Injecting the polyurethane foam** into the middle zone
+5. **Applying the vapour barrier film** in the inner zone
+6. **Inserting the glazing package** and adjusting the Roto NT hardware
+7. **External siliconing** with neutral, UV-resistant silicone
+8. **Fitting the window boards** inside (PVC) and outside (aluminium with a drip edge)
+
+The installation details with Blaugelb Triotherm+ precasings are covered step by step here: [installing Blaugelb Triotherm+ precasings — why it is mandatory](/en/blog/blaugelb-triotherm-precasing-installation-nzeb).
 
 ---
-Neofort BIZ installs complete nZEB systems in Bucharest and Ilfov — Salamander bluEvolution 92, Blaugelb Triotherm+ preframes, Saint-Gobain triple glazing, Illbruck pre-compressed bands. [Request technical quote](/en/contact). See [the nZEB systems](/en/nzeb-systems) we offer.
+Neofort BIZ installs complete nZEB systems in Bucharest and Ilfov — Salamander bluEvolution 92 profile, Blaugelb Triotherm+ precasings, Saint-Gobain triple glazing, Illbruck pre-compressed tapes. [Request a technical quotation](/en/contact). See [the nZEB systems](/en/nzeb-systems) we offer.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
-### What makes a complete nZEB window system, not just a good profile?
+### What does a complete nZEB window system mean, rather than just a good profile?
 
-An nZEB system means every component chosen together: a Salamander bluEvolution 92 profile (Uf 0.95 W/m²K), Saint-Gobain triple glazing (Ug 0.5-0.6), a Warm Edge spacer and a Blaugelb Triotherm+ pre-frame for the perimeter seal. A good profile without correct fitting loses performance.
+An nZEB system means every component selected together: the Salamander bluEvolution 92 profile (Uf 0.95 W/m²K), Saint-Gobain triple glazing (Ug 0.5–0.6), a Warm Edge spacer and a Blaugelb Triotherm+ precasing to seal the perimeter. A good profile without correct installation loses its performance.
 
-### What is the Blaugelb Triotherm+ pre-frame for?
+### What is the Blaugelb Triotherm+ precasing for?
 
-The Blaugelb Triotherm+ pre-frame solves the thermal bridge at the window perimeter — the contact zone between frame and masonry, which no high-performance profile can solve on its own. It is installed within the wall's insulation plane and costs 250-350 lei per piece.
+The Blaugelb Triotherm+ precasing solves the thermal bridge at the window perimeter — the contact zone between frame and masonry, which no high-performance profile can solve on its own. It is installed in the plane of the wall insulation and costs 250–350 lei each.
 
-### What Ug value does the Saint-Gobain triple glazing reach for nZEB?
+### What Ug does the Saint-Gobain triple glazing achieve for nZEB?
 
-The 44 mm triple unit (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) reaches Ug = 0.5 W/(m²K) with 90% argon, or Ug = 0.6 with standard 80% argon, and a solar factor g = 0.34 with Low-E in position 2.
+The 44 mm triple package (4 float / 16 argon / 4 Low-E / 16 argon / 4 float) reaches Ug = 0.5 W/(m²K) with 90% argon, or Ug = 0.6 with the standard 80% argon, and a solar factor of g = 0.34 with Low-E on face 2.
 
 ### Does the Salamander bluEvolution 92 profile contain lead?
 
-No. Salamander bluEvolution 92 has used exclusively Calcium-Zinc (Ca-Zn) stabilisers since 2008, free of lead and cadmium. It is VinylPlus certified for recyclability and declared compliant with REACH Regulation (EC) No. 1907/2006.
+No. Salamander bluEvolution 92 has used calcium-zinc (Ca-Zn) stabilisers exclusively since 2008, with no lead and no cadmium. It is VinylPlus certified for recyclability and declared compliant with REACH Regulation (EC) No 1907/2006.
 
 ---
 
-Neofort BIZ carries out complete nZEB installations with Blaugelb Triotherm+ precasings and triple glazing in Bucharest and Ilfov. [Send us the project details](/en/contact) and you will receive a quote within 48 hours. See the [complete nZEB systems](/en/nzeb-systems) we offer.
-`,
-      de: `## Was ist der nZEB-Standard und warum ist er für Ihre Fenster wichtig?
+Neofort BIZ carries out complete nZEB installations with Blaugelb Triotherm+ precasings and triple glazing in Bucharest and Ilfov. [Send us the project details](/en/contact) and you will receive a quote within 48 hours. See the [complete nZEB systems](/en/nzeb-systems) we offer.`,
+      de: `## Was der nZEB-Standard ist und warum er für Ihre Fenster zählt
 
-nZEB — Nearly Zero Energy Building — ist kein optionales Zertifikat. Es ist der verbindliche Standard für alle Neubauten in Rumänien seit 2021 gemäß Richtlinie 2010/31/EU (EPBD). Ein nZEB-Gebäude muss einen Primärenergieverbrauch ≤ 100 kWh/m²/Jahr erreichen. Fenster tragen direkt zu dieser Bilanz bei — sie machen 15-25% der Hüllfläche aus und sind für 25-35% der Wärmeverluste verantwortlich.
+nZEB — Nearly Zero Energy Building — ist keine Marke und keine freiwillige Zertifizierung. Es ist der verbindliche Standard für alle Neubauten in Rumänien ab 2021, gemäß der Richtlinie 2010/31/EU über die Gesamtenergieeffizienz von Gebäuden (EPBD) und ihrer Umsetzung durch das Gesetz 372/2005 in geänderter Fassung.
 
-## Komponente 1 — Salamander bluEvolution 92
+Konkret muss ein nZEB-Gebäude einen Primärenergiebedarf von ≤ 100 kWh/m²/Jahr erreichen. Fenster gehen unmittelbar in diese Bilanz ein — sie machen im Mittel 15–25 % der Hüllfläche einer Wohnung aus und sind für 25–35 % der Wärmeverluste eines konventionellen Baus verantwortlich.
 
-- 6 Kammern, 92 mm Bautiefe, 3,0 mm Außenwände (Klasse A nach EN 12608), 3 EPDM-Dichtungen
-- Uf = 0,95 W/(m²K) (IFT Rosenheim zertifiziert)
-- Ausschließlich Ca-Zn-Stabilisatoren seit 2008 — bleifrei, cadmiumfrei, REACH-konform
+Ein nZEB-Fenstersystem bedeutet nicht einfach ein gutes Profil. Es bedeutet ein integriertes System, in dem jede Komponente so gewählt und eingebaut ist, dass die Wärmeverluste an der Fensteröffnung minimal bleiben — vom Profil selbst über die Isolierglaseinheit und den Abstandhalter im Glasaufbau bis zur Abdichtung des Anschlusses zum Mauerwerk.
 
-## Komponente 2 — Saint-Gobain SGG Dreifachverglasung
+## Komponente 1 — Das Profil Salamander bluEvolution 92
 
-**Paketaufbau:** 4 mm / 16 mm Argon / 4 mm Low-E / 16 mm Argon / 4 mm — gesamt 44 mm
+Salamander bluEvolution 92 ist das Referenzprofil für nZEB-Bauten im Portfolio von Neofort BIZ. Die für die Energiebilanz maßgeblichen technischen Merkmale:
 
-- Ug = 0,5 W/(m²K) mit Argon 90%
-- Sonnenschutzfaktor g = 0,34
-- Lichttransmission TL = 70%
-- **Warm-Edge-Abstandhalter:** λ = 0,15-0,2 W/mK — reduziert Randwärmebrücke um 75-85%
+**Profilgeometrie:**
+- 6 Luftkammern (5 Hauptkammern plus 1 zentrale Verstärkungskammer)
+- Bautiefe: 92 mm
+- Außenwandstärke: 3,0 mm (Klasse A nach EN 12608)
+- 3 umlaufende EPDM-Dichtungen
 
-**Uw für komplettes Fenster (100×120 cm): 0,72 W/(m²K)** — 49% weniger Wärmeverlust gegenüber Zweifachverglasung (Uw = 1,4)
+**Wärmetechnische Leistung:**
+- Wärmedurchgangskoeffizient des Profils: Uf = 0,95 W/(m²K) (von IFT Rosenheim zertifizierter Wert)
+- Luftdurchlässigkeitsklasse: Klasse 4 (EN 12207) — der höchstmögliche Wert
+- Schlagregendichtheitsklasse: Klasse E1500 (EN 12208)
+- Windwiderstand: Klasse C5 (EN 12210)
 
-## Komponente 3 — Blaugelb Triotherm+ Vorblendrahmen
+**Chemische Zusammensetzung:**
+- Stabilisatoren: seit 2008 ausschließlich Calcium-Zink (Ca-Zn) — bleifrei, cadmiumfrei
+- VinylPlus-Zertifikat für die Recyclingfähigkeit
+- Konformitätserklärung nach REACH-Verordnung (EG) Nr. 1907/2006
 
-Der Vorblendrahmen wird vor dem eigentlichen Fenster, in der Wärmedämmebene der Wand, montiert. Sein Verbundwerkstoff hat λ = 0,035 W/mK — vergleichbar mit Mineralwolle. Das Fenster wird anschließend auf dem Vorblendrahmen montiert:
-- Reduziert lineare Wärmebrücke ψ von 0,08 W/mK auf 0,01 W/mK
-- PassivHaus Institut (PHI) zertifiziert
+**Serienmäßiger Beschlag:**
+- Roto NT oder gleichwertig — Einstellung in 3 Achsen
+- Einbruchhemmung RC2 optional verfügbar
 
-## Komponente 4 — Perimeterdichtung
+## Komponente 2 — Die Dreifach-Isolierverglasung Saint-Gobain SGG
 
-Drei Zonen nach RAL-Richtlinie:
-- **Außen:** Vorkomprimiertes Butylband (Illbruck TP600) — wasserdicht ≥ 600 Pa, 20-25 Jahre Haltbarkeit
-- **Mitte:** PU-Schaum — Wärme- und Schalldämmung
-- **Innen:** Dampfsperrfolie — verhindert Kondensat in der Wandstruktur
+Der Glasaufbau ist die Komponente mit dem größten Einfluss auf den Ug-Wert (Wärmedurchgang durch das Glas). Die Spezifikation für das nZEB-System:
 
-## Wirtschaftlichkeitsrechnung
+**Aufbau des Pakets:** 4 mm Float / 16 mm Argon / 4 mm Float Low-E / 16 mm Argon / 4 mm Float — insgesamt 44 mm
 
-**Geschätzte Kosten nZEB-System (100×120 cm, Montage inklusive): 330-440 €**
+**Technische Kennwerte:**
+- Ug = 0,5 W/(m²K) bei 90 % Argonfüllung
+- Ug = 0,6 W/(m²K) bei 80 % Argonfüllung (Standard)
+- g-Wert = 0,34 (Low-E auf Position 2)
+- Lichttransmission TL = 70 %
+- Schalldämmung Rw = 34–36 dB
 
-**Jährliche Energieeinsparung (80 m² Wohnung, 10 Fenster):**
-- Standardfenster: ~2.800 kWh/Jahr Wärmeverlust
-- Komplette nZEB-Fenster: ~980 kWh/Jahr
-- Einsparung: −1.820 kWh/Jahr → 110-140 €/Jahr
-- Amortisationszeit der Mehrinvestition: 10-13 Jahre
+**Der Warm-Edge-Abstandhalter:**
+Der übliche Aluminiumabstandhalter hat eine Wärmeleitfähigkeit von λ = 160 W/mK — er erzeugt eine Wärmebrücke, die in der kalten Jahreszeit als Kondensstreifen am inneren Glasrand sichtbar wird. Der Warm-Edge-Abstandhalter (TGI, Swisspacer, Thermix) hat λ = 0,15–0,2 W/mK — er verringert die Wärmebrücke um 75–85 % und beseitigt das Randkondensat.
+
+**Berechnung des Uw für das komplette Fenster (100 × 120 cm):**
+
+| Komponente | Wert | Anteil |
+|---|---|---|
+| Uf (Profil) | 0,95 W/(m²K) | rund 30 % der Fläche |
+| Ug (Dreifachglas mit Argon) | 0,5 W/(m²K) | rund 65 % der Fläche |
+| Ψg (Warm-Edge-Abstandhalter) | 0,030 W/mK | Umfang |
+| **Resultierender Uw** | **0,72 W/(m²K)** | — |
+
+Gegenüber Uw = 1,4 W/(m²K) eines Standardfensters mit Zweifachverglasung beträgt die Verringerung der Wärmeverluste durch das Fenster 49 %.
+
+## Komponente 3 — Die Blaugelb Triotherm+ Vorblendrahmen
+
+Der Blaugelb Triotherm+ Vorblendrahmen löst das Problem, das kein leistungsfähiges Profil allein lösen kann: die Wärmebrücke am Fensteranschluss — die Kontaktzone zwischen Rahmen und Mauerwerk.
+
+**Warum die Wärmebrücke am Anschluss entsteht:**
+Der Fensterrahmen kommt, so leistungsfähig das Profil auch sein mag, unmittelbar mit dem Mauerwerk in Kontakt — einem Material mit deutlich höherer Wärmeleitfähigkeit als die Luft in den Profilkammern. Bei −15 °C Außentemperatur sinkt die Oberflächentemperatur des Rahmens an der Kontaktstelle zum Mauerwerk unter den Taupunkt → Kondensat → Schimmel.
+
+**Wie der Blaugelb-Vorblendrahmen arbeitet:**
+Der Vorblendrahmen wird vor dem eigentlichen Fenster montiert, in der Dämmebene der Wand. Das Verbundmaterial des Vorblendrahmens hat eine Wärmeleitfähigkeit von λ = 0,035 W/mK — vergleichbar mit Mineralwolle. Das Fenster wird anschließend auf dem Vorblendrahmen befestigt, der:
+1. Den Kontakt Rahmen–Mauerwerk wärmetechnisch trennt
+2. Den Einbau des Fensters in der Dämmebene ermöglicht (Anforderung des Passivhauses)
+3. Eine nivellierte, standardisierte Montagefläche schafft, unabhängig von der Qualität des Mauerwerks
+
+**Die Leistung des Triotherm+ Vorblendrahmens:**
+- Zertifizierung des PassivHaus Instituts (PHI) für den Einsatz in Passivhäusern
+- Beseitigt die längenbezogene Wärmebrücke ψ (Psi) am Fensteranschluss: von ψ = 0,08 W/mK (ohne Vorblendrahmen) auf ψ = 0,01 W/mK (mit Vorblendrahmen)
+- Verbesserung des effektiven Uw: −0,05 bis −0,12 W/(m²K) gegenüber dem direkten Einbau ins Mauerwerk
+
+## Komponente 4 — Die Abdichtung des Anschlusses (vorkomprimiertes Band)
+
+Die RAL-Richtlinie für die fachgerechte Fenstermontage definiert 3 Dichtebenen:
+
+**Die äußere Ebene:** vorkomprimiertes Butylband (Illbruck TP600, blaugelb TrioSDL) — beständig gegen Wasser (≥ 600 Pa), UV-Strahlung und Temperaturschwankungen. Es wird vor der Montage auf das Fensterprofil aufgebracht und expandiert nach dem Einbau. Haltbarkeit: 20–25 Jahre.
+
+**Die mittlere Ebene:** halboffenzelliger Polyurethanschaum — sorgt für die Wärme- und Schalldämmung des Raums zwischen Rahmen und Mauerwerk.
+
+**Die innere Ebene:** Dampfsperrfolie oder -band — verhindert die Wanderung von Wasserdampf aus dem Innenraum in die Fuge und beseitigt damit das Risiko von Tauwasser im Bauteil und von Schimmel in der Wandstruktur.
+
+## Die Wirtschaftlichkeit: was es kostet und was Sie sparen
+
+**Richtkosten für ein komplettes nZEB-System (Fenster 100 × 120 cm, Montage inbegriffen):**
+
+| Komponente | Richtkosten |
+|---|---|
+| Profil Salamander bluEvolution 92 | 1.100–1.400 Lei |
+| Dreifachglas mit Warm Edge | im Profilpreis enthalten |
+| Blaugelb Triotherm+ Vorblendrahmen | 250–350 Lei je Stück |
+| Fachgerechte Montage mit vorkomprimierten Bändern | 300–450 Lei |
+| **Gesamt, nZEB-Fenster 100 × 120 cm** | **1.650–2.200 Lei** |
+
+**Gegenüber einem Standardfenster (Zweifachglas, ohne Vorblendrahmen):** 900–1.200 Lei
+
+**Jährliche Energieeinsparung (Rechnung für eine Wohnung mit 80 m², 10 Fenster):**
+- Standardfenster: geschätzte Wärmeverluste 2.800 kWh/Jahr
+- Komplette nZEB-Fenster: geschätzte Wärmeverluste 980 kWh/Jahr
+- Differenz: −1.820 kWh/Jahr → Einsparung von rund 550–700 Lei/Jahr bei den aktuellen Energiepreisen
+
+**Amortisation der Mehrinvestition** (Differenz von etwa 7.000 Lei für 10 Fenster): 10–13 Jahre.
+
+Über die finanzielle Amortisation hinaus verbessert das nZEB-System die thermische Behaglichkeit deutlich (keine kalten Zonen neben den Fenstern, kein Kondensat), verringert den Lärm und hält die Immobilie im Einklang mit den geltenden Energievorschriften.
+
+## Der nZEB-Montageablauf Schritt für Schritt
+
+1. **Einbau des Blaugelb-Vorblendrahmens** — an der Wandstruktur, in der Dämmebene
+2. **Aufbringen des vorkomprimierten Bandes** rund um den Fensterrahmen
+3. **Befestigen des Rahmens** auf dem Vorblendrahmen — in 3 Achsen mit Metallankern ausgerichtet
+4. **Einbringen des Polyurethanschaums** in die mittlere Ebene
+5. **Anbringen der Dampfsperrfolie** in der inneren Ebene
+6. **Einsetzen des Glaspakets** und Einstellen des Roto-NT-Beschlags
+7. **Äußere Versiegelung** mit neutralem, UV-beständigem Silikon
+8. **Montage der Fensterbänke** innen (PVC) und außen (Aluminium mit Tropfkante)
+
+Die Montagedetails mit Blaugelb Triotherm+ Vorblendrahmen werden hier Schritt für Schritt behandelt: [Montage mit Blaugelb Triotherm+ Vorblendrahmen — warum sie zwingend ist](/de/blog/blaugelb-triotherm-vorfenster-montage-nzeb).
 
 ---
-Neofort BIZ montiert komplette nZEB-Systeme in Bukarest und Ilfov — Salamander bluEvolution 92, Blaugelb Triotherm+ Vorblendrahmen, Saint-Gobain Dreifachverglasung, Illbruck-Bänder. [Technisches Angebot anfordern](/de/kontakt). Sehen Sie [die nZEB-Systeme](/de/nzeb-systeme), die wir anbieten.
+Neofort BIZ montiert komplette nZEB-Systeme in Bukarest und Ilfov — Profil Salamander bluEvolution 92, Blaugelb Triotherm+ Vorblendrahmen, Saint-Gobain Dreifachglas, Illbruck vorkomprimierte Bänder. [Technisches Angebot anfordern](/de/kontakt). Sehen Sie [die nZEB-Systeme](/de/nzeb-systeme), die wir anbieten.
 
 ## Häufig gestellte Fragen
 
-### Was ist ein komplettes nZEB-Fenstersystem, nicht nur ein gutes Profil?
+### Was bedeutet ein komplettes nZEB-Fenstersystem statt nur eines guten Profils?
 
-Ein nZEB-System bedeutet, dass jede Komponente zusammen ausgewählt wird: Salamander bluEvolution 92 (Uf 0,95 W/m²K), Saint-Gobain-Dreifachglas (Ug 0,5-0,6), Warm-Edge-Abstandhalter und Blaugelb Triotherm+ Vorrahmen für die Perimeterabdichtung. Ein gutes Profil ohne korrekten Einbau verliert Leistung.
+Ein nZEB-System bedeutet, dass jede Komponente gemeinsam gewählt wird: Profil Salamander bluEvolution 92 (Uf 0,95 W/m²K), Saint-Gobain Dreifachglas (Ug 0,5–0,6), Warm-Edge-Abstandhalter und Blaugelb Triotherm+ Vorblendrahmen für die Abdichtung des Anschlusses. Ein gutes Profil ohne fachgerechte Montage verliert seine Leistung.
 
-### Wozu dient der Blaugelb Triotherm+ Vorrahmen?
+### Wozu dient der Blaugelb Triotherm+ Vorblendrahmen?
 
-Der Blaugelb Triotherm+ Vorrahmen löst die Wärmebrücke am Fensterperimeter — die Kontaktzone zwischen Rahmen und Mauerwerk, die kein Hochleistungsprofil allein lösen kann. Er wird in der Dämmebene der Wand eingebaut und kostet 250-350 Lei pro Stück.
+Der Blaugelb Triotherm+ Vorblendrahmen löst die Wärmebrücke am Fensteranschluss — die Kontaktzone zwischen Rahmen und Mauerwerk, die kein leistungsfähiges Profil allein lösen kann. Er wird in der Dämmebene der Wand eingebaut und kostet 250–350 Lei je Stück.
 
-### Welchen Ug-Wert erreicht das Saint-Gobain-Dreifachglas für nZEB?
+### Welchen Ug erreicht das Saint-Gobain Dreifachglas für nZEB?
 
-Die 44-mm-Dreifacheinheit (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) erreicht Ug = 0,5 W/(m²K) mit 90% Argon oder Ug = 0,6 mit Standard-80%-Argon und einen Solarfaktor g = 0,34 mit Low-E in Position 2.
+Das 44-mm-Dreifachpaket (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) erreicht Ug = 0,5 W/(m²K) mit 90 % Argon oder Ug = 0,6 mit dem Standard von 80 % Argon, bei einem g-Wert von 0,34 mit Low-E auf Position 2.
 
-### Enthält das Salamander bluEvolution 92 Profil Blei?
+### Enthält das Profil Salamander bluEvolution 92 Blei?
 
-Nein. Salamander bluEvolution 92 verwendet seit 2008 ausschließlich Calcium-Zink-Stabilisatoren (Ca-Zn), frei von Blei und Cadmium. Es ist VinylPlus-zertifiziert für Recyclingfähigkeit und konform mit der REACH-Verordnung (EG) Nr. 1907/2006.
-
----
-
-Neofort BIZ führt komplette nZEB-Montagen mit Blaugelb Triotherm+ Vorblendrahmen und Dreifachverglasung in Bukarest und Ilfov aus. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie die [kompletten nZEB-Systeme](/de/nzeb-systeme).
-`,
-      fr: `## Qu'est-ce que la norme nZEB et pourquoi est-elle importante pour vos fenêtres ?
-
-nZEB — Nearly Zero Energy Building — n'est pas une certification optionnelle. C'est la norme obligatoire pour toutes les nouvelles constructions en Roumanie depuis 2021, conformément à la Directive 2010/31/UE (DPEB). Un bâtiment nZEB doit atteindre une consommation d'énergie primaire ≤ 100 kWh/m²/an. Les fenêtres représentent 15-25% de la surface de l'enveloppe et sont responsables de 25-35% des pertes de chaleur.
-
-## Composante 1 — Profilé Salamander bluEvolution 92
-
-- 6 chambres, 92 mm de profondeur, parois 3,0 mm (Classe A selon EN 12608), 3 joints EPDM
-- Uf = 0,95 W/(m²K) (certifié IFT Rosenheim)
-- Exclusivement stabilisants Ca-Zn depuis 2008 — sans plomb, sans cadmium, conforme REACH
-
-## Composante 2 — Triple vitrage Saint-Gobain SGG
-
-**Structure du pack :** 4 mm / 16 mm Argon / 4 mm Low-E / 16 mm Argon / 4 mm — total 44 mm
-
-- Ug = 0,5 W/(m²K) avec argon 90%
-- Facteur solaire g = 0,34 — transmittance lumineuse TL = 70%
-- **Espaceur Warm Edge :** λ = 0,15-0,2 W/mK — réduit le pont thermique marginal de 75-85%
-
-**Uw pour fenêtre complète (100×120 cm) : 0,72 W/(m²K)** — 49% moins de pertes qu'avec double vitrage (Uw = 1,4)
-
-## Composante 3 — Précadres Blaugelb Triotherm+
-
-Le précadre est monté avant la fenêtre, dans le plan d'isolation thermique du mur. Son matériau composite a λ = 0,035 W/mK — comparable à la laine minérale :
-- Réduit le pont thermique linéaire ψ de 0,08 à 0,01 W/mK
-- Certifié PassivHaus Institut (PHI)
-
-## Composante 4 — Étanchéité périmétrique
-
-Trois zones selon la norme RAL :
-- **Extérieur :** Bande précomprimée butyle (Illbruck TP600) — étanche ≥ 600 Pa, 20-25 ans de durabilité
-- **Milieu :** Mousse PU — isolation thermique et acoustique
-- **Intérieur :** Film pare-vapeur — prévient la condensation dans la structure du mur
-
-## Calcul économique
-
-**Coût indicatif système nZEB complet (100×120 cm, pose incluse) : 330-440 €**
-
-**Économie annuelle d'énergie (appartement 80 m², 10 fenêtres) :**
-- Fenêtres standard : ~2 800 kWh/an de pertes
-- Fenêtres nZEB complètes : ~980 kWh/an
-- Économie : −1 820 kWh/an → 110-140 €/an
-- Retour sur investissement : 10-13 ans
+Nein. Salamander bluEvolution 92 verwendet seit 2008 ausschließlich Calcium-Zink-Stabilisatoren (Ca-Zn), ohne Blei und ohne Cadmium. Es ist VinylPlus-zertifiziert für die Recyclingfähigkeit und nach REACH-Verordnung (EG) Nr. 1907/2006 konformitätserklärt.
 
 ---
-Neofort BIZ installe des systèmes nZEB complets à Bucarest et Ilfov — Salamander bluEvolution 92, précadres Blaugelb Triotherm+, triple vitrage Saint-Gobain, bandes Illbruck. [Demander un devis technique](/fr/contact). Voir [les systèmes nZEB](/fr/systemes-nzeb) que nous proposons.
+
+Neofort BIZ führt komplette nZEB-Montagen mit Blaugelb Triotherm+ Vorblendrahmen und Dreifachverglasung in Bukarest und Ilfov aus. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie die [kompletten nZEB-Systeme](/de/nzeb-systeme), die wir anbieten.`,
+      fr: `## Ce qu’est la norme nZEB et pourquoi elle compte pour vos fenêtres
+
+nZEB — Nearly Zero Energy Building — n’est ni une marque ni une certification facultative. C’est la norme obligatoire pour toutes les constructions neuves en Roumanie depuis 2021, en application de la directive 2010/31/UE sur la performance énergétique des bâtiments (EPBD) et de sa transposition par la loi 372/2005 modifiée.
+
+Concrètement, un bâtiment nZEB doit atteindre une consommation d’énergie primaire ≤ 100 kWh/m²/an. Les fenêtres pèsent directement dans ce bilan — elles représentent en moyenne 15 à 25 % de la surface de l’enveloppe d’un logement et sont responsables de 25 à 35 % des déperditions de chaleur dans une construction conventionnelle.
+
+Un système de fenêtres nZEB ne se résume pas à un bon profilé. C’est un système intégré dans lequel chaque composant est choisi et posé pour minimiser les déperditions au niveau de la baie — du profilé lui-même au vitrage isolant, à l’intercalaire à l’intérieur du double vitrage et jusqu’à l’étanchéité du pourtour face à la maçonnerie.
+
+## Composant 1 — Le profilé Salamander bluEvolution 92
+
+Salamander bluEvolution 92 est le profilé de référence pour les constructions nZEB du portefeuille Neofort BIZ. Les caractéristiques techniques qui pèsent sur le bilan énergétique :
+
+**Géométrie du profilé :**
+- 6 chambres d’air (5 chambres principales et 1 chambre centrale de renfort)
+- Profondeur de construction : 92 mm
+- Épaisseur des parois extérieures : 3,0 mm (classe A selon EN 12608)
+- 3 joints EPDM périphériques
+
+**Performance thermique :**
+- Coefficient de transfert thermique du profilé : Uf = 0,95 W/(m²K) (valeur certifiée IFT Rosenheim)
+- Classe de perméabilité à l’air : classe 4 (EN 12207) — le maximum possible
+- Classe d’étanchéité à l’eau : classe E1500 (EN 12208)
+- Résistance au vent : classe C5 (EN 12210)
+
+**Composition chimique :**
+- Stabilisants : exclusivement calcium-zinc (Ca-Zn) depuis 2008 — sans plomb, sans cadmium
+- Certifié VinylPlus pour la recyclabilité
+- Déclaré conforme au règlement REACH (CE) n° 1907/2006
+
+**Quincaillerie fournie en standard :**
+- Roto NT ou équivalent — réglage sur 3 axes
+- Anti-effraction RC2 disponible en option
+
+## Composant 2 — Le triple vitrage isolant Saint-Gobain SGG
+
+Le vitrage est le composant qui pèse le plus sur le coefficient Ug (transfert thermique du vitrage). La spécification du système nZEB :
+
+**Structure du vitrage :** 4 mm float / 16 mm argon / 4 mm float Low-E / 16 mm argon / 4 mm float — 44 mm au total
+
+**Paramètres techniques :**
+- Ug = 0,5 W/(m²K) avec une concentration d’argon de 90 %
+- Ug = 0,6 W/(m²K) avec une concentration d’argon de 80 % (standard)
+- Facteur solaire g = 0,34 (Low-E en face 2)
+- Transmission lumineuse TL = 70 %
+- Affaiblissement acoustique Rw = 34–36 dB
+
+**L’intercalaire Warm Edge :**
+L’intercalaire standard en aluminium a une conductivité thermique de λ = 160 W/mK — il crée un pont thermique visible sous forme de trace de condensation sur le bord intérieur du vitrage en saison froide. L’intercalaire Warm Edge (TGI, Swisspacer, Thermix) a λ = 0,15–0,2 W/mK — il réduit le pont thermique de 75 à 85 % et supprime la condensation de bord.
+
+**Calcul du Uw pour la fenêtre complète (100 × 120 cm) :**
+
+| Composant | Valeur | Part |
+|---|---|---|
+| Uf (profilé) | 0,95 W/(m²K) | environ 30 % de la surface |
+| Ug (triple vitrage à l’argon) | 0,5 W/(m²K) | environ 65 % de la surface |
+| Ψg (intercalaire Warm Edge) | 0,030 W/mK | périmètre |
+| **Uw résultant** | **0,72 W/(m²K)** | — |
+
+Face au Uw = 1,4 W/(m²K) d’une fenêtre standard en double vitrage, la réduction des déperditions par la fenêtre atteint 49 %.
+
+## Composant 3 — Les précadres Blaugelb Triotherm+
+
+Le précadre Blaugelb Triotherm+ résout le problème qu’aucun profilé performant ne peut résoudre seul : le pont thermique au pourtour de la fenêtre — la zone de contact entre le dormant et la maçonnerie.
+
+**Pourquoi ce pont thermique apparaît :**
+Le dormant, aussi performant soit le profilé, entre en contact direct avec la maçonnerie — un matériau dont la conductivité thermique est nettement supérieure à celle de l’air des chambres du profilé. À une température extérieure de −15 °C, la température de la face intérieure du dormant au contact de la maçonnerie descend sous le point de rosée → condensation → moisissure.
+
+**Comment fonctionne le précadre Blaugelb :**
+Le précadre se pose avant la fenêtre elle-même, dans le plan d’isolation thermique du mur. Le matériau composite du précadre a une conductivité thermique de λ = 0,035 W/mK — comparable à la laine minérale. La fenêtre se fixe ensuite sur le précadre, qui :
+1. Isole thermiquement le contact dormant-maçonnerie
+2. Permet de poser la fenêtre dans le plan de l’isolation (exigence Maison Passive)
+3. Crée une surface de pose nivelée et normalisée, indépendante de la qualité de la maçonnerie
+
+**La performance du précadre Triotherm+ :**
+- Certification PassivHaus Institut (PHI) pour l’usage en maison passive
+- Supprime le pont thermique linéique ψ (psi) au pourtour de la fenêtre : de ψ = 0,08 W/mK (sans précadre) à ψ = 0,01 W/mK (avec précadre)
+- Amélioration du Uw effectif : −0,05 à −0,12 W/(m²K) par rapport à une pose directe en maçonnerie
+
+## Composant 4 — L’étanchéité du pourtour (bande précomprimée)
+
+Le référentiel RAL pour la pose professionnelle de fenêtres définit 3 plans d’étanchéité :
+
+**Le plan extérieur :** bande précomprimée en butyle (Illbruck TP600, blaugelb TrioSDL) — résistante à l’eau (≥ 600 Pa), aux UV et aux variations de température. Elle s’applique sur le profilé avant la pose et se dilate après installation. Durabilité : 20 à 25 ans.
+
+**Le plan médian :** mousse polyuréthane à cellules semi-ouvertes — assure l’isolation thermique et acoustique de l’espace entre dormant et maçonnerie.
+
+**Le plan intérieur :** film ou bande pare-vapeur — empêche la migration de la vapeur depuis l’intérieur vers le joint, supprimant le risque de condensation interstitielle et de moisissure dans la structure du mur.
+
+## Le calcul économique : ce que cela coûte et ce que vous économisez
+
+**Coût indicatif d’un système nZEB complet (fenêtre 100 × 120 cm, pose comprise) :**
+
+| Composant | Coût indicatif |
+|---|---|
+| Profilé Salamander bluEvolution 92 | 1 100–1 400 lei |
+| Triple vitrage avec Warm Edge | compris dans le prix du profilé |
+| Précadre Blaugelb Triotherm+ | 250–350 lei l’unité |
+| Pose professionnelle avec bandes précomprimées | 300–450 lei |
+| **Total, fenêtre nZEB 100 × 120 cm** | **1 650–2 200 lei** |
+
+**Face à une fenêtre standard (double vitrage, sans précadre) :** 900–1 200 lei
+
+**Économie annuelle d’énergie (calcul pour un appartement de 80 m², 10 fenêtres) :**
+- Fenêtres standard : déperditions estimées à 2 800 kWh/an
+- Fenêtres nZEB complètes : déperditions estimées à 980 kWh/an
+- Écart : −1 820 kWh/an → une économie d’environ 550 à 700 lei/an aux prix actuels de l’énergie
+
+**Amortissement du surcoût** (une différence d’environ 7 000 lei pour 10 fenêtres) : 10 à 13 ans.
+
+Au-delà de l’amortissement financier, le système nZEB améliore nettement le confort thermique (plus de zones froides près des fenêtres, plus de condensation), réduit le bruit et maintient la valeur du bien conformément à la réglementation énergétique en vigueur.
+
+## La procédure de pose nZEB, étape par étape
+
+1. **Pose du précadre Blaugelb** — sur la structure du mur, dans le plan d’isolation
+2. **Application de la bande précomprimée** sur le pourtour du dormant
+3. **Fixation du dormant** sur le précadre — mis à niveau sur 3 axes avec des ancrages métalliques
+4. **Injection de la mousse polyuréthane** dans le plan médian
+5. **Application du film pare-vapeur** dans le plan intérieur
+6. **Mise en place du vitrage** et réglage de la quincaillerie Roto NT
+7. **Siliconage extérieur** au silicone neutre résistant aux UV
+8. **Pose des appuis** intérieurs (PVC) et extérieurs (aluminium avec goutte d’eau)
+
+Les détails de pose avec précadres Blaugelb Triotherm+ sont traités pas à pas ici : [pose avec précadres Blaugelb Triotherm+ — pourquoi elle est obligatoire](/fr/blog/precadres-blaugelb-triotherm-pose-nzeb).
+
+---
+Neofort BIZ pose des systèmes nZEB complets à Bucarest et dans l’Ilfov — profilé Salamander bluEvolution 92, précadres Blaugelb Triotherm+, triple vitrage Saint-Gobain, bandes précomprimées Illbruck. [Demander un devis technique](/fr/contact). Découvrez [les systèmes nZEB](/fr/systemes-nzeb) que nous proposons.
 
 ## Questions fréquentes
 
-### Qu'est-ce qu'un système de fenêtres nZEB complet, pas seulement un bon profilé ?
+### Que signifie un système de fenêtres nZEB complet, et non un simple bon profilé ?
 
-Un système nZEB signifie que chaque composant est choisi ensemble : profilé Salamander bluEvolution 92 (Uf 0,95 W/m²K), triple vitrage Saint-Gobain (Ug 0,5-0,6), intercalaire Warm Edge et précadre Blaugelb Triotherm+ pour l'étanchéité du périmètre. Un bon profilé sans pose correcte perd en performance.
+Un système nZEB signifie que chaque composant est choisi ensemble : profilé Salamander bluEvolution 92 (Uf 0,95 W/m²K), triple vitrage Saint-Gobain (Ug 0,5–0,6), intercalaire Warm Edge et précadre Blaugelb Triotherm+ pour l’étanchéité du pourtour. Un bon profilé mal posé perd sa performance.
 
 ### À quoi sert le précadre Blaugelb Triotherm+ ?
 
-Le précadre Blaugelb Triotherm+ résout le pont thermique au périmètre de la fenêtre — la zone de contact entre dormant et maçonnerie, qu'aucun profilé performant ne peut résoudre seul. Il s'installe dans le plan d'isolation du mur et coûte 250-350 lei la pièce.
+Le précadre Blaugelb Triotherm+ résout le pont thermique au pourtour de la fenêtre — la zone de contact entre dormant et maçonnerie, qu’aucun profilé performant ne peut traiter seul. Il se pose dans le plan d’isolation du mur et coûte 250 à 350 lei l’unité.
 
 ### Quel Ug atteint le triple vitrage Saint-Gobain pour le nZEB ?
 
-Le triple vitrage de 44 mm (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) atteint Ug = 0,5 W/(m²K) avec 90% d'argon, ou Ug = 0,6 avec 80% d'argon standard, et un facteur solaire g = 0,34 avec Low-E en position 2.
+Le vitrage triple de 44 mm (4 float / 16 argon / 4 Low-E / 16 argon / 4 float) atteint Ug = 0,5 W/(m²K) avec 90 % d’argon, ou Ug = 0,6 avec le standard de 80 %, et un facteur solaire g = 0,34 avec Low-E en face 2.
 
 ### Le profilé Salamander bluEvolution 92 contient-il du plomb ?
 
-Non. Le Salamander bluEvolution 92 utilise exclusivement des stabilisants Calcium-Zinc (Ca-Zn) depuis 2008, sans plomb ni cadmium. Il est certifié VinylPlus pour la recyclabilité et déclaré conforme au Règlement REACH (CE) n° 1907/2006.
+Non. Salamander bluEvolution 92 utilise exclusivement des stabilisants calcium-zinc (Ca-Zn) depuis 2008, sans plomb ni cadmium. Il est certifié VinylPlus pour la recyclabilité et déclaré conforme au règlement REACH (CE) n° 1907/2006.
 
 ---
 
-Neofort BIZ réalise des poses nZEB complètes, avec précadres Blaugelb Triotherm+ et triple vitrage, à Bucarest et dans l’Ilfov. [Transmettez-nous les détails du projet](/fr/contact) et recevez un devis sous 48 heures. Découvrez les [systèmes nZEB complets](/fr/systemes-nzeb).
-`,
-      es: `## ¿Qué es la norma nZEB y por qué importa para sus ventanas?
+Neofort BIZ réalise des poses nZEB complètes, avec précadres Blaugelb Triotherm+ et triple vitrage, à Bucarest et dans l’Ilfov. [Transmettez-nous les détails du projet](/fr/contact) et recevez un devis sous 48 heures. Découvrez les [systèmes nZEB complets](/fr/systemes-nzeb) que nous proposons.`,
+      es: `## Qué es el estándar nZEB y por qué importa para sus ventanas
 
-nZEB — Nearly Zero Energy Building — no es una certificación opcional. Es la norma obligatoria para todas las nuevas construcciones en Rumanía desde 2021, según la Directiva 2010/31/UE (EPBD). Un edificio nZEB debe alcanzar un consumo de energía primaria ≤ 100 kWh/m²/año. Las ventanas representan el 15-25% de la superficie de la envolvente y son responsables del 25-35% de las pérdidas de calor.
+nZEB — Nearly Zero Energy Building — no es una marca ni una certificación opcional. Es el estándar obligatorio para toda construcción nueva en Rumanía desde 2021, conforme a la Directiva 2010/31/UE sobre eficiencia energética de los edificios (EPBD) y a su transposición mediante la Ley 372/2005 modificada.
 
-## Componente 1 — Perfil Salamander bluEvolution 92
+En concreto, un edificio nZEB debe alcanzar un consumo de energía primaria ≤ 100 kWh/m²/año. Las ventanas pesan directamente en ese balance — suponen de media el 15–25 % de la superficie de la envolvente de una vivienda y son responsables del 25–35 % de las pérdidas de calor en una construcción convencional.
 
-- 6 cámaras, 92 mm de profundidad, paredes 3,0 mm (Clase A según EN 12608), 3 juntas EPDM
-- Uf = 0,95 W/(m²K) (certificado IFT Rosenheim)
-- Exclusivamente estabilizadores Ca-Zn desde 2008 — sin plomo, sin cadmio, conforme REACH
+Un sistema de ventanas nZEB no significa solo un buen perfil. Significa un sistema integrado en el que cada componente se elige e instala para minimizar las pérdidas térmicas en el hueco — desde el perfil mismo hasta el vidrio aislante, el separador dentro del acristalamiento y el sellado del perímetro frente a la fábrica.
 
-## Componente 2 — Triple acristalamiento Saint-Gobain SGG
+## Componente 1 — El perfil Salamander bluEvolution 92
 
-**Estructura del paquete:** 4 mm / 16 mm Argón / 4 mm Low-E / 16 mm Argón / 4 mm — total 44 mm
+Salamander bluEvolution 92 es el perfil de referencia para construcciones nZEB del catálogo de Neofort BIZ. Las características técnicas relevantes para el balance energético:
 
-- Ug = 0,5 W/(m²K) con argón 90%
-- Factor solar g = 0,34 — transmitancia luminosa TL = 70%
-- **Separador Warm Edge:** λ = 0,15-0,2 W/mK — reduce el puente térmico marginal un 75-85%
+**Geometría del perfil:**
+- 6 cámaras de aire (5 cámaras principales más 1 cámara central de refuerzo)
+- Profundidad constructiva: 92 mm
+- Espesor de las paredes exteriores: 3,0 mm (Clase A según EN 12608)
+- 3 juntas EPDM perimetrales
 
-**Uw para ventana completa (100×120 cm): 0,72 W/(m²K)** — 49% menos pérdidas que con doble acristalamiento (Uw = 1,4)
+**Prestación térmica:**
+- Coeficiente de transferencia térmica del perfil: Uf = 0,95 W/(m²K) (valor certificado por IFT Rosenheim)
+- Clase de permeabilidad al aire: Clase 4 (EN 12207) — el máximo posible
+- Clase de estanqueidad al agua: Clase E1500 (EN 12208)
+- Resistencia al viento: Clase C5 (EN 12210)
 
-## Componente 3 — Premarcos Blaugelb Triotherm+
+**Composición química:**
+- Estabilizantes: exclusivamente calcio-zinc (Ca-Zn) desde 2008 — sin plomo, sin cadmio
+- Certificado VinylPlus de reciclabilidad
+- Declarado conforme al Reglamento REACH (CE) n.º 1907/2006
 
-El premarco se monta antes de la ventana, en el plano de aislamiento térmico del muro. Su material compuesto tiene λ = 0,035 W/mK:
-- Reduce el puente térmico lineal ψ de 0,08 a 0,01 W/mK
-- Certificado PassivHaus Institut (PHI)
+**Herrajes incluidos de serie:**
+- Roto NT o equivalente — ajuste en 3 ejes
+- Antirrobo RC2 disponible como opción
 
-## Componente 4 — Sellado perimetral
+## Componente 2 — El triple vidrio aislante Saint-Gobain SGG
 
-Tres zonas según norma RAL:
-- **Exterior:** Banda precomprimida de butilo (Illbruck TP600) — estanca ≥ 600 Pa, 20-25 años de durabilidad
-- **Media:** Espuma PU — aislamiento térmico y acústico
-- **Interior:** Lámina barrera de vapor — previene condensación en la estructura del muro
+El acristalamiento es el componente de mayor impacto sobre el coeficiente Ug (transferencia térmica del vidrio). La especificación del sistema nZEB:
 
-## Cálculo económico
+**Estructura del acristalamiento:** 4 mm float / 16 mm argón / 4 mm float Low-E / 16 mm argón / 4 mm float — 44 mm en total
 
-**Coste orientativo sistema nZEB completo (100×120 cm, instalación incluida): 330-440 €**
+**Parámetros técnicos:**
+- Ug = 0,5 W/(m²K) con argón al 90 % de concentración
+- Ug = 0,6 W/(m²K) con argón al 80 % (estándar)
+- Factor solar g = 0,34 (Low-E en cara 2)
+- Transmitancia luminosa TL = 70 %
+- Atenuación acústica Rw = 34–36 dB
 
-**Ahorro energético anual (apartamento 80 m², 10 ventanas):**
-- Ventanas estándar: ~2.800 kWh/año de pérdidas
-- Ventanas nZEB completas: ~980 kWh/año
-- Ahorro: −1.820 kWh/año → 110-140 €/año
-- Periodo de amortización: 10-13 años
+**El separador Warm Edge:**
+El separador estándar de aluminio tiene una conductividad térmica de λ = 160 W/mK — genera un puente térmico visible como una línea de condensación en el borde interior del vidrio en la estación fría. El separador Warm Edge (TGI, Swisspacer, Thermix) tiene λ = 0,15–0,2 W/mK — reduce el puente térmico entre un 75 y un 85 % y elimina la condensación de borde.
+
+**Cálculo del Uw para la ventana completa (100 × 120 cm):**
+
+| Componente | Valor | Peso |
+|---|---|---|
+| Uf (perfil) | 0,95 W/(m²K) | en torno al 30 % de la superficie |
+| Ug (triple vidrio con argón) | 0,5 W/(m²K) | en torno al 65 % de la superficie |
+| Ψg (separador Warm Edge) | 0,030 W/mK | perímetro |
+| **Uw resultante** | **0,72 W/(m²K)** | — |
+
+Frente al Uw = 1,4 W/(m²K) de una ventana estándar con doble acristalamiento, la reducción de pérdidas por la ventana es del 49 %.
+
+## Componente 3 — Los premarcos Blaugelb Triotherm+
+
+El premarco Blaugelb Triotherm+ resuelve el problema que ningún perfil de altas prestaciones puede resolver por sí solo: el puente térmico en el perímetro de la ventana — la zona de contacto entre el marco y la fábrica.
+
+**Por qué aparece el puente térmico perimetral:**
+El marco de la ventana, por muy bueno que sea el perfil, entra en contacto directo con la fábrica — un material con una conductividad térmica muy superior a la del aire de las cámaras del perfil. A una temperatura exterior de −15 °C, la temperatura de la superficie interior del marco en contacto con la fábrica baja del punto de rocío → condensación → moho.
+
+**Cómo funciona el premarco Blaugelb:**
+El premarco se instala antes que la ventana, en el plano de aislamiento térmico del muro. El material compuesto del premarco tiene una conductividad térmica de λ = 0,035 W/mK — comparable a la lana mineral. La ventana se monta después sobre el premarco, que:
+1. Aísla térmicamente el contacto marco-fábrica
+2. Permite instalar la ventana en el plano del aislamiento (requisito de Casa Pasiva)
+3. Crea una superficie de montaje nivelada y normalizada, independiente de la calidad de la fábrica
+
+**Las prestaciones del premarco Triotherm+:**
+- Certificación del PassivHaus Institut (PHI) para uso en casas pasivas
+- Elimina el puente térmico lineal ψ (psi) del perímetro de la ventana: de ψ = 0,08 W/mK (sin premarco) a ψ = 0,01 W/mK (con premarco)
+- Mejora del Uw efectivo: −0,05 a −0,12 W/(m²K) frente al montaje directo en la fábrica
+
+## Componente 4 — El sellado del perímetro (cinta precomprimida)
+
+La normativa RAL para el montaje profesional de ventanas define 3 planos de sellado:
+
+**El plano exterior:** cinta precomprimida de butilo (Illbruck TP600, blaugelb TrioSDL) — resistente al agua (≥ 600 Pa), a los UV y a las variaciones de temperatura. Se aplica al perfil antes del montaje y se expande tras la instalación. Durabilidad: 20–25 años.
+
+**El plano medio:** espuma de poliuretano de celda semiabierta — proporciona el aislamiento térmico y acústico del espacio entre marco y fábrica.
+
+**El plano interior:** lámina o cinta barrera de vapor — impide la migración del vapor desde el interior hacia la junta, eliminando el riesgo de condensación intersticial y de moho en la estructura del muro.
+
+## El cálculo económico: cuánto cuesta y cuánto ahorra
+
+**Coste orientativo de un sistema nZEB completo (ventana 100 × 120 cm, instalación incluida):**
+
+| Componente | Coste orientativo |
+|---|---|
+| Perfil Salamander bluEvolution 92 | 1.100–1.400 lei |
+| Triple vidrio con Warm Edge | incluido en el precio del perfil |
+| Premarco Blaugelb Triotherm+ | 250–350 lei la unidad |
+| Instalación profesional con cintas precomprimidas | 300–450 lei |
+| **Total, ventana nZEB de 100 × 120 cm** | **1.650–2.200 lei** |
+
+**Frente a una ventana estándar (doble acristalamiento, sin premarco):** 900–1.200 lei
+
+**Ahorro anual de energía (cálculo para un piso de 80 m², 10 ventanas):**
+- Ventanas estándar: pérdidas térmicas estimadas en 2.800 kWh/año
+- Ventanas nZEB completas: pérdidas térmicas estimadas en 980 kWh/año
+- Diferencia: −1.820 kWh/año → un ahorro de unos 550–700 lei/año a los precios actuales de la energía
+
+**Amortización de la inversión adicional** (una diferencia de unos 7.000 lei para 10 ventanas): 10–13 años.
+
+Más allá de la amortización financiera, el sistema nZEB mejora notablemente el confort térmico (sin zonas frías junto a las ventanas, sin condensación), reduce el ruido y mantiene el valor del inmueble conforme a la normativa energética vigente.
+
+## El procedimiento de montaje nZEB paso a paso
+
+1. **Instalación del premarco Blaugelb** — en la estructura del muro, en el plano del aislamiento
+2. **Aplicación de la cinta precomprimida** en el perímetro del marco
+3. **Montaje del marco** sobre el premarco — nivelado en 3 ejes con anclajes metálicos
+4. **Inyección de la espuma de poliuretano** en el plano medio
+5. **Aplicación de la lámina barrera de vapor** en el plano interior
+6. **Colocación del acristalamiento** y ajuste de los herrajes Roto NT
+7. **Sellado exterior** con silicona neutra resistente a los UV
+8. **Montaje de los vierteaguas** interiores (PVC) y exteriores (aluminio con goterón)
+
+Los detalles de montaje con premarcos Blaugelb Triotherm+ se tratan paso a paso aquí: [instalación con premarcos Blaugelb Triotherm+ — por qué es obligatoria](/es/blog/instalacion-premarcos-blaugelb-triotherm-nzeb).
 
 ---
-Neofort BIZ instala sistemas nZEB completos en Bucarest e Ilfov — Salamander bluEvolution 92, premarcos Blaugelb Triotherm+, triple acristalamiento Saint-Gobain, bandas Illbruck. [Solicitar presupuesto técnico](/es/contacto). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.
+Neofort BIZ instala sistemas nZEB completos en Bucarest e Ilfov — perfil Salamander bluEvolution 92, premarcos Blaugelb Triotherm+, triple vidrio Saint-Gobain, cintas precomprimidas Illbruck. [Solicite un presupuesto técnico](/es/contacto). Vea [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.
 
 ## Preguntas frecuentes
 
-### ¿Qué es un sistema de ventanas nZEB completo, no solo un buen perfil?
+### ¿Qué significa un sistema de ventanas nZEB completo, y no solo un buen perfil?
 
-Un sistema nZEB significa que cada componente se elige en conjunto: perfil Salamander bluEvolution 92 (Uf 0,95 W/m²K), triple vidrio Saint-Gobain (Ug 0,5-0,6), separador Warm Edge y premarco Blaugelb Triotherm+ para el sellado del perímetro. Un buen perfil sin instalación correcta pierde rendimiento.
+Un sistema nZEB significa que cada componente se elige en conjunto: perfil Salamander bluEvolution 92 (Uf 0,95 W/m²K), triple vidrio Saint-Gobain (Ug 0,5–0,6), separador Warm Edge y premarco Blaugelb Triotherm+ para el sellado del perímetro. Un buen perfil mal instalado pierde sus prestaciones.
 
 ### ¿Para qué sirve el premarco Blaugelb Triotherm+?
 
-El premarco Blaugelb Triotherm+ resuelve el puente térmico en el perímetro de la ventana — la zona de contacto entre marco y muro, que ningún perfil de alto rendimiento puede resolver por sí solo. Se instala en el plano de aislamiento del muro y cuesta 250-350 lei por pieza.
+El premarco Blaugelb Triotherm+ resuelve el puente térmico del perímetro de la ventana — la zona de contacto entre marco y fábrica, que ningún perfil de altas prestaciones puede resolver por sí solo. Se instala en el plano de aislamiento del muro y cuesta 250–350 lei la unidad.
 
-### ¿Qué valor Ug alcanza el triple vidrio Saint-Gobain para nZEB?
+### ¿Qué Ug alcanza el triple vidrio Saint-Gobain para nZEB?
 
-El triple vidrio de 44 mm (4 Float / 16 Argón / 4 Low-E / 16 Argón / 4 Float) alcanza Ug = 0,5 W/(m²K) con argón al 90%, o Ug = 0,6 con argón estándar al 80%, y un factor solar g = 0,34 con Low-E en posición 2.
+El acristalamiento triple de 44 mm (4 float / 16 argón / 4 Low-E / 16 argón / 4 float) alcanza Ug = 0,5 W/(m²K) con argón al 90 %, o Ug = 0,6 con el estándar del 80 %, y un factor solar g = 0,34 con Low-E en cara 2.
 
 ### ¿El perfil Salamander bluEvolution 92 contiene plomo?
 
-No. El Salamander bluEvolution 92 usa exclusivamente estabilizantes Calcio-Zinc (Ca-Zn) desde 2008, sin plomo ni cadmio. Está certificado VinylPlus para reciclabilidad y declarado conforme al Reglamento REACH (CE) n.º 1907/2006.
+No. Salamander bluEvolution 92 emplea exclusivamente estabilizantes de calcio-zinc (Ca-Zn) desde 2008, sin plomo ni cadmio. Está certificado VinylPlus de reciclabilidad y declarado conforme al Reglamento REACH (CE) n.º 1907/2006.
 
 ---
 
-Neofort BIZ ejecuta instalaciones nZEB completas, con premarcos Blaugelb Triotherm+ y triple acristalamiento, en Bucarest e Ilfov. [Envíenos los detalles del proyecto](/es/contacto) y recibirá un presupuesto en 48 horas. Vea los [sistemas nZEB completos](/es/sistemas-nzeb).
-`,
-      it: `## Cos'è lo standard nZEB e perché è importante per le vostre finestre?
+Neofort BIZ ejecuta instalaciones nZEB completas, con premarcos Blaugelb Triotherm+ y triple acristalamiento, en Bucarest e Ilfov. [Envíenos los detalles del proyecto](/es/contacto) y recibirá un presupuesto en 48 horas. Vea los [sistemas nZEB completos](/es/sistemas-nzeb) que ofrecemos.`,
+      it: `## Che cos’è lo standard nZEB e perché conta per le vostre finestre
 
-nZEB — Nearly Zero Energy Building — non è una certificazione opzionale. È lo standard obbligatorio per tutte le nuove costruzioni in Romania dal 2021, ai sensi della Direttiva 2010/31/UE (EPBD). Un edificio nZEB deve raggiungere un consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre rappresentano il 15-25% della superficie dell'involucro e sono responsabili del 25-35% delle dispersioni di calore.
+nZEB — Nearly Zero Energy Building — non è un marchio né una certificazione facoltativa. È lo standard obbligatorio per tutte le nuove costruzioni in Romania dal 2021, in applicazione della Direttiva 2010/31/UE sulla prestazione energetica nell’edilizia (EPBD) e del suo recepimento con la Legge 372/2005 e successive modifiche.
 
-## Componente 1 — Profilo Salamander bluEvolution 92
+In concreto, un edificio nZEB deve raggiungere un consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre incidono direttamente su questo bilancio — rappresentano in media il 15–25 % della superficie dell’involucro di un’abitazione e sono responsabili del 25–35 % delle dispersioni termiche in una costruzione convenzionale.
 
-- 6 camere, 92 mm di profondità costruttiva, pareti 3,0 mm (Classe A secondo EN 12608), 3 guarnizioni EPDM
-- Uf = 0,95 W/(m²K) (certificato IFT Rosenheim)
-- Esclusivamente stabilizzanti Ca-Zn dal 2008 — senza piombo, senza cadmio, conforme REACH
+Un sistema di finestre nZEB non significa soltanto un buon profilo. Significa un sistema integrato in cui ogni componente è scelto e posato per ridurre al minimo le dispersioni in corrispondenza del vano — dal profilo stesso alla vetrocamera, al distanziale interno al pacchetto vetrato, fino alla sigillatura del perimetro verso la muratura.
 
-## Componente 2 — Triplo vetro Saint-Gobain SGG
+## Componente 1 — Il profilo Salamander bluEvolution 92
 
-**Struttura del pacchetto:** 4 mm / 16 mm Argon / 4 mm Low-E / 16 mm Argon / 4 mm — totale 44 mm
+Salamander bluEvolution 92 è il profilo di riferimento per le costruzioni nZEB nel portafoglio di Neofort BIZ. Le caratteristiche tecniche rilevanti per il bilancio energetico:
 
-- Ug = 0,5 W/(m²K) con argon 90%
-- Fattore solare g = 0,34 — trasmittanza luminosa TL = 70%
-- **Distanziale Warm Edge:** λ = 0,15-0,2 W/mK — riduce il ponte termico marginale del 75-85%
+**Geometria del profilo:**
+- 6 camere d’aria (5 camere principali più 1 camera centrale di rinforzo)
+- Profondità costruttiva: 92 mm
+- Spessore delle pareti esterne: 3,0 mm (Classe A secondo EN 12608)
+- 3 guarnizioni EPDM perimetrali
 
-**Uw per finestra completa (100×120 cm): 0,72 W/(m²K)** — 49% meno dispersioni rispetto al doppio vetro (Uw = 1,4)
+**Prestazione termica:**
+- Coefficiente di trasmittanza del profilo: Uf = 0,95 W/(m²K) (valore certificato IFT Rosenheim)
+- Classe di permeabilità all’aria: Classe 4 (EN 12207) — il massimo possibile
+- Classe di tenuta all’acqua: Classe E1500 (EN 12208)
+- Resistenza al vento: Classe C5 (EN 12210)
 
-## Componente 3 — Controtelai Blaugelb Triotherm+
+**Composizione chimica:**
+- Stabilizzanti: esclusivamente calcio-zinco (Ca-Zn) dal 2008 — senza piombo, senza cadmio
+- Certificato VinylPlus per la riciclabilità
+- Dichiarato conforme al Regolamento REACH (CE) n. 1907/2006
 
-La precornice viene montata prima della finestra, nel piano di isolamento termico del muro. Il suo materiale composito ha λ = 0,035 W/mK:
-- Riduce il ponte termico lineare ψ da 0,08 a 0,01 W/mK
-- Certificato PassivHaus Institut (PHI)
+**Ferramenta di serie:**
+- Roto NT o equivalente — regolazione su 3 assi
+- Antieffrazione RC2 disponibile come opzione
 
-## Componente 4 — Sigillatura perimetrale
+## Componente 2 — La vetrocamera tripla Saint-Gobain SGG
 
-Tre zone secondo la norma RAL:
-- **Esterno:** Nastro precompresso in butile (Illbruck TP600) — impermeabile ≥ 600 Pa, 20-25 anni di durabilità
-- **Medio:** Schiuma PU — isolamento termico e acustico
-- **Interno:** Film barriera vapore — previene condensazione nella struttura del muro
+Il pacchetto vetrato è la componente con il maggiore impatto sul coefficiente Ug (trasmittanza del vetro). La specifica per il sistema nZEB:
 
-## Calcolo economico
+**Struttura del pacchetto:** 4 mm float / 16 mm argon / 4 mm float Low-E / 16 mm argon / 4 mm float — 44 mm in totale
 
-**Costo indicativo sistema nZEB completo (100×120 cm, installazione inclusa): 330-440 €**
+**Parametri tecnici:**
+- Ug = 0,5 W/(m²K) con argon al 90 % di concentrazione
+- Ug = 0,6 W/(m²K) con argon all’80 % (standard)
+- Fattore solare g = 0,34 (Low-E in posizione 2)
+- Trasmissione luminosa TL = 70 %
+- Attenuazione acustica Rw = 34–36 dB
 
-**Risparmio energetico annuo (appartamento 80 m², 10 finestre):**
-- Finestre standard: ~2.800 kWh/anno di dispersioni
-- Finestre nZEB complete: ~980 kWh/anno
-- Risparmio: −1.820 kWh/anno → 110-140 €/anno
-- Periodo di ammortamento: 10-13 anni
+**Il distanziale Warm Edge:**
+Il distanziale standard in alluminio ha una conducibilità termica di λ = 160 W/mK — genera un ponte termico visibile come una riga di condensa sul bordo interno del vetro nella stagione fredda. Il distanziale Warm Edge (TGI, Swisspacer, Thermix) ha λ = 0,15–0,2 W/mK — riduce il ponte termico del 75–85 % ed elimina la condensa perimetrale.
+
+**Calcolo dell’Uw per la finestra completa (100 × 120 cm):**
+
+| Componente | Valore | Incidenza |
+|---|---|---|
+| Uf (profilo) | 0,95 W/(m²K) | circa il 30 % della superficie |
+| Ug (triplo vetro con argon) | 0,5 W/(m²K) | circa il 65 % della superficie |
+| Ψg (distanziale Warm Edge) | 0,030 W/mK | perimetro |
+| **Uw risultante** | **0,72 W/(m²K)** | — |
+
+Rispetto all’Uw = 1,4 W/(m²K) di una finestra standard con doppio vetro, la riduzione delle dispersioni attraverso la finestra è del 49 %.
+
+## Componente 3 — I controtelai Blaugelb Triotherm+
+
+Il controtelaio Blaugelb Triotherm+ risolve il problema che nessun profilo performante può risolvere da solo: il ponte termico sul perimetro della finestra — la zona di contatto tra telaio e muratura.
+
+**Perché nasce il ponte termico perimetrale:**
+Il telaio della finestra, per quanto performante sia il profilo, entra in contatto diretto con la muratura — un materiale con conducibilità termica ben più alta dell’aria nelle camere del profilo. A una temperatura esterna di −15 °C, la temperatura della superficie interna del telaio a contatto con la muratura scende sotto il punto di rugiada → condensa → muffa.
+
+**Come funziona il controtelaio Blaugelb:**
+Il controtelaio si posa prima della finestra vera e propria, nel piano di isolamento termico della parete. Il materiale composito del controtelaio ha una conducibilità termica di λ = 0,035 W/mK — paragonabile alla lana minerale. La finestra viene poi fissata sul controtelaio, che:
+1. Isola termicamente il contatto telaio-muratura
+2. Consente di posare la finestra nel piano dell’isolamento (requisito Casa Passiva)
+3. Crea una superficie di posa livellata e standardizzata, indipendente dalla qualità della muratura
+
+**Le prestazioni del controtelaio Triotherm+:**
+- Certificazione PassivHaus Institut (PHI) per l’impiego nelle case passive
+- Elimina il ponte termico lineare ψ (psi) sul perimetro della finestra: da ψ = 0,08 W/mK (senza controtelaio) a ψ = 0,01 W/mK (con controtelaio)
+- Miglioramento dell’Uw effettivo: da −0,05 a −0,12 W/(m²K) rispetto alla posa diretta nella muratura
+
+## Componente 4 — La sigillatura del perimetro (nastro precompresso)
+
+Il regolamento RAL per la posa professionale dei serramenti definisce 3 piani di tenuta:
+
+**Il piano esterno:** nastro precompresso in butile (Illbruck TP600, blaugelb TrioSDL) — resistente all’acqua (≥ 600 Pa), ai raggi UV e alle escursioni termiche. Si applica sul profilo prima della posa e si espande dopo l’installazione. Durata: 20–25 anni.
+
+**Il piano intermedio:** schiuma poliuretanica a celle semiaperte — assicura l’isolamento termico e acustico dello spazio tra telaio e muratura.
+
+**Il piano interno:** pellicola o nastro freno al vapore — impedisce la migrazione del vapore dall’interno verso il giunto, eliminando il rischio di condensa interstiziale e di muffa nella struttura della parete.
+
+## Il calcolo economico: quanto costa e quanto si risparmia
+
+**Costo indicativo di un sistema nZEB completo (finestra 100 × 120 cm, posa inclusa):**
+
+| Componente | Costo indicativo |
+|---|---|
+| Profilo Salamander bluEvolution 92 | 1.100–1.400 lei |
+| Triplo vetro con Warm Edge | compreso nel prezzo del profilo |
+| Controtelaio Blaugelb Triotherm+ | 250–350 lei cadauno |
+| Posa professionale con nastri precompressi | 300–450 lei |
+| **Totale, finestra nZEB da 100 × 120 cm** | **1.650–2.200 lei** |
+
+**Rispetto a una finestra standard (doppio vetro, senza controtelaio):** 900–1.200 lei
+
+**Risparmio energetico annuo (calcolo per un appartamento di 80 m², 10 finestre):**
+- Finestre standard: dispersioni stimate in 2.800 kWh/anno
+- Finestre nZEB complete: dispersioni stimate in 980 kWh/anno
+- Differenza: −1.820 kWh/anno → un risparmio di circa 550–700 lei/anno ai prezzi attuali dell’energia
+
+**Ammortamento del sovracosto** (una differenza di circa 7.000 lei per 10 finestre): 10–13 anni.
+
+Oltre all’ammortamento finanziario, il sistema nZEB migliora nettamente il comfort termico (niente zone fredde accanto alle finestre, niente condensa), riduce il rumore e mantiene il valore dell’immobile in linea con le norme energetiche vigenti.
+
+## La procedura di posa nZEB passo per passo
+
+1. **Posa del controtelaio Blaugelb** — sulla struttura della parete, nel piano dell’isolamento
+2. **Applicazione del nastro precompresso** sul perimetro del telaio
+3. **Fissaggio del telaio** sul controtelaio — livellato su 3 assi con ancoraggi metallici
+4. **Iniezione della schiuma poliuretanica** nel piano intermedio
+5. **Applicazione della pellicola freno al vapore** nel piano interno
+6. **Inserimento del pacchetto vetrato** e regolazione della ferramenta Roto NT
+7. **Siliconatura esterna** con silicone neutro resistente ai raggi UV
+8. **Montaggio dei davanzali** interni (PVC) ed esterni (alluminio con gocciolatoio)
+
+I dettagli di posa con controtelai Blaugelb Triotherm+ sono trattati passo per passo qui: [posa con controtelai Blaugelb Triotherm+ — perché è obbligatoria](/it/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb).
 
 ---
-Neofort BIZ installa sistemi nZEB completi a Bucarest e Ilfov — Salamander bluEvolution 92, controtelai Blaugelb Triotherm+, triplo vetro Saint-Gobain, nastri Illbruck. [Richiedere preventivo tecnico](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
+Neofort BIZ posa sistemi nZEB completi a Bucarest e nell’Ilfov — profilo Salamander bluEvolution 92, controtelai Blaugelb Triotherm+, triplo vetro Saint-Gobain, nastri precompressi Illbruck. [Richiedete un preventivo tecnico](/it/contatti). Scoprite [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
 
 ## Domande frequenti
 
-### Cos'è un sistema di finestre nZEB completo, non solo un buon profilo?
+### Che cosa significa un sistema di finestre nZEB completo, e non solo un buon profilo?
 
-Un sistema nZEB significa che ogni componente è scelto insieme: profilo Salamander bluEvolution 92 (Uf 0,95 W/m²K), triplo vetro Saint-Gobain (Ug 0,5-0,6), distanziatore Warm Edge e controtelaio Blaugelb Triotherm+ per la sigillatura del perimetro. Un buon profilo senza posa corretta perde prestazioni.
+Un sistema nZEB significa che ogni componente viene scelto insieme: profilo Salamander bluEvolution 92 (Uf 0,95 W/m²K), triplo vetro Saint-Gobain (Ug 0,5–0,6), distanziale Warm Edge e controtelaio Blaugelb Triotherm+ per la sigillatura del perimetro. Un buon profilo posato male perde le sue prestazioni.
 
-### A cosa serve il controtelaio Blaugelb Triotherm+?
+### A che cosa serve il controtelaio Blaugelb Triotherm+?
 
-Il controtelaio Blaugelb Triotherm+ risolve il ponte termico al perimetro della finestra — la zona di contatto tra telaio e muratura, che nessun profilo performante può risolvere da solo. Si installa nel piano di isolamento della parete e costa 250-350 lei a pezzo.
+Il controtelaio Blaugelb Triotherm+ risolve il ponte termico sul perimetro della finestra — la zona di contatto tra telaio e muratura, che nessun profilo performante può risolvere da solo. Si posa nel piano di isolamento della parete e costa 250–350 lei cadauno.
 
-### Quale valore Ug raggiunge il triplo vetro Saint-Gobain per nZEB?
+### Quale Ug raggiunge il triplo vetro Saint-Gobain per lo nZEB?
 
-Il triplo vetro da 44 mm (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) raggiunge Ug = 0,5 W/(m²K) con argon al 90%, o Ug = 0,6 con argon standard all'80%, e un fattore solare g = 0,34 con Low-E in posizione 2.
+Il pacchetto triplo da 44 mm (4 float / 16 argon / 4 Low-E / 16 argon / 4 float) raggiunge Ug = 0,5 W/(m²K) con argon al 90 %, oppure Ug = 0,6 con lo standard all’80 %, e un fattore solare g = 0,34 con Low-E in posizione 2.
 
 ### Il profilo Salamander bluEvolution 92 contiene piombo?
 
-No. Il Salamander bluEvolution 92 usa esclusivamente stabilizzanti Calcio-Zinco (Ca-Zn) dal 2008, senza piombo né cadmio. È certificato VinylPlus per la riciclabilità e dichiarato conforme al Regolamento REACH (CE) n. 1907/2006.
+No. Salamander bluEvolution 92 impiega esclusivamente stabilizzanti calcio-zinco (Ca-Zn) dal 2008, senza piombo e senza cadmio. È certificato VinylPlus per la riciclabilità e dichiarato conforme al Regolamento REACH (CE) n. 1907/2006.
 
 ---
 
-Neofort BIZ realizza pose nZEB complete, con controtelai Blaugelb Triotherm+ e triplo vetro, a Bucarest e nell’Ilfov. [Inviateci i dettagli del progetto](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite i [sistemi nZEB completi](/it/sistemi-nzeb).
-`,
+Neofort BIZ realizza pose nZEB complete, con controtelai Blaugelb Triotherm+ e triplo vetro, a Bucarest e nell’Ilfov. [Inviateci i dettagli del progetto](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite i [sistemi nZEB completi](/it/sistemi-nzeb) che offriamo.`,
     },
   },
 
