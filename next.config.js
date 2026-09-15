@@ -245,6 +245,26 @@ const nextConfig = {
       { source: '/de/produse-aluminiu/systeme-aluminium-alumil-s77-supreme', destination: '/de/produkte-alu/alumil-s77-supreme-aluminiumsystem', permanent: true },
       { source: '/sisteme-nzeb', destination: '/ro/sisteme-nzeb', permanent: true },
       { source: '/produse-aluminiu', destination: '/ro/tamplarie-aluminiu', permanent: true },
+
+      // v251 — din Coverage Drilldown 15 sep 2026. Singurele URL-uri raportate de Google
+      // care NU aveau deja redirect in v196. Toate au fost accesate cu crawlere in iulie,
+      // deci DUPA fixul din v196: sunt probleme reale, nu date istorice.
+      //
+      // Prefix dublu de limba: /xx/de/blog/... Nu e generat de codul actual (verificat in
+      // sitemap.js, feed.xml, llms-full.txt, blog.js, componente) — sunt rute vechi pe care
+      // Google le recrawleaza. 301 ca sa consolideze semnalul in loc sa lase 404.
+      { source: '/ro/de/blog/categorie/proiecte', destination: '/ro/blog/categorie/proiecte', permanent: true },
+      { source: '/en/de/blog/categorie/proiecte', destination: '/en/blog/category/projects', permanent: true },
+      { source: '/fr/de/blog/categorie/proiecte', destination: '/fr/blog/categorie/projets', permanent: true },
+      // Oras netradus: bucuresti in loc de bucarest pe pagina franceza
+      { source: '/fr/menuiserie-aluminium/bucuresti', destination: '/fr/menuiserie-aluminium/bucarest', permanent: true },
+      // Slug romanesc de blog pe prefix italian
+      { source: '/it/blog/zipscreen-umbrire-terasa-ghid-complet', destination: '/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa', permanent: true },
+      //
+      // NU se adauga redirect pentru /ro/blog/preturi-termopane-salamander-bucuresti/
+      // (slash final). trailingSlash nu e setat, deci Next.js foloseste implicit false si
+      // redirectioneaza deja /x/ → /x cu 308. Un redirect explicit ar avea sursa si
+      // destinatia identice dupa normalizare → bucla.
     ];
   },
   async headers() {
