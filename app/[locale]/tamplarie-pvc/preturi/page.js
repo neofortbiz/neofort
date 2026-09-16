@@ -272,12 +272,12 @@ export async function generateMetadata({ params }) {
   const slug = SLUGS[locale] || SLUGS.ro;
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
   return {
-    title: locale === 'ro' ? 'Prețuri Tâmplărie PVC 2026 — Profile Salamander BluEvolution & GreenEvolution | Neofort BIZ'
-         : locale === 'en' ? 'PVC Window Prices 2026 — Salamander BluEvolution & GreenEvolution Profiles | Neofort BIZ'
-         : locale === 'de' ? 'Kunststofffenster Preise 2026 — Salamander BluEvolution & GreenEvolution | Neofort BIZ'
-         : locale === 'fr' ? 'Prix Menuiserie PVC 2026 — Profilés Salamander BluEvolution & GreenEvolution | Neofort BIZ'
-         : locale === 'es' ? 'Precios Carpintería PVC 2026 — Perfiles Salamander BluEvolution & GreenEvolution | Neofort BIZ'
-         : 'Prezzi Infissi PVC 2026 — Profilati Salamander BluEvolution & GreenEvolution | Neofort BIZ',
+    title: locale === 'ro' ? 'Prețuri Tâmplărie PVC 2026 — de la 150 €/mp | Neofort BIZ'
+         : locale === 'en' ? 'PVC Window Prices 2026 — from 150 €/m² | Neofort BIZ'
+         : locale === 'de' ? 'Kunststofffenster Preise 2026 — ab 150 €/m² | Neofort BIZ'
+         : locale === 'fr' ? 'Prix Menuiserie PVC 2026 — dès 150 €/m² | Neofort BIZ'
+         : locale === 'es' ? 'Precios Carpintería PVC 2026 — desde 150 €/m² | Neofort BIZ'
+         : 'Prezzi Infissi PVC 2026 — da 150 €/m² | Neofort BIZ',
     description: locale === 'ro' ? 'Prețuri actualizate 2026 tâmplărie PVC: GreenEvolution 76 de la 150 EUR/mp, BluEvolution 92 de la 200 EUR/mp. Geam termopan, montaj nZEB București.'
                : locale === 'en' ? 'Updated 2026 PVC window prices: GreenEvolution 76 from 150 EUR/m², BluEvolution 92 from 200 EUR/m². Thermal glass, nZEB installation Bucharest.'
                : locale === 'de' ? 'Aktualisierte Preise 2026 PVC-Fenster: GreenEvolution 76 ab 150 EUR/m², BluEvolution 92 ab 200 EUR/m². Isolierglas, nZEB-Montage Bukarest.'

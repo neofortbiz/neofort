@@ -149,12 +149,12 @@ export async function generateMetadata({ params }) {
   const t = await getTranslations({ locale, namespace: 'aluminiu' });
   const slug = SLUGS_TAMPLARIE_ALUMINIU[locale] || SLUGS_TAMPLARIE_ALUMINIU.ro;
   return {
-    title: locale === 'ro' ? 'Tâmplărie Aluminiu Alumil București — Ofertă de Preț Rapidă | Neofort BIZ'
-           : locale === 'en' ? 'Aluminium Windows Alumil Bucharest — Fast Price Quote | Neofort BIZ'
-           : locale === 'de' ? 'Aluminiumfenster Alumil Bukarest — Schnelles Preisangebot | Neofort BIZ'
-           : locale === 'fr' ? 'Menuiserie Aluminium Alumil Bucarest — Devis Prix Rapide | Neofort BIZ'
-           : locale === 'es' ? 'Carpintería Aluminio Alumil Bucarest — Presupuesto Rápido | Neofort BIZ'
-           : 'Infissi Alluminio Alumil Bucarest — Preventivo Rapido | Neofort BIZ',
+    title: locale === 'ro' ? 'Tâmplărie Aluminiu Alumil București și Ilfov | Neofort BIZ'
+         : locale === 'en' ? 'Alumil Aluminium Windows — Bucharest & Ilfov | Neofort BIZ'
+         : locale === 'de' ? 'Alumil Aluminiumfenster — Bukarest und Ilfov | Neofort BIZ'
+         : locale === 'fr' ? 'Menuiserie Aluminium Alumil — Bucarest, Ilfov | Neofort BIZ'
+         : locale === 'es' ? 'Carpintería Aluminio Alumil — Bucarest e Ilfov | Neofort BIZ'
+         : 'Infissi Alluminio Alumil — Bucarest e Ilfov | Neofort BIZ',
     description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil în București — cere o ofertă de preț personalizată, cu răspuns rapid. Ferestre, uși, glisante și pereți cortină cu barieră termică. Montaj propriu, 21 ani experiență, 5.0★ din 52 recenzii.'
                : locale === 'en' ? 'Alumil aluminium windows in Bucharest — request a personalised price quote, answered fast. Windows, doors, sliding and curtain walls with thermal break. Own installation team, 21 years experience, 5.0★ from 52 reviews.'
                : locale === 'de' ? 'Alumil Aluminiumfenster in Bukarest — fordern Sie ein persönliches Preisangebot an, schnelle Antwort. Fenster, Türen, Schiebe- und Vorhangfassaden mit Wärmedämmbrücke. Eigene Montage, 21 Jahre Erfahrung, 5.0★ aus 52 Bewertungen.'

@@ -320,12 +320,12 @@ export async function generateMetadata({ params }) {
   const slug = SLUGS[locale] || SLUGS.ro;
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
   return {
-    title: locale === 'ro' ? 'Tâmplărie PVC București — Montaj Salamander BluEvolution & GreenEvolution | Neofort BIZ'
-         : locale === 'en' ? 'PVC Windows Bucharest — Salamander BluEvolution & GreenEvolution Installation | Neofort BIZ'
-         : locale === 'de' ? 'Kunststofffenster Bukarest — Salamander BluEvolution & GreenEvolution Montage | Neofort BIZ'
-         : locale === 'fr' ? 'Menuiserie PVC Bucarest — Pose Salamander BluEvolution & GreenEvolution | Neofort BIZ'
-         : locale === 'es' ? 'Carpintería PVC Bucarest — Instalación Salamander BluEvolution & GreenEvolution | Neofort BIZ'
-         : 'Infissi PVC Bucarest — Posa Salamander BluEvolution & GreenEvolution | Neofort BIZ',
+    title: locale === 'ro' ? 'Tâmplărie PVC București — Montaj Salamander | Neofort BIZ'
+         : locale === 'en' ? 'PVC Windows Bucharest — Salamander Fitting | Neofort BIZ'
+         : locale === 'de' ? 'PVC-Fenster Bukarest — Salamander Montage | Neofort BIZ'
+         : locale === 'fr' ? 'Menuiserie PVC Bucarest — Pose Salamander | Neofort BIZ'
+         : locale === 'es' ? 'Carpintería PVC Bucarest — Montaje Salamander | Neofort BIZ'
+         : 'Infissi PVC Bucarest — Posa Salamander | Neofort BIZ',
     description: locale === 'ro' ? 'Furnizare și montaj tâmplărie PVC Salamander în București — toate sectoarele și Ilfov. Măsurători la fața locului, montaj nZEB cu precadre Blaugelb, garanție 5 ani.'
                : locale === 'en' ? 'PVC Salamander window supply and installation in Bucharest — all districts and Ilfov. On-site measurements, nZEB installation with Blaugelb precasings, 5-year warranty.'
                : locale === 'de' ? 'Lieferung und Montage Salamander PVC-Fenster in Bukarest — alle Bezirke und Ilfov. Aufmaß nach Vertragsabschluss, nZEB-Montage mit Blaugelb-Vorfenstern, 5 Jahre Garantie.'

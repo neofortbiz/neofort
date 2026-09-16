@@ -272,12 +272,12 @@ export async function generateMetadata({ params }) {
   const slug = SLUGS[locale] || SLUGS.ro;
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
   return {
-    title: locale === 'ro' ? 'Prețuri Tâmplărie Aluminiu 2026 — Sisteme Alumil Supreme și Smartia | Neofort BIZ'
-         : locale === 'en' ? 'Aluminium Window Prices 2026 — Alumil Supreme and Smartia Systems | Neofort BIZ'
-         : locale === 'de' ? 'Aluminiumfenster Preise 2026 — Alumil Supreme und Smartia | Neofort BIZ'
-         : locale === 'fr' ? 'Prix Menuiserie Aluminium 2026 — Systèmes Alumil Supreme et Smartia | Neofort BIZ'
-         : locale === 'es' ? 'Precios Carpintería Aluminio 2026 — Sistemas Alumil Supreme y Smartia | Neofort BIZ'
-         : 'Prezzi Infissi Alluminio 2026 — Sistemi Alumil Supreme e Smartia | Neofort BIZ',
+    title: locale === 'ro' ? 'Prețuri Tâmplărie Aluminiu 2026: 250–500 €/mp | Neofort BIZ'
+         : locale === 'en' ? 'Aluminium Window Prices 2026: 250–500 €/m² | Neofort BIZ'
+         : locale === 'de' ? 'Aluminiumfenster Preise 2026: 250–500 €/m² | Neofort BIZ'
+         : locale === 'fr' ? 'Prix Menuiserie Aluminium 2026 : 250–500 €/m² | Neofort BIZ'
+         : locale === 'es' ? 'Precios Aluminio 2026: 250–500 €/m² | Neofort BIZ'
+         : 'Prezzi Infissi Alluminio 2026: 250–500 €/m² | Neofort BIZ',
     description: locale === 'ro' ? 'Prețuri tâmplărie aluminiu 2026: Alumil Smartia 250–350 EUR/mp, Supreme SF85 350–500 EUR/mp. Calcul gratuit, montaj nZEB inclus.'
                : locale === 'en' ? 'Updated 2026 aluminium window prices: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², sliding systems and curtain walls. nZEB installation Bucharest.'
                : locale === 'de' ? 'Aktualisierte Preise 2026 Aluminiumfenster: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², Schiebesysteme und Vorhangfassaden. nZEB-Montage Bukarest.'

@@ -320,12 +320,12 @@ export async function generateMetadata({ params }) {
   const slug = SLUGS[locale] || SLUGS.ro;
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
   return {
-    title: locale === 'ro' ? 'Tâmplărie Aluminiu București — Montaj Alumil Sectoarele 1–6, Ilfov | Neofort BIZ'
-         : locale === 'en' ? 'Aluminium Windows Bucharest — Alumil Installation Districts 1–6, Ilfov | Neofort BIZ'
-         : locale === 'de' ? 'Aluminiumfenster Bukarest — Alumil Montage Bezirke 1–6, Ilfov | Neofort BIZ'
-         : locale === 'fr' ? 'Menuiserie Aluminium Bucarest — Pose Alumil Arrondissements 1–6, Ilfov | Neofort BIZ'
-         : locale === 'es' ? 'Carpintería Aluminio Bucarest — Instalación Alumil Distritos 1–6, Ilfov | Neofort BIZ'
-         : 'Infissi Alluminio Bucarest — Posa Alumil Settori 1–6, Ilfov | Neofort BIZ',
+    title: locale === 'ro' ? 'Tâmplărie Aluminiu București — Sectoarele 1–6 | Neofort BIZ'
+         : locale === 'en' ? 'Aluminium Windows Bucharest — Districts 1–6 | Neofort BIZ'
+         : locale === 'de' ? 'Aluminiumfenster Bukarest — Bezirke 1–6, Ilfov | Neofort BIZ'
+         : locale === 'fr' ? 'Menuiserie Aluminium Bucarest — Secteurs 1–6 | Neofort BIZ'
+         : locale === 'es' ? 'Carpintería Aluminio Bucarest — Distritos 1–6 | Neofort BIZ'
+         : 'Infissi Alluminio Bucarest — Settori 1–6 | Neofort BIZ',
     description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil în București — montaj toate sectoarele și Ilfov. Echipe certificate nZEB, montaj garantat, livrare rapidă.'
                : locale === 'en' ? 'Alumil aluminium windows in Bucharest — installation in all districts and Ilfov. Own nZEB-certified teams, 5-year warranty. District 1, Voluntari, Pipera, Otopeni.'
                : locale === 'de' ? 'Alumil Aluminiumfenster in Bukarest — Montage in allen Bezirken und Ilfov. Eigene nZEB-zertifizierte Teams, 5 Jahre Garantie.'
