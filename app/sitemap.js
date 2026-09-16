@@ -26,7 +26,11 @@ const pages = [
   { key:'contact',   priority:0.8, freq:'monthly' },
   { key:'blog',      priority:0.7, freq:'weekly'  },
   { key:'despre',    priority:0.5, freq:'yearly'  },
-  { key:'gdpr',      priority:0.2, freq:'yearly'  },
+  // v252 — 'gdpr' scos din sitemap: paginile au robots { index:false, follow:false },
+  // deci le propuneam lui Google exact paginile pe care i le interziceam. Semnal
+  // contradictoriu. Paginile rămân accesibile și linkuite din footer, doar nu mai
+  // apar în sitemap. 'cookies' RĂMÂNE — acele pagini NU au noindex, deci nu există
+  // contradicție în cazul lor.
     { key:'cookies',    priority:0.2, freq:'yearly'  },
   { key:'umbrire',    priority:0.8, freq:'monthly' },
   { key:'nzeb',       priority:0.8, freq:'monthly' },
@@ -166,13 +170,10 @@ export default function sitemap() {
     });
   });
 
-  // llms.txt — pentru LLM crawlers
-  urls.push({
-    url: `${BASE}/llms.txt`,
-    lastModified: now,
-    priority: 0.9,
-    changeFrequency: 'monthly',
-  });
+  // v252 — llms.txt scos din sitemap. Nu e o pagină HTML indexabilă, ci un fișier
+  // text pentru crawlerele de LLM. Sitemap-ul e un semnal de indexare pentru Google;
+  // un fișier .txt nu se indexează ca pagină, deci ocupa un slot fără efect.
+  // Fișierul rămâne accesibil la /llms.txt și declarat în robots.txt.
 
   return urls;
 }

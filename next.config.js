@@ -260,6 +260,9 @@ const nextConfig = {
       { source: '/fr/menuiserie-aluminium/bucuresti', destination: '/fr/menuiserie-aluminium/bucarest', permanent: true },
       // Slug romanesc de blog pe prefix italian
       { source: '/it/blog/zipscreen-umbrire-terasa-ghid-complet', destination: '/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa', permanent: true },
+      // v252 — din exportul "crawl-uite si neindexate": slug german de blog fara prefix de limba.
+      // Singurul din cele 17 URL-uri invalide care nu avea deja redirect in v196.
+      { source: '/blog/roto-beschlag-winter-sommer-einstellen-inbusschluessel', destination: '/de/blog/roto-beschlag-winter-sommer-einstellen-inbusschluessel', permanent: true },
       //
       // NU se adauga redirect pentru /ro/blog/preturi-termopane-salamander-bucuresti/
       // (slash final). trailingSlash nu e setat, deci Next.js foloseste implicit false si
