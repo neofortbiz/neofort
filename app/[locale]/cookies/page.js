@@ -120,7 +120,11 @@ export async function generateMetadata({ params }) {
   return {
     title: ui.title_meta,
     description: ui.desc_meta,
-    robots: { index: true, follow: true },
+    // v253 — noindex la cererea lui Dan: pagina de politica de cookies nu trebuie
+    // indexata. Scoaterea din sitemap NU e suficienta (sitemap-ul e sugestie, nu
+    // interdictie, iar pagina e linkuita din footer pe tot site-ul), deci e nevoie
+    // si de noindex. Modelul e cel de pe pagina /gdpr.
+    robots: { index: false, follow: false },
     alternates: {
       canonical: `${BASE}/${locale}/${slug}`,
       languages: { ...Object.fromEntries(Object.entries(SLUGS).map(([l,s])=>[l,`${BASE}/${l}/${s}`])), 'x-default': `${BASE}/ro/cookies` },

@@ -4305,7 +4305,7 @@ Neofort BIZ posa serramenti in PVC Salamander con posa su tre piani di tenuta a 
       en: "nZEB system: Salamander 92 + Blaugelb",
       de: "nZEB-System: Salamander 92 + Blaugelb",
       fr: "Système nZEB : Salamander 92 + Blaugelb",
-      es: "Sistema nZEB: Salamander 92 + Blaugelb",
+      es: "Sistema nZEB completo: Salamander 92",
       it: "Sistema nZEB: Salamander 92 + Blaugelb",
     },
     date: '2026-04-10',
@@ -5483,7 +5483,7 @@ Salamander BluEvolution 92 windows installed in 2026 contain no lead, cadmium, m
 The PVC toxicity myth played a useful role in pressuring the industry to eliminate genuinely problematic compounds. That pressure worked. The myth survived the transformations it triggered — making it today not a useful warning, but a technically unsupported prejudice.
 
 ---
-Neofort BIZ supplies Salamander bluEvolution 92 profiles with REACH-certified Ca-Zn stabilisers. [Request a quote](/en/contact). Discover [the PVC windows range](/en/pvc-windows) we offer. See also [the Salamander bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-guide).
+Neofort BIZ supplies Salamander bluEvolution 92 profiles with REACH-certified Ca-Zn stabilisers. [Request a quote](/en/contact). Discover [the PVC windows range](/en/pvc-windows) we offer. See also [the Salamander bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).
 
 ## Frequently Asked Questions
 
@@ -8434,7 +8434,7 @@ The €140 difference is recovered in 3–5 years from energy bills — and abov
 
 ---
 
-Neofort BIZ offers Salamander windows (greenEvolution 76, bluEvolution 82, bluEvolution 92) with nZEB installation in Bucharest and Ilfov. Personalised quote in 48 hours — [request now](/en/contact). Discover [the PVC windows range](/en/pvc-windows) we offer. See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-guide).
+Neofort BIZ offers Salamander windows (greenEvolution 76, bluEvolution 82, bluEvolution 92) with nZEB installation in Bucharest and Ilfov. Personalised quote in 48 hours — [request now](/en/contact). Discover [the PVC windows range](/en/pvc-windows) we offer. See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).
 
 ## Frequently Asked Questions
 
@@ -9250,7 +9250,7 @@ Neofort BIZ installa pergole bioclimatiche e classiche, con automazione Somfy, a
   {
     slugs: {
       ro: 'bluevolution-92-vs-greenevolution-76',
-      en: 'bluevolution-92-vs-greenevolution-76-guide',
+      en: 'bluevolution-92-vs-greenevolution-76-comparison',
       de: 'bluevolution-92-vs-greenevolution-76-leitfaden',
       fr: 'bluevolution-92-vs-greenevolution-76-guide',
       es: 'bluevolution-92-vs-greenevolution-76-guia',
@@ -9258,11 +9258,11 @@ Neofort BIZ installa pergole bioclimatiche e classiche, con automazione Somfy, a
     },
     seoTitle: {
       ro: "BluEvolution 92 vs GreenEvolution 76",
-      en: "BluEvolution 92 vs GreenEvolution 76",
-      de: "BluEvolution 92 vs GreenEvolution 76",
-      fr: "BluEvolution 92 vs GreenEvolution 76",
-      es: "BluEvolution 92 vs GreenEvolution 76",
-      it: "BluEvolution 92 vs GreenEvolution 76",
+      en: "BluEvolution 92 or GreenEvolution 76",
+      de: "BluEvolution 92 oder GreenEvolution 76",
+      fr: "BluEvolution 92 ou GreenEvolution 76",
+      es: "BluEvolution 92 frente a GreenEvolution 76",
+      it: "BluEvolution 92 o GreenEvolution 76",
     },
     date: '2026-02-15',
     author: 'Mihai Dănălache',
@@ -15051,7 +15051,7 @@ BluEvolution 92, with 6 chambers and Uw 0.70 W/m²K, is the profile recommended 
 
 ---
 
-Neofort BIZ supplies Salamander systems for houses, apartments and export projects, installed by our own teams. Discover [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). All the details in [the full Salamander profile comparison](/en/blog/bluevolution-92-vs-greenevolution-76-guide).`,
+Neofort BIZ supplies Salamander systems for houses, apartments and export projects, installed by our own teams. Discover [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). All the details in [the full Salamander profile comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).`,
 
       de: `## Salamander Fensterpreise — Bukarest 2026
 
@@ -20449,7 +20449,7 @@ BluEvolution 92 offers sound insulation up to 47 dB, ensuring complete quiet eve
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). For the full context, read [the Salamander systems choice guide](/en/blog/bluevolution-92-vs-greenevolution-76-guide).`,
+Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). For the full context, read [the Salamander systems choice guide](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).`,
 
       de: `## Das Neofort BIZ Projekt — neues Haus im nordischen Stil, Berceni, Bukarest
 
@@ -26762,7 +26762,7 @@ For an inward-opening sash the practical limit is 90–100 cm wide and 240 cm hi
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details in [the full Salamander profile comparison](/en/blog/bluevolution-92-vs-greenevolution-76-guide).`,
+Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details in [the full Salamander profile comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).`,
 
       de: `## Was ist ein Dreh-Kipp-Doppelfenster und warum ist es in Bukarest so beliebt?
 
@@ -27328,7 +27328,7 @@ The evolutionDrive Plus+ runs on bearing rollers, so a sash of up to 200 kg move
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-guide).`,
+Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).`,
 
       de: `## Warum Schiebetüren zum Standard für moderne Terrassen geworden sind
 
@@ -27989,7 +27989,7 @@ Find out more about our [Salamander PVC windows](/en/pvc-windows) and [Alumil al
 
 ---
 
-Neofort BIZ supplies Salamander systems for houses, apartments and export projects, installed by our own teams. Discover [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). For the full context, read [the Salamander systems choice guide](/en/blog/bluevolution-92-vs-greenevolution-76-guide).`,
+Neofort BIZ supplies Salamander systems for houses, apartments and export projects, installed by our own teams. Discover [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). For the full context, read [the Salamander systems choice guide](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).`,
 
       de: `## Salamander evolutionDrive Plus+ Schiebetür — Das modernste PVC-Gleitsystem 2026
 

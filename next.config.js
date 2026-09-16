@@ -263,6 +263,12 @@ const nextConfig = {
       // v252 — din exportul "crawl-uite si neindexate": slug german de blog fara prefix de limba.
       // Singurul din cele 17 URL-uri invalide care nu avea deja redirect in v196.
       { source: '/blog/roto-beschlag-winter-sommer-einstellen-inbusschluessel', destination: '/de/blog/roto-beschlag-winter-sommer-einstellen-inbusschluessel', permanent: true },
+      // v253 — slugul englez era identic cu cel francez
+      // (bluevolution-92-vs-greenevolution-76-guide in ambele limbi). Franceza are
+      // prioritate in ordinea stabilita de Dan (RO > IT > FR > DE > ES > EN), deci
+      // slugul englez s-a schimbat in ...-comparison. 301 de la cel vechi, ca sa nu
+      // se pierda autoritatea URL-ului indexat.
+      { source: '/en/blog/bluevolution-92-vs-greenevolution-76-guide', destination: '/en/blog/bluevolution-92-vs-greenevolution-76-comparison', permanent: true },
       //
       // NU se adauga redirect pentru /ro/blog/preturi-termopane-salamander-bucuresti/
       // (slash final). trailingSlash nu e setat, deci Next.js foloseste implicit false si

@@ -171,7 +171,7 @@ export const routing = defineRouting({
     },
     '/blog/bluevolution-92-vs-greenevolution-76': {
       ro: '/blog/bluevolution-92-vs-greenevolution-76',
-      en: '/blog/bluevolution-92-vs-greenevolution-76-guide',
+      en: '/blog/bluevolution-92-vs-greenevolution-76-comparison',
       de: '/blog/bluevolution-92-vs-greenevolution-76-leitfaden',
       fr: '/blog/bluevolution-92-vs-greenevolution-76-guide',
       es: '/blog/bluevolution-92-vs-greenevolution-76-guia',

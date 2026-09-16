@@ -27,11 +27,11 @@ const pages = [
   { key:'blog',      priority:0.7, freq:'weekly'  },
   { key:'despre',    priority:0.5, freq:'yearly'  },
   // v252 — 'gdpr' scos din sitemap: paginile au robots { index:false, follow:false },
-  // deci le propuneam lui Google exact paginile pe care i le interziceam. Semnal
-  // contradictoriu. Paginile rămân accesibile și linkuite din footer, doar nu mai
-  // apar în sitemap. 'cookies' RĂMÂNE — acele pagini NU au noindex, deci nu există
-  // contradicție în cazul lor.
-    { key:'cookies',    priority:0.2, freq:'yearly'  },
+  // deci le propuneam lui Google exact paginile pe care i le interziceam.
+  // v253 — 'cookies' scos si el, la cererea lui Dan. Paginile au primit acum noindex
+  // in app/[locale]/cookies/page.js. Ambele decizii merg impreuna: scoaterea din
+  // sitemap fara noindex nu ar fi impiedicat indexarea, fiindca paginile sunt
+  // linkuite din footer pe tot site-ul. Rămân accesibile, doar nu se indexeaza.
   { key:'umbrire',    priority:0.8, freq:'monthly' },
   { key:'nzeb',       priority:0.8, freq:'monthly' },
 ];
