@@ -348,14 +348,14 @@ export default async function TamplaieAluminiuPage({ params }) {
                     <ul style={{listStyle:'none',padding:0,margin:'0 0 12px 0',borderTop:'1px solid #efefed',paddingTop:'8px'}}>
                       {specs.map(([k,v],i) => (
                         <li key={i} style={{display:'flex',justifyContent:'space-between',alignItems:'baseline',gap:'6px',padding:'2.5px 0',borderBottom:'1px solid #f8f8f6',fontSize:'0.7rem',lineHeight:1.4}}>
-                          <span style={{fontWeight:600,color:'#444',whiteSpace:'nowrap',flexShrink:0}}>– {k}:</span>
-                          <span style={{color:'#767676',textAlign:'right'}}>{v}</span>
+                          <span style={{fontWeight:600,color:'#292929',whiteSpace:'nowrap',flexShrink:0}}>– {k}:</span>
+                          <span style={{color:'#5b5b5b',textAlign:'right'}}>{v}</span>
                         </li>
                       ))}
                     </ul>
 
                     {/* Descriere */}
-                    <p style={{fontSize:'0.77rem',color:'#767676',lineHeight:1.65,flex:1,marginBottom:'16px'}}>{desc}</p>
+                    <p style={{fontSize:'0.77rem',color:'#5b5b5b',lineHeight:1.65,flex:1,marginBottom:'16px'}}>{desc}</p>
 
                     {/* Buton Detalii */}
                     <Link href={`/produse-aluminiu/${PROD_SLUG_MAP[p.slug] || p.slug}`} style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',textDecoration:'none',transition:'background 0.15s,color 0.15s'}}>
@@ -421,7 +421,7 @@ export default async function TamplaieAluminiuPage({ params }) {
         <div className="container" style={{paddingTop:'24px',paddingBottom:'24px',borderTop:'1px solid #e8e8e4'}}>
           <div style={{display:'flex',alignItems:'center',justifyContent:'space-between',flexWrap:'wrap',gap:'12px'}}>
             <div>
-              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#595959',marginBottom:'4px'}}>{pillarSectionLabel}</div>
+              <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.65rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#3f3f3f',marginBottom:'4px'}}>{pillarSectionLabel}</div>
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.92rem',fontWeight:600,letterSpacing:'.04em',color:'#1a2a3a'}}>{pillarLabel}</div>
             </div>
             <Link href={`/${pillarSlug}`} style={{display:'inline-block',background:'#1a2a3a',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.18em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',whiteSpace:'nowrap'}}>
@@ -434,7 +434,7 @@ export default async function TamplaieAluminiuPage({ params }) {
       {/* ── SEO BRIDGE ── */}
       <section aria-label={CTA_LABELS[locale]?.tag || CTA_LABELS.ro.tag} style={{background:'#111',padding:'0'}}>
         <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
-          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
+          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#7c7c7c',marginBottom:'0',textAlign:'center'}}>
             {CTA_LABELS[locale]?.h2a || CTA_LABELS.ro.h2a}{' '}
             <span style={{textDecoration:'underline'}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</span>
             {' '}{CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}
@@ -449,16 +449,16 @@ export default async function TamplaieAluminiuPage({ params }) {
 
           {/* ── LINKURI SEO INTERNE ── */}
           <div style={{marginTop:'32px',padding:'20px',background:'#f8f8f6',borderRadius:'6px',display:'flex',flexWrap:'wrap',gap:'8px',alignItems:'center'}}>
-            <span style={{fontSize:'.8rem',color:'#6b6b6b',textTransform:'uppercase',letterSpacing:'.08em',marginRight:'8px'}}>
+            <span style={{fontSize:'.8rem',color:'#505050',textTransform:'uppercase',letterSpacing:'.08em',marginRight:'8px'}}>
               {{'ro':'Vezi și','en':'See also','de':'Siehe auch','fr':'Voir aussi','es':'Ver también','it':'Vedi anche'}[locale]}:
             </span>
             <Link href={`/${{'ro':'tamplarie-aluminiu/preturi','en':'aluminium-windows/prices','de':'aluminiumfenster/preise','fr':'menuiserie-aluminium/prix','es':'carpinteria-aluminio/precios','it':'infissi-alluminio/prezzi'}[locale]}`}
-              style={{fontSize:'.88rem',color:'#2d5a8e',textDecoration:'underline',textUnderlineOffset:'3px'}}>
+              style={{fontSize:'.88rem',color:'#204065',textDecoration:'underline',textUnderlineOffset:'3px'}}>
               {{'ro':'Prețuri tâmplărie aluminiu 2026','en':'Aluminium window prices 2026','de':'Aluminiumfenster Preise 2026','fr':'Prix menuiserie aluminium 2026','es':'Precios carpintería aluminio 2026','it':'Prezzi infissi alluminio 2026'}[locale]}
             </Link>
-            <span style={{color:'#595959'}}>·</span>
+            <span style={{color:'#3f3f3f'}}>·</span>
             <Link href={`/${{'ro':'tamplarie-aluminiu/bucuresti','en':'aluminium-windows/bucharest','de':'aluminiumfenster/bukarest','fr':'menuiserie-aluminium/bucarest','es':'carpinteria-aluminio/bucarest','it':'infissi-alluminio/bucarest'}[locale]}`}
-              style={{fontSize:'.88rem',color:'#2d5a8e',textDecoration:'underline',textUnderlineOffset:'3px'}}>
+              style={{fontSize:'.88rem',color:'#204065',textDecoration:'underline',textUnderlineOffset:'3px'}}>
               {{'ro':'Montaj București și Ilfov','en':'Installation Bucharest & Ilfov','de':'Montage Bukarest & Ilfov','fr':'Pose Bucarest & Ilfov','es':'Instalación Bucarest & Ilfov','it':'Posa Bucarest & Ilfov'}[locale]}
             </Link>
           </div>

@@ -167,7 +167,7 @@ const TEAM = [
     href: 'tel:+40752443430',
     email: 'oferte@neofort-biz.ro',
     initials: 'GP',
-    color: '#2d5a8e',
+    color: '#204065',
   },
   {
     name: 'Olga OPREA',
@@ -177,7 +177,7 @@ const TEAM = [
     href: 'tel:+40752443435',
     email: 'oferte@neofort-biz.ro',
     initials: 'OO',
-    color: '#4a7c59',
+    color: '#385f44',
   },
   {
     name: 'Cristian CIOROIU',
@@ -187,7 +187,7 @@ const TEAM = [
     href: 'tel:+40752443439',
     email: 'comenzi@neofort-biz.ro',
     initials: 'CC',
-    color: '#e8721c',
+    color: '#b95b16',
   },
   {
     name: 'Mihai DANALACHE',
@@ -197,7 +197,7 @@ const TEAM = [
     href: 'tel:+40752443431',
     email: 'service@neofort-biz.ro',
     initials: 'MD',
-    color: '#555',
+    color: '#3b3b3b',
   },
 ];
 

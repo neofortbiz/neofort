@@ -176,7 +176,7 @@ export default async function CookiesPage({ params }) {
           </div>
           <div style={{marginTop:'48px',paddingTop:'24px',borderTop:'1px solid #e8e8e8'}}>
             <a href={`/${locale}/${gdprSlug}`}
-              style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',letterSpacing:'.12em',textTransform:'uppercase',color:'#2d5a8e',textDecoration:'none'}}>
+              style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',letterSpacing:'.12em',textTransform:'uppercase',color:'#204065',textDecoration:'none'}}>
               → {ui.gdpr_link_label}
             </a>
           </div>

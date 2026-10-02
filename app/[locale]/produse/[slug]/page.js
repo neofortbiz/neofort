@@ -134,7 +134,7 @@ const PRODUCTS = {
 
   'bluevolution-92-alu': {
     img: '/products/bluevolution-92-alu.avif',
-    color: '#2d5a8e',
+    color: '#204065',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'BluEvolution 92', en:'BluEvolution 92', de:'BluEvolution 92', fr:'BluEvolution 92', es:'BluEvolution 92', it:'BluEvolution 92' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -269,7 +269,7 @@ const PRODUCTS = {
 
   'bluevolution-92-flex': {
     img: '/products/bluevolution-92-flex.avif',
-    color: '#2d5a8e',
+    color: '#204065',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'BluEvolution 92', en:'BluEvolution 92', de:'BluEvolution 92', fr:'BluEvolution 92', es:'BluEvolution 92', it:'BluEvolution 92' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -326,7 +326,7 @@ const PRODUCTS = {
 
   'bluevolution-92-round': {
     img: '/products/bluevolution-92-round.avif',
-    color: '#2d5a8e',
+    color: '#204065',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'BluEvolution 92', en:'BluEvolution 92', de:'BluEvolution 92', fr:'BluEvolution 92', es:'BluEvolution 92', it:'BluEvolution 92' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -383,7 +383,7 @@ const PRODUCTS = {
 
   'greenevolution-76-md-round': {
     img: '/products/greenevolution-76-md-round.avif',
-    color: '#4a7c59',
+    color: '#385f44',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'GreenEvolution 76', en:'GreenEvolution 76', de:'GreenEvolution 76', fr:'GreenEvolution 76', es:'GreenEvolution 76', it:'GreenEvolution 76' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -440,7 +440,7 @@ const PRODUCTS = {
 
   'greenevolution-76-md-flex': {
     img: '/products/greenevolution-76-md-flex.avif',
-    color: '#4a7c59',
+    color: '#385f44',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'GreenEvolution 76', en:'GreenEvolution 76', de:'GreenEvolution 76', fr:'GreenEvolution 76', es:'GreenEvolution 76', it:'GreenEvolution 76' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -497,7 +497,7 @@ const PRODUCTS = {
 
   'greenevolution-76-ad-flex': {
     img: '/products/greenevolution-76-ad-flex.avif',
-    color: '#4a7c59',
+    color: '#385f44',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'GreenEvolution 76', en:'GreenEvolution 76', de:'GreenEvolution 76', fr:'GreenEvolution 76', es:'GreenEvolution 76', it:'GreenEvolution 76' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -655,10 +655,10 @@ export default async function ProductPage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <style>{`
         /* ── BREADCRUMB ── */
-        .prd-bc { font-size:.76rem; letter-spacing:.12em; text-transform:uppercase; color:#404040; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
-        .prd-bc a { color:#404040; text-decoration:none; }
+        .prd-bc { font-size:.76rem; letter-spacing:.12em; text-transform:uppercase; color:#242424; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
+        .prd-bc a { color:#242424; text-decoration:none; }
         .prd-bc a:hover { color:#1a1a1a; }
-        .prd-bc span { color:#404040; }
+        .prd-bc span { color:#242424; }
 
         /* ── HERO GRID ── */
         .prd-hero { display:grid; grid-template-columns:1fr 1fr; gap:48px; align-items:start; }
@@ -668,14 +668,14 @@ export default async function ProductPage({ params }) {
         .prd-info { display:flex; flex-direction:column; }
         .prd-cat-label { font-family:'Barlow Condensed',sans-serif; font-size:.57rem; letter-spacing:.2em; text-transform:uppercase; font-weight:600; margin-bottom:10px; }
         .prd-title { font-family:'Barlow Condensed',sans-serif; font-weight:700; font-size:clamp(1.4rem,3vw,2rem); color:#1a1a1a; line-height:1.15; margin:0 0 14px; }
-        .prd-tagline { font-size:.88rem; color:#555; line-height:1.6; margin:0 0 28px; border-left:3px solid; padding-left:14px; }
+        .prd-tagline { font-size:.88rem; color:#3b3b3b; line-height:1.6; margin:0 0 28px; border-left:3px solid; padding-left:14px; }
 
         /* ── SPECS TABLES ── */
         .prd-section-title { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.74rem; letter-spacing:.22em; text-transform:uppercase; color:#1a1a1a; margin:0 0 14px; }
         .prd-specs-grid { display:grid; grid-template-columns:1fr 1fr; gap:1px; background:#e8e8e4; border:1px solid #e8e8e4; margin-bottom:28px; }
         .prd-spec-row { background:#fff; display:flex; justify-content:space-between; gap:8px; padding:7px 10px; font-size:.73rem; }
         .prd-spec-row strong { color:#1a1a1a; font-weight:600; flex-shrink:0; }
-        .prd-spec-row span { color:#555; text-align:right; }
+        .prd-spec-row span { color:#3b3b3b; text-align:right; }
 
         /* ── PERF TABLE ── */
         .prd-perf-table { width:100%; border-collapse:collapse; margin-bottom:28px; font-size:.73rem; }
@@ -686,7 +686,7 @@ export default async function ProductPage({ params }) {
 
         /* ── ADVANTAGES ── */
         .prd-adv-list { list-style:none; padding:0; margin:0 0 28px; }
-        .prd-adv-list li { font-size:.8rem; color:#444; padding:8px 0 8px 20px; border-bottom:1px solid #f5f5f3; position:relative; line-height:1.5; }
+        .prd-adv-list li { font-size:.8rem; color:#292929; padding:8px 0 8px 20px; border-bottom:1px solid #f5f5f3; position:relative; line-height:1.5; }
         .prd-adv-list li:last-child { border-bottom:none; }
         .prd-adv-list li::before { content:''; position:absolute; left:0; top:14px; width:8px; height:2px; }
 
@@ -702,7 +702,7 @@ export default async function ProductPage({ params }) {
         .prd-cta-btn-secondary:hover { border-color:#404040; }
 
         /* ── SEO TEXT ── */
-        .prd-seo { font-size:.82rem; color:#4a4a4a; line-height:1.8; padding:32px 0; border-top:1px solid #e8e8e4; margin-top:8px; }
+        .prd-seo { font-size:.82rem; color:#2f2f2f; line-height:1.8; padding:32px 0; border-top:1px solid #e8e8e4; margin-top:8px; }
         .prd-seo p { margin:0; }
 
         /* ── LAYOUT LOWER ── */

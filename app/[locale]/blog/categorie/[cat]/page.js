@@ -91,10 +91,10 @@ export default async function CategoryPage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
 
       {/* Breadcrumb vizibil */}
-      <nav aria-label="breadcrumb" style={{ fontSize: '.75rem', letterSpacing: '.08em', textTransform: 'uppercase', color: '#999', marginBottom: 24 }}>
-        <a href={`/${locale}`} style={{ color: '#999', textDecoration: 'none' }}>{t.home}</a>
+      <nav aria-label="breadcrumb" style={{ fontSize: '.75rem', letterSpacing: '.08em', textTransform: 'uppercase', color: '#767676', marginBottom: 24 }}>
+        <a href={`/${locale}`} style={{ color: '#767676', textDecoration: 'none' }}>{t.home}</a>
         <span style={{ margin: '0 8px' }}>/</span>
-        <a href={`/${locale}/blog`} style={{ color: '#999', textDecoration: 'none' }}>{t.blog}</a>
+        <a href={`/${locale}/blog`} style={{ color: '#767676', textDecoration: 'none' }}>{t.blog}</a>
         <span style={{ margin: '0 8px' }}>/</span>
         <span style={{ color: '#1a1a1a' }}>{label}</span>
       </nav>
@@ -102,23 +102,23 @@ export default async function CategoryPage({ params }) {
       <h1 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 500, fontSize: '2.2rem', color: '#1a1a1a', margin: '0 0 10px', letterSpacing: '.01em' }}>
         {label}
       </h1>
-      <p style={{ fontSize: '.95rem', lineHeight: 1.65, color: '#595959', maxWidth: 720, margin: '0 0 12px' }}>{desc}</p>
+      <p style={{ fontSize: '.95rem', lineHeight: 1.65, color: '#3f3f3f', maxWidth: 720, margin: '0 0 12px' }}>{desc}</p>
 
       {/* v218: text introductiv propriu per categorie — face pagina unica fata de /blog,
           care era motivul pentru care Google o lasa la "Descoperita — nu este indexata". */}
       {intro && (
-        <p style={{ fontSize: '.9rem', lineHeight: 1.75, color: '#404040', maxWidth: 760, margin: '0 0 16px' }}>
+        <p style={{ fontSize: '.9rem', lineHeight: 1.75, color: '#242424', maxWidth: 760, margin: '0 0 16px' }}>
           {intro}
         </p>
       )}
       {pillarHref && (
         <p style={{ margin: '0 0 20px' }}>
-          <a href={pillarHref} style={{ fontSize: '.78rem', letterSpacing: '.12em', textTransform: 'uppercase', color: '#e8721c', textDecoration: 'none', fontWeight: 600 }}>
+          <a href={pillarHref} style={{ fontSize: '.78rem', letterSpacing: '.12em', textTransform: 'uppercase', color: '#b95b16', textDecoration: 'none', fontWeight: 600 }}>
             {pillarCta} &rsaquo;
           </a>
         </p>
       )}
-      <div style={{ fontSize: '.78rem', letterSpacing: '.1em', textTransform: 'uppercase', color: '#999', marginBottom: 40 }}>
+      <div style={{ fontSize: '.78rem', letterSpacing: '.1em', textTransform: 'uppercase', color: '#767676', marginBottom: 40 }}>
         {items.length} {items.length === 1 ? t.count[0] : t.count[1]}
       </div>
 
@@ -145,7 +145,7 @@ export default async function CategoryPage({ params }) {
                   {a.category?.[locale] || a.category?.ro} · {date} · {rt}
                 </div>
                 <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 500, fontSize: '1.12rem', lineHeight: 1.3, color: '#1a1a1a', margin: '0 0 8px' }}>{title}</h2>
-                <p style={{ fontSize: '.83rem', lineHeight: 1.55, color: '#595959', margin: '0 0 10px', display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{excerpt}</p>
+                <p style={{ fontSize: '.83rem', lineHeight: 1.55, color: '#3f3f3f', margin: '0 0 10px', display: '-webkit-box', WebkitLineClamp: 3, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>{excerpt}</p>
                 <span style={{ fontSize: '.72rem', letterSpacing: '.14em', textTransform: 'uppercase', color: '#1a1a1a', fontWeight: 600 }}>{t.read}</span>
               </div>
             </a>
@@ -155,7 +155,7 @@ export default async function CategoryPage({ params }) {
 
       {/* Link inapoi la toate articolele */}
       <div style={{ marginTop: 48 }}>
-        <a href={`/${locale}/blog`} style={{ fontSize: '.78rem', letterSpacing: '.14em', textTransform: 'uppercase', color: '#e8721c', textDecoration: 'none', fontWeight: 600 }}>
+        <a href={`/${locale}/blog`} style={{ fontSize: '.78rem', letterSpacing: '.14em', textTransform: 'uppercase', color: '#b95b16', textDecoration: 'none', fontWeight: 600 }}>
           ← {t.all}
         </a>
       </div>

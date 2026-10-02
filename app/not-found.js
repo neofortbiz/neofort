@@ -145,7 +145,7 @@ export default function GlobalNotFound() {
               fontSize: '.7rem',
               letterSpacing: '.14em',
               textTransform: 'uppercase',
-              color: '#8a8a8a',
+              color: '#6d6d6d',
               marginBottom: '.75rem',
             }}
           >
@@ -164,7 +164,7 @@ export default function GlobalNotFound() {
             {ui.h1}
           </h1>
 
-          <p style={{ fontSize: '.95rem', color: '#595959', margin: '0 0 2.5rem 0' }}>{ui.sub}</p>
+          <p style={{ fontSize: '.95rem', color: '#3f3f3f', margin: '0 0 2.5rem 0' }}>{ui.sub}</p>
 
           <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 2.5rem 0' }}>
             {ui.links.map((l) => (

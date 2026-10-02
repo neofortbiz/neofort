@@ -136,7 +136,7 @@ export default function CookieBanner({ locale }) {
             fontSize: '.62rem',
             letterSpacing: '.16em',
             textTransform: 'uppercase',
-            color: '#aaa',
+            color: '#d0d0d0',
             background: 'transparent',
             border: '1px solid #555',
             padding: '9px 18px',

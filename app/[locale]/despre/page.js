@@ -37,7 +37,7 @@ const TEAM_DESPRE = [
       es: 'Coordina el equipo de ventas de Neofort BIZ con foco en proyectos residenciales y comerciales en Bucarest, Ilfov y el mercado de exportación UE.',
       it: 'Coordina il team vendite di Neofort BIZ con focus su progetti residenziali e commerciali a Bucarest, Ilfov e il mercato export UE.',
     },
-    color: '#2d5a8e',
+    color: '#204065',
     initials: 'GP',
   },
   {
@@ -52,7 +52,7 @@ const TEAM_DESPRE = [
       es: 'Especialista en asesoramiento para clientes residenciales — ventanas PVC Salamander, persianas exteriores y sistemas nZEB. Proporciona presupuestos personalizados en 48 horas.',
       it: `Specialista in consulenza per clienti residenziali — finestre PVC Salamander, veneziane esterne e sistemi nZEB. Fornisce preventivi personalizzati entro 48 ore.`,
     },
-    color: '#4a7c59',
+    color: '#385f44',
     initials: 'OO',
   },
   {
@@ -67,7 +67,7 @@ const TEAM_DESPRE = [
       es: 'Gestiona los pedidos de exportación para clientes en Alemania, Austria, Italia, Francia y España. Garantiza la entrega e instalación en toda Europa.',
       it: 'Gestisce gli ordini export per clienti in Germania, Austria, Italia, Francia e Spagna. Garantisce consegna e installazione in tutta Europa.',
     },
-    color: '#e8721c',
+    color: '#b95b16',
     initials: 'CC',
   },
   {
@@ -82,7 +82,7 @@ const TEAM_DESPRE = [
       es: 'Consultor técnico con 21 años de experiencia en carpintería PVC y aluminio. Especialista certificado en sistemas Salamander bluEvolution e instalación nZEB. Ha coordinado cientos de proyectos en Bucarest, Ilfov y Europa. Autor de las guías técnicas del blog Neofort BIZ.',
       it: `Consulente tecnico con 21 anni di esperienza in infissi PVC e alluminio. Specialista certificato nei sistemi Salamander bluEvolution e installazione nZEB. Ha coordinato centinaia di progetti a Bucarest, Ilfov e in Europa. Autore delle guide tecniche del blog Neofort BIZ.`,
     },
-    color: '#1a4a8a',
+    color: '#11305a',
     initials: 'MD',
   },
 ];
@@ -245,8 +245,8 @@ export default async function DesprePage({ params }) {
                 i===2 ? (
                   <a key={l} href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
                     className="border border-border p-8 flex flex-col items-center justify-center text-center no-underline">
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#f5a623',lineHeight:1}}>{n}</span>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#767676',marginTop:'5px',lineHeight:1.3}}>{l}</span>
+                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#a06c17',lineHeight:1}}>{n}</span>
+                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#5b5b5b',marginTop:'5px',lineHeight:1.3}}>{l}</span>
                   </a>
                 ) : (
                   <div key={l} className="border border-border p-8 flex flex-col justify-center">
@@ -280,7 +280,7 @@ export default async function DesprePage({ params }) {
       <section className="py-20 border-b border-border">
         <div className="container mx-auto px-6">
           <span className="sec-label">{ui.team_label}</span>
-          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1rem',color:'#595959',marginTop:'8px',marginBottom:'36px'}}>{ui.team_sub}</p>
+          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1rem',color:'#3f3f3f',marginTop:'8px',marginBottom:'36px'}}>{ui.team_sub}</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
             {TEAM_DESPRE.map((m,i)=>(
               <div key={i} style={{background:'#fff',border:'1px solid #e5e7eb',borderTop:`3px solid ${m.color}`,padding:'24px',display:'flex',flexDirection:'column',gap:'12px'}}>
@@ -293,7 +293,7 @@ export default async function DesprePage({ params }) {
                     <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.72rem',color:m.color,letterSpacing:'0.08em',textTransform:'uppercase',marginTop:'2px'}}>{m.role[locale]||m.role.ro}</div>
                   </div>
                 </div>
-                <p style={{fontFamily:'Barlow,sans-serif',fontSize:'0.78rem',color:'#595959',lineHeight:1.6,margin:0}}>{m.bio[locale]||m.bio.ro}</p>
+                <p style={{fontFamily:'Barlow,sans-serif',fontSize:'0.78rem',color:'#3f3f3f',lineHeight:1.6,margin:0}}>{m.bio[locale]||m.bio.ro}</p>
               </div>
             ))}
           </div>
@@ -310,7 +310,7 @@ export default async function DesprePage({ params }) {
             {href:'/contact',           ro:'Contact',                    en:'Contact',                  de:'Kontakt',                     fr:'Contact',                     es:'Contacto',                   it:'Contatti'},
           ].map((item,i) => (
             <Link key={i} href={item.href}
-              style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#1a4a8a',textDecoration:'none',fontWeight:500}}>
+              style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#11305a',textDecoration:'none',fontWeight:500}}>
               {item[locale]||item.ro}
             </Link>
           ))}
@@ -319,7 +319,7 @@ export default async function DesprePage({ params }) {
 
             <section aria-label={CTA_LABELS[locale]?.tag || CTA_LABELS.ro.tag} style={{background:'#111',padding:'0'}}>
         <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
-          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#444',marginBottom:'0',textAlign:'center'}}>
+          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#292929',marginBottom:'0',textAlign:'center'}}>
             {CTA_LABELS[locale]?.h2a || CTA_LABELS.ro.h2a}{' '}
             <span style={{textDecoration:'underline'}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</span>
             {' '}{CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}

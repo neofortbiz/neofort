@@ -131,7 +131,7 @@ export default function BlogGrid({ articles, locale, read }) {
           font-size: .6rem;
           letter-spacing: .12em;
           text-transform: uppercase;
-          color: #aaa;
+          color: #767676;
           background: transparent;
           border: none;
           border-bottom: 2px solid transparent;
@@ -140,12 +140,12 @@ export default function BlogGrid({ articles, locale, read }) {
           white-space: nowrap;
           line-height: 1;
         }
-        .bg-pill:hover { color: #444; }
+        .bg-pill:hover { color: #292929; }
         .bg-pill.active { color: #1a1a1a; border-bottom-color: currentColor; }
         .bg-count {
           font-size: .46rem;
           background: #f0f0ee;
-          color: #595959;
+          color: #3f3f3f;
           padding: 1px 4px;
           border-radius: 8px;
           font-weight: 700;
@@ -174,23 +174,23 @@ export default function BlogGrid({ articles, locale, read }) {
           transition: border-color .15s, width .2s;
         }
         .bg-search:focus-within { border-color: #595959; width: 320px; }
-        .bg-search svg { flex-shrink: 0; color: #595959; }
+        .bg-search svg { flex-shrink: 0; color: #3f3f3f; }
         .bg-search input {
           border: none; background: transparent;
           font-family: 'Barlow Condensed', sans-serif;
           font-size: .74rem; letter-spacing: .04em; color: #1a1a1a;
           width: 100%; outline: none;
         }
-        .bg-search input::placeholder { color: #595959; }
+        .bg-search input::placeholder { color: #3f3f3f; }
         .bg-search-clear {
           background: none; border: none; padding: 0;
-          cursor: pointer; color: #595959; line-height: 1; flex-shrink: 0;
+          cursor: pointer; color: #3f3f3f; line-height: 1; flex-shrink: 0;
         }
-        .bg-search-clear:hover { color: #555; }
+        .bg-search-clear:hover { color: #3b3b3b; }
         .bg-status {
           font-family: 'Barlow Condensed', sans-serif;
           font-size: .58rem; letter-spacing: .12em;
-          text-transform: uppercase; color: #595959;
+          text-transform: uppercase; color: #3f3f3f;
           margin-left: auto;
         }
 
@@ -211,7 +211,7 @@ export default function BlogGrid({ articles, locale, read }) {
         .bg-card:hover { border-color: #d8d8d4; box-shadow: 0 4px 20px rgba(0,0,0,.05); }
         .bg-empty {
           grid-column: 1/-1; text-align: center;
-          padding: 80px 0; color: #595959;
+          padding: 80px 0; color: #3f3f3f;
           font-family: 'Barlow Condensed', sans-serif;
           font-size: 1rem; letter-spacing: .08em;
         }
@@ -280,7 +280,7 @@ export default function BlogGrid({ articles, locale, read }) {
           {mounted && (
             <p className="bg-status" aria-live="polite" aria-atomic="true">
               {filtered.length} {filtered.length === 1 ? resLabel[0] : resLabel[1]}
-              {searchQuery.trim().length >= 2 && <> — <em style={{fontStyle:'normal',color:'#6b6b6b'}}>"{searchQuery.trim()}"</em></>}
+              {searchQuery.trim().length >= 2 && <> — <em style={{fontStyle:'normal',color:'#505050'}}>"{searchQuery.trim()}"</em></>}
             </p>
           )}
         </div>
@@ -317,18 +317,18 @@ export default function BlogGrid({ articles, locale, read }) {
                   <div style={{ padding:'18px 20px 22px', flex:1, display:'flex', flexDirection:'column' }}>
                     <div style={{ display:'flex', alignItems:'center', gap:'8px', marginBottom:'9px', flexWrap:'wrap' }}>
                       <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'.54rem', letterSpacing:'.18em', textTransform:'uppercase', color:accent }}>{cat}</span>
-                      <span style={{ color:'#e0e0e0', fontSize:'.4rem' }}>◆</span>
-                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.58rem', letterSpacing:'.06em', color:'#595959' }}>{date}</span>
-                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#595959', marginLeft:'auto' }}>{rt}</span>
+                      <span style={{ color:'#767676', fontSize:'.4rem' }}>◆</span>
+                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.58rem', letterSpacing:'.06em', color:'#3f3f3f' }}>{date}</span>
+                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#3f3f3f', marginLeft:'auto' }}>{rt}</span>
                       {viewCounts[a.slugs?.ro] > 0 && (
-                        <span style={{ display:'inline-flex', alignItems:'center', gap:'3px', fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#595959' }}>
+                        <span style={{ display:'inline-flex', alignItems:'center', gap:'3px', fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.06em', color:'#3f3f3f' }}>
                           <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
                           {viewCounts[a.slugs?.ro].toLocaleString()}
                         </span>
                       )}
                     </div>
                     <h2 style={{ fontFamily:'Barlow Condensed,sans-serif', fontWeight:600, fontSize:'1rem', color:'#1a1a1a', lineHeight:1.25, letterSpacing:'.01em', margin:'0 0 9px' }}>{title}</h2>
-                    <p style={{ fontSize:'.78rem', color:'#6b6b6b', lineHeight:1.65, margin:'0 0 14px', flex:1 }}>{excerpt.slice(0,110)}…</p>
+                    <p style={{ fontSize:'.78rem', color:'#505050', lineHeight:1.65, margin:'0 0 14px', flex:1 }}>{excerpt.slice(0,110)}…</p>
                     <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'.56rem', letterSpacing:'.14em', textTransform:'uppercase', color:accent }}>{read}</span>
                   </div>
                 </Link>

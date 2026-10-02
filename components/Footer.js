@@ -167,7 +167,7 @@ export default function Footer({ googleRating }) {
   const iBase = { width:'100%', background:'transparent', border:'none', padding:'10px 0', fontFamily:'Barlow,sans-serif', fontSize:'.82rem', fontWeight:300, color:'#ddd', outline:'none', boxSizing:'border-box' };
   const iStyle = (field) => ({ ...iBase, borderBottom: err[field] ? '1px solid #e05252' : '1px solid #333' });
   const ErrMsg = ({ field }) => err[field]
-    ? <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.08em',color:'#e05252',display:'block',marginTop:'4px'}}>{err[field]}</span>
+    ? <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.08em',color:'#e98686',display:'block',marginTop:'4px'}}>{err[field]}</span>
     : null;
 
   return (
@@ -177,7 +177,7 @@ export default function Footer({ googleRating }) {
       <div style={{background:'#111',borderTop:'1px solid #222',padding:'10px 0 0'}}>
         <div className="footer-inner">
           <div style={{textAlign:'center',marginBottom:'8px'}}>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#bbb',display:'block',marginBottom:'3px'}}>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#e3e3e3',display:'block',marginBottom:'3px'}}>
               {ft.title_label}
             </span>
             <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(0.85rem, 2vw, 1.1rem)',color:'#fff',lineHeight:1.35,textAlign:'center'}}>
@@ -191,7 +191,7 @@ export default function Footer({ googleRating }) {
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1.2rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#fff',marginBottom:'12px'}}>
                 {t('success_title')}
               </div>
-              <p style={{fontFamily:'Barlow',fontSize:'.82rem',fontWeight:300,color:'#888',marginBottom:'24px'}}>{t('success_desc')}</p>
+              <p style={{fontFamily:'Barlow',fontSize:'.82rem',fontWeight:300,color:'#a9a9a9',marginBottom:'24px'}}>{t('success_desc')}</p>
               <button onClick={()=>setStatus('idle')} style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.68rem',letterSpacing:'.18em',textTransform:'uppercase',color:'#fff',background:'transparent',border:'1px solid #444',padding:'12px 32px',cursor:'pointer'}}>
                 {t('success_btn')}
               </button>
@@ -213,8 +213,8 @@ export default function Footer({ googleRating }) {
                       [ft.dept_schedule,'+40 758 990 048','tel:+40758990048'],
                     ].map(([l,v,h])=>(
                       <div key={l} style={{display:'flex',justifyContent:'space-between',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>
-                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:300,color:'#888'}}>{l}</span>
-                        <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#ccc',textDecoration:'none'}}>{v}</a>
+                        <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:300,color:'#a9a9a9'}}>{l}</span>
+                        <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#f7f7f7',textDecoration:'none'}}>{v}</a>
                       </div>
                     ))}
                     <div style={{marginTop:'20px'}}>
@@ -223,7 +223,7 @@ export default function Footer({ googleRating }) {
                         [ft.email_orders,'mailto:comenzi@neofort-biz.ro'],
                         [ft.email_service,'mailto:service@neofort-biz.ro'],
                       ].map(([l,h])=>(
-                        <a key={l} href={h} style={{display:'flex',alignItems:'center',gap:'8px',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',fontWeight:300,color:'#888',textDecoration:'none',letterSpacing:'.08em',textTransform:'uppercase',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>{l}</a>
+                        <a key={l} href={h} style={{display:'flex',alignItems:'center',gap:'8px',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',fontWeight:300,color:'#a9a9a9',textDecoration:'none',letterSpacing:'.08em',textTransform:'uppercase',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>{l}</a>
                       ))}
                     </div>
                   </div>
@@ -245,7 +245,7 @@ export default function Footer({ googleRating }) {
                       <ErrMsg field="email"/>
                     </div>
                     <div style={{marginBottom:'16px'}}>
-                      <label htmlFor="select-comanda" style={{fontFamily:'Barlow,sans-serif',fontSize:'.82rem',fontWeight:300,color:'#999',display:'block',marginBottom:'5px'}}>{ft.lbl_cmd}</label>
+                      <label htmlFor="select-comanda" style={{fontFamily:'Barlow,sans-serif',fontSize:'.82rem',fontWeight:300,color:'#bcbcbc',display:'block',marginBottom:'5px'}}>{ft.lbl_cmd}</label>
                       <select id="select-comanda" name="comanda" defaultValue="" onChange={()=>err.comanda&&setErr(p=>({...p,comanda:''}))} aria-label={ft.lbl_cmd}
                         style={{width:'100%',background:'#111',border:'none',borderBottom: err.comanda ? '1px solid #e05252' : '1px solid #333',padding:'10px 0',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',letterSpacing:'.1em',textTransform:'uppercase',color:'#ddd',outline:'none',appearance:'none',boxSizing:'border-box'}}>
                         <option value="" disabled>{ft.sel_ph}</option>
@@ -258,12 +258,12 @@ export default function Footer({ googleRating }) {
                       <ErrMsg field="adresa"/>
                     </div>
                     <div style={{marginTop:'20px'}}>
-                      <span style={{fontFamily:'Barlow,sans-serif',fontSize:'.82rem',fontWeight:300,color:'#999',display:'block',marginBottom:'8px'}}>{ft.lbl_files}</span>
+                      <span style={{fontFamily:'Barlow,sans-serif',fontSize:'.82rem',fontWeight:300,color:'#bcbcbc',display:'block',marginBottom:'8px'}}>{ft.lbl_files}</span>
                       <label style={{display:'inline-flex',alignItems:'center',gap:'10px',cursor:'pointer'}}>
-                        <span style={{fontFamily:'Barlow,sans-serif',fontWeight:300,fontSize:'.74rem',color:'#aaa',background:'#1e1e1e',border:'1px solid #2a2a2a',padding:'4px 10px',borderRadius:'2px',whiteSpace:'nowrap',userSelect:'none'}}>{ft.btn_file}</span>
+                        <span style={{fontFamily:'Barlow,sans-serif',fontWeight:300,fontSize:'.74rem',color:'#d0d0d0',background:'#1e1e1e',border:'1px solid #2a2a2a',padding:'4px 10px',borderRadius:'2px',whiteSpace:'nowrap',userSelect:'none'}}>{ft.btn_file}</span>
                         <input type="file" multiple accept=".jpg,.jpeg,.png,.pdf,.dwg" onChange={handleFiles} style={{position:'absolute',width:'1px',height:'1px',opacity:0,overflow:'hidden'}}/>
                       </label>
-                      {files.length > 0 && <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',color:'#999',display:'block',marginTop:'4px'}}>{files.length} {ft.files_sel}</span>}
+                      {files.length > 0 && <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',color:'#bcbcbc',display:'block',marginTop:'4px'}}>{files.length} {ft.files_sel}</span>}
                     </div>
                   </div>
 
@@ -273,7 +273,7 @@ export default function Footer({ googleRating }) {
                     {PRODUSE.map((item,i)=>(
                       <div key={i} style={{display:'flex',alignItems:'center',gap:'10px',padding:'5px 0',borderBottom:'1px solid #1e1e1e'}}>
                         <input type="checkbox" id={`cb${i}`} style={{width:'13px',height:'13px',accentColor:'#fff',flexShrink:0,cursor:'pointer'}}/>
-                        <label htmlFor={`cb${i}`} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',fontWeight:300,letterSpacing:'.07em',textTransform:'uppercase',color:'#aaa',cursor:'pointer'}}>{item}</label>
+                        <label htmlFor={`cb${i}`} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',fontWeight:300,letterSpacing:'.07em',textTransform:'uppercase',color:'#d0d0d0',cursor:'pointer'}}>{item}</label>
                       </div>
                     ))}
                   </div>
@@ -305,10 +305,10 @@ export default function Footer({ googleRating }) {
                       <path d="M9 5v5M9 12v1" stroke="#c0392b" strokeWidth="1.5" strokeLinecap="round"/>
                     </svg>
                     <div>
-                      <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.12em',textTransform:'uppercase',color:'#c0392b',marginBottom:'3px'}}>
+                      <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.12em',textTransform:'uppercase',color:'#cf685d',marginBottom:'3px'}}>
                         {t('error')}
                       </div>
-                      <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.7rem',letterSpacing:'.05em',color:'#e05252',lineHeight:1.5}}>
+                      <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.7rem',letterSpacing:'.05em',color:'#e98686',lineHeight:1.5}}>
                         {errorMsg || t('error_desc')}
                       </div>
                     </div>
@@ -333,8 +333,8 @@ export default function Footer({ googleRating }) {
                     [ft.dept_schedule,'+40 758 990 048','tel:+40758990048'],
                   ].map(([l,v,h])=>(
                     <div key={l} style={{display:'flex',justifyContent:'space-between',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>
-                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:300,color:'#888'}}>{l}</span>
-                      <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#ccc',textDecoration:'none'}}>{v}</a>
+                      <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:300,color:'#a9a9a9'}}>{l}</span>
+                      <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#f7f7f7',textDecoration:'none'}}>{v}</a>
                     </div>
                   ))}
                   <div style={{marginTop:'20px'}}>
@@ -343,7 +343,7 @@ export default function Footer({ googleRating }) {
                       [ft.email_orders,'mailto:comenzi@neofort-biz.ro'],
                       [ft.email_service,'mailto:service@neofort-biz.ro'],
                     ].map(([l,h])=>(
-                      <a key={l} href={h} style={{display:'flex',alignItems:'center',gap:'8px',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',fontWeight:300,color:'#888',textDecoration:'none',letterSpacing:'.08em',textTransform:'uppercase',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>{l}</a>
+                      <a key={l} href={h} style={{display:'flex',alignItems:'center',gap:'8px',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',fontWeight:300,color:'#a9a9a9',textDecoration:'none',letterSpacing:'.08em',textTransform:'uppercase',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>{l}</a>
                     ))}
                   </div>
                 </div>
@@ -367,7 +367,7 @@ export default function Footer({ googleRating }) {
             <div className="footer-col-title">{col.brand}</div>
             <p className="footer-desc">{col.brand_desc}</p>
             {/* Date juridice + Rating Google */}
-            <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.04em',color:'#999',lineHeight:1.7,margin:'10px 0 6px'}}>
+            <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.04em',color:'#bcbcbc',lineHeight:1.7,margin:'10px 0 6px'}}>
               {col.legal}
             </p>
             <a href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
@@ -438,7 +438,7 @@ export default function Footer({ googleRating }) {
                 <span className="schedule-closed">{sch.closed}</span>
               </div>
             ))}
-            <address style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.04em',color:'#999',lineHeight:1.6,marginBottom:'10px',fontStyle:'normal'}}>
+            <address style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',letterSpacing:'.04em',color:'#bcbcbc',lineHeight:1.6,marginBottom:'10px',fontStyle:'normal'}}>
               {col.address}
             </address>
             <a href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer" className="maps-link">{col.maps}</a>
