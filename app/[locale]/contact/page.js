@@ -167,7 +167,7 @@ const TEAM = [
     href: 'tel:+40752443430',
     email: 'oferte@neofort-biz.ro',
     initials: 'GP',
-    color: '#204065',
+    color: '#162d47',
   },
   {
     name: 'Olga OPREA',
@@ -177,7 +177,7 @@ const TEAM = [
     href: 'tel:+40752443435',
     email: 'oferte@neofort-biz.ro',
     initials: 'OO',
-    color: '#385f44',
+    color: '#2b4834',
   },
   {
     name: 'Cristian CIOROIU',
@@ -187,7 +187,7 @@ const TEAM = [
     href: 'tel:+40752443439',
     email: 'comenzi@neofort-biz.ro',
     initials: 'CC',
-    color: '#b95b16',
+    color: '#934812',
   },
   {
     name: 'Mihai DANALACHE',
@@ -197,7 +197,7 @@ const TEAM = [
     href: 'tel:+40752443431',
     email: 'service@neofort-biz.ro',
     initials: 'MD',
-    color: '#3b3b3b',
+    color: '#2a2a2a',
   },
 ];
 
@@ -337,7 +337,7 @@ export default async function ContactPage({ params }) {
                     fontWeight: 600,
                     fontSize: 'clamp(0.7rem, 2.5vw, 0.88rem)',
                     lineHeight: 1.2,
-                    color: '#1a1a1a',
+                    color: '#151515',
                     marginBottom: '4px',
                     whiteSpace: 'nowrap',
                     overflow: 'hidden',

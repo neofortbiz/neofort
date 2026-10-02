@@ -64,7 +64,7 @@ function renderMarkdown(md) {
   const bold = (s) => esc(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
   const links = (s) => bold(s).replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_,text,url) => {
     const isExternal = url.startsWith('http');
-    return `<a href="${url}"${isExternal?' target="_blank" rel="noopener"':''} style="color:#b95b16;text-decoration:underline;text-underline-offset:2px">${text}</a>`;
+    return `<a href="${url}"${isExternal?' target="_blank" rel="noopener"':''} style="color:#934812;text-decoration:underline;text-underline-offset:2px">${text}</a>`;
   });
   // Slug-ifică textul headerului în id ancorabil (suport diacritice RO)
   const slugify = (s) => s
@@ -85,10 +85,10 @@ function renderMarkdown(md) {
     const line = lines[i];
     if (line.startsWith('## ')) {
       const txt = line.slice(3);
-      html += `<h2 id="${slugify(txt)}" style="font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:1.3rem;color:#1a1a1a;margin-top:2.8rem;margin-bottom:1rem;letter-spacing:.01em;padding-bottom:.5rem;border-bottom:1px solid #f0f0f0;scroll-margin-top:90px">${esc(txt)}</h2>`;
+      html += `<h2 id="${slugify(txt)}" style="font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:1.3rem;color:#151515;margin-top:2.8rem;margin-bottom:1rem;letter-spacing:.01em;padding-bottom:.5rem;border-bottom:1px solid #f0f0f0;scroll-margin-top:90px">${esc(txt)}</h2>`;
     } else if (line.startsWith('### ')) {
       const txt = line.slice(4);
-      html += `<h3 id="${slugify(txt)}" style="font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:1.05rem;color:#1a1a1a;margin-top:1.75rem;margin-bottom:.6rem;letter-spacing:.01em;scroll-margin-top:90px">${esc(txt)}</h3>`;
+      html += `<h3 id="${slugify(txt)}" style="font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:1.05rem;color:#151515;margin-top:1.75rem;margin-bottom:.6rem;letter-spacing:.01em;scroll-margin-top:90px">${esc(txt)}</h3>`;
     } else if (line.startsWith('---')) {
       html += '<hr style="border:none;border-top:1px solid #efefed;margin:2.5rem 0"/>';
     } else if (line.startsWith('| ')) {
@@ -102,18 +102,18 @@ function renderMarkdown(md) {
       }
       if (rows.length > 0) {
         html += '<div style="overflow-x:auto;margin:1.8rem 0"><table style="width:100%;border-collapse:collapse;font-size:.82rem"><thead><tr>';
-        rows[0].forEach(c => { html += `<th style="text-align:left;padding:10px 14px;background:#f7f7f5;border-bottom:2px solid #e8e8e8;font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:#6b6b6b">${esc(c)}</th>`; });
+        rows[0].forEach(c => { html += `<th style="text-align:left;padding:10px 14px;background:#f7f7f5;border-bottom:2px solid #e8e8e8;font-family:Barlow Condensed,sans-serif;font-weight:500;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:#555555">${esc(c)}</th>`; });
         html += '</tr></thead><tbody>';
         rows.slice(1).forEach(row => {
           html += '<tr style="border-bottom:1px solid #f5f5f5">';
-          row.forEach(c => { html += `<td style="padding:9px 14px;color:#3b3b3b;vertical-align:top;font-size:.83rem">${bold(c)}</td>`; });
+          row.forEach(c => { html += `<td style="padding:9px 14px;color:#2a2a2a;vertical-align:top;font-size:.83rem">${bold(c)}</td>`; });
           html += '</tr>';
         });
         html += '</tbody></table></div>';
       }
       continue;
     } else if (line.match(/^[-✅⚠️]/) || line.match(/^\d+\. /)) {
-      html += '<ul style="margin:1.2rem 0 1.2rem 1.4rem;padding:0;color:#3b3b3b;font-size:.87rem;line-height:1.75">';
+      html += '<ul style="margin:1.2rem 0 1.2rem 1.4rem;padding:0;color:#2a2a2a;font-size:.87rem;line-height:1.75">';
       while (i < lines.length && (lines[i].match(/^[-✅⚠️]/) || lines[i].match(/^\d+\. /))) {
         const text = lines[i].replace(/^[-✅⚠️]\s*/,'').replace(/^\d+\.\s*/,'');
         const pre  = lines[i].match(/^(✅|⚠️)/) ? lines[i].match(/^(✅|⚠️)/)[1]+' ' : '';
@@ -123,9 +123,9 @@ function renderMarkdown(md) {
       html += '</ul>';
       continue;
     } else if (line.startsWith('**') && line.endsWith('**') && !line.slice(2,-2).includes('**')) {
-      html += `<p style="font-weight:600;color:#1a1a1a;font-size:.87rem;margin:1rem 0 .3rem">${esc(line.slice(2,-2))}</p>`;
+      html += `<p style="font-weight:600;color:#151515;font-size:.87rem;margin:1rem 0 .3rem">${esc(line.slice(2,-2))}</p>`;
     } else if (line.trim()) {
-      html += `<p style="font-size:.88rem;color:#3b3b3b;line-height:1.85;margin:.8rem 0">${links(line)}</p>`;
+      html += `<p style="font-size:.88rem;color:#2a2a2a;line-height:1.85;margin:.8rem 0">${links(line)}</p>`;
     }
     i++;
   }
@@ -388,7 +388,7 @@ export default async function BlogArticlePage({ params }) {
         .article-sidebar { position: sticky; top: 88px; }
         .sidebar-card { background:#f7f7f5; border-top:2px solid ${a.accentColor}; padding:20px; margin-bottom:14px; }
         .sidebar-card-dark { background:#111; border-top:2px solid ${a.accentColor}; padding:20px; margin-bottom:14px; }
-        .sidebar-label { font-family:'Barlow Condensed',sans-serif; font-size:.58rem; letter-spacing:.18em; text-transform:uppercase; color:#3f3f3f; margin-bottom:14px; display:block; }
+        .sidebar-label { font-family:'Barlow Condensed',sans-serif; font-size:.58rem; letter-spacing:.18em; text-transform:uppercase; color:#2d2d2d; margin-bottom:14px; display:block; }
         @media (max-width: 800px) {
           .article-grid { grid-template-columns:1fr; gap:0; }
           .article-sidebar { position:static; margin-top:40px; padding-top:32px; border-top:1px solid #efefed; }
@@ -399,11 +399,11 @@ export default async function BlogArticlePage({ params }) {
       <div style={{background:'#f7f7f5',borderBottom:'1px solid #e8e8e8',padding:'10px 0'}}>
         <div className="container">
           <nav aria-label="breadcrumb" style={{display:'flex',alignItems:'center',gap:'6px',flexWrap:'wrap'}}>
-            <Link href="/" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#3f3f3f',textDecoration:'none'}}>{ui.breadcrumb_home}</Link>
-            <span style={{color:'#3f3f3f',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
-            <Link href="/blog" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#3f3f3f',textDecoration:'none'}}>Blog</Link>
-            <span style={{color:'#3f3f3f',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#505050'}}>{cat}</span>
+            <Link href="/" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#2d2d2d',textDecoration:'none'}}>{ui.breadcrumb_home}</Link>
+            <span style={{color:'#2d2d2d',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
+            <Link href="/blog" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#2d2d2d',textDecoration:'none'}}>Blog</Link>
+            <span style={{color:'#2d2d2d',fontSize:'clamp(0.8rem, 2vw, .65rem)'}}>›</span>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'clamp(0.75rem, 2vw, .6rem)',letterSpacing:'.1em',color:'#3d3d3d'}}>{cat}</span>
           </nav>
         </div>
       </div>
@@ -445,7 +445,7 @@ export default async function BlogArticlePage({ params }) {
       {/* EXCERPT — bandă albă sub hero */}
       <div style={{background:'#fff',borderBottom:'1px solid #efefed',padding:'18px 0'}}>
         <div style={{maxWidth:'1100px',margin:'0 auto',padding:'0 24px'}}>
-          <p style={{fontSize:'clamp(0.9rem, 2.5vw, .88rem)',color:'#5b5b5b',lineHeight:1.75,fontStyle:'italic',margin:0,paddingLeft:'14px',borderLeft:`3px solid ${a.accentColor}`}}>{excerpt}</p>
+          <p style={{fontSize:'clamp(0.9rem, 2.5vw, .88rem)',color:'#454545',lineHeight:1.75,fontStyle:'italic',margin:0,paddingLeft:'14px',borderLeft:`3px solid ${a.accentColor}`}}>{excerpt}</p>
         </div>
       </div>
 
@@ -462,12 +462,12 @@ export default async function BlogArticlePage({ params }) {
             )}
             {tocItems.length >= 3 && (
               <nav aria-label={tocLabel} style={{margin:'0 0 36px',padding:'20px 24px',background:'#f9f9f7',border:'1px solid #eee',borderRadius:'2px'}}>
-                <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.7rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#6b6b6b',marginBottom:'12px'}}>{tocLabel}</div>
+                <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.7rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#555555',marginBottom:'12px'}}>{tocLabel}</div>
                 <ol style={{margin:0,padding:0,listStyle:'none',counterReset:'toc'}}>
                   {tocItems.map((item, idx) => (
                     <li key={idx} style={{counterIncrement:'toc',marginBottom:'7px',fontSize:'.85rem',lineHeight:1.5}}>
-                      <a href={`#${item.id}`} style={{color:'#3b3b3b',textDecoration:'none',display:'flex',gap:'10px'}}>
-                        <span style={{color:'#b55916',fontWeight:600,fontVariantNumeric:'tabular-nums',minWidth:'1.4em'}}>{String(idx+1).padStart(2,'0')}</span>
+                      <a href={`#${item.id}`} style={{color:'#2a2a2a',textDecoration:'none',display:'flex',gap:'10px'}}>
+                        <span style={{color:'#8e4611',fontWeight:600,fontVariantNumeric:'tabular-nums',minWidth:'1.4em'}}>{String(idx+1).padStart(2,'0')}</span>
                         <span>{item.text}</span>
                       </a>
                     </li>
@@ -480,7 +480,7 @@ export default async function BlogArticlePage({ params }) {
             {/* Articole similare jos în conținut */}
             {related.length > 0 && (
               <div style={{marginTop:'64px',paddingTop:'36px',borderTop:'1px solid #efefed'}}>
-                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#3f3f3f',display:'block',marginBottom:'20px'}}>{ui.related}</span>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d2d2d',display:'block',marginBottom:'20px'}}>{ui.related}</span>
                 <div style={{display:'grid',gap:'14px',gridTemplateColumns:'repeat(auto-fit,minmax(200px,1fr))'}}>
                   {related.map(r => {
                     const rt2   = r.title[locale]    || r.title.ro;
@@ -491,8 +491,8 @@ export default async function BlogArticlePage({ params }) {
                       <Link key={r.slugs.ro} href={`/blog/${rSlug}`}
                         style={{textDecoration:'none',display:'block',padding:'18px',border:'1px solid #efefed',background:'#fafaf8'}}>
                         <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.54rem',letterSpacing:'.16em',textTransform:'uppercase',color:r.accentColor,display:'block',marginBottom:'7px'}}>{rc}</span>
-                        <span style={{fontSize:'.82rem',color:'#1a1a1a',fontWeight:500,display:'block',marginBottom:'8px',lineHeight:1.4}}>{rt2}</span>
-                        <p style={{fontSize:'.74rem',color:'#505050',lineHeight:1.6,margin:'0 0 10px'}}>{rex.slice(0,90)}…</p>
+                        <span style={{fontSize:'.82rem',color:'#151515',fontWeight:500,display:'block',marginBottom:'8px',lineHeight:1.4}}>{rt2}</span>
+                        <p style={{fontSize:'.74rem',color:'#3d3d3d',lineHeight:1.6,margin:'0 0 10px'}}>{rex.slice(0,90)}…</p>
                         <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.56rem',letterSpacing:'.12em',textTransform:'uppercase',color:r.accentColor}}>{ui.read_more}</span>
                       </Link>
                     );
@@ -505,8 +505,8 @@ export default async function BlogArticlePage({ params }) {
             {pillarSlugBlog && (
               <div style={{marginTop:'40px',padding:'20px 24px',background:'#f0f4f8',borderLeft:'3px solid #2d5a8e',display:'flex',alignItems:'center',justifyContent:'space-between',gap:'16px',flexWrap:'wrap'}}>
                 <div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#3f3f3f',marginBottom:'4px'}}>Resursa recomandata</div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.9rem',fontWeight:600,color:'#1a2a3a'}}>{pillarLabelBlog}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2d2d2d',marginBottom:'4px'}}>Resursa recomandata</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.9rem',fontWeight:600,color:'#15222e'}}>{pillarLabelBlog}</div>
                 </div>
                 <Link href={`/${pillarSlugBlog}`} style={{display:'inline-block',background:'#2d5a8e',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.7rem',letterSpacing:'.15em',textTransform:'uppercase',padding:'10px 20px',textDecoration:'none',whiteSpace:'nowrap'}}>
                   {pillarReadBlog} →
@@ -529,7 +529,7 @@ export default async function BlogArticlePage({ params }) {
                     <Link key={r.slugs.ro} href={`/blog/${rSlug}`}
                       style={{display:'block',padding:'10px 0',borderBottom:'1px solid #e8e8e8',textDecoration:'none'}}>
                       <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.54rem',letterSpacing:'.12em',textTransform:'uppercase',color:r.accentColor,display:'block',marginBottom:'4px'}}>{r.category[locale]||r.category.ro}</span>
-                      <span style={{fontSize:'.76rem',color:'#1a1a1a',lineHeight:1.4,display:'block',marginBottom:'4px'}}>{rt2}</span>
+                      <span style={{fontSize:'.76rem',color:'#151515',lineHeight:1.4,display:'block',marginBottom:'4px'}}>{rt2}</span>
                       <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.54rem',letterSpacing:'.1em',textTransform:'uppercase',color:r.accentColor}}>{ui.read_short}</span>
                     </Link>
                   );
@@ -539,11 +539,11 @@ export default async function BlogArticlePage({ params }) {
 
             {/* 1.5 Card autor */}
             <div className="sidebar-card">
-              <span className="sidebar-label" style={{color:'#3f3f3f'}}>{'ro'===locale?'Autor':'en'===locale?'Author':'de'===locale?'Autor':'fr'===locale?'Auteur':'es'===locale?'Autor':'Autore'}</span>
+              <span className="sidebar-label" style={{color:'#2d2d2d'}}>{'ro'===locale?'Autor':'en'===locale?'Author':'de'===locale?'Autor':'fr'===locale?'Auteur':'es'===locale?'Autor':'Autore'}</span>
               <div style={{display:'flex',alignItems:'center',gap:'10px',marginBottom:'8px'}}>
                 <img src={a.authorPhoto||'/team/mihai-danalache.avif'} alt={a.author||'Mihai Dănălache'} width={40} height={40} style={{width:'40px',height:'40px',borderRadius:'50%',objectFit:'cover',border:`2px solid ${a.accentColor}`}} loading="lazy"/>
                 <div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.82rem',color:'#1a1a1a'}}>{a.author||'Mihai Dănălache'}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.82rem',color:'#151515'}}>{a.author||'Mihai Dănălache'}</div>
                   <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',color:a.accentColor,letterSpacing:'.06em'}}>{(a.authorRole&&a.authorRole[locale])||'Consultant Tehnic Senior'}</div>
                 </div>
               </div>
@@ -571,10 +571,10 @@ export default async function BlogArticlePage({ params }) {
 
             {/* 3. Card WhatsApp — contact rapid */}
             <div className="sidebar-card" style={{background:'#f0faf3',borderTopColor:'#075E35'}}>
-              <span className="sidebar-label" style={{color:'#054024'}}>
+              <span className="sidebar-label" style={{color:'#032c19'}}>
                 {{'ro':'Contact rapid','en':'Quick contact','de':'Schnellkontakt','fr':'Contact rapide','es':'Contacto rápido','it':'Contatto rapido'}[locale]}
               </span>
-              <p style={{fontSize:'.72rem',color:'#111111',lineHeight:1.5,marginBottom:'12px'}}>
+              <p style={{fontSize:'.72rem',color:'#050505',lineHeight:1.5,marginBottom:'12px'}}>
                 {{'ro':'Răspundem în 2 ore pe WhatsApp. Ofertă gratuită pentru orice proiect.','en':'We reply within 2 hours on WhatsApp. Free quote for any project.','de':'Antwort innerhalb 2 Stunden. Kostenloses Angebot für jedes Projekt.','fr':'Réponse en 2 heures sur WhatsApp. Devis gratuit pour tout projet.','es':'Respuesta en 2 horas en WhatsApp. Presupuesto gratuito.','it':'Risposta in 2 ore su WhatsApp. Preventivo gratuito per qualsiasi progetto.'}[locale]}
               </p>
               <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"

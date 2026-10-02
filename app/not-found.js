@@ -120,7 +120,7 @@ export default function GlobalNotFound() {
 
   return (
     <html lang={ui.lang}>
-      <body style={{ margin: 0, fontFamily: 'Barlow, system-ui, -apple-system, sans-serif', background: '#ffffff', color: '#111111' }}>
+      <body style={{ margin: 0, fontFamily: 'Barlow, system-ui, -apple-system, sans-serif', background: '#ffffff', color: '#0e0e0e' }}>
         <div style={{ maxWidth: '640px', margin: '0 auto', padding: '4rem 1.5rem' }}>
 
           <a
@@ -131,7 +131,7 @@ export default function GlobalNotFound() {
               fontSize: '1.35rem',
               fontWeight: 600,
               letterSpacing: '.02em',
-              color: '#111111',
+              color: '#0e0e0e',
               textDecoration: 'none',
               marginBottom: '3rem',
             }}
@@ -145,7 +145,7 @@ export default function GlobalNotFound() {
               fontSize: '.7rem',
               letterSpacing: '.14em',
               textTransform: 'uppercase',
-              color: '#6d6d6d',
+              color: '#555555',
               marginBottom: '.75rem',
             }}
           >
@@ -164,7 +164,7 @@ export default function GlobalNotFound() {
             {ui.h1}
           </h1>
 
-          <p style={{ fontSize: '.95rem', color: '#3f3f3f', margin: '0 0 2.5rem 0' }}>{ui.sub}</p>
+          <p style={{ fontSize: '.95rem', color: '#2d2d2d', margin: '0 0 2.5rem 0' }}>{ui.sub}</p>
 
           <ul style={{ listStyle: 'none', padding: 0, margin: '0 0 2.5rem 0' }}>
             {ui.links.map((l) => (
@@ -174,7 +174,7 @@ export default function GlobalNotFound() {
                   style={{
                     display: 'block',
                     padding: '.95rem 0',
-                    color: '#111111',
+                    color: '#0e0e0e',
                     textDecoration: 'none',
                     fontSize: '1rem',
                   }}

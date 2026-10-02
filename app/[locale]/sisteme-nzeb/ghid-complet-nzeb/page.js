@@ -413,52 +413,52 @@ export default async function NZEBGhidPage({ params }) {
       <main style={{ maxWidth: '900px', margin: '0 auto', padding: '56px 24px' }}>
 
         {/* INTRO */}
-        <p style={{ fontSize: '1.05rem', color: '#1c1c1c', lineHeight: 1.75, marginBottom: '48px', borderLeft: '3px solid #2d7a4e', paddingLeft: '20px' }}>
+        <p style={{ fontSize: '1.05rem', color: '#0d0d0d', lineHeight: 1.75, marginBottom: '48px', borderLeft: '3px solid #2d7a4e', paddingLeft: '20px' }}>
           {ui.intro}
         </p>
 
         {/* SECTIUNEA 1 */}
-        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '16px' }}>
+        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '16px' }}>
           {ui.section1_h2}
         </h2>
-        <p style={{ fontSize: '.95rem', color: '#2f2f2f', lineHeight: 1.75, marginBottom: '48px' }}>
+        <p style={{ fontSize: '.95rem', color: '#1e1e1e', lineHeight: 1.75, marginBottom: '48px' }}>
           {ui.section1}
         </p>
 
         {/* SISTEME */}
-        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '24px' }}>
+        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '24px' }}>
           {ui.systems_h2}
         </h2>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill,minmax(270px,1fr))', gap: '16px', marginBottom: '48px' }}>
           {ui.systems.map((sys, i) => (
             <Link key={i} href={`/${sys.link}`} style={{ textDecoration: 'none' }}>
               <div style={{ border: '1px solid #e8e8e4', padding: '20px', background: '#fafaf8', transition: 'border-color .2s', borderRadius: '2px' }}>
-                <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: '.85rem', letterSpacing: '.08em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '8px' }}>{sys.name}</div>
-                <div style={{ fontSize: '.78rem', color: '#225c3b', fontWeight: 600, marginBottom: '4px' }}>{sys.uw}</div>
-                <div style={{ fontSize: '.75rem', color: '#6b6b6b', marginBottom: '8px' }}>{sys.chambers}</div>
-                <div style={{ fontSize: '.78rem', color: '#2f2f2f', lineHeight: 1.5 }}>{sys.ideal}</div>
+                <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: '.85rem', letterSpacing: '.08em', textTransform: 'uppercase', color: '#15222e', marginBottom: '8px' }}>{sys.name}</div>
+                <div style={{ fontSize: '.78rem', color: '#1a462d', fontWeight: 600, marginBottom: '4px' }}>{sys.uw}</div>
+                <div style={{ fontSize: '.75rem', color: '#555555', marginBottom: '8px' }}>{sys.chambers}</div>
+                <div style={{ fontSize: '.78rem', color: '#1e1e1e', lineHeight: 1.5 }}>{sys.ideal}</div>
               </div>
             </Link>
           ))}
         </div>
 
         {/* GEAM */}
-        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '16px' }}>
+        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '16px' }}>
           {ui.glass_h2}
         </h2>
-        <p style={{ fontSize: '.95rem', color: '#2f2f2f', lineHeight: 1.75, marginBottom: '48px' }}>{ui.glass}</p>
+        <p style={{ fontSize: '.95rem', color: '#1e1e1e', lineHeight: 1.75, marginBottom: '48px' }}>{ui.glass}</p>
 
         {/* MONTAJ */}
-        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '16px' }}>
+        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '16px' }}>
           {ui.montaj_h2}
         </h2>
-        <p style={{ fontSize: '.95rem', color: '#2f2f2f', lineHeight: 1.75, marginBottom: '48px' }}>{ui.montaj}</p>
+        <p style={{ fontSize: '.95rem', color: '#1e1e1e', lineHeight: 1.75, marginBottom: '48px' }}>{ui.montaj}</p>
 
         {/* nZEB */}
-        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '16px' }}>
+        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '16px' }}>
           {ui.nzeb_h2}
         </h2>
-        <p style={{ fontSize: '.95rem', color: '#2f2f2f', lineHeight: 1.75, marginBottom: '48px' }}>{ui.nzeb}</p>
+        <p style={{ fontSize: '.95rem', color: '#1e1e1e', lineHeight: 1.75, marginBottom: '48px' }}>{ui.nzeb}</p>
 
 {/* MID-PAGE WA CTA */}
         <div style={{background:'linear-gradient(135deg,#075e54 0%,#128c7e 100%)',padding:'28px 24px',borderRadius:'4px',display:'flex',flexDirection:'column',alignItems:'center',textAlign:'center',gap:'10px',margin:'0 0 48px'}}>
@@ -476,25 +476,25 @@ export default async function NZEBGhidPage({ params }) {
         </div>
 
         {/* FAQ */}
-        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '24px' }}>
+        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '24px' }}>
           {ui.faq_h2}
         </h2>
         <div style={{ marginBottom: '48px' }}>
           {ui.faq.map((item, i) => (
             <div key={i} style={{ borderBottom: '1px solid #eee', padding: '20px 0' }}>
-              <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 600, fontSize: '.95rem', letterSpacing: '.05em', color: '#1a2a3a', marginBottom: '8px' }}>{item.q}</div>
-              <div style={{ fontSize: '.88rem', color: '#404040', lineHeight: 1.65 }}>{item.a}</div>
+              <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 600, fontSize: '.95rem', letterSpacing: '.05em', color: '#15222e', marginBottom: '8px' }}>{item.q}</div>
+              <div style={{ fontSize: '.88rem', color: '#2e2e2e', lineHeight: 1.65 }}>{item.a}</div>
             </div>
           ))}
         </div>
 
         {/* ARTICOLE CORELATE */}
-        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '20px' }}>
+        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '20px' }}>
           {ui.related_h2}
         </h2>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill,minmax(200px,1fr))', gap: '12px', marginBottom: '56px' }}>
           {blogLinks.map((art, i) => (
-            <Link key={i} href={`/blog/${art.slug}`} style={{ textDecoration: 'none', display: 'block', padding: '16px', border: '1px solid #e8e8e4', background: '#fafaf8', fontSize: '.8rem', fontFamily: 'Barlow Condensed,sans-serif', letterSpacing: '.05em', color: '#225c3b', lineHeight: 1.4 }}>
+            <Link key={i} href={`/blog/${art.slug}`} style={{ textDecoration: 'none', display: 'block', padding: '16px', border: '1px solid #e8e8e4', background: '#fafaf8', fontSize: '.8rem', fontFamily: 'Barlow Condensed,sans-serif', letterSpacing: '.05em', color: '#1a462d', lineHeight: 1.4 }}>
               {art.label} &rarr;
             </Link>
           ))}

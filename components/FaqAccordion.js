@@ -8,7 +8,7 @@ export default function FaqAccordion({ items, title }) {
   return (
     <section style={{ margin: '64px 0 0' }}>
       <h2 style={{
-        fontSize: '1.25rem', fontWeight: 600, color: '#1a1a1a',
+        fontSize: '1.25rem', fontWeight: 600, color: '#151515',
         marginBottom: '24px',
         fontFamily: "var(--font-condensed,'Arial Narrow',sans-serif)"
       }}>{title}</h2>
@@ -25,11 +25,11 @@ export default function FaqAccordion({ items, title }) {
               onClick={() => setOpen(open === i ? null : i)}
               aria-expanded={open === i}
             >
-              <span style={{ fontSize: '.92rem', fontWeight: 600, color: '#1a1a1a', lineHeight: 1.4 }}>{q}</span>
+              <span style={{ fontSize: '.92rem', fontWeight: 600, color: '#151515', lineHeight: 1.4 }}>{q}</span>
               <span style={{
                 flexShrink: 0, width: '22px', height: '22px', borderRadius: '50%',
                 background: '#f0f0ec', display: 'flex', alignItems: 'center',
-                justifyContent: 'center', fontSize: '.8rem', color: '#242424',
+                justifyContent: 'center', fontSize: '.8rem', color: '#141414',
                 transition: 'transform .2s',
                 transform: open === i ? 'rotate(45deg)' : 'rotate(0deg)'
               }} aria-hidden="true">+</span>
@@ -39,7 +39,7 @@ export default function FaqAccordion({ items, title }) {
               maxHeight: open === i ? '400px' : '0px',
               transition: 'max-height .3s ease'
             }}>
-              <p style={{ padding: '0 0 18px', fontSize: '.88rem', color: '#2f2f2f', lineHeight: 1.7 }}>{a}</p>
+              <p style={{ padding: '0 0 18px', fontSize: '.88rem', color: '#1e1e1e', lineHeight: 1.7 }}>{a}</p>
             </div>
           </div>
         ))}

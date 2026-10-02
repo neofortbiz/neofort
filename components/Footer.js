@@ -167,7 +167,7 @@ export default function Footer({ googleRating }) {
   const iBase = { width:'100%', background:'transparent', border:'none', padding:'10px 0', fontFamily:'Barlow,sans-serif', fontSize:'.82rem', fontWeight:300, color:'#ddd', outline:'none', boxSizing:'border-box' };
   const iStyle = (field) => ({ ...iBase, borderBottom: err[field] ? '1px solid #e05252' : '1px solid #333' });
   const ErrMsg = ({ field }) => err[field]
-    ? <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.08em',color:'#e98686',display:'block',marginTop:'4px'}}>{err[field]}</span>
+    ? <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.08em',color:'#e98787',display:'block',marginTop:'4px'}}>{err[field]}</span>
     : null;
 
   return (
@@ -177,7 +177,7 @@ export default function Footer({ googleRating }) {
       <div style={{background:'#111',borderTop:'1px solid #222',padding:'10px 0 0'}}>
         <div className="footer-inner">
           <div style={{textAlign:'center',marginBottom:'8px'}}>
-            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#e3e3e3',display:'block',marginBottom:'3px'}}>
+            <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#e4e4e4',display:'block',marginBottom:'3px'}}>
               {ft.title_label}
             </span>
             <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(0.85rem, 2vw, 1.1rem)',color:'#fff',lineHeight:1.35,textAlign:'center'}}>
@@ -214,7 +214,7 @@ export default function Footer({ googleRating }) {
                     ].map(([l,v,h])=>(
                       <div key={l} style={{display:'flex',justifyContent:'space-between',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>
                         <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:300,color:'#a9a9a9'}}>{l}</span>
-                        <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#f7f7f7',textDecoration:'none'}}>{v}</a>
+                        <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#f8f8f8',textDecoration:'none'}}>{v}</a>
                       </div>
                     ))}
                     <div style={{marginTop:'20px'}}>
@@ -305,10 +305,10 @@ export default function Footer({ googleRating }) {
                       <path d="M9 5v5M9 12v1" stroke="#c0392b" strokeWidth="1.5" strokeLinecap="round"/>
                     </svg>
                     <div>
-                      <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.12em',textTransform:'uppercase',color:'#cf685d',marginBottom:'3px'}}>
+                      <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.72rem',letterSpacing:'.12em',textTransform:'uppercase',color:'#cf685e',marginBottom:'3px'}}>
                         {t('error')}
                       </div>
-                      <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.7rem',letterSpacing:'.05em',color:'#e98686',lineHeight:1.5}}>
+                      <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.7rem',letterSpacing:'.05em',color:'#e98787',lineHeight:1.5}}>
                         {errorMsg || t('error_desc')}
                       </div>
                     </div>
@@ -334,7 +334,7 @@ export default function Footer({ googleRating }) {
                   ].map(([l,v,h])=>(
                     <div key={l} style={{display:'flex',justifyContent:'space-between',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>
                       <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:300,color:'#a9a9a9'}}>{l}</span>
-                      <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#f7f7f7',textDecoration:'none'}}>{v}</a>
+                      <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#f8f8f8',textDecoration:'none'}}>{v}</a>
                     </div>
                   ))}
                   <div style={{marginTop:'20px'}}>

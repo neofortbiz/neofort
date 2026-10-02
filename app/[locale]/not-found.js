@@ -132,7 +132,7 @@ export default function NotFound() {
                   style={{
                     display: 'block',
                     padding: '0.9rem 0',
-                    color: '#111111',
+                    color: '#0e0e0e',
                     textDecoration: 'none',
                     fontSize: '1rem',
                   }}

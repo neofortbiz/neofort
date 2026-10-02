@@ -381,31 +381,31 @@ export default async function UmbrirePreturiPage({ params }) {
       </section>
 
       <main style={{ maxWidth: '900px', margin: '0 auto', padding: '56px 24px' }}>
-        <p style={{ fontSize: '1.05rem', color: '#1c1c1c', lineHeight: 1.75, marginBottom: '48px', borderLeft: '3px solid #6a2d9e', paddingLeft: '20px' }}>
+        <p style={{ fontSize: '1.05rem', color: '#0d0d0d', lineHeight: 1.75, marginBottom: '48px', borderLeft: '3px solid #6a2d9e', paddingLeft: '20px' }}>
           {ui.intro}
         </p>
 
-        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '20px' }}>
+        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '20px' }}>
           {ui.h2_factors}
         </h2>
         <ul style={{ marginBottom: '48px', paddingLeft: '0', listStyle: 'none' }}>
           {ui.factors.map((f, i) => (
             <li key={i} style={{ display: 'flex', gap: '12px', marginBottom: '16px', alignItems: 'flex-start' }}>
               <span style={{ flexShrink: 0, width: '24px', height: '24px', background: '#6a2d9e', color: '#fff', fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: '.75rem', display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '2px', marginTop: '2px' }}>{i+1}</span>
-              <span style={{ fontSize: '.92rem', color: '#2f2f2f', lineHeight: 1.65 }}>{f}</span>
+              <span style={{ fontSize: '.92rem', color: '#1e1e1e', lineHeight: 1.65 }}>{f}</span>
             </li>
           ))}
         </ul>
 
-        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '24px' }}>
+        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '24px' }}>
           {ui.h2_products}
         </h2>
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill,minmax(250px,1fr))', gap: '20px', marginBottom: '56px' }}>
           {ui.products.map((prod, i) => (
             <div key={i} style={{ border: '1px solid #e8e8e4', padding: '24px', background: '#fafaf8' }}>
-              <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: '.9rem', letterSpacing: '.08em', textTransform: 'uppercase', color: '#1a2a3a', marginBottom: '10px' }}>{prod.name}</div>
-              <div style={{ fontSize: '.82rem', color: '#242424', lineHeight: 1.65, marginBottom: '16px' }}>{prod.desc}</div>
-              <Link href={`/${prod.link}`} style={{ fontFamily: 'Barlow Condensed,sans-serif', fontSize: '.72rem', letterSpacing: '.15em', textTransform: 'uppercase', color: '#461e69', textDecoration: 'none', fontWeight: 600 }}>
+              <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: '.9rem', letterSpacing: '.08em', textTransform: 'uppercase', color: '#15222e', marginBottom: '10px' }}>{prod.name}</div>
+              <div style={{ fontSize: '.82rem', color: '#141414', lineHeight: 1.65, marginBottom: '16px' }}>{prod.desc}</div>
+              <Link href={`/${prod.link}`} style={{ fontFamily: 'Barlow Condensed,sans-serif', fontSize: '.72rem', letterSpacing: '.15em', textTransform: 'uppercase', color: '#2f1446', textDecoration: 'none', fontWeight: 600 }}>
                 {prod.cta} &rarr;
               </Link>
             </div>

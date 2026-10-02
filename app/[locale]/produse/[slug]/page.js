@@ -134,7 +134,7 @@ const PRODUCTS = {
 
   'bluevolution-92-alu': {
     img: '/products/bluevolution-92-alu.avif',
-    color: '#204065',
+    color: '#162d47',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'BluEvolution 92', en:'BluEvolution 92', de:'BluEvolution 92', fr:'BluEvolution 92', es:'BluEvolution 92', it:'BluEvolution 92' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -269,7 +269,7 @@ const PRODUCTS = {
 
   'bluevolution-92-flex': {
     img: '/products/bluevolution-92-flex.avif',
-    color: '#204065',
+    color: '#162d47',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'BluEvolution 92', en:'BluEvolution 92', de:'BluEvolution 92', fr:'BluEvolution 92', es:'BluEvolution 92', it:'BluEvolution 92' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -326,7 +326,7 @@ const PRODUCTS = {
 
   'bluevolution-92-round': {
     img: '/products/bluevolution-92-round.avif',
-    color: '#204065',
+    color: '#162d47',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'BluEvolution 92', en:'BluEvolution 92', de:'BluEvolution 92', fr:'BluEvolution 92', es:'BluEvolution 92', it:'BluEvolution 92' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -383,7 +383,7 @@ const PRODUCTS = {
 
   'greenevolution-76-md-round': {
     img: '/products/greenevolution-76-md-round.avif',
-    color: '#385f44',
+    color: '#2b4834',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'GreenEvolution 76', en:'GreenEvolution 76', de:'GreenEvolution 76', fr:'GreenEvolution 76', es:'GreenEvolution 76', it:'GreenEvolution 76' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -440,7 +440,7 @@ const PRODUCTS = {
 
   'greenevolution-76-md-flex': {
     img: '/products/greenevolution-76-md-flex.avif',
-    color: '#385f44',
+    color: '#2b4834',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'GreenEvolution 76', en:'GreenEvolution 76', de:'GreenEvolution 76', fr:'GreenEvolution 76', es:'GreenEvolution 76', it:'GreenEvolution 76' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -497,7 +497,7 @@ const PRODUCTS = {
 
   'greenevolution-76-ad-flex': {
     img: '/products/greenevolution-76-ad-flex.avif',
-    color: '#385f44',
+    color: '#2b4834',
     category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
     serie: { ro:'GreenEvolution 76', en:'GreenEvolution 76', de:'GreenEvolution 76', fr:'GreenEvolution 76', es:'GreenEvolution 76', it:'GreenEvolution 76' },
     breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -655,10 +655,10 @@ export default async function ProductPage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <style>{`
         /* ── BREADCRUMB ── */
-        .prd-bc { font-size:.76rem; letter-spacing:.12em; text-transform:uppercase; color:#242424; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
-        .prd-bc a { color:#242424; text-decoration:none; }
-        .prd-bc a:hover { color:#1a1a1a; }
-        .prd-bc span { color:#242424; }
+        .prd-bc { font-size:.76rem; letter-spacing:.12em; text-transform:uppercase; color:#141414; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
+        .prd-bc a { color:#141414; text-decoration:none; }
+        .prd-bc a:hover { color:#151515; }
+        .prd-bc span { color:#141414; }
 
         /* ── HERO GRID ── */
         .prd-hero { display:grid; grid-template-columns:1fr 1fr; gap:48px; align-items:start; }
@@ -667,42 +667,42 @@ export default async function ProductPage({ params }) {
         .prd-badge-serie { position:absolute; top:12px; left:12px; font-family:'Barlow Condensed',sans-serif; font-size:.52rem; letter-spacing:.2em; text-transform:uppercase; font-weight:700; padding:4px 10px; }
         .prd-info { display:flex; flex-direction:column; }
         .prd-cat-label { font-family:'Barlow Condensed',sans-serif; font-size:.57rem; letter-spacing:.2em; text-transform:uppercase; font-weight:600; margin-bottom:10px; }
-        .prd-title { font-family:'Barlow Condensed',sans-serif; font-weight:700; font-size:clamp(1.4rem,3vw,2rem); color:#1a1a1a; line-height:1.15; margin:0 0 14px; }
-        .prd-tagline { font-size:.88rem; color:#3b3b3b; line-height:1.6; margin:0 0 28px; border-left:3px solid; padding-left:14px; }
+        .prd-title { font-family:'Barlow Condensed',sans-serif; font-weight:700; font-size:clamp(1.4rem,3vw,2rem); color:#151515; line-height:1.15; margin:0 0 14px; }
+        .prd-tagline { font-size:.88rem; color:#2a2a2a; line-height:1.6; margin:0 0 28px; border-left:3px solid; padding-left:14px; }
 
         /* ── SPECS TABLES ── */
-        .prd-section-title { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.74rem; letter-spacing:.22em; text-transform:uppercase; color:#1a1a1a; margin:0 0 14px; }
+        .prd-section-title { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.74rem; letter-spacing:.22em; text-transform:uppercase; color:#151515; margin:0 0 14px; }
         .prd-specs-grid { display:grid; grid-template-columns:1fr 1fr; gap:1px; background:#e8e8e4; border:1px solid #e8e8e4; margin-bottom:28px; }
         .prd-spec-row { background:#fff; display:flex; justify-content:space-between; gap:8px; padding:7px 10px; font-size:.73rem; }
-        .prd-spec-row strong { color:#1a1a1a; font-weight:600; flex-shrink:0; }
-        .prd-spec-row span { color:#3b3b3b; text-align:right; }
+        .prd-spec-row strong { color:#151515; font-weight:600; flex-shrink:0; }
+        .prd-spec-row span { color:#2a2a2a; text-align:right; }
 
         /* ── PERF TABLE ── */
         .prd-perf-table { width:100%; border-collapse:collapse; margin-bottom:28px; font-size:.73rem; }
         .prd-perf-table tr { border-bottom:1px solid #f0f0ee; }
         .prd-perf-table td { padding:6px 8px; }
-        .prd-perf-table td:first-child { color:#1a1a1a; width:55%; font-weight:400; font-size:.82rem; }
-        .prd-perf-table td:last-child { font-weight:700; color:#1a1a1a; text-align:right; }
+        .prd-perf-table td:first-child { color:#151515; width:55%; font-weight:400; font-size:.82rem; }
+        .prd-perf-table td:last-child { font-weight:700; color:#151515; text-align:right; }
 
         /* ── ADVANTAGES ── */
         .prd-adv-list { list-style:none; padding:0; margin:0 0 28px; }
-        .prd-adv-list li { font-size:.8rem; color:#292929; padding:8px 0 8px 20px; border-bottom:1px solid #f5f5f3; position:relative; line-height:1.5; }
+        .prd-adv-list li { font-size:.8rem; color:#181818; padding:8px 0 8px 20px; border-bottom:1px solid #f5f5f3; position:relative; line-height:1.5; }
         .prd-adv-list li:last-child { border-bottom:none; }
         .prd-adv-list li::before { content:''; position:absolute; left:0; top:14px; width:8px; height:2px; }
 
         /* ── CTA SIDEBAR ── */
         .prd-cta-box { background:#111; padding:24px; position:sticky; top:100px; }
-        .prd-cta-h { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.74rem; letter-spacing:.2em; text-transform:uppercase; color:#1a1a1a; margin-bottom:8px; }
+        .prd-cta-h { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.74rem; letter-spacing:.2em; text-transform:uppercase; color:#151515; margin-bottom:8px; }
         .prd-cta-name { font-family:'Barlow Condensed',sans-serif; font-weight:700; font-size:1.05rem; color:#fff; margin-bottom:16px; line-height:1.2; }
-        .prd-cta-sub { font-size:.84rem; color:#1a1a1a; margin-bottom:20px; }
+        .prd-cta-sub { font-size:.84rem; color:#151515; margin-bottom:20px; }
         .prd-cta-btn { display:block; width:100%; padding:12px; text-align:center; font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.7rem; letter-spacing:.18em; text-transform:uppercase; text-decoration:none; margin-bottom:10px; transition:all .18s; }
-        .prd-cta-btn-primary { color:#111; background:#fff; }
+        .prd-cta-btn-primary { color:#0e0e0e; background:#fff; }
         .prd-cta-btn-primary:hover { background:#f0f0f0; }
         .prd-cta-btn-secondary { color:#fff; border:1px solid #333; }
         .prd-cta-btn-secondary:hover { border-color:#404040; }
 
         /* ── SEO TEXT ── */
-        .prd-seo { font-size:.82rem; color:#2f2f2f; line-height:1.8; padding:32px 0; border-top:1px solid #e8e8e4; margin-top:8px; }
+        .prd-seo { font-size:.82rem; color:#1e1e1e; line-height:1.8; padding:32px 0; border-top:1px solid #e8e8e4; margin-top:8px; }
         .prd-seo p { margin:0; }
 
         /* ── LAYOUT LOWER ── */
@@ -711,7 +711,7 @@ export default async function ProductPage({ params }) {
         /* ── CTA MOBILE (sticky bottom) ── */
         .prd-cta-mobile { display:none; position:fixed; bottom:0; left:0; right:0; background:#111; padding:12px 16px; z-index:100; display:flex; gap:10px; border-top:1px solid #222; }
         .prd-cta-mobile a { flex:1; padding:11px 8px; text-align:center; font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.65rem; letter-spacing:.14em; text-transform:uppercase; text-decoration:none; transition:all .18s; }
-        .prd-cta-mobile-pri { background:#fff; color:#111; }
+        .prd-cta-mobile-pri { background:#fff; color:#0e0e0e; }
         .prd-cta-mobile-sec { border:1px solid #333; color:#fff; }
 
         /* ── RESPONSIVE ── */
@@ -743,7 +743,7 @@ export default async function ProductPage({ params }) {
           <span>·</span>
           <Link href={product.breadcrumb_parent_href}>{bpLabel}</Link>
           <span>·</span>
-          <span style={{color:'#1a1a1a'}}>{serie}</span>
+          <span style={{color:'#151515'}}>{serie}</span>
         </nav>
 
         {/* HERO: imagine + info + specs inline */}

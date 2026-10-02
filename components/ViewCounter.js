@@ -32,7 +32,7 @@ export default function ViewCounter({ slug }) {
       fontFamily: 'Barlow Condensed, sans-serif',
       fontSize: '.58rem',
       letterSpacing: '.06em',
-      color: '#767676',
+      color: '#5c5c5c',
     }}>
       {EYE_ICON}
       {views.toLocaleString()}

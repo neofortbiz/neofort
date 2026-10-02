@@ -128,7 +128,7 @@ export default async function BlogPage({ params }) {
             <span style={{
               fontFamily:'Barlow Condensed,sans-serif', fontWeight:400,
               fontSize:'.58rem', letterSpacing:'.22em', textTransform:'uppercase',
-              color:'#71987d', display:'block', marginBottom:'14px',
+              color:'#71987c', display:'block', marginBottom:'14px',
             }}>{hero.label}</span>
             <h1 style={{
               fontFamily:'Barlow Condensed,sans-serif', fontWeight:600,

@@ -341,7 +341,7 @@ export default async function ServiciiPage({ params }) {
             {href:'/contact',           ro:'Solicită Ofertă',            en:'Request Quote',                de:'Angebot anfragen',             fr:'Demander un devis',            es:'Pedir presupuesto',            it:'Richiedi preventivo'},
           ].map((item,i) => (
             <Link key={i} href={item.href}
-              style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#11305a',textDecoration:'none',fontWeight:500}}>
+              style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#0b1f3a',textDecoration:'none',fontWeight:500}}>
               {item[locale]||item.ro}
             </Link>
           ))}

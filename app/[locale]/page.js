@@ -496,10 +496,10 @@ export default async function HomePage({ params }) {
                 style={{width:'100%',height:'160px',objectFit:'cover',display:'block'}}
               />
               <div style={{padding:'28px 36px 36px',display:'flex',flexDirection:'column',flex:1}}>
-                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#5b5b5b',marginBottom:'14px',display:'block'}}>{c.hero_pvc_tag}</span>
-                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#385f44',display:'block',marginBottom:'14px'}}>{c.hero_pvc_label}</span>
-                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.35rem',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_pvc_title}</h2>
-                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#5b5b5b',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_pvc_desc}</p>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#454545',marginBottom:'14px',display:'block'}}>{c.hero_pvc_tag}</span>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#2b4834',display:'block',marginBottom:'14px'}}>{c.hero_pvc_label}</span>
+                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.35rem',color:'#151515',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_pvc_title}</h2>
+                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#454545',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_pvc_desc}</p>
                 <span className="btn btn-pvc" style={{display:'block',textAlign:'center'}}>{c.hero_pvc_btn}</span>
               </div>
             </Link>
@@ -515,10 +515,10 @@ export default async function HomePage({ params }) {
                 style={{width:'100%',height:'160px',objectFit:'cover',display:'block'}}
               />
               <div style={{padding:'28px 36px 36px',display:'flex',flexDirection:'column',flex:1}}>
-                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#5b5b5b',marginBottom:'14px',display:'block'}}>{c.hero_al_tag}</span>
-                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#204065',display:'block',marginBottom:'14px'}}>{c.hero_al_label}</span>
-                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.35rem',color:'#1a1a1a',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_al_title}</h2>
-                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#5b5b5b',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_al_desc}</p>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#454545',marginBottom:'14px',display:'block'}}>{c.hero_al_tag}</span>
+                <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#162d47',display:'block',marginBottom:'14px'}}>{c.hero_al_label}</span>
+                <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.35rem',color:'#151515',lineHeight:1.2,marginBottom:'18px'}}>{c.hero_al_title}</h2>
+                <p style={{fontSize:'0.8625rem',fontWeight:300,color:'#454545',lineHeight:1.75,marginBottom:'32px',textAlign:'justify'}}>{c.hero_al_desc}</p>
                 <span className="btn btn-aluminiu" style={{display:'block',textAlign:'center'}}>{c.hero_al_btn}</span>
               </div>
             </Link>
@@ -532,25 +532,25 @@ export default async function HomePage({ params }) {
           <div className="intro-grid-title">
             <div>
               <span className="sec-label">{c.sec_label_intro}</span>
-              <h2 className="home-h2-intro" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2625rem, 4vw, 1.9625rem)',color:'#1a1a1a',lineHeight:1.2,marginBottom:'0',letterSpacing:'.01em'}}>
+              <h2 className="home-h2-intro" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2625rem, 4vw, 1.9625rem)',color:'#151515',lineHeight:1.2,marginBottom:'0',letterSpacing:'.01em'}}>
                 {c.intro_h2.split('\n')[0]}<br/>{c.intro_h2.split('\n')[1]}
               </h2>
             </div>
             <div/>
           </div>
           <div className="intro-grid-texts speakable-intro">
-            <p style={{fontSize:'0.8825rem',fontWeight:300,color:'#5b5b5b',lineHeight:1.75,textAlign:'justify'}}>{c.intro_p1}</p>
-            <p style={{fontSize:'0.8825rem',fontWeight:300,color:'#5b5b5b',lineHeight:1.75,textAlign:'justify'}}>
+            <p style={{fontSize:'0.8825rem',fontWeight:300,color:'#454545',lineHeight:1.75,textAlign:'justify'}}>{c.intro_p1}</p>
+            <p style={{fontSize:'0.8825rem',fontWeight:300,color:'#454545',lineHeight:1.75,textAlign:'justify'}}>
               {c.intro_p2_pre}{' '}
-              <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b1}</strong>{' '}
+              <strong style={{color:'#151515',fontWeight:500}}>{c.intro_p2_b1}</strong>{' '}
               {c.intro_p2_mid}{' '}
-              <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b2}</strong>,{' '}
+              <strong style={{color:'#151515',fontWeight:500}}>{c.intro_p2_b2}</strong>,{' '}
               {locale === 'ro' ? 'echipa noastră oferă consultanță tehnică dedicată și ' : locale === 'en' ? 'our team offers dedicated technical consultancy and ' : locale === 'de' ? 'unser Team bietet fachkundige Beratung und ' : locale === 'fr' ? 'notre équipe offre une expertise technique et ' : locale === 'es' ? 'nuestro equipo ofrece asesoramiento técnico y ' : 'il nostro team offre consulenza tecnica dedicata e '}
-              <Link href="/servicii" style={{color:'#1a1a1a',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link1}</Link>.{' '}
+              <Link href="/servicii" style={{color:'#151515',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link1}</Link>.{' '}
               {locale === 'ro' ? 'Gama noastră include ' : locale === 'en' ? 'Our range includes ' : locale === 'de' ? 'Unser Sortiment umfasst ' : locale === 'fr' ? 'Notre gamme comprend ' : locale === 'es' ? 'Nuestra gama incluye ' : 'La nostra gamma include '}
-              <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b3}</strong>{' '}{c.intro_p2_and}{' '}
-              <strong style={{color:'#1a1a1a',fontWeight:500}}>{c.intro_p2_b4}</strong>,{' '}
-              <Link href="/accesorii" style={{color:'#1a1a1a',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link2}</Link>{' '}
+              <strong style={{color:'#151515',fontWeight:500}}>{c.intro_p2_b3}</strong>{' '}{c.intro_p2_and}{' '}
+              <strong style={{color:'#151515',fontWeight:500}}>{c.intro_p2_b4}</strong>,{' '}
+              <Link href="/accesorii" style={{color:'#151515',fontWeight:500,textDecoration:'underline',textUnderlineOffset:'3px'}}>{c.intro_p2_link2}</Link>{' '}
               {c.intro_p2_end}
             </p>
           </div>
@@ -559,13 +559,13 @@ export default async function HomePage({ params }) {
               i === 3 ? (
                 <a key={l} href="https://maps.app.goo.gl/dvbPRmMwAroCPfSC8" target="_blank" rel="noopener noreferrer"
                   style={{padding:'24px 20px',textAlign:'center',borderRight:'none',textDecoration:'none',display:'block'}}>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#674600',lineHeight:1}}>{n}</div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#5b5b5b',marginTop:'5px',lineHeight:1.3}}>{l}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#4d3500',lineHeight:1}}>{n}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#454545',marginTop:'5px',lineHeight:1.3}}>{l}</div>
                 </a>
               ) : (
                 <div key={l} style={{padding:'24px 20px',textAlign:'center',borderRight:i<3?'1px solid #e8e8e8':'none'}}>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#1a1a1a',lineHeight:1}}>{n}</div>
-                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#5b5b5b',marginTop:'5px',lineHeight:1.3}}>{l}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.6625rem',color:'#151515',lineHeight:1}}>{n}</div>
+                  <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.6425rem',letterSpacing:'.14em',textTransform:'uppercase',color:'#454545',marginTop:'5px',lineHeight:1.3}}>{l}</div>
                 </div>
               )
             ))}
@@ -582,8 +582,8 @@ export default async function HomePage({ params }) {
               <Link key={p.href} href={p.href} className="prod-card" style={{borderTop:`3px solid ${p.topColor}`,textDecoration:'none'}}>
                 <div style={{padding:'22px 22px 24px',display:'flex',flexDirection:'column',flex:1}}>
                   <span aria-hidden="true" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6625rem',letterSpacing:'.2em',textTransform:'uppercase',color:p.topColor,display:'block',marginBottom:'9px'}}>{p.tag}</span>
-                  <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0125rem',color:'#1a1a1a',marginBottom:'9px',letterSpacing:'.02em'}}>{p.title}</h3>
-                  <p style={{fontSize:'0.8225rem',fontWeight:300,color:'#5b5b5b',lineHeight:1.7,flex:1,textAlign:'justify',marginBottom:'18px'}}>{p.desc}</p>
+                  <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0125rem',color:'#151515',marginBottom:'9px',letterSpacing:'.02em'}}>{p.title}</h3>
+                  <p style={{fontSize:'0.8225rem',fontWeight:300,color:'#454545',lineHeight:1.7,flex:1,textAlign:'justify',marginBottom:'18px'}}>{p.desc}</p>
                   <span className={p.btn}>
                     {locale === 'ro' ? 'DETALII →' : locale === 'en' ? 'DETAILS →' : locale === 'de' ? 'DETAILS →' : locale === 'fr' ? 'DÉTAILS →' : locale === 'es' ? 'DETALLES →' : 'DETTAGLI →'}
                   </span>
@@ -600,16 +600,16 @@ export default async function HomePage({ params }) {
           <div style={{display:'flex',justifyContent:'space-between',alignItems:'flex-end',marginBottom:'36px',flexWrap:'wrap',gap:'16px'}}>
             <div>
               <span className="sec-label">{c.sec_label_steps}</span>
-              <h2 className="home-h2-steps" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2625rem, 4vw, 2.0625rem)',color:'#1a1a1a'}}>{c.steps_h2}</h2>
+              <h2 className="home-h2-steps" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2625rem, 4vw, 2.0625rem)',color:'#151515'}}>{c.steps_h2}</h2>
             </div>
-            <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#5b5b5b',maxWidth:'220px',textAlign:'right',lineHeight:1.6}}>{c.steps_sub}</p>
+            <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#454545',maxWidth:'220px',textAlign:'right',lineHeight:1.6}}>{c.steps_sub}</p>
           </div>
           <div className="steps-grid-home">
             {c.steps.map((s,i)=>(
               <div key={s.n} className="step-item" style={{padding:'36px 32px',borderRight:i<2?'1px solid #e8e8e8':'none'}}>
-                <div aria-hidden="true" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'clamp(1.6625rem, 4vw, 2.4625rem)',color:'#5b5b5b',lineHeight:1,marginBottom:'20px'}}>{s.n}</div>
-                <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0125rem',color:'#1a1a1a',marginBottom:'10px'}}>{s.title}</h3>
-                <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#5b5b5b',lineHeight:1.7,textAlign:'justify'}}>{s.desc}</p>
+                <div aria-hidden="true" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:300,fontSize:'clamp(1.6625rem, 4vw, 2.4625rem)',color:'#454545',lineHeight:1,marginBottom:'20px'}}>{s.n}</div>
+                <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'1.0125rem',color:'#151515',marginBottom:'10px'}}>{s.title}</h3>
+                <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#454545',lineHeight:1.7,textAlign:'justify'}}>{s.desc}</p>
               </div>
             ))}
           </div>
@@ -622,15 +622,15 @@ export default async function HomePage({ params }) {
           <div className="why-grid-home">
             <div>
               <span className="sec-label">{c.sec_label_why}</span>
-              <h2 className="home-h2-why" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2625rem, 4vw, 2.2625rem)',color:'#1a1a1a',lineHeight:1.2}}>
+              <h2 className="home-h2-why" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2625rem, 4vw, 2.2625rem)',color:'#151515',lineHeight:1.2}}>
                 {c.why_h2.split('\n')[0]}<br/>{c.why_h2.split('\n')[1]}
               </h2>
             </div>
             <div className="why-cards-grid">
               {c.why_cards.map((item,i)=>(
                 <div key={i} className="why-card-item" style={{padding:'20px 18px',borderTop:'1px solid #e8e8e8',borderRight:i%2===0?'1px solid #e8e8e8':'none'}}>
-                  <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'0.8625rem',letterSpacing:'.06em',textTransform:'uppercase',color:'#1a1a1a',marginBottom:'7px'}}>{item.title}</h3>
-                  <p style={{fontSize:'0.8225rem',fontWeight:300,color:'#5b5b5b',lineHeight:1.7,textAlign:'justify'}}>{item.desc}</p>
+                  <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'0.8625rem',letterSpacing:'.06em',textTransform:'uppercase',color:'#151515',marginBottom:'7px'}}>{item.title}</h3>
+                  <p style={{fontSize:'0.8225rem',fontWeight:300,color:'#454545',lineHeight:1.7,textAlign:'justify'}}>{item.desc}</p>
                 </div>
               ))}
             </div>
@@ -643,16 +643,16 @@ export default async function HomePage({ params }) {
         <div className="container">
           <div style={{maxWidth:'780px',margin:'0 auto'}}>
             <span className="sec-label">{c.sec_label_faq}</span>
-            <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2rem, 4vw, 1.8rem)',color:'#1a1a1a',marginBottom:'36px'}}>
+            <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(1.2rem, 4vw, 1.8rem)',color:'#151515',marginBottom:'36px'}}>
               {c.faq_h2}
             </h2>
             {c.faqs.map((item,i)=>(
               <details key={i} style={{borderBottom:'1px solid #e8e8e8',padding:'18px 0'}}>
-                <summary style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'0.92rem',color:'#1a1a1a',cursor:'pointer',letterSpacing:'.02em',listStyle:'none',display:'flex',justifyContent:'space-between',alignItems:'center'}}>
+                <summary style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'0.92rem',color:'#151515',cursor:'pointer',letterSpacing:'.02em',listStyle:'none',display:'flex',justifyContent:'space-between',alignItems:'center'}}>
                   {item.q}
-                  <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1.1rem',color:'#717171',marginLeft:'16px',flexShrink:0}}>+</span>
+                  <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1.1rem',color:'#545454',marginLeft:'16px',flexShrink:0}}>+</span>
                 </summary>
-                <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#5b5b5b',lineHeight:1.75,marginTop:'12px',textAlign:'justify'}}>{item.a}</p>
+                <p style={{fontSize:'0.8425rem',fontWeight:300,color:'#454545',lineHeight:1.75,marginTop:'12px',textAlign:'justify'}}>{item.a}</p>
               </details>
             ))}
           </div>

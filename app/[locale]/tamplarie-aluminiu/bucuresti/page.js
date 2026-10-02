@@ -403,12 +403,12 @@ export default async function BucurestiPage({ params }) {
       {/* PAGE HEADER */}
       <div className="page-header">
         <div className="container mx-auto px-6">
-          <nav style={{ fontSize: '.65rem', letterSpacing: '.12em', textTransform: 'uppercase', color: '#242424', display: 'flex', flexWrap: 'wrap', gap: '6px', alignItems: 'center', marginBottom: '16px' }}>
-            <Link href="/" style={{ color: '#242424', textDecoration: 'none' }}>Neofort BIZ</Link>
-            <span style={{ color: '#2f2f2f' }}>›</span>
-            <Link href={`/${parentSlug}`} style={{ color: '#242424', textDecoration: 'none' }}>{ui.parent}</Link>
-            <span style={{ color: '#2f2f2f' }}>›</span>
-            <span style={{ color: '#1a1a1a' }}>{cityName}</span>
+          <nav style={{ fontSize: '.65rem', letterSpacing: '.12em', textTransform: 'uppercase', color: '#141414', display: 'flex', flexWrap: 'wrap', gap: '6px', alignItems: 'center', marginBottom: '16px' }}>
+            <Link href="/" style={{ color: '#141414', textDecoration: 'none' }}>Neofort BIZ</Link>
+            <span style={{ color: '#1e1e1e' }}>›</span>
+            <Link href={`/${parentSlug}`} style={{ color: '#141414', textDecoration: 'none' }}>{ui.parent}</Link>
+            <span style={{ color: '#1e1e1e' }}>›</span>
+            <span style={{ color: '#151515' }}>{cityName}</span>
           </nav>
           <span className="sec-label">{ui.label}</span>
           <h1 className="font-condensed text-4xl font-semibold text-primary mb-3">{ui.h1}</h1>
@@ -418,15 +418,15 @@ export default async function BucurestiPage({ params }) {
 
       <section className="py-16">
         <div className="container mx-auto px-6 max-w-4xl">
-          <p style={{ fontSize: '.92rem', color: '#2f2f2f', lineHeight: 1.8, marginBottom: '48px' }}>{ui.intro}</p>
+          <p style={{ fontSize: '.92rem', color: '#1e1e1e', lineHeight: 1.8, marginBottom: '48px' }}>{ui.intro}</p>
 
           {/* ZONE */}
           <h2 className="font-condensed text-2xl font-semibold text-primary mb-6">{ui.zones_title}</h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(220px,1fr))', gap: '12px', marginBottom: '48px' }}>
             {ui.zones.map(([zone, areas], i) => (
               <div key={i} style={{ padding: '16px', border: '1px solid #e8e8e4', borderRadius: '6px', borderLeft: '3px solid #2d5a8e' }}>
-                <p style={{ fontSize: '.88rem', fontWeight: 600, color: '#1a1a1a', marginBottom: '4px' }}>{zone}</p>
-                <p style={{ fontSize: '.8rem', color: '#2f2f2f', lineHeight: 1.5 }}>{areas}</p>
+                <p style={{ fontSize: '.88rem', fontWeight: 600, color: '#151515', marginBottom: '4px' }}>{zone}</p>
+                <p style={{ fontSize: '.8rem', color: '#1e1e1e', lineHeight: 1.5 }}>{areas}</p>
               </div>
             ))}
           </div>
@@ -436,8 +436,8 @@ export default async function BucurestiPage({ params }) {
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(280px,1fr))', gap: '16px', marginBottom: '48px' }}>
             {ui.why.map(([title, desc], i) => (
               <div key={i} style={{ padding: '20px', border: '1px solid #e8e8e4', borderRadius: '6px', borderTop: '3px solid #2d5a8e' }}>
-                <p style={{ fontSize: '.88rem', fontWeight: 600, color: '#1a1a1a', marginBottom: '6px' }}>{title}</p>
-                <p style={{ fontSize: '.84rem', color: '#2f2f2f', lineHeight: 1.6 }}>{desc}</p>
+                <p style={{ fontSize: '.88rem', fontWeight: 600, color: '#151515', marginBottom: '6px' }}>{title}</p>
+                <p style={{ fontSize: '.84rem', color: '#1e1e1e', lineHeight: 1.6 }}>{desc}</p>
               </div>
             ))}
           </div>
@@ -448,11 +448,11 @@ export default async function BucurestiPage({ params }) {
             {ui.process.map(([day, title, desc], i) => (
               <div key={i} style={{ display: 'flex', gap: '20px', padding: '16px 0', borderBottom: i < ui.process.length - 1 ? '1px solid #e8e8e4' : 'none', alignItems: 'flex-start' }}>
                 <div style={{ flexShrink: 0, width: '80px', textAlign: 'right' }}>
-                  <span style={{ fontSize: '.75rem', color: '#204065', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '.06em' }}>{day}</span>
+                  <span style={{ fontSize: '.75rem', color: '#162d47', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '.06em' }}>{day}</span>
                 </div>
                 <div>
-                  <p style={{ fontSize: '.9rem', fontWeight: 600, color: '#1a1a1a', marginBottom: '4px' }}>{title}</p>
-                  <p style={{ fontSize: '.85rem', color: '#2f2f2f', lineHeight: 1.6 }}>{desc}</p>
+                  <p style={{ fontSize: '.9rem', fontWeight: 600, color: '#151515', marginBottom: '4px' }}>{title}</p>
+                  <p style={{ fontSize: '.85rem', color: '#1e1e1e', lineHeight: 1.6 }}>{desc}</p>
                 </div>
               </div>
             ))}
@@ -463,11 +463,11 @@ export default async function BucurestiPage({ params }) {
 
           {/* SEE ALSO */}
           <div style={{ marginTop: '48px', padding: '24px', background: '#f8f8f6', borderRadius: '6px' }}>
-            <p style={{ fontSize: '.84rem', color: '#242424', marginBottom: '12px', textTransform: 'uppercase', letterSpacing: '.08em' }}>{ui.see_also}</p>
+            <p style={{ fontSize: '.84rem', color: '#141414', marginBottom: '12px', textTransform: 'uppercase', letterSpacing: '.08em' }}>{ui.see_also}</p>
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
-              <Link href={`/${parentSlug}`} style={{ fontSize: '.88rem', color: '#204065', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_main}</Link>
-              <span style={{ color: '#2f2f2f' }}>·</span>
-              <Link href={`/${pricesSlug}`} style={{ fontSize: '.88rem', color: '#204065', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_prices}</Link>
+              <Link href={`/${parentSlug}`} style={{ fontSize: '.88rem', color: '#162d47', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_main}</Link>
+              <span style={{ color: '#1e1e1e' }}>·</span>
+              <Link href={`/${pricesSlug}`} style={{ fontSize: '.88rem', color: '#162d47', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_prices}</Link>
             </div>
           </div>
         </div>
@@ -477,10 +477,10 @@ export default async function BucurestiPage({ params }) {
       <section style={{ background: '#f4f4f1', padding: '64px 0' }}>
         <div className="container mx-auto px-6 text-center max-w-2xl">
           <h2 className="font-condensed text-3xl font-semibold text-primary mb-4">{ui.cta_h}</h2>
-          <p style={{ fontSize: '.9rem', color: '#2f2f2f', marginBottom: '32px' }}>{ui.cta_sub}</p>
+          <p style={{ fontSize: '.9rem', color: '#1e1e1e', marginBottom: '32px' }}>{ui.cta_sub}</p>
           <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap' }}>
             <Link href="/contact" style={{ display: 'inline-flex', alignItems: 'center', padding: '14px 32px', background: '#1a1a1a', color: '#fff', borderRadius: '6px', fontSize: '.85rem', fontWeight: 600, textDecoration: 'none' }}>{ui.cta_btn}</Link>
-            <a href="tel:+40752443435" style={{ display: 'inline-flex', alignItems: 'center', padding: '14px 32px', border: '2px solid #1a1a1a', color: '#1a1a1a', borderRadius: '6px', fontSize: '.85rem', fontWeight: 600, textDecoration: 'none' }}>{ui.cta_call} +40 752 443 435</a>
+            <a href="tel:+40752443435" style={{ display: 'inline-flex', alignItems: 'center', padding: '14px 32px', border: '2px solid #1a1a1a', color: '#151515', borderRadius: '6px', fontSize: '.85rem', fontWeight: 600, textDecoration: 'none' }}>{ui.cta_call} +40 752 443 435</a>
           </div>
         </div>
       </section>

@@ -7,7 +7,7 @@ export default PRODUCTS;
 
 PRODUCTS['bluevolution-92-alu'] = {
   img: '/products/bluevolution-92-alu.avif',
-  color: '#204065',
+  color: '#162d47',
   category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
   serie: { ro:'BluEvolution 92', en:'BluEvolution 92', de:'BluEvolution 92', fr:'BluEvolution 92', es:'BluEvolution 92', it:'BluEvolution 92' },
   breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -64,7 +64,7 @@ PRODUCTS['bluevolution-92-alu'] = {
 
 PRODUCTS['bluevolution-92-flex'] = {
   img: '/products/bluevolution-92-flex.avif',
-  color: '#204065',
+  color: '#162d47',
   category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
   serie: { ro:'BluEvolution 92', en:'BluEvolution 92', de:'BluEvolution 92', fr:'BluEvolution 92', es:'BluEvolution 92', it:'BluEvolution 92' },
   breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -121,7 +121,7 @@ PRODUCTS['bluevolution-92-flex'] = {
 
 PRODUCTS['bluevolution-92-round'] = {
   img: '/products/bluevolution-92-round.avif',
-  color: '#204065',
+  color: '#162d47',
   category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
   serie: { ro:'BluEvolution 92', en:'BluEvolution 92', de:'BluEvolution 92', fr:'BluEvolution 92', es:'BluEvolution 92', it:'BluEvolution 92' },
   breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -178,7 +178,7 @@ PRODUCTS['bluevolution-92-round'] = {
 
 PRODUCTS['greenevolution-76-md-round'] = {
   img: '/products/greenevolution-76-md-round.avif',
-  color: '#385f44',
+  color: '#2b4834',
   category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
   serie: { ro:'GreenEvolution 76', en:'GreenEvolution 76', de:'GreenEvolution 76', fr:'GreenEvolution 76', es:'GreenEvolution 76', it:'GreenEvolution 76' },
   breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -235,7 +235,7 @@ PRODUCTS['greenevolution-76-md-round'] = {
 
 PRODUCTS['greenevolution-76-md-flex'] = {
   img: '/products/greenevolution-76-md-flex.avif',
-  color: '#385f44',
+  color: '#2b4834',
   category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
   serie: { ro:'GreenEvolution 76', en:'GreenEvolution 76', de:'GreenEvolution 76', fr:'GreenEvolution 76', es:'GreenEvolution 76', it:'GreenEvolution 76' },
   breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -292,7 +292,7 @@ PRODUCTS['greenevolution-76-md-flex'] = {
 
 PRODUCTS['greenevolution-76-ad-flex'] = {
   img: '/products/greenevolution-76-ad-flex.avif',
-  color: '#385f44',
+  color: '#2b4834',
   category: { ro:'Tâmplărie PVC Salamander', en:'Salamander PVC Joinery', de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander', es:'Carpintería PVC Salamander', it:'Infissi PVC Salamander' },
   serie: { ro:'GreenEvolution 76', en:'GreenEvolution 76', de:'GreenEvolution 76', fr:'GreenEvolution 76', es:'GreenEvolution 76', it:'GreenEvolution 76' },
   breadcrumb_parent: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
@@ -352,7 +352,7 @@ PRODUCTS['greenevolution-76-ad-flex'] = {
 
 PRODUCTS['alumil-s77-supreme'] = {
   img: '/products/alumil-s77-supreme.avif',
-  color: '#204065',
+  color: '#162d47',
   category: { ro:'Tâmplărie Aluminiu Alumil', en:'Alumil Aluminium Joinery', de:'Alumil Aluminiumfenster', fr:'Menuiserie Aluminium Alumil', es:'Carpintería Aluminio Alumil', it:'Infissi Alluminio Alumil' },
   serie: { ro:'S77 Supreme', en:'S77 Supreme', de:'S77 Supreme', fr:'S77 Supreme', es:'S77 Supreme', it:'S77 Supreme' },
   breadcrumb_parent: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
@@ -409,7 +409,7 @@ PRODUCTS['alumil-s77-supreme'] = {
 
 PRODUCTS['alumil-s67-smartia'] = {
   img: '/products/alumil-s67-smartia.avif',
-  color: '#204065',
+  color: '#162d47',
   category: { ro:'Tâmplărie Aluminiu Alumil', en:'Alumil Aluminium Joinery', de:'Alumil Aluminiumfenster', fr:'Menuiserie Aluminium Alumil', es:'Carpintería Aluminium Alumil', it:'Infissi Alluminio Alumil' },
   serie: { ro:'S67 Smartia', en:'S67 Smartia', de:'S67 Smartia', fr:'S67 Smartia', es:'S67 Smartia', it:'S67 Smartia' },
   breadcrumb_parent: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
@@ -467,7 +467,7 @@ PRODUCTS['alumil-s67-smartia'] = {
 
 PRODUCTS['alumil-s700-supreme'] = {
   img: '/products/alumil-s700-supreme.avif',
-  color: '#204065',
+  color: '#162d47',
   category: { ro:'Tâmplărie Aluminiu Alumil', en:'Alumil Aluminium Joinery', de:'Alumil Aluminiumfenster', fr:'Menuiserie Aluminium Alumil', es:'Carpintería Aluminio Alumil', it:'Infissi Alluminio Alumil' },
   serie: { ro:'S700 Supreme', en:'S700 Supreme', de:'S700 Supreme', fr:'S700 Supreme', es:'S700 Supreme', it:'S700 Supreme' },
   breadcrumb_parent: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
@@ -524,7 +524,7 @@ PRODUCTS['alumil-s700-supreme'] = {
 
 PRODUCTS['alumil-s350-smartia'] = {
   img: '/products/alumil-s350-smartia.avif',
-  color: '#204065',
+  color: '#162d47',
   category: { ro:'Tâmplărie Aluminiu Alumil', en:'Alumil Aluminium Joinery', de:'Alumil Aluminiumfenster', fr:'Menuiserie Aluminium Alumil', es:'Carpintería Aluminio Alumil', it:'Infissi Alluminio Alumil' },
   serie: { ro:'S350 Smartia', en:'S350 Smartia', de:'S350 Smartia', fr:'S350 Smartia', es:'S350 Smartia', it:'S350 Smartia' },
   breadcrumb_parent: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
@@ -581,7 +581,7 @@ PRODUCTS['alumil-s350-smartia'] = {
 
 PRODUCTS['alumil-sf85-supreme'] = {
   img: '/products/alumil-sf85-supreme.avif',
-  color: '#204065',
+  color: '#162d47',
   category: { ro:'Tâmplărie Aluminiu Alumil', en:'Alumil Aluminium Joinery', de:'Alumil Aluminiumfenster', fr:'Menuiserie Aluminium Alumil', es:'Carpintería Aluminio Alumil', it:'Infissi Alluminio Alumil' },
   serie: { ro:'SF85 Supreme', en:'SF85 Supreme', de:'SF85 Supreme', fr:'SF85 Supreme', es:'SF85 Supreme', it:'SF85 Supreme' },
   breadcrumb_parent: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
@@ -638,7 +638,7 @@ PRODUCTS['alumil-sf85-supreme'] = {
 
 PRODUCTS['alumil-m19800-smartia'] = {
   img: '/products/alumil-m19800-smartia.avif',
-  color: '#204065',
+  color: '#162d47',
   category: { ro:'Tâmplărie Aluminiu Alumil', en:'Alumil Aluminium Joinery', de:'Alumil Aluminiumfenster', fr:'Menuiserie Aluminium Alumil', es:'Carpintería Aluminio Alumil', it:'Infissi Alluminio Alumil' },
   serie: { ro:'M19800 Smartia', en:'M19800 Smartia', de:'M19800 Smartia', fr:'M19800 Smartia', es:'M19800 Smartia', it:'M19800 Smartia' },
   breadcrumb_parent: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
