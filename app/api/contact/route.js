@@ -114,7 +114,7 @@ export async function POST(request) {
       html: `
         <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;background:#fff;">
           <div style="background:#111;padding:24px 32px;">
-            <h1 style="font-family:sans-serif;font-weight:300;font-size:1.1rem;letter-spacing:.3em;text-transform:uppercase;color:#fff;margin:0;">
+            <h1 style="font-family:sans-serif;font-weight:400;font-size:1.1rem;letter-spacing:.3em;text-transform:uppercase;color:#fff;margin:0;">
               NEOFORT BIZ — Solicitare Ofertă
             </h1>
           </div>
@@ -167,7 +167,7 @@ export async function POST(request) {
 
           <!-- Header -->
           <div style="background:#111;padding:28px 32px;">
-            <div style="font-family:sans-serif;font-weight:300;font-size:1.1rem;letter-spacing:.35em;text-transform:uppercase;color:#fff;">
+            <div style="font-family:sans-serif;font-weight:400;font-size:1.1rem;letter-spacing:.35em;text-transform:uppercase;color:#fff;">
               NEOFORT BIZ
             </div>
             <div style="font-size:.65rem;letter-spacing:.2em;text-transform:uppercase;color:#141414;margin-top:4px;">

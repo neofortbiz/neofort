@@ -17,7 +17,7 @@ const OG_LOCALE = { ro:'ro_RO', en:'en_US', de:'de_DE', fr:'fr_FR', es:'es_ES', 
 // next/font: self-hosted, zero layout shift, nu blochează render
 const barlow = Barlow({
   subsets: ['latin', 'latin-ext'],
-  weight: ['300', '400', '500'],
+  weight: ['400', '500'],
   display: 'swap',
   variable: '--font-barlow',
   preload: true,
@@ -25,7 +25,7 @@ const barlow = Barlow({
 
 const barlowCondensed = Barlow_Condensed({
   subsets: ['latin', 'latin-ext'],
-  weight: ['300', '400', '500', '600'],
+  weight: ['400', '500', '600'],
   display: 'swap',
   variable: '--font-barlow-condensed',
   preload: true,

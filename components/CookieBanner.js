@@ -112,7 +112,7 @@ export default function CookieBanner({ locale }) {
       <p style={{
         fontFamily: 'Barlow, sans-serif',
         fontSize: '.78rem',
-        fontWeight: 300,
+        fontWeight: 400,
         color: '#e0e0e0',
         margin: 0,
         flex: 1,

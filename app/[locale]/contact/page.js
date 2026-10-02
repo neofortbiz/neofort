@@ -180,13 +180,13 @@ const TEAM = [
     color: '#2b4834',
   },
   {
-    name: 'Cristian CIOROIU',
-    photo: '/team/cristian-cioroiu.avif',
-    role: { ro:'Reprezentant Export', en:'Export Representative', de:'Exportmitarbeiter', fr:'Représentant export', es:'Representante de exportación', it:'Rappresentante export' },
+    name: 'Georgiana BLIOJU',
+    photo: '/team/georgiana-blioju.avif',
+    role: { ro:'Reprezentant Export', en:'Export Representative', de:'Exportmitarbeiterin', fr:'Représentante export', es:'Representante de exportación', it:'Rappresentante export' },
     phone: '+40 752 443 439',
     href: 'tel:+40752443439',
     email: 'comenzi@neofort-biz.ro',
-    initials: 'CC',
+    initials: 'GB',
     color: '#934812',
   },
   {

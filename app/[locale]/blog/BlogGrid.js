@@ -311,7 +311,7 @@ export default function BlogGrid({ articles, locale, read }) {
                     </div>
                   ) : (
                     <div style={{ width:'100%', aspectRatio:'16/9', background:a.imageBg||'#1a1a1a', display:'flex', alignItems:'center', justifyContent:'center', flexShrink:0 }}>
-                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'1.8rem', fontWeight:300, color:'rgba(255,255,255,.12)', letterSpacing:'.1em' }}>{a.imageLabel}</span>
+                      <span style={{ fontFamily:'Barlow Condensed,sans-serif', fontSize:'1.8rem', fontWeight:400, color:'rgba(255,255,255,.12)', letterSpacing:'.1em' }}>{a.imageLabel}</span>
                     </div>
                   )}
                   <div style={{ padding:'18px 20px 22px', flex:1, display:'flex', flexDirection:'column' }}>
