@@ -79,6 +79,22 @@ export async function POST(request) {
   try {
     const formData = await request.formData();
 
+    // ── ANTI-SPAM (v259) ───────────────────────────────────────────────────
+    // 1. Honeypot: campul "website" e ascuns in afara ecranului, cu
+    //    aria-hidden si tabIndex -1. Un om nu-l vede si nu-l completeaza.
+    //    Botii completeaza toate campurile pe care le gasesc in HTML.
+    // 2. Capcana de timp: formularul trimite in "t" milisecundele scurse de
+    //    la incarcarea paginii pana la trimitere. Sub 3 secunde = bot. Campul
+    //    lipsa = bot care posteaza direct pe endpoint, fara sa ruleze JS.
+    // In ambele cazuri raspundem success:true FARA sa trimitem vreun email —
+    // botul crede ca a reusit si nu reincearca cu alte variante.
+    const honeypot = String(formData.get('website') || '').trim();
+    const elapsed  = Number(formData.get('t'));
+    if (honeypot !== '' || !Number.isFinite(elapsed) || elapsed < 3000) {
+      console.warn('[contact] respins ca spam:', JSON.stringify({ honeypot: honeypot !== '', elapsed }));
+      return Response.json({ success: true, id: null });
+    }
+
     const nume = formData.get('nume') || '';
     const telefon = formData.get('telefon') || '';
     const email = formData.get('email') || '';

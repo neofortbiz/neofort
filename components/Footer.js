@@ -1,6 +1,6 @@
 'use client';
 import { useLocale, useTranslations } from 'next-intl';
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { Link, usePathname } from '../i18n/navigation';
 import { formatRatingLabel } from '../lib/formatRating.js';
 
@@ -20,6 +20,10 @@ export default function Footer({ googleRating }) {
   const [status, setStatus] = useState('idle');
   const [errorMsg, setErrorMsg] = useState('');
   const [err, setErr] = useState(EMPTY_ERR);
+
+  // Anti-spam (v259): momentul incarcarii formularului. Diferenta pana la
+  // trimitere pleaca spre server in campul "t".
+  const loadedAt = useRef(Date.now());
 
   // Lista produse per limbă din messages
   const PRODUSE_RAW = {
@@ -150,6 +154,9 @@ export default function Footer({ googleRating }) {
     files.forEach(f => fd.append('files', f));
     // v217: trimite limba curenta, ca emailul de confirmare sa fie in limba vizitatorului
     fd.append('locale', locale);
+    // Anti-spam (v259): honeypot + milisecunde scurse de la incarcarea paginii
+    fd.append('website', form.website ? form.website.value : '');
+    fd.append('t', String(Date.now() - loadedAt.current));
     try {
       const res  = await fetch('/api/contact', { method:'POST', body:fd });
       const json = await res.json();
@@ -198,6 +205,12 @@ export default function Footer({ googleRating }) {
             </div>
           ) : (
             <form onSubmit={handleSubmit}>
+            {/* Honeypot anti-spam (v259) — invizibil pentru oameni, scos din
+                fluxul de tabulare si din arborele de accesibilitate. */}
+            <div aria-hidden="true" style={{position:'absolute',left:'-9999px',width:'1px',height:'1px',overflow:'hidden'}}>
+              <label htmlFor="website-url">Website</label>
+              <input type="text" id="website-url" name="website" tabIndex={-1} autoComplete="off" defaultValue="" />
+            </div>
               <div style={{border:'1px solid #2a2a2a'}}>
                 <div className="form-grid">
 
