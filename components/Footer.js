@@ -21,6 +21,7 @@ export default function Footer({ googleRating }) {
   const [status, setStatus] = useState('idle');
   const [errorMsg, setErrorMsg] = useState('');
   const [err, setErr] = useState(EMPTY_ERR);
+  const [phoneVal, setPhoneVal] = useState('');
 
   // Anti-spam (v259): momentul incarcarii formularului. Diferenta pana la
   // trimitere pleaca spre server in campul "t".
@@ -168,7 +169,7 @@ export default function Footer({ googleRating }) {
     try {
       const res  = await fetch('/api/contact', { method:'POST', body:fd });
       const json = await res.json();
-      if (json.success) { setStatus('success'); setErrorMsg(''); form.reset(); setFiles([]); setGdpr(false); setErr(EMPTY_ERR); }
+      if (json.success) { setStatus('success'); setErrorMsg(''); form.reset(); setFiles([]); setGdpr(false); setErr(EMPTY_ERR); setPhoneVal(''); }
       else {
         setStatus('error');
         setErrorMsg(json.error || '');
@@ -258,16 +259,18 @@ export default function Footer({ googleRating }) {
                       <ErrMsg field="nume"/>
                     </div>
                     <div style={{marginBottom:'16px'}}>
-                      <div style={{display:'flex',gap:'10px',alignItems:'flex-start'}}>
+                      <div style={{display:'flex',alignItems:'center',borderBottom: err.telefon ? '1px solid #e05252' : '1px solid #333'}}>
                         <select name="prefix" defaultValue="" aria-label={ft.p_prefix}
-                          onChange={()=>err.telefon&&setErr(p=>({...p,telefon:''}))}
-                          style={{flex:'0 0 44%',background:'#111',border:'none',borderBottom: err.telefon ? '1px solid #e05252' : '1px solid #333',padding:'10px 0',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',letterSpacing:'.06em',color:'#ddd',outline:'none',appearance:'none',boxSizing:'border-box',cursor:'pointer'}}>
-                          <option key="ph" value="" disabled>{ft.p_prefix}</option>
+                          onChange={(ev)=>{ const d=ev.target.value; setPhoneVal(d ? d+' ' : ''); if(err.telefon) setErr(p=>({...p,telefon:''})); const inp=ev.target.form?.telefon; if(inp) inp.focus(); }}
+                          style={{flex:'0 0 42%',background:'#111',border:'none',padding:'10px 0',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',letterSpacing:'.1em',color:'#ddd',outline:'none',appearance:'none',boxSizing:'border-box',cursor:'pointer'}}>
+                          <option value="" disabled>{ft.p_prefix}</option>
                           {cPinned.map(c => <option key={c.iso} value={c.dial}>{countryLabel(c, locale)}</option>)}
-                          <option key="sep" value="" disabled>──────────</option>
                           {cRest.map(c => <option key={c.iso} value={c.dial}>{countryLabel(c, locale)}</option>)}
                         </select>
-                        <input type="tel" name="telefon" placeholder={ft.p_phone} style={{...iStyle('telefon'),flex:'1 1 auto'}} onChange={()=>err.telefon&&setErr(p=>({...p,telefon:''}))}/>
+                        <span aria-hidden="true" style={{width:'1px',alignSelf:'stretch',background:'#2a2a2a',margin:'6px 12px'}}/>
+                        <input type="tel" name="telefon" placeholder={ft.p_phone} value={phoneVal}
+                          style={{...iBase,flex:'1 1 auto',borderBottom:'none'}}
+                          onChange={(ev)=>{ setPhoneVal(ev.target.value); if(err.telefon) setErr(p=>({...p,telefon:''})); }}/>
                       </div>
                       <ErrMsg field="telefon"/>
                     </div>
