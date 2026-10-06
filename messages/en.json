@@ -424,7 +424,7 @@
   "form": {
     "err_nume": "Name is required.",
     "err_telefon_gol": "Phone number is required.",
-    "err_telefon_invalid": "Please enter a valid phone number (digits only).",
+    "err_telefon_invalid": "Invalid phone number for the selected country code.",
     "err_email_gol": "Email address is required.",
     "err_email_invalid": "Please enter a valid email address.",
     "err_comanda": "Please select the order type.",
@@ -459,7 +459,8 @@
     "gdpr_and": "and",
     "gdpr_cookies": "Cookie Policy",
     "gdpr_of": "of Neofort BIZ. *",
-    "error_desc": "The message could not be sent. Please check your connection and try again, or contact us directly at oferte@neofort-biz.ro"
+    "error_desc": "The message could not be sent. Please check your connection and try again, or contact us directly at oferte@neofort-biz.ro",
+    "err_prefix": "Select the country code."
   },
   "blog": {
     "title": "PVC & Aluminium Windows Technical Blog | Neofort BIZ",

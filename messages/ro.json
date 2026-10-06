@@ -424,7 +424,7 @@
   "form": {
     "err_nume": "Numele este obligatoriu.",
     "err_telefon_gol": "Telefonul este obligatoriu.",
-    "err_telefon_invalid": "Introduceți un număr de telefon valid (doar cifre).",
+    "err_telefon_invalid": "Număr de telefon invalid pentru prefixul ales.",
     "err_email_gol": "E-mail-ul este obligatoriu.",
     "err_email_invalid": "Introduceți o adresă de e-mail validă.",
     "err_comanda": "Selectați tipul comenzii.",
@@ -459,7 +459,8 @@
     "gdpr_and": "și",
     "gdpr_cookies": "Politica de Cookies",
     "gdpr_of": "a Neofort BIZ. *",
-    "error_desc": "Mesajul nu a putut fi trimis. Verificați conexiunea și încercați din nou sau scrieți-ne direct la oferte@neofort-biz.ro"
+    "error_desc": "Mesajul nu a putut fi trimis. Verificați conexiunea și încercați din nou sau scrieți-ne direct la oferte@neofort-biz.ro",
+    "err_prefix": "Selectați prefixul țării."
   },
   "blog": {
     "title": "Blog Tehnic Tâmplărie PVC & Aluminiu | Neofort BIZ",

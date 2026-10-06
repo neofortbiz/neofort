@@ -129,7 +129,7 @@
   "form": {
     "err_nume": "El nombre es obligatorio.",
     "err_telefon_gol": "El número de teléfono es obligatorio.",
-    "err_telefon_invalid": "Por favor, introduzca un número de teléfono válido.",
+    "err_telefon_invalid": "Número de teléfono no válido para el prefijo elegido.",
     "err_email_gol": "La dirección de correo electrónico es obligatoria.",
     "err_email_invalid": "Por favor, introduzca una dirección de correo electrónico válida.",
     "err_comanda": "Por favor, seleccione el tipo de pedido.",
@@ -164,7 +164,8 @@
     "gdpr_and": "y la",
     "gdpr_cookies": "Política de cookies",
     "gdpr_of": "de Neofort BIZ. *",
-    "error_desc": "El mensaje no pudo enviarse. Compruebe su conexión e inténtelo de nuevo, o escríbanos directamente a oferte@neofort-biz.ro"
+    "error_desc": "El mensaje no pudo enviarse. Compruebe su conexión e inténtelo de nuevo, o escríbanos directamente a oferte@neofort-biz.ro",
+    "err_prefix": "Seleccione el prefijo del país."
   },
   "blog": {
     "title": "Blog Técnico Carpintería PVC & Aluminio | Neofort BIZ",

@@ -129,7 +129,7 @@
   "form": {
     "err_nume": "Le nom est obligatoire.",
     "err_telefon_gol": "Le numéro de téléphone est obligatoire.",
-    "err_telefon_invalid": "Veuillez saisir un numéro de téléphone valide.",
+    "err_telefon_invalid": "Numéro de téléphone invalide pour l'indicatif choisi.",
     "err_email_gol": "L'adresse e-mail est obligatoire.",
     "err_email_invalid": "Veuillez saisir une adresse e-mail valide.",
     "err_comanda": "Veuillez sélectionner le type de commande.",
@@ -164,7 +164,8 @@
     "gdpr_and": "et la",
     "gdpr_cookies": "Politique de cookies",
     "gdpr_of": "de Neofort BIZ. *",
-    "error_desc": "Le message n'a pas pu être envoyé. Vérifiez votre connexion et réessayez, ou écrivez-nous directement à oferte@neofort-biz.ro"
+    "error_desc": "Le message n'a pas pu être envoyé. Vérifiez votre connexion et réessayez, ou écrivez-nous directement à oferte@neofort-biz.ro",
+    "err_prefix": "Sélectionnez l'indicatif du pays."
   },
   "blog": {
     "title": "Blog Technique Menuiserie PVC & Aluminium | Neofort",

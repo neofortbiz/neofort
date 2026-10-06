@@ -129,7 +129,7 @@
   "form": {
     "err_nume": "Il nome è obbligatorio.",
     "err_telefon_gol": "Il numero di telefono è obbligatorio.",
-    "err_telefon_invalid": "Inserisci un numero di telefono valido.",
+    "err_telefon_invalid": "Numero di telefono non valido per il prefisso scelto.",
     "err_email_gol": "L'indirizzo e-mail è obbligatorio.",
     "err_email_invalid": "Inserisci un indirizzo e-mail valido.",
     "err_comanda": "Seleziona il tipo di ordine.",
@@ -164,7 +164,8 @@
     "gdpr_and": "e la",
     "gdpr_cookies": "Politica sui cookie",
     "gdpr_of": "di Neofort BIZ. *",
-    "error_desc": "Il messaggio non ha potuto essere inviato. Verificate la connessione e riprovate, oppure scriveteci direttamente a oferte@neofort-biz.ro"
+    "error_desc": "Il messaggio non ha potuto essere inviato. Verificate la connessione e riprovate, oppure scriveteci direttamente a oferte@neofort-biz.ro",
+    "err_prefix": "Seleziona il prefisso del paese."
   },
   "blog": {
     "title": "Blog Tecnico Infissi PVC & Alluminio | Neofort BIZ",

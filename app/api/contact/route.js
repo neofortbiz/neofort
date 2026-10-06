@@ -1,5 +1,6 @@
 import { BASE } from '../../../lib/constants.js';
 import { Resend } from 'resend';
+import { validatePhone } from '../../../lib/countryCodes.js';
 
 const resend = new Resend(process.env.RESEND_API_KEY);
 
@@ -95,8 +96,20 @@ export async function POST(request) {
       return Response.json({ success: true, id: null });
     }
 
+    // ── VALIDARE TELEFON (v260) ────────────────────────────────────────────
+    // Aceeasi functie ca in browser, din lib/countryCodes.js — o singura
+    // implementare, deci cele doua nu pot ajunge sa difere in timp.
+    // Botul care posteaza direct pe endpoint nu ruleaza validarea din browser,
+    // deci asta e singura care conteaza.
+    const prefix = String(formData.get('prefix') || '');
+    const phone  = validatePhone(prefix, formData.get('telefon') || '');
+    if (!phone.ok) {
+      console.warn('[contact] respins — telefon invalid:', JSON.stringify({ prefix, reason: phone.reason }));
+      return Response.json({ success: true, id: null });
+    }
+
     const nume = formData.get('nume') || '';
-    const telefon = formData.get('telefon') || '';
+    const telefon = phone.e164;
     const email = formData.get('email') || '';
     const comanda = formData.get('comanda') || '';
     const adresa = formData.get('adresa') || '';

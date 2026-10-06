@@ -129,7 +129,7 @@
   "form": {
     "err_nume": "Name ist erforderlich.",
     "err_telefon_gol": "Telefonnummer ist erforderlich.",
-    "err_telefon_invalid": "Bitte geben Sie eine gültige Telefonnummer ein.",
+    "err_telefon_invalid": "Ungültige Telefonnummer für die gewählte Vorwahl.",
     "err_email_gol": "E-Mail-Adresse ist erforderlich.",
     "err_email_invalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
     "err_comanda": "Bitte wählen Sie die Bestellart.",
@@ -164,7 +164,8 @@
     "gdpr_and": "und",
     "gdpr_cookies": "Cookie-Richtlinie",
     "gdpr_of": "von Neofort BIZ. *",
-    "error_desc": "Die Nachricht konnte nicht gesendet werden. Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut oder schreiben Sie uns direkt an oferte@neofort-biz.ro"
+    "error_desc": "Die Nachricht konnte nicht gesendet werden. Bitte überprüfen Sie Ihre Verbindung und versuchen Sie es erneut oder schreiben Sie uns direkt an oferte@neofort-biz.ro",
+    "err_prefix": "Bitte Ländervorwahl wählen."
   },
   "blog": {
     "title": "Technischer Blog PVC & Aluminiumfenster | Neofort BIZ",
