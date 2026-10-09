@@ -314,8 +314,12 @@ export default async function TamplaieAluminiuPage({ params }) {
               const accentColor = p.gama==='SUPREME' ? '#2d5a8e' : '#4a7c59';
               const accentBg    = p.gama==='SUPREME' ? 'rgba(45,90,142,0.07)' : 'rgba(74,124,89,0.07)';
               const accentBorder= p.gama==='SUPREME' ? 'rgba(45,90,142,0.18)' : 'rgba(74,124,89,0.18)';
+              // v267: cardul intreg e link, ca la cardurile de blog.
+              // Butonul "Detalii" a devenit <span>: HTML-ul nu permite link in link.
               return (
-                <div key={p.slug} style={{display:'flex',flexDirection:'column',border:'1px solid #e8e8e4',background:'#fff',overflow:'hidden'}}>
+                <Link key={p.slug} href={`/produse-aluminiu/${PROD_SLUG_MAP[p.slug] || p.slug}`} aria-label={p.name}
+                  className="card-link"
+                  style={{display:'flex',flexDirection:'column',border:'1px solid #e8e8e4',background:'#fff',overflow:'hidden',textDecoration:'none',color:'inherit'}}>
 
                   {/* Imagine */}
                   <div style={{position:'relative',background:'#fff',height:'200px',display:'flex',alignItems:'center',justifyContent:'center',overflow:'hidden',padding:'16px'}}>
@@ -358,11 +362,11 @@ export default async function TamplaieAluminiuPage({ params }) {
                     <p style={{fontSize:'0.77rem',color:'#454545',lineHeight:1.65,flex:1,marginBottom:'16px'}}>{desc}</p>
 
                     {/* Buton Detalii */}
-                    <Link href={`/produse-aluminiu/${PROD_SLUG_MAP[p.slug] || p.slug}`} style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',textDecoration:'none',transition:'background 0.15s,color 0.15s'}}>
+                    <span className="card-cta" style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',transition:'background 0.15s,color 0.15s'}}>
                       {ui.btn_detail}
-                    </Link>
+                    </span>
                   </div>
-                </div>
+                </Link>
               );
             })}
           </div>

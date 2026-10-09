@@ -130,7 +130,7 @@ export default async function Page({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <style>{`
         .acc-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; background:#fff; }
-        .acc-card { background:#fff; display:flex; flex-direction:column; border:1px solid #e8e8e4; }
+        .acc-card { background:#fff; display:flex; flex-direction:column; border:1px solid #e8e8e4; text-decoration:none; color:inherit; }
         .acc-img  { width:100%; aspect-ratio:4/3; object-fit:cover; object-position:center; display:block; background:#f5f5f3; }
         .acc-body { padding:18px 18px 20px; display:flex; flex-direction:column; flex:1; }
         .acc-cat  { font-family:'Barlow Condensed',sans-serif; font-weight:600; font-size:.54rem; letter-spacing:.2em; text-transform:uppercase; margin-bottom:8px; display:block; }
@@ -142,6 +142,10 @@ export default async function Page({ params }) {
         .acc-desc { font-size:.76rem; color:#141414; line-height:1.6; margin:0 0 16px; flex:1; }
         .acc-btn  { font-family:'Barlow Condensed',sans-serif; font-size:.58rem; font-weight:600; letter-spacing:.16em; text-transform:uppercase; text-decoration:none; border:1px solid #e8e8e4; padding:8px 16px; text-align:center; color:#151515; transition:all .18s; display:block; margin-top:auto; }
         .acc-btn:hover { background:#1a1a1a; color:#fff; border-color:#1a1a1a; }
+        /* v267: cardul intreg e link — hover oriunde pe card aprinde butonul */
+        .acc-card:hover .acc-btn { background:#1a1a1a; color:#fff; border-color:#1a1a1a; }
+        .acc-card { transition:border-color .18s, box-shadow .18s; }
+        .acc-card:hover { border-color:#1a1a1a; box-shadow:0 2px 14px rgba(0,0,0,.07); }
         @media(max-width:1100px){ .acc-grid{ grid-template-columns:repeat(3,1fr); } }
         @media(max-width:720px) { .acc-grid{ grid-template-columns:repeat(2,1fr); } }
         @media(max-width:480px) { .acc-grid{ grid-template-columns:1fr; } }
@@ -163,8 +167,10 @@ export default async function Page({ params }) {
               const cat   = a.cat[locale]   || a.cat.ro;
               const desc  = a.desc[locale]  || a.desc.ro;
               const specs = a.specs[locale] || a.specs.ro;
+              // v267: cardul intreg e link, ca la cardurile de blog.
+              // Butonul "Detalii" a devenit <span>: HTML-ul nu permite link in link.
               return (
-                <div key={a.slug} className="acc-card">
+                <Link key={a.slug} href={`/umbrire/${a.slug}`} aria-label={name} className="acc-card">
                   <img src={a.img} alt={name} className="acc-img"
                     loading={idx === 0 ? 'eager' : 'lazy'}
                     fetchpriority={idx === 0 ? 'high' : 'auto'}
@@ -178,9 +184,9 @@ export default async function Page({ params }) {
                       ))}
                     </ul>
                     <p className="acc-desc">{desc}</p>
-                    <Link href={`/umbrire/${a.slug}`} className="acc-btn">{ui.btn_detail}</Link>
+                    <span className="acc-btn">{ui.btn_detail}</span>
                   </div>
-                </div>
+                </Link>
               );
             })}
           </div>

@@ -472,3 +472,13 @@ img,video{max-width:100%;height:auto}
     top: auto !important;
   }
 }
+
+/* ── v267: carduri de produs clicabile integral ─────────────────────────────
+   Cardurile de pe /tamplarie-pvc si /tamplarie-aluminiu sunt acum <a> (Link),
+   la fel ca pe blog. Butonul "Detalii" a devenit <span> — HTML-ul nu permite
+   link in link — deci efectul de hover se muta pe card.
+   Stilurile cardului sunt inline in pagina, de aceea :hover sta aici. */
+.card-link { transition: border-color .18s, box-shadow .18s; }
+.card-link:hover { border-color: #1a1a1a; box-shadow: 0 2px 14px rgba(0, 0, 0, .07); }
+.card-cta { transition: background .15s, color .15s, border-color .15s; }
+.card-link:hover .card-cta { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
