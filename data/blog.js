@@ -2473,7 +2473,7 @@ Aluminiu fără excepție. Rezistență structurală 3-4x superioară, permite c
 - [Ce ferestre trebuie să alegi pentru o casă nZEB în România?](/ro/blog/ferestre-casa-nzeb-romania-ghid-complet-2026)
 - [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026)
 
-Neofort BIZ furnizează atât sisteme Salamander (PVC) cât și Alumil (aluminiu) în București și Ilfov. [Solicită consultanță gratuită pentru proiectul tău](/ro/contact). Află mai multe despre [sistemele Alumil](/ro/tamplarie-aluminiu) pe care le oferim. Pentru context complet, citește [ghidul tâmplăriei din aluminiu cu barieră termică](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet). Vezi [ghidul complet al tâmplăriei PVC](/ro/tamplarie-pvc/ghid-complet) și [gama completă de aluminiu](/ro/tamplarie-aluminiu/ghid-complet) pentru configurații și detalii tehnice.`,
+Neofort BIZ furnizează atât sisteme Salamander (PVC) cât și Alumil (aluminiu) în București și Ilfov. [Solicită consultanță gratuită pentru proiectul tău](/ro/contact). Află mai multe despre [sistemele Alumil](/ro/tamplarie-aluminiu) pe care le oferim. Pentru context complet, citește [ghidul tâmplăriei din aluminiu cu barieră termică](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet). Vezi [ghidul complet al tâmplăriei PVC](/ro/tamplarie-pvc/ghid-complet) și [gama completă de aluminiu](/ro/tamplarie-aluminiu/ghid-complet) pentru configurații și detalii tehnice. Găsești pe site [varianta MD ROUND](/ro/produse/profil-pvc-greenevolution-76-md-round) și [S 700 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme), cu specificațiile complete.`,
       en: `## What an nZEB house is and why the joinery choice matters
 
 **nZEB (Nearly Zero Energy Building)** has been the mandatory standard for all new builds in Romania since 2021, under Government Decision 765/2016. An nZEB house has to reach a primary energy consumption of ≤ 100 kWh/m²/year.
@@ -2611,7 +2611,7 @@ Aluminium, without exception. Its structural strength is three to four times hig
 
 Related: [Complete nZEB System](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing) | [nZEB Windows Guide Romania](/en/blog/windows-nzeb-house-romania-complete-guide-2026) | [Salamander Prices 2026](/en/blog/salamander-window-prices-bucharest-2026)
 
-Neofort BIZ supplies Salamander (PVC) and Alumil (aluminium) in Bucharest and Ilfov. [Request free consultation](/en/contact). Learn more about [our Alumil systems](/en/aluminium-windows) we offer. For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide). You will find [the complete PVC joinery guide](/en/pvc-windows/complete-guide) and [the aluminium systems we install](/en/aluminium-windows/complete-guide) on the site, with full specifications.`,
+Neofort BIZ supplies Salamander (PVC) and Alumil (aluminium) in Bucharest and Ilfov. [Request free consultation](/en/contact). Learn more about [our Alumil systems](/en/aluminium-windows) we offer. For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide). You will find [the complete PVC joinery guide](/en/pvc-windows/complete-guide) and [the aluminium systems we install](/en/aluminium-windows/complete-guide) on the site, with full specifications. You will find [the MD ROUND version](/en/products/greenevolution-76-md-round-pvc-profile) and [the Alumil S 700 SUPREME lift-and-slide system](/en/products-alu/alumil-s700-supreme-lift-slide-system) on the site, with full specifications.`,
       de: `## Was ein nZEB-Haus ist und warum die Fensterwahl zählt
 
 **nZEB (Nearly Zero Energy Building)** ist seit 2021 der verbindliche Standard für alle Neubauten in Rumänien, gemäß Regierungsbeschluss 765/2016. Ein nZEB-Haus muss einen Primärenergiebedarf von ≤ 100 kWh/m²/Jahr erreichen.
@@ -2747,7 +2747,7 @@ Aluminium, ausnahmslos. Die Tragfähigkeit ist drei- bis viermal höher und erla
 
 ---
 
-Neofort BIZ liefert Salamander (PVC) und Alumil (Aluminium) in Bukarest und Ilfov. [Kostenloses Beratungsgespräch](/de/kontakt). Erfahren Sie mehr über [unsere Alumil-Systeme](/de/aluminiumfenster), die wir anbieten. Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Konfigurationen und technische Daten finden Sie unter [den kompletten Kunststofffenster-Ratgeber](/de/kunststofffenster-pvc/kompletter-ratgeber) und [das komplette Aluminiumprogramm](/de/aluminiumfenster/kompletter-ratgeber).`,
+Neofort BIZ liefert Salamander (PVC) und Alumil (Aluminium) in Bukarest und Ilfov. [Kostenloses Beratungsgespräch](/de/kontakt). Erfahren Sie mehr über [unsere Alumil-Systeme](/de/aluminiumfenster), die wir anbieten. Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Konfigurationen und technische Daten finden Sie unter [den kompletten Kunststofffenster-Ratgeber](/de/kunststofffenster-pvc/kompletter-ratgeber) und [das komplette Aluminiumprogramm](/de/aluminiumfenster/kompletter-ratgeber). Zu unserem Lieferprogramm gehören [die MD ROUND Variante](/de/produkte/greenevolution-76-md-round-pvc-profil) und [S 700 SUPREME](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem).`,
       fr: `## Ce qu’est une maison nZEB et pourquoi le choix des menuiseries compte
 
 **nZEB (Nearly Zero Energy Building)** est la norme obligatoire pour toutes les constructions neuves en Roumanie depuis 2021, selon la décision gouvernementale 765/2016. Une maison nZEB doit atteindre une consommation d’énergie primaire ≤ 100 kWh/m²/an.
@@ -2883,7 +2883,7 @@ L’aluminium, sans exception. Sa résistance structurelle est trois à quatre f
 
 ---
 
-Neofort BIZ fournit Salamander (PVC) et Alumil (aluminium) à Bucarest et Ilfov. [Consultation gratuite](/fr/contact). En savoir plus sur [nos systèmes Alumil](/fr/menuiserie-aluminium) que nous proposons. Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Le détail technique complet est publié pour [la gamme de profilés PVC Salamander](/fr/menuiserie-pvc/guide-complet) et [les systèmes aluminium que nous posons](/fr/menuiserie-aluminium/guide-complet).`,
+Neofort BIZ fournit Salamander (PVC) et Alumil (aluminium) à Bucarest et Ilfov. [Consultation gratuite](/fr/contact). En savoir plus sur [nos systèmes Alumil](/fr/menuiserie-aluminium) que nous proposons. Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Le détail technique complet est publié pour [la gamme de profilés PVC Salamander](/fr/menuiserie-pvc/guide-complet) et [les systèmes aluminium que nous posons](/fr/menuiserie-aluminium/guide-complet). Le détail technique complet est publié pour [GreenEvolution 76 MD ROUND](/fr/produits/profil-pvc-greenevolution-76-md-round) et [S 700 SUPREME](/fr/produits-alu/systeme-coulissant-alumil-s700-supreme).`,
       es: `## Qué es una casa nZEB y por qué importa la elección de la carpintería
 
 **nZEB (Nearly Zero Energy Building)** es el estándar obligatorio para toda obra nueva en Rumanía desde 2021, según el Decreto 765/2016. Una casa nZEB debe alcanzar un consumo de energía primaria ≤ 100 kWh/m²/año.
@@ -3019,7 +3019,7 @@ Aluminio, sin excepción. Su resistencia estructural es tres o cuatro veces mayo
 
 ---
 
-Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov. [Consulta gratuita](/es/contacto). Más información sobre [nuestros sistemas Alumil](/es/carpinteria-aluminio) que ofrecemos. Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). El detalle técnico completo está publicado para [la gama de perfiles PVC Salamander](/es/carpinteria-pvc/guia-completa) y [la gama completa de aluminio](/es/carpinteria-aluminio/guia-completa).`,
+Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov. [Consulta gratuita](/es/contacto). Más información sobre [nuestros sistemas Alumil](/es/carpinteria-aluminio) que ofrecemos. Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). El detalle técnico completo está publicado para [la gama de perfiles PVC Salamander](/es/carpinteria-pvc/guia-completa) y [la gama completa de aluminio](/es/carpinteria-aluminio/guia-completa). En el sitio encontrará [GreenEvolution 76 MD ROUND](/es/productos/perfil-pvc-greenevolution-76-md-round) y [el sistema elevable-corredero Alumil S 700 SUPREME](/es/productos-alu/sistema-corredera-alumil-s700-supreme), con las especificaciones completas.`,
       it: `## Che cos’è una casa nZEB e perché conta la scelta dei serramenti
 
 **nZEB (Nearly Zero Energy Building)** è lo standard obbligatorio per tutte le nuove costruzioni in Romania dal 2021, in base al Decreto 765/2016. Una casa nZEB deve raggiungere un consumo di energia primaria ≤ 100 kWh/m²/anno.
@@ -3155,7 +3155,7 @@ Alluminio, senza eccezioni. La resistenza strutturale è tre o quattro volte sup
 
 ---
 
-Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [Consulenza gratuita](/it/contatti). Scopri di più su [i nostri sistemi Alumil](/it/infissi-alluminio) che offriamo. Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa). La nostra gamma comprende [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa) e [i sistemi in alluminio che installiamo](/it/infissi-alluminio/guida-completa).`,
+Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [Consulenza gratuita](/it/contatti). Scopri di più su [i nostri sistemi Alumil](/it/infissi-alluminio) che offriamo. Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa). La nostra gamma comprende [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa) e [i sistemi in alluminio che installiamo](/it/infissi-alluminio/guida-completa). Consultate [la versione MD ROUND](/it/prodotti/profilo-pvc-greenevolution-76-md-round) e [S 700 SUPREME](/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme) per configurazioni e dettagli tecnici.`,
     },
   },
 
@@ -7761,7 +7761,7 @@ Precadrul Blaugelb Triotherm Plus se montează înainte de fereastră și creeaz
 
 ---
 
-Neofort BIZ montează tâmplărie Salamander cu echipe proprii certificate nZEB, în București și Ilfov. [Trimite-ne datele lucrării](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Soluțiile descrise aici sunt [montajul pe precadru termoizolant](/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus) și [pervazurile interioare și glafurile exterioare](/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu).
+Neofort BIZ montează tâmplărie Salamander cu echipe proprii certificate nZEB, în București și Ilfov. [Trimite-ne datele lucrării](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Soluțiile descrise aici sunt [montajul pe precadru termoizolant](/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus) și [pervazurile interioare și glafurile exterioare](/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu). Vezi [pervazurile interioare și glafurile exterioare](/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu) și [cine suntem](/ro/despre) pentru configurații și detalii tehnice.
 `,
 
       en: `## Why Salamander Window Installation Matters So Much
@@ -7843,7 +7843,7 @@ Always with on-site measurements, not approximate dimensions. The technician mea
 
 ---
 
-Neofort BIZ installs Salamander joinery with its own nZEB-certified teams in Bucharest and Ilfov. [Send us the project details](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Neofort BIZ supplies and installs [installation on a thermally broken precasing](/en/nzeb-systems/blaugelb-triotherm-plus-precasings) and [interior sills and exterior aluminium cills](/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills) in Bucharest and Ilfov.
+Neofort BIZ installs Salamander joinery with its own nZEB-certified teams in Bucharest and Ilfov. [Send us the project details](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Neofort BIZ supplies and installs [installation on a thermally broken precasing](/en/nzeb-systems/blaugelb-triotherm-plus-precasings) and [interior sills and exterior aluminium cills](/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills) in Bucharest and Ilfov. See [interior sills and exterior aluminium cills](/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills) and [Neofort BIZ's 21 years in the trade](/en/about) for configurations and technical detail.
 `,
 
       de: `## Warum die Montage von Salamander-Fenstern so wichtig ist
@@ -7924,7 +7924,7 @@ Immer mit Vor-Ort-Messungen, nicht mit Näherungsmaßen. Der Techniker misst die
 
 ---
 
-Neofort BIZ montiert Salamander-Fenster mit eigenen nZEB-zertifizierten Teams in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc). Die hier beschriebenen Lösungen sind [die Montage auf gedämmtem Vorrahmen](/de/nzeb-systeme/blaugelb-triotherm-plus-vorfenster) und [Aluminium-Fensterbänke](/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium).
+Neofort BIZ montiert Salamander-Fenster mit eigenen nZEB-zertifizierten Teams in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc). Die hier beschriebenen Lösungen sind [die Montage auf gedämmtem Vorrahmen](/de/nzeb-systeme/blaugelb-triotherm-plus-vorfenster) und [Aluminium-Fensterbänke](/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium). Auf der Website finden Sie [Innenfensterbänke und Außenfensterbänke](/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium) und [wer wir sind](/de/ueber-uns) mit allen Spezifikationen.
 `,
 
       fr: `## Pourquoi la pose des fenêtres Salamander est-elle si importante ?
@@ -8005,7 +8005,7 @@ Toujours par des mesures sur place, pas des dimensions approximatives. Le techni
 
 ---
 
-Neofort BIZ pose des menuiseries Salamander avec ses propres équipes certifiées nZEB, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du chantier](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc). Vous trouverez sur le site [les précadres Blaugelb Triotherm+](/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus) et [les appuis intérieurs et extérieurs](/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium), avec les spécifications complètes.
+Neofort BIZ pose des menuiseries Salamander avec ses propres équipes certifiées nZEB, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du chantier](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc). Vous trouverez sur le site [les précadres Blaugelb Triotherm+](/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus) et [les appuis intérieurs et extérieurs](/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium), avec les spécifications complètes. Consultez [les appuis de fenêtre en aluminium](/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium) et [qui nous sommes](/fr/a-propos) pour les configurations et le détail technique.
 `,
 
       es: `## Por qué la instalación de ventanas Salamander importa tanto
@@ -8086,7 +8086,7 @@ Siempre con mediciones in situ, no con dimensiones aproximadas. El técnico mide
 
 ---
 
-Neofort BIZ instala carpintería Salamander con equipos propios certificados nZEB en Bucarest e Ilfov. [Envíenos los datos de la obra](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc). En el sitio encontrará [los premarcos Blaugelb Triotherm+](/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus) y [los vierteaguas de aluminio](/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio), con las especificaciones completas.
+Neofort BIZ instala carpintería Salamander con equipos propios certificados nZEB en Bucarest e Ilfov. [Envíenos los datos de la obra](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc). En el sitio encontrará [los premarcos Blaugelb Triotherm+](/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus) y [los vierteaguas de aluminio](/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio), con las especificaciones completas. Consulte [los vierteaguas de aluminio](/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio) y [los 21 años de Neofort BIZ](/es/sobre-nosotros) para configuraciones y detalle técnico.
 `,
 
       it: `## Perché l'installazione delle finestre Salamander è così importante
@@ -8167,7 +8167,7 @@ Sempre con misurazioni in loco, non con dimensioni approssimative. Il tecnico mi
 
 ---
 
-Neofort BIZ posa serramenti Salamander con squadre proprie certificate nZEB a Bucarest e nell’Ilfov. [Inviateci i dati del cantiere](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc). Il dettaglio tecnico completo è pubblicato per [il montaggio su precontrotelaio isolante](/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus) e [i davanzali interni ed esterni](/it/accessori/davanzali-interni-pvc-esterni-alluminio).
+Neofort BIZ posa serramenti Salamander con squadre proprie certificate nZEB a Bucarest e nell’Ilfov. [Inviateci i dati del cantiere](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc). Il dettaglio tecnico completo è pubblicato per [il montaggio su precontrotelaio isolante](/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus) e [i davanzali interni ed esterni](/it/accessori/davanzali-interni-pvc-esterni-alluminio). La nostra gamma comprende [i davanzali interni ed esterni](/it/accessori/davanzali-interni-pvc-esterni-alluminio) e [chi siamo](/it/chi-siamo).
 `,
     },
   },
@@ -18044,7 +18044,7 @@ Cel mai bun moment este în paralel cu o renovare generală, când pereții sunt
 
 ---
 
-Neofort BIZ înlocuiește ferestre vechi în apartamente și case din București și Ilfov, cu demontare, montaj și finisaje incluse. Vezi [gama de ferestre PVC](/ro/tamplarie-pvc) sau [solicită o ofertă](/ro/contact). Vezi și [cât durează o fereastră PVC și când trebuie înlocuită](/ro/blog/cat-dureaza-o-fereastra-pvc-cand-trebuie-inlocuita). Găsești pe site [tocul de renovare PVC](/ro/accesorii/toc-de-renovare-pvc) și [lucrările de tâmplărie PVC din București](/ro/tamplarie-pvc/bucuresti), cu specificațiile complete.`,
+Neofort BIZ înlocuiește ferestre vechi în apartamente și case din București și Ilfov, cu demontare, montaj și finisaje incluse. Vezi [gama de ferestre PVC](/ro/tamplarie-pvc) sau [solicită o ofertă](/ro/contact). Vezi și [cât durează o fereastră PVC și când trebuie înlocuită](/ro/blog/cat-dureaza-o-fereastra-pvc-cand-trebuie-inlocuita). Găsești pe site [tocul de renovare PVC](/ro/accesorii/toc-de-renovare-pvc) și [lucrările de tâmplărie PVC din București](/ro/tamplarie-pvc/bucuresti), cu specificațiile complete. În gama pe care o livrăm intră [glafurile din aluminiu](/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu) și [varianta MD ROUND](/ro/produse/profil-pvc-greenevolution-76-md-round).`,
 
       en: `## When is the right time to replace your windows?
 
@@ -18124,7 +18124,7 @@ For an apartment, the full replacement process is described separately: [Replaci
 
 ---
 
-Neofort BIZ replaces old windows in apartments and houses in Bucharest and Ilfov, including removal, installation and finishing. See [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). See also [how long a PVC window lasts and when to replace it](/en/blog/how-long-do-pvc-windows-last-when-to-replace-them). Our supplied range includes [the PVC renovation frame](/en/accessories/pvc-renovation-frame) and [PVC installation in Bucharest and Ilfov](/en/pvc-windows/bucharest).`,
+Neofort BIZ replaces old windows in apartments and houses in Bucharest and Ilfov, including removal, installation and finishing. See [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). See also [how long a PVC window lasts and when to replace it](/en/blog/how-long-do-pvc-windows-last-when-to-replace-them). Our supplied range includes [the PVC renovation frame](/en/accessories/pvc-renovation-frame) and [PVC installation in Bucharest and Ilfov](/en/pvc-windows/bucharest). The solutions described here are [aluminium window cills](/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills) and [GreenEvolution 76 MD ROUND](/en/products/greenevolution-76-md-round-pvc-profile).`,
 
       de: `## Wann ist der richtige Zeitpunkt für den Fensterwechsel?
 
@@ -18191,7 +18191,7 @@ Für eine Wohnung wird der komplette Austauschprozess separat beschrieben: [Alte
 
 ---
 
-Neofort BIZ ersetzt alte Fenster in Wohnungen und Häusern in Bukarest und Ilfov, inklusive Ausbau, Montage und Anschlussarbeiten. Sehen Sie [das PVC-Fenster-Sortiment](/de/kunststofffenster-pvc) oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [wie lange ein PVC-Fenster hält und wann es ersetzt werden muss](/de/blog/wie-lange-halten-pvc-fenster-wann-ersetzen). Auf der Website finden Sie [der PVC-Renovierungsrahmen](/de/zubehoer/pvc-renovierungsrahmen) und [Kunststofffenster-Projekte in Bukarest](/de/kunststofffenster-pvc/bukarest) mit allen Spezifikationen.`,
+Neofort BIZ ersetzt alte Fenster in Wohnungen und Häusern in Bukarest und Ilfov, inklusive Ausbau, Montage und Anschlussarbeiten. Sehen Sie [das PVC-Fenster-Sortiment](/de/kunststofffenster-pvc) oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [wie lange ein PVC-Fenster hält und wann es ersetzt werden muss](/de/blog/wie-lange-halten-pvc-fenster-wann-ersetzen). Auf der Website finden Sie [der PVC-Renovierungsrahmen](/de/zubehoer/pvc-renovierungsrahmen) und [Kunststofffenster-Projekte in Bukarest](/de/kunststofffenster-pvc/bukarest) mit allen Spezifikationen. Konfigurationen und technische Daten finden Sie unter [Aluminium-Fensterbänke](/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium) und [GreenEvolution 76 MD ROUND](/de/produkte/greenevolution-76-md-round-pvc-profil).`,
 
       fr: `## Quand est-il temps de remplacer vos fenêtres ?
 
@@ -18258,7 +18258,7 @@ Pour un appartement, le processus complet de remplacement est décrit à part: [
 
 ---
 
-Neofort BIZ remplace les anciennes fenêtres dans les appartements et maisons à Bucarest et Ilfov, dépose, pose et finitions comprises. Voir [la gamme de fenêtres PVC](/fr/menuiserie-pvc) ou [demandez un devis](/fr/contact). Voir aussi [la durée de vie d’une fenêtre PVC et quand la remplacer](/fr/blog/combien-de-temps-durent-les-fenetres-pvc-quand-les-remplacer). Les solutions décrites ici sont [le profil de rénovation](/fr/accessoires/cadre-renovation-pvc) et [les chantiers menuiserie PVC à Bucarest](/fr/menuiserie-pvc/bucarest).`,
+Neofort BIZ remplace les anciennes fenêtres dans les appartements et maisons à Bucarest et Ilfov, dépose, pose et finitions comprises. Voir [la gamme de fenêtres PVC](/fr/menuiserie-pvc) ou [demandez un devis](/fr/contact). Voir aussi [la durée de vie d’une fenêtre PVC et quand la remplacer](/fr/blog/combien-de-temps-durent-les-fenetres-pvc-quand-les-remplacer). Les solutions décrites ici sont [le profil de rénovation](/fr/accessoires/cadre-renovation-pvc) et [les chantiers menuiserie PVC à Bucarest](/fr/menuiserie-pvc/bucarest). Les solutions décrites ici sont [les appuis intérieurs et extérieurs](/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium) et [GreenEvolution 76 MD ROUND](/fr/produits/profil-pvc-greenevolution-76-md-round).`,
 
       es: `## ¿Cuándo es el momento adecuado para sustituir las ventanas?
 
@@ -18325,7 +18325,7 @@ Para un piso, el proceso completo de sustitución se describe aparte: [Sustituci
 
 ---
 
-Neofort BIZ sustituye ventanas antiguas en pisos y casas de Bucarest e Ilfov, con desmontaje, montaje y acabados incluidos. Ver [la gama de ventanas PVC](/es/carpinteria-pvc) o [solicita un presupuesto](/es/contacto). Ver también [cuánto dura una ventana de PVC y cuándo sustituirla](/es/blog/cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas). Las soluciones descritas aquí son [el perfil de renovación](/es/accesorios/marco-renovacion-pvc) y [los proyectos de carpintería PVC en Bucarest](/es/carpinteria-pvc/bucarest).`,
+Neofort BIZ sustituye ventanas antiguas en pisos y casas de Bucarest e Ilfov, con desmontaje, montaje y acabados incluidos. Ver [la gama de ventanas PVC](/es/carpinteria-pvc) o [solicita un presupuesto](/es/contacto). Ver también [cuánto dura una ventana de PVC y cuándo sustituirla](/es/blog/cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas). Las soluciones descritas aquí son [el perfil de renovación](/es/accesorios/marco-renovacion-pvc) y [los proyectos de carpintería PVC en Bucarest](/es/carpinteria-pvc/bucarest). Nuestra gama de suministro incluye [los alféizares interiores y exteriores](/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio) y [la versión MD ROUND](/es/productos/perfil-pvc-greenevolution-76-md-round).`,
 
       it: `## Quando è il momento giusto per sostituire le finestre?
 
@@ -18392,7 +18392,7 @@ Per un appartamento, l’intero processo di sostituzione è descritto a parte: [
 
 ---
 
-Neofort BIZ sostituisce vecchie finestre in appartamenti e case a Bucarest e Ilfov, con smontaggio, montaggio e finiture inclusi. Vedi [la gamma di infissi PVC](/it/infissi-pvc) o [richiedi un preventivo](/it/contatti). Vedi anche [quanto dura una finestra in PVC e quando sostituirla](/it/blog/quanto-durano-le-finestre-pvc-quando-sostituirle). Consultate [il telaio di ristrutturazione in PVC](/it/accessori/telaio-ristrutturazione-pvc) e [i lavori di infissi in PVC a Bucarest](/it/infissi-pvc/bucarest) per configurazioni e dettagli tecnici.`,
+Neofort BIZ sostituisce vecchie finestre in appartamenti e case a Bucarest e Ilfov, con smontaggio, montaggio e finiture inclusi. Vedi [la gamma di infissi PVC](/it/infissi-pvc) o [richiedi un preventivo](/it/contatti). Vedi anche [quanto dura una finestra in PVC e quando sostituirla](/it/blog/quanto-durano-le-finestre-pvc-quando-sostituirle). Consultate [il telaio di ristrutturazione in PVC](/it/accessori/telaio-ristrutturazione-pvc) e [i lavori di infissi in PVC a Bucarest](/it/infissi-pvc/bucarest) per configurazioni e dettagli tecnici. Sul sito trovate [i davanzali in alluminio](/it/accessori/davanzali-interni-pvc-esterni-alluminio) e [GreenEvolution 76 MD ROUND](/it/prodotti/profilo-pvc-greenevolution-76-md-round), con le specifiche complete.`,
     },
   },
 
@@ -18617,7 +18617,7 @@ BluEvolution 92 ALU e placat cu aluminiu pe exterior, combinând estetica alumin
 
 ---
 
-Neofort BIZ furnizează tâmplărie Salamander pentru case și vile, cu montaj în București și Ilfov și livrare în Uniunea Europeană. [Trimite-ne planul casei](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Neofort BIZ furnizează și montează în București și Ilfov [bluEvolution 92 ALU, placat cu aluminiu](/ro/produse/profil-pvc-bluevolution-92-alu) și [prețurile pentru tâmplărie PVC](/ro/tamplarie-pvc/preturi).
+Neofort BIZ furnizează tâmplărie Salamander pentru case și vile, cu montaj în București și Ilfov și livrare în Uniunea Europeană. [Trimite-ne planul casei](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Neofort BIZ furnizează și montează în București și Ilfov [bluEvolution 92 ALU, placat cu aluminiu](/ro/produse/profil-pvc-bluevolution-92-alu) și [prețurile pentru tâmplărie PVC](/ro/tamplarie-pvc/preturi). Soluțiile descrise aici sunt [cine suntem](/ro/despre) și [ușa glisantă S 350](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia).
 `,
 
       en: `## Why does an individual house need a different standard from an apartment block?
@@ -18770,7 +18770,7 @@ BluEvolution 92 ALU is clad with aluminium on the outside, combining the appeara
 
 ---
 
-Neofort BIZ supplies Salamander joinery for houses and villas, with installation in Bucharest and Ilfov and delivery across the European Union. [Send us the house plan](/en/contact) and you will receive a quote within 48 hours. See [the PVC joinery range](/en/pvc-windows) we offer. Full technical detail is published for [bluEvolution 92 ALU, aluminium-clad](/en/products/bluevolution-92-alu-pvc-profile) and [the PVC price list](/en/pvc-windows/prices).`,
+Neofort BIZ supplies Salamander joinery for houses and villas, with installation in Bucharest and Ilfov and delivery across the European Union. [Send us the house plan](/en/contact) and you will receive a quote within 48 hours. See [the PVC joinery range](/en/pvc-windows) we offer. Full technical detail is published for [bluEvolution 92 ALU, aluminium-clad](/en/products/bluevolution-92-alu-pvc-profile) and [the PVC price list](/en/pvc-windows/prices). Our supplied range includes [who we are](/en/about) and [the Alumil S 350 SMARTIA sliding system](/en/products-alu/alumil-s350-smartia-lift-slide-system).`,
 
       de: `## Warum braucht ein Einfamilienhaus einen anderen Standard als ein Wohnblock?
 
@@ -18922,7 +18922,7 @@ BluEvolution 92 ALU ist außen mit Aluminium verkleidet und verbindet die Optik 
 
 ---
 
-Neofort BIZ liefert Salamander-Fenster für Häuser und Villen, mit Montage in Bukarest und Ilfov und Lieferung in die Europäische Union. [Senden Sie uns den Hausplan](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das PVC-Sortiment](/de/kunststofffenster-pvc), das wir anbieten. Neofort BIZ liefert und montiert [bluEvolution 92 ALU mit Aluminiumbekleidung](/de/produkte/bluevolution-92-alu-pvc-profil) und [die Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise) in Bukarest und Ilfov.`,
+Neofort BIZ liefert Salamander-Fenster für Häuser und Villen, mit Montage in Bukarest und Ilfov und Lieferung in die Europäische Union. [Senden Sie uns den Hausplan](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das PVC-Sortiment](/de/kunststofffenster-pvc), das wir anbieten. Neofort BIZ liefert und montiert [bluEvolution 92 ALU mit Aluminiumbekleidung](/de/produkte/bluevolution-92-alu-pvc-profil) und [die Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise) in Bukarest und Ilfov. Konfigurationen und technische Daten finden Sie unter [wer wir sind](/de/ueber-uns) und [das Schiebesystem Alumil S 350 SMARTIA](/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem).`,
 
       fr: `## Pourquoi une maison individuelle exige-t-elle un autre standard qu’un immeuble ?
 
@@ -19074,7 +19074,7 @@ Le BluEvolution 92 ALU est habillé d’aluminium à l’extérieur, associant l
 
 ---
 
-Neofort BIZ fournit des menuiseries Salamander pour maisons et villas, avec pose à Bucarest et Ilfov et livraison dans l’Union européenne. [Transmettez-nous le plan de la maison](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme PVC](/fr/menuiserie-pvc) que nous proposons. Notre gamme comprend [le profilé 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix).`,
+Neofort BIZ fournit des menuiseries Salamander pour maisons et villas, avec pose à Bucarest et Ilfov et livraison dans l’Union européenne. [Transmettez-nous le plan de la maison](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme PVC](/fr/menuiserie-pvc) que nous proposons. Notre gamme comprend [le profilé 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix). Consultez [les 21 ans d'activité de Neofort BIZ](/fr/a-propos) et [le système coulissant Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia) pour les configurations et le détail technique.`,
 
       es: `## ¿Por qué una vivienda unifamiliar necesita otro estándar que un bloque?
 
@@ -19226,7 +19226,7 @@ El BluEvolution 92 ALU va revestido de aluminio al exterior y combina la estéti
 
 ---
 
-Neofort BIZ suministra carpintería Salamander para casas y chalets, con instalación en Bucarest e Ilfov y entrega en la Unión Europea. [Envíenos el plano de la vivienda](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería PVC](/es/carpinteria-pvc) que ofrecemos. Nuestra gama de suministro incluye [el perfil 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) y [los precios de carpintería PVC](/es/carpinteria-pvc/precios).`,
+Neofort BIZ suministra carpintería Salamander para casas y chalets, con instalación en Bucarest e Ilfov y entrega en la Unión Europea. [Envíenos el plano de la vivienda](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería PVC](/es/carpinteria-pvc) que ofrecemos. Nuestra gama de suministro incluye [el perfil 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) y [los precios de carpintería PVC](/es/carpinteria-pvc/precios). Las soluciones descritas aquí son [los 21 años de Neofort BIZ](/es/sobre-nosotros) y [la corredera S 350](/es/productos-alu/sistema-corredera-alumil-s350-smartia).`,
 
       it: `## Perché una casa unifamiliare richiede uno standard diverso da un condominio?
 
@@ -19378,7 +19378,7 @@ Il BluEvolution 92 ALU è rivestito in alluminio all’esterno e unisce l’este
 
 ---
 
-Neofort BIZ fornisce serramenti Salamander per case e ville, con posa a Bucarest e nell’Ilfov e consegna nell’Unione Europea. [Inviateci la pianta della casa](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma PVC](/it/infissi-pvc) che offriamo. Le soluzioni descritte qui sono [bluEvolution 92 ALU, rivestito in alluminio](/it/prodotti/profilo-pvc-bluevolution-92-alu) e [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi).`,
+Neofort BIZ fornisce serramenti Salamander per case e ville, con posa a Bucarest e nell’Ilfov e consegna nell’Unione Europea. [Inviateci la pianta della casa](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma PVC](/it/infissi-pvc) che offriamo. Le soluzioni descritte qui sono [bluEvolution 92 ALU, rivestito in alluminio](/it/prodotti/profilo-pvc-bluevolution-92-alu) e [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi). Sul sito trovate [chi siamo](/it/chi-siamo) e [il sistema scorrevole Alumil S 350 SMARTIA](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia), con le specifiche complete.`,
     },
   },
 
@@ -21322,7 +21322,7 @@ Sticla securizată, la spargere, se fragmentează în granule mici fără muchii
 
 ---
 
-Neofort BIZ execută vitrine și geamuri panoramice de mari dimensiuni, cu montaj mecanizat, în București și Ilfov. [Trimite-ne dimensiunile și accesul](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim. Vezi [vitrajul Saint-Gobain SGG](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg) și [sistemul S 77 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s77-supreme) pentru configurații și detalii tehnice.
+Neofort BIZ execută vitrine și geamuri panoramice de mari dimensiuni, cu montaj mecanizat, în București și Ilfov. [Trimite-ne dimensiunile și accesul](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim. Vezi [vitrajul Saint-Gobain SGG](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg) și [sistemul S 77 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s77-supreme) pentru configurații și detalii tehnice. Soluțiile descrise aici sunt [sistemul armonic Alumil M 19800 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-m19800-smartia) și [sistemul armonic Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme).
 `,
 
       en: `## What oversized glass is and who needs it
@@ -21465,7 +21465,7 @@ When it breaks, toughened glass shatters into small granules with no sharp edges
 
 ---
 
-Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). All the details in [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide). You will find [Saint-Gobain SGG glazing](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass) and [Alumil S 77 SUPREME](/en/products-alu/alumil-s77-supreme-aluminium-system) on the site, with full specifications.`,
+Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). All the details in [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide). You will find [Saint-Gobain SGG glazing](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass) and [Alumil S 77 SUPREME](/en/products-alu/alumil-s77-supreme-aluminium-system) on the site, with full specifications. The solutions described here are [the Alumil M 19800 SMARTIA folding system](/en/products-alu/alumil-m19800-smartia-folding-system) and [the Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system).`,
 
       de: `## Was Übergrößenglas ist und wer es braucht
 
@@ -21607,7 +21607,7 @@ Vorgespanntes Glas zerfällt beim Bruch in kleine Krümel ohne scharfe Kanten, a
 
 ---
 
-Neofort BIZ führt Aluminium- und Fassadenarbeiten in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details in [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Konfigurationen und technische Daten finden Sie unter [die Saint-Gobain SGG Verglasung](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas) und [das S 77 SUPREME System](/de/produkte-alu/alumil-s77-supreme-aluminiumsystem).`,
+Neofort BIZ führt Aluminium- und Fassadenarbeiten in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details in [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Konfigurationen und technische Daten finden Sie unter [die Saint-Gobain SGG Verglasung](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas) und [das S 77 SUPREME System](/de/produkte-alu/alumil-s77-supreme-aluminiumsystem). Die hier beschriebenen Lösungen sind [das Falttürsystem Alumil M 19800 SMARTIA](/de/produkte-alu/alumil-m19800-smartia-faltsystem) und [das Falttürsystem Alumil SF 85 SUPREME](/de/produkte-alu/alumil-sf85-supreme-faltsystem).`,
 
       fr: `## Ce qu’est un vitrage hors normes et qui en a besoin
 
@@ -21749,7 +21749,7 @@ Une feuille trempée peut atteindre 3 500 × 8 000 mm au maximum, en épaisseurs
 
 ---
 
-Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Tous les détails dans [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Le détail technique complet est publié pour [le vitrage isolant Saint-Gobain](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg) et [le système S 77 SUPREME](/fr/produits-alu/systeme-aluminium-alumil-s77-supreme).`,
+Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Tous les détails dans [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Le détail technique complet est publié pour [le vitrage isolant Saint-Gobain](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg) et [le système S 77 SUPREME](/fr/produits-alu/systeme-aluminium-alumil-s77-supreme). Notre gamme comprend [les portes pliantes M 19800](/fr/produits-alu/systeme-pliant-alumil-m19800-smartia) et [le système pliant Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme).`,
 
       es: `## Qué es el vidrio de gran formato y quién lo necesita
 
@@ -21891,7 +21891,7 @@ Al romperse, el vidrio templado se fragmenta en gránulos pequeños sin aristas 
 
 ---
 
-Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). El detalle técnico completo está publicado para [el vidrio aislante Saint-Gobain](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg) y [el sistema S 77 SUPREME](/es/productos-alu/sistema-aluminio-alumil-s77-supreme).`,
+Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). El detalle técnico completo está publicado para [el vidrio aislante Saint-Gobain](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg) y [el sistema S 77 SUPREME](/es/productos-alu/sistema-aluminio-alumil-s77-supreme). El detalle técnico completo está publicado para [las puertas plegables M 19800](/es/productos-alu/sistema-plegable-alumil-m19800-smartia) y [las puertas plegables SF 85](/es/productos-alu/sistema-plegable-alumil-sf85-supreme).`,
 
       it: `## Che cos’è il vetro fuori misura e chi ne ha bisogno
 
@@ -22033,7 +22033,7 @@ Rompendosi, il vetro temprato si frantuma in granuli piccoli senza spigoli tagli
 
 ---
 
-Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilfov, da finestre e porte alle facciate continue. Scopri [la gamma di infissi in alluminio](/it/infissi-alluminio) o [richiedi un preventivo](/it/contatti). Tutti i dettagli in [la guida completa ai sistemi in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa). La nostra gamma comprende [la vetrazione Saint-Gobain SGG](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg) e [Alumil S 77 SUPREME](/it/prodotti-alu/sistema-alluminio-alumil-s77-supreme).`,
+Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilfov, da finestre e porte alle facciate continue. Scopri [la gamma di infissi in alluminio](/it/infissi-alluminio) o [richiedi un preventivo](/it/contatti). Tutti i dettagli in [la guida completa ai sistemi in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa). La nostra gamma comprende [la vetrazione Saint-Gobain SGG](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg) e [Alumil S 77 SUPREME](/it/prodotti-alu/sistema-alluminio-alumil-s77-supreme). Neofort BIZ fornisce e installa [il sistema a libro Alumil M 19800 SMARTIA](/it/prodotti-alu/sistema-pieghevole-alumil-m19800-smartia) e [il sistema a libro Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme) a Bucarest e Ilfov.`,
     },
   },
 
@@ -23192,7 +23192,7 @@ Tâmplăria aluminiu poate fi vopsită electrostatic în orice culoare RAL. La p
 
 ---
 
-Neofort BIZ execută pereți cortină și fațade din sticlă pentru clădiri de birouri și spații comerciale, în București și Ilfov. [Trimite-ne planurile de fațadă](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim. În gama pe care o livrăm intră [grila de prețuri la aluminiu](/ro/tamplarie-aluminiu/preturi) și [tâmplăria din aluminiu montată în București](/ro/tamplarie-aluminiu/bucuresti).
+Neofort BIZ execută pereți cortină și fațade din sticlă pentru clădiri de birouri și spații comerciale, în București și Ilfov. [Trimite-ne planurile de fațadă](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim. În gama pe care o livrăm intră [grila de prețuri la aluminiu](/ro/tamplarie-aluminiu/preturi) și [tâmplăria din aluminiu montată în București](/ro/tamplarie-aluminiu/bucuresti). În gama pe care o livrăm intră [sistemul armonic Alumil M 19800 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-m19800-smartia) și [sistemul liftant-glisant Alumil S 700 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme).
 `,
 
       en: `## The Neofort BIZ portfolio — completed projects in Bucharest 2025–2026
@@ -23319,7 +23319,7 @@ Aluminium joinery can be electrostatically coated in any RAL colour. On resident
 
 ---
 
-Neofort BIZ builds curtain walls and glass facades for office buildings and commercial premises in Bucharest and Ilfov. [Send us the facade drawings](/en/contact) and you will receive a quote within 48 hours. See [the aluminium joinery range](/en/aluminium-windows) we offer. See [the aluminium price list](/en/aluminium-windows/prices) and [aluminium joinery installed in Bucharest](/en/aluminium-windows/bucharest) for configurations and technical detail.`,
+Neofort BIZ builds curtain walls and glass facades for office buildings and commercial premises in Bucharest and Ilfov. [Send us the facade drawings](/en/contact) and you will receive a quote within 48 hours. See [the aluminium joinery range](/en/aluminium-windows) we offer. See [the aluminium price list](/en/aluminium-windows/prices) and [aluminium joinery installed in Bucharest](/en/aluminium-windows/bucharest) for configurations and technical detail. See [the Alumil M 19800 SMARTIA folding system](/en/products-alu/alumil-m19800-smartia-folding-system) and [S 700 SUPREME](/en/products-alu/alumil-s700-supreme-lift-slide-system) for configurations and technical detail.`,
 
       de: `## Das Portfolio von Neofort BIZ — abgeschlossene Projekte in Bukarest 2025–2026
 
@@ -23445,7 +23445,7 @@ Aluminiumfenster lassen sich elektrostatisch in jeder RAL-Farbe beschichten. Bei
 
 ---
 
-Neofort BIZ errichtet Vorhangfassaden und Glasfassaden für Bürogebäude und Gewerbeflächen in Bukarest und Ilfov. [Senden Sie uns die Fassadenpläne](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster), das wir anbieten. Zu unserem Lieferprogramm gehören [die Aluminium-Preisliste](/de/aluminiumfenster/preise) und [unsere Aluminiumprojekte in Bukarest](/de/aluminiumfenster/bukarest).`,
+Neofort BIZ errichtet Vorhangfassaden und Glasfassaden für Bürogebäude und Gewerbeflächen in Bukarest und Ilfov. [Senden Sie uns die Fassadenpläne](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster), das wir anbieten. Zu unserem Lieferprogramm gehören [die Aluminium-Preisliste](/de/aluminiumfenster/preise) und [unsere Aluminiumprojekte in Bukarest](/de/aluminiumfenster/bukarest). Konfigurationen und technische Daten finden Sie unter [das Falttürsystem Alumil M 19800 SMARTIA](/de/produkte-alu/alumil-m19800-smartia-faltsystem) und [S 700 SUPREME](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem).`,
 
       fr: `## Le portefeuille Neofort BIZ — chantiers livrés à Bucarest 2025–2026
 
@@ -23571,7 +23571,7 @@ La menuiserie aluminium peut être thermolaquée dans toute teinte RAL. Sur les 
 
 ---
 
-Neofort BIZ réalise des murs-rideaux et des façades vitrées pour immeubles de bureaux et locaux commerciaux, à Bucarest et dans l’Ilfov. [Transmettez-nous les plans de façade](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme de menuiseries aluminium](/fr/menuiserie-aluminium) que nous proposons. Neofort BIZ fournit et pose [les prix de la menuiserie aluminium](/fr/menuiserie-aluminium/prix) et [la menuiserie aluminium posée à Bucarest](/fr/menuiserie-aluminium/bucarest) à Bucarest et Ilfov.`,
+Neofort BIZ réalise des murs-rideaux et des façades vitrées pour immeubles de bureaux et locaux commerciaux, à Bucarest et dans l’Ilfov. [Transmettez-nous les plans de façade](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme de menuiseries aluminium](/fr/menuiserie-aluminium) que nous proposons. Neofort BIZ fournit et pose [les prix de la menuiserie aluminium](/fr/menuiserie-aluminium/prix) et [la menuiserie aluminium posée à Bucarest](/fr/menuiserie-aluminium/bucarest) à Bucarest et Ilfov. Les solutions décrites ici sont [les portes pliantes M 19800](/fr/produits-alu/systeme-pliant-alumil-m19800-smartia) et [S 700 SUPREME](/fr/produits-alu/systeme-coulissant-alumil-s700-supreme).`,
 
       es: `## El portafolio de Neofort BIZ — obras terminadas en Bucarest 2025–2026
 
@@ -23697,7 +23697,7 @@ La carpintería de aluminio puede lacarse electrostáticamente en cualquier colo
 
 ---
 
-Neofort BIZ ejecuta muros cortina y fachadas de vidrio para edificios de oficinas y locales comerciales en Bucarest e Ilfov. [Envíenos los planos de fachada](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos. Neofort BIZ suministra e instala [los precios de carpintería de aluminio](/es/carpinteria-aluminio/precios) y [la carpintería de aluminio instalada en Bucarest](/es/carpinteria-aluminio/bucarest) en Bucarest e Ilfov.`,
+Neofort BIZ ejecuta muros cortina y fachadas de vidrio para edificios de oficinas y locales comerciales en Bucarest e Ilfov. [Envíenos los planos de fachada](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos. Neofort BIZ suministra e instala [los precios de carpintería de aluminio](/es/carpinteria-aluminio/precios) y [la carpintería de aluminio instalada en Bucarest](/es/carpinteria-aluminio/bucarest) en Bucarest e Ilfov. Nuestra gama de suministro incluye [las puertas plegables M 19800](/es/productos-alu/sistema-plegable-alumil-m19800-smartia) y [el sistema elevable-corredero Alumil S 700 SUPREME](/es/productos-alu/sistema-corredera-alumil-s700-supreme).`,
 
       it: `## Il portfolio di Neofort BIZ — cantieri conclusi a Bucarest 2025–2026
 
@@ -23823,7 +23823,7 @@ I serramenti in alluminio possono essere verniciati elettrostaticamente in quals
 
 ---
 
-Neofort BIZ realizza facciate continue e facciate in vetro per edifici per uffici e spazi commerciali a Bucarest e nell’Ilfov. [Inviateci i disegni di facciata](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma di serramenti in alluminio](/it/infissi-alluminio) che offriamo. Sul sito trovate [il listino alluminio](/it/infissi-alluminio/prezzi) e [i serramenti in alluminio installati a Bucarest](/it/infissi-alluminio/bucarest), con le specifiche complete.`,
+Neofort BIZ realizza facciate continue e facciate in vetro per edifici per uffici e spazi commerciali a Bucarest e nell’Ilfov. [Inviateci i disegni di facciata](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma di serramenti in alluminio](/it/infissi-alluminio) che offriamo. Sul sito trovate [il listino alluminio](/it/infissi-alluminio/prezzi) e [i serramenti in alluminio installati a Bucarest](/it/infissi-alluminio/bucarest), con le specifiche complete. Sul sito trovate [il sistema a libro Alumil M 19800 SMARTIA](/it/prodotti-alu/sistema-pieghevole-alumil-m19800-smartia) e [S 700 SUPREME](/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme), con le specifiche complete.`,
     },
   },
 
@@ -27268,7 +27268,7 @@ Sistemul evolutionDrive Plus+ folosește role pe rulmenți, iar un canat de pân
 
 ---
 
-Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76). Soluțiile descrise aici sunt [bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [grila de prețuri la PVC](/ro/tamplarie-pvc/preturi).`,
+Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76). Soluțiile descrise aici sunt [bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [grila de prețuri la PVC](/ro/tamplarie-pvc/preturi). Detaliile tehnice complete sunt publicate pentru [ușa glisantă S 350](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia) și [ușile pliante SF 85](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme).`,
 
       en: `## Why sliding doors have become the standard for modern terraces and living rooms
 
@@ -27328,7 +27328,7 @@ The evolutionDrive Plus+ runs on bearing rollers, so a sash of up to 200 kg move
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Neofort BIZ supplies and installs [bluEvolution 92 ROUND](/en/products/bluevolution-92-round-pvc-profile) and [the PVC price list](/en/pvc-windows/prices) in Bucharest and Ilfov.`,
+Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Neofort BIZ supplies and installs [bluEvolution 92 ROUND](/en/products/bluevolution-92-round-pvc-profile) and [the PVC price list](/en/pvc-windows/prices) in Bucharest and Ilfov. You will find [the S 350 sliding door](/en/products-alu/alumil-s350-smartia-lift-slide-system) and [the Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system) on the site, with full specifications.`,
 
       de: `## Warum Schiebetüren zum Standard für moderne Terrassen geworden sind
 
@@ -27381,7 +27381,7 @@ Der evolutionDrive Plus+ läuft auf Kugellagerrollen, ein Flügel bis 200 kg bew
 
 ---
 
-Neofort BIZ fertigt und montiert Salamander PVC-Fenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie [Salamander PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den Vergleich bluEvolution 92 vs greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Die hier beschriebenen Lösungen sind [bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [die Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise).`,
+Neofort BIZ fertigt und montiert Salamander PVC-Fenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie [Salamander PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den Vergleich bluEvolution 92 vs greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Die hier beschriebenen Lösungen sind [bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [die Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Die vollständigen technischen Daten sind für [die S 350 Schiebetür](/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem) und [die SF 85 Falttüren](/de/produkte-alu/alumil-sf85-supreme-faltsystem) veröffentlicht.`,
 
       fr: `## Pourquoi les portes coulissantes sont devenues le standard des terrasses modernes
 
@@ -27434,7 +27434,7 @@ L’evolutionDrive Plus+ roule sur galets à roulements : un vantail jusqu’à 
 
 ---
 
-Neofort BIZ fabrique et pose de la menuiserie PVC Salamander à Bucarest et Ilfov, avec livraison dans toute l’Europe. Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [la comparaison bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Vous trouverez sur le site [la version ROUND à bords arrondis](/fr/produits/profil-pvc-bluevolution-92-round) et [la grille tarifaire PVC](/fr/menuiserie-pvc/prix), avec les spécifications complètes.`,
+Neofort BIZ fabrique et pose de la menuiserie PVC Salamander à Bucarest et Ilfov, avec livraison dans toute l’Europe. Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [la comparaison bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Vous trouverez sur le site [la version ROUND à bords arrondis](/fr/produits/profil-pvc-bluevolution-92-round) et [la grille tarifaire PVC](/fr/menuiserie-pvc/prix), avec les spécifications complètes. Vous trouverez sur le site [le système coulissant Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia) et [les portes pliantes SF 85](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme), avec les spécifications complètes.`,
 
       es: `## Por qué las puertas correderas se han convertido en el estándar para terrazas modernas
 
@@ -27487,7 +27487,7 @@ El evolutionDrive Plus+ rueda sobre rodamientos: una hoja de hasta 200 kg se des
 
 ---
 
-Neofort BIZ fabrica e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia). En el sitio encontrará [la versión ROUND de cantos redondeados](/es/productos/perfil-pvc-bluevolution-92-round) y [la tarifa de PVC](/es/carpinteria-pvc/precios), con las especificaciones completas.`,
+Neofort BIZ fabrica e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia). En el sitio encontrará [la versión ROUND de cantos redondeados](/es/productos/perfil-pvc-bluevolution-92-round) y [la tarifa de PVC](/es/carpinteria-pvc/precios), con las especificaciones completas. Neofort BIZ suministra e instala [el sistema corredero Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia) y [el sistema plegable Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme) en Bucarest e Ilfov.`,
 
       it: `## Perché le porte scorrevoli sono diventate lo standard per le terrazze moderne
 
@@ -27540,7 +27540,7 @@ L’evolutionDrive Plus+ scorre su rulli a cuscinetti: un’anta fino a 200 kg s
 
 ---
 
-Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, con consegna in tutta Europa. Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Il dettaglio tecnico completo è pubblicato per [bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [il listino PVC](/it/infissi-pvc/prezzi).`,
+Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, con consegna in tutta Europa. Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Il dettaglio tecnico completo è pubblicato per [bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [il listino PVC](/it/infissi-pvc/prezzi). Le soluzioni descritte qui sono [la scorrevole S 350](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia) e [le porte a libro SF 85](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme).`,
     },
   },
 

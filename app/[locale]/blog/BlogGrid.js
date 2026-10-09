@@ -42,8 +42,18 @@ export default function BlogGrid({ articles, locale, read }) {
 
   useEffect(() => {
     setMounted(true);
-    const hash = window.location.hash.replace('#', '');
-    if (FILTER_KEYS.includes(hash)) setActiveFilter(hash);
+    // v266: filtrul se citeste intai din CALE (URL-ul canonic de categorie,
+    // localizat), apoi din hash — pentru compatibilitate cu linkurile vechi
+    // de forma /it/blog#umbrire care circula deja.
+    const path = window.location.pathname.replace(/\/+$/, '');
+    const fromPath = FILTER_KEYS.find(
+      k => k !== 'all' && CAT_PATHS[k]?.[locale] && path.endsWith(CAT_PATHS[k][locale])
+    );
+    if (fromPath) setActiveFilter(fromPath);
+    else {
+      const hash = window.location.hash.replace('#', '');
+      if (FILTER_KEYS.includes(hash)) setActiveFilter(hash);
+    }
     // Fetch views pentru toate articolele
     const slugs = articles.map(a => a.slugs?.ro).filter(Boolean);
     Promise.all(
@@ -60,15 +70,24 @@ export default function BlogGrid({ articles, locale, read }) {
     });
   }, [articles]);
 
+  // v266: la filtrare scriem in bara de adresa URL-ul CANONIC de categorie,
+  // localizat (/it/blog/categoria/oscuramento), nu un fragment cu cheia
+  // interna romaneasca (/it/blog#umbrire). Motivele:
+  //   - cine copiaza URL-ul din bara distribuie pagina reala, indexabila,
+  //     nu o stare de filtru care arata gresit pe o pagina italiana;
+  //   - la refresh omul ajunge pe pagina de categorie server-randata, care
+  //     exista deja si are canonical si hreflang proprii;
+  //   - href-ul butonului era deja corect si localizat, deci pentru crawler
+  //     nu se schimba nimic — se schimba doar ce vede omul.
+  // Filtrarea ramane client-side, fara reincarcare de pagina.
   const handleFilter = useCallback((key) => {
     setActiveFilter(key);
     setSearchQuery('');
-    if (key === 'all') {
-      history.replaceState(null, '', window.location.pathname);
-    } else {
-      history.replaceState(null, '', window.location.pathname + '#' + key);
-    }
-  }, []);
+    const target = key === 'all'
+      ? `/${locale}/blog`
+      : `/${locale}${CAT_PATHS[key]?.[locale] || `/blog/categorie/${key}`}`;
+    history.replaceState(null, '', target + window.location.search);
+  }, [locale]);
 
   const filtered = useMemo(() => {
     let result = articles;
