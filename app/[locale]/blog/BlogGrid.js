@@ -2,7 +2,13 @@
 
 import { useState, useEffect, useMemo, useCallback } from 'react';
 import { CATEGORY_THEME, THEME_LABELS, CAT_PATHS } from '../../../lib/blogCategories.js';
-import Link from 'next/link';
+// v268: Link din i18n/navigation, nu din next/link — exact ca pe paginile de
+// produs. Cu next/link href-ul pleca fara prefix de limba (/blog/<slug>), iar
+// serverul deducea limba din cookie-ul NEXT_LOCALE. Pentru oameni mergea, dar
+// Googlebot nu are cookie-uri: urmarea linkul, primea 307 si ajungea pe
+// varianta romana. Lista de blog germana nu trimitea niciun semnal intern
+// catre propriile ei articole.
+import { Link } from '../../../i18n/navigation';
 
 // ── Mapare categorie RO → temă internă ──────────────────────────────────────
 // v202: CATEGORY_THEME + labels mutate in lib/blogCategories.js (sursa unica, partajata cu paginile de categorie)
@@ -322,7 +328,7 @@ export default function BlogGrid({ articles, locale, read }) {
               const accent  = a.accentColor || '#4a7c59';
 
               return (
-                <Link key={a.slugs?.ro} href={`/blog/${slug}`} className="bg-card" role="listitem" aria-label={title}>
+                <Link key={a.slugs?.ro} href={`/blog/${a.slugs?.ro || slug}`} className="bg-card" role="listitem" aria-label={title}>
                   {img ? (
                     <div style={{ width:'100%', aspectRatio:'16/9', overflow:'hidden', background:a.imageBg||'#1a1a1a', flexShrink:0 }}>
                       <img src={img} alt={title} loading="lazy" decoding="async"
