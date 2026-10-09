@@ -481,4 +481,13 @@ img,video{max-width:100%;height:auto}
 .card-link { transition: border-color .18s, box-shadow .18s; }
 .card-link:hover { border-color: #1a1a1a; box-shadow: 0 2px 14px rgba(0, 0, 0, .07); }
 .card-cta { transition: background .15s, color .15s, border-color .15s; }
-.card-link:hover .card-cta { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
+/* v269: !important e necesar aici. Butonul are color si border setate INLINE
+   in pagina (color: accentColor), iar stilul inline bate orice regula din
+   foaia de stil. Fara !important fundalul se facea negru, dar literele
+   ramaneau albastre — ilizibil. background nu e setat inline, dar il las
+   grupat ca sa se vada ca cele trei merg impreuna. */
+.card-link:hover .card-cta {
+  background: #1a1a1a !important;
+  color: #fff !important;
+  border-color: #1a1a1a !important;
+}
