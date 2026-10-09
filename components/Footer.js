@@ -16,12 +16,20 @@ export default function Footer({ googleRating }) {
   const tn = useTranslations('nav');
   const pathname = usePathname();
 
+  // v260: prefixe telefonice. Capul listei depinde de limba curenta, restul e
+  // alfabetic dupa numele tarii in acea limba.
+  // v262: prima tara din cap e preselectata — Romania pe pagina romaneasca,
+  // Italia pe cea italiana si asa mai departe. Se calculeaza inaintea
+  // useState-urilor, pentru ca valoarea initiala a campului depinde de ea.
+  const { pinned: cPinned, rest: cRest } = getOrderedCountries(locale);
+  const defaultDial = cPinned[0]?.dial || '+40';
+
   const [files, setFiles] = useState([]);
   const [gdpr, setGdpr] = useState(false);
   const [status, setStatus] = useState('idle');
   const [errorMsg, setErrorMsg] = useState('');
   const [err, setErr] = useState(EMPTY_ERR);
-  const [phoneVal, setPhoneVal] = useState('');
+  const [phoneVal, setPhoneVal] = useState(defaultDial + ' ');
 
   // Anti-spam (v259): momentul incarcarii formularului. Diferenta pana la
   // trimitere pleaca spre server in campul "t".
@@ -92,10 +100,6 @@ export default function Footer({ googleRating }) {
     it: { title_label:'Contattateci', title_h2:'Richiedete un preventivo\nper infissi in PVC o Alluminio', col_dept:'Reparti', col_form:'Modulo di contatto', col_prod:'La richiesta di offerta conterrà:', p_name:'Nome completo *', p_prefix:'Prefisso paese *', p_phone:'Telefono *', p_email:'E-mail *', p_addr:'Indirizzo di consegna *', lbl_cmd:"L'ordine deve includere: *", sel_ph:"Seleziona un'opzione *", lbl_files:'Allega schizzi (max 7):', gdpr_text:'Ho letto e accetto la', gdpr_priv:'Informativa sulla privacy', gdpr_and:'e la', gdpr_cook:'Politica sui cookie', gdpr_of:'di Neofort BIZ. *', files_sel:'file selezionato/i', btn_file:'Scegli file', dept_quotes:'Preventivi', dept_schedule:'Appuntamenti', dept_technical:'Tecnico', email_quotes:'E-mail Preventivi', email_orders:'E-mail Ordini', email_service:'E-mail Servizio' },
   };
   const ft = FORM_TEXTS[locale] || FORM_TEXTS.ro;
-
-  // v260: prefixe telefonice. Capul listei depinde de limba curenta, restul e
-  // alfabetic dupa numele tarii in acea limba.
-  const { pinned: cPinned, rest: cRest } = getOrderedCountries(locale);
 
   const handleFiles = (e) => {
     const MAX_PER_FILE = 5 * 1024 * 1024;  // 5MB per fisier
@@ -169,7 +173,7 @@ export default function Footer({ googleRating }) {
     try {
       const res  = await fetch('/api/contact', { method:'POST', body:fd });
       const json = await res.json();
-      if (json.success) { setStatus('success'); setErrorMsg(''); form.reset(); setFiles([]); setGdpr(false); setErr(EMPTY_ERR); setPhoneVal(''); }
+      if (json.success) { setStatus('success'); setErrorMsg(''); form.reset(); setFiles([]); setGdpr(false); setErr(EMPTY_ERR); setPhoneVal(defaultDial + ' '); }
       else {
         setStatus('error');
         setErrorMsg(json.error || '');
@@ -260,10 +264,9 @@ export default function Footer({ googleRating }) {
                     </div>
                     <div style={{marginBottom:'16px'}}>
                       <div style={{display:'flex',alignItems:'center',borderBottom: err.telefon ? '1px solid #e05252' : '1px solid #333'}}>
-                        <select name="prefix" defaultValue="" aria-label={ft.p_prefix}
+                        <select name="prefix" defaultValue={defaultDial} aria-label={ft.p_prefix}
                           onChange={(ev)=>{ const d=ev.target.value; setPhoneVal(d ? d+' ' : ''); if(err.telefon) setErr(p=>({...p,telefon:''})); const inp=ev.target.form?.telefon; if(inp) inp.focus(); }}
                           style={{flex:'0 0 42%',background:'#111',border:'none',padding:'10px 0',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',letterSpacing:'.1em',color:'#ddd',outline:'none',appearance:'none',boxSizing:'border-box',cursor:'pointer'}}>
-                          <option value="" disabled>{ft.p_prefix}</option>
                           {cPinned.map(c => <option key={c.iso} value={c.dial}>{countryLabel(c, locale)}</option>)}
                           {cRest.map(c => <option key={c.iso} value={c.dial}>{countryLabel(c, locale)}</option>)}
                         </select>
