@@ -1,38 +1,49 @@
-// v270: Titluri si meta descrieri dedicate pentru paginile de produs.
-// Motiv: pana in v269 titlul era `${name} · Neofort BIZ` (medie 93 caractere, toate
-// cele 150 peste limita SERP de ~60) iar descrierea era seo_text.slice(0,160), care
-// taia in mijlocul cuvantului pe 115 din 150 de pagini.
+// v271: Titluri si meta descrieri dedicate pentru paginile de produs.
+// Motiv initial: pana in v269 titlul era `${name} · Neofort BIZ` (medie 93 caractere,
+// toate cele 150 peste limita SERP de ~60) iar descrierea era seo_text.slice(0,160),
+// care taia in mijlocul cuvantului pe 115 din 150 de pagini.
 //
 // Reguli respectate aici:
 //   title <= 60 caractere · desc <= 150 caractere · fraza completa, niciodata taiata
-//   REGULA v270b: fiecare substantiv din numele original al produsului trebuie sa
-//   apara in titlu SAU in descriere. Prima varianta comprimase prea mult si
-//   pierduse termeni cautati (Kunststoffprofil pe toate cele 6 titluri germane,
-//   "ferestre si usi" pe Alumil S 67/S 77, "terase/fatade" pe Zipscreen,
-//   "antiefractie" pe rulouri, "geam termoizolant" pe Saint-Gobain).
+//   fiecare substantiv din numele original al produsului apare in titlu SAU in
+//   descriere (regula introdusa in v270b: prima varianta comprimase prea mult si
+//   pierduse termeni cautati pe 117 din 150 de pagini)
+//   v271: trecere de fluenta nativa. Fiecare limba foloseste termenul comercial
+//   dominant in cautari, nu traducerea literala din romana:
+//     DE  Kompriband (nu "Butylband"), Senkrechtmarkise (zipscreen),
+//         Kunststofffenster (nu "PVC-Fenster")
+//     EN  bi-fold doors (nu "folding doors")
+//     FR  brise-soleil orientable / BSO (raffstore), baie coulissante
+//     IT  frangisole orientabile (raffstore), vetrocamera (geam termopan),
+//         infissi ca termen de categorie (ca in slug-ul /it/infissi-pvc)
+//     ES  toldo vertical (zipscreen), persiana enrollable (rulou exterior)
 //   fara sufixul " · Neofort BIZ" pe paginile de produs — cele 14 caractere au fost
 //   redirectionate catre cuvinte cheie; numele firmei ramane in og:site_name si in
-//   schema Organization, iar Google il afiseaza separat in linia de breadcrumb
+//   schema Organization
 //   fiecare descriere contine cel putin o cifra reala din specs/perf (fapt citabil
 //   pentru LLM) si, unde incape, zona de montaj
 //
 // Cheile sunt slug-urile canonice din SLUG_MAP, unice intre cele 5 familii.
-// generateMetadata face fallback la comportamentul vechi daca o cheie lipseste.
+// generateMetadata face fallback la comportamentul anterior daca o cheie lipseste.
 
-// v270 — punctul 5 din audit: pana acum accesorii, sisteme-nzeb si umbrire declarau
-// toate `brand: 'Neofort BIZ'` si nu aveau deloc `manufacturer`, desi o parte din
-// produse sunt fabricate de terti. Aici sunt trecute DOAR produsele unde
-// producatorul e cert din denumirea si specificatiile produsului. Pentru restul
-// (pervazuri, benzi de etansare, bagheta warm edge cu 3 furnizori posibili,
-// rulouri, raffstore, zipscreen, toc de renovare) nu se declara producator —
-// raman pe brand Neofort BIZ, pentru ca o atribuire gresita in schema e mai
-// daunatoare decat lipsa ei.
+// Producatori confirmati de Dan (14 oct 2026). produse/ si produse-aluminiu/ isi
+// pastreaza producatorul propriu, declarat direct in page.js: Salamander GmbH & Co. KG
+// (DE) si Alumil S.A. (GR). Madrugada e trecut FARA addressCountry — tara nu a fost
+// confirmata si o atribuire gresita in schema e mai daunatoare decat lipsa ei.
 export const PRODUCT_BRAND = {
-  'grila-higroreglabila-aereco':   { brand:'Aereco',       manufacturer:'Aereco S.A.',        country:'FR' },
-  'automatizari-somfy':            { brand:'Somfy',        manufacturer:'Somfy',              country:'FR' },
-  'pergole-automate-somfy':        { brand:'Somfy',        manufacturer:'Somfy',              country:'FR' },
-  'precadre-blaugelb-triotherm':   { brand:'Blaugelb',     manufacturer:'Blaugelb',           country:'DE' },
-  'geamuri-termopan-saint-gobain': { brand:'Saint-Gobain', manufacturer:'Saint-Gobain Glass', country:'FR' },
+  'toc-de-renovare':                    { brand:'Salamander',       manufacturer:'Salamander GmbH & Co. KG', country:'DE' },
+  'pervazuri-interior-pvc-exterior-al': { brand:'PM Aluminium Line', manufacturer:'PM Aluminium Line',       country:'RO' },
+  'grila-higroreglabila-aereco':        { brand:'Aereco',           manufacturer:'Aereco S.A.',              country:'FR' },
+  'automatizari-somfy':                 { brand:'Somfy',            manufacturer:'Somfy',                    country:'FR' },
+  'precadre-blaugelb-triotherm':        { brand:'Blaugelb',         manufacturer:'Blaugelb',                 country:'DE' },
+  'banda-precomprimata-butil':          { brand:'Soudal',           manufacturer:'Soudal N.V.',              country:'BE' },
+  'banda-etansare-antivapori':          { brand:'Soudal',           manufacturer:'Soudal N.V.',              country:'BE' },
+  'bagheta-warm-edge-thermo':           { brand:'SWISSPACER',       manufacturer:'SWISSPACER',               country:'CH' },
+  'geamuri-termopan-saint-gobain':      { brand:'Saint-Gobain',     manufacturer:'Saint-Gobain Glass',       country:'FR' },
+  'rulouri-exterioare-aluminiu':        { brand:'Madrugada',        manufacturer:'Madrugada' },
+  'jaluzele-venetiene-raffstore':       { brand:'Madrugada',        manufacturer:'Madrugada' },
+  'zipscreen':                          { brand:'Madrugada',        manufacturer:'Madrugada' },
+  'pergole-automate-somfy':             { brand:'Somfy',            manufacturer:'Somfy',                    country:'FR' },
 };
 
 export const PRODUCT_META = {
@@ -40,7 +51,7 @@ export const PRODUCT_META = {
   'bluevolution-92-alu': {
     title: {
       ro: 'Profil PVC Salamander BluEvolution 92 ALU – 6 camere',
-      en: 'Salamander BluEvolution 92 ALU – 6-Chamber PVC Profile',
+      en: 'Salamander BluEvolution 92 ALU – 6-Chamber uPVC Profile',
       de: 'Salamander BluEvolution 92 ALU – 6-Kammer-Kunststoffprofil',
       fr: 'Salamander BluEvolution 92 ALU – Profil PVC 6 chambres',
       es: 'Salamander BluEvolution 92 ALU – Perfil PVC 6 cámaras',
@@ -48,18 +59,18 @@ export const PRODUCT_META = {
     },
     desc: {
       ro: 'Profil cu 6 camere, placat cu aluminiu 12 mm, adâncime 92 mm. Uw de la 0,70 W/m²K, 47 dB, RC2. Ferestre PVC montate în București și Ilfov.',
-      en: 'Six-chamber profile with 12 mm aluminium cladding and 92 mm depth. Uw from 0.70 W/m²K, 47 dB, RC2. PVC windows fitted in Bucharest and Ilfov.',
-      de: 'Kunststofffenster-Profil mit 6 Kammern, 12 mm Aluminiumverkleidung, 92 mm Bautiefe. Uw ab 0,70 W/m²K, 47 dB, RC2. Montage in Bukarest.',
+      en: 'Six-chamber profile with 12 mm aluminium cladding, 92 mm deep. Uw from 0.70 W/m²K, 47 dB, RC2. uPVC windows fitted in Bucharest and Ilfov.',
+      de: 'Kunststoffprofil mit 6 Kammern, 12 mm Aluminiumverkleidung, 92 mm Bautiefe. Uw ab 0,70 W/m²K, 47 dB, RC2. Kunststofffenster aus Bukarest.',
       fr: 'Profil à 6 chambres avec revêtement aluminium 12 mm, profondeur 92 mm. Uw dès 0,70 W/m²K, 47 dB, RC2. Fenêtres PVC posées à Bucarest.',
-      es: 'Perfil de 6 cámaras con revestimiento de aluminio 12 mm y 92 mm de profundidad. Uw desde 0,70 W/m²K, 47 dB, RC2. Ventanas PVC en Bucarest.',
-      it: 'Profilo a 6 camere con rivestimento in alluminio 12 mm e profondità 92 mm. Uw da 0,70 W/m²K, 47 dB, RC2. Finestre PVC posate a Bucarest.',
+      es: 'Perfil de 6 cámaras con revestimiento de aluminio 12 mm, 92 mm de profundidad. Uw desde 0,70 W/m²K, 47 dB, RC2. Ventanas PVC en Bucarest.',
+      it: 'Profilo a 6 camere con rivestimento in alluminio 12 mm, profondità 92 mm. Uw da 0,70 W/m²K, 47 dB, RC2. Infissi in PVC posati a Bucarest.',
     },
   },
 
   'bluevolution-92-flex': {
     title: {
       ro: 'Profil PVC Salamander BluEvolution 92 FLEX – 6 camere',
-      en: 'Salamander BluEvolution 92 FLEX – 6-Chamber PVC Profile',
+      en: 'Salamander BluEvolution 92 FLEX – 6-Chamber uPVC Profile',
       de: 'Salamander BluEvolution 92 FLEX – 6-Kammer-Kunststoffprofil',
       fr: 'Salamander BluEvolution 92 FLEX – Profil PVC 6 chambres',
       es: 'Salamander BluEvolution 92 FLEX – Perfil PVC 6 cámaras',
@@ -67,18 +78,18 @@ export const PRODUCT_META = {
     },
     desc: {
       ro: 'Profil drept cu 6 camere, adâncime 92 mm, 3 garnituri EPDM. Uw de la 0,70 W/m²K, 47 dB, RC2. Ferestre PVC montate în București și Ilfov.',
-      en: 'Straight six-chamber profile, 92 mm deep, three EPDM seals. Uw from 0.70 W/m²K, 47 dB, RC2. PVC windows fitted in Bucharest and Ilfov.',
-      de: 'Gerades Kunststoffprofil mit 6 Kammern, 92 mm Bautiefe, drei EPDM-Dichtungen. Uw ab 0,70 W/m²K, 47 dB, RC2. Montage in Bukarest.',
+      en: 'Straight six-chamber profile, 92 mm deep, three EPDM seals. Uw from 0.70 W/m²K, 47 dB, RC2. uPVC windows fitted in Bucharest and Ilfov.',
+      de: 'Gerades Kunststoffprofil mit 6 Kammern, 92 mm Bautiefe, drei EPDM-Dichtungen. Uw ab 0,70 W/m²K, 47 dB, RC2. Kunststofffenster aus Bukarest.',
       fr: 'Profil droit à 6 chambres, 92 mm de profondeur, trois joints EPDM. Uw dès 0,70 W/m²K, 47 dB, RC2. Fenêtres PVC posées à Bucarest.',
       es: 'Perfil recto de 6 cámaras, 92 mm de profundidad y tres juntas EPDM. Uw desde 0,70 W/m²K, 47 dB, RC2. Ventanas PVC montadas en Bucarest.',
-      it: 'Profilo dritto a 6 camere, 92 mm di profondità e tre guarnizioni EPDM. Uw da 0,70 W/m²K, 47 dB, RC2. Finestre PVC posate a Bucarest.',
+      it: 'Profilo dritto a 6 camere, 92 mm di profondità, tre guarnizioni EPDM. Uw da 0,70 W/m²K, 47 dB, RC2. Infissi in PVC posati a Bucarest.',
     },
   },
 
   'bluevolution-92-round': {
     title: {
       ro: 'Profil PVC Salamander BluEvolution 92 ROUND – 6 camere',
-      en: 'Salamander BluEvolution 92 ROUND – 6-Chamber PVC Profile',
+      en: 'Salamander BluEvolution 92 ROUND – 6-Chamber uPVC Profile',
       de: 'Salamander BluEvolution 92 ROUND – 6-Kammer-Kunststoffprofil',
       fr: 'Salamander BluEvolution 92 ROUND – Profil PVC 6 chambres',
       es: 'Salamander BluEvolution 92 ROUND – Perfil PVC 6 cámaras',
@@ -86,18 +97,18 @@ export const PRODUCT_META = {
     },
     desc: {
       ro: 'Profil rotunjit cu 6 camere, adâncime 92 mm, geam 24–60 mm. Uw de la 0,70 W/m²K, 47 dB, RC2. Ferestre PVC montate în București și Ilfov.',
-      en: 'Rounded six-chamber profile, 92 mm deep, glazing 24–60 mm. Uw from 0.70 W/m²K, 47 dB, RC2. PVC windows fitted in Bucharest and Ilfov.',
-      de: 'Rundes Kunststoffprofil mit 6 Kammern, 92 mm Bautiefe, Verglasung 24–60 mm. Uw ab 0,70 W/m²K, 47 dB, RC2. Montage in Bukarest.',
+      en: 'Rounded six-chamber profile, 92 mm deep, glazing 24–60 mm. Uw from 0.70 W/m²K, 47 dB, RC2. uPVC windows fitted in Bucharest and Ilfov.',
+      de: 'Rundes Kunststoffprofil mit 6 Kammern, 92 mm Bautiefe, Verglasung 24–60 mm. Uw ab 0,70 W/m²K, 47 dB, RC2. Kunststofffenster aus Bukarest.',
       fr: 'Profil arrondi à 6 chambres, 92 mm de profondeur, vitrage 24–60 mm. Uw dès 0,70 W/m²K, 47 dB, RC2. Fenêtres PVC posées à Bucarest.',
       es: 'Perfil redondeado de 6 cámaras, 92 mm de profundidad, vidrio 24–60 mm. Uw desde 0,70 W/m²K, 47 dB, RC2. Ventanas PVC en Bucarest.',
-      it: 'Profilo arrotondato a 6 camere, 92 mm di profondità, vetro 24–60 mm. Uw da 0,70 W/m²K, 47 dB, RC2. Finestre PVC posate a Bucarest.',
+      it: 'Profilo arrotondato a 6 camere, 92 mm di profondità, vetro 24–60 mm. Uw da 0,70 W/m²K, 47 dB, RC2. Infissi in PVC posati a Bucarest.',
     },
   },
 
   'greenevolution-76-md-round': {
     title: {
       ro: 'Profil PVC Salamander GreenEvolution 76 MD ROUND',
-      en: 'Salamander GreenEvolution 76 MD ROUND PVC Profile',
+      en: 'Salamander GreenEvolution 76 MD ROUND uPVC Profile',
       de: 'Salamander GreenEvolution 76 MD ROUND Kunststoffprofil',
       fr: 'Salamander GreenEvolution 76 MD ROUND – Profil PVC',
       es: 'Salamander GreenEvolution 76 MD ROUND – Perfil PVC',
@@ -105,18 +116,18 @@ export const PRODUCT_META = {
     },
     desc: {
       ro: 'Design rotunjit, 5 camere, adâncime 76 mm, geam până la 48 mm. Uw de la 0,73 W/m²K, 47 dB, RC2. Ferestre PVC montate în București și Ilfov.',
-      en: 'Rounded design, five chambers, 76 mm depth, glazing up to 48 mm. Uw from 0.73 W/m²K, 47 dB, RC2. PVC windows fitted in Bucharest and Ilfov.',
+      en: 'Rounded design, five chambers, 76 mm deep, glazing up to 48 mm. Uw from 0.73 W/m²K, 47 dB, RC2. uPVC windows fitted in Bucharest and Ilfov.',
       de: 'Rundes Design, 5 Kammern, 76 mm Bautiefe, Verglasung bis 48 mm. Uw ab 0,73 W/m²K, 47 dB, RC2. Kunststofffenster-Montage in Bukarest.',
       fr: 'Design arrondi, 5 chambres, 76 mm de profondeur, vitrage jusqu’à 48 mm. Uw dès 0,73 W/m²K, 47 dB, RC2. Fenêtres PVC posées à Bucarest.',
       es: 'Diseño redondeado, 5 cámaras, 76 mm de profundidad, vidrio hasta 48 mm. Uw desde 0,73 W/m²K, 47 dB, RC2. Ventanas PVC en Bucarest.',
-      it: 'Design arrotondato, 5 camere, 76 mm di profondità, vetro fino a 48 mm. Uw da 0,73 W/m²K, 47 dB, RC2. Finestre PVC posate a Bucarest.',
+      it: 'Design arrotondato, 5 camere, 76 mm di profondità, vetro fino a 48 mm. Uw da 0,73 W/m²K, 47 dB, RC2. Infissi in PVC posati a Bucarest.',
     },
   },
 
   'greenevolution-76-md-flex': {
     title: {
       ro: 'Profil PVC Salamander GreenEvolution 76 MD FLEX',
-      en: 'Salamander GreenEvolution 76 MD FLEX PVC Profile',
+      en: 'Salamander GreenEvolution 76 MD FLEX uPVC Profile',
       de: 'Salamander GreenEvolution 76 MD FLEX Kunststoffprofil',
       fr: 'Salamander GreenEvolution 76 MD FLEX – Profil PVC',
       es: 'Salamander GreenEvolution 76 MD FLEX – Perfil PVC',
@@ -124,18 +135,18 @@ export const PRODUCT_META = {
     },
     desc: {
       ro: 'Design drept, 5 camere, adâncime 76 mm, 3 garnituri EPDM plus mediană. Uw de la 0,73 W/m²K, 47 dB. Ferestre PVC montate în București.',
-      en: 'Straight design, five chambers, 76 mm depth, three EPDM seals plus a middle gasket. Uw from 0.73 W/m²K, 47 dB. PVC windows fitted in Bucharest.',
-      de: 'Gerades Design, 5 Kammern, 76 mm Bautiefe, drei EPDM-Dichtungen und Mitteldichtung. Uw ab 0,73 W/m²K, 47 dB. Kunststofffenster in Bukarest.',
+      en: 'Straight design, five chambers, 76 mm deep, three EPDM seals plus a middle gasket. Uw from 0.73 W/m²K, 47 dB. uPVC windows from Bucharest.',
+      de: 'Gerades Design, 5 Kammern, 76 mm Bautiefe, drei EPDM-Dichtungen und Mitteldichtung. Uw ab 0,73 W/m²K, 47 dB. Kunststofffenster aus Bukarest.',
       fr: 'Design droit, 5 chambres, 76 mm de profondeur, trois joints EPDM et joint médian. Uw dès 0,73 W/m²K, 47 dB. Fenêtres PVC posées à Bucarest.',
       es: 'Diseño recto, 5 cámaras, 76 mm de profundidad, tres juntas EPDM y junta central. Uw desde 0,73 W/m²K, 47 dB. Ventanas PVC en Bucarest.',
-      it: 'Design dritto, 5 camere, 76 mm di profondità, tre guarnizioni EPDM e mediana. Uw da 0,73 W/m²K, 47 dB. Finestre PVC posate a Bucarest.',
+      it: 'Design dritto, 5 camere, 76 mm di profondità, tre guarnizioni EPDM e mediana. Uw da 0,73 W/m²K, 47 dB. Infissi in PVC posati a Bucarest.',
     },
   },
 
   'greenevolution-76-ad-flex': {
     title: {
       ro: 'Profil PVC Salamander GreenEvolution 76 AD FLEX',
-      en: 'Salamander GreenEvolution 76 AD FLEX PVC Profile',
+      en: 'Salamander GreenEvolution 76 AD FLEX uPVC Profile',
       de: 'Salamander GreenEvolution 76 AD FLEX Kunststoffprofil',
       fr: 'Salamander GreenEvolution 76 AD FLEX – Profil PVC',
       es: 'Salamander GreenEvolution 76 AD FLEX – Perfil PVC',
@@ -143,11 +154,11 @@ export const PRODUCT_META = {
     },
     desc: {
       ro: 'Design drept avansat, 5 camere, adâncime 76 mm, geam până la 48 mm. Uw de la 0,73 W/m²K, 47 dB, RC2. Ferestre PVC montate în București.',
-      en: 'Advanced straight design, five chambers, 76 mm depth, glazing up to 48 mm. Uw from 0.73 W/m²K, 47 dB, RC2. PVC windows fitted in Bucharest.',
-      de: 'Fortgeschrittenes gerades Design, 5 Kammern, 76 mm Bautiefe, Verglasung bis 48 mm. Uw ab 0,73 W/m²K, 47 dB. Kunststofffenster in Bukarest.',
+      en: 'Advanced straight design, five chambers, 76 mm deep, glazing up to 48 mm. Uw from 0.73 W/m²K, 47 dB, RC2. uPVC windows from Bucharest.',
+      de: 'Fortgeschrittenes gerades Design, 5 Kammern, 76 mm Bautiefe, Verglasung bis 48 mm. Uw ab 0,73 W/m²K, 47 dB. Kunststofffenster aus Bukarest.',
       fr: 'Design droit avancé, 5 chambres, 76 mm de profondeur, vitrage jusqu’à 48 mm. Uw dès 0,73 W/m²K, 47 dB. Fenêtres PVC posées à Bucarest.',
       es: 'Diseño recto avanzado, 5 cámaras, 76 mm de profundidad, vidrio hasta 48 mm. Uw desde 0,73 W/m²K, 47 dB. Ventanas PVC en Bucarest.',
-      it: 'Design dritto avanzato, 5 camere, 76 mm di profondità, vetro fino a 48 mm. Uw da 0,73 W/m²K, 47 dB. Finestre PVC posate a Bucarest.',
+      it: 'Design dritto avanzato, 5 camere, 76 mm di profondità, vetro fino a 48 mm. Uw da 0,73 W/m²K, 47 dB. Infissi in PVC posati a Bucarest.',
     },
   },
 
@@ -155,18 +166,18 @@ export const PRODUCT_META = {
     title: {
       ro: 'Ferestre și Uși Aluminiu Alumil S 77 SUPREME – Uf 0,86',
       en: 'Alumil S 77 SUPREME – Aluminium Windows & Doors, Uf 0.86',
-      de: 'Alumil S 77 SUPREME – Aluminiumfenster & -türen, Uf 0,86',
-      fr: 'Alumil S 77 SUPREME – Fenêtres & portes aluminium, Uf 0,86',
-      es: 'Alumil S 77 SUPREME – Ventanas y puertas aluminio, Uf 0,86',
-      it: 'Alumil S 77 SUPREME – Finestre e porte alluminio, Uf 0,86',
+      de: 'Alumil S 77 SUPREME Aluminiumfenster – Uf 0,86 W/m²K',
+      fr: 'Alumil S 77 SUPREME – Fenêtres aluminium, Uf 0,86 W/m²K',
+      es: 'Alumil S 77 SUPREME – Ventanas aluminio, Uf 0,86 W/m²K',
+      it: 'Alumil S 77 SUPREME – Finestre alluminio, Uf 0,86 W/m²K',
     },
     desc: {
       ro: 'Sistem cu barieră termică poliamidă 40 mm. Uf de la 0,86 W/m²K, 42 dB, RC3 standard. Tâmplărie aluminiu montată în București și Ilfov.',
       en: 'System with a 40 mm polyamide thermal barrier. Uf from 0.86 W/m²K, 42 dB, RC3 as standard. Aluminium joinery fitted in Bucharest and Ilfov.',
-      de: 'Aluminiumsystem mit 40 mm Polyamid-Wärmedämmbrücke. Uf ab 0,86 W/m²K, 42 dB, serienmäßig RC3. Montage in Bukarest und Ilfov.',
-      fr: 'Système à rupture thermique polyamide 40 mm. Uf dès 0,86 W/m²K, 42 dB, RC3 de série. Menuiserie aluminium posée à Bucarest et Ilfov.',
-      es: 'Sistema con barrera térmica de poliamida de 40 mm. Uf desde 0,86 W/m²K, 42 dB, RC3 de serie. Carpintería de aluminio en Bucarest.',
-      it: 'Sistema con taglio termico in poliammide 40 mm. Uf da 0,86 W/m²K, 42 dB, RC3 di serie. Infissi in alluminio posati a Bucarest e Ilfov.',
+      de: 'Aluminiumfenster und -türen mit 40 mm Polyamid-Wärmedämmbrücke. Uf ab 0,86 W/m²K, 42 dB, serienmäßig RC3. Montage in Bukarest und Ilfov.',
+      fr: 'Système de fenêtres et portes à rupture thermique polyamide 40 mm. Uf dès 0,86 W/m²K, 42 dB, RC3 de série. Pose à Bucarest et Ilfov.',
+      es: 'Sistema de ventanas y puertas con barrera térmica de poliamida de 40 mm. Uf desde 0,86 W/m²K, 42 dB, RC3 de serie. Montaje en Bucarest.',
+      it: 'Sistema di finestre e porte con taglio termico in poliammide 40 mm. Uf da 0,86 W/m²K, 42 dB, RC3 di serie. Infissi posati a Bucarest.',
     },
   },
 
@@ -174,18 +185,18 @@ export const PRODUCT_META = {
     title: {
       ro: 'Ferestre și Uși Aluminiu Alumil S 67 SMARTIA – 45 dB',
       en: 'Alumil S 67 SMARTIA – Aluminium Windows & Doors, 45 dB',
-      de: 'Alumil S 67 SMARTIA – Aluminiumfenster & -türen, 45 dB',
-      fr: 'Alumil S 67 SMARTIA – Fenêtres & portes aluminium, 45 dB',
-      es: 'Alumil S 67 SMARTIA – Ventanas y puertas aluminio, 45 dB',
-      it: 'Alumil S 67 SMARTIA – Finestre e porte alluminio, 45 dB',
+      de: 'Alumil S 67 SMARTIA Aluminiumfenster – 45 dB, RC3',
+      fr: 'Alumil S 67 SMARTIA – Fenêtres aluminium, 45 dB, RC3',
+      es: 'Alumil S 67 SMARTIA – Ventanas aluminio, 45 dB, RC3',
+      it: 'Alumil S 67 SMARTIA – Finestre alluminio, 45 dB, RC3',
     },
     desc: {
       ro: 'Sistem cu barieră termică 30 mm și izolare fonică până la 45 dB. Uf de la 1,5 W/m²K, RC3 opțional. Tâmplărie aluminiu în București.',
       en: 'System with a 30 mm thermal break and sound insulation up to 45 dB. Uf from 1.5 W/m²K, optional RC3. Aluminium joinery fitted in Bucharest.',
-      de: 'Aluminiumsystem mit 30 mm Wärmedämmung und Schalldämmung bis 45 dB. Uf ab 1,5 W/m²K, RC3 optional. Montage in Bukarest und Ilfov.',
-      fr: 'Système à rupture thermique 30 mm et isolation phonique jusqu’à 45 dB. Uf dès 1,5 W/m²K, RC3 en option. Menuiserie aluminium à Bucarest.',
-      es: 'Sistema con rotura térmica de 30 mm y aislamiento acústico hasta 45 dB. Uf desde 1,5 W/m²K, RC3 opcional. Carpintería aluminio en Bucarest.',
-      it: 'Sistema con taglio termico 30 mm e isolamento acustico fino a 45 dB. Uf da 1,5 W/m²K, RC3 opzionale. Infissi in alluminio a Bucarest.',
+      de: 'Aluminiumfenster und -türen mit 30 mm Wärmedämmung, Schalldämmung bis 45 dB. Uf ab 1,5 W/m²K, RC3 optional. Montage in Bukarest.',
+      fr: 'Système de fenêtres et portes à rupture thermique 30 mm, isolation phonique 45 dB. Uf dès 1,5 W/m²K, RC3 en option. Pose à Bucarest.',
+      es: 'Sistema de ventanas y puertas con rotura térmica de 30 mm y aislamiento acústico de 45 dB. Uf desde 1,5 W/m²K, RC3 opcional. Bucarest.',
+      it: 'Sistema di finestre e porte con taglio termico 30 mm e isolamento acustico 45 dB. Uf da 1,5 W/m²K, RC3 opzionale. Posa a Bucarest.',
     },
   },
 
@@ -194,7 +205,7 @@ export const PRODUCT_META = {
       ro: 'Liftant Glisant Alumil S 700 SUPREME – foi până la 500 kg',
       en: 'Alumil S 700 SUPREME Lift & Slide – Panels up to 500 kg',
       de: 'Alumil S 700 SUPREME Hebeschiebetür – Flügel bis 500 kg',
-      fr: 'Alumil S 700 SUPREME – Coulissant levant 500 kg',
+      fr: 'Alumil S 700 SUPREME – Baie coulissante levante 500 kg',
       es: 'Alumil S 700 SUPREME – Corredera elevable 500 kg',
       it: 'Alumil S 700 SUPREME – Scorrevole alzante 500 kg',
     },
@@ -202,7 +213,7 @@ export const PRODUCT_META = {
       ro: 'Sistem cu barieră Kooltherm și geam de 50 mm. Uf de la 1,1 W/m²K, 41 dB, RC2. Uși glisante aluminiu montate în București și Ilfov.',
       en: 'Kooltherm thermal break and 50 mm glazing. Uf from 1.1 W/m²K, 41 dB, RC2. Aluminium sliding doors fitted in Bucharest and Ilfov.',
       de: 'Hebeschiebe-System mit Kooltherm-Dämmung und 50 mm Verglasung. Uf ab 1,1 W/m²K, 41 dB, RC2. Aluminium-Schiebetüren in Bukarest.',
-      fr: 'Barrière Kooltherm, panneaux jusqu’à 500 kg, vitrage 50 mm. Uf dès 1,1 W/m²K, 41 dB, RC2. Baies coulissantes aluminium posées à Bucarest.',
+      fr: 'Coulissant levant à barrière Kooltherm, vantaux jusqu’à 500 kg, vitrage 50 mm. Uf dès 1,1 W/m²K, 41 dB, RC2. Pose à Bucarest.',
       es: 'Barrera Kooltherm, hojas hasta 500 kg y vidrio de 50 mm. Uf desde 1,1 W/m²K, 41 dB, RC2. Puertas correderas de aluminio en Bucarest.',
       it: 'Barriera Kooltherm, ante fino a 500 kg e vetro da 50 mm. Uf da 1,1 W/m²K, 41 dB, RC2. Porte scorrevoli in alluminio posate a Bucarest.',
     },
@@ -230,46 +241,46 @@ export const PRODUCT_META = {
   'alumil-sf85-supreme': {
     title: {
       ro: 'Sistem Armonic Alumil SF 85 SUPREME – uși pliante',
-      en: 'Alumil SF 85 SUPREME Folding System – Uf 1.0 W/m²K',
-      de: 'Alumil SF 85 SUPREME Faltsystem – Uf 1,0 W/m²K',
-      fr: 'Alumil SF 85 SUPREME Système pliant – Uf 1,0 W/m²K',
-      es: 'Alumil SF 85 SUPREME Sistema plegable – Uf 1,0 W/m²K',
-      it: 'Alumil SF 85 SUPREME Sistema pieghevole – Uf 1,0 W/m²K',
+      en: 'Alumil SF 85 SUPREME Bi-fold Doors – Uf 1.0 W/m²K',
+      de: 'Alumil SF 85 SUPREME Falttüren – Uf 1,0 W/m²K',
+      fr: 'Alumil SF 85 SUPREME – Portes pliantes, Uf 1,0 W/m²K',
+      es: 'Alumil SF 85 SUPREME – Puertas plegables, Uf 1,0',
+      it: 'Alumil SF 85 SUPREME – Porte a libro, Uf 1,0 W/m²K',
     },
     desc: {
       ro: 'Uși pliante premium, 2–8 foi, până la 7000 mm, barieră Kooltherm 40 mm. Uf de la 1,0 W/m²K, PAS24. Tâmplărie aluminiu în București.',
-      en: 'Premium folding doors, 2–8 panels, up to 7000 mm, with a 40 mm Kooltherm barrier. Uf from 1.0 W/m²K, PAS24. Aluminium joinery in Bucharest.',
-      de: 'Premium-Falttüren, 2–8 Flügel, bis 7000 mm, 40 mm Kooltherm-Barriere. Uf ab 1,0 W/m²K, PAS24. Aluminium-Montage in Bukarest und Ilfov.',
-      fr: 'Portes pliantes premium, 2 à 8 vantaux, jusqu’à 7000 mm, barrière Kooltherm 40 mm. Uf dès 1,0 W/m²K, PAS24. Pose à Bucarest et Ilfov.',
-      es: 'Puertas plegables premium, 2–8 hojas, hasta 7000 mm, barrera Kooltherm de 40 mm. Uf desde 1,0 W/m²K, PAS24. Montaje en Bucarest.',
-      it: 'Porte pieghevoli premium, 2–8 ante, fino a 7000 mm, barriera Kooltherm 40 mm. Uf da 1,0 W/m²K, PAS24. Posa a Bucarest e Ilfov.',
+      en: 'Premium bi-fold folding system, 2–8 panels, up to 7000 mm, 40 mm Kooltherm barrier. Uf from 1.0 W/m²K, PAS24. Aluminium doors in Bucharest.',
+      de: 'Premium-Faltsystem mit Falttüren, 2–8 Flügel, bis 7000 mm, 40 mm Kooltherm-Barriere. Uf ab 1,0 W/m²K, PAS24. Montage in Bukarest.',
+      fr: 'Système pliant premium en accordéon, 2 à 8 vantaux, jusqu’à 7000 mm, barrière Kooltherm 40 mm. Uf dès 1,0 W/m²K, PAS24. Pose à Bucarest.',
+      es: 'Sistema plegable premium, 2–8 hojas, hasta 7000 mm, barrera Kooltherm de 40 mm. Uf desde 1,0 W/m²K, PAS24. Montaje en Bucarest e Ilfov.',
+      it: 'Sistema pieghevole premium a libro, 2–8 ante, fino a 7000 mm, barriera Kooltherm 40 mm. Uf da 1,0 W/m²K, PAS24. Posa a Bucarest.',
     },
   },
 
   'alumil-m19800-smartia': {
     title: {
       ro: 'Sistem Armonic Alumil M 19800 SMARTIA – uși pliante',
-      en: 'Alumil M 19800 SMARTIA Folding System for Terraces',
-      de: 'Alumil M 19800 SMARTIA Faltsystem für Terrassen',
-      fr: 'Alumil M 19800 SMARTIA Système pliant pour terrasses',
-      es: 'Alumil M 19800 SMARTIA Sistema plegable para terrazas',
-      it: 'Alumil M 19800 SMARTIA Sistema pieghevole per terrazze',
+      en: 'Alumil M 19800 SMARTIA Bi-fold Doors for Terraces',
+      de: 'Alumil M 19800 SMARTIA Falttüren für Terrassen',
+      fr: 'Alumil M 19800 SMARTIA – Portes pliantes terrasse',
+      es: 'Alumil M 19800 SMARTIA – Puertas plegables terraza',
+      it: 'Alumil M 19800 SMARTIA – Porte a libro per terrazze',
     },
     desc: {
       ro: 'Uși pliante accesibile pentru terase, 2–6 foi, până la 5000 mm, barieră 18 mm. Uf de la 1,9 W/m²K, PAS24. Montaj în București și Ilfov.',
-      en: 'Accessible folding doors for terraces, 2–6 panels, up to 5000 mm, 18 mm thermal break. Uf from 1.9 W/m²K, PAS24. Fitted in Bucharest.',
-      de: 'Zugängliche Falttüren für Terrassen, 2–6 Flügel, bis 5000 mm, 18 mm Wärmedämmung. Uf ab 1,9 W/m²K, PAS24. Montage in Bukarest.',
-      fr: 'Portes pliantes accessibles pour terrasses, 2 à 6 vantaux, jusqu’à 5000 mm, rupture 18 mm. Uf dès 1,9 W/m²K, PAS24. Pose à Bucarest.',
-      es: 'Puertas plegables accesibles para terrazas, 2–6 hojas, hasta 5000 mm, rotura térmica 18 mm. Uf desde 1,9 W/m²K, PAS24. En Bucarest.',
-      it: 'Porte pieghevoli accessibili per terrazze, 2–6 ante, fino a 5000 mm, taglio termico 18 mm. Uf da 1,9 W/m²K, PAS24. Posa a Bucarest.',
+      en: 'Accessible bi-fold folding system for terraces, 2–6 panels, up to 5000 mm, 18 mm thermal break. Uf from 1.9 W/m²K, PAS24. Fitted in Bucharest.',
+      de: 'Zugängliches Faltsystem mit Falttüren für Terrassen, 2–6 Flügel, bis 5000 mm, 18 mm Wärmedämmung. Uf ab 1,9 W/m²K, PAS24. Bukarest.',
+      fr: 'Système pliant accessible pour terrasses, 2 à 6 vantaux, jusqu’à 5000 mm, rupture 18 mm. Uf dès 1,9 W/m²K, PAS24. Pose à Bucarest.',
+      es: 'Sistema plegable accesible para terrazas, 2–6 hojas, hasta 5000 mm, rotura térmica 18 mm. Uf desde 1,9 W/m²K, PAS24. En Bucarest.',
+      it: 'Sistema pieghevole accessibile per terrazze, 2–6 ante, fino a 5000 mm, taglio termico 18 mm. Uf da 1,9 W/m²K, PAS24. Posa a Bucarest.',
     },
   },
 
   'toc-de-renovare': {
     title: {
       ro: 'Toc de Renovare PVC – înlocuire fereastră fără demolare',
-      en: 'PVC Renovation Frame – Window Replacement, No Demolition',
-      de: 'PVC Renovierungsrahmen – Fensterwechsel ohne Abriss',
+      en: 'uPVC Renovation Frame – Window Replacement, No Mess',
+      de: 'PVC Renovierungsrahmen – Fenstersanierung ohne Abriss',
       fr: 'Cadre de rénovation PVC – remplacement de fenêtre',
       es: 'Marco de renovación PVC – sustitución de ventana',
       it: 'Telaio di ristrutturazione PVC – sostituzione finestra',
@@ -287,35 +298,35 @@ export const PRODUCT_META = {
   'pervazuri-interior-pvc-exterior-al': {
     title: {
       ro: 'Pervazuri PVC Interior și Glafuri Aluminiu Exterior',
-      en: 'Interior PVC Windowsills & Exterior Aluminium Sills',
+      en: 'Interior uPVC Window Boards & Exterior Aluminium Sills',
       de: 'PVC-Innenfensterbänke & Aluminium-Außenfensterbänke',
       fr: 'Appuis de fenêtre PVC intérieurs et aluminium extérieurs',
-      es: 'Alféizares PVC interiores y de aluminio exteriores',
-      it: 'Davanzali PVC interni e soglie alluminio esterni',
+      es: 'Alféizares PVC interiores y vierteaguas de aluminio',
+      it: 'Davanzali PVC interni e soglie alluminio esterne',
     },
     desc: {
       ro: 'Finisare completă a ferestrei: pervaz PVC 20–400 mm și glaf aluminiu anodizat cu garnitură EPDM. Rezistent UV, peste 25 ani. București.',
-      en: 'Complete window finishing: Class A PVC sill 20–400 mm and anodised aluminium sill with EPDM seal. UV resistant, over 25 years. Bucharest.',
+      en: 'Complete window finishing: Class A uPVC board 20–400 mm and anodised aluminium sill with EPDM seal. UV resistant, over 25 years. Bucharest.',
       de: 'Vollständige Fensterveredelung: PVC-Bank 20–400 mm und eloxierte Aluminiumbank mit EPDM-Dichtung. UV-beständig, über 25 Jahre. Bukarest.',
       fr: 'Finition complète de la fenêtre : appui PVC 20–400 mm et appui aluminium anodisé avec joint EPDM. Résistant aux UV, plus de 25 ans.',
-      es: 'Acabado completo de la ventana: alféizar PVC de 20–400 mm y vierteaguas de aluminio anodizado con junta EPDM. Resistente a UV, 25 años.',
-      it: 'Finitura completa della finestra: davanzale PVC 20–400 mm e soglia in alluminio anodizzato con guarnizione EPDM. Resistente ai UV.',
+      es: 'Acabado completo de la ventana: alféizares interiores PVC 20–400 mm y vierteaguas exteriores de aluminio anodizado. Resistentes a los UV.',
+      it: 'Finitura completa della finestra: davanzale PVC 20–400 mm e soglia in alluminio anodizzato con guarnizione EPDM. Resistente ai raggi UV.',
     },
   },
 
   'grila-higroreglabila-aereco': {
     title: {
       ro: 'Grilă Higroreglabilă Aereco – ventilație naturală',
-      en: 'Aereco Hygro-adjustable Grille – Natural Ventilation',
-      de: 'Aereco Lüftungsgitter – natürliche Lüftung, 5–35 m³/h',
+      en: 'Aereco Hygro-adjustable Ventilation Grille – 33 dB',
+      de: 'Aereco Lüftungsgitter – natürliche Fensterlüftung',
       fr: 'Grille hygroréglable Aereco – ventilation naturelle',
       es: 'Rejilla higrorregulable Aereco – ventilación natural',
       it: 'Griglia igroregolabile Aereco – ventilazione naturale',
     },
     desc: {
       ro: 'Ventilație controlată automat după umiditate, 5–35 m³/h, consum 0 W, atenuare 33 dB. Se integrează în profil PVC sau aluminiu. București.',
-      en: 'Airflow controlled by humidity, 5–35 m³/h, zero power draw, 33 dB attenuation. Integrates into PVC or aluminium profiles. Fitted in Bucharest.',
-      de: 'Hygroregelbar: Luftstrom über Feuchtigkeitssteuerung, 0 W Verbrauch, 33 dB Dämmung. Integriert in PVC- oder Aluminiumprofile. Bukarest.',
+      en: 'Natural ventilation controlled by humidity, 5–35 m³/h, with zero power draw and 33 dB attenuation. Fits into uPVC or aluminium profiles.',
+      de: 'Hygroregelbar: natürliche Lüftung über Feuchtigkeitssteuerung, 0 W Verbrauch, 33 dB Dämmung. Integriert in PVC- oder Aluminiumprofile.',
       fr: 'Débit contrôlé par l’humidité, 5–35 m³/h, 0 W, atténuation 33 dB. S’intègre au profil PVC ou aluminium. Pose à Bucarest et Ilfov.',
       es: 'Caudal controlado por la humedad, 5–35 m³/h, 0 W de consumo, 33 dB. Se integra en perfil de PVC o aluminio. Montaje en Bucarest.',
       it: 'Portata controllata dall’umidità, 5–35 m³/h, 0 W, attenuazione 33 dB. Si integra nel profilo in PVC o alluminio. Posa a Bucarest.',
@@ -354,7 +365,7 @@ export const PRODUCT_META = {
       ro: 'Precadru XPS cu 3 zone de izolare termică, λ 0,040 W/m²K, reduce puntea termică de montaj cu peste 90%. Necesar nZEB și Passive House.',
       en: 'XPS precasing with three thermal insulation zones, λ 0.040 W/m²K, cutting the installation thermal bridge by 90%. For nZEB and Passive House.',
       de: 'XPS-Vorfenster mit 3 Dämmzonen, λ 0,040 W/m²K, zertifiziertes thermisches System: 90% weniger Montage-Wärmebrücke. Für nZEB und Passivhaus.',
-      fr: 'Précadre XPS à 3 zones d’isolation, λ 0,040 W/m²K : le pont thermique de montage chute de plus de 90%. Requis en nZEB et maison passive.',
+      fr: 'Précadre XPS à 3 zones d’isolation, λ 0,040 W/m²K : le pont thermique de montage chute de 90%. Requis en nZEB et maison passive.',
       es: 'Premarco XPS con 3 zonas de aislamiento térmico, λ 0,040 W/m²K, reduce el puente térmico de montaje un 90%. Para nZEB y Passivhaus.',
       it: 'Pre-telaio XPS con 3 zone di isolamento termico, λ 0,040 W/m²K, riduce il ponte termico di montaggio del 90%. Per nZEB e Passive House.',
     },
@@ -363,17 +374,17 @@ export const PRODUCT_META = {
   'banda-precomprimata-butil': {
     title: {
       ro: 'Bandă Precomprimată Butilică – etanșare exterioară RAL',
-      en: 'Pre-compressed Butyl Tape – Waterproof Exterior Sealing',
-      de: 'Vorkomprimiertes Butylband – RAL-Außenabdichtung',
-      fr: 'Ruban précomprimé butylique – étanchéité extérieure RAL',
+      en: 'Pre-compressed Expanding Tape – Exterior RAL Seal',
+      de: 'Kompriband vorkomprimiert – RAL-Außenabdichtung',
+      fr: 'Mousse précomprimée butylique – étanchéité extérieure',
       es: 'Cinta precomprimida butílica – sellado exterior RAL',
       it: 'Nastro precompresso butilico – tenuta esterna RAL',
     },
     desc: {
       ro: 'Stratul exterior al sistemului RAL: impermeabilă la apă (clasa W2–W3), permeabilă la vapori, Sd sub 0,1 m. Lățimi 10–60 mm, peste 25 ani.',
-      en: 'Outer layer of the RAL system: sheds water at class W2–W3 yet stays vapour-open, Sd below 0.1 m. Widths 10–60 mm, over 25 years of service.',
-      de: 'Außenschicht des RAL-Systems: wasserabweisend in Klasse W2–W3, dampfoffen mit Sd unter 0,1 m. Breiten 10–60 mm, über 25 Jahre haltbar.',
-      fr: 'Couche extérieure du système RAL : imperméable en classe W2–W3 mais perméable à la vapeur, Sd sous 0,1 m. Largeurs 10–60 mm, 25 ans.',
+      en: 'Butyl sealing tape, outer layer of the RAL system: sheds water at class W2–W3 yet stays vapour-open, Sd below 0.1 m. Widths 10–60 mm.',
+      de: 'Außenschicht des RAL-Systems: wasserabweisendes Butylband, Klasse W2–W3, dampfoffen mit Sd unter 0,1 m. Breiten 10–60 mm, über 25 Jahre.',
+      fr: 'Ruban en couche extérieure du système RAL : imperméable en classe W2–W3 mais perméable à la vapeur, Sd sous 0,1 m. Largeurs 10–60 mm.',
       es: 'Capa exterior del sistema RAL: impermeable en clase W2–W3 y permeable al vapor, Sd por debajo de 0,1 m. Anchos 10–60 mm, más de 25 años.',
       it: 'Strato esterno del sistema RAL: impermeabile in classe W2–W3 ma traspirante, Sd sotto 0,1 m. Larghezze 10–60 mm, oltre 25 anni di durata.',
     },
@@ -402,37 +413,37 @@ export const PRODUCT_META = {
     title: {
       ro: 'Baghetă Warm Edge Thermo – distanțier termic geam',
       en: 'Warm Edge Thermo Spacer – Glass Thermal Spacer, EN 1279',
-      de: 'Warm Edge Thermo Abstandhalter – Glas, λ 0,035 W/mK',
-      fr: 'Espaceur Warm Edge Thermo – thermique vitrage, EN 1279',
-      es: 'Separador Warm Edge Thermo – térmico vidrio, EN 1279',
-      it: 'Distanziale Warm Edge Thermo – termico vetro, EN 1279',
+      de: 'Warm Edge Thermo Abstandhalter – warme Kante Glas',
+      fr: 'Intercalaire Warm Edge Thermo – vitrage, EN 1279',
+      es: 'Separador Warm Edge Thermo – borde cálido, EN 1279',
+      it: 'Canalina Warm Edge Thermo – bordo caldo, EN 1279',
     },
     desc: {
       ro: 'λ 0,035 W/mK față de 160 la aluminiu: marginea geamului stă cu 4–6°C mai cald. Certificat Passive House, fabricat după EN 1279.',
       en: 'λ 0.035 W/mK against 160 for aluminium, keeping the glass edge 4–6°C warmer. Passive House certified, made to EN 1279 and EN 673.',
-      de: 'λ 0,035 W/mK statt 160 bei Aluminium: der Glasrand bleibt 4–6°C wärmer. Passivhaus-zertifiziert, gefertigt nach EN 1279.',
-      fr: 'λ 0,035 W/mK contre 160 pour l’aluminium : le bord du vitrage reste 4 à 6°C plus chaud. Certifié maison passive, selon EN 1279.',
-      es: 'λ 0,035 W/mK frente a 160 del aluminio: el borde del vidrio queda 4–6°C más cálido. Certificado casa pasiva, según EN 1279.',
-      it: 'λ 0,035 W/mK contro 160 dell’alluminio: il bordo del vetro resta 4–6°C più caldo. Certificato Passive House, secondo EN 1279.',
+      de: 'λ 0,035 W/mK statt 160 bei Aluminium: der Glasrand bleibt 4–6°C wärmer. Passivhaus-zertifiziert, gefertigt nach EN 1279 und EN 673.',
+      fr: 'Espaceur à λ 0,035 W/mK contre 160 pour l’aluminium : le bord du vitrage reste 4 à 6°C plus chaud. Certifié maison passive, EN 1279.',
+      es: 'Separador térmico de vidrio con λ 0,035 W/mK frente a 160 del aluminio: el borde queda 4–6°C más cálido. Certificado casa pasiva.',
+      it: 'Distanziale termico per vetro con λ 0,035 W/mK contro 160 dell’alluminio: il bordo resta 4–6°C più caldo. Certificato Passive House.',
     },
   },
 
   'geamuri-termopan-saint-gobain': {
     title: {
       ro: 'Geamuri Termopan Saint-Gobain SGG – Ug de la 0,5 W/m²K',
-      en: 'Saint-Gobain SGG Thermal Glass – Ug from 0.5 W/m²K',
-      de: 'Saint-Gobain SGG Wärmeschutzisolierglas – Ug ab 0,5',
+      en: 'Saint-Gobain SGG Insulating Glass – Ug from 0.5 W/m²K',
+      de: 'Saint-Gobain SGG Wärmeschutzglas – Ug ab 0,5 W/m²K',
       fr: 'Vitrage isolant Saint-Gobain SGG – Ug dès 0,5 W/m²K',
       es: 'Vidrio aislante Saint-Gobain SGG – Ug desde 0,5 W/m²K',
-      it: 'Vetro termoisolante Saint-Gobain SGG – Ug da 0,5 W/m²K',
+      it: 'Vetrocamera Saint-Gobain SGG – Ug da 0,5 W/m²K',
     },
     desc: {
       ro: 'Planitherm, Planistar SUN și Stadip SILENCE: Ug de la 0,5 W/m²K în triplu, control solar g 0,27–0,60, fonoizolare Rw 44–52 dB.',
-      en: 'Planitherm, Planistar SUN and Stadip SILENCE: Ug from 0.5 W/m²K in triple glazing, solar control g 0.27–0.60, Rw 44–52 dB acoustics.',
-      de: 'Planitherm, Planistar SUN und Stadip SILENCE: Ug ab 0,5 W/m²K im Dreifachglas, Sonnenschutz g 0,27–0,60, Schalldämmung Rw 44–52 dB.',
+      en: 'Planitherm, Planistar SUN and Stadip SILENCE thermal glass: Ug from 0.5 W/m²K in triple glazing, solar control g 0.27–0.60, Rw 44–52 dB.',
+      de: 'Planitherm, Planistar SUN und Stadip SILENCE: Ug ab 0,5 W/m²K im Dreifach-Isolierglas, Sonnenschutz g 0,27–0,60, Schalldämmung Rw 44–52 dB.',
       fr: 'Planitherm, Planistar SUN et Stadip SILENCE : Ug dès 0,5 W/m²K en triple vitrage, contrôle solaire g 0,27–0,60, Rw 44–52 dB.',
       es: 'Planitherm, Planistar SUN y Stadip SILENCE: Ug desde 0,5 W/m²K en triple, control solar g 0,27–0,60, acústica Rw 44–52 dB.',
-      it: 'Planitherm, Planistar SUN e Stadip SILENCE: Ug da 0,5 W/m²K nel triplo, controllo solare g 0,27–0,60, acustica Rw 44–52 dB.',
+      it: 'Planitherm, Planistar SUN e Stadip SILENCE: vetro termoisolante, Ug da 0,5 W/m²K nel triplo, g 0,27–0,60, acustica Rw 44–52 dB.',
     },
   },
 
@@ -442,7 +453,7 @@ export const PRODUCT_META = {
       en: 'Aluminium Exterior Roller Shutters – Solar & RC3 Protection',
       de: 'Außenrollladen Aluminium – Sonnen- und Einbruchschutz',
       fr: 'Volets roulants aluminium extérieurs – protection solaire',
-      es: 'Persianas exteriores de aluminio – protección solar RC3',
+      es: 'Persianas enrollables exteriores aluminio – solar y RC3',
       it: 'Tapparelle esterne alluminio – protezione solare e RC3',
     },
     desc: {
@@ -450,7 +461,7 @@ export const PRODUCT_META = {
       en: 'Insulated aluminium slats up to 4500 mm, Somfy or manual drive. They cut solar gain by 70%, add night thermal insulation and RC3 burglar protection.',
       de: 'Gedämmte Aluminiumlamellen bis 4500 mm, Somfy-Antrieb oder manuell. 70% weniger Solareintrag, nächtlicher Wärmeschutz, RC3. Bukarest.',
       fr: 'Lames aluminium isolées jusqu’à 4500 mm, motorisation Somfy ou manuelle. Apport solaire réduit de 70%, isolation thermique, anti-effraction RC3.',
-      es: 'Lamas de aluminio aislado hasta 4500 mm, accionamiento Somfy o manual. Aporte solar reducido un 70%, aislamiento térmico y antirrobo RC3.',
+      es: 'Lamas de aluminio aislado hasta 4500 mm, Somfy o manual. Protección solar del 70%, aislamiento térmico nocturno y antirrobo RC3.',
       it: 'Lamelle in alluminio coibentato fino a 4500 mm, motore Somfy o manuale. Apporto solare ridotto del 70%, isolamento termico, antieffrazione RC3.',
     },
   },
@@ -460,15 +471,15 @@ export const PRODUCT_META = {
       ro: 'Jaluzele Venețiene Exterioare Raffstore – 0°–90°',
       en: 'Raffstore Exterior Venetian Blinds – 0°–90° Tilt',
       de: 'Raffstore Außenjalousien – präziser Sonnenschutz 0°–90°',
-      fr: 'Stores vénitiens extérieurs Raffstore – contrôle 0°–90°',
+      fr: 'Brise-soleil orientable Raffstore – BSO 0°–90°',
       es: 'Persianas venecianas exteriores Raffstore – 0°–90°',
-      it: 'Veneziane esterne Raffstore – controllo solare 0°–90°',
+      it: 'Frangisole orientabile Raffstore – veneziane esterne',
     },
     desc: {
       ro: 'Control solar de precizie cu lamele de 80 mm orientabile 0°–90°, până la 5000 mm, peste 200 culori RAL. Aport solar redus 85%, clasa vânt 5.',
       en: 'Precision solar control with 80 mm slats tilting 0°–90°, up to 5000 mm, over 200 RAL colours. Solar gain cut 85%, wind class 5, KNX and Somfy.',
       de: '80-mm-Lamellen, 0°–90° schwenkbar, bis 5000 mm breit, über 200 RAL-Farben. 85% weniger Solareintrag, Windklasse 5, KNX und Somfy.',
-      fr: 'Contrôle solaire de précision, lames de 80 mm orientables 0°–90°, jusqu’à 5000 mm, 200 teintes RAL. Apport solaire −85%, vent classe 5.',
+      fr: 'Contrôle solaire de précision : stores vénitiens extérieurs à lames de 80 mm orientables 0°–90°, 200 teintes RAL. Apport solaire −85%, vent 5.',
       es: 'Control solar de precisión con lamas de 80 mm orientables 0°–90°, hasta 5000 mm y más de 200 colores RAL. Aporte solar −85%, viento clase 5.',
       it: 'Controllo solare di precisione con lamelle da 80 mm orientabili 0°–90°, fino a 5000 mm, oltre 200 colori RAL. Apporto solare −85%, vento 5.',
     },
@@ -478,18 +489,18 @@ export const PRODUCT_META = {
     title: {
       ro: 'Zipscreen – rulou textil exterior cu fermoar ZIP',
       en: 'Zipscreen – Exterior ZIP Blind for Terraces & Facades',
-      de: 'Zipscreen – Außenrollo für Terrassen und Fassaden',
-      fr: 'Zipscreen – store extérieur ZIP, terrasses et façades',
-      es: 'Zipscreen – toldo exterior ZIP para terrazas y fachadas',
-      it: 'Zipscreen – tenda esterna ZIP per terrazze e facciate',
+      de: 'Zipscreen Senkrechtmarkise – Terrassen und Fassaden',
+      fr: 'Zipscreen – store screen extérieur, terrasses et façades',
+      es: 'Zipscreen – toldo vertical exterior ZIP para terrazas',
+      it: 'Zipscreen – tenda a rullo ZIP, terrazze e facciate',
     },
     desc: {
       ro: 'Pentru terase și fațade: până la 16 m² pe unitate, rezistent la vânt clasa 6 (88 km/h). Blochează 98% din UV, scade temperatura cu 15–20°C.',
       en: 'ZIP track guidance, up to 16 m² per unit, wind class 6 at 88 km/h. Blocks 98% of UV and brings the temperature down by 15–20°C. Bucharest.',
-      de: 'ZIP-Führung, bis 16 m² je Einheit, Windklasse 6 bei 88 km/h. Blockt 98% der UV-Strahlung und senkt die Temperatur um 15–20°C. Bukarest.',
+      de: 'Außenrollo mit ZIP-Führung, bis 16 m² je Einheit, Windklasse 6 bei 88 km/h. Blockt 98% der UV-Strahlung und senkt um 15–20°C.',
       fr: 'Guidage à glissière ZIP, jusqu’à 16 m² par unité, classe de vent 6 à 88 km/h. Filtre 98% des UV et abaisse la température de 15 à 20°C.',
-      es: 'Guía con cremallera ZIP, hasta 16 m² por unidad, clase de viento 6 a 88 km/h. Bloquea el 98% de los UV y baja la temperatura 15–20°C.',
-      it: 'Guida con cerniera ZIP, fino a 16 m² per unità, classe vento 6 a 88 km/h. Blocca il 98% degli UV e abbassa la temperatura di 15–20°C.',
+      es: 'Para terrazas y fachadas: hasta 16 m² por unidad, guía ZIP, viento clase 6 a 88 km/h. Bloquea el 98% de los UV y baja 15–20°C.',
+      it: 'Tenda esterna con guida ZIP, fino a 16 m² per unità, vento classe 6 a 88 km/h. Blocca il 98% degli UV e abbassa di 15–20°C.',
     },
   },
 
