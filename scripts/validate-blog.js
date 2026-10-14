@@ -91,6 +91,28 @@ ARTICLES.forEach((a, i) => {
   }
 });
 
+// 10. v275: URL-urile din PRODUCT_URL (data/productMeta.js) trebuie sa existe ca rute.
+// Harta e generata din SLUG_MAP; daca un slug se schimba si harta nu e regenerata,
+// llms-full.txt ar publica URL-uri moarte. Citesc fisierul ca text, nu prin require,
+// pentru ca productMeta.js e modul ESM.
+try {
+  const metaSrc = fs.readFileSync(path.join(ROOT, 'data/productMeta.js'), 'utf8');
+  const block = metaSrc.split('export const PRODUCT_URL')[1];
+  if (!block) {
+    warn('PRODUCT_URL lipseste din data/productMeta.js (llms-full.txt nu va avea URL-uri de produs)');
+  } else {
+    const urls = block.match(/https:\/\/www\.neofort-biz\.ro\/[a-z]{2}\/[^']+/g) || [];
+    let broken = 0;
+    urls.forEach(u => {
+      const p = u.replace('https://www.neofort-biz.ro', '').replace(/^\/[a-z]{2}/, '');
+      if (!routing.includes(`'${p}'`)) { broken++; err(`PRODUCT_URL contine o ruta inexistenta: ${u}`); }
+    });
+    console.log(`  PRODUCT_URL: ${urls.length} URL-uri de produs, ${broken} rupte`);
+  }
+} catch (e) {
+  warn(`nu am putut verifica PRODUCT_URL: ${e.message}`);
+}
+
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }
 console.log(errors === 0 && warnings === 0 ? 'Totul perfect. Safe de commit.\n' : 'Fara erori blocante. Safe de commit (verifica avertismentele).\n');

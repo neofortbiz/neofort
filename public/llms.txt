@@ -25,27 +25,255 @@ Neofort BIZ SRL este un furnizor specializat de tâmplărie PVC și aluminiu cu 
 
 ## Produse și Sisteme
 
+Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jos sunt versiunile în română; echivalentele în engleză, germană, franceză, spaniolă și italiană sunt listate în secțiunea „Index produse pe limbi".
+
 ### Tâmplărie PVC Salamander
-- **BluEvolution 92**: profil 6 camere, adâncime 92mm, Uw = 0.70 W/m²K, certificat nZEB și Passive House. Disponibil în variante ROUND, FLEX și ALU placat aluminiu.
-- **GreenEvolution 76**: profil 5 camere, adâncime 76mm, Uw = 0.73 W/m²K, certificat nZEB. Disponibil în variante MD ROUND, MD FLEX, AD FLEX.
-- Montaj cu precadre Blaugelb Triotherm+, bandă butilică, benzi etanșare vapori și baghete Warm Edge.
+
+- **[Profil PVC Salamander BluEvolution 92 ALU – 6 camere, placat aluminiu](https://www.neofort-biz.ro/ro/produse/profil-pvc-bluevolution-92-alu)**
+  - Adâncime constructivă: 92 mm + 12 mm placare aluminiu · Număr camere izolare: 6 camere · Coeficient termic Uw: 0,70 – 1,4 W/m²K · Geam compatibil: 24 – 60 mm (dublu / triplu) · Izolare fonică: Până la 47 dB · Antiefracție standard: RC2
+  - Producător: Salamander GmbH & Co. KG
+- **[Profil PVC Salamander BluEvolution 92 FLEX – 6 camere, profil drept](https://www.neofort-biz.ro/ro/produse/profil-pvc-bluevolution-92-flex)**
+  - Adâncime constructivă: 92 mm · Număr camere izolare: 6 camere · Coeficient termic Uw: 0,70 – 1,4 W/m²K · Geam compatibil: 24 – 60 mm · Izolare fonică: Până la 47 dB · Antiefracție std.: RC2 → RC3
+  - Producător: Salamander GmbH & Co. KG
+- **[Profil PVC Salamander BluEvolution 92 ROUND – 6 camere, profil rotunjit](https://www.neofort-biz.ro/ro/produse/profil-pvc-bluevolution-92-round)**
+  - Adâncime constructivă: 92 mm · Număr camere: 6 camere · Uw: 0,70 – 1,4 W/m²K · Geam compatibil: 24 – 60 mm · Fonică: ≤ 47 dB · Antiefracție: RC2 → RC3
+  - Producător: Salamander GmbH & Co. KG
+- **[Profil PVC Salamander GreenEvolution 76 MD ROUND – 5 camere, design rotunjit](https://www.neofort-biz.ro/ro/produse/profil-pvc-greenevolution-76-md-round)**
+  - Adâncime constructivă: 76 mm · Număr camere: 5 camere · Uw: 0,73 – 1,4 W/m²K · Geam compatibil: 24 – 48 mm · Fonică: ≤ 47 dB · Antiefracție: RC2 → RC3
+  - Producător: Salamander GmbH & Co. KG
+- **[Profil PVC Salamander GreenEvolution 76 MD FLEX – 5 camere, design drept](https://www.neofort-biz.ro/ro/produse/profil-pvc-greenevolution-76-md-flex)**
+  - Adâncime: 76 mm · Camere: 5 · Uw: 0,73 – 1,4 W/m²K · Geam: 24–48 mm · Fonică: ≤ 47 dB · Antiefracție: RC2 → RC3
+  - Producător: Salamander GmbH & Co. KG
+- **[Profil PVC Salamander GreenEvolution 76 AD FLEX – 5 camere, design drept avansat](https://www.neofort-biz.ro/ro/produse/profil-pvc-greenevolution-76-ad-flex)**
+  - Adâncime: 76 mm · Camere: 5 camere · Uw: 0,73 – 1,4 W/m²K · Geam: 24–48 mm · Fonică: ≤ 47 dB · Antiefracție: RC2 → RC3
+  - Producător: Salamander GmbH & Co. KG
 
 ### Tâmplărie Aluminiu Alumil
-- **Alumil Supreme S77**: sistem cu barieră termică avansată, Uw = 1.1–1.4 W/m²K, certificat Passive House.
-- **Alumil Smartia S67**: sistem comercial cu barieră termică, raport calitate-preț optim.
-- **Alumil SF85 Supreme**: sistem faltant (acordeon), deschideri mari fără coloană.
-- **Alumil S700 Supreme / S350 Smartia**: sisteme liftant-glisante pentru terase, până la 300 kg per canat.
-- Pereți cortină CW50/CW60, fațade ventilate.
+
+- **[Sistem Aluminiu Alumil S 77 SUPREME – Ferestre și Uși cu Barieră Termică 40 mm](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s77-supreme)**
+  - Adâncime constructivă: 77 – 93 mm · Barieră termică: Poliamidă 40 mm · Transfer termic Uf: de la 0,86 W/m²K · Geam compatibil: 24 – 72 mm (dublu / triplu) · Izolare fonică: până la 42 dB · Greutate max. canat: 400 kg
+  - Producător: Alumil S.A.
+- **[Sistem Aluminiu Alumil S 67 SMARTIA – Ferestre și Uși cu Izolare Fonică 45 dB](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s67-smartia)**
+  - Adâncime constructivă: 67 – 75 mm · Barieră termică: Poliamidă 30 mm · Transfer termic Uf: de la 1,5 W/m²K · Geam compatibil: 24 – 58 mm (dublu / triplu) · Izolare fonică: până la 45 dB · Greutate max. canat: 200 kg
+  - Producător: Alumil S.A.
+- **[Sistem Liftant Glisant Alumil S 700 SUPREME – Foi până la 500 kg, Geam 50 mm](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme)**
+  - Tip sistem: Liftant Glisant (HS) · Barieră termică: Kooltherm · Transfer termic Uf: de la 1,1 W/m²K · Geam compatibil: până la 50 mm · Izolare fonică: până la 41 dB · Greutate max. foaie: 500 kg
+  - Producător: Alumil S.A.
+- **[Sistem Liftant Glisant Alumil S 350 SMARTIA – Ușa Glisantă cu Barieră Termică Accesibilă](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia)**
+  - Tip sistem: Liftant Glisant · Barieră termică: 28 mm · Transfer termic Uf: de la 2,9 W/m²K · Geam compatibil: până la 28 mm · Izolare fonică: până la 38 dB
+  - Producător: Alumil S.A.
+- **[Sistem Armonic Alumil SF 85 SUPREME – Uși Pliante Premium cu Barieră Kooltherm](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme)**
+  - Tip sistem: Armonic (pliant) · Barieră termică: Kooltherm 40 mm · Transfer termic Uf: de la 1,0 W/m²K · Geam compatibil: până la 58 mm · Izolare fonică: până la 38 dB · Greutate max. foaie: 120 kg
+  - Producător: Alumil S.A.
+- **[Sistem Armonic Alumil M 19800 SMARTIA – Uși Pliante Accesibile pentru Terase](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-m19800-smartia)**
+  - Tip sistem: Armonic (pliant) · Barieră termică: 18 mm · Transfer termic Uf: de la 1,9 W/m²K · Geam compatibil: până la 32 mm · Izolare fonică: până la 36 dB · Greutate max. foaie: 80 kg
+  - Producător: Alumil S.A.
+
+### Accesorii
+
+- **[Toc de Renovare PVC – Înlocuire Fereastră fără Demontarea Tocului Vechi](https://www.neofort-biz.ro/ro/accesorii/toc-de-renovare-pvc)**
+  - Material: PVC Clasa A · Adâncime profil: 76 mm · Izolare fonică: până la 47 dB
+  - Producător: Salamander GmbH & Co. KG
+- **[Pervazuri Interior PVC și Glafuri Exterior Aluminiu – Finisare Completă Fereastră](https://www.neofort-biz.ro/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu)**
+  - Pervaz interior: PVC Clasa A · Glaf exterior: Aluminiu anodizat
+  - Producător: PM Aluminium Line
+- **[Grilă Higroreglabilă Aereco – Ventilație Naturală Controlată prin Umiditate](https://www.neofort-biz.ro/ro/accesorii/grila-higroreglabila-aereco-ventilatie)**
+  - Debit aer reglabil: 5 – 35 m³/h · Atenuare acustică: 33 dB · Funcționare: Pasivă — fără motor, fără curent
+  - Producător: Aereco S.A.
+- **[Automatizări Somfy — Motoare și Telecomenzi pentru Rulouri, Pergole și Smart Home](https://www.neofort-biz.ro/ro/accesorii/automatizari-somfy-rulouri-pergole)**
+  - Motor rulouri: Somfy Oximo io / RS100 io — 230V · Compatibil TaHoma: Da — control smartphone oriunde · Garanție: 5 ani motor Somfy
+  - Producător: Somfy
+
+### Sisteme nZEB
+
+- **[Precadre Blaugelb Triotherm+ – Sistem Montaj Termic Certificat RAL, 3 Zone Izolare](https://www.neofort-biz.ro/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus)**
+  - Material: XPS expandat + poliamidă · Transfer termic λ: 0,040 W/m²K · Certificare: RAL Montajeleitfaden
+  - Producător: Blaugelb
+- **[Bandă Precomprimată Butilică – Etanșare Exterioară Impermeabilă RAL, Strat Exterior](https://www.neofort-biz.ro/ro/sisteme-nzeb/banda-precomprimata-butilic)**
+  - Material: Spumă PUR impregnată bitum/acrilic · Sistemul RAL: Strat exterior (permeabil)
+  - Producător: Soudal N.V.
+- **[Bandă Etanșare Antivapori Interior – Barieră Vapori Sd > 10 m, Strat Interior RAL](https://www.neofort-biz.ro/ro/sisteme-nzeb/banda-etansare-antivapori-interior)**
+  - Material: PE / Aluminiu laminat · Rezistență vapori Sd: > 10 m (barieră veritabilă) · Sistemul RAL: Strat interior (barieră vapori)
+  - Producător: Soudal N.V.
+- **[Baghetă Warm Edge Thermo – Distanțier Termic Geam, λ = 0,035 W/mK, Certificat Passive House](https://www.neofort-biz.ro/ro/sisteme-nzeb/bagheta-warm-edge-distantier-termic)**
+  - Material: Oțel inoxidabil / TPS Swisspacer / Thermix · Conductivitate termică λ: 0,035 – 0,16 W/mK (în funcție de tip) · Standard: EN 1279 — geam termoizolator
+  - Producător: SWISSPACER
+- **[Geamuri Termopan Saint-Gobain SGG – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg)**
+  - Planitherm XN: Low-e standard · Ug = 1,0 W/m²K (dublu) · Planitherm ONE: Ultra low-e · Ug = 0,7 W/m²K (triplu) · Planitherm 4S Evolution: 4 Anotimpuri (4S) · Ug = 0,5 W/m²K (triplu)
+  - Producător: Saint-Gobain Glass
 
 ### Sisteme de Umbrire
-- Jaluzele Raffstore 80mm (zinc-titan)
-- Rulouri exterioare aluminiu
-- Zipscreen pentru terase
+
+- **[Rulouri Exterioare din Aluminiu – Protecție Solară, Termică și Antiefracție](https://www.neofort-biz.ro/ro/umbrire/rulouri-exterioare-aluminiu)**
+  - Material lamele: Aluminiu extrudat izolat · Lățime maximă: 4500 mm · Automatizare: Timer, senzor vânt, automatizare smart home
+  - Producător: Madrugada
+- **[Jaluzele Venețiene Exterioare Raffstore – Control Solar de Precizie 0°–90°](https://www.neofort-biz.ro/ro/umbrire/jaluzele-venetiene-raffstore)**
+  - Material lamele: Aluminiu laminat · Orientare lamele: 0° – 90° (electric sau manual) · Automatizare: KNX, Zigbee, WiFi, Somfy
+  - Producător: Madrugada
+- **[Zipscreen — Rulou Textil Exterior cu Fermoar ZIP pentru Terase și Fațade](https://www.neofort-biz.ro/ro/umbrire/zipscreen)**
+  - Sistem ghidare: Fermoar ZIP aluminiu extrudat · Dimensiuni max: 5.000 x 5.000 mm · Rezistență vânt: Clasa 6 · 88 km/h
+  - Producător: Madrugada
+- **[Pergole Automate Somfy – Motor Pergola RGS io, Protecție Vânt și Ploaie](https://www.neofort-biz.ro/ro/umbrire/pergole-automate-somfy)**
+  - Motor: Somfy Pergola 50 RGS io / 60 RGS io
+  - Producător: Somfy
 
 ### Geam Termoizolator
-- Geam dublu Low-E: 4+16+4 argon, Ug = 1.0 W/m²K
-- Geam triplu Low-E: 4+12+4+12+4 argon/krypton, Ug = 0.5 W/m²K
-- Producător: Saint-Gobain SGG, distanțieri Warm Edge
+
+- Geam dublu Low-E: Planitherm XN, Ug = 1,0 W/m²K
+- Geam triplu Low-E: Planitherm ONE, Ug = 0,7 W/m²K — pragul nZEB
+- Geam triplu 4 Anotimpuri: Planitherm 4S Evolution, Ug = 0,5 W/m²K cu distanțier Warm Edge
+- Control solar: Planistar SUN, factor g 0,27–0,60
+- Fonoizolant: Stadip SILENCE, Rw 44–52 dB
+- Producător: Saint-Gobain Glass, conform EN 1279, EN 673 și EN 12150
+
+### Pereți cortină și fațade
+
+- Pereți cortină Alumil CW50/CW60 și fațade ventilate — execuție pe proiect, fără pagină de catalog.
+- Detalii tehnice: [ghid pereți cortină și fațade de sticlă](https://www.neofort-biz.ro/ro/blog/pereti-cortina-fatade-sticla-ghid-complet)
+
+## Index produse pe limbi
+
+Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagină are hreflang către toate variantele.
+
+### English (en)
+
+- [Salamander BluEvolution 92 ALU PVC Profile – 6 Chambers, Aluminium Cladding](https://www.neofort-biz.ro/en/products/bluevolution-92-alu-pvc-profile)
+- [Salamander BluEvolution 92 FLEX PVC Profile – 6 Chambers, Straight Profile](https://www.neofort-biz.ro/en/products/bluevolution-92-flex-pvc-profile)
+- [Salamander BluEvolution 92 ROUND PVC Profile – 6 Chambers, Rounded Profile](https://www.neofort-biz.ro/en/products/bluevolution-92-round-pvc-profile)
+- [Salamander GreenEvolution 76 MD ROUND PVC Profile – 5 Chambers, Rounded Design](https://www.neofort-biz.ro/en/products/greenevolution-76-md-round-pvc-profile)
+- [Salamander GreenEvolution 76 MD FLEX PVC Profile – 5 Chambers, Straight Design](https://www.neofort-biz.ro/en/products/greenevolution-76-md-flex-pvc-profile)
+- [Salamander GreenEvolution 76 AD FLEX PVC Profile – 5 Chambers, Advanced Straight Design](https://www.neofort-biz.ro/en/products/greenevolution-76-ad-flex-pvc-profile)
+- [Alumil S 77 SUPREME Aluminium System – Windows & Doors with 40 mm Thermal Barrier](https://www.neofort-biz.ro/en/products-alu/alumil-s77-supreme-aluminium-system)
+- [Alumil S 67 SMARTIA Aluminium System – Windows & Doors with 45 dB Sound Insulation](https://www.neofort-biz.ro/en/products-alu/alumil-s67-smartia-aluminium-system)
+- [Alumil S 700 SUPREME Lift & Slide – Panels up to 500 kg, 50 mm Glazing](https://www.neofort-biz.ro/en/products-alu/alumil-s700-supreme-lift-slide-system)
+- [Alumil S 350 SMARTIA Lift & Slide – Sliding Door with Accessible Thermal Barrier](https://www.neofort-biz.ro/en/products-alu/alumil-s350-smartia-lift-slide-system)
+- [Alumil SF 85 SUPREME Folding System – Premium Folding Doors with Kooltherm Barrier](https://www.neofort-biz.ro/en/products-alu/alumil-sf85-supreme-folding-system)
+- [Alumil M 19800 SMARTIA Folding System – Accessible Folding Doors for Terraces](https://www.neofort-biz.ro/en/products-alu/alumil-m19800-smartia-folding-system)
+- [PVC Renovation Frame – Window Replacement Without Removing the Old Frame](https://www.neofort-biz.ro/en/accessories/pvc-renovation-frame)
+- [Interior PVC Windowsills and Exterior Aluminium Sills – Complete Window Finishing](https://www.neofort-biz.ro/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills)
+- [Aereco Hygro-adjustable Ventilation Grille – Natural Ventilation Controlled by Humidity](https://www.neofort-biz.ro/en/accessories/aereco-hygro-adjustable-ventilation-grille)
+- [Somfy Automation — Motors and Remote Controls for Shutters, Pergolas and Smart Home](https://www.neofort-biz.ro/en/accessories/somfy-automation-shutters-pergolas)
+- [Blaugelb Triotherm+ Precasings – RAL Certified Thermal Installation System, 3 Insulation Zones](https://www.neofort-biz.ro/en/nzeb-systems/blaugelb-triotherm-plus-precasings)
+- [Pre-compressed Butyl Tape – Waterproof Exterior RAL Sealing, Outer Layer](https://www.neofort-biz.ro/en/nzeb-systems/pre-compressed-butyl-sealing-tape)
+- [Interior Vapour Barrier Sealing Tape – Vapour Barrier Sd > 10 m, RAL Inner Layer](https://www.neofort-biz.ro/en/nzeb-systems/interior-vapour-barrier-sealing-tape)
+- [Warm Edge Thermo Spacer – Glass Thermal Spacer, λ = 0.035 W/mK, Passive House Certified](https://www.neofort-biz.ro/en/nzeb-systems/warm-edge-thermo-spacer-insulating-glass)
+- [Saint-Gobain SGG Thermal Glass – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass)
+- [Aluminium Exterior Roller Shutters – Solar, Thermal and Burglar Protection](https://www.neofort-biz.ro/en/shading-systems/aluminium-external-roller-shutters)
+- [Raffstore Exterior Venetian Blinds – Precision Solar Control 0°–90°](https://www.neofort-biz.ro/en/shading-systems/raffstore-venetian-blinds)
+- [Zipscreen — Exterior ZIP Blind for Terraces and Facades](https://www.neofort-biz.ro/en/shading-systems/zipscreen-exterior-blind)
+- [Somfy Automatic Pergolas – Pergola RGS io Motor, Wind and Rain Protection](https://www.neofort-biz.ro/en/shading-systems/somfy-automatic-pergolas)
+
+### Deutsch (de)
+
+- [Salamander BluEvolution 92 ALU Kunststoffprofil – 6 Kammern, Aluminiumverkleidung](https://www.neofort-biz.ro/de/produkte/bluevolution-92-alu-pvc-profil)
+- [Salamander BluEvolution 92 FLEX Kunststoffprofil – 6 Kammern, Gerades Profil](https://www.neofort-biz.ro/de/produkte/bluevolution-92-flex-pvc-profil)
+- [Salamander BluEvolution 92 ROUND Kunststoffprofil – 6 Kammern, Rundes Profil](https://www.neofort-biz.ro/de/produkte/bluevolution-92-round-pvc-profil)
+- [Salamander GreenEvolution 76 MD ROUND Kunststoffprofil – 5 Kammern, Rundes Design](https://www.neofort-biz.ro/de/produkte/greenevolution-76-md-round-pvc-profil)
+- [Salamander GreenEvolution 76 MD FLEX Kunststoffprofil – 5 Kammern, Gerades Design](https://www.neofort-biz.ro/de/produkte/greenevolution-76-md-flex-pvc-profil)
+- [Salamander GreenEvolution 76 AD FLEX Kunststoffprofil – 5 Kammern, Fortgeschrittenes gerades Design](https://www.neofort-biz.ro/de/produkte/greenevolution-76-ad-flex-pvc-profil)
+- [Alumil S 77 SUPREME Aluminiumsystem – Fenster & Türen mit 40 mm Wärmedämmbrücke](https://www.neofort-biz.ro/de/produkte-alu/alumil-s77-supreme-aluminiumsystem)
+- [Alumil S 67 SMARTIA Aluminiumsystem – Fenster & Türen mit 45 dB Schalldämmung](https://www.neofort-biz.ro/de/produkte-alu/alumil-s67-smartia-aluminiumsystem)
+- [Alumil S 700 SUPREME Hebeschiebe – Flügel bis 500 kg, 50 mm Verglasung](https://www.neofort-biz.ro/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem)
+- [Alumil S 350 SMARTIA Hebeschiebe – Schiebetür mit zugänglicher Wärmedämmbrücke](https://www.neofort-biz.ro/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem)
+- [Alumil SF 85 SUPREME Faltsystem – Premium Falttüren mit Kooltherm-Barriere](https://www.neofort-biz.ro/de/produkte-alu/alumil-sf85-supreme-faltsystem)
+- [Alumil M 19800 SMARTIA Faltsystem – Zugängliche Falttüren für Terrassen](https://www.neofort-biz.ro/de/produkte-alu/alumil-m19800-smartia-faltsystem)
+- [PVC Renovierungsrahmen – Fensterwechsel ohne Entfernung des alten Rahmens](https://www.neofort-biz.ro/de/zubehoer/pvc-renovierungsrahmen)
+- [Innenfensterbänke PVC und Außenfensterbänke Aluminium – Vollständige Fensterveredelung](https://www.neofort-biz.ro/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium)
+- [Aereco Hygroregelbare Lüftungsgitter – Natürliche Lüftung durch Feuchtigkeitssteuerung](https://www.neofort-biz.ro/de/zubehoer/aereco-hygroregelbare-lueftungsgitter)
+- [Somfy Automatisierung — Motoren und Fernbedienungen für Rollläden, Pergolen und Smart Home](https://www.neofort-biz.ro/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
+- [Blaugelb Triotherm+ Vorfenster – RAL-zertifiziertes thermisches Montagesystem, 3 Dämmzonen](https://www.neofort-biz.ro/de/nzeb-systeme/blaugelb-triotherm-plus-vorfenster)
+- [Vorkomprimiertes Butylband – Wasserabweisende Außenabdichtung RAL, Außenschicht](https://www.neofort-biz.ro/de/nzeb-systeme/vorkomprimiertes-butyl-dichtband)
+- [Innen-Dampfsperrband – Dampfsperre Sd > 10 m, RAL Innenschicht](https://www.neofort-biz.ro/de/nzeb-systeme/innen-dampfsperrband)
+- [Warm Edge Thermo Abstandhalter – Glas-Wärmedämmabstandhalter, λ = 0,035 W/mK, Passivhaus-zertifiziert](https://www.neofort-biz.ro/de/nzeb-systeme/warm-edge-thermo-abstandhalter-isolierglas)
+- [Saint-Gobain SGG Wärmeschutzisolierglas – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas)
+- [Außenrollladen aus Aluminium – Sonnen-, Wärme- und Einbruchschutz](https://www.neofort-biz.ro/de/beschattungssysteme/aluminium-aussenrollladen)
+- [Raffstore Außenjalousien – Präziser Sonnenschutz 0°–90°](https://www.neofort-biz.ro/de/beschattungssysteme/raffstore-aussenjalousien)
+- [Zipscreen — Außenrollo mit ZIP-Führung für Terrassen und Fassaden](https://www.neofort-biz.ro/de/beschattungssysteme/zipscreen-aussenrollo)
+- [Somfy Automatische Pergolen – Pergola RGS io Motor, Wind- und Regenschutz](https://www.neofort-biz.ro/de/beschattungssysteme/somfy-automatische-pergolen)
+
+### Français (fr)
+
+- [Profil PVC Salamander BluEvolution 92 ALU – 6 Chambres, Revêtement Aluminium](https://www.neofort-biz.ro/fr/produits/profil-pvc-bluevolution-92-alu)
+- [Profil PVC Salamander BluEvolution 92 FLEX – 6 Chambres, Profil Droit](https://www.neofort-biz.ro/fr/produits/profil-pvc-bluevolution-92-flex)
+- [Profil PVC Salamander BluEvolution 92 ROUND – 6 Chambres, Profil Arrondi](https://www.neofort-biz.ro/fr/produits/profil-pvc-bluevolution-92-round)
+- [Profil PVC Salamander GreenEvolution 76 MD ROUND – 5 Chambres, Design Arrondi](https://www.neofort-biz.ro/fr/produits/profil-pvc-greenevolution-76-md-round)
+- [Profil PVC Salamander GreenEvolution 76 MD FLEX – 5 Chambres, Design Droit](https://www.neofort-biz.ro/fr/produits/profil-pvc-greenevolution-76-md-flex)
+- [Profil PVC Salamander GreenEvolution 76 AD FLEX – 5 Chambres, Design Droit Avancé](https://www.neofort-biz.ro/fr/produits/profil-pvc-greenevolution-76-ad-flex)
+- [Système Aluminium Alumil S 77 SUPREME – Fenêtres & Portes à Rupture Thermique 40 mm](https://www.neofort-biz.ro/fr/produits-alu/systeme-aluminium-alumil-s77-supreme)
+- [Système Aluminium Alumil S 67 SMARTIA – Fenêtres & Portes avec Isolation Phonique 45 dB](https://www.neofort-biz.ro/fr/produits-alu/systeme-aluminium-alumil-s67-smartia)
+- [Coulissant Levant Alumil S 700 SUPREME – Panneaux jusqu'à 500 kg, Vitrage 50 mm](https://www.neofort-biz.ro/fr/produits-alu/systeme-coulissant-alumil-s700-supreme)
+- [Coulissant Levant Alumil S 350 SMARTIA – Porte Coulissante à Rupture Thermique Accessible](https://www.neofort-biz.ro/fr/produits-alu/systeme-coulissant-alumil-s350-smartia)
+- [Système Pliant Alumil SF 85 SUPREME – Portes Pliantes Premium avec Barrière Kooltherm](https://www.neofort-biz.ro/fr/produits-alu/systeme-pliant-alumil-sf85-supreme)
+- [Système Pliant Alumil M 19800 SMARTIA – Portes Pliantes Accessibles pour Terrasses](https://www.neofort-biz.ro/fr/produits-alu/systeme-pliant-alumil-m19800-smartia)
+- [Cadre de Rénovation PVC – Remplacement Fenêtre sans Démontage du Cadre Ancien](https://www.neofort-biz.ro/fr/accessoires/cadre-renovation-pvc)
+- [Appuis de Fenêtre Intérieurs PVC et Extérieurs Aluminium – Finition Complète Fenêtre](https://www.neofort-biz.ro/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium)
+- [Grille Hygroréglable Aereco – Ventilation Naturelle Contrôlée par l'Humidité](https://www.neofort-biz.ro/fr/accessoires/grille-hygroreglable-aereco-ventilation)
+- [Automatisation Somfy — Moteurs et Télécommandes pour Volets, Pergolas et Maison Connectée](https://www.neofort-biz.ro/fr/accessoires/automatisation-somfy-volets-pergolas)
+- [Précadres Blaugelb Triotherm+ – Système de Montage Thermique Certifié RAL, 3 Zones d'Isolation](https://www.neofort-biz.ro/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus)
+- [Ruban Précomprimé Butylique – Étanchéité Extérieure Imperméable RAL, Couche Extérieure](https://www.neofort-biz.ro/fr/systemes-nzeb/bande-precomprimee-butyle)
+- [Ruban Étanchéité Pare-Vapeur Intérieur – Barrière Vapeur Sd > 10 m, Couche Intérieure RAL](https://www.neofort-biz.ro/fr/systemes-nzeb/ruban-etancheite-pare-vapeur-interieur)
+- [Espaceur Warm Edge Thermo – Espaceur Thermique Vitrage, λ = 0,035 W/mK, Certifié Maison Passive](https://www.neofort-biz.ro/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage)
+- [Vitrage Isolant Saint-Gobain SGG – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg)
+- [Volets Roulants Extérieurs en Aluminium – Protection Solaire, Thermique et Anti-effraction](https://www.neofort-biz.ro/fr/systemes-occultation/volets-roulants-aluminium-exterieurs)
+- [Stores Vénitiens Extérieurs Raffstore – Contrôle Solaire de Précision 0°–90°](https://www.neofort-biz.ro/fr/systemes-occultation/stores-venitiens-raffstore)
+- [Zipscreen — Store Extérieur à Glissière ZIP pour Terrasses et Façades](https://www.neofort-biz.ro/fr/systemes-occultation/zipscreen-store-exterieur)
+- [Pergolas Automatiques Somfy – Moteur Pergola RGS io, Protection Vent et Pluie](https://www.neofort-biz.ro/fr/systemes-occultation/pergolas-automatiques-somfy)
+
+### Español (es)
+
+- [Perfil PVC Salamander BluEvolution 92 ALU – 6 Cámaras, Revestimiento Aluminio](https://www.neofort-biz.ro/es/productos/perfil-pvc-bluevolution-92-alu)
+- [Perfil PVC Salamander BluEvolution 92 FLEX – 6 Cámaras, Perfil Recto](https://www.neofort-biz.ro/es/productos/perfil-pvc-bluevolution-92-flex)
+- [Perfil PVC Salamander BluEvolution 92 ROUND – 6 Cámaras, Perfil Redondeado](https://www.neofort-biz.ro/es/productos/perfil-pvc-bluevolution-92-round)
+- [Perfil PVC Salamander GreenEvolution 76 MD ROUND – 5 Cámaras, Diseño Redondeado](https://www.neofort-biz.ro/es/productos/perfil-pvc-greenevolution-76-md-round)
+- [Perfil PVC Salamander GreenEvolution 76 MD FLEX – 5 Cámaras, Diseño Recto](https://www.neofort-biz.ro/es/productos/perfil-pvc-greenevolution-76-md-flex)
+- [Perfil PVC Salamander GreenEvolution 76 AD FLEX – 5 Cámaras, Diseño Recto Avanzado](https://www.neofort-biz.ro/es/productos/perfil-pvc-greenevolution-76-ad-flex)
+- [Sistema Aluminio Alumil S 77 SUPREME – Ventanas y Puertas con Barrera Térmica 40 mm](https://www.neofort-biz.ro/es/productos-alu/sistema-aluminio-alumil-s77-supreme)
+- [Sistema Aluminio Alumil S 67 SMARTIA – Ventanas y Puertas con Aislamiento Acústico 45 dB](https://www.neofort-biz.ro/es/productos-alu/sistema-aluminio-alumil-s67-smartia)
+- [Corredera Elevable Alumil S 700 SUPREME – Hojas hasta 500 kg, Vidrio 50 mm](https://www.neofort-biz.ro/es/productos-alu/sistema-corredera-alumil-s700-supreme)
+- [Corredera Elevable Alumil S 350 SMARTIA – Puerta Corredera con Barrera Térmica Accesible](https://www.neofort-biz.ro/es/productos-alu/sistema-corredera-alumil-s350-smartia)
+- [Sistema Plegable Alumil SF 85 SUPREME – Puertas Plegables Premium con Barrera Kooltherm](https://www.neofort-biz.ro/es/productos-alu/sistema-plegable-alumil-sf85-supreme)
+- [Sistema Plegable Alumil M 19800 SMARTIA – Puertas Plegables Accesibles para Terrazas](https://www.neofort-biz.ro/es/productos-alu/sistema-plegable-alumil-m19800-smartia)
+- [Marco de Renovación PVC – Sustitución de Ventana sin Desmontar el Marco Antiguo](https://www.neofort-biz.ro/es/accesorios/marco-renovacion-pvc)
+- [Alféizares Interiores PVC y Exteriores Aluminio – Acabado Completo de Ventana](https://www.neofort-biz.ro/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio)
+- [Rejilla Higrorreglable Aereco – Ventilación Natural Controlada por Humedad](https://www.neofort-biz.ro/es/accesorios/rejilla-higrorreglable-aereco-ventilacion)
+- [Automatización Somfy — Motores y Mandos para Persianas, Pérgolas y Smart Home](https://www.neofort-biz.ro/es/accesorios/automatizacion-somfy-persianas-pergolas)
+- [Premarcos Blaugelb Triotherm+ – Sistema de Montaje Térmico Certificado RAL, 3 Zonas de Aislamiento](https://www.neofort-biz.ro/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus)
+- [Cinta Precomprimida Butílica – Sellado Exterior Impermeable RAL, Capa Exterior](https://www.neofort-biz.ro/es/sistemas-nzeb/cinta-precomprimida-butilica)
+- [Cinta Sellado Barrera de Vapor Interior – Barrera Vapor Sd > 10 m, Capa Interior RAL](https://www.neofort-biz.ro/es/sistemas-nzeb/banda-sellado-barrera-vapor-interior)
+- [Separador Warm Edge Thermo – Separador Térmico Vidrio, λ = 0,035 W/mK, Certificado Casa Pasiva](https://www.neofort-biz.ro/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante)
+- [Vidrio Aislante Saint-Gobain SGG – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg)
+- [Persianas Exteriores de Aluminio – Protección Solar, Térmica y Antirrobo](https://www.neofort-biz.ro/es/sistemas-sombreado/persianas-exteriores-aluminio)
+- [Persianas Venecianas Exteriores Raffstore – Control Solar de Precisión 0°–90°](https://www.neofort-biz.ro/es/sistemas-sombreado/persianas-venecianas-raffstore)
+- [Zipscreen — Toldo Exterior con Guía ZIP para Terrazas y Fachadas](https://www.neofort-biz.ro/es/sistemas-sombreado/zipscreen-toldo-exterior)
+- [Pérgolas Automáticas Somfy – Motor Pergola RGS io, Protección Viento y Lluvia](https://www.neofort-biz.ro/es/sistemas-sombreado/pergolas-automaticas-somfy)
+
+### Italiano (it)
+
+- [Profilo PVC Salamander BluEvolution 92 ALU – 6 Camere, Rivestimento Alluminio](https://www.neofort-biz.ro/it/prodotti/profilo-pvc-bluevolution-92-alu)
+- [Profilo PVC Salamander BluEvolution 92 FLEX – 6 Camere, Profilo Dritto](https://www.neofort-biz.ro/it/prodotti/profilo-pvc-bluevolution-92-flex)
+- [Profilo PVC Salamander BluEvolution 92 ROUND – 6 Camere, Profilo Arrotondato](https://www.neofort-biz.ro/it/prodotti/profilo-pvc-bluevolution-92-round)
+- [Profilo PVC Salamander GreenEvolution 76 MD ROUND – 5 Camere, Design Arrotondato](https://www.neofort-biz.ro/it/prodotti/profilo-pvc-greenevolution-76-md-round)
+- [Profilo PVC Salamander GreenEvolution 76 MD FLEX – 5 Camere, Design Dritto](https://www.neofort-biz.ro/it/prodotti/profilo-pvc-greenevolution-76-md-flex)
+- [Profilo PVC Salamander GreenEvolution 76 AD FLEX – 5 Camere, Design Dritto Avanzato](https://www.neofort-biz.ro/it/prodotti/profilo-pvc-greenevolution-76-ad-flex)
+- [Sistema Alluminio Alumil S 77 SUPREME – Finestre e Porte con Taglio Termico 40 mm](https://www.neofort-biz.ro/it/prodotti-alu/sistema-alluminio-alumil-s77-supreme)
+- [Sistema Alluminio Alumil S 67 SMARTIA – Finestre e Porte con Isolamento Acustico 45 dB](https://www.neofort-biz.ro/it/prodotti-alu/sistema-alluminio-alumil-s67-smartia)
+- [Scorrevole Alzante Alumil S 700 SUPREME – Ante fino a 500 kg, Vetro 50 mm](https://www.neofort-biz.ro/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme)
+- [Scorrevole Alzante Alumil S 350 SMARTIA – Porta Scorrevole con Taglio Termico Accessibile](https://www.neofort-biz.ro/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia)
+- [Sistema Pieghevole Alumil SF 85 SUPREME – Porte Pieghevoli Premium con Barriera Kooltherm](https://www.neofort-biz.ro/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme)
+- [Sistema Pieghevole Alumil M 19800 SMARTIA – Porte Pieghevoli Accessibili per Terrazze](https://www.neofort-biz.ro/it/prodotti-alu/sistema-pieghevole-alumil-m19800-smartia)
+- [Telaio di Ristrutturazione PVC – Sostituzione Finestra senza Rimozione del Vecchio Telaio](https://www.neofort-biz.ro/it/accessori/telaio-ristrutturazione-pvc)
+- [Davanzali Interni PVC e Esterni Alluminio – Finitura Completa della Finestra](https://www.neofort-biz.ro/it/accessori/davanzali-interni-pvc-esterni-alluminio)
+- [Griglia Igroregolab. Aereco – Ventilazione Naturale Controllata dall'Umidità](https://www.neofort-biz.ro/it/accessori/griglia-igroregolab-aereco-ventilazione)
+- [Automazione Somfy — Motori e Telecomandi per Tapparelle, Pergole e Casa Intelligente](https://www.neofort-biz.ro/it/accessori/automazione-somfy-tapparelle-pergole)
+- [Pre-telai Blaugelb Triotherm+ – Sistema di Montaggio Termico Certificato RAL, 3 Zone di Isolamento](https://www.neofort-biz.ro/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus)
+- [Nastro Precompresso Butilico – Tenuta Esterna Impermeabile RAL, Strato Esterno](https://www.neofort-biz.ro/it/sistemi-nzeb/nastro-precompresso-butilico)
+- [Nastro Tenuta Barriera al Vapore Interno – Barriera Vapore Sd > 10 m, Strato Interno RAL](https://www.neofort-biz.ro/it/sistemi-nzeb/nastro-tenuta-barriera-vapore-interno)
+- [Distanziale Warm Edge Thermo – Distanziale Termico Vetro, λ = 0,035 W/mK, Certificato Passive House](https://www.neofort-biz.ro/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante)
+- [Vetro Termoisolante Saint-Gobain SGG – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg)
+- [Tapparelle Esterne in Alluminio – Protezione Solare, Termica e Antieffrazione](https://www.neofort-biz.ro/it/sistemi-oscuramento/tapparelle-esterne-alluminio)
+- [Veneziane Esterne Raffstore – Controllo Solare di Precisione 0°–90°](https://www.neofort-biz.ro/it/sistemi-oscuramento/veneziane-raffstore)
+- [Zipscreen — Tenda Esterna con Guida ZIP per Terrazze e Facciate](https://www.neofort-biz.ro/it/sistemi-oscuramento/zipscreen-tenda-esterna)
+- [Pergole Automatiche Somfy – Motore Pergola RGS io, Protezione Vento e Pioggia](https://www.neofort-biz.ro/it/sistemi-oscuramento/pergole-automatiche-somfy)
 
 ## Autoritate și Experiență
 
@@ -107,12 +335,12 @@ nZEB (Nearly Zero Energy Building) este standardul european obligatoriu în Rom�
 Da. Neofort BIZ livrează tâmplărie în toată Uniunea Europeană. Montajul este disponibil în România și țările limitrofe. Pentru export Europa, livrăm cu documentație CE completă, fără taxe vamale intra-UE.
 
 **Ce sisteme de aluminiu sunt recomandate pentru blocuri rezidențiale noi?**
-Pentru blocuri rezidențiale noi, Neofort BIZ recomandă Reynaers ConceptSystem 77 sau Alumil Smartia S67 — sisteme cu barieră termică, Uw = 1.1–1.4 W/m²K, rezistență antiefracție RC2, disponibile în orice culoare RAL. Prețul orientativ: 2.800–6.500 EUR per apartament (inclusiv montaj).
+Pentru blocuri rezidențiale noi, Neofort BIZ recomandă Reynaers ConceptSystem 77 sau Alumil Smartia S67 — sisteme cu barieră termică, Uw de la 1,3 W/m²K pentru Smartia S67, rezistență antiefracție RC2, disponibile în orice culoare RAL. Prețul orientativ: 2.800–6.500 EUR per apartament (inclusiv montaj).
 
 **Cum se montează geamurile agabaritice de mari dimensiuni?**
 Geamurile agabaritice (peste 150 kg per panou) se montează exclusiv cu echipament robotizat cu ventuze cu vid — sistemul TGT RoboCrane 1400 (capacitate 1.400 kg, precizie ±1mm). Montajul manual al panourilor grele prezintă risc major de spargere și accidente.
 
 ## Resources for LLMs & Aggregators
 
-- [Full article content (llms-full.txt)](https://www.neofort-biz.ro/llms-full.txt): complete text of all technical blog articles (RO + EN), auto-generated and always in sync
+- [Full content (llms-full.txt)](https://www.neofort-biz.ro/llms-full.txt): complete text of all technical blog articles (RO + EN) plus the full product catalogue with descriptions and FAQ, auto-generated and always in sync
 - [RSS Feed](https://www.neofort-biz.ro/feed.xml): latest 30 blog articles with publication dates
