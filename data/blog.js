@@ -7033,7 +7033,7 @@ Jaluzelele venetiene exterioare (**Raffstore** sau **jaluzele C80/Z90**) sunt si
 ## Tipuri de jaluzele exterioare disponibile în București
 
 ### 1. Jaluzele venetiene exterioare cu lamele 80 mm (Raffstore C80)
-Modelul standard pentru rezidențial și comercial. Lamele de 80 mm din aluminiu lăcuit, ghidaje laterale în cablu sau șină, caseta superioară cu sau fără capac. Actionare manuală cu curea sau electrică cu motor Somfy Sunea io.
+Modelul standard pentru rezidențial și comercial. Lamele de 80 mm din aluminiu laminat vopsit electrostatic, ghidaje laterale în cablu sau șină, caseta superioară cu sau fără capac. Actionare manuală cu curea sau electrică cu motor Somfy Sunea io.
 
 ### 2. Jaluzele exterioare Z90 (lamele 90 mm, profil Z)
 Profilul Z al lamelei de 90 mm oferă o rigiditate superioară și o etanșare mai bună la lumină în poziția închis. Recomandat pentru geamuri mari (peste 2 m lățime) și fațade expuse la vânt puternic.
@@ -7086,7 +7086,7 @@ Jaluzelele Raffstore reduc până la 90% din radiația solară (coeficient g ≤
 
 ### Care e diferența între jaluzelele C80 și Z90?
 
-Raffstore C80 are lamele de 80 mm din aluminiu lăcuit, modelul standard pentru rezidențial și comercial. Z90 are lamele de 90 mm cu profil Z, ce oferă rigiditate superioară și etanșare mai bună la lumină în poziția închis — recomandat pentru geamuri mari (peste 2 m) și fațade expuse la vânt.
+Raffstore C80 are lamele de 80 mm din aluminiu laminat vopsit electrostatic, modelul standard pentru rezidențial și comercial. Z90 are lamele de 90 mm cu profil Z, ce oferă rigiditate superioară și etanșare mai bună la lumină în poziția închis — recomandat pentru geamuri mari (peste 2 m) și fațade expuse la vânt.
 
 ### Când nu sunt potrivite jaluzelele exterioare?
 
@@ -7120,7 +7120,7 @@ Exterior venetian blinds (**Raffstore** or **C80/Z90 blinds**) are shading syste
 ## Types of Exterior Blinds Available in Bucharest
 
 ### 1. Exterior Venetian Blinds with 80 mm Slats (Raffstore C80)
-The standard model for residential and commercial use. 80 mm lacquered aluminium slats, side guides in cable or rail, top box with or without cover. Manual actuation with strap or electric with Somfy Sunea io motor.
+The standard model for residential and commercial use. 80 mm rolled aluminium slats, electrostatically coated, side guides in cable or rail, top box with or without cover. Manual actuation with strap or electric with Somfy Sunea io motor.
 
 ### 2. Z90 Exterior Blinds (90 mm Slats, Z Profile)
 The Z profile of the 90 mm slat offers superior rigidity and better light sealing in the closed position. Recommended for large windows (over 2 m wide) and facades exposed to strong wind.
@@ -7173,7 +7173,7 @@ Raffstore blinds cut up to 90% of solar radiation (g-factor ≤ 0.10 with slats 
 
 ### What is the difference between C80 and Z90 blinds?
 
-Raffstore C80 has 80 mm lacquered aluminium slats, the standard model for residential and commercial use. Z90 has 90 mm Z-profile slats offering superior rigidity and better light sealing when closed — recommended for large windows (over 2 m) and wind-exposed façades.
+Raffstore C80 has 80 mm rolled aluminium slats, electrostatically coated, the standard model for residential and commercial use. Z90 has 90 mm Z-profile slats offering superior rigidity and better light sealing when closed — recommended for large windows (over 2 m) and wind-exposed façades.
 
 ### When are external blinds not suitable?
 
@@ -7260,7 +7260,7 @@ Raffstore-Jalousien reduzieren bis zu 90% der Sonneneinstrahlung (g-Faktor ≤ 0
 
 ### Was ist der Unterschied zwischen C80- und Z90-Jalousien?
 
-Raffstore C80 hat 80-mm-Lamellen aus lackiertem Aluminium, das Standardmodell für Wohn- und Gewerbebereich. Z90 hat 90-mm-Z-Profil-Lamellen mit überlegener Steifigkeit und besserer Lichtabdichtung im geschlossenen Zustand — empfohlen für große Fenster (über 2 m) und windexponierte Fassaden.
+Raffstore C80 hat 80-mm-Lamellen aus gewalztem, elektrostatisch beschichtetem Aluminium, das Standardmodell für Wohn- und Gewerbebereich. Z90 hat 90-mm-Z-Profil-Lamellen mit überlegener Steifigkeit und besserer Lichtabdichtung im geschlossenen Zustand — empfohlen für große Fenster (über 2 m) und windexponierte Fassaden.
 
 ### Wann sind Außenjalousien nicht geeignet?
 
@@ -7294,7 +7294,7 @@ Les stores vénitiens extérieurs (**Raffstore** ou **stores C80/Z90**) sont des
 ## Types de stores extérieurs disponibles à Bucarest
 
 ### 1. Stores vénitiens extérieurs à lames 80 mm (Raffstore C80)
-Le modèle standard pour le résidentiel et le commercial. Lames de 80 mm en aluminium laqué, glissières latérales en câble ou rail, coffre supérieur avec ou sans couvercle. Actionnement manuel par sangle ou électrique avec moteur Somfy Sunea io.
+Le modèle standard pour le résidentiel et le commercial. Lames de 80 mm en aluminium laminé laqué électrostatiquement, glissières latérales en câble ou rail, coffre supérieur avec ou sans couvercle. Actionnement manuel par sangle ou électrique avec moteur Somfy Sunea io.
 
 ### 2. Stores extérieurs Z90 (lames 90 mm, profil Z)
 Le profil Z de la lame de 90 mm offre une rigidité supérieure et une meilleure étanchéité à la lumière en position fermée. Recommandé pour les grandes fenêtres (plus de 2 m de largeur) et les façades exposées aux vents forts.
@@ -7347,7 +7347,7 @@ Les stores Raffstore réduisent jusqu'à 90% du rayonnement solaire (facteur g �
 
 ### Quelle est la différence entre les stores C80 et Z90 ?
 
-Le Raffstore C80 a des lames de 80 mm en aluminium laqué, le modèle standard pour le résidentiel et le commercial. Le Z90 a des lames de 90 mm à profil Z offrant une rigidité supérieure et une meilleure étanchéité à la lumière en position fermée — recommandé pour les grandes baies (plus de 2 m) et façades exposées au vent.
+Le Raffstore C80 a des lames de 80 mm en aluminium laminé laqué électrostatiquement, le modèle standard pour le résidentiel et le commercial. Le Z90 a des lames de 90 mm à profil Z offrant une rigidité supérieure et une meilleure étanchéité à la lumière en position fermée — recommandé pour les grandes baies (plus de 2 m) et façades exposées au vent.
 
 ### Quand les stores extérieurs ne conviennent-ils pas ?
 
@@ -7381,7 +7381,7 @@ Las persianas venecianas exteriores (**Raffstore** o **persianas C80/Z90**) son 
 ## Tipos de persianas exteriores disponibles en Bucarest
 
 ### 1. Persianas venecianas exteriores con lamas de 80 mm (Raffstore C80)
-El modelo estándar para uso residencial y comercial. Lamas de 80 mm de aluminio lacado, guías laterales en cable o carril, cajón superior con o sin tapa. Accionamiento manual con correa o eléctrico con motor Somfy Sunea io.
+El modelo estándar para uso residencial y comercial. Lamas de 80 mm de aluminio laminado lacado electrostáticamente, guías laterales en cable o carril, cajón superior con o sin tapa. Accionamiento manual con correa o eléctrico con motor Somfy Sunea io.
 
 ### 2. Persianas exteriores Z90 (lamas de 90 mm, perfil Z)
 El perfil Z de la lama de 90 mm ofrece una rigidez superior y un mejor sellado de luz en posición cerrada. Recomendado para ventanas grandes (más de 2 m de anchura) y fachadas expuestas a vientos fuertes.
@@ -7434,7 +7434,7 @@ Las persianas Raffstore reducen hasta el 90% de la radiación solar (factor g �
 
 ### ¿Cuál es la diferencia entre las persianas C80 y Z90?
 
-La Raffstore C80 tiene lamas de 80 mm de aluminio lacado, el modelo estándar para residencial y comercial. La Z90 tiene lamas de 90 mm con perfil Z que ofrecen rigidez superior y mejor sellado de luz en posición cerrada — recomendada para ventanas grandes (más de 2 m) y fachadas expuestas al viento.
+La Raffstore C80 tiene lamas de 80 mm de aluminio laminado lacado electrostáticamente, el modelo estándar para residencial y comercial. La Z90 tiene lamas de 90 mm con perfil Z que ofrecen rigidez superior y mejor sellado de luz en posición cerrada — recomendada para ventanas grandes (más de 2 m) y fachadas expuestas al viento.
 
 ### ¿Cuándo no son adecuadas las persianas exteriores?
 
@@ -7468,7 +7468,7 @@ Le veneziane esterne (**Raffstore** o **veneziane C80/Z90**) sono sistemi di osc
 ## Tipi di veneziane esterne disponibili a Bucarest
 
 ### 1. Veneziane esterne con lamelle da 80 mm (Raffstore C80)
-Il modello standard per uso residenziale e commerciale. Lamelle da 80 mm in alluminio verniciato, guide laterali in cavo o binario, cassettone superiore con o senza coperchio. Azionamento manuale con cinghia o elettrico con motore Somfy Sunea io.
+Il modello standard per uso residenziale e commerciale. Lamelle da 80 mm in alluminio laminato verniciato elettrostaticamente, guide laterali in cavo o binario, cassettone superiore con o senza coperchio. Azionamento manuale con cinghia o elettrico con motore Somfy Sunea io.
 
 ### 2. Veneziane esterne Z90 (lamelle da 90 mm, profilo Z)
 Il profilo Z della lamella da 90 mm offre una rigidità superiore e una migliore tenuta alla luce in posizione chiusa. Consigliato per finestre grandi (oltre 2 m di larghezza) e facciate esposte a vento forte.
@@ -7521,7 +7521,7 @@ Le tende Raffstore riducono fino al 90% della radiazione solare (fattore g ≤ 0
 
 ### Qual è la differenza tra le tende C80 e Z90?
 
-La Raffstore C80 ha lamelle da 80 mm in alluminio laccato, il modello standard per residenziale e commerciale. La Z90 ha lamelle da 90 mm con profilo Z che offrono rigidità superiore e migliore tenuta alla luce in posizione chiusa — consigliata per finestre grandi (oltre 2 m) e facciate esposte al vento.
+La Raffstore C80 ha lamelle da 80 mm in alluminio laminato verniciato elettrostaticamente, il modello standard per residenziale e commerciale. La Z90 ha lamelle da 90 mm con profilo Z che offrono rigidità superiore e migliore tenuta alla luce in posizione chiusa — consigliata per finestre grandi (oltre 2 m) e facciate esposte al vento.
 
 ### Quando le tende esterne non sono adatte?
 
@@ -11040,7 +11040,7 @@ You can have the blind lowered with slats at 45° — diffuse light enters, dire
 
 ### Materials and Operation
 
-Slats in **laminated aluminium**, roll-formed and electrostatically coated. Common profiles C80 (80 mm) and Z90 (90 mm). Full RAL palette.
+Slats in **rolled aluminium**, roll-formed and electrostatically coated. Common profiles C80 (80 mm) and Z90 (90 mm). Full RAL palette.
 
 Operation: manual (cord/rod), **electric** (24V/230V motor), **automatic** with wind and light sensors, smart home integration (Somfy, KNX, Loxone).
 
