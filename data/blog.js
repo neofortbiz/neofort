@@ -11018,7 +11018,7 @@ Poți avea jaluzea coborâtă cu lamelele la 45° — lumina difuză intră, ved
 
 ### Materiale și acționare
 
-Lamele din **aluminiu extrudat**, finisate electrostatic. Lățime 80 mm sau 50 mm. Toată paleta RAL.
+Lamele din **aluminiu laminat**, profilate și vopsite electrostatic. Profile uzuale C80 (80 mm) și Z90 (90 mm). Toată paleta RAL.
 
 Acționare: manuală (snur/tijă), **electrică** (motor 24V/230V), **automată** cu senzori vânt, lumină, integrare smart home (Somfy, KNX, Loxone).
 
@@ -11147,7 +11147,7 @@ You can have the blind lowered with slats at 45° — diffuse light enters, dire
 
 ### Materials and Operation
 
-Slats in **extruded aluminium**, electrostatically finished. Width 80 mm or 50 mm. Full RAL palette.
+Slats in **laminated aluminium**, roll-formed and electrostatically coated. Common profiles C80 (80 mm) and Z90 (90 mm). Full RAL palette.
 
 Operation: manual (cord/rod), **electric** (24V/230V motor), **automatic** with wind and light sensors, smart home integration (Somfy, KNX, Loxone).
 
@@ -11276,7 +11276,7 @@ Die Jalousie kann abgesenkt sein, mit Lamellen bei 45° — diffuses Licht tritt
 
 ### Materialien und Antrieb
 
-Lamellen aus **stranggepresstem Aluminium**, elektrostatisch beschichtet. Breite 80 mm oder 50 mm. Gesamte RAL-Palette.
+Lamellen aus **gewalztem Aluminium**, rollprofiliert und elektrostatisch beschichtet. Übliche Profile C80 (80 mm) und Z90 (90 mm). Gesamte RAL-Palette.
 
 Antrieb: manuell (Schnur/Stab), **elektrisch** (Motor 24V/230V), **automatisch** mit Wind- und Lichtsensoren, Smart-Home-Integration (Somfy, KNX, Loxone).
 
@@ -11405,7 +11405,7 @@ Le store peut être baissé avec les lames à 45° — la lumière diffuse entre
 
 ### Matériaux et commande
 
-Lames en **aluminium extrudé**, finition électrostatique. Largeur 80 mm ou 50 mm. Toute la palette RAL.
+Lames en **aluminium laminé**, profilées et laquées électrostatiquement. Profils courants C80 (80 mm) et Z90 (90 mm). Toute la palette RAL.
 
 Commande : manuelle (cordon/tringle), **électrique** (moteur 24V/230V), **automatique** avec capteurs vent et lumière, intégration domotique (Somfy, KNX, Loxone).
 
@@ -11534,7 +11534,7 @@ La persiana puede estar bajada con las lamas a 45° — la luz difusa entra, la 
 
 ### Materiales y accionamiento
 
-Lamas de **aluminio extruido**, acabado electrostático. Anchura 80 mm o 50 mm. Toda la paleta RAL.
+Lamas de **aluminio laminado**, perfiladas y lacadas electrostáticamente. Perfiles habituales C80 (80 mm) y Z90 (90 mm). Toda la paleta RAL.
 
 Accionamiento: manual (cordón/varilla), **eléctrico** (motor 24V/230V), **automático** con sensores de viento y luz, integración domótica (Somfy, KNX, Loxone).
 
@@ -11663,7 +11663,7 @@ La veneziana può essere abbassata con le lamelle a 45° — la luce diffusa ent
 
 ### Materiali e azionamento
 
-Lamelle in **alluminio estruso**, finitura elettrostatica. Larghezza 80 mm o 50 mm. Intera palette RAL.
+Lamelle in **alluminio laminato**, profilate e verniciate elettrostaticamente. Profili usuali C80 (80 mm) e Z90 (90 mm). Intera palette RAL.
 
 Azionamento: manuale (cordone/asta), **elettrico** (motore 24V/230V), **automatico** con sensori vento e luce, integrazione domotica (Somfy, KNX, Loxone).
 
