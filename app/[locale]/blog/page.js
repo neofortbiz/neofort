@@ -116,7 +116,7 @@ export default async function BlogPage({ params }) {
           alt={hero.h1}
           fetchpriority="high"
           decoding="async"
-          style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:0.18,display:'block'}}
+          style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',objectPosition:'center',opacity:0.18,display:'block'}}
         />
         <div style={{position:'absolute',inset:0,
           backgroundImage:'linear-gradient(rgba(74,124,89,.06) 1px, transparent 1px), linear-gradient(90deg, rgba(74,124,89,.06) 1px, transparent 1px)',

@@ -28,7 +28,9 @@ const UI = {
     th: ['Sistem', 'Categorie', 'Preț estimat / mp', 'Ideal pentru'],
     rows: [
       ['Alumil Smartia S67', 'Comercial', '250–350 EUR/mp', 'Locuințe, birouri standard'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/mp', 'Locuințe nZEB, vile, RC3 din standard'],
       ['Alumil Supreme SF85', 'Premium', '350–500 EUR/mp', 'Proiecte arhitecturale exigente'],
+      ['Alumil M19800 Smartia (armonic)', 'Armonic', '280–400 EUR/mp', 'Terase și balcoane, deschidere totală'],
       ['Alumil S350 Smartia (glisant)', 'Glisant', '400–550 EUR/mp', 'Terase, living cu deschidere mare'],
       ['Alumil S700 Supreme (liftant-glisant)', 'Premium glisant', '550–750 EUR/mp', 'Terase panoramice, vile'],
       ['Pereți cortină Alumil CW50', 'Fațadă', '450–700 EUR/mp', 'Clădiri comerciale, fațade sticlă'],
@@ -69,7 +71,9 @@ const UI = {
     th: ['System', 'Category', 'Estimated price / m²', 'Ideal for'],
     rows: [
       ['Alumil Smartia S67', 'Commercial', '250–350 EUR/m²', 'Homes, standard offices'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'nZEB homes, villas, RC3 as standard'],
       ['Alumil Supreme SF85', 'Premium', '350–500 EUR/m²', 'Demanding architectural projects'],
+      ['Alumil M19800 Smartia (folding)', 'Folding', '280–400 EUR/m²', 'Terraces and balconies, full opening'],
       ['Alumil S350 Smartia (sliding)', 'Sliding', '400–550 EUR/m²', 'Terraces, large living openings'],
       ['Alumil S700 Supreme (lift-slide)', 'Premium sliding', '550–750 EUR/m²', 'Panoramic terraces, villas'],
       ['Curtain wall Alumil CW50', 'Facade', '450–700 EUR/m²', 'Commercial buildings, glass facades'],
@@ -110,7 +114,9 @@ const UI = {
     th: ['System', 'Kategorie', 'Geschätzter Preis / m²', 'Ideal für'],
     rows: [
       ['Alumil Smartia S67', 'Kommerziell', '250–350 EUR/m²', 'Wohnungen, Standardbüros'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'nZEB-Wohnhäuser, Villen, RC3 serienmäßig'],
       ['Alumil Supreme SF85', 'Premium', '350–500 EUR/m²', 'Anspruchsvolle Architekturprojekte'],
+      ['Alumil M19800 Smartia (Falt)', 'Falt', '280–400 EUR/m²', 'Terrassen und Balkone, volle Öffnung'],
       ['Alumil S350 Smartia (Schiebe)', 'Schiebe', '400–550 EUR/m²', 'Terrassen, große Wohnöffnungen'],
       ['Alumil S700 Supreme (Hebe-Schiebe)', 'Premium-Schiebe', '550–750 EUR/m²', 'Panoramaterrassen, Villen'],
       ['Vorhangfassade Alumil CW50', 'Fassade', '450–700 EUR/m²', 'Gewerbegebäude, Glasfassaden'],
@@ -151,7 +157,9 @@ const UI = {
     th: ['Système', 'Catégorie', 'Prix estimé / m²', 'Idéal pour'],
     rows: [
       ['Alumil Smartia S67', 'Commercial', '250–350 EUR/m²', 'Logements, bureaux standard'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'Logements nZEB, villas, RC3 de série'],
       ['Alumil Supreme SF85', 'Premium', '350–500 EUR/m²', 'Projets architecturaux exigeants'],
+      ['Alumil M19800 Smartia (pliant)', 'Pliant', '280–400 EUR/m²', 'Terrasses et balcons, ouverture totale'],
       ['Alumil S350 Smartia (coulissant)', 'Coulissant', '400–550 EUR/m²', 'Terrasses, grandes ouvertures séjour'],
       ['Alumil S700 Supreme (coulissant levant)', 'Premium coulissant', '550–750 EUR/m²', 'Terrasses panoramiques, villas'],
       ['Mur-rideau Alumil CW50', 'Façade', '450–700 EUR/m²', 'Bâtiments commerciaux, façades vitrées'],
@@ -192,7 +200,9 @@ const UI = {
     th: ['Sistema', 'Categoría', 'Precio estimado / m²', 'Ideal para'],
     rows: [
       ['Alumil Smartia S67', 'Comercial', '250–350 EUR/m²', 'Viviendas, oficinas estándar'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'Viviendas nZEB, chalets, RC3 de serie'],
       ['Alumil Supreme SF85', 'Premium', '350–500 EUR/m²', 'Proyectos arquitectónicos exigentes'],
+      ['Alumil M19800 Smartia (plegable)', 'Plegable', '280–400 EUR/m²', 'Terrazas y balcones, apertura total'],
       ['Alumil S350 Smartia (corredera)', 'Corredera', '400–550 EUR/m²', 'Terrazas, grandes aperturas salón'],
       ['Alumil S700 Supreme (elev. corredera)', 'Premium corredera', '550–750 EUR/m²', 'Terrazas panorámicas, villas'],
       ['Muro cortina Alumil CW50', 'Fachada', '450–700 EUR/m²', 'Edificios comerciales, fachadas vidriadas'],
@@ -233,7 +243,9 @@ const UI = {
     th: ['Sistema', 'Categoria', 'Prezzo stimato / m²', 'Ideale per'],
     rows: [
       ['Alumil Smartia S67', 'Commerciale', '250–350 EUR/m²', 'Abitazioni, uffici standard'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'Abitazioni nZEB, ville, RC3 di serie'],
       ['Alumil Supreme SF85', 'Premium', '350–500 EUR/m²', 'Progetti architettonici esigenti'],
+      ['Alumil M19800 Smartia (a libro)', 'A libro', '280–400 EUR/m²', 'Terrazze e balconi, apertura totale'],
       ['Alumil S350 Smartia (scorrevole)', 'Scorrevole', '400–550 EUR/m²', 'Terrazze, grandi aperture soggiorno'],
       ['Alumil S700 Supreme (alz. scorrevole)', 'Premium scorrevole', '550–750 EUR/m²', 'Terrazze panoramiche, ville'],
       ['Facciata continua Alumil CW50', 'Facciata', '450–700 EUR/m²', 'Edifici commerciali, facciate vetrate'],
@@ -299,6 +311,10 @@ export async function generateMetadata({ params }) {
       title: ui.h1, description: ui.sub,
       images: [{ url: `${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width: 1200, height: 630, alt: ui.h1, type: 'image/avif' }],
     },
+    // v277: blocul twitter era lipit in schema JSON-LD de mai jos, nu aici.
+    // Next.js nu emitea niciun meta twitter, iar schema continea o proprietate
+    // care nu exista in vocabularul schema.org.
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.h1, description: ui.sub, images:[{ url:`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width:1200, height:630 }] },
   };
 }
 
@@ -322,7 +338,6 @@ export default async function PreturiPage({ params }) {
         { '@type': 'ListItem', position: 3, name: ui.h1, item: `${BASE}/${locale}/${slug}` },
       ],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:ui.h1, description:ui.sub, images:[`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`] },
   };
 
   const faqSchema = {

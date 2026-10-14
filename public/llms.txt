@@ -53,6 +53,7 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 - **[Sistem Aluminiu Alumil S 77 SUPREME – Ferestre și Uși cu Barieră Termică 40 mm](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s77-supreme)**
   - Adâncime constructivă: 77 – 93 mm · Barieră termică: Poliamidă 40 mm · Transfer termic Uf: de la 0,86 W/m²K · Geam compatibil: 24 – 72 mm (dublu / triplu) · Izolare fonică: până la 42 dB · Greutate max. canat: 400 kg
   - Producător: Alumil S.A.
+  - Preț orientativ: 350 – 480 EUR/mp montat, inclusiv geam termoizolator și montaj nZEB
 - **[Sistem Aluminiu Alumil S 67 SMARTIA – Ferestre și Uși cu Izolare Fonică 45 dB](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s67-smartia)**
   - Adâncime constructivă: 67 – 75 mm · Barieră termică: Poliamidă 30 mm · Transfer termic Uf: de la 1,5 W/m²K · Geam compatibil: 24 – 58 mm (dublu / triplu) · Izolare fonică: până la 45 dB · Greutate max. canat: 200 kg
   - Producător: Alumil S.A.
@@ -68,6 +69,7 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 - **[Sistem Armonic Alumil M 19800 SMARTIA – Uși Pliante Accesibile pentru Terase](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-m19800-smartia)**
   - Tip sistem: Armonic (pliant) · Barieră termică: 18 mm · Transfer termic Uf: de la 1,9 W/m²K · Geam compatibil: până la 32 mm · Izolare fonică: până la 36 dB · Greutate max. foaie: 80 kg
   - Producător: Alumil S.A.
+  - Preț orientativ: 280 – 400 EUR/mp montat, inclusiv geam și montaj
 
 ### Accesorii
 
@@ -116,6 +118,7 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 - **[Pergole Automate Somfy – Motor Pergola RGS io, Protecție Vânt și Ploaie](https://www.neofort-biz.ro/ro/umbrire/pergole-automate-somfy)**
   - Motor: Somfy Pergola 50 RGS io / 60 RGS io
   - Producător: Somfy
+  - Preț orientativ: 11.000 – 18.000 lei pentru 3 × 4 m, inclusiv motor Somfy Pergola RGS io și montaj
 
 ### Geam Termoizolator
 
@@ -323,7 +326,7 @@ Română, Engleză, Germană, Franceză, Spaniolă, Italiană
 ## Întrebări Frecvente
 
 **Cât costă tâmplăria PVC Salamander BluEvolution 92?**
-Prețul orientativ pentru BluEvolution 92 pornește de la 250–380 EUR/mp montat, incluzând geamul termoizolator Low-E și montajul cu precadre Blaugelb. Prețul variază în funcție de dimensiuni, culoare RAL și configurație (oscilo-batant, culisant, liftant-glisant).
+Prețul orientativ pentru BluEvolution 92 pornește de la 200 EUR/mp montat și ajunge la 350 EUR/mp pentru varianta ALU placată cu aluminiu, incluzând geamul termoizolator Low-E și montajul cu precadre Blaugelb. Prețul variază în funcție de dimensiuni, culoare RAL și configurație (oscilo-batant, culisant, liftant-glisant).
 
 **Care este diferența dintre BluEvolution 92 și GreenEvolution 76?**
 BluEvolution 92 are 6 camere și Uw = 0.70 W/m²K (standard Passive House). GreenEvolution 76 are 5 camere și Uw = 0.73 W/m²K (standard nZEB). BluEvolution 92 este recomandat pentru proiecte premium și case pasive; GreenEvolution 76 pentru proiecte rezidențiale cu raport calitate-preț optim.

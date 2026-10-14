@@ -434,7 +434,7 @@ export default async function BlogArticlePage({ params }) {
             <ViewCounter slug={a.slugs.ro} />
             <span style={{color:'rgba(255,255,255,.2)'}}>·</span>
             <span style={{display:'inline-flex',alignItems:'center',gap:'6px'}}>
-              <img src={a.authorPhoto||'/team/mihai-danalache.avif'} alt={a.author||'Mihai Dănălache'} width={20} height={20} style={{width:'20px',height:'20px',borderRadius:'50%',objectFit:'cover',border:'1px solid rgba(255,255,255,.4)'}} loading="lazy"/>
+              <img src={a.authorPhoto||'/team/mihai-danalache.avif'} alt={a.author||'Mihai Dănălache'} width={20} height={20} style={{width:'20px',height:'20px',borderRadius:'50%',objectFit:'cover',objectPosition:'center top',border:'1px solid rgba(255,255,255,.4)'}} loading="lazy"/>
               <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.58rem',letterSpacing:'.08em',color:'rgba(255,255,255,.7)'}}>{a.author||'Mihai Dănălache'}</span>
             </span>
           </div>
@@ -541,7 +541,7 @@ export default async function BlogArticlePage({ params }) {
             <div className="sidebar-card">
               <span className="sidebar-label" style={{color:'#2d2d2d'}}>{'ro'===locale?'Autor':'en'===locale?'Author':'de'===locale?'Autor':'fr'===locale?'Auteur':'es'===locale?'Autor':'Autore'}</span>
               <div style={{display:'flex',alignItems:'center',gap:'10px',marginBottom:'8px'}}>
-                <img src={a.authorPhoto||'/team/mihai-danalache.avif'} alt={a.author||'Mihai Dănălache'} width={40} height={40} style={{width:'40px',height:'40px',borderRadius:'50%',objectFit:'cover',border:`2px solid ${a.accentColor}`}} loading="lazy"/>
+                <img src={a.authorPhoto||'/team/mihai-danalache.avif'} alt={a.author||'Mihai Dănălache'} width={40} height={40} style={{width:'40px',height:'40px',borderRadius:'50%',objectFit:'cover',objectPosition:'center top',border:`2px solid ${a.accentColor}`}} loading="lazy"/>
                 <div>
                   <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.82rem',color:'#151515'}}>{a.author||'Mihai Dănălache'}</div>
                   <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.62rem',color:a.accentColor,letterSpacing:'.06em'}}>{(a.authorRole&&a.authorRole[locale])||'Consultant Tehnic Senior'}</div>

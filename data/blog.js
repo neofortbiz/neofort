@@ -2,6 +2,11 @@
 // Conținut complet multilingv RO/EN/DE/FR/ES/IT
 // Imagini: /public/blog/*.jpg — generate de utilizator ulterior
 
+// v277: authorRole era scris de mana in toate cele 56 de articole, in 4 forme
+// diferite, cu "21 ani" fix. Acum vine din lib/companyAge.js si se recalculeaza
+// la fiecare build.
+import { AUTHOR_ROLE } from '../lib/companyAge.js';
+
 export const ARTICLES = [
 
   // ─── A3: Ferestre casă nZEB România ─────────────────────────────────────────
@@ -24,14 +29,7 @@ export const ARTICLES = [
     },
     date: '2026-05-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#281b3d',
     image: {
@@ -1294,14 +1292,7 @@ Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnic
     },
     date: '2026-05-12',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#18392a',
     image: {
@@ -2280,14 +2271,7 @@ Neofort BIZ installa triplo vetro Saint-Gobain SGG con Warm Edge a Bucarest e Il
     },
     date: '2026-05-07',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#0b1f3a',
     image: {
@@ -3179,14 +3163,7 @@ Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [
     },
     date: '2026-04-28',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#0b1f3a',
     image: {
@@ -3754,14 +3731,7 @@ Neofort BIZ fornisce e posa porte in alluminio Alumil a Bucarest e nell’Ilfov,
     },
     date: '2026-05-03',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#18392a',
     image: {
@@ -4310,14 +4280,7 @@ Neofort BIZ posa serramenti in PVC Salamander con posa su tre piani di tenuta a 
     },
     date: '2026-04-10',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: 'Consultant technique senior — 21 ans d\'expérience',
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#2b4834',
     image: {
@@ -5278,14 +5241,7 @@ Neofort BIZ realizza pose nZEB complete, con controtelai Blaugelb Triotherm+ e t
     },
     date: '2026-04-04',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: 'Consultant technique senior — 21 ans d\'expérience',
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#162d47',
     image: {
@@ -5759,14 +5715,7 @@ Neofort BIZ fornisce serramenti in PVC Salamander con stabilizzanti calcio-zinco
     },
     date: '2026-04-21',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: 'Consultant technique senior — 21 ans d\'expérience',
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#0b1f3a',
     image: {
@@ -6338,14 +6287,7 @@ Neofort BIZ fornisce vetrocamere con triplo vetro, trattamento Low-E e distanzia
     },
     date: '2026-04-23',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: 'Consultant technique senior — 21 ans d\'expérience',
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#13290c',
     image: {
@@ -7023,14 +6965,7 @@ Neofort BIZ esegue pose su tre piani di tenuta, con controtelai isolanti Blaugel
     },
     date: '2026-04-09',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: 'Consultant technique senior — 21 ans d\'expérience',
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#0b1f3a',
     image: {
@@ -7620,14 +7555,7 @@ Neofort BIZ installa sistemi di oscuramento esterno — tapparelle, Raffstore, Z
     },
     date: '2026-04-14',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: 'Consultant technique senior — 21 ans d\'expérience',
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#0e3718',
     image: {
@@ -8192,14 +8120,7 @@ Neofort BIZ posa serramenti Salamander con squadre proprie certificate nZEB a Bu
     },
     date: '2026-04-18',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: 'Consultant technique senior — 21 ans d\'expérience',
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#482600',
     image: {
@@ -8857,14 +8778,7 @@ Neofort BIZ fornisce tutti e tre i profili Salamander — greenEvolution 76, blu
     },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: 'Consultant technique senior — 21 ans d\'expérience',
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#7b000f',
     image: {
@@ -9266,14 +9180,7 @@ Neofort BIZ installa pergole bioclimatiche e classiche, con automazione Somfy, a
     },
     date: '2026-02-15',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'15 Februarie 2026', en:'February 15, 2026', de:'15. Februar 2026', fr:'15 février 2026', es:'15 de febrero de 2026', it:'15 febbraio 2026' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
@@ -10231,14 +10138,7 @@ Neofort BIZ lavora con entrambi i profili Salamander e vi dice quale è adatto a
     },
     date: '2026-02-22',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'22 Februarie 2026', en:'February 22, 2026', de:'22. Februar 2026', fr:'22 février 2026', es:'22 de febrero de 2026', it:'22 febbraio 2026' },
     category: { ro:'Montaj & Izolare', en:'Installation', de:'Montage', fr:'Installation', es:'Instalación', it:'Installazione' },
@@ -10944,14 +10844,7 @@ Neofort BIZ installa controtelai Blaugelb Triotherm+ e serramenti certificati nZ
     },
     date: '2026-03-01',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'1 Martie 2026', en:'March 1, 2026', de:'1. März 2026', fr:'1 mars 2026', es:'1 de marzo de 2026', it:'1 marzo 2026' },
     category: { ro:'Comparație produse', en:'Product Comparison', de:'Produktvergleich', fr:'Comparaison produits', es:'Comparación', it:'Confronto prodotti' },
@@ -11789,14 +11682,7 @@ Neofort BIZ installa sia veneziane Raffstore che tapparelle in alluminio a Bucar
     },
     date: '2026-03-08',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'8 Martie 2026', en:'March 8, 2026', de:'8. März 2026', fr:'8 mars 2026', es:'8 de marzo de 2026', it:'8 marzo 2026' },
     category: { ro:'Export & Europa', en:'Export & Europe', de:'Export & Europa', fr:'Export & Europe', es:'Exportación & Europa', it:'Export & Europa' },
@@ -12718,14 +12604,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
     },
     date: '2026-03-10',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'10 Martie 2026', en:'March 10, 2026', de:'10. März 2026', fr:'10 mars 2026', es:'10 de marzo de 2026', it:'10 marzo 2026' },
     category: { ro:'Tâmplărie Aluminiu', en:'Aluminium Windows', de:'Aluminiumfenster', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
@@ -13504,14 +13383,7 @@ Neofort BIZ fornisce e posa serramenti in alluminio Alumil a taglio termico a Bu
     },
     date: '2026-03-15',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'15 Martie 2026', en:'March 15, 2026', de:'15. März 2026', fr:'15 mars 2026', es:'15 de marzo de 2026', it:'15 marzo 2026' },
     category: { ro:'Pereți Cortină', en:'Curtain Wall', de:'Vorhangfassade', fr:'Mur Rideau', es:'Muro Cortina', it:'Parete Cortina' },
@@ -14172,14 +14044,7 @@ Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfo
     },
     date: '2026-03-15',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'15 Martie 2026', en:'March 15, 2026', de:'15. März 2026', fr:'15 mars 2026', es:'15 de marzo de 2026', it:'15 marzo 2026' },
     category: { ro:'Sisteme Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:'Systèmes d\'occultation', es:'Sistemas de sombreado', it:'Sistemi di oscuramento' },
@@ -14841,14 +14706,7 @@ Neofort BIZ installa ZipScreen, tapparelle, Raffstore e pergole bioclimatiche a 
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Prețuri & Ghid', en:'Prices & Guide', de:'Preise & Leitfaden', fr:'Prix & Guide', es:'Precios & Guía', it:'Prezzi & Guida' },
@@ -14976,7 +14834,7 @@ Trimite-ne dimensiunile ferestrelor și preferința de profil. Răspundem în **
 
 ### Cât costă termopanele Salamander în București în 2026?
 
-Pentru profilul GreenEvolution 76 (5 camere, Uw 0,73), prețul montat e 150-220 EUR/mp; pentru BluEvolution 92 (6 camere, Uw 0,70, nZEB) e 200-300 EUR/mp; iar pentru BluEvolution 92 ALU placat aluminiu, 250-380 EUR/mp. Toate prețurile sunt orientative, condiții martie 2026.
+Pentru profilul GreenEvolution 76 (5 camere, Uw 0,73), prețul montat e 150-220 EUR/mp; pentru BluEvolution 92 (6 camere, Uw 0,70, nZEB) e 200-285 EUR/mp; iar pentru BluEvolution 92 ALU placat aluminiu, 250-350 EUR/mp. Toate prețurile sunt orientative, condiții martie 2026.
 
 ### Care e diferența de preț între GreenEvolution 76 și BluEvolution 92?
 
@@ -15035,7 +14893,7 @@ Neofort BIZ furnizează termopane Salamander pe toate profilele, în București 
 
 ### How much do Salamander windows cost in Bucharest in 2026?
 
-For the GreenEvolution 76 profile (5 chambers, Uw 0.73), the fitted price is 150-220 EUR/m²; for BluEvolution 92 (6 chambers, Uw 0.70, nZEB) it is 200-300 EUR/m²; and for BluEvolution 92 ALU with aluminium cladding, 250-380 EUR/m². All prices are indicative, March 2026 conditions.
+For the GreenEvolution 76 profile (5 chambers, Uw 0.73), the fitted price is 150-220 EUR/m²; for BluEvolution 92 (6 chambers, Uw 0.70, nZEB) it is 200-285 EUR/m²; and for BluEvolution 92 ALU with aluminium cladding, 250-350 EUR/m². All prices are indicative, March 2026 conditions.
 
 ### What is the price difference between GreenEvolution 76 and BluEvolution 92?
 
@@ -15081,7 +14939,7 @@ Neofort BIZ supplies Salamander systems for houses, apartments and export projec
 
 ### Was kosten Salamander-Fenster in Bukarest 2026?
 
-Für das Profil GreenEvolution 76 (5 Kammern, Uw 0,73) liegt der Montagepreis bei 150-220 EUR/m²; für BluEvolution 92 (6 Kammern, Uw 0,70, nZEB) bei 200-300 EUR/m²; und für BluEvolution 92 ALU mit Aluminiumverkleidung bei 250-380 EUR/m². Alle Preise sind Richtwerte, Stand März 2026.
+Für das Profil GreenEvolution 76 (5 Kammern, Uw 0,73) liegt der Montagepreis bei 150-220 EUR/m²; für BluEvolution 92 (6 Kammern, Uw 0,70, nZEB) bei 200-285 EUR/m²; und für BluEvolution 92 ALU mit Aluminiumverkleidung bei 250-350 EUR/m². Alle Preise sind Richtwerte, Stand März 2026.
 
 ### Was ist der Preisunterschied zwischen GreenEvolution 76 und BluEvolution 92?
 
@@ -15126,7 +14984,7 @@ Neofort BIZ liefert Salamander-Systeme für Häuser, Wohnungen und Exportprojekt
 
 ### Combien coûtent les fenêtres Salamander à Bucarest en 2026 ?
 
-Pour le profilé GreenEvolution 76 (5 chambres, Uw 0,73), le prix posé est de 150-220 EUR/m² ; pour BluEvolution 92 (6 chambres, Uw 0,70, nZEB) de 200-300 EUR/m² ; et pour BluEvolution 92 ALU avec habillage aluminium, 250-380 EUR/m². Tous les prix sont indicatifs, conditions mars 2026.
+Pour le profilé GreenEvolution 76 (5 chambres, Uw 0,73), le prix posé est de 150-220 EUR/m² ; pour BluEvolution 92 (6 chambres, Uw 0,70, nZEB) de 200-285 EUR/m² ; et pour BluEvolution 92 ALU avec habillage aluminium, 250-350 EUR/m². Tous les prix sont indicatifs, conditions mars 2026.
 
 ### Quelle est la différence de prix entre GreenEvolution 76 et BluEvolution 92 ?
 
@@ -15171,7 +15029,7 @@ Neofort BIZ fournit des systèmes Salamander pour maisons, appartements et proje
 
 ### ¿Cuánto cuestan las ventanas Salamander en Bucarest en 2026?
 
-Para el perfil GreenEvolution 76 (5 cámaras, Uw 0,73), el precio instalado es 150-220 EUR/m²; para BluEvolution 92 (6 cámaras, Uw 0,70, nZEB) es 200-300 EUR/m²; y para BluEvolution 92 ALU con revestimiento de aluminio, 250-380 EUR/m². Todos los precios son orientativos, condiciones marzo 2026.
+Para el perfil GreenEvolution 76 (5 cámaras, Uw 0,73), el precio instalado es 150-220 EUR/m²; para BluEvolution 92 (6 cámaras, Uw 0,70, nZEB) es 200-285 EUR/m²; y para BluEvolution 92 ALU con revestimiento de aluminio, 250-350 EUR/m². Todos los precios son orientativos, condiciones marzo 2026.
 
 ### ¿Cuál es la diferencia de precio entre GreenEvolution 76 y BluEvolution 92?
 
@@ -15216,7 +15074,7 @@ Neofort BIZ suministra sistemas Salamander para casas, pisos y proyectos de expo
 
 ### Quanto costano le finestre Salamander a Bucarest nel 2026?
 
-Per il profilo GreenEvolution 76 (5 camere, Uw 0,73), il prezzo posato è 150-220 EUR/m²; per BluEvolution 92 (6 camere, Uw 0,70, nZEB) è 200-300 EUR/m²; e per BluEvolution 92 ALU con rivestimento in alluminio, 250-380 EUR/m². Tutti i prezzi sono indicativi, condizioni marzo 2026.
+Per il profilo GreenEvolution 76 (5 camere, Uw 0,73), il prezzo posato è 150-220 EUR/m²; per BluEvolution 92 (6 camere, Uw 0,70, nZEB) è 200-285 EUR/m²; e per BluEvolution 92 ALU con rivestimento in alluminio, 250-350 EUR/m². Tutti i prezzi sono indicativi, condizioni marzo 2026.
 
 ### Qual è la differenza di prezzo tra GreenEvolution 76 e BluEvolution 92?
 
@@ -15256,14 +15114,7 @@ Neofort BIZ fornisce sistemi Salamander per case, appartamenti e progetti export
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Prețuri & Comparație', en:'Prices & Comparison', de:'Preise & Vergleich', fr:'Prix & Comparaison', es:'Precios & Comparación', it:'Prezzi & Confronto' },
@@ -15650,14 +15501,7 @@ Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilf
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Smart Home & Automatizare', en:'Smart Home & Automation', de:'Smart Home & Automatisierung', fr:'Maison Intelligente & Automatisation', es:'Casa Inteligente & Automatización', it:'Casa Intelligente & Automazione' },
@@ -16694,14 +16538,7 @@ Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfo
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Pereți Cortină & Birouri', en:'Curtain Wall & Offices', de:'Vorhangfassade & Büros', fr:'Mur Rideau & Bureaux', es:'Muro Cortina & Oficinas', it:'Parete Cortina & Uffici' },
@@ -17850,14 +17687,7 @@ Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilf
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Renovare & Ghid', en:'Renovation & Guide', de:'Renovierung & Leitfaden', fr:'Rénovation & Guide', es:'Renovación & Guía', it:'Ristrutturazione & Guida' },
@@ -18416,14 +18246,7 @@ Neofort BIZ sostituisce vecchie finestre in appartamenti e case a Bucarest e Ilf
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Case Individuale & Export', en:'Individual Houses & Export', de:'Einfamilienhäuser & Export', fr:'Maisons Individuelles & Export', es:'Casas Individuales & Exportación', it:'Case Individuali & Export' },
@@ -19402,14 +19225,7 @@ Neofort BIZ fornisce serramenti Salamander per case e ville, con posa a Bucarest
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Construcții Noi & Blocuri', en:'New Builds & Residential Blocks', de:'Neubauten & Wohnblöcke', fr:'Constructions Neuves & Immeubles', es:'Obra Nueva & Bloques Residenciales', it:'Nuove Costruzioni & Condomini' },
@@ -20208,14 +20024,7 @@ Neofort BIZ fornisce e posa serramenti in alluminio per edifici nuovi, con conse
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Case Noi & Smart Home', en:'New Houses & Smart Home', de:'Neubauten & Smart Home', fr:'Maisons Neuves & Maison Intelligente', es:'Casas Nuevas & Smart Home', it:'Case Nuove & Smart Home' },
@@ -20684,14 +20493,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Export & Case Munte', en:'Export & Mountain Houses', de:'Export & Berghäuser', fr:'Export & Maisons de Montagne', es:'Exportación & Casas de Montaña', it:'Export & Case di Montagna' },
@@ -21131,14 +20933,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Vitrine & Geamuri Mari', en:'Shopfronts & Large Glass', de:'Schaufenster & Großglas', fr:'Vitrines & Grand Verre', es:'Vitrinas & Vidrio Grande', it:'Vetrine & Vetro Grande' },
@@ -22057,14 +21852,7 @@ Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilf
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Montaj Specializat', en:'Specialised Installation', de:'Spezialmontage', fr:'Pose Spécialisée', es:'Instalación Especializada', it:'Posa Specializzata' },
@@ -23017,14 +22805,7 @@ Neofort BIZ installa vetrate fuori misura con robot a ventose a Bucarest e Ilfov
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'17 Martie 2026', en:'March 17, 2026', de:'17. März 2026', fr:'17 mars 2026', es:'17 de marzo de 2026', it:'17 marzo 2026' },
     category: { ro:'Lucrări București', en:'Bucharest Projects', de:'Bukarest Projekte', fr:'Projets Bucarest', es:'Proyectos Bucarest', it:'Progetti Bucarest' },
@@ -23848,14 +23629,7 @@ Neofort BIZ realizza facciate continue e facciate in vetro per edifici per uffic
     },
     date: '2026-03-21',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
     category: { ro:'Sisteme de Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:"Systèmes d\'Occultation", es:'Sistemas de Sombreado', it:'Sistemi di Oscuramento' },
@@ -24868,14 +24642,7 @@ Neofort BIZ installa sistemi ZipScreen con tessuti oscuranti e screen trasparent
     },
     date: '2026-03-21',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
     category: { ro:'Ghiduri & Sfaturi', en:'Guides & Tips', de:'Ratgeber & Tipps', fr:'Guides & Conseils', es:'Guías & Consejos', it:'Guide & Consigli' },
@@ -25465,14 +25232,7 @@ Neofort BIZ fornisce serramenti certificati nZEB e posa su tre piani di tenuta a
     },
     date: '2026-03-21',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
     category: { ro:'Export & Livrare', en:'Export & Delivery', de:'Export & Lieferung', fr:'Export & Livraison', es:'Exportación & Entrega', it:'Export & Consegna' },
@@ -25975,14 +25735,7 @@ Neofort BIZ fornisce sistemi Salamander per case, appartamenti e progetti export
     },
     date: '2026-03-21',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'21 Martie 2026', en:'March 21, 2026', de:'21. März 2026', fr:'21 mars 2026', es:'21 de marzo de 2026', it:'21 marzo 2026' },
     category: { ro:'Tâmplărie Aluminiu', en:'Aluminium Joinery', de:'Aluminiumtischler', fr:'Menuiserie Aluminium', es:'Carpintería Aluminio', it:'Infissi Alluminio' },
@@ -26480,14 +26233,7 @@ Neofort BIZ fornisce e posa porte in alluminio Alumil in tutta Bucarest e nell�
     },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
@@ -27104,14 +26850,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
     },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
@@ -27563,14 +27302,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
     },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
     category: { ro:'Proiecte realizate', en:'Completed Projects', de:'Realisierte Projekte', fr:'Projets réalisés', es:'Proyectos realizados', it:'Progetti realizzati' },
@@ -28472,14 +28204,7 @@ Neofort BIZ fornisce sistemi Salamander per case, appartamenti e progetti export
     },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     dateDisplay: { ro:'25 Martie 2026', en:'March 25, 2026', de:'25. März 2026', fr:'25 mars 2026', es:'25 de marzo de 2026', it:'25 marzo 2026' },
     category: { ro:'Ghid tehnic', en:'Technical Guide', de:'Technischer Leitfaden', fr:'Guide technique', es:'Guía técnica', it:'Guida tecnica' },
@@ -29416,14 +29141,7 @@ Neofort BIZ produce e installa porte d'ingresso in alluminio a taglio termico a 
     },
     date: '2026-02-10',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     image: {
       ro: '/blog/blog-somfy-rulouri-motoare.avif',
@@ -29748,14 +29466,7 @@ Neofort BIZ installa tapparelle esterne con motorizzazione Somfy a Bucarest e Il
     },
     date: '2026-01-15',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     image: {
       ro: '/blog/blog-somfy-pergole.avif',
@@ -30068,14 +29779,7 @@ Neofort BIZ installa e automatizza pergole bioclimatiche e tende con motori Somf
     },
     date: '2025-12-08',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     image: {
       ro: '/blog/blog-somfy-smart-home.avif',
@@ -30416,14 +30120,7 @@ Neofort BIZ integra tapparelle, veneziane e pergole in sistemi smart home TaHoma
     },
     date: '2026-05-22',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#0b1f3a',
     image: {
@@ -30961,14 +30658,7 @@ Neofort BIZ fornisce finestre PVC Salamander e alluminio Alumil con Uw a partire
     },
     date: '2026-05-27',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#360000',
     image: {
@@ -31549,14 +31239,7 @@ Neofort BIZ fornisce esclusivamente prodotti con marcatura CE e DoP completa. [R
     },
     date: '2026-06-02',
     author: 'Mihai Dănălache',
-    authorRole: {
-      ro: 'Consultant Tehnic Senior — 21 ani experiență',
-      en: 'Senior Technical Consultant — 21 years experience',
-      de: 'Leitender technischer Berater — 21 Jahre Erfahrung',
-      fr: "Consultant technique senior — 21 ans d'expérience",
-      es: 'Asesor técnico senior — 21 años de experiencia',
-      it: 'Consulente tecnico senior — 21 anni di esperienza',
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: '/team/mihai-danalache.avif',
     accentColor: '#18392a',
     image: {
@@ -32271,7 +31954,7 @@ Neofort BIZ installa finestre PVC Salamander con 5 anni di garanzia a Bucarest e
     },
     date: "2026-06-09",
     author: "Mihai Dănălache",
-    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorRole: AUTHOR_ROLE,
     authorPhoto: "/team/mihai-danalache.avif",
     accentColor: "#0d223c",
     image: {ro:"/blog/subventii-programe-ferestre-2026.avif",en:"/blog/subventii-programe-ferestre-2026.avif",de:"/blog/subventii-programe-ferestre-2026.avif",fr:"/blog/subventii-programe-ferestre-2026.avif",es:"/blog/subventii-programe-ferestre-2026.avif",it:"/blog/subventii-programe-ferestre-2026.avif"},
@@ -32714,7 +32397,7 @@ Neofort BIZ fornisce e installa serramenti termoisolanti in PVC Salamander e all
     },
     date: "2026-06-16",
     author: "Mihai Dănălache",
-    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorRole: AUTHOR_ROLE,
     authorPhoto: "/team/mihai-danalache.avif",
     accentColor: "#4b310f",
     image: {ro:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif",en:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif",de:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif",fr:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif",es:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif",it:"/blog/autorizatie-construire-schimbare-ferestre-2026.avif"},
@@ -33133,7 +32816,7 @@ Neofort BIZ installa serramenti in PVC Salamander e alluminio Alumil a Bucarest 
     },
     date: "2026-06-13",
     author: "Mihai Dănălache",
-    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorRole: AUTHOR_ROLE,
     authorPhoto: "/team/mihai-danalache.avif",
     accentColor: "#18392a",
     image: {ro:"/blog/certificat-energetic-cladire-ferestre.avif",en:"/blog/certificat-energetic-cladire-ferestre.avif",de:"/blog/certificat-energetic-cladire-ferestre.avif",fr:"/blog/certificat-energetic-cladire-ferestre.avif",es:"/blog/certificat-energetic-cladire-ferestre.avif",it:"/blog/certificat-energetic-cladire-ferestre.avif"},
@@ -33564,7 +33247,7 @@ Neofort BIZ fornisce e installa serramenti in PVC Salamander e alluminio Alumil 
     },
     date: "2026-06-29",
     author: "Mihai Dănălache",
-    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorRole: AUTHOR_ROLE,
     authorPhoto: "/team/mihai-danalache.avif",
     accentColor: "#5f1510",
     image: {ro:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif",en:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif",de:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif",fr:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif",es:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif",it:"/blog/schimbare-ferestre-bloc-acord-asociatie.avif"},
@@ -33965,7 +33648,7 @@ Neofort BIZ installa serramenti in PVC Salamander e alluminio Alumil in condomin
     },
     date: "2026-07-15",
     author: "Mihai Dănălache",
-    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorRole: AUTHOR_ROLE,
     authorPhoto: "/team/mihai-danalache.avif",
     accentColor: "#183d64",
     image: {ro:"/blog/de-ce-suiera-termopanele-vant.avif",en:"/blog/de-ce-suiera-termopanele-vant.avif",de:"/blog/de-ce-suiera-termopanele-vant.avif",fr:"/blog/de-ce-suiera-termopanele-vant.avif",es:"/blog/de-ce-suiera-termopanele-vant.avif",it:"/blog/de-ce-suiera-termopanele-vant.avif"},
@@ -34336,7 +34019,7 @@ Neofort BIZ installa e regola serramenti in PVC Salamander e alluminio Alumil a 
     },
     date: "2026-07-17",
     author: "Mihai Dănălache",
-    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorRole: AUTHOR_ROLE,
     authorPhoto: "/team/mihai-danalache.avif",
     accentColor: "#074733",
     image: {ro:"/blog/test-coala-hartie-termopan.avif",en:"/blog/test-coala-hartie-termopan.avif",de:"/blog/test-coala-hartie-termopan.avif",fr:"/blog/test-coala-hartie-termopan.avif",es:"/blog/test-coala-hartie-termopan.avif",it:"/blog/test-coala-hartie-termopan.avif"},
@@ -34779,7 +34462,7 @@ Neofort BIZ verifica, regola e risigilla serramenti in PVC Salamander e allumini
     },
     date: "2026-07-07",
     author: "Mihai Dănălache",
-    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorRole: AUTHOR_ROLE,
     authorPhoto: "/team/mihai-danalache.avif",
     accentColor: "#0d223e",
     image: {ro:"/blog/reglaj-feronerie-roto-iarna-vara.avif",en:"/blog/reglaj-feronerie-roto-iarna-vara.avif",de:"/blog/reglaj-feronerie-roto-iarna-vara.avif",fr:"/blog/reglaj-feronerie-roto-iarna-vara.avif",es:"/blog/reglaj-feronerie-roto-iarna-vara.avif",it:"/blog/reglaj-feronerie-roto-iarna-vara.avif"},
@@ -35222,7 +34905,7 @@ Neofort BIZ regola e fa la manutenzione della ferramenta Roto su serramenti in P
     },
     date: "2026-06-22",
     author: "Mihai Dănălache",
-    authorRole: {ro:"Consultant Tehnic Senior — 21 ani experiență",en:"Senior Technical Consultant — 21 years experience",de:"Leitender technischer Berater — 21 Jahre Erfahrung",fr:"Consultant technique senior — 21 ans d’expérience",es:"Asesor técnico senior — 21 años de experiencia",it:"Consulente tecnico senior — 21 anni di esperienza"},
+    authorRole: AUTHOR_ROLE,
     authorPhoto: "/team/mihai-danalache.avif",
     accentColor: "#0f3b4d",
     image: {ro:"/blog/garnituri-uzate-cand-inlocuiesti.avif",en:"/blog/garnituri-uzate-cand-inlocuiesti.avif",de:"/blog/garnituri-uzate-cand-inlocuiesti.avif",fr:"/blog/garnituri-uzate-cand-inlocuiesti.avif",es:"/blog/garnituri-uzate-cand-inlocuiesti.avif",it:"/blog/garnituri-uzate-cand-inlocuiesti.avif"},
@@ -35624,14 +35307,7 @@ Neofort BIZ sostituisce guarnizioni e fa la manutenzione di serramenti in PVC Sa
     },
     date: "2026-08-10",
     author: "Mihai Dănălache",
-    authorRole: {
-      ro: "Consultant Tehnic Senior — 21 ani experiență",
-      en: "Senior Technical Consultant — 21 years experience",
-      de: "Leitender technischer Berater — 21 Jahre Erfahrung",
-      fr: "Consultant technique senior — 21 ans d’expérience",
-      es: "Asesor técnico senior — 21 años de experiencia",
-      it: "Consulente tecnico senior — 21 anni di esperienza",
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: "/team/mihai-danalache.avif",
     accentColor: "#114422",
     image: {
@@ -36165,14 +35841,7 @@ Neofort BIZ fornisce e posa serramenti in PVC Salamander e alluminio Alumil a Bu
     },
     date: "2026-08-20",
     author: "Mihai Dănălache",
-    authorRole: {
-      ro: "Consultant Tehnic Senior — 21 ani experiență",
-      en: "Senior Technical Consultant — 21 years experience",
-      de: "Leitender technischer Berater — 21 Jahre Erfahrung",
-      fr: "Consultant technique senior — 21 ans d’expérience",
-      es: "Asesor técnico senior — 21 años de experiencia",
-      it: "Consulente tecnico senior — 21 anni di esperienza",
-    },
+    authorRole: AUTHOR_ROLE,
     authorPhoto: "/team/mihai-danalache.avif",
     accentColor: "#753800",
     image: {

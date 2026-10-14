@@ -1,6 +1,8 @@
 import { Link } from '../../../i18n/navigation';
 
 import { BASE, LOCALES } from '../../../lib/constants.js';
+import FaqAccordion from '../../../components/FaqAccordion';
+import { hubFaq, HUB_FAQ_LABEL } from '../../../data/hubFaq.js';
 const SLUGS = { ro:'accesorii', en:'accessories', de:'zubehoer', fr:'accessoires', es:'accesorios', it:'accessori' };
 
 const CTA_LABELS = {
@@ -91,10 +93,27 @@ export default async function AccesoriiPage({ params }) {
   };
 
 
+  // v277: FAQ de categorie. Pana acum doar tamplarie-pvc si tamplarie-aluminiu
+  // aveau FAQPage; hub-ul asta nu avea nici schema, nici acordeon.
+  const faqItems = hubFaq('accesorii', locale);
+  const faqLabel = HUB_FAQ_LABEL[locale] || HUB_FAQ_LABEL.ro;
+  const faqSchema = faqItems.length ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    '@id': `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}#faq`,
+    'inLanguage': locale,
+    'mainEntity': faqItems.map(([q, a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a },
+    })),
+  } : null;
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>}
       <style>{`
         .acc-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; background:#fff; }
         .acc-card { background:#fff; display:flex; flex-direction:column; border:1px solid #e8e8e4; text-decoration:none; color:inherit; }
@@ -156,6 +175,15 @@ export default async function AccesoriiPage({ params }) {
           </div>
         </div>
       </section>
+
+      {/* ── FAQ ── */}
+      {faqItems.length > 0 && (
+        <section className="section-base" style={{paddingTop:0}}>
+          <div className="container mx-auto px-6 max-w-3xl">
+            <FaqAccordion items={faqItems} title={faqLabel} />
+          </div>
+        </section>
+      )}
 
       {/* ── Linkuri interne ── */}
       <section style={{padding:'36px 0',borderTop:'1px solid #e5e7eb',background:'#f7f7f5'}}>

@@ -493,7 +493,7 @@ export default async function HomePage({ params }) {
                 height="160"
                 fetchpriority="high"
                 decoding="async"
-                style={{width:'100%',height:'160px',objectFit:'cover',display:'block'}}
+                style={{width:'100%',height:'160px',objectFit:'cover',objectPosition:'center',display:'block'}}
               />
               <div style={{padding:'28px 36px 36px',display:'flex',flexDirection:'column',flex:1}}>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#454545',marginBottom:'14px',display:'block'}}>{c.hero_pvc_tag}</span>
@@ -512,7 +512,7 @@ export default async function HomePage({ params }) {
                 fetchpriority="low"
                 loading="lazy"
                 decoding="async"
-                style={{width:'100%',height:'160px',objectFit:'cover',display:'block'}}
+                style={{width:'100%',height:'160px',objectFit:'cover',objectPosition:'center',display:'block'}}
               />
               <div style={{padding:'28px 36px 36px',display:'flex',flexDirection:'column',flex:1}}>
                 <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:400,fontSize:'0.6825rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#454545',marginBottom:'14px',display:'block'}}>{c.hero_al_tag}</span>

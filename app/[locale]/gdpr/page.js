@@ -130,6 +130,15 @@ export async function generateMetadata({ params }) {
       canonical: `${BASE}/${locale}/${slug}`,
       languages: { ...Object.fromEntries(Object.entries(SLUGS_GDPR).map(([l,s])=>[l,`${BASE}/${l}/${s}`])), 'x-default': `${BASE}/ro/gdpr` },
     },
+    // v277: singura pagina din site fara openGraph, si fara twitter. Aliniata la /cookies.
+    openGraph: {
+      type: 'website',
+      url: `${BASE}/${locale}/${slug}`,
+      siteName: 'Neofort BIZ',
+      title: ui.title_meta,
+      description: ui.desc_meta,
+    },
+    twitter: { card: 'summary', site: '@NeofortBIZ', title: ui.title_meta, description: ui.desc_meta },
   };
 }
 

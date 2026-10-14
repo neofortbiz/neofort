@@ -136,6 +136,8 @@ export async function generateMetadata({ params }) {
       title: ui.title_meta,
       description: ui.desc_meta,
     },
+    // v277: lipsea blocul twitter. Pagina e noindex, dar linkul circula din footer.
+    twitter: { card: 'summary', site: '@NeofortBIZ', title: ui.title_meta, description: ui.desc_meta },
   };
 }
 

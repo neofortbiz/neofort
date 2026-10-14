@@ -113,6 +113,77 @@ try {
   warn(`nu am putut verifica PRODUCT_URL: ${e.message}`);
 }
 
+// 11. v277: vechimea firmei. 336 din cele ~440 de aparitii vin acum din
+// lib/companyAge.js si se recalculeaza la build. Restul sunt incastrate in fraze
+// si nu pot fi centralizate fara sa rescriu textele.
+// Garda verifica DOAR frazele care vorbesc despre firma (contin "Neofort").
+// Nu atinge vechimea individuala a membrilor echipei (19, 20 ani) si nici
+// duratele de viata ale produselor ("15-20 ani", "20-25 ani"), care sunt alte lucruri.
+{
+  const FOUNDED = 2005;
+  const expected = new Date().getFullYear() - FOUNDED;
+  const RX = /\b(\d{2}) (ani|years|Jahre|ans|años|anni)\b/;
+  const scan = [
+    'data/blog.js', 'public/llms.txt',
+    'app/[locale]/page.js', 'app/[locale]/despre/page.js', 'app/[locale]/servicii/page.js',
+    'app/[locale]/tamplarie-pvc/page.js', 'app/[locale]/tamplarie-pvc/bucuresti/page.js',
+    'app/[locale]/tamplarie-aluminiu/page.js', 'app/[locale]/tamplarie-aluminiu/bucuresti/page.js',
+  ];
+  let stale = 0, ok = 0;
+  scan.forEach(rel => {
+    const abs = path.join(ROOT, rel);
+    if (!fs.existsSync(abs)) return;
+    const txt = fs.readFileSync(abs, 'utf8');
+    const seen = new Set();
+    txt.split(/[.\n]/).forEach(sentence => {
+      if (!/Neofort/i.test(sentence)) return;      // doar afirmatii despre firma
+      const m = sentence.match(RX);
+      if (!m) return;
+      const n = parseInt(m[1], 10);
+      if (n < 15 || n > 40) return;
+      if (n === expected) { ok++; return; }
+      const key = rel + '|' + n;
+      if (!seen.has(key)) { seen.add(key); stale++;
+        err(`${rel}: "${n} ${m[2]}" intr-o fraza despre Neofort, dar vechimea din ${FOUNDED} e ${expected} — actualizeaza textul`);
+      }
+    });
+  });
+  console.log(`  Vechime firma: ${expected} ani (din ${FOUNDED}) · ${ok} mentiuni corecte, ${stale} invechite`);
+}
+
+// ── 12. FAQ de categorie: cele 5 hub-uri trebuie sa aiba fiecare 5 intrebari × 6 limbi ──
+// Motiv (v277): tamplarie-pvc si tamplarie-aluminiu aveau FAQPage, celelalte 3 hub-uri nu —
+// asimetrie invizibila pana la un audit manual. Acum sursa e data/hubFaq.js si garda de aici
+// pica daca cineva adauga un hub fara FAQ, sterge o limba sau lasa un raspuns gol.
+try {
+  const hubSrc = fs.readFileSync(path.join(ROOT, 'data/hubFaq.js'), 'utf8');
+  const HUBS = ['tamplarie-pvc', 'tamplarie-aluminiu', 'umbrire', 'accesorii', 'sisteme-nzeb'];
+  const LOCS = ['ro', 'en', 'de', 'fr', 'es', 'it'];
+  let pairs = 0;
+  HUBS.forEach(h => {
+    // decupez blocul hub-ului: de la "'<hub>': {" pana la urmatorul hub sau final
+    const start = hubSrc.indexOf(`'${h}': {`);
+    if (start === -1) { err(`HUB_FAQ: lipseste hub-ul '${h}' din data/hubFaq.js`); return; }
+    const nextIdx = HUBS.map(o => hubSrc.indexOf(`'${o}': {`)).filter(i => i > start);
+    const block = hubSrc.slice(start, nextIdx.length ? Math.min(...nextIdx) : hubSrc.indexOf('export const HUB_FAQ_LABEL'));
+    LOCS.forEach(l => {
+      const lm = block.match(new RegExp(`\\n    ${l}: \\[([\\s\\S]*?)\\n    \\],`));
+      if (!lm) { err(`HUB_FAQ[${h}]: lipseste limba '${l}'`); return; }
+      const n = (lm[1].match(/\n      \[`/g) || []).length;
+      if (n !== 5) err(`HUB_FAQ[${h}][${l}]: ${n} intrebari, trebuie exact 5`);
+      pairs += n;
+    });
+    // fiecare pagina de hub trebuie sa si foloseasca sursa comuna
+    const pageSrc = fs.readFileSync(path.join(ROOT, `app/[locale]/${h}/page.js`), 'utf8');
+    if (!pageSrc.includes(`hubFaq('${h}'`)) err(`app/[locale]/${h}/page.js nu citeste din data/hubFaq.js`);
+    if (!pageSrc.includes('<FaqAccordion')) err(`app/[locale]/${h}/page.js nu randeaza acordeonul FAQ`);
+    if (!pageSrc.includes('faqSchema')) err(`app/[locale]/${h}/page.js nu emite FAQPage in JSON-LD`);
+  });
+  console.log(`  FAQ hub-uri: ${HUBS.length} hub-uri × 6 limbi × 5 intrebari = ${pairs} perechi`);
+} catch (e) {
+  warn(`nu am putut verifica HUB_FAQ: ${e.message}`);
+}
+
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }
 console.log(errors === 0 && warnings === 0 ? 'Totul perfect. Safe de commit.\n' : 'Fara erori blocante. Safe de commit (verifica avertismentele).\n');

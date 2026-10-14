@@ -37,20 +37,30 @@ const UI = {
       {
         "name": "Zipscreen exterior",
         "desc": "Rulou exterior cu ghidaje laterale — rezistenta la vant pana la clasa 5 Beaufort. Ideal pentru terase si ferestre mari. Permite ventilatie cu ruloul coborat.",
+        "price": "800–2.500 lei (100×200 cm)",
         "link": "/umbrire/zipscreen",
         "cta": "Detalii Zipscreen"
       },
       {
         "name": "Raffstore — jaluzele exterioare",
         "desc": "Jaluzele cu lamele din aluminiu orientabile — control fin al luminii si protectie solara. Uf solar pana la 90%. Motorizare Somfy inclusa.",
+        "price": "600–1.800 lei (100×150 cm)",
         "link": "/umbrire/jaluzele-venetiene-raffstore",
         "cta": "Detalii Raffstore"
       },
       {
         "name": "Rulouri exterioare aluminiu",
         "desc": "Rulouri cu lamele din aluminiu umplute cu spuma poliuretanica — izolare termica si fonica, securitate. Caseta integrala sau aplicata.",
+        "price": "500–850 lei (100×150 cm)",
         "link": "/umbrire/rulouri-exterioare-aluminiu",
         "cta": "Detalii Rulouri"
+      },
+      {
+        "name": "Pergole automate Somfy",
+        "desc": "Pergola cu panza retractabila impermeabila, structura din aluminiu si inox. Motor Somfy Pergola RGS io cu senzor de vant Sunis — retragere automata peste 50 km/h.",
+        "price": "11.000–18.000 lei (3×4 m)",
+        "link": "/umbrire/pergole-automate-somfy",
+        "cta": "Detalii pergole Somfy"
       }
     ],
     "h2_cta": "Solicitati oferta personalizata",
@@ -79,20 +89,30 @@ const UI = {
       {
         "name": "Zipscreen Exterior",
         "desc": "Exterior blind with side channels — wind resistance up to Beaufort class 5. Ideal for terraces and large windows. Allows ventilation with blind lowered.",
+        "price": "800–2,500 RON (100×200 cm)",
         "link": "/shading-systems/zipscreen-exterior-blind",
         "cta": "Zipscreen Details"
       },
       {
         "name": "Raffstore — Exterior Venetian Blinds",
         "desc": "Adjustable aluminium slat blinds — fine light control and solar protection. Up to 90% solar factor. Somfy motorisation included.",
+        "price": "600–1,800 RON (100×150 cm)",
         "link": "/shading-systems/raffstore-venetian-blinds",
         "cta": "Raffstore Details"
       },
       {
         "name": "Aluminium Roller Shutters",
         "desc": "Shutters with polyurethane foam-filled aluminium slats — thermal and acoustic insulation, security. Integral or surface-mounted casing.",
+        "price": "500–850 RON (100×150 cm)",
         "link": "/shading-systems/aluminium-external-roller-shutters",
         "cta": "Roller Shutter Details"
+      },
+      {
+        "name": "Somfy Automatic Pergolas",
+        "desc": "Pergola with retractable waterproof canvas, aluminium and stainless steel structure. Somfy Pergola RGS io motor with Sunis wind sensor — automatic retraction above 50 km/h.",
+        "price": "11,000–18,000 RON (3×4 m)",
+        "link": "/shading-systems/somfy-automatic-pergolas",
+        "cta": "Somfy pergola details"
       }
     ],
     "h2_cta": "Request a Personalised Quote",
@@ -121,20 +141,30 @@ const UI = {
       {
         "name": "Zipscreen Aussenrollo",
         "desc": "Aussenrollo mit Seitenfuhrungen — Windwiderstand bis Beaufort-Klasse 5. Ideal fur Terrassen und grosse Fenster.",
+        "price": "800–2.500 RON (100×200 cm)",
         "link": "/beschattungssysteme/zipscreen-aussenrollo",
         "cta": "Zipscreen Details"
       },
       {
         "name": "Raffstore Aussenjalousien",
         "desc": "Verstellbare Aluminium-Lamellenjalousien — feiner Lichtsteuerung und Sonnenschutz. Bis 90% Sonnenschutzfaktor.",
+        "price": "600–1.800 RON (100×150 cm)",
         "link": "/beschattungssysteme/raffstore-aussenjalousien",
         "cta": "Raffstore Details"
       },
       {
         "name": "Aluminium Aussenrollladen",
         "desc": "Rolladen mit PU-schaumgefullten Aluminiumlamellen — Warme- und Schalldammung, Sicherheit.",
+        "price": "500–850 RON (100×150 cm)",
         "link": "/beschattungssysteme/aluminium-aussenrollladen",
         "cta": "Rollladen Details"
+      },
+      {
+        "name": "Somfy Automatische Pergolen",
+        "desc": "Pergola mit wasserdichtem Rolltuch, Struktur aus Aluminium und Edelstahl. Somfy Pergola RGS io Motor mit Sunis-Windsensor — automatischer Einzug ab 50 km/h.",
+        "price": "11.000–18.000 RON (3×4 m)",
+        "link": "/beschattungssysteme/somfy-automatische-pergolen",
+        "cta": "Details Somfy Pergolen"
       }
     ],
     "h2_cta": "Personalisiertes Angebot anfordern",
@@ -163,20 +193,30 @@ const UI = {
       {
         "name": "Store Zipscreen exterieur",
         "desc": "Store banne avec glissieres laterales — resistance au vent jusqu'a la classe 5 Beaufort. Ideal pour terrasses et grandes fenetres.",
+        "price": "800–2.500 RON (100×200 cm)",
         "link": "/systemes-occultation/zipscreen-store-exterieur",
         "cta": "Details Zipscreen"
       },
       {
         "name": "Raffstore — Stores venitiens",
         "desc": "Stores a lames aluminium orientables — controle fin de la lumiere et protection solaire. Facteur solaire jusqu'a 90%.",
+        "price": "600–1.800 RON (100×150 cm)",
         "link": "/systemes-occultation/stores-venitiens-raffstore",
         "cta": "Details Raffstore"
       },
       {
         "name": "Volets roulants aluminium",
         "desc": "Volets a lames aluminium remplies de mousse polyurethane — isolation thermique et acoustique, securite.",
+        "price": "500–850 RON (100×150 cm)",
         "link": "/systemes-occultation/volets-roulants-aluminium-exterieurs",
         "cta": "Details Volets roulants"
+      },
+      {
+        "name": "Pergolas automatiques Somfy",
+        "desc": "Pergola a toile retractable impermeable, structure aluminium et inox. Moteur Somfy Pergola RGS io avec capteur de vent Sunis — repli automatique au-dela de 50 km/h.",
+        "price": "11.000–18.000 RON (3×4 m)",
+        "link": "/systemes-occultation/pergolas-automatiques-somfy",
+        "cta": "Details pergolas Somfy"
       }
     ],
     "h2_cta": "Demander un devis personnalise",
@@ -205,20 +245,30 @@ const UI = {
       {
         "name": "Toldo Zipscreen exterior",
         "desc": "Toldo exterior con guias laterales — resistencia al viento hasta clase 5 Beaufort. Ideal para terrazas y ventanas grandes.",
+        "price": "800–2.500 RON (100×200 cm)",
         "link": "/sistemas-sombreado/zipscreen-toldo-exterior",
         "cta": "Detalles Zipscreen"
       },
       {
         "name": "Raffstore — Persianas venecianas",
         "desc": "Persianas de laminas de aluminio orientables — control fino de la luz y proteccion solar. Factor solar hasta el 90%.",
+        "price": "600–1.800 RON (100×150 cm)",
         "link": "/sistemas-sombreado/persianas-venecianas-raffstore",
         "cta": "Detalles Raffstore"
       },
       {
         "name": "Persianas de aluminio exteriores",
         "desc": "Persianas con laminas de aluminio rellenas de espuma de PU — aislamiento termico y acustico, seguridad.",
+        "price": "500–850 RON (100×150 cm)",
         "link": "/sistemas-sombreado/persianas-exteriores-aluminio",
         "cta": "Detalles Persianas"
+      },
+      {
+        "name": "Pergolas automaticas Somfy",
+        "desc": "Pergola con lona retractil impermeable, estructura de aluminio e inox. Motor Somfy Pergola RGS io con sensor de viento Sunis — recogida automatica por encima de 50 km/h.",
+        "price": "11.000–18.000 RON (3×4 m)",
+        "link": "/sistemas-sombreado/pergolas-automaticas-somfy",
+        "cta": "Detalles pergolas Somfy"
       }
     ],
     "h2_cta": "Solicitar presupuesto personalizado",
@@ -247,20 +297,30 @@ const UI = {
       {
         "name": "Tenda Zipscreen esterna",
         "desc": "Tenda esterna con guide laterali — resistenza al vento fino alla classe 5 Beaufort. Ideale per terrazze e grandi finestre.",
+        "price": "800–2.500 RON (100×200 cm)",
         "link": "/sistemi-oscuramento/zipscreen-tenda-esterna",
         "cta": "Dettagli Zipscreen"
       },
       {
         "name": "Raffstore — Veneziane esterne",
         "desc": "Veneziane con lamelle in alluminio orientabili — controllo fine della luce e protezione solare. Fattore solare fino al 90%.",
+        "price": "600–1.800 RON (100×150 cm)",
         "link": "/sistemi-oscuramento/veneziane-raffstore",
         "cta": "Dettagli Raffstore"
       },
       {
         "name": "Tapparelle esterne in alluminio",
         "desc": "Tapparelle con lamelle in alluminio riempite di schiuma PU — isolamento termico e acustico, sicurezza.",
+        "price": "500–850 RON (100×150 cm)",
         "link": "/sistemi-oscuramento/tapparelle-esterne-alluminio",
         "cta": "Dettagli Tapparelle"
+      },
+      {
+        "name": "Pergole automatiche Somfy",
+        "desc": "Pergola con telo retrattile impermeabile, struttura in alluminio e inox. Motore Somfy Pergola RGS io con sensore vento Sunis — rientro automatico oltre 50 km/h.",
+        "price": "11.000–18.000 RON (3×4 m)",
+        "link": "/sistemi-oscuramento/pergole-automatiche-somfy",
+        "cta": "Dettagli pergole Somfy"
       }
     ],
     "h2_cta": "Richiedi un preventivo personalizzato",
@@ -405,6 +465,9 @@ export default async function UmbrirePreturiPage({ params }) {
             <div key={i} style={{ border: '1px solid #e8e8e4', padding: '24px', background: '#fafaf8' }}>
               <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: '.9rem', letterSpacing: '.08em', textTransform: 'uppercase', color: '#15222e', marginBottom: '10px' }}>{prod.name}</div>
               <div style={{ fontSize: '.82rem', color: '#141414', lineHeight: 1.65, marginBottom: '16px' }}>{prod.desc}</div>
+              {prod.price && (
+                <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: '1.05rem', letterSpacing: '.03em', color: '#0b1f3a', marginBottom: '16px' }}>{prod.price}</div>
+              )}
               <Link href={`/${prod.link}`} style={{ fontFamily: 'Barlow Condensed,sans-serif', fontSize: '.72rem', letterSpacing: '.15em', textTransform: 'uppercase', color: '#2f1446', textDecoration: 'none', fontWeight: 600 }}>
                 {prod.cta} &rarr;
               </Link>

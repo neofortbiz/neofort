@@ -43,6 +43,8 @@ export async function generateMetadata({ params }) {
       type: 'website', title, description: desc, url: canonical,
       images: [{ url: `${BASE}/og/BLOG.jpg`, width: 1200, height: 630 }],
     },
+    // v277: lipsea blocul twitter; openGraph exista deja.
+    twitter: { card: 'summary_large_image', site: '@NeofortBIZ', title, description: desc, images: [{ url: `${BASE}/og/BLOG.jpg`, width: 1200, height: 630 }] },
     robots: { index: true, follow: true },
   };
 }

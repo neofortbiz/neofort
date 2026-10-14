@@ -2,6 +2,8 @@ import { Link } from '../../../i18n/navigation';
 import { getTranslations } from 'next-intl/server';
 
 import { BASE, LOCALES } from '../../../lib/constants.js';
+import FaqAccordion from '../../../components/FaqAccordion';
+import { hubFaq, HUB_FAQ_LABEL } from '../../../data/hubFaq.js';
 const SLUGS = { ro:'umbrire', en:'shading-systems', de:'beschattungssysteme', fr:'systemes-occultation', es:'sistemas-sombreado', it:'sistemi-oscuramento' };
 
 const CTA_LABELS = {
@@ -122,12 +124,29 @@ export default async function Page({ params }) {
   const pillarLabel = PILLAR_LABELS[locale] || PILLAR_LABELS.ro;
   const pillarCta = PILLAR_CTA[locale] || PILLAR_CTA.ro;
 
+  // v277: FAQ de categorie. Pana acum doar tamplarie-pvc si tamplarie-aluminiu
+  // aveau FAQPage; hub-ul asta nu avea nici schema, nici acordeon.
+  const faqItems = hubFaq('umbrire', locale);
+  const faqLabel = HUB_FAQ_LABEL[locale] || HUB_FAQ_LABEL.ro;
+  const faqSchema = faqItems.length ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    '@id': `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}#faq`,
+    'inLanguage': locale,
+    'mainEntity': faqItems.map(([q, a]) => ({
+      '@type': 'Question',
+      'name': q,
+      'acceptedAnswer': { '@type': 'Answer', 'text': a },
+    })),
+  } : null;
+
   return (
     <>
       {/* Preload LCP — prima imagine din grid produse */}
       <link rel="preload" as="image" href="/accessories/rulouri-exterioare.avif" type="image/avif" fetchPriority="high" />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>}
       <style>{`
         .acc-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:20px; background:#fff; }
         .acc-card { background:#fff; display:flex; flex-direction:column; border:1px solid #e8e8e4; text-decoration:none; color:inherit; }
@@ -207,6 +226,15 @@ export default async function Page({ params }) {
           </div>
         </div>
       </section>
+      {/* ── FAQ ── */}
+      {faqItems.length > 0 && (
+        <section className="section-base" style={{paddingTop:0}}>
+          <div className="container mx-auto px-6 max-w-3xl">
+            <FaqAccordion items={faqItems} title={faqLabel} />
+          </div>
+        </section>
+      )}
+
       {/* ── Linkuri interne ── */}
       <section style={{padding:'36px 0',borderTop:'1px solid #e5e7eb',background:'#f7f7f5'}}>
         <div className="container mx-auto px-6" style={{display:'flex',flexWrap:'wrap',gap:'10px',justifyContent:'center'}}>

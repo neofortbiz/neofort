@@ -299,6 +299,10 @@ export async function generateMetadata({ params }) {
       title: ui.h1, description: ui.sub,
       images: [{ url: `${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width: 1200, height: 630, alt: ui.h1, type:'image/jpeg' }],
     },
+    // v277: blocul twitter era lipit in schema JSON-LD de mai jos, nu aici.
+    // Next.js nu emitea niciun meta twitter, iar schema continea o proprietate
+    // care nu exista in vocabularul schema.org.
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.h1, description: ui.sub, images:[{ url:`${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width:1200, height:630 }] },
   };
 }
 
@@ -322,7 +326,6 @@ export default async function PreturiPvcPage({ params }) {
         { '@type': 'ListItem', position: 3, name: ui.h1, item: `${BASE}/${locale}/${slug}` },
       ],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:ui.h1, description:ui.sub, images:[`${BASE}/og/Tamplarie_PVC_Salamander.jpg`] },
   };
 
   const faqSchema = {

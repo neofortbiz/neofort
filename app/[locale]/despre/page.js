@@ -286,7 +286,7 @@ export default async function DesprePage({ params }) {
               <div key={i} style={{background:'#fff',border:'1px solid #e5e7eb',borderTop:`3px solid ${m.color}`,padding:'24px',display:'flex',flexDirection:'column',gap:'12px'}}>
                 <div style={{display:'flex',alignItems:'center',gap:'12px'}}>
                   <div style={{width:'56px',height:'56px',borderRadius:'50%',background:m.color,color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1.1rem',display:'flex',alignItems:'center',justifyContent:'center',flexShrink:0,overflow:'hidden'}}>
-                    <img src={m.photo} alt={m.name} width={56} height={56} loading="lazy" style={{width:'56px',height:'56px',objectFit:'cover'}}/>
+                    <img src={m.photo} alt={m.name} width={56} height={56} loading="lazy" style={{width:'56px',height:'56px',objectFit:'cover',objectPosition:'center top'}}/>
                   </div>
                   <div>
                     <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'0.9rem',color:'#151515',lineHeight:1.2}}>{m.name}</div>
