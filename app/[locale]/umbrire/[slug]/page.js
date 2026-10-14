@@ -463,9 +463,11 @@ export default async function UmbrireProductPage({ params }) {
 
   const faqItems = FAQ_DATA[canonical]?.[locale] || FAQ_DATA[canonical]?.ro || [];
 
+  const pageUrl = `${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}/${SLUG_MAP[canonical]?.[locale] || slug}`;
   const faqSchema = faqItems.length > 0 ? {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
+    '@id': `${pageUrl}#faq`,
     'mainEntity': faqItems.map(([q, a]) => ({
       '@type': 'Question',
       'name': q,
@@ -473,14 +475,31 @@ export default async function UmbrireProductPage({ params }) {
     })),
   } : null;
 
+  // v272 — identitate de entitate pentru Product (punctul 4 din audit).
+  // Pana acum Product nu avea @id, url, category sau inLanguage, iar `seller` era
+  // un nod Organization duplicat, fara @id — deci nu se lega de nodul LocalBusiness
+  // definit in app/[locale]/page.js la ${BASE}/#localbusiness, unde stau vatID, geo,
+  // areaServed, aggregateRating si knowsAbout. Un crawler LLM vedea doua firme fara
+  // legatura. Acum seller e o REFERINTA prin @id catre acel nod unic.
+  // isSimilarTo: celelalte produse din aceeasi familie — ancoreaza comparatiile LLM
+  const siblings = Object.keys(PRODUCTS).filter(k => k !== canonical).map(k => ({
+    '@type':'Product',
+    name: PRODUCTS[k].name[locale] || PRODUCTS[k].name.ro,
+    url: `${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}/${SLUG_MAP[k]?.[locale] || k}`,
+  }));
   const schema = {
     '@context':'https://schema.org', '@type':'Product',
+    '@id': `${pageUrl}#product`,
+    url: pageUrl,
+    category: cat,
+    inLanguage: locale,
     name, description: seotxt, image: `${BASE}${product.img}`,
     brand: { '@type':'Brand', name: (PRODUCT_BRAND[canonical]?.brand || 'Neofort BIZ') },
     ...(PRODUCT_BRAND[canonical] ? { manufacturer: { '@type':'Organization', name: PRODUCT_BRAND[canonical].manufacturer, addressCountry: PRODUCT_BRAND[canonical].country } } : {}),
-    seller: { '@type':'Organization', name:'Neofort BIZ SRL', url:BASE },
+    seller: { '@id': `${BASE}/#localbusiness` },
 
     additionalProperty: specs.map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
+    isSimilarTo: siblings,
   };
 
   return (
@@ -490,6 +509,7 @@ export default async function UmbrireProductPage({ params }) {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         '@context':'https://schema.org',
         '@type':'BreadcrumbList',
+    '@id': `${pageUrl}#breadcrumb`,
         'itemListElement':[
           {'@type':'ListItem','position':1,'name':'Neofort BIZ','item':BASE},
           {'@type':'ListItem','position':2,'name':bpLabel,'item':`${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}`},

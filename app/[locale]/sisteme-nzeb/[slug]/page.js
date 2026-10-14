@@ -393,13 +393,31 @@ export default async function NzebProductPage({ params }) {
   const bpLabel = product.breadcrumb_parent[locale] || product.breadcrumb_parent.ro;
   const c       = product.color;
 
+  // v272 — identitate de entitate pentru Product (punctul 4 din audit).
+  // Pana acum Product nu avea @id, url, category sau inLanguage, iar `seller` era
+  // un nod Organization duplicat, fara @id — deci nu se lega de nodul LocalBusiness
+  // definit in app/[locale]/page.js la ${BASE}/#localbusiness, unde stau vatID, geo,
+  // areaServed, aggregateRating si knowsAbout. Un crawler LLM vedea doua firme fara
+  // legatura. Acum seller e o REFERINTA prin @id catre acel nod unic.
+  const pageUrl = `${BASE}/${locale}/${(NZEB_SEG[locale]||'sisteme-nzeb')}/${SLUG_MAP[canonical]?.[locale] || slug}`;
+  // isSimilarTo: celelalte produse din aceeasi familie — ancoreaza comparatiile LLM
+  const siblings = Object.keys(PRODUCTS).filter(k => k !== canonical).map(k => ({
+    '@type':'Product',
+    name: PRODUCTS[k].name[locale] || PRODUCTS[k].name.ro,
+    url: `${BASE}/${locale}/${(NZEB_SEG[locale]||'sisteme-nzeb')}/${SLUG_MAP[k]?.[locale] || k}`,
+  }));
   const schema = {
     '@context':'https://schema.org', '@type':'Product',
+    '@id': `${pageUrl}#product`,
+    url: pageUrl,
+    category: cat,
+    inLanguage: locale,
     name, description: seotxt, image: `${BASE}${product.img}`,
     brand: { '@type':'Brand', name: (PRODUCT_BRAND[canonical]?.brand || 'Neofort BIZ') },
     ...(PRODUCT_BRAND[canonical] ? { manufacturer: { '@type':'Organization', name: PRODUCT_BRAND[canonical].manufacturer, addressCountry: PRODUCT_BRAND[canonical].country } } : {}),
-    seller: { '@type':'Organization', name:'Neofort BIZ SRL', url:BASE },
+    seller: { '@id': `${BASE}/#localbusiness` },
     additionalProperty: specs.map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
+    isSimilarTo: siblings,
   };
 
   // ── BreadcrumbList ──
@@ -408,6 +426,7 @@ export default async function NzebProductPage({ params }) {
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
+    '@id': `${pageUrl}#breadcrumb`,
     'itemListElement': [
       { '@type':'ListItem', 'position':1, 'name':'Neofort BIZ', 'item': BASE },
       { '@type':'ListItem', 'position':2, 'name': parentLabel_nzeb[locale]||'Neofort BIZ', 'item': `${BASE}/${locale}/${parentSeg_nzeb[locale]}` },
