@@ -475,6 +475,10 @@ export default async function UmbrireProductPage({ params }) {
     })),
   } : null;
 
+  // v273 — punctul 7 din audit: tabelul de performanta (perf) era vizibil pe pagina
+  // dar nu intra deloc in structured data. Acum intra, dedus dupa nume: ce exista
+  // deja in specs nu se repeta, iar la nume comun cu valoare diferita castiga specs.
+  const perfExtra = perf.filter(([pn]) => !specs.some(([sn]) => sn === pn));
   // v272 — identitate de entitate pentru Product (punctul 4 din audit).
   // Pana acum Product nu avea @id, url, category sau inLanguage, iar `seller` era
   // un nod Organization duplicat, fara @id — deci nu se lega de nodul LocalBusiness
@@ -498,7 +502,7 @@ export default async function UmbrireProductPage({ params }) {
     ...(PRODUCT_BRAND[canonical] ? { manufacturer: { '@type':'Organization', name: PRODUCT_BRAND[canonical].manufacturer, addressCountry: PRODUCT_BRAND[canonical].country } } : {}),
     seller: { '@id': `${BASE}/#localbusiness` },
 
-    additionalProperty: specs.map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
+    additionalProperty: [...specs, ...perfExtra].map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
     isSimilarTo: siblings,
   };
 
