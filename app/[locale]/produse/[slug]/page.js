@@ -393,7 +393,7 @@ const PRODUCTS = {
     breadcrumb_parent_href: '/tamplarie-pvc',
     name: {
       ro:'Profil PVC Salamander GreenEvolution 76 MD ROUND – 5 camere, design rotunjit',
-      en:'Salamander GreenEvolution 76 MD ROUND PVC Profile – 6 Chambers, Rounded Design',
+      en:'Salamander GreenEvolution 76 MD ROUND PVC Profile – 5 Chambers, Rounded Design',
       de:'Salamander GreenEvolution 76 MD ROUND Kunststoffprofil – 5 Kammern, Rundes Design',
       fr:'Profil PVC Salamander GreenEvolution 76 MD ROUND – 5 Chambres, Design Arrondi',
       es:'Perfil PVC Salamander GreenEvolution 76 MD ROUND – 5 Cámaras, Diseño Redondeado',
@@ -412,8 +412,8 @@ const PRODUCTS = {
       en:[['Construction depth','76 mm'],['Chambers','5 chambers'],['Visible height','118 mm'],['Profile type','Rounded (MD ROUND)'],['EPDM gaskets','2 EPDM gaskets'],['Reinforcement','Galv. steel 1.5 / 2.0 mm'],['Compatible glass','24 – 48 mm'],['Hardware','Roto NT / NX silver'],['Min. threshold','13 mm'],['Sash weight','Max. 180 kg'],['Profile class','A'],['Recyclability','100%'],],
       de:[['Bautiefe','76 mm'],['Kammern','5 Kammern'],['Sichtbreite','118 mm'],['Profiltyp','Gerundet (MD ROUND)'],['EPDM-Dichtungen','2 EPDM-Dichtungen'],['Verstärkung','Verz. Stahl 1,5 / 2,0 mm'],['Verglasung','24 – 48 mm'],['Beschläge','Roto NT / NX'],['Schwelle','13 mm'],['Gewicht','Max. 180 kg'],['Klasse','A'],['Recycelbar','100%'],],
       fr:[['Profondeur','76 mm'],['Chambres','5 chambres'],['Hauteur visible','118 mm'],['Profil','Arrondi (MD ROUND)'],['Joints EPDM','2 joints EPDM'],['Armature','Acier galv.'],['Vitrage','24 – 48 mm'],['Ferrures','Roto NT / NX'],['Seuil','13 mm'],['Poids','Max. 180 kg'],['Classe','A'],['Recyclable','100%'],],
-      es:[['Profundidad','76 mm'],['Cámaras','6'],['Altura visible','118 mm'],['Perfil','Redondeado'],['Juntas EPDM','2 juntas EPDM'],['Refuerzo','Acero galv.'],['Vidrio','24 – 48 mm'],['Herraje','Roto NT / NX'],['Umbral','13 mm'],['Peso','Max. 180 kg'],['Clase','A'],['Reciclable','100%'],],
-      it:[['Profondità','76 mm'],['Camere','6'],['Altezza visibile','118 mm'],['Profilo','Arrotondato'],['Guarnizioni','3 (con guarn. mediana)'],['Armatura','Acciaio zincato'],['Vetro','24 – 48 mm'],['Ferramenta','Roto NT / NX'],['Soglia','13 mm'],['Peso','Max. 180 kg'],['Classe','A'],['Riciclabile','100%'],],
+      es:[['Profundidad','76 mm'],['Cámaras','5'],['Altura visible','118 mm'],['Perfil','Redondeado'],['Juntas EPDM','2 juntas EPDM'],['Refuerzo','Acero galv.'],['Vidrio','24 – 48 mm'],['Herraje','Roto NT / NX'],['Umbral','13 mm'],['Peso','Max. 180 kg'],['Clase','A'],['Reciclable','100%'],],
+      it:[['Profondità','76 mm'],['Camere','5'],['Altezza visibile','118 mm'],['Profilo','Arrotondato'],['Guarnizioni','3 (con guarn. mediana)'],['Armatura','Acciaio zincato'],['Vetro','24 – 48 mm'],['Ferramenta','Roto NT / NX'],['Soglia','13 mm'],['Peso','Max. 180 kg'],['Classe','A'],['Riciclabile','100%'],],
     },
     perf: {
       ro:[['Uw','0,73 – 1,4 W/m²K'],['Uf cadru','1,2 W/m²K'],['Etanșeitate apă','E 1350'],['Permeabilitate aer','Clasa 4'],['Vânt','C3 · 1200 Pa'],['Fonică','≤ 47 dB'],['Antiefracție','RC2 → RC3'],],
@@ -450,7 +450,7 @@ const PRODUCTS = {
     breadcrumb_parent_href: '/tamplarie-pvc',
     name: {
       ro:'Profil PVC Salamander GreenEvolution 76 MD FLEX – 5 camere, design drept',
-      en:'Salamander GreenEvolution 76 MD FLEX PVC Profile – 6 Chambers, Straight Design',
+      en:'Salamander GreenEvolution 76 MD FLEX PVC Profile – 5 Chambers, Straight Design',
       de:'Salamander GreenEvolution 76 MD FLEX Kunststoffprofil – 5 Kammern, Gerades Design',
       fr:'Profil PVC Salamander GreenEvolution 76 MD FLEX – 5 Chambres, Design Droit',
       es:'Perfil PVC Salamander GreenEvolution 76 MD FLEX – 5 Cámaras, Diseño Recto',
@@ -465,7 +465,7 @@ const PRODUCTS = {
       it:'GreenEvolution 76 MD FLEX con design dritto, 5 camere + guarnizione mediana — prestazioni nZEB a costo accessibile.',
     },
     specs: {
-      ro:[['Adâncime','76 mm'],['Camere','6'],['Vizibil','118 mm'],['Design','Drept (MD FLEX)'],['Garnituri','3 EPDM + mediană'],['Armătură','Oțel zincat'],['Geam','24–48 mm'],['Feronerie','Roto NT/NX'],['Prag','13 mm'],['Greutate','180 kg max.'],['Clasă','A'],['Reciclabil','100%'],],
+      ro:[['Adâncime','76 mm'],['Camere','5'],['Vizibil','118 mm'],['Design','Drept (MD FLEX)'],['Garnituri','3 EPDM + mediană'],['Armătură','Oțel zincat'],['Geam','24–48 mm'],['Feronerie','Roto NT/NX'],['Prag','13 mm'],['Greutate','180 kg max.'],['Clasă','A'],['Reciclabil','100%'],],
       en:[['Depth','76 mm'],['Chambers','5'],['Visible','118 mm'],['Design','Straight (MD FLEX)'],['Gaskets','3 EPDM + middle'],['Reinforcement','Galv. steel'],['Glass','24–48 mm'],['Hardware','Roto NT/NX'],['Threshold','13 mm'],['Weight','180 kg max.'],['Class','A'],['Recyclable','100%'],],
       de:[['Tiefe','76 mm'],['Kammern','5'],['Sicht','118 mm'],['Design','Gerade (MD FLEX)'],['Dichtungen','3 EPDM + Mitte'],['Verstärkung','Verz. Stahl'],['Glas','24–48 mm'],['Beschläge','Roto NT/NX'],['Schwelle','13 mm'],['Gewicht','180 kg max.'],['Klasse','A'],['Recycelbar','100%'],],
       fr:[['Profondeur','76 mm'],['Chambres','5'],['Visible','118 mm'],['Design','Droit (MD FLEX)'],['Joints','3 EPDM + médian'],['Armature','Acier galv.'],['Verre','24–48 mm'],['Ferrures','Roto NT/NX'],['Seuil','13 mm'],['Poids','180 kg max.'],['Classe','A'],['Recyclable','100%'],],
@@ -507,7 +507,7 @@ const PRODUCTS = {
     breadcrumb_parent_href: '/tamplarie-pvc',
     name: {
       ro:'Profil PVC Salamander GreenEvolution 76 AD FLEX – 5 camere, design drept avansat',
-      en:'Salamander GreenEvolution 76 AD FLEX PVC Profile – 6 Chambers, Advanced Straight Design',
+      en:'Salamander GreenEvolution 76 AD FLEX PVC Profile – 5 Chambers, Advanced Straight Design',
       de:'Salamander GreenEvolution 76 AD FLEX Kunststoffprofil – 5 Kammern, Fortgeschrittenes gerades Design',
       fr:'Profil PVC Salamander GreenEvolution 76 AD FLEX – 5 Chambres, Design Droit Avancé',
       es:'Perfil PVC Salamander GreenEvolution 76 AD FLEX – 5 Cámaras, Diseño Recto Avanzado',
@@ -523,11 +523,11 @@ const PRODUCTS = {
     },
     specs: {
       ro:[['Adâncime','76 mm'],['Camere','5 camere'],['Vizibil','118 mm'],['Design','Drept AD FLEX'],['Garnituri','2 garnituri EPDM'],['Armătură','Oțel zincat'],['Geam','24–48 mm'],['Feronerie','Roto NT/NX'],['Prag','13 mm'],['Greutate','180 kg max.'],['Clasă','A'],['Reciclabil','100%'],],
-      en:[['Depth','76 mm'],['Chambers','6'],['Visible','118 mm'],['Design','Straight AD FLEX'],['Gaskets','2 EPDM middle'],['Reinforcement','Galv. steel'],['Glass','24–48 mm'],['Hardware','Roto NT/NX'],['Threshold','13 mm'],['Weight','180 kg max.'],['Class','A'],['Recyclable','100%'],],
-      de:[['Tiefe','76 mm'],['Kammern','6'],['Sicht','118 mm'],['Design','Gerade AD FLEX'],['Dichtungen','2 EPDM Mitte'],['Verstärkung','Verz. Stahl'],['Glas','24–48 mm'],['Beschläge','Roto NT/NX'],['Schwelle','13 mm'],['Gewicht','180 kg max.'],['Klasse','A'],['Recycelbar','100%'],],
-      fr:[['Profondeur','76 mm'],['Chambres','6'],['Visible','118 mm'],['Design','Droit AD FLEX'],['Joints','2 EPDM médians'],['Armature','Acier galv.'],['Verre','24–48 mm'],['Ferrures','Roto NT/NX'],['Seuil','13 mm'],['Poids','180 kg max.'],['Classe','A'],['Recyclable','100%'],],
-      es:[['Profundidad','76 mm'],['Cámaras','6'],['Visible','118 mm'],['Diseño','Recto AD FLEX'],['Juntas','2 EPDM medianas'],['Refuerzo','Acero galv.'],['Vidrio','24–48 mm'],['Herraje','Roto NT/NX'],['Umbral','13 mm'],['Peso','180 kg máx.'],['Clase','A'],['Reciclable','100%'],],
-      it:[['Profondità','76 mm'],['Camere','6'],['Visibile','118 mm'],['Design','Dritto AD FLEX'],['Guarnizioni','2 EPDM mediane'],['Armatura','Acciaio galv.'],['Vetro','24–48 mm'],['Ferramenta','Roto NT/NX'],['Soglia','13 mm'],['Peso','180 kg max.'],['Classe','A'],['Riciclabile','100%'],],
+      en:[['Depth','76 mm'],['Chambers','5'],['Visible','118 mm'],['Design','Straight AD FLEX'],['Gaskets','2 EPDM middle'],['Reinforcement','Galv. steel'],['Glass','24–48 mm'],['Hardware','Roto NT/NX'],['Threshold','13 mm'],['Weight','180 kg max.'],['Class','A'],['Recyclable','100%'],],
+      de:[['Tiefe','76 mm'],['Kammern','5'],['Sicht','118 mm'],['Design','Gerade AD FLEX'],['Dichtungen','2 EPDM Mitte'],['Verstärkung','Verz. Stahl'],['Glas','24–48 mm'],['Beschläge','Roto NT/NX'],['Schwelle','13 mm'],['Gewicht','180 kg max.'],['Klasse','A'],['Recycelbar','100%'],],
+      fr:[['Profondeur','76 mm'],['Chambres','5'],['Visible','118 mm'],['Design','Droit AD FLEX'],['Joints','2 EPDM médians'],['Armature','Acier galv.'],['Verre','24–48 mm'],['Ferrures','Roto NT/NX'],['Seuil','13 mm'],['Poids','180 kg max.'],['Classe','A'],['Recyclable','100%'],],
+      es:[['Profundidad','76 mm'],['Cámaras','5'],['Visible','118 mm'],['Diseño','Recto AD FLEX'],['Juntas','2 EPDM medianas'],['Refuerzo','Acero galv.'],['Vidrio','24–48 mm'],['Herraje','Roto NT/NX'],['Umbral','13 mm'],['Peso','180 kg máx.'],['Clase','A'],['Reciclable','100%'],],
+      it:[['Profondità','76 mm'],['Camere','5'],['Visibile','118 mm'],['Design','Dritto AD FLEX'],['Guarnizioni','2 EPDM mediane'],['Armatura','Acciaio galv.'],['Vetro','24–48 mm'],['Ferramenta','Roto NT/NX'],['Soglia','13 mm'],['Peso','180 kg max.'],['Classe','A'],['Riciclabile','100%'],],
     },
     perf: {
       ro:[['Uw','0,73 – 1,4 W/m²K'],['Uf','1,2 W/m²K'],['Apă','E 1350'],['Aer','Clasa 4'],['Vânt','C3 · 1200 Pa'],['Fonică','≤ 47 dB'],['Antiefracție','RC2 → RC3'],],
