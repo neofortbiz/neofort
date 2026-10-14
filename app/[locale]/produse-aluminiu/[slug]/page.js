@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { Link } from '../../../../i18n/navigation';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { PRODUCT_META } from '../../../../data/productMeta.js';
 const PALU_SEG = {ro:'produse-aluminiu',en:'products-alu',de:'produkte-alu',fr:'produits-alu',es:'productos-alu',it:'prodotti-alu'};
 
 // ─── SLUG MAP — canonical → { ro, en, de, fr, es, it } ──────────────────────
@@ -382,12 +383,15 @@ export async function generateMetadata({ params }) {
   if (!product) return { title: 'Produs Aluminiu · Neofort BIZ' };
 
   const name = product.name[locale] || product.name.ro;
-  const desc = (product.seo_text[locale] || product.seo_text.ro).slice(0, 160);
+  // v270: titlu <= 60 car. si descriere <= 150 car., fraza completa, din data/productMeta.js.
+  const meta  = PRODUCT_META[canonical];
+  const title = meta?.title?.[locale] || `${name} · Neofort BIZ`;
+  const desc  = meta?.desc?.[locale]  || (product.seo_text[locale] || product.seo_text.ro).slice(0, 160);
   const localSlug = SLUG_MAP[canonical]?.[locale] || slug;
   const altSlug   = (l) => SLUG_MAP[canonical]?.[l] || canonical;
 
   return {
-    title: `${name} · Neofort BIZ`,
+    title,
     description: desc,
     keywords: `${name} · Neofort BIZ · tâmplărie PVC Salamander · aluminiu Alumil · București`,
     robots: { index:true, follow:true, googleBot:{ index:true, follow:true, 'max-image-preview':'large', 'max-snippet':-1 } },
@@ -400,10 +404,10 @@ export async function generateMetadata({ params }) {
     },
     openGraph: {
       type:'website', url:`${BASE}/${locale}/${(PALU_SEG[locale]||'produse-aluminiu')}/${localSlug}`,
-      siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
+      siteName:'Neofort BIZ', title, description: desc,
       images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600, alt:name, type:'image/jpeg' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:`${name} · Neofort BIZ`, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600 }] }, };
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600 }] }, };
 }
 
 // ─── PAGE ─────────────────────────────────────────────────────────────────────

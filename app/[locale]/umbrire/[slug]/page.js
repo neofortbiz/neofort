@@ -3,6 +3,7 @@ import FaqAccordion from '../../../../components/FaqAccordion';
 import { Link } from '../../../../i18n/navigation';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { PRODUCT_META, PRODUCT_BRAND } from '../../../../data/productMeta.js';
 const UMB_SEG = {ro:'umbrire',en:'shading-systems',de:'beschattungssysteme',fr:'systemes-occultation',es:'sistemas-sombreado',it:'sistemi-oscuramento'};
 
 const SLUG_MAP = {
@@ -285,42 +286,18 @@ export async function generateMetadata({ params }) {
   const product   = PRODUCTS[canonical];
   if (!product) return { title: 'Produs · Neofort BIZ' };
   const name      = product.name[locale] || product.name.ro;
-  const seoFull    = product.seo_text[locale] || product.seo_text.ro;
-  const desc       = canonical === 'rulouri-exterioare-aluminiu'
-    ? (locale === 'ro' ? 'Rulouri exterioare aluminiu cu motor Somfy — reducere 70% aport solar, izolare termică nocturnă, antiefracție RC3. Montaj București. Solicită ofertă gratuită.'
-      : 'Aluminium roller shutters with Somfy motor — 70% solar gain reduction, night insulation, RC3 anti-burglary. Installation Bucharest. Request free quote.')
-    : canonical === 'jaluzele-venetiene-raffstore'
-    ? (locale === 'ro' ? 'Jaluzele Raffstore cu lamele orientabile 0°–90° — reducere solară 85%, rezistență vânt Clasa 5, automatizare Somfy. Montaj București și Europa. Ofertă gratuită.'
-      : 'Raffstore blinds with 0°–90° tiltable slats — 85% solar reduction, Class 5 wind resistance, Somfy automation. Installation Bucharest and Europe.')
-    : canonical === 'zipscreen'
-    ? (locale === 'ro' ? 'Zipscreen rulou textil exterior ZIP — blackout sau screen, rezistență vânt Clasa 6 (88 km/h), suprafețe până la 16 m², motor Somfy. Montaj terase București.'
-      : 'Zipscreen ZIP textile exterior blind — blackout or screen, Class 6 wind resistance (88 km/h), areas up to 16 m², Somfy motor. Terrace installation Bucharest.')
-    : seoFull.slice(0, 160);
+  // v270: titlurile si descrierile hardcodate de aici au fost mutate in
+  // data/productMeta.js. Blocul vechi avea trei probleme: titluri de 80-105
+  // caractere, descrieri in ENGLEZA pe de/fr/es/it (conditia era doar
+  // locale==='ro' ? romana : engleza) si formularea "ofertă gratuită" /
+  // "free quote", interzisa in copy.
+  const meta      = PRODUCT_META[canonical];
+  const title     = meta?.title?.[locale] || `${name} · Neofort BIZ`;
+  const desc      = meta?.desc?.[locale]  || (product.seo_text[locale] || product.seo_text.ro).slice(0, 160);
   const localSlug = SLUG_MAP[canonical]?.[locale] || slug;
   const altSlug   = (l) => SLUG_MAP[canonical]?.[l] || canonical;
   return {
-    title: canonical === 'rulouri-exterioare-aluminiu'
-             ? (locale === 'ro' ? 'Rulouri Exterioare Aluminiu Somfy — Prețuri, Sisteme, Montaj București | Neofort BIZ'
-               : locale === 'en' ? 'Aluminium External Roller Shutters Somfy — Prices, Systems, Installation Bucharest | Neofort BIZ'
-               : locale === 'de' ? 'Außenrollladen Aluminium Somfy — Preise, Systeme, Montage Bukarest | Neofort BIZ'
-               : locale === 'fr' ? 'Volets Roulants Aluminium Somfy — Prix, Systèmes, Installation Bucarest | Neofort BIZ'
-               : locale === 'es' ? 'Persianas Exteriores Aluminio Somfy — Precios, Sistemas, Instalación Bucarest | Neofort BIZ'
-               : 'Tapparelle Esterne Alluminio Somfy — Prezzi, Sistemi, Installazione Bucarest | Neofort BIZ')
-             : canonical === 'jaluzele-venetiene-raffstore'
-             ? (locale === 'ro' ? 'Jaluzele Venețiene Raffstore — Prețuri, Sisteme, Montaj București | Neofort BIZ'
-               : locale === 'en' ? 'Raffstore Venetian Blinds — Prices, Systems, Installation Bucharest | Neofort BIZ'
-               : locale === 'de' ? 'Raffstore Außenjalousien — Preise, Systeme, Montage Bukarest | Neofort BIZ'
-               : locale === 'fr' ? 'Stores Vénitiens Raffstore — Prix, Systèmes, Installation Bucarest | Neofort BIZ'
-               : locale === 'es' ? 'Persianas Venecianas Raffstore — Precios, Sistemas, Instalación Bucarest | Neofort BIZ'
-               : 'Veneziane Raffstore — Prezzi, Sistemi, Installazione Bucarest | Neofort BIZ')
-             : canonical === 'zipscreen'
-             ? (locale === 'ro' ? 'Zipscreen Terase — Rulou Textil ZIP, Blackout & Screen, Montaj București | Neofort BIZ'
-               : locale === 'en' ? 'Zipscreen Terraces — ZIP Textile Blind, Blackout & Screen, Installation Bucharest | Neofort BIZ'
-               : locale === 'de' ? 'Zipscreen Terrassen — ZIP-Rollo, Blackout & Screen, Montage Bukarest | Neofort BIZ'
-               : locale === 'fr' ? 'Zipscreen Terrasses — Store ZIP, Blackout & Screen, Installation Bucarest | Neofort BIZ'
-               : locale === 'es' ? 'Zipscreen Terrazas — Toldo ZIP, Blackout & Screen, Instalación Bucarest | Neofort BIZ'
-               : 'Zipscreen Terrazze — Tenda ZIP, Blackout & Screen, Installazione Bucarest | Neofort BIZ')
-             : `${name} · Neofort BIZ`,
+    title,
     description: desc,
     keywords: canonical === 'rulouri-exterioare-aluminiu'
              ? (locale === 'ro' ? 'rulouri exterioare aluminiu, rulouri aluminiu pret, rulouri exterioare aluminiu bucuresti, rulouri aluminiu somfy, rulouri exterioare electric, rulouri aluminiu cu motor, protectie solara ferestre, umbrire ferestre bucuresti'
@@ -342,10 +319,10 @@ export async function generateMetadata({ params }) {
     },
     openGraph: {
       type:'website', url:`${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}/${localSlug}`,
-      siteName:'Neofort BIZ', title:`${name} · Neofort BIZ`, description: desc,
+      siteName:'Neofort BIZ', title, description: desc,
       images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600, alt:name, type:'image/jpeg' }],
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: `${name} · Neofort BIZ`, description: desc, images:[`${BASE}${product.img.replace('.avif','.jpg')}`] },
     },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600 }] },
   }
 }
 
@@ -499,7 +476,8 @@ export default async function UmbrireProductPage({ params }) {
   const schema = {
     '@context':'https://schema.org', '@type':'Product',
     name, description: seotxt, image: `${BASE}${product.img}`,
-    brand: { '@type':'Brand', name:'Neofort BIZ' },
+    brand: { '@type':'Brand', name: (PRODUCT_BRAND[canonical]?.brand || 'Neofort BIZ') },
+    ...(PRODUCT_BRAND[canonical] ? { manufacturer: { '@type':'Organization', name: PRODUCT_BRAND[canonical].manufacturer, addressCountry: PRODUCT_BRAND[canonical].country } } : {}),
     seller: { '@type':'Organization', name:'Neofort BIZ SRL', url:BASE },
 
     additionalProperty: specs.map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
@@ -514,8 +492,8 @@ export default async function UmbrireProductPage({ params }) {
         '@type':'BreadcrumbList',
         'itemListElement':[
           {'@type':'ListItem','position':1,'name':'Neofort BIZ','item':BASE},
-          {'@type':'ListItem','position':2,'name':bpLabel,'item':`${BASE}/${locale}/umbrire`},
-          {'@type':'ListItem','position':3,'name':name,'item':`${BASE}/${locale}/${SLUG_MAP[canonical]?.[locale] || canonical}`},
+          {'@type':'ListItem','position':2,'name':bpLabel,'item':`${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}`},
+          {'@type':'ListItem','position':3,'name':name,'item':`${BASE}/${locale}/${(UMB_SEG[locale]||'umbrire')}/${SLUG_MAP[canonical]?.[locale] || canonical}`},
         ]
       })}}/>
       <style>{`
