@@ -1,11 +1,9 @@
 import { notFound } from 'next/navigation';
 import { Link } from '../../../../i18n/navigation';
-import FaqAccordion from '../../../../components/FaqAccordion';
 import { getTranslations } from 'next-intl/server';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
 import { PRODUCT_META } from '../../../../data/productMeta.js';
-import { PRODUCT_FAQ } from '../../../../data/productFaq.js';
 const PROD_SEG = {ro:'produse',en:'products',de:'produkte',fr:'produits',es:'productos',it:'prodotti'};
 
 // ─── SLUG MAP — slug canonical → { ro, en, de, fr, es, it } ─────────────────
@@ -558,12 +556,12 @@ const PRODUCTS = {
 
 // ─── UI STRINGS ──────────────────────────────────────────────────────────────
 const UI = {
-  ro: { back:'← Înapoi', all_products:'Toate produsele', specs_title:'Specificații tehnice', perf_title:'Performanțe certificate', adv_title:'Avantaje principale', faq_title:'Întrebări frecvente', cta_h:'Solicitați ofertă pentru', cta_sub:'Consultanți disponibili Luni–Vineri, 10:00–18:00', cta_btn:'Cerere ofertă', cta_call:'Sună acum', related:'Produse conexe' },
-  en: { back:'← Back', all_products:'All products', specs_title:'Technical specifications', perf_title:'Certified performance', adv_title:'Key advantages', faq_title:'Frequently asked questions', cta_h:'Request quote for', cta_sub:'Consultants available Mon–Fri, 10:00–18:00', cta_btn:'Request quote', cta_call:'Call now', related:'Related products' },
-  de: { back:'← Zurück', all_products:'Alle Produkte', specs_title:'Technische Daten', perf_title:'Zertifizierte Leistungen', adv_title:'Hauptvorteile', faq_title:'Häufig gestellte Fragen', cta_h:'Angebot anfordern für', cta_sub:'Berater verfügbar Mo–Fr, 10:00–18:00', cta_btn:'Angebot anfordern', cta_call:'Anrufen', related:'Ähnliche Produkte' },
-  fr: { back:'← Retour', all_products:'Tous les produits', specs_title:'Caractéristiques techniques', perf_title:'Performances certifiées', adv_title:'Avantages clés', faq_title:'Questions fréquentes', cta_h:'Demander un devis pour', cta_sub:'Conseillers disponibles Lun–Ven, 10h–18h', cta_btn:'Demander un devis', cta_call:'Appeler', related:'Produits connexes' },
-  es: { back:'← Volver', all_products:'Todos los productos', specs_title:'Especificaciones técnicas', perf_title:'Rendimiento certificado', adv_title:'Ventajas clave', faq_title:'Preguntas frecuentes', cta_h:'Solicitar presupuesto para', cta_sub:'Consultores disponibles Lun–Vie, 10:00–18:00', cta_btn:'Pedir presupuesto', cta_call:'Llamar', related:'Productos relacionados' },
-  it: { back:'← Indietro', all_products:'Tutti i prodotti', specs_title:'Specifiche tecniche', perf_title:'Prestazioni certificate', adv_title:'Vantaggi principali', faq_title:'Domande frequenti', cta_h:'Richiedi preventivo per', cta_sub:'Consulenti disponibili Lun–Ven, 10:00–18:00', cta_btn:'Richiedi preventivo', cta_call:'Chiama ora', related:'Prodotti correlati' },
+  ro: { back:'← Înapoi', all_products:'Toate produsele', specs_title:'Specificații tehnice', perf_title:'Performanțe certificate', adv_title:'Avantaje principale', cta_h:'Solicitați ofertă pentru', cta_sub:'Consultanți disponibili Luni–Vineri, 10:00–18:00', cta_btn:'Cerere ofertă', cta_call:'Sună acum', related:'Produse conexe' },
+  en: { back:'← Back', all_products:'All products', specs_title:'Technical specifications', perf_title:'Certified performance', adv_title:'Key advantages', cta_h:'Request quote for', cta_sub:'Consultants available Mon–Fri, 10:00–18:00', cta_btn:'Request quote', cta_call:'Call now', related:'Related products' },
+  de: { back:'← Zurück', all_products:'Alle Produkte', specs_title:'Technische Daten', perf_title:'Zertifizierte Leistungen', adv_title:'Hauptvorteile', cta_h:'Angebot anfordern für', cta_sub:'Berater verfügbar Mo–Fr, 10:00–18:00', cta_btn:'Angebot anfordern', cta_call:'Anrufen', related:'Ähnliche Produkte' },
+  fr: { back:'← Retour', all_products:'Tous les produits', specs_title:'Caractéristiques techniques', perf_title:'Performances certifiées', adv_title:'Avantages clés', cta_h:'Demander un devis pour', cta_sub:'Conseillers disponibles Lun–Ven, 10h–18h', cta_btn:'Demander un devis', cta_call:'Appeler', related:'Produits connexes' },
+  es: { back:'← Volver', all_products:'Todos los productos', specs_title:'Especificaciones técnicas', perf_title:'Rendimiento certificado', adv_title:'Ventajas clave', cta_h:'Solicitar presupuesto para', cta_sub:'Consultores disponibles Lun–Vie, 10:00–18:00', cta_btn:'Pedir presupuesto', cta_call:'Llamar', related:'Productos relacionados' },
+  it: { back:'← Indietro', all_products:'Tutti i prodotti', specs_title:'Specifiche tecniche', perf_title:'Prestazioni certificate', adv_title:'Vantaggi principali', cta_h:'Richiedi preventivo per', cta_sub:'Consulenti disponibili Lun–Ven, 10:00–18:00', cta_btn:'Richiedi preventivo', cta_call:'Chiama ora', related:'Prodotti correlati' },
 };
 
 // ─── generateStaticParams ─────────────────────────────────────────────────────
@@ -634,49 +632,14 @@ export default async function ProductPage({ params }) {
   const c       = product.color;
 
   // Schema.org Product
-  // v273 — punctul 7 din audit: tabelul de performanta (perf) era vizibil pe pagina
-  // dar nu intra deloc in structured data. Acum intra, dedus dupa nume: ce exista
-  // deja in specs nu se repeta, iar la nume comun cu valoare diferita castiga specs.
-  const perfExtra = perf.filter(([pn]) => !specs.some(([sn]) => sn === pn));
-  // v272 — identitate de entitate pentru Product (punctul 4 din audit).
-  // Pana acum Product nu avea @id, url, category sau inLanguage, iar `seller` era
-  // un nod Organization duplicat, fara @id — deci nu se lega de nodul LocalBusiness
-  // definit in app/[locale]/page.js la ${BASE}/#localbusiness, unde stau vatID, geo,
-  // areaServed, aggregateRating si knowsAbout. Un crawler LLM vedea doua firme fara
-  // legatura. Acum seller e o REFERINTA prin @id catre acel nod unic.
-  const pageUrl = `${BASE}/${locale}/${(PROD_SEG[locale]||'produse')}/${SLUG_MAP[canonical]?.[locale] || slug}`;
-  // isSimilarTo: celelalte produse din aceeasi familie — ancoreaza comparatiile LLM
-  const siblings = Object.keys(PRODUCTS).filter(k => k !== canonical).map(k => ({
-    '@type':'Product',
-    name: PRODUCTS[k].name[locale] || PRODUCTS[k].name.ro,
-    url: `${BASE}/${locale}/${(PROD_SEG[locale]||'produse')}/${SLUG_MAP[k]?.[locale] || k}`,
-  }));
-  // v274 — FAQ pe paginile de produs (punctul 3 din audit). Pana acum doar
-  // familia /umbrire/ avea FAQ vizibil si schema FAQPage.
-  const faqItems = PRODUCT_FAQ[canonical]?.[locale] || PRODUCT_FAQ[canonical]?.ro || [];
-  const faqSchema = faqItems.length > 0 ? {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    '@id': `${pageUrl}#faq`,
-    'mainEntity': faqItems.map(([q, a]) => ({
-      '@type': 'Question',
-      'name': q,
-      'acceptedAnswer': { '@type': 'Answer', 'text': a },
-    })),
-  } : null;
   const schema = {
     '@context':'https://schema.org', '@type':'Product',
-    '@id': `${pageUrl}#product`,
-    url: pageUrl,
-    category: cat,
-    inLanguage: locale,
     'name': name, 'description': seotxt,
     'image': `${BASE}${product.img}`,
     'brand': { '@type':'Brand', 'name':'Salamander' },
     'manufacturer': { '@type':'Organization', 'name':'Salamander GmbH & Co. KG', 'addressCountry':'DE' },
-    seller: { '@id': `${BASE}/#localbusiness` },
-    'additionalProperty': [...specs, ...perfExtra].map(([n,v]) => ({ '@type':'PropertyValue', 'name':n, 'value':v })),
-    isSimilarTo: siblings,
+    'seller': { '@type':'Organization', 'name':'Neofort BIZ SRL', 'url':BASE },
+    'additionalProperty': specs.map(([n,v]) => ({ '@type':'PropertyValue', 'name':n, 'value':v })),
   };
 
   // ── Schema BreadcrumbList ──
@@ -684,7 +647,6 @@ export default async function ProductPage({ params }) {
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
-    '@id': `${pageUrl}#breadcrumb`,
     'itemListElement': [
       { '@type':'ListItem', 'position':1, 'name':'Neofort BIZ', 'item': BASE },
       { '@type':'ListItem', 'position':2, 'name': bpLabel, 'item': `${BASE}/${locale}/${parentSeg[locale]||'tamplarie-pvc'}` },
@@ -696,7 +658,6 @@ export default async function ProductPage({ params }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
-      {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>}
       <style>{`
         /* ── BREADCRUMB ── */
         .prd-bc { font-size:.76rem; letter-spacing:.12em; text-transform:uppercase; color:#141414; display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin-bottom:24px; }
@@ -851,7 +812,6 @@ export default async function ProductPage({ params }) {
             <div className="prd-seo">
               <p>{seotxt}</p>
             </div>
-            <FaqAccordion items={faqItems} title={ui.faq_title} />
           </div>
 
           {/* SIDEBAR CTA */}

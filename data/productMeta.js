@@ -28,7 +28,8 @@
 
 // Producatori confirmati de Dan (14 oct 2026). produse/ si produse-aluminiu/ isi
 // pastreaza producatorul propriu, declarat direct in page.js: Salamander GmbH & Co. KG
-// (DE) si Alumil S.A. (GR). Madrugada: companie romaneasca, confirmat de Dan 14 oct.
+// (DE) si Alumil S.A. (GR). Madrugada e trecut FARA addressCountry — tara nu a fost
+// confirmata si o atribuire gresita in schema e mai daunatoare decat lipsa ei.
 export const PRODUCT_BRAND = {
   'toc-de-renovare':                    { brand:'Salamander',       manufacturer:'Salamander GmbH & Co. KG', country:'DE' },
   'pervazuri-interior-pvc-exterior-al': { brand:'PM Aluminium Line', manufacturer:'PM Aluminium Line',       country:'RO' },
@@ -39,9 +40,9 @@ export const PRODUCT_BRAND = {
   'banda-etansare-antivapori':          { brand:'Soudal',           manufacturer:'Soudal N.V.',              country:'BE' },
   'bagheta-warm-edge-thermo':           { brand:'SWISSPACER',       manufacturer:'SWISSPACER',               country:'CH' },
   'geamuri-termopan-saint-gobain':      { brand:'Saint-Gobain',     manufacturer:'Saint-Gobain Glass',       country:'FR' },
-  'rulouri-exterioare-aluminiu':        { brand:'Madrugada',        manufacturer:'Madrugada',                country:'RO' },
-  'jaluzele-venetiene-raffstore':       { brand:'Madrugada',        manufacturer:'Madrugada',                country:'RO' },
-  'zipscreen':                          { brand:'Madrugada',        manufacturer:'Madrugada',                country:'RO' },
+  'rulouri-exterioare-aluminiu':        { brand:'Madrugada',        manufacturer:'Madrugada' },
+  'jaluzele-venetiene-raffstore':       { brand:'Madrugada',        manufacturer:'Madrugada' },
+  'zipscreen':                          { brand:'Madrugada',        manufacturer:'Madrugada' },
   'pergole-automate-somfy':             { brand:'Somfy',            manufacturer:'Somfy',                    country:'FR' },
 };
 
