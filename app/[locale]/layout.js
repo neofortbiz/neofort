@@ -14,6 +14,16 @@ import { getGoogleRating } from '../../lib/googleRating.js';
 // Format Open Graph pentru limbi — identic cu maparea folosita in homepage (v217).
 const OG_LOCALE = { ro:'ro_RO', en:'en_US', de:'de_DE', fr:'fr_FR', es:'es_ES', it:'it_IT' };
 
+// v279: titlul feed-ului RSS pe limbi, folosit pentru <link rel="alternate"> din <head>.
+const RSS_TITLE = {
+  ro: 'Blog Tâmplărie PVC & Aluminiu',
+  en: 'PVC & Aluminium Windows Blog',
+  de: 'Blog für Kunststoff- und Aluminiumfenster',
+  fr: 'Blog menuiserie PVC et aluminium',
+  es: 'Blog de carpintería PVC y aluminio',
+  it: 'Blog infissi in PVC e alluminio',
+};
+
 // next/font: self-hosted, zero layout shift, nu blochează render
 const barlow = Barlow({
   subsets: ['latin', 'latin-ext'],
@@ -86,6 +96,14 @@ export default async function LocaleLayout({ children, params }) {
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
+
+        {/* v279: feed RSS per limba. Pana acum exista doar /feed.xml, in romana, deci
+            agregatoarele si crawlerele LLM straine nu aveau de unde sti ca exista si
+            versiunile traduse. Self-link pentru limba curenta + alternate pentru restul. */}
+        <link rel="alternate" type="application/rss+xml" title={`Neofort BIZ — ${RSS_TITLE[locale] || RSS_TITLE.ro}`} href={`${baseUrl}/${locale}/feed.xml`} />
+        {locales.filter(l => l !== locale).map(l => (
+          <link key={l} rel="alternate" type="application/rss+xml" hrefLang={l} title={`Neofort BIZ — ${RSS_TITLE[l]}`} href={`${baseUrl}/${l}/feed.xml`} />
+        ))}
         {/* AI Crawler hints */}
         <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="bingbot" content="index, follow" />

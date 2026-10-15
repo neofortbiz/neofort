@@ -237,6 +237,25 @@ try {
   console.log(`  BreadcrumbList: ${pages.length - 1 - missing.length}/${pages.length - 1} tipuri de pagina (homepage exclusa)`);
 } catch (e) { warn(`nu am putut verifica BreadcrumbList: ${e.message}`); }
 
+// ── 16. feed RSS per limba (v279) ──
+// Motiv: exista un singur feed, in romana, pentru un site cu 6 limbi. Garda verifica
+// atat ruta cat si link-urile de descoperire din layout — daca dispare oricare, pica.
+try {
+  const feedRoute = path.join(ROOT, 'app/[locale]/feed.xml/route.js');
+  if (!fs.existsSync(feedRoute)) {
+    err('ruta app/[locale]/feed.xml/route.js lipseste (feed RSS per limba)');
+  } else {
+    const src = fs.readFileSync(feedRoute, 'utf8');
+    LANGS.forEach(l => {
+      if (!new RegExp(`\\b${l}\\s*:`).test(src)) err(`feed RSS: lipseste limba '${l}' din CHANNEL/LANG_TAG`);
+    });
+    if (!src.includes('generateStaticParams')) err('feed RSS: lipseste generateStaticParams — feed-urile nu se prerandeaza');
+    const layout = fs.readFileSync(path.join(ROOT, 'app/[locale]/layout.js'), 'utf8');
+    if (!layout.includes('application/rss+xml')) err('layout: lipseste <link rel="alternate" type="application/rss+xml"> — feed-urile nu sunt descoperibile');
+    console.log(`  Feed RSS: 1 global + ${LANGS.length} pe limbi, link-uri de descoperire in layout`);
+  }
+} catch (e) { warn(`nu am putut verifica feed-urile RSS: ${e.message}`); }
+
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }
 console.log(errors === 0 && warnings === 0 ? 'Totul perfect. Safe de commit.\n' : 'Fara erori blocante. Safe de commit (verifica avertismentele).\n');

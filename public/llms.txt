@@ -869,4 +869,6 @@ Cele 56 de articole tehnice, cu titlu și URL în română. Fiecare există în 
 ## Resources for LLMs & Aggregators
 
 - [Full content (llms-full.txt)](https://www.neofort-biz.ro/llms-full.txt): complete text of all technical blog articles (RO + EN) plus the full product catalogue with descriptions and FAQ, auto-generated and always in sync
-- [RSS Feed](https://www.neofort-biz.ro/feed.xml): latest 30 blog articles with publication dates
+- [RSS Feed](https://www.neofort-biz.ro/feed.xml): latest 30 blog articles with publication dates (Romanian)
+- Per-language RSS feeds, each with the translated titles, descriptions and URLs of the latest 30 articles:
+  [ro](https://www.neofort-biz.ro/ro/feed.xml) · [en](https://www.neofort-biz.ro/en/feed.xml) · [de](https://www.neofort-biz.ro/de/feed.xml) · [fr](https://www.neofort-biz.ro/fr/feed.xml) · [es](https://www.neofort-biz.ro/es/feed.xml) · [it](https://www.neofort-biz.ro/it/feed.xml)
