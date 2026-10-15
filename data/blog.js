@@ -1319,7 +1319,7 @@ Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnic
     metaDesc: {
       ro: "Tripan sau termopan? Calcul real de economie la încălzire, cu formula și tabele pe tipuri de locuință. Plus situațiile în care tripanul nu merită.",
       en: "Triple or double glazing? A real heating-cost calculation with the formula and tables by home type, plus when triple glazing is not worth it.",
-      de: "Dreifach- oder Zweifachverglasung? Eine echte Heizkostenrechnung mit Formel und Tabellen nach Haustyp, samt Fällen, in denen sich Dreifach nicht lohnt.",
+      de: "Dreifach- oder Zweifachverglasung? Echte Heizkostenrechnung mit Formel und Tabellen nach Haustyp, samt Fällen, in denen sich Dreifach nicht lohnt.",
       fr: "Triple ou double vitrage ? Un calcul réel des économies de chauffage, avec formule et tableaux par type de logement, et quand le triple ne vaut pas.",
       es: "¿Triple o doble acristalamiento? Cálculo real del ahorro en calefacción, con fórmula y tablas por tipo de vivienda, y cuándo no compensa.",
       it: "Triplo o doppio vetro? Un calcolo reale del risparmio sul riscaldamento, con formula e tabelle per tipo di casa, e quando il triplo non conviene.",
@@ -3378,7 +3378,7 @@ The 34 mm polyamide insert physically separates the cold outer profile from the 
 **Related articles:**
 - [Alumil Aluminium Windows — Supreme and Smartia Systems](/en/aluminium-windows)
 - [Complete nZEB System: Salamander + Blaugelb + Triple Glazing](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing)
-- [Salamander Window Prices Bucharest 2026](/en/blog/salamander-window-prices-bucharest-2026)
+- [Salamander Window Prices Bucharest 2026](/en/blog/salamander-window-prices-bucharest-2026)\n- [Salamander double glazing prices in Bucharest 2026 — complete guide](/en/blog/salamander-double-glazing-prices-bucharest)
 
 Neofort BIZ — authorised Alumil distributor in Bucharest and Ilfov. [Request aluminium door quote](/en/contact).
 
@@ -3454,7 +3454,7 @@ Der 34-mm-Polyamideinsatz trennt das kalte Außenprofil physisch vom warmen Inne
 **Verwandte Artikel:**
 - [Alumil Aluminiumfenster — Supreme und Smartia Systeme](/de/aluminiumfenster)
 - [Komplettes nZEB-System: Salamander + Blaugelb + Dreifachverglasung](/de/blog/komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung)
-- [Salamander-Fensterpreise Bukarest 2026](/de/blog/salamander-fenster-preise-bukarest-2026)
+- [Salamander-Fensterpreise Bukarest 2026](/de/blog/salamander-fenster-preise-bukarest-2026)\n- [Salamander Isolierglas-Preise in Bukarest 2026 — vollständiger Leitfaden](/de/blog/salamander-isolierglas-preise-bukarest)
 
 Neofort BIZ — autorisierter Alumil-Händler in Bukarest und Ilfov. [Angebot Aluminiumtür anfordern](/de/kontakt).
 
@@ -3530,7 +3530,7 @@ L'insert en polyamide de 34 mm sépare physiquement le profilé extérieur froid
 **Articles connexes :**
 - [Menuiserie aluminium Alumil — systèmes Supreme et Smartia](/fr/menuiserie-aluminium)
 - [Système nZEB complet : Salamander + Blaugelb + triple vitrage](/fr/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage)
-- [Prix fenêtres Salamander Bucarest 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026)
+- [Prix fenêtres Salamander Bucarest 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026)\n- [Prix du double vitrage Salamander à Bucarest 2026 — guide complet](/fr/blog/prix-double-vitrage-salamander-bucarest)
 
 Neofort BIZ — distributeur agréé Alumil à Bucarest et Ilfov. [Demander un devis porte aluminium](/fr/contact).
 
@@ -3606,7 +3606,7 @@ El inserto de poliamida de 34 mm separa físicamente el perfil exterior frío de
 **Artículos relacionados:**
 - [Carpintería aluminio Alumil — sistemas Supreme y Smartia](/es/carpinteria-aluminio)
 - [Sistema nZEB completo: Salamander + Blaugelb + triple acristalamiento](/es/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento)
-- [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)
+- [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)\n- [Precios del doble acristalamiento Salamander en Bucarest 2026 — guía completa](/es/blog/precios-doble-acristalamiento-salamander-bucarest)
 
 Neofort BIZ — distribuidor autorizado Alumil en Bucarest e Ilfov. [Solicitar presupuesto puerta aluminio](/es/contacto).
 
@@ -3682,7 +3682,7 @@ L'inserto in poliammide da 34 mm separa fisicamente il profilo esterno freddo da
 **Articoli correlati:**
 - [Infissi alluminio Alumil — sistemi Supreme e Smartia](/it/infissi-alluminio)
 - [Sistema nZEB completo: Salamander + Blaugelb + triplo vetro](/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro)
-- [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)
+- [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)\n- [Prezzi del doppio vetro Salamander a Bucarest 2026 — guida completa](/it/blog/prezzi-doppio-vetro-salamander-bucarest)
 
 Neofort BIZ — distributore autorizzato Alumil a Bucarest e Ilfov. [Richiedi preventivo porta alluminio](/it/contatti).
 
@@ -4308,7 +4308,7 @@ Neofort BIZ posa serramenti in PVC Salamander con posa su tre piani di tenuta a 
       it: 'Sistema nZEB completo: Salamander bluEvolution 92 + controtelai Blaugelb Triotherm+ + triplo vetro — Guida tecnica completa 2026',
     },
     metaDesc: {
-      ro: "Sistem nZEB complet: Salamander bluEvolution 92, precadre Blaugelb și geam triplu Saint-Gobain. Calculul Uw, performanțele reale și procedura de montaj.",
+      ro: "Sistem nZEB complet: Salamander bluEvolution 92, precadre Blaugelb și geam triplu Saint-Gobain. Calculul Uw, performanțele reale și montajul.",
       en: "A complete nZEB system: Salamander bluEvolution 92, Blaugelb precasings and Saint-Gobain triple glazing. Uw calculation and installation procedure.",
       de: "Komplettes nZEB-System: Salamander bluEvolution 92, Blaugelb-Vorblendrahmen und Saint-Gobain Dreifachglas. Uw-Berechnung und Montageablauf.",
       fr: "Système nZEB complet : Salamander bluEvolution 92, précadres Blaugelb et triple vitrage Saint-Gobain. Calcul du Uw et procédure de pose.",
@@ -5740,7 +5740,7 @@ Neofort BIZ fornisce serramenti in PVC Salamander con stabilizzanti calcio-zinco
       it: 'Dove ordinare finestre con isolamento avanzato a Bucarest? Guida completa 2026',
     },
     metaDesc: {
-      ro: "Termopane cu izolație avansată în București: geam triplu, Low-E, argon, profil cu 6-7 camere. Ce să ceri în ofertă și ce diferențiază un furnizor serios.",
+      ro: "Termopane cu izolație avansată în București: geam triplu, Low-E, argon, profil cu 6-7 camere. Ce să ceri în ofertă și cum alegi furnizorul.",
       en: "Windows with advanced insulation in Bucharest: triple glazing, Low-E, argon, 6-7 chamber profiles. What to ask for in a quote and what to check.",
       de: "Fenster mit erweiterter Dämmung in Bukarest: Dreifachglas, Low-E, Argon, 6-7-Kammer-Profile. Was Sie im Angebot verlangen sollten.",
       fr: "Fenêtres à isolation avancée à Bucarest : triple vitrage, Low-E, argon, profilés 6-7 chambres. Ce qu’il faut exiger dans un devis.",
@@ -6990,7 +6990,7 @@ Neofort BIZ esegue pose su tre piani di tenuta, con controtelai isolanti Blaugel
       it: 'Dove comprare sistemi di oscuramento esterno a Bucarest? Guida 2026',
     },
     metaDesc: {
-      ro: "Rulouri din aluminiu, ZipScreen, Raffstore sau pergolă? Ce opțiuni de umbrire exterioară ai în București, cu prețuri orientative și automatizare Somfy.",
+      ro: "Rulouri din aluminiu, ZipScreen, Raffstore sau pergolă? Ce umbrire exterioară ai în București, cu prețuri orientative și automatizare Somfy.",
       en: "Aluminium shutters, ZipScreen, Raffstore or a pergola? Your exterior shading options in Bucharest, with indicative prices and Somfy automation.",
       de: "Aluminiumrollläden, ZipScreen, Raffstore oder Pergola? Ihre Optionen für Außenbeschattung in Bukarest, mit Richtpreisen und Somfy-Automatisierung.",
       fr: "Volets roulants, ZipScreen, Raffstore ou pergola ? Vos options d’occultation extérieure à Bucarest, avec prix indicatifs et automatisation Somfy.",
@@ -9215,10 +9215,10 @@ Neofort BIZ installa pergole bioclimatiche e classiche, con automazione Somfy, a
     },
     metaDesc: {
       ro: "BluEvolution 92 sau GreenEvolution 76? Comparație pe cifre: 92 vs 76 mm adâncime, geam de 48 vs 36 mm, Uf 0,70 vs 0,95 W/(m²K). Când merită fiecare.",
-      en: "BluEvolution 92 or GreenEvolution 76? Compared on the numbers: 92 vs 76 mm depth, 48 vs 36 mm glazing, Uf 0.70 vs 0.95 W/(m²K). When each one pays off.",
-      de: "BluEvolution 92 oder GreenEvolution 76? Vergleich in Zahlen: 92 gegen 76 mm Bautiefe, 48 gegen 36 mm Glas, Uf 0,70 gegen 0,95 W/(m²K). Wann sich was lohnt.",
+      en: "BluEvolution 92 or GreenEvolution 76? On the numbers: 92 vs 76 mm depth, 48 vs 36 mm glazing, Uf 0.70 vs 0.95 W/(m²K). When each one pays off.",
+      de: "BluEvolution 92 oder GreenEvolution 76? In Zahlen: 92 gegen 76 mm Bautiefe, 48 gegen 36 mm Glas, Uf 0,70 gegen 0,95 W/(m²K). Wann sich was lohnt.",
       fr: "BluEvolution 92 ou GreenEvolution 76 ? Comparaison chiffrée : 92 contre 76 mm de profondeur, vitrage 48 contre 36 mm, Uf 0,70 contre 0,95 W/(m²K).",
-      es: "BluEvolution 92 o GreenEvolution 76? Comparación con cifras: 92 frente a 76 mm de profundidad, vidrio 48 frente a 36 mm, Uf 0,70 frente a 0,95 W/(m²K).",
+      es: "BluEvolution 92 o GreenEvolution 76? En cifras: 92 frente a 76 mm de profundidad, vidrio 48 frente a 36 mm, Uf 0,70 frente a 0,95 W/(m²K).",
       it: "BluEvolution 92 o GreenEvolution 76? Confronto sui numeri: 92 contro 76 mm di profondità, vetro 48 contro 36 mm, Uf 0,70 contro 0,95 W/(m²K).",
     },
     keywords: 'BluEvolution 92 6 camere, GreenEvolution 76 5 camere, profile PVC Salamander, tamplarie PVC nZEB, Uw 0.70, comparatie profile PVC',
@@ -13417,11 +13417,11 @@ Neofort BIZ fornisce e posa serramenti in alluminio Alumil a taglio termico a Bu
       it: `La parete cortina è una facciata autoportante in alluminio e vetro senza carichi strutturali. Esistono 3 tipi principali — standard, semi-strutturale e strutturale — con prezzi tra 160 e 500 €/m². Guida completa: come scegliere il sistema giusto, quali sistemi Alumil forniamo e i passi dal progetto all'installazione.`,
     },
     metaDesc: {
-      ro: "Pereți cortină și fațade din sticlă: cele 3 tipuri de sisteme, prețuri orientative 800–2.500 lei/m² și etapele unui proiect. Sisteme Alumil, București.",
+      ro: "Pereți cortină și fațade din sticlă: cele 3 tipuri de sisteme, prețuri 800–2.500 lei/m² și etapele unui proiect. Sisteme Alumil, București.",
       en: "Curtain walls and glass facades: the 3 system types, indicative prices of 800–2,500 lei/m² and the stages of a project. Alumil systems, Bucharest.",
       de: "Vorhangfassaden und Glasfassaden: die 3 Systemarten, Richtpreise von 800–2.500 Lei/m² und die Projektphasen. Alumil-Systeme, Bukarest.",
       fr: "Murs-rideaux et façades vitrées : les 3 types de systèmes, prix indicatifs de 800 à 2 500 lei/m² et les étapes d’un projet. Systèmes Alumil, Bucarest.",
-      es: "Muros cortina y fachadas de vidrio: los 3 tipos de sistema, precios orientativos de 800–2.500 lei/m² y las fases de un proyecto. Sistemas Alumil, Bucarest.",
+      es: "Muros cortina y fachadas de vidrio: los 3 tipos de sistema, precios 800–2.500 lei/m² y las fases de un proyecto. Sistemas Alumil, Bucarest.",
       it: "Pareti continue e facciate in vetro: i 3 tipi di sistema, prezzi indicativi di 800–2.500 lei/m² e le fasi di un progetto. Sistemi Alumil, Bucarest.",
     },
     keywords: 'pereti cortina aluminiu sticla, fatada cortina pret, perete cortina structural, perete cortina semi-structural, Alumil CW50, fatade din sticla cladiri, pereti cortina pret mp, montaj pereti cortina Romania',
@@ -20530,7 +20530,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
       ro: "Salamander bluEvolution 92 ALU placat cu aluminiu, pentru o casă de munte în Franța. De ce rezistă la clima alpină și cum s-a organizat exportul.",
       en: "Salamander bluEvolution 92 ALU with aluminium cladding, for a mountain house in France. Why it handles alpine weather and how the export ran.",
       de: "Salamander bluEvolution 92 ALU mit Aluminiumverkleidung für ein Berghaus in Frankreich. Warum es dem Alpenklima standhält und wie der Export lief.",
-      fr: "Salamander bluEvolution 92 ALU revêtu d’aluminium pour une maison de montagne en France. Pourquoi il tient en climat alpin et comment s’est fait l’export.",
+      fr: "Salamander bluEvolution 92 ALU revêtu alu pour une maison de montagne en France. Pourquoi il tient en climat alpin et comment s’est fait l’export.",
       es: "Salamander bluEvolution 92 ALU revestido de aluminio para una casa de montaña en Francia. Por qué resiste el clima alpino y cómo fue la exportación.",
       it: "Salamander bluEvolution 92 ALU rivestito in alluminio per una casa di montagna in Francia. Perché regge il clima alpino e come è andato l’export.",
     },
@@ -31507,7 +31507,7 @@ Hardware adjustment and lubrication: 150–250 lei per window, or an annual serv
 
 Related: [Window Thermal Coefficient Guide 2026](/en/blog/what-thermal-coefficient-should-windows-have) · [Triple vs Double Glazing Savings](/en/blog/triple-vs-double-glazing-real-savings-heating-cost)
 
-Neofort BIZ installs Salamander PVC windows with 5-year warranty and service in Bucharest and Ilfov. [Request quote or service](/en/contact). Learn more about [our Salamander PVC systems](/en/pvc-windows) we offer. Replacement without disturbing the plaster uses [the PVC renovation frame](/en/accessories/pvc-renovation-frame); the price levels are at [PVC joinery prices](/en/pvc-windows/prices).`,
+Neofort BIZ installs Salamander PVC windows with 5-year warranty and service in Bucharest and Ilfov. [Request quote or service](/en/contact). Learn more about [our Salamander PVC systems](/en/pvc-windows) we offer. Replacement without disturbing the plaster uses [the PVC renovation frame](/en/accessories/pvc-renovation-frame); the price levels are at [PVC joinery prices](/en/pvc-windows/prices). Rules change too — see [what changes for construction products in 2026](/en/blog/construction-products-legislation-2026-eu-regulation).`,
       de: `## Wie lange hält ein PVC-Fenster unter normalen Bedingungen?
 
 Ein modernes PVC-Fenster mit zertifizierten Profilen und fachgerechter Montage hat bei normaler Nutzung eine **Lebensdauer von 30–50 Jahren**. Der Beschlag — Bänder, Getriebe, Verschlüsse — muss nach 15–20 Jahren ersetzt werden, Profil und Verglasung bleiben deutlich länger funktionsfähig.
@@ -31615,7 +31615,7 @@ Beschlag einstellen und schmieren: 150–250 Lei je Fenster, oder ein jährliche
 
 ---
 
-Neofort BIZ montiert Salamander PVC-Fenster mit 5 Jahren Garantie in Bukarest und Ilfov. [Angebot oder Service anfragen](/de/kontakt). Erfahren Sie mehr über [unsere Salamander PVC-Systeme](/de/kunststofffenster-pvc), die wir anbieten. Für den Austausch ohne Putzarbeiten wird [der PVC-Renovierungsrahmen](/de/zubehoer/pvc-renovierungsrahmen) verwendet; die Preisniveaus stehen unter [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise).`,
+Neofort BIZ montiert Salamander PVC-Fenster mit 5 Jahren Garantie in Bukarest und Ilfov. [Angebot oder Service anfragen](/de/kontakt). Erfahren Sie mehr über [unsere Salamander PVC-Systeme](/de/kunststofffenster-pvc), die wir anbieten. Für den Austausch ohne Putzarbeiten wird [der PVC-Renovierungsrahmen](/de/zubehoer/pvc-renovierungsrahmen) verwendet; die Preisniveaus stehen unter [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Auch die Vorschriften ändern sich — siehe [was sich 2026 für Bauprodukte ändert](/de/blog/bauprodukte-gesetzgebung-2026-eu-verordnung-aenderungen).`,
       fr: `## Combien de temps dure une fenêtre PVC dans des conditions normales ?
 
 Une fenêtre PVC moderne, avec des profilés certifiés et une pose professionnelle, a une **durée de vie de 30 à 50 ans** en usage normal. La quincaillerie — paumelles, crémones, systèmes de fermeture — demande un remplacement au bout de 15 à 20 ans, mais le profilé et le vitrage restent fonctionnels bien plus longtemps.
@@ -31723,7 +31723,7 @@ Réglage de la quincaillerie et graissage : 150 à 250 lei par fenêtre, ou un c
 
 ---
 
-Neofort BIZ pose des fenêtres PVC Salamander avec 5 ans de garantie à Bucarest et Ilfov. [Demander un devis ou un service](/fr/contact). En savoir plus sur [nos systèmes PVC Salamander](/fr/menuiserie-pvc) que nous proposons. Pour un remplacement sans toucher à l'enduit, on utilise [le dormant de rénovation PVC](/fr/accessoires/cadre-renovation-pvc) ; les niveaux de prix sont sur [prix menuiserie PVC](/fr/menuiserie-pvc/prix).`,
+Neofort BIZ pose des fenêtres PVC Salamander avec 5 ans de garantie à Bucarest et Ilfov. [Demander un devis ou un service](/fr/contact). En savoir plus sur [nos systèmes PVC Salamander](/fr/menuiserie-pvc) que nous proposons. Pour un remplacement sans toucher à l'enduit, on utilise [le dormant de rénovation PVC](/fr/accessoires/cadre-renovation-pvc) ; les niveaux de prix sont sur [prix menuiserie PVC](/fr/menuiserie-pvc/prix). La réglementation évolue aussi — voir [ce qui change pour les produits de construction en 2026](/fr/blog/legislation-2026-produits-construction-reglement-europeen).`,
       es: `## ¿Cuánto dura una ventana de PVC en condiciones normales?
 
 Una ventana de PVC moderna, con perfiles certificados e instalación profesional, tiene una **vida útil de 30 a 50 años** en uso normal. La herrajería — bisagras, cremonas, sistemas de cierre — necesita sustitución a los 15 o 20 años, pero el perfil y el vidrio siguen siendo funcionales mucho más tiempo.
@@ -31831,7 +31831,7 @@ Ajuste de la herrajería y engrase: de 150 a 250 lei por ventana, o un contrato 
 
 ---
 
-Neofort BIZ instala ventanas PVC Salamander con 5 años de garantía en Bucarest e Ilfov. [Solicitar presupuesto o servicio](/es/contacto). Más información sobre [nuestros sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos. Para sustituir sin tocar el revoco se usa [el marco de renovación PVC](/es/accesorios/marco-renovacion-pvc); los niveles de precio están en [precios de carpintería PVC](/es/carpinteria-pvc/precios).`,
+Neofort BIZ instala ventanas PVC Salamander con 5 años de garantía en Bucarest e Ilfov. [Solicitar presupuesto o servicio](/es/contacto). Más información sobre [nuestros sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos. Para sustituir sin tocar el revoco se usa [el marco de renovación PVC](/es/accesorios/marco-renovacion-pvc); los niveles de precio están en [precios de carpintería PVC](/es/carpinteria-pvc/precios). La normativa también cambia — consulta [qué cambia para los productos de construcción en 2026](/es/blog/legislacion-2026-productos-construccion-reglamento-europeo).`,
       it: `## Quanto dura una finestra in PVC in condizioni normali?
 
 Una finestra in PVC moderna, con profili certificati e posa professionale, ha una **durata di 30–50 anni** in uso normale. La ferramenta — cerniere, cremonesi, sistemi di chiusura — richiede sostituzione dopo 15–20 anni, ma profilo e vetro restano funzionali molto più a lungo.
@@ -31939,7 +31939,7 @@ Regolazione della ferramenta e lubrificazione: 150–250 lei a finestra, oppure 
 
 ---
 
-Neofort BIZ installa finestre PVC Salamander con 5 anni di garanzia a Bucarest e Ilfov. [Richiedi preventivo o servizio](/it/contatti). Scopri di più su [i nostri sistemi PVC Salamander](/it/infissi-pvc) che offriamo. Per sostituire senza toccare l'intonaco si usa [il telaio di ristrutturazione in PVC](/it/accessori/telaio-ristrutturazione-pvc); i livelli di prezzo sono su [prezzi infissi in PVC](/it/infissi-pvc/prezzi).`,
+Neofort BIZ installa finestre PVC Salamander con 5 anni di garanzia a Bucarest e Ilfov. [Richiedi preventivo o servizio](/it/contatti). Scopri di più su [i nostri sistemi PVC Salamander](/it/infissi-pvc) che offriamo. Per sostituire senza toccare l'intonaco si usa [il telaio di ristrutturazione in PVC](/it/accessori/telaio-ristrutturazione-pvc); i livelli di prezzo sono su [prezzi infissi in PVC](/it/infissi-pvc/prezzi). Cambia anche la normativa — vedi [che cosa cambia per i prodotti da costruzione nel 2026](/it/blog/legislazione-2026-prodotti-costruzione-regolamento-europeo).`,
     },
   },
   {
@@ -31965,12 +31965,12 @@ Neofort BIZ installa finestre PVC Salamander con 5 anni di garanzia a Bucarest e
     category: {ro:"Finanțare & Subvenții",en:"Funding & Subsidies",de:"Förderung & Zuschüsse",fr:"Financement & Subventions",es:"Financiación & Subvenciones",it:"Finanziamenti & Incentivi"},
     title: {ro:"Subvenții ferestre 2026: PNRR „Casa Eficientă Energetic\" și ce program acoperă tâmplăria",en:"Window subsidies 2026: PNRR \"Energy Efficient Home\" and which programme covers joinery",de:"Fensterförderung 2026: PNRR „Energieeffizientes Haus\" und welches Programm Fenster abdeckt",fr:"Subventions fenêtres 2026 : PNRR « Maison Économe en Énergie » et quel programme couvre la menuiserie",es:"Subvenciones ventanas 2026: PNRR «Casa Eficiente Energéticamente» y qué programa cubre la carpintería",it:"Incentivi finestre 2026: PNRR «Casa Efficiente Energeticamente» e quale programma copre i serramenti"},
     metaDesc: {
-      ro: "Subvenții pentru schimbarea ferestrelor în 2026: voucher de până la 72.500 lei prin Casa Eficientă Energetic și 20.200 EUR prin PNRR. Condiții și acte.",
-      en: "Grants for replacing windows in 2026: vouchers of up to 72,500 lei through Casa Eficientă Energetic and 20,200 EUR through the PNRR. Conditions and papers.",
-      de: "Förderung für den Fenstertausch 2026: Gutscheine bis 72.500 Lei über Casa Eficientă Energetic und 20.200 EUR über den PNRR. Bedingungen und Unterlagen.",
-      fr: "Aides pour remplacer ses fenêtres en 2026 : chèques jusqu’à 72 500 lei via Casa Eficientă Energetic et 20 200 EUR via le PNRR. Conditions et documents.",
+      ro: "Subvenții pentru schimbarea ferestrelor în 2026: voucher până la 72.500 lei prin Casa Eficientă Energetic și 20.200 EUR prin PNRR. Condiții, acte.",
+      en: "Grants for replacing windows in 2026: vouchers up to 72,500 lei through Casa Eficientă Energetic and 20,200 EUR via the PNRR. Conditions and papers.",
+      de: "Förderung für den Fenstertausch 2026: Gutscheine bis 72.500 Lei über Casa Eficientă Energetic und 20.200 EUR über PNRR. Bedingungen und Unterlagen.",
+      fr: "Aides pour remplacer ses fenêtres en 2026 : chèques jusqu’à 72 500 lei via Casa Eficientă Energetic et 20 200 EUR via PNRR. Conditions et documents.",
       es: "Ayudas para cambiar ventanas en 2026: bonos de hasta 72.500 lei por Casa Eficientă Energetic y 20.200 EUR por el PNRR. Condiciones y documentos.",
-      it: "Contributi per sostituire le finestre nel 2026: voucher fino a 72.500 lei con Casa Eficientă Energetic e 20.200 EUR con il PNRR. Condizioni e documenti.",
+      it: "Contributi per sostituire le finestre nel 2026: voucher fino a 72.500 lei con Casa Eficientă Energetic e 20.200 EUR col PNRR. Condizioni e documenti.",
     },
     excerpt: {ro:"Ce programe de finanțare poți accesa în 2026 pentru schimbul ferestrelor? Ghid complet despre PNRR „Casa Eficientă Energetic\", sumele disponibile, cele două axe, distincția față de Casa Verde și documentele necesare pentru dosar.",en:"Which funding programmes can you access in 2026 for window replacement? Complete guide on PNRR \"Energy Efficient Home\", available amounts, the two axes, the distinction from Casa Verde and the documents needed for the application.",de:"Welche Förderprogramme können Sie 2026 für den Fenstertausch nutzen? Vollständiger Leitfaden zum PNRR „Energieeffizientes Haus\", verfügbare Beträge, die zwei Achsen, die Unterscheidung von Casa Verde und die benötigten Unterlagen.",fr:"Quels programmes de financement pouvez-vous accéder en 2026 pour le remplacement des fenêtres ? Guide complet sur le PNRR « Maison Économe en Énergie », les montants disponibles, les deux axes et les documents nécessaires.",es:"¿A qué programas de financiación puedes acceder en 2026 para el cambio de ventanas? Guía completa sobre el PNRR «Casa Eficiente Energéticamente», los importes disponibles, los dos ejes y los documentos necesarios.",it:"A quali programmi di finanziamento puoi accedere nel 2026 per la sostituzione delle finestre? Guida completa sul PNRR «Casa Efficiente Energeticamente», gli importi disponibili, i due assi e i documenti necessari."},
     dateDisplay: {ro:"9 iunie 2026",en:"June 9 2026",de:"9. Juni 2026",fr:"9 juin 2026",es:"9 jun 2026",it:"9 giu 2026"},
@@ -35347,7 +35347,7 @@ Neofort BIZ sostituisce guarnizioni e fa la manutenzione di serramenti in PVC Sa
     },
     metaDesc: {
       ro: "Directiva EPBD mută standardul de la nZEB la ZEB: public din 2028, tot ce se construiește din 2030. Ce înseamnă pentru Uw, factor solar și montaj.",
-      en: "The EPBD moves the standard from nZEB to ZEB: public buildings from 2028, all new builds from 2030. What it means for Uw, solar factor and installation.",
+      en: "The EPBD moves the standard from nZEB to ZEB: public buildings 2028, all new builds from 2030. What changes for Uw, solar factor and installation.",
       de: "Die EPBD verschiebt den Standard von nZEB zu ZEB: öffentliche Gebäude ab 2028, alle Neubauten ab 2030. Was das für Uw, g-Wert und Montage heißt.",
       fr: "La EPBD fait passer la norme de nZEB à ZEB : bâtiments publics dès 2028, tout le neuf dès 2030. Ce que cela change pour Uw, facteur solaire et pose.",
       es: "La EPBD traslada el estándar de nZEB a ZEB: edificios públicos desde 2028, toda la obra nueva desde 2030. Qué implica para Uw y montaje.",

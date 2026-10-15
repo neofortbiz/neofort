@@ -154,9 +154,21 @@ export default async function GdprPage({ params }) {
     'inLanguage': locale,
   };
 
+
+  // v278: BreadcrumbList lipsea pe aceasta pagina, desi exista pe restul sitului.
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    '@id': `${BASE}/${locale}/${SLUGS_GDPR[locale] || SLUGS_GDPR.ro}#breadcrumb`,
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: {ro:'Acasă',en:'Home',de:'Startseite',fr:'Accueil',es:'Inicio',it:'Home'}[locale] || 'Acasă', item: `${BASE}/${locale}` },
+      { '@type': 'ListItem', position: 2, name: ui.h1, item: `${BASE}/${locale}/${SLUGS_GDPR[locale] || SLUGS_GDPR.ro}` },
+    ],
+  };
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <div className="page-header">
         <div className="container mx-auto px-6">
           <span className="sec-label">{ui.label}</span>

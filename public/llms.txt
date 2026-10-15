@@ -304,7 +304,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - **Fereastră oscilo-batantă PVC Salamander GreenEvolution 76** (80×120 cm, dublu geam, montaj inclus): 950–1.300 lei
 - **Fereastră aluminiu Alumil S77 Supreme** (80×120 cm, triplu geam, montaj inclus): 1.800–2.400 lei
 - **Ușă intrare aluminiu Alumil SF85** (90×210 cm, RC2, montaj inclus): 3.500–5.000 lei
-- **Jaluzele Raffstore 80mm** (100×150 cm, motor Somfy, montaj inclus): 2.200–3.500 lei
+- **Jaluzele Raffstore C80** (100×150 cm, motor Somfy, montaj inclus): 1.200–1.800 lei · manual: 600–900 lei
 - **Sistem complet nZEB** (fereastră + precadre Blaugelb + benzi + triplu geam): +300–450 lei/fereastră față de montaj standard
 - **Export UE**: prețuri la cerere, fără taxe vamale intra-UE, documentație CE completă
 
@@ -338,10 +338,533 @@ nZEB (Nearly Zero Energy Building) este standardul european obligatoriu în Rom�
 Da. Neofort BIZ livrează tâmplărie în toată Uniunea Europeană. Montajul este disponibil în România și țările limitrofe. Pentru export Europa, livrăm cu documentație CE completă, fără taxe vamale intra-UE.
 
 **Ce sisteme de aluminiu sunt recomandate pentru blocuri rezidențiale noi?**
-Pentru blocuri rezidențiale noi, Neofort BIZ recomandă Reynaers ConceptSystem 77 sau Alumil Smartia S67 — sisteme cu barieră termică, Uw de la 1,3 W/m²K pentru Smartia S67, rezistență antiefracție RC2, disponibile în orice culoare RAL. Prețul orientativ: 2.800–6.500 EUR per apartament (inclusiv montaj).
+Pentru blocuri rezidențiale noi, Neofort BIZ recomandă Reynaers ConceptSystem 77 sau Alumil Smartia S67 — sisteme cu barieră termică, Uf de la 1,5 W/m²K pentru Smartia S67, rezistență antiefracție RC2, disponibile în orice culoare RAL. Prețul orientativ: 2.800–6.500 EUR per apartament (inclusiv montaj).
 
 **Cum se montează geamurile agabaritice de mari dimensiuni?**
 Geamurile agabaritice (peste 150 kg per panou) se montează exclusiv cu echipament robotizat cu ventuze cu vid — sistemul TGT RoboCrane 1400 (capacitate 1.400 kg, precizie ±1mm). Montajul manual al panourilor grele prezintă risc major de spargere și accidente.
+
+## Articole tehnice (blog)
+
+Cele 56 de articole tehnice, cu titlu și URL în română. Fiecare există în toate cele 6 limbi — URL-urile traduse sunt în secțiunea următoare, iar textul integral în /llms-full.txt.
+
+- [Pompa de căldură și ferestrele vechi](https://www.neofort-biz.ro/ro/blog/pompa-de-caldura-si-ferestre-de-ce-conteaza-uw) — 2026-08 · Eficiență energetică
+- [De la nZEB la ZEB: ce se schimbă](https://www.neofort-biz.ro/ro/blog/de-la-nzeb-la-zeb-ce-schimba-epbd-pentru-ferestre) — 2026-08 · Sisteme nZEB
+- [Testul cu coala de hârtie la fereastră](https://www.neofort-biz.ro/ro/blog/testul-cu-coala-de-hartie-identifici-unde-intra-aerul-fereastra) — 2026-07 · Ghid practic
+- [De ce șuieră termopanele la vânt](https://www.neofort-biz.ro/ro/blog/de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii) — 2026-07 · Ghid tehnic
+- [Cum reglezi feroneria Roto iarnă/vară](https://www.neofort-biz.ro/ro/blog/cum-reglezi-feroneria-roto-iarna-vara-cheie-imbus) — 2026-07 · Ghid practic
+- [Schimbi ferestrele la bloc fără acord?](https://www.neofort-biz.ro/ro/blog/pot-schimba-ferestrele-bloc-fara-acordul-asociatiei-2026) — 2026-06 · Legislație
+- [Când înlocuiești garniturile ferestrei](https://www.neofort-biz.ro/ro/blog/cand-trebuie-inlocuite-garniturile-ferestrei-semne) — 2026-06 · Ghid practic
+- [Ai nevoie de autorizație pentru ferestre?](https://www.neofort-biz.ro/ro/blog/autorizatie-construire-schimbare-ferestre-apartament-casa-2026) — 2026-06 · Legislație
+- [Certificatul energetic și ferestrele](https://www.neofort-biz.ro/ro/blog/certificat-energetic-cladire-ce-este-componente-rol-ferestre) — 2026-06 · Eficiență energetică
+- [Subvenții ferestre 2026: ce program ai](https://www.neofort-biz.ro/ro/blog/subventii-programe-schimb-ferestre-2026-pnrr-casa-eficienta) — 2026-06 · Finanțare & Subvenții
+- [Cât durează o fereastră PVC?](https://www.neofort-biz.ro/ro/blog/cat-dureaza-o-fereastra-pvc-cand-trebuie-inlocuita) — 2026-06 · Ghid practic
+- [Legislație 2026 produse de construcții](https://www.neofort-biz.ro/ro/blog/legislatie-2026-produse-constructii-regulament-european) — 2026-05 · Legislație
+- [Ce coeficient termic Uw să aibă geamul](https://www.neofort-biz.ro/ro/blog/ce-coeficient-termic-trebuie-sa-aiba-ferestrele) — 2026-05 · Ghid tehnic
+- [Ce ferestre alegi pentru o casă nZEB](https://www.neofort-biz.ro/ro/blog/ferestre-casa-nzeb-romania-ghid-complet-2026) — 2026-05 · Sisteme nZEB
+- [Tripan vs termopan: cât economisești](https://www.neofort-biz.ro/ro/blog/tripan-vs-termopan-economii-reale-incalzire-pret) — 2026-05 · Ghid tehnic
+- [PVC sau aluminiu pentru case nZEB](https://www.neofort-biz.ro/ro/blog/pvc-sau-aluminiu-case-nzeb-2026-ghid-alegere) — 2026-05 · Ghid tehnic
+- [Cum îmbunătățești izolația ferestrelor](https://www.neofort-biz.ro/ro/blog/cum-imbunatatesc-izolatie-termica-ferestre-bucuresti) — 2026-05 · Ghid tehnic
+- [Cele mai bune uși aluminiu Sector 1](https://www.neofort-biz.ro/ro/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti) — 2026-04 · Tâmplărie Aluminiu
+- [Izolație perimetrală ferestre: opțiuni](https://www.neofort-biz.ro/ro/blog/optiuni-izolatie-perimetrala-ferestre-romania-2026) — 2026-04 · Sisteme nZEB
+- [Termopane cu izolație avansată](https://www.neofort-biz.ro/ro/blog/unde-comand-termopane-izolatie-avansata-bucuresti) — 2026-04 · Tâmplărie PVC
+- [Prețuri ferestre Salamander București](https://www.neofort-biz.ro/ro/blog/preturi-ferestre-salamander-bucuresti-2026) — 2026-04 · Tâmplărie PVC
+- [Cum se montează corect termopanele](https://www.neofort-biz.ro/ro/blog/cum-se-monteaza-corect-termopanele-salamander-bucuresti) — 2026-04 · Tâmplărie PVC
+- [Sistem nZEB: Salamander 92 + Blaugelb](https://www.neofort-biz.ro/ro/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu) — 2026-04 · Sisteme nZEB
+- [Unde cumperi umbrire exterioară](https://www.neofort-biz.ro/ro/blog/unde-cumpar-jaluzele-exterioare-bucuresti) — 2026-04 · Sisteme Umbrire
+- [Mitul PVC-ului toxic: ce spune știința](https://www.neofort-biz.ro/ro/blog/mitul-pvc-toxic-siguranta-compozitie-evolutie-ferestre) — 2026-04 · Ghid tehnic
+- [Pergolă bioclimatică vs clasică](https://www.neofort-biz.ro/ro/blog/pergola-bioclimatica-vs-clasica-ghid-alegere) — 2026-03 · Sisteme Umbrire
+- [Tâmplărie PVC osciloculisantă dublă](https://www.neofort-biz.ro/ro/blog/tamplarie-pvc-osciloculisanta-dubla-salamander) — 2026-03 · Ghid tehnic
+- [Ușă culisantă PVC cu plasă plissé](https://www.neofort-biz.ro/ro/blog/usa-culisanta-pvc-salamander-evolutiondrive-plus-plasa-plisse) — 2026-03 · Ghid tehnic
+- [Montaj ușă culisantă și armonică](https://www.neofort-biz.ro/ro/blog/montaj-tamplarie-salamander-evolutiondrive-plus-culisanta-alumil-m19800-armonice) — 2026-03 · Proiecte realizate
+- [Uși antiefracție cu amprentă digitală](https://www.neofort-biz.ro/ro/blog/usi-intrare-antiefractie-comanda-tactica-amprenta-digitala-aluminiu) — 2026-03 · Ghid tehnic
+- [Zipscreen blackout sau transparent?](https://www.neofort-biz.ro/ro/blog/rulouri-zipscreen-blackout-sau-transparent-cum-alegi) — 2026-03 · Sisteme de Umbrire
+- [Cum alegi ferestre eficiente energetic](https://www.neofort-biz.ro/ro/blog/cum-aleg-ferestre-eficiente-energetic-bucuresti-ghid-nzeb-2026) — 2026-03 · Ghiduri & Sfaturi
+- [Ferestre Salamander cu livrare în UE](https://www.neofort-biz.ro/ro/blog/unde-gasesc-ferestre-salamander-cu-livrare-internationala) — 2026-03 · Export & Livrare
+- [Unde comanzi uși aluminiu Sector 1](https://www.neofort-biz.ro/ro/blog/unde-comand-usi-aluminiu-sector-1-bucuresti) — 2026-03 · Tâmplărie Aluminiu
+- [Prețuri termopane Salamander 2026](https://www.neofort-biz.ro/ro/blog/preturi-termopane-salamander-bucuresti) — 2026-03 · Prețuri & Ghid
+- [Prețuri tâmplărie aluminiu: 4 mărci](https://www.neofort-biz.ro/ro/blog/preturi-tamplarie-aluminiu-alumil-aluprof-cortizo-reynaers-bucuresti) — 2026-03 · Prețuri & Comparație
+- [Ferestre și uși inteligente din aluminiu](https://www.neofort-biz.ro/ro/blog/tamplarie-aluminiu-smart-home-ferestre-usi-inteligente) — 2026-03 · Smart Home & Automatizare
+- [Pereți cortină pentru clădiri de birouri](https://www.neofort-biz.ro/ro/blog/pereti-cortina-birouri-bucuresti-ghid-complet-2026) — 2026-03 · Pereți Cortină & Birouri
+- [Înlocuire ferestre vechi în apartament](https://www.neofort-biz.ro/ro/blog/inlocuire-ferestre-vechi-renovare-apartament-bucuresti) — 2026-03 · Renovare & Ghid
+- [Tâmplărie Salamander pentru case și vile](https://www.neofort-biz.ro/ro/blog/tamplarie-salamander-case-individuale-vile-export-europa) — 2026-03 · Case Individuale & Export
+- [Tâmplărie Reynaers pentru blocuri noi](https://www.neofort-biz.ro/ro/blog/tamplarie-aluminiu-reynaers-bloc-nou-construit-bucuresti) — 2026-03 · Construcții Noi & Blocuri
+- [BluEvolution 92 la casă smart: lucrare](https://www.neofort-biz.ro/ro/blog/salamander-bluevolution-92-casa-noua-smart-home-bucuresti) — 2026-03 · Case Noi & Smart Home
+- [BluEvolution 92 ALU: export casă munte](https://www.neofort-biz.ro/ro/blog/salamander-bluevolution-92-alu-placat-aluminiu-export-franta-casa-munte) — 2026-03 · Export & Case Munte
+- [Vitrine și geamuri panoramice mari](https://www.neofort-biz.ro/ro/blog/vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti) — 2026-03 · Vitrine & Geamuri Mari
+- [Montaj geamuri agabaritice cu robot](https://www.neofort-biz.ro/ro/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni) — 2026-03 · Montaj Specializat
+- [Pereți cortină: lucrări în București](https://www.neofort-biz.ro/ro/blog/tamplarie-aluminiu-pereti-cortina-fatade-sticla-lucrari-bucuresti) — 2026-03 · Lucrări București
+- [Pereți cortină și fațade din sticlă](https://www.neofort-biz.ro/ro/blog/pereti-cortina-fatade-sticla-ghid-complet) — 2026-03 · Pereți Cortină
+- [Sisteme de umbrire exterioară: ghid](https://www.neofort-biz.ro/ro/blog/zipscreen-umbrire-terasa-ghid-complet) — 2026-03 · Sisteme Umbrire
+- [Tâmplărie aluminiu cu barieră termică](https://www.neofort-biz.ro/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet) — 2026-03 · Tâmplărie Aluminiu
+- [Export tâmplărie în Germania: cum merge](https://www.neofort-biz.ro/ro/blog/export-tamplarie-germania) — 2026-03 · Export & Europa
+- [Raffstore vs rulouri exterioare](https://www.neofort-biz.ro/ro/blog/jaluzele-raffstore-vs-rulouri-aluminiu) — 2026-03 · Comparație produse
+- [Precadre Blaugelb: de ce sunt necesare](https://www.neofort-biz.ro/ro/blog/montaj-precadre-blaugelb-nzeb) — 2026-02 · Montaj & Izolare
+- [BluEvolution 92 vs GreenEvolution 76](https://www.neofort-biz.ro/ro/blog/bluevolution-92-vs-greenevolution-76) — 2026-02 · Ghid tehnic
+- [Motor Somfy pentru rulouri exterioare](https://www.neofort-biz.ro/ro/blog/somfy-rulouri-motoare-exterioare) — 2026-02 · Automatizare & Smart Home
+- [Automatizare Somfy pentru pergole](https://www.neofort-biz.ro/ro/blog/somfy-automatizare-pergole-copertine) — 2026-01 · Automatizare & Smart Home
+- [Somfy TaHoma: casa dintr-o aplicație](https://www.neofort-biz.ro/ro/blog/somfy-tahoma-smart-home-romania) — 2025-12 · Automatizare & Smart Home
+
+## Index articole pe limbi
+
+### English (en)
+- https://www.neofort-biz.ro/en/blog/heat-pump-and-windows-why-uw-matters
+- https://www.neofort-biz.ro/en/blog/from-nzeb-to-zeb-what-epbd-changes-for-windows
+- https://www.neofort-biz.ro/en/blog/paper-sheet-test-find-where-air-enters-window
+- https://www.neofort-biz.ro/en/blog/why-do-windows-whistle-when-the-wind-blows-causes-solutions
+- https://www.neofort-biz.ro/en/blog/how-to-adjust-roto-hardware-winter-summer-allen-key
+- https://www.neofort-biz.ro/en/blog/can-i-replace-windows-apartment-block-without-association-approval-2026
+- https://www.neofort-biz.ro/en/blog/when-window-gaskets-need-replacing-signs
+- https://www.neofort-biz.ro/en/blog/building-permit-window-replacement-apartment-house-2026
+- https://www.neofort-biz.ro/en/blog/building-energy-certificate-what-is-components-role-windows
+- https://www.neofort-biz.ro/en/blog/subsidies-programmes-window-replacement-2026-pnrr-energy-efficient-home
+- https://www.neofort-biz.ro/en/blog/how-long-do-pvc-windows-last-when-to-replace-them
+- https://www.neofort-biz.ro/en/blog/construction-products-legislation-2026-eu-regulation
+- https://www.neofort-biz.ro/en/blog/what-thermal-coefficient-should-windows-have
+- https://www.neofort-biz.ro/en/blog/windows-nzeb-house-romania-complete-guide-2026
+- https://www.neofort-biz.ro/en/blog/triple-vs-double-glazing-real-savings-heating-cost
+- https://www.neofort-biz.ro/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide
+- https://www.neofort-biz.ro/en/blog/how-to-improve-window-thermal-insulation-bucharest
+- https://www.neofort-biz.ro/en/blog/best-aluminium-doors-sector-1-bucharest
+- https://www.neofort-biz.ro/en/blog/perimeter-insulation-options-windows-romania-2026
+- https://www.neofort-biz.ro/en/blog/where-to-order-advanced-insulation-windows-bucharest
+- https://www.neofort-biz.ro/en/blog/salamander-window-prices-bucharest-2026
+- https://www.neofort-biz.ro/en/blog/how-to-correctly-install-salamander-windows-bucharest
+- https://www.neofort-biz.ro/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing
+- https://www.neofort-biz.ro/en/blog/where-to-buy-exterior-blinds-bucharest
+- https://www.neofort-biz.ro/en/blog/pvc-toxic-myth-safety-composition-evolution-windows
+- https://www.neofort-biz.ro/en/blog/bioclimatic-vs-classic-pergola-guide
+- https://www.neofort-biz.ro/en/blog/tilt-turn-double-pvc-windows-salamander
+- https://www.neofort-biz.ro/en/blog/salamander-evolutiondrive-plus-sliding-door-plisse-screen
+- https://www.neofort-biz.ro/en/blog/installation-salamander-evolutiondrive-plus-sliding-alumil-m19800-folding-door
+- https://www.neofort-biz.ro/en/blog/anti-burglary-entry-doors-fingerprint-touch-aluminium
+- https://www.neofort-biz.ro/en/blog/zipscreen-blinds-blackout-or-transparent-how-to-choose
+- https://www.neofort-biz.ro/en/blog/how-to-choose-energy-efficient-windows-bucharest-nzeb-guide-2026
+- https://www.neofort-biz.ro/en/blog/where-to-find-salamander-windows-with-international-delivery
+- https://www.neofort-biz.ro/en/blog/where-to-order-aluminium-doors-sector-1-bucharest
+- https://www.neofort-biz.ro/en/blog/salamander-double-glazing-prices-bucharest
+- https://www.neofort-biz.ro/en/blog/aluminium-windows-prices-alumil-aluprof-cortizo-reynaers-bucharest
+- https://www.neofort-biz.ro/en/blog/aluminium-windows-smart-home-automated-windows-doors
+- https://www.neofort-biz.ro/en/blog/curtain-wall-office-buildings-bucharest-complete-guide-2026
+- https://www.neofort-biz.ro/en/blog/replacing-old-windows-apartment-renovation-bucharest
+- https://www.neofort-biz.ro/en/blog/salamander-windows-individual-houses-villas-europe-export
+- https://www.neofort-biz.ro/en/blog/reynaers-aluminium-windows-new-residential-block-bucharest
+- https://www.neofort-biz.ro/en/blog/salamander-bluevolution-92-new-house-smart-home-bucharest
+- https://www.neofort-biz.ro/en/blog/salamander-bluevolution-92-alu-aluminium-clad-export-france-mountain-house
+- https://www.neofort-biz.ro/en/blog/glass-shopfronts-panoramic-large-format-tempered-windows-bucharest
+- https://www.neofort-biz.ro/en/blog/oversized-glass-installation-robot-vacuum-cups-large-panels
+- https://www.neofort-biz.ro/en/blog/aluminium-joinery-curtain-walls-glass-facades-projects-bucharest
+- https://www.neofort-biz.ro/en/blog/curtain-wall-glass-facades-complete-guide
+- https://www.neofort-biz.ro/en/blog/zipscreen-terrace-shading-complete-guide
+- https://www.neofort-biz.ro/en/blog/aluminium-windows-thermal-break-complete-guide
+- https://www.neofort-biz.ro/en/blog/export-windows-germany-romania
+- https://www.neofort-biz.ro/en/blog/raffstore-blinds-vs-aluminium-shutters
+- https://www.neofort-biz.ro/en/blog/blaugelb-triotherm-precasing-installation-nzeb
+- https://www.neofort-biz.ro/en/blog/bluevolution-92-vs-greenevolution-76-comparison
+- https://www.neofort-biz.ro/en/blog/somfy-shutter-motors
+- https://www.neofort-biz.ro/en/blog/somfy-pergola-awning-automation
+- https://www.neofort-biz.ro/en/blog/somfy-tahoma-smart-home-bucharest
+
+### Deutsch (de)
+- https://www.neofort-biz.ro/de/blog/waermepumpe-und-fenster-warum-der-uw-wert-zaehlt
+- https://www.neofort-biz.ro/de/blog/von-nzeb-zu-zeb-was-die-epbd-fuer-fenster-aendert
+- https://www.neofort-biz.ro/de/blog/papiertest-herausfinden-wo-luft-am-fenster-eindringt
+- https://www.neofort-biz.ro/de/blog/warum-pfeifen-fenster-bei-wind-ursachen-loesungen
+- https://www.neofort-biz.ro/de/blog/roto-beschlag-winter-sommer-einstellen-inbusschluessel
+- https://www.neofort-biz.ro/de/blog/fenster-wohnblock-ohne-zustimmung-eigentuemergemeinschaft-2026
+- https://www.neofort-biz.ro/de/blog/wann-fensterdichtungen-ersetzt-werden-muessen-anzeichen
+- https://www.neofort-biz.ro/de/blog/baugenehmigung-fenstertausch-wohnung-haus-2026
+- https://www.neofort-biz.ro/de/blog/gebaeude-energieausweis-was-ist-komponenten-rolle-fenster
+- https://www.neofort-biz.ro/de/blog/foerderungen-programme-fenstertausch-2026-pnrr-energieeffizientes-haus
+- https://www.neofort-biz.ro/de/blog/wie-lange-halten-pvc-fenster-wann-ersetzen
+- https://www.neofort-biz.ro/de/blog/bauprodukte-gesetzgebung-2026-eu-verordnung-aenderungen
+- https://www.neofort-biz.ro/de/blog/welchen-waermedurchgangskoeffizient-sollen-fenster-haben
+- https://www.neofort-biz.ro/de/blog/fenster-nzeb-haus-rumaenien-vollstaendiger-ratgeber-2026
+- https://www.neofort-biz.ro/de/blog/dreifach-vs-zweifachverglasung-reale-einsparungen-heizkosten
+- https://www.neofort-biz.ro/de/blog/pvc-oder-aluminium-nzeb-haeuser-2026-ratgeber
+- https://www.neofort-biz.ro/de/blog/wie-verbessere-ich-die-waermedaemmung-der-fenster-in-bukarest
+- https://www.neofort-biz.ro/de/blog/beste-aluminiumtueren-sektor-1-bukarest
+- https://www.neofort-biz.ro/de/blog/perimeterdaemmung-optionen-fenster-rumaenien-2026
+- https://www.neofort-biz.ro/de/blog/wo-bestelle-ich-fenster-mit-erweiterter-daemmung-bukarest
+- https://www.neofort-biz.ro/de/blog/salamander-fenster-preise-bukarest-2026
+- https://www.neofort-biz.ro/de/blog/wie-werden-salamander-fenster-richtig-montiert-bukarest
+- https://www.neofort-biz.ro/de/blog/komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung
+- https://www.neofort-biz.ro/de/blog/wo-kaufe-ich-aussenjalousien-bukarest
+- https://www.neofort-biz.ro/de/blog/pvc-giftig-mythos-sicherheit-zusammensetzung-entwicklung-fenster
+- https://www.neofort-biz.ro/de/blog/bioklimatische-vs-klassische-pergola-ratgeber
+- https://www.neofort-biz.ro/de/blog/pvc-fenster-dreh-kipp-salamander
+- https://www.neofort-biz.ro/de/blog/salamander-evolutiondrive-plus-schiebetuer-plissee
+- https://www.neofort-biz.ro/de/blog/montage-salamander-evolutiondrive-plus-schiebetuer-alumil-m19800-falttuer
+- https://www.neofort-biz.ro/de/blog/einbruchsichere-eingangstuer-fingerabdruck-touchbedienung-aluminium
+- https://www.neofort-biz.ro/de/blog/zipscreen-rollos-blackout-oder-transparent-wie-waehlen
+- https://www.neofort-biz.ro/de/blog/energieeffiziente-fenster-bukarest-auswaehlen-nzeb-leitfaden-2026
+- https://www.neofort-biz.ro/de/blog/wo-finde-ich-salamander-fenster-mit-internationalem-versand
+- https://www.neofort-biz.ro/de/blog/wo-aluminiumtueren-sektor-1-bukarest-bestellen
+- https://www.neofort-biz.ro/de/blog/salamander-isolierglas-preise-bukarest
+- https://www.neofort-biz.ro/de/blog/aluminiumfenster-preise-alumil-aluprof-cortizo-reynaers-bukarest
+- https://www.neofort-biz.ro/de/blog/aluminiumfenster-smart-home-automatisierte-fenster-tueren
+- https://www.neofort-biz.ro/de/blog/vorhangfassade-buerogebaeude-bukarest-komplett-leitfaden-2026
+- https://www.neofort-biz.ro/de/blog/alte-fenster-ersetzen-wohnungsrenovierung-bukarest
+- https://www.neofort-biz.ro/de/blog/salamander-fenster-einfamilienhaeuser-villen-europa-export
+- https://www.neofort-biz.ro/de/blog/reynaers-aluminiumfenster-neubau-wohnblock-bukarest
+- https://www.neofort-biz.ro/de/blog/salamander-bluevolution-92-neubau-smart-home-bukarest
+- https://www.neofort-biz.ro/de/blog/salamander-bluevolution-92-alu-aluminiumverkleidung-export-frankreich-berghaus
+- https://www.neofort-biz.ro/de/blog/schaufenster-panoramascheiben-grosse-abmessungen-sicherheitsglas-bukarest
+- https://www.neofort-biz.ro/de/blog/montage-uebergrosseglaesscheiben-roboter-saugnaepfe-grossformat
+- https://www.neofort-biz.ro/de/blog/aluminiumtischlerarbeiten-vorhangfassaden-glasfassaden-projekte-bukarest
+- https://www.neofort-biz.ro/de/blog/vorhangfassade-glasfassade-komplett-leitfaden
+- https://www.neofort-biz.ro/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden
+- https://www.neofort-biz.ro/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden
+- https://www.neofort-biz.ro/de/blog/fensterexport-rumaenien-deutschland
+- https://www.neofort-biz.ro/de/blog/raffstore-jalousien-vs-aluminiumrolllaeden
+- https://www.neofort-biz.ro/de/blog/blaugelb-triotherm-vorfenster-montage-nzeb
+- https://www.neofort-biz.ro/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden
+- https://www.neofort-biz.ro/de/blog/somfy-rolllaeden-motoren
+- https://www.neofort-biz.ro/de/blog/somfy-pergola-markisen-automatisierung
+- https://www.neofort-biz.ro/de/blog/somfy-tahoma-smart-home-bukarest
+
+### Français (fr)
+- https://www.neofort-biz.ro/fr/blog/pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte
+- https://www.neofort-biz.ro/fr/blog/de-nzeb-a-zeb-ce-que-change-la-epbd-pour-les-fenetres
+- https://www.neofort-biz.ro/fr/blog/test-feuille-papier-trouver-ou-entre-air-fenetre
+- https://www.neofort-biz.ro/fr/blog/pourquoi-les-fenetres-sifflent-quand-le-vent-souffle-causes-solutions
+- https://www.neofort-biz.ro/fr/blog/regler-quincaillerie-roto-hiver-ete-cle-allen
+- https://www.neofort-biz.ro/fr/blog/remplacer-fenetres-immeuble-sans-accord-association-coproprietaires-2026
+- https://www.neofort-biz.ro/fr/blog/quand-remplacer-joints-fenetre-signes
+- https://www.neofort-biz.ro/fr/blog/permis-construire-remplacement-fenetres-appartement-maison-2026
+- https://www.neofort-biz.ro/fr/blog/certificat-energetique-batiment-quest-ce-composants-role-fenetres
+- https://www.neofort-biz.ro/fr/blog/subventions-programmes-remplacement-fenetres-2026-pnrr-maison-econome
+- https://www.neofort-biz.ro/fr/blog/combien-de-temps-durent-les-fenetres-pvc-quand-les-remplacer
+- https://www.neofort-biz.ro/fr/blog/legislation-2026-produits-construction-reglement-europeen
+- https://www.neofort-biz.ro/fr/blog/quel-coefficient-thermique-pour-les-fenetres
+- https://www.neofort-biz.ro/fr/blog/fenetres-maison-nzeb-roumanie-guide-complet-2026
+- https://www.neofort-biz.ro/fr/blog/triple-vs-double-vitrage-economies-reelles-chauffage-prix
+- https://www.neofort-biz.ro/fr/blog/pvc-ou-aluminium-maisons-nzeb-2026-guide-complet
+- https://www.neofort-biz.ro/fr/blog/comment-ameliorer-isolation-thermique-fenetres-bucarest
+- https://www.neofort-biz.ro/fr/blog/meilleures-portes-aluminium-secteur-1-bucarest
+- https://www.neofort-biz.ro/fr/blog/options-isolation-perimetrale-fenetres-roumanie-2026
+- https://www.neofort-biz.ro/fr/blog/ou-commander-fenetres-isolation-avancee-bucarest
+- https://www.neofort-biz.ro/fr/blog/prix-fenetres-salamander-bucarest-2026
+- https://www.neofort-biz.ro/fr/blog/comment-installer-correctement-fenetres-salamander-bucarest
+- https://www.neofort-biz.ro/fr/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage
+- https://www.neofort-biz.ro/fr/blog/ou-acheter-stores-exterieurs-bucarest
+- https://www.neofort-biz.ro/fr/blog/mythe-pvc-toxique-securite-composition-evolution-fenetres
+- https://www.neofort-biz.ro/fr/blog/pergola-bioclimatique-vs-classique-guide
+- https://www.neofort-biz.ro/fr/blog/fenetre-pvc-oscillo-battant-double-salamander
+- https://www.neofort-biz.ro/fr/blog/porte-coulissante-pvc-salamander-evolutiondrive-plus-moustiquaire-plisse
+- https://www.neofort-biz.ro/fr/blog/pose-menuiserie-salamander-evolutiondrive-plus-coulissant-alumil-m19800-accordeon
+- https://www.neofort-biz.ro/fr/blog/porte-entree-anti-effraction-commande-tactile-empreinte-aluminium
+- https://www.neofort-biz.ro/fr/blog/stores-zipscreen-occultant-ou-transparent-comment-choisir
+- https://www.neofort-biz.ro/fr/blog/comment-choisir-fenetres-efficaces-energetiquement-bucarest-nzeb-2026
+- https://www.neofort-biz.ro/fr/blog/ou-trouver-fenetres-salamander-avec-livraison-internationale
+- https://www.neofort-biz.ro/fr/blog/ou-commander-portes-aluminium-secteur-1-bucarest
+- https://www.neofort-biz.ro/fr/blog/prix-double-vitrage-salamander-bucarest
+- https://www.neofort-biz.ro/fr/blog/prix-menuiserie-aluminium-alumil-aluprof-cortizo-reynaers-bucarest
+- https://www.neofort-biz.ro/fr/blog/menuiserie-aluminium-maison-intelligente-fenetres-portes-automatisees
+- https://www.neofort-biz.ro/fr/blog/mur-rideau-immeubles-bureaux-bucarest-guide-complet-2026
+- https://www.neofort-biz.ro/fr/blog/remplacement-fenetres-renovation-appartement-bucarest
+- https://www.neofort-biz.ro/fr/blog/menuiserie-salamander-maisons-individuelles-villas-export-europe
+- https://www.neofort-biz.ro/fr/blog/menuiserie-aluminium-reynaers-immeuble-neuf-bucarest
+- https://www.neofort-biz.ro/fr/blog/salamander-bluevolution-92-maison-neuve-maison-intelligente-bucarest
+- https://www.neofort-biz.ro/fr/blog/salamander-bluevolution-92-alu-revetu-aluminium-export-france-maison-montagne
+- https://www.neofort-biz.ro/fr/blog/vitrines-verre-fenetres-panoramiques-grandes-dimensions-securisees-bucarest
+- https://www.neofort-biz.ro/fr/blog/pose-verre-surdimensionne-robot-ventouses-grands-panneaux
+- https://www.neofort-biz.ro/fr/blog/menuiserie-aluminium-murs-rideaux-facades-verre-projets-bucarest
+- https://www.neofort-biz.ro/fr/blog/mur-rideau-facade-verre-guide-complet
+- https://www.neofort-biz.ro/fr/blog/zipscreen-ombriere-terrasse-guide-complet
+- https://www.neofort-biz.ro/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet
+- https://www.neofort-biz.ro/fr/blog/export-menuiseries-roumanie-allemagne
+- https://www.neofort-biz.ro/fr/blog/stores-raffstore-vs-volets-roulants-aluminium
+- https://www.neofort-biz.ro/fr/blog/precadres-blaugelb-triotherm-pose-nzeb
+- https://www.neofort-biz.ro/fr/blog/bluevolution-92-vs-greenevolution-76-guide
+- https://www.neofort-biz.ro/fr/blog/somfy-moteurs-volets
+- https://www.neofort-biz.ro/fr/blog/somfy-automatisation-pergola-store
+- https://www.neofort-biz.ro/fr/blog/somfy-tahoma-maison-connectee-bucarest
+
+### Español (es)
+- https://www.neofort-biz.ro/es/blog/bomba-de-calor-y-ventanas-por-que-importa-el-uw
+- https://www.neofort-biz.ro/es/blog/de-nzeb-a-zeb-que-cambia-la-epbd-para-las-ventanas
+- https://www.neofort-biz.ro/es/blog/prueba-hoja-papel-encontrar-por-donde-entra-aire-ventana
+- https://www.neofort-biz.ro/es/blog/por-que-silban-las-ventanas-cuando-sopla-el-viento-causas-soluciones
+- https://www.neofort-biz.ro/es/blog/ajustar-herreria-roto-invierno-verano-llave-allen
+- https://www.neofort-biz.ro/es/blog/cambiar-ventanas-bloque-sin-acuerdo-comunidad-propietarios-2026
+- https://www.neofort-biz.ro/es/blog/cuando-sustituir-juntas-ventana-senales
+- https://www.neofort-biz.ro/es/blog/permiso-construccion-cambio-ventanas-apartamento-casa-2026
+- https://www.neofort-biz.ro/es/blog/certificado-energetico-edificio-que-es-componentes-papel-ventanas
+- https://www.neofort-biz.ro/es/blog/subvenciones-programas-cambio-ventanas-2026-pnrr-casa-eficiente
+- https://www.neofort-biz.ro/es/blog/cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas
+- https://www.neofort-biz.ro/es/blog/legislacion-2026-productos-construccion-reglamento-europeo
+- https://www.neofort-biz.ro/es/blog/que-coeficiente-termico-deben-tener-las-ventanas
+- https://www.neofort-biz.ro/es/blog/ventanas-casa-nzeb-rumania-guia-completa-2026
+- https://www.neofort-biz.ro/es/blog/triple-vs-doble-acristalamiento-ahorros-reales-calefaccion-precio
+- https://www.neofort-biz.ro/es/blog/pvc-o-aluminio-casas-nzeb-2026-guia-completa
+- https://www.neofort-biz.ro/es/blog/como-mejorar-aislamiento-termico-ventanas-bucarest
+- https://www.neofort-biz.ro/es/blog/mejores-puertas-aluminio-sector-1-bucarest
+- https://www.neofort-biz.ro/es/blog/opciones-aislamiento-perimetral-ventanas-rumania-2026
+- https://www.neofort-biz.ro/es/blog/donde-pedir-ventanas-aislamiento-avanzado-bucarest
+- https://www.neofort-biz.ro/es/blog/precios-ventanas-salamander-bucarest-2026
+- https://www.neofort-biz.ro/es/blog/como-instalar-correctamente-ventanas-salamander-bucarest
+- https://www.neofort-biz.ro/es/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento
+- https://www.neofort-biz.ro/es/blog/donde-comprar-persianas-exteriores-bucarest
+- https://www.neofort-biz.ro/es/blog/mito-pvc-toxico-seguridad-composicion-evolucion-ventanas
+- https://www.neofort-biz.ro/es/blog/pergola-bioclimatica-vs-clasica-guia
+- https://www.neofort-biz.ro/es/blog/ventana-pvc-oscilobatiente-doble-salamander
+- https://www.neofort-biz.ro/es/blog/puerta-corredera-pvc-salamander-evolutiondrive-plus-mosquitera-plise
+- https://www.neofort-biz.ro/es/blog/instalacion-carpinteria-salamander-evolutiondrive-plus-corredera-alumil-m19800-plegable
+- https://www.neofort-biz.ro/es/blog/puerta-entrada-antirrobo-control-tactil-huella-dactilar-aluminio
+- https://www.neofort-biz.ro/es/blog/persianas-zipscreen-blackout-o-transparente-como-elegir
+- https://www.neofort-biz.ro/es/blog/como-elegir-ventanas-eficientes-energeticamente-bucarest-nzeb-2026
+- https://www.neofort-biz.ro/es/blog/donde-encontrar-ventanas-salamander-con-entrega-internacional
+- https://www.neofort-biz.ro/es/blog/donde-pedir-puertas-aluminio-sector-1-bucarest
+- https://www.neofort-biz.ro/es/blog/precios-doble-acristalamiento-salamander-bucarest
+- https://www.neofort-biz.ro/es/blog/precios-carpinteria-aluminio-alumil-aluprof-cortizo-reynaers-bucarest
+- https://www.neofort-biz.ro/es/blog/carpinteria-aluminio-smart-home-ventanas-puertas-automatizadas
+- https://www.neofort-biz.ro/es/blog/muro-cortina-edificios-oficinas-bucarest-guia-completa-2026
+- https://www.neofort-biz.ro/es/blog/sustitucion-ventanas-renovacion-apartamento-bucarest
+- https://www.neofort-biz.ro/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa
+- https://www.neofort-biz.ro/es/blog/carpinteria-aluminio-reynaers-bloque-nueva-construccion-bucarest
+- https://www.neofort-biz.ro/es/blog/salamander-bluevolution-92-casa-nueva-smart-home-bucarest
+- https://www.neofort-biz.ro/es/blog/salamander-bluevolution-92-alu-revestido-aluminio-exportacion-francia-casa-montana
+- https://www.neofort-biz.ro/es/blog/vitrinas-cristal-ventanas-panoramicas-grandes-dimensiones-securizadas-bucarest
+- https://www.neofort-biz.ro/es/blog/instalacion-vidrio-sobredimensionado-robot-ventosas-grandes-paneles
+- https://www.neofort-biz.ro/es/blog/carpinteria-aluminio-muros-cortina-fachadas-vidrio-proyectos-bucarest
+- https://www.neofort-biz.ro/es/blog/muro-cortina-fachada-vidrio-guia-completa
+- https://www.neofort-biz.ro/es/blog/zipscreen-sombreado-terraza-guia-completa
+- https://www.neofort-biz.ro/es/blog/carpinteria-aluminio-rotura-termica-guia-completa
+- https://www.neofort-biz.ro/es/blog/exportacion-carpinteria-rumania-alemania
+- https://www.neofort-biz.ro/es/blog/persianas-raffstore-vs-cierres-enrollables-aluminio
+- https://www.neofort-biz.ro/es/blog/instalacion-premarcos-blaugelb-triotherm-nzeb
+- https://www.neofort-biz.ro/es/blog/bluevolution-92-vs-greenevolution-76-guia
+- https://www.neofort-biz.ro/es/blog/somfy-motores-persianas
+- https://www.neofort-biz.ro/es/blog/somfy-automatizacion-pergola-toldo
+- https://www.neofort-biz.ro/es/blog/somfy-tahoma-hogar-inteligente-bucarest
+
+### Italiano (it)
+- https://www.neofort-biz.ro/it/blog/pompa-di-calore-e-finestre-perche-conta-uw
+- https://www.neofort-biz.ro/it/blog/da-nzeb-a-zeb-cosa-cambia-la-epbd-per-le-finestre
+- https://www.neofort-biz.ro/it/blog/test-foglio-carta-scoprire-dove-entra-aria-finestra
+- https://www.neofort-biz.ro/it/blog/perche-le-finestre-fischiano-quando-soffia-il-vento-cause-soluzioni
+- https://www.neofort-biz.ro/it/blog/regolare-ferramenta-roto-inverno-estate-chiave-brugola
+- https://www.neofort-biz.ro/it/blog/sostituire-finestre-condominio-senza-consenso-associazione-2026
+- https://www.neofort-biz.ro/it/blog/quando-sostituire-guarnizioni-finestra-segni
+- https://www.neofort-biz.ro/it/blog/permesso-costruire-sostituzione-finestre-appartamento-casa-2026
+- https://www.neofort-biz.ro/it/blog/certificato-energetico-edificio-cos-e-componenti-ruolo-finestre
+- https://www.neofort-biz.ro/it/blog/incentivi-programmi-sostituzione-finestre-2026-pnrr-casa-efficiente
+- https://www.neofort-biz.ro/it/blog/quanto-durano-le-finestre-pvc-quando-sostituirle
+- https://www.neofort-biz.ro/it/blog/legislazione-2026-prodotti-costruzione-regolamento-europeo
+- https://www.neofort-biz.ro/it/blog/quale-coefficiente-termico-devono-avere-le-finestre
+- https://www.neofort-biz.ro/it/blog/finestre-casa-nzeb-romania-guida-completa-2026
+- https://www.neofort-biz.ro/it/blog/triplo-vs-doppio-vetro-risparmi-reali-riscaldamento-prezzo
+- https://www.neofort-biz.ro/it/blog/pvc-o-alluminio-case-nzeb-2026-guida-completa
+- https://www.neofort-biz.ro/it/blog/come-migliorare-isolamento-termico-finestre-bucarest
+- https://www.neofort-biz.ro/it/blog/migliori-porte-alluminio-settore-1-bucarest
+- https://www.neofort-biz.ro/it/blog/opzioni-isolamento-perimetrale-finestre-romania-2026
+- https://www.neofort-biz.ro/it/blog/dove-ordinare-finestre-isolamento-avanzato-bucarest
+- https://www.neofort-biz.ro/it/blog/prezzi-finestre-salamander-bucarest-2026
+- https://www.neofort-biz.ro/it/blog/come-installare-correttamente-finestre-salamander-bucarest
+- https://www.neofort-biz.ro/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro
+- https://www.neofort-biz.ro/it/blog/dove-comprare-veneziane-esterne-bucarest
+- https://www.neofort-biz.ro/it/blog/mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre
+- https://www.neofort-biz.ro/it/blog/pergola-bioclimatica-vs-classica-guida
+- https://www.neofort-biz.ro/it/blog/finestra-pvc-anta-ribalta-doppia-salamander
+- https://www.neofort-biz.ro/it/blog/porta-scorrevole-pvc-salamander-evolutiondrive-plus-zanzariera-plisse
+- https://www.neofort-biz.ro/it/blog/posa-serramenti-salamander-evolutiondrive-plus-scorrevole-alumil-m19800-pieghevole
+- https://www.neofort-biz.ro/it/blog/porta-ingresso-antieffrazione-comando-tattile-impronta-digitale-alluminio
+- https://www.neofort-biz.ro/it/blog/tende-zipscreen-oscuranti-o-trasparenti-come-scegliere
+- https://www.neofort-biz.ro/it/blog/come-scegliere-finestre-efficienti-energeticamente-bucarest-nzeb-2026
+- https://www.neofort-biz.ro/it/blog/dove-trovare-finestre-salamander-con-consegna-internazionale
+- https://www.neofort-biz.ro/it/blog/dove-ordinare-porte-alluminio-settore-1-bucarest
+- https://www.neofort-biz.ro/it/blog/prezzi-doppio-vetro-salamander-bucarest
+- https://www.neofort-biz.ro/it/blog/prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest
+- https://www.neofort-biz.ro/it/blog/infissi-alluminio-smart-home-finestre-porte-automatizzate
+- https://www.neofort-biz.ro/it/blog/parete-cortina-edifici-uffici-bucarest-guida-completa-2026
+- https://www.neofort-biz.ro/it/blog/sostituzione-finestre-ristrutturazione-appartamento-bucarest
+- https://www.neofort-biz.ro/it/blog/infissi-salamander-case-individuali-ville-esportazione-europa
+- https://www.neofort-biz.ro/it/blog/infissi-alluminio-reynaers-condominio-nuova-costruzione-bucarest
+- https://www.neofort-biz.ro/it/blog/salamander-bluevolution-92-casa-nuova-smart-home-bucarest
+- https://www.neofort-biz.ro/it/blog/salamander-bluevolution-92-alu-rivestito-alluminio-esportazione-francia-casa-montagna
+- https://www.neofort-biz.ro/it/blog/vetrine-vetro-finestre-panoramiche-grandi-dimensioni-securizzate-bucarest
+- https://www.neofort-biz.ro/it/blog/posa-vetro-sovradimensionato-robot-ventose-grandi-pannelli
+- https://www.neofort-biz.ro/it/blog/infissi-alluminio-pareti-cortina-facciate-vetro-progetti-bucarest
+- https://www.neofort-biz.ro/it/blog/parete-cortina-facciata-vetro-guida-completa
+- https://www.neofort-biz.ro/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa
+- https://www.neofort-biz.ro/it/blog/infissi-alluminio-taglio-termico-guida-completa
+- https://www.neofort-biz.ro/it/blog/esportazione-serramenti-romania-germania
+- https://www.neofort-biz.ro/it/blog/veneziane-raffstore-vs-tapparelle-alluminio
+- https://www.neofort-biz.ro/it/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb
+- https://www.neofort-biz.ro/it/blog/bluevolution-92-vs-greenevolution-76-guida
+- https://www.neofort-biz.ro/it/blog/somfy-motori-tapparelle
+- https://www.neofort-biz.ro/it/blog/somfy-automazione-pergola-tenda
+- https://www.neofort-biz.ro/it/blog/somfy-tahoma-casa-intelligente-bucarest
+
+## Index pagini pe limbi (categorii, prețuri, ghiduri, oraș)
+
+### Română (ro)
+- https://www.neofort-biz.ro/ro
+- https://www.neofort-biz.ro/ro/tamplarie-pvc
+- https://www.neofort-biz.ro/ro/tamplarie-aluminiu
+- https://www.neofort-biz.ro/ro/accesorii
+- https://www.neofort-biz.ro/ro/servicii
+- https://www.neofort-biz.ro/ro/contact
+- https://www.neofort-biz.ro/ro/blog
+- https://www.neofort-biz.ro/ro/despre
+- https://www.neofort-biz.ro/ro/umbrire
+- https://www.neofort-biz.ro/ro/sisteme-nzeb
+- https://www.neofort-biz.ro/ro/blog/categorie/pvc
+- https://www.neofort-biz.ro/ro/blog/categorie/aluminiu
+- https://www.neofort-biz.ro/ro/blog/categorie/umbrire
+- https://www.neofort-biz.ro/ro/blog/categorie/nzeb
+- https://www.neofort-biz.ro/ro/blog/categorie/automatizare
+- https://www.neofort-biz.ro/ro/blog/categorie/proiecte
+- https://www.neofort-biz.ro/ro/blog/categorie/ghiduri
+- https://www.neofort-biz.ro/ro/tamplarie-pvc/preturi
+- https://www.neofort-biz.ro/ro/tamplarie-pvc/bucuresti
+- https://www.neofort-biz.ro/ro/tamplarie-pvc/ghid-complet
+- https://www.neofort-biz.ro/ro/tamplarie-aluminiu/ghid-complet
+- https://www.neofort-biz.ro/ro/tamplarie-aluminiu/preturi
+- https://www.neofort-biz.ro/ro/tamplarie-aluminiu/bucuresti
+- https://www.neofort-biz.ro/ro/sisteme-nzeb/ghid-complet-nzeb
+- https://www.neofort-biz.ro/ro/umbrire/ghid-complet-sisteme-umbrire
+- https://www.neofort-biz.ro/ro/umbrire/preturi-sisteme-umbrire
+
+### English (en)
+- https://www.neofort-biz.ro/en
+- https://www.neofort-biz.ro/en/pvc-windows
+- https://www.neofort-biz.ro/en/aluminium-windows
+- https://www.neofort-biz.ro/en/accessories
+- https://www.neofort-biz.ro/en/services
+- https://www.neofort-biz.ro/en/contact
+- https://www.neofort-biz.ro/en/blog
+- https://www.neofort-biz.ro/en/about
+- https://www.neofort-biz.ro/en/shading-systems
+- https://www.neofort-biz.ro/en/nzeb-systems
+- https://www.neofort-biz.ro/en/blog/category/pvc
+- https://www.neofort-biz.ro/en/blog/category/aluminium
+- https://www.neofort-biz.ro/en/blog/category/shading
+- https://www.neofort-biz.ro/en/blog/category/nzeb
+- https://www.neofort-biz.ro/en/blog/category/automation
+- https://www.neofort-biz.ro/en/blog/category/projects
+- https://www.neofort-biz.ro/en/blog/category/guides
+- https://www.neofort-biz.ro/en/pvc-windows/prices
+- https://www.neofort-biz.ro/en/pvc-windows/bucharest
+- https://www.neofort-biz.ro/en/pvc-windows/complete-guide
+- https://www.neofort-biz.ro/en/aluminium-windows/complete-guide
+- https://www.neofort-biz.ro/en/aluminium-windows/prices
+- https://www.neofort-biz.ro/en/aluminium-windows/bucharest
+- https://www.neofort-biz.ro/en/nzeb-systems/complete-guide
+- https://www.neofort-biz.ro/en/shading-systems/complete-guide
+- https://www.neofort-biz.ro/en/shading-systems/shading-prices
+
+### Deutsch (de)
+- https://www.neofort-biz.ro/de
+- https://www.neofort-biz.ro/de/kunststofffenster-pvc
+- https://www.neofort-biz.ro/de/aluminiumfenster
+- https://www.neofort-biz.ro/de/zubehoer
+- https://www.neofort-biz.ro/de/dienstleistungen
+- https://www.neofort-biz.ro/de/kontakt
+- https://www.neofort-biz.ro/de/blog
+- https://www.neofort-biz.ro/de/ueber-uns
+- https://www.neofort-biz.ro/de/beschattungssysteme
+- https://www.neofort-biz.ro/de/nzeb-systeme
+- https://www.neofort-biz.ro/de/blog/kategorie/pvc
+- https://www.neofort-biz.ro/de/blog/kategorie/aluminium
+- https://www.neofort-biz.ro/de/blog/kategorie/beschattung
+- https://www.neofort-biz.ro/de/blog/kategorie/nzeb
+- https://www.neofort-biz.ro/de/blog/kategorie/automation
+- https://www.neofort-biz.ro/de/blog/kategorie/projekte
+- https://www.neofort-biz.ro/de/blog/kategorie/ratgeber
+- https://www.neofort-biz.ro/de/kunststofffenster-pvc/preise
+- https://www.neofort-biz.ro/de/kunststofffenster-pvc/bukarest
+- https://www.neofort-biz.ro/de/kunststofffenster-pvc/kompletter-ratgeber
+- https://www.neofort-biz.ro/de/aluminiumfenster/kompletter-ratgeber
+- https://www.neofort-biz.ro/de/aluminiumfenster/preise
+- https://www.neofort-biz.ro/de/aluminiumfenster/bukarest
+- https://www.neofort-biz.ro/de/nzeb-systeme/kompletter-ratgeber
+- https://www.neofort-biz.ro/de/beschattungssysteme/kompletter-ratgeber
+- https://www.neofort-biz.ro/de/beschattungssysteme/beschattung-preise
+
+### Français (fr)
+- https://www.neofort-biz.ro/fr
+- https://www.neofort-biz.ro/fr/menuiserie-pvc
+- https://www.neofort-biz.ro/fr/menuiserie-aluminium
+- https://www.neofort-biz.ro/fr/accessoires
+- https://www.neofort-biz.ro/fr/services
+- https://www.neofort-biz.ro/fr/contact
+- https://www.neofort-biz.ro/fr/blog
+- https://www.neofort-biz.ro/fr/a-propos
+- https://www.neofort-biz.ro/fr/systemes-occultation
+- https://www.neofort-biz.ro/fr/systemes-nzeb
+- https://www.neofort-biz.ro/fr/blog/categorie/pvc
+- https://www.neofort-biz.ro/fr/blog/categorie/aluminium
+- https://www.neofort-biz.ro/fr/blog/categorie/occultation
+- https://www.neofort-biz.ro/fr/blog/categorie/nzeb
+- https://www.neofort-biz.ro/fr/blog/categorie/automatisation
+- https://www.neofort-biz.ro/fr/blog/categorie/projets
+- https://www.neofort-biz.ro/fr/blog/categorie/guides
+- https://www.neofort-biz.ro/fr/menuiserie-pvc/prix
+- https://www.neofort-biz.ro/fr/menuiserie-pvc/bucarest
+- https://www.neofort-biz.ro/fr/menuiserie-pvc/guide-complet
+- https://www.neofort-biz.ro/fr/menuiserie-aluminium/guide-complet
+- https://www.neofort-biz.ro/fr/menuiserie-aluminium/prix
+- https://www.neofort-biz.ro/fr/menuiserie-aluminium/bucarest
+- https://www.neofort-biz.ro/fr/systemes-nzeb/guide-complet
+- https://www.neofort-biz.ro/fr/systemes-occultation/guide-complet
+- https://www.neofort-biz.ro/fr/systemes-occultation/prix-occultation
+
+### Español (es)
+- https://www.neofort-biz.ro/es
+- https://www.neofort-biz.ro/es/carpinteria-pvc
+- https://www.neofort-biz.ro/es/carpinteria-aluminio
+- https://www.neofort-biz.ro/es/accesorios
+- https://www.neofort-biz.ro/es/servicios
+- https://www.neofort-biz.ro/es/contacto
+- https://www.neofort-biz.ro/es/blog
+- https://www.neofort-biz.ro/es/sobre-nosotros
+- https://www.neofort-biz.ro/es/sistemas-sombreado
+- https://www.neofort-biz.ro/es/sistemas-nzeb
+- https://www.neofort-biz.ro/es/blog/categoria/pvc
+- https://www.neofort-biz.ro/es/blog/categoria/aluminio
+- https://www.neofort-biz.ro/es/blog/categoria/sombreado
+- https://www.neofort-biz.ro/es/blog/categoria/nzeb
+- https://www.neofort-biz.ro/es/blog/categoria/automatizacion
+- https://www.neofort-biz.ro/es/blog/categoria/proyectos
+- https://www.neofort-biz.ro/es/blog/categoria/guias
+- https://www.neofort-biz.ro/es/carpinteria-pvc/precios
+- https://www.neofort-biz.ro/es/carpinteria-pvc/bucarest
+- https://www.neofort-biz.ro/es/carpinteria-pvc/guia-completa
+- https://www.neofort-biz.ro/es/carpinteria-aluminio/guia-completa
+- https://www.neofort-biz.ro/es/carpinteria-aluminio/precios
+- https://www.neofort-biz.ro/es/carpinteria-aluminio/bucarest
+- https://www.neofort-biz.ro/es/sistemas-nzeb/guia-completa
+- https://www.neofort-biz.ro/es/sistemas-sombreado/guia-completa
+- https://www.neofort-biz.ro/es/sistemas-sombreado/precios-sombreado
+
+### Italiano (it)
+- https://www.neofort-biz.ro/it
+- https://www.neofort-biz.ro/it/infissi-pvc
+- https://www.neofort-biz.ro/it/infissi-alluminio
+- https://www.neofort-biz.ro/it/accessori
+- https://www.neofort-biz.ro/it/servizi
+- https://www.neofort-biz.ro/it/contatti
+- https://www.neofort-biz.ro/it/blog
+- https://www.neofort-biz.ro/it/chi-siamo
+- https://www.neofort-biz.ro/it/sistemi-oscuramento
+- https://www.neofort-biz.ro/it/sistemi-nzeb
+- https://www.neofort-biz.ro/it/blog/categoria/pvc
+- https://www.neofort-biz.ro/it/blog/categoria/alluminio
+- https://www.neofort-biz.ro/it/blog/categoria/oscuramento
+- https://www.neofort-biz.ro/it/blog/categoria/nzeb
+- https://www.neofort-biz.ro/it/blog/categoria/automazione
+- https://www.neofort-biz.ro/it/blog/categoria/progetti
+- https://www.neofort-biz.ro/it/blog/categoria/guide
+- https://www.neofort-biz.ro/it/infissi-pvc/prezzi
+- https://www.neofort-biz.ro/it/infissi-pvc/bucarest
+- https://www.neofort-biz.ro/it/infissi-pvc/guida-completa
+- https://www.neofort-biz.ro/it/infissi-alluminio/guida-completa
+- https://www.neofort-biz.ro/it/infissi-alluminio/prezzi
+- https://www.neofort-biz.ro/it/infissi-alluminio/bucarest
+- https://www.neofort-biz.ro/it/sistemi-nzeb/guida-completa
+- https://www.neofort-biz.ro/it/sistemi-oscuramento/guida-completa
+- https://www.neofort-biz.ro/it/sistemi-oscuramento/prezzi-oscuramento
 
 ## Resources for LLMs & Aggregators
 

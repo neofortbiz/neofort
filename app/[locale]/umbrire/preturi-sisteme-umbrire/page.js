@@ -409,9 +409,22 @@ export default async function UmbrirePreturiPage({ params }) {
     })),
   };
 
+
+  // v278: BreadcrumbList lipsea pe aceasta pagina, desi exista pe restul sitului.
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    '@id': `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}#breadcrumb`,
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: {ro:'Acasă',en:'Home',de:'Startseite',fr:'Accueil',es:'Inicio',it:'Home'}[locale] || 'Acasă', item: `${BASE}/${locale}` },
+      { '@type': 'ListItem', position: 2, name: ui.parent_label, item: `${BASE}/${locale}/${parentSlug}` },
+      { '@type': 'ListItem', position: 3, name: ui.h1, item: `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}` },
+    ],
+  };
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
 
       <section style={{ background: 'linear-gradient(135deg,#2d1a3a 0%,#5a2d6e 60%,#8a4a9e 100%)', padding: '72px 24px 56px', textAlign: 'center' }}>
         <div style={{ maxWidth: '860px', margin: '0 auto' }}>

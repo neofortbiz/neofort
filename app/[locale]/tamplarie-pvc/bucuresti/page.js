@@ -377,6 +377,25 @@ export default async function BucurestiPvcPage({ params }) {
     },
   };
 
+  // v278: semnal local. Pagina de aluminiu/bucuresti emitea LocalBusiness cu adresa,
+  // geo, program si areaServed; varianta PVC — linia principala de business — nu avea
+  // nimic din toate astea. Aceleasi date, ca sa nu existe doua "firme" diferite in index.
+  const localBusiness = {
+    '@context': 'https://schema.org', '@type': 'LocalBusiness',
+    '@id': `${BASE}/#localbusiness`,
+    name: 'Neofort BIZ', url: BASE,
+    telephone: ['+40215280661', '+40752443435'],
+    email: 'office@neofort-biz.ro',
+    address: { '@type': 'PostalAddress', streetAddress: 'Str. Theodor Aman Pictor 11', addressLocality: 'București', addressRegion: 'Sector 1', postalCode: '010776', addressCountry: 'RO' },
+    geo: { '@type': 'GeoCoordinates', latitude: 44.4430930263596, longitude: 26.088545186506916 },
+    areaServed: [
+      { '@type': 'City', name: 'București' },
+      { '@type': 'AdministrativeArea', name: 'Ilfov' },
+    ],
+    openingHoursSpecification: [{ '@type': 'OpeningHoursSpecification', dayOfWeek: ['Monday','Tuesday','Wednesday','Thursday','Friday'], opens: '10:00', closes: '18:00' }],
+    description: ui.sub,
+  };
+
   const faqSchema = {
     '@context': 'https://schema.org', '@type': 'FAQPage',
     mainEntity: ui.faq.map(([q, a]) => ({
@@ -389,6 +408,7 @@ export default async function BucurestiPvcPage({ params }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusiness) }}/>
 
       {/* PAGE HEADER */}
       <div className="page-header">

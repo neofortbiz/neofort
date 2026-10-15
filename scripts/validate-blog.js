@@ -184,6 +184,59 @@ try {
   warn(`nu am putut verifica HUB_FAQ: ${e.message}`);
 }
 
+// ── 13. meta-descrieri: maxim 150 de caractere (v278) ──
+try {
+  let over = 0, maxLen = 0;
+  ARTICLES.forEach(a => LANGS.forEach(l => {
+    const d = a.metaDesc?.[l];
+    if (!d) { err(`metaDesc lipseste: ${a.slugs.ro} [${l}]`); return; }
+    if (d.length > maxLen) maxLen = d.length;
+    if (d.length > 150) { over++; err(`metaDesc ${d.length} car (max 150): ${a.slugs.ro} [${l}]`); }
+  }));
+  console.log(`  Meta-descrieri: ${ARTICLES.length * LANGS.length} verificate, ${over} peste 150 car (cea mai lunga ${maxLen})`);
+} catch (e) { warn(`nu am putut verifica metaDesc: ${e.message}`); }
+
+// ── 14. articole orfane: fiecare articol trebuie sa primeasca macar un link intern (v278) ──
+// Motiv: doua articole erau legate doar in romana; versiunile EN/DE/FR/ES/IT nu primeau
+// niciun link, pentru ca linkul se pierduse la traducere. Invizibil fara verificare.
+try {
+  let orphans = 0;
+  LANGS.forEach(l => {
+    const inbound = new Map(ARTICLES.map(a => [a.slugs[l] || a.slugs.ro, 0]));
+    ARTICLES.forEach(a => {
+      const t = a.content?.[l]; if (!t) return;
+      const self = a.slugs[l] || a.slugs.ro;
+      for (const m of t.matchAll(/\]\(\/([a-z]{2})\/blog\/([^)\s#]+)\)/g)) {
+        if (m[1] !== l) continue;
+        if (inbound.has(m[2]) && m[2] !== self) inbound.set(m[2], inbound.get(m[2]) + 1);
+      }
+    });
+    [...inbound].filter(([, n]) => n === 0).forEach(([slug]) => {
+      orphans++; err(`articol fara niciun link intern primit: /${l}/blog/${slug}`);
+    });
+  });
+  console.log(`  Articole orfane: ${orphans} (din ${ARTICLES.length * LANGS.length} combinatii articol x limba)`);
+} catch (e) { warn(`nu am putut verifica articolele orfane: ${e.message}`); }
+
+// ── 15. BreadcrumbList pe fiecare tip de pagina, mai putin homepage (v278) ──
+try {
+  const walk = (d, acc = []) => {
+    for (const e of fs.readdirSync(d, { withFileTypes: true })) {
+      const p = path.join(d, e.name);
+      if (e.isDirectory()) walk(p, acc);
+      else if (e.name === 'page.js') acc.push(p);
+    }
+    return acc;
+  };
+  const pages = walk(path.join(ROOT, 'app'));
+  const missing = pages.filter(p => {
+    if (p.endsWith(path.join('app', '[locale]', 'page.js'))) return false; // radacina: breadcrumb de un element nu are sens
+    return !fs.readFileSync(p, 'utf8').includes('BreadcrumbList');
+  });
+  missing.forEach(p => err(`BreadcrumbList lipseste: ${path.relative(ROOT, p)}`));
+  console.log(`  BreadcrumbList: ${pages.length - 1 - missing.length}/${pages.length - 1} tipuri de pagina (homepage exclusa)`);
+} catch (e) { warn(`nu am putut verifica BreadcrumbList: ${e.message}`); }
+
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }
 console.log(errors === 0 && warnings === 0 ? 'Totul perfect. Safe de commit.\n' : 'Fara erori blocante. Safe de commit (verifica avertismentele).\n');
