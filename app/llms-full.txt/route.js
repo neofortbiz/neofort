@@ -8,6 +8,7 @@
 import { ARTICLES } from '../../data/blog.js';
 import { PRODUCT_META, PRODUCT_URL, PRODUCT_BRAND } from '../../data/productMeta.js';
 import { PRODUCT_FAQ } from '../../data/productFaq.js';
+import { HUB_FAQ, HUB_SLUG, HUB_NAME } from '../../data/hubFaq.js';
 import { BASE } from '../../lib/constants.js';
 
 export const dynamic = 'force-static';
@@ -67,6 +68,39 @@ function productBlock(key) {
   return parts.join('\n');
 }
 
+// v280: intrebarile frecvente ale celor 5 pagini de categorie.
+// Pana acum fisierul avea doar FAQ-ul de produs; cele 150 de perechi de categorie
+// (ce aleg, prin ce difera, cat costa) existau doar ca FAQPage in pagina, deci
+// erau invizibile pentru pipeline-urile care citesc acest fisier.
+function hubBlock(key) {
+  const name = HUB_NAME[key];
+  const slug = HUB_SLUG[key];
+  const faq = HUB_FAQ[key];
+  if (!name || !slug || !faq) return null;
+  const parts = [];
+
+  parts.push(`#### ${name.ro}`);
+  parts.push(`URL: ${BASE}/ro/${slug.ro}`);
+  if (faq.ro?.length) {
+    parts.push('');
+    parts.push('Întrebări frecvente despre categorie:');
+    faq.ro.forEach(([q, a]) => { parts.push(`- ${q}`); parts.push(`  ${a}`); });
+  }
+
+  parts.push('');
+  parts.push(`##### [English] ${name.en}`);
+  parts.push(`URL: ${BASE}/en/${slug.en}`);
+  if (faq.en?.length) {
+    parts.push('');
+    parts.push('Category FAQ:');
+    faq.en.forEach(([q, a]) => { parts.push(`- ${q}`); parts.push(`  ${a}`); });
+  }
+
+  parts.push('');
+  parts.push(`Alte limbi: DE ${BASE}/de/${slug.de} · FR ${BASE}/fr/${slug.fr} · ES ${BASE}/es/${slug.es} · IT ${BASE}/it/${slug.it}`);
+  return parts.join('\n');
+}
+
 export async function GET() {
   const sorted = [...ARTICLES].sort((a, b) => new Date(b.date) - new Date(a.date));
 
@@ -86,6 +120,12 @@ export async function GET() {
   }).filter(Boolean);
 
   const productPart = ['# Catalog produse / Product catalogue', '', productSections.join('\n\n---\n\n')].join('\n');
+
+  // ─── Intrebarile de categorie ───
+  const hubBlocks = Object.keys(HUB_FAQ).map(hubBlock).filter(Boolean);
+  const hubPart = hubBlocks.length
+    ? ['# Întrebări pe categorii / Category FAQ', '', hubBlocks.join('\n\n---\n\n')].join('\n')
+    : '';
 
   // ─── Articolele de blog ───
   const blocks = sorted.map(a => {
@@ -107,7 +147,9 @@ export async function GET() {
 
   const blogPart = ['# Articole tehnice / Technical articles', '', blocks.join('\n\n---\n\n')].join('\n');
 
-  const body = header + productPart + '\n\n---\n\n' + blogPart + '\n';
+  const body = header + productPart + '\n\n---\n\n'
+    + (hubPart ? hubPart + '\n\n---\n\n' : '')
+    + blogPart + '\n';
 
   return new Response(body, {
     headers: {

@@ -256,6 +256,37 @@ try {
   }
 } catch (e) { warn(`nu am putut verifica feed-urile RSS: ${e.message}`); }
 
+// ── 17. HUB_SLUG + FAQ de categorie in llms-full.txt (v280) ──
+// Motiv: cele 150 de intrebari de categorie scrise in v277 existau doar ca FAQPage in
+// pagina; fisierul citit de pipeline-urile LLM nu le continea deloc. Garda verifica si
+// ca slug-urile din HUB_SLUG corespund constantelor SLUGS din paginile de hub.
+try {
+  const hubSrc = fs.readFileSync(path.join(ROOT, 'data/hubFaq.js'), 'utf8');
+  const HUBS = ['tamplarie-pvc', 'tamplarie-aluminiu', 'umbrire', 'accesorii', 'sisteme-nzeb'];
+  if (!hubSrc.includes('export const HUB_SLUG')) {
+    err('HUB_SLUG lipseste din data/hubFaq.js');
+  } else {
+    const block = hubSrc.split('export const HUB_SLUG')[1].split('};')[0];
+    let checked = 0;
+    HUBS.forEach(h => {
+      const line = block.split('\n').find(l => l.includes(`'${h}'`));
+      if (!line) { err(`HUB_SLUG: lipseste hub-ul '${h}'`); return; }
+      const page = fs.readFileSync(path.join(ROOT, `app/[locale]/${h}/page.js`), 'utf8');
+      const m = page.match(/^const SLUGS(?:_[A-Z_]+)? = (\{[^}]*\});/m);
+      if (!m) { warn(`nu am gasit constanta SLUGS in app/[locale]/${h}/page.js`); return; }
+      LANGS.forEach(l => {
+        const want = (m[1].match(new RegExp(`['"]?${l}['"]?\\s*:\\s*['"]([^'"]+)['"]`)) || [])[1];
+        const got  = (line.match(new RegExp(`${l}\\s*:\\s*'([^']+)'`)) || [])[1];
+        if (want && got && want !== got) err(`HUB_SLUG[${h}][${l}] = '${got}', dar pagina foloseste '${want}'`);
+        else checked++;
+      });
+    });
+    console.log(`  HUB_SLUG: ${checked} slug-uri verificate contra paginilor de hub`);
+  }
+  const route = fs.readFileSync(path.join(ROOT, 'app/llms-full.txt/route.js'), 'utf8');
+  if (!route.includes('HUB_FAQ')) err('llms-full.txt nu include FAQ-ul de categorie (HUB_FAQ)');
+} catch (e) { warn(`nu am putut verifica HUB_SLUG: ${e.message}`); }
+
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }
 console.log(errors === 0 && warnings === 0 ? 'Totul perfect. Safe de commit.\n' : 'Fara erori blocante. Safe de commit (verifica avertismentele).\n');

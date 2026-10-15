@@ -402,3 +402,23 @@ export function hubFaq(key, locale) {
   if (!h) return [];
   return h[locale] || h.ro || [];
 }
+
+// v280: slug-urile hub-urilor pe limbi + numele categoriei, ca sa poata fi folosite
+// si in afara paginilor (llms-full.txt). Valorile sunt copiate din constantele SLUGS
+// ale fiecarei pagini de hub si verificate de scripts/validate-blog.js contra sitemap-ului.
+export const HUB_SLUG = {
+  'tamplarie-pvc': { ro:'tamplarie-pvc', en:'pvc-windows', de:'kunststofffenster-pvc', fr:'menuiserie-pvc', es:'carpinteria-pvc', it:'infissi-pvc' },
+  'tamplarie-aluminiu': { ro:'tamplarie-aluminiu', en:'aluminium-windows', de:'aluminiumfenster', fr:'menuiserie-aluminium', es:'carpinteria-aluminio', it:'infissi-alluminio' },
+  'umbrire': { ro:'umbrire', en:'shading-systems', de:'beschattungssysteme', fr:'systemes-occultation', es:'sistemas-sombreado', it:'sistemi-oscuramento' },
+  'accesorii': { ro:'accesorii', en:'accessories', de:'zubehoer', fr:'accessoires', es:'accesorios', it:'accessori' },
+  'sisteme-nzeb': { ro:'sisteme-nzeb', en:'nzeb-systems', de:'nzeb-systeme', fr:'systemes-nzeb', es:'sistemas-nzeb', it:'sistemi-nzeb' },
+};
+
+// Numele categoriei in RO si EN, pentru titlurile de sectiune din llms-full.txt.
+export const HUB_NAME = {
+  'tamplarie-pvc': { ro: 'Tâmplărie PVC Salamander', en: 'Salamander PVC Windows' },
+  'tamplarie-aluminiu': { ro: 'Tâmplărie Aluminiu Alumil', en: 'Alumil Aluminium Systems' },
+  'umbrire': { ro: 'Sisteme de Umbrire', en: 'Exterior Shading Systems' },
+  'accesorii': { ro: 'Accesorii', en: 'Accessories' },
+  'sisteme-nzeb': { ro: 'Sisteme nZEB', en: 'nZEB Systems' },
+};
