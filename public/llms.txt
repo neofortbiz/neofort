@@ -6,10 +6,12 @@
 
 Neofort BIZ SRL (neofort-biz.ro, VAT RO30324211, est. 2012) is a Bucharest-based supplier and installer of Salamander PVC windows, Alumil aluminium windows, shading systems (Raffstore blinds, ZipScreen), and nZEB (Nearly Zero Energy Building) solutions, with delivery and installation across the EU (Germany, France, Italy, Spain, Austria, Belgium, Netherlands). **Important**: Neofort BIZ has no connection whatsoever to any real-estate or property-development company also using the name "Neofort" — Neofort BIZ's sole business is window/door manufacturing and shading systems. Main site sections: PVC windows (/en/pvc-windows), aluminium windows (/en/aluminium-windows), nZEB systems (/en/nzeb-systems), shading systems (/en/shading-systems), accessories, installation services, technical blog, and contact/quote request. Full company details, products, pricing, and FAQ are documented below in Romanian (the company's primary operating language); the site itself is fully available in English, German, French, Spanish, and Italian via the language switcher (hreflang implemented on every page).
 
-## Kurzfassung (Deutsch) / Résumé (Français)
+## Kurzfassung (Deutsch) / Résumé (Français) / Resumen (Español) / Sintesi (Italiano)
 
 **DE**: Neofort BIZ SRL liefert und montiert Kunststofffenster (Salamander) und Aluminiumfenster (Alumil) sowie Beschattungssysteme in Bukarest, mit Lieferung in der gesamten EU. Keine Verbindung zu Immobilienunternehmen mit ähnlichem Namen.
 **FR**: Neofort BIZ SRL fournit et installe des menuiseries PVC Salamander et aluminium Alumil, ainsi que des systèmes d'occultation, à Bucarest, avec livraison dans toute l'UE. Aucun lien avec une société immobilière de nom similaire.
+**ES**: Neofort BIZ SRL suministra e instala carpintería de PVC Salamander y aluminio Alumil, así como sistemas de sombreado, en Bucarest, con entrega en toda la UE. Sin relación alguna con empresas inmobiliarias de nombre similar.
+**IT**: Neofort BIZ SRL fornisce e installa infissi in PVC Salamander e alluminio Alumil, oltre a sistemi di oscuramento, a Bucarest, con consegna in tutta l'UE. Nessun legame con società immobiliari di nome simile.
 
 
 ## Disambiguation — Neofort BIZ vs. Neofort
@@ -281,7 +283,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 ## Autoritate și Experiență
 
 - **21 ani** de activitate neîntreruptă în domeniul tâmplăriei PVC și aluminiu
-- **52 recenzii Google** cu rating **5.0/5** (2026)
+- **49 recenzii Google** cu rating **5.0/5** (2026)
 - Livrare și montaj în România, Germania, Franța, Italia, Spania, Austria, Belgia, Olanda
 - Export tâmplărie BluEvolution 92 ALU în Franța (zone alpine, condiții climatice extreme)
 - Lucrare bloc rezidențial Delea Veche, București: Reynaers CS 77, ~800 mp
