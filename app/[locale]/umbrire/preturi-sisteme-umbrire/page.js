@@ -64,6 +64,14 @@ const UI = {
         "cta": "Detalii pergole Somfy"
       }
     ],
+    "faq_h2": "Intrebari frecvente despre preturile sistemelor de umbrire",
+    "faq": [
+      { "q": "Cat costa un sistem de umbrire exterioara in 2026?", "a": "Orientativ, un rulou exterior din aluminiu porneste de la 500–850 lei la un gol de 100×150 cm, o jaluzea Raffstore de la 600–1.800 lei la aceeasi dimensiune, iar un Zipscreen de la 800–2.500 lei la 100×200 cm. O pergola automata Somfy de 3×4 m se incadreaza intre 11.000 si 18.000 lei. Sunt preturi de produs, pentru dimensiunile indicate." },
+      { "q": "De ce sunt preturile orientative si nu fixe?", "a": "Pentru ca pretul final depinde de dimensiunea exacta a golului, de tipul de actionare, de tesatura aleasa si de felul montajului. De aceea oferta se face personalizat, iar masuratorile la fata locului se efectueaza dupa semnarea contractului." },
+      { "q": "Ce sistem de umbrire rezista cel mai bine la vant?", "a": "Zipscreen-ul, datorita ghidajelor laterale care tin panza fixata — rezista pana la clasa 5 Beaufort, deci este potrivit pentru terase si ferestre mari. Pergolele automate Somfy au senzor de vant Sunis si se retrag singure peste 50 km/h." },
+      { "q": "Pot monta sisteme de umbrire pe tamplaria pe care o am deja?", "a": "Da. Montajul pe tamplarie existenta Salamander sau Alumil este posibil si chiar recomandat. Ancorajul se face in zidarie, in tocul tamplariei sau pe perete, in functie de situatia de la fata locului." },
+      { "q": "Cand este obligatorie motorizarea?", "a": "La sistemele mari, unde actionarea manuala cu manivela sau curea nu mai este practica. Variantele sunt motor Somfy sau Nice, iar daca aveti instalatie de casa inteligenta sistemul se poate integra prin KNX sau io-homecontrol." },
+    ],
     "h2_cta": "Solicitati oferta personalizata",
     "cta_desc": "Echipa Neofort BIZ va ofera o oferta detaliata pentru sistemul de umbrire potrivit. Masuratorile la fata locului se fac dupa semnarea contractului. Montaj profesional in Bucuresti si Ilfov.",
     "cta_btn": "Cerere Oferta Umbrire",
@@ -115,6 +123,14 @@ const UI = {
         "link": "/shading-systems/somfy-automatic-pergolas",
         "cta": "Somfy pergola details"
       }
+    ],
+    "faq_h2": "Frequently Asked Questions About Shading System Prices",
+    "faq": [
+      { "q": "How much does an exterior shading system cost in 2026?", "a": "As a guide, an aluminium roller shutter starts at 500–850 RON for a 100×150 cm opening, a Raffstore blind at 600–1,800 RON for the same size, and a Zipscreen at 800–2,500 RON for 100×200 cm. An automated Somfy pergola of 3×4 m falls between 11,000 and 18,000 RON. These are product prices, for the sizes indicated." },
+      { "q": "Why are the prices indicative rather than fixed?", "a": "Because the final price depends on the exact size of the opening, the drive type, the fabric chosen and how the system is mounted. The quote is therefore prepared individually, and on-site measurements are taken after the contract is signed." },
+      { "q": "Which shading system stands up best to wind?", "a": "Zipscreen, because the side guides hold the fabric in place — it withstands up to Beaufort force 5, which makes it suitable for terraces and large windows. Automated Somfy pergolas have a Sunis wind sensor and retract by themselves above 50 km/h." },
+      { "q": "Can shading be fitted to windows I already have?", "a": "Yes. Fitting to existing Salamander or Alumil windows is possible and in fact recommended. The system is anchored into masonry, into the window frame or onto the wall, depending on the situation on site." },
+      { "q": "When is motorisation required?", "a": "On large systems, where a crank or belt is no longer practical. The options are a Somfy or Nice motor, and if you have a smart home installation the system can be integrated via KNX or io-homecontrol." },
     ],
     "h2_cta": "Request a Personalised Quote",
     "cta_desc": "The Neofort BIZ team will provide a detailed quote for the right shading system. On-site measurements are taken after the contract is signed. Professional installation in Bucharest and Ilfov.",
@@ -168,6 +184,14 @@ const UI = {
         "cta": "Details Somfy Pergolen"
       }
     ],
+    "faq_h2": "Häufige Fragen zu den Preisen für Beschattungssysteme",
+    "faq": [
+      { "q": "Was kostet ein außenliegendes Beschattungssystem 2026?", "a": "Als Richtwert: Ein Aluminium-Rollladen beginnt bei 500–850 RON für eine Öffnung von 100×150 cm, eine Raffstore-Jalousie bei 600–1.800 RON in derselben Größe und ein Zipscreen bei 800–2.500 RON für 100×200 cm. Eine automatisierte Somfy-Pergola von 3×4 m liegt zwischen 11.000 und 18.000 RON. Es handelt sich um Produktpreise für die angegebenen Maße." },
+      { "q": "Warum sind die Preise Richtwerte und keine Festpreise?", "a": "Weil der Endpreis von der genauen Öffnungsgröße, der Antriebsart, dem gewählten Gewebe und der Montageart abhängt. Das Angebot wird deshalb individuell erstellt; das Aufmaß vor Ort erfolgt nach Vertragsabschluss." },
+      { "q": "Welches Beschattungssystem hält Wind am besten stand?", "a": "Der Zipscreen, da seitliche Führungsschienen das Gewebe fixieren — er hält bis Windstärke 5 Beaufort stand und eignet sich damit für Terrassen und große Fenster. Automatisierte Somfy-Pergolen haben einen Sunis-Windsensor und fahren ab 50 km/h selbsttätig ein." },
+      { "q": "Kann Beschattung an vorhandenen Fenstern montiert werden?", "a": "Ja. Die Montage an bestehenden Salamander- oder Alumil-Fenstern ist möglich und sogar empfehlenswert. Verankert wird je nach Gegebenheit im Mauerwerk, im Fensterrahmen oder an der Wand." },
+      { "q": "Wann ist eine Motorisierung erforderlich?", "a": "Bei großen Systemen, wo Kurbel oder Gurt nicht mehr praktikabel sind. Zur Wahl stehen Somfy- oder Nice-Motoren; bei vorhandener Smart-Home-Installation lässt sich das System über KNX oder io-homecontrol einbinden." },
+    ],
     "h2_cta": "Personalisiertes Angebot anfordern",
     "cta_desc": "Das Neofort BIZ-Team erstellt ein detailliertes Angebot fur das richtige Beschattungssystem. Das Aufmass vor Ort erfolgt nach Vertragsabschluss.",
     "cta_btn": "Beschattungsangebot anfordern",
@@ -219,6 +243,14 @@ const UI = {
         "link": "/systemes-occultation/pergolas-automatiques-somfy",
         "cta": "Details pergolas Somfy"
       }
+    ],
+    "faq_h2": "Questions fréquentes sur les prix des systèmes d'occultation",
+    "faq": [
+      { "q": "Combien coûte un système d'occultation extérieure en 2026 ?", "a": "À titre indicatif, un volet roulant en aluminium démarre à 500–850 RON pour une baie de 100×150 cm, un store Raffstore à 600–1.800 RON pour la même dimension, et un Zipscreen à 800–2.500 RON en 100×200 cm. Une pergola automatisée Somfy de 3×4 m se situe entre 11.000 et 18.000 RON. Ce sont des prix produit, pour les dimensions indiquées." },
+      { "q": "Pourquoi les prix sont-ils indicatifs et non fixes ?", "a": "Parce que le prix final dépend de la dimension exacte de la baie, du type de motorisation, de la toile choisie et du mode de pose. Le devis est donc établi au cas par cas, et la prise de mesures sur site intervient après la signature du contrat." },
+      { "q": "Quel système d'occultation résiste le mieux au vent ?", "a": "Le Zipscreen, car ses coulisses latérales maintiennent la toile — il résiste jusqu'à force 5 Beaufort, ce qui convient aux terrasses et aux grandes baies. Les pergolas automatisées Somfy disposent d'un capteur de vent Sunis et se rétractent d'elles-mêmes au-delà de 50 km/h." },
+      { "q": "Peut-on poser une occultation sur des menuiseries déjà en place ?", "a": "Oui. La pose sur menuiseries Salamander ou Alumil existantes est possible et même recommandée. L'ancrage se fait dans la maçonnerie, dans le dormant ou sur le mur, selon la configuration." },
+      { "q": "Quand la motorisation est-elle indispensable ?", "a": "Sur les grands systèmes, où la manivelle ou la sangle ne sont plus praticables. Les options sont un moteur Somfy ou Nice ; si vous disposez d'une installation domotique, le système s'intègre via KNX ou io-homecontrol." },
     ],
     "h2_cta": "Demander un devis personnalise",
     "cta_desc": "L'equipe Neofort BIZ vous fournit un devis detaille pour le systeme d'occultation adapte. Les prises de cotes sur place ont lieu apres la signature du contrat.",
@@ -272,6 +304,14 @@ const UI = {
         "cta": "Detalles pergolas Somfy"
       }
     ],
+    "faq_h2": "Preguntas frecuentes sobre los precios de los sistemas de sombreado",
+    "faq": [
+      { "q": "¿Cuánto cuesta un sistema de sombreado exterior en 2026?", "a": "De forma orientativa, una persiana enrollable de aluminio parte de 500–850 RON para un hueco de 100×150 cm, una veneciana Raffstore de 600–1.800 RON en la misma medida y un Zipscreen de 800–2.500 RON en 100×200 cm. Una pérgola automatizada Somfy de 3×4 m se sitúa entre 11.000 y 18.000 RON. Son precios de producto, para las medidas indicadas." },
+      { "q": "¿Por qué los precios son orientativos y no cerrados?", "a": "Porque el precio final depende de la medida exacta del hueco, del tipo de accionamiento, del tejido elegido y de la forma de montaje. Por eso el presupuesto se elabora de forma personalizada, y la medición en obra se realiza tras la firma del contrato." },
+      { "q": "¿Qué sistema de sombreado resiste mejor el viento?", "a": "El Zipscreen, porque las guías laterales mantienen el tejido sujeto: resiste hasta fuerza 5 Beaufort, lo que lo hace adecuado para terrazas y ventanales. Las pérgolas automatizadas Somfy llevan sensor de viento Sunis y se repliegan solas por encima de 50 km/h." },
+      { "q": "¿Se puede instalar sombreado sobre la carpintería que ya tengo?", "a": "Sí. El montaje sobre carpintería Salamander o Alumil existente es posible e incluso recomendable. El anclaje se realiza en la obra, en el marco de la ventana o en la pared, según la situación." },
+      { "q": "¿Cuándo es obligatoria la motorización?", "a": "En sistemas grandes, donde la manivela o la cinta dejan de ser prácticas. Las opciones son motor Somfy o Nice; si dispone de instalación domótica, el sistema se integra mediante KNX o io-homecontrol." },
+    ],
     "h2_cta": "Solicitar presupuesto personalizado",
     "cta_desc": "El equipo de Neofort BIZ le proporcionara un presupuesto detallado para el sistema de sombreado adecuado. Las mediciones en obra se realizan tras la firma del contrato.",
     "cta_btn": "Solicitar presupuesto sombreado",
@@ -324,6 +364,14 @@ const UI = {
         "cta": "Dettagli pergole Somfy"
       }
     ],
+    "faq_h2": "Domande frequenti sui prezzi dei sistemi di oscuramento",
+    "faq": [
+      { "q": "Quanto costa un sistema di oscuramento esterno nel 2026?", "a": "Indicativamente, una tapparella in alluminio parte da 500–850 RON per un vano di 100×150 cm, una veneziana Raffstore da 600–1.800 RON nella stessa misura e uno Zipscreen da 800–2.500 RON per 100×200 cm. Una pergola automatizzata Somfy di 3×4 m si colloca tra 11.000 e 18.000 RON. Sono prezzi di prodotto, per le misure indicate." },
+      { "q": "Perché i prezzi sono indicativi e non fissi?", "a": "Perché il prezzo finale dipende dalla misura esatta del vano, dal tipo di azionamento, dal tessuto scelto e dal tipo di posa. Il preventivo viene quindi redatto su misura e il rilievo in loco avviene dopo la firma del contratto." },
+      { "q": "Quale sistema di oscuramento resiste meglio al vento?", "a": "Lo Zipscreen, perché le guide laterali trattengono il tessuto: resiste fino a forza 5 Beaufort ed è quindi adatto a terrazze e grandi vetrate. Le pergole automatizzate Somfy hanno il sensore vento Sunis e si ritraggono da sole oltre i 50 km/h." },
+      { "q": "È possibile installare l'oscuramento sugli infissi che ho già?", "a": "Sì. La posa su infissi Salamander o Alumil esistenti è possibile e anzi consigliata. L'ancoraggio avviene nella muratura, nel telaio della finestra o a parete, a seconda della situazione." },
+      { "q": "Quando la motorizzazione è obbligatoria?", "a": "Sui sistemi di grandi dimensioni, dove manovella o cinghia non sono più pratiche. Le opzioni sono motore Somfy o Nice; con un impianto domotico il sistema si integra tramite KNX o io-homecontrol." },
+    ],
     "h2_cta": "Richiedi un preventivo personalizzato",
     "cta_desc": "Il team Neofort BIZ fornira un preventivo dettagliato per il sistema di oscuramento adeguato. Le misurazioni in loco avvengono dopo la firma del contratto.",
     "cta_btn": "Richiedi preventivo oscuramento",
@@ -349,12 +397,17 @@ const WA_LABELS = {
   it: 'WhatsApp',
 };
 const MID_TITLES = {
-  ro: 'Solicitati oferta gratuita — raspundem in 2 ore',
-  en: 'Request your free quote — we reply within 2 hours',
-  de: 'Kostenloses Angebot anfordern — Antwort in 2 Stunden',
-  fr: 'Demandez votre devis gratuit — reponse en 2 heures',
-  es: 'Solicite su presupuesto gratuito — respondemos en 2 horas',
-  it: 'Richiedi il tuo preventivo gratuito — rispondiamo in 2 ore',
+  // v288: "oferta gratuita" scos — regula din contextul proiectului interzice
+  // "gratuit" in copy. Textul nu era vizibil pana acum (midTitle se calcula si
+  // nu se randa); odata cu afisarea benzii ar fi devenit vizibil in 6 limbi.
+  // ACELASI text exista si in celelalte patru pagini de ghid, unde banda ESTE
+  // randata — acolo cuvantul e live de mult. De aliniat toate cinci.
+  ro: 'Solicitati oferta personalizata — raspundem in 2 ore',
+  en: 'Request your personalised quote — we reply within 2 hours',
+  de: 'Persönliches Angebot anfordern — Antwort in 2 Stunden',
+  fr: 'Demandez votre devis personnalisé — réponse en 2 heures',
+  es: 'Solicite su presupuesto personalizado — respondemos en 2 horas',
+  it: 'Richiedi il tuo preventivo personalizzato — rispondiamo in 2 ore',
 };
 const MID_DESCS = {
   // v286: nu mai sunt siruri, ci functii de { rating, count }. Numarul de
@@ -401,23 +454,23 @@ export default async function UmbrirePreturiPage({ params }) {
   const waLabel = WA_LABELS[locale] || WA_LABELS.ro;
   const midTitle = MID_TITLES[locale] || MID_TITLES.ro;
   const googleRating = await getGoogleRating();
-  // ATENTIE (v286): midDesc NU e randat nicaieri in aceasta pagina. Celelalte
-  // patru ghiduri il afiseaza in banda de mijloc; aici blocul MID_DESCS exista
-  // de la inceput, dar JSX-ul nu l-a inclus niciodata. Descoperit cu amprenta:
-  // la testul in care am schimbat ratingul, toate celelalte 4 ghiduri si-au
-  // schimbat textul, aceasta pagina nu. Lasat conectat, ca sa fie corect din
-  // prima daca se decide afisarea lui; de decis in v287 daca se randeaza sau
-  // se sterge.
+  // v288: midTitle si midDesc sunt randate in banda de mijloc de mai jos,
+  // identica cu cea din celelalte patru pagini de ghid. Pana acum se
+  // calculau amandoua si nu se afisau niciodata.
   const midDesc = (MID_DESCS[locale] || MID_DESCS.ro)(googleRating);
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
 
   const faqSchema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: ui.factors.map((f, i) => ({
+    // v288: schema se construieste din FAQ-ul real de mai jos, randat vizibil
+    // pe pagina. Pana acum se construia din ui.factors, cu intrebari generate
+    // ca "Factor 1", "Factor 2" — adica eticheta unui element de lista trimisa
+    // lui Google drept intrebare.
+    mainEntity: ui.faq.map((item) => ({
       '@type': 'Question',
-      name: `Factor ${i+1}`,
-      acceptedAnswer: { '@type': 'Answer', text: f },
+      name: item.q,
+      acceptedAnswer: { '@type': 'Answer', text: item.a },
     })),
   };
 
@@ -482,6 +535,21 @@ export default async function UmbrirePreturiPage({ params }) {
           ))}
         </ul>
 
+        {/* MID-PAGE WA CTA */}
+        <div style={{background:'linear-gradient(135deg,#075e54 0%,#128c7e 100%)',padding:'28px 24px',borderRadius:'4px',display:'flex',flexDirection:'column',alignItems:'center',textAlign:'center',gap:'10px',margin:'0 0 48px'}}>
+          <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:700,fontSize:'clamp(1rem,3vw,1.3rem)',letterSpacing:'.05em',textTransform:'uppercase',color:'#fff',lineHeight:1.2}}>
+            {midTitle}
+          </div>
+          <div style={{fontSize:'.8rem',color:'rgba(255,255,255,.8)',lineHeight:1.5,maxWidth:'480px'}}>
+            {midDesc}
+          </div>
+          <a href={waUrl} target="_blank" rel="noopener noreferrer"
+            style={{display:'inline-flex',alignItems:'center',gap:'10px',background:'#188842',color:'#fff',fontFamily:'Barlow Condensed,sans-serif',fontWeight:700,fontSize:'.78rem',letterSpacing:'.15em',textTransform:'uppercase',padding:'12px 24px',textDecoration:'none',borderRadius:'0',marginTop:'4px'}}>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+            {waLabel}
+          </a>
+        </div>
+
         <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '24px' }}>
           {ui.h2_products}
         </h2>
@@ -496,6 +564,19 @@ export default async function UmbrirePreturiPage({ params }) {
               <Link href={`/${prod.link}`} style={{ fontFamily: 'Barlow Condensed,sans-serif', fontSize: '.72rem', letterSpacing: '.15em', textTransform: 'uppercase', color: '#2f1446', textDecoration: 'none', fontWeight: 600 }}>
                 {prod.cta} &rarr;
               </Link>
+            </div>
+          ))}
+        </div>
+
+        {/* FAQ */}
+        <h2 style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 700, fontSize: 'clamp(1.3rem,3vw,1.8rem)', letterSpacing: '.05em', textTransform: 'uppercase', color: '#15222e', marginBottom: '24px' }}>
+          {ui.faq_h2}
+        </h2>
+        <div style={{ marginBottom: '48px' }}>
+          {ui.faq.map((item, i) => (
+            <div key={i} style={{ borderBottom: '1px solid #eee', padding: '20px 0' }}>
+              <div style={{ fontFamily: 'Barlow Condensed,sans-serif', fontWeight: 600, fontSize: '.95rem', letterSpacing: '.05em', color: '#15222e', marginBottom: '8px' }}>{item.q}</div>
+              <div style={{ fontSize: '.88rem', color: '#2e2e2e', lineHeight: 1.65 }}>{item.a}</div>
             </div>
           ))}
         </div>
