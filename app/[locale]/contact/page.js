@@ -185,7 +185,10 @@ const TEAM = [
     role: { ro:'Reprezentant Export', en:'Export Representative', de:'Exportmitarbeiterin', fr:'Représentante export', es:'Representante de exportación', it:'Rappresentante export' },
     phone: '+40 752 443 439',
     href: 'tel:+40752443439',
-    email: 'comenzi@neofort-biz.ro',
+    // v282: era comenzi@ — adresa departamentului de comenzi, nu a ei.
+    // Georgiana raspunde de export, deci adresa personala de pe card e
+    // export@. Butonul de departament "Comenzi" de mai jos ramane comenzi@.
+    email: 'export@neofort-biz.ro',
     initials: 'GB',
     color: '#934812',
   },
@@ -472,7 +475,13 @@ export default async function ContactPage({ params }) {
                 </div>
               </div>
 
-              {/* E-mail — butoane mailto fără adresă vizibilă în HTML */}
+              {/* E-mail — butoane mailto cu eticheta de departament ca text.
+                  v282: comentariul de aici spunea „fără adresă vizibilă în
+                  HTML". Fals, si inducea in eroare: adresa e in href, deci e
+                  in HTML si o citeste orice scraper. Ascunderea ei nu merita
+                  facuta — codificarea JS e inutila contra scraperelor
+                  moderne si strica accesibilitatea si datele de contact din
+                  schema. Ce tine cutiile in siguranta sunt parolele lor. */}
               <div>
                 <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-2">{ui.email_section}</p>
                 <div className="border border-border">
