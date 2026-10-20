@@ -287,6 +287,32 @@ try {
   if (!route.includes('HUB_FAQ')) err('llms-full.txt nu include FAQ-ul de categorie (HUB_FAQ)');
 } catch (e) { warn(`nu am putut verifica HUB_SLUG: ${e.message}`); }
 
+// 18. Chei duplicate in routing.pathnames — v289
+// In v287 s-au gasit SAPTE articole de blog definite de doua ori fiecare in
+// i18n/routing.js. In JS, a doua definitie o suprascrie TACIT pe prima: nu e
+// eroare de sintaxa, niciun parser nu o semnaleaza, si daca cele doua variante
+// difera, articolul capata rutare si hreflang greșite fara niciun semnal.
+// Atunci toate sapte erau identice, deci doar greutate moarta — dar urmatoarea
+// pereche poate sa nu fie. Se vede numai numarand cheile.
+try {
+  const src = fs.readFileSync(path.join(ROOT, 'i18n/routing.js'), 'utf8');
+  const i = src.indexOf('pathnames');
+  if (i < 0) {
+    warn('nu gasesc pathnames in i18n/routing.js');
+  } else {
+    const zona = src.slice(i);
+    // cheile de prim nivel din pathnames: '/ceva': { ... }  sau  '/ceva': '/altceva'
+    const chei = [...zona.matchAll(/^\s{2,6}'([^']+)'\s*:/gm)].map((m) => m[1]);
+    const nr = {};
+    chei.forEach((k) => { nr[k] = (nr[k] || 0) + 1; });
+    const dup = Object.entries(nr).filter(([, n]) => n > 1);
+    if (dup.length) {
+      dup.forEach(([k, n]) => err(`routing.pathnames: cheie definita de ${n} ori — '${k}' (a doua o suprascrie tacit pe prima)`));
+    }
+    console.log(`  routing.pathnames: ${chei.length} chei, ${dup.length} duplicate`);
+  }
+} catch (e) { warn(`nu am putut verifica duplicatele din routing.js: ${e.message}`); }
+
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }
 console.log(errors === 0 && warnings === 0 ? 'Totul perfect. Safe de commit.\n' : 'Fara erori blocante. Safe de commit (verifica avertismentele).\n');

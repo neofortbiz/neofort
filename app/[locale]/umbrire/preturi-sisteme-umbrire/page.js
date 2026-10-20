@@ -19,63 +19,63 @@ const PARENT_SLUGS = {
 
 const UI = {
   "ro": {
-    "h1": "Preturi Sisteme Umbrire 2026 — Zipscreen, Raffstore, Rulouri Aluminiu",
-    "sub": "Preturi orientative 2026 pentru sisteme de umbrire exterioara: zipscreen, jaluzele raffstore, rulouri aluminiu si plase plisse. Oferta personalizata in Bucuresti si Ilfov.",
+    "h1": "Prețuri Sisteme Umbrire 2026 — Zipscreen, Raffstore, Rulouri Aluminiu",
+    "sub": "Prețuri orientative 2026 pentru sisteme de umbrire exterioară: zipscreen, jaluzele raffstore, rulouri aluminiu și plase plisse. Oferta personalizată în București și Ilfov.",
     "parent_label": "Sisteme Umbrire",
-    "breadcrumb": "Preturi 2026",
-    "intro": "Pretul unui sistem de umbrire exterioara depinde de tipul produsului, dimensiuni, tipul de actionare si complexitatea montajului. Neofort BIZ furnizeaza si monteaza sisteme de umbrire premium in Bucuresti si Ilfov.",
-    "h2_factors": "Factori care influenteaza pretul sistemelor de umbrire",
+    "breadcrumb": "Prețuri 2026",
+    "intro": "Prețul unui sistem de umbrire exterioară depinde de tipul produsului, dimensiuni, tipul de acționare și complexitatea montajului. Neofort BIZ furnizează și montează sisteme de umbrire premium în București și Ilfov.",
+    "h2_factors": "Factori care influențează prețul sistemelor de umbrire",
     "factors": [
-      "Tipul sistemului — Zipscreen (roul exterior cu ghidaje laterale) are un cost mai ridicat decat un rulou exterior standard datorita sistemului de ghidare care ofera rezistenta la vant.",
-      "Dimensiunile golului — pretul creste proportional cu latimea si inaltimea golului. Sistemele mari necesita motorizare obligatorie.",
-      "Tipul de actionare — manuala (manivela sau curea) vs electrica (motor Somfy/Nice) vs Smart Home (KNX, io-homecontrol).",
-      "Tesatura — ecran solar standard vs blackout total vs tesaturi speciale antireflex sau cu factor de protectie SPF 50+.",
-      "Culoarea si finisajul — casetele si ghidajele din aluminiu pot fi vopsite in orice culoare RAL pentru a se armoniza cu tamplaria.",
-      "Montajul — ancoraj in zidarie, in toc de tamplarie sau pe perete. Montajul pe tamplarie existenta Salamander sau Alumil este posibil si recomandat."
+      "Tipul sistemului — Zipscreen (rulou exterior cu ghidaje laterale) are un cost mai ridicat decât un rulou exterior standard datorită sistemului de ghidare care oferă rezistență la vânt.",
+      "Dimensiunile golului — prețul crește proporțional cu lățimea și înălțimea golului. Sistemele mari necesită motorizare obligatorie.",
+      "Tipul de acționare — manuală (manivela sau curea) vs electrică (motor Somfy/Nice) vs Smart Home (KNX, io-homecontrol).",
+      "Țesătura — ecran solar standard vs blackout total vs țesături speciale antireflex sau cu factor de protecție SPF 50+.",
+      "Culoarea și finisajul — casetele și ghidajele din aluminiu pot fi vopsite în orice culoare RAL pentru a se armoniza cu tâmplăria.",
+      "Montajul — ancoraj în zidărie, în toc de tâmplărie sau pe perete. Montajul pe tâmplărie existentă Salamander sau Alumil este posibil și recomandat."
     ],
     "h2_products": "Sisteme de umbrire disponibile la Neofort BIZ",
     "products": [
       {
         "name": "Zipscreen exterior",
-        "desc": "Rulou exterior cu ghidaje laterale — rezistenta la vant pana la clasa 5 Beaufort. Ideal pentru terase si ferestre mari. Permite ventilatie cu ruloul coborat.",
+        "desc": "Rulou exterior cu ghidaje laterale — rezistență la vânt până la clasa 5 Beaufort. Ideal pentru terase și ferestre mari. Permite ventilație cu ruloul coborât.",
         "price": "800–2.500 lei (100×200 cm)",
         "link": "/umbrire/zipscreen",
         "cta": "Detalii Zipscreen"
       },
       {
         "name": "Raffstore — jaluzele exterioare",
-        "desc": "Jaluzele cu lamele din aluminiu orientabile — control fin al luminii si protectie solara. Uf solar pana la 90%. Motorizare Somfy inclusa.",
+        "desc": "Jaluzele cu lamele din aluminiu orientabile — control fin al luminii și protecție solară. Uf solar până la 90%. Motorizare Somfy inclusă.",
         "price": "600–1.800 lei (100×150 cm)",
         "link": "/umbrire/jaluzele-venetiene-raffstore",
         "cta": "Detalii Raffstore"
       },
       {
         "name": "Rulouri exterioare aluminiu",
-        "desc": "Rulouri cu lamele din aluminiu umplute cu spuma poliuretanica — izolare termica si fonica, securitate. Caseta integrala sau aplicata.",
+        "desc": "Rulouri cu lamele din aluminiu umplute cu spumă poliuretanică — izolare termică și fonică, securitate. Casetă integrală sau aplicată.",
         "price": "500–850 lei (100×150 cm)",
         "link": "/umbrire/rulouri-exterioare-aluminiu",
         "cta": "Detalii Rulouri"
       },
       {
         "name": "Pergole automate Somfy",
-        "desc": "Pergola cu panza retractabila impermeabila, structura din aluminiu si inox. Motor Somfy Pergola RGS io cu senzor de vant Sunis — retragere automata peste 50 km/h.",
+        "desc": "Pergolă cu pânză retractabilă impermeabilă, structură din aluminiu și inox. Motor Somfy Pergola RGS io cu senzor de vânt Sunis — retragere automată peste 50 km/h.",
         "price": "11.000–18.000 lei (3×4 m)",
         "link": "/umbrire/pergole-automate-somfy",
         "cta": "Detalii pergole Somfy"
       }
     ],
-    "faq_h2": "Intrebari frecvente despre preturile sistemelor de umbrire",
+    "faq_h2": "Întrebări frecvente despre prețurile sistemelor de umbrire",
     "faq": [
-      { "q": "Cat costa un sistem de umbrire exterioara in 2026?", "a": "Orientativ, un rulou exterior din aluminiu porneste de la 500–850 lei la un gol de 100×150 cm, o jaluzea Raffstore de la 600–1.800 lei la aceeasi dimensiune, iar un Zipscreen de la 800–2.500 lei la 100×200 cm. O pergola automata Somfy de 3×4 m se incadreaza intre 11.000 si 18.000 lei. Sunt preturi de produs, pentru dimensiunile indicate." },
-      { "q": "De ce sunt preturile orientative si nu fixe?", "a": "Pentru ca pretul final depinde de dimensiunea exacta a golului, de tipul de actionare, de tesatura aleasa si de felul montajului. De aceea oferta se face personalizat, iar masuratorile la fata locului se efectueaza dupa semnarea contractului." },
-      { "q": "Ce sistem de umbrire rezista cel mai bine la vant?", "a": "Zipscreen-ul, datorita ghidajelor laterale care tin panza fixata — rezista pana la clasa 5 Beaufort, deci este potrivit pentru terase si ferestre mari. Pergolele automate Somfy au senzor de vant Sunis si se retrag singure peste 50 km/h." },
-      { "q": "Pot monta sisteme de umbrire pe tamplaria pe care o am deja?", "a": "Da. Montajul pe tamplarie existenta Salamander sau Alumil este posibil si chiar recomandat. Ancorajul se face in zidarie, in tocul tamplariei sau pe perete, in functie de situatia de la fata locului." },
-      { "q": "Cand este obligatorie motorizarea?", "a": "La sistemele mari, unde actionarea manuala cu manivela sau curea nu mai este practica. Variantele sunt motor Somfy sau Nice, iar daca aveti instalatie de casa inteligenta sistemul se poate integra prin KNX sau io-homecontrol." },
+      { "q": "Cât costă un sistem de umbrire exterioară în 2026?", "a": "Orientativ, un rulou exterior din aluminiu pornește de la 500–850 lei la un gol de 100×150 cm, o jaluzea Raffstore de la 600–1.800 lei la aceeasi dimensiune, iar un Zipscreen de la 800–2.500 lei la 100×200 cm. O pergola automată Somfy de 3×4 m se încadrează intre 11.000 și 18.000 lei. Sunt prețuri de produs, pentru dimensiunile indicate." },
+      { "q": "De ce sunt prețurile orientative și nu fixe?", "a": "Pentru ca prețul final depinde de dimensiunea exactă a golului, de tipul de acționare, de țesătura aleasă și de felul montajului. De aceea oferta se face personalizat, iar masuratorile la fața locului se efectueaza după semnarea contractului." },
+      { "q": "Ce sistem de umbrire rezistă cel mai bine la vânt?", "a": "Zipscreen-ul, datorită ghidajelor laterale care țin pânză fixată — rezistă până la clasa 5 Beaufort, deci este potrivit pentru terase și ferestre mari. Pergolele automate Somfy au senzor de vânt Sunis și se retrag singure peste 50 km/h." },
+      { "q": "Pot monta sisteme de umbrire pe tâmplăria pe care o am deja?", "a": "Da. Montajul pe tâmplărie existentă Salamander sau Alumil este posibil și chiar recomandat. Ancorajul se face în zidărie, în tocul tamplariei sau pe perete, în functie de situatia de la fața locului." },
+      { "q": "Cand este obligatorie motorizarea?", "a": "La sistemele mari, unde acționarea manuală cu manivela sau curea nu mai este practică. Variantele sunt motor Somfy sau Nice, iar daca aveți instalatie de casa inteligentă sistemul se poate integra prin KNX sau io-homecontrol." },
     ],
-    "h2_cta": "Solicitati oferta personalizata",
-    "cta_desc": "Echipa Neofort BIZ va ofera o oferta detaliata pentru sistemul de umbrire potrivit. Masuratorile la fata locului se fac dupa semnarea contractului. Montaj profesional in Bucuresti si Ilfov.",
+    "h2_cta": "Solicitați oferta personalizată",
+    "cta_desc": "Echipa Neofort BIZ vă oferă o oferta detaliată pentru sistemul de umbrire potrivit. Măsurătorile la fața locului se fac după semnarea contractului. Montaj profesional în București și Ilfov.",
     "cta_btn": "Cerere Oferta Umbrire",
-    "guide_link": "Citeste Ghidul Complet Sisteme Umbrire",
+    "guide_link": "Citește Ghidul Complet Sisteme Umbrire",
     "guide_slug": "umbrire/ghid-complet-sisteme-umbrire"
   },
   "en": {
@@ -139,39 +139,39 @@ const UI = {
     "guide_slug": "shading-systems/complete-guide"
   },
   "de": {
-    "h1": "Beschattungssysteme Preise 2026 — Zipscreen, Raffstore, Aussenrollladen",
-    "sub": "Orientierungspreise 2026 fur Aussenbeschattungssysteme: Zipscreen, Raffstore-Aussenjalousien, Aluminium-Aussenrollladen und Plissee-Insektenschutz. Personalisiertes Angebot in Bukarest und Ilfov.",
+    "h1": "Beschattungssysteme Preise 2026 — Zipscreen, Raffstore, Außenrollladen",
+    "sub": "Orientierungspreise 2026 für Außenbeschattungssysteme: Zipscreen, Raffstore-Außenjalousien, Aluminium-Außenrollladen und Plissee-Insektenschutz. Personalisiertes Angebot in Bukarest und Ilfov.",
     "parent_label": "Beschattungssysteme",
     "breadcrumb": "Preise 2026",
-    "intro": "Der Preis eines Aussenbeschattungssystems hangt vom Produkttyp, den Abmessungen, der Antriebsart und der Montagegeschwindigkeit ab.",
+    "intro": "Der Preis eines Außenbeschattungssystems hängt vom Produkttyp, den Abmessungen, der Antriebsart und der Montagegeschwindigkeit ab.",
     "h2_factors": "Faktoren die den Preis beeinflussen",
     "factors": [
-      "Systemtyp — Zipscreen (Aussenrollo mit Seitenfuhrungen) kostet mehr als ein Standard-Aussenrollladen.",
-      "Offnungsabmessungen — der Preis steigt proportional mit Breite und Hohe. Grosse Systeme erfordern Motorisierung.",
+      "Systemtyp — Zipscreen (Außenrollo mit Seitenführungen) kostet mehr als ein Standard-Außenrollladen.",
+      "Öffnungsabmessungen — der Preis steigt proportional mit Breite und Höhe. Große Systeme erfordern Motorisierung.",
       "Antriebsart — manuell (Kurbel oder Gurt) vs elektrisch (Somfy/Nice Motor) vs Smart Home (KNX).",
       "Gewebe — Standard-Sonnenschutzgewebe vs Blackout vs spezielle UV-Schutzgewebe.",
-      "Farbe und Finish — Aluminium-Kassetten und Fuhrungen konnen in jeder RAL-Farbe beschichtet werden.",
+      "Farbe und Finish — Aluminium-Kassetten und Führungen können in jeder RAL-Farbe beschichtet werden.",
       "Montage — Verankerung im Mauerwerk, im Fensterrahmen oder an der Wand."
     ],
     "h2_products": "Beschattungssysteme bei Neofort BIZ",
     "products": [
       {
-        "name": "Zipscreen Aussenrollo",
-        "desc": "Aussenrollo mit Seitenfuhrungen — Windwiderstand bis Beaufort-Klasse 5. Ideal fur Terrassen und grosse Fenster.",
+        "name": "Zipscreen Außenrollo",
+        "desc": "Außenrollo mit Seitenführungen — Windwiderstand bis Beaufort-Klasse 5. Ideal für Terrassen und große Fenster.",
         "price": "800–2.500 RON (100×200 cm)",
         "link": "/beschattungssysteme/zipscreen-aussenrollo",
         "cta": "Zipscreen Details"
       },
       {
-        "name": "Raffstore Aussenjalousien",
+        "name": "Raffstore Außenjalousien",
         "desc": "Verstellbare Aluminium-Lamellenjalousien — feiner Lichtsteuerung und Sonnenschutz. Bis 90% Sonnenschutzfaktor.",
         "price": "600–1.800 RON (100×150 cm)",
         "link": "/beschattungssysteme/raffstore-aussenjalousien",
         "cta": "Raffstore Details"
       },
       {
-        "name": "Aluminium Aussenrollladen",
-        "desc": "Rolladen mit PU-schaumgefullten Aluminiumlamellen — Warme- und Schalldammung, Sicherheit.",
+        "name": "Aluminium Außenrollladen",
+        "desc": "Rollladen mit PU-schaumgefullten Aluminiumlamellen — Warme- und Schalldämmung, Sicherheit.",
         "price": "500–850 RON (100×150 cm)",
         "link": "/beschattungssysteme/aluminium-aussenrollladen",
         "cta": "Rollladen Details"
@@ -193,69 +193,69 @@ const UI = {
       { "q": "Wann ist eine Motorisierung erforderlich?", "a": "Bei großen Systemen, wo Kurbel oder Gurt nicht mehr praktikabel sind. Zur Wahl stehen Somfy- oder Nice-Motoren; bei vorhandener Smart-Home-Installation lässt sich das System über KNX oder io-homecontrol einbinden." },
     ],
     "h2_cta": "Personalisiertes Angebot anfordern",
-    "cta_desc": "Das Neofort BIZ-Team erstellt ein detailliertes Angebot fur das richtige Beschattungssystem. Das Aufmass vor Ort erfolgt nach Vertragsabschluss.",
+    "cta_desc": "Das Neofort BIZ-Team erstellt ein detailliertes Angebot für das richtige Beschattungssystem. Das Aufmaß vor Ort erfolgt nach Vertragsabschluss.",
     "cta_btn": "Beschattungsangebot anfordern",
     "guide_link": "Kompletten Beschattungsratgeber lesen",
     "guide_slug": "beschattungssysteme/kompletter-ratgeber"
   },
   "fr": {
-    "h1": "Prix systemes occultation 2026 — Zipscreen, Raffstore, Volets roulants",
-    "sub": "Prix indicatifs 2026 pour les systemes occultation exterieure: stores bannes zipscreen, persiennes raffstore, volets roulants aluminium. Devis personnalise a Bucarest et Ilfov.",
-    "parent_label": "Systemes d'occultation",
+    "h1": "Prix systèmes occultation 2026 — Zipscreen, Raffstore, Volets roulants",
+    "sub": "Prix indicatifs 2026 pour les systèmes occultation extérieure: stores bannes zipscreen, persiennes raffstore, volets roulants aluminium. Devis personnalisé à Bucarest et Ilfov.",
+    "parent_label": "Systèmes d'occultation",
     "breadcrumb": "Prix 2026",
-    "intro": "Le prix d'un systeme d'occultation exterieure depend du type de produit, des dimensions, du type de commande et de la complexite de la pose.",
-    "h2_factors": "Facteurs influencant le prix",
+    "intro": "Le prix d'un système d'occultation extérieure dépend du type de produit, des dimensions, du type de commande et de la complexité de la pose.",
+    "h2_factors": "Facteurs influençant le prix",
     "factors": [
-      "Type de systeme — le store banne zipscreen (avec glissieres laterales) coute plus qu'un volet roulant standard.",
+      "Type de système — le store banne zipscreen (avec glissières latérales) coûte plus qu'un volet roulant standard.",
       "Dimensions de l'ouverture — le prix augmente proportionnellement avec la largeur et la hauteur.",
-      "Type de commande — manuel (manivelle) vs electrique (moteur Somfy/Nice) vs domotique (KNX).",
-      "Toile — ecran solaire standard vs occultation totale vs toiles anti-reflet SPF 50+.",
-      "Couleur et finition — coffres et glissieres aluminium laquables en toute couleur RAL.",
-      "Pose — ancrage en maconnerie, dans le dormant ou en applique sur mur."
+      "Type de commande — manuel (manivelle) vs électrique (moteur Somfy/Nice) vs domotique (KNX).",
+      "Toile — écran solaire standard vs occultation totale vs toiles anti-reflet SPF 50+.",
+      "Couleur et finition — coffres et glissières aluminium laquables en toute couleur RAL.",
+      "Pose — ancrage en maçonnerie, dans le dormant ou en appliqué sur mur."
     ],
-    "h2_products": "Systemes d'occultation chez Neofort BIZ",
+    "h2_products": "Systèmes d'occultation chez Neofort BIZ",
     "products": [
       {
-        "name": "Store Zipscreen exterieur",
-        "desc": "Store banne avec glissieres laterales — resistance au vent jusqu'a la classe 5 Beaufort. Ideal pour terrasses et grandes fenetres.",
+        "name": "Store Zipscreen extérieur",
+        "desc": "Store banne avec glissières latérales — résistance au vent jusqu'à la classe 5 Beaufort. Idéal pour terrasses et grandes fenêtres.",
         "price": "800–2.500 RON (100×200 cm)",
         "link": "/systemes-occultation/zipscreen-store-exterieur",
-        "cta": "Details Zipscreen"
+        "cta": "Détails Zipscreen"
       },
       {
-        "name": "Raffstore — Stores venitiens",
-        "desc": "Stores a lames aluminium orientables — controle fin de la lumiere et protection solaire. Facteur solaire jusqu'a 90%.",
+        "name": "Raffstore — Stores vénitiens",
+        "desc": "Stores à lames aluminium orientables — contrôle fin de la lumière et protection solaire. Facteur solaire jusqu'à 90%.",
         "price": "600–1.800 RON (100×150 cm)",
         "link": "/systemes-occultation/stores-venitiens-raffstore",
-        "cta": "Details Raffstore"
+        "cta": "Détails Raffstore"
       },
       {
         "name": "Volets roulants aluminium",
-        "desc": "Volets a lames aluminium remplies de mousse polyurethane — isolation thermique et acoustique, securite.",
+        "desc": "Volets à lames aluminium remplies de mousse polyuréthane — isolation thermique et acoustique, sécurité.",
         "price": "500–850 RON (100×150 cm)",
         "link": "/systemes-occultation/volets-roulants-aluminium-exterieurs",
-        "cta": "Details Volets roulants"
+        "cta": "Détails Volets roulants"
       },
       {
         "name": "Pergolas automatiques Somfy",
-        "desc": "Pergola a toile retractable impermeable, structure aluminium et inox. Moteur Somfy Pergola RGS io avec capteur de vent Sunis — repli automatique au-dela de 50 km/h.",
+        "desc": "Pergola à toile rétractable imperméable, structure aluminium et inox. Moteur Somfy Pergola RGS io avec capteur de vent Sunis — repli automatique au-delà de 50 km/h.",
         "price": "11.000–18.000 RON (3×4 m)",
         "link": "/systemes-occultation/pergolas-automatiques-somfy",
-        "cta": "Details pergolas Somfy"
+        "cta": "Détails pergolas Somfy"
       }
     ],
     "faq_h2": "Questions fréquentes sur les prix des systèmes d'occultation",
     "faq": [
-      { "q": "Combien coûte un système d'occultation extérieure en 2026 ?", "a": "À titre indicatif, un volet roulant en aluminium démarre à 500–850 RON pour une baie de 100×150 cm, un store Raffstore à 600–1.800 RON pour la même dimension, et un Zipscreen à 800–2.500 RON en 100×200 cm. Une pergola automatisée Somfy de 3×4 m se situe entre 11.000 et 18.000 RON. Ce sont des prix produit, pour les dimensions indiquées." },
+      { "q": "Combien coûte un système d'occultation extérieure en 2026 ?", "a": "À titre indicatif, un volet roulant en aluminium démarre à 500–850 RON pour une baie de 100×150 cm, un store Raffstore à 600–1.800 RON pour la même dimension, et un Zipscreen à 800–2.500 RON en 100×200 cm. Une pergola automatisée Somfy de 3×4 m se situé entre 11.000 et 18.000 RON. Ce sont des prix produit, pour les dimensions indiquées." },
       { "q": "Pourquoi les prix sont-ils indicatifs et non fixes ?", "a": "Parce que le prix final dépend de la dimension exacte de la baie, du type de motorisation, de la toile choisie et du mode de pose. Le devis est donc établi au cas par cas, et la prise de mesures sur site intervient après la signature du contrat." },
       { "q": "Quel système d'occultation résiste le mieux au vent ?", "a": "Le Zipscreen, car ses coulisses latérales maintiennent la toile — il résiste jusqu'à force 5 Beaufort, ce qui convient aux terrasses et aux grandes baies. Les pergolas automatisées Somfy disposent d'un capteur de vent Sunis et se rétractent d'elles-mêmes au-delà de 50 km/h." },
       { "q": "Peut-on poser une occultation sur des menuiseries déjà en place ?", "a": "Oui. La pose sur menuiseries Salamander ou Alumil existantes est possible et même recommandée. L'ancrage se fait dans la maçonnerie, dans le dormant ou sur le mur, selon la configuration." },
       { "q": "Quand la motorisation est-elle indispensable ?", "a": "Sur les grands systèmes, où la manivelle ou la sangle ne sont plus praticables. Les options sont un moteur Somfy ou Nice ; si vous disposez d'une installation domotique, le système s'intègre via KNX ou io-homecontrol." },
     ],
-    "h2_cta": "Demander un devis personnalise",
-    "cta_desc": "L'equipe Neofort BIZ vous fournit un devis detaille pour le systeme d'occultation adapte. Les prises de cotes sur place ont lieu apres la signature du contrat.",
+    "h2_cta": "Demander un devis personnalisé",
+    "cta_desc": "L'équipe Neofort BIZ vous fournit un devis détaillé pour le système d'occultation adapté. Les prises de côtés sur place ont lieu après la signature du contrat.",
     "cta_btn": "Demander un devis occultation",
-    "guide_link": "Lire le Guide Complet Systemes d'Occultation",
+    "guide_link": "Lire le Guide Complet Systèmes d'Occultation",
     "guide_slug": "systemes-occultation/guide-complet"
   },
   "es": {
@@ -263,42 +263,42 @@ const UI = {
     "sub": "Precios orientativos 2026 para sistemas de sombreado exterior: toldos zipscreen, persianas venecianas raffstore, persianas de aluminio. Presupuesto personalizado en Bucarest e Ilfov.",
     "parent_label": "Sistemas de sombreado",
     "breadcrumb": "Precios 2026",
-    "intro": "El precio de un sistema de sombreado exterior depende del tipo de producto, las dimensiones, el tipo de accionamiento y la complejidad de la instalacion.",
+    "intro": "El precio de un sistema de sombreado exterior depende del tipo de producto, las dimensiones, el tipo de accionamiento y la complejidad de la instalación.",
     "h2_factors": "Factores que influyen en el precio",
     "factors": [
-      "Tipo de sistema — el toldo zipscreen (con guias laterales) cuesta mas que una persiana enrollable estandar.",
+      "Tipo de sistema — el toldo zipscreen (con guías laterales) cuesta mas que una persiana enrollable estándar.",
       "Dimensiones del hueco — el precio aumenta proporcionalmente con el ancho y la altura.",
-      "Tipo de accionamiento — manual (manivela) vs electrico (motor Somfy/Nice) vs domótica (KNX).",
-      "Tejido — pantalla solar estandar vs oscurecimiento total vs tejidos especiales SPF 50+.",
-      "Color y acabado — cajones y guias de aluminio lacables en cualquier color RAL.",
-      "Instalacion — anclaje en mamposteria, en el marco o en pared."
+      "Tipo de accionamiento — manual (manivela) vs eléctrico (motor Somfy/Nice) vs domótica (KNX).",
+      "Tejido — pantalla solar estándar vs oscurecimiento total vs tejidos especiales SPF 50+.",
+      "Color y acabado — cajones y guías de aluminio lacables en cualquier color RAL.",
+      "Instalación — anclaje en mampostería, en el marco o en pared."
     ],
     "h2_products": "Sistemas de sombreado en Neofort BIZ",
     "products": [
       {
         "name": "Toldo Zipscreen exterior",
-        "desc": "Toldo exterior con guias laterales — resistencia al viento hasta clase 5 Beaufort. Ideal para terrazas y ventanas grandes.",
+        "desc": "Toldo exterior con guías laterales — resistencia al viento hasta clase 5 Beaufort. Ideal para terrazas y ventanas grandes.",
         "price": "800–2.500 RON (100×200 cm)",
         "link": "/sistemas-sombreado/zipscreen-toldo-exterior",
         "cta": "Detalles Zipscreen"
       },
       {
         "name": "Raffstore — Persianas venecianas",
-        "desc": "Persianas de laminas de aluminio orientables — control fino de la luz y proteccion solar. Factor solar hasta el 90%.",
+        "desc": "Persianas de láminas de aluminio orientables — control fino de la luz y protección solar. Factor solar hasta el 90%.",
         "price": "600–1.800 RON (100×150 cm)",
         "link": "/sistemas-sombreado/persianas-venecianas-raffstore",
         "cta": "Detalles Raffstore"
       },
       {
         "name": "Persianas de aluminio exteriores",
-        "desc": "Persianas con laminas de aluminio rellenas de espuma de PU — aislamiento termico y acustico, seguridad.",
+        "desc": "Persianas con láminas de aluminio rellenas de espuma de PU — aislamiento térmico y acústico, seguridad.",
         "price": "500–850 RON (100×150 cm)",
         "link": "/sistemas-sombreado/persianas-exteriores-aluminio",
         "cta": "Detalles Persianas"
       },
       {
-        "name": "Pergolas automaticas Somfy",
-        "desc": "Pergola con lona retractil impermeable, estructura de aluminio e inox. Motor Somfy Pergola RGS io con sensor de viento Sunis — recogida automatica por encima de 50 km/h.",
+        "name": "Pergolas automáticas Somfy",
+        "desc": "Pergola con lona retráctil impermeable, estructura de aluminio e inox. Motor Somfy Pergola RGS io con sensor de viento Sunis — recogida automática por encima de 50 km/h.",
         "price": "11.000–18.000 RON (3×4 m)",
         "link": "/sistemas-sombreado/pergolas-automaticas-somfy",
         "cta": "Detalles pergolas Somfy"
@@ -313,9 +313,9 @@ const UI = {
       { "q": "¿Cuándo es obligatoria la motorización?", "a": "En sistemas grandes, donde la manivela o la cinta dejan de ser prácticas. Las opciones son motor Somfy o Nice; si dispone de instalación domótica, el sistema se integra mediante KNX o io-homecontrol." },
     ],
     "h2_cta": "Solicitar presupuesto personalizado",
-    "cta_desc": "El equipo de Neofort BIZ le proporcionara un presupuesto detallado para el sistema de sombreado adecuado. Las mediciones en obra se realizan tras la firma del contrato.",
+    "cta_desc": "El equipo de Neofort BIZ le proporcionará un presupuesto detallado para el sistema de sombreado adecuado. Las mediciones en obra se realizan tras la firma del contrato.",
     "cta_btn": "Solicitar presupuesto sombreado",
-    "guide_link": "Leer la Guia Completa de Sistemas de Sombreado",
+    "guide_link": "Leer la Guía Completa de Sistemas de Sombreado",
     "guide_slug": "sistemas-sombreado/guia-completa"
   },
   "it": {
@@ -323,10 +323,10 @@ const UI = {
     "sub": "Prezzi indicativi 2026 per sistemi di oscuramento esterno: tende zipscreen, veneziane raffstore, tapparelle in alluminio. Preventivo personalizzato a Bucarest e Ilfov.",
     "parent_label": "Sistemi di oscuramento",
     "breadcrumb": "Prezzi 2026",
-    "intro": "Il prezzo di un sistema di oscuramento esterno dipende dal tipo di prodotto, dalle dimensioni, dal tipo di azionamento e dalla complessita dell'installazione.",
+    "intro": "Il prezzo di un sistema di oscuramento esterno dipende dal tipo di prodotto, dalle dimensioni, dal tipo di azionamento e dalla complessità dell'installazione.",
     "h2_factors": "Fattori che influenzano il prezzo",
     "factors": [
-      "Tipo di sistema — la tenda zipscreen (con guide laterali) costa di piu di una tapparella standard.",
+      "Tipo di sistema — la tenda zipscreen (con guide laterali) costa di più di una tapparella standard.",
       "Dimensioni dell'apertura — il prezzo aumenta proporzionalmente con larghezza e altezza.",
       "Tipo di azionamento — manuale (manovella) vs elettrico (motore Somfy/Nice) vs domotica (KNX).",
       "Tessuto — schermo solare standard vs oscuramento totale vs tessuti speciali SPF 50+.",
@@ -373,7 +373,7 @@ const UI = {
       { "q": "Quando la motorizzazione è obbligatoria?", "a": "Sui sistemi di grandi dimensioni, dove manovella o cinghia non sono più pratiche. Le opzioni sono motore Somfy o Nice; con un impianto domotico il sistema si integra tramite KNX o io-homecontrol." },
     ],
     "h2_cta": "Richiedi un preventivo personalizzato",
-    "cta_desc": "Il team Neofort BIZ fornira un preventivo dettagliato per il sistema di oscuramento adeguato. Le misurazioni in loco avvengono dopo la firma del contratto.",
+    "cta_desc": "Il team Neofort BIZ fornirà un preventivo dettagliato per il sistema di oscuramento adeguato. Le misurazioni in loco avvengono dopo la firma del contratto.",
     "cta_btn": "Richiedi preventivo oscuramento",
     "guide_link": "Leggi la Guida Completa Sistemi di Oscuramento",
     "guide_slug": "sistemi-oscuramento/guida-completa"
@@ -397,7 +397,7 @@ const WA_LABELS = {
   it: 'WhatsApp',
 };
 const MID_TITLES = {
-  // v288: "oferta gratuita" scos — regula din contextul proiectului interzice
+  // v288: "oferta personalizata" scos — regula din contextul proiectului interzice
   // "gratuit" in copy. Textul nu era vizibil pana acum (midTitle se calcula si
   // nu se randa); odata cu afisarea benzii ar fi devenit vizibil in 6 limbi.
   // ACELASI text exista si in celelalte patru pagini de ghid, unde banda ESTE

@@ -298,12 +298,12 @@ const WA_LABELS = {
   it: 'WhatsApp',
 };
 const MID_TITLES = {
-  ro: 'Solicitati oferta gratuita — raspundem in 2 ore',
-  en: 'Request your free quote — we reply within 2 hours',
-  de: 'Kostenloses Angebot anfordern — Antwort in 2 Stunden',
-  fr: 'Demandez votre devis gratuit — reponse en 2 heures',
-  es: 'Solicite su presupuesto gratuito — respondemos en 2 horas',
-  it: 'Richiedi il tuo preventivo gratuito — rispondiamo in 2 ore',
+  ro: 'Solicitati oferta personalizata — raspundem in 2 ore',
+  en: 'Request your personalised quote — we reply within 2 hours',
+  de: 'Persönliches Angebot anfordern — Antwort in 2 Stunden',
+  fr: 'Demandez votre devis personnalisé — reponse en 2 heures',
+  es: 'Solicite su presupuesto personalizado — respondemos en 2 horas',
+  it: 'Richiedi il tuo preventivo personalizzato — rispondiamo in 2 ore',
 };
 const MID_DESCS = {
   // v286: nu mai sunt siruri, ci functii de { rating, count }. Numarul de

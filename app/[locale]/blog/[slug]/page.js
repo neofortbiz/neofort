@@ -575,7 +575,7 @@ export default async function BlogArticlePage({ params }) {
                 {{'ro':'Contact rapid','en':'Quick contact','de':'Schnellkontakt','fr':'Contact rapide','es':'Contacto rápido','it':'Contatto rapido'}[locale]}
               </span>
               <p style={{fontSize:'.72rem',color:'#050505',lineHeight:1.5,marginBottom:'12px'}}>
-                {{'ro':'Răspundem în 2 ore pe WhatsApp. Ofertă gratuită pentru orice proiect.','en':'We reply within 2 hours on WhatsApp. Free quote for any project.','de':'Antwort innerhalb 2 Stunden. Kostenloses Angebot für jedes Projekt.','fr':'Réponse en 2 heures sur WhatsApp. Devis gratuit pour tout projet.','es':'Respuesta en 2 horas en WhatsApp. Presupuesto gratuito.','it':'Risposta in 2 ore su WhatsApp. Preventivo gratuito per qualsiasi progetto.'}[locale]}
+                {{'ro':'Răspundem în 2 ore pe WhatsApp. Ofertă personalizată pentru orice proiect.','en':'We reply within 2 hours on WhatsApp. Personalised quote for any project.','de':'Antwort innerhalb 2 Stunden. Persönliches Angebot für jedes Projekt.','fr':'Réponse en 2 heures sur WhatsApp. Devis personnalisé pour tout projet.','es':'Respuesta en 2 horas en WhatsApp. Presupuesto personalizado.','it':'Risposta in 2 ore su WhatsApp. Preventivo personalizzato per qualsiasi progetto.'}[locale]}
               </p>
               <a href="https://wa.me/40752443435" target="_blank" rel="noopener noreferrer"
                 style={{display:'flex',alignItems:'center',justifyContent:'center',gap:'8px',background:'#075E35',color:'#fff',textDecoration:'none',padding:'10px 0',fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'.6rem',letterSpacing:'.18em',textTransform:'uppercase'}}>

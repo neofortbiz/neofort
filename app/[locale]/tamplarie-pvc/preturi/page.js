@@ -46,7 +46,7 @@ const UI = {
     ],
     cta_h: 'Solicitați ofertă personalizată',
     cta_sub: 'Prețul exact se stabilește după măsurătorile la fața locului, efectuate după semnarea contractului.',
-    cta_btn: 'Cerere ofertă gratuită',
+    cta_btn: 'Cerere ofertă personalizată',
     cta_call: 'Sună acum',
     faq_title: 'Întrebări frecvente despre prețuri',
     faq: [
@@ -87,7 +87,7 @@ const UI = {
     ],
     cta_h: 'Request personalised quote',
     cta_sub: 'Exact price is set after the on-site measurements, taken once the contract is signed.',
-    cta_btn: 'Request free quote',
+    cta_btn: 'Request a quote',
     cta_call: 'Call now',
     faq_title: 'Frequently asked questions about prices',
     faq: [
@@ -127,8 +127,8 @@ const UI = {
       ['Einbau', 'Standard vs nZEB mit Blaugelb Triotherm+ Vorfenstern — 25–50 EUR/lm Unterschied'],
     ],
     cta_h: 'Persönliches Angebot anfordern',
-    cta_sub: 'Genaupreis nach kostenloser Vor-Ort-Aufnahme.',
-    cta_btn: 'Kostenloses Angebot',
+    cta_sub: 'Genauer Preis nach dem Aufmaß vor Ort.',
+    cta_btn: 'Persönliches Angebot',
     cta_call: 'Jetzt anrufen',
     faq_title: 'Häufige Fragen zu Preisen',
     faq: [
@@ -169,7 +169,7 @@ const UI = {
     ],
     cta_h: 'Demandez un devis personnalisé',
     cta_sub: 'Prix exact déterminé après les métrés sur site, réalisés une fois le contrat signé.',
-    cta_btn: 'Devis gratuit',
+    cta_btn: 'Devis personnalisé',
     cta_call: 'Appeler maintenant',
     faq_title: 'Questions fréquentes sur les prix',
     faq: [
@@ -210,7 +210,7 @@ const UI = {
     ],
     cta_h: 'Solicite presupuesto personalizado',
     cta_sub: 'Precio exacto determinado tras las mediciones en obra, realizadas después de firmar el contrato.',
-    cta_btn: 'Presupuesto gratuito',
+    cta_btn: 'Presupuesto personalizado',
     cta_call: 'Llamar ahora',
     faq_title: 'Preguntas frecuentes sobre precios',
     faq: [
@@ -250,8 +250,8 @@ const UI = {
       ['Posa', "Standard vs nZEB con precontrotelaio Blaugelb Triotherm+ — differenza di 25–50 EUR/ml"],
     ],
     cta_h: 'Richiedete un preventivo personalizzato',
-    cta_sub: 'Prezzo esatto determinato dopo rilievi gratuiti in loco.',
-    cta_btn: 'Preventivo gratuito',
+    cta_sub: 'Prezzo esatto determinato dopo il rilievo in loco.',
+    cta_btn: 'Preventivo personalizzato',
     cta_call: 'Chiama ora',
     faq_title: 'Domande frequenti sui prezzi',
     faq: [
