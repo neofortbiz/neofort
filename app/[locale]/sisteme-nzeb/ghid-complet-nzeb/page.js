@@ -1,6 +1,7 @@
 import { Link } from '../../../../i18n/navigation';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { getGoogleRating } from '../../../../lib/googleRating.js';
 const SLUGS = {
   ro: 'sisteme-nzeb/ghid-complet-nzeb',
   en: 'nzeb-systems/complete-guide',
@@ -305,12 +306,15 @@ const MID_TITLES = {
   it: 'Richiedi il tuo preventivo gratuito — rispondiamo in 2 ore',
 };
 const MID_DESCS = {
-  ro: 'Montaj in Bucuresti si Ilfov. Oferta in 48h. 49 recenzii Google 5.0/5.',
-  en: 'Installation in Bucharest and Ilfov. Quote in 48h. 49 Google reviews 5.0/5.',
-  de: 'Montage in Bukarest und Ilfov. Angebot in 48h. 49 Google-Bewertungen 5.0/5.',
-  fr: 'Pose a Bucarest et Ilfov. Devis en 48h. 49 avis Google 5.0/5.',
-  es: 'Instalacion en Bucarest e Ilfov. Presupuesto en 48h. 49 resenas Google 5.0/5.',
-  it: 'Posa a Bucarest e Ilfov. Preventivo in 48h. 49 recensioni Google 5.0/5.',
+  // v286: nu mai sunt siruri, ci functii de { rating, count }. Numarul de
+  // recenzii venea hardcodat aici si trebuia corectat de mana la fiecare
+  // schimbare — exact ce s-a intamplat in v283, pe 64 de locuri.
+  ro: (r) => `Montaj in Bucuresti si Ilfov. Oferta in 48h. ${r.count} recenzii Google ${r.rating.toFixed(1)}/5.`,
+  en: (r) => `Installation in Bucharest and Ilfov. Quote in 48h. ${r.count} Google reviews ${r.rating.toFixed(1)}/5.`,
+  de: (r) => `Montage in Bukarest und Ilfov. Angebot in 48h. ${r.count} Google-Bewertungen ${r.rating.toFixed(1)}/5.`,
+  fr: (r) => `Pose a Bucarest et Ilfov. Devis en 48h. ${r.count} avis Google ${r.rating.toFixed(1)}/5.`,
+  es: (r) => `Instalacion en Bucarest e Ilfov. Presupuesto en 48h. ${r.count} resenas Google ${r.rating.toFixed(1)}/5.`,
+  it: (r) => `Posa a Bucarest e Ilfov. Preventivo in 48h. ${r.count} recensioni Google ${r.rating.toFixed(1)}/5.`,
 };
 
 export async function generateStaticParams() {
@@ -345,7 +349,8 @@ export default async function NZEBGhidPage({ params }) {
   const waUrl = WA_URLS[locale] || WA_URLS.ro;
   const waLabel = WA_LABELS[locale] || WA_LABELS.ro;
   const midTitle = MID_TITLES[locale] || MID_TITLES.ro;
-  const midDesc = MID_DESCS[locale] || MID_DESCS.ro;
+  const googleRating = await getGoogleRating();
+  const midDesc = (MID_DESCS[locale] || MID_DESCS.ro)(googleRating);
   const parentSlug = PARENT_SLUGS[locale] || PARENT_SLUGS.ro;
   const pricesSlug = PRICES_SLUGS[locale] || PRICES_SLUGS.ro;
   const blogLinks = BLOG_LINKS[locale] || BLOG_LINKS.ro;

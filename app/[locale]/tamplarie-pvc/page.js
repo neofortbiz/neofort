@@ -3,6 +3,7 @@ import FaqAccordion from '../../../components/FaqAccordion';
 import { Link } from '../../../i18n/navigation';
 
 import { BASE } from '../../../lib/constants.js';
+import { getGoogleRating } from '../../../lib/googleRating.js';
 import { hubFaq, HUB_FAQ_LABEL } from '../../../data/hubFaq.js';
 const SLUGS_TAMPLARIE_PVC = {'ro':'tamplarie-pvc', 'en':'pvc-windows', 'de':'kunststofffenster-pvc', 'fr':'menuiserie-pvc', 'es':'carpinteria-pvc', 'it':'infissi-pvc'};
 
@@ -148,6 +149,8 @@ const PVC_PRODUCTS = [
 
 export async function generateMetadata({ params }) {
   const { locale } = await params;
+  // v286: numarul de recenzii venea hardcodat in descrierile de mai jos.
+  const googleRating = await getGoogleRating();
   const t = await getTranslations({ locale, namespace: 'pvc' });
   const slug = SLUGS_TAMPLARIE_PVC[locale] || SLUGS_TAMPLARIE_PVC.ro;
   return {
@@ -157,12 +160,12 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Menuiserie PVC Salamander Bucarest — Devis 48h | Neofort BIZ'
          : locale === 'es' ? 'Carpintería PVC Salamander Bucarest — 48h | Neofort BIZ'
          : 'Infissi PVC Salamander Bucarest — 48h | Neofort BIZ',
-    description: locale === 'ro' ? 'Tâmplărie PVC Salamander în București — cere o ofertă de preț personalizată, cu răspuns în 24h. Sisteme BluEvolution 92 și GreenEvolution 76, montaj propriu, 21 ani experiență, 5.0★ din 49 recenzii.'
-               : locale === 'en' ? 'Salamander PVC windows in Bucharest — request a personalised price quote, answered in 24h. BluEvolution 92 and GreenEvolution 76 systems, own installation team, 21 years experience, 5.0★ from 49 reviews.'
-               : locale === 'de' ? 'Salamander PVC-Fenster in Bukarest — fordern Sie ein persönliches Preisangebot an, Antwort in 24h. BluEvolution 92 und GreenEvolution 76, eigene Montage, 21 Jahre Erfahrung, 5.0★ aus 49 Bewertungen.'
-               : locale === 'fr' ? 'Menuiserie PVC Salamander à Bucarest — demandez un devis prix personnalisé, réponse en 24h. Systèmes BluEvolution 92 et GreenEvolution 76, pose par notre équipe, 21 ans d\u2019expérience, 5.0★ sur 49 avis.'
-               : locale === 'es' ? 'Carpintería PVC Salamander en Bucarest — solicita un presupuesto personalizado, respuesta en 24h. Sistemas BluEvolution 92 y GreenEvolution 76, montaje propio, 21 años de experiencia, 5.0★ de 49 reseñas.'
-               : 'Infissi PVC Salamander a Bucarest — richiedi un preventivo prezzo personalizzato, risposta in 24h. Sistemi BluEvolution 92 e GreenEvolution 76, posa propria, 21 anni di esperienza, 5.0★ su 49 recensioni.',
+    description: locale === 'ro' ? `Tâmplărie PVC Salamander în București — cere o ofertă de preț personalizată, cu răspuns în 24h. Sisteme BluEvolution 92 și GreenEvolution 76, montaj propriu, 21 ani experiență, ${googleRating.rating.toFixed(1)}★ din ${googleRating.count} recenzii.`
+               : locale === 'en' ? `Salamander PVC windows in Bucharest — request a personalised price quote, answered in 24h. BluEvolution 92 and GreenEvolution 76 systems, own installation team, 21 years experience, ${googleRating.rating.toFixed(1)}★ from ${googleRating.count} reviews.`
+               : locale === 'de' ? `Salamander PVC-Fenster in Bukarest — fordern Sie ein persönliches Preisangebot an, Antwort in 24h. BluEvolution 92 und GreenEvolution 76, eigene Montage, 21 Jahre Erfahrung, ${googleRating.rating.toFixed(1)}★ aus ${googleRating.count} Bewertungen.`
+               : locale === 'fr' ? `Menuiserie PVC Salamander à Bucarest — demandez un devis prix personnalisé, réponse en 24h. Systèmes BluEvolution 92 et GreenEvolution 76, pose par notre équipe, 21 ans d\u2019expérience, ${googleRating.rating.toFixed(1)}★ sur ${googleRating.count} avis.`
+               : locale === 'es' ? `Carpintería PVC Salamander en Bucarest — solicita un presupuesto personalizado, respuesta en 24h. Sistemas BluEvolution 92 y GreenEvolution 76, montaje propio, 21 años de experiencia, ${googleRating.rating.toFixed(1)}★ de ${googleRating.count} reseñas.`
+               : `Infissi PVC Salamander a Bucarest — richiedi un preventivo prezzo personalizzato, risposta in 24h. Sistemi BluEvolution 92 e GreenEvolution 76, posa propria, 21 anni di esperienza, ${googleRating.rating.toFixed(1)}★ su ${googleRating.count} recensioni.`,
     keywords: locale === 'ro' ? 'tamplarie PVC Salamander, tamplarie salamander bucuresti, ferestre PVC Bucuresti, BluEvolution 92, GreenEvolution 76, termopane pvc bucuresti, ferestre pvc pret 2026, montaj ferestre pvc nZEB, sisteme salamander 6 camere' : locale === 'en' ? 'PVC Salamander windows, BluEvolution 92, GreenEvolution 76, nZEB windows Bucharest' : locale === 'de' ? 'PVC Salamander Fenster, BluEvolution 92, GreenEvolution 76, nZEB Fenster Bukarest' : locale === 'fr' ? 'menuiserie PVC Salamander, BluEvolution 92, GreenEvolution 76, fenêtres nZEB Bucarest' : locale === 'es' ? 'carpintería PVC Salamander, BluEvolution 92, GreenEvolution 76, ventanas nZEB Bucarest' : 'infissi PVC Salamander, BluEvolution 92, GreenEvolution 76, finestre nZEB Bucarest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {

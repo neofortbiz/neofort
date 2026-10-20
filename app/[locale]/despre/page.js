@@ -3,6 +3,7 @@ import { Link } from '../../../i18n/navigation';
 
 import { BASE } from '../../../lib/constants.js';
 import { getGoogleRating } from '../../../lib/googleRating.js';
+import { formatRatingParts } from '../../../lib/formatRating.js';
 const SLUGS_DESPRE = {'ro':'despre', 'en':'about', 'de':'ueber-uns', 'fr':'a-propos', 'es':'sobre-nosotros', 'it':'chi-siamo'};
 
 const CTA_LABELS = {
@@ -122,8 +123,23 @@ export async function generateMetadata({ params }) {
 
 export default async function DesprePage({ params }) {
   const { locale } = await params;
-  const ui = PAGE_UI[locale] || PAGE_UI.ro;
+  const uiBaza = PAGE_UI[locale] || PAGE_UI.ro;
   const googleRating = await getGoogleRating();
+
+  // v286: cardul de rating din stats era hardcodat, desi googleRating era deja
+  // citit aici pentru JSON-LD — schema spunea un numar si pagina altul, iar
+  // diferenta crestea in timp. Acum intrarea e inlocuita la randare.
+  // Se identifica dupa stelele din prima pozitie, nu dupa index: pe homepage
+  // rating-ul e ultimul din lista, aici e al treilea din patru, si un index
+  // fix s-ar rupe tacut la prima reordonare a cardurilor.
+  const ui = {
+    ...uiBaza,
+    stats: uiBaza.stats.map((intrare) =>
+      String(intrare[0]).includes('★')
+        ? formatRatingParts(googleRating.rating, googleRating.count, locale)
+        : intrare
+    ),
+  };
 
   const schemaDespre = {
     '@context': 'https://schema.org',

@@ -3,6 +3,7 @@ import FaqAccordion from '../../../components/FaqAccordion';
 import { getTranslations } from 'next-intl/server';
 
 import { BASE } from '../../../lib/constants.js';
+import { getGoogleRating } from '../../../lib/googleRating.js';
 import { hubFaq, HUB_FAQ_LABEL } from '../../../data/hubFaq.js';
 const SLUGS_TAMPLARIE_ALUMINIU = {'ro':'tamplarie-aluminiu', 'en':'aluminium-windows', 'de':'aluminiumfenster', 'fr':'menuiserie-aluminium', 'es':'carpinteria-aluminio', 'it':'infissi-alluminio'};
 
@@ -147,6 +148,8 @@ const ALU_PRODUCTS = [
 
 export async function generateMetadata({ params }) {
   const { locale } = await params;
+  // v286: numarul de recenzii venea hardcodat in descrierile de mai jos.
+  const googleRating = await getGoogleRating();
   const t = await getTranslations({ locale, namespace: 'aluminiu' });
   const slug = SLUGS_TAMPLARIE_ALUMINIU[locale] || SLUGS_TAMPLARIE_ALUMINIU.ro;
   return {
@@ -156,12 +159,12 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Menuiserie Aluminium Alumil — Bucarest, Ilfov | Neofort BIZ'
          : locale === 'es' ? 'Carpintería Aluminio Alumil — Bucarest e Ilfov | Neofort BIZ'
          : 'Infissi Alluminio Alumil — Bucarest e Ilfov | Neofort BIZ',
-    description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil în București — cere o ofertă de preț personalizată, cu răspuns rapid. Ferestre, uși, glisante și pereți cortină cu barieră termică. Montaj propriu, 21 ani experiență, 5.0★ din 49 recenzii.'
-               : locale === 'en' ? 'Alumil aluminium windows in Bucharest — request a personalised price quote, answered fast. Windows, doors, sliding and curtain walls with thermal break. Own installation team, 21 years experience, 5.0★ from 49 reviews.'
-               : locale === 'de' ? 'Alumil Aluminiumfenster in Bukarest — fordern Sie ein persönliches Preisangebot an, schnelle Antwort. Fenster, Türen, Schiebe- und Vorhangfassaden mit Wärmedämmbrücke. Eigene Montage, 21 Jahre Erfahrung, 5.0★ aus 49 Bewertungen.'
-               : locale === 'fr' ? 'Menuiserie aluminium Alumil à Bucarest — demandez un devis prix personnalisé, réponse rapide. Fenêtres, portes, coulissants et murs-rideaux à rupture de pont thermique. Pose par notre équipe, 21 ans d\u2019expérience, 5.0★ sur 49 avis.'
-               : locale === 'es' ? 'Carpintería aluminio Alumil en Bucarest — solicita un presupuesto personalizado, respuesta rápida. Ventanas, puertas, correderas y muros cortina con rotura de puente térmico. Montaje propio, 21 años de experiencia, 5.0★ de 49 reseñas.'
-               : 'Infissi alluminio Alumil a Bucarest — richiedi un preventivo prezzo personalizzato, risposta rapida. Finestre, porte, scorrevoli e facciate continue con taglio termico. Posa propria, 21 anni di esperienza, 5.0★ su 49 recensioni.',
+    description: locale === 'ro' ? `Tâmplărie aluminiu Alumil în București — cere o ofertă de preț personalizată, cu răspuns rapid. Ferestre, uși, glisante și pereți cortină cu barieră termică. Montaj propriu, 21 ani experiență, ${googleRating.rating.toFixed(1)}★ din ${googleRating.count} recenzii.`
+               : locale === 'en' ? `Alumil aluminium windows in Bucharest — request a personalised price quote, answered fast. Windows, doors, sliding and curtain walls with thermal break. Own installation team, 21 years experience, ${googleRating.rating.toFixed(1)}★ from ${googleRating.count} reviews.`
+               : locale === 'de' ? `Alumil Aluminiumfenster in Bukarest — fordern Sie ein persönliches Preisangebot an, schnelle Antwort. Fenster, Türen, Schiebe- und Vorhangfassaden mit Wärmedämmbrücke. Eigene Montage, 21 Jahre Erfahrung, ${googleRating.rating.toFixed(1)}★ aus ${googleRating.count} Bewertungen.`
+               : locale === 'fr' ? `Menuiserie aluminium Alumil à Bucarest — demandez un devis prix personnalisé, réponse rapide. Fenêtres, portes, coulissants et murs-rideaux à rupture de pont thermique. Pose par notre équipe, 21 ans d\u2019expérience, ${googleRating.rating.toFixed(1)}★ sur ${googleRating.count} avis.`
+               : locale === 'es' ? `Carpintería aluminio Alumil en Bucarest — solicita un presupuesto personalizado, respuesta rápida. Ventanas, puertas, correderas y muros cortina con rotura de puente térmico. Montaje propio, 21 años de experiencia, ${googleRating.rating.toFixed(1)}★ de ${googleRating.count} reseñas.`
+               : `Infissi alluminio Alumil a Bucarest — richiedi un preventivo prezzo personalizzato, risposta rapida. Finestre, porte, scorrevoli e facciate continue con taglio termico. Posa propria, 21 anni di esperienza, ${googleRating.rating.toFixed(1)}★ su ${googleRating.count} recensioni.`,
     keywords: locale === 'ro' ? 'tamplarie aluminiu, tamplarie aluminiu bucuresti, tamplarie aluminiu pret, tamplarie alumil, termopane aluminiu, ferestre aluminiu bucuresti, tamplarie aluminiu bariera termica, alumil supreme sf85, alumil smartia s67, ferestre aluminiu pret 2026' : locale === 'en' ? 'aluminium windows, aluminium windows Bucharest, Alumil windows, aluminium windows price, thermal break aluminium windows, Alumil Supreme SF85, Alumil Smartia S67' : locale === 'de' ? 'Aluminiumfenster Bukarest, Alumil Fenster, Aluminiumfenster Preis, Wärmedämmbrücke Aluminium, Alumil Supreme, Alumil Smartia' : locale === 'fr' ? 'menuiserie aluminium Bucarest, prix menuiserie aluminium, Alumil Supreme, Alumil Smartia, fenêtres aluminium rupture pont thermique' : locale === 'es' ? 'carpintería aluminio Bucarest, precio ventanas aluminio, Alumil Supreme, Alumil Smartia, ventanas aluminio rotura puente térmico' : 'infissi alluminio Bucarest, prezzo infissi alluminio, Alumil Supreme, Alumil Smartia, finestre alluminio taglio termico',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
