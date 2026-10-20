@@ -1,6 +1,43 @@
 const createNextIntlPlugin = require('next-intl/plugin');
 const withNextIntl = createNextIntlPlugin();
 
+// === Content-Security-Policy — v281 =========================================
+//
+// Ce apara: daca vreodata ajunge cod strain in pagina — printr-o dependenta
+// compromisa, un script injectat, orice — CSP il impiedica sa isi trimita
+// prada catre un domeniu la alegerea atacatorului. Lista de mai jos e singura
+// de la care browserul accepta scripturi, conexiuni sau cadre.
+//
+// 'unsafe-inline' la script-src e OBLIGATORIU aici, nu e o scapare:
+// JSON-LD-ul (30+ blocuri dangerouslySetInnerHTML), bootstrap-ul gtag si
+// scripturile de hidratare ale Next.js sunt toate inline. Alternativa, nonce,
+// nu merita: cere trecerea la rendering dinamic, pierdem generarea statica, si
+// chiar aparatul de nonce are advisory propriu pe linia 14.x (GHSA-ffhc-5mcf-pf4q).
+// Chiar cu 'unsafe-inline', partea care conteaza ramane in picioare: niciun
+// script EXTERN nu se poate incarca de pe alt domeniu decat cele enumerate.
+//
+// Inventar verificat in cod inainte de a scrie lista:
+//   scripturi externe  — googletagmanager.com (gtag/js, G-20PR5SV2XC)
+//   cadre              — google.com/maps/embed (ambele variante, contact/page.js)
+//   fonturi            — next/font, gazduite local (self)
+//   imagini            — locale, plus pixelii GA
+//   conexiuni          — GA4: google-analytics.com, analytics.google.com,
+//                        googletagmanager.com, stats.g.doubleclick.net
+const CSP = [
+  "default-src 'self'",
+  "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://vercel.live",
+  "style-src 'self' 'unsafe-inline'",
+  "img-src 'self' data: blob: https://www.googletagmanager.com https://www.google-analytics.com https://*.google-analytics.com https://*.googleapis.com https://*.gstatic.com https://www.google.com https://www.google.ro",
+  "font-src 'self' data:",
+  "connect-src 'self' https://www.googletagmanager.com https://*.googletagmanager.com https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://stats.g.doubleclick.net",
+  "frame-src https://www.google.com https://maps.google.com https://vercel.live",
+  "frame-ancestors 'self'",
+  "base-uri 'self'",
+  "form-action 'self'",
+  "object-src 'none'",
+  'upgrade-insecure-requests',
+].join('; ');
+
 const nextConfig = {
   compress: true,
   experimental: {
@@ -284,6 +321,24 @@ const nextConfig = {
           { key: 'X-Content-Type-Options', value: 'nosniff' },
           { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
           { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+
+          // ── v281: antete de securitate lipsa ──────────────────────────
+          //
+          // HSTS fara includeSubDomains, DELIBERAT. Site-ul e pe Vercel, dar
+          // mailul e pe cPanel la Namebox, pe subdomenii (mail., webmail.,
+          // cpanel.). Cu includeSubDomains, orice browser care a vazut o data
+          // antetul ar refuza sa mai deschida acele subdomenii pe HTTP — si
+          // le-am bloca singuri accesul la webmail. Fara preload, din acelasi
+          // motiv: preload-ul e practic ireversibil.
+          { key: 'Strict-Transport-Security', value: 'max-age=63072000' },
+
+          {
+            key: 'Permissions-Policy',
+            value: 'camera=(), microphone=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=(), geolocation=(self)',
+          },
+
+          // CSP — valoarea e construita in CSP, mai jos, ca sa ramana lizibila.
+          { key: 'Content-Security-Policy', value: CSP },
         ],
       },
       {

@@ -1,8 +1,57 @@
 import { BASE } from '../../../lib/constants.js';
 import { Resend } from 'resend';
 import { validatePhone } from '../../../lib/countryCodes.js';
+import { rateLimit, clientIp } from '../../../lib/rateLimit.js';
 
 const resend = new Resend(process.env.RESEND_API_KEY);
+
+// ── v281: limite de securitate pe endpoint ──────────────────────────────────
+//
+// Problema reparata: al doilea email (confirmarea) pleaca spre adresa scrisa
+// in formular, cu from: no-reply@neofort-biz.ro. Campurile nume, adresa,
+// comanda si produse erau interpolate NEESCAPATE in HTML-ul lui. Oricine
+// trecea de honeypot putea deci trimite catre orice adresa un email cu
+// antetul si domeniul nostru, continand HTML la alegere — linkuri, butoane,
+// un text care imita o notificare oficiala. Un instrument de phishing gata
+// facut, semnat Neofort BIZ.
+//
+// Reparatia are trei straturi: (1) destinatarul e validat, (2) fiecare
+// valoare e taiata ca lungime, curatata de CR/LF si escapata la HTML,
+// (3) un IP nu poate trimite mai mult de MAX_PER_HOUR formulare pe ora.
+
+const MAX_PER_HOUR = 5;          // formulare / IP / ora
+const MAX_FILES = 5;             // atasamente per solicitare
+const MAX_FILE_BYTES = 5 * 1024 * 1024;    // 5 MB per fisier
+const MAX_TOTAL_BYTES = 15 * 1024 * 1024;  // 15 MB in total
+
+// Extensii acceptate: fotografii, schite si documente de deviz. Fara arhive
+// si fara executabile — atasamentele ajung in casuta oferte@, nu vrem sa fie
+// un canal prin care cineva livreaza fisiere arbitrare acolo.
+const ALLOWED_EXT = new Set([
+  'pdf', 'jpg', 'jpeg', 'png', 'webp', 'avif', 'heic', 'heif', 'gif',
+  'doc', 'docx', 'xls', 'xlsx', 'odt', 'ods', 'txt', 'dwg', 'dxf',
+]);
+
+// Deliberat strict: fara spatii, fara ghilimele, fara < > , ; — caractere
+// folosite in injectarea de anteturi si in adrese formatate ("Nume <a@b>").
+const EMAIL_RE = /^[^\s@<>"',;]{1,64}@[^\s@<>"',;.]{1,63}(\.[^\s@<>"',;.]{1,63})+$/;
+
+/** Scoate CR/LF/TAB si taie la lungimea maxima. */
+const clean = (v, max) => String(v ?? '').replace(/[\r\n\t]+/g, ' ').trim().slice(0, max);
+
+/** Escapare HTML — se aplica la TOT ce provine din formular. */
+const esc = (v) => String(v ?? '')
+  .replace(/&/g, '&amp;')
+  .replace(/</g, '&lt;')
+  .replace(/>/g, '&gt;')
+  .replace(/"/g, '&quot;')
+  .replace(/'/g, '&#39;');
+
+/** Nume de fisier sigur pentru antetul atasamentului. */
+const safeName = (name) => {
+  const base = String(name ?? 'fisier').replace(/[\r\n]/g, '').split(/[\\/]/).pop() || 'fisier';
+  return base.replace(/[^\w.\- ()]/g, '_').slice(0, 120);
+};
 
 // ── Texte email confirmare client, pe 6 limbi — v217 ────────────────────────
 // Anterior emailul era integral in romana pentru toti clientii, indiferent de
@@ -96,6 +145,17 @@ export async function POST(request) {
       return Response.json({ success: true, id: null });
     }
 
+    // ── LIMITA PE IP (v281) ────────────────────────────────────────────────
+    // Verificata DUPA honeypot: botii simpli cad mai devreme, fara sa
+    // consume o comanda Upstash. Fail-open — daca Upstash nu raspunde,
+    // cererea trece, ca sa nu pierdem clienti reali.
+    const ip = clientIp(request);
+    const limit = await rateLimit(`contact:${ip}`, MAX_PER_HOUR, 3600);
+    if (!limit.ok) {
+      console.warn('[contact] respins — limita pe IP:', JSON.stringify({ ip, count: limit.count }));
+      return Response.json({ success: true, id: null });
+    }
+
     // ── VALIDARE TELEFON (v260) ────────────────────────────────────────────
     // Aceeasi functie ca in browser, din lib/countryCodes.js — o singura
     // implementare, deci cele doua nu pot ajunge sa difere in timp.
@@ -108,29 +168,45 @@ export async function POST(request) {
       return Response.json({ success: true, id: null });
     }
 
-    const nume = formData.get('nume') || '';
+    // ── CAMPURI: lungime limitata, fara CR/LF (v281) ───────────────────────
+    const nume = clean(formData.get('nume'), 100);
     const telefon = phone.e164;
-    const email = formData.get('email') || '';
-    const comanda = formData.get('comanda') || '';
-    const adresa = formData.get('adresa') || '';
-    const produse = formData.getAll('produse');
-    const files = formData.getAll('files');
+    const emailRaw = clean(formData.get('email'), 150);
+    // Un destinatar care nu trece validarea nu primeste confirmare. Internul
+    // pleaca oricum, ca sa nu pierdem solicitarea — adresa gresita apare in
+    // el ca text escapat, si echipa suna pe telefon.
+    const email = EMAIL_RE.test(emailRaw) ? emailRaw : '';
+    const comanda = clean(formData.get('comanda'), 100);
+    const adresa = clean(formData.get('adresa'), 250);
+    const produse = formData.getAll('produse').slice(0, 40).map((p) => clean(p, 120));
+    const files = formData.getAll('files').slice(0, MAX_FILES);
     const locale = String(formData.get('locale') || 'ro');
     const T = EMAIL_TEXTS[locale] || EMAIL_TEXTS.ro;
 
-    // Produse HTML pentru emailuri
+    // Produse HTML pentru emailuri — escapat, intra in ambele sabloane
     const produseHTML = produse.length > 0
-      ? produse.map(p => `<li style="padding:4px 0;border-bottom:1px solid #eee;font-size:.85rem;color:#151515;">${p}</li>`).join('')
+      ? produse.map(p => `<li style="padding:4px 0;border-bottom:1px solid #eee;font-size:.85rem;color:#151515;">${esc(p)}</li>`).join('')
       : '<li style="color:#141414;font-size:.85rem;">Niciun produs selectat</li>';
 
-    // Procesează atașamentele
+    // ── ATASAMENTE: numar, tip si dimensiune limitate (v281) ───────────────
+    // Merg DOAR catre oferte@neofort-biz.ro, niciodata catre adresa din
+    // formular. Limitele protejeaza casuta interna si memoria functiei.
     const attachments = [];
+    const respinse = [];
+    let totalBytes = 0;
     for (const file of files) {
-      if (file && file.size > 0) {
-        const buffer = await file.arrayBuffer();
-        const base64 = Buffer.from(buffer).toString('base64');
-        attachments.push({ filename: file.name, content: base64 });
-      }
+      if (!file || typeof file.arrayBuffer !== 'function' || !(file.size > 0)) continue;
+
+      const name = safeName(file.name);
+      const ext = (name.split('.').pop() || '').toLowerCase();
+
+      if (!ALLOWED_EXT.has(ext)) { respinse.push(`${name} (tip neacceptat)`); continue; }
+      if (file.size > MAX_FILE_BYTES) { respinse.push(`${name} (peste 5 MB)`); continue; }
+      if (totalBytes + file.size > MAX_TOTAL_BYTES) { respinse.push(`${name} (depaseste totalul de 15 MB)`); continue; }
+
+      const buffer = await file.arrayBuffer();
+      totalBytes += file.size;
+      attachments.push({ filename: name, content: Buffer.from(buffer).toString('base64') });
     }
 
     // ── EMAIL 1: către Neofort (intern) ──
@@ -151,23 +227,23 @@ export async function POST(request) {
             <table style="width:100%;border-collapse:collapse;margin-bottom:24px;">
               <tr style="border-bottom:1px solid #eee;">
                 <td style="padding:10px 0;font-size:.8rem;color:#141414;width:140px;text-transform:uppercase;letter-spacing:.1em;">Nume</td>
-                <td style="padding:10px 0;font-size:.9rem;color:#151515;font-weight:500;">${nume}</td>
+                <td style="padding:10px 0;font-size:.9rem;color:#151515;font-weight:500;">${esc(nume)}</td>
               </tr>
               <tr style="border-bottom:1px solid #eee;">
                 <td style="padding:10px 0;font-size:.8rem;color:#141414;text-transform:uppercase;letter-spacing:.1em;">Telefon</td>
-                <td style="padding:10px 0;font-size:.9rem;color:#151515;">${telefon}</td>
+                <td style="padding:10px 0;font-size:.9rem;color:#151515;">${esc(telefon)}</td>
               </tr>
               <tr style="border-bottom:1px solid #eee;">
                 <td style="padding:10px 0;font-size:.8rem;color:#141414;text-transform:uppercase;letter-spacing:.1em;">E-mail</td>
-                <td style="padding:10px 0;font-size:.9rem;color:#151515;">${email}</td>
+                <td style="padding:10px 0;font-size:.9rem;color:#151515;">${esc(emailRaw)}${email ? '' : ' <strong style="color:#b00;">(adresă invalidă — fără confirmare automată)</strong>'}</td>
               </tr>
               <tr style="border-bottom:1px solid #eee;">
                 <td style="padding:10px 0;font-size:.8rem;color:#141414;text-transform:uppercase;letter-spacing:.1em;">Comandă cu</td>
-                <td style="padding:10px 0;font-size:.9rem;color:#151515;">${comanda}</td>
+                <td style="padding:10px 0;font-size:.9rem;color:#151515;">${esc(comanda)}</td>
               </tr>
               <tr style="border-bottom:1px solid #eee;">
                 <td style="padding:10px 0;font-size:.8rem;color:#141414;text-transform:uppercase;letter-spacing:.1em;">Adresă livrare</td>
-                <td style="padding:10px 0;font-size:.9rem;color:#151515;">${adresa}</td>
+                <td style="padding:10px 0;font-size:.9rem;color:#151515;">${esc(adresa)}</td>
               </tr>
             </table>
             <div style="margin-bottom:24px;">
@@ -176,7 +252,11 @@ export async function POST(request) {
             </div>
             ${attachments.length > 0 ? `
             <div style="background:#f7f7f5;padding:12px 16px;font-size:.8rem;color:#141414;">
-              📎 ${attachments.length} fișier(e) atașate: ${attachments.map(a => a.filename).join(', ')}
+              📎 ${attachments.length} fișier(e) atașate: ${esc(attachments.map(a => a.filename).join(', '))}
+            </div>` : ''}
+            ${respinse.length > 0 ? `
+            <div style="background:#fff4f4;padding:12px 16px;font-size:.8rem;color:#b00;margin-top:8px;">
+              ⚠ ${respinse.length} fișier(e) respinse: ${esc(respinse.join(', '))}
             </div>` : ''}
           </div>
           <div style="background:#f7f7f5;padding:16px 32px;font-size:.75rem;color:#141414;border-top:1px solid #eee;">
@@ -207,10 +287,10 @@ export async function POST(request) {
           <!-- Body -->
           <div style="padding:40px 32px;">
             <h2 style="font-family:sans-serif;font-weight:400;font-size:1.3rem;color:#151515;margin:0 0 8px;">
-              ${T.thanks(nume)}
+              ${T.thanks(esc(nume))}
             </h2>
             <p style="font-size:.88rem;color:#141414;line-height:1.7;margin:0 0 32px;">
-              ${T.intro(telefon)}
+              ${T.intro(esc(telefon))}
             </p>
 
             <!-- Rezumat -->
@@ -221,11 +301,11 @@ export async function POST(request) {
               <table style="width:100%;border-collapse:collapse;margin-bottom:16px;">
                 <tr style="border-bottom:1px solid #eee;">
                   <td style="padding:8px 0;font-size:.78rem;color:#141414;width:130px;">${T.rowType}</td>
-                  <td style="padding:8px 0;font-size:.82rem;color:#151515;">${comanda}</td>
+                  <td style="padding:8px 0;font-size:.82rem;color:#151515;">${esc(comanda)}</td>
                 </tr>
                 <tr style="border-bottom:1px solid #eee;">
                   <td style="padding:8px 0;font-size:.78rem;color:#141414;">${T.rowAddr}</td>
-                  <td style="padding:8px 0;font-size:.82rem;color:#151515;">${adresa}</td>
+                  <td style="padding:8px 0;font-size:.82rem;color:#151515;">${esc(adresa)}</td>
                 </tr>
               </table>
               ${produse.length > 0 ? `

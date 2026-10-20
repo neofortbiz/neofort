@@ -1,0 +1,60 @@
+# === v281 — proiectul nu a avut niciodata .gitignore ========================
+# Repo-ul e pe GitHub. Fara acest fisier, orice .env, orice cheie, orice dump
+# sau export lasat din greseala in folder intra in `git add .` si pleaca in
+# istoric — de unde nu se mai sterge printr-un simplu commit nou.
+
+# Dependente
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# Build
+/.next/
+/out/
+/build
+*.tsbuildinfo
+next-env.d.ts
+
+# Variabile de mediu — NICIODATA in repo
+.env
+.env.*
+!.env.example
+
+# Vercel
+.vercel
+
+# Chei, certificate, credentiale
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+.npmrc
+.netrc
+credentials.json
+service-account*.json
+
+# Teste si acoperire
+/coverage
+
+# Loguri
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Sistem de operare si editoare
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Arhive si fisiere de lucru locale
+*.zip
+*.tar.gz
+*.bak
+*~

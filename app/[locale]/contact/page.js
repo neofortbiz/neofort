@@ -385,9 +385,20 @@ export default async function ContactPage({ params }) {
               <h2 className="font-condensed text-xl font-semibold text-primary mb-4">{ui.map_title}</h2>
               {/* min-h pe mobil, flex-1 pe desktop = umple restul coloanei */}
               <div className="border border-border overflow-hidden flex-1" style={{ minHeight: '320px' }}>
-                {process.env.GOOGLE_MAPS_API_KEY ? (
+                {/* v281 — cheia din src-ul acestui iframe ajunge in HTML-ul
+                    public al paginii. Pana acum era GOOGLE_MAPS_API_KEY,
+                    ADICA ACEEASI cheie pe care lib/googleRating.js o foloseste
+                    server-side pentru Places API: oricine citea sursa paginii
+                    de contact putea face apeluri Places facturate noua.
+                    Acum iframe-ul cu cheie foloseste o variabila separata,
+                    GOOGLE_MAPS_EMBED_KEY, care trebuie restrictionata in Google
+                    Cloud Console la referrer www.neofort-biz.ro si DOAR la Maps
+                    Embed API. Cat timp nu e setata, cade pe varianta fara cheie
+                    de mai jos — harta se vede la fel, si cheia de Places nu mai
+                    apare nicaieri in pagina. */}
+                {process.env.GOOGLE_MAPS_EMBED_KEY ? (
                   <iframe
-                    src={`https://www.google.com/maps/embed/v1/place?key=${process.env.GOOGLE_MAPS_API_KEY}&q=NEOFORT+BIZ,44.4430930263596,26.088545186506916&zoom=17`}
+                    src={`https://www.google.com/maps/embed/v1/place?key=${process.env.GOOGLE_MAPS_EMBED_KEY}&q=NEOFORT+BIZ,44.4430930263596,26.088545186506916&zoom=17`}
                     width="100%"
                     height="100%"
                     style={{ border: 0, display: 'block', minHeight: '320px' }}
