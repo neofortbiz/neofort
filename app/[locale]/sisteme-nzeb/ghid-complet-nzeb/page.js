@@ -305,12 +305,12 @@ const MID_TITLES = {
   it: 'Richiedi il tuo preventivo gratuito — rispondiamo in 2 ore',
 };
 const MID_DESCS = {
-  ro: 'Montaj in Bucuresti si Ilfov. Oferta in 48h. 52 recenzii Google 5.0/5.',
-  en: 'Installation in Bucharest and Ilfov. Quote in 48h. 52 Google reviews 5.0/5.',
-  de: 'Montage in Bukarest und Ilfov. Angebot in 48h. 52 Google-Bewertungen 5.0/5.',
-  fr: 'Pose a Bucarest et Ilfov. Devis en 48h. 52 avis Google 5.0/5.',
-  es: 'Instalacion en Bucarest e Ilfov. Presupuesto en 48h. 52 resenas Google 5.0/5.',
-  it: 'Posa a Bucarest e Ilfov. Preventivo in 48h. 52 recensioni Google 5.0/5.',
+  ro: 'Montaj in Bucuresti si Ilfov. Oferta in 48h. 49 recenzii Google 5.0/5.',
+  en: 'Installation in Bucharest and Ilfov. Quote in 48h. 49 Google reviews 5.0/5.',
+  de: 'Montage in Bukarest und Ilfov. Angebot in 48h. 49 Google-Bewertungen 5.0/5.',
+  fr: 'Pose a Bucarest et Ilfov. Devis en 48h. 49 avis Google 5.0/5.',
+  es: 'Instalacion en Bucarest e Ilfov. Presupuesto en 48h. 49 resenas Google 5.0/5.',
+  it: 'Posa a Bucarest e Ilfov. Preventivo in 48h. 49 recensioni Google 5.0/5.',
 };
 
 export async function generateStaticParams() {
