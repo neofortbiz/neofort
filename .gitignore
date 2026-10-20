@@ -53,6 +53,9 @@ desktop.ini
 .vscode/*
 !.vscode/extensions.json
 
+# Amprentele de build (scripts/amprenta.js) — ~1,3 MB fiecare, fisiere de lucru
+/.amprenta/
+
 # Arhive si fisiere de lucru locale
 *.zip
 *.tar.gz
