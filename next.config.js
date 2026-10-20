@@ -1,6 +1,11 @@
 const createNextIntlPlugin = require('next-intl/plugin');
 const withNextIntl = createNextIntlPlugin();
 
+// v285: cele 96 de redirecturi pentru produsele mutate din /produse/ pe rutele
+// lor proprii. Tabelul sta in data/redirectProduse.js, ca sa nu umfle fisierul
+// asta cu inca 96 de linii scrise de mana.
+const { redirectProduse } = require('./data/redirectProduse.js');
+
 // === Content-Security-Policy — v281 =========================================
 //
 // Ce apara: daca vreodata ajunge cod strain in pagina — printr-o dependenta
@@ -47,6 +52,11 @@ const nextConfig = {
   // images: config eliminat (v188) — next/image nu e folosit nicăieri în proiect (cotă Vercel epuizată, decizie definitivă)
   async redirects() {
     return [
+      // v285: 96 de reguli pentru produsele mutate din /produse/. Verificate
+      // inainte de inserare: zero suprapuneri cu regulile de mai jos, zero
+      // lanturi 301→301, zero bucle.
+      ...redirectProduse(),
+
       // v217: /umbrire/preturi era duplicat identic (acelasi md5) al paginii
       // /umbrire/preturi-sisteme-umbrire. Folderul a fost sters; pastram 301.
       { source: '/ro/umbrire/preturi', destination: '/ro/umbrire/preturi-sisteme-umbrire', permanent: true },

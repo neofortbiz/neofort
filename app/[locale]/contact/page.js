@@ -388,29 +388,17 @@ export default async function ContactPage({ params }) {
               <h2 className="font-condensed text-xl font-semibold text-primary mb-4">{ui.map_title}</h2>
               {/* min-h pe mobil, flex-1 pe desktop = umple restul coloanei */}
               <div className="border border-border overflow-hidden flex-1" style={{ minHeight: '320px' }}>
-                {/* v281 — cheia din src-ul acestui iframe ajunge in HTML-ul
-                    public al paginii. Pana acum era GOOGLE_MAPS_API_KEY,
-                    ADICA ACEEASI cheie pe care lib/googleRating.js o foloseste
-                    server-side pentru Places API: oricine citea sursa paginii
-                    de contact putea face apeluri Places facturate noua.
-                    Acum iframe-ul cu cheie foloseste o variabila separata,
-                    GOOGLE_MAPS_EMBED_KEY, care trebuie restrictionata in Google
-                    Cloud Console la referrer www.neofort-biz.ro si DOAR la Maps
-                    Embed API. Cat timp nu e setata, cade pe varianta fara cheie
-                    de mai jos — harta se vede la fel, si cheia de Places nu mai
-                    apare nicaieri in pagina. */}
-                {process.env.GOOGLE_MAPS_EMBED_KEY ? (
-                  <iframe
-                    src={`https://www.google.com/maps/embed/v1/place?key=${process.env.GOOGLE_MAPS_EMBED_KEY}&q=NEOFORT+BIZ,44.4430930263596,26.088545186506916&zoom=17`}
-                    width="100%"
-                    height="100%"
-                    style={{ border: 0, display: 'block', minHeight: '320px' }}
-                    allowFullScreen=""
-                    loading="lazy"
-                    referrerPolicy="no-referrer-when-downgrade"
-                    title="Neofort BIZ — Str. Theodor Aman Pictor 11, Sector 1, București"
-                  />
-                ) : (
+                {/* Harta, fara nicio cheie API — v285.
+                    Pana la v281 aici se interpola GOOGLE_MAPS_API_KEY in src,
+                    deci cheia ajungea in HTML-ul public al paginii. Era ACEEASI
+                    cheie pe care lib/googleRating.js o foloseste server-side
+                    pentru Places API, deci oricine citea sursa paginii putea
+                    face apeluri Places facturate noua.
+                    v281 a mutat-o pe o variabila separata, cu cadere pe
+                    varianta fara cheie. v285 sterge definitiv ramura cu cheie:
+                    embed-ul de mai jos arata identic, nu costa nimic, nu expira
+                    si nu are ce expune. Nicio variabila de mediu nu mai poate
+                    republica din greseala o cheie in aceasta pagina. */}
                   <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.3!2d26.088545186506916!3d44.4430930263596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff4770adb5b1%3A0xa9d64b2f9d9b0f2a!2sStrada%20Theodor%20Aman%2011%2C%20Bucure%C8%99ti!5e0!3m2!1sro!2sro!4v1700000000000!5m2!1sro!2sro"
                     width="100%"
@@ -421,7 +409,6 @@ export default async function ContactPage({ params }) {
                     referrerPolicy="no-referrer-when-downgrade"
                     title="Neofort BIZ — Str. Theodor Aman Pictor 11, Sector 1, București"
                   />
-                )}
               </div>
               <a
                 href="https://maps.app.goo.gl/YcaANuqcmnzy14i1A"
