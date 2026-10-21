@@ -609,6 +609,20 @@ export const routing = defineRouting({
       it: '/sistemi-nzeb/guida-completa',
     },
 
+    // v290: cheie RESTAURATA. A fost stearsa in v287 ca 'moarta', pe baza unui
+    // grep care cerea apostrof imediat dupa slug — si a ratat folosirea reala:
+    // app/[locale]/accesorii/page.js listeaza accesoriile prin slug scurt
+    // ({ slug:'automatizari-somfy' }) si construieste linkul din el. Fara cheia
+    // asta, next-intl nu mai traducea calea si linkul de pe hub ducea in 404, pe
+    // toate cele 6 limbi. Celelalte 3 accesorii de pe hub au exact acelasi tipar.
+    '/accesorii/automatizari-somfy': {
+      ro: '/accesorii/automatizari-somfy-rulouri-pergole',
+      en: '/accessories/somfy-automation-shutters-pergolas',
+      de: '/zubehoer/somfy-automatisierung-rolllaeden-pergolen',
+      fr: '/accessoires/automatisation-somfy-volets-pergolas',
+      es: '/accesorios/automatizacion-somfy-persianas-pergolas',
+      it: '/accessori/automazione-somfy-tapparelle-pergole',
+    },
     '/accesorii/automatizari-somfy-rulouri-pergole': {
       ro: '/accesorii/automatizari-somfy-rulouri-pergole',
       en: '/accessories/somfy-automation-shutters-pergolas',

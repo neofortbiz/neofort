@@ -20,16 +20,16 @@ const PARENT_SLUGS = {
 const UI = {
   "ro": {
     "h1": "Prețuri Sisteme Umbrire 2026 — Zipscreen, Raffstore, Rulouri Aluminiu",
-    "sub": "Prețuri orientative 2026 pentru umbrire exterioară: Zipscreen, jaluzele Raffstore, rulouri din aluminiu și pergole Somfy. Ofertă în București și Ilfov.",
+    "sub": "Prețuri orientative 2026 pentru sisteme de umbrire exterioară: zipscreen, jaluzele raffstore, rulouri aluminiu și plase plisse. Oferta personalizată în București și Ilfov.",
     "parent_label": "Sisteme Umbrire",
     "breadcrumb": "Prețuri 2026",
-    "intro": "Prețul unui sistem de umbrire exterioară depinde de tipul produsului, dimensiuni, tipul de acționare și complexitatea montajului. Neofort BIZ furnizează și montează sisteme de umbrire premium în București și Ilfov. Toate prețurile de mai jos sunt orientative și nu includ TVA.",
+    "intro": "Prețul unui sistem de umbrire exterioară depinde de tipul produsului, dimensiuni, tipul de acționare și complexitatea montajului. Neofort BIZ furnizează și montează sisteme de umbrire premium în București și Ilfov.",
     "h2_factors": "Factori care influențează prețul sistemelor de umbrire",
     "factors": [
       "Tipul sistemului — Zipscreen (rulou exterior cu ghidaje laterale) are un cost mai ridicat decât un rulou exterior standard datorită sistemului de ghidare care oferă rezistență la vânt.",
       "Dimensiunile golului — prețul crește proporțional cu lățimea și înălțimea golului. Sistemele mari necesită motorizare obligatorie.",
-      "Tipul de acționare — manuală (manivelă sau curea) vs electrică (motor Somfy/Nice) vs Smart Home (KNX, io-homecontrol).",
-      "Țesătura — screen (transparentă, filtrează 98% din radiația UV), blackout (opacă) sau perforată.",
+      "Tipul de acționare — manuală (manivela sau curea) vs electrică (motor Somfy/Nice) vs Smart Home (KNX, io-homecontrol).",
+      "Țesătura — ecran solar standard vs blackout total vs țesături speciale antireflex sau cu factor de protecție SPF 50+.",
       "Culoarea și finisajul — casetele și ghidajele din aluminiu pot fi vopsite în orice culoare RAL pentru a se armoniza cu tâmplăria.",
       "Montajul — ancoraj în zidărie, în toc de tâmplărie sau pe perete. Montajul pe tâmplărie existentă Salamander sau Alumil este posibil și recomandat."
     ],
@@ -37,59 +37,59 @@ const UI = {
     "products": [
       {
         "name": "Zipscreen exterior",
-        "desc": "Rulou textil exterior cu ghidaje laterale ZIP — rezistență la vânt clasa 6 (88 km/h). Ideal pentru terase și ferestre mari. Țesătură screen, blackout sau perforată.",
-        "price": "225–300 €/mp manual · 350–450 €/mp cu motor · montaj inclus",
+        "desc": "Rulou exterior cu ghidaje laterale — rezistență la vânt până la clasa 5 Beaufort. Ideal pentru terase și ferestre mari. Permite ventilație cu ruloul coborât.",
+        "price": "800–2.500 lei (100×200 cm)",
         "link": "/umbrire/zipscreen",
         "cta": "Detalii Zipscreen"
       },
       {
         "name": "Raffstore — jaluzele exterioare",
-        "desc": "Jaluzele cu lamele din aluminiu orientabile 0°–90° — control fin al luminii, cu vederea spre exterior păstrată. Reduc aportul solar cu până la 85%.",
-        "price": "150–200 €/mp cu motor · montaj inclus",
+        "desc": "Jaluzele cu lamele din aluminiu orientabile — control fin al luminii și protecție solară. Uf solar până la 90%. Motorizare Somfy inclusă.",
+        "price": "600–1.800 lei (100×150 cm)",
         "link": "/umbrire/jaluzele-venetiene-raffstore",
         "cta": "Detalii Raffstore"
       },
       {
         "name": "Rulouri exterioare aluminiu",
-        "desc": "Rulouri cu lamele din aluminiu extrudat izolat, de 7,5–19,5 mm — izolare termică nocturnă și izolare fonică, antiefracție RC3 cu ghidaje securizate.",
-        "price": "85–120 €/mp manual · 150–220 €/mp cu motor · montaj inclus",
+        "desc": "Rulouri cu lamele din aluminiu umplute cu spumă poliuretanică — izolare termică și fonică, securitate. Casetă integrală sau aplicată.",
+        "price": "500–850 lei (100×150 cm)",
         "link": "/umbrire/rulouri-exterioare-aluminiu",
         "cta": "Detalii Rulouri"
       },
       {
         "name": "Pergole automate Somfy",
         "desc": "Pergolă cu pânză retractabilă impermeabilă, structură din aluminiu și inox. Motor Somfy Pergola RGS io cu senzor de vânt Sunis — retragere automată peste 50 km/h.",
-        "price": "4.000 € (4 × 3 m, motor Somfy)",
+        "price": "11.000–18.000 lei (3×4 m)",
         "link": "/umbrire/pergole-automate-somfy",
         "cta": "Detalii pergole Somfy"
       }
     ],
     "faq_h2": "Întrebări frecvente despre prețurile sistemelor de umbrire",
     "faq": [
-      { "q": "Cât costă un sistem de umbrire exterioară în 2026?", "a": "Orientativ, rulourile exterioare din aluminiu costă 85–120 €/mp în varianta manuală și 150–220 €/mp cu motor, jaluzelele Raffstore cu motor 150–200 €/mp, iar Zipscreen-ul 225–300 €/mp manual și 350–450 €/mp cu motor, toate cu montaj inclus. O pergolă automată Somfy de 4 × 3 m costă 4.000 €. Prețurile nu includ TVA." },
-      { "q": "De ce sunt prețurile orientative și nu fixe?", "a": "Pentru că prețul final depinde de dimensiunea exactă a golului, de tipul de acționare, de țesătura aleasă și de felul montajului. De aceea oferta se face personalizat, iar măsurătorile la fața locului se efectuează după semnarea contractului." },
-      { "q": "Ce sistem de umbrire rezistă cel mai bine la vânt?", "a": "Zipscreen-ul, datorită ghidajelor laterale ZIP care țin pânza fixată — are rezistență la vânt clasa 6 (88 km/h), deci este potrivit pentru terase și ferestre mari. Pergolele automate Somfy au senzor de vânt Sunis și se retrag singure peste 50 km/h." },
-      { "q": "Pot monta sisteme de umbrire pe tâmplăria pe care o am deja?", "a": "Da. Montajul pe tâmplărie existentă Salamander sau Alumil este posibil și chiar recomandat. Ancorajul se face în zidărie, în tocul tâmplăriei sau pe perete, în funcție de situația de la fața locului." },
-      { "q": "Când este obligatorie motorizarea?", "a": "La sistemele mari, unde acționarea manuală cu manivelă sau curea nu mai este practică. Variantele sunt motor Somfy sau Nice, iar dacă aveți instalație de casă inteligentă sistemul se poate integra prin KNX sau io-homecontrol. Un motor Somfy pentru rulou sau Zipscreen costă orientativ 110–150 € + TVA, iar unul pentru Raffstore 220–300 € + TVA, fără montaj." },
+      { "q": "Cât costă un sistem de umbrire exterioară în 2026?", "a": "Orientativ, un rulou exterior din aluminiu pornește de la 500–850 lei la un gol de 100×150 cm, o jaluzea Raffstore de la 600–1.800 lei la aceeasi dimensiune, iar un Zipscreen de la 800–2.500 lei la 100×200 cm. O pergola automată Somfy de 3×4 m se încadrează intre 11.000 și 18.000 lei. Sunt prețuri de produs, pentru dimensiunile indicate." },
+      { "q": "De ce sunt prețurile orientative și nu fixe?", "a": "Pentru ca prețul final depinde de dimensiunea exactă a golului, de tipul de acționare, de țesătura aleasă și de felul montajului. De aceea oferta se face personalizat, iar masuratorile la fața locului se efectueaza după semnarea contractului." },
+      { "q": "Ce sistem de umbrire rezistă cel mai bine la vânt?", "a": "Zipscreen-ul, datorită ghidajelor laterale care țin pânză fixată — rezistă până la clasa 5 Beaufort, deci este potrivit pentru terase și ferestre mari. Pergolele automate Somfy au senzor de vânt Sunis și se retrag singure peste 50 km/h." },
+      { "q": "Pot monta sisteme de umbrire pe tâmplăria pe care o am deja?", "a": "Da. Montajul pe tâmplărie existentă Salamander sau Alumil este posibil și chiar recomandat. Ancorajul se face în zidărie, în tocul tamplariei sau pe perete, în functie de situatia de la fața locului." },
+      { "q": "Cand este obligatorie motorizarea?", "a": "La sistemele mari, unde acționarea manuală cu manivela sau curea nu mai este practică. Variantele sunt motor Somfy sau Nice, iar daca aveți instalatie de casa inteligentă sistemul se poate integra prin KNX sau io-homecontrol." },
     ],
     "h2_cta": "Solicitați oferta personalizată",
-    "cta_desc": "Echipa Neofort BIZ vă pregătește o ofertă detaliată pentru sistemul de umbrire potrivit. Măsurătorile la fața locului se fac după semnarea contractului. Montaj profesional în București și Ilfov.",
-    "cta_btn": "Cerere ofertă umbrire",
+    "cta_desc": "Echipa Neofort BIZ vă oferă o oferta detaliată pentru sistemul de umbrire potrivit. Măsurătorile la fața locului se fac după semnarea contractului. Montaj profesional în București și Ilfov.",
+    "cta_btn": "Cerere Oferta Umbrire",
     "guide_link": "Citește Ghidul Complet Sisteme Umbrire",
     "guide_slug": "umbrire/ghid-complet-sisteme-umbrire"
   },
   "en": {
     "h1": "Shading System Prices 2026 — Zipscreen, Raffstore, Aluminium Roller Shutters",
-    "sub": "2026 indicative prices for exterior shading: Zipscreen, Raffstore venetian blinds, aluminium roller shutters and Somfy pergolas. Quote in Bucharest and Ilfov.",
+    "sub": "2026 indicative prices for exterior shading systems: zipscreen, raffstore venetian blinds, aluminium roller shutters and pleated screens. Personalised quote in Bucharest and Ilfov.",
     "parent_label": "Shading Systems",
     "breadcrumb": "Prices 2026",
-    "intro": "The price of an exterior shading system depends on the product type, dimensions, actuation type and installation complexity. Neofort BIZ supplies and installs premium shading systems in Bucharest and Ilfov. All prices below are indicative and exclude VAT.",
+    "intro": "The price of an exterior shading system depends on the product type, dimensions, actuation type and installation complexity. Neofort BIZ supplies and installs premium shading systems in Bucharest and Ilfov.",
     "h2_factors": "Factors Affecting Shading System Prices",
     "factors": [
       "System type — Zipscreen (exterior blind with side channels) costs more than a standard roller shutter due to its wind-resistant guide system.",
       "Opening dimensions — price increases proportionally with width and height. Large systems require motorisation.",
       "Actuation type — manual (crank or strap) vs electric (Somfy/Nice motor) vs Smart Home (KNX, io-homecontrol).",
-      "Fabric — screen (transparent, filters 98% of UV radiation), blackout (opaque) or perforated.",
+      "Fabric — standard solar screen vs total blackout vs special anti-glare or SPF 50+ protection fabrics.",
       "Colour and finish — aluminium casings and guides can be powder-coated in any RAL colour to match the joinery.",
       "Installation — anchored into masonry, into the window frame or on the wall. Installation on existing Salamander or Alumil joinery is possible and recommended."
     ],
@@ -97,40 +97,40 @@ const UI = {
     "products": [
       {
         "name": "Zipscreen Exterior",
-        "desc": "Exterior fabric blind with ZIP side guides — wind resistance class 6 (88 km/h). Ideal for terraces and large windows. Screen, blackout or perforated fabric.",
-        "price": "€225–300/m² manual · €350–450/m² motorised · installation included",
+        "desc": "Exterior blind with side channels — wind resistance up to Beaufort class 5. Ideal for terraces and large windows. Allows ventilation with blind lowered.",
+        "price": "800–2,500 RON (100×200 cm)",
         "link": "/shading-systems/zipscreen-exterior-blind",
         "cta": "Zipscreen Details"
       },
       {
         "name": "Raffstore — Exterior Venetian Blinds",
-        "desc": "Aluminium slat blinds tilting 0°–90° — fine light control while keeping the view outside. They cut solar gain by up to 85%.",
-        "price": "€150–200/m² motorised · installation included",
+        "desc": "Adjustable aluminium slat blinds — fine light control and solar protection. Up to 90% solar factor. Somfy motorisation included.",
+        "price": "600–1,800 RON (100×150 cm)",
         "link": "/shading-systems/raffstore-venetian-blinds",
         "cta": "Raffstore Details"
       },
       {
         "name": "Aluminium Roller Shutters",
-        "desc": "Shutters with insulated extruded aluminium slats, 7.5–19.5 mm — night-time thermal and sound insulation, RC3 burglar resistance with secured guides.",
-        "price": "€85–120/m² manual · €150–220/m² motorised · installation included",
+        "desc": "Shutters with polyurethane foam-filled aluminium slats — thermal and acoustic insulation, security. Integral or surface-mounted casing.",
+        "price": "500–850 RON (100×150 cm)",
         "link": "/shading-systems/aluminium-external-roller-shutters",
         "cta": "Roller Shutter Details"
       },
       {
         "name": "Somfy Automatic Pergolas",
         "desc": "Pergola with retractable waterproof canvas, aluminium and stainless steel structure. Somfy Pergola RGS io motor with Sunis wind sensor — automatic retraction above 50 km/h.",
-        "price": "€4,000 (4 × 3 m, Somfy motor)",
+        "price": "11,000–18,000 RON (3×4 m)",
         "link": "/shading-systems/somfy-automatic-pergolas",
         "cta": "Somfy pergola details"
       }
     ],
     "faq_h2": "Frequently Asked Questions About Shading System Prices",
     "faq": [
-      { "q": "How much does an exterior shading system cost in 2026?", "a": "As a guide, aluminium roller shutters cost €85–120/m² manual and €150–220/m² motorised, motorised Raffstore blinds €150–200/m², and Zipscreen €225–300/m² manual and €350–450/m² motorised, all with installation included. An automated Somfy pergola of 4 × 3 m costs €4,000. Prices exclude VAT." },
+      { "q": "How much does an exterior shading system cost in 2026?", "a": "As a guide, an aluminium roller shutter starts at 500–850 RON for a 100×150 cm opening, a Raffstore blind at 600–1,800 RON for the same size, and a Zipscreen at 800–2,500 RON for 100×200 cm. An automated Somfy pergola of 3×4 m falls between 11,000 and 18,000 RON. These are product prices, for the sizes indicated." },
       { "q": "Why are the prices indicative rather than fixed?", "a": "Because the final price depends on the exact size of the opening, the drive type, the fabric chosen and how the system is mounted. The quote is therefore prepared individually, and on-site measurements are taken after the contract is signed." },
-      { "q": "Which shading system stands up best to wind?", "a": "Zipscreen, because the ZIP side guides hold the fabric in place — it has class 6 wind resistance (88 km/h), which makes it suitable for terraces and large windows. Automated Somfy pergolas have a Sunis wind sensor and retract by themselves above 50 km/h." },
+      { "q": "Which shading system stands up best to wind?", "a": "Zipscreen, because the side guides hold the fabric in place — it withstands up to Beaufort force 5, which makes it suitable for terraces and large windows. Automated Somfy pergolas have a Sunis wind sensor and retract by themselves above 50 km/h." },
       { "q": "Can shading be fitted to windows I already have?", "a": "Yes. Fitting to existing Salamander or Alumil windows is possible and in fact recommended. The system is anchored into masonry, into the window frame or onto the wall, depending on the situation on site." },
-      { "q": "When is motorisation required?", "a": "On large systems, where a crank or belt is no longer practical. The options are a Somfy or Nice motor, and if you have a smart home installation the system can be integrated via KNX or io-homecontrol. A Somfy motor for a roller shutter or Zipscreen costs roughly €110–150 + VAT, and one for a Raffstore blind €220–300 + VAT, excluding installation." },
+      { "q": "When is motorisation required?", "a": "On large systems, where a crank or belt is no longer practical. The options are a Somfy or Nice motor, and if you have a smart home installation the system can be integrated via KNX or io-homecontrol." },
     ],
     "h2_cta": "Request a Personalised Quote",
     "cta_desc": "The Neofort BIZ team will provide a detailed quote for the right shading system. On-site measurements are taken after the contract is signed. Professional installation in Bucharest and Ilfov.",
@@ -140,16 +140,16 @@ const UI = {
   },
   "de": {
     "h1": "Beschattungssysteme Preise 2026 — Zipscreen, Raffstore, Außenrollladen",
-    "sub": "Richtpreise 2026 für Außenbeschattung: Zipscreen, Raffstore-Außenjalousien, Aluminium-Rollladen und Somfy-Pergolen. Angebot in Bukarest und Ilfov.",
+    "sub": "Orientierungspreise 2026 für Außenbeschattungssysteme: Zipscreen, Raffstore-Außenjalousien, Aluminium-Außenrollladen und Plissee-Insektenschutz. Personalisiertes Angebot in Bukarest und Ilfov.",
     "parent_label": "Beschattungssysteme",
     "breadcrumb": "Preise 2026",
-    "intro": "Der Preis eines Außenbeschattungssystems hängt vom Produkttyp, den Abmessungen, der Antriebsart und dem Montageaufwand ab. Alle Preise unten sind Richtwerte zzgl. MwSt.",
-    "h2_factors": "Faktoren, die den Preis beeinflussen",
+    "intro": "Der Preis eines Außenbeschattungssystems hängt vom Produkttyp, den Abmessungen, der Antriebsart und der Montagegeschwindigkeit ab.",
+    "h2_factors": "Faktoren die den Preis beeinflussen",
     "factors": [
       "Systemtyp — Zipscreen (Außenrollo mit Seitenführungen) kostet mehr als ein Standard-Außenrollladen.",
       "Öffnungsabmessungen — der Preis steigt proportional mit Breite und Höhe. Große Systeme erfordern Motorisierung.",
       "Antriebsart — manuell (Kurbel oder Gurt) vs elektrisch (Somfy/Nice Motor) vs Smart Home (KNX).",
-      "Gewebe — Screen (durchsichtig, filtert 98 % der UV-Strahlung), Blackout (blickdicht) oder perforiert.",
+      "Gewebe — Standard-Sonnenschutzgewebe vs Blackout vs spezielle UV-Schutzgewebe.",
       "Farbe und Finish — Aluminium-Kassetten und Führungen können in jeder RAL-Farbe beschichtet werden.",
       "Montage — Verankerung im Mauerwerk, im Fensterrahmen oder an der Wand."
     ],
@@ -157,40 +157,40 @@ const UI = {
     "products": [
       {
         "name": "Zipscreen Außenrollo",
-        "desc": "Textiles Außenrollo mit seitlichen ZIP-Führungen — Windwiderstand Klasse 6 (88 km/h). Ideal für Terrassen und große Fenster.",
-        "price": "225–300 €/m² manuell · 350–450 €/m² mit Motor · Montage inklusive",
+        "desc": "Außenrollo mit Seitenführungen — Windwiderstand bis Beaufort-Klasse 5. Ideal für Terrassen und große Fenster.",
+        "price": "800–2.500 RON (100×200 cm)",
         "link": "/beschattungssysteme/zipscreen-aussenrollo",
         "cta": "Zipscreen Details"
       },
       {
         "name": "Raffstore Außenjalousien",
-        "desc": "Aluminium-Lamellenjalousien, neigbar von 0° bis 90° — feine Lichtsteuerung bei erhaltener Sicht nach draußen. Senken den Solareintrag um bis zu 85 %.",
-        "price": "150–200 €/m² mit Motor · Montage inklusive",
+        "desc": "Verstellbare Aluminium-Lamellenjalousien — feiner Lichtsteuerung und Sonnenschutz. Bis 90% Sonnenschutzfaktor.",
+        "price": "600–1.800 RON (100×150 cm)",
         "link": "/beschattungssysteme/raffstore-aussenjalousien",
         "cta": "Raffstore Details"
       },
       {
-        "name": "Aluminium-Außenrollladen",
-        "desc": "Rollladen mit Lamellen aus isoliertem stranggepresstem Aluminium, 7,5–19,5 mm — nächtliche Wärme- und Schalldämmung, Einbruchschutz RC3 mit gesicherten Führungen.",
-        "price": "85–120 €/m² manuell · 150–220 €/m² mit Motor · Montage inklusive",
+        "name": "Aluminium Außenrollladen",
+        "desc": "Rollladen mit PU-schaumgefullten Aluminiumlamellen — Warme- und Schalldämmung, Sicherheit.",
+        "price": "500–850 RON (100×150 cm)",
         "link": "/beschattungssysteme/aluminium-aussenrollladen",
         "cta": "Rollladen Details"
       },
       {
-        "name": "Somfy automatische Pergolen",
+        "name": "Somfy Automatische Pergolen",
         "desc": "Pergola mit wasserdichtem Rolltuch, Struktur aus Aluminium und Edelstahl. Somfy Pergola RGS io Motor mit Sunis-Windsensor — automatischer Einzug ab 50 km/h.",
-        "price": "4.000 € (4 × 3 m, Somfy-Motor)",
+        "price": "11.000–18.000 RON (3×4 m)",
         "link": "/beschattungssysteme/somfy-automatische-pergolen",
         "cta": "Details Somfy Pergolen"
       }
     ],
     "faq_h2": "Häufige Fragen zu den Preisen für Beschattungssysteme",
     "faq": [
-      { "q": "Was kostet ein außenliegendes Beschattungssystem 2026?", "a": "Als Richtwert: Aluminium-Rollladen kosten 85–120 €/m² manuell und 150–220 €/m² mit Motor, Raffstore-Jalousien mit Motor 150–200 €/m², Zipscreen 225–300 €/m² manuell und 350–450 €/m² mit Motor, jeweils inklusive Montage. Eine automatisierte Somfy-Pergola von 4 × 3 m kostet 4.000 €. Alle Preise zzgl. MwSt." },
+      { "q": "Was kostet ein außenliegendes Beschattungssystem 2026?", "a": "Als Richtwert: Ein Aluminium-Rollladen beginnt bei 500–850 RON für eine Öffnung von 100×150 cm, eine Raffstore-Jalousie bei 600–1.800 RON in derselben Größe und ein Zipscreen bei 800–2.500 RON für 100×200 cm. Eine automatisierte Somfy-Pergola von 3×4 m liegt zwischen 11.000 und 18.000 RON. Es handelt sich um Produktpreise für die angegebenen Maße." },
       { "q": "Warum sind die Preise Richtwerte und keine Festpreise?", "a": "Weil der Endpreis von der genauen Öffnungsgröße, der Antriebsart, dem gewählten Gewebe und der Montageart abhängt. Das Angebot wird deshalb individuell erstellt; das Aufmaß vor Ort erfolgt nach Vertragsabschluss." },
-      { "q": "Welches Beschattungssystem hält Wind am besten stand?", "a": "Der Zipscreen, da seitliche ZIP-Führungen das Gewebe fixieren — er hat Windwiderstandsklasse 6 (88 km/h) und eignet sich damit für Terrassen und große Fenster. Automatisierte Somfy-Pergolen haben einen Sunis-Windsensor und fahren ab 50 km/h selbsttätig ein." },
+      { "q": "Welches Beschattungssystem hält Wind am besten stand?", "a": "Der Zipscreen, da seitliche Führungsschienen das Gewebe fixieren — er hält bis Windstärke 5 Beaufort stand und eignet sich damit für Terrassen und große Fenster. Automatisierte Somfy-Pergolen haben einen Sunis-Windsensor und fahren ab 50 km/h selbsttätig ein." },
       { "q": "Kann Beschattung an vorhandenen Fenstern montiert werden?", "a": "Ja. Die Montage an bestehenden Salamander- oder Alumil-Fenstern ist möglich und sogar empfehlenswert. Verankert wird je nach Gegebenheit im Mauerwerk, im Fensterrahmen oder an der Wand." },
-      { "q": "Wann ist eine Motorisierung erforderlich?", "a": "Bei großen Systemen, wo Kurbel oder Gurt nicht mehr praktikabel sind. Zur Wahl stehen Somfy- oder Nice-Motoren; bei vorhandener Smart-Home-Installation lässt sich das System über KNX oder io-homecontrol einbinden. Ein Somfy-Motor für Rollladen oder Zipscreen kostet etwa 110–150 € zzgl. MwSt., einer für Raffstore 220–300 € zzgl. MwSt., jeweils ohne Montage." },
+      { "q": "Wann ist eine Motorisierung erforderlich?", "a": "Bei großen Systemen, wo Kurbel oder Gurt nicht mehr praktikabel sind. Zur Wahl stehen Somfy- oder Nice-Motoren; bei vorhandener Smart-Home-Installation lässt sich das System über KNX oder io-homecontrol einbinden." },
     ],
     "h2_cta": "Personalisiertes Angebot anfordern",
     "cta_desc": "Das Neofort BIZ-Team erstellt ein detailliertes Angebot für das richtige Beschattungssystem. Das Aufmaß vor Ort erfolgt nach Vertragsabschluss.",
@@ -199,17 +199,17 @@ const UI = {
     "guide_slug": "beschattungssysteme/kompletter-ratgeber"
   },
   "fr": {
-    "h1": "Prix des systèmes d'occultation 2026 — Zipscreen, Raffstore, Volets roulants",
-    "sub": "Prix indicatifs 2026 de l'occultation extérieure : Zipscreen, brise-soleil Raffstore, volets roulants aluminium et pergolas Somfy. Devis à Bucarest et Ilfov.",
+    "h1": "Prix systèmes occultation 2026 — Zipscreen, Raffstore, Volets roulants",
+    "sub": "Prix indicatifs 2026 pour les systèmes occultation extérieure: stores bannes zipscreen, persiennes raffstore, volets roulants aluminium. Devis personnalisé à Bucarest et Ilfov.",
     "parent_label": "Systèmes d'occultation",
     "breadcrumb": "Prix 2026",
-    "intro": "Le prix d'un système d'occultation extérieure dépend du type de produit, des dimensions, du type de commande et de la complexité de la pose. Tous les prix ci-dessous sont indicatifs et hors TVA.",
+    "intro": "Le prix d'un système d'occultation extérieure dépend du type de produit, des dimensions, du type de commande et de la complexité de la pose.",
     "h2_factors": "Facteurs influençant le prix",
     "factors": [
-      "Type de système — le Zipscreen (store toile à coulisses latérales ZIP) coûte plus qu'un volet roulant standard.",
+      "Type de système — le store banne zipscreen (avec glissières latérales) coûte plus qu'un volet roulant standard.",
       "Dimensions de l'ouverture — le prix augmente proportionnellement avec la largeur et la hauteur.",
       "Type de commande — manuel (manivelle) vs électrique (moteur Somfy/Nice) vs domotique (KNX).",
-      "Toile — screen (transparente, filtre 98 % des UV), blackout (opaque) ou perforée.",
+      "Toile — écran solaire standard vs occultation totale vs toiles anti-reflet SPF 50+.",
       "Couleur et finition — coffres et glissières aluminium laquables en toute couleur RAL.",
       "Pose — ancrage en maçonnerie, dans le dormant ou en appliqué sur mur."
     ],
@@ -217,59 +217,59 @@ const UI = {
     "products": [
       {
         "name": "Store Zipscreen extérieur",
-        "desc": "Store toile extérieur à coulisses latérales ZIP — résistance au vent classe 6 (88 km/h). Idéal pour terrasses et grandes baies.",
-        "price": "225–300 €/m² manuel · 350–450 €/m² motorisé · pose incluse",
+        "desc": "Store banne avec glissières latérales — résistance au vent jusqu'à la classe 5 Beaufort. Idéal pour terrasses et grandes fenêtres.",
+        "price": "800–2.500 RON (100×200 cm)",
         "link": "/systemes-occultation/zipscreen-store-exterieur",
         "cta": "Détails Zipscreen"
       },
       {
         "name": "Raffstore — Stores vénitiens",
-        "desc": "Lames aluminium orientables de 0° à 90° — réglage fin de la lumière en gardant la vue sur l'extérieur. Réduisent les apports solaires jusqu'à 85 %.",
-        "price": "150–200 €/m² motorisé · pose incluse",
+        "desc": "Stores à lames aluminium orientables — contrôle fin de la lumière et protection solaire. Facteur solaire jusqu'à 90%.",
+        "price": "600–1.800 RON (100×150 cm)",
         "link": "/systemes-occultation/stores-venitiens-raffstore",
         "cta": "Détails Raffstore"
       },
       {
         "name": "Volets roulants aluminium",
-        "desc": "Volets à lames en aluminium extrudé isolé de 7,5 à 19,5 mm — isolation thermique nocturne et acoustique, anti-effraction RC3 avec guides sécurisés.",
-        "price": "85–120 €/m² manuel · 150–220 €/m² motorisé · pose incluse",
+        "desc": "Volets à lames aluminium remplies de mousse polyuréthane — isolation thermique et acoustique, sécurité.",
+        "price": "500–850 RON (100×150 cm)",
         "link": "/systemes-occultation/volets-roulants-aluminium-exterieurs",
         "cta": "Détails Volets roulants"
       },
       {
         "name": "Pergolas automatiques Somfy",
         "desc": "Pergola à toile rétractable imperméable, structure aluminium et inox. Moteur Somfy Pergola RGS io avec capteur de vent Sunis — repli automatique au-delà de 50 km/h.",
-        "price": "4 000 € (4 × 3 m, moteur Somfy)",
+        "price": "11.000–18.000 RON (3×4 m)",
         "link": "/systemes-occultation/pergolas-automatiques-somfy",
         "cta": "Détails pergolas Somfy"
       }
     ],
     "faq_h2": "Questions fréquentes sur les prix des systèmes d'occultation",
     "faq": [
-      { "q": "Combien coûte un système d'occultation extérieure en 2026 ?", "a": "À titre indicatif, les volets roulants en aluminium coûtent 85–120 €/m² en manuel et 150–220 €/m² motorisés, les brise-soleil Raffstore motorisés 150–200 €/m², et le Zipscreen 225–300 €/m² en manuel et 350–450 €/m² motorisé, pose incluse dans tous les cas. Une pergola automatisée Somfy de 4 × 3 m coûte 4 000 €. Les prix sont hors TVA." },
+      { "q": "Combien coûte un système d'occultation extérieure en 2026 ?", "a": "À titre indicatif, un volet roulant en aluminium démarre à 500–850 RON pour une baie de 100×150 cm, un store Raffstore à 600–1.800 RON pour la même dimension, et un Zipscreen à 800–2.500 RON en 100×200 cm. Une pergola automatisée Somfy de 3×4 m se situé entre 11.000 et 18.000 RON. Ce sont des prix produit, pour les dimensions indiquées." },
       { "q": "Pourquoi les prix sont-ils indicatifs et non fixes ?", "a": "Parce que le prix final dépend de la dimension exacte de la baie, du type de motorisation, de la toile choisie et du mode de pose. Le devis est donc établi au cas par cas, et la prise de mesures sur site intervient après la signature du contrat." },
-      { "q": "Quel système d'occultation résiste le mieux au vent ?", "a": "Le Zipscreen, car ses coulisses latérales ZIP maintiennent la toile — il offre une résistance au vent de classe 6 (88 km/h), ce qui convient aux terrasses et aux grandes baies. Les pergolas automatisées Somfy disposent d'un capteur de vent Sunis et se rétractent d'elles-mêmes au-delà de 50 km/h." },
+      { "q": "Quel système d'occultation résiste le mieux au vent ?", "a": "Le Zipscreen, car ses coulisses latérales maintiennent la toile — il résiste jusqu'à force 5 Beaufort, ce qui convient aux terrasses et aux grandes baies. Les pergolas automatisées Somfy disposent d'un capteur de vent Sunis et se rétractent d'elles-mêmes au-delà de 50 km/h." },
       { "q": "Peut-on poser une occultation sur des menuiseries déjà en place ?", "a": "Oui. La pose sur menuiseries Salamander ou Alumil existantes est possible et même recommandée. L'ancrage se fait dans la maçonnerie, dans le dormant ou sur le mur, selon la configuration." },
-      { "q": "Quand la motorisation est-elle indispensable ?", "a": "Sur les grands systèmes, où la manivelle ou la sangle ne sont plus praticables. Les options sont un moteur Somfy ou Nice ; si vous disposez d'une installation domotique, le système s'intègre via KNX ou io-homecontrol. Un moteur Somfy pour volet roulant ou Zipscreen coûte environ 110–150 € HT, et un moteur pour Raffstore 220–300 € HT, hors pose." },
+      { "q": "Quand la motorisation est-elle indispensable ?", "a": "Sur les grands systèmes, où la manivelle ou la sangle ne sont plus praticables. Les options sont un moteur Somfy ou Nice ; si vous disposez d'une installation domotique, le système s'intègre via KNX ou io-homecontrol." },
     ],
     "h2_cta": "Demander un devis personnalisé",
-    "cta_desc": "L'équipe Neofort BIZ vous fournit un devis détaillé pour le système d'occultation adapté. La prise de mesures sur site intervient après la signature du contrat.",
+    "cta_desc": "L'équipe Neofort BIZ vous fournit un devis détaillé pour le système d'occultation adapté. Les prises de côtés sur place ont lieu après la signature du contrat.",
     "cta_btn": "Demander un devis occultation",
-    "guide_link": "Lire le guide complet des systèmes d'occultation",
+    "guide_link": "Lire le Guide Complet Systèmes d'Occultation",
     "guide_slug": "systemes-occultation/guide-complet"
   },
   "es": {
     "h1": "Precios sistemas de sombreado 2026 — Zipscreen, Raffstore, Persianas aluminio",
-    "sub": "Precios orientativos 2026 de sombreado exterior: Zipscreen, venecianas Raffstore, persianas de aluminio y pérgolas Somfy. Presupuesto en Bucarest e Ilfov.",
+    "sub": "Precios orientativos 2026 para sistemas de sombreado exterior: toldos zipscreen, persianas venecianas raffstore, persianas de aluminio. Presupuesto personalizado en Bucarest e Ilfov.",
     "parent_label": "Sistemas de sombreado",
     "breadcrumb": "Precios 2026",
-    "intro": "El precio de un sistema de sombreado exterior depende del tipo de producto, las dimensiones, el tipo de accionamiento y la complejidad de la instalación. Todos los precios de abajo son orientativos y no incluyen IVA.",
+    "intro": "El precio de un sistema de sombreado exterior depende del tipo de producto, las dimensiones, el tipo de accionamiento y la complejidad de la instalación.",
     "h2_factors": "Factores que influyen en el precio",
     "factors": [
-      "Tipo de sistema — el toldo Zipscreen (con guías laterales ZIP) cuesta más que una persiana enrollable estándar.",
+      "Tipo de sistema — el toldo zipscreen (con guías laterales) cuesta mas que una persiana enrollable estándar.",
       "Dimensiones del hueco — el precio aumenta proporcionalmente con el ancho y la altura.",
       "Tipo de accionamiento — manual (manivela) vs eléctrico (motor Somfy/Nice) vs domótica (KNX).",
-      "Tejido — screen (transparente, filtra el 98 % de la radiación UV), blackout (opaco) o perforado.",
+      "Tejido — pantalla solar estándar vs oscurecimiento total vs tejidos especiales SPF 50+.",
       "Color y acabado — cajones y guías de aluminio lacables en cualquier color RAL.",
       "Instalación — anclaje en mampostería, en el marco o en pared."
     ],
@@ -277,59 +277,59 @@ const UI = {
     "products": [
       {
         "name": "Toldo Zipscreen exterior",
-        "desc": "Toldo vertical exterior con guías laterales ZIP — resistencia al viento clase 6 (88 km/h). Ideal para terrazas y ventanales.",
-        "price": "225–300 €/m² manual · 350–450 €/m² motorizado · instalación incluida",
+        "desc": "Toldo exterior con guías laterales — resistencia al viento hasta clase 5 Beaufort. Ideal para terrazas y ventanas grandes.",
+        "price": "800–2.500 RON (100×200 cm)",
         "link": "/sistemas-sombreado/zipscreen-toldo-exterior",
         "cta": "Detalles Zipscreen"
       },
       {
         "name": "Raffstore — Persianas venecianas",
-        "desc": "Lamas de aluminio orientables de 0° a 90°: control preciso de la luz sin perder la vista al exterior. Reducen la ganancia solar hasta un 85 %.",
-        "price": "150–200 €/m² motorizado · instalación incluida",
+        "desc": "Persianas de láminas de aluminio orientables — control fino de la luz y protección solar. Factor solar hasta el 90%.",
+        "price": "600–1.800 RON (100×150 cm)",
         "link": "/sistemas-sombreado/persianas-venecianas-raffstore",
         "cta": "Detalles Raffstore"
       },
       {
         "name": "Persianas de aluminio exteriores",
-        "desc": "Persianas con lamas de aluminio extruido aislado de 7,5–19,5 mm: aislamiento térmico nocturno y acústico, antirrobo RC3 con guías seguras.",
-        "price": "85–120 €/m² manual · 150–220 €/m² motorizado · instalación incluida",
+        "desc": "Persianas con láminas de aluminio rellenas de espuma de PU — aislamiento térmico y acústico, seguridad.",
+        "price": "500–850 RON (100×150 cm)",
         "link": "/sistemas-sombreado/persianas-exteriores-aluminio",
         "cta": "Detalles Persianas"
       },
       {
-        "name": "Pérgolas automáticas Somfy",
-        "desc": "Pérgola con lona retráctil impermeable, estructura de aluminio e inox. Motor Somfy Pergola RGS io con sensor de viento Sunis — recogida automática por encima de 50 km/h.",
-        "price": "4.000 € (4 × 3 m, motor Somfy)",
+        "name": "Pergolas automáticas Somfy",
+        "desc": "Pergola con lona retráctil impermeable, estructura de aluminio e inox. Motor Somfy Pergola RGS io con sensor de viento Sunis — recogida automática por encima de 50 km/h.",
+        "price": "11.000–18.000 RON (3×4 m)",
         "link": "/sistemas-sombreado/pergolas-automaticas-somfy",
-        "cta": "Detalles pérgolas Somfy"
+        "cta": "Detalles pergolas Somfy"
       }
     ],
     "faq_h2": "Preguntas frecuentes sobre los precios de los sistemas de sombreado",
     "faq": [
-      { "q": "¿Cuánto cuesta un sistema de sombreado exterior en 2026?", "a": "De forma orientativa, las persianas de aluminio cuestan 85–120 €/m² en manual y 150–220 €/m² motorizadas, las venecianas Raffstore motorizadas 150–200 €/m², y el Zipscreen 225–300 €/m² en manual y 350–450 €/m² motorizado, siempre con instalación incluida. Una pérgola automatizada Somfy de 4 × 3 m cuesta 4.000 €. Los precios no incluyen IVA." },
+      { "q": "¿Cuánto cuesta un sistema de sombreado exterior en 2026?", "a": "De forma orientativa, una persiana enrollable de aluminio parte de 500–850 RON para un hueco de 100×150 cm, una veneciana Raffstore de 600–1.800 RON en la misma medida y un Zipscreen de 800–2.500 RON en 100×200 cm. Una pérgola automatizada Somfy de 3×4 m se sitúa entre 11.000 y 18.000 RON. Son precios de producto, para las medidas indicadas." },
       { "q": "¿Por qué los precios son orientativos y no cerrados?", "a": "Porque el precio final depende de la medida exacta del hueco, del tipo de accionamiento, del tejido elegido y de la forma de montaje. Por eso el presupuesto se elabora de forma personalizada, y la medición en obra se realiza tras la firma del contrato." },
-      { "q": "¿Qué sistema de sombreado resiste mejor el viento?", "a": "El Zipscreen, porque las guías laterales ZIP mantienen el tejido sujeto: ofrece resistencia al viento de clase 6 (88 km/h), lo que lo hace adecuado para terrazas y ventanales. Las pérgolas automatizadas Somfy llevan sensor de viento Sunis y se repliegan solas por encima de 50 km/h." },
+      { "q": "¿Qué sistema de sombreado resiste mejor el viento?", "a": "El Zipscreen, porque las guías laterales mantienen el tejido sujeto: resiste hasta fuerza 5 Beaufort, lo que lo hace adecuado para terrazas y ventanales. Las pérgolas automatizadas Somfy llevan sensor de viento Sunis y se repliegan solas por encima de 50 km/h." },
       { "q": "¿Se puede instalar sombreado sobre la carpintería que ya tengo?", "a": "Sí. El montaje sobre carpintería Salamander o Alumil existente es posible e incluso recomendable. El anclaje se realiza en la obra, en el marco de la ventana o en la pared, según la situación." },
-      { "q": "¿Cuándo es obligatoria la motorización?", "a": "En sistemas grandes, donde la manivela o la cinta dejan de ser prácticas. Las opciones son motor Somfy o Nice; si dispone de instalación domótica, el sistema se integra mediante KNX o io-homecontrol. Un motor Somfy para persiana o Zipscreen cuesta unos 110–150 € + IVA, y uno para Raffstore 220–300 € + IVA, sin instalación." },
+      { "q": "¿Cuándo es obligatoria la motorización?", "a": "En sistemas grandes, donde la manivela o la cinta dejan de ser prácticas. Las opciones son motor Somfy o Nice; si dispone de instalación domótica, el sistema se integra mediante KNX o io-homecontrol." },
     ],
     "h2_cta": "Solicitar presupuesto personalizado",
     "cta_desc": "El equipo de Neofort BIZ le proporcionará un presupuesto detallado para el sistema de sombreado adecuado. Las mediciones en obra se realizan tras la firma del contrato.",
     "cta_btn": "Solicitar presupuesto sombreado",
-    "guide_link": "Leer la guía completa de sistemas de sombreado",
+    "guide_link": "Leer la Guía Completa de Sistemas de Sombreado",
     "guide_slug": "sistemas-sombreado/guia-completa"
   },
   "it": {
     "h1": "Prezzi sistemi di oscuramento 2026 — Zipscreen, Raffstore, Tapparelle alluminio",
-    "sub": "Prezzi indicativi 2026 per l'oscuramento esterno: Zipscreen, frangisole Raffstore, tapparelle in alluminio e pergole Somfy. Preventivo a Bucarest e Ilfov.",
+    "sub": "Prezzi indicativi 2026 per sistemi di oscuramento esterno: tende zipscreen, veneziane raffstore, tapparelle in alluminio. Preventivo personalizzato a Bucarest e Ilfov.",
     "parent_label": "Sistemi di oscuramento",
     "breadcrumb": "Prezzi 2026",
-    "intro": "Il prezzo di un sistema di oscuramento esterno dipende dal tipo di prodotto, dalle dimensioni, dal tipo di azionamento e dalla complessità dell'installazione. Tutti i prezzi qui sotto sono indicativi e IVA esclusa.",
+    "intro": "Il prezzo di un sistema di oscuramento esterno dipende dal tipo di prodotto, dalle dimensioni, dal tipo di azionamento e dalla complessità dell'installazione.",
     "h2_factors": "Fattori che influenzano il prezzo",
     "factors": [
-      "Tipo di sistema — la tenda Zipscreen (con guide laterali ZIP) costa di più di una tapparella standard.",
+      "Tipo di sistema — la tenda zipscreen (con guide laterali) costa di più di una tapparella standard.",
       "Dimensioni dell'apertura — il prezzo aumenta proporzionalmente con larghezza e altezza.",
       "Tipo di azionamento — manuale (manovella) vs elettrico (motore Somfy/Nice) vs domotica (KNX).",
-      "Tessuto — screen (trasparente, filtra il 98% dei raggi UV), blackout (oscurante) o perforato.",
+      "Tessuto — schermo solare standard vs oscuramento totale vs tessuti speciali SPF 50+.",
       "Colore e finitura — cassonetti e guide in alluminio verniciabili in qualsiasi colore RAL.",
       "Installazione — ancoraggio in muratura, nel telaio o a parete."
     ],
@@ -337,45 +337,45 @@ const UI = {
     "products": [
       {
         "name": "Tenda Zipscreen esterna",
-        "desc": "Tenda tecnica esterna con guide laterali ZIP — resistenza al vento classe 6 (88 km/h). Ideale per terrazze e grandi vetrate.",
-        "price": "225–300 €/m² manuale · 350–450 €/m² motorizzato · posa inclusa",
+        "desc": "Tenda esterna con guide laterali — resistenza al vento fino alla classe 5 Beaufort. Ideale per terrazze e grandi finestre.",
+        "price": "800–2.500 RON (100×200 cm)",
         "link": "/sistemi-oscuramento/zipscreen-tenda-esterna",
         "cta": "Dettagli Zipscreen"
       },
       {
         "name": "Raffstore — Veneziane esterne",
-        "desc": "Lamelle in alluminio orientabili da 0° a 90°: controllo fine della luce mantenendo la vista verso l'esterno. Riducono gli apporti solari fino all'85%.",
-        "price": "150–200 €/m² motorizzato · posa inclusa",
+        "desc": "Veneziane con lamelle in alluminio orientabili — controllo fine della luce e protezione solare. Fattore solare fino al 90%.",
+        "price": "600–1.800 RON (100×150 cm)",
         "link": "/sistemi-oscuramento/veneziane-raffstore",
         "cta": "Dettagli Raffstore"
       },
       {
         "name": "Tapparelle esterne in alluminio",
-        "desc": "Tapparelle con lamelle in alluminio estruso isolato da 7,5 a 19,5 mm — isolamento termico notturno e acustico, antieffrazione RC3 con guide sicure.",
-        "price": "85–120 €/m² manuale · 150–220 €/m² motorizzato · posa inclusa",
+        "desc": "Tapparelle con lamelle in alluminio riempite di schiuma PU — isolamento termico e acustico, sicurezza.",
+        "price": "500–850 RON (100×150 cm)",
         "link": "/sistemi-oscuramento/tapparelle-esterne-alluminio",
         "cta": "Dettagli Tapparelle"
       },
       {
         "name": "Pergole automatiche Somfy",
         "desc": "Pergola con telo retrattile impermeabile, struttura in alluminio e inox. Motore Somfy Pergola RGS io con sensore vento Sunis — rientro automatico oltre 50 km/h.",
-        "price": "4.000 € (4 × 3 m, motore Somfy)",
+        "price": "11.000–18.000 RON (3×4 m)",
         "link": "/sistemi-oscuramento/pergole-automatiche-somfy",
         "cta": "Dettagli pergole Somfy"
       }
     ],
     "faq_h2": "Domande frequenti sui prezzi dei sistemi di oscuramento",
     "faq": [
-      { "q": "Quanto costa un sistema di oscuramento esterno nel 2026?", "a": "Indicativamente, le tapparelle in alluminio costano 85–120 €/m² manuali e 150–220 €/m² motorizzate, le veneziane Raffstore motorizzate 150–200 €/m², e lo Zipscreen 225–300 €/m² manuale e 350–450 €/m² motorizzato, sempre con posa inclusa. Una pergola automatizzata Somfy di 4 × 3 m costa 4.000 €. I prezzi sono IVA esclusa." },
+      { "q": "Quanto costa un sistema di oscuramento esterno nel 2026?", "a": "Indicativamente, una tapparella in alluminio parte da 500–850 RON per un vano di 100×150 cm, una veneziana Raffstore da 600–1.800 RON nella stessa misura e uno Zipscreen da 800–2.500 RON per 100×200 cm. Una pergola automatizzata Somfy di 3×4 m si colloca tra 11.000 e 18.000 RON. Sono prezzi di prodotto, per le misure indicate." },
       { "q": "Perché i prezzi sono indicativi e non fissi?", "a": "Perché il prezzo finale dipende dalla misura esatta del vano, dal tipo di azionamento, dal tessuto scelto e dal tipo di posa. Il preventivo viene quindi redatto su misura e il rilievo in loco avviene dopo la firma del contratto." },
-      { "q": "Quale sistema di oscuramento resiste meglio al vento?", "a": "Lo Zipscreen, perché le guide laterali ZIP trattengono il tessuto: ha una resistenza al vento di classe 6 (88 km/h) ed è quindi adatto a terrazze e grandi vetrate. Le pergole automatizzate Somfy hanno il sensore vento Sunis e si ritraggono da sole oltre i 50 km/h." },
+      { "q": "Quale sistema di oscuramento resiste meglio al vento?", "a": "Lo Zipscreen, perché le guide laterali trattengono il tessuto: resiste fino a forza 5 Beaufort ed è quindi adatto a terrazze e grandi vetrate. Le pergole automatizzate Somfy hanno il sensore vento Sunis e si ritraggono da sole oltre i 50 km/h." },
       { "q": "È possibile installare l'oscuramento sugli infissi che ho già?", "a": "Sì. La posa su infissi Salamander o Alumil esistenti è possibile e anzi consigliata. L'ancoraggio avviene nella muratura, nel telaio della finestra o a parete, a seconda della situazione." },
-      { "q": "Quando la motorizzazione è obbligatoria?", "a": "Sui sistemi di grandi dimensioni, dove manovella o cinghia non sono più pratiche. Le opzioni sono motore Somfy o Nice; con un impianto domotico il sistema si integra tramite KNX o io-homecontrol. Un motore Somfy per tapparella o Zipscreen costa circa 110–150 € + IVA, e uno per Raffstore 220–300 € + IVA, posa esclusa." },
+      { "q": "Quando la motorizzazione è obbligatoria?", "a": "Sui sistemi di grandi dimensioni, dove manovella o cinghia non sono più pratiche. Le opzioni sono motore Somfy o Nice; con un impianto domotico il sistema si integra tramite KNX o io-homecontrol." },
     ],
     "h2_cta": "Richiedi un preventivo personalizzato",
     "cta_desc": "Il team Neofort BIZ fornirà un preventivo dettagliato per il sistema di oscuramento adeguato. Le misurazioni in loco avvengono dopo la firma del contratto.",
     "cta_btn": "Richiedi preventivo oscuramento",
-    "guide_link": "Leggi la guida completa ai sistemi di oscuramento",
+    "guide_link": "Leggi la Guida Completa Sistemi di Oscuramento",
     "guide_slug": "sistemi-oscuramento/guida-completa"
   }
 };
@@ -402,7 +402,7 @@ const MID_TITLES = {
   // nu se randa); odata cu afisarea benzii ar fi devenit vizibil in 6 limbi.
   // ACELASI text exista si in celelalte patru pagini de ghid, unde banda ESTE
   // randata — acolo cuvantul e live de mult. De aliniat toate cinci.
-  ro: 'Solicitați oferta personalizată — răspundem în 2 ore',
+  ro: 'Solicitati oferta personalizata — raspundem in 2 ore',
   en: 'Request your personalised quote — we reply within 2 hours',
   de: 'Persönliches Angebot anfordern — Antwort in 2 Stunden',
   fr: 'Demandez votre devis personnalisé — réponse en 2 heures',
@@ -413,11 +413,11 @@ const MID_DESCS = {
   // v286: nu mai sunt siruri, ci functii de { rating, count }. Numarul de
   // recenzii venea hardcodat aici si trebuia corectat de mana la fiecare
   // schimbare — exact ce s-a intamplat in v283, pe 64 de locuri.
-  ro: (r) => `Montaj în București și Ilfov. Ofertă în 48h. ${r.count} recenzii Google ${r.rating.toFixed(1)}/5.`,
+  ro: (r) => `Montaj in Bucuresti si Ilfov. Oferta in 48h. ${r.count} recenzii Google ${r.rating.toFixed(1)}/5.`,
   en: (r) => `Installation in Bucharest and Ilfov. Quote in 48h. ${r.count} Google reviews ${r.rating.toFixed(1)}/5.`,
   de: (r) => `Montage in Bukarest und Ilfov. Angebot in 48h. ${r.count} Google-Bewertungen ${r.rating.toFixed(1)}/5.`,
-  fr: (r) => `Pose à Bucarest et Ilfov. Devis en 48h. ${r.count} avis Google ${r.rating.toFixed(1)}/5.`,
-  es: (r) => `Instalación en Bucarest e Ilfov. Presupuesto en 48h. ${r.count} reseñas Google ${r.rating.toFixed(1)}/5.`,
+  fr: (r) => `Pose a Bucarest et Ilfov. Devis en 48h. ${r.count} avis Google ${r.rating.toFixed(1)}/5.`,
+  es: (r) => `Instalacion en Bucarest e Ilfov. Presupuesto en 48h. ${r.count} resenas Google ${r.rating.toFixed(1)}/5.`,
   it: (r) => `Posa a Bucarest e Ilfov. Preventivo in 48h. ${r.count} recensioni Google ${r.rating.toFixed(1)}/5.`,
 };
 
