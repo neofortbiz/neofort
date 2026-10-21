@@ -875,7 +875,7 @@ Nous avons traité séparément la sécurité du PVC moderne, données technique
 - [Triple vs Double vitrage : économies réelles sur le chauffage](/fr/blog/triple-vs-double-vitrage-economies-reelles-chauffage-prix)
 - [Système nZEB complet : Salamander + Blaugelb + triple vitrage](/fr/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage)
 
-Neofort BIZ — spécialiste fenêtres nZEB à Bucarest et Ilfov. [consultation technique pour votre projet nZEB](/fr/contact). Voir [les systèmes nZEB](/fr/systemes-nzeb) que nous proposons. Pages utiles : [le guide complet des systèmes nZEB](/fr/systemes-nzeb/guide-complet) et [les précadres Blaugelb Triotherm+](/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus).`,
+Neofort BIZ — spécialiste fenêtres nZEB à Bucarest et Ilfov. [Consultation technique pour votre projet nZEB](/fr/contact). Voir [les systèmes nZEB](/fr/systemes-nzeb) que nous proposons. Pages utiles : [le guide complet des systèmes nZEB](/fr/systemes-nzeb/guide-complet) et [les précadres Blaugelb Triotherm+](/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus).`,
       es: `## ¿Qué es la norma nZEB en Rumanía y por qué las ventanas son críticas?
 
 **nZEB (Nearly Zero Energy Building)** es la norma obligatoria impuesta por la Directiva 2010/31/UE sobre la eficiencia energética de los edificios (DEEE) y transpuesta a la legislación rumana mediante la Ley 372/2005 modificada y el HG 765/2016.
@@ -1072,7 +1072,7 @@ Sobre la seguridad del PVC moderno escribimos aparte, con datos de la literatura
 - [Triple vs Doble Acristalamiento: Ahorros reales en calefacción](/es/blog/triple-vs-doble-acristalamiento-ahorros-reales-calefaccion-precio)
 - [Sistema nZEB completo: Salamander + Blaugelb + triple acristalamiento](/es/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento)
 
-Neofort BIZ — especialista en ventanas nZEB en Bucarest e Ilfov. [consulta técnica para su proyecto nZEB](/es/contacto). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos. Páginas útiles: [la guía completa de sistemas nZEB](/es/sistemas-nzeb/guia-completa) y [los premarcos Blaugelb Triotherm+](/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus).`,
+Neofort BIZ — especialista en ventanas nZEB en Bucarest e Ilfov. [Consulta técnica para su proyecto nZEB](/es/contacto). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos. Páginas útiles: [la guía completa de sistemas nZEB](/es/sistemas-nzeb/guia-completa) y [los premarcos Blaugelb Triotherm+](/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus).`,
       it: `## Cos'è lo standard nZEB in Romania e perché le finestre sono critiche?
 
 **nZEB (Nearly Zero Energy Building)** è lo standard obbligatorio imposto dalla Direttiva 2010/31/UE sulla prestazione energetica degli edifici (EPBD) e recepito nella legislazione rumena dalla Legge 372/2005 modificata e dal HG 765/2016.
@@ -1268,7 +1268,7 @@ Sulla sicurezza del PVC moderno abbiamo scritto a parte, con dati dalla letterat
 - [Sistema nZEB completo: Salamander + Blaugelb + triplo vetro](/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro)
 - [Da nZEB a ZEB: cosa cambia per le finestre dal 2030](/it/blog/da-nzeb-a-zeb-cosa-cambia-la-epbd-per-le-finestre)
 
-Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [consulenza tecnica per il vostro progetto nZEB](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo. Pagine utili: [la guida completa ai sistemi nZEB](/it/sistemi-nzeb/guida-completa) e [i precontrotelai Blaugelb Triotherm+](/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus).`,
+Neofort BIZ — specialista finestre nZEB a Bucarest e Ilfov. [Consulenza tecnica per il vostro progetto nZEB](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo. Pagine utili: [la guida completa ai sistemi nZEB](/it/sistemi-nzeb/guida-completa) e [i precontrotelai Blaugelb Triotherm+](/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus).`,
     },
   },
 
@@ -3139,7 +3139,7 @@ Alluminio, senza eccezioni. La resistenza strutturale è tre o quattro volte sup
 
 ---
 
-Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [consulenza](/it/contatti). Scopri di più sui [sistemi Alumil](/it/infissi-alluminio) che offriamo. Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa). Pagine utili: [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa) e [la guida completa ai serramenti in alluminio](/it/infissi-alluminio/guida-completa). Pagine utili: [il profilo Salamander greenEvolution 76 MD ROUND](/it/prodotti/profilo-pvc-greenevolution-76-md-round) e [l'alzante scorrevole Alumil S 700 SUPREME](/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme).`,
+Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [Consulenza](/it/contatti). Scopri di più sui [sistemi Alumil](/it/infissi-alluminio) che offriamo. Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa). Pagine utili: [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa) e [la guida completa ai serramenti in alluminio](/it/infissi-alluminio/guida-completa). Pagine utili: [il profilo Salamander greenEvolution 76 MD ROUND](/it/prodotti/profilo-pvc-greenevolution-76-md-round) e [l'alzante scorrevole Alumil S 700 SUPREME](/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme).`,
     },
   },
 
@@ -5815,7 +5815,7 @@ Rupere de punte termică 34 mm, Uf = 1,3 W/(m²K) la profil — echipat cu tripa
 ## Procesul de comandă la Neofort BIZ
 
 1. **Soliciți ofertă** — prin formularul de contact, telefon sau WhatsApp
-2. **consultanță tehnică** — discutăm proiectul, tipul de construcție, orientarea
+2. **Consultanță tehnică** — discutăm proiectul, tipul de construcție, orientarea
 3. **Măsurători la fața locului** — echipa noastră vine și măsoară golurile exacte
 4. **Ofertă personalizată în 48 de ore** — cu specificații tehnice complete, transparente
 5. **Producție și livrare** — 7–14 zile lucrătoare pentru profiluri standard
@@ -5903,7 +5903,7 @@ Without all these elements together, a manufacturer cannot legitimately speak of
 ## The Ordering Process at Neofort BIZ
 
 1. **Request a quote** — via the contact form, phone or WhatsApp
-2. **technical consultation** — we discuss the project, type of construction, orientation
+2. **Technical consultation** — we discuss the project, type of construction, orientation
 3. **On-site measurements** — our team comes and measures the exact openings
 4. **Personalised quote within 24 hours** — with complete, transparent technical specifications
 5. **Production and delivery** — 7–14 working days for standard profiles
@@ -6071,7 +6071,7 @@ Rupture thermique 34 mm, Uf = 1,3 W/(m²K) au profilé — avec triple vitrage e
 ## Le processus de commande chez Neofort BIZ
 
 1. **Demander un devis** — via le formulaire de contact, téléphone ou WhatsApp
-2. **consultation technique** — nous discutons du projet, type de construction, orientation
+2. **Consultation technique** — nous discutons du projet, type de construction, orientation
 3. **Métrage sur place** — notre équipe vient mesurer les ouvertures exactes
 4. **Devis personnalisé en 48 heures** — avec spécifications techniques complètes et transparentes
 5. **Production et livraison** — 7 à 14 jours ouvrables pour les profilés standard
@@ -6151,7 +6151,7 @@ Rotura térmica 34 mm, Uf = 1,3 W/(m²K) en el perfil — con triple acristalami
 ## El proceso de pedido en Neofort BIZ
 
 1. **Solicitar presupuesto** — a través del formulario de contacto, teléfono o WhatsApp
-2. **consulta técnica** — discutimos el proyecto, tipo de construcción, orientación
+2. **Consulta técnica** — discutimos el proyecto, tipo de construcción, orientación
 3. **Mediciones in situ** — nuestro equipo viene y mide las aperturas exactas
 4. **Presupuesto personalizado en 48 horas** — con especificaciones técnicas completas y transparentes
 5. **Producción y entrega** — 7–14 días hábiles para perfiles estándar
@@ -6231,7 +6231,7 @@ Taglio termico 34 mm, Uf = 1,3 W/(m²K) al profilo — con triplo vetro e Low-E 
 ## Il processo di ordinazione da Neofort BIZ
 
 1. **Richiedere un preventivo** — tramite il modulo di contatto, telefono o WhatsApp
-2. **consulenza tecnica** — discutiamo il progetto, tipo di costruzione, orientamento
+2. **Consulenza tecnica** — discutiamo il progetto, tipo di costruzione, orientamento
 3. **Misurazioni in loco** — il nostro team viene e misura le aperture esatte
 4. **Preventivo personalizzato in 48 ore** — con specifiche tecniche complete e trasparenti
 5. **Produzione e consegna** — 7–14 giorni lavorativi per profili standard
@@ -20159,7 +20159,7 @@ Fără precadre, **BluEvolution 92 pierde 35–40% din performanța termică** l
 
 ---
 
-## consultanță pentru casa ta
+## Consultanță pentru casa ta
 
 La Neofort BIZ oferim **consultanță tehnică** pentru proiecte de case individuale noi — calcul termic pe orientări, recomandare profil și geam per fereastră, și planul de pre-cablare pentru motorizare ulterioară chiar dacă nu vrei automatizare acum.
 
@@ -23798,7 +23798,7 @@ Blackout total are sens în situații specifice:
 
 ---
 
-## consultanță — Neofort BIZ București
+## Consultanță — Neofort BIZ București
 
 Nu ești sigur ce să alegi? Trimite-ne o fotografie cu fereastra sau terasa și orientarea casei — îți recomandăm specific.
 
@@ -23956,7 +23956,7 @@ Total blackout makes sense in specific situations:
 
 ---
 
-## consultation — Neofort BIZ Bucharest
+## Consultation — Neofort BIZ Bucharest
 
 Not sure what to choose? Send us a photograph of the window or terrace along with the orientation of the house, and we will give you a specific recommendation.
 
@@ -24272,7 +24272,7 @@ L’occultation totale a du sens dans des cas précis :
 
 ---
 
-## conseil — Neofort BIZ Bucarest
+## Conseil — Neofort BIZ Bucarest
 
 Vous hésitez ? Envoyez-nous une photo de la fenêtre ou de la terrasse avec l’orientation de la maison, et nous vous donnerons une recommandation précise.
 
@@ -24588,7 +24588,7 @@ L’oscuramento totale ha senso in situazioni precise:
 
 ---
 
-## consulenza — Neofort BIZ Bucarest
+## Consulenza — Neofort BIZ Bucarest
 
 Non sapete che cosa scegliere? Inviateci una foto della finestra o della terrazza insieme all’orientamento della casa e vi daremo un consiglio specifico.
 
@@ -28359,7 +28359,7 @@ Neofort BIZ fabrică uși antiefracție **la comandă**, personalizate pentru fi
 - **Sisteme de acces** — amprentă, PIN, card, Bluetooth, combinat
 
 ### Procesul de fabricare și montaj
-1. **Consultație și proiect** — vizită la față locului, măsurători, propunere soluție
+1. **Consultație și proiect** — consultație, ofertă în 48 de ore, măsurători la fața locului după semnarea contractului
 2. **Fabricare** — 15–25 zile lucrătoare
 3. **Montaj profesional** — echipă specializată, 4–8 ore per ușă
 4. **Certificat de garanție** — completă pe produs și manoperă
@@ -28504,7 +28504,7 @@ Neofort BIZ manufactures security doors **to order**, customised for each projec
 - **Access systems** — fingerprint, PIN, card, Bluetooth, or a combination
 
 ### The manufacturing and installation process
-1. **Consultation and design** — site visit, measurements, proposed solution
+1. **Consultation and design** — consultation, quote within 48 hours, on-site measurements once the contract is signed
 2. **Manufacture** — 15–25 working days
 3. **Professional installation** — specialist team, 4–8 hours per door
 4. **Warranty certificate** — full cover on product and workmanship
@@ -28649,7 +28649,7 @@ Neofort BIZ fertigt einbruchhemmende Türen **auf Maß**, individuell für jedes
 - **Zutrittssysteme** — Fingerabdruck, PIN, Karte, Bluetooth oder Kombination
 
 ### Der Fertigungs- und Montageablauf
-1. **Beratung und Planung** — Ortstermin, Aufmaß, Lösungsvorschlag
+1. **Beratung und Planung** — Beratung, Angebot innerhalb von 48 Stunden, Aufmaß vor Ort nach Vertragsabschluss
 2. **Fertigung** — 15–25 Werktage
 3. **Fachgerechte Montage** — Spezialteam, 4–8 Stunden je Tür
 4. **Garantieurkunde** — vollständige Deckung für Produkt und Ausführung
@@ -28794,7 +28794,7 @@ Neofort BIZ fabrique des portes anti-effraction **sur mesure**, personnalisées 
 - **Systèmes d’accès** — empreinte, PIN, carte, Bluetooth ou combinaison
 
 ### Le processus de fabrication et de pose
-1. **Consultation et projet** — visite sur site, relevé, proposition de solution
+1. **Consultation et projet** — consultation, devis sous 48 heures, relevé sur site après la signature du contrat
 2. **Fabrication** — 15 à 25 jours ouvrés
 3. **Pose professionnelle** — équipe spécialisée, 4 à 8 heures par porte
 4. **Certificat de garantie** — couverture complète produit et main-d’œuvre
@@ -28939,7 +28939,7 @@ Neofort BIZ fabrica puertas antirrobo **a medida**, personalizadas para cada pro
 - **Sistemas de acceso** — huella, PIN, tarjeta, Bluetooth o combinación
 
 ### El proceso de fabricación e instalación
-1. **Consulta y proyecto** — visita al lugar, mediciones, propuesta de solución
+1. **Consulta y proyecto** — consulta, presupuesto en 48 horas, mediciones en obra tras la firma del contrato
 2. **Fabricación** — 15–25 días laborables
 3. **Instalación profesional** — equipo especializado, 4–8 horas por puerta
 4. **Certificado de garantía** — cobertura completa de producto y mano de obra
@@ -29084,7 +29084,7 @@ Neofort BIZ produce porte antieffrazione **su misura**, personalizzate per ogni 
 - **Sistemi di accesso** — impronta, PIN, tessera, Bluetooth o combinazione
 
 ### Il processo di produzione e posa
-1. **Consulenza e progetto** — sopralluogo, rilievo, proposta di soluzione
+1. **Consulenza e progetto** — consulenza, preventivo in 48 ore, rilievo sul posto dopo la firma del contratto
 2. **Produzione** — 15–25 giorni lavorativi
 3. **Posa professionale** — squadra specializzata, 4–8 ore per porta
 4. **Certificato di garanzia** — copertura completa su prodotto e manodopera
@@ -30510,7 +30510,7 @@ Pour améliorer l’isolation sans remplacer les fenêtres, plusieurs solutions 
 
 ---
 
-Neofort BIZ fournit des fenêtres PVC Salamander et aluminium Alumil avec Uw à partir de 0,66 W/(m²K). [consultation technique](/fr/contact). Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [le vitrage isolant Saint-Gobain SGG](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg) et [l'intercalaire Warm Edge](/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage).`,
+Neofort BIZ fournit des fenêtres PVC Salamander et aluminium Alumil avec Uw à partir de 0,66 W/(m²K). [Consultation technique](/fr/contact). Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [le vitrage isolant Saint-Gobain SGG](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg) et [l'intercalaire Warm Edge](/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage).`,
       es: `## ¿Qué es el coeficiente térmico Uw de una ventana?
 
 **Uw** mide cuánto calor pierde una ventana — cuanto menor sea el valor, mejor es el aislamiento. Se expresa en **W/(m²K)** e incluye el perfil (Uf), el vidrio (Ug) y el separador (Ψg).
@@ -30571,7 +30571,7 @@ Para mejorar el aislamiento sin cambiar las ventanas, hay varias soluciones: [¿
 
 ---
 
-Neofort BIZ suministra ventanas PVC Salamander y aluminio Alumil con Uw desde 0,66 W/(m²K). [consulta técnica](/es/contacto). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el vidrio aislante Saint-Gobain SGG](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg) y [el separador térmico Warm Edge](/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante).`,
+Neofort BIZ suministra ventanas PVC Salamander y aluminio Alumil con Uw desde 0,66 W/(m²K). [Consulta técnica](/es/contacto). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el vidrio aislante Saint-Gobain SGG](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg) y [el separador térmico Warm Edge](/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante).`,
       it: `## Cos'è il coefficiente termico Uw di una finestra?
 
 **Uw** misura quanta energia termica disperde una finestra — più basso è il valore, migliore è l'isolamento. Si esprime in **W/(m²K)** e include il profilo (Uf), il vetro (Ug) e il distanziale (Ψg).
@@ -30632,7 +30632,7 @@ Per migliorare l’isolamento senza sostituire le finestre ci sono alcune soluzi
 
 ---
 
-Neofort BIZ fornisce finestre PVC Salamander e alluminio Alumil con Uw a partire da 0,66 W/(m²K). [consulenza tecnica](/it/contatti). Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo. Pagine utili: [il vetro termoisolante Saint-Gobain SGG](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg) e [il distanziatore termico Warm Edge](/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante).`,
+Neofort BIZ fornisce finestre PVC Salamander e alluminio Alumil con Uw a partire da 0,66 W/(m²K). [Consulenza tecnica](/it/contatti). Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo. Pagine utili: [il vetro termoisolante Saint-Gobain SGG](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg) e [il distanziatore termico Warm Edge](/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante).`,
     },
   },
   {

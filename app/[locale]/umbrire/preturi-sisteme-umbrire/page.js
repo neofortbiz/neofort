@@ -397,11 +397,11 @@ const WA_LABELS = {
   it: 'WhatsApp',
 };
 const MID_TITLES = {
-  // v288: "oferta personalizata" scos — regula din contextul proiectului interzice
-  // "gratuit" in copy. Textul nu era vizibil pana acum (midTitle se calcula si
+  // v288: cuvantul "gratuita" scos din titlul benzii, inlocuit cu "personalizata" —
+  // regula din contextul proiectului interzice "gratuit" in copy. Textul nu era vizibil pana acum (midTitle se calcula si
   // nu se randa); odata cu afisarea benzii ar fi devenit vizibil in 6 limbi.
   // ACELASI text exista si in celelalte patru pagini de ghid, unde banda ESTE
-  // randata — acolo cuvantul e live de mult. De aliniat toate cinci.
+  // randata — aliniat pe toate cinci in v289.
   ro: 'Solicitați oferta personalizată — răspundem în 2 ore',
   en: 'Request your personalised quote — we reply within 2 hours',
   de: 'Persönliches Angebot anfordern — Antwort in 2 Stunden',
