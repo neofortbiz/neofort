@@ -115,11 +115,11 @@ export const HUB_FAQ = {
     ],
     de: [
       [`Was ist der Unterschied zwischen Alumil Supreme und Smartia?`,
-       `Supreme ist die professionelle Reihe mit fortschrittlicher Wärmedämmbrücke und Passivhaus-Zertifizierung. Smartia ist die kommerzielle Reihe mit besserem Preis-Leistungs-Verhältnis.`],
+       `Supreme ist die professionelle Reihe mit fortschrittlicher thermischer Trennung und Passivhaus-Zertifizierung. Smartia ist die kommerzielle Reihe mit besserem Preis-Leistungs-Verhältnis.`],
       [`Was kostet Aluminiumtâmplărie im Jahr 2026?`,
        `Preise ab 250–350 EUR/m² für Standard Smartia bis 450–700 EUR/m² für Premium Supreme SF85 oder Hebeschiebetüren, inkl. Profil, Isolierglas und Einbau.`],
       [`Was ist der Unterschied zwischen Aluminiumfenstern und Thermopane?`,
-       `Aluminium mit Wärmedämmbrücke bietet dieselbe thermische Leistung wie Premium-PVC, jedoch mit dünneren Querschnitten, überlegener Steifigkeit und unbegrenzter Haltbarkeit.`],
+       `Aluminium mit thermischer Trennung bietet dieselbe thermische Leistung wie Premium-PVC, jedoch mit dünneren Querschnitten, überlegener Steifigkeit und unbegrenzter Haltbarkeit.`],
       [`Können Alumil-Schiebesysteme auf Terrassen montiert werden?`,
        `Ja, Alumil S700 und S350 Hebeschiebetüren unterstützen Flügel bis 300 kg bei maximal 6 m Horizontalprofil mit nZEB-konformer Abdichtung.`],
       [`Aluminium oder PVC für große Fenster?`,

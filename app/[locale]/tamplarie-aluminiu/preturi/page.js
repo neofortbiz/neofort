@@ -108,7 +108,7 @@ const UI = {
     label: 'Aluminiumfenster · Neofort BIZ',
     parent: 'Aluminiumfenster',
     h1: 'Aluminiumfenster Preise 2026 — Vollständiger Leitfaden nach Alumil-System',
-    sub: 'Aktualisierte Preise 2026 für Aluminiumfenster mit Wärmedämmbrücke — von Standardfenstern bis Hebeschiebetüren und Vorhangfassaden.',
+    sub: 'Aktualisierte Preise 2026 für Aluminiumfenster mit thermischer Trennung — von Standardfenstern bis Hebeschiebetüren und Vorhangfassaden.',
     intro: 'Aluminiumfensterpreise variieren je nach gewähltem System, Fensterabmessungen und Endkonfiguration erheblich. Diese Seite fasst die Richtwerte für alle von Neofort BIZ vertriebenen Alumil-Systeme zusammen, aktualisiert für 2026.',
     table_title: 'Richtwerte nach System — 2026',
     th: ['System', 'Kategorie', 'Geschätzter Preis / m²', 'Ideal für'],
@@ -139,7 +139,7 @@ const UI = {
     faq_title: 'Häufige Fragen zu Preisen',
     faq: [
       ['Was kostet ein Aluminiumfenster?', 'Ein Standard-Dreh-Kipp-Aluminiumfenster Alumil Smartia (100×120 cm) kostet 350–500 EUR inkl. Isolierglas und Montage. Ein Premium-Supreme-SF85 gleicher Größe kostet 450–650 EUR.'],
-      ['Was ist der Mindestpreis für Aluminiumfenster?', 'Der realistische Mindestpreis für Aluminiumfenster mit Wärmedämmbrücke und professionellem Einbau beträgt 250 EUR/m². Angebote darunter verwenden meist Profile ohne Wärmedämmbrücke.'],
+      ['Was ist der Mindestpreis für Aluminiumfenster?', 'Der realistische Mindestpreis für Aluminiumfenster mit thermischer Trennung und professionellem Einbau beträgt 250 EUR/m². Angebote darunter verwenden meist Profile ohne thermische Trennung.'],
       ['Was kostet eine Aluminium-Schiebetür?', 'Eine Alumil S350 Smartia Schiebetür (2×2,1 m, ein Flügel) kostet 900–1.400 EUR. Ein Alumil S700 Supreme Hebe-Schiebe-System (3×2,4 m, zwei Flügel) kostet 2.500–4.000 EUR.'],
       ['Sind die Preise inkl. MwSt.?', 'Richtwerte auf dieser Seite sind netto (ohne MwSt.). Die MwSt. von 21% wird bei der Rechnungsstellung hinzugefügt.'],
     ],
@@ -291,10 +291,10 @@ export async function generateMetadata({ params }) {
          : locale === 'es' ? 'Precios Aluminio 2026: 250–500 €/m² | Neofort BIZ'
          : 'Prezzi Infissi Alluminio 2026: 250–500 €/m² | Neofort BIZ',
     description: locale === 'ro' ? 'Prețuri tâmplărie aluminiu 2026: Alumil Smartia 250–350 EUR/mp, Supreme SF85 350–500 EUR/mp. Calcul personalizat, montaj nZEB inclus.'
-               : locale === 'en' ? 'Updated 2026 aluminium window prices: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², sliding systems and curtain walls. nZEB installation Bucharest.'
-               : locale === 'de' ? 'Aktualisierte Preise 2026 Aluminiumfenster: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², Schiebesysteme und Vorhangfassaden. nZEB-Montage Bukarest.'
+               : locale === 'en' ? '2026 aluminium window prices: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², sliding systems and curtain walls. nZEB installation Bucharest.'
+               : locale === 'de' ? 'Preise 2026 für Aluminiumfenster: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², Schiebesysteme und Vorhangfassaden. nZEB-Montage Bukarest.'
                : locale === 'fr' ? 'Prix actualisés 2026 menuiserie aluminium: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², coulissants et murs-rideaux. Pose nZEB Bucarest.'
-               : locale === 'es' ? 'Precios actualizados 2026 carpintería aluminio: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², correderas y muros cortina. Instalación nZEB Bucarest.'
+               : locale === 'es' ? 'Precios 2026 de carpintería de aluminio: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², correderas y muros cortina. Instalación nZEB Bucarest.'
                : 'Prezzi aggiornati 2026 infissi alluminio: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², scorrevoli e facciate continue. Posa nZEB Bucarest.',
     keywords: locale === 'ro' ? 'preturi tamplarie aluminiu, tamplarie aluminiu pret 2026, cat costa tamplarie aluminiu, tamplarie aluminiu mp pret, alumil pret, alumil supreme pret, alumil smartia pret, fereastra aluminiu pret, usa glisanta aluminiu pret'
             : 'aluminium window prices 2026, aluminium windows cost, Alumil price, aluminium window price per m2',

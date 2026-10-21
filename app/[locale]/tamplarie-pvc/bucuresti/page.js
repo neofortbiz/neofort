@@ -326,12 +326,12 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Menuiserie PVC Bucarest — Pose Salamander | Neofort BIZ'
          : locale === 'es' ? 'Carpintería PVC Bucarest — Montaje Salamander | Neofort BIZ'
          : 'Infissi PVC Bucarest — Posa Salamander | Neofort BIZ',
-    description: locale === 'ro' ? 'Furnizare și montaj tâmplărie PVC Salamander în București — toate sectoarele și Ilfov. Măsurători la fața locului, montaj nZEB cu precadre Blaugelb, garanție 5 ani.'
-               : locale === 'en' ? 'PVC Salamander window supply and installation in Bucharest — all districts and Ilfov. On-site measurements, nZEB installation with Blaugelb precasings, 5-year warranty.'
-               : locale === 'de' ? 'Lieferung und Montage Salamander PVC-Fenster in Bukarest — alle Bezirke und Ilfov. Aufmaß nach Vertragsabschluss, nZEB-Montage mit Blaugelb-Vorfenstern, 5 Jahre Garantie.'
-               : locale === 'fr' ? 'Fourniture et pose menuiserie PVC Salamander à Bucarest — tous arrondissements et Ilfov. Métrés sur place, pose nZEB avec précadres Blaugelb, garantie 5 ans.'
-               : locale === 'es' ? 'Suministro e instalación carpintería PVC Salamander en Bucarest — todos los distritos e Ilfov. Mediciones en obra, instalación nZEB con premarcos Blaugelb, garantía 5 años.'
-               : 'Fornitura e posa infissi PVC Salamander a Bucarest — tutti i quartieri e Ilfov. Rilievi, posa nZEB con precontrotelaio Blaugelb, garanzia 5 anni.',
+    description: locale === 'ro' ? 'Furnizare și montaj tâmplărie PVC Salamander în București — toate sectoarele și Ilfov. Ofertă în 48h, montaj nZEB cu precadre Blaugelb, garanție 5 ani.'
+               : locale === 'en' ? 'Salamander PVC window supply and installation in Bucharest — all districts and Ilfov. Quote in 48h, nZEB installation with Blaugelb precasings, 5-year warranty.'
+               : locale === 'de' ? 'Lieferung und Montage von Salamander PVC-Fenstern in Bukarest und Ilfov. Angebot in 48h, nZEB-Montage mit Blaugelb-Vorfenstern, 5 Jahre Garantie.'
+               : locale === 'fr' ? 'Fourniture et pose menuiserie PVC Salamander à Bucarest — tous arrondissements et Ilfov. Devis en 48h, pose nZEB avec précadres Blaugelb, garantie 5 ans.'
+               : locale === 'es' ? 'Suministro e instalación de carpintería PVC Salamander en Bucarest e Ilfov. Presupuesto en 48h, instalación nZEB con premarcos Blaugelb, garantía 5 años.'
+               : 'Fornitura e posa infissi PVC Salamander a Bucarest — tutti i quartieri e Ilfov. Preventivo in 48h, posa nZEB con precontrotelaio Blaugelb, garanzia 5 anni.',
     keywords: locale === 'ro' ? 'tamplarie pvc bucuresti, ferestre pvc bucuresti, montaj pvc bucuresti, salamander bucuresti, bluevolution 92 bucuresti, greenevolution 76 bucuresti, termopane pvc bucuresti, inlocuit ferestre bucuresti'
             : 'PVC windows Bucharest, Salamander windows Bucharest installation, BluEvolution 92 Bucharest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },

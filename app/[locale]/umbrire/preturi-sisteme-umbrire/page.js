@@ -20,6 +20,7 @@ const PARENT_SLUGS = {
 const UI = {
   "ro": {
     "h1": "Prețuri Sisteme Umbrire 2026 — Zipscreen, Raffstore, Rulouri Aluminiu",
+    "seo_title": "Prețuri Sisteme Umbrire 2026 — Zipscreen",
     "sub": "Prețuri orientative 2026 pentru umbrire exterioară: Zipscreen, jaluzele Raffstore, rulouri din aluminiu și pergole Somfy. Ofertă în București și Ilfov.",
     "parent_label": "Sisteme Umbrire",
     "breadcrumb": "Prețuri 2026",
@@ -80,6 +81,7 @@ const UI = {
   },
   "en": {
     "h1": "Shading System Prices 2026 — Zipscreen, Raffstore, Aluminium Roller Shutters",
+    "seo_title": "Shading System Prices 2026 — Zipscreen",
     "sub": "2026 indicative prices for exterior shading: Zipscreen, Raffstore venetian blinds, aluminium roller shutters and Somfy pergolas. Quote in Bucharest and Ilfov.",
     "parent_label": "Shading Systems",
     "breadcrumb": "Prices 2026",
@@ -140,6 +142,7 @@ const UI = {
   },
   "de": {
     "h1": "Beschattungssysteme Preise 2026 — Zipscreen, Raffstore, Außenrollladen",
+    "seo_title": "Beschattungssysteme Preise 2026 — Zipscreen",
     "sub": "Richtpreise 2026 für Außenbeschattung: Zipscreen, Raffstore-Außenjalousien, Aluminium-Rollladen und Somfy-Pergolen. Angebot in Bukarest und Ilfov.",
     "parent_label": "Beschattungssysteme",
     "breadcrumb": "Preise 2026",
@@ -200,6 +203,7 @@ const UI = {
   },
   "fr": {
     "h1": "Prix des systèmes d'occultation 2026 — Zipscreen, Raffstore, Volets roulants",
+    "seo_title": "Prix systèmes d'occultation 2026 — Zipscreen",
     "sub": "Prix indicatifs 2026 de l'occultation extérieure : Zipscreen, brise-soleil Raffstore, volets roulants aluminium et pergolas Somfy. Devis à Bucarest et Ilfov.",
     "parent_label": "Systèmes d'occultation",
     "breadcrumb": "Prix 2026",
@@ -260,6 +264,7 @@ const UI = {
   },
   "es": {
     "h1": "Precios sistemas de sombreado 2026 — Zipscreen, Raffstore, Persianas aluminio",
+    "seo_title": "Precios sistemas de sombreado 2026 — Zipscreen",
     "sub": "Precios orientativos 2026 de sombreado exterior: Zipscreen, venecianas Raffstore, persianas de aluminio y pérgolas Somfy. Presupuesto en Bucarest e Ilfov.",
     "parent_label": "Sistemas de sombreado",
     "breadcrumb": "Precios 2026",
@@ -320,6 +325,7 @@ const UI = {
   },
   "it": {
     "h1": "Prezzi sistemi di oscuramento 2026 — Zipscreen, Raffstore, Tapparelle alluminio",
+    "seo_title": "Prezzi sistemi di oscuramento 2026 — Zipscreen",
     "sub": "Prezzi indicativi 2026 per l'oscuramento esterno: Zipscreen, frangisole Raffstore, tapparelle in alluminio e pergole Somfy. Preventivo a Bucarest e Ilfov.",
     "parent_label": "Sistemi di oscuramento",
     "breadcrumb": "Prezzi 2026",
@@ -381,12 +387,12 @@ const UI = {
 };
 
 const WA_URLS = {
-  ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20sisteme%20de%20umbrire.',
-  en: 'https://wa.me/40752443435?text=Hello%21%20Quote%20for%20shading%20systems.',
-  de: 'https://wa.me/40752443435?text=Hallo%21%20Angebot%20fur%20Beschattungssysteme.',
-  fr: 'https://wa.me/40752443435?text=Bonjour%21%20Devis%20systemes%20occultation.',
-  es: 'https://wa.me/40752443435?text=Hola%21%20Presupuesto%20sistemas%20sombreado.',
-  it: 'https://wa.me/40752443435?text=Buongiorno%21%20Preventivo%20sistemi%20oscuramento.',
+  ro: 'https://wa.me/40752443435?text=' + encodeURIComponent('Bună ziua! Doresc o ofertă pentru sisteme de umbrire.'),
+  en: 'https://wa.me/40752443435?text=' + encodeURIComponent('Hello! I would like a quote for shading systems.'),
+  de: 'https://wa.me/40752443435?text=' + encodeURIComponent('Guten Tag! Ich hätte gern ein Angebot für Beschattungssysteme.'),
+  fr: 'https://wa.me/40752443435?text=' + encodeURIComponent('Bonjour ! Je souhaite un devis pour des systèmes d’occultation.'),
+  es: 'https://wa.me/40752443435?text=' + encodeURIComponent('¡Hola! Quisiera un presupuesto de sistemas de sombreado.'),
+  it: 'https://wa.me/40752443435?text=' + encodeURIComponent('Buongiorno! Vorrei un preventivo per sistemi di oscuramento.'),
 };
 const WA_LABELS = {
   ro: 'WhatsApp',
@@ -432,7 +438,7 @@ export async function generateMetadata({ params }) {
   const slug = SLUGS[locale] || SLUGS.ro;
   const canonical = `${BASE}/${locale}/${slug}`;
   return {
-    title: `${ui.h1} | Neofort BIZ`,
+    title: `${ui.seo_title || ui.h1} | Neofort BIZ`,
     description: ui.sub,
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {

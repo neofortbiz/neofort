@@ -26,6 +26,7 @@ const PRICES_SLUGS = {
 const UI = {
   ro: {
     h1: 'Ghid Complet Tâmplărie PVC 2026 — Tot ce trebuie să știi despre ferestrele Salamander',
+    seo_title: 'Ghid Complet Tâmplărie PVC 2026 — Salamander',
     sub: 'Ghid tehnic despre tâmplăria PVC Salamander: profile, geamuri, feronerie, montaj nZEB și cum alegi sistemul potrivit pentru casa ta din București și Ilfov.',
     breadcrumb: 'Ghid complet',
     parent_label: 'Tâmplărie PVC',
@@ -62,6 +63,7 @@ const UI = {
   },
   en: {
     h1: 'Complete PVC Window Guide 2026 — Everything About Salamander Windows',
+    seo_title: 'Complete PVC Window Guide 2026 — Salamander',
     sub: 'Technical guide to Salamander PVC windows: profiles, glazing, hardware, nZEB installation and choosing the right system for your home in Bucharest and Ilfov.',
     breadcrumb: 'Complete Guide',
     parent_label: 'PVC Windows',
@@ -98,6 +100,7 @@ const UI = {
   },
   de: {
     h1: 'Kompletter PVC-Fenster-Ratgeber 2026 — Alles über Salamander-Fenster',
+    seo_title: 'PVC-Fenster-Ratgeber 2026 — Salamander-Fenster',
     sub: 'Technischer Ratgeber zu Salamander-Kunststofffenstern: Profile, Verglasung, Beschläge, nZEB-Montage und die Wahl des richtigen Systems in Bukarest und Ilfov.',
     breadcrumb: 'Kompletter Ratgeber',
     parent_label: 'Kunststofffenster',
@@ -134,6 +137,7 @@ const UI = {
   },
   fr: {
     h1: 'Guide complet menuiserie PVC 2026 — Tout sur les fenêtres Salamander',
+    seo_title: 'Guide complet menuiserie PVC 2026 — Salamander',
     sub: 'Guide technique de la menuiserie PVC Salamander : profilés, vitrage, quincaillerie, pose nZEB et choix du bon système pour votre maison à Bucarest et Ilfov.',
     breadcrumb: 'Guide complet',
     parent_label: 'Menuiserie PVC',
@@ -170,6 +174,7 @@ const UI = {
   },
   es: {
     h1: 'Guía completa carpintería PVC 2026 — Todo sobre las ventanas Salamander',
+    seo_title: 'Guía completa carpintería PVC Salamander 2026',
     sub: 'Guía técnica de la carpintería PVC Salamander: perfiles, acristalamiento, herrajes, instalación nZEB y cómo elegir el sistema adecuado en Bucarest e Ilfov.',
     breadcrumb: 'Guía completa',
     parent_label: 'Carpintería PVC',
@@ -206,6 +211,7 @@ const UI = {
   },
   it: {
     h1: 'Guida completa infissi PVC 2026 — Tutto sulle finestre Salamander',
+    seo_title: 'Guida completa infissi PVC 2026 — Salamander',
     sub: 'Guida tecnica agli infissi in PVC Salamander: profili, vetro, ferramenta, posa nZEB e come scegliere il sistema giusto per la casa a Bucarest e Ilfov.',
     breadcrumb: 'Guida completa',
     parent_label: 'Infissi PVC',
@@ -282,12 +288,12 @@ const BLOG_LINKS = {
 };
 
 const WA_URLS = {
-  ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20tamplarie%20PVC%20Salamander.',
-  en: 'https://wa.me/40752443435?text=Hello%21%20Quote%20for%20Salamander%20PVC%20windows.',
-  de: 'https://wa.me/40752443435?text=Hallo%21%20Angebot%20fur%20Salamander%20Kunststofffenster.',
-  fr: 'https://wa.me/40752443435?text=Bonjour%21%20Devis%20menuiserie%20PVC%20Salamander.',
-  es: 'https://wa.me/40752443435?text=Hola%21%20Presupuesto%20carpinteria%20PVC%20Salamander.',
-  it: 'https://wa.me/40752443435?text=Buongiorno%21%20Preventivo%20infissi%20PVC%20Salamander.',
+  ro: 'https://wa.me/40752443435?text=' + encodeURIComponent('Bună ziua! Doresc o ofertă pentru tâmplărie PVC Salamander.'),
+  en: 'https://wa.me/40752443435?text=' + encodeURIComponent('Hello! I would like a quote for Salamander PVC windows.'),
+  de: 'https://wa.me/40752443435?text=' + encodeURIComponent('Guten Tag! Ich hätte gern ein Angebot für Salamander-Kunststofffenster.'),
+  fr: 'https://wa.me/40752443435?text=' + encodeURIComponent('Bonjour ! Je souhaite un devis pour une menuiserie PVC Salamander.'),
+  es: 'https://wa.me/40752443435?text=' + encodeURIComponent('¡Hola! Quisiera un presupuesto de carpintería PVC Salamander.'),
+  it: 'https://wa.me/40752443435?text=' + encodeURIComponent('Buongiorno! Vorrei un preventivo per infissi in PVC Salamander.'),
 };
 const WA_LABELS = {
   ro: 'WhatsApp',
@@ -328,7 +334,7 @@ export async function generateMetadata({ params }) {
   const slug = SLUGS[locale] || SLUGS.ro;
   const canonical = `${BASE}/${locale}/${slug}`;
   return {
-    title: `${ui.h1} | Neofort BIZ`,
+    title: `${ui.seo_title || ui.h1} | Neofort BIZ`,
     description: ui.sub,
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {

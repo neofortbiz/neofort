@@ -327,11 +327,11 @@ export async function generateMetadata({ params }) {
          : locale === 'es' ? 'Carpintería Aluminio Bucarest — Distritos 1–6 | Neofort BIZ'
          : 'Infissi Alluminio Bucarest — Settori 1–6 | Neofort BIZ',
     description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil în București — montaj toate sectoarele și Ilfov. Echipe certificate nZEB, montaj garantat, livrare rapidă.'
-               : locale === 'en' ? 'Alumil aluminium windows in Bucharest — installation in all districts and Ilfov. Own nZEB-certified teams, 5-year warranty. District 1, Voluntari, Pipera, Otopeni.'
+               : locale === 'en' ? 'Alumil aluminium windows in Bucharest — installation in all districts and Ilfov. Own nZEB-certified teams, 5-year warranty. Voluntari, Pipera, Otopeni.'
                : locale === 'de' ? 'Alumil Aluminiumfenster in Bukarest — Montage in allen Bezirken und Ilfov. Eigene nZEB-zertifizierte Teams, 5 Jahre Garantie.'
                : locale === 'fr' ? 'Menuiserie aluminium Alumil à Bucarest — pose dans tous les arrondissements et Ilfov. Équipes propres certifiées nZEB, garantie 5 ans.'
                : locale === 'es' ? 'Carpintería aluminio Alumil en Bucarest — instalación en todos los distritos e Ilfov. Equipos propios certificados nZEB, garantía 5 años.'
-               : 'Infissi alluminio Alumil a Bucarest — posa in tutti i settori e Ilfov. Team propri certificati nZEB, rilievi, garanzia 5 anni.',
+               : 'Infissi alluminio Alumil a Bucarest — posa in tutti i settori e Ilfov. Team propri certificati nZEB, preventivo in 48h, garanzia 5 anni.',
     keywords: locale === 'ro' ? 'tamplarie aluminiu bucuresti, montaj tamplarie aluminiu bucuresti, tamplarie aluminiu sector 1 bucuresti, alumil bucuresti, ferestre aluminiu bucuresti, montaj ferestre aluminiu bucuresti, tamplarie aluminiu ilfov, ferestre aluminiu voluntari pipera otopeni'
             : 'aluminium windows Bucharest, aluminium window installation Bucharest, Alumil Bucharest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },

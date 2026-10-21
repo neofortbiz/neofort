@@ -173,7 +173,7 @@ export const PRODUCT_META = {
     desc: {
       ro: 'Sistem cu barieră termică poliamidă 40 mm. Uf de la 0,86 W/m²K, 42 dB, RC3 standard. Tâmplărie aluminiu montată în București și Ilfov.',
       en: 'System with a 40 mm polyamide thermal barrier. Uf from 0.86 W/m²K, 42 dB, RC3 as standard. Aluminium joinery fitted in Bucharest and Ilfov.',
-      de: 'Aluminiumfenster und -türen mit 40 mm Polyamid-Wärmedämmbrücke. Uf ab 0,86 W/m²K, 42 dB, serienmäßig RC3. Montage in Bukarest und Ilfov.',
+      de: 'Aluminiumfenster und -türen mit 40 mm thermischer Trennung aus Polyamid. Uf ab 0,86 W/m²K, 42 dB, serienmäßig RC3. Montage in Bukarest und Ilfov.',
       fr: 'Système de fenêtres et portes à rupture thermique polyamide 40 mm. Uf dès 0,86 W/m²K, 42 dB, RC3 de série. Pose à Bucarest et Ilfov.',
       es: 'Sistema de ventanas y puertas con barrera térmica de poliamida de 40 mm. Uf desde 0,86 W/m²K, 42 dB, RC3 de serie. Montaje en Bucarest.',
       it: 'Sistema di finestre e porte con taglio termico in poliammide 40 mm. Uf da 0,86 W/m²K, 42 dB, RC3 di serie. Infissi posati a Bucarest.',
@@ -230,7 +230,7 @@ export const PRODUCT_META = {
     desc: {
       ro: 'Sistem accesibil cu barieră termică 28 mm și perii tri-fin. Uf de la 2,9 W/m²K, 38 dB, RC2. Uși glisante aluminiu montate în București.',
       en: 'Accessible system with a 28 mm thermal barrier and tri-fin brushes. Uf from 2.9 W/m²K, 38 dB, RC2. Aluminium sliding doors fitted in Bucharest.',
-      de: 'Zugängliches Hebeschiebe-System mit 28 mm Wärmedämmbrücke und Tri-Fin-Bürsten. Uf ab 2,9 W/m²K, 38 dB, RC2. Montage in Bukarest.',
+      de: 'Preisgünstiges Hebeschiebe-System mit 28 mm thermischer Trennung und Tri-Fin-Bürsten. Uf ab 2,9 W/m²K, 38 dB, RC2. Montage in Bukarest.',
       fr: 'Porte coulissante à rupture thermique 28 mm et brosses tri-fin. Uf dès 2,9 W/m²K, 38 dB, RC2. Menuiserie aluminium posée à Bucarest.',
       es: 'Puerta corredera con barrera térmica de 28 mm y cepillos tri-fin. Uf desde 2,9 W/m²K, 38 dB, RC2. Carpintería de aluminio en Bucarest.',
       it: 'Porta scorrevole con taglio termico 28 mm e spazzole tri-fin. Uf da 2,9 W/m²K, 38 dB, RC2. Infissi in alluminio posati a Bucarest.',
@@ -268,7 +268,7 @@ export const PRODUCT_META = {
     desc: {
       ro: 'Uși pliante accesibile pentru terase, 2–6 foi, până la 5000 mm, barieră 18 mm. Uf de la 1,9 W/m²K, PAS24. Montaj în București și Ilfov.',
       en: 'Accessible bi-fold folding system for terraces, 2–6 panels, up to 5000 mm, 18 mm thermal break. Uf from 1.9 W/m²K, PAS24. Fitted in Bucharest.',
-      de: 'Zugängliches Faltsystem mit Falttüren für Terrassen, 2–6 Flügel, bis 5000 mm, 18 mm Wärmedämmung. Uf ab 1,9 W/m²K, PAS24. Bukarest.',
+      de: 'Preisgünstiges Faltsystem mit Falttüren für Terrassen, 2–6 Flügel, bis 5000 mm, 18 mm Wärmedämmung. Uf ab 1,9 W/m²K, PAS24. Bukarest.',
       fr: 'Système pliant accessible pour terrasses, 2 à 6 vantaux, jusqu’à 5000 mm, rupture 18 mm. Uf dès 1,9 W/m²K, PAS24. Pose à Bucarest.',
       es: 'Sistema plegable accesible para terrazas, 2–6 hojas, hasta 5000 mm, rotura térmica 18 mm. Uf desde 1,9 W/m²K, PAS24. En Bucarest.',
       it: 'Sistema pieghevole accessibile per terrazze, 2–6 ante, fino a 5000 mm, taglio termico 18 mm. Uf da 1,9 W/m²K, PAS24. Posa a Bucarest.',

@@ -26,6 +26,7 @@ const PRICES_SLUGS = {
 const UI = {
   ro: {
     h1: 'Ghid Complet Sisteme nZEB 2026 — Ferestre eficiente energetic pentru case cu consum aproape zero',
+    seo_title: 'Ghid Sisteme nZEB 2026 — Ferestre eficiente',
     sub: 'Ghid nZEB pentru ferestre: profilul BluEvolution 92, geam tripan Saint-Gobain, distanțier Warm Edge, precadre Blaugelb și montaj RAL în trei straturi.',
     breadcrumb: 'Ghid complet',
     parent_label: 'Sisteme nZEB',
@@ -62,6 +63,7 @@ const UI = {
   },
   en: {
     h1: 'Complete nZEB Systems Guide 2026 — Energy Efficient Windows for Nearly Zero Energy Buildings',
+    seo_title: 'nZEB Systems Guide 2026 — Efficient Windows',
     sub: 'nZEB window guide: BluEvolution 92 profile, Saint-Gobain triple glazing, Warm Edge spacer, Blaugelb precasings and three-layer RAL installation.',
     breadcrumb: 'Complete Guide',
     parent_label: 'nZEB Systems',
@@ -98,6 +100,7 @@ const UI = {
   },
   de: {
     h1: 'Kompletter nZEB-Ratgeber 2026 — Energieeffiziente Fenster für Niedrigstenergiehäuser',
+    seo_title: 'nZEB-Ratgeber 2026 — Energieeffiziente Fenster',
     sub: 'nZEB-Ratgeber für Fenster: Profil BluEvolution 92, Saint-Gobain Dreifachverglasung, Warm-Edge-Abstandhalter, Blaugelb-Montagerahmen und RAL-Montage.',
     breadcrumb: 'Kompletter Ratgeber',
     parent_label: 'nZEB-Systeme',
@@ -134,6 +137,7 @@ const UI = {
   },
   fr: {
     h1: 'Guide complet systèmes nZEB 2026 — Menuiseries pour bâtiments à énergie quasi nulle',
+    seo_title: 'Guide systèmes nZEB 2026 — Fenêtres efficaces',
     sub: 'Guide nZEB des fenêtres : profilé BluEvolution 92, triple vitrage Saint-Gobain, intercalaire Warm Edge, précadres Blaugelb et pose RAL en trois couches.',
     breadcrumb: 'Guide complet',
     parent_label: 'Systèmes nZEB',
@@ -170,6 +174,7 @@ const UI = {
   },
   es: {
     h1: 'Guía completa sistemas nZEB 2026 — Ventanas eficientes para edificios de consumo casi nulo',
+    seo_title: 'Guía sistemas nZEB 2026 — Ventanas eficientes',
     sub: 'Guía nZEB de ventanas: perfil BluEvolution 92, triple acristalamiento Saint-Gobain, separador Warm Edge, premarcos Blaugelb e instalación RAL en tres capas.',
     breadcrumb: 'Guía completa',
     parent_label: 'Sistemas nZEB',
@@ -206,6 +211,7 @@ const UI = {
   },
   it: {
     h1: 'Guida completa sistemi nZEB 2026 — Infissi efficienti per edifici a energia quasi zero',
+    seo_title: 'Guida sistemi nZEB 2026 — Infissi efficienti',
     sub: 'Guida nZEB per finestre: profilo BluEvolution 92, triplo vetro Saint-Gobain, distanziatore Warm Edge, precontrotelai Blaugelb e posa RAL a tre strati.',
     breadcrumb: 'Guida completa',
     parent_label: 'Sistemi nZEB',
@@ -282,12 +288,12 @@ const BLOG_LINKS = {
 };
 
 const WA_URLS = {
-  ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20sisteme%20nZEB.',
-  en: 'https://wa.me/40752443435?text=Hello%21%20Quote%20for%20nZEB%20systems.',
-  de: 'https://wa.me/40752443435?text=Hallo%21%20Angebot%20fur%20nZEB-Systeme.',
-  fr: 'https://wa.me/40752443435?text=Bonjour%21%20Devis%20systemes%20nZEB.',
-  es: 'https://wa.me/40752443435?text=Hola%21%20Presupuesto%20sistemas%20nZEB.',
-  it: 'https://wa.me/40752443435?text=Buongiorno%21%20Preventivo%20sistemi%20nZEB.',
+  ro: 'https://wa.me/40752443435?text=' + encodeURIComponent('Bună ziua! Doresc o ofertă pentru sisteme nZEB.'),
+  en: 'https://wa.me/40752443435?text=' + encodeURIComponent('Hello! I would like a quote for nZEB systems.'),
+  de: 'https://wa.me/40752443435?text=' + encodeURIComponent('Guten Tag! Ich hätte gern ein Angebot für nZEB-Systeme.'),
+  fr: 'https://wa.me/40752443435?text=' + encodeURIComponent('Bonjour ! Je souhaite un devis pour des systèmes nZEB.'),
+  es: 'https://wa.me/40752443435?text=' + encodeURIComponent('¡Hola! Quisiera un presupuesto para sistemas nZEB.'),
+  it: 'https://wa.me/40752443435?text=' + encodeURIComponent('Buongiorno! Vorrei un preventivo per sistemi nZEB.'),
 };
 const WA_LABELS = {
   ro: 'WhatsApp',
@@ -328,7 +334,7 @@ export async function generateMetadata({ params }) {
   const slug = SLUGS[locale] || SLUGS.ro;
   const canonical = `${BASE}/${locale}/${slug}`;
   return {
-    title: `${ui.h1} | Neofort BIZ`,
+    title: `${ui.seo_title || ui.h1} | Neofort BIZ`,
     description: ui.sub,
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {

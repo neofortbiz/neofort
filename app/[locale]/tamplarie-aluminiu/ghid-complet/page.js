@@ -26,6 +26,7 @@ const PRICES_SLUGS = {
 const UI = {
   ro: {
     h1: 'Ghid Complet Tâmplărie Aluminiu 2026 — Tot ce trebuie să știi despre sistemele Alumil',
+    seo_title: 'Ghid Complet Tâmplărie Aluminiu 2026 — Alumil',
     sub: 'Ghid tehnic despre tâmplăria din aluminiu Alumil: sistemele Smartia și Supreme, bariera termică, uși liftant-glisante și armonice, alegerea pentru nZEB.',
     breadcrumb: 'Ghid complet',
     parent_label: 'Tâmplărie aluminiu',
@@ -62,6 +63,7 @@ const UI = {
   },
   en: {
     h1: 'Complete Aluminium Window Guide 2026 — Everything About Alumil Systems',
+    seo_title: 'Complete Aluminium Window Guide 2026 — Alumil',
     sub: 'Technical guide to Alumil aluminium windows: Smartia and Supreme systems, thermal breaks, lift-and-slide and folding doors, and choosing for nZEB.',
     breadcrumb: 'Complete Guide',
     parent_label: 'Aluminium Windows',
@@ -98,6 +100,7 @@ const UI = {
   },
   de: {
     h1: 'Kompletter Aluminiumfenster-Ratgeber 2026 — Alles über Alumil-Systeme',
+    seo_title: 'Aluminiumfenster-Ratgeber 2026 — Alumil',
     sub: 'Technischer Ratgeber zu Alumil-Aluminiumfenstern: Smartia- und Supreme-Systeme, thermische Trennung, Hebeschiebe- und Falttüren, Auswahl für nZEB.',
     breadcrumb: 'Kompletter Ratgeber',
     parent_label: 'Aluminiumfenster',
@@ -134,6 +137,7 @@ const UI = {
   },
   fr: {
     h1: 'Guide complet menuiserie aluminium 2026 — Tout sur les systèmes Alumil',
+    seo_title: 'Guide complet menuiserie aluminium Alumil 2026',
     sub: 'Guide technique de la menuiserie aluminium Alumil : systèmes Smartia et Supreme, rupture thermique, portes levantes-coulissantes et pliantes, choix nZEB.',
     breadcrumb: 'Guide complet',
     parent_label: 'Menuiserie aluminium',
@@ -170,6 +174,7 @@ const UI = {
   },
   es: {
     h1: 'Guía completa carpintería aluminio 2026 — Todo sobre los sistemas Alumil',
+    seo_title: 'Guía completa carpintería aluminio Alumil 2026',
     sub: 'Guía técnica de la carpintería de aluminio Alumil: sistemas Smartia y Supreme, rotura de puente térmico, puertas elevables y plegables, elección nZEB.',
     breadcrumb: 'Guía completa',
     parent_label: 'Carpintería de aluminio',
@@ -206,6 +211,7 @@ const UI = {
   },
   it: {
     h1: 'Guida completa infissi alluminio 2026 — Tutto sui sistemi Alumil',
+    seo_title: 'Guida completa infissi alluminio 2026 — Alumil',
     sub: 'Guida tecnica ai serramenti in alluminio Alumil: sistemi Smartia e Supreme, taglio termico, alzanti scorrevoli e porte a libro, scelta per l\'nZEB.',
     breadcrumb: 'Guida completa',
     parent_label: 'Infissi in alluminio',
@@ -282,12 +288,12 @@ const BLOG_LINKS = {
 };
 
 const WA_URLS = {
-  ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20tamplarie%20aluminiu%20Alumil.',
-  en: 'https://wa.me/40752443435?text=Hello%21%20Quote%20for%20Alumil%20aluminium%20windows.',
-  de: 'https://wa.me/40752443435?text=Hallo%21%20Angebot%20fur%20Alumil%20Aluminiumfenster.',
-  fr: 'https://wa.me/40752443435?text=Bonjour%21%20Devis%20menuiserie%20aluminium%20Alumil.',
-  es: 'https://wa.me/40752443435?text=Hola%21%20Presupuesto%20carpinteria%20aluminio%20Alumil.',
-  it: 'https://wa.me/40752443435?text=Buongiorno%21%20Preventivo%20infissi%20alluminio%20Alumil.',
+  ro: 'https://wa.me/40752443435?text=' + encodeURIComponent('Bună ziua! Doresc o ofertă pentru tâmplărie aluminiu Alumil.'),
+  en: 'https://wa.me/40752443435?text=' + encodeURIComponent('Hello! I would like a quote for Alumil aluminium windows.'),
+  de: 'https://wa.me/40752443435?text=' + encodeURIComponent('Guten Tag! Ich hätte gern ein Angebot für Alumil-Aluminiumfenster.'),
+  fr: 'https://wa.me/40752443435?text=' + encodeURIComponent('Bonjour ! Je souhaite un devis pour une menuiserie aluminium Alumil.'),
+  es: 'https://wa.me/40752443435?text=' + encodeURIComponent('¡Hola! Quisiera un presupuesto de carpintería de aluminio Alumil.'),
+  it: 'https://wa.me/40752443435?text=' + encodeURIComponent('Buongiorno! Vorrei un preventivo per infissi in alluminio Alumil.'),
 };
 const WA_LABELS = {
   ro: 'WhatsApp',
@@ -328,7 +334,7 @@ export async function generateMetadata({ params }) {
   const slug = SLUGS[locale] || SLUGS.ro;
   const canonical = `${BASE}/${locale}/${slug}`;
   return {
-    title: `${ui.h1} | Neofort BIZ`,
+    title: `${ui.seo_title || ui.h1} | Neofort BIZ`,
     description: ui.sub,
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {

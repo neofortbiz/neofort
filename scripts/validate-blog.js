@@ -313,6 +313,83 @@ try {
   }
 } catch (e) { warn(`nu am putut verifica duplicatele din routing.js: ${e.message}`); }
 
+
+// ── Garzi v294 — clase de defecte gasite pe 21 oct 2026 ─────────────────────
+// Se ruleaza pe datele executate (ARTICLES) si, pentru termeni interzisi, pe
+// sursele paginilor. Fiecare garda a fost testata negativ: stricat intentionat,
+// confirmat ca pica, restaurat.
+const TEXTE = [];
+ARTICLES.forEach(a => LANGS.forEach(l => {
+  ['title', 'seoTitle', 'metaDesc', 'excerpt', 'content'].forEach(f => {
+    const v = a[f] && a[f][l];
+    if (typeof v === 'string') TEXTE.push({ slug: a.slugs.ro, l, f, v });
+  });
+}));
+const SURSE = (() => {
+  const out = [];
+  const walk = (d) => fs.readdirSync(d, { withFileTypes: true }).forEach(e => {
+    const p = path.join(d, e.name);
+    if (e.isDirectory()) walk(p);
+    else if (/\.(js|json|txt)$/.test(e.name)) out.push(p);
+  });
+  ['app', 'components', 'lib', 'messages'].forEach(d => { if (fs.existsSync(path.join(ROOT, d))) walk(path.join(ROOT, d)); });
+  ['data/productMeta.js', 'data/productFaq.js', 'data/hubFaq.js', 'public/llms.txt'].forEach(f => out.push(path.join(ROOT, f)));
+  return out.map(f => ({ f: path.relative(ROOT, f), v: fs.readFileSync(f, 'utf8') }));
+})();
+const fara = (txt) => txt.split('\n').filter(r => !/^\s*(\/\/|\*|\/\*)/.test(r)).join('\n'); // fara comentarii
+const loc = (v, i) => v.slice(Math.max(0, i - 40), i + 50).replace(/\s+/g, ' ');
+
+// 19. Baza legala nZEB / Uw — v294. In 5 articole x 6 limbi scria ca nZEB e impus
+// de „HG 765/2016" (act inexistent), cu un tabel Uw pe zone climatice inventat si o
+// „limita legala" de 1,0 W/m²K. Corect: Legea 372/2005 + Mc 001-2022, Uw de
+// referinta 1,11 (case noi) / 1,20 (renovari), fara zone.
+{
+  let n = 0;
+  const RE = [
+    [/765\/2016/g, 'act normativ inexistent „765/2016"'],
+    [/(^|\n)\|\s*\**Zon[ae] (I|II|III|IV)\b[^|\n]*\|\s*\**[01][,.]\d\d W/g, 'tabel Uw pe zone climatice (nu exista in Mc 001-2022)'],
+    [/(limit[aăe] legal[aăe]|legal limit|gesetzliche[n]? Grenze|limite légale|límite legal|limite legale|limite di legge)[^.\n]{0,40}\b1[,.]0/gi, '„limita legala" Uw 1,0 (valoarea de referinta e 1,11)'],
+  ];
+  TEXTE.forEach(t => RE.forEach(([re, m]) => { for (const x of t.v.matchAll(re)) { n++; err(`${m} — ${t.slug} [${t.l}/${t.f}]: …${loc(t.v, x.index)}…`); } }));
+  SURSE.forEach(s => { for (const x of fara(s.v).matchAll(/765\/2016/g)) { n++; err(`act normativ inexistent „765/2016" — ${s.f}`); } });
+  console.log(`  Baza legala nZEB / Uw: ${n} probleme`);
+}
+
+// 20. Majuscula la inceput — v294. La scoaterea lui „gratuit" (v289) au ramas 23 de
+// etichete, titluri si linkuri care incepeau cu litera mica. Exceptii legitime:
+// cuvinte cu majuscula interioara (nZEB, evolutionDrive) si enumerari „a)".
+{
+  let n = 0;
+  const ok = (w) => /\p{Lu}/u.test(w) || /^\p{Ll}\)$/u.test(w);
+  const RE = [
+    [/[.!?] \[(\p{Ll}[^\]\s]*)/gu, 'link la inceput de propozitie'],
+    [/(?:^|\n)#{2,4} +(\p{Ll}\S*)/gu, 'titlu'],
+    [/(?:^|\n)\d+\. \*\*(\p{Ll}[^*\s]*)/gu, 'element de lista'],
+  ];
+  TEXTE.filter(t => t.f === 'content').forEach(t => RE.forEach(([re, m]) => {
+    for (const x of t.v.matchAll(re)) if (!ok(x[1])) { n++; err(`${m} cu litera mica — ${t.slug} [${t.l}]: …${loc(t.v, x.index)}…`); }
+  }));
+  console.log(`  Majuscule la inceput (titluri, liste, linkuri): ${n} probleme`);
+}
+
+// 21. „gratuit" interzis in copy — regula proiectului, aplicata in v288/v289.
+{
+  let n = 0;
+  const RE = /\b(gratuit[aăe]?|gratuite?s?|gratuito?s?|gratis|kostenlos\w*|free (quote|consultation|on-site|measurement|assessment|survey|estimate))\b/giu;
+  TEXTE.forEach(t => { for (const x of t.v.matchAll(RE)) { n++; err(`„${x[0]}" in copy — ${t.slug} [${t.l}/${t.f}]`); } });
+  SURSE.forEach(s => { for (const x of fara(s.v).matchAll(RE)) { n++; err(`„${x[0]}" in copy — ${s.f}`); } });
+  console.log(`  Cuvantul „gratuit" (si echivalente) in copy: ${n} aparitii`);
+}
+
+// 22. Termen german nestandard — v294. „Wärmedämmbrücke" (76 de aparitii) inlocuit
+// cu „thermische Trennung", termenul folosit de ift Rosenheim si de producatori.
+{
+  let n = 0;
+  TEXTE.forEach(t => { if (t.v.includes('Wärmedämmbrücke')) { n++; err(`„Wärmedämmbrücke" — ${t.slug} [${t.l}/${t.f}] (corect: thermische Trennung)`); } });
+  SURSE.forEach(s => { if (fara(s.v).includes('Wärmedämmbrücke')) { n++; err(`„Wärmedämmbrücke" — ${s.f} (corect: thermische Trennung)`); } });
+  console.log(`  Termenul „Wärmedämmbrücke": ${n} aparitii`);
+}
+
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }
 console.log(errors === 0 && warnings === 0 ? 'Totul perfect. Safe de commit.\n' : 'Fara erori blocante. Safe de commit (verifica avertismentele).\n');

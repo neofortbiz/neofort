@@ -77,22 +77,22 @@ export const ARTICLES = [
     content: {
       ro: `## Ce este standardul nZEB în România și de ce ferestrele sunt critice
 
-**nZEB (Nearly Zero Energy Building)** este standardul obligatoriu impus prin Legea 372/2005 modificată și HG 765/2016. Cerință: consum de energie primară ≤ 100 kWh/m²/an, aplicabil tuturor construcțiilor noi din 2021.
+**nZEB (Nearly Zero Energy Building)** este standardul obligatoriu impus prin Legea 372/2005 privind performanța energetică a clădirilor, cu metodologia de calcul Mc 001-2022. Cerință: consum de energie primară ≤ 100 kWh/m²/an, aplicabil construcțiilor noi cu autorizație de construire emisă din 31 decembrie 2020.
 
 Într-o casă cu pereți izolați la 20 cm (U = 0,20 W/m²K), ferestrele reprezintă principala sursă de pierderi termice — de 3-4 ori mai mult per m² decât peretele. La o casă cu 15% din suprafața anvelopei vitrată, ferestrele pot reprezenta **40-50% din pierderile totale**.
 
 ## Secțiunea 1 — Valorile tehnice minime pentru ferestre nZEB
 
-### Coeficientul Uw — praguri obligatorii
+### Coeficientul Uw — valori de referință
 
-| Zonă climatică | Uw maxim admis | Aplicabilitate |
+| Tip de clădire | Uw maxim recomandat | Sursa |
 |---|---|---|
-| Zona I (câmpie, coastal) | 1,10 W/(m²K) | Sud-Est, Dobrogea |
-| **Zona II (București, Ilfov)** | **1,00 W/(m²K)** | Muntenia, Oltenia |
-| Zona III (deal, munte) | 0,85 W/(m²K) | Transilvania, Moldova |
-| Zona IV (munte înalt) | 0,70 W/(m²K) | Carpați |
+| Clădire rezidențială nouă (nZEB) | 1,11 W/(m²K) | Mc 001-2022 |
+| Renovarea unei clădiri existente | 1,20 W/(m²K) | Mc 001-2022 |
+| Clădire nerezidențială nouă | 1,20 W/(m²K) | Mc 001-2022 |
+| Uși exterioare | 1,30 W/(m²K) | Mc 001-2022 |
 
-**Recomandare practică:** Uw ≤ 0,85 W/(m²K) pentru București — cu marjă de 15% față de limita legală.
+**Recomandare practică:** Uw ≤ 0,85 W/(m²K) pentru o casă nZEB în București — o marjă clară față de valoarea de referință de 1,11.
 
 ### Toți parametrii tehnici pentru ferestre nZEB
 
@@ -139,7 +139,7 @@ Suprafață vitrată: 18 m² | ΔT = 20°C | Ore sezon rece: 3.500 h
 
 **Alumil S77 Supreme:**
 - 77 mm, rupere de punte termică 34 mm poliamidă, Uf = 1,3 W/(m²K)
-- Uw cu tripan 44 mm: **1,0-1,15 W/(m²K)** — la limita nZEB Zona II
+- Uw cu tripan 44 mm: **1,0-1,15 W/(m²K)** — în jurul valorii de referință de 1,11
 
 **Limitare:** Aluminiul standard nu poate atinge Uw ≤ 0,85 W/(m²K) — marja recomandată.
 
@@ -204,13 +204,13 @@ Cel mai performant profil pierde **30-50% din eficiență** cu montaj greșit. S
 ## FAQ complet — Ferestre nZEB România
 
 ### Ce Uw trebuie pentru nZEB?
-Normative românești (HG 765/2016): Uw ≤ 1,0 W/(m²K) pentru Zona II (București, Ilfov). Recomandare Neofort BIZ: Uw ≤ 0,85 W/(m²K) cu marjă de siguranță.
+Metodologia Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K) pentru ferestrele clădirilor rezidențiale noi și Uw ≤ 1,20 W/(m²K) la renovări. Recomandare Neofort BIZ: Uw ≤ 0,85 W/(m²K) cu marjă de siguranță.
 
 ### Sunt obligatorii ferestrele tripan pentru nZEB?
-Nu există obligație legală explicită pentru tripan. Obligatorie este atingerea Uw ≤ 1,0 W/(m²K). Tripanul (Ug=0,5) oferă marjă de siguranță și performanță superioară față de limita legală.
+Nu există obligație legală explicită pentru tripan. Conformarea nZEB se verifică pe performanța energetică a întregii clădiri, iar pentru ferestre Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K). Tripanul (Ug=0,5) oferă marjă de siguranță și performanță superioară.
 
 ### Ce profile sunt cele mai bune pentru nZEB în România?
-Salamander bluEvolution 92 (Uf=0,95 W/m²K) + tripan 44 mm Saint-Gobain + Warm Edge = Uw=0,72 — cu 28% sub limita legală.
+Salamander bluEvolution 92 (Uf=0,95 W/m²K) + tripan 44 mm Saint-Gobain + Warm Edge = Uw=0,72 — cu 35% sub valoarea de referință din Mc 001-2022.
 
 ### Contează montajul?
 Enorm. Fără benzi precomprimate și cu punte termică la glaf, Uw efectiv poate ajunge la 1,2-1,4 W/(m²K) din cauza infiltrațiilor. Montajul RAL cu 3 zone este esențial.
@@ -235,7 +235,7 @@ Ordinea corectă de priorități pentru ferestre nZEB:
 2. **Profil:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
 3. **Montaj:** benzi precomprimate + 3 zone etanșare
 4. **Precadre** (opțional): Blaugelb Triotherm+ → elimini puntea termică la glaf
-5. **Rezultat:** Uw = 0,72 W/(m²K) — cu 28% sub limita legală
+5. **Rezultat:** Uw = 0,72 W/(m²K) — cu 35% sub valoarea de referință de 1,11
 
 Casă nZEB cu consum ≤ 100 kWh/m²/an, facturi reduse cu 40-60%, confort garantat 40+ ani.
 
@@ -251,7 +251,7 @@ Standardul european evoluează: din 2030 reperul devine ZEB, nu nZEB. Ce se schi
 Neofort BIZ — specialist în ferestre nZEB în București și Ilfov. [Solicită consultanță tehnică](/ro/contact). Vezi [sistemele nZEB](/ro/sisteme-nzeb) pe care le oferim. Pagini utile: [ghidul complet al sistemelor nZEB](/ro/sisteme-nzeb/ghid-complet-nzeb) și [precadrele Blaugelb Triotherm+](/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus).`,
       en: `## What is the nZEB Standard in Romania and Why Are Windows Critical?
 
-**nZEB (Nearly Zero Energy Building)** is the mandatory standard imposed by Directive 2010/31/EU on the energy performance of buildings (EPBD) and transposed into Romanian law through Law 372/2005 as amended and HG 765/2016.
+**nZEB (Nearly Zero Energy Building)** is the mandatory standard introduced by Directive 2010/31/EU on the energy performance of buildings (EPBD) and transposed into Romanian law through Law 372/2005, with the Mc 001-2022 calculation methodology.
 
 **What nZEB specifically requires:**
 - Primary energy consumption: ≤ 100 kWh/m²/year
@@ -263,18 +263,18 @@ In a house with walls insulated to 20 cm (U = 0.20 W/m²K) and roof at 30 cm (U 
 
 ## Section 1 — Minimum Technical Values for nZEB Windows
 
-### Uw Coefficient — Mandatory Thresholds
+### Uw Coefficient — Reference Values
 
-According to NP 048/2000 updated and SR EN ISO 10077:
+According to the Mc 001-2022 methodology (MDLPA Order 16/2023):
 
-| Climate Zone | Maximum Uw permitted | Applicability |
+| Building type | Maximum recommended Uw | Source |
 |---|---|---|
-| Zone I (lowland, coastal) | 1.10 W/(m²K) | South-East, Dobrogea |
-| **Zone II (Bucharest, Ilfov)** | **1.00 W/(m²K)** | Muntenia, Oltenia |
-| Zone III (hills, mountains) | 0.85 W/(m²K) | Transylvania, Moldova |
-| Zone IV (high mountains) | 0.70 W/(m²K) | Carpathians |
+| New residential building (nZEB) | 1.11 W/(m²K) | Mc 001-2022 |
+| Renovation of an existing building | 1.20 W/(m²K) | Mc 001-2022 |
+| New non-residential building | 1.20 W/(m²K) | Mc 001-2022 |
+| Exterior doors | 1.30 W/(m²K) | Mc 001-2022 |
 
-**Practical recommendation for nZEB:** Uw ≤ 0.85 W/(m²K) for Zone II (Bucharest) — with a 15% margin against the legal limit of 1.0 W/(m²K).
+**Practical recommendation for nZEB:** Uw ≤ 0.85 W/(m²K) for a house in Bucharest — a clear margin below the 1.11 reference value.
 
 ### Complete Technical Parameters for nZEB Windows
 
@@ -332,7 +332,7 @@ According to NP 048/2000 updated and SR EN ISO 10077:
 **Alumil S77 Supreme:**
 - 77 mm depth, 34 mm polyamide thermal break
 - Uf = 1.3 W/(m²K)
-- Uw with 44 mm triple glazing: **1.0-1.15 W/(m²K)** — at Zone II nZEB limit
+- Uw with 44 mm triple glazing: **1.0-1.15 W/(m²K)** — around the 1.11 reference value
 
 **Important limitation:** Standard aluminium cannot achieve Uw ≤ 0.85 W/(m²K) — the recommended margin for nZEB.
 
@@ -436,13 +436,13 @@ Preframes are available as a separate option and recommended for projects needin
 ## Complete FAQ — nZEB Windows Romania
 
 ### What Uw is required for nZEB?
-Romanian standards: Uw ≤ 1.0 W/(m²K) for Climate Zone II (Bucharest, Ilfov). **Neofort BIZ recommendation:** Uw ≤ 0.85 W/(m²K) with safety margin.
+The Mc 001-2022 methodology recommends Uw ≤ 1.11 W/(m²K) for windows in new residential buildings and Uw ≤ 1.20 W/(m²K) for renovations. **Neofort BIZ recommendation:** Uw ≤ 0.85 W/(m²K) with safety margin.
 
 ### Is triple glazing mandatory for nZEB?
-There is no explicit legal obligation for triple glazing. Mandatory is achieving Uw ≤ 1.0 W/(m²K). In practice, Uw ≤ 1.0 is achievable with modern double (Ug=1.0) + good PVC profile, but only marginally. Triple glazing (Ug=0.5) provides safety margin and superior performance.
+There is no explicit legal obligation for triple glazing. nZEB compliance is assessed on the energy performance of the whole building, and for windows Mc 001-2022 recommends Uw ≤ 1.11 W/(m²K). This is achievable with modern double glazing (Ug=1.0) and a good PVC profile, but only marginally. Triple glazing (Ug=0.5) provides safety margin and superior performance.
 
 ### What profiles are best for nZEB in Romania?
-Salamander bluEvolution 92 (Uf=0.95 W/m²K) is the leading PVC performance available in Romania. Together with 44 mm Saint-Gobain triple + Warm Edge achieves Uw=0.72 — 28% below the legal limit.
+Salamander bluEvolution 92 (Uf=0.95 W/m²K) is the leading PVC performance available in Romania. Together with 44 mm Saint-Gobain triple + Warm Edge achieves Uw=0.72 — 35% below the Mc 001-2022 reference value.
 
 ### Does installation matter?
 Enormously. A bluEvolution 92 profile installed without pre-compressed bands and with thermal bridge at the sill can reach an effective Uw of 1.2-1.4 W/(m²K) due to infiltration and interstitial condensation — double the technical specification. RAL installation with 3 sealing zones is essential.
@@ -467,7 +467,7 @@ Choosing windows for an nZEB house in Romania is not complicated if you follow t
 2. **Then the profile:** Salamander bluEvolution 92 → Uf = 0.95 W/(m²K)
 3. **Installation:** pre-compressed bands + 3 sealing zones → eliminate 30-50% losses through infiltration
 4. **Preframes** (optional but recommended): Blaugelb Triotherm+ → eliminate thermal bridge at sill
-5. **Verification:** Calculated Uw = 0.72 W/(m²K) → 28% below legal limit
+5. **Verification:** Calculated Uw = 0.72 W/(m²K) → 35% below the 1.11 reference value
 
 Result: nZEB house with consumption ≤ 100 kWh/m²/year, energy bills reduced 40-60% vs standard construction, thermal comfort guaranteed for 40+ years.
 
@@ -485,7 +485,7 @@ We covered the safety of modern PVC separately, with data from the technical lit
 Neofort BIZ — nZEB window specialist in Bucharest and Ilfov. [Request technical consultation for your nZEB project](/en/contact). See [the nZEB systems](/en/nzeb-systems) we offer. Useful pages: [the complete nZEB systems guide](/en/nzeb-systems/complete-guide) and [Blaugelb Triotherm+ precasings](/en/nzeb-systems/blaugelb-triotherm-plus-precasings).`,
       de: `## Was ist der nZEB-Standard in Rumänien und warum sind Fenster entscheidend?
 
-**nZEB (Nearly Zero Energy Building)** ist der gemäß Richtlinie 2010/31/EU (EPBD) und dem rumänischen Gesetz 372/2005 sowie HG 765/2016 vorgeschriebene Pflichtstandard.
+**nZEB (Nearly Zero Energy Building)** ist der gemäß Richtlinie 2010/31/EU (EPBD) und dem rumänischen Gesetz 372/2005 vorgeschriebene Pflichtstandard; berechnet wird nach der Methodik Mc 001-2022.
 
 **Was nZEB konkret fordert:**
 - Primärenergieverbrauch: ≤ 100 kWh/m²/Jahr
@@ -497,16 +497,16 @@ In einem Haus mit Wänden bei 20 cm Dämmung (U = 0,20 W/m²K) und Dach bei 30 c
 
 ## Abschnitt 1 — Technische Mindestwerte für nZEB-Fenster
 
-### Uw-Koeffizient — Obligatorische Schwellenwerte
+### Uw-Koeffizient — Referenzwerte
 
-| Klimazone | Maximaler Uw zulässig | Anwendung |
+| Gebäudetyp | Empfohlener maximaler Uw | Quelle |
 |---|---|---|
-| Zone I (Tiefland, Küste) | 1,10 W/(m²K) | Südost, Dobrudscha |
-| **Zone II (Bukarest, Ilfov)** | **1,00 W/(m²K)** | Muntenien, Oltenien |
-| Zone III (Hügel, Berge) | 0,85 W/(m²K) | Siebenbürgen, Moldau |
-| Zone IV (Hochgebirge) | 0,70 W/(m²K) | Karpaten |
+| Neues Wohngebäude (nZEB) | 1,11 W/(m²K) | Mc 001-2022 |
+| Sanierung eines Bestandsgebäudes | 1,20 W/(m²K) | Mc 001-2022 |
+| Neues Nichtwohngebäude | 1,20 W/(m²K) | Mc 001-2022 |
+| Außentüren | 1,30 W/(m²K) | Mc 001-2022 |
 
-**Praktische Empfehlung für nZEB:** Uw ≤ 0,85 W/(m²K) für Zone II (Bukarest) — mit 15% Sicherheitsreserve gegenüber der gesetzlichen Grenze von 1,0 W/(m²K).
+**Praktische Empfehlung für nZEB:** Uw ≤ 0,85 W/(m²K) für ein Haus in Bukarest — mit deutlicher Reserve zum Referenzwert von 1,11.
 
 ### Vollständige technische Parameter für nZEB-Fenster
 
@@ -558,11 +558,11 @@ In einem Haus mit Wänden bei 20 cm Dämmung (U = 0,20 W/m²K) und Dach bei 30 c
 - 6 Kammern, 82 mm, Uf = 1,0 W/(m²K)
 - Uw mit 44 mm Dreifach: **0,80-0,88 W/(m²K)** — marginales nZEB
 
-### Aluminium mit Wärmedämmbrücke — nZEB mit Premium-Design
+### Aluminium mit thermischer Trennung — nZEB mit Premium-Design
 
 **Alumil S77 Supreme:**
-- 77 mm, 34 mm Polyamid-Wärmedämmbrücke, Uf = 1,3 W/(m²K)
-- Uw mit 44 mm Dreifach: **1,0-1,15 W/(m²K)** — an der nZEB Zone II Grenze
+- 77 mm, 34 mm thermische Trennung aus Polyamid, Uf = 1,3 W/(m²K)
+- Uw mit 44 mm Dreifach: **1,0-1,15 W/(m²K)** — im Bereich des Referenzwerts von 1,11
 
 **Wichtige Einschränkung:** Standard-Aluminium kann Uw ≤ 0,85 W/(m²K) nicht erreichen.
 
@@ -632,13 +632,13 @@ Das leistungsstärkste Profil verliert **30-50% seiner Effizienz** bei falscher 
 ## Vollständiges FAQ — nZEB-Fenster Rumänien
 
 ### Welcher Uw ist für nZEB erforderlich?
-Rumänische Normen: Uw ≤ 1,0 W/(m²K) für Klimazone II (Bukarest, Ilfov). **Neofort BIZ Empfehlung:** Uw ≤ 0,85 W/(m²K) mit Sicherheitsreserve.
+Die Methodik Mc 001-2022 empfiehlt Uw ≤ 1,11 W/(m²K) für Fenster in neuen Wohngebäuden und Uw ≤ 1,20 W/(m²K) bei Sanierungen. **Neofort BIZ Empfehlung:** Uw ≤ 0,85 W/(m²K) mit Sicherheitsreserve.
 
 ### Ist Dreifachverglasung für nZEB obligatorisch?
-Es gibt keine ausdrückliche gesetzliche Verpflichtung für Dreifachverglasung. Obligatorisch ist das Erreichen von Uw ≤ 1,0 W/(m²K). In der Praxis ist Uw ≤ 1,0 mit modernem Zweifach + gutem PVC-Profil möglich, aber nur knapp. Dreifachverglasung (Ug=0,5) bietet Sicherheitsreserve und überlegene Leistung.
+Es gibt keine ausdrückliche gesetzliche Verpflichtung für Dreifachverglasung. Die nZEB-Konformität wird an der Energieeffizienz des gesamten Gebäudes gemessen; für Fenster empfiehlt Mc 001-2022 Uw ≤ 1,11 W/(m²K). Das ist mit modernem Zweifach + gutem PVC-Profil möglich, aber nur knapp. Dreifachverglasung (Ug=0,5) bietet Sicherheitsreserve und überlegene Leistung.
 
 ### Welche Profile sind die besten für nZEB in Rumänien?
-Salamander bluEvolution 92 (Uf=0,95 W/m²K) ist der führende PVC-Leistungsanbieter in Rumänien. Mit 44 mm Saint-Gobain Dreifach + Warm Edge erreicht es Uw=0,72 — 28% unter der gesetzlichen Grenze.
+Salamander bluEvolution 92 (Uf=0,95 W/m²K) ist der führende PVC-Leistungsanbieter in Rumänien. Mit 44 mm Saint-Gobain Dreifach + Warm Edge erreicht es Uw=0,72 — 35% unter dem Referenzwert von Mc 001-2022.
 
 ### Spielt die Montage eine Rolle?
 Enorm. Ein bluEvolution 92 Profil ohne vorkomprimierte Bänder und mit Wärmebrücke am Fensterbrett kann durch Infiltration und Tauwasserausfall einen effektiven Uw von 1,2-1,4 W/(m²K) erreichen — doppelt so hoch wie die technische Spezifikation. RAL-Montage mit 3 Dichtungszonen ist unerlässlich.
@@ -663,7 +663,7 @@ Die richtige Prioritätsreihenfolge für nZEB-Fenster:
 2. **Dann das Profil:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
 3. **Die Montage:** vorkomprimierte Bänder + 3 Dichtungszonen
 4. **Vorblendrahmen** (optional aber empfohlen): Blaugelb Triotherm+
-5. **Ergebnis:** Uw = 0,72 W/(m²K) — 28% unter der gesetzlichen Grenze
+5. **Ergebnis:** Uw = 0,72 W/(m²K) — 35% unter dem Referenzwert von 1,11
 
 Ergebnis: nZEB-Haus mit ≤ 100 kWh/m²/Jahr, Energierechnungen um 40-60% reduziert, Wärmekomfort auf 40+ Jahre garantiert.
 
@@ -681,7 +681,7 @@ Der europäische Standard entwickelt sich weiter: Ab 2030 gilt ZEB statt nZEB al
 Neofort BIZ — nZEB-Fensterspezialist in Bukarest und Ilfov. [Technisches Beratungsgespräch für Ihr nZEB-Projekt](/de/kontakt). Sehen Sie [die nZEB-Systeme](/de/nzeb-systeme), die wir anbieten. Nützliche Seiten: [Ratgeber nZEB-Systeme](/de/nzeb-systeme/kompletter-ratgeber) und [Blaugelb Triotherm+ RAL-Montagesystem](/de/nzeb-systeme/blaugelb-triotherm-plus-vorfenster).`,
       fr: `## Qu'est-ce que la norme nZEB en Roumanie et pourquoi les fenêtres sont-elles critiques ?
 
-**nZEB (Nearly Zero Energy Building)** est la norme obligatoire imposée par la Directive 2010/31/UE sur la performance énergétique des bâtiments (DPEB) et transposée dans la législation roumaine par la Loi 372/2005 modifiée et le HG 765/2016.
+**nZEB (Nearly Zero Energy Building)** est la norme obligatoire imposée par la Directive 2010/31/UE sur la performance énergétique des bâtiments (DPEB) et transposée dans la législation roumaine par la Loi 372/2005, avec la méthodologie de calcul Mc 001-2022.
 
 **Ce que nZEB exige concrètement :**
 - Consommation d'énergie primaire : ≤ 100 kWh/m²/an
@@ -693,16 +693,16 @@ Dans une maison avec des murs isolés à 20 cm (U = 0,20 W/m²K) et un toit à 3
 
 ## Section 1 — Valeurs techniques minimales pour les fenêtres nZEB
 
-### Coefficient Uw — Seuils obligatoires
+### Coefficient Uw — Valeurs de référence
 
-| Zone climatique | Uw maximal admis | Applicabilité |
+| Type de bâtiment | Uw maximal recommandé | Source |
 |---|---|---|
-| Zone I (plaine, côtier) | 1,10 W/(m²K) | Sud-Est, Dobrogea |
-| **Zone II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Munténie, Olténie |
-| Zone III (collines, montagnes) | 0,85 W/(m²K) | Transylvanie, Moldavie |
-| Zone IV (haute montagne) | 0,70 W/(m²K) | Carpates |
+| Bâtiment résidentiel neuf (nZEB) | 1,11 W/(m²K) | Mc 001-2022 |
+| Rénovation d'un bâtiment existant | 1,20 W/(m²K) | Mc 001-2022 |
+| Bâtiment non résidentiel neuf | 1,20 W/(m²K) | Mc 001-2022 |
+| Portes extérieures | 1,30 W/(m²K) | Mc 001-2022 |
 
-**Recommandation pratique pour nZEB :** Uw ≤ 0,85 W/(m²K) pour la Zone II (Bucarest) — avec une marge de 15% par rapport à la limite légale de 1,0 W/(m²K).
+**Recommandation pratique pour nZEB :** Uw ≤ 0,85 W/(m²K) pour une maison à Bucarest — une marge nette par rapport à la valeur de référence de 1,11.
 
 ### Paramètres techniques complets pour les fenêtres nZEB
 
@@ -758,7 +758,7 @@ Dans une maison avec des murs isolés à 20 cm (U = 0,20 W/m²K) et un toit à 3
 
 **Alumil S77 Supreme :**
 - 77 mm, rupture thermique polyamide 34 mm, Uf = 1,3 W/(m²K)
-- Uw avec triple 44 mm : **1,0-1,15 W/(m²K)** — à la limite nZEB Zone II
+- Uw avec triple 44 mm : **1,0-1,15 W/(m²K)** — autour de la valeur de référence de 1,11
 
 **Limitation importante :** L'aluminium standard ne peut pas atteindre Uw ≤ 0,85 W/(m²K).
 
@@ -829,13 +829,13 @@ Le profilé le plus performant perd **30-50% de son efficacité** avec une mauva
 ## FAQ complet — Fenêtres nZEB Roumanie
 
 ### Quel Uw est requis pour nZEB ?
-Normes roumaines : Uw ≤ 1,0 W/(m²K) pour la Zone II climatique (Bucarest, Ilfov). **Recommandation Neofort BIZ :** Uw ≤ 0,85 W/(m²K) avec marge de sécurité.
+La méthodologie Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K) pour les fenêtres des bâtiments résidentiels neufs et Uw ≤ 1,20 W/(m²K) en rénovation. **Recommandation Neofort BIZ :** Uw ≤ 0,85 W/(m²K) avec marge de sécurité.
 
 ### Le triple vitrage est-il obligatoire pour nZEB ?
-Il n'y a pas d'obligation légale explicite pour le triple vitrage. Obligatoire est d'atteindre Uw ≤ 1,0 W/(m²K). En pratique, le triple vitrage (Ug=0,5) offre une marge de sécurité et des performances supérieures.
+Il n'y a pas d'obligation légale explicite pour le triple vitrage. La conformité nZEB s'apprécie sur la performance énergétique de l'ensemble du bâtiment ; pour les fenêtres, la Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K). En pratique, le triple vitrage (Ug=0,5) offre une marge de sécurité et des performances supérieures.
 
 ### Quels profilés sont les meilleurs pour nZEB en Roumanie ?
-Salamander bluEvolution 92 (Uf=0,95 W/m²K) est le leader de performance PVC disponible en Roumanie. Avec triple 44 mm Saint-Gobain + Warm Edge, il atteint Uw=0,72 — 28% sous la limite légale.
+Salamander bluEvolution 92 (Uf=0,95 W/m²K) est le leader de performance PVC disponible en Roumanie. Avec triple 44 mm Saint-Gobain + Warm Edge, il atteint Uw=0,72 — 35% sous la valeur de référence de la Mc 001-2022.
 
 ### La pose compte-t-elle ?
 Énormément. Un profilé bluEvolution 92 sans bandes précomprimées et avec pont thermique peut atteindre un Uw effectif de 1,2-1,4 W/(m²K) — le double de la spécification technique. La pose RAL avec 3 zones est essentielle.
@@ -860,7 +860,7 @@ L'ordre de priorité correct pour les fenêtres nZEB :
 2. **Puis le profilé :** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
 3. **La pose :** bandes précomprimées + 3 zones d'étanchéité
 4. **Les précadres** (optionnel mais recommandé) : Blaugelb Triotherm+
-5. **Résultat :** Uw = 0,72 W/(m²K) — 28% sous la limite légale
+5. **Résultat :** Uw = 0,72 W/(m²K) — 35% sous la valeur de référence de 1,11
 
 Résultat : maison nZEB avec ≤ 100 kWh/m²/an, factures d'énergie réduites de 40-60%, confort thermique garanti sur 40+ ans.
 
@@ -878,7 +878,7 @@ Nous avons traité séparément la sécurité du PVC moderne, données technique
 Neofort BIZ — spécialiste fenêtres nZEB à Bucarest et Ilfov. [Consultation technique pour votre projet nZEB](/fr/contact). Voir [les systèmes nZEB](/fr/systemes-nzeb) que nous proposons. Pages utiles : [le guide complet des systèmes nZEB](/fr/systemes-nzeb/guide-complet) et [les précadres Blaugelb Triotherm+](/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus).`,
       es: `## ¿Qué es la norma nZEB en Rumanía y por qué las ventanas son críticas?
 
-**nZEB (Nearly Zero Energy Building)** es la norma obligatoria impuesta por la Directiva 2010/31/UE sobre la eficiencia energética de los edificios (DEEE) y transpuesta a la legislación rumana mediante la Ley 372/2005 modificada y el HG 765/2016.
+**nZEB (Nearly Zero Energy Building)** es la norma obligatoria impuesta por la Directiva 2010/31/UE sobre la eficiencia energética de los edificios (DEEE) y transpuesta a la legislación rumana mediante la Ley 372/2005, con la metodología de cálculo Mc 001-2022.
 
 **Lo que nZEB exige concretamente:**
 - Consumo de energía primaria: ≤ 100 kWh/m²/año
@@ -890,16 +890,16 @@ En una casa con paredes aisladas a 20 cm (U = 0,20 W/m²K) y tejado a 30 cm (U =
 
 ## Sección 1 — Valores técnicos mínimos para ventanas nZEB
 
-### Coeficiente Uw — Umbrales obligatorios
+### Coeficiente Uw — Valores de referencia
 
-| Zona climática | Uw máximo admitido | Aplicabilidad |
+| Tipo de edificio | Uw máximo recomendado | Fuente |
 |---|---|---|
-| Zona I (llanura, costa) | 1,10 W/(m²K) | Sureste, Dobrogea |
-| **Zona II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Muntenia, Oltenia |
-| Zona III (colinas, montaña) | 0,85 W/(m²K) | Transilvania, Moldavia |
-| Zona IV (alta montaña) | 0,70 W/(m²K) | Cárpatos |
+| Edificio residencial nuevo (nZEB) | 1,11 W/(m²K) | Mc 001-2022 |
+| Rehabilitación de un edificio existente | 1,20 W/(m²K) | Mc 001-2022 |
+| Edificio no residencial nuevo | 1,20 W/(m²K) | Mc 001-2022 |
+| Puertas exteriores | 1,30 W/(m²K) | Mc 001-2022 |
 
-**Recomendación práctica para nZEB:** Uw ≤ 0,85 W/(m²K) para la Zona II (Bucarest) — con un margen del 15% respecto al límite legal de 1,0 W/(m²K).
+**Recomendación práctica para nZEB:** Uw ≤ 0,85 W/(m²K) para una casa en Bucarest — con un margen claro respecto al valor de referencia de 1,11.
 
 ### Parámetros técnicos completos para ventanas nZEB
 
@@ -955,7 +955,7 @@ En una casa con paredes aisladas a 20 cm (U = 0,20 W/m²K) y tejado a 30 cm (U =
 
 **Alumil S77 Supreme:**
 - 77 mm, rotura de puente térmico poliamida 34 mm, Uf = 1,3 W/(m²K)
-- Uw con triple 44 mm: **1,0-1,15 W/(m²K)** — en el límite nZEB Zona II
+- Uw con triple 44 mm: **1,0-1,15 W/(m²K)** — en torno al valor de referencia de 1,11
 
 **Limitación importante:** El aluminio estándar no puede alcanzar Uw ≤ 0,85 W/(m²K).
 
@@ -1026,13 +1026,13 @@ El perfil más eficiente pierde **el 30-50% de su eficiencia** con una instalaci
 ## FAQ completo — Ventanas nZEB Rumanía
 
 ### ¿Qué Uw se requiere para nZEB?
-Normas rumanas: Uw ≤ 1,0 W/(m²K) para la Zona II climática (Bucarest, Ilfov). **Recomendación Neofort BIZ:** Uw ≤ 0,85 W/(m²K) con margen de seguridad.
+La metodología Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K) para las ventanas de edificios residenciales nuevos y Uw ≤ 1,20 W/(m²K) en rehabilitaciones. **Recomendación Neofort BIZ:** Uw ≤ 0,85 W/(m²K) con margen de seguridad.
 
 ### ¿Es obligatorio el triple acristalamiento para nZEB?
-No hay obligación legal explícita para el triple acristalamiento. Obligatorio es alcanzar Uw ≤ 1,0 W/(m²K). En la práctica, el triple (Ug=0,5) ofrece margen de seguridad y prestaciones superiores.
+No hay obligación legal explícita para el triple acristalamiento. El cumplimiento nZEB se evalúa sobre la eficiencia energética de todo el edificio, y para las ventanas la Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K). En la práctica, el triple (Ug=0,5) ofrece margen de seguridad y prestaciones superiores.
 
 ### ¿Qué perfiles son los mejores para nZEB en Rumanía?
-Salamander bluEvolution 92 (Uf=0,95 W/m²K) es el líder de rendimiento PVC disponible en Rumanía. Con triple 44 mm Saint-Gobain + Warm Edge alcanza Uw=0,72 — el 28% por debajo del límite legal.
+Salamander bluEvolution 92 (Uf=0,95 W/m²K) es el líder de rendimiento PVC disponible en Rumanía. Con triple 44 mm Saint-Gobain + Warm Edge alcanza Uw=0,72 — un 35% por debajo del valor de referencia de la Mc 001-2022.
 
 ### ¿Importa la instalación?
 Enormemente. Un perfil bluEvolution 92 sin bandas precomprimidas y con puente térmico puede alcanzar un Uw efectivo de 1,2-1,4 W/(m²K) — el doble de la especificación técnica. La instalación RAL con 3 zonas es esencial.
@@ -1057,7 +1057,7 @@ El orden correcto de prioridades para ventanas nZEB:
 2. **Luego el perfil:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
 3. **La instalación:** bandas precomprimidas + 3 zonas de sellado
 4. **Los premarcos** (opcional pero recomendado): Blaugelb Triotherm+
-5. **Resultado:** Uw = 0,72 W/(m²K) — el 28% por debajo del límite legal
+5. **Resultado:** Uw = 0,72 W/(m²K) — un 35% por debajo del valor de referencia de 1,11
 
 Resultado: casa nZEB con ≤ 100 kWh/m²/año, facturas energéticas reducidas un 40-60%, confort térmico garantizado durante 40+ años.
 
@@ -1075,7 +1075,7 @@ Sobre la seguridad del PVC moderno escribimos aparte, con datos de la literatura
 Neofort BIZ — especialista en ventanas nZEB en Bucarest e Ilfov. [Consulta técnica para su proyecto nZEB](/es/contacto). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos. Páginas útiles: [la guía completa de sistemas nZEB](/es/sistemas-nzeb/guia-completa) y [los premarcos Blaugelb Triotherm+](/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus).`,
       it: `## Cos'è lo standard nZEB in Romania e perché le finestre sono critiche?
 
-**nZEB (Nearly Zero Energy Building)** è lo standard obbligatorio imposto dalla Direttiva 2010/31/UE sulla prestazione energetica degli edifici (EPBD) e recepito nella legislazione rumena dalla Legge 372/2005 modificata e dal HG 765/2016.
+**nZEB (Nearly Zero Energy Building)** è lo standard obbligatorio imposto dalla Direttiva 2010/31/UE sulla prestazione energetica degli edifici (EPBD) e recepito nella legislazione rumena dalla Legge 372/2005, con la metodologia di calcolo Mc 001-2022.
 
 **Cosa richiede concretamente nZEB:**
 - Consumo di energia primaria: ≤ 100 kWh/m²/anno
@@ -1087,16 +1087,16 @@ In una casa con pareti isolate a 20 cm (U = 0,20 W/m²K) e tetto a 30 cm (U = 0,
 
 ## Sezione 1 — Valori tecnici minimi per finestre nZEB
 
-### Coefficiente Uw — Soglie obbligatorie
+### Coefficiente Uw — Valori di riferimento
 
-| Zona climatica | Uw massimo ammesso | Applicabilità |
+| Tipo di edificio | Uw massimo raccomandato | Fonte |
 |---|---|---|
-| Zona I (pianura, costa) | 1,10 W/(m²K) | Sud-Est, Dobrogea |
-| **Zona II (Bucarest, Ilfov)** | **1,00 W/(m²K)** | Muntenia, Oltenia |
-| Zona III (colline, montagna) | 0,85 W/(m²K) | Transilvania, Moldavia |
-| Zona IV (alta montagna) | 0,70 W/(m²K) | Carpazi |
+| Edificio residenziale nuovo (nZEB) | 1,11 W/(m²K) | Mc 001-2022 |
+| Ristrutturazione di un edificio esistente | 1,20 W/(m²K) | Mc 001-2022 |
+| Edificio non residenziale nuovo | 1,20 W/(m²K) | Mc 001-2022 |
+| Porte esterne | 1,30 W/(m²K) | Mc 001-2022 |
 
-**Raccomandazione pratica per nZEB:** Uw ≤ 0,85 W/(m²K) per la Zona II (Bucarest) — con un margine del 15% rispetto al limite legale di 1,0 W/(m²K).
+**Raccomandazione pratica per nZEB:** Uw ≤ 0,85 W/(m²K) per una casa a Bucarest — con un margine netto rispetto al valore di riferimento di 1,11.
 
 ### Parametri tecnici completi per finestre nZEB
 
@@ -1152,7 +1152,7 @@ In una casa con pareti isolate a 20 cm (U = 0,20 W/m²K) e tetto a 30 cm (U = 0,
 
 **Alumil S77 Supreme:**
 - 77 mm, taglio termico poliammide 34 mm, Uf = 1,3 W/(m²K)
-- Uw con triplo 44 mm: **1,0-1,15 W/(m²K)** — al limite nZEB Zona II
+- Uw con triplo 44 mm: **1,0-1,15 W/(m²K)** — intorno al valore di riferimento di 1,11
 
 **Limitazione importante:** L'alluminio standard non può raggiungere Uw ≤ 0,85 W/(m²K).
 
@@ -1223,13 +1223,13 @@ Il profilo più performante perde **il 30-50% della sua efficienza** con un'inst
 ## FAQ completo — Finestre nZEB Romania
 
 ### Quale Uw è richiesto per nZEB?
-Norme romene: Uw ≤ 1,0 W/(m²K) per la Zona II climatica (Bucarest, Ilfov). **Raccomandazione Neofort BIZ:** Uw ≤ 0,85 W/(m²K) con margine di sicurezza.
+La metodologia Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K) per le finestre degli edifici residenziali nuovi e Uw ≤ 1,20 W/(m²K) nelle ristrutturazioni. **Raccomandazione Neofort BIZ:** Uw ≤ 0,85 W/(m²K) con margine di sicurezza.
 
 ### Il triplo vetro è obbligatorio per nZEB?
-Non esiste un obbligo legale esplicito per il triplo vetro. Obbligatorio è raggiungere Uw ≤ 1,0 W/(m²K). In pratica, il triplo (Ug=0,5) offre margine di sicurezza e prestazioni superiori.
+Non esiste un obbligo legale esplicito per il triplo vetro. La conformità nZEB si valuta sulla prestazione energetica dell'intero edificio, e per le finestre la Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K). In pratica, il triplo (Ug=0,5) offre margine di sicurezza e prestazioni superiori.
 
 ### Quali profili sono i migliori per nZEB in Romania?
-Salamander bluEvolution 92 (Uf=0,95 W/m²K) è il leader di prestazioni PVC disponibile in Romania. Con triplo 44 mm Saint-Gobain + Warm Edge raggiunge Uw=0,72 — il 28% sotto il limite legale.
+Salamander bluEvolution 92 (Uf=0,95 W/m²K) è il leader di prestazioni PVC disponibile in Romania. Con triplo 44 mm Saint-Gobain + Warm Edge raggiunge Uw=0,72 — il 35% sotto il valore di riferimento della Mc 001-2022.
 
 ### Conta l'installazione?
 Enormemente. Un profilo bluEvolution 92 senza nastri precompressi e con ponte termico al davanzale può raggiungere uno Uw effettivo di 1,2-1,4 W/(m²K) — il doppio delle specifiche tecniche. L'installazione RAL con 3 zone è essenziale.
@@ -1254,7 +1254,7 @@ L'ordine corretto di priorità per le finestre nZEB:
 2. **Poi il profilo:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
 3. **L'installazione:** nastri precompressi + 3 zone di sigillatura
 4. **I controtelai** (opzionale ma raccomandato): Blaugelb Triotherm+
-5. **Risultato:** Uw = 0,72 W/(m²K) — il 28% sotto il limite legale
+5. **Risultato:** Uw = 0,72 W/(m²K) — il 35% sotto il valore di riferimento di 1,11
 
 Risultato: casa nZEB con ≤ 100 kWh/m²/anno, bollette energetiche ridotte del 40-60%, comfort termico garantito per 40+ anni.
 
@@ -2319,7 +2319,7 @@ Neofort BIZ installa triplo vetro Saint-Gobain SGG con Warm Edge a Bucarest e Il
     content: {
       ro: `## Ce este o casă nZEB și de ce contează alegerea tâmplăriei
 
-**nZEB (Nearly Zero Energy Building)** este standardul obligatoriu pentru toate construcțiile noi din România din 2021, conform HG 765/2016. O casă nZEB trebuie să atingă un consum de energie primară ≤ 100 kWh/m²/an.
+**nZEB (Nearly Zero Energy Building)** este standardul obligatoriu pentru construcțiile noi din România cu autorizație de construire emisă din 31 decembrie 2020, conform Legii 372/2005 și metodologiei Mc 001-2022. O casă nZEB trebuie să atingă un consum de energie primară ≤ 100 kWh/m²/an.
 
 Ferestrele și ușile reprezintă **15-25% din suprafața anvelopei** și sunt responsabile de **25-40% din pierderile termice totale**. Alegerea greșită a materialului — PVC sau aluminiu — poate sabota întregul bilanț energetic al casei, chiar dacă ai izolat perfect pereții și acoperișul.
 
@@ -2423,7 +2423,7 @@ PVC Salamander bluEvolution 92 — Uw = 0,72 față de 1,0-1,2 pentru aluminiu. 
 Cu rupere de punte termică 34 mm + Warm Edge + montaj corect: nu face condens la exterior de -15°C.
 
 ### Ce Uw trebuie pentru nZEB?
-Normative românești (HG 765/2016): Uw ≤ 1,0 W/(m²K) pentru Zona II climatică (București, Ilfov). Case pasive PHI: Uw ≤ 0,8 W/(m²K).
+Metodologia Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K) pentru ferestrele caselor noi (1,20 la renovări). Case pasive PHI: Uw ≤ 0,8 W/(m²K).
 
 ### Merită tripanul față de dublu geam?
 Da, întotdeauna pentru nZEB. Ug = 0,5 față de 1,0 — reduce pierderile prin geam cu 50%. Diferența de preț (15-25%) se amortizează în 5-8 ani.
@@ -2460,7 +2460,7 @@ Aluminiu fără excepție. Rezistență structurală 3-4x superioară, permite c
 Neofort BIZ furnizează atât sisteme Salamander (PVC) cât și Alumil (aluminiu) în București și Ilfov. [Solicită consultanță pentru proiectul tău](/ro/contact). Află mai multe despre [sistemele Alumil](/ro/tamplarie-aluminiu) pe care le oferim. Pentru context complet, citește [ghidul tâmplăriei din aluminiu cu barieră termică](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet). Pagini utile: [ghidul complet al tâmplăriei PVC](/ro/tamplarie-pvc/ghid-complet) și [ghidul complet al tâmplăriei din aluminiu](/ro/tamplarie-aluminiu/ghid-complet). Pagini utile: [profilul Salamander greenEvolution 76 MD ROUND](/ro/produse/profil-pvc-greenevolution-76-md-round) și [sistemul liftant-glisant Alumil S 700 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme).`,
       en: `## What an nZEB house is and why the joinery choice matters
 
-**nZEB (Nearly Zero Energy Building)** has been the mandatory standard for all new builds in Romania since 2021, under Government Decision 765/2016. An nZEB house has to reach a primary energy consumption of ≤ 100 kWh/m²/year.
+**nZEB (Nearly Zero Energy Building)** has been the mandatory standard in Romania for new builds with a building permit issued from 31 December 2020, under Law 372/2005 and the Mc 001-2022 methodology. An nZEB house has to reach a primary energy consumption of ≤ 100 kWh/m²/year.
 
 Windows and doors make up **15-25% of the envelope surface** and account for **25-40% of total heat losses**. Choosing the wrong material — PVC or aluminium — can undo the entire energy balance of the house, even if the walls and roof are insulated perfectly.
 
@@ -2564,7 +2564,7 @@ PVC, through the Salamander bluEvolution 92 — Uw = 0.72 against 1.0-1.2 for al
 With a 34 mm thermal break, a Warm Edge spacer and correct installation, there is no condensation down to an outside temperature of −15 °C.
 
 ### What Uw do you need for nZEB?
-Romanian regulations (Government Decision 765/2016): Uw ≤ 1.0 W/(m²K) for climate Zone II, which covers Bucharest and Ilfov. PHI passive houses: Uw ≤ 0.8 W/(m²K).
+The Mc 001-2022 methodology recommends Uw ≤ 1.11 W/(m²K) for windows in new houses (1.20 for renovations). PHI passive houses: Uw ≤ 0.8 W/(m²K).
 
 ### Is triple glazing worth it over double?
 Yes, always for nZEB. Ug = 0.5 against 1.0 halves the losses through the glass. The price difference of 15-25% pays for itself in 5-8 years.
@@ -2598,7 +2598,7 @@ Related: [Complete nZEB System](/en/blog/complete-nzeb-system-salamander-bluevol
 Neofort BIZ supplies Salamander (PVC) and Alumil (aluminium) in Bucharest and Ilfov. [Request consultation](/en/contact). Learn more about the [Alumil systems](/en/aluminium-windows) we offer. For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide). Useful pages: [the complete PVC windows guide](/en/pvc-windows/complete-guide) and [the complete aluminium windows guide](/en/aluminium-windows/complete-guide). Useful pages: [the Salamander greenEvolution 76 MD ROUND profile](/en/products/greenevolution-76-md-round-pvc-profile) and [the Alumil S 700 SUPREME lift-and-slide system](/en/products-alu/alumil-s700-supreme-lift-slide-system).`,
       de: `## Was ein nZEB-Haus ist und warum die Fensterwahl zählt
 
-**nZEB (Nearly Zero Energy Building)** ist seit 2021 der verbindliche Standard für alle Neubauten in Rumänien, gemäß Regierungsbeschluss 765/2016. Ein nZEB-Haus muss einen Primärenergiebedarf von ≤ 100 kWh/m²/Jahr erreichen.
+**nZEB (Nearly Zero Energy Building)** ist in Rumänien der verbindliche Standard für Neubauten mit Baugenehmigung ab dem 31. Dezember 2020, gemäß Gesetz 372/2005 und der Methodik Mc 001-2022. Ein nZEB-Haus muss einen Primärenergiebedarf von ≤ 100 kWh/m²/Jahr erreichen.
 
 Fenster und Türen machen **15-25 % der Hüllfläche** aus und verantworten **25-40 % der gesamten Wärmeverluste**. Die falsche Materialwahl — PVC oder Aluminium — kann die gesamte Energiebilanz des Hauses zunichtemachen, selbst wenn Wände und Dach perfekt gedämmt sind.
 
@@ -2702,7 +2702,7 @@ PVC, über das Salamander bluEvolution 92 — Uw = 0,72 gegenüber 1,0-1,2 bei A
 Mit 34 mm thermischer Trennung, Warm-Edge-Abstandhalter und fachgerechter Montage entsteht bis −15 °C Außentemperatur kein Kondensat.
 
 ### Welchen Uw braucht man für nZEB?
-Rumänische Vorschriften (Regierungsbeschluss 765/2016): Uw ≤ 1,0 W/(m²K) für Klimazone II, zu der Bukarest und Ilfov gehören. PHI-Passivhäuser: Uw ≤ 0,8 W/(m²K).
+Die Methodik Mc 001-2022 empfiehlt Uw ≤ 1,11 W/(m²K) für Fenster in Neubauten (1,20 bei Sanierungen). PHI-Passivhäuser: Uw ≤ 0,8 W/(m²K).
 
 ### Lohnt sich Dreifach- gegenüber Zweifachverglasung?
 Ja, für nZEB immer. Ug = 0,5 gegenüber 1,0 halbiert die Verluste durch das Glas. Der Preisunterschied von 15-25 % amortisiert sich in 5-8 Jahren.
@@ -2734,7 +2734,7 @@ Aluminium, ausnahmslos. Die Tragfähigkeit ist drei- bis viermal höher und erla
 Neofort BIZ liefert Salamander (PVC) und Alumil (Aluminium) in Bukarest und Ilfov. [Beratungsgespräch](/de/kontakt). Erfahren Sie mehr über die [Alumil-Systeme](/de/aluminiumfenster), die wir anbieten. Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Ratgeber Kunststofffenster](/de/kunststofffenster-pvc/kompletter-ratgeber) und [Ratgeber Aluminiumfenster](/de/aluminiumfenster/kompletter-ratgeber). Nützliche Seiten: [Salamander-Profil greenEvolution 76 MD ROUND](/de/produkte/greenevolution-76-md-round-pvc-profil) und [Alumil S 700 SUPREME Hebeschiebetür](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem).`,
       fr: `## Ce qu’est une maison nZEB et pourquoi le choix des menuiseries compte
 
-**nZEB (Nearly Zero Energy Building)** est la norme obligatoire pour toutes les constructions neuves en Roumanie depuis 2021, selon la décision gouvernementale 765/2016. Une maison nZEB doit atteindre une consommation d’énergie primaire ≤ 100 kWh/m²/an.
+**nZEB (Nearly Zero Energy Building)** est la norme obligatoire en Roumanie pour les constructions neuves dont le permis de construire est délivré à partir du 31 décembre 2020, selon la Loi 372/2005 et la méthodologie Mc 001-2022. Une maison nZEB doit atteindre une consommation d’énergie primaire ≤ 100 kWh/m²/an.
 
 Les fenêtres et les portes représentent **15 à 25 % de la surface de l’enveloppe** et sont responsables de **25 à 40 % des déperditions thermiques totales**. Un mauvais choix de matériau — PVC ou aluminium — peut ruiner tout le bilan énergétique de la maison, même si les murs et la toiture sont parfaitement isolés.
 
@@ -2838,7 +2838,7 @@ Le PVC, via le Salamander bluEvolution 92 — Uw = 0,72 contre 1,0-1,2 pour l’
 Avec une rupture thermique de 34 mm, un intercalaire Warm Edge et une pose correcte, il n’y a pas de condensation jusqu’à −15 °C à l’extérieur.
 
 ### Quel Uw faut-il pour le nZEB ?
-Réglementation roumaine (décision 765/2016) : Uw ≤ 1,0 W/(m²K) pour la zone climatique II, qui couvre Bucarest et l’Ilfov. Maisons passives PHI : Uw ≤ 0,8 W/(m²K).
+La méthodologie Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K) pour les fenêtres des maisons neuves (1,20 en rénovation). Maisons passives PHI : Uw ≤ 0,8 W/(m²K).
 
 ### Le triple vitrage vaut-il la peine face au double ?
 Oui, toujours en nZEB. Ug = 0,5 contre 1,0 réduit de moitié les déperditions par le vitrage. L’écart de prix de 15 à 25 % s’amortit en 5 à 8 ans.
@@ -2870,7 +2870,7 @@ L’aluminium, sans exception. Sa résistance structurelle est trois à quatre f
 Neofort BIZ fournit Salamander (PVC) et Alumil (aluminium) à Bucarest et Ilfov. [Consultation](/fr/contact). En savoir plus sur les [systèmes Alumil](/fr/menuiserie-aluminium) que nous proposons. Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Pages utiles : [le guide complet de la menuiserie PVC](/fr/menuiserie-pvc/guide-complet) et [le guide complet de la menuiserie aluminium](/fr/menuiserie-aluminium/guide-complet). Pages utiles : [le profilé Salamander greenEvolution 76 MD ROUND](/fr/produits/profil-pvc-greenevolution-76-md-round) et [le système levant-coulissant Alumil S 700 SUPREME](/fr/produits-alu/systeme-coulissant-alumil-s700-supreme).`,
       es: `## Qué es una casa nZEB y por qué importa la elección de la carpintería
 
-**nZEB (Nearly Zero Energy Building)** es el estándar obligatorio para toda obra nueva en Rumanía desde 2021, según el Decreto 765/2016. Una casa nZEB debe alcanzar un consumo de energía primaria ≤ 100 kWh/m²/año.
+**nZEB (Nearly Zero Energy Building)** es el estándar obligatorio en Rumanía para la obra nueva con licencia de obras emitida desde el 31 de diciembre de 2020, según la Ley 372/2005 y la metodología Mc 001-2022. Una casa nZEB debe alcanzar un consumo de energía primaria ≤ 100 kWh/m²/año.
 
 Las ventanas y las puertas suponen el **15-25 % de la superficie de la envolvente** y son responsables del **25-40 % de las pérdidas térmicas totales**. Elegir mal el material — PVC o aluminio — puede echar por tierra todo el balance energético de la vivienda, aunque muros y cubierta estén perfectamente aislados.
 
@@ -2974,7 +2974,7 @@ El PVC, mediante el Salamander bluEvolution 92 — Uw = 0,72 frente a 1,0-1,2 de
 Con rotura de puente térmico de 34 mm, separador Warm Edge e instalación correcta no aparece condensación hasta −15 °C en el exterior.
 
 ### ¿Qué Uw se necesita para nZEB?
-Normativa rumana (Decreto 765/2016): Uw ≤ 1,0 W/(m²K) para la zona climática II, que incluye Bucarest e Ilfov. Casas pasivas PHI: Uw ≤ 0,8 W/(m²K).
+La metodología Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K) para las ventanas de casas nuevas (1,20 en rehabilitación). Casas pasivas PHI: Uw ≤ 0,8 W/(m²K).
 
 ### ¿Merece la pena el triple frente al doble vidrio?
 Sí, siempre en nZEB. Ug = 0,5 frente a 1,0 reduce a la mitad las pérdidas por el vidrio. La diferencia de precio del 15-25 % se amortiza en 5-8 años.
@@ -3006,7 +3006,7 @@ Aluminio, sin excepción. Su resistencia estructural es tres o cuatro veces mayo
 Neofort BIZ suministra Salamander (PVC) y Alumil (aluminio) en Bucarest e Ilfov. [Consulta](/es/contacto). Más información sobre los [sistemas Alumil](/es/carpinteria-aluminio) que ofrecemos. Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). Páginas útiles: [la guía completa de carpintería PVC](/es/carpinteria-pvc/guia-completa) y [la guía completa de carpintería de aluminio](/es/carpinteria-aluminio/guia-completa). Páginas útiles: [el perfil Salamander greenEvolution 76 MD ROUND](/es/productos/perfil-pvc-greenevolution-76-md-round) y [el sistema elevable-corredero Alumil S 700 SUPREME](/es/productos-alu/sistema-corredera-alumil-s700-supreme).`,
       it: `## Che cos’è una casa nZEB e perché conta la scelta dei serramenti
 
-**nZEB (Nearly Zero Energy Building)** è lo standard obbligatorio per tutte le nuove costruzioni in Romania dal 2021, in base al Decreto 765/2016. Una casa nZEB deve raggiungere un consumo di energia primaria ≤ 100 kWh/m²/anno.
+**nZEB (Nearly Zero Energy Building)** è lo standard obbligatorio in Romania per le nuove costruzioni con permesso di costruire rilasciato dal 31 dicembre 2020, in base alla Legge 372/2005 e alla metodologia Mc 001-2022. Una casa nZEB deve raggiungere un consumo di energia primaria ≤ 100 kWh/m²/anno.
 
 Finestre e porte rappresentano il **15-25 % della superficie dell’involucro** e sono responsabili del **25-40 % delle dispersioni termiche totali**. Sbagliare la scelta del materiale — PVC o alluminio — può compromettere l’intero bilancio energetico della casa, anche con pareti e tetto isolati alla perfezione.
 
@@ -3110,7 +3110,7 @@ Il PVC, tramite il Salamander bluEvolution 92 — Uw = 0,72 contro 1,0-1,2 dell�
 Con taglio termico da 34 mm, distanziale Warm Edge e posa corretta non si forma condensa fino a −15 °C esterni.
 
 ### Quale Uw serve per lo nZEB?
-Normativa rumena (Decreto 765/2016): Uw ≤ 1,0 W/(m²K) per la zona climatica II, che comprende Bucarest e l’Ilfov. Case passive PHI: Uw ≤ 0,8 W/(m²K).
+La metodologia Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K) per le finestre delle case nuove (1,20 nelle ristrutturazioni). Case passive PHI: Uw ≤ 0,8 W/(m²K).
 
 ### Conviene il triplo vetro rispetto al doppio?
 Sì, sempre per lo nZEB. Ug = 0,5 contro 1,0 dimezza le dispersioni attraverso il vetro. La differenza di prezzo del 15-25 % si ammortizza in 5-8 anni.
@@ -3198,7 +3198,7 @@ Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [
     excerpt: {
       ro: 'Cauți uși din aluminiu în Sector 1 București? Ghid complet 2026: sisteme Alumil, rupere de punte termică, antiefracție RC2/RC3, prețuri reale și cum alegi un furnizor serios în zona Aviatorilor, Floreasca, Dorobanți.',
       en: 'Looking for aluminium doors in Sector 1 Bucharest? Complete guide 2026: Alumil systems, thermal break, RC2/RC3 burglar resistance, real prices and how to choose a serious supplier in Aviatorilor, Floreasca, Dorobanți area.',
-      de: 'Suchen Sie Aluminiumtüren in Sektor 1 Bukarest? Vollständiger Ratgeber 2026: Alumil-Systeme, Wärmedämmbrücke, RC2/RC3-Einbruchhemmung, reale Preise und Tipps zur Wahl eines seriösen Anbieters.',
+      de: 'Suchen Sie Aluminiumtüren in Sektor 1 Bukarest? Vollständiger Ratgeber 2026: Alumil-Systeme, thermische Trennung, RC2/RC3-Einbruchhemmung, reale Preise und Tipps zur Wahl eines seriösen Anbieters.',
       fr: 'Vous cherchez des portes en aluminium dans le Secteur 1 de Bucarest ? Guide complet 2026 : systèmes Alumil, rupture de pont thermique, antieffraction RC2/RC3, prix réels et comment choisir un fournisseur sérieux.',
       es: '¿Busca puertas de aluminio en el Sector 1 de Bucarest? Guía completa 2026: sistemas Alumil, rotura de puente térmico, antiefracción RC2/RC3, precios reales y cómo elegir un proveedor serio.',
       it: 'Cerchi porte in alluminio nel Settore 1 di Bucarest? Guida completa 2026: sistemi Alumil, taglio termico, antieffrazione RC2/RC3, prezzi reali e come scegliere un fornitore serio.',
@@ -3407,22 +3407,22 @@ Neofort BIZ supplies and installs Alumil aluminium doors in Bucharest and Ilfov,
 
       de: `## Warum Sektor 1 Bukarest besondere Anforderungen an Aluminiumtüren stellt
 
-Sektor 1 Bukarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău — konzentriert zahlreiche Villen, Premium-Bürogebäude und neue Wohnanlagen mit hohen Architekturstandards. Anforderungen an Aluminiumtüren sind deutlich höher als der Marktdurchschnitt: Premium-Oberflächen, Wärmedämmbrücken-Systeme, zertifizierter Einbruchschutz und perfekte ästhetische Integration.
+Sektor 1 Bukarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău — konzentriert zahlreiche Villen, Premium-Bürogebäude und neue Wohnanlagen mit hohen Architekturstandards. Anforderungen an Aluminiumtüren sind deutlich höher als der Marktdurchschnitt: Premium-Oberflächen, thermisch getrennte Systeme, zertifizierter Einbruchschutz und perfekte ästhetische Integration.
 
 ## Arten von Aluminiumtüren für Sektor 1
 
 ### 1. Wohnhauseingangstüren mit Vollpanel und Seitenverglasung
-Alumil SF85 Supreme: 85 mm Tiefe, 34 mm Polyamid-Wärmedämmbrücke, Uf = 1,3 W/(m²K), 44 mm PU-Dämmplatte, RC2 Einbruchhemmung, Dreifachverglasung Ug = 0,5 W/(m²K).
+Alumil SF85 Supreme: 85 mm Tiefe, 34 mm thermische Trennung aus Polyamid, Uf = 1,3 W/(m²K), 44 mm PU-Dämmplatte, RC2 Einbruchhemmung, Dreifachverglasung Ug = 0,5 W/(m²K).
 
 ### 2. Vollverglaste Eingangstüren
-Alumil S77 Supreme: 77 mm, 34 mm Wärmedämmbrücke, Saint-Gobain SGG Dreifachverglasung, Schallschutz Rw = 38-42 dB.
+Alumil S77 Supreme: 77 mm, 34 mm thermische Trennung, Saint-Gobain SGG Dreifachverglasung, Schallschutz Rw = 38-42 dB.
 
 ### 3. Gemeinschaftszugangstüren für Wohnanlagen
 Alumil M19800 Smartia: kompatibel mit Zugangskontrollsystemen, hydraulischem Türschließer, RC2-zertifiziert.
 
-## Was Wärmedämmbrücke bedeutet und warum sie wichtig ist
+## Was thermische Trennung bedeutet und warum sie wichtig ist
 
-Gebäude in Sektor 1 mit hochwertiger Wärmedämmung benötigen Türen mit Wärmedämmbrücke, um Kondensat am Innenrahmen zu vermeiden. Die 34-mm-Polyamid-Einlage reduziert den Wärmedurchgang von λ = 160 W/mK (Aluminium) auf λ ≈ 0,3 W/mK (Polyamid).
+Gebäude in Sektor 1 mit hochwertiger Wärmedämmung benötigen Türen mit thermischer Trennung, um Kondensat am Innenrahmen zu vermeiden. Die 34-mm-Polyamid-Einlage reduziert den Wärmedurchgang von λ = 160 W/mK (Aluminium) auf λ ≈ 0,3 W/mK (Polyamid).
 
 ## RC2 und RC3 Einbruchhemmung
 
@@ -5964,7 +5964,7 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 6 Kammern, 82 mm Tiefe, 3 Dichtungen. Mit 44 mm Dreifachverglasung und Low-E erreicht Uw = 0,8–0,95 W/(m²K). Empfohlen für Neubauten und Renovierungen mit kontrolliertem Budget.
 
 ### 3. Alumil S77 Supreme Aluminium — Für Architekturprojekte
-34 mm Wärmedämmbrücke, Uf = 1,3 W/(m²K) am Profil — mit Dreifachverglasung und Low-E erreicht Uw = 1,0–1,2 W/(m²K). Ideal für große Glasfassaden, Büros, Gewerbe.
+34 mm thermische Trennung, Uf = 1,3 W/(m²K) am Profil — mit Dreifachverglasung und Low-E erreicht Uw = 1,0–1,2 W/(m²K). Ideal für große Glasfassaden, Büros, Gewerbe.
 
 ## Was Sie in jedem Angebot verlangen sollten
 
@@ -6415,7 +6415,7 @@ Poți instala cel mai performant profil Salamander bluEvolution 92 cu tripan și
 
 ## Ce impune standardul nZEB în România
 
-Conform **Legii 372/2005** (modificată) și **HG 765/2016**, orice clădire nouă sau renovare majoră trebuie să atingă consumul de energie primar ≤ 100 kWh/m²/an. Ferestrele trebuie să aibă Uw ≤ 1,0 W/(m²K) și montajul trebuie să elimine punțile termice la perimetru. Practic, **spuma poliuretanică singură nu mai îndeplinește aceste cerințe** — banda precomprimată sau precadrele sunt obligatorii.
+Conform **Legii 372/2005** (modificată) și metodologiei **Mc 001-2022**, clădirile noi trebuie să atingă nivelul nZEB, iar renovările majore cerințele minime de performanță energetică; pentru ferestre, valoarea de referință este Uw ≤ 1,11 W/(m²K) la case noi (1,20 la renovări). Montajul trebuie să limiteze punțile termice la perimetru. Practic, **spuma poliuretanică singură nu mai este suficientă** — banda precomprimată sau precadrele devin necesare.
 
 ---
 
@@ -6523,7 +6523,7 @@ In Romania, the **nZEB (Nearly Zero Energy Building)** standard — mandatory fo
 
 ## What nZEB Requires in Romania
 
-According to **Law 372/2005** (amended) and **GD 765/2016**, any new building or major renovation must achieve primary energy consumption ≤ 100 kWh/m²/year. Windows must have Uw ≤ 1.0 W/(m²K) and installation must eliminate perimeter thermal bridges. In practice, **polyurethane foam alone no longer meets these requirements** — pre-compressed band or preframes are required.
+Under **Law 372/2005** (amended) and the **Mc 001-2022** methodology, new buildings must reach nZEB level and major renovations must meet the minimum energy performance requirements; for windows, the reference value is Uw ≤ 1.11 W/(m²K) for new houses (1.20 for renovations). Installation must limit perimeter thermal bridges. In practice, **polyurethane foam alone is no longer enough** — pre-compressed band or preframes become necessary.
 
 ---
 
@@ -6621,7 +6621,7 @@ In Rumänien verlangt der **nZEB-Standard** (Nearly Zero Energy Building) — se
 
 ## Was nZEB in Rumänien verlangt
 
-Gemäß **Gesetz 372/2005** (geändert) und **GD 765/2016** muss jedes neue Gebäude oder jede Kernsanierung einen Primärenergieverbrauch ≤ 100 kWh/m²/Jahr erreichen. Fenster müssen Uw ≤ 1,0 W/(m²K) haben und die Montage muss Perimeterwärmebrücken eliminieren. **Polyurethanschaum allein erfüllt diese Anforderungen nicht mehr.**
+Nach **Gesetz 372/2005** (geändert) und der Methodik **Mc 001-2022** müssen Neubauten das nZEB-Niveau erreichen und Kernsanierungen die Mindestanforderungen an die Energieeffizienz erfüllen; für Fenster liegt der Referenzwert bei Uw ≤ 1,11 W/(m²K) im Neubau (1,20 bei Sanierungen). Die Montage muss Wärmebrücken am Fensteranschluss begrenzen. **Polyurethanschaum allein reicht nicht mehr aus.**
 
 ---
 
@@ -6718,7 +6718,7 @@ En Roumanie, la norme **nZEB** — obligatoire pour les constructions neuves dep
 
 ## Ce que nZEB exige en Roumanie
 
-Selon la **Loi 372/2005** (modifiée) et le **GD 765/2016**, tout bâtiment neuf ou rénovation majeure doit atteindre une consommation d'énergie primaire ≤ 100 kWh/m²/an. Les fenêtres doivent avoir Uw ≤ 1,0 W/(m²K) et la pose doit éliminer les ponts thermiques périmétriques. **La mousse polyuréthane seule ne répond plus à ces exigences.**
+Selon la **Loi 372/2005** (modifiée) et la méthodologie **Mc 001-2022**, les bâtiments neufs doivent atteindre le niveau nZEB et les rénovations majeures respecter les exigences minimales de performance énergétique ; pour les fenêtres, la valeur de référence est Uw ≤ 1,11 W/(m²K) dans le neuf (1,20 en rénovation). La pose doit limiter les ponts thermiques périmétriques. **La mousse polyuréthane seule ne suffit plus.**
 
 ---
 
@@ -6815,7 +6815,7 @@ En Rumanía, la norma **nZEB** — obligatoria para nuevas construcciones desde 
 
 ## Qué exige nZEB en Rumanía
 
-Según la **Ley 372/2005** (modificada) y el **GD 765/2016**, cualquier edificio nuevo o renovación importante debe alcanzar un consumo de energía primaria ≤ 100 kWh/m²/año. Las ventanas deben tener Uw ≤ 1,0 W/(m²K) y la instalación debe eliminar los puentes térmicos perimetrales. **La espuma de poliuretano sola ya no cumple estos requisitos.**
+Según la **Ley 372/2005** (modificada) y la metodología **Mc 001-2022**, los edificios nuevos deben alcanzar el nivel nZEB y las renovaciones importantes cumplir los requisitos mínimos de eficiencia energética; para las ventanas, el valor de referencia es Uw ≤ 1,11 W/(m²K) en obra nueva (1,20 en rehabilitación). La instalación debe limitar los puentes térmicos perimetrales. **La espuma de poliuretano sola ya no es suficiente.**
 
 ---
 
@@ -6912,7 +6912,7 @@ In Romania, lo standard **nZEB** — obbligatorio per le nuove costruzioni dal 2
 
 ## Cosa richiede nZEB in Romania
 
-Secondo la **Legge 372/2005** (modificata) e il **GD 765/2016**, qualsiasi nuovo edificio o ristrutturazione importante deve raggiungere un consumo di energia primaria ≤ 100 kWh/m²/anno. Le finestre devono avere Uw ≤ 1,0 W/(m²K) e l'installazione deve eliminare i ponti termici perimetrici. **La schiuma poliuretanica da sola non soddisfa più questi requisiti.**
+Secondo la **Legge 372/2005** (modificata) e la metodologia **Mc 001-2022**, i nuovi edifici devono raggiungere il livello nZEB e le ristrutturazioni importanti rispettare i requisiti minimi di prestazione energetica; per le finestre il valore di riferimento è Uw ≤ 1,11 W/(m²K) nelle nuove costruzioni (1,20 nelle ristrutturazioni). L'installazione deve limitare i ponti termici perimetrali. **La schiuma poliuretanica da sola non è più sufficiente.**
 
 ---
 
@@ -13783,7 +13783,7 @@ Die Standard-Vorhangfassade, die günstigste, hat ein sichtbares Profil mit Pres
 
 ---
 
-Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit Wärmedämmbrücke und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber für Aluminiumfenster](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Die Details je System finden Sie unter [den Aluminiumsystemen, die wir montieren](/de/aluminiumfenster/kompletter-ratgeber), die Verglasungsdaten unter [Saint-Gobain Isolierglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas).`,
+Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit thermischer Trennung und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber für Aluminiumfenster](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Die Details je System finden Sie unter [den Aluminiumsystemen, die wir montieren](/de/aluminiumfenster/kompletter-ratgeber), die Verglasungsdaten unter [Saint-Gobain Isolierglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas).`,
 
       fr: `## Qu'est-ce qu'un mur rideau
 
@@ -16024,7 +16024,7 @@ Somfy und Nice sind proprietäre Systeme — die Geräte arbeiten innerhalb des 
 
 ---
 
-Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit Wärmedämmbrücke und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details im [vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Alumil S 700 SUPREME Hebeschiebetür](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem) und [Somfy-Automatisierung für Rollläden und Pergolen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen).`,
+Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit thermischer Trennung und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details im [vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Alumil S 700 SUPREME Hebeschiebetür](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem) und [Somfy-Automatisierung für Rollläden und Pergolen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen).`,
 
       fr: `## Pourquoi l’aluminium est le matériau idéal pour la maison connectée
 
@@ -19579,7 +19579,7 @@ Das System für große Terrassen und Balkone — dort, wo die klassische Balkont
 
 ## Wie Neofort BIZ mit Generalunternehmern arbeitet
 
-**Ein schlüsselfertiges Projekt** — vom Aufmaß auf den Architekturplänen bis zur abschließenden [Montage](/de/dienstleistungen) und zum Abnahmeprotokoll ist Neofort BIZ ein einziger Ansprechpartner für sämtliche Fenster des Gebäudes. Für den vollständigen Zusammenhang lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmbrücke](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
+**Ein schlüsselfertiges Projekt** — vom Aufmaß auf den Architekturplänen bis zur abschließenden [Montage](/de/dienstleistungen) und zum Abnahmeprotokoll ist Neofort BIZ ein einziger Ansprechpartner für sämtliche Fenster des Gebäudes. Für den vollständigen Zusammenhang lesen Sie [den Ratgeber zu Aluminiumfenstern mit thermischer Trennung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
 
 **Abstimmung mit den Bauphasen** — wir liefern in Tranchen entsprechend dem Baufortschritt Etage für Etage. Wir blockieren die Baustelle nicht mit Überbeständen und verzögern die Ausbauphase nicht.
 
@@ -22333,7 +22333,7 @@ Die Montage großer Elemente verlangt hohe Genauigkeit — Positionsabweichungen
 
 ---
 
-Neofort BIZ montiert übergroße Verglasungen mit Vakuum-Hebegerät in Bukarest und Ilfov, für Scheiben, die kein Team von Hand bewegen kann. Sehen Sie [Aluminiumsysteme für große Öffnungen](/de/aluminiumfenster) oder [beschreiben Sie uns das Projekt](/de/kontakt). Zur Dämmung siehe [den Ratgeber zur Wärmedämmbrücke](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). ehen Sie auch [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Saint-Gobain SGG Wärmeschutzglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas) und [Aluminiumfenster in Bukarest](/de/aluminiumfenster/bukarest).`,
+Neofort BIZ montiert übergroße Verglasungen mit Vakuum-Hebegerät in Bukarest und Ilfov, für Scheiben, die kein Team von Hand bewegen kann. Sehen Sie [Aluminiumsysteme für große Öffnungen](/de/aluminiumfenster) oder [beschreiben Sie uns das Projekt](/de/kontakt). Zur Dämmung siehe [den Ratgeber zur thermischen Trennung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). ehen Sie auch [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Saint-Gobain SGG Wärmeschutzglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas) und [Aluminiumfenster in Bukarest](/de/aluminiumfenster/bukarest).`,
 
       fr: `## Pourquoi un vitrage hors normes ne peut pas être posé à la main
 
@@ -23100,7 +23100,7 @@ Neofort BIZ builds curtain walls and glass facades for office buildings and comm
 
       de: `## Das Portfolio von Neofort BIZ — abgeschlossene Projekte in Bukarest 2025–2026
 
-Neofort BIZ liefert und koordiniert die [Montage](/de/dienstleistungen) von [Aluminiumfenstern](/de/aluminiumfenster), Vorhangfassaden und Glasfassaden in Bukarest und Ilfov. Jedes der nachstehend vorgestellten Projekte wurde vollständig von unserem Team abgewickelt, vom Aufmaß und der Dokumentation bis zu Montage und Abnahme. Für den vollständigen Zusammenhang lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmbrücke](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
+Neofort BIZ liefert und koordiniert die [Montage](/de/dienstleistungen) von [Aluminiumfenstern](/de/aluminiumfenster), Vorhangfassaden und Glasfassaden in Bukarest und Ilfov. Jedes der nachstehend vorgestellten Projekte wurde vollständig von unserem Team abgewickelt, vom Aufmaß und der Dokumentation bis zu Montage und Abnahme. Für den vollständigen Zusammenhang lesen Sie [den Ratgeber zu Aluminiumfenstern mit thermischer Trennung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
 
 ---
 
@@ -27323,7 +27323,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
     excerpt: {
       ro: 'Un proiect complex executat de Neofort BIZ: montaj ușă culisantă PVC Salamander evolutionDrive Plus+ combinată cu sistem de uși armonice din aluminiu Alumil Smartia M19800BT cu barieră termică — soluția completă pentru o vilă rezidențială premium din zona București-Ilfov.',
       en: 'A complex project by Neofort BIZ: installation of a Salamander evolutionDrive Plus+ PVC sliding door combined with an Alumil Smartia M19800BT thermally broken aluminium folding door system — the complete solution for a premium residential villa in the Bucharest-Ilfov area.',
-      de: 'Ein komplexes Projekt von Neofort BIZ: Montage einer Salamander evolutionDrive Plus+ PVC-Schiebetür kombiniert mit einem Alumil Smartia M19800BT Aluminium-Falttürsystem mit Wärmedämmbrücke — die komplette Lösung für eine Premium-Residenz im Raum Bukarest-Ilfov.',
+      de: 'Ein komplexes Projekt von Neofort BIZ: Montage einer Salamander evolutionDrive Plus+ PVC-Schiebetür kombiniert mit einem Alumil Smartia M19800BT Aluminium-Falttürsystem mit thermischer Trennung — die komplette Lösung für eine Premium-Residenz im Raum Bukarest-Ilfov.',
       fr: `Un projet complexe réalisé par Neofort BIZ : pose d'une porte coulissante PVC Salamander evolutionDrive Plus+ associée à un système de portes accordéon en aluminium Alumil Smartia M19800BT à rupture de pont thermique — solution complète pour une villa résidentielle premium dans la zone Bucarest-Ilfov.`,
       es: 'Un proyecto complejo de Neofort BIZ: instalación de una puerta corredera PVC Salamander evolutionDrive Plus+ combinada con un sistema de puertas plegables de aluminio Alumil Smartia M19800BT con rotura de puente térmico — solución completa para una villa residencial premium en la zona Bucarest-Ilfov.',
       it: 'Un progetto complesso di Neofort BIZ: posa di una porta scorrevole PVC Salamander evolutionDrive Plus+ abbinata a un sistema di porte pieghevoli in alluminio Alumil Smartia M19800BT a taglio termico — soluzione completa per una villa residenziale premium nella zona Bucarest-Ilfov.',
@@ -27339,7 +27339,7 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
     keywords: {
       ro: 'montaj usa culisanta Salamander evolutionDrive Plus, usi armonice aluminiu Alumil M19800BT Bucuresti, sistem combinat PVC aluminiu terasa vila, Alumil Smartia M19800BT bariera termica, usa armonice aluminiu Ilfov',
       en: 'Salamander evolutionDrive Plus installation Bucharest, Alumil M19800BT folding door installation, combined PVC aluminium terrace system, Alumil Smartia M19800BT thermal break, folding aluminium door Bucharest',
-      de: 'Salamander evolutionDrive Plus Montage Bukarest, Alumil M19800BT Falttür Montage, kombiniertes PVC Aluminium Terrassensystem, Alumil Smartia M19800BT Wärmedämmbrücke',
+      de: 'Salamander evolutionDrive Plus Montage Bukarest, Alumil M19800BT Falttür Montage, kombiniertes PVC Aluminium Terrassensystem, Alumil Smartia M19800BT thermisch getrennt',
       fr: 'pose Salamander evolutionDrive Plus Bucarest, Alumil M19800BT portes accordéon pose, système combiné PVC aluminium terrasse, Alumil Smartia M19800BT rupture pont thermique',
       es: 'instalación Salamander evolutionDrive Plus Bucarest, Alumil M19800BT puertas plegables instalación, sistema combinado PVC aluminio terraza, Alumil Smartia M19800BT rotura puente térmico',
       it: 'posa Salamander evolutionDrive Plus Bucarest, Alumil M19800BT porte pieghevoli posa, sistema combinato PVC alluminio terrazza, Alumil Smartia M19800BT taglio termico',
@@ -27768,7 +27768,7 @@ Direkte Vorteile für den Hausbesitzer:
 | Kriterium | evolutionDrive Plus+ PVC | Aluminium-HST |
 |---|---|---|
 | **Wärmedämmung Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
-| **Kondensatrisiko am Profil** | Null — PVC leitet keine Kälte | Möglich ohne Premium-Wärmedämmbrücke |
+| **Kondensatrisiko am Profil** | Null — PVC leitet keine Kälte | Möglich ohne aufwendige thermische Trennung |
 | **Preis mit Montage** | 1.800–3.000 € (2 Flügel) | 3.500–6.000 € (2 Flügel) |
 | **Max. Flügelbreite** | 4,0 m | 6,0–8,0 m |
 | **Optik** | Modern, PVC weiß oder Folie | Architektonisch, schlankes Metallprofil |
@@ -27780,7 +27780,7 @@ Direkte Vorteile für den Hausbesitzer:
 
 ### Was ist das Alumil M19800-System?
 
-**Smartia M19800** ist das **Aluminium-Falttor-System (Harmonikatür / Bi-Fold)** von Alumil Group (Kilkis, Griechenland) — einem der größten Hersteller von Aluminium-Architektursystemen in Südosteuropa. Die **BT-Variante (Thermal Break / Wärmedämmbrücke)** wurde speziell für Premium-Residenzen, Villen, Terrassenrestaurants, Hotels und Gewerberäume entwickelt, die eine **vollständige Wandöffnung** nach außen benötigen.
+**Smartia M19800** ist das **Aluminium-Falttor-System (Harmonikatür / Bi-Fold)** von Alumil Group (Kilkis, Griechenland) — einem der größten Hersteller von Aluminium-Architektursystemen in Südosteuropa. Die **BT-Variante (Thermal Break / thermische Trennung)** wurde speziell für Premium-Residenzen, Villen, Terrassenrestaurants, Hotels und Gewerberäume entwickelt, die eine **vollständige Wandöffnung** nach außen benötigen.
 
 Das Harmonikaprinzip: Die Flügel hängen an einer Deckenschiene und **falten sich zu einem kompakten Paket an einer Seite** — sie geben 100 % der Öffnung frei, ohne Mittelpfosten, ohne visuelle Hindernisse, ohne Bodenabdruck.
 
@@ -27790,7 +27790,7 @@ Das Harmonikaprinzip: Die Flügel hängen an einer Deckenschiene und **falten si
 
 | Parameter | Wert |
 |---|---|
-| Material | **Stranggepress. Aluminium 6063-T5 mit Polyamid-Wärmedämmbrücke** |
+| Material | **Stranggepress. Aluminium 6063-T5 mit thermischer Trennung aus Polyamid** |
 | Profiltiefe | **50 mm** |
 | Max. Flügelhöhe | **3,3 m** |
 | Max. Flügelbreite | **0,9–1,2 m** |
@@ -28679,7 +28679,7 @@ Moderne einbruchhemmende Türen verbinden mechanischen Schutz (Konstruktion RC 2
 
 ---
 
-Neofort BIZ fertigt und montiert Aluminium-Eingangstüren mit Wärmedämmbrücke in Bukarest und Ilfov, mit werkseitig integrierter Touch-Bedienung und Fingerabdruckleser. Sehen Sie [das Aluminiumprogramm](/de/aluminiumfenster) oder [fragen Sie eine Konfiguration an](/de/kontakt). Die Wärmedämmung erklärt [der Ratgeber zur Wärmedämmbrücke](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Alumil S 67 SMARTIA Aluminiumfenster](/de/produkte-alu/alumil-s67-smartia-aluminiumsystem) und [Preise für Aluminiumfenster](/de/aluminiumfenster/preise).`,
+Neofort BIZ fertigt und montiert Aluminium-Eingangstüren mit thermischer Trennung in Bukarest und Ilfov, mit werkseitig integrierter Touch-Bedienung und Fingerabdruckleser. Sehen Sie [das Aluminiumprogramm](/de/aluminiumfenster) oder [fragen Sie eine Konfiguration an](/de/kontakt). Die Wärmedämmung erklärt [der Ratgeber zur thermischen Trennung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Alumil S 67 SMARTIA Aluminiumfenster](/de/produkte-alu/alumil-s67-smartia-aluminiumsystem) und [Preise für Aluminiumfenster](/de/aluminiumfenster/preise).`,
 
       fr: `## Pourquoi la porte d’entrée est le point critique de sécurité d’une maison
 
@@ -30173,18 +30173,18 @@ Practic: o fereastră cu Uw = 0,72 W/(m²K) pierde de 6,5 ori mai puțină căld
 
 ## Ce coeficient termic impune legislația română în 2026?
 
-Conform **HG 765/2016** și **Normativului NP 048**, valorile maxime admise pentru Uw diferă pe zone climatice:
+Metodologia de calcul al performanței energetice a clădirilor, **Mc 001-2022** (aprobată prin Ordinul MDLPA 16/2023), dă valori de referință pentru Uw în funcție de tipul clădirii și al lucrării:
 
-| Zona climatică | Uw maxim admis | Zone incluse |
+| Tip de clădire | Uw maxim recomandat | Când se aplică |
 |---|---|---|
-| Zona I | 1,10 W/(m²K) | Dobrogea, litoral |
-| **Zona II** | **1,00 W/(m²K)** | **București, Ilfov, Muntenia** |
-| Zona III | 0,85 W/(m²K) | Transilvania, Moldova |
-| Zona IV | 0,70 W/(m²K) | Zone montane înalte |
+| **Rezidențială nouă (nZEB)** | **1,11 W/(m²K)** | **Case și blocuri noi** |
+| Renovare | 1,20 W/(m²K) | Înlocuirea ferestrelor la clădiri existente |
+| Nerezidențială nouă | 1,20 W/(m²K) | Birouri, spații comerciale |
+| Uși exterioare | 1,30 W/(m²K) | Toate tipurile de clădiri |
 
-**Pentru București și Ilfov: Uw ≤ 1,00 W/(m²K)** este limita legală minimă pentru orice construcție nouă sau renovare cu autorizație.
+**Pentru o casă nouă în București: Uw ≤ 1,11 W/(m²K)** este valoarea de referință. Conformarea nZEB se verifică apoi pe performanța energetică a întregii clădiri, nu doar a ferestrelor.
 
-**Recomandarea Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — cu o marjă de siguranță de 15% față de limita legală, pentru performanță garantată pe termen lung.
+**Recomandarea Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — o marjă de siguranță clară față de valoarea de referință, pentru performanță garantată pe termen lung.
 
 ## Coeficientul termic pe tipuri de ferestre
 
@@ -30239,7 +30239,7 @@ Distanțierul (rama metalică dintre foile de geam) are un impact major pe Uw fi
 ## FAQ — Coeficient termic ferestre
 
 ### Ce Uw trebuie să aibă ferestrele pentru nZEB?
-Conform HG 765/2016, Uw ≤ 1,00 W/(m²K) pentru Zona II (București). Recomandarea pentru case nZEB: Uw ≤ 0,85 W/(m²K). Cel mai bun sistem disponibil: Salamander bluEvolution 92 cu tripan 52mm — Uw = 0,66 W/(m²K).
+Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K) pentru casele noi. Recomandarea pentru case nZEB: Uw ≤ 0,85 W/(m²K). Cel mai bun sistem disponibil: Salamander bluEvolution 92 cu tripan 52mm — Uw = 0,66 W/(m²K).
 
 ### Ce înseamnă Uf la ferestre?
 Uf este coeficientul termic al profilului (rama ferestrei), fără geam. Salamander bluEvolution 92 are Uf = 0,95 W/(m²K) — cel mai bun din gama PVC disponibilă comercial în România.
@@ -30248,7 +30248,7 @@ Uf este coeficientul termic al profilului (rama ferestrei), fără geam. Salaman
 Ug este coeficientul termic al geamului. Geamul dublu argon are Ug = 1,0 W/(m²K), geamul triplu argon are Ug = 0,5 W/(m²K) — cu 50% mai bun.
 
 ### Uw 1,1 este ok pentru București?
-Nu — limita legală pentru București (Zona II) este Uw ≤ 1,00 W/(m²K). O fereastră cu Uw = 1,1 nu respectă normativele pentru construcții noi.
+Se încadrează: valoarea de referință din Mc 001-2022 pentru o casă nouă este Uw ≤ 1,11 W/(m²K), iar la renovări 1,20. Pentru o casă nZEB recomandăm totuși Uw ≤ 0,85 W/(m²K), cu marjă de siguranță.
 
 ### Care este cel mai bun Uw disponibil în România?
 Salamander bluEvolution 92 + tripan 52mm + distanțier Warm Edge + precadre Blaugelb Triotherm+: **Uw = 0,66 W/(m²K)** — certificat PassivHaus.
@@ -30265,7 +30265,7 @@ Solicită **Declarația de Performanță (DoP)** și **certificatul IFT Rosenhei
 | Casă nZEB certificată | ≤ 0,72 | Salamander bluEvolution 92 + tripan |
 | Casă pasivă PHI | ≤ 0,66 | bluEvolution 92 + tripan 52mm + Blaugelb |
 
-**Regula simplă:** Alege întotdeauna Uw cu minimum 15% sub limita zonei tale climatice. Pentru București, asta înseamnă Uw ≤ 0,85 W/(m²K) în loc de limita legală de 1,00.
+**Regula simplă:** Alege întotdeauna un Uw cu o marjă clară sub valoarea de referință. Pentru o casă nouă în București, asta înseamnă Uw ≤ 0,85 W/(m²K), față de valoarea de referință de 1,11.
 
 Dacă instalezi o pompă de căldură, această valoare devine decisivă: vezi [de ce contează Uw pentru randamentul pompei](/ro/blog/pompa-de-caldura-si-ferestre-de-ce-conteaza-uw).
 
@@ -30290,16 +30290,16 @@ In practice: a window with Uw = 0.72 W/(m²K) loses 6.5 times less heat than an 
 
 ## What Thermal Coefficient Does Romanian Law Require in 2026?
 
-According to **HG 765/2016** and **Standard NP 048**, maximum permitted Uw values differ by climate zone:
+The **Mc 001-2022** energy performance methodology (approved by MDLPA Order 16/2023) sets reference Uw values by building type and type of work:
 
-| Climate Zone | Maximum Uw | Areas |
+| Building type | Maximum recommended Uw | When it applies |
 |---|---|---|
-| Zone I | 1.10 W/(m²K) | Dobrogea, coast |
-| **Zone II** | **1.00 W/(m²K)** | **Bucharest, Ilfov, Muntenia** |
-| Zone III | 0.85 W/(m²K) | Transylvania, Moldova |
-| Zone IV | 0.70 W/(m²K) | High mountain areas |
+| **New residential (nZEB)** | **1.11 W/(m²K)** | **New houses and apartment blocks** |
+| Renovation | 1.20 W/(m²K) | Window replacement in existing buildings |
+| New non-residential | 1.20 W/(m²K) | Offices, commercial spaces |
+| Exterior doors | 1.30 W/(m²K) | All building types |
 
-**For Bucharest and Ilfov: Uw ≤ 1.00 W/(m²K)** is the minimum legal limit for any new construction or permitted renovation.
+**For a new house in Bucharest: Uw ≤ 1.11 W/(m²K)** is the reference value; nZEB compliance is then checked on the energy performance of the whole building. **Neofort BIZ recommendation:** Uw ≤ 0.85 W/(m²K), with a clear safety margin.
 
 ## Thermal Coefficient by Window Type
 
@@ -30353,7 +30353,7 @@ The spacer (metal frame between glass panes) has a major impact on final window 
 ## FAQ — Window Thermal Coefficient
 
 ### What Uw should windows have for nZEB?
-Per HG 765/2016, Uw ≤ 1.00 W/(m²K) for Zone II (Bucharest). Recommendation for nZEB homes: Uw ≤ 0.85 W/(m²K). Best available system: Salamander bluEvolution 92 with triple 52mm glazing — Uw = 0.66 W/(m²K).
+Mc 001-2022 recommends Uw ≤ 1.11 W/(m²K) for new houses. Recommendation for nZEB homes: Uw ≤ 0.85 W/(m²K). Best available system: Salamander bluEvolution 92 with triple 52mm glazing — Uw = 0.66 W/(m²K).
 
 ### What does Uf mean for windows?
 Uf is the thermal coefficient of the profile (window frame), excluding glass. Salamander bluEvolution 92 has Uf = 0.95 W/(m²K) — the best in the PVC range commercially available in Romania.
@@ -30362,7 +30362,7 @@ Uf is the thermal coefficient of the profile (window frame), excluding glass. Sa
 Ug is the thermal coefficient of the glass unit. Double argon glass has Ug = 1.0 W/(m²K), triple argon has Ug = 0.5 W/(m²K) — 50% better.
 
 ### Is Uw 1.1 acceptable for Bucharest?
-No — the legal limit for Bucharest (Zone II) is Uw ≤ 1.00 W/(m²K). A window with Uw = 1.1 does not comply with regulations for new buildings.
+It complies: the Mc 001-2022 reference value for a new house is Uw ≤ 1.11 W/(m²K), and 1.20 for renovations. For an nZEB home we still recommend Uw ≤ 0.85 W/(m²K), with a safety margin.
 
 ### What is the best Uw available in Romania?
 Salamander bluEvolution 92 + triple 52mm + Warm Edge spacer + Blaugelb Triotherm+ preframes: **Uw = 0.66 W/(m²K)** — PassivHaus certified.
@@ -30396,16 +30396,16 @@ Praktisch: Ein Fenster mit Uw = 0,72 W/(m²K) verliert 6,5-mal weniger Wärme al
 
 ## Gesetzliche Anforderungen 2026
 
-Gemäß **HG 765/2016** und **NP 048** gelten folgende Höchstwerte:
+Die Methodik **Mc 001-2022** (genehmigt durch MDLPA-Erlass 16/2023) nennt Referenzwerte für Uw je nach Gebäudetyp und Art der Arbeiten:
 
-| Klimazone | Maximaler Uw | Gebiete |
+| Gebäudetyp | Empfohlener maximaler Uw | Anwendung |
 |---|---|---|
-| Zone I | 1,10 W/(m²K) | Dobrogea, Küste |
-| **Zone II** | **1,00 W/(m²K)** | **Bukarest, Ilfov, Muntenien** |
-| Zone III | 0,85 W/(m²K) | Siebenbürgen, Moldau |
-| Zone IV | 0,70 W/(m²K) | Hochgebirge |
+| **Neubau Wohngebäude (nZEB)** | **1,11 W/(m²K)** | **Neue Häuser und Wohnblöcke** |
+| Sanierung | 1,20 W/(m²K) | Fenstertausch im Bestand |
+| Neubau Nichtwohngebäude | 1,20 W/(m²K) | Büros, Gewerbeflächen |
+| Außentüren | 1,30 W/(m²K) | Alle Gebäudetypen |
 
-**Empfehlung Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — 15% Sicherheitsreserve.
+**Empfehlung Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — deutliche Sicherheitsreserve zum Referenzwert von 1,11.
 
 ## Uw-Werte nach Fenstertyp
 
@@ -30429,7 +30429,7 @@ Gemäß **HG 765/2016** und **NP 048** gelten folgende Höchstwerte:
 ## FAQ — Wärmedurchgangskoeffizient Fenster
 
 ### Welchen Uw brauchen Fenster für nZEB?
-HG 765/2016 schreibt Uw ≤ 1,00 W/(m²K) für Zone II (Bukarest) vor. Empfehlung für nZEB-Häuser: Uw ≤ 0,85 W/(m²K). Bestes verfügbares System: Salamander bluEvolution 92 mit Dreifachverglasung 52mm — Uw = 0,66 W/(m²K).
+Mc 001-2022 empfiehlt Uw ≤ 1,11 W/(m²K) für Neubauten. Empfehlung für nZEB-Häuser: Uw ≤ 0,85 W/(m²K). Bestes verfügbares System: Salamander bluEvolution 92 mit Dreifachverglasung 52mm — Uw = 0,66 W/(m²K).
 
 ### Was bedeutet Uf bei Fenstern?
 Uf ist der Wärmedurchgangskoeffizient des Rahmenprofils ohne Verglasung. Salamander bluEvolution 92 hat Uf = 0,95 W/(m²K) — bester Wert im PVC-Bereich.
@@ -30438,7 +30438,7 @@ Uf ist der Wärmedurchgangskoeffizient des Rahmenprofils ohne Verglasung. Salama
 Ug ist der Wärmedurchgangskoeffizient der Verglasung. Zweifach Argon: Ug = 1,0 W/(m²K); Dreifach Argon: Ug = 0,5 W/(m²K) — 50% besser.
 
 ### Ist Uw 1,1 in Bukarest zulässig?
-Nein — für Bukarest (Zone II) gilt Uw ≤ 1,00 W/(m²K) als gesetzliche Grenze.
+Ja — der Referenzwert von Mc 001-2022 für einen Neubau liegt bei Uw ≤ 1,11 W/(m²K), bei Sanierungen bei 1,20. Für ein nZEB-Haus empfehlen wir dennoch Uw ≤ 0,85 W/(m²K).
 
 ### Welcher Uw ist in Rumänien der beste?
 Salamander bluEvolution 92 + Dreifach 52mm + Warm-Edge-Abstandhalter + Blaugelb-Vorblendrahmen: **Uw = 0,66 W/(m²K)** — PassivHaus-zertifiziert.
@@ -30461,16 +30461,16 @@ En pratique : une fenêtre avec Uw = 0,72 W/(m²K) perd 6,5 fois moins de chaleu
 
 ## Ce que la législation roumaine impose en 2026
 
-Selon **HG 765/2016** et la norme **NP 048**, les valeurs maximales admises sont :
+La méthodologie **Mc 001-2022** (approuvée par l'arrêté MDLPA 16/2023) fixe des valeurs de référence pour Uw selon le type de bâtiment et de travaux :
 
-| Zone climatique | Uw maximum | Zones |
+| Type de bâtiment | Uw maximal recommandé | Application |
 |---|---|---|
-| Zone I | 1,10 W/(m²K) | Dobrogea, littoral |
-| **Zone II** | **1,00 W/(m²K)** | **Bucarest, Ilfov** |
-| Zone III | 0,85 W/(m²K) | Transylvanie, Moldavie |
-| Zone IV | 0,70 W/(m²K) | Zones de haute montagne |
+| **Résidentiel neuf (nZEB)** | **1,11 W/(m²K)** | **Maisons et immeubles neufs** |
+| Rénovation | 1,20 W/(m²K) | Remplacement des fenêtres dans l'existant |
+| Non résidentiel neuf | 1,20 W/(m²K) | Bureaux, locaux commerciaux |
+| Portes extérieures | 1,30 W/(m²K) | Tous types de bâtiments |
 
-**Recommandation Neofort BIZ :** Uw ≤ 0,85 W/(m²K) — marge de sécurité de 15%.
+**Recommandation Neofort BIZ :** Uw ≤ 0,85 W/(m²K) — une marge de sécurité nette par rapport à la valeur de référence de 1,11.
 
 ## Uw par type de fenêtre
 
@@ -30493,7 +30493,7 @@ Selon **HG 765/2016** et la norme **NP 048**, les valeurs maximales admises sont
 ## FAQ — Coefficient thermique fenêtres
 
 ### Quel Uw pour les fenêtres nZEB ?
-HG 765/2016 impose Uw ≤ 1,00 W/(m²K) pour la Zone II (Bucarest). Recommandation nZEB : Uw ≤ 0,85 W/(m²K). Meilleur système : Salamander bluEvolution 92 avec triple 52mm — Uw = 0,66 W/(m²K).
+La Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K) pour les maisons neuves. Recommandation nZEB : Uw ≤ 0,85 W/(m²K). Meilleur système : Salamander bluEvolution 92 avec triple 52mm — Uw = 0,66 W/(m²K).
 
 ### Que signifie Uf pour les fenêtres ?
 Uf est le coefficient du profilé seul, sans vitrage. Salamander bluEvolution 92 : Uf = 0,95 W/(m²K).
@@ -30502,7 +30502,7 @@ Uf est le coefficient du profilé seul, sans vitrage. Salamander bluEvolution 92
 Ug est le coefficient du vitrage. Double argon : Ug = 1,0 W/(m²K) ; Triple argon : Ug = 0,5 W/(m²K) — 50% meilleur.
 
 ### Un Uw de 1,1 est-il acceptable à Bucarest ?
-Non — la limite légale pour Bucarest (Zone II) est Uw ≤ 1,00 W/(m²K).
+Oui — la valeur de référence de la Mc 001-2022 pour une maison neuve est Uw ≤ 1,11 W/(m²K), et 1,20 en rénovation. Pour une maison nZEB, nous recommandons toutefois Uw ≤ 0,85 W/(m²K).
 
 Si vous installez une pompe à chaleur, cette valeur devient décisive : voir [pourquoi le Uw détermine le rendement de la pompe](/fr/blog/pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte).
 
@@ -30522,16 +30522,16 @@ En la práctica: una ventana con Uw = 0,72 W/(m²K) pierde 6,5 veces menos calor
 
 ## Lo que exige la legislación rumana en 2026
 
-Según **HG 765/2016** y la norma **NP 048**, los valores máximos admitidos son:
+La metodología **Mc 001-2022** (aprobada por la Orden MDLPA 16/2023) fija valores de referencia de Uw según el tipo de edificio y de obra:
 
-| Zona climática | Uw máximo | Zonas |
+| Tipo de edificio | Uw máximo recomendado | Aplicación |
 |---|---|---|
-| Zona I | 1,10 W/(m²K) | Dobrogea, costa |
-| **Zona II** | **1,00 W/(m²K)** | **Bucarest, Ilfov** |
-| Zona III | 0,85 W/(m²K) | Transilvania, Moldavia |
-| Zona IV | 0,70 W/(m²K) | Zonas de alta montaña |
+| **Residencial nuevo (nZEB)** | **1,11 W/(m²K)** | **Casas y bloques nuevos** |
+| Rehabilitación | 1,20 W/(m²K) | Sustitución de ventanas en edificios existentes |
+| No residencial nuevo | 1,20 W/(m²K) | Oficinas, locales comerciales |
+| Puertas exteriores | 1,30 W/(m²K) | Todo tipo de edificios |
 
-**Recomendación Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — margen de seguridad del 15%.
+**Recomendación Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — un margen de seguridad claro respecto al valor de referencia de 1,11.
 
 ## Uw por tipo de ventana
 
@@ -30554,7 +30554,7 @@ Según **HG 765/2016** y la norma **NP 048**, los valores máximos admitidos son
 ## FAQ — Coeficiente térmico ventanas
 
 ### ¿Qué Uw deben tener las ventanas para nZEB?
-HG 765/2016 exige Uw ≤ 1,00 W/(m²K) para la Zona II (Bucarest). Recomendación nZEB: Uw ≤ 0,85 W/(m²K). Mejor sistema: Salamander bluEvolution 92 con triple 52mm — Uw = 0,66 W/(m²K).
+La Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K) para casas nuevas. Recomendación nZEB: Uw ≤ 0,85 W/(m²K). Mejor sistema: Salamander bluEvolution 92 con triple 52mm — Uw = 0,66 W/(m²K).
 
 ### ¿Qué significa Uf en ventanas?
 Uf es el coeficiente del perfil solo, sin vidrio. Salamander bluEvolution 92: Uf = 0,95 W/(m²K).
@@ -30563,7 +30563,7 @@ Uf es el coeficiente del perfil solo, sin vidrio. Salamander bluEvolution 92: Uf
 Ug es el coeficiente del vidrio. Doble argón: Ug = 1,0 W/(m²K); Triple argón: Ug = 0,5 W/(m²K) — un 50% mejor.
 
 ### ¿Es aceptable un Uw de 1,1 en Bucarest?
-No — el límite legal para Bucarest (Zona II) es Uw ≤ 1,00 W/(m²K).
+Sí — el valor de referencia de la Mc 001-2022 para una casa nueva es Uw ≤ 1,11 W/(m²K), y 1,20 en rehabilitación. Para una casa nZEB recomendamos, aun así, Uw ≤ 0,85 W/(m²K).
 
 Si va a instalar una bomba de calor, este valor resulta decisivo: vea [por qué el Uw determina el rendimiento de la bomba](/es/blog/bomba-de-calor-y-ventanas-por-que-importa-el-uw).
 
@@ -30583,16 +30583,16 @@ In pratica: una finestra con Uw = 0,72 W/(m²K) disperde 6,5 volte meno calore d
 
 ## Cosa impone la normativa rumena nel 2026
 
-Secondo **HG 765/2016** e la norma **NP 048**, i valori massimi ammessi sono:
+La metodologia **Mc 001-2022** (approvata con l'Ordine MDLPA 16/2023) fissa valori di riferimento di Uw in base al tipo di edificio e di intervento:
 
-| Zona climatica | Uw massimo | Zone |
+| Tipo di edificio | Uw massimo raccomandato | Applicazione |
 |---|---|---|
-| Zona I | 1,10 W/(m²K) | Dobrogea, costa |
-| **Zona II** | **1,00 W/(m²K)** | **Bucarest, Ilfov** |
-| Zona III | 0,85 W/(m²K) | Transilvania, Moldavia |
-| Zona IV | 0,70 W/(m²K) | Zone di alta montagna |
+| **Residenziale nuovo (nZEB)** | **1,11 W/(m²K)** | **Case e condomini nuovi** |
+| Ristrutturazione | 1,20 W/(m²K) | Sostituzione delle finestre in edifici esistenti |
+| Non residenziale nuovo | 1,20 W/(m²K) | Uffici, spazi commerciali |
+| Porte esterne | 1,30 W/(m²K) | Tutti i tipi di edificio |
 
-**Raccomandazione Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — margine di sicurezza del 15%.
+**Raccomandazione Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — un margine di sicurezza netto rispetto al valore di riferimento di 1,11.
 
 ## Uw per tipo di finestra
 
@@ -30615,7 +30615,7 @@ Secondo **HG 765/2016** e la norma **NP 048**, i valori massimi ammessi sono:
 ## FAQ — Coefficiente termico finestre
 
 ### Quale Uw devono avere le finestre per nZEB?
-HG 765/2016 impone Uw ≤ 1,00 W/(m²K) per la Zona II (Bucarest). Raccomandazione nZEB: Uw ≤ 0,85 W/(m²K). Sistema migliore: Salamander bluEvolution 92 con triplo 52mm — Uw = 0,66 W/(m²K).
+La Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K) per le case nuove. Raccomandazione nZEB: Uw ≤ 0,85 W/(m²K). Sistema migliore: Salamander bluEvolution 92 con triplo 52mm — Uw = 0,66 W/(m²K).
 
 ### Cosa significa Uf nelle finestre?
 Uf è il coefficiente del profilo da solo, senza vetro. Salamander bluEvolution 92: Uf = 0,95 W/(m²K).
@@ -30624,7 +30624,7 @@ Uf è il coefficiente del profilo da solo, senza vetro. Salamander bluEvolution 
 Ug è il coefficiente del vetro. Doppio argon: Ug = 1,0 W/(m²K); Triplo argon: Ug = 0,5 W/(m²K) — il 50% migliore.
 
 ### Un Uw di 1,1 è accettabile a Bucarest?
-No — il limite di legge per Bucarest (Zona II) è Uw ≤ 1,00 W/(m²K).
+Sì — il valore di riferimento della Mc 001-2022 per una casa nuova è Uw ≤ 1,11 W/(m²K), e 1,20 nelle ristrutturazioni. Per una casa nZEB raccomandiamo comunque Uw ≤ 0,85 W/(m²K).
 
 Se installate una pompa di calore, questo valore diventa decisivo: vedete [perché l’Uw determina il rendimento della pompa](/it/blog/pompa-di-calore-e-finestre-perche-conta-uw).
 
@@ -30704,7 +30704,7 @@ Neofort BIZ fornisce finestre PVC Salamander e alluminio Alumil con Uw a partire
 
 **Regulamentul (UE) nr. 305/2011** — cunoscut ca **CPR (Construction Products Regulation)** — este legislația europeană care stabilește condițiile de comercializare a tuturor produselor de construcții pe piața UE. Acesta impune producătorilor să întocmească o **Declarație de Performanță (DoP)** și să aplice **marcajul CE** pe produse, inclusiv ferestre, uși, profile PVC și aluminiu.
 
-România a transpus CPR prin **Legea 10/1995 privind calitatea în construcții** și **HG 622/2004**, actualizate prin **HG 765/2016** — actul normativ care stabilește și cerințele nZEB obligatorii din 2021.
+România aplică CPR prin **Legea 10/1995 privind calitatea în construcții** și prin hotărârea de guvern din 2017 privind comercializarea produselor pentru construcții, care a înlocuit **HG 622/2004**. Cerințele nZEB, obligatorii pentru autorizațiile emise din 31 decembrie 2020, vin din **Legea 372/2005** și din metodologia **Mc 001-2022**.
 
 ## Ce schimbări aduce 2026 pentru produsele de construcții?
 
@@ -30728,7 +30728,7 @@ Comisia Europeană a adoptat în 2024 **Regulamentul (UE) 2024/3110**, care înl
 ### 3. Cerințele nZEB — rămân obligatorii și se întăresc
 
 Din 2021, **toate construcțiile noi din România trebuie să respecte standardul nZEB** (Nearly Zero Energy Building), ceea ce impune:
-- **Uw ≤ 1,00 W/(m²K)** pentru ferestre în Zona II (București)
+- **Uw ≤ 1,11 W/(m²K)** pentru ferestrele caselor noi — valoare de referință în Mc 001-2022 (1,20 la renovări)
 - Consum de energie primară ≤ 100 kWh/m²/an
 - Minim 10% din energie din surse regenerabile
 
@@ -30793,7 +30793,7 @@ Neofort BIZ furnizează exclusiv produse cu marcaj CE și DoP complet. [Solicit�
 
 **Regulation (EU) No 305/2011** — known as the **CPR (Construction Products Regulation)** — is the European legislation that sets the conditions for placing all construction products on the EU market. It requires manufacturers to draw up a **Declaration of Performance (DoP)** and to affix the **CE marking** to their products, windows, doors, PVC and aluminium profiles included.
 
-Romania transposed the CPR through **Law 10/1995 on quality in construction** and **Government Decision 622/2004**, updated by **Government Decision 765/2016** — the act that also sets the nZEB requirements mandatory since 2021.
+Romania applies the CPR through **Law 10/1995 on quality in construction** and the 2017 Government Decision on marketing construction products, which replaced **Government Decision 622/2004**. The nZEB requirements, mandatory for building permits issued from 31 December 2020, come from **Law 372/2005** and the **Mc 001-2022** methodology.
 
 ## What changes in 2026 for construction products?
 
@@ -30817,7 +30817,7 @@ In 2024 the European Commission adopted **Regulation (EU) 2024/3110**, which rep
 ### 3. nZEB requirements remain mandatory and get stricter
 
 Since 2021, **every new building in Romania must meet the nZEB standard** (Nearly Zero Energy Building), which requires:
-- **Uw ≤ 1.00 W/(m²K)** for windows in Climate Zone II, which covers Bucharest
+- **Uw ≤ 1.11 W/(m²K)** for windows in new houses — reference value in Mc 001-2022 (1.20 for renovations)
 - Primary energy consumption ≤ 100 kWh/m²/year
 - At least 10% of energy from renewable sources
 
@@ -30882,7 +30882,7 @@ Neofort BIZ supplies exclusively CE-marked products with complete DoP. [Request 
 
 **Verordnung (EU) Nr. 305/2011** — bekannt als **CPR (Construction Products Regulation)** — ist die europäische Rechtsgrundlage, die die Bedingungen für das Inverkehrbringen aller Bauprodukte im EU-Markt festlegt. Sie verpflichtet Hersteller, eine **Leistungserklärung (DoP)** zu erstellen und die **CE-Kennzeichnung** anzubringen, auch auf Fenstern, Türen sowie PVC- und Aluminiumprofilen.
 
-Rumänien hat die CPR über das **Gesetz 10/1995 über die Qualität im Bauwesen** und den **Regierungsbeschluss 622/2004** umgesetzt, aktualisiert durch den **Regierungsbeschluss 765/2016** — jenen Rechtsakt, der auch die seit 2021 verbindlichen nZEB-Anforderungen festlegt.
+Rumänien wendet die CPR über das **Gesetz 10/1995 über die Qualität im Bauwesen** und den Regierungsbeschluss von 2017 über die Vermarktung von Bauprodukten an, der den **Regierungsbeschluss 622/2004** ersetzt hat. Die nZEB-Anforderungen, verbindlich für Baugenehmigungen ab dem 31. Dezember 2020, stammen aus dem **Gesetz 372/2005** und der Methodik **Mc 001-2022**.
 
 ## Was ändert sich 2026 für Bauprodukte?
 
@@ -30906,7 +30906,7 @@ Die Europäische Kommission hat 2024 die **Verordnung (EU) 2024/3110** verabschi
 ### 3. Die nZEB-Anforderungen bleiben verbindlich und werden verschärft
 
 Seit 2021 **müssen alle Neubauten in Rumänien den nZEB-Standard erfüllen** (Nearly Zero Energy Building). Das bedeutet:
-- **Uw ≤ 1,00 W/(m²K)** für Fenster in Klimazone II, zu der Bukarest gehört
+- **Uw ≤ 1,11 W/(m²K)** für Fenster in Neubauten — Referenzwert nach Mc 001-2022 (1,20 bei Sanierungen)
 - Primärenergiebedarf ≤ 100 kWh/m²/Jahr
 - Mindestens 10 % der Energie aus erneuerbaren Quellen
 
@@ -30966,7 +30966,7 @@ Neofort BIZ liefert ausschließlich CE-gekennzeichnete Produkte mit vollständig
 
 Le **règlement (UE) n° 305/2011** — connu sous le nom de **RPC (Règlement Produits de Construction)** — est la législation européenne qui fixe les conditions de mise sur le marché de tous les produits de construction dans l’UE. Il impose aux fabricants d’établir une **Déclaration des Performances (DoP)** et d’apposer le **marquage CE** sur leurs produits, fenêtres, portes, profilés PVC et aluminium compris.
 
-La Roumanie a transposé le RPC par la **loi 10/1995 sur la qualité dans la construction** et la **décision gouvernementale 622/2004**, actualisées par la **décision 765/2016** — le texte qui fixe aussi les exigences nZEB obligatoires depuis 2021.
+La Roumanie applique le RPC par la **loi 10/1995 sur la qualité dans la construction** et par la décision gouvernementale de 2017 sur la commercialisation des produits de construction, qui a remplacé la **décision 622/2004**. Les exigences nZEB, obligatoires pour les permis délivrés à partir du 31 décembre 2020, découlent de la **loi 372/2005** et de la méthodologie **Mc 001-2022**.
 
 ## Ce qui change en 2026 pour les produits de construction
 
@@ -30990,7 +30990,7 @@ La norme **EN 14351-1:2006+A2:2016** (fenêtres et portes extérieures) est en c
 ### 3. Les exigences nZEB restent obligatoires et se durcissent
 
 Depuis 2021, **toutes les constructions neuves en Roumanie doivent respecter la norme nZEB** (Nearly Zero Energy Building), ce qui impose :
-- **Uw ≤ 1,00 W/(m²K)** pour les fenêtres en zone climatique II, qui couvre Bucarest
+- **Uw ≤ 1,11 W/(m²K)** pour les fenêtres des maisons neuves — valeur de référence de la Mc 001-2022 (1,20 en rénovation)
 - Une consommation d’énergie primaire ≤ 100 kWh/m²/an
 - Au moins 10 % d’énergie d’origine renouvelable
 
@@ -31050,7 +31050,7 @@ Neofort BIZ fournit exclusivement des produits marqués CE avec DoP complète. [
 
 El **Reglamento (UE) n.º 305/2011** — conocido como **RPC (Reglamento de Productos de Construcción)** — es la legislación europea que fija las condiciones de comercialización de todos los productos de construcción en el mercado de la UE. Obliga a los fabricantes a redactar una **Declaración de Prestaciones (DoP)** y a aplicar el **marcado CE** a sus productos, ventanas, puertas y perfiles de PVC y aluminio incluidos.
 
-Rumanía transpuso el RPC mediante la **Ley 10/1995 sobre la calidad en la construcción** y el **Decreto 622/2004**, actualizados por el **Decreto 765/2016** — la norma que también establece los requisitos nZEB obligatorios desde 2021.
+Rumanía aplica el RPC mediante la **Ley 10/1995 sobre la calidad en la construcción** y el decreto de 2017 sobre la comercialización de productos de construcción, que sustituyó al **Decreto 622/2004**. Los requisitos nZEB, obligatorios para las licencias de obras emitidas desde el 31 de diciembre de 2020, proceden de la **Ley 372/2005** y de la metodología **Mc 001-2022**.
 
 ## Qué cambia en 2026 para los productos de construcción
 
@@ -31074,7 +31074,7 @@ La norma **EN 14351-1:2006+A2:2016** (ventanas y puertas exteriores) está en re
 ### 3. Los requisitos nZEB siguen siendo obligatorios y se endurecen
 
 Desde 2021, **toda obra nueva en Rumanía debe cumplir el estándar nZEB** (Nearly Zero Energy Building), lo que exige:
-- **Uw ≤ 1,00 W/(m²K)** para ventanas en la zona climática II, que incluye Bucarest
+- **Uw ≤ 1,11 W/(m²K)** para las ventanas de casas nuevas — valor de referencia de la Mc 001-2022 (1,20 en rehabilitación)
 - Consumo de energía primaria ≤ 100 kWh/m²/año
 - Al menos un 10 % de energía de fuentes renovables
 
@@ -31134,7 +31134,7 @@ Neofort BIZ suministra exclusivamente productos con marcado CE y DoP completa. [
 
 Il **Regolamento (UE) n. 305/2011** — noto come **CPR (Construction Products Regulation)** — è la normativa europea che stabilisce le condizioni di commercializzazione di tutti i prodotti da costruzione nel mercato UE. Obbliga i fabbricanti a redigere una **Dichiarazione di Prestazione (DoP)** e ad apporre la **marcatura CE** sui prodotti, finestre, porte e profili in PVC e alluminio compresi.
 
-La Romania ha recepito il CPR con la **Legge 10/1995 sulla qualità nelle costruzioni** e il **Decreto 622/2004**, aggiornati dal **Decreto 765/2016** — l’atto che fissa anche i requisiti nZEB obbligatori dal 2021.
+La Romania applica il CPR con la **Legge 10/1995 sulla qualità nelle costruzioni** e con il decreto del 2017 sulla commercializzazione dei prodotti da costruzione, che ha sostituito il **Decreto 622/2004**. I requisiti nZEB, obbligatori per i permessi di costruire rilasciati dal 31 dicembre 2020, derivano dalla **Legge 372/2005** e dalla metodologia **Mc 001-2022**.
 
 ## Che cosa cambia nel 2026 per i prodotti da costruzione
 
@@ -31158,7 +31158,7 @@ La norma **EN 14351-1:2006+A2:2016** (finestre e porte esterne) è in revisione,
 ### 3. I requisiti nZEB restano obbligatori e si irrigidiscono
 
 Dal 2021 **tutte le nuove costruzioni in Romania devono rispettare lo standard nZEB** (Nearly Zero Energy Building), il che impone:
-- **Uw ≤ 1,00 W/(m²K)** per le finestre nella zona climatica II, che comprende Bucarest
+- **Uw ≤ 1,11 W/(m²K)** per le finestre delle case nuove — valore di riferimento della Mc 001-2022 (1,20 nelle ristrutturazioni)
 - Consumo di energia primaria ≤ 100 kWh/m²/anno
 - Almeno il 10 % di energia da fonti rinnovabili
 

@@ -26,6 +26,7 @@ const PRICES_SLUGS = {
 const UI = {
   ro: {
     h1: 'Ghid Complet Sisteme Umbrire 2026 — Zipscreen, Raffstore, Rulouri și Pergole',
+    seo_title: 'Ghid Sisteme Umbrire 2026 — Zipscreen, Rulouri',
     sub: 'Ghid complet al sistemelor de umbrire exterioară: Zipscreen, Raffstore, rulouri din aluminiu și pergole Somfy — cum alegi, rezistența la vânt și montajul.',
     breadcrumb: 'Ghid Complet',
     parent_label: 'Sisteme Umbrire',
@@ -60,6 +61,7 @@ const UI = {
   },
   en: {
     h1: 'Complete Shading Systems Guide 2026 — Zipscreen, Raffstore, Roller Shutters',
+    seo_title: 'Shading Systems Guide 2026 — Zipscreen',
     sub: 'Complete guide to exterior shading: Zipscreen, Raffstore, aluminium roller shutters and Somfy pergolas — how to choose, wind resistance and installation.',
     breadcrumb: 'Complete Guide',
     parent_label: 'Shading Systems',
@@ -94,6 +96,7 @@ const UI = {
   },
   de: {
     h1: 'Kompletter Beschattungsratgeber 2026 — Zipscreen, Raffstore, Außenrollladen',
+    seo_title: 'Beschattungssysteme Ratgeber 2026 — Zipscreen',
     sub: 'Kompletter Ratgeber zur Außenbeschattung: Zipscreen, Raffstore, Aluminium-Rollladen und Somfy-Pergolen — Auswahl, Windwiderstand und Montage.',
     breadcrumb: 'Kompletter Ratgeber',
     parent_label: 'Beschattungssysteme',
@@ -128,6 +131,7 @@ const UI = {
   },
   fr: {
     h1: 'Guide complet systèmes d\'occultation 2026 — Zipscreen, Raffstore, Volets roulants',
+    seo_title: "Guide systèmes d'occultation 2026 — Zipscreen",
     sub: 'Guide complet de l\'occultation extérieure : Zipscreen, Raffstore, volets roulants aluminium et pergolas Somfy — choix, résistance au vent et pose.',
     breadcrumb: 'Guide complet',
     parent_label: 'Systèmes d\'occultation',
@@ -162,6 +166,7 @@ const UI = {
   },
   es: {
     h1: 'Guía completa sistemas de sombreado 2026 — Zipscreen, Raffstore, Persianas aluminio',
+    seo_title: 'Guía sistemas de sombreado 2026 — Zipscreen',
     sub: 'Guía completa del sombreado exterior: Zipscreen, Raffstore, persianas de aluminio y pérgolas Somfy — cómo elegir, resistencia al viento e instalación.',
     breadcrumb: 'Guía completa',
     parent_label: 'Sistemas de sombreado',
@@ -196,6 +201,7 @@ const UI = {
   },
   it: {
     h1: 'Guida completa sistemi di oscuramento 2026 — Zipscreen, Raffstore, Tapparelle',
+    seo_title: 'Guida sistemi di oscuramento 2026 — Zipscreen',
     sub: 'Guida completa all\'oscuramento esterno: Zipscreen, Raffstore, tapparelle in alluminio e pergole Somfy — come scegliere, resistenza al vento e posa.',
     breadcrumb: 'Guida completa',
     parent_label: 'Sistemi di oscuramento',
@@ -270,12 +276,12 @@ const BLOG_LINKS = {
 };
 
 const WA_URLS = {
-  ro: 'https://wa.me/40752443435?text=Buna%20ziua%21%20Doresc%20o%20oferta%20pentru%20sisteme%20de%20umbrire.',
-  en: 'https://wa.me/40752443435?text=Hello%21%20Quote%20for%20shading%20systems.',
-  de: 'https://wa.me/40752443435?text=Hallo%21%20Angebot%20fur%20Beschattungssysteme.',
-  fr: 'https://wa.me/40752443435?text=Bonjour%21%20Devis%20systemes%20occultation.',
-  es: 'https://wa.me/40752443435?text=Hola%21%20Presupuesto%20sistemas%20sombreado.',
-  it: 'https://wa.me/40752443435?text=Buongiorno%21%20Preventivo%20sistemi%20oscuramento.',
+  ro: 'https://wa.me/40752443435?text=' + encodeURIComponent('Bună ziua! Doresc o ofertă pentru sisteme de umbrire.'),
+  en: 'https://wa.me/40752443435?text=' + encodeURIComponent('Hello! I would like a quote for shading systems.'),
+  de: 'https://wa.me/40752443435?text=' + encodeURIComponent('Guten Tag! Ich hätte gern ein Angebot für Beschattungssysteme.'),
+  fr: 'https://wa.me/40752443435?text=' + encodeURIComponent('Bonjour ! Je souhaite un devis pour des systèmes d’occultation.'),
+  es: 'https://wa.me/40752443435?text=' + encodeURIComponent('¡Hola! Quisiera un presupuesto de sistemas de sombreado.'),
+  it: 'https://wa.me/40752443435?text=' + encodeURIComponent('Buongiorno! Vorrei un preventivo per sistemi di oscuramento.'),
 };
 const WA_LABELS = {
   ro: 'WhatsApp',
@@ -316,7 +322,7 @@ export async function generateMetadata({ params }) {
   const slug = SLUGS[locale] || SLUGS.ro;
   const canonical = `${BASE}/${locale}/${slug}`;
   return {
-    title: `${ui.h1} | Neofort BIZ`,
+    title: `${ui.seo_title || ui.h1} | Neofort BIZ`,
     description: ui.sub,
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
