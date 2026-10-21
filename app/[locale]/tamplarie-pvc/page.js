@@ -238,19 +238,19 @@ export default async function TamplariePVCPage({ params }) {
     it: 'infissi-pvc/guida-completa',
   };
   const PILLAR_LABELS = {
-    ro: 'Ghid Complet Tamplarie PVC 2026 — Profile, geamuri, montaj, preturi',
+    ro: 'Ghid Complet Tâmplărie PVC 2026 — Profile, geamuri, montaj, prețuri',
     en: 'Complete PVC Windows Guide 2026 — Profiles, glazing, installation',
-    de: 'PVC-Fenster Ratgeber 2026 — Profile, Verglasung, Montage',
+    de: 'PVC-Fenster-Ratgeber 2026 — Profile, Verglasung, Montage',
     fr: 'Guide complet menuiserie PVC 2026 — Profils, vitrage, pose',
-    es: 'Guia completa carpinteria PVC 2026 — Perfiles, acristalamiento, instalacion',
+    es: 'Guía completa carpintería PVC 2026 — Perfiles, acristalamiento, instalación',
     it: 'Guida completa infissi PVC 2026 — Profili, vetro, installazione',
   };
   const PILLAR_CTA = {
-    ro: 'Citeste Ghidul Complet',
+    ro: 'Citește ghidul complet',
     en: 'Read the Complete Guide',
     de: 'Kompletten Ratgeber lesen',
     fr: 'Lire le guide complet',
-    es: 'Leer la guia completa',
+    es: 'Leer la guía completa',
     it: 'Leggi la guida completa',
   };
   const pillarSlug = PILLAR_SLUGS[locale] || PILLAR_SLUGS.ro;

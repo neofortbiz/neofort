@@ -61,7 +61,13 @@ export async function generateMetadata({ params }) {
 // renderMarkdown → HTML string (compatibil Server Components Next.js 14)
 function renderMarkdown(md) {
   const esc = (s) => s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-  const bold = (s) => esc(s).replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
+  // *text* = italic. Inainte nu era tratat si asteriscurile apareau ca atare in 91 de
+  // note/citate din articole. Asteriscul de nota de subsol („Cost anual*", „*Preț
+  // energie…" fara pereche) nu e atins: deschiderea cere non-litera inainte, inchiderea
+  // non-litera dupa, iar perechea trebuie sa fie pe acelasi rand.
+  const bold = (s) => esc(s)
+    .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+    .replace(/(^|[^*\p{L}\p{N}])\*(?!\s)([^*\n]+?)(?<!\s)\*(?![*\p{L}\p{N}])/gu,'$1<em>$2</em>');
   const links = (s) => bold(s).replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_,text,url) => {
     const isExternal = url.startsWith('http');
     return `<a href="${url}"${isExternal?' target="_blank" rel="noopener"':''} style="color:#934812;text-decoration:underline;text-underline-offset:2px">${text}</a>`;
@@ -204,15 +210,15 @@ export default async function BlogArticlePage({ params }) {
     },
   };
   const PILLAR_LABELS_BLOG = {
-    pvc: { ro: 'Ghid Complet Tamplarie PVC', en: 'Complete PVC Guide', de: 'PVC Ratgeber', fr: 'Guide PVC complet', es: 'Guia PVC completa', it: 'Guida PVC completa' },
-    aluminiu: { ro: 'Ghid Complet Tamplarie Aluminiu', en: 'Complete Aluminium Guide', de: 'Aluminiumfenster Ratgeber', fr: 'Guide aluminium complet', es: 'Guia aluminio completa', it: 'Guida alluminio completa' },
-    umbrire: { ro: 'Ghid Complet Sisteme Umbrire', en: 'Complete Shading Guide', de: 'Beschattungsratgeber', fr: 'Guide occultation complet', es: 'Guia sombreado completa', it: 'Guida oscuramento completa' },
-    nzeb: { ro: 'Ghid Complet Sisteme nZEB', en: 'Complete nZEB Guide', de: 'nZEB Ratgeber', fr: 'Guide nZEB complet', es: 'Guia nZEB completa', it: 'Guida nZEB completa' },
+    pvc: { ro: 'Ghid Complet Tâmplărie PVC', en: 'Complete PVC Guide', de: 'PVC-Ratgeber', fr: 'Guide PVC complet', es: 'Guía completa de PVC', it: 'Guida completa al PVC' },
+    aluminiu: { ro: 'Ghid Complet Tâmplărie Aluminiu', en: 'Complete Aluminium Guide', de: 'Aluminiumfenster-Ratgeber', fr: 'Guide aluminium complet', es: 'Guía completa de aluminio', it: 'Guida completa all\'alluminio' },
+    umbrire: { ro: 'Ghid Complet Sisteme Umbrire', en: 'Complete Shading Guide', de: 'Beschattungsratgeber', fr: 'Guide complet de l\'occultation', es: 'Guía completa de sombreado', it: 'Guida completa all\'oscuramento' },
+    nzeb: { ro: 'Ghid Complet Sisteme nZEB', en: 'Complete nZEB Guide', de: 'nZEB-Ratgeber', fr: 'Guide nZEB complet', es: 'Guía completa nZEB', it: 'Guida completa nZEB' },
   };
   const PILLAR_READ_BLOG = {
-    ro: 'Citeste ghidul complet', en: 'Read the complete guide',
+    ro: 'Citește ghidul complet', en: 'Read the complete guide',
     de: 'Kompletten Ratgeber lesen', fr: 'Lire le guide complet',
-    es: 'Leer la guia completa', it: 'Leggi la guida completa',
+    es: 'Leer la guía completa', it: 'Leggi la guida completa',
   };
   const articleSlugRo = a.slugs?.ro || '';
   const pillarCat = PILLAR_MAP[articleSlugRo] || null;

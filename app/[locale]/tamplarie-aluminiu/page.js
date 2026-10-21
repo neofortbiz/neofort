@@ -60,7 +60,7 @@ const SPECS = {
     it:[['Taglio termico','28 mm'],['Tenuta perimetrale','spazzole tri-fin'],['Profondità','35-35 mm'],['Trasmittanza Uf','da 2,9 W/m²K'],['Vetro','fino a 28mm'],['Isolamento acustico','fino a 38 dB'],['Antieffrazione','fino a RC 2']],
   },
   sf85: {
-    ro:[['Bariera termică','40 mm'],['Izolare','Kooltherm si 2 garnituri'],['Adâncime','85 mm'],['Transfer termic Uf','de la 1.0 W/m²K'],['Vitraj','până la 58mm'],['Protecție fonică','până la 38 dB'],['Anti-efracție','PAS24']],
+    ro:[['Bariera termică','40 mm'],['Izolare','Kooltherm și 2 garnituri'],['Adâncime','85 mm'],['Transfer termic Uf','de la 1.0 W/m²K'],['Vitraj','până la 58mm'],['Protecție fonică','până la 38 dB'],['Anti-efracție','PAS24']],
     en:[['Thermal barrier','40 mm'],['Insulation','Kooltherm and 2 gaskets'],['Depth','85 mm'],['Thermal transfer Uf','from 1.0 W/m²K'],['Glazing','up to 58mm'],['Sound insulation','up to 38 dB'],['Burglar resistance','PAS24']],
     de:[['Wärmedämmbrücke','40 mm'],['Dämmung','Kooltherm und 2 Dichtungen'],['Bautiefe','85 mm'],['Wärmedurchgang Uf','ab 1,0 W/m²K'],['Verglasung','bis 58mm'],['Schallschutz','bis 38 dB'],['Einbruchschutz','PAS24']],
     fr:[['Rupture pont thermique','40 mm'],['Isolation','Kooltherm et 2 joints'],['Profondeur','85 mm'],['Transfert thermique Uf','dès 1,0 W/m²K'],['Vitrage','jusqu\'à 58mm'],['Protection phonique','jusqu\'à 38 dB'],['Anti-effraction','PAS24']],
@@ -231,19 +231,19 @@ export default async function TamplaieAluminiuPage({ params }) {
     it: 'infissi-alluminio/guida-completa',
   };
   const PILLAR_LABELS = {
-    ro: 'Ghid Complet Tamplarie Aluminiu 2026 — Alumil S77, S67, M19800, sisteme',
+    ro: 'Ghid Complet Tâmplărie Aluminiu 2026 — sistemele Alumil S77, S67, M19800',
     en: 'Complete Aluminium Guide 2026 — Alumil S77, S67, M19800 systems',
-    de: 'Aluminiumfenster Ratgeber 2026 — Alumil S77, S67, M19800 Systeme',
-    fr: 'Guide complet aluminium 2026 — Systemes Alumil S77, S67, M19800',
-    es: 'Guia completa aluminio 2026 — Sistemas Alumil S77, S67, M19800',
+    de: 'Aluminiumfenster-Ratgeber 2026 — Alumil-Systeme S77, S67, M19800',
+    fr: 'Guide complet aluminium 2026 — Systèmes Alumil S77, S67, M19800',
+    es: 'Guía completa aluminio 2026 — Sistemas Alumil S77, S67, M19800',
     it: 'Guida completa alluminio 2026 — Sistemi Alumil S77, S67, M19800',
   };
   const PILLAR_CTA = {
-    ro: 'Citeste Ghidul Complet',
+    ro: 'Citește ghidul complet',
     en: 'Read the Complete Guide',
     de: 'Kompletten Ratgeber lesen',
     fr: 'Lire le guide complet',
-    es: 'Leer la guia completa',
+    es: 'Leer la guía completa',
     it: 'Leggi la guida completa',
   };
   const pillarSlug = PILLAR_SLUGS[locale] || PILLAR_SLUGS.ro;

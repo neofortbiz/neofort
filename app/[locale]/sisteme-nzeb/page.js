@@ -112,18 +112,18 @@ export default async function Page({ params }) {
   };
   const PILLAR_LABELS = {
     ro: 'Ghid Complet Sisteme nZEB 2026 — Ferestre eficiente energetic',
-    en: 'Complete nZEB Guide 2026 — Energy efficient windows',
-    de: 'nZEB Ratgeber 2026 — Energieeffiziente Fenster',
-    fr: 'Guide nZEB 2026 — Fenetres a haute efficacite energetique',
-    es: 'Guia nZEB 2026 — Ventanas de alta eficiencia energetica',
+    en: 'Complete nZEB Guide 2026 — Energy-efficient windows',
+    de: 'nZEB-Ratgeber 2026 — Energieeffiziente Fenster',
+    fr: 'Guide nZEB 2026 — Fenêtres à haute efficacité énergétique',
+    es: 'Guía nZEB 2026 — Ventanas de alta eficiencia energética',
     it: 'Guida nZEB 2026 — Infissi ad alta efficienza energetica',
   };
   const PILLAR_CTA = {
-    ro: 'Citeste Ghidul Complet',
+    ro: 'Citește ghidul complet',
     en: 'Read the Complete Guide',
     de: 'Kompletten Ratgeber lesen',
     fr: 'Lire le guide complet',
-    es: 'Leer la guia completa',
+    es: 'Leer la guía completa',
     it: 'Leggi la guida completa',
   };
   const pillarSlug = PILLAR_SLUGS[locale] || PILLAR_SLUGS.ro;

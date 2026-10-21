@@ -361,12 +361,12 @@ export const PRODUCT_META = {
       it: 'Pre-telai Blaugelb Triotherm+ – sistema certificato RAL',
     },
     desc: {
-      ro: 'Precadru XPS cu 3 zone de izolare termică, λ 0,040 W/m²K, reduce puntea termică de montaj cu peste 90%. Necesar nZEB și Passive House.',
-      en: 'XPS precasing with three thermal insulation zones, λ 0.040 W/m²K, cutting the installation thermal bridge by 90%. For nZEB and Passive House.',
-      de: 'XPS-Vorfenster mit 3 Dämmzonen, λ 0,040 W/m²K, zertifiziertes thermisches System: 90% weniger Montage-Wärmebrücke. Für nZEB und Passivhaus.',
-      fr: 'Précadre XPS à 3 zones d’isolation, λ 0,040 W/m²K : le pont thermique de montage chute de 90%. Requis en nZEB et maison passive.',
-      es: 'Premarco XPS con 3 zonas de aislamiento térmico, λ 0,040 W/m²K, reduce el puente térmico de montaje un 90%. Para nZEB y Passivhaus.',
-      it: 'Pre-telaio XPS con 3 zone di isolamento termico, λ 0,040 W/m²K, riduce il ponte termico di montaggio del 90%. Per nZEB e Passive House.',
+      ro: 'Precadru XPS cu 3 zone de izolare termică, λ 0,040 W/mK, reduce puntea termică de montaj cu peste 90%. Necesar nZEB și Passive House.',
+      en: 'XPS precasing with three thermal insulation zones, λ 0.040 W/mK, cutting the installation thermal bridge by 90%. For nZEB and Passive House.',
+      de: 'XPS-Vorfenster mit 3 Dämmzonen, λ 0,040 W/mK, zertifiziertes thermisches System: 90% weniger Montage-Wärmebrücke. Für nZEB und Passivhaus.',
+      fr: 'Précadre XPS à 3 zones d’isolation, λ 0,040 W/mK : le pont thermique de montage chute de 90%. Requis en nZEB et maison passive.',
+      es: 'Premarco XPS con 3 zonas de aislamiento térmico, λ 0,040 W/mK, reduce el puente térmico de montaje un 90%. Para nZEB y Passivhaus.',
+      it: 'Pre-telaio XPS con 3 zone di isolamento termico, λ 0,040 W/mK, riduce il ponte termico di montaggio del 90%. Per nZEB e Passive House.',
     },
   },
 

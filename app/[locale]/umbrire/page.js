@@ -107,17 +107,17 @@ export default async function Page({ params }) {
   const PILLAR_LABELS = {
     ro: 'Ghid Complet Sisteme Umbrire 2026 — Zipscreen, Raffstore, Rulouri',
     en: 'Complete Shading Guide 2026 — Zipscreen, Raffstore, Roller Shutters',
-    de: 'Beschattungsratgeber 2026 — Zipscreen, Raffstore, Aussenrollladen',
-    fr: 'Guide occultation 2026 — Zipscreen, Raffstore, Volets roulants',
-    es: 'Guia sombreado 2026 — Zipscreen, Raffstore, Persianas aluminio',
+    de: 'Beschattungsratgeber 2026 — Zipscreen, Raffstore, Außenrollladen',
+    fr: 'Guide de l\'occultation 2026 — Zipscreen, Raffstore, Volets roulants',
+    es: 'Guía de sombreado 2026 — Zipscreen, Raffstore, Persianas aluminio',
     it: 'Guida oscuramento 2026 — Zipscreen, Raffstore, Tapparelle',
   };
   const PILLAR_CTA = {
-    ro: 'Citeste Ghidul Complet',
+    ro: 'Citește ghidul complet',
     en: 'Read the Complete Guide',
     de: 'Kompletten Ratgeber lesen',
     fr: 'Lire le guide complet',
-    es: 'Leer la guia completa',
+    es: 'Leer la guía completa',
     it: 'Leggi la guida completa',
   };
   const pillarSlug = PILLAR_SLUGS[locale] || PILLAR_SLUGS.ro;
