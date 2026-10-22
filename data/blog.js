@@ -14990,16 +14990,16 @@ Neofort BIZ installa ZipScreen, tapparelle, Raffstore e pergole bioclimatiche a 
 | Fereastră oscilo-batantă 80×100 cm, geam dublu | 360–480 EUR |
 | Fereastră oscilo-batantă 100×120 cm, geam dublu | 420–560 EUR |
 | Fereastră oscilo-batantă 100×120 cm, geam triplu Low-E | 510–680 EUR |
-| **Preț per mp montat** | **200–300 EUR/mp** |
+| **Preț per mp montat** | **200–285 EUR/mp** |
 
 ### BluEvolution 92 ALU (placat aluminiu) — aspect premium
 
 | Configurație | Preț estimat |
 |---|---|
 | Fereastră oscilo-batantă 100×120 cm, geam dublu | 550–720 EUR |
-| **Preț per mp montat** | **250–380 EUR/mp** |
+| **Preț per mp montat** | **250–350 EUR/mp** |
 
-*Prețurile includ: profil Salamander original, feronerie standard Roto/Siegenia, geam Saint-Gobain și montaj profesional.*
+*Prețurile includ: profil Salamander original, feronerie standard Roto/Siegenia, geam Saint-Gobain și montaj profesional. Sunt prețuri fără TVA; TVA-ul de 21% se adaugă la facturare.*
 
 ---
 
@@ -15047,7 +15047,7 @@ Trimite-ne dimensiunile ferestrelor și preferința de profil. Răspundem în **
 
 ### Cât costă termopanele Salamander în București în 2026?
 
-Pentru profilul GreenEvolution 76 (5 camere, Uw 0,73), prețul montat e 150-220 EUR/mp; pentru BluEvolution 92 (6 camere, Uw 0,70, nZEB) e 200-285 EUR/mp; iar pentru BluEvolution 92 ALU placat aluminiu, 250-350 EUR/mp. Toate prețurile sunt orientative, condiții martie 2026.
+Pentru profilul GreenEvolution 76 (5 camere, Uw 0,73), prețul montat e 150-220 EUR/mp; pentru BluEvolution 92 (6 camere, Uw 0,70, nZEB) e 200-285 EUR/mp; iar pentru BluEvolution 92 ALU placat aluminiu, 250-350 EUR/mp. Toate prețurile sunt orientative, fără TVA, condiții martie 2026.
 
 ### Care e diferența de preț între GreenEvolution 76 și BluEvolution 92?
 
@@ -15059,7 +15059,11 @@ O ușă de balcon 80×210 cm cu geam dublu în profil GreenEvolution 76 costă a
 
 ### Ce profil Salamander e recomandat pentru standard nZEB?
 
-BluEvolution 92, cu 6 camere și Uw 0,70 W/m²K, este profilul recomandat pentru standardul nZEB. Versiunea ALU placată cu aluminiu adaugă aspect premium. GreenEvolution 76 (5 camere, Uw 0,73) e o alternativă mai economică, foarte aproape de pragul nZEB.
+BluEvolution 92, cu 6 camere și Uw 0,70 W/m²K, este profilul recomandat pentru standardul nZEB. Versiunea ALU placată cu aluminiu adaugă aspect premium. GreenEvolution 76 (5 camere, Uw de la 0,73) e o alternativă mai economică, care se încadrează și ea în valoarea de referință pentru case noi din Mc 001-2022 (Uw ≤ 1,11 W/m²K).
+
+### Prețurile includ TVA și montajul?
+
+Prețurile din acest articol includ profilul Salamander original, feroneria standard, geamul Saint-Gobain și montajul profesional, dar nu includ TVA: TVA-ul de 21% se adaugă la facturare. Montajul nZEB cu precadre Blaugelb Triotherm+ se adaugă separat, cu 25-50 EUR pe metru liniar de perimetru.
 
 
 ---
@@ -15067,243 +15071,550 @@ BluEvolution 92, cu 6 camere și Uw 0,70 W/m²K, este profilul recomandat pentru
 Neofort BIZ furnizează termopane Salamander pe toate profilele, în București și Ilfov. [Trimite-ne dimensiunile golurilor](/ro/contact) și primești ofertă detaliată în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Nivelurile de preț pe configurație sunt detaliate la [prețuri tâmplărie PVC](/ro/tamplarie-pvc/preturi), iar pachetele de vitraj disponibile la [geamuri termoizolante Saint-Gobain](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg).
 `,
 
-      en: `## Salamander window prices — Bucharest 2026
+      en: `## Salamander double glazing prices — Bucharest 2026
 
-### GreenEvolution 76 — Uw 0.73 W/m²K
-
-| Configuration | Estimated price |
-|---|---|
-| Tilt-and-turn 80×100 cm, double glazing | 280–380 EUR |
-| Tilt-and-turn 100×120 cm, double glazing | 320–430 EUR |
-| Tilt-and-turn 100×120 cm, triple Low-E | 390–510 EUR |
-| **Price per m² installed** | **150–220 EUR/m²** |
-
-> ⚠️ **Important note on prices:** All prices in this article are **indicative** and reflect market conditions as of March 2026. Material, energy and labour costs are constantly changing and may increase or decrease. Always request an [updated quote](/en/contact) before making a purchasing decision.
-
-
-### BluEvolution 92 — Uw 0.70 W/m²K (nZEB)
-
-| Configuration | Estimated price |
-|---|---|
-| Tilt-and-turn 100×120 cm, double glazing | 420–560 EUR |
-| Tilt-and-turn 100×120 cm, triple Low-E | 510–680 EUR |
-| **Price per m² installed** | **200–300 EUR/m²** |
+[GreenEvolution 76](/en/pvc-windows) and BluEvolution 92 are the two main Salamander ranges available at Neofort BIZ. Here are the complete prices for 2026. Full details are in [the complete comparison of Salamander profiles](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).
 
 ---
 
-## 6 factors that influence the final price
+## Indicative prices per window (installation included)
 
-1. Profile choice — BluEvolution 92 costs 25–40% more than [GreenEvolution 76](/en/pvc-windows)
-2. Glazing type — triple Low-E adds 40–80 EUR/m²
-3. Dimensions — 2-sash windows cost 15–25% more
-4. Colour — 7 standard colours included, RAL specials +8–15%
-5. Hardware — RC2 anti-burglary hardware adds 80–150 EUR per window
-6. Installation — nZEB with Blaugelb Triotherm+ adds 25–50 EUR/ml
+### GreenEvolution 76 — 5-chamber profile, Uw 0.73 W/m²K
 
-**WhatsApp:** +40 752 443 435
+| Configuration | Estimated price |
+|---|---|
+| Tilt-and-turn window 80×100 cm, double glazing | 280–380 EUR |
+| Tilt-and-turn window 100×120 cm, double glazing | 320–430 EUR |
+| Tilt-and-turn window 100×120 cm, triple Low-E glazing | 390–510 EUR |
+| Balcony door 80×210 cm, double glazing | 450–580 EUR |
+| **Price per m² installed** | **150–220 EUR/m²** |
+
+> ⚠️ **Important note on prices:** All prices in this article are **indicative** and reflect market conditions in March 2026. Prices of materials, energy and labour change constantly and may go up or down. Always ask for an [updated quote](/en/contact) before making a purchase decision.
+
+
+### BluEvolution 92 — 6-chamber profile, Uw 0.70 W/m²K (nZEB)
+
+| Configuration | Estimated price |
+|---|---|
+| Tilt-and-turn window 80×100 cm, double glazing | 360–480 EUR |
+| Tilt-and-turn window 100×120 cm, double glazing | 420–560 EUR |
+| Tilt-and-turn window 100×120 cm, triple Low-E glazing | 510–680 EUR |
+| **Price per m² installed** | **200–285 EUR/m²** |
+
+### BluEvolution 92 ALU (aluminium-clad) — premium look
+
+| Configuration | Estimated price |
+|---|---|
+| Tilt-and-turn window 100×120 cm, double glazing | 550–720 EUR |
+| **Price per m² installed** | **250–350 EUR/m²** |
+
+*Prices include: original Salamander profile, standard Roto/Siegenia hardware, Saint-Gobain glass and professional installation. Prices exclude VAT; 21% VAT is added at invoicing.*
+
+---
+
+## The 6 factors that influence the final price
+
+**1. The profile you choose** — BluEvolution 92 costs 25–40% more than GreenEvolution 76.
+
+**2. Glazing type** — Triple Low-E glazing adds 40–80 EUR/m² over standard double glazing.
+
+**3. Dimensions** — Two-sash windows cost 15–25% more than single-sash ones.
+
+**4. Colour** — 7 standard colours are included. Special RAL colours add 8–15%.
+
+**5. Hardware** — RC2 burglar-resistant hardware adds 80–150 EUR per window.
+
+**6. Installation type** — nZEB installation with Blaugelb Triotherm+ pre-frames adds 25–50 EUR per linear metre of perimeter.
+
+---
+
+## Estimates for complete jobs
+
+### Two-room apartment (4–6 windows + 1 balcony door)
+
+| Configuration | Total estimate |
+|---|---|
+| GreenEvolution 76, double Low-E glazing | 3,500–5,500 EUR |
+| BluEvolution 92, triple Low-E glazing, nZEB installation | 6,500–9,500 EUR |
+
+### 120 m² house (10–14 windows + 2 doors)
+
+| Configuration | Total estimate |
+|---|---|
+| GreenEvolution 76, double Low-E glazing | 9,000–14,000 EUR |
+| BluEvolution 92, triple Low-E glazing, full nZEB installation | 16,000–25,000 EUR |
+
+---
+
+## Request a personalised quote
+
+Send us your window dimensions and your preferred profile. We reply within **48 hours** with a detailed quote.
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
 
 ## Frequently Asked Questions
 
 ### How much do Salamander windows cost in Bucharest in 2026?
 
-For the GreenEvolution 76 profile (5 chambers, Uw 0.73), the fitted price is 150-220 EUR/m²; for BluEvolution 92 (6 chambers, Uw 0.70, nZEB) it is 200-285 EUR/m²; and for BluEvolution 92 ALU with aluminium cladding, 250-350 EUR/m². All prices are indicative, March 2026 conditions.
+For the GreenEvolution 76 profile (5 chambers, Uw 0.73), the installed price is 150-220 EUR/m²; for BluEvolution 92 (6 chambers, Uw 0.70, nZEB) it is 200-285 EUR/m²; and for the aluminium-clad BluEvolution 92 ALU, 250-350 EUR/m². All prices are indicative, excluding VAT, at March 2026 conditions.
 
 ### What is the price difference between GreenEvolution 76 and BluEvolution 92?
 
-A 100×120 cm tilt-and-turn window with triple Low-E glazing costs 390-510 EUR in GreenEvolution 76 and 510-680 EUR in BluEvolution 92. BluEvolution 92 has 6 chambers and Uw 0.70 (nZEB standard), versus 5 chambers and Uw 0.73 for GreenEvolution 76.
+A 100×120 cm tilt-and-turn window with triple Low-E glazing costs 390-510 EUR in GreenEvolution 76 and 510-680 EUR in BluEvolution 92. BluEvolution 92 has 6 chambers and Uw 0.70 (nZEB standard), against 5 chambers and Uw 0.73 for GreenEvolution 76.
 
 ### How much does a Salamander balcony door cost?
 
-An 80×210 cm balcony door with double glazing in the GreenEvolution 76 profile costs around 450-580 EUR. The price varies with profile, glazing type (double/triple) and hardware. All prices are indicative and an updated quote is recommended.
+An 80×210 cm balcony door with double glazing in the GreenEvolution 76 profile costs roughly 450-580 EUR. The price varies with the profile, the glazing type (double/triple) and the hardware. All prices are indicative and it is best to ask for an updated quote.
 
 ### Which Salamander profile is recommended for the nZEB standard?
 
-BluEvolution 92, with 6 chambers and Uw 0.70 W/m²K, is the profile recommended for the nZEB standard. The ALU version with aluminium cladding adds a premium look. GreenEvolution 76 (5 chambers, Uw 0.73) is a more economical alternative, very close to the nZEB threshold.
+BluEvolution 92, with 6 chambers and Uw 0.70 W/m²K, is the profile recommended for the nZEB standard. The aluminium-clad ALU version adds a premium look. GreenEvolution 76 (5 chambers, Uw from 0.73) is a more economical alternative that also meets the Mc 001-2022 reference value for new houses (Uw ≤ 1.11 W/m²K).
+
+### Do the prices include VAT and installation?
+
+The prices in this article include the original Salamander profile, standard hardware, Saint-Gobain glass and professional installation, but not VAT: 21% VAT is added at invoicing. nZEB installation with Blaugelb Triotherm+ pre-frames is added separately, at 25-50 EUR per linear metre of perimeter.
+
 
 ---
 
-Neofort BIZ supplies Salamander systems for houses, apartments and export projects, installed by our own teams. Discover [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). All the details in [the full Salamander profile comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). The price levels per configuration are detailed at [PVC joinery prices](/en/pvc-windows/prices), and the available glazing packages at [Saint-Gobain insulating glass units](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass).`,
+Neofort BIZ supplies Salamander double glazing in every profile, in Bucharest and Ilfov. [Send us the opening dimensions](/en/contact) and you will receive a detailed quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Price levels by configuration are set out at [PVC window prices](/en/pvc-windows/prices), and the available glazing packages at [Saint-Gobain insulating glass](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass).
+`,
 
-      de: `## Salamander Fensterpreise — Bukarest 2026
+      de: `## Preise für Salamander-Isolierglasfenster — Bukarest 2026
 
-### GreenEvolution 76 — Uw 0,73 W/m²K
+[GreenEvolution 76](/de/kunststofffenster-pvc) und BluEvolution 92 sind die beiden wichtigsten Salamander-Serien bei Neofort BIZ. Hier sind die vollständigen Preise für 2026. Alle Einzelheiten finden Sie im [vollständigen Vergleich der Salamander-Profile](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden).
 
-| Konfiguration | Geschätzter Preis |
+---
+
+## Richtpreise pro Fenster (inklusive Montage)
+
+### GreenEvolution 76 — 5-Kammer-Profil, Uw 0,73 W/m²K
+
+| Ausführung | Geschätzter Preis |
 |---|---|
-| Dreh-Kipp 80×100 cm, Zweifachverglasung | 280–380 EUR |
-| Dreh-Kipp 100×120 cm, Zweifachverglasung | 320–430 EUR |
-| Dreh-Kipp 100×120 cm, Dreifach-Low-E | 390–510 EUR |
+| Dreh-Kipp-Fenster 80×100 cm, Zweifachverglasung | 280–380 EUR |
+| Dreh-Kipp-Fenster 100×120 cm, Zweifachverglasung | 320–430 EUR |
+| Dreh-Kipp-Fenster 100×120 cm, Dreifachverglasung Low-E | 390–510 EUR |
+| Balkontür 80×210 cm, Zweifachverglasung | 450–580 EUR |
 | **Preis pro m² montiert** | **150–220 EUR/m²** |
 
-> ⚠️ **Wichtiger Hinweis zu Preisen:** Alle in diesem Artikel genannten Preise sind **Richtwerte** und spiegeln die Marktbedingungen vom März 2026 wider. Material-, Energie- und Arbeitskosten ändern sich ständig und können steigen oder fallen. Fordern Sie immer ein [aktuelles Angebot](/de/kontakt) an, bevor Sie eine Kaufentscheidung treffen.
+> ⚠️ **Wichtiger Hinweis zu den Preisen:** Alle Preise in diesem Artikel sind **Richtpreise** und spiegeln die Marktlage vom März 2026 wider. Material-, Energie- und Lohnkosten ändern sich ständig und können steigen oder fallen. Fordern Sie vor einer Kaufentscheidung immer ein [aktuelles Angebot](/de/kontakt) an.
 
 
-### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
+### BluEvolution 92 — 6-Kammer-Profil, Uw 0,70 W/m²K (nZEB)
 
-| Konfiguration | Geschätzter Preis |
+| Ausführung | Geschätzter Preis |
 |---|---|
-| Dreh-Kipp 100×120 cm, Zweifachverglasung | 420–560 EUR |
-| Dreh-Kipp 100×120 cm, Dreifach-Low-E | 510–680 EUR |
-| **Preis pro m² montiert** | **200–300 EUR/m²** |
+| Dreh-Kipp-Fenster 80×100 cm, Zweifachverglasung | 360–480 EUR |
+| Dreh-Kipp-Fenster 100×120 cm, Zweifachverglasung | 420–560 EUR |
+| Dreh-Kipp-Fenster 100×120 cm, Dreifachverglasung Low-E | 510–680 EUR |
+| **Preis pro m² montiert** | **200–285 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435
+### BluEvolution 92 ALU (mit Aluminiumschale) — Premium-Optik
+
+| Ausführung | Geschätzter Preis |
+|---|---|
+| Dreh-Kipp-Fenster 100×120 cm, Zweifachverglasung | 550–720 EUR |
+| **Preis pro m² montiert** | **250–350 EUR/m²** |
+
+*Die Preise enthalten: Original-Salamander-Profil, Standardbeschläge Roto/Siegenia, Saint-Gobain-Glas und fachgerechte Montage. Alle Preise verstehen sich ohne MwSt.; die rumänische MwSt. von 21 % kommt bei der Rechnungsstellung hinzu.*
+
+---
+
+## Die 6 Faktoren, die den Endpreis bestimmen
+
+**1. Das gewählte Profil** — BluEvolution 92 kostet 25–40 % mehr als GreenEvolution 76.
+
+**2. Die Verglasung** — Dreifachverglasung Low-E kostet 40–80 EUR/m² mehr als die Standard-Zweifachverglasung.
+
+**3. Die Abmessungen** — Zweiflügelige Fenster kosten 15–25 % mehr als einflügelige.
+
+**4. Die Farbe** — 7 Standardfarben sind inbegriffen. RAL-Sonderfarben kosten 8–15 % mehr.
+
+**5. Die Beschläge** — Einbruchhemmende Beschläge RC2 kosten 80–150 EUR mehr pro Fenster.
+
+**6. Die Montageart** — Die nZEB-Montage mit dem Vorwandmontagesystem Blaugelb Triotherm+ kostet 25–50 EUR pro laufendem Meter Umfang zusätzlich.
+
+---
+
+## Schätzungen für komplette Aufträge
+
+### Zweizimmerwohnung (4–6 Fenster + 1 Balkontür)
+
+| Ausführung | Gesamtschätzung |
+|---|---|
+| GreenEvolution 76, Zweifachverglasung Low-E | 3.500–5.500 EUR |
+| BluEvolution 92, Dreifachverglasung Low-E, nZEB-Montage | 6.500–9.500 EUR |
+
+### Haus mit 120 m² (10–14 Fenster + 2 Türen)
+
+| Ausführung | Gesamtschätzung |
+|---|---|
+| GreenEvolution 76, Zweifachverglasung Low-E | 9.000–14.000 EUR |
+| BluEvolution 92, Dreifachverglasung Low-E, komplette nZEB-Montage | 16.000–25.000 EUR |
+
+---
+
+## Individuelles Angebot anfordern
+
+Senden Sie uns die Fenstermaße und Ihr bevorzugtes Profil. Wir antworten innerhalb von **48 Stunden** mit einem detaillierten Angebot.
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18 Uhr**
 
 ## Häufig gestellte Fragen
 
 ### Was kosten Salamander-Fenster in Bukarest 2026?
 
-Für das Profil GreenEvolution 76 (5 Kammern, Uw 0,73) liegt der Montagepreis bei 150-220 EUR/m²; für BluEvolution 92 (6 Kammern, Uw 0,70, nZEB) bei 200-285 EUR/m²; und für BluEvolution 92 ALU mit Aluminiumverkleidung bei 250-350 EUR/m². Alle Preise sind Richtwerte, Stand März 2026.
+Für das Profil GreenEvolution 76 (5 Kammern, Uw 0,73) liegt der Preis montiert bei 150-220 EUR/m², für BluEvolution 92 (6 Kammern, Uw 0,70, nZEB) bei 200-285 EUR/m² und für BluEvolution 92 ALU mit Aluminiumschale bei 250-350 EUR/m². Alle Preise sind Richtpreise ohne MwSt., Stand März 2026.
 
 ### Was ist der Preisunterschied zwischen GreenEvolution 76 und BluEvolution 92?
 
-Ein 100×120-cm-Dreh-Kipp-Fenster mit Dreifach-Low-E-Glas kostet 390-510 EUR in GreenEvolution 76 und 510-680 EUR in BluEvolution 92. BluEvolution 92 hat 6 Kammern und Uw 0,70 (nZEB-Standard), gegenüber 5 Kammern und Uw 0,73 bei GreenEvolution 76.
+Ein Dreh-Kipp-Fenster 100×120 cm mit Dreifachverglasung Low-E kostet in GreenEvolution 76 390-510 EUR und in BluEvolution 92 510-680 EUR. BluEvolution 92 hat 6 Kammern und Uw 0,70 (nZEB-Standard), GreenEvolution 76 dagegen 5 Kammern und Uw 0,73.
 
 ### Was kostet eine Salamander-Balkontür?
 
-Eine 80×210-cm-Balkontür mit Doppelverglasung im Profil GreenEvolution 76 kostet etwa 450-580 EUR. Der Preis variiert je nach Profil, Verglasungstyp (Doppel/Dreifach) und Beschlag. Alle Preise sind Richtwerte, ein aktuelles Angebot wird empfohlen.
+Eine Balkontür 80×210 cm mit Zweifachverglasung im Profil GreenEvolution 76 kostet etwa 450-580 EUR. Der Preis hängt von Profil, Verglasung (zweifach/dreifach) und Beschlägen ab. Alle Preise sind Richtpreise; fordern Sie am besten ein aktuelles Angebot an.
 
 ### Welches Salamander-Profil wird für den nZEB-Standard empfohlen?
 
-BluEvolution 92, mit 6 Kammern und Uw 0,70 W/m²K, ist das für den nZEB-Standard empfohlene Profil. Die ALU-Version mit Aluminiumverkleidung verleiht eine Premium-Optik. GreenEvolution 76 (5 Kammern, Uw 0,73) ist eine günstigere Alternative, sehr nahe an der nZEB-Schwelle.
+BluEvolution 92 mit 6 Kammern und Uw 0,70 W/m²K ist das für den nZEB-Standard empfohlene Profil. Die ALU-Version mit Aluminiumschale bringt eine Premium-Optik. GreenEvolution 76 (5 Kammern, Uw ab 0,73) ist die günstigere Alternative und erfüllt ebenfalls den Referenzwert von Mc 001-2022 für Neubauten (Uw ≤ 1,11 W/m²K).
+
+### Sind MwSt. und Montage in den Preisen enthalten?
+
+Die Preise in diesem Artikel enthalten das Original-Salamander-Profil, die Standardbeschläge, das Saint-Gobain-Glas und die fachgerechte Montage, aber nicht die MwSt.: Die 21 % MwSt. kommen bei der Rechnungsstellung hinzu. Die nZEB-Montage mit dem Vorwandmontagesystem Blaugelb Triotherm+ wird separat berechnet, mit 25-50 EUR pro laufendem Meter Umfang.
+
 
 ---
 
-Neofort BIZ liefert Salamander-Systeme für Häuser, Wohnungen und Exportprojekte, montiert von eigenen Teams. Entdecken Sie [das PVC-Fenster-Sortiment](/de/kunststofffenster-pvc) oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details im [vollständigen Salamander-Profilvergleich](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Die Preisniveaus je Konfiguration finden Sie unter [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise), die verfügbaren Verglasungspakete unter [Saint-Gobain Isoliergläser](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas).`,
+Neofort BIZ liefert Salamander-Isolierglasfenster in allen Profilen, in Bukarest und Ilfov. [Senden Sie uns die Maße der Öffnungen](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein detailliertes Angebot. Sehen Sie das [Kunststofffenster-Sortiment](/de/kunststofffenster-pvc), das wir anbieten. Die Preisniveaus je Ausführung finden Sie unter [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise), die verfügbaren Verglasungspakete unter [Saint-Gobain-Wärmeschutzisolierglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas).
+`,
 
-      fr: `## Prix fenêtres Salamander — Bucarest 2026
+      fr: `## Prix des fenêtres double vitrage Salamander — Bucarest 2026
 
-### GreenEvolution 76 — Uw 0,73 W/m²K
+[GreenEvolution 76](/fr/menuiserie-pvc) et BluEvolution 92 sont les deux principales gammes Salamander disponibles chez Neofort BIZ. Voici les prix complets pour 2026. Tous les détails sont dans [la comparaison complète des profilés Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide).
 
-| Configuration | Prix estimé |
-|---|---|
-| Oscillo-battant 80×100 cm, double vitrage | 280–380 EUR |
-| Oscillo-battant 100×120 cm, triple Low-E | 390–510 EUR |
-| **Prix par m² posé** | **150–220 EUR/m²** |
+---
 
-> ⚠️ **Note importante sur les prix :** Tous les prix présentés dans cet article sont **indicatifs** et reflètent les conditions du marché en mars 2026. Les coûts des matériaux, de l'énergie et de la main-d'œuvre évoluent constamment et peuvent augmenter ou diminuer. Demandez toujours un [devis actualisé](/fr/contact) avant de prendre une décision d'achat.
+## Prix indicatifs par fenêtre (pose comprise)
 
-
-### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
+### GreenEvolution 76 — profilé 5 chambres, Uw 0,73 W/m²K
 
 | Configuration | Prix estimé |
 |---|---|
-| Oscillo-battant 100×120 cm, double vitrage | 420–560 EUR |
-| Oscillo-battant 100×120 cm, triple Low-E | 510–680 EUR |
-| **Prix par m² posé** | **200–300 EUR/m²** |
+| Fenêtre oscillo-battante 80×100 cm, double vitrage | 280–380 EUR |
+| Fenêtre oscillo-battante 100×120 cm, double vitrage | 320–430 EUR |
+| Fenêtre oscillo-battante 100×120 cm, triple vitrage Low-E | 390–510 EUR |
+| Porte-fenêtre de balcon 80×210 cm, double vitrage | 450–580 EUR |
+| **Prix au m² posé** | **150–220 EUR/m²** |
 
-**WhatsApp :** +40 752 443 435
+> ⚠️ **Remarque importante sur les prix :** tous les prix de cet article sont **indicatifs** et reflètent les conditions du marché en mars 2026. Les prix des matériaux, de l’énergie et de la main-d’œuvre évoluent en permanence, à la hausse comme à la baisse. Demandez toujours un [devis actualisé](/fr/contact) avant de prendre une décision d’achat.
+
+
+### BluEvolution 92 — profilé 6 chambres, Uw 0,70 W/m²K (nZEB)
+
+| Configuration | Prix estimé |
+|---|---|
+| Fenêtre oscillo-battante 80×100 cm, double vitrage | 360–480 EUR |
+| Fenêtre oscillo-battante 100×120 cm, double vitrage | 420–560 EUR |
+| Fenêtre oscillo-battante 100×120 cm, triple vitrage Low-E | 510–680 EUR |
+| **Prix au m² posé** | **200–285 EUR/m²** |
+
+### BluEvolution 92 ALU (capotage aluminium) — aspect haut de gamme
+
+| Configuration | Prix estimé |
+|---|---|
+| Fenêtre oscillo-battante 100×120 cm, double vitrage | 550–720 EUR |
+| **Prix au m² posé** | **250–350 EUR/m²** |
+
+*Les prix comprennent : profilé Salamander d’origine, quincaillerie standard Roto/Siegenia, vitrage Saint-Gobain et pose professionnelle. Ils s’entendent hors TVA ; la TVA roumaine de 21 % s’ajoute à la facturation.*
+
+---
+
+## Les 6 facteurs qui déterminent le prix final
+
+**1. Le profilé choisi** — le BluEvolution 92 coûte 25 à 40 % de plus que le GreenEvolution 76.
+
+**2. Le type de vitrage** — le triple vitrage Low-E ajoute 40 à 80 EUR/m² par rapport au double vitrage standard.
+
+**3. Les dimensions** — les fenêtres à 2 vantaux coûtent 15 à 25 % de plus que celles à un vantail.
+
+**4. La couleur** — 7 couleurs standard sont incluses. Les couleurs RAL spéciales ajoutent 8 à 15 %.
+
+**5. La quincaillerie** — une quincaillerie anti-effraction RC2 ajoute 80 à 150 EUR par fenêtre.
+
+**6. Le type de pose** — la pose nZEB avec précadres Blaugelb Triotherm+ ajoute 25 à 50 EUR par mètre linéaire de périmètre.
+
+---
+
+## Estimations pour des chantiers complets
+
+### Appartement de 2 pièces (4 à 6 fenêtres + 1 porte-fenêtre)
+
+| Configuration | Estimation totale |
+|---|---|
+| GreenEvolution 76, double vitrage Low-E | 3 500–5 500 EUR |
+| BluEvolution 92, triple vitrage Low-E, pose nZEB | 6 500–9 500 EUR |
+
+### Maison de 120 m² (10 à 14 fenêtres + 2 portes)
+
+| Configuration | Estimation totale |
+|---|---|
+| GreenEvolution 76, double vitrage Low-E | 9 000–14 000 EUR |
+| BluEvolution 92, triple vitrage Low-E, pose nZEB complète | 16 000–25 000 EUR |
+
+---
+
+## Demandez un devis personnalisé
+
+Envoyez-nous les dimensions de vos fenêtres et le profilé souhaité. Nous répondons sous **48 heures** avec un devis détaillé.
+
+**WhatsApp :** +40 752 443 435 | **Lun–Ven 10h–18h**
 
 ## Questions fréquentes
 
 ### Combien coûtent les fenêtres Salamander à Bucarest en 2026 ?
 
-Pour le profilé GreenEvolution 76 (5 chambres, Uw 0,73), le prix posé est de 150-220 EUR/m² ; pour BluEvolution 92 (6 chambres, Uw 0,70, nZEB) de 200-285 EUR/m² ; et pour BluEvolution 92 ALU avec habillage aluminium, 250-350 EUR/m². Tous les prix sont indicatifs, conditions mars 2026.
+Pour le profilé GreenEvolution 76 (5 chambres, Uw 0,73), le prix posé est de 150-220 EUR/m² ; pour le BluEvolution 92 (6 chambres, Uw 0,70, nZEB), de 200-285 EUR/m² ; et pour le BluEvolution 92 ALU à capotage aluminium, de 250-350 EUR/m². Tous les prix sont indicatifs, hors TVA, aux conditions de mars 2026.
 
 ### Quelle est la différence de prix entre GreenEvolution 76 et BluEvolution 92 ?
 
-Une fenêtre oscillo-battante 100×120 cm avec triple vitrage Low-E coûte 390-510 EUR en GreenEvolution 76 et 510-680 EUR en BluEvolution 92. BluEvolution 92 a 6 chambres et Uw 0,70 (standard nZEB), contre 5 chambres et Uw 0,73 pour GreenEvolution 76.
+Une fenêtre oscillo-battante de 100×120 cm en triple vitrage Low-E coûte 390-510 EUR en GreenEvolution 76 et 510-680 EUR en BluEvolution 92. Le BluEvolution 92 a 6 chambres et un Uw de 0,70 (standard nZEB), contre 5 chambres et un Uw de 0,73 pour le GreenEvolution 76.
 
 ### Combien coûte une porte-fenêtre de balcon Salamander ?
 
-Une porte de balcon 80×210 cm avec double vitrage en profilé GreenEvolution 76 coûte environ 450-580 EUR. Le prix varie selon le profilé, le type de vitrage (double/triple) et la quincaillerie. Tous les prix sont indicatifs et un devis actualisé est recommandé.
+Une porte-fenêtre de balcon de 80×210 cm en double vitrage, en profilé GreenEvolution 76, coûte environ 450-580 EUR. Le prix varie selon le profilé, le type de vitrage (double/triple) et la quincaillerie. Tous les prix sont indicatifs ; il est conseillé de demander un devis actualisé.
 
 ### Quel profilé Salamander est recommandé pour le standard nZEB ?
 
-BluEvolution 92, avec 6 chambres et Uw 0,70 W/m²K, est le profilé recommandé pour le standard nZEB. La version ALU avec habillage aluminium ajoute un aspect premium. GreenEvolution 76 (5 chambres, Uw 0,73) est une alternative plus économique, très proche du seuil nZEB.
+Le BluEvolution 92, avec 6 chambres et un Uw de 0,70 W/m²K, est le profilé recommandé pour le standard nZEB. La version ALU à capotage aluminium apporte un aspect haut de gamme. Le GreenEvolution 76 (5 chambres, Uw à partir de 0,73) est une alternative plus économique qui respecte elle aussi la valeur de référence de la Mc 001-2022 pour les maisons neuves (Uw ≤ 1,11 W/m²K).
+
+### Les prix comprennent-ils la TVA et la pose ?
+
+Les prix de cet article comprennent le profilé Salamander d’origine, la quincaillerie standard, le vitrage Saint-Gobain et la pose professionnelle, mais pas la TVA : la TVA de 21 % s’ajoute à la facturation. La pose nZEB avec précadres Blaugelb Triotherm+ est facturée en sus, à 25-50 EUR par mètre linéaire de périmètre.
+
 
 ---
 
-Neofort BIZ fournit des systèmes Salamander pour maisons, appartements et projets d’export, posés par nos équipes. Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) ou [demandez un devis](/fr/contact). Tous les détails dans [la comparaison complète des profilés Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Les niveaux de prix par configuration sont détaillés sur [prix menuiserie PVC](/fr/menuiserie-pvc/prix), et les vitrages disponibles sur [vitrages isolants Saint-Gobain](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg).`,
+Neofort BIZ fournit des fenêtres double vitrage Salamander dans tous les profilés, à Bucarest et dans l’Ilfov. [Envoyez-nous les dimensions des baies](/fr/contact) et recevez un devis détaillé sous 48 heures. Découvrez la [gamme de menuiserie PVC](/fr/menuiserie-pvc) que nous proposons. Les niveaux de prix par configuration sont détaillés sur [prix de la menuiserie PVC](/fr/menuiserie-pvc/prix), et les vitrages disponibles sur [vitrage isolant Saint-Gobain](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg).
+`,
 
-      es: `## Precios ventanas Salamander — Bucarest 2026
+      es: `## Precios de ventanas de doble acristalamiento Salamander — Bucarest 2026
 
-### GreenEvolution 76 — Uw 0,73 W/m²K
+[GreenEvolution 76](/es/carpinteria-pvc) y BluEvolution 92 son las dos gamas principales de Salamander disponibles en Neofort BIZ. Estos son los precios completos para 2026. Todos los detalles están en [la comparación completa de los perfiles Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
+
+---
+
+## Precios orientativos por ventana (instalación incluida)
+
+### GreenEvolution 76 — perfil de 5 cámaras, Uw 0,73 W/m²K
 
 | Configuración | Precio estimado |
 |---|---|
-| Oscilobatiente 80×100 cm, doble vidrio | 280–380 EUR |
-| Oscilobatiente 100×120 cm, triple Low-E | 390–510 EUR |
+| Ventana oscilobatiente 80×100 cm, doble acristalamiento | 280–380 EUR |
+| Ventana oscilobatiente 100×120 cm, doble acristalamiento | 320–430 EUR |
+| Ventana oscilobatiente 100×120 cm, triple acristalamiento Low-E | 390–510 EUR |
+| Puerta de balcón 80×210 cm, doble acristalamiento | 450–580 EUR |
 | **Precio por m² instalado** | **150–220 EUR/m²** |
 
-> ⚠️ **Nota importante sobre los precios:** Todos los precios presentados en este artículo son **orientativos** y reflejan las condiciones del mercado en marzo de 2026. Los costes de materiales, energía y mano de obra cambian constantemente y pueden subir o bajar. Solicite siempre un [presupuesto actualizado](/es/contacto) antes de tomar una decisión de compra.
+> ⚠️ **Nota importante sobre los precios:** todos los precios de este artículo son **orientativos** y reflejan las condiciones del mercado en marzo de 2026. Los precios de materiales, energía y mano de obra cambian continuamente y pueden subir o bajar. Pida siempre un [presupuesto actualizado](/es/contacto) antes de tomar una decisión de compra.
 
 
-### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
+### BluEvolution 92 — perfil de 6 cámaras, Uw 0,70 W/m²K (nZEB)
 
 | Configuración | Precio estimado |
 |---|---|
-| Oscilobatiente 100×120 cm, doble vidrio | 420–560 EUR |
-| Oscilobatiente 100×120 cm, triple Low-E | 510–680 EUR |
-| **Precio por m² instalado** | **200–300 EUR/m²** |
+| Ventana oscilobatiente 80×100 cm, doble acristalamiento | 360–480 EUR |
+| Ventana oscilobatiente 100×120 cm, doble acristalamiento | 420–560 EUR |
+| Ventana oscilobatiente 100×120 cm, triple acristalamiento Low-E | 510–680 EUR |
+| **Precio por m² instalado** | **200–285 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435
+### BluEvolution 92 ALU (revestido de aluminio) — aspecto premium
+
+| Configuración | Precio estimado |
+|---|---|
+| Ventana oscilobatiente 100×120 cm, doble acristalamiento | 550–720 EUR |
+| **Precio por m² instalado** | **250–350 EUR/m²** |
+
+*Los precios incluyen: perfil Salamander original, herrajes estándar Roto/Siegenia, vidrio Saint-Gobain e instalación profesional. Son precios sin IVA; el IVA rumano del 21 % se añade en la factura.*
+
+---
+
+## Los 6 factores que influyen en el precio final
+
+**1. El perfil elegido** — BluEvolution 92 cuesta un 25–40 % más que GreenEvolution 76.
+
+**2. El tipo de vidrio** — el triple acristalamiento Low-E añade 40–80 EUR/m² frente al doble acristalamiento estándar.
+
+**3. Las dimensiones** — las ventanas de 2 hojas cuestan un 15–25 % más que las de una sola hoja.
+
+**4. El color** — 7 colores estándar incluidos. Los colores RAL especiales añaden un 8–15 %.
+
+**5. Los herrajes** — los herrajes antirrobo RC2 añaden 80–150 EUR por ventana.
+
+**6. El tipo de instalación** — la instalación nZEB con premarcos Blaugelb Triotherm+ añade 25–50 EUR por metro lineal de perímetro.
+
+---
+
+## Estimaciones para trabajos completos
+
+### Piso de 2 habitaciones (4–6 ventanas + 1 puerta de balcón)
+
+| Configuración | Estimación total |
+|---|---|
+| GreenEvolution 76, doble acristalamiento Low-E | 3.500–5.500 EUR |
+| BluEvolution 92, triple acristalamiento Low-E, instalación nZEB | 6.500–9.500 EUR |
+
+### Casa de 120 m² (10–14 ventanas + 2 puertas)
+
+| Configuración | Estimación total |
+|---|---|
+| GreenEvolution 76, doble acristalamiento Low-E | 9.000–14.000 EUR |
+| BluEvolution 92, triple acristalamiento Low-E, instalación nZEB completa | 16.000–25.000 EUR |
+
+---
+
+## Solicite un presupuesto personalizado
+
+Envíenos las medidas de sus ventanas y el perfil que prefiere. Respondemos en **48 horas** con un presupuesto detallado.
+
+**WhatsApp:** +40 752 443 435 | **Lun–Vie 10–18 h**
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto cuestan las ventanas Salamander en Bucarest en 2026?
 
-Para el perfil GreenEvolution 76 (5 cámaras, Uw 0,73), el precio instalado es 150-220 EUR/m²; para BluEvolution 92 (6 cámaras, Uw 0,70, nZEB) es 200-285 EUR/m²; y para BluEvolution 92 ALU con revestimiento de aluminio, 250-350 EUR/m². Todos los precios son orientativos, condiciones marzo 2026.
+Para el perfil GreenEvolution 76 (5 cámaras, Uw 0,73), el precio instalado es de 150-220 EUR/m²; para BluEvolution 92 (6 cámaras, Uw 0,70, nZEB), de 200-285 EUR/m²; y para BluEvolution 92 ALU revestido de aluminio, de 250-350 EUR/m². Todos los precios son orientativos, sin IVA, en condiciones de marzo de 2026.
 
 ### ¿Cuál es la diferencia de precio entre GreenEvolution 76 y BluEvolution 92?
 
-Una ventana oscilobatiente 100×120 cm con triple vidrio Low-E cuesta 390-510 EUR en GreenEvolution 76 y 510-680 EUR en BluEvolution 92. BluEvolution 92 tiene 6 cámaras y Uw 0,70 (estándar nZEB), frente a 5 cámaras y Uw 0,73 de GreenEvolution 76.
+Una ventana oscilobatiente de 100×120 cm con triple acristalamiento Low-E cuesta 390-510 EUR en GreenEvolution 76 y 510-680 EUR en BluEvolution 92. BluEvolution 92 tiene 6 cámaras y Uw 0,70 (estándar nZEB), frente a 5 cámaras y Uw 0,73 en GreenEvolution 76.
 
 ### ¿Cuánto cuesta una puerta de balcón Salamander?
 
-Una puerta de balcón 80×210 cm con doble vidrio en perfil GreenEvolution 76 cuesta unos 450-580 EUR. El precio varía según el perfil, tipo de vidrio (doble/triple) y herrajes. Todos los precios son orientativos y se recomienda solicitar un presupuesto actualizado.
+Una puerta de balcón de 80×210 cm con doble acristalamiento en perfil GreenEvolution 76 cuesta unos 450-580 EUR. El precio varía según el perfil, el tipo de vidrio (doble/triple) y los herrajes. Todos los precios son orientativos y conviene pedir un presupuesto actualizado.
 
 ### ¿Qué perfil Salamander se recomienda para el estándar nZEB?
 
-BluEvolution 92, con 6 cámaras y Uw 0,70 W/m²K, es el perfil recomendado para el estándar nZEB. La versión ALU con revestimiento de aluminio añade aspecto premium. GreenEvolution 76 (5 cámaras, Uw 0,73) es una alternativa más económica, muy cerca del umbral nZEB.
+BluEvolution 92, con 6 cámaras y Uw 0,70 W/m²K, es el perfil recomendado para el estándar nZEB. La versión ALU revestida de aluminio añade un aspecto premium. GreenEvolution 76 (5 cámaras, Uw desde 0,73) es una alternativa más económica que también cumple el valor de referencia de la Mc 001-2022 para casas nuevas (Uw ≤ 1,11 W/m²K).
+
+### ¿Los precios incluyen el IVA y la instalación?
+
+Los precios de este artículo incluyen el perfil Salamander original, los herrajes estándar, el vidrio Saint-Gobain y la instalación profesional, pero no el IVA: el IVA del 21 % se añade en la factura. La instalación nZEB con premarcos Blaugelb Triotherm+ se cobra aparte, a 25-50 EUR por metro lineal de perímetro.
+
 
 ---
 
-Neofort BIZ suministra sistemas Salamander para casas, pisos y proyectos de exportación, montados por equipos propios. Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) o [solicita un presupuesto](/es/contacto). Todos los detalles en [la comparación completa de los perfiles Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Los niveles de precio por configuración se detallan en [precios de carpintería PVC](/es/carpinteria-pvc/precios), y los acristalamientos disponibles en [vidrios aislantes Saint-Gobain](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg).`,
+Neofort BIZ suministra ventanas de doble acristalamiento Salamander en todos los perfiles, en Bucarest e Ilfov. [Envíenos las medidas de los huecos](/es/contacto) y recibirá un presupuesto detallado en 48 horas. Vea la [gama de carpintería PVC](/es/carpinteria-pvc) que ofrecemos. Los niveles de precio por configuración están en [precios de la carpintería PVC](/es/carpinteria-pvc/precios), y los paquetes de vidrio disponibles en [vidrio aislante Saint-Gobain](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg).
+`,
 
-      it: `## Prezzi finestre Salamander — Bucarest 2026
+      it: `## Prezzi delle finestre con vetrocamera Salamander — Bucarest 2026
 
-### GreenEvolution 76 — Uw 0,73 W/m²K
+[GreenEvolution 76](/it/infissi-pvc) e BluEvolution 92 sono le due gamme principali Salamander disponibili da Neofort BIZ. Ecco i prezzi completi per il 2026. Tutti i dettagli sono nel [confronto completo dei profili Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
 
-| Configurazione | Prezzo stimato |
-|---|---|
-| Ribaltabile 80×100 cm, doppio vetro | 280–380 EUR |
-| Ribaltabile 100×120 cm, triplo Low-E | 390–510 EUR |
-| **Prezzo per m² posato** | **150–220 EUR/m²** |
+---
 
-> ⚠️ **Nota importante sui prezzi:** Tutti i prezzi presentati in questo articolo sono **indicativi** e riflettono le condizioni di mercato di marzo 2026. I costi dei materiali, dell'energia e della manodopera sono in continua evoluzione e possono aumentare o diminuire. Richiedete sempre un [preventivo aggiornato](/it/contatti) prima di prendere una decisione di acquisto.
+## Prezzi indicativi per finestra (posa inclusa)
 
-
-### BluEvolution 92 — Uw 0,70 W/m²K (nZEB)
+### GreenEvolution 76 — profilo a 5 camere, Uw 0,73 W/m²K
 
 | Configurazione | Prezzo stimato |
 |---|---|
-| Ribaltabile 100×120 cm, doppio vetro | 420–560 EUR |
-| Ribaltabile 100×120 cm, triplo Low-E | 510–680 EUR |
-| **Prezzo per m² posato** | **200–300 EUR/m²** |
+| Finestra ad anta ribalta 80×100 cm, vetro doppio | 280–380 EUR |
+| Finestra ad anta ribalta 100×120 cm, vetro doppio | 320–430 EUR |
+| Finestra ad anta ribalta 100×120 cm, vetro triplo Low-E | 390–510 EUR |
+| Porta-finestra da balcone 80×210 cm, vetro doppio | 450–580 EUR |
+| **Prezzo al m² posato** | **150–220 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435
+> ⚠️ **Nota importante sui prezzi:** tutti i prezzi di questo articolo sono **indicativi** e riflettono le condizioni di mercato di marzo 2026. I prezzi di materiali, energia e manodopera cambiano di continuo e possono salire o scendere. Chiedete sempre un [preventivo aggiornato](/it/contatti) prima di decidere l’acquisto.
+
+
+### BluEvolution 92 — profilo a 6 camere, Uw 0,70 W/m²K (nZEB)
+
+| Configurazione | Prezzo stimato |
+|---|---|
+| Finestra ad anta ribalta 80×100 cm, vetro doppio | 360–480 EUR |
+| Finestra ad anta ribalta 100×120 cm, vetro doppio | 420–560 EUR |
+| Finestra ad anta ribalta 100×120 cm, vetro triplo Low-E | 510–680 EUR |
+| **Prezzo al m² posato** | **200–285 EUR/m²** |
+
+### BluEvolution 92 ALU (rivestito in alluminio) — aspetto di pregio
+
+| Configurazione | Prezzo stimato |
+|---|---|
+| Finestra ad anta ribalta 100×120 cm, vetro doppio | 550–720 EUR |
+| **Prezzo al m² posato** | **250–350 EUR/m²** |
+
+*I prezzi comprendono: profilo Salamander originale, ferramenta standard Roto/Siegenia, vetro Saint-Gobain e posa professionale. Sono prezzi IVA esclusa; l’IVA rumena del 21% si aggiunge in fattura.*
+
+---
+
+## I 6 fattori che determinano il prezzo finale
+
+**1. Il profilo scelto** — BluEvolution 92 costa il 25–40% in più rispetto a GreenEvolution 76.
+
+**2. Il tipo di vetro** — il vetro triplo Low-E aggiunge 40–80 EUR/m² rispetto al vetro doppio standard.
+
+**3. Le dimensioni** — le finestre a 2 ante costano il 15–25% in più di quelle a un’anta.
+
+**4. Il colore** — 7 colori standard inclusi. I colori RAL speciali aggiungono l’8–15%.
+
+**5. La ferramenta** — la ferramenta antieffrazione RC2 aggiunge 80–150 EUR per finestra.
+
+**6. Il tipo di posa** — la posa nZEB con controtelai Blaugelb Triotherm+ aggiunge 25–50 EUR per metro lineare di perimetro.
+
+---
+
+## Stime per lavori completi
+
+### Bilocale (4–6 finestre + 1 porta-finestra)
+
+| Configurazione | Stima totale |
+|---|---|
+| GreenEvolution 76, vetro doppio Low-E | 3.500–5.500 EUR |
+| BluEvolution 92, vetro triplo Low-E, posa nZEB | 6.500–9.500 EUR |
+
+### Casa di 120 m² (10–14 finestre + 2 porte)
+
+| Configurazione | Stima totale |
+|---|---|
+| GreenEvolution 76, vetro doppio Low-E | 9.000–14.000 EUR |
+| BluEvolution 92, vetro triplo Low-E, posa nZEB completa | 16.000–25.000 EUR |
+
+---
+
+## Richiedete un preventivo personalizzato
+
+Inviateci le misure delle finestre e il profilo che preferite. Rispondiamo entro **48 ore** con un preventivo dettagliato.
+
+**WhatsApp:** +40 752 443 435 | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
 ### Quanto costano le finestre Salamander a Bucarest nel 2026?
 
-Per il profilo GreenEvolution 76 (5 camere, Uw 0,73), il prezzo posato è 150-220 EUR/m²; per BluEvolution 92 (6 camere, Uw 0,70, nZEB) è 200-285 EUR/m²; e per BluEvolution 92 ALU con rivestimento in alluminio, 250-350 EUR/m². Tutti i prezzi sono indicativi, condizioni marzo 2026.
+Per il profilo GreenEvolution 76 (5 camere, Uw 0,73) il prezzo posato è di 150-220 EUR/m²; per BluEvolution 92 (6 camere, Uw 0,70, nZEB) di 200-285 EUR/m²; per BluEvolution 92 ALU rivestito in alluminio di 250-350 EUR/m². Tutti i prezzi sono indicativi, IVA esclusa, alle condizioni di marzo 2026.
 
 ### Qual è la differenza di prezzo tra GreenEvolution 76 e BluEvolution 92?
 
-Una finestra anta-ribalta 100×120 cm con triplo vetro Low-E costa 390-510 EUR in GreenEvolution 76 e 510-680 EUR in BluEvolution 92. BluEvolution 92 ha 6 camere e Uw 0,70 (standard nZEB), contro 5 camere e Uw 0,73 di GreenEvolution 76.
+Una finestra ad anta ribalta di 100×120 cm con vetro triplo Low-E costa 390-510 EUR in GreenEvolution 76 e 510-680 EUR in BluEvolution 92. BluEvolution 92 ha 6 camere e Uw 0,70 (standard nZEB), contro 5 camere e Uw 0,73 di GreenEvolution 76.
 
 ### Quanto costa una porta-finestra da balcone Salamander?
 
-Una porta da balcone 80×210 cm con doppio vetro nel profilo GreenEvolution 76 costa circa 450-580 EUR. Il prezzo varia in base a profilo, tipo di vetro (doppio/triplo) e ferramenta. Tutti i prezzi sono indicativi e si consiglia un preventivo aggiornato.
+Una porta-finestra da balcone di 80×210 cm con vetro doppio in profilo GreenEvolution 76 costa circa 450-580 EUR. Il prezzo varia in base al profilo, al tipo di vetro (doppio/triplo) e alla ferramenta. Tutti i prezzi sono indicativi ed è consigliabile chiedere un preventivo aggiornato.
 
 ### Quale profilo Salamander è consigliato per lo standard nZEB?
 
-BluEvolution 92, con 6 camere e Uw 0,70 W/m²K, è il profilo consigliato per lo standard nZEB. La versione ALU con rivestimento in alluminio aggiunge un aspetto premium. GreenEvolution 76 (5 camere, Uw 0,73) è un'alternativa più economica, molto vicina alla soglia nZEB.
+BluEvolution 92, con 6 camere e Uw 0,70 W/m²K, è il profilo consigliato per lo standard nZEB. La versione ALU rivestita in alluminio aggiunge un aspetto di pregio. GreenEvolution 76 (5 camere, Uw da 0,73) è un’alternativa più economica che rispetta anch’essa il valore di riferimento della Mc 001-2022 per le case nuove (Uw ≤ 1,11 W/m²K).
+
+### I prezzi comprendono IVA e posa?
+
+I prezzi di questo articolo comprendono il profilo Salamander originale, la ferramenta standard, il vetro Saint-Gobain e la posa professionale, ma non l’IVA: l’IVA del 21% si aggiunge in fattura. La posa nZEB con controtelai Blaugelb Triotherm+ si paga a parte, 25-50 EUR per metro lineare di perimetro.
+
 
 ---
 
-Neofort BIZ fornisce sistemi Salamander per case, appartamenti e progetti export, montati da squadre proprie. Scopri [la gamma di infissi PVC](/it/infissi-pvc) o [richiedi un preventivo](/it/contatti). Tutti i dettagli nel [confronto completo dei profili Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida). I livelli di prezzo per configurazione sono dettagliati su [prezzi infissi in PVC](/it/infissi-pvc/prezzi), e i pacchetti di vetrazione disponibili su [vetrocamere Saint-Gobain](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg).`,
+Neofort BIZ fornisce finestre con vetrocamera Salamander in tutti i profili, a Bucarest e in provincia di Ilfov. [Inviateci le misure dei vani](/it/contatti) e riceverete un preventivo dettagliato entro 48 ore. Scoprite la [gamma di infissi in PVC](/it/infissi-pvc) che offriamo. I livelli di prezzo per configurazione sono su [prezzi degli infissi in PVC](/it/infissi-pvc/prezzi), e i pacchetti di vetro disponibili su [vetro termoisolante Saint-Gobain](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg).
+`,
     },
   },
 
@@ -17926,12 +18237,12 @@ Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilf
       it: 'Sostituzione finestre vecchie Salamander — guida completa ristrutturazione appartamento Bucarest 2026',
     },
     excerpt: {
-      ro: 'Înlocuirea ferestrelor vechi este una dintre cele mai rentabile investiții într-un apartament din București. Economii de 35–50% la încălzire, eliminarea condensului și zgomotului stradal — ghid complet cu prețuri, pași de montaj și tot ce trebuie să știi înainte de a comanda.',
-      en: 'Replacing old windows is one of the most cost-effective investments in a Bucharest apartment. 35–50% heating savings, eliminating condensation and street noise — complete guide with prices, installation steps and everything you need to know.',
-      de: 'Der Austausch alter Fenster ist eine der rentabelsten Investitionen in einer Bukarester Wohnung. 35–50% Heizungseinsparungen, Beseitigung von Kondensation und Straßenlärm — Komplettleitfaden mit Preisen.',
-      fr: "Le remplacement des fenêtres est l'un des investissements les plus rentables dans un appartement à Bucarest. Économies de chauffage 35–50%, élimination condensation et bruit — guide complet.",
-      es: 'La sustitución de ventanas es una de las inversiones más rentables en un apartamento de Bucarest. Ahorro calefacción 35–50%, eliminación condensación y ruido — guía completa.',
-      it: 'La sostituzione delle finestre è uno degli investimenti più redditizi in un appartamento di Bucarest. Risparmio riscaldamento 35–50%, eliminazione condensa e rumore — guida completa.',
+      ro: 'Înlocuirea ferestrelor vechi este una dintre cele mai rentabile investiții într-un apartament din București. Economii de 20–30% la încălzire, eliminarea condensului și zgomotului stradal — ghid complet cu prețuri, pași de montaj și tot ce trebuie să știi înainte de a comanda.',
+      en: 'Replacing old windows is one of the most cost-effective investments in a Bucharest apartment. 20–30% heating savings, eliminating condensation and street noise — complete guide with prices, installation steps and everything you need to know.',
+      de: 'Der Austausch alter Fenster ist eine der rentabelsten Investitionen in einer Bukarester Wohnung. 20–30 % Heizungseinsparungen, Beseitigung von Kondensation und Straßenlärm — Komplettleitfaden mit Preisen.',
+      fr: "Le remplacement des fenêtres est l'un des investissements les plus rentables dans un appartement à Bucarest. Économies de chauffage de 20 à 30 %, élimination condensation et bruit — guide complet.",
+      es: 'La sustitución de ventanas es una de las inversiones más rentables en un apartamento de Bucarest. Ahorro en calefacción del 20–30 %, eliminación condensación y ruido — guía completa.',
+      it: 'La sostituzione delle finestre è uno degli investimenti più redditizi in un appartamento di Bucarest. Risparmio sul riscaldamento del 20–30%, eliminazione condensa e rumore — guida completa.',
     },
     metaDesc: {
       ro: "Înlocuirea ferestrelor într-un apartament: pașii compleți, de la acordul asociației până la montaj, cu durate reale și greșelile care costă.",
@@ -17969,10 +18280,10 @@ Pentru un apartament de 60 mp din București cu ferestre vechi:
 
 - Pierderi termice actuale prin ferestre: ~35% din totalul pierderilor
 - Cost mediu încălzire iarnă: 800–1.200 EUR/an
-- Reducere după [BluEvolution 92](/ro/tamplarie-pvc) + geam Low-E + montaj [nZEB](/ro/sisteme-nzeb): **65–75%**
-- **Economie anuală estimată: 280–500 EUR/an**
-- Recuperarea investiției: 6–10 ani
-- Durată de viață Salamander: 30–40 ani → 20–30 ani de economii nete
+- Reducere a pierderilor prin ferestre după [BluEvolution 92](/ro/tamplarie-pvc) + geam Low-E + montaj [nZEB](/ro/sisteme-nzeb): **65–75%**
+- **Economie anuală estimată: 180–315 EUR/an** (mai mult dacă ferestrele vechi aveau curenți de aer)
+- Recuperarea investiției, doar din încălzire: 10–15 ani
+- Durată de viață Salamander: 30–40 ani → 15–30 ani de economii nete
 
 ---
 
@@ -17982,15 +18293,15 @@ Pentru un apartament de 60 mp din București cu ferestre vechi:
 
 Cel mai bun raport calitate-preț pentru înlocuirea ferestrelor la bloc. Performanță de 5× mai bună față de geam simplu vechi.
 
-- Uw = 0,73 W/m²K cu geam dublu Low-E
-- Izolare fonică: până la 42 dB
+- Uw de la 0,73 W/m²K, cu geam triplu Low-E
+- Izolare fonică: până la 47 dB, cu geam fonoizolant
 - Adâncime: 76 mm — se potrivește în golurile existente fără modificări structurale
 - **Ideal pentru:** apartamente 2–4 camere, renovări cu buget echilibrat
 
 ### BluEvolution 92 — standard ridicat
 
-- Uw = 0,70 W/m²K cu geam dublu Low-E, sau 0,55 W/m²K cu triplu
-- Izolare fonică: până la 47 dB — diferența față de bulevard se simte clar
+- Uw de la 0,70 W/m²K, cu geam triplu Low-E
+- Izolare fonică: până la 47 dB, cu geam fonoizolant; cele 6 camere și adâncimea mai mare aduc în plus izolare termică
 - Adâncime: 92 mm — poate necesita modificarea glafurilor interioare
 
 ### BluEvolution 92 ALU — premium
@@ -18057,13 +18368,13 @@ Geamul reprezintă 70% din suprafața ferestrei. Un profil premium cu geam stand
 | BluEvolution 92, geam dublu Low-E | 2.400–3.600 EUR | 3.600–5.500 EUR | 5.200–8.000 EUR |
 | BluEvolution 92, geam triplu Low-E, montaj nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-*Prețurile includ: profil Salamander, feronerie standard, geam Saint-Gobain, montaj și ridicarea tâmplăriei vechi. Glafurile interioare se calculează separat.*
+*Prețurile includ: profil Salamander, feronerie standard, geam Saint-Gobain, montaj și ridicarea tâmplăriei vechi. Sunt prețuri fără TVA; TVA-ul de 21% se adaugă la facturare. Glafurile interioare se calculează separat.*
 
 ---
 
 ## De ce Neofort BIZ pentru renovarea apartamentului tău
 
-**Măsurători la fața locului** la adresa ta în 24–48 ore. **Producție proprie** — nu intermediem, nu subcontractăm. **Montaj certificat nZEB** cu precadre Blaugelb Triotherm+ incluse standard. **Ridicăm tâmplăria veche** fără costuri suplimentare.
+**Ofertă detaliată în 48 de ore**, iar măsurătorile la fața locului se fac după semnarea contractului. **Producție proprie** — nu intermediem, nu subcontractăm. **Montaj nZEB** cu precadre Blaugelb Triotherm+, la cerere. **Demontarea și ridicarea tâmplăriei vechi** sunt incluse în preț.
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
@@ -18071,7 +18382,7 @@ Geamul reprezintă 70% din suprafața ferestrei. Un profil premium cu geam stand
 
 ### Care sunt semnele că ferestrele vechi trebuie înlocuite?
 
-Cele 7 semnale clare sunt: condens între foile de geam (garnitură perimetrală deteriorată, neReparabilă), curenți de aer la ferestre închise, facturi mari la energie iarna, zgomot stradal excesiv, dificultate la deschidere/închidere, profile îngălbenite sau crăpate, și o renovare generală în curs.
+Cele 7 semnale clare sunt: condens între foile de geam (garnitură perimetrală deteriorată, nereparabilă), curenți de aer la ferestre închise, facturi mari la energie iarna, zgomot stradal excesiv, dificultate la deschidere/închidere, profile îngălbenite sau crăpate, și o renovare generală în curs.
 
 ### Cât din pierderile termice ale unui apartament provin din ferestre vechi?
 
@@ -18085,357 +18396,769 @@ Nu. Condensul intern, între cele două foi de geam, indică deteriorarea garnit
 
 Cel mai bun moment este în paralel cu o renovare generală, când pereții sunt oricum goluți. Ferestrele vechi oferă doar 20-25 dB izolare fonică, în timp ce un profil Salamander modern oferă 38-47 dB, plus o reducere semnificativă a pierderilor termice.
 
+### Cât costă înlocuirea ferestrelor într-un apartament cu 2 camere?
+
+Orientativ, 2.800-4.200 EUR cu GreenEvolution 76 și geam dublu Low-E, 3.600-5.500 EUR cu BluEvolution 92 și geam dublu Low-E, sau 4.800-7.000 EUR cu BluEvolution 92, geam triplu Low-E și montaj nZEB. Prețurile sunt fără TVA și includ montajul și ridicarea tâmplăriei vechi; glafurile interioare se calculează separat.
+
+
 ---
 
-Neofort BIZ înlocuiește ferestre vechi în apartamente și case din București și Ilfov, cu demontare, montaj și finisaje incluse. Vezi [gama de ferestre PVC](/ro/tamplarie-pvc) sau [solicită o ofertă](/ro/contact). Vezi și [cât durează o fereastră PVC și când trebuie înlocuită](/ro/blog/cat-dureaza-o-fereastra-pvc-cand-trebuie-inlocuita). Pagini utile: [tocul de renovare PVC](/ro/accesorii/toc-de-renovare-pvc) și [tâmplăria PVC în București](/ro/tamplarie-pvc/bucuresti). Pagini utile: [pervazurile PVC și glafurile din aluminiu](/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu) și [profilul Salamander greenEvolution 76 MD ROUND](/ro/produse/profil-pvc-greenevolution-76-md-round).`,
+Neofort BIZ înlocuiește ferestre vechi în apartamente și case din București și Ilfov, cu demontare, montaj și finisaje incluse. Vezi [gama de ferestre PVC](/ro/tamplarie-pvc) sau [solicită o ofertă](/ro/contact). Vezi și [cât durează o fereastră PVC și când trebuie înlocuită](/ro/blog/cat-dureaza-o-fereastra-pvc-cand-trebuie-inlocuita). Pagini utile: [tocul de renovare PVC](/ro/accesorii/toc-de-renovare-pvc) și [tâmplăria PVC în București](/ro/tamplarie-pvc/bucuresti). Tot aici găsești [pervazurile PVC și glafurile din aluminiu](/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu) și [profilul Salamander greenEvolution 76 MD ROUND](/ro/produse/profil-pvc-greenevolution-76-md-round).`,
 
       en: `## When is the right time to replace your windows?
 
-7 clear signals that your windows need replacing:
+There are 7 clear signs that windows have reached the end of their life and that renovation is needed:
 
-1. **Condensation between glass panes** — the thermal glass seal has failed. Cannot be repaired — must be replaced.
-2. **Draughts with windows closed** — seals have worn. Temporary fix possible, but replacement is more economical after 15+ years.
-3. **High energy bills in winter** — old windows can account for 30–40% of heat losses. Old Uw 2.8 W/m²K vs modern Uw 1.0 W/m²K = nearly 3× more heat lost.
-4. **Excessive street noise** — old windows: 20–25 dB. Modern Salamander: 38–47 dB.
-5. **Difficulty opening/closing** — repeated hardware repairs cost more than replacement.
-6. **Yellowed or cracked profiles** — old PVC without UV stabilisers degrades in 10–15 years.
-7. **General renovation** — best time for new windows is during renovation when walls are already exposed.
+**1. Condensation between the panes** — condensation inside the unit, between the two panes, shows that the edge seal has failed. The glass no longer insulates. It cannot be repaired — it has to be replaced.
 
----
+**2. Draughts with the windows closed** — the profile gaskets are worn. This can be fixed temporarily by adjusting the hardware, but on profiles more than 15 years old, replacement is the more economical choice.
 
-## Real savings from replacing windows
+**3. High energy bills in winter** — old windows can account for 30–40% of heat loss. An old window with Uw = 2.8 W/m²K against a modern one with Uw = 1.0 W/m²K means almost 3× more heat lost.
 
-For a 60 m² Bucharest apartment with old windows:
-- Heat losses through windows: ~35% of total
-- Heating cost reduction after [BluEvolution 92](/en/pvc-windows) + Low-E + [nZEB](/en/nzeb-systems) installation: **65–75%**
-- **Annual estimated saving: 280–500 EUR**
-- Payback period: 6–10 years
+**4. Excessive street noise** — old windows provide 20–25 dB of sound insulation. Modern Salamander windows provide 38–47 dB.
+
+**5. Difficulty opening/closing** — worn hardware costs more to repair again and again than to replace.
+
+**6. Yellowed or cracked profiles** — old PVC without UV stabilisers degrades in 10–15 years.
+
+**7. General renovation** — the best moment for new windows is alongside a renovation, when the rooms are emptied anyway.
 
 ---
 
-## Which Salamander profile for renovation?
+## What real savings do you get from replacement?
 
-**GreenEvolution 76** — best value for standard renovations. Uw 0.73, up to 42 dB, 76 mm depth fits existing openings without structural changes.
+For a 60 m² apartment in Bucharest with old windows:
 
-**BluEvolution 92** — high standard. Uw 0.70 (double Low-E) or 0.55 (triple). Up to 47 dB acoustic insulation.
-
-**BluEvolution 92 ALU** — premium aesthetics. Aluminium appearance with PVC performance. Any RAL colour without yellowing risk.
+- Current heat loss through the windows: ~35% of total losses
+- Average winter heating cost: 800–1,200 EUR/year
+- Reduction of window losses after [BluEvolution 92](/en/pvc-windows) + Low-E glass + [nZEB](/en/nzeb-systems) installation: **65–75%**
+- **Estimated annual saving: 180–315 EUR/year** (more if the old windows had draughts)
+- Payback, from heating alone: 10–15 years
+- Salamander service life: 30–40 years → 15–30 years of net savings
 
 ---
 
-## Common mistakes to avoid
+## Which Salamander profile should you choose for a renovation?
 
-1. Choosing by lowest price — cheap profiles cost more over 30 years
-2. Not checking hardware brand — insist on Roto or Siegenia
-3. Installation without Blaugelb Triotherm+ precasings — eliminates 30–40% of thermal performance
-4. Not ordering sills at the same time — costs 40–60% more when ordered separately later
-5. Ignoring glass type — glass is 70% of the window surface; always request Low-E with argon
+### GreenEvolution 76 — the renovation standard
+
+The best value for money for replacing windows in apartment blocks. Performance 5× better than old single glazing.
+
+- Uw from 0.73 W/m²K, with triple Low-E glazing
+- Sound insulation: up to 47 dB, with acoustic glass
+- Depth: 76 mm — fits existing openings without structural changes
+- **Ideal for:** 2–4 room apartments, renovations on a balanced budget
+
+### BluEvolution 92 — the higher standard
+
+- Uw from 0.70 W/m²K, with triple Low-E glazing
+- Sound insulation: up to 47 dB, with acoustic glass; the 6 chambers and the greater depth add thermal insulation
+- Depth: 92 mm — may require changes to the interior window boards
+
+### BluEvolution 92 ALU — premium
+
+The look of aluminium with the performance of PVC. Ideal if you want special RAL colours — black, anthracite — without worrying about fading.
+
+---
+
+## The complete steps for replacing windows in an apartment
+
+**Step 1 — Check the residents' association rules**
+In apartment blocks there may be restrictions on colour. White is mandatory in some ANL blocks or protected areas.
+
+**Step 2 — You receive the quote within 48 hours**
+The quote is based on the dimensions you send us. Do not rely on those in the apartment documents — real openings differ by 10–30 mm on each side from the design, and the final values are confirmed at the survey after the contract.
+
+**Step 3 — Choose the complete configuration**
+Together we settle: profile, glass, colour, opening type, hardware, window boards. The on-site survey is carried out after the contract is signed and fixes the production dimensions.
+
+**Step 4 — Production: 3–4 weeks**
+
+**Step 5 — The installation itself**
+
+> ⚠️ **Note:** The times below are indicative and may vary with the complexity of the job.
+
+| Apartment type | Windows + doors | Installation time |
+|---|---|---|
+| Studio | 2–3 | 4–6 hours (1 day) |
+| 2 rooms | 4–5 | 6–8 hours (1 day) |
+| 3 rooms | 6–8 | 1–1.5 days |
+| 4 rooms + terrace | 9–12 | 2 days |
+
+**Step 6 — Cleaning and finishing**
+Our team takes away the old joinery, protects the floor and leaves the space clean. The interior window boards are fitted on the same day as the windows.
+
+---
+
+## Common mistakes when replacing windows — how to avoid them
+
+**Mistake 1: Choosing on the lowest price**
+A 20–30% price difference between a no-name profile and Salamander amounts to a 15–20 year difference in durability and performance. Over 30 years, the cheapest quote becomes the most expensive.
+
+**Mistake 2: Not checking the hardware included**
+Some suppliers include unbranded imported hardware. Insist on Roto or Siegenia hardware — the cost difference: 20–40 EUR per window.
+
+**Mistake 3: Installation without pre-frames**
+Installing without Blaugelb Triotherm+ pre-frames saves 25–50 EUR per linear metre, but creates thermal bridges that cancel 30–40% of the thermal performance you paid for.
+
+**Mistake 4: Not ordering the window boards at the same time**
+The old window boards do not fit the new, deeper windows. Ordered separately later, they cost 40–60% more than when ordered together.
+
+**Mistake 5: Ignoring the glass type**
+Glass makes up 70% of the window surface. A premium profile with standard glass loses half of its performance. Always ask for Low-E glass with argon.
 
 ---
 
 ## Indicative prices — apartment window replacement 2026
 
-> ⚠️ **Note:** All prices are indicative and subject to change. Always request an updated quote.
+> ⚠️ **Important note:** The prices below are indicative and reflect market conditions in March 2026. Prices of materials and labour change constantly and may go up or down. Always ask for an updated quote.
 
-| Configuration | Studio | 2-room | 3-room |
+| Configuration | Studio | 2 rooms | 3 rooms |
 |---|---|---|---|
-| GreenEvolution 76, double Low-E | 1,800–2,800 EUR | 2,800–4,200 EUR | 4,000–6,000 EUR |
-| BluEvolution 92, double Low-E | 2,400–3,600 EUR | 3,600–5,500 EUR | 5,200–8,000 EUR |
-| BluEvolution 92, triple Low-E, nZEB | 3,200–4,800 EUR | 4,800–7,000 EUR | 6,800–10,000 EUR |
+| GreenEvolution 76, double Low-E glazing | 1,800–2,800 EUR | 2,800–4,200 EUR | 4,000–6,000 EUR |
+| BluEvolution 92, double Low-E glazing | 2,400–3,600 EUR | 3,600–5,500 EUR | 5,200–8,000 EUR |
+| BluEvolution 92, triple Low-E glazing, nZEB installation | 3,200–4,800 EUR | 4,800–7,000 EUR | 6,800–10,000 EUR |
 
-**WhatsApp:** +40 752 443 435
+*Prices include: Salamander profile, standard hardware, Saint-Gobain glass, installation and removal of the old joinery. Prices exclude VAT; 21% VAT is added at invoicing. Interior window boards are priced separately.*
+
+---
+
+## Why Neofort BIZ for your apartment renovation
+
+**A detailed quote within 48 hours**, with the on-site survey carried out after the contract is signed. **In-house production** — no middlemen, no subcontractors. **nZEB installation** with Blaugelb Triotherm+ pre-frames, on request. **Removal and disposal of the old joinery** are included in the price.
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
 
 ## Frequently Asked Questions
 
 ### What are the signs that old windows need replacing?
 
-The 7 clear signs are: condensation between the glass panes (damaged perimeter seal, unrepairable), draughts with windows closed, high winter energy bills, excessive street noise, difficulty opening/closing, yellowed or cracked profiles, and an ongoing general renovation.
+The 7 clear signs are: condensation between the panes (failed edge seal, not repairable), draughts with the windows closed, high energy bills in winter, excessive street noise, difficulty opening/closing, yellowed or cracked profiles, and a general renovation under way.
 
 ### How much of an apartment's heat loss comes from old windows?
 
-Old windows can account for 30-40% of heat loss. An old window with Uw = 2.8 W/m²K versus a modern one with Uw = 1.0 W/m²K means almost 3 times more heat lost. Replacement directly reduces the winter heating bill.
+Old windows can account for 30-40% of heat loss. An old window with Uw = 2.8 W/m²K against a modern one with Uw = 1.0 W/m²K means almost 3 times more heat lost. Replacement directly lowers the winter heating bill.
 
-### Can condensation between the glass panes be repaired?
+### Can condensation between the panes be repaired?
 
-No. Internal condensation, between the two glass panes, indicates a damaged perimeter seal of the insulated glass unit — the glass no longer insulates. This defect cannot be repaired, the glass must be replaced. By contrast, draughts can be temporarily remedied by adjusting the hardware.
+No. Condensation inside the unit, between the two panes, shows that the edge seal of the insulating glass has failed — the glass no longer insulates. This defect cannot be repaired; the glass unit must be replaced. Draughts, by contrast, can be fixed temporarily by adjusting the hardware.
 
 ### When is the best time to replace windows?
 
-The best time is alongside a general renovation, when the walls are stripped anyway. Old windows offer only 20-25 dB sound insulation, while a modern Salamander profile offers 38-47 dB, plus a significant reduction in heat loss.
+The best time is alongside a general renovation, when the rooms are emptied anyway. Old windows give only 20-25 dB of sound insulation, while a modern Salamander profile gives 38-47 dB, plus a significant reduction in heat loss.
 
-For an apartment, the full replacement process is described separately: [Replacing old windows with Salamander double glazing — complete apartment renovation guide Bucharest 2026](/en/blog/replacing-old-windows-apartment-renovation-bucharest).
+### How much does window replacement cost in a two-room apartment?
+
+As a guide, 2,800-4,200 EUR with GreenEvolution 76 and double Low-E glazing, 3,600-5,500 EUR with BluEvolution 92 and double Low-E glazing, or 4,800-7,000 EUR with BluEvolution 92, triple Low-E glazing and nZEB installation. Prices exclude VAT and include installation and removal of the old joinery; interior window boards are priced separately.
+
 
 ---
 
-Neofort BIZ replaces old windows in apartments and houses in Bucharest and Ilfov, including removal, installation and finishing. See [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). See also [how long a PVC window lasts and when to replace it](/en/blog/how-long-do-pvc-windows-last-when-to-replace-them). Useful pages: [the PVC renovation frame](/en/accessories/pvc-renovation-frame) and [PVC windows in Bucharest](/en/pvc-windows/bucharest). Useful pages: [PVC windowsills and aluminium cills](/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills) and [the Salamander greenEvolution 76 MD ROUND profile](/en/products/greenevolution-76-md-round-pvc-profile).`,
+Neofort BIZ replaces old windows in apartments and houses in Bucharest and Ilfov, with removal, installation and finishing included. See the [PVC window range](/en/pvc-windows) or [request a quote](/en/contact). See also [how long a PVC window lasts and when it needs replacing](/en/blog/how-long-do-pvc-windows-last-when-to-replace-them). Useful pages: [the PVC renovation frame](/en/accessories/pvc-renovation-frame) and [PVC joinery in Bucharest](/en/pvc-windows/bucharest). Here you will also find [PVC window boards and aluminium sills](/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills) and [the Salamander greenEvolution 76 MD ROUND profile](/en/products/greenevolution-76-md-round-pvc-profile).`,
 
-      de: `## Wann ist der richtige Zeitpunkt für den Fensterwechsel?
+      de: `## Wann ist der richtige Zeitpunkt, die Fenster zu ersetzen?
 
-7 klare Signale, dass Ihre Fenster ersetzt werden müssen:
+Es gibt 7 klare Anzeichen dafür, dass Fenster das Ende ihrer Lebensdauer erreicht haben und eine Renovierung nötig ist:
 
-1. **Kondensat zwischen den Scheiben** — Isolierglasdichtung versagt. Nicht reparierbar.
-2. **Zugluft bei geschlossenen Fenstern** — Dichtungen verschlissen.
-3. **Hohe Energierechnungen** — Alte Fenster Uw 2,8 vs. moderne Uw 1,0 W/m²K = 3× mehr [Wärmeverlust](/de/nzeb-systeme).
-4. **Übermäßiger Straßenlärm** — Alt: 20–25 dB. Salamander modern: 38–47 dB.
-5. **Schwierigkeiten beim Öffnen/Schließen** — Wiederholte Reparaturen kosten mehr als Austausch.
-6. **Vergilbte oder rissige Profile** — Altes PVC ohne UV-Stabilisatoren.
-7. **Allgemeine Renovierung** — Bester Zeitpunkt für neue Fenster.
+**1. Kondenswasser zwischen den Scheiben** — Kondenswasser im Scheibenzwischenraum zeigt, dass der Randverbund versagt hat. Das Glas dämmt nicht mehr. Es lässt sich nicht reparieren — es muss ersetzt werden.
+
+**2. Zugluft bei geschlossenen Fenstern** — die Profildichtungen sind verschlissen. Das lässt sich vorübergehend durch Nachstellen der Beschläge beheben, bei Profilen über 15 Jahre ist der Austausch jedoch wirtschaftlicher.
+
+**3. Hohe Energierechnungen im Winter** — alte Fenster können 30–40 % der Wärmeverluste ausmachen. Ein altes Fenster mit Uw = 2,8 W/m²K gegenüber einem modernen mit Uw = 1,0 W/m²K bedeutet fast 3× mehr verlorene Wärme.
+
+**4. Übermäßiger Straßenlärm** — alte Fenster bieten 20–25 dB Schalldämmung. Moderne Salamander-Fenster bieten 38–47 dB.
+
+**5. Schwergängiges Öffnen/Schließen** — verschlissene Beschläge immer wieder zu reparieren kostet mehr, als sie zu ersetzen.
+
+**6. Vergilbte oder rissige Profile** — altes PVC ohne UV-Stabilisatoren zersetzt sich in 10–15 Jahren.
+
+**7. Generalrenovierung** — der beste Zeitpunkt für neue Fenster ist parallel zur Renovierung, wenn die Räume ohnehin leer sind.
+
+---
+
+## Welche Einsparungen bringt der Austausch wirklich?
+
+Für eine 60-m²-Wohnung in Bukarest mit alten Fenstern:
+
+- Aktuelle Wärmeverluste über die Fenster: ~35 % der Gesamtverluste
+- Durchschnittliche Heizkosten im Winter: 800–1.200 EUR/Jahr
+- Verringerung der Fensterverluste nach [BluEvolution 92](/de/kunststofffenster-pvc) + Low-E-Glas + [nZEB](/de/nzeb-systeme)-Montage: **65–75 %**
+- **Geschätzte jährliche Einsparung: 180–315 EUR/Jahr** (mehr, wenn die alten Fenster undicht waren)
+- Amortisation allein über die Heizkosten: 10–15 Jahre
+- Lebensdauer von Salamander: 30–40 Jahre → 15–30 Jahre Nettoeinsparung
 
 ---
 
 ## Welches Salamander-Profil für die Renovierung?
 
-**GreenEvolution 76** — bestes Preis-Leistungs-Verhältnis. Uw 0,73, bis 42 dB, 76 mm Tiefe passt in bestehende Öffnungen ohne strukturelle Änderungen.
+### GreenEvolution 76 — der Renovierungsstandard
 
-**[BluEvolution 92](/de/kunststofffenster-pvc)** — Hoher Standard. Uw 0,70 (Doppel-Low-E) oder 0,55 (Dreifach). Bis 47 dB Schallschutz.
+Das beste Preis-Leistungs-Verhältnis für den Fenstertausch im Wohnblock. Eine 5× bessere Leistung als altes Einfachglas.
+
+- Uw ab 0,73 W/m²K, mit Dreifachverglasung Low-E
+- Schalldämmung: bis 47 dB, mit Schallschutzglas
+- Bautiefe: 76 mm — passt ohne bauliche Änderungen in die vorhandenen Öffnungen
+- **Ideal für:** 2- bis 4-Zimmer-Wohnungen, Renovierungen mit ausgewogenem Budget
+
+### BluEvolution 92 — der höhere Standard
+
+- Uw ab 0,70 W/m²K, mit Dreifachverglasung Low-E
+- Schalldämmung: bis 47 dB, mit Schallschutzglas; die 6 Kammern und die größere Bautiefe bringen zusätzliche Wärmedämmung
+- Bautiefe: 92 mm — kann eine Anpassung der Innenfensterbänke erfordern
+
+### BluEvolution 92 ALU — Premium
+
+Die Optik von Aluminium mit der Leistung von PVC. Ideal, wenn Sie RAL-Sonderfarben wünschen — Schwarz, Anthrazit — ohne Sorge vor dem Ausbleichen.
 
 ---
 
-## Häufige Fehler beim Fensterwechsel
+## Alle Schritte für den Fenstertausch in der Wohnung
 
-1. Nach niedrigstem Preis wählen — billige Profile kosten über 30 Jahre mehr
-2. Beschlagsmarke nicht prüfen — auf Roto oder Siegenia bestehen
-3. Montage ohne Blaugelb Triotherm+ Vorfenster — eliminiert 30–40% der thermischen Leistung
-4. Fensterbänke nicht gleichzeitig bestellen — später 40–60% teurer
-5. Glastyp ignorieren — immer Low-E mit Argon verlangen
+**Schritt 1 — Prüfen Sie die Regeln der Eigentümergemeinschaft**
+In Wohnblöcken kann es Vorgaben zur Farbe geben. In manchen ANL-Blöcken oder Schutzgebieten ist Weiß vorgeschrieben.
+
+**Schritt 2 — Sie erhalten das Angebot innerhalb von 48 Stunden**
+Das Angebot basiert auf den Maßen, die Sie uns mitteilen. Verlassen Sie sich nicht auf die Maße aus den Wohnungsunterlagen — die tatsächlichen Öffnungen weichen auf jeder Seite um 10–30 mm vom Plan ab, und die endgültigen Werte werden beim Aufmaß nach Vertragsabschluss bestätigt.
+
+**Schritt 3 — Wählen Sie die komplette Ausführung**
+Gemeinsam legen wir fest: Profil, Glas, Farbe, Öffnungsart, Beschläge, Fensterbänke. Das Aufmaß vor Ort erfolgt nach der Vertragsunterzeichnung und legt die Fertigungsmaße fest.
+
+**Schritt 4 — Fertigung: 3–4 Wochen**
+
+**Schritt 5 — Die eigentliche Montage**
+
+> ⚠️ **Hinweis:** Die folgenden Zeiten sind Richtwerte und können je nach Komplexität des Auftrags variieren.
+
+| Wohnungstyp | Fenster + Türen | Montagedauer |
+|---|---|---|
+| Einzimmerwohnung | 2–3 | 4–6 Stunden (1 Tag) |
+| 2 Zimmer | 4–5 | 6–8 Stunden (1 Tag) |
+| 3 Zimmer | 6–8 | 1–1,5 Tage |
+| 4 Zimmer + Terrasse | 9–12 | 2 Tage |
+
+**Schritt 6 — Reinigung und Endarbeiten**
+Unser Team nimmt die alten Fenster mit, schützt den Boden und hinterlässt die Räume sauber. Die Innenfensterbänke werden am selben Tag wie die Fenster montiert.
 
 ---
 
-## Richtpreise — Fensterwechsel Wohnung 2026
+## Häufige Fehler beim Fenstertausch — und wie Sie sie vermeiden
 
-> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+**Fehler 1: Nach dem niedrigsten Preis entscheiden**
+Ein Preisunterschied von 20–30 % zwischen einem No-Name-Profil und Salamander entspricht 15–20 Jahren Unterschied bei Haltbarkeit und Leistung. Über 30 Jahre wird das billigste Angebot zum teuersten.
 
-| Konfiguration | Studio | 2-Zimmer | 3-Zimmer |
+**Fehler 2: Die enthaltenen Beschläge nicht prüfen**
+Manche Anbieter verbauen Importbeschläge ohne Marke. Bestehen Sie auf Roto- oder Siegenia-Beschlägen — der Kostenunterschied: 20–40 EUR pro Fenster.
+
+**Fehler 3: Montage ohne Vorwandmontagesystem**
+Die Montage ohne Blaugelb-Triotherm+-Profile spart 25–50 EUR pro laufendem Meter, erzeugt aber Wärmebrücken, die 30–40 % der bezahlten Wärmedämmleistung zunichtemachen.
+
+**Fehler 4: Die Fensterbänke nicht gleichzeitig bestellen**
+Die alten Fensterbänke passen nicht zu den neuen, tieferen Fenstern. Später separat bestellt, kosten sie 40–60 % mehr als bei gemeinsamer Bestellung.
+
+**Fehler 5: Die Glasart vernachlässigen**
+Das Glas macht 70 % der Fensterfläche aus. Ein Premiumprofil mit Standardglas verliert die Hälfte seiner Leistung. Verlangen Sie immer Low-E-Glas mit Argonfüllung.
+
+---
+
+## Richtpreise — Fenstertausch in der Wohnung 2026
+
+> ⚠️ **Wichtiger Hinweis:** Die folgenden Preise sind Richtpreise und spiegeln die Marktlage vom März 2026 wider. Material- und Lohnkosten ändern sich ständig und können steigen oder fallen. Fordern Sie immer ein aktuelles Angebot an.
+
+| Ausführung | Einzimmerwohnung | 2 Zimmer | 3 Zimmer |
 |---|---|---|---|
-| GreenEvolution 76, Doppel-Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
-| BluEvolution 92, Dreifach-Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
+| GreenEvolution 76, Zweifachverglasung Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
+| BluEvolution 92, Zweifachverglasung Low-E | 2.400–3.600 EUR | 3.600–5.500 EUR | 5.200–8.000 EUR |
+| BluEvolution 92, Dreifachverglasung Low-E, nZEB-Montage | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+*Die Preise enthalten: Salamander-Profil, Standardbeschläge, Saint-Gobain-Glas, Montage und Abtransport der alten Fenster. Alle Preise verstehen sich ohne MwSt.; die rumänische MwSt. von 21 % kommt bei der Rechnungsstellung hinzu. Innenfensterbänke werden separat berechnet.*
+
+---
+
+## Warum Neofort BIZ für die Renovierung Ihrer Wohnung
+
+**Ein detailliertes Angebot innerhalb von 48 Stunden**, das Aufmaß vor Ort erfolgt nach der Vertragsunterzeichnung. **Eigene Fertigung** — keine Zwischenhändler, keine Subunternehmer. **nZEB-Montage** mit dem Vorwandmontagesystem Blaugelb Triotherm+, auf Wunsch. **Ausbau und Abtransport der alten Fenster** sind im Preis enthalten.
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18 Uhr**
 
 ## Häufig gestellte Fragen
 
-### Was sind die Anzeichen, dass alte Fenster ersetzt werden müssen?
+### Woran erkennt man, dass alte Fenster ersetzt werden müssen?
 
-Die 7 klaren Anzeichen sind: Kondensat zwischen den Glasscheiben (beschädigte Randdichtung, nicht reparierbar), Zugluft bei geschlossenen Fenstern, hohe Winter-Energierechnungen, übermäßiger Straßenlärm, Schwierigkeiten beim Öffnen/Schließen, vergilbte oder gerissene Profile und eine laufende Generalrenovierung.
+Die 7 klaren Anzeichen sind: Kondenswasser zwischen den Scheiben (Randverbund defekt, nicht reparierbar), Zugluft bei geschlossenen Fenstern, hohe Energierechnungen im Winter, übermäßiger Straßenlärm, schwergängiges Öffnen/Schließen, vergilbte oder rissige Profile und eine laufende Generalrenovierung.
 
-### Wie viel Wärmeverlust einer Wohnung kommt von alten Fenstern?
+### Wie viel der Wärmeverluste einer Wohnung entfällt auf alte Fenster?
 
-Alte Fenster können 30-40% des Wärmeverlusts ausmachen. Ein altes Fenster mit Uw = 2,8 W/m²K gegenüber einem modernen mit Uw = 1,0 W/m²K bedeutet fast 3 mal mehr Wärmeverlust. Der Austausch reduziert direkt die Winter-Heizkostenrechnung.
+Alte Fenster können 30-40 % der Wärmeverluste ausmachen. Ein altes Fenster mit Uw = 2,8 W/m²K gegenüber einem modernen mit Uw = 1,0 W/m²K bedeutet fast 3-mal mehr verlorene Wärme. Der Austausch senkt die Heizkosten im Winter direkt.
 
-### Kann Kondensat zwischen den Glasscheiben repariert werden?
+### Lässt sich Kondenswasser zwischen den Scheiben reparieren?
 
-Nein. Inneres Kondensat zwischen den beiden Glasscheiben zeigt eine beschädigte Randdichtung der Isolierglaseinheit an — das Glas dämmt nicht mehr. Dieser Defekt ist nicht reparierbar, das Glas muss ersetzt werden. Zugluft hingegen kann durch Beschlageinstellung vorübergehend behoben werden.
+Nein. Kondenswasser im Scheibenzwischenraum zeigt, dass der Randverbund des Isolierglases versagt hat — das Glas dämmt nicht mehr. Dieser Mangel lässt sich nicht reparieren, die Isolierglaseinheit muss ersetzt werden. Zugluft dagegen lässt sich vorübergehend durch Nachstellen der Beschläge beheben.
 
-### Wann ist der beste Zeitpunkt für den Fensteraustausch?
+### Wann ist der beste Zeitpunkt für den Fenstertausch?
 
-Der beste Zeitpunkt ist parallel zu einer Generalrenovierung, wenn die Wände ohnehin freigelegt sind. Alte Fenster bieten nur 20-25 dB Schalldämmung, während ein modernes Salamander-Profil 38-47 dB bietet, plus eine deutliche Reduzierung des Wärmeverlusts.
+Der beste Zeitpunkt ist parallel zu einer Generalrenovierung, wenn die Räume ohnehin leer sind. Alte Fenster bieten nur 20-25 dB Schalldämmung, ein modernes Salamander-Profil dagegen 38-47 dB, dazu deutlich geringere Wärmeverluste.
 
-Für eine Wohnung wird der komplette Austauschprozess separat beschrieben: [Alte Fenster durch Salamander ersetzen — Komplett-Renovierungsleitfaden Wohnung Bukarest 2026](/de/blog/alte-fenster-ersetzen-wohnungsrenovierung-bukarest).
+### Was kostet der Fenstertausch in einer Zweizimmerwohnung?
 
----
+Als Richtwert 2.800-4.200 EUR mit GreenEvolution 76 und Zweifachverglasung Low-E, 3.600-5.500 EUR mit BluEvolution 92 und Zweifachverglasung Low-E oder 4.800-7.000 EUR mit BluEvolution 92, Dreifachverglasung Low-E und nZEB-Montage. Die Preise verstehen sich ohne MwSt. und enthalten Montage und Abtransport der alten Fenster; Innenfensterbänke werden separat berechnet.
 
-Neofort BIZ ersetzt alte Fenster in Wohnungen und Häusern in Bukarest und Ilfov, inklusive Ausbau, Montage und Anschlussarbeiten. Sehen Sie [das PVC-Fenster-Sortiment](/de/kunststofffenster-pvc) oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [wie lange ein PVC-Fenster hält und wann es ersetzt werden muss](/de/blog/wie-lange-halten-pvc-fenster-wann-ersetzen). Nützliche Seiten: [PVC-Renovierungsrahmen](/de/zubehoer/pvc-renovierungsrahmen) und [Kunststofffenster in Bukarest](/de/kunststofffenster-pvc/bukarest). Nützliche Seiten: [PVC-Innenfensterbänke und Aluminium-Außenfensterbänke](/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium) und [Salamander-Profil greenEvolution 76 MD ROUND](/de/produkte/greenevolution-76-md-round-pvc-profil).`,
-
-      fr: `## Quand est-il temps de remplacer vos fenêtres ?
-
-7 signaux clairs indiquant que le remplacement est nécessaire :
-
-1. **Condensation entre les vitres** — le joint du double vitrage a cédé. Non réparable.
-2. **Courants d'air fenêtres fermées** — joints usés.
-3. **Factures d'énergie élevées** — Ancienne Uw 2,8 vs moderne Uw 1,0 W/m²K = 3× plus de chaleur perdue.
-4. **Bruit de rue excessif** — Ancien : 20–25 dB. Salamander moderne : 38–47 dB.
-5. **Difficulté d'ouverture/fermeture** — réparations répétées coûtent plus que le remplacement.
-6. **Profilés jaunis ou fissurés** — PVC ancien sans stabilisateurs UV.
-7. **Rénovation générale** — meilleur moment pour de nouvelles fenêtres.
 
 ---
 
-## Quel profil Salamander pour la rénovation ?
+Neofort BIZ ersetzt alte Fenster in Wohnungen und Häusern in Bukarest und Ilfov, inklusive Ausbau, Montage und Endarbeiten. Sehen Sie sich das [Kunststofffenster-Sortiment](/de/kunststofffenster-pvc) an oder [fordern Sie ein Angebot an](/de/kontakt). Lesen Sie auch, [wie lange ein Kunststofffenster hält und wann es ersetzt werden muss](/de/blog/wie-lange-halten-pvc-fenster-wann-ersetzen). Nützliche Seiten: [der PVC-Renovierungsrahmen](/de/zubehoer/pvc-renovierungsrahmen) und [Kunststofffenster in Bukarest](/de/kunststofffenster-pvc/bukarest). Hier finden Sie außerdem [PVC-Innenfensterbänke und Aluminium-Außenfensterbänke](/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium) und [das Salamander-Profil greenEvolution 76 MD ROUND](/de/produkte/greenevolution-76-md-round-pvc-profil).`,
 
-**GreenEvolution 76** — meilleur rapport qualité-prix. Uw 0,73, jusqu'à 42 dB, profondeur 76 mm s'adapte aux baies existantes sans modifications structurelles.
+      fr: `## Quel est le bon moment pour remplacer vos fenêtres ?
 
-**[BluEvolution 92](/fr/menuiserie-pvc)** — haut standard. Uw 0,70 (double Low-E) ou 0,55 (triple). Jusqu'à 47 dB d'[isolation](/fr/systemes-nzeb) acoustique.
+Il existe 7 signes clairs indiquant que les fenêtres sont en fin de vie et qu’une rénovation s’impose :
+
+**1. De la condensation entre les vitres** — la condensation à l’intérieur du vitrage, entre les deux vitres, indique que le joint périphérique est défaillant. Le vitrage n’isole plus. Il ne se répare pas — il se remplace.
+
+**2. Des courants d’air fenêtres fermées** — les joints du profilé sont usés. Un réglage de la quincaillerie peut y remédier temporairement, mais sur des profilés de plus de 15 ans, le remplacement est plus économique.
+
+**3. Des factures d’énergie élevées en hiver** — les fenêtres anciennes peuvent représenter 30 à 40 % des déperditions thermiques. Une fenêtre ancienne à Uw = 2,8 W/m²K face à une fenêtre moderne à Uw = 1,0 W/m²K, c’est près de 3× plus de chaleur perdue.
+
+**4. Un bruit de rue excessif** — les fenêtres anciennes offrent 20 à 25 dB d’isolation acoustique. Une fenêtre Salamander moderne offre 38 à 47 dB.
+
+**5. Des difficultés à ouvrir ou fermer** — réparer encore et encore une quincaillerie usée coûte plus cher que de la remplacer.
+
+**6. Des profilés jaunis ou fissurés** — l’ancien PVC sans stabilisants UV se dégrade en 10 à 15 ans.
+
+**7. Une rénovation générale** — le meilleur moment pour poser des fenêtres neuves est pendant la rénovation, quand les pièces sont vidées de toute façon.
 
 ---
 
-## Erreurs fréquentes à éviter
+## Quelles économies réelles le remplacement apporte-t-il ?
 
-1. Choisir le prix le plus bas — les profilés bon marché coûtent plus sur 30 ans
-2. Ne pas vérifier la marque de quincaillerie — exiger Roto ou Siegenia
-3. Pose sans précadres Blaugelb Triotherm+ — élimine 30–40% des performances thermiques
-4. Ne pas commander les appuis en même temps — 40–60% plus cher après
-5. Ignorer le type de vitrage — toujours demander Low-E avec argon
+Pour un appartement de 60 m² à Bucarest équipé de fenêtres anciennes :
+
+- Déperditions actuelles par les fenêtres : ~35 % des pertes totales
+- Coût moyen du chauffage en hiver : 800 à 1 200 EUR/an
+- Réduction des déperditions par les fenêtres après [BluEvolution 92](/fr/menuiserie-pvc) + vitrage Low-E + pose [nZEB](/fr/systemes-nzeb) : **65 à 75 %**
+- **Économie annuelle estimée : 180 à 315 EUR/an** (davantage si les anciennes fenêtres laissaient passer l’air)
+- Retour sur investissement, sur le seul chauffage : 10 à 15 ans
+- Durée de vie Salamander : 30 à 40 ans → 15 à 30 ans d’économies nettes
 
 ---
 
-## Prix indicatifs — remplacement fenêtres appartement 2026
+## Quel profilé Salamander choisir pour une rénovation ?
 
-> ⚠️ **Note :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+### GreenEvolution 76 — le standard de la rénovation
+
+Le meilleur rapport qualité-prix pour remplacer les fenêtres en immeuble. Des performances 5× supérieures à celles d’un ancien simple vitrage.
+
+- Uw à partir de 0,73 W/m²K, avec triple vitrage Low-E
+- Isolation acoustique : jusqu’à 47 dB, avec vitrage acoustique
+- Profondeur : 76 mm — s’adapte aux baies existantes sans modification structurelle
+- **Idéal pour :** appartements de 2 à 4 pièces, rénovations au budget équilibré
+
+### BluEvolution 92 — le standard supérieur
+
+- Uw à partir de 0,70 W/m²K, avec triple vitrage Low-E
+- Isolation acoustique : jusqu’à 47 dB, avec vitrage acoustique ; les 6 chambres et la profondeur plus importante renforcent l’isolation thermique
+- Profondeur : 92 mm — peut nécessiter une adaptation des tablettes intérieures
+
+### BluEvolution 92 ALU — haut de gamme
+
+L’aspect de l’aluminium avec les performances du PVC. Idéal si vous souhaitez des couleurs RAL spéciales — noir, anthracite — sans craindre la décoloration.
+
+---
+
+## Toutes les étapes du remplacement des fenêtres en appartement
+
+**Étape 1 — Vérifiez le règlement de copropriété**
+En immeuble, la couleur peut être soumise à des restrictions. Le blanc est obligatoire dans certains immeubles ANL ou zones protégées.
+
+**Étape 2 — Vous recevez le devis sous 48 heures**
+Le devis est établi à partir des dimensions que vous nous communiquez. Ne vous fiez pas à celles des documents de l’appartement — les baies réelles diffèrent de 10 à 30 mm de chaque côté par rapport aux plans, et les valeurs définitives sont confirmées lors du métré réalisé après la signature du contrat.
+
+**Étape 3 — Choisissez la configuration complète**
+Nous définissons ensemble : profilé, vitrage, couleur, type d’ouverture, quincaillerie, tablettes. Le métré sur place a lieu après la signature du contrat et fixe les dimensions de fabrication.
+
+**Étape 4 — Fabrication : 3 à 4 semaines**
+
+**Étape 5 — La pose proprement dite**
+
+> ⚠️ **Remarque :** les durées ci-dessous sont indicatives et peuvent varier selon la complexité du chantier.
+
+| Type d’appartement | Fenêtres + portes | Durée de pose |
+|---|---|---|
+| Studio | 2–3 | 4 à 6 heures (1 jour) |
+| 2 pièces | 4–5 | 6 à 8 heures (1 jour) |
+| 3 pièces | 6–8 | 1 à 1,5 jour |
+| 4 pièces + terrasse | 9–12 | 2 jours |
+
+**Étape 6 — Nettoyage et finitions**
+Notre équipe emporte les anciennes menuiseries, protège le sol et laisse les lieux propres. Les tablettes intérieures sont posées le même jour que les fenêtres.
+
+---
+
+## Erreurs fréquentes lors du remplacement des fenêtres — comment les éviter
+
+**Erreur 1 : choisir le prix le plus bas**
+Un écart de prix de 20 à 30 % entre un profilé sans marque et Salamander correspond à 15 à 20 ans d’écart en durabilité et en performance. Sur 30 ans, l’offre la moins chère devient la plus coûteuse.
+
+**Erreur 2 : ne pas vérifier la quincaillerie incluse**
+Certains fournisseurs posent une quincaillerie d’importation sans marque. Exigez une quincaillerie Roto ou Siegenia — la différence de coût : 20 à 40 EUR par fenêtre.
+
+**Erreur 3 : une pose sans précadres**
+Poser sans précadres Blaugelb Triotherm+ fait économiser 25 à 50 EUR par mètre linéaire, mais crée des ponts thermiques qui annulent 30 à 40 % des performances thermiques payées.
+
+**Erreur 4 : ne pas commander les tablettes en même temps**
+Les anciennes tablettes ne conviennent pas aux nouvelles fenêtres, plus profondes. Commandées séparément plus tard, elles coûtent 40 à 60 % de plus que si elles sont commandées ensemble.
+
+**Erreur 5 : négliger le type de vitrage**
+Le vitrage représente 70 % de la surface de la fenêtre. Un profilé haut de gamme avec un vitrage standard perd la moitié de ses performances. Demandez toujours un vitrage Low-E à l’argon.
+
+---
+
+## Prix indicatifs — remplacement des fenêtres en appartement 2026
+
+> ⚠️ **Remarque importante :** les prix ci-dessous sont indicatifs et reflètent les conditions du marché en mars 2026. Les prix des matériaux et de la main-d’œuvre évoluent en permanence, à la hausse comme à la baisse. Demandez toujours un devis actualisé.
 
 | Configuration | Studio | 2 pièces | 3 pièces |
 |---|---|---|---|
-| GreenEvolution 76, double Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
-| BluEvolution 92, triple Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
+| GreenEvolution 76, double vitrage Low-E | 1 800–2 800 EUR | 2 800–4 200 EUR | 4 000–6 000 EUR |
+| BluEvolution 92, double vitrage Low-E | 2 400–3 600 EUR | 3 600–5 500 EUR | 5 200–8 000 EUR |
+| BluEvolution 92, triple vitrage Low-E, pose nZEB | 3 200–4 800 EUR | 4 800–7 000 EUR | 6 800–10 000 EUR |
 
-**WhatsApp :** +40 752 443 435
+*Les prix comprennent : profilé Salamander, quincaillerie standard, vitrage Saint-Gobain, pose et enlèvement des anciennes menuiseries. Ils s’entendent hors TVA ; la TVA roumaine de 21 % s’ajoute à la facturation. Les tablettes intérieures sont chiffrées à part.*
+
+---
+
+## Pourquoi Neofort BIZ pour la rénovation de votre appartement
+
+**Un devis détaillé sous 48 heures**, le métré sur place étant réalisé après la signature du contrat. **Fabrication propre** — sans intermédiaires ni sous-traitants. **Pose nZEB** avec précadres Blaugelb Triotherm+, sur demande. **La dépose et l’enlèvement des anciennes menuiseries** sont compris dans le prix.
+
+**WhatsApp :** +40 752 443 435 | **Lun–Ven 10h–18h**
 
 ## Questions fréquentes
 
-### Quels sont les signes que des fenêtres anciennes doivent être remplacées ?
+### Quels sont les signes que les anciennes fenêtres doivent être remplacées ?
 
-Les 7 signes clairs sont : condensation entre les vitres (joint périmétrique endommagé, irréparable), courants d'air fenêtres fermées, factures d'énergie élevées en hiver, bruit de rue excessif, difficulté à ouvrir/fermer, profilés jaunis ou fissurés, et une rénovation générale en cours.
+Les 7 signes clairs sont : de la condensation entre les vitres (joint périphérique défaillant, non réparable), des courants d’air fenêtres fermées, des factures d’énergie élevées en hiver, un bruit de rue excessif, des difficultés à ouvrir ou fermer, des profilés jaunis ou fissurés, et une rénovation générale en cours.
 
-### Quelle part des pertes de chaleur d'un appartement vient des vieilles fenêtres ?
+### Quelle part des déperditions d’un appartement vient des fenêtres anciennes ?
 
-Les vieilles fenêtres peuvent représenter 30-40% des pertes de chaleur. Une vieille fenêtre à Uw = 2,8 W/m²K contre une moderne à Uw = 1,0 W/m²K signifie presque 3 fois plus de chaleur perdue. Le remplacement réduit directement la facture de chauffage en hiver.
+Les fenêtres anciennes peuvent représenter 30-40 % des déperditions thermiques. Une fenêtre ancienne à Uw = 2,8 W/m²K face à une fenêtre moderne à Uw = 1,0 W/m²K, c’est près de 3 fois plus de chaleur perdue. Le remplacement réduit directement la facture de chauffage en hiver.
 
 ### La condensation entre les vitres peut-elle être réparée ?
 
-Non. La condensation interne, entre les deux vitres, indique un joint périmétrique endommagé du vitrage isolant — le vitrage n'isole plus. Ce défaut est irréparable, le vitrage doit être remplacé. En revanche, les courants d'air peuvent être temporairement corrigés par un réglage de la quincaillerie.
+Non. La condensation à l’intérieur du vitrage, entre les deux vitres, indique que le joint périphérique du vitrage isolant est défaillant — le vitrage n’isole plus. Ce défaut ne se répare pas, le vitrage doit être remplacé. Les courants d’air, en revanche, peuvent être corrigés temporairement par un réglage de la quincaillerie.
 
 ### Quel est le meilleur moment pour remplacer les fenêtres ?
 
-Le meilleur moment est en parallèle d'une rénovation générale, quand les murs sont de toute façon mis à nu. Les vieilles fenêtres n'offrent que 20-25 dB d'isolation acoustique, alors qu'un profilé Salamander moderne offre 38-47 dB, plus une réduction significative des pertes de chaleur.
+Le meilleur moment est pendant une rénovation générale, quand les pièces sont vidées de toute façon. Les fenêtres anciennes n’offrent que 20-25 dB d’isolation acoustique, contre 38-47 dB pour un profilé Salamander moderne, avec en plus une nette réduction des déperditions.
 
-Pour un appartement, le processus complet de remplacement est décrit à part: [Remplacement fenêtres anciennes Salamander — guide complet rénovation appartement Bucarest 2026](/fr/blog/remplacement-fenetres-renovation-appartement-bucarest).
+### Combien coûte le remplacement des fenêtres dans un 2 pièces ?
 
----
+À titre indicatif, 2 800-4 200 EUR en GreenEvolution 76 avec double vitrage Low-E, 3 600-5 500 EUR en BluEvolution 92 avec double vitrage Low-E, ou 4 800-7 000 EUR en BluEvolution 92 avec triple vitrage Low-E et pose nZEB. Les prix s’entendent hors TVA et comprennent la pose et l’enlèvement des anciennes menuiseries ; les tablettes intérieures sont chiffrées à part.
 
-Neofort BIZ remplace les anciennes fenêtres dans les appartements et maisons à Bucarest et Ilfov, dépose, pose et finitions comprises. Voir [la gamme de fenêtres PVC](/fr/menuiserie-pvc) ou [demandez un devis](/fr/contact). Voir aussi [la durée de vie d’une fenêtre PVC et quand la remplacer](/fr/blog/combien-de-temps-durent-les-fenetres-pvc-quand-les-remplacer). Pages utiles : [le dormant de rénovation PVC](/fr/accessoires/cadre-renovation-pvc) et [la menuiserie PVC à Bucarest](/fr/menuiserie-pvc/bucarest). Pages utiles : [les appuis de fenêtre PVC et aluminium](/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium) et [le profilé Salamander greenEvolution 76 MD ROUND](/fr/produits/profil-pvc-greenevolution-76-md-round).`,
-
-      es: `## ¿Cuándo es el momento adecuado para sustituir las ventanas?
-
-7 señales claras de que la sustitución es necesaria:
-
-1. **Condensación entre los cristales** — el sellado del doble acristalamiento ha fallado. No se puede reparar.
-2. **Corrientes de aire con ventanas cerradas** — juntas desgastadas.
-3. **Facturas de energía elevadas** — Antigua Uw 2,8 vs moderna Uw 1,0 W/m²K = 3× más calor perdido.
-4. **Ruido de calle excesivo** — Antigua: 20–25 dB. Salamander moderno: 38–47 dB.
-5. **Dificultad para abrir/cerrar** — reparaciones repetidas cuestan más que la sustitución.
-6. **Perfiles amarillentos o agrietados** — PVC antiguo sin estabilizadores UV.
-7. **Renovación general** — mejor momento para ventanas nuevas.
 
 ---
 
-## ¿Qué perfil Salamander para la renovación?
+Neofort BIZ remplace les fenêtres anciennes dans les appartements et les maisons de Bucarest et de l’Ilfov, dépose, pose et finitions comprises. Découvrez la [gamme de fenêtres PVC](/fr/menuiserie-pvc) ou [demandez un devis](/fr/contact). Lisez aussi [combien de temps dure une fenêtre PVC et quand la remplacer](/fr/blog/combien-de-temps-durent-les-fenetres-pvc-quand-les-remplacer). Pages utiles : [le cadre de rénovation PVC](/fr/accessoires/cadre-renovation-pvc) et [la menuiserie PVC à Bucarest](/fr/menuiserie-pvc/bucarest). Vous y trouverez aussi [les tablettes intérieures PVC et les appuis extérieurs en aluminium](/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium) et [le profilé Salamander greenEvolution 76 MD ROUND](/fr/produits/profil-pvc-greenevolution-76-md-round).`,
 
-**GreenEvolution 76** — mejor relación calidad-precio. Uw 0,73, hasta 42 dB, profundidad 76 mm encaja en huecos existentes sin cambios estructurales.
+      es: `## ¿Cuándo es el momento adecuado para cambiar las ventanas?
 
-**[BluEvolution 92](/es/carpinteria-pvc)** — alto estándar. Uw 0,70 (doble Low-E) o 0,55 (triple). Hasta 47 dB de [aislamiento](/es/sistemas-nzeb) acústico.
+Hay 7 señales claras de que las ventanas han llegado al final de su vida útil y de que es necesario renovarlas:
+
+**1. Condensación entre los vidrios** — la condensación dentro de la unidad, entre los dos vidrios, indica que el sellado perimetral ha fallado. El vidrio ya no aísla. No se puede reparar: hay que sustituirlo.
+
+**2. Corrientes de aire con las ventanas cerradas** — las juntas del perfil están desgastadas. Puede corregirse temporalmente ajustando los herrajes, pero en perfiles de más de 15 años la sustitución resulta más económica.
+
+**3. Facturas de energía altas en invierno** — las ventanas antiguas pueden suponer el 30–40 % de las pérdidas térmicas. Una ventana antigua con Uw = 2,8 W/m²K frente a una moderna con Uw = 1,0 W/m²K significa casi 3× más calor perdido.
+
+**4. Ruido de la calle excesivo** — las ventanas antiguas ofrecen 20–25 dB de aislamiento acústico. Una ventana Salamander moderna ofrece 38–47 dB.
+
+**5. Dificultad para abrir y cerrar** — reparar una y otra vez unos herrajes desgastados cuesta más que sustituirlos.
+
+**6. Perfiles amarillentos o agrietados** — el PVC antiguo sin estabilizadores UV se degrada en 10–15 años.
+
+**7. Reforma general** — el mejor momento para poner ventanas nuevas es durante la reforma, cuando las habitaciones ya están vacías.
 
 ---
 
-## Errores frecuentes a evitar
+## ¿Qué ahorro real se consigue con la sustitución?
 
-1. Elegir por precio más bajo — los perfiles baratos cuestan más a 30 años
-2. No verificar la marca de herrajes — exigir Roto o Siegenia
-3. Instalación sin premarcos Blaugelb Triotherm+ — elimina 30–40% del rendimiento térmico
-4. No pedir los alféizares al mismo tiempo — 40–60% más caro después
-5. Ignorar el tipo de vidrio — siempre pedir Low-E con argón
+Para un piso de 60 m² en Bucarest con ventanas antiguas:
+
+- Pérdidas térmicas actuales por las ventanas: ~35 % del total
+- Coste medio de calefacción en invierno: 800–1.200 EUR/año
+- Reducción de las pérdidas por las ventanas con [BluEvolution 92](/es/carpinteria-pvc) + vidrio Low-E + instalación [nZEB](/es/sistemas-nzeb): **65–75 %**
+- **Ahorro anual estimado: 180–315 EUR/año** (más si las ventanas antiguas tenían corrientes de aire)
+- Amortización, solo con la calefacción: 10–15 años
+- Vida útil de Salamander: 30–40 años → 15–30 años de ahorro neto
 
 ---
 
-## Precios orientativos — sustitución ventanas apartamento 2026
+## ¿Qué perfil Salamander elegir para una reforma?
 
-> ⚠️ **Nota:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+### GreenEvolution 76 — el estándar de las reformas
+
+La mejor relación calidad-precio para cambiar las ventanas en un bloque de pisos. Un rendimiento 5× mejor que el de un antiguo vidrio simple.
+
+- Uw desde 0,73 W/m²K, con triple acristalamiento Low-E
+- Aislamiento acústico: hasta 47 dB, con vidrio acústico
+- Profundidad: 76 mm — encaja en los huecos existentes sin cambios estructurales
+- **Ideal para:** pisos de 2 a 4 habitaciones, reformas con presupuesto equilibrado
+
+### BluEvolution 92 — el estándar superior
+
+- Uw desde 0,70 W/m²K, con triple acristalamiento Low-E
+- Aislamiento acústico: hasta 47 dB, con vidrio acústico; las 6 cámaras y la mayor profundidad añaden aislamiento térmico
+- Profundidad: 92 mm — puede requerir adaptar los alféizares interiores
+
+### BluEvolution 92 ALU — premium
+
+El aspecto del aluminio con el rendimiento del PVC. Ideal si quiere colores RAL especiales — negro, antracita — sin preocuparse por la decoloración.
+
+---
+
+## Todos los pasos para cambiar las ventanas de un piso
+
+**Paso 1 — Consulte las normas de la comunidad de propietarios**
+En los bloques puede haber restricciones de color. El blanco es obligatorio en algunos bloques ANL o zonas protegidas.
+
+**Paso 2 — Recibe el presupuesto en 48 horas**
+El presupuesto se hace con las medidas que nos envía. No se fíe de las que figuran en la documentación del piso: los huecos reales difieren de 10 a 30 mm por cada lado respecto al proyecto, y los valores finales se confirman en la medición posterior al contrato.
+
+**Paso 3 — Elija la configuración completa**
+Definimos juntos: perfil, vidrio, color, tipo de apertura, herrajes, alféizares. La medición in situ se hace después de firmar el contrato y fija las medidas de fabricación.
+
+**Paso 4 — Fabricación: 3–4 semanas**
+
+**Paso 5 — La instalación propiamente dicha**
+
+> ⚠️ **Nota:** los tiempos indicados son orientativos y pueden variar según la complejidad del trabajo.
+
+| Tipo de piso | Ventanas + puertas | Duración del montaje |
+|---|---|---|
+| Estudio | 2–3 | 4–6 horas (1 día) |
+| 2 habitaciones | 4–5 | 6–8 horas (1 día) |
+| 3 habitaciones | 6–8 | 1–1,5 días |
+| 4 habitaciones + terraza | 9–12 | 2 días |
+
+**Paso 6 — Limpieza y acabados**
+Nuestro equipo retira la carpintería antigua, protege el suelo y deja el espacio limpio. Los alféizares interiores se instalan el mismo día que las ventanas.
+
+---
+
+## Errores frecuentes al cambiar las ventanas — cómo evitarlos
+
+**Error 1: Elegir por el precio más bajo**
+Una diferencia de precio del 20–30 % entre un perfil sin marca y Salamander equivale a 15–20 años de diferencia en durabilidad y rendimiento. A 30 años, la oferta más barata acaba siendo la más cara.
+
+**Error 2: No comprobar los herrajes incluidos**
+Algunos proveedores montan herrajes de importación sin marca. Exija herrajes Roto o Siegenia: la diferencia de coste es de 20–40 EUR por ventana.
+
+**Error 3: Instalar sin premarcos**
+Instalar sin premarcos Blaugelb Triotherm+ ahorra 25–50 EUR por metro lineal, pero crea puentes térmicos que anulan el 30–40 % del rendimiento térmico pagado.
+
+**Error 4: No encargar los alféizares a la vez**
+Los alféizares antiguos no encajan con las nuevas ventanas, más profundas. Encargados por separado más tarde, cuestan un 40–60 % más que si se encargan juntos.
+
+**Error 5: Ignorar el tipo de vidrio**
+El vidrio supone el 70 % de la superficie de la ventana. Un perfil premium con vidrio estándar pierde la mitad de su rendimiento. Pida siempre vidrio Low-E con argón.
+
+---
+
+## Precios orientativos — sustitución de ventanas en un piso 2026
+
+> ⚠️ **Nota importante:** los precios siguientes son orientativos y reflejan las condiciones del mercado en marzo de 2026. Los precios de los materiales y de la mano de obra cambian continuamente y pueden subir o bajar. Pida siempre un presupuesto actualizado.
 
 | Configuración | Estudio | 2 habitaciones | 3 habitaciones |
 |---|---|---|---|
-| GreenEvolution 76, doble Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
-| BluEvolution 92, triple Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
+| GreenEvolution 76, doble acristalamiento Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
+| BluEvolution 92, doble acristalamiento Low-E | 2.400–3.600 EUR | 3.600–5.500 EUR | 5.200–8.000 EUR |
+| BluEvolution 92, triple acristalamiento Low-E, instalación nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+*Los precios incluyen: perfil Salamander, herrajes estándar, vidrio Saint-Gobain, instalación y retirada de la carpintería antigua. Son precios sin IVA; el IVA rumano del 21 % se añade en la factura. Los alféizares interiores se presupuestan aparte.*
+
+---
+
+## Por qué Neofort BIZ para la reforma de su piso
+
+**Un presupuesto detallado en 48 horas**, y la medición in situ se hace después de firmar el contrato. **Fabricación propia**: sin intermediarios ni subcontratas. **Instalación nZEB** con premarcos Blaugelb Triotherm+, a petición. **El desmontaje y la retirada de la carpintería antigua** están incluidos en el precio.
+
+**WhatsApp:** +40 752 443 435 | **Lun–Vie 10–18 h**
 
 ## Preguntas frecuentes
 
-### ¿Cuáles son las señales de que las ventanas viejas deben sustituirse?
+### ¿Cuáles son las señales de que hay que cambiar las ventanas antiguas?
 
-Las 7 señales claras son: condensación entre los vidrios (junta perimetral dañada, irreparable), corrientes de aire con ventanas cerradas, facturas de energía altas en invierno, ruido de calle excesivo, dificultad para abrir/cerrar, perfiles amarilleados o agrietados, y una reforma general en curso.
+Las 7 señales claras son: condensación entre los vidrios (sellado perimetral dañado, no reparable), corrientes de aire con las ventanas cerradas, facturas de energía altas en invierno, ruido de la calle excesivo, dificultad para abrir y cerrar, perfiles amarillentos o agrietados, y una reforma general en curso.
 
-### ¿Qué parte de las pérdidas de calor de un piso viene de las ventanas viejas?
+### ¿Qué parte de las pérdidas térmicas de un piso se debe a las ventanas antiguas?
 
-Las ventanas viejas pueden representar el 30-40% de las pérdidas de calor. Una ventana vieja con Uw = 2,8 W/m²K frente a una moderna con Uw = 1,0 W/m²K significa casi 3 veces más calor perdido. La sustitución reduce directamente la factura de calefacción en invierno.
+Las ventanas antiguas pueden suponer el 30-40 % de las pérdidas térmicas. Una ventana antigua con Uw = 2,8 W/m²K frente a una moderna con Uw = 1,0 W/m²K significa casi 3 veces más calor perdido. La sustitución reduce directamente la factura de calefacción en invierno.
 
 ### ¿Se puede reparar la condensación entre los vidrios?
 
-No. La condensación interna, entre los dos vidrios, indica una junta perimetral dañada del vidrio aislante — el vidrio ya no aísla. Este defecto no se puede reparar, el vidrio debe sustituirse. En cambio, las corrientes de aire pueden remediarse temporalmente ajustando los herrajes.
+No. La condensación dentro de la unidad, entre los dos vidrios, indica que el sellado perimetral del vidrio aislante ha fallado: el vidrio ya no aísla. Este defecto no se puede reparar, hay que sustituir la unidad de vidrio. Las corrientes de aire, en cambio, pueden corregirse temporalmente ajustando los herrajes.
 
-### ¿Cuál es el mejor momento para sustituir las ventanas?
+### ¿Cuál es el mejor momento para cambiar las ventanas?
 
-El mejor momento es en paralelo a una reforma general, cuando los muros están de todas formas al descubierto. Las ventanas viejas ofrecen solo 20-25 dB de aislamiento acústico, mientras que un perfil Salamander moderno ofrece 38-47 dB, más una reducción significativa de las pérdidas de calor.
+El mejor momento es durante una reforma general, cuando las habitaciones ya están vacías. Las ventanas antiguas ofrecen solo 20-25 dB de aislamiento acústico, mientras que un perfil Salamander moderno ofrece 38-47 dB, además de una reducción importante de las pérdidas térmicas.
 
-Para un piso, el proceso completo de sustitución se describe aparte: [Sustitución ventanas antiguas Salamander — guía completa renovación apartamento Bucarest 2026](/es/blog/sustitucion-ventanas-renovacion-apartamento-bucarest).
+### ¿Cuánto cuesta cambiar las ventanas de un piso de 2 habitaciones?
 
----
+A título orientativo, 2.800-4.200 EUR con GreenEvolution 76 y doble acristalamiento Low-E, 3.600-5.500 EUR con BluEvolution 92 y doble acristalamiento Low-E, o 4.800-7.000 EUR con BluEvolution 92, triple acristalamiento Low-E e instalación nZEB. Los precios son sin IVA e incluyen la instalación y la retirada de la carpintería antigua; los alféizares interiores se presupuestan aparte.
 
-Neofort BIZ sustituye ventanas antiguas en pisos y casas de Bucarest e Ilfov, con desmontaje, montaje y acabados incluidos. Ver [la gama de ventanas PVC](/es/carpinteria-pvc) o [solicita un presupuesto](/es/contacto). Ver también [cuánto dura una ventana de PVC y cuándo sustituirla](/es/blog/cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas). Páginas útiles: [el marco de renovación PVC](/es/accesorios/marco-renovacion-pvc) y [la carpintería PVC en Bucarest](/es/carpinteria-pvc/bucarest). Páginas útiles: [los alféizares de PVC y los vierteaguas de aluminio](/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio) y [el perfil Salamander greenEvolution 76 MD ROUND](/es/productos/perfil-pvc-greenevolution-76-md-round).`,
-
-      it: `## Quando è il momento giusto per sostituire le finestre?
-
-7 segnali chiari che la sostituzione è necessaria:
-
-1. **Condensa tra i vetri** — la guarnizione del vetrocamera ha ceduto. Non riparabile.
-2. **Spifferi con finestre chiuse** — guarnizioni usurate.
-3. **Bollette energetiche elevate** — Vecchia Uw 2,8 vs moderna Uw 1,0 W/m²K = 3× più calore perso.
-4. **Rumore stradale eccessivo** — Vecchia: 20–25 dB. Salamander moderna: 38–47 dB.
-5. **Difficoltà di apertura/chiusura** — riparazioni ripetute costano più della sostituzione.
-6. **Profilati ingialliti o crepati** — PVC vecchio senza stabilizzatori UV.
-7. **Ristrutturazione generale** — momento migliore per finestre nuove.
 
 ---
 
-## Quale profilo Salamander per la ristrutturazione?
+Neofort BIZ sustituye ventanas antiguas en pisos y casas de Bucarest e Ilfov, con desmontaje, instalación y acabados incluidos. Vea la [gama de ventanas de PVC](/es/carpinteria-pvc) o [solicite un presupuesto](/es/contacto). Lea también [cuánto dura una ventana de PVC y cuándo hay que cambiarla](/es/blog/cuanto-duran-las-ventanas-pvc-cuando-reemplazarlas). Páginas útiles: [el marco de renovación de PVC](/es/accesorios/marco-renovacion-pvc) y [la carpintería de PVC en Bucarest](/es/carpinteria-pvc/bucarest). Aquí encontrará también [los alféizares interiores de PVC y los vierteaguas exteriores de aluminio](/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio) y [el perfil Salamander greenEvolution 76 MD ROUND](/es/productos/perfil-pvc-greenevolution-76-md-round).`,
 
-**GreenEvolution 76** — miglior rapporto qualità-prezzo. Uw 0,73, fino a 42 dB, profondità 76 mm si adatta alle aperture esistenti senza modifiche strutturali.
+      it: `## Qual è il momento giusto per sostituire le finestre?
 
-**[BluEvolution 92](/it/infissi-pvc)** — alto standard. Uw 0,70 (doppio Low-E) o 0,55 (triplo). Fino a 47 dB di [isolamento](/it/sistemi-nzeb) acustico.
+Ci sono 7 segnali chiari che le finestre sono arrivate a fine vita e che serve una ristrutturazione:
+
+**1. Condensa tra i vetri** — la condensa all’interno della vetrocamera, tra le due lastre, indica che la sigillatura perimetrale ha ceduto. Il vetro non isola più. Non si ripara: si sostituisce.
+
+**2. Spifferi a finestre chiuse** — le guarnizioni del profilo sono usurate. Si può rimediare temporaneamente regolando la ferramenta, ma su profili con più di 15 anni la sostituzione è più conveniente.
+
+**3. Bollette alte d’inverno** — le finestre vecchie possono rappresentare il 30–40% delle dispersioni termiche. Una finestra vecchia con Uw = 2,8 W/m²K rispetto a una moderna con Uw = 1,0 W/m²K significa quasi 3× più calore disperso.
+
+**4. Rumore stradale eccessivo** — le finestre vecchie offrono 20–25 dB di isolamento acustico. Una finestra Salamander moderna offre 38–47 dB.
+
+**5. Difficoltà di apertura e chiusura** — riparare di continuo una ferramenta usurata costa più che sostituirla.
+
+**6. Profili ingialliti o crepati** — il vecchio PVC senza stabilizzanti UV si degrada in 10–15 anni.
+
+**7. Ristrutturazione generale** — il momento migliore per le finestre nuove è durante la ristrutturazione, quando le stanze sono comunque vuote.
 
 ---
 
-## Errori frequenti da evitare
+## Quali risparmi reali si ottengono con la sostituzione?
 
-1. Scegliere per prezzo più basso — i profilati economici costano di più su 30 anni
-2. Non verificare la marca della ferramenta — insistere su Roto o Siegenia
-3. Posa senza controtelai Blaugelb Triotherm+ — elimina 30–40% delle prestazioni termiche
-4. Non ordinare i davanzali contemporaneamente — 40–60% più caro dopo
-5. Ignorare il tipo di vetro — richiedere sempre Low-E con argon
+Per un appartamento di 60 m² a Bucarest con finestre vecchie:
+
+- Dispersioni attuali attraverso le finestre: ~35% delle dispersioni totali
+- Costo medio del riscaldamento invernale: 800–1.200 EUR/anno
+- Riduzione delle dispersioni dalle finestre con [BluEvolution 92](/it/infissi-pvc) + vetro Low-E + posa [nZEB](/it/sistemi-nzeb): **65–75%**
+- **Risparmio annuo stimato: 180–315 EUR/anno** (di più se le vecchie finestre avevano spifferi)
+- Ritorno dell’investimento, sul solo riscaldamento: 10–15 anni
+- Durata di vita Salamander: 30–40 anni → 15–30 anni di risparmio netto
 
 ---
 
-## Prezzi indicativi — sostituzione finestre appartamento 2026
+## Quale profilo Salamander scegliere per una ristrutturazione?
 
-> ⚠️ **Nota:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+### GreenEvolution 76 — lo standard per le ristrutturazioni
 
-| Configurazione | Monolocale | 2 camere | 3 camere |
+Il miglior rapporto qualità-prezzo per sostituire le finestre in condominio. Prestazioni 5× migliori di un vecchio vetro singolo.
+
+- Uw da 0,73 W/m²K, con vetro triplo Low-E
+- Isolamento acustico: fino a 47 dB, con vetro acustico
+- Profondità: 76 mm — si adatta ai vani esistenti senza modifiche strutturali
+- **Ideale per:** appartamenti da 2 a 4 locali, ristrutturazioni con budget equilibrato
+
+### BluEvolution 92 — lo standard superiore
+
+- Uw da 0,70 W/m²K, con vetro triplo Low-E
+- Isolamento acustico: fino a 47 dB, con vetro acustico; le 6 camere e la profondità maggiore aggiungono isolamento termico
+- Profondità: 92 mm — può richiedere l’adattamento dei davanzali interni
+
+### BluEvolution 92 ALU — premium
+
+L’aspetto dell’alluminio con le prestazioni del PVC. Ideale se volete colori RAL speciali — nero, antracite — senza preoccuparvi dello scolorimento.
+
+---
+
+## Tutti i passaggi per sostituire le finestre in appartamento
+
+**Passo 1 — Verificate il regolamento condominiale**
+In condominio possono esserci vincoli sul colore. In alcuni edifici ANL o zone tutelate il bianco è obbligatorio.
+
+**Passo 2 — Ricevete il preventivo entro 48 ore**
+Il preventivo si basa sulle misure che ci comunicate. Non fidatevi di quelle riportate nei documenti dell’appartamento: i vani reali differiscono di 10–30 mm per lato rispetto al progetto, e i valori definitivi si confermano con il rilievo misure dopo il contratto.
+
+**Passo 3 — Scegliete la configurazione completa**
+Definiamo insieme: profilo, vetro, colore, tipo di apertura, ferramenta, davanzali. Il rilievo misure in loco si fa dopo la firma del contratto e fissa le misure di produzione.
+
+**Passo 4 — Produzione: 3–4 settimane**
+
+**Passo 5 — La posa vera e propria**
+
+> ⚠️ **Nota:** i tempi indicati sono orientativi e possono variare in base alla complessità del lavoro.
+
+| Tipo di appartamento | Finestre + porte | Durata della posa |
+|---|---|---|
+| Monolocale | 2–3 | 4–6 ore (1 giorno) |
+| Bilocale | 4–5 | 6–8 ore (1 giorno) |
+| Trilocale | 6–8 | 1–1,5 giorni |
+| Quadrilocale + terrazzo | 9–12 | 2 giorni |
+
+**Passo 6 — Pulizia e finiture**
+La nostra squadra porta via i vecchi serramenti, protegge il pavimento e lascia gli ambienti puliti. I davanzali interni si montano lo stesso giorno delle finestre.
+
+---
+
+## Errori frequenti nella sostituzione delle finestre — come evitarli
+
+**Errore 1: Scegliere in base al prezzo più basso**
+Una differenza di prezzo del 20–30% tra un profilo senza marca e Salamander equivale a 15–20 anni di differenza in durata e prestazioni. Su 30 anni, l’offerta più economica diventa la più cara.
+
+**Errore 2: Non controllare la ferramenta inclusa**
+Alcuni fornitori montano ferramenta d’importazione senza marca. Pretendete ferramenta Roto o Siegenia: la differenza di costo è di 20–40 EUR per finestra.
+
+**Errore 3: Posa senza controtelai**
+Posare senza controtelai Blaugelb Triotherm+ fa risparmiare 25–50 EUR al metro lineare, ma crea ponti termici che annullano il 30–40% delle prestazioni termiche pagate.
+
+**Errore 4: Non ordinare i davanzali insieme**
+I vecchi davanzali non si adattano alle nuove finestre, più profonde. Ordinati a parte in seguito, costano il 40–60% in più che ordinati insieme.
+
+**Errore 5: Trascurare il tipo di vetro**
+Il vetro rappresenta il 70% della superficie della finestra. Un profilo premium con vetro standard perde metà delle sue prestazioni. Chiedete sempre vetro Low-E con argon.
+
+---
+
+## Prezzi indicativi — sostituzione finestre in appartamento 2026
+
+> ⚠️ **Nota importante:** i prezzi seguenti sono indicativi e riflettono le condizioni di mercato di marzo 2026. I prezzi di materiali e manodopera cambiano di continuo e possono salire o scendere. Chiedete sempre un preventivo aggiornato.
+
+| Configurazione | Monolocale | Bilocale | Trilocale |
 |---|---|---|---|
-| GreenEvolution 76, doppio Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
-| BluEvolution 92, triplo Low-E, nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
+| GreenEvolution 76, vetro doppio Low-E | 1.800–2.800 EUR | 2.800–4.200 EUR | 4.000–6.000 EUR |
+| BluEvolution 92, vetro doppio Low-E | 2.400–3.600 EUR | 3.600–5.500 EUR | 5.200–8.000 EUR |
+| BluEvolution 92, vetro triplo Low-E, posa nZEB | 3.200–4.800 EUR | 4.800–7.000 EUR | 6.800–10.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+*I prezzi comprendono: profilo Salamander, ferramenta standard, vetro Saint-Gobain, posa e smaltimento dei vecchi serramenti. Sono prezzi IVA esclusa; l’IVA rumena del 21% si aggiunge in fattura. I davanzali interni si calcolano a parte.*
+
+---
+
+## Perché Neofort BIZ per ristrutturare il vostro appartamento
+
+**Un preventivo dettagliato entro 48 ore**, con il rilievo misure in loco dopo la firma del contratto. **Produzione propria**: niente intermediari, niente subappalti. **Posa nZEB** con controtelai Blaugelb Triotherm+, su richiesta. **Lo smontaggio e lo smaltimento dei vecchi serramenti** sono compresi nel prezzo.
+
+**WhatsApp:** +40 752 443 435 | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
-### Quali sono i segni che le vecchie finestre vanno sostituite?
+### Quali sono i segnali che le vecchie finestre vanno sostituite?
 
-I 7 segni chiari sono: condensa tra le lastre di vetro (guarnizione perimetrale danneggiata, non riparabile), spifferi a finestre chiuse, bollette energetiche alte d'inverno, rumore stradale eccessivo, difficoltà di apertura/chiusura, profili ingialliti o crepati, e una ristrutturazione generale in corso.
+I 7 segnali chiari sono: condensa tra i vetri (sigillatura perimetrale danneggiata, non riparabile), spifferi a finestre chiuse, bollette alte d’inverno, rumore stradale eccessivo, difficoltà di apertura e chiusura, profili ingialliti o crepati, e una ristrutturazione generale in corso.
 
-### Quanta parte delle dispersioni di calore di un appartamento viene dalle vecchie finestre?
+### Quanta parte delle dispersioni di un appartamento dipende dalle finestre vecchie?
 
-Le vecchie finestre possono rappresentare il 30-40% delle dispersioni di calore. Una vecchia finestra con Uw = 2,8 W/m²K rispetto a una moderna con Uw = 1,0 W/m²K significa quasi 3 volte più calore perso. La sostituzione riduce direttamente la bolletta del riscaldamento d'inverno.
+Le finestre vecchie possono rappresentare il 30-40% delle dispersioni termiche. Una finestra vecchia con Uw = 2,8 W/m²K rispetto a una moderna con Uw = 1,0 W/m²K significa quasi 3 volte più calore disperso. La sostituzione riduce direttamente la bolletta del riscaldamento d’inverno.
 
-### Si può riparare la condensa tra le lastre di vetro?
+### La condensa tra i vetri si può riparare?
 
-No. La condensa interna, tra le due lastre, indica una guarnizione perimetrale danneggiata della vetrocamera — il vetro non isola più. Questo difetto non è riparabile, il vetro va sostituito. Gli spifferi invece possono essere temporaneamente risolti regolando la ferramenta.
+No. La condensa all’interno della vetrocamera, tra le due lastre, indica che la sigillatura perimetrale del vetro isolante ha ceduto: il vetro non isola più. Questo difetto non si ripara, la vetrocamera va sostituita. Gli spifferi, invece, si possono correggere temporaneamente regolando la ferramenta.
 
 ### Qual è il momento migliore per sostituire le finestre?
 
-Il momento migliore è in parallelo a una ristrutturazione generale, quando le pareti sono comunque a nudo. Le vecchie finestre offrono solo 20-25 dB di isolamento acustico, mentre un profilo Salamander moderno offre 38-47 dB, più una riduzione significativa delle dispersioni di calore.
+Il momento migliore è durante una ristrutturazione generale, quando le stanze sono comunque vuote. Le finestre vecchie offrono solo 20-25 dB di isolamento acustico, mentre un profilo Salamander moderno ne offre 38-47, oltre a una forte riduzione delle dispersioni termiche.
 
-Per un appartamento, l’intero processo di sostituzione è descritto a parte: [Sostituzione finestre vecchie Salamander — guida completa ristrutturazione appartamento Bucarest 2026](/it/blog/sostituzione-finestre-ristrutturazione-appartamento-bucarest).
+### Quanto costa sostituire le finestre in un bilocale?
+
+Indicativamente 2.800-4.200 EUR con GreenEvolution 76 e vetro doppio Low-E, 3.600-5.500 EUR con BluEvolution 92 e vetro doppio Low-E, oppure 4.800-7.000 EUR con BluEvolution 92, vetro triplo Low-E e posa nZEB. I prezzi sono IVA esclusa e comprendono posa e smaltimento dei vecchi serramenti; i davanzali interni si calcolano a parte.
+
 
 ---
 
-Neofort BIZ sostituisce vecchie finestre in appartamenti e case a Bucarest e Ilfov, con smontaggio, montaggio e finiture inclusi. Vedi [la gamma di infissi PVC](/it/infissi-pvc) o [richiedi un preventivo](/it/contatti). Vedi anche [quanto dura una finestra in PVC e quando sostituirla](/it/blog/quanto-durano-le-finestre-pvc-quando-sostituirle). Pagine utili: [il telaio di ristrutturazione in PVC](/it/accessori/telaio-ristrutturazione-pvc) e [gli infissi in PVC a Bucarest](/it/infissi-pvc/bucarest). Pagine utili: [i davanzali in PVC e in alluminio](/it/accessori/davanzali-interni-pvc-esterni-alluminio) e [il profilo Salamander greenEvolution 76 MD ROUND](/it/prodotti/profilo-pvc-greenevolution-76-md-round).`,
+Neofort BIZ sostituisce finestre vecchie in appartamenti e case a Bucarest e in provincia di Ilfov, con smontaggio, posa e finiture inclusi. Scoprite la [gamma di finestre in PVC](/it/infissi-pvc) o [richiedete un preventivo](/it/contatti). Leggete anche [quanto dura una finestra in PVC e quando va sostituita](/it/blog/quanto-durano-le-finestre-pvc-quando-sostituirle). Pagine utili: [il telaio di ristrutturazione in PVC](/it/accessori/telaio-ristrutturazione-pvc) e [gli infissi in PVC a Bucarest](/it/infissi-pvc/bucarest). Qui trovate anche [i davanzali interni in PVC e quelli esterni in alluminio](/it/accessori/davanzali-interni-pvc-esterni-alluminio) e [il profilo Salamander greenEvolution 76 MD ROUND](/it/prodotti/profilo-pvc-greenevolution-76-md-round).`,
     },
   },
 
@@ -24883,7 +25606,7 @@ Neofort BIZ installa sistemi ZipScreen con tessuti oscuranti e screen trasparent
     excerpt: {
       ro: 'Alegerea ferestrelor eficiente energetic în București și Ilfov înseamnă mai mult decât un număr de camere PVC. Ghid complet 2026: ce înseamnă Uw, nZEB și Passive House, de ce precadrele Blaugelb Triotherm+ și banda butilică contează mai mult decât profilul, cum compari ofertele corect și ce să ceri obligatoriu de la orice furnizor.',
       en: 'Choosing energy-efficient windows in Bucharest and Ilfov means more than a number of PVC chambers. Complete guide 2026: what Uw, nZEB and Passive House mean, why Blaugelb Triotherm+ precasings and butyl tape matter more than the profile, and how to compare quotes correctly.',
-      de: 'Energieeffiziente Fenster in Bukarest zu wählen bedeutet mehr als eine PVC-Kammeranzahl. Vollständiger Leitfaden 2026: was Uw, nZEB und Passivhaus bedeuten, warum Blaugelb Triotherm+ Vorfenster und Butylband mehr als das Profil zählen.',
+      de: 'Energieeffiziente Fenster in Bukarest zu wählen bedeutet mehr als eine PVC-Kammeranzahl. Vollständiger Leitfaden 2026: was Uw, nZEB und Passivhaus bedeuten, warum Blaugelb-Triotherm+-Profile und Butylband mehr als das Profil zählen.',
       fr: "Choisir des fenêtres efficaces à Bucarest signifie bien plus qu\'un nombre de chambres PVC. Guide complet 2026 : ce que signifient Uw, nZEB et maison passive, pourquoi les précadres Blaugelb Triotherm+ comptent plus que le profil.",
       es: 'Elegir ventanas eficientes en Bucarest significa más que un número de cámaras PVC. Guía completa 2026: qué significan Uw, nZEB y Casa Pasiva, por qué los premarcos Blaugelb Triotherm+ importan más que el perfil.',
       it: "Scegliere finestre efficienti a Bucarest significa più di un numero di camere PVC. Guida completa 2026: cosa significano Uw, nZEB e Casa Passiva, perché i controtelai Blaugelb Triotherm+ contano più del profilo.",
@@ -24902,47 +25625,48 @@ Neofort BIZ installa sistemi ZipScreen con tessuti oscuranti e screen trasparent
 
 Bucureștiul are una din cele mai provocatoare climate pentru tâmplărie din Europa: **−15°C iarna** și **+38°C vara** — o diferență de 53°C pe parcursul anului. Ferestrele ineficiente pierd 25–35% din energia de încălzire iarna și permit intrarea a 40–60% din căldura solară vara.
 
-Un studiu al INCERC (Institutul Național de Cercetare în Construcții) arată că înlocuirea ferestrelor vechi cu tâmplărie [nZEB](/ro/sisteme-nzeb) reduce consumul energetic al unui apartament mediu din București cu **35–55%**.
+Înlocuirea ferestrelor vechi cu tâmplărie potrivită pentru clădiri [nZEB](/ro/sisteme-nzeb) reduce de regulă factura de încălzire a unui apartament din București cu **20–30%**, mai mult acolo unde ferestrele vechi aveau curenți de aer.
 
 ---
 
 ## Pasul 1: Coeficientul Uw — singurul număr care contează cu adevărat
 
-**Uw** (Watt per metru pătrat Kelvin) măsoară cât de mult căldură pierde fereastra completă. Cu cât e mai mic, cu atât fereastra e mai bună.
+**Uw** (Watt per metru pătrat Kelvin) măsoară cât de multă căldură pierde fereastra completă. Cu cât e mai mic, cu atât fereastra e mai bună.
 
 | Standard | Uw | Context |
 |---|---|---|
 | Ferestre vechi (pre-2005) | 3,0–4,5 W/m²K | De înlocuit urgent |
-| Standard minim actual | 1,1–1,4 W/m²K | Renovări buget redus |
-| **nZEB obligatoriu (2021+)** | **≤ 0,73 W/m²K** | **Construcții noi București** |
-| Passive House | ≤ 0,60 W/m²K | Case pasive certificate |
+| Renovări — valoare de referință Mc 001-2022 | ≤ 1,20 W/m²K | Înlocuirea ferestrelor în clădiri existente |
+| **Clădiri rezidențiale noi — valoare de referință Mc 001-2022** | **≤ 1,11 W/m²K** | **Construcții noi (nZEB)** |
+| Passive House (criteriul PHI, climat temperat-rece) | ≤ 0,80 W/m²K | Case pasive certificate |
 
-> **Atenție la marketing:** mulți furnizori afișează **Uf** (coeficientul profilului gol) în loc de **Uw** (fereastra completă cu geam). Uf este întotdeauna mai bun decât Uw. Cereți Uw al ferestrei complete.
+GreenEvolution 76 ajunge la Uw de la 0,73 W/m²K, iar BluEvolution 92 la Uw de la 0,70 W/m²K, ambele cu geam triplu Low-E — mult sub valorile de referință.
+
+> **Atenție la marketing:** mulți furnizori afișează **Ug** (doar geamul) sau **Uf** (doar profilul) în loc de **Uw** (fereastra completă). Ug este aproape întotdeauna mai mic decât Uw, așa că fereastra pare mai bună decât este. Cereți Uw al ferestrei complete.
 
 ---
 
 ## Pasul 2: nZEB în București — ce înseamnă practic
 
-Din **2021**, toate construcțiile noi autorizate în România trebuie să respecte standardul **nZEB (Nearly Zero Energy Building)**. Practic, un bloc sau o casă nouă din București fără tâmplărie certificată nZEB nu poate fi recepționată legal.
+Din **2021**, toate construcțiile noi autorizate în România trebuie să respecte standardul **nZEB (Nearly Zero Energy Building)**. Standardul privește performanța energetică a întregii clădiri; ferestrele trebuie să respecte cel puțin valoarea de referință din Mc 001-2022, Uw ≤ 1,11 W/m²K pentru clădirile rezidențiale noi.
 
-**Profile certificate nZEB disponibile la Neofort BIZ:**
+**Profile potrivite pentru clădiri nZEB, disponibile la Neofort BIZ:**
 
 ### Salamander BluEvolution 92
 - 6 camere de aer, adâncime 92 mm
 - 3 garnituri de etanșare perimetrală
-- Uw = **0,70 W/m²K** cu geam dublu Low-E
-- Uw = **0,55 W/m²K** cu geam triplu Low-E
-- Certificat nZEB ✅ | Certificat Passive House ✅
+- Uw de la **0,70 W/m²K**, cu geam triplu Low-E
+- Sistemul bluEvolution are certificat Passivhaus (PHI) ✅
 
 ### Salamander GreenEvolution 76
 - 5 camere de aer, adâncime 76 mm
-- 3 garnituri de etanșare
-- Uw = **0,73 W/m²K** cu geam dublu Low-E
-- Certificat nZEB ✅
+- 2 sau 3 garnituri de etanșare, după variantă (AD sau MD)
+- Uw de la **0,73 W/m²K**, cu geam triplu Low-E
+- Sub valoarea de referință pentru case noi ✅
 
-**Când alegi [BluEvolution 92](/ro/tamplarie-pvc) vs GreenEvolution 76?**
-- **Renovare apartament bloc, buget echilibrat:** GreenEvolution 76 — suficient pentru nZEB, cost mai mic
-- **Casă nouă, penthouse, ultimul etaj:** BluEvolution 92 — performanță maximă, durată de viață mai lungă
+**Când alegi BluEvolution 92 vs GreenEvolution 76?**
+- **Renovare apartament bloc, buget echilibrat:** GreenEvolution 76 — suficient pentru valorile de referință, cost mai mic
+- **Casă nouă, penthouse, ultimul etaj:** [BluEvolution 92](/ro/tamplarie-pvc) — performanță maximă, durată de viață mai lungă
 - **Export, zone montane, condiții extreme:** BluEvolution 92 cu geam triplu — singura alegere corectă
 
 ---
@@ -24956,32 +25680,32 @@ Sistemul complet de montaj nZEB, implementat de Neofort BIZ, include:
 ### Precadre Blaugelb Triotherm+
 Cel mai important element neglijat în ofertele ieftine. Precadrul de plastic cu rupere termică separă fereastra de structura din beton sau BCA. Fără precadru, zona de joncțiune devine o punte termică care anulează **30–40% din performanța profilului**.
 
-### Bandă butilică precomprimată (exterior)
+### Bandă butilică (exterior)
 Etanșează joncțiunea toc-glaf contra ploii și vântului. Fără ea, infiltrațiile de apă degradează termoizolația perimetrală în 2–3 ani.
 
 ### Spumă poliuretanică celulă închisă
 Umple spațiul dintre toc și structură. Spuma cu celulă deschisă (cea ieftină) absoarbe umiditate și se degradează. Spuma cu celulă închisă rezistă 30+ ani.
 
 ### Bandă antivapori (interior)
-Previne condensul la jonțiunea interior tâmplărie-perete. Fără ea, apare mucegaiul în câțiva ani.
+Previne condensul la joncțiunea interior tâmplărie-perete. Fără ea, apare mucegaiul în câțiva ani.
 
 ### Baghete Warm Edge (distanțier termic geam)
-Distanțierul de aluminiu clasic creează o punte termică vizibilă — zona unde apare condensul pe geam iarna. Distanțierul Warm Edge din material compozit reduce Uw cu **0,1–0,2 W/m²K** și elimină condensul marginal.
+Distanțierul de aluminiu clasic creează o punte termică vizibilă — zona unde apare condensul pe geam iarna. Distanțierul Warm Edge din material compozit reduce Uw cu **circa 0,1 W/m²K** și elimină condensul marginal.
 
 ---
 
 ## Pasul 4: Geam dublu vs. triplu Low-E — când merită triplu?
 
 ### Geam dublu Low-E (4+16+4 Ar)
-- Ug = **1,0 W/m²K**
+- Ug = **1,0–1,1 W/m²K**
 - Potrivit pentru: renovări, apartamente etaje 2–6, buget echilibrat
 - Cost față de geam standard: +15–25%
 
 ### Geam triplu Low-E (4+12+4+12+4 Ar/Kr)
-- Ug = **0,5–0,6 W/m²K**
+- Ug = **0,5–0,7 W/m²K**
 - Potrivit pentru: case noi, ultimul etaj, parter, nordul clădirii
 - Cost față de geam dublu: +35–50%
-- Recuperare investiție: **4–7 ani** din economii la încălzire
+- Recuperarea investiției doar din încălzire: de regulă **peste 10 ani** — triplul se alege mai ales pentru confort și lipsa condensului
 
 **Recomandare Neofort BIZ pentru București:**
 - Apartament etaje 2–6, orientare sud/est/vest → geam dublu Low-E (suficient)
@@ -24993,10 +25717,10 @@ Distanțierul de aluminiu clasic creează o punte termică vizibilă — zona un
 
 Înainte să semnezi orice contract cu un furnizor de termopane din București, cere răspuns scris la:
 
-1. **Uw-ul ferestrei complete** (nu Uf al profilului)
+1. **Uw-ul ferestrei complete** (nu Ug al geamului sau Uf al profilului)
 2. **Ce include montajul** — precadre Blaugelb, bandă butilică, spumă celulă închisă, bandă antivapori?
 3. **Ce distanțier de geam** — aluminiu clasic sau Warm Edge?
-4. **Garanție separată** pe profil, geam și montaj — cât ani?
+4. **Garanție separată** pe profil, geam și montaj — câți ani?
 5. **Declarație de performanță CE** pentru profil și geam?
 
 Un furnizor serios răspunde imediat la toate 5. Dacă evită, nu știe sau refuză în scris — este un semnal de alarmă.
@@ -25007,22 +25731,22 @@ Un furnizor serios răspunde imediat la toate 5. Dacă evită, nu știe sau refu
 
 > ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Prețurile materialelor și cursul EUR/RON se pot modifica. Solicitați ofertă actualizată.
 
-| Sistem | Configurație | Preț estimat montat complet |
+| Sistem | Configurație | Preț estimat |
 |---|---|---|
-| GreenEvolution 76 + geam dublu Low-E | Fereastră 100×120 cm | 320–450 EUR |
-| BluEvolution 92 + geam dublu Low-E | Fereastră 100×120 cm | 380–520 EUR |
-| BluEvolution 92 + geam triplu Low-E | Fereastră 100×120 cm | 480–650 EUR |
-| **Preț mediu per mp montat nZEB complet** | — | **280–420 EUR/mp** |
+| GreenEvolution 76 + geam dublu Low-E | Fereastră 100×120 cm | 320–430 EUR |
+| BluEvolution 92 + geam dublu Low-E | Fereastră 100×120 cm | 420–560 EUR |
+| BluEvolution 92 + geam triplu Low-E | Fereastră 100×120 cm | 510–680 EUR |
+| **Montaj nZEB cu precadre Blaugelb Triotherm+** | Perimetru 4,4 ml | **+110–220 EUR** |
 
-*Prețurile includ: profil, geam, feronerie ROTO/MACO, montaj nZEB complet cu precadre Blaugelb și toate benzile de etanșare.*
+*Prețurile includ: profil, geam, feronerie Roto/Siegenia și montaj standard. Montajul nZEB complet, cu precadre Blaugelb și toate benzile de etanșare, se adaugă cu 25–50 EUR pe metru liniar de perimetru. Sunt prețuri fără TVA; TVA-ul de 21% se adaugă la facturare.*
 
 ---
 
 ## De ce Neofort BIZ pentru fereastra ta din București sau Ilfov?
 
-Neofort BIZ este furnizor specializat de tâmplărie Salamander PVC și aluminiu Alumil în București, cu **21 de ani de experiență** și **49 recenzii Google cu rating 5,0/5**.
+Neofort BIZ este furnizor specializat de tâmplărie Salamander PVC și aluminiu Alumil în București, cu **21 de ani de experiență**.
 
-Montăm exclusiv în sistem nZEB complet — nu oferim montaj fără precadre Blaugelb, pentru că nu respectăm standarde pe care nu le putem garanta.
+Recomandăm montajul nZEB complet, cu precadre Blaugelb Triotherm+, și îl ofertăm separat, ca să vezi exact ce plătești pentru fereastră și ce pentru montaj.
 
 **WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **L–V 10–18**
 
@@ -25030,398 +25754,808 @@ Montăm exclusiv în sistem nZEB complet — nu oferim montaj fără precadre Bl
 
 ### Cât de extreme sunt variațiile de temperatură din București pentru ferestre?
 
-Bucureștiul are una dintre cele mai provocatoare climate din Europa: −15°C iarna și +38°C vara, o diferență de 53°C. Ferestrele ineficiente pierd 25-35% din energia de încălzire iarna și lasă să intre 40-60% din căldura solară vara. Înlocuirea cu tâmplărie nZEB reduce consumul cu 35-55%.
+Bucureștiul are una dintre cele mai provocatoare climate din Europa: −15°C iarna și +38°C vara, o diferență de 53°C. Ferestrele ineficiente pierd 25-35% din energia de încălzire iarna și lasă să intre 40-60% din căldura solară vara. Înlocuirea lor reduce de regulă factura de încălzire cu 20-30%.
 
 ### Ce coeficient Uw trebuie să aibă o fereastră nZEB în București?
 
-Pentru construcții noi în București, standardul nZEB obligatoriu (din 2021) cere Uw ≤ 0,73 W/m²K. Ferestrele vechi pre-2005 au 3,0-4,5 (de înlocuit urgent), standardul minim de renovare e 1,1-1,4, iar casele pasive certificate ating ≤ 0,60 W/m²K.
+Mc 001-2022 stabilește ca valoare de referință Uw ≤ 1,11 W/m²K pentru ferestrele clădirilor rezidențiale noi și Uw ≤ 1,20 W/m²K la renovări. Ferestrele vechi dinainte de 2005 au 3,0-4,5 (de înlocuit urgent), iar casele pasive certificate cer Uw ≤ 0,80 W/m²K. GreenEvolution 76 și BluEvolution 92 ajung la 0,73, respectiv 0,70, cu geam triplu.
 
 ### Care e diferența între Uw și Uf la o fereastră?
 
-Uw măsoară cât căldură pierde fereastra completă (cu geam), iar Uf doar profilul gol. Uf e întotdeauna mai bun (mai mic) decât Uw. Mulți furnizori afișează Uf în loc de Uw în marketing — cere întotdeauna Uw al ferestrei complete, singurul număr care contează cu adevărat.
+Uw măsoară câtă căldură pierde fereastra completă (profil, geam și distanțier), Uf doar profilul, iar Ug doar geamul. Mulți furnizori afișează Ug sau Uf în loc de Uw în marketing; Ug e aproape întotdeauna mai mic decât Uw, așa că fereastra pare mai bună. Cere întotdeauna Uw al ferestrei complete, singurul număr care contează cu adevărat.
 
 ### Cât reduce consumul energetic înlocuirea ferestrelor vechi cu nZEB?
 
-Un studiu INCERC arată că înlocuirea ferestrelor vechi cu tâmplărie nZEB reduce consumul energetic al unui apartament mediu din București cu 35-55%. Ferestrele ineficiente pierd 25-35% din energia de încălzire iarna și lasă să intre 40-60% din căldura solară vara.
+Într-un apartament din București, înlocuirea ferestrelor vechi reduce de regulă factura de încălzire cu 20-30%, mai mult acolo unde ferestrele vechi aveau curenți de aer. Ferestrele ineficiente pierd 25-35% din energia de încălzire iarna și lasă să intre 40-60% din căldura solară vara.
+
+### Merită geamul triplu pentru o fereastră din București?
+
+Geamul triplu Low-E (Ug 0,5-0,7) merită la case noi, la ultimul etaj, la parter și pe fațadele de nord. Pentru un apartament la etajele 2-6 orientat spre sud, est sau vest, geamul dublu Low-E (Ug 1,0-1,1) e de regulă suficient. Diferența de cost se recuperează din încălzire abia în peste 10 ani, așa că triplul se alege mai ales pentru confort și lipsa condensului.
 
 
 ---
 
-Neofort BIZ furnizează tâmplărie certificată nZEB și montaj în trei planuri de etanșare, în București și Ilfov. [Spune-ne ce urmărești](/ro/contact) și primești ofertă în 48 de ore. Vezi [sistemele nZEB complete](/ro/sisteme-nzeb) pe care le oferim. Pagini utile: [ghidul complet al sistemelor nZEB](/ro/sisteme-nzeb/ghid-complet-nzeb) și [profilul Salamander greenEvolution 76 AD FLEX](/ro/produse/profil-pvc-greenevolution-76-ad-flex).
-`,
+Neofort BIZ furnizează tâmplărie pentru clădiri nZEB și montaj în trei planuri de etanșare, în București și Ilfov. [Spune-ne ce urmărești](/ro/contact) și primești ofertă în 48 de ore. Vezi [sistemele nZEB complete](/ro/sisteme-nzeb) pe care le oferim. Pagini utile: [ghidul complet al sistemelor nZEB](/ro/sisteme-nzeb/ghid-complet-nzeb) și [profilul Salamander greenEvolution 76 AD FLEX](/ro/produse/profil-pvc-greenevolution-76-ad-flex).`,
 
-      en: `## Why does window choice matter so much in Bucharest?
+      en: `## Why does the choice of windows matter so much in Bucharest?
 
-Bucharest has one of Europe's most demanding climates: **−15°C in winter** and **+38°C in summer** — a 53°C annual swing. Inefficient windows lose 25–35% of heating energy in winter and allow 40–60% of solar heat in summer. Replacing old windows with [nZEB](/en/nzeb-systems) joinery reduces energy consumption in an average Bucharest apartment by **35–55%**.
+Bucharest has one of the most demanding climates for windows in Europe: **−15°C in winter** and **+38°C in summer** — a 53°C swing over the year. Inefficient windows lose 25–35% of heating energy in winter and let in 40–60% of solar heat in summer.
+
+Replacing old windows with joinery suited to [nZEB](/en/nzeb-systems) buildings typically cuts the heating bill of a Bucharest apartment by **20–30%**, and more where the old windows had draughts.
 
 ---
 
-## Step 1: The Uw coefficient — the only number that truly matters
+## Step 1: The Uw coefficient — the only number that really matters
+
+**Uw** (watts per square metre kelvin) measures how much heat the complete window loses. The lower it is, the better the window.
 
 | Standard | Uw | Context |
 |---|---|---|
 | Old windows (pre-2005) | 3.0–4.5 W/m²K | Replace urgently |
-| Current minimum | 1.1–1.4 W/m²K | Budget renovations |
-| **nZEB mandatory (2021+)** | **≤ 0.73 W/m²K** | **New buildings Bucharest** |
-| Passive House | ≤ 0.60 W/m²K | Certified passive houses |
+| Renovations — Mc 001-2022 reference value | ≤ 1.20 W/m²K | Replacing windows in existing buildings |
+| **New residential buildings — Mc 001-2022 reference value** | **≤ 1.11 W/m²K** | **New construction (nZEB)** |
+| Passive House (PHI criterion, cool-temperate climate) | ≤ 0.80 W/m²K | Certified passive houses |
 
-> **Marketing warning:** many suppliers show **Uf** (empty profile coefficient) instead of **Uw** (complete window with glass). Uf is always better than Uw. Always ask for Uw.
+GreenEvolution 76 reaches Uw from 0.73 W/m²K and BluEvolution 92 Uw from 0.70 W/m²K, both with triple Low-E glazing — well below the reference values.
 
----
-
-## Step 2: nZEB profiles available from Neofort BIZ
-
-**Salamander [BluEvolution 92](/en/pvc-windows):** 6 chambers, 92mm depth, Uw = 0.70 W/m²K (double Low-E), 0.55 W/m²K (triple Low-E). nZEB ✅ Passive House ✅
-
-**Salamander GreenEvolution 76:** 5 chambers, 76mm depth, Uw = 0.73 W/m²K (double Low-E). nZEB ✅
-
-**When to choose BluEvolution 92 vs GreenEvolution 76?**
-- Block apartment renovation, balanced budget → GreenEvolution 76
-- New house, penthouse, top/ground floor → BluEvolution 92
-- Export, mountain areas, extreme conditions → BluEvolution 92 + triple Low-E
+> **Beware of marketing:** many suppliers show **Ug** (the glass only) or **Uf** (the profile only) instead of **Uw** (the complete window). Ug is almost always lower than Uw, so the window looks better than it is. Ask for the Uw of the complete window.
 
 ---
 
-## Step 3: Why the mounting system matters more than the profile
+## Step 2: nZEB in Bucharest — what it means in practice
 
-A poorly installed BluEvolution 92 performs worse than a correctly installed GreenEvolution 76. The **complete nZEB mounting system** from Neofort BIZ includes:
+Since **2021**, all new buildings permitted in Romania must meet the **nZEB (Nearly Zero Energy Building)** standard. The standard concerns the energy performance of the whole building; the windows must at least meet the Mc 001-2022 reference value, Uw ≤ 1.11 W/m²K for new residential buildings.
 
-- **Blaugelb Triotherm+ precasings** — thermal break from building structure, eliminates 30–40% thermal bridge at junction
-- **Precompressed butyl tape** (exterior) — seals against rain/wind infiltration
-- **Closed-cell PU foam** — moisture-resistant for 30+ years
-- **Vapour barrier tape** (interior) — prevents mould at wall junction
-- **Warm Edge spacer** — eliminates marginal condensation, reduces Uw by 0.1–0.2 W/m²K
+**Profiles suited to nZEB buildings, available at Neofort BIZ:**
+
+### Salamander BluEvolution 92
+- 6 air chambers, 92 mm depth
+- 3 perimeter sealing gaskets
+- Uw from **0.70 W/m²K**, with triple Low-E glazing
+- The bluEvolution system holds Passivhaus (PHI) certification ✅
+
+### Salamander GreenEvolution 76
+- 5 air chambers, 76 mm depth
+- 2 or 3 sealing gaskets, depending on the version (AD or MD)
+- Uw from **0.73 W/m²K**, with triple Low-E glazing
+- Below the reference value for new houses ✅
+
+**When to choose BluEvolution 92 or GreenEvolution 76?**
+- **Apartment-block renovation, balanced budget:** GreenEvolution 76 — enough for the reference values, lower cost
+- **New house, penthouse, top floor:** [BluEvolution 92](/en/pvc-windows) — maximum performance, longer service life
+- **Export, mountain areas, extreme conditions:** BluEvolution 92 with triple glazing — the only right choice
 
 ---
 
-## Step 4: Double vs. triple Low-E glass
+## Step 3: What matters more than the profile — the installation system
 
-**Double Low-E (4+16+4 Ar):** Ug = 1.0 W/m²K — apartment floors 2–6, balanced budget.
+**The secret few suppliers explain:** a badly installed BluEvolution 92 window performs worse than a correctly installed GreenEvolution 76.
 
-**Triple Low-E (4+12+4+12+4 Ar/Kr):** Ug = 0.5–0.6 W/m²K — new houses, top/ground floor, north-facing. Payback: 4–7 years.
+The complete nZEB installation system used by Neofort BIZ includes:
+
+### Blaugelb Triotherm+ pre-frames
+The most important element left out of cheap quotes. The thermally broken plastic pre-frame separates the window from the concrete or AAC structure. Without a pre-frame, the junction becomes a thermal bridge that cancels **30–40% of the profile's performance**.
+
+### Butyl tape (exterior)
+Seals the frame-to-sill junction against rain and wind. Without it, water ingress degrades the perimeter insulation within 2–3 years.
+
+### Closed-cell polyurethane foam
+Fills the gap between frame and structure. Open-cell foam (the cheap kind) absorbs moisture and degrades. Closed-cell foam lasts 30+ years.
+
+### Vapour barrier tape (interior)
+Prevents condensation at the interior window-to-wall junction. Without it, mould appears within a few years.
+
+### Warm Edge spacers (thermal glass spacer)
+The classic aluminium spacer creates a visible thermal bridge — the strip where condensation forms on the glass in winter. A composite Warm Edge spacer lowers Uw by **about 0.1 W/m²K** and eliminates edge condensation.
 
 ---
 
-## Indicative prices nZEB windows Bucharest 2026
+## Step 4: Double vs. triple Low-E glazing — when is triple worth it?
 
-> ⚠️ **Important note:** Prices are indicative as of March 2026. Always request an updated quote.
+### Double Low-E glazing (4+16+4 Ar)
+- Ug = **1.0–1.1 W/m²K**
+- Suitable for: renovations, apartments on floors 2–6, balanced budgets
+- Cost over standard glass: +15–25%
 
-| System | Config | Estimated fully installed price |
+### Triple Low-E glazing (4+12+4+12+4 Ar/Kr)
+- Ug = **0.5–0.7 W/m²K**
+- Suitable for: new houses, top floor, ground floor, north side of the building
+- Cost over double glazing: +35–50%
+- Payback from heating alone: usually **more than 10 years** — triple is chosen mainly for comfort and no condensation
+
+**Neofort BIZ recommendation for Bucharest:**
+- Apartment on floors 2–6, facing south/east/west → double Low-E glazing (sufficient)
+- New house, penthouse, ground floor, north → triple Low-E glazing (recommended)
+
+---
+
+## Step 5: How to compare quotes — 5 questions you must ask
+
+Before you sign any contract with a window supplier in Bucharest, ask for written answers to:
+
+1. **The Uw of the complete window** (not the Ug of the glass or the Uf of the profile)
+2. **What the installation includes** — Blaugelb pre-frames, butyl tape, closed-cell foam, vapour barrier tape?
+3. **Which glass spacer** — classic aluminium or Warm Edge?
+4. **Separate warranties** on profile, glass and installation — how many years?
+5. **CE declaration of performance** for the profile and the glass?
+
+A serious supplier answers all 5 straight away. If they dodge, don't know or refuse to put it in writing, that is a warning sign.
+
+---
+
+## Indicative prices for nZEB windows in Bucharest 2026
+
+> ⚠️ **Important note:** Prices are indicative and reflect conditions in March 2026. Material prices and the EUR/RON exchange rate may change. Ask for an updated quote.
+
+| System | Configuration | Estimated price |
 |---|---|---|
-| GreenEvolution 76 + double Low-E | 100×120 cm | 320–450 EUR |
-| BluEvolution 92 + double Low-E | 100×120 cm | 380–520 EUR |
-| BluEvolution 92 + triple Low-E | 100×120 cm | 480–650 EUR |
-| **Per m² fully installed nZEB** | — | **280–420 EUR/m²** |
+| GreenEvolution 76 + double Low-E glazing | 100×120 cm window | 320–430 EUR |
+| BluEvolution 92 + double Low-E glazing | 100×120 cm window | 420–560 EUR |
+| BluEvolution 92 + triple Low-E glazing | 100×120 cm window | 510–680 EUR |
+| **nZEB installation with Blaugelb Triotherm+ pre-frames** | 4.4 m perimeter | **+110–220 EUR** |
 
-**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
+*Prices include: profile, glass, Roto/Siegenia hardware and standard installation. Full nZEB installation, with Blaugelb pre-frames and all sealing tapes, adds 25–50 EUR per linear metre of perimeter. Prices exclude VAT; 21% VAT is added at invoicing.*
+
+---
+
+## Why Neofort BIZ for your window in Bucharest or Ilfov?
+
+Neofort BIZ is a specialist supplier of Salamander PVC and Alumil aluminium joinery in Bucharest, with **21 years of experience**.
+
+We recommend full nZEB installation with Blaugelb Triotherm+ pre-frames, and we quote it separately so you can see exactly what you pay for the window and what for the installation.
+
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **Mon–Fri 10–18**
 
 ## Frequently Asked Questions
 
 ### How extreme are Bucharest's temperature swings for windows?
 
-Bucharest has one of Europe's most challenging climates: −15°C in winter and +38°C in summer, a 53°C difference. Inefficient windows lose 25-35% of heating energy in winter and let in 40-60% of solar heat in summer. Replacing with nZEB joinery cuts consumption by 35-55%.
+Bucharest has one of the most demanding climates in Europe: −15°C in winter and +38°C in summer, a 53°C difference. Inefficient windows lose 25-35% of heating energy in winter and let in 40-60% of solar heat in summer. Replacing them typically cuts the heating bill by 20-30%.
 
-### What Uw value must an nZEB window have in Bucharest?
+### What Uw coefficient should an nZEB window in Bucharest have?
 
-For new builds in Bucharest, the mandatory nZEB standard (since 2021) requires Uw ≤ 0.73 W/m²K. Pre-2005 old windows have 3.0-4.5 (replace urgently), the minimum renovation standard is 1.1-1.4, and certified passive houses reach ≤ 0.60 W/m²K.
+Mc 001-2022 sets a reference value of Uw ≤ 1.11 W/m²K for windows in new residential buildings and Uw ≤ 1.20 W/m²K for renovations. Old windows from before 2005 have 3.0-4.5 (replace urgently), while certified passive houses require Uw ≤ 0.80 W/m²K. GreenEvolution 76 and BluEvolution 92 reach 0.73 and 0.70 respectively with triple glazing.
 
-### What is the difference between Uw and Uf on a window?
+### What is the difference between Uw and Uf for a window?
 
-Uw measures how much heat the complete window (with glass) loses, while Uf is just the bare profile. Uf is always better (lower) than Uw. Many suppliers display Uf instead of Uw in marketing — always ask for the Uw of the complete window, the only number that really matters.
+Uw measures how much heat the complete window loses (profile, glass and spacer), Uf the profile only and Ug the glass only. Many suppliers show Ug or Uf instead of Uw in their marketing; Ug is almost always lower than Uw, so the window looks better. Always ask for the Uw of the complete window, the only number that really matters.
 
-### How much does replacing old windows with nZEB cut energy use?
+### How much does replacing old windows with nZEB windows cut energy use?
 
-An INCERC study shows that replacing old windows with nZEB joinery cuts the energy consumption of an average Bucharest apartment by 35-55%. Inefficient windows lose 25-35% of heating energy in winter and let in 40-60% of solar heat in summer.
+In a Bucharest apartment, replacing old windows typically cuts the heating bill by 20-30%, and more where the old windows had draughts. Inefficient windows lose 25-35% of heating energy in winter and let in 40-60% of solar heat in summer.
+
+### Is triple glazing worth it for a window in Bucharest?
+
+Triple Low-E glazing (Ug 0.5-0.7) is worth it in new houses, on the top floor, on the ground floor and on north-facing façades. For an apartment on floors 2-6 facing south, east or west, double Low-E glazing (Ug 1.0-1.1) is usually enough. The extra cost takes more than 10 years to recover from heating alone, so triple is chosen mainly for comfort and no condensation.
 
 
 ---
 
-Neofort BIZ supplies nZEB-certified joinery and three-plane sealed installation in Bucharest and Ilfov. [Tell us what you are aiming for](/en/contact) and you will receive a quote within 48 hours. See the [complete nZEB systems](/en/nzeb-systems) we offer. Useful pages: [the complete nZEB systems guide](/en/nzeb-systems/complete-guide) and [the Salamander greenEvolution 76 AD FLEX profile](/en/products/greenevolution-76-ad-flex-pvc-profile).
-`,
+Neofort BIZ supplies joinery for nZEB buildings with installation sealed on three planes, in Bucharest and Ilfov. [Tell us what you are aiming for](/en/contact) and you will receive a quote within 48 hours. See the [complete nZEB systems](/en/nzeb-systems) we offer. Useful pages: [the complete guide to nZEB systems](/en/nzeb-systems/complete-guide) and [the Salamander greenEvolution 76 AD FLEX profile](/en/products/greenevolution-76-ad-flex-pvc-profile).`,
 
       de: `## Warum ist die Fensterwahl in Bukarest so wichtig?
 
-Bukarest hat eines der anspruchsvollsten Klimata Europas: **−15°C im Winter** und **+38°C im Sommer** — eine jährliche Schwankung von 53°C. Der Austausch alter Fenster durch nZEB-Tischlereiarbeiten reduziert den Energieverbrauch einer durchschnittlichen Bukarester Wohnung um **35–55%**.
+Bukarest hat eines der anspruchsvollsten Klimata für Fenster in Europa: **−15 °C im Winter** und **+38 °C im Sommer** — ein Unterschied von 53 °C im Jahresverlauf. Ineffiziente Fenster verlieren im Winter 25–35 % der Heizenergie und lassen im Sommer 40–60 % der Sonnenwärme herein.
+
+Der Austausch alter Fenster gegen Fenster, die sich für [nZEB](/de/nzeb-systeme)-Gebäude eignen, senkt die Heizkosten einer Bukarester Wohnung in der Regel um **20–30 %**, bei undichten Altfenstern auch mehr.
 
 ---
 
-## Schritt 1: Der Uw-Wert — die einzig wichtige Zahl
+## Schritt 1: Der Uw-Wert — die einzige Zahl, die wirklich zählt
+
+**Uw** (Watt pro Quadratmeter und Kelvin) misst, wie viel Wärme das komplette Fenster verliert. Je niedriger der Wert, desto besser das Fenster.
 
 | Standard | Uw | Kontext |
 |---|---|---|
 | Alte Fenster (vor 2005) | 3,0–4,5 W/m²K | Dringend ersetzen |
-| Aktuelles Minimum | 1,1–1,4 W/m²K | Budget-Renovierung |
-| **nZEB Pflicht (ab 2021)** | **≤ 0,73 W/m²K** | **Neubauten Bukarest** |
-| Passivhaus | ≤ 0,60 W/m²K | Zertifizierte Passivhäuser |
+| Sanierung — Referenzwert nach Mc 001-2022 | ≤ 1,20 W/m²K | Fenstertausch in Bestandsgebäuden |
+| **Neue Wohngebäude — Referenzwert nach Mc 001-2022** | **≤ 1,11 W/m²K** | **Neubau (nZEB)** |
+| Passivhaus (PHI-Kriterium, kühl-gemäßigtes Klima) | ≤ 0,80 W/m²K | Zertifizierte Passivhäuser |
+
+GreenEvolution 76 erreicht Uw ab 0,73 W/m²K und BluEvolution 92 Uw ab 0,70 W/m²K, beide mit Dreifachverglasung Low-E — weit unter den Referenzwerten.
+
+> **Vorsicht vor Werbeangaben:** Viele Anbieter nennen **Ug** (nur das Glas) oder **Uf** (nur das Profil) statt **Uw** (das komplette Fenster). Ug ist fast immer niedriger als Uw, das Fenster wirkt also besser, als es ist. Verlangen Sie den Uw-Wert des kompletten Fensters.
 
 ---
 
-## Schritt 2: nZEB-Profile bei Neofort BIZ
+## Schritt 2: nZEB in Bukarest — was das praktisch bedeutet
 
-**Salamander [BluEvolution 92](/de/kunststofffenster-pvc):** 6 Kammern, 92mm, Uw = 0,70 W/m²K (Zweifach-Low-E). nZEB ✅ [Passivhaus](/de/nzeb-systeme) ✅
+Seit **2021** müssen alle in Rumänien genehmigten Neubauten den **nZEB-Standard (Nearly Zero Energy Building)** erfüllen. Der Standard betrifft die Energieeffizienz des gesamten Gebäudes; die Fenster müssen mindestens den Referenzwert von Mc 001-2022 einhalten, Uw ≤ 1,11 W/m²K für neue Wohngebäude.
 
-**Salamander GreenEvolution 76:** 5 Kammern, 76mm, Uw = 0,73 W/m²K. nZEB ✅
+**Für nZEB-Gebäude geeignete Profile bei Neofort BIZ:**
+
+### Salamander BluEvolution 92
+- 6 Luftkammern, Bautiefe 92 mm
+- 3 umlaufende Dichtungen
+- Uw ab **0,70 W/m²K**, mit Dreifachverglasung Low-E
+- Das System bluEvolution ist passivhauszertifiziert (PHI) ✅
+
+### Salamander GreenEvolution 76
+- 5 Luftkammern, Bautiefe 76 mm
+- 2 oder 3 Dichtungen, je nach Variante (AD oder MD)
+- Uw ab **0,73 W/m²K**, mit Dreifachverglasung Low-E
+- Unter dem Referenzwert für Neubauten ✅
+
+**Wann BluEvolution 92 und wann GreenEvolution 76?**
+- **Sanierung einer Wohnung im Block, ausgewogenes Budget:** GreenEvolution 76 — reicht für die Referenzwerte, geringere Kosten
+- **Neues Haus, Penthouse, oberstes Geschoss:** [BluEvolution 92](/de/kunststofffenster-pvc) — maximale Leistung, längere Lebensdauer
+- **Export, Bergregionen, extreme Bedingungen:** BluEvolution 92 mit Dreifachverglasung — die einzig richtige Wahl
 
 ---
 
-## Schritt 3: Warum das Montagesystem wichtiger als das Profil ist
+## Schritt 3: Was mehr zählt als das Profil — das Montagesystem
 
-- **Blaugelb Triotherm+ Vorfenster** — eliminiert 30–40% der Wärmebrücke
-- **Vorkomprimiertes Butyl-Dichtband** — dichtet gegen Regen/Wind
-- **Geschlossenzelliger PU-Schaum** — feuchtigkeitsbeständig 30+ Jahre
-- **Warm Edge Abstandhalter** — eliminiert Randkondensation, reduziert Uw um 0,1–0,2 W/m²K
+**Das Geheimnis, das nur wenige Anbieter erklären:** Ein falsch montiertes BluEvolution-92-Fenster leistet weniger als ein korrekt montiertes GreenEvolution 76.
+
+Das komplette nZEB-Montagesystem von Neofort BIZ umfasst:
+
+### Blaugelb-Triotherm+-Profile (Vorwandmontage)
+Das wichtigste Element, das in billigen Angeboten fehlt. Das thermisch getrennte Kunststoffprofil trennt das Fenster vom Beton- oder Porenbetonmauerwerk. Ohne dieses Profil wird der Anschluss zur Wärmebrücke, die **30–40 % der Profilleistung** zunichtemacht.
+
+### Butylband (außen)
+Dichtet den Anschluss zwischen Rahmen und Fensterbank gegen Regen und Wind ab. Ohne Butylband zerstört eindringendes Wasser die umlaufende Dämmung innerhalb von 2–3 Jahren.
+
+### Geschlossenzelliger PU-Schaum
+Füllt den Raum zwischen Rahmen und Baukörper. Offenzelliger Schaum (der billige) nimmt Feuchtigkeit auf und zersetzt sich. Geschlossenzelliger Schaum hält mehr als 30 Jahre.
+
+### Dampfsperrband (innen)
+Verhindert Kondenswasser am inneren Anschluss zwischen Fenster und Wand. Ohne Dampfsperre entsteht innerhalb weniger Jahre Schimmel.
+
+### Warme Kante (thermisch verbesserter Abstandhalter)
+Der klassische Aluminium-Abstandhalter bildet eine sichtbare Wärmebrücke — den Streifen, an dem sich im Winter Kondenswasser auf dem Glas bildet. Ein Abstandhalter mit warmer Kante aus Verbundmaterial senkt den Uw-Wert um **etwa 0,1 W/m²K** und verhindert Kondenswasser am Glasrand.
 
 ---
 
-## Richtpreise nZEB-Fenster Bukarest 2026
+## Schritt 4: Zweifach- oder Dreifachverglasung Low-E — wann lohnt sich dreifach?
 
-> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+### Zweifachverglasung Low-E (4+16+4 Ar)
+- Ug = **1,0–1,1 W/m²K**
+- Geeignet für: Sanierungen, Wohnungen im 2. bis 6. Stock, ausgewogenes Budget
+- Mehrkosten gegenüber Standardglas: +15–25 %
 
-| System | Konfiguration | Geschätzter Montagepreis |
+### Dreifachverglasung Low-E (4+12+4+12+4 Ar/Kr)
+- Ug = **0,5–0,7 W/m²K**
+- Geeignet für: Neubauten, oberstes Geschoss, Erdgeschoss, Nordseite des Gebäudes
+- Mehrkosten gegenüber Zweifachverglasung: +35–50 %
+- Amortisation allein über die Heizkosten: meist **über 10 Jahre** — Dreifachglas wählt man vor allem wegen Komfort und Kondensatfreiheit
+
+**Empfehlung von Neofort BIZ für Bukarest:**
+- Wohnung im 2. bis 6. Stock, Ausrichtung Süd/Ost/West → Zweifachverglasung Low-E (ausreichend)
+- Neues Haus, Penthouse, Erdgeschoss, Nordseite → Dreifachverglasung Low-E (empfohlen)
+
+---
+
+## Schritt 5: Angebote vergleichen — 5 Pflichtfragen
+
+Bevor Sie einen Vertrag mit einem Fensteranbieter in Bukarest unterschreiben, verlangen Sie schriftliche Antworten auf:
+
+1. **Den Uw-Wert des kompletten Fensters** (nicht den Ug-Wert des Glases oder den Uf-Wert des Profils)
+2. **Was die Montage umfasst** — Blaugelb-Profile, Butylband, geschlossenzelligen Schaum, Dampfsperrband?
+3. **Welchen Abstandhalter** — klassisches Aluminium oder warme Kante?
+4. **Getrennte Garantien** auf Profil, Glas und Montage — wie viele Jahre?
+5. **CE-Leistungserklärung** für Profil und Glas?
+
+Ein seriöser Anbieter beantwortet alle 5 Fragen sofort. Weicht er aus, weiß es nicht oder verweigert die schriftliche Antwort, ist das ein Warnsignal.
+
+---
+
+## Richtpreise für nZEB-Fenster in Bukarest 2026
+
+> ⚠️ **Wichtiger Hinweis:** Die Preise sind Richtpreise und spiegeln die Lage vom März 2026 wider. Materialpreise und der EUR/RON-Kurs können sich ändern. Fordern Sie ein aktuelles Angebot an.
+
+| System | Ausführung | Geschätzter Preis |
 |---|---|---|
-| GreenEvolution 76 + Zweifach-Low-E | 100×120 cm | 320–450 EUR |
-| BluEvolution 92 + Zweifach-Low-E | 100×120 cm | 380–520 EUR |
-| BluEvolution 92 + Dreifach-Low-E | 100×120 cm | 480–650 EUR |
-| **Pro m² nZEB montiert** | — | **280–420 EUR/m²** |
+| GreenEvolution 76 + Zweifachverglasung Low-E | Fenster 100×120 cm | 320–430 EUR |
+| BluEvolution 92 + Zweifachverglasung Low-E | Fenster 100×120 cm | 420–560 EUR |
+| BluEvolution 92 + Dreifachverglasung Low-E | Fenster 100×120 cm | 510–680 EUR |
+| **nZEB-Montage mit Blaugelb-Triotherm+-Profilen** | Umfang 4,4 m | **+110–220 EUR** |
 
-**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
+*Die Preise enthalten: Profil, Glas, Beschläge Roto/Siegenia und Standardmontage. Die komplette nZEB-Montage mit Blaugelb-Profilen und allen Dichtbändern kostet 25–50 EUR pro laufendem Meter Umfang zusätzlich. Alle Preise verstehen sich ohne MwSt.; die rumänische MwSt. von 21 % kommt bei der Rechnungsstellung hinzu.*
+
+---
+
+## Warum Neofort BIZ für Ihr Fenster in Bukarest oder Ilfov?
+
+Neofort BIZ ist ein spezialisierter Anbieter von Salamander-Kunststofffenstern und Alumil-Aluminiumsystemen in Bukarest, mit **21 Jahren Erfahrung**.
+
+Wir empfehlen die komplette nZEB-Montage mit Blaugelb-Triotherm+-Profilen und bieten sie separat an, damit Sie genau sehen, was Sie für das Fenster und was für die Montage bezahlen.
+
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **Mo–Fr 10–18 Uhr**
 
 ## Häufig gestellte Fragen
 
 ### Wie extrem sind die Temperaturschwankungen in Bukarest für Fenster?
 
-Bukarest hat eines der herausforderndsten Klimata Europas: −15°C im Winter und +38°C im Sommer, ein Unterschied von 53°C. Ineffiziente Fenster verlieren 25-35% der Heizenergie im Winter und lassen 40-60% der Sonnenwärme im Sommer herein. Der Austausch gegen nZEB-Fenster senkt den Verbrauch um 35-55%.
+Bukarest hat eines der anspruchsvollsten Klimata Europas: −15 °C im Winter und +38 °C im Sommer, ein Unterschied von 53 °C. Ineffiziente Fenster verlieren im Winter 25-35 % der Heizenergie und lassen im Sommer 40-60 % der Sonnenwärme herein. Ihr Austausch senkt die Heizkosten in der Regel um 20-30 %.
 
 ### Welchen Uw-Wert muss ein nZEB-Fenster in Bukarest haben?
 
-Für Neubauten in Bukarest verlangt der verpflichtende nZEB-Standard (seit 2021) Uw ≤ 0,73 W/m²K. Alte Fenster vor 2005 haben 3,0-4,5 (dringend austauschen), der Mindest-Renovierungsstandard ist 1,1-1,4, und zertifizierte Passivhäuser erreichen ≤ 0,60 W/m²K.
+Mc 001-2022 legt als Referenzwert Uw ≤ 1,11 W/m²K für Fenster in neuen Wohngebäuden und Uw ≤ 1,20 W/m²K bei Sanierungen fest. Alte Fenster von vor 2005 haben 3,0-4,5 (dringend ersetzen), zertifizierte Passivhäuser verlangen Uw ≤ 0,80 W/m²K. GreenEvolution 76 und BluEvolution 92 erreichen mit Dreifachverglasung 0,73 bzw. 0,70.
 
 ### Was ist der Unterschied zwischen Uw und Uf bei einem Fenster?
 
-Uw misst, wie viel Wärme das komplette Fenster (mit Glas) verliert, während Uf nur das nackte Profil ist. Uf ist immer besser (niedriger) als Uw. Viele Anbieter zeigen Uf statt Uw im Marketing — fragen Sie immer nach dem Uw des kompletten Fensters, der einzigen Zahl, die wirklich zählt.
+Uw misst, wie viel Wärme das komplette Fenster verliert (Profil, Glas und Abstandhalter), Uf nur das Profil und Ug nur das Glas. Viele Anbieter nennen in der Werbung Ug oder Uf statt Uw; Ug ist fast immer niedriger als Uw, das Fenster wirkt also besser. Verlangen Sie immer den Uw-Wert des kompletten Fensters, die einzige Zahl, die wirklich zählt.
 
-### Wie stark senkt der Austausch alter Fenster gegen nZEB den Energieverbrauch?
+### Wie stark senkt der Austausch alter Fenster gegen nZEB-Fenster den Energieverbrauch?
 
-Eine INCERC-Studie zeigt, dass der Austausch alter Fenster gegen nZEB-Fenster den Energieverbrauch einer durchschnittlichen Bukarester Wohnung um 35-55% senkt. Ineffiziente Fenster verlieren 25-35% der Heizenergie im Winter und lassen 40-60% der Sonnenwärme im Sommer herein.
+In einer Bukarester Wohnung senkt der Austausch alter Fenster die Heizkosten in der Regel um 20-30 %, bei undichten Altfenstern auch mehr. Ineffiziente Fenster verlieren im Winter 25-35 % der Heizenergie und lassen im Sommer 40-60 % der Sonnenwärme herein.
 
+### Lohnt sich Dreifachverglasung für ein Fenster in Bukarest?
 
----
+Dreifachverglasung Low-E (Ug 0,5-0,7) lohnt sich bei Neubauten, im obersten Geschoss, im Erdgeschoss und an Nordfassaden. Für eine Wohnung im 2. bis 6. Stock mit Ausrichtung nach Süden, Osten oder Westen reicht meist Zweifachverglasung Low-E (Ug 1,0-1,1). Die Mehrkosten amortisieren sich allein über die Heizkosten erst nach über 10 Jahren, Dreifachglas wählt man also vor allem wegen Komfort und Kondensatfreiheit.
 
-Neofort BIZ liefert nZEB-zertifizierte Fenster und Montage in drei Dichtebenen in Bukarest und Ilfov. [Sagen Sie uns, worauf es Ihnen ankommt](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie die [kompletten nZEB-Systeme](/de/nzeb-systeme). Nützliche Seiten: [Ratgeber nZEB-Systeme](/de/nzeb-systeme/kompletter-ratgeber) und [Salamander-Profil greenEvolution 76 AD FLEX](/de/produkte/greenevolution-76-ad-flex-pvc-profil).
-`,
-
-      fr: `## Pourquoi le choix des fenêtres est-il si important à Bucarest ?
-
-Bucarest connaît l'un des climats les plus exigeants d'Europe : **−15°C en hiver** et **+38°C en été** — une variation annuelle de 53°C. Remplacer les anciennes fenêtres par une menuiserie [nZEB](/fr/systemes-nzeb) réduit la consommation énergétique d'un appartement moyen à Bucarest de **35 à 55%**.
 
 ---
 
-## Étape 1 : Le coefficient Uw — le seul chiffre qui compte vraiment
+Neofort BIZ liefert Fenster für nZEB-Gebäude mit Montage in drei Dichtebenen, in Bukarest und Ilfov. [Sagen Sie uns, was Sie vorhaben](/de/kontakt), und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie die [kompletten nZEB-Systeme](/de/nzeb-systeme), die wir anbieten. Nützliche Seiten: [der vollständige Ratgeber zu nZEB-Systemen](/de/nzeb-systeme/kompletter-ratgeber) und [das Salamander-Profil greenEvolution 76 AD FLEX](/de/produkte/greenevolution-76-ad-flex-pvc-profil).`,
+
+      fr: `## Pourquoi le choix des fenêtres compte-t-il autant à Bucarest ?
+
+Bucarest a l’un des climats les plus exigeants d’Europe pour les menuiseries : **−15 °C en hiver** et **+38 °C en été**, soit un écart de 53 °C sur l’année. Des fenêtres peu performantes perdent 25 à 35 % de l’énergie de chauffage en hiver et laissent entrer 40 à 60 % de la chaleur solaire en été.
+
+Remplacer des fenêtres anciennes par des menuiseries adaptées aux bâtiments [nZEB](/fr/systemes-nzeb) réduit généralement la facture de chauffage d’un appartement à Bucarest de **20 à 30 %**, davantage si les anciennes fenêtres laissaient passer l’air.
+
+---
+
+## Étape 1 : le coefficient Uw — le seul chiffre qui compte vraiment
+
+**Uw** (watt par mètre carré kelvin) mesure la quantité de chaleur perdue par la fenêtre complète. Plus il est bas, meilleure est la fenêtre.
 
 | Norme | Uw | Contexte |
 |---|---|---|
-| Anciennes fenêtres (avant 2005) | 3,0–4,5 W/m²K | À remplacer d'urgence |
-| Minimum actuel | 1,1–1,4 W/m²K | Rénovations budget |
-| **nZEB obligatoire (2021+)** | **≤ 0,73 W/m²K** | **Constructions neuves Bucarest** |
-| Maison passive | ≤ 0,60 W/m²K | Maisons passives certifiées |
+| Fenêtres anciennes (avant 2005) | 3,0–4,5 W/m²K | À remplacer d’urgence |
+| Rénovation — valeur de référence Mc 001-2022 | ≤ 1,20 W/m²K | Remplacement des fenêtres dans l’existant |
+| **Bâtiments résidentiels neufs — valeur de référence Mc 001-2022** | **≤ 1,11 W/m²K** | **Constructions neuves (nZEB)** |
+| Maison passive (critère PHI, climat tempéré froid) | ≤ 0,80 W/m²K | Maisons passives certifiées |
+
+Le GreenEvolution 76 atteint un Uw à partir de 0,73 W/m²K et le BluEvolution 92 un Uw à partir de 0,70 W/m²K, tous deux avec triple vitrage Low-E, bien en dessous des valeurs de référence.
+
+> **Attention au marketing :** de nombreux fournisseurs affichent le **Ug** (vitrage seul) ou le **Uf** (profilé seul) au lieu du **Uw** (fenêtre complète). Le Ug est presque toujours inférieur au Uw, si bien que la fenêtre paraît meilleure qu’elle ne l’est. Demandez le Uw de la fenêtre complète.
 
 ---
 
-## Étape 2 : Profils nZEB disponibles chez Neofort BIZ
+## Étape 2 : le nZEB à Bucarest — ce que cela signifie concrètement
 
-**Salamander [BluEvolution 92](/fr/menuiserie-pvc) :** 6 chambres, 92mm, Uw = 0,70 W/m²K (double Low-E). nZEB ✅ Maison passive ✅
+Depuis **2021**, toutes les constructions neuves autorisées en Roumanie doivent respecter la norme **nZEB (Nearly Zero Energy Building)**. La norme porte sur la performance énergétique de l’ensemble du bâtiment ; les fenêtres doivent au moins respecter la valeur de référence de la Mc 001-2022, Uw ≤ 1,11 W/m²K pour les bâtiments résidentiels neufs.
 
-**Salamander GreenEvolution 76 :** 5 chambres, 76mm, Uw = 0,73 W/m²K. nZEB ✅
+**Profilés adaptés aux bâtiments nZEB, disponibles chez Neofort BIZ :**
+
+### Salamander BluEvolution 92
+- 6 chambres d’air, profondeur 92 mm
+- 3 joints d’étanchéité périphériques
+- Uw à partir de **0,70 W/m²K**, avec triple vitrage Low-E
+- Le système bluEvolution est certifié maison passive (PHI) ✅
+
+### Salamander GreenEvolution 76
+- 5 chambres d’air, profondeur 76 mm
+- 2 ou 3 joints d’étanchéité selon la version (AD ou MD)
+- Uw à partir de **0,73 W/m²K**, avec triple vitrage Low-E
+- Sous la valeur de référence pour les maisons neuves ✅
+
+**Quand choisir le BluEvolution 92 ou le GreenEvolution 76 ?**
+- **Rénovation d’un appartement en immeuble, budget équilibré :** GreenEvolution 76 — suffisant pour les valeurs de référence, coût moindre
+- **Maison neuve, penthouse, dernier étage :** [BluEvolution 92](/fr/menuiserie-pvc) — performance maximale, durée de vie plus longue
+- **Export, zones de montagne, conditions extrêmes :** BluEvolution 92 en triple vitrage — le seul bon choix
 
 ---
 
-## Étape 3 : Pourquoi le système de pose compte plus que le profil
+## Étape 3 : ce qui compte plus que le profilé — le système de pose
 
-- **Précadres Blaugelb Triotherm+** — élimine 30–40% du pont thermique à la jonction
-- **Ruban butyle précomprimé** — étanchéité contre pluie/vent
-- **Mousse PU à cellules fermées** — résistante à l'humidité 30+ ans
-- **Espaceur Warm Edge** — élimine la condensation marginale, réduit Uw de 0,1–0,2 W/m²K
+**Le secret que peu de fournisseurs expliquent :** une fenêtre BluEvolution 92 mal posée est moins performante qu’une GreenEvolution 76 bien posée.
+
+Le système complet de pose nZEB appliqué par Neofort BIZ comprend :
+
+### Précadres Blaugelb Triotherm+
+L’élément le plus important, absent des devis bon marché. Le précadre en plastique à rupture thermique sépare la fenêtre de la structure en béton ou en béton cellulaire. Sans précadre, la jonction devient un pont thermique qui annule **30 à 40 % des performances du profilé**.
+
+### Bande butyle (extérieur)
+Étanche la jonction dormant-appui contre la pluie et le vent. Sans elle, les infiltrations d’eau dégradent l’isolation périphérique en 2 à 3 ans.
+
+### Mousse polyuréthane à cellules fermées
+Remplit l’espace entre le dormant et la structure. La mousse à cellules ouvertes (la moins chère) absorbe l’humidité et se dégrade. La mousse à cellules fermées dure plus de 30 ans.
+
+### Bande pare-vapeur (intérieur)
+Empêche la condensation à la jonction intérieure entre menuiserie et mur. Sans elle, des moisissures apparaissent en quelques années.
+
+### Intercalaires Warm Edge (intercalaire isolant du vitrage)
+L’intercalaire classique en aluminium crée un pont thermique visible — la bande où la condensation se forme sur le vitrage en hiver. Un intercalaire Warm Edge en matériau composite abaisse le Uw d’**environ 0,1 W/m²K** et supprime la condensation en bord de vitrage.
 
 ---
 
-## Prix indicatifs fenêtres nZEB Bucarest 2026
+## Étape 4 : double ou triple vitrage Low-E — quand le triple vaut-il la peine ?
 
-> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+### Double vitrage Low-E (4+16+4 Ar)
+- Ug = **1,0–1,1 W/m²K**
+- Adapté aux : rénovations, appartements du 2e au 6e étage, budgets équilibrés
+- Surcoût par rapport au vitrage standard : +15 à 25 %
 
-| Système | Configuration | Prix posé estimé |
+### Triple vitrage Low-E (4+12+4+12+4 Ar/Kr)
+- Ug = **0,5–0,7 W/m²K**
+- Adapté aux : maisons neuves, dernier étage, rez-de-chaussée, façade nord du bâtiment
+- Surcoût par rapport au double vitrage : +35 à 50 %
+- Retour sur investissement par le seul chauffage : généralement **plus de 10 ans** — on choisit le triple surtout pour le confort et l’absence de condensation
+
+**Recommandation de Neofort BIZ pour Bucarest :**
+- Appartement du 2e au 6e étage, orienté sud/est/ouest → double vitrage Low-E (suffisant)
+- Maison neuve, penthouse, rez-de-chaussée, nord → triple vitrage Low-E (recommandé)
+
+---
+
+## Étape 5 : comment comparer les devis — 5 questions indispensables
+
+Avant de signer un contrat avec un fournisseur de fenêtres à Bucarest, demandez une réponse écrite sur :
+
+1. **Le Uw de la fenêtre complète** (et non le Ug du vitrage ou le Uf du profilé)
+2. **Ce que comprend la pose** — précadres Blaugelb, bande butyle, mousse à cellules fermées, bande pare-vapeur ?
+3. **Quel intercalaire** — aluminium classique ou Warm Edge ?
+4. **Des garanties distinctes** sur le profilé, le vitrage et la pose — combien d’années ?
+5. **La déclaration de performance CE** du profilé et du vitrage ?
+
+Un fournisseur sérieux répond tout de suite aux 5 questions. S’il les élude, ne sait pas ou refuse de répondre par écrit, c’est un signal d’alarme.
+
+---
+
+## Prix indicatifs des fenêtres nZEB à Bucarest 2026
+
+> ⚠️ **Remarque importante :** les prix sont indicatifs et reflètent les conditions de mars 2026. Les prix des matériaux et le taux de change EUR/RON peuvent évoluer. Demandez un devis actualisé.
+
+| Système | Configuration | Prix estimé |
 |---|---|---|
-| GreenEvolution 76 + double Low-E | 100×120 cm | 320–450 EUR |
-| BluEvolution 92 + double Low-E | 100×120 cm | 380–520 EUR |
-| BluEvolution 92 + triple Low-E | 100×120 cm | 480–650 EUR |
-| **Par m² nZEB posé complet** | — | **280–420 EUR/m²** |
+| GreenEvolution 76 + double vitrage Low-E | Fenêtre 100×120 cm | 320–430 EUR |
+| BluEvolution 92 + double vitrage Low-E | Fenêtre 100×120 cm | 420–560 EUR |
+| BluEvolution 92 + triple vitrage Low-E | Fenêtre 100×120 cm | 510–680 EUR |
+| **Pose nZEB avec précadres Blaugelb Triotherm+** | Périmètre 4,4 ml | **+110–220 EUR** |
 
-**WhatsApp :** +40 752 443 435 | **L–V 10–18**
+*Les prix comprennent : profilé, vitrage, quincaillerie Roto/Siegenia et pose standard. La pose nZEB complète, avec précadres Blaugelb et toutes les bandes d’étanchéité, ajoute 25 à 50 EUR par mètre linéaire de périmètre. Ils s’entendent hors TVA ; la TVA roumaine de 21 % s’ajoute à la facturation.*
+
+---
+
+## Pourquoi Neofort BIZ pour votre fenêtre à Bucarest ou dans l’Ilfov ?
+
+Neofort BIZ est un fournisseur spécialisé de menuiseries PVC Salamander et aluminium Alumil à Bucarest, avec **21 ans d’expérience**.
+
+Nous recommandons la pose nZEB complète avec précadres Blaugelb Triotherm+, et nous la chiffrons à part pour que vous voyiez exactement ce que vous payez pour la fenêtre et pour la pose.
+
+**WhatsApp :** +40 752 443 435 | **oferte@neofort-biz.ro** | **Lun–Ven 10h–18h**
 
 ## Questions fréquentes
 
-### À quel point les variations de température à Bucarest sont-elles extrêmes pour les fenêtres ?
+### Les écarts de température à Bucarest sont-ils extrêmes pour les fenêtres ?
 
-Bucarest a l'un des climats les plus difficiles d'Europe : −15°C en hiver et +38°C en été, une différence de 53°C. Les fenêtres inefficaces perdent 25-35% de l'énergie de chauffage en hiver et laissent entrer 40-60% de la chaleur solaire en été. Le remplacement par des menuiseries nZEB réduit la consommation de 35-55%.
+Bucarest a l’un des climats les plus exigeants d’Europe : −15 °C en hiver et +38 °C en été, soit un écart de 53 °C. Des fenêtres peu performantes perdent 25-35 % de l’énergie de chauffage en hiver et laissent entrer 40-60 % de la chaleur solaire en été. Les remplacer réduit généralement la facture de chauffage de 20-30 %.
 
-### Quelle valeur Uw une fenêtre nZEB doit-elle avoir à Bucarest ?
+### Quel coefficient Uw une fenêtre nZEB doit-elle avoir à Bucarest ?
 
-Pour le neuf à Bucarest, le standard nZEB obligatoire (depuis 2021) exige Uw ≤ 0,73 W/m²K. Les vieilles fenêtres d'avant 2005 ont 3,0-4,5 (à remplacer d'urgence), le standard minimal de rénovation est 1,1-1,4, et les maisons passives certifiées atteignent ≤ 0,60 W/m²K.
+La Mc 001-2022 fixe une valeur de référence de Uw ≤ 1,11 W/m²K pour les fenêtres des bâtiments résidentiels neufs et de Uw ≤ 1,20 W/m²K en rénovation. Les fenêtres anciennes d’avant 2005 affichent 3,0-4,5 (à remplacer d’urgence), et les maisons passives certifiées exigent Uw ≤ 0,80 W/m²K. Le GreenEvolution 76 et le BluEvolution 92 atteignent respectivement 0,73 et 0,70 en triple vitrage.
 
-### Quelle différence entre Uw et Uf sur une fenêtre ?
+### Quelle est la différence entre Uw et Uf pour une fenêtre ?
 
-L'Uw mesure combien de chaleur perd la fenêtre complète (avec vitrage), tandis que l'Uf est seulement le profilé nu. L'Uf est toujours meilleur (plus bas) que l'Uw. Beaucoup de fournisseurs affichent l'Uf au lieu de l'Uw en marketing — demandez toujours l'Uw de la fenêtre complète, le seul chiffre qui compte vraiment.
+Le Uw mesure la chaleur perdue par la fenêtre complète (profilé, vitrage et intercalaire), le Uf par le profilé seul et le Ug par le vitrage seul. De nombreux fournisseurs affichent le Ug ou le Uf au lieu du Uw dans leur marketing ; le Ug est presque toujours inférieur au Uw, la fenêtre paraît donc meilleure. Demandez toujours le Uw de la fenêtre complète, le seul chiffre qui compte vraiment.
 
-### De combien le remplacement des vieilles fenêtres par du nZEB réduit-il la consommation ?
+### De combien le remplacement des fenêtres anciennes par des fenêtres nZEB réduit-il la consommation ?
 
-Une étude INCERC montre que remplacer les vieilles fenêtres par des menuiseries nZEB réduit la consommation énergétique d'un appartement bucarestois moyen de 35-55%. Les fenêtres inefficaces perdent 25-35% de l'énergie de chauffage en hiver et laissent entrer 40-60% de la chaleur solaire en été.
+Dans un appartement à Bucarest, remplacer les fenêtres anciennes réduit généralement la facture de chauffage de 20-30 %, davantage si les anciennes fenêtres laissaient passer l’air. Des fenêtres peu performantes perdent 25-35 % de l’énergie de chauffage en hiver et laissent entrer 40-60 % de la chaleur solaire en été.
 
+### Le triple vitrage vaut-il la peine pour une fenêtre à Bucarest ?
 
----
+Le triple vitrage Low-E (Ug 0,5-0,7) vaut la peine dans les maisons neuves, au dernier étage, au rez-de-chaussée et sur les façades nord. Pour un appartement du 2e au 6e étage orienté sud, est ou ouest, le double vitrage Low-E (Ug 1,0-1,1) suffit généralement. Le surcoût met plus de 10 ans à être amorti par le seul chauffage ; on choisit donc le triple surtout pour le confort et l’absence de condensation.
 
-Neofort BIZ fournit des menuiseries certifiées nZEB et une pose en trois plans d’étanchéité, à Bucarest et dans l’Ilfov. [Dites-nous ce que vous visez](/fr/contact) et recevez un devis sous 48 heures. Découvrez les [systèmes nZEB complets](/fr/systemes-nzeb). Pages utiles : [le guide complet des systèmes nZEB](/fr/systemes-nzeb/guide-complet) et [le profilé Salamander greenEvolution 76 AD FLEX](/fr/produits/profil-pvc-greenevolution-76-ad-flex).
-`,
-
-      es: `## ¿Por qué importa tanto la elección de ventanas en Bucarest?
-
-Bucarest tiene uno de los climas más exigentes de Europa: **−15°C en invierno** y **+38°C en verano** — una variación anual de 53°C. Reemplazar ventanas antiguas por carpintería [nZEB](/es/sistemas-nzeb) reduce el consumo energético de un apartamento medio en Bucarest entre un **35 y 55%**.
 
 ---
 
-## Paso 1: El coeficiente Uw — el único número que importa de verdad
+Neofort BIZ fournit des menuiseries pour bâtiments nZEB, avec une pose étanche sur trois plans, à Bucarest et dans l’Ilfov. [Dites-nous ce que vous visez](/fr/contact) et recevez un devis sous 48 heures. Découvrez les [systèmes nZEB complets](/fr/systemes-nzeb) que nous proposons. Pages utiles : [le guide complet des systèmes nZEB](/fr/systemes-nzeb/guide-complet) et [le profilé Salamander greenEvolution 76 AD FLEX](/fr/produits/profil-pvc-greenevolution-76-ad-flex).`,
 
-| Norma | Uw | Contexto |
+      es: `## ¿Por qué importa tanto la elección de las ventanas en Bucarest?
+
+Bucarest tiene uno de los climas más exigentes de Europa para la carpintería: **−15 °C en invierno** y **+38 °C en verano**, una diferencia de 53 °C a lo largo del año. Las ventanas ineficientes pierden el 25–35 % de la energía de calefacción en invierno y dejan entrar el 40–60 % del calor solar en verano.
+
+Sustituir las ventanas antiguas por carpintería adecuada para edificios [nZEB](/es/sistemas-nzeb) reduce por lo general la factura de calefacción de un piso en Bucarest en un **20–30 %**, y más si las ventanas antiguas tenían corrientes de aire.
+
+---
+
+## Paso 1: El coeficiente Uw — el único número que de verdad importa
+
+**Uw** (vatios por metro cuadrado y kelvin) mide cuánto calor pierde la ventana completa. Cuanto más bajo, mejor es la ventana.
+
+| Estándar | Uw | Contexto |
 |---|---|---|
-| Ventanas antiguas (antes de 2005) | 3,0–4,5 W/m²K | Reemplazar urgentemente |
-| Mínimo actual | 1,1–1,4 W/m²K | Reformas con presupuesto |
-| **nZEB obligatorio (2021+)** | **≤ 0,73 W/m²K** | **Obra nueva Bucarest** |
-| Casa Pasiva | ≤ 0,60 W/m²K | Casas pasivas certificadas |
+| Ventanas antiguas (anteriores a 2005) | 3,0–4,5 W/m²K | Sustituir con urgencia |
+| Reformas — valor de referencia Mc 001-2022 | ≤ 1,20 W/m²K | Cambio de ventanas en edificios existentes |
+| **Edificios residenciales nuevos — valor de referencia Mc 001-2022** | **≤ 1,11 W/m²K** | **Obra nueva (nZEB)** |
+| Passive House (criterio PHI, clima templado frío) | ≤ 0,80 W/m²K | Casas pasivas certificadas |
+
+GreenEvolution 76 alcanza un Uw desde 0,73 W/m²K y BluEvolution 92 un Uw desde 0,70 W/m²K, ambos con triple acristalamiento Low-E, muy por debajo de los valores de referencia.
+
+> **Cuidado con el marketing:** muchos proveedores muestran el **Ug** (solo el vidrio) o el **Uf** (solo el perfil) en lugar del **Uw** (la ventana completa). El Ug casi siempre es menor que el Uw, así que la ventana parece mejor de lo que es. Pida el Uw de la ventana completa.
 
 ---
 
-## Paso 2: Perfiles nZEB disponibles en Neofort BIZ
+## Paso 2: nZEB en Bucarest — qué significa en la práctica
 
-**Salamander [BluEvolution 92](/es/carpinteria-pvc):** 6 cámaras, 92mm, Uw = 0,70 W/m²K (doble Low-E). nZEB ✅ Casa Pasiva ✅
+Desde **2021**, todas las obras nuevas autorizadas en Rumanía deben cumplir el estándar **nZEB (Nearly Zero Energy Building)**. El estándar se refiere a la eficiencia energética de todo el edificio; las ventanas deben cumplir al menos el valor de referencia de la Mc 001-2022, Uw ≤ 1,11 W/m²K para edificios residenciales nuevos.
 
-**Salamander GreenEvolution 76:** 5 cámaras, 76mm, Uw = 0,73 W/m²K. nZEB ✅
+**Perfiles adecuados para edificios nZEB, disponibles en Neofort BIZ:**
+
+### Salamander BluEvolution 92
+- 6 cámaras de aire, profundidad de 92 mm
+- 3 juntas de estanqueidad perimetrales
+- Uw desde **0,70 W/m²K**, con triple acristalamiento Low-E
+- El sistema bluEvolution tiene certificación Passivhaus (PHI) ✅
+
+### Salamander GreenEvolution 76
+- 5 cámaras de aire, profundidad de 76 mm
+- 2 o 3 juntas de estanqueidad según la versión (AD o MD)
+- Uw desde **0,73 W/m²K**, con triple acristalamiento Low-E
+- Por debajo del valor de referencia para casas nuevas ✅
+
+**¿Cuándo elegir BluEvolution 92 o GreenEvolution 76?**
+- **Reforma de un piso en bloque, presupuesto equilibrado:** GreenEvolution 76 — suficiente para los valores de referencia, menor coste
+- **Casa nueva, ático, última planta:** [BluEvolution 92](/es/carpinteria-pvc) — máximo rendimiento, vida útil más larga
+- **Exportación, zonas de montaña, condiciones extremas:** BluEvolution 92 con triple acristalamiento — la única elección correcta
 
 ---
 
-## Paso 3: Por qué el sistema de instalación importa más que el perfil
+## Paso 3: Lo que importa más que el perfil — el sistema de instalación
 
-- **Premarcos Blaugelb Triotherm+** — elimina el 30–40% del puente térmico en la unión
-- **Cinta de butilo precomprimida** — estanqueidad contra lluvia/viento
-- **Espuma PU de célula cerrada** — resistente a la humedad 30+ años
-- **Espaciador Warm Edge** — elimina la condensación marginal, reduce Uw en 0,1–0,2 W/m²K
+**El secreto que pocos proveedores explican:** una ventana BluEvolution 92 mal instalada rinde menos que una GreenEvolution 76 bien instalada.
+
+El sistema completo de instalación nZEB que aplica Neofort BIZ incluye:
+
+### Premarcos Blaugelb Triotherm+
+El elemento más importante que falta en los presupuestos baratos. El premarco de plástico con rotura de puente térmico separa la ventana de la estructura de hormigón o de hormigón celular. Sin premarco, la unión se convierte en un puente térmico que anula el **30–40 % del rendimiento del perfil**.
+
+### Cinta de butilo (exterior)
+Sella la unión entre marco y vierteaguas contra la lluvia y el viento. Sin ella, las filtraciones de agua degradan el aislamiento perimetral en 2–3 años.
+
+### Espuma de poliuretano de celda cerrada
+Rellena el espacio entre el marco y la estructura. La espuma de celda abierta (la barata) absorbe humedad y se degrada. La de celda cerrada dura más de 30 años.
+
+### Cinta barrera de vapor (interior)
+Evita la condensación en la unión interior entre carpintería y muro. Sin ella, aparece moho en pocos años.
+
+### Intercalarios Warm Edge (separador térmico del vidrio)
+El separador clásico de aluminio crea un puente térmico visible: la franja donde se forma condensación en el vidrio en invierno. Un separador Warm Edge de material compuesto reduce el Uw en **unos 0,1 W/m²K** y elimina la condensación en el borde.
 
 ---
 
-## Precios orientativos ventanas nZEB Bucarest 2026
+## Paso 4: Doble o triple acristalamiento Low-E — ¿cuándo compensa el triple?
 
-> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+### Doble acristalamiento Low-E (4+16+4 Ar)
+- Ug = **1,0–1,1 W/m²K**
+- Adecuado para: reformas, pisos de la 2.ª a la 6.ª planta, presupuestos equilibrados
+- Sobrecoste frente al vidrio estándar: +15–25 %
 
-| Sistema | Configuración | Precio instalado estimado |
+### Triple acristalamiento Low-E (4+12+4+12+4 Ar/Kr)
+- Ug = **0,5–0,7 W/m²K**
+- Adecuado para: casas nuevas, última planta, planta baja, fachada norte del edificio
+- Sobrecoste frente al doble acristalamiento: +35–50 %
+- Amortización solo con la calefacción: por lo general **más de 10 años** — el triple se elige sobre todo por confort y ausencia de condensación
+
+**Recomendación de Neofort BIZ para Bucarest:**
+- Piso de la 2.ª a la 6.ª planta, orientación sur/este/oeste → doble acristalamiento Low-E (suficiente)
+- Casa nueva, ático, planta baja, norte → triple acristalamiento Low-E (recomendado)
+
+---
+
+## Paso 5: Cómo comparar presupuestos — 5 preguntas obligatorias
+
+Antes de firmar un contrato con un proveedor de ventanas en Bucarest, pida respuesta por escrito a:
+
+1. **El Uw de la ventana completa** (no el Ug del vidrio ni el Uf del perfil)
+2. **Qué incluye la instalación**: ¿premarcos Blaugelb, cinta de butilo, espuma de celda cerrada, cinta barrera de vapor?
+3. **Qué separador de vidrio**: ¿aluminio clásico o Warm Edge?
+4. **Garantías separadas** para perfil, vidrio e instalación: ¿cuántos años?
+5. **Declaración de prestaciones CE** del perfil y del vidrio?
+
+Un proveedor serio responde de inmediato a las 5. Si las esquiva, no lo sabe o se niega a responder por escrito, es una señal de alarma.
+
+---
+
+## Precios orientativos de ventanas nZEB en Bucarest 2026
+
+> ⚠️ **Nota importante:** los precios son orientativos y reflejan las condiciones de marzo de 2026. Los precios de los materiales y el tipo de cambio EUR/RON pueden variar. Pida un presupuesto actualizado.
+
+| Sistema | Configuración | Precio estimado |
 |---|---|---|
-| GreenEvolution 76 + doble Low-E | 100×120 cm | 320–450 EUR |
-| BluEvolution 92 + doble Low-E | 100×120 cm | 380–520 EUR |
-| BluEvolution 92 + triple Low-E | 100×120 cm | 480–650 EUR |
-| **Por m² nZEB instalado completo** | — | **280–420 EUR/m²** |
+| GreenEvolution 76 + doble acristalamiento Low-E | Ventana de 100×120 cm | 320–430 EUR |
+| BluEvolution 92 + doble acristalamiento Low-E | Ventana de 100×120 cm | 420–560 EUR |
+| BluEvolution 92 + triple acristalamiento Low-E | Ventana de 100×120 cm | 510–680 EUR |
+| **Instalación nZEB con premarcos Blaugelb Triotherm+** | Perímetro de 4,4 m | **+110–220 EUR** |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+*Los precios incluyen: perfil, vidrio, herrajes Roto/Siegenia e instalación estándar. La instalación nZEB completa, con premarcos Blaugelb y todas las cintas de estanqueidad, añade 25–50 EUR por metro lineal de perímetro. Son precios sin IVA; el IVA rumano del 21 % se añade en la factura.*
+
+---
+
+## Por qué Neofort BIZ para su ventana en Bucarest o Ilfov
+
+Neofort BIZ es un proveedor especializado en carpintería de PVC Salamander y de aluminio Alumil en Bucarest, con **21 años de experiencia**.
+
+Recomendamos la instalación nZEB completa con premarcos Blaugelb Triotherm+ y la presupuestamos aparte, para que vea exactamente lo que paga por la ventana y lo que paga por la instalación.
+
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **Lun–Vie 10–18 h**
 
 ## Preguntas frecuentes
 
-### ¿Qué tan extremas son las variaciones de temperatura de Bucarest para las ventanas?
+### ¿Hasta qué punto son extremas las variaciones de temperatura de Bucarest para las ventanas?
 
-Bucarest tiene uno de los climas más exigentes de Europa: −15°C en invierno y +38°C en verano, una diferencia de 53°C. Las ventanas ineficientes pierden el 25-35% de la energía de calefacción en invierno y dejan entrar el 40-60% del calor solar en verano. Sustituir por carpintería nZEB reduce el consumo un 35-55%.
+Bucarest tiene uno de los climas más exigentes de Europa: −15 °C en invierno y +38 °C en verano, una diferencia de 53 °C. Las ventanas ineficientes pierden el 25-35 % de la energía de calefacción en invierno y dejan entrar el 40-60 % del calor solar en verano. Sustituirlas reduce por lo general la factura de calefacción en un 20-30 %.
 
-### ¿Qué valor Uw debe tener una ventana nZEB en Bucarest?
+### ¿Qué coeficiente Uw debe tener una ventana nZEB en Bucarest?
 
-Para obra nueva en Bucarest, el estándar nZEB obligatorio (desde 2021) exige Uw ≤ 0,73 W/m²K. Las ventanas viejas anteriores a 2005 tienen 3,0-4,5 (sustituir con urgencia), el estándar mínimo de reforma es 1,1-1,4, y las casas pasivas certificadas alcanzan ≤ 0,60 W/m²K.
+La Mc 001-2022 fija como valor de referencia Uw ≤ 1,11 W/m²K para las ventanas de edificios residenciales nuevos y Uw ≤ 1,20 W/m²K en reformas. Las ventanas antiguas anteriores a 2005 tienen 3,0-4,5 (sustituir con urgencia), y las casas pasivas certificadas exigen Uw ≤ 0,80 W/m²K. GreenEvolution 76 y BluEvolution 92 alcanzan 0,73 y 0,70 respectivamente con triple acristalamiento.
 
 ### ¿Cuál es la diferencia entre Uw y Uf en una ventana?
 
-El Uw mide cuánto calor pierde la ventana completa (con vidrio), mientras que el Uf es solo el perfil desnudo. El Uf siempre es mejor (menor) que el Uw. Muchos proveedores muestran el Uf en lugar del Uw en marketing — pide siempre el Uw de la ventana completa, el único número que realmente importa.
+El Uw mide cuánto calor pierde la ventana completa (perfil, vidrio y separador), el Uf solo el perfil y el Ug solo el vidrio. Muchos proveedores muestran el Ug o el Uf en lugar del Uw en su publicidad; el Ug casi siempre es menor que el Uw, así que la ventana parece mejor. Pida siempre el Uw de la ventana completa, el único número que de verdad importa.
 
-### ¿Cuánto reduce el consumo sustituir ventanas viejas por nZEB?
+### ¿Cuánto reduce el consumo sustituir las ventanas antiguas por ventanas nZEB?
 
-Un estudio INCERC muestra que sustituir ventanas viejas por carpintería nZEB reduce el consumo energético de un piso medio de Bucarest un 35-55%. Las ventanas ineficientes pierden el 25-35% de la energía de calefacción en invierno y dejan entrar el 40-60% del calor solar en verano.
+En un piso de Bucarest, sustituir las ventanas antiguas reduce por lo general la factura de calefacción en un 20-30 %, y más si las ventanas antiguas tenían corrientes de aire. Las ventanas ineficientes pierden el 25-35 % de la energía de calefacción en invierno y dejan entrar el 40-60 % del calor solar en verano.
 
+### ¿Compensa el triple acristalamiento para una ventana en Bucarest?
 
----
+El triple acristalamiento Low-E (Ug 0,5-0,7) compensa en casas nuevas, en la última planta, en la planta baja y en fachadas norte. Para un piso de la 2.ª a la 6.ª planta orientado al sur, este u oeste, el doble acristalamiento Low-E (Ug 1,0-1,1) suele ser suficiente. El sobrecoste tarda más de 10 años en amortizarse solo con la calefacción, así que el triple se elige sobre todo por confort y ausencia de condensación.
 
-Neofort BIZ suministra carpintería certificada nZEB e instalación en tres planos de sellado en Bucarest e Ilfov. [Cuéntenos qué busca](/es/contacto) y recibirá un presupuesto en 48 horas. Vea los [sistemas nZEB completos](/es/sistemas-nzeb). Páginas útiles: [la guía completa de sistemas nZEB](/es/sistemas-nzeb/guia-completa) y [el perfil Salamander greenEvolution 76 AD FLEX](/es/productos/perfil-pvc-greenevolution-76-ad-flex).
-`,
-
-      it: `## Perché la scelta delle finestre è così importante a Bucarest?
-
-Bucarest ha uno dei climi più impegnativi d'Europa: **−15°C in inverno** e **+38°C in estate** — una variazione annuale di 53°C. Sostituire le vecchie finestre con infissi [nZEB](/it/sistemi-nzeb) riduce il consumo energetico di un appartamento medio a Bucarest del **35–55%**.
 
 ---
 
-## Passo 1: Il coefficiente Uw — l'unico numero che conta davvero
+Neofort BIZ suministra carpintería para edificios nZEB con instalación sellada en tres planos, en Bucarest e Ilfov. [Cuéntenos qué busca](/es/contacto) y recibirá un presupuesto en 48 horas. Vea los [sistemas nZEB completos](/es/sistemas-nzeb) que ofrecemos. Páginas útiles: [la guía completa de los sistemas nZEB](/es/sistemas-nzeb/guia-completa) y [el perfil Salamander greenEvolution 76 AD FLEX](/es/productos/perfil-pvc-greenevolution-76-ad-flex).`,
+
+      it: `## Perché la scelta delle finestre conta così tanto a Bucarest?
+
+Bucarest ha uno dei climi più impegnativi d’Europa per i serramenti: **−15 °C d’inverno** e **+38 °C d’estate**, una differenza di 53 °C nell’arco dell’anno. Le finestre inefficienti disperdono il 25–35% dell’energia di riscaldamento d’inverno e lasciano entrare il 40–60% del calore solare d’estate.
+
+Sostituire le finestre vecchie con serramenti adatti agli edifici [nZEB](/it/sistemi-nzeb) riduce di norma la bolletta del riscaldamento di un appartamento di Bucarest del **20–30%**, di più se le vecchie finestre avevano spifferi.
+
+---
+
+## Passo 1: Il coefficiente Uw — l’unico numero che conta davvero
+
+**Uw** (watt per metro quadrato kelvin) misura quanto calore disperde la finestra completa. Più è basso, migliore è la finestra.
 
 | Standard | Uw | Contesto |
 |---|---|---|
-| Vecchie finestre (prima del 2005) | 3,0–4,5 W/m²K | Da sostituire urgentemente |
-| Minimo attuale | 1,1–1,4 W/m²K | Ristrutturazioni budget |
-| **nZEB obbligatorio (2021+)** | **≤ 0,73 W/m²K** | **Nuove costruzioni Bucarest** |
-| Casa Passiva | ≤ 0,60 W/m²K | Case passive certificate |
+| Finestre vecchie (prima del 2005) | 3,0–4,5 W/m²K | Da sostituire con urgenza |
+| Ristrutturazioni — valore di riferimento Mc 001-2022 | ≤ 1,20 W/m²K | Sostituzione delle finestre in edifici esistenti |
+| **Edifici residenziali nuovi — valore di riferimento Mc 001-2022** | **≤ 1,11 W/m²K** | **Nuove costruzioni (nZEB)** |
+| Passive House (criterio PHI, clima temperato freddo) | ≤ 0,80 W/m²K | Case passive certificate |
+
+GreenEvolution 76 raggiunge un Uw da 0,73 W/m²K e BluEvolution 92 un Uw da 0,70 W/m²K, entrambi con vetro triplo Low-E, ben al di sotto dei valori di riferimento.
+
+> **Attenzione al marketing:** molti fornitori indicano l’**Ug** (solo il vetro) o l’**Uf** (solo il profilo) al posto dell’**Uw** (la finestra completa). L’Ug è quasi sempre più basso dell’Uw, quindi la finestra sembra migliore di quanto sia. Chiedete l’Uw della finestra completa.
 
 ---
 
-## Passo 2: Profili nZEB disponibili da Neofort BIZ
+## Passo 2: nZEB a Bucarest — cosa significa in pratica
 
-**Salamander [BluEvolution 92](/it/infissi-pvc):** 6 camere, 92mm, Uw = 0,70 W/m²K (doppio Low-E). nZEB ✅ Casa Passiva ✅
+Dal **2021** tutte le nuove costruzioni autorizzate in Romania devono rispettare lo standard **nZEB (Nearly Zero Energy Building)**. Lo standard riguarda la prestazione energetica dell’intero edificio; le finestre devono rispettare almeno il valore di riferimento della Mc 001-2022, Uw ≤ 1,11 W/m²K per gli edifici residenziali nuovi.
 
-**Salamander GreenEvolution 76:** 5 camere, 76mm, Uw = 0,73 W/m²K. nZEB ✅
+**Profili adatti agli edifici nZEB, disponibili da Neofort BIZ:**
+
+### Salamander BluEvolution 92
+- 6 camere d’aria, profondità 92 mm
+- 3 guarnizioni di tenuta perimetrali
+- Uw da **0,70 W/m²K**, con vetro triplo Low-E
+- Il sistema bluEvolution ha la certificazione Passivhaus (PHI) ✅
+
+### Salamander GreenEvolution 76
+- 5 camere d’aria, profondità 76 mm
+- 2 o 3 guarnizioni di tenuta, secondo la variante (AD o MD)
+- Uw da **0,73 W/m²K**, con vetro triplo Low-E
+- Sotto il valore di riferimento per le case nuove ✅
+
+**Quando scegliere BluEvolution 92 e quando GreenEvolution 76?**
+- **Ristrutturazione di un appartamento in condominio, budget equilibrato:** GreenEvolution 76 — sufficiente per i valori di riferimento, costo minore
+- **Casa nuova, attico, ultimo piano:** [BluEvolution 92](/it/infissi-pvc) — prestazioni massime, durata maggiore
+- **Export, zone montane, condizioni estreme:** BluEvolution 92 con vetro triplo — l’unica scelta corretta
 
 ---
 
-## Passo 3: Perché il sistema di posa conta più del profilo
+## Passo 3: Cosa conta più del profilo — il sistema di posa
 
-- **Controtelaio Blaugelb Triotherm+** — elimina il 30–40% del ponte termico alla giunzione
-- **Nastro butilico precompresso** — tenuta contro pioggia/vento
-- **Schiuma PU a cellule chiuse** — resistente all'umidità 30+ anni
-- **Distanziatore Warm Edge** — elimina la condensazione marginale, riduce Uw di 0,1–0,2 W/m²K
+**Il segreto che pochi fornitori spiegano:** una finestra BluEvolution 92 posata male rende meno di una GreenEvolution 76 posata correttamente.
+
+Il sistema completo di posa nZEB adottato da Neofort BIZ comprende:
+
+### Controtelai Blaugelb Triotherm+
+L’elemento più importante, assente nei preventivi economici. Il controtelaio in plastica a taglio termico separa la finestra dalla struttura in calcestruzzo o in calcestruzzo cellulare. Senza controtelaio, il giunto diventa un ponte termico che annulla il **30–40% delle prestazioni del profilo**.
+
+### Nastro butilico (esterno)
+Sigilla il giunto tra telaio e davanzale contro pioggia e vento. Senza di esso, le infiltrazioni d’acqua degradano l’isolamento perimetrale in 2–3 anni.
+
+### Schiuma poliuretanica a celle chiuse
+Riempie lo spazio tra telaio e struttura. La schiuma a celle aperte (quella economica) assorbe umidità e si degrada. Quella a celle chiuse dura oltre 30 anni.
+
+### Nastro barriera al vapore (interno)
+Previene la condensa nel giunto interno tra serramento e muro. Senza di esso, la muffa compare in pochi anni.
+
+### Canalino Warm Edge (distanziatore termico del vetro)
+Il classico distanziatore in alluminio crea un ponte termico visibile: la fascia dove d’inverno si forma la condensa sul vetro. Un distanziatore Warm Edge in materiale composito riduce l’Uw di **circa 0,1 W/m²K** ed elimina la condensa sul bordo.
 
 ---
 
-## Prezzi indicativi finestre nZEB Bucarest 2026
+## Passo 4: Vetro doppio o triplo Low-E — quando conviene il triplo?
 
-> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+### Vetro doppio Low-E (4+16+4 Ar)
+- Ug = **1,0–1,1 W/m²K**
+- Adatto a: ristrutturazioni, appartamenti dal 2° al 6° piano, budget equilibrati
+- Costo in più rispetto al vetro standard: +15–25%
 
-| Sistema | Configurazione | Prezzo installato stimato |
+### Vetro triplo Low-E (4+12+4+12+4 Ar/Kr)
+- Ug = **0,5–0,7 W/m²K**
+- Adatto a: case nuove, ultimo piano, piano terra, lato nord dell’edificio
+- Costo in più rispetto al vetro doppio: +35–50%
+- Ritorno dell’investimento sul solo riscaldamento: di norma **oltre 10 anni** — il triplo si sceglie soprattutto per comfort e assenza di condensa
+
+**Raccomandazione di Neofort BIZ per Bucarest:**
+- Appartamento dal 2° al 6° piano, esposizione sud/est/ovest → vetro doppio Low-E (sufficiente)
+- Casa nuova, attico, piano terra, nord → vetro triplo Low-E (consigliato)
+
+---
+
+## Passo 5: Come confrontare i preventivi — 5 domande obbligatorie
+
+Prima di firmare qualsiasi contratto con un fornitore di finestre a Bucarest, chiedete una risposta scritta su:
+
+1. **L’Uw della finestra completa** (non l’Ug del vetro né l’Uf del profilo)
+2. **Cosa comprende la posa**: controtelai Blaugelb, nastro butilico, schiuma a celle chiuse, nastro barriera al vapore?
+3. **Quale distanziatore**: alluminio classico o Warm Edge?
+4. **Garanzie separate** su profilo, vetro e posa: quanti anni?
+5. **Dichiarazione di prestazione CE** per profilo e vetro?
+
+Un fornitore serio risponde subito a tutte e 5. Se le evita, non sa rispondere o si rifiuta di farlo per iscritto, è un segnale d’allarme.
+
+---
+
+## Prezzi indicativi delle finestre nZEB a Bucarest 2026
+
+> ⚠️ **Nota importante:** i prezzi sono indicativi e riflettono le condizioni di marzo 2026. I prezzi dei materiali e il cambio EUR/RON possono variare. Chiedete un preventivo aggiornato.
+
+| Sistema | Configurazione | Prezzo stimato |
 |---|---|---|
-| GreenEvolution 76 + doppio Low-E | 100×120 cm | 320–450 EUR |
-| BluEvolution 92 + doppio Low-E | 100×120 cm | 380–520 EUR |
-| BluEvolution 92 + triplo Low-E | 100×120 cm | 480–650 EUR |
-| **Per m² nZEB installato completo** | — | **280–420 EUR/m²** |
+| GreenEvolution 76 + vetro doppio Low-E | Finestra 100×120 cm | 320–430 EUR |
+| BluEvolution 92 + vetro doppio Low-E | Finestra 100×120 cm | 420–560 EUR |
+| BluEvolution 92 + vetro triplo Low-E | Finestra 100×120 cm | 510–680 EUR |
+| **Posa nZEB con controtelai Blaugelb Triotherm+** | Perimetro 4,4 ml | **+110–220 EUR** |
 
-**WhatsApp:** +40 752 443 435 | **L–V 10–18**
+*I prezzi comprendono: profilo, vetro, ferramenta Roto/Siegenia e posa standard. La posa nZEB completa, con controtelai Blaugelb e tutti i nastri di tenuta, aggiunge 25–50 EUR al metro lineare di perimetro. Sono prezzi IVA esclusa; l’IVA rumena del 21% si aggiunge in fattura.*
+
+---
+
+## Perché Neofort BIZ per la vostra finestra a Bucarest o in provincia di Ilfov?
+
+Neofort BIZ è un fornitore specializzato di serramenti in PVC Salamander e in alluminio Alumil a Bucarest, con **21 anni di esperienza**.
+
+Consigliamo la posa nZEB completa con controtelai Blaugelb Triotherm+ e la quotiamo a parte, così vedete esattamente quanto pagate per la finestra e quanto per la posa.
+
+**WhatsApp:** +40 752 443 435 | **oferte@neofort-biz.ro** | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
-### Quanto sono estreme le variazioni di temperatura di Bucarest per le finestre?
+### Quanto sono estreme per le finestre le escursioni termiche di Bucarest?
 
-Bucarest ha uno dei climi più impegnativi d'Europa: −15°C d'inverno e +38°C d'estate, una differenza di 53°C. Le finestre inefficienti perdono il 25-35% dell'energia di riscaldamento d'inverno e lasciano entrare il 40-60% del calore solare d'estate. Sostituire con serramenti nZEB riduce il consumo del 35-55%.
+Bucarest ha uno dei climi più impegnativi d’Europa: −15 °C d’inverno e +38 °C d’estate, una differenza di 53 °C. Le finestre inefficienti disperdono il 25-35% dell’energia di riscaldamento d’inverno e lasciano entrare il 40-60% del calore solare d’estate. Sostituirle riduce di norma la bolletta del riscaldamento del 20-30%.
 
-### Quale valore Uw deve avere una finestra nZEB a Bucarest?
+### Quale coefficiente Uw deve avere una finestra nZEB a Bucarest?
 
-Per le nuove costruzioni a Bucarest, lo standard nZEB obbligatorio (dal 2021) richiede Uw ≤ 0,73 W/m²K. Le vecchie finestre pre-2005 hanno 3,0-4,5 (da sostituire con urgenza), lo standard minimo di ristrutturazione è 1,1-1,4, e le case passive certificate raggiungono ≤ 0,60 W/m²K.
+La Mc 001-2022 fissa come valore di riferimento Uw ≤ 1,11 W/m²K per le finestre degli edifici residenziali nuovi e Uw ≤ 1,20 W/m²K nelle ristrutturazioni. Le finestre vecchie di prima del 2005 hanno 3,0-4,5 (da sostituire con urgenza), mentre le case passive certificate richiedono Uw ≤ 0,80 W/m²K. GreenEvolution 76 e BluEvolution 92 raggiungono rispettivamente 0,73 e 0,70 con vetro triplo.
 
-### Qual è la differenza tra Uw e Uf su una finestra?
+### Qual è la differenza tra Uw e Uf in una finestra?
 
-L'Uw misura quanto calore perde la finestra completa (con vetro), mentre l'Uf è solo il profilo nudo. L'Uf è sempre migliore (più basso) dell'Uw. Molti fornitori mostrano l'Uf invece dell'Uw nel marketing — chiedi sempre l'Uw della finestra completa, l'unico numero che conta davvero.
+L’Uw misura quanto calore disperde la finestra completa (profilo, vetro e distanziatore), l’Uf solo il profilo e l’Ug solo il vetro. Molti fornitori indicano l’Ug o l’Uf al posto dell’Uw nella pubblicità; l’Ug è quasi sempre più basso dell’Uw, quindi la finestra sembra migliore. Chiedete sempre l’Uw della finestra completa, l’unico numero che conta davvero.
 
-### Quanto riduce il consumo sostituire le vecchie finestre con nZEB?
+### Di quanto riduce i consumi sostituire le finestre vecchie con finestre nZEB?
 
-Uno studio INCERC mostra che sostituire le vecchie finestre con serramenti nZEB riduce il consumo energetico di un appartamento medio di Bucarest del 35-55%. Le finestre inefficienti perdono il 25-35% dell'energia di riscaldamento d'inverno e lasciano entrare il 40-60% del calore solare d'estate.
+In un appartamento di Bucarest, sostituire le finestre vecchie riduce di norma la bolletta del riscaldamento del 20-30%, di più se le vecchie finestre avevano spifferi. Le finestre inefficienti disperdono il 25-35% dell’energia di riscaldamento d’inverno e lasciano entrare il 40-60% del calore solare d’estate.
+
+### Conviene il vetro triplo per una finestra a Bucarest?
+
+Il vetro triplo Low-E (Ug 0,5-0,7) conviene nelle case nuove, all’ultimo piano, al piano terra e sulle facciate a nord. Per un appartamento dal 2° al 6° piano esposto a sud, est o ovest, il vetro doppio Low-E (Ug 1,0-1,1) di norma basta. Il costo in più si recupera sul solo riscaldamento in oltre 10 anni, quindi il triplo si sceglie soprattutto per comfort e assenza di condensa.
 
 
 ---
 
-Neofort BIZ fornisce serramenti certificati nZEB e posa su tre piani di tenuta a Bucarest e nell’Ilfov. [Diteci qual è il vostro obiettivo](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite i [sistemi nZEB completi](/it/sistemi-nzeb). Pagine utili: [la guida completa ai sistemi nZEB](/it/sistemi-nzeb/guida-completa) e [il profilo Salamander greenEvolution 76 AD FLEX](/it/prodotti/profilo-pvc-greenevolution-76-ad-flex).
-`,
+Neofort BIZ fornisce serramenti per edifici nZEB con posa a tenuta su tre piani, a Bucarest e in provincia di Ilfov. [Diteci cosa cercate](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite i [sistemi nZEB completi](/it/sistemi-nzeb) che offriamo. Pagine utili: [la guida completa ai sistemi nZEB](/it/sistemi-nzeb/guida-completa) e [il profilo Salamander greenEvolution 76 AD FLEX](/it/prodotti/profilo-pvc-greenevolution-76-ad-flex).`,
     },
   },
 
