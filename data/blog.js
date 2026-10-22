@@ -131,14 +131,14 @@ Suprafață vitrată: 18 m² | ΔT = 20°C | Ore sezon rece: 3.500 h
 - Uw cu tripan 44 mm + Warm Edge: **0,72 W/(m²K)**
 - Certificare: IFT Rosenheim, EN 12608 Clasa A | Garanție: 40 ani
 
-**Salamander bluEvolution 82 (soluție economică nZEB):**
-- 6 camere, 82 mm, Uf = 1,0 W/(m²K)
-- Uw cu tripan 44 mm: **0,80-0,88 W/(m²K)** — marginal nZEB
+**Salamander GreenEvolution 76 (soluție economică):**
+- 5 camere, 76 mm, Uf = 1,2 W/(m²K)
+- Uw cu tripan: **de la 0,73 W/(m²K)**
 
 ### Aluminiu cu barieră termică — nZEB cu design premium
 
 **Alumil S77 Supreme:**
-- 77 mm, rupere de punte termică 34 mm poliamidă, Uf = 1,3 W/(m²K)
+- 77–93 mm, rupere de punte termică 40 mm poliamidă, Uf de la 0,86 W/(m²K)
 - Uw cu tripan 44 mm: **1,0-1,15 W/(m²K)** — în jurul valorii de referință de 1,11
 
 **Limitare:** Aluminiul standard nu poate atinge Uw ≤ 0,85 W/(m²K) — marja recomandată.
@@ -225,7 +225,7 @@ PVC pentru Uw maxim și cost-eficiență. Aluminiu pentru suprafețe vitrate mar
 - Certificare profil: IFT Rosenheim sau TÜV pentru Uf declarat
 
 ### Care sunt cele mai eficiente ferestre din România 2026?
-Salamander bluEvolution 92 + tripan 52 mm Saint-Gobain + Warm Edge + precadre Blaugelb: **Uw = 0,66 W/(m²K)** — cel mai bun sistem disponibil comercial în România.
+Salamander bluEvolution 92 + tripan 52 mm Saint-Gobain + Warm Edge + precadre Blaugelb: **Uw = 0,70 W/(m²K)** — cel mai bun sistem disponibil comercial în România.
 
 ## Concluzie
 
@@ -318,20 +318,20 @@ According to the Mc 001-2022 methodology (MDLPA Order 16/2023):
 - Ca-Zn stabilisers (lead-free, cadmium-free) — REACH compliant
 - 3 EPDM gaskets
 - Uw with 44 mm triple glazing + Warm Edge: **0.72 W/(m²K)**
-- Uw with 52 mm triple glazing + Warm Edge: **0.66 W/(m²K)**
+- Uw with 52 mm triple glazing + Warm Edge: **0.70 W/(m²K)**
 - Certification: IFT Rosenheim, EN 12608 Class A
 - Warranty: 40 years profile
 
-**Salamander bluEvolution 82 (economic nZEB solution):**
-- 6 chambers, 82 mm depth
-- Uf = 1.0 W/(m²K)
-- Uw with 44 mm triple glazing: **0.80-0.88 W/(m²K)** — marginal nZEB
+**Salamander GreenEvolution 76 (economic solution):**
+- 5 chambers, 76 mm depth
+- Uf = 1.2 W/(m²K)
+- Uw with triple glazing: **from 0.73 W/(m²K)**
 
 ### Aluminium with Thermal Break — nZEB with Premium Design
 
 **Alumil S77 Supreme:**
-- 77 mm depth, 34 mm polyamide thermal break
-- Uf = 1.3 W/(m²K)
+- 77–93 mm depth, 40 mm polyamide thermal break
+- Uf from 0.86 W/(m²K)
 - Uw with 44 mm triple glazing: **1.0-1.15 W/(m²K)** — around the 1.11 reference value
 
 **Important limitation:** Standard aluminium cannot achieve Uw ≤ 0.85 W/(m²K) — the recommended margin for nZEB.
@@ -457,7 +457,7 @@ PVC for maximum Uw and cost-efficiency. Aluminium for large glazed areas (>150 c
 - Profile certification: IFT Rosenheim or TÜV for declared Uf
 
 ### What are the most efficient windows on the Romanian market 2026?
-Salamander bluEvolution 92 + 52 mm Saint-Gobain triple + Warm Edge spacer + Blaugelb preframes: **Uw = 0.66 W/(m²K)** — the best commercially available system in Romania for residential.
+Salamander bluEvolution 92 + 52 mm Saint-Gobain triple + Warm Edge spacer + Blaugelb preframes: **Uw = 0.70 W/(m²K)** — the best commercially available system in Romania for residential.
 
 ## Conclusion
 
@@ -550,18 +550,18 @@ In einem Haus mit Wänden bei 20 cm Dämmung (U = 0,20 W/m²K) und Dach bei 30 c
 - Ca-Zn-Stabilisatoren (bleifrei, cadmiumfrei) — REACH-konform
 - 3 EPDM-Dichtungen
 - Uw mit 44 mm Dreifach + Warm Edge: **0,72 W/(m²K)**
-- Uw mit 52 mm Dreifach + Warm Edge: **0,66 W/(m²K)**
+- Uw mit 52 mm Dreifach + Warm Edge: **0,70 W/(m²K)**
 - Zertifizierung: IFT Rosenheim, EN 12608 Klasse A
 - Garantie: 40 Jahre Profil
 
-**Salamander bluEvolution 82 (günstige nZEB-Lösung):**
-- 6 Kammern, 82 mm, Uf = 1,0 W/(m²K)
-- Uw mit 44 mm Dreifach: **0,80-0,88 W/(m²K)** — marginales nZEB
+**Salamander GreenEvolution 76 (günstige Lösung):**
+- 5 Kammern, 76 mm, Uf = 1,2 W/(m²K)
+- Uw mit Dreifachverglasung: **ab 0,73 W/(m²K)**
 
 ### Aluminium mit thermischer Trennung — nZEB mit Premium-Design
 
 **Alumil S77 Supreme:**
-- 77 mm, 34 mm thermische Trennung aus Polyamid, Uf = 1,3 W/(m²K)
+- 77–93 mm, 40 mm thermische Trennung aus Polyamid, Uf ab 0,86 W/(m²K)
 - Uw mit 44 mm Dreifach: **1,0-1,15 W/(m²K)** — im Bereich des Referenzwerts von 1,11
 
 **Wichtige Einschränkung:** Standard-Aluminium kann Uw ≤ 0,85 W/(m²K) nicht erreichen.
@@ -653,7 +653,7 @@ PVC für maximalen Uw und Kostenwirksamkeit. Aluminium für große Verglasungsfl
 - Profilzertifizierung: IFT Rosenheim oder TÜV für deklarierten Uf
 
 ### Welche sind die effizientesten Fenster auf dem rumänischen Markt 2026?
-Salamander bluEvolution 92 + 52 mm Saint-Gobain Dreifach + Warm Edge + Blaugelb Vorblendrahmen: **Uw = 0,66 W/(m²K)** — das beste kommerziell erhältliche System in Rumänien für Wohngebäude.
+Salamander bluEvolution 92 + 52 mm Saint-Gobain Dreifach + Warm Edge + Blaugelb Vorblendrahmen: **Uw = 0,70 W/(m²K)** — das beste kommerziell erhältliche System in Rumänien für Wohngebäude.
 
 ## Fazit
 
@@ -746,18 +746,18 @@ Dans une maison avec des murs isolés à 20 cm (U = 0,20 W/m²K) et un toit à 3
 - Stabilisants Ca-Zn (sans plomb, sans cadmium) — conforme REACH
 - 3 joints EPDM
 - Uw avec triple 44 mm + Warm Edge : **0,72 W/(m²K)**
-- Uw avec triple 52 mm + Warm Edge : **0,66 W/(m²K)**
+- Uw avec triple 52 mm + Warm Edge : **0,70 W/(m²K)**
 - Certification : IFT Rosenheim, EN 12608 Classe A
 - Garantie : 40 ans profilé
 
-**Salamander bluEvolution 82 (solution nZEB économique) :**
-- 6 chambres, 82 mm, Uf = 1,0 W/(m²K)
-- Uw avec triple 44 mm : **0,80-0,88 W/(m²K)** — nZEB marginal
+**Salamander GreenEvolution 76 (solution économique) :**
+- 5 chambres, 76 mm, Uf = 1,2 W/(m²K)
+- Uw avec triple vitrage : **à partir de 0,73 W/(m²K)**
 
 ### Aluminium avec rupture de pont thermique — nZEB design premium
 
 **Alumil S77 Supreme :**
-- 77 mm, rupture thermique polyamide 34 mm, Uf = 1,3 W/(m²K)
+- 77–93 mm, rupture thermique polyamide 40 mm, Uf à partir de 0,86 W/(m²K)
 - Uw avec triple 44 mm : **1,0-1,15 W/(m²K)** — autour de la valeur de référence de 1,11
 
 **Limitation importante :** L'aluminium standard ne peut pas atteindre Uw ≤ 0,85 W/(m²K).
@@ -850,7 +850,7 @@ PVC pour Uw maximal et rapport qualité-prix. Aluminium pour grandes surfaces vi
 - Certification profilé : IFT Rosenheim ou TÜV pour Uf déclaré
 
 ### Quelles sont les fenêtres les plus efficaces sur le marché roumain 2026 ?
-Salamander bluEvolution 92 + triple 52 mm Saint-Gobain + Warm Edge + précadres Blaugelb : **Uw = 0,66 W/(m²K)** — le meilleur système disponible commercialement en Roumanie.
+Salamander bluEvolution 92 + triple 52 mm Saint-Gobain + Warm Edge + précadres Blaugelb : **Uw = 0,70 W/(m²K)** — le meilleur système disponible commercialement en Roumanie.
 
 ## Conclusion
 
@@ -943,18 +943,18 @@ En una casa con paredes aisladas a 20 cm (U = 0,20 W/m²K) y tejado a 30 cm (U =
 - Estabilizadores Ca-Zn (sin plomo, sin cadmio) — conforme REACH
 - 3 juntas EPDM
 - Uw con triple 44 mm + Warm Edge: **0,72 W/(m²K)**
-- Uw con triple 52 mm + Warm Edge: **0,66 W/(m²K)**
+- Uw con triple 52 mm + Warm Edge: **0,70 W/(m²K)**
 - Certificación: IFT Rosenheim, EN 12608 Clase A
 - Garantía: 40 años perfil
 
-**Salamander bluEvolution 82 (solución nZEB económica):**
-- 6 cámaras, 82 mm, Uf = 1,0 W/(m²K)
-- Uw con triple 44 mm: **0,80-0,88 W/(m²K)** — nZEB marginal
+**Salamander GreenEvolution 76 (solución económica):**
+- 5 cámaras, 76 mm, Uf = 1,2 W/(m²K)
+- Uw con triple acristalamiento: **desde 0,73 W/(m²K)**
 
 ### Aluminio con rotura de puente térmico — nZEB con diseño premium
 
 **Alumil S77 Supreme:**
-- 77 mm, rotura de puente térmico poliamida 34 mm, Uf = 1,3 W/(m²K)
+- 77–93 mm, rotura de puente térmico poliamida 40 mm, Uf desde 0,86 W/(m²K)
 - Uw con triple 44 mm: **1,0-1,15 W/(m²K)** — en torno al valor de referencia de 1,11
 
 **Limitación importante:** El aluminio estándar no puede alcanzar Uw ≤ 0,85 W/(m²K).
@@ -1047,7 +1047,7 @@ PVC para Uw máximo y eficiencia de costes. Aluminio para grandes superficies ac
 - Certificación del perfil: IFT Rosenheim o TÜV para Uf declarado
 
 ### ¿Cuáles son las ventanas más eficientes en el mercado rumano 2026?
-Salamander bluEvolution 92 + triple 52 mm Saint-Gobain + Warm Edge + premarcos Blaugelb: **Uw = 0,66 W/(m²K)** — el mejor sistema disponible comercialmente en Rumanía.
+Salamander bluEvolution 92 + triple 52 mm Saint-Gobain + Warm Edge + premarcos Blaugelb: **Uw = 0,70 W/(m²K)** — el mejor sistema disponible comercialmente en Rumanía.
 
 ## Conclusión
 
@@ -1140,18 +1140,18 @@ In una casa con pareti isolate a 20 cm (U = 0,20 W/m²K) e tetto a 30 cm (U = 0,
 - Stabilizzanti Ca-Zn (senza piombo, senza cadmio) — conforme REACH
 - 3 guarnizioni EPDM
 - Uw con triplo 44 mm + Warm Edge: **0,72 W/(m²K)**
-- Uw con triplo 52 mm + Warm Edge: **0,66 W/(m²K)**
+- Uw con triplo 52 mm + Warm Edge: **0,70 W/(m²K)**
 - Certificazione: IFT Rosenheim, EN 12608 Classe A
 - Garanzia: 40 anni profilo
 
-**Salamander bluEvolution 82 (soluzione nZEB economica):**
-- 6 camere, 82 mm, Uf = 1,0 W/(m²K)
-- Uw con triplo 44 mm: **0,80-0,88 W/(m²K)** — nZEB marginale
+**Salamander GreenEvolution 76 (soluzione economica):**
+- 5 camere, 76 mm, Uf = 1,2 W/(m²K)
+- Uw con triplo vetro: **a partire da 0,73 W/(m²K)**
 
 ### Alluminio con taglio termico — nZEB con design premium
 
 **Alumil S77 Supreme:**
-- 77 mm, taglio termico poliammide 34 mm, Uf = 1,3 W/(m²K)
+- 77–93 mm, taglio termico poliammide 40 mm, Uf a partire da 0,86 W/(m²K)
 - Uw con triplo 44 mm: **1,0-1,15 W/(m²K)** — intorno al valore di riferimento di 1,11
 
 **Limitazione importante:** L'alluminio standard non può raggiungere Uw ≤ 0,85 W/(m²K).
@@ -1244,7 +1244,7 @@ PVC per Uw massimo ed efficienza dei costi. Alluminio per grandi superfici vetra
 - Certificazione profilo: IFT Rosenheim o TÜV per Uf dichiarato
 
 ### Quali sono le finestre più efficienti sul mercato romeno 2026?
-Salamander bluEvolution 92 + triplo 52 mm Saint-Gobain + Warm Edge + controtelai Blaugelb: **Uw = 0,66 W/(m²K)** — il miglior sistema disponibile commercialmente in Romania.
+Salamander bluEvolution 92 + triplo 52 mm Saint-Gobain + Warm Edge + controtelai Blaugelb: **Uw = 0,70 W/(m²K)** — il miglior sistema disponibile commercialmente in Romania.
 
 ## Conclusione
 
@@ -2336,8 +2336,8 @@ De ce apare dilema PVC vs aluminiu? Ambele materiale au evoluat enorm. PVC-ul mo
 - Uw total cu tripan Saint-Gobain + Warm Edge: **0,72 W/(m²K)**
 
 **Aluminiu (Alumil S77 Supreme):**
-- Conductivitate termică profil pur: λ = 160 W/(mK) — redusă la ~0,3 W/(mK) prin bariera de poliamidă 34 mm
-- Uf profil = 1,3 W/(m²K)
+- Conductivitate termică profil pur: λ = 160 W/(mK) — redusă la ~0,3 W/(mK) prin bariera de poliamidă 40 mm
+- Uf profil de la 0,86 W/(m²K)
 - Uw total cu tripan + Warm Edge: **1,0-1,2 W/(m²K)**
 
 **Concluzie izolație:** PVC câștigă clar — diferența de 0,3-0,5 W/(m²K) în Uw înseamnă ~30% mai multă căldură pierdută prin ferestre din aluminiu față de PVC la aceleași dimensiuni.
@@ -2392,7 +2392,7 @@ Elementele critice în ordine de impact:
 
 ## Secțiunea 3 — Când merită PVC și când aluminiu
 
-**Apartament renovare:** PVC Salamander bluEvolution 82 sau 92 — Uw = 0,72, economie 20-30% față de aluminiu
+**Apartament renovare:** PVC Salamander GreenEvolution 76 sau bluEvolution 92 — Uw = 0,72, economie 20-30% față de aluminiu
 
 **Vilă premium:** Mix PVC pentru dormitoare/băi + Aluminiu culisante pentru living
 
@@ -2420,7 +2420,7 @@ Elementele critice în ordine de impact:
 PVC Salamander bluEvolution 92 — Uw = 0,72 față de 1,0-1,2 pentru aluminiu. Diferența vine din conductivitatea termică: PVC λ = 0,17 W/(mK) vs aluminiu pur λ = 160 W/(mK).
 
 ### Aluminiul modern mai face condens?
-Cu rupere de punte termică 34 mm + Warm Edge + montaj corect: nu face condens la exterior de -15°C.
+Cu rupere de punte termică 40 mm + Warm Edge + montaj corect: nu face condens la exterior de -15°C.
 
 ### Ce Uw trebuie pentru nZEB?
 Metodologia Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K) pentru ferestrele caselor noi (1,20 la renovări). Case pasive PHI: Uw ≤ 0,8 W/(m²K).
@@ -2429,7 +2429,7 @@ Metodologia Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K) pentru ferestrele caselo
 Da, întotdeauna pentru nZEB. Ug = 0,5 față de 1,0 — reduce pierderile prin geam cu 50%. Diferența de preț (15-25%) se amortizează în 5-8 ani.
 
 ### Ce profile sunt recomandate pentru case pasive?
-Salamander bluEvolution 92 + tripan 52 mm Saint-Gobain SGG + Warm Edge + precadre Blaugelb Triotherm+. Uw = 0,66-0,72 W/(m²K).
+Salamander bluEvolution 92 + tripan 52 mm Saint-Gobain SGG + Warm Edge + precadre Blaugelb Triotherm+. Uw = 0,70-0,72 W/(m²K).
 
 ### Care rezistă mai mult: PVC sau aluminiu?
 Aluminiul — 50+ ani față de 40+ ani PVC. Ambele superioare oricărei alternative din lemn netratat.
@@ -2441,7 +2441,7 @@ Aluminiu fără excepție. Rezistență structurală 3-4x superioară, permite c
 
 | Scenariu | Material recomandat | Motivul principal |
 |---|---|---|
-| Apartament renovare | PVC Salamander bluEvolution 82 | Uw optim, cost-eficient |
+| Apartament renovare | PVC Salamander GreenEvolution 76 | Uw optim, cost-eficient |
 | Casă nouă standard | PVC Salamander bluEvolution 92 | nZEB cu marjă de siguranță |
 | Casă pasivă PHI | PVC bluEvolution 92 + Blaugelb | Singura opțiune sub Uw 0,8 |
 | Vilă cu living mare | Mix PVC + Aluminiu culisante | Fiecare material la locul lui |
@@ -2477,8 +2477,8 @@ Why does the PVC-versus-aluminium dilemma come up at all? Both materials have mo
 - Total Uw with Saint-Gobain triple glazing + Warm Edge: **0.72 W/(m²K)**
 
 **Aluminium (Alumil S77 Supreme):**
-- Pure profile conductivity: λ = 160 W/(mK) — brought down to about 0.3 W/(mK) by the 34 mm polyamide thermal break
-- Profile Uf = 1.3 W/(m²K)
+- Pure profile conductivity: λ = 160 W/(mK) — brought down to about 0.3 W/(mK) by the 40 mm polyamide thermal break
+- Profile Uf from 0.86 W/(m²K)
 - Total Uw with triple glazing + Warm Edge: **1.0-1.2 W/(m²K)**
 
 **Verdict on insulation:** PVC wins clearly. A gap of 0.3-0.5 W/(m²K) in Uw means roughly 30% more heat lost through aluminium windows than through PVC ones at the same dimensions.
@@ -2533,7 +2533,7 @@ The critical elements, in order of impact:
 
 ## Section 3 — When PVC is worth it and when aluminium is
 
-**Apartment renovation:** Salamander PVC bluEvolution 82 or 92 — Uw = 0.72, saving 20-30% against aluminium
+**Apartment renovation:** Salamander PVC GreenEvolution 76 or bluEvolution 92 — Uw = 0.72, saving 20-30% against aluminium
 
 **Premium villa:** a mix — PVC for bedrooms and bathrooms, aluminium sliders for the living area
 
@@ -2561,7 +2561,7 @@ The critical elements, in order of impact:
 PVC, through the Salamander bluEvolution 92 — Uw = 0.72 against 1.0-1.2 for aluminium. The difference comes from thermal conductivity: PVC λ = 0.17 W/(mK) against pure aluminium λ = 160 W/(mK).
 
 ### Does modern aluminium still cause condensation?
-With a 34 mm thermal break, a Warm Edge spacer and correct installation, there is no condensation down to an outside temperature of −15 °C.
+With a 40 mm thermal break, a Warm Edge spacer and correct installation, there is no condensation down to an outside temperature of −15 °C.
 
 ### What Uw do you need for nZEB?
 The Mc 001-2022 methodology recommends Uw ≤ 1.11 W/(m²K) for windows in new houses (1.20 for renovations). PHI passive houses: Uw ≤ 0.8 W/(m²K).
@@ -2570,7 +2570,7 @@ The Mc 001-2022 methodology recommends Uw ≤ 1.11 W/(m²K) for windows in new h
 Yes, always for nZEB. Ug = 0.5 against 1.0 halves the losses through the glass. The price difference of 15-25% pays for itself in 5-8 years.
 
 ### Which profiles are recommended for passive houses?
-Salamander bluEvolution 92 with 52 mm Saint-Gobain SGG triple glazing, a Warm Edge spacer and Blaugelb Triotherm+ precasings. Uw = 0.66-0.72 W/(m²K).
+Salamander bluEvolution 92 with 52 mm Saint-Gobain SGG triple glazing, a Warm Edge spacer and Blaugelb Triotherm+ precasings. Uw = 0.70-0.72 W/(m²K).
 
 ### Which lasts longer: PVC or aluminium?
 Aluminium — 50+ years against 40+ for PVC. Both outlast any untreated timber alternative.
@@ -2582,7 +2582,7 @@ Aluminium, without exception. Its structural strength is three to four times hig
 
 | Scenario | Recommended material | Main reason |
 |---|---|---|
-| Apartment renovation | PVC Salamander bluEvolution 82 | Optimal Uw, cost-effective |
+| Apartment renovation | PVC Salamander GreenEvolution 76 | Optimal Uw, cost-effective |
 | Standard new house | PVC Salamander bluEvolution 92 | nZEB with a safety margin |
 | PHI passive house | PVC bluEvolution 92 + Blaugelb | The only option below Uw 0.8 |
 | Villa with a large living area | Mix of PVC and aluminium sliders | Each material where it belongs |
@@ -2615,8 +2615,8 @@ Warum stellt sich die Frage PVC gegen Aluminium überhaupt? Beide Werkstoffe hab
 - Gesamt-Uw mit Saint-Gobain Dreifachverglasung + Warm Edge: **0,72 W/(m²K)**
 
 **Aluminium (Alumil S77 Supreme):**
-- Leitfähigkeit des reinen Profils: λ = 160 W/(mK) — durch die 34 mm Polyamid-Trennung auf etwa 0,3 W/(mK) gesenkt
-- Profil-Uf = 1,3 W/(m²K)
+- Leitfähigkeit des reinen Profils: λ = 160 W/(mK) — durch die 40 mm Polyamid-Trennung auf etwa 0,3 W/(mK) gesenkt
+- Profil-Uf ab 0,86 W/(m²K)
 - Gesamt-Uw mit Dreifachverglasung + Warm Edge: **1,0-1,2 W/(m²K)**
 
 **Fazit zur Dämmung:** PVC gewinnt deutlich. Ein Unterschied von 0,3-0,5 W/(m²K) im Uw bedeutet rund 30 % mehr Wärmeverlust durch Aluminiumfenster als durch PVC-Fenster bei gleichen Abmessungen.
@@ -2671,7 +2671,7 @@ Die entscheidenden Größen, nach Wirkung geordnet:
 
 ## Abschnitt 3 — Wann sich PVC lohnt und wann Aluminium
 
-**Wohnungssanierung:** Salamander PVC bluEvolution 82 oder 92 — Uw = 0,72, 20-30 % günstiger als Aluminium
+**Wohnungssanierung:** Salamander PVC GreenEvolution 76 oder bluEvolution 92 — Uw = 0,72, 20-30 % günstiger als Aluminium
 
 **Hochwertige Villa:** eine Mischung — PVC für Schlaf- und Badezimmer, Aluminium-Schiebeelemente für den Wohnbereich
 
@@ -2699,7 +2699,7 @@ Die entscheidenden Größen, nach Wirkung geordnet:
 PVC, über das Salamander bluEvolution 92 — Uw = 0,72 gegenüber 1,0-1,2 bei Aluminium. Der Unterschied kommt aus der Wärmeleitfähigkeit: PVC λ = 0,17 W/(mK) gegenüber reinem Aluminium λ = 160 W/(mK).
 
 ### Bildet modernes Aluminium noch Kondensat?
-Mit 34 mm thermischer Trennung, Warm-Edge-Abstandhalter und fachgerechter Montage entsteht bis −15 °C Außentemperatur kein Kondensat.
+Mit 40 mm thermischer Trennung, Warm-Edge-Abstandhalter und fachgerechter Montage entsteht bis −15 °C Außentemperatur kein Kondensat.
 
 ### Welchen Uw braucht man für nZEB?
 Die Methodik Mc 001-2022 empfiehlt Uw ≤ 1,11 W/(m²K) für Fenster in Neubauten (1,20 bei Sanierungen). PHI-Passivhäuser: Uw ≤ 0,8 W/(m²K).
@@ -2708,7 +2708,7 @@ Die Methodik Mc 001-2022 empfiehlt Uw ≤ 1,11 W/(m²K) für Fenster in Neubaute
 Ja, für nZEB immer. Ug = 0,5 gegenüber 1,0 halbiert die Verluste durch das Glas. Der Preisunterschied von 15-25 % amortisiert sich in 5-8 Jahren.
 
 ### Welche Profile werden für Passivhäuser empfohlen?
-Salamander bluEvolution 92 mit 52 mm Saint-Gobain SGG Dreifachglas, Warm-Edge-Abstandhalter und Blaugelb Triotherm+ Vorblendrahmen. Uw = 0,66-0,72 W/(m²K).
+Salamander bluEvolution 92 mit 52 mm Saint-Gobain SGG Dreifachglas, Warm-Edge-Abstandhalter und Blaugelb Triotherm+ Vorblendrahmen. Uw = 0,70-0,72 W/(m²K).
 
 ### Was hält länger: PVC oder Aluminium?
 Aluminium — 50+ Jahre gegenüber 40+ bei PVC. Beide übertreffen jede Alternative aus unbehandeltem Holz.
@@ -2720,7 +2720,7 @@ Aluminium, ausnahmslos. Die Tragfähigkeit ist drei- bis viermal höher und erla
 
 | Szenario | Empfohlenes Material | Hauptgrund |
 |---|---|---|
-| Wohnungssanierung | PVC Salamander bluEvolution 82 | Optimaler Uw, wirtschaftlich |
+| Wohnungssanierung | PVC Salamander GreenEvolution 76 | Optimaler Uw, wirtschaftlich |
 | Standard-Neubau | PVC Salamander bluEvolution 92 | nZEB mit Sicherheitsreserve |
 | PHI-Passivhaus | PVC bluEvolution 92 + Blaugelb | Einzige Option unter Uw 0,8 |
 | Villa mit großem Wohnbereich | Mischung aus PVC und Aluminium-Schiebeelementen | Jedes Material an seinem Platz |
@@ -2751,8 +2751,8 @@ Pourquoi ce dilemme entre PVC et aluminium ? Les deux matériaux ont énormémen
 - Uw total avec triple vitrage Saint-Gobain + Warm Edge : **0,72 W/(m²K)**
 
 **Aluminium (Alumil S77 Supreme) :**
-- Conductivité du profilé pur : λ = 160 W/(mK) — ramenée à environ 0,3 W/(mK) par la rupture de pont thermique en polyamide de 34 mm
-- Uf du profilé = 1,3 W/(m²K)
+- Conductivité du profilé pur : λ = 160 W/(mK) — ramenée à environ 0,3 W/(mK) par la rupture de pont thermique en polyamide de 40 mm
+- Uf du profilé à partir de 0,86 W/(m²K)
 - Uw total avec triple vitrage + Warm Edge : **1,0-1,2 W/(m²K)**
 
 **Conclusion sur l’isolation :** le PVC l’emporte nettement. Un écart de 0,3 à 0,5 W/(m²K) sur le Uw représente environ 30 % de chaleur perdue en plus par des fenêtres en aluminium à dimensions égales.
@@ -2807,7 +2807,7 @@ Les éléments critiques, par ordre d’impact :
 
 ## Section 3 — Quand le PVC vaut le coup et quand l’aluminium
 
-**Rénovation d’appartement :** PVC Salamander bluEvolution 82 ou 92 — Uw = 0,72, économie de 20 à 30 % par rapport à l’aluminium
+**Rénovation d’appartement :** PVC Salamander GreenEvolution 76 ou bluEvolution 92 — Uw = 0,72, économie de 20 à 30 % par rapport à l’aluminium
 
 **Villa haut de gamme :** un mixte — PVC pour les chambres et les salles de bains, coulissants aluminium pour le séjour
 
@@ -2835,7 +2835,7 @@ Les éléments critiques, par ordre d’impact :
 Le PVC, via le Salamander bluEvolution 92 — Uw = 0,72 contre 1,0-1,2 pour l’aluminium. L’écart vient de la conductivité thermique : PVC λ = 0,17 W/(mK) contre aluminium pur λ = 160 W/(mK).
 
 ### L’aluminium moderne provoque-t-il encore de la condensation ?
-Avec une rupture thermique de 34 mm, un intercalaire Warm Edge et une pose correcte, il n’y a pas de condensation jusqu’à −15 °C à l’extérieur.
+Avec une rupture thermique de 40 mm, un intercalaire Warm Edge et une pose correcte, il n’y a pas de condensation jusqu’à −15 °C à l’extérieur.
 
 ### Quel Uw faut-il pour le nZEB ?
 La méthodologie Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K) pour les fenêtres des maisons neuves (1,20 en rénovation). Maisons passives PHI : Uw ≤ 0,8 W/(m²K).
@@ -2844,7 +2844,7 @@ La méthodologie Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K) pour les fenêtres 
 Oui, toujours en nZEB. Ug = 0,5 contre 1,0 réduit de moitié les déperditions par le vitrage. L’écart de prix de 15 à 25 % s’amortit en 5 à 8 ans.
 
 ### Quels profilés recommande-t-on pour les maisons passives ?
-Salamander bluEvolution 92 avec triple vitrage Saint-Gobain SGG de 52 mm, intercalaire Warm Edge et précadres Blaugelb Triotherm+. Uw = 0,66-0,72 W/(m²K).
+Salamander bluEvolution 92 avec triple vitrage Saint-Gobain SGG de 52 mm, intercalaire Warm Edge et précadres Blaugelb Triotherm+. Uw = 0,70-0,72 W/(m²K).
 
 ### Lequel dure le plus longtemps : PVC ou aluminium ?
 L’aluminium — plus de 50 ans contre plus de 40 pour le PVC. Les deux dépassent toute alternative en bois non traité.
@@ -2856,7 +2856,7 @@ L’aluminium, sans exception. Sa résistance structurelle est trois à quatre f
 
 | Scénario | Matériau recommandé | Raison principale |
 |---|---|---|
-| Rénovation d’appartement | PVC Salamander bluEvolution 82 | Uw optimal, économique |
+| Rénovation d’appartement | PVC Salamander GreenEvolution 76 | Uw optimal, économique |
 | Maison neuve standard | PVC Salamander bluEvolution 92 | nZEB avec marge de sécurité |
 | Maison passive PHI | PVC bluEvolution 92 + Blaugelb | Seule option sous Uw 0,8 |
 | Villa avec grand séjour | Mixte PVC et coulissants aluminium | Chaque matériau à sa place |
@@ -2887,8 +2887,8 @@ Las ventanas y las puertas suponen el **15-25 % de la superficie de la envolvent
 - Uw total con triple vidrio Saint-Gobain + Warm Edge: **0,72 W/(m²K)**
 
 **Aluminio (Alumil S77 Supreme):**
-- Conductividad del perfil puro: λ = 160 W/(mK) — reducida a unos 0,3 W/(mK) por la rotura de puente térmico de poliamida de 34 mm
-- Uf del perfil = 1,3 W/(m²K)
+- Conductividad del perfil puro: λ = 160 W/(mK) — reducida a unos 0,3 W/(mK) por la rotura de puente térmico de poliamida de 40 mm
+- Uf del perfil desde 0,86 W/(m²K)
 - Uw total con triple vidrio + Warm Edge: **1,0-1,2 W/(m²K)**
 
 **Conclusión sobre el aislamiento:** gana el PVC con claridad. Una diferencia de 0,3-0,5 W/(m²K) en el Uw significa aproximadamente un 30 % más de calor perdido por ventanas de aluminio que por las de PVC a igualdad de dimensiones.
@@ -2943,7 +2943,7 @@ Los elementos críticos, por orden de impacto:
 
 ## Sección 3 — Cuándo compensa el PVC y cuándo el aluminio
 
-**Reforma de piso:** PVC Salamander bluEvolution 82 o 92 — Uw = 0,72, un 20-30 % más económico que el aluminio
+**Reforma de piso:** PVC Salamander GreenEvolution 76 o bluEvolution 92 — Uw = 0,72, un 20-30 % más económico que el aluminio
 
 **Chalet premium:** una combinación — PVC para dormitorios y baños, correderas de aluminio para el salón
 
@@ -2971,7 +2971,7 @@ Los elementos críticos, por orden de impacto:
 El PVC, mediante el Salamander bluEvolution 92 — Uw = 0,72 frente a 1,0-1,2 del aluminio. La diferencia viene de la conductividad térmica: PVC λ = 0,17 W/(mK) frente a aluminio puro λ = 160 W/(mK).
 
 ### ¿El aluminio moderno sigue provocando condensación?
-Con rotura de puente térmico de 34 mm, separador Warm Edge e instalación correcta no aparece condensación hasta −15 °C en el exterior.
+Con rotura de puente térmico de 40 mm, separador Warm Edge e instalación correcta no aparece condensación hasta −15 °C en el exterior.
 
 ### ¿Qué Uw se necesita para nZEB?
 La metodología Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K) para las ventanas de casas nuevas (1,20 en rehabilitación). Casas pasivas PHI: Uw ≤ 0,8 W/(m²K).
@@ -2980,7 +2980,7 @@ La metodología Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K) para las ventanas de
 Sí, siempre en nZEB. Ug = 0,5 frente a 1,0 reduce a la mitad las pérdidas por el vidrio. La diferencia de precio del 15-25 % se amortiza en 5-8 años.
 
 ### ¿Qué perfiles se recomiendan para casas pasivas?
-Salamander bluEvolution 92 con triple vidrio Saint-Gobain SGG de 52 mm, separador Warm Edge y premarcos Blaugelb Triotherm+. Uw = 0,66-0,72 W/(m²K).
+Salamander bluEvolution 92 con triple vidrio Saint-Gobain SGG de 52 mm, separador Warm Edge y premarcos Blaugelb Triotherm+. Uw = 0,70-0,72 W/(m²K).
 
 ### ¿Cuál dura más: PVC o aluminio?
 El aluminio — más de 50 años frente a más de 40 del PVC. Ambos superan a cualquier alternativa de madera sin tratar.
@@ -2992,7 +2992,7 @@ Aluminio, sin excepción. Su resistencia estructural es tres o cuatro veces mayo
 
 | Escenario | Material recomendado | Motivo principal |
 |---|---|---|
-| Reforma de piso | PVC Salamander bluEvolution 82 | Uw óptimo, coste ajustado |
+| Reforma de piso | PVC Salamander GreenEvolution 76 | Uw óptimo, coste ajustado |
 | Casa nueva estándar | PVC Salamander bluEvolution 92 | nZEB con margen de seguridad |
 | Casa pasiva PHI | PVC bluEvolution 92 + Blaugelb | Única opción por debajo de Uw 0,8 |
 | Chalet con salón amplio | Combinación de PVC y correderas de aluminio | Cada material en su sitio |
@@ -3023,8 +3023,8 @@ Perché nasce il dilemma PVC contro alluminio? Entrambi i materiali sono molto c
 - Uw totale con triplo vetro Saint-Gobain + Warm Edge: **0,72 W/(m²K)**
 
 **Alluminio (Alumil S77 Supreme):**
-- Conduttività del profilo puro: λ = 160 W/(mK) — ridotta a circa 0,3 W/(mK) dal taglio termico in poliammide da 34 mm
-- Uf del profilo = 1,3 W/(m²K)
+- Conduttività del profilo puro: λ = 160 W/(mK) — ridotta a circa 0,3 W/(mK) dal taglio termico in poliammide da 40 mm
+- Uf del profilo a partire da 0,86 W/(m²K)
 - Uw totale con triplo vetro + Warm Edge: **1,0-1,2 W/(m²K)**
 
 **Conclusione sull’isolamento:** vince nettamente il PVC. Uno scarto di 0,3-0,5 W/(m²K) sull’Uw significa circa il 30 % di calore in più disperso dalle finestre in alluminio rispetto a quelle in PVC a parità di dimensioni.
@@ -3079,7 +3079,7 @@ Gli elementi critici, in ordine di impatto:
 
 ## Sezione 3 — Quando conviene il PVC e quando l’alluminio
 
-**Ristrutturazione di appartamento:** PVC Salamander bluEvolution 82 o 92 — Uw = 0,72, con un risparmio del 20-30 % rispetto all’alluminio
+**Ristrutturazione di appartamento:** PVC Salamander GreenEvolution 76 o bluEvolution 92 — Uw = 0,72, con un risparmio del 20-30 % rispetto all’alluminio
 
 **Villa di pregio:** una combinazione — PVC per camere e bagni, scorrevoli in alluminio per il soggiorno
 
@@ -3107,7 +3107,7 @@ Gli elementi critici, in ordine di impatto:
 Il PVC, tramite il Salamander bluEvolution 92 — Uw = 0,72 contro 1,0-1,2 dell’alluminio. La differenza nasce dalla conduttività termica: PVC λ = 0,17 W/(mK) contro alluminio puro λ = 160 W/(mK).
 
 ### L’alluminio moderno forma ancora condensa?
-Con taglio termico da 34 mm, distanziale Warm Edge e posa corretta non si forma condensa fino a −15 °C esterni.
+Con taglio termico da 40 mm, distanziale Warm Edge e posa corretta non si forma condensa fino a −15 °C esterni.
 
 ### Quale Uw serve per lo nZEB?
 La metodologia Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K) per le finestre delle case nuove (1,20 nelle ristrutturazioni). Case passive PHI: Uw ≤ 0,8 W/(m²K).
@@ -3116,7 +3116,7 @@ La metodologia Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K) per le finestre delle
 Sì, sempre per lo nZEB. Ug = 0,5 contro 1,0 dimezza le dispersioni attraverso il vetro. La differenza di prezzo del 15-25 % si ammortizza in 5-8 anni.
 
 ### Quali profili sono consigliati per le case passive?
-Salamander bluEvolution 92 con triplo vetro Saint-Gobain SGG da 52 mm, distanziale Warm Edge e controtelai Blaugelb Triotherm+. Uw = 0,66-0,72 W/(m²K).
+Salamander bluEvolution 92 con triplo vetro Saint-Gobain SGG da 52 mm, distanziale Warm Edge e controtelai Blaugelb Triotherm+. Uw = 0,70-0,72 W/(m²K).
 
 ### Quale dura di più: PVC o alluminio?
 L’alluminio — oltre 50 anni contro oltre 40 del PVC. Entrambi superano qualsiasi alternativa in legno non trattato.
@@ -3128,7 +3128,7 @@ Alluminio, senza eccezioni. La resistenza strutturale è tre o quattro volte sup
 
 | Scenario | Materiale consigliato | Motivo principale |
 |---|---|---|
-| Ristrutturazione appartamento | PVC Salamander bluEvolution 82 | Uw ottimale, costo contenuto |
+| Ristrutturazione appartamento | PVC Salamander GreenEvolution 76 | Uw ottimale, costo contenuto |
 | Casa nuova standard | PVC Salamander bluEvolution 92 | nZEB con margine di sicurezza |
 | Casa passiva PHI | PVC bluEvolution 92 + Blaugelb | Unica opzione sotto Uw 0,8 |
 | Villa con ampio soggiorno | Combinazione PVC e scorrevoli in alluminio | Ogni materiale al posto giusto |
@@ -3188,8 +3188,8 @@ Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [
       it: 'Migliori porte in alluminio nel Settore 1 Bucarest — Guida completa 2026',
     },
     metaDesc: {
-      ro: "Uși din aluminiu în Sector 1: sistemele Alumil S77 și SF85, barieră termică 34 mm, geam triplu și clasă antiefracție RC2 sau RC3. Cum alegi corect.",
-      en: "Aluminium doors in Sector 1 Bucharest: Alumil S77 and SF85 systems, 34 mm thermal break, triple glazing and RC2 or RC3 security classes.",
+      ro: "Uși din aluminiu în Sector 1: sistemele Alumil S77 și SF85, barieră termică 40 mm, geam triplu și clasă antiefracție RC2 sau RC3. Cum alegi corect.",
+      en: "Aluminium doors in Sector 1 Bucharest: Alumil S77 and SF85 systems, 40 mm thermal break, triple glazing and RC2 or RC3 security classes.",
       de: "Aluminiumtüren in Sektor 1 Bukarest: Alumil S77 und SF85, 40 mm Wärmedämmung, Dreifachverglasung und Widerstandsklassen RC2 oder RC3.",
       fr: "Portes en aluminium secteur 1 Bucarest : systèmes Alumil S77 et SF85, rupture thermique 40 mm, triple vitrage et classes RC2 ou RC3.",
       es: "Puertas de aluminio en el Sector 1 de Bucarest: sistemas Alumil S77 y SF85, rotura térmica de 40 mm, triple vidrio y clases RC2 o RC3.",
@@ -3233,7 +3233,7 @@ Modelul din imaginea de mai sus este reprezentativ pentru această categorie: pr
 Varianta cu vitrare completă sau semi-vitrată — adesea utilizată la intrările în blocuri premium și birouri din Sector 1. Sistemul Alumil S77 Supreme oferă:
 
 - **Adâncime:** 77 mm
-- **Rupere de punte termică:** 34 mm poliamidă
+- **Rupere de punte termică:** 40 mm poliamidă
 - **Geam triplu Saint-Gobain SGG:** Ug = 0,5 W/(m²K), Low-E, argon
 - **Izolare fonică:** Rw = 38-42 dB (ideal pentru zonele circulate din Floreasca/Aviatorilor)
 - **Dimensiuni maxime canat:** 1200 × 2800 mm
@@ -3335,7 +3335,7 @@ The Alumil SF85 Supreme system for this application:
 
 ### 2. Fully Glazed Entrance Doors
 
-Alumil S77 Supreme: 77 mm depth, 34 mm thermal break, Saint-Gobain SGG triple glazing (Ug = 0.5), acoustic attenuation Rw = 38-42 dB — ideal for high-traffic areas in Floreasca/Aviatorilor.
+Alumil S77 Supreme: 77–93 mm depth, 40 mm thermal break, Saint-Gobain SGG triple glazing (Ug = 0.5), acoustic attenuation Rw = 38-42 dB — ideal for high-traffic areas in Floreasca/Aviatorilor.
 
 ### 3. Common Access Doors for Residential Blocks
 
@@ -3415,7 +3415,7 @@ Sektor 1 Bukarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstr�
 Alumil SF85 Supreme: 85 mm Tiefe, 34 mm thermische Trennung aus Polyamid, Uf = 1,3 W/(m²K), 44 mm PU-Dämmplatte, RC2 Einbruchhemmung, Dreifachverglasung Ug = 0,5 W/(m²K).
 
 ### 2. Vollverglaste Eingangstüren
-Alumil S77 Supreme: 77 mm, 34 mm thermische Trennung, Saint-Gobain SGG Dreifachverglasung, Schallschutz Rw = 38-42 dB.
+Alumil S77 Supreme: 77–93 mm, 40 mm thermische Trennung, Saint-Gobain SGG Dreifachverglasung, Schallschutz Rw = 38-42 dB.
 
 ### 3. Gemeinschaftszugangstüren für Wohnanlagen
 Alumil M19800 Smartia: kompatibel mit Zugangskontrollsystemen, hydraulischem Türschließer, RC2-zertifiziert.
@@ -3491,7 +3491,7 @@ Le Secteur 1 de Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, He
 Alumil SF85 Supreme : profondeur 85 mm, rupture thermique polyamide 34 mm, Uf = 1,3 W/(m²K), panneau isolant 44 mm en mousse PU haute densité, antieffraction RC2 standard, triple vitrage Ug = 0,5 W/(m²K).
 
 ### 2. Portes d'entrée entièrement vitrées
-Alumil S77 Supreme : 77 mm, rupture thermique 34 mm, triple vitrage Saint-Gobain SGG, isolation acoustique Rw = 38-42 dB.
+Alumil S77 Supreme : 77–93 mm, rupture thermique 40 mm, triple vitrage Saint-Gobain SGG, isolation acoustique Rw = 38-42 dB.
 
 ### 3. Portes d'accès communes pour résidences
 Alumil M19800 Smartia : compatible contrôle d'accès, ferme-porte hydraulique automatique, RC2 certifié.
@@ -3567,7 +3567,7 @@ El Sector 1 de Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Her
 Alumil SF85 Supreme: profundidad 85 mm, rotura térmica poliamida 34 mm, Uf = 1,3 W/(m²K), panel aislante 44 mm de espuma PU alta densidad, antiefracción RC2 estándar, triple acristalamiento Ug = 0,5 W/(m²K).
 
 ### 2. Puertas de entrada totalmente acristaladas
-Alumil S77 Supreme: 77 mm, rotura térmica 34 mm, triple acristalamiento Saint-Gobain SGG, aislamiento acústico Rw = 38-42 dB.
+Alumil S77 Supreme: 77–93 mm, rotura térmica 40 mm, triple acristalamiento Saint-Gobain SGG, aislamiento acústico Rw = 38-42 dB.
 
 ### 3. Puertas de acceso comunes para urbanizaciones
 Alumil M19800 Smartia: compatible con control de acceso, cierre automático hidráulico, RC2 certificado.
@@ -3643,7 +3643,7 @@ Il Settore 1 di Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, He
 Alumil SF85 Supreme: profondità 85 mm, taglio termico poliammide 34 mm, Uf = 1,3 W/(m²K), pannello isolante 44 mm in schiuma PU ad alta densità, antieffrazione RC2 standard, triplo vetro Ug = 0,5 W/(m²K).
 
 ### 2. Porte d'ingresso completamente vetrate
-Alumil S77 Supreme: 77 mm, taglio termico 34 mm, triplo vetro Saint-Gobain SGG, isolamento acustico Rw = 38-42 dB.
+Alumil S77 Supreme: 77–93 mm, taglio termico 40 mm, triplo vetro Saint-Gobain SGG, isolamento acustico Rw = 38-42 dB.
 
 ### 3. Porte di accesso comuni per complessi residenziali
 Alumil M19800 Smartia: compatibile con sistemi di controllo accessi, chiudiporta idraulico automatico, RC2 certificato.
@@ -3837,8 +3837,8 @@ Când profilul e mai vechi de 20 de ani, deformat, sau când vrei să atingi sta
 
 Clima din București (zona climatică II conform NP 048/2000) impune ierni cu temperaturi minime de −15°C și veri caniculare cu +38°C. Profilul optim:
 
-- **Salamander bluEvolution 82** (6 camere, 82 mm) — raportul optim calitate/preț pentru renovări rezidențiale în București. Uw = 0,8-0,95 W/(m²K) cu tripan.
-- **Salamander bluEvolution 92** (6 camere, 92 mm) — pentru case noi sau proiecte nZEB. Uw = 0,66-0,80 W/(m²K) cu tripan Saint-Gobain și Warm Edge.
+- **Salamander GreenEvolution 76** (5 camere, 76 mm) — raportul optim calitate/preț pentru renovări rezidențiale în București. Uw ≥ 0,73 W/(m²K) cu tripan.
+- **Salamander bluEvolution 92** (6 camere, 92 mm) — pentru case noi sau proiecte nZEB. Uw = 0,70-0,80 W/(m²K) cu tripan Saint-Gobain și Warm Edge.
 
 ## Montajul — de ce face diferența între 40% și 60% economie la energie
 
@@ -3875,7 +3875,7 @@ Dacă profilul e în stare bună (PVC fără deformare, adâncime min. 70 mm) da
 
 ### Ce profil Salamander e recomandat pentru renovări în București?
 
-Pentru renovări rezidențiale, Salamander bluEvolution 82 (6 camere, 82 mm) oferă raportul optim calitate/preț, cu Uw 0,8-0,95 W/(m²K). Pentru case noi sau proiecte nZEB, bluEvolution 92 atinge Uw 0,66-0,80 cu tripan Saint-Gobain și Warm Edge.
+Pentru renovări rezidențiale, Salamander GreenEvolution 76 (5 camere, 76 mm) oferă raportul optim calitate/preț, cu Uw de la 0,73 W/(m²K). Pentru case noi sau proiecte nZEB, bluEvolution 92 atinge Uw 0,70-0,80 cu tripan Saint-Gobain și Warm Edge.
 
 ---
 
@@ -3928,8 +3928,8 @@ When the profile is more than 20 years old, deformed, or you want to reach nZEB 
 
 ## Which Profile to Choose for Bucharest
 
-- **Salamander bluEvolution 82** (6 chambers, 82 mm) — optimal quality/price ratio for residential renovations in Bucharest. Uw = 0.8-0.95 W/(m²K) with triple glazing.
-- **Salamander bluEvolution 92** (6 chambers, 92 mm) — for new builds or nZEB projects. Uw = 0.66-0.80 W/(m²K) with Saint-Gobain triple glazing and Warm Edge.
+- **Salamander GreenEvolution 76** (5 chambers, 76 mm) — optimal quality/price ratio for residential renovations in Bucharest. Uw from 0.73 W/(m²K) with triple glazing.
+- **Salamander bluEvolution 92** (6 chambers, 92 mm) — for new builds or nZEB projects. Uw = 0.70-0.80 W/(m²K) with Saint-Gobain triple glazing and Warm Edge.
 
 The installation details with Blaugelb Triotherm+ precasings are covered step by step here: [Installation with Blaugelb Triotherm+ Precasings — Why It's Mandatory for nZEB Certification](/en/blog/blaugelb-triotherm-precasing-installation-nzeb).
 
@@ -3958,7 +3958,7 @@ If the frame is in good condition (undeformed PVC, min. 70 mm depth) but the gla
 
 ### Which Salamander profile is recommended for renovations in Bucharest?
 
-For residential renovations, Salamander bluEvolution 82 (6 chambers, 82 mm) offers the best value, with Uw 0.8-0.95 W/(m²K). For new houses or nZEB projects, bluEvolution 92 reaches Uw 0.66-0.80 with Saint-Gobain triple glazing and Warm Edge.
+For residential renovations, Salamander GreenEvolution 76 (5 chambers, 76 mm) offers the best value, with Uw from 0.73 W/(m²K). For new houses or nZEB projects, bluEvolution 92 reaches Uw 0.70-0.80 with Saint-Gobain triple glazing and Warm Edge.
 
 ---
 
@@ -4001,8 +4001,8 @@ Bei gutem Profil, aber altem Zweifachglas (Ug = 1,0-1,6):
 
 ## Welches Profil für Bukarest wählen?
 
-- **Salamander bluEvolution 82** (6 Kammern, 82 mm) — optimales Preis-Leistungs-Verhältnis für Renovierungen in Bukarest. Uw = 0,8-0,95 W/(m²K) mit Dreifachverglasung.
-- **Salamander bluEvolution 92** (6 Kammern, 92 mm) — für Neubauten oder nZEB-Projekte. Uw = 0,66-0,80 W/(m²K).
+- **Salamander GreenEvolution 76** (5 Kammern, 76 mm) — optimales Preis-Leistungs-Verhältnis für Renovierungen in Bukarest. Uw ≥ 0,73 W/(m²K) mit Dreifachverglasung.
+- **Salamander bluEvolution 92** (6 Kammern, 92 mm) — für Neubauten oder nZEB-Projekte. Uw = 0,70-0,80 W/(m²K).
 
 Die Montagedetails mit Blaugelb Triotherm+ Vorblendrahmen werden hier Schritt für Schritt behandelt: [Montage mit Blaugelb Triotherm+ — Warum es für die nZEB-Zertifizierung obligatorisch ist](/de/blog/blaugelb-triotherm-vorfenster-montage-nzeb).
 
@@ -4031,7 +4031,7 @@ Ist der Rahmen in gutem Zustand (unverformtes PVC, min. 70 mm Tiefe), aber das G
 
 ### Welches Salamander-Profil wird für Renovierungen in Bukarest empfohlen?
 
-Für Wohnungsrenovierungen bietet Salamander bluEvolution 82 (6 Kammern, 82 mm) das beste Preis-Leistungs-Verhältnis mit Uw 0,8-0,95 W/(m²K). Für Neubauten oder nZEB-Projekte erreicht bluEvolution 92 Uw 0,66-0,80 mit Saint-Gobain-Dreifachglas und Warm Edge.
+Für Wohnungsrenovierungen bietet Salamander GreenEvolution 76 (5 Kammern, 76 mm) das beste Preis-Leistungs-Verhältnis mit Uw ab 0,73 W/(m²K). Für Neubauten oder nZEB-Projekte erreicht bluEvolution 92 Uw 0,70-0,80 mit Saint-Gobain-Dreifachglas und Warm Edge.
 
 ---
 
@@ -4074,8 +4074,8 @@ Si le profilé est en bon état mais le vitrage ancien (Ug = 1,0-1,6) :
 
 ## Quel profilé choisir pour Bucarest ?
 
-- **Salamander bluEvolution 82** (6 chambres, 82 mm) — rapport qualité/prix optimal pour les rénovations. Uw = 0,8-0,95 W/(m²K) avec triple vitrage.
-- **Salamander bluEvolution 92** (6 chambres, 92 mm) — pour les constructions neuves ou projets nZEB. Uw = 0,66-0,80 W/(m²K).
+- **Salamander GreenEvolution 76** (5 chambres, 76 mm) — rapport qualité/prix optimal pour les rénovations. Uw ≥ 0,73 W/(m²K) avec triple vitrage.
+- **Salamander bluEvolution 92** (6 chambres, 92 mm) — pour les constructions neuves ou projets nZEB. Uw = 0,70-0,80 W/(m²K).
 
 Les détails de pose avec précadres Blaugelb Triotherm+ sont traités pas à pas ici: [Pose avec précadres Blaugelb Triotherm+ — pourquoi c'est obligatoire pour la certification nZEB](/fr/blog/precadres-blaugelb-triotherm-pose-nzeb).
 
@@ -4104,7 +4104,7 @@ Si le profilé est en bon état (PVC non déformé, profondeur min. 70 mm) mais 
 
 ### Quel profilé Salamander est recommandé pour des rénovations à Bucarest ?
 
-Pour les rénovations résidentielles, le Salamander bluEvolution 82 (6 chambres, 82 mm) offre le meilleur rapport qualité/prix, avec un Uw de 0,8-0,95 W/(m²K). Pour les maisons neuves ou projets nZEB, le bluEvolution 92 atteint Uw 0,66-0,80 avec triple vitrage Saint-Gobain et Warm Edge.
+Pour les rénovations résidentielles, le Salamander GreenEvolution 76 (5 chambres, 76 mm) offre le meilleur rapport qualité/prix, avec un Uw à partir de 0,73 W/(m²K). Pour les maisons neuves ou projets nZEB, le bluEvolution 92 atteint Uw 0,70-0,80 avec triple vitrage Saint-Gobain et Warm Edge.
 
 ---
 
@@ -4147,8 +4147,8 @@ Si el perfil está en buen estado pero el acristalamiento es antiguo (Ug = 1,0-1
 
 ## Qué perfil elegir para Bucarest
 
-- **Salamander bluEvolution 82** (6 cámaras, 82 mm) — relación calidad/precio óptima para renovaciones. Uw = 0,8-0,95 W/(m²K) con triple acristalamiento.
-- **Salamander bluEvolution 92** (6 cámaras, 92 mm) — para obras nuevas o proyectos nZEB. Uw = 0,66-0,80 W/(m²K).
+- **Salamander GreenEvolution 76** (5 cámaras, 76 mm) — relación calidad/precio óptima para renovaciones. Uw ≥ 0,73 W/(m²K) con triple acristalamiento.
+- **Salamander bluEvolution 92** (6 cámaras, 92 mm) — para obras nuevas o proyectos nZEB. Uw = 0,70-0,80 W/(m²K).
 
 Los detalles de instalación con premarcos Blaugelb Triotherm+ se tratan paso a paso aquí: [Montaje con premarcos Blaugelb Triotherm+ — por qué es obligatorio para la certificación nZEB](/es/blog/instalacion-premarcos-blaugelb-triotherm-nzeb).
 
@@ -4177,7 +4177,7 @@ Si el perfil está en buen estado (PVC sin deformar, profundidad mín. 70 mm) pe
 
 ### ¿Qué perfil Salamander se recomienda para reformas en Bucarest?
 
-Para reformas residenciales, el Salamander bluEvolution 82 (6 cámaras, 82 mm) ofrece la mejor relación calidad/precio, con Uw 0,8-0,95 W/(m²K). Para casas nuevas o proyectos nZEB, el bluEvolution 92 alcanza Uw 0,66-0,80 con triple vidrio Saint-Gobain y Warm Edge.
+Para reformas residenciales, el Salamander GreenEvolution 76 (5 cámaras, 76 mm) ofrece la mejor relación calidad/precio, con Uw desde 0,73 W/(m²K). Para casas nuevas o proyectos nZEB, el bluEvolution 92 alcanza Uw 0,70-0,80 con triple vidrio Saint-Gobain y Warm Edge.
 
 ---
 
@@ -4220,8 +4220,8 @@ Se il profilo è in buone condizioni ma il vetro è vecchio (Ug = 1,0-1,6):
 
 ## Quale profilo scegliere per Bucarest
 
-- **Salamander bluEvolution 82** (6 camere, 82 mm) — rapporto qualità/prezzo ottimale per le ristrutturazioni. Uw = 0,8-0,95 W/(m²K) con triplo vetro.
-- **Salamander bluEvolution 92** (6 camere, 92 mm) — per nuove costruzioni o progetti nZEB. Uw = 0,66-0,80 W/(m²K).
+- **Salamander GreenEvolution 76** (5 camere, 76 mm) — rapporto qualità/prezzo ottimale per le ristrutturazioni. Uw ≥ 0,73 W/(m²K) con triplo vetro.
+- **Salamander bluEvolution 92** (6 camere, 92 mm) — per nuove costruzioni o progetti nZEB. Uw = 0,70-0,80 W/(m²K).
 
 I dettagli di posa con controtelai Blaugelb Triotherm+ sono trattati passo per passo qui: [Montaggio con controtelai Blaugelb Triotherm+ — perché è obbligatorio per la certificazione nZEB](/it/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb).
 
@@ -4250,7 +4250,7 @@ Se il profilo è in buono stato (PVC non deformato, profondità min. 70 mm) ma i
 
 ### Quale profilo Salamander è consigliato per ristrutturazioni a Bucarest?
 
-Per ristrutturazioni residenziali, il Salamander bluEvolution 82 (6 camere, 82 mm) offre il miglior rapporto qualità/prezzo, con Uw 0,8-0,95 W/(m²K). Per case nuove o progetti nZEB, il bluEvolution 92 raggiunge Uw 0,66-0,80 con triplo vetro Saint-Gobain e Warm Edge.
+Per ristrutturazioni residenziali, il Salamander GreenEvolution 76 (5 camere, 76 mm) offre il miglior rapporto qualità/prezzo, con Uw a partire da 0,73 W/(m²K). Per case nuove o progetti nZEB, il bluEvolution 92 raggiunge Uw 0,70-0,80 con triplo vetro Saint-Gobain e Warm Edge.
 
 ---
 
@@ -5780,13 +5780,13 @@ Fără toate aceste elemente împreună, un producător nu poate vorbi legitim d
 ## Ce tipuri de ferestre cu izolație avansată există în București?
 
 ### 1. Tâmplărie PVC Salamander bluEvolution 92 — standardul de referință nZEB
-Profilul cu 6 camere și 92 mm adâncime, 3 garnituri EPDM, Uf = 0,9 W/(m²K). Echipat cu tripan 52 mm, argon, Low-E SGG și distanțier Warm Edge, obține Uw = 0,66–0,8 W/(m²K) — performanță de casă pasivă.
+Profilul cu 6 camere și 92 mm adâncime, 3 garnituri EPDM, Uf = 0,9 W/(m²K). Echipat cu tripan 52 mm, argon, Low-E SGG și distanțier Warm Edge, obține Uw = 0,70–0,8 W/(m²K) — performanță de casă pasivă.
 
-### 2. Tâmplărie PVC Salamander bluEvolution 82 — echilibrul calitate-preț
-6 camere, 82 mm adâncime, 3 garnituri. Cu tripan 44 mm și Low-E atinge Uw = 0,8–0,95 W/(m²K). Varianta recomandată pentru case noi și renovări cu buget controlat.
+### 2. Tâmplărie PVC Salamander GreenEvolution 76 — echilibrul calitate-preț
+5 camere, 76 mm adâncime. Cu tripan și Low-E atinge Uw de la 0,73 W/(m²K). Varianta recomandată pentru renovări și case noi cu buget controlat.
 
 ### 3. Tâmplărie aluminiu Alumil S77 Supreme — pentru proiecte arhitecturale
-Rupere de punte termică 34 mm, Uf = 1,3 W/(m²K) la profil — echipat cu tripan și Low-E atinge Uw = 1,0–1,2 W/(m²K). Ideal pentru fațade vitrate mari, birouri, comercial.
+Rupere de punte termică 40 mm, Uf de la 0,86 W/(m²K) la profil — echipat cu tripan și Low-E atinge Uw = 1,0–1,2 W/(m²K). Ideal pentru fațade vitrate mari, birouri, comercial.
 
 ## Ce trebuie să ceri obligatoriu la orice ofertă
 
@@ -5838,7 +5838,7 @@ Un sistem cu izolație avansată trebuie să îndeplinească simultan: Uw ≤ 1,
 
 ### Ce profil de termopan are cea mai bună izolație în București?
 
-Salamander bluEvolution 92 (6 camere, 92 mm, Uf 0,9) cu tripan 52 mm, argon, Low-E SGG și Warm Edge atinge Uw 0,66-0,8 W/(m²K) — performanță de casă pasivă. bluEvolution 82 oferă echilibrul calitate-preț cu Uw 0,8-0,95, ideal pentru renovări cu buget controlat.
+Salamander bluEvolution 92 (6 camere, 92 mm, Uf 0,9) cu tripan 52 mm, argon, Low-E SGG și Warm Edge atinge Uw 0,70-0,8 W/(m²K) — performanță de casă pasivă. GreenEvolution 76 oferă echilibrul calitate-preț cu Uw de la 0,73, ideal pentru renovări cu buget controlat.
 
 ### Ce trebuie să cer obligatoriu în orice ofertă de termopane?
 
@@ -5873,13 +5873,13 @@ Without all these elements together, a manufacturer cannot legitimately speak of
 ## Types of Advanced Insulation Windows Available in Bucharest
 
 ### 1. Salamander bluEvolution 92 PVC — The nZEB Reference Standard
-6-chamber profile, 92 mm depth, 3 EPDM gaskets, Uf = 0.9 W/(m²K). Fitted with 52 mm triple glazing, argon, Low-E SGG and Warm Edge spacer, achieves Uw = 0.66–0.8 W/(m²K) — passive house performance.
+6-chamber profile, 92 mm depth, 3 EPDM gaskets, Uf = 0.9 W/(m²K). Fitted with 52 mm triple glazing, argon, Low-E SGG and Warm Edge spacer, achieves Uw = 0.70–0.8 W/(m²K) — passive house performance.
 
-### 2. Salamander bluEvolution 82 PVC — The Quality-Price Balance
-6 chambers, 82 mm depth, 3 gaskets. With 44 mm triple glazing and Low-E achieves Uw = 0.8–0.95 W/(m²K). Recommended for new homes and renovations with controlled budget.
+### 2. Salamander GreenEvolution 76 PVC — The Quality-Price Balance
+5 chambers, 76 mm depth. With triple glazing and Low-E it achieves Uw from 0.73 W/(m²K). Recommended for renovations and new homes with a controlled budget.
 
 ### 3. Alumil S77 Supreme Aluminium — For Architectural Projects
-34 mm thermal break, Uf = 1.3 W/(m²K) at profile — fitted with triple glazing and Low-E achieves Uw = 1.0–1.2 W/(m²K). Ideal for large glazed facades, offices, commercial.
+40 mm thermal break, Uf from 0.86 W/(m²K) at profile — fitted with triple glazing and Low-E achieves Uw = 1.0–1.2 W/(m²K). Ideal for large glazed facades, offices, commercial.
 
 ## What to Always Ask For in Any Quote
 
@@ -5926,7 +5926,7 @@ An advanced-insulation system must simultaneously meet: Uw ≤ 1.0 W/(m²K) (nZE
 
 ### Which window profile has the best insulation in Bucharest?
 
-Salamander bluEvolution 92 (6 chambers, 92 mm, Uf 0.9) with 52 mm triple glazing, argon, Low-E SGG and Warm Edge reaches Uw 0.66-0.8 W/(m²K) — passive-house performance. bluEvolution 82 offers the value balance with Uw 0.8-0.95, ideal for budget-controlled renovations.
+Salamander bluEvolution 92 (6 chambers, 92 mm, Uf 0.9) with 52 mm triple glazing, argon, Low-E SGG and Warm Edge reaches Uw 0.70-0.8 W/(m²K) — passive-house performance. GreenEvolution 76 offers the value balance with Uw from 0.73, ideal for budget-controlled renovations.
 
 ### What must I always ask for in any window quote?
 
@@ -5958,13 +5958,13 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 ## Arten von Fenstern mit erweiterter Dämmung in Bukarest
 
 ### 1. Salamander bluEvolution 92 PVC — Der nZEB-Referenzstandard
-6-Kammer-Profil, 92 mm Tiefe, 3 EPDM-Dichtungen, Uf = 0,9 W/(m²K). Mit 52 mm Dreifachverglasung, Argon, Low-E SGG und Warm-Edge-Abstandhalter erreicht Uw = 0,66–0,8 W/(m²K) — Passivhausleistung.
+6-Kammer-Profil, 92 mm Tiefe, 3 EPDM-Dichtungen, Uf = 0,9 W/(m²K). Mit 52 mm Dreifachverglasung, Argon, Low-E SGG und Warm-Edge-Abstandhalter erreicht Uw = 0,70–0,8 W/(m²K) — Passivhausleistung.
 
-### 2. Salamander bluEvolution 82 PVC — Die Qualitäts-Preis-Balance
-6 Kammern, 82 mm Tiefe, 3 Dichtungen. Mit 44 mm Dreifachverglasung und Low-E erreicht Uw = 0,8–0,95 W/(m²K). Empfohlen für Neubauten und Renovierungen mit kontrolliertem Budget.
+### 2. Salamander GreenEvolution 76 PVC — Die Qualitäts-Preis-Balance
+5 Kammern, 76 mm Tiefe. Mit Dreifachverglasung und Low-E erreicht es Uw ab 0,73 W/(m²K). Empfohlen für Renovierungen und Neubauten mit kontrolliertem Budget.
 
 ### 3. Alumil S77 Supreme Aluminium — Für Architekturprojekte
-34 mm thermische Trennung, Uf = 1,3 W/(m²K) am Profil — mit Dreifachverglasung und Low-E erreicht Uw = 1,0–1,2 W/(m²K). Ideal für große Glasfassaden, Büros, Gewerbe.
+40 mm thermische Trennung, Uf ab 0,86 W/(m²K) am Profil — mit Dreifachverglasung und Low-E erreicht Uw = 1,0–1,2 W/(m²K). Ideal für große Glasfassaden, Büros, Gewerbe.
 
 ## Was Sie in jedem Angebot verlangen sollten
 
@@ -6010,7 +6010,7 @@ Ein System mit fortschrittlicher Dämmung muss gleichzeitig erfüllen: Uw ≤ 1,
 
 ### Welches Fensterprofil hat die beste Dämmung in Bukarest?
 
-Salamander bluEvolution 92 (6 Kammern, 92 mm, Uf 0,9) mit 52-mm-Dreifachglas, Argon, Low-E SGG und Warm Edge erreicht Uw 0,66-0,8 W/(m²K) — Passivhaus-Leistung. bluEvolution 82 bietet das Preis-Leistungs-Gleichgewicht mit Uw 0,8-0,95, ideal für budgetbewusste Renovierungen.
+Salamander bluEvolution 92 (6 Kammern, 92 mm, Uf 0,9) mit 52-mm-Dreifachglas, Argon, Low-E SGG und Warm Edge erreicht Uw 0,70-0,8 W/(m²K) — Passivhaus-Leistung. GreenEvolution 76 bietet das Preis-Leistungs-Gleichgewicht mit Uw ab 0,73, ideal für budgetbewusste Renovierungen.
 
 ### Was muss ich bei jedem Fensterangebot verlangen?
 
@@ -6042,13 +6042,13 @@ Le terme « isolation avancée » est utilisé par de nombreux fournisseurs à B
 ## Types de fenêtres à isolation avancée disponibles à Bucarest
 
 ### 1. Salamander bluEvolution 92 PVC — La référence nZEB
-Profilé 6 chambres, 92 mm de profondeur, 3 joints EPDM, Uf = 0,9 W/(m²K). Équipé de triple vitrage 52 mm, argon, Low-E SGG et espaceur Warm Edge, atteint Uw = 0,66–0,8 W/(m²K) — performance maison passive.
+Profilé 6 chambres, 92 mm de profondeur, 3 joints EPDM, Uf = 0,9 W/(m²K). Équipé de triple vitrage 52 mm, argon, Low-E SGG et espaceur Warm Edge, atteint Uw = 0,70–0,8 W/(m²K) — performance maison passive.
 
-### 2. Salamander bluEvolution 82 PVC — L'équilibre qualité-prix
-6 chambres, 82 mm de profondeur, 3 joints. Avec triple vitrage 44 mm et Low-E atteint Uw = 0,8–0,95 W/(m²K). Recommandé pour les maisons neuves et les rénovations avec budget maîtrisé.
+### 2. Salamander GreenEvolution 76 PVC — L'équilibre qualité-prix
+5 chambres, 76 mm de profondeur. Avec triple vitrage et Low-E, il atteint un Uw à partir de 0,73 W/(m²K). Recommandé pour les rénovations et les maisons neuves à budget maîtrisé.
 
 ### 3. Alumil S77 Supreme aluminium — Pour les projets architecturaux
-Rupture thermique 34 mm, Uf = 1,3 W/(m²K) au profilé — avec triple vitrage et Low-E atteint Uw = 1,0–1,2 W/(m²K). Idéal pour les grandes façades vitrées, bureaux, commercial.
+Rupture thermique 40 mm, Uf à partir de 0,86 W/(m²K) au profilé — avec triple vitrage et Low-E atteint Uw = 1,0–1,2 W/(m²K). Idéal pour les grandes façades vitrées, bureaux, commercial.
 
 ## Ce qu'il faut toujours demander dans tout devis
 
@@ -6090,7 +6090,7 @@ Un système à isolation avancée doit remplir simultanément : Uw ≤ 1,0 W/(m�
 
 ### Quel profilé de fenêtre a la meilleure isolation à Bucarest ?
 
-Le Salamander bluEvolution 92 (6 chambres, 92 mm, Uf 0,9) avec triple vitrage 52 mm, argon, Low-E SGG et Warm Edge atteint Uw 0,66-0,8 W/(m²K) — performance maison passive. Le bluEvolution 82 offre l'équilibre qualité-prix avec Uw 0,8-0,95, idéal pour les rénovations à budget maîtrisé.
+Le Salamander bluEvolution 92 (6 chambres, 92 mm, Uf 0,9) avec triple vitrage 52 mm, argon, Low-E SGG et Warm Edge atteint Uw 0,70-0,8 W/(m²K) — performance maison passive. Le GreenEvolution 76 offre l'équilibre qualité-prix avec un Uw à partir de 0,73, idéal pour les rénovations à budget maîtrisé.
 
 ### Que dois-je toujours demander dans tout devis de fenêtres ?
 
@@ -6122,13 +6122,13 @@ El término "aislamiento avanzado" es usado por muchos proveedores en Bucarest s
 ## Tipos de ventanas con aislamiento avanzado en Bucarest
 
 ### 1. Salamander bluEvolution 92 PVC — El estándar de referencia nZEB
-Perfil de 6 cámaras, 92 mm de profundidad, 3 juntas EPDM, Uf = 0,9 W/(m²K). Con triple acristalamiento 52 mm, argón, Low-E SGG y separador Warm Edge, alcanza Uw = 0,66–0,8 W/(m²K) — rendimiento de casa pasiva.
+Perfil de 6 cámaras, 92 mm de profundidad, 3 juntas EPDM, Uf = 0,9 W/(m²K). Con triple acristalamiento 52 mm, argón, Low-E SGG y separador Warm Edge, alcanza Uw = 0,70–0,8 W/(m²K) — rendimiento de casa pasiva.
 
-### 2. Salamander bluEvolution 82 PVC — El equilibrio calidad-precio
-6 cámaras, 82 mm de profundidad, 3 juntas. Con triple acristalamiento 44 mm y Low-E alcanza Uw = 0,8–0,95 W/(m²K). Recomendado para casas nuevas y renovaciones con presupuesto controlado.
+### 2. Salamander GreenEvolution 76 PVC — El equilibrio calidad-precio
+5 cámaras, 76 mm de profundidad. Con triple acristalamiento y Low-E alcanza Uw desde 0,73 W/(m²K). Recomendado para reformas y casas nuevas con presupuesto controlado.
 
 ### 3. Alumil S77 Supreme aluminio — Para proyectos arquitectónicos
-Rotura térmica 34 mm, Uf = 1,3 W/(m²K) en el perfil — con triple acristalamiento y Low-E alcanza Uw = 1,0–1,2 W/(m²K). Ideal para grandes fachadas acristaladas, oficinas, comercial.
+Rotura térmica 40 mm, Uf desde 0,86 W/(m²K) en el perfil — con triple acristalamiento y Low-E alcanza Uw = 1,0–1,2 W/(m²K). Ideal para grandes fachadas acristaladas, oficinas, comercial.
 
 ## Qué pedir siempre en cualquier presupuesto
 
@@ -6170,7 +6170,7 @@ Un sistema con aislamiento avanzado debe cumplir simultáneamente: Uw ≤ 1,0 W/
 
 ### ¿Qué perfil de ventana tiene el mejor aislamiento en Bucarest?
 
-El Salamander bluEvolution 92 (6 cámaras, 92 mm, Uf 0,9) con triple vidrio de 52 mm, argón, Low-E SGG y Warm Edge alcanza Uw 0,66-0,8 W/(m²K) — rendimiento de casa pasiva. El bluEvolution 82 ofrece el equilibrio calidad-precio con Uw 0,8-0,95, ideal para reformas con presupuesto controlado.
+El Salamander bluEvolution 92 (6 cámaras, 92 mm, Uf 0,9) con triple vidrio de 52 mm, argón, Low-E SGG y Warm Edge alcanza Uw 0,70-0,8 W/(m²K) — rendimiento de casa pasiva. El GreenEvolution 76 ofrece el equilibrio calidad-precio con Uw desde 0,73, ideal para reformas con presupuesto controlado.
 
 ### ¿Qué debo pedir siempre en cualquier presupuesto de ventanas?
 
@@ -6202,13 +6202,13 @@ Il termine "isolamento avanzato" è usato da molti fornitori a Bucarest senza un
 ## Tipi di finestre con isolamento avanzato a Bucarest
 
 ### 1. Salamander bluEvolution 92 PVC — Lo standard di riferimento nZEB
-Profilo a 6 camere, 92 mm di profondità, 3 guarnizioni EPDM, Uf = 0,9 W/(m²K). Con triplo vetro 52 mm, argon, Low-E SGG e distanziale Warm Edge, raggiunge Uw = 0,66–0,8 W/(m²K) — prestazioni da casa passiva.
+Profilo a 6 camere, 92 mm di profondità, 3 guarnizioni EPDM, Uf = 0,9 W/(m²K). Con triplo vetro 52 mm, argon, Low-E SGG e distanziale Warm Edge, raggiunge Uw = 0,70–0,8 W/(m²K) — prestazioni da casa passiva.
 
-### 2. Salamander bluEvolution 82 PVC — L'equilibrio qualità-prezzo
-6 camere, 82 mm di profondità, 3 guarnizioni. Con triplo vetro 44 mm e Low-E raggiunge Uw = 0,8–0,95 W/(m²K). Consigliato per nuove abitazioni e ristrutturazioni con budget controllato.
+### 2. Salamander GreenEvolution 76 PVC — L'equilibrio qualità-prezzo
+5 camere, 76 mm di profondità. Con triplo vetro e Low-E raggiunge Uw a partire da 0,73 W/(m²K). Consigliato per ristrutturazioni e nuove abitazioni con budget controllato.
 
 ### 3. Alumil S77 Supreme alluminio — Per progetti architettonici
-Taglio termico 34 mm, Uf = 1,3 W/(m²K) al profilo — con triplo vetro e Low-E raggiunge Uw = 1,0–1,2 W/(m²K). Ideale per grandi facciate vetrate, uffici, commerciale.
+Taglio termico 40 mm, Uf a partire da 0,86 W/(m²K) al profilo — con triplo vetro e Low-E raggiunge Uw = 1,0–1,2 W/(m²K). Ideale per grandi facciate vetrate, uffici, commerciale.
 
 ## Cosa richiedere sempre in qualsiasi preventivo
 
@@ -6250,7 +6250,7 @@ Un sistema a isolamento avanzato deve soddisfare simultaneamente: Uw ≤ 1,0 W/(
 
 ### Quale profilo di finestra ha il miglior isolamento a Bucarest?
 
-Il Salamander bluEvolution 92 (6 camere, 92 mm, Uf 0,9) con triplo vetro da 52 mm, argon, Low-E SGG e Warm Edge raggiunge Uw 0,66-0,8 W/(m²K) — prestazioni da casa passiva. Il bluEvolution 82 offre l'equilibrio qualità-prezzo con Uw 0,8-0,95, ideale per ristrutturazioni a budget controllato.
+Il Salamander bluEvolution 92 (6 camere, 92 mm, Uf 0,9) con triplo vetro da 52 mm, argon, Low-E SGG e Warm Edge raggiunge Uw 0,70-0,8 W/(m²K) — prestazioni da casa passiva. Il GreenEvolution 76 offre l'equilibrio qualità-prezzo con Uw a partire da 0,73, ideale per ristrutturazioni a budget controllato.
 
 ### Cosa devo chiedere sempre in qualsiasi preventivo di finestre?
 
@@ -7597,7 +7597,7 @@ Neofort BIZ installa sistemi di oscuramento esterno — tapparelle, Raffstore, Z
     content: {
       ro: `## De ce contează atât de mult montajul termopanelor Salamander?
 
-Ai ales profile Salamander bluEvolution 82 sau 92 — produse cu Uf până la 0,9 W/(m²K) și izolare fonică de 47 dB. Dar performanțele tehnice ale profilului nu contează nimic dacă **montajul este executat greșit**. Un montaj incorect generează: punți termice la îmbinarea tocului cu zidăria, infiltrații de apă și aer, condens pe glafuri, iar în timp deformări ale tocului. Ghidul de față îți arată exact ce presupune un montaj profesional de termopane Salamander în București și Ilfov.
+Ai ales profile Salamander GreenEvolution 76 sau bluEvolution 92 — produse cu Uf până la 0,9 W/(m²K) și izolare fonică de 47 dB. Dar performanțele tehnice ale profilului nu contează nimic dacă **montajul este executat greșit**. Un montaj incorect generează: punți termice la îmbinarea tocului cu zidăria, infiltrații de apă și aer, condens pe glafuri, iar în timp deformări ale tocului. Ghidul de față îți arată exact ce presupune un montaj profesional de termopane Salamander în București și Ilfov.
 
 ## Etapa 1 — Măsurătoarea și proiectarea
 
@@ -7688,7 +7688,7 @@ Neofort BIZ montează tâmplărie Salamander cu echipe proprii certificate nZEB,
 
       en: `## Why Salamander Window Installation Matters So Much
 
-You have chosen Salamander bluEvolution 82 or 92 profiles — products with Uf down to 0.9 W/(m²K) and 47 dB acoustic insulation. But the technical performance of the profile means nothing if **installation is done incorrectly**. Poor installation generates: thermal bridges at the frame-masonry joint, water and air infiltration, condensation on window sills, and over time, frame deformation. This guide shows you exactly what professional Salamander window installation in Bucharest and Ilfov involves.
+You have chosen Salamander GreenEvolution 76 or bluEvolution 92 profiles — products with Uf down to 0.9 W/(m²K) and 47 dB acoustic insulation. But the technical performance of the profile means nothing if **installation is done incorrectly**. Poor installation generates: thermal bridges at the frame-masonry joint, water and air infiltration, condensation on window sills, and over time, frame deformation. This guide shows you exactly what professional Salamander window installation in Bucharest and Ilfov involves.
 
 ## Step 1 — Survey and Design
 
@@ -7770,7 +7770,7 @@ Neofort BIZ installs Salamander joinery with its own nZEB-certified teams in Buc
 
       de: `## Warum die Montage von Salamander-Fenstern so wichtig ist
 
-Sie haben Salamander bluEvolution 82 oder 92 Profile gewählt — Produkte mit Uf bis zu 0,9 W/(m²K) und 47 dB Schallschutz. Aber die technischen Leistungen des Profils nützen nichts, wenn **die Montage fehlerhaft ausgeführt wird**. Eine falsche Montage erzeugt: Wärmebrücken an der Rahmen-Mauerwerk-Verbindung, Wasser- und Luftundichtigkeiten, Kondensat auf Fensterbänken und mit der Zeit Rahmenverformungen. Dieser Leitfaden zeigt genau, was eine professionelle Salamander-Fenstermontage in Bukarest und Ilfov beinhaltet.
+Sie haben Salamander GreenEvolution 76 oder bluEvolution 92 Profile gewählt — Produkte mit Uf bis zu 0,9 W/(m²K) und 47 dB Schallschutz. Aber die technischen Leistungen des Profils nützen nichts, wenn **die Montage fehlerhaft ausgeführt wird**. Eine falsche Montage erzeugt: Wärmebrücken an der Rahmen-Mauerwerk-Verbindung, Wasser- und Luftundichtigkeiten, Kondensat auf Fensterbänken und mit der Zeit Rahmenverformungen. Dieser Leitfaden zeigt genau, was eine professionelle Salamander-Fenstermontage in Bukarest und Ilfov beinhaltet.
 
 ## Schritt 1 — Aufmaß und Planung
 
@@ -7851,7 +7851,7 @@ Neofort BIZ montiert Salamander-Fenster mit eigenen nZEB-zertifizierten Teams in
 
       fr: `## Pourquoi la pose des fenêtres Salamander est-elle si importante ?
 
-Vous avez choisi des profilés Salamander bluEvolution 82 ou 92 — des produits avec Uf jusqu'à 0,9 W/(m²K) et 47 dB d'isolation acoustique. Mais les performances techniques du profilé ne signifient rien si **la pose est mal exécutée**. Une mauvaise pose génère : des ponts thermiques à la jonction cadre-maçonnerie, des infiltrations d'eau et d'air, de la condensation sur les appuis de fenêtre et, avec le temps, des déformations du cadre. Ce guide vous montre exactement ce qu'implique une pose professionnelle de fenêtres Salamander à Bucarest et Ilfov.
+Vous avez choisi des profilés Salamander GreenEvolution 76 ou bluEvolution 92 — des produits avec Uf jusqu'à 0,9 W/(m²K) et 47 dB d'isolation acoustique. Mais les performances techniques du profilé ne signifient rien si **la pose est mal exécutée**. Une mauvaise pose génère : des ponts thermiques à la jonction cadre-maçonnerie, des infiltrations d'eau et d'air, de la condensation sur les appuis de fenêtre et, avec le temps, des déformations du cadre. Ce guide vous montre exactement ce qu'implique une pose professionnelle de fenêtres Salamander à Bucarest et Ilfov.
 
 ## Étape 1 — Métrage et conception
 
@@ -7932,7 +7932,7 @@ Neofort BIZ pose des menuiseries Salamander avec ses propres équipes certifiée
 
       es: `## Por qué la instalación de ventanas Salamander importa tanto
 
-Ha elegido perfiles Salamander bluEvolution 82 o 92 — productos con Uf hasta 0,9 W/(m²K) y aislamiento acústico de 47 dB. Pero las prestaciones técnicas del perfil no significan nada si **la instalación se realiza incorrectamente**. Una instalación deficiente genera: puentes térmicos en la unión marco-mampostería, infiltraciones de agua y aire, condensación en los alféizares y, con el tiempo, deformaciones del marco. Esta guía le muestra exactamente qué implica una instalación profesional de ventanas Salamander en Bucarest e Ilfov.
+Ha elegido perfiles Salamander GreenEvolution 76 o bluEvolution 92 — productos con Uf hasta 0,9 W/(m²K) y aislamiento acústico de 47 dB. Pero las prestaciones técnicas del perfil no significan nada si **la instalación se realiza incorrectamente**. Una instalación deficiente genera: puentes térmicos en la unión marco-mampostería, infiltraciones de agua y aire, condensación en los alféizares y, con el tiempo, deformaciones del marco. Esta guía le muestra exactamente qué implica una instalación profesional de ventanas Salamander en Bucarest e Ilfov.
 
 ## Paso 1 — Medición y diseño
 
@@ -8013,7 +8013,7 @@ Neofort BIZ instala carpintería Salamander con equipos propios certificados nZE
 
       it: `## Perché l'installazione delle finestre Salamander è così importante
 
-Ha scelto profili Salamander bluEvolution 82 o 92 — prodotti con Uf fino a 0,9 W/(m²K) e isolamento acustico di 47 dB. Ma le prestazioni tecniche del profilo non contano nulla se **l'installazione viene eseguita in modo errato**. Un'installazione scorretta genera: ponti termici alla giunzione telaio-muratura, infiltrazioni d'acqua e aria, condensa sui davanzali e, nel tempo, deformazioni del telaio. Questa guida mostra esattamente cosa comporta un'installazione professionale di finestre Salamander a Bucarest e Ilfov.
+Ha scelto profili Salamander GreenEvolution 76 o bluEvolution 92 — prodotti con Uf fino a 0,9 W/(m²K) e isolamento acustico di 47 dB. Ma le prestazioni tecniche del profilo non contano nulla se **l'installazione viene eseguita in modo errato**. Un'installazione scorretta genera: ponti termici alla giunzione telaio-muratura, infiltrazioni d'acqua e aria, condensa sui davanzali e, nel tempo, deformazioni del telaio. Questa guida mostra esattamente cosa comporta un'installazione professionale di finestre Salamander a Bucarest e Ilfov.
 
 ## Fase 1 — Rilievo e progettazione
 
@@ -8139,22 +8139,22 @@ Neofort BIZ posa serramenti Salamander con squadre proprie certificate nZEB a Bu
       it: 'Quali sono i prezzi delle finestre Salamander a Bucarest? Guida completa 2026',
     },
     metaDesc: {
-      ro: "Prețuri ferestre Salamander: greenEvolution 76, bluEvolution 82 și 92. Tabele comparative, ce e inclus în ofertă și de ce depinde prețul final.",
-      en: "Salamander window prices in Bucharest: greenEvolution 76, bluEvolution 82 and 92. Comparison tables and what is actually included in a quote.",
-      de: "Salamander Fensterpreise in Bukarest: greenEvolution 76, bluEvolution 82 und 92. Vergleichstabellen und was im Angebot tatsächlich enthalten ist.",
-      fr: "Prix des fenêtres Salamander à Bucarest : greenEvolution 76, bluEvolution 82 et 92. Tableaux comparatifs et ce qu’un devis inclut vraiment.",
-      es: "Precios de ventanas Salamander en Bucarest: greenEvolution 76, bluEvolution 82 y 92. Tablas comparativas y qué incluye realmente un presupuesto.",
-      it: "Prezzi delle finestre Salamander a Bucarest: greenEvolution 76, bluEvolution 82 e 92. Tabelle comparative e cosa include davvero un preventivo.",
+      ro: "Prețuri ferestre Salamander: greenEvolution 76 și bluEvolution 92. Tabele comparative, ce e inclus în ofertă și de ce depinde prețul final.",
+      en: "Salamander window prices in Bucharest: greenEvolution 76 and bluEvolution 92. Comparison tables and what is actually included in a quote.",
+      de: "Salamander Fensterpreise in Bukarest: greenEvolution 76 und bluEvolution 92. Vergleichstabellen und was im Angebot tatsächlich enthalten ist.",
+      fr: "Prix des fenêtres Salamander à Bucarest : greenEvolution 76 et bluEvolution 92. Tableaux comparatifs et ce qu’un devis inclut vraiment.",
+      es: "Precios de ventanas Salamander en Bucarest: greenEvolution 76 y bluEvolution 92. Tablas comparativas y qué incluye realmente un presupuesto.",
+      it: "Prezzi delle finestre Salamander a Bucarest: greenEvolution 76 e bluEvolution 92. Tabelle comparative e cosa include davvero un preventivo.",
     },
     excerpt: {
-      ro: 'Cât costă ferestrele Salamander în București în 2026? Prețuri reale pentru greenEvolution 76, bluEvolution 82 și bluEvolution 92 — cu și fără montaj, factori care influențează prețul și ghid de interpretare a ofertelor.',
-      en: 'How much do Salamander windows cost in Bucharest in 2026? Real prices for greenEvolution 76, bluEvolution 82 and bluEvolution 92 — with and without installation, factors that influence the price and guide to interpreting quotes.',
-      de: 'Was kosten Salamander-Fenster in Bukarest 2026? Reale Preise für greenEvolution 76, bluEvolution 82 und bluEvolution 92 — mit und ohne Montage, Preiseinflussfaktoren und Leitfaden zur Angebotsinterpretation.',
-      fr: "Combien coûtent les fenêtres Salamander à Bucarest en 2026 ? Prix réels pour greenEvolution 76, bluEvolution 82 et bluEvolution 92 — avec et sans pose, facteurs influençant le prix et guide d'interprétation des devis.",
-      es: '¿Cuánto cuestan las ventanas Salamander en Bucarest en 2026? Precios reales para greenEvolution 76, bluEvolution 82 y bluEvolution 92 — con y sin instalación, factores que influyen en el precio y guía para interpretar presupuestos.',
-      it: `Quanto costano le finestre Salamander a Bucarest nel 2026? Prezzi reali per greenEvolution 76, bluEvolution 82 e bluEvolution 92 — con e senza installazione, fattori che influenzano il prezzo e guida all'interpretazione dei preventivi.`,
+      ro: 'Cât costă ferestrele Salamander în București în 2026? Prețuri reale pentru greenEvolution 76 și bluEvolution 92 — cu și fără montaj, factori care influențează prețul și ghid de interpretare a ofertelor.',
+      en: 'How much do Salamander windows cost in Bucharest in 2026? Real prices for greenEvolution 76 and bluEvolution 92 — with and without installation, factors that influence the price and guide to interpreting quotes.',
+      de: 'Was kosten Salamander-Fenster in Bukarest 2026? Reale Preise für greenEvolution 76 und bluEvolution 92 — mit und ohne Montage, Preiseinflussfaktoren und Leitfaden zur Angebotsinterpretation.',
+      fr: "Combien coûtent les fenêtres Salamander à Bucarest en 2026 ? Prix réels pour greenEvolution 76 et bluEvolution 92 — avec et sans pose, facteurs influençant le prix et guide d'interprétation des devis.",
+      es: '¿Cuánto cuestan las ventanas Salamander en Bucarest en 2026? Precios reales para greenEvolution 76 y bluEvolution 92 — con y sin instalación, factores que influyen en el precio y guía para interpretar presupuestos.',
+      it: `Quanto costano le finestre Salamander a Bucarest nel 2026? Prezzi reali per greenEvolution 76 e bluEvolution 92 — con e senza installazione, fattori che influenzano il prezzo e guida all'interpretazione dei preventivi.`,
     },
-    keywords: 'pret ferestre Salamander Bucuresti, termopane Salamander pret 2026, bluEvolution 82 pret, bluEvolution 92 pret, greenEvolution 76 pret, ferestre PVC Salamander pret, termopane Bucuresti pret, cat costa termopanele Salamander',
+    keywords: 'pret ferestre Salamander Bucuresti, termopane Salamander pret 2026, bluEvolution 92 pret, greenEvolution 76 pret, ferestre PVC Salamander pret, termopane Bucuresti pret, cat costa termopanele Salamander',
     dateDisplay: {
       ro: '18 apr 2026', en: 'Apr 18 2026', de: '18. Apr. 2026',
       fr: '18 avr. 2026', es: '18 abr 2026', it: '18 apr 2026',
@@ -8165,12 +8165,11 @@ Neofort BIZ posa serramenti Salamander con squadre proprie certificate nZEB a Bu
 Prețul unui sistem de ferestre Salamander depinde de **6 factori principali**, iar diferențele între oferte pot fi de 40–80% pentru aceeași dimensiune. Înainte să compari prețuri, trebuie să înțelegi ce include fiecare ofertă.
 
 ### 1. Tipul de profil Salamander
-Salamander produce 3 game principale disponibile în România:
+Neofort BIZ lucrează cu două game Salamander:
 
 | Profil | Camere | Adâncime | Garnituri | Standard | Utilizare recomandată |
 |---|---|---|---|---|---|
 | **greenEvolution 76** | 5 (6) | 76 mm | 3 | Clasa A | Locuințe standard, renovare economică |
-| **bluEvolution 82** | 6 | 82 mm | 3 | Clasa A | Case noi, eficiență energetică ridicată |
 | **bluEvolution 92** | 6 | 92 mm | 3 | Clasa A | Case pasive, nZEB, izolare maximă |
 
 ### 2. Tipul de geam termoizolator
@@ -8204,24 +8203,24 @@ Fereastra standard 100×120 cm costă semnificativ mai puțin decât fereastra 2
 
 ### Fereastră simplă oscilo-batantă (1 canat)
 
-| Dimensiune | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 80×120 cm, alb, geam dublu | 900–1.100 lei | 1.050–1.300 lei | 1.200–1.500 lei |
-| 80×120 cm, alb, geam triplu | 1.100–1.350 lei | 1.250–1.550 lei | 1.450–1.800 lei |
-| 100×150 cm, alb, geam triplu | 1.300–1.600 lei | 1.550–1.900 lei | 1.800–2.200 lei |
+| Dimensiune | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 80×120 cm, alb, geam dublu | 900–1.100 lei | 1.200–1.500 lei |
+| 80×120 cm, alb, geam triplu | 1.100–1.350 lei | 1.450–1.800 lei |
+| 100×150 cm, alb, geam triplu | 1.300–1.600 lei | 1.800–2.200 lei |
 
 ### Fereastră dublă (2 canate) oscilo-batantă
 
-| Dimensiune | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 150×120 cm, alb, geam triplu | 2.200–2.700 lei | 2.600–3.200 lei | 3.000–3.700 lei |
-| 200×140 cm, alb, geam triplu | 2.800–3.400 lei | 3.300–4.000 lei | 3.800–4.700 lei |
+| Dimensiune | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 150×120 cm, alb, geam triplu | 2.200–2.700 lei | 3.000–3.700 lei |
+| 200×140 cm, alb, geam triplu | 2.800–3.400 lei | 3.800–4.700 lei |
 
 ### Ușă termoizolantă (1 canat) — fără geam
 
-| Dimensiune | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 90×210 cm, alb, panel 44 mm | 2.000–2.500 lei | 2.400–3.000 lei | 2.800–3.500 lei |
+| Dimensiune | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 90×210 cm, alb, panel 44 mm | 2.000–2.500 lei | 2.800–3.500 lei |
 
 *Prețuri orientative 2026, fără TVA, fără montaj, pentru București și Ilfov. Prețul final poate diferi în funcție de feroneria aleasă, culoare, accesorii și dimensiunile exacte.*
 
@@ -8244,13 +8243,13 @@ Diferența de 700 lei se recuperează în 3–5 ani din facturile la energie —
 
 ---
 
-Neofort BIZ oferă ferestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) cu montaj nZEB în București și Ilfov. Ofertă personalizată în 48 de ore — [solicită acum](/ro/contact). Vezi [sistemele PVC Salamander](/ro/tamplarie-pvc) pe care le oferim. Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76).
+Neofort BIZ oferă ferestre Salamander (greenEvolution 76, bluEvolution 92) cu montaj nZEB în București și Ilfov. Ofertă personalizată în 48 de ore — [solicită acum](/ro/contact). Vezi [sistemele PVC Salamander](/ro/tamplarie-pvc) pe care le oferim. Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76).
 
 ## Întrebări frecvente
 
 ### De ce variază atât de mult prețurile la ferestrele Salamander?
 
-Prețul depinde de 6 factori principali: tipul de profil (greenEvolution 76, bluEvolution 82 sau 92), tipul de geam (dublu/triplu/Low-E), culoarea profilului, feroneria, dimensiunile și tipul de montaj. Diferențele între oferte pot ajunge la 40-80% pentru aceeași dimensiune.
+Prețul depinde de 6 factori principali: tipul de profil (greenEvolution 76 sau bluEvolution 92), tipul de geam (dublu/triplu/Low-E), culoarea profilului, feroneria, dimensiunile și tipul de montaj. Diferențele între oferte pot ajunge la 40-80% pentru aceeași dimensiune.
 
 ### Care e diferența de preț între geam dublu și triplu la Salamander?
 
@@ -8262,12 +8261,12 @@ Alb standard e prețul de bază. Folia imitație lemn (stejar, nuc, mahon, wenge
 
 ### Care profil Salamander e potrivit pentru ce tip de locuință?
 
-greenEvolution 76 (5-6 camere, 76 mm) e pentru locuințe standard și renovări economice; bluEvolution 82 (6 camere, 82 mm) pentru case noi cu eficiență ridicată; bluEvolution 92 (6 camere, 92 mm) pentru case pasive și nZEB cu izolare maximă.
+greenEvolution 76 (5-6 camere, 76 mm) e pentru locuințe standard și renovări economice; bluEvolution 92 (6 camere, 92 mm) pentru case pasive și nZEB cu izolare maximă.
 
 
 ---
 
-Neofort BIZ furnizează toate cele trei profile Salamander — greenEvolution 76, bluEvolution 82 și 92 — în București și Ilfov. [Trimite-ne dimensiunile](/ro/contact) și primești ofertă detaliată în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi) și [profilul Salamander greenEvolution 76 MD FLEX](/ro/produse/profil-pvc-greenevolution-76-md-flex).
+Neofort BIZ furnizează ambele profile Salamander — greenEvolution 76 și bluEvolution 92 — în București și Ilfov. [Trimite-ne dimensiunile](/ro/contact) și primești ofertă detaliată în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi) și [profilul Salamander greenEvolution 76 MD FLEX](/ro/produse/profil-pvc-greenevolution-76-md-flex).
 `,
 
       en: `## What Influences Salamander Window Prices in Bucharest?
@@ -8275,12 +8274,11 @@ Neofort BIZ furnizează toate cele trei profile Salamander — greenEvolution 76
 The price of a Salamander window system depends on **6 main factors**, and differences between quotes can be 40–80% for the same dimensions. Before comparing prices, you need to understand what each quote includes.
 
 ### 1. Salamander Profile Type
-Salamander produces 3 main ranges available in Romania:
+Neofort BIZ works with two Salamander ranges:
 
 | Profile | Chambers | Depth | Gaskets | Class | Recommended use |
 |---|---|---|---|---|---|
 | **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Standard housing, economic renovation |
-| **bluEvolution 82** | 6 | 82 mm | 3 | A | New homes, high energy efficiency |
 | **bluEvolution 92** | 6 | 92 mm | 3 | A | Passive houses, nZEB, maximum insulation |
 
 ### 2. Type of Glazing Unit
@@ -8314,24 +8312,24 @@ A standard 100×120 cm window costs significantly less than a 200×200 cm window
 
 ### Single Tilt-and-Turn Window (1 Sash)
 
-| Size | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 80×120 cm, white, double glazing | €180–220 | €210–260 | €240–300 |
-| 80×120 cm, white, triple glazing | €220–270 | €250–310 | €290–360 |
-| 100×150 cm, white, triple glazing | €260–320 | €310–380 | €360–440 |
+| Size | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 80×120 cm, white, double glazing | €180–220 | €240–300 |
+| 80×120 cm, white, triple glazing | €220–270 | €290–360 |
+| 100×150 cm, white, triple glazing | €260–320 | €360–440 |
 
 ### Double Tilt-and-Turn Window (2 Sashes)
 
-| Size | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 150×120 cm, white, triple glazing | €440–540 | €520–640 | €600–740 |
-| 200×140 cm, white, triple glazing | €560–680 | €660–800 | €760–940 |
+| Size | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 150×120 cm, white, triple glazing | €440–540 | €600–740 |
+| 200×140 cm, white, triple glazing | €560–680 | €760–940 |
 
 ### Insulated Door (1 Sash) — Without Glazing
 
-| Size | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 90×210 cm, white, 44 mm panel | €400–500 | €480–600 | €560–700 |
+| Size | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 90×210 cm, white, 44 mm panel | €400–500 | €560–700 |
 
 *Indicative prices 2026, VAT excluded, without installation, for Bucharest and Ilfov. Final price may differ depending on chosen hardware, colour, accessories and exact dimensions.*
 
@@ -8349,13 +8347,13 @@ The €140 difference is recovered in 3–5 years from energy bills — and abov
 
 ---
 
-Neofort BIZ offers Salamander windows (greenEvolution 76, bluEvolution 82, bluEvolution 92) with nZEB installation in Bucharest and Ilfov. Personalised quote in 48 hours — [request now](/en/contact). Discover [the PVC windows range](/en/pvc-windows) we offer. See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).
+Neofort BIZ offers Salamander windows (greenEvolution 76, bluEvolution 92) with nZEB installation in Bucharest and Ilfov. Personalised quote in 48 hours — [request now](/en/contact). Discover [the PVC windows range](/en/pvc-windows) we offer. See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).
 
 ## Frequently Asked Questions
 
 ### Why do Salamander window prices vary so much?
 
-The price depends on 6 main factors: profile type (greenEvolution 76, bluEvolution 82 or 92), glazing type (double/triple/Low-E), profile colour, hardware, dimensions and fitting type. Differences between quotes can reach 40-80% for the same size.
+The price depends on 6 main factors: profile type (greenEvolution 76 or bluEvolution 92), glazing type (double/triple/Low-E), profile colour, hardware, dimensions and fitting type. Differences between quotes can reach 40-80% for the same size.
 
 ### What is the price difference between double and triple glazing at Salamander?
 
@@ -8367,12 +8365,12 @@ Standard white is the base price. Wood-effect foil (oak, walnut, mahogany, wenge
 
 ### Which Salamander profile suits which type of home?
 
-greenEvolution 76 (5-6 chambers, 76 mm) is for standard homes and economical renovations; bluEvolution 82 (6 chambers, 82 mm) for new houses with high efficiency; bluEvolution 92 (6 chambers, 92 mm) for passive houses and nZEB with maximum insulation.
+greenEvolution 76 (5-6 chambers, 76 mm) is for standard homes and economical renovations; bluEvolution 92 (6 chambers, 92 mm) for passive houses and nZEB with maximum insulation.
 
 
 ---
 
-Neofort BIZ supplies all three Salamander profiles — greenEvolution 76, bluEvolution 82 and 92 — in Bucharest and Ilfov. [Send us your dimensions](/en/contact) and you will receive a detailed quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Useful pages: [PVC window prices](/en/pvc-windows/prices) and [the Salamander greenEvolution 76 MD FLEX profile](/en/products/greenevolution-76-md-flex-pvc-profile).
+Neofort BIZ supplies both Salamander profiles — greenEvolution 76 and bluEvolution 92 — in Bucharest and Ilfov. [Send us your dimensions](/en/contact) and you will receive a detailed quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Useful pages: [PVC window prices](/en/pvc-windows/prices) and [the Salamander greenEvolution 76 MD FLEX profile](/en/products/greenevolution-76-md-flex-pvc-profile).
 `,
 
       de: `## Was beeinflusst die Preise von Salamander-Fenstern in Bukarest?
@@ -8384,7 +8382,6 @@ Der Preis eines Salamander-Fenstersystems hängt von **6 Hauptfaktoren** ab, und
 | Profil | Kammern | Tiefe | Dichtungen | Klasse | Empfohlener Einsatz |
 |---|---|---|---|---|---|
 | **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Standard-Wohnungsbau, wirtschaftliche Renovierung |
-| **bluEvolution 82** | 6 | 82 mm | 3 | A | Neubau, hohe Energieeffizienz |
 | **bluEvolution 92** | 6 | 92 mm | 3 | A | Passivhäuser, nZEB, maximale Dämmung |
 
 ### 2. Verglasungspaket
@@ -8414,18 +8411,18 @@ Der Preis eines Salamander-Fenstersystems hängt von **6 Hauptfaktoren** ab, und
 
 ### Einfaches Dreh-Kipp-Fenster (1 Flügel)
 
-| Größe | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 80×120 cm, weiß, Zweifachverg. | 180–220 € | 210–260 € | 240–300 € |
-| 80×120 cm, weiß, Dreifachverg. | 220–270 € | 250–310 € | 290–360 € |
-| 100×150 cm, weiß, Dreifachverg. | 260–320 € | 310–380 € | 360–440 € |
+| Größe | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 80×120 cm, weiß, Zweifachverg. | 180–220 € | 240–300 € |
+| 80×120 cm, weiß, Dreifachverg. | 220–270 € | 290–360 € |
+| 100×150 cm, weiß, Dreifachverg. | 260–320 € | 360–440 € |
 
 ### Doppelflügelfenster (2 Flügel) Dreh-Kipp
 
-| Größe | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 150×120 cm, weiß, Dreifachverg. | 440–540 € | 520–640 € | 600–740 € |
-| 200×140 cm, weiß, Dreifachverg. | 560–680 € | 660–800 € | 760–940 € |
+| Größe | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 150×120 cm, weiß, Dreifachverg. | 440–540 € | 600–740 € |
+| 200×140 cm, weiß, Dreifachverg. | 560–680 € | 760–940 € |
 
 *Richtwerte 2026, ohne MwSt., ohne Montage, für Bukarest und Ilfov.*
 
@@ -8443,13 +8440,13 @@ Die Differenz von 140 € amortisiert sich in 3–5 Jahren über die Energiekost
 
 ---
 
-Neofort BIZ bietet Salamander-Fenster (greenEvolution 76, bluEvolution 82, bluEvolution 92) mit nZEB-Montage in Bukarest und Ilfov. Individuelles Angebot in 48 Stunden — [jetzt anfragen](/de/kontakt). Entdecken Sie das [PVC-Fenster-Sortiment](/de/kunststofffenster-pvc), das wir anbieten. Siehe auch [den Vergleich bluEvolution 92 vs greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden).
+Neofort BIZ bietet Salamander-Fenster (greenEvolution 76, bluEvolution 92) mit nZEB-Montage in Bukarest und Ilfov. Individuelles Angebot in 48 Stunden — [jetzt anfragen](/de/kontakt). Entdecken Sie das [PVC-Fenster-Sortiment](/de/kunststofffenster-pvc), das wir anbieten. Siehe auch [den Vergleich bluEvolution 92 vs greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden).
 
 ## Häufig gestellte Fragen
 
 ### Warum variieren die Preise für Salamander-Fenster so stark?
 
-Der Preis hängt von 6 Hauptfaktoren ab: Profiltyp (greenEvolution 76, bluEvolution 82 oder 92), Verglasungstyp (Doppel/Dreifach/Low-E), Profilfarbe, Beschlag, Maße und Einbauart. Die Unterschiede zwischen Angeboten können 40-80% bei gleicher Größe erreichen.
+Der Preis hängt von 6 Hauptfaktoren ab: Profiltyp (greenEvolution 76 oder bluEvolution 92), Verglasungstyp (Doppel/Dreifach/Low-E), Profilfarbe, Beschlag, Maße und Einbauart. Die Unterschiede zwischen Angeboten können 40-80% bei gleicher Größe erreichen.
 
 ### Was ist der Preisunterschied zwischen Doppel- und Dreifachglas bei Salamander?
 
@@ -8461,12 +8458,12 @@ Standardweiß ist der Basispreis. Holzoptik-Folie (Eiche, Nuss, Mahagoni, Wenge)
 
 ### Welches Salamander-Profil passt zu welchem Haustyp?
 
-greenEvolution 76 (5-6 Kammern, 76 mm) ist für Standardhäuser und wirtschaftliche Renovierungen; bluEvolution 82 (6 Kammern, 82 mm) für Neubauten mit hoher Effizienz; bluEvolution 92 (6 Kammern, 92 mm) für Passivhäuser und nZEB mit maximaler Dämmung.
+greenEvolution 76 (5-6 Kammern, 76 mm) ist für Standardhäuser und wirtschaftliche Renovierungen; bluEvolution 92 (6 Kammern, 92 mm) für Passivhäuser und nZEB mit maximaler Dämmung.
 
 
 ---
 
-Neofort BIZ liefert alle drei Salamander-Profile — greenEvolution 76, bluEvolution 82 und 92 — in Bukarest und Ilfov. [Senden Sie uns Ihre Maße](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein detailliertes Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc). Nützliche Seiten: [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise) und [Salamander-Profil greenEvolution 76 MD FLEX](/de/produkte/greenevolution-76-md-flex-pvc-profil).
+Neofort BIZ liefert beide Salamander-Profile — greenEvolution 76 und bluEvolution 92 — in Bukarest und Ilfov. [Senden Sie uns Ihre Maße](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein detailliertes Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc). Nützliche Seiten: [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise) und [Salamander-Profil greenEvolution 76 MD FLEX](/de/produkte/greenevolution-76-md-flex-pvc-profil).
 `,
 
       fr: `## Qu'est-ce qui influence les prix des fenêtres Salamander à Bucarest ?
@@ -8478,7 +8475,6 @@ Le prix d'un système de fenêtres Salamander dépend de **6 facteurs principaux
 | Profilé | Chambres | Profondeur | Joints | Classe | Utilisation recommandée |
 |---|---|---|---|---|---|
 | **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Logement standard, rénovation économique |
-| **bluEvolution 82** | 6 | 82 mm | 3 | A | Maisons neuves, haute efficacité énergétique |
 | **bluEvolution 92** | 6 | 92 mm | 3 | A | Maisons passives, nZEB, isolation maximale |
 
 ### 2. Type de vitrage
@@ -8508,18 +8504,18 @@ Le prix d'un système de fenêtres Salamander dépend de **6 facteurs principaux
 
 ### Fenêtre simple oscillo-battante (1 vantail)
 
-| Dimension | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 80×120 cm, blanc, double vitrage | 180–220 € | 210–260 € | 240–300 € |
-| 80×120 cm, blanc, triple vitrage | 220–270 € | 250–310 € | 290–360 € |
-| 100×150 cm, blanc, triple vitrage | 260–320 € | 310–380 € | 360–440 € |
+| Dimension | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 80×120 cm, blanc, double vitrage | 180–220 € | 240–300 € |
+| 80×120 cm, blanc, triple vitrage | 220–270 € | 290–360 € |
+| 100×150 cm, blanc, triple vitrage | 260–320 € | 360–440 € |
 
 ### Fenêtre double oscillo-battante (2 vantaux)
 
-| Dimension | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 150×120 cm, blanc, triple vitrage | 440–540 € | 520–640 € | 600–740 € |
-| 200×140 cm, blanc, triple vitrage | 560–680 € | 660–800 € | 760–940 € |
+| Dimension | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 150×120 cm, blanc, triple vitrage | 440–540 € | 600–740 € |
+| 200×140 cm, blanc, triple vitrage | 560–680 € | 760–940 € |
 
 *Prix indicatifs 2026, hors TVA, sans pose, pour Bucarest et Ilfov.*
 
@@ -8537,13 +8533,13 @@ La différence de 140 € est récupérée en 3–5 ans sur les factures d'éner
 
 ---
 
-Neofort BIZ propose des fenêtres Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) avec pose nZEB à Bucarest et Ilfov. Devis personnalisé en 48 heures — [demander maintenant](/fr/contact). Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) que nous proposons. Voir aussi [la comparaison bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide).
+Neofort BIZ propose des fenêtres Salamander (greenEvolution 76, bluEvolution 92) avec pose nZEB à Bucarest et Ilfov. Devis personnalisé en 48 heures — [demander maintenant](/fr/contact). Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) que nous proposons. Voir aussi [la comparaison bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide).
 
 ## Questions fréquentes
 
 ### Pourquoi les prix des fenêtres Salamander varient-ils autant ?
 
-Le prix dépend de 6 facteurs principaux : type de profilé (greenEvolution 76, bluEvolution 82 ou 92), type de vitrage (double/triple/Low-E), couleur du profilé, quincaillerie, dimensions et type de pose. Les écarts entre devis peuvent atteindre 40-80% pour la même taille.
+Le prix dépend de 6 facteurs principaux : type de profilé (greenEvolution 76 ou bluEvolution 92), type de vitrage (double/triple/Low-E), couleur du profilé, quincaillerie, dimensions et type de pose. Les écarts entre devis peuvent atteindre 40-80% pour la même taille.
 
 ### Quelle est la différence de prix entre double et triple vitrage chez Salamander ?
 
@@ -8555,12 +8551,12 @@ Le blanc standard est le prix de base. Le film aspect bois (chêne, noyer, acajo
 
 ### Quel profilé Salamander convient à quel type de logement ?
 
-Le greenEvolution 76 (5-6 chambres, 76 mm) est pour les logements standard et rénovations économiques ; le bluEvolution 82 (6 chambres, 82 mm) pour les maisons neuves à haute efficacité ; le bluEvolution 92 (6 chambres, 92 mm) pour les maisons passives et nZEB à isolation maximale.
+Le greenEvolution 76 (5-6 chambres, 76 mm) est pour les logements standard et rénovations économiques ; le bluEvolution 92 (6 chambres, 92 mm) pour les maisons passives et nZEB à isolation maximale.
 
 
 ---
 
-Neofort BIZ fournit les trois profilés Salamander — greenEvolution 76, bluEvolution 82 et 92 — à Bucarest et dans l’Ilfov. [Transmettez-nous vos dimensions](/fr/contact) et recevez un devis détaillé sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc). Pages utiles : [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix) et [le profilé Salamander greenEvolution 76 MD FLEX](/fr/produits/profil-pvc-greenevolution-76-md-flex).
+Neofort BIZ fournit les deux profilés Salamander — greenEvolution 76 et bluEvolution 92 — à Bucarest et dans l’Ilfov. [Transmettez-nous vos dimensions](/fr/contact) et recevez un devis détaillé sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc). Pages utiles : [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix) et [le profilé Salamander greenEvolution 76 MD FLEX](/fr/produits/profil-pvc-greenevolution-76-md-flex).
 `,
 
       es: `## ¿Qué influye en los precios de las ventanas Salamander en Bucarest?
@@ -8572,7 +8568,6 @@ El precio de un sistema de ventanas Salamander depende de **6 factores principal
 | Perfil | Cámaras | Profundidad | Juntas | Clase | Uso recomendado |
 |---|---|---|---|---|---|
 | **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Vivienda estándar, renovación económica |
-| **bluEvolution 82** | 6 | 82 mm | 3 | A | Casas nuevas, alta eficiencia energética |
 | **bluEvolution 92** | 6 | 92 mm | 3 | A | Casas pasivas, nZEB, aislamiento máximo |
 
 ### 2. Tipo de acristalamiento
@@ -8602,18 +8597,18 @@ El precio de un sistema de ventanas Salamander depende de **6 factores principal
 
 ### Ventana simple oscilo-batiente (1 hoja)
 
-| Tamaño | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 80×120 cm, blanco, doble acrist. | 180–220 € | 210–260 € | 240–300 € |
-| 80×120 cm, blanco, triple acrist. | 220–270 € | 250–310 € | 290–360 € |
-| 100×150 cm, blanco, triple acrist. | 260–320 € | 310–380 € | 360–440 € |
+| Tamaño | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 80×120 cm, blanco, doble acrist. | 180–220 € | 240–300 € |
+| 80×120 cm, blanco, triple acrist. | 220–270 € | 290–360 € |
+| 100×150 cm, blanco, triple acrist. | 260–320 € | 360–440 € |
 
 ### Ventana doble oscilo-batiente (2 hojas)
 
-| Tamaño | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 150×120 cm, blanco, triple acrist. | 440–540 € | 520–640 € | 600–740 € |
-| 200×140 cm, blanco, triple acrist. | 560–680 € | 660–800 € | 760–940 € |
+| Tamaño | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 150×120 cm, blanco, triple acrist. | 440–540 € | 600–740 € |
+| 200×140 cm, blanco, triple acrist. | 560–680 € | 760–940 € |
 
 *Precios orientativos 2026, sin IVA, sin instalación, para Bucarest e Ilfov.*
 
@@ -8631,13 +8626,13 @@ La diferencia de 140 € se recupera en 3–5 años en facturas de energía — 
 
 ---
 
-Neofort BIZ ofrece ventanas Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 48 horas — [solicitar ahora](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos. Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
+Neofort BIZ ofrece ventanas Salamander (greenEvolution 76, bluEvolution 92) con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 48 horas — [solicitar ahora](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos. Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
 
 ## Preguntas frecuentes
 
 ### ¿Por qué varían tanto los precios de las ventanas Salamander?
 
-El precio depende de 6 factores principales: tipo de perfil (greenEvolution 76, bluEvolution 82 o 92), tipo de vidrio (doble/triple/Low-E), color del perfil, herrajes, dimensiones y tipo de instalación. Las diferencias entre presupuestos pueden llegar al 40-80% para el mismo tamaño.
+El precio depende de 6 factores principales: tipo de perfil (greenEvolution 76 o bluEvolution 92), tipo de vidrio (doble/triple/Low-E), color del perfil, herrajes, dimensiones y tipo de instalación. Las diferencias entre presupuestos pueden llegar al 40-80% para el mismo tamaño.
 
 ### ¿Cuál es la diferencia de precio entre vidrio doble y triple en Salamander?
 
@@ -8649,12 +8644,12 @@ El blanco estándar es el precio base. La lámina imitación madera (roble, noga
 
 ### ¿Qué perfil Salamander conviene a cada tipo de vivienda?
 
-El greenEvolution 76 (5-6 cámaras, 76 mm) es para viviendas estándar y reformas económicas; el bluEvolution 82 (6 cámaras, 82 mm) para casas nuevas de alta eficiencia; el bluEvolution 92 (6 cámaras, 92 mm) para casas pasivas y nZEB con aislamiento máximo.
+El greenEvolution 76 (5-6 cámaras, 76 mm) es para viviendas estándar y reformas económicas; el bluEvolution 92 (6 cámaras, 92 mm) para casas pasivas y nZEB con aislamiento máximo.
 
 
 ---
 
-Neofort BIZ suministra los tres perfiles Salamander — greenEvolution 76, bluEvolution 82 y 92 — en Bucarest e Ilfov. [Envíenos sus medidas](/es/contacto) y recibirá un presupuesto detallado en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc). Páginas útiles: [los precios de la carpintería PVC](/es/carpinteria-pvc/precios) y [el perfil Salamander greenEvolution 76 MD FLEX](/es/productos/perfil-pvc-greenevolution-76-md-flex).
+Neofort BIZ suministra los dos perfiles Salamander — greenEvolution 76 y bluEvolution 92 — en Bucarest e Ilfov. [Envíenos sus medidas](/es/contacto) y recibirá un presupuesto detallado en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc). Páginas útiles: [los precios de la carpintería PVC](/es/carpinteria-pvc/precios) y [el perfil Salamander greenEvolution 76 MD FLEX](/es/productos/perfil-pvc-greenevolution-76-md-flex).
 `,
 
       it: `## Cosa influenza i prezzi delle finestre Salamander a Bucarest?
@@ -8666,7 +8661,6 @@ Il prezzo di un sistema di finestre Salamander dipende da **6 fattori principali
 | Profilo | Camere | Profondità | Guarnizioni | Classe | Uso consigliato |
 |---|---|---|---|---|---|
 | **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Abitazioni standard, ristrutturazione economica |
-| **bluEvolution 82** | 6 | 82 mm | 3 | A | Nuove costruzioni, alta efficienza energetica |
 | **bluEvolution 92** | 6 | 92 mm | 3 | A | Case passive, nZEB, isolamento massimo |
 
 ### 2. Tipo di vetrocamera
@@ -8696,18 +8690,18 @@ Il prezzo di un sistema di finestre Salamander dipende da **6 fattori principali
 
 ### Finestra semplice anta-ribalta (1 anta)
 
-| Dimensione | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 80×120 cm, bianco, doppio vetro | 180–220 € | 210–260 € | 240–300 € |
-| 80×120 cm, bianco, triplo vetro | 220–270 € | 250–310 € | 290–360 € |
-| 100×150 cm, bianco, triplo vetro | 260–320 € | 310–380 € | 360–440 € |
+| Dimensione | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 80×120 cm, bianco, doppio vetro | 180–220 € | 240–300 € |
+| 80×120 cm, bianco, triplo vetro | 220–270 € | 290–360 € |
+| 100×150 cm, bianco, triplo vetro | 260–320 € | 360–440 € |
 
 ### Finestra doppia anta-ribalta (2 ante)
 
-| Dimensione | greenEvolution 76 | bluEvolution 82 | bluEvolution 92 |
-|---|---|---|---|
-| 150×120 cm, bianco, triplo vetro | 440–540 € | 520–640 € | 600–740 € |
-| 200×140 cm, bianco, triplo vetro | 560–680 € | 660–800 € | 760–940 € |
+| Dimensione | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 150×120 cm, bianco, triplo vetro | 440–540 € | 600–740 € |
+| 200×140 cm, bianco, triplo vetro | 560–680 € | 760–940 € |
 
 *Prezzi indicativi 2026, IVA esclusa, senza installazione, per Bucarest e Ilfov.*
 
@@ -8725,13 +8719,13 @@ La differenza di 140 € si recupera in 3–5 anni sulle bollette energetiche �
 
 ---
 
-Neofort BIZ offre finestre Salamander (greenEvolution 76, bluEvolution 82, bluEvolution 92) con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 48 ore — [richiedi ora](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo. Vedi anche [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
+Neofort BIZ offre finestre Salamander (greenEvolution 76, bluEvolution 92) con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 48 ore — [richiedi ora](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo. Vedi anche [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
 
 ## Domande frequenti
 
 ### Perché i prezzi delle finestre Salamander variano così tanto?
 
-Il prezzo dipende da 6 fattori principali: tipo di profilo (greenEvolution 76, bluEvolution 82 o 92), tipo di vetro (doppio/triplo/Low-E), colore del profilo, ferramenta, dimensioni e tipo di posa. Le differenze tra preventivi possono raggiungere il 40-80% per la stessa misura.
+Il prezzo dipende da 6 fattori principali: tipo di profilo (greenEvolution 76 o bluEvolution 92), tipo di vetro (doppio/triplo/Low-E), colore del profilo, ferramenta, dimensioni e tipo di posa. Le differenze tra preventivi possono raggiungere il 40-80% per la stessa misura.
 
 ### Qual è la differenza di prezzo tra vetro doppio e triplo da Salamander?
 
@@ -8743,12 +8737,12 @@ Il bianco standard è il prezzo base. La pellicola effetto legno (rovere, noce, 
 
 ### Quale profilo Salamander è adatto a quale tipo di abitazione?
 
-Il greenEvolution 76 (5-6 camere, 76 mm) è per abitazioni standard e ristrutturazioni economiche; il bluEvolution 82 (6 camere, 82 mm) per case nuove ad alta efficienza; il bluEvolution 92 (6 camere, 92 mm) per case passive e nZEB con isolamento massimo.
+Il greenEvolution 76 (5-6 camere, 76 mm) è per abitazioni standard e ristrutturazioni economiche; il bluEvolution 92 (6 camere, 92 mm) per case passive e nZEB con isolamento massimo.
 
 
 ---
 
-Neofort BIZ fornisce tutti e tre i profili Salamander — greenEvolution 76, bluEvolution 82 e 92 — a Bucarest e nell’Ilfov. [Inviateci le vostre misure](/it/contatti) e riceverete un preventivo dettagliato entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc). Pagine utili: [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi) e [il profilo Salamander greenEvolution 76 MD FLEX](/it/prodotti/profilo-pvc-greenevolution-76-md-flex).
+Neofort BIZ fornisce entrambi i profili Salamander — greenEvolution 76 e bluEvolution 92 — a Bucarest e nell’Ilfov. [Inviateci le vostre misure](/it/contatti) e riceverete un preventivo dettagliato entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc). Pagine utili: [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi) e [il profilo Salamander greenEvolution 76 MD FLEX](/it/prodotti/profilo-pvc-greenevolution-76-md-flex).
 `,
     },
   },
@@ -12624,12 +12618,12 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
       it: 'Infissi in alluminio con taglio termico — guida completa 2026: sistemi Alumil, prezzi e prestazioni',
     },
     excerpt: {
-      ro: 'Bariera termică din poliamidă 34 mm separă fizic interiorul de exteriorul profilului de aluminiu, eliminând puntea termică și ducând Uw-ul la 0,95–1,3 W/m²K. Ghid complet: ce sisteme Alumil Supreme și Smartia recomandăm, cum alegi între barieră 34 mm vs 52 mm și ce prețuri să aștepți în 2026.',
-      en: 'The 34 mm polyamide thermal break physically separates the inside from the outside of the aluminium profile, eliminating the thermal bridge and bringing Uw down to 0.95–1.3 W/m²K. Complete guide: which Alumil Supreme and Smartia systems we recommend, how to choose between 34 mm vs 52 mm break, and what prices to expect in 2026.',
-      de: 'Die 34 mm Polyamid-Wärmedämmung trennt physisch Innen- und Außenseite des Aluminiumprofils, eliminiert die Wärmebrücke und bringt Uw auf 0,95–1,3 W/m²K. Komplettleitfaden: welche Alumil Supreme- und Smartia-Systeme wir empfehlen, wie Sie zwischen 34 mm und 52 mm Trennung wählen und welche Preise Sie 2026 erwarten.',
-      fr: 'La rupture thermique en polyamide 34 mm sépare physiquement l\'intérieur de l\'extérieur du profil aluminium, éliminant le pont thermique et ramenant le Uw à 0,95–1,3 W/m²K. Guide complet : quels systèmes Alumil Supreme et Smartia nous recommandons, comment choisir entre rupture 34 mm et 52 mm et quels prix attendre en 2026.',
-      es: 'El rotura de puente térmico de poliamida 34 mm separa físicamente el interior del exterior del perfil de aluminio, eliminando el puente térmico y llevando el Uw a 0,95–1,3 W/m²K. Guía completa: qué sistemas Alumil Supreme y Smartia recomendamos, cómo elegir entre rotura 34 mm y 52 mm y qué precios esperar en 2026.',
-      it: `Il taglio termico in poliammide 34 mm separa fisicamente l'interno dall'esterno del profilo in alluminio, eliminando il ponte termico e portando Uw a 0,95–1,3 W/m²K. Guida completa: quali sistemi Alumil Supreme e Smartia consigliamo, come scegliere tra taglio 34 mm e 52 mm e quali prezzi aspettarsi nel 2026.`,
+      ro: 'Bariera termică din poliamidă separă fizic interiorul de exteriorul profilului de aluminiu și elimină puntea termică: 30 mm la Alumil Smartia S67 (Uf de la 1,5), 40 mm la Supreme S77 (Uf de la 0,86 W/m²K). Ghid complet: ce sisteme Alumil recomandăm, cum alegi între ele și ce prețuri să aștepți în 2026.',
+      en: 'The polyamide thermal break physically separates the inside from the outside of the aluminium profile and removes the thermal bridge: 30 mm on Alumil Smartia S67 (Uf from 1.5), 40 mm on Supreme S77 (Uf from 0.86 W/m²K). Complete guide: which Alumil systems we recommend, how to choose between them and what prices to expect in 2026.',
+      de: 'Die thermische Trennung aus Polyamid trennt Innen- und Außenseite des Aluminiumprofils und beseitigt die Wärmebrücke: 30 mm bei Alumil Smartia S67 (Uf ab 1,5), 40 mm bei Supreme S77 (Uf ab 0,86 W/m²K). Komplettleitfaden: welche Alumil-Systeme wir empfehlen, wie Sie zwischen ihnen wählen und welche Preise Sie 2026 erwarten.',
+      fr: 'La rupture thermique en polyamide sépare physiquement l’intérieur de l’extérieur du profilé aluminium et supprime le pont thermique : 30 mm sur l’Alumil Smartia S67 (Uf à partir de 1,5), 40 mm sur le Supreme S77 (Uf à partir de 0,86 W/m²K). Guide complet : quels systèmes Alumil nous recommandons, comment choisir et quels prix attendre en 2026.',
+      es: 'La rotura de puente térmico de poliamida separa físicamente el interior del exterior del perfil de aluminio y elimina el puente térmico: 30 mm en Alumil Smartia S67 (Uf desde 1,5), 40 mm en Supreme S77 (Uf desde 0,86 W/m²K). Guía completa: qué sistemas Alumil recomendamos, cómo elegir entre ellos y qué precios esperar en 2026.',
+      it: 'Il taglio termico in poliammide separa fisicamente l’interno dall’esterno del profilo in alluminio ed elimina il ponte termico: 30 mm su Alumil Smartia S67 (Uf da 1,5), 40 mm su Supreme S77 (Uf da 0,86 W/m²K). Guida completa: quali sistemi Alumil consigliamo, come scegliere e quali prezzi aspettarsi nel 2026.',
     },
     metaDesc: {
       ro: "Tâmplărie din aluminiu cu barieră termică: sistemele Alumil Supreme și Smartia, valori Uw reale, deschideri maxime și prețuri pe metru pătrat.",
@@ -12674,81 +12668,81 @@ Aluminiul acoperă o gamă mult mai largă decât ferestrele obișnuite. În fun
 
 ## Cu barieră termică vs fără: comparație directă
 
-| Caracteristică | Aluminiu fără barieră | Aluminiu cu barieră 34 mm | Aluminiu cu barieră 52 mm |
+| Caracteristică | Aluminiu fără barieră | Smartia S67 (poliamidă 30 mm) | Supreme S77 (poliamidă 40 mm) |
 |---|---|---|---|
-| Uf profil (W/m²K) | 5,5–7,0 | 2,0–2,5 | 1,3–1,6 |
-| Uw fereastră completă | 3,5–5,0 | 1,4–1,8 | 0,95–1,2 |
+| Uf profil (W/m²K) | 5,5–7,0 | de la 1,5 | de la 0,86 |
+| Uw fereastră completă (W/m²K) | 3,5–5,0 | de la 1,3 | de la 1,0 |
 | Condens pe toc | Frecvent | Absent | Absent |
-| Utilizare exterior | **Nu** | Da | Da, inclusiv case pasive |
-| Certificare nZEB | Nu | Posibil cu geam tripan | Da |
+| Utilizare la exterior | **Nu** | Da | Da |
+| Potrivit pentru nZEB | Nu | Cu geam tripan | Da |
 | Cost relativ | Scăzut | Mediu | Premium |
 
 ---
 
 ## Sisteme Alumil disponibile la Neofort BIZ
 
-### Alumil Supreme SF85 — performanță maximă
+### Alumil Supreme S77 — ferestre și uși, performanță maximă
 
-**Poliamidă 34 mm** cu inserții Kooltherm și spumă izolatoare. Uf = 1,6 W/m²K, Uw = 0,95–1,1 W/m²K cu geam tripan 4-16-4-16-4.
+**Poliamidă 40 mm**, cea mai lată barieră termică din gama Alumil. Uf de la 0,86 W/m²K, Uw de la 1,0 W/m²K.
 
 Specificații tehnice:
-- Adâncime profil: **85 mm**
-- Garnituri: 3 rânduri EPDM co-extrudate
-- Feronerie: 4 puncte de închidere, antiefracție RC2
-- Geam maxim: **52 mm** (tripan Low-E posibil)
-- Culori: **toate culorile RAL + imitație lemn** prin vopsire electrostatică
-- Certificat **Passive House Institute (PHI)**
+- Adâncime constructivă: **77–93 mm**
+- Garnituri: 3 garnituri EPDM perimetrale
+- Geam compatibil: **24–72 mm** (dublu sau triplu)
+- Izolare fonică: până la 42 dB
+- Antiefracție: **RC3**
 
-Recomandat pentru: locuințe premium, vile moderne, proiecte nZEB, renovări cu cerințe energetice ridicate.
+Recomandat pentru: vile, case nZEB, fațade premium, proiecte cu cerințe energetice ridicate.
 
 ### Alumil Smartia S67 — raport calitate-preț optim
 
-**Poliamidă 34 mm** standard. Uf = 2,0 W/m²K, Uw = 1,2–1,4 W/m²K.
+**Poliamidă 30 mm**. Uf de la 1,5 W/m²K, Uw de la 1,3 W/m²K.
 
 Specificații tehnice:
-- Adâncime profil: **67 mm**
-- Garnituri: 2 rânduri EPDM
-- Feronerie: 4 puncte de închidere
-- Geam maxim: **40 mm** (dublu Low-E)
-- Culori: catalog RAL complet
+- Adâncime constructivă: **67–75 mm**
+- Garnituri: 3 garnituri EPDM perimetrale
+- Geam compatibil: **24–58 mm** (dublu sau triplu)
+- Izolare fonică: până la 45 dB
+- Antiefracție: RC2 standard, RC3 opțional
 
-Recomandat pentru: blocuri, birouri, spații comerciale, proiecte cu buget mediu-ridicat.
+Recomandat pentru: blocuri, birouri, spații comerciale, renovări cu buget mediu.
 
-### Alumil Smartia S350 — sisteme glisante
+### Sisteme glisante și armonice
 
-Sistem **osciloculisant** și **liftant-glisant** cu barieră termică. Ideal pentru terase, livinguri cu deschideri mari spre exterior.
-
-- Deschideri până la **4,5 m lățime** per panou
-- Uw = 1,2 W/m²K
-- Feronerie anti-efracție RC2
+- **Alumil Supreme S700** — liftant-glisant cu barieră termică Kooltherm, Uf de la 1,1 W/m²K, foi de până la 500 kg.
+- **Alumil Smartia S350** — liftant-glisant economic, barieră termică 28 mm, Uf de la 2,9 W/m²K.
+- **Alumil Supreme SF85** — sistem armonic cu barieră Kooltherm 40 mm, Uf de la 1,0 W/m²K, lățime totală de până la 7 m.
+- **Alumil Smartia M19800** — sistem armonic economic, barieră termică 18 mm, Uf de la 1,9 W/m²K.
 
 ---
 
-## Cum alegi între 34 mm și 52 mm poliamidă
+## Cum alegi între Smartia S67 și Supreme S77
 
-**Alege 34 mm (Smartia S67)** dacă:
+**Alege Smartia S67 (poliamidă 30 mm)** dacă:
 - Ai un buget rezonabil și vrei performanță bună
-- Construiești sau renovezi o locuință standard
-- Nu ai cerințe de certificare nZEB sau casă pasivă
+- Renovezi un apartament sau construiești o locuință standard
+- Nu ai cerințe stricte de performanță energetică
 
-**Alege 52 mm (Supreme SF85)** dacă:
-- Construiești o casă nZEB sau pasivă
-- Proiectantul a specificat Uw < 1,0 W/m²K
-- Vrei să elimini complet condensul și punțile termice
-- Ai ferestre mari (> 2 m²) unde pierderea termică contează semnificativ
+**Alege Supreme S77 (poliamidă 40 mm)** dacă:
+- Construiești o casă nZEB
+- Proiectantul a specificat Uw ≤ 1,0 W/m²K
+- Ai nevoie de antiefracție RC3 sau de geam triplu gros
+- Ai ferestre mari (> 2 m²), unde pierderea termică contează semnificativ
 
 ---
 
 ## Prețuri orientative 2026
 
-| Produs | Dimensiune | Preț estimat (fără montaj) |
+| Sistem | Tip | Preț (EUR/mp, cu montaj) |
 |---|---|---|
-| Smartia S67 — fereastră oscilo-batantă | 100×120 cm | 650–900 EUR |
-| Smartia S67 — ușă intrare | 90×210 cm | 900–1.200 EUR |
-| Supreme SF85 — fereastră oscilo-batantă | 100×120 cm | 900–1.300 EUR |
-| Supreme SF85 — sistem glisant | 300×230 cm | 2.800–4.000 EUR |
+| Smartia S67 | Ferestre și uși | 250–350 |
+| Supreme S77 | Ferestre și uși premium | 350–480 |
+| Smartia M19800 | Armonic | 280–400 |
+| Supreme SF85 | Armonic premium | 350–500 |
+| Smartia S350 | Glisant | 400–550 |
+| Supreme S700 | Liftant-glisant premium | 550–750 |
 
-*Prețurile variază în funcție de culoare RAL, geam (dublu/triplu), feronerie și cantitate. Solicitați ofertă personalizată.*
+*Prețuri orientative, fără TVA, cu montaj inclus. Prețul final depinde de culoarea RAL, geam (dublu sau triplu), feronerie și dimensiuni. Solicitați ofertă personalizată.*
 
 ---
 
@@ -12781,11 +12775,11 @@ Bariera termică este o inserție de poliamidă 6.6 armată cu fibră de sticlă
 
 ### Care e diferența între aluminiu cu și fără barieră termică?
 
-Aluminiul fără barieră are Uf 5,5-7,0 W/m²K și condens frecvent pe toc — bun doar la interior. Cu barieră de 34 mm, Uf scade la 2,0-2,5; cu barieră de 52 mm ajunge la 1,3-1,6 W/m²K și permite certificare nZEB și casă pasivă.
+Aluminiul fără barieră are Uf 5,5-7,0 W/m²K și condens frecvent pe toc — bun doar la interior. Cu barieră de 30 mm (Smartia S67), Uf scade la 1,5 W/m²K; cu barieră de 40 mm (Supreme S77) ajunge la 0,86 W/m²K, potrivit pentru casele nZEB.
 
 ### Ce sistem Alumil are cea mai bună performanță termică?
 
-Alumil Supreme SF85, cu poliamidă de 34 mm, inserții Kooltherm și spumă izolatoare, atinge Uf = 1,6 W/m²K și Uw = 0,95-1,1 W/m²K cu geam triplu. Are adâncime 85 mm, antiefracție RC2, certificare Passive House Institute și toate culorile RAL.
+Alumil Supreme S77, cu poliamidă de 40 mm, atinge Uf de la 0,86 W/m²K și Uw de la 1,0 W/m²K. Are adâncime 77–93 mm, 3 garnituri EPDM, antiefracție RC3 și acceptă geam de până la 72 mm.
 
 ### Poate fi folosit aluminiul fără barieră termică la exterior?
 
@@ -12830,68 +12824,81 @@ Aluminium covers a far wider range than ordinary windows. Depending on what you 
 
 ## With vs without thermal break: direct comparison
 
-| Feature | Aluminium without break | Aluminium with 34 mm break | Aluminium with 52 mm break |
+| Feature | Aluminium without break | Smartia S67 (30 mm polyamide) | Supreme S77 (40 mm polyamide) |
 |---|---|---|---|
-| Uf profile (W/m²K) | 5.5–7.0 | 2.0–2.5 | 1.3–1.6 |
-| Uw complete window | 3.5–5.0 | 1.4–1.8 | 0.95–1.2 |
-| Condensation on frame | Frequent | Absent | Absent |
-| Exterior use | **No** | Yes | Yes, including passive houses |
-| nZEB certification | No | Possible with triple glazing | Yes |
+| Profile Uf (W/m²K) | 5.5–7.0 | from 1.5 | from 0.86 |
+| Complete window Uw (W/m²K) | 3.5–5.0 | from 1.3 | from 1.0 |
+| Frame condensation | Frequent | None | None |
+| Exterior use | **No** | Yes | Yes |
+| Suitable for nZEB | No | With triple glazing | Yes |
 | Relative cost | Low | Medium | Premium |
 
 ---
 
 ## Alumil systems available at Neofort BIZ
 
-### Alumil Supreme SF85 — maximum performance
+### Alumil Supreme S77 — windows and doors, maximum performance
 
-**34 mm polyamide** with Kooltherm inserts and insulating foam. Uf = 1.6 W/m²K, Uw = 0.95–1.1 W/m²K with triple glazing 4-16-4-16-4.
+**40 mm polyamide**, the widest thermal break in the Alumil range. Uf from 0.86 W/m²K, Uw from 1.0 W/m²K.
 
 Technical specifications:
-- Profile depth: **85 mm**
-- Gaskets: 3 rows co-extruded EPDM
-- Hardware: 4-point locking, RC2 burglar resistance
-- Maximum glazing: **52 mm** (triple Low-E possible)
-- Colours: **all RAL colours + wood effect** via electrostatic painting
-- Certified by **Passive House Institute (PHI)**
+- Construction depth: **77–93 mm**
+- Seals: 3 perimeter EPDM gaskets
+- Compatible glazing: **24–72 mm** (double or triple)
+- Sound insulation: up to 42 dB
+- Burglar resistance: **RC3**
 
-Recommended for: premium homes, modern villas, nZEB projects, renovations with high energy requirements.
+Recommended for: villas, nZEB houses, premium façades, projects with high energy requirements.
 
 ### Alumil Smartia S67 — optimal value for money
 
-**Standard 34 mm polyamide**. Uf = 2.0 W/m²K, Uw = 1.2–1.4 W/m²K.
+**30 mm polyamide**. Uf from 1.5 W/m²K, Uw from 1.3 W/m²K.
 
 Technical specifications:
-- Profile depth: **67 mm**
-- Gaskets: 2 EPDM rows
-- Hardware: 4-point locking
-- Maximum glazing: **40 mm** (double Low-E)
-- Colours: complete RAL catalogue
+- Construction depth: **67–75 mm**
+- Seals: 3 perimeter EPDM gaskets
+- Compatible glazing: **24–58 mm** (double or triple)
+- Sound insulation: up to 45 dB
+- Burglar resistance: RC2 standard, RC3 optional
 
-Recommended for: apartment buildings, offices, commercial spaces, medium-to-high budget projects.
+Recommended for: apartment blocks, offices, commercial spaces, mid-budget renovations.
 
-### Alumil Smartia S350 — sliding systems
+### Sliding and folding systems
 
-**Tilt-and-slide** and **lift-and-slide** system with thermal break. Ideal for terraces and living rooms with large exterior openings.
-
-- Openings up to **4.5 m width** per panel
-- Uw = 1.2 W/m²K
-- RC2 anti-burglary hardware
+- **Alumil Supreme S700** — lift-and-slide with Kooltherm thermal break, Uf from 1.1 W/m²K, sashes up to 500 kg.
+- **Alumil Smartia S350** — economical lift-and-slide, 28 mm thermal break, Uf from 2.9 W/m²K.
+- **Alumil Supreme SF85** — folding system with 40 mm Kooltherm break, Uf from 1.0 W/m²K, total width up to 7 m.
+- **Alumil Smartia M19800** — economical folding system, 18 mm thermal break, Uf from 1.9 W/m²K.
 
 ---
 
-## How to choose between 34 mm and 52 mm polyamide
+## How to choose between Smartia S67 and Supreme S77
 
-**Choose 34 mm (Smartia S67)** if:
+**Choose Smartia S67 (30 mm polyamide)** if:
 - You have a reasonable budget and want good performance
-- You are building or renovating a standard home
-- You have no nZEB or passive house certification requirements
+- You are renovating an apartment or building a standard home
+- You have no strict energy performance requirements
 
-**Choose 52 mm (Supreme SF85)** if:
-- You are building an nZEB or passive house
-- Your designer has specified Uw < 1.0 W/m²K
-- You want to completely eliminate condensation and thermal bridges
+**Choose Supreme S77 (40 mm polyamide)** if:
+- You are building an nZEB house
+- Your designer has specified Uw ≤ 1.0 W/m²K
+- You need RC3 burglar resistance or thick triple glazing
 - You have large windows (> 2 m²) where heat loss matters significantly
+
+---
+
+## Indicative prices 2026
+
+| System | Type | Price (EUR/m², installed) |
+|---|---|---|
+| Smartia S67 | Windows and doors | 250–350 |
+| Supreme S77 | Premium windows and doors | 350–480 |
+| Smartia M19800 | Folding | 280–400 |
+| Supreme SF85 | Premium folding | 350–500 |
+| Smartia S350 | Sliding | 400–550 |
+| Supreme S700 | Premium lift-and-slide | 550–750 |
+
+*Indicative prices, excluding VAT, installation included. The final price depends on RAL colour, glazing (double or triple), hardware and dimensions. Request a personalised quote.*
 
 ---
 
@@ -12926,11 +12933,11 @@ The thermal break is a glass-fibre-reinforced polyamide 6.6 insert pressed betwe
 
 ### What is the difference between aluminium with and without a thermal break?
 
-Aluminium without a break has Uf 5.5-7.0 W/m²K and frequent frame condensation — suitable only indoors. With a 34 mm break, Uf drops to 2.0-2.5; with a 52 mm break it reaches 1.3-1.6 W/m²K and allows nZEB and passive-house certification.
+Aluminium without a break has Uf 5.5-7.0 W/m²K and frequent frame condensation — suitable only indoors. With a 30 mm break (Smartia S67), Uf drops to 1.5 W/m²K; with a 40 mm break (Supreme S77) it reaches 0.86 W/m²K, suitable for nZEB houses.
 
 ### Which Alumil system has the best thermal performance?
 
-Alumil Supreme SF85, with a 34 mm polyamide, Kooltherm inserts and insulating foam, reaches Uf = 1.6 W/m²K and Uw = 0.95-1.1 W/m²K with triple glazing. It has 85 mm depth, RC2 anti-burglary, Passive House Institute certification and all RAL colours.
+Alumil Supreme S77, with a 40 mm polyamide break, reaches Uf from 0.86 W/m²K and Uw from 1.0 W/m²K. It has 77–93 mm depth, 3 EPDM gaskets, RC3 burglar resistance and takes glazing up to 72 mm.
 
 ### Can aluminium without a thermal break be used outdoors?
 
@@ -12975,45 +12982,81 @@ Aluminium deckt einen weit größeren Bereich ab als gewöhnliche Fenster. Je na
 
 ## Mit vs ohne Wärmedämmung: Direktvergleich
 
-| Merkmal | Aluminium ohne Dämmung | Aluminium mit 34 mm Dämmung | Aluminium mit 52 mm Dämmung |
+| Merkmal | Aluminium ohne Trennung | Smartia S67 (30 mm Polyamid) | Supreme S77 (40 mm Polyamid) |
 |---|---|---|---|
-| Uf Profil (W/m²K) | 5,5–7,0 | 2,0–2,5 | 1,3–1,6 |
-| Uw komplettes Fenster | 3,5–5,0 | 1,4–1,8 | 0,95–1,2 |
-| Kondensation am Rahmen | Häufig | Keine | Keine |
-| Außeneinsatz | **Nein** | Ja | Ja, auch Passivhäuser |
-| nZEB-Zertifizierung | Nein | Möglich mit Dreifachverglasung | Ja |
-| Relativer Preis | Niedrig | Mittel | Premium |
+| Uf Profil (W/m²K) | 5,5–7,0 | ab 1,5 | ab 0,86 |
+| Uw Gesamtfenster (W/m²K) | 3,5–5,0 | ab 1,3 | ab 1,0 |
+| Kondensat am Rahmen | Häufig | Keins | Keins |
+| Außeneinsatz | **Nein** | Ja | Ja |
+| Geeignet für nZEB | Nein | Mit Dreifachverglasung | Ja |
+| Relative Kosten | Niedrig | Mittel | Premium |
 
 ---
 
 ## Alumil-Systeme bei Neofort BIZ
 
-### Alumil Supreme SF85 — maximale Leistung
+### Alumil Supreme S77 — Fenster und Türen, maximale Leistung
 
-**34 mm Polyamid** mit Kooltherm-Einsätzen und Isolierschaum. Uf = 1,6 W/m²K, Uw = 0,95–1,1 W/m²K mit Dreifachverglasung 4-16-4-16-4.
+**40 mm Polyamid**, die breiteste thermische Trennung im Alumil-Sortiment. Uf ab 0,86 W/m²K, Uw ab 1,0 W/m²K.
 
 Technische Daten:
-- Profiltiefe: **85 mm**
-- Dichtungen: 3 Reihen co-extrudiertes EPDM
-- Beschläge: 4-Punkt-Verriegelung, Einbruchschutz RC2
-- Max. Verglasung: **52 mm** (Triple Low-E möglich)
-- Farben: **alle RAL-Farben + Holzoptik** durch elektrostatische Lackierung
-- Zertifiziert vom **Passivhaus Institut (PHI)**
+- Bautiefe: **77–93 mm**
+- Dichtungen: 3 umlaufende EPDM-Dichtungen
+- Verglasung: **24–72 mm** (Zweifach oder Dreifach)
+- Schallschutz: bis 42 dB
+- Einbruchschutz: **RC3**
 
-Empfohlen für: Premiumhäuser, moderne Villen, nZEB-Projekte, Sanierungen mit hohen Energieanforderungen.
+Empfohlen für: Villen, nZEB-Häuser, Premium-Fassaden, Projekte mit hohen energetischen Anforderungen.
 
 ### Alumil Smartia S67 — optimales Preis-Leistungs-Verhältnis
 
-**Standard-34-mm-Polyamid**. Uf = 2,0 W/m²K, Uw = 1,2–1,4 W/m²K.
+**30 mm Polyamid**. Uf ab 1,5 W/m²K, Uw ab 1,3 W/m²K.
 
 Technische Daten:
-- Profiltiefe: **67 mm**
-- Dichtungen: 2 EPDM-Reihen
-- Beschläge: 4-Punkt-Verriegelung
-- Max. Verglasung: **40 mm** (Double Low-E)
-- Farben: kompletter RAL-Katalog
+- Bautiefe: **67–75 mm**
+- Dichtungen: 3 umlaufende EPDM-Dichtungen
+- Verglasung: **24–58 mm** (Zweifach oder Dreifach)
+- Schallschutz: bis 45 dB
+- Einbruchschutz: RC2 serienmäßig, RC3 optional
 
-Empfohlen für: Wohnhäuser, Büros, Gewerberäume, Projekte mit mittlerem bis hohem Budget.
+Empfohlen für: Wohnblöcke, Büros, Gewerbeflächen, Renovierungen mit mittlerem Budget.
+
+### Schiebe- und Faltsysteme
+
+- **Alumil Supreme S700** — Hebeschiebesystem mit Kooltherm-Trennung, Uf ab 1,1 W/m²K, Flügel bis 500 kg.
+- **Alumil Smartia S350** — preisgünstiges Hebeschiebesystem, 28 mm thermische Trennung, Uf ab 2,9 W/m²K.
+- **Alumil Supreme SF85** — Faltsystem mit 40 mm Kooltherm-Trennung, Uf ab 1,0 W/m²K, Gesamtbreite bis 7 m.
+- **Alumil Smartia M19800** — preisgünstiges Faltsystem, 18 mm thermische Trennung, Uf ab 1,9 W/m²K.
+
+---
+
+## So wählen Sie zwischen Smartia S67 und Supreme S77
+
+**Wählen Sie Smartia S67 (30 mm Polyamid)**, wenn:
+- Sie ein vernünftiges Budget haben und gute Leistung wollen
+- Sie eine Wohnung renovieren oder ein Standardhaus bauen
+- Sie keine strengen Anforderungen an die Energieeffizienz haben
+
+**Wählen Sie Supreme S77 (40 mm Polyamid)**, wenn:
+- Sie ein nZEB-Haus bauen
+- Ihr Planer Uw ≤ 1,0 W/m²K vorgegeben hat
+- Sie Einbruchschutz RC3 oder eine dicke Dreifachverglasung brauchen
+- Sie große Fenster (> 2 m²) haben, bei denen der Wärmeverlust deutlich ins Gewicht fällt
+
+---
+
+## Richtpreise 2026
+
+| System | Typ | Preis (EUR/m², montiert) |
+|---|---|---|
+| Smartia S67 | Fenster und Türen | 250–350 |
+| Supreme S77 | Premium-Fenster und -Türen | 350–480 |
+| Smartia M19800 | Faltsystem | 280–400 |
+| Supreme SF85 | Premium-Faltsystem | 350–500 |
+| Smartia S350 | Schiebesystem | 400–550 |
+| Supreme S700 | Premium-Hebeschiebesystem | 550–750 |
+
+*Richtpreise ohne MwSt., Montage inklusive. Der Endpreis hängt von RAL-Farbe, Verglasung (Zweifach oder Dreifach), Beschlägen und Maßen ab. Fordern Sie ein individuelles Angebot an.*
 
 ---
 
@@ -13048,11 +13091,11 @@ Die thermische Trennung ist ein glasfaserverstärkter Polyamid-6.6-Steg, der zwi
 
 ### Was ist der Unterschied zwischen Aluminium mit und ohne thermische Trennung?
 
-Aluminium ohne Trennung hat Uf 5,5-7,0 W/m²K und häufiges Rahmenkondensat — nur für innen geeignet. Mit 34-mm-Trennung sinkt Uf auf 2,0-2,5; mit 52-mm-Trennung erreicht es 1,3-1,6 W/m²K und erlaubt nZEB- und Passivhaus-Zertifizierung.
+Aluminium ohne Trennung hat Uf 5,5-7,0 W/m²K und häufiges Rahmenkondensat — nur für innen geeignet. Mit 30-mm-Trennung (Smartia S67) sinkt Uf auf 1,5 W/m²K; mit 40-mm-Trennung (Supreme S77) erreicht es 0,86 W/m²K und eignet sich für nZEB-Häuser.
 
 ### Welches Alumil-System hat die beste Wärmeleistung?
 
-Alumil Supreme SF85, mit 34-mm-Polyamid, Kooltherm-Einsätzen und Dämmschaum, erreicht Uf = 1,6 W/m²K und Uw = 0,95-1,1 W/m²K mit Dreifachglas. Es hat 85 mm Bautiefe, RC2-Einbruchschutz, Passive-House-Institute-Zertifizierung und alle RAL-Farben.
+Alumil Supreme S77 mit 40 mm Polyamid-Trennung erreicht Uf ab 0,86 W/m²K und Uw ab 1,0 W/m²K. Es hat 77–93 mm Bautiefe, 3 EPDM-Dichtungen, RC3-Einbruchschutz und nimmt Verglasungen bis 72 mm auf.
 
 ### Kann Aluminium ohne thermische Trennung außen verwendet werden?
 
@@ -13095,25 +13138,83 @@ L’aluminium couvre une gamme bien plus large que les fenêtres ordinaires. Sel
 
 **Aluminium ou PVC ?** Si vous choisissez encore le matériau, la comparaison directe est dans [PVC ou aluminium pour maisons nZEB](/fr/blog/pvc-ou-aluminium-maisons-nzeb-2026-guide-complet).
 
+## Avec ou sans rupture thermique : comparaison directe
+
+| Caractéristique | Aluminium sans rupture | Smartia S67 (polyamide 30 mm) | Supreme S77 (polyamide 40 mm) |
+|---|---|---|---|
+| Uf du profilé (W/m²K) | 5,5–7,0 | à partir de 1,5 | à partir de 0,86 |
+| Uw fenêtre complète (W/m²K) | 3,5–5,0 | à partir de 1,3 | à partir de 1,0 |
+| Condensation sur le dormant | Fréquente | Aucune | Aucune |
+| Usage extérieur | **Non** | Oui | Oui |
+| Adapté au nZEB | Non | Avec triple vitrage | Oui |
+| Coût relatif | Faible | Moyen | Premium |
+
+---
+
 ## Systèmes Alumil disponibles chez Neofort BIZ
 
-### Alumil Supreme SF85 — performance maximale
+### Alumil Supreme S77 — fenêtres et portes, performance maximale
 
-**Polyamide 34 mm** avec inserts Kooltherm et mousse isolante. Uf = 1,6 W/m²K, Uw = 0,95–1,1 W/m²K avec triple vitrage 4-16-4-16-4.
+**Polyamide 40 mm**, la rupture thermique la plus large de la gamme Alumil. Uf à partir de 0,86 W/m²K, Uw à partir de 1,0 W/m²K.
 
-- Profondeur profil : **85 mm**
-- Joints : 3 rangées EPDM co-extrudé
-- Quincaillerie : 4 points de fermeture, résistance antieffraction RC2
-- Vitrage max : **52 mm** (triple Low-E possible)
-- Certifié **Institut Maison Passive (PHI)**
+Caractéristiques techniques :
+- Profondeur : **77–93 mm**
+- Joints : 3 joints EPDM périphériques
+- Vitrage compatible : **24–72 mm** (double ou triple)
+- Isolation acoustique : jusqu'à 42 dB
+- Anti-effraction : **RC3**
+
+Recommandé pour : villas, maisons nZEB, façades haut de gamme, projets à fortes exigences énergétiques.
 
 ### Alumil Smartia S67 — rapport qualité-prix optimal
 
-**Polyamide 34 mm standard**. Uf = 2,0 W/m²K, Uw = 1,2–1,4 W/m²K.
+**Polyamide 30 mm**. Uf à partir de 1,5 W/m²K, Uw à partir de 1,3 W/m²K.
 
-- Profondeur profil : **67 mm**
-- Vitrage max : **40 mm** (double Low-E)
-- Couleurs : catalogue RAL complet
+Caractéristiques techniques :
+- Profondeur : **67–75 mm**
+- Joints : 3 joints EPDM périphériques
+- Vitrage compatible : **24–58 mm** (double ou triple)
+- Isolation acoustique : jusqu'à 45 dB
+- Anti-effraction : RC2 de série, RC3 en option
+
+Recommandé pour : immeubles, bureaux, locaux commerciaux, rénovations à budget moyen.
+
+### Systèmes coulissants et accordéon
+
+- **Alumil Supreme S700** — levant-coulissant avec rupture Kooltherm, Uf à partir de 1,1 W/m²K, vantaux jusqu'à 500 kg.
+- **Alumil Smartia S350** — levant-coulissant économique, rupture thermique 28 mm, Uf à partir de 2,9 W/m²K.
+- **Alumil Supreme SF85** — système accordéon avec rupture Kooltherm 40 mm, Uf à partir de 1,0 W/m²K, largeur totale jusqu'à 7 m.
+- **Alumil Smartia M19800** — système accordéon économique, rupture thermique 18 mm, Uf à partir de 1,9 W/m²K.
+
+---
+
+## Comment choisir entre Smartia S67 et Supreme S77
+
+**Choisissez Smartia S67 (polyamide 30 mm)** si :
+- Vous avez un budget raisonnable et voulez de bonnes performances
+- Vous rénovez un appartement ou construisez un logement standard
+- Vous n'avez pas d'exigences strictes de performance énergétique
+
+**Choisissez Supreme S77 (polyamide 40 mm)** si :
+- Vous construisez une maison nZEB
+- Votre concepteur a spécifié Uw ≤ 1,0 W/m²K
+- Vous avez besoin d'une résistance anti-effraction RC3 ou d'un triple vitrage épais
+- Vous avez de grandes fenêtres (> 2 m²), où les pertes thermiques comptent beaucoup
+
+---
+
+## Prix indicatifs 2026
+
+| Système | Type | Prix (EUR/m², posé) |
+|---|---|---|
+| Smartia S67 | Fenêtres et portes | 250–350 |
+| Supreme S77 | Fenêtres et portes haut de gamme | 350–480 |
+| Smartia M19800 | Accordéon | 280–400 |
+| Supreme SF85 | Accordéon haut de gamme | 350–500 |
+| Smartia S350 | Coulissant | 400–550 |
+| Supreme S700 | Levant-coulissant haut de gamme | 550–750 |
+
+*Prix indicatifs, hors TVA, pose incluse. Le prix final dépend de la couleur RAL, du vitrage (double ou triple), de la quincaillerie et des dimensions. Demandez un devis personnalisé.*
 
 ---
 
@@ -13145,11 +13246,11 @@ La rupture de pont thermique est un insert en polyamide 6.6 renforcé de fibre d
 
 ### Quelle est la différence entre aluminium avec et sans rupture thermique ?
 
-L'aluminium sans rupture a un Uf de 5,5-7,0 W/m²K et une condensation fréquente sur le dormant — adapté seulement à l'intérieur. Avec une rupture de 34 mm, l'Uf descend à 2,0-2,5 ; avec 52 mm, il atteint 1,3-1,6 W/m²K et permet la certification nZEB et maison passive.
+L'aluminium sans rupture a un Uf de 5,5-7,0 W/m²K et une condensation fréquente sur le dormant — adapté seulement à l'intérieur. Avec une rupture de 30 mm (Smartia S67), l'Uf descend à 1,5 W/m²K ; avec une rupture de 40 mm (Supreme S77), il atteint 0,86 W/m²K, adapté aux maisons nZEB.
 
 ### Quel système Alumil a la meilleure performance thermique ?
 
-L'Alumil Supreme SF85, avec polyamide de 34 mm, inserts Kooltherm et mousse isolante, atteint Uf = 1,6 W/m²K et Uw = 0,95-1,1 W/m²K avec triple vitrage. Il a 85 mm de profondeur, anti-effraction RC2, certification Passive House Institute et toutes les couleurs RAL.
+L'Alumil Supreme S77, avec une rupture en polyamide de 40 mm, atteint un Uf à partir de 0,86 W/m²K et un Uw à partir de 1,0 W/m²K. Il a 77–93 mm de profondeur, 3 joints EPDM, une résistance anti-effraction RC3 et accepte un vitrage jusqu'à 72 mm.
 
 ### L'aluminium sans rupture thermique peut-il être utilisé à l'extérieur ?
 
@@ -13192,25 +13293,83 @@ El aluminio abarca una gama mucho más amplia que las ventanas corrientes. Segú
 
 **¿Aluminio o PVC?** Si todavía estás eligiendo el material, la comparación directa está en [PVC o aluminio para casas nZEB](/es/blog/pvc-o-aluminio-casas-nzeb-2026-guia-completa).
 
+## Con o sin rotura de puente térmico: comparación directa
+
+| Característica | Aluminio sin rotura | Smartia S67 (poliamida 30 mm) | Supreme S77 (poliamida 40 mm) |
+|---|---|---|---|
+| Uf del perfil (W/m²K) | 5,5–7,0 | desde 1,5 | desde 0,86 |
+| Uw de la ventana completa (W/m²K) | 3,5–5,0 | desde 1,3 | desde 1,0 |
+| Condensación en el marco | Frecuente | Ninguna | Ninguna |
+| Uso exterior | **No** | Sí | Sí |
+| Apto para nZEB | No | Con triple acristalamiento | Sí |
+| Coste relativo | Bajo | Medio | Premium |
+
+---
+
 ## Sistemas Alumil disponibles en Neofort BIZ
 
-### Alumil Supreme SF85 — rendimiento máximo
+### Alumil Supreme S77 — ventanas y puertas, rendimiento máximo
 
-**Poliamida 34 mm** con insertos Kooltherm y espuma aislante. Uf = 1,6 W/m²K, Uw = 0,95–1,1 W/m²K con triple vidrio 4-16-4-16-4.
+**Poliamida 40 mm**, la rotura térmica más ancha de la gama Alumil. Uf desde 0,86 W/m²K, Uw desde 1,0 W/m²K.
 
-- Profundidad perfil: **85 mm**
-- Juntas: 3 filas EPDM co-extruido
-- Herraje: 4 puntos de cierre, resistencia antiefracción RC2
-- Vidrio máximo: **52 mm** (triple Low-E posible)
-- Certificado **Passive House Institute (PHI)**
+Especificaciones técnicas:
+- Profundidad constructiva: **77–93 mm**
+- Juntas: 3 juntas EPDM perimetrales
+- Acristalamiento compatible: **24–72 mm** (doble o triple)
+- Aislamiento acústico: hasta 42 dB
+- Antirrobo: **RC3**
+
+Recomendado para: villas, casas nZEB, fachadas premium, proyectos con altas exigencias energéticas.
 
 ### Alumil Smartia S67 — relación calidad-precio óptima
 
-**Poliamida 34 mm estándar**. Uf = 2,0 W/m²K, Uw = 1,2–1,4 W/m²K.
+**Poliamida 30 mm**. Uf desde 1,5 W/m²K, Uw desde 1,3 W/m²K.
 
-- Profundidad perfil: **67 mm**
-- Vidrio máximo: **40 mm** (doble Low-E)
-- Colores: catálogo RAL completo
+Especificaciones técnicas:
+- Profundidad constructiva: **67–75 mm**
+- Juntas: 3 juntas EPDM perimetrales
+- Acristalamiento compatible: **24–58 mm** (doble o triple)
+- Aislamiento acústico: hasta 45 dB
+- Antirrobo: RC2 de serie, RC3 opcional
+
+Recomendado para: bloques de viviendas, oficinas, locales comerciales, reformas con presupuesto medio.
+
+### Sistemas correderos y plegables
+
+- **Alumil Supreme S700** — elevable-corredera con rotura Kooltherm, Uf desde 1,1 W/m²K, hojas de hasta 500 kg.
+- **Alumil Smartia S350** — elevable-corredera económica, rotura térmica de 28 mm, Uf desde 2,9 W/m²K.
+- **Alumil Supreme SF85** — sistema plegable con rotura Kooltherm de 40 mm, Uf desde 1,0 W/m²K, anchura total de hasta 7 m.
+- **Alumil Smartia M19800** — sistema plegable económico, rotura térmica de 18 mm, Uf desde 1,9 W/m²K.
+
+---
+
+## Cómo elegir entre Smartia S67 y Supreme S77
+
+**Elija Smartia S67 (poliamida 30 mm)** si:
+- Tiene un presupuesto razonable y quiere un buen rendimiento
+- Reforma un piso o construye una vivienda estándar
+- No tiene requisitos estrictos de eficiencia energética
+
+**Elija Supreme S77 (poliamida 40 mm)** si:
+- Construye una casa nZEB
+- Su proyectista ha especificado Uw ≤ 1,0 W/m²K
+- Necesita antirrobo RC3 o un triple acristalamiento grueso
+- Tiene ventanas grandes (> 2 m²), donde la pérdida térmica pesa mucho
+
+---
+
+## Precios orientativos 2026
+
+| Sistema | Tipo | Precio (EUR/m², instalado) |
+|---|---|---|
+| Smartia S67 | Ventanas y puertas | 250–350 |
+| Supreme S77 | Ventanas y puertas premium | 350–480 |
+| Smartia M19800 | Plegable | 280–400 |
+| Supreme SF85 | Plegable premium | 350–500 |
+| Smartia S350 | Corredera | 400–550 |
+| Supreme S700 | Elevable-corredera premium | 550–750 |
+
+*Precios orientativos, sin IVA, instalación incluida. El precio final depende del color RAL, el acristalamiento (doble o triple), los herrajes y las dimensiones. Solicite un presupuesto personalizado.*
 
 ---
 
@@ -13242,11 +13401,11 @@ La rotura de puente térmico es un inserto de poliamida 6.6 reforzada con fibra 
 
 ### ¿Cuál es la diferencia entre aluminio con y sin rotura térmica?
 
-El aluminio sin rotura tiene Uf 5,5-7,0 W/m²K y condensación frecuente en el marco — solo apto para interior. Con rotura de 34 mm, el Uf baja a 2,0-2,5; con rotura de 52 mm alcanza 1,3-1,6 W/m²K y permite certificación nZEB y casa pasiva.
+El aluminio sin rotura tiene Uf 5,5-7,0 W/m²K y condensación frecuente en el marco — solo apto para interior. Con rotura de 30 mm (Smartia S67), el Uf baja a 1,5 W/m²K; con rotura de 40 mm (Supreme S77) llega a 0,86 W/m²K, apto para casas nZEB.
 
 ### ¿Qué sistema Alumil tiene el mejor rendimiento térmico?
 
-El Alumil Supreme SF85, con poliamida de 34 mm, insertos Kooltherm y espuma aislante, alcanza Uf = 1,6 W/m²K y Uw = 0,95-1,1 W/m²K con triple vidrio. Tiene 85 mm de profundidad, antirrobo RC2, certificación Passive House Institute y todos los colores RAL.
+El Alumil Supreme S77, con rotura de poliamida de 40 mm, alcanza Uf desde 0,86 W/m²K y Uw desde 1,0 W/m²K. Tiene 77–93 mm de profundidad, 3 juntas EPDM, antirrobo RC3 y admite acristalamiento de hasta 72 mm.
 
 ### ¿Se puede usar aluminio sin rotura térmica en el exterior?
 
@@ -13289,25 +13448,83 @@ L’alluminio copre una gamma molto più ampia delle normali finestre. A seconda
 
 **Alluminio o PVC?** Se stai ancora scegliendo il materiale, il confronto diretto è in [PVC o alluminio per case nZEB](/it/blog/pvc-o-alluminio-case-nzeb-2026-guida-completa).
 
+## Con o senza taglio termico: confronto diretto
+
+| Caratteristica | Alluminio senza taglio | Smartia S67 (poliammide 30 mm) | Supreme S77 (poliammide 40 mm) |
+|---|---|---|---|
+| Uf del profilo (W/m²K) | 5,5–7,0 | da 1,5 | da 0,86 |
+| Uw della finestra completa (W/m²K) | 3,5–5,0 | da 1,3 | da 1,0 |
+| Condensa sul telaio | Frequente | Assente | Assente |
+| Uso esterno | **No** | Sì | Sì |
+| Adatto al nZEB | No | Con triplo vetro | Sì |
+| Costo relativo | Basso | Medio | Premium |
+
+---
+
 ## Sistemi Alumil disponibili da Neofort BIZ
 
-### Alumil Supreme SF85 — prestazioni massime
+### Alumil Supreme S77 — finestre e porte, prestazioni massime
 
-**Poliammide 34 mm** con inserti Kooltherm e schiuma isolante. Uf = 1,6 W/m²K, Uw = 0,95–1,1 W/m²K con triplo vetro 4-16-4-16-4.
+**Poliammide 40 mm**, il taglio termico più largo della gamma Alumil. Uf da 0,86 W/m²K, Uw da 1,0 W/m²K.
 
-- Profondità profilo: **85 mm**
-- Guarnizioni: 3 file EPDM co-estruso
-- Ferramenta: 4 punti di chiusura, resistenza antieffrazione RC2
-- Vetro massimo: **52 mm** (triplo Low-E possibile)
-- Certificato **Passive House Institute (PHI)**
+Specifiche tecniche:
+- Profondità costruttiva: **77–93 mm**
+- Guarnizioni: 3 guarnizioni EPDM perimetrali
+- Vetro compatibile: **24–72 mm** (doppio o triplo)
+- Isolamento acustico: fino a 42 dB
+- Antieffrazione: **RC3**
+
+Consigliato per: ville, case nZEB, facciate di pregio, progetti con elevati requisiti energetici.
 
 ### Alumil Smartia S67 — ottimo rapporto qualità-prezzo
 
-**Poliammide 34 mm standard**. Uf = 2,0 W/m²K, Uw = 1,2–1,4 W/m²K.
+**Poliammide 30 mm**. Uf da 1,5 W/m²K, Uw da 1,3 W/m²K.
 
-- Profondità profilo: **67 mm**
-- Vetro massimo: **40 mm** (doppio Low-E)
-- Colori: catalogo RAL completo
+Specifiche tecniche:
+- Profondità costruttiva: **67–75 mm**
+- Guarnizioni: 3 guarnizioni EPDM perimetrali
+- Vetro compatibile: **24–58 mm** (doppio o triplo)
+- Isolamento acustico: fino a 45 dB
+- Antieffrazione: RC2 di serie, RC3 opzionale
+
+Consigliato per: condomini, uffici, spazi commerciali, ristrutturazioni con budget medio.
+
+### Sistemi scorrevoli e a soffietto
+
+- **Alumil Supreme S700** — alzante-scorrevole con taglio Kooltherm, Uf da 1,1 W/m²K, ante fino a 500 kg.
+- **Alumil Smartia S350** — alzante-scorrevole economico, taglio termico da 28 mm, Uf da 2,9 W/m²K.
+- **Alumil Supreme SF85** — sistema a soffietto con taglio Kooltherm da 40 mm, Uf da 1,0 W/m²K, larghezza totale fino a 7 m.
+- **Alumil Smartia M19800** — sistema a soffietto economico, taglio termico da 18 mm, Uf da 1,9 W/m²K.
+
+---
+
+## Come scegliere tra Smartia S67 e Supreme S77
+
+**Scegliete Smartia S67 (poliammide 30 mm)** se:
+- Avete un budget ragionevole e volete buone prestazioni
+- Ristrutturate un appartamento o costruite un'abitazione standard
+- Non avete requisiti stringenti di prestazione energetica
+
+**Scegliete Supreme S77 (poliammide 40 mm)** se:
+- Costruite una casa nZEB
+- Il progettista ha indicato Uw ≤ 1,0 W/m²K
+- Vi serve l'antieffrazione RC3 o un triplo vetro spesso
+- Avete finestre grandi (> 2 m²), dove la dispersione termica pesa molto
+
+---
+
+## Prezzi indicativi 2026
+
+| Sistema | Tipo | Prezzo (EUR/m², posato) |
+|---|---|---|
+| Smartia S67 | Finestre e porte | 250–350 |
+| Supreme S77 | Finestre e porte di pregio | 350–480 |
+| Smartia M19800 | Soffietto | 280–400 |
+| Supreme SF85 | Soffietto di pregio | 350–500 |
+| Smartia S350 | Scorrevole | 400–550 |
+| Supreme S700 | Alzante-scorrevole di pregio | 550–750 |
+
+*Prezzi indicativi, IVA esclusa, posa inclusa. Il prezzo finale dipende dal colore RAL, dal vetro (doppio o triplo), dalla ferramenta e dalle dimensioni. Richiedete un preventivo personalizzato.*
 
 ---
 
@@ -13339,11 +13556,11 @@ Il taglio termico è un inserto in poliammide 6.6 rinforzata con fibra di vetro,
 
 ### Qual è la differenza tra alluminio con e senza taglio termico?
 
-L'alluminio senza taglio ha Uf 5,5-7,0 W/m²K e condensa frequente sul telaio — adatto solo all'interno. Con taglio da 34 mm, l'Uf scende a 2,0-2,5; con taglio da 52 mm raggiunge 1,3-1,6 W/m²K e consente certificazione nZEB e casa passiva.
+L'alluminio senza taglio ha Uf 5,5-7,0 W/m²K e condensa frequente sul telaio — adatto solo all'interno. Con taglio da 30 mm (Smartia S67), l'Uf scende a 1,5 W/m²K; con taglio da 40 mm (Supreme S77) arriva a 0,86 W/m²K, adatto alle case nZEB.
 
 ### Quale sistema Alumil ha le migliori prestazioni termiche?
 
-L'Alumil Supreme SF85, con poliammide da 34 mm, inserti Kooltherm e schiuma isolante, raggiunge Uf = 1,6 W/m²K e Uw = 0,95-1,1 W/m²K con triplo vetro. Ha profondità 85 mm, antieffrazione RC2, certificazione Passive House Institute e tutti i colori RAL.
+L'Alumil Supreme S77, con taglio in poliammide da 40 mm, raggiunge Uf da 0,86 W/m²K e Uw da 1,0 W/m²K. Ha profondità 77–93 mm, 3 guarnizioni EPDM, antieffrazione RC3 e accetta vetri fino a 72 mm.
 
 ### L'alluminio senza taglio termico può essere usato all'esterno?
 
@@ -26491,7 +26708,7 @@ Explore our full [Salamander PVC range](/en/pvc-windows) or see [indicative pric
 Handle horizontal — the window is closed and locked. Turned up — the sash tilts from the top and leaves a 10–15 cm ventilation gap without a direct draught. Turned sideways — the sash opens fully inwards, like a door.
 
 ### What Uw does a double tilt-and-turn window with bluEvolution 92 reach?
-With 52 mm triple glazing, a warm edge spacer and airtight installation, the system reaches a Uw of 0.66 W/(m²K). With double glazing the figure rises to around 1.0 W/(m²K).
+With 52 mm triple glazing, a warm edge spacer and airtight installation, the system reaches a Uw of 0.70 W/(m²K). With double glazing the figure rises to around 1.0 W/(m²K).
 
 ### Can an insect screen be fitted to a tilt-and-turn window?
 Yes, but only an external screen, fixed or roller type. It mounts on the outer face of the frame so it does not obstruct the sash tilting inwards.
@@ -26571,7 +26788,7 @@ Neofort BIZ montiert alle Fenster nach dem **RAL-Montageleitfaden**, einschließ
 Griff waagerecht — das Fenster ist geschlossen und verriegelt. Nach oben gedreht — der Flügel kippt oben und lässt einen Lüftungsspalt von 10–15 cm ohne direkten Zug. Zur Seite gedreht — der Flügel öffnet vollständig nach innen, wie eine Tür.
 
 ### Welchen Uw erreicht ein Dreh-Kipp-Fenster mit bluEvolution 92?
-Mit 52-mm-Dreifachverglasung, Warm-Edge-Abstandhalter und luftdichter Montage erreicht das System einen Uw von 0,66 W/(m²K). Mit Zweifachverglasung liegt der Wert bei etwa 1,0 W/(m²K).
+Mit 52-mm-Dreifachverglasung, Warm-Edge-Abstandhalter und luftdichter Montage erreicht das System einen Uw von 0,70 W/(m²K). Mit Zweifachverglasung liegt der Wert bei etwa 1,0 W/(m²K).
 
 ### Lässt sich ein Insektenschutz an einem Dreh-Kipp-Fenster anbringen?
 Ja, aber nur außen liegend, als festes Gitter oder Rollo. Er wird auf der Außenseite des Rahmens montiert, damit der Flügel nach innen kippen kann.
@@ -26651,7 +26868,7 @@ Neofort BIZ installe toutes les fenêtres selon le **guide de pose RAL**, avec p
 Poignée horizontale — la fenêtre est fermée et verrouillée. Tournée vers le haut — le vantail bascule par le haut et laisse un espace de ventilation de 10 à 15 cm sans courant d’air direct. Tournée sur le côté — le vantail s’ouvre entièrement vers l’intérieur, comme une porte.
 
 ### Quel Uw atteint une oscillo-battante double avec bluEvolution 92 ?
-Avec un triple vitrage de 52 mm, un intercalaire warm edge et une pose étanche, le système atteint un Uw de 0,66 W/(m²K). En double vitrage, la valeur remonte autour de 1,0 W/(m²K).
+Avec un triple vitrage de 52 mm, un intercalaire warm edge et une pose étanche, le système atteint un Uw de 0,70 W/(m²K). En double vitrage, la valeur remonte autour de 1,0 W/(m²K).
 
 ### Peut-on poser une moustiquaire sur une oscillo-battante ?
 Oui, mais uniquement une moustiquaire extérieure, fixe ou enroulable. Elle se monte sur la face extérieure du dormant afin de ne pas gêner la bascule du vantail vers l’intérieur.
@@ -26731,7 +26948,7 @@ Neofort BIZ instala todas las ventanas según la **guía de montaje RAL**, inclu
 Manilla horizontal — la ventana está cerrada y bloqueada. Girada hacia arriba — la hoja bascula por la parte superior y deja una abertura de ventilación de 10–15 cm sin corriente directa. Girada de lado — la hoja se abre por completo hacia el interior, como una puerta.
 
 ### ¿Qué Uw alcanza una oscilobatiente doble con bluEvolution 92?
-Con triple acristalamiento de 52 mm, separador warm edge e instalación estanca, el sistema alcanza un Uw de 0,66 W/(m²K). Con doble acristalamiento el valor sube a unos 1,0 W/(m²K).
+Con triple acristalamiento de 52 mm, separador warm edge e instalación estanca, el sistema alcanza un Uw de 0,70 W/(m²K). Con doble acristalamiento el valor sube a unos 1,0 W/(m²K).
 
 ### ¿Se puede montar mosquitera en una oscilobatiente?
 Sí, pero solo mosquitera exterior, fija o enrollable. Se monta en la cara exterior del marco para no impedir el basculamiento de la hoja hacia dentro.
@@ -26811,7 +27028,7 @@ Neofort BIZ installa tutte le finestre secondo la **guida di posa RAL**, con con
 Maniglia orizzontale — la finestra è chiusa e bloccata. Ruotata verso l’alto — l’anta ribalta dalla parte superiore e lascia una fessura di ventilazione di 10–15 cm senza corrente diretta. Ruotata di lato — l’anta si apre completamente verso l’interno, come una porta.
 
 ### Quale Uw raggiunge un’anta-ribalta doppia con bluEvolution 92?
-Con triplo vetro da 52 mm, distanziale warm edge e posa a tenuta, il sistema raggiunge un Uw di 0,66 W/(m²K). Con doppio vetro il valore sale intorno a 1,0 W/(m²K).
+Con triplo vetro da 52 mm, distanziale warm edge e posa a tenuta, il sistema raggiunge un Uw di 0,70 W/(m²K). Con doppio vetro il valore sale intorno a 1,0 W/(m²K).
 
 ### Si può montare una zanzariera su un’anta-ribalta?
 Sì, ma solo esterna, fissa o avvolgibile. Si monta sul lato esterno del telaio per non ostacolare il ribaltamento dell’anta verso l’interno.
@@ -30192,8 +30409,7 @@ Metodologia de calcul al performanței energetice a clădirilor, **Mc 001-2022**
 
 | Profil | Uf (W/m²K) | Uw cu tripan 44mm | Uw cu tripan 52mm |
 |---|---|---|---|
-| bluEvolution 92 | 0,95 | **0,72** | **0,66** |
-| bluEvolution 82 | 1,00 | 0,80 | 0,74 |
+| bluEvolution 92 | 0,95 | **0,72** | **0,70** |
 | GreenEvolution 76 | 1,10 | 0,88 | 0,82 |
 
 ### Ferestre Aluminiu Alumil
@@ -30210,7 +30426,7 @@ Metodologia de calcul al performanței energetice a clădirilor, **Mc 001-2022**
 |---|---|---|---|
 | Dublu argon standard | 1,00 | 32 mm | Uw ≈ 1,2–1,4 |
 | **Triplu argon 44mm** | **0,50** | 44 mm | **Uw ≈ 0,72–0,88** |
-| Triplu argon 52mm | 0,40 | 52 mm | Uw ≈ 0,66–0,80 |
+| Triplu argon 52mm | 0,40 | 52 mm | Uw ≈ 0,70–0,80 |
 
 ## Ce înseamnă Uw în bani: calcul real de economii
 
@@ -30239,7 +30455,7 @@ Distanțierul (rama metalică dintre foile de geam) are un impact major pe Uw fi
 ## FAQ — Coeficient termic ferestre
 
 ### Ce Uw trebuie să aibă ferestrele pentru nZEB?
-Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K) pentru casele noi. Recomandarea pentru case nZEB: Uw ≤ 0,85 W/(m²K). Cel mai bun sistem disponibil: Salamander bluEvolution 92 cu tripan 52mm — Uw = 0,66 W/(m²K).
+Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K) pentru casele noi. Recomandarea pentru case nZEB: Uw ≤ 0,85 W/(m²K). Cel mai bun sistem disponibil: Salamander bluEvolution 92 cu tripan 52mm — Uw = 0,70 W/(m²K).
 
 ### Ce înseamnă Uf la ferestre?
 Uf este coeficientul termic al profilului (rama ferestrei), fără geam. Salamander bluEvolution 92 are Uf = 0,95 W/(m²K) — cel mai bun din gama PVC disponibilă comercial în România.
@@ -30251,7 +30467,7 @@ Ug este coeficientul termic al geamului. Geamul dublu argon are Ug = 1,0 W/(m²K
 Se încadrează: valoarea de referință din Mc 001-2022 pentru o casă nouă este Uw ≤ 1,11 W/(m²K), iar la renovări 1,20. Pentru o casă nZEB recomandăm totuși Uw ≤ 0,85 W/(m²K), cu marjă de siguranță.
 
 ### Care este cel mai bun Uw disponibil în România?
-Salamander bluEvolution 92 + tripan 52mm + distanțier Warm Edge + precadre Blaugelb Triotherm+: **Uw = 0,66 W/(m²K)** — certificat PassivHaus.
+Salamander bluEvolution 92 + tripan 52mm + distanțier Warm Edge + precadre Blaugelb Triotherm+: **Uw = 0,70 W/(m²K)** — certificat PassivHaus.
 
 ### Cum verific Uw-ul unei ferestre?
 Solicită **Declarația de Performanță (DoP)** și **certificatul IFT Rosenheim** sau TÜV pentru profilul folosit. Uw-ul trebuie să fie calculat conform EN ISO 10077 și specificat în documentele tehnice.
@@ -30261,9 +30477,9 @@ Solicită **Declarația de Performanță (DoP)** și **certificatul IFT Rosenhei
 | Scenariu | Uw recomandat | Profil optim |
 |---|---|---|
 | Renovare apartament vechi | ≤ 1,00 | Salamander GreenEvolution 76 |
-| Construcție nouă standard | ≤ 0,85 | Salamander bluEvolution 82 |
+| Construcție nouă standard | ≤ 0,85 | Salamander GreenEvolution 76 + tripan |
 | Casă nZEB certificată | ≤ 0,72 | Salamander bluEvolution 92 + tripan |
-| Casă pasivă PHI | ≤ 0,66 | bluEvolution 92 + tripan 52mm + Blaugelb |
+| Casă pasivă PHI | ≤ 0,70 | bluEvolution 92 + tripan 52mm + Blaugelb |
 
 **Regula simplă:** Alege întotdeauna un Uw cu o marjă clară sub valoarea de referință. Pentru o casă nouă în București, asta înseamnă Uw ≤ 0,85 W/(m²K), față de valoarea de referință de 1,11.
 
@@ -30278,7 +30494,7 @@ Dacă vrei să îmbunătățești izolația fără să schimbi ferestrele, sunt 
 - [Tripan vs Termopan: cât economisești real la încălzire?](/ro/blog/tripan-vs-termopan-economii-reale-incalzire-pret)
 - [PVC sau Aluminiu pentru case nZEB în 2026?](/ro/blog/pvc-sau-aluminiu-case-nzeb-2026-ghid-alegere)
 
-Neofort BIZ furnizează ferestre PVC Salamander și aluminiu Alumil cu Uw de la 0,66 W/(m²K). [Solicită consultanță tehnică](/ro/contact). Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [geamurile termoizolante Saint-Gobain SGG](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg) și [distanțierul termic Warm Edge](/ro/sisteme-nzeb/bagheta-warm-edge-distantier-termic).`,
+Neofort BIZ furnizează ferestre PVC Salamander și aluminiu Alumil cu Uw de la 0,70 W/(m²K). [Solicită consultanță tehnică](/ro/contact). Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [geamurile termoizolante Saint-Gobain SGG](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg) și [distanțierul termic Warm Edge](/ro/sisteme-nzeb/bagheta-warm-edge-distantier-termic).`,
       en: `## What is the Uw Thermal Coefficient of a Window?
 
 **Uw (thermal transmittance)** measures how much heat a window loses — the lower the value, the better the insulation. It is expressed in **W/(m²K)** and includes the profile (Uf), glass (Ug) and spacer (Ψg).
@@ -30307,8 +30523,7 @@ The **Mc 001-2022** energy performance methodology (approved by MDLPA Order 16/2
 
 | Profile | Uf (W/m²K) | Uw with triple 44mm | Uw with triple 52mm |
 |---|---|---|---|
-| bluEvolution 92 | 0.95 | **0.72** | **0.66** |
-| bluEvolution 82 | 1.00 | 0.80 | 0.74 |
+| bluEvolution 92 | 0.95 | **0.72** | **0.70** |
 | GreenEvolution 76 | 1.10 | 0.88 | 0.82 |
 
 ### Alumil Aluminium Windows
@@ -30324,7 +30539,7 @@ The **Mc 001-2022** energy performance methodology (approved by MDLPA Order 16/2
 |---|---|---|---|
 | Double argon standard | 1.00 | 32 mm | Uw ≈ 1.2–1.4 |
 | **Triple argon 44mm** | **0.50** | 44 mm | **Uw ≈ 0.72–0.88** |
-| Triple argon 52mm | 0.40 | 52 mm | Uw ≈ 0.66–0.80 |
+| Triple argon 52mm | 0.40 | 52 mm | Uw ≈ 0.70–0.80 |
 
 ## What Uw Means in Money: Real Savings Calculation
 
@@ -30353,7 +30568,7 @@ The spacer (metal frame between glass panes) has a major impact on final window 
 ## FAQ — Window Thermal Coefficient
 
 ### What Uw should windows have for nZEB?
-Mc 001-2022 recommends Uw ≤ 1.11 W/(m²K) for new houses. Recommendation for nZEB homes: Uw ≤ 0.85 W/(m²K). Best available system: Salamander bluEvolution 92 with triple 52mm glazing — Uw = 0.66 W/(m²K).
+Mc 001-2022 recommends Uw ≤ 1.11 W/(m²K) for new houses. Recommendation for nZEB homes: Uw ≤ 0.85 W/(m²K). Best available system: Salamander bluEvolution 92 with triple 52mm glazing — Uw = 0.70 W/(m²K).
 
 ### What does Uf mean for windows?
 Uf is the thermal coefficient of the profile (window frame), excluding glass. Salamander bluEvolution 92 has Uf = 0.95 W/(m²K) — the best in the PVC range commercially available in Romania.
@@ -30365,16 +30580,16 @@ Ug is the thermal coefficient of the glass unit. Double argon glass has Ug = 1.0
 It complies: the Mc 001-2022 reference value for a new house is Uw ≤ 1.11 W/(m²K), and 1.20 for renovations. For an nZEB home we still recommend Uw ≤ 0.85 W/(m²K), with a safety margin.
 
 ### What is the best Uw available in Romania?
-Salamander bluEvolution 92 + triple 52mm + Warm Edge spacer + Blaugelb Triotherm+ preframes: **Uw = 0.66 W/(m²K)** — PassivHaus certified.
+Salamander bluEvolution 92 + triple 52mm + Warm Edge spacer + Blaugelb Triotherm+ preframes: **Uw = 0.70 W/(m²K)** — PassivHaus certified.
 
 ## Conclusion — Which Uw Value to Choose
 
 | Scenario | Recommended Uw | Optimal profile |
 |---|---|---|
 | Old apartment renovation | ≤ 1.00 | Salamander GreenEvolution 76 |
-| Standard new construction | ≤ 0.85 | Salamander bluEvolution 82 |
+| Standard new construction | ≤ 0.85 | Salamander GreenEvolution 76 + triple glazing |
 | Certified nZEB home | ≤ 0.72 | Salamander bluEvolution 92 + triple |
-| PHI passive house | ≤ 0.66 | bluEvolution 92 + triple 52mm + Blaugelb |
+| PHI passive house | ≤ 0.70 | bluEvolution 92 + triple 52mm + Blaugelb |
 
 If you are installing a heat pump, this figure becomes decisive: see [why Uw determines the pump’s efficiency](/en/blog/heat-pump-and-windows-why-uw-matters).
 
@@ -30384,7 +30599,7 @@ If you want to improve insulation without replacing the windows, there are a few
 
 Related: [nZEB Windows Guide Romania 2026](/en/blog/windows-nzeb-house-romania-complete-guide-2026) · [Triple vs Double Glazing Savings](/en/blog/triple-vs-double-glazing-real-savings-heating-cost) · [PVC vs Aluminium nZEB 2026](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide)
 
-Neofort BIZ supplies Salamander PVC and Alumil aluminium windows with Uw from 0.66 W/(m²K). [Request technical consultation](/en/contact). See the [Salamander PVC windows](/en/pvc-windows) we offer. Useful pages: [Saint-Gobain SGG insulating glass](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass) and [the Warm Edge thermal spacer](/en/nzeb-systems/warm-edge-thermo-spacer-insulating-glass).`,
+Neofort BIZ supplies Salamander PVC and Alumil aluminium windows with Uw from 0.70 W/(m²K). [Request technical consultation](/en/contact). See the [Salamander PVC windows](/en/pvc-windows) we offer. Useful pages: [Saint-Gobain SGG insulating glass](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass) and [the Warm Edge thermal spacer](/en/nzeb-systems/warm-edge-thermo-spacer-insulating-glass).`,
       de: `## Was ist der Wärmedurchgangskoeffizient Uw eines Fensters?
 
 **Uw** misst, wie viel Wärme ein Fenster verliert — je niedriger der Wert, desto besser die Dämmung. Er wird in **W/(m²K)** ausgedrückt und umfasst Profil (Uf), Glas (Ug) und Abstandhalter (Ψg).
@@ -30411,8 +30626,7 @@ Die Methodik **Mc 001-2022** (genehmigt durch MDLPA-Erlass 16/2023) nennt Refere
 
 | Profil | Uf (W/m²K) | Uw mit Dreifach 44mm | Uw mit Dreifach 52mm |
 |---|---|---|---|
-| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,66** |
-| Salamander bluEvolution 82 | 1,00 | 0,80 | 0,74 |
+| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,70** |
 | GreenEvolution 76 | 1,10 | 0,88 | 0,82 |
 
 ## Uw in Zahlen: Reale Einsparungen
@@ -30429,7 +30643,7 @@ Die Methodik **Mc 001-2022** (genehmigt durch MDLPA-Erlass 16/2023) nennt Refere
 ## FAQ — Wärmedurchgangskoeffizient Fenster
 
 ### Welchen Uw brauchen Fenster für nZEB?
-Mc 001-2022 empfiehlt Uw ≤ 1,11 W/(m²K) für Neubauten. Empfehlung für nZEB-Häuser: Uw ≤ 0,85 W/(m²K). Bestes verfügbares System: Salamander bluEvolution 92 mit Dreifachverglasung 52mm — Uw = 0,66 W/(m²K).
+Mc 001-2022 empfiehlt Uw ≤ 1,11 W/(m²K) für Neubauten. Empfehlung für nZEB-Häuser: Uw ≤ 0,85 W/(m²K). Bestes verfügbares System: Salamander bluEvolution 92 mit Dreifachverglasung 52mm — Uw = 0,70 W/(m²K).
 
 ### Was bedeutet Uf bei Fenstern?
 Uf ist der Wärmedurchgangskoeffizient des Rahmenprofils ohne Verglasung. Salamander bluEvolution 92 hat Uf = 0,95 W/(m²K) — bester Wert im PVC-Bereich.
@@ -30441,7 +30655,7 @@ Ug ist der Wärmedurchgangskoeffizient der Verglasung. Zweifach Argon: Ug = 1,0 
 Ja — der Referenzwert von Mc 001-2022 für einen Neubau liegt bei Uw ≤ 1,11 W/(m²K), bei Sanierungen bei 1,20. Für ein nZEB-Haus empfehlen wir dennoch Uw ≤ 0,85 W/(m²K).
 
 ### Welcher Uw ist in Rumänien der beste?
-Salamander bluEvolution 92 + Dreifach 52mm + Warm-Edge-Abstandhalter + Blaugelb-Vorblendrahmen: **Uw = 0,66 W/(m²K)** — PassivHaus-zertifiziert.
+Salamander bluEvolution 92 + Dreifach 52mm + Warm-Edge-Abstandhalter + Blaugelb-Vorblendrahmen: **Uw = 0,70 W/(m²K)** — PassivHaus-zertifiziert.
 
 Bei einer Wärmepumpe wird dieser Wert entscheidend: siehe [warum der Uw-Wert die Effizienz der Wärmepumpe bestimmt](/de/blog/waermepumpe-und-fenster-warum-der-uw-wert-zaehlt).
 
@@ -30449,7 +30663,7 @@ Wenn Sie die Dämmung verbessern wollen, ohne die Fenster zu tauschen, gibt es M
 
 ---
 
-Neofort BIZ liefert Salamander PVC- und Alumil-Aluminiumfenster mit Uw ab 0,66 W/(m²K). [Beratungsgespräch](/de/kontakt). Sehen Sie die [Salamander-PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten. Nützliche Seiten: [Saint-Gobain SGG Wärmeschutzglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas) und [Warm-Edge-Abstandhalter](/de/nzeb-systeme/warm-edge-thermo-abstandhalter-isolierglas).`,
+Neofort BIZ liefert Salamander PVC- und Alumil-Aluminiumfenster mit Uw ab 0,70 W/(m²K). [Beratungsgespräch](/de/kontakt). Sehen Sie die [Salamander-PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten. Nützliche Seiten: [Saint-Gobain SGG Wärmeschutzglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas) und [Warm-Edge-Abstandhalter](/de/nzeb-systeme/warm-edge-thermo-abstandhalter-isolierglas).`,
       fr: `## Qu'est-ce que le coefficient thermique Uw d'une fenêtre ?
 
 **Uw** mesure la quantité de chaleur perdue par une fenêtre — plus il est faible, meilleure est l'isolation. Il s'exprime en **W/(m²K)** et inclut le profilé (Uf), le vitrage (Ug) et l'espaceur (Ψg).
@@ -30476,8 +30690,7 @@ La méthodologie **Mc 001-2022** (approuvée par l'arrêté MDLPA 16/2023) fixe 
 
 | Profilé | Uf (W/m²K) | Uw triple 44mm | Uw triple 52mm |
 |---|---|---|---|
-| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,66** |
-| Salamander bluEvolution 82 | 1,00 | 0,80 | 0,74 |
+| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,70** |
 | GreenEvolution 76 | 1,10 | 0,88 | 0,82 |
 
 ## Ce que Uw représente en argent
@@ -30493,7 +30706,7 @@ La méthodologie **Mc 001-2022** (approuvée par l'arrêté MDLPA 16/2023) fixe 
 ## FAQ — Coefficient thermique fenêtres
 
 ### Quel Uw pour les fenêtres nZEB ?
-La Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K) pour les maisons neuves. Recommandation nZEB : Uw ≤ 0,85 W/(m²K). Meilleur système : Salamander bluEvolution 92 avec triple 52mm — Uw = 0,66 W/(m²K).
+La Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K) pour les maisons neuves. Recommandation nZEB : Uw ≤ 0,85 W/(m²K). Meilleur système : Salamander bluEvolution 92 avec triple 52mm — Uw = 0,70 W/(m²K).
 
 ### Que signifie Uf pour les fenêtres ?
 Uf est le coefficient du profilé seul, sans vitrage. Salamander bluEvolution 92 : Uf = 0,95 W/(m²K).
@@ -30510,7 +30723,7 @@ Pour améliorer l’isolation sans remplacer les fenêtres, plusieurs solutions 
 
 ---
 
-Neofort BIZ fournit des fenêtres PVC Salamander et aluminium Alumil avec Uw à partir de 0,66 W/(m²K). [Consultation technique](/fr/contact). Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [le vitrage isolant Saint-Gobain SGG](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg) et [l'intercalaire Warm Edge](/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage).`,
+Neofort BIZ fournit des fenêtres PVC Salamander et aluminium Alumil avec Uw à partir de 0,70 W/(m²K). [Consultation technique](/fr/contact). Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [le vitrage isolant Saint-Gobain SGG](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg) et [l'intercalaire Warm Edge](/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage).`,
       es: `## ¿Qué es el coeficiente térmico Uw de una ventana?
 
 **Uw** mide cuánto calor pierde una ventana — cuanto menor sea el valor, mejor es el aislamiento. Se expresa en **W/(m²K)** e incluye el perfil (Uf), el vidrio (Ug) y el separador (Ψg).
@@ -30537,8 +30750,7 @@ La metodología **Mc 001-2022** (aprobada por la Orden MDLPA 16/2023) fija valor
 
 | Perfil | Uf (W/m²K) | Uw triple 44mm | Uw triple 52mm |
 |---|---|---|---|
-| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,66** |
-| Salamander bluEvolution 82 | 1,00 | 0,80 | 0,74 |
+| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,70** |
 | GreenEvolution 76 | 1,10 | 0,88 | 0,82 |
 
 ## Uw en dinero: cálculo real de ahorros
@@ -30554,7 +30766,7 @@ La metodología **Mc 001-2022** (aprobada por la Orden MDLPA 16/2023) fija valor
 ## FAQ — Coeficiente térmico ventanas
 
 ### ¿Qué Uw deben tener las ventanas para nZEB?
-La Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K) para casas nuevas. Recomendación nZEB: Uw ≤ 0,85 W/(m²K). Mejor sistema: Salamander bluEvolution 92 con triple 52mm — Uw = 0,66 W/(m²K).
+La Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K) para casas nuevas. Recomendación nZEB: Uw ≤ 0,85 W/(m²K). Mejor sistema: Salamander bluEvolution 92 con triple 52mm — Uw = 0,70 W/(m²K).
 
 ### ¿Qué significa Uf en ventanas?
 Uf es el coeficiente del perfil solo, sin vidrio. Salamander bluEvolution 92: Uf = 0,95 W/(m²K).
@@ -30571,7 +30783,7 @@ Para mejorar el aislamiento sin cambiar las ventanas, hay varias soluciones: [¿
 
 ---
 
-Neofort BIZ suministra ventanas PVC Salamander y aluminio Alumil con Uw desde 0,66 W/(m²K). [Consulta técnica](/es/contacto). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el vidrio aislante Saint-Gobain SGG](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg) y [el separador térmico Warm Edge](/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante).`,
+Neofort BIZ suministra ventanas PVC Salamander y aluminio Alumil con Uw desde 0,70 W/(m²K). [Consulta técnica](/es/contacto). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el vidrio aislante Saint-Gobain SGG](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg) y [el separador térmico Warm Edge](/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante).`,
       it: `## Cos'è il coefficiente termico Uw di una finestra?
 
 **Uw** misura quanta energia termica disperde una finestra — più basso è il valore, migliore è l'isolamento. Si esprime in **W/(m²K)** e include il profilo (Uf), il vetro (Ug) e il distanziale (Ψg).
@@ -30598,8 +30810,7 @@ La metodologia **Mc 001-2022** (approvata con l'Ordine MDLPA 16/2023) fissa valo
 
 | Profilo | Uf (W/m²K) | Uw con triplo 44mm | Uw con triplo 52mm |
 |---|---|---|---|
-| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,66** |
-| Salamander bluEvolution 82 | 1,00 | 0,80 | 0,74 |
+| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,70** |
 | GreenEvolution 76 | 1,10 | 0,88 | 0,82 |
 
 ## Uw in denaro: calcolo reale dei risparmi
@@ -30615,7 +30826,7 @@ La metodologia **Mc 001-2022** (approvata con l'Ordine MDLPA 16/2023) fissa valo
 ## FAQ — Coefficiente termico finestre
 
 ### Quale Uw devono avere le finestre per nZEB?
-La Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K) per le case nuove. Raccomandazione nZEB: Uw ≤ 0,85 W/(m²K). Sistema migliore: Salamander bluEvolution 92 con triplo 52mm — Uw = 0,66 W/(m²K).
+La Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K) per le case nuove. Raccomandazione nZEB: Uw ≤ 0,85 W/(m²K). Sistema migliore: Salamander bluEvolution 92 con triplo 52mm — Uw = 0,70 W/(m²K).
 
 ### Cosa significa Uf nelle finestre?
 Uf è il coefficiente del profilo da solo, senza vetro. Salamander bluEvolution 92: Uf = 0,95 W/(m²K).
@@ -30632,7 +30843,7 @@ Per migliorare l’isolamento senza sostituire le finestre ci sono alcune soluzi
 
 ---
 
-Neofort BIZ fornisce finestre PVC Salamander e alluminio Alumil con Uw a partire da 0,66 W/(m²K). [Consulenza tecnica](/it/contatti). Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo. Pagine utili: [il vetro termoisolante Saint-Gobain SGG](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg) e [il distanziatore termico Warm Edge](/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante).`,
+Neofort BIZ fornisce finestre PVC Salamander e alluminio Alumil con Uw a partire da 0,70 W/(m²K). [Consulenza tecnica](/it/contatti). Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo. Pagine utili: [il vetro termoisolante Saint-Gobain SGG](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg) e [il distanziatore termico Warm Edge](/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante).`,
     },
   },
   {
@@ -30730,7 +30941,7 @@ Comisia Europeană a adoptat în 2024 **Regulamentul (UE) 2024/3110**, care înl
 Din 2021, **toate construcțiile noi din România trebuie să respecte standardul nZEB** (Nearly Zero Energy Building), ceea ce impune:
 - **Uw ≤ 1,11 W/(m²K)** pentru ferestrele caselor noi — valoare de referință în Mc 001-2022 (1,20 la renovări)
 - Consum de energie primară ≤ 100 kWh/m²/an
-- Minim 10% din energie din surse regenerabile
+- Minim 30% din energie din surse regenerabile
 
 **Din 2026**, autoritățile locale (ISC — Inspectoratul de Stat în Construcții) intensifică controalele la recepția lucrărilor, cu verificarea obligatorie a documentelor tehnice ale ferestrelor și ușilor montate.
 
@@ -30819,7 +31030,7 @@ In 2024 the European Commission adopted **Regulation (EU) 2024/3110**, which rep
 Since 2021, **every new building in Romania must meet the nZEB standard** (Nearly Zero Energy Building), which requires:
 - **Uw ≤ 1.11 W/(m²K)** for windows in new houses — reference value in Mc 001-2022 (1.20 for renovations)
 - Primary energy consumption ≤ 100 kWh/m²/year
-- At least 10% of energy from renewable sources
+- At least 30% of energy from renewable sources
 
 **From 2026**, local authorities (ISC — the State Construction Inspectorate) are stepping up checks at project handover, with mandatory verification of the technical documents for the windows and doors installed.
 
@@ -30908,7 +31119,7 @@ Die Europäische Kommission hat 2024 die **Verordnung (EU) 2024/3110** verabschi
 Seit 2021 **müssen alle Neubauten in Rumänien den nZEB-Standard erfüllen** (Nearly Zero Energy Building). Das bedeutet:
 - **Uw ≤ 1,11 W/(m²K)** für Fenster in Neubauten — Referenzwert nach Mc 001-2022 (1,20 bei Sanierungen)
 - Primärenergiebedarf ≤ 100 kWh/m²/Jahr
-- Mindestens 10 % der Energie aus erneuerbaren Quellen
+- Mindestens 30 % der Energie aus erneuerbaren Quellen
 
 **Ab 2026** verschärfen die lokalen Behörden (ISC — die staatliche Bauaufsicht) die Kontrollen bei der Bauabnahme, mit verpflichtender Prüfung der technischen Unterlagen der eingebauten Fenster und Türen.
 
@@ -30992,7 +31203,7 @@ La norme **EN 14351-1:2006+A2:2016** (fenêtres et portes extérieures) est en c
 Depuis 2021, **toutes les constructions neuves en Roumanie doivent respecter la norme nZEB** (Nearly Zero Energy Building), ce qui impose :
 - **Uw ≤ 1,11 W/(m²K)** pour les fenêtres des maisons neuves — valeur de référence de la Mc 001-2022 (1,20 en rénovation)
 - Une consommation d’énergie primaire ≤ 100 kWh/m²/an
-- Au moins 10 % d’énergie d’origine renouvelable
+- Au moins 30 % d’énergie d’origine renouvelable
 
 **À partir de 2026**, les autorités locales (ISC — l’Inspection d’État dans la construction) renforcent les contrôles à la réception des travaux, avec vérification obligatoire des documents techniques des fenêtres et portes posées.
 
@@ -31076,7 +31287,7 @@ La norma **EN 14351-1:2006+A2:2016** (ventanas y puertas exteriores) está en re
 Desde 2021, **toda obra nueva en Rumanía debe cumplir el estándar nZEB** (Nearly Zero Energy Building), lo que exige:
 - **Uw ≤ 1,11 W/(m²K)** para las ventanas de casas nuevas — valor de referencia de la Mc 001-2022 (1,20 en rehabilitación)
 - Consumo de energía primaria ≤ 100 kWh/m²/año
-- Al menos un 10 % de energía de fuentes renovables
+- Al menos un 30 % de energía de fuentes renovables
 
 **Desde 2026**, las autoridades locales (ISC — la Inspección Estatal de Construcción) intensifican los controles en la recepción de obra, con verificación obligatoria de la documentación técnica de las ventanas y puertas instaladas.
 
@@ -31160,7 +31371,7 @@ La norma **EN 14351-1:2006+A2:2016** (finestre e porte esterne) è in revisione,
 Dal 2021 **tutte le nuove costruzioni in Romania devono rispettare lo standard nZEB** (Nearly Zero Energy Building), il che impone:
 - **Uw ≤ 1,11 W/(m²K)** per le finestre delle case nuove — valore di riferimento della Mc 001-2022 (1,20 nelle ristrutturazioni)
 - Consumo di energia primaria ≤ 100 kWh/m²/anno
-- Almeno il 10 % di energia da fonti rinnovabili
+- Almeno il 30 % di energia da fonti rinnovabili
 
 **Dal 2026** le autorità locali (ISC — l’Ispettorato di Stato per le Costruzioni) intensificano i controlli al collaudo, con verifica obbligatoria della documentazione tecnica di finestre e porte installate.
 

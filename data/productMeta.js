@@ -285,12 +285,12 @@ export const PRODUCT_META = {
       it: 'Telaio di ristrutturazione PVC – sostituzione finestra',
     },
     desc: {
-      ro: 'Se montează peste tocul vechi, fără demontarea lui și fără spargerea tencuielii. Profil 76 mm, Uw 0,73 W/m²K, 47 dB. Montaj în București.',
-      en: 'Fits over the old frame without removing it or breaking the plaster. 76 mm profile, Uw 0.73 W/m²K, up to 47 dB. Installed in Bucharest.',
-      de: 'Montage über dem alten Rahmen, ohne dessen Entfernung und ohne Putzschäden. 76-mm-Profil, Uw 0,73 W/m²K, bis 47 dB. Montage in Bukarest.',
-      fr: 'Posé sur le cadre ancien sans démontage ni casse de l’enduit. Profil 76 mm, Uw 0,73 W/m²K, jusqu’à 47 dB. Pose à Bucarest et Ilfov.',
-      es: 'Se monta sobre el marco antiguo sin desmontarlo ni romper el revoque. Perfil 76 mm, Uw 0,73 W/m²K, hasta 47 dB. Montaje en Bucarest.',
-      it: 'Si monta sul vecchio telaio senza rimozione né rottura dell’intonaco. Profilo 76 mm, Uw 0,73 W/m²K, fino a 47 dB. Posa a Bucarest.',
+      ro: 'Fereastra veche se scoate complet, iar aripa tocului de renovare acoperă îmbinarea cu zidul: fără reparații la interior. Profil 76 mm, Uw 0,73 W/m²K.',
+      en: 'The old window is removed completely and the renovation flange covers the joint with the wall: no interior repairs. 76 mm profile, Uw 0.73 W/m²K.',
+      de: 'Das alte Fenster wird ganz ausgebaut, der Renovierungsflügel deckt die Fuge zur Wand ab: keine Nacharbeiten innen. 76-mm-Profil, Uw 0,73 W/m²K.',
+      fr: 'L’ancienne fenêtre est entièrement déposée et l’aile du cadre recouvre le joint avec le mur : aucune reprise intérieure. Profil 76 mm, Uw 0,73 W/m²K.',
+      es: 'La ventana antigua se retira por completo y el ala del marco cubre la junta con el muro: sin reparaciones interiores. Perfil 76 mm, Uw 0,73 W/m²K.',
+      it: 'La vecchia finestra si rimuove del tutto e l’aletta del telaio copre il giunto con il muro: nessun ripristino interno. Profilo 76 mm, Uw 0,73 W/m²K.',
     },
   },
 

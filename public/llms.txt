@@ -75,7 +75,7 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 
 ### Accesorii
 
-- **[Toc de Renovare PVC – Înlocuire Fereastră fără Demontarea Tocului Vechi](https://www.neofort-biz.ro/ro/accesorii/toc-de-renovare-pvc)**
+- **[Toc de Renovare PVC – Înlocuire Fereastră fără Reparații la Interior](https://www.neofort-biz.ro/ro/accesorii/toc-de-renovare-pvc)**
   - Material: PVC Clasa A · Adâncime profil: 76 mm · Izolare fonică: până la 47 dB
   - Producător: Salamander GmbH & Co. KG
 - **[Pervazuri Interior PVC și Glafuri Exterior Aluminiu – Finisare Completă Fereastră](https://www.neofort-biz.ro/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu)**
@@ -154,7 +154,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Alumil S 350 SMARTIA Lift & Slide – Sliding Door with Accessible Thermal Barrier](https://www.neofort-biz.ro/en/products-alu/alumil-s350-smartia-lift-slide-system)
 - [Alumil SF 85 SUPREME Folding System – Premium Folding Doors with Kooltherm Barrier](https://www.neofort-biz.ro/en/products-alu/alumil-sf85-supreme-folding-system)
 - [Alumil M 19800 SMARTIA Folding System – Accessible Folding Doors for Terraces](https://www.neofort-biz.ro/en/products-alu/alumil-m19800-smartia-folding-system)
-- [PVC Renovation Frame – Window Replacement Without Removing the Old Frame](https://www.neofort-biz.ro/en/accessories/pvc-renovation-frame)
+- [PVC Renovation Frame – Window Replacement Without Interior Repairs](https://www.neofort-biz.ro/en/accessories/pvc-renovation-frame)
 - [Interior PVC Windowsills and Exterior Aluminium Sills – Complete Window Finishing](https://www.neofort-biz.ro/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills)
 - [Aereco Hygro-adjustable Ventilation Grille – Natural Ventilation Controlled by Humidity](https://www.neofort-biz.ro/en/accessories/aereco-hygro-adjustable-ventilation-grille)
 - [Somfy Automation — Motors and Remote Controls for Shutters, Pergolas and Smart Home](https://www.neofort-biz.ro/en/accessories/somfy-automation-shutters-pergolas)
@@ -182,7 +182,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Alumil S 350 SMARTIA Hebeschiebe – preisgünstige Schiebetür mit thermischer Trennung](https://www.neofort-biz.ro/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem)
 - [Alumil SF 85 SUPREME Faltsystem – Premium Falttüren mit Kooltherm-Barriere](https://www.neofort-biz.ro/de/produkte-alu/alumil-sf85-supreme-faltsystem)
 - [Alumil M 19800 SMARTIA Faltsystem – Preisgünstige Falttüren für Terrassen](https://www.neofort-biz.ro/de/produkte-alu/alumil-m19800-smartia-faltsystem)
-- [PVC Renovierungsrahmen – Fensterwechsel ohne Entfernung des alten Rahmens](https://www.neofort-biz.ro/de/zubehoer/pvc-renovierungsrahmen)
+- [PVC-Renovierungsrahmen – Fenstertausch ohne Nacharbeiten innen](https://www.neofort-biz.ro/de/zubehoer/pvc-renovierungsrahmen)
 - [Innenfensterbänke PVC und Außenfensterbänke Aluminium – Vollständige Fensterveredelung](https://www.neofort-biz.ro/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium)
 - [Aereco Hygroregelbare Lüftungsgitter – Natürliche Lüftung durch Feuchtigkeitssteuerung](https://www.neofort-biz.ro/de/zubehoer/aereco-hygroregelbare-lueftungsgitter)
 - [Somfy Automatisierung — Motoren und Fernbedienungen für Rollläden, Pergolen und Smart Home](https://www.neofort-biz.ro/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
@@ -210,7 +210,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Coulissant Levant Alumil S 350 SMARTIA – Porte Coulissante à Rupture Thermique Accessible](https://www.neofort-biz.ro/fr/produits-alu/systeme-coulissant-alumil-s350-smartia)
 - [Système Pliant Alumil SF 85 SUPREME – Portes Pliantes Premium avec Barrière Kooltherm](https://www.neofort-biz.ro/fr/produits-alu/systeme-pliant-alumil-sf85-supreme)
 - [Système Pliant Alumil M 19800 SMARTIA – Portes Pliantes Accessibles pour Terrasses](https://www.neofort-biz.ro/fr/produits-alu/systeme-pliant-alumil-m19800-smartia)
-- [Cadre de Rénovation PVC – Remplacement Fenêtre sans Démontage du Cadre Ancien](https://www.neofort-biz.ro/fr/accessoires/cadre-renovation-pvc)
+- [Cadre de Rénovation PVC – Remplacement de Fenêtre sans Reprise Intérieure](https://www.neofort-biz.ro/fr/accessoires/cadre-renovation-pvc)
 - [Appuis de Fenêtre Intérieurs PVC et Extérieurs Aluminium – Finition Complète Fenêtre](https://www.neofort-biz.ro/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium)
 - [Grille Hygroréglable Aereco – Ventilation Naturelle Contrôlée par l'Humidité](https://www.neofort-biz.ro/fr/accessoires/grille-hygroreglable-aereco-ventilation)
 - [Automatisation Somfy — Moteurs et Télécommandes pour Volets, Pergolas et Maison Connectée](https://www.neofort-biz.ro/fr/accessoires/automatisation-somfy-volets-pergolas)
@@ -238,7 +238,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Corredera Elevable Alumil S 350 SMARTIA – Puerta Corredera con Barrera Térmica Accesible](https://www.neofort-biz.ro/es/productos-alu/sistema-corredera-alumil-s350-smartia)
 - [Sistema Plegable Alumil SF 85 SUPREME – Puertas Plegables Premium con Barrera Kooltherm](https://www.neofort-biz.ro/es/productos-alu/sistema-plegable-alumil-sf85-supreme)
 - [Sistema Plegable Alumil M 19800 SMARTIA – Puertas Plegables Accesibles para Terrazas](https://www.neofort-biz.ro/es/productos-alu/sistema-plegable-alumil-m19800-smartia)
-- [Marco de Renovación PVC – Sustitución de Ventana sin Desmontar el Marco Antiguo](https://www.neofort-biz.ro/es/accesorios/marco-renovacion-pvc)
+- [Marco de Renovación PVC – Sustitución de Ventana sin Reparaciones Interiores](https://www.neofort-biz.ro/es/accesorios/marco-renovacion-pvc)
 - [Alféizares Interiores PVC y Exteriores Aluminio – Acabado Completo de Ventana](https://www.neofort-biz.ro/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio)
 - [Rejilla Higrorreglable Aereco – Ventilación Natural Controlada por Humedad](https://www.neofort-biz.ro/es/accesorios/rejilla-higrorreglable-aereco-ventilacion)
 - [Automatización Somfy — Motores y Mandos para Persianas, Pérgolas y Smart Home](https://www.neofort-biz.ro/es/accesorios/automatizacion-somfy-persianas-pergolas)
@@ -266,7 +266,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Scorrevole Alzante Alumil S 350 SMARTIA – Porta Scorrevole con Taglio Termico Accessibile](https://www.neofort-biz.ro/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia)
 - [Sistema Pieghevole Alumil SF 85 SUPREME – Porte Pieghevoli Premium con Barriera Kooltherm](https://www.neofort-biz.ro/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme)
 - [Sistema Pieghevole Alumil M 19800 SMARTIA – Porte Pieghevoli Accessibili per Terrazze](https://www.neofort-biz.ro/it/prodotti-alu/sistema-pieghevole-alumil-m19800-smartia)
-- [Telaio di Ristrutturazione PVC – Sostituzione Finestra senza Rimozione del Vecchio Telaio](https://www.neofort-biz.ro/it/accessori/telaio-ristrutturazione-pvc)
+- [Telaio di Ristrutturazione PVC – Sostituzione Finestra senza Ripristini Interni](https://www.neofort-biz.ro/it/accessori/telaio-ristrutturazione-pvc)
 - [Davanzali Interni PVC e Esterni Alluminio – Finitura Completa della Finestra](https://www.neofort-biz.ro/it/accessori/davanzali-interni-pvc-esterni-alluminio)
 - [Griglia Igroregolab. Aereco – Ventilazione Naturale Controllata dall'Umidità](https://www.neofort-biz.ro/it/accessori/griglia-igroregolab-aereco-ventilazione)
 - [Automazione Somfy — Motori e Telecomandi per Tapparelle, Pergole e Casa Intelligente](https://www.neofort-biz.ro/it/accessori/automazione-somfy-tapparelle-pergole)
