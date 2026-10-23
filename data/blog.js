@@ -3779,65 +3779,67 @@ Neofort BIZ fornisce e posa porte in alluminio Alumil a Bucarest e nell’Ilfov,
     content: {
       ro: `## De ce ferestrele sunt principala sursă de pierderi termice în locuințele din București
 
-Imaginea de mai sus arată secțiunea transversală a unui profil de fereastră modern cu geam dublu termoizolant. Distanțierul metalic dintre cele două foi de sticlă și spațiul puternic vizibil dintre profil și zidărie sunt exact locurile unde se produc cele mai mari pierderi termice — și aceste pierderi sunt recuperabile fără neapărat a înlocui toată tâmplăria.
+Imaginea de mai sus arată secțiunea transversală a unui profil de fereastră modern cu geam dublu termoizolant. Distanțierul metalic dintre cele două foi de sticlă și spațiul dintre profil și zidărie sunt exact locurile unde se produc cele mai mari pierderi termice — și aceste pierderi sunt recuperabile fără să înlocuiești neapărat toată tâmplăria.
 
-Studiile de eficiență energetică realizate pe fondul locativ din București arată că **ferestrele sunt responsabile de 25-40% din pierderile de căldură** ale unui apartament tipic. Facturile la încălzire din sezonul rece 2024-2025 au crescut cu 30-45% față de 2022 — ceea ce face rentabilitatea unei investiții în izolația termică a ferestrelor mai clară ca oricând.
+Studiile de eficiență energetică realizate pe fondul locativ din București arată că **ferestrele sunt responsabile de 25-40% din pierderile de căldură** ale unui apartament tipic. Cu prețurile energiei din ultimii ani, o investiție în izolația termică a ferestrelor se recuperează mai repede ca oricând.
 
 ## Diagnosticul: cum știi că ferestrele pierd căldură
 
 Înainte să cheltuiești bani, verifică aceste semne:
 
-**Condens pe suprafața interioară a geamului** — cel mai clar semn. Dacă apare pe zona centrală a geamului (nu pe margine), înseamnă că Ug-ul pachetului de sticlă este ridicat (geam dublu vechi cu Ug = 1,1-1,6 W/(m²K)). Dacă apare pe marginea geamului, problema este distanțierul (soluție: înlocuire distanțier cu Warm Edge).
+**Condens pe suprafața interioară a geamului** — cel mai clar semn. Dacă apare pe zona centrală a geamului (nu pe margine), înseamnă că Ug-ul pachetului de sticlă este ridicat (geam dublu vechi cu Ug = 1,1-1,6 W/(m²K)). Dacă apare pe marginea geamului, problema este distanțierul (soluție: pachet de sticlă nou, cu distanțier Warm Edge).
 
 **Curent de aer rece lângă fereastră** — etanșeitate slabă a garniturilor sau montaj defectuos. Soluție posibilă fără înlocuire totală: reglaj feronerie + înlocuire garnituri.
 
 **Toc rece la atingere** — punte termică la montaj. Dacă tocul e semnificativ mai rece decât peretele, problema nu e profilul, ci montajul.
 
-**Factură de gaz/curent cu 30%+ mai mare iarna** față de o locuință similară — calcul Uw real necesar.
+**Factură de încălzire cu 30%+ mai mare iarna** față de o locuință similară — merită calculat Uw-ul real al ferestrelor.
 
 ## Opțiunea 1 — Îmbunătățire fără înlocuire (cost mic, efect limitat)
 
 ### a) Înlocuirea garniturilor EPDM
-Garniturile de etanșare se degradează în 8-12 ani. Înlocuirea lor costă 30-80 lei per fereastră și reduce infiltrațiile de aer cu 60-70%. Efect vizibil imediat: dispare curentul rece de lângă geam.
+Garniturile de etanșare se degradează în 8-12 ani. Înlocuirea lor costă orientativ 6-16 EUR per fereastră și reduce infiltrațiile de aer cu 60-70%. Efect vizibil imediat: dispare curentul rece de lângă geam.
 
-### b) Reglarea feronieriei
-Feroneria Roto/Winkhaus nereglată corect lasă canatul să nu preseze uniform pe garnitură. Reglaj pe 3 axe costă 50-100 lei per fereastră și poate elimina infiltrațiile de aer fără înlocuire.
+### b) Reglarea feroneriei
+Feroneria Roto sau Winkhaus nereglată corect lasă canatul să nu preseze uniform pe garnitură. Reglajul pe 3 axe costă orientativ 10-20 EUR per fereastră și poate elimina infiltrațiile de aer fără înlocuire.
 
 ### c) Aplicarea foliei Low-E pe geamul existent
-Folii low-emisivitate autoadezive (ex. 3M Thinsulate) aplicate pe suprafața interioară a geamului existent reduc Ug cu 0,2-0,4 W/(m²K). Cost: 80-150 lei/m². Dezavantaj: nu rezolvă condensul marginal și nu îmbunătățesc izolarea fonică.
+Foliile low-emisivitate autoadezive (de exemplu 3M Thinsulate) aplicate pe suprafața interioară a geamului existent reduc Ug cu 0,2-0,4 W/(m²K). Cost orientativ: 16-30 EUR/m². Dezavantaj: nu rezolvă condensul marginal și nu îmbunătățesc izolarea fonică.
 
 ### d) Siliconare perimetrală exterioară
-Dacă siliconul exterior e crăpat sau lipsă, infiltrațiile de apă și aer sunt semnificative. Resiliconare cu silicon neutru UV-rezistent: 40-80 lei per fereastră.
+Dacă siliconul exterior e crăpat sau lipsește, infiltrațiile de apă și aer sunt semnificative. Resiliconarea cu silicon neutru, rezistent la UV: orientativ 8-16 EUR per fereastră.
 
-**Concluzie opțiunea 1:** Eficientă dacă fereastra are profil bun (6 camere, 82-92 mm) dar garnituri uzate sau feronerie nereglată. Nu rezolvă problemele de performanță termică ale geamului propriu-zis.
+**Concluzie opțiunea 1:** Eficientă dacă fereastra are profil bun (6 camere, 82-92 mm) dar garnituri uzate sau feronerie nereglată. Nu rezolvă performanța termică a geamului propriu-zis.
 
 ## Opțiunea 2 — Înlocuirea pachetului de sticlă (cost mediu, efect semnificativ)
 
-Dacă profilul e în stare bună (PVC fără deformare, fără fisuri) dar geamul e dublu vechi (Ug = 1,0-1,6 W/(m²K)), înlocuirea doar a pachetului de sticlă este cel mai bun raport cost/beneficiu:
+Dacă profilul e în stare bună (PVC fără deformare, fără fisuri) dar geamul e dublu vechi (Ug = 1,0-1,6 W/(m²K)), înlocuirea doar a pachetului de sticlă are cel mai bun raport cost/beneficiu:
 
-- **Geam dublu standard → geam triplu cu argon și Low-E:** Ug scade de la 1,0 la 0,5 W/(m²K) — reducere de 50%
-- **Cost înlocuire pachet sticlă:** 150-300 lei/m² (față de 400-700 lei/m² pentru fereastra completă)
-- **Condiție:** profilul trebuie să aibă adâncime min. 70 mm pentru a accepta tripanul de 44 mm
+- **Geam dublu standard → geam triplu cu argon și Low-E:** Ug scade de la 1,0-1,1 la 0,5-0,6 W/(m²K) — cam la jumătate
+- **Cost orientativ al pachetului de sticlă nou:** 30-60 EUR/m², față de 150-285 EUR/m² pentru o fereastră PVC Salamander completă montată
+- **Condiție:** profilul trebuie să aibă adâncime de minimum 70 mm ca să accepte un tripan de 44 mm
 
-**Important:** Distanțierul Warm Edge trebuie inclus la înlocuire — elimină condensul marginal și adaugă 0,1-0,15 W/(m²K) la performanța totală.
+**Important:** Distanțierul Warm Edge trebuie inclus la înlocuire — elimină condensul marginal și îmbunătățește Uw-ul ferestrei cu 0,05-0,10 W/(m²K).
+
+*Prețurile din acest articol sunt orientative, fără TVA.*
 
 ## Opțiunea 3 — Înlocuirea completă a tâmplăriei (cost mare, efect maxim)
 
-Când profilul e mai vechi de 20 de ani, deformat, sau când vrei să atingi standardul nZEB (Uw ≤ 1,0 W/(m²K)), înlocuirea completă e singura soluție:
+Când profilul e mai vechi de 20 de ani, deformat, sau când vrei să cobori clar sub valorile de referință din Mc 001-2022 (Uw ≤ 1,11 W/(m²K) la casele noi, 1,20 la renovări), înlocuirea completă e singura soluție:
 
 | Situație actuală | Uw actual | Uw după înlocuire | Economie anuală* |
 |---|---|---|---|
-| Geam simplu, toc lemn | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 700–900 lei/an |
-| Geam dublu vechi (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 350–500 lei/an |
-| Geam dublu modern (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 120–200 lei/an |
+| Geam simplu, toc lemn | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 305–345 EUR/an |
+| Geam dublu vechi (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 120–170 EUR/an |
+| Geam dublu modern (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 30–55 EUR/an |
 
-*Estimare pentru apartament 70 m², 8 ferestre standard, prețuri energie 2026.
+*Estimare pentru un apartament de 70 m² cu 8 ferestre de ~1,2 m², ΔT mediu 20°C, 3.500 de ore de sezon rece și ~0,12 EUR/kWh.
 
 ## Ce profil să alegi pentru București — recomandare practică
 
-Clima din București (zona climatică II conform NP 048/2000) impune ierni cu temperaturi minime de −15°C și veri caniculare cu +38°C. Profilul optim:
+Clima din București (zona climatică II conform Mc 001-2022) aduce ierni cu temperaturi minime de −15°C și veri caniculare cu +38°C. Profilul optim:
 
-- **Salamander GreenEvolution 76** (5 camere, 76 mm) — raportul optim calitate/preț pentru renovări rezidențiale în București. Uw ≥ 0,73 W/(m²K) cu tripan.
+- **Salamander GreenEvolution 76** (5 camere, 76 mm) — raportul optim calitate/preț pentru renovări rezidențiale în București. Uw de la 0,73 W/(m²K) cu tripan.
 - **Salamander bluEvolution 92** (6 camere, 92 mm) — pentru case noi sau proiecte nZEB. Uw = 0,70-0,80 W/(m²K) cu tripan Saint-Gobain și Warm Edge.
 
 ## Montajul — de ce face diferența între 40% și 60% economie la energie
@@ -3845,7 +3847,7 @@ Clima din București (zona climatică II conform NP 048/2000) impune ierni cu te
 Cel mai performant profil pierde 30-50% din eficiență dacă montajul e defectuos. Cele 3 zone de etanșare:
 
 1. **Exterior** — bandă precomprimată butilică (nu silicon): etanșare la apă și vânt, durabilitate 20+ ani
-2. **Mediană** — spumă PU semi-deschisă: izolație termică și fonică
+2. **Mediană** — spumă poliuretanică: izolație termică și fonică
 3. **Interior** — folie antivapori: previne condensul interstițial în structura peretelui
 
 Precadrele Blaugelb Triotherm+ sunt recomandate pentru proiectele nZEB — elimină puntea termică la glaf și pot fi solicitate ca opțiune separată.
@@ -3856,8 +3858,6 @@ Precadrele Blaugelb Triotherm+ sunt recomandate pentru proiectele nZEB — elimi
 - [Care sunt opțiunile de izolație perimetrală pentru ferestre în România?](/ro/blog/optiuni-izolatie-perimetrala-ferestre-romania-2026)
 - [Unde pot comanda termopane cu izolație avansată în București?](/ro/blog/unde-comand-termopane-izolatie-avansata-bucuresti)
 - [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026)
-
-Neofort BIZ — specialist în izolație termică ferestre în București și Ilfov. [Solicită consultanță](/ro/contact). Descoperă [gama de ferestre PVC](/ro/tamplarie-pvc) pe care le montăm.
 
 ## Întrebări frecvente
 
@@ -3871,391 +3871,559 @@ Semnele clare sunt: condens pe partea centrală a geamului (Ug ridicat), curent 
 
 ### Merită să înlocuiesc doar geamul, nu toată fereastra?
 
-Dacă profilul e în stare bună (PVC fără deformare, adâncime min. 70 mm) dar geamul e dublu vechi, înlocuirea doar a pachetului de sticlă cu triplu argon + Low-E scade Ug de la 1,0 la 0,5 W/(m²K) și costă 150-300 lei/m², față de 400-700 lei/m² pentru fereastra completă.
+Dacă profilul e în stare bună (PVC fără deformare, adâncime de minimum 70 mm) dar geamul e dublu vechi, înlocuirea doar a pachetului de sticlă cu triplu argon + Low-E scade Ug-ul cam la jumătate și costă orientativ 30-60 EUR/m², față de 150-285 EUR/m² pentru o fereastră completă montată.
 
 ### Ce profil Salamander e recomandat pentru renovări în București?
 
 Pentru renovări rezidențiale, Salamander GreenEvolution 76 (5 camere, 76 mm) oferă raportul optim calitate/preț, cu Uw de la 0,73 W/(m²K). Pentru case noi sau proiecte nZEB, bluEvolution 92 atinge Uw 0,70-0,80 cu tripan Saint-Gobain și Warm Edge.
 
+### Cât economisesc pe an dacă înlocuiesc ferestrele?
+
+Pentru un apartament de 70 m² cu 8 ferestre, la ~0,12 EUR/kWh: în jur de 305-345 EUR pe an dacă înlocuiești ferestre cu geam simplu, 120-170 EUR dacă ai geam dublu vechi din 1990-2005 și 30-55 EUR dacă ai deja geam dublu modern. Cu cât ferestrele actuale sunt mai vechi, cu atât înlocuirea se recuperează mai repede.
+
 ---
 
-Neofort BIZ montează tâmplărie PVC Salamander cu montaj în trei planuri de etanșare, în București și Ilfov. [Descrie-ne situația ferestrelor tale](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [distanțierul termic Warm Edge](/ro/sisteme-nzeb/bagheta-warm-edge-distantier-termic) și [banda precomprimată butilică](/ro/sisteme-nzeb/banda-precomprimata-butilic).
-`,
+Neofort BIZ montează tâmplărie PVC Salamander cu montaj în trei planuri de etanșare, în București și Ilfov. [Descrie-ne situația ferestrelor tale](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [distanțierul termic Warm Edge](/ro/sisteme-nzeb/bagheta-warm-edge-distantier-termic) și [banda precomprimată butilică](/ro/sisteme-nzeb/banda-precomprimata-butilic).`,
 
-      en: `## Why Windows Are the Main Source of Heat Loss in Bucharest Homes
+      en: `## Why windows are the main source of heat loss in Bucharest homes
 
-The cross-section image above shows a modern window profile with double thermal insulating glazing. The metal spacer between the two glass panes and the visible gap between profile and masonry are exactly where the greatest heat losses occur — and these losses are recoverable without necessarily replacing all the joinery.
+The image above shows a cross-section of a modern window profile with double insulating glass. The metal spacer between the two panes and the gap between the profile and the masonry are exactly where the biggest heat losses occur — and these losses can be recovered without necessarily replacing all the joinery.
 
-Energy efficiency studies on Bucharest's housing stock show **windows account for 25-40% of heat losses** in a typical apartment. Heating bills in the 2024-2025 cold season rose 30-45% vs 2022 — making a window insulation investment more worthwhile than ever.
+Energy-efficiency studies of Bucharest's housing stock show that **windows account for 25-40% of the heat loss** of a typical apartment. With energy prices as they have been in recent years, an investment in window insulation pays back faster than ever.
 
-## Diagnosis: How to Know Your Windows Are Losing Heat
+## The diagnosis: how to tell your windows are losing heat
 
-**Condensation on the interior glass surface** — the clearest sign. If it appears on the central zone (not the edge), Ug is high (old double glazing with Ug = 1.1-1.6). If it appears at the glass edge, the problem is the spacer (solution: replace with Warm Edge spacer).
+Before spending money, check for these signs:
 
-**Cold draught near the window** — poor gasket sealing or defective installation. Possible solution without full replacement: hardware adjustment + gasket replacement.
+**Condensation on the inside surface of the glass** — the clearest sign. If it appears in the central area of the glass (not at the edge), the Ug of the glass unit is high (old double glazing with Ug = 1.1-1.6 W/(m²K)). If it appears at the edge of the glass, the problem is the spacer (solution: a new glass unit with a Warm Edge spacer).
 
-**Cold frame to the touch** — thermal bridge at installation. If the frame is significantly colder than the wall, the problem is the installation, not the profile.
+**A cold draught next to the window** — poor gasket sealing or faulty installation. A possible fix without full replacement: hardware adjustment + new gaskets.
 
-## Option 1 — Improvement Without Replacement (low cost, limited effect)
+**A frame that feels cold to the touch** — a thermal bridge at the installation joint. If the frame is noticeably colder than the wall, the problem is not the profile but the installation.
 
-**a) EPDM gasket replacement:** Sealing gaskets degrade in 8-12 years. Replacement costs €6-16 per window and reduces air infiltration by 60-70%.
+**A heating bill 30%+ higher in winter** than a similar home — worth calculating the windows' real Uw.
 
-**b) Hardware adjustment:** Incorrectly adjusted Roto/Winkhaus hardware leaves the sash not pressing uniformly on the gasket. 3-axis adjustment costs €10-20 per window.
+## Option 1 — Improvement without replacement (low cost, limited effect)
 
-**c) Applying Low-E film to existing glazing:** Self-adhesive low-emissivity films (e.g. 3M Thinsulate) applied to the inner surface reduce Ug by 0.2-0.4 W/(m²K). Cost: €16-30/m². Disadvantage: does not resolve marginal condensation.
+### a) Replacing the EPDM gaskets
+Sealing gaskets degrade in 8-12 years. Replacing them costs roughly 6-16 EUR per window and cuts air infiltration by 60-70%. Immediately noticeable: the cold draught next to the glass disappears.
 
-**d) Exterior perimeter siliconing:** If exterior silicone is cracked or missing, reseal with UV-resistant neutral silicone: €8-16 per window.
+### b) Adjusting the hardware
+Badly adjusted Roto or Winkhaus hardware stops the sash from pressing evenly on the gasket. A 3-axis adjustment costs roughly 10-20 EUR per window and can eliminate air infiltration without replacement.
 
-## Option 2 — Glazing Pack Replacement (medium cost, significant effect)
+### c) Applying Low-E film to the existing glass
+Self-adhesive low-emissivity films (for example 3M Thinsulate) applied to the inside surface of the existing glass reduce Ug by 0.2-0.4 W/(m²K). Indicative cost: 16-30 EUR/m². Drawback: they do not solve edge condensation and do not improve sound insulation.
 
-If the profile is in good condition but the glazing is old double (Ug = 1.0-1.6), replacing only the glass pack offers the best cost/benefit ratio:
+### d) Exterior perimeter sealing
+If the exterior silicone is cracked or missing, water and air infiltration are significant. Resealing with UV-resistant neutral silicone: roughly 8-16 EUR per window.
 
-- **Old double → triple glazing with argon and Low-E:** Ug drops from 1.0 to 0.5 W/(m²K) — 50% reduction
-- **Cost of glass pack replacement:** €30-60/m² (vs €80-140/m² for the complete window)
-- **Condition:** profile must be at least 70 mm deep to accept the 44 mm triple pack
+**Conclusion on option 1:** Effective if the window has a good profile (6 chambers, 82-92 mm) but worn gaskets or badly adjusted hardware. It does not fix the thermal performance of the glass itself.
 
-## Option 3 — Complete Window Replacement (high cost, maximum effect)
+## Option 2 — Replacing the glass unit (medium cost, significant effect)
 
-When the profile is more than 20 years old, deformed, or you want to reach nZEB standard (Uw ≤ 1.0 W/(m²K)):
+If the profile is in good condition (PVC without deformation or cracks) but the glass is old double glazing (Ug = 1.0-1.6 W/(m²K)), replacing only the glass unit offers the best cost/benefit ratio:
 
-| Current situation | Current Uw | After replacement | Annual saving* |
+- **Standard double glazing → triple glazing with argon and Low-E:** Ug falls from 1.0-1.1 to 0.5-0.6 W/(m²K) — roughly half
+- **Indicative cost of a new glass unit:** 30-60 EUR/m², against 150-285 EUR/m² for a complete installed Salamander PVC window
+- **Condition:** the profile must be at least 70 mm deep to accept a 44 mm triple glazing unit
+
+**Important:** a Warm Edge spacer must be included in the replacement — it eliminates edge condensation and improves the window's Uw by 0.05-0.10 W/(m²K).
+
+*Prices in this article are indicative and exclude VAT.*
+
+## Option 3 — Replacing the joinery completely (high cost, maximum effect)
+
+When the profile is more than 20 years old or deformed, or when you want to get clearly below the Mc 001-2022 reference values (Uw ≤ 1.11 W/(m²K) for new houses, 1.20 for renovations), complete replacement is the only solution:
+
+| Current situation | Current Uw | Uw after replacement | Annual saving* |
 |---|---|---|---|
-| Single glazing, timber frame | 4.5–5.0 W/(m²K) | 0.72 W/(m²K) | €140–180/year |
-| Old double glazing (1990-2005) | 2.2–2.8 W/(m²K) | 0.72 W/(m²K) | €70–100/year |
-| Modern double glazing (2010-2020) | 1.1–1.4 W/(m²K) | 0.72 W/(m²K) | €24–40/year |
+| Single glazing, wooden frame | 4.5–5.0 W/(m²K) | 0.72 W/(m²K) | 305–345 EUR/year |
+| Old double glazing (1990-2005) | 2.2–2.8 W/(m²K) | 0.72 W/(m²K) | 120–170 EUR/year |
+| Modern double glazing (2010-2020) | 1.1–1.4 W/(m²K) | 0.72 W/(m²K) | 30–55 EUR/year |
 
-*Estimate for 70 m² apartment, 8 standard windows, 2026 energy prices.
+*Estimate for a 70 m² apartment with 8 windows of ~1.2 m², an average ΔT of 20°C, 3,500 cold-season hours and ~0.12 EUR/kWh.
 
-## Which Profile to Choose for Bucharest
+## Which profile to choose for Bucharest — a practical recommendation
 
-- **Salamander GreenEvolution 76** (5 chambers, 76 mm) — optimal quality/price ratio for residential renovations in Bucharest. Uw from 0.73 W/(m²K) with triple glazing.
-- **Salamander bluEvolution 92** (6 chambers, 92 mm) — for new builds or nZEB projects. Uw = 0.70-0.80 W/(m²K) with Saint-Gobain triple glazing and Warm Edge.
+Bucharest's climate (climate zone II under Mc 001-2022) brings winters with minimum temperatures of −15°C and scorching summers of +38°C. The best profile:
 
-The installation details with Blaugelb Triotherm+ precasings are covered step by step here: [Installation with Blaugelb Triotherm+ Precasings — Why It's Mandatory for nZEB Certification](/en/blog/blaugelb-triotherm-precasing-installation-nzeb).
+- **Salamander GreenEvolution 76** (5 chambers, 76 mm) — the best value for money for residential renovations in Bucharest. Uw from 0.73 W/(m²K) with triple glazing.
+- **Salamander bluEvolution 92** (6 chambers, 92 mm) — for new houses or nZEB projects. Uw = 0.70-0.80 W/(m²K) with Saint-Gobain triple glazing and Warm Edge.
+
+## Installation — why it makes the difference between 40% and 60% energy savings
+
+Even the best-performing profile loses 30-50% of its efficiency if the installation is faulty. The 3 sealing zones:
+
+1. **Exterior** — pre-compressed butyl tape (not silicone): sealing against water and wind, 20+ years of durability
+2. **Middle** — polyurethane foam: thermal and acoustic insulation
+3. **Interior** — vapour barrier membrane: prevents interstitial condensation in the wall structure
+
+Blaugelb Triotherm+ pre-frames are recommended for nZEB projects — they eliminate the thermal bridge at the sill and can be ordered as a separate option.
 
 ---
 
 **Related articles:**
-- [What Are the Perimeter Insulation Options for Windows in Romania?](/en/blog/perimeter-insulation-options-windows-romania-2026)
-- [Where to Order Windows with Advanced Insulation in Bucharest?](/en/blog/where-to-order-advanced-insulation-windows-bucharest)
-- [Salamander Window Prices Bucharest 2026](/en/blog/salamander-window-prices-bucharest-2026)
-
-Neofort BIZ — window thermal insulation specialist in Bucharest and Ilfov. [Request consultation](/en/contact). Discover [the range of PVC windows](/en/pvc-windows) we install.
+- [What are the perimeter insulation options for windows in Romania?](/en/blog/perimeter-insulation-options-windows-romania-2026)
+- [Where can I order windows with advanced insulation in Bucharest?](/en/blog/where-to-order-advanced-insulation-windows-bucharest)
+- [Salamander window prices Bucharest 2026](/en/blog/salamander-window-prices-bucharest-2026)
 
 ## Frequently Asked Questions
 
 ### How much of an apartment's heat loss happens through the windows?
 
-Studies of Bucharest's housing stock show windows are responsible for 25-40% of a typical apartment's heat loss. That is why insulating them has the fastest impact on your bill.
+Studies of Bucharest's housing stock show that windows account for 25-40% of the heat loss of a typical apartment. That is why insulating them has the fastest impact on the bill.
 
-### How do I know if my windows are losing heat?
+### How can I tell if my windows are losing heat?
 
-The clear signs are: condensation on the centre of the glass (high Ug), cold draught near the window (worn seals or poor fitting), a frame that feels cold to the touch (thermal bridge), and a heating bill over 30% higher than a comparable home.
+The clear signs are: condensation in the central part of the glass (high Ug), a cold draught next to the window (gaskets or faulty installation), a frame that feels cold to the touch (thermal bridge) and a heating bill more than 30% higher than in a similar home.
 
-### Is it worth replacing only the glass, not the whole window?
+### Is it worth replacing just the glass, not the whole window?
 
-If the frame is in good condition (undeformed PVC, min. 70 mm depth) but the glass is old double glazing, replacing only the glass unit with triple argon + Low-E drops Ug from 1.0 to 0.5 W/(m²K) and costs 150-300 lei/m², versus 400-700 lei/m² for a full window.
+If the profile is in good condition (PVC without deformation, at least 70 mm deep) but the glass is old double glazing, replacing only the glass unit with triple argon + Low-E roughly halves the Ug and costs about 30-60 EUR/m², against 150-285 EUR/m² for a complete installed window.
 
 ### Which Salamander profile is recommended for renovations in Bucharest?
 
-For residential renovations, Salamander GreenEvolution 76 (5 chambers, 76 mm) offers the best value, with Uw from 0.73 W/(m²K). For new houses or nZEB projects, bluEvolution 92 reaches Uw 0.70-0.80 with Saint-Gobain triple glazing and Warm Edge.
+For residential renovations, Salamander GreenEvolution 76 (5 chambers, 76 mm) offers the best value for money, with Uw from 0.73 W/(m²K). For new houses or nZEB projects, bluEvolution 92 reaches Uw 0.70-0.80 with Saint-Gobain triple glazing and Warm Edge.
+
+### How much do I save a year by replacing the windows?
+
+For a 70 m² apartment with 8 windows, at ~0.12 EUR/kWh: around 305-345 EUR a year if you replace single-glazed windows, 120-170 EUR if you have old double glazing from 1990-2005 and 30-55 EUR if you already have modern double glazing. The older your current windows, the faster the replacement pays back.
 
 ---
 
-Neofort BIZ installs Salamander PVC joinery with three-plane sealed installation in Bucharest and Ilfov. [Tell us about your current windows](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Useful pages: [the Warm Edge thermal spacer](/en/nzeb-systems/warm-edge-thermo-spacer-insulating-glass) and [pre-compressed butyl sealing tape](/en/nzeb-systems/pre-compressed-butyl-sealing-tape).
-`,
+Neofort BIZ installs Salamander PVC joinery sealed on three planes, in Bucharest and Ilfov. [Describe your windows to us](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Useful pages: [the Warm Edge thermal spacer](/en/nzeb-systems/warm-edge-thermo-spacer-insulating-glass) and [pre-compressed butyl sealing tape](/en/nzeb-systems/pre-compressed-butyl-sealing-tape).`,
 
-      de: `## Warum Fenster die Hauptquelle von Wärmeverlusten in Bukarester Wohnungen sind
+      de: `## Warum Fenster in Bukarester Wohnungen die Hauptquelle für Wärmeverluste sind
 
-Studien zur Energieeffizienz des Bukarester Wohnungsbestands zeigen: **Fenster sind für 25-40% der Wärmeverluste** einer typischen Wohnung verantwortlich. Heizkosten in der Kaltsaison 2024-2025 stiegen um 30-45% — eine Investition in Fensterdämmung war nie rentabler.
+Das Bild oben zeigt den Querschnitt eines modernen Fensterprofils mit Zweifach-Isolierglas. Der metallische Abstandhalter zwischen den beiden Scheiben und der Spalt zwischen Profil und Mauerwerk sind genau die Stellen, an denen die größten Wärmeverluste entstehen — und diese Verluste lassen sich zurückgewinnen, ohne zwingend alle Fenster zu ersetzen.
 
-## Diagnose: Wie erkennt man Wärmeverluste durch Fenster?
+Energieeffizienz-Studien zum Bukarester Wohnungsbestand zeigen, dass **Fenster für 25-40 % der Wärmeverluste** einer typischen Wohnung verantwortlich sind. Bei den Energiepreisen der letzten Jahre amortisiert sich eine Investition in die Wärmedämmung der Fenster schneller als je zuvor.
 
-**Kondensat auf der Innenglasseite** — deutlichstes Zeichen. Zentral = hoher Ug (alter Zweifachverglasung). Am Rand = Problem des Abstandhalters (Lösung: Warm-Edge ersetzen).
+## Die Diagnose: woran Sie erkennen, dass Fenster Wärme verlieren
 
-**Kältezug am Fenster** — schlechte Dichtungen oder falsch eingestellte Beschläge.
+Bevor Sie Geld ausgeben, prüfen Sie diese Anzeichen:
 
-**Kalter Rahmen bei Berührung** — Wärmebrücke bei der Montage.
+**Kondenswasser auf der Innenseite der Scheibe** — das deutlichste Zeichen. Tritt es in der Scheibenmitte auf (nicht am Rand), ist der Ug-Wert der Verglasung hoch (alte Zweifachverglasung mit Ug = 1,1-1,6 W/(m²K)). Tritt es am Scheibenrand auf, liegt das Problem am Abstandhalter (Lösung: neue Verglasung mit Warm-Edge-Abstandhalter).
 
-## Option 1 — Verbesserung ohne Austausch (geringe Kosten)
+**Kalte Zugluft am Fenster** — schwache Dichtungen oder fehlerhafte Montage. Mögliche Lösung ohne Komplettaustausch: Beschläge einstellen + Dichtungen erneuern.
 
-**a) EPDM-Dichtungsaustausch:** 8-16 € pro Fenster, reduziert Luftinfiltration um 60-70%.
-**b) Beschlagseinstellung:** 3-Achsen-Einstellung für 10-20 € pro Fenster.
-**c) Low-E-Folie:** Reduziert Ug um 0,2-0,4 W/(m²K). Kosten 16-30 €/m².
-**d) Außensilikonierung:** 8-16 € pro Fenster bei gerissener Außenversiegelung.
+**Rahmen fühlt sich kalt an** — Wärmebrücke im Anschluss. Ist der Rahmen deutlich kälter als die Wand, liegt das Problem nicht am Profil, sondern an der Montage.
 
-## Option 2 — Austausch des Verglasungspakets (mittlere Kosten)
+**Heizkosten im Winter um 30 %+ höher** als in einer vergleichbaren Wohnung — dann lohnt es sich, den realen Uw-Wert der Fenster zu berechnen.
 
-Bei gutem Profil, aber altem Zweifachglas (Ug = 1,0-1,6):
-- Ug sinkt von 1,0 auf 0,5 W/(m²K) durch Dreifachverglasung mit Argon und Low-E
-- Kosten Glaspaket-Austausch: 30-60 €/m² (vs. 80-140 €/m² für komplettes Fenster)
-- Voraussetzung: Profil mind. 70 mm tief für 44-mm-Dreifachpaket
+## Option 1 — Verbesserung ohne Austausch (geringe Kosten, begrenzte Wirkung)
 
-## Option 3 — Kompletter Fensterwechsel (hohe Kosten, maximale Wirkung)
+### a) EPDM-Dichtungen erneuern
+Dichtungen verschleißen in 8-12 Jahren. Ihr Austausch kostet etwa 6-16 EUR pro Fenster und verringert das Eindringen von Luft um 60-70 %. Sofort spürbar: Die kalte Zugluft am Glas verschwindet.
 
-| Ausgangssituation | Aktueller Uw | Nach Austausch | Jährliche Einsparung* |
+### b) Beschläge einstellen
+Schlecht eingestellte Roto- oder Winkhaus-Beschläge lassen den Flügel ungleichmäßig auf die Dichtung drücken. Eine Einstellung in 3 Achsen kostet etwa 10-20 EUR pro Fenster und kann das Eindringen von Luft ohne Austausch beseitigen.
+
+### c) Low-E-Folie auf die vorhandene Scheibe kleben
+Selbstklebende Low-E-Folien (zum Beispiel 3M Thinsulate) auf der Innenseite der vorhandenen Scheibe senken den Ug-Wert um 0,2-0,4 W/(m²K). Richtpreis: 16-30 EUR/m². Nachteil: Sie beheben weder das Kondenswasser am Rand noch verbessern sie die Schalldämmung.
+
+### d) Äußere Fugen neu abdichten
+Ist das Silikon außen rissig oder fehlt es, dringen viel Wasser und Luft ein. Neu abdichten mit UV-beständigem Neutralsilikon: etwa 8-16 EUR pro Fenster.
+
+**Fazit zu Option 1:** Wirksam, wenn das Fenster ein gutes Profil hat (6 Kammern, 82-92 mm), aber verschlissene Dichtungen oder schlecht eingestellte Beschläge. Die Wärmedämmung des Glases selbst wird dadurch nicht besser.
+
+## Option 2 — Verglasung austauschen (mittlere Kosten, deutliche Wirkung)
+
+Ist das Profil in gutem Zustand (PVC ohne Verformung oder Risse), das Glas aber eine alte Zweifachverglasung (Ug = 1,0-1,6 W/(m²K)), bietet der Austausch nur der Verglasung das beste Kosten-Nutzen-Verhältnis:
+
+- **Standard-Zweifachverglasung → Dreifachverglasung mit Argon und Low-E:** Ug sinkt von 1,0-1,1 auf 0,5-0,6 W/(m²K) — etwa auf die Hälfte
+- **Richtpreis einer neuen Verglasung:** 30-60 EUR/m², gegenüber 150-285 EUR/m² für ein komplett montiertes Salamander-Kunststofffenster
+- **Bedingung:** Das Profil muss mindestens 70 mm tief sein, um eine 44 mm starke Dreifachverglasung aufzunehmen
+
+**Wichtig:** Ein Warm-Edge-Abstandhalter gehört zum Austausch dazu — er beseitigt Kondenswasser am Rand und verbessert den Uw-Wert des Fensters um 0,05-0,10 W/(m²K).
+
+*Die Preise in diesem Artikel sind Richtpreise ohne MwSt.*
+
+## Option 3 — Fenster komplett austauschen (hohe Kosten, maximale Wirkung)
+
+Ist das Profil älter als 20 Jahre oder verformt, oder wollen Sie deutlich unter die Referenzwerte von Mc 001-2022 kommen (Uw ≤ 1,11 W/(m²K) bei Neubauten, 1,20 bei Sanierungen), ist der Komplettaustausch die einzige Lösung:
+
+| Aktuelle Situation | Aktueller Uw | Uw nach dem Austausch | Jährliche Einsparung* |
 |---|---|---|---|
-| Einfachverglasung, Holzrahmen | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 140–180 €/Jahr |
-| Alter Zweifachverglasung (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 70–100 €/Jahr |
-| Moderner Zweifachverglasung (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 24–40 €/Jahr |
+| Einfachglas, Holzrahmen | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 305–345 EUR/Jahr |
+| Alte Zweifachverglasung (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 120–170 EUR/Jahr |
+| Moderne Zweifachverglasung (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 30–55 EUR/Jahr |
 
-## Welches Profil für Bukarest wählen?
+*Schätzung für eine 70-m²-Wohnung mit 8 Fenstern von je ~1,2 m², mittlerem ΔT von 20 °C, 3.500 Stunden Heizperiode und ~0,12 EUR/kWh.
 
-- **Salamander GreenEvolution 76** (5 Kammern, 76 mm) — optimales Preis-Leistungs-Verhältnis für Renovierungen in Bukarest. Uw ≥ 0,73 W/(m²K) mit Dreifachverglasung.
-- **Salamander bluEvolution 92** (6 Kammern, 92 mm) — für Neubauten oder nZEB-Projekte. Uw = 0,70-0,80 W/(m²K).
+## Welches Profil für Bukarest — eine praktische Empfehlung
 
-Die Montagedetails mit Blaugelb Triotherm+ Vorblendrahmen werden hier Schritt für Schritt behandelt: [Montage mit Blaugelb Triotherm+ — Warum es für die nZEB-Zertifizierung obligatorisch ist](/de/blog/blaugelb-triotherm-vorfenster-montage-nzeb).
+Das Klima in Bukarest (Klimazone II nach Mc 001-2022) bringt Winter mit Tiefstwerten von −15 °C und heiße Sommer mit +38 °C. Das optimale Profil:
+
+- **Salamander GreenEvolution 76** (5 Kammern, 76 mm) — das beste Preis-Leistungs-Verhältnis für Wohnungssanierungen in Bukarest. Uw ab 0,73 W/(m²K) mit Dreifachverglasung.
+- **Salamander bluEvolution 92** (6 Kammern, 92 mm) — für Neubauten oder nZEB-Projekte. Uw = 0,70-0,80 W/(m²K) mit Saint-Gobain-Dreifachverglasung und Warm Edge.
+
+## Die Montage — warum sie den Unterschied zwischen 40 % und 60 % Energieeinsparung macht
+
+Selbst das leistungsstärkste Profil verliert bei fehlerhafter Montage 30-50 % seiner Wirkung. Die 3 Dichtebenen:
+
+1. **Außen** — vorkomprimiertes Butyl-Dichtband (kein Silikon): dicht gegen Wasser und Wind, über 20 Jahre haltbar
+2. **Mitte** — PU-Schaum: Wärme- und Schalldämmung
+3. **Innen** — Dampfsperrfolie: verhindert Tauwasser im Wandaufbau
+
+Das Vorwandmontagesystem Blaugelb Triotherm+ wird für nZEB-Projekte empfohlen — es beseitigt die Wärmebrücke an der Fensterbank und kann als separate Option bestellt werden.
 
 ---
 
 **Verwandte Artikel:**
-- [Welche Perimeterdämmungsoptionen gibt es für Fenster in Rumänien?](/de/blog/perimeterdaemmung-optionen-fenster-rumaenien-2026)
-- [Wo kann ich Fenster mit erweiterter Dämmung in Bukarest bestellen?](/de/blog/wo-bestelle-ich-fenster-mit-erweiterter-daemmung-bukarest)
+- [Welche Optionen gibt es für die umlaufende Dämmung von Fenstern in Rumänien?](/de/blog/perimeterdaemmung-optionen-fenster-rumaenien-2026)
+- [Wo bestelle ich Fenster mit erweiterter Dämmung in Bukarest?](/de/blog/wo-bestelle-ich-fenster-mit-erweiterter-daemmung-bukarest)
 - [Salamander-Fensterpreise Bukarest 2026](/de/blog/salamander-fenster-preise-bukarest-2026)
-
-Neofort BIZ — Spezialist für Fensterwärmedämmung in Bukarest und Ilfov. [Beratung anfordern](/de/kontakt). Entdecken Sie [das Sortiment an PVC-Fenstern](/de/kunststofffenster-pvc), die wir montieren.
 
 ## Häufig gestellte Fragen
 
-### Wie viel Wärmeverlust einer Wohnung entsteht durch die Fenster?
+### Wie viel der Wärmeverluste einer Wohnung entsteht über die Fenster?
 
-Studien zum Bukarester Wohnungsbestand zeigen, dass Fenster für 25-40% des Wärmeverlusts einer typischen Wohnung verantwortlich sind. Deshalb wirkt ihre Dämmung am schnellsten auf die Heizkosten.
+Studien zum Bukarester Wohnungsbestand zeigen, dass Fenster für 25-40 % der Wärmeverluste einer typischen Wohnung verantwortlich sind. Deshalb wirkt ihre Dämmung am schnellsten auf die Rechnung.
 
-### Woran erkenne ich, dass meine Fenster Wärme verlieren?
+### Woran erkenne ich, ob meine Fenster Wärme verlieren?
 
-Die klaren Anzeichen sind: Kondensat in der Glasmitte (hoher Ug), kalter Luftzug am Fenster (verschlissene Dichtungen oder schlechter Einbau), ein kalter Rahmen (Wärmebrücke) und eine Heizkostenrechnung über 30% höher als bei einem vergleichbaren Zuhause.
+Die klaren Anzeichen sind: Kondenswasser in der Scheibenmitte (hoher Ug-Wert), kalte Zugluft am Fenster (Dichtungen oder fehlerhafte Montage), ein Rahmen, der sich kalt anfühlt (Wärmebrücke), und Heizkosten, die über 30 % höher sind als in einer vergleichbaren Wohnung.
 
-### Lohnt es sich, nur das Glas statt des ganzen Fensters zu tauschen?
+### Lohnt es sich, nur das Glas zu tauschen und nicht das ganze Fenster?
 
-Ist der Rahmen in gutem Zustand (unverformtes PVC, min. 70 mm Tiefe), aber das Glas alte Doppelverglasung, senkt der Tausch nur der Glaseinheit gegen Dreifach-Argon + Low-E den Ug von 1,0 auf 0,5 W/(m²K) und kostet 150-300 Lei/m², statt 400-700 Lei/m² für ein komplettes Fenster.
+Ist das Profil in gutem Zustand (PVC ohne Verformung, mindestens 70 mm tief), das Glas aber eine alte Zweifachverglasung, halbiert der Austausch nur der Verglasung gegen Dreifach-Argon + Low-E den Ug-Wert ungefähr und kostet etwa 30-60 EUR/m², gegenüber 150-285 EUR/m² für ein komplett montiertes Fenster.
 
-### Welches Salamander-Profil wird für Renovierungen in Bukarest empfohlen?
+### Welches Salamander-Profil wird für Sanierungen in Bukarest empfohlen?
 
-Für Wohnungsrenovierungen bietet Salamander GreenEvolution 76 (5 Kammern, 76 mm) das beste Preis-Leistungs-Verhältnis mit Uw ab 0,73 W/(m²K). Für Neubauten oder nZEB-Projekte erreicht bluEvolution 92 Uw 0,70-0,80 mit Saint-Gobain-Dreifachglas und Warm Edge.
+Für Wohnungssanierungen bietet Salamander GreenEvolution 76 (5 Kammern, 76 mm) das beste Preis-Leistungs-Verhältnis, mit Uw ab 0,73 W/(m²K). Für Neubauten oder nZEB-Projekte erreicht bluEvolution 92 Uw 0,70-0,80 mit Saint-Gobain-Dreifachverglasung und Warm Edge.
+
+### Wie viel spare ich im Jahr, wenn ich die Fenster austausche?
+
+Für eine 70-m²-Wohnung mit 8 Fenstern, bei ~0,12 EUR/kWh: etwa 305-345 EUR im Jahr, wenn Sie einfach verglaste Fenster ersetzen, 120-170 EUR bei alter Zweifachverglasung von 1990-2005 und 30-55 EUR, wenn Sie bereits eine moderne Zweifachverglasung haben. Je älter die jetzigen Fenster, desto schneller amortisiert sich der Austausch.
 
 ---
 
-Neofort BIZ montiert Salamander Kunststofffenster mit Montage in drei Dichtebenen in Bukarest und Ilfov. [Beschreiben Sie uns Ihre jetzige Situation](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc). Nützliche Seiten: [Warm-Edge-Abstandhalter](/de/nzeb-systeme/warm-edge-thermo-abstandhalter-isolierglas) und [Kompriband für die RAL-Außenabdichtung](/de/nzeb-systeme/vorkomprimiertes-butyl-dichtband).
-`,
+Neofort BIZ montiert Salamander-Kunststofffenster mit Abdichtung in drei Ebenen, in Bukarest und Ilfov. [Beschreiben Sie uns Ihre Fenster](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie sich das [Kunststofffenster-Sortiment](/de/kunststofffenster-pvc) an, das wir anbieten. Nützliche Seiten: [der Warm-Edge-Abstandhalter](/de/nzeb-systeme/warm-edge-thermo-abstandhalter-isolierglas) und [das vorkomprimierte Butyl-Dichtband](/de/nzeb-systeme/vorkomprimiertes-butyl-dichtband).`,
 
-      fr: `## Pourquoi les fenêtres sont la principale source de pertes thermiques à Bucarest
+      fr: `## Pourquoi les fenêtres sont la principale source de déperditions dans les logements de Bucarest
 
-Les études d'efficacité énergétique sur le parc immobilier de Bucarest montrent que **les fenêtres représentent 25-40% des pertes de chaleur** d'un appartement typique. Les factures de chauffage en 2024-2025 ont augmenté de 30-45% — investir dans l'isolation des fenêtres n'a jamais été aussi rentable.
+L’image ci-dessus montre la coupe d’un profilé de fenêtre moderne avec double vitrage isolant. L’intercalaire métallique entre les deux vitres et l’espace entre le profilé et la maçonnerie sont précisément les endroits où se produisent les plus grandes déperditions — et ces pertes peuvent être récupérées sans forcément remplacer toutes les menuiseries.
 
-## Diagnostic : comment savoir si vos fenêtres perdent de la chaleur ?
+Les études d’efficacité énergétique menées sur le parc de logements de Bucarest montrent que **les fenêtres représentent 25 à 40 % des déperditions de chaleur** d’un appartement type. Avec les prix de l’énergie de ces dernières années, un investissement dans l’isolation des fenêtres se rentabilise plus vite que jamais.
 
-**Condensation sur la surface intérieure du vitrage** — signe le plus clair. Au centre = Ug élevé (ancien double vitrage). Sur les bords = problème de l'espaceur (solution : remplacer par Warm Edge).
+## Le diagnostic : comment savoir si vos fenêtres perdent de la chaleur
 
-**Courant d'air froid près de la fenêtre** — joints usés ou quincaillerie mal réglée.
+Avant de dépenser de l’argent, vérifiez ces signes :
 
-**Cadre froid au toucher** — pont thermique à la pose.
+**De la condensation sur la face intérieure du vitrage** — le signe le plus net. Si elle apparaît au centre du vitrage (et non sur le bord), le Ug du vitrage est élevé (ancien double vitrage avec Ug = 1,1-1,6 W/(m²K)). Si elle apparaît sur le bord, le problème vient de l’intercalaire (solution : un nouveau vitrage avec intercalaire Warm Edge).
 
-## Option 1 — Amélioration sans remplacement (faible coût)
+**Un courant d’air froid près de la fenêtre** — joints peu étanches ou pose défectueuse. Solution possible sans remplacement complet : réglage de la quincaillerie + joints neufs.
 
-**a) Remplacement des joints EPDM :** 6-16 € par fenêtre, réduit les infiltrations de 60-70%.
-**b) Réglage de la quincaillerie :** 10-20 € par fenêtre.
-**c) Film Low-E :** réduit Ug de 0,2-0,4 W/(m²K). Coût : 16-30 €/m².
-**d) Silicone extérieur :** 8-16 € par fenêtre si fissuré.
+**Un dormant froid au toucher** — un pont thermique à la jonction de pose. Si le dormant est nettement plus froid que le mur, le problème ne vient pas du profilé, mais de la pose.
 
-## Option 2 — Remplacement du pack vitrage (coût moyen)
+**Une facture de chauffage plus élevée de 30 %+ en hiver** que dans un logement comparable — il vaut la peine de calculer le Uw réel des fenêtres.
 
-Si le profilé est en bon état mais le vitrage ancien (Ug = 1,0-1,6) :
-- Ug passe de 1,0 à 0,5 W/(m²K) avec triple vitrage argon + Low-E
-- Coût remplacement pack : 30-60 €/m² (vs 80-140 €/m² pour la fenêtre complète)
-- Condition : profilé d'au moins 70 mm pour accueillir le triple 44 mm
+## Option 1 — Amélioration sans remplacement (coût faible, effet limité)
 
-## Option 3 — Remplacement complet (coût élevé, effet maximal)
+### a) Remplacer les joints EPDM
+Les joints d’étanchéité se dégradent en 8 à 12 ans. Les remplacer coûte environ 6 à 16 EUR par fenêtre et réduit les infiltrations d’air de 60 à 70 %. Effet immédiat : le courant d’air froid près du vitrage disparaît.
 
-| Situation actuelle | Uw actuel | Après remplacement | Économie annuelle* |
+### b) Régler la quincaillerie
+Une quincaillerie Roto ou Winkhaus mal réglée empêche le vantail d’appuyer uniformément sur le joint. Un réglage sur 3 axes coûte environ 10 à 20 EUR par fenêtre et peut supprimer les infiltrations d’air sans remplacement.
+
+### c) Poser un film Low-E sur le vitrage existant
+Les films autoadhésifs à faible émissivité (par exemple 3M Thinsulate) posés sur la face intérieure du vitrage existant réduisent le Ug de 0,2 à 0,4 W/(m²K). Coût indicatif : 16 à 30 EUR/m². Inconvénient : ils ne règlent pas la condensation en bord de vitrage et n’améliorent pas l’isolation acoustique.
+
+### d) Refaire l’étanchéité périphérique extérieure
+Si le silicone extérieur est fissuré ou absent, les infiltrations d’eau et d’air sont importantes. Refaire le joint avec un silicone neutre résistant aux UV : environ 8 à 16 EUR par fenêtre.
+
+**Conclusion de l’option 1 :** efficace si la fenêtre a un bon profilé (6 chambres, 82-92 mm) mais des joints usés ou une quincaillerie mal réglée. Elle ne règle pas la performance thermique du vitrage lui-même.
+
+## Option 2 — Remplacer le vitrage (coût moyen, effet important)
+
+Si le profilé est en bon état (PVC sans déformation ni fissure) mais que le vitrage est un ancien double vitrage (Ug = 1,0-1,6 W/(m²K)), remplacer uniquement le vitrage offre le meilleur rapport coût/bénéfice :
+
+- **Double vitrage standard → triple vitrage argon Low-E :** le Ug passe de 1,0-1,1 à 0,5-0,6 W/(m²K) — environ la moitié
+- **Coût indicatif d’un vitrage neuf :** 30 à 60 EUR/m², contre 150 à 285 EUR/m² pour une fenêtre PVC Salamander complète posée
+- **Condition :** le profilé doit avoir au moins 70 mm de profondeur pour accepter un triple vitrage de 44 mm
+
+**Important :** l’intercalaire Warm Edge doit faire partie du remplacement — il supprime la condensation en bord de vitrage et améliore le Uw de la fenêtre de 0,05 à 0,10 W/(m²K).
+
+*Les prix de cet article sont indicatifs et s’entendent hors TVA.*
+
+## Option 3 — Remplacer entièrement les menuiseries (coût élevé, effet maximal)
+
+Quand le profilé a plus de 20 ans, qu’il est déformé, ou quand vous voulez descendre nettement sous les valeurs de référence de la Mc 001-2022 (Uw ≤ 1,11 W/(m²K) pour les maisons neuves, 1,20 en rénovation), le remplacement complet est la seule solution :
+
+| Situation actuelle | Uw actuel | Uw après remplacement | Économie annuelle* |
 |---|---|---|---|
-| Simple vitrage, cadre bois | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 140–180 €/an |
-| Ancien double vitrage (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 70–100 €/an |
-| Double vitrage moderne (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 24–40 €/an |
+| Simple vitrage, dormant bois | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 305–345 EUR/an |
+| Ancien double vitrage (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 120–170 EUR/an |
+| Double vitrage moderne (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 30–55 EUR/an |
 
-## Quel profilé choisir pour Bucarest ?
+*Estimation pour un appartement de 70 m² avec 8 fenêtres d’environ 1,2 m², un ΔT moyen de 20 °C, 3 500 heures de saison froide et ~0,12 EUR/kWh.
 
-- **Salamander GreenEvolution 76** (5 chambres, 76 mm) — rapport qualité/prix optimal pour les rénovations. Uw ≥ 0,73 W/(m²K) avec triple vitrage.
-- **Salamander bluEvolution 92** (6 chambres, 92 mm) — pour les constructions neuves ou projets nZEB. Uw = 0,70-0,80 W/(m²K).
+## Quel profilé choisir pour Bucarest — une recommandation pratique
 
-Les détails de pose avec précadres Blaugelb Triotherm+ sont traités pas à pas ici: [Pose avec précadres Blaugelb Triotherm+ — pourquoi c'est obligatoire pour la certification nZEB](/fr/blog/precadres-blaugelb-triotherm-pose-nzeb).
+Le climat de Bucarest (zone climatique II selon la Mc 001-2022) apporte des hivers avec des minimales de −15 °C et des étés caniculaires à +38 °C. Le profilé optimal :
+
+- **Salamander GreenEvolution 76** (5 chambres, 76 mm) — le meilleur rapport qualité-prix pour les rénovations résidentielles à Bucarest. Uw à partir de 0,73 W/(m²K) en triple vitrage.
+- **Salamander bluEvolution 92** (6 chambres, 92 mm) — pour les maisons neuves ou les projets nZEB. Uw = 0,70-0,80 W/(m²K) en triple vitrage Saint-Gobain avec Warm Edge.
+
+## La pose — pourquoi elle fait la différence entre 40 % et 60 % d’économies d’énergie
+
+Même le profilé le plus performant perd 30 à 50 % de son efficacité si la pose est défectueuse. Les 3 zones d’étanchéité :
+
+1. **Extérieur** — bande précomprimée butyle (pas de silicone) : étanchéité à l’eau et au vent, plus de 20 ans de durabilité
+2. **Milieu** — mousse polyuréthane : isolation thermique et acoustique
+3. **Intérieur** — film pare-vapeur : empêche la condensation dans la structure du mur
+
+Les précadres Blaugelb Triotherm+ sont recommandés pour les projets nZEB — ils suppriment le pont thermique à l’appui et peuvent être commandés en option.
 
 ---
 
-**Articles connexes :**
-- [Quelles sont les options d'isolation périphérique pour les fenêtres en Roumanie ?](/fr/blog/options-isolation-perimetrale-fenetres-roumanie-2026)
-- [Où commander des fenêtres à isolation avancée à Bucarest ?](/fr/blog/ou-commander-fenetres-isolation-avancee-bucarest)
-- [Prix fenêtres Salamander Bucarest 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026)
-
-Neofort BIZ — spécialiste en isolation thermique des fenêtres à Bucarest et Ilfov. [Demander une consultation](/fr/contact). Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) que nous posons.
+**Articles liés :**
+- [Quelles sont les options d’isolation périphérique des fenêtres en Roumanie ?](/fr/blog/options-isolation-perimetrale-fenetres-roumanie-2026)
+- [Où commander des fenêtres à isolation renforcée à Bucarest ?](/fr/blog/ou-commander-fenetres-isolation-avancee-bucarest)
+- [Prix des fenêtres Salamander à Bucarest en 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026)
 
 ## Questions fréquentes
 
-### Quelle part des pertes de chaleur d'un appartement passe par les fenêtres ?
+### Quelle part des déperditions d’un appartement passe par les fenêtres ?
 
-Les études sur le parc immobilier de Bucarest montrent que les fenêtres sont responsables de 25-40% des pertes de chaleur d'un appartement type. C'est pourquoi les isoler a l'impact le plus rapide sur la facture.
+Les études sur le parc de logements de Bucarest montrent que les fenêtres représentent 25-40 % des déperditions de chaleur d’un appartement type. C’est pourquoi leur isolation a l’impact le plus rapide sur la facture.
 
 ### Comment savoir si mes fenêtres perdent de la chaleur ?
 
-Les signes clairs sont : condensation au centre du vitrage (Ug élevé), courant d'air froid près de la fenêtre (joints usés ou pose défectueuse), dormant froid au toucher (pont thermique) et une facture de chauffage supérieure de plus de 30% à un logement comparable.
+Les signes clairs sont : de la condensation au centre du vitrage (Ug élevé), un courant d’air froid près de la fenêtre (joints ou pose défectueuse), un dormant froid au toucher (pont thermique) et une facture de chauffage plus élevée de plus de 30 % que dans un logement comparable.
 
-### Vaut-il mieux remplacer seulement le vitrage, pas toute la fenêtre ?
+### Vaut-il la peine de remplacer seulement le vitrage, et pas toute la fenêtre ?
 
-Si le profilé est en bon état (PVC non déformé, profondeur min. 70 mm) mais le vitrage est un ancien double, remplacer seulement le vitrage par un triple argon + Low-E fait passer l'Ug de 1,0 à 0,5 W/(m²K) pour 150-300 lei/m², contre 400-700 lei/m² pour une fenêtre complète.
+Si le profilé est en bon état (PVC sans déformation, au moins 70 mm de profondeur) mais que le vitrage est un ancien double vitrage, remplacer uniquement le vitrage par un triple argon + Low-E divise le Ug environ par deux et coûte à peu près 30-60 EUR/m², contre 150-285 EUR/m² pour une fenêtre complète posée.
 
-### Quel profilé Salamander est recommandé pour des rénovations à Bucarest ?
+### Quel profilé Salamander est recommandé pour les rénovations à Bucarest ?
 
-Pour les rénovations résidentielles, le Salamander GreenEvolution 76 (5 chambres, 76 mm) offre le meilleur rapport qualité/prix, avec un Uw à partir de 0,73 W/(m²K). Pour les maisons neuves ou projets nZEB, le bluEvolution 92 atteint Uw 0,70-0,80 avec triple vitrage Saint-Gobain et Warm Edge.
+Pour les rénovations résidentielles, le Salamander GreenEvolution 76 (5 chambres, 76 mm) offre le meilleur rapport qualité-prix, avec un Uw à partir de 0,73 W/(m²K). Pour les maisons neuves ou les projets nZEB, le bluEvolution 92 atteint un Uw de 0,70-0,80 en triple vitrage Saint-Gobain avec Warm Edge.
+
+### Combien vais-je économiser par an en remplaçant les fenêtres ?
+
+Pour un appartement de 70 m² avec 8 fenêtres, à ~0,12 EUR/kWh : environ 305-345 EUR par an si vous remplacez des fenêtres en simple vitrage, 120-170 EUR si vous avez un ancien double vitrage de 1990-2005 et 30-55 EUR si vous avez déjà un double vitrage moderne. Plus vos fenêtres actuelles sont anciennes, plus le remplacement est vite rentabilisé.
 
 ---
 
-Neofort BIZ pose des menuiseries PVC Salamander avec une pose en trois plans d’étanchéité à Bucarest et dans l’Ilfov. [Décrivez-nous l’état de vos fenêtres](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc). Pages utiles : [l'intercalaire Warm Edge](/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage) et [la bande butyle précomprimée](/fr/systemes-nzeb/bande-precomprimee-butyle).
-`,
+Neofort BIZ pose des menuiseries PVC Salamander avec une étanchéité sur trois plans, à Bucarest et dans l’Ilfov. [Décrivez-nous l’état de vos fenêtres](/fr/contact) et recevez un devis sous 48 heures. Découvrez la [gamme de menuiserie PVC](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [l’intercalaire isolant Warm Edge](/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage) et [la bande précomprimée butyle](/fr/systemes-nzeb/bande-precomprimee-butyle).`,
 
-      es: `## Por qué las ventanas son la principal fuente de pérdidas térmicas en los hogares de Bucarest
+      es: `## Por qué las ventanas son la principal fuente de pérdidas térmicas en las viviendas de Bucarest
 
-Los estudios de eficiencia energética sobre el parque inmobiliario de Bucarest muestran que **las ventanas representan el 25-40% de las pérdidas de calor** de un apartamento típico. Las facturas de calefacción en 2024-2025 aumentaron un 30-45% — invertir en aislamiento de ventanas nunca ha sido tan rentable.
+La imagen de arriba muestra la sección de un perfil de ventana moderno con doble acristalamiento aislante. El separador metálico entre los dos vidrios y el hueco entre el perfil y la obra son justo los puntos donde se producen las mayores pérdidas térmicas, y esas pérdidas se pueden recuperar sin necesidad de cambiar toda la carpintería.
 
-## Diagnóstico: cómo saber si las ventanas pierden calor
+Los estudios de eficiencia energética del parque de viviendas de Bucarest muestran que **las ventanas son responsables del 25-40 % de las pérdidas de calor** de un piso típico. Con los precios de la energía de los últimos años, una inversión en el aislamiento de las ventanas se amortiza más rápido que nunca.
 
-**Condensación en la superficie interior del vidrio** — señal más clara. En el centro = Ug elevado (doble acristalamiento antiguo). En los bordes = problema del separador (solución: sustituir por Warm Edge).
+## El diagnóstico: cómo saber si las ventanas pierden calor
 
-**Corriente de aire frío cerca de la ventana** — juntas gastadas o herraje mal ajustado.
+Antes de gastar dinero, compruebe estas señales:
 
-**Marco frío al tacto** — puente térmico en la instalación.
+**Condensación en la cara interior del vidrio**: la señal más clara. Si aparece en la zona central del vidrio (no en el borde), el Ug del vidrio es alto (doble acristalamiento antiguo con Ug = 1,1-1,6 W/(m²K)). Si aparece en el borde, el problema es el separador (solución: un vidrio nuevo con separador Warm Edge).
 
-## Opción 1 — Mejora sin sustitución (bajo coste)
+**Corriente de aire frío junto a la ventana**: juntas poco estancas o montaje defectuoso. Solución posible sin cambio completo: ajuste de herrajes + juntas nuevas.
 
-**a) Sustitución de juntas EPDM:** 6-16 € por ventana, reduce infiltraciones en 60-70%.
-**b) Ajuste de herraje:** 10-20 € por ventana.
-**c) Lámina Low-E:** reduce Ug en 0,2-0,4 W/(m²K). Coste: 16-30 €/m².
-**d) Silicona exterior:** 8-16 € por ventana si está agrietada.
+**Marco frío al tacto**: puente térmico en la junta de montaje. Si el marco está bastante más frío que la pared, el problema no es el perfil, sino el montaje.
 
-## Opción 2 — Sustitución del paquete de vidrio (coste medio)
+**Factura de calefacción un 30 %+ más alta en invierno** que en una vivienda similar: merece la pena calcular el Uw real de las ventanas.
 
-Si el perfil está en buen estado pero el acristalamiento es antiguo (Ug = 1,0-1,6):
-- Ug baja de 1,0 a 0,5 W/(m²K) con triple acristalamiento argón + Low-E
-- Coste sustitución paquete: 30-60 €/m² (vs 80-140 €/m² para la ventana completa)
-- Condición: perfil mínimo 70 mm para el triple de 44 mm
+## Opción 1 — Mejora sin sustitución (coste bajo, efecto limitado)
 
-## Opción 3 — Sustitución completa (alto coste, efecto máximo)
+### a) Cambiar las juntas de EPDM
+Las juntas de estanqueidad se degradan en 8-12 años. Cambiarlas cuesta unos 6-16 EUR por ventana y reduce las infiltraciones de aire un 60-70 %. Efecto inmediato: desaparece la corriente fría junto al vidrio.
 
-| Situación actual | Uw actual | Tras sustitución | Ahorro anual* |
+### b) Ajustar los herrajes
+Unos herrajes Roto o Winkhaus mal ajustados hacen que la hoja no presione de forma uniforme sobre la junta. Un ajuste en 3 ejes cuesta unos 10-20 EUR por ventana y puede eliminar las infiltraciones de aire sin sustitución.
+
+### c) Aplicar lámina Low-E sobre el vidrio existente
+Las láminas autoadhesivas de baja emisividad (por ejemplo 3M Thinsulate) aplicadas en la cara interior del vidrio existente reducen el Ug en 0,2-0,4 W/(m²K). Coste orientativo: 16-30 EUR/m². Inconveniente: no resuelven la condensación del borde ni mejoran el aislamiento acústico.
+
+### d) Sellado perimetral exterior
+Si la silicona exterior está agrietada o falta, las infiltraciones de agua y aire son importantes. Volver a sellar con silicona neutra resistente a los rayos UV: unos 8-16 EUR por ventana.
+
+**Conclusión de la opción 1:** eficaz si la ventana tiene un buen perfil (6 cámaras, 82-92 mm) pero juntas gastadas o herrajes mal ajustados. No resuelve el rendimiento térmico del propio vidrio.
+
+## Opción 2 — Cambiar el vidrio (coste medio, efecto importante)
+
+Si el perfil está en buen estado (PVC sin deformaciones ni grietas) pero el vidrio es un doble acristalamiento antiguo (Ug = 1,0-1,6 W/(m²K)), cambiar solo el vidrio ofrece la mejor relación coste/beneficio:
+
+- **Doble acristalamiento estándar → triple con argón y Low-E:** el Ug baja de 1,0-1,1 a 0,5-0,6 W/(m²K), más o menos a la mitad
+- **Coste orientativo de un vidrio nuevo:** 30-60 EUR/m², frente a 150-285 EUR/m² de una ventana de PVC Salamander completa instalada
+- **Condición:** el perfil debe tener al menos 70 mm de profundidad para admitir un triple acristalamiento de 44 mm
+
+**Importante:** el separador Warm Edge debe incluirse en el cambio; elimina la condensación del borde y mejora el Uw de la ventana en 0,05-0,10 W/(m²K).
+
+*Los precios de este artículo son orientativos y sin IVA.*
+
+## Opción 3 — Cambiar toda la carpintería (coste alto, efecto máximo)
+
+Cuando el perfil tiene más de 20 años o está deformado, o cuando quiere quedar claramente por debajo de los valores de referencia de la Mc 001-2022 (Uw ≤ 1,11 W/(m²K) en casas nuevas, 1,20 en reformas), la sustitución completa es la única solución:
+
+| Situación actual | Uw actual | Uw tras la sustitución | Ahorro anual* |
 |---|---|---|---|
-| Vidrio simple, marco madera | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 140–180 €/año |
-| Doble acristalamiento antiguo (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 70–100 €/año |
-| Doble acristalamiento moderno (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 24–40 €/año |
+| Vidrio simple, marco de madera | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 305–345 EUR/año |
+| Doble acristalamiento antiguo (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 120–170 EUR/año |
+| Doble acristalamiento moderno (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 30–55 EUR/año |
 
-## Qué perfil elegir para Bucarest
+*Estimación para un piso de 70 m² con 8 ventanas de ~1,2 m², ΔT medio de 20 °C, 3.500 horas de temporada fría y ~0,12 EUR/kWh.
 
-- **Salamander GreenEvolution 76** (5 cámaras, 76 mm) — relación calidad/precio óptima para renovaciones. Uw ≥ 0,73 W/(m²K) con triple acristalamiento.
-- **Salamander bluEvolution 92** (6 cámaras, 92 mm) — para obras nuevas o proyectos nZEB. Uw = 0,70-0,80 W/(m²K).
+## Qué perfil elegir para Bucarest: una recomendación práctica
 
-Los detalles de instalación con premarcos Blaugelb Triotherm+ se tratan paso a paso aquí: [Montaje con premarcos Blaugelb Triotherm+ — por qué es obligatorio para la certificación nZEB](/es/blog/instalacion-premarcos-blaugelb-triotherm-nzeb).
+El clima de Bucarest (zona climática II según la Mc 001-2022) trae inviernos con mínimas de −15 °C y veranos tórridos de +38 °C. El perfil óptimo:
+
+- **Salamander GreenEvolution 76** (5 cámaras, 76 mm): la mejor relación calidad-precio para reformas residenciales en Bucarest. Uw desde 0,73 W/(m²K) con triple acristalamiento.
+- **Salamander bluEvolution 92** (6 cámaras, 92 mm): para casas nuevas o proyectos nZEB. Uw = 0,70-0,80 W/(m²K) con triple acristalamiento Saint-Gobain y Warm Edge.
+
+## El montaje: por qué marca la diferencia entre un 40 % y un 60 % de ahorro de energía
+
+Hasta el perfil más eficiente pierde un 30-50 % de su rendimiento si el montaje es defectuoso. Las 3 zonas de sellado:
+
+1. **Exterior**: cinta precomprimida de butilo (no silicona): estanqueidad al agua y al viento, más de 20 años de durabilidad
+2. **Intermedia**: espuma de poliuretano: aislamiento térmico y acústico
+3. **Interior**: lámina barrera de vapor: evita la condensación intersticial en el muro
+
+Los premarcos Blaugelb Triotherm+ se recomiendan en los proyectos nZEB: eliminan el puente térmico en el alféizar y pueden pedirse como opción aparte.
 
 ---
 
 **Artículos relacionados:**
-- [¿Cuáles son las opciones de aislamiento perimetral para ventanas en Rumanía?](/es/blog/opciones-aislamiento-perimetral-ventanas-rumania-2026)
+- [¿Qué opciones de aislamiento perimetral hay para las ventanas en Rumanía?](/es/blog/opciones-aislamiento-perimetral-ventanas-rumania-2026)
 - [¿Dónde pedir ventanas con aislamiento avanzado en Bucarest?](/es/blog/donde-pedir-ventanas-aislamiento-avanzado-bucarest)
-- [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)
-
-Neofort BIZ — especialista en aislamiento térmico de ventanas en Bucarest e Ilfov. [Solicitar consulta](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que instalamos.
+- [Precios de ventanas Salamander en Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)
 
 ## Preguntas frecuentes
 
 ### ¿Qué parte de las pérdidas de calor de un piso se produce por las ventanas?
 
-Los estudios sobre el parque de viviendas de Bucarest muestran que las ventanas son responsables del 25-40% de las pérdidas de calor de un piso típico. Por eso aislarlas tiene el impacto más rápido en la factura.
+Los estudios sobre el parque de viviendas de Bucarest muestran que las ventanas son responsables del 25-40 % de las pérdidas de calor de un piso típico. Por eso aislarlas es lo que antes se nota en la factura.
 
 ### ¿Cómo sé si mis ventanas pierden calor?
 
-Las señales claras son: condensación en el centro del vidrio (Ug alto), corriente de aire frío junto a la ventana (juntas gastadas o mala instalación), marco frío al tacto (puente térmico) y una factura de calefacción más de un 30% superior a una vivienda comparable.
+Las señales claras son: condensación en la parte central del vidrio (Ug alto), corriente de aire frío junto a la ventana (juntas o montaje defectuoso), marco frío al tacto (puente térmico) y una factura de calefacción más de un 30 % más alta que en una vivienda similar.
 
-### ¿Merece la pena sustituir solo el vidrio, no toda la ventana?
+### ¿Merece la pena cambiar solo el vidrio y no toda la ventana?
 
-Si el perfil está en buen estado (PVC sin deformar, profundidad mín. 70 mm) pero el vidrio es un doble antiguo, sustituir solo el vidrio por triple argón + Low-E baja el Ug de 1,0 a 0,5 W/(m²K) por 150-300 lei/m², frente a 400-700 lei/m² de una ventana completa.
+Si el perfil está en buen estado (PVC sin deformaciones, al menos 70 mm de profundidad) pero el vidrio es un doble acristalamiento antiguo, cambiar solo el vidrio por un triple argón + Low-E reduce el Ug más o menos a la mitad y cuesta unos 30-60 EUR/m², frente a 150-285 EUR/m² de una ventana completa instalada.
 
 ### ¿Qué perfil Salamander se recomienda para reformas en Bucarest?
 
-Para reformas residenciales, el Salamander GreenEvolution 76 (5 cámaras, 76 mm) ofrece la mejor relación calidad/precio, con Uw desde 0,73 W/(m²K). Para casas nuevas o proyectos nZEB, el bluEvolution 92 alcanza Uw 0,70-0,80 con triple vidrio Saint-Gobain y Warm Edge.
+Para reformas residenciales, Salamander GreenEvolution 76 (5 cámaras, 76 mm) ofrece la mejor relación calidad-precio, con Uw desde 0,73 W/(m²K). Para casas nuevas o proyectos nZEB, bluEvolution 92 alcanza un Uw de 0,70-0,80 con triple acristalamiento Saint-Gobain y Warm Edge.
+
+### ¿Cuánto ahorro al año si cambio las ventanas?
+
+Para un piso de 70 m² con 8 ventanas, a ~0,12 EUR/kWh: unos 305-345 EUR al año si sustituye ventanas de vidrio simple, 120-170 EUR si tiene doble acristalamiento antiguo de 1990-2005 y 30-55 EUR si ya tiene doble acristalamiento moderno. Cuanto más antiguas sean las ventanas actuales, antes se amortiza el cambio.
 
 ---
 
-Neofort BIZ instala carpintería PVC Salamander con instalación en tres planos de sellado en Bucarest e Ilfov. [Cuéntenos cómo están sus ventanas](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc). Páginas útiles: [el separador térmico Warm Edge](/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante) y [la cinta butílica precomprimida](/es/sistemas-nzeb/cinta-precomprimida-butilica).
-`,
+Neofort BIZ instala carpintería de PVC Salamander con sellado en tres planos, en Bucarest e Ilfov. [Cuéntenos cómo están sus ventanas](/es/contacto) y recibirá un presupuesto en 48 horas. Vea la [gama de carpintería de PVC](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el separador térmico Warm Edge](/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante) y [la cinta precomprimida de butilo](/es/sistemas-nzeb/cinta-precomprimida-butilica).`,
 
-      it: `## Perché le finestre sono la principale fonte di dispersione termica nelle case di Bucarest
+      it: `## Perché le finestre sono la principale fonte di dispersioni termiche nelle case di Bucarest
 
-Gli studi sull'efficienza energetica del patrimonio immobiliare di Bucarest mostrano che **le finestre rappresentano il 25-40% delle dispersioni di calore** di un appartamento tipico. Le bollette del riscaldamento nel 2024-2025 sono aumentate del 30-45% — investire nell'isolamento delle finestre non è mai stato così conveniente.
+L’immagine qui sopra mostra la sezione di un moderno profilo di finestra con doppio vetro isolante. Il distanziatore metallico tra le due lastre e lo spazio tra profilo e muratura sono proprio i punti in cui si verificano le maggiori dispersioni, e queste perdite si possono recuperare senza dover per forza sostituire tutti i serramenti.
 
-## Diagnosi: come capire se le finestre disperdono calore
+Gli studi di efficienza energetica sul patrimonio abitativo di Bucarest mostrano che **le finestre sono responsabili del 25-40% delle dispersioni di calore** di un appartamento tipico. Con i prezzi dell’energia degli ultimi anni, un investimento nell’isolamento delle finestre si ripaga più in fretta che mai.
 
-**Condensa sulla superficie interna del vetro** — segnale più chiaro. Al centro = Ug elevato (doppio vetro vecchio). Sul bordo = problema del distanziale (soluzione: sostituire con Warm Edge).
+## La diagnosi: come capire se le finestre disperdono calore
 
-**Corrente d'aria fredda vicino alla finestra** — guarnizioni usurate o ferramenta mal regolata.
+Prima di spendere, controllate questi segnali:
 
-**Telaio freddo al tatto** — ponte termico nell'installazione.
+**Condensa sulla faccia interna del vetro**: il segnale più chiaro. Se compare al centro del vetro (non sul bordo), l’Ug della vetrocamera è alto (vecchio doppio vetro con Ug = 1,1-1,6 W/(m²K)). Se compare sul bordo, il problema è il distanziatore (soluzione: una vetrocamera nuova con distanziatore Warm Edge).
 
-## Opzione 1 — Miglioramento senza sostituzione (basso costo)
+**Spiffero d’aria fredda vicino alla finestra**: guarnizioni poco ermetiche o posa difettosa. Possibile soluzione senza sostituzione completa: regolazione della ferramenta + guarnizioni nuove.
 
-**a) Sostituzione guarnizioni EPDM:** 6-16 € per finestra, riduce le infiltrazioni del 60-70%.
-**b) Regolazione ferramenta:** 10-20 € per finestra.
-**c) Pellicola Low-E:** riduce Ug di 0,2-0,4 W/(m²K). Costo: 16-30 €/m².
-**d) Silicone esterno:** 8-16 € per finestra se incrinato.
+**Telaio freddo al tatto**: ponte termico nel giunto di posa. Se il telaio è nettamente più freddo della parete, il problema non è il profilo ma la posa.
 
-## Opzione 2 — Sostituzione del pacchetto vetrocamera (costo medio)
+**Bolletta del riscaldamento più alta del 30%+ d’inverno** rispetto a un’abitazione simile: conviene calcolare l’Uw reale delle finestre.
 
-Se il profilo è in buone condizioni ma il vetro è vecchio (Ug = 1,0-1,6):
-- Ug scende da 1,0 a 0,5 W/(m²K) con triplo vetro argon + Low-E
-- Costo sostituzione pacchetto: 30-60 €/m² (vs 80-140 €/m² per la finestra completa)
-- Condizione: profilo minimo 70 mm per il triplo da 44 mm
+## Opzione 1 — Miglioramento senza sostituzione (costo basso, effetto limitato)
 
-## Opzione 3 — Sostituzione completa (alto costo, effetto massimo)
+### a) Sostituire le guarnizioni in EPDM
+Le guarnizioni di tenuta si degradano in 8-12 anni. Sostituirle costa circa 6-16 EUR a finestra e riduce le infiltrazioni d’aria del 60-70%. Effetto immediato: sparisce lo spiffero freddo vicino al vetro.
 
-| Situazione attuale | Uw attuale | Dopo sostituzione | Risparmio annuo* |
+### b) Regolare la ferramenta
+Una ferramenta Roto o Winkhaus regolata male impedisce all’anta di premere in modo uniforme sulla guarnizione. Una regolazione su 3 assi costa circa 10-20 EUR a finestra e può eliminare le infiltrazioni d’aria senza sostituzione.
+
+### c) Applicare una pellicola Low-E sul vetro esistente
+Le pellicole autoadesive a bassa emissività (per esempio 3M Thinsulate) applicate sulla faccia interna del vetro esistente riducono l’Ug di 0,2-0,4 W/(m²K). Costo indicativo: 16-30 EUR/m². Svantaggio: non risolvono la condensa sul bordo e non migliorano l’isolamento acustico.
+
+### d) Sigillatura perimetrale esterna
+Se il silicone esterno è crepato o manca, le infiltrazioni di acqua e aria sono notevoli. Rifare la sigillatura con silicone neutro resistente ai raggi UV: circa 8-16 EUR a finestra.
+
+**Conclusione sull’opzione 1:** efficace se la finestra ha un buon profilo (6 camere, 82-92 mm) ma guarnizioni usurate o ferramenta regolata male. Non risolve le prestazioni termiche del vetro in sé.
+
+## Opzione 2 — Sostituire la vetrocamera (costo medio, effetto significativo)
+
+Se il profilo è in buono stato (PVC senza deformazioni né crepe) ma il vetro è un vecchio doppio vetro (Ug = 1,0-1,6 W/(m²K)), sostituire solo la vetrocamera offre il miglior rapporto costi/benefici:
+
+- **Doppio vetro standard → vetro triplo con argon e Low-E:** l’Ug scende da 1,0-1,1 a 0,5-0,6 W/(m²K), circa la metà
+- **Costo indicativo di una vetrocamera nuova:** 30-60 EUR/m², contro 150-285 EUR/m² per una finestra in PVC Salamander completa posata
+- **Condizione:** il profilo deve essere profondo almeno 70 mm per accogliere una vetrocamera tripla da 44 mm
+
+**Importante:** il distanziatore Warm Edge va incluso nella sostituzione; elimina la condensa sul bordo e migliora l’Uw della finestra di 0,05-0,10 W/(m²K).
+
+*I prezzi di questo articolo sono indicativi e IVA esclusa.*
+
+## Opzione 3 — Sostituire completamente i serramenti (costo alto, effetto massimo)
+
+Quando il profilo ha più di 20 anni o è deformato, oppure quando volete scendere nettamente sotto i valori di riferimento della Mc 001-2022 (Uw ≤ 1,11 W/(m²K) per le case nuove, 1,20 nelle ristrutturazioni), la sostituzione completa è l’unica soluzione:
+
+| Situazione attuale | Uw attuale | Uw dopo la sostituzione | Risparmio annuo* |
 |---|---|---|---|
-| Vetro singolo, telaio legno | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 140–180 €/anno |
-| Doppio vetro vecchio (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 70–100 €/anno |
-| Doppio vetro moderno (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 24–40 €/anno |
+| Vetro singolo, telaio in legno | 4,5–5,0 W/(m²K) | 0,72 W/(m²K) | 305–345 EUR/anno |
+| Vecchio doppio vetro (1990-2005) | 2,2–2,8 W/(m²K) | 0,72 W/(m²K) | 120–170 EUR/anno |
+| Doppio vetro moderno (2010-2020) | 1,1–1,4 W/(m²K) | 0,72 W/(m²K) | 30–55 EUR/anno |
 
-## Quale profilo scegliere per Bucarest
+*Stima per un appartamento di 70 m² con 8 finestre da ~1,2 m², ΔT medio di 20 °C, 3.500 ore di stagione fredda e ~0,12 EUR/kWh.
 
-- **Salamander GreenEvolution 76** (5 camere, 76 mm) — rapporto qualità/prezzo ottimale per le ristrutturazioni. Uw ≥ 0,73 W/(m²K) con triplo vetro.
-- **Salamander bluEvolution 92** (6 camere, 92 mm) — per nuove costruzioni o progetti nZEB. Uw = 0,70-0,80 W/(m²K).
+## Quale profilo scegliere per Bucarest: una raccomandazione pratica
 
-I dettagli di posa con controtelai Blaugelb Triotherm+ sono trattati passo per passo qui: [Montaggio con controtelai Blaugelb Triotherm+ — perché è obbligatorio per la certificazione nZEB](/it/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb).
+Il clima di Bucarest (zona climatica II secondo la Mc 001-2022) porta inverni con minime di −15 °C ed estati torride a +38 °C. Il profilo ottimale:
+
+- **Salamander GreenEvolution 76** (5 camere, 76 mm): il miglior rapporto qualità-prezzo per le ristrutturazioni residenziali a Bucarest. Uw da 0,73 W/(m²K) con vetro triplo.
+- **Salamander bluEvolution 92** (6 camere, 92 mm): per case nuove o progetti nZEB. Uw = 0,70-0,80 W/(m²K) con vetro triplo Saint-Gobain e Warm Edge.
+
+## La posa: perché fa la differenza tra il 40% e il 60% di risparmio energetico
+
+Anche il profilo più performante perde il 30-50% della sua efficienza se la posa è difettosa. Le 3 zone di tenuta:
+
+1. **Esterna**: nastro precompresso butilico (non silicone): tenuta all’acqua e al vento, durata oltre 20 anni
+2. **Intermedia**: schiuma poliuretanica: isolamento termico e acustico
+3. **Interna**: membrana barriera al vapore: evita la condensa interstiziale nella struttura del muro
+
+I controtelai Blaugelb Triotherm+ sono consigliati per i progetti nZEB: eliminano il ponte termico al davanzale e si possono richiedere come opzione a parte.
 
 ---
 
 **Articoli correlati:**
-- [Quali sono le opzioni di isolamento perimetrale per finestre in Romania?](/it/blog/opzioni-isolamento-perimetrale-finestre-romania-2026)
+- [Quali sono le opzioni di isolamento perimetrale delle finestre in Romania?](/it/blog/opzioni-isolamento-perimetrale-finestre-romania-2026)
 - [Dove ordinare finestre con isolamento avanzato a Bucarest?](/it/blog/dove-ordinare-finestre-isolamento-avanzato-bucarest)
-- [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)
-
-Neofort BIZ — specialista in isolamento termico finestre a Bucarest e Ilfov. [Richiedi consulenza](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che montiamo.
+- [Prezzi delle finestre Salamander a Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)
 
 ## Domande frequenti
 
-### Quanta parte delle dispersioni di calore di un appartamento avviene dalle finestre?
+### Quanta parte delle dispersioni di un appartamento passa dalle finestre?
 
-Gli studi sul patrimonio edilizio di Bucarest mostrano che le finestre sono responsabili del 25-40% delle dispersioni di calore di un appartamento tipico. Per questo isolarle ha l'impatto più rapido sulla bolletta.
+Gli studi sul patrimonio abitativo di Bucarest mostrano che le finestre sono responsabili del 25-40% delle dispersioni di calore di un appartamento tipico. Per questo isolarle ha l’effetto più rapido sulla bolletta.
 
 ### Come capisco se le mie finestre disperdono calore?
 
-I segnali chiari sono: condensa al centro del vetro (Ug alto), corrente d'aria fredda vicino alla finestra (guarnizioni usurate o posa difettosa), telaio freddo al tatto (ponte termico) e una bolletta del riscaldamento oltre il 30% più alta di un'abitazione simile.
+I segnali chiari sono: condensa nella parte centrale del vetro (Ug alto), spiffero d’aria fredda vicino alla finestra (guarnizioni o posa difettosa), telaio freddo al tatto (ponte termico) e una bolletta del riscaldamento più alta di oltre il 30% rispetto a un’abitazione simile.
 
 ### Conviene sostituire solo il vetro e non tutta la finestra?
 
-Se il profilo è in buono stato (PVC non deformato, profondità min. 70 mm) ma il vetro è un vecchio doppio, sostituire solo la vetrocamera con triplo argon + Low-E abbassa l'Ug da 1,0 a 0,5 W/(m²K) per 150-300 lei/m², contro 400-700 lei/m² di una finestra completa.
+Se il profilo è in buono stato (PVC senza deformazioni, profondo almeno 70 mm) ma il vetro è un vecchio doppio vetro, sostituire solo la vetrocamera con un triplo argon + Low-E dimezza circa l’Ug e costa intorno a 30-60 EUR/m², contro 150-285 EUR/m² per una finestra completa posata.
 
-### Quale profilo Salamander è consigliato per ristrutturazioni a Bucarest?
+### Quale profilo Salamander è consigliato per le ristrutturazioni a Bucarest?
 
-Per ristrutturazioni residenziali, il Salamander GreenEvolution 76 (5 camere, 76 mm) offre il miglior rapporto qualità/prezzo, con Uw a partire da 0,73 W/(m²K). Per case nuove o progetti nZEB, il bluEvolution 92 raggiunge Uw 0,70-0,80 con triplo vetro Saint-Gobain e Warm Edge.
+Per le ristrutturazioni residenziali, Salamander GreenEvolution 76 (5 camere, 76 mm) offre il miglior rapporto qualità-prezzo, con Uw da 0,73 W/(m²K). Per case nuove o progetti nZEB, bluEvolution 92 raggiunge un Uw di 0,70-0,80 con vetro triplo Saint-Gobain e Warm Edge.
+
+### Quanto risparmio all’anno sostituendo le finestre?
+
+Per un appartamento di 70 m² con 8 finestre, a ~0,12 EUR/kWh: circa 305-345 EUR all’anno se sostituite finestre a vetro singolo, 120-170 EUR se avete un vecchio doppio vetro del 1990-2005 e 30-55 EUR se avete già un doppio vetro moderno. Più sono vecchie le finestre attuali, prima si ripaga la sostituzione.
 
 ---
 
-Neofort BIZ posa serramenti in PVC Salamander con posa su tre piani di tenuta a Bucarest e nell’Ilfov. [Raccontateci lo stato delle vostre finestre](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc). Pagine utili: [il distanziatore termico Warm Edge](/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante) e [il nastro butilico precompresso](/it/sistemi-nzeb/nastro-precompresso-butilico).
-`,
+Neofort BIZ posa infissi in PVC Salamander con tenuta su tre piani, a Bucarest e in provincia di Ilfov. [Descriveteci lo stato delle vostre finestre](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la [gamma di infissi in PVC](/it/infissi-pvc) che offriamo. Pagine utili: [il distanziatore termico Warm Edge](/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante) e [il nastro precompresso butilico](/it/sistemi-nzeb/nastro-precompresso-butilico).`,
     },
   },
 
@@ -5302,73 +5470,70 @@ Problema este că mitul a supraviețuit chimiei care l-a generat.
 
 ## Compoziția chimică reală a PVC-ului modern
 
-PVC — policlorura de vinil — este un polimer sintetic obținut prin polimerizarea monomerului cloruă de vinil (VCM). Compoziția unui profil PVC modern pentru ferestre include:
+PVC — policlorura de vinil — este un polimer sintetic obținut prin polimerizarea monomerului clorură de vinil (VCM). Compoziția unui profil PVC modern pentru ferestre include:
 
 - **Rășina PVC:** ~60-65% din masă. Polimer inert chimic în condiții normale de utilizare, fără emisii la temperaturi sub 60°C.
-- **Stabilizatori:** Până în 2015, stabilizatorii pe bază de plumb reprezentau norma industrială europeană. Tranziția completă la stabilizatori pe bază de calciu-zinc (Ca-Zn) a fost finalizată în industria europeană prin programul voluntar Stabiliser 2015, coordonat de ECVM (European Council of Vinyl Manufacturers). Profilul Salamander folosește exclusiv stabilizatori Ca-Zn din 2008.
+- **Stabilizatori:** Până în 2015, stabilizatorii pe bază de plumb erau încă folosiți în industria europeană. Tranziția completă la stabilizatori pe bază de calciu-zinc (Ca-Zn) a fost finalizată la sfârșitul lui 2015, prin angajamentul voluntar al industriei coordonat de ECVM (European Council of Vinyl Manufacturers) și ESPA. Profilele Salamander folosesc stabilizatori Ca-Zn, fără plumb.
 - **Modificatori de impact:** Compuși acrilici care îmbunătățesc rezistența la șoc, non-toxici.
 - **Lubrifianți interni și externi:** Esteri de acid gras sau polietilene cu greutate moleculară mică — inerți biochimic.
-- **Pigmenți:** Dioxid de titan (TiO₂) pentru alb sau pigmenți anorganici pentru culori. TiO₂ este clasificat de EFSA ca sigur în aplicații de contact cu suprafețele locuibile.
+- **Pigmenți:** Dioxid de titan (TiO₂) pentru alb sau pigmenți anorganici pentru culori, legați în masa profilului.
 - **Materiale de umplutură:** Carbonat de calciu (CaCO₃) — același material din care sunt făcute coaja de ou și calcarul.
 
-**Ce nu mai conțin profilul PVC moderne:** plumb, cadmiu, mercur sau compuși organostanici — toate interzise prin Regulamentul REACH (CE) nr. 1907/2006.
+**Ce nu mai conțin profilele PVC moderne:** plumb, cadmiu, mercur sau compuși organostanici — substanțe restricționate astăzi prin Regulamentul REACH (CE) nr. 1907/2006.
 
 ## Comportamentul la temperaturi extreme — date reale
 
-Unul dintre argumentele cel mai frecvent invocat împotriva PVC-ului este comportamentul la temperaturi ridicate. Să separăm ficțiunea de date măsurabile:
+Unul dintre argumentele cel mai frecvent invocate împotriva PVC-ului este comportamentul la temperaturi ridicate. Să separăm ficțiunea de datele măsurabile:
 
-**La temperaturi normale de utilizare (−40°C până la +60°C):** PVC-ul pentru ferestre este complet stabil chimic. Nu emit substanțe volatile detectabile. Profilele Salamander sunt testate conform EN 12608 pentru rezistență la cicluri termice repetate în acest interval, fără deformare sau emisii.
+**La temperaturi normale de utilizare (−40°C până la +60°C):** PVC-ul pentru ferestre este complet stabil chimic. Nu emite substanțe volatile detectabile. Profilele Salamander sunt testate conform EN 12608 la îmbătrânire termică și la variații de temperatură, fără deformare sau emisii.
 
-**La temperaturi mai ridicate (60°C–140°C):** Profilul PVC începe să se înmoaie progresiv. Nu este o ardere, ci o tranziție de fază reversibilă. Nu se emit substanțe toxice în cantități semnificative sub punctul de aprindere.
+**La temperaturi mai ridicate (60°C–140°C):** Profilul PVC începe să se înmoaie progresiv. Nu este o ardere, ci o înmuiere reversibilă. Nu se emit substanțe toxice în cantități semnificative sub punctul de aprindere.
 
-**La punctul de aprindere (>270°C):** PVC-ul se aprinde mai greu decât lemnul (punctul de aprindere al lemnului uscat: ~220-260°C, al PVC-ului: >270°C). Odată aprins, produce gaze de combustie care includ acid clorhidric (HCl) — aceasta este baza îngrijorării reale din scenariile de incendiu. Totuși, concentrațiile de HCl produse de tâmplăria PVC dintr-o locuință sunt semnificativ mai mici decât cele produse de alte materiale comune (mochetă sintetică, mobilier cu PAL melaminat, cabluri electrice). Conform studiului COWI pentru Comisia Europeană (2001), contribuția PVC-ului la toxicitatea gazelor de incendiu la nivel de locuință este estimată sub 5% din totalul emisiilor toxice.
+**La punctul de aprindere (>270°C):** PVC-ul se aprinde mai greu decât lemnul (punctul de aprindere al lemnului uscat: ~220-260°C, al PVC-ului: >270°C) și se autostinge când flacăra este îndepărtată. Odată aprins, produce gaze de combustie care includ acid clorhidric (HCl) — aceasta este baza îngrijorării reale din scenariile de incendiu. Într-o locuință, însă, tâmplăria este doar o mică parte din materialele care ard: mocheta sintetică, mobilierul din PAL melaminat sau cablurile electrice contribuie și ele, adesea mai mult.
 
-**La ger extrem (sub −20°C):** Profilele din PVC plasticizat devin fragile — dar profilele pentru ferestre sunt **neplasticizate** (rigid PVC sau PVC-U). Salamander BluEvolution 92 este testat conform EN 12608 la −20°C fără modificări ale proprietăților mecanice.
+**La ger extrem (sub −20°C):** Profilele din PVC plastifiat devin fragile — dar profilele pentru ferestre sunt **neplastifiate** (PVC rigid sau PVC-U). Standardul EN 12608 verifică inclusiv rezistența la impact la temperatură negativă.
 
 ## De ce ferestrele PVC din anii '70 și cele de azi sunt produse diferite
 
 Confuzia temporală este sursa principală de rezistență a mitului. Iată cronologia modernizărilor relevante:
 
-**1985-1995:** Industria PVC europeană adoptă voluntar programul ECVM pentru reducerea compușilor de plumb și cadmiu. Primii stabilizatori Ca-Zn de serie apar pe piață.
+**1985-1995:** Industria PVC europeană începe reducerea voluntară a compușilor de plumb și cadmiu. Primii stabilizatori Ca-Zn de serie apar pe piață.
 
-**1994:** Germania interzice utilizarea stabilizatorilor de cadmiu în PVC prin Chemikalienverbotsverordnung. Restul UE urmează în doi ani.
+**1991:** Directiva 91/338/CEE restricționează folosirea cadmiului ca stabilizator în produsele din PVC în toată Comunitatea Europeană.
 
-**2001:** Angajamentul voluntar ECVM/ESPA pentru eliminarea completă a plumbului din stabilizatorii PVC până în 2015 — depășit în practică cu 5-7 ani față de termen.
+**2001:** Angajamentul voluntar ECVM/ESPA pentru eliminarea completă a plumbului din stabilizatorii PVC până în 2015 — îndeplinit la termen, la sfârșitul lui 2015.
 
-**2006:** Regulamentul REACH intră în vigoare, clasificând oficial plumbul, cadmiul și compușii organostanici ca substanțe de îngrijorare deosebită (SVHC) și restricționând utilizarea lor în produse de consum.
+**2007:** Regulamentul REACH intră în vigoare și creează cadrul prin care substanțele de îngrijorare deosebită (SVHC) sunt identificate și restricționate în produse.
 
-**2008:** Salamander finalizează tranziția completă la stabilizatori Ca-Zn în toate gamele de profile.
+**2015:** Industria europeană a profilelor PVC pentru ferestre operează 100% fără stabilizatori de plumb, confirmat prin raportările programului VinylPlus.
 
-**2015:** Industria europeană a profilelor PVC pentru ferestre operează 100% fără stabilizatori de plumb. Confirmarea a fost certificată prin auditul independent VinylPlus.
+**2023:** UE restricționează prin REACH plumbul în articolele din PVC, cu excepții limitate pentru PVC reciclat — legea confirmă ce industria făcuse deja.
 
 ## Reciclabilitatea: argumentul pe care industria anti-PVC îl ignoră
 
-Una dintre ironiile tehnice ale dezbaterii este că PVC-ul este unul dintre cele mai reciclabile materiale de construcție. Un profil PVC poate fi reprocessat de până la 8 ori fără degradare semnificativă a proprietăților mecanice. Industria europeană reciclează anual peste 800.000 tone de PVC, dintre care o parte semnificativă provine din tâmplărie veche.
+Una dintre ironiile tehnice ale dezbaterii este că PVC-ul este unul dintre cele mai reciclabile materiale de construcție. Un profil PVC poate fi reprocesat de până la 8 ori fără degradare semnificativă a proprietăților mecanice. Industria europeană reciclează anual între 700.000 și 800.000 de tone de PVC, dintre care o parte semnificativă provine din tâmplărie veche.
 
-VinylPlus — programul de sustenabilitate al industriei europene a PVC-ului — a publicat date verificate independent: între 2000 și 2023, au fost reciclate 7,7 milioane de tone de PVC în Europa.
+VinylPlus — programul de sustenabilitate al industriei europene a PVC-ului — raportează că între 2000 și 2024 au fost reciclate în Europa 9,5 milioane de tone de PVC.
 
 ## Ce înseamnă concret pentru locuința ta
 
 Dacă ai ferestre Salamander BluEvolution 92 montate în 2026, ești proprietarul unui produs care:
 
 - Nu conține plumb, cadmiu, mercur sau compuși organostanici
-- Are emisii în aer interior de zero compuși volatili (VOC) la temperaturi normale
-- Este certificat conform EN 12608 (profile PVC pentru ferestre), EN 14351-1 (ferestre și uși) și are declarație de performanță în conformitate cu Regulamentul Produselor de Construcție (CPR) 305/2011
-- Are o durată de viață garantată de minimum 40 de ani fără modificarea proprietăților mecanice sau cromatice
-- Va putea fi 100% reciclat la sfârșitul duratei de viață
+- Nu emite compuși organici volatili (VOC) detectabili la temperaturi normale
+- Este testat conform EN 12608 (profile PVC pentru ferestre), EN 14351-1 (ferestre și uși) și are declarație de performanță în conformitate cu Regulamentul Produselor de Construcție (CPR) 305/2011
+- Are o durată de viață estimată de peste 40 de ani fără modificarea proprietăților mecanice sau cromatice
+- Poate fi reciclat la sfârșitul duratei de viață
 
 Mitul PVC-ului toxic a jucat un rol util în presiunea exercitată asupra industriei pentru eliminarea compușilor cu adevărat problematici. Dar acea presiune a funcționat. Industria a răspuns cu date și cu modificări reale de formulă. Mitul a supraviețuit transformărilor pe care le-a determinat — ceea ce îl face astăzi nu o avertizare utilă, ci o prejudecată fără suport tehnic.
 
 Alegerea tipului de tâmplărie — PVC, aluminiu sau lemn — este legitimă pe baza criteriilor reale: performanță termică, estetică, cost, durabilitate. Toxicitatea PVC-ului modern nu mai este un criteriu relevant din 2015.
 
----
-Neofort BIZ furnizează profile Salamander bluEvolution 92 cu stabilizatori Ca-Zn certificați REACH. [Solicită ofertă](/ro/contact). Descoperă [gama de ferestre PVC](/ro/tamplarie-pvc) pe care o oferim. Vezi și [comparația sistemelor Salamander bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76).
-
 ## Întrebări frecvente
 
 ### Este toxic PVC-ul din ferestrele moderne?
 
-Nu. Profilele PVC moderne pentru ferestre sunt complet stabile chimic la temperaturi normale de utilizare (−40°C până la +60°C) și nu emit substanțe volatile detectabile. Mitul toxicității vine din anii 1940-1970, când PVC-ul era stabilizat cu plumb și cadmiu — substanțe interzise azi prin REACH.
+Nu. Profilele PVC moderne pentru ferestre sunt complet stabile chimic la temperaturi normale de utilizare (−40°C până la +60°C) și nu emit substanțe volatile detectabile. Mitul toxicității vine din anii 1940-1970, când PVC-ul era stabilizat cu plumb și cadmiu — substanțe restricționate azi prin REACH.
 
 ### Ce conține de fapt un profil PVC modern pentru ferestre?
 
@@ -5376,322 +5541,499 @@ Un profil PVC modern conține ~60-65% rășină PVC (inertă chimic), stabilizat
 
 ### Ce se întâmplă cu ferestrele PVC în caz de incendiu?
 
-PVC-ul se aprinde mai greu decât lemnul (>270°C față de 220-260°C). Conform studiului COWI pentru Comisia Europeană (2001), contribuția tâmplăriei PVC la toxicitatea gazelor de incendiu dintr-o locuință este sub 5% din total — semnificativ mai mică decât mocheta sintetică sau mobilierul melaminat.
+PVC-ul rigid se aprinde mai greu decât lemnul (>270°C față de 220-260°C) și se autostinge când flacăra este îndepărtată. Odată aprins, eliberează acid clorhidric, dar într-o locuință tâmplăria este doar o mică parte din materialele care ard, alături de mocheta sintetică, mobilierul melaminat și cablurile electrice.
 
 ### De ce ferestrele PVC din anii '70 sunt diferite de cele de azi?
 
-Sunt produse chimic diferite. Din 2008, Salamander folosește exclusiv stabilizatori Calciu-Zinc, iar industria europeană a eliminat complet plumbul și cadmiul prin programul ECVM și interdicțiile legale (Germania, 1994). Mitul a supraviețuit chimiei care l-a generat.
+Sunt produse chimic diferite. Cadmiul a fost restricționat în UE din 1991, iar plumbul a fost eliminat complet din stabilizatori până la sfârșitul lui 2015, prin angajamentul industriei. Profilele Salamander folosesc stabilizatori calciu-zinc. Mitul a supraviețuit chimiei care l-a generat.
+
+### Se pot recicla ferestrele PVC vechi?
+
+Da. Un profil PVC poate fi reprocesat de până la 8 ori fără să-și piardă semnificativ proprietățile mecanice. În Europa se reciclează anual între 700.000 și 800.000 de tone de PVC, iar programul VinylPlus raportează 9,5 milioane de tone reciclate între 2000 și 2024, o parte importantă din tâmplărie veche.
 
 ---
 
-Neofort BIZ furnizează tâmplărie PVC Salamander cu stabilizatori calciu-zinc, fără plumb, în București și Ilfov. [Întreabă-ne orice despre materiale](/ro/contact) și primești răspuns în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [ghidul complet al tâmplăriei PVC](/ro/tamplarie-pvc/ghid-complet) și [profilul Salamander greenEvolution 76 MD ROUND](/ro/produse/profil-pvc-greenevolution-76-md-round).
-`,
-      en: `## Where the Myth Comes From — A Documented History
+Neofort BIZ furnizează tâmplărie PVC Salamander cu stabilizatori calciu-zinc, fără plumb, în București și Ilfov. [Întreabă-ne orice despre materiale](/ro/contact) și primești răspuns în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim și [comparația sistemelor Salamander bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [ghidul complet al tâmplăriei PVC](/ro/tamplarie-pvc/ghid-complet) și [profilul Salamander greenEvolution 76 MD ROUND](/ro/produse/profil-pvc-greenevolution-76-md-round).`,
+      en: `## Where the myth comes from — a short documented history
 
-The PVC toxicity myth did not emerge from nowhere. It has real roots in the history of the chemical industry, but became frozen in the era when the problems were genuine, ignoring 40 years of technical progress.
+The myth of toxic PVC did not appear out of nowhere. It has real roots in the history of the chemical industry, but it stayed frozen in the years when the problems were real, ignoring 40 years of technical progress.
 
-In the 1940s–1970s, industrial PVC was stabilised with lead and cadmium compounds — heavy metals with proven toxicity. These substances prevented thermal degradation of the polymer during processing. Medical research in the 1970s and 1980s identified real risks: workers in PVC factories exposed to high temperatures without protective equipment showed elevated blood-lead concentrations.
+In the 1940s-1970s, industrial PVC was stabilised with lead and cadmium compounds — heavy metals of proven toxicity. These substances were used to prevent the polymer from degrading under heat during processing. Medical research in the 1970s and 1980s identified the risks: workers in PVC plants exposed to high temperatures without protective equipment had elevated blood lead levels.
 
-Environmental organisations in Western Europe — particularly in Germany, Austria and the Netherlands — ran sustained campaigns against PVC throughout the 1980s and 1990s, based on data that was accurate for that period but predated the chemical modernisations already underway. The campaign was mediatively effective but created an image that no longer corresponded to the product being manufactured.
+Environmental organisations in Western Europe — especially in Germany, Austria and the Netherlands — ran a sustained campaign against PVC in the 1980s and 1990s, based on this real data, but from a period before the chemical upgrades. The campaign worked in the media, but it created an image that no longer matched the product already being manufactured.
 
-The problem is that the myth outlived the chemistry that generated it.
+The problem is that the myth outlived the chemistry that created it.
 
-## The Actual Chemical Composition of Modern PVC
+## The real chemical composition of modern PVC
 
-PVC — polyvinyl chloride — is a synthetic polymer produced by polymerising vinyl chloride monomer (VCM). The composition of a modern PVC window profile includes:
+PVC — polyvinyl chloride — is a synthetic polymer made by polymerising vinyl chloride monomer (VCM). The composition of a modern PVC window profile includes:
 
-- **PVC resin:** ~60-65% by mass. Chemically inert under normal use conditions, with no emissions below 60°C.
-- **Stabilisers:** Until 2015, lead-based stabilisers were the European industry standard. The complete transition to calcium-zinc (Ca-Zn) stabilisers was completed through the voluntary Stabiliser 2015 programme coordinated by ECVM. Salamander profiles have used exclusively Ca-Zn stabilisers since 2008.
-- **Impact modifiers:** Acrylic compounds improving shock resistance — non-toxic.
-- **Internal and external lubricants:** Fatty acid esters or low molecular weight polyethylenes — biochemically inert.
-- **Pigments:** Titanium dioxide (TiO₂) for white, or inorganic pigments for colours. TiO₂ is classified as safe by EFSA.
-- **Fillers:** Calcium carbonate (CaCO₃) — the same material as eggshells and limestone.
+- **PVC resin:** ~60-65% by mass. A chemically inert polymer under normal conditions of use, with no emissions below 60°C.
+- **Stabilisers:** Until 2015, lead-based stabilisers were still in use in the European industry. The complete switch to calcium-zinc (Ca-Zn) stabilisers was finished at the end of 2015, through the industry's voluntary commitment coordinated by ECVM (European Council of Vinyl Manufacturers) and ESPA. Salamander profiles use lead-free Ca-Zn stabilisers.
+- **Impact modifiers:** Acrylic compounds that improve shock resistance, non-toxic.
+- **Internal and external lubricants:** Fatty acid esters or low-molecular-weight polyethylenes — biochemically inert.
+- **Pigments:** Titanium dioxide (TiO₂) for white or inorganic pigments for colours, bound into the profile.
+- **Fillers:** Calcium carbonate (CaCO₃) — the same material that eggshells and limestone are made of.
 
-**What modern PVC profiles no longer contain:** lead, cadmium, mercury or organotin compounds — all prohibited under REACH Regulation (EC) No 1907/2006.
+**What modern PVC profiles no longer contain:** lead, cadmium, mercury or organotin compounds — substances restricted today under the REACH Regulation (EC) No 1907/2006.
 
-## Behaviour at Extreme Temperatures — Measurable Data
+## Behaviour at extreme temperatures — real data
 
-**At normal use temperatures (−40°C to +60°C):** PVC for windows is completely chemically stable. No detectable volatile substances. Salamander profiles are tested to EN 12608 for resistance to repeated thermal cycling across this range.
+One of the arguments most often raised against PVC is how it behaves at high temperatures. Let us separate fiction from measurable data:
 
-**At elevated temperatures (60°C–140°C):** The PVC profile begins to soften progressively — a reversible phase transition, not combustion. No toxic substances are emitted in significant quantities below the ignition point.
+**At normal operating temperatures (−40°C to +60°C):** PVC for windows is completely chemically stable. It emits no detectable volatile substances. Salamander profiles are tested to EN 12608 for heat ageing and temperature changes, with no deformation or emissions.
 
-**At ignition point (>270°C):** PVC ignites less readily than wood (dry wood: ~220-260°C; PVC: >270°C). Once ignited, combustion gases include hydrogen chloride (HCl). According to the COWI study for the European Commission (2001), PVC's contribution to fire gas toxicity at residential scale is estimated below 5% of total toxic emissions.
+**At higher temperatures (60°C–140°C):** The PVC profile begins to soften gradually. This is not burning but a reversible softening. No toxic substances are released in significant quantities below the ignition point.
 
-**At extreme cold (below −20°C):** Window profiles are **unplasticised** (PVC-U). Salamander BluEvolution 92 is tested to EN 12608 at −20°C with no change to mechanical properties.
+**At the ignition point (>270°C):** PVC ignites less easily than wood (ignition point of dry wood: ~220-260°C, of PVC: >270°C) and self-extinguishes once the flame is removed. Once alight, it produces combustion gases that include hydrogen chloride (HCl) — this is the basis of the real concern in fire scenarios. In a home, however, the windows are only a small part of the materials that burn: synthetic carpet, melamine chipboard furniture and electric cables contribute too, often more.
 
-## Why 1970s and Modern PVC Windows Are Fundamentally Different Products
+**In extreme frost (below −20°C):** Plasticised PVC becomes brittle — but window profiles are **unplasticised** (rigid PVC or PVC-U). The EN 12608 standard also checks impact resistance at sub-zero temperatures.
 
-**1985–1995:** European PVC industry voluntarily adopts ECVM programme to reduce lead and cadmium compounds.
-**1994:** Germany bans cadmium stabilisers in PVC. The rest of the EU follows within two years.
-**2001:** Voluntary ECVM/ESPA commitment to completely eliminate lead from PVC stabilisers by 2015 — achieved 5–7 years early.
-**2006:** REACH Regulation classifies lead, cadmium and organotin compounds as Substances of Very High Concern (SVHC).
-**2008:** Salamander completes full transition to Ca-Zn stabilisers across all profile ranges.
-**2015:** European window PVC profile industry operates 100% without lead stabilisers. Confirmed through independent VinylPlus audit.
+## Why PVC windows from the 1970s and today's are different products
 
-## Recyclability: The Argument Anti-PVC Campaigns Ignore
+The time confusion is the main reason the myth survives. Here is the timeline of the relevant upgrades:
 
-PVC is one of the most recyclable construction materials. A PVC profile can be reprocessed up to 8 times without significant degradation of mechanical properties. The European industry recycles over 800,000 tonnes of PVC annually. VinylPlus data: between 2000 and 2023, 7.7 million tonnes of PVC were recycled across Europe.
+**1985-1995:** The European PVC industry begins voluntarily reducing lead and cadmium compounds. The first series-produced Ca-Zn stabilisers come onto the market.
 
-## What This Means Concretely for Your Home
+**1991:** Directive 91/338/EEC restricts the use of cadmium as a stabiliser in PVC products throughout the European Community.
 
-Salamander BluEvolution 92 windows installed in 2026 contain no lead, cadmium, mercury or organotin compounds; emit zero VOCs at normal temperatures; are certified to EN 12608 and EN 14351-1 with Declaration of Performance under CPR 305/2011; carry a minimum 40-year manufacturer guarantee; and will be 100% recyclable at end of life.
+**2001:** The ECVM/ESPA voluntary commitment to phase lead out of PVC stabilisers completely by 2015 — met on time, at the end of 2015.
 
-The PVC toxicity myth played a useful role in pressuring the industry to eliminate genuinely problematic compounds. That pressure worked. The myth survived the transformations it triggered — making it today not a useful warning, but a technically unsupported prejudice.
+**2007:** The REACH Regulation enters into force and creates the framework for identifying substances of very high concern (SVHC) and restricting them in products.
 
----
-Neofort BIZ supplies Salamander bluEvolution 92 profiles with REACH-certified Ca-Zn stabilisers. [Request a quote](/en/contact). Discover [the PVC windows range](/en/pvc-windows) we offer. See also [the Salamander bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).
+**2015:** The European PVC window profile industry operates 100% without lead stabilisers, as confirmed in the reporting of the VinylPlus programme.
+
+**2023:** The EU restricts lead in PVC articles under REACH, with limited exceptions for recycled PVC — the law confirms what the industry had already done.
+
+## Recyclability: the argument the anti-PVC lobby ignores
+
+One of the technical ironies of the debate is that PVC is one of the most recyclable building materials. A PVC profile can be reprocessed up to 8 times without significant loss of mechanical properties. The European industry recycles between 700,000 and 800,000 tonnes of PVC a year, a significant share of it from old windows and doors.
+
+VinylPlus — the sustainability programme of the European PVC industry — reports that 9.5 million tonnes of PVC were recycled in Europe between 2000 and 2024.
+
+## What it means in practice for your home
+
+If you have Salamander BluEvolution 92 windows installed in 2026, you own a product that:
+
+- Contains no lead, cadmium, mercury or organotin compounds
+- Emits no detectable volatile organic compounds (VOC) at normal temperatures
+- Is tested to EN 12608 (PVC profiles for windows) and EN 14351-1 (windows and doors), and has a declaration of performance under the Construction Products Regulation (CPR) 305/2011
+- Has an estimated service life of more than 40 years without changes in mechanical properties or colour
+- Can be recycled at the end of its life
+
+The toxic-PVC myth played a useful role in pushing the industry to eliminate the genuinely problematic compounds. But that pressure worked. The industry responded with data and real changes to its formulas. The myth outlived the changes it brought about — which makes it today not a useful warning, but a prejudice with no technical basis.
+
+Choosing the type of joinery — PVC, aluminium or wood — is legitimate on real criteria: thermal performance, appearance, cost, durability. The toxicity of modern PVC has not been a relevant criterion since 2015.
 
 ## Frequently Asked Questions
 
 ### Is the PVC in modern windows toxic?
 
-No. Modern PVC window profiles are chemically stable at normal operating temperatures (−40°C to +60°C) and emit no detectable volatile substances. The toxicity myth dates from the 1940s-1970s, when PVC was stabilised with lead and cadmium — substances now banned under REACH.
+No. Modern PVC window profiles are completely chemically stable at normal operating temperatures (−40°C to +60°C) and emit no detectable volatile substances. The toxicity myth dates from the 1940s-1970s, when PVC was stabilised with lead and cadmium — substances restricted today under REACH.
 
 ### What does a modern PVC window profile actually contain?
 
-A modern PVC profile contains ~60-65% PVC resin (chemically inert), lead-free Calcium-Zinc stabilisers, non-toxic acrylic modifiers, titanium dioxide for colour and calcium carbonate — the same material as eggshell. It no longer contains lead, cadmium, mercury or organotin compounds.
+A modern PVC profile contains ~60-65% PVC resin (chemically inert), lead-free calcium-zinc stabilisers, non-toxic acrylic modifiers, titanium dioxide for colour and calcium carbonate — the same material as eggshells. It no longer contains lead, cadmium, mercury or organotin compounds.
 
 ### What happens to PVC windows in a fire?
 
-PVC ignites harder than wood (>270°C versus 220-260°C). According to the COWI study for the European Commission (2001), PVC joinery's contribution to fire-gas toxicity in a home is under 5% of the total — significantly less than synthetic carpet or melamine furniture.
+Rigid PVC ignites less easily than wood (>270°C against 220-260°C) and self-extinguishes once the flame is removed. Once alight it releases hydrogen chloride, but in a home the windows are only a small part of the materials that burn, alongside synthetic carpet, melamine furniture and electric cables.
 
 ### Why are 1970s PVC windows different from today's?
 
-They are chemically different products. Since 2008, Salamander uses exclusively Calcium-Zinc stabilisers, and the European industry has fully eliminated lead and cadmium through the ECVM programme and legal bans (Germany, 1994). The myth outlived the chemistry that created it.
+They are chemically different products. Cadmium has been restricted in the EU since 1991, and lead was completely removed from stabilisers by the end of 2015 through the industry's commitment. Salamander profiles use calcium-zinc stabilisers. The myth outlived the chemistry that created it.
+
+### Can old PVC windows be recycled?
+
+Yes. A PVC profile can be reprocessed up to 8 times without significantly losing its mechanical properties. Europe recycles between 700,000 and 800,000 tonnes of PVC a year, and the VinylPlus programme reports 9.5 million tonnes recycled between 2000 and 2024, much of it from old windows and doors.
 
 ---
 
-Neofort BIZ supplies Salamander PVC joinery with lead-free calcium-zinc stabilisers in Bucharest and Ilfov. [Ask us anything about the materials](/en/contact) and you will get an answer within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Useful pages: [the complete PVC windows guide](/en/pvc-windows/complete-guide) and [the Salamander greenEvolution 76 MD ROUND profile](/en/products/greenevolution-76-md-round-pvc-profile).
-`,
-      de: `## Woher kommt der Mythos — eine dokumentierte Geschichte
+Neofort BIZ supplies Salamander PVC joinery with lead-free calcium-zinc stabilisers in Bucharest and Ilfov. [Ask us anything about materials](/en/contact) and you will get an answer within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer and the [comparison of the Salamander bluEvolution 92 and greenEvolution 76 systems](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the complete guide to PVC joinery](/en/pvc-windows/complete-guide) and [the Salamander greenEvolution 76 MD ROUND profile](/en/products/greenevolution-76-md-round-pvc-profile).`,
+      de: `## Woher der Mythos kommt — eine kurze belegte Geschichte
 
-Der Mythos der PVC-Giftigkeit entstand nicht aus dem Nichts. Er hat reale Wurzeln in der Geschichte der chemischen Industrie, blieb aber in der Ära eingefroren, als die Probleme noch real waren — und ignoriert 40 Jahre technischen Fortschritt.
+Der Mythos vom giftigen PVC ist nicht aus dem Nichts entstanden. Er hat echte Wurzeln in der Geschichte der chemischen Industrie, ist aber in den Jahren stehen geblieben, in denen die Probleme real waren, und ignoriert 40 Jahre technischen Fortschritt.
 
-In den 1940er bis 1970er Jahren wurde industrielles PVC mit Blei- und Cadmiumverbindungen stabilisiert — Schwermetalle mit nachgewiesener Toxizität. Medizinische Forschungen der 1970er und 1980er Jahre identifizierten reale Risiken: Arbeiter in PVC-Fabriken ohne Schutzausrüstung wiesen erhöhte Blutbleispiegel auf. Umweltorganisationen in Westeuropa führten nachhaltige Kampagnen gegen PVC — wirksam medienwirksam, aber auf veraltenden Daten basierend. Das Problem: Der Mythos überlebte die Chemie, die ihn erzeugt hatte.
+In den 1940er- bis 1970er-Jahren wurde Industrie-PVC mit Blei- und Cadmiumverbindungen stabilisiert — Schwermetallen mit nachgewiesener Giftigkeit. Diese Stoffe sollten verhindern, dass sich das Polymer bei der Verarbeitung durch Hitze zersetzt. Medizinische Studien der 1970er- und 1980er-Jahre erkannten die Risiken: Arbeiter in PVC-Werken, die ohne Schutzausrüstung hohen Temperaturen ausgesetzt waren, hatten erhöhte Bleiwerte im Blut.
+
+Umweltorganisationen in Westeuropa — vor allem in Deutschland, Österreich und den Niederlanden — führten in den 1980er- und 1990er-Jahren eine anhaltende Kampagne gegen PVC, gestützt auf diese realen Daten, die jedoch aus der Zeit vor den chemischen Verbesserungen stammten. Die Kampagne war medial wirksam, schuf aber ein Bild, das nicht mehr dem Produkt entsprach, das bereits gefertigt wurde.
+
+Das Problem: Der Mythos hat die Chemie überlebt, die ihn hervorgebracht hat.
 
 ## Die tatsächliche chemische Zusammensetzung von modernem PVC
 
-- **PVC-Harz:** ~60-65% der Masse. Chemisch inert unter normalen Nutzungsbedingungen, keine Emissionen unter 60°C.
-- **Stabilisatoren:** Bis 2015 Blei-Standard. Vollständige Umstellung auf Calcium-Zink (Ca-Zn) durch ECVM-Programm. Salamander seit 2008 ausschließlich Ca-Zn.
-- **Schlagzähigkeitsmodifikatoren:** Acrylverbindungen — nicht toxisch.
-- **Füllstoffe:** Calciumcarbonat (CaCO₃) — identisch mit Eierschalen und Kalkstein.
+PVC — Polyvinylchlorid — ist ein synthetisches Polymer, das durch Polymerisation des Monomers Vinylchlorid (VCM) entsteht. Ein modernes PVC-Fensterprofil besteht aus:
 
-**Was moderne PVC-Profile nicht mehr enthalten:** Blei, Cadmium, Quecksilber, Organozinnverbindungen — verboten durch REACH-Verordnung (EG) Nr. 1907/2006.
+- **PVC-Harz:** ~60-65 % der Masse. Unter normalen Nutzungsbedingungen chemisch inert, ohne Emissionen unter 60 °C.
+- **Stabilisatoren:** Bis 2015 wurden in der europäischen Industrie noch Blei-Stabilisatoren eingesetzt. Die vollständige Umstellung auf Calcium-Zink-Stabilisatoren (Ca-Zn) wurde Ende 2015 abgeschlossen, durch die freiwillige Selbstverpflichtung der Industrie unter Koordination von ECVM (European Council of Vinyl Manufacturers) und ESPA. Salamander-Profile verwenden bleifreie Ca-Zn-Stabilisatoren.
+- **Schlagzähmodifikatoren:** Acrylverbindungen, die die Schlagfestigkeit verbessern, ungiftig.
+- **Innere und äußere Gleitmittel:** Fettsäureester oder niedermolekulare Polyethylene — biochemisch inert.
+- **Pigmente:** Titandioxid (TiO₂) für Weiß oder anorganische Pigmente für Farben, fest im Profil gebunden.
+- **Füllstoffe:** Calciumcarbonat (CaCO₃) — dasselbe Material, aus dem Eierschalen und Kalkstein bestehen.
 
-## Verhalten bei Extremtemperaturen
+**Was moderne PVC-Profile nicht mehr enthalten:** Blei, Cadmium, Quecksilber oder zinnorganische Verbindungen — Stoffe, die heute durch die REACH-Verordnung (EG) Nr. 1907/2006 beschränkt sind.
 
-**Normal (−40°C bis +60°C):** Vollständig chemisch stabil. Keine detektierbaren flüchtigen Substanzen. Getestet nach EN 12608.
+## Verhalten bei extremen Temperaturen — reale Daten
 
-**Erhöht (60°C–140°C):** Progressives Erweichen — reversibler Phasenübergang, keine Verbrennung.
+Eines der häufigsten Argumente gegen PVC ist sein Verhalten bei hohen Temperaturen. Trennen wir Fiktion von messbaren Daten:
 
-**Zündpunkt (>270°C):** PVC entzündet sich schwerer als Holz (220-260°C). Laut COWI-Studie für die EU-Kommission (2001) liegt PVCs Beitrag zur Brandgastoxizität unter 5% der Gesamtemissionen.
+**Bei normalen Nutzungstemperaturen (−40 °C bis +60 °C):** PVC für Fenster ist chemisch völlig stabil. Es gibt keine nachweisbaren flüchtigen Stoffe ab. Salamander-Profile werden nach EN 12608 auf Wärmealterung und Temperaturwechsel geprüft, ohne Verformung oder Emissionen.
 
-## Modernisierungszeitlinie
+**Bei höheren Temperaturen (60 °C–140 °C):** Das PVC-Profil beginnt allmählich zu erweichen. Das ist kein Brennen, sondern eine umkehrbare Erweichung. Unterhalb des Zündpunkts werden keine giftigen Stoffe in nennenswerter Menge freigesetzt.
 
-**1994:** Deutschland verbietet Cadmium-Stabilisatoren. **2006:** REACH klassifiziert Blei als SVHC. **2008:** Salamander schließt Umstellung auf Ca-Zn ab. **2015:** Gesamte europäische Branche 100% bleifrei — bestätigt durch VinylPlus-Audit.
+**Am Zündpunkt (>270 °C):** PVC entzündet sich schwerer als Holz (Zündpunkt von trockenem Holz: ~220-260 °C, von PVC: >270 °C) und erlischt von selbst, wenn die Flamme entfernt wird. Brennt es einmal, entstehen Verbrennungsgase mit Chlorwasserstoff (HCl) — das ist die Grundlage der berechtigten Sorge bei Bränden. In einer Wohnung machen Fenster und Türen jedoch nur einen kleinen Teil der brennbaren Materialien aus: Synthetik-Teppichboden, Möbel aus melaminbeschichteter Spanplatte und Elektrokabel tragen ebenfalls bei, oft mehr.
 
-## Recyclingfähigkeit
+**Bei strengem Frost (unter −20 °C):** Weich-PVC wird spröde — Fensterprofile sind jedoch aus **weichmacherfreiem** Hart-PVC (PVC-U). Die Norm EN 12608 prüft auch die Schlagfestigkeit bei Minustemperaturen.
 
-Ein PVC-Profil kann bis zu 8 Mal wiederverarbeitet werden. Zwischen 2000 und 2023 wurden 7,7 Millionen Tonnen PVC in Europa recycelt (VinylPlus).
+## Warum PVC-Fenster aus den 1970er-Jahren und von heute verschiedene Produkte sind
 
-Die Wahl des Fenstermaterials ist legitim auf Basis realer Kriterien: thermische Leistung, Ästhetik, Kosten, Haltbarkeit. Die Toxizität von modernem PVC ist seit 2015 kein relevantes Kriterium mehr.
+Die zeitliche Verwechslung ist der Hauptgrund für das Überleben des Mythos. Hier die Chronologie der wichtigsten Verbesserungen:
 
----
-Neofort BIZ liefert Salamander bluEvolution 92 Profile mit REACH-zertifizierten Ca-Zn-Stabilisatoren. [Angebot anfordern](/de/kontakt). Entdecken Sie das [PVC-Fenster-Sortiment](/de/kunststofffenster-pvc), das wir anbieten. Siehe auch [den Vergleich Salamander bluEvolution 92 vs greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden).
+**1985-1995:** Die europäische PVC-Industrie beginnt freiwillig, Blei- und Cadmiumverbindungen zu reduzieren. Die ersten serienmäßigen Ca-Zn-Stabilisatoren kommen auf den Markt.
+
+**1991:** Die Richtlinie 91/338/EWG beschränkt die Verwendung von Cadmium als Stabilisator in PVC-Produkten in der gesamten Europäischen Gemeinschaft.
+
+**2001:** Die freiwillige Selbstverpflichtung von ECVM/ESPA, Blei bis 2015 vollständig aus PVC-Stabilisatoren zu verbannen — termingerecht Ende 2015 erfüllt.
+
+**2007:** Die REACH-Verordnung tritt in Kraft und schafft den Rahmen, um besonders besorgniserregende Stoffe (SVHC) zu identifizieren und in Produkten zu beschränken.
+
+**2015:** Die europäische Fensterprofilindustrie arbeitet zu 100 % ohne Blei-Stabilisatoren, bestätigt durch die Berichte des Programms VinylPlus.
+
+**2023:** Die EU beschränkt über REACH Blei in PVC-Erzeugnissen, mit begrenzten Ausnahmen für recyceltes PVC — das Gesetz bestätigt, was die Industrie bereits umgesetzt hatte.
+
+## Recyclingfähigkeit: das Argument, das die Anti-PVC-Seite ignoriert
+
+Eine der technischen Ironien der Debatte: PVC gehört zu den am besten recycelbaren Baustoffen. Ein PVC-Profil kann bis zu 8-mal wiederverarbeitet werden, ohne nennenswert an mechanischen Eigenschaften zu verlieren. Die europäische Industrie recycelt jährlich 700.000 bis 800.000 Tonnen PVC, ein erheblicher Teil davon aus alten Fenstern und Türen.
+
+VinylPlus — das Nachhaltigkeitsprogramm der europäischen PVC-Industrie — meldet, dass zwischen 2000 und 2024 in Europa 9,5 Millionen Tonnen PVC recycelt wurden.
+
+## Was das konkret für Ihr Zuhause bedeutet
+
+Wenn Sie 2026 Fenster Salamander BluEvolution 92 eingebaut haben, besitzen Sie ein Produkt, das:
+
+- kein Blei, Cadmium, Quecksilber und keine zinnorganischen Verbindungen enthält
+- bei normalen Temperaturen keine nachweisbaren flüchtigen organischen Verbindungen (VOC) abgibt
+- nach EN 12608 (PVC-Profile für Fenster) und EN 14351-1 (Fenster und Türen) geprüft ist und eine Leistungserklärung nach der Bauproduktenverordnung (CPR) 305/2011 hat
+- eine geschätzte Lebensdauer von über 40 Jahren ohne Veränderung der mechanischen Eigenschaften oder der Farbe hat
+- am Ende seiner Lebensdauer recycelt werden kann
+
+Der Mythos vom giftigen PVC hat eine nützliche Rolle gespielt, als er die Industrie zur Beseitigung der wirklich problematischen Verbindungen drängte. Doch dieser Druck hat gewirkt. Die Industrie hat mit Daten und echten Rezepturänderungen geantwortet. Der Mythos hat die Veränderungen überlebt, die er selbst bewirkt hat — und ist damit heute keine sinnvolle Warnung mehr, sondern ein Vorurteil ohne technische Grundlage.
+
+Die Wahl des Materials — PVC, Aluminium oder Holz — ist nach echten Kriterien berechtigt: Wärmedämmung, Optik, Kosten, Haltbarkeit. Die Giftigkeit von modernem PVC ist seit 2015 kein relevantes Kriterium mehr.
 
 ## Häufig gestellte Fragen
 
 ### Ist das PVC in modernen Fenstern giftig?
 
-Nein. Moderne PVC-Fensterprofile sind bei normalen Betriebstemperaturen (−40°C bis +60°C) chemisch stabil und geben keine nachweisbaren flüchtigen Stoffe ab. Der Giftigkeitsmythos stammt aus den 1940er-1970er Jahren, als PVC mit Blei und Cadmium stabilisiert wurde — heute durch REACH verboten.
+Nein. Moderne PVC-Fensterprofile sind bei normalen Nutzungstemperaturen (−40 °C bis +60 °C) chemisch völlig stabil und geben keine nachweisbaren flüchtigen Stoffe ab. Der Mythos stammt aus den 1940er- bis 1970er-Jahren, als PVC mit Blei und Cadmium stabilisiert wurde — Stoffe, die heute durch REACH beschränkt sind.
 
 ### Was enthält ein modernes PVC-Fensterprofil tatsächlich?
 
-Ein modernes PVC-Profil enthält ~60-65% PVC-Harz (chemisch inert), bleifreie Calcium-Zink-Stabilisatoren, ungiftige Acryl-Modifikatoren, Titandioxid für die Farbe und Calciumcarbonat — dasselbe Material wie Eierschale. Es enthält kein Blei, Cadmium, Quecksilber oder Organozinnverbindungen mehr.
+Ein modernes PVC-Profil enthält ~60-65 % PVC-Harz (chemisch inert), bleifreie Calcium-Zink-Stabilisatoren, ungiftige Acrylmodifikatoren, Titandioxid für die Farbe und Calciumcarbonat — dasselbe Material wie Eierschalen. Es enthält kein Blei, Cadmium, Quecksilber und keine zinnorganischen Verbindungen mehr.
 
 ### Was passiert mit PVC-Fenstern bei einem Brand?
 
-PVC entzündet sich schwerer als Holz (>270°C gegenüber 220-260°C). Laut COWI-Studie für die Europäische Kommission (2001) liegt der Beitrag von PVC-Fenstern zur Brandgastoxizität in einem Haus unter 5% des Gesamtwerts — deutlich weniger als synthetischer Teppich oder Melaminmöbel.
+Hart-PVC entzündet sich schwerer als Holz (>270 °C gegenüber 220-260 °C) und erlischt von selbst, wenn die Flamme entfernt wird. Brennt es, setzt es Chlorwasserstoff frei; in einer Wohnung sind Fenster jedoch nur ein kleiner Teil der brennbaren Materialien, neben Synthetik-Teppichboden, melaminbeschichteten Möbeln und Elektrokabeln.
 
-### Warum unterscheiden sich PVC-Fenster der 1970er von den heutigen?
+### Warum unterscheiden sich PVC-Fenster der 1970er-Jahre von heutigen?
 
-Es sind chemisch unterschiedliche Produkte. Seit 2008 verwendet Salamander ausschließlich Calcium-Zink-Stabilisatoren, und die europäische Industrie hat Blei und Cadmium durch das ECVM-Programm und gesetzliche Verbote (Deutschland, 1994) vollständig eliminiert. Der Mythos überlebte die Chemie, die ihn schuf.
+Es sind chemisch verschiedene Produkte. Cadmium ist in der EU seit 1991 beschränkt, und Blei wurde durch die Selbstverpflichtung der Industrie bis Ende 2015 vollständig aus den Stabilisatoren entfernt. Salamander-Profile verwenden Calcium-Zink-Stabilisatoren. Der Mythos hat die Chemie überlebt, die ihn hervorgebracht hat.
 
----
+### Lassen sich alte PVC-Fenster recyceln?
 
-Neofort BIZ liefert Salamander Kunststofffenster mit bleifreien Calcium-Zink-Stabilisatoren in Bukarest und Ilfov. [Fragen Sie uns alles zum Material](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden eine Antwort. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc). Nützliche Seiten: [Ratgeber Kunststofffenster](/de/kunststofffenster-pvc/kompletter-ratgeber) und [Salamander-Profil greenEvolution 76 MD ROUND](/de/produkte/greenevolution-76-md-round-pvc-profil).
-`,
-      fr: `## D'où vient le mythe — une histoire documentée
-
-Le mythe de la toxicité du PVC ne vient pas de nulle part. Il a des racines réelles dans l'histoire de l'industrie chimique, mais est resté figé dans l'ère où les problèmes étaient réels — ignorant 40 ans de progrès technique.
-
-Dans les années 1940–1970, le PVC industriel était stabilisé avec des composés de plomb et de cadmium. Les recherches médicales des années 70 et 80 ont identifié des risques réels chez les travailleurs exposés. Les organisations environnementales d'Europe occidentale ont mené des campagnes soutenues dans les années 80 et 90 — efficaces médiatiquement, mais basées sur des données déjà dépassées par les modernisations chimiques en cours. Le problème : le mythe a survécu à la chimie qui l'avait engendré.
-
-## Composition chimique réelle du PVC moderne
-
-- **Résine PVC :** ~60-65% de la masse. Polymère chimiquement inerte à température normale, sans émissions sous 60°C.
-- **Stabilisants :** Jusqu'en 2015, les stabilisants au plomb étaient la norme européenne. Transition complète vers calcium-zinc (Ca-Zn) via le programme ECVM. Salamander utilise exclusivement Ca-Zn depuis 2008.
-- **Charges :** Carbonate de calcium (CaCO₃) — même matière que les coquilles d'œuf et le calcaire.
-
-**Ce que les profilés PVC modernes ne contiennent plus :** plomb, cadmium, mercure, composés organostanniques — tous interdits par le règlement REACH (CE) n° 1907/2006.
-
-## Comportement aux températures extrêmes
-
-**Normal (−40°C à +60°C) :** Stable chimiquement. Aucune substance volatile détectable. Testé selon EN 12608.
-
-**Élevé (60°C–140°C) :** Ramollissement progressif — transition de phase réversible, pas de combustion.
-
-**Point d'ignition (>270°C) :** Le PVC s'enflamme moins facilement que le bois (220-260°C). Selon l'étude COWI pour la Commission européenne (2001), la contribution du PVC à la toxicité des gaz d'incendie est estimée sous 5% des émissions totales.
-
-## Chronologie des modernisations
-
-**1994 :** Allemagne interdit les stabilisants au cadmium. **2006 :** REACH classe le plomb comme SVHC. **2008 :** Salamander finalise la transition vers Ca-Zn. **2015 :** Toute l'industrie européenne opère sans plomb — confirmé par audit VinylPlus.
-
-## Recyclabilité
-
-Un profilé PVC peut être retraité jusqu'à 8 fois. Entre 2000 et 2023, 7,7 millions de tonnes de PVC ont été recyclées en Europe (VinylPlus).
-
-Le choix du matériau de fenêtre est légitime sur la base de critères réels : performance thermique, esthétique, coût, durabilité. La toxicité du PVC moderne n'est plus un critère pertinent depuis 2015.
+Ja. Ein PVC-Profil kann bis zu 8-mal wiederverarbeitet werden, ohne nennenswert an mechanischen Eigenschaften zu verlieren. In Europa werden jährlich 700.000 bis 800.000 Tonnen PVC recycelt, und das Programm VinylPlus meldet 9,5 Millionen Tonnen zwischen 2000 und 2024, ein großer Teil davon aus alten Fenstern und Türen.
 
 ---
-Neofort BIZ fournit des profilés Salamander bluEvolution 92 avec stabilisants Ca-Zn certifiés REACH. [Demander un devis](/fr/contact). Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) que nous proposons. Voir aussi [la comparaison Salamander bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide).
+
+Neofort BIZ liefert Salamander-Kunststofffenster mit bleifreien Calcium-Zink-Stabilisatoren in Bukarest und Ilfov. [Fragen Sie uns alles über die Materialien](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden eine Antwort. Sehen Sie sich das [Kunststofffenster-Sortiment](/de/kunststofffenster-pvc) an, das wir anbieten, und den [Vergleich der Salamander-Systeme bluEvolution 92 und greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [der vollständige Ratgeber zu Kunststofffenstern](/de/kunststofffenster-pvc/kompletter-ratgeber) und [das Salamander-Profil greenEvolution 76 MD ROUND](/de/produkte/greenevolution-76-md-round-pvc-profil).`,
+      fr: `## D’où vient le mythe — un bref historique documenté
+
+Le mythe de la toxicité du PVC n’est pas né de rien. Il a de vraies racines dans l’histoire de l’industrie chimique, mais il est resté figé à l’époque où les problèmes étaient réels, en ignorant 40 ans de progrès technique.
+
+Dans les années 1940-1970, le PVC industriel était stabilisé avec des composés de plomb et de cadmium — des métaux lourds à la toxicité avérée. Ces substances servaient à empêcher la dégradation thermique du polymère pendant sa transformation. Les recherches médicales des années 1970 et 1980 ont identifié les risques : les ouvriers des usines de PVC exposés à de hautes températures sans équipement de protection présentaient des taux de plomb sanguin élevés.
+
+Les organisations environnementales d’Europe de l’Ouest — en particulier en Allemagne, en Autriche et aux Pays-Bas — ont mené une campagne soutenue contre le PVC dans les années 1980 et 1990, fondée sur ces données réelles, mais datant d’une période antérieure aux améliorations chimiques. La campagne a été efficace sur le plan médiatique, mais elle a créé une image qui ne correspondait plus au produit déjà fabriqué.
+
+Le problème, c’est que le mythe a survécu à la chimie qui l’a fait naître.
+
+## La composition chimique réelle du PVC moderne
+
+Le PVC — polychlorure de vinyle — est un polymère de synthèse obtenu par polymérisation du chlorure de vinyle monomère (CVM). Un profilé PVC moderne pour fenêtres se compose de :
+
+- **Résine PVC :** ~60-65 % de la masse. Un polymère chimiquement inerte dans les conditions normales d’utilisation, sans émissions en dessous de 60 °C.
+- **Stabilisants :** jusqu’en 2015, des stabilisants au plomb étaient encore utilisés dans l’industrie européenne. Le passage complet aux stabilisants calcium-zinc (Ca-Zn) s’est achevé fin 2015, grâce à l’engagement volontaire de l’industrie coordonné par l’ECVM (European Council of Vinyl Manufacturers) et l’ESPA. Les profilés Salamander utilisent des stabilisants Ca-Zn sans plomb.
+- **Modifiants choc :** composés acryliques qui améliorent la résistance aux chocs, non toxiques.
+- **Lubrifiants internes et externes :** esters d’acides gras ou polyéthylènes de faible masse moléculaire — biochimiquement inertes.
+- **Pigments :** dioxyde de titane (TiO₂) pour le blanc ou pigments minéraux pour les couleurs, liés dans la masse du profilé.
+- **Charges :** carbonate de calcium (CaCO₃) — le même matériau que la coquille d’œuf et le calcaire.
+
+**Ce que les profilés PVC modernes ne contiennent plus :** plomb, cadmium, mercure ou composés organostanniques — des substances aujourd’hui restreintes par le règlement REACH (CE) n° 1907/2006.
+
+## Le comportement aux températures extrêmes — des données réelles
+
+L’un des arguments les plus souvent avancés contre le PVC est son comportement à haute température. Séparons la fiction des données mesurables :
+
+**Aux températures normales d’utilisation (−40 °C à +60 °C) :** le PVC pour fenêtres est parfaitement stable chimiquement. Il n’émet aucune substance volatile détectable. Les profilés Salamander sont testés selon la norme EN 12608 au vieillissement thermique et aux variations de température, sans déformation ni émission.
+
+**À des températures plus élevées (60 °C–140 °C) :** le profilé PVC commence à ramollir progressivement. Ce n’est pas une combustion, mais un ramollissement réversible. Aucune substance toxique n’est libérée en quantité significative en dessous du point d’inflammation.
+
+**Au point d’inflammation (>270 °C) :** le PVC s’enflamme plus difficilement que le bois (point d’inflammation du bois sec : ~220-260 °C, du PVC : >270 °C) et s’éteint de lui-même quand on retire la flamme. Une fois enflammé, il produit des gaz de combustion contenant du chlorure d’hydrogène (HCl) — c’est le fondement de l’inquiétude réelle en cas d’incendie. Dans un logement, toutefois, les menuiseries ne représentent qu’une petite partie des matériaux qui brûlent : la moquette synthétique, les meubles en aggloméré mélaminé ou les câbles électriques y contribuent aussi, souvent davantage.
+
+**Par grand froid (sous −20 °C) :** le PVC plastifié devient cassant — mais les profilés de fenêtres sont en PVC **non plastifié** (PVC rigide ou PVC-U). La norme EN 12608 vérifie aussi la résistance aux chocs à température négative.
+
+## Pourquoi les fenêtres PVC des années 1970 et celles d’aujourd’hui sont des produits différents
+
+La confusion temporelle est la principale raison de la persistance du mythe. Voici la chronologie des améliorations importantes :
+
+**1985-1995 :** l’industrie européenne du PVC commence à réduire volontairement les composés de plomb et de cadmium. Les premiers stabilisants Ca-Zn de série arrivent sur le marché.
+
+**1991 :** la directive 91/338/CEE restreint l’usage du cadmium comme stabilisant dans les produits en PVC dans toute la Communauté européenne.
+
+**2001 :** l’engagement volontaire ECVM/ESPA d’éliminer totalement le plomb des stabilisants PVC d’ici 2015 — tenu dans les délais, fin 2015.
+
+**2007 :** le règlement REACH entre en vigueur et crée le cadre permettant d’identifier les substances extrêmement préoccupantes (SVHC) et de les restreindre dans les produits.
+
+**2015 :** l’industrie européenne des profilés PVC pour fenêtres fonctionne à 100 % sans stabilisants au plomb, comme le confirment les rapports du programme VinylPlus.
+
+**2023 :** l’UE restreint le plomb dans les articles en PVC par REACH, avec des exceptions limitées pour le PVC recyclé — la loi confirme ce que l’industrie avait déjà fait.
+
+## La recyclabilité : l’argument que le camp anti-PVC ignore
+
+L’une des ironies techniques du débat, c’est que le PVC est l’un des matériaux de construction les plus recyclables. Un profilé PVC peut être retraité jusqu’à 8 fois sans perte significative de ses propriétés mécaniques. L’industrie européenne recycle chaque année entre 700 000 et 800 000 tonnes de PVC, dont une part importante provient d’anciennes menuiseries.
+
+VinylPlus — le programme de développement durable de l’industrie européenne du PVC — indique qu’entre 2000 et 2024, 9,5 millions de tonnes de PVC ont été recyclées en Europe.
+
+## Ce que cela signifie concrètement pour votre logement
+
+Si vous avez des fenêtres Salamander BluEvolution 92 posées en 2026, vous possédez un produit qui :
+
+- ne contient ni plomb, ni cadmium, ni mercure, ni composés organostanniques
+- n’émet pas de composés organiques volatils (COV) détectables aux températures normales
+- est testé selon les normes EN 12608 (profilés PVC pour fenêtres) et EN 14351-1 (fenêtres et portes) et dispose d’une déclaration des performances conforme au règlement sur les produits de construction (RPC) 305/2011
+- a une durée de vie estimée à plus de 40 ans sans modification de ses propriétés mécaniques ni de sa couleur
+- peut être recyclé en fin de vie
+
+Le mythe du PVC toxique a joué un rôle utile en poussant l’industrie à éliminer les composés réellement problématiques. Mais cette pression a fonctionné. L’industrie a répondu par des données et de vraies modifications de formule. Le mythe a survécu aux changements qu’il a lui-même provoqués — ce qui en fait aujourd’hui non plus un avertissement utile, mais un préjugé sans fondement technique.
+
+Choisir le type de menuiserie — PVC, aluminium ou bois — est légitime selon des critères réels : performance thermique, esthétique, coût, durabilité. La toxicité du PVC moderne n’est plus un critère pertinent depuis 2015.
 
 ## Questions fréquentes
 
 ### Le PVC des fenêtres modernes est-il toxique ?
 
-Non. Les profilés PVC modernes sont chimiquement stables aux températures normales d'utilisation (−40°C à +60°C) et n'émettent aucune substance volatile détectable. Le mythe de la toxicité date des années 1940-1970, quand le PVC était stabilisé au plomb et au cadmium — substances aujourd'hui interdites par REACH.
+Non. Les profilés PVC modernes pour fenêtres sont parfaitement stables chimiquement aux températures normales d’utilisation (−40 °C à +60 °C) et n’émettent aucune substance volatile détectable. Le mythe remonte aux années 1940-1970, quand le PVC était stabilisé au plomb et au cadmium — des substances aujourd’hui restreintes par REACH.
 
 ### Que contient réellement un profilé PVC moderne pour fenêtres ?
 
-Un profilé PVC moderne contient ~60-65% de résine PVC (chimiquement inerte), des stabilisants Calcium-Zinc sans plomb, des modificateurs acryliques non toxiques, du dioxyde de titane pour la couleur et du carbonate de calcium — le même matériau que la coquille d'œuf. Il ne contient plus de plomb, cadmium, mercure ni composés organostanniques.
+Un profilé PVC moderne contient ~60-65 % de résine PVC (chimiquement inerte), des stabilisants calcium-zinc sans plomb, des modifiants acryliques non toxiques, du dioxyde de titane pour la couleur et du carbonate de calcium — le même matériau que la coquille d’œuf. Il ne contient plus ni plomb, ni cadmium, ni mercure, ni composés organostanniques.
 
-### Que deviennent les fenêtres PVC en cas d'incendie ?
+### Que deviennent les fenêtres PVC en cas d’incendie ?
 
-Le PVC s'enflamme plus difficilement que le bois (>270°C contre 220-260°C). Selon l'étude COWI pour la Commission européenne (2001), la contribution des menuiseries PVC à la toxicité des gaz d'incendie dans un logement est inférieure à 5% du total — bien moins que la moquette synthétique ou le mobilier mélaminé.
+Le PVC rigide s’enflamme plus difficilement que le bois (>270 °C contre 220-260 °C) et s’éteint de lui-même quand on retire la flamme. Une fois enflammé, il libère du chlorure d’hydrogène, mais dans un logement les menuiseries ne sont qu’une petite partie des matériaux qui brûlent, à côté de la moquette synthétique, des meubles mélaminés et des câbles électriques.
 
-### Pourquoi les fenêtres PVC des années 1970 diffèrent-elles d'aujourd'hui ?
+### Pourquoi les fenêtres PVC des années 1970 diffèrent-elles de celles d’aujourd’hui ?
 
-Ce sont des produits chimiquement différents. Depuis 2008, Salamander utilise exclusivement des stabilisants Calcium-Zinc, et l'industrie européenne a totalement éliminé le plomb et le cadmium via le programme ECVM et les interdictions légales (Allemagne, 1994). Le mythe a survécu à la chimie qui l'a engendré.
+Ce sont des produits chimiquement différents. Le cadmium est restreint dans l’UE depuis 1991, et le plomb a été totalement retiré des stabilisants fin 2015 grâce à l’engagement de l’industrie. Les profilés Salamander utilisent des stabilisants calcium-zinc. Le mythe a survécu à la chimie qui l’a fait naître.
 
----
+### Peut-on recycler les anciennes fenêtres PVC ?
 
-Neofort BIZ fournit des menuiseries PVC Salamander à stabilisants calcium-zinc, sans plomb, à Bucarest et dans l’Ilfov. [Posez-nous vos questions sur les matériaux](/fr/contact) et recevez une réponse sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc). Pages utiles : [le guide complet de la menuiserie PVC](/fr/menuiserie-pvc/guide-complet) et [le profilé Salamander greenEvolution 76 MD ROUND](/fr/produits/profil-pvc-greenevolution-76-md-round).
-`,
-      es: `## De dónde viene el mito — una historia documentada
-
-El mito de la toxicidad del PVC no surgió de la nada. Tiene raíces reales en la historia de la industria química, pero quedó congelado en la era en que los problemas eran reales — ignorando 40 años de progreso técnico.
-
-En los años 1940–1970, el PVC industrial se estabilizaba con compuestos de plomo y cadmio. Las investigaciones médicas de los años 70 y 80 identificaron riesgos reales en trabajadores expuestos. Las organizaciones medioambientales de Europa occidental realizaron campañas sostenidas en los años 80 y 90 — eficaces mediáticamente, pero basadas en datos ya superados por las modernizaciones químicas en curso. El problema: el mito sobrevivió a la química que lo generó.
-
-## Composición química real del PVC moderno
-
-- **Resina PVC:** ~60-65% de la masa. Polímero inerte bajo condiciones normales de uso, sin emisiones por debajo de 60°C.
-- **Estabilizadores:** Hasta 2015, los estabilizadores de plomo eran la norma industrial europea. Transición completa a calcio-zinc (Ca-Zn) mediante el programa ECVM. Salamander usa exclusivamente Ca-Zn desde 2008.
-- **Cargas:** Carbonato de calcio (CaCO₃) — el mismo material que las cáscaras de huevo y la piedra caliza.
-
-**Lo que los perfiles PVC modernos ya no contienen:** plomo, cadmio, mercurio, compuestos organoestaño — todos prohibidos por el Reglamento REACH (CE) n.º 1907/2006.
-
-## Comportamiento a temperaturas extremas
-
-**Normal (−40°C a +60°C):** Estable químicamente. Sin sustancias volátiles detectables. Probado según EN 12608.
-
-**Elevada (60°C–140°C):** Ablandamiento progresivo — transición de fase reversible, no combustión.
-
-**Punto de ignición (>270°C):** El PVC se inflama menos fácilmente que la madera (220-260°C). Según el estudio COWI para la Comisión Europea (2001), la contribución del PVC a la toxicidad de los gases de incendio se estima por debajo del 5% de las emisiones totales.
-
-## Cronología de modernizaciones
-
-**1994:** Alemania prohíbe estabilizadores de cadmio. **2006:** REACH clasifica el plomo como SVHC. **2008:** Salamander completa la transición a Ca-Zn. **2015:** Toda la industria europea opera sin plomo — confirmado por auditoría VinylPlus.
-
-## Reciclabilidad
-
-Un perfil PVC puede reprocesarse hasta 8 veces. Entre 2000 y 2023, se reciclaron 7,7 millones de toneladas de PVC en Europa (VinylPlus).
-
-La elección del material de ventana es legítima según criterios reales: rendimiento térmico, estética, coste, durabilidad. La toxicidad del PVC moderno no ha sido un criterio relevante desde 2015.
+Oui. Un profilé PVC peut être retraité jusqu’à 8 fois sans perte significative de ses propriétés mécaniques. L’Europe recycle chaque année entre 700 000 et 800 000 tonnes de PVC, et le programme VinylPlus fait état de 9,5 millions de tonnes recyclées entre 2000 et 2024, dont une grande partie issue d’anciennes menuiseries.
 
 ---
-Neofort BIZ suministra perfiles Salamander bluEvolution 92 con estabilizadores Ca-Zn certificados REACH. [Solicitar presupuesto](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos. Ver también [la comparación Salamander bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
+
+Neofort BIZ fournit des menuiseries PVC Salamander à stabilisants calcium-zinc sans plomb, à Bucarest et dans l’Ilfov. [Posez-nous toutes vos questions sur les matériaux](/fr/contact) et recevez une réponse sous 48 heures. Découvrez la [gamme de menuiserie PVC](/fr/menuiserie-pvc) que nous proposons et la [comparaison des systèmes Salamander bluEvolution 92 et greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le guide complet de la menuiserie PVC](/fr/menuiserie-pvc/guide-complet) et [le profilé Salamander greenEvolution 76 MD ROUND](/fr/produits/profil-pvc-greenevolution-76-md-round).`,
+      es: `## De dónde viene el mito — breve historia documentada
+
+El mito de la toxicidad del PVC no surgió de la nada. Tiene raíces reales en la historia de la industria química, pero se quedó congelado en los años en que los problemas eran reales, ignorando 40 años de progreso técnico.
+
+Entre los años 1940 y 1970, el PVC industrial se estabilizaba con compuestos de plomo y cadmio, metales pesados de toxicidad probada. Estas sustancias se usaban para evitar la degradación térmica del polímero durante su transformación. Las investigaciones médicas de los años 70 y 80 identificaron los riesgos: los trabajadores de las fábricas de PVC expuestos a altas temperaturas sin equipos de protección tenían niveles elevados de plomo en sangre.
+
+Las organizaciones ecologistas de Europa occidental, en especial de Alemania, Austria y los Países Bajos, mantuvieron una campaña contra el PVC en los años 80 y 90, basada en esos datos reales, pero de una época anterior a las mejoras químicas. La campaña fue eficaz en los medios, pero creó una imagen que ya no correspondía al producto que se fabricaba.
+
+El problema es que el mito sobrevivió a la química que lo originó.
+
+## La composición química real del PVC moderno
+
+El PVC, policloruro de vinilo, es un polímero sintético obtenido por polimerización del monómero cloruro de vinilo (VCM). Un perfil de PVC moderno para ventanas se compone de:
+
+- **Resina de PVC:** ~60-65 % de la masa. Polímero químicamente inerte en condiciones normales de uso, sin emisiones por debajo de 60 °C.
+- **Estabilizantes:** hasta 2015 todavía se usaban estabilizantes de plomo en la industria europea. El paso completo a estabilizantes de calcio-zinc (Ca-Zn) terminó a finales de 2015, mediante el compromiso voluntario de la industria coordinado por ECVM (European Council of Vinyl Manufacturers) y ESPA. Los perfiles Salamander utilizan estabilizantes Ca-Zn sin plomo.
+- **Modificadores de impacto:** compuestos acrílicos que mejoran la resistencia a los golpes, no tóxicos.
+- **Lubricantes internos y externos:** ésteres de ácidos grasos o polietilenos de bajo peso molecular, bioquímicamente inertes.
+- **Pigmentos:** dióxido de titanio (TiO₂) para el blanco o pigmentos inorgánicos para los colores, ligados a la masa del perfil.
+- **Cargas:** carbonato de calcio (CaCO₃), el mismo material de la cáscara de huevo y la piedra caliza.
+
+**Lo que ya no contienen los perfiles de PVC modernos:** plomo, cadmio, mercurio ni compuestos organoestánnicos, sustancias hoy restringidas por el Reglamento REACH (CE) n.º 1907/2006.
+
+## El comportamiento a temperaturas extremas: datos reales
+
+Uno de los argumentos más repetidos contra el PVC es su comportamiento a altas temperaturas. Separemos la ficción de los datos medibles:
+
+**A temperaturas normales de uso (−40 °C a +60 °C):** el PVC para ventanas es totalmente estable químicamente. No emite sustancias volátiles detectables. Los perfiles Salamander se ensayan según la norma EN 12608 frente al envejecimiento térmico y los cambios de temperatura, sin deformaciones ni emisiones.
+
+**A temperaturas más altas (60 °C–140 °C):** el perfil de PVC empieza a reblandecerse poco a poco. No es una combustión, sino un reblandecimiento reversible. Por debajo del punto de ignición no se liberan sustancias tóxicas en cantidades significativas.
+
+**En el punto de ignición (>270 °C):** el PVC prende con más dificultad que la madera (punto de ignición de la madera seca: ~220-260 °C; del PVC: >270 °C) y se autoextingue al retirar la llama. Una vez encendido, produce gases de combustión que incluyen cloruro de hidrógeno (HCl): esa es la base de la preocupación real en caso de incendio. En una vivienda, sin embargo, la carpintería es solo una pequeña parte de los materiales que arden: la moqueta sintética, los muebles de aglomerado melaminado o los cables eléctricos también contribuyen, a menudo más.
+
+**Con heladas extremas (por debajo de −20 °C):** el PVC plastificado se vuelve frágil, pero los perfiles de ventana son de PVC **no plastificado** (PVC rígido o PVC-U). La norma EN 12608 comprueba también la resistencia al impacto a temperatura bajo cero.
+
+## Por qué las ventanas de PVC de los años 70 y las de hoy son productos distintos
+
+La confusión temporal es la principal razón por la que el mito resiste. Esta es la cronología de las mejoras relevantes:
+
+**1985-1995:** la industria europea del PVC empieza a reducir voluntariamente los compuestos de plomo y cadmio. Llegan al mercado los primeros estabilizantes Ca-Zn de serie.
+
+**1991:** la Directiva 91/338/CEE restringe el uso del cadmio como estabilizante en los productos de PVC en toda la Comunidad Europea.
+
+**2001:** el compromiso voluntario de ECVM/ESPA de eliminar por completo el plomo de los estabilizantes de PVC antes de 2015, cumplido en plazo a finales de 2015.
+
+**2007:** entra en vigor el Reglamento REACH, que crea el marco para identificar las sustancias extremadamente preocupantes (SVHC) y restringirlas en los productos.
+
+**2015:** la industria europea de perfiles de PVC para ventanas trabaja al 100 % sin estabilizantes de plomo, según confirman los informes del programa VinylPlus.
+
+**2023:** la UE restringe el plomo en los artículos de PVC mediante REACH, con excepciones limitadas para el PVC reciclado: la ley confirma lo que la industria ya había hecho.
+
+## La reciclabilidad: el argumento que el lobby anti-PVC ignora
+
+Una de las ironías técnicas del debate es que el PVC es uno de los materiales de construcción más reciclables. Un perfil de PVC puede reprocesarse hasta 8 veces sin pérdida significativa de sus propiedades mecánicas. La industria europea recicla cada año entre 700.000 y 800.000 toneladas de PVC, buena parte de ellas procedentes de carpintería antigua.
+
+VinylPlus, el programa de sostenibilidad de la industria europea del PVC, informa de que entre 2000 y 2024 se reciclaron en Europa 9,5 millones de toneladas de PVC.
+
+## Qué significa en concreto para su vivienda
+
+Si tiene ventanas Salamander BluEvolution 92 instaladas en 2026, es propietario de un producto que:
+
+- No contiene plomo, cadmio, mercurio ni compuestos organoestánnicos
+- No emite compuestos orgánicos volátiles (COV) detectables a temperaturas normales
+- Está ensayado según EN 12608 (perfiles de PVC para ventanas) y EN 14351-1 (ventanas y puertas) y cuenta con declaración de prestaciones conforme al Reglamento de Productos de Construcción (RPC) 305/2011
+- Tiene una vida útil estimada de más de 40 años sin cambios en sus propiedades mecánicas ni en su color
+- Puede reciclarse al final de su vida útil
+
+El mito del PVC tóxico tuvo un papel útil al presionar a la industria para eliminar los compuestos realmente problemáticos. Pero esa presión funcionó. La industria respondió con datos y con cambios reales en sus fórmulas. El mito sobrevivió a los cambios que él mismo provocó, lo que hoy lo convierte no en una advertencia útil, sino en un prejuicio sin base técnica.
+
+Elegir el tipo de carpintería, PVC, aluminio o madera, es legítimo según criterios reales: rendimiento térmico, estética, coste y durabilidad. La toxicidad del PVC moderno ha dejado de ser un criterio relevante desde 2015.
 
 ## Preguntas frecuentes
 
 ### ¿Es tóxico el PVC de las ventanas modernas?
 
-No. Los perfiles de PVC modernos son químicamente estables a temperaturas normales de uso (−40°C a +60°C) y no emiten sustancias volátiles detectables. El mito de la toxicidad viene de los años 1940-1970, cuando el PVC se estabilizaba con plomo y cadmio — sustancias hoy prohibidas por REACH.
+No. Los perfiles de PVC modernos para ventanas son totalmente estables químicamente a temperaturas normales de uso (−40 °C a +60 °C) y no emiten sustancias volátiles detectables. El mito viene de los años 1940-1970, cuando el PVC se estabilizaba con plomo y cadmio, sustancias hoy restringidas por REACH.
 
 ### ¿Qué contiene realmente un perfil de PVC moderno para ventanas?
 
-Un perfil de PVC moderno contiene ~60-65% de resina PVC (químicamente inerte), estabilizantes Calcio-Zinc sin plomo, modificadores acrílicos no tóxicos, dióxido de titanio para el color y carbonato de calcio — el mismo material que la cáscara de huevo. Ya no contiene plomo, cadmio, mercurio ni compuestos organoestánnicos.
+Un perfil de PVC moderno contiene ~60-65 % de resina de PVC (químicamente inerte), estabilizantes de calcio-zinc sin plomo, modificadores acrílicos no tóxicos, dióxido de titanio para el color y carbonato de calcio, el mismo material de la cáscara de huevo. Ya no contiene plomo, cadmio, mercurio ni compuestos organoestánnicos.
 
-### ¿Qué les ocurre a las ventanas de PVC en un incendio?
+### ¿Qué pasa con las ventanas de PVC en un incendio?
 
-El PVC se enciende con más dificultad que la madera (>270°C frente a 220-260°C). Según el estudio COWI para la Comisión Europea (2001), la contribución de la carpintería de PVC a la toxicidad de los gases de incendio en una vivienda es inferior al 5% del total — mucho menos que la moqueta sintética o el mobiliario de melamina.
+El PVC rígido prende con más dificultad que la madera (>270 °C frente a 220-260 °C) y se autoextingue al retirar la llama. Una vez encendido libera cloruro de hidrógeno, pero en una vivienda la carpintería es solo una pequeña parte de los materiales que arden, junto a la moqueta sintética, los muebles melaminados y los cables eléctricos.
 
 ### ¿Por qué las ventanas de PVC de los años 70 son distintas de las actuales?
 
-Son productos químicamente diferentes. Desde 2008, Salamander usa exclusivamente estabilizantes Calcio-Zinc, y la industria europea ha eliminado por completo el plomo y el cadmio mediante el programa ECVM y las prohibiciones legales (Alemania, 1994). El mito sobrevivió a la química que lo generó.
+Son productos químicamente diferentes. El cadmio está restringido en la UE desde 1991, y el plomo se eliminó por completo de los estabilizantes a finales de 2015 gracias al compromiso de la industria. Los perfiles Salamander utilizan estabilizantes de calcio-zinc. El mito sobrevivió a la química que lo originó.
+
+### ¿Se pueden reciclar las ventanas de PVC antiguas?
+
+Sí. Un perfil de PVC puede reprocesarse hasta 8 veces sin perder de forma significativa sus propiedades mecánicas. En Europa se reciclan cada año entre 700.000 y 800.000 toneladas de PVC, y el programa VinylPlus informa de 9,5 millones de toneladas recicladas entre 2000 y 2024, buena parte de carpintería antigua.
 
 ---
 
-Neofort BIZ suministra carpintería PVC Salamander con estabilizantes de calcio-zinc, sin plomo, en Bucarest e Ilfov. [Pregúntenos lo que quiera sobre los materiales](/es/contacto) y recibirá respuesta en 48 horas. Vea nuestra [gama PVC](/es/carpinteria-pvc). Páginas útiles: [la guía completa de carpintería PVC](/es/carpinteria-pvc/guia-completa) y [el perfil Salamander greenEvolution 76 MD ROUND](/es/productos/perfil-pvc-greenevolution-76-md-round).
-`,
-      it: `## Da dove viene il mito — una storia documentata
+Neofort BIZ suministra carpintería de PVC Salamander con estabilizantes de calcio-zinc sin plomo en Bucarest e Ilfov. [Pregúntenos lo que quiera sobre los materiales](/es/contacto) y recibirá respuesta en 48 horas. Vea la [gama de carpintería de PVC](/es/carpinteria-pvc) que ofrecemos y la [comparación de los sistemas Salamander bluEvolution 92 y greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [la guía completa de la carpintería de PVC](/es/carpinteria-pvc/guia-completa) y [el perfil Salamander greenEvolution 76 MD ROUND](/es/productos/perfil-pvc-greenevolution-76-md-round).`,
+      it: `## Da dove nasce il mito — breve storia documentata
 
-Il mito della tossicità del PVC non è emerso dal nulla. Ha radici reali nella storia dell'industria chimica, ma è rimasto congelato nell'era in cui i problemi erano reali — ignorando 40 anni di progresso tecnico.
+Il mito della tossicità del PVC non è nato dal nulla. Ha radici reali nella storia dell’industria chimica, ma è rimasto fermo agli anni in cui i problemi erano reali, ignorando 40 anni di progresso tecnico.
 
-Negli anni 1940–1970, il PVC industriale veniva stabilizzato con composti di piombo e cadmio. Le ricerche mediche degli anni 70 e 80 identificarono rischi reali nei lavoratori esposti. Le organizzazioni ambientaliste dell'Europa occidentale condussero campagne sostenute negli anni 80 e 90 — efficaci mediaticamente, ma basate su dati già superati dalle modernizzazioni chimiche in corso. Il problema: il mito sopravvisse alla chimica che lo aveva generato.
+Tra gli anni ’40 e ’70 il PVC industriale veniva stabilizzato con composti di piombo e cadmio, metalli pesanti di tossicità accertata. Queste sostanze servivano a impedire la degradazione termica del polimero durante la lavorazione. Le ricerche mediche degli anni ’70 e ’80 hanno individuato i rischi: gli operai degli stabilimenti di PVC esposti ad alte temperature senza dispositivi di protezione avevano livelli elevati di piombo nel sangue.
 
-## Composizione chimica reale del PVC moderno
+Le organizzazioni ambientaliste dell’Europa occidentale, soprattutto in Germania, Austria e Paesi Bassi, hanno condotto negli anni ’80 e ’90 una campagna costante contro il PVC, basata su questi dati reali, ma risalenti a un periodo precedente ai miglioramenti chimici. La campagna ha funzionato sui media, ma ha creato un’immagine che non corrispondeva più al prodotto già in produzione.
 
-- **Resina PVC:** ~60-65% della massa. Polimero inerte in condizioni normali di utilizzo, senza emissioni sotto i 60°C.
-- **Stabilizzanti:** Fino al 2015, gli stabilizzanti al piombo erano lo standard europeo. Transizione completa al calcio-zinco (Ca-Zn) tramite il programma ECVM. Salamander usa esclusivamente Ca-Zn dal 2008.
-- **Cariche:** Carbonato di calcio (CaCO₃) — lo stesso materiale dei gusci d'uovo e del calcare.
+Il problema è che il mito è sopravvissuto alla chimica che lo aveva generato.
 
-**Cosa i profili PVC moderni non contengono più:** piombo, cadmio, mercurio, composti organostanici — tutti vietati dal Regolamento REACH (CE) n. 1907/2006.
+## La reale composizione chimica del PVC moderno
 
-## Comportamento alle temperature estreme
+Il PVC, cloruro di polivinile, è un polimero sintetico ottenuto dalla polimerizzazione del monomero cloruro di vinile (CVM). Un moderno profilo in PVC per finestre è composto da:
 
-**Normale (−40°C a +60°C):** Chimicamente stabile. Nessuna sostanza volatile rilevabile. Testato secondo EN 12608.
+- **Resina PVC:** ~60-65% della massa. Un polimero chimicamente inerte nelle normali condizioni d’uso, senza emissioni sotto i 60 °C.
+- **Stabilizzanti:** fino al 2015 nell’industria europea si usavano ancora stabilizzanti al piombo. Il passaggio completo agli stabilizzanti calcio-zinco (Ca-Zn) si è concluso alla fine del 2015, con l’impegno volontario dell’industria coordinato da ECVM (European Council of Vinyl Manufacturers) ed ESPA. I profili Salamander usano stabilizzanti Ca-Zn senza piombo.
+- **Modificatori d’urto:** composti acrilici che migliorano la resistenza agli urti, non tossici.
+- **Lubrificanti interni ed esterni:** esteri di acidi grassi o polietileni a basso peso molecolare, biochimicamente inerti.
+- **Pigmenti:** biossido di titanio (TiO₂) per il bianco o pigmenti inorganici per i colori, legati nella massa del profilo.
+- **Cariche:** carbonato di calcio (CaCO₃), lo stesso materiale del guscio d’uovo e del calcare.
 
-**Elevata (60°C–140°C):** Ammorbidimento progressivo — transizione di fase reversibile, non combustione.
+**Cosa non contengono più i profili in PVC moderni:** piombo, cadmio, mercurio o composti organostannici, sostanze oggi soggette a restrizione dal Regolamento REACH (CE) n. 1907/2006.
 
-**Punto di accensione (>270°C):** Il PVC si accende meno facilmente del legno (220-260°C). Secondo lo studio COWI per la Commissione Europea (2001), il contributo del PVC alla tossicità dei gas di incendio è stimato sotto il 5% delle emissioni totali.
+## Il comportamento alle temperature estreme: dati reali
 
-## Cronologia delle modernizzazioni
+Uno degli argomenti più citati contro il PVC è il suo comportamento alle alte temperature. Separiamo la finzione dai dati misurabili:
 
-**1994:** Germania vieta gli stabilizzanti al cadmio. **2006:** REACH classifica il piombo come SVHC. **2008:** Salamander completa la transizione a Ca-Zn. **2015:** Tutta l'industria europea opera senza piombo — confermato da audit VinylPlus.
+**Alle normali temperature d’uso (−40 °C fino a +60 °C):** il PVC per finestre è perfettamente stabile dal punto di vista chimico. Non emette sostanze volatili rilevabili. I profili Salamander sono testati secondo la EN 12608 per l’invecchiamento termico e le variazioni di temperatura, senza deformazioni né emissioni.
 
-## Riciclabilità
+**A temperature più alte (60 °C–140 °C):** il profilo in PVC inizia ad ammorbidirsi gradualmente. Non è una combustione, ma un rammollimento reversibile. Sotto il punto di accensione non vengono rilasciate sostanze tossiche in quantità significative.
 
-Un profilo PVC può essere rielaborato fino a 8 volte. Tra il 2000 e il 2023, sono state riciclate 7,7 milioni di tonnellate di PVC in Europa (VinylPlus).
+**Al punto di accensione (>270 °C):** il PVC si accende più difficilmente del legno (punto di accensione del legno secco: ~220-260 °C; del PVC: >270 °C) e si autoestingue quando si toglie la fiamma. Una volta acceso, produce gas di combustione che contengono acido cloridrico (HCl): è questa la base della preoccupazione reale in caso di incendio. In un’abitazione, però, i serramenti sono solo una piccola parte dei materiali che bruciano: la moquette sintetica, i mobili in truciolare melaminico e i cavi elettrici contribuiscono anch’essi, spesso di più.
 
-La scelta del materiale della finestra è legittima in base a criteri reali: prestazione termica, estetica, costo, durata. La tossicità del PVC moderno non è più un criterio rilevante dal 2015.
+**Con gelo estremo (sotto −20 °C):** il PVC plastificato diventa fragile, ma i profili per finestre sono in PVC **non plastificato** (PVC rigido o PVC-U). La norma EN 12608 verifica anche la resistenza all’urto a temperatura sotto zero.
 
----
-Neofort BIZ fornisce profili Salamander bluEvolution 92 con stabilizzanti Ca-Zn certificati REACH. [Richiedi preventivo](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo. Vedi anche [il confronto Salamander bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
+## Perché le finestre in PVC degli anni ’70 e quelle di oggi sono prodotti diversi
+
+La confusione temporale è la ragione principale per cui il mito resiste. Ecco la cronologia dei miglioramenti rilevanti:
+
+**1985-1995:** l’industria europea del PVC inizia a ridurre volontariamente i composti di piombo e cadmio. Arrivano sul mercato i primi stabilizzanti Ca-Zn di serie.
+
+**1991:** la Direttiva 91/338/CEE limita l’uso del cadmio come stabilizzante nei prodotti in PVC in tutta la Comunità europea.
+
+**2001:** l’impegno volontario ECVM/ESPA di eliminare completamente il piombo dagli stabilizzanti del PVC entro il 2015, rispettato nei tempi, alla fine del 2015.
+
+**2007:** entra in vigore il Regolamento REACH, che crea il quadro per individuare le sostanze estremamente preoccupanti (SVHC) e limitarne l’uso nei prodotti.
+
+**2015:** l’industria europea dei profili in PVC per finestre lavora al 100% senza stabilizzanti al piombo, come confermano i rapporti del programma VinylPlus.
+
+**2023:** l’UE limita con il REACH il piombo negli articoli in PVC, con eccezioni limitate per il PVC riciclato: la legge conferma ciò che l’industria aveva già fatto.
+
+## La riciclabilità: l’argomento che il fronte anti-PVC ignora
+
+Una delle ironie tecniche del dibattito è che il PVC è uno dei materiali da costruzione più riciclabili. Un profilo in PVC può essere rilavorato fino a 8 volte senza perdite significative delle proprietà meccaniche. L’industria europea ricicla ogni anno tra 700.000 e 800.000 tonnellate di PVC, in buona parte provenienti da vecchi serramenti.
+
+VinylPlus, il programma di sostenibilità dell’industria europea del PVC, riporta che tra il 2000 e il 2024 in Europa sono state riciclate 9,5 milioni di tonnellate di PVC.
+
+## Cosa significa concretamente per la vostra casa
+
+Se avete finestre Salamander BluEvolution 92 posate nel 2026, possedete un prodotto che:
+
+- Non contiene piombo, cadmio, mercurio né composti organostannici
+- Non emette composti organici volatili (COV) rilevabili alle normali temperature
+- È testato secondo la EN 12608 (profili in PVC per finestre) e la EN 14351-1 (finestre e porte) e ha una dichiarazione di prestazione conforme al Regolamento Prodotti da Costruzione (CPR) 305/2011
+- Ha una durata stimata di oltre 40 anni senza modifiche delle proprietà meccaniche o del colore
+- Può essere riciclato a fine vita
+
+Il mito del PVC tossico ha avuto un ruolo utile nello spingere l’industria a eliminare i composti davvero problematici. Ma quella pressione ha funzionato. L’industria ha risposto con dati e con modifiche reali delle formule. Il mito è sopravvissuto ai cambiamenti che lui stesso aveva provocato: per questo oggi non è più un avvertimento utile, ma un pregiudizio senza basi tecniche.
+
+Scegliere il tipo di serramento, PVC, alluminio o legno, è legittimo in base a criteri reali: prestazioni termiche, estetica, costo, durata. La tossicità del PVC moderno non è più un criterio rilevante dal 2015.
 
 ## Domande frequenti
 
 ### Il PVC delle finestre moderne è tossico?
 
-No. I profili in PVC moderni sono chimicamente stabili alle normali temperature d'uso (−40°C a +60°C) e non emettono sostanze volatili rilevabili. Il mito della tossicità risale agli anni 1940-1970, quando il PVC era stabilizzato con piombo e cadmio — sostanze oggi vietate dal REACH.
+No. I moderni profili in PVC per finestre sono perfettamente stabili dal punto di vista chimico alle normali temperature d’uso (−40 °C fino a +60 °C) e non emettono sostanze volatili rilevabili. Il mito risale agli anni ’40-’70, quando il PVC era stabilizzato con piombo e cadmio, sostanze oggi limitate dal REACH.
 
-### Cosa contiene davvero un profilo in PVC moderno per finestre?
+### Che cosa contiene davvero un moderno profilo in PVC per finestre?
 
-Un profilo in PVC moderno contiene ~60-65% di resina PVC (chimicamente inerte), stabilizzanti Calcio-Zinco senza piombo, modificatori acrilici non tossici, biossido di titanio per il colore e carbonato di calcio — lo stesso materiale del guscio d'uovo. Non contiene più piombo, cadmio, mercurio o composti organostannici.
+Un moderno profilo in PVC contiene ~60-65% di resina PVC (chimicamente inerte), stabilizzanti calcio-zinco senza piombo, modificatori acrilici non tossici, biossido di titanio per il colore e carbonato di calcio, lo stesso materiale del guscio d’uovo. Non contiene più piombo, cadmio, mercurio né composti organostannici.
 
 ### Cosa succede alle finestre in PVC in caso di incendio?
 
-Il PVC si accende più difficilmente del legno (>270°C contro 220-260°C). Secondo lo studio COWI per la Commissione Europea (2001), il contributo dei serramenti in PVC alla tossicità dei gas d'incendio in un'abitazione è sotto il 5% del totale — molto meno della moquette sintetica o dei mobili in melamminico.
+Il PVC rigido si accende più difficilmente del legno (>270 °C contro 220-260 °C) e si autoestingue quando si toglie la fiamma. Una volta acceso rilascia acido cloridrico, ma in un’abitazione i serramenti sono solo una piccola parte dei materiali che bruciano, insieme a moquette sintetica, mobili melaminici e cavi elettrici.
 
-### Perché le finestre in PVC degli anni '70 sono diverse da quelle di oggi?
+### Perché le finestre in PVC degli anni ’70 sono diverse da quelle di oggi?
 
-Sono prodotti chimicamente diversi. Dal 2008, Salamander usa esclusivamente stabilizzanti Calcio-Zinco, e l'industria europea ha eliminato completamente piombo e cadmio tramite il programma ECVM e i divieti legali (Germania, 1994). Il mito è sopravvissuto alla chimica che lo ha generato.
+Sono prodotti chimicamente diversi. Il cadmio è soggetto a restrizioni nell’UE dal 1991 e il piombo è stato eliminato del tutto dagli stabilizzanti entro la fine del 2015, grazie all’impegno dell’industria. I profili Salamander usano stabilizzanti calcio-zinco. Il mito è sopravvissuto alla chimica che lo aveva generato.
+
+### Le vecchie finestre in PVC si possono riciclare?
+
+Sì. Un profilo in PVC può essere rilavorato fino a 8 volte senza perdere in modo significativo le sue proprietà meccaniche. In Europa si riciclano ogni anno tra 700.000 e 800.000 tonnellate di PVC, e il programma VinylPlus riporta 9,5 milioni di tonnellate riciclate tra il 2000 e il 2024, in buona parte da vecchi serramenti.
 
 ---
 
-Neofort BIZ fornisce serramenti in PVC Salamander con stabilizzanti calcio-zinco, senza piombo, a Bucarest e nell’Ilfov. [Chiedeteci qualsiasi cosa sui materiali](/it/contatti) e riceverete risposta entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc). Pagine utili: [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa) e [il profilo Salamander greenEvolution 76 MD ROUND](/it/prodotti/profilo-pvc-greenevolution-76-md-round).
-`,
+Neofort BIZ fornisce infissi in PVC Salamander con stabilizzanti calcio-zinco senza piombo a Bucarest e in provincia di Ilfov. [Chiedeteci qualsiasi cosa sui materiali](/it/contatti) e riceverete una risposta entro 48 ore. Scoprite la [gamma di infissi in PVC](/it/infissi-pvc) che offriamo e il [confronto tra i sistemi Salamander bluEvolution 92 e greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa) e [il profilo Salamander greenEvolution 76 MD ROUND](/it/prodotti/profilo-pvc-greenevolution-76-md-round).`,
     },
   },
 
@@ -28216,11 +28558,11 @@ Neofort BIZ fornisce e posa porte in alluminio Alumil in tutta Bucarest e nell�
     },
     seoTitle: {
       ro: "Tâmplărie PVC osciloculisantă dublă",
-      en: "Double tilt-and-turn PVC windows",
-      de: "PVC Dreh-Kipp-Fenster",
-      fr: "Fenêtre PVC oscillo-battante",
-      es: "Ventana PVC oscilobatiente",
-      it: "Finestra PVC anta-ribalta",
+      en: "Double tilt-and-slide PVC windows",
+      de: "PVC-Fenster Parallel-Schiebe-Kipp (PSK)",
+      fr: "Fenêtre PVC oscillo-coulissante",
+      es: "Ventana PVC oscilo-paralela",
+      it: "Finestra PVC scorrevole a ribalta",
     },
     date: '2026-03-25',
     author: 'Mihai Dănălache',
@@ -28239,63 +28581,76 @@ Neofort BIZ fornisce e posa porte in alluminio Alumil in tutta Bucarest e nell�
       position: 'after-intro',
     },
     title: {
-      ro: 'Tâmplărie PVC Osciloculisantă Dublă Salamander — Ghid complet: avantaje, izolare, durată de viață',
-      en: 'Double Tilt-and-Turn PVC Windows Salamander — Complete Guide: Benefits, Insulation, Lifespan',
-      de: 'Salamander Dreh-Kipp PVC-Fenster mit Doppelflügel — Vollständiger Leitfaden: Vorteile, Dämmung, Lebensdauer',
-      fr: 'Fenêtre PVC oscillo-battante double Salamander — Guide complet : avantages, isolation, durée de vie',
-      es: 'Ventana PVC oscilobatiente doble Salamander — Guía completa: ventajas, aislamiento, vida útil',
-      it: 'Finestra PVC anta e ribalta doppia Salamander — Guida completa: vantaggi, isolamento, durata',
+      ro: 'Tâmplărie PVC Osciloculisantă Dublă Salamander — Ghid complet: cum funcționează, izolare, durată de viață',
+      en: 'Double Tilt-and-Slide PVC Windows Salamander — Complete Guide: How They Work, Insulation, Lifespan',
+      de: 'Salamander PVC-Parallel-Schiebe-Kipp-Fenster, zweiteilig — Leitfaden: Funktion, Dämmung, Lebensdauer',
+      fr: 'Fenêtre PVC oscillo-coulissante double Salamander — Guide complet : fonctionnement, isolation, durée de vie',
+      es: 'Ventana PVC oscilo-paralela doble Salamander — Guía completa: funcionamiento, aislamiento, vida útil',
+      it: 'Finestra PVC scorrevole a ribalta doppia Salamander — Guida completa: funzionamento, isolamento, durata',
     },
     excerpt: {
-      ro: 'Osciloculisanta dublă Salamander — cea mai versatilă soluție de tâmplărie PVC pentru case și apartamente din București și Ilfov. Descoperă cum funcționează, ce izolare oferă și cât durează.',
-      en: 'Double tilt-and-turn Salamander windows — the most versatile PVC joinery solution for homes in Bucharest. Discover how they work, their insulation performance and expected lifespan.',
-      de: 'Salamander Dreh-Kipp-Doppelfenster — die vielseitigste PVC-Lösung für Häuser in Bukarest. Funktionsweise, Dämmeigenschaften und Lebensdauer im Überblick.',
-      fr: 'La fenêtre oscillo-battante double Salamander — la solution PVC la plus polyvalente pour les logements à Bucarest. Fonctionnement, isolation et durée de vie.',
-      es: 'La ventana oscilobatiente doble Salamander — la solución PVC más versátil para viviendas en Bucarest. Funcionamiento, aislamiento y vida útil.',
-      it: 'La finestra anta e ribalta doppia Salamander — la soluzione PVC più versatile per abitazioni a Bucarest. Funzionamento, isolamento e durata.',
+      ro: 'Osciloculisanta dublă Salamander: fereastra care se rabatează pentru aerisire și culisează paralel, fără să ocupe loc în cameră. Cum funcționează, prin ce diferă de oscilobatantă, ce izolare oferă și cât durează.',
+      en: 'Double tilt-and-slide Salamander windows: the window that tilts for ventilation and slides parallel, without taking up room space. How it works, how it differs from tilt-and-turn, its insulation and lifespan.',
+      de: 'Zweiteilige Salamander-Parallel-Schiebe-Kipp-Fenster: kippen zum Lüften und schieben parallel, ohne Platz im Raum zu brauchen. Funktion, Unterschied zum Dreh-Kipp-Fenster, Dämmung und Lebensdauer.',
+      fr: 'La fenêtre oscillo-coulissante double Salamander : elle bascule pour aérer et coulisse en parallèle, sans prendre de place dans la pièce. Fonctionnement, différence avec l’oscillo-battant, isolation et durée de vie.',
+      es: 'La ventana oscilo-paralela doble Salamander: se abate para ventilar y se desliza en paralelo, sin ocupar espacio en la habitación. Funcionamiento, diferencia con la oscilobatiente, aislamiento y vida útil.',
+      it: 'La finestra scorrevole a ribalta doppia Salamander: si inclina per arieggiare e scorre in parallelo, senza occupare spazio nella stanza. Funzionamento, differenza con l’anta ribalta, isolamento e durata.',
     },
     metaDesc: {
-      ro: "Tâmplărie PVC osciloculisantă dublă Salamander: cum funcționează, ce izolare oferă față de o culisantă clasică și pentru ce deschideri se pretează.",
-      en: "Salamander double tilt-and-turn PVC windows: how the three-position handle works, the insulation they deliver and where they fit best.",
-      de: "Salamander PVC Dreh-Kipp-Fenster: wie der Griff in drei Stellungen arbeitet, welche Dämmung erreicht wird und wofür sich das System eignet.",
-      fr: "Fenêtre PVC oscillo-battante double Salamander : la poignée à trois positions, l’isolation obtenue et les cas où ce système convient.",
-      es: "Ventana PVC oscilobatiente doble Salamander: cómo trabaja la manilla de tres posiciones, qué aislamiento logra y dónde encaja mejor.",
-      it: "Finestra PVC anta-ribalta doppia Salamander: come lavora la maniglia a tre posizioni, quale isolamento offre e dove conviene usarla.",
+      ro: "Fereastra PVC osciloculisantă dublă Salamander: cum se rabatează și culisează, prin ce diferă de oscilobatantă și ce izolare oferă.",
+      en: "Salamander double tilt-and-slide PVC windows: how they tilt and slide, how they differ from tilt-and-turn and what insulation they offer.",
+      de: "Salamander PVC-Parallel-Schiebe-Kipp-Fenster: wie sie kippen und schieben, was sie vom Dreh-Kipp-Fenster unterscheidet und wie sie dämmen.",
+      fr: "Fenêtre PVC oscillo-coulissante double Salamander : comment elle bascule et coulisse, sa différence avec l’oscillo-battant et son isolation.",
+      es: "Ventana PVC oscilo-paralela doble Salamander: cómo se abate y se desliza, en qué se diferencia de la oscilobatiente y qué aislamiento ofrece.",
+      it: "Finestra PVC scorrevole a ribalta doppia Salamander: come si inclina e scorre, cosa la distingue dall’anta ribalta e quanto isola.",
     },
     keywords: {
-      ro: 'osciloculisanta dubla, tamplarie PVC Salamander oscilobatanta, ferestre PVC dubla deschidere, osciloculisanta Bucuresti Ilfov, ferestre termopane oscilobatante, BluEvolution 92 osciloculisanta, feronerie osciloculisanta',
-      en: 'double tilt and turn windows, Salamander PVC tilt turn, tilt and turn window Bucharest, double sash PVC window, tilt turn insulation, BluEvolution 92 tilt turn',
-      de: 'Dreh Kipp Fenster PVC Salamander, Doppelflügel Fenster Bukarest, Dreh Kipp Isolierung, PVC Fenster Dreh Kipp, BluEvolution 92 Dreh Kipp',
-      fr: 'fenêtre oscillo battante double PVC, Salamander oscillo battant, fenêtre PVC double Bucarest, isolation oscillo battant, BluEvolution 92 oscillo battant',
-      es: 'ventana oscilobatiente doble PVC, Salamander oscilobatiente, ventana PVC Bucarest, aislamiento oscilobatiente, BluEvolution 92 oscilobatiente',
-      it: 'finestra anta ribalta doppia PVC, Salamander anta ribalta, finestra PVC Bucarest, isolamento anta ribalta, BluEvolution 92 anta ribalta',
+      ro: 'osciloculisanta dubla, fereastra osciloculisanta PVC, osciloculisanta Salamander, usa balcon osciloculisanta, osciloculisanta vs oscilobatanta, feronerie PSK, BluEvolution 92 osciloculisanta',
+      en: 'tilt and slide windows, PSK window Salamander, tilt and slide balcony door, tilt and slide vs tilt and turn, parallel sliding tilt PVC, BluEvolution 92 tilt and slide',
+      de: 'Parallel Schiebe Kipp Fenster PVC, PSK Fenster Salamander, PSK Balkontür, PSK oder Dreh Kipp, BluEvolution 92 PSK',
+      fr: 'fenêtre oscillo coulissante PVC, oscillo coulissant Salamander, porte fenêtre oscillo coulissante, oscillo coulissant ou oscillo battant, BluEvolution 92 oscillo coulissant',
+      es: 'ventana oscilo paralela PVC, corredera oscilo paralela Salamander, puerta balcón oscilo paralela, oscilo paralela u oscilobatiente, BluEvolution 92 oscilo paralela',
+      it: 'finestra scorrevole a ribalta PVC, scorrevole parallelo Salamander, porta finestra scorrevole a ribalta, scorrevole a ribalta o anta ribalta, BluEvolution 92 scorrevole a ribalta',
     },
     content: {
-      ro: `## Ce este osciloculisanta dublă și de ce este cea mai aleasă soluție în București și Ilfov
+      ro: `## Ce este fereastra osciloculisantă și prin ce diferă de cea oscilobatantă
 
-Osciloculisanta dublă — denumită în industrie și **OB dublă** sau **ferestră cu două canaturi oscilobatante** — este o fereastră cu **două canaturi mobile independente**, fiecare putând fi acționată în două moduri: **basculant** (deschis în sus, pentru ventilație controlată) sau **culisant** (deschis lateral, ca o ușă, pentru acces complet).
+Fereastra **osciloculisantă** — în industrie, **PSK** (din germană, *Parallel-Schiebe-Kipp*) — are un canat care face două lucruri: se **rabatează** din partea de sus pentru aerisire, ca orice fereastră modernă, și, pentru deschidere completă, se desprinde ușor din toc și **culisează paralel**, prin interior, prin fața canatului fix. Nu se rotește spre cameră ca o ușă.
 
-În București și Ilfov, osciloculisanta dublă reprezintă alegerea predominantă pentru apartamente, vile și proiecte rezidențiale din mai multe motive practice: permite ventilarea independentă a celor două jumătăți, oferă acces integral la golul de fereastră pentru curățare și intervenții, și se integrează estetic în orice tip de arhitectură — de la blocuri interbelice la construcții nZEB moderne.
+Aici apare cea mai frecventă confuzie: mulți numesc „osciloculisantă” fereastra **oscilobatantă**, cea care se rabatează și se deschide spre interior ca o ușă. Sunt produse diferite, cu feronerie diferită. Oscilobatanta are nevoie de spațiu liber în fața ferestrei ca să se deschidă; osciloculisanta nu.
 
-**Spre deosebire de fereastra simplă** cu un singur canat, varianta dublă permite o flexibilitate mult mai mare în gestionarea microclimei interioare, fără curenți de aer și fără pierderi termice necontrolate.
+**„Dublă”** înseamnă că fereastra are două câmpuri: un canat osciloculisant și unul fix. La deschideri mari, se pot folosi două canaturi osciloculisante care culisează spre margini.
+
+---
+
+## Unde se potrivește osciloculisanta dublă
+
+Osciloculisanta rezolvă situațiile în care un canat care se deschide spre interior ar încurca:
+
+- **Ușile de balcon și de terasă** largi, unde un canat batant mare ar ocupa jumătate de cameră
+- **Bucătăriile** și camerele mici, unde mobilierul stă aproape de fereastră
+- **Livingurile** cu goluri mari, unde vrei sticlă multă și deschidere fără efort
+- **Renovările**, când vrei o ușă de balcon mai lată fără să pierzi spațiu în cameră
 
 ---
 
 ## Cum funcționează mecanismul osciloculisant
 
-Mecanismul osciloculisant este o invenție germană de precizie, integrată în feroneria fiecărui canat. Un singur mâner controlează ambele funcții prin rotirea sa în trei poziții:
+Mecanismul este o feronerie specială, PSK, produsă de firme precum Roto sau Siegenia și montată pe profilele PVC. Mânerul are trei poziții, în aceeași logică cu o fereastră oscilobatantă:
 
-- **Poziție orizontală (0°)** — fereastra este **închisă** și blocată
-- **Rotire în sus (180°)** — canatul se **basculează** din partea superioară, creând o fantă de ventilație de 10–15 cm, fără curent direct
-- **Rotire laterală (90°)** — canatul se **deschide complet** în interior, ca o ușă, oferind acces integral
+- **Închis** — canatul e presat pe garnituri pe tot perimetrul și blocat
+- **Rabatat** — canatul se înclină din partea de sus și lasă o fantă de aerisire, fără curent direct
+- **Deschis pentru culisare** — canatul se desprinde din toc și alunecă paralel, pe role, prin fața câmpului fix
 
-La varianta **dublă**, fiecare din cele două canaturi are propriul mâner și propria feronerie, funcționând complet independent. Poți bascula un canat pentru ventilație nocturnă și lăsa celălalt închis — o combinație imposibilă cu fereastra simplă.
+Pe variantele confort, rotirea mânerului rabatează canatul automat, fără să-l împingi cu mâna. Rolele pe rulmenți și amortizoarele fac culisarea lină și silențioasă.
+
+**Greutatea canatului:** feroneria osciloculisantă Roto Patio Alversa duce canaturi de până la **160 kg**; variantele doar paralel-glisante, fără rabatare, ajung la 200 kg. Dimensiunile maxime depind de feronerie și le confirmăm în ofertă.
 
 ---
 
 ## De ce Salamander BluEvolution 92 pentru osciloculisanta dublă
 
-Profilele Salamander **BluEvolution 92** sunt standardul de referință al Neofort BIZ pentru osciloculisanta dublă de performanță ridicată. Iată de ce:
+Profilele Salamander **BluEvolution 92** sunt alegerea noastră pentru osciloculisanta dublă de performanță ridicată:
 
 ### Specificații tehnice BluEvolution 92
 
@@ -28305,29 +28660,43 @@ Profilele Salamander **BluEvolution 92** sunt standardul de referință al Neofo
 | Număr camere profil | **6 camere** |
 | Garnituri etanșare | **3 garnituri** perimetrale |
 | Coeficient termic profil Uf | **0,95 W/m²K** |
-| Coeficient fereastră Uw | **până la 0,70 W/m²K** |
+| Coeficient fereastră Uw | **de la 0,70 W/m²K** cu tripan |
 | Izolare fonică Rw | **până la 47 dB** |
-| Protecție antiefracție | **RC 2 standard, RC 3 opțional** |
-| Pachete de geam acceptate | **până la 48 mm** (inclusiv tripan) |
+| Protecție antiefracție | **RC 2** cu feronerie de siguranță |
+| Pachete de geam acceptate | **până la 60 mm** (inclusiv tripan) |
 
-### Avantajele adâncimii de 92 mm la osciloculisanta dublă
+### Avantajele adâncimii de 92 mm la osciloculisantă
 
-La o fereastră dublă, greutatea totală a celor două canaturi este semnificativ mai mare față de o fereastră simplă. Adâncimea de 92 mm a profilului BluEvolution asigură **rigiditatea structurală** necesară pentru a susține canaturi mari (până la 2,4 m înălțime) fără deformare în timp.
+Canaturile osciloculisante sunt de obicei mari și grele, iar feroneria le susține pe role. Adâncimea de 92 mm a profilului BluEvolution și armătura din oțel asigură **rigiditatea** de care are nevoie un canat mare ca să culiseze drept ani la rând, fără să se deformeze.
 
-Cele **3 garnituri perimetrale** — una pe toc, una pe cercevea, una centrală — creează o izolare mult superioară față de sistemele cu 2 garnituri, eliminând practic punțile termice la îmbinarea dintre canaturi.
+Cele **3 garnituri perimetrale** fac diferența la etanșare: în poziția închis, canatul e presat pe ele pe tot conturul, ca la o fereastră oscilobatantă.
+
+---
+
+## Osciloculisanta față de celelalte tipuri de deschidere
+
+| Criteriu | Oscilobatantă | Osciloculisantă (PSK) | Glisantă clasică | Liftant-glisantă (HST) |
+|---|---|---|---|---|
+| Spațiu ocupat în cameră la deschidere | Mare | Foarte mic | Deloc | Deloc |
+| Etanșare | Foarte bună | Foarte bună | Medie | Foarte bună |
+| Aerisire prin rabatare | Da | Da | Nu | Nu |
+| Lățime liberă la deschidere | Tot canatul | Cam jumătate din gol | Cam jumătate din gol | Cam jumătate din gol |
+| Cost | Cel mai mic | Mediu | Mic | Cel mai mare |
+
+**Pe scurt:** osciloculisanta păstrează etanșarea și aerisirea unei ferestre oscilobatante, dar nu ocupă loc în cameră. Limita ei este deschiderea: canatul culisează prin fața celui fix, deci rămâne liberă cam jumătate din gol.
 
 ---
 
 ## Izolarea termică a osciloculisantei duble Salamander
 
-### Cum se calculează Uw pentru o fereastră dublă
+### Cum se calculează Uw
 
 Coeficientul de transfer termic al ferestrei (Uw) depinde de trei componente:
 1. **Profilul PVC** — Uf = 0,95 W/m²K pentru BluEvolution 92
-2. **Geamul termoizolator** — Ug = 0,5–1,0 W/m²K în funcție de configurație
-3. **Baghetele Warm Edge** — reduc puntea termică marginală cu 60%
+2. **Geamul termoizolator** — Ug = 0,5–1,1 W/m²K în funcție de configurație
+3. **Distanțierul Warm Edge** — reduce puntea termică de la marginea geamului
 
-O osciloculisantă dublă BluEvolution 92 cu **geam tripan Saint-Gobain SGG Planitherm** și **baghete Warm Edge Swisspacer** poate atinge **Uw = 0,70–0,80 W/m²K** — valori certificate nZEB, eligibile pentru construcții cu consum energetic aproape zero.
+Pentru că se etanșează prin presare pe garnituri, osciloculisanta are valori apropiate de cele ale unei ferestre oscilobatante din același profil. O osciloculisantă dublă BluEvolution 92 cu **geam tripan Saint-Gobain SGG Planitherm** și **distanțier Warm Edge Swisspacer** poate atinge **Uw în jur de 0,70–0,80 W/m²K** — potrivit pentru case nZEB.
 
 ### Comparație cu alte soluții
 
@@ -28343,23 +28712,23 @@ O osciloculisantă dublă BluEvolution 92 cu **geam tripan Saint-Gobain SGG Plan
 
 ## Izolarea fonică — importantă în București și Ilfov
 
-Zgomotul urban din București — trafic, tramvaie, construcții — face ca izolarea fonică să fie un criteriu tot mai important. O osciloculisantă dublă BluEvolution 92 cu geam tripan și configurație fonică poate atinge **47 dB Rw** — suficient pentru a reduce zgomotul bulevardelor aglomerate de la 75 dB (exterior) la sub 30 dB (interior).
+Zgomotul urban din București — trafic, tramvaie, construcții — face ca izolarea fonică să fie un criteriu tot mai important. O osciloculisantă BluEvolution 92 cu geam tripan și configurație fonică poate atinge **47 dB Rw** — suficient pentru a reduce zgomotul unui bulevard aglomerat de la 75 dB afară la sub 30 dB în casă.
 
-**Sfat practic:** pentru apartamentele cu expunere la stradă principală sau lângă infrastructuri de transport, recomandăm geamul **Stadip Silence Saint-Gobain** — sticlă laminată cu film PVB acustic, Rw = 44–52 dB.
+**Sfat practic:** pentru apartamentele cu expunere la stradă principală sau lângă infrastructuri de transport, recomandăm geamul **Stadip Silence Saint-Gobain** — sticlă laminată cu folie PVB acustică.
 
 ---
 
-## Durată de viață și rezistență
+## Durată de viață și întreținere
 
 ### Cât durează o osciloculisantă dublă Salamander?
 
-Profilele Salamander BluEvolution 92 sunt fabricate din **PVC clasa A** conform EN 12608, cu grosimea peretelui de **3 mm** — standardul de calitate german RAL GZ-716. Durata de viață declarată: **minimum 40–60 de ani** în condiții normale de utilizare.
+Profilele Salamander BluEvolution 92 sunt fabricate din **PVC clasa A** conform EN 12608, cu pereți exteriori de circa **3 mm**. Durata de viață estimată a profilelor: **40–60 de ani** în condiții normale de utilizare.
 
-Factorii care influențează longevitatea:
-- **Calitatea montajului** — montajul cu precadre Blaugelb Triotherm+ și bandă precomprimată butilică elimină infiltrațiile de apă și condensul la rost
-- **Feroneria** — Roto NT/NX sau Winkhaus, cu ungere anuală
-- **Curățarea** — exclusiv cu detergenți neutri, fără solvenți
-- **Reglajele periodice** — la fiecare 2–3 ani, din balamalele cu reglaj multipunct
+Feroneria osciloculisantă are mai multe piese în mișcare decât una oscilobatantă, așa că merită puțină grijă:
+- **Ungerea feroneriei și a rolelor** — o dată pe an
+- **Curățarea șinei** — fără praf și nisip, ca rolele să meargă lin
+- **Reglajele periodice** — la fiecare 2–3 ani, ca presarea pe garnituri să rămână uniformă
+- **Curățarea profilelor** — exclusiv cu detergenți neutri, fără solvenți
 
 ### Garanție Neofort BIZ
 
@@ -28369,88 +28738,124 @@ Neofort BIZ oferă **garanție completă pe produs și manoperă**, confirmată 
 
 ## Montaj corect — diferența dintre o fereastră bună și una perfectă
 
-Chiar și cel mai bun profil PVC devine ineficient dacă montajul este necorespunzător. Neofort BIZ execută montajul conform standardului **RAL pentru montaj ferestre**, care presupune:
+La osciloculisantă, montajul contează și mai mult: un toc strâmb face canatul să culiseze greu și să nu mai etanșeze uniform. Neofort BIZ execută montajul conform **ghidului RAL pentru montajul ferestrelor**, care presupune:
 
-1. **Precadre Blaugelb Triotherm+** — sistem de izolare perimetrală care elimină punțile termice la joncțiunea dintre fereastră și perete
-2. **Bandă precomprimată butilică** — etanșare exterioară împotriva apei și vântului
-3. **Folie antivapori** — etanșare interioară pentru prevenirea condensului
-4. **Baghetă Warm Edge** — în pachetul de geam, reduce puntea termică marginală
+1. **Tocul la nivel și în echer** — verificat pe toate laturile, condiția de bază pentru o culisare corectă
+2. **Precadre Blaugelb Triotherm+** — elimină punțile termice la joncțiunea dintre fereastră și perete
+3. **Bandă butilică** — etanșare exterioară împotriva apei și vântului
+4. **Folie antivapori** — etanșare interioară pentru prevenirea condensului
 
-Rezultatul: o fereastră cu performanță reală egală cu cea declarată în datele tehnice ale profilului.
+Rezultatul: o fereastră cu performanța reală egală cu cea declarată în datele tehnice ale profilului.
 
 ---
 
 ## Întrebări frecvente — osciloculisanta dublă Salamander
 
-### Pot bascula ambele canaturi simultan?
-Nu, mecanismul este independent — fiecare canat se operează separat. Aceasta este de fapt un avantaj: poți ventila selectiv.
+### Care e diferența dintre osciloculisantă și oscilobatantă?
+Amândouă se rabatează pentru aerisire. Oscilobatanta se deschide apoi spre interior, ca o ușă, și are nevoie de spațiu liber în fața ei. Osciloculisanta se desprinde din toc și culisează paralel prin fața canatului fix, fără să ocupe loc în cameră.
 
-### Ce dimensiuni maxime poate avea o osciloculisantă dublă?
-Lățime totală: până la 2,0–2,4 m. Înălțime: până la 2,2 m per canat. La dimensiuni mari, recomandăm armătură din oțel în profil și feronerie grea.
+### Ocupă spațiu în cameră când e deschisă?
+Foarte puțin. Canatul iese doar câțiva centimetri din toc și culisează paralel cu fereastra, prin fața câmpului fix. Poți avea mobilier aproape de fereastră sau de ușa de balcon fără să te încurce.
 
-### Este indicată osciloculisanta dublă pentru renovare în bloc?
-Da — este soluția standard pentru renovarea apartamentelor în blocuri din perioada 1960–1990. Se montează în gol existent fără lucrări de zidărie suplimentare.
+### Ce greutate și ce dimensiuni poate avea?
+Feroneria osciloculisantă duce canaturi de până la 160 kg (Roto Patio Alversa), iar variantele doar paralel-glisante până la 200 kg. Dimensiunile maxime depind de feronerie și de profil; pentru golul tău le confirmăm în ofertă.
 
 ### Cât costă o osciloculisantă dublă Salamander BluEvolution 92?
-Prețul variază în funcție de dimensiuni, culoare, geam și accesorii. Consultați [gama completă de tâmplărie PVC Salamander](/ro/tamplarie-pvc) sau [prețurile orientative](/ro/tamplarie-pvc/preturi). Solicitați ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.
+Costă mai mult decât o fereastră oscilobatantă de aceeași mărime, din cauza feroneriei, dar mai puțin decât o ușă liftant-glisantă. Consultați [gama completă de tâmplărie PVC Salamander](/ro/tamplarie-pvc) sau [prețurile orientative](/ro/tamplarie-pvc/preturi) și solicitați ofertă la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.
 
-### Ce înseamnă cele trei poziții ale mânerului?
-Mâner orizontal — fereastra e închisă și blocată. Rotit în sus — canatul se basculează din partea superioară și lasă o fantă de ventilație de 10–15 cm, fără curent direct. Rotit lateral — canatul se deschide complet spre interior, ca o ușă.
+### Se poate monta la renovarea unui apartament de bloc?
+Da, mai ales pe ușile de balcon, unde câștigi spațiu în cameră. Se montează în golul existent; trebuie doar ca pragul și golul să permită un toc drept și bine fixat, lucru pe care îl verificăm la măsurătoarea de după semnarea contractului.
 
 ---
 
 Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [comparația completă a profilelor Salamander](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 FLEX](/ro/produse/profil-pvc-bluevolution-92-flex) și [profilul Salamander greenEvolution 76 AD FLEX](/ro/produse/profil-pvc-greenevolution-76-ad-flex).`,
 
-      en: `## What is a double tilt-and-turn window and why it is the most popular choice in Bucharest
+      en: `## What is a tilt-and-slide window and how does it differ from a tilt-and-turn window?
 
-A double tilt-and-turn window — also called a **double sash tilt-turn** or **dual OB** — is a window with **two independently operable sashes**, each offering two opening modes: **tilt** (top-hinged, for controlled ventilation) or **turn** (side-hinged, full opening like a door).
+A **tilt-and-slide** window — in the industry, **PSK** (from the German *Parallel-Schiebe-Kipp*) — has a sash that does two things: it **tilts** from the top for ventilation, like any modern window, and, for full opening, it moves slightly out of the frame and **slides in parallel**, on the inside, in front of the fixed sash. It does not swing into the room like a door.
 
-In Bucharest and the surrounding Ilfov county, double tilt-and-turn windows are the dominant choice for apartments, houses and residential developments because they allow independent ventilation of each half, provide full access for cleaning, and integrate seamlessly into any architectural style — from pre-war buildings to modern nZEB constructions.
+This is where the most common confusion arises: many people call a **tilt-and-turn** window, the one that tilts and opens inwards like a door, a “tilt-and-slide”. They are different products with different hardware. A tilt-and-turn window needs free space in front of it to open; a tilt-and-slide window does not.
 
-**Compared to a single sash**, the double version provides far greater flexibility in managing indoor climate without draughts or uncontrolled heat loss.
-
----
-
-## How the tilt-and-turn mechanism works
-
-The tilt-and-turn mechanism is a precision German engineering achievement, integrated into the hardware of each sash. A single handle controls both functions through three positions:
-
-- **Horizontal (0°)** — window is **closed and locked**
-- **Rotated upward (180°)** — sash **tilts** from the top, creating a 10–15 cm ventilation gap without direct draught
-- **Rotated sideways (90°)** — sash **turns** fully open inward, like a door
-
-In the **double** version, each of the two sashes has its own handle and hardware, operating completely independently. You can tilt one sash for night ventilation while keeping the other closed — impossible with a single sash window.
+**“Double”** means the window has two fields: one tilt-and-slide sash and one fixed sash. For large openings, two tilt-and-slide sashes can be used, sliding towards the sides.
 
 ---
 
-## Why Salamander BluEvolution 92 for double tilt-and-turn windows
+## Where a double tilt-and-slide window fits
 
-Salamander **BluEvolution 92** profiles are the reference standard at Neofort BIZ for high-performance double tilt-and-turn windows.
+The tilt-and-slide window solves the situations in which a sash opening inwards would get in the way:
 
-### Technical specifications BluEvolution 92
+- **Wide balcony and terrace doors**, where a large swinging sash would take up half the room
+- **Kitchens** and small rooms, where furniture stands close to the window
+- **Living rooms** with large openings, where you want plenty of glass and effortless opening
+- **Renovations**, when you want a wider balcony door without losing space in the room
+
+---
+
+## How the tilt-and-slide mechanism works
+
+The mechanism is special PSK hardware, made by companies such as Roto or Siegenia and fitted to the PVC profiles. The handle has three positions, with the same logic as a tilt-and-turn window:
+
+- **Closed** — the sash is pressed onto the gaskets all the way round and locked
+- **Tilted** — the sash leans in from the top and leaves a ventilation gap, without a direct draught
+- **Open for sliding** — the sash moves out of the frame and glides in parallel, on rollers, in front of the fixed field
+
+On comfort versions, turning the handle tilts the sash automatically, without pushing it by hand. Ball-bearing rollers and dampers make the sliding smooth and quiet.
+
+**Sash weight:** the Roto Patio Alversa tilt-and-slide hardware carries sashes of up to **160 kg**; parallel-sliding-only versions, without tilt, reach 200 kg. Maximum dimensions depend on the hardware and we confirm them in the quote.
+
+---
+
+## Why Salamander BluEvolution 92 for a double tilt-and-slide window
+
+Salamander **BluEvolution 92** profiles are our choice for a high-performance double tilt-and-slide window:
+
+### BluEvolution 92 technical specifications
 
 | Parameter | Value |
 |---|---|
-| Construction depth | **92 mm** |
-| Profile chambers | **6 chambers** |
+| Installation depth | **92 mm** |
+| Number of profile chambers | **6 chambers** |
 | Sealing gaskets | **3 perimeter gaskets** |
 | Profile thermal coefficient Uf | **0.95 W/m²K** |
-| Window thermal coefficient Uw | **down to 0.70 W/m²K** |
-| Acoustic insulation Rw | **up to 47 dB** |
-| Burglar resistance | **RC 2 standard, RC 3 optional** |
-| Glass unit thickness | **up to 48 mm** (triple glazing) |
+| Window coefficient Uw | **from 0.70 W/m²K** with triple glazing |
+| Sound insulation Rw | **up to 47 dB** |
+| Burglar resistance | **RC 2** with security hardware |
+| Glazing units accepted | **up to 60 mm** (triple glazing included) |
 
-### Why 92 mm depth matters for double sash windows
+### The advantages of the 92 mm depth for tilt-and-slide
 
-A double sash window carries significantly more weight than a single sash. The 92 mm profile depth of BluEvolution provides the **structural rigidity** needed to support large sashes (up to 2.4 m height) without distortion over time.
+Tilt-and-slide sashes are usually large and heavy, and the hardware carries them on rollers. The 92 mm depth of the BluEvolution profile and its steel reinforcement provide the **rigidity** a large sash needs to slide straight for years without deforming.
 
-The **3 perimeter gaskets** — on frame, sash and central seal — create far superior insulation compared to 2-gasket systems, virtually eliminating thermal bridges at the sash junction.
+The **3 perimeter gaskets** make the difference in sealing: in the closed position, the sash is pressed onto them all the way round, as on a tilt-and-turn window.
 
 ---
 
-## Thermal insulation of Salamander double tilt-and-turn windows
+## Tilt-and-slide compared with other opening types
 
-A BluEvolution 92 double tilt-and-turn window with **triple-glazed Saint-Gobain SGG Planitherm** glass and **Warm Edge Swisspacer** spacers can achieve **Uw = 0.70–0.80 W/m²K** — nZEB certified values, eligible for nearly zero energy buildings.
+| Criterion | Tilt-and-turn | Tilt-and-slide (PSK) | Classic sliding | Lift-and-slide (HST) |
+|---|---|---|---|---|
+| Room space taken when open | Large | Very little | None | None |
+| Sealing | Very good | Very good | Medium | Very good |
+| Tilt ventilation | Yes | Yes | No | No |
+| Clear width when open | The whole sash | About half the opening | About half the opening | About half the opening |
+| Cost | Lowest | Medium | Low | Highest |
+
+**In short:** the tilt-and-slide window keeps the sealing and ventilation of a tilt-and-turn window, but takes up no room space. Its limit is the opening: the sash slides in front of the fixed one, so about half of the opening stays clear.
+
+---
+
+## The thermal insulation of a double Salamander tilt-and-slide window
+
+### How Uw is calculated
+
+The window's heat transfer coefficient (Uw) depends on three components:
+1. **The PVC profile** — Uf = 0.95 W/m²K for BluEvolution 92
+2. **The insulating glass** — Ug = 0.5–1.1 W/m²K depending on the configuration
+3. **The Warm Edge spacer** — reduces the thermal bridge at the edge of the glass
+
+Because it seals by pressing onto the gaskets, a tilt-and-slide window reaches values close to those of a tilt-and-turn window in the same profile. A double BluEvolution 92 tilt-and-slide window with **Saint-Gobain SGG Planitherm triple glazing** and a **Swisspacer Warm Edge spacer** can reach **Uw of around 0.70–0.80 W/m²K** — suitable for nZEB houses.
+
+### Comparison with other solutions
 
 | Window type | Typical Uw |
 |---|---|
@@ -28462,364 +28867,693 @@ A BluEvolution 92 double tilt-and-turn window with **triple-glazed Saint-Gobain 
 
 ---
 
-## Acoustic insulation — essential in Bucharest
+## Sound insulation — important in Bucharest and Ilfov
 
-Urban noise in Bucharest — traffic, trams, construction — makes acoustic insulation an increasingly critical criterion. A BluEvolution 92 double tilt-and-turn window with triple glazing can achieve **47 dB Rw** — sufficient to reduce boulevard noise from 75 dB (outside) to below 30 dB (inside).
+Urban noise in Bucharest — traffic, trams, construction — makes sound insulation an increasingly important criterion. A BluEvolution 92 tilt-and-slide window with triple glazing in an acoustic configuration can reach **47 dB Rw** — enough to bring the noise of a busy boulevard down from 75 dB outside to below 30 dB inside.
 
-**Practical tip:** for apartments facing a main road or near transport infrastructure, we recommend **Saint-Gobain Stadip Silence** glass — laminated glass with acoustic PVB film, Rw = 44–52 dB.
-
----
-
-## Lifespan and durability
-
-Salamander BluEvolution 92 profiles are manufactured from **Class A PVC** to EN 12608, with **3 mm wall thickness** — the German quality standard RAL GZ-716. Declared lifespan: **40–60 years** under normal use conditions.
-
-Neofort BIZ installs all windows to the **RAL installation standard**, including Blaugelb Triotherm+ subframes, pre-compressed butyl tape and anti-vapour membranes — ensuring real-world performance equal to the declared technical specifications.
-
-Explore our full [Salamander PVC range](/en/pvc-windows) or see [indicative prices](/en/pvc-windows/prices).
-
-**For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**
-
-## FAQ — Double tilt-and-turn windows
-
-### What do the three handle positions mean?
-Handle horizontal — the window is closed and locked. Turned up — the sash tilts from the top and leaves a 10–15 cm ventilation gap without a direct draught. Turned sideways — the sash opens fully inwards, like a door.
-
-### What Uw does a double tilt-and-turn window with bluEvolution 92 reach?
-With 52 mm triple glazing, a warm edge spacer and airtight installation, the system reaches a Uw of 0.70 W/(m²K). With double glazing the figure rises to around 1.0 W/(m²K).
-
-### Can an insect screen be fitted to a tilt-and-turn window?
-Yes, but only an external screen, fixed or roller type. It mounts on the outer face of the frame so it does not obstruct the sash tilting inwards.
-
-### How long does a Salamander double tilt-and-turn window last?
-The profile lasts 40–50 years, the insulating glass unit 20–25, and the hardware 15–20 years with annual servicing. Gaskets are replaced every 8–12 years.
-
-### What is the maximum sash width?
-For an inward-opening sash the practical limit is 90–100 cm wide and 240 cm high, depending on the weight of the glass. Above that, a different window type is recommended.
+**Practical tip:** for apartments facing a main road or near transport infrastructure, we recommend **Saint-Gobain Stadip Silence** glass — laminated glass with an acoustic PVB interlayer.
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details in [the full Salamander profile comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 FLEX profile](/en/products/bluevolution-92-flex-pvc-profile) and [the Salamander greenEvolution 76 AD FLEX profile](/en/products/greenevolution-76-ad-flex-pvc-profile).`,
+## Service life and maintenance
 
-      de: `## Was ist ein Dreh-Kipp-Doppelfenster und warum ist es in Bukarest so beliebt?
+### How long does a double Salamander tilt-and-slide window last?
 
-Ein Dreh-Kipp-Doppelfenster — auch als **Zweiflügeliges Dreh-Kipp-Fenster** oder **OB-Doppel** bezeichnet — ist ein Fenster mit **zwei unabhängig bedienbaren Flügeln**, von denen jeder in zwei Modi geöffnet werden kann: **Kipp** (oben gehangen, für kontrollierte Lüftung) oder **Dreh** (seitlich gehangen, vollständige Öffnung wie eine Tür).
+Salamander BluEvolution 92 profiles are made from **class A PVC** to EN 12608, with outer walls of about **3 mm**. The estimated service life of the profiles: **40–60 years** under normal use.
 
-In Bukarest und dem Umland Ilfov ist das Dreh-Kipp-Doppelfenster die am häufigsten gewählte Lösung für Wohnungen, Häuser und Wohnbauprojekte.
+Tilt-and-slide hardware has more moving parts than tilt-and-turn hardware, so it is worth a little care:
+- **Lubricating the hardware and rollers** — once a year
+- **Cleaning the track** — free of dust and sand, so the rollers run smoothly
+- **Periodic adjustment** — every 2–3 years, so the pressure on the gaskets stays even
+- **Cleaning the profiles** — only with neutral detergents, no solvents
 
----
+### Neofort BIZ warranty
 
-## Funktionsweise des Dreh-Kipp-Mechanismus
-
-Der Dreh-Kipp-Mechanismus ist eine deutsche Präzisionskonstruktion, die in die Beschläge jedes Flügels integriert ist. Ein einziger Griff steuert beide Funktionen durch drei Positionen:
-
-- **Waagerecht (0°)** — Fenster ist **geschlossen und verriegelt**
-- **Nach oben gedreht (180°)** — Flügel **kippt** von oben, schafft einen Lüftungsspalt von 10–15 cm ohne direkten Luftzug
-- **Seitlich gedreht (90°)** — Flügel **dreht** vollständig nach innen, wie eine Tür
-
-Beim **Doppelflügel** hat jeder der zwei Flügel seinen eigenen Griff und Beschlag und funktioniert völlig unabhängig. Sie können einen Flügel für nächtliche Belüftung kippen und den anderen geschlossen lassen.
+Neofort BIZ provides a **full warranty on product and labour**, confirmed by a certificate issued when the job is completed.
 
 ---
 
-## Warum Salamander BluEvolution 92 für Dreh-Kipp-Doppelfenster?
+## Correct installation — the difference between a good window and a perfect one
+
+With tilt-and-slide windows, installation matters even more: a crooked frame makes the sash slide stiffly and stop sealing evenly. Neofort BIZ installs in line with the **RAL guideline for window installation**, which involves:
+
+1. **A level, square frame** — checked on every side, the basic condition for correct sliding
+2. **Blaugelb Triotherm+ pre-frames** — eliminate thermal bridges at the joint between window and wall
+3. **Butyl tape** — exterior sealing against water and wind
+4. **Vapour barrier membrane** — interior sealing to prevent condensation
+
+The result: a window whose real performance matches the profile's technical data.
+
+---
+
+## Frequently Asked Questions — the double Salamander tilt-and-slide window
+
+### What is the difference between tilt-and-slide and tilt-and-turn?
+Both tilt for ventilation. A tilt-and-turn window then opens inwards like a door and needs free space in front of it. A tilt-and-slide window moves out of the frame and slides in parallel in front of the fixed sash, without taking up room space.
+
+### Does it take up room space when open?
+Very little. The sash only comes a few centimetres out of the frame and slides parallel to the window, in front of the fixed field. You can have furniture close to the window or balcony door without it getting in the way.
+
+### What weight and dimensions can it have?
+Tilt-and-slide hardware carries sashes of up to 160 kg (Roto Patio Alversa), and parallel-sliding-only versions up to 200 kg. Maximum dimensions depend on the hardware and the profile; we confirm them in the quote for your opening.
+
+### How much does a double Salamander BluEvolution 92 tilt-and-slide window cost?
+It costs more than a tilt-and-turn window of the same size, because of the hardware, but less than a lift-and-slide door. See the [complete Salamander PVC joinery range](/en/pvc-windows) or the [indicative prices](/en/pvc-windows/prices), and ask for a quote at **oferte@neofort-biz.ro** or **+40 752 443 435 | Mon–Fri 10–18**.
+
+### Can it be fitted when renovating an apartment in a block?
+Yes, especially on balcony doors, where you gain room space. It is fitted into the existing opening; the threshold and opening just need to allow a straight, well-fixed frame, which we check at the survey after the contract is signed.
+
+---
+
+Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details are in the [complete comparison of Salamander profiles](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 FLEX profile](/en/products/bluevolution-92-flex-pvc-profile) and [the Salamander greenEvolution 76 AD FLEX profile](/en/products/greenevolution-76-ad-flex-pvc-profile).`,
+
+      de: `## Was ist ein Parallel-Schiebe-Kipp-Fenster und wie unterscheidet es sich vom Dreh-Kipp-Fenster?
+
+Das **Parallel-Schiebe-Kipp-Fenster** — kurz **PSK** — hat einen Flügel, der zwei Dinge kann: Er wird oben **gekippt**, um zu lüften, wie jedes moderne Fenster, und zum vollständigen Öffnen tritt er leicht aus dem Rahmen heraus und **schiebt sich parallel** auf der Innenseite vor den festen Flügel. Er dreht nicht wie eine Tür in den Raum.
+
+Hier entsteht die häufigste Verwechslung: In Rumänien wird oft das **Dreh-Kipp-Fenster**, das kippt und sich wie eine Tür nach innen öffnet, als „osciloculisant“ (also PSK) bezeichnet. Es sind verschiedene Produkte mit unterschiedlichen Beschlägen. Ein Dreh-Kipp-Fenster braucht zum Öffnen freien Platz davor; ein PSK-Fenster nicht.
+
+**„Zweiteilig“** bedeutet, dass das Fenster zwei Felder hat: einen PSK-Flügel und einen festen Flügel. Bei großen Öffnungen lassen sich zwei PSK-Flügel einsetzen, die zu den Seiten schieben.
+
+---
+
+## Wo ein zweiteiliges PSK-Fenster passt
+
+Das PSK-Fenster löst die Fälle, in denen ein nach innen öffnender Flügel stören würde:
+
+- **Breite Balkon- und Terrassentüren**, bei denen ein großer Drehflügel den halben Raum beanspruchen würde
+- **Küchen** und kleine Räume, in denen Möbel nah am Fenster stehen
+- **Wohnzimmer** mit großen Öffnungen, in denen Sie viel Glas und müheloses Öffnen wünschen
+- **Sanierungen**, wenn Sie eine breitere Balkontür möchten, ohne Platz im Raum zu verlieren
+
+---
+
+## So funktioniert der PSK-Mechanismus
+
+Der Mechanismus ist ein spezieller PSK-Beschlag von Herstellern wie Roto oder Siegenia, der auf die Kunststoffprofile montiert wird. Der Griff hat drei Stellungen, nach derselben Logik wie beim Dreh-Kipp-Fenster:
+
+- **Geschlossen** — der Flügel ist ringsum an die Dichtungen gepresst und verriegelt
+- **Gekippt** — der Flügel neigt sich oben nach innen und lässt einen Lüftungsspalt, ohne direkten Zug
+- **Zum Schieben geöffnet** — der Flügel tritt aus dem Rahmen und gleitet auf Rollen parallel vor das feste Feld
+
+Bei Komfortvarianten kippt der Flügel beim Drehen des Griffs automatisch, ohne dass man ihn mit der Hand drücken muss. Kugelgelagerte Rollen und Dämpfer sorgen für leisen, gleichmäßigen Lauf.
+
+**Flügelgewicht:** Der PSK-Beschlag Roto Patio Alversa trägt Flügel bis **160 kg**; reine Parallel-Schiebe-Varianten ohne Kippfunktion erreichen 200 kg. Die maximalen Abmessungen hängen vom Beschlag ab, wir bestätigen sie im Angebot.
+
+---
+
+## Warum Salamander BluEvolution 92 für das zweiteilige PSK-Fenster
+
+Die Salamander-Profile **BluEvolution 92** sind unsere Wahl für ein leistungsstarkes zweiteiliges PSK-Fenster:
 
 ### Technische Daten BluEvolution 92
 
 | Parameter | Wert |
 |---|---|
 | Bautiefe | **92 mm** |
-| Profilkammern | **6 Kammern** |
-| Dichtungsebenen | **3 Umlaufdichtungen** |
-| Profilwärmedurchgang Uf | **0,95 W/m²K** |
-| Fensterwärmedurchgang Uw | **bis zu 0,70 W/m²K** |
-| Schalldämmung Rw | **bis zu 47 dB** |
-| Einbruchschutz | **RC 2 Standard, RC 3 optional** |
-| Glaspaketdicke | **bis 48 mm** (Dreifachverglasung) |
+| Anzahl der Profilkammern | **6 Kammern** |
+| Dichtungen | **3 umlaufende Dichtungen** |
+| Wärmedurchgangskoeffizient Profil Uf | **0,95 W/m²K** |
+| Wärmedurchgangskoeffizient Fenster Uw | **ab 0,70 W/m²K** mit Dreifachverglasung |
+| Schalldämmung Rw | **bis 47 dB** |
+| Einbruchhemmung | **RC 2** mit Sicherheitsbeschlag |
+| Mögliche Glasstärke | **bis 60 mm** (inklusive Dreifachverglasung) |
+
+### Die Vorteile der 92 mm Bautiefe beim PSK-Fenster
+
+PSK-Flügel sind meist groß und schwer, und der Beschlag trägt sie auf Rollen. Die 92 mm Bautiefe des Profils BluEvolution und die Stahlarmierung sorgen für die **Steifigkeit**, die ein großer Flügel braucht, um jahrelang gerade zu laufen, ohne sich zu verformen.
+
+Die **3 umlaufenden Dichtungen** machen bei der Dichtheit den Unterschied: Geschlossen wird der Flügel ringsum an sie gepresst, wie bei einem Dreh-Kipp-Fenster.
 
 ---
 
-## Wärmedämmung
+## Das PSK-Fenster im Vergleich mit anderen Öffnungsarten
 
-Ein BluEvolution 92 Dreh-Kipp-Doppelfenster mit **Dreifachverglasung Saint-Gobain SGG Planitherm** und **Warm Edge Swisspacer** kann **Uw = 0,70–0,80 W/m²K** erreichen — nZEB-zertifizierte Werte für Niedrigstenergiegebäude.
+| Kriterium | Dreh-Kipp | Parallel-Schiebe-Kipp (PSK) | Klassische Schiebetür | Hebeschiebetür (HST) |
+|---|---|---|---|---|
+| Platzbedarf im Raum beim Öffnen | Groß | Sehr gering | Keiner | Keiner |
+| Dichtheit | Sehr gut | Sehr gut | Mittel | Sehr gut |
+| Kipplüftung | Ja | Ja | Nein | Nein |
+| Freie Breite beim Öffnen | Der ganze Flügel | Etwa die halbe Öffnung | Etwa die halbe Öffnung | Etwa die halbe Öffnung |
+| Kosten | Am niedrigsten | Mittel | Niedrig | Am höchsten |
 
----
-
-## Schalldämmung — wichtig in Bukarest
-
-Der Stadtlärm in Bukarest macht Schalldämmung zu einem immer wichtigeren Kriterium. Ein BluEvolution 92 Doppelfenster mit Dreifachverglasung kann **47 dB Rw** erreichen.
-
-**Praxistipp:** Bei Wohnungen mit Straßenlage empfehlen wir **Saint-Gobain Stadip Silence** — Verbundsicherheitsglas mit akustischer PVB-Folie, Rw = 44–52 dB.
-
----
-
-## Lebensdauer und Haltbarkeit
-
-Salamander BluEvolution 92 Profile werden aus **PVC Klasse A** nach EN 12608 mit **3 mm Wandstärke** — dem deutschen Qualitätsstandard RAL GZ-716 — gefertigt. Deklarierte Lebensdauer: **mindestens 40–60 Jahre** bei normaler Nutzung.
-
-Neofort BIZ montiert alle Fenster nach dem **RAL-Montageleitfaden**, einschließlich Blaugelb Triotherm+ Vorbaurahmen, vorkomprimiertem Butylband und Dampfsperrfolie.
-
-**Für ein persönliches Angebot:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**
-
-## FAQ — Dreh-Kipp-Fenster mit zwei Flügeln
-
-### Was bedeuten die drei Griffstellungen?
-Griff waagerecht — das Fenster ist geschlossen und verriegelt. Nach oben gedreht — der Flügel kippt oben und lässt einen Lüftungsspalt von 10–15 cm ohne direkten Zug. Zur Seite gedreht — der Flügel öffnet vollständig nach innen, wie eine Tür.
-
-### Welchen Uw erreicht ein Dreh-Kipp-Fenster mit bluEvolution 92?
-Mit 52-mm-Dreifachverglasung, Warm-Edge-Abstandhalter und luftdichter Montage erreicht das System einen Uw von 0,70 W/(m²K). Mit Zweifachverglasung liegt der Wert bei etwa 1,0 W/(m²K).
-
-### Lässt sich ein Insektenschutz an einem Dreh-Kipp-Fenster anbringen?
-Ja, aber nur außen liegend, als festes Gitter oder Rollo. Er wird auf der Außenseite des Rahmens montiert, damit der Flügel nach innen kippen kann.
-
-### Wie lange hält ein Salamander Dreh-Kipp-Fenster?
-Das Profil hält 40–50 Jahre, die Isolierglaseinheit 20–25 und der Beschlag 15–20 Jahre bei jährlicher Wartung. Dichtungen werden alle 8–12 Jahre erneuert.
-
-### Wie breit darf ein Flügel maximal sein?
-Bei nach innen öffnenden Flügeln liegt die praktische Grenze bei 90–100 cm Breite und 240 cm Höhe, abhängig vom Glasgewicht. Darüber empfiehlt sich eine andere Bauart.
+**Kurz gesagt:** Das PSK-Fenster behält Dichtheit und Kipplüftung eines Dreh-Kipp-Fensters, braucht aber keinen Platz im Raum. Seine Grenze ist die Öffnung: Der Flügel schiebt sich vor den festen, sodass etwa die halbe Öffnung frei bleibt.
 
 ---
 
-Neofort BIZ fertigt und montiert Salamander PVC-Fenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie die [Salamander-PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details im [vollständigen Salamander-Profilvergleich](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [Salamander-Profil bluEvolution 92 FLEX](/de/produkte/bluevolution-92-flex-pvc-profil) und [Salamander-Profil greenEvolution 76 AD FLEX](/de/produkte/greenevolution-76-ad-flex-pvc-profil).`,
+## Die Wärmedämmung des zweiteiligen Salamander-PSK-Fensters
 
-      fr: `## Qu'est-ce qu'une fenêtre PVC oscillo-battante double et pourquoi est-elle si populaire à Bucarest ?
+### Wie Uw berechnet wird
 
-La fenêtre oscillo-battante double — appelée aussi **double vantail oscillo-battant** ou **OB double** — est une fenêtre à **deux ouvrants indépendants**, chacun pouvant s'ouvrir de deux façons : **en oscillo** (basculement par le haut, pour une ventilation contrôlée) ou **en battant** (ouverture latérale complète, comme une porte).
+Der Wärmedurchgangskoeffizient des Fensters (Uw) hängt von drei Bestandteilen ab:
+1. **Dem Kunststoffprofil** — Uf = 0,95 W/m²K bei BluEvolution 92
+2. **Dem Isolierglas** — Ug = 0,5–1,1 W/m²K je nach Aufbau
+3. **Dem Warm-Edge-Abstandhalter** — verringert die Wärmebrücke am Glasrand
 
-À Bucarest et dans le département d'Ilfov, la fenêtre oscillo-battante double est le choix dominant pour les appartements, maisons et projets résidentiels.
+Weil es durch Anpressen an die Dichtungen abdichtet, erreicht das PSK-Fenster Werte nahe an denen eines Dreh-Kipp-Fensters aus demselben Profil. Ein zweiteiliges PSK-Fenster BluEvolution 92 mit **Dreifachverglasung Saint-Gobain SGG Planitherm** und **Warm-Edge-Abstandhalter Swisspacer** kann **Uw um 0,70–0,80 W/m²K** erreichen — geeignet für nZEB-Häuser.
+
+### Vergleich mit anderen Lösungen
+
+| Fenstertyp | Typischer Uw |
+|---|---|
+| Altes PVC mit 3 Kammern | 2,0–2,5 W/m²K |
+| Standard-PVC mit 5 Kammern | 1,2–1,5 W/m²K |
+| **BluEvolution 92 + Zweifachverglasung** | **1,0–1,1 W/m²K** |
+| **BluEvolution 92 + Dreifachverglasung** | **0,70–0,80 W/m²K** |
+| Premium-Brettschichtholz | 0,80–1,0 W/m²K |
 
 ---
 
-## Fonctionnement du mécanisme oscillo-battant
+## Schalldämmung — wichtig in Bukarest und Ilfov
 
-Le mécanisme oscillo-battant est une conception allemande de précision, intégrée dans la ferrure de chaque ouvrant. Une seule poignée contrôle les deux fonctions à travers trois positions :
+Der Stadtlärm in Bukarest — Verkehr, Straßenbahnen, Baustellen — macht die Schalldämmung zu einem immer wichtigeren Kriterium. Ein PSK-Fenster BluEvolution 92 mit Dreifachverglasung in Schallschutzausführung kann **47 dB Rw** erreichen — genug, um den Lärm eines belebten Boulevards von 75 dB draußen auf unter 30 dB im Haus zu senken.
 
-- **Horizontale (0°)** — fenêtre **fermée et verrouillée**
-- **Tournée vers le haut (180°)** — l'ouvrant **bascule** depuis le haut, créant une fente de ventilation de 10–15 cm sans courant d'air direct
-- **Tournée latéralement (90°)** — l'ouvrant **s'ouvre** complètement vers l'intérieur, comme une porte
-
-Dans la version **double**, chacun des deux ouvrants possède sa propre poignée et sa propre ferrure, fonctionnant de manière totalement indépendante.
+**Praxistipp:** Für Wohnungen an einer Hauptstraße oder nahe Verkehrsinfrastruktur empfehlen wir das Glas **Saint-Gobain Stadip Silence** — Verbundglas mit akustischer PVB-Folie.
 
 ---
 
-## Pourquoi choisir le Salamander BluEvolution 92 ?
+## Lebensdauer und Pflege
 
-### Caractéristiques techniques BluEvolution 92
+### Wie lange hält ein zweiteiliges Salamander-PSK-Fenster?
+
+Die Salamander-Profile BluEvolution 92 bestehen aus **PVC der Klasse A** nach EN 12608, mit Außenwänden von etwa **3 mm**. Die geschätzte Lebensdauer der Profile: **40–60 Jahre** bei normaler Nutzung.
+
+Ein PSK-Beschlag hat mehr bewegliche Teile als ein Dreh-Kipp-Beschlag und verdient daher etwas Pflege:
+- **Schmieren von Beschlag und Rollen** — einmal im Jahr
+- **Reinigen der Laufschiene** — frei von Staub und Sand, damit die Rollen leicht laufen
+- **Regelmäßiges Einstellen** — alle 2–3 Jahre, damit der Anpressdruck auf die Dichtungen gleichmäßig bleibt
+- **Reinigen der Profile** — nur mit neutralen Reinigern, ohne Lösungsmittel
+
+### Garantie von Neofort BIZ
+
+Neofort BIZ bietet eine **volle Garantie auf Produkt und Arbeit**, bestätigt durch ein Zertifikat bei Abschluss des Auftrags.
+
+---
+
+## Richtige Montage — der Unterschied zwischen einem guten und einem perfekten Fenster
+
+Beim PSK-Fenster zählt die Montage noch mehr: Ein schiefer Rahmen lässt den Flügel schwer laufen und ungleichmäßig dichten. Neofort BIZ montiert nach dem **RAL-Leitfaden zur Fenstermontage**, das heißt:
+
+1. **Rahmen im Lot und im Winkel** — an allen Seiten geprüft, die Grundvoraussetzung für sauberes Schieben
+2. **Vorwandmontagesystem Blaugelb Triotherm+** — beseitigt Wärmebrücken am Anschluss zwischen Fenster und Wand
+3. **Butylband** — äußere Abdichtung gegen Wasser und Wind
+4. **Dampfsperrfolie** — innere Abdichtung gegen Kondenswasser
+
+Das Ergebnis: ein Fenster, dessen reale Leistung den technischen Daten des Profils entspricht.
+
+---
+
+## Häufig gestellte Fragen — das zweiteilige Salamander-PSK-Fenster
+
+### Was ist der Unterschied zwischen PSK und Dreh-Kipp?
+Beide lassen sich zum Lüften kippen. Das Dreh-Kipp-Fenster öffnet sich dann wie eine Tür nach innen und braucht freien Platz davor. Das PSK-Fenster tritt aus dem Rahmen und schiebt sich parallel vor den festen Flügel, ohne Platz im Raum zu brauchen.
+
+### Braucht es geöffnet Platz im Raum?
+Sehr wenig. Der Flügel tritt nur wenige Zentimeter aus dem Rahmen und schiebt sich parallel zum Fenster vor das feste Feld. Möbel können nah am Fenster oder an der Balkontür stehen, ohne zu stören.
+
+### Welches Gewicht und welche Abmessungen sind möglich?
+Der PSK-Beschlag trägt Flügel bis 160 kg (Roto Patio Alversa), reine Parallel-Schiebe-Varianten bis 200 kg. Die maximalen Abmessungen hängen von Beschlag und Profil ab; für Ihre Öffnung bestätigen wir sie im Angebot.
+
+### Was kostet ein zweiteiliges PSK-Fenster Salamander BluEvolution 92?
+Es kostet wegen des Beschlags mehr als ein gleich großes Dreh-Kipp-Fenster, aber weniger als eine Hebeschiebetür. Sehen Sie sich das [komplette Salamander-Kunststofffenster-Sortiment](/de/kunststofffenster-pvc) oder die [Richtpreise](/de/kunststofffenster-pvc/preise) an und fordern Sie ein Angebot an unter **oferte@neofort-biz.ro** oder **+40 752 443 435 | Mo–Fr 10–18 Uhr**.
+
+### Lässt es sich bei der Sanierung einer Wohnung im Block einbauen?
+Ja, vor allem bei Balkontüren, wo Sie Platz im Raum gewinnen. Es wird in die vorhandene Öffnung eingebaut; Schwelle und Öffnung müssen nur einen geraden, gut befestigten Rahmen erlauben, was wir beim Aufmaß nach der Vertragsunterzeichnung prüfen.
+
+---
+
+Neofort BIZ fertigt und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Einzelheiten finden Sie im [vollständigen Vergleich der Salamander-Profile](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 FLEX](/de/produkte/bluevolution-92-flex-pvc-profil) und [das Salamander-Profil greenEvolution 76 AD FLEX](/de/produkte/greenevolution-76-ad-flex-pvc-profil).`,
+
+      fr: `## Qu’est-ce qu’une fenêtre oscillo-coulissante et en quoi diffère-t-elle de l’oscillo-battante ?
+
+La fenêtre **oscillo-coulissante** — dans le métier, **PSK** (de l’allemand *Parallel-Schiebe-Kipp*) — a un vantail qui fait deux choses : il **bascule** par le haut pour aérer, comme toute fenêtre moderne, et, pour une ouverture complète, il se décale légèrement du dormant et **coulisse en parallèle**, côté intérieur, devant le vantail fixe. Il ne pivote pas vers la pièce comme une porte.
+
+C’est là que naît la confusion la plus fréquente : beaucoup appellent « oscillo-coulissante » la fenêtre **oscillo-battante**, celle qui bascule et s’ouvre vers l’intérieur comme une porte. Ce sont des produits différents, avec une quincaillerie différente. L’oscillo-battant a besoin d’espace libre devant lui pour s’ouvrir ; l’oscillo-coulissant, non.
+
+**« Double »** signifie que la fenêtre comporte deux parties : un vantail oscillo-coulissant et un vantail fixe. Pour les grandes ouvertures, on peut utiliser deux vantaux oscillo-coulissants qui coulissent vers les côtés.
+
+---
+
+## Où la fenêtre oscillo-coulissante double trouve sa place
+
+L’oscillo-coulissant règle les cas où un vantail s’ouvrant vers l’intérieur gênerait :
+
+- **Les portes-fenêtres larges** de balcon et de terrasse, où un grand vantail battant occuperait la moitié de la pièce
+- **Les cuisines** et les petites pièces, où les meubles sont proches de la fenêtre
+- **Les séjours** aux grandes baies, où l’on veut beaucoup de vitrage et une ouverture sans effort
+- **Les rénovations**, quand on veut une porte-fenêtre plus large sans perdre de place dans la pièce
+
+---
+
+## Comment fonctionne le mécanisme oscillo-coulissant
+
+Le mécanisme est une quincaillerie spéciale PSK, fabriquée par des sociétés comme Roto ou Siegenia et montée sur les profilés PVC. La poignée a trois positions, selon la même logique qu’une fenêtre oscillo-battante :
+
+- **Fermé** — le vantail est pressé sur les joints sur tout le pourtour et verrouillé
+- **Basculé** — le vantail s’incline par le haut et laisse une fente d’aération, sans courant d’air direct
+- **Ouvert pour coulisser** — le vantail se décale du dormant et glisse en parallèle, sur roulettes, devant la partie fixe
+
+Sur les versions confort, tourner la poignée fait basculer le vantail automatiquement, sans le pousser à la main. Les roulettes sur roulements et les amortisseurs rendent le coulissement doux et silencieux.
+
+**Poids du vantail :** la quincaillerie oscillo-coulissante Roto Patio Alversa porte des vantaux jusqu’à **160 kg** ; les versions uniquement à coulissement parallèle, sans basculement, atteignent 200 kg. Les dimensions maximales dépendent de la quincaillerie et nous les confirmons dans le devis.
+
+---
+
+## Pourquoi le Salamander BluEvolution 92 pour la fenêtre oscillo-coulissante double
+
+Les profilés Salamander **BluEvolution 92** sont notre choix pour une fenêtre oscillo-coulissante double haute performance :
+
+### Caractéristiques techniques du BluEvolution 92
 
 | Paramètre | Valeur |
 |---|---|
 | Profondeur de construction | **92 mm** |
-| Chambres du profil | **6 chambres** |
-| Joints d'étanchéité | **3 joints périmétral** |
-| Coefficient thermique profil Uf | **0,95 W/m²K** |
-| Coefficient thermique fenêtre Uw | **jusqu'à 0,70 W/m²K** |
-| Isolation acoustique Rw | **jusqu'à 47 dB** |
-| Résistance antieffraction | **RC 2 standard, RC 3 en option** |
-| Épaisseur du vitrage | **jusqu'à 48 mm** (triple vitrage) |
+| Nombre de chambres du profilé | **6 chambres** |
+| Joints d’étanchéité | **3 joints** périphériques |
+| Coefficient thermique du profilé Uf | **0,95 W/m²K** |
+| Coefficient de la fenêtre Uw | **à partir de 0,70 W/m²K** en triple vitrage |
+| Isolation acoustique Rw | **jusqu’à 47 dB** |
+| Protection anti-effraction | **RC 2** avec quincaillerie de sécurité |
+| Vitrages acceptés | **jusqu’à 60 mm** (triple vitrage compris) |
+
+### Les avantages de la profondeur de 92 mm pour l’oscillo-coulissant
+
+Les vantaux oscillo-coulissants sont généralement grands et lourds, et la quincaillerie les porte sur des roulettes. La profondeur de 92 mm du profilé BluEvolution et son renfort en acier apportent la **rigidité** dont un grand vantail a besoin pour coulisser droit pendant des années, sans se déformer.
+
+Les **3 joints périphériques** font la différence en matière d’étanchéité : en position fermée, le vantail est pressé contre eux sur tout le pourtour, comme sur une fenêtre oscillo-battante.
 
 ---
 
-## Isolation thermique
+## L’oscillo-coulissant face aux autres types d’ouverture
 
-Une fenêtre oscillo-battante double BluEvolution 92 avec **triple vitrage Saint-Gobain SGG Planitherm** et **espaceurs Warm Edge Swisspacer** peut atteindre **Uw = 0,70–0,80 W/m²K** — des valeurs certifiées nZEB pour les bâtiments à énergie quasi nulle.
+| Critère | Oscillo-battant | Oscillo-coulissant (PSK) | Coulissant classique | Levant-coulissant (HST) |
+|---|---|---|---|---|
+| Place prise dans la pièce à l’ouverture | Grande | Très faible | Aucune | Aucune |
+| Étanchéité | Très bonne | Très bonne | Moyenne | Très bonne |
+| Aération par basculement | Oui | Oui | Non | Non |
+| Largeur libre à l’ouverture | Tout le vantail | Environ la moitié de la baie | Environ la moitié de la baie | Environ la moitié de la baie |
+| Coût | Le plus bas | Moyen | Faible | Le plus élevé |
 
----
-
-## Isolation acoustique — essentielle à Bucarest
-
-Le bruit urbain à Bucarest rend l'isolation acoustique de plus en plus importante. Un double oscillo-battant BluEvolution 92 avec triple vitrage peut atteindre **47 dB Rw**.
-
-**Conseil pratique :** pour les appartements donnant sur un axe passant, nous recommandons le verre **Saint-Gobain Stadip Silence** — verre feuilleté avec film PVB acoustique, Rw = 44–52 dB.
-
----
-
-## Durée de vie et résistance
-
-Les profils Salamander BluEvolution 92 sont fabriqués en **PVC classe A** selon EN 12608, avec une **épaisseur de paroi de 3 mm** — la norme de qualité allemande RAL GZ-716. Durée de vie déclarée : **40 à 60 ans** en conditions d'utilisation normales.
-
-Neofort BIZ installe toutes les fenêtres selon le **guide de pose RAL**, avec précadres Blaugelb Triotherm+, ruban précomprimé et membrane pare-vapeur.
-
-**Pour un devis personnalisé :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
-
-## FAQ — Fenêtres oscillo-battantes à deux vantaux
-
-### Que signifient les trois positions de la poignée ?
-Poignée horizontale — la fenêtre est fermée et verrouillée. Tournée vers le haut — le vantail bascule par le haut et laisse un espace de ventilation de 10 à 15 cm sans courant d’air direct. Tournée sur le côté — le vantail s’ouvre entièrement vers l’intérieur, comme une porte.
-
-### Quel Uw atteint une oscillo-battante double avec bluEvolution 92 ?
-Avec un triple vitrage de 52 mm, un intercalaire warm edge et une pose étanche, le système atteint un Uw de 0,70 W/(m²K). En double vitrage, la valeur remonte autour de 1,0 W/(m²K).
-
-### Peut-on poser une moustiquaire sur une oscillo-battante ?
-Oui, mais uniquement une moustiquaire extérieure, fixe ou enroulable. Elle se monte sur la face extérieure du dormant afin de ne pas gêner la bascule du vantail vers l’intérieur.
-
-### Combien de temps dure une oscillo-battante Salamander ?
-Le profilé tient 40 à 50 ans, le vitrage isolant 20 à 25 ans et la quincaillerie 15 à 20 ans avec un entretien annuel. Les joints se remplacent tous les 8 à 12 ans.
-
-### Quelle est la largeur maximale d’un vantail ?
-Pour un vantail ouvrant à la française, la limite pratique est de 90 à 100 cm de large et 240 cm de haut, selon le poids du vitrage. Au-delà, une autre typologie est conseillée.
+**En résumé :** l’oscillo-coulissant conserve l’étanchéité et l’aération d’une fenêtre oscillo-battante, sans prendre de place dans la pièce. Sa limite est l’ouverture : le vantail coulisse devant le vantail fixe, si bien qu’environ la moitié de la baie reste libre.
 
 ---
 
-Neofort BIZ fabrique et pose de la menuiserie PVC Salamander à Bucarest et Ilfov, avec livraison dans toute l’Europe. Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans [la comparaison complète des profilés Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 FLEX](/fr/produits/profil-pvc-bluevolution-92-flex) et [le profilé Salamander greenEvolution 76 AD FLEX](/fr/produits/profil-pvc-greenevolution-76-ad-flex).`,
+## L’isolation thermique de la fenêtre oscillo-coulissante double Salamander
 
-      es: `## ¿Qué es una ventana PVC oscilobatiente doble y por qué es tan popular en Bucarest?
+### Comment se calcule le Uw
 
-La ventana oscilobatiente doble — también llamada **doble hoja oscilobatiente** u **OB doble** — es una ventana con **dos hojas móviles independientes**, cada una con dos modos de apertura: **basculante** (por la parte superior, para ventilación controlada) o **batiente** (apertura lateral completa, como una puerta).
+Le coefficient de transmission thermique de la fenêtre (Uw) dépend de trois éléments :
+1. **Le profilé PVC** — Uf = 0,95 W/m²K pour le BluEvolution 92
+2. **Le vitrage isolant** — Ug = 0,5–1,1 W/m²K selon la configuration
+3. **L’intercalaire Warm Edge** — réduit le pont thermique en bord de vitrage
 
-En Bucarest y la zona de Ilfov, la ventana oscilobatiente doble es la solución preferida en viviendas, chalets y promociones residenciales.
+Comme elle s’étanche par pression sur les joints, la fenêtre oscillo-coulissante atteint des valeurs proches de celles d’une oscillo-battante du même profilé. Une fenêtre oscillo-coulissante double BluEvolution 92 en **triple vitrage Saint-Gobain SGG Planitherm** avec **intercalaire Warm Edge Swisspacer** peut atteindre un **Uw d’environ 0,70–0,80 W/m²K** — adapté aux maisons nZEB.
+
+### Comparaison avec d’autres solutions
+
+| Type de fenêtre | Uw typique |
+|---|---|
+| Ancien PVC 3 chambres | 2,0–2,5 W/m²K |
+| PVC standard 5 chambres | 1,2–1,5 W/m²K |
+| **BluEvolution 92 + double vitrage** | **1,0–1,1 W/m²K** |
+| **BluEvolution 92 + triple vitrage** | **0,70–0,80 W/m²K** |
+| Bois lamellé haut de gamme | 0,80–1,0 W/m²K |
 
 ---
 
-## Cómo funciona el mecanismo oscilobatiente
+## L’isolation acoustique — importante à Bucarest et dans l’Ilfov
 
-El mecanismo oscilobatiente es una construcción alemana de precisión, integrada en la herraje de cada hoja. Un solo pomo controla ambas funciones en tres posiciones:
+Le bruit urbain de Bucarest — circulation, tramways, chantiers — fait de l’isolation acoustique un critère de plus en plus important. Une fenêtre oscillo-coulissante BluEvolution 92 en triple vitrage acoustique peut atteindre **47 dB Rw** — de quoi ramener le bruit d’un boulevard animé de 75 dB à l’extérieur à moins de 30 dB à l’intérieur.
 
-- **Horizontal (0°)** — ventana **cerrada y bloqueada**
-- **Girado hacia arriba (180°)** — la hoja **bascula** desde la parte superior, creando una ranura de ventilación de 10–15 cm sin corriente de aire directa
-- **Girado lateralmente (90°)** — la hoja **se abre** completamente hacia el interior, como una puerta
-
-En la versión **doble**, cada una de las dos hojas tiene su propia maneta y herraje, funcionando de forma completamente independiente.
+**Conseil pratique :** pour les appartements donnant sur une grande artère ou proches d’infrastructures de transport, nous recommandons le vitrage **Saint-Gobain Stadip Silence** — verre feuilleté avec film PVB acoustique.
 
 ---
 
-## Por qué elegir Salamander BluEvolution 92
+## Durée de vie et entretien
 
-### Especificaciones técnicas BluEvolution 92
+### Combien de temps dure une fenêtre oscillo-coulissante double Salamander ?
+
+Les profilés Salamander BluEvolution 92 sont fabriqués en **PVC de classe A** selon la norme EN 12608, avec des parois extérieures d’environ **3 mm**. Durée de vie estimée des profilés : **40 à 60 ans** dans des conditions normales d’utilisation.
+
+La quincaillerie oscillo-coulissante compte plus de pièces mobiles qu’une quincaillerie oscillo-battante ; elle mérite donc un peu d’attention :
+- **Graisser la quincaillerie et les roulettes** — une fois par an
+- **Nettoyer le rail** — sans poussière ni sable, pour que les roulettes glissent bien
+- **Régler périodiquement** — tous les 2 à 3 ans, pour que la pression sur les joints reste uniforme
+- **Nettoyer les profilés** — uniquement avec des détergents neutres, sans solvants
+
+### Garantie Neofort BIZ
+
+Neofort BIZ offre une **garantie complète sur le produit et la main-d’œuvre**, confirmée par un certificat remis à la fin du chantier.
+
+---
+
+## Une pose correcte — la différence entre une bonne fenêtre et une fenêtre parfaite
+
+Pour l’oscillo-coulissant, la pose compte encore plus : un dormant de travers fait coulisser le vantail difficilement et l’empêche d’étancher uniformément. Neofort BIZ pose conformément au **guide RAL de pose des fenêtres**, ce qui suppose :
+
+1. **Un dormant de niveau et d’équerre** — vérifié sur tous les côtés, condition de base d’un coulissement correct
+2. **Des précadres Blaugelb Triotherm+** — suppriment les ponts thermiques à la jonction entre la fenêtre et le mur
+3. **Une bande butyle** — étanchéité extérieure contre l’eau et le vent
+4. **Un film pare-vapeur** — étanchéité intérieure contre la condensation
+
+Résultat : une fenêtre dont les performances réelles correspondent aux données techniques du profilé.
+
+---
+
+## Questions fréquentes — la fenêtre oscillo-coulissante double Salamander
+
+### Quelle est la différence entre l’oscillo-coulissant et l’oscillo-battant ?
+Les deux basculent pour aérer. L’oscillo-battant s’ouvre ensuite vers l’intérieur comme une porte et a besoin d’espace libre devant lui. L’oscillo-coulissant se décale du dormant et coulisse en parallèle devant le vantail fixe, sans prendre de place dans la pièce.
+
+### Prend-elle de la place dans la pièce une fois ouverte ?
+Très peu. Le vantail ne sort que de quelques centimètres du dormant et coulisse parallèlement à la fenêtre, devant la partie fixe. Vous pouvez avoir des meubles près de la fenêtre ou de la porte-fenêtre sans être gêné.
+
+### Quel poids et quelles dimensions peut-elle avoir ?
+La quincaillerie oscillo-coulissante porte des vantaux jusqu’à 160 kg (Roto Patio Alversa), et les versions uniquement à coulissement parallèle jusqu’à 200 kg. Les dimensions maximales dépendent de la quincaillerie et du profilé ; nous les confirmons dans le devis pour votre baie.
+
+### Combien coûte une fenêtre oscillo-coulissante double Salamander BluEvolution 92 ?
+Elle coûte plus cher qu’une oscillo-battante de même taille, à cause de la quincaillerie, mais moins qu’une porte levante-coulissante. Consultez la [gamme complète de menuiserie PVC Salamander](/fr/menuiserie-pvc) ou les [prix indicatifs](/fr/menuiserie-pvc/prix), et demandez un devis à **oferte@neofort-biz.ro** ou au **+40 752 443 435 | Lun–Ven 10h–18h**.
+
+### Peut-on la poser lors de la rénovation d’un appartement en immeuble ?
+Oui, surtout pour les portes-fenêtres de balcon, où l’on gagne de la place dans la pièce. Elle se pose dans la baie existante ; il faut seulement que le seuil et la baie permettent un dormant droit et bien fixé, ce que nous vérifions lors du métré réalisé après la signature du contrat.
+
+---
+
+Neofort BIZ fabrique et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans la [comparaison complète des profilés Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 FLEX](/fr/produits/profil-pvc-bluevolution-92-flex) et [le profilé Salamander greenEvolution 76 AD FLEX](/fr/produits/profil-pvc-greenevolution-76-ad-flex).`,
+
+      es: `## ¿Qué es la ventana oscilo-paralela y en qué se diferencia de la oscilobatiente?
+
+La ventana **oscilo-paralela** — en el sector, **PSK** (del alemán *Parallel-Schiebe-Kipp*) — tiene una hoja que hace dos cosas: se **abate** por arriba para ventilar, como cualquier ventana moderna, y, para la apertura completa, se separa un poco del marco y **se desliza en paralelo**, por el interior, por delante de la hoja fija. No gira hacia la habitación como una puerta.
+
+Aquí surge la confusión más frecuente: mucha gente llama «oscilo-paralela» a la ventana **oscilobatiente**, la que se abate y se abre hacia dentro como una puerta. Son productos distintos, con herrajes distintos. La oscilobatiente necesita espacio libre delante para abrirse; la oscilo-paralela, no.
+
+**«Doble»** significa que la ventana tiene dos paños: una hoja oscilo-paralela y una fija. En huecos grandes se pueden usar dos hojas oscilo-paralelas que se deslizan hacia los lados.
+
+---
+
+## Dónde encaja la ventana oscilo-paralela doble
+
+La oscilo-paralela resuelve los casos en que una hoja que abre hacia dentro estorbaría:
+
+- **Puertas anchas de balcón y terraza**, donde una gran hoja abatible ocuparía media habitación
+- **Cocinas** y habitaciones pequeñas, donde los muebles están cerca de la ventana
+- **Salones** con huecos grandes, donde se quiere mucho vidrio y abrir sin esfuerzo
+- **Reformas**, cuando se quiere una puerta de balcón más ancha sin perder espacio en la habitación
+
+---
+
+## Cómo funciona el mecanismo oscilo-paralelo
+
+El mecanismo es un herraje especial PSK, fabricado por empresas como Roto o Siegenia y montado en los perfiles de PVC. La manilla tiene tres posiciones, con la misma lógica que una ventana oscilobatiente:
+
+- **Cerrada**: la hoja queda presionada contra las juntas en todo el perímetro y bloqueada
+- **Abatida**: la hoja se inclina por arriba y deja una rendija de ventilación, sin corriente directa
+- **Abierta para deslizar**: la hoja se separa del marco y se desliza en paralelo, sobre rodillos, por delante del paño fijo
+
+En las versiones confort, al girar la manilla la hoja se abate automáticamente, sin empujarla con la mano. Los rodillos sobre rodamientos y los amortiguadores hacen que el deslizamiento sea suave y silencioso.
+
+**Peso de la hoja:** el herraje oscilo-paralelo Roto Patio Alversa soporta hojas de hasta **160 kg**; las versiones solo de deslizamiento paralelo, sin abatimiento, llegan a 200 kg. Las dimensiones máximas dependen del herraje y las confirmamos en el presupuesto.
+
+---
+
+## Por qué Salamander BluEvolution 92 para la ventana oscilo-paralela doble
+
+Los perfiles Salamander **BluEvolution 92** son nuestra elección para una ventana oscilo-paralela doble de alto rendimiento:
+
+### Especificaciones técnicas de BluEvolution 92
 
 | Parámetro | Valor |
 |---|---|
 | Profundidad de construcción | **92 mm** |
-| Cámaras del perfil | **6 cámaras** |
-| Juntas de estanqueidad | **3 juntas perimetrales** |
-| Coeficiente térmico perfil Uf | **0,95 W/m²K** |
-| Coeficiente térmico ventana Uw | **hasta 0,70 W/m²K** |
+| Número de cámaras del perfil | **6 cámaras** |
+| Juntas de estanqueidad | **3 juntas** perimetrales |
+| Coeficiente térmico del perfil Uf | **0,95 W/m²K** |
+| Coeficiente de la ventana Uw | **desde 0,70 W/m²K** con triple acristalamiento |
 | Aislamiento acústico Rw | **hasta 47 dB** |
-| Resistencia antiintrusión | **RC 2 estándar, RC 3 opcional** |
-| Espesor del acristalamiento | **hasta 48 mm** (triple acristalamiento) |
+| Protección antirrobo | **RC 2** con herrajes de seguridad |
+| Vidrios admitidos | **hasta 60 mm** (triple acristalamiento incluido) |
+
+### Las ventajas de los 92 mm de profundidad en la oscilo-paralela
+
+Las hojas oscilo-paralelas suelen ser grandes y pesadas, y el herraje las sostiene sobre rodillos. Los 92 mm de profundidad del perfil BluEvolution y su refuerzo de acero aportan la **rigidez** que necesita una hoja grande para deslizarse recta durante años, sin deformarse.
+
+Las **3 juntas perimetrales** marcan la diferencia en la estanqueidad: en posición cerrada, la hoja queda presionada contra ellas en todo el contorno, como en una ventana oscilobatiente.
 
 ---
 
-## Aislamiento térmico
+## La oscilo-paralela frente a otros tipos de apertura
 
-Una ventana oscilobatiente doble BluEvolution 92 con **triple acristalamiento Saint-Gobain SGG Planitherm** y **separadores Warm Edge Swisspacer** puede alcanzar **Uw = 0,70–0,80 W/m²K** — valores certificados nZEB para edificios de consumo de energía casi nulo.
+| Criterio | Oscilobatiente | Oscilo-paralela (PSK) | Corredera clásica | Corredera elevable (HST) |
+|---|---|---|---|---|
+| Espacio ocupado en la habitación al abrir | Mucho | Muy poco | Ninguno | Ninguno |
+| Estanqueidad | Muy buena | Muy buena | Media | Muy buena |
+| Ventilación abatida | Sí | Sí | No | No |
+| Ancho libre al abrir | Toda la hoja | Más o menos la mitad del hueco | Más o menos la mitad del hueco | Más o menos la mitad del hueco |
+| Coste | El más bajo | Medio | Bajo | El más alto |
 
----
-
-## Aislamiento acústico — importante en Bucarest
-
-El ruido urbano en Bucarest hace que el aislamiento acústico sea un criterio cada vez más importante. Una ventana doble BluEvolution 92 con triple acristalamiento puede alcanzar **47 dB Rw**.
-
-**Consejo práctico:** para viviendas con fachada a vía principal, recomendamos el vidrio **Saint-Gobain Stadip Silence** — vidrio laminado con lámina PVB acústica, Rw = 44–52 dB.
-
----
-
-## Vida útil y durabilidad
-
-Los perfiles Salamander BluEvolution 92 se fabrican en **PVC clase A** según EN 12608, con **3 mm de espesor de pared** — la norma de calidad alemana RAL GZ-716. Vida útil declarada: **40 a 60 años** en condiciones normales de uso.
-
-Neofort BIZ instala todas las ventanas según la **guía de montaje RAL**, incluyendo premarcos Blaugelb Triotherm+, cinta precomprimida butílica y membrana antihumedad.
-
-**Para un presupuesto personalizado:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18**
-
-## FAQ — Ventanas oscilobatientes de dos hojas
-
-### ¿Qué significan las tres posiciones de la manilla?
-Manilla horizontal — la ventana está cerrada y bloqueada. Girada hacia arriba — la hoja bascula por la parte superior y deja una abertura de ventilación de 10–15 cm sin corriente directa. Girada de lado — la hoja se abre por completo hacia el interior, como una puerta.
-
-### ¿Qué Uw alcanza una oscilobatiente doble con bluEvolution 92?
-Con triple acristalamiento de 52 mm, separador warm edge e instalación estanca, el sistema alcanza un Uw de 0,70 W/(m²K). Con doble acristalamiento el valor sube a unos 1,0 W/(m²K).
-
-### ¿Se puede montar mosquitera en una oscilobatiente?
-Sí, pero solo mosquitera exterior, fija o enrollable. Se monta en la cara exterior del marco para no impedir el basculamiento de la hoja hacia dentro.
-
-### ¿Cuánto dura una oscilobatiente Salamander?
-El perfil dura 40–50 años, el vidrio aislante 20–25 y la herrajería 15–20 años con mantenimiento anual. Las juntas se cambian cada 8–12 años.
-
-### ¿Cuál es el ancho máximo de una hoja?
-En hojas de apertura interior el límite práctico es de 90–100 cm de ancho y 240 cm de alto, según el peso del vidrio. Por encima conviene otra tipología.
+**En resumen:** la oscilo-paralela conserva la estanqueidad y la ventilación de una ventana oscilobatiente, pero no ocupa espacio en la habitación. Su límite es la apertura: la hoja se desliza por delante de la fija, así que queda libre más o menos la mitad del hueco.
 
 ---
 
-Neofort BIZ fabrica e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Todos los detalles en [la comparación completa de los perfiles Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 FLEX](/es/productos/perfil-pvc-bluevolution-92-flex) y [el perfil Salamander greenEvolution 76 AD FLEX](/es/productos/perfil-pvc-greenevolution-76-ad-flex).`,
+## El aislamiento térmico de la ventana oscilo-paralela doble Salamander
 
-      it: `## Cos'è una finestra PVC anta e ribalta doppia e perché è così diffusa a Bucarest?
+### Cómo se calcula el Uw
 
-La finestra anta e ribalta doppia — chiamata anche **doppio anta ribalta** o **vasistas doppio** — è una finestra con **due ante mobili indipendenti**, ognuna apribile in due modi: **a ribalta** (basculante dall'alto, per ventilazione controllata) o **a battente** (apertura laterale completa, come una porta).
+El coeficiente de transmisión térmica de la ventana (Uw) depende de tres componentes:
+1. **El perfil de PVC**: Uf = 0,95 W/m²K en BluEvolution 92
+2. **El vidrio aislante**: Ug = 0,5–1,1 W/m²K según la configuración
+3. **El separador Warm Edge**: reduce el puente térmico del borde del vidrio
 
-A Bucarest e nella zona di Ilfov, la finestra anta e ribalta doppia è la scelta prevalente per appartamenti, ville e progetti residenziali. Lo stesso tipo di soluzione è molto apprezzato nelle ristrutturazioni a Roma, Milano e in tutta Italia, dove il sistema offre ventilazione sicura senza correnti d'aria, ideale per le temperature mediterranee.
+Como sella por presión sobre las juntas, la oscilo-paralela alcanza valores cercanos a los de una oscilobatiente del mismo perfil. Una ventana oscilo-paralela doble BluEvolution 92 con **triple acristalamiento Saint-Gobain SGG Planitherm** y **separador Warm Edge Swisspacer** puede alcanzar un **Uw de alrededor de 0,70–0,80 W/m²K**, adecuado para casas nZEB.
+
+### Comparación con otras soluciones
+
+| Tipo de ventana | Uw típico |
+|---|---|
+| PVC antiguo de 3 cámaras | 2,0–2,5 W/m²K |
+| PVC estándar de 5 cámaras | 1,2–1,5 W/m²K |
+| **BluEvolution 92 + doble acristalamiento** | **1,0–1,1 W/m²K** |
+| **BluEvolution 92 + triple acristalamiento** | **0,70–0,80 W/m²K** |
+| Madera laminada premium | 0,80–1,0 W/m²K |
 
 ---
 
-## Come funziona il meccanismo anta e ribalta
+## El aislamiento acústico, importante en Bucarest e Ilfov
 
-Il meccanismo anta e ribalta è una costruzione tedesca di precisione, integrata nella ferramenta di ogni anta. Una sola maniglia controlla entrambe le funzioni in tre posizioni:
+El ruido urbano de Bucarest (tráfico, tranvías, obras) hace que el aislamiento acústico sea un criterio cada vez más importante. Una ventana oscilo-paralela BluEvolution 92 con triple acristalamiento acústico puede alcanzar **47 dB Rw**, suficiente para reducir el ruido de un bulevar concurrido de 75 dB en el exterior a menos de 30 dB en casa.
 
-- **Orizzontale (0°)** — finestra **chiusa e bloccata**
-- **Ruotata verso l'alto (180°)** — l'anta **ribalta** dall'alto, creando una fessura di ventilazione di 10–15 cm senza corrente d'aria diretta
-- **Ruotata lateralmente (90°)** — l'anta **si apre** completamente verso l'interno, come una porta
-
-Nella versione **doppia**, ognuna delle due ante ha la propria maniglia e ferramenta, funzionando in modo completamente indipendente. È possibile ribaltare un'anta per la ventilazione notturna e tenere l'altra chiusa.
+**Consejo práctico:** para pisos que dan a una calle principal o están cerca de infraestructuras de transporte, recomendamos el vidrio **Saint-Gobain Stadip Silence**, vidrio laminado con lámina de PVB acústica.
 
 ---
 
-## Perché scegliere il Salamander BluEvolution 92
+## Vida útil y mantenimiento
+
+### ¿Cuánto dura una ventana oscilo-paralela doble Salamander?
+
+Los perfiles Salamander BluEvolution 92 se fabrican en **PVC de clase A** según la norma EN 12608, con paredes exteriores de unos **3 mm**. Vida útil estimada de los perfiles: **40–60 años** en condiciones normales de uso.
+
+El herraje oscilo-paralelo tiene más piezas móviles que uno oscilobatiente, así que merece un poco de cuidado:
+- **Engrasar el herraje y los rodillos**: una vez al año
+- **Limpiar el carril**: sin polvo ni arena, para que los rodillos se deslicen bien
+- **Ajustes periódicos**: cada 2–3 años, para que la presión sobre las juntas siga siendo uniforme
+- **Limpiar los perfiles**: solo con detergentes neutros, sin disolventes
+
+### Garantía Neofort BIZ
+
+Neofort BIZ ofrece **garantía completa sobre producto y mano de obra**, confirmada con un certificado al terminar la obra.
+
+---
+
+## Una instalación correcta: la diferencia entre una ventana buena y una perfecta
+
+En la oscilo-paralela, la instalación importa todavía más: un marco torcido hace que la hoja se deslice con dificultad y deje de sellar de forma uniforme. Neofort BIZ instala según la **guía RAL de montaje de ventanas**, lo que supone:
+
+1. **Un marco a nivel y en escuadra**: comprobado en todos los lados, condición básica para un deslizamiento correcto
+2. **Premarcos Blaugelb Triotherm+**: eliminan los puentes térmicos en la unión entre la ventana y el muro
+3. **Cinta de butilo**: sellado exterior frente al agua y el viento
+4. **Lámina barrera de vapor**: sellado interior para evitar la condensación
+
+El resultado: una ventana cuyo rendimiento real coincide con los datos técnicos del perfil.
+
+---
+
+## Preguntas frecuentes — la ventana oscilo-paralela doble Salamander
+
+### ¿Cuál es la diferencia entre oscilo-paralela y oscilobatiente?
+Las dos se abaten para ventilar. La oscilobatiente se abre después hacia dentro como una puerta y necesita espacio libre delante. La oscilo-paralela se separa del marco y se desliza en paralelo por delante de la hoja fija, sin ocupar espacio en la habitación.
+
+### ¿Ocupa espacio en la habitación cuando está abierta?
+Muy poco. La hoja solo sale unos centímetros del marco y se desliza en paralelo a la ventana, por delante del paño fijo. Puede tener muebles cerca de la ventana o de la puerta de balcón sin que estorben.
+
+### ¿Qué peso y qué dimensiones puede tener?
+El herraje oscilo-paralelo soporta hojas de hasta 160 kg (Roto Patio Alversa), y las versiones solo de deslizamiento paralelo hasta 200 kg. Las dimensiones máximas dependen del herraje y del perfil; para su hueco las confirmamos en el presupuesto.
+
+### ¿Cuánto cuesta una ventana oscilo-paralela doble Salamander BluEvolution 92?
+Cuesta más que una oscilobatiente del mismo tamaño, por el herraje, pero menos que una corredera elevable. Consulte la [gama completa de carpintería de PVC Salamander](/es/carpinteria-pvc) o los [precios orientativos](/es/carpinteria-pvc/precios), y pida presupuesto en **oferte@neofort-biz.ro** o en el **+40 752 443 435 | Lun–Vie 10–18 h**.
+
+### ¿Se puede montar al reformar un piso en un bloque?
+Sí, sobre todo en las puertas de balcón, donde se gana espacio en la habitación. Se monta en el hueco existente; solo hace falta que el umbral y el hueco permitan un marco recto y bien fijado, algo que comprobamos en la medición posterior a la firma del contrato.
+
+---
+
+Neofort BIZ fabrica e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Todos los detalles en la [comparación completa de los perfiles Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 FLEX](/es/productos/perfil-pvc-bluevolution-92-flex) y [el perfil Salamander greenEvolution 76 AD FLEX](/es/productos/perfil-pvc-greenevolution-76-ad-flex).`,
+
+      it: `## Che cos’è la finestra scorrevole a ribalta e in cosa si distingue dall’anta ribalta?
+
+La finestra **scorrevole a ribalta** — nel settore, **PSK** (dal tedesco *Parallel-Schiebe-Kipp*) — ha un’anta che fa due cose: si **inclina** dall’alto per arieggiare, come ogni finestra moderna, e, per l’apertura completa, si stacca leggermente dal telaio e **scorre in parallelo**, all’interno, davanti all’anta fissa. Non ruota verso la stanza come una porta.
+
+Qui nasce la confusione più frequente: molti chiamano «scorrevole a ribalta» la finestra ad **anta ribalta**, quella che si inclina e si apre verso l’interno come una porta. Sono prodotti diversi, con ferramenta diversa. L’anta ribalta ha bisogno di spazio libero davanti per aprirsi; la scorrevole a ribalta no.
+
+**«Doppia»** significa che la finestra ha due campi: un’anta scorrevole a ribalta e una fissa. Nelle aperture grandi si possono usare due ante scorrevoli a ribalta che scorrono verso i lati.
+
+---
+
+## Dove si adatta la finestra scorrevole a ribalta doppia
+
+La scorrevole a ribalta risolve i casi in cui un’anta che si apre verso l’interno darebbe fastidio:
+
+- **Porte-finestre larghe** su balconi e terrazze, dove una grande anta a battente occuperebbe mezza stanza
+- **Cucine** e stanze piccole, dove i mobili sono vicini alla finestra
+- **Soggiorni** con grandi aperture, dove si vuole tanto vetro e un’apertura senza fatica
+- **Ristrutturazioni**, quando si vuole una porta-finestra più larga senza perdere spazio nella stanza
+
+---
+
+## Come funziona il meccanismo scorrevole a ribalta
+
+Il meccanismo è una ferramenta speciale PSK, prodotta da aziende come Roto o Siegenia e montata sui profili in PVC. La maniglia ha tre posizioni, con la stessa logica di una finestra ad anta ribalta:
+
+- **Chiusa**: l’anta è premuta sulle guarnizioni su tutto il perimetro e bloccata
+- **A ribalta**: l’anta si inclina dall’alto e lascia una fessura di aerazione, senza corrente diretta
+- **Aperta per lo scorrimento**: l’anta si stacca dal telaio e scorre in parallelo, su rotelle, davanti al campo fisso
+
+Nelle versioni comfort, ruotando la maniglia l’anta si inclina da sola, senza spingerla a mano. Le rotelle su cuscinetti e gli ammortizzatori rendono lo scorrimento morbido e silenzioso.
+
+**Peso dell’anta:** la ferramenta scorrevole a ribalta Roto Patio Alversa porta ante fino a **160 kg**; le versioni solo a scorrimento parallelo, senza ribalta, arrivano a 200 kg. Le dimensioni massime dipendono dalla ferramenta e le confermiamo nel preventivo.
+
+---
+
+## Perché Salamander BluEvolution 92 per la finestra scorrevole a ribalta doppia
+
+I profili Salamander **BluEvolution 92** sono la nostra scelta per una finestra scorrevole a ribalta doppia ad alte prestazioni:
 
 ### Specifiche tecniche BluEvolution 92
 
 | Parametro | Valore |
 |---|---|
-| Profondità di costruzione | **92 mm** |
-| Camere del profilo | **6 camere** |
-| Guarnizioni di tenuta | **3 guarnizioni perimetrali** |
-| Coefficiente termico profilo Uf | **0,95 W/m²K** |
-| Coefficiente termico finestra Uw | **fino a 0,70 W/m²K** |
+| Profondità del profilo | **92 mm** |
+| Numero di camere del profilo | **6 camere** |
+| Guarnizioni di tenuta | **3 guarnizioni** perimetrali |
+| Coefficiente termico del profilo Uf | **0,95 W/m²K** |
+| Coefficiente della finestra Uw | **da 0,70 W/m²K** con vetro triplo |
 | Isolamento acustico Rw | **fino a 47 dB** |
-| Resistenza all'effrazione | **RC 2 standard, RC 3 opzionale** |
-| Spessore del vetrocamera | **fino a 48 mm** (triplo vetro) |
+| Protezione antieffrazione | **RC 2** con ferramenta di sicurezza |
+| Vetrocamere ammesse | **fino a 60 mm** (vetro triplo incluso) |
+
+### I vantaggi dei 92 mm di profondità nella scorrevole a ribalta
+
+Le ante scorrevoli a ribalta sono di solito grandi e pesanti, e la ferramenta le sostiene su rotelle. I 92 mm di profondità del profilo BluEvolution e il rinforzo in acciaio danno la **rigidità** di cui un’anta grande ha bisogno per scorrere dritta per anni, senza deformarsi.
+
+Le **3 guarnizioni perimetrali** fanno la differenza nella tenuta: in posizione chiusa l’anta è premuta su di esse lungo tutto il contorno, come in una finestra ad anta ribalta.
 
 ---
 
-## Isolamento termico
+## La scorrevole a ribalta a confronto con gli altri tipi di apertura
 
-Una finestra anta e ribalta doppia BluEvolution 92 con **triplo vetro Saint-Gobain SGG Planitherm** e **distanziali Warm Edge Swisspacer** può raggiungere **Uw = 0,70–0,80 W/m²K** — valori certificati nZEB per edifici a energia quasi zero.
+| Criterio | Anta ribalta | Scorrevole a ribalta (PSK) | Scorrevole classico | Alzante scorrevole (HST) |
+|---|---|---|---|---|
+| Spazio occupato nella stanza in apertura | Molto | Pochissimo | Nessuno | Nessuno |
+| Tenuta | Molto buona | Molto buona | Media | Molto buona |
+| Aerazione a ribalta | Sì | Sì | No | No |
+| Larghezza libera in apertura | Tutta l’anta | Circa metà del vano | Circa metà del vano | Circa metà del vano |
+| Costo | Il più basso | Medio | Basso | Il più alto |
 
----
-
-## Isolamento acustico — fondamentale a Bucarest e nelle grandi città
-
-Il rumore urbano — traffico, cantieri, trasporti pubblici — rende l'isolamento acustico un criterio sempre più importante, sia a Bucarest che a Roma o Milano. Una doppia anta e ribalta BluEvolution 92 con triplo vetro può raggiungere **47 dB Rw**.
-
-**Consiglio pratico:** per gli appartamenti che affacciano su strade trafficate, raccomandiamo il vetro **Saint-Gobain Stadip Silence** — vetro stratificato con pellicola PVB acustica, Rw = 44–52 dB.
-
----
-
-## Durata e resistenza
-
-I profili Salamander BluEvolution 92 sono prodotti in **PVC classe A** secondo EN 12608, con **spessore di parete di 3 mm** — lo standard di qualità tedesco RAL GZ-716. Durata di vita dichiarata: **da 40 a 60 anni** in condizioni normali di utilizzo.
-
-Neofort BIZ installa tutte le finestre secondo la **guida di posa RAL**, con controtelai Blaugelb Triotherm+, nastro precompresso butilico e membrana vapore.
-
-**Per un preventivo personalizzato:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
-
-## FAQ — Finestre anta-ribalta a due ante
-
-### Che cosa significano le tre posizioni della maniglia?
-Maniglia orizzontale — la finestra è chiusa e bloccata. Ruotata verso l’alto — l’anta ribalta dalla parte superiore e lascia una fessura di ventilazione di 10–15 cm senza corrente diretta. Ruotata di lato — l’anta si apre completamente verso l’interno, come una porta.
-
-### Quale Uw raggiunge un’anta-ribalta doppia con bluEvolution 92?
-Con triplo vetro da 52 mm, distanziale warm edge e posa a tenuta, il sistema raggiunge un Uw di 0,70 W/(m²K). Con doppio vetro il valore sale intorno a 1,0 W/(m²K).
-
-### Si può montare una zanzariera su un’anta-ribalta?
-Sì, ma solo esterna, fissa o avvolgibile. Si monta sul lato esterno del telaio per non ostacolare il ribaltamento dell’anta verso l’interno.
-
-### Quanto dura una finestra anta-ribalta Salamander?
-Il profilo dura 40–50 anni, la vetrocamera 20–25 e la ferramenta 15–20 anni con manutenzione annuale. Le guarnizioni si sostituiscono ogni 8–12 anni.
-
-### Qual è la larghezza massima di un’anta?
-Per un’anta con apertura interna il limite pratico è 90–100 cm di larghezza e 240 cm di altezza, a seconda del peso del vetro. Oltre, conviene un’altra tipologia.
+**In breve:** la scorrevole a ribalta mantiene la tenuta e l’aerazione di una finestra ad anta ribalta, ma non occupa spazio nella stanza. Il suo limite è l’apertura: l’anta scorre davanti a quella fissa, quindi resta libera circa metà del vano.
 
 ---
 
-Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, con consegna in tutta Europa. Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo o [richiedi un preventivo](/it/contatti). Tutti i dettagli nel [confronto completo dei profili Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 FLEX](/it/prodotti/profilo-pvc-bluevolution-92-flex) e [il profilo Salamander greenEvolution 76 AD FLEX](/it/prodotti/profilo-pvc-greenevolution-76-ad-flex).`,
+## L’isolamento termico della finestra scorrevole a ribalta doppia Salamander
+
+### Come si calcola l’Uw
+
+Il coefficiente di trasmittanza termica della finestra (Uw) dipende da tre componenti:
+1. **Il profilo in PVC**: Uf = 0,95 W/m²K per BluEvolution 92
+2. **Il vetro isolante**: Ug = 0,5–1,1 W/m²K in base alla configurazione
+3. **Il distanziatore Warm Edge**: riduce il ponte termico sul bordo del vetro
+
+Poiché chiude a tenuta premendo sulle guarnizioni, la scorrevole a ribalta raggiunge valori vicini a quelli di un’anta ribalta dello stesso profilo. Una finestra scorrevole a ribalta doppia BluEvolution 92 con **vetro triplo Saint-Gobain SGG Planitherm** e **distanziatore Warm Edge Swisspacer** può raggiungere un **Uw di circa 0,70–0,80 W/m²K**, adatto alle case nZEB.
+
+### Confronto con altre soluzioni
+
+| Tipo di finestra | Uw tipico |
+|---|---|
+| Vecchio PVC a 3 camere | 2,0–2,5 W/m²K |
+| PVC standard a 5 camere | 1,2–1,5 W/m²K |
+| **BluEvolution 92 + vetro doppio** | **1,0–1,1 W/m²K** |
+| **BluEvolution 92 + vetro triplo** | **0,70–0,80 W/m²K** |
+| Legno lamellare premium | 0,80–1,0 W/m²K |
+
+---
+
+## L’isolamento acustico: importante a Bucarest e nell’Ilfov
+
+Il rumore urbano di Bucarest (traffico, tram, cantieri) rende l’isolamento acustico un criterio sempre più importante. Una finestra scorrevole a ribalta BluEvolution 92 con vetro triplo acustico può raggiungere **47 dB Rw**, abbastanza per ridurre il rumore di un viale trafficato da 75 dB all’esterno a meno di 30 dB in casa.
+
+**Consiglio pratico:** per gli appartamenti affacciati su una strada principale o vicini a infrastrutture di trasporto consigliamo il vetro **Saint-Gobain Stadip Silence**, vetro stratificato con pellicola PVB acustica.
+
+---
+
+## Durata e manutenzione
+
+### Quanto dura una finestra scorrevole a ribalta doppia Salamander?
+
+I profili Salamander BluEvolution 92 sono realizzati in **PVC di classe A** secondo la EN 12608, con pareti esterne di circa **3 mm**. Durata stimata dei profili: **40–60 anni** in condizioni d’uso normali.
+
+La ferramenta scorrevole a ribalta ha più parti in movimento di una ferramenta ad anta ribalta, quindi merita un po’ di cura:
+- **Lubrificare ferramenta e rotelle**: una volta all’anno
+- **Pulire il binario**: senza polvere né sabbia, perché le rotelle scorrano bene
+- **Regolazioni periodiche**: ogni 2–3 anni, perché la pressione sulle guarnizioni resti uniforme
+- **Pulire i profili**: solo con detergenti neutri, senza solventi
+
+### Garanzia Neofort BIZ
+
+Neofort BIZ offre una **garanzia completa su prodotto e manodopera**, confermata da un certificato rilasciato alla fine del lavoro.
+
+---
+
+## Una posa corretta: la differenza tra una buona finestra e una perfetta
+
+Nella scorrevole a ribalta la posa conta ancora di più: un telaio storto fa scorrere l’anta a fatica e le impedisce di chiudere a tenuta in modo uniforme. Neofort BIZ posa secondo la **guida RAL per la posa delle finestre**, che prevede:
+
+1. **Un telaio in bolla e in squadra**: verificato su tutti i lati, condizione di base per uno scorrimento corretto
+2. **Controtelai Blaugelb Triotherm+**: eliminano i ponti termici nel giunto tra finestra e muro
+3. **Nastro butilico**: tenuta esterna contro acqua e vento
+4. **Membrana barriera al vapore**: tenuta interna contro la condensa
+
+Il risultato: una finestra con prestazioni reali pari ai dati tecnici del profilo.
+
+---
+
+## Domande frequenti — la finestra scorrevole a ribalta doppia Salamander
+
+### Qual è la differenza tra scorrevole a ribalta e anta ribalta?
+Entrambe si inclinano per arieggiare. L’anta ribalta poi si apre verso l’interno come una porta e ha bisogno di spazio libero davanti. La scorrevole a ribalta si stacca dal telaio e scorre in parallelo davanti all’anta fissa, senza occupare spazio nella stanza.
+
+### Occupa spazio nella stanza quando è aperta?
+Pochissimo. L’anta esce solo di qualche centimetro dal telaio e scorre parallela alla finestra, davanti al campo fisso. Potete avere mobili vicino alla finestra o alla porta-finestra senza che diano fastidio.
+
+### Quale peso e quali dimensioni può avere?
+La ferramenta scorrevole a ribalta porta ante fino a 160 kg (Roto Patio Alversa), e le versioni solo a scorrimento parallelo fino a 200 kg. Le dimensioni massime dipendono da ferramenta e profilo; per il vostro vano le confermiamo nel preventivo.
+
+### Quanto costa una finestra scorrevole a ribalta doppia Salamander BluEvolution 92?
+Costa più di una finestra ad anta ribalta della stessa misura, per via della ferramenta, ma meno di un alzante scorrevole. Consultate la [gamma completa di infissi in PVC Salamander](/it/infissi-pvc) o i [prezzi indicativi](/it/infissi-pvc/prezzi) e chiedete un preventivo a **oferte@neofort-biz.ro** o al **+40 752 443 435 | Lun–Ven 10–18**.
+
+### Si può montare nella ristrutturazione di un appartamento in condominio?
+Sì, soprattutto sulle porte-finestre del balcone, dove si guadagna spazio nella stanza. Si monta nel vano esistente; basta che soglia e vano consentano un telaio dritto e ben fissato, cosa che verifichiamo al rilievo misure dopo la firma del contratto.
+
+---
+
+Neofort BIZ produce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Tutti i dettagli nel [confronto completo dei profili Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 FLEX](/it/prodotti/profilo-pvc-bluevolution-92-flex) e [il profilo Salamander greenEvolution 76 AD FLEX](/it/prodotti/profilo-pvc-greenevolution-76-ad-flex).`,
     },
   },
   {
@@ -32441,12 +33175,12 @@ Neofort BIZ integra tapparelle, veneziane e pergole in sistemi smart home TaHoma
     content: {
       ro: `## Ce este coeficientul termic Uw al unei ferestre?
 
-**Uw (Wärmedurchgangskoeffizient)** este valoarea care măsoară cât de mult căldură pierde o fereastră — cu cât este mai mic, cu atât fereastra izolează mai bine. Se exprimă în **W/(m²K)** și include atât profilul (Uf), cât și geamul (Ug) și distanțierul (Ψg).
+**Uw (Wärmedurchgangskoeffizient)** este valoarea care măsoară câtă căldură pierde o fereastră — cu cât este mai mic, cu atât fereastra izolează mai bine. Se exprimă în **W/(m²K)** și include atât profilul (Uf), cât și geamul (Ug) și distanțierul (Ψg).
 
 **Formula de calcul:**
 **Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-Practic: o fereastră cu Uw = 0,72 W/(m²K) pierde de 6,5 ori mai puțină căldură decât una veche cu Uw = 4,8 W/(m²K).
+Practic: o fereastră cu Uw = 0,72 W/(m²K) pierde de aproape 7 ori mai puțină căldură decât una veche cu Uw = 4,8 W/(m²K).
 
 ## Ce coeficient termic impune legislația română în 2026?
 
@@ -32467,79 +33201,81 @@ Metodologia de calcul al performanței energetice a clădirilor, **Mc 001-2022**
 
 ### Ferestre PVC Salamander
 
-| Profil | Uf (W/m²K) | Uw cu tripan 44mm | Uw cu tripan 52mm |
+| Profil | Uf (W/m²K) | Geam maxim | Uw minim (cu tripan) |
 |---|---|---|---|
-| bluEvolution 92 | 0,95 | **0,72** | **0,70** |
-| GreenEvolution 76 | 1,10 | 0,88 | 0,82 |
+| bluEvolution 92 | 0,95 | 60 mm | **de la 0,70** |
+| GreenEvolution 76 | 1,2 | 48 mm | de la 0,73 |
 
-### Ferestre Aluminiu Alumil
+### Tâmplărie aluminiu Alumil
 
-| Sistem | Uf (W/m²K) | Uw cu tripan 44mm |
+| Sistem | Uf (W/m²K) | Uw minim |
 |---|---|---|
-| S77 Supreme | 1,30 | 1,00–1,15 |
-| SF85 (ușă) | 1,40 | 1,10–1,25 |
-| Smartia M19800 (culisantă) | 1,50 | 1,20–1,35 |
+| S77 Supreme (ferestre și uși) | de la 0,86 | de la 1,0 |
+| SF85 Supreme (ușă armonică) | de la 1,0 | de la 1,0 |
+| Smartia M19800 (ușă armonică) | de la 1,9 | de la 1,7 |
 
 ### Tipuri de geam termoizolant
 
 | Tip geam | Ug (W/m²K) | Grosime | Impact Uw |
 |---|---|---|---|
-| Dublu argon standard | 1,00 | 32 mm | Uw ≈ 1,2–1,4 |
-| **Triplu argon 44mm** | **0,50** | 44 mm | **Uw ≈ 0,72–0,88** |
-| Triplu argon 52mm | 0,40 | 52 mm | Uw ≈ 0,70–0,80 |
+| Dublu Low-E argon | 1,0–1,1 | 24–32 mm | Uw ≈ 1,1–1,4 |
+| **Triplu Low-E argon** | **0,5–0,6** | 44–48 mm | **Uw ≈ 0,72–0,88** |
+| Triplu Low-E kripton | 0,4–0,5 | 36–52 mm | Uw ≈ 0,70–0,80 |
 
 ## Ce înseamnă Uw în bani: calcul real de economii
 
 **Exemplu practic — apartament 50 m², 6 ferestre (7,2 m²), București:**
 
 Formula de pierdere termică: **Q = U × A × ΔT × t**
-- ΔT medie sezon rece: 20°C | Ore sezon rece: 3.500h
+- ΔT medie sezon rece: 20°C | Ore sezon rece: 3.500h | Preț energie: ~0,12 EUR/kWh
 
-| Configurație | Uw | Pierdere kWh/an | Cost lei/an |
+| Configurație | Uw | Pierdere kWh/an | Cost EUR/an |
 |---|---|---|---|
-| Ferestre vechi lemn | 4,8 | 2.419 | ~1.451 lei |
-| Dublu argon standard | 1,4 | 706 | ~424 lei |
-| **Triplu Salamander 92** | **0,72** | **363** | **~218 lei** |
+| Ferestre vechi lemn | 4,8 | 2.419 | ~290 EUR |
+| Dublu argon standard | 1,4 | 706 | ~85 EUR |
+| **Triplu Salamander 92** | **0,72** | **363** | **~44 EUR** |
 
-**Economia față de dublu standard: 343 kWh/an = ~206 lei/an per apartament.**
+**Economia față de dublu standard: 343 kWh/an, adică ~41 EUR/an per apartament. Față de ferestrele vechi din lemn: ~2.056 kWh/an, adică ~245 EUR/an.**
 
 ## Distanțierul Warm Edge — de ce contează pentru Uw
 
-Distanțierul (rama metalică dintre foile de geam) are un impact major pe Uw final al ferestrei:
+Distanțierul (rama dintre foile de geam) are un impact major pe Uw final al ferestrei:
 
 - **Distanțier aluminiu standard:** Ψg = 0,10 W/(mK) — creează punte termică, favorizează condensul
-- **Distanțier Warm Edge (Swisspacer, TGI):** Ψg = 0,03 W/(mK) — reduce Uw cu 0,05–0,10 W/(m²K)
+- **Distanțier Warm Edge (de exemplu Swisspacer):** Ψg = 0,03 W/(mK) — reduce Uw cu 0,05–0,10 W/(m²K)
 
 **La Neofort BIZ, toate ferestrele cu tripan sunt livrate standard cu distanțier Warm Edge.**
 
-## FAQ — Coeficient termic ferestre
+## Întrebări frecvente — coeficientul termic al ferestrelor
 
 ### Ce Uw trebuie să aibă ferestrele pentru nZEB?
-Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K) pentru casele noi. Recomandarea pentru case nZEB: Uw ≤ 0,85 W/(m²K). Cel mai bun sistem disponibil: Salamander bluEvolution 92 cu tripan 52mm — Uw = 0,70 W/(m²K).
 
-### Ce înseamnă Uf la ferestre?
-Uf este coeficientul termic al profilului (rama ferestrei), fără geam. Salamander bluEvolution 92 are Uf = 0,95 W/(m²K) — cel mai bun din gama PVC disponibilă comercial în România.
+Mc 001-2022 dă ca valoare de referință Uw ≤ 1,11 W/(m²K) pentru casele noi. Pentru case nZEB recomandăm Uw ≤ 0,85 W/(m²K). Cel mai bun sistem pe care îl oferim: Salamander bluEvolution 92 cu tripan, cu Uw de la 0,70 W/(m²K).
 
-### Ce înseamnă Ug la ferestre?
-Ug este coeficientul termic al geamului. Geamul dublu argon are Ug = 1,0 W/(m²K), geamul triplu argon are Ug = 0,5 W/(m²K) — cu 50% mai bun.
+### Ce înseamnă Uf și Ug la ferestre?
+
+Uf este coeficientul termic al profilului (rama ferestrei), fără geam: bluEvolution 92 are Uf = 0,95 W/(m²K), cel mai bun din gama Salamander pe care o oferim. Ug este coeficientul termic al geamului: dublu argon 1,0–1,1 W/(m²K), triplu argon 0,5–0,6 W/(m²K), cam la jumătate.
 
 ### Uw 1,1 este ok pentru București?
+
 Se încadrează: valoarea de referință din Mc 001-2022 pentru o casă nouă este Uw ≤ 1,11 W/(m²K), iar la renovări 1,20. Pentru o casă nZEB recomandăm totuși Uw ≤ 0,85 W/(m²K), cu marjă de siguranță.
 
-### Care este cel mai bun Uw disponibil în România?
-Salamander bluEvolution 92 + tripan 52mm + distanțier Warm Edge + precadre Blaugelb Triotherm+: **Uw = 0,70 W/(m²K)** — certificat PassivHaus.
+### Care este cel mai bun Uw pe care îl putem obține?
+
+Salamander bluEvolution 92 cu tripan și distanțier Warm Edge: **Uw de la 0,70 W/(m²K)**; sistemul bluEvolution are certificat Passivhaus. Montajul cu precadre Blaugelb Triotherm+ nu schimbă Uw-ul ferestrei, dar păstrează performanța ei în perete.
 
 ### Cum verific Uw-ul unei ferestre?
+
 Solicită **Declarația de Performanță (DoP)** și **certificatul IFT Rosenheim** sau TÜV pentru profilul folosit. Uw-ul trebuie să fie calculat conform EN ISO 10077 și specificat în documentele tehnice.
 
 ## Concluzie — Ce valoare Uw să alegi
 
 | Scenariu | Uw recomandat | Profil optim |
 |---|---|---|
-| Renovare apartament vechi | ≤ 1,00 | Salamander GreenEvolution 76 |
+| Renovare apartament vechi | ≤ 1,20 (ideal ≤ 1,00) | Salamander GreenEvolution 76 |
 | Construcție nouă standard | ≤ 0,85 | Salamander GreenEvolution 76 + tripan |
-| Casă nZEB certificată | ≤ 0,72 | Salamander bluEvolution 92 + tripan |
-| Casă pasivă PHI | ≤ 0,70 | bluEvolution 92 + tripan 52mm + Blaugelb |
+| Casă nZEB | ≤ 0,80 | Salamander bluEvolution 92 + tripan |
+| Casă pasivă (criteriul PHI) | ≤ 0,80 | bluEvolution 92 + tripan + montaj Blaugelb |
 
 **Regula simplă:** Alege întotdeauna un Uw cu o marjă clară sub valoarea de referință. Pentru o casă nouă în București, asta înseamnă Uw ≤ 0,85 W/(m²K), față de valoarea de referință de 1,11.
 
@@ -32555,355 +33291,596 @@ Dacă vrei să îmbunătățești izolația fără să schimbi ferestrele, sunt 
 - [PVC sau Aluminiu pentru case nZEB în 2026?](/ro/blog/pvc-sau-aluminiu-case-nzeb-2026-ghid-alegere)
 
 Neofort BIZ furnizează ferestre PVC Salamander și aluminiu Alumil cu Uw de la 0,70 W/(m²K). [Solicită consultanță tehnică](/ro/contact). Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [geamurile termoizolante Saint-Gobain SGG](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg) și [distanțierul termic Warm Edge](/ro/sisteme-nzeb/bagheta-warm-edge-distantier-termic).`,
-      en: `## What is the Uw Thermal Coefficient of a Window?
+      en: `## What is the Uw thermal coefficient of a window?
 
-**Uw (thermal transmittance)** measures how much heat a window loses — the lower the value, the better the insulation. It is expressed in **W/(m²K)** and includes the profile (Uf), glass (Ug) and spacer (Ψg).
+**Uw (Wärmedurchgangskoeffizient)** is the value that measures how much heat a window loses — the lower it is, the better the window insulates. It is expressed in **W/(m²K)** and covers the profile (Uf), the glass (Ug) and the spacer (Ψg).
 
 **Calculation formula:**
 **Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-In practice: a window with Uw = 0.72 W/(m²K) loses 6.5 times less heat than an old one with Uw = 4.8 W/(m²K).
+In practice: a window with Uw = 0.72 W/(m²K) loses almost 7 times less heat than an old one with Uw = 4.8 W/(m²K).
 
-## What Thermal Coefficient Does Romanian Law Require in 2026?
+## What thermal coefficient does Romanian legislation require in 2026?
 
-The **Mc 001-2022** energy performance methodology (approved by MDLPA Order 16/2023) sets reference Uw values by building type and type of work:
+The methodology for calculating the energy performance of buildings, **Mc 001-2022** (approved by MDLPA Order 16/2023), gives reference values for Uw depending on the type of building and work:
 
-| Building type | Maximum recommended Uw | When it applies |
+| Building type | Recommended maximum Uw | When it applies |
 |---|---|---|
 | **New residential (nZEB)** | **1.11 W/(m²K)** | **New houses and apartment blocks** |
-| Renovation | 1.20 W/(m²K) | Window replacement in existing buildings |
+| Renovation | 1.20 W/(m²K) | Replacing windows in existing buildings |
 | New non-residential | 1.20 W/(m²K) | Offices, commercial spaces |
 | Exterior doors | 1.30 W/(m²K) | All building types |
 
-**For a new house in Bucharest: Uw ≤ 1.11 W/(m²K)** is the reference value; nZEB compliance is then checked on the energy performance of the whole building. **Neofort BIZ recommendation:** Uw ≤ 0.85 W/(m²K), with a clear safety margin.
+**For a new house in Bucharest, Uw ≤ 1.11 W/(m²K)** is the reference value. nZEB compliance is then checked on the energy performance of the whole building, not just the windows.
 
-## Thermal Coefficient by Window Type
+**Neofort BIZ recommendation:** Uw ≤ 0.85 W/(m²K) — a clear safety margin below the reference value, for guaranteed long-term performance.
 
-### PVC Salamander Windows
+## The thermal coefficient by window type
 
-| Profile | Uf (W/m²K) | Uw with triple 44mm | Uw with triple 52mm |
+### Salamander PVC windows
+
+| Profile | Uf (W/m²K) | Maximum glazing | Minimum Uw (triple glazing) |
 |---|---|---|---|
-| bluEvolution 92 | 0.95 | **0.72** | **0.70** |
-| GreenEvolution 76 | 1.10 | 0.88 | 0.82 |
+| bluEvolution 92 | 0.95 | 60 mm | **from 0.70** |
+| GreenEvolution 76 | 1.2 | 48 mm | from 0.73 |
 
-### Alumil Aluminium Windows
+### Alumil aluminium joinery
 
-| System | Uf (W/m²K) | Uw with triple 44mm |
+| System | Uf (W/m²K) | Minimum Uw |
 |---|---|---|
-| S77 Supreme | 1.30 | 1.00–1.15 |
-| SF85 (door) | 1.40 | 1.10–1.25 |
+| S77 Supreme (windows and doors) | from 0.86 | from 1.0 |
+| SF85 Supreme (folding door) | from 1.0 | from 1.0 |
+| Smartia M19800 (folding door) | from 1.9 | from 1.7 |
 
-### Thermal Insulating Glass Types
+### Types of insulating glass
 
-| Glass type | Ug (W/m²K) | Thickness | Uw impact |
+| Glass type | Ug (W/m²K) | Thickness | Impact on Uw |
 |---|---|---|---|
-| Double argon standard | 1.00 | 32 mm | Uw ≈ 1.2–1.4 |
-| **Triple argon 44mm** | **0.50** | 44 mm | **Uw ≈ 0.72–0.88** |
-| Triple argon 52mm | 0.40 | 52 mm | Uw ≈ 0.70–0.80 |
+| Double Low-E argon | 1.0–1.1 | 24–32 mm | Uw ≈ 1.1–1.4 |
+| **Triple Low-E argon** | **0.5–0.6** | 44–48 mm | **Uw ≈ 0.72–0.88** |
+| Triple Low-E krypton | 0.4–0.5 | 36–52 mm | Uw ≈ 0.70–0.80 |
 
-## What Uw Means in Money: Real Savings Calculation
+## What Uw means in money: a real savings calculation
 
 **Practical example — 50 m² apartment, 6 windows (7.2 m²), Bucharest:**
 
 Heat loss formula: **Q = U × A × ΔT × t**
-- Average ΔT cold season: 20°C | Cold season hours: 3,500h
+- Average ΔT in the cold season: 20°C | Cold-season hours: 3,500 h | Energy price: ~0.12 EUR/kWh
 
-| Configuration | Uw | Loss kWh/year | Cost €/year |
+| Configuration | Uw | Loss kWh/year | Cost EUR/year |
 |---|---|---|---|
-| Old timber windows | 4.8 | 2,419 | ~€290 |
-| Double argon standard | 1.4 | 706 | ~€85 |
-| **Triple Salamander 92** | **0.72** | **363** | **~€44** |
+| Old wooden windows | 4.8 | 2,419 | ~290 EUR |
+| Standard double argon | 1.4 | 706 | ~85 EUR |
+| **Salamander 92 triple** | **0.72** | **363** | **~44 EUR** |
 
-**Saving vs double standard: 343 kWh/year = ~€41/year per apartment.**
+**Saving compared with standard double glazing: 343 kWh/year, or ~41 EUR/year per apartment. Compared with old wooden windows: ~2,056 kWh/year, or ~245 EUR/year.**
 
-## The Warm Edge Spacer — Why It Matters for Uw
+## The Warm Edge spacer — why it matters for Uw
 
-The spacer (metal frame between glass panes) has a major impact on final window Uw:
+The spacer (the frame between the panes) has a major impact on the window's final Uw:
 
-- **Standard aluminium spacer:** Ψg = 0.10 W/(mK) — creates thermal bridge, promotes condensation
-- **Warm Edge spacer (Swisspacer, TGI):** Ψg = 0.03 W/(mK) — reduces Uw by 0.05–0.10 W/(m²K)
+- **Standard aluminium spacer:** Ψg = 0.10 W/(mK) — creates a thermal bridge and encourages condensation
+- **Warm Edge spacer (for example Swisspacer):** Ψg = 0.03 W/(mK) — lowers Uw by 0.05–0.10 W/(m²K)
 
-**At Neofort BIZ, all triple glazed windows are delivered with Warm Edge spacer as standard.**
+**At Neofort BIZ, all triple-glazed windows come with a Warm Edge spacer as standard.**
 
-## FAQ — Window Thermal Coefficient
+## Frequently Asked Questions — the thermal coefficient of windows
 
 ### What Uw should windows have for nZEB?
-Mc 001-2022 recommends Uw ≤ 1.11 W/(m²K) for new houses. Recommendation for nZEB homes: Uw ≤ 0.85 W/(m²K). Best available system: Salamander bluEvolution 92 with triple 52mm glazing — Uw = 0.70 W/(m²K).
 
-### What does Uf mean for windows?
-Uf is the thermal coefficient of the profile (window frame), excluding glass. Salamander bluEvolution 92 has Uf = 0.95 W/(m²K) — the best in the PVC range commercially available in Romania.
+Mc 001-2022 gives a reference value of Uw ≤ 1.11 W/(m²K) for new houses. For nZEB houses we recommend Uw ≤ 0.85 W/(m²K). The best system we offer: Salamander bluEvolution 92 with triple glazing, with Uw from 0.70 W/(m²K).
 
-### What does Ug mean for windows?
-Ug is the thermal coefficient of the glass unit. Double argon glass has Ug = 1.0 W/(m²K), triple argon has Ug = 0.5 W/(m²K) — 50% better.
+### What do Uf and Ug mean for windows?
 
-### Is Uw 1.1 acceptable for Bucharest?
-It complies: the Mc 001-2022 reference value for a new house is Uw ≤ 1.11 W/(m²K), and 1.20 for renovations. For an nZEB home we still recommend Uw ≤ 0.85 W/(m²K), with a safety margin.
+Uf is the thermal coefficient of the profile (the window frame), without glass: bluEvolution 92 has Uf = 0.95 W/(m²K), the best in the Salamander range we offer. Ug is the thermal coefficient of the glass: double argon 1.0–1.1 W/(m²K), triple argon 0.5–0.6 W/(m²K), roughly half.
 
-### What is the best Uw available in Romania?
-Salamander bluEvolution 92 + triple 52mm + Warm Edge spacer + Blaugelb Triotherm+ preframes: **Uw = 0.70 W/(m²K)** — PassivHaus certified.
+### Is Uw 1.1 OK for Bucharest?
 
-## Conclusion — Which Uw Value to Choose
+It complies: the Mc 001-2022 reference value for a new house is Uw ≤ 1.11 W/(m²K), and 1.20 for renovations. For an nZEB house we still recommend Uw ≤ 0.85 W/(m²K), with a safety margin.
 
-| Scenario | Recommended Uw | Optimal profile |
+### What is the best Uw we can achieve?
+
+Salamander bluEvolution 92 with triple glazing and a Warm Edge spacer: **Uw from 0.70 W/(m²K)**; the bluEvolution system holds Passivhaus certification. Installation with Blaugelb Triotherm+ pre-frames does not change the window's Uw, but it preserves its performance once built into the wall.
+
+### How do I check a window's Uw?
+
+Ask for the **Declaration of Performance (DoP)** and the **IFT Rosenheim** or TÜV **certificate** for the profile used. The Uw must be calculated according to EN ISO 10077 and stated in the technical documents.
+
+## Conclusion — which Uw value to choose
+
+| Scenario | Recommended Uw | Best profile |
 |---|---|---|
-| Old apartment renovation | ≤ 1.00 | Salamander GreenEvolution 76 |
-| Standard new construction | ≤ 0.85 | Salamander GreenEvolution 76 + triple glazing |
-| Certified nZEB home | ≤ 0.72 | Salamander bluEvolution 92 + triple |
-| PHI passive house | ≤ 0.70 | bluEvolution 92 + triple 52mm + Blaugelb |
+| Renovating an old apartment | ≤ 1.20 (ideally ≤ 1.00) | Salamander GreenEvolution 76 |
+| Standard new build | ≤ 0.85 | Salamander GreenEvolution 76 + triple glazing |
+| nZEB house | ≤ 0.80 | Salamander bluEvolution 92 + triple glazing |
+| Passive house (PHI criterion) | ≤ 0.80 | bluEvolution 92 + triple glazing + Blaugelb installation |
 
-If you are installing a heat pump, this figure becomes decisive: see [why Uw determines the pump’s efficiency](/en/blog/heat-pump-and-windows-why-uw-matters).
+**The simple rule:** always choose a Uw with a clear margin below the reference value. For a new house in Bucharest, that means Uw ≤ 0.85 W/(m²K), against a reference value of 1.11.
 
-If you want to improve insulation without replacing the windows, there are a few options: [How Can I Improve Window Thermal Insulation in Bucharest? Complete Guide 2026](/en/blog/how-to-improve-window-thermal-insulation-bucharest).
+If you are installing a heat pump, this value becomes decisive: see [why Uw matters for the pump's efficiency](/en/blog/heat-pump-and-windows-why-uw-matters).
+
+If you want to improve insulation without replacing the windows, there are a few solutions: [How can I improve window thermal insulation in Bucharest? Complete guide 2026](/en/blog/how-to-improve-window-thermal-insulation-bucharest).
 
 ---
 
-Related: [nZEB Windows Guide Romania 2026](/en/blog/windows-nzeb-house-romania-complete-guide-2026) · [Triple vs Double Glazing Savings](/en/blog/triple-vs-double-glazing-real-savings-heating-cost) · [PVC vs Aluminium nZEB 2026](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide)
+**Related articles:**
+- [Which windows should you choose for an nZEB house in Romania?](/en/blog/windows-nzeb-house-romania-complete-guide-2026)
+- [Triple vs double glazing: how much do you really save on heating?](/en/blog/triple-vs-double-glazing-real-savings-heating-cost)
+- [PVC or aluminium for nZEB homes in 2026?](/en/blog/pvc-or-aluminium-nzeb-homes-2026-complete-guide)
 
-Neofort BIZ supplies Salamander PVC and Alumil aluminium windows with Uw from 0.70 W/(m²K). [Request technical consultation](/en/contact). See the [Salamander PVC windows](/en/pvc-windows) we offer. Useful pages: [Saint-Gobain SGG insulating glass](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass) and [the Warm Edge thermal spacer](/en/nzeb-systems/warm-edge-thermo-spacer-insulating-glass).`,
+Neofort BIZ supplies Salamander PVC and Alumil aluminium windows with Uw from 0.70 W/(m²K). [Ask for technical advice](/en/contact). See the [Salamander PVC joinery](/en/pvc-windows) we offer. Useful pages: [Saint-Gobain SGG insulating glass](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass) and [the Warm Edge thermal spacer](/en/nzeb-systems/warm-edge-thermo-spacer-insulating-glass).`,
       de: `## Was ist der Wärmedurchgangskoeffizient Uw eines Fensters?
 
-**Uw** misst, wie viel Wärme ein Fenster verliert — je niedriger der Wert, desto besser die Dämmung. Er wird in **W/(m²K)** ausgedrückt und umfasst Profil (Uf), Glas (Ug) und Abstandhalter (Ψg).
+**Uw (Wärmedurchgangskoeffizient)** ist der Wert, der angibt, wie viel Wärme ein Fenster verliert — je niedriger er ist, desto besser dämmt das Fenster. Er wird in **W/(m²K)** angegeben und umfasst das Profil (Uf), das Glas (Ug) und den Abstandhalter (Ψg).
 
 **Berechnungsformel:**
 **Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-Praktisch: Ein Fenster mit Uw = 0,72 W/(m²K) verliert 6,5-mal weniger Wärme als ein altes Fenster mit Uw = 4,8 W/(m²K).
+In der Praxis: Ein Fenster mit Uw = 0,72 W/(m²K) verliert fast 7-mal weniger Wärme als ein altes Fenster mit Uw = 4,8 W/(m²K).
 
-## Gesetzliche Anforderungen 2026
+## Welchen Wärmedurchgangskoeffizienten schreibt das rumänische Recht 2026 vor?
 
-Die Methodik **Mc 001-2022** (genehmigt durch MDLPA-Erlass 16/2023) nennt Referenzwerte für Uw je nach Gebäudetyp und Art der Arbeiten:
+Die Methodik zur Berechnung der Gesamtenergieeffizienz von Gebäuden, **Mc 001-2022** (genehmigt durch MDLPA-Erlass 16/2023), gibt Referenzwerte für Uw je nach Gebäude- und Maßnahmenart vor:
 
-| Gebäudetyp | Empfohlener maximaler Uw | Anwendung |
+| Gebäudeart | Empfohlener Höchstwert Uw | Wann er gilt |
 |---|---|---|
-| **Neubau Wohngebäude (nZEB)** | **1,11 W/(m²K)** | **Neue Häuser und Wohnblöcke** |
-| Sanierung | 1,20 W/(m²K) | Fenstertausch im Bestand |
-| Neubau Nichtwohngebäude | 1,20 W/(m²K) | Büros, Gewerbeflächen |
-| Außentüren | 1,30 W/(m²K) | Alle Gebäudetypen |
+| **Neues Wohngebäude (nZEB)** | **1,11 W/(m²K)** | **Neue Häuser und Wohnblöcke** |
+| Sanierung | 1,20 W/(m²K) | Fenstertausch in Bestandsgebäuden |
+| Neues Nichtwohngebäude | 1,20 W/(m²K) | Büros, Gewerbeflächen |
+| Außentüren | 1,30 W/(m²K) | Alle Gebäudearten |
 
-**Empfehlung Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — deutliche Sicherheitsreserve zum Referenzwert von 1,11.
+**Für ein neues Haus in Bukarest ist Uw ≤ 1,11 W/(m²K)** der Referenzwert. Die nZEB-Konformität wird anschließend über die Energieeffizienz des gesamten Gebäudes geprüft, nicht nur über die Fenster.
 
-## Uw-Werte nach Fenstertyp
+**Empfehlung von Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — ein deutlicher Sicherheitsabstand zum Referenzwert, für eine langfristig gesicherte Leistung.
 
-| Profil | Uf (W/m²K) | Uw mit Dreifach 44mm | Uw mit Dreifach 52mm |
+## Der Wärmedurchgangskoeffizient nach Fensterart
+
+### Salamander-Kunststofffenster
+
+| Profil | Uf (W/m²K) | Maximale Glasstärke | Minimaler Uw (Dreifachverglasung) |
 |---|---|---|---|
-| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,70** |
-| GreenEvolution 76 | 1,10 | 0,88 | 0,82 |
+| bluEvolution 92 | 0,95 | 60 mm | **ab 0,70** |
+| GreenEvolution 76 | 1,2 | 48 mm | ab 0,73 |
 
-## Uw in Zahlen: Reale Einsparungen
+### Alumil-Aluminiumsysteme
 
-**Beispiel — 50 m² Wohnung, 6 Fenster (7,2 m²), Bukarest:**
-- ΔT Mittelwert Heizsaison: 20°C | Heizsaisonstunden: 3.500h
+| System | Uf (W/m²K) | Minimaler Uw |
+|---|---|---|
+| S77 Supreme (Fenster und Türen) | ab 0,86 | ab 1,0 |
+| SF85 Supreme (Falttür) | ab 1,0 | ab 1,0 |
+| Smartia M19800 (Falttür) | ab 1,9 | ab 1,7 |
 
-| Konfiguration | Uw | Verlust kWh/Jahr | Kosten €/Jahr |
+### Arten von Isolierglas
+
+| Glasart | Ug (W/m²K) | Stärke | Wirkung auf Uw |
 |---|---|---|---|
-| Alte Holzfenster | 4,8 | 2.419 | ~290 € |
-| Standard Zweifach Argon | 1,4 | 706 | ~85 € |
-| **Dreifach Salamander 92** | **0,72** | **363** | **~44 €** |
+| Zweifach Low-E Argon | 1,0–1,1 | 24–32 mm | Uw ≈ 1,1–1,4 |
+| **Dreifach Low-E Argon** | **0,5–0,6** | 44–48 mm | **Uw ≈ 0,72–0,88** |
+| Dreifach Low-E Krypton | 0,4–0,5 | 36–52 mm | Uw ≈ 0,70–0,80 |
 
-## FAQ — Wärmedurchgangskoeffizient Fenster
+## Was Uw in Geld bedeutet: eine reale Einsparberechnung
 
-### Welchen Uw brauchen Fenster für nZEB?
-Mc 001-2022 empfiehlt Uw ≤ 1,11 W/(m²K) für Neubauten. Empfehlung für nZEB-Häuser: Uw ≤ 0,85 W/(m²K). Bestes verfügbares System: Salamander bluEvolution 92 mit Dreifachverglasung 52mm — Uw = 0,70 W/(m²K).
+**Praxisbeispiel — Wohnung mit 50 m², 6 Fenster (7,2 m²), Bukarest:**
 
-### Was bedeutet Uf bei Fenstern?
-Uf ist der Wärmedurchgangskoeffizient des Rahmenprofils ohne Verglasung. Salamander bluEvolution 92 hat Uf = 0,95 W/(m²K) — bester Wert im PVC-Bereich.
+Formel für den Wärmeverlust: **Q = U × A × ΔT × t**
+- Mittleres ΔT in der Heizperiode: 20 °C | Stunden der Heizperiode: 3.500 h | Energiepreis: ~0,12 EUR/kWh
 
-### Was bedeutet Ug bei Fenstern?
-Ug ist der Wärmedurchgangskoeffizient der Verglasung. Zweifach Argon: Ug = 1,0 W/(m²K); Dreifach Argon: Ug = 0,5 W/(m²K) — 50% besser.
+| Ausführung | Uw | Verlust kWh/Jahr | Kosten EUR/Jahr |
+|---|---|---|---|
+| Alte Holzfenster | 4,8 | 2.419 | ~290 EUR |
+| Standard-Zweifach Argon | 1,4 | 706 | ~85 EUR |
+| **Dreifach Salamander 92** | **0,72** | **363** | **~44 EUR** |
 
-### Ist Uw 1,1 in Bukarest zulässig?
-Ja — der Referenzwert von Mc 001-2022 für einen Neubau liegt bei Uw ≤ 1,11 W/(m²K), bei Sanierungen bei 1,20. Für ein nZEB-Haus empfehlen wir dennoch Uw ≤ 0,85 W/(m²K).
+**Einsparung gegenüber Standard-Zweifachverglasung: 343 kWh/Jahr, also ~41 EUR/Jahr pro Wohnung. Gegenüber alten Holzfenstern: ~2.056 kWh/Jahr, also ~245 EUR/Jahr.**
 
-### Welcher Uw ist in Rumänien der beste?
-Salamander bluEvolution 92 + Dreifach 52mm + Warm-Edge-Abstandhalter + Blaugelb-Vorblendrahmen: **Uw = 0,70 W/(m²K)** — PassivHaus-zertifiziert.
+## Der Warm-Edge-Abstandhalter — warum er für den Uw-Wert zählt
 
-Bei einer Wärmepumpe wird dieser Wert entscheidend: siehe [warum der Uw-Wert die Effizienz der Wärmepumpe bestimmt](/de/blog/waermepumpe-und-fenster-warum-der-uw-wert-zaehlt).
+Der Abstandhalter (der Rahmen zwischen den Scheiben) hat großen Einfluss auf den endgültigen Uw-Wert des Fensters:
 
-Wenn Sie die Dämmung verbessern wollen, ohne die Fenster zu tauschen, gibt es Möglichkeiten: [Wie kann ich die Wärmedämmung der Fenster in Bukarest verbessern? Vollständiger Ratgeber 2026](/de/blog/wie-verbessere-ich-die-waermedaemmung-der-fenster-in-bukarest).
+- **Standard-Abstandhalter aus Aluminium:** Ψg = 0,10 W/(mK) — bildet eine Wärmebrücke und begünstigt Kondenswasser
+- **Warm-Edge-Abstandhalter (zum Beispiel Swisspacer):** Ψg = 0,03 W/(mK) — senkt den Uw-Wert um 0,05–0,10 W/(m²K)
+
+**Bei Neofort BIZ werden alle dreifach verglasten Fenster standardmäßig mit Warm-Edge-Abstandhalter geliefert.**
+
+## Häufig gestellte Fragen — der Wärmedurchgangskoeffizient von Fenstern
+
+### Welchen Uw-Wert müssen Fenster für nZEB haben?
+
+Mc 001-2022 nennt als Referenzwert Uw ≤ 1,11 W/(m²K) für neue Häuser. Für nZEB-Häuser empfehlen wir Uw ≤ 0,85 W/(m²K). Das beste System in unserem Angebot: Salamander bluEvolution 92 mit Dreifachverglasung, mit Uw ab 0,70 W/(m²K).
+
+### Was bedeuten Uf und Ug bei Fenstern?
+
+Uf ist der Wärmedurchgangskoeffizient des Profils (des Fensterrahmens) ohne Glas: bluEvolution 92 hat Uf = 0,95 W/(m²K), der beste Wert im Salamander-Sortiment, das wir anbieten. Ug ist der Wärmedurchgangskoeffizient des Glases: Zweifach Argon 1,0–1,1 W/(m²K), Dreifach Argon 0,5–0,6 W/(m²K), also etwa die Hälfte.
+
+### Ist Uw 1,1 für Bukarest in Ordnung?
+
+Er erfüllt die Vorgabe: Der Referenzwert von Mc 001-2022 für ein neues Haus ist Uw ≤ 1,11 W/(m²K), bei Sanierungen 1,20. Für ein nZEB-Haus empfehlen wir trotzdem Uw ≤ 0,85 W/(m²K), mit Sicherheitsabstand.
+
+### Welcher Uw-Wert ist bestenfalls erreichbar?
+
+Salamander bluEvolution 92 mit Dreifachverglasung und Warm-Edge-Abstandhalter: **Uw ab 0,70 W/(m²K)**; das System bluEvolution ist passivhauszertifiziert. Die Montage mit dem Vorwandmontagesystem Blaugelb Triotherm+ ändert den Uw-Wert des Fensters nicht, erhält aber seine Leistung in der Wand.
+
+### Wie prüfe ich den Uw-Wert eines Fensters?
+
+Verlangen Sie die **Leistungserklärung (DoP)** und das **Zertifikat des IFT Rosenheim** oder des TÜV für das verwendete Profil. Der Uw-Wert muss nach EN ISO 10077 berechnet und in den technischen Unterlagen angegeben sein.
+
+## Fazit — welchen Uw-Wert Sie wählen sollten
+
+| Szenario | Empfohlener Uw | Optimales Profil |
+|---|---|---|
+| Sanierung einer alten Wohnung | ≤ 1,20 (ideal ≤ 1,00) | Salamander GreenEvolution 76 |
+| Normaler Neubau | ≤ 0,85 | Salamander GreenEvolution 76 + Dreifachverglasung |
+| nZEB-Haus | ≤ 0,80 | Salamander bluEvolution 92 + Dreifachverglasung |
+| Passivhaus (PHI-Kriterium) | ≤ 0,80 | bluEvolution 92 + Dreifachverglasung + Blaugelb-Montage |
+
+**Die einfache Regel:** Wählen Sie immer einen Uw-Wert mit deutlichem Abstand unter dem Referenzwert. Für ein neues Haus in Bukarest heißt das Uw ≤ 0,85 W/(m²K), gegenüber dem Referenzwert von 1,11.
+
+Wenn Sie eine Wärmepumpe einbauen, wird dieser Wert entscheidend: Lesen Sie, [warum der Uw-Wert für die Effizienz der Wärmepumpe zählt](/de/blog/waermepumpe-und-fenster-warum-der-uw-wert-zaehlt).
+
+Wenn Sie die Dämmung verbessern möchten, ohne die Fenster zu tauschen, gibt es einige Lösungen: [Wie verbessere ich die Wärmedämmung der Fenster in Bukarest? Vollständiger Leitfaden 2026](/de/blog/wie-verbessere-ich-die-waermedaemmung-der-fenster-in-bukarest).
 
 ---
 
-Neofort BIZ liefert Salamander PVC- und Alumil-Aluminiumfenster mit Uw ab 0,70 W/(m²K). [Beratungsgespräch](/de/kontakt). Sehen Sie die [Salamander-PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten. Nützliche Seiten: [Saint-Gobain SGG Wärmeschutzglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas) und [Warm-Edge-Abstandhalter](/de/nzeb-systeme/warm-edge-thermo-abstandhalter-isolierglas).`,
-      fr: `## Qu'est-ce que le coefficient thermique Uw d'une fenêtre ?
+**Verwandte Artikel:**
+- [Welche Fenster für ein nZEB-Haus in Rumänien?](/de/blog/fenster-nzeb-haus-rumaenien-vollstaendiger-ratgeber-2026)
+- [Dreifach- vs. Zweifachverglasung: wie viel sparen Sie wirklich beim Heizen?](/de/blog/dreifach-vs-zweifachverglasung-reale-einsparungen-heizkosten)
+- [PVC oder Aluminium für nZEB-Häuser 2026?](/de/blog/pvc-oder-aluminium-nzeb-haeuser-2026-ratgeber)
 
-**Uw** mesure la quantité de chaleur perdue par une fenêtre — plus il est faible, meilleure est l'isolation. Il s'exprime en **W/(m²K)** et inclut le profilé (Uf), le vitrage (Ug) et l'espaceur (Ψg).
+Neofort BIZ liefert Salamander-Kunststofffenster und Alumil-Aluminiumfenster mit Uw ab 0,70 W/(m²K). [Fordern Sie eine technische Beratung an](/de/kontakt). Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten. Nützliche Seiten: [Saint-Gobain-SGG-Wärmeschutzisolierglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas) und [der Warm-Edge-Abstandhalter](/de/nzeb-systeme/warm-edge-thermo-abstandhalter-isolierglas).`,
+      fr: `## Qu’est-ce que le coefficient thermique Uw d’une fenêtre ?
+
+Le **Uw (Wärmedurchgangskoeffizient)** est la valeur qui mesure la quantité de chaleur perdue par une fenêtre — plus il est bas, mieux la fenêtre isole. Il s’exprime en **W/(m²K)** et prend en compte le profilé (Uf), le vitrage (Ug) et l’intercalaire (Ψg).
 
 **Formule de calcul :**
 **Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-En pratique : une fenêtre avec Uw = 0,72 W/(m²K) perd 6,5 fois moins de chaleur qu'une ancienne avec Uw = 4,8 W/(m²K).
+En pratique : une fenêtre à Uw = 0,72 W/(m²K) perd près de 7 fois moins de chaleur qu’une ancienne fenêtre à Uw = 4,8 W/(m²K).
 
-## Ce que la législation roumaine impose en 2026
+## Quel coefficient thermique la réglementation roumaine impose-t-elle en 2026 ?
 
-La méthodologie **Mc 001-2022** (approuvée par l'arrêté MDLPA 16/2023) fixe des valeurs de référence pour Uw selon le type de bâtiment et de travaux :
+La méthodologie de calcul de la performance énergétique des bâtiments, **Mc 001-2022** (approuvée par l’arrêté MDLPA 16/2023), fixe des valeurs de référence pour le Uw selon le type de bâtiment et de travaux :
 
-| Type de bâtiment | Uw maximal recommandé | Application |
+| Type de bâtiment | Uw maximal recommandé | Quand il s’applique |
 |---|---|---|
 | **Résidentiel neuf (nZEB)** | **1,11 W/(m²K)** | **Maisons et immeubles neufs** |
-| Rénovation | 1,20 W/(m²K) | Remplacement des fenêtres dans l'existant |
+| Rénovation | 1,20 W/(m²K) | Remplacement des fenêtres dans l’existant |
 | Non résidentiel neuf | 1,20 W/(m²K) | Bureaux, locaux commerciaux |
 | Portes extérieures | 1,30 W/(m²K) | Tous types de bâtiments |
 
-**Recommandation Neofort BIZ :** Uw ≤ 0,85 W/(m²K) — une marge de sécurité nette par rapport à la valeur de référence de 1,11.
+**Pour une maison neuve à Bucarest, Uw ≤ 1,11 W/(m²K)** est la valeur de référence. La conformité nZEB se vérifie ensuite sur la performance énergétique de tout le bâtiment, pas seulement sur les fenêtres.
 
-## Uw par type de fenêtre
+**La recommandation de Neofort BIZ :** Uw ≤ 0,85 W/(m²K) — une marge de sécurité nette sous la valeur de référence, pour une performance garantie dans la durée.
 
-| Profilé | Uf (W/m²K) | Uw triple 44mm | Uw triple 52mm |
+## Le coefficient thermique selon le type de fenêtre
+
+### Fenêtres PVC Salamander
+
+| Profilé | Uf (W/m²K) | Vitrage maximal | Uw minimal (triple vitrage) |
 |---|---|---|---|
-| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,70** |
-| GreenEvolution 76 | 1,10 | 0,88 | 0,82 |
+| bluEvolution 92 | 0,95 | 60 mm | **à partir de 0,70** |
+| GreenEvolution 76 | 1,2 | 48 mm | à partir de 0,73 |
 
-## Ce que Uw représente en argent
+### Menuiserie aluminium Alumil
 
-**Exemple — appartement 50 m², 6 fenêtres (7,2 m²), Bucarest :**
+| Système | Uf (W/m²K) | Uw minimal |
+|---|---|---|
+| S77 Supreme (fenêtres et portes) | à partir de 0,86 | à partir de 1,0 |
+| SF85 Supreme (porte pliante) | à partir de 1,0 | à partir de 1,0 |
+| Smartia M19800 (porte pliante) | à partir de 1,9 | à partir de 1,7 |
 
-| Configuration | Uw | Perte kWh/an | Coût €/an |
+### Types de vitrage isolant
+
+| Type de vitrage | Ug (W/m²K) | Épaisseur | Effet sur le Uw |
 |---|---|---|---|
-| Anciennes fenêtres bois | 4,8 | 2 419 | ~290 € |
-| Double argon standard | 1,4 | 706 | ~85 € |
-| **Triple Salamander 92** | **0,72** | **363** | **~44 €** |
+| Double Low-E argon | 1,0–1,1 | 24–32 mm | Uw ≈ 1,1–1,4 |
+| **Triple Low-E argon** | **0,5–0,6** | 44–48 mm | **Uw ≈ 0,72–0,88** |
+| Triple Low-E krypton | 0,4–0,5 | 36–52 mm | Uw ≈ 0,70–0,80 |
 
-## FAQ — Coefficient thermique fenêtres
+## Ce que le Uw représente en argent : un calcul réel d’économies
 
-### Quel Uw pour les fenêtres nZEB ?
-La Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K) pour les maisons neuves. Recommandation nZEB : Uw ≤ 0,85 W/(m²K). Meilleur système : Salamander bluEvolution 92 avec triple 52mm — Uw = 0,70 W/(m²K).
+**Exemple concret — appartement de 50 m², 6 fenêtres (7,2 m²), Bucarest :**
 
-### Que signifie Uf pour les fenêtres ?
-Uf est le coefficient du profilé seul, sans vitrage. Salamander bluEvolution 92 : Uf = 0,95 W/(m²K).
+Formule de déperdition : **Q = U × A × ΔT × t**
+- ΔT moyen de la saison froide : 20 °C | Heures de la saison froide : 3 500 h | Prix de l’énergie : ~0,12 EUR/kWh
 
-### Que signifie Ug pour les fenêtres ?
-Ug est le coefficient du vitrage. Double argon : Ug = 1,0 W/(m²K) ; Triple argon : Ug = 0,5 W/(m²K) — 50% meilleur.
+| Configuration | Uw | Déperdition kWh/an | Coût EUR/an |
+|---|---|---|---|
+| Anciennes fenêtres bois | 4,8 | 2 419 | ~290 EUR |
+| Double vitrage argon standard | 1,4 | 706 | ~85 EUR |
+| **Triple vitrage Salamander 92** | **0,72** | **363** | **~44 EUR** |
 
-### Un Uw de 1,1 est-il acceptable à Bucarest ?
-Oui — la valeur de référence de la Mc 001-2022 pour une maison neuve est Uw ≤ 1,11 W/(m²K), et 1,20 en rénovation. Pour une maison nZEB, nous recommandons toutefois Uw ≤ 0,85 W/(m²K).
+**Économie par rapport au double vitrage standard : 343 kWh/an, soit ~41 EUR/an par appartement. Par rapport aux anciennes fenêtres bois : ~2 056 kWh/an, soit ~245 EUR/an.**
 
-Si vous installez une pompe à chaleur, cette valeur devient décisive : voir [pourquoi le Uw détermine le rendement de la pompe](/fr/blog/pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte).
+## L’intercalaire Warm Edge — pourquoi il compte pour le Uw
 
-Pour améliorer l’isolation sans remplacer les fenêtres, plusieurs solutions existent: [Comment améliorer l'isolation thermique des fenêtres à Bucarest ? Guide complet 2026](/fr/blog/comment-ameliorer-isolation-thermique-fenetres-bucarest).
+L’intercalaire (le cadre entre les vitres) a un impact important sur le Uw final de la fenêtre :
+
+- **Intercalaire aluminium standard :** Ψg = 0,10 W/(mK) — crée un pont thermique et favorise la condensation
+- **Intercalaire Warm Edge (par exemple Swisspacer) :** Ψg = 0,03 W/(mK) — abaisse le Uw de 0,05 à 0,10 W/(m²K)
+
+**Chez Neofort BIZ, toutes les fenêtres en triple vitrage sont livrées de série avec un intercalaire Warm Edge.**
+
+## Questions fréquentes — le coefficient thermique des fenêtres
+
+### Quel Uw les fenêtres doivent-elles avoir pour le nZEB ?
+
+La Mc 001-2022 donne une valeur de référence de Uw ≤ 1,11 W/(m²K) pour les maisons neuves. Pour les maisons nZEB, nous recommandons Uw ≤ 0,85 W/(m²K). Le meilleur système que nous proposons : Salamander bluEvolution 92 en triple vitrage, avec un Uw à partir de 0,70 W/(m²K).
+
+### Que signifient Uf et Ug pour les fenêtres ?
+
+Le Uf est le coefficient thermique du profilé (le cadre de la fenêtre), sans vitrage : le bluEvolution 92 a un Uf de 0,95 W/(m²K), le meilleur de la gamme Salamander que nous proposons. Le Ug est le coefficient thermique du vitrage : double argon 1,0–1,1 W/(m²K), triple argon 0,5–0,6 W/(m²K), soit environ la moitié.
+
+### Un Uw de 1,1 convient-il à Bucarest ?
+
+Il est conforme : la valeur de référence de la Mc 001-2022 pour une maison neuve est Uw ≤ 1,11 W/(m²K), et 1,20 en rénovation. Pour une maison nZEB, nous recommandons tout de même Uw ≤ 0,85 W/(m²K), avec une marge de sécurité.
+
+### Quel est le meilleur Uw que l’on peut obtenir ?
+
+Salamander bluEvolution 92 en triple vitrage avec intercalaire Warm Edge : **Uw à partir de 0,70 W/(m²K)** ; le système bluEvolution est certifié maison passive. La pose avec précadres Blaugelb Triotherm+ ne modifie pas le Uw de la fenêtre, mais préserve ses performances une fois intégrée au mur.
+
+### Comment vérifier le Uw d’une fenêtre ?
+
+Demandez la **déclaration des performances (DoP)** et le **certificat IFT Rosenheim** ou TÜV du profilé utilisé. Le Uw doit être calculé selon la norme EN ISO 10077 et indiqué dans les documents techniques.
+
+## Conclusion — quelle valeur de Uw choisir
+
+| Scénario | Uw recommandé | Profilé optimal |
+|---|---|---|
+| Rénovation d’un appartement ancien | ≤ 1,20 (idéalement ≤ 1,00) | Salamander GreenEvolution 76 |
+| Construction neuve standard | ≤ 0,85 | Salamander GreenEvolution 76 + triple vitrage |
+| Maison nZEB | ≤ 0,80 | Salamander bluEvolution 92 + triple vitrage |
+| Maison passive (critère PHI) | ≤ 0,80 | bluEvolution 92 + triple vitrage + pose Blaugelb |
+
+**La règle simple :** choisissez toujours un Uw avec une marge nette sous la valeur de référence. Pour une maison neuve à Bucarest, cela signifie Uw ≤ 0,85 W/(m²K), face à une valeur de référence de 1,11.
+
+Si vous installez une pompe à chaleur, cette valeur devient décisive : voyez [pourquoi le Uw compte pour le rendement de la pompe](/fr/blog/pompe-a-chaleur-et-fenetres-pourquoi-le-uw-compte).
+
+Si vous voulez améliorer l’isolation sans changer les fenêtres, il existe plusieurs solutions : [Comment améliorer l’isolation thermique des fenêtres à Bucarest ? Guide complet 2026](/fr/blog/comment-ameliorer-isolation-thermique-fenetres-bucarest).
 
 ---
 
-Neofort BIZ fournit des fenêtres PVC Salamander et aluminium Alumil avec Uw à partir de 0,70 W/(m²K). [Consultation technique](/fr/contact). Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [le vitrage isolant Saint-Gobain SGG](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg) et [l'intercalaire Warm Edge](/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage).`,
+**Articles liés :**
+- [Quelles fenêtres choisir pour une maison nZEB en Roumanie ?](/fr/blog/fenetres-maison-nzeb-roumanie-guide-complet-2026)
+- [Triple ou double vitrage : combien économisez-vous vraiment sur le chauffage ?](/fr/blog/triple-vs-double-vitrage-economies-reelles-chauffage-prix)
+- [PVC ou aluminium pour les maisons nZEB en 2026 ?](/fr/blog/pvc-ou-aluminium-maisons-nzeb-2026-guide-complet)
+
+Neofort BIZ fournit des fenêtres PVC Salamander et aluminium Alumil avec un Uw à partir de 0,70 W/(m²K). [Demandez un conseil technique](/fr/contact). Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [le vitrage isolant Saint-Gobain SGG](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg) et [l’intercalaire isolant Warm Edge](/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage).`,
       es: `## ¿Qué es el coeficiente térmico Uw de una ventana?
 
-**Uw** mide cuánto calor pierde una ventana — cuanto menor sea el valor, mejor es el aislamiento. Se expresa en **W/(m²K)** e incluye el perfil (Uf), el vidrio (Ug) y el separador (Ψg).
+El **Uw (Wärmedurchgangskoeffizient)** es el valor que mide cuánto calor pierde una ventana: cuanto más bajo, mejor aísla. Se expresa en **W/(m²K)** e incluye el perfil (Uf), el vidrio (Ug) y el separador (Ψg).
 
 **Fórmula de cálculo:**
 **Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-En la práctica: una ventana con Uw = 0,72 W/(m²K) pierde 6,5 veces menos calor que una antigua con Uw = 4,8 W/(m²K).
+En la práctica: una ventana con Uw = 0,72 W/(m²K) pierde casi 7 veces menos calor que una antigua con Uw = 4,8 W/(m²K).
 
-## Lo que exige la legislación rumana en 2026
+## ¿Qué coeficiente térmico exige la normativa rumana en 2026?
 
-La metodología **Mc 001-2022** (aprobada por la Orden MDLPA 16/2023) fija valores de referencia de Uw según el tipo de edificio y de obra:
+La metodología de cálculo de la eficiencia energética de los edificios, **Mc 001-2022** (aprobada por la Orden MDLPA 16/2023), fija valores de referencia para el Uw según el tipo de edificio y de obra:
 
-| Tipo de edificio | Uw máximo recomendado | Aplicación |
+| Tipo de edificio | Uw máximo recomendado | Cuándo se aplica |
 |---|---|---|
 | **Residencial nuevo (nZEB)** | **1,11 W/(m²K)** | **Casas y bloques nuevos** |
-| Rehabilitación | 1,20 W/(m²K) | Sustitución de ventanas en edificios existentes |
+| Reforma | 1,20 W/(m²K) | Cambio de ventanas en edificios existentes |
 | No residencial nuevo | 1,20 W/(m²K) | Oficinas, locales comerciales |
 | Puertas exteriores | 1,30 W/(m²K) | Todo tipo de edificios |
 
-**Recomendación Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — un margen de seguridad claro respecto al valor de referencia de 1,11.
+**Para una casa nueva en Bucarest, Uw ≤ 1,11 W/(m²K)** es el valor de referencia. El cumplimiento nZEB se comprueba después sobre la eficiencia energética de todo el edificio, no solo de las ventanas.
 
-## Uw por tipo de ventana
+**La recomendación de Neofort BIZ:** Uw ≤ 0,85 W/(m²K), un margen de seguridad claro por debajo del valor de referencia, para un rendimiento garantizado a largo plazo.
 
-| Perfil | Uf (W/m²K) | Uw triple 44mm | Uw triple 52mm |
+## El coeficiente térmico según el tipo de ventana
+
+### Ventanas de PVC Salamander
+
+| Perfil | Uf (W/m²K) | Vidrio máximo | Uw mínimo (triple acristalamiento) |
 |---|---|---|---|
-| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,70** |
-| GreenEvolution 76 | 1,10 | 0,88 | 0,82 |
+| bluEvolution 92 | 0,95 | 60 mm | **desde 0,70** |
+| GreenEvolution 76 | 1,2 | 48 mm | desde 0,73 |
 
-## Uw en dinero: cálculo real de ahorros
+### Carpintería de aluminio Alumil
 
-**Ejemplo — apartamento 50 m², 6 ventanas (7,2 m²), Bucarest:**
+| Sistema | Uf (W/m²K) | Uw mínimo |
+|---|---|---|
+| S77 Supreme (ventanas y puertas) | desde 0,86 | desde 1,0 |
+| SF85 Supreme (puerta plegable) | desde 1,0 | desde 1,0 |
+| Smartia M19800 (puerta plegable) | desde 1,9 | desde 1,7 |
 
-| Configuración | Uw | Pérdida kWh/año | Coste €/año |
+### Tipos de vidrio aislante
+
+| Tipo de vidrio | Ug (W/m²K) | Espesor | Efecto en el Uw |
 |---|---|---|---|
-| Ventanas viejas de madera | 4,8 | 2.419 | ~290 € |
-| Doble argón estándar | 1,4 | 706 | ~85 € |
-| **Triple Salamander 92** | **0,72** | **363** | **~44 €** |
+| Doble Low-E argón | 1,0–1,1 | 24–32 mm | Uw ≈ 1,1–1,4 |
+| **Triple Low-E argón** | **0,5–0,6** | 44–48 mm | **Uw ≈ 0,72–0,88** |
+| Triple Low-E kriptón | 0,4–0,5 | 36–52 mm | Uw ≈ 0,70–0,80 |
 
-## FAQ — Coeficiente térmico ventanas
+## Qué significa el Uw en dinero: un cálculo real de ahorro
+
+**Ejemplo práctico — piso de 50 m², 6 ventanas (7,2 m²), Bucarest:**
+
+Fórmula de pérdida térmica: **Q = U × A × ΔT × t**
+- ΔT medio en la temporada fría: 20 °C | Horas de temporada fría: 3.500 h | Precio de la energía: ~0,12 EUR/kWh
+
+| Configuración | Uw | Pérdida kWh/año | Coste EUR/año |
+|---|---|---|---|
+| Ventanas antiguas de madera | 4,8 | 2.419 | ~290 EUR |
+| Doble argón estándar | 1,4 | 706 | ~85 EUR |
+| **Triple Salamander 92** | **0,72** | **363** | **~44 EUR** |
+
+**Ahorro frente al doble estándar: 343 kWh/año, es decir, ~41 EUR/año por piso. Frente a las ventanas antiguas de madera: ~2.056 kWh/año, es decir, ~245 EUR/año.**
+
+## El separador Warm Edge: por qué importa para el Uw
+
+El separador (el marco entre los vidrios) influye mucho en el Uw final de la ventana:
+
+- **Separador de aluminio estándar:** Ψg = 0,10 W/(mK); crea un puente térmico y favorece la condensación
+- **Separador Warm Edge (por ejemplo Swisspacer):** Ψg = 0,03 W/(mK); reduce el Uw en 0,05–0,10 W/(m²K)
+
+**En Neofort BIZ, todas las ventanas con triple acristalamiento se entregan de serie con separador Warm Edge.**
+
+## Preguntas frecuentes — el coeficiente térmico de las ventanas
 
 ### ¿Qué Uw deben tener las ventanas para nZEB?
-La Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K) para casas nuevas. Recomendación nZEB: Uw ≤ 0,85 W/(m²K). Mejor sistema: Salamander bluEvolution 92 con triple 52mm — Uw = 0,70 W/(m²K).
 
-### ¿Qué significa Uf en ventanas?
-Uf es el coeficiente del perfil solo, sin vidrio. Salamander bluEvolution 92: Uf = 0,95 W/(m²K).
+La Mc 001-2022 da como valor de referencia Uw ≤ 1,11 W/(m²K) para las casas nuevas. Para casas nZEB recomendamos Uw ≤ 0,85 W/(m²K). El mejor sistema que ofrecemos: Salamander bluEvolution 92 con triple acristalamiento, con Uw desde 0,70 W/(m²K).
 
-### ¿Qué significa Ug en ventanas?
-Ug es el coeficiente del vidrio. Doble argón: Ug = 1,0 W/(m²K); Triple argón: Ug = 0,5 W/(m²K) — un 50% mejor.
+### ¿Qué significan Uf y Ug en las ventanas?
 
-### ¿Es aceptable un Uw de 1,1 en Bucarest?
-Sí — el valor de referencia de la Mc 001-2022 para una casa nueva es Uw ≤ 1,11 W/(m²K), y 1,20 en rehabilitación. Para una casa nZEB recomendamos, aun así, Uw ≤ 0,85 W/(m²K).
+El Uf es el coeficiente térmico del perfil (el marco de la ventana), sin vidrio: bluEvolution 92 tiene Uf = 0,95 W/(m²K), el mejor de la gama Salamander que ofrecemos. El Ug es el coeficiente térmico del vidrio: doble argón 1,0–1,1 W/(m²K), triple argón 0,5–0,6 W/(m²K), más o menos la mitad.
 
-Si va a instalar una bomba de calor, este valor resulta decisivo: vea [por qué el Uw determina el rendimiento de la bomba](/es/blog/bomba-de-calor-y-ventanas-por-que-importa-el-uw).
+### ¿Un Uw de 1,1 está bien para Bucarest?
 
-Para mejorar el aislamiento sin cambiar las ventanas, hay varias soluciones: [¿Cómo puedo mejorar el aislamiento térmico de las ventanas en Bucarest? Guía completa 2026](/es/blog/como-mejorar-aislamiento-termico-ventanas-bucarest).
+Cumple: el valor de referencia de la Mc 001-2022 para una casa nueva es Uw ≤ 1,11 W/(m²K), y 1,20 en reformas. Para una casa nZEB recomendamos aun así Uw ≤ 0,85 W/(m²K), con margen de seguridad.
+
+### ¿Cuál es el mejor Uw que podemos conseguir?
+
+Salamander bluEvolution 92 con triple acristalamiento y separador Warm Edge: **Uw desde 0,70 W/(m²K)**; el sistema bluEvolution tiene certificación Passivhaus. La instalación con premarcos Blaugelb Triotherm+ no cambia el Uw de la ventana, pero conserva su rendimiento una vez colocada en el muro.
+
+### ¿Cómo compruebo el Uw de una ventana?
+
+Pida la **declaración de prestaciones (DoP)** y el **certificado IFT Rosenheim** o TÜV del perfil utilizado. El Uw debe calcularse según la norma EN ISO 10077 e indicarse en la documentación técnica.
+
+## Conclusión — qué valor de Uw elegir
+
+| Escenario | Uw recomendado | Perfil óptimo |
+|---|---|---|
+| Reforma de un piso antiguo | ≤ 1,20 (idealmente ≤ 1,00) | Salamander GreenEvolution 76 |
+| Obra nueva estándar | ≤ 0,85 | Salamander GreenEvolution 76 + triple acristalamiento |
+| Casa nZEB | ≤ 0,80 | Salamander bluEvolution 92 + triple acristalamiento |
+| Casa pasiva (criterio PHI) | ≤ 0,80 | bluEvolution 92 + triple acristalamiento + instalación Blaugelb |
+
+**La regla sencilla:** elija siempre un Uw con un margen claro por debajo del valor de referencia. Para una casa nueva en Bucarest, eso significa Uw ≤ 0,85 W/(m²K), frente al valor de referencia de 1,11.
+
+Si va a instalar una bomba de calor, este valor se vuelve decisivo: vea [por qué importa el Uw para el rendimiento de la bomba](/es/blog/bomba-de-calor-y-ventanas-por-que-importa-el-uw).
+
+Si quiere mejorar el aislamiento sin cambiar las ventanas, hay algunas soluciones: [¿Cómo mejorar el aislamiento térmico de las ventanas en Bucarest? Guía completa 2026](/es/blog/como-mejorar-aislamiento-termico-ventanas-bucarest).
 
 ---
 
-Neofort BIZ suministra ventanas PVC Salamander y aluminio Alumil con Uw desde 0,70 W/(m²K). [Consulta técnica](/es/contacto). Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el vidrio aislante Saint-Gobain SGG](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg) y [el separador térmico Warm Edge](/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante).`,
-      it: `## Cos'è il coefficiente termico Uw di una finestra?
+**Artículos relacionados:**
+- [¿Qué ventanas elegir para una casa nZEB en Rumanía?](/es/blog/ventanas-casa-nzeb-rumania-guia-completa-2026)
+- [Triple o doble acristalamiento: ¿cuánto se ahorra de verdad en calefacción?](/es/blog/triple-vs-doble-acristalamiento-ahorros-reales-calefaccion-precio)
+- [¿PVC o aluminio para casas nZEB en 2026?](/es/blog/pvc-o-aluminio-casas-nzeb-2026-guia-completa)
 
-**Uw** misura quanta energia termica disperde una finestra — più basso è il valore, migliore è l'isolamento. Si esprime in **W/(m²K)** e include il profilo (Uf), il vetro (Ug) e il distanziale (Ψg).
+Neofort BIZ suministra ventanas de PVC Salamander y de aluminio Alumil con Uw desde 0,70 W/(m²K). [Solicite asesoramiento técnico](/es/contacto). Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el vidrio aislante Saint-Gobain SGG](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg) y [el separador térmico Warm Edge](/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante).`,
+      it: `## Che cos’è il coefficiente termico Uw di una finestra?
+
+L’**Uw (Wärmedurchgangskoeffizient)** è il valore che misura quanto calore disperde una finestra: più è basso, meglio la finestra isola. Si esprime in **W/(m²K)** e comprende il profilo (Uf), il vetro (Ug) e il distanziatore (Ψg).
 
 **Formula di calcolo:**
 **Uw = (Ag × Ug + Af × Uf + lg × Ψg) / (Ag + Af)**
 
-In pratica: una finestra con Uw = 0,72 W/(m²K) disperde 6,5 volte meno calore di una vecchia con Uw = 4,8 W/(m²K).
+In pratica: una finestra con Uw = 0,72 W/(m²K) disperde quasi 7 volte meno calore di una vecchia con Uw = 4,8 W/(m²K).
 
-## Cosa impone la normativa rumena nel 2026
+## Quale coefficiente termico impone la normativa romena nel 2026?
 
-La metodologia **Mc 001-2022** (approvata con l'Ordine MDLPA 16/2023) fissa valori di riferimento di Uw in base al tipo di edificio e di intervento:
+La metodologia di calcolo della prestazione energetica degli edifici, **Mc 001-2022** (approvata con l’Ordine MDLPA 16/2023), fissa valori di riferimento per l’Uw in base al tipo di edificio e di intervento:
 
-| Tipo di edificio | Uw massimo raccomandato | Applicazione |
+| Tipo di edificio | Uw massimo raccomandato | Quando si applica |
 |---|---|---|
 | **Residenziale nuovo (nZEB)** | **1,11 W/(m²K)** | **Case e condomini nuovi** |
 | Ristrutturazione | 1,20 W/(m²K) | Sostituzione delle finestre in edifici esistenti |
 | Non residenziale nuovo | 1,20 W/(m²K) | Uffici, spazi commerciali |
 | Porte esterne | 1,30 W/(m²K) | Tutti i tipi di edificio |
 
-**Raccomandazione Neofort BIZ:** Uw ≤ 0,85 W/(m²K) — un margine di sicurezza netto rispetto al valore di riferimento di 1,11.
+**Per una casa nuova a Bucarest, Uw ≤ 1,11 W/(m²K)** è il valore di riferimento. La conformità nZEB si verifica poi sulla prestazione energetica dell’intero edificio, non solo delle finestre.
 
-## Uw per tipo di finestra
+**La raccomandazione di Neofort BIZ:** Uw ≤ 0,85 W/(m²K), un margine di sicurezza netto sotto il valore di riferimento, per prestazioni garantite nel tempo.
 
-| Profilo | Uf (W/m²K) | Uw con triplo 44mm | Uw con triplo 52mm |
+## Il coefficiente termico per tipo di finestra
+
+### Finestre in PVC Salamander
+
+| Profilo | Uf (W/m²K) | Vetro massimo | Uw minimo (vetro triplo) |
 |---|---|---|---|
-| Salamander bluEvolution 92 | 0,95 | **0,72** | **0,70** |
-| GreenEvolution 76 | 1,10 | 0,88 | 0,82 |
+| bluEvolution 92 | 0,95 | 60 mm | **da 0,70** |
+| GreenEvolution 76 | 1,2 | 48 mm | da 0,73 |
 
-## Uw in denaro: calcolo reale dei risparmi
+### Serramenti in alluminio Alumil
 
-**Esempio — appartamento 50 m², 6 finestre (7,2 m²), Bucarest:**
+| Sistema | Uf (W/m²K) | Uw minimo |
+|---|---|---|
+| S77 Supreme (finestre e porte) | da 0,86 | da 1,0 |
+| SF85 Supreme (porta a libro) | da 1,0 | da 1,0 |
+| Smartia M19800 (porta a libro) | da 1,9 | da 1,7 |
 
-| Configurazione | Uw | Perdita kWh/anno | Costo €/anno |
+### Tipi di vetro termoisolante
+
+| Tipo di vetro | Ug (W/m²K) | Spessore | Effetto sull’Uw |
 |---|---|---|---|
-| Vecchie finestre in legno | 4,8 | 2.419 | ~290 € |
-| Doppio argon standard | 1,4 | 706 | ~85 € |
-| **Triplo Salamander 92** | **0,72** | **363** | **~44 €** |
+| Doppio Low-E argon | 1,0–1,1 | 24–32 mm | Uw ≈ 1,1–1,4 |
+| **Triplo Low-E argon** | **0,5–0,6** | 44–48 mm | **Uw ≈ 0,72–0,88** |
+| Triplo Low-E kripton | 0,4–0,5 | 36–52 mm | Uw ≈ 0,70–0,80 |
 
-## FAQ — Coefficiente termico finestre
+## Che cosa significa l’Uw in denaro: un calcolo reale del risparmio
 
-### Quale Uw devono avere le finestre per nZEB?
-La Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K) per le case nuove. Raccomandazione nZEB: Uw ≤ 0,85 W/(m²K). Sistema migliore: Salamander bluEvolution 92 con triplo 52mm — Uw = 0,70 W/(m²K).
+**Esempio pratico — appartamento di 50 m², 6 finestre (7,2 m²), Bucarest:**
 
-### Cosa significa Uf nelle finestre?
-Uf è il coefficiente del profilo da solo, senza vetro. Salamander bluEvolution 92: Uf = 0,95 W/(m²K).
+Formula della dispersione termica: **Q = U × A × ΔT × t**
+- ΔT medio nella stagione fredda: 20 °C | Ore della stagione fredda: 3.500 h | Prezzo dell’energia: ~0,12 EUR/kWh
 
-### Cosa significa Ug nelle finestre?
-Ug è il coefficiente del vetro. Doppio argon: Ug = 1,0 W/(m²K); Triplo argon: Ug = 0,5 W/(m²K) — il 50% migliore.
+| Configurazione | Uw | Dispersione kWh/anno | Costo EUR/anno |
+|---|---|---|---|
+| Vecchie finestre in legno | 4,8 | 2.419 | ~290 EUR |
+| Doppio argon standard | 1,4 | 706 | ~85 EUR |
+| **Triplo Salamander 92** | **0,72** | **363** | **~44 EUR** |
 
-### Un Uw di 1,1 è accettabile a Bucarest?
-Sì — il valore di riferimento della Mc 001-2022 per una casa nuova è Uw ≤ 1,11 W/(m²K), e 1,20 nelle ristrutturazioni. Per una casa nZEB raccomandiamo comunque Uw ≤ 0,85 W/(m²K).
+**Risparmio rispetto al doppio standard: 343 kWh/anno, cioè ~41 EUR/anno per appartamento. Rispetto alle vecchie finestre in legno: ~2.056 kWh/anno, cioè ~245 EUR/anno.**
 
-Se installate una pompa di calore, questo valore diventa decisivo: vedete [perché l’Uw determina il rendimento della pompa](/it/blog/pompa-di-calore-e-finestre-perche-conta-uw).
+## Il distanziatore Warm Edge: perché conta per l’Uw
 
-Per migliorare l’isolamento senza sostituire le finestre ci sono alcune soluzioni: [Come posso migliorare l'isolamento termico delle finestre a Bucarest? Guida completa 2026](/it/blog/come-migliorare-isolamento-termico-finestre-bucarest).
+Il distanziatore (il telaio tra le lastre) ha un forte impatto sull’Uw finale della finestra:
+
+- **Distanziatore in alluminio standard:** Ψg = 0,10 W/(mK); crea un ponte termico e favorisce la condensa
+- **Distanziatore Warm Edge (per esempio Swisspacer):** Ψg = 0,03 W/(mK); riduce l’Uw di 0,05–0,10 W/(m²K)
+
+**Da Neofort BIZ tutte le finestre con vetro triplo sono fornite di serie con distanziatore Warm Edge.**
+
+## Domande frequenti — il coefficiente termico delle finestre
+
+### Quale Uw devono avere le finestre per l’nZEB?
+
+La Mc 001-2022 indica come valore di riferimento Uw ≤ 1,11 W/(m²K) per le case nuove. Per le case nZEB consigliamo Uw ≤ 0,85 W/(m²K). Il miglior sistema che offriamo: Salamander bluEvolution 92 con vetro triplo, con Uw da 0,70 W/(m²K).
+
+### Che cosa significano Uf e Ug nelle finestre?
+
+L’Uf è il coefficiente termico del profilo (il telaio della finestra), senza vetro: bluEvolution 92 ha Uf = 0,95 W/(m²K), il migliore della gamma Salamander che offriamo. L’Ug è il coefficiente termico del vetro: doppio argon 1,0–1,1 W/(m²K), triplo argon 0,5–0,6 W/(m²K), circa la metà.
+
+### Un Uw di 1,1 va bene per Bucarest?
+
+È conforme: il valore di riferimento della Mc 001-2022 per una casa nuova è Uw ≤ 1,11 W/(m²K), e 1,20 nelle ristrutturazioni. Per una casa nZEB consigliamo comunque Uw ≤ 0,85 W/(m²K), con margine di sicurezza.
+
+### Qual è il miglior Uw che possiamo ottenere?
+
+Salamander bluEvolution 92 con vetro triplo e distanziatore Warm Edge: **Uw da 0,70 W/(m²K)**; il sistema bluEvolution ha la certificazione Passivhaus. La posa con controtelai Blaugelb Triotherm+ non cambia l’Uw della finestra, ma ne preserva le prestazioni una volta inserita nel muro.
+
+### Come verifico l’Uw di una finestra?
+
+Chiedete la **dichiarazione di prestazione (DoP)** e il **certificato IFT Rosenheim** o TÜV del profilo utilizzato. L’Uw deve essere calcolato secondo la norma EN ISO 10077 e indicato nella documentazione tecnica.
+
+## Conclusione — quale valore di Uw scegliere
+
+| Scenario | Uw consigliato | Profilo ottimale |
+|---|---|---|
+| Ristrutturazione di un appartamento vecchio | ≤ 1,20 (idealmente ≤ 1,00) | Salamander GreenEvolution 76 |
+| Nuova costruzione standard | ≤ 0,85 | Salamander GreenEvolution 76 + vetro triplo |
+| Casa nZEB | ≤ 0,80 | Salamander bluEvolution 92 + vetro triplo |
+| Casa passiva (criterio PHI) | ≤ 0,80 | bluEvolution 92 + vetro triplo + posa Blaugelb |
+
+**La regola semplice:** scegliete sempre un Uw con un margine netto sotto il valore di riferimento. Per una casa nuova a Bucarest significa Uw ≤ 0,85 W/(m²K), contro un valore di riferimento di 1,11.
+
+Se installate una pompa di calore, questo valore diventa decisivo: leggete [perché l’Uw conta per il rendimento della pompa](/it/blog/pompa-di-calore-e-finestre-perche-conta-uw).
+
+Se volete migliorare l’isolamento senza cambiare le finestre, ci sono alcune soluzioni: [Come migliorare l’isolamento termico delle finestre a Bucarest? Guida completa 2026](/it/blog/come-migliorare-isolamento-termico-finestre-bucarest).
 
 ---
 
-Neofort BIZ fornisce finestre PVC Salamander e alluminio Alumil con Uw a partire da 0,70 W/(m²K). [Consulenza tecnica](/it/contatti). Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo. Pagine utili: [il vetro termoisolante Saint-Gobain SGG](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg) e [il distanziatore termico Warm Edge](/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante).`,
+**Articoli correlati:**
+- [Quali finestre scegliere per una casa nZEB in Romania?](/it/blog/finestre-casa-nzeb-romania-guida-completa-2026)
+- [Vetro triplo o doppio: quanto si risparmia davvero sul riscaldamento?](/it/blog/triplo-vs-doppio-vetro-risparmi-reali-riscaldamento-prezzo)
+- [PVC o alluminio per le case nZEB nel 2026?](/it/blog/pvc-o-alluminio-case-nzeb-2026-guida-completa)
+
+Neofort BIZ fornisce finestre in PVC Salamander e in alluminio Alumil con Uw da 0,70 W/(m²K). [Richiedete una consulenza tecnica](/it/contatti). Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo. Pagine utili: [il vetro termoisolante Saint-Gobain SGG](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg) e [il distanziatore termico Warm Edge](/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante).`,
     },
   },
   {

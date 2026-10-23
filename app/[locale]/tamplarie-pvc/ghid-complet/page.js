@@ -251,37 +251,37 @@ const UI = {
 const BLOG_LINKS = {
   ro: [
     { slug: 'bluevolution-92-vs-greenevolution-76', label: 'Ghid complet: BluEvolution 92 vs GreenEvolution 76 — care profil PVC Salamander este potrivit pentru tine?' },
-    { slug: 'tamplarie-pvc-osciloculisanta-dubla-salamander', label: 'Tâmplărie PVC Osciloculisantă Dublă Salamander — Ghid complet: avantaje, izolare, durată de viață' },
+    { slug: 'tamplarie-pvc-osciloculisanta-dubla-salamander', label: 'Tâmplărie PVC Osciloculisantă Dublă Salamander — Ghid complet: cum funcționează, izolare, durată de viață' },
     { slug: 'montaj-precadre-blaugelb-nzeb', label: 'Montaj cu precadre Blaugelb Triotherm+ — de ce este obligatoriu pentru certificarea nZEB' },
     { slug: 'usa-culisanta-pvc-salamander-evolutiondrive-plus-plasa-plisse', label: 'Ușă Culisantă PVC Salamander evolutionDrive Plus+ cu Plasă Plissé Culisantă — Ghid complet' },
   ],
   en: [
     { slug: 'bluevolution-92-vs-greenevolution-76-guide', label: 'Complete Guide: BluEvolution 92 vs GreenEvolution 76 — Which Salamander PVC Profile Is Right for You?' },
-    { slug: 'tilt-turn-double-pvc-windows-salamander', label: 'Double Tilt-and-Turn PVC Windows Salamander — Complete Guide: Benefits, Insulation, Lifespan' },
+    { slug: 'tilt-turn-double-pvc-windows-salamander', label: 'Double Tilt-and-Slide PVC Windows Salamander — Complete Guide: How They Work, Insulation, Lifespan' },
     { slug: 'blaugelb-triotherm-precasing-installation-nzeb', label: 'Installation with Blaugelb Triotherm+ Precasings for nZEB' },
     { slug: 'salamander-evolutiondrive-plus-sliding-door-plisse-screen', label: 'Salamander evolutionDrive Plus+ Sliding PVC Door with Plissé Screen — Complete Guide' },
   ],
   de: [
     { slug: 'bluevolution-92-vs-greenevolution-76-leitfaden', label: 'Leitfaden: BluEvolution 92 vs GreenEvolution 76 — Welches Salamander PVC-Profil ist das richtige?' },
-    { slug: 'pvc-fenster-dreh-kipp-salamander', label: 'Salamander Dreh-Kipp PVC-Fenster mit Doppelflügel — Vollständiger Leitfaden: Vorteile, Dämmung, Lebensdauer' },
+    { slug: 'pvc-fenster-dreh-kipp-salamander', label: 'Salamander PVC-Parallel-Schiebe-Kipp-Fenster, zweiteilig — Leitfaden: Funktion, Dämmung, Lebensdauer' },
     { slug: 'blaugelb-triotherm-vorfenster-montage-nzeb', label: 'Montage mit Blaugelb Triotherm+ — Warum es für die nZEB-Zertifizierung obligatorisch ist' },
     { slug: 'salamander-evolutiondrive-plus-schiebetuer-plissee', label: 'Salamander evolutionDrive Plus+ Schiebetür PVC mit Plissee-Insektenschutz — Vollständiger Leitfaden' },
   ],
   fr: [
     { slug: 'bluevolution-92-vs-greenevolution-76-guide', label: 'Guide : BluEvolution 92 vs GreenEvolution 76 — Quel profil PVC Salamander choisir ?' },
-    { slug: 'fenetre-pvc-oscillo-battant-double-salamander', label: 'Fenêtre PVC oscillo-battante double Salamander — Guide complet : avantages, isolation, durée de vie' },
+    { slug: 'fenetre-pvc-oscillo-battant-double-salamander', label: 'Fenêtre PVC oscillo-coulissante double Salamander — Guide complet : fonctionnement, isolation, durée de vie' },
     { slug: 'precadres-blaugelb-triotherm-pose-nzeb', label: 'Pose avec précadres Blaugelb Triotherm+ — pourquoi c\'est obligatoire pour la certification nZEB' },
     { slug: 'porte-coulissante-pvc-salamander-evolutiondrive-plus-moustiquaire-plisse', label: 'Porte coulissante PVC Salamander evolutionDrive Plus+ avec moustiquaire plissée — Guide complet' },
   ],
   es: [
     { slug: 'bluevolution-92-vs-greenevolution-76-guia', label: 'Guía: BluEvolution 92 vs GreenEvolution 76 — ¿Qué perfil PVC Salamander elegir?' },
-    { slug: 'ventana-pvc-oscilobatiente-doble-salamander', label: 'Ventana PVC oscilobatiente doble Salamander — Guía completa: ventajas, aislamiento, vida útil' },
+    { slug: 'ventana-pvc-oscilobatiente-doble-salamander', label: 'Ventana PVC oscilo-paralela doble Salamander — Guía completa: funcionamiento, aislamiento, vida útil' },
     { slug: 'instalacion-premarcos-blaugelb-triotherm-nzeb', label: 'Montaje con premarcos Blaugelb Triotherm+ — por qué es obligatorio para la certificación nZEB' },
     { slug: 'puerta-corredera-pvc-salamander-evolutiondrive-plus-mosquitera-plise', label: 'Puerta corredera PVC Salamander evolutionDrive Plus+ con mosquitera plisada — Guía completa' },
   ],
   it: [
     { slug: 'bluevolution-92-vs-greenevolution-76-guida', label: 'Guida: BluEvolution 92 vs GreenEvolution 76 — Quale profilo PVC Salamander scegliere?' },
-    { slug: 'finestra-pvc-anta-ribalta-doppia-salamander', label: 'Finestra PVC anta e ribalta doppia Salamander — Guida completa: vantaggi, isolamento, durata' },
+    { slug: 'finestra-pvc-anta-ribalta-doppia-salamander', label: 'Finestra PVC scorrevole a ribalta doppia Salamander — Guida completa: funzionamento, isolamento, durata' },
     { slug: 'installazione-precontrotelaio-blaugelb-triotherm-nzeb', label: 'Montaggio con precontrotelaio Blaugelb Triotherm+ — perché è obbligatorio per la certificazione nZEB' },
     { slug: 'porta-scorrevole-pvc-salamander-evolutiondrive-plus-zanzariera-plisse', label: 'Porta scorrevole PVC Salamander evolutionDrive Plus+ con zanzariera plissé — Guida completa' },
   ],
