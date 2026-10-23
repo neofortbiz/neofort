@@ -21019,10 +21019,9 @@ Un sistem smart home bine proiectat optimizează consumul de energie al casei. D
 
 **BluEvolution 92** oferă:
 - **6 camere** | adâncime 92 mm | Uf profil = 0,95 W/m²K
-- **Uw = 0,70 W/m²K** cu geam dublu Low-E 4+16+4 argon
-- **Uw = 0,55 W/m²K** cu geam triplu Low-E 4+12+4+12+4 argon/krypton
+- **Uw de la 0,70 W/m²K** cu geam triplu Low-E 4+12+4+12+4 argon/krypton
 - Izolare fonică: **până la 47 dB** — liniște completă chiar și pe strada cu trafic moderat
-- Certificare **nZEB** completă — consum sub 100 kWh/m²/an
+- Potrivit pentru case **nZEB** — consum sub 100 kWh/m²/an
 
 Pe această casă din Berceni am montat **geam triplu Low-E cu argon** la toate ferestrele orientate nord și est, și **geam dublu Low-E** la sud și vest — optimizare în funcție de orientare solară, nu standard unic.
 
@@ -21031,7 +21030,7 @@ Pe această casă din Berceni am montat **geam triplu Low-E cu argon** la toate 
 O concepție greșită frecventă: că aluminiul este superior PVC-ului pentru smart home. Adevărul: **BluEvolution 92 cu feronerie Roto sau Siegenia** este la fel de compatibil cu Somfy, Nice și KNX ca orice sistem de aluminiu — la un cost cu 20–35% mai mic.
 
 **Pe această casă am integrat:**
-- **Motor Somfy Yslo io** pe sistemul liftant-glisant de la terasă
+- **Motorizare** pe sistemul liftant-glisant de la terasă, comandată din hubul Somfy
 - **Motor de lanț Somfy** pe 3 ferestre de dormitor (ventilație nocturnă automată)
 - **Senzori CO2** în dormitoare — ferestre se deschid automat la 1.000 ppm
 - **Senzori vânt** — ferestrele se închid automat la 55 km/h
@@ -21045,41 +21044,41 @@ O concepție greșită frecventă: că aluminiul este superior PVC-ului pentru s
 
 Varianta cu colțuri rotunjite — cea mai populară pentru case rezidențiale cu arhitectură modernă sau nordică. Aspect cald, fără liniile tăioase ale variantei FLEX.
 
-- Uw = 0,70 W/m²K (dublu Low-E) | 0,55 W/m²K (triplu Low-E)
+- Uw de la 0,70 W/m²K, cu geam triplu Low-E
 - Feronerie Roto NT sau Siegenia Titan — compatibilă motorizare Somfy/Nice
 - Disponibilă alb standard sau orice culoare RAL (negru mat, antracit, stejar)
 
-### Sistem liftant-glisant terasă — BluEvolution 92 + Alumil S700
+### Sistem liftant-glisant terasă — Alumil S 700 SUPREME
 
-Pe terasele mari ale caselor individuale, ușa de balcon clasică nu mai este suficientă. Sistemul liftant-glisant cu profile BluEvolution 92 combinate cu ghidajele Alumil S700 oferă:
-- Deschidere până la **4.500 mm** fără coloană intermediară
-- Motor Somfy Yslo io integrat în profilul inferior — **invizibil**
-- Uw = 1,1 W/m²K — performanță termică acceptabilă pentru un sistem deschis
+Pe terasele mari ale caselor individuale, ușa de balcon clasică nu mai este suficientă. Pentru terasă am ales sistemul liftant-glisant din aluminiu [Alumil S 700 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme), montat separat de ferestrele PVC:
+- Foi glisante de până la **500 kg**, cu prag aproape invizibil
+- Barieră termică Kooltherm, **Uw de la 1,0 W/m²K**
+- Motorizare integrată, comandată din același hub Somfy ca ferestrele
 
 ### Montaj nZEB cu precadre Blaugelb Triotherm+
 
-Fără precadre, **BluEvolution 92 pierde 35–40% din performanța termică** la zona de montaj. Pe această casă am folosit sistemul complet Blaugelb: precadru + bandă butilică + spumă PU densitate medie + bandă antivapori interior.
+Fără precadre, **BluEvolution 92 pierde 30–40% din performanța termică** la zona de montaj. Pe această casă am folosit sistemul complet Blaugelb: precadru + bandă butilică + spumă PU densitate medie + bandă antivapori interior.
 
 ---
 
 ## Scenarii smart home implementate pe casa din Berceni
 
-**Scenariul „Dimineață"** (ora 7:00):
+**Scenariul „Dimineață”** (ora 7:00):
 - Ferestrele de dormitor se deschid la 8 cm pentru aerisire
 - Rulourile exterioare se ridică treptat (30% → 60% → 100% în 20 minute)
 - Sistemul de încălzire crește temperatura cu 2°C față de noapte
 
-**Scenariul „Plecare":**
+**Scenariul „Plecare”:**
 - Toate ferestrele se închid și se blochează
 - Rulourile exterioare coboară la 50%
 - Senzori de mișcare activați
 
-**Scenariul „Noapte:"**
+**Scenariul „Noapte”:**
 - Ferestrele dormitorului rămân la 5 cm deschidere
 - Dacă CO2 depășește 900 ppm, ferestrele se deschid la 15 cm
 - Dacă temperatura exterioară scade sub 10°C, ferestrele se închid automat
 
-**Scenariul „Furtună":**
+**Scenariul „Furtună”:**
 - La vânt > 55 km/h, toate ferestrele se închid în 30 secunde
 - Rulourile exterioare se ridică complet
 - Notificare pe telefon
@@ -21088,7 +21087,7 @@ Fără precadre, **BluEvolution 92 pierde 35–40% din performanța termică** l
 
 ## Prețuri orientative BluEvolution 92 cu smart home — casă individuală 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Se pot modifica în funcție de evoluția pieței. Solicitați întotdeauna o ofertă actualizată.
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Se pot modifica în funcție de evoluția pieței. Sunt prețuri fără TVA; TVA-ul de 21% se adaugă la facturare. Solicitați întotdeauna o ofertă actualizată.
 
 | Configurație | Casă 120 mp | Casă 180 mp |
 |---|---|---|
@@ -21109,11 +21108,11 @@ La Neofort BIZ oferim **consultanță tehnică** pentru proiecte de case individ
 
 ### De ce e BluEvolution 92 profilul ideal pentru o casă smart?
 
-Un sistem smart home optimizează consumul de energie doar dacă anvelopa clădirii e performantă — altfel automatizezi pierderile, nu le elimini. BluEvolution 92 (6 camere, Uf 0,95 W/m²K) atinge Uw 0,70 cu geam dublu Low-E sau Uw 0,55 cu triplu, oferind baza nZEB necesară pentru optimizarea smart.
+Un sistem smart home optimizează consumul de energie doar dacă anvelopa clădirii e performantă — altfel automatizezi pierderile, nu le elimini. BluEvolution 92 (6 camere, Uf 0,95 W/m²K) atinge Uw de la 0,70 W/m²K cu geam triplu Low-E și oferă baza de care are nevoie o casă nZEB.
 
 ### Ce performanță termică oferă Salamander BluEvolution 92?
 
-BluEvolution 92 are 6 camere și adâncime 92 mm, cu Uf profil 0,95 W/m²K. Atinge Uw = 0,70 W/m²K cu geam dublu Low-E 4+16+4 argon și Uw = 0,55 W/m²K cu geam triplu Low-E 4+12+4+12+4 argon/krypton, plus izolare fonică până la 47 dB.
+BluEvolution 92 are 6 camere și adâncime 92 mm, cu Uf profil 0,95 W/m²K. Atinge Uw de la 0,70 W/m²K cu geam triplu Low-E 4+12+4+12+4 argon/krypton și oferă izolare fonică până la 47 dB.
 
 ### E potrivit profilul PVC pentru o casă cu sistem smart home integrat?
 
@@ -21121,291 +21120,656 @@ Da, dacă anvelopa e performantă. Casa nordică finalizată în Berceni (2025) 
 
 ### Ce izolare fonică oferă BluEvolution 92 pe străzi cu trafic?
 
-BluEvolution 92 oferă izolare fonică până la 47 dB, asigurând liniște completă chiar și pe o stradă cu trafic moderat. Combinat cu certificarea nZEB completă (consum sub 100 kWh/m²/an), e ideal pentru case noi în zone rezidențiale în dezvoltare precum Berceni.
+BluEvolution 92 oferă izolare fonică până la 47 dB, asigurând liniște completă chiar și pe o stradă cu trafic moderat. Într-o casă construită la standard nZEB (consum sub 100 kWh/m²/an), e ideal pentru zone rezidențiale în dezvoltare precum Berceni.
+
+### Ce sistem ați montat pe terasa casei din Berceni?
+
+Pe terasă am montat sistemul liftant-glisant din aluminiu Alumil S 700 SUPREME, separat de ferestrele PVC BluEvolution 92. Are foi de până la 500 kg, barieră termică Kooltherm și Uw de la 1,0 W/m²K, iar motorizarea lui e comandată din același hub Somfy TaHoma ca ferestrele.
+
 
 ---
 
 Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Pentru context complet, citește [ghidul de alegere între sistemele Salamander](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [profilul Salamander bluEvolution 92 FLEX](/ro/produse/profil-pvc-bluevolution-92-flex).`,
 
-      en: `## The Neofort BIZ Project — New Nordic-Style House, Berceni, Bucharest
+      en: `## The Neofort BIZ project — new Nordic-style house, Berceni, Bucharest
 
-Berceni is a sector in full transformation — new individual houses with modern or Scandinavian-Nordic architecture, young homeowners with high expectations for energy efficiency and technology.
+Berceni is a district in full transformation — new detached houses with modern or Scandinavian-Nordic architecture, young owners with high expectations for energy efficiency and technology.
 
-This house, completed in 2025, chose **Salamander [BluEvolution 92](/en/pvc-windows)** as the main PVC profile — the right decision for a project combining [nZEB standard](/en/nzeb-systems) with a fully integrated smart home system.
+This house, completed in 2025, chose **Salamander [BluEvolution 92](/en/pvc-windows)** as its main PVC profile — the right decision for a project that combined the [nZEB](/en/nzeb-systems) standard with a fully integrated smart home system.
 
 ---
 
 ## Why BluEvolution 92 is the ideal profile for a smart house in 2026
 
-**Thermal performance:**
-- 6 chambers | 92 mm depth | Uf = 0.95 W/m²K
-- Uw = 0.70 W/m²K (double Low-E) | 0.55 W/m²K (triple Low-E)
-- Acoustic insulation: up to 47 dB
-- Full nZEB certification
+### Thermal performance — the foundation of any smart house
 
-**Smart home integration on this project:**
-- Somfy Yslo io motor on the terrace lift-and-slide system
-- Somfy chain motors on 3 bedroom windows (automatic night ventilation)
-- CO2 sensors — windows open automatically at 1,000 ppm
-- Wind sensors — windows close automatically at 55 km/h
-- Somfy TaHoma Switch hub — full Apple HomeKit and Google Home integration
+A well-designed smart home system optimises the house's energy use. But that optimisation works **only if the building envelope performs well** — otherwise you automate the losses instead of eliminating them.
+
+**BluEvolution 92** offers:
+- **6 chambers** | 92 mm depth | profile Uf = 0.95 W/m²K
+- **Uw from 0.70 W/m²K** with triple Low-E 4+12+4+12+4 argon/krypton glazing
+- Sound insulation: **up to 47 dB** — complete quiet even on a street with moderate traffic
+- Suitable for **nZEB** houses — consumption below 100 kWh/m²/year
+
+On this Berceni house we fitted **triple Low-E glazing with argon** on every north- and east-facing window, and **double Low-E glazing** on the south and west — optimised for solar orientation rather than a single standard.
+
+### Compatibility with automation — why PVC beats aluminium on cost
+
+A common misconception: that aluminium is better than PVC for a smart home. The truth: **BluEvolution 92 with Roto or Siegenia hardware** is just as compatible with Somfy, Nice and KNX as any aluminium system — at a cost 20–35% lower.
+
+**On this house we integrated:**
+- **Motorisation** on the terrace lift-and-slide system, controlled from the Somfy hub
+- **Somfy chain motor** on 3 bedroom windows (automatic night ventilation)
+- **CO2 sensors** in the bedrooms — windows open automatically at 1,000 ppm
+- **Wind sensors** — windows close automatically at 55 km/h
+- **Somfy TaHoma Switch hub** — full Apple HomeKit and Google Home integration
 
 ---
 
-## Smart home scenarios implemented
+## The complete BluEvolution 92 configuration for a new smart house
 
-**"Morning" scenario (7:00 AM):** bedroom windows open 8 cm, exterior shutters rise gradually, heating increases 2°C.
+### Tilt-and-turn windows — BluEvolution 92 ROUND
 
-**"Departure" scenario:** all windows close and lock, shutters lower to 50%, motion sensors activated.
+The version with rounded edges — the most popular for residential houses with modern or Nordic architecture. A warm look, without the sharp lines of the FLEX version.
 
-**"Storm" scenario:** at wind > 55 km/h, all windows close in 30 seconds, shutters rise fully, phone notification.
+- Uw from 0.70 W/m²K, with triple Low-E glazing
+- Roto NT or Siegenia Titan hardware — compatible with Somfy/Nice motorisation
+- Available in standard white or any RAL colour (matt black, anthracite, oak)
+
+### Terrace lift-and-slide system — Alumil S 700 SUPREME
+
+On the large terraces of detached houses, a classic balcony door is no longer enough. For the terrace we chose the [Alumil S 700 SUPREME](/en/products-alu/alumil-s700-supreme-lift-slide-system) aluminium lift-and-slide system, installed separately from the PVC windows:
+- Sliding sashes of up to **500 kg**, with an almost invisible threshold
+- Kooltherm thermal break, **Uw from 1.0 W/m²K**
+- Integrated motorisation, controlled from the same Somfy hub as the windows
+
+### nZEB installation with Blaugelb Triotherm+ pre-frames
+
+Without pre-frames, **BluEvolution 92 loses 30–40% of its thermal performance** at the installation joint. On this house we used the complete Blaugelb system: pre-frame + butyl tape + medium-density PU foam + interior vapour barrier tape.
 
 ---
 
-## Indicative prices BluEvolution 92 with smart home — 2026
+## Smart home scenarios implemented on the Berceni house
 
-> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+**"Morning" scenario** (7:00):
+- The bedroom windows open 8 cm for airing
+- The exterior roller shutters rise gradually (30% → 60% → 100% over 20 minutes)
+- The heating raises the temperature by 2°C compared with the night
 
-| Configuration | House 120 m² | House 180 m² |
+**"Leaving" scenario:**
+- All windows close and lock
+- The exterior roller shutters lower to 50%
+- Motion sensors are activated
+
+**"Night" scenario:**
+- The bedroom windows stay open 5 cm
+- If CO2 exceeds 900 ppm, the windows open to 15 cm
+- If the outdoor temperature drops below 10°C, the windows close automatically
+
+**"Storm" scenario:**
+- With wind above 55 km/h, all windows close within 30 seconds
+- The exterior roller shutters rise completely
+- A notification is sent to the phone
+
+---
+
+## Indicative prices for BluEvolution 92 with smart home — detached house 2026
+
+> ⚠️ **Important note:** Prices are indicative and reflect conditions in March 2026. They may change as the market evolves. Prices exclude VAT; 21% VAT is added at invoicing. Always ask for an updated quote.
+
+| Configuration | 120 m² house | 180 m² house |
 |---|---|---|
-| BluEvolution 92, double Low-E, nZEB | 16,000–22,000 EUR | 24,000–32,000 EUR |
-| BluEvolution 92, triple Low-E, nZEB | 20,000–28,000 EUR | 30,000–42,000 EUR |
-| + Somfy automation | +3,500–6,000 EUR | +5,000–9,000 EUR |
+| BluEvolution 92, double Low-E glazing, nZEB installation | 16,000–22,000 EUR | 24,000–32,000 EUR |
+| BluEvolution 92, triple Low-E glazing, nZEB installation | 20,000–28,000 EUR | 30,000–42,000 EUR |
+| + Somfy automation (terrace + 3 windows + hub) | +3,500–6,000 EUR | +5,000–9,000 EUR |
+| + Complete Loxone system | +8,000–18,000 EUR | +12,000–25,000 EUR |
 
-**WhatsApp:** +40 752 443 435
+---
+
+## Consultancy for your house
+
+At Neofort BIZ we offer **technical consultancy** for new detached-house projects — thermal calculation by orientation, a profile and glazing recommendation for each window, and a pre-wiring plan for later motorisation even if you do not want automation now.
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
 
 ## Frequently Asked Questions
 
 ### Why is BluEvolution 92 the ideal profile for a smart house?
 
-A smart-home system optimises energy use only if the building envelope performs — otherwise you automate losses instead of eliminating them. BluEvolution 92 (6 chambers, Uf 0.95 W/m²K) reaches Uw 0.70 with double Low-E glazing or Uw 0.55 with triple, providing the nZEB base needed for smart optimisation.
+A smart home system only optimises energy use if the building envelope performs well — otherwise you automate the losses instead of eliminating them. BluEvolution 92 (6 chambers, Uf 0.95 W/m²K) reaches Uw from 0.70 W/m²K with triple Low-E glazing and provides the foundation an nZEB house needs.
 
 ### What thermal performance does Salamander BluEvolution 92 offer?
 
-BluEvolution 92 has 6 chambers and 92 mm depth, with a profile Uf of 0.95 W/m²K. It reaches Uw = 0.70 W/m²K with double Low-E 4+16+4 argon glazing and Uw = 0.55 W/m²K with triple Low-E 4+12+4+12+4 argon/krypton, plus sound insulation up to 47 dB.
+BluEvolution 92 has 6 chambers and a 92 mm depth, with a profile Uf of 0.95 W/m²K. It reaches Uw from 0.70 W/m²K with triple Low-E 4+12+4+12+4 argon/krypton glazing and offers sound insulation of up to 47 dB.
 
-### Is a PVC profile suitable for a house with an integrated smart-home system?
+### Is a PVC profile suitable for a house with an integrated smart home system?
 
-Yes, if the envelope performs. The Nordic house completed in Berceni (2025) chose BluEvolution 92 as its main profile precisely to combine the nZEB standard with a fully integrated smart-home system — good automation only works on a well-insulated house.
+Yes, if the envelope performs well. The Nordic house completed in Berceni (2025) chose BluEvolution 92 as its main profile precisely to combine the nZEB standard with a fully integrated smart home system — good automation only works on a well-insulated house.
 
 ### What sound insulation does BluEvolution 92 offer on busy streets?
 
-BluEvolution 92 offers sound insulation up to 47 dB, ensuring complete quiet even on a street with moderate traffic. Combined with full nZEB certification (under 100 kWh/m²/year), it is ideal for new houses in developing residential areas such as Berceni.
+BluEvolution 92 offers sound insulation of up to 47 dB, ensuring complete quiet even on a street with moderate traffic. In a house built to the nZEB standard (consumption below 100 kWh/m²/year), it is ideal for developing residential areas such as Berceni.
+
+### Which system did you install on the terrace of the Berceni house?
+
+On the terrace we installed the Alumil S 700 SUPREME aluminium lift-and-slide system, separate from the BluEvolution 92 PVC windows. It has sashes of up to 500 kg, a Kooltherm thermal break and Uw from 1.0 W/m²K, and its motorisation is controlled from the same Somfy TaHoma hub as the windows.
+
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). For the full context, read [the Salamander systems choice guide](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile) and [the Salamander bluEvolution 92 FLEX profile](/en/products/bluevolution-92-flex-pvc-profile).`,
+Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). For the full picture, read the [guide to choosing between Salamander systems](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile) and [the Salamander bluEvolution 92 FLEX profile](/en/products/bluevolution-92-flex-pvc-profile).`,
 
-      de: `## Das Neofort BIZ Projekt — neues Haus im nordischen Stil, Berceni, Bukarest
+      de: `## Das Projekt von Neofort BIZ — neues Haus im nordischen Stil, Berceni, Bukarest
 
-Dieses 2025 fertiggestellte Haus wählte **Salamander [BluEvolution 92](/de/kunststofffenster-pvc)** als Haupt-PVC-Profil — die richtige Entscheidung für ein Projekt, das [nZEB-Standard](/de/nzeb-systeme) mit einem vollständig integrierten Smart-Home-System kombiniert.
+Berceni ist ein Stadtteil im Umbruch — neue Einfamilienhäuser mit moderner oder skandinavisch-nordischer Architektur, junge Eigentümer mit hohen Erwartungen an Energieeffizienz und Technik.
 
----
-
-## Warum BluEvolution 92 das ideale Profil für ein Smart Home 2026 ist
-
-- 6 Kammern | 92 mm Tiefe | Uw = 0,70 W/m²K (Zweifach-Low-E)
-- Schalldämmung bis 47 dB | Vollständige nZEB-Zertifizierung
-
-**Smart-Home-Integration:**
-- Somfy Yslo io Motor am Hebeschiebe-Terrassensystem
-- Somfy Kettenmotoren an 3 Schlafzimmerfenstern (automatische Nachtlüftung)
-- CO2-Sensoren — Fenster öffnen automatisch bei 1.000 ppm
-- Windsensoren — Fenster schließen automatisch bei 55 km/h
-- Somfy TaHoma Switch — vollständige Apple HomeKit und Google Home Integration
+Dieses 2025 fertiggestellte Haus hat sich für **Salamander [BluEvolution 92](/de/kunststofffenster-pvc)** als Haupt-PVC-Profil entschieden — die richtige Wahl für ein Projekt, das den [nZEB](/de/nzeb-systeme)-Standard mit einem vollständig integrierten Smart-Home-System verbindet.
 
 ---
 
-## Richtpreise BluEvolution 92 mit Smart Home — 2026
+## Warum BluEvolution 92 2026 das ideale Profil für ein Smart Home ist
 
-> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+### Die Wärmedämmung — die Grundlage jedes intelligenten Hauses
 
-| Konfiguration | Haus 120 m² | Haus 180 m² |
+Ein gut geplantes Smart-Home-System optimiert den Energieverbrauch des Hauses. Diese Optimierung funktioniert aber **nur, wenn die Gebäudehülle leistungsfähig ist** — sonst automatisiert man die Verluste, statt sie zu beseitigen.
+
+**BluEvolution 92** bietet:
+- **6 Kammern** | Bautiefe 92 mm | Profil-Uf = 0,95 W/m²K
+- **Uw ab 0,70 W/m²K** mit Dreifachverglasung Low-E 4+12+4+12+4 Argon/Krypton
+- Schalldämmung: **bis 47 dB** — völlige Ruhe selbst an einer Straße mit mäßigem Verkehr
+- Geeignet für **nZEB**-Häuser — Verbrauch unter 100 kWh/m²/Jahr
+
+An diesem Haus in Berceni haben wir an allen nach Norden und Osten ausgerichteten Fenstern **Dreifachverglasung Low-E mit Argon** eingebaut und im Süden und Westen **Zweifachverglasung Low-E** — optimiert nach der Sonnenausrichtung statt nach einem Einheitsstandard.
+
+### Kompatibilität mit der Automatisierung — warum PVC Aluminium bei den Kosten schlägt
+
+Ein häufiger Irrtum: Aluminium sei für das Smart Home besser als PVC. Die Wahrheit: **BluEvolution 92 mit Roto- oder Siegenia-Beschlägen** ist mit Somfy, Nice und KNX genauso kompatibel wie jedes Aluminiumsystem — bei 20–35 % geringeren Kosten.
+
+**An diesem Haus haben wir integriert:**
+- **Motorisierung** der Hebeschiebeanlage auf der Terrasse, gesteuert über den Somfy-Hub
+- **Somfy-Kettenantrieb** an 3 Schlafzimmerfenstern (automatische Nachtlüftung)
+- **CO2-Sensoren** in den Schlafzimmern — die Fenster öffnen sich automatisch bei 1.000 ppm
+- **Windsensoren** — die Fenster schließen sich automatisch bei 55 km/h
+- **Hub Somfy TaHoma Switch** — vollständige Integration in Apple HomeKit und Google Home
+
+---
+
+## Die komplette BluEvolution-92-Ausstattung für ein neues Smart Home
+
+### Dreh-Kipp-Fenster — BluEvolution 92 ROUND
+
+Die Variante mit abgerundeten Kanten — die beliebteste für Wohnhäuser mit moderner oder nordischer Architektur. Eine warme Optik, ohne die harten Linien der Variante FLEX.
+
+- Uw ab 0,70 W/m²K, mit Dreifachverglasung Low-E
+- Beschläge Roto NT oder Siegenia Titan — kompatibel mit Somfy-/Nice-Motorisierung
+- Erhältlich in Standardweiß oder jeder RAL-Farbe (Mattschwarz, Anthrazit, Eiche)
+
+### Hebeschiebeanlage für die Terrasse — Alumil S 700 SUPREME
+
+Auf den großen Terrassen von Einfamilienhäusern reicht die klassische Balkontür nicht mehr aus. Für die Terrasse haben wir die Aluminium-Hebeschiebeanlage [Alumil S 700 SUPREME](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem) gewählt, getrennt von den Kunststofffenstern montiert:
+- Schiebeflügel bis **500 kg**, mit fast unsichtbarer Schwelle
+- Thermische Trennung Kooltherm, **Uw ab 1,0 W/m²K**
+- Integrierte Motorisierung, gesteuert über denselben Somfy-Hub wie die Fenster
+
+### nZEB-Montage mit dem Vorwandmontagesystem Blaugelb Triotherm+
+
+Ohne dieses System **verliert BluEvolution 92 im Anschlussbereich 30–40 % seiner Wärmedämmleistung**. An diesem Haus haben wir das komplette Blaugelb-System verwendet: Triotherm+-Profil + Butylband + PU-Schaum mittlerer Dichte + innenseitiges Dampfsperrband.
+
+---
+
+## Die im Haus in Berceni umgesetzten Smart-Home-Szenarien
+
+**Szenario „Morgen“** (7:00 Uhr):
+- Die Schlafzimmerfenster öffnen sich zum Lüften um 8 cm
+- Die Außenrollläden fahren schrittweise hoch (30 % → 60 % → 100 % in 20 Minuten)
+- Die Heizung erhöht die Temperatur gegenüber der Nacht um 2 °C
+
+**Szenario „Verlassen“:**
+- Alle Fenster schließen und verriegeln sich
+- Die Außenrollläden fahren auf 50 % herunter
+- Die Bewegungsmelder werden aktiviert
+
+**Szenario „Nacht“:**
+- Die Schlafzimmerfenster bleiben 5 cm geöffnet
+- Übersteigt der CO2-Wert 900 ppm, öffnen sich die Fenster auf 15 cm
+- Fällt die Außentemperatur unter 10 °C, schließen sich die Fenster automatisch
+
+**Szenario „Sturm“:**
+- Bei Wind über 55 km/h schließen sich alle Fenster innerhalb von 30 Sekunden
+- Die Außenrollläden fahren vollständig hoch
+- Benachrichtigung auf dem Telefon
+
+---
+
+## Richtpreise für BluEvolution 92 mit Smart Home — Einfamilienhaus 2026
+
+> ⚠️ **Wichtiger Hinweis:** Die Preise sind Richtpreise und spiegeln die Lage vom März 2026 wider. Sie können sich mit der Marktentwicklung ändern. Alle Preise verstehen sich ohne MwSt.; die rumänische MwSt. von 21 % kommt bei der Rechnungsstellung hinzu. Fordern Sie immer ein aktuelles Angebot an.
+
+| Ausführung | Haus 120 m² | Haus 180 m² |
 |---|---|---|
-| BluEvolution 92, Zweifach-Low-E, nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
-| BluEvolution 92, Dreifach-Low-E, nZEB | 20.000–28.000 EUR | 30.000–42.000 EUR |
-| + Somfy-Automatisierung | +3.500–6.000 EUR | +5.000–9.000 EUR |
+| BluEvolution 92, Zweifachverglasung Low-E, nZEB-Montage | 16.000–22.000 EUR | 24.000–32.000 EUR |
+| BluEvolution 92, Dreifachverglasung Low-E, nZEB-Montage | 20.000–28.000 EUR | 30.000–42.000 EUR |
+| + Somfy-Automatisierung (Terrasse + 3 Fenster + Hub) | +3.500–6.000 EUR | +5.000–9.000 EUR |
+| + Komplettes Loxone-System | +8.000–18.000 EUR | +12.000–25.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+---
+
+## Beratung für Ihr Haus
+
+Bei Neofort BIZ bieten wir **technische Beratung** für neue Einfamilienhausprojekte — Wärmeberechnung nach Ausrichtung, Profil- und Glasempfehlung für jedes Fenster und ein Plan zur Vorverkabelung für eine spätere Motorisierung, auch wenn Sie jetzt noch keine Automatisierung wünschen.
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18 Uhr**
 
 ## Häufig gestellte Fragen
 
-### Warum ist BluEvolution 92 das ideale Profil für ein Smart-Haus?
+### Warum ist BluEvolution 92 das ideale Profil für ein Smart Home?
 
-Ein Smart-Home-System optimiert den Energieverbrauch nur, wenn die Gebäudehülle leistet — sonst automatisiert man Verluste, statt sie zu beseitigen. BluEvolution 92 (6 Kammern, Uf 0,95 W/m²K) erreicht Uw 0,70 mit Doppel-Low-E-Glas oder Uw 0,55 mit Dreifach und bietet die nötige nZEB-Basis für Smart-Optimierung.
+Ein Smart-Home-System optimiert den Energieverbrauch nur, wenn die Gebäudehülle leistungsfähig ist — sonst automatisiert man die Verluste, statt sie zu beseitigen. BluEvolution 92 (6 Kammern, Uf 0,95 W/m²K) erreicht Uw ab 0,70 W/m²K mit Dreifachverglasung Low-E und bietet die Grundlage, die ein nZEB-Haus braucht.
 
-### Welche Wärmeleistung bietet Salamander BluEvolution 92?
+### Welche Wärmedämmung bietet Salamander BluEvolution 92?
 
-BluEvolution 92 hat 6 Kammern und 92 mm Bautiefe, mit einem Profil-Uf von 0,95 W/m²K. Es erreicht Uw = 0,70 W/m²K mit Doppel-Low-E 4+16+4 Argon und Uw = 0,55 W/m²K mit Dreifach-Low-E 4+12+4+12+4 Argon/Krypton, plus Schalldämmung bis 47 dB.
+BluEvolution 92 hat 6 Kammern und eine Bautiefe von 92 mm, mit einem Profil-Uf von 0,95 W/m²K. Es erreicht Uw ab 0,70 W/m²K mit Dreifachverglasung Low-E 4+12+4+12+4 Argon/Krypton und bietet Schalldämmung bis 47 dB.
 
-### Ist ein PVC-Profil für ein Haus mit integriertem Smart-Home-System geeignet?
+### Eignet sich ein PVC-Profil für ein Haus mit integriertem Smart-Home-System?
 
-Ja, wenn die Hülle leistet. Das in Berceni fertiggestellte nordische Haus (2025) wählte BluEvolution 92 als Hauptprofil gerade, um den nZEB-Standard mit einem voll integrierten Smart-Home-System zu kombinieren — gute Automatisierung funktioniert nur an einem gut gedämmten Haus.
+Ja, wenn die Gebäudehülle leistungsfähig ist. Das 2025 fertiggestellte nordische Haus in Berceni hat BluEvolution 92 genau deshalb als Hauptprofil gewählt, um den nZEB-Standard mit einem vollständig integrierten Smart-Home-System zu verbinden — eine gute Automatisierung funktioniert nur in einem gut gedämmten Haus.
 
-### Welche Schalldämmung bietet BluEvolution 92 an belebten Straßen?
+### Welche Schalldämmung bietet BluEvolution 92 an verkehrsreichen Straßen?
 
-BluEvolution 92 bietet Schalldämmung bis 47 dB und sorgt für völlige Ruhe selbst an einer Straße mit mäßigem Verkehr. Kombiniert mit voller nZEB-Zertifizierung (unter 100 kWh/m²/Jahr) ist es ideal für Neubauten in sich entwickelnden Wohngebieten wie Berceni.
+BluEvolution 92 bietet eine Schalldämmung bis 47 dB und sorgt so selbst an einer Straße mit mäßigem Verkehr für völlige Ruhe. In einem nach nZEB-Standard gebauten Haus (Verbrauch unter 100 kWh/m²/Jahr) ist es ideal für wachsende Wohngebiete wie Berceni.
 
----
+### Welches System haben Sie auf der Terrasse des Hauses in Berceni eingebaut?
 
-Neofort BIZ fertigt und montiert Salamander PVC-Fenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie die [Salamander-PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Salamander-Systeme-Ratgeber](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [Salamander-Profil bluEvolution 92 FLEX](/de/produkte/bluevolution-92-flex-pvc-profil).`,
+Auf der Terrasse haben wir die Aluminium-Hebeschiebeanlage Alumil S 700 SUPREME eingebaut, getrennt von den Kunststofffenstern BluEvolution 92. Sie hat Flügel bis 500 kg, eine thermische Trennung Kooltherm und Uw ab 1,0 W/m²K; ihre Motorisierung wird über denselben Somfy-TaHoma-Hub gesteuert wie die Fenster.
 
-      fr: `## Le projet Neofort BIZ — maison neuve style nordique, Berceni, Bucarest
-
-Cette maison achevée en 2025 a choisi **Salamander [BluEvolution 92](/fr/menuiserie-pvc)** comme profil PVC principal — le bon choix pour un projet combinant le [standard nZEB](/fr/systemes-nzeb) avec un système maison intelligente entièrement intégré.
 
 ---
 
-## Pourquoi BluEvolution 92 est le profil idéal pour une maison connectée en 2026
+Neofort BIZ fertigt und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Überblick lesen Sie den [Leitfaden zur Wahl zwischen den Salamander-Systemen](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [das Salamander-Profil bluEvolution 92 FLEX](/de/produkte/bluevolution-92-flex-pvc-profil).`,
 
-- 6 chambres | 92 mm | Uw = 0,70 W/m²K (double Low-E) | jusqu'à 47 dB
-- Certification nZEB complète
+      fr: `## Le chantier Neofort BIZ — maison neuve de style nordique, Berceni, Bucarest
 
-**Intégration maison intelligente :**
-- Moteur Somfy Yslo io sur le système levant-coulissant de la terrasse
-- Moteurs à chaîne Somfy sur 3 fenêtres de chambre (ventilation nocturne automatique)
-- Capteurs CO2 — fenêtres s'ouvrent automatiquement à 1.000 ppm
-- Hub Somfy TaHoma Switch — intégration complète Apple HomeKit et Google Home
+Berceni est un quartier en pleine transformation — des maisons individuelles neuves à l’architecture moderne ou scandinave, des propriétaires jeunes aux attentes élevées en matière d’efficacité énergétique et de technologie.
+
+Cette maison, achevée en 2025, a choisi **Salamander [BluEvolution 92](/fr/menuiserie-pvc)** comme profilé PVC principal — le bon choix pour un projet qui associait le standard [nZEB](/fr/systemes-nzeb) à un système de maison intelligente entièrement intégré.
 
 ---
 
-## Prix indicatifs BluEvolution 92 avec maison intelligente — 2026
+## Pourquoi le BluEvolution 92 est le profilé idéal pour une maison intelligente en 2026
 
-> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+### La performance thermique — la base de toute maison intelligente
 
-| Configuration | Maison 120 m² | Maison 180 m² |
+Un système domotique bien conçu optimise la consommation d’énergie de la maison. Mais cette optimisation ne fonctionne **que si l’enveloppe du bâtiment est performante** — sinon, on automatise les pertes au lieu de les supprimer.
+
+Le **BluEvolution 92** offre :
+- **6 chambres** | profondeur 92 mm | Uf du profilé = 0,95 W/m²K
+- **Uw à partir de 0,70 W/m²K** avec triple vitrage Low-E 4+12+4+12+4 argon/krypton
+- Isolation acoustique : **jusqu’à 47 dB** — un calme complet même dans une rue à trafic modéré
+- Adapté aux maisons **nZEB** — consommation inférieure à 100 kWh/m²/an
+
+Sur cette maison de Berceni, nous avons posé du **triple vitrage Low-E à l’argon** sur toutes les fenêtres orientées nord et est, et du **double vitrage Low-E** au sud et à l’ouest — une optimisation selon l’orientation solaire, pas un standard unique.
+
+### La compatibilité avec la domotique — pourquoi le PVC bat l’aluminium sur le coût
+
+Une idée reçue fréquente : l’aluminium serait supérieur au PVC pour la maison intelligente. En réalité, **le BluEvolution 92 avec quincaillerie Roto ou Siegenia** est aussi compatible avec Somfy, Nice et KNX que n’importe quel système aluminium — pour un coût inférieur de 20 à 35 %.
+
+**Sur cette maison, nous avons intégré :**
+- **La motorisation** du coulissant à levage-coulissement de la terrasse, pilotée depuis la box Somfy
+- **Un moteur à chaîne Somfy** sur 3 fenêtres de chambre (ventilation nocturne automatique)
+- **Des capteurs de CO2** dans les chambres — les fenêtres s’ouvrent automatiquement à 1 000 ppm
+- **Des capteurs de vent** — les fenêtres se ferment automatiquement à 55 km/h
+- **La box Somfy TaHoma Switch** — intégration complète avec Apple HomeKit et Google Home
+
+---
+
+## La configuration complète BluEvolution 92 pour une maison neuve intelligente
+
+### Fenêtres oscillo-battantes — BluEvolution 92 ROUND
+
+La version aux angles arrondis — la plus prisée pour les maisons à l’architecture moderne ou nordique. Un aspect chaleureux, sans les lignes vives de la version FLEX.
+
+- Uw à partir de 0,70 W/m²K, avec triple vitrage Low-E
+- Quincaillerie Roto NT ou Siegenia Titan — compatible avec la motorisation Somfy/Nice
+- Disponible en blanc standard ou dans toute couleur RAL (noir mat, anthracite, chêne)
+
+### Coulissant à levage-coulissement pour la terrasse — Alumil S 700 SUPREME
+
+Sur les grandes terrasses des maisons individuelles, la porte-fenêtre classique ne suffit plus. Pour la terrasse, nous avons choisi le système à levage-coulissement en aluminium [Alumil S 700 SUPREME](/fr/produits-alu/systeme-coulissant-alumil-s700-supreme), posé séparément des fenêtres PVC :
+- Vantaux coulissants jusqu’à **500 kg**, avec un seuil presque invisible
+- Rupture thermique Kooltherm, **Uw à partir de 1,0 W/m²K**
+- Motorisation intégrée, pilotée depuis la même box Somfy que les fenêtres
+
+### Pose nZEB avec précadres Blaugelb Triotherm+
+
+Sans précadres, **le BluEvolution 92 perd 30 à 40 % de ses performances thermiques** au niveau de la jonction de pose. Sur cette maison, nous avons utilisé le système Blaugelb complet : précadre + bande butyle + mousse PU de densité moyenne + bande pare-vapeur intérieure.
+
+---
+
+## Les scénarios domotiques mis en place dans la maison de Berceni
+
+**Scénario « Matin »** (7 h) :
+- Les fenêtres des chambres s’ouvrent de 8 cm pour aérer
+- Les volets roulants extérieurs montent progressivement (30 % → 60 % → 100 % en 20 minutes)
+- Le chauffage augmente la température de 2 °C par rapport à la nuit
+
+**Scénario « Départ » :**
+- Toutes les fenêtres se ferment et se verrouillent
+- Les volets roulants extérieurs descendent à 50 %
+- Les détecteurs de mouvement sont activés
+
+**Scénario « Nuit » :**
+- Les fenêtres des chambres restent ouvertes de 5 cm
+- Si le CO2 dépasse 900 ppm, les fenêtres s’ouvrent à 15 cm
+- Si la température extérieure descend sous 10 °C, les fenêtres se ferment automatiquement
+
+**Scénario « Tempête » :**
+- Par vent supérieur à 55 km/h, toutes les fenêtres se ferment en 30 secondes
+- Les volets roulants extérieurs remontent complètement
+- Une notification est envoyée sur le téléphone
+
+---
+
+## Prix indicatifs du BluEvolution 92 avec domotique — maison individuelle 2026
+
+> ⚠️ **Remarque importante :** les prix sont indicatifs et reflètent les conditions de mars 2026. Ils peuvent évoluer avec le marché. Ils s’entendent hors TVA ; la TVA roumaine de 21 % s’ajoute à la facturation. Demandez toujours un devis actualisé.
+
+| Configuration | Maison de 120 m² | Maison de 180 m² |
 |---|---|---|
-| BluEvolution 92, double Low-E, nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
-| BluEvolution 92, triple Low-E, nZEB | 20.000–28.000 EUR | 30.000–42.000 EUR |
-| + Automatisation Somfy | +3.500–6.000 EUR | +5.000–9.000 EUR |
+| BluEvolution 92, double vitrage Low-E, pose nZEB | 16 000–22 000 EUR | 24 000–32 000 EUR |
+| BluEvolution 92, triple vitrage Low-E, pose nZEB | 20 000–28 000 EUR | 30 000–42 000 EUR |
+| + Domotique Somfy (terrasse + 3 fenêtres + box) | +3 500–6 000 EUR | +5 000–9 000 EUR |
+| + Système Loxone complet | +8 000–18 000 EUR | +12 000–25 000 EUR |
 
-**WhatsApp :** +40 752 443 435
+---
+
+## Des conseils pour votre maison
+
+Chez Neofort BIZ, nous proposons un **conseil technique** pour les projets de maisons individuelles neuves — calcul thermique par orientation, recommandation de profilé et de vitrage pour chaque fenêtre, et plan de précâblage pour une motorisation ultérieure, même si vous ne souhaitez pas de domotique tout de suite.
+
+**WhatsApp :** +40 752 443 435 | **Lun–Ven 10h–18h**
 
 ## Questions fréquentes
 
 ### Pourquoi le BluEvolution 92 est-il le profilé idéal pour une maison intelligente ?
 
-Un système domotique n'optimise la consommation que si l'enveloppe du bâtiment performe — sinon vous automatisez les pertes au lieu de les éliminer. Le BluEvolution 92 (6 chambres, Uf 0,95 W/m²K) atteint Uw 0,70 avec double vitrage Low-E ou Uw 0,55 avec triple, fournissant la base nZEB nécessaire à l'optimisation intelligente.
+Un système domotique n’optimise la consommation d’énergie que si l’enveloppe du bâtiment est performante — sinon, on automatise les pertes au lieu de les supprimer. Le BluEvolution 92 (6 chambres, Uf 0,95 W/m²K) atteint un Uw à partir de 0,70 W/m²K en triple vitrage Low-E et offre la base dont une maison nZEB a besoin.
 
-### Quelle performance thermique offre le Salamander BluEvolution 92 ?
+### Quelles performances thermiques offre le Salamander BluEvolution 92 ?
 
-Le BluEvolution 92 a 6 chambres et 92 mm de profondeur, avec un Uf de profilé de 0,95 W/m²K. Il atteint Uw = 0,70 W/m²K avec double vitrage Low-E 4+16+4 argon et Uw = 0,55 W/m²K avec triple Low-E 4+12+4+12+4 argon/krypton, plus une isolation acoustique jusqu'à 47 dB.
+Le BluEvolution 92 a 6 chambres et une profondeur de 92 mm, avec un Uf du profilé de 0,95 W/m²K. Il atteint un Uw à partir de 0,70 W/m²K avec un triple vitrage Low-E 4+12+4+12+4 argon/krypton et offre une isolation acoustique jusqu’à 47 dB.
 
-### Un profilé PVC convient-il à une maison avec système domotique intégré ?
+### Un profilé PVC convient-il à une maison dotée d’un système domotique intégré ?
 
-Oui, si l'enveloppe performe. La maison nordique achevée à Berceni (2025) a choisi le BluEvolution 92 comme profilé principal justement pour combiner le standard nZEB avec un système domotique entièrement intégré — une bonne automatisation ne fonctionne que sur une maison bien isolée.
+Oui, si l’enveloppe est performante. La maison nordique achevée à Berceni (2025) a choisi le BluEvolution 92 comme profilé principal précisément pour associer le standard nZEB à un système de maison intelligente entièrement intégré — une bonne domotique ne fonctionne que dans une maison bien isolée.
 
 ### Quelle isolation acoustique offre le BluEvolution 92 dans les rues passantes ?
 
-Le BluEvolution 92 offre une isolation acoustique jusqu'à 47 dB, assurant un calme complet même dans une rue à trafic modéré. Combiné à la certification nZEB complète (moins de 100 kWh/m²/an), il est idéal pour les maisons neuves dans des zones résidentielles en développement comme Berceni.
+Le BluEvolution 92 offre une isolation acoustique jusqu’à 47 dB, garantissant un calme complet même dans une rue à trafic modéré. Dans une maison construite au standard nZEB (consommation inférieure à 100 kWh/m²/an), il est idéal pour les quartiers résidentiels en développement comme Berceni.
+
+### Quel système avez-vous posé sur la terrasse de la maison de Berceni ?
+
+Sur la terrasse, nous avons posé le système à levage-coulissement en aluminium Alumil S 700 SUPREME, séparé des fenêtres PVC BluEvolution 92. Il a des vantaux jusqu’à 500 kg, une rupture thermique Kooltherm et un Uw à partir de 1,0 W/m²K, et sa motorisation est pilotée depuis la même box Somfy TaHoma que les fenêtres.
+
 
 ---
 
-Neofort BIZ fabrique et pose de la menuiserie PVC Salamander à Bucarest et Ilfov, avec livraison dans toute l’Europe. Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide de choix des systèmes Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round) et [le profilé Salamander bluEvolution 92 FLEX](/fr/produits/profil-pvc-bluevolution-92-flex).`,
+Neofort BIZ fabrique et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Pour une vue d’ensemble, lisez le [guide pour choisir entre les systèmes Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round) et [le profilé Salamander bluEvolution 92 FLEX](/fr/produits/profil-pvc-bluevolution-92-flex).`,
 
-      es: `## El proyecto Neofort BIZ — casa nueva estilo nórdico, Berceni, Bucarest
+      es: `## La obra de Neofort BIZ — casa nueva de estilo nórdico, Berceni, Bucarest
 
-Esta casa, completada en 2025, eligió **Salamander [BluEvolution 92](/es/carpinteria-pvc)** como perfil PVC principal — la decisión correcta para un proyecto que combina el [estándar nZEB](/es/sistemas-nzeb) con un sistema smart home completamente integrado.
+Berceni es un distrito en plena transformación: casas unifamiliares nuevas de arquitectura moderna o escandinava, propietarios jóvenes con grandes expectativas de eficiencia energética y tecnología.
+
+Esta casa, terminada en 2025, eligió **Salamander [BluEvolution 92](/es/carpinteria-pvc)** como perfil de PVC principal, la decisión correcta para un proyecto que combinaba el estándar [nZEB](/es/sistemas-nzeb) con un sistema domótico totalmente integrado.
 
 ---
 
 ## Por qué BluEvolution 92 es el perfil ideal para una casa inteligente en 2026
 
-- 6 cámaras | 92 mm | Uw = 0,70 W/m²K (doble Low-E) | hasta 47 dB
-- Certificación nZEB completa
+### El rendimiento térmico: la base de cualquier casa inteligente
 
-**Integración smart home:**
-- Motor Somfy Yslo io en el sistema elevador-corredera de la terraza
-- Motores de cadena Somfy en 3 ventanas de dormitorio (ventilación nocturna automática)
-- Sensores CO2 — ventanas se abren automáticamente a 1.000 ppm
-- Hub Somfy TaHoma Switch — integración completa Apple HomeKit y Google Home
+Un sistema domótico bien diseñado optimiza el consumo de energía de la casa. Pero esa optimización solo funciona **si la envolvente del edificio rinde bien**; de lo contrario, se automatizan las pérdidas en lugar de eliminarlas.
+
+**BluEvolution 92** ofrece:
+- **6 cámaras** | profundidad de 92 mm | Uf del perfil = 0,95 W/m²K
+- **Uw desde 0,70 W/m²K** con triple acristalamiento Low-E 4+12+4+12+4 argón/kriptón
+- Aislamiento acústico: **hasta 47 dB**, silencio total incluso en una calle con tráfico moderado
+- Adecuado para casas **nZEB**: consumo inferior a 100 kWh/m²/año
+
+En esta casa de Berceni montamos **triple acristalamiento Low-E con argón** en todas las ventanas orientadas al norte y al este, y **doble acristalamiento Low-E** al sur y al oeste: optimización según la orientación solar, no un estándar único.
+
+### La compatibilidad con la domótica: por qué el PVC gana al aluminio en coste
+
+Un error frecuente: pensar que el aluminio es mejor que el PVC para la casa inteligente. La realidad: **BluEvolution 92 con herrajes Roto o Siegenia** es tan compatible con Somfy, Nice y KNX como cualquier sistema de aluminio, con un coste un 20–35 % menor.
+
+**En esta casa integramos:**
+- **Motorización** de la corredera elevable de la terraza, controlada desde el hub Somfy
+- **Motor de cadena Somfy** en 3 ventanas de dormitorio (ventilación nocturna automática)
+- **Sensores de CO2** en los dormitorios: las ventanas se abren automáticamente a 1.000 ppm
+- **Sensores de viento**: las ventanas se cierran automáticamente a 55 km/h
+- **Hub Somfy TaHoma Switch**: integración completa con Apple HomeKit y Google Home
 
 ---
 
-## Precios orientativos BluEvolution 92 con smart home — 2026
+## La configuración completa BluEvolution 92 para una casa nueva inteligente
 
-> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+### Ventanas oscilobatientes — BluEvolution 92 ROUND
 
-| Configuración | Casa 120 m² | Casa 180 m² |
+La versión de cantos redondeados, la más popular en viviendas de arquitectura moderna o nórdica. Un aspecto cálido, sin las líneas marcadas de la versión FLEX.
+
+- Uw desde 0,70 W/m²K, con triple acristalamiento Low-E
+- Herrajes Roto NT o Siegenia Titan, compatibles con motorización Somfy/Nice
+- Disponible en blanco estándar o en cualquier color RAL (negro mate, antracita, roble)
+
+### Corredera elevable para la terraza — Alumil S 700 SUPREME
+
+En las grandes terrazas de las casas unifamiliares, la puerta de balcón clásica ya no basta. Para la terraza elegimos el sistema de corredera elevable de aluminio [Alumil S 700 SUPREME](/es/productos-alu/sistema-corredera-alumil-s700-supreme), montado por separado de las ventanas de PVC:
+- Hojas correderas de hasta **500 kg**, con un umbral casi invisible
+- Rotura de puente térmico Kooltherm, **Uw desde 1,0 W/m²K**
+- Motorización integrada, controlada desde el mismo hub Somfy que las ventanas
+
+### Instalación nZEB con premarcos Blaugelb Triotherm+
+
+Sin premarcos, **BluEvolution 92 pierde el 30–40 % de su rendimiento térmico** en la junta de instalación. En esta casa usamos el sistema Blaugelb completo: premarco + cinta de butilo + espuma de PU de densidad media + cinta barrera de vapor interior.
+
+---
+
+## Los escenarios domóticos instalados en la casa de Berceni
+
+**Escenario «Mañana»** (7:00):
+- Las ventanas de los dormitorios se abren 8 cm para ventilar
+- Las persianas exteriores suben poco a poco (30 % → 60 % → 100 % en 20 minutos)
+- La calefacción sube la temperatura 2 °C respecto a la noche
+
+**Escenario «Salida»:**
+- Todas las ventanas se cierran y se bloquean
+- Las persianas exteriores bajan al 50 %
+- Se activan los sensores de movimiento
+
+**Escenario «Noche»:**
+- Las ventanas del dormitorio quedan abiertas 5 cm
+- Si el CO2 supera los 900 ppm, las ventanas se abren hasta 15 cm
+- Si la temperatura exterior baja de 10 °C, las ventanas se cierran automáticamente
+
+**Escenario «Tormenta»:**
+- Con viento de más de 55 km/h, todas las ventanas se cierran en 30 segundos
+- Las persianas exteriores suben por completo
+- Se envía una notificación al teléfono
+
+---
+
+## Precios orientativos de BluEvolution 92 con domótica — casa unifamiliar 2026
+
+> ⚠️ **Nota importante:** los precios son orientativos y reflejan las condiciones de marzo de 2026. Pueden cambiar según evolucione el mercado. Son precios sin IVA; el IVA rumano del 21 % se añade en la factura. Pida siempre un presupuesto actualizado.
+
+| Configuración | Casa de 120 m² | Casa de 180 m² |
 |---|---|---|
-| BluEvolution 92, doble Low-E, nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
-| + Automatización Somfy | +3.500–6.000 EUR | +5.000–9.000 EUR |
+| BluEvolution 92, doble acristalamiento Low-E, instalación nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
+| BluEvolution 92, triple acristalamiento Low-E, instalación nZEB | 20.000–28.000 EUR | 30.000–42.000 EUR |
+| + Domótica Somfy (terraza + 3 ventanas + hub) | +3.500–6.000 EUR | +5.000–9.000 EUR |
+| + Sistema Loxone completo | +8.000–18.000 EUR | +12.000–25.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+---
+
+## Asesoramiento para su casa
+
+En Neofort BIZ ofrecemos **asesoramiento técnico** para proyectos de casas unifamiliares nuevas: cálculo térmico por orientaciones, recomendación de perfil y vidrio para cada ventana, y un plan de precableado para motorizar más adelante aunque ahora no quiera domótica.
+
+**WhatsApp:** +40 752 443 435 | **Lun–Vie 10–18 h**
 
 ## Preguntas frecuentes
 
-### ¿Por qué el BluEvolution 92 es el perfil ideal para una casa inteligente?
+### ¿Por qué BluEvolution 92 es el perfil ideal para una casa inteligente?
 
-Un sistema domótico optimiza el consumo solo si la envolvente del edificio rinde — de lo contrario automatizas las pérdidas en vez de eliminarlas. El BluEvolution 92 (6 cámaras, Uf 0,95 W/m²K) alcanza Uw 0,70 con doble vidrio Low-E o Uw 0,55 con triple, aportando la base nZEB necesaria para la optimización inteligente.
+Un sistema domótico solo optimiza el consumo de energía si la envolvente del edificio rinde bien; de lo contrario, se automatizan las pérdidas en lugar de eliminarlas. BluEvolution 92 (6 cámaras, Uf 0,95 W/m²K) alcanza un Uw desde 0,70 W/m²K con triple acristalamiento Low-E y ofrece la base que necesita una casa nZEB.
 
-### ¿Qué rendimiento térmico ofrece el Salamander BluEvolution 92?
+### ¿Qué rendimiento térmico ofrece Salamander BluEvolution 92?
 
-El BluEvolution 92 tiene 6 cámaras y 92 mm de profundidad, con un Uf de perfil de 0,95 W/m²K. Alcanza Uw = 0,70 W/m²K con doble vidrio Low-E 4+16+4 argón y Uw = 0,55 W/m²K con triple Low-E 4+12+4+12+4 argón/kriptón, más aislamiento acústico hasta 47 dB.
+BluEvolution 92 tiene 6 cámaras y una profundidad de 92 mm, con un Uf del perfil de 0,95 W/m²K. Alcanza un Uw desde 0,70 W/m²K con triple acristalamiento Low-E 4+12+4+12+4 argón/kriptón y ofrece aislamiento acústico de hasta 47 dB.
 
-### ¿Es adecuado un perfil de PVC para una casa con sistema domótico integrado?
+### ¿Es adecuado un perfil de PVC para una casa con un sistema domótico integrado?
 
-Sí, si la envolvente rinde. La casa nórdica terminada en Berceni (2025) eligió el BluEvolution 92 como perfil principal justamente para combinar el estándar nZEB con un sistema domótico totalmente integrado — una buena automatización solo funciona en una casa bien aislada.
+Sí, si la envolvente rinde bien. La casa nórdica terminada en Berceni (2025) eligió BluEvolution 92 como perfil principal precisamente para combinar el estándar nZEB con un sistema domótico totalmente integrado: una buena automatización solo funciona en una casa bien aislada.
 
-### ¿Qué aislamiento acústico ofrece el BluEvolution 92 en calles con tráfico?
+### ¿Qué aislamiento acústico ofrece BluEvolution 92 en calles con tráfico?
 
-El BluEvolution 92 ofrece aislamiento acústico hasta 47 dB, asegurando silencio completo incluso en una calle con tráfico moderado. Combinado con la certificación nZEB completa (menos de 100 kWh/m²/año), es ideal para casas nuevas en zonas residenciales en desarrollo como Berceni.
+BluEvolution 92 ofrece un aislamiento acústico de hasta 47 dB, que garantiza silencio total incluso en una calle con tráfico moderado. En una casa construida con el estándar nZEB (consumo inferior a 100 kWh/m²/año), es ideal para zonas residenciales en desarrollo como Berceni.
 
----
+### ¿Qué sistema montaron en la terraza de la casa de Berceni?
 
-Neofort BIZ fabrica e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía de elección de sistemas Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round) y [el perfil Salamander bluEvolution 92 FLEX](/es/productos/perfil-pvc-bluevolution-92-flex).`,
+En la terraza montamos el sistema de corredera elevable de aluminio Alumil S 700 SUPREME, separado de las ventanas de PVC BluEvolution 92. Tiene hojas de hasta 500 kg, rotura de puente térmico Kooltherm y un Uw desde 1,0 W/m²K, y su motorización se controla desde el mismo hub Somfy TaHoma que las ventanas.
 
-      it: `## Il progetto Neofort BIZ — nuova casa in stile nordico, Berceni, Bucarest
-
-Questa casa, completata nel 2025, ha scelto **Salamander [BluEvolution 92](/it/infissi-pvc)** come profilo PVC principale — la scelta giusta per un progetto che combina lo [standard nZEB](/it/sistemi-nzeb) con un sistema smart home completamente integrato.
 
 ---
 
-## Perché BluEvolution 92 è il profilo ideale per una casa intelligente nel 2026
+Neofort BIZ fabrica e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Para tener la visión completa, lea la [guía para elegir entre los sistemas Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round) y [el perfil Salamander bluEvolution 92 FLEX](/es/productos/perfil-pvc-bluevolution-92-flex).`,
 
-- 6 camere | 92 mm | Uw = 0,70 W/m²K (doppio Low-E) | fino a 47 dB
-- Certificazione nZEB completa
+      it: `## Il lavoro di Neofort BIZ — casa nuova in stile nordico, Berceni, Bucarest
 
-**Integrazione smart home:**
-- Motore Somfy Yslo io sul sistema alzante-scorrevole della terrazza
-- Motori a catena Somfy su 3 finestre da letto (ventilazione notturna automatica)
-- Sensori CO2 — finestre si aprono automaticamente a 1.000 ppm
-- Hub Somfy TaHoma Switch — integrazione completa Apple HomeKit e Google Home
+Berceni è un quartiere in piena trasformazione: nuove case unifamiliari dall’architettura moderna o scandinava, proprietari giovani con grandi aspettative di efficienza energetica e tecnologia.
+
+Questa casa, completata nel 2025, ha scelto **Salamander [BluEvolution 92](/it/infissi-pvc)** come profilo in PVC principale: la scelta giusta per un progetto che univa lo standard [nZEB](/it/sistemi-nzeb) a un sistema domotico completamente integrato.
 
 ---
 
-## Prezzi indicativi BluEvolution 92 con smart home — 2026
+## Perché BluEvolution 92 è il profilo ideale per una casa smart nel 2026
 
-> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+### Le prestazioni termiche: la base di ogni casa intelligente
 
-| Configurazione | Casa 120 m² | Casa 180 m² |
+Un sistema domotico ben progettato ottimizza i consumi energetici della casa. Ma questa ottimizzazione funziona **solo se l’involucro dell’edificio è performante**; altrimenti si automatizzano le dispersioni invece di eliminarle.
+
+**BluEvolution 92** offre:
+- **6 camere** | profondità 92 mm | Uf del profilo = 0,95 W/m²K
+- **Uw da 0,70 W/m²K** con vetro triplo Low-E 4+12+4+12+4 argon/kripton
+- Isolamento acustico: **fino a 47 dB**, silenzio totale anche su una strada a traffico moderato
+- Adatto alle case **nZEB**: consumo inferiore a 100 kWh/m²/anno
+
+In questa casa di Berceni abbiamo montato **vetro triplo Low-E con argon** su tutte le finestre esposte a nord e a est, e **vetro doppio Low-E** a sud e a ovest: un’ottimizzazione in base all’esposizione solare, non uno standard unico.
+
+### La compatibilità con la domotica: perché il PVC batte l’alluminio sui costi
+
+Un luogo comune frequente: che l’alluminio sia superiore al PVC per la casa smart. In realtà **BluEvolution 92 con ferramenta Roto o Siegenia** è compatibile con Somfy, Nice e KNX quanto qualsiasi sistema in alluminio, con un costo inferiore del 20–35%.
+
+**In questa casa abbiamo integrato:**
+- **La motorizzazione** dell’alzante scorrevole della terrazza, comandata dall’hub Somfy
+- **Motore a catena Somfy** su 3 finestre della camera da letto (ventilazione notturna automatica)
+- **Sensori di CO2** nelle camere: le finestre si aprono automaticamente a 1.000 ppm
+- **Sensori di vento**: le finestre si chiudono automaticamente a 55 km/h
+- **Hub Somfy TaHoma Switch**: integrazione completa con Apple HomeKit e Google Home
+
+---
+
+## La configurazione completa BluEvolution 92 per una casa nuova smart
+
+### Finestre ad anta ribalta — BluEvolution 92 ROUND
+
+La variante con spigoli arrotondati, la più richiesta per le case dall’architettura moderna o nordica. Un aspetto caldo, senza le linee nette della variante FLEX.
+
+- Uw da 0,70 W/m²K, con vetro triplo Low-E
+- Ferramenta Roto NT o Siegenia Titan, compatibile con la motorizzazione Somfy/Nice
+- Disponibile in bianco standard o in qualsiasi colore RAL (nero opaco, antracite, rovere)
+
+### Alzante scorrevole per la terrazza — Alumil S 700 SUPREME
+
+Sulle grandi terrazze delle case unifamiliari la classica porta-finestra non basta più. Per la terrazza abbiamo scelto l’alzante scorrevole in alluminio [Alumil S 700 SUPREME](/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme), montato separatamente dalle finestre in PVC:
+- Ante scorrevoli fino a **500 kg**, con soglia quasi invisibile
+- Taglio termico Kooltherm, **Uw da 1,0 W/m²K**
+- Motorizzazione integrata, comandata dallo stesso hub Somfy delle finestre
+
+### Posa nZEB con controtelai Blaugelb Triotherm+
+
+Senza controtelai, **BluEvolution 92 perde il 30–40% delle sue prestazioni termiche** nel giunto di posa. In questa casa abbiamo usato il sistema Blaugelb completo: controtelaio + nastro butilico + schiuma PU a media densità + nastro barriera al vapore interno.
+
+---
+
+## Gli scenari domotici realizzati nella casa di Berceni
+
+**Scenario «Mattina»** (ore 7:00):
+- Le finestre delle camere si aprono di 8 cm per arieggiare
+- Le tapparelle esterne salgono gradualmente (30% → 60% → 100% in 20 minuti)
+- Il riscaldamento alza la temperatura di 2 °C rispetto alla notte
+
+**Scenario «Uscita»:**
+- Tutte le finestre si chiudono e si bloccano
+- Le tapparelle esterne scendono al 50%
+- I sensori di movimento si attivano
+
+**Scenario «Notte»:**
+- Le finestre della camera restano aperte di 5 cm
+- Se la CO2 supera 900 ppm, le finestre si aprono fino a 15 cm
+- Se la temperatura esterna scende sotto i 10 °C, le finestre si chiudono automaticamente
+
+**Scenario «Temporale»:**
+- Con vento oltre 55 km/h, tutte le finestre si chiudono in 30 secondi
+- Le tapparelle esterne salgono completamente
+- Arriva una notifica sul telefono
+
+---
+
+## Prezzi indicativi di BluEvolution 92 con domotica — casa unifamiliare 2026
+
+> ⚠️ **Nota importante:** i prezzi sono indicativi e riflettono le condizioni di marzo 2026. Possono cambiare con l’andamento del mercato. Sono prezzi IVA esclusa; l’IVA rumena del 21% si aggiunge in fattura. Chiedete sempre un preventivo aggiornato.
+
+| Configurazione | Casa di 120 m² | Casa di 180 m² |
 |---|---|---|
-| BluEvolution 92, doppio Low-E, nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
-| + Automazione Somfy | +3.500–6.000 EUR | +5.000–9.000 EUR |
+| BluEvolution 92, vetro doppio Low-E, posa nZEB | 16.000–22.000 EUR | 24.000–32.000 EUR |
+| BluEvolution 92, vetro triplo Low-E, posa nZEB | 20.000–28.000 EUR | 30.000–42.000 EUR |
+| + Domotica Somfy (terrazza + 3 finestre + hub) | +3.500–6.000 EUR | +5.000–9.000 EUR |
+| + Sistema Loxone completo | +8.000–18.000 EUR | +12.000–25.000 EUR |
 
-**WhatsApp:** +40 752 443 435
+---
+
+## Consulenza per la vostra casa
+
+Da Neofort BIZ offriamo **consulenza tecnica** per i progetti di case unifamiliari nuove: calcolo termico per esposizione, raccomandazione di profilo e vetro per ogni finestra e un piano di precablaggio per una motorizzazione successiva, anche se adesso non volete la domotica.
+
+**WhatsApp:** +40 752 443 435 | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
-### Perché il BluEvolution 92 è il profilo ideale per una casa intelligente?
+### Perché BluEvolution 92 è il profilo ideale per una casa smart?
 
-Un sistema domotico ottimizza i consumi solo se l'involucro dell'edificio rende — altrimenti automatizzi le dispersioni invece di eliminarle. Il BluEvolution 92 (6 camere, Uf 0,95 W/m²K) raggiunge Uw 0,70 con doppio vetro Low-E o Uw 0,55 con triplo, fornendo la base nZEB necessaria all'ottimizzazione intelligente.
+Un sistema domotico ottimizza i consumi solo se l’involucro dell’edificio è performante; altrimenti si automatizzano le dispersioni invece di eliminarle. BluEvolution 92 (6 camere, Uf 0,95 W/m²K) raggiunge un Uw da 0,70 W/m²K con vetro triplo Low-E e offre la base di cui ha bisogno una casa nZEB.
 
-### Quali prestazioni termiche offre il Salamander BluEvolution 92?
+### Quali prestazioni termiche offre Salamander BluEvolution 92?
 
-Il BluEvolution 92 ha 6 camere e 92 mm di profondità, con un Uf di profilo di 0,95 W/m²K. Raggiunge Uw = 0,70 W/m²K con doppio vetro Low-E 4+16+4 argon e Uw = 0,55 W/m²K con triplo Low-E 4+12+4+12+4 argon/krypton, più isolamento acustico fino a 47 dB.
+BluEvolution 92 ha 6 camere e una profondità di 92 mm, con un Uf del profilo di 0,95 W/m²K. Raggiunge un Uw da 0,70 W/m²K con vetro triplo Low-E 4+12+4+12+4 argon/kripton e offre un isolamento acustico fino a 47 dB.
 
-### Un profilo in PVC è adatto a una casa con sistema domotico integrato?
+### Un profilo in PVC è adatto a una casa con un sistema domotico integrato?
 
-Sì, se l'involucro rende. La casa nordica completata a Berceni (2025) ha scelto il BluEvolution 92 come profilo principale proprio per combinare lo standard nZEB con un sistema domotico completamente integrato — una buona automazione funziona solo su una casa ben isolata.
+Sì, se l’involucro è performante. La casa nordica completata a Berceni (2025) ha scelto BluEvolution 92 come profilo principale proprio per unire lo standard nZEB a un sistema domotico completamente integrato: una buona automazione funziona solo in una casa ben isolata.
 
-### Quale isolamento acustico offre il BluEvolution 92 su strade trafficate?
+### Quale isolamento acustico offre BluEvolution 92 sulle strade trafficate?
 
-Il BluEvolution 92 offre isolamento acustico fino a 47 dB, garantendo silenzio completo anche su una strada a traffico moderato. Combinato con la certificazione nZEB completa (sotto 100 kWh/m²/anno), è ideale per case nuove in zone residenziali in sviluppo come Berceni.
+BluEvolution 92 offre un isolamento acustico fino a 47 dB, garantendo silenzio totale anche su una strada a traffico moderato. In una casa costruita secondo lo standard nZEB (consumo inferiore a 100 kWh/m²/anno), è ideale per le zone residenziali in crescita come Berceni.
+
+### Quale sistema avete montato sulla terrazza della casa di Berceni?
+
+Sulla terrazza abbiamo montato l’alzante scorrevole in alluminio Alumil S 700 SUPREME, separato dalle finestre in PVC BluEvolution 92. Ha ante fino a 500 kg, taglio termico Kooltherm e Uw da 1,0 W/m²K, e la sua motorizzazione è comandata dallo stesso hub Somfy TaHoma delle finestre.
+
 
 ---
 
-Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, con consegna in tutta Europa. Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo o [richiedi un preventivo](/it/contatti). Per il contesto completo, leggi [la guida alla scelta dei sistemi Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [il profilo Salamander bluEvolution 92 FLEX](/it/prodotti/profilo-pvc-bluevolution-92-flex).`,
+Neofort BIZ produce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Per il quadro completo, leggete la [guida alla scelta tra i sistemi Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [il profilo Salamander bluEvolution 92 FLEX](/it/prodotti/profilo-pvc-bluevolution-92-flex).`,
     },
   },
 
@@ -21482,7 +21846,7 @@ Soluția aleasă: **Salamander [BluEvolution 92](/ro/tamplarie-pvc) ALU**, profi
 
 ## Ce este BluEvolution 92 ALU placat cu aluminiu?
 
-BluEvolution 92 ALU nu este un profil de aluminiu. Este un **profil PVC BluEvolution 92** (6 camere, 92 mm adâncime, performanță nZEB) cu o **folie de aluminiu lipită pe fața exterioară** a profilului.
+BluEvolution 92 ALU nu este un profil de aluminiu. Este un **profil PVC BluEvolution 92** (6 camere, 92 mm adâncime, potrivit pentru case nZEB) cu o **placare din aluminiu de 12 mm montată pe fața exterioară** a profilului — adâncime totală 104 mm.
 
 Această combinație oferă ce e mai bun din ambele materiale:
 
@@ -21494,9 +21858,9 @@ Această combinație oferă ce e mai bun din ambele materiale:
 | Rezistență la zăpadă/umiditate | ★★★☆☆ Acceptabilă | ★★★★★ Excelentă | ★★★★★ Excelentă |
 | Variații termice extreme | ★★★☆☆ Deformări mici | ★★★★★ Stabil | ★★★★★ Stabil |
 | Aspect vizual | ★★★☆☆ Plastic | ★★★★★ Premium | ★★★★★ Premium |
-| Preț față de aluminiu pur | -40% | Referință | -20 to -30% |
+| Preț față de aluminiu pur | -40% | Referință | -20…-30% |
 
-**Concluzie:** pentru o casă de munte cu ierni aspre, radiație UV intensă la altitudine și variații termice de 60–70°C între vară și iarnă, **BluEvolution 92 ALU este superior atât aluminiului pur** (mai bună izolare termică) cât și PVC-ului standard (rezistență exterioară incomparabil mai bună).
+**Concluzie:** pentru o casă de munte cu ierni aspre, radiație UV intensă la altitudine și variații termice de peste 55°C între vară și iarnă, **BluEvolution 92 ALU este superior atât aluminiului pur** (mai bună izolare termică) cât și PVC-ului standard (rezistență exterioară incomparabil mai bună).
 
 ---
 
@@ -21504,13 +21868,13 @@ Această combinație oferă ce e mai bun din ambele materiale:
 
 O casă la altitudine de 1.000–2.000 m în Alpi sau în zona montană Sinaia-Predeal-Bușteni se confruntă cu condiții extreme pentru tâmplărie:
 
-**Variații termice:** între -20°C iarna și +35°C vara = **55°C diferență** față de -5°C/+30°C la câmpie. Fiecare material se dilată și contractă ciclic. PVC-ul standard obosește în 8–12 ani. Aluminiul cu barieră termică slabă devine conductă de frig. BluEvolution 92 ALU menține toleranțele prin rigiditatea foliei de aluminiu exterior.
+**Variații termice:** între -20°C iarna și +35°C vara = **55°C diferență** față de -5°C/+30°C la câmpie. Fiecare material se dilată și contractă ciclic. PVC-ul standard obosește în 8–12 ani. Aluminiul cu barieră termică slabă devine conductă de frig. BluEvolution 92 ALU menține toleranțele prin rigiditatea placării de aluminiu exterioare.
 
-**Radiația UV:** la 1.500 m altitudine, intensitatea UV este cu 25–30% mai mare față de nivelul mării. Un PVC standard fără UV-stabilizatori se îngălbenește în 5–7 ani. BluEvolution 92 ALU are folia de aluminiu ca primă barieră — nu este expus direct la UV.
+**Radiația UV:** la 1.500 m altitudine, intensitatea UV este cu 25–30% mai mare față de nivelul mării. Un PVC standard fără UV-stabilizatori se îngălbenește în 5–7 ani. BluEvolution 92 ALU are placarea de aluminiu ca primă barieră — PVC-ul nu este expus direct la UV.
 
-**Zăpada și umiditatea:** accumularile de zăpadă pe glafuri și presiunea hidrostică pe garnituri. Garniturile EPDM co-extrudate ale BluEvolution 92 și folia de aluminiu asigură etanșeitate perfectă la zăpadă topită și variații de presiune.
+**Zăpada și umiditatea:** acumulările de zăpadă pe glafuri și presiunea hidrostatică pe garnituri. Garniturile EPDM co-extrudate ale BluEvolution 92 și placarea de aluminiu asigură etanșeitate perfectă la zăpadă topită și variații de presiune.
 
-**Vântul:** în zona montană, rafalele pot depăși 100–120 km/h. BluEvolution 92 ALU cu feronerie Roto sau Siegenia RC2 rezistă la vânt clasa C4/B4 — suficient pentru toate zonele montane din România și Franța.
+**Vântul:** în zona montană, rafalele pot depăși 100–120 km/h. BluEvolution 92 ALU are rezistență la vânt clasa C3 și feronerie Roto sau Siegenia cu închidere pe tot perimetrul.
 
 ---
 
@@ -21526,27 +21890,25 @@ O casă la altitudine de 1.000–2.000 m în Alpi sau în zona montană Sinaia-P
 
 ---
 
-## BluEvolution 92 ALU pentru casele de munte din zona București — Sinaia — Predeal — Bușteni
+## BluEvolution 92 ALU pentru casele de munte din Valea Prahovei — Sinaia, Predeal, Bușteni
 
 Aceste cerințe se aplică și în România. Case de vacanță și reședințe permanente din Valea Prahovei, Azuga, Predeal, Sinaia, Bușteni — toate beneficiază de aceleași avantaje ale profilului placat cu aluminiu față de PVC standard.
 
-**Diferența de preț față de BluEvolution 92 standard:** +15–20% per fereastră.
-**Diferența față de aluminiu pur la performanță similară:** -25–35% mai ieftin.
+**Diferența de preț față de BluEvolution 92 standard:** +20–30% per fereastră.
+**Diferența față de aluminiu pur la performanță similară:** cu 20–30% mai ieftin.
 
 ---
 
 ## Prețuri orientative BluEvolution 92 ALU — 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Costurile materialelor și cursul EUR/RON se pot modifica. Solicitați întotdeauna o ofertă actualizată.
+> ⚠️ **Notă importantă:** Prețurile sunt orientative și reflectă condițiile din martie 2026. Costurile materialelor și cursul EUR/RON se pot modifica. Sunt prețuri fără TVA; TVA-ul de 21% se adaugă la facturare. Solicitați întotdeauna o ofertă actualizată.
 
 | Configurație | Preț estimat (montat) |
 |---|---|
-| Fereastră OB 100×120 cm, geam dublu Low-E | 480–640 EUR |
-| Fereastră OB 100×120 cm, geam triplu Low-E | 600–780 EUR |
-| Ușă balcon 80×210 cm, geam dublu Low-E | 720–950 EUR |
-| **Preț per mp montat** | **280–400 EUR/mp** |
+| Fereastră OB 100×120 cm, geam dublu Low-E | 550–720 EUR |
+| **Preț per mp montat** | **250–350 EUR/mp** |
 
-*Față de BluEvolution 92 standard: +15–20%. Față de aluminiu echivalent: -25–35%.*
+*Geamul triplu, ușile de balcon și transportul la export se ofertează pe dimensiunile reale. Față de BluEvolution 92 standard: +20–30%. Față de aluminiu echivalent: cu 20–30% mai ieftin.*
 
 ---
 
@@ -21554,17 +21916,17 @@ Aceste cerințe se aplică și în România. Case de vacanță și reședințe p
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
-Comunicăm în română, engleză, franceză și germană. Livrăm în toată Europa UE — fără taxe vamale, cu documentație CE completă.
+Comunicăm în română, engleză, franceză și germană. Livrăm în toată Uniunea Europeană — fără taxe vamale, cu documentație CE completă.
 
 ## Întrebări frecvente
 
 ### Cum e construit profilul BluEvolution 92 ALU placat cu aluminiu?
 
-Nu e un profil de aluminiu, ci un profil PVC BluEvolution 92 (6 camere, 92 mm, performanță nZEB) cu o folie de aluminiu lipită pe fața exterioară. Combină izolarea termică excelentă a PVC-ului cu rezistența UV și durabilitatea exterioară a aluminiului (25 ani).
+Nu e un profil de aluminiu, ci un profil PVC BluEvolution 92 (6 camere, 92 mm) cu o placare din aluminiu de 12 mm pe fața exterioară, pentru o adâncime totală de 104 mm. Combină izolarea termică excelentă a PVC-ului cu rezistența UV și durabilitatea exterioară a aluminiului (25 ani).
 
 ### De ce e BluEvolution 92 ALU ideal pentru o casă de munte?
 
-Pentru o casă de munte cu ierni aspre, radiație UV intensă la altitudine și variații termice de 60-70°C între vară și iarnă, BluEvolution 92 ALU e superior atât aluminiului pur (mai bună izolare termică) cât și PVC-ului standard (rezistență exterioară incomparabil mai bună).
+Pentru o casă de munte cu ierni aspre, radiație UV intensă la altitudine și variații termice de peste 55°C între vară și iarnă, BluEvolution 92 ALU e superior atât aluminiului pur (mai bună izolare termică) cât și PVC-ului standard (rezistență exterioară incomparabil mai bună).
 
 ### Care e avantajul BluEvolution 92 ALU față de aluminiul pur?
 
@@ -21574,277 +21936,559 @@ BluEvolution 92 ALU oferă aceeași rezistență UV (25 ani), la îngheț și la
 
 Da. E produsul exact conceput pentru intersecția dintre export, climă extremă și performanță termică maximă. Aspectul de aluminiu cu performanța PVC îl face ideal pentru clienți români stabiliți în Franța, Austria sau zone alpine cu cerințe de rezistență la climat sever.
 
+### Cât durează o livrare în Franța?
+
+Pentru casa de munte din Alpii francezi, producția a durat 4 săptămâni la fabrica noastră, iar transportul cu camion acoperit din București încă 3 zile. Tâmplăria a fost livrată cu Declarație de Conformitate CE, fișă tehnică Salamander și certificat de garanție, toate valabile în UE.
+
+
 ---
 
 Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [contextul complet al exportului de tâmplărie](/ro/blog/tamplarie-salamander-case-individuale-vile-export-europa). Pagini utile: [profilul Salamander bluEvolution 92 ALU](/ro/produse/profil-pvc-bluevolution-92-alu) și [ghidul complet al tâmplăriei PVC](/ro/tamplarie-pvc/ghid-complet).`,
 
-      en: `## The Neofort BIZ Project — Export to France, Mountain House
+      en: `## The Neofort BIZ project — export to France, mountain house
 
-This project perfectly illustrates the intersection of **export**, **extreme climate** and **maximum thermal performance**. A Romanian client based in France, mountain house in the French alpine zone — clear requirements: [aluminium](/en/aluminium-windows) appearance, PVC performance, resistance to severe climate.
+This project perfectly illustrates where **export**, **extreme climate** and **maximum thermal performance** meet. A Romanian client settled in France, a mountain house in the French Alps, with clear requirements: the look of [aluminium](/en/aluminium-windows), the performance of PVC, resistance to a harsh climate.
 
-The solution: **Salamander [BluEvolution 92](/en/pvc-windows) ALU**, the PVC profile with exterior aluminium cladding.
+The solution chosen: **Salamander [BluEvolution 92](/en/pvc-windows) ALU**, the PVC profile with exterior aluminium cladding — the product designed exactly for this situation.
 
 ---
 
-## What is BluEvolution 92 ALU aluminium clad?
+## What is aluminium-clad BluEvolution 92 ALU?
 
-BluEvolution 92 ALU is NOT an aluminium profile. It is a **BluEvolution 92 PVC profile** (6 chambers, 92 mm, nZEB performance) with an **aluminium foil bonded to the exterior face** of the profile.
+BluEvolution 92 ALU is not an aluminium profile. It is a **BluEvolution 92 PVC profile** (6 chambers, 92 mm depth, suited to nZEB houses) with **12 mm aluminium cladding fitted on the outer face** of the profile — 104 mm total depth.
 
-| Feature | Standard PVC | Pure Aluminium | BluEvolution 92 ALU |
+This combination offers the best of both materials:
+
+| Feature | Standard PVC | Pure aluminium | BluEvolution 92 ALU |
 |---|---|---|---|
-| Thermal insulation | ★★★★★ Excellent | ★★☆☆☆ Needs break | ★★★★★ Excellent |
-| UV resistance exterior | ★★★☆☆ Good (10 yr) | ★★★★★ 25 yr | ★★★★★ 25 yr |
+| Thermal insulation | ★★★★★ Excellent | ★★☆☆☆ Needs a thermal break | ★★★★★ Excellent |
+| Exterior UV resistance | ★★★☆☆ Good (10 years) | ★★★★★ 25 years | ★★★★★ 25 years |
 | Frost resistance | ★★★☆☆ Medium | ★★★★★ Excellent | ★★★★★ Excellent |
-| Extreme thermal variation | ★★★☆☆ Small deform | ★★★★★ Stable | ★★★★★ Stable |
-| Price vs pure aluminium | -40% | Reference | -20 to -30% |
+| Snow/moisture resistance | ★★★☆☆ Acceptable | ★★★★★ Excellent | ★★★★★ Excellent |
+| Extreme temperature swings | ★★★☆☆ Slight deformation | ★★★★★ Stable | ★★★★★ Stable |
+| Appearance | ★★★☆☆ Plastic | ★★★★★ Premium | ★★★★★ Premium |
+| Price compared with pure aluminium | -40% | Reference | -20…-30% |
 
-**Conclusion:** for a mountain house with harsh winters, intense UV at altitude and 60–70°C thermal variations between summer and winter, **BluEvolution 92 ALU is superior to both pure aluminium** (better thermal insulation) and standard PVC (incomparably better exterior resistance).
-
----
-
-## Why alpine climate is hardest on windows
-
-At 1,000–2,000 m altitude: thermal variation of 55°C (vs 35°C at sea level), UV intensity 25–30% higher, snow accumulation on sills, wind gusts exceeding 100–120 km/h. BluEvolution 92 ALU handles all these with the aluminium foil as primary barrier.
+**Conclusion:** for a mountain house with harsh winters, intense UV radiation at altitude and temperature swings of more than 55°C between summer and winter, **BluEvolution 92 ALU outperforms both pure aluminium** (better thermal insulation) and standard PVC (far better exterior resistance).
 
 ---
 
-## Indicative prices BluEvolution 92 ALU — 2026
+## Why an alpine climate is the hardest for windows
 
-> ⚠️ **Important note:** All prices are indicative and subject to market changes. Always request an updated quote.
+A house at an altitude of 1,000–2,000 m in the Alps or in the Sinaia-Predeal-Bușteni mountain area faces extreme conditions for joinery:
+
+**Temperature swings:** between -20°C in winter and +35°C in summer = **a 55°C difference**, against -5°C/+30°C on the plain. Every material expands and contracts cyclically. Standard PVC fatigues within 8–12 years. Aluminium with a weak thermal break becomes a cold conduit. BluEvolution 92 ALU holds its tolerances thanks to the rigidity of the exterior aluminium cladding.
+
+**UV radiation:** at 1,500 m altitude, UV intensity is 25–30% higher than at sea level. Standard PVC without UV stabilisers yellows within 5–7 years. BluEvolution 92 ALU has the aluminium cladding as a first barrier — the PVC is not directly exposed to UV.
+
+**Snow and moisture:** snow builds up on the sills and hydrostatic pressure acts on the gaskets. The co-extruded EPDM gaskets of BluEvolution 92 and the aluminium cladding ensure a perfect seal against meltwater and pressure changes.
+
+**Wind:** in mountain areas, gusts can exceed 100–120 km/h. BluEvolution 92 ALU has class C3 wind resistance and Roto or Siegenia hardware with locking all the way round.
+
+---
+
+## Export to France — how the logistics worked
+
+**The order** was placed via WhatsApp with photos and the opening dimensions. The client in France sent the architectural plans, and we calculated the exact dimensions.
+
+**Production** — 4 weeks at our factory. Salamander BluEvolution 92 ALU profiles in RAL 7016 matt anthracite outside, white inside. Triple Low-E glazing with argon.
+
+**Transport** — covered truck Bucharest → French Alps. Duration: 3 days. Transport cost included in the quote for orders above 8,000 EUR.
+
+**Documentation** — delivered with a CE Declaration of Conformity, Salamander technical data sheet and warranty certificate — all valid in the EU.
+
+---
+
+## BluEvolution 92 ALU for mountain houses in the Prahova Valley — Sinaia, Predeal, Bușteni
+
+The same requirements apply in Romania. Holiday homes and permanent residences in the Prahova Valley, Azuga, Predeal, Sinaia and Bușteni all benefit from the same advantages of the aluminium-clad profile over standard PVC.
+
+**Price difference compared with standard BluEvolution 92:** +20–30% per window.
+**Difference compared with pure aluminium at similar performance:** 20–30% cheaper.
+
+---
+
+## Indicative prices for BluEvolution 92 ALU — 2026
+
+> ⚠️ **Important note:** Prices are indicative and reflect conditions in March 2026. Material costs and the EUR/RON exchange rate may change. Prices exclude VAT; 21% VAT is added at invoicing. Always ask for an updated quote.
 
 | Configuration | Estimated price (installed) |
 |---|---|
-| Tilt-and-turn 100×120 cm, double Low-E | 480–640 EUR |
-| Tilt-and-turn 100×120 cm, triple Low-E | 600–780 EUR |
-| **Price per m² installed** | **280–400 EUR/m²** |
+| Tilt-and-turn window 100×120 cm, double Low-E glazing | 550–720 EUR |
+| **Price per m² installed** | **250–350 EUR/m²** |
 
-*vs BluEvolution 92 standard: +15–20%. vs equivalent aluminium: -25–35%.*
+*Triple glazing, balcony doors and export transport are quoted on the real dimensions. Compared with standard BluEvolution 92: +20–30%. Compared with equivalent aluminium: 20–30% cheaper.*
 
-We communicate in Romanian, English, French and German. We deliver across the EU — no customs duties, complete CE documentation.
+---
 
-**WhatsApp:** +40 752 443 435
+## Request a quote for export or a mountain house
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
+
+We communicate in Romanian, English, French and German. We deliver throughout the European Union — no customs duties, with complete CE documentation.
 
 ## Frequently Asked Questions
 
 ### How is the aluminium-clad BluEvolution 92 ALU profile built?
 
-It is not an aluminium profile, but a PVC BluEvolution 92 profile (6 chambers, 92 mm, nZEB performance) with aluminium foil bonded to its outer face. It combines PVC's excellent thermal insulation with aluminium's UV resistance and exterior durability (25 years).
+It is not an aluminium profile but a BluEvolution 92 PVC profile (6 chambers, 92 mm) with 12 mm aluminium cladding on the outer face, for a total depth of 104 mm. It combines the excellent thermal insulation of PVC with the UV resistance and exterior durability of aluminium (25 years).
 
 ### Why is BluEvolution 92 ALU ideal for a mountain house?
 
-For a mountain house with harsh winters, intense UV radiation at altitude and thermal swings of 60-70°C between summer and winter, BluEvolution 92 ALU is superior to both pure aluminium (better thermal insulation) and standard PVC (incomparably better exterior resistance).
+For a mountain house with harsh winters, intense UV radiation at altitude and temperature swings of more than 55°C between summer and winter, BluEvolution 92 ALU outperforms both pure aluminium (better thermal insulation) and standard PVC (far better exterior resistance).
 
 ### What is the advantage of BluEvolution 92 ALU over pure aluminium?
 
-BluEvolution 92 ALU offers the same UV, frost and extreme-thermal-swing resistance (25 years) as pure aluminium, but with excellent thermal insulation (PVC) instead of needing a thermal break. In addition, it costs 20-30% less than pure aluminium.
+BluEvolution 92 ALU offers the same resistance to UV (25 years), frost and extreme temperature swings as pure aluminium, but with excellent thermal insulation (PVC) instead of needing a thermal break. It also costs 20-30% less than pure aluminium.
 
-### Is BluEvolution 92 ALU suitable for export to harsh climates?
+### Is BluEvolution 92 ALU suitable for export to a harsh climate?
 
-Yes. It is the product designed exactly for the intersection of export, extreme climate and maximum thermal performance. The aluminium look with PVC performance makes it ideal for Romanian clients settled in France, Austria or alpine areas with harsh-climate resistance requirements.
+Yes. It is the product designed exactly for where export, extreme climate and maximum thermal performance meet. The look of aluminium with the performance of PVC makes it ideal for Romanian clients settled in France, Austria or alpine areas who need resistance to a harsh climate.
+
+### How long does a delivery to France take?
+
+For the mountain house in the French Alps, production took 4 weeks at our factory, and transport by covered truck from Bucharest took another 3 days. The joinery was delivered with a CE Declaration of Conformity, a Salamander technical data sheet and a warranty certificate, all valid in the EU.
+
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details in [the full joinery export context](/en/blog/salamander-windows-individual-houses-villas-europe-export). Useful pages: [the Salamander bluEvolution 92 ALU profile](/en/products/bluevolution-92-alu-pvc-profile) and [the complete PVC windows guide](/en/pvc-windows/complete-guide).`,
+Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details are in [the full context of our joinery exports](/en/blog/salamander-windows-individual-houses-villas-europe-export). Useful pages: [the Salamander bluEvolution 92 ALU profile](/en/products/bluevolution-92-alu-pvc-profile) and [the complete guide to PVC joinery](/en/pvc-windows/complete-guide).`,
 
-      de: `## Das Neofort BIZ Projekt — Export nach Frankreich, Berghaus
+      de: `## Das Projekt von Neofort BIZ — Export nach Frankreich, Berghaus
 
-**Salamander [BluEvolution 92](/de/kunststofffenster-pvc) ALU** ist KEIN [Aluminium](/de/aluminiumfenster)profil. Es ist ein **BluEvolution 92 PVC-Profil** (6 Kammern, 92 mm, nZEB) mit einer **außen aufgeklebten Aluminiumfolie** — das Beste aus beiden Materialien.
+Dieses Projekt zeigt perfekt, wo sich **Export**, **extremes Klima** und **maximale Wärmedämmung** treffen. Ein in Frankreich lebender rumänischer Kunde, ein Berghaus in den französischen Alpen, klare Anforderungen: die Optik von [Aluminium](/de/aluminiumfenster), die Leistung von PVC, Beständigkeit gegen raues Klima.
 
-| Merkmal | Standard PVC | Reines Aluminium | BluEvolution 92 ALU |
+Die gewählte Lösung: **Salamander [BluEvolution 92](/de/kunststofffenster-pvc) ALU**, das PVC-Profil mit äußerer Aluminiumverkleidung — das Produkt, das genau für diese Situation entwickelt wurde.
+
+---
+
+## Was ist BluEvolution 92 ALU mit Aluminiumverkleidung?
+
+BluEvolution 92 ALU ist kein Aluminiumprofil. Es ist ein **PVC-Profil BluEvolution 92** (6 Kammern, 92 mm Bautiefe, geeignet für nZEB-Häuser) mit einer **12 mm starken Aluminiumverkleidung auf der Außenseite** des Profils — 104 mm Gesamtbautiefe.
+
+Diese Kombination vereint das Beste aus beiden Materialien:
+
+| Eigenschaft | Standard-PVC | Reines Aluminium | BluEvolution 92 ALU |
 |---|---|---|---|
-| Wärmedämmung | ★★★★★ | ★★☆☆☆ | ★★★★★ |
-| UV-Beständigkeit außen | ★★★☆☆ (10 J.) | ★★★★★ (25 J.) | ★★★★★ (25 J.) |
-| Frostbeständigkeit | ★★★☆☆ | ★★★★★ | ★★★★★ |
-| Preis vs. reines Aluminium | -40% | Referenz | -20 bis -30% |
+| Wärmedämmung | ★★★★★ Hervorragend | ★★☆☆☆ Braucht thermische Trennung | ★★★★★ Hervorragend |
+| UV-Beständigkeit außen | ★★★☆☆ Gut (10 Jahre) | ★★★★★ 25 Jahre | ★★★★★ 25 Jahre |
+| Frostbeständigkeit | ★★★☆☆ Mittel | ★★★★★ Hervorragend | ★★★★★ Hervorragend |
+| Beständigkeit gegen Schnee/Feuchte | ★★★☆☆ Akzeptabel | ★★★★★ Hervorragend | ★★★★★ Hervorragend |
+| Extreme Temperaturschwankungen | ★★★☆☆ Leichte Verformung | ★★★★★ Stabil | ★★★★★ Stabil |
+| Optik | ★★★☆☆ Kunststoff | ★★★★★ Premium | ★★★★★ Premium |
+| Preis im Vergleich zu reinem Aluminium | -40 % | Referenz | -20…-30 % |
 
-**Für alpines Klima:** Temperaturschwankungen bis 55°C, UV-Intensität 25–30% höher als im Tiefland, Schneelast, Windböen > 100 km/h — BluEvolution 92 ALU ist für diese Bedingungen konzipiert.
+**Fazit:** Für ein Berghaus mit harten Wintern, starker UV-Strahlung in der Höhe und Temperaturschwankungen von über 55 °C zwischen Sommer und Winter ist **BluEvolution 92 ALU sowohl reinem Aluminium** (bessere Wärmedämmung) als auch Standard-PVC (weit bessere Beständigkeit außen) überlegen.
+
+---
+
+## Warum alpines Klima für Fenster am schwierigsten ist
+
+Ein Haus auf 1.000–2.000 m Höhe in den Alpen oder im Bergland um Sinaia, Predeal und Bușteni ist extremen Bedingungen für Fenster und Türen ausgesetzt:
+
+**Temperaturschwankungen:** zwischen -20 °C im Winter und +35 °C im Sommer = **55 °C Unterschied**, gegenüber -5 °C/+30 °C im Flachland. Jedes Material dehnt sich zyklisch aus und zieht sich zusammen. Standard-PVC ermüdet in 8–12 Jahren. Aluminium mit schwacher thermischer Trennung wird zur Kältebrücke. BluEvolution 92 ALU hält seine Toleranzen dank der Steifigkeit der äußeren Aluminiumverkleidung.
+
+**UV-Strahlung:** Auf 1.500 m Höhe ist die UV-Intensität um 25–30 % höher als auf Meereshöhe. Standard-PVC ohne UV-Stabilisatoren vergilbt in 5–7 Jahren. Bei BluEvolution 92 ALU ist die Aluminiumverkleidung die erste Barriere — das PVC ist der UV-Strahlung nicht direkt ausgesetzt.
+
+**Schnee und Feuchtigkeit:** Schnee sammelt sich auf den Fensterbänken, und hydrostatischer Druck wirkt auf die Dichtungen. Die coextrudierten EPDM-Dichtungen von BluEvolution 92 und die Aluminiumverkleidung sorgen für perfekte Dichtheit gegen Schmelzwasser und Druckschwankungen.
+
+**Wind:** Im Gebirge können Böen 100–120 km/h überschreiten. BluEvolution 92 ALU hat Windwiderstandsklasse C3 und Roto- oder Siegenia-Beschläge mit umlaufender Verriegelung.
+
+---
+
+## Export nach Frankreich — wie die Logistik funktioniert hat
+
+**Die Bestellung** lief über WhatsApp, mit Fotos und den Maßen der Öffnungen. Der Kunde in Frankreich schickte die Architektenpläne, und wir berechneten die genauen Maße.
+
+**Die Fertigung** — 4 Wochen in unserem Werk. Salamander-Profile BluEvolution 92 ALU außen in RAL 7016 Anthrazit matt, innen weiß. Dreifachverglasung Low-E mit Argon.
+
+**Der Transport** — geschlossener Lkw Bukarest → französische Alpen. Dauer: 3 Tage. Transportkosten im Angebot enthalten bei Aufträgen über 8.000 EUR.
+
+**Die Dokumentation** — Lieferung mit CE-Konformitätserklärung, technischem Datenblatt von Salamander und Garantiezertifikat — alles in der EU gültig.
+
+---
+
+## BluEvolution 92 ALU für Berghäuser im Prahova-Tal — Sinaia, Predeal, Bușteni
+
+Dieselben Anforderungen gelten auch in Rumänien. Ferienhäuser und Hauptwohnsitze im Prahova-Tal, in Azuga, Predeal, Sinaia und Bușteni profitieren von denselben Vorteilen des aluminiumverkleideten Profils gegenüber Standard-PVC.
+
+**Preisunterschied zu Standard-BluEvolution 92:** +20–30 % pro Fenster.
+**Unterschied zu reinem Aluminium bei ähnlicher Leistung:** 20–30 % günstiger.
 
 ---
 
 ## Richtpreise BluEvolution 92 ALU — 2026
 
-> ⚠️ **Wichtiger Hinweis:** Alle Preise sind Richtwerte und können sich ändern. Fordern Sie immer ein aktuelles Angebot an.
+> ⚠️ **Wichtiger Hinweis:** Die Preise sind Richtpreise und spiegeln die Lage vom März 2026 wider. Materialkosten und der EUR/RON-Kurs können sich ändern. Alle Preise verstehen sich ohne MwSt.; die rumänische MwSt. von 21 % kommt bei der Rechnungsstellung hinzu. Fordern Sie immer ein aktuelles Angebot an.
 
-| Konfiguration | Geschätzter Preis (montiert) |
+| Ausführung | Geschätzter Preis (montiert) |
 |---|---|
-| Dreh-Kipp 100×120 cm, Zweifach-Low-E | 480–640 EUR |
-| Dreh-Kipp 100×120 cm, Dreifach-Low-E | 600–780 EUR |
-| **Preis pro m² montiert** | **280–400 EUR/m²** |
+| Dreh-Kipp-Fenster 100×120 cm, Zweifachverglasung Low-E | 550–720 EUR |
+| **Preis pro m² montiert** | **250–350 EUR/m²** |
 
-Wir liefern in der gesamten EU — keine Zölle, vollständige CE-Dokumentation.
+*Dreifachverglasung, Balkontüren und der Exporttransport werden nach den tatsächlichen Maßen angeboten. Im Vergleich zu Standard-BluEvolution 92: +20–30 %. Im Vergleich zu gleichwertigem Aluminium: 20–30 % günstiger.*
 
-**WhatsApp:** +40 752 443 435
+---
+
+## Angebot für Export oder Berghaus anfordern
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18 Uhr**
+
+Wir kommunizieren auf Rumänisch, Englisch, Französisch und Deutsch. Wir liefern in die gesamte Europäische Union — ohne Zölle, mit vollständiger CE-Dokumentation.
 
 ## Häufig gestellte Fragen
 
-### Wie ist das aluminiumverkleidete BluEvolution 92 ALU Profil aufgebaut?
+### Wie ist das aluminiumverkleidete Profil BluEvolution 92 ALU aufgebaut?
 
-Es ist kein Aluminiumprofil, sondern ein PVC-Profil BluEvolution 92 (6 Kammern, 92 mm, nZEB-Leistung) mit einer auf die Außenseite geklebten Aluminiumfolie. Es verbindet die ausgezeichnete Wärmedämmung von PVC mit der UV-Beständigkeit und Außenhaltbarkeit von Aluminium (25 Jahre).
+Es ist kein Aluminiumprofil, sondern ein PVC-Profil BluEvolution 92 (6 Kammern, 92 mm) mit einer 12 mm starken Aluminiumverkleidung auf der Außenseite, für eine Gesamtbautiefe von 104 mm. Es vereint die hervorragende Wärmedämmung von PVC mit der UV-Beständigkeit und Haltbarkeit von Aluminium außen (25 Jahre).
 
 ### Warum ist BluEvolution 92 ALU ideal für ein Berghaus?
 
-Für ein Berghaus mit harten Wintern, intensiver UV-Strahlung in der Höhe und Temperaturschwankungen von 60-70°C zwischen Sommer und Winter ist BluEvolution 92 ALU sowohl reinem Aluminium (bessere Wärmedämmung) als auch Standard-PVC (unvergleichlich bessere Außenbeständigkeit) überlegen.
+Für ein Berghaus mit harten Wintern, starker UV-Strahlung in der Höhe und Temperaturschwankungen von über 55 °C zwischen Sommer und Winter ist BluEvolution 92 ALU sowohl reinem Aluminium (bessere Wärmedämmung) als auch Standard-PVC (weit bessere Beständigkeit außen) überlegen.
 
-### Was ist der Vorteil von BluEvolution 92 ALU gegenüber reinem Aluminium?
+### Welchen Vorteil hat BluEvolution 92 ALU gegenüber reinem Aluminium?
 
-BluEvolution 92 ALU bietet dieselbe UV-, Frost- und Extremtemperaturschwankungsbeständigkeit (25 Jahre) wie reines Aluminium, aber mit ausgezeichneter Wärmedämmung (PVC) statt einer benötigten thermischen Trennung. Zudem kostet es 20-30% weniger als reines Aluminium.
+BluEvolution 92 ALU bietet dieselbe Beständigkeit gegen UV (25 Jahre), Frost und extreme Temperaturschwankungen wie reines Aluminium, aber mit hervorragender Wärmedämmung (PVC) statt einer notwendigen thermischen Trennung. Außerdem kostet es 20-30 % weniger als reines Aluminium.
 
-### Ist BluEvolution 92 ALU für den Export in raue Klimazonen geeignet?
+### Eignet sich BluEvolution 92 ALU für den Export in raues Klima?
 
-Ja. Es ist das Produkt, das genau für die Schnittstelle von Export, extremem Klima und maximaler Wärmeleistung konzipiert ist. Die Aluminiumoptik mit PVC-Leistung macht es ideal für in Frankreich, Österreich oder Alpengebieten ansässige rumänische Kunden mit Anforderungen an raue Klimabeständigkeit.
+Ja. Es ist genau das Produkt für den Schnittpunkt von Export, extremem Klima und maximaler Wärmedämmung. Die Optik von Aluminium mit der Leistung von PVC macht es ideal für rumänische Kunden in Frankreich, Österreich oder Alpenregionen, die Beständigkeit gegen raues Klima brauchen.
+
+### Wie lange dauert eine Lieferung nach Frankreich?
+
+Für das Berghaus in den französischen Alpen dauerte die Fertigung 4 Wochen in unserem Werk, der Transport im geschlossenen Lkw von Bukarest weitere 3 Tage. Die Fenster wurden mit CE-Konformitätserklärung, technischem Datenblatt von Salamander und Garantiezertifikat geliefert, alles in der EU gültig.
+
 
 ---
 
-Neofort BIZ fertigt und montiert Salamander PVC-Fenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie die [Salamander-PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details im [vollständigen Exportkontext](/de/blog/salamander-fenster-einfamilienhaeuser-villen-europa-export). Nützliche Seiten: [Salamander-Profil bluEvolution 92 ALU](/de/produkte/bluevolution-92-alu-pvc-profil) und [Ratgeber Kunststofffenster](/de/kunststofffenster-pvc/kompletter-ratgeber).`,
+Neofort BIZ fertigt und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Einzelheiten finden Sie im [vollständigen Überblick über unseren Fensterexport](/de/blog/salamander-fenster-einfamilienhaeuser-villen-europa-export). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ALU](/de/produkte/bluevolution-92-alu-pvc-profil) und [der vollständige Ratgeber zu Kunststofffenstern](/de/kunststofffenster-pvc/kompletter-ratgeber).`,
 
-      fr: `## Le projet Neofort BIZ — export France, maison de montagne
+      fr: `## Le chantier Neofort BIZ — export en France, maison de montagne
 
-**Salamander [BluEvolution 92](/fr/menuiserie-pvc) ALU** n'est PAS un profil [aluminium](/fr/menuiserie-aluminium). C'est un **profil PVC BluEvolution 92** (6 chambres, 92 mm, nZEB) avec une **feuille d'aluminium collée sur la face extérieure** — le meilleur des deux matériaux.
+Ce chantier illustre parfaitement la rencontre entre **export**, **climat extrême** et **performance thermique maximale**. Un client roumain installé en France, une maison de montagne dans les Alpes françaises, des exigences claires : l’aspect de l’[aluminium](/fr/menuiserie-aluminium), les performances du PVC, la résistance à un climat rude.
 
-| Caractéristique | PVC standard | Aluminium pur | BluEvolution 92 ALU |
+La solution retenue : **Salamander [BluEvolution 92](/fr/menuiserie-pvc) ALU**, le profilé PVC à capotage extérieur en aluminium — le produit conçu précisément pour ce cas.
+
+---
+
+## Qu’est-ce que le BluEvolution 92 ALU à capotage aluminium ?
+
+Le BluEvolution 92 ALU n’est pas un profilé aluminium. C’est un **profilé PVC BluEvolution 92** (6 chambres, 92 mm de profondeur, adapté aux maisons nZEB) avec un **capotage aluminium de 12 mm posé sur la face extérieure** du profilé — 104 mm de profondeur totale.
+
+Cette combinaison offre le meilleur des deux matériaux :
+
+| Caractéristique | PVC standard | Aluminium seul | BluEvolution 92 ALU |
 |---|---|---|---|
-| Isolation thermique | ★★★★★ | ★★☆☆☆ | ★★★★★ |
-| Résistance UV extérieur | ★★★☆☆ (10 ans) | ★★★★★ (25 ans) | ★★★★★ (25 ans) |
-| Résistance au gel | ★★★☆☆ | ★★★★★ | ★★★★★ |
-| Prix vs aluminium pur | -40% | Référence | -20 à -30% |
+| Isolation thermique | ★★★★★ Excellente | ★★☆☆☆ Exige une rupture | ★★★★★ Excellente |
+| Résistance aux UV extérieurs | ★★★☆☆ Bonne (10 ans) | ★★★★★ 25 ans | ★★★★★ 25 ans |
+| Résistance au gel | ★★★☆☆ Moyenne | ★★★★★ Excellente | ★★★★★ Excellente |
+| Résistance neige/humidité | ★★★☆☆ Acceptable | ★★★★★ Excellente | ★★★★★ Excellente |
+| Écarts de température extrêmes | ★★★☆☆ Légères déformations | ★★★★★ Stable | ★★★★★ Stable |
+| Aspect | ★★★☆☆ Plastique | ★★★★★ Haut de gamme | ★★★★★ Haut de gamme |
+| Prix par rapport à l’aluminium seul | -40 % | Référence | -20…-30 % |
 
-**Pour le climat alpin :** variations thermiques jusqu'à 55°C, UV 25–30% plus intense qu'en plaine, accumulation de neige, rafales > 100 km/h — BluEvolution 92 ALU est conçu pour ces conditions.
+**Conclusion :** pour une maison de montagne aux hivers rudes, au rayonnement UV intense en altitude et aux écarts de température de plus de 55 °C entre l’été et l’hiver, **le BluEvolution 92 ALU surpasse à la fois l’aluminium seul** (meilleure isolation thermique) et le PVC standard (résistance extérieure incomparablement meilleure).
 
 ---
 
-## Prix indicatifs BluEvolution 92 ALU — 2026
+## Pourquoi le climat alpin est le plus difficile pour les fenêtres
 
-> ⚠️ **Note importante :** Tous les prix sont indicatifs et peuvent évoluer. Demandez toujours un devis actualisé.
+Une maison à 1 000–2 000 m d’altitude dans les Alpes ou dans la zone de montagne de Sinaia-Predeal-Bușteni affronte des conditions extrêmes pour les menuiseries :
+
+**Écarts de température :** entre -20 °C l’hiver et +35 °C l’été = **55 °C d’écart**, contre -5 °C/+30 °C en plaine. Chaque matériau se dilate et se contracte de façon cyclique. Le PVC standard se fatigue en 8 à 12 ans. L’aluminium à rupture thermique faible devient un conduit de froid. Le BluEvolution 92 ALU garde ses tolérances grâce à la rigidité du capotage aluminium extérieur.
+
+**Rayonnement UV :** à 1 500 m d’altitude, l’intensité des UV est 25 à 30 % plus élevée qu’au niveau de la mer. Un PVC standard sans stabilisants UV jaunit en 5 à 7 ans. Sur le BluEvolution 92 ALU, le capotage aluminium sert de première barrière — le PVC n’est pas exposé directement aux UV.
+
+**Neige et humidité :** la neige s’accumule sur les appuis et la pression hydrostatique s’exerce sur les joints. Les joints EPDM coextrudés du BluEvolution 92 et le capotage aluminium assurent une étanchéité parfaite à l’eau de fonte et aux variations de pression.
+
+**Vent :** en montagne, les rafales peuvent dépasser 100–120 km/h. Le BluEvolution 92 ALU offre une résistance au vent de classe C3 et une quincaillerie Roto ou Siegenia à verrouillage périphérique.
+
+---
+
+## Export en France — comment s’est passée la logistique
+
+**La commande** a été passée par WhatsApp, avec des photos et les dimensions des baies. Le client en France a envoyé les plans d’architecte et nous avons calculé les dimensions exactes.
+
+**La fabrication** — 4 semaines dans notre usine. Profilés Salamander BluEvolution 92 ALU en RAL 7016 anthracite mat à l’extérieur, blanc à l’intérieur. Triple vitrage Low-E à l’argon.
+
+**Le transport** — camion bâché Bucarest → Alpes françaises. Durée : 3 jours. Transport inclus dans le devis pour les commandes de plus de 8 000 EUR.
+
+**La documentation** — livraison avec déclaration de conformité CE, fiche technique Salamander et certificat de garantie — tous valables dans l’UE.
+
+---
+
+## Le BluEvolution 92 ALU pour les maisons de montagne de la vallée de la Prahova — Sinaia, Predeal, Bușteni
+
+Les mêmes exigences s’appliquent en Roumanie. Résidences secondaires et principales de la vallée de la Prahova, d’Azuga, de Predeal, de Sinaia et de Bușteni profitent toutes des mêmes avantages du profilé à capotage aluminium par rapport au PVC standard.
+
+**Écart de prix par rapport au BluEvolution 92 standard :** +20 à 30 % par fenêtre.
+**Écart par rapport à l’aluminium seul à performances similaires :** 20 à 30 % moins cher.
+
+---
+
+## Prix indicatifs du BluEvolution 92 ALU — 2026
+
+> ⚠️ **Remarque importante :** les prix sont indicatifs et reflètent les conditions de mars 2026. Le coût des matériaux et le taux de change EUR/RON peuvent évoluer. Ils s’entendent hors TVA ; la TVA roumaine de 21 % s’ajoute à la facturation. Demandez toujours un devis actualisé.
 
 | Configuration | Prix estimé (posé) |
 |---|---|
-| Oscillo-battant 100×120 cm, double Low-E | 480–640 EUR |
-| Oscillo-battant 100×120 cm, triple Low-E | 600–780 EUR |
-| **Prix par m² posé** | **280–400 EUR/m²** |
+| Fenêtre oscillo-battante 100×120 cm, double vitrage Low-E | 550–720 EUR |
+| **Prix au m² posé** | **250–350 EUR/m²** |
 
-Nous communiquons en roumain, anglais, français et allemand. Livraison dans toute l'UE — sans droits de douane, documentation CE complète.
+*Le triple vitrage, les portes-fenêtres et le transport à l’export sont chiffrés sur les dimensions réelles. Par rapport au BluEvolution 92 standard : +20 à 30 %. Par rapport à un aluminium équivalent : 20 à 30 % moins cher.*
 
-**WhatsApp :** +40 752 443 435
+---
+
+## Demandez un devis pour l’export ou une maison de montagne
+
+**WhatsApp :** +40 752 443 435 | **Lun–Ven 10h–18h**
+
+Nous communiquons en roumain, anglais, français et allemand. Nous livrons dans toute l’Union européenne — sans droits de douane, avec une documentation CE complète.
 
 ## Questions fréquentes
 
-### Comment est construit le profilé BluEvolution 92 ALU plaqué aluminium ?
+### Comment est construit le profilé BluEvolution 92 ALU à capotage aluminium ?
 
-Ce n'est pas un profilé aluminium, mais un profilé PVC BluEvolution 92 (6 chambres, 92 mm, performance nZEB) avec un film aluminium collé sur sa face extérieure. Il combine l'excellente isolation thermique du PVC avec la résistance UV et la durabilité extérieure de l'aluminium (25 ans).
+Ce n’est pas un profilé aluminium, mais un profilé PVC BluEvolution 92 (6 chambres, 92 mm) avec un capotage aluminium de 12 mm sur la face extérieure, pour une profondeur totale de 104 mm. Il associe l’excellente isolation thermique du PVC à la résistance aux UV et à la durabilité extérieure de l’aluminium (25 ans).
 
 ### Pourquoi le BluEvolution 92 ALU est-il idéal pour une maison de montagne ?
 
-Pour une maison de montagne aux hivers rudes, rayonnement UV intense en altitude et variations thermiques de 60-70°C entre été et hiver, le BluEvolution 92 ALU est supérieur à l'aluminium pur (meilleure isolation thermique) et au PVC standard (résistance extérieure incomparablement meilleure).
+Pour une maison de montagne aux hivers rudes, au rayonnement UV intense en altitude et aux écarts de température de plus de 55 °C entre l’été et l’hiver, le BluEvolution 92 ALU surpasse à la fois l’aluminium seul (meilleure isolation thermique) et le PVC standard (résistance extérieure incomparablement meilleure).
 
-### Quel est l'avantage du BluEvolution 92 ALU sur l'aluminium pur ?
+### Quel est l’avantage du BluEvolution 92 ALU par rapport à l’aluminium seul ?
 
-Le BluEvolution 92 ALU offre la même résistance aux UV, au gel et aux variations thermiques extrêmes (25 ans) que l'aluminium pur, mais avec une excellente isolation thermique (PVC) au lieu de nécessiter une rupture de pont thermique. De plus, il coûte 20-30% de moins que l'aluminium pur.
+Le BluEvolution 92 ALU offre la même résistance aux UV (25 ans), au gel et aux écarts de température extrêmes que l’aluminium seul, mais avec une excellente isolation thermique (PVC) au lieu de nécessiter une rupture de pont thermique. En outre, il coûte 20-30 % de moins que l’aluminium seul.
 
-### Le BluEvolution 92 ALU convient-il à l'export vers des climats rudes ?
+### Le BluEvolution 92 ALU convient-il à l’export sous un climat rude ?
 
-Oui. C'est le produit conçu exactement pour l'intersection entre export, climat extrême et performance thermique maximale. L'aspect aluminium avec la performance du PVC le rend idéal pour les clients roumains établis en France, en Autriche ou en zones alpines avec des exigences de résistance au climat rude.
+Oui. C’est le produit conçu précisément pour la rencontre entre export, climat extrême et performance thermique maximale. L’aspect de l’aluminium avec les performances du PVC le rend idéal pour les clients roumains installés en France, en Autriche ou dans les régions alpines qui ont besoin de résister à un climat rude.
+
+### Combien de temps prend une livraison en France ?
+
+Pour la maison de montagne des Alpes françaises, la fabrication a duré 4 semaines dans notre usine, et le transport en camion bâché depuis Bucarest 3 jours de plus. Les menuiseries ont été livrées avec déclaration de conformité CE, fiche technique Salamander et certificat de garantie, tous valables dans l’UE.
+
 
 ---
 
-Neofort BIZ fabrique et pose de la menuiserie PVC Salamander à Bucarest et Ilfov, avec livraison dans toute l’Europe. Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans [le contexte complet de l’export](/fr/blog/menuiserie-salamander-maisons-individuelles-villas-export-europe). Pages utiles : [le profilé Salamander bluEvolution 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) et [le guide complet de la menuiserie PVC](/fr/menuiserie-pvc/guide-complet).`,
+Neofort BIZ fabrique et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans [le contexte complet de nos exportations de menuiseries](/fr/blog/menuiserie-salamander-maisons-individuelles-villas-export-europe). Pages utiles : [le profilé Salamander bluEvolution 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) et [le guide complet de la menuiserie PVC](/fr/menuiserie-pvc/guide-complet).`,
 
-      es: `## El proyecto Neofort BIZ — exportación Francia, casa de montaña
+      es: `## La obra de Neofort BIZ — exportación a Francia, casa de montaña
 
-**Salamander [BluEvolution 92](/es/carpinteria-pvc) ALU** NO es un perfil de [aluminio](/es/carpinteria-aluminio). Es un **perfil PVC BluEvolution 92** (6 cámaras, 92 mm, nZEB) con una **lámina de aluminio pegada en la cara exterior** — lo mejor de ambos materiales.
+Esta obra ilustra perfectamente el punto de encuentro entre **exportación**, **clima extremo** y **máximo rendimiento térmico**. Un cliente rumano afincado en Francia, una casa de montaña en los Alpes franceses y requisitos claros: aspecto de [aluminio](/es/carpinteria-aluminio), rendimiento de PVC y resistencia a un clima severo.
+
+La solución elegida: **Salamander [BluEvolution 92](/es/carpinteria-pvc) ALU**, el perfil de PVC con revestimiento exterior de aluminio, el producto pensado justo para esta situación.
+
+---
+
+## ¿Qué es BluEvolution 92 ALU revestido de aluminio?
+
+BluEvolution 92 ALU no es un perfil de aluminio. Es un **perfil de PVC BluEvolution 92** (6 cámaras, 92 mm de profundidad, adecuado para casas nZEB) con un **revestimiento de aluminio de 12 mm montado en la cara exterior** del perfil: 104 mm de profundidad total.
+
+Esta combinación ofrece lo mejor de ambos materiales:
 
 | Característica | PVC estándar | Aluminio puro | BluEvolution 92 ALU |
 |---|---|---|---|
-| Aislamiento térmico | ★★★★★ | ★★☆☆☆ | ★★★★★ |
-| Resistencia UV exterior | ★★★☆☆ (10 años) | ★★★★★ (25 años) | ★★★★★ (25 años) |
-| Resistencia a heladas | ★★★☆☆ | ★★★★★ | ★★★★★ |
-| Precio vs aluminio puro | -40% | Referencia | -20 a -30% |
+| Aislamiento térmico | ★★★★★ Excelente | ★★☆☆☆ Necesita rotura de puente | ★★★★★ Excelente |
+| Resistencia UV exterior | ★★★☆☆ Buena (10 años) | ★★★★★ 25 años | ★★★★★ 25 años |
+| Resistencia a la helada | ★★★☆☆ Media | ★★★★★ Excelente | ★★★★★ Excelente |
+| Resistencia a nieve/humedad | ★★★☆☆ Aceptable | ★★★★★ Excelente | ★★★★★ Excelente |
+| Cambios térmicos extremos | ★★★☆☆ Pequeñas deformaciones | ★★★★★ Estable | ★★★★★ Estable |
+| Aspecto | ★★★☆☆ Plástico | ★★★★★ Premium | ★★★★★ Premium |
+| Precio frente al aluminio puro | -40 % | Referencia | -20…-30 % |
 
-**Para el clima alpino:** variaciones térmicas hasta 55°C, UV 25–30% más intenso que en el llano, acumulación de nieve, ráfagas > 100 km/h.
+**Conclusión:** para una casa de montaña con inviernos duros, radiación UV intensa en altura y diferencias de temperatura de más de 55 °C entre verano e invierno, **BluEvolution 92 ALU supera tanto al aluminio puro** (mejor aislamiento térmico) como al PVC estándar (resistencia exterior muy superior).
 
 ---
 
-## Precios orientativos BluEvolution 92 ALU — 2026
+## Por qué el clima alpino es el más difícil para las ventanas
 
-> ⚠️ **Nota importante:** Todos los precios son orientativos y pueden cambiar. Solicite siempre un presupuesto actualizado.
+Una casa a 1.000–2.000 m de altitud en los Alpes o en la zona de montaña de Sinaia-Predeal-Bușteni se enfrenta a condiciones extremas para la carpintería:
+
+**Cambios térmicos:** entre -20 °C en invierno y +35 °C en verano = **55 °C de diferencia**, frente a -5 °C/+30 °C en la llanura. Todos los materiales se dilatan y se contraen de forma cíclica. El PVC estándar se fatiga en 8–12 años. El aluminio con una rotura de puente térmico débil se convierte en un conducto de frío. BluEvolution 92 ALU mantiene sus tolerancias gracias a la rigidez del revestimiento exterior de aluminio.
+
+**Radiación UV:** a 1.500 m de altitud, la intensidad UV es un 25–30 % mayor que al nivel del mar. Un PVC estándar sin estabilizadores UV amarillea en 5–7 años. En BluEvolution 92 ALU, el revestimiento de aluminio es la primera barrera: el PVC no queda expuesto directamente a los rayos UV.
+
+**Nieve y humedad:** la nieve se acumula en los alféizares y la presión hidrostática actúa sobre las juntas. Las juntas de EPDM coextruidas de BluEvolution 92 y el revestimiento de aluminio garantizan una estanqueidad perfecta frente al agua de deshielo y los cambios de presión.
+
+**Viento:** en la montaña, las ráfagas pueden superar los 100–120 km/h. BluEvolution 92 ALU tiene resistencia al viento de clase C3 y herrajes Roto o Siegenia con cierre perimetral.
+
+---
+
+## Exportación a Francia: cómo funcionó la logística
+
+**El pedido** se hizo por WhatsApp, con fotos y las medidas de los huecos. El cliente en Francia envió los planos del arquitecto y calculamos las medidas exactas.
+
+**La fabricación**: 4 semanas en nuestra fábrica. Perfiles Salamander BluEvolution 92 ALU en RAL 7016 antracita mate por fuera y blanco por dentro. Triple acristalamiento Low-E con argón.
+
+**El transporte**: camión cubierto Bucarest → Alpes franceses. Duración: 3 días. Transporte incluido en el presupuesto para pedidos de más de 8.000 EUR.
+
+**La documentación**: entrega con declaración de conformidad CE, ficha técnica de Salamander y certificado de garantía, todos válidos en la UE.
+
+---
+
+## BluEvolution 92 ALU para casas de montaña del valle de Prahova: Sinaia, Predeal, Bușteni
+
+Los mismos requisitos se aplican en Rumanía. Las segundas residencias y viviendas habituales del valle de Prahova, Azuga, Predeal, Sinaia y Bușteni se benefician de las mismas ventajas del perfil revestido de aluminio frente al PVC estándar.
+
+**Diferencia de precio frente a BluEvolution 92 estándar:** +20–30 % por ventana.
+**Diferencia frente al aluminio puro con un rendimiento similar:** un 20–30 % más barato.
+
+---
+
+## Precios orientativos de BluEvolution 92 ALU — 2026
+
+> ⚠️ **Nota importante:** los precios son orientativos y reflejan las condiciones de marzo de 2026. El coste de los materiales y el tipo de cambio EUR/RON pueden variar. Son precios sin IVA; el IVA rumano del 21 % se añade en la factura. Pida siempre un presupuesto actualizado.
 
 | Configuración | Precio estimado (instalado) |
 |---|---|
-| Oscilobatiente 100×120 cm, doble Low-E | 480–640 EUR |
-| Oscilobatiente 100×120 cm, triple Low-E | 600–780 EUR |
-| **Precio por m² instalado** | **280–400 EUR/m²** |
+| Ventana oscilobatiente de 100×120 cm, doble acristalamiento Low-E | 550–720 EUR |
+| **Precio por m² instalado** | **250–350 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435
+*El triple acristalamiento, las puertas de balcón y el transporte de exportación se presupuestan sobre las medidas reales. Frente a BluEvolution 92 estándar: +20–30 %. Frente a un aluminio equivalente: un 20–30 % más barato.*
+
+---
+
+## Solicite un presupuesto para exportación o casas de montaña
+
+**WhatsApp:** +40 752 443 435 | **Lun–Vie 10–18 h**
+
+Nos comunicamos en rumano, inglés, francés y alemán. Entregamos en toda la Unión Europea, sin aranceles y con documentación CE completa.
 
 ## Preguntas frecuentes
 
 ### ¿Cómo está construido el perfil BluEvolution 92 ALU revestido de aluminio?
 
-No es un perfil de aluminio, sino un perfil de PVC BluEvolution 92 (6 cámaras, 92 mm, rendimiento nZEB) con una lámina de aluminio pegada a su cara exterior. Combina el excelente aislamiento térmico del PVC con la resistencia UV y la durabilidad exterior del aluminio (25 años).
+No es un perfil de aluminio, sino un perfil de PVC BluEvolution 92 (6 cámaras, 92 mm) con un revestimiento de aluminio de 12 mm en la cara exterior, para una profundidad total de 104 mm. Combina el excelente aislamiento térmico del PVC con la resistencia UV y la durabilidad exterior del aluminio (25 años).
 
-### ¿Por qué el BluEvolution 92 ALU es ideal para una casa de montaña?
+### ¿Por qué BluEvolution 92 ALU es ideal para una casa de montaña?
 
-Para una casa de montaña con inviernos duros, radiación UV intensa en altitud y variaciones térmicas de 60-70°C entre verano e invierno, el BluEvolution 92 ALU es superior tanto al aluminio puro (mejor aislamiento térmico) como al PVC estándar (resistencia exterior incomparablemente mejor).
+Para una casa de montaña con inviernos duros, radiación UV intensa en altura y diferencias de temperatura de más de 55 °C entre verano e invierno, BluEvolution 92 ALU supera tanto al aluminio puro (mejor aislamiento térmico) como al PVC estándar (resistencia exterior muy superior).
 
-### ¿Cuál es la ventaja del BluEvolution 92 ALU sobre el aluminio puro?
+### ¿Qué ventaja tiene BluEvolution 92 ALU frente al aluminio puro?
 
-El BluEvolution 92 ALU ofrece la misma resistencia a UV, helada y variaciones térmicas extremas (25 años) que el aluminio puro, pero con excelente aislamiento térmico (PVC) en lugar de necesitar una rotura de puente térmico. Además, cuesta un 20-30% menos que el aluminio puro.
+BluEvolution 92 ALU ofrece la misma resistencia a los rayos UV (25 años), a la helada y a los cambios térmicos extremos que el aluminio puro, pero con un excelente aislamiento térmico (PVC) en lugar de necesitar una rotura de puente térmico. Además, cuesta un 20-30 % menos que el aluminio puro.
 
-### ¿Es adecuado el BluEvolution 92 ALU para exportar a climas severos?
+### ¿Es adecuado BluEvolution 92 ALU para exportar a un clima severo?
 
-Sí. Es el producto diseñado exactamente para la intersección entre exportación, clima extremo y rendimiento térmico máximo. El aspecto de aluminio con el rendimiento del PVC lo hace ideal para clientes rumanos establecidos en Francia, Austria o zonas alpinas con requisitos de resistencia a clima severo.
+Sí. Es el producto pensado justo para el punto de encuentro entre exportación, clima extremo y máximo rendimiento térmico. El aspecto del aluminio con el rendimiento del PVC lo hace ideal para clientes rumanos afincados en Francia, Austria o zonas alpinas que necesitan resistencia a un clima severo.
+
+### ¿Cuánto tarda una entrega en Francia?
+
+Para la casa de montaña de los Alpes franceses, la fabricación duró 4 semanas en nuestra fábrica y el transporte en camión cubierto desde Bucarest, otros 3 días. La carpintería se entregó con declaración de conformidad CE, ficha técnica de Salamander y certificado de garantía, todos válidos en la UE.
+
 
 ---
 
-Neofort BIZ fabrica e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Todos los detalles en [el contexto completo de la exportación](/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa). Páginas útiles: [el perfil Salamander bluEvolution 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) y [la guía completa de carpintería PVC](/es/carpinteria-pvc/guia-completa).`,
+Neofort BIZ fabrica e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Todos los detalles en [el contexto completo de nuestras exportaciones de carpintería](/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa). Páginas útiles: [el perfil Salamander bluEvolution 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) y [la guía completa de la carpintería de PVC](/es/carpinteria-pvc/guia-completa).`,
 
-      it: `## Il progetto Neofort BIZ — esportazione Francia, casa di montagna
+      it: `## Il lavoro di Neofort BIZ — export in Francia, casa di montagna
 
-**Salamander [BluEvolution 92](/it/infissi-pvc) ALU** NON è un profilo in [alluminio](/it/infissi-alluminio). È un **profilo PVC BluEvolution 92** (6 camere, 92 mm, nZEB) con un **foglio di alluminio incollato sulla faccia esterna** — il meglio di entrambi i materiali.
+Questo lavoro illustra perfettamente l’incontro tra **export**, **clima estremo** e **massime prestazioni termiche**. Un cliente romeno trasferito in Francia, una casa di montagna nelle Alpi francesi, requisiti chiari: l’aspetto dell’[alluminio](/it/infissi-alluminio), le prestazioni del PVC, la resistenza a un clima rigido.
+
+La soluzione scelta: **Salamander [BluEvolution 92](/it/infissi-pvc) ALU**, il profilo in PVC con rivestimento esterno in alluminio, il prodotto pensato proprio per questa situazione.
+
+---
+
+## Che cos’è BluEvolution 92 ALU rivestito in alluminio?
+
+BluEvolution 92 ALU non è un profilo in alluminio. È un **profilo in PVC BluEvolution 92** (6 camere, 92 mm di profondità, adatto alle case nZEB) con un **rivestimento in alluminio di 12 mm montato sul lato esterno** del profilo: 104 mm di profondità totale.
+
+Questa combinazione offre il meglio dei due materiali:
 
 | Caratteristica | PVC standard | Alluminio puro | BluEvolution 92 ALU |
 |---|---|---|---|
-| Isolamento termico | ★★★★★ | ★★☆☆☆ | ★★★★★ |
-| Resistenza UV esterno | ★★★☆☆ (10 anni) | ★★★★★ (25 anni) | ★★★★★ (25 anni) |
-| Resistenza al gelo | ★★★☆☆ | ★★★★★ | ★★★★★ |
-| Prezzo vs alluminio puro | -40% | Riferimento | -20/-30% |
+| Isolamento termico | ★★★★★ Eccellente | ★★☆☆☆ Serve il taglio termico | ★★★★★ Eccellente |
+| Resistenza UV esterna | ★★★☆☆ Buona (10 anni) | ★★★★★ 25 anni | ★★★★★ 25 anni |
+| Resistenza al gelo | ★★★☆☆ Media | ★★★★★ Eccellente | ★★★★★ Eccellente |
+| Resistenza a neve/umidità | ★★★☆☆ Accettabile | ★★★★★ Eccellente | ★★★★★ Eccellente |
+| Escursioni termiche estreme | ★★★☆☆ Piccole deformazioni | ★★★★★ Stabile | ★★★★★ Stabile |
+| Aspetto | ★★★☆☆ Plastica | ★★★★★ Di pregio | ★★★★★ Di pregio |
+| Prezzo rispetto all’alluminio puro | -40% | Riferimento | -20…-30% |
 
-**Per il clima alpino:** variazioni termiche fino a 55°C, UV 25–30% più intenso che in pianura, accumulo di neve, raffiche > 100 km/h.
+**Conclusione:** per una casa di montagna con inverni rigidi, radiazione UV intensa in quota ed escursioni termiche di oltre 55 °C tra estate e inverno, **BluEvolution 92 ALU supera sia l’alluminio puro** (migliore isolamento termico) sia il PVC standard (resistenza esterna di gran lunga superiore).
+
+---
+
+## Perché il clima alpino è il più difficile per le finestre
+
+Una casa a 1.000–2.000 m di quota nelle Alpi o nella zona montana di Sinaia-Predeal-Bușteni affronta condizioni estreme per i serramenti:
+
+**Escursioni termiche:** tra -20 °C d’inverno e +35 °C d’estate = **55 °C di differenza**, contro -5 °C/+30 °C in pianura. Ogni materiale si dilata e si contrae ciclicamente. Il PVC standard si affatica in 8–12 anni. L’alluminio con un taglio termico debole diventa un condotto di freddo. BluEvolution 92 ALU mantiene le tolleranze grazie alla rigidità del rivestimento esterno in alluminio.
+
+**Radiazione UV:** a 1.500 m di quota l’intensità UV è del 25–30% superiore rispetto al livello del mare. Un PVC standard senza stabilizzanti UV ingiallisce in 5–7 anni. In BluEvolution 92 ALU il rivestimento in alluminio fa da prima barriera: il PVC non è esposto direttamente ai raggi UV.
+
+**Neve e umidità:** la neve si accumula sui davanzali e la pressione idrostatica agisce sulle guarnizioni. Le guarnizioni in EPDM coestruse di BluEvolution 92 e il rivestimento in alluminio garantiscono una tenuta perfetta all’acqua di disgelo e alle variazioni di pressione.
+
+**Vento:** in montagna le raffiche possono superare i 100–120 km/h. BluEvolution 92 ALU ha resistenza al vento in classe C3 e ferramenta Roto o Siegenia con chiusura su tutto il perimetro.
+
+---
+
+## Export in Francia: come ha funzionato la logistica
+
+**L’ordine** è stato fatto via WhatsApp, con foto e misure dei vani. Il cliente in Francia ha inviato i disegni dell’architetto e abbiamo calcolato le misure esatte.
+
+**La produzione**: 4 settimane nel nostro stabilimento. Profili Salamander BluEvolution 92 ALU in RAL 7016 antracite opaco all’esterno e bianco all’interno. Vetro triplo Low-E con argon.
+
+**Il trasporto**: camion telonato Bucarest → Alpi francesi. Durata: 3 giorni. Trasporto incluso nel preventivo per ordini oltre 8.000 EUR.
+
+**La documentazione**: consegna con dichiarazione di conformità CE, scheda tecnica Salamander e certificato di garanzia, tutti validi nell’UE.
+
+---
+
+## BluEvolution 92 ALU per le case di montagna della valle di Prahova: Sinaia, Predeal, Bușteni
+
+Gli stessi requisiti valgono anche in Romania. Le case per le vacanze e le residenze principali della valle di Prahova, di Azuga, Predeal, Sinaia e Bușteni godono degli stessi vantaggi del profilo rivestito in alluminio rispetto al PVC standard.
+
+**Differenza di prezzo rispetto a BluEvolution 92 standard:** +20–30% a finestra.
+**Differenza rispetto all’alluminio puro a parità di prestazioni:** il 20–30% in meno.
 
 ---
 
 ## Prezzi indicativi BluEvolution 92 ALU — 2026
 
-> ⚠️ **Nota importante:** Tutti i prezzi sono indicativi e possono variare. Richiedete sempre un preventivo aggiornato.
+> ⚠️ **Nota importante:** i prezzi sono indicativi e riflettono le condizioni di marzo 2026. I costi dei materiali e il cambio EUR/RON possono variare. Sono prezzi IVA esclusa; l’IVA rumena del 21% si aggiunge in fattura. Chiedete sempre un preventivo aggiornato.
 
 | Configurazione | Prezzo stimato (posato) |
 |---|---|
-| Ribaltabile 100×120 cm, doppio Low-E | 480–640 EUR |
-| Ribaltabile 100×120 cm, triplo Low-E | 600–780 EUR |
-| **Prezzo per m² posato** | **280–400 EUR/m²** |
+| Finestra ad anta ribalta 100×120 cm, vetro doppio Low-E | 550–720 EUR |
+| **Prezzo al m² posato** | **250–350 EUR/m²** |
 
-**WhatsApp:** +40 752 443 435
-
-## Domande frequenti
-
-### Com'è costruito il profilo BluEvolution 92 ALU rivestito in alluminio?
-
-Non è un profilo in alluminio, ma un profilo in PVC BluEvolution 92 (6 camere, 92 mm, prestazioni nZEB) con una pellicola di alluminio incollata sulla faccia esterna. Combina l'eccellente isolamento termico del PVC con la resistenza UV e la durabilità esterna dell'alluminio (25 anni).
-
-### Perché il BluEvolution 92 ALU è ideale per una casa di montagna?
-
-Per una casa di montagna con inverni rigidi, radiazione UV intensa in quota e sbalzi termici di 60-70°C tra estate e inverno, il BluEvolution 92 ALU è superiore sia all'alluminio puro (migliore isolamento termico) sia al PVC standard (resistenza esterna incomparabilmente migliore).
-
-### Qual è il vantaggio del BluEvolution 92 ALU rispetto all'alluminio puro?
-
-Il BluEvolution 92 ALU offre la stessa resistenza a UV, gelo e sbalzi termici estremi (25 anni) dell'alluminio puro, ma con eccellente isolamento termico (PVC) invece di richiedere un taglio termico. Inoltre, costa il 20-30% in meno dell'alluminio puro.
-
-### Il BluEvolution 92 ALU è adatto all'export in climi rigidi?
-
-Sì. È il prodotto concepito esattamente per l'intersezione tra export, clima estremo e prestazioni termiche massime. L'aspetto alluminio con le prestazioni del PVC lo rende ideale per clienti rumeni stabiliti in Francia, Austria o zone alpine con requisiti di resistenza al clima rigido.
+*Il vetro triplo, le porte-finestre e il trasporto per l’export si quotano sulle misure reali. Rispetto a BluEvolution 92 standard: +20–30%. Rispetto a un alluminio equivalente: il 20–30% in meno.*
 
 ---
 
-Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, con consegna in tutta Europa. Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo o [richiedi un preventivo](/it/contatti). Tutti i dettagli nel [contesto completo dell’export](/it/blog/infissi-salamander-case-individuali-ville-esportazione-europa). Pagine utili: [il profilo Salamander bluEvolution 92 ALU](/it/prodotti/profilo-pvc-bluevolution-92-alu) e [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa).`,
+## Richiedete un preventivo per l’export o per una casa di montagna
+
+**WhatsApp:** +40 752 443 435 | **Lun–Ven 10–18**
+
+Comunichiamo in romeno, inglese, francese e tedesco. Consegniamo in tutta l’Unione Europea, senza dazi e con documentazione CE completa.
+
+## Domande frequenti
+
+### Com’è fatto il profilo BluEvolution 92 ALU rivestito in alluminio?
+
+Non è un profilo in alluminio, ma un profilo in PVC BluEvolution 92 (6 camere, 92 mm) con un rivestimento in alluminio di 12 mm sul lato esterno, per una profondità totale di 104 mm. Unisce l’eccellente isolamento termico del PVC alla resistenza UV e alla durata esterna dell’alluminio (25 anni).
+
+### Perché BluEvolution 92 ALU è ideale per una casa di montagna?
+
+Per una casa di montagna con inverni rigidi, radiazione UV intensa in quota ed escursioni termiche di oltre 55 °C tra estate e inverno, BluEvolution 92 ALU supera sia l’alluminio puro (migliore isolamento termico) sia il PVC standard (resistenza esterna di gran lunga superiore).
+
+### Qual è il vantaggio di BluEvolution 92 ALU rispetto all’alluminio puro?
+
+BluEvolution 92 ALU offre la stessa resistenza ai raggi UV (25 anni), al gelo e alle escursioni termiche estreme dell’alluminio puro, ma con un eccellente isolamento termico (PVC) invece di richiedere il taglio termico. Inoltre costa il 20-30% in meno dell’alluminio puro.
+
+### BluEvolution 92 ALU è adatto all’export in climi rigidi?
+
+Sì. È il prodotto pensato proprio per l’incontro tra export, clima estremo e massime prestazioni termiche. L’aspetto dell’alluminio con le prestazioni del PVC lo rende ideale per i clienti romeni trasferiti in Francia, in Austria o nelle zone alpine che hanno bisogno di resistere a un clima rigido.
+
+### Quanto dura una consegna in Francia?
+
+Per la casa di montagna nelle Alpi francesi, la produzione è durata 4 settimane nel nostro stabilimento e il trasporto in camion telonato da Bucarest altri 3 giorni. I serramenti sono stati consegnati con dichiarazione di conformità CE, scheda tecnica Salamander e certificato di garanzia, tutti validi nell’UE.
+
+
+---
+
+Neofort BIZ produce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Tutti i dettagli nel [contesto completo delle nostre esportazioni di serramenti](/it/blog/infissi-salamander-case-individuali-ville-esportazione-europa). Pagine utili: [il profilo Salamander bluEvolution 92 ALU](/it/prodotti/profilo-pvc-bluevolution-92-alu) e [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa).`,
     },
   },
 
@@ -28258,27 +28902,27 @@ Salamander a dus acest concept la nivelul următor cu sistemul **evolutionDrive 
 
 Sistemul **evolutionDrive Plus+** este o generație nouă față de glisantele PVC clasice. Diferența esențială: **etanșarea în toc**.
 
-La glisantele clasice, etanșarea se face prin presiune — canatul apasă pe garnitură la închidere, dar în timpul glisării există un joc mic care permite infiltrații de aer. La evolutionDrive Plus+, canatul se **deplasează paralel** cu tocul și se **etanșează în toc** la final — similar cu o ușă HST (Hebe-Schiebe) de aluminiu, dar la prețul PVC-ului.
+La glisantele clasice, etanșarea se face prin presiune — canatul apasă pe garnitură la închidere, dar în timpul glisării există un joc mic care permite infiltrații de aer. La evolutionDrive Plus+, canatul se **deplasează paralel** cu tocul și se **etanșează în toc** la final — asemănător cu o ușă liftant-glisantă (HST), dar cu până la 25% mai ușor și la prețul PVC-ului.
 
 ### Specificații tehnice evolutionDrive Plus+
 
 | Parametru | Valoare |
 |---|---|
-| Adâncime cadru | **76 mm** |
+| Adâncime de construcție | **152 mm** (cu șină) |
+| Profil | **5 camere** |
 | Sistem etanșare | **Etanșare în toc — paralel** |
-| Coeficient termic cadru Uf | **1,2 W/m²K** |
-| Coeficient sistem Uw | **până la 0,8 W/m²K** cu geam tripan |
-| Izolare fonică | **până la 42 dB** |
-| Rezistență la vânt | **clasa B5** |
-| Rezistență antiefracție | **RC 2** |
-| Greutate maximă canat | **până la 400 kg** |
-| Lățime maximă canat | **până la 3,0 m** |
-| Înălțime maximă | **până la 2,6 m** |
-| Compatibilitate geam | **până la 52 mm** (inclusiv tripan) |
+| Coeficient sistem Uw | **de la 0,71 W/m²K** cu geam tripan |
+| Izolare fonică | **până la 44 dB** |
+| Rezistență antiefracție | **până la RC 2** |
+| Greutate maximă canat | **până la 200 kg** |
+| Dimensiuni maxime | **până la 4,0 × 2,6 m** |
+| Compatibilitate geam | **până la 49 mm** (inclusiv tripan) |
+
+*Valorile depind de configurație; pentru ușa ta le confirmăm în ofertă.*
 
 ### Mecanismul de glisare — de ce contează confortul
 
-Sistemul evolutionDrive Plus+ utilizează o **feronerie nouă de generație**, concepută de industria producătorilor de feronerie ca răspuns la cerințele crescute de etanșeitate. Mișcarea de glisare este **silențioasă și ușoară** — chiar și la canaturi de 200–300 kg, deschiderea se face cu o singură mână, fără efort.
+Sistemul evolutionDrive Plus+ utilizează o **feronerie nouă de generație**, concepută de industria producătorilor de feronerie ca răspuns la cerințele crescute de etanșeitate. Mișcarea de glisare este **silențioasă și ușoară** — chiar și la canaturi de până la 200 kg, deschiderea se face cu o singură mână, fără efort.
 
 Rulmenții de înaltă precizie și șina de aluminiu extrudat asigură o cursă lină pe toată durata de viață a sistemului, fără uzură prematură.
 
@@ -28291,7 +28935,6 @@ Rulmenții de înaltă precizie și șina de aluminiu extrudat asigură o cursă
 | Spațiu liber interior | ❌ Ocupă | ✅ Nu ocupă | ✅ Nu ocupă |
 | Etanșeitate termică | ✅ Bună | ⚠️ Medie | ✅ Excelentă |
 | Câmp vizual | ⚠️ Limitat | ✅ Bun | ✅ Maxim |
-| Rezistență la vânt | ✅ B5 | ⚠️ B3 | ✅ B5 |
 | Dimensiuni maxime | ⚠️ Mici | ⚠️ Medii | ✅ Foarte mari |
 | Antiefracție | RC 2–3 | RC 1 | **RC 2** |
 
@@ -28299,11 +28942,11 @@ Rulmenții de înaltă precizie și șina de aluminiu extrudat asigură o cursă
 
 ## Plasa plissé culisantă — soluția pentru deschideri mari de terasă
 
-O ușă culisantă de 2,5–3,0 m lățime ridică o problemă practică: plasele de insecte clasice (pe ramă fixă sau rulou) nu acoperă corect deschideri atât de mari, sau devin incomode în utilizare zilnică.
+O ușă culisantă de 2,5–4,0 m lățime ridică o problemă practică: plasele de insecte clasice (pe ramă fixă sau rulou) nu acoperă corect deschideri atât de mari, sau devin incomode în utilizare zilnică.
 
 **Plasa plissé culisantă** rezolvă elegant această problemă:
 
-### Cum funcționează plisa plissé
+### Cum funcționează plasa plissé
 
 Sistemul plissé folosește o **plasă pliată armonic** (asemănător unui burduf), montată pe un cadru cu șine superioare și inferioare. La deschidere, plasa se strânge în plisuri compacte într-un capăt — ocupând minimum de spațiu. La închidere, se desfășoară lin pe toată lățimea golului.
 
@@ -28323,11 +28966,11 @@ Plasa plissé se montează în același câmp cu ușa culisantă, pe un cadru pr
 
 ## Montajul profesional — ce include Neofort BIZ
 
-Neofort BIZ execută montajul sistemului evolutionDrive Plus+ conform **standardului RAL pentru montaj ferestre și uși glisante**, care presupune:
+Neofort BIZ execută montajul sistemului evolutionDrive Plus+ conform **ghidului RAL pentru montajul ferestrelor și ușilor**, care presupune:
 
 1. **Verificarea și nivelarea pragului** — esențial pentru glisarea corectă și etanșarea perfectă
 2. **Montajul șinei de ghidaj** — fixare cu dibluri chimice în planșeu/pardoseală
-3. **Reglajul feroneriei** — ajustarea înălțimii canaților pentru contact perfect pe toată lungimea garniturii
+3. **Reglajul feroneriei** — ajustarea înălțimii canaturilor pentru contact perfect pe toată lungimea garniturii
 4. **Etanșarea perimetrală** — bandă butilică și spumă poliuretanică cu expansiune controlată la îmbinarea cadru–zidărie
 5. **Montajul plasei plissé** — șine superioare și inferioare, reglaj tensiune plasă
 
@@ -28338,10 +28981,10 @@ Neofort BIZ execută montajul sistemului evolutionDrive Plus+ conform **standard
 ## Întrebări frecvente — evolutionDrive Plus+ și plasa plissé
 
 ### Poate fi montată pe o terasă existentă?
-Da — sistemul se adaptează golurilor existente. Necesită un prag drept și solid. Neofort BIZ efectuează măsurători la față locului înainte de fabricare.
+Da — sistemul se adaptează golurilor existente. Necesită un prag drept și solid. Neofort BIZ face măsurătorile la fața locului după semnarea contractului, înainte de fabricare.
 
 ### Ce se întâmplă cu etanșeitatea la vânt puternic?
-evolutionDrive Plus+ este certificat clasa B5 de rezistență la vânt — cel mai înalt nivel pentru sisteme PVC culisante. Etanșarea în toc elimină infiltrațiile de aer la presiune vânt.
+Etanșarea paralelă în toc face ca evolutionDrive Plus+ să fie mai etanș la vânt și la ploaia bătută de vânt decât glisantele clasice, după cum arată Salamander. La închidere, canatul se trage pe toc și presează garniturile pe tot perimetrul.
 
 ### Plasa plissé se poate monta și la ferestre obișnuite?
 Da — există modele plissé pentru ferestre osciloculisante și batante, cu dimensiuni mai mici. Cadrul se fixează pe extradosul tocului fără intervenție în tâmplărie.
@@ -28350,283 +28993,566 @@ Da — există modele plissé pentru ferestre osciloculisante și batante, cu di
 Consultați [gama de tâmplărie PVC Salamander](/ro/tamplarie-pvc) sau [accesoriile disponibile](/ro/accesorii). Solicită ofertă personalizată la **oferte@neofort-biz.ro** sau **+40 752 443 435 | L–V 10–18**.
 
 ### Cât de greu se manevrează un canat mare?
-Sistemul evolutionDrive Plus+ folosește role pe rulmenți, iar un canat de până la 200 kg se deplasează cu efort comparabil cu deschiderea unei uși obișnuite. Peste această greutate se recomandă acționare motorizată.
+Feroneria evolutionDrive Plus+ mută ușor canaturi de până la 200 kg, cu un efort comparabil cu deschiderea unei uși obișnuite. Sistemul este cu până la 25% mai ușor decât o ușă liftant-glisantă clasică.
 
 ---
 
-Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi). Pagini utile: [sistemul liftant-glisant Alumil S 350 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia) și [sistemul armonic Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme).`,
+Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi). Pentru deschideri și mai mari, vezi [sistemul liftant-glisant Alumil S 350 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia) și [sistemul armonic Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme).`,
 
-      en: `## Why sliding doors have become the standard for modern terraces and living rooms
+      en: `## Why the sliding door has become the standard for modern terraces and living rooms
 
-The dominant trend in residential architecture in Bucharest and Ilfov is **maximum openness** between interior and exterior. Day terraces, glass-wall living rooms, open-plan spaces — all require a joinery solution that provides **maximum glazed area**, **easy access** and **thermal insulation** without compromise.
+The dominant trend in residential architecture in Bucharest and Ilfov in recent years is **maximum openness** between inside and outside. Day terraces, living rooms with a glass wall, open-plan spaces — all of them call for joinery that offers a **maximum field of view**, **easy access** and **thermal insulation** without compromise.
 
-Salamander has taken this concept to the next level with the **evolutionDrive Plus+** system.
+The sliding door — unlike a tilt-and-slide or a swing door — meets all of these demands at once: it takes up no interior space when opened, allows very large glass panels and creates a smooth transition between spaces.
+
+Salamander has taken this concept to the next level with the **evolutionDrive Plus+** system, the most advanced sliding door solution in its range.
 
 ---
 
-## Salamander evolutionDrive Plus+ — what makes it different from classic sliding doors
+## Salamander evolutionDrive Plus+ — what sets it apart from classic sliding doors
 
-The key difference: **sealing into the frame**. Unlike classic sliding doors where the sash presses against a gasket, evolutionDrive Plus+ moves **parallel to the frame** and **seals into the frame** at the end of travel — similar to an aluminium HST door, but at PVC cost.
+The **evolutionDrive Plus+** system is a new generation compared with classic PVC sliding doors. The key difference: **sealing in the frame**.
 
-### Technical specifications evolutionDrive Plus+
+On classic sliding doors, sealing works by pressure — the sash presses on the gasket when closed, but while sliding there is a small play that lets air in. With evolutionDrive Plus+, the sash **moves parallel** to the frame and **seals into the frame** at the end — similar to a lift-and-slide door (HST), but up to 25% lighter and at a PVC price.
+
+### evolutionDrive Plus+ technical specifications
 
 | Parameter | Value |
 |---|---|
-| Frame depth | **76 mm** |
-| Sealing system | **Parallel frame sealing** |
-| Frame thermal coefficient Uf | **1.2 W/m²K** |
-| System thermal coefficient Uw | **down to 0.8 W/m²K** with triple glazing |
-| Acoustic insulation | **up to 42 dB** |
-| Wind resistance | **class B5** |
-| Burglar resistance | **RC 2** |
-| Max sash weight | **up to 400 kg** |
-| Max sash width | **up to 3.0 m** |
-| Max height | **up to 2.6 m** |
+| Installation depth | **152 mm** (with track) |
+| Profile | **5 chambers** |
+| Sealing system | **Parallel sealing into the frame** |
+| System coefficient Uw | **from 0.71 W/m²K** with triple glazing |
+| Sound insulation | **up to 44 dB** |
+| Burglar resistance | **up to RC 2** |
+| Maximum sash weight | **up to 200 kg** |
+| Maximum dimensions | **up to 4.0 × 2.6 m** |
+| Glazing compatibility | **up to 49 mm** (triple glazing included) |
+
+*Values depend on the configuration; we confirm them in the quote for your door.*
+
+### The sliding mechanism — why comfort matters
+
+The evolutionDrive Plus+ system uses **new-generation hardware**, developed by the hardware industry in response to higher demands for tightness. The sliding movement is **quiet and light** — even with sashes of up to 200 kg, the door opens with one hand, effortlessly.
+
+High-precision bearings and an extruded aluminium track ensure smooth travel throughout the system's life, without premature wear.
 
 ---
 
-## The plissé sliding screen — the solution for large terrace openings
+## The decisive advantages over swing doors and classic sliding doors
 
-A 2.5–3.0 m sliding door raises a practical issue: standard insect screens don't cover such large openings properly. The **plissé sliding screen** solves this elegantly with a folded mesh that compresses into compact pleats when open, covering the full width when closed.
+| Criterion | Swing door | Classic sliding door | evolutionDrive Plus+ |
+|---|---|---|---|
+| Free interior space | ❌ Takes up space | ✅ Takes up none | ✅ Takes up none |
+| Thermal tightness | ✅ Good | ⚠️ Medium | ✅ Excellent |
+| Field of view | ⚠️ Limited | ✅ Good | ✅ Maximum |
+| Maximum dimensions | ⚠️ Small | ⚠️ Medium | ✅ Very large |
+| Burglar resistance | RC 2–3 | RC 1 | **RC 2** |
 
-**Key advantages:** covers openings up to 3.0–4.0 m, opens from both ends, minimal visual obstruction, UV and moisture resistant.
+---
 
-Explore our full [Salamander PVC range](/en/pvc-windows) or see [indicative prices](/en/pvc-windows/prices).
+## The sliding plissé screen — the answer for large terrace openings
 
-**For a personalised quote:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**
+A sliding door 2.5–4.0 m wide raises a practical problem: classic insect screens (on a fixed frame or a roller) do not cover such large openings properly, or become awkward in daily use.
 
-## FAQ — evolutionDrive Plus+ sliding door
+The **sliding plissé screen** solves this problem elegantly:
 
-### Can it be fitted to an existing terrace?
-Yes, provided the opening allows a suitable threshold. The low threshold version needs 20 mm of depth in the floor screed; without it, a surface-mounted threshold is used, slightly raised.
+### How the plissé screen works
+
+The plissé system uses a **pleated mesh** (like a bellows), mounted on a frame with top and bottom tracks. When opened, the mesh folds into compact pleats at one end, taking up minimal space. When closed, it unfolds smoothly across the full width of the opening.
+
+### The advantages of a plissé screen over classic alternatives
+
+- **Large dimensions** — covers openings of up to 3.0–4.0 m without interruption
+- **Two-way** — the screen can be opened from both ends at the same time
+- **Appearance** — the slim frame and fine mesh do not visually block the glazed opening
+- **Durability** — the fibreglass or PVC-coated polyester mesh resists UV, moisture and mechanical wear
+- **Fitting without altering the joinery** — it is mounted on the outer face of the frame, on screwed-in tracks
+
+### Compatibility with evolutionDrive Plus+
+
+The plissé screen is fitted in the same opening as the sliding door, on its own frame. This allows independent use: you can open the door for access and keep the screen closed to keep insects out — ideal for summer evenings on the terrace.
+
+---
+
+## Professional installation — what Neofort BIZ includes
+
+Neofort BIZ installs the evolutionDrive Plus+ system in line with the **RAL guideline for installing windows and doors**, which involves:
+
+1. **Checking and levelling the threshold** — essential for correct sliding and a perfect seal
+2. **Fitting the guide track** — fixed with chemical anchors into the slab/floor
+3. **Adjusting the hardware** — setting the sash height for perfect contact along the whole gasket
+4. **Perimeter sealing** — butyl tape and controlled-expansion polyurethane foam at the frame-to-masonry joint
+5. **Fitting the plissé screen** — top and bottom tracks, mesh tension adjustment
+
+**Warranty:** full coverage of product and labour, confirmed by certificate.
+
+---
+
+## Frequently Asked Questions — evolutionDrive Plus+ and the plissé screen
+
+### Can it be installed on an existing terrace?
+Yes — the system adapts to existing openings. It needs a straight, solid threshold. Neofort BIZ takes on-site measurements after the contract is signed, before manufacturing.
 
 ### What happens to the seal in strong wind?
-The sash presses against the gasket when locked, not just when closed, so tightness holds in gusts. The system is tested to class 9A for water tightness and C4 for wind load.
+Parallel sealing into the frame makes evolutionDrive Plus+ tighter against wind and driving rain than classic sliding doors, as Salamander points out. When it closes, the sash is drawn onto the frame and presses the gaskets all the way round.
 
-### Can a plissé screen be fitted to ordinary windows too?
-Yes, the plissé runs on a bottom and top guide and can be adapted to any opening up to 4 m wide. On standard windows a roller screen is usually cheaper.
+### Can a plissé screen also be fitted to ordinary windows?
+Yes — there are plissé models for tilt-and-slide and swing windows, in smaller sizes. The frame is fixed to the outer face of the window frame without altering the joinery.
 
-### How much does an evolutionDrive Plus+ system with a plissé screen cost?
-For a two-panel opening of roughly 3 × 2.2 m, the range is 4,500–6,500 EUR depending on glazing, colour and hardware. The plissé screen adds 600–900 EUR.
+### What does an evolutionDrive Plus+ system with a plissé screen cost?
+See the [Salamander PVC joinery range](/en/pvc-windows) or the [accessories available](/en/accessories). Ask for a personalised quote at **oferte@neofort-biz.ro** or **+40 752 443 435 | Mon–Fri 10–18**.
 
-### How hard is a large sash to operate?
-The evolutionDrive Plus+ runs on bearing rollers, so a sash of up to 200 kg moves with about the effort of opening a normal door. Above that weight, motorised operation is recommended.
-
----
-
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile) and [PVC window prices](/en/pvc-windows/prices). Useful pages: [the Alumil S 350 SMARTIA lift-and-slide system](/en/products-alu/alumil-s350-smartia-lift-slide-system) and [the Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system).`,
-
-      de: `## Warum Schiebetüren zum Standard für moderne Terrassen geworden sind
-
-Der dominierende Trend in der Wohnarchitektur in Bukarest und Ilfov ist die **maximale Öffnung** zwischen Innen- und Außenbereich. Salamander hat dieses Konzept mit dem **evolutionDrive Plus+** System auf ein neues Niveau gehoben.
+### How hard is it to move a large sash?
+The evolutionDrive Plus+ hardware moves sashes of up to 200 kg easily, with effort comparable to opening an ordinary door. The system is up to 25% lighter than a classic lift-and-slide door.
 
 ---
 
-## Salamander evolutionDrive Plus+ — der entscheidende Unterschied
+Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). See also the [bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile) and [PVC window prices](/en/pvc-windows/prices). For even larger openings, see the [Alumil S 350 SMARTIA lift-and-slide system](/en/products-alu/alumil-s350-smartia-lift-slide-system) and the [Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system).`,
 
-Der wesentliche Unterschied: **Abdichtung im Blendrahmen**. Anders als bei klassischen Schiebetüren bewegt sich der Flügel **parallel zum Rahmen** und **dichtet im Blendrahmen ab** — ähnlich einer Aluminium-HST-Tür, aber zum Preis von PVC.
+      de: `## Warum die Schiebetür zum Standard für moderne Terrassen und Wohnzimmer geworden ist
+
+Der vorherrschende Trend in der Wohnarchitektur in Bukarest und Ilfov ist seit einigen Jahren die **maximale Öffnung** zwischen innen und außen. Wohnterrassen, Wohnzimmer mit Glaswand, offene Grundrisse — sie alle verlangen nach Fenstern und Türen mit **maximalem Sichtfeld**, **bequemem Zugang** und **Wärmedämmung** ohne Kompromisse.
+
+Die Schiebetür erfüllt — anders als eine Parallel-Schiebe-Kipp-Tür oder eine Drehtür — alle diese Anforderungen zugleich: Sie braucht beim Öffnen keinen Platz im Raum, erlaubt sehr große Glasflächen und schafft einen fließenden Übergang zwischen den Räumen.
+
+Salamander hat dieses Konzept mit dem System **evolutionDrive Plus+** auf die nächste Stufe gehoben, der fortschrittlichsten Schiebetürlösung im Sortiment.
+
+---
+
+## Salamander evolutionDrive Plus+ — was es von klassischen Schiebetüren unterscheidet
+
+Das System **evolutionDrive Plus+** ist eine neue Generation gegenüber klassischen PVC-Schiebetüren. Der entscheidende Unterschied: die **Abdichtung im Rahmen**.
+
+Bei klassischen Schiebetüren erfolgt die Abdichtung durch Anpressdruck — der Flügel drückt beim Schließen auf die Dichtung, beim Schieben gibt es jedoch ein kleines Spiel, durch das Luft eindringt. Bei evolutionDrive Plus+ **bewegt sich der Flügel parallel** zum Rahmen und **dichtet am Ende im Rahmen ab** — ähnlich wie eine Hebeschiebetür (HST), aber bis zu 25 % leichter und zum Preis von PVC.
 
 ### Technische Daten evolutionDrive Plus+
 
 | Parameter | Wert |
 |---|---|
-| Rahmeneinbautiefe | **76 mm** |
-| Dichtsystem | **Parallelabdichtung im Blendrahmen** |
-| Rahmen-Wärmedurchgang Uf | **1,2 W/m²K** |
-| System-Wärmedurchgang Uw | **bis zu 0,8 W/m²K** mit Dreifachverglasung |
-| Schalldämmung | **bis zu 42 dB** |
-| Windwiderstand | **Klasse B5** |
-| Einbruchschutz | **RC 2** |
-| Max. Flügelgewicht | **bis 400 kg** |
-| Max. Flügelbreite | **bis 3,0 m** |
+| Bautiefe | **152 mm** (mit Laufschiene) |
+| Profil | **5 Kammern** |
+| Dichtsystem | **Parallele Abdichtung im Rahmen** |
+| Systemwert Uw | **ab 0,71 W/m²K** mit Dreifachverglasung |
+| Schalldämmung | **bis 44 dB** |
+| Einbruchhemmung | **bis RC 2** |
+| Maximales Flügelgewicht | **bis 200 kg** |
+| Maximale Abmessungen | **bis 4,0 × 2,6 m** |
+| Glasstärke | **bis 49 mm** (inklusive Dreifachverglasung) |
+
+*Die Werte hängen von der Ausführung ab; für Ihre Tür bestätigen wir sie im Angebot.*
+
+### Der Schiebemechanismus — warum der Komfort zählt
+
+Das System evolutionDrive Plus+ nutzt einen **Beschlag der neuen Generation**, den die Beschlagindustrie als Antwort auf die gestiegenen Anforderungen an die Dichtheit entwickelt hat. Die Schiebebewegung ist **leise und leichtgängig** — selbst bei Flügeln bis 200 kg lässt sich die Tür mühelos mit einer Hand öffnen.
+
+Hochpräzise Lager und eine stranggepresste Aluminium-Laufschiene sorgen über die gesamte Lebensdauer für einen ruhigen Lauf ohne vorzeitigen Verschleiß.
 
 ---
 
-## Der Plissee-Insektenschutz — die Lösung für große Terrassenöffnungen
+## Die entscheidenden Vorteile gegenüber Drehtür und klassischer Schiebetür
 
-Ein 2,5–3,0 m breites Schiebesystem benötigt einen passenden Insektenschutz. Das **Plissee-Schiebegitter** löst dies elegant: Die gefaltete Insektenschutzbahn lässt sich auf engstem Raum zusammenschieben und entfaltet sich bei Bedarf auf die volle Breite des Öffnungsfeldes.
+| Kriterium | Drehtür | Klassische Schiebetür | evolutionDrive Plus+ |
+|---|---|---|---|
+| Freier Raum innen | ❌ Braucht Platz | ✅ Braucht keinen | ✅ Braucht keinen |
+| Dichtheit | ✅ Gut | ⚠️ Mittel | ✅ Hervorragend |
+| Sichtfeld | ⚠️ Begrenzt | ✅ Gut | ✅ Maximal |
+| Maximale Abmessungen | ⚠️ Klein | ⚠️ Mittel | ✅ Sehr groß |
+| Einbruchhemmung | RC 2–3 | RC 1 | **RC 2** |
 
-**Für ein persönliches Angebot:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18**
+---
 
-## FAQ — evolutionDrive Plus+ Schiebetür
+## Das Schiebe-Plissee — die Lösung für große Terrassenöffnungen
 
-### Lässt sie sich an einer bestehenden Terrasse nachrüsten?
-Ja, sofern die Öffnung eine passende Schwelle zulässt. Die Variante mit niedriger Schwelle benötigt 20 mm Tiefe im Estrich; ohne diese wird eine aufgesetzte, leicht erhöhte Schwelle verwendet.
+Eine 2,5–4,0 m breite Schiebetür bringt ein praktisches Problem mit sich: Klassische Insektenschutzgitter (im festen Rahmen oder als Rollo) decken so große Öffnungen nicht richtig ab oder werden im Alltag unpraktisch.
+
+Das **Schiebe-Plissee** löst dieses Problem elegant:
+
+### So funktioniert das Plissee
+
+Das Plissee-System nutzt ein **ziehharmonikaartig gefaltetes Gewebe** (wie ein Balg), das in einem Rahmen mit oberer und unterer Führungsschiene läuft. Beim Öffnen legt sich das Gewebe an einem Ende in kompakte Falten und braucht kaum Platz. Beim Schließen entfaltet es sich gleichmäßig über die ganze Breite der Öffnung.
+
+### Die Vorteile des Plissees gegenüber klassischen Lösungen
+
+- **Große Abmessungen** — deckt Öffnungen von bis zu 3,0–4,0 m ohne Unterbrechung ab
+- **Zwei Richtungen** — das Plissee lässt sich von beiden Enden gleichzeitig öffnen
+- **Optik** — der schlanke Rahmen und das feine Gewebe verdecken die Glasfläche kaum
+- **Haltbarkeit** — das Gewebe aus Glasfaser oder PVC-beschichtetem Polyester ist beständig gegen UV, Feuchtigkeit und mechanischen Verschleiß
+- **Montage ohne Eingriff in Fenster und Türen** — es wird auf der Außenseite des Rahmens auf verschraubten Schienen montiert
+
+### Kompatibilität mit evolutionDrive Plus+
+
+Das Plissee wird in derselben Öffnung wie die Schiebetür montiert, in einem eigenen Rahmen. So lassen sich beide unabhängig nutzen: Sie können die Tür für den Durchgang öffnen und das Plissee gegen Insekten geschlossen halten — ideal für Sommerabende auf der Terrasse.
+
+---
+
+## Die fachgerechte Montage — was Neofort BIZ umfasst
+
+Neofort BIZ montiert das System evolutionDrive Plus+ nach dem **RAL-Leitfaden zur Montage von Fenstern und Haustüren**, das heißt:
+
+1. **Prüfen und Ausrichten der Schwelle** — unerlässlich für sauberes Schieben und perfekte Dichtheit
+2. **Montage der Laufschiene** — Befestigung mit Verbundankern in Decke/Boden
+3. **Einstellen der Beschläge** — Justieren der Flügelhöhe für perfekten Kontakt entlang der gesamten Dichtung
+4. **Umlaufende Abdichtung** — Butylband und PU-Schaum mit kontrollierter Ausdehnung an der Fuge zwischen Rahmen und Mauerwerk
+5. **Montage des Plissees** — obere und untere Schienen, Einstellen der Gewebespannung
+
+**Garantie:** voller Schutz für Produkt und Arbeit, durch Zertifikat bestätigt.
+
+---
+
+## Häufig gestellte Fragen — evolutionDrive Plus+ und das Plissee
+
+### Kann sie auf einer bestehenden Terrasse eingebaut werden?
+Ja — das System passt sich an vorhandene Öffnungen an. Es braucht eine gerade, feste Schwelle. Neofort BIZ nimmt das Aufmaß vor Ort nach der Vertragsunterzeichnung, vor der Fertigung.
 
 ### Was passiert mit der Dichtheit bei starkem Wind?
-Der Flügel presst beim Verriegeln gegen die Dichtung, nicht nur beim Anlehnen, sodass die Dichtheit auch bei Böen hält. Das System ist auf Schlagregendichtheit 9A und Windlast C4 geprüft.
+Durch die parallele Abdichtung im Rahmen ist evolutionDrive Plus+ dichter gegen Wind und Schlagregen als klassische Schiebetüren, wie Salamander betont. Beim Schließen wird der Flügel an den Rahmen gezogen und presst die Dichtungen ringsum an.
 
-### Kann ein Plissee auch an normalen Fenstern montiert werden?
-Ja, das Plissee läuft in einer unteren und oberen Führung und lässt sich an Öffnungen bis 4 m Breite anpassen. Bei Standardfenstern ist ein Rollo meist günstiger.
+### Lässt sich ein Plissee auch an normalen Fenstern montieren?
+Ja — es gibt Plissee-Modelle für Parallel-Schiebe-Kipp- und Drehfenster in kleineren Größen. Der Rahmen wird ohne Eingriff in das Fenster auf der Außenseite des Fensterrahmens befestigt.
 
-### Was kostet ein evolutionDrive Plus+ System mit Plissee?
-Für eine zweiflügelige Öffnung von etwa 3 × 2,2 m liegt die Spanne bei 4.500–6.500 EUR, je nach Verglasung, Farbe und Beschlag. Das Plissee kommt mit 600–900 EUR hinzu.
+### Was kostet ein System evolutionDrive Plus+ mit Plissee?
+Sehen Sie sich das [Salamander-Kunststofffenster-Sortiment](/de/kunststofffenster-pvc) oder das [verfügbare Zubehör](/de/zubehoer) an. Fordern Sie ein individuelles Angebot an unter **oferte@neofort-biz.ro** oder **+40 752 443 435 | Mo–Fr 10–18 Uhr**.
 
 ### Wie schwer lässt sich ein großer Flügel bewegen?
-Der evolutionDrive Plus+ läuft auf Kugellagerrollen, ein Flügel bis 200 kg bewegt sich mit etwa dem Kraftaufwand einer normalen Tür. Darüber empfiehlt sich ein motorischer Antrieb.
+Der Beschlag von evolutionDrive Plus+ bewegt Flügel bis 200 kg leicht, mit einem Kraftaufwand wie beim Öffnen einer normalen Tür. Das System ist bis zu 25 % leichter als eine klassische Hebeschiebetür.
 
 ---
 
-Neofort BIZ fertigt und montiert Salamander PVC-Fenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie die [Salamander-PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den Vergleich bluEvolution 92 vs greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Nützliche Seiten: [Alumil S 350 SMARTIA Hebeschiebetür](/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem) und [Alumil SF 85 SUPREME Falttüren](/de/produkte-alu/alumil-sf85-supreme-faltsystem).`,
+Neofort BIZ fertigt und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Lesen Sie auch den [Vergleich bluEvolution 92 und greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [die Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Für noch größere Öffnungen sehen Sie sich die [Hebeschiebeanlage Alumil S 350 SMARTIA](/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem) und das [Faltsystem Alumil SF 85 SUPREME](/de/produkte-alu/alumil-sf85-supreme-faltsystem) an.`,
 
-      fr: `## Pourquoi les portes coulissantes sont devenues le standard des terrasses modernes
+      fr: `## Pourquoi la porte coulissante est devenue la norme pour les terrasses et les séjours modernes
 
-La tendance dominante dans l'architecture résidentielle à Bucarest et Ilfov est l'**ouverture maximale** entre intérieur et extérieur. Salamander a poussé ce concept à son apogée avec le système **evolutionDrive Plus+**.
+Ces dernières années, la tendance dominante de l’architecture résidentielle à Bucarest et dans l’Ilfov est l’**ouverture maximale** entre l’intérieur et l’extérieur. Terrasses de jour, séjours avec mur vitré, espaces ouverts — tous demandent une menuiserie qui offre un **champ de vision maximal**, un **accès facile** et une **isolation thermique** sans compromis.
+
+La porte coulissante — contrairement à la porte oscillo-coulissante ou battante — répond à toutes ces exigences à la fois : elle n’occupe pas d’espace intérieur à l’ouverture, permet de très grands vitrages et crée une transition fluide entre les espaces.
+
+Salamander a porté ce concept au niveau supérieur avec le système **evolutionDrive Plus+**, la solution de porte coulissante la plus avancée de sa gamme.
 
 ---
 
 ## Salamander evolutionDrive Plus+ — ce qui le distingue des coulissants classiques
 
-La différence essentielle : **l'étanchéité dans le dormant**. Contrairement aux portes coulissantes classiques, le vantail se déplace **en parallèle au dormant** et **s'étanche dans le dormant** en fin de course — similaire à une porte HST en aluminium, mais au prix du PVC.
+Le système **evolutionDrive Plus+** marque une nouvelle génération par rapport aux coulissants PVC classiques. La différence essentielle : l’**étanchéité dans le dormant**.
+
+Sur les coulissants classiques, l’étanchéité se fait par pression — le vantail appuie sur le joint à la fermeture, mais pendant le coulissement il subsiste un petit jeu qui laisse passer l’air. Avec evolutionDrive Plus+, le vantail **se déplace parallèlement** au dormant et **vient s’étancher dans le dormant** en fin de course — comme une porte à levage-coulissement (HST), mais jusqu’à 25 % plus légère et au prix du PVC.
 
 ### Caractéristiques techniques evolutionDrive Plus+
 
 | Paramètre | Valeur |
 |---|---|
-| Profondeur de cadre | **76 mm** |
-| Système d'étanchéité | **Étanchéité parallèle dans le dormant** |
-| Coefficient thermique cadre Uf | **1,2 W/m²K** |
-| Coefficient thermique système Uw | **jusqu'à 0,8 W/m²K** avec triple vitrage |
-| Isolation acoustique | **jusqu'à 42 dB** |
-| Résistance au vent | **classe B5** |
-| Résistance antieffraction | **RC 2** |
-| Poids max. vantail | **jusqu'à 400 kg** |
-| Largeur max. vantail | **jusqu'à 3,0 m** |
+| Profondeur de construction | **152 mm** (avec rail) |
+| Profilé | **5 chambres** |
+| Système d’étanchéité | **Étanchéité parallèle dans le dormant** |
+| Coefficient du système Uw | **à partir de 0,71 W/m²K** en triple vitrage |
+| Isolation acoustique | **jusqu’à 44 dB** |
+| Résistance à l’effraction | **jusqu’à RC 2** |
+| Poids maximal du vantail | **jusqu’à 200 kg** |
+| Dimensions maximales | **jusqu’à 4,0 × 2,6 m** |
+| Épaisseur de vitrage | **jusqu’à 49 mm** (triple vitrage compris) |
+
+*Les valeurs dépendent de la configuration ; nous les confirmons dans le devis pour votre porte.*
+
+### Le mécanisme de coulissement — pourquoi le confort compte
+
+Le système evolutionDrive Plus+ utilise une **quincaillerie de nouvelle génération**, conçue par les fabricants de quincaillerie pour répondre à des exigences d’étanchéité plus élevées. Le coulissement est **silencieux et léger** — même avec des vantaux jusqu’à 200 kg, la porte s’ouvre d’une seule main, sans effort.
+
+Des roulements de haute précision et un rail en aluminium extrudé assurent une course fluide pendant toute la durée de vie du système, sans usure prématurée.
 
 ---
 
-## La moustiquaire plissée — la solution pour les grandes ouvertures de terrasse
+## Les avantages décisifs face à la porte battante et au coulissant classique
 
-Une porte coulissante de 2,5–3,0 m nécessite une protection insectes adaptée. La **moustiquaire plissée coulissante** résout cela élégamment : la toile plissée se comprime en accordéon à une extrémité et se déploie sur toute la largeur à la fermeture.
+| Critère | Battante | Coulissant classique | evolutionDrive Plus+ |
+|---|---|---|---|
+| Espace libre intérieur | ❌ Occupe | ✅ N’occupe pas | ✅ N’occupe pas |
+| Étanchéité thermique | ✅ Bonne | ⚠️ Moyenne | ✅ Excellente |
+| Champ de vision | ⚠️ Limité | ✅ Bon | ✅ Maximal |
+| Dimensions maximales | ⚠️ Petites | ⚠️ Moyennes | ✅ Très grandes |
+| Anti-effraction | RC 2–3 | RC 1 | **RC 2** |
 
-**Pour un devis personnalisé :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
+---
 
-## FAQ — Porte coulissante evolutionDrive Plus+
+## La moustiquaire plissée coulissante — la solution pour les grandes ouvertures de terrasse
 
-### Peut-elle être posée sur une terrasse existante ?
-Oui, à condition que l’ouverture permette un seuil adapté. La version à seuil bas demande 20 mm de profondeur dans la chape ; à défaut, on pose un seuil en applique, légèrement surélevé.
+Une porte coulissante de 2,5 à 4,0 m de large pose un problème pratique : les moustiquaires classiques (sur cadre fixe ou à enroulement) couvrent mal des ouvertures aussi grandes, ou deviennent peu pratiques au quotidien.
 
-### Que devient l’étanchéité par vent fort ?
-Le vantail vient presser contre le joint lors du verrouillage, et pas seulement en position fermée : l’étanchéité tient donc dans les rafales. Le système est testé en classe 9A à l’eau et C4 au vent.
+La **moustiquaire plissée coulissante** règle ce problème avec élégance :
 
-### La moustiquaire plissée peut-elle équiper des fenêtres classiques ?
-Oui, le plissé coulisse dans un guide bas et haut et s’adapte à toute ouverture jusqu’à 4 m de large. Sur des fenêtres standard, une moustiquaire enroulable revient généralement moins cher.
+### Comment fonctionne la moustiquaire plissée
 
-### Combien coûte un système evolutionDrive Plus+ avec moustiquaire plissée ?
-Pour une ouverture à deux vantaux d’environ 3 × 2,2 m, comptez 4 500 à 6 500 EUR selon le vitrage, la teinte et la quincaillerie. La moustiquaire plissée ajoute 600 à 900 EUR.
+Le système plissé utilise une **toile pliée en accordéon** (comme un soufflet), montée sur un cadre avec rails haut et bas. À l’ouverture, la toile se replie en plis compacts à une extrémité et prend un minimum de place. À la fermeture, elle se déploie en douceur sur toute la largeur de la baie.
+
+### Les avantages de la moustiquaire plissée face aux solutions classiques
+
+- **Grandes dimensions** — couvre des ouvertures jusqu’à 3,0–4,0 m sans interruption
+- **Double sens** — la moustiquaire peut s’ouvrir des deux côtés à la fois
+- **Esthétique** — le cadre fin et la toile fine ne masquent pas la surface vitrée
+- **Résistance** — la toile en fibre de verre ou en polyester enduit de PVC résiste aux UV, à l’humidité et à l’usure mécanique
+- **Pose sans intervention sur la menuiserie** — elle se fixe sur la face extérieure du dormant, sur des rails vissés
+
+### Compatibilité avec evolutionDrive Plus+
+
+La moustiquaire plissée se pose dans la même baie que la porte coulissante, sur son propre cadre. Les deux s’utilisent ainsi indépendamment : vous pouvez ouvrir la porte pour passer et garder la moustiquaire fermée contre les insectes — idéal pour les soirées d’été en terrasse.
+
+---
+
+## La pose professionnelle — ce que comprend Neofort BIZ
+
+Neofort BIZ pose le système evolutionDrive Plus+ conformément au **guide RAL de pose des fenêtres et des portes**, ce qui comprend :
+
+1. **La vérification et la mise à niveau du seuil** — indispensable pour un coulissement correct et une étanchéité parfaite
+2. **La pose du rail de guidage** — fixation par chevilles chimiques dans la dalle/le sol
+3. **Le réglage de la quincaillerie** — ajustement de la hauteur des vantaux pour un contact parfait sur toute la longueur du joint
+4. **L’étanchéité périphérique** — bande butyle et mousse polyuréthane à expansion contrôlée à la jonction dormant–maçonnerie
+5. **La pose de la moustiquaire plissée** — rails haut et bas, réglage de la tension de la toile
+
+**Garantie :** complète sur le produit et la main-d’œuvre, confirmée par certificat.
+
+---
+
+## Questions fréquentes — evolutionDrive Plus+ et moustiquaire plissée
+
+### Peut-on l’installer sur une terrasse existante ?
+Oui — le système s’adapte aux baies existantes. Il faut un seuil droit et solide. Neofort BIZ prend les mesures sur place après la signature du contrat, avant la fabrication.
+
+### Qu’en est-il de l’étanchéité par vent fort ?
+L’étanchéité parallèle dans le dormant rend l’evolutionDrive Plus+ plus étanche au vent et à la pluie battante que les coulissants classiques, comme le souligne Salamander. À la fermeture, le vantail est ramené contre le dormant et comprime les joints sur tout le pourtour.
+
+### Une moustiquaire plissée peut-elle aussi équiper des fenêtres ordinaires ?
+Oui — il existe des modèles plissés pour fenêtres oscillo-coulissantes et battantes, en plus petites dimensions. Le cadre se fixe sur la face extérieure du dormant, sans intervention sur la menuiserie.
+
+### Quel est le prix d’un système evolutionDrive Plus+ avec moustiquaire plissée ?
+Consultez la [gamme de menuiserie PVC Salamander](/fr/menuiserie-pvc) ou les [accessoires disponibles](/fr/accessoires). Demandez un devis personnalisé à **oferte@neofort-biz.ro** ou au **+40 752 443 435 | Lun–Ven 10h–18h**.
 
 ### Un grand vantail est-il difficile à manœuvrer ?
-L’evolutionDrive Plus+ roule sur galets à roulements : un vantail jusqu’à 200 kg se déplace avec l’effort d’une porte ordinaire. Au-delà, la motorisation est conseillée.
+La quincaillerie evolutionDrive Plus+ déplace facilement des vantaux jusqu’à 200 kg, avec un effort comparable à l’ouverture d’une porte ordinaire. Le système est jusqu’à 25 % plus léger qu’une porte à levage-coulissement classique.
 
 ---
 
-Neofort BIZ fabrique et pose de la menuiserie PVC Salamander à Bucarest et Ilfov, avec livraison dans toute l’Europe. Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [la comparaison bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix). Pages utiles : [le système levant-coulissant Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia) et [le système pliant Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme).`,
+Neofort BIZ fabrique et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Lisez aussi la [comparaison bluEvolution 92 et greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix). Pour des ouvertures encore plus grandes, voyez le [système à levage-coulissement Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia) et le [système pliant Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme).`,
 
-      es: `## Por qué las puertas correderas se han convertido en el estándar para terrazas modernas
+      es: `## Por qué la puerta corredera se ha convertido en el estándar para terrazas y salones modernos
 
-La tendencia dominante en la arquitectura residencial en Bucarest e Ilfov es la **apertura máxima** entre interior y exterior. Salamander ha llevado este concepto al siguiente nivel con el sistema **evolutionDrive Plus+**.
+La tendencia dominante en la arquitectura residencial de Bucarest e Ilfov en los últimos años es la **apertura máxima** entre interior y exterior. Terrazas de día, salones con pared de vidrio, espacios diáfanos: todos piden una carpintería que ofrezca **máximo campo visual**, **acceso cómodo** y **aislamiento térmico** sin concesiones.
+
+La puerta corredera, a diferencia de la oscilo-paralela o la abatible, cumple todas estas exigencias a la vez: no ocupa espacio interior al abrirse, admite paños de vidrio muy grandes y crea una transición fluida entre espacios.
+
+Salamander ha llevado este concepto al siguiente nivel con el sistema **evolutionDrive Plus+**, la solución de puerta corredera más avanzada de su gama.
 
 ---
 
-## Salamander evolutionDrive Plus+ — qué lo diferencia de las correderas clásicas
+## Salamander evolutionDrive Plus+: qué lo diferencia de las correderas clásicas
 
-La diferencia esencial: **estanqueidad en el marco**. A diferencia de las puertas correderas clásicas, la hoja se desplaza **en paralelo al marco** y **se estanca en el marco** al final del recorrido — similar a una puerta HST de aluminio, pero al precio del PVC.
+El sistema **evolutionDrive Plus+** es una nueva generación frente a las correderas de PVC clásicas. La diferencia clave: el **sellado en el marco**.
 
-### Especificaciones técnicas evolutionDrive Plus+
+En las correderas clásicas, el sellado se consigue por presión: la hoja aprieta la junta al cerrar, pero durante el deslizamiento queda una pequeña holgura por la que entra aire. En evolutionDrive Plus+, la hoja **se desplaza en paralelo** al marco y **sella en el marco** al final del recorrido, de forma parecida a una corredera elevable (HST), pero hasta un 25 % más ligera y a precio de PVC.
+
+### Especificaciones técnicas de evolutionDrive Plus+
 
 | Parámetro | Valor |
 |---|---|
-| Profundidad de marco | **76 mm** |
-| Sistema de estanqueidad | **Estanqueidad paralela en el marco** |
-| Coeficiente térmico marco Uf | **1,2 W/m²K** |
-| Coeficiente térmico sistema Uw | **hasta 0,8 W/m²K** con triple acristalamiento |
-| Aislamiento acústico | **hasta 42 dB** |
-| Resistencia al viento | **clase B5** |
-| Resistencia antiintrusión | **RC 2** |
-| Peso máx. hoja | **hasta 400 kg** |
-| Anchura máx. hoja | **hasta 3,0 m** |
+| Profundidad de construcción | **152 mm** (con carril) |
+| Perfil | **5 cámaras** |
+| Sistema de sellado | **Sellado paralelo en el marco** |
+| Coeficiente del sistema Uw | **desde 0,71 W/m²K** con triple acristalamiento |
+| Aislamiento acústico | **hasta 44 dB** |
+| Resistencia antirrobo | **hasta RC 2** |
+| Peso máximo de la hoja | **hasta 200 kg** |
+| Dimensiones máximas | **hasta 4,0 × 2,6 m** |
+| Espesor de vidrio | **hasta 49 mm** (triple acristalamiento incluido) |
+
+*Los valores dependen de la configuración; para su puerta los confirmamos en el presupuesto.*
+
+### El mecanismo de deslizamiento: por qué importa la comodidad
+
+El sistema evolutionDrive Plus+ utiliza **herrajes de nueva generación**, desarrollados por la industria del herraje como respuesta a la mayor exigencia de estanqueidad. El deslizamiento es **silencioso y ligero**: incluso con hojas de hasta 200 kg, la puerta se abre con una sola mano, sin esfuerzo.
+
+Los rodamientos de alta precisión y el carril de aluminio extruido garantizan un recorrido suave durante toda la vida útil del sistema, sin desgaste prematuro.
 
 ---
 
-## La mosquitera plisada — la solución para grandes aperturas de terraza
+## Las ventajas decisivas frente a la puerta abatible y la corredera clásica
 
-Una puerta corredera de 2,5–3,0 m requiere una protección contra insectos adecuada. La **mosquitera plisada corredera** resuelve esto elegantemente: la red plisada se comprime en acordeón en un extremo y se despliega sobre todo el ancho al cerrar.
+| Criterio | Abatible | Corredera clásica | evolutionDrive Plus+ |
+|---|---|---|---|
+| Espacio interior libre | ❌ Ocupa | ✅ No ocupa | ✅ No ocupa |
+| Estanqueidad térmica | ✅ Buena | ⚠️ Media | ✅ Excelente |
+| Campo visual | ⚠️ Limitado | ✅ Bueno | ✅ Máximo |
+| Dimensiones máximas | ⚠️ Pequeñas | ⚠️ Medias | ✅ Muy grandes |
+| Antirrobo | RC 2–3 | RC 1 | **RC 2** |
 
-**Para un presupuesto personalizado:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18**
+---
 
-## FAQ — Puerta corredera evolutionDrive Plus+
+## La mosquitera plisada corredera: la solución para grandes huecos de terraza
 
-### ¿Se puede instalar en una terraza ya construida?
-Sí, siempre que el hueco permita un umbral adecuado. La versión de umbral bajo necesita 20 mm de profundidad en la solera; si no los hay, se coloca un umbral superpuesto, ligeramente elevado.
+Una puerta corredera de 2,5 a 4,0 m de ancho plantea un problema práctico: las mosquiteras clásicas (de marco fijo o enrollables) no cubren bien huecos tan grandes, o resultan incómodas en el uso diario.
+
+La **mosquitera plisada corredera** resuelve este problema con elegancia:
+
+### Cómo funciona la mosquitera plisada
+
+El sistema plisado utiliza una **malla plegada en acordeón** (como un fuelle), montada en un marco con carriles superior e inferior. Al abrirla, la malla se recoge en pliegues compactos en un extremo y ocupa el mínimo espacio. Al cerrarla, se despliega suavemente a lo ancho de todo el hueco.
+
+### Las ventajas de la mosquitera plisada frente a las alternativas clásicas
+
+- **Grandes dimensiones**: cubre huecos de hasta 3,0–4,0 m sin interrupción
+- **Doble sentido**: la mosquitera puede abrirse desde ambos extremos a la vez
+- **Estética**: el marco estrecho y la malla fina no tapan visualmente el hueco acristalado
+- **Resistencia**: la malla de fibra de vidrio o de poliéster recubierto de PVC resiste los rayos UV, la humedad y el desgaste mecánico
+- **Montaje sin tocar la carpintería**: se fija en la cara exterior del marco, sobre carriles atornillados
+
+### Compatibilidad con evolutionDrive Plus+
+
+La mosquitera plisada se monta en el mismo hueco que la puerta corredera, en su propio marco. Así pueden usarse de forma independiente: puede abrir la puerta para pasar y mantener la mosquitera cerrada frente a los insectos, ideal para las noches de verano en la terraza.
+
+---
+
+## La instalación profesional: qué incluye Neofort BIZ
+
+Neofort BIZ instala el sistema evolutionDrive Plus+ según la **guía RAL de montaje de ventanas y puertas**, lo que supone:
+
+1. **Comprobar y nivelar el umbral**: imprescindible para un deslizamiento correcto y un sellado perfecto
+2. **Montar el carril guía**: fijado con anclajes químicos al forjado o al suelo
+3. **Ajustar los herrajes**: regular la altura de las hojas para un contacto perfecto a lo largo de toda la junta
+4. **Sellado perimetral**: cinta de butilo y espuma de poliuretano de expansión controlada en la junta entre marco y obra
+5. **Montar la mosquitera plisada**: carriles superior e inferior, ajuste de la tensión de la malla
+
+**Garantía:** completa sobre producto y mano de obra, confirmada por certificado.
+
+---
+
+## Preguntas frecuentes — evolutionDrive Plus+ y mosquitera plisada
+
+### ¿Se puede instalar en una terraza existente?
+Sí, el sistema se adapta a los huecos existentes. Necesita un umbral recto y firme. Neofort BIZ toma las medidas in situ después de firmar el contrato, antes de fabricar.
 
 ### ¿Qué pasa con la estanqueidad con viento fuerte?
-La hoja presiona contra la junta al bloquearse, no solo al cerrar, de modo que la estanqueidad aguanta con rachas. El sistema está ensayado en clase 9A al agua y C4 a la carga de viento.
+El sellado paralelo en el marco hace que evolutionDrive Plus+ sea más estanco al viento y a la lluvia batiente que las correderas clásicas, como señala Salamander. Al cerrar, la hoja se lleva contra el marco y presiona las juntas en todo el perímetro.
 
-### ¿La mosquitera plisada sirve también para ventanas normales?
-Sí, la plisada corre por una guía inferior y otra superior y se adapta a huecos de hasta 4 m de ancho. En ventanas estándar suele salir más barata una enrollable.
+### ¿Se puede montar una mosquitera plisada también en ventanas normales?
+Sí, hay modelos plisados para ventanas oscilo-paralelas y abatibles, de menor tamaño. El marco se fija en la cara exterior del marco de la ventana sin tocar la carpintería.
 
-### ¿Cuánto cuesta un sistema evolutionDrive Plus+ con mosquitera plisada?
-Para un hueco de dos hojas de unos 3 × 2,2 m, la horquilla es de 4.500–6.500 EUR según acristalamiento, color y herrajes. La mosquitera plisada añade 600–900 EUR.
+### ¿Cuál es el precio de un sistema evolutionDrive Plus+ con mosquitera plisada?
+Consulte la [gama de carpintería de PVC Salamander](/es/carpinteria-pvc) o los [accesorios disponibles](/es/accesorios). Pida un presupuesto personalizado en **oferte@neofort-biz.ro** o en el **+40 752 443 435 | Lun–Vie 10–18 h**.
 
-### ¿Cuesta mover una hoja grande?
-El evolutionDrive Plus+ rueda sobre rodamientos: una hoja de hasta 200 kg se desplaza con el esfuerzo de abrir una puerta normal. Por encima, se recomienda accionamiento motorizado.
-
----
-
-Neofort BIZ fabrica e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round) y [los precios de la carpintería PVC](/es/carpinteria-pvc/precios). Páginas útiles: [el sistema elevable-corredero Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia) y [el sistema plegable Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme).`,
-
-      it: `## Perché le porte scorrevoli sono diventate lo standard per le terrazze moderne
-
-La tendenza dominante nell'architettura residenziale a Bucarest e Ilfov — ma anche a Roma e Milano — è la **massima apertura** tra interno ed esterno. Salamander ha portato questo concetto al livello successivo con il sistema **evolutionDrive Plus+**.
+### ¿Cuesta mucho mover una hoja grande?
+Los herrajes de evolutionDrive Plus+ mueven con facilidad hojas de hasta 200 kg, con un esfuerzo comparable al de abrir una puerta normal. El sistema es hasta un 25 % más ligero que una corredera elevable clásica.
 
 ---
 
-## Salamander evolutionDrive Plus+ — cosa lo distingue dagli scorrevoli classici
+Neofort BIZ fabrica e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Lea también la [comparación entre bluEvolution 92 y greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round) y [los precios de la carpintería de PVC](/es/carpinteria-pvc/precios). Para huecos aún mayores, vea el [sistema de corredera elevable Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia) y el [sistema plegable Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme).`,
 
-La differenza essenziale: **tenuta nel telaio fisso**. A differenza delle porte scorrevoli classiche, l'anta si sposta **in parallelo al telaio** e **si sigilla nel telaio** a fine corsa — simile a una porta HST in alluminio, ma al costo del PVC.
+      it: `## Perché la porta scorrevole è diventata lo standard per terrazze e soggiorni moderni
+
+La tendenza dominante nell’architettura residenziale di Bucarest e dell’Ilfov degli ultimi anni è la **massima apertura** tra interno ed esterno. Terrazze da vivere, soggiorni con parete vetrata, open space: tutti chiedono serramenti che offrano **massimo campo visivo**, **accesso comodo** e **isolamento termico** senza compromessi.
+
+La porta scorrevole, a differenza di quella a ribalta scorrevole o a battente, risponde a tutte queste esigenze insieme: non occupa spazio interno quando si apre, consente vetrate molto grandi e crea un passaggio fluido tra gli ambienti.
+
+Salamander ha portato questo concetto al livello successivo con il sistema **evolutionDrive Plus+**, la soluzione scorrevole più avanzata della sua gamma.
+
+---
+
+## Salamander evolutionDrive Plus+: cosa lo distingue dagli scorrevoli classici
+
+Il sistema **evolutionDrive Plus+** è una nuova generazione rispetto agli scorrevoli in PVC classici. La differenza fondamentale: la **tenuta nel telaio**.
+
+Negli scorrevoli classici la tenuta si ottiene per pressione: l’anta preme sulla guarnizione in chiusura, ma durante lo scorrimento resta un piccolo gioco da cui passa l’aria. Con evolutionDrive Plus+ l’anta **scorre parallela** al telaio e **chiude a tenuta nel telaio** a fine corsa, in modo simile a un alzante scorrevole (HST), ma fino al 25% più leggera e a prezzo da PVC.
 
 ### Specifiche tecniche evolutionDrive Plus+
 
 | Parametro | Valore |
 |---|---|
-| Profondità del telaio | **76 mm** |
+| Profondità di ingombro | **152 mm** (con binario) |
+| Profilo | **5 camere** |
 | Sistema di tenuta | **Tenuta parallela nel telaio** |
-| Coefficiente termico telaio Uf | **1,2 W/m²K** |
-| Coefficiente termico sistema Uw | **fino a 0,8 W/m²K** con triplo vetro |
-| Isolamento acustico | **fino a 42 dB** |
-| Resistenza al vento | **classe B5** |
-| Resistenza all'effrazione | **RC 2** |
-| Peso max. anta | **fino a 400 kg** |
-| Larghezza max. anta | **fino a 3,0 m** |
+| Coefficiente di sistema Uw | **da 0,71 W/m²K** con vetro triplo |
+| Isolamento acustico | **fino a 44 dB** |
+| Resistenza all’effrazione | **fino a RC 2** |
+| Peso massimo dell’anta | **fino a 200 kg** |
+| Dimensioni massime | **fino a 4,0 × 2,6 m** |
+| Spessore del vetro | **fino a 49 mm** (vetro triplo incluso) |
+
+*I valori dipendono dalla configurazione; per la vostra porta li confermiamo nel preventivo.*
+
+### Il meccanismo di scorrimento: perché il comfort conta
+
+Il sistema evolutionDrive Plus+ usa una **ferramenta di nuova generazione**, sviluppata dall’industria della ferramenta per rispondere a requisiti di tenuta più elevati. Lo scorrimento è **silenzioso e leggero**: anche con ante fino a 200 kg la porta si apre con una mano, senza sforzo.
+
+Cuscinetti di alta precisione e un binario in alluminio estruso garantiscono una corsa fluida per tutta la vita del sistema, senza usura prematura.
 
 ---
 
-## La zanzariera plissé — la soluzione per grandi aperture su terrazza
+## I vantaggi decisivi rispetto alla porta a battente e allo scorrevole classico
 
-Una porta scorrevole di 2,5–3,0 m richiede una protezione antizanzare adeguata. La **zanzariera plissé scorrevole** risolve questo in modo elegante: la rete a soffietto si comprime in un'estremità e si estende sull'intera larghezza alla chiusura.
+| Criterio | A battente | Scorrevole classico | evolutionDrive Plus+ |
+|---|---|---|---|
+| Spazio interno libero | ❌ Ingombra | ✅ Non ingombra | ✅ Non ingombra |
+| Tenuta termica | ✅ Buona | ⚠️ Media | ✅ Eccellente |
+| Campo visivo | ⚠️ Limitato | ✅ Buono | ✅ Massimo |
+| Dimensioni massime | ⚠️ Piccole | ⚠️ Medie | ✅ Molto grandi |
+| Antieffrazione | RC 2–3 | RC 1 | **RC 2** |
 
-**Per un preventivo personalizzato:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
+---
 
-## FAQ — Porta scorrevole evolutionDrive Plus+
+## La zanzariera plissé scorrevole: la soluzione per le grandi aperture sulla terrazza
+
+Una porta scorrevole larga da 2,5 a 4,0 m pone un problema pratico: le zanzariere classiche (a telaio fisso o avvolgibili) non coprono bene aperture così grandi, oppure diventano scomode nell’uso quotidiano.
+
+La **zanzariera plissé scorrevole** risolve questo problema con eleganza:
+
+### Come funziona la zanzariera plissé
+
+Il sistema plissé usa una **rete pieghettata a fisarmonica** (come un mantice), montata su un telaio con binari superiore e inferiore. In apertura la rete si raccoglie in pieghe compatte a un’estremità, occupando pochissimo spazio. In chiusura si distende in modo uniforme su tutta la larghezza del vano.
+
+### I vantaggi della zanzariera plissé rispetto alle alternative classiche
+
+- **Grandi dimensioni**: copre aperture fino a 3,0–4,0 m senza interruzioni
+- **Doppio senso**: la zanzariera si può aprire da entrambi i lati contemporaneamente
+- **Estetica**: il telaio sottile e la rete fine non coprono la vetrata
+- **Resistenza**: la rete in fibra di vetro o in poliestere rivestito in PVC resiste a raggi UV, umidità e usura meccanica
+- **Montaggio senza intervenire sul serramento**: si fissa sul lato esterno del telaio, su binari avvitati
+
+### Compatibilità con evolutionDrive Plus+
+
+La zanzariera plissé si monta nello stesso vano della porta scorrevole, su un telaio proprio. Così le due si usano in modo indipendente: potete aprire la porta per passare e tenere la zanzariera chiusa contro gli insetti, l’ideale per le serate estive in terrazza.
+
+---
+
+## La posa professionale: cosa comprende Neofort BIZ
+
+Neofort BIZ posa il sistema evolutionDrive Plus+ secondo la **guida RAL per la posa di finestre e porte**, che prevede:
+
+1. **Verifica e livellamento della soglia**: indispensabile per uno scorrimento corretto e una tenuta perfetta
+2. **Montaggio del binario di guida**: fissato con ancoranti chimici nel solaio o nel pavimento
+3. **Regolazione della ferramenta**: taratura dell’altezza delle ante per un contatto perfetto lungo tutta la guarnizione
+4. **Sigillatura perimetrale**: nastro butilico e schiuma poliuretanica a espansione controllata nel giunto tra telaio e muratura
+5. **Montaggio della zanzariera plissé**: binari superiore e inferiore, regolazione della tensione della rete
+
+**Garanzia:** completa su prodotto e manodopera, confermata da certificato.
+
+---
+
+## Domande frequenti — evolutionDrive Plus+ e zanzariera plissé
 
 ### Si può installare su una terrazza esistente?
-Sì, purché il vano consenta una soglia adeguata. La versione a soglia ribassata richiede 20 mm di profondità nel massetto; in mancanza, si usa una soglia in appoggio, leggermente rialzata.
+Sì, il sistema si adatta ai vani esistenti. Serve una soglia dritta e solida. Neofort BIZ esegue il rilievo misure in loco dopo la firma del contratto, prima della produzione.
 
-### Che cosa succede alla tenuta con vento forte?
-L’anta preme contro la guarnizione al momento del blocco, non solo in chiusura, quindi la tenuta regge anche con le raffiche. Il sistema è testato in classe 9A all’acqua e C4 al carico del vento.
+### Cosa succede alla tenuta con vento forte?
+La tenuta parallela nel telaio rende evolutionDrive Plus+ più ermetico al vento e alla pioggia battente rispetto agli scorrevoli classici, come sottolinea Salamander. In chiusura l’anta viene accostata al telaio e comprime le guarnizioni su tutto il perimetro.
 
 ### La zanzariera plissé si può montare anche su finestre normali?
-Sì, la plissé scorre su una guida inferiore e una superiore e si adatta ad aperture fino a 4 m di larghezza. Su finestre standard una avvolgibile costa di norma meno.
+Sì, esistono modelli plissé per finestre a ribalta scorrevole e a battente, in misure più piccole. Il telaio si fissa sul lato esterno del telaio della finestra senza intervenire sul serramento.
 
 ### Quanto costa un sistema evolutionDrive Plus+ con zanzariera plissé?
-Per un vano a due ante di circa 3 × 2,2 m la forbice è di 4.500–6.500 EUR secondo vetro, colore e ferramenta. La zanzariera plissé aggiunge 600–900 EUR.
+Consultate la [gamma di infissi in PVC Salamander](/it/infissi-pvc) o gli [accessori disponibili](/it/accessori). Chiedete un preventivo personalizzato a **oferte@neofort-biz.ro** o al **+40 752 443 435 | Lun–Ven 10–18**.
 
-### Quanto è faticoso muovere un’anta grande?
-L’evolutionDrive Plus+ scorre su rulli a cuscinetti: un’anta fino a 200 kg si sposta con lo sforzo di una porta normale. Oltre quel peso si consiglia la motorizzazione.
+### È faticoso muovere un’anta grande?
+La ferramenta di evolutionDrive Plus+ muove con facilità ante fino a 200 kg, con uno sforzo paragonabile all’apertura di una porta normale. Il sistema è fino al 25% più leggero di un alzante scorrevole classico.
 
 ---
 
-Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, con consegna in tutta Europa. Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi). Pagine utili: [l'alzante scorrevole Alumil S 350 SMARTIA](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia) e [il sistema a libro Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme).`,
+Neofort BIZ produce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Leggete anche il [confronto tra bluEvolution 92 e greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi). Per aperture ancora più grandi, vedete l’[alzante scorrevole Alumil S 350 SMARTIA](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia) e il [sistema pieghevole Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme).`,
     },
   },
 
