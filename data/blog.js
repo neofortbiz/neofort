@@ -9125,9 +9125,9 @@ Neofort BIZ fornisce entrambi i profili Salamander — greenEvolution 76 e bluEv
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     category: { ro:'Sisteme Umbrire', en:'Shading Systems', de:'Beschattungssysteme', fr:"Systèmes d'occultation", es:'Sistemas de sombreado', it:'Sistemi di oscuramento' },
     title: {
-      ro: 'Pergolă Bioclimatică vs Pergolă Clasică — Ghid Complet Alegere 2026',
+      ro: 'Pergolă bioclimatică vs clasică — ghid de alegere 2026',
       en: 'Bioclimatic vs Classic Pergola — Complete Buying Guide 2026',
-      de: 'Bioklimatische vs klassische Pergola — Vollständiger Kaufratgeber 2026',
+      de: 'Bioklimatische vs. klassische Pergola — Ratgeber 2026',
       fr: 'Pergola Bioclimatique vs Pergola Classique — Guide Complet 2026',
       es: 'Pérgola Bioclimática vs Pérgola Clásica — Guía Completa 2026',
       it: 'Pergola Bioclimatica vs Pergola Classica — Guida Completa 2026',
@@ -9156,74 +9156,78 @@ Neofort BIZ fornisce entrambi i profili Salamander — greenEvolution 76 e bluEv
     content: {
       ro: `## Pergolă bioclimatică vs pergolă clasică — ce diferențe contează cu adevărat?
 
-Dacă ai o terasă și vrei să o acoperiți, vei întâlni rapid două categorii mari de pergole: **pergola bioclimatică** (cu lamele din aluminiu orientabile) și **pergola clasică** (cu pânză retractabilă, manual sau automată). Ambele au avantaje clare, dar pentru terase diferite. Ghidul de față îți explică diferențele reale — nu doar tehnice, ci și practice și financiare.
+Dacă ai o terasă și vrei să o acoperi, vei întâlni rapid două categorii mari de pergole: **pergola bioclimatică** (cu lamele din aluminiu orientabile) și **pergola clasică** (cu pânză retractabilă, manuală sau motorizată). Ambele au avantaje clare, dar pentru terase diferite. Ghidul de față îți explică diferențele reale — nu doar tehnice, ci și practice și financiare.
+
+La Neofort BIZ montăm pergole clasice cu pânză retractabilă și motor Somfy. Le prezentăm totuși pe amândouă cinstit, ca să poți alege în cunoștință de cauză.
 
 ## Ce este pergola bioclimatică?
 
-Pergola bioclimatică are un acoperiș format din lamele din aluminiu extrudat care se pot roti între 0° și 120°. Când sunt închise, lamelele formează un acoperiș etanș care evacuează apa de ploaie prin profile. Când sunt deschise, ventilează spațiul de dedesubt. Structura este permanentă, din aluminiu anodizat sau vopsit în câmp electrostatic.
+Pergola bioclimatică are un acoperiș format din lamele din aluminiu extrudat care se pot roti. Când sunt închise, lamelele formează un acoperiș etanș care evacuează apa de ploaie prin profile. Când sunt deschise, ventilează spațiul de dedesubt. Structura este permanentă, din aluminiu anodizat sau vopsit în câmp electrostatic.
 
 **Avantaje pergolă bioclimatică:**
-- Acoperiș permanent — nu depinde de vreme pentru a fi utilizabil
-- Evacuare apă integrată în profile — funcționează în ploaie fără pânză
-- Reglaj luminos fin prin orientarea lamelelor
-- Durabilitate superioară — structură rigidă, fără pânză care se uzează
-- Posibilitate de integrare panouri laterale, sisteme de iluminat și încălzire infraroșu
+- Acoperiș permanent — poate fi folosită indiferent de vreme
+- Evacuarea apei integrată în profile — funcționează în ploaie, fără pânză
+- Reglaj fin al luminii prin orientarea lamelelor
+- Durabilitate ridicată — structură rigidă, fără pânză care se uzează
+- Se pot adăuga panouri laterale, iluminat și încălzire cu infraroșu
 
 **Dezavantaje pergolă bioclimatică:**
-- Preț semnificativ mai ridicat față de pergola clasică (2–4× mai scumpă)
+- Preț mult mai ridicat decât al pergolei clasice — de obicei de 1,5–3 ori mai scumpă
 - Instalare mai complexă — necesită fundații sau ancore solide
-- Greutate mai mare — nu se potrivește tuturor structurilor existente
+- Greutate mai mare — nu se potrivește oricărei structuri existente
 
 ## Ce este pergola clasică cu pânză retractabilă?
 
-Pergola clasică cu pânză retractabilă (inclusiv modelele Somfy cu motor Pergola RGS io) folosește o pânză impermeabilă întinsă pe o structură din aluminiu, care se poate retrage manual sau electric. Pânza acoperă terasa când e nevoie și dispare când vrei lumină naturală.
+Pergola clasică cu pânză retractabilă (inclusiv modelele cu motor Somfy Pergola RGS io) folosește o pânză impermeabilă întinsă pe o structură din aluminiu, care se poate retrage manual sau electric. Pânza acoperă terasa când e nevoie și se strânge când vrei lumină naturală.
 
 **Avantaje pergolă clasică cu pânză:**
 - Preț accesibil față de pergola bioclimatică
 - Greutate redusă — se montează și pe structuri mai ușoare
-- Automatizare facilă cu motoare Somfy (Pergola 50/60 RGS io)
-- Protecție solară excelentă — pânze UPF 50+
-- Retragere completă — terasa rămâne complet deschisă când pânza e retrasă
+- Automatizare simplă cu motoare Somfy (Pergola 50/60 RGS io)
+- Protecție solară foarte bună — pânze UPF 50+
+- Retragere completă — terasa rămâne complet deschisă când pânza e strânsă
 
 **Dezavantaje pergolă clasică cu pânză:**
-- Nu funcționează în ploaie puternică — pânza trebuie retrasă
-- Pânza se uzează în timp (durata de viață medie: 8–12 ani)
-- Mai puțin spectaculoasă vizual față de bioclimatică
+- Nu e făcută pentru ploaie torențială sau vânt puternic — atunci pânza se strânge
+- Pânza se uzează în timp și se înlocuiește după câțiva ani, în funcție de expunere
+- Mai puțin spectaculoasă vizual decât o pergolă bioclimatică
 
 ## Comparație directă prețuri 2026
 
 | Criteriu | Bioclimatică | Clasică cu pânză Somfy |
 |---|---|---|
-| Preț montaj (4×3 m) | 8.000–18.000 EUR | 2.500–5.000 EUR |
+| Preț cu montaj (4 × 3 m) | 8.000–18.000 EUR | circa 6.000 EUR |
 | Durabilitate structură | 20–30 ani | 20–30 ani |
-| Durabilitate pânză | — | 8–12 ani |
-| Funcționare în ploaie | ✅ Da | ❌ Nu |
-| Automatizare | Opțional | ✅ Somfy RGS io |
-| Smart Home | Opțional | ✅ TaHoma Switch |
+| Durabilitate pânză | — | Se înlocuiește periodic |
+| Funcționare în ploaie | ✅ Da | ⚠️ Doar ploaie ușoară |
+| Automatizare | Motor pentru lamele | ✅ Somfy Pergola RGS io |
+| Smart Home | După producător | ✅ TaHoma Switch |
+
+*Prețuri orientative fără TVA. Prețul pergolei cu pânză este cel de pe pagina noastră de prețuri; intervalul pentru pergola bioclimatică este un reper de piață.*
 
 ## Când alegi pergola bioclimatică?
 
-Pergola bioclimatică e potrivită dacă: terasa e utilizată tot sezonul (și când plouă), bugetul permite o investiție premium, vrei o soluție permanentă fără piese consumabile și dacă structura pe care o montezi suportă greutatea.
+Pergola bioclimatică e potrivită dacă terasa e folosită tot sezonul, inclusiv când plouă, dacă bugetul permite o investiție premium, dacă vrei o soluție permanentă, fără piese consumabile, și dacă structura pe care o montezi suportă greutatea.
 
 ## Când alegi pergola clasică cu pânză Somfy?
 
-Pergola cu pânză Somfy e alegerea corectă dacă: terasa e acoperită în perioadele de soare intens, bugetul e mediu, vrei automatizare completă cu protecție la vânt (retragere automată la > 50 km/h) și integrare smart home cu TaHoma Switch, Alexa sau Google Home.
+Pergola cu pânză Somfy e alegerea corectă dacă vrei umbră în perioadele cu soare puternic, dacă bugetul e mediu și dacă vrei automatizare completă: senzorul de vânt Sunis Wirefree II io strânge singur pânza la rafale de peste 50 km/h, iar TaHoma Switch te lasă să o comanzi din telefon, cu Alexa sau cu Google Home. Sistemul Somfy deschide până la 5 m lățime și 4 m proiecție.
 
 ## Concluzie
 
-Nu există un răspuns universal. **Pergola bioclimatică** câștigă la versatilitate și durabilitate totală, dar costă semnificativ mai mult. **Pergola clasică cu pânză Somfy** câștigă la raport calitate-preț, automatizare și flexibilitate. La Neofort BIZ furnizăm și montăm pergole cu pânză automatizate Somfy — motor Pergola 50/60 RGS io, pânze impermeabile UPF 50+, configurare TaHoma inclus.
+Nu există un răspuns universal. **Pergola bioclimatică** câștigă la versatilitate și durabilitate, dar costă mult mai mult. **Pergola clasică cu pânză Somfy** câștigă la raportul calitate-preț, la automatizare și la flexibilitate. La Neofort BIZ furnizăm și montăm pergole cu pânză automatizate Somfy — motor Pergola 50/60 RGS io, pânze impermeabile UPF 50+ și configurare TaHoma inclusă.
 
-[Solicită ofertă pergolă automată Somfy](/ro/umbrire/pergole-automate-somfy)
+- [Solicită ofertă pentru o pergolă automată Somfy](/ro/umbrire/pergole-automate-somfy)
 
 ## Întrebări frecvente
 
 ### Care e diferența între pergola bioclimatică și cea clasică?
 
-Pergola bioclimatică are acoperiș din lamele de aluminiu orientabile între 0° și 120°, cu evacuare integrată a apei — funcționează permanent, inclusiv în ploaie. Pergola clasică folosește o pânză retractabilă (manual sau electric) care se strânge când vrei lumină naturală.
+Pergola bioclimatică are acoperiș din lamele de aluminiu orientabile, cu evacuare integrată a apei — se poate folosi și când plouă. Pergola clasică folosește o pânză retractabilă (manuală sau electrică) care se strânge când vrei lumină naturală.
 
 ### De ce e pergola bioclimatică mai scumpă decât cea clasică?
 
-Pergola bioclimatică costă de 2-4 ori mai mult pentru că are structură permanentă din aluminiu, lamele extrudate orientabile, sistem integrat de evacuare a apei și instalare mai complexă cu fundații sau ancore solide. În schimb oferă durabilitate superioară și utilizare în orice vreme.
+Pergola bioclimatică costă de obicei de 1,5-3 ori mai mult pentru că are structură permanentă din aluminiu, lamele extrudate orientabile, sistem integrat de evacuare a apei și instalare mai complexă, cu fundații sau ancore solide. În schimb oferă durabilitate ridicată și poate fi folosită pe orice vreme.
 
 ### Funcționează pergola bioclimatică pe ploaie?
 
@@ -9231,264 +9235,465 @@ Da. Când lamelele de aluminiu sunt închise, formează un acoperiș etanș care
 
 ### Ce pergolă să aleg pentru terasa mea?
 
-Pergola bioclimatică e ideală pentru utilizare permanentă, terase folosite tot anul și buget mai mare. Pergola clasică cu pânză retractabilă (ex. Somfy Pergola RGS io) e potrivită pentru buget accesibil și terase folosite sezonier, oferind umbră flexibilă când e nevoie.
+Pergola bioclimatică e potrivită pentru folosire permanentă, terase folosite tot anul și un buget mai mare. Pergola clasică cu pânză retractabilă (de exemplu cu motor Somfy Pergola RGS io) e potrivită pentru un buget mediu și terase folosite mai ales vara, oferind umbră flexibilă când e nevoie.
+
+### Cât costă o pergolă cu pânză Somfy de 4 × 3 m?
+
+La Neofort BIZ, o pergolă automată Somfy de 4 × 3 m costă circa 6.000 EUR cu montaj, fără TVA. Prețul final depinde de dimensiuni, de pânza aleasă și de felul montajului, iar oferta personalizată o primești în 48 de ore.
 
 ---
 
-Neofort BIZ montează pergole bioclimatice și clasice, cu automatizare Somfy, în București și Ilfov. Află mai multe despre [rulourile și jaluzelele exterioare](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet). Pagini utile: [pergolele automate Somfy](/ro/umbrire/pergole-automate-somfy) și [ghidul complet al sistemelor de umbrire](/ro/umbrire/ghid-complet-sisteme-umbrire).`,
-      en: `## Bioclimatic vs classic pergola — what differences really matter?
+Neofort BIZ montează pergole cu pânză și automatizare Somfy, în București și Ilfov. Află mai multe despre [rulourile și jaluzelele exterioare](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet). Pagini utile: [pergolele automate Somfy](/ro/umbrire/pergole-automate-somfy) și [ghidul complet al sistemelor de umbrire](/ro/umbrire/ghid-complet-sisteme-umbrire).`,
+      en: `## Bioclimatic pergola vs classic pergola — which differences really matter?
 
-If you have a terrace and want to cover it, you will quickly encounter two main categories of pergolas: the **bioclimatic pergola** (with orientable aluminium louvres) and the **classic pergola** (with retractable fabric, manual or motorised). Both have clear advantages, but for different terraces.
+If you have a terrace and want to cover it, you will quickly come across two big categories of pergola: the **bioclimatic pergola** (with adjustable aluminium louvres) and the **classic pergola** (with a retractable fabric, manual or motorised). Both have clear advantages, but for different terraces. This guide explains the real differences — not only technical, but practical and financial too.
+
+At Neofort BIZ we install classic pergolas with a retractable fabric and a Somfy motor. We still present both honestly, so you can choose with full knowledge.
 
 ## What is a bioclimatic pergola?
 
-A bioclimatic pergola has a roof made of extruded aluminium louvres that can rotate between 0° and 120°. When closed, the louvres form a watertight roof that channels rainwater through the profiles. When open, they ventilate the space below. The structure is permanent, in anodised or powder-coated aluminium.
+A bioclimatic pergola has a roof made of extruded aluminium louvres that can rotate. When closed, the louvres form a watertight roof that drains rainwater through the profiles. When open, they ventilate the space underneath. The structure is permanent, in anodised or powder-coated aluminium.
 
-**Bioclimatic pergola advantages:**
-- Permanent roof — not weather-dependent for use
-- Integrated water drainage — works in rain without fabric
-- Fine light adjustment through louvre orientation
-- Superior durability — rigid structure, no fabric wearing out
+**Advantages of a bioclimatic pergola:**
+- Permanent roof — it can be used whatever the weather
+- Water drainage built into the profiles — it works in the rain, without fabric
+- Fine light control by angling the louvres
+- High durability — a rigid structure, with no fabric to wear out
+- Side panels, lighting and infrared heating can be added
 
-**Bioclimatic pergola disadvantages:**
-- Significantly higher price than classic pergola (2–4× more expensive)
-- More complex installation — requires solid foundations or anchors
+**Disadvantages of a bioclimatic pergola:**
+- A much higher price than a classic pergola — usually 1.5–3 times more expensive
+- More complex installation — it needs solid foundations or anchors
+- Heavier — it does not suit every existing structure
 
-## What is a classic retractable fabric pergola?
+## What is a classic pergola with retractable fabric?
 
-A classic retractable fabric pergola (including Somfy models with Pergola RGS io motor) uses waterproof fabric stretched over an aluminium structure, which can be retracted manually or electrically.
+A classic pergola with retractable fabric (including models with a Somfy Pergola RGS io motor) uses a waterproof fabric stretched over an aluminium structure, which can be retracted by hand or electrically. The fabric covers the terrace when needed and folds away when you want natural light.
 
-**Classic fabric pergola advantages:**
-- Accessible price compared to bioclimatic pergola
-- Easy automation with Somfy motors (Pergola 50/60 RGS io)
-- Excellent solar protection — UPF 50+ fabrics
-- Complete retraction — terrace fully open when fabric is retracted
+**Advantages of a classic fabric pergola:**
+- An affordable price compared with a bioclimatic pergola
+- Low weight — it can be fitted to lighter structures too
+- Simple automation with Somfy motors (Pergola 50/60 RGS io)
+- Very good sun protection — UPF 50+ fabrics
+- Full retraction — the terrace is completely open when the fabric is folded away
 
-## Price comparison 2026
+**Disadvantages of a classic fabric pergola:**
+- Not made for torrential rain or strong wind — the fabric is then retracted
+- The fabric wears over time and is replaced after a few years, depending on exposure
+- Less visually striking than a bioclimatic pergola
+
+## Direct price comparison 2026
 
 | Criterion | Bioclimatic | Classic with Somfy fabric |
 |---|---|---|
-| Installation price (4×3 m) | 8,000–18,000 EUR | 2,500–5,000 EUR |
+| Price with installation (4 × 3 m) | 8,000–18,000 EUR | about 6,000 EUR |
 | Structure durability | 20–30 years | 20–30 years |
-| Fabric durability | — | 8–12 years |
-| Works in rain | ✅ Yes | ❌ No |
-| Automation | Optional | ✅ Somfy RGS io |
-| Smart Home | Optional | ✅ TaHoma Switch |
+| Fabric durability | — | Replaced periodically |
+| Works in the rain | ✅ Yes | ⚠️ Light rain only |
+| Automation | Motor for the louvres | ✅ Somfy Pergola RGS io |
+| Smart Home | Depends on the manufacturer | ✅ TaHoma Switch |
+
+*Indicative prices excluding VAT. The price of the fabric pergola is the one on our price page; the range for the bioclimatic pergola is a market benchmark.*
+
+## When should you choose a bioclimatic pergola?
+
+A bioclimatic pergola is right if the terrace is used all season, including when it rains, if the budget allows a premium investment, if you want a permanent solution with no consumable parts, and if the structure you are fitting it to can carry the weight.
+
+## When should you choose a classic pergola with Somfy fabric?
+
+A Somfy fabric pergola is the right choice if you want shade in periods of strong sun, if the budget is medium and if you want full automation: the Sunis Wirefree II io wind sensor retracts the fabric by itself in gusts above 50 km/h, and TaHoma Switch lets you control it from your phone, with Alexa or with Google Home. The Somfy system opens up to 5 m wide with a 4 m projection.
 
 ## Conclusion
 
-**Bioclimatic pergola** wins on versatility and total durability but costs significantly more. **Classic Somfy fabric pergola** wins on value for money, automation and flexibility. Neofort BIZ supplies and installs Somfy automatic pergolas — Pergola 50/60 RGS io motor, UPF 50+ waterproof fabrics, TaHoma configuration included.
+There is no universal answer. The **bioclimatic pergola** wins on versatility and durability, but costs much more. The **classic pergola with Somfy fabric** wins on value for money, automation and flexibility. At Neofort BIZ we supply and install Somfy automated fabric pergolas — Pergola 50/60 RGS io motor, UPF 50+ waterproof fabrics and TaHoma setup included.
 
-[Request a Somfy automatic pergola quote](/en/shading-systems/somfy-automatic-pergolas)
+- [Request a quote for a Somfy automatic pergola](/en/shading-systems/somfy-automatic-pergolas)
 
 ## Frequently Asked Questions
 
 ### What is the difference between a bioclimatic and a classic pergola?
 
-A bioclimatic pergola has a roof of aluminium slats adjustable between 0° and 120°, with integrated water drainage — it works permanently, including in rain. A classic pergola uses a retractable fabric (manual or electric) that folds away when you want natural light.
+A bioclimatic pergola has a roof of adjustable aluminium louvres with built-in water drainage — it can be used even when it rains. A classic pergola uses a retractable fabric (manual or electric) that folds away when you want natural light.
 
 ### Why is a bioclimatic pergola more expensive than a classic one?
 
-A bioclimatic pergola costs 2-4 times more because it has a permanent aluminium structure, adjustable extruded slats, an integrated water-drainage system and more complex installation with foundations or solid anchors. In return it offers superior durability and all-weather use.
+A bioclimatic pergola usually costs 1.5-3 times more because it has a permanent aluminium structure, adjustable extruded louvres, a built-in water drainage system and a more complex installation, with solid foundations or anchors. In return it offers high durability and can be used in any weather.
 
 ### Does a bioclimatic pergola work in the rain?
 
-Yes. When the aluminium slats are closed, they form a watertight roof that drains rainwater through the profiles, without fabric. When open, they ventilate the space below. This is the main advantage over a classic pergola, which depends on fabric for protection.
+Yes. When the aluminium louvres are closed, they form a watertight roof that drains rainwater through the profiles, without fabric. When open, they ventilate the space underneath. This is the main advantage over a classic pergola, which relies on fabric for protection.
 
 ### Which pergola should I choose for my terrace?
 
-A bioclimatic pergola is ideal for permanent use, terraces used year-round and a larger budget. A classic pergola with retractable fabric (e.g. Somfy Pergola RGS io) suits an affordable budget and seasonally used terraces, offering flexible shade when needed.
+A bioclimatic pergola suits permanent use, terraces used all year round and a bigger budget. A classic pergola with retractable fabric (for example with a Somfy Pergola RGS io motor) suits a medium budget and terraces used mostly in summer, giving flexible shade when needed.
+
+### How much does a 4 × 3 m Somfy fabric pergola cost?
+
+At Neofort BIZ, a 4 × 3 m Somfy automatic pergola costs about 6,000 EUR with installation, excluding VAT. The final price depends on the size, the fabric chosen and the type of installation, and you get a personalised quote within 48 hours.
 
 ---
 
-Neofort BIZ installs bioclimatic and classic pergolas, with Somfy automation, in Bucharest and Ilfov. Learn more about [the exterior roller shutters and blinds](/en/shading-systems) we offer or [request a quote](/en/contact). See also [the complete guide to exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide). Useful pages: [Somfy automatic pergolas](/en/shading-systems/somfy-automatic-pergolas) and [the complete shading systems guide](/en/shading-systems/complete-guide).`,
-      de: `## Bioklimatische vs klassische Pergola — welche Unterschiede zählen wirklich?
+Neofort BIZ installs fabric pergolas with Somfy automation in Bucharest and Ilfov. Find out more about the [exterior shutters and blinds](/en/shading-systems) we offer or [request a quote](/en/contact). See also the [complete guide to exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide). Useful pages: [Somfy automatic pergolas](/en/shading-systems/somfy-automatic-pergolas) and the [complete guide to shading systems](/en/shading-systems/complete-guide).`,
+      de: `## Bioklimatische Pergola vs. klassische Pergola — welche Unterschiede wirklich zählen
 
-Beim Überdachen einer Terrasse begegnen Sie schnell zwei Hauptkategorien: der **bioklimatischen Pergola** (mit verstellbaren Aluminiumlamellen) und der **klassischen Pergola** (mit einziehbarem Markisentuch, manuell oder motorisiert).
+Wenn Sie eine Terrasse haben und sie überdachen möchten, stoßen Sie schnell auf zwei große Pergola-Kategorien: die **bioklimatische Pergola** (mit verstellbaren Aluminiumlamellen) und die **klassische Pergola** (mit einziehbarem Tuch, manuell oder motorisiert). Beide haben klare Vorteile, aber für unterschiedliche Terrassen. Dieser Ratgeber erklärt die echten Unterschiede — nicht nur technische, sondern auch praktische und finanzielle.
+
+Neofort BIZ montiert klassische Pergolen mit einziehbarem Tuch und Somfy-Motor. Wir stellen trotzdem beide ehrlich vor, damit Sie in voller Kenntnis entscheiden können.
 
 ## Was ist eine bioklimatische Pergola?
 
-Eine bioklimatische Pergola hat ein Dach aus Aluminiumlamellen, die sich zwischen 0° und 120° drehen lassen. Geschlossen bilden sie ein wasserdichtes Dach; offen belüften sie den Raum darunter.
+Die bioklimatische Pergola hat ein Dach aus stranggepressten Aluminiumlamellen, die sich drehen lassen. Geschlossen bilden die Lamellen ein dichtes Dach, das Regenwasser über die Profile ableitet. Geöffnet belüften sie den Raum darunter. Die Konstruktion ist fest installiert, aus eloxiertem oder pulverbeschichtetem Aluminium.
 
-**Vorteile bioklimatische Pergola:**
-- Permanentes Dach — nutzbar bei jedem Wetter
-- Integrierte Wasserableitung — funktioniert im Regen
-- Überlegene Langlebigkeit — keine verschleißenden Tücher
+**Vorteile der bioklimatischen Pergola:**
+- Festes Dach — nutzbar bei jedem Wetter
+- In die Profile integrierte Wasserableitung — funktioniert bei Regen, ohne Tuch
+- Feine Lichtregelung durch Verstellen der Lamellen
+- Hohe Haltbarkeit — starre Konstruktion, kein Tuch, das verschleißt
+- Seitenwände, Beleuchtung und Infrarotheizung lassen sich ergänzen
 
-**Nachteile bioklimatische Pergola:**
-- Deutlich höherer Preis (2–4× teurer als klassische Pergola)
-- Komplexere Installation mit stabilen Fundamenten
+**Nachteile der bioklimatischen Pergola:**
+- Deutlich höherer Preis als bei der klassischen Pergola — meist 1,5- bis 3-mal so teuer
+- Aufwendigere Montage — erfordert solide Fundamente oder Verankerungen
+- Höheres Gewicht — passt nicht zu jeder bestehenden Konstruktion
 
-## Was ist eine klassische Pergola mit Somfy Motor?
+## Was ist eine klassische Pergola mit einziehbarem Tuch?
 
-Eine klassische Markisenpergola (Somfy Pergola 50/60 RGS io) verwendet wasserdichtes Tuch auf einer Aluminiumstruktur, das manuell oder elektrisch eingezogen wird.
+Die klassische Pergola mit einziehbarem Tuch (auch Modelle mit Somfy-Motor Pergola RGS io) nutzt ein wasserdichtes Tuch, das über eine Aluminiumkonstruktion gespannt ist und sich von Hand oder elektrisch einfahren lässt. Das Tuch überdeckt die Terrasse bei Bedarf und wird eingefahren, wenn Sie Tageslicht möchten.
 
-**Vorteile klassische Pergola:**
+**Vorteile der klassischen Tuchpergola:**
 - Günstiger Preis im Vergleich zur bioklimatischen Pergola
-- Einfache Automatisierung mit Somfy-Motoren
-- Automatisches Einfahren bei Wind > 50 km/h
-- TaHoma Smart Home Integration
+- Geringes Gewicht — auch auf leichteren Konstruktionen montierbar
+- Einfache Automatisierung mit Somfy-Motoren (Pergola 50/60 RGS io)
+- Sehr guter Sonnenschutz — Tücher mit UPF 50+
+- Vollständiges Einfahren — die Terrasse ist ganz offen, wenn das Tuch eingefahren ist
 
-## Preisvergleich 2026
+**Nachteile der klassischen Tuchpergola:**
+- Nicht für Starkregen oder starken Wind gemacht — dann wird das Tuch eingefahren
+- Das Tuch verschleißt mit der Zeit und wird je nach Beanspruchung nach einigen Jahren ersetzt
+- Optisch weniger eindrucksvoll als eine bioklimatische Pergola
 
-| Kriterium | Bioklimatisch | Klassisch Somfy |
+## Direkter Preisvergleich 2026
+
+| Kriterium | Bioklimatisch | Klassisch mit Somfy-Tuch |
 |---|---|---|
-| Montagepreis (4×3 m) | 8.000–18.000 EUR | 2.500–5.000 EUR |
-| Nutzbar im Regen | ✅ Ja | ❌ Nein |
-| Automatisierung | Optional | ✅ Somfy RGS io |
-| Smart Home | Optional | ✅ TaHoma Switch |
+| Preis mit Montage (4 × 3 m) | 8.000–18.000 EUR | etwa 6.000 EUR |
+| Haltbarkeit der Konstruktion | 20–30 Jahre | 20–30 Jahre |
+| Haltbarkeit des Tuchs | — | Wird regelmäßig ersetzt |
+| Nutzung bei Regen | ✅ Ja | ⚠️ Nur leichter Regen |
+| Automatisierung | Motor für die Lamellen | ✅ Somfy Pergola RGS io |
+| Smart Home | Je nach Hersteller | ✅ TaHoma Switch |
 
-Neofort BIZ liefert und installiert Somfy-Automatikpergolen in Bukarest und Ilfov — Motor Pergola RGS io, UV-Schutz UPF 50+, TaHoma-Konfiguration inklusive.
+*Richtpreise ohne MwSt. Der Preis der Tuchpergola stammt von unserer Preisseite; die Spanne für die bioklimatische Pergola ist ein Marktrichtwert.*
 
-[Somfy Automatikpergola anfragen](/de/beschattungssysteme/somfy-automatische-pergolen)
+## Wann wählen Sie die bioklimatische Pergola?
+
+Die bioklimatische Pergola passt, wenn die Terrasse die ganze Saison genutzt wird, auch bei Regen, wenn das Budget eine Premiuminvestition zulässt, wenn Sie eine dauerhafte Lösung ohne Verschleißteile möchten und wenn die Konstruktion, an der sie montiert wird, das Gewicht trägt.
+
+## Wann wählen Sie die klassische Pergola mit Somfy-Tuch?
+
+Die Tuchpergola von Somfy ist die richtige Wahl, wenn Sie Schatten bei starker Sonne möchten, das Budget mittel ist und Sie eine vollständige Automatisierung wollen: Der Windsensor Sunis Wirefree II io fährt das Tuch bei Böen über 50 km/h selbst ein, und mit TaHoma Switch steuern Sie es per Smartphone, mit Alexa oder mit Google Home. Das Somfy-System öffnet bis zu 5 m Breite bei 4 m Ausladung.
+
+## Fazit
+
+Eine allgemeingültige Antwort gibt es nicht. Die **bioklimatische Pergola** punktet bei Vielseitigkeit und Haltbarkeit, kostet aber deutlich mehr. Die **klassische Pergola mit Somfy-Tuch** punktet beim Preis-Leistungs-Verhältnis, bei der Automatisierung und bei der Flexibilität. Neofort BIZ liefert und montiert automatisierte Tuchpergolen von Somfy — Motor Pergola 50/60 RGS io, wasserdichte Tücher mit UPF 50+ und TaHoma-Einrichtung inklusive.
+
+- [Angebot für eine automatische Somfy-Pergola anfordern](/de/beschattungssysteme/somfy-automatische-pergolen)
 
 ## Häufig gestellte Fragen
 
-### Was ist der Unterschied zwischen einer bioklimatischen und einer klassischen Pergola?
+### Was ist der Unterschied zwischen bioklimatischer und klassischer Pergola?
 
-Eine bioklimatische Pergola hat ein Dach aus Aluminiumlamellen, verstellbar zwischen 0° und 120°, mit integrierter Wasserableitung — sie funktioniert dauerhaft, auch im Regen. Eine klassische Pergola nutzt ein einziehbares Tuch (manuell oder elektrisch), das sich zusammenfaltet, wenn man natürliches Licht möchte.
+Die bioklimatische Pergola hat ein Dach aus verstellbaren Aluminiumlamellen mit integrierter Wasserableitung — sie ist auch bei Regen nutzbar. Die klassische Pergola nutzt ein einziehbares Tuch (manuell oder elektrisch), das eingefahren wird, wenn Sie Tageslicht möchten.
 
-### Warum ist eine bioklimatische Pergola teurer als eine klassische?
+### Warum ist die bioklimatische Pergola teurer als die klassische?
 
-Eine bioklimatische Pergola kostet 2-4 mal mehr, weil sie eine dauerhafte Aluminiumstruktur, verstellbare extrudierte Lamellen, ein integriertes Wasserableitsystem und eine komplexere Installation mit Fundamenten oder festen Ankern hat. Dafür bietet sie überlegene Haltbarkeit und Allwetternutzung.
+Die bioklimatische Pergola kostet meist 1,5- bis 3-mal so viel, weil sie eine feste Aluminiumkonstruktion, verstellbare stranggepresste Lamellen, eine integrierte Wasserableitung und eine aufwendigere Montage mit soliden Fundamenten oder Verankerungen hat. Dafür bietet sie hohe Haltbarkeit und ist bei jedem Wetter nutzbar.
 
-### Funktioniert eine bioklimatische Pergola im Regen?
+### Funktioniert die bioklimatische Pergola bei Regen?
 
-Ja. Wenn die Aluminiumlamellen geschlossen sind, bilden sie ein wasserdichtes Dach, das Regenwasser durch die Profile ableitet, ohne Tuch. Wenn geöffnet, belüften sie den Raum darunter. Das ist der Hauptvorteil gegenüber einer klassischen Pergola, die für den Schutz auf das Tuch angewiesen ist.
+Ja. Geschlossen bilden die Aluminiumlamellen ein dichtes Dach, das Regenwasser über die Profile ableitet, ohne Tuch. Geöffnet belüften sie den Raum darunter. Das ist der Hauptvorteil gegenüber der klassischen Pergola, die für den Schutz auf das Tuch angewiesen ist.
 
-### Welche Pergola soll ich für meine Terrasse wählen?
+### Welche Pergola passt zu meiner Terrasse?
 
-Eine bioklimatische Pergola ist ideal für dauerhafte Nutzung, ganzjährig genutzte Terrassen und ein größeres Budget. Eine klassische Pergola mit einziehbarem Tuch (z. B. Somfy Pergola RGS io) passt zu einem erschwinglichen Budget und saisonal genutzten Terrassen und bietet flexiblen Schatten bei Bedarf.
+Die bioklimatische Pergola eignet sich für dauerhafte Nutzung, ganzjährig genutzte Terrassen und ein größeres Budget. Die klassische Pergola mit einziehbarem Tuch (zum Beispiel mit Somfy-Motor Pergola RGS io) passt zu einem mittleren Budget und Terrassen, die vor allem im Sommer genutzt werden, und spendet flexibel Schatten, wenn er gebraucht wird.
+
+### Was kostet eine Somfy-Tuchpergola von 4 × 3 m?
+
+Bei Neofort BIZ kostet eine automatische Somfy-Pergola von 4 × 3 m etwa 6.000 EUR mit Montage, ohne MwSt. Der Endpreis hängt von den Maßen, dem gewählten Tuch und der Montageart ab; ein individuelles Angebot erhalten Sie innerhalb von 48 Stunden.
 
 ---
 
-Neofort BIZ montiert bioklimatische und klassische Pergolen mit Somfy-Automatisierung in Bukarest und Ilfov. Erfahren Sie mehr über [die Außenrollläden und Jalousien](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber zu Außenbeschattungssystemen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden). Nützliche Seiten: [Somfy-Pergolen](/de/beschattungssysteme/somfy-automatische-pergolen) und [Ratgeber Beschattungssysteme](/de/beschattungssysteme/kompletter-ratgeber).`,
-      fr: `## Pergola bioclimatique vs pergola classique — quelles différences comptent vraiment ?
+Neofort BIZ montiert Tuchpergolen mit Somfy-Automatisierung in Bukarest und Ilfov. Erfahren Sie mehr über die [Außenrollläden und Jalousien](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Lesen Sie auch den [vollständigen Leitfaden zu Außenbeschattungssystemen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden). Nützliche Seiten: [automatische Somfy-Pergolen](/de/beschattungssysteme/somfy-automatische-pergolen) und der [vollständige Ratgeber zu Beschattungssystemen](/de/beschattungssysteme/kompletter-ratgeber).`,
+      fr: `## Pergola bioclimatique ou pergola classique — quelles différences comptent vraiment ?
 
-Pour couvrir une terrasse, vous rencontrerez rapidement deux catégories : la **pergola bioclimatique** (à lames en aluminium orientables) et la **pergola classique** (à toile rétractable, manuelle ou motorisée).
+Si vous avez une terrasse et voulez la couvrir, vous tomberez vite sur deux grandes familles de pergolas : la **pergola bioclimatique** (à lames orientables en aluminium) et la **pergola classique** (à toile rétractable, manuelle ou motorisée). Les deux ont des avantages nets, mais pour des terrasses différentes. Ce guide explique les vraies différences — techniques, mais aussi pratiques et financières.
+
+Chez Neofort BIZ, nous posons des pergolas classiques à toile rétractable avec moteur Somfy. Nous présentons pourtant les deux honnêtement, pour que vous choisissiez en connaissance de cause.
+
+## Qu’est-ce qu’une pergola bioclimatique ?
+
+La pergola bioclimatique a un toit fait de lames en aluminium extrudé qui pivotent. Fermées, les lames forment un toit étanche qui évacue l’eau de pluie par les profilés. Ouvertes, elles ventilent l’espace en dessous. La structure est fixe, en aluminium anodisé ou thermolaqué.
+
+**Avantages de la pergola bioclimatique :**
+- Toit permanent — utilisable quel que soit le temps
+- Évacuation de l’eau intégrée aux profilés — fonctionne sous la pluie, sans toile
+- Réglage fin de la lumière en orientant les lames
+- Grande durabilité — structure rigide, sans toile qui s’use
+- Possibilité d’ajouter des panneaux latéraux, un éclairage et un chauffage infrarouge
+
+**Inconvénients de la pergola bioclimatique :**
+- Un prix nettement plus élevé que celui d’une pergola classique — en général 1,5 à 3 fois plus chère
+- Une pose plus complexe — elle exige des fondations ou des ancrages solides
+- Un poids plus important — elle ne convient pas à toutes les structures existantes
+
+## Qu’est-ce qu’une pergola classique à toile rétractable ?
+
+La pergola classique à toile rétractable (y compris les modèles à moteur Somfy Pergola RGS io) utilise une toile imperméable tendue sur une structure en aluminium, qui se rétracte à la main ou électriquement. La toile couvre la terrasse au besoin et se replie quand vous voulez de la lumière naturelle.
+
+**Avantages de la pergola classique à toile :**
+- Un prix abordable par rapport à la pergola bioclimatique
+- Un poids réduit — elle se pose aussi sur des structures plus légères
+- Une automatisation simple avec les moteurs Somfy (Pergola 50/60 RGS io)
+- Une très bonne protection solaire — toiles UPF 50+
+- Un repli complet — la terrasse est entièrement ouverte quand la toile est repliée
+
+**Inconvénients de la pergola classique à toile :**
+- Elle n’est pas faite pour les pluies torrentielles ni le vent fort — la toile se replie alors
+- La toile s’use avec le temps et se remplace au bout de quelques années, selon l’exposition
+- Moins spectaculaire visuellement qu’une pergola bioclimatique
 
 ## Comparaison directe des prix 2026
 
-| Critère | Bioclimatique | Classique toile Somfy |
+| Critère | Bioclimatique | Classique à toile Somfy |
 |---|---|---|
-| Prix installation (4×3 m) | 8.000–18.000 EUR | 2.500–5.000 EUR |
-| Fonctionne sous la pluie | ✅ Oui | ❌ Non |
-| Automatisation | En option | ✅ Somfy RGS io |
-| Maison connectée | En option | ✅ TaHoma Switch |
+| Prix pose comprise (4 × 3 m) | 8 000–18 000 EUR | environ 6 000 EUR |
+| Durabilité de la structure | 20–30 ans | 20–30 ans |
+| Durabilité de la toile | — | Remplacée périodiquement |
+| Fonctionnement sous la pluie | ✅ Oui | ⚠️ Pluie légère seulement |
+| Automatisation | Moteur pour les lames | ✅ Somfy Pergola RGS io |
+| Maison connectée | Selon le fabricant | ✅ TaHoma Switch |
 
-**Avantages pergola bioclimatique :** toit permanent, évacuation eau intégrée, durabilité supérieure, pas de toile à remplacer.
+*Prix indicatifs hors TVA. Le prix de la pergola à toile est celui de notre page de prix ; la fourchette de la pergola bioclimatique est un repère de marché.*
 
-**Avantages pergola classique Somfy :** prix accessible, automatisation complète (retrait automatique vent > 50 km/h), intégration TaHoma, Alexa et Google Home.
+## Quand choisir la pergola bioclimatique ?
 
-Neofort BIZ fournit et installe des pergolas automatiques Somfy à Bucarest et en Ilfov — moteur Pergola RGS io, toile imperméable UPF 50+, configuration TaHoma incluse.
+La pergola bioclimatique convient si la terrasse sert toute la saison, y compris sous la pluie, si le budget permet un investissement haut de gamme, si vous voulez une solution permanente sans pièces d’usure et si la structure sur laquelle vous la posez supporte le poids.
 
-[Demander un devis pergola automatique Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy)
+## Quand choisir la pergola classique à toile Somfy ?
+
+La pergola à toile Somfy est le bon choix si vous voulez de l’ombre par fort soleil, si le budget est moyen et si vous voulez une automatisation complète : le capteur de vent Sunis Wirefree II io replie seul la toile en cas de rafales de plus de 50 km/h, et TaHoma Switch vous permet de la commander depuis votre téléphone, avec Alexa ou Google Home. Le système Somfy ouvre jusqu’à 5 m de large pour 4 m d’avancée.
+
+## Conclusion
+
+Il n’existe pas de réponse universelle. La **pergola bioclimatique** l’emporte sur la polyvalence et la durabilité, mais coûte bien plus cher. La **pergola classique à toile Somfy** l’emporte sur le rapport qualité-prix, l’automatisation et la flexibilité. Chez Neofort BIZ, nous fournissons et posons des pergolas à toile automatisées Somfy — moteur Pergola 50/60 RGS io, toiles imperméables UPF 50+ et paramétrage TaHoma compris.
+
+- [Demandez un devis pour une pergola automatique Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy)
 
 ## Questions fréquentes
 
-### Quelle est la différence entre une pergola bioclimatique et classique ?
+### Quelle est la différence entre une pergola bioclimatique et une pergola classique ?
 
-Une pergola bioclimatique a un toit en lames d'aluminium orientables entre 0° et 120°, avec évacuation d'eau intégrée — elle fonctionne en permanence, y compris sous la pluie. Une pergola classique utilise une toile rétractable (manuelle ou électrique) qui se replie quand on veut de la lumière naturelle.
+La pergola bioclimatique a un toit de lames en aluminium orientables avec évacuation de l’eau intégrée — on peut s’en servir même quand il pleut. La pergola classique utilise une toile rétractable (manuelle ou électrique) qui se replie quand vous voulez de la lumière naturelle.
 
-### Pourquoi une pergola bioclimatique est-elle plus chère qu'une classique ?
+### Pourquoi la pergola bioclimatique est-elle plus chère que la classique ?
 
-Une pergola bioclimatique coûte 2 à 4 fois plus cher car elle a une structure permanente en aluminium, des lames extrudées orientables, un système d'évacuation d'eau intégré et une installation plus complexe avec fondations ou ancrages solides. En retour, elle offre une durabilité supérieure et un usage par tous les temps.
+La pergola bioclimatique coûte en général 1,5 à 3 fois plus cher, car elle a une structure fixe en aluminium, des lames extrudées orientables, un système intégré d’évacuation de l’eau et une pose plus complexe, avec fondations ou ancrages solides. En échange, elle offre une grande durabilité et s’utilise par tous les temps.
 
-### Une pergola bioclimatique fonctionne-t-elle sous la pluie ?
+### La pergola bioclimatique fonctionne-t-elle sous la pluie ?
 
-Oui. Quand les lames en aluminium sont fermées, elles forment un toit étanche qui évacue l'eau de pluie par les profilés, sans toile. Quand elles sont ouvertes, elles ventilent l'espace en dessous. C'est l'avantage principal sur une pergola classique, qui dépend de la toile pour la protection.
+Oui. Fermées, les lames en aluminium forment un toit étanche qui évacue l’eau de pluie par les profilés, sans toile. Ouvertes, elles ventilent l’espace en dessous. C’est son principal avantage sur la pergola classique, qui dépend de la toile pour la protection.
 
 ### Quelle pergola choisir pour ma terrasse ?
 
-Une pergola bioclimatique est idéale pour un usage permanent, des terrasses utilisées toute l'année et un budget plus élevé. Une pergola classique à toile rétractable (ex. Somfy Pergola RGS io) convient à un budget abordable et des terrasses à usage saisonnier, offrant de l'ombre flexible au besoin.
+La pergola bioclimatique convient à un usage permanent, aux terrasses utilisées toute l’année et à un budget plus élevé. La pergola classique à toile rétractable (par exemple avec moteur Somfy Pergola RGS io) convient à un budget moyen et aux terrasses utilisées surtout l’été, avec une ombre modulable au besoin.
+
+### Combien coûte une pergola à toile Somfy de 4 × 3 m ?
+
+Chez Neofort BIZ, une pergola automatique Somfy de 4 × 3 m coûte environ 6 000 EUR pose comprise, hors TVA. Le prix final dépend des dimensions, de la toile choisie et du type de pose, et vous recevez un devis personnalisé sous 48 heures.
 
 ---
 
-Neofort BIZ pose des pergolas bioclimatiques et classiques, avec automatisation Somfy, à Bucarest et Ilfov. En savoir plus sur [les volets et stores extérieurs](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet). Pages utiles : [les pergolas automatiques Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy) et [le guide complet de l'occultation](/fr/systemes-occultation/guide-complet).`,
-      es: `## Pérgola bioclimática vs pérgola clásica — ¿qué diferencias importan realmente?
+Neofort BIZ pose des pergolas à toile avec automatisation Somfy à Bucarest et dans l’Ilfov. Découvrez les [volets et stores extérieurs](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Lisez aussi le [guide complet des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet). Pages utiles : [les pergolas automatiques Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy) et le [guide complet des systèmes d’occultation](/fr/systemes-occultation/guide-complet).`,
+      es: `## Pérgola bioclimática o pérgola clásica: ¿qué diferencias importan de verdad?
 
-Para cubrir una terraza encontrará rápidamente dos categorías: la **pérgola bioclimática** (con lamas de aluminio orientables) y la **pérgola clásica** (con tela retráctil, manual o motorizada).
+Si tiene una terraza y quiere cubrirla, enseguida encontrará dos grandes familias de pérgolas: la **pérgola bioclimática** (con lamas de aluminio orientables) y la **pérgola clásica** (con lona retráctil, manual o motorizada). Las dos tienen ventajas claras, pero para terrazas distintas. Esta guía explica las diferencias reales: no solo técnicas, también prácticas y económicas.
+
+En Neofort BIZ instalamos pérgolas clásicas con lona retráctil y motor Somfy. Aun así, presentamos las dos con honestidad, para que pueda elegir con conocimiento de causa.
+
+## ¿Qué es la pérgola bioclimática?
+
+La pérgola bioclimática tiene un techo de lamas de aluminio extruido que pueden girar. Cerradas, las lamas forman un techo estanco que evacua el agua de lluvia por los perfiles. Abiertas, ventilan el espacio de debajo. La estructura es fija, de aluminio anodizado o lacado en polvo.
+
+**Ventajas de la pérgola bioclimática:**
+- Techo permanente: se puede usar haga el tiempo que haga
+- Evacuación del agua integrada en los perfiles: funciona con lluvia, sin lona
+- Regulación fina de la luz orientando las lamas
+- Gran durabilidad: estructura rígida, sin lona que se desgaste
+- Se pueden añadir paneles laterales, iluminación y calefacción por infrarrojos
+
+**Inconvenientes de la pérgola bioclimática:**
+- Un precio mucho más alto que el de la pérgola clásica: normalmente de 1,5 a 3 veces más cara
+- Instalación más compleja: requiere cimentaciones o anclajes sólidos
+- Más peso: no encaja en cualquier estructura existente
+
+## ¿Qué es la pérgola clásica con lona retráctil?
+
+La pérgola clásica con lona retráctil (incluidos los modelos con motor Somfy Pergola RGS io) usa una lona impermeable tensada sobre una estructura de aluminio, que se recoge a mano o eléctricamente. La lona cubre la terraza cuando hace falta y se recoge cuando quiere luz natural.
+
+**Ventajas de la pérgola clásica con lona:**
+- Precio asequible frente a la pérgola bioclimática
+- Poco peso: también se monta sobre estructuras más ligeras
+- Automatización sencilla con motores Somfy (Pergola 50/60 RGS io)
+- Muy buena protección solar: lonas UPF 50+
+- Recogida completa: la terraza queda totalmente abierta con la lona recogida
+
+**Inconvenientes de la pérgola clásica con lona:**
+- No está pensada para lluvias torrenciales ni viento fuerte: en ese caso la lona se recoge
+- La lona se desgasta con el tiempo y se cambia al cabo de unos años, según la exposición
+- Menos espectacular a la vista que una pérgola bioclimática
 
 ## Comparación directa de precios 2026
 
-| Criterio | Bioclimática | Clásica tela Somfy |
+| Criterio | Bioclimática | Clásica con lona Somfy |
 |---|---|---|
-| Precio instalación (4×3 m) | 8.000–18.000 EUR | 2.500–5.000 EUR |
-| Funciona bajo lluvia | ✅ Sí | ❌ No |
-| Automatización | Opcional | ✅ Somfy RGS io |
-| Smart Home | Opcional | ✅ TaHoma Switch |
+| Precio con instalación (4 × 3 m) | 8.000–18.000 EUR | unos 6.000 EUR |
+| Durabilidad de la estructura | 20–30 años | 20–30 años |
+| Durabilidad de la lona | — | Se cambia periódicamente |
+| Funcionamiento con lluvia | ✅ Sí | ⚠️ Solo lluvia ligera |
+| Automatización | Motor para las lamas | ✅ Somfy Pergola RGS io |
+| Hogar inteligente | Según el fabricante | ✅ TaHoma Switch |
 
-**Ventajas pérgola bioclimática:** cubierta permanente, evacuación agua integrada, durabilidad superior.
+*Precios orientativos sin IVA. El precio de la pérgola de lona es el de nuestra página de precios; el intervalo de la pérgola bioclimática es una referencia de mercado.*
 
-**Ventajas pérgola clásica Somfy:** precio accesible, automatización completa (retracción automática viento > 50 km/h), integración TaHoma, Alexa y Google Home.
+## ¿Cuándo elegir la pérgola bioclimática?
 
-Neofort BIZ suministra e instala pérgolas automáticas Somfy en Bucarest e Ilfov — motor Pergola RGS io, tela impermeable UPF 50+, configuración TaHoma incluida.
+La pérgola bioclimática es adecuada si la terraza se usa toda la temporada, también cuando llueve, si el presupuesto permite una inversión premium, si quiere una solución permanente sin piezas de desgaste y si la estructura sobre la que se monta soporta el peso.
 
-[Solicitar presupuesto pérgola automática Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy)
+## ¿Cuándo elegir la pérgola clásica con lona Somfy?
+
+La pérgola de lona Somfy es la elección correcta si quiere sombra en los periodos de sol fuerte, si el presupuesto es medio y si quiere una automatización completa: el sensor de viento Sunis Wirefree II io recoge la lona por sí solo con rachas de más de 50 km/h, y TaHoma Switch le permite manejarla desde el móvil, con Alexa o con Google Home. El sistema Somfy abre hasta 5 m de ancho con 4 m de salida.
+
+## Conclusión
+
+No hay una respuesta universal. La **pérgola bioclimática** gana en versatilidad y durabilidad, pero cuesta mucho más. La **pérgola clásica con lona Somfy** gana en relación calidad-precio, automatización y flexibilidad. En Neofort BIZ suministramos e instalamos pérgolas de lona automatizadas Somfy: motor Pergola 50/60 RGS io, lonas impermeables UPF 50+ y configuración de TaHoma incluida.
+
+- [Solicite un presupuesto para una pérgola automática Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy)
 
 ## Preguntas frecuentes
 
-### ¿Cuál es la diferencia entre una pérgola bioclimática y una clásica?
+### ¿Qué diferencia hay entre la pérgola bioclimática y la clásica?
 
-Una pérgola bioclimática tiene techo de lamas de aluminio orientables entre 0° y 120°, con evacuación de agua integrada — funciona de forma permanente, incluso con lluvia. Una pérgola clásica usa una lona retráctil (manual o eléctrica) que se recoge cuando quieres luz natural.
+La pérgola bioclimática tiene un techo de lamas de aluminio orientables con evacuación del agua integrada: se puede usar incluso cuando llueve. La pérgola clásica usa una lona retráctil (manual o eléctrica) que se recoge cuando quiere luz natural.
 
-### ¿Por qué una pérgola bioclimática es más cara que una clásica?
+### ¿Por qué es más cara la pérgola bioclimática que la clásica?
 
-Una pérgola bioclimática cuesta 2-4 veces más porque tiene estructura permanente de aluminio, lamas extruidas orientables, sistema integrado de evacuación de agua e instalación más compleja con cimientos o anclajes sólidos. A cambio ofrece durabilidad superior y uso en cualquier clima.
+La pérgola bioclimática cuesta normalmente de 1,5 a 3 veces más porque tiene una estructura fija de aluminio, lamas extruidas orientables, un sistema integrado de evacuación del agua y una instalación más compleja, con cimentaciones o anclajes sólidos. A cambio ofrece gran durabilidad y se puede usar con cualquier tiempo.
 
-### ¿Funciona una pérgola bioclimática bajo la lluvia?
+### ¿Funciona la pérgola bioclimática con lluvia?
 
-Sí. Cuando las lamas de aluminio están cerradas, forman un techo estanco que evacúa el agua de lluvia por los perfiles, sin lona. Cuando están abiertas, ventilan el espacio inferior. Esta es la ventaja principal frente a una pérgola clásica, que depende de la lona para la protección.
+Sí. Cerradas, las lamas de aluminio forman un techo estanco que evacua el agua de lluvia por los perfiles, sin lona. Abiertas, ventilan el espacio de debajo. Es su principal ventaja frente a la pérgola clásica, que depende de la lona para proteger.
 
-### ¿Qué pérgola elegir para mi terraza?
+### ¿Qué pérgola elijo para mi terraza?
 
-Una pérgola bioclimática es ideal para uso permanente, terrazas usadas todo el año y un presupuesto mayor. Una pérgola clásica con lona retráctil (ej. Somfy Pergola RGS io) conviene a un presupuesto asequible y terrazas de uso estacional, ofreciendo sombra flexible cuando se necesita.
+La pérgola bioclimática es adecuada para un uso permanente, terrazas que se usan todo el año y un presupuesto mayor. La pérgola clásica con lona retráctil (por ejemplo con motor Somfy Pergola RGS io) encaja con un presupuesto medio y terrazas que se usan sobre todo en verano, y da sombra flexible cuando hace falta.
+
+### ¿Cuánto cuesta una pérgola de lona Somfy de 4 × 3 m?
+
+En Neofort BIZ, una pérgola automática Somfy de 4 × 3 m cuesta unos 6.000 EUR con instalación, sin IVA. El precio final depende de las medidas, la lona elegida y el tipo de montaje, y recibe un presupuesto personalizado en 48 horas.
 
 ---
 
-Neofort BIZ instala pérgolas bioclimáticas y clásicas, con automatización Somfy, en Bucarest e Ilfov. Más información sobre [las persianas y estores exteriores](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa). Páginas útiles: [las pérgolas automáticas Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy) y [la guía completa de sombreado](/es/sistemas-sombreado/guia-completa).`,
-      it: `## Pergola bioclimatica vs pergola classica — quali differenze contano davvero?
+Neofort BIZ instala pérgolas de lona con automatización Somfy en Bucarest e Ilfov. Conozca las [persianas y cierres exteriores](/es/sistemas-sombreado) que ofrecemos o [solicite un presupuesto](/es/contacto). Lea también la [guía completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa). Páginas útiles: [las pérgolas automáticas Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy) y la [guía completa de los sistemas de sombreado](/es/sistemas-sombreado/guia-completa).`,
+      it: `## Pergola bioclimatica o pergola classica: quali differenze contano davvero?
 
-Per coprire una terrazza incontrerete rapidamente due categorie: la **pergola bioclimatica** (con lamelle in alluminio orientabili) e la **pergola classica** (con telo retrattile, manuale o motorizzato).
+Se avete una terrazza e volete coprirla, incontrerete presto due grandi famiglie di pergole: la **pergola bioclimatica** (con lamelle orientabili in alluminio) e la **pergola classica** (con telo retrattile, manuale o motorizzato). Entrambe hanno vantaggi chiari, ma per terrazze diverse. Questa guida spiega le differenze reali: non solo tecniche, ma anche pratiche ed economiche.
+
+Da Neofort BIZ posiamo pergole classiche con telo retrattile e motore Somfy. Le presentiamo comunque entrambe con onestà, perché possiate scegliere con cognizione di causa.
+
+## Che cos’è la pergola bioclimatica?
+
+La pergola bioclimatica ha una copertura di lamelle in alluminio estruso che possono ruotare. Chiuse, le lamelle formano una copertura a tenuta che scarica l’acqua piovana attraverso i profili. Aperte, ventilano lo spazio sottostante. La struttura è fissa, in alluminio anodizzato o verniciato a polvere.
+
+**Vantaggi della pergola bioclimatica:**
+- Copertura permanente: si può usare con qualsiasi tempo
+- Scarico dell’acqua integrato nei profili: funziona sotto la pioggia, senza telo
+- Regolazione fine della luce orientando le lamelle
+- Grande durata: struttura rigida, senza telo che si consuma
+- Si possono aggiungere pannelli laterali, illuminazione e riscaldamento a infrarossi
+
+**Svantaggi della pergola bioclimatica:**
+- Un prezzo molto più alto di quello della pergola classica: di solito da 1,5 a 3 volte più cara
+- Posa più complessa: richiede fondazioni o ancoraggi solidi
+- Peso maggiore: non è adatta a ogni struttura esistente
+
+## Che cos’è la pergola classica con telo retrattile?
+
+La pergola classica con telo retrattile (compresi i modelli con motore Somfy Pergola RGS io) usa un telo impermeabile teso su una struttura in alluminio, che si ritira a mano o elettricamente. Il telo copre la terrazza quando serve e si raccoglie quando volete luce naturale.
+
+**Vantaggi della pergola classica con telo:**
+- Prezzo accessibile rispetto alla pergola bioclimatica
+- Peso ridotto: si monta anche su strutture più leggere
+- Automazione semplice con motori Somfy (Pergola 50/60 RGS io)
+- Ottima protezione solare: teli UPF 50+
+- Ritiro completo: la terrazza resta del tutto aperta con il telo raccolto
+
+**Svantaggi della pergola classica con telo:**
+- Non è fatta per piogge torrenziali o vento forte: in quei casi il telo si ritira
+- Il telo si consuma col tempo e si sostituisce dopo qualche anno, a seconda dell’esposizione
+- Meno spettacolare alla vista di una pergola bioclimatica
 
 ## Confronto diretto dei prezzi 2026
 
-| Criterio | Bioclimatica | Classica telo Somfy |
+| Criterio | Bioclimatica | Classica con telo Somfy |
 |---|---|---|
-| Prezzo installazione (4×3 m) | 8.000–18.000 EUR | 2.500–5.000 EUR |
-| Funziona sotto la pioggia | ✅ Sì | ❌ No |
-| Automazione | Opzionale | ✅ Somfy RGS io |
-| Smart Home | Opzionale | ✅ TaHoma Switch |
+| Prezzo con posa (4 × 3 m) | 8.000–18.000 EUR | circa 6.000 EUR |
+| Durata della struttura | 20–30 anni | 20–30 anni |
+| Durata del telo | — | Si sostituisce periodicamente |
+| Funzionamento sotto la pioggia | ✅ Sì | ⚠️ Solo pioggia leggera |
+| Automazione | Motore per le lamelle | ✅ Somfy Pergola RGS io |
+| Casa intelligente | A seconda del produttore | ✅ TaHoma Switch |
 
-**Vantaggi pergola bioclimatica:** tetto permanente, scarico acqua integrato, durabilità superiore.
+*Prezzi indicativi IVA esclusa. Il prezzo della pergola con telo è quello della nostra pagina prezzi; l’intervallo della pergola bioclimatica è un riferimento di mercato.*
 
-**Vantaggi pergola classica Somfy:** prezzo accessibile, automazione completa (ritiro automatico vento > 50 km/h), integrazione TaHoma, Alexa e Google Home.
+## Quando scegliere la pergola bioclimatica?
 
-Neofort BIZ fornisce e installa pergole automatiche Somfy a Bucarest e Ilfov — motore Pergola RGS io, telo impermeabile UPF 50+, configurazione TaHoma inclusa.
+La pergola bioclimatica è adatta se la terrazza si usa per tutta la stagione, anche quando piove, se il budget consente un investimento di fascia alta, se volete una soluzione permanente senza parti di consumo e se la struttura su cui la montate ne regge il peso.
 
-[Richiedere preventivo pergola automatica Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy)
+## Quando scegliere la pergola classica con telo Somfy?
+
+La pergola con telo Somfy è la scelta giusta se volete ombra nei periodi di sole forte, se il budget è medio e se volete un’automazione completa: il sensore di vento Sunis Wirefree II io ritira da solo il telo con raffiche oltre i 50 km/h, e TaHoma Switch vi permette di comandarlo dal telefono, con Alexa o con Google Home. Il sistema Somfy apre fino a 5 m di larghezza con 4 m di sporgenza.
+
+## Conclusione
+
+Non esiste una risposta universale. La **pergola bioclimatica** vince per versatilità e durata, ma costa molto di più. La **pergola classica con telo Somfy** vince per rapporto qualità-prezzo, automazione e flessibilità. Da Neofort BIZ forniamo e posiamo pergole con telo automatizzate Somfy: motore Pergola 50/60 RGS io, teli impermeabili UPF 50+ e configurazione TaHoma inclusa.
+
+- [Richiedete un preventivo per una pergola automatica Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy)
 
 ## Domande frequenti
 
-### Qual è la differenza tra una pergola bioclimatica e una classica?
+### Qual è la differenza tra pergola bioclimatica e pergola classica?
 
-Una pergola bioclimatica ha un tetto di lamelle in alluminio orientabili tra 0° e 120°, con scarico dell'acqua integrato — funziona in modo permanente, anche sotto la pioggia. Una pergola classica usa un telo retrattile (manuale o elettrico) che si ripiega quando si vuole luce naturale.
+La pergola bioclimatica ha una copertura di lamelle in alluminio orientabili con scarico dell’acqua integrato: si può usare anche quando piove. La pergola classica usa un telo retrattile (manuale o elettrico) che si raccoglie quando volete luce naturale.
 
-### Perché una pergola bioclimatica è più costosa di una classica?
+### Perché la pergola bioclimatica costa più di quella classica?
 
-Una pergola bioclimatica costa 2-4 volte di più perché ha struttura permanente in alluminio, lamelle estruse orientabili, un sistema integrato di scarico dell'acqua e un'installazione più complessa con fondazioni o ancoraggi solidi. In cambio offre durabilità superiore e uso in ogni condizione meteo.
+La pergola bioclimatica costa di solito da 1,5 a 3 volte di più perché ha una struttura fissa in alluminio, lamelle estruse orientabili, un sistema integrato di scarico dell’acqua e una posa più complessa, con fondazioni o ancoraggi solidi. In cambio offre grande durata e si può usare con qualsiasi tempo.
 
-### Una pergola bioclimatica funziona sotto la pioggia?
+### La pergola bioclimatica funziona sotto la pioggia?
 
-Sì. Quando le lamelle in alluminio sono chiuse, formano un tetto impermeabile che scarica l'acqua piovana attraverso i profili, senza telo. Quando sono aperte, ventilano lo spazio sottostante. Questo è il vantaggio principale rispetto a una pergola classica, che dipende dal telo per la protezione.
+Sì. Chiuse, le lamelle in alluminio formano una copertura a tenuta che scarica l’acqua piovana attraverso i profili, senza telo. Aperte, ventilano lo spazio sottostante. È il vantaggio principale rispetto alla pergola classica, che dipende dal telo per la protezione.
 
-### Quale pergola scegliere per il mio terrazzo?
+### Quale pergola scegliere per la mia terrazza?
 
-Una pergola bioclimatica è ideale per uso permanente, terrazzi usati tutto l'anno e un budget maggiore. Una pergola classica con telo retrattile (es. Somfy Pergola RGS io) è adatta a un budget accessibile e terrazzi a uso stagionale, offrendo ombra flessibile quando serve.
+La pergola bioclimatica è adatta a un uso permanente, a terrazze usate tutto l’anno e a un budget più alto. La pergola classica con telo retrattile (per esempio con motore Somfy Pergola RGS io) si adatta a un budget medio e a terrazze usate soprattutto d’estate, e offre ombra flessibile quando serve.
+
+### Quanto costa una pergola con telo Somfy di 4 × 3 m?
+
+Da Neofort BIZ, una pergola automatica Somfy di 4 × 3 m costa circa 6.000 EUR con posa, IVA esclusa. Il prezzo finale dipende dalle misure, dal telo scelto e dal tipo di posa, e ricevete un preventivo personalizzato entro 48 ore.
 
 ---
 
-Neofort BIZ installa pergole bioclimatiche e classiche, con automazione Somfy, a Bucarest e Ilfov. Scopri di più sulle [tapparelle e veneziane esterne](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa ai sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa). Pagine utili: [le pergole automatiche Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy) e [la guida completa all'oscuramento](/it/sistemi-oscuramento/guida-completa).`,
+Neofort BIZ posa pergole con telo e automazione Somfy a Bucarest e Ilfov. Scoprite le [tapparelle e le veneziane esterne](/it/sistemi-oscuramento) che offriamo o [richiedete un preventivo](/it/contatti). Leggete anche la [guida completa ai sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa). Pagine utili: [le pergole automatiche Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy) e la [guida completa ai sistemi di oscuramento](/it/sistemi-oscuramento/guida-completa).`,
     },
   },
   {
@@ -13962,7 +14167,7 @@ Neofort BIZ fornisce e posa serramenti in alluminio Alumil a taglio termico a Bu
       it: 'Pareti cortina e facciate in vetro — guida completa 2026: tipi, prezzi e sistemi Alumil',
     },
     excerpt: {
-      ro: 'Peretele cortină este o fațadă autoportantă din aluminiu și sticlă care nu preia sarcini structurale. Există 3 tipuri principale — standard, semi-structural și structural — cu prețuri între 800 și 2.500 lei/m². Ghid complet: cum alegi sistemul potrivit, ce sisteme Alumil livrăm și care sunt pașii de la proiect la montaj.',
+      ro: 'Peretele cortină este o fațadă autoportantă din aluminiu și sticlă care nu preia sarcini structurale. Există 3 tipuri principale — standard, semi-structural și structural — cu prețuri între 160 și 500 EUR/m², fără TVA. Ghid complet: cum alegi sistemul potrivit, ce sisteme Alumil livrăm și care sunt pașii de la proiect la montaj.',
       en: 'The curtain wall is a self-supporting aluminium and glass facade that bears no structural loads. There are 3 main types — standard, semi-structural and structural — with prices between €160 and €500/m². Complete guide: how to choose the right system, which Alumil systems we supply and the steps from design to installation.',
       de: 'Die Vorhangfassade ist eine selbsttragende Aluminium-Glas-Fassade ohne strukturelle Lasten. Es gibt 3 Haupttypen — Standard, halb-strukturell und strukturell — mit Preisen zwischen 160 und 500 €/m². Komplettleitfaden: wie Sie das richtige System wählen, welche Alumil-Systeme wir liefern und die Schritte von der Planung bis zur Montage.',
       fr: 'Le mur rideau est une façade autoportante en aluminium et verre sans charges structurales. Il existe 3 types principaux — standard, semi-structurel et structurel — avec des prix entre 160 et 500 €/m². Guide complet : comment choisir le bon système, quels systèmes Alumil nous fournissons et les étapes du projet au montage.',
@@ -13970,12 +14175,12 @@ Neofort BIZ fornisce e posa serramenti in alluminio Alumil a taglio termico a Bu
       it: `La parete cortina è una facciata autoportante in alluminio e vetro senza carichi strutturali. Esistono 3 tipi principali — standard, semi-strutturale e strutturale — con prezzi tra 160 e 500 €/m². Guida completa: come scegliere il sistema giusto, quali sistemi Alumil forniamo e i passi dal progetto all'installazione.`,
     },
     metaDesc: {
-      ro: "Pereți cortină și fațade din sticlă: cele 3 tipuri de sisteme, prețuri 800–2.500 lei/m² și etapele unui proiect. Sisteme Alumil, București.",
-      en: "Curtain walls and glass facades: the 3 system types, indicative prices of 800–2,500 lei/m² and the stages of a project. Alumil systems, Bucharest.",
-      de: "Vorhangfassaden und Glasfassaden: die 3 Systemarten, Richtpreise von 800–2.500 Lei/m² und die Projektphasen. Alumil-Systeme, Bukarest.",
-      fr: "Murs-rideaux et façades vitrées : les 3 types de systèmes, prix indicatifs de 800 à 2 500 lei/m² et les étapes d’un projet. Systèmes Alumil, Bucarest.",
-      es: "Muros cortina y fachadas de vidrio: los 3 tipos de sistema, precios 800–2.500 lei/m² y las fases de un proyecto. Sistemas Alumil, Bucarest.",
-      it: "Pareti continue e facciate in vetro: i 3 tipi di sistema, prezzi indicativi di 800–2.500 lei/m² e le fasi di un progetto. Sistemi Alumil, Bucarest.",
+      ro: "Pereți cortină și fațade din sticlă: cele 3 tipuri de sisteme, prețuri de 160–500 EUR/m² fără TVA și etapele unui proiect. Sisteme Alumil, București.",
+      en: "Curtain walls and glass facades: the 3 system types, indicative prices of 160–500 EUR/m² excluding VAT and the stages of a project. Alumil systems.",
+      de: "Vorhangfassaden und Glasfassaden: die 3 Systemarten, Richtpreise von 160–500 EUR/m² ohne MwSt. und die Projektphasen. Alumil-Systeme, Bukarest.",
+      fr: "Murs-rideaux et façades vitrées : les 3 types de systèmes, prix indicatifs de 160 à 500 EUR/m² HT et les étapes d’un projet. Systèmes Alumil.",
+      es: "Muros cortina y fachadas de vidrio: los 3 tipos de sistema, precios de 160–500 EUR/m² sin IVA y las fases de un proyecto. Sistemas Alumil, Bucarest.",
+      it: "Pareti continue e facciate in vetro: i 3 tipi di sistema, prezzi indicativi di 160–500 EUR/m² IVA esclusa e le fasi di un progetto. Sistemi Alumil.",
     },
     keywords: 'pereti cortina aluminiu sticla, fatada cortina pret, perete cortina structural, perete cortina semi-structural, Alumil CW50, fatade din sticla cladiri, pereti cortina pret mp, montaj pereti cortina Romania',
     content: {
@@ -13988,7 +14193,7 @@ Peretele cortină este o **fațadă exterioară autoportantă**, realizată din 
 - Asigură lumină naturală maximă în spații mari
 - Definește identitatea arhitecturală a clădirii
 
-Diferența față de o fereastră obișnuită sau un vitraj mare: **peretele cortină acoperă una sau mai multe fațade complete**, fără întrerupere între etaje, creând efectul de „clădire din sticlă".
+Diferența față de o fereastră obișnuită sau un vitraj mare: **peretele cortină acoperă una sau mai multe fațade complete**, fără întrerupere între etaje, creând efectul de „clădire din sticlă”.
 
 ---
 
@@ -14000,10 +14205,9 @@ Profilul de aluminiu este **vizibil din exterior**, fixând geamul cu capace pre
 
 **Caracteristici:**
 - Capace presoare vizibile din exterior (linie orizontală + verticală)
-- Sticlă termopan dublu sau triplu, grosimi 24–48 mm
-- Rezistență la vânt clasa C3
-- Impermeabilitate clasa E1050
-- **Preț: 800–1.200 lei/m²** (inclusiv [montajul cu echipe proprii](/ro/servicii))
+- Sticlă termopan dublu sau triplu, grosimi 24–54 mm
+- Sisteme Alumil folosite: SMARTIA M50, M7, M35 sau M6
+- **Preț: 160–240 EUR/m²** (inclusiv [montajul cu echipe proprii](/ro/servicii))
 
 **Recomandat pentru:** clădiri de birouri, spații comerciale, showroom-uri, hale industriale cu zonă de birou.
 
@@ -14013,9 +14217,9 @@ Profilele sunt **vizibile doar pe o direcție** (vertical sau orizontal), celela
 
 **Caracteristici:**
 - Profile vizibile pe o singură axă
-- Silicon structural Dow Corning pe celelalte laturi
-- Aspect modern, linii fine
-- **Preț: 1.200–1.800 lei/m²** (inclusiv montaj)
+- Silicon structural (de exemplu DOWSIL) pe celelalte laturi
+- Sistem Alumil folosit: M3 (semi-structural, cu rame suspendate)
+- **Preț: 240–360 EUR/m²** (inclusiv montaj)
 
 **Recomandat pentru:** clădiri moderne de birouri, hoteluri, rezidențe de lux.
 
@@ -14025,10 +14229,10 @@ Profilele sunt **vizibile doar pe o direcție** (vertical sau orizontal), celela
 
 **Caracteristici:**
 - Zero profile vizibile din exterior
-- Silicon structural pe toate 4 laturile sau sistem spider
-- Aspect de „oglindă" continuă
+- Silicon structural pe toate 4 laturile (sistemul Alumil M4) sau sistem spider
+- Aspect de „oglindă” continuă
 - Cel mai pretențios la montaj — necesită personal certificat
-- **Preț: 1.800–2.500 lei/m²** (inclusiv montaj)
+- **Preț: 360–500 EUR/m²** (inclusiv montaj)
 
 **Recomandat pentru:** clădiri premium, sedii corporative, proiecte arhitecturale de referință.
 
@@ -14036,22 +14240,29 @@ Profilele sunt **vizibile doar pe o direcție** (vertical sau orizontal), celela
 
 ## Sisteme Alumil pentru pereți cortină — ce livrăm la Neofort BIZ
 
-### Alumil CW50 — sistem standard
+Lucrăm cu toată gama Alumil de pereți cortină. Cele mai folosite sisteme:
 
-Profilele cu adâncimea de **50 mm**, cu barieră termică poliamidă. Modulul de bază este de 50×150 mm.
+### Alumil SMARTIA M50 — sistemul standard
 
-- Uw ansamblu: 1,3–1,6 W/m²K (geam dublu Low-E)
-- Rezistență la vânt: C3/B3
-- Impermeabilitate: E750/E1050
-- Geam max: 48 mm
+Profile cu lățimea vizibilă de **50 mm** pe montanți și traverse, cu capace presoare sau în variantă structurală, fără capace.
 
-### Alumil CW60 — sistem premium cu profil îngust
+- Uf: de la 1,0 W/m²K (1,0–1,8, după configurație)
+- Greutate geam: până la 180 kg
+- Etanșeitate la apă: R7 | Permeabilitate la aer: AE
+- Antiefracție: până la RC3
 
-Profil vizibil de **60 mm**, barieră termică 34 mm. Aspect minimalist, ideal pentru arhitectura contemporană.
+### Alumil SMARTIA M7 — performanță energetică maximă
 
-- Uw ansamblu: 1,1–1,4 W/m²K
-- Compatibil cu geam triplu Low-E
-- Sisteme de umbrire integrate: raffstore, jaluzele
+Tot **50 mm** lățime vizibilă, dar construit pentru clădiri cu cerințe energetice ridicate.
+
+- Uf: de la 1,0 W/m²K
+- Certificat Passivhaus (clasa phA), cu Uw 0,80 W/m²K la geam triplu de 54 mm
+- Etanșeitate la apă: RE 1200 | Permeabilitate la aer: AE
+- Antiefracție: RC3/RC4
+
+### Alumil M3 și M4 — semi-structural și structural
+
+Sisteme cu rame suspendate pentru fațadele cu profile vizibile pe o singură axă (M3) sau complet ascunse (M4). Pentru clădirile înalte, Alumil are și sisteme unitizate (M65, M78), asamblate în fabrică.
 
 ---
 
@@ -14067,7 +14278,7 @@ Alegerea sticlei influențează major performanța termică, acustică și aspec
 | Sticlă reflexivă | 40–60% | 0,20–0,35 | Clădiri cu soare direct, sudul României |
 | Sticlă securizată laminată | 70% | 0,50 | Zonă pietonală, etaje inferioare |
 
-**Recomandare Neofort BIZ:** pentru proiectele noi din România, recomandăm geam dublu Low-E 4+16+4 cu gaz argon ca standard, și triplu Low-E pentru proiectele certificate nZEB.
+**Recomandare Neofort BIZ:** pentru proiectele noi din România, recomandăm geam dublu Low-E 4+16+4 cu gaz argon ca standard, și triplu Low-E pentru clădirile nZEB.
 
 ---
 
@@ -14075,20 +14286,20 @@ Alegerea sticlei influențează major performanța termică, acustică și aspec
 
 Spre deosebire de tâmplăria obișnuită, un perete cortină necesită **coordonare cu proiectantul structural**:
 
-**1. Consultare și măsurători (1–2 zile)**
-Deplasare pe șantier, măsurători precise, verificarea structurii de fixare existente.
+**1. Ofertă pe baza proiectului (48 de ore)**
+Pornim de la planurile de arhitectură și primești o ofertă detaliată în 48 de ore.
 
-**2. Proiectare tehnică (3–7 zile)**
-Plan de față cu detalii de îmbinare, calcul structural de vânt, selecție sticlă și profile.
+**2. Măsurători pe șantier, după contract (1–2 zile)**
+După semnarea contractului, facem măsurătorile precise și verificăm structura de fixare existentă.
 
-**3. Producție (15–30 zile)**
+**3. Proiectare tehnică (3–7 zile)**
+Plan de fațadă cu detalii de îmbinare, calcul structural la vânt, selecția sticlei și a profilelor.
+
+**4. Producție (15–30 de zile)**
 Profile tăiate și prelucrate la fabrică, geam comandat de la furnizor (Saint-Gobain).
 
-**4. Transport și montaj (3–10 zile funcție de suprafață)**
-Echipă specializată. Montajul pereților cortină necesită schele sau platformă elevatoare.
-
-**5. Etanșare și probe (1–2 zile)**
-Test impermeabilitate, verificare vizuală, sigilare definitivă.
+**5. Montaj, etanșare și probe (3–10 zile, în funcție de suprafață)**
+Echipă specializată, cu schele sau platformă elevatoare. La final: test de impermeabilitate, verificare vizuală și sigilare definitivă.
 
 ---
 
@@ -14096,10 +14307,10 @@ Test impermeabilitate, verificare vizuală, sigilare definitivă.
 
 | Tip sistem | Suprafață | Preț estimat (inclusiv montaj) |
 |---|---|---|
-| Standard CW50, geam dublu Low-E | 50–100 m² | 900–1.100 lei/m² |
-| Standard CW50, geam dublu Low-E | > 100 m² | 800–950 lei/m² |
-| Semi-structural, geam dublu Low-E | 50–100 m² | 1.300–1.600 lei/m² |
-| Structural spider, geam securizat | orice | 2.000–2.500 lei/m² |
+| Standard SMARTIA M50, geam dublu Low-E | 50–100 m² | 180–220 EUR/m² |
+| Standard SMARTIA M50, geam dublu Low-E | > 100 m² | 160–190 EUR/m² |
+| Semi-structural, geam dublu Low-E | 50–100 m² | 260–320 EUR/m² |
+| Structural spider, geam securizat | orice | 400–500 EUR/m² |
 
 *Prețurile nu includ TVA și pot varia în funcție de înălțimea clădirii, complexitatea formei și tipul sticlei. Solicitați ofertă personalizată.*
 
@@ -14107,7 +14318,7 @@ Test impermeabilitate, verificare vizuală, sigilare definitivă.
 
 ## De ce Neofort BIZ pentru pereți cortină
 
-Lucrăm exclusiv cu **profile Alumil** certificate european, cu garnituri EPDM și silicon structural Dow Corning. Oferim:
+Lucrăm exclusiv cu **profile Alumil** certificate european, cu garnituri EPDM și silicon structural de calitate. Oferim:
 
 - Proiectare tehnică inclusă în ofertă
 - Garanție **5 ani** pe etanșeitate
@@ -14126,7 +14337,7 @@ Peretele cortină este o fațadă exterioară autoportantă din profile de alumi
 
 ### Care sunt cele 3 tipuri de pereți cortină și cât costă?
 
-Peretele cortină standard (profile vizibile cu capace presoare) costă 800-1.200 lei/m²; cel semi-structural (profile vizibile pe o singură axă, restul lipit cu silicon structural) costă 1.200-1.800 lei/m²; cel structural (spider glass, profile complet invizibile) e cel mai scump, cu suprafață continuă de sticlă.
+Peretele cortină standard (profile vizibile cu capace presoare) costă 160-240 EUR/m²; cel semi-structural (profile vizibile pe o singură axă, restul lipit cu silicon structural) costă 240-360 EUR/m²; cel structural (spider glass, profile complet invizibile) costă 360-500 EUR/m². Toate prețurile includ montajul și sunt fără TVA.
 
 ### Ce este un perete cortină structural spider glass?
 
@@ -14134,446 +14345,870 @@ La peretele cortină structural, profilele de aluminiu sunt complet invizibile d
 
 ### Pentru ce clădiri se recomandă peretele cortină standard?
 
-Peretele cortină standard, cel mai accesibil ca preț, are profilul vizibil cu capace presoare, sticlă dublu sau triplu de 24-48 mm, rezistență la vânt clasa C3 și impermeabilitate clasa E1050. E recomandat pentru clădiri de birouri, spații comerciale, showroom-uri și hale industriale cu zonă de birou.
+Peretele cortină standard, cel mai accesibil ca preț, are profilul vizibil cu capace presoare și sticlă dublă sau triplă de 24-54 mm. E recomandat pentru clădiri de birouri, spații comerciale, showroom-uri și hale industriale cu zonă de birou.
 
-Vezi și comparația celor mai bune uși din aluminiu pentru Sector 1: [Cele mai bune uși din aluminiu în Sector 1 București — Ghid complet 2026](/ro/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti).
+### Ce sisteme Alumil folosiți pentru pereți cortină?
+
+Lucrăm cu toată gama Alumil. Cele mai folosite sunt SMARTIA M50 (sistemul standard, 50 mm vizibil, Uf de la 1,0) și SMARTIA M7 (50 mm vizibil, certificat Passivhaus phA), plus M3 pentru fațadele semi-structurale și M4 pentru cele structurale.
 
 ---
 
-Neofort BIZ proiectează și montează tâmplărie din aluminiu Alumil în București și Ilfov, cu barieră termică și montaj cu echipe proprii. Vezi [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al tâmplăriei din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet). Detaliile pe sistem sunt la [sistemele de aluminiu pe care le montăm](/ro/tamplarie-aluminiu/ghid-complet), iar specificațiile de vitraj la [geamuri termopan Saint-Gobain](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg).`,
+Neofort BIZ proiectează și montează tâmplărie din aluminiu Alumil în București și Ilfov, cu barieră termică și montaj cu echipe proprii. Vezi [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al tâmplăriei din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet) și [cele mai bune uși din aluminiu în Sector 1 București](/ro/blog/cele-mai-bune-usi-aluminiu-sector-1-bucuresti). Detaliile pe sistem sunt la [sistemele de aluminiu pe care le montăm](/ro/tamplarie-aluminiu/ghid-complet), iar specificațiile de vitraj la [geamuri termopan Saint-Gobain](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg).`,
 
-      en: `## What is a curtain wall
+      en: `## What is a curtain wall?
 
-A curtain wall is a **self-supporting exterior facade**, made of [aluminium profiles](/en/aluminium-windows) and glass, that:
+A curtain wall is a **self-supporting exterior facade** made of [aluminium profiles](/en/aluminium-windows) and glass, which:
 
-- **Bears no structural loads** of the building — its own weight is transferred to the building's slabs or columns
-- Protects the interior against precipitation, wind and thermal variations
+- **Bears none of the building's structural loads** — its own weight is transferred to the building's floor slabs or columns
+- Protects the interior from rain, wind and temperature changes
 - Provides maximum natural light in large spaces
-- Defines the architectural identity of the building
+- Defines the building's architectural identity
 
-The difference from a regular window or large glazing: **a curtain wall covers one or more complete facades**, without interruption between floors, creating the effect of a "glass building".
+The difference from an ordinary window or a large glazed area: **a curtain wall covers one or more complete facades**, without interruption between floors, creating the “glass building” effect.
 
 ---
 
-## The 3 types of curtain walls
+## The 3 types of curtain wall
 
-### 1. Standard curtain wall (stick system)
+### 1. Standard (classic) curtain wall
 
-The aluminium profile is **visible from the outside**, fixing the glass with pressure caps. It is the most commonly used and most affordable.
+The aluminium profile is **visible from outside**, holding the glass with pressure plates and caps. It is the most widely used and the most affordable.
 
-**Characteristics:**
-- Visible pressure caps from the outside (horizontal + vertical line)
-- Double or triple glazing, 24–48 mm thickness
-- Wind resistance class C3
-- Watertightness class E1050
-- **Price: €160–240/m²** (including [installation by our own teams](/en/services))
+**Features:**
+- Pressure caps visible from outside (horizontal + vertical lines)
+- Double or triple insulating glass, 24–54 mm thick
+- Alumil systems used: SMARTIA M50, M7, M35 or M6
+- **Price: 160–240 EUR/m²** (including [installation by our own teams](/en/services))
 
-**Recommended for:** office buildings, commercial spaces, showrooms, industrial halls with office area.
+**Recommended for:** office buildings, commercial spaces, showrooms, industrial halls with an office area.
 
 ### 2. Semi-structural curtain wall
 
-Profiles are **visible in only one direction** (vertical or horizontal), with the other sides bonded with structural silicone. The result is a cleaner appearance with thin lines.
+The profiles are **visible in one direction only** (vertical or horizontal), while the other edges of the glass are bonded with structural silicone. The result is a cleaner look with slim lines.
 
-**Price: €240–360/m²** (including installation)
+**Features:**
+- Profiles visible on one axis only
+- Structural silicone (for example DOWSIL) on the other edges
+- Alumil system used: M3 (semi-structural, with hanging frames)
+- **Price: 240–360 EUR/m²** (including installation)
 
-### 3. Structural curtain wall (spider glass)
+**Recommended for:** modern office buildings, hotels, luxury residences.
 
-**Aluminium profiles are completely invisible from the outside.** Glass is held by spider fittings or fully bonded with structural silicone.
+### 3. Structural curtain wall (spider glass / patch fitting)
 
-**Price: €360–500/m²** (including installation)
+**The aluminium profiles are completely invisible from outside.** The glass is held by point fixings (spider fittings) or fully bonded with structural silicone. The result is a perfectly continuous glass surface.
+
+**Features:**
+- No profiles visible from outside
+- Structural silicone on all 4 edges (the Alumil M4 system) or a spider system
+- A continuous “mirror” look
+- The most demanding to install — requires certified staff
+- **Price: 360–500 EUR/m²** (including installation)
+
+**Recommended for:** premium buildings, corporate headquarters, landmark architectural projects.
 
 ---
 
-## Alumil curtain wall systems at Neofort BIZ
+## Alumil curtain wall systems — what Neofort BIZ supplies
 
-### Alumil CW50 — standard system
-- Visible profile: **50 mm**
-- Polyamide thermal break
-- Uw assembly: 1.3–1.6 W/m²K (double Low-E glass)
-- Wind resistance: C3/B3
+We work with Alumil's whole curtain wall range. The most widely used systems:
 
-### Alumil CW60 — premium narrow profile
-- Visible profile: **60 mm**
-- 34 mm thermal break
-- Compatible with triple Low-E glass
-- Integrated shading: raffstore, venetian blinds
+### Alumil SMARTIA M50 — the standard system
+
+Profiles with a **50 mm** visible width on mullions and transoms, with pressure caps or in a structural version without caps.
+
+- Uf: from 1.0 W/m²K (1.0–1.8, depending on configuration)
+- Glass weight: up to 180 kg
+- Water tightness: R7 | Air permeability: AE
+- Burglar resistance: up to RC3
+
+### Alumil SMARTIA M7 — maximum energy performance
+
+Also **50 mm** visible width, but built for buildings with demanding energy requirements.
+
+- Uf: from 1.0 W/m²K
+- Passivhaus certified (phA class), with Uw 0.80 W/m²K using 54 mm triple glazing
+- Water tightness: RE 1200 | Air permeability: AE
+- Burglar resistance: RC3/RC4
+
+### Alumil M3 and M4 — semi-structural and structural
+
+Hanging-frame systems for facades with profiles visible on one axis only (M3) or completely hidden (M4). For tall buildings, Alumil also offers unitised systems (M65, M78), assembled in the factory.
 
 ---
 
 ## Glass types for curtain walls
 
+The choice of glass has a major influence on the building's thermal and acoustic performance and its appearance:
+
 | Glass type | Light transmission | Solar factor g | Use |
 |---|---|---|---|
-| Clear 4+16+4 | 80% | 0.62 | Offices with external shading |
+| Clear glass 4+16+4 | 80% | 0.62 | Offices with external shading |
 | Low-E 4+16+4 | 72% | 0.38 | Standard nZEB buildings |
 | Triple Low-E 4+12+4+12+4 | 68% | 0.32 | nZEB, passive houses |
-| Reflective glass | 40–60% | 0.20–0.35 | Direct sun exposure |
-| Laminated safety glass | 70% | 0.50 | Pedestrian areas, lower floors |
+| Reflective glass | 40–60% | 0.20–0.35 | Buildings in direct sun, southern Romania |
+| Laminated toughened glass | 70% | 0.50 | Pedestrian areas, lower floors |
+
+**Neofort BIZ recommendation:** for new projects in Romania, we recommend double Low-E 4+16+4 glazing with argon as standard, and triple Low-E for nZEB buildings.
 
 ---
 
-## Project steps for a curtain wall
+## The stages of a curtain wall project
 
-**1. Consultation and measurements (1–2 days)**
-Site visit, precise measurements, verification of existing fixing structure.
+Unlike ordinary windows, a curtain wall requires **coordination with the structural engineer**:
 
-**2. Technical design (3–7 days)**
-Elevation plan with joining details, wind load calculation, glass and profile selection.
+**1. Quote based on the project (48 hours)**
+We start from the architectural plans and you receive a detailed quote within 48 hours.
 
-**3. Production (15–30 days)**
-Profiles cut and processed at the factory, glass ordered from supplier (Saint-Gobain).
+**2. On-site measurements, after the contract (1–2 days)**
+Once the contract is signed, we take precise measurements and check the existing fixing structure.
 
-**4. Transport and installation (3–10 days depending on area)**
-Specialised team. Curtain wall installation requires scaffolding or lifting platform.
+**3. Technical design (3–7 days)**
+Facade plan with joint details, structural wind calculation, choice of glass and profiles.
 
-**5. Sealing and testing (1–2 days)**
-Watertightness test, visual inspection, final sealing.
+**4. Production (15–30 days)**
+Profiles cut and machined at the factory, glass ordered from the supplier (Saint-Gobain).
+
+**5. Installation, sealing and tests (3–10 days, depending on the area)**
+A specialised team, with scaffolding or an aerial platform. At the end: a water-tightness test, visual inspection and final sealing.
 
 ---
 
-## Request a quote for curtain walls
+## Indicative curtain wall prices 2026
+
+| System type | Area | Estimated price (installation included) |
+|---|---|---|
+| Standard SMARTIA M50, double Low-E glazing | 50–100 m² | 180–220 EUR/m² |
+| Standard SMARTIA M50, double Low-E glazing | > 100 m² | 160–190 EUR/m² |
+| Semi-structural, double Low-E glazing | 50–100 m² | 260–320 EUR/m² |
+| Structural spider, toughened glass | any | 400–500 EUR/m² |
+
+*Prices exclude VAT and may vary with the building height, the complexity of the shape and the glass type. Ask for a personalised quote.*
+
+---
+
+## Why Neofort BIZ for curtain walls
+
+We work exclusively with European-certified **Alumil profiles**, with EPDM gaskets and quality structural silicone. We offer:
+
+- Technical design included in the quote
+- **5-year** warranty on water-tightness
+- Our own specialised installation team
+- Delivery and installation throughout Romania and the EU
 
 **WhatsApp:** +40 752 443 435
 
-**Hours:** Monday–Friday, 10:00–18:00
+**Opening hours:** Monday–Friday, 10:00–18:00
 
 ## Frequently Asked Questions
 
 ### What is a curtain wall and how does it differ from a large window?
 
-A curtain wall is a self-supporting exterior façade of aluminium profiles and glass that bears none of the building's structural load — its own weight is transferred to the floors or columns. Unlike a window, it covers one or more complete façades without interruption between floors.
+A curtain wall is a self-supporting exterior facade made of aluminium profiles and glass that bears none of the building's structural loads — its own weight is transferred to the floor slabs or columns. Unlike a window, it covers one or more complete facades, without interruption between floors.
 
 ### What are the 3 types of curtain wall and how much do they cost?
 
-The standard curtain wall (visible profiles with pressure caps) costs 800-1,200 lei/m²; the semi-structural one (profiles visible on a single axis, the rest bonded with structural silicone) costs 1,200-1,800 lei/m²; the structural one (spider glass, fully hidden profiles) is the most expensive, with a continuous glass surface.
+The standard curtain wall (profiles visible with pressure caps) costs 160-240 EUR/m²; the semi-structural one (profiles visible on one axis, the rest bonded with structural silicone) costs 240-360 EUR/m²; the structural one (spider glass, completely invisible profiles) costs 360-500 EUR/m². All prices include installation and exclude VAT.
 
-### What is a structural spider-glass curtain wall?
+### What is a structural spider glass curtain wall?
 
-In a structural curtain wall, the aluminium profiles are fully invisible from outside. The glass is held by point fittings (spider fittings) or entirely bonded with structural silicone, producing a perfectly continuous glass surface — the cleanest architectural look.
+On a structural curtain wall, the aluminium profiles are completely invisible from outside. The glass is held by point fixings (spider fittings) or fully bonded with structural silicone, giving a perfectly continuous glass surface — the solution with the cleanest architectural look.
 
 ### Which buildings is the standard curtain wall recommended for?
 
-The standard curtain wall, the most affordable, has a visible profile with pressure caps, double or triple glazing of 24-48 mm, class C3 wind resistance and class E1050 watertightness. It is recommended for office buildings, retail spaces, showrooms and industrial halls with an office area.
+The standard curtain wall, the most affordable, has a visible profile with pressure caps and 24-54 mm double or triple glazing. It is recommended for office buildings, commercial spaces, showrooms and industrial halls with an office area.
+
+### Which Alumil systems do you use for curtain walls?
+
+We work with Alumil's whole range. The most widely used are SMARTIA M50 (the standard system, 50 mm visible, Uf from 1.0) and SMARTIA M7 (50 mm visible, Passivhaus phA certified), plus M3 for semi-structural facades and M4 for structural ones.
 
 ---
 
-Neofort BIZ designs and installs Alumil aluminium joinery in Bucharest and Ilfov, with thermal break and its own installation teams. See [the aluminium joinery](/en/aluminium-windows) we offer or [request a quote](/en/contact). See also [the complete aluminium joinery guide](/en/blog/aluminium-windows-thermal-break-complete-guide). System-level detail is at [the aluminium systems we install](/en/aluminium-windows/complete-guide), and the glazing specifications at [Saint-Gobain insulating glass](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass).`,
+Neofort BIZ designs and installs Alumil aluminium joinery in Bucharest and Ilfov, with thermal breaks and installation by our own teams. See the [aluminium joinery](/en/aluminium-windows) we offer or [request a quote](/en/contact). See also the [complete guide to aluminium joinery](/en/blog/aluminium-windows-thermal-break-complete-guide) and the [best aluminium doors in Sector 1 Bucharest](/en/blog/best-aluminium-doors-sector-1-bucharest). System details are at [the aluminium systems we install](/en/aluminium-windows/complete-guide), and glazing specifications at [Saint-Gobain insulating glass](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass).`,
 
-      de: `## Was ist eine Vorhangfassade
+      de: `## Was ist eine Vorhangfassade?
 
-Eine Vorhangfassade ist eine **selbsttragende Außenfassade** aus [Aluminiumprofile](/de/aluminiumfenster)n und Glas, die:
+Eine Vorhangfassade ist eine **selbsttragende Außenfassade** aus [Aluminiumprofilen](/de/aluminiumfenster) und Glas, die:
 
-- **Keine Strukturlasten** des Gebäudes trägt — das Eigengewicht wird auf die Decken oder Stützen des Gebäudes übertragen
-- Das Innere vor Niederschlag, Wind und Temperaturschwankungen schützt
-- Maximales Tageslicht in großen Räumen bietet
-- Die architektonische Identität des Gebäudes prägt
+- **keine tragenden Lasten des Gebäudes aufnimmt** — ihr Eigengewicht wird an die Geschossdecken oder Stützen abgegeben
+- das Innere vor Niederschlag, Wind und Temperaturschwankungen schützt
+- in großen Räumen maximales Tageslicht bietet
+- die architektonische Identität des Gebäudes prägt
 
----
-
-## Die 3 Typen von Vorhangfassaden
-
-### 1. Standard-Vorhangfassade
-
-Das Aluminiumprofil ist **von außen sichtbar** und fixiert das Glas mit Andruckleisten.
-
-- Windwiderstand Klasse C3
-- Wasserdichtigkeit Klasse E1050
-- **Preis: 160–240 €/m²** (inkl. [Montage durch eigene Teams](/de/dienstleistungen))
-
-### 2. Halb-strukturelle Vorhangfassade
-
-Profile **nur in einer Richtung sichtbar**, andere Seiten mit Structural Silicone verklebt.
-
-- **Preis: 240–360 €/m²** (inkl. Montage)
-
-### 3. Strukturelle Vorhangfassade (Spider-Glas)
-
-**Aluminiumprofile von außen komplett unsichtbar.** Glas durch Spider-Fittings gehalten oder vollflächig mit Structural Silicone verklebt.
-
-- **Preis: 360–500 €/m²** (inkl. Montage)
+Der Unterschied zu einem normalen Fenster oder einer großen Verglasung: **Die Vorhangfassade bedeckt eine oder mehrere komplette Fassaden**, ohne Unterbrechung zwischen den Geschossen, und erzeugt den Eindruck eines „Glashauses“.
 
 ---
 
-## Alumil-Vorhangfassadensysteme bei Neofort BIZ
+## Die 3 Arten von Vorhangfassaden
 
-### Alumil CW50 — Standardsystem
-- Sichtbares Profil: **50 mm**, Polyamid-Wärmedämmung
-- Uw Fassade: 1,3–1,6 W/m²K
+### 1. Standard-Vorhangfassade (klassisch)
 
-### Alumil CW60 — Premium-Schmalprofilsystem
-- Sichtbares Profil: **60 mm**, 34 mm Wärmedämmung
-- Kompatibel mit Dreifach-Low-E-Glas
+Das Aluminiumprofil ist **von außen sichtbar** und hält das Glas mit Press- und Deckleisten. Sie ist am weitesten verbreitet und am günstigsten.
+
+**Merkmale:**
+- Von außen sichtbare Deckleisten (horizontale + vertikale Linien)
+- Zweifach- oder Dreifach-Isolierglas, 24–54 mm stark
+- Eingesetzte Alumil-Systeme: SMARTIA M50, M7, M35 oder M6
+- **Preis: 160–240 EUR/m²** (inklusive [Montage durch eigene Teams](/de/dienstleistungen))
+
+**Empfohlen für:** Bürogebäude, Gewerbeflächen, Showrooms, Industriehallen mit Bürobereich.
+
+### 2. Halbstrukturelle Vorhangfassade
+
+Die Profile sind **nur in einer Richtung sichtbar** (vertikal oder horizontal), die übrigen Glaskanten sind mit Struktursilikon verklebt. Das Ergebnis ist eine klarere Optik mit schlanken Linien.
+
+**Merkmale:**
+- Profile nur in einer Achse sichtbar
+- Struktursilikon (zum Beispiel DOWSIL) an den übrigen Kanten
+- Eingesetztes Alumil-System: M3 (halbstrukturell, mit eingehängten Rahmen)
+- **Preis: 240–360 EUR/m²** (inklusive Montage)
+
+**Empfohlen für:** moderne Bürogebäude, Hotels, Luxusresidenzen.
+
+### 3. Strukturelle Vorhangfassade (Spider-Glas / Punkthalter)
+
+**Die Aluminiumprofile sind von außen vollständig unsichtbar.** Das Glas wird mit Punkthaltern (Spider) gehalten oder vollflächig mit Struktursilikon verklebt. Das Ergebnis ist eine vollkommen durchgehende Glasfläche.
+
+**Merkmale:**
+- Keine von außen sichtbaren Profile
+- Struktursilikon an allen 4 Kanten (Alumil-System M4) oder Spider-System
+- Durchgehende „Spiegel“-Optik
+- Am anspruchsvollsten bei der Montage — erfordert zertifiziertes Personal
+- **Preis: 360–500 EUR/m²** (inklusive Montage)
+
+**Empfohlen für:** Premiumgebäude, Unternehmenszentralen, architektonische Referenzprojekte.
 
 ---
 
-## Projektphasen einer Vorhangfassade
+## Alumil-Systeme für Vorhangfassaden — was Neofort BIZ liefert
 
-1. **Beratung und Aufmaß** (1–2 Tage)
-2. **Technische Planung** (3–7 Tage)
-3. **Produktion** (15–30 Tage)
-4. **Transport und Montage** (3–10 Tage)
-5. **Abdichtung und Tests** (1–2 Tage)
+Wir arbeiten mit dem gesamten Vorhangfassaden-Programm von Alumil. Die meistgenutzten Systeme:
+
+### Alumil SMARTIA M50 — das Standardsystem
+
+Profile mit **50 mm** Ansichtsbreite an Pfosten und Riegeln, mit Deckleisten oder als strukturelle Variante ohne Deckleisten.
+
+- Uf: ab 1,0 W/m²K (1,0–1,8, je nach Ausführung)
+- Glasgewicht: bis 180 kg
+- Schlagregendichtheit: R7 | Luftdurchlässigkeit: AE
+- Einbruchhemmung: bis RC3
+
+### Alumil SMARTIA M7 — maximale Energieeffizienz
+
+Ebenfalls **50 mm** Ansichtsbreite, aber für Gebäude mit hohen energetischen Anforderungen gebaut.
+
+- Uf: ab 1,0 W/m²K
+- Passivhauszertifiziert (Klasse phA), mit Uw 0,80 W/m²K bei 54 mm Dreifachverglasung
+- Schlagregendichtheit: RE 1200 | Luftdurchlässigkeit: AE
+- Einbruchhemmung: RC3/RC4
+
+### Alumil M3 und M4 — halbstrukturell und strukturell
+
+Systeme mit eingehängten Rahmen für Fassaden mit Profilen, die nur in einer Achse sichtbar (M3) oder vollständig verdeckt (M4) sind. Für hohe Gebäude bietet Alumil außerdem Elementfassaden (M65, M78), die im Werk vormontiert werden.
 
 ---
 
-## Angebot für Vorhangfassaden anfragen
+## Glasarten für Vorhangfassaden
+
+Die Wahl des Glases beeinflusst Wärmeschutz, Schallschutz und Optik des Gebäudes erheblich:
+
+| Glasart | Lichtdurchlässigkeit | Gesamtenergiedurchlassgrad g | Einsatz |
+|---|---|---|---|
+| Klarglas 4+16+4 | 80 % | 0,62 | Büros mit außenliegendem Sonnenschutz |
+| Low-E 4+16+4 | 72 % | 0,38 | Standard-nZEB-Gebäude |
+| Dreifach Low-E 4+12+4+12+4 | 68 % | 0,32 | nZEB, Passivhäuser |
+| Reflexionsglas | 40–60 % | 0,20–0,35 | Gebäude mit direkter Sonne, Süden Rumäniens |
+| Verbund-Sicherheitsglas | 70 % | 0,50 | Fußgängerbereich, untere Geschosse |
+
+**Empfehlung von Neofort BIZ:** Für Neubauprojekte in Rumänien empfehlen wir standardmäßig Zweifachverglasung Low-E 4+16+4 mit Argon und Dreifachverglasung Low-E für nZEB-Gebäude.
+
+---
+
+## Die Phasen eines Vorhangfassaden-Projekts
+
+Anders als normale Fenster erfordert eine Vorhangfassade **Abstimmung mit dem Tragwerksplaner**:
+
+**1. Angebot auf Basis der Planung (48 Stunden)**
+Wir gehen von den Architektenplänen aus, und Sie erhalten innerhalb von 48 Stunden ein detailliertes Angebot.
+
+**2. Aufmaß auf der Baustelle, nach Vertragsabschluss (1–2 Tage)**
+Nach der Vertragsunterzeichnung nehmen wir das genaue Aufmaß und prüfen die vorhandene Unterkonstruktion.
+
+**3. Technische Planung (3–7 Tage)**
+Fassadenplan mit Anschlussdetails, statische Windlastberechnung, Auswahl von Glas und Profilen.
+
+**4. Fertigung (15–30 Tage)**
+Profile im Werk zugeschnitten und bearbeitet, Glas beim Lieferanten (Saint-Gobain) bestellt.
+
+**5. Montage, Abdichtung und Prüfungen (3–10 Tage, je nach Fläche)**
+Ein spezialisiertes Team mit Gerüst oder Hubarbeitsbühne. Zum Abschluss: Dichtheitsprüfung, Sichtkontrolle und endgültige Versiegelung.
+
+---
+
+## Richtpreise für Vorhangfassaden 2026
+
+| Systemart | Fläche | Geschätzter Preis (inklusive Montage) |
+|---|---|---|
+| Standard SMARTIA M50, Zweifachverglasung Low-E | 50–100 m² | 180–220 EUR/m² |
+| Standard SMARTIA M50, Zweifachverglasung Low-E | > 100 m² | 160–190 EUR/m² |
+| Halbstrukturell, Zweifachverglasung Low-E | 50–100 m² | 260–320 EUR/m² |
+| Strukturell mit Spider, Sicherheitsglas | beliebig | 400–500 EUR/m² |
+
+*Die Preise verstehen sich ohne MwSt. und können je nach Gebäudehöhe, Komplexität der Form und Glasart variieren. Fordern Sie ein individuelles Angebot an.*
+
+---
+
+## Warum Neofort BIZ für Vorhangfassaden
+
+Wir arbeiten ausschließlich mit europäisch zertifizierten **Alumil-Profilen**, mit EPDM-Dichtungen und hochwertigem Struktursilikon. Wir bieten:
+
+- Technische Planung im Angebot inbegriffen
+- **5 Jahre** Garantie auf die Dichtheit
+- Eigenes spezialisiertes Montageteam
+- Lieferung und Montage in ganz Rumänien und der EU
 
 **WhatsApp:** +40 752 443 435
 
-**Zeiten:** Montag–Freitag, 10:00–18:00
+**Öffnungszeiten:** Montag–Freitag, 10:00–18:00 Uhr
 
 ## Häufig gestellte Fragen
 
 ### Was ist eine Vorhangfassade und wie unterscheidet sie sich von einem großen Fenster?
 
-Eine Vorhangfassade ist eine selbsttragende Außenfassade aus Aluminiumprofilen und Glas, die keine Gebäudelast trägt — ihr Eigengewicht wird auf die Decken oder Stützen übertragen. Anders als ein Fenster bedeckt sie eine oder mehrere komplette Fassaden, ohne Unterbrechung zwischen den Etagen.
+Eine Vorhangfassade ist eine selbsttragende Außenfassade aus Aluminiumprofilen und Glas, die keine tragenden Lasten des Gebäudes aufnimmt — ihr Eigengewicht wird an Geschossdecken oder Stützen abgegeben. Anders als ein Fenster bedeckt sie eine oder mehrere komplette Fassaden, ohne Unterbrechung zwischen den Geschossen.
 
 ### Welche 3 Arten von Vorhangfassaden gibt es und was kosten sie?
 
-Die Standard-Vorhangfassade (sichtbare Profile mit Pressleisten) kostet 800-1.200 Lei/m²; die halbstrukturelle (Profile auf einer Achse sichtbar, der Rest mit Strukturklebstoff verklebt) kostet 1.200-1.800 Lei/m²; die strukturelle (Spider Glass, vollständig verdeckte Profile) ist am teuersten, mit durchgehender Glasfläche.
+Die Standard-Vorhangfassade (sichtbare Profile mit Deckleisten) kostet 160-240 EUR/m²; die halbstrukturelle (Profile in einer Achse sichtbar, der Rest mit Struktursilikon verklebt) 240-360 EUR/m²; die strukturelle (Spider-Glas, vollständig unsichtbare Profile) 360-500 EUR/m². Alle Preise inklusive Montage und ohne MwSt.
 
-### Was ist eine strukturelle Spider-Glass-Vorhangfassade?
+### Was ist eine strukturelle Vorhangfassade mit Spider-Glas?
 
-Bei einer strukturellen Vorhangfassade sind die Aluminiumprofile von außen vollständig unsichtbar. Das Glas wird mit Punkthaltern (Spider Fittings) gehalten oder komplett mit Strukturkleber verklebt, was eine perfekt durchgehende Glasfläche ergibt — die sauberste architektonische Optik.
+Bei der strukturellen Vorhangfassade sind die Aluminiumprofile von außen vollständig unsichtbar. Das Glas wird mit Punkthaltern (Spider) gehalten oder vollflächig mit Struktursilikon verklebt — so entsteht eine vollkommen durchgehende Glasfläche, die Lösung mit der klarsten architektonischen Optik.
 
 ### Für welche Gebäude wird die Standard-Vorhangfassade empfohlen?
 
-Die Standard-Vorhangfassade, die günstigste, hat ein sichtbares Profil mit Pressleisten, Doppel- oder Dreifachglas von 24-48 mm, Windwiderstand Klasse C3 und Schlagregendichtheit Klasse E1050. Empfohlen für Bürogebäude, Geschäftsräume, Showrooms und Industriehallen mit Bürobereich.
+Die Standard-Vorhangfassade, die günstigste Variante, hat ein sichtbares Profil mit Deckleisten und Zweifach- oder Dreifachverglasung von 24-54 mm. Sie wird für Bürogebäude, Gewerbeflächen, Showrooms und Industriehallen mit Bürobereich empfohlen.
+
+### Welche Alumil-Systeme verwenden Sie für Vorhangfassaden?
+
+Wir arbeiten mit dem gesamten Alumil-Programm. Am häufigsten eingesetzt werden SMARTIA M50 (das Standardsystem, 50 mm Ansichtsbreite, Uf ab 1,0) und SMARTIA M7 (50 mm Ansichtsbreite, passivhauszertifiziert phA), dazu M3 für halbstrukturelle und M4 für strukturelle Fassaden.
 
 ---
 
-Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit thermischer Trennung und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber für Aluminiumfenster](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Die Details je System finden Sie unter [den Aluminiumsystemen, die wir montieren](/de/aluminiumfenster/kompletter-ratgeber), die Verglasungsdaten unter [Saint-Gobain Isolierglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas).`,
+Neofort BIZ plant und montiert Alumil-Aluminiumsysteme in Bukarest und Ilfov, mit thermischer Trennung und Montage durch eigene Teams. Sehen Sie sich die [Aluminiumfenster](/de/aluminiumfenster) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Lesen Sie auch den [vollständigen Leitfaden zu Aluminiumfenstern](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden) und die [besten Aluminiumtüren in Sektor 1 Bukarest](/de/blog/beste-aluminiumtueren-sektor-1-bukarest). Details zu den Systemen finden Sie unter [die Aluminiumsysteme, die wir montieren](/de/aluminiumfenster/kompletter-ratgeber), die Verglasungsdaten unter [Saint-Gobain-Wärmeschutzisolierglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas).`,
 
-      fr: `## Qu'est-ce qu'un mur rideau
+      fr: `## Qu’est-ce qu’un mur-rideau ?
 
-Un mur rideau est une **façade extérieure autoportante** en [aluminium](/fr/menuiserie-aluminium) et verre, qui ne reprend aucune charge structurale du bâtiment.
+Le mur-rideau est une **façade extérieure autoportante**, réalisée en [profilés aluminium](/fr/menuiserie-aluminium) et en verre, qui :
 
----
+- **ne reprend aucune charge structurelle** du bâtiment — son poids propre est transmis aux planchers ou aux poteaux
+- protège l’intérieur des intempéries, du vent et des variations de température
+- apporte un maximum de lumière naturelle dans les grands espaces
+- définit l’identité architecturale du bâtiment
 
-## Les 3 types de murs rideaux
-
-### 1. Mur rideau standard
-
-Profile aluminium **visible de l'extérieur**, fixant le vitrage avec des couvre-joints. Le plus courant et le plus abordable.
-
-- **Prix : 160–240 €/m²** ([pose par nos équipes](/fr/services) incluse)
-
-### 2. Mur rideau semi-structurel
-
-Profilés visibles **dans une seule direction**, les autres côtés collés au silicone structurel.
-
-- **Prix : 240–360 €/m²** (montage inclus)
-
-### 3. Mur rideau structurel (spider glass)
-
-**Profilés aluminium totalement invisibles de l'extérieur.** Vitrage maintenu par spider fittings ou collé au silicone structurel sur 4 côtés.
-
-- **Prix : 360–500 €/m²** (montage inclus)
+La différence avec une fenêtre ordinaire ou un grand vitrage : **le mur-rideau couvre une ou plusieurs façades entières**, sans interruption entre les étages, et crée l’effet de « bâtiment en verre ».
 
 ---
 
-## Systèmes Alumil disponibles chez Neofort BIZ
+## Les 3 types de murs-rideaux
 
-### Alumil CW50 — système standard
-- Profil visible : **50 mm**, rupture thermique polyamide
-- Uw façade : 1,3–1,6 W/m²K
+### 1. Le mur-rideau standard (classique)
 
-### Alumil CW60 — système premium profil étroit
-- Profil visible : **60 mm**, rupture thermique 34 mm
-- Compatible triple Low-E
+Le profilé aluminium est **visible de l’extérieur** et maintient le verre par des serreurs et des capots. C’est le plus répandu et le plus abordable.
+
+**Caractéristiques :**
+- Capots visibles de l’extérieur (lignes horizontales + verticales)
+- Double ou triple vitrage isolant, de 24 à 54 mm d’épaisseur
+- Systèmes Alumil utilisés : SMARTIA M50, M7, M35 ou M6
+- **Prix : 160–240 EUR/m²** (y compris la [pose par nos propres équipes](/fr/services))
+
+**Recommandé pour :** immeubles de bureaux, locaux commerciaux, showrooms, halls industriels avec zone de bureaux.
+
+### 2. Le mur-rideau semi-structurel
+
+Les profilés ne sont **visibles que dans une direction** (verticale ou horizontale), les autres bords du verre étant collés au silicone structurel. Le résultat est un aspect plus épuré, aux lignes fines.
+
+**Caractéristiques :**
+- Profilés visibles sur un seul axe
+- Silicone structurel (par exemple DOWSIL) sur les autres bords
+- Système Alumil utilisé : M3 (semi-structurel, à cadres suspendus)
+- **Prix : 240–360 EUR/m²** (pose comprise)
+
+**Recommandé pour :** immeubles de bureaux modernes, hôtels, résidences de luxe.
+
+### 3. Le mur-rideau structurel (verre agrafé / spider)
+
+**Les profilés aluminium sont totalement invisibles de l’extérieur.** Le verre est tenu par des fixations ponctuelles (spider) ou entièrement collé au silicone structurel. Le résultat est une surface vitrée parfaitement continue.
+
+**Caractéristiques :**
+- Aucun profilé visible de l’extérieur
+- Silicone structurel sur les 4 côtés (système Alumil M4) ou système spider
+- Aspect « miroir » continu
+- Le plus exigeant à poser — demande un personnel certifié
+- **Prix : 360–500 EUR/m²** (pose comprise)
+
+**Recommandé pour :** bâtiments haut de gamme, sièges sociaux, projets architecturaux de référence.
 
 ---
 
-## Étapes d'un projet de mur rideau
+## Les systèmes Alumil pour murs-rideaux — ce que fournit Neofort BIZ
 
-1. **Consultation et métrés** (1–2 jours)
-2. **Conception technique** (3–7 jours)
-3. **Production** (15–30 jours)
-4. **Transport et montage** (3–10 jours)
-5. **Étanchéité et tests** (1–2 jours)
+Nous travaillons avec toute la gamme Alumil de murs-rideaux. Les systèmes les plus utilisés :
+
+### Alumil SMARTIA M50 — le système standard
+
+Profilés d’une largeur vue de **50 mm** sur montants et traverses, avec capots ou en version structurelle sans capots.
+
+- Uf : à partir de 1,0 W/m²K (1,0–1,8 selon la configuration)
+- Poids du verre : jusqu’à 180 kg
+- Étanchéité à l’eau : R7 | Perméabilité à l’air : AE
+- Anti-effraction : jusqu’à RC3
+
+### Alumil SMARTIA M7 — performance énergétique maximale
+
+Également **50 mm** de largeur vue, mais conçu pour les bâtiments aux exigences énergétiques élevées.
+
+- Uf : à partir de 1,0 W/m²K
+- Certifié maison passive (classe phA), avec un Uw de 0,80 W/m²K en triple vitrage de 54 mm
+- Étanchéité à l’eau : RE 1200 | Perméabilité à l’air : AE
+- Anti-effraction : RC3/RC4
+
+### Alumil M3 et M4 — semi-structurel et structurel
+
+Des systèmes à cadres suspendus pour les façades aux profilés visibles sur un seul axe (M3) ou totalement cachés (M4). Pour les immeubles de grande hauteur, Alumil propose aussi des systèmes à cellules (M65, M78), assemblés en usine.
 
 ---
 
-## Demandez un devis pour murs rideaux
+## Les types de verre pour murs-rideaux
+
+Le choix du verre influence fortement les performances thermiques et acoustiques et l’aspect du bâtiment :
+
+| Type de verre | Transmission lumineuse | Facteur solaire g | Usage |
+|---|---|---|---|
+| Verre clair 4+16+4 | 80 % | 0,62 | Bureaux avec protection solaire extérieure |
+| Low-E 4+16+4 | 72 % | 0,38 | Bâtiments nZEB standard |
+| Triple Low-E 4+12+4+12+4 | 68 % | 0,32 | nZEB, maisons passives |
+| Verre réfléchissant | 40–60 % | 0,20–0,35 | Bâtiments en plein soleil, sud de la Roumanie |
+| Verre feuilleté trempé | 70 % | 0,50 | Zones piétonnes, étages inférieurs |
+
+**La recommandation de Neofort BIZ :** pour les projets neufs en Roumanie, nous recommandons un double vitrage Low-E 4+16+4 à l’argon en standard, et un triple Low-E pour les bâtiments nZEB.
+
+---
+
+## Les étapes d’un projet de mur-rideau
+
+Contrairement à la menuiserie ordinaire, un mur-rideau exige une **coordination avec l’ingénieur structure** :
+
+**1. Devis sur la base du projet (48 heures)**
+Nous partons des plans d’architecte et vous recevez un devis détaillé sous 48 heures.
+
+**2. Métré sur le chantier, après le contrat (1 à 2 jours)**
+Après la signature du contrat, nous prenons les mesures précises et vérifions la structure de fixation existante.
+
+**3. Études techniques (3 à 7 jours)**
+Plan de façade avec détails de jonction, calcul structurel au vent, choix du verre et des profilés.
+
+**4. Fabrication (15 à 30 jours)**
+Profilés coupés et usinés en usine, verre commandé auprès du fournisseur (Saint-Gobain).
+
+**5. Pose, étanchéité et essais (3 à 10 jours selon la surface)**
+Une équipe spécialisée, avec échafaudage ou nacelle. Pour finir : essai d’étanchéité à l’eau, contrôle visuel et calfeutrement définitif.
+
+---
+
+## Prix indicatifs des murs-rideaux en 2026
+
+| Type de système | Surface | Prix estimé (pose comprise) |
+|---|---|---|
+| Standard SMARTIA M50, double vitrage Low-E | 50–100 m² | 180–220 EUR/m² |
+| Standard SMARTIA M50, double vitrage Low-E | > 100 m² | 160–190 EUR/m² |
+| Semi-structurel, double vitrage Low-E | 50–100 m² | 260–320 EUR/m² |
+| Structurel spider, verre trempé | toutes | 400–500 EUR/m² |
+
+*Les prix s’entendent hors TVA et peuvent varier selon la hauteur du bâtiment, la complexité de la forme et le type de verre. Demandez un devis personnalisé.*
+
+---
+
+## Pourquoi Neofort BIZ pour les murs-rideaux
+
+Nous travaillons exclusivement avec des **profilés Alumil** certifiés en Europe, des joints EPDM et un silicone structurel de qualité. Nous proposons :
+
+- Les études techniques comprises dans le devis
+- Une garantie de **5 ans** sur l’étanchéité
+- Notre propre équipe de pose spécialisée
+- La livraison et la pose dans toute la Roumanie et l’UE
 
 **WhatsApp :** +40 752 443 435
 
+**Horaires :** du lundi au vendredi, 10h–18h
 
 ## Questions fréquentes
 
-### Qu'est-ce qu'un mur-rideau et en quoi diffère-t-il d'une grande fenêtre ?
+### Qu’est-ce qu’un mur-rideau et en quoi diffère-t-il d’une grande fenêtre ?
 
-Un mur-rideau est une façade extérieure autoportante en profilés aluminium et verre qui ne porte aucune charge structurelle du bâtiment — son poids propre est transféré aux planchers ou poteaux. Contrairement à une fenêtre, il couvre une ou plusieurs façades complètes, sans interruption entre les étages.
+Le mur-rideau est une façade extérieure autoportante en profilés aluminium et en verre, qui ne reprend aucune charge structurelle du bâtiment — son poids propre est transmis aux planchers ou aux poteaux. Contrairement à une fenêtre, il couvre une ou plusieurs façades entières, sans interruption entre les étages.
 
 ### Quels sont les 3 types de murs-rideaux et combien coûtent-ils ?
 
-Le mur-rideau standard (profilés visibles avec capots presseurs) coûte 800-1 200 lei/m² ; le semi-structurel (profilés visibles sur un seul axe, le reste collé au silicone structurel) coûte 1 200-1 800 lei/m² ; le structurel (spider glass, profilés totalement cachés) est le plus cher, avec une surface de verre continue.
+Le mur-rideau standard (profilés visibles avec capots) coûte 160-240 EUR/m² ; le semi-structurel (profilés visibles sur un seul axe, le reste collé au silicone structurel) 240-360 EUR/m² ; le structurel (verre agrafé, profilés totalement invisibles) 360-500 EUR/m². Tous les prix comprennent la pose et s’entendent hors TVA.
 
-### Qu'est-ce qu'un mur-rideau structurel spider glass ?
+### Qu’est-ce qu’un mur-rideau structurel en verre agrafé ?
 
-Dans un mur-rideau structurel, les profilés aluminium sont totalement invisibles de l'extérieur. Le verre est fixé par points (spider fittings) ou entièrement collé au silicone structurel, donnant une surface de verre parfaitement continue — l'aspect architectural le plus épuré.
+Sur un mur-rideau structurel, les profilés aluminium sont totalement invisibles de l’extérieur. Le verre est tenu par des fixations ponctuelles (spider) ou entièrement collé au silicone structurel, ce qui donne une surface vitrée parfaitement continue — la solution à l’aspect architectural le plus épuré.
 
-### Pour quels bâtiments le mur-rideau standard est-il recommandé ?
+### Pour quels bâtiments recommande-t-on le mur-rideau standard ?
 
-Le mur-rideau standard, le plus abordable, a un profilé visible avec capots presseurs, double ou triple vitrage de 24-48 mm, résistance au vent classe C3 et étanchéité classe E1050. Il est recommandé pour les immeubles de bureaux, espaces commerciaux, showrooms et halls industriels avec zone de bureau.
+Le mur-rideau standard, le plus abordable, a un profilé visible avec capots et un double ou triple vitrage de 24-54 mm. Il est recommandé pour les immeubles de bureaux, les locaux commerciaux, les showrooms et les halls industriels avec zone de bureaux.
 
----
+### Quels systèmes Alumil utilisez-vous pour les murs-rideaux ?
 
-Neofort BIZ conçoit et pose de la menuiserie aluminium Alumil à Bucarest et Ilfov, à rupture thermique et avec ses propres équipes. Voir [la menuiserie aluminium](/fr/menuiserie-aluminium) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet de la menuiserie aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Le détail par système est sur [les systèmes aluminium que nous posons](/fr/menuiserie-aluminium/guide-complet), et les spécifications de vitrage sur [vitrage isolant Saint-Gobain](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg).`,
-
-      es: `## Qué es un muro cortina
-
-Un muro cortina es una **fachada exterior autoportante** de [aluminio](/es/carpinteria-aluminio) y vidrio que no soporta cargas estructurales del edificio.
+Nous travaillons avec toute la gamme Alumil. Les plus utilisés sont le SMARTIA M50 (le système standard, 50 mm de largeur vue, Uf à partir de 1,0) et le SMARTIA M7 (50 mm de largeur vue, certifié maison passive phA), ainsi que le M3 pour les façades semi-structurelles et le M4 pour les façades structurelles.
 
 ---
 
-## Los 3 tipos de muros cortina
+Neofort BIZ conçoit et pose des menuiseries aluminium Alumil à Bucarest et dans l’Ilfov, à rupture thermique et avec nos propres équipes de pose. Découvrez la [menuiserie aluminium](/fr/menuiserie-aluminium) que nous proposons ou [demandez un devis](/fr/contact). Lisez aussi le [guide complet de la menuiserie aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet) et les [meilleures portes en aluminium du Secteur 1 de Bucarest](/fr/blog/meilleures-portes-aluminium-secteur-1-bucarest). Le détail des systèmes se trouve sur [les systèmes aluminium que nous posons](/fr/menuiserie-aluminium/guide-complet), et les caractéristiques des vitrages sur [vitrage isolant Saint-Gobain](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg).`,
 
-### 1. Muro cortina estándar
+      es: `## ¿Qué es un muro cortina?
 
-Perfil de aluminio **visible desde el exterior**, fijando el vidrio con tapas presoras.
+El muro cortina es una **fachada exterior autoportante**, hecha de [perfiles de aluminio](/es/carpinteria-aluminio) y vidrio, que:
 
-- **Precio: 160–240 €/m²** (montaje incluido)
+- **No soporta ninguna carga estructural** del edificio: su peso propio se transmite a los forjados o pilares
+- Protege el interior de la lluvia, el viento y los cambios de temperatura
+- Aporta la máxima luz natural en espacios grandes
+- Define la identidad arquitectónica del edificio
 
-### 2. Muro cortina semi-estructural
-
-Perfiles visibles **solo en una dirección**, otros lados pegados con silicona estructural.
-
-- **Precio: 240–360 €/m²** (montaje incluido)
-
-### 3. Muro cortina estructural (spider glass)
-
-**Perfiles de aluminio completamente invisibles desde el exterior.**
-
-- **Precio: 360–500 €/m²** (montaje incluido)
+La diferencia con una ventana normal o un acristalamiento grande: **el muro cortina cubre una o varias fachadas completas**, sin interrupción entre plantas, y crea el efecto de «edificio de vidrio».
 
 ---
 
-## Sistemas Alumil en Neofort BIZ
+## Los 3 tipos de muro cortina
 
-### Alumil CW50 — sistema estándar
-- Perfil visible: **50 mm**, rotura de puente térmico
-- Uw fachada: 1,3–1,6 W/m²K
+### 1. Muro cortina estándar (clásico)
 
-### Alumil CW60 — sistema premium perfil estrecho
-- Perfil visible: **60 mm**, rotura 34 mm
-- Compatible triple Low-E
+El perfil de aluminio es **visible desde el exterior** y sujeta el vidrio con presores y tapetas. Es el más utilizado y el más asequible.
+
+**Características:**
+- Tapetas visibles desde el exterior (líneas horizontales + verticales)
+- Vidrio aislante doble o triple, de 24 a 54 mm de espesor
+- Sistemas Alumil utilizados: SMARTIA M50, M7, M35 o M6
+- **Precio: 160–240 EUR/m²** (incluida la [instalación con equipos propios](/es/servicios))
+
+**Recomendado para:** edificios de oficinas, locales comerciales, showrooms, naves industriales con zona de oficinas.
+
+### 2. Muro cortina semiestructural
+
+Los perfiles son **visibles solo en una dirección** (vertical u horizontal) y los demás bordes del vidrio se pegan con silicona estructural. El resultado es un aspecto más limpio, de líneas finas.
+
+**Características:**
+- Perfiles visibles en un solo eje
+- Silicona estructural (por ejemplo DOWSIL) en los demás bordes
+- Sistema Alumil utilizado: M3 (semiestructural, con marcos colgados)
+- **Precio: 240–360 EUR/m²** (instalación incluida)
+
+**Recomendado para:** edificios de oficinas modernos, hoteles, residencias de lujo.
+
+### 3. Muro cortina estructural (vidrio abotonado / spider)
+
+**Los perfiles de aluminio son totalmente invisibles desde el exterior.** El vidrio se sujeta con fijaciones puntuales (arañas) o se pega por completo con silicona estructural. El resultado es una superficie de vidrio perfectamente continua.
+
+**Características:**
+- Ningún perfil visible desde el exterior
+- Silicona estructural en los 4 bordes (sistema Alumil M4) o sistema de arañas
+- Aspecto de «espejo» continuo
+- El más exigente de instalar: requiere personal certificado
+- **Precio: 360–500 EUR/m²** (instalación incluida)
+
+**Recomendado para:** edificios premium, sedes corporativas, proyectos arquitectónicos de referencia.
 
 ---
 
-## Etapas de un proyecto de muro cortina
+## Sistemas Alumil para muros cortina: lo que suministra Neofort BIZ
 
-1. **Consulta y mediciones** (1–2 días)
-2. **Diseño técnico** (3–7 días)
-3. **Producción** (15–30 días)
-4. **Transporte e [instalación con equipos propios](/es/servicios)** (3–10 días)
-5. **Sellado y pruebas** (1–2 días)
+Trabajamos con toda la gama Alumil de muros cortina. Los sistemas más utilizados:
+
+### Alumil SMARTIA M50: el sistema estándar
+
+Perfiles con **50 mm** de ancho visto en montantes y travesaños, con tapetas o en versión estructural sin tapetas.
+
+- Uf: desde 1,0 W/m²K (1,0–1,8 según la configuración)
+- Peso del vidrio: hasta 180 kg
+- Estanqueidad al agua: R7 | Permeabilidad al aire: AE
+- Antirrobo: hasta RC3
+
+### Alumil SMARTIA M7: máximo rendimiento energético
+
+También **50 mm** de ancho visto, pero pensado para edificios con exigencias energéticas altas.
+
+- Uf: desde 1,0 W/m²K
+- Certificado Passivhaus (clase phA), con Uw de 0,80 W/m²K con triple acristalamiento de 54 mm
+- Estanqueidad al agua: RE 1200 | Permeabilidad al aire: AE
+- Antirrobo: RC3/RC4
+
+### Alumil M3 y M4: semiestructural y estructural
+
+Sistemas de marcos colgados para fachadas con perfiles visibles en un solo eje (M3) o totalmente ocultos (M4). Para edificios altos, Alumil ofrece además sistemas modulares (M65, M78), montados en fábrica.
 
 ---
 
-## Solicite presupuesto para muros cortina
+## Tipos de vidrio para muros cortina
+
+La elección del vidrio influye mucho en el rendimiento térmico y acústico y en el aspecto del edificio:
+
+| Tipo de vidrio | Transmisión luminosa | Factor solar g | Uso |
+|---|---|---|---|
+| Vidrio claro 4+16+4 | 80 % | 0,62 | Oficinas con protección solar exterior |
+| Low-E 4+16+4 | 72 % | 0,38 | Edificios nZEB estándar |
+| Triple Low-E 4+12+4+12+4 | 68 % | 0,32 | nZEB, casas pasivas |
+| Vidrio reflectante | 40–60 % | 0,20–0,35 | Edificios con sol directo, sur de Rumanía |
+| Vidrio laminado templado | 70 % | 0,50 | Zonas peatonales, plantas bajas |
+
+**Recomendación de Neofort BIZ:** para los proyectos nuevos en Rumanía recomendamos como estándar doble acristalamiento Low-E 4+16+4 con argón, y triple Low-E para los edificios nZEB.
+
+---
+
+## Las fases de un proyecto de muro cortina
+
+A diferencia de la carpintería normal, un muro cortina exige **coordinación con el ingeniero de estructuras**:
+
+**1. Presupuesto a partir del proyecto (48 horas)**
+Partimos de los planos de arquitectura y recibe un presupuesto detallado en 48 horas.
+
+**2. Medición en obra, después del contrato (1–2 días)**
+Tras firmar el contrato, tomamos las medidas precisas y comprobamos la estructura de fijación existente.
+
+**3. Proyecto técnico (3–7 días)**
+Plano de fachada con detalles de unión, cálculo estructural a viento, selección del vidrio y de los perfiles.
+
+**4. Fabricación (15–30 días)**
+Perfiles cortados y mecanizados en fábrica, vidrio pedido al proveedor (Saint-Gobain).
+
+**5. Montaje, sellado y pruebas (3–10 días según la superficie)**
+Un equipo especializado, con andamios o plataforma elevadora. Al final: prueba de estanqueidad, revisión visual y sellado definitivo.
+
+---
+
+## Precios orientativos de muros cortina 2026
+
+| Tipo de sistema | Superficie | Precio estimado (instalación incluida) |
+|---|---|---|
+| Estándar SMARTIA M50, doble acristalamiento Low-E | 50–100 m² | 180–220 EUR/m² |
+| Estándar SMARTIA M50, doble acristalamiento Low-E | > 100 m² | 160–190 EUR/m² |
+| Semiestructural, doble acristalamiento Low-E | 50–100 m² | 260–320 EUR/m² |
+| Estructural con arañas, vidrio templado | cualquiera | 400–500 EUR/m² |
+
+*Los precios no incluyen IVA y pueden variar según la altura del edificio, la complejidad de la forma y el tipo de vidrio. Pida un presupuesto personalizado.*
+
+---
+
+## Por qué Neofort BIZ para muros cortina
+
+Trabajamos exclusivamente con **perfiles Alumil** con certificación europea, juntas de EPDM y silicona estructural de calidad. Ofrecemos:
+
+- Proyecto técnico incluido en el presupuesto
+- Garantía de **5 años** sobre la estanqueidad
+- Equipo de montaje propio y especializado
+- Entrega e instalación en toda Rumanía y la UE
 
 **WhatsApp:** +40 752 443 435
 
+**Horario:** de lunes a viernes, 10:00–18:00
 
 ## Preguntas frecuentes
 
 ### ¿Qué es un muro cortina y en qué se diferencia de una ventana grande?
 
-Un muro cortina es una fachada exterior autoportante de perfiles de aluminio y vidrio que no soporta ninguna carga estructural del edificio — su peso propio se transfiere a los forjados o pilares. A diferencia de una ventana, cubre una o varias fachadas completas, sin interrupción entre plantas.
+El muro cortina es una fachada exterior autoportante de perfiles de aluminio y vidrio que no soporta ninguna carga estructural del edificio: su peso propio se transmite a los forjados o pilares. A diferencia de una ventana, cubre una o varias fachadas completas, sin interrupción entre plantas.
 
 ### ¿Cuáles son los 3 tipos de muro cortina y cuánto cuestan?
 
-El muro cortina estándar (perfiles visibles con tapas presoras) cuesta 800-1.200 lei/m²; el semiestructural (perfiles visibles en un solo eje, el resto pegado con silicona estructural) cuesta 1.200-1.800 lei/m²; el estructural (spider glass, perfiles totalmente ocultos) es el más caro, con superficie de vidrio continua.
+El muro cortina estándar (perfiles visibles con tapetas) cuesta 160-240 EUR/m²; el semiestructural (perfiles visibles en un solo eje, el resto pegado con silicona estructural) 240-360 EUR/m²; el estructural (vidrio abotonado, perfiles totalmente invisibles) 360-500 EUR/m². Todos los precios incluyen la instalación y son sin IVA.
 
-### ¿Qué es un muro cortina estructural spider glass?
+### ¿Qué es un muro cortina estructural de vidrio abotonado?
 
-En un muro cortina estructural, los perfiles de aluminio son totalmente invisibles desde el exterior. El vidrio se sujeta con puntos (spider fittings) o se pega íntegramente con silicona estructural, dando una superficie de vidrio perfectamente continua — el aspecto arquitectónico más limpio.
+En el muro cortina estructural, los perfiles de aluminio son totalmente invisibles desde el exterior. El vidrio se sujeta con fijaciones puntuales (arañas) o se pega por completo con silicona estructural, lo que da una superficie de vidrio perfectamente continua: la solución con el aspecto arquitectónico más limpio.
 
 ### ¿Para qué edificios se recomienda el muro cortina estándar?
 
-El muro cortina estándar, el más asequible, tiene perfil visible con tapas presoras, vidrio doble o triple de 24-48 mm, resistencia al viento clase C3 y estanqueidad clase E1050. Se recomienda para edificios de oficinas, espacios comerciales, showrooms y naves industriales con zona de oficina.
+El muro cortina estándar, el más asequible, tiene un perfil visible con tapetas y vidrio doble o triple de 24-54 mm. Se recomienda para edificios de oficinas, locales comerciales, showrooms y naves industriales con zona de oficinas.
+
+### ¿Qué sistemas Alumil utilizan para los muros cortina?
+
+Trabajamos con toda la gama Alumil. Los más utilizados son SMARTIA M50 (el sistema estándar, 50 mm de ancho visto, Uf desde 1,0) y SMARTIA M7 (50 mm de ancho visto, certificado Passivhaus phA), además de M3 para fachadas semiestructurales y M4 para las estructurales.
 
 ---
 
-Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico y equipos propios. Ver [la carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía completa de la carpintería de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). El detalle por sistema está en [los sistemas de aluminio que instalamos](/es/carpinteria-aluminio/guia-completa), y las especificaciones de acristalamiento en [vidrio aislante Saint-Gobain](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg).`,
+Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico e instalación con equipos propios. Vea la [carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicite un presupuesto](/es/contacto). Lea también la [guía completa de la carpintería de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa) y las [mejores puertas de aluminio del Sector 1 de Bucarest](/es/blog/mejores-puertas-aluminio-sector-1-bucarest). Los detalles de cada sistema están en [los sistemas de aluminio que instalamos](/es/carpinteria-aluminio/guia-completa), y las especificaciones del vidrio en [vidrio aislante Saint-Gobain](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg).`,
 
-      it: `## Cos'è una parete cortina
+      it: `## Che cos’è una facciata continua
 
-Una parete cortina è una **facciata esterna autoportante** in [alluminio](/it/infissi-alluminio) e vetro che non sopporta carichi strutturali dell'edificio.
+La facciata continua (parete cortina) è una **facciata esterna autoportante**, realizzata con [profili in alluminio](/it/infissi-alluminio) e vetro, che:
 
----
+- **Non sostiene alcun carico strutturale** dell’edificio: il suo peso proprio viene trasferito ai solai o ai pilastri
+- Protegge l’interno da pioggia, vento e sbalzi di temperatura
+- Garantisce la massima luce naturale negli spazi ampi
+- Definisce l’identità architettonica dell’edificio
 
-## I 3 tipi di pareti cortina
-
-### 1. Parete cortina standard
-
-Profilo in alluminio **visibile dall'esterno**, che fissa il vetro con pressori.
-
-- **Prezzo: 160–240 €/m²** ([posa con squadre proprie](/it/servizi) inclusa)
-
-### 2. Parete cortina semi-strutturale
-
-Profili visibili **solo in una direzione**, gli altri lati incollati con silicone strutturale.
-
-- **Prezzo: 240–360 €/m²** (installazione inclusa)
-
-### 3. Parete cortina strutturale (spider glass)
-
-**Profili in alluminio completamente invisibili dall'esterno.**
-
-- **Prezzo: 360–500 €/m²** (installazione inclusa)
+La differenza rispetto a una finestra normale o a una grande vetrata: **la facciata continua copre una o più facciate intere**, senza interruzione tra i piani, e crea l’effetto «edificio di vetro».
 
 ---
 
-## Sistemi Alumil da Neofort BIZ
+## I 3 tipi di facciata continua
 
-### Alumil CW50 — sistema standard
-- Profilo visibile: **50 mm**, taglio termico
-- Uw facciata: 1,3–1,6 W/m²K
+### 1. Facciata continua standard (classica)
 
-### Alumil CW60 — sistema premium profilo stretto
-- Profilo visibile: **60 mm**, taglio termico 34 mm
-- Compatibile triplo Low-E
+Il profilo in alluminio è **visibile dall’esterno** e fissa il vetro con pressori e coprifili. È la più diffusa e la più conveniente.
+
+**Caratteristiche:**
+- Coprifili visibili dall’esterno (linee orizzontali + verticali)
+- Vetrocamera doppia o tripla, spessore 24–54 mm
+- Sistemi Alumil utilizzati: SMARTIA M50, M7, M35 o M6
+- **Prezzo: 160–240 EUR/m²** (compresa la [posa con squadre proprie](/it/servizi))
+
+**Consigliata per:** edifici per uffici, spazi commerciali, showroom, capannoni industriali con zona uffici.
+
+### 2. Facciata continua semi-strutturale
+
+I profili sono **visibili in una sola direzione** (verticale o orizzontale), mentre gli altri lati del vetro sono incollati con silicone strutturale. Il risultato è un aspetto più pulito, con linee sottili.
+
+**Caratteristiche:**
+- Profili visibili su un solo asse
+- Silicone strutturale (per esempio DOWSIL) sugli altri lati
+- Sistema Alumil utilizzato: M3 (semi-strutturale, a telai appesi)
+- **Prezzo: 240–360 EUR/m²** (posa compresa)
+
+**Consigliata per:** edifici per uffici moderni, hotel, residenze di lusso.
+
+### 3. Facciata continua strutturale (vetro puntuale / spider)
+
+**I profili in alluminio sono completamente invisibili dall’esterno.** Il vetro è fissato con attacchi puntuali (spider) o incollato interamente con silicone strutturale. Il risultato è una superficie vetrata perfettamente continua.
+
+**Caratteristiche:**
+- Nessun profilo visibile dall’esterno
+- Silicone strutturale su tutti e 4 i lati (sistema Alumil M4) o sistema spider
+- Aspetto a «specchio» continuo
+- La più impegnativa da posare: richiede personale certificato
+- **Prezzo: 360–500 EUR/m²** (posa compresa)
+
+**Consigliata per:** edifici di pregio, sedi aziendali, progetti architettonici di riferimento.
 
 ---
 
-## Fasi di un progetto di parete cortina
+## Sistemi Alumil per facciate continue: cosa fornisce Neofort BIZ
 
-1. **Consulenza e misurazioni** (1–2 giorni)
-2. **Progettazione tecnica** (3–7 giorni)
-3. **Produzione** (15–30 giorni)
-4. **Trasporto e installazione** (3–10 giorni)
-5. **Sigillatura e collaudi** (1–2 giorni)
+Lavoriamo con tutta la gamma Alumil di facciate continue. I sistemi più usati:
+
+### Alumil SMARTIA M50: il sistema standard
+
+Profili con larghezza in vista di **50 mm** su montanti e traversi, con coprifili o in versione strutturale senza coprifili.
+
+- Uf: da 1,0 W/m²K (1,0–1,8 a seconda della configurazione)
+- Peso del vetro: fino a 180 kg
+- Tenuta all’acqua: R7 | Permeabilità all’aria: AE
+- Antieffrazione: fino a RC3
+
+### Alumil SMARTIA M7: massime prestazioni energetiche
+
+Sempre **50 mm** di larghezza in vista, ma pensato per edifici con requisiti energetici elevati.
+
+- Uf: da 1,0 W/m²K
+- Certificato Passivhaus (classe phA), con Uw 0,80 W/m²K con vetro triplo da 54 mm
+- Tenuta all’acqua: RE 1200 | Permeabilità all’aria: AE
+- Antieffrazione: RC3/RC4
+
+### Alumil M3 e M4: semi-strutturale e strutturale
+
+Sistemi a telai appesi per facciate con profili visibili su un solo asse (M3) o completamente nascosti (M4). Per gli edifici alti, Alumil offre anche sistemi a cellule (M65, M78), assemblati in stabilimento.
 
 ---
 
-## Richiedi un preventivo per pareti cortina
+## Tipi di vetro per facciate continue
+
+La scelta del vetro incide molto sulle prestazioni termiche e acustiche e sull’aspetto dell’edificio:
+
+| Tipo di vetro | Trasmissione luminosa | Fattore solare g | Utilizzo |
+|---|---|---|---|
+| Vetro chiaro 4+16+4 | 80% | 0,62 | Uffici con schermatura esterna |
+| Low-E 4+16+4 | 72% | 0,38 | Edifici nZEB standard |
+| Triplo Low-E 4+12+4+12+4 | 68% | 0,32 | nZEB, case passive |
+| Vetro riflettente | 40–60% | 0,20–0,35 | Edifici al sole diretto, sud della Romania |
+| Vetro stratificato temperato | 70% | 0,50 | Zone pedonali, piani bassi |
+
+**La raccomandazione di Neofort BIZ:** per i nuovi progetti in Romania consigliamo come standard il doppio vetro Low-E 4+16+4 con argon, e il triplo Low-E per gli edifici nZEB.
+
+---
+
+## Le fasi di un progetto di facciata continua
+
+A differenza dei serramenti normali, una facciata continua richiede il **coordinamento con lo strutturista**:
+
+**1. Preventivo sulla base del progetto (48 ore)**
+Partiamo dai disegni dell’architetto e ricevete un preventivo dettagliato entro 48 ore.
+
+**2. Rilievo in cantiere, dopo il contratto (1–2 giorni)**
+Dopo la firma del contratto eseguiamo le misure precise e verifichiamo la struttura di fissaggio esistente.
+
+**3. Progettazione tecnica (3–7 giorni)**
+Disegno della facciata con dettagli dei giunti, calcolo strutturale al vento, scelta di vetri e profili.
+
+**4. Produzione (15–30 giorni)**
+Profili tagliati e lavorati in stabilimento, vetro ordinato al fornitore (Saint-Gobain).
+
+**5. Posa, sigillatura e prove (3–10 giorni in base alla superficie)**
+Una squadra specializzata, con ponteggi o piattaforma aerea. Alla fine: prova di tenuta all’acqua, controllo visivo e sigillatura definitiva.
+
+---
+
+## Prezzi indicativi delle facciate continue 2026
+
+| Tipo di sistema | Superficie | Prezzo stimato (posa compresa) |
+|---|---|---|
+| Standard SMARTIA M50, doppio vetro Low-E | 50–100 m² | 180–220 EUR/m² |
+| Standard SMARTIA M50, doppio vetro Low-E | > 100 m² | 160–190 EUR/m² |
+| Semi-strutturale, doppio vetro Low-E | 50–100 m² | 260–320 EUR/m² |
+| Strutturale spider, vetro temperato | qualsiasi | 400–500 EUR/m² |
+
+*I prezzi sono IVA esclusa e possono variare in base all’altezza dell’edificio, alla complessità della forma e al tipo di vetro. Richiedete un preventivo personalizzato.*
+
+---
+
+## Perché Neofort BIZ per le facciate continue
+
+Lavoriamo esclusivamente con **profili Alumil** certificati a livello europeo, guarnizioni in EPDM e silicone strutturale di qualità. Offriamo:
+
+- Progettazione tecnica inclusa nel preventivo
+- Garanzia di **5 anni** sulla tenuta
+- Squadra di posa propria e specializzata
+- Consegna e posa in tutta la Romania e nell’UE
 
 **WhatsApp:** +40 752 443 435
 
+**Orari:** dal lunedì al venerdì, 10:00–18:00
 
 ## Domande frequenti
 
-### Cos'è una facciata continua e in cosa differisce da una grande finestra?
+### Che cos’è una facciata continua e in cosa si distingue da una grande finestra?
 
-Una facciata continua è una facciata esterna autoportante in profili di alluminio e vetro che non sostiene alcun carico strutturale dell'edificio — il peso proprio è trasferito ai solai o pilastri. A differenza di una finestra, copre una o più facciate complete, senza interruzione tra i piani.
+La facciata continua è una facciata esterna autoportante in profili di alluminio e vetro che non sostiene alcun carico strutturale dell’edificio: il suo peso proprio viene trasferito ai solai o ai pilastri. A differenza di una finestra, copre una o più facciate intere, senza interruzione tra i piani.
 
 ### Quali sono i 3 tipi di facciata continua e quanto costano?
 
-La facciata continua standard (profili visibili con coprifili pressori) costa 800-1.200 lei/m²; quella semistrutturale (profili visibili su un solo asse, il resto incollato con silicone strutturale) costa 1.200-1.800 lei/m²; quella strutturale (spider glass, profili totalmente nascosti) è la più costosa, con superficie di vetro continua.
+La facciata continua standard (profili visibili con coprifili) costa 160-240 EUR/m²; quella semi-strutturale (profili visibili su un solo asse, il resto incollato con silicone strutturale) 240-360 EUR/m²; quella strutturale (vetro puntuale, profili completamente invisibili) 360-500 EUR/m². Tutti i prezzi comprendono la posa e sono IVA esclusa.
 
-### Cos'è una facciata continua strutturale spider glass?
+### Che cos’è una facciata continua strutturale con vetro spider?
 
-In una facciata continua strutturale, i profili in alluminio sono totalmente invisibili dall'esterno. Il vetro è fissato a punti (spider fittings) o interamente incollato con silicone strutturale, dando una superficie di vetro perfettamente continua — l'aspetto architettonico più pulito.
+Nella facciata continua strutturale i profili in alluminio sono completamente invisibili dall’esterno. Il vetro è fissato con attacchi puntuali (spider) o incollato interamente con silicone strutturale, così si ottiene una superficie vetrata perfettamente continua: la soluzione con l’aspetto architettonico più pulito.
 
-### Per quali edifici è consigliata la facciata continua standard?
+### Per quali edifici si consiglia la facciata continua standard?
 
-La facciata continua standard, la più accessibile, ha profilo visibile con coprifili pressori, vetro doppio o triplo da 24-48 mm, resistenza al vento classe C3 e tenuta all'acqua classe E1050. È consigliata per edifici per uffici, spazi commerciali, showroom e capannoni industriali con zona uffici.
+La facciata continua standard, la più conveniente, ha un profilo visibile con coprifili e vetro doppio o triplo da 24-54 mm. È consigliata per edifici per uffici, spazi commerciali, showroom e capannoni industriali con zona uffici.
+
+### Quali sistemi Alumil usate per le facciate continue?
+
+Lavoriamo con tutta la gamma Alumil. I più usati sono SMARTIA M50 (il sistema standard, 50 mm in vista, Uf da 1,0) e SMARTIA M7 (50 mm in vista, certificato Passivhaus phA), oltre a M3 per le facciate semi-strutturali e M4 per quelle strutturali.
 
 ---
 
-Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfov, a taglio termico e con squadre proprie. Vedi [i serramenti in alluminio](/it/infissi-alluminio) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa ai serramenti in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa). Il dettaglio per sistema è sui [sistemi in alluminio che installiamo](/it/infissi-alluminio/guida-completa), e le specifiche di vetrazione su [vetrocamera Saint-Gobain](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg).`,
+Neofort BIZ progetta e posa serramenti in alluminio Alumil a Bucarest e in provincia di Ilfov, a taglio termico e con squadre di posa proprie. Scoprite gli [infissi in alluminio](/it/infissi-alluminio) che offriamo o [richiedete un preventivo](/it/contatti). Leggete anche la [guida completa agli infissi in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa) e le [migliori porte in alluminio nel Settore 1 di Bucarest](/it/blog/migliori-porte-alluminio-settore-1-bucarest). I dettagli dei sistemi sono su [i sistemi in alluminio che posiamo](/it/infissi-alluminio/guida-completa), e le specifiche dei vetri su [vetro termoisolante Saint-Gobain](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg).`,
     },
   },
 
@@ -14615,12 +15250,12 @@ Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfo
     imageLabel: 'Zipscreen ZIP',
     accentColor: '#214621',
     title: {
-      ro: 'Sisteme de umbrire exterioară — ghid 2026: ZipScreen, rulouri, Raffstore, pergole',
-      en: 'Exterior shading systems — 2026 guide: ZipScreen, roller shutters, Raffstore, pergolas',
-      de: 'Außenbeschattungssysteme — Ratgeber 2026: ZipScreen, Rollläden, Raffstore, Pergolen',
-      fr: 'Systèmes d’occultation extérieure — guide 2026 : ZipScreen, volets, Raffstore, pergolas',
-      es: 'Sistemas de sombreado exterior — guía 2026: ZipScreen, persianas, Raffstore, pérgolas',
-      it: 'Sistemi di oscuramento esterno — guida 2026: ZipScreen, tapparelle, Raffstore, pergole',
+      ro: 'Umbrire exterioară: ZipScreen, rulouri, Raffstore și pergole',
+      en: 'Exterior shading: ZipScreen, shutters, Raffstore, pergolas',
+      de: 'Außenbeschattung: ZipScreen, Rollläden, Raffstore, Pergolen',
+      fr: 'Occultation : ZipScreen, volets, Raffstore et pergolas',
+      es: 'Sombreado: ZipScreen, persianas, Raffstore y pérgolas',
+      it: 'Oscuramento: ZipScreen, tapparelle, Raffstore e pergole',
     },
     excerpt: {
       ro: 'Care sistem de umbrire exterioară ți se potrivește: ZipScreen, rulouri din aluminiu, jaluzele Raffstore sau pergolă? Ghid complet cu comparații directe, diferența blackout vs screen, prețuri orientative și automatizare Somfy.',
@@ -14640,13 +15275,13 @@ Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfo
     },
     keywords: 'zipscreen, zipscreen pret, zipscreen terasa, zipscreen blackout, zipscreen screen transparent, rulou textil exterior zip, umbrire terasa 2026, zipscreen vs rulouri exterioare, zipscreen vs raffstore, zipscreen somfy, zipscreen pergola, zipscreen balcon',
     content: {
-      ro: `## Ce este Zipscreen și de ce e diferit de rulourile exterioare clasice
+      ro: `## Ce este Zipscreen și de ce e diferit de rulourile textile clasice
 
 La prima vedere, Zipscreen pare un rulou exterior obișnuit. Diferența fundamentală e invizibilă până când bate vântul.
 
-Un rulou exterior clasic — chiar și din [aluminiu](/ro/tamplarie-aluminiu) — are marginile materialului libere în ghidaje. La vânt, materialul se bombează, fluturează și poate ieși din șine. **Zipscreen rezolvă această problemă prin fermoarul ZIP**: marginile materialului textil sunt prinse mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar de jachetă. Materialul nu poate ieși din ghidaje indiferent de intensitatea vântului — sistemul este testat și certificat **Clasa 6 Beaufort, până la 88 km/h**.
+Un rulou textil exterior clasic are marginile pânzei libere în ghidaje. La vânt, pânza se bombează, fluturează și poate ieși din șine. **Zipscreen rezolvă această problemă prin fermoarul ZIP**: marginile materialului textil sunt prinse mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar de geacă. Materialul rămâne în ghidaje și pe vânt puternic — sistemul este testat în **clasa 6 de rezistență la vânt, până la 88 km/h**.
 
-Aceasta este diferența care justifică prețul superior față de un rulou clasic și care face din Zipscreen singura soluție textilă viabilă pentru terase deschise, pergole și fațade expuse.
+Aceasta este diferența care justifică prețul mai mare față de un rulou textil clasic și care face din Zipscreen soluția textilă potrivită pentru terase deschise, pergole și fațade expuse.
 
 ---
 
@@ -14658,81 +15293,81 @@ Aceasta este diferența care justifică prețul superior față de un rulou clas
 
 **Jaluzelele venețiene exterioare (Raffstore)** au lamele orientabile, deci îți dau control fin asupra luminii: poți umbri fără să întuneci complet camera. Comparația detaliată dintre cele două o găsești în [Jaluzele Raffstore vs rulouri exterioare din aluminiu](/ro/blog/jaluzele-raffstore-vs-rulouri-aluminiu).
 
-**ZipScreen** — sistemul pe care îl detaliem în acest ghid — folosește o țesătură tehnică ghidată în fermoar lateral, rezistentă la vânt, ideală pentru terase și suprafețe vitrate mari. Poate fi transparent (păstrează vederea) sau blackout (întuneric total): diferența practică e explicată în [ZipScreen blackout sau transparent — cum alegi](/ro/blog/rulouri-zipscreen-blackout-sau-transparent-cum-alegi).
+**ZipScreen** — sistemul pe care îl detaliem în acest ghid — folosește o țesătură tehnică ghidată în fermoar lateral, rezistentă la vânt, potrivită pentru terase și suprafețe vitrate mari. Poate fi transparent (păstrează vederea) sau blackout (întuneric total): diferența practică e explicată în [ZipScreen blackout sau transparent — cum alegi](/ro/blog/rulouri-zipscreen-blackout-sau-transparent-cum-alegi).
 
-**Pergolele** sunt soluția pentru terase și grădini, unde nu umbrești o fereastră, ci un spațiu exterior întreg. Diferența dintre cele bioclimatice (cu lamele orientabile) și cele clasice e detaliată în [Pergolă bioclimatică vs clasică](/ro/blog/pergola-bioclimatica-vs-clasica-ghid-alegere).
+**Pergolele** sunt soluția pentru terase și grădini, unde nu umbrești o fereastră, ci un spațiu exterior întreg. Diferența dintre cele bioclimatice (cu lamele orientabile) și cele clasice cu pânză e detaliată în [Pergolă bioclimatică vs clasică](/ro/blog/pergola-bioclimatica-vs-clasica-ghid-alegere).
 
 Dacă vrei să vezi direct ce opțiuni și prețuri există pe piața din București, citește și [Unde cumperi sisteme de umbrire în București](/ro/blog/unde-cumpar-jaluzele-exterioare-bucuresti).
 
 ## Blackout sau Screen — care este diferența reală
 
-Aceasta este prima și cea mai importantă decizie la achiziționarea unui Zipscreen.
+Aceasta este prima și cea mai importantă decizie când alegi un Zipscreen.
 
 ### Zipscreen Blackout (opac)
-Materialul nu lasă nicio rază de lumină să treacă. Avantaje concrete:
-- **Reducere temperatură interioară cu 15–20°C** față de un spațiu neprotejat
+Materialul nu lasă lumina să treacă. Avantaje concrete:
+- **Temperatură interioară cu până la 15–20°C mai mică** față de un spațiu neprotejat
 - **Intimitate totală** — nu se vede nimic din afară, ziua sau noaptea
-- Ideal pentru dormitoare la parter, restaurante unde se dorește intimitate, terase cu orientare vest sau sud
+- Potrivit pentru dormitoare la parter, restaurante unde se dorește intimitate, terase orientate spre vest sau sud
 
 Dezavantaj: odată coborât, pierzi vederea spre exterior și lumina naturală.
 
 ### Zipscreen Screen (transparent sau perforat)
 Materialul are microperforații — de la 3% la 10% deschidere vizuală. Avantaje:
-- **Filtrare UV 95–98%** — protejează pielea și mobila fără să blocheze lumina
-- **Vedere păstrată** din interior spre exterior (dinspre exterior spre interior vizibilitatea este mult redusă — efect de oglindă)
-- Temperatura redusă cu 8–12°C față de expunere directă
-- Permite circularea aerului
+- **Filtrare UV de 95–98%** — protejează pielea și mobila fără să blocheze lumina
+- **Vedere păstrată** din interior spre exterior (dinspre exterior spre interior vizibilitatea este mult redusă)
+- Temperatură cu până la 8–12°C mai mică față de expunerea directă
+- Permite circulația aerului
 
-Ideal pentru: terase rezidențiale unde se vrea umbra fără izolare, restaurante și cafenele, balcoane cu vedere.
+Potrivit pentru: terase rezidențiale unde vrei umbră fără să te izolezi, restaurante și cafenele, balcoane cu vedere.
 
-**Recomandarea Neofort BIZ**: dacă nu ești sigur, alege Screen. Oferă 80% din beneficiile blackout-ului cu zero sacrificiu al vederii.
+**Recomandarea Neofort BIZ**: dacă nu ești sigur, alege Screen. Îți dă cea mai mare parte din beneficiile blackout-ului fără să renunți la vedere.
 
 ---
 
-## Zipscreen vs Rulouri Exterioare din Aluminiu — comparație directă
+## Zipscreen vs rulouri exterioare din aluminiu — comparație directă
 
-| Criteriu | Zipscreen | Rulouri Aluminiu |
+| Criteriu | Zipscreen | Rulouri aluminiu |
 |---|---|---|
-| Material | Textil (PVC țesut) | Lamele aluminiu |
-| Rezistență vânt | **Clasa 6 · 88 km/h** | Clasa 4–5 · 600 Pa |
+| Material | Țesătură tehnică (fibră de sticlă sau poliester acoperit cu PVC) | Lamele de aluminiu extrudat izolat |
+| Rezistență vânt | Clasa 6 · până la 88 km/h | Până la 1.050 Pa (lamele rigide) |
 | Vizibilitate | Screen: **DA** · Blackout: nu | Nu |
-| Reducere solară | Blackout: 95% · Screen: 70–80% | 70–85% |
+| Reducere aport solar | Blackout: până la 95% | Până la 70% |
 | Izolare termică nocturnă | Mică | **Bună (ΔU ≈ 0,3 W/m²K)** |
-| Antiefracție | Nu | RC2–RC3 |
-| Dimensiuni maxime | **5.000 × 5.000 mm** | 3.500 × 3.000 mm |
-| Ideal pentru | Terase, pergole, fațade mari | Ferestre, balcoane |
-| Preț orientativ | 225–450 EUR/mp | 85–180 EUR/mp |
+| Antiefracție | Nu | RC3 cu ghidaje securizate |
+| Dimensiuni maxime | **5.000 × 5.000 mm, max. 16 m²** | 4.500 × 3.000 mm |
+| Potrivit pentru | Terase, pergole, fațade mari | Ferestre, balcoane |
+| Preț orientativ | 225–450 EUR/mp | 85–220 EUR/mp |
 
-**Concluzie**: Rulourile de aluminiu sunt superioare pentru ferestre individuale unde contează izolarea termică nocturnă și antiefracția. Zipscreen câștigă clar pe suprafețe mari, terase, pergole și oriunde ai nevoie de vizibilitate sau de acoperire de peste 3,5 m lățime.
+**Concluzie**: rulourile din aluminiu sunt mai bune la ferestrele individuale, unde contează izolarea termică nocturnă și antiefracția. Zipscreen câștigă pe suprafețe mari, pe terase, la pergole și oriunde ai nevoie de vizibilitate sau de o acoperire mai lată de 4,5 m.
 
 ---
 
-## Zipscreen vs Jaluzele Raffstore — când alegi ce
+## Zipscreen vs jaluzele Raffstore — când alegi ce
 
-Raffstore (jaluzele venețiene exterioare) sunt [sistemul de umbrire](/ro/umbrire) cu cel mai bun control al luminii — lamelele se orientează la orice unghi 0°–90°. Dar au un cost suplimentar și nu sunt ideale pentru suprafețe mari sau terase deschise.
+Raffstore (jaluzelele venețiene exterioare) sunt [sistemul de umbrire](/ro/umbrire) cu cel mai bun control al luminii — lamelele se orientează la orice unghi între 0° și 90°. Sunt însă gândite pentru ferestre și fațade, nu pentru terase deschise.
 
 | Criteriu | Zipscreen | Raffstore |
 |---|---|---|
 | Control lumină | Coborât / ridicat | **Precizie 0°–90°** |
-| Rezistență vânt | **Clasa 6** | Clasa 4–5 |
-| Suprafețe mari | **DA (până la 5 m)** | Limitat la 3–4 m |
+| Rezistență vânt | **Clasa 6** | Clasa 5 |
+| Suprafețe mari | **Până la 5 m lățime și 16 m²** | Până la 5 m lățime |
 | Aplicare pe terasă | **Ideal** | Ferestre, fațade |
 | Vedere spre exterior | Screen: **DA** | Parțial (lamele) |
-| Preț | 225–450 EUR/mp | 200–500 EUR/mp |
+| Preț | 225–450 EUR/mp | 150–200 EUR/mp cu motor |
 
 ---
 
 ## Unde se montează Zipscreen — 5 aplicații principale
 
-**1. Laturi de pergolă retractabilă** — cea mai frecventă aplicație. Pergola acoperă, Zipscreen închide lateral. Rezultat: terasă complet protejată.
+**1. Laturi de pergolă retractabilă** — cea mai frecventă aplicație. Pergola acoperă, Zipscreen închide lateral. Rezultat: terasă protejată din toate părțile.
 
-**2. Fațade vitrate** — pe suprafețe mari de sticlă unde rulourile de aluminiu nu ajung. Zipscreen acoperă 16 m² fără nicio coloană intermediară.
+**2. Fațade vitrate** — pe suprafețe mari de sticlă, unde rulourile din aluminiu nu ajung. Zipscreen acoperă până la 16 m² fără coloană intermediară.
 
-**3. Ferestre mari** — glisante, culisante sau fixe cu lățimi de peste 3,5 m unde lamelele Raffstore nu sunt disponibile.
+**3. Ferestre mari** — glisante, culisante sau fixe, unde vrei umbră fără să pierzi vederea spre exterior.
 
-**4. Balcoane** — atât pentru umbrire cât și ca paravan împotriva vântului. Materialul perforat permite circularea aerului fără curenți.
+**4. Balcoane** — atât pentru umbrire, cât și ca paravan împotriva vântului. Materialul perforat lasă aerul să circule fără curenți.
 
-**5. Spații comerciale** — terase de restaurant, cafenele, showroom-uri. Brandul și culoarea RAL a profilului pot fi personalizate.
+**5. Spații comerciale** — terase de restaurant, cafenele, showroom-uri. Culoarea RAL a profilului se poate alege după identitatea brandului.
 
 ---
 
@@ -14740,31 +15375,31 @@ Raffstore (jaluzele venețiene exterioare) sunt [sistemul de umbrire](/ro/umbrir
 
 Zipscreen se poate acționa manual (cu manivelă) sau electric. Motorul electric Somfy adaugă:
 
-- **Senzor de vânt** — coboară automat la viteze periculoase, protejând investiția
-- **Senzor solar** — se coboară automat când soarele depășește un prag setat
-- **Aplicație mobilă Somfy TaHoma** — control de oriunde
-- **Integrare smart home** — KNX, Zigbee, WiFi, inclusiv Google Home și Apple HomeKit
+- **Senzor de vânt** — ridică automat pânza la vânt prea puternic, protejând investiția
+- **Senzor solar** — coboară automat pânza când soarele depășește un prag setat
+- **Aplicația Somfy TaHoma** — control de oriunde
+- **Integrare smart home** — prin TaHoma Switch, cu Alexa, Google Home și Apple HomeKit, sau prin KNX
 
-Motorul Somfy costă orientativ 110–150 EUR + TVA, fără montaj. Recomandăm întotdeauna varianta electrică — senzorul de vânt singur justifică diferența de preț.
+Motorul Somfy costă orientativ 110–150 EUR fără TVA, fără montaj. Recomandăm întotdeauna varianta electrică — senzorul de vânt singur justifică diferența de preț.
 
---- Detalii pe fiecare tip de automatizare găsești în [motoare Somfy pentru rulouri exterioare](/ro/blog/somfy-rulouri-motoare-exterioare), [automatizarea pergolelor și copertinelor](/ro/blog/somfy-automatizare-pergole-copertine) și [integrarea în smart home cu Somfy TaHoma](/ro/blog/somfy-tahoma-smart-home-romania).
+Detalii pe fiecare tip de automatizare găsești în [motoare Somfy pentru rulouri exterioare](/ro/blog/somfy-rulouri-motoare-exterioare), [automatizarea pergolelor și copertinelor](/ro/blog/somfy-automatizare-pergole-copertine) și [integrarea în smart home cu Somfy TaHoma](/ro/blog/somfy-tahoma-smart-home-romania).
 
 ## Prețuri orientative Zipscreen 2026
 
-Prețul variază în funcție de dimensiuni, material (blackout sau screen) și tip de acționare:
+Prețul variază în funcție de dimensiuni, material (blackout sau screen) și tipul de acționare:
 
 | Configurație | Preț estimat (montaj inclus) |
 |---|---|
 | Zipscreen manual | 225–300 EUR/mp |
 | Zipscreen cu motor Somfy | 350–450 EUR/mp |
 
-*Prețurile includ profilul din aluminiu, materialul, motorul (la varianta electrică) și montajul și nu includ TVA. Sunt valabile pentru unități de dimensiuni obișnuite; la suprafețe mari, oferta se calculează pe proiect. Culori RAL speciale sau materiale premium pot adăuga 10–20%.*
+*Prețurile includ profilul din aluminiu, materialul, motorul (la varianta electrică) și montajul și nu includ TVA. Sunt valabile pentru unități de dimensiuni obișnuite; la suprafețe mari, oferta se calculează pe proiect. Culorile RAL speciale sau materialele premium pot adăuga 10–20%.*
 
 ---
 
 ## Solicită ofertă Zipscreen de la Neofort BIZ
 
-Neofort BIZ furnizează și montează sisteme Zipscreen în București și toată Europa. Serviciul include consultanță privind alegerea materialului și integrarea în arhitectura existentă.
+Neofort BIZ furnizează și montează sisteme Zipscreen în București și Ilfov. Serviciul include consultanță la alegerea materialului și la integrarea în arhitectura existentă, iar oferta o primești în 48 de ore.
 
 **WhatsApp:** +40 752 443 435
 
@@ -14772,472 +15407,809 @@ Neofort BIZ furnizează și montează sisteme Zipscreen în București și toat�
 
 ## Întrebări frecvente
 
-### Prin ce e diferit Zipscreen de un rulou exterior clasic?
+### Prin ce e diferit Zipscreen de un rulou textil clasic?
 
-Zipscreen prinde marginile materialului textil mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar. Materialul nu poate ieși din ghidaje indiferent de vânt — sistemul e certificat Clasa 6 Beaufort, până la 88 km/h. Un rulou clasic, cu marginile libere, fluturează și poate ieși din șine.
+Zipscreen prinde marginile materialului textil mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar. Materialul rămâne în ghidaje și pe vânt puternic — sistemul e testat în clasa 6 de rezistență la vânt, până la 88 km/h. Un rulou textil clasic, cu marginile libere, fluturează și poate ieși din șine.
 
 ### Ce să aleg, Zipscreen Blackout sau Screen?
 
-Blackout-ul e opac, reduce temperatura interioară cu 15-20°C și oferă intimitate totală, dar pierzi vederea și lumina. Screen-ul are microperforații, filtrează 95-98% UV, păstrează vederea spre exterior și reduce temperatura cu 8-12°C. Recomandarea: dacă nu ești sigur, alege Screen — 80% din beneficii fără sacrificiul vederii.
+Blackout-ul e opac, poate reduce temperatura interioară cu până la 15-20°C și oferă intimitate totală, dar pierzi vederea și lumina. Screen-ul are microperforații, filtrează 95-98% din UV, păstrează vederea spre exterior și reduce temperatura cu până la 8-12°C. Dacă nu ești sigur, alege Screen.
 
 ### Ce protecție UV oferă Zipscreen Screen?
 
-Zipscreen Screen, cu microperforații de 3-10% deschidere vizuală, filtrează 95-98% din radiația UV, protejând pielea și mobila fără să blocheze lumina. Păstrează vederea din interior spre exterior și permite circularea aerului, reducând temperatura cu 8-12°C.
+Zipscreen Screen, cu microperforații de 3-10% deschidere vizuală, filtrează 95-98% din radiația UV, protejând pielea și mobila fără să blocheze lumina. Păstrează vederea din interior spre exterior și lasă aerul să circule.
 
 ### Rezistă Zipscreen la vânt puternic pe terase deschise?
 
-Da. Datorită fermoarului ZIP care fixează marginile materialului în ghidaje, Zipscreen este testat și certificat Clasa 6 Beaufort, până la 88 km/h. Este singura soluție textilă viabilă pentru terase deschise, pergole și fațade expuse la vânt.
+Da. Datorită fermoarului ZIP care fixează marginile materialului în ghidaje, Zipscreen este testat în clasa 6 de rezistență la vânt, până la 88 km/h. Cu motor Somfy și senzor de vânt, pânza se ridică singură când vântul depășește pragul setat.
 
+### Cât costă un Zipscreen?
+
+Orientativ, 225–300 EUR/mp în varianta manuală și 350–450 EUR/mp cu motor Somfy, cu montaj inclus și fără TVA. Pentru suprafețe mari sau culori speciale, oferta se calculează pe proiect.
 
 ---
 
-Neofort BIZ montează ZipScreen, rulouri, Raffstore și pergole bioclimatice, în București și Ilfov. [Descrie-ne terasa](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de sisteme de umbrire](/ro/umbrire) pe care o oferim. Configurațiile disponibile sunt descrise pe pagina [sisteme Zipscreen](/ro/umbrire/zipscreen), iar nivelurile de preț pe tip de sistem sunt la [prețuri sisteme de umbrire](/ro/umbrire/preturi-sisteme-umbrire).
-`,
+Neofort BIZ montează ZipScreen, rulouri, Raffstore și pergole cu pânză Somfy, în București și Ilfov. [Descrie-ne terasa](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de sisteme de umbrire](/ro/umbrire) pe care o oferim. Configurațiile disponibile sunt descrise pe pagina [sisteme Zipscreen](/ro/umbrire/zipscreen), iar nivelurile de preț pe tip de sistem sunt la [prețuri sisteme de umbrire](/ro/umbrire/preturi-sisteme-umbrire).`,
 
-      en: `## What is Zipscreen and why is it different from classic roller shutters
+      en: `## What Zipscreen is and how it differs from classic fabric blinds
 
-At first glance, [Zipscreen](/en/shading-systems) looks like an ordinary exterior roller. The fundamental difference is invisible until the wind blows.
+At first sight, a Zipscreen looks like an ordinary exterior blind. The fundamental difference is invisible until the wind blows.
 
-A classic exterior roller shutter — even [aluminium](/en/aluminium-windows) — has the fabric edges free in the guides. In wind, the fabric bulges, flutters and can exit the rails. **Zipscreen solves this with the ZIP fastener**: the fabric edges are mechanically locked in a U-shaped aluminium profile, exactly like a jacket zipper. The fabric cannot exit the guides regardless of wind intensity — the system is tested and certified **Class 6 Beaufort, up to 88 km/h**.
+A classic exterior fabric blind has the edges of the fabric loose in its guides. In the wind, the fabric bulges, flaps and can come out of the rails. **Zipscreen solves this with the ZIP fastener**: the edges of the fabric are held mechanically in a U-shaped aluminium profile, just like a jacket zip. The material stays in the guides even in strong wind — the system is tested to **wind resistance class 6, up to 88 km/h**.
 
-This is the difference that justifies the higher price versus a classic roller and makes Zipscreen the only viable textile solution for open terraces, pergolas and exposed facades.
+This is the difference that justifies the higher price compared with a classic fabric blind, and that makes Zipscreen the right fabric solution for open terraces, pergolas and exposed facades.
 
 ---
 
 ## The four exterior shading systems — which one suits you
 
-Before going into ZipScreen details, it is worth knowing what alternatives you have. Four main types of exterior solar protection are installed, each with its own strengths:
+Before going into the details of ZipScreen, it is worth knowing what alternatives you have. Four main types of exterior sun protection are installed in Romania, each with its strengths:
 
-**Aluminium roller shutters** are the most widespread: rigid slats, good thermal and acoustic insulation, complete darkness and added security. They are the classic choice for bedrooms and street-facing windows.
+**Aluminium exterior roller shutters** are the most widespread: rigid slats, good thermal and acoustic insulation, complete darkness and extra security. They are the classic choice for bedrooms and street-facing windows.
 
-**Exterior venetian blinds (Raffstore)** have tiltable slats, giving you fine control over light: you can shade without darkening the room completely. The detailed comparison between the two is in [Raffstore blinds vs aluminium roller shutters](/en/blog/raffstore-blinds-vs-aluminium-shutters).
+**Exterior venetian blinds (Raffstore)** have adjustable slats, so they give you fine control over the light: you can shade without darkening the room completely. You will find the detailed comparison of the two in [Raffstore blinds vs aluminium exterior shutters](/en/blog/raffstore-blinds-vs-aluminium-shutters).
 
-**ZipScreen** — the system detailed in this guide — uses a technical fabric guided in a lateral zip, wind-resistant, ideal for terraces and large glazed areas. It can be transparent (keeps the view) or blackout (total darkness): the practical difference is explained in [ZipScreen blackout or transparent — how to choose](/en/blog/zipscreen-blinds-blackout-or-transparent-how-to-choose).
+**ZipScreen** — the system this guide covers in detail — uses a technical fabric guided in a side zip, wind-resistant and suited to terraces and large glazed areas. It can be transparent (keeping the view) or blackout (total darkness): the practical difference is explained in [ZipScreen blackout or transparent — how to choose](/en/blog/zipscreen-blinds-blackout-or-transparent-how-to-choose).
 
-**Pergolas** are the solution for terraces and gardens, where you are not shading a window but an entire outdoor space. The difference between bioclimatic ones (with tiltable louvres) and classic ones is detailed in [Bioclimatic vs classic pergola](/en/blog/bioclimatic-vs-classic-pergola-guide).
+**Pergolas** are the solution for terraces and gardens, where you are not shading a window but a whole outdoor space. The difference between bioclimatic pergolas (with adjustable louvres) and classic fabric ones is explained in [Bioclimatic vs classic pergola](/en/blog/bioclimatic-vs-classic-pergola-guide).
 
-If you want to see directly what options and prices exist on the Bucharest market, also read [Where to buy shading systems in Bucharest](/en/blog/where-to-buy-exterior-blinds-bucharest). Details on each type of automation are in [Somfy motors for roller shutters](/en/blog/somfy-shutter-motors), [pergola and awning automation](/en/blog/somfy-pergola-awning-automation) and [smart home integration with Somfy TaHoma](/en/blog/somfy-tahoma-smart-home-bucharest).
+If you want to see straight away which options and prices are on the Bucharest market, also read [Where to buy shading systems in Bucharest](/en/blog/where-to-buy-exterior-blinds-bucharest).
 
-## Blackout or Screen — the real difference
+## Blackout or Screen — what is the real difference
 
-This is the first and most important decision when purchasing Zipscreen.
+This is the first and most important decision when you choose a Zipscreen.
 
 ### Zipscreen Blackout (opaque)
-The fabric lets no light through. Concrete advantages:
-- **Indoor temperature reduction of 15–20°C** versus an unprotected space
-- **Total privacy** — nothing visible from outside, day or night
-- Ideal for ground floor bedrooms, restaurants wanting privacy, terraces facing west or south
+The material lets no light through. Concrete advantages:
+- **An indoor temperature up to 15–20°C lower** than in an unprotected space
+- **Total privacy** — nothing can be seen from outside, day or night
+- Suited to ground-floor bedrooms, restaurants that want privacy, terraces facing west or south
 
-Disadvantage: once lowered, you lose the exterior view and natural light.
+Disadvantage: once it is down, you lose the view outside and the natural light.
 
 ### Zipscreen Screen (transparent or perforated)
-The fabric has microperforations — from 3% to 10% visual openness. Advantages:
-- **95–98% UV filtering** — protects skin and furniture without blocking light
-- **View maintained** from inside to outside (outside-to-inside visibility much reduced — mirror effect)
-- Temperature reduced by 8–12°C versus direct exposure
-- Allows air circulation
+The material has micro-perforations — from 3% to 10% openness. Advantages:
+- **95–98% UV filtering** — protects skin and furniture without blocking the light
+- **The view is kept** from inside to outside (from outside to inside visibility is much reduced)
+- A temperature up to 8–12°C lower than with direct exposure
+- Lets the air circulate
 
-Ideal for: residential terraces wanting shade without isolation, restaurants and cafes, balconies with views.
+Suited to: residential terraces where you want shade without shutting yourself in, restaurants and cafés, balconies with a view.
 
-**Neofort BIZ recommendation**: if unsure, choose Screen. Offers 80% of blackout benefits with zero sacrifice of the view.
+**Neofort BIZ recommendation**: if you are not sure, choose Screen. It gives you most of the benefits of blackout without giving up the view.
 
 ---
 
-## Zipscreen vs Aluminium Roller Shutters — direct comparison
+## Zipscreen vs aluminium exterior roller shutters — a direct comparison
 
-| Criterion | Zipscreen | Aluminium Shutters |
+| Criterion | Zipscreen | Aluminium shutters |
 |---|---|---|
-| Material | Textile (woven PVC) | Aluminium slats |
-| Wind resistance | **Class 6 · 88 km/h** | Class 4–5 · 600 Pa |
+| Material | Technical fabric (PVC-coated fibreglass or polyester) | Insulated extruded aluminium slats |
+| Wind resistance | Class 6 · up to 88 km/h | Up to 1,050 Pa (rigid slats) |
 | Visibility | Screen: **YES** · Blackout: no | No |
-| Solar reduction | Blackout: 95% · Screen: 70–80% | 70–85% |
-| Night thermal insulation | Small | **Good (ΔU ≈ 0.3 W/m²K)** |
-| Burglar resistance | No | RC2–RC3 |
-| Maximum dimensions | **5,000 × 5,000 mm** | 3,500 × 3,000 mm |
-| Best for | Terraces, pergolas, large facades | Windows, balconies |
-| Indicative price | 225–450 EUR/m² | 85–180 EUR/m² |
+| Solar gain reduction | Blackout: up to 95% | Up to 70% |
+| Night-time thermal insulation | Low | **Good (ΔU ≈ 0.3 W/m²K)** |
+| Burglar resistance | No | RC3 with secured guides |
+| Maximum dimensions | **5,000 × 5,000 mm, max. 16 m²** | 4,500 × 3,000 mm |
+| Suited to | Terraces, pergolas, large facades | Windows, balconies |
+| Indicative price | 225–450 EUR/m² | 85–220 EUR/m² |
+
+**Conclusion**: aluminium shutters are better on individual windows, where night-time thermal insulation and burglar resistance matter. Zipscreen wins on large surfaces, on terraces, on pergolas and wherever you need visibility or coverage wider than 4.5 m.
 
 ---
 
-## Prices and automation
+## Zipscreen vs Raffstore blinds — when to choose which
 
-Indicative prices for 2026:
+Raffstore (exterior venetian blinds) are the [shading system](/en/shading-systems) with the best light control — the slats can be set at any angle between 0° and 90°. They are designed, however, for windows and facades, not for open terraces.
+
+| Criterion | Zipscreen | Raffstore |
+|---|---|---|
+| Light control | Down / up | **Precise 0°–90°** |
+| Wind resistance | **Class 6** | Class 5 |
+| Large surfaces | **Up to 5 m wide and 16 m²** | Up to 5 m wide |
+| Use on a terrace | **Ideal** | Windows, facades |
+| View outside | Screen: **YES** | Partial (slats) |
+| Price | 225–450 EUR/m² | 150–200 EUR/m² with motor |
+
+---
+
+## Where Zipscreen is fitted — 5 main applications
+
+**1. Sides of a retractable pergola** — the most common application. The pergola covers, the Zipscreen closes the sides. Result: a terrace protected on all sides.
+
+**2. Glazed facades** — on large glass surfaces that aluminium shutters cannot reach. A Zipscreen covers up to 16 m² with no intermediate post.
+
+**3. Large windows** — sliding, lift-and-slide or fixed, where you want shade without losing the view outside.
+
+**4. Balconies** — both for shading and as a windbreak. The perforated material lets air circulate without draughts.
+
+**5. Commercial spaces** — restaurant terraces, cafés, showrooms. The RAL colour of the profile can be chosen to match the brand identity.
+
+---
+
+## Somfy automation — why it is worth it
+
+A Zipscreen can be operated by hand (with a crank) or electrically. The Somfy electric motor adds:
+
+- **Wind sensor** — automatically raises the fabric in winds that are too strong, protecting the investment
+- **Sun sensor** — automatically lowers the fabric when the sun goes above a set threshold
+- **The Somfy TaHoma app** — control from anywhere
+- **Smart home integration** — through TaHoma Switch, with Alexa, Google Home and Apple HomeKit, or through KNX
+
+The Somfy motor costs roughly 110–150 EUR excluding VAT, without installation. We always recommend the electric version — the wind sensor alone justifies the price difference.
+
+You will find details on each type of automation in [Somfy motors for exterior shutters](/en/blog/somfy-shutter-motors), [automating pergolas and awnings](/en/blog/somfy-pergola-awning-automation) and [smart home integration with Somfy TaHoma](/en/blog/somfy-tahoma-smart-home-bucharest).
+
+## Indicative Zipscreen prices 2026
+
+The price varies with the dimensions, the material (blackout or screen) and the type of operation:
 
 | Configuration | Estimated price (installation included) |
 |---|---|
-| Zipscreen, manual | 225–300 EUR/m² |
+| Manual Zipscreen | 225–300 EUR/m² |
 | Zipscreen with Somfy motor | 350–450 EUR/m² |
 
-*Prices include the aluminium profile, the fabric, the motor (on the electric version) and installation, and exclude VAT. They apply to units of usual size; for large areas the quote is calculated per project.*
-
-**WhatsApp:** +40 752 443 435
-
-
-## Frequently Asked Questions
-
-### How is Zipscreen different from a classic exterior roller blind?
-
-Zipscreen grips the fabric edges mechanically in a U-shaped aluminium track, exactly like a zip. The fabric cannot leave the guides regardless of wind — the system is certified Beaufort Class 6, up to 88 km/h. A classic blind, with free edges, flutters and can slip out of the rails.
-
-### Should I choose Zipscreen Blackout or Screen?
-
-Blackout is opaque, cuts indoor temperature by 15-20°C and gives full privacy, but you lose the view and light. Screen has micro-perforations, filters 95-98% of UV, keeps the outward view and cuts temperature by 8-12°C. Recommendation: if unsure, choose Screen — 80% of the benefits without sacrificing the view.
-
-### What UV protection does Zipscreen Screen offer?
-
-Zipscreen Screen, with micro-perforations of 3-10% visual openness, filters 95-98% of UV radiation, protecting skin and furniture without blocking light. It keeps the inside-out view and lets air circulate, cutting temperature by 8-12°C.
-
-### Does Zipscreen withstand strong wind on open terraces?
-
-Yes. Thanks to the ZIP that locks the fabric edges in the guides, Zipscreen is tested and certified Beaufort Class 6, up to 88 km/h. It is the only viable fabric solution for open terraces, pergolas and wind-exposed façades.
-
+*Prices include the aluminium profile, the material, the motor (for the electric version) and installation, and exclude VAT. They apply to units of usual dimensions; for large surfaces, the quote is calculated per project. Special RAL colours or premium materials can add 10–20%.*
 
 ---
 
-Neofort BIZ installs ZipScreen, roller shutters, Raffstore and bioclimatic pergolas in Bucharest and Ilfov. [Describe your terrace](/en/contact) and you will receive a quote within 48 hours. See the [shading systems range](/en/shading-systems) we offer. The available configurations are set out on the [Zipscreen systems](/en/shading-systems/zipscreen-exterior-blind) page, and the price levels by system type are at [shading system prices](/en/shading-systems/shading-prices).
-`,
+## Request a Zipscreen quote from Neofort BIZ
 
-      de: `## Was ist Zipscreen und warum ist es anders als klassische Rollläden
+Neofort BIZ supplies and installs Zipscreen systems in Bucharest and Ilfov. The service includes advice on choosing the material and on fitting it into the existing architecture, and you get the quote within 48 hours.
 
-Auf den ersten Blick sieht [Zipscreen](/de/beschattungssysteme) wie ein gewöhnlicher Außenrollladen aus. Der grundlegende Unterschied ist unsichtbar, bis der Wind bläst.
+**WhatsApp:** +40 752 443 435
 
-Ein klassischer Außenrollladen — auch aus [Aluminium](/de/aluminiumfenster) — hat die Gewebekanten frei in den Führungen. Bei Wind wölbt sich das Gewebe, flattert und kann aus den Schienen austreten. **Zipscreen löst das mit dem ZIP-Reißverschluss**: Die Gewebekanten sind mechanisch in einem U-förmigen Aluminiumprofil eingerastet, genau wie ein Jacken-Reißverschluss. Das Gewebe kann die Führungen nicht verlassen, unabhängig von der Windintensität — das System ist getestet und zertifiziert nach **Klasse 6 Beaufort, bis 88 km/h**.
+**Opening hours:** Monday–Friday, 10:00–18:00
+
+## Frequently Asked Questions
+
+### How is a Zipscreen different from a classic fabric blind?
+
+A Zipscreen holds the edges of the fabric mechanically in a U-shaped aluminium profile, just like a zip. The material stays in the guides even in strong wind — the system is tested to wind resistance class 6, up to 88 km/h. A classic fabric blind, with loose edges, flaps and can come out of the rails.
+
+### Which should I choose, Zipscreen Blackout or Screen?
+
+Blackout is opaque, can lower the indoor temperature by up to 15-20°C and gives total privacy, but you lose the view and the light. Screen has micro-perforations, filters 95-98% of UV, keeps the view outside and lowers the temperature by up to 8-12°C. If you are not sure, choose Screen.
+
+### What UV protection does Zipscreen Screen offer?
+
+Zipscreen Screen, with micro-perforations of 3-10% openness, filters 95-98% of UV radiation, protecting skin and furniture without blocking the light. It keeps the view from inside to outside and lets the air circulate.
+
+### Does a Zipscreen stand up to strong wind on open terraces?
+
+Yes. Thanks to the ZIP fastener that holds the edges of the material in the guides, a Zipscreen is tested to wind resistance class 6, up to 88 km/h. With a Somfy motor and wind sensor, the fabric raises itself when the wind goes above the set threshold.
+
+### How much does a Zipscreen cost?
+
+Roughly 225–300 EUR/m² for the manual version and 350–450 EUR/m² with a Somfy motor, installation included and excluding VAT. For large surfaces or special colours, the quote is calculated per project.
+
+---
+
+Neofort BIZ installs ZipScreen, roller shutters, Raffstore and Somfy fabric pergolas in Bucharest and Ilfov. [Describe your terrace to us](/en/contact) and get a quote within 48 hours. See the [range of shading systems](/en/shading-systems) we offer. The available configurations are described on the [Zipscreen systems](/en/shading-systems/zipscreen-exterior-blind) page, and price levels by system type are at [shading system prices](/en/shading-systems/shading-prices).`,
+
+      de: `## Was Zipscreen ist und wie es sich von klassischen Stoffrollos unterscheidet
+
+Auf den ersten Blick sieht ein Zipscreen wie ein gewöhnliches Außenrollo aus. Der grundlegende Unterschied ist unsichtbar, bis der Wind weht.
+
+Bei einem klassischen Außen-Stoffrollo liegen die Stoffkanten lose in den Führungen. Bei Wind bläht sich der Stoff, flattert und kann aus den Schienen springen. **Zipscreen löst dieses Problem mit dem ZIP-Reißverschluss**: Die Kanten des Stoffs werden mechanisch in einem U-förmigen Aluminiumprofil gehalten, genau wie ein Jackenreißverschluss. Das Material bleibt auch bei starkem Wind in den Führungen — das System ist in **Windwiderstandsklasse 6, bis 88 km/h** geprüft.
+
+Das ist der Unterschied, der den höheren Preis gegenüber einem klassischen Stoffrollo rechtfertigt und Zipscreen zur passenden textilen Lösung für offene Terrassen, Pergolen und exponierte Fassaden macht.
 
 ---
 
 ## Die vier Außenbeschattungssysteme — welches passt zu Ihnen
 
-Bevor wir auf ZipScreen-Details eingehen, lohnt es sich zu wissen, welche Alternativen Sie haben. Es werden vier Haupttypen des äußeren Sonnenschutzes montiert, jeder mit eigenen Stärken:
+Bevor wir ins Detail zu ZipScreen gehen, lohnt es sich, die Alternativen zu kennen. In Rumänien werden vier Haupttypen von außenliegendem Sonnenschutz montiert, jeder mit seinen Stärken:
 
-**Aluminiumrollläden** sind am weitesten verbreitet: starre Lamellen, gute Wärme- und Schalldämmung, vollständige Dunkelheit und zusätzliche Sicherheit. Sie sind die klassische Wahl für Schlafzimmer und straßenseitige Fenster.
+**Aluminium-Außenrollläden** sind am weitesten verbreitet: starre Lamellen, gute Wärme- und Schalldämmung, vollständige Verdunkelung und ein Plus an Sicherheit. Sie sind die klassische Wahl für Schlafzimmer und straßenseitige Fenster.
 
-**Außenjalousien (Raffstore)** haben verstellbare Lamellen und geben Ihnen feine Kontrolle über das Licht: Sie können beschatten, ohne den Raum vollständig zu verdunkeln. Den detaillierten Vergleich finden Sie in [Raffstore-Jalousien vs Aluminiumrollläden](/de/blog/raffstore-jalousien-vs-aluminiumrolllaeden).
+**Außenjalousien (Raffstore)** haben verstellbare Lamellen und geben Ihnen so eine feine Lichtsteuerung: Sie können beschatten, ohne den Raum ganz zu verdunkeln. Den ausführlichen Vergleich der beiden finden Sie unter [Raffstore-Jalousien vs. Aluminium-Außenrollläden](/de/blog/raffstore-jalousien-vs-aluminiumrolllaeden).
 
-**ZipScreen** — das in diesem Ratgeber behandelte System — verwendet ein technisches Gewebe, das in einem seitlichen Reißverschluss geführt wird, windbeständig, ideal für Terrassen und große Glasflächen. Es kann transparent (erhält die Sicht) oder Blackout (völlige Dunkelheit) sein: der praktische Unterschied wird in [ZipScreen Blackout oder transparent — wie wählen](/de/blog/zipscreen-rollos-blackout-oder-transparent-wie-waehlen) erklärt.
+**ZipScreen** — das System, das dieser Ratgeber im Detail behandelt — nutzt ein technisches Gewebe, das seitlich im Reißverschluss geführt wird, windfest und geeignet für Terrassen und große Glasflächen. Es kann transparent sein (die Aussicht bleibt) oder Blackout (volle Verdunkelung): Den praktischen Unterschied erklärt [ZipScreen Blackout oder transparent — wie wählen](/de/blog/zipscreen-rollos-blackout-oder-transparent-wie-waehlen).
 
-**Pergolen** sind die Lösung für Terrassen und Gärten, wo Sie kein Fenster, sondern einen ganzen Außenbereich beschatten. Der Unterschied zwischen bioklimatischen (mit verstellbaren Lamellen) und klassischen wird in [Bioklimatische vs klassische Pergola](/de/blog/bioklimatische-vs-klassische-pergola-ratgeber) erläutert.
+**Pergolen** sind die Lösung für Terrassen und Gärten, wo Sie kein Fenster beschatten, sondern einen ganzen Außenbereich. Den Unterschied zwischen bioklimatischen Pergolen (mit verstellbaren Lamellen) und klassischen Tuchpergolen erklärt [Bioklimatische vs. klassische Pergola](/de/blog/bioklimatische-vs-klassische-pergola-ratgeber).
 
-Wenn Sie direkt sehen möchten, welche Optionen und Preise es auf dem Bukarester Markt gibt, lesen Sie auch [Wo kaufe ich Beschattungssysteme in Bukarest](/de/blog/wo-kaufe-ich-aussenjalousien-bukarest). Details zu jeder Automatisierungsart finden Sie in [Somfy-Motoren für Rollläden](/de/blog/somfy-rolllaeden-motoren), [Pergola- und Markisenautomatisierung](/de/blog/somfy-pergola-markisen-automatisierung) und [Smart-Home-Integration mit Somfy TaHoma](/de/blog/somfy-tahoma-smart-home-bukarest).
+Wenn Sie direkt sehen möchten, welche Optionen und Preise es auf dem Bukarester Markt gibt, lesen Sie auch [Wo kauft man Beschattungssysteme in Bukarest](/de/blog/wo-kaufe-ich-aussenjalousien-bukarest).
 
-## Blackout oder Screen — der echte Unterschied
+## Blackout oder Screen — was ist der echte Unterschied
 
-### Zipscreen Blackout (opak)
-Das Gewebe lässt kein Licht durch:
-- **Innentemperatur reduziert um 15–20°C**
-- **Totale Privatsphäre** — nichts von außen sichtbar
-- Ideal für Schlafzimmer, Restaurants, West- oder Süd-Terrassen
+Das ist die erste und wichtigste Entscheidung, wenn Sie einen Zipscreen wählen.
+
+### Zipscreen Blackout (blickdicht)
+Das Material lässt kein Licht durch. Konkrete Vorteile:
+- **Raumtemperatur bis zu 15–20 °C niedriger** als in einem ungeschützten Raum
+- **Vollständige Privatsphäre** — von außen ist nichts zu sehen, weder tagsüber noch nachts
+- Geeignet für Schlafzimmer im Erdgeschoss, Restaurants, die Privatsphäre wünschen, Terrassen nach Westen oder Süden
+
+Nachteil: Ist er heruntergelassen, verlieren Sie die Aussicht und das Tageslicht.
 
 ### Zipscreen Screen (transparent oder perforiert)
-Das Gewebe hat Mikroperforationen:
-- **95–98% UV-Filterung** bei erhaltener Außensicht
-- Temperatur um 8–12°C reduziert
-- Ermöglicht Luftzirkulation
+Das Material hat Mikroperforationen — 3 % bis 10 % Öffnungsgrad. Vorteile:
+- **UV-Filterung von 95–98 %** — schützt Haut und Möbel, ohne das Licht abzublocken
+- **Die Aussicht bleibt** von innen nach außen (von außen nach innen ist die Sicht stark eingeschränkt)
+- Temperatur bis zu 8–12 °C niedriger als bei direkter Sonne
+- Lässt die Luft zirkulieren
 
-**Neofort BIZ empfiehlt**: Bei Unsicherheit Screen wählen — 80% der Blackout-Vorteile ohne Sichtverlust.
+Geeignet für: Wohnterrassen, auf denen Sie Schatten möchten, ohne sich abzuschotten, Restaurants und Cafés, Balkone mit Aussicht.
+
+**Empfehlung von Neofort BIZ**: Wenn Sie unsicher sind, wählen Sie Screen. Sie erhalten den größten Teil der Vorteile von Blackout, ohne auf die Aussicht zu verzichten.
 
 ---
 
-## Zipscreen vs Außenrollladen — Direktvergleich
+## Zipscreen vs. Aluminium-Außenrollläden — der direkte Vergleich
 
-| Kriterium | Zipscreen | Aluminiumrollladen |
+| Kriterium | Zipscreen | Aluminiumrollläden |
 |---|---|---|
-| Windwiderstand | **Klasse 6 · 88 km/h** | Klasse 4–5 |
-| Außensicht | Screen: **JA** | Nein |
-| Max. Abmessungen | **5.000 × 5.000 mm** | 3.500 × 3.000 mm |
-| Ideal für | Terrassen, Pergolen | Fenster, Balkone |
-| Preis | 225–450 EUR/m² | 85–180 EUR/m² |
+| Material | Technisches Gewebe (PVC-beschichtetes Glasfaser- oder Polyestergewebe) | Ausgeschäumte stranggepresste Aluminiumlamellen |
+| Windwiderstand | Klasse 6 · bis 88 km/h | Bis 1.050 Pa (starre Lamellen) |
+| Durchsicht | Screen: **JA** · Blackout: nein | Nein |
+| Reduzierung des Sonneneintrags | Blackout: bis 95 % | Bis 70 % |
+| Nächtliche Wärmedämmung | Gering | **Gut (ΔU ≈ 0,3 W/m²K)** |
+| Einbruchhemmung | Nein | RC3 mit gesicherten Führungen |
+| Maximale Maße | **5.000 × 5.000 mm, max. 16 m²** | 4.500 × 3.000 mm |
+| Geeignet für | Terrassen, Pergolen, große Fassaden | Fenster, Balkone |
+| Richtpreis | 225–450 EUR/m² | 85–220 EUR/m² |
+
+**Fazit**: Aluminiumrollläden sind an einzelnen Fenstern besser, wo nächtliche Wärmedämmung und Einbruchschutz zählen. Zipscreen punktet auf großen Flächen, auf Terrassen, an Pergolen und überall dort, wo Sie Durchsicht oder eine Abdeckung von mehr als 4,5 m Breite brauchen.
 
 ---
 
-## Preise und Automatisierung 2026
+## Zipscreen vs. Raffstore-Jalousien — wann was
 
-| Konfiguration | Geschätzter Preis (Montage inklusive) |
+Raffstore (Außenjalousien) sind das [Beschattungssystem](/de/beschattungssysteme) mit der besten Lichtsteuerung — die Lamellen lassen sich in jedem Winkel zwischen 0° und 90° stellen. Sie sind jedoch für Fenster und Fassaden gedacht, nicht für offene Terrassen.
+
+| Kriterium | Zipscreen | Raffstore |
+|---|---|---|
+| Lichtsteuerung | Herunter / hoch | **Präzise 0°–90°** |
+| Windwiderstand | **Klasse 6** | Klasse 5 |
+| Große Flächen | **Bis 5 m Breite und 16 m²** | Bis 5 m Breite |
+| Einsatz auf der Terrasse | **Ideal** | Fenster, Fassaden |
+| Aussicht nach außen | Screen: **JA** | Teilweise (Lamellen) |
+| Preis | 225–450 EUR/m² | 150–200 EUR/m² mit Motor |
+
+---
+
+## Wo Zipscreen montiert wird — 5 Hauptanwendungen
+
+**1. Seiten einer einziehbaren Pergola** — die häufigste Anwendung. Die Pergola deckt ab, der Zipscreen schließt die Seiten. Ergebnis: eine rundum geschützte Terrasse.
+
+**2. Glasfassaden** — auf großen Glasflächen, die Aluminiumrollläden nicht erreichen. Ein Zipscreen deckt bis zu 16 m² ohne Zwischenpfosten ab.
+
+**3. Große Fenster** — Schiebe-, Hebe-Schiebe- oder Festverglasungen, bei denen Sie Schatten möchten, ohne die Aussicht zu verlieren.
+
+**4. Balkone** — zur Beschattung und als Windschutz. Das perforierte Material lässt die Luft ohne Zugluft zirkulieren.
+
+**5. Gewerbeflächen** — Restaurantterrassen, Cafés, Showrooms. Die RAL-Farbe des Profils lässt sich passend zur Markenidentität wählen.
+
+---
+
+## Somfy-Automatisierung — warum sie sich lohnt
+
+Ein Zipscreen lässt sich von Hand (mit Kurbel) oder elektrisch bedienen. Der elektrische Somfy-Motor bringt:
+
+- **Windsensor** — fährt den Stoff bei zu starkem Wind automatisch hoch und schützt die Investition
+- **Sonnensensor** — fährt den Stoff automatisch herunter, wenn die Sonne einen eingestellten Wert überschreitet
+- **Die App Somfy TaHoma** — Steuerung von überall
+- **Smart-Home-Anbindung** — über TaHoma Switch mit Alexa, Google Home und Apple HomeKit oder über KNX
+
+Der Somfy-Motor kostet etwa 110–150 EUR ohne MwSt., ohne Montage. Wir empfehlen immer die elektrische Variante — schon der Windsensor rechtfertigt den Preisunterschied.
+
+Details zu den einzelnen Automatisierungen finden Sie unter [Somfy-Motoren für Außenrollläden](/de/blog/somfy-rolllaeden-motoren), [Automatisierung von Pergolen und Markisen](/de/blog/somfy-pergola-markisen-automatisierung) und [Smart-Home-Anbindung mit Somfy TaHoma](/de/blog/somfy-tahoma-smart-home-bukarest).
+
+## Richtpreise für Zipscreen 2026
+
+Der Preis hängt von den Maßen, dem Material (Blackout oder Screen) und der Bedienungsart ab:
+
+| Ausführung | Geschätzter Preis (inklusive Montage) |
 |---|---|
-| Zipscreen, manuell | 225–300 EUR/m² |
+| Zipscreen manuell | 225–300 EUR/m² |
 | Zipscreen mit Somfy-Motor | 350–450 EUR/m² |
 
-*Die Preise umfassen Aluminiumprofil, Gewebe, Motor (bei der elektrischen Ausführung) und Montage, zzgl. MwSt. Sie gelten für Anlagen üblicher Größe; bei großen Flächen wird das Angebot projektbezogen berechnet.*
+*Die Preise beinhalten Aluminiumprofil, Material, Motor (bei der elektrischen Variante) und Montage und verstehen sich ohne MwSt. Sie gelten für Einheiten in üblichen Maßen; bei großen Flächen wird das Angebot projektbezogen berechnet. Sonder-RAL-Farben oder Premiummaterialien können 10–20 % hinzufügen.*
+
+---
+
+## Zipscreen-Angebot bei Neofort BIZ anfordern
+
+Neofort BIZ liefert und montiert Zipscreen-Systeme in Bukarest und Ilfov. Zum Service gehört die Beratung bei der Wahl des Materials und bei der Einbindung in die bestehende Architektur; das Angebot erhalten Sie innerhalb von 48 Stunden.
 
 **WhatsApp:** +40 752 443 435
 
+**Öffnungszeiten:** Montag–Freitag, 10:00–18:00 Uhr
 
 ## Häufig gestellte Fragen
 
-### Wie unterscheidet sich Zipscreen von einem klassischen Außenrollo?
+### Wie unterscheidet sich ein Zipscreen von einem klassischen Stoffrollo?
 
-Zipscreen fasst die Stoffkanten mechanisch in einer U-förmigen Aluminiumschiene, genau wie ein Reißverschluss. Der Stoff kann die Führungen bei keinem Wind verlassen — das System ist zertifiziert Beaufort Klasse 6, bis 88 km/h. Ein klassisches Rollo mit freien Kanten flattert und kann aus den Schienen rutschen.
+Ein Zipscreen hält die Kanten des Stoffs mechanisch in einem U-förmigen Aluminiumprofil, genau wie ein Reißverschluss. Das Material bleibt auch bei starkem Wind in den Führungen — das System ist in Windwiderstandsklasse 6, bis 88 km/h, geprüft. Ein klassisches Stoffrollo mit losen Kanten flattert und kann aus den Schienen springen.
 
-### Soll ich Zipscreen Blackout oder Screen wählen?
+### Was soll ich wählen, Zipscreen Blackout oder Screen?
 
-Blackout ist blickdicht, senkt die Innentemperatur um 15-20°C und gibt volle Privatsphäre, aber Sie verlieren Sicht und Licht. Screen hat Mikroperforationen, filtert 95-98% UV, behält die Sicht nach außen und senkt die Temperatur um 8-12°C. Empfehlung: im Zweifel Screen — 80% der Vorteile ohne Sichtverlust.
+Blackout ist blickdicht, kann die Raumtemperatur um bis zu 15-20 °C senken und bietet vollständige Privatsphäre, aber Sie verlieren Aussicht und Licht. Screen hat Mikroperforationen, filtert 95-98 % des UV-Lichts, erhält die Aussicht nach außen und senkt die Temperatur um bis zu 8-12 °C. Wenn Sie unsicher sind, wählen Sie Screen.
 
 ### Welchen UV-Schutz bietet Zipscreen Screen?
 
-Zipscreen Screen, mit Mikroperforationen von 3-10% visueller Öffnung, filtert 95-98% der UV-Strahlung und schützt Haut und Möbel, ohne Licht zu blockieren. Es behält die Sicht von innen nach außen, lässt Luft zirkulieren und senkt die Temperatur um 8-12°C.
+Zipscreen Screen mit Mikroperforationen von 3-10 % Öffnungsgrad filtert 95-98 % der UV-Strahlung und schützt Haut und Möbel, ohne das Licht abzublocken. Die Aussicht von innen nach außen bleibt erhalten, und die Luft kann zirkulieren.
 
-### Hält Zipscreen starkem Wind auf offenen Terrassen stand?
+### Hält ein Zipscreen starkem Wind auf offenen Terrassen stand?
 
-Ja. Dank des ZIP, der die Stoffkanten in den Führungen verriegelt, ist Zipscreen getestet und zertifiziert nach Beaufort Klasse 6, bis 88 km/h. Es ist die einzige praktikable Stofflösung für offene Terrassen, Pergolen und windexponierte Fassaden.
+Ja. Dank des ZIP-Reißverschlusses, der die Stoffkanten in den Führungen hält, ist ein Zipscreen in Windwiderstandsklasse 6, bis 88 km/h, geprüft. Mit Somfy-Motor und Windsensor fährt der Stoff selbstständig hoch, wenn der Wind den eingestellten Wert überschreitet.
 
+### Was kostet ein Zipscreen?
+
+Etwa 225–300 EUR/m² in der manuellen Variante und 350–450 EUR/m² mit Somfy-Motor, inklusive Montage und ohne MwSt. Für große Flächen oder Sonderfarben wird das Angebot projektbezogen berechnet.
 
 ---
 
-Neofort BIZ montiert ZipScreen, Rollläden, Raffstore und bioklimatische Pergolen in Bukarest und Ilfov. [Beschreiben Sie uns Ihre Terrasse](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [Beschattungssortiment](/de/beschattungssysteme). Die verfügbaren Konfigurationen stehen auf der Seite [Zipscreen-Systeme](/de/beschattungssysteme/zipscreen-aussenrollo), die Preisniveaus je Systemtyp unter [Preise für Beschattungssysteme](/de/beschattungssysteme/beschattung-preise).
-`,
+Neofort BIZ montiert ZipScreen, Rollläden, Raffstore und Tuchpergolen von Somfy in Bukarest und Ilfov. [Beschreiben Sie uns Ihre Terrasse](/de/kontakt) und erhalten Sie innerhalb von 48 Stunden ein Angebot. Sehen Sie sich das [Programm an Beschattungssystemen](/de/beschattungssysteme) an, das wir anbieten. Die verfügbaren Ausführungen sind auf der Seite [Zipscreen-Systeme](/de/beschattungssysteme/zipscreen-aussenrollo) beschrieben, die Preisniveaus je Systemart unter [Preise für Beschattungssysteme](/de/beschattungssysteme/beschattung-preise).`,
 
-      fr: `## Qu'est-ce que Zipscreen et pourquoi est-il différent des stores classiques
+      fr: `## Ce qu’est le Zipscreen et en quoi il diffère des stores en toile classiques
 
-Au premier regard, [Zipscreen](/fr/systemes-occultation) ressemble à un store extérieur ordinaire. La différence fondamentale est invisible jusqu'à ce que le vent souffle.
+À première vue, un Zipscreen ressemble à un store extérieur ordinaire. La différence fondamentale reste invisible tant que le vent ne souffle pas.
 
-Un store extérieur classique — même en [aluminium](/fr/menuiserie-aluminium) — a les bords du tissu libres dans les glissières. Par vent, le tissu se bombe, claque et peut sortir des rails. **Zipscreen résout cela avec la fermeture ZIP** : les bords du tissu sont mécaniquement bloqués dans un profilé aluminium en U, exactement comme une fermeture éclair de veste. Le tissu ne peut pas quitter les glissières quelle que soit l'intensité du vent — système testé et certifié **Classe 6 Beaufort, jusqu'à 88 km/h**.
+Un store extérieur en toile classique a les bords de la toile libres dans ses coulisses. Sous le vent, la toile se gonfle, claque et peut sortir des rails. **Le Zipscreen règle ce problème grâce à la fermeture ZIP** : les bords de la toile sont tenus mécaniquement dans un profilé aluminium en U, exactement comme une fermeture éclair de veste. Le matériau reste dans les coulisses même par vent fort — le système est testé en **classe 6 de résistance au vent, jusqu’à 88 km/h**.
+
+C’est cette différence qui justifie le prix plus élevé par rapport à un store en toile classique et qui fait du Zipscreen la solution textile adaptée aux terrasses ouvertes, aux pergolas et aux façades exposées.
 
 ---
 
 ## Les quatre systèmes d’occultation extérieure — lequel vous convient
 
-Avant d’entrer dans les détails du ZipScreen, il vaut la peine de savoir quelles alternatives existent. Quatre types principaux de protection solaire extérieure sont posés, chacun avec ses points forts :
+Avant d’entrer dans le détail du ZipScreen, il vaut la peine de connaître les alternatives. En Roumanie, on pose quatre grands types de protection solaire extérieure, chacun avec ses points forts :
 
-**Les volets roulants en aluminium** sont les plus répandus : lames rigides, bonne isolation thermique et acoustique, obscurité complète et sécurité accrue. C’est le choix classique pour les chambres et les fenêtres donnant sur la rue.
+**Les volets roulants extérieurs en aluminium** sont les plus répandus : lames rigides, bonne isolation thermique et acoustique, obscurité totale et un surcroît de sécurité. C’est le choix classique pour les chambres et les fenêtres côté rue.
 
-**Les stores vénitiens extérieurs (Raffstore)** ont des lames orientables, ce qui vous donne un contrôle fin de la lumière : vous pouvez ombrager sans assombrir complètement la pièce. La comparaison détaillée se trouve dans [Stores Raffstore vs volets roulants aluminium](/fr/blog/stores-raffstore-vs-volets-roulants-aluminium).
+**Les brise-soleil orientables (Raffstore)** ont des lames orientables, ce qui vous donne un contrôle fin de la lumière : vous pouvez ombrager sans plonger la pièce dans le noir. La comparaison détaillée des deux se trouve dans [Brise-soleil Raffstore ou volets roulants en aluminium](/fr/blog/stores-raffstore-vs-volets-roulants-aluminium).
 
-**Le ZipScreen** — le système détaillé dans ce guide — utilise une toile technique guidée dans une fermeture éclair latérale, résistante au vent, idéale pour les terrasses et grandes surfaces vitrées. Il peut être transparent (préserve la vue) ou occultant (obscurité totale) : la différence pratique est expliquée dans [ZipScreen occultant ou transparent — comment choisir](/fr/blog/stores-zipscreen-occultant-ou-transparent-comment-choisir).
+**Le ZipScreen** — le système que ce guide détaille — utilise une toile technique guidée dans une fermeture latérale, résistante au vent et adaptée aux terrasses et aux grandes surfaces vitrées. Il peut être transparent (il préserve la vue) ou occultant (obscurité totale) : la différence pratique est expliquée dans [ZipScreen occultant ou transparent — comment choisir](/fr/blog/stores-zipscreen-occultant-ou-transparent-comment-choisir).
 
-**Les pergolas** sont la solution pour terrasses et jardins, où vous n’ombragez pas une fenêtre mais tout un espace extérieur. La différence entre bioclimatiques (à lames orientables) et classiques est détaillée dans [Pergola bioclimatique vs classique](/fr/blog/pergola-bioclimatique-vs-classique-guide).
+**Les pergolas** sont la solution pour les terrasses et les jardins, où l’on n’ombrage pas une fenêtre mais tout un espace extérieur. La différence entre les pergolas bioclimatiques (à lames orientables) et les pergolas classiques à toile est expliquée dans [Pergola bioclimatique ou classique](/fr/blog/pergola-bioclimatique-vs-classique-guide).
 
-Si vous voulez voir directement quelles options et quels prix existent sur le marché de Bucarest, lisez aussi [Où acheter des systèmes d’occultation à Bucarest](/fr/blog/ou-acheter-stores-exterieurs-bucarest). Les détails sur chaque type d’automatisation se trouvent dans [moteurs Somfy pour volets roulants](/fr/blog/somfy-moteurs-volets), [automatisation des pergolas et stores](/fr/blog/somfy-automatisation-pergola-store) et [intégration domotique avec Somfy TaHoma](/fr/blog/somfy-tahoma-maison-connectee-bucarest).
+Si vous voulez voir tout de suite quelles options et quels prix existent sur le marché de Bucarest, lisez aussi [Où acheter des systèmes d’occultation à Bucarest](/fr/blog/ou-acheter-stores-exterieurs-bucarest).
 
-## Blackout ou Screen — la vraie différence
+## Occultant ou Screen — quelle est la vraie différence
 
-### Zipscreen Blackout (opaque)
-- **Réduction température intérieure 15–20°C**
-- **Intimité totale**
-- Idéal terrasses ouest ou sud, restaurants
+C’est la première et la plus importante décision quand vous choisissez un Zipscreen.
+
+### Zipscreen occultant (opaque)
+Le matériau ne laisse passer aucune lumière. Avantages concrets :
+- **Une température intérieure jusqu’à 15–20 °C plus basse** que dans un espace non protégé
+- **Une intimité totale** — on ne voit rien de l’extérieur, de jour comme de nuit
+- Adapté aux chambres en rez-de-chaussée, aux restaurants qui veulent de l’intimité, aux terrasses orientées ouest ou sud
+
+Inconvénient : une fois baissé, vous perdez la vue sur l’extérieur et la lumière naturelle.
 
 ### Zipscreen Screen (transparent ou perforé)
-- **Filtrage UV 95–98%** avec vue extérieure préservée
-- Température réduite de 8–12°C
-- Permet la circulation d'air
+Le matériau a des microperforations — de 3 % à 10 % d’ouverture. Avantages :
+- **Un filtrage des UV de 95 à 98 %** — protège la peau et le mobilier sans bloquer la lumière
+- **La vue est préservée** de l’intérieur vers l’extérieur (de l’extérieur vers l’intérieur, la visibilité est très réduite)
+- Une température jusqu’à 8–12 °C plus basse qu’en exposition directe
+- Laisse l’air circuler
 
-**Recommandation Neofort BIZ** : en cas de doute, choisir Screen.
+Adapté aux : terrasses résidentielles où l’on veut de l’ombre sans s’isoler, restaurants et cafés, balcons avec vue.
+
+**La recommandation de Neofort BIZ** : si vous hésitez, choisissez le Screen. Il vous apporte l’essentiel des avantages de l’occultant sans renoncer à la vue.
 
 ---
 
-## Zipscreen vs Volets roulants aluminium
+## Zipscreen ou volets roulants en aluminium — la comparaison directe
 
-| Critère | Zipscreen | Volets roulants |
+| Critère | Zipscreen | Volets en aluminium |
 |---|---|---|
-| Résistance vent | **Classe 6 · 88 km/h** | Classe 4–5 |
-| Vue extérieure | Screen : **OUI** | Non |
-| Dimensions max | **5.000 × 5.000 mm** | 3.500 × 3.000 mm |
-| Idéal pour | Terrasses, pergolas | Fenêtres, balcons |
-| Prix | 225–450 EUR/m² | 85–180 EUR/m² |
+| Matériau | Toile technique (fibre de verre ou polyester enduit de PVC) | Lames en aluminium extrudé isolé |
+| Résistance au vent | Classe 6 · jusqu’à 88 km/h | Jusqu’à 1 050 Pa (lames rigides) |
+| Visibilité | Screen : **OUI** · Occultant : non | Non |
+| Réduction des apports solaires | Occultant : jusqu’à 95 % | Jusqu’à 70 % |
+| Isolation thermique nocturne | Faible | **Bonne (ΔU ≈ 0,3 W/m²K)** |
+| Anti-effraction | Non | RC3 avec coulisses sécurisées |
+| Dimensions maximales | **5 000 × 5 000 mm, max. 16 m²** | 4 500 × 3 000 mm |
+| Adapté à | Terrasses, pergolas, grandes façades | Fenêtres, balcons |
+| Prix indicatif | 225–450 EUR/m² | 85–220 EUR/m² |
+
+**Conclusion** : les volets en aluminium sont meilleurs sur les fenêtres individuelles, où l’isolation thermique nocturne et l’anti-effraction comptent. Le Zipscreen l’emporte sur les grandes surfaces, les terrasses, les pergolas et partout où vous avez besoin de visibilité ou d’une couverture de plus de 4,5 m de large.
 
 ---
 
-## Prix 2026
+## Zipscreen ou brise-soleil Raffstore — quand choisir quoi
 
-| Configuration | Prix estimé (pose incluse) |
+Les Raffstore (brise-soleil orientables) sont le [système d’occultation](/fr/systemes-occultation) qui offre le meilleur contrôle de la lumière — les lames s’orientent à n’importe quel angle entre 0° et 90°. Ils sont toutefois conçus pour les fenêtres et les façades, pas pour les terrasses ouvertes.
+
+| Critère | Zipscreen | Raffstore |
+|---|---|---|
+| Contrôle de la lumière | Baissé / remonté | **Précision 0°–90°** |
+| Résistance au vent | **Classe 6** | Classe 5 |
+| Grandes surfaces | **Jusqu’à 5 m de large et 16 m²** | Jusqu’à 5 m de large |
+| Usage en terrasse | **Idéal** | Fenêtres, façades |
+| Vue sur l’extérieur | Screen : **OUI** | Partielle (lames) |
+| Prix | 225–450 EUR/m² | 150–200 EUR/m² motorisé |
+
+---
+
+## Où l’on pose un Zipscreen — 5 applications principales
+
+**1. Côtés d’une pergola rétractable** — l’application la plus fréquente. La pergola couvre, le Zipscreen ferme les côtés. Résultat : une terrasse protégée de toutes parts.
+
+**2. Façades vitrées** — sur les grandes surfaces vitrées que les volets en aluminium n’atteignent pas. Un Zipscreen couvre jusqu’à 16 m² sans poteau intermédiaire.
+
+**3. Grandes fenêtres** — coulissantes, levantes-coulissantes ou fixes, quand vous voulez de l’ombre sans perdre la vue sur l’extérieur.
+
+**4. Balcons** — pour l’ombrage comme pour couper le vent. Le matériau perforé laisse l’air circuler sans courants d’air.
+
+**5. Locaux commerciaux** — terrasses de restaurant, cafés, showrooms. La couleur RAL du profilé peut être choisie selon l’identité de la marque.
+
+---
+
+## L’automatisation Somfy — pourquoi elle vaut la peine
+
+Un Zipscreen se manœuvre à la main (avec une manivelle) ou électriquement. Le moteur électrique Somfy apporte :
+
+- **Un capteur de vent** — remonte automatiquement la toile par vent trop fort et protège l’investissement
+- **Un capteur de soleil** — baisse automatiquement la toile quand le soleil dépasse un seuil réglé
+- **L’application Somfy TaHoma** — commande depuis n’importe où
+- **L’intégration maison connectée** — via TaHoma Switch, avec Alexa, Google Home et Apple HomeKit, ou via KNX
+
+Le moteur Somfy coûte environ 110 à 150 EUR HT, sans pose. Nous recommandons toujours la version électrique — le capteur de vent justifie à lui seul la différence de prix.
+
+Vous trouverez le détail de chaque type d’automatisation dans [les moteurs Somfy pour volets extérieurs](/fr/blog/somfy-moteurs-volets), [l’automatisation des pergolas et des stores](/fr/blog/somfy-automatisation-pergola-store) et [l’intégration en maison connectée avec Somfy TaHoma](/fr/blog/somfy-tahoma-maison-connectee-bucarest).
+
+## Prix indicatifs du Zipscreen en 2026
+
+Le prix varie selon les dimensions, le matériau (occultant ou screen) et le type de manœuvre :
+
+| Configuration | Prix estimé (pose comprise) |
 |---|---|
 | Zipscreen manuel | 225–300 EUR/m² |
 | Zipscreen avec moteur Somfy | 350–450 EUR/m² |
 
-*Les prix comprennent le profilé aluminium, la toile, le moteur (en version électrique) et la pose, hors TVA. Ils s'appliquent à des unités de taille courante ; pour les grandes surfaces, le devis est calculé sur projet.*
+*Les prix comprennent le profilé aluminium, le matériau, le moteur (pour la version électrique) et la pose, et s’entendent hors TVA. Ils valent pour des unités de dimensions courantes ; pour les grandes surfaces, le devis est calculé sur projet. Les couleurs RAL spéciales ou les matériaux haut de gamme peuvent ajouter 10 à 20 %.*
+
+---
+
+## Demandez un devis Zipscreen à Neofort BIZ
+
+Neofort BIZ fournit et pose des systèmes Zipscreen à Bucarest et dans l’Ilfov. Le service comprend le conseil pour le choix du matériau et son intégration dans l’architecture existante, et vous recevez le devis sous 48 heures.
 
 **WhatsApp :** +40 752 443 435
 
+**Horaires :** du lundi au vendredi, 10h–18h
 
 ## Questions fréquentes
 
-### En quoi le Zipscreen diffère-t-il d'un store extérieur classique ?
+### En quoi un Zipscreen diffère-t-il d’un store en toile classique ?
 
-Le Zipscreen retient les bords du tissu mécaniquement dans un rail aluminium en forme de U, exactement comme une fermeture éclair. Le tissu ne peut pas quitter les guides quel que soit le vent — le système est certifié classe 6 Beaufort, jusqu'à 88 km/h. Un store classique, à bords libres, flotte et peut sortir des rails.
+Le Zipscreen tient les bords de la toile mécaniquement dans un profilé aluminium en U, exactement comme une fermeture éclair. Le matériau reste dans les coulisses même par vent fort — le système est testé en classe 6 de résistance au vent, jusqu’à 88 km/h. Un store en toile classique, aux bords libres, claque et peut sortir des rails.
 
-### Dois-je choisir Zipscreen Blackout ou Screen ?
+### Que choisir, Zipscreen occultant ou Screen ?
 
-Le Blackout est opaque, réduit la température intérieure de 15-20°C et offre une intimité totale, mais vous perdez la vue et la lumière. Le Screen a des micro-perforations, filtre 95-98% des UV, garde la vue vers l'extérieur et réduit la température de 8-12°C. Recommandation : en cas de doute, choisissez Screen — 80% des bénéfices sans sacrifier la vue.
+L’occultant est opaque, peut abaisser la température intérieure jusqu’à 15-20 °C et offre une intimité totale, mais vous perdez la vue et la lumière. Le Screen a des microperforations, filtre 95-98 % des UV, garde la vue sur l’extérieur et abaisse la température jusqu’à 8-12 °C. Si vous hésitez, choisissez le Screen.
 
 ### Quelle protection UV offre le Zipscreen Screen ?
 
-Le Zipscreen Screen, avec micro-perforations de 3-10% d'ouverture visuelle, filtre 95-98% du rayonnement UV, protégeant la peau et le mobilier sans bloquer la lumière. Il garde la vue de l'intérieur vers l'extérieur et laisse circuler l'air, réduisant la température de 8-12°C.
+Le Zipscreen Screen, avec des microperforations de 3-10 % d’ouverture, filtre 95-98 % du rayonnement UV et protège la peau et le mobilier sans bloquer la lumière. Il garde la vue de l’intérieur vers l’extérieur et laisse l’air circuler.
 
-### Le Zipscreen résiste-t-il au vent fort sur terrasses ouvertes ?
+### Le Zipscreen résiste-t-il au vent fort sur les terrasses ouvertes ?
 
-Oui. Grâce à la fermeture ZIP qui verrouille les bords du tissu dans les guides, le Zipscreen est testé et certifié classe 6 Beaufort, jusqu'à 88 km/h. C'est la seule solution textile viable pour terrasses ouvertes, pergolas et façades exposées au vent.
+Oui. Grâce à la fermeture ZIP qui tient les bords du matériau dans les coulisses, le Zipscreen est testé en classe 6 de résistance au vent, jusqu’à 88 km/h. Avec un moteur Somfy et un capteur de vent, la toile remonte d’elle-même quand le vent dépasse le seuil réglé.
 
+### Combien coûte un Zipscreen ?
 
----
-
-Neofort BIZ pose ZipScreen, volets roulants, Raffstore et pergolas bioclimatiques à Bucarest et dans l’Ilfov. [Décrivez-nous votre terrasse](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme d’occultation](/fr/systemes-occultation). Les configurations disponibles figurent sur la page [systèmes Zipscreen](/fr/systemes-occultation/zipscreen-store-exterieur), et les niveaux de prix par type de système sur [prix des systèmes d'occultation](/fr/systemes-occultation/prix-occultation).
-`,
-
-      es: `## Qué es Zipscreen y por qué es diferente de las persianas clásicas
-
-A primera vista, [Zipscreen](/es/sistemas-sombreado) parece una persiana exterior ordinaria. La diferencia fundamental es invisible hasta que sopla el viento.
-
-Una persiana exterior clásica — incluso de [aluminio](/es/carpinteria-aluminio) — tiene los bordes del tejido libres en las guías. Con viento, el tejido se abomba, aletea y puede salir de los rieles. **Zipscreen resuelve esto con el cierre ZIP**: los bordes del tejido están mecánicamente bloqueados en un perfil de aluminio en U, exactamente como la cremallera de una chaqueta. El tejido no puede salir de las guías independientemente de la intensidad del viento — sistema probado y certificado **Clase 6 Beaufort, hasta 88 km/h**.
+Environ 225 à 300 EUR/m² en version manuelle et 350 à 450 EUR/m² avec moteur Somfy, pose comprise et hors TVA. Pour les grandes surfaces ou les couleurs spéciales, le devis est calculé sur projet.
 
 ---
 
-## Los cuatro sistemas de sombreado exterior — cuál te conviene
+Neofort BIZ pose des ZipScreen, des volets roulants, des Raffstore et des pergolas à toile Somfy à Bucarest et dans l’Ilfov. [Décrivez-nous votre terrasse](/fr/contact) et recevez un devis sous 48 heures. Découvrez la [gamme de systèmes d’occultation](/fr/systemes-occultation) que nous proposons. Les configurations disponibles sont décrites sur la page [systèmes Zipscreen](/fr/systemes-occultation/zipscreen-store-exterieur), et les niveaux de prix par type de système sur [prix des systèmes d’occultation](/fr/systemes-occultation/prix-occultation).`,
 
-Antes de entrar en los detalles del ZipScreen, vale la pena saber qué alternativas existen. Se instalan cuatro tipos principales de protección solar exterior, cada uno con sus puntos fuertes:
+      es: `## Qué es Zipscreen y en qué se diferencia de los estores de lona clásicos
 
-**Las persianas enrollables de aluminio** son las más extendidas: lamas rígidas, buen aislamiento térmico y acústico, oscuridad completa y seguridad añadida. Son la elección clásica para dormitorios y ventanas que dan a la calle.
+A primera vista, un Zipscreen parece un estor exterior normal. La diferencia fundamental no se ve hasta que sopla el viento.
 
-**Las venecianas exteriores (Raffstore)** tienen lamas orientables, lo que te da un control fino de la luz: puedes dar sombra sin oscurecer completamente la habitación. La comparación detallada está en [Venecianas Raffstore vs persianas de aluminio](/es/blog/persianas-raffstore-vs-cierres-enrollables-aluminio).
+Un estor exterior de lona clásico tiene los bordes de la lona sueltos en las guías. Con viento, la lona se hincha, aletea y puede salirse de los carriles. **Zipscreen resuelve este problema con la cremallera ZIP**: los bordes del tejido quedan sujetos mecánicamente en un perfil de aluminio en forma de U, igual que la cremallera de una chaqueta. El material se mantiene en las guías incluso con viento fuerte: el sistema está probado en la **clase 6 de resistencia al viento, hasta 88 km/h**.
 
-**El ZipScreen** — el sistema detallado en esta guía — usa un tejido técnico guiado en una cremallera lateral, resistente al viento, ideal para terrazas y grandes superficies acristaladas. Puede ser transparente (mantiene la vista) o blackout (oscuridad total): la diferencia práctica se explica en [ZipScreen blackout o transparente — cómo elegir](/es/blog/persianas-zipscreen-blackout-o-transparente-como-elegir).
+Esta es la diferencia que justifica el precio más alto frente a un estor de lona clásico y que convierte a Zipscreen en la solución textil adecuada para terrazas abiertas, pérgolas y fachadas expuestas.
 
-**Las pérgolas** son la solución para terrazas y jardines, donde no das sombra a una ventana sino a todo un espacio exterior. La diferencia entre las bioclimáticas (con lamas orientables) y las clásicas se detalla en [Pérgola bioclimática vs clásica](/es/blog/pergola-bioclimatica-vs-clasica-guia).
+---
 
-Si quieres ver directamente qué opciones y precios existen en el mercado de Bucarest, lee también [Dónde comprar sistemas de sombreado en Bucarest](/es/blog/donde-comprar-persianas-exteriores-bucarest). Los detalles de cada tipo de automatización están en [motores Somfy para persianas](/es/blog/somfy-motores-persianas), [automatización de pérgolas y toldos](/es/blog/somfy-automatizacion-pergola-toldo) e [integración smart home con Somfy TaHoma](/es/blog/somfy-tahoma-hogar-inteligente-bucarest).
+## Los cuatro sistemas de sombreado exterior: cuál le conviene
 
-## Blackout o Screen — la diferencia real
+Antes de entrar en los detalles de ZipScreen, conviene conocer las alternativas. En Rumanía se instalan cuatro tipos principales de protección solar exterior, cada uno con sus puntos fuertes:
+
+**Las persianas enrollables exteriores de aluminio** son las más extendidas: lamas rígidas, buen aislamiento térmico y acústico, oscuridad total y un plus de seguridad. Son la elección clásica para dormitorios y ventanas que dan a la calle.
+
+**Las celosías venecianas exteriores (Raffstore)** tienen lamas orientables, así que le dan un control fino de la luz: puede dar sombra sin oscurecer del todo la habitación. La comparación detallada entre ambas está en [Celosías Raffstore frente a persianas de aluminio](/es/blog/persianas-raffstore-vs-cierres-enrollables-aluminio).
+
+**ZipScreen**, el sistema que esta guía detalla, usa un tejido técnico guiado en una cremallera lateral, resistente al viento y adecuado para terrazas y grandes superficies acristaladas. Puede ser transparente (conserva la vista) o blackout (oscuridad total): la diferencia práctica se explica en [ZipScreen blackout o transparente: cómo elegir](/es/blog/persianas-zipscreen-blackout-o-transparente-como-elegir).
+
+**Las pérgolas** son la solución para terrazas y jardines, donde no se da sombra a una ventana sino a todo un espacio exterior. La diferencia entre las bioclimáticas (con lamas orientables) y las clásicas de lona se explica en [Pérgola bioclimática o clásica](/es/blog/pergola-bioclimatica-vs-clasica-guia).
+
+Si quiere ver directamente qué opciones y precios hay en el mercado de Bucarest, lea también [Dónde comprar sistemas de sombreado en Bucarest](/es/blog/donde-comprar-persianas-exteriores-bucarest).
+
+## Blackout o Screen: cuál es la diferencia real
+
+Esta es la primera y más importante decisión al elegir un Zipscreen.
 
 ### Zipscreen Blackout (opaco)
-- **Reducción temperatura interior 15–20°C**
-- **Privacidad total**
-- Ideal terrazas oeste o sur, restaurantes
+El material no deja pasar la luz. Ventajas concretas:
+- **Una temperatura interior hasta 15–20 °C más baja** que en un espacio sin protección
+- **Privacidad total**: desde fuera no se ve nada, ni de día ni de noche
+- Adecuado para dormitorios en planta baja, restaurantes que buscan privacidad y terrazas orientadas al oeste o al sur
 
-### Zipscreen Screen (transparente o perforado)
-- **Filtrado UV 95–98%** con vista exterior preservada
-- Temperatura reducida 8–12°C
-- Permite circulación de aire
+Inconveniente: una vez bajado, pierde la vista al exterior y la luz natural.
+
+### Zipscreen Screen (transparente o microperforado)
+El material tiene microperforaciones, del 3 % al 10 % de apertura. Ventajas:
+- **Filtrado UV del 95–98 %**: protege la piel y los muebles sin bloquear la luz
+- **Se conserva la vista** desde dentro hacia fuera (desde fuera hacia dentro la visibilidad es mucho menor)
+- Una temperatura hasta 8–12 °C más baja que con exposición directa
+- Deja circular el aire
+
+Adecuado para: terrazas residenciales donde se quiere sombra sin aislarse, restaurantes y cafeterías, balcones con vistas.
+
+**Recomendación de Neofort BIZ**: si no está seguro, elija Screen. Le da la mayor parte de las ventajas del blackout sin renunciar a la vista.
 
 ---
 
-## Zipscreen vs Persianas enrollables de aluminio
+## Zipscreen frente a persianas exteriores de aluminio: comparación directa
 
-| Criterio | Zipscreen | Persianas aluminio |
+| Criterio | Zipscreen | Persianas de aluminio |
 |---|---|---|
-| Resistencia viento | **Clase 6 · 88 km/h** | Clase 4–5 |
-| Vista exterior | Screen: **SÍ** | No |
-| Dimensiones máx | **5.000 × 5.000 mm** | 3.500 × 3.000 mm |
-| Ideal para | Terrazas, pérgolas | Ventanas, balcones |
-| Precio | 225–450 EUR/m² | 85–180 EUR/m² |
+| Material | Tejido técnico (fibra de vidrio o poliéster recubierto de PVC) | Lamas de aluminio extruido aislado |
+| Resistencia al viento | Clase 6 · hasta 88 km/h | Hasta 1.050 Pa (lamas rígidas) |
+| Visibilidad | Screen: **SÍ** · Blackout: no | No |
+| Reducción de la ganancia solar | Blackout: hasta el 95 % | Hasta el 70 % |
+| Aislamiento térmico nocturno | Bajo | **Bueno (ΔU ≈ 0,3 W/m²K)** |
+| Antirrobo | No | RC3 con guías de seguridad |
+| Dimensiones máximas | **5.000 × 5.000 mm, máx. 16 m²** | 4.500 × 3.000 mm |
+| Adecuado para | Terrazas, pérgolas, fachadas grandes | Ventanas, balcones |
+| Precio orientativo | 225–450 EUR/m² | 85–220 EUR/m² |
+
+**Conclusión**: las persianas de aluminio son mejores en ventanas individuales, donde importan el aislamiento térmico nocturno y la seguridad antirrobo. Zipscreen gana en superficies grandes, terrazas, pérgolas y en cualquier lugar donde necesite visibilidad o una cobertura de más de 4,5 m de ancho.
 
 ---
 
-## Precios 2026
+## Zipscreen frente a celosías Raffstore: cuándo elegir cada una
+
+Las Raffstore (celosías venecianas exteriores) son el [sistema de sombreado](/es/sistemas-sombreado) con mejor control de la luz: las lamas se orientan en cualquier ángulo entre 0° y 90°. Sin embargo, están pensadas para ventanas y fachadas, no para terrazas abiertas.
+
+| Criterio | Zipscreen | Raffstore |
+|---|---|---|
+| Control de la luz | Bajado / subido | **Precisión 0°–90°** |
+| Resistencia al viento | **Clase 6** | Clase 5 |
+| Superficies grandes | **Hasta 5 m de ancho y 16 m²** | Hasta 5 m de ancho |
+| Uso en terraza | **Ideal** | Ventanas, fachadas |
+| Vista al exterior | Screen: **SÍ** | Parcial (lamas) |
+| Precio | 225–450 EUR/m² | 150–200 EUR/m² con motor |
+
+---
+
+## Dónde se instala Zipscreen: 5 aplicaciones principales
+
+**1. Laterales de una pérgola retráctil**: la aplicación más frecuente. La pérgola cubre y el Zipscreen cierra los laterales. Resultado: una terraza protegida por todos los lados.
+
+**2. Fachadas acristaladas**: en grandes superficies de vidrio a las que no llegan las persianas de aluminio. Un Zipscreen cubre hasta 16 m² sin pilar intermedio.
+
+**3. Ventanas grandes**: correderas, elevadoras o fijas, donde quiere sombra sin perder la vista al exterior.
+
+**4. Balcones**: tanto para dar sombra como de cortavientos. El material microperforado deja circular el aire sin corrientes.
+
+**5. Locales comerciales**: terrazas de restaurante, cafeterías, showrooms. El color RAL del perfil se puede elegir según la identidad de la marca.
+
+---
+
+## Automatización Somfy: por qué merece la pena
+
+Un Zipscreen se puede accionar a mano (con manivela) o eléctricamente. El motor eléctrico Somfy añade:
+
+- **Sensor de viento**: sube automáticamente la lona con viento demasiado fuerte y protege la inversión
+- **Sensor de sol**: baja automáticamente la lona cuando el sol supera un umbral fijado
+- **La aplicación Somfy TaHoma**: control desde cualquier lugar
+- **Integración en el hogar inteligente**: mediante TaHoma Switch, con Alexa, Google Home y Apple HomeKit, o mediante KNX
+
+El motor Somfy cuesta unos 110–150 EUR sin IVA, sin instalación. Siempre recomendamos la versión eléctrica: el sensor de viento por sí solo justifica la diferencia de precio.
+
+Encontrará los detalles de cada tipo de automatización en [motores Somfy para persianas exteriores](/es/blog/somfy-motores-persianas), [la automatización de pérgolas y toldos](/es/blog/somfy-automatizacion-pergola-toldo) y [la integración en el hogar inteligente con Somfy TaHoma](/es/blog/somfy-tahoma-hogar-inteligente-bucarest).
+
+## Precios orientativos de Zipscreen 2026
+
+El precio varía según las medidas, el material (blackout o screen) y el tipo de accionamiento:
 
 | Configuración | Precio estimado (instalación incluida) |
 |---|---|
 | Zipscreen manual | 225–300 EUR/m² |
 | Zipscreen con motor Somfy | 350–450 EUR/m² |
 
-*Los precios incluyen el perfil de aluminio, el tejido, el motor (en la versión eléctrica) y la instalación, sin IVA. Son válidos para unidades de tamaño habitual; para superficies grandes, el presupuesto se calcula por proyecto.*
+*Los precios incluyen el perfil de aluminio, el material, el motor (en la versión eléctrica) y la instalación, y no incluyen IVA. Valen para unidades de medidas habituales; en superficies grandes, el presupuesto se calcula por proyecto. Los colores RAL especiales o los materiales premium pueden añadir un 10–20 %.*
+
+---
+
+## Solicite un presupuesto de Zipscreen a Neofort BIZ
+
+Neofort BIZ suministra e instala sistemas Zipscreen en Bucarest e Ilfov. El servicio incluye asesoramiento en la elección del material y en su integración en la arquitectura existente, y recibe el presupuesto en 48 horas.
 
 **WhatsApp:** +40 752 443 435
 
+**Horario:** de lunes a viernes, 10:00–18:00
 
 ## Preguntas frecuentes
 
-### ¿En qué se diferencia el Zipscreen de un estor exterior clásico?
+### ¿En qué se diferencia un Zipscreen de un estor de lona clásico?
 
-El Zipscreen sujeta los bordes del tejido mecánicamente en una guía de aluminio en forma de U, exactamente como una cremallera. El tejido no puede salir de las guías sea cual sea el viento — el sistema está certificado clase 6 Beaufort, hasta 88 km/h. Un estor clásico, de bordes libres, ondea y puede salirse de los raíles.
+El Zipscreen sujeta los bordes del tejido mecánicamente en un perfil de aluminio en forma de U, igual que una cremallera. El material se mantiene en las guías incluso con viento fuerte: el sistema está probado en la clase 6 de resistencia al viento, hasta 88 km/h. Un estor de lona clásico, con los bordes sueltos, aletea y puede salirse de los carriles.
 
-### ¿Debo elegir Zipscreen Blackout o Screen?
+### ¿Qué elijo, Zipscreen Blackout o Screen?
 
-El Blackout es opaco, reduce la temperatura interior 15-20°C y da intimidad total, pero pierdes vista y luz. El Screen tiene microperforaciones, filtra 95-98% de UV, mantiene la vista al exterior y reduce la temperatura 8-12°C. Recomendación: si dudas, elige Screen — 80% de los beneficios sin sacrificar la vista.
+El blackout es opaco, puede bajar la temperatura interior hasta 15-20 °C y da privacidad total, pero pierde la vista y la luz. El Screen tiene microperforaciones, filtra el 95-98 % de los UV, conserva la vista al exterior y baja la temperatura hasta 8-12 °C. Si no está seguro, elija Screen.
 
-### ¿Qué protección UV ofrece el Zipscreen Screen?
+### ¿Qué protección UV ofrece Zipscreen Screen?
 
-El Zipscreen Screen, con microperforaciones de 3-10% de apertura visual, filtra 95-98% de la radiación UV, protegiendo la piel y el mobiliario sin bloquear la luz. Mantiene la vista de dentro hacia fuera y permite circular el aire, reduciendo la temperatura 8-12°C.
+Zipscreen Screen, con microperforaciones del 3-10 % de apertura, filtra el 95-98 % de la radiación UV y protege la piel y los muebles sin bloquear la luz. Conserva la vista desde dentro hacia fuera y deja circular el aire.
 
-### ¿Resiste el Zipscreen al viento fuerte en terrazas abiertas?
+### ¿Aguanta Zipscreen el viento fuerte en terrazas abiertas?
 
-Sí. Gracias a la cremallera ZIP que bloquea los bordes del tejido en las guías, el Zipscreen está probado y certificado clase 6 Beaufort, hasta 88 km/h. Es la única solución textil viable para terrazas abiertas, pérgolas y fachadas expuestas al viento.
+Sí. Gracias a la cremallera ZIP que sujeta los bordes del material en las guías, Zipscreen está probado en la clase 6 de resistencia al viento, hasta 88 km/h. Con motor Somfy y sensor de viento, la lona sube sola cuando el viento supera el umbral fijado.
 
+### ¿Cuánto cuesta un Zipscreen?
 
----
-
-Neofort BIZ instala ZipScreen, persianas, Raffstore y pérgolas bioclimáticas en Bucarest e Ilfov. [Descríbanos su terraza](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de sombreado](/es/sistemas-sombreado). Las configuraciones disponibles están en la página de [sistemas Zipscreen](/es/sistemas-sombreado/zipscreen-toldo-exterior), y los niveles de precio por tipo de sistema en [precios de sistemas de sombreado](/es/sistemas-sombreado/precios-sombreado).
-`,
-
-      it: `## Cos'è Zipscreen e perché è diverso dalle tapparelle classiche
-
-A prima vista, [Zipscreen](/it/sistemi-oscuramento) sembra una tapparella esterna ordinaria. La differenza fondamentale è invisibile finché non soffia il vento.
-
-Una tapparella esterna classica — anche in [alluminio](/it/infissi-alluminio) — ha i bordi del tessuto liberi nelle guide. Con il vento, il tessuto si gonfia, svolazza e può uscire dalle rotaie. **Zipscreen risolve questo con la chiusura ZIP**: i bordi del tessuto sono meccanicamente bloccati in un profilo in alluminio a U, esattamente come la zip di una giacca. Il tessuto non può uscire dalle guide indipendentemente dall'intensità del vento — sistema testato e certificato **Classe 6 Beaufort, fino a 88 km/h**.
+Orientativamente, 225–300 EUR/m² en la versión manual y 350–450 EUR/m² con motor Somfy, instalación incluida y sin IVA. Para superficies grandes o colores especiales, el presupuesto se calcula por proyecto.
 
 ---
 
-## I quattro sistemi di oscuramento esterno — quale fa per te
+Neofort BIZ instala ZipScreen, persianas, Raffstore y pérgolas de lona Somfy en Bucarest e Ilfov. [Descríbanos su terraza](/es/contacto) y reciba un presupuesto en 48 horas. Vea la [gama de sistemas de sombreado](/es/sistemas-sombreado) que ofrecemos. Las configuraciones disponibles se describen en la página [sistemas Zipscreen](/es/sistemas-sombreado/zipscreen-toldo-exterior), y los niveles de precio por tipo de sistema en [precios de los sistemas de sombreado](/es/sistemas-sombreado/precios-sombreado).`,
 
-Prima di entrare nei dettagli dello ZipScreen, vale la pena sapere quali alternative esistono. Si installano quattro tipi principali di protezione solare esterna, ciascuno con i suoi punti di forza:
+      it: `## Che cos’è lo Zipscreen e in cosa si distingue dalle tende tecniche classiche
 
-**Le tapparelle in alluminio** sono le più diffuse: stecche rigide, buon isolamento termico e acustico, oscurità completa e sicurezza aggiuntiva. Sono la scelta classica per camere da letto e finestre esposte sulla strada.
+A prima vista, uno Zipscreen sembra una normale tenda esterna. La differenza fondamentale non si vede finché non soffia il vento.
 
-**Le veneziane esterne (Raffstore)** hanno lamelle orientabili, che ti danno un controllo fine della luce: puoi ombreggiare senza oscurare completamente la stanza. Il confronto dettagliato si trova in [Veneziane Raffstore vs tapparelle in alluminio](/it/blog/veneziane-raffstore-vs-tapparelle-alluminio).
+Una tenda esterna in tessuto classica ha i bordi del telo liberi nelle guide. Con il vento il telo si gonfia, sbatte e può uscire dai binari. **Lo Zipscreen risolve il problema con la cerniera ZIP**: i bordi del tessuto sono trattenuti meccanicamente in un profilo di alluminio a U, proprio come la cerniera di una giacca. Il materiale resta nelle guide anche con vento forte: il sistema è testato in **classe 6 di resistenza al vento, fino a 88 km/h**.
 
-**Lo ZipScreen** — il sistema dettagliato in questa guida — usa un tessuto tecnico guidato in una cerniera laterale, resistente al vento, ideale per terrazze e grandi superfici vetrate. Può essere trasparente (mantiene la vista) o oscurante (buio totale): la differenza pratica è spiegata in [ZipScreen oscurante o trasparente — come scegliere](/it/blog/tende-zipscreen-oscuranti-o-trasparenti-come-scegliere).
-
-**Le pergole** sono la soluzione per terrazze e giardini, dove non ombreggi una finestra ma un intero spazio esterno. La differenza tra quelle bioclimatiche (a lamelle orientabili) e quelle classiche è dettagliata in [Pergola bioclimatica vs classica](/it/blog/pergola-bioclimatica-vs-classica-guida).
-
-Se vuoi vedere direttamente quali opzioni e prezzi esistono sul mercato di Bucarest, leggi anche [Dove comprare sistemi di oscuramento a Bucarest](/it/blog/dove-comprare-veneziane-esterne-bucarest). I dettagli su ogni tipo di automazione sono in [motori Somfy per tapparelle](/it/blog/somfy-motori-tapparelle), [automazione di pergole e tende](/it/blog/somfy-automazione-pergola-tenda) e [integrazione smart home con Somfy TaHoma](/it/blog/somfy-tahoma-casa-intelligente-bucarest).
-
-## Blackout o Screen — la vera differenza
-
-### Zipscreen Blackout (opaco)
-- **Riduzione temperatura interna 15–20°C**
-- **Privacy totale**
-- Ideale terrazze ovest o sud, ristoranti
-
-### Zipscreen Screen (trasparente o perforato)
-- **Filtraggio UV 95–98%** con vista esterna preservata
-- Temperatura ridotta 8–12°C
-- Permette la circolazione dell'aria
+È questa differenza a giustificare il prezzo più alto rispetto a una tenda in tessuto classica e a fare dello Zipscreen la soluzione tessile adatta a terrazze aperte, pergole e facciate esposte.
 
 ---
 
-## Zipscreen vs Tapparelle in alluminio
+## I quattro sistemi di oscuramento esterno: quale fa per voi
 
-| Criterio | Zipscreen | Tapparelle alluminio |
+Prima di entrare nei dettagli dello ZipScreen, vale la pena conoscere le alternative. In Romania si posano quattro tipi principali di protezione solare esterna, ognuno con i suoi punti di forza:
+
+**Le tapparelle esterne in alluminio** sono le più diffuse: stecche rigide, buon isolamento termico e acustico, buio completo e un plus di sicurezza. Sono la scelta classica per camere da letto e finestre sulla strada.
+
+**Le veneziane esterne (Raffstore)** hanno lamelle orientabili, quindi vi danno un controllo fine della luce: potete ombreggiare senza oscurare del tutto la stanza. Il confronto dettagliato tra le due è in [Veneziane Raffstore o tapparelle in alluminio](/it/blog/veneziane-raffstore-vs-tapparelle-alluminio).
+
+**Lo ZipScreen**, il sistema che questa guida approfondisce, usa un tessuto tecnico guidato in una cerniera laterale, resistente al vento e adatto a terrazze e grandi superfici vetrate. Può essere trasparente (conserva la vista) o oscurante (buio totale): la differenza pratica è spiegata in [ZipScreen oscurante o trasparente: come scegliere](/it/blog/tende-zipscreen-oscuranti-o-trasparenti-come-scegliere).
+
+**Le pergole** sono la soluzione per terrazze e giardini, dove non si ombreggia una finestra ma un intero spazio esterno. La differenza tra quelle bioclimatiche (a lamelle orientabili) e quelle classiche con telo è spiegata in [Pergola bioclimatica o classica](/it/blog/pergola-bioclimatica-vs-classica-guida).
+
+Se volete vedere subito quali opzioni e prezzi ci sono sul mercato di Bucarest, leggete anche [Dove comprare sistemi di oscuramento a Bucarest](/it/blog/dove-comprare-veneziane-esterne-bucarest).
+
+## Oscurante o Screen: qual è la vera differenza
+
+È la prima e più importante decisione quando scegliete uno Zipscreen.
+
+### Zipscreen oscurante (opaco)
+Il materiale non lascia passare la luce. Vantaggi concreti:
+- **Una temperatura interna fino a 15–20 °C più bassa** rispetto a uno spazio non protetto
+- **Privacy totale**: da fuori non si vede nulla, né di giorno né di notte
+- Adatto a camere al piano terra, ristoranti che vogliono riservatezza, terrazze esposte a ovest o a sud
+
+Svantaggio: una volta abbassato, perdete la vista verso l’esterno e la luce naturale.
+
+### Zipscreen Screen (trasparente o microforato)
+Il materiale ha microforature, dal 3% al 10% di apertura. Vantaggi:
+- **Filtraggio UV del 95–98%**: protegge pelle e arredi senza bloccare la luce
+- **La vista resta** dall’interno verso l’esterno (dall’esterno verso l’interno la visibilità è molto ridotta)
+- Una temperatura fino a 8–12 °C più bassa rispetto all’esposizione diretta
+- Lascia circolare l’aria
+
+Adatto a: terrazze residenziali dove si vuole ombra senza isolarsi, ristoranti e bar, balconi con vista.
+
+**La raccomandazione di Neofort BIZ**: se non siete sicuri, scegliete lo Screen. Vi dà la maggior parte dei vantaggi dell’oscurante senza rinunciare alla vista.
+
+---
+
+## Zipscreen o tapparelle esterne in alluminio: il confronto diretto
+
+| Criterio | Zipscreen | Tapparelle in alluminio |
 |---|---|---|
-| Resistenza vento | **Classe 6 · 88 km/h** | Classe 4–5 |
-| Vista esterna | Screen: **SÌ** | No |
-| Dimensioni max | **5.000 × 5.000 mm** | 3.500 × 3.000 mm |
-| Ideale per | Terrazze, pergole | Finestre, balconi |
-| Prezzo | 225–450 EUR/m² | 85–180 EUR/m² |
+| Materiale | Tessuto tecnico (fibra di vetro o poliestere rivestito in PVC) | Stecche in alluminio estruso coibentato |
+| Resistenza al vento | Classe 6 · fino a 88 km/h | Fino a 1.050 Pa (stecche rigide) |
+| Visibilità | Screen: **SÌ** · Oscurante: no | No |
+| Riduzione dell’apporto solare | Oscurante: fino al 95% | Fino al 70% |
+| Isolamento termico notturno | Basso | **Buono (ΔU ≈ 0,3 W/m²K)** |
+| Antieffrazione | No | RC3 con guide di sicurezza |
+| Dimensioni massime | **5.000 × 5.000 mm, max. 16 m²** | 4.500 × 3.000 mm |
+| Adatto a | Terrazze, pergole, grandi facciate | Finestre, balconi |
+| Prezzo indicativo | 225–450 EUR/m² | 85–220 EUR/m² |
+
+**Conclusione**: le tapparelle in alluminio sono migliori sulle singole finestre, dove contano l’isolamento termico notturno e l’antieffrazione. Lo Zipscreen vince su grandi superfici, terrazze, pergole e ovunque serva visibilità o una copertura più larga di 4,5 m.
 
 ---
 
-## Prezzi 2026
+## Zipscreen o veneziane Raffstore: quando scegliere cosa
 
-| Configurazione | Prezzo stimato (posa inclusa) |
+Le Raffstore (veneziane esterne) sono il [sistema di oscuramento](/it/sistemi-oscuramento) con il miglior controllo della luce: le lamelle si orientano a qualsiasi angolo tra 0° e 90°. Sono però pensate per finestre e facciate, non per terrazze aperte.
+
+| Criterio | Zipscreen | Raffstore |
+|---|---|---|
+| Controllo della luce | Abbassato / alzato | **Precisione 0°–90°** |
+| Resistenza al vento | **Classe 6** | Classe 5 |
+| Grandi superfici | **Fino a 5 m di larghezza e 16 m²** | Fino a 5 m di larghezza |
+| Uso in terrazza | **Ideale** | Finestre, facciate |
+| Vista verso l’esterno | Screen: **SÌ** | Parziale (lamelle) |
+| Prezzo | 225–450 EUR/m² | 150–200 EUR/m² motorizzate |
+
+---
+
+## Dove si posa lo Zipscreen: 5 applicazioni principali
+
+**1. Lati di una pergola retrattile**: l’applicazione più frequente. La pergola copre, lo Zipscreen chiude i lati. Risultato: una terrazza protetta da ogni lato.
+
+**2. Facciate vetrate**: su grandi superfici di vetro che le tapparelle in alluminio non raggiungono. Uno Zipscreen copre fino a 16 m² senza montanti intermedi.
+
+**3. Finestre grandi**: scorrevoli, alzanti-scorrevoli o fisse, dove volete ombra senza perdere la vista verso l’esterno.
+
+**4. Balconi**: sia per ombreggiare sia come frangivento. Il materiale microforato lascia circolare l’aria senza correnti.
+
+**5. Spazi commerciali**: terrazze di ristoranti, bar, showroom. Il colore RAL del profilo si può scegliere in base all’identità del marchio.
+
+---
+
+## Automazione Somfy: perché conviene
+
+Uno Zipscreen si può azionare a mano (con manovella) o elettricamente. Il motore elettrico Somfy aggiunge:
+
+- **Sensore di vento**: alza automaticamente il telo con vento troppo forte e protegge l’investimento
+- **Sensore solare**: abbassa automaticamente il telo quando il sole supera una soglia impostata
+- **L’app Somfy TaHoma**: controllo da qualsiasi luogo
+- **Integrazione con la casa intelligente**: tramite TaHoma Switch, con Alexa, Google Home e Apple HomeKit, oppure tramite KNX
+
+Il motore Somfy costa indicativamente 110–150 EUR IVA esclusa, senza posa. Consigliamo sempre la versione elettrica: il solo sensore di vento giustifica la differenza di prezzo.
+
+Trovate i dettagli su ogni tipo di automazione in [motori Somfy per tapparelle esterne](/it/blog/somfy-motori-tapparelle), [l’automazione di pergole e tende da sole](/it/blog/somfy-automazione-pergola-tenda) e [l’integrazione nella casa intelligente con Somfy TaHoma](/it/blog/somfy-tahoma-casa-intelligente-bucarest).
+
+## Prezzi indicativi dello Zipscreen 2026
+
+Il prezzo varia in base alle dimensioni, al materiale (oscurante o screen) e al tipo di azionamento:
+
+| Configurazione | Prezzo stimato (posa compresa) |
 |---|---|
 | Zipscreen manuale | 225–300 EUR/m² |
 | Zipscreen con motore Somfy | 350–450 EUR/m² |
 
-*I prezzi comprendono profilo in alluminio, tessuto, motore (nella versione elettrica) e posa, IVA esclusa. Valgono per unità di dimensioni usuali; per superfici grandi il preventivo si calcola su progetto.*
-
-**WhatsApp:** +40 752 443 435
-
-
-## Domande frequenti
-
-### In cosa differisce lo Zipscreen da una tenda esterna classica?
-
-Lo Zipscreen trattiene i bordi del tessuto meccanicamente in una guida in alluminio a forma di U, esattamente come una cerniera. Il tessuto non può uscire dalle guide qualunque sia il vento — il sistema è certificato Classe 6 Beaufort, fino a 88 km/h. Una tenda classica, a bordi liberi, sventola e può uscire dai binari.
-
-### Devo scegliere Zipscreen Blackout o Screen?
-
-Il Blackout è opaco, riduce la temperatura interna di 15-20°C e dà privacy totale, ma perdi vista e luce. Lo Screen ha microperforazioni, filtra il 95-98% degli UV, mantiene la vista verso l'esterno e riduce la temperatura di 8-12°C. Consiglio: nel dubbio scegli Screen — 80% dei benefici senza sacrificare la vista.
-
-### Quale protezione UV offre lo Zipscreen Screen?
-
-Lo Zipscreen Screen, con microperforazioni dal 3-10% di apertura visiva, filtra il 95-98% della radiazione UV, proteggendo pelle e mobili senza bloccare la luce. Mantiene la vista dall'interno verso l'esterno e lascia circolare l'aria, riducendo la temperatura di 8-12°C.
-
-### Lo Zipscreen resiste al vento forte su terrazze aperte?
-
-Sì. Grazie alla cerniera ZIP che blocca i bordi del tessuto nelle guide, lo Zipscreen è testato e certificato Classe 6 Beaufort, fino a 88 km/h. È l'unica soluzione tessile valida per terrazze aperte, pergole e facciate esposte al vento.
-
+*I prezzi comprendono il profilo in alluminio, il materiale, il motore (nella versione elettrica) e la posa, e sono IVA esclusa. Valgono per unità di dimensioni consuete; per grandi superfici, il preventivo si calcola sul progetto. I colori RAL speciali o i materiali premium possono aggiungere il 10–20%.*
 
 ---
 
-Neofort BIZ installa ZipScreen, tapparelle, Raffstore e pergole bioclimatiche a Bucarest e nell’Ilfov. [Descriveteci la vostra terrazza](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma di oscuramento](/it/sistemi-oscuramento). Le configurazioni disponibili sono descritte nella pagina [sistemi Zipscreen](/it/sistemi-oscuramento/zipscreen-tenda-esterna), e i livelli di prezzo per tipo di sistema su [prezzi dei sistemi di oscuramento](/it/sistemi-oscuramento/prezzi-oscuramento).
-`,
+## Richiedete un preventivo Zipscreen a Neofort BIZ
+
+Neofort BIZ fornisce e posa sistemi Zipscreen a Bucarest e Ilfov. Il servizio comprende la consulenza sulla scelta del materiale e sull’inserimento nell’architettura esistente, e ricevete il preventivo entro 48 ore.
+
+**WhatsApp:** +40 752 443 435
+
+**Orari:** dal lunedì al venerdì, 10:00–18:00
+
+## Domande frequenti
+
+### In cosa si distingue uno Zipscreen da una tenda in tessuto classica?
+
+Lo Zipscreen trattiene meccanicamente i bordi del tessuto in un profilo di alluminio a U, proprio come una cerniera. Il materiale resta nelle guide anche con vento forte: il sistema è testato in classe 6 di resistenza al vento, fino a 88 km/h. Una tenda in tessuto classica, con i bordi liberi, sbatte e può uscire dai binari.
+
+### Cosa scegliere, Zipscreen oscurante o Screen?
+
+L’oscurante è opaco, può abbassare la temperatura interna fino a 15-20 °C e offre privacy totale, ma perdete vista e luce. Lo Screen ha microforature, filtra il 95-98% dei raggi UV, conserva la vista verso l’esterno e abbassa la temperatura fino a 8-12 °C. Se non siete sicuri, scegliete lo Screen.
+
+### Quale protezione UV offre lo Zipscreen Screen?
+
+Lo Zipscreen Screen, con microforature del 3-10% di apertura, filtra il 95-98% della radiazione UV e protegge pelle e arredi senza bloccare la luce. Conserva la vista dall’interno verso l’esterno e lascia circolare l’aria.
+
+### Lo Zipscreen resiste al vento forte sulle terrazze aperte?
+
+Sì. Grazie alla cerniera ZIP che trattiene i bordi del materiale nelle guide, lo Zipscreen è testato in classe 6 di resistenza al vento, fino a 88 km/h. Con motore Somfy e sensore di vento, il telo si alza da solo quando il vento supera la soglia impostata.
+
+### Quanto costa uno Zipscreen?
+
+Indicativamente 225–300 EUR/m² nella versione manuale e 350–450 EUR/m² con motore Somfy, posa compresa e IVA esclusa. Per grandi superfici o colori speciali, il preventivo si calcola sul progetto.
+
+---
+
+Neofort BIZ posa ZipScreen, tapparelle, Raffstore e pergole con telo Somfy a Bucarest e Ilfov. [Descriveteci la vostra terrazza](/it/contatti) e ricevete un preventivo entro 48 ore. Scoprite la [gamma di sistemi di oscuramento](/it/sistemi-oscuramento) che offriamo. Le configurazioni disponibili sono descritte nella pagina [sistemi Zipscreen](/it/sistemi-oscuramento/zipscreen-tenda-esterna), e i livelli di prezzo per tipo di sistema in [prezzi dei sistemi di oscuramento](/it/sistemi-oscuramento/prezzi-oscuramento).`,
     },
   },
 
@@ -30317,27 +31289,27 @@ Neofort BIZ produce e posa infissi in PVC Salamander a Bucarest e in provincia d
     image: { ro:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', en:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', de:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', fr:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', es:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif', it:'/blog/blog-evolutiondrive-plus-alumil-m19800.avif' },
     imageOg: '/blog/montaj-tamplarie-salamander-evolutiondrive-plus-culisanta-alumil-m19800-armonice-og.jpg',
     imageBg: 'linear-gradient(135deg,#1a2535 0%,#2d3f5a 60%,#3a5a8a 100%)',
-    imageLabel: 'evolutionDrive + M19800BT',
+    imageLabel: 'evolutionDrive + M 19800',
     accentColor: '#162d47',
     video: {
       embed: '<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" src="https://www.youtube.com/embed/pwEFLLpYyY8" title="Montaj Tamplarie PVC Salamander Evolution Drive Plus Culisanta + Montaj Tamplarie Aluminiu Alumil M19800BT Armonica. TERMOPANE SALAMANDER" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>',
       position: 'after-intro',
     },
     title: {
-      ro: 'Montaj Salamander evolutionDrive Plus Culisantă + Alumil M19800BT Armonică — Proiect complet Neofort BIZ',
-      en: 'Installation: Salamander evolutionDrive Plus Sliding + Alumil M19800BT Folding Door — Complete Neofort BIZ Project',
-      de: 'Montage: Salamander evolutionDrive Plus Schiebetür + Alumil M19800BT Falttür — Komplett-Projekt Neofort BIZ',
-      fr: 'Pose : Salamander evolutionDrive Plus coulissant + Alumil M19800BT accordéon — Projet complet Neofort BIZ',
-      es: 'Instalación: Salamander evolutionDrive Plus corredera + Alumil M19800BT plegable — Proyecto completo Neofort BIZ',
-      it: 'Posa: Salamander evolutionDrive Plus scorrevole + Alumil M19800BT pieghevole — Progetto completo Neofort BIZ',
+      ro: 'Montaj Salamander evolutionDrive Plus+ și Alumil M 19800',
+      en: 'Installation: evolutionDrive Plus+ and Alumil M 19800',
+      de: 'Montage: Salamander evolutionDrive Plus+ und Alumil M 19800',
+      fr: 'Pose : Salamander evolutionDrive Plus+ et Alumil M 19800',
+      es: 'Instalación de evolutionDrive Plus+ y Alumil M 19800',
+      it: 'Posa di Salamander evolutionDrive Plus+ e Alumil M 19800',
     },
     excerpt: {
-      ro: 'Un proiect complex executat de Neofort BIZ: montaj ușă culisantă PVC Salamander evolutionDrive Plus+ combinată cu sistem de uși armonice din aluminiu Alumil Smartia M19800BT cu barieră termică — soluția completă pentru o vilă rezidențială premium din zona București-Ilfov.',
-      en: 'A complex project by Neofort BIZ: installation of a Salamander evolutionDrive Plus+ PVC sliding door combined with an Alumil Smartia M19800BT thermally broken aluminium folding door system — the complete solution for a premium residential villa in the Bucharest-Ilfov area.',
-      de: 'Ein komplexes Projekt von Neofort BIZ: Montage einer Salamander evolutionDrive Plus+ PVC-Schiebetür kombiniert mit einem Alumil Smartia M19800BT Aluminium-Falttürsystem mit thermischer Trennung — die komplette Lösung für eine Premium-Residenz im Raum Bukarest-Ilfov.',
-      fr: `Un projet complexe réalisé par Neofort BIZ : pose d'une porte coulissante PVC Salamander evolutionDrive Plus+ associée à un système de portes accordéon en aluminium Alumil Smartia M19800BT à rupture de pont thermique — solution complète pour une villa résidentielle premium dans la zone Bucarest-Ilfov.`,
-      es: 'Un proyecto complejo de Neofort BIZ: instalación de una puerta corredera PVC Salamander evolutionDrive Plus+ combinada con un sistema de puertas plegables de aluminio Alumil Smartia M19800BT con rotura de puente térmico — solución completa para una villa residencial premium en la zona Bucarest-Ilfov.',
-      it: 'Un progetto complesso di Neofort BIZ: posa di una porta scorrevole PVC Salamander evolutionDrive Plus+ abbinata a un sistema di porte pieghevoli in alluminio Alumil Smartia M19800BT a taglio termico — soluzione completa per una villa residenziale premium nella zona Bucarest-Ilfov.',
+      ro: 'Proiect real Neofort BIZ într-o vilă din Voluntari: ușă culisantă PVC Salamander evolutionDrive Plus+ pentru accesul zilnic pe terasă și armonică din aluminiu Alumil M 19800 SMARTIA, cu barieră termică, pentru deschiderea completă a peretelui.',
+      en: 'A real Neofort BIZ project in a villa in Voluntari: a Salamander evolutionDrive Plus+ PVC sliding door for everyday access to the terrace and an Alumil M 19800 SMARTIA thermally broken aluminium folding door that opens the whole wall.',
+      de: 'Ein reales Projekt von Neofort BIZ in einer Villa in Voluntari: eine PVC-Schiebetür Salamander evolutionDrive Plus+ für den täglichen Weg auf die Terrasse und eine Aluminium-Falttür Alumil M 19800 SMARTIA mit thermischer Trennung, die die ganze Wand öffnet.',
+      fr: `Un projet réel de Neofort BIZ dans une villa de Voluntari : une porte coulissante PVC Salamander evolutionDrive Plus+ pour l’accès quotidien à la terrasse et une porte accordéon en aluminium Alumil M 19800 SMARTIA à rupture thermique, qui ouvre tout le mur.`,
+      es: 'Un proyecto real de Neofort BIZ en una villa de Voluntari: una puerta corredera de PVC Salamander evolutionDrive Plus+ para el acceso diario a la terraza y una puerta plegable de aluminio Alumil M 19800 SMARTIA con rotura de puente térmico, que abre toda la pared.',
+      it: 'Un progetto reale di Neofort BIZ in una villa a Voluntari: una porta scorrevole in PVC Salamander evolutionDrive Plus+ per l’accesso quotidiano alla terrazza e una porta a libro in alluminio Alumil M 19800 SMARTIA a taglio termico, che apre tutta la parete.',
     },
     metaDesc: {
       ro: "Proiect complet: ușă culisantă Salamander evolutionDrive Plus și armonică Alumil M19800. Cum s-au combinat cele două sisteme pe aceeași fațadă.",
@@ -30348,21 +31320,21 @@ Neofort BIZ produce e posa infissi in PVC Salamander a Bucarest e in provincia d
       it: "Progetto completo: scorrevole Salamander evolutionDrive Plus e porta a libro Alumil M19800 combinati sulla stessa facciata.",
     },
     keywords: {
-      ro: 'montaj usa culisanta Salamander evolutionDrive Plus, usi armonice aluminiu Alumil M19800BT Bucuresti, sistem combinat PVC aluminiu terasa vila, Alumil Smartia M19800BT bariera termica, usa armonice aluminiu Ilfov',
-      en: 'Salamander evolutionDrive Plus installation Bucharest, Alumil M19800BT folding door installation, combined PVC aluminium terrace system, Alumil Smartia M19800BT thermal break, folding aluminium door Bucharest',
-      de: 'Salamander evolutionDrive Plus Montage Bukarest, Alumil M19800BT Falttür Montage, kombiniertes PVC Aluminium Terrassensystem, Alumil Smartia M19800BT thermisch getrennt',
-      fr: 'pose Salamander evolutionDrive Plus Bucarest, Alumil M19800BT portes accordéon pose, système combiné PVC aluminium terrasse, Alumil Smartia M19800BT rupture pont thermique',
-      es: 'instalación Salamander evolutionDrive Plus Bucarest, Alumil M19800BT puertas plegables instalación, sistema combinado PVC aluminio terraza, Alumil Smartia M19800BT rotura puente térmico',
-      it: 'posa Salamander evolutionDrive Plus Bucarest, Alumil M19800BT porte pieghevoli posa, sistema combinato PVC alluminio terrazza, Alumil Smartia M19800BT taglio termico',
+      ro: 'montaj usa culisanta Salamander evolutionDrive Plus, usi armonice aluminiu Alumil M 19800 SMARTIA Bucuresti, sistem combinat PVC aluminiu terasa vila, armonica aluminiu bariera termica, usa armonica aluminiu Ilfov',
+      en: 'Salamander evolutionDrive Plus installation Bucharest, Alumil M 19800 SMARTIA folding door installation, combined PVC aluminium terrace system, thermally broken folding door, folding aluminium door Bucharest',
+      de: 'Salamander evolutionDrive Plus Montage Bukarest, Alumil M 19800 SMARTIA Falttür Montage, kombiniertes PVC Aluminium Terrassensystem, Falttür mit thermischer Trennung',
+      fr: 'pose Salamander evolutionDrive Plus Bucarest, Alumil M 19800 SMARTIA porte accordéon pose, système combiné PVC aluminium terrasse, porte pliante rupture thermique',
+      es: 'instalación Salamander evolutionDrive Plus Bucarest, Alumil M 19800 SMARTIA puerta plegable instalación, sistema combinado PVC aluminio terraza, puerta plegable rotura puente térmico',
+      it: 'posa Salamander evolutionDrive Plus Bucarest, Alumil M 19800 SMARTIA porta a libro posa, sistema combinato PVC alluminio terrazza, porta pieghevole taglio termico',
     },
     content: {
-      ro: `## Ușa culisantă Salamander evolutionDrive Plus+ — cel mai avansat sistem glisant PVC din 2026
+      ro: `## Ușa culisantă Salamander evolutionDrive Plus+ — sistemul glisant PVC cu etanșare paralelă
 
 ### Ce este Salamander evolutionDrive Plus+?
 
-Salamander **evolutionDrive Plus+** este **sistemul glisant PVC cu etanșare paralelă** lansat de Salamander Industrie-Produkte GmbH (Bavaria, Germania) — producătorul de profile PVC cu tradiție de peste 40 de ani în industria tâmplăriei europene. Lansat în România în 2023, evolutionDrive Plus+ a redefinit standardul pentru uși culisante de terasă PVC, aducând o etanșare brevetată de calitate HST (liftant-glisant) la un cost semnificativ mai accesibil.
+Salamander **evolutionDrive Plus+** este **sistemul glisant PVC cu etanșare paralelă** al Salamander Window & Door Systems, producătorul german de profile din Türkheim (Bavaria). Sistemul aduce la o ușă culisantă din PVC o etanșare apropiată de cea a unei uși liftant-glisante (HST), la un cost mai mic.
 
-Spre deosebire de sistemele glisante clasice (PSK — oscilo-culisant sau HST — liftant-glisant), evolutionDrive Plus+ funcționează prin **glisare orizontală paralelă**: canatul nu se ridică înainte de a aluneca, ci se deplasează strict paralel cu tocul pe toată mișcarea de deschidere. Aceasta elimină uzura inegală a garniturii și asigură o etanșare perfectă la fiecare utilizare, indiferent dacă ușa este acționată de 3 ori sau de 3.000 de ori.
+Spre deosebire de sistemele glisante clasice și de cele osciloculisante (PSK), la evolutionDrive Plus+ canatul **se deplasează paralel cu tocul** și, la închidere, se trage pe toc și presează garniturile pe tot perimetrul. Garnitura nu este frecată la fiecare deschidere, așa că se uzează uniform și ușa rămâne etanșă în timp.
 
 ---
 
@@ -30370,167 +31342,166 @@ Spre deosebire de sistemele glisante clasice (PSK — oscilo-culisant sau HST �
 
 | Parametru | Valoare |
 |---|---|
-| Profil bază | **Salamander BluEvolution 92** (76 mm adâncime) |
-| Număr camere | **7 camere** |
-| Uw sistem (geam tripan) | **0,71–1,0 W/m²K** |
-| Uf ramă | **0,95 W/m²K** |
-| Izolare fonică | **42–44 dB** |
-| Rezistență vânt | **Clasa B5** (maximul pentru PVC glisant) |
-| Etanșare la apă | **Clasa 8A** (EN 12208) |
-| Permeabilitate la aer | **Clasa 4** (EN 12207) |
-| Antiefracție | **RC 2** |
-| Greutate maximă per canat | **400 kg** |
-| Dimensiune maximă canat | **1.950 mm × 2.250 mm** |
-| Dimensiune maximă cadru | **4.000 mm × 2.600 mm** |
-| Configurații disponibile | **2, 3 sau 4 canaturi** |
-| Compatibilitate Smart Home | **Da — Somfy, Nice, KNX** |
+| Adâncime de construcție | **152 mm** (cu șină) |
+| Profil | **5 camere** |
+| Sistem de etanșare | **Etanșare în toc — paralel** |
+| Coeficient Uw | **de la 0,71 W/m²K** cu geam tripan |
+| Izolare fonică | **până la 44 dB** |
+| Antiefracție | **până la RC 2** |
+| Greutate maximă canat | **până la 200 kg** |
+| Dimensiuni maxime | **până la 4,0 × 2,6 m** |
+| Geam acceptat | **până la 49 mm** (inclusiv tripan) |
+
+*Valorile depind de configurație; pentru ușa ta le confirmăm în ofertă.*
 
 ---
 
-### Etanșarea paralelă brevetată — de ce contează
+### Etanșarea paralelă — de ce contează
 
-Sistemele glisante convenționale comprimă garnitura **oblic sau prin ridicare**, ceea ce generează uzură inegală și pierderea treptată a etanșeității. evolutionDrive Plus+ folosește un mecanism în care canatul **se deplasează strict paralel cu tocul** în toată faza de mișcare, presând garnitura uniform pe întreaga suprafață de contact simultan.
+Sistemele glisante clasice comprimă garnitura **oblic sau prin ridicare**, ceea ce produce uzură inegală și pierderea treptată a etanșeității. La evolutionDrive Plus+, canatul se mișcă paralel cu tocul și presează garnitura uniform, pe toată suprafața de contact, abia la închidere.
 
 Beneficii directe pentru proprietar:
-- **Clasa de aer 4** — cea mai înaltă conform EN 12207 pentru sisteme glisante PVC
-- **Zero curenți de aer** — etanșare perfectă și iarna, și vara
-- **Garnitură cu durabilitate extinsă** — uzură uniformă, nu localizată
-- **Operare silențioasă** — reducerea zgomotului de acționare cu până la 75%
-- **Rezistență la vânt B5** — testat la presiuni extreme, ideal pentru casele din zona Ilfov și nord-vestul Bucureștiului expuse vântului
+- **Etanșeitate mai bună la vânt și la ploaia bătută de vânt** decât la glisantele clasice, după cum arată Salamander
+- **Fără curenți de aer** la ușa închisă, iarna și vara
+- **Garnitură care durează mai mult** — uzură uniformă, nu localizată
+- **Glisare ușoară și silențioasă**, chiar și la canaturi grele
+- **Uw de la 0,71 W/m²K** cu geam tripan — potrivit pentru case nZEB
 
 ---
 
-### evolutionDrive Plus+ vs HST aluminiu — comparație directă
+### evolutionDrive Plus+ vs liftant-glisant din aluminiu — comparație directă
 
-Cea mai frecventă întrebare de la clienții noștri din zona București-Ilfov care renovează sau construiesc o vilă: **PVC culisant sau HST aluminiu pentru terasă?**
+Cea mai frecventă întrebare de la clienții din București și Ilfov care renovează sau construiesc o vilă: **culisantă PVC sau liftant-glisant din aluminiu pentru terasă?** Am comparat evolutionDrive Plus+ cu [Alumil S 700 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme), pe același gol de 2,4 × 2,2 m.
 
-| Criteriu | evolutionDrive Plus+ PVC | HST aluminiu |
+| Criteriu | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
-| **Izolare termică Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
-| **Risc condens pe profil** | Zero — PVC nu conduce frigul | Posibil fără barieră termică premium |
-| **Cost cu montaj** | 1.800–3.000 EUR (2 canaturi) | 3.500–6.000 EUR (2 canaturi) |
-| **Greutate canat max** | 400 kg | 600–800 kg |
-| **Deschidere maximă** | 4,0 m lățime | 6,0–8,0 m lățime |
-| **Aspect** | Modern, profil PVC alb sau folie | Architectural, profil metalic slim |
-| **Mentenanță** | Minimă — PVC nu oxidează | Minimă — aluminiu nu oxidează |
-| **Compatibilitate nZEB** | ✅ Uw < 1,0 | ✅ Cu sistem premium |
+| **Izolare termică Uw** | de la 0,71 W/m²K (tripan) | de la 1,0 W/m²K |
+| **Risc de condens pe profil** | Foarte mic — PVC-ul conduce slab căldura | Mic — barieră termică Kooltherm |
+| **Cost cu montaj (gol 2,4 × 2,2 m)** | 1.900–2.800 EUR | 2.900–4.000 EUR |
+| **Greutate maximă canat** | 200 kg | 500 kg |
+| **Dimensiuni** | Toc de până la 4,0 × 2,6 m | Foi mari, pentru deschideri panoramice |
+| **Aspect** | Modern, PVC alb sau cu folie decor | Arhitectural, profil metalic subțire |
+| **Mentenanță** | Minimă — PVC-ul nu oxidează | Minimă — aluminiul nu oxidează |
+| **Compatibilitate nZEB** | ✅ Uw sub 1,0 | ✅ Uw de la 1,0 |
 
-**Concluzie practică:** Pentru goluri până la 4,0 m, utilizare zilnică și buget orientat spre eficiență, evolutionDrive Plus+ este alegerea mai inteligentă. Pentru goluri peste 4,0 m sau design architectural slim cu profile vizibile minime, HST aluminiu este soluția.
+*Prețuri orientative fără TVA.*
+
+**Concluzie practică:** pentru goluri de până la 4,0 m, folosire zilnică și un buget orientat spre eficiență, evolutionDrive Plus+ este alegerea mai rațională. Pentru deschideri panoramice, foi foarte grele sau un design cu profile metalice subțiri, liftant-glisantul din aluminiu este soluția.
 
 ---
 
 ### Configurații și aplicații recomandate
 
-**evolutionDrive Plus+ 2 canaturi (1 fix + 1 mobil)**
-Ideal pentru goluri 1,6–3,0 m. Cel mai frecvent montat în apartamentele premium din București și vilele din Ilfov ca acces principal spre terasă sau balcon. Buget: **1.800–2.600 EUR cu montaj** (culoare standard, geam dupan Low-E).
+**evolutionDrive Plus+ cu 2 canaturi (1 fix + 1 mobil)**
+Potrivit pentru goluri de 1,6–3,0 m. Este configurația pe care o montăm cel mai des în apartamentele din București și în vilele din Ilfov, ca acces principal spre terasă sau balcon. Buget: **1.900–2.800 EUR cu montaj** pentru un gol de 2,4 × 2,2 m (culoare standard, geam Low-E).
 
-**evolutionDrive Plus+ 3 canaturi**
-Pentru goluri 3,0–4,5 m — permite deschidere centrală sau laterală. Frecvent solicitat în proiectele din Pipera, Berceni, Voluntari și Otopeni. Buget: **2.800–4.200 EUR cu montaj**.
+**Goluri mai late, de până la 4,0 m**
+Pentru goluri de 3,0–4,0 m, alegem schema de canaturi în funcție de cum vrei să deschizi ușa. Le-am montat în Pipera, Berceni, Voluntari și Otopeni. Buget: **3.000–4.200 EUR cu montaj** pentru un gol de 3,6 × 2,2 m.
 
-**evolutionDrive Plus+ 4 canaturi**
-Pentru goluri 4,0–6,0 m. Alternativa PVC mai accesibilă față de sistemele armonice, când deschiderea totală nu este necesară. Buget: **4.000–6.000 EUR cu montaj**.
-
----
-
-## Alumil Smartia M19800BT — uși armonice cu barieră termică pentru deschideri totale
-
-### Ce este sistemul Alumil M19800?
-
-**Smartia M19800** este sistemul de **uși armonice (acordeon / bi-fold) din aluminiu** produs de Alumil Group (Kilkis, Grecia) — unul dintre cei mai mari producători de sisteme arhitecturale din aluminiu din Europa de Sud-Est, cu fabrici în Grecia și Republica Cehă. Varianta **BT (Barieră Termică)** este concepută special pentru rezidențe premium, vile, restaurante cu terasă, hoteluri și spații comerciale care necesită **deschiderea totală a peretelui** spre exterior.
-
-Principiul armonicii: canatele sunt suspendate pe o șină superioară și **se pliază în pachet compact la un capăt** — eliberând 100% din suprafața golului, fără stâlp central, fără obstacole vizuale, fără spațiu ocupat în pardoseală.
+**Peste 4,0 m**
+Aici evolutionDrive Plus+ își atinge limita. Pentru deschideri mai mari recomandăm un liftant-glisant din aluminiu sau, dacă vrei să deschizi tot peretele, un sistem armonic — ca în proiectul de mai jos.
 
 ---
 
-### Specificații tehnice M19800BT
+## Alumil M 19800 SMARTIA — uși armonice cu barieră termică pentru deschideri totale
+
+### Ce este sistemul Alumil M 19800?
+
+**SMARTIA M 19800** este sistemul de **uși armonice (acordeon / bi-fold) din aluminiu** produs de Alumil (Kilkis, Grecia), unul dintre cei mai mari producători de sisteme din aluminiu din Europa de Sud-Est. Este cel mai accesibil sistem armonic cu barieră termică din gama Alumil și e gândit pentru terase, balcoane și livinguri unde contează **deschiderea totală a peretelui** spre exterior.
+
+Principiul armonicii: foile sunt suspendate pe o șină superioară și **se pliază într-un pachet compact la un capăt**, eliberând toată suprafața golului — fără stâlp central și fără obstacole vizuale.
+
+---
+
+### Specificații tehnice M 19800 SMARTIA
 
 | Parametru | Valoare |
 |---|---|
-| Material | **Aluminiu extrudat 6063-T5 cu barieră termică din poliamidă** |
-| Adâncime profil | **50 mm** |
-| Înălțime maximă per canat | **3,3 m** |
-| Lățime maximă per canat | **0,9–1,2 m** |
-| Greutate maximă per canat | **125 kg** |
-| Număr canaturi | **2–8 (configurații par și impar)** |
-| Sens deschidere | **Interior sau exterior** |
-| Geam maxim acceptat | **32 mm** |
-| Uf coeficient termic ramă | **1,0–1,8 W/m²K** (cu barieră termică) |
-| Garnituri | **4 garnituri EPDM** |
-| Antiefracție | **RC 2–3** |
-| Prag | **Incastrat în pardoseală (opțional)** |
-| Culori | **Toate culorile RAL + finisaje lemn** |
-| Lățime maximă totală golul | **6,0–8,0 m** |
+| Tip sistem | **Armonic (pliant), suspendat pe șina superioară** |
+| Barieră termică | **18 mm, din poliamidă** |
+| Adâncime constructivă | **50 mm** |
+| Foi per sistem | **2–6** |
+| Lățime maximă totală | **5.000 mm** |
+| Dimensiuni maxime foaie | **1,0 m lățime × 2,5 m înălțime** |
+| Greutate maximă foaie | **80 kg** |
+| Geam acceptat | **24–32 mm** |
+| Coeficient Uf | **de la 1,9 W/m²K** |
+| Coeficient Uw | **de la 1,7 W/m²K** |
+| Izolare fonică | **până la 36 dB** |
+| Antiefracție | **certificat PAS24** |
+| Garnituri | **2 garnituri EPDM** |
+| Culori | **Culori RAL și finisaje imitație lemn** |
 
 ---
 
 ### Mecanismul de funcționare — suspendat, nu rulat pe pardoseală
 
-Spre deosebire de unele sisteme mai vechi care rulează pe un șine de podea, M19800BT folosește un sistem **suspendat superior**: fiecare canat atârnă de șina din planșeu prin role de precizie capabile să susțină până la 125 kg per canat. Pardoseaua rămâne complet liberă — fără șine vizibile, fără risc de înțepenire, fără pericol de accidentare.
+M 19800 folosește un sistem **suspendat**: fiecare foaie atârnă de șina superioară prin role care susțin până la 80 kg pe foaie. Pardoseala rămâne liberă — fără șine pe care să le calci și fără risc de înțepenire din cauza murdăriei.
 
-Fiecare canat se articulează față de vecin printr-o **balama cu 4 role** care permite plierea completă fără forță excesivă. Deschiderea unui perete de 4,8 m cu 4 canaturi M19800BT necesită o singură mișcare de tragere — canatele urmează automat în lanț.
-
----
-
-### Bariera termică — de ce M19800BT și nu M19800 standard
-
-Profilele de aluminiu fără barieră termică au conductivitate de **160 W/mK** — transferă frigul de afară direct în interior, creând condens vizibil pe profil la temperaturi sub 0°C. Bariera termică din poliamidă inserată între profilul exterior și cel interior reduce conductivitatea la **0,25 W/mK** — reducând pierderile termice prin ramă cu **50–75%** față de aluminiu neizolat.
-
-Rezultat practic: la o vilă din Ilfov cu M19800BT și geam tripan Low-E Saint-Gobain, peretele de armonice nu creează punți termice semnificative și satisface cerințele de certificare **nZEB** (consum de energie aproape zero).
+Foile sunt legate între ele prin balamale și se pliază una după alta într-un pachet compact. Ca să deschizi peretele, tragi de prima foaie, iar celelalte o urmează în lanț.
 
 ---
 
-### M19800BT vs alte sisteme armonice — ce nu ți se spune
+### Bariera termică — de ce contează la o armonică
 
-**M19800BT vs Reynaers ConceptFolding:** Alumil M19800BT este disponibil imediat în România prin Neofort BIZ cu termene de 3–4 săptămâni. Reynaers ConceptFolding are profile mai subțiri (aspect slim superior) dar timp de livrare mai lung și cost mai ridicat.
+Aluminiul conduce căldura de câteva sute de ori mai bine decât poliamida (circa 160 W/mK, față de circa 0,25 W/mK). Un profil fără barieră termică transferă frigul din exterior direct în interior, iar la temperaturi sub 0°C apare condens vizibil pe profil. Bariera din poliamidă de 18 mm a lui M 19800 întrerupe acest drum.
 
-**M19800BT vs SF85 Supreme:** SF85 este sistemul de ferestre oscilo-batante Alumil — nu un sistem armonice. Confuzia este frecventă; SF85 nu se pliază, M19800BT da.
-
-**M19800BT vs sisteme fără barieră termică:** Pentru vile din București și Ilfov cu utilizare pe tot parcursul anului, varianta fără barieră termică nu este recomandată — condens garantat iarna.
+Rezultatul practic: M 19800 are Uw de la 1,7 W/m²K, suficient pentru o terasă folosită tot anul. Nu este însă sistemul pentru o casă nZEB. Acolo recomandăm [Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme), cu Uw de la 1,0 W/m²K, sau o culisantă ca evolutionDrive Plus+.
 
 ---
 
-## De ce combinarea evolutionDrive Plus+ + M19800BT este alegerea premium în 2026
+### M 19800 vs alte sisteme armonice — ce nu ți se spune
 
-Aceasta este combinația **cel mai frecvent solicitată** de clienții Neofort BIZ din zona rezidențială premium București-Ilfov în 2025–2026, pentru un motiv simplu: fiecare sistem face exact ce face cel mai bine.
+**M 19800 SMARTIA vs SF 85 SUPREME:** ambele sunt armonice Alumil certificate PAS24. SF 85 este varianta premium: adâncime de 85 mm, barieră Kooltherm de 40 mm, 2–8 foi pe până la 7.000 mm, geam de până la 58 mm și Uw de la 1,0 W/m²K. M 19800 costă mai puțin și acoperă majoritatea teraselor de până la 5,0 m.
 
-| | evolutionDrive Plus+ PVC | M19800BT Aluminiu |
+**M 19800 vs armonicele fără barieră termică:** pentru vilele din București și Ilfov folosite tot anul, varianta fără barieră termică nu e recomandată — iarna face condens pe profil.
+
+**Lățimea maximă contează:** M 19800 acoperă cel mult 5,0 m, cu foi de cel mult 1,0 m. Pentru goluri mai mari sau pentru colțuri care se deschid pe două fațade, sistemul potrivit este SF 85 SUPREME.
+
+---
+
+## De ce combinația evolutionDrive Plus+ și M 19800 este o alegere bună în 2026
+
+Este o combinație pe care o cer des clienții Neofort BIZ cu vile în București și Ilfov, dintr-un motiv simplu: fiecare sistem face exact ce face cel mai bine.
+
+| | evolutionDrive Plus+ PVC | M 19800 SMARTIA aluminiu |
 |---|---|---|
-| **Rol în proiect** | Acces zilnic living-terasă | Deschidere totală pentru evenimente |
-| **Izolare termică** | ⭐⭐⭐⭐⭐ Uw 0,71–1,0 | ⭐⭐⭐ Uw 1,2–1,8 |
-| **Deschidere golului** | Parțială — 50% | Totală — 100% |
-| **Cost relativ** | ✅ Accesibil | 💰 Premium |
-| **Compatibil nZEB** | ✅ Da | ✅ Da (cu geam tripan) |
-| **Automtizare** | ✅ Somfy, Nice, KNX | ✅ Motorizare disponibilă |
+| **Rol în proiect** | Acces zilnic living–terasă | Deschidere totală pentru evenimente și vară |
+| **Izolare termică** | Uw de la 0,71 W/m²K | Uw de la 1,7 W/m²K |
+| **Deschiderea golului** | Parțială — circa 50% | Totală — 100% |
+| **Cost relativ** | Mai accesibil | Mai scump pe m² |
+| **Compatibil nZEB** | ✅ Da | Nu — pentru nZEB, SF 85 SUPREME |
+| **Geam maxim** | 49 mm (tripan) | 32 mm (dublu) |
 
 ---
 
-## Proiect real Neofort BIZ — vilă rezidențială zona București-Ilfov
+## Proiect real Neofort BIZ — vilă rezidențială în Voluntari, Ilfov
 
 ### Brieful clientului
 
-Proprietarii unei vile de 320 mp din zona Voluntari-Ilfov au solicitat: acces zilnic confortabil din living pe terasa de 40 mp, plus posibilitatea deschiderii complete a peretelui de 4,8 m pentru petreceri și vreme caldă. Buget total alocat: 9.000–12.000 EUR cu montaj.
+Proprietarii unei vile de 320 mp din Voluntari ne-au cerut un acces zilnic comod din living pe terasa de 40 mp, plus posibilitatea de a deschide complet peretele de 4,8 m pentru petreceri și zilele calde. Bugetul alocat: 9.000–12.000 EUR cu montaj.
 
 ### Soluția propusă și motivarea alegerii
 
-**evolutionDrive Plus+ 2 canaturi** — gol 2,4 m × 2,2 m, culoare Antracit RAL 7016, geam tripan 4/14/4/14/4 Low-E Saint-Gobain Planitherm ONE:
+**evolutionDrive Plus+ cu 2 canaturi** — gol 2,4 m × 2,2 m, culoare Antracit RAL 7016, geam tripan 4/14/4/14/4 Low-E Saint-Gobain Planitherm ONE:
 - Uw = 0,82 W/m²K — eligibil nZEB
-- Folie decor ambele fețe — culoare identică cu aluminiu pentru continuitate estetică
-- Pliseu anti-insecte integrat — solicitat expres de client
+- Folie decor pe ambele fețe — aceeași culoare ca aluminiul, pentru continuitate
+- Plasă plissé anti-insecte integrată — cerută expres de client
 
-**M19800BT 4 canaturi** — gol 4,8 m × 2,4 m, culoare Antracit RAL 7016, geam dupan 4/16/4 Low-E cu argon:
+**Armonică Alumil M 19800 SMARTIA** — gol 4,8 m × 2,4 m, culoare Antracit RAL 7016, geam dublu 4/16/4 Low-E cu argon:
 - Deschidere completă spre terasa de 40 mp
-- Prag incastrat în pardoseală — continuitate vizuală perfectă interior-exterior
-- Sisteme de blocare multipoint RC 2
+- Prag încastrat în pardoseală — continuitate vizuală între interior și exterior
+- Închidere în mai multe puncte
 
 ### Execuția montajului
 
 Durata totală: **3 zile de montaj** pentru ambele sisteme.
 
-Etapa 1 — evolutionDrive Plus+: fixare cadru cu diburi chimici, etanșare cu bandă butilică precomprimată exterior și folie antivapori interior (standard RAL), montaj canaturi, reglaj paralel, verificare etanșeitate.
+Etapa 1 — evolutionDrive Plus+: fixarea tocului cu diblu chimic, etanșare cu bandă precomprimată la exterior și folie de barieră de vapori la interior (montaj RAL), montarea canaturilor, reglajul paralel, verificarea etanșeității.
 
-Etapa 2 — M19800BT: trasare și ancorare șină superioară în planșeu de beton armat (critica — toleranță ±1 mm), montaj tocuri laterale, prag incastrat, suspendare individuală a celor 4 canaturi, reglaj role și balamale, blocare multipoint, test vânt și apă.
+Etapa 2 — M 19800: trasarea și ancorarea șinei superioare în planșeul de beton armat (etapa critică — toleranță de ±1 mm), montarea tocurilor laterale și a pragului încastrat, suspendarea foilor una câte una, reglajul rolelor și al balamalelor, închiderea în mai multe puncte, verificarea funcționării și a etanșeității.
 
-La recepție: certificat de garanție pe produs și manoperă, proces verbal cu parametrii verificați, instrucțiuni de utilizare și întreținere.
+La recepție: certificat de garanție pe produs și manoperă, proces-verbal cu parametrii verificați, instrucțiuni de utilizare și întreținere.
 
 ---
 
@@ -30539,204 +31510,269 @@ La recepție: certificat de garanție pe produs și manoperă, proces verbal cu 
 | Sistem | Configurație | Preț cu montaj |
 |---|---|---|
 | evolutionDrive Plus+ | 2 canaturi, 2,4 m × 2,2 m, alb/antracit | **1.900–2.800 EUR** |
-| evolutionDrive Plus+ | 3 canaturi, 3,6 m × 2,2 m | **3.000–4.200 EUR** |
-| M19800BT | 4 canaturi, 4,8 m × 2,4 m | **4.500–6.500 EUR** |
-| M19800BT | 6 canaturi, 6,0 m × 2,4 m | **6.500–9.000 EUR** |
-| **Pachet combinat** | evolutionDrive Plus+ 2C + M19800BT 4C | **6.500–9.000 EUR** |
+| evolutionDrive Plus+ | gol 3,6 m × 2,2 m | **3.000–4.200 EUR** |
+| M 19800 SMARTIA | gol 4,8 m × 2,4 m | **3.200–4.600 EUR** |
+| M 19800 SMARTIA | gol 5,0 m × 2,4 m (lățimea maximă) | **3.400–4.800 EUR** |
+| **Pachet combinat** | evolutionDrive Plus+ 2,4 m + M 19800 4,8 m | **5.100–7.400 EUR** |
 
-*Prețurile includ producție, transport și montaj profesional în București și Ilfov. Prețul final depinde de culoare, geam ales, opțiuni suplimentare (pliseu, automatizare) și specificul șantierului.*
+*Prețurile sunt fără TVA (21%) și includ producția, transportul și montajul în București și Ilfov. Prețul final depinde de culoare, geam, opțiuni (plasă plissé, culori speciale) și de specificul șantierului.*
 
 ---
 
-## Întrebări frecvente — evolutionDrive Plus+ și M19800BT
+## Întrebări frecvente — evolutionDrive Plus+ și M 19800
 
 ### Pot comanda evolutionDrive Plus+ în culori speciale?
-Da — gama completă de folii decor Salamander, inclusiv nuanțe de lemn, antracit mat, gri Agate, gri Basalt și alb clasic. Ambele fețe pot fi în culori diferite.
+Da — din gama de folii decor Salamander, inclusiv imitații de lemn, antracit și nuanțe de gri. Cele două fețe pot avea culori diferite.
 
-### M19800BT poate fi automatizat?
-Da — sistemul este compatibil cu motorizare Somfy sau Nice, cu comandă prin telecomandă, aplicație mobilă sau integrare KNX/Smart Home.
+### Ce lățime poate acoperi armonica M 19800?
+Până la 5,0 m, cu 2–6 foi de cel mult 1,0 m lățime și 2,5 m înălțime fiecare. Pentru goluri mai mari recomandăm Alumil SF 85 SUPREME, care ajunge la 7,0 m.
 
 ### Cât durează producția și montajul?
-Producție: 3–4 săptămâni de la semnarea comenzii. Montaj: 1 zi pentru evolutionDrive Plus+, 1–2 zile pentru M19800BT.
+Producția: 3–4 săptămâni de la semnarea comenzii. Montajul: 1 zi pentru evolutionDrive Plus+ și 1–2 zile pentru M 19800.
 
-### Oferă Neofort BIZ garanție extinsă?
-Da — garanție completă pe produs și manoperă, plus verificare anuală inclusă în București și Ilfov.
+### Cât costă pachetul evolutionDrive Plus+ și M 19800?
+Pentru un gol de 2,4 m la culisantă și unul de 4,8 m la armonică, pachetul costă 5.100–7.400 EUR cu montaj, fără TVA. Prețul exact îl primești în oferta făcută în 48 de ore.
 
-Aflați mai multe despre [sistemele PVC Salamander](/ro/tamplarie-pvc) și [tâmplăria aluminiu Alumil](/ro/tamplarie-aluminiu) disponibile la Neofort BIZ. Pentru context complet, citește [ghidul de alegere între sistemele Salamander](/ro/blog/bluevolution-92-vs-greenevolution-76).
+### Oferă Neofort BIZ garanție?
+Da — garanție pe produs și manoperă, confirmată prin certificat la recepție.
+
+Aflați mai multe despre [sistemele PVC Salamander](/ro/tamplarie-pvc) și [tâmplăria din aluminiu Alumil](/ro/tamplarie-aluminiu) de la Neofort BIZ.
+
+- Pentru context complet, citește [ghidul de alegere între sistemele Salamander](/ro/blog/bluevolution-92-vs-greenevolution-76).
+- Despre culisantă și plasa plissé: [ușa culisantă evolutionDrive Plus+ cu plasă plissé](/ro/blog/usa-culisanta-pvc-salamander-evolutiondrive-plus-plasa-plisse).
 
 **Solicitați o ofertă pentru proiectul dvs.:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**
 
 ---
 
-Neofort BIZ montează sisteme culisante Salamander și armonice Alumil pe aceeași fațadă, în București și Ilfov. [Trimite-ne deschiderile pe care le ai](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [sistemul armonic Alumil M 19800 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-m19800-smartia) și [sistemul armonic Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme).
-`,
+Neofort BIZ montează sisteme culisante Salamander și armonice Alumil pe aceeași fațadă, în București și Ilfov. [Trimite-ne deschiderile pe care le ai](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [sistemul armonic Alumil M 19800 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-m19800-smartia) și [sistemul armonic Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme).`,
 
-      en: `## Salamander evolutionDrive Plus+ Sliding Door — The Most Advanced PVC Sliding System in 2026
+      en: `## The Salamander evolutionDrive Plus+ sliding door — the PVC sliding system with parallel sealing
 
 ### What is Salamander evolutionDrive Plus+?
 
-Salamander **evolutionDrive Plus+** is the **parallel-seal PVC sliding door system** launched by Salamander Industrie-Produkte GmbH (Bavaria, Germany) — a manufacturer with over 40 years of heritage in European window profile production. Launched across Europe in 2023, evolutionDrive Plus+ redefined the standard for PVC patio sliding doors, delivering patented HST-grade sealing at a significantly more accessible price point.
+Salamander **evolutionDrive Plus+** is the **PVC sliding system with parallel sealing** from Salamander Window & Door Systems, the German profile manufacturer based in Türkheim (Bavaria). The system brings to a PVC sliding door a seal close to that of a lift-and-slide door (HST), at a lower cost.
 
-Unlike conventional sliding systems (PSK tilt-and-slide or HST lift-and-slide), evolutionDrive Plus+ operates via **pure horizontal parallel gliding** — the sash does not lift before sliding. It moves strictly parallel to the frame throughout the entire movement, ensuring uniform gasket compression and perfect sealing on every operation, whether the door is used 3 times or 3,000 times.
+Unlike classic sliding systems and tilt-and-slide doors (PSK), on evolutionDrive Plus+ the sash **moves parallel to the frame** and, when closing, is drawn onto the frame and presses the gaskets along the whole perimeter. The gasket is not rubbed at every opening, so it wears evenly and the door stays airtight over time.
 
 ---
 
-### Technical Specifications evolutionDrive Plus+
+### evolutionDrive Plus+ technical specifications
 
 | Parameter | Value |
 |---|---|
-| Base profile | **Salamander BluEvolution 92** (76 mm depth) |
-| Chambers | **7 chambers** |
-| Uw system (triple glazing) | **0.71–1.0 W/m²K** |
-| Frame Uf | **0.95 W/m²K** |
-| Sound insulation | **42–44 dB** |
-| Wind resistance | **Class B5** (maximum for PVC sliding) |
-| Water tightness | **Class 8A** (EN 12208) |
-| Air permeability | **Class 4** (EN 12207) |
-| Burglar resistance | **RC 2** |
-| Max sash weight | **400 kg** |
-| Max sash dimensions | **1,950 mm × 2,250 mm** |
-| Max frame dimensions | **4,000 mm × 2,600 mm** |
-| Configurations | **2, 3 or 4 sashes** |
-| Smart Home compatibility | **Yes — Somfy, Nice, KNX** |
+| Construction depth | **152 mm** (with track) |
+| Profile | **5 chambers** |
+| Sealing system | **Sealing in the frame — parallel** |
+| Uw coefficient | **from 0.71 W/m²K** with triple glazing |
+| Sound insulation | **up to 44 dB** |
+| Burglar resistance | **up to RC 2** |
+| Maximum sash weight | **up to 200 kg** |
+| Maximum dimensions | **up to 4.0 × 2.6 m** |
+| Glazing accepted | **up to 49 mm** (triple glazing included) |
+
+*Values depend on the configuration; we confirm them for your door in the quote.*
 
 ---
 
-### The Patented Parallel Sealing — Why It Matters
+### Parallel sealing — why it matters
 
-Conventional sliding systems compress the gasket **diagonally or via lifting**, causing uneven wear and gradual loss of airtightness over time. evolutionDrive Plus+ uses a mechanism where the sash **moves strictly parallel to the frame** throughout the entire motion, pressing the gasket uniformly across the full contact surface simultaneously.
+Classic sliding systems compress the gasket **at an angle or by lifting**, which causes uneven wear and a gradual loss of airtightness. On evolutionDrive Plus+, the sash moves parallel to the frame and presses the gasket evenly, over the whole contact surface, only when it closes.
 
-Direct benefits for the homeowner:
-- **Air class 4** — the highest achievable under EN 12207 for PVC sliding systems
-- **Zero draughts** — perfect sealing in both winter and summer
-- **Extended gasket durability** — uniform wear, not localised
-- **Silent operation** — noise reduction of up to 75% compared to conventional sliding systems
-- **Wind resistance B5** — tested at extreme pressures, ideal for homes in Bucharest suburbs and rural Ilfov county
+Direct benefits for the owner:
+- **Better tightness against wind and wind-driven rain** than classic sliders, as Salamander shows
+- **No draughts** when the door is closed, in winter and in summer
+- **A gasket that lasts longer** — even wear, not localised wear
+- **Smooth, quiet sliding**, even with heavy sashes
+- **Uw from 0.71 W/m²K** with triple glazing — suitable for nZEB homes
 
 ---
 
-### evolutionDrive Plus+ vs Aluminium HST — A Direct Comparison
+### evolutionDrive Plus+ vs aluminium lift-and-slide — a direct comparison
 
-The most frequent question from our clients building or renovating a villa in the Bucharest-Ilfov area: **PVC sliding or aluminium HST for the terrace?**
+The most frequent question from clients in Bucharest and Ilfov who are renovating or building a villa: **a PVC sliding door or an aluminium lift-and-slide door for the terrace?** We compared evolutionDrive Plus+ with the [Alumil S 700 SUPREME](/en/products-alu/alumil-s700-supreme-lift-slide-system), on the same 2.4 × 2.2 m opening.
 
-| Criterion | evolutionDrive Plus+ PVC | Aluminium HST |
+| Criterion | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
-| **Thermal insulation Uw** | 0.71–1.0 W/m²K ⭐⭐⭐⭐⭐ | 1.0–1.4 W/m²K ⭐⭐⭐ |
-| **Condensation risk on profile** | Zero — PVC does not conduct cold | Possible without premium thermal break |
-| **Cost with installation** | €1,800–3,000 (2 sashes) | €3,500–6,000 (2 sashes) |
-| **Max sash weight** | 400 kg | 600–800 kg |
-| **Max opening width** | 4.0 m | 6.0–8.0 m |
-| **Aesthetics** | Modern, PVC white or foil finish | Architectural, slim metal profile |
+| **Thermal insulation Uw** | from 0.71 W/m²K (triple) | from 1.0 W/m²K |
+| **Risk of condensation on the profile** | Very low — PVC conducts heat poorly | Low — Kooltherm thermal break |
+| **Cost with installation (2.4 × 2.2 m opening)** | 1,900–2,800 EUR | 2,900–4,000 EUR |
+| **Maximum sash weight** | 200 kg | 500 kg |
+| **Dimensions** | Frame up to 4.0 × 2.6 m | Large panels, for panoramic openings |
+| **Look** | Modern, white PVC or decor foil | Architectural, slim metal profile |
 | **Maintenance** | Minimal — PVC does not oxidise | Minimal — aluminium does not oxidise |
-| **nZEB compliance** | ✅ Uw < 1.0 | ✅ With premium system |
+| **nZEB compatibility** | ✅ Uw below 1.0 | ✅ Uw from 1.0 |
 
-**Practical conclusion:** For openings up to 4.0 m, daily use and efficiency-focused budget, evolutionDrive Plus+ is the smarter choice. For openings over 4.0 m or slim architectural design with minimal visible profiles, aluminium HST is the solution.
+*Indicative prices excluding VAT.*
 
----
-
-## Alumil Smartia M19800BT — Thermally Broken Folding Doors for Full-Width Openings
-
-### What is the Alumil M19800 System?
-
-**Smartia M19800** is the **aluminium folding (accordion / bi-fold) door system** produced by Alumil Group (Kilkis, Greece) — one of the largest architectural aluminium system manufacturers in South-East Europe, with factories in Greece and the Czech Republic. The **BT (Thermal Break)** variant is designed specifically for premium residences, villas, terrace restaurants, hotels and commercial spaces requiring **full wall opening** to the exterior.
-
-The accordion principle: sashes are suspended on an overhead track and **fold into a compact stack at one end** — freeing 100% of the opening, with no central post, no visual obstacles, no floor-level obstruction.
+**Practical conclusion:** for openings of up to 4.0 m, daily use and a budget focused on efficiency, evolutionDrive Plus+ is the more sensible choice. For panoramic openings, very heavy panels or a design with slim metal profiles, an aluminium lift-and-slide door is the answer.
 
 ---
 
-### Technical Specifications M19800BT
+### Configurations and recommended uses
+
+**evolutionDrive Plus+ with 2 sashes (1 fixed + 1 sliding)**
+Suitable for openings of 1.6–3.0 m. This is the configuration we install most often in Bucharest apartments and Ilfov villas, as the main access to a terrace or balcony. Budget: **1,900–2,800 EUR with installation** for a 2.4 × 2.2 m opening (standard colour, Low-E glazing).
+
+**Wider openings, up to 4.0 m**
+For openings of 3.0–4.0 m, we choose the sash layout according to how you want the door to open. We have installed them in Pipera, Berceni, Voluntari and Otopeni. Budget: **3,000–4,200 EUR with installation** for a 3.6 × 2.2 m opening.
+
+**Over 4.0 m**
+This is where evolutionDrive Plus+ reaches its limit. For larger openings we recommend an aluminium lift-and-slide door or, if you want to open the whole wall, a folding system — as in the project below.
+
+---
+
+## Alumil M 19800 SMARTIA — thermally broken folding doors for full openings
+
+### What is the Alumil M 19800 system?
+
+**SMARTIA M 19800** is the **aluminium folding door system (accordion / bi-fold)** made by Alumil (Kilkis, Greece), one of the largest aluminium system manufacturers in South-Eastern Europe. It is the most affordable thermally broken folding system in the Alumil range and is designed for terraces, balconies and living rooms where **opening the whole wall** to the outside matters.
+
+The folding principle: the panels hang from a top track and **fold into a compact stack at one end**, freeing the whole surface of the opening — no central post and no visual obstacles.
+
+---
+
+### M 19800 SMARTIA technical specifications
 
 | Parameter | Value |
 |---|---|
-| Material | **Extruded 6063-T5 aluminium with polyamide thermal break** |
-| Profile depth | **50 mm** |
-| Max sash height | **3.3 m** |
-| Max sash width | **0.9–1.2 m** |
-| Max sash weight | **125 kg** |
-| Number of sashes | **2–8 (even and odd configurations)** |
-| Opening direction | **Inward or outward** |
-| Max glazing thickness | **32 mm** |
-| Frame thermal coefficient Uf | **1.0–1.8 W/m²K** (with thermal break) |
-| Gaskets | **4 EPDM gaskets** |
-| Burglar resistance | **RC 2–3** |
-| Threshold | **Floor-recessed (optional)** |
-| Colours | **Full RAL range + woodgrain finishes** |
-| Maximum total opening width | **6.0–8.0 m** |
+| System type | **Folding, top-hung on the upper track** |
+| Thermal break | **18 mm, polyamide** |
+| Construction depth | **50 mm** |
+| Panels per system | **2–6** |
+| Maximum total width | **5,000 mm** |
+| Maximum panel size | **1.0 m wide × 2.5 m high** |
+| Maximum panel weight | **80 kg** |
+| Glazing accepted | **24–32 mm** |
+| Uf coefficient | **from 1.9 W/m²K** |
+| Uw coefficient | **from 1.7 W/m²K** |
+| Sound insulation | **up to 36 dB** |
+| Burglar resistance | **PAS24 certified** |
+| Gaskets | **2 EPDM gaskets** |
+| Colours | **RAL colours and wood-effect finishes** |
 
 ---
 
-### The Suspension System — Why It Makes the Difference
+### How it works — top-hung, not rolling on the floor
 
-Unlike older bi-fold systems that run on floor tracks, M19800BT uses a **top-hung suspension system**: each sash hangs from a ceiling-mounted track via precision rollers capable of carrying up to 125 kg per sash. The floor remains completely clear — no visible floor tracks, no jamming risk, no trip hazard.
+M 19800 uses a **top-hung** system: each panel hangs from the upper track on rollers that carry up to 80 kg per panel. The floor stays clear — no tracks to step on and no risk of jamming because of dirt.
 
-Each sash articulates against its neighbour via a **4-roller hinge** allowing full folding without excessive force. Opening a 4.8 m wall with 4 M19800BT sashes requires a single pulling motion — the sashes follow automatically in sequence.
+The panels are linked by hinges and fold one after another into a compact stack. To open the wall, you pull the first panel and the others follow it in a chain.
 
 ---
 
-## Why evolutionDrive Plus+ + M19800BT Is the Premium Choice in 2026
+### The thermal break — why it matters on a folding door
 
-This combination is the **most frequently requested** by Neofort BIZ clients in the premium residential areas of Bucharest-Ilfov in 2025–2026, for a simple reason: each system does exactly what it does best.
+Aluminium conducts heat several hundred times better than polyamide (about 160 W/mK, compared with about 0.25 W/mK). A profile without a thermal break carries the cold from outside straight inside, and below 0°C visible condensation forms on the profile. The 18 mm polyamide break in M 19800 interrupts that path.
 
-| | evolutionDrive Plus+ PVC | M19800BT Aluminium |
+The practical result: M 19800 has a Uw from 1.7 W/m²K, enough for a terrace used all year round. It is not, however, the system for an nZEB house. There we recommend the [Alumil SF 85 SUPREME](/en/products-alu/alumil-sf85-supreme-folding-system), with a Uw from 1.0 W/m²K, or a sliding door such as evolutionDrive Plus+.
+
+---
+
+### M 19800 vs other folding systems — what nobody tells you
+
+**M 19800 SMARTIA vs SF 85 SUPREME:** both are PAS24-certified Alumil folding systems. SF 85 is the premium option: 85 mm depth, a 40 mm Kooltherm break, 2–8 panels over up to 7,000 mm, glazing up to 58 mm and a Uw from 1.0 W/m²K. M 19800 costs less and covers most terraces up to 5.0 m.
+
+**M 19800 vs folding doors without a thermal break:** for villas in Bucharest and Ilfov used all year round, the version without a thermal break is not recommended — in winter it causes condensation on the profile.
+
+**The maximum width matters:** M 19800 covers at most 5.0 m, with panels of at most 1.0 m. For larger openings or for corners that open onto two facades, the right system is SF 85 SUPREME.
+
+---
+
+## Why combining evolutionDrive Plus+ and M 19800 is a good choice in 2026
+
+It is a combination Neofort BIZ clients with villas in Bucharest and Ilfov often ask for, for a simple reason: each system does exactly what it does best.
+
+| | evolutionDrive Plus+ PVC | M 19800 SMARTIA aluminium |
 |---|---|---|
-| **Role in project** | Daily indoor-terrace access | Full opening for events and summer |
-| **Thermal insulation** | ⭐⭐⭐⭐⭐ Uw 0.71–1.0 | ⭐⭐⭐ Uw 1.2–1.8 |
-| **Opening coverage** | Partial — 50% | Full — 100% |
-| **Relative cost** | ✅ Accessible | 💰 Premium |
-| **nZEB compatible** | ✅ Yes | ✅ Yes (with triple glazing) |
-| **Automation** | ✅ Somfy, Nice, KNX | ✅ Motorisation available |
+| **Role in the project** | Daily living-room–terrace access | Full opening for events and summer |
+| **Thermal insulation** | Uw from 0.71 W/m²K | Uw from 1.7 W/m²K |
+| **Opening of the gap** | Partial — about 50% | Full — 100% |
+| **Relative cost** | More affordable | More expensive per m² |
+| **nZEB compatible** | ✅ Yes | No — for nZEB, SF 85 SUPREME |
+| **Maximum glazing** | 49 mm (triple) | 32 mm (double) |
 
 ---
 
-## Real Neofort BIZ Project — Residential Villa Bucharest-Ilfov Area
+## A real Neofort BIZ project — residential villa in Voluntari, Ilfov
 
-**Client brief:** The owners of a 320 m² villa in Voluntari-Ilfov required: comfortable daily access from the living room to their 40 m² terrace, plus the option to fully open the 4.8 m wall for parties and warm weather. Total budget allocated: €9,000–12,000 installed.
+### The client's brief
 
-**Solution delivered:**
-- evolutionDrive Plus+ 2 sashes, 2.4 m × 2.2 m, Anthracite RAL 7016, triple glaze Saint-Gobain Planitherm ONE — Uw = 0.82 W/m²K, nZEB eligible, integrated pleated fly screen
-- M19800BT 4 sashes, 4.8 m × 2.4 m, Anthracite RAL 7016, double glaze Low-E with argon — floor-recessed threshold, RC 2 multipoint locking
+The owners of a 320 m² villa in Voluntari asked us for comfortable everyday access from the living room to the 40 m² terrace, plus the option of opening the whole 4.8 m wall for parties and warm days. Budget set aside: 9,000–12,000 EUR with installation.
 
-**Installation duration:** 3 days total for both systems.
+### The proposed solution and the reasons behind it
+
+**evolutionDrive Plus+ with 2 sashes** — 2.4 m × 2.2 m opening, Anthracite RAL 7016, 4/14/4/14/4 Low-E Saint-Gobain Planitherm ONE triple glazing:
+- Uw = 0.82 W/m²K — nZEB eligible
+- Decor foil on both faces — the same colour as the aluminium, for continuity
+- Integrated plissé insect screen — specifically requested by the client
+
+**Alumil M 19800 SMARTIA folding door** — 4.8 m × 2.4 m opening, Anthracite RAL 7016, 4/16/4 Low-E double glazing with argon:
+- Full opening onto the 40 m² terrace
+- Threshold recessed into the floor — visual continuity between inside and outside
+- Multi-point locking
+
+### Carrying out the installation
+
+Total duration: **3 days of installation** for both systems.
+
+Stage 1 — evolutionDrive Plus+: fixing the frame with chemical anchors, sealing with pre-compressed tape outside and vapour barrier foil inside (RAL installation), fitting the sashes, parallel adjustment, airtightness check.
+
+Stage 2 — M 19800: setting out and anchoring the top track in the reinforced concrete slab (the critical stage — ±1 mm tolerance), fitting the side frames and the recessed threshold, hanging the panels one by one, adjusting the rollers and hinges, multi-point locking, checking operation and tightness.
+
+At handover: a warranty certificate for product and labour, a report with the parameters checked, and instructions for use and maintenance.
 
 ---
 
-## 2026 Price Guide — Bucharest and Ilfov
+## Indicative prices 2026 — Bucharest and Ilfov
 
-| System | Configuration | Price installed |
+| System | Configuration | Price with installation |
 |---|---|---|
-| evolutionDrive Plus+ | 2 sashes, 2.4 m × 2.2 m | **€1,900–2,800** |
-| evolutionDrive Plus+ | 3 sashes, 3.6 m × 2.2 m | **€3,000–4,200** |
-| M19800BT | 4 sashes, 4.8 m × 2.4 m | **€4,500–6,500** |
-| M19800BT | 6 sashes, 6.0 m × 2.4 m | **€6,500–9,000** |
-| **Combined package** | evolutionDrive Plus+ 2S + M19800BT 4S | **€6,500–9,000** |
+| evolutionDrive Plus+ | 2 sashes, 2.4 m × 2.2 m, white/anthracite | **1,900–2,800 EUR** |
+| evolutionDrive Plus+ | 3.6 m × 2.2 m opening | **3,000–4,200 EUR** |
+| M 19800 SMARTIA | 4.8 m × 2.4 m opening | **3,200–4,600 EUR** |
+| M 19800 SMARTIA | 5.0 m × 2.4 m opening (maximum width) | **3,400–4,800 EUR** |
+| **Combined package** | evolutionDrive Plus+ 2.4 m + M 19800 4.8 m | **5,100–7,400 EUR** |
 
-*Prices include production, delivery and professional installation in Bucharest and Ilfov. Final price depends on colour choice, glazing specification, optional extras (fly screen, automation) and site conditions.*
+*Prices exclude VAT (21%) and include production, transport and installation in Bucharest and Ilfov. The final price depends on the colour, the glazing, options (plissé screen, special colours) and the specifics of the site.*
 
 ---
 
-## FAQ — evolutionDrive Plus+ and M19800BT
+## Frequently Asked Questions — evolutionDrive Plus+ and M 19800
 
-**Can evolutionDrive Plus+ be ordered in special colours?** Yes — full Salamander foil range including woodgrain shades, anthracite, Agate grey, Basalt grey, and classic white. Both sides can differ.
+### Can I order evolutionDrive Plus+ in special colours?
+Yes — from the Salamander decor foil range, including wood effects, anthracite and shades of grey. The two faces can be in different colours.
 
-**Can M19800BT be automated?** Yes — compatible with Somfy or Nice motorisation, controllable via remote, mobile app or KNX/Smart Home integration.
+### How wide an opening can the M 19800 folding door cover?
+Up to 5.0 m, with 2–6 panels each at most 1.0 m wide and 2.5 m high. For larger openings we recommend the Alumil SF 85 SUPREME, which reaches 7.0 m.
 
-**How long does production and installation take?** Production: 3–4 weeks from order confirmation. Installation: 1 day for evolutionDrive Plus+, 1–2 days for M19800BT.
+### How long do production and installation take?
+Production: 3–4 weeks from signing the order. Installation: 1 day for evolutionDrive Plus+ and 1–2 days for M 19800.
 
-Find out more about our [Salamander PVC windows](/en/pvc-windows) and [Alumil aluminium windows](/en/aluminium-windows).
+### How much does the evolutionDrive Plus+ and M 19800 package cost?
+For a 2.4 m opening for the sliding door and a 4.8 m one for the folding door, the package costs 5,100–7,400 EUR with installation, excluding VAT. You get the exact price in the quote we send within 48 hours.
+
+### Does Neofort BIZ offer a warranty?
+Yes — a warranty on product and labour, confirmed by a certificate at handover.
+
+Find out more about the [Salamander PVC systems](/en/pvc-windows) and the [Alumil aluminium joinery](/en/aluminium-windows) at Neofort BIZ.
+
+- For the full picture, read the [guide to choosing between Salamander systems](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).
+- On the sliding door and the plissé screen: [the evolutionDrive Plus+ sliding door with plissé screen](/en/blog/salamander-evolutiondrive-plus-sliding-door-plisse-screen).
 
 **Request a quote for your project:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mon–Fri 10–18**
 
 ---
 
-Neofort BIZ supplies Salamander systems for houses, apartments and export projects, installed by our own teams. Discover [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). For the full context, read [the Salamander systems choice guide](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Alumil M 19800 SMARTIA folding system](/en/products-alu/alumil-m19800-smartia-folding-system) and [the Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system).`,
+Neofort BIZ installs Salamander sliding systems and Alumil folding systems on the same facade, in Bucharest and Ilfov. [Send us the openings you have](/en/contact) and get a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Useful pages: [the Alumil M 19800 SMARTIA folding system](/en/products-alu/alumil-m19800-smartia-folding-system) and [the Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system).`,
 
-      de: `## Salamander evolutionDrive Plus+ Schiebetür — Das modernste PVC-Gleitsystem 2026
+      de: `## Die Schiebetür Salamander evolutionDrive Plus+ — das PVC-Schiebesystem mit Paralleldichtung
 
-### Was ist die Salamander evolutionDrive Plus+?
+### Was ist Salamander evolutionDrive Plus+?
 
-Salamander **evolutionDrive Plus+** ist das **PVC-Parallelschiebesystem** von Salamander Industrie-Produkte GmbH (Bayern, Deutschland) — einem Profilhersteller mit über 40 Jahren Erfahrung in der europäischen Fensterbauindustrie. Das System wurde 2023 in Deutschland und Europa eingeführt und hat den Standard für PVC-Terrassenschiebetüren neu definiert: patentierte Abdichtungsqualität auf HST-Niveau (Hebe-Schiebe) zu einem deutlich günstigeren Preis.
+Salamander **evolutionDrive Plus+** ist das **PVC-Schiebesystem mit Paralleldichtung** von Salamander Window & Door Systems, dem deutschen Profilhersteller aus Türkheim (Bayern). Das System bringt eine PVC-Schiebetür auf eine Dichtheit, die der einer Hebe-Schiebe-Tür (HST) nahekommt, zu geringeren Kosten.
 
-Anders als konventionelle Gleitsysteme (PSK — Dreh-Kipp-Schiebe, HST — Hebe-Schiebe) funktioniert evolutionDrive Plus+ durch **rein horizontales Parallelgleiten** — der Flügel hebt sich nicht vor dem Gleiten, sondern bewegt sich streng parallel zum Blendrahmen während der gesamten Öffnungsbewegung. Das sorgt für gleichmäßige Dichtungspressung und perfekte Abdichtung bei jeder Betätigung.
+Anders als klassische Schiebesysteme und Parallel-Schiebe-Kipp-Türen (PSK) **bewegt sich der Flügel bei evolutionDrive Plus+ parallel zum Rahmen**; beim Schließen wird er an den Rahmen herangezogen und presst die Dichtungen auf dem ganzen Umfang an. Die Dichtung wird nicht bei jedem Öffnen gerieben, nutzt sich daher gleichmäßig ab, und die Tür bleibt auf Dauer dicht.
 
 ---
 
@@ -30744,117 +31780,218 @@ Anders als konventionelle Gleitsysteme (PSK — Dreh-Kipp-Schiebe, HST — Hebe-
 
 | Parameter | Wert |
 |---|---|
-| Basisprofil | **Salamander BluEvolution 92** (76 mm Bautiefe) |
-| Kammern | **7 Kammern** |
-| Uw-Wert (Dreifachverglasung) | **0,71–1,0 W/m²K** |
-| Uf Rahmen | **0,95 W/m²K** |
-| Schalldämmung | **42–44 dB** |
-| Windwiderstand | **Klasse B5** (Maximum für PVC-Gleitsysteme) |
-| Wasserdichtheit | **Klasse 8A** (EN 12208) |
-| Luftdurchlässigkeit | **Klasse 4** (EN 12207) |
-| Einbruchhemmung | **RC 2** |
-| Max. Flügelgewicht | **400 kg** |
-| Max. Flügelmaß | **1.950 mm × 2.250 mm** |
-| Max. Rahmenmaß | **4.000 mm × 2.600 mm** |
-| Konfigurationen | **2, 3 oder 4 Flügel** |
-| Smart-Home-Kompatibilität | **Ja — Somfy, Nice, KNX** |
+| Bautiefe | **152 mm** (mit Schiene) |
+| Profil | **5 Kammern** |
+| Dichtsystem | **Dichtung im Rahmen — parallel** |
+| Uw-Wert | **ab 0,71 W/m²K** mit Dreifachverglasung |
+| Schalldämmung | **bis 44 dB** |
+| Einbruchhemmung | **bis RC 2** |
+| Max. Flügelgewicht | **bis 200 kg** |
+| Max. Abmessungen | **bis 4,0 × 2,6 m** |
+| Verglasung | **bis 49 mm** (auch Dreifachglas) |
+
+*Die Werte hängen von der Ausführung ab; für Ihre Tür bestätigen wir sie im Angebot.*
 
 ---
 
-### Die patentierte Parallelabdichtung — warum sie entscheidend ist
+### Die Paralleldichtung — warum sie wichtig ist
 
-Herkömmliche Gleitsysteme pressen die Dichtung **schräg oder durch Anheben**, was zu ungleichmäßigem Verschleiß und einem allmählichen Verlust der Luftdichtheit führt. Bei evolutionDrive Plus+ bewegt sich der Flügel **streng parallel zum Blendrahmen** über die gesamte Bewegung und presst die Dichtung gleichmäßig auf der gesamten Kontaktfläche.
+Klassische Schiebesysteme drücken die Dichtung **schräg oder durch Anheben** zusammen, was zu ungleichmäßigem Verschleiß und einem allmählichen Verlust der Dichtheit führt. Bei evolutionDrive Plus+ bewegt sich der Flügel parallel zum Rahmen und presst die Dichtung erst beim Schließen gleichmäßig auf der ganzen Kontaktfläche an.
 
-Direkte Vorteile für den Hausbesitzer:
-- **Luftdurchlässigkeitsklasse 4** — das Maximum nach EN 12207 für PVC-Gleitsysteme
-- **Null Zugluft** — perfekte Abdichtung im Winter wie im Sommer
-- **Verlängerte Dichtungslebensdauer** — gleichmäßiger, nicht lokaler Verschleiß
-- **Geräuscharmer Betrieb** — Lärmminderung bis zu 75 %
-- **Windwiderstand B5** — ideal für Häuser in exponierten Lagen
+Direkte Vorteile für den Eigentümer:
+- **Bessere Dichtheit gegen Wind und Schlagregen** als klassische Schiebetüren, wie Salamander zeigt
+- **Keine Zugluft** bei geschlossener Tür, im Winter wie im Sommer
+- **Langlebigere Dichtung** — gleichmäßiger statt punktueller Verschleiß
+- **Leichtes, leises Schieben**, auch bei schweren Flügeln
+- **Uw ab 0,71 W/m²K** mit Dreifachverglasung — geeignet für nZEB-Häuser
 
 ---
 
-### evolutionDrive Plus+ vs. Aluminium-HST — Direktvergleich
+### evolutionDrive Plus+ vs. Hebe-Schiebe-Tür aus Aluminium — der direkte Vergleich
 
-| Kriterium | evolutionDrive Plus+ PVC | Aluminium-HST |
+Die häufigste Frage unserer Kunden in Bukarest und Ilfov, die eine Villa renovieren oder bauen: **PVC-Schiebetür oder Hebe-Schiebe-Tür aus Aluminium für die Terrasse?** Wir haben evolutionDrive Plus+ mit der [Alumil S 700 SUPREME](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem) verglichen, bei derselben Öffnung von 2,4 × 2,2 m.
+
+| Kriterium | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
-| **Wärmedämmung Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
-| **Kondensatrisiko am Profil** | Null — PVC leitet keine Kälte | Möglich ohne aufwendige thermische Trennung |
-| **Preis mit Montage** | 1.800–3.000 € (2 Flügel) | 3.500–6.000 € (2 Flügel) |
-| **Max. Flügelbreite** | 4,0 m | 6,0–8,0 m |
-| **Optik** | Modern, PVC weiß oder Folie | Architektonisch, schlankes Metallprofil |
+| **Wärmedämmung Uw** | ab 0,71 W/m²K (Dreifach) | ab 1,0 W/m²K |
+| **Kondensatrisiko am Profil** | Sehr gering — PVC leitet Wärme schlecht | Gering — thermische Trennung Kooltherm |
+| **Kosten mit Montage (Öffnung 2,4 × 2,2 m)** | 1.900–2.800 EUR | 2.900–4.000 EUR |
+| **Max. Flügelgewicht** | 200 kg | 500 kg |
+| **Abmessungen** | Rahmen bis 4,0 × 2,6 m | Große Flügel für Panoramaöffnungen |
+| **Optik** | Modern, weißes PVC oder Dekorfolie | Architektonisch, schlankes Metallprofil |
 | **Wartung** | Minimal — PVC oxidiert nicht | Minimal — Aluminium oxidiert nicht |
+| **nZEB-Tauglichkeit** | ✅ Uw unter 1,0 | ✅ Uw ab 1,0 |
+
+*Richtpreise ohne MwSt.*
+
+**Fazit für die Praxis:** Für Öffnungen bis 4,0 m, tägliche Nutzung und ein auf Effizienz ausgerichtetes Budget ist evolutionDrive Plus+ die vernünftigere Wahl. Für Panoramaöffnungen, sehr schwere Flügel oder ein Design mit schlanken Metallprofilen ist die Hebe-Schiebe-Tür aus Aluminium die Lösung.
 
 ---
 
-## Alumil Smartia M19800BT — Thermisch gedämmte Falttür für vollständige Öffnungen
+### Ausführungen und empfohlene Einsätze
 
-### Was ist das Alumil M19800-System?
+**evolutionDrive Plus+ mit 2 Flügeln (1 fest + 1 beweglich)**
+Geeignet für Öffnungen von 1,6–3,0 m. Diese Ausführung montieren wir am häufigsten in Bukarester Wohnungen und in Villen in Ilfov, als Hauptzugang zur Terrasse oder zum Balkon. Budget: **1.900–2.800 EUR mit Montage** für eine Öffnung von 2,4 × 2,2 m (Standardfarbe, Low-E-Glas).
 
-**Smartia M19800** ist das **Aluminium-Falttor-System (Harmonikatür / Bi-Fold)** von Alumil Group (Kilkis, Griechenland) — einem der größten Hersteller von Aluminium-Architektursystemen in Südosteuropa. Die **BT-Variante (Thermal Break / thermische Trennung)** wurde speziell für Premium-Residenzen, Villen, Terrassenrestaurants, Hotels und Gewerberäume entwickelt, die eine **vollständige Wandöffnung** nach außen benötigen.
+**Breitere Öffnungen bis 4,0 m**
+Für Öffnungen von 3,0–4,0 m wählen wir das Flügelschema danach, wie Sie die Tür öffnen möchten. Wir haben sie in Pipera, Berceni, Voluntari und Otopeni montiert. Budget: **3.000–4.200 EUR mit Montage** für eine Öffnung von 3,6 × 2,2 m.
 
-Das Harmonikaprinzip: Die Flügel hängen an einer Deckenschiene und **falten sich zu einem kompakten Paket an einer Seite** — sie geben 100 % der Öffnung frei, ohne Mittelpfosten, ohne visuelle Hindernisse, ohne Bodenabdruck.
+**Über 4,0 m**
+Hier stößt evolutionDrive Plus+ an seine Grenze. Für größere Öffnungen empfehlen wir eine Hebe-Schiebe-Tür aus Aluminium oder, wenn Sie die ganze Wand öffnen möchten, ein Faltsystem — wie im Projekt unten.
 
 ---
 
-### Technische Daten M19800BT
+## Alumil M 19800 SMARTIA — Falttüren mit thermischer Trennung für vollständige Öffnungen
+
+### Was ist das System Alumil M 19800?
+
+**SMARTIA M 19800** ist das **Aluminium-Falttürsystem (Harmonika / Bi-fold)** von Alumil (Kilkis, Griechenland), einem der größten Hersteller von Aluminiumsystemen in Südosteuropa. Es ist das günstigste Faltsystem mit thermischer Trennung im Alumil-Programm und für Terrassen, Balkone und Wohnräume gedacht, in denen das **Öffnen der ganzen Wand** nach außen zählt.
+
+Das Faltprinzip: Die Flügel hängen an einer oberen Laufschiene und **falten sich an einem Ende zu einem kompakten Paket**, sodass die ganze Öffnung frei wird — ohne Mittelpfosten und ohne Sichthindernisse.
+
+---
+
+### Technische Daten M 19800 SMARTIA
 
 | Parameter | Wert |
 |---|---|
-| Material | **Stranggepress. Aluminium 6063-T5 mit thermischer Trennung aus Polyamid** |
-| Profiltiefe | **50 mm** |
-| Max. Flügelhöhe | **3,3 m** |
-| Max. Flügelbreite | **0,9–1,2 m** |
-| Max. Flügelgewicht | **125 kg** |
-| Anzahl Flügel | **2–8 (gerade und ungerade Konfigurationen)** |
-| Öffnungsrichtung | **Innen oder außen** |
-| Max. Glasdicke | **32 mm** |
-| Uf Wärmedurchgangskoeffizient Rahmen | **1,0–1,8 W/m²K** |
-| Dichtungen | **4 EPDM-Dichtungen** |
-| Einbruchhemmung | **RC 2–3** |
-| Schwelle | **Bodenbündig eingelassen (optional)** |
-| Farben | **Alle RAL-Farben + Holzdekor** |
-| Max. Gesamtöffnungsbreite | **6,0–8,0 m** |
+| Systemart | **Faltsystem, oben hängend an der Laufschiene** |
+| Thermische Trennung | **18 mm, aus Polyamid** |
+| Bautiefe | **50 mm** |
+| Flügel pro System | **2–6** |
+| Max. Gesamtbreite | **5.000 mm** |
+| Max. Flügelgröße | **1,0 m breit × 2,5 m hoch** |
+| Max. Flügelgewicht | **80 kg** |
+| Verglasung | **24–32 mm** |
+| Uf-Wert | **ab 1,9 W/m²K** |
+| Uw-Wert | **ab 1,7 W/m²K** |
+| Schalldämmung | **bis 36 dB** |
+| Einbruchhemmung | **PAS24-zertifiziert** |
+| Dichtungen | **2 EPDM-Dichtungen** |
+| Farben | **RAL-Farben und Holzdekore** |
 
 ---
 
-## Warum evolutionDrive Plus+ + M19800BT die Premium-Kombination 2026 ist
+### So funktioniert es — oben hängend, nicht auf dem Boden rollend
 
-| | evolutionDrive Plus+ PVC | M19800BT Aluminium |
+M 19800 ist ein **oben hängendes** System: Jeder Flügel hängt mit Rollen an der oberen Schiene, die bis zu 80 kg pro Flügel tragen. Der Boden bleibt frei — keine Schienen, auf die man tritt, und keine Gefahr, dass Schmutz die Tür blockiert.
+
+Die Flügel sind mit Scharnieren verbunden und falten sich nacheinander zu einem kompakten Paket. Um die Wand zu öffnen, ziehen Sie am ersten Flügel, und die anderen folgen ihm in einer Kette.
+
+---
+
+### Die thermische Trennung — warum sie bei einer Falttür zählt
+
+Aluminium leitet Wärme mehrere Hundert Mal besser als Polyamid (etwa 160 W/mK gegenüber etwa 0,25 W/mK). Ein Profil ohne thermische Trennung leitet die Kälte von außen direkt nach innen, und unter 0 °C bildet sich sichtbares Kondensat am Profil. Die 18-mm-Polyamidtrennung von M 19800 unterbricht diesen Weg.
+
+Das Ergebnis in der Praxis: M 19800 hat einen Uw-Wert ab 1,7 W/m²K, genug für eine ganzjährig genutzte Terrasse. Für ein nZEB-Haus ist es jedoch nicht das richtige System. Dort empfehlen wir die [Alumil SF 85 SUPREME](/de/produkte-alu/alumil-sf85-supreme-faltsystem) mit Uw ab 1,0 W/m²K oder eine Schiebetür wie evolutionDrive Plus+.
+
+---
+
+### M 19800 vs. andere Faltsysteme — was man Ihnen nicht sagt
+
+**M 19800 SMARTIA vs. SF 85 SUPREME:** Beide sind PAS24-zertifizierte Faltsysteme von Alumil. SF 85 ist die Premiumvariante: 85 mm Bautiefe, 40 mm Kooltherm-Trennung, 2–8 Flügel auf bis zu 7.000 mm, Verglasung bis 58 mm und Uw ab 1,0 W/m²K. M 19800 kostet weniger und deckt die meisten Terrassen bis 5,0 m ab.
+
+**M 19800 vs. Falttüren ohne thermische Trennung:** Für ganzjährig genutzte Villen in Bukarest und Ilfov ist die Variante ohne thermische Trennung nicht zu empfehlen — im Winter bildet sich Kondensat am Profil.
+
+**Die maximale Breite zählt:** M 19800 deckt höchstens 5,0 m ab, mit Flügeln von höchstens 1,0 m. Für größere Öffnungen oder Ecken, die sich zu zwei Fassaden öffnen, ist SF 85 SUPREME das richtige System.
+
+---
+
+## Warum die Kombination aus evolutionDrive Plus+ und M 19800 2026 eine gute Wahl ist
+
+Diese Kombination wünschen sich Kunden von Neofort BIZ mit Villen in Bukarest und Ilfov häufig, aus einem einfachen Grund: Jedes System tut genau das, was es am besten kann.
+
+| | evolutionDrive Plus+ PVC | M 19800 SMARTIA Aluminium |
 |---|---|---|
-| **Funktion im Projekt** | Täglicher Wohnraum-Terrassen-Zugang | Vollöffnung für Veranstaltungen und Sommer |
-| **Wärmedämmung** | ⭐⭐⭐⭐⭐ Uw 0,71–1,0 | ⭐⭐⭐ Uw 1,2–1,8 |
-| **Öffnungsgrad** | Teilweise — 50 % | Vollständig — 100 % |
-| **Kosten** | ✅ Günstig | 💰 Premium |
-| **Smart-Home-fähig** | ✅ Somfy, Nice, KNX | ✅ Motorisierung möglich |
+| **Rolle im Projekt** | Täglicher Zugang Wohnzimmer–Terrasse | Vollständige Öffnung für Feste und Sommer |
+| **Wärmedämmung** | Uw ab 0,71 W/m²K | Uw ab 1,7 W/m²K |
+| **Öffnung der Wand** | Teilweise — etwa 50 % | Vollständig — 100 % |
+| **Relative Kosten** | Günstiger | Teurer pro m² |
+| **nZEB-tauglich** | ✅ Ja | Nein — für nZEB SF 85 SUPREME |
+| **Max. Verglasung** | 49 mm (dreifach) | 32 mm (zweifach) |
 
 ---
 
-## Orientierungspreise 2026
+## Reales Projekt von Neofort BIZ — Villa in Voluntari, Ilfov
 
-| System | Konfiguration | Preis mit Montage |
+### Der Auftrag des Kunden
+
+Die Eigentümer einer Villa mit 320 m² in Voluntari wünschten einen bequemen täglichen Zugang vom Wohnzimmer zur 40 m² großen Terrasse und zusätzlich die Möglichkeit, die ganze 4,8 m breite Wand für Feste und warme Tage vollständig zu öffnen. Budget: 9.000–12.000 EUR mit Montage.
+
+### Die vorgeschlagene Lösung und ihre Begründung
+
+**evolutionDrive Plus+ mit 2 Flügeln** — Öffnung 2,4 m × 2,2 m, Farbe Anthrazit RAL 7016, Dreifachverglasung 4/14/4/14/4 Low-E Saint-Gobain Planitherm ONE:
+- Uw = 0,82 W/m²K — nZEB-tauglich
+- Dekorfolie auf beiden Seiten — dieselbe Farbe wie das Aluminium, für ein einheitliches Bild
+- Integrierter Plissee-Insektenschutz — ausdrücklicher Wunsch des Kunden
+
+**Falttür Alumil M 19800 SMARTIA** — Öffnung 4,8 m × 2,4 m, Farbe Anthrazit RAL 7016, Zweifachverglasung 4/16/4 Low-E mit Argon:
+- Vollständige Öffnung zur 40 m² großen Terrasse
+- In den Boden eingelassene Schwelle — durchgehender Blick zwischen innen und außen
+- Mehrfachverriegelung
+
+### Ausführung der Montage
+
+Gesamtdauer: **3 Montagetage** für beide Systeme.
+
+Phase 1 — evolutionDrive Plus+: Befestigung des Rahmens mit Injektionsdübeln, Abdichtung mit vorkomprimiertem Band außen und Dampfbremsfolie innen (RAL-Montage), Einbau der Flügel, Parallel-Einstellung, Prüfung der Dichtheit.
+
+Phase 2 — M 19800: Einmessen und Verankern der oberen Schiene in der Stahlbetondecke (die kritische Phase — Toleranz ±1 mm), Montage der seitlichen Rahmen und der eingelassenen Schwelle, Einhängen der Flügel einzeln, Einstellen von Rollen und Scharnieren, Mehrfachverriegelung, Prüfung von Funktion und Dichtheit.
+
+Bei der Abnahme: Garantiezertifikat für Produkt und Montage, Protokoll mit den geprüften Werten, Bedienungs- und Pflegeanleitung.
+
+---
+
+## Richtpreise 2026 — Bukarest und Ilfov
+
+| System | Ausführung | Preis mit Montage |
 |---|---|---|
-| evolutionDrive Plus+ | 2 Flügel, 2,4 m × 2,2 m | **1.900–2.800 €** |
-| evolutionDrive Plus+ | 3 Flügel, 3,6 m × 2,2 m | **3.000–4.200 €** |
-| M19800BT | 4 Flügel, 4,8 m × 2,4 m | **4.500–6.500 €** |
-| M19800BT | 6 Flügel, 6,0 m × 2,4 m | **6.500–9.000 €** |
-| **Kombinationspaket** | evolutionDrive Plus+ 2F + M19800BT 4F | **6.500–9.000 €** |
+| evolutionDrive Plus+ | 2 Flügel, 2,4 m × 2,2 m, weiß/anthrazit | **1.900–2.800 EUR** |
+| evolutionDrive Plus+ | Öffnung 3,6 m × 2,2 m | **3.000–4.200 EUR** |
+| M 19800 SMARTIA | Öffnung 4,8 m × 2,4 m | **3.200–4.600 EUR** |
+| M 19800 SMARTIA | Öffnung 5,0 m × 2,4 m (maximale Breite) | **3.400–4.800 EUR** |
+| **Kombipaket** | evolutionDrive Plus+ 2,4 m + M 19800 4,8 m | **5.100–7.400 EUR** |
 
-Mehr über unsere [Salamander PVC-Fenster](/de/kunststofffenster-pvc) und [Alumil-Aluminiumfenster](/de/aluminiumfenster).
-
-**Angebot anfordern:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18 Uhr**
+*Die Preise verstehen sich ohne MwSt. (21 %) und beinhalten Fertigung, Transport und Montage in Bukarest und Ilfov. Der Endpreis hängt von Farbe, Verglasung, Optionen (Plissee, Sonderfarben) und den Gegebenheiten der Baustelle ab.*
 
 ---
 
-Neofort BIZ liefert Salamander-Systeme für Häuser, Wohnungen und Exportprojekte, montiert von eigenen Teams. Entdecken Sie [das PVC-Fenster-Sortiment](/de/kunststofffenster-pvc) oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Salamander-Systeme-Ratgeber](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [Alumil M 19800 SMARTIA Falttüren](/de/produkte-alu/alumil-m19800-smartia-faltsystem) und [Alumil SF 85 SUPREME Falttüren](/de/produkte-alu/alumil-sf85-supreme-faltsystem).`,
+## Häufig gestellte Fragen — evolutionDrive Plus+ und M 19800
 
-      fr: `## Porte coulissante Salamander evolutionDrive Plus+ — Le système PVC le plus avancé en 2026
+### Kann ich evolutionDrive Plus+ in Sonderfarben bestellen?
+Ja — aus dem Salamander-Dekorfolienprogramm, einschließlich Holzdekoren, Anthrazit und Grautönen. Die beiden Seiten können unterschiedliche Farben haben.
 
-### Qu'est-ce que la Salamander evolutionDrive Plus+ ?
+### Wie breit kann die Falttür M 19800 sein?
+Bis zu 5,0 m, mit 2–6 Flügeln von jeweils höchstens 1,0 m Breite und 2,5 m Höhe. Für größere Öffnungen empfehlen wir die Alumil SF 85 SUPREME, die bis 7,0 m reicht.
 
-Salamander **evolutionDrive Plus+** est le **système coulissant PVC à translation parallèle** lancé par Salamander Industrie-Produkte GmbH (Bavière, Allemagne) — fabricant de profilés avec plus de 40 ans d'expérience dans la menuiserie européenne. Lancé en France et en Europe en 2023, evolutionDrive Plus+ a redéfini le standard des portes-fenêtres coulissantes PVC pour terrasse : une étanchéité brevetée de niveau HST (levant-coulissant) à un coût nettement plus accessible.
+### Wie lange dauern Fertigung und Montage?
+Fertigung: 3–4 Wochen ab Auftragsunterzeichnung. Montage: 1 Tag für evolutionDrive Plus+ und 1–2 Tage für M 19800.
 
-Contrairement aux systèmes coulissants classiques (PSK oscillo-coulissant ou HST levant-coulissant), evolutionDrive Plus+ fonctionne par **translation horizontale strictement parallèle** — le vantail ne se soulève pas avant de glisser, mais se déplace parallèlement au dormant tout au long du mouvement. Cela garantit une compression uniforme du joint et une étanchéité parfaite à chaque utilisation.
+### Was kostet das Paket aus evolutionDrive Plus+ und M 19800?
+Für eine Öffnung von 2,4 m bei der Schiebetür und eine von 4,8 m bei der Falttür kostet das Paket 5.100–7.400 EUR mit Montage, ohne MwSt. Den genauen Preis erhalten Sie im Angebot innerhalb von 48 Stunden.
+
+### Bietet Neofort BIZ eine Garantie?
+Ja — Garantie auf Produkt und Montage, bestätigt durch ein Zertifikat bei der Abnahme.
+
+Mehr über die [Salamander-PVC-Systeme](/de/kunststofffenster-pvc) und die [Alumil-Aluminiumsysteme](/de/aluminiumfenster) bei Neofort BIZ.
+
+- Den vollständigen Überblick gibt der [Leitfaden zur Wahl zwischen den Salamander-Systemen](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden).
+- Zur Schiebetür und zum Plissee: [die Schiebetür evolutionDrive Plus+ mit Plissee-Insektenschutz](/de/blog/salamander-evolutiondrive-plus-schiebetuer-plissee).
+
+**Fordern Sie ein Angebot für Ihr Projekt an:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Mo–Fr 10–18 Uhr**
+
+---
+
+Neofort BIZ montiert Salamander-Schiebesysteme und Alumil-Faltsysteme an derselben Fassade, in Bukarest und Ilfov. [Senden Sie uns Ihre Öffnungen](/de/kontakt) und erhalten Sie innerhalb von 48 Stunden ein Angebot. Sehen Sie sich das [PVC-Fensterprogramm](/de/kunststofffenster-pvc) an, das wir anbieten. Nützliche Seiten: [das Faltsystem Alumil M 19800 SMARTIA](/de/produkte-alu/alumil-m19800-smartia-faltsystem) und [das Faltsystem Alumil SF 85 SUPREME](/de/produkte-alu/alumil-sf85-supreme-faltsystem).`,
+
+      fr: `## La porte coulissante Salamander evolutionDrive Plus+ — le système coulissant PVC à étanchéité parallèle
+
+### Qu’est-ce que Salamander evolutionDrive Plus+ ?
+
+Salamander **evolutionDrive Plus+** est le **système coulissant PVC à étanchéité parallèle** de Salamander Window & Door Systems, le fabricant allemand de profilés basé à Türkheim (Bavière). Le système apporte à une porte coulissante en PVC une étanchéité proche de celle d’une porte levante-coulissante (HST), pour un coût moindre.
+
+Contrairement aux coulissants classiques et aux portes oscillo-coulissantes (PSK), sur evolutionDrive Plus+ le vantail **se déplace parallèlement au dormant** et, à la fermeture, il est tiré contre le dormant et presse les joints sur tout le périmètre. Le joint n’est pas frotté à chaque ouverture : il s’use de façon uniforme et la porte reste étanche dans le temps.
 
 ---
 
@@ -30862,333 +31999,648 @@ Contrairement aux systèmes coulissants classiques (PSK oscillo-coulissant ou HS
 
 | Paramètre | Valeur |
 |---|---|
-| Profilé de base | **Salamander BluEvolution 92** (profondeur 76 mm) |
-| Nombre de chambres | **7 chambres** |
-| Uw système (triple vitrage) | **0,71–1,0 W/m²K** |
-| Uf cadre | **0,95 W/m²K** |
-| Isolation acoustique | **42–44 dB** |
-| Résistance au vent | **Classe B5** (maximum pour coulissant PVC) |
-| Étanchéité à l'eau | **Classe 8A** (EN 12208) |
-| Perméabilité à l'air | **Classe 4** (EN 12207) |
-| Résistance à l'effraction | **RC 2** |
-| Poids max. par vantail | **400 kg** |
-| Dimensions max. vantail | **1 950 mm × 2 250 mm** |
-| Dimensions max. cadre | **4 000 mm × 2 600 mm** |
-| Configurations | **2, 3 ou 4 vantaux** |
-| Compatibilité domotique | **Oui — Somfy, Nice, KNX** |
+| Profondeur de construction | **152 mm** (avec rail) |
+| Profilé | **5 chambres** |
+| Système d’étanchéité | **Étanchéité dans le dormant — parallèle** |
+| Coefficient Uw | **à partir de 0,71 W/m²K** en triple vitrage |
+| Isolation acoustique | **jusqu’à 44 dB** |
+| Anti-effraction | **jusqu’à RC 2** |
+| Poids maximal du vantail | **jusqu’à 200 kg** |
+| Dimensions maximales | **jusqu’à 4,0 × 2,6 m** |
+| Vitrage accepté | **jusqu’à 49 mm** (triple vitrage compris) |
+
+*Les valeurs dépendent de la configuration ; nous les confirmons pour votre porte dans le devis.*
 
 ---
 
-### Le joint à translation parallèle breveté — pourquoi c'est décisif
+### L’étanchéité parallèle — pourquoi elle compte
 
-Les systèmes coulissants conventionnels compriment le joint **en biais ou par relevage**, provoquant une usure inégale et une perte progressive d'étanchéité. Avec evolutionDrive Plus+, le vantail **se déplace strictement parallèle au dormant** sur toute la course, pressant le joint uniformément sur toute la surface de contact.
+Les coulissants classiques compriment le joint **en biais ou par levage**, ce qui provoque une usure inégale et une perte progressive d’étanchéité. Sur evolutionDrive Plus+, le vantail se déplace parallèlement au dormant et ne presse le joint, de façon uniforme sur toute la surface de contact, qu’à la fermeture.
 
-Avantages directs pour le propriétaire :
-- **Classe d'air 4** — le maximum selon EN 12207 pour les coulissants PVC
-- **Zéro courant d'air** — étanchéité parfaite été comme hiver
-- **Durée de vie du joint prolongée** — usure uniforme, non localisée
-- **Fonctionnement silencieux** — réduction du bruit jusqu'à 75 %
-- **Résistance au vent B5** — idéal pour les maisons exposées
+Les bénéfices directs pour le propriétaire :
+- **Meilleure étanchéité au vent et à la pluie battante** que les coulissants classiques, comme le montre Salamander
+- **Aucun courant d’air** porte fermée, en hiver comme en été
+- **Un joint qui dure plus longtemps** — usure uniforme et non localisée
+- **Un coulissement léger et silencieux**, même avec des vantaux lourds
+- **Uw à partir de 0,71 W/m²K** en triple vitrage — adapté aux maisons nZEB
 
 ---
 
-### evolutionDrive Plus+ vs baie coulissante aluminium — comparatif direct
+### evolutionDrive Plus+ ou levant-coulissant en aluminium — la comparaison directe
 
-| Critère | evolutionDrive Plus+ PVC | Baie coulissante aluminium |
+La question que nous posent le plus souvent nos clients de Bucarest et de l’Ilfov qui rénovent ou construisent une villa : **un coulissant PVC ou un levant-coulissant en aluminium pour la terrasse ?** Nous avons comparé evolutionDrive Plus+ au [Alumil S 700 SUPREME](/fr/produits-alu/systeme-coulissant-alumil-s700-supreme), sur la même ouverture de 2,4 × 2,2 m.
+
+| Critère | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
-| **Isolation thermique Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
-| **Risque de condensation** | Nul — le PVC ne conduit pas le froid | Possible sans rupture de pont thermique |
-| **Coût pose comprise** | 1 800–3 000 € (2 vantaux) | 3 500–6 000 € (2 vantaux) |
-| **Largeur maximale** | 4,0 m | 6,0–8,0 m |
-| **Esthétique** | Moderne, PVC blanc ou folié | Architectural, profil métallique fin |
+| **Isolation thermique Uw** | à partir de 0,71 W/m²K (triple) | à partir de 1,0 W/m²K |
+| **Risque de condensation sur le profilé** | Très faible — le PVC conduit mal la chaleur | Faible — rupture thermique Kooltherm |
+| **Coût pose comprise (ouverture 2,4 × 2,2 m)** | 1 900–2 800 EUR | 2 900–4 000 EUR |
+| **Poids maximal du vantail** | 200 kg | 500 kg |
+| **Dimensions** | Dormant jusqu’à 4,0 × 2,6 m | Grands vantaux, pour baies panoramiques |
+| **Aspect** | Moderne, PVC blanc ou film décor | Architectural, profilé métallique fin |
+| **Entretien** | Minimal — le PVC ne s’oxyde pas | Minimal — l’aluminium ne s’oxyde pas |
+| **Compatibilité nZEB** | ✅ Uw inférieur à 1,0 | ✅ Uw à partir de 1,0 |
+
+*Prix indicatifs hors TVA.*
+
+**Conclusion pratique :** pour des ouvertures jusqu’à 4,0 m, un usage quotidien et un budget tourné vers l’efficacité, evolutionDrive Plus+ est le choix le plus raisonnable. Pour les baies panoramiques, les vantaux très lourds ou un design aux profilés métalliques fins, le levant-coulissant en aluminium est la solution.
 
 ---
 
-## Alumil Smartia M19800BT — Porte accordéon aluminium à rupture de pont thermique
+### Configurations et usages recommandés
 
-### Qu'est-ce que le système Alumil M19800 ?
+**evolutionDrive Plus+ à 2 vantaux (1 fixe + 1 mobile)**
+Adapté aux ouvertures de 1,6 à 3,0 m. C’est la configuration que nous posons le plus souvent dans les appartements de Bucarest et les villas de l’Ilfov, comme accès principal à la terrasse ou au balcon. Budget : **1 900–2 800 EUR pose comprise** pour une ouverture de 2,4 × 2,2 m (couleur standard, vitrage Low-E).
 
-**Smartia M19800** est le **système de portes accordéon en aluminium (bi-fold / pliante)** produit par Alumil Group (Kilkis, Grèce) — l'un des plus grands fabricants de systèmes architecturaux en aluminium d'Europe du Sud-Est. La variante **BT (Rupture de Pont Thermique)** est conçue pour les résidences premium, villas, restaurants avec terrasse, hôtels et locaux commerciaux nécessitant une **ouverture totale du mur** vers l'extérieur.
+**Ouvertures plus larges, jusqu’à 4,0 m**
+Pour des ouvertures de 3,0 à 4,0 m, nous choisissons le schéma de vantaux selon la façon dont vous voulez ouvrir la porte. Nous en avons posé à Pipera, Berceni, Voluntari et Otopeni. Budget : **3 000–4 200 EUR pose comprise** pour une ouverture de 3,6 × 2,2 m.
 
-Le principe accordéon : les vantaux sont suspendus sur un rail de tête et **se replient en un paquet compact à un bout** — libérant 100 % de la baie, sans poteau central, sans obstacle visuel, sans rail au sol.
+**Au-delà de 4,0 m**
+C’est là qu’evolutionDrive Plus+ atteint sa limite. Pour des ouvertures plus grandes, nous recommandons un levant-coulissant en aluminium ou, si vous voulez ouvrir tout le mur, un système accordéon — comme dans le projet ci-dessous.
 
 ---
 
-### Caractéristiques techniques M19800BT
+## Alumil M 19800 SMARTIA — portes accordéon à rupture thermique pour ouvertures totales
+
+### Qu’est-ce que le système Alumil M 19800 ?
+
+**SMARTIA M 19800** est le **système de portes accordéon (pliantes / bi-fold) en aluminium** fabriqué par Alumil (Kilkis, Grèce), l’un des plus grands fabricants de systèmes aluminium d’Europe du Sud-Est. C’est le système accordéon à rupture thermique le plus abordable de la gamme Alumil, pensé pour les terrasses, les balcons et les séjours où **l’ouverture totale du mur** vers l’extérieur compte.
+
+Le principe de l’accordéon : les vantaux sont suspendus à un rail supérieur et **se replient en un paquet compact à une extrémité**, libérant toute la surface de l’ouverture — sans poteau central ni obstacle visuel.
+
+---
+
+### Caractéristiques techniques M 19800 SMARTIA
 
 | Paramètre | Valeur |
 |---|---|
-| Matériau | **Aluminium extrudé 6063-T5 avec rupture de pont thermique en polyamide** |
-| Profondeur du profilé | **50 mm** |
-| Hauteur max. par vantail | **3,3 m** |
-| Poids max. par vantail | **125 kg** |
-| Nombre de vantaux | **2 à 8 (configurations paires et impaires)** |
-| Sens d'ouverture | **Vers l'intérieur ou l'extérieur** |
-| Uf coefficient thermique cadre | **1,0–1,8 W/m²K** (avec rupture thermique) |
-| Résistance à l'effraction | **RC 2–3** |
-| Seuil | **Encastré dans le sol (en option)** |
-| Couleurs | **Toutes les couleurs RAL + décors bois** |
-| Largeur totale max. baie | **6,0–8,0 m** |
+| Type de système | **Accordéon, suspendu au rail supérieur** |
+| Rupture thermique | **18 mm, en polyamide** |
+| Profondeur de construction | **50 mm** |
+| Vantaux par système | **2 à 6** |
+| Largeur totale maximale | **5 000 mm** |
+| Dimensions maximales du vantail | **1,0 m de large × 2,5 m de haut** |
+| Poids maximal du vantail | **80 kg** |
+| Vitrage accepté | **24 à 32 mm** |
+| Coefficient Uf | **à partir de 1,9 W/m²K** |
+| Coefficient Uw | **à partir de 1,7 W/m²K** |
+| Isolation acoustique | **jusqu’à 36 dB** |
+| Anti-effraction | **certifié PAS24** |
+| Joints | **2 joints EPDM** |
+| Couleurs | **Couleurs RAL et finitions effet bois** |
 
 ---
 
-## Pourquoi evolutionDrive Plus+ + M19800BT est la combinaison premium en 2026
+### Le fonctionnement — suspendu, et non roulant au sol
 
-| | evolutionDrive Plus+ PVC | M19800BT Aluminium |
+Le M 19800 est un système **suspendu** : chaque vantail est accroché au rail supérieur par des galets qui portent jusqu’à 80 kg par vantail. Le sol reste dégagé — aucun rail sur lequel marcher et aucun risque de blocage dû à la saleté.
+
+Les vantaux sont reliés par des charnières et se replient l’un après l’autre en un paquet compact. Pour ouvrir le mur, vous tirez le premier vantail et les autres le suivent en chaîne.
+
+---
+
+### La rupture thermique — pourquoi elle compte sur une porte accordéon
+
+L’aluminium conduit la chaleur plusieurs centaines de fois mieux que le polyamide (environ 160 W/mK contre environ 0,25 W/mK). Un profilé sans rupture thermique transmet le froid extérieur directement à l’intérieur et, sous 0 °C, de la condensation visible apparaît sur le profilé. La rupture en polyamide de 18 mm du M 19800 coupe ce chemin.
+
+Le résultat pratique : le M 19800 a un Uw à partir de 1,7 W/m²K, suffisant pour une terrasse utilisée toute l’année. Ce n’est toutefois pas le système d’une maison nZEB. Là, nous recommandons le [Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme), avec un Uw à partir de 1,0 W/m²K, ou un coulissant comme evolutionDrive Plus+.
+
+---
+
+### M 19800 face aux autres systèmes accordéon — ce qu’on ne vous dit pas
+
+**M 19800 SMARTIA ou SF 85 SUPREME :** les deux sont des systèmes accordéon Alumil certifiés PAS24. Le SF 85 est la version haut de gamme : 85 mm de profondeur, rupture Kooltherm de 40 mm, 2 à 8 vantaux sur jusqu’à 7 000 mm, vitrage jusqu’à 58 mm et Uw à partir de 1,0 W/m²K. Le M 19800 coûte moins cher et couvre la plupart des terrasses jusqu’à 5,0 m.
+
+**M 19800 ou portes accordéon sans rupture thermique :** pour des villas de Bucarest et de l’Ilfov utilisées toute l’année, la version sans rupture thermique n’est pas recommandée — en hiver, elle fait de la condensation sur le profilé.
+
+**La largeur maximale compte :** le M 19800 couvre au plus 5,0 m, avec des vantaux d’au plus 1,0 m. Pour des ouvertures plus grandes ou des angles qui s’ouvrent sur deux façades, le bon système est le SF 85 SUPREME.
+
+---
+
+## Pourquoi associer evolutionDrive Plus+ et M 19800 est un bon choix en 2026
+
+C’est une association que demandent souvent les clients de Neofort BIZ qui ont une villa à Bucarest ou dans l’Ilfov, pour une raison simple : chaque système fait exactement ce qu’il fait de mieux.
+
+| | evolutionDrive Plus+ PVC | M 19800 SMARTIA aluminium |
 |---|---|---|
-| **Rôle dans le projet** | Accès quotidien séjour-terrasse | Ouverture totale pour réceptions et été |
-| **Isolation thermique** | ⭐⭐⭐⭐⭐ Uw 0,71–1,0 | ⭐⭐⭐ Uw 1,2–1,8 |
-| **Ouverture de la baie** | Partielle — 50 % | Totale — 100 % |
-| **Coût relatif** | ✅ Accessible | 💰 Premium |
-| **Domotique** | ✅ Somfy, Nice, KNX | ✅ Motorisation disponible |
+| **Rôle dans le projet** | Accès quotidien séjour–terrasse | Ouverture totale pour les fêtes et l’été |
+| **Isolation thermique** | Uw à partir de 0,71 W/m²K | Uw à partir de 1,7 W/m²K |
+| **Ouverture de la baie** | Partielle — environ 50 % | Totale — 100 % |
+| **Coût relatif** | Plus abordable | Plus cher au m² |
+| **Compatible nZEB** | ✅ Oui | Non — pour le nZEB, SF 85 SUPREME |
+| **Vitrage maximal** | 49 mm (triple) | 32 mm (double) |
 
 ---
 
-## Tarifs indicatifs 2026
+## Un projet réel de Neofort BIZ — villa résidentielle à Voluntari, Ilfov
+
+### La demande du client
+
+Les propriétaires d’une villa de 320 m² à Voluntari nous ont demandé un accès quotidien confortable du séjour vers la terrasse de 40 m², ainsi que la possibilité d’ouvrir entièrement le mur de 4,8 m pour les fêtes et les beaux jours. Budget prévu : 9 000 à 12 000 EUR pose comprise.
+
+### La solution proposée et ses raisons
+
+**evolutionDrive Plus+ à 2 vantaux** — ouverture de 2,4 m × 2,2 m, couleur Anthracite RAL 7016, triple vitrage 4/14/4/14/4 Low-E Saint-Gobain Planitherm ONE :
+- Uw = 0,82 W/m²K — éligible nZEB
+- Film décor sur les deux faces — la même couleur que l’aluminium, pour la continuité
+- Moustiquaire plissée intégrée — demandée expressément par le client
+
+**Porte accordéon Alumil M 19800 SMARTIA** — ouverture de 4,8 m × 2,4 m, couleur Anthracite RAL 7016, double vitrage 4/16/4 Low-E à l’argon :
+- Ouverture totale sur la terrasse de 40 m²
+- Seuil encastré dans le sol — continuité visuelle entre intérieur et extérieur
+- Fermeture multipoint
+
+### La réalisation de la pose
+
+Durée totale : **3 jours de pose** pour les deux systèmes.
+
+Étape 1 — evolutionDrive Plus+ : fixation du dormant par chevilles chimiques, étanchéité avec bande précomprimée à l’extérieur et film pare-vapeur à l’intérieur (pose RAL), montage des vantaux, réglage parallèle, contrôle de l’étanchéité.
+
+Étape 2 — M 19800 : traçage et ancrage du rail supérieur dans la dalle en béton armé (l’étape critique — tolérance de ±1 mm), montage des montants latéraux et du seuil encastré, suspension des vantaux un par un, réglage des galets et des charnières, fermeture multipoint, contrôle du fonctionnement et de l’étanchéité.
+
+À la réception : certificat de garantie produit et main-d’œuvre, procès-verbal avec les paramètres contrôlés, notice d’utilisation et d’entretien.
+
+---
+
+## Prix indicatifs 2026 — Bucarest et Ilfov
 
 | Système | Configuration | Prix pose comprise |
 |---|---|---|
-| evolutionDrive Plus+ | 2 vantaux, 2,4 m × 2,2 m | **1 900–2 800 €** |
-| evolutionDrive Plus+ | 3 vantaux, 3,6 m × 2,2 m | **3 000–4 200 €** |
-| M19800BT | 4 vantaux, 4,8 m × 2,4 m | **4 500–6 500 €** |
-| M19800BT | 6 vantaux, 6,0 m × 2,4 m | **6 500–9 000 €** |
-| **Pack combiné** | evolutionDrive Plus+ 2V + M19800BT 4V | **6 500–9 000 €** |
+| evolutionDrive Plus+ | 2 vantaux, 2,4 m × 2,2 m, blanc/anthracite | **1 900–2 800 EUR** |
+| evolutionDrive Plus+ | ouverture de 3,6 m × 2,2 m | **3 000–4 200 EUR** |
+| M 19800 SMARTIA | ouverture de 4,8 m × 2,4 m | **3 200–4 600 EUR** |
+| M 19800 SMARTIA | ouverture de 5,0 m × 2,4 m (largeur maximale) | **3 400–4 800 EUR** |
+| **Pack combiné** | evolutionDrive Plus+ 2,4 m + M 19800 4,8 m | **5 100–7 400 EUR** |
 
-En savoir plus sur nos [menuiseries PVC Salamander](/fr/menuiserie-pvc) et [menuiseries aluminium Alumil](/fr/menuiserie-aluminium).
-
-**Demandez un devis :** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10h–18h**
+*Les prix s’entendent hors TVA (21 %) et comprennent la fabrication, le transport et la pose à Bucarest et dans l’Ilfov. Le prix final dépend de la couleur, du vitrage, des options (moustiquaire plissée, couleurs spéciales) et des particularités du chantier.*
 
 ---
 
-Neofort BIZ fournit des systèmes Salamander pour maisons, appartements et projets d’export, posés par nos équipes. Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide de choix des systèmes Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le système pliant Alumil M 19800 SMARTIA](/fr/produits-alu/systeme-pliant-alumil-m19800-smartia) et [le système pliant Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme).`,
+## Questions fréquentes — evolutionDrive Plus+ et M 19800
 
-      es: `## Puerta corredera Salamander evolutionDrive Plus+ — El sistema PVC más avanzado de 2026
+### Puis-je commander evolutionDrive Plus+ dans des couleurs spéciales ?
+Oui — dans la gamme de films décor Salamander, y compris des effets bois, l’anthracite et des nuances de gris. Les deux faces peuvent être de couleurs différentes.
 
-### ¿Qué es la Salamander evolutionDrive Plus+?
+### Quelle largeur peut couvrir la porte accordéon M 19800 ?
+Jusqu’à 5,0 m, avec 2 à 6 vantaux d’au plus 1,0 m de large et 2,5 m de haut chacun. Pour des ouvertures plus grandes, nous recommandons le Alumil SF 85 SUPREME, qui va jusqu’à 7,0 m.
 
-Salamander **evolutionDrive Plus+** es el **sistema de corredera PVC con sellado paralelo** lanzado por Salamander Industrie-Produkte GmbH (Baviera, Alemania) — fabricante de perfiles con más de 40 años de trayectoria en la carpintería europea. Lanzado en España y Europa en 2023, evolutionDrive Plus+ ha redefinido el estándar de las puertas correderas de terraza en PVC: sellado patentado de nivel HST (elevadora-corredera) a un precio considerablemente más accesible.
+### Combien de temps prennent la fabrication et la pose ?
+Fabrication : 3 à 4 semaines après la signature de la commande. Pose : 1 jour pour evolutionDrive Plus+ et 1 à 2 jours pour le M 19800.
 
-A diferencia de los sistemas correderos convencionales (PSK oscilo-corredera o HST elevadora-corredera), evolutionDrive Plus+ funciona mediante **deslizamiento horizontal estrictamente paralelo** — el batiente no se eleva antes de deslizar, sino que se mueve paralelo al marco durante todo el recorrido. Esto garantiza una compresión uniforme de la junta y un sellado perfecto en cada uso.
+### Combien coûte le pack evolutionDrive Plus+ et M 19800 ?
+Pour une ouverture de 2,4 m pour le coulissant et de 4,8 m pour l’accordéon, le pack coûte 5 100 à 7 400 EUR pose comprise, hors TVA. Vous recevez le prix exact dans le devis envoyé sous 48 heures.
+
+### Neofort BIZ offre-t-il une garantie ?
+Oui — une garantie produit et main-d’œuvre, confirmée par un certificat à la réception.
+
+Découvrez les [systèmes PVC Salamander](/fr/menuiserie-pvc) et la [menuiserie aluminium Alumil](/fr/menuiserie-aluminium) de Neofort BIZ.
+
+- Pour une vue d’ensemble, lisez le [guide pour choisir entre les systèmes Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide).
+- Sur le coulissant et la moustiquaire plissée : [la porte coulissante evolutionDrive Plus+ avec moustiquaire plissée](/fr/blog/porte-coulissante-pvc-salamander-evolutiondrive-plus-moustiquaire-plisse).
+
+**Demandez un devis pour votre projet :** **oferte@neofort-biz.ro** | **+40 752 443 435 | lun.–ven. 10h–18h**
 
 ---
 
-### Especificaciones técnicas evolutionDrive Plus+
+Neofort BIZ pose des coulissants Salamander et des portes accordéon Alumil sur la même façade, à Bucarest et dans l’Ilfov. [Envoyez-nous vos ouvertures](/fr/contact) et recevez un devis sous 48 heures. Découvrez la [gamme de menuiserie PVC](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [le système accordéon Alumil M 19800 SMARTIA](/fr/produits-alu/systeme-pliant-alumil-m19800-smartia) et [le système accordéon Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme).`,
+
+      es: `## La puerta corredera Salamander evolutionDrive Plus+: el sistema corredero de PVC con sellado paralelo
+
+### ¿Qué es Salamander evolutionDrive Plus+?
+
+Salamander **evolutionDrive Plus+** es el **sistema corredero de PVC con sellado paralelo** de Salamander Window & Door Systems, el fabricante alemán de perfiles con sede en Türkheim (Baviera). El sistema lleva a una puerta corredera de PVC un sellado cercano al de una puerta elevadora-corredera (HST), con un coste menor.
+
+A diferencia de las correderas clásicas y de las puertas oscilocorrederas (PSK), en evolutionDrive Plus+ la hoja **se desplaza en paralelo al marco** y, al cerrar, se acerca al marco y presiona las juntas en todo el perímetro. La junta no roza en cada apertura, así que se desgasta de forma uniforme y la puerta sigue siendo estanca con el tiempo.
+
+---
+
+### Especificaciones técnicas de evolutionDrive Plus+
 
 | Parámetro | Valor |
 |---|---|
-| Perfil base | **Salamander BluEvolution 92** (76 mm de profundidad) |
-| Número de cámaras | **7 cámaras** |
-| Uw sistema (triple acristalamiento) | **0,71–1,0 W/m²K** |
-| Uf marco | **0,95 W/m²K** |
-| Aislamiento acústico | **42–44 dB** |
-| Resistencia al viento | **Clase B5** (máximo para correderas PVC) |
-| Estanqueidad al agua | **Clase 8A** (EN 12208) |
-| Permeabilidad al aire | **Clase 4** (EN 12207) |
-| Resistencia a la efracción | **RC 2** |
-| Peso máx. por hoja | **400 kg** |
-| Dimensión máx. hoja | **1.950 mm × 2.250 mm** |
-| Dimensión máx. marco | **4.000 mm × 2.600 mm** |
-| Configuraciones | **2, 3 o 4 hojas** |
-| Compatibilidad domótica | **Sí — Somfy, Nice, KNX** |
+| Profundidad de construcción | **152 mm** (con carril) |
+| Perfil | **5 cámaras** |
+| Sistema de sellado | **Sellado en el marco, paralelo** |
+| Coeficiente Uw | **desde 0,71 W/m²K** con triple acristalamiento |
+| Aislamiento acústico | **hasta 44 dB** |
+| Antirrobo | **hasta RC 2** |
+| Peso máximo de la hoja | **hasta 200 kg** |
+| Dimensiones máximas | **hasta 4,0 × 2,6 m** |
+| Vidrio admitido | **hasta 49 mm** (incluido el triple) |
+
+*Los valores dependen de la configuración; para su puerta los confirmamos en el presupuesto.*
 
 ---
 
-### El sellado paralelo patentado — por qué marca la diferencia
+### El sellado paralelo: por qué importa
 
-Los sistemas correderos convencionales comprimen la junta **en diagonal o mediante elevación**, lo que genera un desgaste desigual y una pérdida progresiva de estanqueidad. Con evolutionDrive Plus+, el batiente **se desplaza estrictamente paralelo al marco** durante todo el recorrido, presionando la junta uniformemente en toda la superficie de contacto.
+Las correderas clásicas comprimen la junta **en oblicuo o al elevarse**, lo que provoca un desgaste desigual y una pérdida progresiva de estanqueidad. En evolutionDrive Plus+, la hoja se mueve en paralelo al marco y presiona la junta de manera uniforme, en toda la superficie de contacto, solo al cerrar.
 
 Ventajas directas para el propietario:
-- **Clase de aire 4** — el máximo según EN 12207 para correderas PVC
-- **Cero corrientes de aire** — sellado perfecto en invierno y en verano
-- **Mayor vida útil de la junta** — desgaste uniforme, no localizado
-- **Funcionamiento silencioso** — reducción del ruido hasta el 75 %
-- **Resistencia al viento B5** — ideal para viviendas expuestas
+- **Mejor estanqueidad frente al viento y la lluvia batida** que las correderas clásicas, según muestra Salamander
+- **Sin corrientes de aire** con la puerta cerrada, en invierno y en verano
+- **Una junta que dura más**: desgaste uniforme, no localizado
+- **Deslizamiento suave y silencioso**, incluso con hojas pesadas
+- **Uw desde 0,71 W/m²K** con triple acristalamiento: apta para casas nZEB
 
 ---
 
-### evolutionDrive Plus+ vs. corredera aluminio — comparativa directa
+### evolutionDrive Plus+ frente a la elevadora de aluminio: comparación directa
 
-| Criterio | evolutionDrive Plus+ PVC | Corredera aluminio |
+La pregunta más frecuente de los clientes de Bucarest e Ilfov que reforman o construyen una villa: **¿corredera de PVC o elevadora-corredera de aluminio para la terraza?** Hemos comparado evolutionDrive Plus+ con la [Alumil S 700 SUPREME](/es/productos-alu/sistema-corredera-alumil-s700-supreme), sobre el mismo hueco de 2,4 × 2,2 m.
+
+| Criterio | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
-| **Aislamiento térmico Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
-| **Riesgo de condensación** | Nulo — el PVC no conduce el frío | Posible sin rotura de puente térmico |
-| **Precio con instalación** | 1.800–3.000 € (2 hojas) | 3.500–6.000 € (2 hojas) |
-| **Apertura máxima** | 4,0 m | 6,0–8,0 m |
-| **Estética** | Moderno, PVC blanco o laminado | Arquitectónico, perfil metálico esbelto |
+| **Aislamiento térmico Uw** | desde 0,71 W/m²K (triple) | desde 1,0 W/m²K |
+| **Riesgo de condensación en el perfil** | Muy bajo: el PVC conduce mal el calor | Bajo: rotura de puente térmico Kooltherm |
+| **Coste con instalación (hueco de 2,4 × 2,2 m)** | 1.900–2.800 EUR | 2.900–4.000 EUR |
+| **Peso máximo de la hoja** | 200 kg | 500 kg |
+| **Dimensiones** | Marco de hasta 4,0 × 2,6 m | Hojas grandes, para aberturas panorámicas |
+| **Aspecto** | Moderno, PVC blanco o con lámina decorativa | Arquitectónico, perfil metálico estrecho |
+| **Mantenimiento** | Mínimo: el PVC no se oxida | Mínimo: el aluminio no se oxida |
+| **Compatibilidad nZEB** | ✅ Uw por debajo de 1,0 | ✅ Uw desde 1,0 |
+
+*Precios orientativos sin IVA.*
+
+**Conclusión práctica:** para huecos de hasta 4,0 m, uso diario y un presupuesto orientado a la eficiencia, evolutionDrive Plus+ es la opción más sensata. Para aberturas panorámicas, hojas muy pesadas o un diseño con perfiles metálicos estrechos, la elevadora-corredera de aluminio es la solución.
 
 ---
 
-## Alumil Smartia M19800BT — Puerta plegable de aluminio con rotura de puente térmico
+### Configuraciones y usos recomendados
 
-### ¿Qué es el sistema Alumil M19800?
+**evolutionDrive Plus+ de 2 hojas (1 fija + 1 móvil)**
+Adecuada para huecos de 1,6–3,0 m. Es la configuración que más instalamos en pisos de Bucarest y villas de Ilfov, como acceso principal a la terraza o al balcón. Presupuesto: **1.900–2.800 EUR con instalación** para un hueco de 2,4 × 2,2 m (color estándar, vidrio Low-E).
 
-**Smartia M19800** es el **sistema de puertas plegables de aluminio (acordeón / bi-fold)** producido por Alumil Group (Kilkis, Grecia) — uno de los mayores fabricantes de sistemas arquitectónicos de aluminio del sureste de Europa. La variante **BT (Rotura de Puente Térmico)** está diseñada específicamente para residencias premium, chalets, restaurantes con terraza, hoteles y locales comerciales que requieren **apertura total del muro** hacia el exterior.
+**Huecos más anchos, de hasta 4,0 m**
+Para huecos de 3,0–4,0 m, elegimos el esquema de hojas según cómo quiera abrir la puerta. Las hemos instalado en Pipera, Berceni, Voluntari y Otopeni. Presupuesto: **3.000–4.200 EUR con instalación** para un hueco de 3,6 × 2,2 m.
 
-El principio acordeón: las hojas quedan suspendidas de un raíl superior y **se pliegan en un paquete compacto en un extremo** — liberando el 100 % del hueco, sin parteluz central, sin obstáculos visuales, sin raíl en el suelo.
+**Más de 4,0 m**
+Aquí evolutionDrive Plus+ llega a su límite. Para aberturas mayores recomendamos una elevadora-corredera de aluminio o, si quiere abrir toda la pared, un sistema plegable, como en el proyecto de abajo.
 
 ---
 
-### Especificaciones técnicas M19800BT
+## Alumil M 19800 SMARTIA: puertas plegables con rotura de puente térmico para aberturas totales
+
+### ¿Qué es el sistema Alumil M 19800?
+
+**SMARTIA M 19800** es el **sistema de puertas plegables (acordeón / bi-fold) de aluminio** fabricado por Alumil (Kilkis, Grecia), uno de los mayores fabricantes de sistemas de aluminio del sudeste de Europa. Es el sistema plegable con rotura de puente térmico más asequible de la gama Alumil y está pensado para terrazas, balcones y salones donde importa **abrir toda la pared** hacia el exterior.
+
+El principio del plegable: las hojas cuelgan de un carril superior y **se pliegan en un paquete compacto en un extremo**, liberando toda la superficie del hueco, sin pilar central ni obstáculos visuales.
+
+---
+
+### Especificaciones técnicas de M 19800 SMARTIA
 
 | Parámetro | Valor |
 |---|---|
-| Material | **Aluminio extruido 6063-T5 con rotura de puente térmico de poliamida** |
-| Profundidad del perfil | **50 mm** |
-| Altura máx. por hoja | **3,3 m** |
-| Peso máx. por hoja | **125 kg** |
-| Número de hojas | **2 a 8 (configuraciones pares e impares)** |
-| Sentido de apertura | **Interior o exterior** |
-| Uf coeficiente térmico marco | **1,0–1,8 W/m²K** |
-| Resistencia a la efracción | **RC 2–3** |
-| Umbral | **Encastrado en el suelo (opcional)** |
-| Colores | **Todos los colores RAL + acabados madera** |
-| Anchura total máx. hueco | **6,0–8,0 m** |
+| Tipo de sistema | **Plegable, colgado del carril superior** |
+| Rotura de puente térmico | **18 mm, de poliamida** |
+| Profundidad de construcción | **50 mm** |
+| Hojas por sistema | **2–6** |
+| Ancho total máximo | **5.000 mm** |
+| Dimensiones máximas de la hoja | **1,0 m de ancho × 2,5 m de alto** |
+| Peso máximo de la hoja | **80 kg** |
+| Vidrio admitido | **24–32 mm** |
+| Coeficiente Uf | **desde 1,9 W/m²K** |
+| Coeficiente Uw | **desde 1,7 W/m²K** |
+| Aislamiento acústico | **hasta 36 dB** |
+| Antirrobo | **certificado PAS24** |
+| Juntas | **2 juntas de EPDM** |
+| Colores | **Colores RAL y acabados imitación madera** |
 
 ---
 
-## Por qué evolutionDrive Plus+ + M19800BT es la combinación premium en 2026
+### Cómo funciona: colgado, no rodando por el suelo
 
-| | evolutionDrive Plus+ PVC | M19800BT Aluminio |
+M 19800 es un sistema **colgado**: cada hoja cuelga del carril superior mediante rodamientos que soportan hasta 80 kg por hoja. El suelo queda libre: sin carriles que pisar y sin riesgo de que la suciedad bloquee la puerta.
+
+Las hojas están unidas por bisagras y se pliegan una tras otra en un paquete compacto. Para abrir la pared, tira de la primera hoja y las demás la siguen en cadena.
+
+---
+
+### La rotura de puente térmico: por qué importa en una puerta plegable
+
+El aluminio conduce el calor varios cientos de veces mejor que la poliamida (unos 160 W/mK frente a unos 0,25 W/mK). Un perfil sin rotura de puente térmico lleva el frío del exterior directamente al interior y, por debajo de 0 °C, aparece condensación visible en el perfil. La rotura de poliamida de 18 mm de M 19800 corta ese camino.
+
+El resultado práctico: M 19800 tiene un Uw desde 1,7 W/m²K, suficiente para una terraza que se usa todo el año. Sin embargo, no es el sistema para una casa nZEB. Para eso recomendamos la [Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme), con Uw desde 1,0 W/m²K, o una corredera como evolutionDrive Plus+.
+
+---
+
+### M 19800 frente a otros sistemas plegables: lo que no le cuentan
+
+**M 19800 SMARTIA frente a SF 85 SUPREME:** ambos son plegables Alumil con certificado PAS24. SF 85 es la opción premium: 85 mm de profundidad, rotura Kooltherm de 40 mm, 2–8 hojas en hasta 7.000 mm, vidrio de hasta 58 mm y Uw desde 1,0 W/m²K. M 19800 cuesta menos y cubre la mayoría de las terrazas de hasta 5,0 m.
+
+**M 19800 frente a plegables sin rotura de puente térmico:** para villas de Bucarest e Ilfov que se usan todo el año, la versión sin rotura no es recomendable: en invierno condensa en el perfil.
+
+**El ancho máximo importa:** M 19800 cubre como máximo 5,0 m, con hojas de 1,0 m como máximo. Para huecos mayores o esquinas que se abren a dos fachadas, el sistema adecuado es SF 85 SUPREME.
+
+---
+
+## Por qué combinar evolutionDrive Plus+ y M 19800 es una buena elección en 2026
+
+Es una combinación que piden a menudo los clientes de Neofort BIZ con villas en Bucarest e Ilfov, por una razón sencilla: cada sistema hace exactamente lo que mejor sabe hacer.
+
+| | evolutionDrive Plus+ PVC | M 19800 SMARTIA aluminio |
 |---|---|---|
-| **Función en el proyecto** | Acceso diario salón-terraza | Apertura total para eventos y verano |
-| **Aislamiento térmico** | ⭐⭐⭐⭐⭐ Uw 0,71–1,0 | ⭐⭐⭐ Uw 1,2–1,8 |
-| **Apertura del hueco** | Parcial — 50 % | Total — 100 % |
-| **Coste relativo** | ✅ Accesible | 💰 Premium |
-| **Domótica** | ✅ Somfy, Nice, KNX | ✅ Motorización disponible |
+| **Papel en el proyecto** | Acceso diario salón–terraza | Apertura total para fiestas y verano |
+| **Aislamiento térmico** | Uw desde 0,71 W/m²K | Uw desde 1,7 W/m²K |
+| **Apertura del hueco** | Parcial: alrededor del 50 % | Total: 100 % |
+| **Coste relativo** | Más asequible | Más caro por m² |
+| **Compatible con nZEB** | ✅ Sí | No: para nZEB, SF 85 SUPREME |
+| **Vidrio máximo** | 49 mm (triple) | 32 mm (doble) |
 
 ---
 
-## Precios orientativos 2026
+## Un proyecto real de Neofort BIZ: villa residencial en Voluntari, Ilfov
 
-| Sistema | Configuración | Precio instalado |
+### El encargo del cliente
+
+Los propietarios de una villa de 320 m² en Voluntari nos pidieron un acceso diario cómodo desde el salón a la terraza de 40 m², además de la posibilidad de abrir por completo la pared de 4,8 m para fiestas y días de calor. Presupuesto previsto: 9.000–12.000 EUR con instalación.
+
+### La solución propuesta y sus motivos
+
+**evolutionDrive Plus+ de 2 hojas**: hueco de 2,4 m × 2,2 m, color Antracita RAL 7016, triple acristalamiento 4/14/4/14/4 Low-E Saint-Gobain Planitherm ONE:
+- Uw = 0,82 W/m²K: apta para nZEB
+- Lámina decorativa en ambas caras: el mismo color que el aluminio, para dar continuidad
+- Mosquitera plisada integrada: pedida expresamente por el cliente
+
+**Puerta plegable Alumil M 19800 SMARTIA**: hueco de 4,8 m × 2,4 m, color Antracita RAL 7016, doble acristalamiento 4/16/4 Low-E con argón:
+- Apertura total hacia la terraza de 40 m²
+- Umbral empotrado en el suelo: continuidad visual entre interior y exterior
+- Cierre multipunto
+
+### La ejecución de la instalación
+
+Duración total: **3 días de instalación** para ambos sistemas.
+
+Fase 1, evolutionDrive Plus+: fijación del marco con anclajes químicos, sellado con cinta precomprimida por fuera y lámina barrera de vapor por dentro (montaje RAL), colocación de las hojas, ajuste paralelo, comprobación de la estanqueidad.
+
+Fase 2, M 19800: replanteo y anclaje del carril superior en el forjado de hormigón armado (la fase crítica, con tolerancia de ±1 mm), montaje de los marcos laterales y del umbral empotrado, colgado de las hojas una a una, ajuste de rodamientos y bisagras, cierre multipunto, comprobación del funcionamiento y de la estanqueidad.
+
+En la recepción: certificado de garantía del producto y la mano de obra, acta con los parámetros comprobados e instrucciones de uso y mantenimiento.
+
+---
+
+## Precios orientativos 2026: Bucarest e Ilfov
+
+| Sistema | Configuración | Precio con instalación |
 |---|---|---|
-| evolutionDrive Plus+ | 2 hojas, 2,4 m × 2,2 m | **1.900–2.800 €** |
-| evolutionDrive Plus+ | 3 hojas, 3,6 m × 2,2 m | **3.000–4.200 €** |
-| M19800BT | 4 hojas, 4,8 m × 2,4 m | **4.500–6.500 €** |
-| M19800BT | 6 hojas, 6,0 m × 2,4 m | **6.500–9.000 €** |
-| **Pack combinado** | evolutionDrive Plus+ 2H + M19800BT 4H | **6.500–9.000 €** |
+| evolutionDrive Plus+ | 2 hojas, 2,4 m × 2,2 m, blanco/antracita | **1.900–2.800 EUR** |
+| evolutionDrive Plus+ | hueco de 3,6 m × 2,2 m | **3.000–4.200 EUR** |
+| M 19800 SMARTIA | hueco de 4,8 m × 2,4 m | **3.200–4.600 EUR** |
+| M 19800 SMARTIA | hueco de 5,0 m × 2,4 m (ancho máximo) | **3.400–4.800 EUR** |
+| **Paquete combinado** | evolutionDrive Plus+ 2,4 m + M 19800 4,8 m | **5.100–7.400 EUR** |
 
-Más información sobre nuestras [carpinterías PVC Salamander](/es/carpinteria-pvc) y [carpinterías de aluminio Alumil](/es/carpinteria-aluminio).
-
-**Solicite presupuesto:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Vie 10–18 h**
+*Los precios no incluyen IVA (21 %) e incluyen la fabricación, el transporte y la instalación en Bucarest e Ilfov. El precio final depende del color, el vidrio, las opciones (mosquitera plisada, colores especiales) y las particularidades de la obra.*
 
 ---
 
-Neofort BIZ suministra sistemas Salamander para casas, pisos y proyectos de exportación, montados por equipos propios. Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía de elección de sistemas Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el sistema plegable Alumil M 19800 SMARTIA](/es/productos-alu/sistema-plegable-alumil-m19800-smartia) y [el sistema plegable Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme).`,
+## Preguntas frecuentes: evolutionDrive Plus+ y M 19800
 
-      it: `## Porta scorrevole Salamander evolutionDrive Plus+ — Il sistema scorrevole PVC più avanzato del 2026
+### ¿Puedo pedir evolutionDrive Plus+ en colores especiales?
+Sí, de la gama de láminas decorativas de Salamander, incluidas las imitaciones de madera, el antracita y los tonos grises. Las dos caras pueden tener colores distintos.
 
-### Che cos'è la Salamander evolutionDrive Plus+?
+### ¿Qué ancho puede cubrir la puerta plegable M 19800?
+Hasta 5,0 m, con 2–6 hojas de 1,0 m de ancho y 2,5 m de alto como máximo cada una. Para huecos mayores recomendamos la Alumil SF 85 SUPREME, que llega a 7,0 m.
 
-Salamander **evolutionDrive Plus+** è il **sistema scorrevole PVC a traslazione parallela** lanciato da Salamander Industrie-Produkte GmbH (Baviera, Germania) — produttore di profili con oltre 40 anni di esperienza nella serramentistica europea. Lanciato in Italia e in Europa nel 2023, evolutionDrive Plus+ ha ridefinito il punto di riferimento per le porte scorrevoli da terrazzo in PVC: tenuta brevettata di livello HST (alzante-scorrevole) a un costo notevolmente più accessibile.
+### ¿Cuánto tardan la fabricación y la instalación?
+Fabricación: 3–4 semanas desde la firma del pedido. Instalación: 1 día para evolutionDrive Plus+ y 1–2 días para M 19800.
 
-A differenza dei sistemi scorrevoli convenzionali (PSK anta-ribalta scorrevole o HST alzante-scorrevole), evolutionDrive Plus+ funziona attraverso una **traslazione orizzontale strettamente parallela** — l'anta non si solleva prima di scorrere, ma si sposta parallela al telaio durante tutto il movimento. Questo garantisce una compressione uniforme della guarnizione e una tenuta perfetta a ogni utilizzo.
+### ¿Cuánto cuesta el paquete evolutionDrive Plus+ y M 19800?
+Para un hueco de 2,4 m en la corredera y otro de 4,8 m en la plegable, el paquete cuesta 5.100–7.400 EUR con instalación, sin IVA. El precio exacto lo recibe en el presupuesto que enviamos en 48 horas.
+
+### ¿Ofrece Neofort BIZ garantía?
+Sí: garantía del producto y la mano de obra, confirmada con un certificado en la recepción.
+
+Conozca los [sistemas de PVC Salamander](/es/carpinteria-pvc) y la [carpintería de aluminio Alumil](/es/carpinteria-aluminio) de Neofort BIZ.
+
+- Para el panorama completo, lea la [guía para elegir entre los sistemas Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
+- Sobre la corredera y la mosquitera plisada: [la puerta corredera evolutionDrive Plus+ con mosquitera plisada](/es/blog/puerta-corredera-pvc-salamander-evolutiondrive-plus-mosquitera-plise).
+
+**Solicite un presupuesto para su proyecto:** **oferte@neofort-biz.ro** | **+40 752 443 435 | L–V 10–18**
 
 ---
 
-### Dati tecnici evolutionDrive Plus+
+Neofort BIZ instala correderas Salamander y plegables Alumil en la misma fachada, en Bucarest e Ilfov. [Envíenos sus huecos](/es/contacto) y reciba un presupuesto en 48 horas. Vea la [gama de carpintería de PVC](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el sistema plegable Alumil M 19800 SMARTIA](/es/productos-alu/sistema-plegable-alumil-m19800-smartia) y [el sistema plegable Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme).`,
+
+      it: `## La porta scorrevole Salamander evolutionDrive Plus+: il sistema scorrevole in PVC a tenuta parallela
+
+### Che cos’è Salamander evolutionDrive Plus+?
+
+Salamander **evolutionDrive Plus+** è il **sistema scorrevole in PVC a tenuta parallela** di Salamander Window & Door Systems, il produttore tedesco di profili con sede a Türkheim (Baviera). Il sistema porta su una porta scorrevole in PVC una tenuta vicina a quella di un alzante-scorrevole (HST), a un costo inferiore.
+
+A differenza degli scorrevoli classici e delle porte a ribalta scorrevole (PSK), con evolutionDrive Plus+ l’anta **si sposta parallelamente al telaio** e, in chiusura, viene accostata al telaio e preme le guarnizioni su tutto il perimetro. La guarnizione non viene strofinata a ogni apertura: si consuma in modo uniforme e la porta resta a tenuta nel tempo.
+
+---
+
+### Specifiche tecniche di evolutionDrive Plus+
 
 | Parametro | Valore |
 |---|---|
-| Profilo base | **Salamander BluEvolution 92** (profondità 76 mm) |
-| Camere | **7 camere** |
-| Uw sistema (triplo vetro) | **0,71–1,0 W/m²K** |
-| Uf telaio | **0,95 W/m²K** |
-| Isolamento acustico | **42–44 dB** |
-| Resistenza al vento | **Classe B5** (massimo per scorrevoli PVC) |
-| Tenuta all'acqua | **Classe 8A** (EN 12208) |
-| Permeabilità all'aria | **Classe 4** (EN 12207) |
-| Resistenza all'effrazione | **RC 2** |
-| Peso max. per anta | **400 kg** |
-| Dimensione max. anta | **1.950 mm × 2.250 mm** |
-| Dimensione max. telaio | **4.000 mm × 2.600 mm** |
-| Configurazioni | **2, 3 o 4 ante** |
-| Compatibilità domotica | **Sì — Somfy, Nice, KNX** |
+| Profondità costruttiva | **152 mm** (con binario) |
+| Profilo | **5 camere** |
+| Sistema di tenuta | **Tenuta nel telaio, parallela** |
+| Coefficiente Uw | **da 0,71 W/m²K** con vetro triplo |
+| Isolamento acustico | **fino a 44 dB** |
+| Antieffrazione | **fino a RC 2** |
+| Peso massimo dell’anta | **fino a 200 kg** |
+| Dimensioni massime | **fino a 4,0 × 2,6 m** |
+| Vetro ammesso | **fino a 49 mm** (triplo compreso) |
+
+*I valori dipendono dalla configurazione; per la vostra porta li confermiamo nel preventivo.*
 
 ---
 
-### La tenuta parallela brevettata — perché è fondamentale
+### La tenuta parallela: perché conta
 
-I sistemi scorrevoli convenzionali comprimono la guarnizione **in diagonale o tramite sollevamento**, causando usura irregolare e perdita progressiva di tenuta nel tempo. Con evolutionDrive Plus+, l'anta **si sposta strettamente parallela al telaio** per tutta la corsa, comprimendo la guarnizione uniformemente sull'intera superficie di contatto.
+Gli scorrevoli classici comprimono la guarnizione **in obliquo o sollevando l’anta**, il che provoca un’usura irregolare e una perdita graduale di tenuta. Con evolutionDrive Plus+, l’anta si muove parallela al telaio e preme la guarnizione in modo uniforme, su tutta la superficie di contatto, solo in chiusura.
 
 Vantaggi diretti per il proprietario:
-- **Classe aria 4** — il massimo secondo EN 12207 per scorrevoli PVC
-- **Zero spifferi** — tenuta perfetta sia in inverno che in estate
-- **Maggiore durata della guarnizione** — usura uniforme, non localizzata
-- **Funzionamento silenzioso** — riduzione del rumore fino al 75 %
-- **Resistenza al vento B5** — ideale per abitazioni esposte
+- **Tenuta migliore al vento e alla pioggia battente** rispetto agli scorrevoli classici, come mostra Salamander
+- **Nessuno spiffero** a porta chiusa, d’inverno e d’estate
+- **Una guarnizione che dura di più**: usura uniforme, non localizzata
+- **Scorrimento leggero e silenzioso**, anche con ante pesanti
+- **Uw da 0,71 W/m²K** con vetro triplo: adatta alle case nZEB
 
 ---
 
-### evolutionDrive Plus+ vs alzante-scorrevole in alluminio — confronto diretto
+### evolutionDrive Plus+ o alzante-scorrevole in alluminio: il confronto diretto
 
-| Criterio | evolutionDrive Plus+ PVC | Alzante-scorrevole alluminio |
+La domanda più frequente dei clienti di Bucarest e Ilfov che ristrutturano o costruiscono una villa: **scorrevole in PVC o alzante-scorrevole in alluminio per la terrazza?** Abbiamo confrontato evolutionDrive Plus+ con l’[Alumil S 700 SUPREME](/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme), sullo stesso vano di 2,4 × 2,2 m.
+
+| Criterio | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
-| **Isolamento termico Uw** | 0,71–1,0 W/m²K ⭐⭐⭐⭐⭐ | 1,0–1,4 W/m²K ⭐⭐⭐ |
-| **Rischio condensa sul profilo** | Zero — il PVC non conduce il freddo | Possibile senza taglio termico premium |
-| **Costo con posa** | 1.800–3.000 € (2 ante) | 3.500–6.000 € (2 ante) |
-| **Apertura massima** | 4,0 m | 6,0–8,0 m |
-| **Estetica** | Moderno, PVC bianco o laminato | Architettonico, profilo metallico sottile |
+| **Isolamento termico Uw** | da 0,71 W/m²K (triplo) | da 1,0 W/m²K |
+| **Rischio di condensa sul profilo** | Molto basso: il PVC conduce poco il calore | Basso: taglio termico Kooltherm |
+| **Costo con posa (vano 2,4 × 2,2 m)** | 1.900–2.800 EUR | 2.900–4.000 EUR |
+| **Peso massimo dell’anta** | 200 kg | 500 kg |
+| **Dimensioni** | Telaio fino a 4,0 × 2,6 m | Ante grandi, per aperture panoramiche |
+| **Aspetto** | Moderno, PVC bianco o pellicola decorativa | Architettonico, profilo metallico sottile |
+| **Manutenzione** | Minima: il PVC non si ossida | Minima: l’alluminio non si ossida |
+| **Compatibilità nZEB** | ✅ Uw sotto 1,0 | ✅ Uw da 1,0 |
+
+*Prezzi indicativi IVA esclusa.*
+
+**Conclusione pratica:** per vani fino a 4,0 m, uso quotidiano e un budget orientato all’efficienza, evolutionDrive Plus+ è la scelta più sensata. Per aperture panoramiche, ante molto pesanti o un design con profili metallici sottili, l’alzante-scorrevole in alluminio è la soluzione.
 
 ---
 
-## Alumil Smartia M19800BT — Porta a soffietto in alluminio con taglio termico
+### Configurazioni e usi consigliati
 
-### Che cos'è il sistema Alumil M19800?
+**evolutionDrive Plus+ a 2 ante (1 fissa + 1 mobile)**
+Adatta a vani di 1,6–3,0 m. È la configurazione che posiamo più spesso negli appartamenti di Bucarest e nelle ville di Ilfov, come accesso principale alla terrazza o al balcone. Budget: **1.900–2.800 EUR con posa** per un vano di 2,4 × 2,2 m (colore standard, vetro Low-E).
 
-**Smartia M19800** è il **sistema di porte pieghevoli in alluminio (fisarmonica / bi-fold)** prodotto da Alumil Group (Kilkis, Grecia) — uno dei maggiori produttori di sistemi architetturali in alluminio del Sud-Est Europa. La variante **BT (Taglio Termico)** è progettata specificamente per residenze premium, ville, ristoranti con terrazza, hotel e spazi commerciali che richiedono l'**apertura totale della parete** verso l'esterno.
+**Vani più larghi, fino a 4,0 m**
+Per vani di 3,0–4,0 m scegliamo lo schema delle ante in base a come volete aprire la porta. Le abbiamo posate a Pipera, Berceni, Voluntari e Otopeni. Budget: **3.000–4.200 EUR con posa** per un vano di 3,6 × 2,2 m.
 
-Il principio a fisarmonica: le ante sono sospese a una guida superiore e **si ripiegano in un pacco compatto a un'estremità** — liberando il 100 % dell'apertura, senza montante centrale, senza ostacoli visivi, senza binari a pavimento.
+**Oltre 4,0 m**
+Qui evolutionDrive Plus+ arriva al suo limite. Per aperture più grandi consigliamo un alzante-scorrevole in alluminio oppure, se volete aprire tutta la parete, un sistema a libro, come nel progetto qui sotto.
 
 ---
 
-### Dati tecnici M19800BT
+## Alumil M 19800 SMARTIA: porte a libro a taglio termico per aperture totali
+
+### Che cos’è il sistema Alumil M 19800?
+
+**SMARTIA M 19800** è il **sistema di porte a libro (a soffietto / bi-fold) in alluminio** prodotto da Alumil (Kilkis, Grecia), uno dei maggiori produttori di sistemi in alluminio dell’Europa sud-orientale. È il sistema a libro a taglio termico più conveniente della gamma Alumil, pensato per terrazze, balconi e soggiorni dove conta **aprire tutta la parete** verso l’esterno.
+
+Il principio della porta a libro: le ante sono appese a un binario superiore e **si ripiegano in un pacchetto compatto a un’estremità**, liberando tutta la superficie del vano, senza montante centrale né ostacoli visivi.
+
+---
+
+### Specifiche tecniche di M 19800 SMARTIA
 
 | Parametro | Valore |
 |---|---|
-| Materiale | **Alluminio estruso 6063-T5 con taglio termico in poliammide** |
-| Profondità profilo | **50 mm** |
-| Altezza max. per anta | **3,3 m** |
-| Peso max. per anta | **125 kg** |
-| Numero di ante | **Da 2 a 8 (configurazioni pari e dispari)** |
-| Verso di apertura | **Interno o esterno** |
-| Uf coefficiente termico telaio | **1,0–1,8 W/m²K** |
-| Resistenza all'effrazione | **RC 2–3** |
-| Soglia | **A filo pavimento, incassata (opzionale)** |
-| Colori | **Tutti i colori RAL + finiture legno** |
-| Larghezza totale max. vano | **6,0–8,0 m** |
+| Tipo di sistema | **A libro, appeso al binario superiore** |
+| Taglio termico | **18 mm, in poliammide** |
+| Profondità costruttiva | **50 mm** |
+| Ante per sistema | **2–6** |
+| Larghezza totale massima | **5.000 mm** |
+| Dimensioni massime dell’anta | **1,0 m di larghezza × 2,5 m di altezza** |
+| Peso massimo dell’anta | **80 kg** |
+| Vetro ammesso | **24–32 mm** |
+| Coefficiente Uf | **da 1,9 W/m²K** |
+| Coefficiente Uw | **da 1,7 W/m²K** |
+| Isolamento acustico | **fino a 36 dB** |
+| Antieffrazione | **certificato PAS24** |
+| Guarnizioni | **2 guarnizioni in EPDM** |
+| Colori | **Colori RAL e finiture effetto legno** |
 
 ---
 
-## Perché evolutionDrive Plus+ + M19800BT è la combinazione premium nel 2026
+### Come funziona: appeso, non su ruote a pavimento
 
-| | evolutionDrive Plus+ PVC | M19800BT Alluminio |
+M 19800 è un sistema **appeso**: ogni anta è sospesa al binario superiore tramite carrelli che reggono fino a 80 kg per anta. Il pavimento resta libero: nessun binario da calpestare e nessun rischio che lo sporco blocchi la porta.
+
+Le ante sono unite da cerniere e si ripiegano una dopo l’altra in un pacchetto compatto. Per aprire la parete, tirate la prima anta e le altre la seguono a catena.
+
+---
+
+### Il taglio termico: perché conta su una porta a libro
+
+L’alluminio conduce il calore varie centinaia di volte meglio della poliammide (circa 160 W/mK contro circa 0,25 W/mK). Un profilo senza taglio termico porta il freddo dall’esterno direttamente all’interno e, sotto 0 °C, sul profilo compare condensa visibile. Il taglio in poliammide da 18 mm di M 19800 interrompe questo percorso.
+
+Il risultato pratico: M 19800 ha un Uw da 1,7 W/m²K, sufficiente per una terrazza usata tutto l’anno. Non è però il sistema per una casa nZEB. In quel caso consigliamo l’[Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme), con Uw da 1,0 W/m²K, oppure uno scorrevole come evolutionDrive Plus+.
+
+---
+
+### M 19800 e gli altri sistemi a libro: quello che non vi dicono
+
+**M 19800 SMARTIA o SF 85 SUPREME:** entrambi sono sistemi a libro Alumil certificati PAS24. SF 85 è la versione premium: profondità di 85 mm, taglio Kooltherm da 40 mm, 2–8 ante su un massimo di 7.000 mm, vetro fino a 58 mm e Uw da 1,0 W/m²K. M 19800 costa meno e copre la maggior parte delle terrazze fino a 5,0 m.
+
+**M 19800 o porte a libro senza taglio termico:** per le ville di Bucarest e Ilfov usate tutto l’anno, la versione senza taglio termico non è consigliata: d’inverno fa condensa sul profilo.
+
+**La larghezza massima conta:** M 19800 copre al massimo 5,0 m, con ante di al massimo 1,0 m. Per vani più grandi o per angoli che si aprono su due facciate, il sistema giusto è SF 85 SUPREME.
+
+---
+
+## Perché abbinare evolutionDrive Plus+ e M 19800 è una buona scelta nel 2026
+
+È un abbinamento che i clienti di Neofort BIZ con ville a Bucarest e Ilfov chiedono spesso, per un motivo semplice: ogni sistema fa esattamente ciò che sa fare meglio.
+
+| | evolutionDrive Plus+ PVC | M 19800 SMARTIA alluminio |
 |---|---|---|
-| **Ruolo nel progetto** | Accesso quotidiano soggiorno-terrazza | Apertura totale per eventi e estate |
-| **Isolamento termico** | ⭐⭐⭐⭐⭐ Uw 0,71–1,0 | ⭐⭐⭐ Uw 1,2–1,8 |
-| **Apertura del vano** | Parziale — 50 % | Totale — 100 % |
-| **Costo relativo** | ✅ Accessibile | 💰 Premium |
-| **Domotica** | ✅ Somfy, Nice, KNX | ✅ Motorizzazione disponibile |
+| **Ruolo nel progetto** | Accesso quotidiano soggiorno–terrazza | Apertura totale per feste ed estate |
+| **Isolamento termico** | Uw da 0,71 W/m²K | Uw da 1,7 W/m²K |
+| **Apertura del vano** | Parziale: circa il 50% | Totale: 100% |
+| **Costo relativo** | Più conveniente | Più caro al m² |
+| **Compatibile nZEB** | ✅ Sì | No: per l’nZEB, SF 85 SUPREME |
+| **Vetro massimo** | 49 mm (triplo) | 32 mm (doppio) |
 
 ---
 
-## Prezzi indicativi 2026
+## Un progetto reale di Neofort BIZ: villa residenziale a Voluntari, Ilfov
 
-| Sistema | Configurazione | Prezzo in opera |
+### La richiesta del cliente
+
+I proprietari di una villa di 320 m² a Voluntari ci hanno chiesto un accesso quotidiano comodo dal soggiorno alla terrazza di 40 m², più la possibilità di aprire completamente la parete di 4,8 m per le feste e le giornate calde. Budget previsto: 9.000–12.000 EUR con posa.
+
+### La soluzione proposta e le sue ragioni
+
+**evolutionDrive Plus+ a 2 ante**: vano di 2,4 m × 2,2 m, colore Antracite RAL 7016, vetro triplo 4/14/4/14/4 Low-E Saint-Gobain Planitherm ONE:
+- Uw = 0,82 W/m²K: idonea per l’nZEB
+- Pellicola decorativa su entrambe le facce: lo stesso colore dell’alluminio, per continuità
+- Zanzariera plissé integrata: richiesta espressamente dal cliente
+
+**Porta a libro Alumil M 19800 SMARTIA**: vano di 4,8 m × 2,4 m, colore Antracite RAL 7016, vetro doppio 4/16/4 Low-E con argon:
+- Apertura totale sulla terrazza di 40 m²
+- Soglia incassata nel pavimento: continuità visiva tra interno ed esterno
+- Chiusura multipunto
+
+### L’esecuzione della posa
+
+Durata complessiva: **3 giorni di posa** per entrambi i sistemi.
+
+Fase 1, evolutionDrive Plus+: fissaggio del telaio con tasselli chimici, sigillatura con nastro precompresso all’esterno e pellicola freno al vapore all’interno (posa RAL), montaggio delle ante, regolazione parallela, verifica della tenuta.
+
+Fase 2, M 19800: tracciamento e ancoraggio del binario superiore nel solaio in cemento armato (la fase critica, con tolleranza di ±1 mm), montaggio dei telai laterali e della soglia incassata, aggancio delle ante una per una, regolazione di carrelli e cerniere, chiusura multipunto, verifica del funzionamento e della tenuta.
+
+Alla consegna: certificato di garanzia su prodotto e manodopera, verbale con i parametri verificati, istruzioni d’uso e di manutenzione.
+
+---
+
+## Prezzi indicativi 2026: Bucarest e Ilfov
+
+| Sistema | Configurazione | Prezzo con posa |
 |---|---|---|
-| evolutionDrive Plus+ | 2 ante, 2,4 m × 2,2 m | **1.900–2.800 €** |
-| evolutionDrive Plus+ | 3 ante, 3,6 m × 2,2 m | **3.000–4.200 €** |
-| M19800BT | 4 ante, 4,8 m × 2,4 m | **4.500–6.500 €** |
-| M19800BT | 6 ante, 6,0 m × 2,4 m | **6.500–9.000 €** |
-| **Pacchetto combinato** | evolutionDrive Plus+ 2A + M19800BT 4A | **6.500–9.000 €** |
+| evolutionDrive Plus+ | 2 ante, 2,4 m × 2,2 m, bianco/antracite | **1.900–2.800 EUR** |
+| evolutionDrive Plus+ | vano di 3,6 m × 2,2 m | **3.000–4.200 EUR** |
+| M 19800 SMARTIA | vano di 4,8 m × 2,4 m | **3.200–4.600 EUR** |
+| M 19800 SMARTIA | vano di 5,0 m × 2,4 m (larghezza massima) | **3.400–4.800 EUR** |
+| **Pacchetto combinato** | evolutionDrive Plus+ 2,4 m + M 19800 4,8 m | **5.100–7.400 EUR** |
 
-Scopri di più sui nostri [infissi PVC Salamander](/it/infissi-pvc) e [infissi in alluminio Alumil](/it/infissi-alluminio).
-
-**Richiedi un preventivo:** **oferte@neofort-biz.ro** | **+40 752 443 435 | Lun–Ven 10–18**
+*I prezzi sono IVA esclusa (21%) e comprendono produzione, trasporto e posa a Bucarest e Ilfov. Il prezzo finale dipende da colore, vetro, opzioni (zanzariera plissé, colori speciali) e caratteristiche del cantiere.*
 
 ---
 
-Neofort BIZ fornisce sistemi Salamander per case, appartamenti e progetti export, montati da squadre proprie. Scopri [la gamma di infissi PVC](/it/infissi-pvc) o [richiedi un preventivo](/it/contatti). Per il contesto completo, leggi [la guida alla scelta dei sistemi Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il sistema a libro Alumil M 19800 SMARTIA](/it/prodotti-alu/sistema-pieghevole-alumil-m19800-smartia) e [il sistema a libro Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme).`,
+## Domande frequenti: evolutionDrive Plus+ e M 19800
+
+### Posso ordinare evolutionDrive Plus+ in colori speciali?
+Sì, dalla gamma di pellicole decorative Salamander, compresi gli effetti legno, l’antracite e le tonalità di grigio. Le due facce possono avere colori diversi.
+
+### Quale larghezza può coprire la porta a libro M 19800?
+Fino a 5,0 m, con 2–6 ante larghe al massimo 1,0 m e alte al massimo 2,5 m ciascuna. Per vani più grandi consigliamo l’Alumil SF 85 SUPREME, che arriva a 7,0 m.
+
+### Quanto durano produzione e posa?
+Produzione: 3–4 settimane dalla firma dell’ordine. Posa: 1 giorno per evolutionDrive Plus+ e 1–2 giorni per M 19800.
+
+### Quanto costa il pacchetto evolutionDrive Plus+ e M 19800?
+Per un vano di 2,4 m per lo scorrevole e uno di 4,8 m per la porta a libro, il pacchetto costa 5.100–7.400 EUR con posa, IVA esclusa. Il prezzo esatto lo ricevete nel preventivo che inviamo entro 48 ore.
+
+### Neofort BIZ offre una garanzia?
+Sì: garanzia su prodotto e manodopera, confermata da un certificato alla consegna.
+
+Scoprite i [sistemi in PVC Salamander](/it/infissi-pvc) e gli [infissi in alluminio Alumil](/it/infissi-alluminio) di Neofort BIZ.
+
+- Per il quadro completo, leggete la [guida alla scelta tra i sistemi Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
+- Sullo scorrevole e sulla zanzariera plissé: [la porta scorrevole evolutionDrive Plus+ con zanzariera plissé](/it/blog/porta-scorrevole-pvc-salamander-evolutiondrive-plus-zanzariera-plisse).
+
+**Richiedete un preventivo per il vostro progetto:** **oferte@neofort-biz.ro** | **+40 752 443 435 | lun–ven 10–18**
+
+---
+
+Neofort BIZ posa scorrevoli Salamander e porte a libro Alumil sulla stessa facciata, a Bucarest e Ilfov. [Inviateci i vostri vani](/it/contatti) e ricevete un preventivo entro 48 ore. Scoprite la [gamma di infissi in PVC](/it/infissi-pvc) che offriamo. Pagine utili: [il sistema a libro Alumil M 19800 SMARTIA](/it/prodotti-alu/sistema-pieghevole-alumil-m19800-smartia) e [il sistema a libro Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme).`,
     }
   },
 

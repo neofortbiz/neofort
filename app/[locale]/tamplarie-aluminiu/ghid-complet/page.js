@@ -253,37 +253,37 @@ const BLOG_LINKS = {
     { slug: 'tamplarie-aluminiu-bariera-termica-ghid-complet', label: 'Tâmplărie aluminiu cu barieră termică — ghid complet 2026: sisteme Alumil, prețuri și performanțe' },
     { slug: 'preturi-tamplarie-aluminiu-alumil-aluprof-cortizo-reynaers-bucuresti', label: 'Prețuri tâmplărie aluminiu 2026 — Alumil, Aluprof, Cortizo și Reynaers în București: comparație completă' },
     { slug: 'vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti', label: 'Vitrine și geamuri panoramice de mari dimensiuni — securizate, antiefracție, termoizolante — furnizor București 2026' },
-    { slug: 'montaj-tamplarie-salamander-evolutiondrive-plus-culisanta-alumil-m19800-armonice', label: 'Montaj Salamander evolutionDrive Plus Culisantă + Alumil M19800BT Armonică — Proiect complet Neofort BIZ' },
+    { slug: 'montaj-tamplarie-salamander-evolutiondrive-plus-culisanta-alumil-m19800-armonice', label: 'Montaj Salamander evolutionDrive Plus+ și Alumil M 19800' },
   ],
   en: [
     { slug: 'aluminium-windows-thermal-break-complete-guide', label: 'Aluminium windows with thermal break — complete guide 2026: Alumil systems, prices and performance' },
     { slug: 'aluminium-windows-prices-alumil-aluprof-cortizo-reynaers-bucharest', label: 'Aluminium window prices 2026 — Alumil, Aluprof, Cortizo and Reynaers in Bucharest: complete comparison' },
     { slug: 'glass-shopfronts-panoramic-large-format-tempered-windows-bucharest', label: 'Large format glass shopfronts and panoramic windows — tempered, burglar-resistant, thermally insulated — supplier Bucharest 2026' },
-    { slug: 'installation-salamander-evolutiondrive-plus-sliding-alumil-m19800-folding-door', label: 'Installation: Salamander evolutionDrive Plus Sliding + Alumil M19800BT Folding Door — Complete Neofort BIZ Project' },
+    { slug: 'installation-salamander-evolutiondrive-plus-sliding-alumil-m19800-folding-door', label: 'Installation: evolutionDrive Plus+ and Alumil M 19800' },
   ],
   de: [
     { slug: 'aluminiumfenster-waermedaemmung-komplett-leitfaden', label: 'Aluminiumfenster mit Wärmedämmung — Komplettleitfaden 2026: Alumil-Systeme, Preise und Leistungen' },
     { slug: 'aluminiumfenster-preise-alumil-aluprof-cortizo-reynaers-bukarest', label: 'Aluminiumfenster Preise 2026 — Alumil, Aluprof, Cortizo und Reynaers in Bukarest: Vollständiger Vergleich' },
     { slug: 'schaufenster-panoramascheiben-grosse-abmessungen-sicherheitsglas-bukarest', label: 'Großformat-Schaufenster und Panoramascheiben — gehärtet, einbruchhemmend, wärmedämmend — Händler Bukarest 2026' },
-    { slug: 'montage-salamander-evolutiondrive-plus-schiebetuer-alumil-m19800-falttuer', label: 'Montage: Salamander evolutionDrive Plus Schiebetür + Alumil M19800BT Falttür — Komplett-Projekt Neofort BIZ' },
+    { slug: 'montage-salamander-evolutiondrive-plus-schiebetuer-alumil-m19800-falttuer', label: 'Montage: Salamander evolutionDrive Plus+ und Alumil M 19800' },
   ],
   fr: [
     { slug: 'menuiserie-aluminium-rupture-thermique-guide-complet', label: 'Menuiseries aluminium à rupture thermique — guide complet 2026 : systèmes Alumil, prix et performances' },
     { slug: 'prix-menuiserie-aluminium-alumil-aluprof-cortizo-reynaers-bucarest', label: 'Prix menuiserie aluminium 2026 — Alumil, Aluprof, Cortizo et Reynaers à Bucarest : comparaison complète' },
     { slug: 'vitrines-verre-fenetres-panoramiques-grandes-dimensions-securisees-bucarest', label: 'Vitrines et fenêtres panoramiques grand format — sécurisées, antieffraction, thermoïsolantes — fournisseur Bucarest 2026' },
-    { slug: 'pose-menuiserie-salamander-evolutiondrive-plus-coulissant-alumil-m19800-accordeon', label: 'Pose : Salamander evolutionDrive Plus coulissant + Alumil M19800BT accordéon — Projet complet Neofort BIZ' },
+    { slug: 'pose-menuiserie-salamander-evolutiondrive-plus-coulissant-alumil-m19800-accordeon', label: 'Pose : Salamander evolutionDrive Plus+ et Alumil M 19800' },
   ],
   es: [
     { slug: 'carpinteria-aluminio-rotura-termica-guia-completa', label: 'Carpintería de aluminio con rotura de puente térmico — guía completa 2026: sistemas Alumil, precios y rendimientos' },
     { slug: 'precios-carpinteria-aluminio-alumil-aluprof-cortizo-reynaers-bucarest', label: 'Precios carpintería aluminio 2026 — Alumil, Aluprof, Cortizo y Reynaers en Bucarest: comparación completa' },
     { slug: 'vitrinas-cristal-ventanas-panoramicas-grandes-dimensiones-securizadas-bucarest', label: 'Vitrinas y ventanas panorámicas gran formato — securizadas, antiefracción, termoaislantes — proveedor Bucarest 2026' },
-    { slug: 'instalacion-carpinteria-salamander-evolutiondrive-plus-corredera-alumil-m19800-plegable', label: 'Instalación: Salamander evolutionDrive Plus corredera + Alumil M19800BT plegable — Proyecto completo Neofort BIZ' },
+    { slug: 'instalacion-carpinteria-salamander-evolutiondrive-plus-corredera-alumil-m19800-plegable', label: 'Instalación de evolutionDrive Plus+ y Alumil M 19800' },
   ],
   it: [
     { slug: 'infissi-alluminio-taglio-termico-guida-completa', label: 'Infissi in alluminio con taglio termico — guida completa 2026: sistemi Alumil, prezzi e prestazioni' },
     { slug: 'prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest', label: 'Prezzi infissi alluminio 2026 — Alumil, Aluprof, Cortizo e Reynaers a Bucarest: confronto completo' },
     { slug: 'vetrine-vetro-finestre-panoramiche-grandi-dimensioni-securizzate-bucarest', label: 'Vetrine e finestre panoramiche grande formato — securizzate, antieffrazione, termoisolanti — fornitore Bucarest 2026' },
-    { slug: 'posa-serramenti-salamander-evolutiondrive-plus-scorrevole-alumil-m19800-pieghevole', label: 'Posa: Salamander evolutionDrive Plus scorrevole + Alumil M19800BT pieghevole — Progetto completo Neofort BIZ' },
+    { slug: 'posa-serramenti-salamander-evolutiondrive-plus-scorrevole-alumil-m19800-pieghevole', label: 'Posa di Salamander evolutionDrive Plus+ e Alumil M 19800' },
   ],
 };
 
