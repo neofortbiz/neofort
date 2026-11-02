@@ -165,7 +165,7 @@ export const HUB_FAQ = {
   'umbrire': {
     ro: [
       [`Ce sistem de umbrire aleg: rulouri, Raffstore sau Zipscreen?`,
-       `Rulourile reduc aportul solar cu până la 70% și adaugă izolare nocturnă și antiefracție RC3. Raffstore urcă până la 85% și lasă lumina să intre orientând lamelele 0°–90°. Zipscreen e pentru terase și fațade mari, până la 16 m² per unitate.`],
+       `Rulourile reduc aportul solar cu până la 70% și adaugă izolare nocturnă și o barieră fizică în fața geamului. Raffstore urcă până la 85% și lasă lumina să intre orientând lamelele 0°–90°. Zipscreen e pentru terase și fațade mari, până la 16 m² per unitate.`],
       [`Cu cât scade temperatura în casă?`,
        `Sub un Zipscreen temperatura scade cu 15–20°C, iar sub o pergolă cu pânză UPF 50+ cu 6–10°C. Rulourile și Raffstore acționează înainte ca soarele să ajungă la geam, de aceea sunt mult mai eficiente decât orice soluție de interior.`],
       [`De ce umbrire exterioară și nu jaluzele de interior?`,
@@ -177,7 +177,7 @@ export const HUB_FAQ = {
     ],
     en: [
       [`Which shading system should I choose: roller shutters, Raffstore or Zipscreen?`,
-       `Roller shutters cut solar gain by up to 70% and add night insulation and RC3 burglar resistance. Raffstore reaches up to 85% while still letting light in, tilting the slats 0°–90°. Zipscreen suits terraces and large facades, up to 16 m² per unit.`],
+       `Roller shutters cut solar gain by up to 70% and add night insulation and a physical barrier in front of the glass. Raffstore reaches up to 85% while still letting light in, tilting the slats 0°–90°. Zipscreen suits terraces and large facades, up to 16 m² per unit.`],
       [`How much does the indoor temperature drop?`,
        `Under a Zipscreen the temperature falls by 15–20°C, and under a pergola with UPF 50+ fabric by 6–10°C. Roller shutters and Raffstore act before the sun reaches the glass, which is why they beat any indoor solution.`],
       [`Why exterior shading rather than interior blinds?`,
@@ -189,7 +189,7 @@ export const HUB_FAQ = {
     ],
     de: [
       [`Welches Beschattungssystem wählen: Rollladen, Raffstore oder Zipscreen?`,
-       `Rollläden senken den Solareintrag um bis zu 70% und ergänzen nächtliche Dämmung sowie Einbruchschutz RC3. Raffstore erreicht bis zu 85% und lässt dabei Licht herein, mit Lamellen von 0° bis 90°. Zipscreen eignet sich für Terrassen und große Fassaden, bis 16 m² je Einheit.`],
+       `Rollläden senken den Solareintrag um bis zu 70% und ergänzen nächtliche Dämmung sowie eine physische Barriere vor dem Glas. Raffstore erreicht bis zu 85% und lässt dabei Licht herein, mit Lamellen von 0° bis 90°. Zipscreen eignet sich für Terrassen und große Fassaden, bis 16 m² je Einheit.`],
       [`Um wie viel sinkt die Innentemperatur?`,
        `Unter einem Zipscreen fällt sie um 15–20°C, unter einer Pergola mit UPF-50+-Tuch um 6–10°C. Rollläden und Raffstore wirken, bevor die Sonne das Glas erreicht — deshalb schlagen sie jede Innenlösung.`],
       [`Warum außen beschatten und nicht innen?`,
@@ -201,7 +201,7 @@ export const HUB_FAQ = {
     ],
     fr: [
       [`Quel système choisir : volets roulants, brise-soleil orientable ou Zipscreen ?`,
-       `Les volets roulants réduisent l’apport solaire jusqu’à 70% et ajoutent isolation nocturne et anti-effraction RC3. Le brise-soleil orientable atteint jusqu’à 85% tout en laissant entrer la lumière, lames de 0° à 90°. Le Zipscreen convient aux terrasses et grandes façades, jusqu’à 16 m² par unité.`],
+       `Les volets roulants réduisent l’apport solaire jusqu’à 70% et ajoutent isolation nocturne et une barrière physique devant le vitrage. Le brise-soleil orientable atteint jusqu’à 85% tout en laissant entrer la lumière, lames de 0° à 90°. Le Zipscreen convient aux terrasses et grandes façades, jusqu’à 16 m² par unité.`],
       [`De combien la température intérieure baisse-t-elle ?`,
        `Sous un Zipscreen elle chute de 15 à 20°C, et sous une pergola à toile UPF 50+ de 6 à 10°C. Volets et BSO agissent avant que le soleil n’atteigne le vitrage : c’est pourquoi ils dépassent toute solution intérieure.`],
       [`Pourquoi occulter par l’extérieur plutôt que par l’intérieur ?`,
@@ -213,7 +213,7 @@ export const HUB_FAQ = {
     ],
     es: [
       [`¿Qué sistema elijo: persianas, veneciana exterior o Zipscreen?`,
-       `Las persianas reducen el aporte solar hasta un 70% y añaden aislamiento nocturno y antirrobo RC3. La veneciana exterior llega hasta el 85% dejando entrar luz, con lamas de 0° a 90°. El Zipscreen es para terrazas y fachadas grandes, hasta 16 m² por unidad.`],
+       `Las persianas reducen el aporte solar hasta un 70% y añaden aislamiento nocturno y una barrera física delante del vidrio. La veneciana exterior llega hasta el 85% dejando entrar luz, con lamas de 0° a 90°. El Zipscreen es para terrazas y fachadas grandes, hasta 16 m² por unidad.`],
       [`¿Cuánto baja la temperatura interior?`,
        `Bajo un Zipscreen baja 15–20°C, y bajo una pérgola con lona UPF 50+ entre 6 y 10°C. Persianas y venecianas actúan antes de que el sol llegue al vidrio, por eso superan a cualquier solución interior.`],
       [`¿Por qué sombrear por fuera y no por dentro?`,
@@ -225,7 +225,7 @@ export const HUB_FAQ = {
     ],
     it: [
       [`Quale sistema scegliere: tapparelle, frangisole o Zipscreen?`,
-       `Le tapparelle riducono l’apporto solare fino al 70% e aggiungono isolamento notturno e antieffrazione RC3. Il frangisole arriva fino all’85% lasciando entrare la luce, con lamelle da 0° a 90°. Lo Zipscreen è per terrazze e grandi facciate, fino a 16 m² per unità.`],
+       `Le tapparelle riducono l’apporto solare fino al 70% e aggiungono isolamento notturno e una barriera fisica davanti al vetro. Il frangisole arriva fino all’85% lasciando entrare la luce, con lamelle da 0° a 90°. Lo Zipscreen è per terrazze e grandi facciate, fino a 16 m² per unità.`],
       [`Di quanto scende la temperatura interna?`,
        `Sotto uno Zipscreen cala di 15–20°C, sotto una pergola con telo UPF 50+ di 6–10°C. Tapparelle e frangisole agiscono prima che il sole raggiunga il vetro: per questo battono qualsiasi soluzione interna.`],
       [`Perché schermare dall’esterno e non dall’interno?`,

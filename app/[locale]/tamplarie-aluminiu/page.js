@@ -68,12 +68,12 @@ const SPECS = {
     it:[['Taglio termico','40 mm'],['Isolamento','Kooltherm e 2 guarnizioni'],['Profondità','85 mm'],['Trasmittanza Uf','da 1,0 W/m²K'],['Vetro','fino a 58mm'],['Isolamento acustico','fino a 38 dB'],['Antieffrazione','PAS24']],
   },
   m19800: {
-    ro:[['Bariera termică','18 mm'],['Etanșare','2 garnituri'],['Adâncime','50 mm'],['Transfer termic Uf','de la 1.9 W/m²K'],['Vitraj','până la 32mm'],['Protecție fonică','până la 36 dB'],['Anti-efracție','PAS24']],
-    en:[['Thermal barrier','18 mm'],['Sealing','2 gaskets'],['Depth','50 mm'],['Thermal transfer Uf','from 1.9 W/m²K'],['Glazing','up to 32mm'],['Sound insulation','up to 36 dB'],['Burglar resistance','PAS24']],
-    de:[['Thermische Trennung','18 mm'],['Dichtung','2 Dichtungen'],['Bautiefe','50 mm'],['Wärmedurchgang Uf','ab 1,9 W/m²K'],['Verglasung','bis 32mm'],['Schallschutz','bis 36 dB'],['Einbruchschutz','PAS24']],
-    fr:[['Rupture pont thermique','18 mm'],['Étanchéité','2 joints'],['Profondeur','50 mm'],['Transfert thermique Uf','dès 1,9 W/m²K'],['Vitrage','jusqu\'à 32mm'],['Protection phonique','jusqu\'à 36 dB'],['Anti-effraction','PAS24']],
-    es:[['Rotura puente térmico','18 mm'],['Estanqueidad','2 juntas'],['Profundidad','50 mm'],['Transferencia Uf','desde 1,9 W/m²K'],['Acristalamiento','hasta 32mm'],['Aislamiento acústico','hasta 36 dB'],['Antirrobo','PAS24']],
-    it:[['Taglio termico','18 mm'],['Tenuta','2 guarnizioni'],['Profondità','50 mm'],['Trasmittanza Uf','da 1,9 W/m²K'],['Vetro','fino a 32mm'],['Isolamento acustico','fino a 36 dB'],['Antieffrazione','PAS24']],
+    ro:[['Bariera termică','18 mm'],['Etanșare','2 garnituri'],['Profil foaie','50 mm'],['Transfer termic Uf','1,9 W/m²K'],['Vitraj','24–32 mm'],['Etanșeitate apă','clasa 4A'],['Rezistență vânt','C1/B1']],
+    en:[['Thermal barrier','18 mm'],['Sealing','2 gaskets'],['Panel profile','50 mm'],['Thermal transfer Uf','1.9 W/m²K'],['Glazing','24–32 mm'],['Water tightness','class 4A'],['Wind resistance','C1/B1']],
+    de:[['Thermische Trennung','18 mm'],['Dichtung','2 Dichtungen'],['Flügelprofil','50 mm'],['Wärmedurchgang Uf','1,9 W/m²K'],['Verglasung','24–32 mm'],['Schlagregendichtheit','Klasse 4A'],['Windlast','C1/B1']],
+    fr:[['Rupture pont thermique','18 mm'],['Étanchéité','2 joints'],['Profilé de vantail','50 mm'],['Transfert thermique Uf','1,9 W/m²K'],['Vitrage','24–32 mm'],['Étanchéité à l\'eau','classe 4A'],['Résistance au vent','C1/B1']],
+    es:[['Rotura puente térmico','18 mm'],['Estanqueidad','2 juntas'],['Perfil de hoja','50 mm'],['Transferencia Uf','1,9 W/m²K'],['Acristalamiento','24–32 mm'],['Estanqueidad al agua','clase 4A'],['Resistencia al viento','C1/B1']],
+    it:[['Taglio termico','18 mm'],['Tenuta','2 guarnizioni'],['Profilo anta','50 mm'],['Trasmittanza Uf','1,9 W/m²K'],['Vetro','24–32 mm'],['Tenuta all\'acqua','classe 4A'],['Resistenza al vento','C1/B1']],
   },
 };
 
@@ -119,12 +119,12 @@ const DESCS = {
     it:'Sistema pieghevole premium per grandi aperture. Taglio termico 40mm con isolamento Kooltherm e 2 guarnizioni, profondità 85mm. Certificazione antieffrazione PAS24.',
   },
   m19800: {
-    ro:'Sistem armonic din gama Smartia. Barieră termică 18mm, 2 garnituri de etanșare, adâncime 50mm. Certificare anti-efracție PAS24. Ideal pentru deschideri mari rezidențiale.',
-    en:'Folding system from the Smartia range. 18mm thermal barrier, 2 sealing gaskets, 50mm depth. PAS24 burglar-resistance certification. Ideal for large residential openings.',
-    de:'Faltsystem aus der Smartia-Reihe. 18mm thermische Trennung, 2 Dichtungen, 50mm Bautiefe. PAS24-Einbruchschutz. Ideal für große Wohnöffnungen.',
-    fr:'Système pliant de la gamme Smartia. Rupture thermique 18mm, 2 joints, profondeur 50mm. Certification anti-effraction PAS24. Idéal pour les grandes baies résidentielles.',
-    es:'Sistema plegable de la gama Smartia. Rotura térmica 18mm, 2 juntas, profundidad 50mm. Certificación antirrobo PAS24. Ideal para grandes aperturas residenciales.',
-    it:'Sistema pieghevole della gamma Smartia. Taglio termico 18mm, 2 guarnizioni, profondità 50mm. Certificazione PAS24. Ideale per grandi aperture residenziali.',
+    ro:'Sistem armonic din gama Smartia. Barieră termică dublă de 18 mm, foi de până la 1,0 × 2,5 m, Uf 1,9 W/m²K, etanșeitate la apă clasa 4A. Ideal pentru terase și balcoane.',
+    en:'Folding system from the Smartia range. Double 18 mm thermal break, panels up to 1.0 × 2.5 m, Uf 1.9 W/m²K, water tightness class 4A. Ideal for terraces and balconies.',
+    de:'Faltsystem aus der Smartia-Reihe. Doppelte 18-mm-Wärmedämmung, Flügel bis 1,0 × 2,5 m, Uf 1,9 W/m²K, Schlagregendichtheit Klasse 4A. Ideal für Terrassen und Balkone.',
+    fr:'Système pliant de la gamme Smartia. Double rupture thermique de 18 mm, vantaux jusqu’à 1,0 × 2,5 m, Uf 1,9 W/m²K, étanchéité à l’eau classe 4A. Idéal pour terrasses et balcons.',
+    es:'Sistema plegable de la gama Smartia. Doble rotura térmica de 18 mm, hojas de hasta 1,0 × 2,5 m, Uf 1,9 W/m²K, estanqueidad al agua clase 4A. Ideal para terrazas y balcones.',
+    it:'Sistema pieghevole della gamma Smartia. Doppio taglio termico da 18 mm, ante fino a 1,0 × 2,5 m, Uf 1,9 W/m²K, tenuta all’acqua classe 4A. Ideale per terrazze e balconi.',
   },
 };
 

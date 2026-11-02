@@ -165,23 +165,23 @@ Suprafață vitrată: 18 m² | ΔT = 20°C | Ore sezon rece: 3.500 h
 
 ## Secțiunea 4 — Montajul corect pentru nZEB
 
-Cel mai performant profil pierde **30-50% din eficiență** cu montaj greșit. Standardul RAL definește 3 zone obligatorii:
+Cel mai performant profil își pierde o parte din performanță dacă rostul dintre toc și zidărie nu e etanșat corect. Ghidul RAL de montaj împarte rostul în 3 zone:
 
-**Zona exterioară:** Bandă precomprimată butilică (Illbruck TP600)
-- Rezistă ≥ 600 Pa presiunea apei | ≥ 50 m/s la vânt
-- Durabilitate: 20-25 ani față de 3-5 ani pentru silicon
+**Zona exterioară:** Bandă precomprimată din spumă PU impregnată (Neofort BIZ folosește benzi Soudal, de exemplu Soudaband PRO BG 1)
+- Etanșă la ploaia bătută de vânt până la cel puțin 600 Pa (clasa BG1, DIN 18542)
+- Rezistentă la UV, dar permeabilă la vapori, ca rostul să se poată usca
 
-**Zona mediană:** Spumă PU semi-deschisă — izolație termică + fonică
+**Zona mediană:** Spumă PU elastică — izolație termică și fonică
 
-**Zona interioară:** Folie PE antivapori — previne condensul interstițial în structura peretelui
+**Zona interioară:** Bandă sau folie antivapori — previne condensul în rost și în structura peretelui
 
 **Precadrele Blaugelb Triotherm+ (opțiune recomandată pentru nZEB complet):**
 - EPS de înaltă densitate, λ = 0,040 W/(mK)
-- Reduce ψ perimetral de la 0,08 la 0,01 W/(mK)
-- Certificare PassivHaus Institut (PHI)
-- Disponibile ca opțiune separată la cerere
+- Mută fereastra în stratul de izolație și reduce mult puntea termică liniară ψ de la perimetru; valoarea exactă depinde de perete și se calculează pe detaliu
+- Sistem certificat de Passive House Institute (PHI)
+- Disponibile ca opțiune separată, la cerere
 
-**Poziționarea ferestrei:** Montată în treimea exterioară a grosimii zidului (sau pe precadru) elimină puntea termică perimetrală.
+**Poziționarea ferestrei:** Montată în treimea exterioară a grosimii zidului (sau pe precadru) reduce mult puntea termică perimetrală.
 
 ## Secțiunea 5 — Costuri reale 2026
 
@@ -367,39 +367,27 @@ According to the Mc 001-2022 methodology (MDLPA Order 16/2023):
 
 ## Section 4 — Correct nZEB Installation
 
-The most performant profile with the best glazing loses **30-50% of efficiency** if installation is incorrect. The RAL standard defines 3 mandatory zones:
+Even the best profile loses part of its performance if the joint between frame and masonry is not sealed properly. The RAL installation guideline divides the joint into 3 zones:
 
-### Exterior Zone — Water and Wind Sealing
-**Pre-compressed butyl band** (Illbruck TP600, blaugelb TrioSDL):
-- Withstands ≥ 600 Pa water pressure — tested per EN 1027
-- Withstands ≥ 50 m/s wind — tested per EN 12211
-- Durability: 20-25 years vs 3-5 years for classic silicone
-- Applied to the window profile BEFORE installation
+**Outer zone:** Pre-compressed tape made of impregnated PU foam (Neofort BIZ uses Soudal tapes, for example Soudaband PRO BG 1)
+- Tight against driving rain up to at least 600 Pa (class BG1, DIN 18542)
+- UV resistant but vapour permeable, so the joint can dry out
 
-### Middle Zone — Thermal and Acoustic Insulation
-**Semi-open cell polyurethane foam:**
-- Fills the space between frame and masonry
-- Additional thermal insulation + acoustic attenuation
-- Injected AFTER fixing the frame with metal anchors
+**Middle zone:** Elastic PU foam — thermal and acoustic insulation
 
-### Interior Zone — Vapour Barrier
-**PE film or butyl tape:**
-- Prevents vapour migration from interior to the joint → condensation → mould
-- Applied continuously on the inner perimeter of the frame
+**Inner zone:** Vapour barrier tape or film — prevents condensation in the joint and in the wall structure
 
-### Blaugelb Triotherm+ Preframes — for Complete nZEB
-
-Preframes are available as a separate option and recommended for projects needing to achieve effective Uw ≤ 0.80 W/(m²K) overall, eliminating the thermal bridge at the sill:
-- High-density EPS, λ = 0.040 W/(mK) — comparable to mineral wool
-- Reduces perimeter ψ from 0.08 to 0.01 W/(mK)
-- PassivHaus Institut (PHI) certification
-- Installed BEFORE the window, in the thermal insulation plane
+**Blaugelb Triotherm+ precasings (recommended option for full nZEB):**
+- High-density EPS, λ = 0.040 W/(mK)
+- They move the window into the insulation layer and sharply reduce the linear thermal bridge ψ at the perimeter; the exact value depends on the wall and is calculated per detail
+- System certified by the Passive House Institute (PHI)
+- Available as a separate option, on request
 
 ### Window Positioning in the Insulated Wall
 
 **Common mistake:** Window installed in the middle of the wall thickness leaves the frame thermally exposed on both faces.
 
-**Correct for nZEB:** Window installed in the outer third of the wall thickness (or on a preframe, in the insulation plane) eliminates the perimeter thermal bridge.
+**Correct for nZEB:** Window installed in the outer third of the wall thickness (or on a preframe, in the insulation plane) sharply reduces the perimeter thermal bridge.
 
 ## Section 5 — Real 2026 Costs
 
@@ -421,7 +409,7 @@ Preframes are available as a separate option and recommended for projects needin
 |---|---|
 | Blaugelb Triotherm+ preframes | €50-80/unit |
 | nZEB installation with pre-compressed bands | +€60-90/window |
-| Warm Edge spacer (vs standard) | included in Neofort triple glazing price |
+| Warm Edge spacer (vs standard) | on request, quoted separately (chosen by about 90% of customers) |
 | Exterior aluminium sills (ml) | €24-40/ml |
 | Interior PVC sills (ml) | €16-30/ml |
 
@@ -589,24 +577,27 @@ In einem Haus mit Wänden bei 20 cm Dämmung (U = 0,20 W/m²K) und Dach bei 30 c
 
 ## Abschnitt 4 — Korrekte nZEB-Montage
 
-Das leistungsstärkste Profil verliert **30-50% seiner Effizienz** bei falscher Montage. Der RAL-Standard definiert 3 Pflichtbereiche:
+Selbst das beste Profil verliert einen Teil seiner Leistung, wenn die Fuge zwischen Rahmen und Mauerwerk nicht richtig abgedichtet ist. Der RAL-Leitfaden zur Montage teilt die Fuge in 3 Ebenen:
 
-**Außenbereich:** Vorkomprimiertes Butylband (Illbruck TP600) — ≥ 600 Pa wasserdicht, 20-25 Jahre Haltbarkeit
+**Außenebene:** Vorkomprimiertes Band aus imprägniertem PU-Schaum (Neofort BIZ verwendet Soudal-Bänder, zum Beispiel Soudaband PRO BG 1)
+- Schlagregendicht bis mindestens 600 Pa (Klasse BG1, DIN 18542)
+- UV-beständig, aber diffusionsoffen, damit die Fuge austrocknen kann
 
-**Mittelbereich:** Halboffenzelliger PU-Schaum — thermische und akustische Dämmung
+**Mittelebene:** Elastischer PU-Schaum — Wärme- und Schalldämmung
 
-**Innenbereich:** PE-Folie Dampfsperre — verhindert Kondensat in der Wandstruktur
+**Innenebene:** Dampfbremsband oder -folie — verhindert Kondensat in der Fuge und in der Wandkonstruktion
 
-**Blaugelb Triotherm+ Vorblendrahmen (empfohlene Option):**
-- Hochdichtes EPS, λ = 0,040 W/(mK) — vergleichbar mit Mineralwolle
-- Reduziert perimetrales ψ von 0,08 auf 0,01 W/(mK)
-- PassivHaus Institut (PHI) Zertifizierung
+**Blaugelb Triotherm+ Vorblendrahmen (empfohlene Option für das komplette nZEB-Haus):**
+- Hochdichtes EPS, λ = 0,040 W/(mK)
+- Holt das Fenster in die Dämmebene und verringert die längenbezogene Wärmebrücke ψ am Anschluss deutlich; der genaue Wert hängt von der Wand ab und wird je Detail berechnet
+- Vom Passivhaus Institut (PHI) zertifiziertes System
+- Als separate Option auf Anfrage erhältlich
 
 ### Fensterpositionierung in der gedämmten Wand
 
 **Häufiger Fehler:** Fenster in der Mitte der Wandstärke montiert lässt den Rahmen beidseitig thermisch exponiert.
 
-**Korrekt für nZEB:** Fenster im äußeren Drittel der Wandstärke (oder auf Vorblendrahmen in der Dämmebene) eliminiert die Umfangs-Wärmebrücke.
+**Korrekt für nZEB:** Fenster im äußeren Drittel der Wandstärke (oder auf Vorblendrahmen in der Dämmebene) verringert die Wärmebrücke am Fensteranschluss deutlich.
 
 ## Abschnitt 5 — Reale Kosten 2026
 
@@ -786,24 +777,27 @@ Dans une maison avec des murs isolés à 20 cm (U = 0,20 W/m²K) et un toit à 3
 
 ## Section 4 — La pose correcte pour nZEB
 
-Le profilé le plus performant perd **30-50% de son efficacité** avec une mauvaise pose. La norme RAL définit 3 zones obligatoires :
+Même le meilleur profilé perd une partie de sa performance si le joint entre dormant et maçonnerie n’est pas étanché correctement. Le guide de pose RAL divise le joint en 3 zones :
 
-**Zone extérieure :** Bande précomprimée en butyle (Illbruck TP600) — ≥ 600 Pa étanche à l'eau, 20-25 ans de durabilité
+**Zone extérieure :** Bande précomprimée en mousse PU imprégnée (Neofort BIZ utilise des bandes Soudal, par exemple Soudaband PRO BG 1)
+- Étanche à la pluie battante jusqu’à au moins 600 Pa (classe BG1, DIN 18542)
+- Résistante aux UV mais perméable à la vapeur, pour que le joint puisse sécher
 
-**Zone médiane :** Mousse PU à cellules semi-ouvertes — isolation thermique et acoustique
+**Zone médiane :** Mousse PU élastique — isolation thermique et acoustique
 
-**Zone intérieure :** Film PE pare-vapeur — empêche la condensation dans la structure du mur
+**Zone intérieure :** Bande ou film pare-vapeur — empêche la condensation dans le joint et dans la structure du mur
 
-**Précadres Blaugelb Triotherm+ (option recommandée) :**
-- EPS haute densité, λ = 0,040 W/(mK) — comparable à la laine minérale
-- Réduit ψ périphérique de 0,08 à 0,01 W/(mK)
-- Certification PassivHaus Institut (PHI)
+**Précadres Blaugelb Triotherm+ (option recommandée pour un nZEB complet) :**
+- EPS haute densité, λ = 0,040 W/(mK)
+- Ils placent la fenêtre dans la couche isolante et réduisent nettement le pont thermique linéique ψ au pourtour ; la valeur exacte dépend du mur et se calcule par détail
+- Système certifié par le Passive House Institute (PHI)
+- Disponibles en option séparée, sur demande
 
 ### Positionnement de la fenêtre dans le mur isolé
 
 **Erreur fréquente :** Fenêtre montée au milieu de l'épaisseur du mur laisse le cadre thermiquement exposé des deux côtés.
 
-**Correct pour nZEB :** Fenêtre dans le tiers extérieur de l'épaisseur du mur (ou sur précadre) élimine le pont thermique périphérique.
+**Correct pour nZEB :** Fenêtre dans le tiers extérieur de l'épaisseur du mur (ou sur précadre) réduit nettement le pont thermique périphérique.
 
 ## Section 5 — Coûts réels 2026
 
@@ -983,24 +977,27 @@ En una casa con paredes aisladas a 20 cm (U = 0,20 W/m²K) y tejado a 30 cm (U =
 
 ## Sección 4 — La instalación correcta para nZEB
 
-El perfil más eficiente pierde **el 30-50% de su eficiencia** con una instalación incorrecta. La norma RAL define 3 zonas obligatorias:
+Incluso el mejor perfil pierde parte de su rendimiento si la junta entre marco y fábrica no se sella bien. La guía de montaje RAL divide la junta en 3 zonas:
 
-**Zona exterior:** Banda precomprimida de butilo (Illbruck TP600) — ≥ 600 Pa estanca al agua, 20-25 años de durabilidad
+**Zona exterior:** Cinta precomprimida de espuma de PU impregnada (Neofort BIZ usa cintas Soudal, por ejemplo Soudaband PRO BG 1)
+- Estanca a la lluvia batiente hasta al menos 600 Pa (clase BG1, DIN 18542)
+- Resistente a los UV pero permeable al vapor, para que la junta pueda secarse
 
-**Zona media:** Espuma de PU de celda semiabierta — aislamiento térmico y acústico
+**Zona media:** Espuma de PU elástica — aislamiento térmico y acústico
 
-**Zona interior:** Lámina PE barrera de vapor — evita la condensación en la estructura del muro
+**Zona interior:** Cinta o lámina barrera de vapor — evita la condensación en la junta y en la estructura del muro
 
-**Premarcos Blaugelb Triotherm+ (opción recomendada):**
-- EPS de alta densidad, λ = 0,040 W/(mK) — comparable a la lana mineral
-- Reduce ψ perimetral de 0,08 a 0,01 W/(mK)
-- Certificación PassivHaus Institut (PHI)
+**Premarcos Blaugelb Triotherm+ (opción recomendada para un nZEB completo):**
+- EPS de alta densidad, λ = 0,040 W/(mK)
+- Llevan la ventana a la capa de aislamiento y reducen mucho el puente térmico lineal ψ del perímetro; el valor exacto depende del muro y se calcula por detalle
+- Sistema certificado por el Passive House Institute (PHI)
+- Disponibles como opción aparte, bajo pedido
 
 ### Posicionamiento de la ventana en el muro aislado
 
 **Error frecuente:** Ventana montada en el centro del espesor del muro deja el marco térmicamente expuesto por ambas caras.
 
-**Correcto para nZEB:** Ventana en el tercio exterior del espesor del muro (o sobre premarco) elimina el puente térmico perimetral.
+**Correcto para nZEB:** Ventana en el tercio exterior del espesor del muro (o sobre premarco) reduce mucho el puente térmico perimetral.
 
 ## Sección 5 — Costes reales 2026
 
@@ -1180,24 +1177,27 @@ In una casa con pareti isolate a 20 cm (U = 0,20 W/m²K) e tetto a 30 cm (U = 0,
 
 ## Sezione 4 — L'installazione corretta per nZEB
 
-Il profilo più performante perde **il 30-50% della sua efficienza** con un'installazione errata. La norma RAL definisce 3 zone obbligatorie:
+Anche il miglior profilo perde parte della sua prestazione se il giunto tra telaio e muratura non è sigillato bene. La guida di posa RAL divide il giunto in 3 zone:
 
-**Zona esterna:** Nastro precompresso in butile (Illbruck TP600) — ≥ 600 Pa impermeabile, 20-25 anni di durabilità
+**Zona esterna:** Nastro precompresso in schiuma PU impregnata (Neofort BIZ usa nastri Soudal, per esempio Soudaband PRO BG 1)
+- Tenuta alla pioggia battente fino ad almeno 600 Pa (classe BG1, DIN 18542)
+- Resistente ai raggi UV ma permeabile al vapore, perché il giunto possa asciugarsi
 
-**Zona mediana:** Schiuma PU a cellula semi-aperta — isolamento termico e acustico
+**Zona mediana:** Schiuma PU elastica — isolamento termico e acustico
 
-**Zona interna:** Film PE barriera vapore — previene la condensa nella struttura del muro
+**Zona interna:** Nastro o film barriera al vapore — previene la condensa nel giunto e nella struttura del muro
 
-**Controtelai Blaugelb Triotherm+ (opzione raccomandata):**
-- EPS ad alta densità, λ = 0,040 W/(mK) — paragonabile alla lana minerale
-- Riduce ψ perimetrale da 0,08 a 0,01 W/(mK)
-- Certificazione PassivHaus Institut (PHI)
+**Controtelai Blaugelb Triotherm+ (opzione consigliata per un nZEB completo):**
+- EPS ad alta densità, λ = 0,040 W/(mK)
+- Portano la finestra nello strato isolante e riducono molto il ponte termico lineare ψ sul perimetro; il valore esatto dipende dal muro e si calcola per dettaglio
+- Sistema certificato dal Passive House Institute (PHI)
+- Disponibili come opzione separata, su richiesta
 
 ### Posizionamento della finestra nel muro isolato
 
 **Errore frequente:** Finestra montata al centro dello spessore del muro lascia il telaio termicamente esposto su entrambe le facce.
 
-**Corretto per nZEB:** Finestra nel terzo esterno dello spessore del muro (o su precornice) elimina il ponte termico perimetrale.
+**Corretto per nZEB:** Finestra nel terzo esterno dello spessore del muro (o su controtelaio) riduce molto il ponte termico perimetrale.
 
 ## Sezione 5 — Costi reali 2026
 
@@ -4572,14 +4572,13 @@ Precadrul se montează înainte de fereastra propriu-zisă, în planul de izola�
 
 **Performanța precadrului Triotherm+:**
 - Certificare PassivHaus Institut (PHI) pentru utilizare în case pasive
-- Elimină puntea termică lineică ψ (psi) la perimetrul ferestrei: de la ψ = 0,08 W/mK (fără precadru) la ψ = 0,01 W/mK (cu precadru)
-- Îmbunătățire a Uw efectiv: −0,05 până la −0,12 W/(m²K) față de montajul direct în zidărie
+- Reduce mult puntea termică liniară ψ (psi) de la perimetrul ferestrei; valoarea exactă depinde de perete și de poziția ferestrei și se calculează pe detaliu
 
 ## Componenta 4 — Etanșarea perimetrului (banda precomprimată)
 
 Regulamentul RAL pentru montajul profesional de ferestre definește 3 zone de etanșare:
 
-**Zona exterioară:** Bandă precomprimată din butilic (Illbruck TP600, blaugelb TrioSDL) — rezistă la apă (≥ 600 Pa), la UV și la variații de temperatură. Se aplică pe profilul ferestrei înainte de montaj și se expandează după instalare. Durabilitate: 20-25 ani.
+**Zona exterioară:** Bandă precomprimată din spumă PU impregnată (Neofort BIZ folosește benzi Soudal, de exemplu Soudaband PRO BG 1) — etanșă la ploaia bătută de vânt până la cel puțin 600 Pa (clasa BG1, DIN 18542), rezistentă la UV și permeabilă la vapori. Se aplică pe profilul ferestrei înainte de montaj și se expandează după instalare.
 
 **Zona mediană:** Spumă poliuretanică cu celulă semi-deschisă — asigură izolația termică și fonică a spațiului dintre toc și zidărie.
 
@@ -4592,7 +4591,7 @@ Regulamentul RAL pentru montajul profesional de ferestre definește 3 zone de et
 | Componentă | Cost orientativ |
 |---|---|
 | Profil Salamander bluEvolution 92 | 1.100-1.400 lei |
-| Geam triplu + Warm Edge | inclus în preț profil |
+| Geam triplu + Warm Edge | geamul triplu inclus; Warm Edge la cerere, cost separat |
 | Precadru Blaugelb Triotherm+ | 250-350 lei/buc |
 | Montaj profesional cu benzi precomprimate | 300-450 lei |
 | **Total fereastră 100×120 cm nZEB** | **1.650-2.200 lei** |
@@ -4619,10 +4618,10 @@ Pe lângă amortizarea financiară, sistemul nZEB îmbunătățește semnificati
 7. **Siliconarea exterioară** cu silicon neutru UV-rezistent
 8. **Montarea glafurilor** interior (PVC) și exterior (aluminiu cu picurătoare)
 
-Detaliile de montaj cu precadre Blaugelb Triotherm+ sunt tratate pas cu pas aici: [Montaj cu precadre Blaugelb Triotherm+ — de ce este obligatoriu](/ro/blog/montaj-precadre-blaugelb-nzeb).
+Detaliile de montaj cu precadre Blaugelb Triotherm+ sunt tratate pas cu pas aici: [Precadre Blaugelb Triotherm+: fereastra montată în izolație](/ro/blog/montaj-precadre-blaugelb-nzeb).
 
 ---
-Neofort BIZ montează sisteme nZEB complete în București și Ilfov — profil Salamander bluEvolution 92, precadre Blaugelb Triotherm+, geam triplu Saint-Gobain, benzi precomprimate Illbruck. [Solicită ofertă tehnică](/ro/contact). Vezi [sistemele nZEB](/ro/sisteme-nzeb) pe care le oferim.
+Neofort BIZ montează sisteme nZEB complete în București și Ilfov — profil Salamander bluEvolution 92, precadre Blaugelb Triotherm+, geam triplu Saint-Gobain, benzi precomprimate Soudal. [Solicită ofertă tehnică](/ro/contact). Vezi [sistemele nZEB](/ro/sisteme-nzeb) pe care le oferim.
 
 ## Întrebări frecvente
 
@@ -4721,14 +4720,13 @@ The precasing is installed before the window itself, in the plane of the wall’
 
 **The performance of the Triotherm+ precasing:**
 - PassivHaus Institut (PHI) certification for use in passive houses
-- Eliminates the linear thermal bridge ψ (psi) at the window perimeter: from ψ = 0.08 W/mK (without precasing) to ψ = 0.01 W/mK (with precasing)
-- Improvement in effective Uw: −0.05 to −0.12 W/(m²K) against installing directly into the masonry
+- Sharply reduces the linear thermal bridge ψ (psi) at the window perimeter; the exact value depends on the wall and the window position and is calculated per detail
 
 ## Component 4 — Sealing the perimeter (pre-compressed tape)
 
 The RAL guideline for professional window installation defines 3 sealing zones:
 
-**The outer zone:** pre-compressed butyl tape (Illbruck TP600, blaugelb TrioSDL) — resistant to water (≥ 600 Pa), to UV and to temperature variation. It is applied to the window profile before installation and expands once fitted. Durability: 20–25 years.
+**The outer zone:** pre-compressed tape made of impregnated PU foam (Neofort BIZ uses Soudal tapes, for example Soudaband PRO BG 1) — tight against driving rain up to at least 600 Pa (class BG1, DIN 18542), UV resistant and vapour permeable. It is applied to the window profile before installation and expands once fitted.
 
 **The middle zone:** semi-open cell polyurethane foam — provides the thermal and acoustic insulation of the space between frame and masonry.
 
@@ -4741,7 +4739,7 @@ The RAL guideline for professional window installation defines 3 sealing zones:
 | Component | Indicative cost |
 |---|---|
 | Salamander bluEvolution 92 profile | 1,100–1,400 lei |
-| Triple glazing with Warm Edge | included in the profile price |
+| Triple glazing with Warm Edge | triple glazing included; Warm Edge on request, extra cost |
 | Blaugelb Triotherm+ precasing | 250–350 lei each |
 | Professional installation with pre-compressed tapes | 300–450 lei |
 | **Total, 100 × 120 cm nZEB window** | **1,650–2,200 lei** |
@@ -4768,10 +4766,10 @@ Beyond the financial payback, the nZEB system markedly improves thermal comfort 
 7. **External siliconing** with neutral, UV-resistant silicone
 8. **Fitting the window boards** inside (PVC) and outside (aluminium with a drip edge)
 
-The installation details with Blaugelb Triotherm+ precasings are covered step by step here: [installing Blaugelb Triotherm+ precasings — why it is mandatory](/en/blog/blaugelb-triotherm-precasing-installation-nzeb).
+The installation details with Blaugelb Triotherm+ precasings are covered step by step here: [Blaugelb Triotherm+ precasings: the window in the insulation](/en/blog/blaugelb-triotherm-precasing-installation-nzeb).
 
 ---
-Neofort BIZ installs complete nZEB systems in Bucharest and Ilfov — Salamander bluEvolution 92 profile, Blaugelb Triotherm+ precasings, Saint-Gobain triple glazing, Illbruck pre-compressed tapes. [Request a technical quotation](/en/contact). See [the nZEB systems](/en/nzeb-systems) we offer.
+Neofort BIZ installs complete nZEB systems in Bucharest and Ilfov — Salamander bluEvolution 92 profile, Blaugelb Triotherm+ precasings, Saint-Gobain triple glazing, Soudal pre-compressed tapes. [Request a technical quotation](/en/contact). See [the nZEB systems](/en/nzeb-systems) we offer.
 
 ## Frequently asked questions
 
@@ -4869,14 +4867,13 @@ Der Vorblendrahmen wird vor dem eigentlichen Fenster montiert, in der Dämmebene
 
 **Die Leistung des Triotherm+ Vorblendrahmens:**
 - Zertifizierung des PassivHaus Instituts (PHI) für den Einsatz in Passivhäusern
-- Beseitigt die längenbezogene Wärmebrücke ψ (Psi) am Fensteranschluss: von ψ = 0,08 W/mK (ohne Vorblendrahmen) auf ψ = 0,01 W/mK (mit Vorblendrahmen)
-- Verbesserung des effektiven Uw: −0,05 bis −0,12 W/(m²K) gegenüber dem direkten Einbau ins Mauerwerk
+- Verringert die längenbezogene Wärmebrücke ψ (Psi) am Fensteranschluss deutlich; der genaue Wert hängt von Wand und Fensterlage ab und wird je Detail berechnet
 
 ## Komponente 4 — Die Abdichtung des Anschlusses (vorkomprimiertes Band)
 
 Die RAL-Richtlinie für die fachgerechte Fenstermontage definiert 3 Dichtebenen:
 
-**Die äußere Ebene:** vorkomprimiertes Butylband (Illbruck TP600, blaugelb TrioSDL) — beständig gegen Wasser (≥ 600 Pa), UV-Strahlung und Temperaturschwankungen. Es wird vor der Montage auf das Fensterprofil aufgebracht und expandiert nach dem Einbau. Haltbarkeit: 20–25 Jahre.
+**Die äußere Ebene:** vorkomprimiertes Band aus imprägniertem PU-Schaum (Neofort BIZ verwendet Soudal-Bänder, zum Beispiel Soudaband PRO BG 1) — schlagregendicht bis mindestens 600 Pa (Klasse BG1, DIN 18542), UV-beständig und diffusionsoffen. Es wird vor der Montage auf das Fensterprofil aufgebracht und expandiert nach dem Einbau.
 
 **Die mittlere Ebene:** halboffenzelliger Polyurethanschaum — sorgt für die Wärme- und Schalldämmung des Raums zwischen Rahmen und Mauerwerk.
 
@@ -4889,7 +4886,7 @@ Die RAL-Richtlinie für die fachgerechte Fenstermontage definiert 3 Dichtebenen:
 | Komponente | Richtkosten |
 |---|---|
 | Profil Salamander bluEvolution 92 | 1.100–1.400 Lei |
-| Dreifachglas mit Warm Edge | im Profilpreis enthalten |
+| Dreifachglas mit Warm Edge | Dreifachglas enthalten; Warm Edge auf Anfrage, Aufpreis |
 | Blaugelb Triotherm+ Vorblendrahmen | 250–350 Lei je Stück |
 | Fachgerechte Montage mit vorkomprimierten Bändern | 300–450 Lei |
 | **Gesamt, nZEB-Fenster 100 × 120 cm** | **1.650–2.200 Lei** |
@@ -4916,10 +4913,10 @@ Die RAL-Richtlinie für die fachgerechte Fenstermontage definiert 3 Dichtebenen:
 7. **Äußere Versiegelung** mit neutralem, UV-beständigem Silikon
 8. **Montage der Fensterbänke** innen (PVC) und außen (Aluminium mit Tropfkante)
 
-Die Montagedetails mit Blaugelb Triotherm+ Vorblendrahmen werden hier Schritt für Schritt behandelt: [Montage mit Blaugelb Triotherm+ Vorblendrahmen — warum sie zwingend ist](/de/blog/blaugelb-triotherm-vorfenster-montage-nzeb).
+Die Montagedetails mit Blaugelb Triotherm+ Vorblendrahmen werden hier Schritt für Schritt behandelt: [Blaugelb Triotherm+: das Fenster in der Dämmebene montieren](/de/blog/blaugelb-triotherm-vorfenster-montage-nzeb).
 
 ---
-Neofort BIZ montiert komplette nZEB-Systeme in Bukarest und Ilfov — Profil Salamander bluEvolution 92, Blaugelb Triotherm+ Vorblendrahmen, Saint-Gobain Dreifachglas, Illbruck vorkomprimierte Bänder. [Technisches Angebot anfordern](/de/kontakt). Sehen Sie [die nZEB-Systeme](/de/nzeb-systeme), die wir anbieten.
+Neofort BIZ montiert komplette nZEB-Systeme in Bukarest und Ilfov — Profil Salamander bluEvolution 92, Blaugelb Triotherm+ Vorblendrahmen, Saint-Gobain Dreifachglas, vorkomprimierte Soudal-Bänder. [Technisches Angebot anfordern](/de/kontakt). Sehen Sie [die nZEB-Systeme](/de/nzeb-systeme), die wir anbieten.
 
 ## Häufig gestellte Fragen
 
@@ -5017,14 +5014,13 @@ Le précadre se pose avant la fenêtre elle-même, dans le plan d’isolation th
 
 **La performance du précadre Triotherm+ :**
 - Certification PassivHaus Institut (PHI) pour l’usage en maison passive
-- Supprime le pont thermique linéique ψ (psi) au pourtour de la fenêtre : de ψ = 0,08 W/mK (sans précadre) à ψ = 0,01 W/mK (avec précadre)
-- Amélioration du Uw effectif : −0,05 à −0,12 W/(m²K) par rapport à une pose directe en maçonnerie
+- Réduit nettement le pont thermique linéique ψ (psi) au pourtour de la fenêtre ; la valeur exacte dépend du mur et de la position de la fenêtre et se calcule par détail
 
 ## Composant 4 — L’étanchéité du pourtour (bande précomprimée)
 
 Le référentiel RAL pour la pose professionnelle de fenêtres définit 3 plans d’étanchéité :
 
-**Le plan extérieur :** bande précomprimée en butyle (Illbruck TP600, blaugelb TrioSDL) — résistante à l’eau (≥ 600 Pa), aux UV et aux variations de température. Elle s’applique sur le profilé avant la pose et se dilate après installation. Durabilité : 20 à 25 ans.
+**Le plan extérieur :** bande précomprimée en mousse PU imprégnée (Neofort BIZ utilise des bandes Soudal, par exemple Soudaband PRO BG 1) — étanche à la pluie battante jusqu’à au moins 600 Pa (classe BG1, DIN 18542), résistante aux UV et perméable à la vapeur. Elle s’applique sur le profilé avant la pose et se dilate après installation.
 
 **Le plan médian :** mousse polyuréthane à cellules semi-ouvertes — assure l’isolation thermique et acoustique de l’espace entre dormant et maçonnerie.
 
@@ -5037,7 +5033,7 @@ Le référentiel RAL pour la pose professionnelle de fenêtres définit 3 plans 
 | Composant | Coût indicatif |
 |---|---|
 | Profilé Salamander bluEvolution 92 | 1 100–1 400 lei |
-| Triple vitrage avec Warm Edge | compris dans le prix du profilé |
+| Triple vitrage avec Warm Edge | triple vitrage compris ; Warm Edge sur demande, en supplément |
 | Précadre Blaugelb Triotherm+ | 250–350 lei l’unité |
 | Pose professionnelle avec bandes précomprimées | 300–450 lei |
 | **Total, fenêtre nZEB 100 × 120 cm** | **1 650–2 200 lei** |
@@ -5064,10 +5060,10 @@ Au-delà de l’amortissement financier, le système nZEB améliore nettement le
 7. **Siliconage extérieur** au silicone neutre résistant aux UV
 8. **Pose des appuis** intérieurs (PVC) et extérieurs (aluminium avec goutte d’eau)
 
-Les détails de pose avec précadres Blaugelb Triotherm+ sont traités pas à pas ici : [pose avec précadres Blaugelb Triotherm+ — pourquoi elle est obligatoire](/fr/blog/precadres-blaugelb-triotherm-pose-nzeb).
+Les détails de pose avec précadres Blaugelb Triotherm+ sont traités pas à pas ici : [Précadres Blaugelb Triotherm+ : la fenêtre dans l’isolant](/fr/blog/precadres-blaugelb-triotherm-pose-nzeb).
 
 ---
-Neofort BIZ pose des systèmes nZEB complets à Bucarest et dans l’Ilfov — profilé Salamander bluEvolution 92, précadres Blaugelb Triotherm+, triple vitrage Saint-Gobain, bandes précomprimées Illbruck. [Demander un devis technique](/fr/contact). Découvrez [les systèmes nZEB](/fr/systemes-nzeb) que nous proposons.
+Neofort BIZ pose des systèmes nZEB complets à Bucarest et dans l’Ilfov — profilé Salamander bluEvolution 92, précadres Blaugelb Triotherm+, triple vitrage Saint-Gobain, bandes précomprimées Soudal. [Demander un devis technique](/fr/contact). Découvrez [les systèmes nZEB](/fr/systemes-nzeb) que nous proposons.
 
 ## Questions fréquentes
 
@@ -5165,14 +5161,13 @@ El premarco se instala antes que la ventana, en el plano de aislamiento térmico
 
 **Las prestaciones del premarco Triotherm+:**
 - Certificación del PassivHaus Institut (PHI) para uso en casas pasivas
-- Elimina el puente térmico lineal ψ (psi) del perímetro de la ventana: de ψ = 0,08 W/mK (sin premarco) a ψ = 0,01 W/mK (con premarco)
-- Mejora del Uw efectivo: −0,05 a −0,12 W/(m²K) frente al montaje directo en la fábrica
+- Reduce mucho el puente térmico lineal ψ (psi) del perímetro de la ventana; el valor exacto depende del muro y de la posición de la ventana y se calcula por detalle
 
 ## Componente 4 — El sellado del perímetro (cinta precomprimida)
 
 La normativa RAL para el montaje profesional de ventanas define 3 planos de sellado:
 
-**El plano exterior:** cinta precomprimida de butilo (Illbruck TP600, blaugelb TrioSDL) — resistente al agua (≥ 600 Pa), a los UV y a las variaciones de temperatura. Se aplica al perfil antes del montaje y se expande tras la instalación. Durabilidad: 20–25 años.
+**El plano exterior:** cinta precomprimida de espuma de PU impregnada (Neofort BIZ usa cintas Soudal, por ejemplo Soudaband PRO BG 1) — estanca a la lluvia batiente hasta al menos 600 Pa (clase BG1, DIN 18542), resistente a los UV y permeable al vapor. Se aplica al perfil antes del montaje y se expande tras la instalación.
 
 **El plano medio:** espuma de poliuretano de celda semiabierta — proporciona el aislamiento térmico y acústico del espacio entre marco y fábrica.
 
@@ -5185,7 +5180,7 @@ La normativa RAL para el montaje profesional de ventanas define 3 planos de sell
 | Componente | Coste orientativo |
 |---|---|
 | Perfil Salamander bluEvolution 92 | 1.100–1.400 lei |
-| Triple vidrio con Warm Edge | incluido en el precio del perfil |
+| Triple vidrio con Warm Edge | triple vidrio incluido; Warm Edge bajo pedido, coste aparte |
 | Premarco Blaugelb Triotherm+ | 250–350 lei la unidad |
 | Instalación profesional con cintas precomprimidas | 300–450 lei |
 | **Total, ventana nZEB de 100 × 120 cm** | **1.650–2.200 lei** |
@@ -5212,10 +5207,10 @@ Más allá de la amortización financiera, el sistema nZEB mejora notablemente e
 7. **Sellado exterior** con silicona neutra resistente a los UV
 8. **Montaje de los vierteaguas** interiores (PVC) y exteriores (aluminio con goterón)
 
-Los detalles de montaje con premarcos Blaugelb Triotherm+ se tratan paso a paso aquí: [instalación con premarcos Blaugelb Triotherm+ — por qué es obligatoria](/es/blog/instalacion-premarcos-blaugelb-triotherm-nzeb).
+Los detalles de montaje con premarcos Blaugelb Triotherm+ se tratan paso a paso aquí: [Premarcos Blaugelb Triotherm+: la ventana en el aislamiento](/es/blog/instalacion-premarcos-blaugelb-triotherm-nzeb).
 
 ---
-Neofort BIZ instala sistemas nZEB completos en Bucarest e Ilfov — perfil Salamander bluEvolution 92, premarcos Blaugelb Triotherm+, triple vidrio Saint-Gobain, cintas precomprimidas Illbruck. [Solicite un presupuesto técnico](/es/contacto). Vea [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.
+Neofort BIZ instala sistemas nZEB completos en Bucarest e Ilfov — perfil Salamander bluEvolution 92, premarcos Blaugelb Triotherm+, triple vidrio Saint-Gobain, cintas precomprimidas Soudal. [Solicite un presupuesto técnico](/es/contacto). Vea [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.
 
 ## Preguntas frecuentes
 
@@ -5313,14 +5308,13 @@ Il controtelaio si posa prima della finestra vera e propria, nel piano di isolam
 
 **Le prestazioni del controtelaio Triotherm+:**
 - Certificazione PassivHaus Institut (PHI) per l’impiego nelle case passive
-- Elimina il ponte termico lineare ψ (psi) sul perimetro della finestra: da ψ = 0,08 W/mK (senza controtelaio) a ψ = 0,01 W/mK (con controtelaio)
-- Miglioramento dell’Uw effettivo: da −0,05 a −0,12 W/(m²K) rispetto alla posa diretta nella muratura
+- Riduce molto il ponte termico lineare ψ (psi) sul perimetro della finestra; il valore esatto dipende dal muro e dalla posizione della finestra e si calcola per dettaglio
 
 ## Componente 4 — La sigillatura del perimetro (nastro precompresso)
 
 Il regolamento RAL per la posa professionale dei serramenti definisce 3 piani di tenuta:
 
-**Il piano esterno:** nastro precompresso in butile (Illbruck TP600, blaugelb TrioSDL) — resistente all’acqua (≥ 600 Pa), ai raggi UV e alle escursioni termiche. Si applica sul profilo prima della posa e si espande dopo l’installazione. Durata: 20–25 anni.
+**Il piano esterno:** nastro precompresso in schiuma PU impregnata (Neofort BIZ usa nastri Soudal, per esempio Soudaband PRO BG 1) — tenuta alla pioggia battente fino ad almeno 600 Pa (classe BG1, DIN 18542), resistente ai raggi UV e permeabile al vapore. Si applica sul profilo prima della posa e si espande dopo l’installazione.
 
 **Il piano intermedio:** schiuma poliuretanica a celle semiaperte — assicura l’isolamento termico e acustico dello spazio tra telaio e muratura.
 
@@ -5333,7 +5327,7 @@ Il regolamento RAL per la posa professionale dei serramenti definisce 3 piani di
 | Componente | Costo indicativo |
 |---|---|
 | Profilo Salamander bluEvolution 92 | 1.100–1.400 lei |
-| Triplo vetro con Warm Edge | compreso nel prezzo del profilo |
+| Triplo vetro con Warm Edge | triplo vetro compreso; Warm Edge su richiesta, costo a parte |
 | Controtelaio Blaugelb Triotherm+ | 250–350 lei cadauno |
 | Posa professionale con nastri precompressi | 300–450 lei |
 | **Totale, finestra nZEB da 100 × 120 cm** | **1.650–2.200 lei** |
@@ -5360,10 +5354,10 @@ Oltre all’ammortamento finanziario, il sistema nZEB migliora nettamente il com
 7. **Siliconatura esterna** con silicone neutro resistente ai raggi UV
 8. **Montaggio dei davanzali** interni (PVC) ed esterni (alluminio con gocciolatoio)
 
-I dettagli di posa con controtelai Blaugelb Triotherm+ sono trattati passo per passo qui: [posa con controtelai Blaugelb Triotherm+ — perché è obbligatoria](/it/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb).
+I dettagli di posa con controtelai Blaugelb Triotherm+ sono trattati passo per passo qui: [Controtelai Blaugelb Triotherm+: la finestra nell’isolamento](/it/blog/installazione-precontrotelaio-blaugelb-triotherm-nzeb).
 
 ---
-Neofort BIZ posa sistemi nZEB completi a Bucarest e nell’Ilfov — profilo Salamander bluEvolution 92, controtelai Blaugelb Triotherm+, triplo vetro Saint-Gobain, nastri precompressi Illbruck. [Richiedete un preventivo tecnico](/it/contatti). Scoprite [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
+Neofort BIZ posa sistemi nZEB completi a Bucarest e nell’Ilfov — profilo Salamander bluEvolution 92, controtelai Blaugelb Triotherm+, triplo vetro Saint-Gobain, nastri precompressi Soudal. [Richiedete un preventivo tecnico](/it/contatti). Scoprite [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
 
 ## Domande frequenti
 
@@ -6141,7 +6135,7 @@ Rupere de punte termică 40 mm, Uf de la 0,86 W/(m²K) la profil — echipat cu 
 - Tipul de montaj inclus în preț (standard cu spumă sau nZEB cu benzi precomprimate)
 
 **Întreabă explicit:**
-- Este montajul cu benzi precomprimate Illbruck sau echivalent inclus?
+- Este montajul cu benzi precomprimate de marcă (de exemplu Soudal) inclus?
 - Sunt precadrele Blaugelb Triotherm+ disponibile și la ce cost suplimentar?
 - Ce garanție oferiți separat pe produs și pe manoperă?
 
@@ -6161,7 +6155,7 @@ Rupere de punte termică 40 mm, Uf de la 0,86 W/(m²K) la profil — echipat cu 
 3. **Măsurători la fața locului** — echipa noastră vine și măsoară golurile exacte
 4. **Ofertă personalizată în 48 de ore** — cu specificații tehnice complete, transparente
 5. **Producție și livrare** — 7–14 zile lucrătoare pentru profiluri standard
-6. **Montaj nZEB** — echipe proprii cu benzi precomprimate Illbruck și precadre Blaugelb
+6. **Montaj nZEB** — echipe proprii cu benzi precomprimate Soudal și precadre Blaugelb
 7. **Garanție 5 ani** pe produs și manoperă
 
 ## Zone deservite în București și Ilfov
@@ -6234,7 +6228,7 @@ Without all these elements together, a manufacturer cannot legitimately speak of
 - Type of installation included in price (standard foam or nZEB with pre-compressed bands)
 
 **Ask explicitly:**
-- Is installation with Illbruck or equivalent pre-compressed bands included?
+- Is installation with branded pre-compressed tapes (for example Soudal) included?
 - Are Blaugelb Triotherm+ preframes available and at what additional cost?
 - What warranty do you offer separately on product and workmanship?
 
@@ -6249,7 +6243,7 @@ Without all these elements together, a manufacturer cannot legitimately speak of
 3. **On-site measurements** — our team comes and measures the exact openings
 4. **Personalised quote within 24 hours** — with complete, transparent technical specifications
 5. **Production and delivery** — 7–14 working days for standard profiles
-6. **nZEB installation** — own teams with Illbruck pre-compressed bands and Blaugelb preframes
+6. **nZEB installation** — own teams with Soudal pre-compressed tapes and Blaugelb preframes
 7. **5-year warranty** on product and workmanship
 
 ## Delivery and Installation Areas in Bucharest and Ilfov
@@ -6319,7 +6313,7 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 - Montage-Art im Preis enthalten (Standardschaum oder nZEB mit vorkomprimierten Bändern)
 
 **Ausdrücklich fragen:**
-- Ist Montage mit Illbruck oder gleichwertigen vorkomprimierten Bändern enthalten?
+- Ist die Montage mit vorkomprimierten Markenbändern (zum Beispiel Soudal) enthalten?
 - Sind Blaugelb Triotherm+ Vorblendrahmen verfügbar und zu welchem Aufpreis?
 
 ## Zeichen für einen seriösen Anbieter
@@ -6333,7 +6327,7 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 3. **Aufmaß vor Ort** — unser Team kommt und misst die genauen Öffnungen
 4. **Individuelles Angebot in 48 Stunden** — mit vollständigen, transparenten technischen Spezifikationen
 5. **Produktion und Lieferung** — 7–14 Werktage für Standardprofile
-6. **nZEB-Montage** — Eigenteams mit Illbruck-Bändern und Blaugelb-Vorblendrahmen
+6. **nZEB-Montage** — Eigenteams mit Soudal-Bändern und Blaugelb-Vorblendrahmen
 7. **5 Jahre Garantie** auf Produkt und Montage
 
 ## Liefer- und Montagegebiete in Bukarest und Ilfov
@@ -6403,7 +6397,7 @@ Rupture thermique 40 mm, Uf à partir de 0,86 W/(m²K) au profilé — avec trip
 - Type de pose inclus dans le prix (mousse standard ou nZEB avec bandes précomprimées)
 
 **Demander explicitement :**
-- La pose avec bandes précomprimées Illbruck ou équivalent est-elle incluse ?
+- La pose avec des bandes précomprimées de marque (par exemple Soudal) est-elle incluse ?
 - Les précadres Blaugelb Triotherm+ sont-ils disponibles et à quel coût supplémentaire ?
 
 ## Signes qu'un fournisseur est sérieux
@@ -6417,7 +6411,7 @@ Rupture thermique 40 mm, Uf à partir de 0,86 W/(m²K) au profilé — avec trip
 3. **Métrage sur place** — notre équipe vient mesurer les ouvertures exactes
 4. **Devis personnalisé en 48 heures** — avec spécifications techniques complètes et transparentes
 5. **Production et livraison** — 7 à 14 jours ouvrables pour les profilés standard
-6. **Pose nZEB** — équipes propres avec bandes Illbruck et précadres Blaugelb
+6. **Pose nZEB** — équipes propres avec bandes Soudal et précadres Blaugelb
 7. **Garantie 5 ans** sur produit et main-d'œuvre
 
 ---
@@ -6483,7 +6477,7 @@ Rotura térmica 40 mm, Uf desde 0,86 W/(m²K) en el perfil — con triple acrist
 - Tipo de instalación incluida en el precio (espuma estándar o nZEB con bandas precomprimidas)
 
 **Preguntar explícitamente:**
-- ¿Está incluida la instalación con bandas precomprimidas Illbruck o equivalente?
+- ¿Está incluida la instalación con cintas precomprimidas de marca (por ejemplo Soudal)?
 - ¿Están disponibles los premarcos Blaugelb Triotherm+ y a qué coste adicional?
 
 ## Señales de que un proveedor es serio
@@ -6497,7 +6491,7 @@ Rotura térmica 40 mm, Uf desde 0,86 W/(m²K) en el perfil — con triple acrist
 3. **Mediciones in situ** — nuestro equipo viene y mide las aperturas exactas
 4. **Presupuesto personalizado en 48 horas** — con especificaciones técnicas completas y transparentes
 5. **Producción y entrega** — 7–14 días hábiles para perfiles estándar
-6. **Instalación nZEB** — equipos propios con bandas Illbruck y premarcos Blaugelb
+6. **Instalación nZEB** — equipos propios con cintas Soudal y premarcos Blaugelb
 7. **Garantía de 5 años** en producto y mano de obra
 
 ---
@@ -6563,7 +6557,7 @@ Taglio termico 40 mm, Uf a partire da 0,86 W/(m²K) al profilo — con triplo ve
 - Tipo di installazione incluso nel prezzo (schiuma standard o nZEB con nastri precompressi)
 
 **Chiedere esplicitamente:**
-- L'installazione con nastri precompressi Illbruck o equivalente è inclusa?
+- L'installazione con nastri precompressi di marca (per esempio Soudal) è inclusa?
 - I controtelai Blaugelb Triotherm+ sono disponibili e a quale costo aggiuntivo?
 
 ## Segnali che un fornitore è serio
@@ -6577,7 +6571,7 @@ Taglio termico 40 mm, Uf a partire da 0,86 W/(m²K) al profilo — con triplo ve
 3. **Misurazioni in loco** — il nostro team viene e misura le aperture esatte
 4. **Preventivo personalizzato in 48 ore** — con specifiche tecniche complete e trasparenti
 5. **Produzione e consegna** — 7–14 giorni lavorativi per profili standard
-6. **Installazione nZEB** — team propri con nastri Illbruck e controtelai Blaugelb
+6. **Installazione nZEB** — team propri con nastri Soudal e controtelai Blaugelb
 7. **Garanzia di 5 anni** su prodotto e manodopera
 
 ---
@@ -8015,7 +8009,7 @@ Montajul profesional nZEB respectă **regula RAL** (Asociația Germană de Calit
 - Spumă poliuretanică cu celulă semi-deschisă în restul spațiului
 
 **Zona exterioară — etanșare la apă:**
-- **Bandă precomprimată din butilic** (ex. Illbruck TP600, Soudal Compriband) — se expandează după montaj și etanșează perimetrul exterior împotriva apei și vântului
+- **Bandă precomprimată din spumă PU impregnată** (de exemplu Soudal Soudaband PRO BG 1) — se expandează după montaj și etanșează perimetrul exterior împotriva apei și vântului
 - Aceasta înlocuiește chiturile clasice care crapă în timp și permit infiltrații
 
 ## Etapa 4 — Reglarea feronieriei
@@ -8047,7 +8041,7 @@ După montaj, feroneria Roto NT sau Winkhaus trebuie **reglată precis** în toa
 
 ---
 
-Neofort BIZ execută montaje termopane Salamander în București și Ilfov cu echipe proprii certificate, benzi precomprimate Illbruck și precadre Blaugelb Triotherm Plus. [Solicită ofertă montaj](/ro/contact). Vezi toată gama de [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care le montăm.
+Neofort BIZ execută montaje termopane Salamander în București și Ilfov cu echipe proprii certificate, benzi precomprimate Soudal și precadre Blaugelb Triotherm Plus. [Solicită ofertă montaj](/ro/contact). Vezi toată gama de [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care le montăm.
 
 ## Întrebări frecvente
 
@@ -8106,7 +8100,7 @@ Professional nZEB installation follows the **RAL standard** (German Quality Asso
 - Semi-open cell polyurethane foam in the remaining space
 
 **Exterior zone — water sealing:**
-- **Pre-compressed butyl band** (e.g. Illbruck TP600, Soudal Compriband) — expands after installation and seals the external perimeter against water and wind
+- **Pre-compressed impregnated PU foam tape** (e.g. Soudal Soudaband PRO BG 1) — expands after installation and seals the external perimeter against water and wind
 - This replaces classic sealants that crack over time and allow infiltrations
 
 ## Step 4 — Hardware Adjustment
@@ -8129,7 +8123,7 @@ After installation, Roto NT or Winkhaus hardware must be **precisely adjusted** 
 
 ---
 
-Neofort BIZ installs Salamander windows in Bucharest and Ilfov with certified in-house teams, Illbruck pre-compressed bands and Blaugelb Triotherm Plus preframes. [Request installation quote](/en/contact). See the full range of [Salamander PVC windows](/en/pvc-windows) we install.
+Neofort BIZ installs Salamander windows in Bucharest and Ilfov with certified in-house teams, Soudal pre-compressed tapes and Blaugelb Triotherm Plus preframes. [Request installation quote](/en/contact). See the full range of [Salamander PVC windows](/en/pvc-windows) we install.
 
 ## Frequently Asked Questions
 
@@ -8188,7 +8182,7 @@ Professionelle nZEB-Montage folgt der **RAL-Richtlinie** (Gütegemeinschaft Fens
 - Halboffenzelliger PU-Schaum im restlichen Raum
 
 **Außenbereich — Wasserabdichtung:**
-- **Vorkomprimiertes Butylband** (z.B. Illbruck TP600, Soudal Compriband) — dehnt sich nach der Montage aus und dichtet den Außenperimeter gegen Wasser und Wind ab
+- **Vorkomprimiertes Band aus imprägniertem PU-Schaum** (z.B. Soudal Soudaband PRO BG 1) — dehnt sich nach der Montage aus und dichtet den Außenperimeter gegen Wasser und Wind ab
 
 ## Schritt 4 — Beschlagseinstellung
 
@@ -8210,7 +8204,7 @@ Nach der Montage müssen Roto NT oder Winkhaus Beschläge **präzise in allen 3 
 
 ---
 
-Neofort BIZ montiert Salamander-Fenster in Bukarest und Ilfov mit zertifizierten Eigenteams, Illbruck-Bändern und Blaugelb Triotherm Plus Vorblendrahmen. [Angebot Montage anfordern](/de/kontakt). Sehen Sie das gesamte Sortiment an [Salamander PVC-Fenster](/de/kunststofffenster-pvc), die wir montieren.
+Neofort BIZ montiert Salamander-Fenster in Bukarest und Ilfov mit zertifizierten Eigenteams, Soudal-Bändern und Blaugelb Triotherm Plus Vorblendrahmen. [Angebot Montage anfordern](/de/kontakt). Sehen Sie das gesamte Sortiment an [Salamander PVC-Fenster](/de/kunststofffenster-pvc), die wir montieren.
 
 ## Häufig gestellte Fragen
 
@@ -8269,7 +8263,7 @@ La pose professionnelle nZEB respecte la **norme RAL** (Association allemande de
 - Mousse PU à cellule semi-ouverte dans l'espace restant
 
 **Zone extérieure — étanchéité à l'eau :**
-- **Bande précomprimée en butyle** (ex. Illbruck TP600, Soudal Compriband) — se dilate après pose et étanche le périmètre extérieur contre l'eau et le vent
+- **Bande précomprimée en mousse PU imprégnée** (ex. Soudal Soudaband PRO BG 1) — se dilate après pose et étanche le périmètre extérieur contre l'eau et le vent
 
 ## Étape 4 — Réglage de la quincaillerie
 
@@ -8291,7 +8285,7 @@ Après la pose, la quincaillerie Roto NT ou Winkhaus doit être **réglée préc
 
 ---
 
-Neofort BIZ pose des fenêtres Salamander à Bucarest et Ilfov avec des équipes certifiées, bandes Illbruck et précadres Blaugelb Triotherm Plus. [Demander un devis pose](/fr/contact). Voir toute la gamme de [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous posons.
+Neofort BIZ pose des fenêtres Salamander à Bucarest et Ilfov avec des équipes certifiées, bandes Soudal et précadres Blaugelb Triotherm Plus. [Demander un devis pose](/fr/contact). Voir toute la gamme de [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous posons.
 
 ## Questions fréquentes
 
@@ -8350,7 +8344,7 @@ La instalación profesional nZEB sigue la **norma RAL** (Asociación Alemana de 
 - Espuma de PU de celda semiabierta en el espacio restante
 
 **Zona exterior — estanqueidad al agua:**
-- **Banda precomprimida de butilo** (ej. Illbruck TP600, Soudal Compriband) — se expande tras la instalación y sella el perímetro exterior contra agua y viento
+- **Cinta precomprimida de espuma de PU impregnada** (ej. Soudal Soudaband PRO BG 1) — se expande tras la instalación y sella el perímetro exterior contra agua y viento
 
 ## Paso 4 — Ajuste de la herraje
 
@@ -8372,7 +8366,7 @@ Tras la instalación, la herraje Roto NT o Winkhaus debe ser **ajustado con prec
 
 ---
 
-Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos certificados, bandas Illbruck y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contacto). Ver toda la gama de [la carpintería PVC Salamander](/es/carpinteria-pvc) que instalamos.
+Neofort BIZ instala ventanas Salamander en Bucarest e Ilfov con equipos certificados, cintas Soudal y premarcos Blaugelb Triotherm Plus. [Solicitar presupuesto instalación](/es/contacto). Ver toda la gama de [la carpintería PVC Salamander](/es/carpinteria-pvc) que instalamos.
 
 ## Preguntas frecuentes
 
@@ -8431,7 +8425,7 @@ L'installazione professionale nZEB segue la **norma RAL** (Associazione tedesca 
 - Schiuma PU a cella semi-aperta nello spazio rimanente
 
 **Zona esterna — tenuta all'acqua:**
-- **Nastro precompresso in butile** (es. Illbruck TP600, Soudal Compriband) — si espande dopo l'installazione e sigilla il perimetro esterno contro acqua e vento
+- **Nastro precompresso in schiuma PU impregnata** (es. Soudal Soudaband PRO BG 1) — si espande dopo l'installazione e sigilla il perimetro esterno contro acqua e vento
 
 ## Fase 4 — Regolazione della ferramenta
 
@@ -8453,7 +8447,7 @@ Dopo l'installazione, la ferramenta Roto NT o Winkhaus deve essere **regolata co
 
 ---
 
-Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Illbruck e controtelai Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contatti). Vedi tutta la gamma di [gli infissi PVC Salamander](/it/infissi-pvc) che montiamo.
+Neofort BIZ installa finestre Salamander a Bucarest e Ilfov con team certificati, nastri Soudal e controtelai Blaugelb Triotherm Plus. [Richiedere preventivo installazione](/it/contatti). Vedi tutta la gamma di [gli infissi PVC Salamander](/it/infissi-pvc) che montiamo.
 
 ## Domande frequenti
 
@@ -14251,7 +14245,7 @@ Neofort BIZ fornisce e posa serramenti in alluminio Alumil a taglio termico a Bu
       es: "Muros cortina y fachadas de vidrio: los 3 tipos de sistema, precios de 160–500 EUR/m² sin IVA y las fases de un proyecto. Sistemas Alumil, Bucarest.",
       it: "Pareti continue e facciate in vetro: i 3 tipi di sistema, prezzi indicativi di 160–500 EUR/m² IVA esclusa e le fasi di un progetto. Sistemi Alumil.",
     },
-    keywords: 'pereti cortina aluminiu sticla, fatada cortina pret, perete cortina structural, perete cortina semi-structural, Alumil CW50, fatade din sticla cladiri, pereti cortina pret mp, montaj pereti cortina Romania',
+    keywords: 'pereti cortina aluminiu sticla, fatada cortina pret, perete cortina structural, perete cortina semi-structural, Reynaers CW 50, Alumil SMARTIA M50, fatade din sticla cladiri, pereti cortina pret mp, montaj pereti cortina Romania',
     content: {
       ro: `## Ce este un perete cortină
 
@@ -15402,7 +15396,7 @@ Potrivit pentru: terase rezidențiale unde vrei umbră fără să te izolezi, re
 | Vizibilitate | Screen: **DA** · Blackout: nu | Nu |
 | Reducere aport solar | Blackout: până la 95% | Până la 70% |
 | Izolare termică nocturnă | Mică | **Bună (ΔU ≈ 0,3 W/m²K)** |
-| Antiefracție | Nu | RC3 cu ghidaje securizate |
+| Barieră fizică în fața geamului | Nu | Da, când e coborât |
 | Dimensiuni maxime | **5.000 × 5.000 mm, max. 16 m²** | 4.500 × 3.000 mm |
 | Potrivit pentru | Terase, pergole, fațade mari | Ferestre, balcoane |
 | Preț orientativ | 225–450 EUR/mp | 85–220 EUR/mp |
@@ -15558,7 +15552,7 @@ Suited to: residential terraces where you want shade without shutting yourself i
 | Visibility | Screen: **YES** · Blackout: no | No |
 | Solar gain reduction | Blackout: up to 95% | Up to 70% |
 | Night-time thermal insulation | Low | **Good (ΔU ≈ 0.3 W/m²K)** |
-| Burglar resistance | No | RC3 with secured guides |
+| Physical barrier in front of the glass | No | Yes, when lowered |
 | Maximum dimensions | **5,000 × 5,000 mm, max. 16 m²** | 4,500 × 3,000 mm |
 | Suited to | Terraces, pergolas, large facades | Windows, balconies |
 | Indicative price | 225–450 EUR/m² | 85–220 EUR/m² |
@@ -15714,7 +15708,7 @@ Geeignet für: Wohnterrassen, auf denen Sie Schatten möchten, ohne sich abzusch
 | Durchsicht | Screen: **JA** · Blackout: nein | Nein |
 | Reduzierung des Sonneneintrags | Blackout: bis 95 % | Bis 70 % |
 | Nächtliche Wärmedämmung | Gering | **Gut (ΔU ≈ 0,3 W/m²K)** |
-| Einbruchhemmung | Nein | RC3 mit gesicherten Führungen |
+| Physische Barriere vor dem Glas | Nein | Ja, wenn heruntergelassen |
 | Maximale Maße | **5.000 × 5.000 mm, max. 16 m²** | 4.500 × 3.000 mm |
 | Geeignet für | Terrassen, Pergolen, große Fassaden | Fenster, Balkone |
 | Richtpreis | 225–450 EUR/m² | 85–220 EUR/m² |
@@ -15870,7 +15864,7 @@ Adapté aux : terrasses résidentielles où l’on veut de l’ombre sans s’is
 | Visibilité | Screen : **OUI** · Occultant : non | Non |
 | Réduction des apports solaires | Occultant : jusqu’à 95 % | Jusqu’à 70 % |
 | Isolation thermique nocturne | Faible | **Bonne (ΔU ≈ 0,3 W/m²K)** |
-| Anti-effraction | Non | RC3 avec coulisses sécurisées |
+| Barrière physique devant le vitrage | Non | Oui, une fois baissé |
 | Dimensions maximales | **5 000 × 5 000 mm, max. 16 m²** | 4 500 × 3 000 mm |
 | Adapté à | Terrasses, pergolas, grandes façades | Fenêtres, balcons |
 | Prix indicatif | 225–450 EUR/m² | 85–220 EUR/m² |
@@ -16026,7 +16020,7 @@ Adecuado para: terrazas residenciales donde se quiere sombra sin aislarse, resta
 | Visibilidad | Screen: **SÍ** · Blackout: no | No |
 | Reducción de la ganancia solar | Blackout: hasta el 95 % | Hasta el 70 % |
 | Aislamiento térmico nocturno | Bajo | **Bueno (ΔU ≈ 0,3 W/m²K)** |
-| Antirrobo | No | RC3 con guías de seguridad |
+| Barrera física delante del vidrio | No | Sí, cuando está bajada |
 | Dimensiones máximas | **5.000 × 5.000 mm, máx. 16 m²** | 4.500 × 3.000 mm |
 | Adecuado para | Terrazas, pérgolas, fachadas grandes | Ventanas, balcones |
 | Precio orientativo | 225–450 EUR/m² | 85–220 EUR/m² |
@@ -16182,7 +16176,7 @@ Adatto a: terrazze residenziali dove si vuole ombra senza isolarsi, ristoranti e
 | Visibilità | Screen: **SÌ** · Oscurante: no | No |
 | Riduzione dell’apporto solare | Oscurante: fino al 95% | Fino al 70% |
 | Isolamento termico notturno | Basso | **Buono (ΔU ≈ 0,3 W/m²K)** |
-| Antieffrazione | No | RC3 con guide di sicurezza |
+| Barriera fisica davanti al vetro | No | Sì, quando è abbassata |
 | Dimensioni massime | **5.000 × 5.000 mm, max. 16 m²** | 4.500 × 3.000 mm |
 | Adatto a | Terrazze, pergole, grandi facciate | Finestre, balconi |
 | Prezzo indicativo | 225–450 EUR/m² | 85–220 EUR/m² |
@@ -18657,185 +18651,170 @@ Neofort BIZ progetta e installa serramenti in alluminio Alumil a Bucarest e Ilfo
     imageLabel: 'Birouri & Fațade',
     accentColor: '#050c13',
     title: {
-      ro: 'Pereți cortină pentru clădiri de birouri București — ghid complet 2026: sisteme, prețuri și proiectare',
-      en: 'Curtain walls for office buildings in Bucharest — complete guide 2026: systems, prices and design',
-      de: 'Vorhangfassaden für Bürogebäude in Bukarest — Komplettleitfaden 2026: Systeme, Preise und Planung',
-      fr: 'Murs rideaux pour immeubles de bureaux à Bucarest — guide complet 2026 : systèmes, prix et conception',
-      es: 'Muros cortina para edificios de oficinas en Bucarest — guía completa 2026: sistemas, precios y diseño',
-      it: 'Pareti cortina per edifici per uffici a Bucarest — guida completa 2026: sistemi, prezzi e progettazione',
+      ro: 'Pereți cortină pentru birouri București: sisteme și prețuri',
+      en: 'Curtain walls for offices in Bucharest: systems and prices',
+      de: 'Vorhangfassaden für Büros in Bukarest: Systeme und Preise',
+      fr: 'Murs-rideaux pour bureaux à Bucarest : systèmes et prix',
+      es: 'Muros cortina para oficinas en Bucarest: sistemas y precios',
+      it: 'Facciate continue per uffici a Bucarest: sistemi e prezzi',
     },
     excerpt: {
-      ro: 'Piața de birouri din București a livrat peste 250.000 mp de spații noi în 2024–2025, toate cu cerință de fațadă cortină certificată. Ghid complet pentru dezvoltatori și arhitecți: ce sisteme Alumil sunt disponibile în stoc la București, cum se calculează un proiect de perete cortină și ce costuri reale să aștepți în 2026.',
-      en: 'The Bucharest office market delivered over 250,000 m² of new space in 2024–2025, all requiring certified curtain wall facades. Complete guide for developers and architects: which Alumil systems are in stock in Bucharest, how to calculate a curtain wall project and what real costs to expect in 2026.',
-      de: 'Der Bukarester Büromarkt lieferte 2024–2025 über 250.000 m² neue Flächen, alle mit Anforderung an zertifizierte Vorhangfassaden. Komplettleitfaden für Entwickler und Architekten: welche Alumil-Systeme in Bukarest vorrätig sind, wie ein Vorhangfassadenprojekt berechnet wird und welche realen Kosten 2026 zu erwarten sind.',
-      fr: "Le marché des bureaux à Bucarest a livré plus de 250 000 m² de nouveaux espaces en 2024–2025, tous avec exigence de façade rideau certifiée. Guide complet pour promoteurs et architectes : quels systèmes Alumil sont disponibles en stock à Bucarest, comment calculer un projet de mur rideau et quels coûts réels attendre en 2026.",
-      es: 'El mercado de oficinas de Bucarest entregó más de 250.000 m² de nuevos espacios en 2024–2025, todos con requisito de fachada cortina certificada. Guía completa para promotores y arquitectos: qué sistemas Alumil están en stock en Bucarest, cómo calcular un proyecto de muro cortina y qué costes reales esperar en 2026.',
-      it: 'Il mercato degli uffici di Bucarest ha consegnato oltre 250.000 m² di nuovi spazi nel 2024–2025, tutti con requisito di facciata continua certificata. Guida completa per sviluppatori e architetti: quali sistemi Alumil sono disponibili in stock a Bucarest, come calcolare un progetto di parete cortina e quali costi reali aspettarsi nel 2026.',
+      ro: 'Ghid pentru dezvoltatori și arhitecți: sistemele de pereți cortină Reynaers CW 50, CW 60 și Alumil SMARTIA M50, cerințele unei fațade de birouri, etapele unui proiect și prețurile orientative în EUR pentru 2026.',
+      en: 'A guide for developers and architects: the Reynaers CW 50, CW 60 and Alumil SMARTIA M50 curtain wall systems, the requirements of an office facade, the stages of a project and indicative 2026 prices in EUR.',
+      de: 'Leitfaden für Projektentwickler und Architekten: die Vorhangfassaden Reynaers CW 50, CW 60 und Alumil SMARTIA M50, die Anforderungen an eine Bürofassade, die Projektphasen und Richtpreise 2026 in EUR.',
+      fr: "Guide pour promoteurs et architectes : les murs-rideaux Reynaers CW 50, CW 60 et Alumil SMARTIA M50, les exigences d’une façade de bureaux, les étapes d’un projet et les prix indicatifs 2026 en EUR.",
+      es: 'Guía para promotores y arquitectos: los muros cortina Reynaers CW 50, CW 60 y Alumil SMARTIA M50, los requisitos de una fachada de oficinas, las fases de un proyecto y los precios orientativos 2026 en EUR.',
+      it: 'Guida per sviluppatori e architetti: le facciate continue Reynaers CW 50, CW 60 e Alumil SMARTIA M50, i requisiti di una facciata per uffici, le fasi di un progetto e i prezzi indicativi 2026 in EUR.',
     },
     metaDesc: {
-      ro: "Pereți cortină pentru clădiri de birouri: sisteme Alumil, control solar, cerințe de proiectare și prețuri pe metru pătrat de fațadă.",
-      en: "Curtain walls for office buildings: Alumil systems, solar control, design requirements and prices per square metre of facade.",
-      de: "Vorhangfassaden für Bürogebäude: Alumil-Systeme, Sonnenschutz, Planungsanforderungen und Preise pro Quadratmeter Fassade.",
-      fr: "Murs-rideaux pour immeubles de bureaux : systèmes Alumil, contrôle solaire, exigences de conception et prix au mètre carré de façade.",
-      es: "Muros cortina para edificios de oficinas: sistemas Alumil, control solar, requisitos de proyecto y precios por metro cuadrado de fachada.",
-      it: "Pareti continue per edifici per uffici: sistemi Alumil, controllo solare, requisiti di progetto e prezzi al metro quadro di facciata.",
+      ro: "Pereți cortină pentru clădiri de birouri: sisteme Reynaers și Alumil, control solar, cerințe de proiectare și prețuri în EUR pe mp de fațadă.",
+      en: "Curtain walls for office buildings: Reynaers and Alumil systems, solar control, design requirements and prices in EUR per square metre of facade.",
+      de: "Vorhangfassaden für Bürogebäude: Reynaers- und Alumil-Systeme, Sonnenschutz, Planungsanforderungen und Preise in EUR pro m² Fassade.",
+      fr: "Murs-rideaux pour bureaux : systèmes Reynaers et Alumil, contrôle solaire, exigences de conception et prix en EUR au m² de façade.",
+      es: "Muros cortina para oficinas: sistemas Reynaers y Alumil, control solar, requisitos de proyecto y precios en EUR por m² de fachada.",
+      it: "Facciate continue per uffici: sistemi Reynaers e Alumil, controllo solare, requisiti di progetto e prezzi in EUR al m² di facciata.",
     },
     keywords: 'pereti cortina birouri Bucuresti, fatada sticla cladire birouri pret, perete cortina Alumil pret mp, fatade comerciale aluminiu Bucuresti, perete cortina structural Bucuresti, proiectare fatada cortina, perete cortina pret 2026, fatada ventilata aluminiu birouri',
     content: {
       ro: `## Piața de birouri din București și cerința de fațadă modernă
 
-Bucureștiul este cea mai activă piață de birouri din Europa de Sud-Est. În 2024–2025, stocul modern de birouri a depășit **4 milioane mp**, cu 15–20 proiecte noi anual în zone precum Floreasca-Barbu Văcărescu, Pipera, Centru-Vest și Timpuri Noi.
+Bucureștiul este cea mai mare piață de birouri din România, iar clădirile noi de clasă A se concentrează în zone precum Floreasca–Barbu Văcărescu, Pipera, Centru-Vest și Timpuri Noi.
 
-**Standardul de facto** pentru orice clădire de birouri de clasă A din București în 2026 este fațada cortină din aluminiu și sticlă — cerință impusă de chiriașii corporativi (multinaționale), de standardele de certificare energetică (BREEAM, LEED, DGNB) și de normele de eficiență energetică europene.
+**Standardul de facto** pentru o clădire de birouri de clasă A este fațada cortină din aluminiu și sticlă. O cer chiriașii corporativi, o susțin certificările de clădire verde (BREEAM, LEED, DGNB) și o impun, indirect, cerințele de performanță energetică.
 
-Neofort BIZ lucrează direct cu **dezvoltatori imobiliari, arhitecți și antreprenori generali** din București pentru livrarea și [montajul](/ro/servicii) sistemelor Alumil de pereți cortină. Această pagină centralizează tot ce trebuie să știi înainte de a deschide un dosar de proiect. Vezi și [ghidul complet al tâmplăriei din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).
+Neofort BIZ lucrează cu **dezvoltatori imobiliari, arhitecți și antreprenori generali** din București pentru livrarea și [montajul](/ro/servicii) pereților cortină din sistemele Reynaers și Alumil. Pagina de față adună ce trebuie știut înainte de a deschide un dosar de proiect. Vezi și [ghidul complet al tâmplăriei din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet).
 
 ---
 
 ## Ce face o fațadă cortină potrivită pentru birouri
 
-Spre deosebire de o clădire rezidențială, o fațadă de birouri trebuie să îndeplinească simultan **cerințe tehnice, estetice și de certificare** mult mai stricte:
+Spre deosebire de o casă, o fațadă de birouri trebuie să îndeplinească în același timp **cerințe tehnice, estetice și de documentare** mult mai stricte:
 
 **Cerințe tehnice:**
-- Rezistență la vânt: clasa C4/B4 (presiune ≥ 2.000 Pa) pentru înălțimi peste 20m
-- Etanșeitate la apă: clasa E1050 sau E1200
-- Permeabilitate la aer: clasa A4
-- Rezistență termică: Uw ansamblu ≤ 1,4 W/m²K (cerință BREEAM Very Good)
-- Rezistență la foc: minimum EI 30 la compartimentare etaje
+- Rezistență la vânt stabilită prin calcul, după EN 1991-1-4, pentru înălțimea și amplasamentul clădirii
+- Etanșeitate la apă și permeabilitate la aer declarate după EN 13830
+- Performanță termică a ansamblului calculată pe proiect, după EN ISO 12631
+- Comportare la foc stabilită prin scenariul de securitate la incendiu al clădirii
 
 **Cerințe estetice:**
 - Linie vizuală uniformă pe toate fațadele
-- Compatibilitate cu sisteme de umbrire integrate (jaluzele Raffstore în casetă)
-- Opțiuni de sticlă reflexivă, serigrafie sau imprimare digitală
-- Posibilitate de vopsire RAL special sau anodizare
+- Compatibilitate cu umbrirea exterioară (jaluzele Raffstore sau Zipscreen)
+- Sticlă reflexivă, serigrafiată sau cu control solar
+- Vopsire în culori RAL speciale sau anodizare
 
-**Cerințe de certificare:**
-- Declarație de performanță (DoP) conform EN 13830
-- Calcule termice validate conform EN ISO 10077
-- Raport de testare la vânt conform EN 12179
-- Documentație pentru BREEAM/LEED la cerere
+**Documentație:**
+- Declarație de performanță (DoP) și marcaj CE conform EN 13830
+- Calcule termice și statice pentru proiect
+- Documentație tehnică pentru dosarele BREEAM sau LEED, la cerere
 
 ---
 
-## Sisteme Alumil pentru pereți cortină — comparație tehnică
+## Sisteme de pereți cortină — comparație tehnică
 
-### Alumil CW50 — sistem standard, cel mai utilizat în București
+### Reynaers CW 50 și Alumil SMARTIA M50 — sistemele standard cu montanți de 50 mm
 
-**Profilul vizibil de 50 mm** pe verticală și orizontală. Cel mai economic și rapid de instalat. Stoc permanent la București — livrare 3–5 zile.
+Ambele au **lățime vizibilă de 50 mm** pe montanți și traverse și acoperă majoritatea clădirilor de birouri.
 
-Specificații tehnice:
-- Adâncime montant: 50 mm
-- Barieră termică: poliamidă 34 mm
-- Uw ansamblu: 1,3–1,6 W/m²K (geam dublu Low-E 4+16+4)
-- Uw ansamblu: 1,0–1,2 W/m²K (geam triplu Low-E)
-- Rezistență vânt: C4/B4 (2.000 Pa)
-- Etanșeitate apă: E1050
-- Geam maxim: 50 mm
-- Înălțime panou maximă (fără sprijin intermediar): 4.200 mm
-- Lățime panou maximă: 1.800 mm
+Reynaers CW 50, după fișa producătorului:
+- Adâncimea montanților: de la 42 la 316,5 mm, aleasă după calculul static
+- Geam: de la 6 la 62 mm
+- Uf de până la 0,8 W/m²K, în funcție de combinația de profile
+- Permeabilitate la aer până la AE 1200 și etanșeitate la apă până la RE 1200
+- Variante: HI (izolare termică sporită), SG (geam lipit structural), SC (geam prins structural), FP (rezistent la foc EI 30 și EI 60)
 
-**Opțiuni casetă umbrire integrată:** jaluzele Raffstore 80mm și Zipscreen pot fi integrate în caseta de [perete cortină](/ro/tamplarie-aluminiu).
+Alumil SMARTIA M50, după fișa producătorului:
+- Adâncimea montanților și traverselor: de la 12 la 234 mm
+- Geamul se prinde cu presor sau cu silicon structural
+- Uf între 1,0 și 1,8 W/m²K
+- Permeabilitate la aer clasa AE, etanșeitate la apă clasa R7
+- Izolare fonică până la 47 dB și variante rezistente la foc E30 și EW30
 
-**Prețuri orientative CW50 — 2026:**
+**Umbrire integrată:** jaluzelele Raffstore și Zipscreen se pot integra în fațada de [perete cortină](/ro/tamplarie-aluminiu).
 
-> ⚠️ **Notă:** Prețurile sunt orientative și se pot modifica. Solicitați ofertă actualizată pentru proiectul dumneavoastră.
+### Reynaers CW 60 — pentru suprafețe mari, înclinate sau curbe
+
+**Lățime vizibilă de 60 mm** la interior. Reynaers îl recomandă pentru suprafețe vitrate mari, fațade înclinate sau curbe și renovări.
+
+- Adâncimea montanților: de la 79 la 268 mm
+- Geam: de la 6 la 44 mm (de la 22 la 46 mm la varianta HI)
+- Greutate maximă a unui panou de sticlă: 450 kg
+- Permeabilitate la aer clasa A4
+- Variante: HI, SC și SG
+
+### Fațade semi-structurale și structurale
+
+La variantele SG, profilul se vede doar la interior, iar din exterior rămân vizibile sticla și rosturile de silicon. Se aleg pentru sedii corporative și clădiri cu cerințe arhitecturale ridicate.
+
+---
+
+## Prețuri orientative 2026
+
+Prețurile includ profilul, geamul termoizolant și montajul. Sunt în EUR, fără TVA.
 
 | Configurație | Preț orientativ |
 |---|---|
-| CW50, geam dublu Low-E, montaj standard | 800–1.100 lei/mp |
-| CW50, geam triplu Low-E, montaj standard | 1.100–1.500 lei/mp |
-| CW50 cu casetă Raffstore integrată | 1.600–2.200 lei/mp |
-| **Suprafață 200–500 mp (reducere cantitate)** | **750–1.000 lei/mp** |
+| Perete cortină standard (Reynaers CW 50 sau Alumil SMARTIA M50), geam dublu Low-E | 450–700 EUR/mp |
+| Geam triplu, umbrire integrată, variante semi-structurale sau structurale | ofertă pe proiect, de regulă peste 700 EUR/mp |
 
-### Alumil CW60 — sistem cu profil îngust, aspect premium
-
-**Profilul vizibil de 60 mm** pe verticală, design mai îngust față de CW50. Preferat de arhitecții care vor linii fine pe fațadă.
-
-Specificații tehnice:
-- Adâncime montant: 60 mm
-- Barieră termică: 34 mm îmbunătățită
-- Uw ansamblu: 1,1–1,4 W/m²K (geam dublu Low-E)
-- Compatibil geam triplu Low-E pentru BREEAM Excellent
-- Rezistență vânt: C4/B4
-
-**Prețuri orientative CW60 — 2026:**
-
-> ⚠️ **Notă:** Prețurile sunt orientative și se pot modifica.
-
-| Configurație | Preț orientativ |
-|---|---|
-| CW60, geam dublu Low-E | 1.200–1.600 lei/mp |
-| CW60, geam triplu Low-E | 1.500–2.000 lei/mp |
-| CW60 semi-structural, geam dublu Low-E | 1.800–2.400 lei/mp |
-
-### Perete cortină structural Alumil — maximum estetic
-
-Profil complet ascuns. Din exterior se vede doar sticla și rosturile de silicon. Cel mai solicitat pentru sedii corporative, hoteluri 4–5 stele și clădiri de referință arhitecturală.
-
-| Configurație | Preț orientativ |
-|---|---|
-| Structural complet, geam securizat | 2.200–3.000 lei/mp |
-| Spider fitting, geam laminat 10+10 | 2.800–4.000 lei/mp |
+Prețul final depinde de suprafață, de modulul fațadei, de tipul de sticlă și de înălțimea clădirii. Oferta o trimitem în 48 de ore de la primirea planurilor.
 
 ---
 
-## Tipuri de sticlă pentru fațade de birouri — ce alege piața în 2026
+## Tipuri de sticlă pentru fațade de birouri
 
-**Sticlă reflexivă față-verso** — standard pentru birouri București. Reduce supraîncălzirea în spațiile expuse sud și vest. Factor solar g = 0,20–0,35.
+**Sticlă cu control solar** — reduce supraîncălzirea în spațiile expuse la sud și la vest. Factorul solar g este de regulă între 0,20 și 0,40, în funcție de produs.
 
-**Sticlă Low-E dublă** (4+16+4 argon + strat Low-E) — standard BREEAM Very Good. Uw = 1,0–1,2 W/m²K. Cel mai frecvent specificat în proiectele noi din Barbu Văcărescu și Floreasca.
+**Geam dublu Low-E** (strat Low-E și argon) — cel mai des specificat în proiectele noi de birouri, cu un raport bun între cost și performanță.
 
-**Sticlă serigrafică** — imprimare ceramică pe față 2 sau 4. Permite branding pe fațadă, control solar personalizat și efecte arhitecturale.
+**Sticlă serigrafiată** — imprimare ceramică pentru control solar, branding pe fațadă sau efecte arhitecturale.
 
-**Sticlă electrocromatică** — schimbă transparența la comandă electrică. Preț 3–5× față de sticla standard, utilizată în proiecte premium cu buget de fațadă peste 500 EUR/mp.
-
----
-
-## Cum se calculează un proiect de perete cortină
-
-### Pasul 1 — Studiul de fațadă (1–3 zile)
-Neofort BIZ realizează studiul de fațadă împreună cu arhitectul proiectului. Definim tipul de sistem (standard/semi-structural/structural), modulul de fațadă (lățimea panou), tipul de sticlă și sistemul de umbrire integrat.
-
-### Pasul 2 — Calculul structural (3–7 zile)
-Calcul la vânt conform EN 1991-1-4, verificarea rezistenței montanților și traverselor la sarcinile specifice amplasamentului. Obligatoriu pentru autorizație de construire.
-
-### Pasul 3 — Shop drawings (7–14 zile)
-Planșe de execuție detaliate cu toate îmbinările, detalii de colț, racorduri la structura clădirii, treceri pentru instalații electrice și sisteme de umbrire.
-
-### Pasul 4 — Producție (21–35 zile)
-Profile tăiate CNC, geam comandat Saint-Gobain sau Guardian cu specificațiile termice și optice din proiect.
-
-### Pasul 5 — Montaj (în funcție de suprafață)
-- 500 mp: 10–15 zile cu echipă de 4 montori + schele
-- 2.000 mp: 30–45 zile cu 2 echipe în paralel
-- 5.000+ mp: planificare individuală cu program lunar
-
-### Pasul 6 — Testare și recepție
-Test de etanșeitate la apă (aspersie) și permeabilitate la aer per EN 1027/EN 1026. Documentație completă pentru recepția lucrării și dosar BREEAM/LEED.
+**Geam triplu** — pentru clădirile cu cerințe energetice ridicate; crește greutatea panourilor, deci contează la alegerea sistemului.
 
 ---
 
-## Zone de birouri din București — ce proiecte livrăm
+## Cum se desfășoară un proiect de perete cortină
 
-**Barbu Văcărescu – Floreasca** — cea mai activă zonă de clasa A. Proiecte finalizate și în curs: sisteme CW50 și CW60 cu sticlă reflexivă și jaluzele Raffstore integrate.
+### Pasul 1 — Studiul de fațadă
+Împreună cu arhitectul definim sistemul (standard, semi-structural sau structural), modulul fațadei, tipul de sticlă și umbrirea integrată.
 
-**Pipera – Voluntari** — zona cu cel mai mare stoc de birouri din București metropolitan. Proiecte predominant CW50 standard cu geam dublu Low-E.
+### Pasul 2 — Calculul static
+Calcul la vânt după EN 1991-1-4 și verificarea montanților și a traverselor la sarcinile amplasamentului.
 
-**Centru-Vest (Orhideea, Splaiul Independenței)** — mix de CW50 și sisteme semi-structurale. Arhitectură contemporană cu accent pe linie curată.
+### Pasul 3 — Desenele de execuție
+Planșe cu îmbinările, colțurile, prinderile de structură și trecerile pentru instalații și umbrire.
 
-**Timpuri Noi – Unirii** — regenerare urbană activă. Proiecte cu sisteme semi-structurale și sticlă serigrafică pentru identitate vizuală distinctă.
+### Pasul 4 — Producția
+Profilele se debitează pe mașini CNC, iar sticla se comandă la Saint-Gobain sau Guardian, cu specificațiile din proiect. Măsurătorile finale pe șantier se fac după semnarea contractului.
+
+### Pasul 5 — Montajul
+Durata depinde de suprafață, de accesul pe șantier și de numărul de echipe. Programul îl stabilim împreună cu antreprenorul general.
+
+### Pasul 6 — Verificări și recepție
+Verificări de etanșeitate pe șantier, la cerere, și documentația completă pentru recepție și pentru dosarele BREEAM sau LEED.
+
+---
+
+## Zone de birouri din București
+
+**Barbu Văcărescu – Floreasca** — cea mai activă zonă de birouri de clasă A, cu fațade cortină cu sticlă reflexivă și umbrire integrată.
+
+**Pipera – Voluntari** — zonă cu un stoc mare de birouri, unde predomină pereții cortină standard cu geam dublu Low-E.
+
+**Centru-Vest (Orhideea, Splaiul Independenței)** — mix de sisteme standard și semi-structurale, cu accent pe linii curate.
+
+**Timpuri Noi – Unirii** — regenerare urbană, cu sisteme semi-structurale și sticlă serigrafiată pentru o identitate vizuală distinctă.
 
 ---
 
 ## De ce Neofort BIZ pentru proiecte de birouri
 
-**Stoc local Alumil** — cel mai mare avantaj față de importatorii cu livrare 6–8 săptămâni. Putem confirma cantitățile disponibile în 24 de ore și livra profile în 3–5 zile.
+**Două sisteme** — lucrăm cu Reynaers și cu Alumil, așa că alegem sistemul potrivit pentru proiect, nu pe cel pe care îl avem.
 
-**Expertiză tehnică** — echipă cu experiență în proiecte comerciale de 500–10.000 mp. Suport pentru calculele termice necesare certificărilor BREEAM și LEED.
+**Suport tehnic** — calculele termice și statice și documentația pentru BREEAM sau LEED.
 
-**Documentație completă** — Declarații de performanță (DoP), fișe tehnice, rapoarte de testare și certificate CE pentru toate sistemele Alumil.
+**Documentație completă** — declarații de performanță, fișe tehnice și marcaj CE pentru sistemele livrate.
 
-**Montaj propriu** — nu subcontractăm montajul pentru proiecte comerciale. Echipe specializate cu experiență în sisteme la înălțime.
+**Echipe proprii de montaj** — cu experiență în lucrul la înălțime.
 
 Contactați departamentul comercial pentru proiecte de birouri și spații comerciale:
 
@@ -18843,927 +18822,855 @@ Contactați departamentul comercial pentru proiecte de birouri și spații comer
 
 ## Întrebări frecvente
 
-### Ce cerințe tehnice trebuie să îndeplinească o fațadă cortină de birouri în București?
+### Ce cerințe tehnice trebuie să îndeplinească o fațadă cortină de birouri?
 
-O fațadă de birouri trebuie să atingă simultan: rezistență la vânt clasa C4/B4 (presiune ≥ 2.000 Pa) la peste 20m înălțime, etanșeitate la apă clasa E1050 sau E1200, rezistență termică Uw ≤ 1,4 W/m²K (cerință BREEAM Very Good) și rezistență la foc minimum EI 30 la compartimentarea etajelor.
+Rezistența la vânt se stabilește prin calcul după EN 1991-1-4, pentru înălțimea și amplasamentul clădirii. Etanșeitatea la apă și permeabilitatea la aer se declară după EN 13830, performanța termică se calculează pe proiect, iar comportarea la foc rezultă din scenariul de securitate la incendiu.
 
-### De ce este peretele cortină standardul pentru clădirile de birouri clasa A?
+### Ce sisteme de pereți cortină folosește Neofort BIZ?
 
-Fațada cortină din aluminiu și sticlă este standardul de facto pentru orice clădire de birouri clasa A din București în 2026, impus de chiriașii corporativi multinaționali, de certificările energetice BREEAM, LEED și DGNB, și de normele europene de eficiență energetică.
+Lucrăm cu Reynaers CW 50 și CW 60 și cu Alumil SMARTIA M50. CW 50 și SMARTIA M50 au montanți cu lățime vizibilă de 50 mm și acoperă majoritatea clădirilor de birouri, iar CW 60 se alege pentru suprafețe vitrate mari, fațade înclinate sau curbe.
 
-### Ce certificări de clădire verde acceptă pereții cortină Alumil?
+### Cât costă un perete cortină pentru o clădire de birouri?
 
-Sistemele Alumil de pereți cortină pot îndeplini cerințele certificărilor BREEAM, LEED și DGNB, cu documentație tehnică furnizată la cerere. Rezistența termică Uw ≤ 1,4 W/m²K corespunde cerinței BREEAM Very Good pentru fațade.
+Un perete cortină standard, cu geam dublu Low-E și montaj, costă orientativ 450–700 EUR/mp, fără TVA. Geamul triplu, umbrirea integrată și variantele semi-structurale sau structurale se ofertează pe proiect și depășesc de regulă acest interval.
 
-### Cu cine lucrează Neofort BIZ pentru proiecte de pereți cortină de birouri?
+### Ce certificări de clădire verde pot susține pereții cortină?
 
-Neofort BIZ lucrează direct cu dezvoltatori imobiliari, arhitecți și antreprenori generali din București pentru livrarea și montajul sistemelor Alumil de pereți cortină. Bucureștiul are peste 4 milioane mp de birouri moderne, cu 15-20 proiecte noi anual. Pagini utile: [tâmplăria din aluminiu în București](/ro/tamplarie-aluminiu/bucuresti) și [geamurile termoizolante Saint-Gobain SGG](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg).
-`,
+Sistemele Reynaers și Alumil pot fi folosite în clădiri certificate BREEAM, LEED sau DGNB. Certificarea se acordă clădirii, nu fațadei, iar noi furnizăm documentația tehnică necesară dosarului.
+
+### Cu cine lucrează Neofort BIZ pentru proiecte de pereți cortină?
+
+Lucrăm direct cu dezvoltatori imobiliari, arhitecți și antreprenori generali din București, pentru livrarea și montajul pereților cortină. Pagini utile: [tâmplăria din aluminiu în București](/ro/tamplarie-aluminiu/bucuresti) și [geamurile termoizolante Saint-Gobain SGG](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg).`,
 
       en: `## The Bucharest office market and the demand for a modern facade
 
-Bucharest is the most active office market in South-Eastern Europe. In 2024–2025 the modern office stock passed **4 million sqm**, with 15–20 new projects a year in areas such as Floreasca–Barbu Văcărescu, Pipera, Centru-Vest and Timpuri Noi.
+Bucharest is the largest office market in Romania, and new class A buildings are concentrated in areas such as Floreasca–Barbu Văcărescu, Pipera, Centru-Vest and Timpuri Noi.
 
-**The de facto standard** for any class A office building in Bucharest in 2026 is the aluminium and glass curtain wall — a requirement driven by corporate tenants (multinationals), by energy certification standards (BREEAM, LEED, DGNB) and by European energy efficiency rules.
+**The de facto standard** for a class A office building is an aluminium and glass curtain wall. Corporate tenants ask for it, green building certifications (BREEAM, LEED, DGNB) support it, and energy performance requirements indirectly impose it.
 
-Neofort BIZ works directly with **property developers, architects and general contractors** in Bucharest on the supply and [installation](/en/services) of Alumil curtain wall systems. This page brings together everything you need to know before opening a project file. See also [the complete aluminium joinery guide](/en/blog/aluminium-windows-thermal-break-complete-guide).
+Neofort BIZ works with **property developers, architects and general contractors** in Bucharest on the supply and [installation](/en/services) of curtain walls built with Reynaers and Alumil systems. This page brings together what you need to know before opening a project file. See also [the complete aluminium joinery guide](/en/blog/aluminium-windows-thermal-break-complete-guide).
 
 ---
 
 ## What makes a curtain wall suitable for offices
 
-Unlike a residential building, an office facade has to meet **technical, aesthetic and certification requirements** that are far stricter, all at the same time:
+Unlike a house, an office facade has to meet **technical, aesthetic and documentation requirements** that are far stricter, all at the same time:
 
 **Technical requirements:**
-- Wind resistance: class C4/B4 (pressure ≥ 2,000 Pa) for heights above 20 m
-- Water tightness: class E1050 or E1200
-- Air permeability: class A4
-- Thermal performance: assembly Uw ≤ 1.4 W/m²K (BREEAM Very Good requirement)
-- Fire resistance: minimum EI 30 at floor compartmentation
+- Wind resistance set by calculation, under EN 1991-1-4, for the height and location of the building
+- Water tightness and air permeability declared under EN 13830
+- Thermal performance of the assembly calculated per project, under EN ISO 12631
+- Fire behaviour set by the fire safety scenario of the building
 
 **Aesthetic requirements:**
-- A uniform visual line across all elevations
-- Compatibility with integrated shading systems (Raffstore blinds in a cassette)
-- Options for reflective glass, screen printing or digital printing
-- The possibility of special RAL coating or anodising
+- A uniform sight line on every facade
+- Compatibility with external shading (Raffstore blinds or Zipscreen)
+- Reflective, screen-printed or solar control glass
+- Special RAL colours or anodising
 
-**Certification requirements:**
-- Declaration of Performance (DoP) to EN 13830
-- Thermal calculations validated to EN ISO 10077
-- Wind test report to EN 12179
-- BREEAM/LEED documentation on request
+**Documentation:**
+- Declaration of performance (DoP) and CE marking under EN 13830
+- Thermal and structural calculations for the project
+- Technical documentation for BREEAM or LEED files, on request
 
 ---
 
-## Alumil curtain wall systems — technical comparison
+## Curtain wall systems — technical comparison
 
-### Alumil CW50 — the standard system, the most used in Bucharest
+### Reynaers CW 50 and Alumil SMARTIA M50 — the standard systems with 50 mm mullions
 
-**A 50 mm visible profile** vertically and horizontally. The most economical and the fastest to install. Held permanently in stock in Bucharest — delivery in 3–5 days.
+Both have a **visible width of 50 mm** on mullions and transoms and cover most office buildings.
 
-Technical specifications:
-- Mullion depth: 50 mm
-- Thermal break: 34 mm polyamide
-- Assembly Uw: 1.3–1.6 W/m²K (double Low-E glazing 4+16+4)
-- Assembly Uw: 1.0–1.2 W/m²K (triple Low-E glazing)
-- Wind resistance: C4/B4 (2,000 Pa)
-- Water tightness: E1050
-- Maximum glazing: 50 mm
-- Maximum panel height (without intermediate support): 4,200 mm
-- Maximum panel width: 1,800 mm
+Reynaers CW 50, according to the manufacturer datasheet:
+- Mullion depth: from 42 to 316.5 mm, chosen by structural calculation
+- Glazing: from 6 to 62 mm
+- Uf down to 0.8 W/m²K, depending on the profile combination
+- Air permeability up to AE 1200 and water tightness up to RE 1200
+- Variants: HI (enhanced insulation), SG (structural sealed glazing), SC (structural clamped glazing), FP (fire rated EI 30 and EI 60)
 
-**Integrated shading cassette options:** 80 mm Raffstore blinds and Zipscreen can be integrated into the [curtain wall](/en/aluminium-windows) cassette.
+Alumil SMARTIA M50, according to the manufacturer datasheet:
+- Mullion and transom depth: from 12 to 234 mm
+- Glazing held by pressure plate or structural silicone
+- Uf between 1.0 and 1.8 W/m²K
+- Air permeability class AE, water tightness class R7
+- Sound insulation up to 47 dB and fire-rated E30 and EW30 versions
 
-**Indicative CW50 prices — 2026:**
+**Integrated shading:** Raffstore blinds and Zipscreen can be integrated into the [curtain wall](/en/aluminium-windows) facade.
 
-> ⚠️ **Note:** prices are indicative and subject to change. Ask for an up-to-date quotation for your project.
+### Reynaers CW 60 — for large, sloped or curved surfaces
+
+**Visible width of 60 mm** on the inside. Reynaers recommends it for large glazed areas, sloped or curved facades and renovations.
+
+- Mullion depth: from 79 to 268 mm
+- Glazing: from 6 to 44 mm (22 to 46 mm for the HI variant)
+- Maximum weight of one glass panel: 450 kg
+- Air permeability class A4
+- Variants: HI, SC and SG
+
+### Semi-structural and structural facades
+
+In the SG variants the profile is visible only from the inside, while from the outside you see the glass and the silicone joints. They are chosen for corporate headquarters and buildings with high architectural demands.
+
+---
+
+## Indicative prices for 2026
+
+Prices include the profile, the insulating glass and installation. They are in EUR, excluding VAT.
 
 | Configuration | Indicative price |
 |---|---|
-| CW50, double Low-E glazing, standard installation | 800–1,100 lei/sqm |
-| CW50, triple Low-E glazing, standard installation | 1,100–1,500 lei/sqm |
-| CW50 with integrated Raffstore cassette | 1,600–2,200 lei/sqm |
-| **Area 200–500 sqm (volume discount)** | **750–1,000 lei/sqm** |
+| Standard curtain wall (Reynaers CW 50 or Alumil SMARTIA M50), double Low-E glazing | 450–700 EUR/m² |
+| Triple glazing, integrated shading, semi-structural or structural variants | quoted per project, usually above 700 EUR/m² |
 
-### Alumil CW60 — slim profile system, premium appearance
-
-**A 60 mm visible profile** vertically, with a narrower design than the CW50. Preferred by architects who want fine lines on the facade.
-
-Technical specifications:
-- Mullion depth: 60 mm
-- Thermal break: improved 34 mm
-- Assembly Uw: 1.1–1.4 W/m²K (double Low-E glazing)
-- Compatible with triple Low-E glazing for BREEAM Excellent
-- Wind resistance: C4/B4
-
-**Indicative CW60 prices — 2026:**
-
-> ⚠️ **Note:** prices are indicative and subject to change.
-
-| Configuration | Indicative price |
-|---|---|
-| CW60, double Low-E glazing | 1,200–1,600 lei/sqm |
-| CW60, triple Low-E glazing | 1,500–2,000 lei/sqm |
-| CW60 semi-structural, double Low-E glazing | 1,800–2,400 lei/sqm |
-
-### Alumil structural curtain wall — maximum aesthetics
-
-The profile is entirely concealed. From outside only the glass and the silicone joints are visible. The most requested option for corporate headquarters, 4–5 star hotels and architecturally significant buildings.
-
-| Configuration | Indicative price |
-|---|---|
-| Fully structural, toughened glass | 2,200–3,000 lei/sqm |
-| Spider fitting, laminated glass 10+10 | 2,800–4,000 lei/sqm |
+The final price depends on the area, the facade module, the type of glass and the height of the building. We send the quote within 48 hours of receiving the drawings.
 
 ---
 
-## Glass types for office facades — what the market chooses in 2026
+## Glass types for office facades
 
-**Double-sided reflective glass** — the standard for Bucharest offices. It reduces overheating in south and west facing spaces. Solar factor g = 0.20–0.35.
+**Solar control glass** — reduces overheating in spaces facing south and west. The solar factor g is usually between 0.20 and 0.40, depending on the product.
 
-**Double Low-E glazing** (4+16+4 argon with a Low-E coating) — the BREEAM Very Good standard. Uw = 1.0–1.2 W/m²K. The most frequently specified option in new projects in Barbu Văcărescu and Floreasca.
+**Double Low-E glazing** (Low-E coating and argon) — the most frequently specified option in new office projects, with a good balance between cost and performance.
 
-**Screen-printed glass** — ceramic printing on face 2 or 4. It allows branding on the facade, tailored solar control and architectural effects.
+**Screen-printed glass** — ceramic printing for solar control, branding on the facade or architectural effects.
 
-**Electrochromic glass** — changes transparency on electrical command. It costs three to five times more than standard glass and is used in premium projects with a facade budget above 500 EUR/sqm.
-
----
-
-## How a curtain wall project is calculated
-
-### Step 1 — The facade study (1–3 days)
-Neofort BIZ carries out the facade study together with the project architect. We define the system type (standard, semi-structural or structural), the facade module (panel width), the glass type and the integrated shading system.
-
-### Step 2 — Structural calculation (3–7 days)
-Wind calculation to EN 1991-1-4, verifying the resistance of mullions and transoms against the loads specific to the site. Mandatory for the building permit.
-
-### Step 3 — Shop drawings (7–14 days)
-Detailed fabrication drawings with every junction, corner detail, connection to the building structure, and penetrations for electrical services and shading systems.
-
-### Step 4 — Production (21–35 days)
-CNC-cut profiles, glass ordered from Saint-Gobain or Guardian with the thermal and optical specifications set out in the project.
-
-### Step 5 — Installation (depending on the area)
-- 500 sqm: 10–15 days with a team of 4 installers plus scaffolding
-- 2,000 sqm: 30–45 days with 2 teams working in parallel
-- 5,000+ sqm: individual planning on a monthly programme
-
-### Step 6 — Testing and handover
-Water tightness test (spray) and air permeability test to EN 1027/EN 1026. Complete documentation for the handover of the works and for the BREEAM/LEED file.
+**Triple glazing** — for buildings with high energy requirements; it makes the panels heavier, which matters when choosing the system.
 
 ---
 
-## Office districts in Bucharest — the projects we deliver
+## How a curtain wall project runs
 
-**Barbu Văcărescu – Floreasca** — the most active class A area. Completed and ongoing projects: CW50 and CW60 systems with reflective glass and integrated Raffstore blinds.
+### Step 1 — The facade study
+Together with the architect we define the system (standard, semi-structural or structural), the facade module, the type of glass and the integrated shading.
 
-**Pipera – Voluntari** — the district with the largest office stock in metropolitan Bucharest. Projects predominantly standard CW50 with double Low-E glazing.
+### Step 2 — Structural calculation
+Wind calculation under EN 1991-1-4 and a check of the mullions and transoms against the loads of the site.
 
-**Centru-Vest (Orhideea, Splaiul Independenței)** — a mix of CW50 and semi-structural systems. Contemporary architecture with an emphasis on a clean line.
+### Step 3 — Shop drawings
+Drawings showing the joints, corners, connections to the structure and the openings for services and shading.
 
-**Timpuri Noi – Unirii** — active urban regeneration. Projects using semi-structural systems and screen-printed glass for a distinctive visual identity.
+### Step 4 — Production
+The profiles are cut on CNC machines and the glass is ordered from Saint-Gobain or Guardian to the project specifications. Final site measurements are taken after the contract is signed.
+
+### Step 5 — Installation
+The duration depends on the area, site access and the number of teams. We set the schedule together with the general contractor.
+
+### Step 6 — Checks and handover
+On-site water tightness checks on request, plus the complete documentation for handover and for BREEAM or LEED files.
+
+---
+
+## Office districts in Bucharest
+
+**Barbu Văcărescu – Floreasca** — the most active class A office area, with curtain walls in reflective glass and integrated shading.
+
+**Pipera – Voluntari** — an area with a large office stock, where standard curtain walls with double Low-E glazing dominate.
+
+**Centru-Vest (Orhideea, Splaiul Independenței)** — a mix of standard and semi-structural systems, with an emphasis on clean lines.
+
+**Timpuri Noi – Unirii** — urban regeneration, with semi-structural systems and screen-printed glass for a distinctive visual identity.
 
 ---
 
 ## Why Neofort BIZ for office projects
 
-**Local Alumil stock** — the greatest advantage over importers with 6–8 week lead times. We can confirm available quantities within 24 hours and deliver profiles in 3–5 days.
+**Two systems** — we work with both Reynaers and Alumil, so we choose the system that suits the project, not the one we happen to have.
 
-**Technical expertise** — a team experienced in commercial projects of 500–10,000 sqm. Support for the thermal calculations required by BREEAM and LEED certification.
+**Technical support** — thermal and structural calculations and documentation for BREEAM or LEED.
 
-**Complete documentation** — Declarations of Performance (DoP), technical data sheets, test reports and CE certificates for all Alumil systems.
+**Complete documentation** — declarations of performance, datasheets and CE marking for the systems supplied.
 
-**Our own installation teams** — we do not subcontract installation on commercial projects. Specialist teams experienced in working at height.
+**In-house installation teams** — experienced in working at height.
 
-Contact the commercial department for office and retail projects:
+Contact the sales department for office and commercial projects:
 
 **WhatsApp Projects:** +40 752 443 439 | **Mon–Fri 10–18**
 
-## Frequently asked questions
+## Frequently Asked Questions
 
-### What technical requirements must an office curtain wall meet in Bucharest?
+### What technical requirements must an office curtain wall meet?
 
-An office facade has to achieve, simultaneously: wind resistance class C4/B4 (pressure ≥ 2,000 Pa) above 20 m in height, water tightness class E1050 or E1200, thermal performance Uw ≤ 1.4 W/m²K (a BREEAM Very Good requirement) and fire resistance of at least EI 30 at floor compartmentation.
+Wind resistance is set by calculation under EN 1991-1-4, for the height and location of the building. Water tightness and air permeability are declared under EN 13830, thermal performance is calculated per project, and fire behaviour follows from the fire safety scenario.
 
-### Why is the curtain wall the standard for class A office buildings?
+### Which curtain wall systems does Neofort BIZ use?
 
-The aluminium and glass curtain wall is the de facto standard for any class A office building in Bucharest in 2026, driven by multinational corporate tenants, by BREEAM, LEED and DGNB energy certification, and by European energy efficiency rules.
+We work with Reynaers CW 50 and CW 60 and with Alumil SMARTIA M50. CW 50 and SMARTIA M50 have mullions with a 50 mm visible width and cover most office buildings, while CW 60 is chosen for large glazed areas and sloped or curved facades.
 
-### Which green building certifications do Alumil curtain walls support?
+### How much does a curtain wall for an office building cost?
 
-Alumil curtain wall systems can meet the requirements of BREEAM, LEED and DGNB certification, with technical documentation supplied on request. A thermal performance of Uw ≤ 1.4 W/m²K corresponds to the BREEAM Very Good requirement for facades.
+A standard curtain wall with double Low-E glazing and installation costs an indicative 450–700 EUR/m², excluding VAT. Triple glazing, integrated shading and semi-structural or structural variants are quoted per project and usually go above this range.
 
-### Who does Neofort BIZ work with on office curtain wall projects?
+### Which green building certifications can curtain walls support?
 
-Neofort BIZ works directly with property developers, architects and general contractors in Bucharest on the supply and installation of Alumil curtain wall systems. Bucharest has over 4 million sqm of modern offices, with 15–20 new projects a year.
+Reynaers and Alumil systems can be used in BREEAM, LEED or DGNB certified buildings. The certification is awarded to the building, not to the facade, and we supply the technical documentation the file needs.
+
+### Who does Neofort BIZ work with on curtain wall projects?
+
+We work directly with property developers, architects and general contractors in Bucharest on the supply and installation of curtain walls. Useful pages: [aluminium windows in Bucharest](/en/aluminium-windows/bucharest) and [Saint-Gobain SGG insulating glass](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass).`,
+
+      de: `## Der Bukarester Büromarkt und die Forderung nach einer modernen Fassade
+
+Bukarest ist der größte Büromarkt Rumäniens, und neue Gebäude der Klasse A konzentrieren sich in Gebieten wie Floreasca–Barbu Văcărescu, Pipera, Centru-Vest und Timpuri Noi.
+
+**Der De-facto-Standard** für ein Bürogebäude der Klasse A ist die Vorhangfassade aus Aluminium und Glas. Konzernmieter verlangen sie, Zertifizierungen für nachhaltiges Bauen (BREEAM, LEED, DGNB) stützen sie, und die Anforderungen an die Gesamtenergieeffizienz machen sie indirekt notwendig.
+
+Neofort BIZ arbeitet mit **Projektentwicklern, Architekten und Generalunternehmern** in Bukarest bei Lieferung und [Montage](/de/dienstleistungen) von Vorhangfassaden aus Systemen von Reynaers und Alumil zusammen. Diese Seite fasst zusammen, was Sie vor dem Start eines Projekts wissen sollten. Siehe auch [den vollständigen Ratgeber zu Aluminiumfenstern](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
 
 ---
 
-Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). See also [the complete aluminium joinery guide](/en/blog/aluminium-windows-thermal-break-complete-guide). Useful pages: [aluminium windows in Bucharest](/en/aluminium-windows/bucharest) and [Saint-Gobain SGG insulating glass](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass).`,
+## Was eine Vorhangfassade für Büros geeignet macht
 
-      de: `## Der Büromarkt in Bukarest und die Anforderung an eine moderne Fassade
-
-Bukarest ist der aktivste Büromarkt Südosteuropas. In den Jahren 2024–2025 überschritt der moderne Bürobestand **4 Millionen m²**, mit 15–20 neuen Projekten pro Jahr in Gebieten wie Floreasca–Barbu Văcărescu, Pipera, Centru-Vest und Timpuri Noi.
-
-**Der De-facto-Standard** für jedes Class-A-Bürogebäude in Bukarest ist 2026 die Vorhangfassade aus Aluminium und Glas — gefordert von den Unternehmensmietern (multinationale Konzerne), von den Standards der Energiezertifizierung (BREEAM, LEED, DGNB) und von den europäischen Vorschriften zur Energieeffizienz.
-
-Neofort BIZ arbeitet direkt mit **Projektentwicklern, Architekten und Generalunternehmern** in Bukarest bei Lieferung und [Montage](/de/dienstleistungen) von Alumil-Vorhangfassadensystemen. Diese Seite fasst alles zusammen, was Sie wissen müssen, bevor Sie eine Projektakte anlegen. Sehen Sie auch [den vollständigen Ratgeber zu Aluminiumfenstern](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden).
-
----
-
-## Was eine Vorhangfassade für Bürogebäude geeignet macht
-
-Anders als ein Wohngebäude muss eine Bürofassade **technische, gestalterische und zertifizierungsrelevante Anforderungen** gleichzeitig erfüllen, und zwar deutlich strengere:
+Anders als ein Wohnhaus muss eine Bürofassade gleichzeitig deutlich strengere **technische, gestalterische und dokumentarische Anforderungen** erfüllen:
 
 **Technische Anforderungen:**
-- Windwiderstand: Klasse C4/B4 (Druck ≥ 2.000 Pa) für Höhen über 20 m
-- Schlagregendichtheit: Klasse E1050 oder E1200
-- Luftdurchlässigkeit: Klasse A4
-- Wärmeschutz: Uw der Konstruktion ≤ 1,4 W/m²K (Anforderung BREEAM Very Good)
-- Feuerwiderstand: mindestens EI 30 bei der Geschossabschottung
+- Windlast nach Berechnung gemäß EN 1991-1-4, für Höhe und Standort des Gebäudes
+- Schlagregendichtheit und Luftdurchlässigkeit, erklärt nach EN 13830
+- Wärmeschutz der Gesamtkonstruktion, je Projekt nach EN ISO 12631 berechnet
+- Brandverhalten nach dem Brandschutzkonzept des Gebäudes
 
 **Gestalterische Anforderungen:**
-- Einheitliche Ansichtslinie über alle Fassaden
-- Verträglichkeit mit integriertem Sonnenschutz (Raffstore-Jalousien im Kasten)
-- Optionen für Reflexionsglas, Siebdruck oder Digitaldruck
-- Möglichkeit der Sonder-RAL-Beschichtung oder Eloxierung
+- Einheitliche Ansichtslinie an allen Fassaden
+- Kompatibilität mit außenliegendem Sonnenschutz (Raffstore oder Zipscreen)
+- Reflektierendes, bedrucktes oder Sonnenschutzglas
+- Sonderfarben nach RAL oder Eloxal
 
-**Anforderungen an die Zertifizierung:**
-- Leistungserklärung (DoP) nach EN 13830
-- Wärmetechnische Nachweise nach EN ISO 10077
-- Windprüfbericht nach EN 12179
-- Unterlagen für BREEAM/LEED auf Anfrage
+**Dokumentation:**
+- Leistungserklärung (DoP) und CE-Kennzeichnung nach EN 13830
+- Wärme- und Statikberechnungen für das Projekt
+- Technische Unterlagen für BREEAM- oder LEED-Akten, auf Anfrage
 
 ---
 
-## Alumil-Systeme für Vorhangfassaden — technischer Vergleich
+## Vorhangfassadensysteme — technischer Vergleich
 
-### Alumil CW50 — das Standardsystem, das meistverwendete in Bukarest
+### Reynaers CW 50 und Alumil SMARTIA M50 — die Standardsysteme mit 50-mm-Pfosten
 
-**Sichtbares Profil von 50 mm** vertikal und horizontal. Das wirtschaftlichste und am schnellsten zu montierende System. Dauerhaft auf Lager in Bukarest — Lieferung in 3–5 Tagen.
+Beide haben eine **Ansichtsbreite von 50 mm** an Pfosten und Riegeln und decken die meisten Bürogebäude ab.
 
-Technische Daten:
-- Pfostentiefe: 50 mm
-- Thermische Trennung: 34 mm Polyamid
-- Uw der Konstruktion: 1,3–1,6 W/m²K (Zweifach-Low-E-Glas 4+16+4)
-- Uw der Konstruktion: 1,0–1,2 W/m²K (Dreifach-Low-E-Glas)
-- Windwiderstand: C4/B4 (2.000 Pa)
-- Schlagregendichtheit: E1050
-- Maximale Glasdicke: 50 mm
-- Maximale Elementhöhe (ohne Zwischenauflager): 4.200 mm
-- Maximale Elementbreite: 1.800 mm
+Reynaers CW 50 laut Herstellerdatenblatt:
+- Pfostentiefe: 42 bis 316,5 mm, nach statischer Berechnung gewählt
+- Verglasung: 6 bis 62 mm
+- Uf bis 0,8 W/m²K, je nach Profilkombination
+- Luftdurchlässigkeit bis AE 1200 und Schlagregendichtheit bis RE 1200
+- Varianten: HI (erhöhte Dämmung), SG (geklebte Structural-Glazing-Verglasung), SC (geklemmte Structural-Verglasung), FP (Brandschutz EI 30 und EI 60)
 
-**Optionen für integrierten Sonnenschutzkasten:** Raffstore-Jalousien 80 mm und Zipscreen lassen sich in den Kasten der [Vorhangfassade](/de/aluminiumfenster) integrieren.
+Alumil SMARTIA M50 laut Herstellerdatenblatt:
+- Tiefe von Pfosten und Riegeln: 12 bis 234 mm
+- Glashalterung mit Pressleiste oder Structural-Silikon
+- Uf zwischen 1,0 und 1,8 W/m²K
+- Luftdurchlässigkeit Klasse AE, Schlagregendichtheit Klasse R7
+- Schalldämmung bis 47 dB und Brandschutzvarianten E30 und EW30
 
-**Richtpreise CW50 — 2026:**
+**Integrierter Sonnenschutz:** Raffstore und Zipscreen lassen sich in die [Vorhangfassade](/de/aluminiumfenster) integrieren.
 
-> ⚠️ **Hinweis:** Die Preise sind Richtwerte und können sich ändern. Fordern Sie für Ihr Projekt ein aktuelles Angebot an.
+### Reynaers CW 60 — für große, geneigte oder gekrümmte Flächen
+
+**Ansichtsbreite von 60 mm** innen. Reynaers empfiehlt es für große Glasflächen, geneigte oder gekrümmte Fassaden und Sanierungen.
+
+- Pfostentiefe: 79 bis 268 mm
+- Verglasung: 6 bis 44 mm (22 bis 46 mm bei der Variante HI)
+- Maximales Gewicht einer Glasscheibe: 450 kg
+- Luftdurchlässigkeit Klasse A4
+- Varianten: HI, SC und SG
+
+### Halbstrukturelle und strukturelle Fassaden
+
+Bei den SG-Varianten ist das Profil nur von innen sichtbar, von außen sieht man Glas und Silikonfugen. Sie werden für Firmenzentralen und Gebäude mit hohem architektonischem Anspruch gewählt.
+
+---
+
+## Richtpreise 2026
+
+Die Preise umfassen Profil, Isolierglas und Montage. Sie verstehen sich in EUR, ohne MwSt.
 
 | Konfiguration | Richtpreis |
 |---|---|
-| CW50, Zweifach-Low-E, Standardmontage | 800–1.100 Lei/m² |
-| CW50, Dreifach-Low-E, Standardmontage | 1.100–1.500 Lei/m² |
-| CW50 mit integriertem Raffstore-Kasten | 1.600–2.200 Lei/m² |
-| **Fläche 200–500 m² (Mengenrabatt)** | **750–1.000 Lei/m²** |
+| Standard-Vorhangfassade (Reynaers CW 50 oder Alumil SMARTIA M50), Zweifach-Low-E-Glas | 450–700 EUR/m² |
+| Dreifachglas, integrierter Sonnenschutz, halbstrukturelle oder strukturelle Varianten | Angebot je Projekt, meist über 700 EUR/m² |
 
-### Alumil CW60 — System mit schmalem Profil, hochwertige Optik
-
-**Sichtbares Profil von 60 mm** in der Vertikalen, schmalere Gestaltung als CW50. Bevorzugt von Architekten, die feine Linien in der Fassade wünschen.
-
-Technische Daten:
-- Pfostentiefe: 60 mm
-- Thermische Trennung: verbesserte 34 mm
-- Uw der Konstruktion: 1,1–1,4 W/m²K (Zweifach-Low-E-Glas)
-- Kompatibel mit Dreifach-Low-E-Glas für BREEAM Excellent
-- Windwiderstand: C4/B4
-
-**Richtpreise CW60 — 2026:**
-
-> ⚠️ **Hinweis:** Die Preise sind Richtwerte und können sich ändern.
-
-| Konfiguration | Richtpreis |
-|---|---|
-| CW60, Zweifach-Low-E | 1.200–1.600 Lei/m² |
-| CW60, Dreifach-Low-E | 1.500–2.000 Lei/m² |
-| CW60 halbstrukturell, Zweifach-Low-E | 1.800–2.400 Lei/m² |
-
-### Structural-Glazing-Fassade von Alumil — maximale Ästhetik
-
-Das Profil ist vollständig verdeckt. Von außen sind nur das Glas und die Silikonfugen sichtbar. Am häufigsten nachgefragt für Firmenzentralen, 4- und 5-Sterne-Hotels sowie architektonisch bedeutende Gebäude.
-
-| Konfiguration | Richtpreis |
-|---|---|
-| Vollständig strukturell, Sicherheitsglas | 2.200–3.000 Lei/m² |
-| Punkthalter, Verbundglas 10+10 | 2.800–4.000 Lei/m² |
+Der Endpreis hängt von Fläche, Fassadenraster, Glasart und Gebäudehöhe ab. Das Angebot senden wir innerhalb von 48 Stunden nach Erhalt der Pläne.
 
 ---
 
-## Glasarten für Bürofassaden — wofür sich der Markt 2026 entscheidet
+## Glasarten für Bürofassaden
 
-**Beidseitig reflektierendes Glas** — Standard für Bukarester Büros. Es verringert die Überhitzung in nach Süden und Westen ausgerichteten Bereichen. g-Wert 0,20–0,35.
+**Sonnenschutzglas** — verringert die Überhitzung in Räumen nach Süden und Westen. Der g-Wert liegt meist zwischen 0,20 und 0,40, je nach Produkt.
 
-**Zweifach-Low-E-Glas** (4+16+4 mit Argon und Low-E-Schicht) — der Standard für BREEAM Very Good. Uw = 1,0–1,2 W/m²K. Die am häufigsten ausgeschriebene Variante in neuen Projekten in Barbu Văcărescu und Floreasca.
+**Zweifach-Low-E-Glas** (Low-E-Beschichtung und Argon) — in neuen Büroprojekten am häufigsten ausgeschrieben, mit gutem Verhältnis von Kosten und Leistung.
 
-**Siebdruckglas** — keramischer Druck auf Fläche 2 oder 4. Ermöglicht Branding an der Fassade, individuellen Sonnenschutz und gestalterische Effekte.
+**Bedrucktes Glas** — keramischer Siebdruck für Sonnenschutz, Branding an der Fassade oder architektonische Effekte.
 
-**Elektrochromes Glas** — verändert die Transparenz auf elektrischen Befehl. Der Preis liegt drei- bis fünfmal höher als bei Standardglas; eingesetzt in Premiumprojekten mit einem Fassadenbudget über 500 EUR/m².
-
----
-
-## Wie ein Vorhangfassadenprojekt kalkuliert wird
-
-### Schritt 1 — Die Fassadenstudie (1–3 Tage)
-Neofort BIZ erstellt die Fassadenstudie gemeinsam mit dem Projektarchitekten. Wir legen die Systemart fest (Standard, halbstrukturell oder strukturell), das Fassadenraster (Elementbreite), die Glasart und den integrierten Sonnenschutz.
-
-### Schritt 2 — Statische Berechnung (3–7 Tage)
-Windlastberechnung nach EN 1991-1-4, Nachweis der Tragfähigkeit von Pfosten und Riegeln unter den standortspezifischen Lasten. Für die Baugenehmigung zwingend erforderlich.
-
-### Schritt 3 — Werkstattzeichnungen (7–14 Tage)
-Detaillierte Ausführungspläne mit sämtlichen Anschlüssen, Eckdetails, Anbindungen an die Gebäudestruktur sowie Durchführungen für Elektroinstallationen und Sonnenschutzsysteme.
-
-### Schritt 4 — Produktion (21–35 Tage)
-CNC-geschnittene Profile, Glas bestellt bei Saint-Gobain oder Guardian mit den im Projekt festgelegten thermischen und optischen Werten.
-
-### Schritt 5 — Montage (je nach Fläche)
-- 500 m²: 10–15 Tage mit einem Team von 4 Monteuren und Gerüst
-- 2.000 m²: 30–45 Tage mit 2 parallel arbeitenden Teams
-- ab 5.000 m²: individuelle Planung mit Monatsprogramm
-
-### Schritt 6 — Prüfung und Abnahme
-Schlagregendichtheitsprüfung (Berieselung) und Luftdurchlässigkeitsprüfung nach EN 1027/EN 1026. Vollständige Unterlagen für die Bauabnahme und die BREEAM/LEED-Akte.
+**Dreifachglas** — für Gebäude mit hohen energetischen Anforderungen; es macht die Scheiben schwerer, was bei der Systemwahl zählt.
 
 ---
 
-## Bürolagen in Bukarest — welche Projekte wir liefern
+## Wie ein Vorhangfassadenprojekt abläuft
 
-**Barbu Văcărescu – Floreasca** — die aktivste Class-A-Lage. Abgeschlossene und laufende Projekte: CW50- und CW60-Systeme mit Reflexionsglas und integrierten Raffstore-Jalousien.
+### Schritt 1 — Die Fassadenstudie
+Gemeinsam mit dem Architekten legen wir System (Standard, halbstrukturell oder strukturell), Fassadenraster, Glasart und integrierten Sonnenschutz fest.
 
-**Pipera – Voluntari** — die Lage mit dem größten Bürobestand im Großraum Bukarest. Überwiegend Projekte mit Standard-CW50 und Zweifach-Low-E-Glas.
+### Schritt 2 — Statische Berechnung
+Windlastberechnung nach EN 1991-1-4 und Nachweis von Pfosten und Riegeln für die Lasten am Standort.
 
-**Centru-Vest (Orhideea, Splaiul Independenței)** — eine Mischung aus CW50 und halbstrukturellen Systemen. Zeitgenössische Architektur mit Betonung auf klarer Linie.
+### Schritt 3 — Werkplanung
+Pläne mit Verbindungen, Ecken, Anschlüssen an den Rohbau und Durchführungen für Haustechnik und Sonnenschutz.
 
-**Timpuri Noi – Unirii** — aktive Stadterneuerung. Projekte mit halbstrukturellen Systemen und Siebdruckglas für eine unverwechselbare visuelle Identität.
+### Schritt 4 — Fertigung
+Die Profile werden auf CNC-Maschinen zugeschnitten, das Glas wird bei Saint-Gobain oder Guardian nach den Projektvorgaben bestellt. Das endgültige Aufmaß auf der Baustelle erfolgt nach Vertragsunterzeichnung.
+
+### Schritt 5 — Montage
+Die Dauer hängt von Fläche, Baustellenzugang und Zahl der Teams ab. Den Zeitplan legen wir mit dem Generalunternehmer fest.
+
+### Schritt 6 — Prüfungen und Abnahme
+Dichtheitsprüfungen vor Ort auf Anfrage sowie die vollständigen Unterlagen für die Abnahme und für BREEAM- oder LEED-Akten.
+
+---
+
+## Bürostandorte in Bukarest
+
+**Barbu Văcărescu – Floreasca** — das aktivste Gebiet für Büros der Klasse A, mit Vorhangfassaden aus Reflexionsglas und integriertem Sonnenschutz.
+
+**Pipera – Voluntari** — ein Gebiet mit großem Bürobestand, in dem Standard-Vorhangfassaden mit Zweifach-Low-E-Glas überwiegen.
+
+**Centru-Vest (Orhideea, Splaiul Independenței)** — eine Mischung aus Standard- und halbstrukturellen Systemen, mit Betonung klarer Linien.
+
+**Timpuri Noi – Unirii** — Stadterneuerung mit halbstrukturellen Systemen und bedrucktem Glas für eine eigene visuelle Identität.
 
 ---
 
 ## Warum Neofort BIZ für Büroprojekte
 
-**Lokaler Alumil-Lagerbestand** — der größte Vorteil gegenüber Importeuren mit 6–8 Wochen Lieferzeit. Wir bestätigen verfügbare Mengen binnen 24 Stunden und liefern Profile in 3–5 Tagen.
+**Zwei Systeme** — wir arbeiten mit Reynaers und mit Alumil und wählen das System, das zum Projekt passt, nicht das, das gerade vorhanden ist.
 
-**Technische Kompetenz** — ein Team mit Erfahrung in gewerblichen Projekten von 500 bis 10.000 m². Unterstützung bei den wärmetechnischen Nachweisen für BREEAM- und LEED-Zertifizierungen.
+**Technische Unterstützung** — Wärme- und Statikberechnungen sowie Unterlagen für BREEAM oder LEED.
 
-**Vollständige Unterlagen** — Leistungserklärungen (DoP), technische Datenblätter, Prüfberichte und CE-Zertifikate für alle Alumil-Systeme.
+**Vollständige Dokumentation** — Leistungserklärungen, Datenblätter und CE-Kennzeichnung für die gelieferten Systeme.
 
-**Eigene Montage** — bei gewerblichen Projekten vergeben wir die Montage nicht an Subunternehmer. Spezialteams mit Erfahrung in Höhenarbeit.
+**Eigene Montageteams** — mit Erfahrung bei Arbeiten in der Höhe.
 
-Wenden Sie sich für Büro- und Gewerbeprojekte an unsere Vertriebsabteilung:
+Kontaktieren Sie die Vertriebsabteilung für Büro- und Gewerbeprojekte:
 
-**WhatsApp Projekte:** +40 752 443 439 | **Mo–Fr 10–18**
+**WhatsApp Projekte:** +40 752 443 439 | **Mo–Fr 10–18 Uhr**
 
 ## Häufig gestellte Fragen
 
-### Welche technischen Anforderungen muss eine Bürofassade in Bukarest erfüllen?
+### Welche technischen Anforderungen muss eine Vorhangfassade für Büros erfüllen?
 
-Eine Bürofassade muss gleichzeitig erreichen: Windwiderstand Klasse C4/B4 (Druck ≥ 2.000 Pa) über 20 m Höhe, Schlagregendichtheit Klasse E1050 oder E1200, Wärmeschutz Uw ≤ 1,4 W/m²K (Anforderung BREEAM Very Good) und Feuerwiderstand von mindestens EI 30 bei der Geschossabschottung.
+Die Windlast wird nach EN 1991-1-4 für Höhe und Standort des Gebäudes berechnet. Schlagregendichtheit und Luftdurchlässigkeit werden nach EN 13830 erklärt, der Wärmeschutz wird je Projekt berechnet, und das Brandverhalten ergibt sich aus dem Brandschutzkonzept.
 
-### Warum ist die Vorhangfassade der Standard für Class-A-Bürogebäude?
+### Welche Vorhangfassadensysteme verwendet Neofort BIZ?
 
-Die Vorhangfassade aus Aluminium und Glas ist 2026 der De-facto-Standard für jedes Class-A-Bürogebäude in Bukarest, gefordert von multinationalen Unternehmensmietern, von den Energiezertifizierungen BREEAM, LEED und DGNB sowie von den europäischen Effizienzvorschriften.
+Wir arbeiten mit Reynaers CW 50 und CW 60 sowie mit Alumil SMARTIA M50. CW 50 und SMARTIA M50 haben Pfosten mit 50 mm Ansichtsbreite und decken die meisten Bürogebäude ab, CW 60 wird für große Glasflächen und geneigte oder gekrümmte Fassaden gewählt.
 
-### Welche Green-Building-Zertifizierungen unterstützen Alumil-Vorhangfassaden?
+### Was kostet eine Vorhangfassade für ein Bürogebäude?
 
-Die Vorhangfassadensysteme von Alumil können die Anforderungen der Zertifizierungen BREEAM, LEED und DGNB erfüllen; die technischen Unterlagen werden auf Anfrage bereitgestellt. Ein Wärmeschutz von Uw ≤ 1,4 W/m²K entspricht der BREEAM-Very-Good-Anforderung für Fassaden.
+Eine Standard-Vorhangfassade mit Zweifach-Low-E-Glas und Montage kostet als Richtwert 450–700 EUR/m², ohne MwSt. Dreifachglas, integrierter Sonnenschutz und halbstrukturelle oder strukturelle Varianten werden je Projekt angeboten und liegen meist darüber.
 
-### Mit wem arbeitet Neofort BIZ bei Vorhangfassadenprojekten für Büros?
+### Welche Zertifizierungen für nachhaltiges Bauen können Vorhangfassaden unterstützen?
 
-Neofort BIZ arbeitet direkt mit Projektentwicklern, Architekten und Generalunternehmern in Bukarest bei Lieferung und Montage von Alumil-Vorhangfassadensystemen. Bukarest verfügt über mehr als 4 Millionen m² moderne Bürofläche, mit 15–20 neuen Projekten jährlich.
+Systeme von Reynaers und Alumil können in Gebäuden mit BREEAM-, LEED- oder DGNB-Zertifizierung eingesetzt werden. Zertifiziert wird das Gebäude, nicht die Fassade, und wir liefern die technischen Unterlagen für die Akte.
 
----
+### Mit wem arbeitet Neofort BIZ bei Vorhangfassadenprojekten zusammen?
 
-Neofort BIZ führt Aluminium- und Fassadenarbeiten in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Sehen Sie auch [den vollständigen Ratgeber zu Aluminiumfenstern](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Aluminiumfenster in Bukarest](/de/aluminiumfenster/bukarest) und [Saint-Gobain SGG Wärmeschutzglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas).`,
+Wir arbeiten direkt mit Projektentwicklern, Architekten und Generalunternehmern in Bukarest bei Lieferung und Montage von Vorhangfassaden zusammen. Nützliche Seiten: [Aluminiumfenster in Bukarest](/de/aluminiumfenster/bukarest) und [Saint-Gobain SGG Wärmeschutzglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas).`,
 
-      fr: `## Le marché des bureaux à Bucarest et l’exigence d’une façade moderne
+      fr: `## Le marché des bureaux de Bucarest et l’exigence d’une façade moderne
 
-Bucarest est le marché de bureaux le plus actif d’Europe du Sud-Est. En 2024–2025, le parc de bureaux modernes a dépassé **4 millions de m²**, avec 15 à 20 nouveaux projets par an dans des secteurs comme Floreasca–Barbu Văcărescu, Pipera, Centru-Vest et Timpuri Noi.
+Bucarest est le premier marché de bureaux de Roumanie, et les nouveaux immeubles de classe A se concentrent dans des quartiers comme Floreasca–Barbu Văcărescu, Pipera, Centru-Vest et Timpuri Noi.
 
-**Le standard de fait** pour tout immeuble de bureaux de classe A à Bucarest en 2026 est le mur-rideau en aluminium et verre — une exigence imposée par les locataires corporatifs (multinationales), par les référentiels de certification énergétique (BREEAM, LEED, DGNB) et par la réglementation européenne d’efficacité énergétique.
+**La norme de fait** pour un immeuble de bureaux de classe A est le mur-rideau en aluminium et verre. Les locataires corporate le demandent, les certifications de bâtiment durable (BREEAM, LEED, DGNB) le soutiennent et les exigences de performance énergétique l’imposent indirectement.
 
-Neofort BIZ travaille directement avec les **promoteurs immobiliers, architectes et entreprises générales** de Bucarest pour la fourniture et la [pose](/fr/services) des systèmes de murs-rideaux Alumil. Cette page rassemble tout ce qu’il faut savoir avant d’ouvrir un dossier de projet. Voir aussi [le guide complet de la menuiserie aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).
+Neofort BIZ travaille avec des **promoteurs, architectes et entreprises générales** à Bucarest pour la fourniture et la [pose](/fr/services) de murs-rideaux réalisés avec les systèmes Reynaers et Alumil. Cette page réunit ce qu’il faut savoir avant d’ouvrir un dossier de projet. Voir aussi [le guide complet de la menuiserie aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet).
 
 ---
 
 ## Ce qui rend un mur-rideau adapté aux bureaux
 
-Contrairement à un bâtiment résidentiel, une façade de bureaux doit satisfaire simultanément des **exigences techniques, esthétiques et de certification** bien plus strictes :
+Contrairement à une maison, une façade de bureaux doit satisfaire en même temps des **exigences techniques, esthétiques et documentaires** bien plus strictes :
 
 **Exigences techniques :**
-- Résistance au vent : classe C4/B4 (pression ≥ 2 000 Pa) pour les hauteurs supérieures à 20 m
-- Étanchéité à l’eau : classe E1050 ou E1200
-- Perméabilité à l’air : classe A4
-- Performance thermique : Uw de l’ensemble ≤ 1,4 W/m²K (exigence BREEAM Very Good)
-- Résistance au feu : minimum EI 30 au recoupement des étages
+- Résistance au vent fixée par calcul, selon l’EN 1991-1-4, pour la hauteur et le site du bâtiment
+- Étanchéité à l’eau et perméabilité à l’air déclarées selon l’EN 13830
+- Performance thermique de l’ensemble calculée par projet, selon l’EN ISO 12631
+- Comportement au feu fixé par le scénario de sécurité incendie du bâtiment
 
 **Exigences esthétiques :**
 - Une ligne visuelle uniforme sur toutes les façades
-- Compatibilité avec les systèmes d’occultation intégrés (stores Raffstore en coffre)
-- Options de verre réfléchissant, sérigraphie ou impression numérique
-- Possibilité de laquage RAL spécial ou d’anodisation
+- Compatibilité avec l’occultation extérieure (brise-soleil Raffstore ou Zipscreen)
+- Verre réfléchissant, sérigraphié ou à contrôle solaire
+- Couleurs RAL spéciales ou anodisation
 
-**Exigences de certification :**
-- Déclaration des Performances (DoP) selon EN 13830
-- Calculs thermiques validés selon EN ISO 10077
-- Rapport d’essai au vent selon EN 12179
-- Documentation BREEAM/LEED sur demande
+**Documentation :**
+- Déclaration de performances (DoP) et marquage CE selon l’EN 13830
+- Calculs thermiques et statiques du projet
+- Documentation technique pour les dossiers BREEAM ou LEED, sur demande
 
 ---
 
-## Systèmes Alumil pour murs-rideaux — comparatif technique
+## Systèmes de murs-rideaux — comparaison technique
 
-### Alumil CW50 — le système standard, le plus utilisé à Bucarest
+### Reynaers CW 50 et Alumil SMARTIA M50 — les systèmes standard à montants de 50 mm
 
-**Profilé visible de 50 mm** en vertical et en horizontal. Le plus économique et le plus rapide à poser. En stock permanent à Bucarest — livraison en 3 à 5 jours.
+Les deux ont une **largeur vue de 50 mm** sur montants et traverses et couvrent la plupart des immeubles de bureaux.
 
-Caractéristiques techniques :
-- Profondeur du montant : 50 mm
-- Rupture de pont thermique : polyamide 34 mm
-- Uw de l’ensemble : 1,3–1,6 W/m²K (double vitrage Low-E 4+16+4)
-- Uw de l’ensemble : 1,0–1,2 W/m²K (triple vitrage Low-E)
-- Résistance au vent : C4/B4 (2 000 Pa)
-- Étanchéité à l’eau : E1050
-- Épaisseur de vitrage maximale : 50 mm
-- Hauteur maximale de panneau (sans appui intermédiaire) : 4 200 mm
-- Largeur maximale de panneau : 1 800 mm
+Reynaers CW 50, selon la fiche du fabricant :
+- Profondeur des montants : de 42 à 316,5 mm, choisie par le calcul statique
+- Vitrage : de 6 à 62 mm
+- Uf jusqu’à 0,8 W/m²K, selon la combinaison de profilés
+- Perméabilité à l’air jusqu’à AE 1200 et étanchéité à l’eau jusqu’à RE 1200
+- Variantes : HI (isolation renforcée), SG (vitrage extérieur collé), SC (vitrage structurel pincé), FP (coupe-feu EI 30 et EI 60)
 
-**Options de coffre d’occultation intégré :** les stores Raffstore 80 mm et le Zipscreen peuvent être intégrés au coffre du [mur-rideau](/fr/menuiserie-aluminium).
+Alumil SMARTIA M50, selon la fiche du fabricant :
+- Profondeur des montants et traverses : de 12 à 234 mm
+- Vitrage maintenu par serreur ou silicone structurel
+- Uf entre 1,0 et 1,8 W/m²K
+- Perméabilité à l’air classe AE, étanchéité à l’eau classe R7
+- Isolation acoustique jusqu’à 47 dB et versions résistantes au feu E30 et EW30
 
-**Prix indicatifs CW50 — 2026 :**
+**Occultation intégrée :** les brise-soleil Raffstore et le Zipscreen peuvent être intégrés à la façade en [mur-rideau](/fr/menuiserie-aluminium).
 
-> ⚠️ **Note :** les prix sont indicatifs et susceptibles d’évoluer. Demandez un devis actualisé pour votre projet.
+### Reynaers CW 60 — pour les grandes surfaces, inclinées ou courbes
+
+**Largeur vue de 60 mm** à l’intérieur. Reynaers le recommande pour les grandes surfaces vitrées, les façades inclinées ou courbes et les rénovations.
+
+- Profondeur des montants : de 79 à 268 mm
+- Vitrage : de 6 à 44 mm (de 22 à 46 mm pour la variante HI)
+- Poids maximal d’un vitrage : 450 kg
+- Perméabilité à l’air classe A4
+- Variantes : HI, SC et SG
+
+### Façades semi-structurelles et structurelles
+
+Dans les variantes SG, le profilé n’est visible que de l’intérieur ; de l’extérieur, on voit le verre et les joints silicone. Elles sont choisies pour les sièges sociaux et les bâtiments à forte exigence architecturale.
+
+---
+
+## Prix indicatifs 2026
+
+Les prix comprennent le profilé, le vitrage isolant et la pose. Ils sont en EUR, hors TVA.
 
 | Configuration | Prix indicatif |
 |---|---|
-| CW50, double vitrage Low-E, pose standard | 800–1 100 lei/m² |
-| CW50, triple vitrage Low-E, pose standard | 1 100–1 500 lei/m² |
-| CW50 avec coffre Raffstore intégré | 1 600–2 200 lei/m² |
-| **Surface 200–500 m² (remise quantité)** | **750–1 000 lei/m²** |
+| Mur-rideau standard (Reynaers CW 50 ou Alumil SMARTIA M50), double vitrage Low-E | 450–700 EUR/m² |
+| Triple vitrage, occultation intégrée, variantes semi-structurelles ou structurelles | devis par projet, en général au-delà de 700 EUR/m² |
 
-### Alumil CW60 — système à profilé fin, aspect premium
-
-**Profilé visible de 60 mm** en vertical, dessin plus fin que le CW50. Préféré des architectes qui recherchent des lignes fines en façade.
-
-Caractéristiques techniques :
-- Profondeur du montant : 60 mm
-- Rupture de pont thermique : 34 mm améliorée
-- Uw de l’ensemble : 1,1–1,4 W/m²K (double vitrage Low-E)
-- Compatible triple vitrage Low-E pour BREEAM Excellent
-- Résistance au vent : C4/B4
-
-**Prix indicatifs CW60 — 2026 :**
-
-> ⚠️ **Note :** les prix sont indicatifs et susceptibles d’évoluer.
-
-| Configuration | Prix indicatif |
-|---|---|
-| CW60, double vitrage Low-E | 1 200–1 600 lei/m² |
-| CW60, triple vitrage Low-E | 1 500–2 000 lei/m² |
-| CW60 semi-structurel, double vitrage Low-E | 1 800–2 400 lei/m² |
-
-### Mur-rideau structurel Alumil — l’esthétique maximale
-
-Profilé entièrement dissimulé. De l’extérieur, seuls le verre et les joints de silicone sont visibles. Le plus demandé pour les sièges sociaux, les hôtels 4 et 5 étoiles et les bâtiments de référence architecturale.
-
-| Configuration | Prix indicatif |
-|---|---|
-| Structurel intégral, verre trempé | 2 200–3 000 lei/m² |
-| Fixation ponctuelle, verre feuilleté 10+10 | 2 800–4 000 lei/m² |
+Le prix final dépend de la surface, de la trame de façade, du type de verre et de la hauteur du bâtiment. Nous envoyons le devis sous 48 heures après réception des plans.
 
 ---
 
-## Types de verre pour façades de bureaux — les choix du marché en 2026
+## Types de verre pour les façades de bureaux
 
-**Verre réfléchissant double face** — le standard pour les bureaux de Bucarest. Il limite la surchauffe dans les espaces exposés sud et ouest. Facteur solaire g = 0,20–0,35.
+**Verre à contrôle solaire** — limite la surchauffe des espaces exposés au sud et à l’ouest. Le facteur solaire g se situe en général entre 0,20 et 0,40, selon le produit.
 
-**Double vitrage Low-E** (4+16+4 argon avec couche Low-E) — le standard BREEAM Very Good. Uw = 1,0–1,2 W/m²K. L’option la plus fréquemment prescrite dans les nouveaux projets de Barbu Văcărescu et Floreasca.
+**Double vitrage Low-E** (couche Low-E et argon) — le plus souvent prescrit dans les nouveaux projets de bureaux, avec un bon équilibre coût-performance.
 
-**Verre sérigraphié** — impression céramique en face 2 ou 4. Il permet le marquage en façade, un contrôle solaire sur mesure et des effets architecturaux.
+**Verre sérigraphié** — impression céramique pour le contrôle solaire, l’affichage de marque en façade ou des effets architecturaux.
 
-**Verre électrochrome** — modifie sa transparence sur commande électrique. Son prix est trois à cinq fois supérieur au verre standard ; il est réservé aux projets premium dont le budget façade dépasse 500 EUR/m².
-
----
-
-## Comment se calcule un projet de mur-rideau
-
-### Étape 1 — L’étude de façade (1 à 3 jours)
-Neofort BIZ réalise l’étude de façade avec l’architecte du projet. Nous définissons le type de système (standard, semi-structurel ou structurel), la trame de façade (largeur de panneau), le type de verre et le système d’occultation intégré.
-
-### Étape 2 — Le calcul structurel (3 à 7 jours)
-Calcul au vent selon EN 1991-1-4, vérification de la résistance des montants et traverses aux charges propres au site. Obligatoire pour le permis de construire.
-
-### Étape 3 — Plans d’exécution (7 à 14 jours)
-Plans détaillés reprenant tous les assemblages, les détails d’angle, les raccords à la structure du bâtiment et les passages pour les installations électriques et les systèmes d’occultation.
-
-### Étape 4 — Production (21 à 35 jours)
-Profilés découpés en CNC, verre commandé chez Saint-Gobain ou Guardian avec les caractéristiques thermiques et optiques du projet.
-
-### Étape 5 — Pose (selon la surface)
-- 500 m² : 10 à 15 jours avec une équipe de 4 poseurs et échafaudages
-- 2 000 m² : 30 à 45 jours avec 2 équipes en parallèle
-- 5 000 m² et plus : planification individuelle avec programme mensuel
-
-### Étape 6 — Essais et réception
-Essai d’étanchéité à l’eau (aspersion) et de perméabilité à l’air selon EN 1027/EN 1026. Documentation complète pour la réception des travaux et le dossier BREEAM/LEED.
+**Triple vitrage** — pour les bâtiments aux exigences énergétiques élevées ; il alourdit les vitrages, ce qui compte dans le choix du système.
 
 ---
 
-## Les quartiers de bureaux de Bucarest — les projets que nous livrons
+## Le déroulement d’un projet de mur-rideau
 
-**Barbu Văcărescu – Floreasca** — le secteur classe A le plus actif. Projets achevés et en cours : systèmes CW50 et CW60 avec verre réfléchissant et stores Raffstore intégrés.
+### Étape 1 — L’étude de façade
+Avec l’architecte, nous définissons le système (standard, semi-structurel ou structurel), la trame de façade, le type de verre et l’occultation intégrée.
 
-**Pipera – Voluntari** — le secteur au parc de bureaux le plus important du Bucarest métropolitain. Projets majoritairement en CW50 standard avec double vitrage Low-E.
+### Étape 2 — Le calcul statique
+Calcul au vent selon l’EN 1991-1-4 et vérification des montants et traverses sous les charges du site.
 
-**Centru-Vest (Orhideea, Splaiul Independenței)** — un mélange de CW50 et de systèmes semi-structurels. Architecture contemporaine privilégiant la ligne épurée.
+### Étape 3 — Les plans d’exécution
+Plans des assemblages, des angles, des fixations à la structure et des passages pour les réseaux et l’occultation.
 
-**Timpuri Noi – Unirii** — régénération urbaine active. Projets en systèmes semi-structurels et verre sérigraphié pour une identité visuelle affirmée.
+### Étape 4 — La fabrication
+Les profilés sont débités sur machines CNC et le verre est commandé chez Saint-Gobain ou Guardian selon les spécifications du projet. Les métrés définitifs sur chantier se font après la signature du contrat.
+
+### Étape 5 — La pose
+La durée dépend de la surface, de l’accès au chantier et du nombre d’équipes. Nous fixons le planning avec l’entreprise générale.
+
+### Étape 6 — Contrôles et réception
+Contrôles d’étanchéité sur site à la demande, et documentation complète pour la réception et les dossiers BREEAM ou LEED.
+
+---
+
+## Quartiers de bureaux à Bucarest
+
+**Barbu Văcărescu – Floreasca** — la zone de bureaux de classe A la plus active, avec des murs-rideaux en verre réfléchissant et occultation intégrée.
+
+**Pipera – Voluntari** — une zone au parc de bureaux important, où dominent les murs-rideaux standard en double vitrage Low-E.
+
+**Centru-Vest (Orhideea, Splaiul Independenței)** — un mélange de systèmes standard et semi-structurels, avec des lignes épurées.
+
+**Timpuri Noi – Unirii** — renouvellement urbain, avec des systèmes semi-structurels et du verre sérigraphié pour une identité visuelle propre.
 
 ---
 
 ## Pourquoi Neofort BIZ pour les projets de bureaux
 
-**Stock Alumil local** — le principal avantage face aux importateurs affichant 6 à 8 semaines de délai. Nous confirmons les quantités disponibles sous 24 heures et livrons les profilés en 3 à 5 jours.
+**Deux systèmes** — nous travaillons avec Reynaers et avec Alumil, donc nous choisissons le système adapté au projet, pas celui que nous avons sous la main.
 
-**Expertise technique** — une équipe expérimentée sur des projets commerciaux de 500 à 10 000 m². Appui pour les calculs thermiques exigés par les certifications BREEAM et LEED.
+**Appui technique** — calculs thermiques et statiques, et documentation pour BREEAM ou LEED.
 
-**Documentation complète** — Déclarations des Performances (DoP), fiches techniques, rapports d’essai et certificats CE pour tous les systèmes Alumil.
+**Documentation complète** — déclarations de performances, fiches techniques et marquage CE des systèmes fournis.
 
-**Pose en interne** — nous ne sous-traitons pas la pose sur les projets commerciaux. Équipes spécialisées expérimentées dans le travail en hauteur.
+**Équipes de pose internes** — expérimentées dans le travail en hauteur.
 
-Contactez le service commercial pour les projets de bureaux et de commerces :
+Contactez le service commercial pour les projets de bureaux et de locaux commerciaux :
 
-**WhatsApp Projets :** +40 752 443 439 | **Lun–Ven 10–18**
+**WhatsApp Projets :** +40 752 443 439 | **Lun–Ven 10h–18h**
 
 ## Questions fréquentes
 
-### Quelles exigences techniques un mur-rideau de bureaux doit-il satisfaire à Bucarest ?
+### Quelles exigences techniques un mur-rideau de bureaux doit-il remplir ?
 
-Une façade de bureaux doit atteindre simultanément : résistance au vent classe C4/B4 (pression ≥ 2 000 Pa) au-delà de 20 m de hauteur, étanchéité à l’eau classe E1050 ou E1200, performance thermique Uw ≤ 1,4 W/m²K (exigence BREEAM Very Good) et résistance au feu d’au moins EI 30 au recoupement des étages.
+La résistance au vent se fixe par calcul selon l’EN 1991-1-4, pour la hauteur et le site du bâtiment. L’étanchéité à l’eau et la perméabilité à l’air se déclarent selon l’EN 13830, la performance thermique se calcule par projet et le comportement au feu découle du scénario de sécurité incendie.
 
-### Pourquoi le mur-rideau est-il le standard des immeubles de bureaux classe A ?
+### Quels systèmes de murs-rideaux Neofort BIZ utilise-t-il ?
 
-Le mur-rideau en aluminium et verre est le standard de fait pour tout immeuble de bureaux classe A à Bucarest en 2026, imposé par les locataires corporatifs multinationaux, par les certifications énergétiques BREEAM, LEED et DGNB, et par la réglementation européenne d’efficacité énergétique.
+Nous travaillons avec Reynaers CW 50 et CW 60 et avec Alumil SMARTIA M50. Le CW 50 et le SMARTIA M50 ont des montants de 50 mm de largeur vue et couvrent la plupart des immeubles de bureaux, tandis que le CW 60 se choisit pour les grandes surfaces vitrées et les façades inclinées ou courbes.
 
-### Quelles certifications bâtiment durable les murs-rideaux Alumil permettent-ils ?
+### Combien coûte un mur-rideau pour un immeuble de bureaux ?
 
-Les systèmes de murs-rideaux Alumil peuvent répondre aux exigences des certifications BREEAM, LEED et DGNB, avec la documentation technique fournie sur demande. Une performance thermique Uw ≤ 1,4 W/m²K correspond à l’exigence BREEAM Very Good pour les façades.
+Un mur-rideau standard avec double vitrage Low-E et pose coûte à titre indicatif 450–700 EUR/m², hors TVA. Le triple vitrage, l’occultation intégrée et les variantes semi-structurelles ou structurelles font l’objet d’un devis par projet et dépassent en général cette fourchette.
 
-### Avec qui Neofort BIZ travaille-t-il sur les projets de murs-rideaux de bureaux ?
+### Quelles certifications de bâtiment durable les murs-rideaux peuvent-ils soutenir ?
 
-Neofort BIZ travaille directement avec les promoteurs immobiliers, architectes et entreprises générales de Bucarest pour la fourniture et la pose des systèmes de murs-rideaux Alumil. Bucarest compte plus de 4 millions de m² de bureaux modernes, avec 15 à 20 nouveaux projets par an.
+Les systèmes Reynaers et Alumil peuvent être utilisés dans des bâtiments certifiés BREEAM, LEED ou DGNB. La certification est attribuée au bâtiment, pas à la façade, et nous fournissons la documentation technique nécessaire au dossier.
 
----
+### Avec qui Neofort BIZ travaille-t-il sur les projets de murs-rideaux ?
 
-Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Voir aussi [le guide complet de la menuiserie aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Pages utiles : [la menuiserie aluminium à Bucarest](/fr/menuiserie-aluminium/bucarest) et [le vitrage isolant Saint-Gobain SGG](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg).`,
+Nous travaillons directement avec des promoteurs, des architectes et des entreprises générales à Bucarest pour la fourniture et la pose de murs-rideaux. Pages utiles : [la menuiserie aluminium à Bucarest](/fr/menuiserie-aluminium/bucarest) et [le vitrage isolant Saint-Gobain SGG](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg).`,
 
       es: `## El mercado de oficinas de Bucarest y la exigencia de una fachada moderna
 
-Bucarest es el mercado de oficinas más activo del sudeste de Europa. En 2024–2025 el parque de oficinas modernas superó los **4 millones de m²**, con 15–20 proyectos nuevos al año en zonas como Floreasca–Barbu Văcărescu, Pipera, Centru-Vest y Timpuri Noi.
+Bucarest es el mayor mercado de oficinas de Rumanía, y los nuevos edificios de clase A se concentran en zonas como Floreasca–Barbu Văcărescu, Pipera, Centru-Vest y Timpuri Noi.
 
-**El estándar de facto** para cualquier edificio de oficinas de clase A en Bucarest en 2026 es el muro cortina de aluminio y vidrio — una exigencia impuesta por los inquilinos corporativos (multinacionales), por los estándares de certificación energética (BREEAM, LEED, DGNB) y por la normativa europea de eficiencia energética.
+**El estándar de facto** para un edificio de oficinas de clase A es el muro cortina de aluminio y vidrio. Lo piden los inquilinos corporativos, lo respaldan las certificaciones de edificio sostenible (BREEAM, LEED, DGNB) y lo imponen, de forma indirecta, los requisitos de eficiencia energética.
 
-Neofort BIZ trabaja directamente con **promotoras inmobiliarias, arquitectos y contratistas generales** de Bucarest en el suministro y la [instalación](/es/servicios) de los sistemas de muro cortina Alumil. Esta página reúne todo lo que hay que saber antes de abrir un expediente de proyecto. Vea también [la guía completa de la carpintería de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).
+Neofort BIZ trabaja con **promotores inmobiliarios, arquitectos y contratistas generales** de Bucarest en el suministro y la [instalación](/es/servicios) de muros cortina con sistemas Reynaers y Alumil. Esta página reúne lo que hay que saber antes de abrir un expediente de proyecto. Consulta también [la guía completa de la carpintería de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa).
 
 ---
 
-## Qué hace que un muro cortina sea apto para oficinas
+## Qué hace que un muro cortina sea adecuado para oficinas
 
-A diferencia de un edificio residencial, una fachada de oficinas debe cumplir a la vez **requisitos técnicos, estéticos y de certificación** mucho más estrictos:
+A diferencia de una vivienda, una fachada de oficinas tiene que cumplir a la vez **requisitos técnicos, estéticos y de documentación** mucho más estrictos:
 
 **Requisitos técnicos:**
-- Resistencia al viento: clase C4/B4 (presión ≥ 2.000 Pa) para alturas superiores a 20 m
-- Estanqueidad al agua: clase E1050 o E1200
-- Permeabilidad al aire: clase A4
-- Prestación térmica: Uw del conjunto ≤ 1,4 W/m²K (requisito BREEAM Very Good)
-- Resistencia al fuego: mínimo EI 30 en la compartimentación de plantas
+- Resistencia al viento fijada por cálculo, según la EN 1991-1-4, para la altura y el emplazamiento del edificio
+- Estanqueidad al agua y permeabilidad al aire declaradas según la EN 13830
+- Comportamiento térmico del conjunto calculado por proyecto, según la EN ISO 12631
+- Comportamiento ante el fuego fijado por el escenario de seguridad contra incendios del edificio
 
 **Requisitos estéticos:**
 - Una línea visual uniforme en todas las fachadas
-- Compatibilidad con sistemas de sombreado integrados (persianas Raffstore en cajón)
-- Opciones de vidrio reflectante, serigrafía o impresión digital
-- Posibilidad de lacado RAL especial o anodizado
+- Compatibilidad con la protección solar exterior (venecianas Raffstore o Zipscreen)
+- Vidrio reflectante, serigrafiado o de control solar
+- Colores RAL especiales o anodizado
 
-**Requisitos de certificación:**
-- Declaración de Prestaciones (DoP) conforme a EN 13830
-- Cálculos térmicos validados conforme a EN ISO 10077
-- Informe de ensayo al viento conforme a EN 12179
-- Documentación BREEAM/LEED a petición
+**Documentación:**
+- Declaración de prestaciones (DoP) y marcado CE según la EN 13830
+- Cálculos térmicos y estructurales del proyecto
+- Documentación técnica para los expedientes BREEAM o LEED, bajo petición
 
 ---
 
-## Sistemas Alumil para muro cortina — comparativa técnica
+## Sistemas de muro cortina — comparación técnica
 
-### Alumil CW50 — el sistema estándar, el más usado en Bucarest
+### Reynaers CW 50 y Alumil SMARTIA M50 — los sistemas estándar con montantes de 50 mm
 
-**Perfil visto de 50 mm** en vertical y horizontal. El más económico y el más rápido de instalar. En stock permanente en Bucarest — entrega en 3–5 días.
+Ambos tienen un **ancho visto de 50 mm** en montantes y travesaños y cubren la mayoría de los edificios de oficinas.
 
-Especificaciones técnicas:
-- Profundidad del montante: 50 mm
-- Rotura de puente térmico: poliamida de 34 mm
-- Uw del conjunto: 1,3–1,6 W/m²K (doble acristalamiento Low-E 4+16+4)
-- Uw del conjunto: 1,0–1,2 W/m²K (triple acristalamiento Low-E)
-- Resistencia al viento: C4/B4 (2.000 Pa)
-- Estanqueidad al agua: E1050
-- Espesor máximo de vidrio: 50 mm
-- Altura máxima de panel (sin apoyo intermedio): 4.200 mm
-- Anchura máxima de panel: 1.800 mm
+Reynaers CW 50, según la ficha del fabricante:
+- Profundidad de los montantes: de 42 a 316,5 mm, elegida por cálculo estructural
+- Acristalamiento: de 6 a 62 mm
+- Uf de hasta 0,8 W/m²K, según la combinación de perfiles
+- Permeabilidad al aire hasta AE 1200 y estanqueidad al agua hasta RE 1200
+- Variantes: HI (aislamiento reforzado), SG (vidrio pegado estructural), SC (vidrio fijado estructural), FP (resistente al fuego EI 30 y EI 60)
 
-**Opciones de cajón de sombreado integrado:** las persianas Raffstore de 80 mm y el Zipscreen pueden integrarse en el cajón del [muro cortina](/es/carpinteria-aluminio).
+Alumil SMARTIA M50, según la ficha del fabricante:
+- Profundidad de montantes y travesaños: de 12 a 234 mm
+- Vidrio sujeto con tapeta de presión o silicona estructural
+- Uf entre 1,0 y 1,8 W/m²K
+- Permeabilidad al aire clase AE, estanqueidad al agua clase R7
+- Aislamiento acústico de hasta 47 dB y versiones resistentes al fuego E30 y EW30
 
-**Precios orientativos CW50 — 2026:**
+**Protección solar integrada:** las venecianas Raffstore y el Zipscreen se pueden integrar en la fachada de [muro cortina](/es/carpinteria-aluminio).
 
-> ⚠️ **Nota:** los precios son orientativos y pueden variar. Solicite un presupuesto actualizado para su proyecto.
+### Reynaers CW 60 — para superficies grandes, inclinadas o curvas
+
+**Ancho visto de 60 mm** por el interior. Reynaers lo recomienda para grandes superficies acristaladas, fachadas inclinadas o curvas y rehabilitaciones.
+
+- Profundidad de los montantes: de 79 a 268 mm
+- Acristalamiento: de 6 a 44 mm (de 22 a 46 mm en la variante HI)
+- Peso máximo de un panel de vidrio: 450 kg
+- Permeabilidad al aire clase A4
+- Variantes: HI, SC y SG
+
+### Fachadas semiestructurales y estructurales
+
+En las variantes SG el perfil solo se ve por dentro, y desde fuera quedan a la vista el vidrio y las juntas de silicona. Se eligen para sedes corporativas y edificios con altas exigencias arquitectónicas.
+
+---
+
+## Precios orientativos 2026
+
+Los precios incluyen el perfil, el vidrio aislante y la instalación. Están en EUR, sin IVA.
 
 | Configuración | Precio orientativo |
 |---|---|
-| CW50, doble acristalamiento Low-E, instalación estándar | 800–1.100 lei/m² |
-| CW50, triple acristalamiento Low-E, instalación estándar | 1.100–1.500 lei/m² |
-| CW50 con cajón Raffstore integrado | 1.600–2.200 lei/m² |
-| **Superficie 200–500 m² (descuento por cantidad)** | **750–1.000 lei/m²** |
+| Muro cortina estándar (Reynaers CW 50 o Alumil SMARTIA M50), doble vidrio Low-E | 450–700 EUR/m² |
+| Triple vidrio, protección solar integrada, variantes semiestructurales o estructurales | presupuesto por proyecto, por lo general más de 700 EUR/m² |
 
-### Alumil CW60 — sistema de perfil estrecho, aspecto premium
-
-**Perfil visto de 60 mm** en vertical, de diseño más estrecho que el CW50. Preferido por los arquitectos que buscan líneas finas en fachada.
-
-Especificaciones técnicas:
-- Profundidad del montante: 60 mm
-- Rotura de puente térmico: 34 mm mejorada
-- Uw del conjunto: 1,1–1,4 W/m²K (doble acristalamiento Low-E)
-- Compatible con triple acristalamiento Low-E para BREEAM Excellent
-- Resistencia al viento: C4/B4
-
-**Precios orientativos CW60 — 2026:**
-
-> ⚠️ **Nota:** los precios son orientativos y pueden variar.
-
-| Configuración | Precio orientativo |
-|---|---|
-| CW60, doble acristalamiento Low-E | 1.200–1.600 lei/m² |
-| CW60, triple acristalamiento Low-E | 1.500–2.000 lei/m² |
-| CW60 semiestructural, doble acristalamiento Low-E | 1.800–2.400 lei/m² |
-
-### Muro cortina estructural Alumil — la máxima estética
-
-Perfil completamente oculto. Desde el exterior solo se ven el vidrio y las juntas de silicona. El más solicitado para sedes corporativas, hoteles de 4 y 5 estrellas y edificios de referencia arquitectónica.
-
-| Configuración | Precio orientativo |
-|---|---|
-| Estructural completo, vidrio templado | 2.200–3.000 lei/m² |
-| Fijación puntual, vidrio laminado 10+10 | 2.800–4.000 lei/m² |
+El precio final depende de la superficie, el módulo de fachada, el tipo de vidrio y la altura del edificio. Enviamos el presupuesto en 48 horas desde que recibimos los planos.
 
 ---
 
-## Tipos de vidrio para fachadas de oficinas — qué elige el mercado en 2026
+## Tipos de vidrio para fachadas de oficinas
 
-**Vidrio reflectante por ambas caras** — el estándar para oficinas en Bucarest. Reduce el sobrecalentamiento en espacios orientados a sur y oeste. Factor solar g = 0,20–0,35.
+**Vidrio de control solar** — reduce el sobrecalentamiento de los espacios orientados al sur y al oeste. El factor solar g suele estar entre 0,20 y 0,40, según el producto.
 
-**Doble acristalamiento Low-E** (4+16+4 con argón y capa Low-E) — el estándar BREEAM Very Good. Uw = 1,0–1,2 W/m²K. La opción más prescrita en los proyectos nuevos de Barbu Văcărescu y Floreasca.
+**Doble vidrio Low-E** (capa Low-E y argón) — el más especificado en los nuevos proyectos de oficinas, con un buen equilibrio entre coste y prestaciones.
 
-**Vidrio serigrafiado** — impresión cerámica en cara 2 o 4. Permite marca en fachada, control solar a medida y efectos arquitectónicos.
+**Vidrio serigrafiado** — impresión cerámica para control solar, imagen de marca en fachada o efectos arquitectónicos.
 
-**Vidrio electrocrómico** — cambia su transparencia por orden eléctrica. Cuesta de tres a cinco veces más que el vidrio estándar y se emplea en proyectos premium con presupuesto de fachada superior a 500 EUR/m².
-
----
-
-## Cómo se calcula un proyecto de muro cortina
-
-### Paso 1 — El estudio de fachada (1–3 días)
-Neofort BIZ realiza el estudio de fachada junto con el arquitecto del proyecto. Definimos el tipo de sistema (estándar, semiestructural o estructural), el módulo de fachada (anchura de panel), el tipo de vidrio y el sistema de sombreado integrado.
-
-### Paso 2 — El cálculo estructural (3–7 días)
-Cálculo al viento conforme a EN 1991-1-4, comprobación de la resistencia de montantes y travesaños frente a las cargas propias del emplazamiento. Obligatorio para la licencia de obra.
-
-### Paso 3 — Planos de taller (7–14 días)
-Planos de ejecución detallados con todos los encuentros, detalles de esquina, enlaces con la estructura del edificio y pasos para instalaciones eléctricas y sistemas de sombreado.
-
-### Paso 4 — Producción (21–35 días)
-Perfiles cortados con CNC, vidrio pedido a Saint-Gobain o Guardian con las especificaciones térmicas y ópticas del proyecto.
-
-### Paso 5 — Instalación (según la superficie)
-- 500 m²: 10–15 días con un equipo de 4 instaladores y andamios
-- 2.000 m²: 30–45 días con 2 equipos en paralelo
-- Más de 5.000 m²: planificación individual con programa mensual
-
-### Paso 6 — Ensayos y recepción
-Ensayo de estanqueidad al agua (aspersión) y de permeabilidad al aire según EN 1027/EN 1026. Documentación completa para la recepción de la obra y el expediente BREEAM/LEED.
+**Triple vidrio** — para edificios con altas exigencias energéticas; aumenta el peso de los paneles, lo que cuenta al elegir el sistema.
 
 ---
 
-## Zonas de oficinas de Bucarest — los proyectos que entregamos
+## Cómo se desarrolla un proyecto de muro cortina
 
-**Barbu Văcărescu – Floreasca** — la zona clase A más activa. Proyectos terminados y en curso: sistemas CW50 y CW60 con vidrio reflectante y persianas Raffstore integradas.
+### Paso 1 — El estudio de fachada
+Junto con el arquitecto definimos el sistema (estándar, semiestructural o estructural), el módulo de fachada, el tipo de vidrio y la protección solar integrada.
 
-**Pipera – Voluntari** — la zona con mayor parque de oficinas del Bucarest metropolitano. Proyectos predominantemente en CW50 estándar con doble acristalamiento Low-E.
+### Paso 2 — El cálculo estructural
+Cálculo a viento según la EN 1991-1-4 y comprobación de montantes y travesaños frente a las cargas del emplazamiento.
 
-**Centru-Vest (Orhideea, Splaiul Independenței)** — una mezcla de CW50 y sistemas semiestructurales. Arquitectura contemporánea con énfasis en la línea limpia.
+### Paso 3 — Los planos de taller
+Planos con las uniones, las esquinas, los anclajes a la estructura y los pasos para instalaciones y protección solar.
 
-**Timpuri Noi – Unirii** — regeneración urbana activa. Proyectos con sistemas semiestructurales y vidrio serigrafiado para una identidad visual propia.
+### Paso 4 — La fabricación
+Los perfiles se cortan en máquinas CNC y el vidrio se pide a Saint-Gobain o Guardian con las especificaciones del proyecto. Las mediciones finales en obra se hacen después de firmar el contrato.
+
+### Paso 5 — La instalación
+La duración depende de la superficie, del acceso a la obra y del número de equipos. Fijamos el calendario con el contratista general.
+
+### Paso 6 — Comprobaciones y recepción
+Comprobaciones de estanqueidad en obra bajo petición y la documentación completa para la recepción y los expedientes BREEAM o LEED.
+
+---
+
+## Zonas de oficinas de Bucarest
+
+**Barbu Văcărescu – Floreasca** — la zona de oficinas de clase A más activa, con muros cortina de vidrio reflectante y protección solar integrada.
+
+**Pipera – Voluntari** — una zona con un gran parque de oficinas, donde predominan los muros cortina estándar con doble vidrio Low-E.
+
+**Centru-Vest (Orhideea, Splaiul Independenței)** — una mezcla de sistemas estándar y semiestructurales, con líneas limpias.
+
+**Timpuri Noi – Unirii** — regeneración urbana, con sistemas semiestructurales y vidrio serigrafiado para una identidad visual propia.
 
 ---
 
 ## Por qué Neofort BIZ para proyectos de oficinas
 
-**Stock local de Alumil** — la mayor ventaja frente a importadores con plazos de 6–8 semanas. Confirmamos las cantidades disponibles en 24 horas y entregamos perfiles en 3–5 días.
+**Dos sistemas** — trabajamos con Reynaers y con Alumil, así que elegimos el sistema adecuado para el proyecto, no el que tengamos a mano.
 
-**Experiencia técnica** — un equipo con experiencia en proyectos comerciales de 500 a 10.000 m². Apoyo en los cálculos térmicos que exigen las certificaciones BREEAM y LEED.
+**Apoyo técnico** — cálculos térmicos y estructurales y documentación para BREEAM o LEED.
 
-**Documentación completa** — Declaraciones de Prestaciones (DoP), fichas técnicas, informes de ensayo y certificados CE para todos los sistemas Alumil.
+**Documentación completa** — declaraciones de prestaciones, fichas técnicas y marcado CE de los sistemas suministrados.
 
-**Instalación propia** — no subcontratamos la instalación en proyectos comerciales. Equipos especializados con experiencia en trabajo en altura.
+**Equipos de instalación propios** — con experiencia en trabajos en altura.
 
-Contacte con el departamento comercial para proyectos de oficinas y locales:
+Contacta con el departamento comercial para proyectos de oficinas y locales comerciales:
 
 **WhatsApp Proyectos:** +40 752 443 439 | **L–V 10–18**
 
 ## Preguntas frecuentes
 
-### ¿Qué requisitos técnicos debe cumplir un muro cortina de oficinas en Bucarest?
+### ¿Qué requisitos técnicos debe cumplir un muro cortina de oficinas?
 
-Una fachada de oficinas debe alcanzar a la vez: resistencia al viento clase C4/B4 (presión ≥ 2.000 Pa) por encima de 20 m de altura, estanqueidad al agua clase E1050 o E1200, prestación térmica Uw ≤ 1,4 W/m²K (requisito BREEAM Very Good) y resistencia al fuego de al menos EI 30 en la compartimentación de plantas.
+La resistencia al viento se fija por cálculo según la EN 1991-1-4, para la altura y el emplazamiento del edificio. La estanqueidad al agua y la permeabilidad al aire se declaran según la EN 13830, el comportamiento térmico se calcula por proyecto y el comportamiento ante el fuego resulta del escenario de seguridad contra incendios.
 
-### ¿Por qué el muro cortina es el estándar de los edificios de oficinas clase A?
+### ¿Qué sistemas de muro cortina utiliza Neofort BIZ?
 
-El muro cortina de aluminio y vidrio es el estándar de facto para cualquier edificio de oficinas clase A en Bucarest en 2026, impuesto por los inquilinos corporativos multinacionales, por las certificaciones energéticas BREEAM, LEED y DGNB, y por la normativa europea de eficiencia energética.
+Trabajamos con Reynaers CW 50 y CW 60 y con Alumil SMARTIA M50. El CW 50 y el SMARTIA M50 tienen montantes con un ancho visto de 50 mm y cubren la mayoría de los edificios de oficinas, mientras que el CW 60 se elige para grandes superficies acristaladas y fachadas inclinadas o curvas.
 
-### ¿Qué certificaciones de edificio sostenible admiten los muros cortina Alumil?
+### ¿Cuánto cuesta un muro cortina para un edificio de oficinas?
 
-Los sistemas de muro cortina Alumil pueden satisfacer los requisitos de las certificaciones BREEAM, LEED y DGNB, con documentación técnica facilitada a petición. Una prestación térmica de Uw ≤ 1,4 W/m²K corresponde al requisito BREEAM Very Good para fachadas.
+Un muro cortina estándar con doble vidrio Low-E e instalación cuesta de forma orientativa 450–700 EUR/m², sin IVA. El triple vidrio, la protección solar integrada y las variantes semiestructurales o estructurales se presupuestan por proyecto y suelen superar ese intervalo.
 
-### ¿Con quién trabaja Neofort BIZ en los proyectos de muro cortina de oficinas?
+### ¿Qué certificaciones de edificio sostenible pueden respaldar los muros cortina?
 
-Neofort BIZ trabaja directamente con promotoras inmobiliarias, arquitectos y contratistas generales de Bucarest en el suministro y la instalación de los sistemas de muro cortina Alumil. Bucarest cuenta con más de 4 millones de m² de oficinas modernas, con 15–20 proyectos nuevos al año.
+Los sistemas Reynaers y Alumil pueden utilizarse en edificios con certificación BREEAM, LEED o DGNB. La certificación se concede al edificio, no a la fachada, y nosotros aportamos la documentación técnica que necesita el expediente.
 
----
+### ¿Con quién trabaja Neofort BIZ en proyectos de muro cortina?
 
-Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Vea también [la guía completa de la carpintería de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). Páginas útiles: [la carpintería de aluminio en Bucarest](/es/carpinteria-aluminio/bucarest) y [el vidrio aislante Saint-Gobain SGG](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg).`,
+Trabajamos directamente con promotores inmobiliarios, arquitectos y contratistas generales de Bucarest en el suministro y la instalación de muros cortina. Páginas útiles: [la carpintería de aluminio en Bucarest](/es/carpinteria-aluminio/bucarest) y [el vidrio aislante Saint-Gobain SGG](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg).`,
 
       it: `## Il mercato degli uffici di Bucarest e la richiesta di una facciata moderna
 
-Bucarest è il mercato degli uffici più attivo dell’Europa sud-orientale. Nel 2024–2025 lo stock di uffici moderni ha superato i **4 milioni di m²**, con 15–20 nuovi progetti l’anno in zone come Floreasca–Barbu Văcărescu, Pipera, Centru-Vest e Timpuri Noi.
+Bucarest è il più grande mercato di uffici della Romania, e i nuovi edifici di classe A si concentrano in zone come Floreasca–Barbu Văcărescu, Pipera, Centru-Vest e Timpuri Noi.
 
-**Lo standard di fatto** per qualsiasi edificio per uffici di classe A a Bucarest nel 2026 è la facciata continua in alluminio e vetro — un requisito imposto dai conduttori corporate (multinazionali), dagli standard di certificazione energetica (BREEAM, LEED, DGNB) e dalle norme europee di efficienza energetica.
+**Lo standard di fatto** per un edificio per uffici di classe A è la facciata continua in alluminio e vetro. La chiedono i conduttori corporate, la sostengono le certificazioni di edilizia sostenibile (BREEAM, LEED, DGNB) e la impongono, indirettamente, i requisiti di prestazione energetica.
 
-Neofort BIZ collabora direttamente con **sviluppatori immobiliari, architetti e imprese generali** di Bucarest per la fornitura e la [posa](/it/servizi) dei sistemi Alumil di facciata continua. Questa pagina raccoglie tutto ciò che occorre sapere prima di aprire un fascicolo di progetto. Vedete anche [la guida completa ai serramenti in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).
+Neofort BIZ lavora con **sviluppatori immobiliari, architetti e general contractor** di Bucarest per la fornitura e la [posa](/it/servizi) di facciate continue con sistemi Reynaers e Alumil. Questa pagina riunisce ciò che occorre sapere prima di aprire un dossier di progetto. Vedi anche [la guida completa ai serramenti in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa).
 
 ---
 
 ## Che cosa rende una facciata continua adatta agli uffici
 
-A differenza di un edificio residenziale, una facciata per uffici deve soddisfare contemporaneamente **requisiti tecnici, estetici e di certificazione** molto più severi:
+A differenza di una casa, una facciata per uffici deve soddisfare allo stesso tempo **requisiti tecnici, estetici e documentali** molto più severi:
 
 **Requisiti tecnici:**
-- Resistenza al vento: classe C4/B4 (pressione ≥ 2.000 Pa) per altezze superiori a 20 m
-- Tenuta all’acqua: classe E1050 o E1200
-- Permeabilità all’aria: classe A4
-- Prestazione termica: Uw dell’insieme ≤ 1,4 W/m²K (requisito BREEAM Very Good)
-- Resistenza al fuoco: almeno EI 30 nella compartimentazione dei piani
+- Resistenza al vento stabilita con il calcolo, secondo la EN 1991-1-4, per l’altezza e il sito dell’edificio
+- Tenuta all’acqua e permeabilità all’aria dichiarate secondo la EN 13830
+- Prestazione termica dell’insieme calcolata per progetto, secondo la EN ISO 12631
+- Comportamento al fuoco stabilito dallo scenario di sicurezza antincendio dell’edificio
 
 **Requisiti estetici:**
 - Una linea visiva uniforme su tutte le facciate
-- Compatibilità con sistemi di oscuramento integrati (veneziane Raffstore in cassonetto)
-- Opzioni di vetro riflettente, serigrafia o stampa digitale
-- Possibilità di verniciatura RAL speciale o anodizzazione
+- Compatibilità con la schermatura esterna (frangisole Raffstore o Zipscreen)
+- Vetro riflettente, serigrafato o a controllo solare
+- Colori RAL speciali o anodizzazione
 
-**Requisiti di certificazione:**
-- Dichiarazione di Prestazione (DoP) secondo EN 13830
-- Calcoli termici validati secondo EN ISO 10077
-- Rapporto di prova al vento secondo EN 12179
-- Documentazione BREEAM/LEED su richiesta
+**Documentazione:**
+- Dichiarazione di prestazione (DoP) e marcatura CE secondo la EN 13830
+- Calcoli termici e statici del progetto
+- Documentazione tecnica per i dossier BREEAM o LEED, su richiesta
 
 ---
 
-## Sistemi Alumil per facciate continue — confronto tecnico
+## Sistemi di facciata continua — confronto tecnico
 
-### Alumil CW50 — il sistema standard, il più usato a Bucarest
+### Reynaers CW 50 e Alumil SMARTIA M50 — i sistemi standard con montanti da 50 mm
 
-**Profilo a vista da 50 mm** in verticale e in orizzontale. Il più economico e il più rapido da posare. Sempre a magazzino a Bucarest — consegna in 3–5 giorni.
+Entrambi hanno una **larghezza in vista di 50 mm** su montanti e traversi e coprono la maggior parte degli edifici per uffici.
 
-Dati tecnici:
-- Profondità del montante: 50 mm
-- Taglio termico: poliammide da 34 mm
-- Uw dell’insieme: 1,3–1,6 W/m²K (doppio vetro Low-E 4+16+4)
-- Uw dell’insieme: 1,0–1,2 W/m²K (triplo vetro Low-E)
-- Resistenza al vento: C4/B4 (2.000 Pa)
-- Tenuta all’acqua: E1050
-- Spessore massimo del vetro: 50 mm
-- Altezza massima del pannello (senza appoggio intermedio): 4.200 mm
-- Larghezza massima del pannello: 1.800 mm
+Reynaers CW 50, secondo la scheda del produttore:
+- Profondità dei montanti: da 42 a 316,5 mm, scelta con il calcolo statico
+- Vetro: da 6 a 62 mm
+- Uf fino a 0,8 W/m²K, a seconda della combinazione di profili
+- Permeabilità all’aria fino a AE 1200 e tenuta all’acqua fino a RE 1200
+- Varianti: HI (isolamento potenziato), SG (vetro incollato strutturale), SC (vetro bloccato strutturale), FP (resistente al fuoco EI 30 ed EI 60)
 
-**Opzioni di cassonetto di oscuramento integrato:** le veneziane Raffstore da 80 mm e lo Zipscreen possono essere integrati nel cassonetto della [facciata continua](/it/infissi-alluminio).
+Alumil SMARTIA M50, secondo la scheda del produttore:
+- Profondità di montanti e traversi: da 12 a 234 mm
+- Vetro trattenuto con pressore o silicone strutturale
+- Uf tra 1,0 e 1,8 W/m²K
+- Permeabilità all’aria classe AE, tenuta all’acqua classe R7
+- Isolamento acustico fino a 47 dB e versioni resistenti al fuoco E30 ed EW30
 
-**Prezzi indicativi CW50 — 2026:**
+**Schermatura integrata:** i frangisole Raffstore e lo Zipscreen si possono integrare nella [facciata continua](/it/infissi-alluminio).
 
-> ⚠️ **Nota:** i prezzi sono indicativi e possono variare. Richiedete un preventivo aggiornato per il vostro progetto.
+### Reynaers CW 60 — per superfici grandi, inclinate o curve
+
+**Larghezza in vista di 60 mm** all’interno. Reynaers lo consiglia per grandi superfici vetrate, facciate inclinate o curve e ristrutturazioni.
+
+- Profondità dei montanti: da 79 a 268 mm
+- Vetro: da 6 a 44 mm (da 22 a 46 mm nella variante HI)
+- Peso massimo di una lastra di vetro: 450 kg
+- Permeabilità all’aria classe A4
+- Varianti: HI, SC e SG
+
+### Facciate semistrutturali e strutturali
+
+Nelle varianti SG il profilo si vede solo dall’interno, mentre dall’esterno restano visibili il vetro e i giunti in silicone. Si scelgono per sedi aziendali ed edifici con elevate esigenze architettoniche.
+
+---
+
+## Prezzi indicativi 2026
+
+I prezzi comprendono il profilo, il vetro isolante e la posa. Sono in EUR, IVA esclusa.
 
 | Configurazione | Prezzo indicativo |
 |---|---|
-| CW50, doppio vetro Low-E, posa standard | 800–1.100 lei/m² |
-| CW50, triplo vetro Low-E, posa standard | 1.100–1.500 lei/m² |
-| CW50 con cassonetto Raffstore integrato | 1.600–2.200 lei/m² |
-| **Superficie 200–500 m² (sconto quantità)** | **750–1.000 lei/m²** |
+| Facciata continua standard (Reynaers CW 50 o Alumil SMARTIA M50), doppio vetro Low-E | 450–700 EUR/m² |
+| Triplo vetro, schermatura integrata, varianti semistrutturali o strutturali | preventivo per progetto, di solito oltre 700 EUR/m² |
 
-### Alumil CW60 — sistema a profilo sottile, aspetto premium
-
-**Profilo a vista da 60 mm** in verticale, disegno più sottile rispetto al CW50. Preferito dagli architetti che cercano linee sottili in facciata.
-
-Dati tecnici:
-- Profondità del montante: 60 mm
-- Taglio termico: 34 mm migliorato
-- Uw dell’insieme: 1,1–1,4 W/m²K (doppio vetro Low-E)
-- Compatibile con triplo vetro Low-E per BREEAM Excellent
-- Resistenza al vento: C4/B4
-
-**Prezzi indicativi CW60 — 2026:**
-
-> ⚠️ **Nota:** i prezzi sono indicativi e possono variare.
-
-| Configurazione | Prezzo indicativo |
-|---|---|
-| CW60, doppio vetro Low-E | 1.200–1.600 lei/m² |
-| CW60, triplo vetro Low-E | 1.500–2.000 lei/m² |
-| CW60 semistrutturale, doppio vetro Low-E | 1.800–2.400 lei/m² |
-
-### Facciata continua strutturale Alumil — la massima resa estetica
-
-Profilo completamente nascosto. Dall’esterno si vedono solo il vetro e i giunti di silicone. La soluzione più richiesta per sedi aziendali, hotel a 4 e 5 stelle ed edifici di rilievo architettonico.
-
-| Configurazione | Prezzo indicativo |
-|---|---|
-| Strutturale integrale, vetro temprato | 2.200–3.000 lei/m² |
-| Fissaggio puntuale, vetro stratificato 10+10 | 2.800–4.000 lei/m² |
+Il prezzo finale dipende dalla superficie, dal modulo di facciata, dal tipo di vetro e dall’altezza dell’edificio. Inviamo il preventivo entro 48 ore dal ricevimento dei disegni.
 
 ---
 
-## Tipi di vetro per facciate per uffici — che cosa sceglie il mercato nel 2026
+## Tipi di vetro per facciate di uffici
 
-**Vetro riflettente su entrambe le facce** — lo standard per gli uffici di Bucarest. Riduce il surriscaldamento negli spazi esposti a sud e a ovest. Fattore solare g = 0,20–0,35.
+**Vetro a controllo solare** — riduce il surriscaldamento degli ambienti esposti a sud e a ovest. Il fattore solare g è di solito tra 0,20 e 0,40, a seconda del prodotto.
 
-**Doppio vetro Low-E** (4+16+4 con argon e strato Low-E) — lo standard BREEAM Very Good. Uw = 1,0–1,2 W/m²K. La soluzione più prescritta nei nuovi progetti di Barbu Văcărescu e Floreasca.
+**Doppio vetro Low-E** (strato Low-E e argon) — il più prescritto nei nuovi progetti di uffici, con un buon equilibrio tra costo e prestazioni.
 
-**Vetro serigrafato** — stampa ceramica sulla faccia 2 o 4. Consente il branding in facciata, un controllo solare su misura ed effetti architettonici.
+**Vetro serigrafato** — stampa ceramica per controllo solare, branding in facciata o effetti architettonici.
 
-**Vetro elettrocromico** — cambia trasparenza a comando elettrico. Costa da tre a cinque volte più del vetro standard e viene impiegato in progetti premium con budget di facciata superiore a 500 EUR/m².
-
----
-
-## Come si calcola un progetto di facciata continua
-
-### Fase 1 — Lo studio di facciata (1–3 giorni)
-Neofort BIZ realizza lo studio di facciata insieme all’architetto del progetto. Definiamo il tipo di sistema (standard, semistrutturale o strutturale), il modulo di facciata (larghezza del pannello), il tipo di vetro e il sistema di oscuramento integrato.
-
-### Fase 2 — Il calcolo strutturale (3–7 giorni)
-Calcolo al vento secondo EN 1991-1-4, verifica della resistenza di montanti e traversi ai carichi specifici del sito. Obbligatorio per il permesso di costruire.
-
-### Fase 3 — Disegni costruttivi (7–14 giorni)
-Tavole esecutive dettagliate con tutti i giunti, i dettagli d’angolo, i raccordi alla struttura dell’edificio e i passaggi per gli impianti elettrici e i sistemi di oscuramento.
-
-### Fase 4 — Produzione (21–35 giorni)
-Profili tagliati a CNC, vetro ordinato a Saint-Gobain o Guardian con le specifiche termiche e ottiche previste dal progetto.
-
-### Fase 5 — Posa (in base alla superficie)
-- 500 m²: 10–15 giorni con una squadra di 4 posatori e ponteggi
-- 2.000 m²: 30–45 giorni con 2 squadre in parallelo
-- oltre 5.000 m²: pianificazione individuale con programma mensile
-
-### Fase 6 — Prove e collaudo
-Prova di tenuta all’acqua (irrorazione) e di permeabilità all’aria secondo EN 1027/EN 1026. Documentazione completa per il collaudo dell’opera e per il fascicolo BREEAM/LEED.
+**Triplo vetro** — per edifici con elevate esigenze energetiche; aumenta il peso delle lastre, cosa che conta nella scelta del sistema.
 
 ---
 
-## Zone direzionali di Bucarest — i progetti che realizziamo
+## Come si svolge un progetto di facciata continua
 
-**Barbu Văcărescu – Floreasca** — la zona di classe A più attiva. Progetti conclusi e in corso: sistemi CW50 e CW60 con vetro riflettente e veneziane Raffstore integrate.
+### Fase 1 — Lo studio di facciata
+Con l’architetto definiamo il sistema (standard, semistrutturale o strutturale), il modulo di facciata, il tipo di vetro e la schermatura integrata.
 
-**Pipera – Voluntari** — la zona con il maggiore stock di uffici della Bucarest metropolitana. Progetti prevalentemente in CW50 standard con doppio vetro Low-E.
+### Fase 2 — Il calcolo statico
+Calcolo al vento secondo la EN 1991-1-4 e verifica di montanti e traversi rispetto ai carichi del sito.
 
-**Centru-Vest (Orhideea, Splaiul Independenței)** — un misto di CW50 e sistemi semistrutturali. Architettura contemporanea con attenzione alla linea pulita.
+### Fase 3 — I disegni esecutivi
+Tavole con giunzioni, angoli, ancoraggi alla struttura e passaggi per impianti e schermature.
 
-**Timpuri Noi – Unirii** — rigenerazione urbana attiva. Progetti con sistemi semistrutturali e vetro serigrafato per un’identità visiva distintiva.
+### Fase 4 — La produzione
+I profili si tagliano su macchine CNC e il vetro si ordina a Saint-Gobain o Guardian secondo le specifiche del progetto. I rilievi definitivi in cantiere si fanno dopo la firma del contratto.
+
+### Fase 5 — La posa
+La durata dipende dalla superficie, dall’accesso al cantiere e dal numero di squadre. Il programma lo fissiamo con il general contractor.
+
+### Fase 6 — Verifiche e collaudo
+Verifiche di tenuta in cantiere su richiesta e documentazione completa per il collaudo e per i dossier BREEAM o LEED.
 
 ---
 
-## Perché Neofort BIZ per i progetti direzionali
+## Zone di uffici a Bucarest
 
-**Magazzino Alumil locale** — il vantaggio maggiore rispetto agli importatori con tempi di 6–8 settimane. Confermiamo le quantità disponibili entro 24 ore e consegniamo i profili in 3–5 giorni.
+**Barbu Văcărescu – Floreasca** — la zona di uffici di classe A più attiva, con facciate continue in vetro riflettente e schermatura integrata.
 
-**Competenza tecnica** — una squadra con esperienza in progetti commerciali da 500 a 10.000 m². Supporto per i calcoli termici richiesti dalle certificazioni BREEAM e LEED.
+**Pipera – Voluntari** — una zona con un grande stock di uffici, dove prevalgono le facciate continue standard con doppio vetro Low-E.
 
-**Documentazione completa** — Dichiarazioni di Prestazione (DoP), schede tecniche, rapporti di prova e certificati CE per tutti i sistemi Alumil.
+**Centru-Vest (Orhideea, Splaiul Independenței)** — un mix di sistemi standard e semistrutturali, con linee pulite.
 
-**Posa diretta** — nei progetti commerciali non subappaltiamo la posa. Squadre specializzate con esperienza nel lavoro in quota.
+**Timpuri Noi – Unirii** — rigenerazione urbana, con sistemi semistrutturali e vetro serigrafato per un’identità visiva propria.
 
-Contattate l’ufficio commerciale per progetti direzionali e spazi commerciali:
+---
+
+## Perché Neofort BIZ per progetti di uffici
+
+**Due sistemi** — lavoriamo con Reynaers e con Alumil, quindi scegliamo il sistema adatto al progetto, non quello che abbiamo a disposizione.
+
+**Supporto tecnico** — calcoli termici e statici e documentazione per BREEAM o LEED.
+
+**Documentazione completa** — dichiarazioni di prestazione, schede tecniche e marcatura CE dei sistemi forniti.
+
+**Squadre di posa proprie** — con esperienza nei lavori in quota.
+
+Contattate l’ufficio commerciale per progetti di uffici e spazi commerciali:
 
 **WhatsApp Progetti:** +40 752 443 439 | **Lun–Ven 10–18**
 
 ## Domande frequenti
 
-### Quali requisiti tecnici deve soddisfare una facciata continua per uffici a Bucarest?
+### Quali requisiti tecnici deve rispettare una facciata continua per uffici?
 
-Una facciata per uffici deve raggiungere contemporaneamente: resistenza al vento classe C4/B4 (pressione ≥ 2.000 Pa) oltre i 20 m di altezza, tenuta all’acqua classe E1050 o E1200, prestazione termica Uw ≤ 1,4 W/m²K (requisito BREEAM Very Good) e resistenza al fuoco di almeno EI 30 nella compartimentazione dei piani.
+La resistenza al vento si stabilisce con il calcolo secondo la EN 1991-1-4, per l’altezza e il sito dell’edificio. Tenuta all’acqua e permeabilità all’aria si dichiarano secondo la EN 13830, la prestazione termica si calcola per progetto e il comportamento al fuoco deriva dallo scenario di sicurezza antincendio.
 
-### Perché la facciata continua è lo standard per gli edifici direzionali di classe A?
+### Quali sistemi di facciata continua usa Neofort BIZ?
 
-La facciata continua in alluminio e vetro è lo standard di fatto per qualsiasi edificio per uffici di classe A a Bucarest nel 2026, imposto dai conduttori corporate multinazionali, dalle certificazioni energetiche BREEAM, LEED e DGNB e dalle norme europee di efficienza energetica.
+Lavoriamo con Reynaers CW 50 e CW 60 e con Alumil SMARTIA M50. CW 50 e SMARTIA M50 hanno montanti con larghezza in vista di 50 mm e coprono la maggior parte degli edifici per uffici, mentre il CW 60 si sceglie per grandi superfici vetrate e facciate inclinate o curve.
 
-### Quali certificazioni di edilizia sostenibile supportano le facciate continue Alumil?
+### Quanto costa una facciata continua per un edificio per uffici?
 
-I sistemi Alumil di facciata continua possono soddisfare i requisiti delle certificazioni BREEAM, LEED e DGNB, con documentazione tecnica fornita su richiesta. Una prestazione termica Uw ≤ 1,4 W/m²K corrisponde al requisito BREEAM Very Good per le facciate.
+Una facciata continua standard con doppio vetro Low-E e posa costa indicativamente 450–700 EUR/m², IVA esclusa. Il triplo vetro, la schermatura integrata e le varianti semistrutturali o strutturali si quotano per progetto e di solito superano questo intervallo.
 
-### Con chi collabora Neofort BIZ nei progetti di facciata continua per uffici?
+### Quali certificazioni di edilizia sostenibile possono supportare le facciate continue?
 
-Neofort BIZ collabora direttamente con sviluppatori immobiliari, architetti e imprese generali di Bucarest per la fornitura e la posa dei sistemi Alumil di facciata continua. Bucarest conta oltre 4 milioni di m² di uffici moderni, con 15–20 nuovi progetti l’anno.
+I sistemi Reynaers e Alumil possono essere usati in edifici certificati BREEAM, LEED o DGNB. La certificazione si assegna all’edificio, non alla facciata, e noi forniamo la documentazione tecnica richiesta dal dossier.
 
----
+### Con chi lavora Neofort BIZ nei progetti di facciata continua?
 
-Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilfov, da finestre e porte alle facciate continue. Scopri [la gamma di infissi in alluminio](/it/infissi-alluminio) o [richiedi un preventivo](/it/contatti). Vedete anche [la guida completa ai serramenti in alluminio](/it/blog/infissi-alluminio-taglio-termico-guida-completa). Pagine utili: [i serramenti in alluminio a Bucarest](/it/infissi-alluminio/bucarest) e [il vetro termoisolante Saint-Gobain SGG](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg).`,
+Lavoriamo direttamente con sviluppatori immobiliari, architetti e general contractor di Bucarest per la fornitura e la posa di facciate continue. Pagine utili: [i serramenti in alluminio a Bucarest](/it/infissi-alluminio/bucarest) e [il vetro termoisolante Saint-Gobain SGG](/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg).`,
     },
   },
 
@@ -26031,12 +25938,12 @@ Delea Veche este una dintre zonele cu cea mai intensă activitate de construcți
 
 ## Lucrare 2 — Clădire de birouri, zona Floreasca–Barbu Văcărescu
 
-**Sistem:** Alumil CW50 + Alumil Smartia S67 | **Suprafață fațadă:** ~1.200 mp | **An finalizare:** 2025
+**Sistem:** Alumil SMARTIA M50 + Alumil Smartia S67 | **Suprafață fațadă:** ~1.200 mp | **An finalizare:** 2025
 
 Zona Floreasca–Barbu Văcărescu este nucleul pieței de birouri de clasă A din București. Proiect cu cerințe de certificare BREEAM Very Good.
 
 **Ce am livrat:**
-- Perete cortină standard Alumil CW50 pe fațada principală sud și vest
+- Perete cortină standard Alumil SMARTIA M50 pe fațada principală sud și vest
 - Geam dublu Low-E reflexiv 6+16+6 pentru control solar (g = 0,27)
 - Ferestre oscilo-batante Alumil Smartia S67 pe fațadele nord și est
 - Uși de acces principale — Alumil cu feronerie antiefracție RC2 și control acces integrat
@@ -26069,7 +25976,7 @@ Fațadele ventilate combină structura portantă de aluminiu cu un strat exterio
 De la 20 la 500+ apartamente. Coordonare completă cu dezvoltatorul și antreprenorul general. Livrare pe tranșe per etaj sau per scară. Documentație completă CE pentru cartea construcției.
 
 ### Clădiri comerciale și de birouri
-Pereți cortină CW50/CW60, geam reflexiv sau Low-E, jaluzele integrate, uși de acces automate. Suport pentru certificări BREEAM/LEED.
+Pereți cortină Reynaers CW 50/CW 60 și Alumil SMARTIA M50, geam reflexiv sau Low-E, jaluzele integrate, uși de acces automate. Suport pentru certificări BREEAM/LEED.
 
 ### Fațade ventilate
 Structură aluminiu + izolație + placaj exterior (ACM, HPL, piatră, lemn termotratat). Proiectare inclusă, calcule termice și detalii de execuție.
@@ -26090,10 +25997,10 @@ Sisteme glisante liftant, ferestre panoramice, pergole cu tâmplărie, fațade p
 |---|---|
 | Tâmplărie aluminiu Alumil Smartia S67 | 250–400 EUR/mp |
 | Tâmplărie aluminiu Reynaers CS 77 | 400–600 EUR/mp |
-| Perete cortină Alumil CW50 | 150–250 EUR/mp |
-| Perete cortină semi-structural | 250–400 EUR/mp |
+| Perete cortină Reynaers CW 50 / Alumil SMARTIA M50 | 450–700 EUR/mp |
+| Perete cortină semi-structural | ofertă pe proiect, de regulă peste 700 EUR/mp |
 | Fațadă ventilată aluminiu + ACM | 180–320 EUR/mp |
-| Perete cortină structural | 400–600 EUR/mp |
+| Perete cortină structural | ofertă pe proiect, de regulă peste 700 EUR/mp |
 
 *Prețurile includ materiale, montaj și documentație CE. Transportul e inclus în București și Ilfov; în afara lor se taxează separat. Nu includ lucrări de pregătire structurală.*
 
@@ -26159,12 +26066,12 @@ Delea Veche is one of the most intensely developed residential areas in Sector 2
 
 ## Project 2 — Office building, Floreasca–Barbu Văcărescu district
 
-**System:** Alumil CW50 with Alumil Smartia S67 | **Facade area:** approx. 1,200 sqm | **Completed:** 2025
+**System:** Alumil SMARTIA M50 with Alumil Smartia S67 | **Facade area:** approx. 1,200 sqm | **Completed:** 2025
 
 The Floreasca–Barbu Văcărescu district is the core of the class A office market in Bucharest. A project with BREEAM Very Good certification requirements.
 
 **What we delivered:**
-- Standard Alumil CW50 curtain wall on the main south and west elevations
+- Standard Alumil SMARTIA M50 curtain wall on the main south and west elevations
 - Reflective double Low-E glazing 6+16+6 for solar control (g = 0.27)
 - Alumil Smartia S67 tilt-and-turn windows on the north and east elevations
 - Main access doors — Alumil with RC2 anti-burglary hardware and integrated access control
@@ -26197,7 +26104,7 @@ Ventilated facades combine a load-bearing aluminium structure with an outer laye
 From 20 to 500+ apartments. Full coordination with the developer and the general contractor. Delivery in batches by floor or by stairwell. Complete CE documentation for the building file.
 
 ### Commercial and office buildings
-CW50/CW60 curtain walls, reflective or Low-E glazing, integrated blinds, automatic access doors. Support for BREEAM and LEED certification.
+Reynaers CW 50/CW 60 and Alumil SMARTIA M50 curtain walls, reflective or Low-E glazing, integrated blinds, automatic access doors. Support for BREEAM and LEED certification.
 
 ### Ventilated facades
 Aluminium structure with insulation and exterior cladding (ACM, HPL, stone, heat-treated timber). Design included, along with thermal calculations and construction details.
@@ -26218,10 +26125,10 @@ Lift-and-slide systems, panoramic windows, pergolas with joinery, partial glass-
 |---|---|
 | Alumil Smartia S67 aluminium joinery | 250–400 EUR/sqm |
 | Reynaers CS 77 aluminium joinery | 400–600 EUR/sqm |
-| Alumil CW50 curtain wall | 150–250 EUR/sqm |
-| Semi-structural curtain wall | 250–400 EUR/sqm |
+| Reynaers CW 50 / Alumil SMARTIA M50 curtain wall | 450–700 EUR/sqm |
+| Semi-structural curtain wall | quoted per project, usually above 700 EUR/sqm |
 | Ventilated aluminium and ACM facade | 180–320 EUR/sqm |
-| Structural curtain wall | 400–600 EUR/sqm |
+| Structural curtain wall | quoted per project, usually above 700 EUR/sqm |
 
 *Prices include materials, installation and CE documentation. Transport is included in Bucharest and Ilfov; outside these areas it is charged separately. They exclude any structural preparation works.*
 
@@ -26285,12 +26192,12 @@ Delea Veche ist eines der am intensivsten bebauten Wohngebiete im Sektor 2 — e
 
 ## Projekt 2 — Bürogebäude, Gebiet Floreasca–Barbu Văcărescu
 
-**System:** Alumil CW50 mit Alumil Smartia S67 | **Fassadenfläche:** rund 1.200 m² | **Fertigstellung:** 2025
+**System:** Alumil SMARTIA M50 mit Alumil Smartia S67 | **Fassadenfläche:** rund 1.200 m² | **Fertigstellung:** 2025
 
 Das Gebiet Floreasca–Barbu Văcărescu ist der Kern des Class-A-Büromarkts in Bukarest. Ein Projekt mit den Anforderungen der Zertifizierung BREEAM Very Good.
 
 **Was wir geliefert haben:**
-- Standard-Vorhangfassade Alumil CW50 an der Haupt-, Süd- und Westfassade
+- Standard-Vorhangfassade Alumil SMARTIA M50 an der Haupt-, Süd- und Westfassade
 - Reflektierendes Zweifach-Low-E-Glas 6+16+6 für den Sonnenschutz (g = 0,27)
 - Dreh-Kipp-Fenster Alumil Smartia S67 an der Nord- und Ostfassade
 - Hauptzugangstüren — Alumil mit einbruchhemmendem Beschlag RC2 und integrierter Zutrittskontrolle
@@ -26323,7 +26230,7 @@ Hinterlüftete Fassaden verbinden eine tragende Aluminiumkonstruktion mit einer 
 Von 20 bis über 500 Wohnungen. Vollständige Abstimmung mit Bauträger und Generalunternehmer. Lieferung in Tranchen je Etage oder je Treppenhaus. Komplette CE-Dokumentation für die Bauakte.
 
 ### Gewerbe- und Bürogebäude
-Vorhangfassaden CW50/CW60, Reflexions- oder Low-E-Glas, integrierte Jalousien, automatische Zugangstüren. Unterstützung für Zertifizierungen nach BREEAM und LEED.
+Vorhangfassaden Reynaers CW 50/CW 60 und Alumil SMARTIA M50, Reflexions- oder Low-E-Glas, integrierte Jalousien, automatische Zugangstüren. Unterstützung für Zertifizierungen nach BREEAM und LEED.
 
 ### Hinterlüftete Fassaden
 Aluminiumkonstruktion mit Dämmung und Außenbekleidung (ACM, HPL, Stein, thermisch behandeltes Holz). Planung inbegriffen, samt Wärmeschutznachweisen und Ausführungsdetails.
@@ -26344,10 +26251,10 @@ Hebe-Schiebe-Systeme, Panoramafenster, Pergolen mit Rahmenkonstruktion, teilweis
 |---|---|
 | Aluminiumfenster Alumil Smartia S67 | 250–400 EUR/m² |
 | Aluminiumfenster Reynaers CS 77 | 400–600 EUR/m² |
-| Vorhangfassade Alumil CW50 | 150–250 EUR/m² |
-| Halbstrukturelle Vorhangfassade | 250–400 EUR/m² |
+| Vorhangfassade Reynaers CW 50 / Alumil SMARTIA M50 | 450–700 EUR/m² |
+| Halbstrukturelle Vorhangfassade | Angebot je Projekt, meist über 700 EUR/m² |
 | Hinterlüftete Fassade Aluminium und ACM | 180–320 EUR/m² |
-| Strukturelle Vorhangfassade | 400–600 EUR/m² |
+| Strukturelle Vorhangfassade | Angebot je Projekt, meist über 700 EUR/m² |
 
 *Die Preise umfassen Material, Montage und CE-Dokumentation. Der Transport ist in Bukarest und Ilfov inbegriffen, außerhalb wird er separat berechnet. Nicht enthalten sind Vorarbeiten an der Tragkonstruktion.*
 
@@ -26411,12 +26318,12 @@ Delea Veche est l’un des secteurs à l’activité de construction résidentie
 
 ## Chantier 2 — Immeuble de bureaux, quartier Floreasca–Barbu Văcărescu
 
-**Système :** Alumil CW50 et Alumil Smartia S67 | **Surface de façade :** environ 1 200 m² | **Livraison :** 2025
+**Système :** Alumil SMARTIA M50 et Alumil Smartia S67 | **Surface de façade :** environ 1 200 m² | **Livraison :** 2025
 
 Le quartier Floreasca–Barbu Văcărescu est le cœur du marché de bureaux classe A de Bucarest. Un projet soumis aux exigences de la certification BREEAM Very Good.
 
 **Ce que nous avons livré :**
-- Mur-rideau standard Alumil CW50 sur les façades principale, sud et ouest
+- Mur-rideau standard Alumil SMARTIA M50 sur les façades principale, sud et ouest
 - Double vitrage Low-E réfléchissant 6+16+6 pour le contrôle solaire (g = 0,27)
 - Fenêtres oscillo-battantes Alumil Smartia S67 sur les façades nord et est
 - Portes d’accès principales — Alumil avec quincaillerie anti-effraction RC2 et contrôle d’accès intégré
@@ -26449,7 +26356,7 @@ Les façades ventilées associent une ossature porteuse en aluminium à une peau
 De 20 à plus de 500 logements. Coordination complète avec le promoteur et l’entreprise générale. Livraison par tranches, par étage ou par cage. Documentation CE complète pour le dossier de l’ouvrage.
 
 ### Bâtiments commerciaux et de bureaux
-Murs-rideaux CW50/CW60, vitrage réfléchissant ou Low-E, stores intégrés, portes d’accès automatiques. Appui pour les certifications BREEAM et LEED.
+Murs-rideaux Reynaers CW 50/CW 60 et Alumil SMARTIA M50, vitrage réfléchissant ou Low-E, stores intégrés, portes d’accès automatiques. Appui pour les certifications BREEAM et LEED.
 
 ### Façades ventilées
 Ossature aluminium avec isolant et bardage extérieur (ACM, HPL, pierre, bois traité thermiquement). Conception incluse, avec calculs thermiques et détails d’exécution.
@@ -26470,10 +26377,10 @@ Systèmes levants-coulissants, baies panoramiques, pergolas avec menuiseries, fa
 |---|---|
 | Menuiserie aluminium Alumil Smartia S67 | 250–400 EUR/m² |
 | Menuiserie aluminium Reynaers CS 77 | 400–600 EUR/m² |
-| Mur-rideau Alumil CW50 | 150–250 EUR/m² |
-| Mur-rideau semi-structurel | 250–400 EUR/m² |
+| Mur-rideau Reynaers CW 50 / Alumil SMARTIA M50 | 450–700 EUR/m² |
+| Mur-rideau semi-structurel | devis par projet, en général au-delà de 700 EUR/m² |
 | Façade ventilée aluminium et ACM | 180–320 EUR/m² |
-| Mur-rideau structurel | 400–600 EUR/m² |
+| Mur-rideau structurel | devis par projet, en général au-delà de 700 EUR/m² |
 
 *Les prix comprennent les matériaux, la pose et la documentation CE. Le transport est inclus à Bucarest et dans l’Ilfov ; au-delà, il est facturé séparément. Ils excluent les travaux de préparation structurelle.*
 
@@ -26537,12 +26444,12 @@ Delea Veche es una de las zonas con mayor actividad de construcción residencial
 
 ## Obra 2 — Edificio de oficinas, zona Floreasca–Barbu Văcărescu
 
-**Sistema:** Alumil CW50 y Alumil Smartia S67 | **Superficie de fachada:** unos 1.200 m² | **Terminada:** 2025
+**Sistema:** Alumil SMARTIA M50 y Alumil Smartia S67 | **Superficie de fachada:** unos 1.200 m² | **Terminada:** 2025
 
 La zona Floreasca–Barbu Văcărescu es el núcleo del mercado de oficinas clase A de Bucarest. Un proyecto con requisitos de certificación BREEAM Very Good.
 
 **Lo que entregamos:**
-- Muro cortina estándar Alumil CW50 en las fachadas principal, sur y oeste
+- Muro cortina estándar Alumil SMARTIA M50 en las fachadas principal, sur y oeste
 - Doble acristalamiento Low-E reflectante 6+16+6 para control solar (g = 0,27)
 - Ventanas oscilobatientes Alumil Smartia S67 en las fachadas norte y este
 - Puertas de acceso principales — Alumil con herrajes antirrobo RC2 y control de acceso integrado
@@ -26575,7 +26482,7 @@ Las fachadas ventiladas combinan una estructura portante de aluminio con una cap
 De 20 a más de 500 viviendas. Coordinación completa con la promotora y la contrata general. Entrega por tramos, por planta o por portal. Documentación CE completa para el libro del edificio.
 
 ### Edificios comerciales y de oficinas
-Muros cortina CW50/CW60, vidrio reflectante o Low-E, persianas integradas, puertas de acceso automáticas. Apoyo para las certificaciones BREEAM y LEED.
+Muros cortina Reynaers CW 50/CW 60 y Alumil SMARTIA M50, vidrio reflectante o Low-E, persianas integradas, puertas de acceso automáticas. Apoyo para las certificaciones BREEAM y LEED.
 
 ### Fachadas ventiladas
 Estructura de aluminio con aislamiento y revestimiento exterior (ACM, HPL, piedra, madera termotratada). Diseño incluido, con cálculos térmicos y detalles de ejecución.
@@ -26596,10 +26503,10 @@ Sistemas elevables-correderos, ventanales panorámicos, pérgolas con carpinter�
 |---|---|
 | Carpintería de aluminio Alumil Smartia S67 | 250–400 EUR/m² |
 | Carpintería de aluminio Reynaers CS 77 | 400–600 EUR/m² |
-| Muro cortina Alumil CW50 | 150–250 EUR/m² |
-| Muro cortina semiestructural | 250–400 EUR/m² |
+| Muro cortina Reynaers CW 50 / Alumil SMARTIA M50 | 450–700 EUR/m² |
+| Muro cortina semiestructural | presupuesto por proyecto, por lo general más de 700 EUR/m² |
 | Fachada ventilada de aluminio y ACM | 180–320 EUR/m² |
-| Muro cortina estructural | 400–600 EUR/m² |
+| Muro cortina estructural | presupuesto por proyecto, por lo general más de 700 EUR/m² |
 
 *Los precios incluyen materiales, instalación y documentación CE. El transporte está incluido en Bucarest e Ilfov; fuera de estas zonas se cobra aparte. No incluyen trabajos de preparación estructural.*
 
@@ -26663,12 +26570,12 @@ Delea Veche è una delle zone con la maggiore attività edilizia residenziale de
 
 ## Cantiere 2 — Edificio per uffici, zona Floreasca–Barbu Văcărescu
 
-**Sistema:** Alumil CW50 e Alumil Smartia S67 | **Superficie di facciata:** circa 1.200 m² | **Concluso:** 2025
+**Sistema:** Alumil SMARTIA M50 e Alumil Smartia S67 | **Superficie di facciata:** circa 1.200 m² | **Concluso:** 2025
 
 La zona Floreasca–Barbu Văcărescu è il cuore del mercato degli uffici di classe A a Bucarest. Un progetto con requisiti di certificazione BREEAM Very Good.
 
 **Che cosa abbiamo consegnato:**
-- Facciata continua standard Alumil CW50 sui prospetti principale, sud e ovest
+- Facciata continua standard Alumil SMARTIA M50 sui prospetti principale, sud e ovest
 - Doppio vetro Low-E riflettente 6+16+6 per il controllo solare (g = 0,27)
 - Finestre anta-ribalta Alumil Smartia S67 sui prospetti nord ed est
 - Porte di accesso principali — Alumil con ferramenta antieffrazione RC2 e controllo accessi integrato
@@ -26701,7 +26608,7 @@ Le facciate ventilate uniscono una struttura portante in alluminio a uno strato 
 Da 20 a oltre 500 appartamenti. Coordinamento completo con lo sviluppatore e l’impresa generale. Consegna a lotti, per piano o per scala. Documentazione CE completa per il fascicolo dell’opera.
 
 ### Edifici commerciali e direzionali
-Facciate continue CW50/CW60, vetro riflettente o Low-E, veneziane integrate, porte di accesso automatiche. Supporto per le certificazioni BREEAM e LEED.
+Facciate continue Reynaers CW 50/CW 60 e Alumil SMARTIA M50, vetro riflettente o Low-E, veneziane integrate, porte di accesso automatiche. Supporto per le certificazioni BREEAM e LEED.
 
 ### Facciate ventilate
 Struttura in alluminio con isolante e rivestimento esterno (ACM, HPL, pietra, legno termotrattato). Progettazione inclusa, con calcoli termici e dettagli esecutivi.
@@ -26722,10 +26629,10 @@ Sistemi alzanti scorrevoli, vetrate panoramiche, pergole con serramenti, facciat
 |---|---|
 | Serramenti in alluminio Alumil Smartia S67 | 250–400 EUR/m² |
 | Serramenti in alluminio Reynaers CS 77 | 400–600 EUR/m² |
-| Facciata continua Alumil CW50 | 150–250 EUR/m² |
-| Facciata continua semistrutturale | 250–400 EUR/m² |
+| Facciata continua Reynaers CW 50 / Alumil SMARTIA M50 | 450–700 EUR/m² |
+| Facciata continua semistrutturale | preventivo per progetto, di solito oltre 700 EUR/m² |
 | Facciata ventilata in alluminio e ACM | 180–320 EUR/m² |
-| Facciata continua strutturale | 400–600 EUR/m² |
+| Facciata continua strutturale | preventivo per progetto, di solito oltre 700 EUR/m² |
 
 *I prezzi comprendono materiali, posa e documentazione CE. Il trasporto è incluso a Bucarest e Ilfov; fuori da queste zone si paga a parte. Non comprendono i lavori di preparazione strutturale.*
 
@@ -29681,7 +29588,7 @@ Design arhitectural spectaculos — foaia se rotește pe un pivot central sau ex
 ### Pereți cortină și fațade din aluminiu
 Nu sunt uși în sensul clasic, dar multe proiecte din Sector 1 includ sisteme de vitrare cu uși integrate în fațadă.
 
-**Sistem Alumil:** CW50 / CW60 Curtain Wall
+**Sisteme:** Reynaers CW 50 / CW 60 și Alumil SMARTIA M50
 - Fațade continue cu geam
 - Uși batante sau glisante integrate
 - Potrivit pentru birouri, showroom-uri, vile moderne
@@ -29782,7 +29689,7 @@ Neofort BIZ supplies Alumil [aluminium doors](/en/aluminium-windows) and [instal
 
 **Pivot doors:** architectural statement piece, up to 3.5m height, 1.5m width. Custom-made exclusively.
 
-**Curtain walls with integrated doors:** Alumil CW50/CW60. For offices, showrooms, modern villas.
+**Curtain walls with integrated doors:** Reynaers CW 50/CW 60 and Alumil SMARTIA M50. For offices, showrooms, modern villas.
 
 ---
 
@@ -29846,7 +29753,7 @@ Sektor 1 konzentriert die meisten Premium-Villen, Luxusresidenzen und Bürogebä
 
 **Pivottüren:** architektonisches Highlight, bis 3,5m Höhe. Ausschließlich auf Bestellung.
 
-**Vorhangfassaden mit integrierten Türen:** Alumil CW50/CW60.
+**Vorhangfassaden mit integrierten Türen:** Reynaers CW 50/CW 60 und Alumil SMARTIA M50.
 
 ---
 
@@ -29904,7 +29811,7 @@ Le Secteur 1 concentre le plus grand nombre de villas premium, de résidences de
 
 **Portes pivotantes :** pièce architecturale maîtresse, jusqu'à 3,5m de hauteur. Sur commande exclusivement.
 
-**Murs-rideaux avec portes intégrées :** Alumil CW50/CW60.
+**Murs-rideaux avec portes intégrées :** Reynaers CW 50/CW 60 et Alumil SMARTIA M50.
 
 ---
 
@@ -29962,7 +29869,7 @@ El Sector 1 concentra el mayor número de villas premium, residencias de lujo y 
 
 **Puertas pivotantes:** pieza arquitectónica, hasta 3,5m de altura. Solo a medida.
 
-**Muros cortina con puertas integradas:** Alumil CW50/CW60.
+**Muros cortina con puertas integradas:** Reynaers CW 50/CW 60 y Alumil SMARTIA M50.
 
 ---
 
@@ -30020,7 +29927,7 @@ Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e 
 
 **Porte pivot:** elemento architettonico, fino a 3,5m di altezza. Solo su misura.
 
-**Facciate continue con porte integrate:** Alumil CW50/CW60.
+**Facciate continue con porte integrate:** Reynaers CW 50/CW 60 e Alumil SMARTIA M50.
 
 ---
 
@@ -35741,7 +35648,7 @@ Distanțierul (rama dintre foile de geam) are un impact major pe Uw final al fer
 - **Distanțier aluminiu standard:** Ψg = 0,10 W/(mK) — creează punte termică, favorizează condensul
 - **Distanțier Warm Edge (de exemplu Swisspacer):** Ψg = 0,03 W/(mK) — reduce Uw cu 0,05–0,10 W/(m²K)
 
-**La Neofort BIZ, toate ferestrele cu tripan sunt livrate standard cu distanțier Warm Edge.**
+**La Neofort BIZ, distanțierul Warm Edge se montează la cerere, cu cost separat; circa 90% dintre clienți îl aleg.**
 
 ## Întrebări frecvente — coeficientul termic al ferestrelor
 
@@ -35859,7 +35766,7 @@ The spacer (the frame between the panes) has a major impact on the window's fina
 - **Standard aluminium spacer:** Ψg = 0.10 W/(mK) — creates a thermal bridge and encourages condensation
 - **Warm Edge spacer (for example Swisspacer):** Ψg = 0.03 W/(mK) — lowers Uw by 0.05–0.10 W/(m²K)
 
-**At Neofort BIZ, all triple-glazed windows come with a Warm Edge spacer as standard.**
+**At Neofort BIZ, the Warm Edge spacer is fitted on request at a separate cost; about 90% of customers choose it.**
 
 ## Frequently Asked Questions — the thermal coefficient of windows
 
@@ -35977,7 +35884,7 @@ Der Abstandhalter (der Rahmen zwischen den Scheiben) hat großen Einfluss auf de
 - **Standard-Abstandhalter aus Aluminium:** Ψg = 0,10 W/(mK) — bildet eine Wärmebrücke und begünstigt Kondenswasser
 - **Warm-Edge-Abstandhalter (zum Beispiel Swisspacer):** Ψg = 0,03 W/(mK) — senkt den Uw-Wert um 0,05–0,10 W/(m²K)
 
-**Bei Neofort BIZ werden alle dreifach verglasten Fenster standardmäßig mit Warm-Edge-Abstandhalter geliefert.**
+**Bei Neofort BIZ wird der Warm-Edge-Abstandhalter auf Anfrage gegen Aufpreis eingesetzt; etwa 90 % der Kunden wählen ihn.**
 
 ## Häufig gestellte Fragen — der Wärmedurchgangskoeffizient von Fenstern
 
@@ -36095,7 +36002,7 @@ L’intercalaire (le cadre entre les vitres) a un impact important sur le Uw fin
 - **Intercalaire aluminium standard :** Ψg = 0,10 W/(mK) — crée un pont thermique et favorise la condensation
 - **Intercalaire Warm Edge (par exemple Swisspacer) :** Ψg = 0,03 W/(mK) — abaisse le Uw de 0,05 à 0,10 W/(m²K)
 
-**Chez Neofort BIZ, toutes les fenêtres en triple vitrage sont livrées de série avec un intercalaire Warm Edge.**
+**Chez Neofort BIZ, l’intercalaire Warm Edge est posé sur demande, avec un coût séparé ; environ 90 % des clients le choisissent.**
 
 ## Questions fréquentes — le coefficient thermique des fenêtres
 
@@ -36213,7 +36120,7 @@ El separador (el marco entre los vidrios) influye mucho en el Uw final de la ven
 - **Separador de aluminio estándar:** Ψg = 0,10 W/(mK); crea un puente térmico y favorece la condensación
 - **Separador Warm Edge (por ejemplo Swisspacer):** Ψg = 0,03 W/(mK); reduce el Uw en 0,05–0,10 W/(m²K)
 
-**En Neofort BIZ, todas las ventanas con triple acristalamiento se entregan de serie con separador Warm Edge.**
+**En Neofort BIZ, el separador Warm Edge se monta bajo pedido, con coste aparte; alrededor del 90 % de los clientes lo elige.**
 
 ## Preguntas frecuentes — el coeficiente térmico de las ventanas
 
@@ -36331,7 +36238,7 @@ Il distanziatore (il telaio tra le lastre) ha un forte impatto sull’Uw finale 
 - **Distanziatore in alluminio standard:** Ψg = 0,10 W/(mK); crea un ponte termico e favorisce la condensa
 - **Distanziatore Warm Edge (per esempio Swisspacer):** Ψg = 0,03 W/(mK); riduce l’Uw di 0,05–0,10 W/(m²K)
 
-**Da Neofort BIZ tutte le finestre con vetro triplo sono fornite di serie con distanziatore Warm Edge.**
+**Da Neofort BIZ il distanziatore Warm Edge si monta su richiesta, con costo a parte; circa il 90% dei clienti lo sceglie.**
 
 ## Domande frequenti — il coefficiente termico delle finestre
 

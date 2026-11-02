@@ -52,7 +52,7 @@ const UI = {
       },
       {
         "name": "Rulouri exterioare aluminiu",
-        "desc": "Rulouri cu lamele din aluminiu extrudat izolat, de 7,5–19,5 mm — izolare termică nocturnă și izolare fonică, antiefracție RC3 cu ghidaje securizate.",
+        "desc": "Rulouri cu lamele din aluminiu extrudat izolat, de 7,5–19,5 mm — izolare termică nocturnă, izolare fonică și o barieră fizică în plus în fața geamului.",
         "price": "85–120 €/mp manual · 150–220 €/mp cu motor · montaj inclus",
         "link": "/umbrire/rulouri-exterioare-aluminiu",
         "cta": "Detalii Rulouri"
@@ -113,7 +113,7 @@ const UI = {
       },
       {
         "name": "Aluminium Roller Shutters",
-        "desc": "Shutters with insulated extruded aluminium slats, 7.5–19.5 mm — night-time thermal and sound insulation, RC3 burglar resistance with secured guides.",
+        "desc": "Shutters with insulated extruded aluminium slats, 7.5–19.5 mm — night-time thermal and sound insulation, plus an extra physical barrier in front of the glass.",
         "price": "€85–120/m² manual · €150–220/m² motorised · installation included",
         "link": "/shading-systems/aluminium-external-roller-shutters",
         "cta": "Roller Shutter Details"
@@ -174,7 +174,7 @@ const UI = {
       },
       {
         "name": "Aluminium-Außenrollladen",
-        "desc": "Rollladen mit Lamellen aus isoliertem stranggepresstem Aluminium, 7,5–19,5 mm — nächtliche Wärme- und Schalldämmung, Einbruchschutz RC3 mit gesicherten Führungen.",
+        "desc": "Rollladen mit Lamellen aus isoliertem stranggepresstem Aluminium, 7,5–19,5 mm — nächtliche Wärme- und Schalldämmung sowie eine zusätzliche physische Barriere vor dem Glas.",
         "price": "85–120 €/m² manuell · 150–220 €/m² mit Motor · Montage inklusive",
         "link": "/beschattungssysteme/aluminium-aussenrollladen",
         "cta": "Rollladen Details"
@@ -235,7 +235,7 @@ const UI = {
       },
       {
         "name": "Volets roulants aluminium",
-        "desc": "Volets à lames en aluminium extrudé isolé de 7,5 à 19,5 mm — isolation thermique nocturne et acoustique, anti-effraction RC3 avec guides sécurisés.",
+        "desc": "Volets à lames en aluminium extrudé isolé de 7,5 à 19,5 mm — isolation thermique nocturne et acoustique, plus une barrière physique supplémentaire devant le vitrage.",
         "price": "85–120 €/m² manuel · 150–220 €/m² motorisé · pose incluse",
         "link": "/systemes-occultation/volets-roulants-aluminium-exterieurs",
         "cta": "Détails Volets roulants"
@@ -296,7 +296,7 @@ const UI = {
       },
       {
         "name": "Persianas de aluminio exteriores",
-        "desc": "Persianas con lamas de aluminio extruido aislado de 7,5–19,5 mm: aislamiento térmico nocturno y acústico, antirrobo RC3 con guías seguras.",
+        "desc": "Persianas con lamas de aluminio extruido aislado de 7,5–19,5 mm: aislamiento térmico nocturno y acústico, y una barrera física adicional delante del vidrio.",
         "price": "85–120 €/m² manual · 150–220 €/m² motorizado · instalación incluida",
         "link": "/sistemas-sombreado/persianas-exteriores-aluminio",
         "cta": "Detalles Persianas"
@@ -357,7 +357,7 @@ const UI = {
       },
       {
         "name": "Tapparelle esterne in alluminio",
-        "desc": "Tapparelle con lamelle in alluminio estruso isolato da 7,5 a 19,5 mm — isolamento termico notturno e acustico, antieffrazione RC3 con guide sicure.",
+        "desc": "Tapparelle con lamelle in alluminio estruso isolato da 7,5 a 19,5 mm — isolamento termico notturno e acustico, più una barriera fisica in più davanti al vetro.",
         "price": "85–120 €/m² manuale · 150–220 €/m² motorizzato · posa inclusa",
         "link": "/sistemi-oscuramento/tapparelle-esterne-alluminio",
         "cta": "Dettagli Tapparelle"

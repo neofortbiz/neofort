@@ -53,7 +53,7 @@
   },
   "aluminiu": {
     "title": "Alumil Aluminium Windows | S77 Supreme | Neofort BIZ",
-    "description": "Alumil aluminium windows: S77 Supreme, S67 Smartia, sliding S700, folding SF85, curtain wall M19800. Thermal barrier, nZEB certified. Delivery across Europe.",
+    "description": "Alumil aluminium windows: S77 Supreme, S67 Smartia, sliding S700, folding SF85 and M19800, curtain walls. Thermal barrier, nZEB certified. Delivery across Europe.",
     "hero_title": "ALUMINIUM WINDOWS ALUMIL",
     "hero_subtitle": "Premium Aluminium Window System",
     "desc": "Neofort offers complete supply services for Alumil Aluminium Windows. Our range includes systems for casement windows and doors, lift-and-slide and folding systems. Our windows meet nZEB energy efficiency requirements and passive house construction standards.",
@@ -135,11 +135,11 @@
         "specs": [
           "Thermal barrier 18 mm",
           "Sealing 2 gaskets",
-          "Depth: 50 mm",
-          "U-value: from 1.9 W/m²K",
-          "Glazing: up to 32mm",
-          "Sound insulation: up to 36 dB",
-          "Burglar resistance: PAS24"
+          "Panel profile: 50 mm",
+          "U-value: Uf 1.9 W/m²K",
+          "Glazing: 24–32 mm",
+          "Water tightness: class 4A",
+          "Wind resistance: C1/B1"
         ]
       }
     ]
