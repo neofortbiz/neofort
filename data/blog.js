@@ -16970,20 +16970,20 @@ Neofort BIZ fornisce finestre con vetrocamera Salamander in tutti i profili, a B
     imageLabel: 'Aluminiu 2026',
     accentColor: '#162d47',
     title: {
-      ro: 'Prețuri tâmplărie aluminiu 2026 — Alumil, Aluprof, Cortizo și Reynaers în București: comparație completă',
-      en: 'Aluminium window prices 2026 — Alumil, Aluprof, Cortizo and Reynaers in Bucharest: complete comparison',
-      de: 'Aluminiumfenster Preise 2026 — Alumil, Aluprof, Cortizo und Reynaers in Bukarest: Vollständiger Vergleich',
-      fr: 'Prix menuiserie aluminium 2026 — Alumil, Aluprof, Cortizo et Reynaers à Bucarest : comparaison complète',
-      es: 'Precios carpintería aluminio 2026 — Alumil, Aluprof, Cortizo y Reynaers en Bucarest: comparación completa',
-      it: 'Prezzi infissi alluminio 2026 — Alumil, Aluprof, Cortizo e Reynaers a Bucarest: confronto completo',
+      ro: 'Prețuri aluminiu: Alumil, Aluprof, Cortizo și Reynaers',
+      en: 'Aluminium window prices: Alumil, Aluprof, Cortizo, Reynaers',
+      de: 'Aluminiumfenster-Preise: Alumil, Aluprof, Cortizo, Reynaers',
+      fr: 'Prix alu : Alumil, Aluprof, Cortizo et Reynaers',
+      es: 'Precios aluminio: Alumil, Aluprof, Cortizo y Reynaers',
+      it: 'Prezzi alluminio: Alumil, Aluprof, Cortizo e Reynaers',
     },
     excerpt: {
-      ro: 'Alumil, Aluprof, Cortizo sau Reynaers — care sistem de tâmplărie aluminiu oferă cel mai bun raport calitate-preț în București în 2026? Comparăm prețurile, performanțele termice și disponibilitatea locală pentru cele 4 mărci principale.',
-      en: 'Alumil, Aluprof, Cortizo or Reynaers — which aluminium window system offers the best value in Bucharest in 2026? We compare prices, thermal performance and local availability for the 4 main brands.',
-      de: 'Alumil, Aluprof, Cortizo oder Reynaers — welches System bietet das beste Preis-Leistungs-Verhältnis in Bukarest 2026? Preise, Wärmeleistung und Verfügbarkeit im Vergleich.',
-      fr: "Alumil, Aluprof, Cortizo ou Reynaers — quel système offre le meilleur rapport qualité-prix à Bucarest en 2026 ? Comparaison prix, performances et disponibilité locale.",
-      es: 'Alumil, Aluprof, Cortizo o Reynaers — ¿qué sistema ofrece la mejor relación calidad-precio en Bucarest en 2026? Comparamos precios, rendimiento térmico y disponibilidad local.',
-      it: "Alumil, Aluprof, Cortizo o Reynaers — quale sistema offre il miglior rapporto qualità-prezzo a Bucarest nel 2026? Confrontiamo prezzi, prestazioni termiche e disponibilità locale.",
+      ro: 'Alumil, Aluprof, Cortizo sau Reynaers? Comparăm sistemele de tâmplărie din aluminiu ale celor patru mărci după datele producătorilor (adâncime, Uw), poziționarea de preț și prețurile Alumil și Reynaers la Neofort BIZ în București, în 2026.',
+      en: 'Alumil, Aluprof, Cortizo or Reynaers? We compare the four brands’ aluminium window systems using the manufacturers’ data (depth, Uw), their price positioning and Neofort BIZ’s Alumil and Reynaers prices in Bucharest in 2026.',
+      de: 'Alumil, Aluprof, Cortizo oder Reynaers? Wir vergleichen die Aluminiumfenstersysteme der vier Marken nach Herstellerangaben (Bautiefe, Uw), ihre Preislage und die Preise von Neofort BIZ für Alumil und Reynaers in Bukarest 2026.',
+      fr: "Alumil, Aluprof, Cortizo ou Reynaers ? Nous comparons les systèmes aluminium des quatre marques selon les données des fabricants (profondeur, Uw), leur positionnement de prix et les prix Alumil et Reynaers de Neofort BIZ à Bucarest en 2026.",
+      es: '¿Alumil, Aluprof, Cortizo o Reynaers? Comparamos los sistemas de aluminio de las cuatro marcas con los datos de los fabricantes (profundidad, Uw), su posicionamiento de precio y los precios de Alumil y Reynaers de Neofort BIZ en Bucarest en 2026.',
+      it: "Alumil, Aluprof, Cortizo o Reynaers? Confrontiamo i sistemi in alluminio dei quattro marchi con i dati dei produttori (profondità, Uw), il loro posizionamento di prezzo e i prezzi Alumil e Reynaers di Neofort BIZ a Bucarest nel 2026.",
     },
     metaDesc: {
       ro: "Alumil, Aluprof, Cortizo sau Reynaers? Comparație de prețuri și performanțe între cele patru mărci de tâmplărie din aluminiu disponibile în București.",
@@ -16997,41 +16997,42 @@ Neofort BIZ fornisce finestre con vetrocamera Salamander in tutti i profili, a B
     content: {
       ro: `## Alumil, Aluprof, Cortizo sau Reynaers — care e alegerea corectă în 2026?
 
-Cele 4 mărci dominante pe piața din București: **[Alumil](/ro/tamplarie-aluminiu)** (Grecia), **Aluprof** (Polonia), **Cortizo** (Spania) și **Reynaers** (Belgia). Fiecare are avantaje distincte — iată comparația completă.
+Patru mărci de sisteme din aluminiu apar des în ofertele din București: **[Alumil](/ro/tamplarie-aluminiu)** (Grecia), **Aluprof** (Polonia), **Cortizo** (Spania) și **Reynaers** (Belgia). Toate fac profile cu barieră termică de calitate; diferențele sunt de gamă, de preț și de cine le prelucrează local. Neofort BIZ montează sisteme **Alumil și Reynaers** — mai jos le punem pe toate patru unul lângă altul.
 
 ---
 
-## Comparație prețuri și performanțe — 2026
+## Comparație sisteme — date de la producători, 2026
 
-| Sistem | Adâncime | Uw (W/m²K) | Preț/mp montat | Livrare RO |
+| Sistem | Adâncime profil | Uw declarat (W/m²K) | Preț/mp montat | Poziționare |
 |---|---|---|---|---|
-| Alumil Smartia S67 | 67 mm | 1,2–1,4 | **250–350 EUR** | **3–5 zile** |
-| Aluprof MB-86 | 86 mm | 1,1–1,3 | 270–380 EUR | 2–3 săptămâni |
-| Cortizo COR 70 | 70 mm | 1,3–1,5 | 280–400 EUR | 4–6 săptămâni |
-| Reynaers CS 77 | 77 mm | 1,1–1,4 | 400–600 EUR | 5–8 săptămâni |
-| **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 zile** |
-| Aluprof MB-104 Passive | 104 mm | 0,75–0,90 | 380–550 EUR | 2–3 săptămâni |
-| Cortizo COR 80 RPT | 80 mm | 1,0–1,2 | 360–500 EUR | 4–6 săptămâni |
-| Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 săptămâni |
+| Alumil SMARTIA S67 | 67–75 mm | de la 1,3 | **250–350 EUR** | Raport calitate-preț |
+| Aluprof MB-86N | toc 77 / canat 86 mm | de la 0,67 | la ofertă | Mediu |
+| Cortizo COR 70 | toc 70 / canat 78 mm | de la 0,9 | la ofertă | Mediu |
+| Reynaers ConceptSystem 77 | toc 68 / canat 77 mm | 1,3–1,4 | la ofertă | Premium |
+| **Alumil SUPREME S77** | **77–93 mm** | **de la 1,0** | **350–480 EUR** | Premium, nZEB |
+| Aluprof MB-104 Passive | toc 95 / canat 104 mm | de la 0,62 | la ofertă | Premium, casă pasivă |
+| Cortizo COR 80 Industrial | toc 80 / canat 88 mm | de la 0,71 | la ofertă | Premium, casă pasivă |
+| Reynaers MasterLine 8 | toc 77 mm | de la 0,88 | la ofertă | Premium+ |
 
-> ⚠️ **Notă importantă privind prețurile:** Toate prețurile prezentate în acest articol sunt **orientative** și reflectă condițiile de piață din martie 2026. Prețurile materialelor, energiei și manoperei sunt în continuă schimbare și pot crește sau scădea. Solicitați întotdeauna o [ofertă actualizată](/ro/contact) înainte de a lua o decizie de achiziție.
+*Prețurile Alumil sunt ale Neofort BIZ, fără TVA, cu geam termopan și montaj. Valorile Uw sunt cele declarate de fiecare producător pentru varianta cea mai bine izolată, în condițiile lui de test (dimensiune, geam); nu se compară direct între mărci. Pentru fereastra ta, Uw se calculează în ofertă.*
 
+> ⚠️ **Notă importantă privind prețurile:** prețurile sunt **orientative**, la nivelul anului 2026. Prețurile materialelor, energiei și manoperei se schimbă în timp. Solicită întotdeauna o [ofertă actualizată](/ro/contact) înainte de a lua o decizie. Aluprof, Cortizo și Reynaers nu publică liste de prețuri pentru România: prețul îl stabilește fabricantul care prelucrează profilele, pe proiect.
 
 ---
 
 ## Profilul fiecărei mărci
 
-### Alumil (Grecia, 1988) — livrăm la Neofort BIZ
-Cea mai mare prezență pe piața românească, cu depozit central la București și livrări în 3–5 zile. Cel mai bun raport calitate-preț-disponibilitate. Alumil Supreme SF85 este certificat Passive House Institute (PHI).
+### Alumil (Grecia, 1988) — montăm la Neofort BIZ
+Unul dintre cei mai mari producători de sisteme din aluminiu din Europa de Sud-Est, cu prezență veche pe piața românească. Gama SMARTIA acoperă proiectele cu buget echilibrat, iar SUPREME S77 (barieră termică de 40 mm, Uf de la 0,86 W/m²K, RC3) este alegerea noastră pentru casele nZEB.
 
-### Aluprof (Polonia, 1953)
-A doua prezență ca volum în România. Prețuri competitive, MB-104 Passive certificat PHI. Dezavantaj: livrare 2–3 săptămâni față de Alumil.
+### Aluprof (Polonia)
+Parte a grupului polonez Kęty, cu o gamă largă de ferestre, uși și fațade. MB-86N este sistemul de bază cu izolare bună, iar MB-104 Passive are certificare Passive House Institute, cu Uw de la 0,62 W/m²K la ferestrele care se deschid.
 
 ### Cortizo (Spania, 1972)
-Apreciat pentru design rafinat — profile vizuale mai înguste. Prețuri mai ridicate față de Alumil la performanțe similare. Livrare 4–6 săptămâni în România.
+Producător spaniol apreciat pentru gama largă și pentru variantele cu canat ascuns (COR 70 și COR 80 Hoja Oculta). COR 80 Industrial are și o variantă certificată Passivhaus, cu Uw de la 0,71 W/m²K.
 
-### Reynaers (Belgia, 1965)
-Segment ultra-premium. Utilizat în proiecte arhitecturale de referință. Prețuri cu **40–80% mai mari** față de Alumil la performanțe comparabile. Justificat doar când arhitectul a specificat explicit acest sistem.
+### Reynaers (Belgia, 1965) — montăm la Neofort BIZ
+Segment premium, folosit des în proiecte de arhitectură. ConceptSystem 77 este sistemul clasic al mărcii, iar MasterLine 8 este generația nouă, cu varianta de izolare „Passive”. Vechiul CS 86-HI a fost scos din fabricație. Am montat Reynaers ConceptSystem 77 pe un bloc întreg din Delea Veche — detaliile sunt în [studiul de caz Reynaers](/ro/blog/tamplarie-aluminiu-reynaers-bloc-nou-construit-bucuresti).
 
 ---
 
@@ -17041,34 +17042,40 @@ Segment ultra-premium. Utilizat în proiecte arhitecturale de referință. Preț
 
 | Configurație | Estimare totală |
 |---|---|
-| Alumil Smartia S67, geam dublu Low-E | 18.000–28.000 EUR |
-| Alumil Supreme SF85, geam triplu Low-E, montaj nZEB | 28.000–45.000 EUR |
+| Alumil SMARTIA S67, geam dublu Low-E | 18.000–28.000 EUR |
+| Alumil SUPREME S77, geam triplu Low-E, montaj nZEB | 28.000–45.000 EUR |
+
+*Estimări fără TVA, cu montaj. Pentru Reynaers, prețul îl calculăm pe proiect.*
 
 ---
 
 ## Recomandarea Neofort BIZ
 
-Lucrăm exclusiv cu **Alumil** pentru 3 motive: stoc local (livrare 3–5 zile), cel mai bun raport calitate-preț și suport tehnic local pentru certificări nZEB.
+Montăm **Alumil** și **Reynaers**, cu echipe proprii. Pentru majoritatea caselor recomandăm Alumil: cel mai bun raport calitate-preț, iar SUPREME S77 acoperă cerințele nZEB. Reynaers îl montăm când proiectul sau arhitectul îl cer. Ferestrele sunt gata de montaj în **3–4 săptămâni** de la comandă, iar oferta o primești în 48 de ore.
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
 ## Întrebări frecvente
 
-### Care sunt cele 4 mărci dominante de tâmplărie aluminiu în București?
+### Care sunt cele 4 mărci de tâmplărie din aluminiu întâlnite des în București?
 
-Cele 4 mărci dominante sunt Alumil (Grecia), Aluprof (Polonia), Cortizo (Spania) și Reynaers (Belgia). Fiecare are avantaje distincte de performanță, preț și termen de livrare. Alumil are cea mai rapidă livrare în România (3-5 zile), fiind importat direct.
+Alumil (Grecia), Aluprof (Polonia), Cortizo (Spania) și Reynaers (Belgia). Toate fac sisteme cu barieră termică; diferă prin gamă, preț și prin fabricantul care le prelucrează local. Neofort BIZ montează Alumil și Reynaers.
 
-### Cât costă tâmplăria aluminiu Alumil în 2026?
+### Cât costă tâmplăria din aluminiu Alumil în 2026?
 
-Alumil Smartia S67 (67 mm, Uw 1,2-1,4) costă 250-350 EUR/mp montat, cu livrare 3-5 zile. Alumil Supreme SF85 (85 mm, Uw 0,95-1,1, nZEB) costă 350-500 EUR/mp montat. Toate prețurile sunt orientative, condiții martie 2026 — cere o ofertă actualizată.
+Alumil SMARTIA S67 (Uw de la 1,3) costă 250-350 EUR/mp, iar Alumil SUPREME S77 (Uw de la 1,0, potrivit pentru nZEB) costă 350-480 EUR/mp. Prețurile sunt orientative, fără TVA, cu geam termopan și montaj.
 
-### Care marcă de aluminiu are cea mai rapidă livrare în România?
+### În cât timp primesc ferestrele din aluminiu?
 
-Alumil are cea mai rapidă livrare — 3-5 zile, fiind importat direct. Aluprof livrează în 2-3 săptămâni, Cortizo în 4-6 săptămâni, iar Reynaers în 5-8 săptămâni. Pentru proiecte cu termen strâns, Alumil e avantajul clar de disponibilitate.
+La Neofort BIZ, ferestrele sunt gata de montaj în 3-4 săptămâni de la comandă, iar data montajului o stabilim împreună când comanda e gata. La celelalte mărci, termenul îl dă fabricantul care prelucrează profilele.
 
-### Ce sistem de aluminiu atinge cea mai bună performanță termică?
+### Ce sistem de aluminiu are cea mai bună izolare termică?
 
-Aluprof MB-104 Passive (104 mm) atinge Uw 0,75-0,90 W/m²K, iar Reynaers CS 86-HI (86 mm) ajunge la 0,80-1,0. Alumil Supreme SF85 (85 mm) oferă Uw 0,95-1,1 cu cea mai rapidă livrare. Toate sunt potrivite pentru standard nZEB, diferind ca preț și termen.
+Dintre sistemele comparate, Aluprof MB-104 Passive declară Uw de la 0,62 W/m²K, iar Cortizo COR 80 Industrial de la 0,71. Alumil SUPREME S77, cu Uw de la 1,0, se încadrează în valoarea de referință Mc 001-2022 pentru clădiri rezidențiale noi (1,11 W/m²K).
+
+### Lucrează Neofort BIZ și cu Reynaers?
+
+Da. Pe lângă Alumil, montăm sisteme Reynaers, de exemplu ConceptSystem 77 pe un bloc nou din Delea Veche, cu ferestre, uși de balcon și uși de intrare. Prețul Reynaers îl calculăm pe proiect.
 
 ---
 
@@ -17076,246 +17083,433 @@ Neofort BIZ execută lucrări de tâmplărie și fațade din aluminiu în Bucure
 
       en: `## Alumil, Aluprof, Cortizo or Reynaers — which is the right choice in 2026?
 
-The 4 dominant brands on the Bucharest market: **[Alumil](/en/aluminium-windows)** (Greece), **Aluprof** (Poland), **Cortizo** (Spain) and **Reynaers** (Belgium).
+Four brands of aluminium systems come up often in quotes in Bucharest: **[Alumil](/en/aluminium-windows)** (Greece), **Aluprof** (Poland), **Cortizo** (Spain) and **Reynaers** (Belgium). All four make quality thermally broken profiles; the differences lie in the range, the price and who fabricates them locally. Neofort BIZ installs **Alumil and Reynaers** systems — below we set all four side by side.
 
 ---
 
-## Price and performance comparison — 2026
+## System comparison — manufacturers’ data, 2026
 
-| System | Depth | Uw (W/m²K) | Price/m² installed | Delivery RO |
+| System | Profile depth | Declared Uw (W/m²K) | Price/m² installed | Positioning |
 |---|---|---|---|---|
-| Alumil Smartia S67 | 67 mm | 1.2–1.4 | **250–350 EUR** | **3–5 days** |
-| Aluprof MB-86 | 86 mm | 1.1–1.3 | 270–380 EUR | 2–3 weeks |
-| Cortizo COR 70 | 70 mm | 1.3–1.5 | 280–400 EUR | 4–6 weeks |
-| Reynaers CS 77 | 77 mm | 1.1–1.4 | 400–600 EUR | 5–8 weeks |
-| **Alumil Supreme SF85** | **85 mm** | **0.95–1.1** | **350–500 EUR** | **3–5 days** |
-| Aluprof MB-104 | 104 mm | 0.75–0.90 | 380–550 EUR | 2–3 weeks |
-| Reynaers CS 86-HI | 86 mm | 0.80–1.0 | 550–800 EUR | 5–8 weeks |
+| Alumil SMARTIA S67 | 67–75 mm | from 1.3 | **250–350 EUR** | Value for money |
+| Aluprof MB-86N | frame 77 / sash 86 mm | from 0.67 | on quote | Mid-range |
+| Cortizo COR 70 | frame 70 / sash 78 mm | from 0.9 | on quote | Mid-range |
+| Reynaers ConceptSystem 77 | frame 68 / sash 77 mm | 1.3–1.4 | on quote | Premium |
+| **Alumil SUPREME S77** | **77–93 mm** | **from 1.0** | **350–480 EUR** | Premium, nZEB |
+| Aluprof MB-104 Passive | frame 95 / sash 104 mm | from 0.62 | on quote | Premium, passive house |
+| Cortizo COR 80 Industrial | frame 80 / sash 88 mm | from 0.71 | on quote | Premium, passive house |
+| Reynaers MasterLine 8 | frame 77 mm | from 0.88 | on quote | Premium+ |
 
-> ⚠️ **Important note on prices:** All prices in this article are **indicative** and reflect market conditions as of March 2026. Material, energy and labour costs are constantly changing and may increase or decrease. Always request an [updated quote](/en/contact) before making a purchasing decision.
+*Alumil prices are Neofort BIZ’s, excluding VAT, with insulating glass and installation. The Uw values are those declared by each manufacturer for its best-insulated version, under its own test conditions (size, glazing); they cannot be compared directly between brands. For your window, the Uw is calculated in the quote.*
 
-
----
-
-## Brand profiles
-
-**Alumil** (Greece, 1988) — largest presence in Romania, local warehouse Bucharest, 3–5 day delivery. Best value. SF85 certified by Passive House Institute.
-
-**Aluprof** (Poland, 1953) — competitive prices, MB-104 PHI certified. 2–3 week delivery.
-
-**Cortizo** (Spain, 1972) — refined design, slimmer visual profiles. Higher price vs Alumil at similar performance. 4–6 week delivery.
-
-**Reynaers** (Belgium, 1965) — ultra-premium. 40–80% more expensive than Alumil at comparable performance. Justified only when the architect has specifically requested it.
+> ⚠️ **Important note on prices:** prices are **indicative**, at 2026 levels. The prices of materials, energy and labour change over time. Always ask for an [updated quote](/en/contact) before making a decision. Aluprof, Cortizo and Reynaers do not publish price lists for Romania: the price is set per project by the fabricator who processes the profiles.
 
 ---
 
-## Neofort BIZ recommendation
+## Profile of each brand
 
-We work exclusively with Alumil: local stock (3–5 day delivery), best price-performance ratio, local technical support for nZEB certifications.
+### Alumil (Greece, 1988) — installed by Neofort BIZ
+One of the largest aluminium system manufacturers in South-Eastern Europe, with a long-standing presence on the Romanian market. The SMARTIA range covers projects with a balanced budget, and SUPREME S77 (40 mm thermal break, Uf from 0.86 W/m²K, RC3) is our choice for nZEB houses.
 
-**WhatsApp:** +40 752 443 435
+### Aluprof (Poland)
+Part of the Polish Kęty group, with a broad range of windows, doors and facades. MB-86N is the base system with good insulation, and MB-104 Passive is certified by the Passive House Institute, with a Uw from 0.62 W/m²K for opening windows.
+
+### Cortizo (Spain, 1972)
+A Spanish manufacturer valued for its broad range and its hidden-sash versions (COR 70 and COR 80 Hoja Oculta). COR 80 Industrial also has a Passivhaus-certified version, with a Uw from 0.71 W/m²K.
+
+### Reynaers (Belgium, 1965) — installed by Neofort BIZ
+A premium segment, often used in architectural projects. ConceptSystem 77 is the brand’s classic system, and MasterLine 8 is the new generation, with a “Passive” insulation level. The old CS 86-HI has been discontinued. We installed Reynaers ConceptSystem 77 on a whole block in Delea Veche — the details are in the [Reynaers case study](/en/blog/reynaers-aluminium-windows-new-residential-block-bucharest).
+
+---
+
+## Estimates for complete projects — Bucharest 2026
+
+### Modern 150 m² house (12–16 windows + 2 sliding systems)
+
+| Configuration | Total estimate |
+|---|---|
+| Alumil SMARTIA S67, double Low-E glazing | 18,000–28,000 EUR |
+| Alumil SUPREME S77, triple Low-E glazing, nZEB installation | 28,000–45,000 EUR |
+
+*Estimates excluding VAT, with installation. For Reynaers, we calculate the price per project.*
+
+---
+
+## The Neofort BIZ recommendation
+
+We install **Alumil** and **Reynaers**, with our own teams. For most houses we recommend Alumil: the best value for money, and SUPREME S77 meets nZEB requirements. We install Reynaers when the project or the architect calls for it. The windows are ready for installation **3–4 weeks** after the order, and you get the quote within 48 hours.
+
+**WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
 
 ## Frequently Asked Questions
 
-### What are the 4 dominant aluminium joinery brands in Bucharest?
+### Which 4 aluminium window brands are common in Bucharest?
 
-The 4 dominant brands are Alumil (Greece), Aluprof (Poland), Cortizo (Spain) and Reynaers (Belgium). Each has distinct advantages in performance, price and lead time. Alumil has the fastest delivery in Romania (3-5 days), being imported directly.
+Alumil (Greece), Aluprof (Poland), Cortizo (Spain) and Reynaers (Belgium). All make thermally broken systems; they differ in range, price and the fabricator who processes them locally. Neofort BIZ installs Alumil and Reynaers.
 
-### How much does Alumil aluminium joinery cost in 2026?
+### How much do Alumil aluminium windows cost in 2026?
 
-Alumil Smartia S67 (67 mm, Uw 1.2-1.4) costs 250-350 EUR/m² fitted, with 3-5 day delivery. Alumil Supreme SF85 (85 mm, Uw 0.95-1.1, nZEB) costs 350-500 EUR/m² fitted. All prices are indicative, March 2026 conditions — ask for an updated quote.
+Alumil SMARTIA S67 (Uw from 1.3) costs 250-350 EUR/m², and Alumil SUPREME S77 (Uw from 1.0, suitable for nZEB) costs 350-480 EUR/m². Prices are indicative, excluding VAT, with insulating glass and installation.
 
-### Which aluminium brand has the fastest delivery in Romania?
+### How long until I get my aluminium windows?
 
-Alumil has the fastest delivery — 3-5 days, being imported directly. Aluprof delivers in 2-3 weeks, Cortizo in 4-6 weeks, and Reynaers in 5-8 weeks. For projects on a tight deadline, Alumil is the clear availability advantage.
+At Neofort BIZ, the windows are ready for installation 3-4 weeks after the order, and we agree the installation date together once the order is ready. For the other brands, the lead time is given by the fabricator who processes the profiles.
 
-### Which aluminium system reaches the best thermal performance?
+### Which aluminium system has the best thermal insulation?
 
-Aluprof MB-104 Passive (104 mm) reaches Uw 0.75-0.90 W/m²K, and Reynaers CS 86-HI (86 mm) reaches 0.80-1.0. Alumil Supreme SF85 (85 mm) offers Uw 0.95-1.1 with the fastest delivery. All suit the nZEB standard, differing in price and lead time.
+Of the systems compared, Aluprof MB-104 Passive declares a Uw from 0.62 W/m²K, and Cortizo COR 80 Industrial from 0.71. Alumil SUPREME S77, with a Uw from 1.0, falls within the Mc 001-2022 reference value for new residential buildings (1.11 W/m²K).
 
----
+### Does Neofort BIZ also work with Reynaers?
 
-Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). For the full context, read [the thermal break aluminium guide](/en/blog/aluminium-windows-thermal-break-complete-guide). We keep the per-system figures current on the [aluminium joinery prices](/en/aluminium-windows/prices) page, and the data sheet for the profile most often specified in Bucharest sits at [Alumil S 77 SUPREME](/en/products-alu/alumil-s77-supreme-aluminium-system).`,
-
-      de: `## Alumil, Aluprof, Cortizo oder Reynaers — Bukarest 2026
+Yes. Besides Alumil, we install Reynaers systems, for example ConceptSystem 77 on a new block in Delea Veche, with windows, balcony doors and entrance doors. We calculate the Reynaers price per project.
 
 ---
 
-## Preisvergleich — 4 Marken
+Neofort BIZ carries out aluminium joinery and facade work in Bucharest and Ilfov, from windows and doors to curtain walls. Discover the [range of aluminium windows](/en/aluminium-windows) or [request a quote](/en/contact). For the full picture, read the [guide to thermally broken aluminium joinery](/en/blog/aluminium-windows-thermal-break-complete-guide). We keep the price grid by system up to date at [aluminium window prices](/en/aluminium-windows/prices), and the technical sheet for the profile most requested in Bucharest is at [Alumil S 77 SUPREME](/en/products-alu/alumil-s77-supreme-aluminium-system).`,
 
-| System | Tiefe | Uw (W/m²K) | Preis/m² montiert | Lieferung |
+      de: `## Alumil, Aluprof, Cortizo oder Reynaers — welche Wahl ist 2026 die richtige?
+
+Vier Marken von Aluminiumsystemen tauchen in Bukarester Angeboten häufig auf: **[Alumil](/de/aluminiumfenster)** (Griechenland), **Aluprof** (Polen), **Cortizo** (Spanien) und **Reynaers** (Belgien). Alle vier fertigen hochwertige Profile mit thermischer Trennung; die Unterschiede liegen im Programm, im Preis und darin, wer sie vor Ort verarbeitet. Neofort BIZ montiert Systeme von **Alumil und Reynaers** — unten stellen wir alle vier nebeneinander.
+
+---
+
+## Systemvergleich — Herstellerangaben, 2026
+
+| System | Profiltiefe | Angegebener Uw (W/m²K) | Preis/m² montiert | Einordnung |
 |---|---|---|---|---|
-| Alumil Smartia S67 | 67 mm | 1,2–1,4 | **250–350 EUR** | **3–5 Tage** |
-| Aluprof MB-86 | 86 mm | 1,1–1,3 | 270–380 EUR | 2–3 Wochen |
-| Cortizo COR 70 | 70 mm | 1,3–1,5 | 280–400 EUR | 4–6 Wochen |
-| Reynaers CS 77 | 77 mm | 1,1–1,4 | 400–600 EUR | 5–8 Wochen |
-| **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 Tage** |
-| Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 Wochen |
+| Alumil SMARTIA S67 | 67–75 mm | ab 1,3 | **250–350 EUR** | Preis-Leistung |
+| Aluprof MB-86N | Rahmen 77 / Flügel 86 mm | ab 0,67 | auf Anfrage | Mittelklasse |
+| Cortizo COR 70 | Rahmen 70 / Flügel 78 mm | ab 0,9 | auf Anfrage | Mittelklasse |
+| Reynaers ConceptSystem 77 | Rahmen 68 / Flügel 77 mm | 1,3–1,4 | auf Anfrage | Premium |
+| **Alumil SUPREME S77** | **77–93 mm** | **ab 1,0** | **350–480 EUR** | Premium, nZEB |
+| Aluprof MB-104 Passive | Rahmen 95 / Flügel 104 mm | ab 0,62 | auf Anfrage | Premium, Passivhaus |
+| Cortizo COR 80 Industrial | Rahmen 80 / Flügel 88 mm | ab 0,71 | auf Anfrage | Premium, Passivhaus |
+| Reynaers MasterLine 8 | Rahmen 77 mm | ab 0,88 | auf Anfrage | Premium+ |
 
-> ⚠️ **Wichtiger Hinweis zu Preisen:** Alle in diesem Artikel genannten Preise sind **Richtwerte** und spiegeln die Marktbedingungen vom März 2026 wider. Material-, Energie- und Arbeitskosten ändern sich ständig und können steigen oder fallen. Fordern Sie immer ein [aktuelles Angebot](/de/kontakt) an, bevor Sie eine Kaufentscheidung treffen.
+*Die Alumil-Preise sind die von Neofort BIZ, ohne MwSt., mit Isolierglas und Montage. Die Uw-Werte sind die Angaben jedes Herstellers für seine am besten gedämmte Variante, unter seinen eigenen Prüfbedingungen (Größe, Verglasung); sie lassen sich zwischen den Marken nicht direkt vergleichen. Für Ihr Fenster wird der Uw-Wert im Angebot berechnet.*
 
+> ⚠️ **Wichtiger Hinweis zu den Preisen:** Die Preise sind **Richtwerte** auf dem Stand von 2026. Material-, Energie- und Lohnkosten ändern sich mit der Zeit. Fordern Sie vor einer Entscheidung immer ein [aktuelles Angebot](/de/kontakt) an. Aluprof, Cortizo und Reynaers veröffentlichen keine Preislisten für Rumänien: Den Preis legt der Fensterbauer, der die Profile verarbeitet, projektbezogen fest.
 
-**[Alumil](/de/aluminiumfenster)**: größte Präsenz in Rumänien, lokales Lager Bukarest, bestes Preis-Leistungs-Verhältnis.
-**Reynaers**: Ultra-Premium, 40–80% teurer als Alumil bei vergleichbarer Leistung.
+---
 
-**WhatsApp:** +40 752 443 435
+## Profil der einzelnen Marken
+
+### Alumil (Griechenland, 1988) — von Neofort BIZ montiert
+Einer der größten Hersteller von Aluminiumsystemen in Südosteuropa, seit Langem auf dem rumänischen Markt präsent. Das SMARTIA-Programm deckt Projekte mit ausgewogenem Budget ab, und SUPREME S77 (40 mm thermische Trennung, Uf ab 0,86 W/m²K, RC3) ist unsere Wahl für nZEB-Häuser.
+
+### Aluprof (Polen)
+Teil der polnischen Kęty-Gruppe, mit einem breiten Programm an Fenstern, Türen und Fassaden. MB-86N ist das Basissystem mit guter Dämmung, und MB-104 Passive ist vom Passivhaus Institut zertifiziert, mit Uw ab 0,62 W/m²K bei öffenbaren Fenstern.
+
+### Cortizo (Spanien, 1972)
+Ein spanischer Hersteller, geschätzt für sein breites Programm und die Varianten mit verdecktem Flügel (COR 70 und COR 80 Hoja Oculta). COR 80 Industrial gibt es auch als passivhauszertifizierte Variante, mit Uw ab 0,71 W/m²K.
+
+### Reynaers (Belgien, 1965) — von Neofort BIZ montiert
+Premiumsegment, häufig in Architekturprojekten eingesetzt. ConceptSystem 77 ist das klassische System der Marke, MasterLine 8 die neue Generation mit der Dämmstufe „Passive“. Das frühere CS 86-HI wurde eingestellt. Wir haben Reynaers ConceptSystem 77 an einem ganzen Wohnblock in Delea Veche montiert — die Details stehen in der [Reynaers-Fallstudie](/de/blog/reynaers-aluminiumfenster-neubau-wohnblock-bukarest).
+
+---
+
+## Schätzungen für komplette Projekte — Bukarest 2026
+
+### Modernes Haus mit 150 m² (12–16 Fenster + 2 Schiebesysteme)
+
+| Ausführung | Gesamtschätzung |
+|---|---|
+| Alumil SMARTIA S67, Zweifachverglasung Low-E | 18.000–28.000 EUR |
+| Alumil SUPREME S77, Dreifachverglasung Low-E, nZEB-Montage | 28.000–45.000 EUR |
+
+*Schätzungen ohne MwSt., mit Montage. Für Reynaers berechnen wir den Preis projektbezogen.*
+
+---
+
+## Die Empfehlung von Neofort BIZ
+
+Wir montieren **Alumil** und **Reynaers** mit eigenen Teams. Für die meisten Häuser empfehlen wir Alumil: das beste Preis-Leistungs-Verhältnis, und SUPREME S77 erfüllt die nZEB-Anforderungen. Reynaers montieren wir, wenn das Projekt oder der Architekt es vorgibt. Die Fenster sind **3–4 Wochen** nach der Bestellung montagebereit, und das Angebot erhalten Sie innerhalb von 48 Stunden.
+
+**WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18 Uhr**
 
 ## Häufig gestellte Fragen
 
-### Was sind die 4 dominanten Aluminium-Marken in Bukarest?
+### Welche 4 Aluminiumfenster-Marken sind in Bukarest verbreitet?
 
-Die 4 dominanten Marken sind Alumil (Griechenland), Aluprof (Polen), Cortizo (Spanien) und Reynaers (Belgien). Jede hat eigene Vorteile bei Leistung, Preis und Lieferzeit. Alumil hat die schnellste Lieferung in Rumänien (3-5 Tage), da direkt importiert.
+Alumil (Griechenland), Aluprof (Polen), Cortizo (Spanien) und Reynaers (Belgien). Alle fertigen Systeme mit thermischer Trennung; sie unterscheiden sich in Programm, Preis und dem Fensterbauer, der sie vor Ort verarbeitet. Neofort BIZ montiert Alumil und Reynaers.
 
-### Was kostet Alumil-Aluminiumprofil 2026?
+### Was kosten Alumil-Aluminiumfenster 2026?
 
-Alumil Smartia S67 (67 mm, Uw 1,2-1,4) kostet 250-350 EUR/m² montiert, mit 3-5 Tagen Lieferung. Alumil Supreme SF85 (85 mm, Uw 0,95-1,1, nZEB) kostet 350-500 EUR/m² montiert. Alle Preise sind Richtwerte, Stand März 2026 — fragen Sie ein aktuelles Angebot an.
+Alumil SMARTIA S67 (Uw ab 1,3) kostet 250-350 EUR/m², Alumil SUPREME S77 (Uw ab 1,0, nZEB-tauglich) 350-480 EUR/m². Die Preise sind Richtwerte, ohne MwSt., mit Isolierglas und Montage.
 
-### Welche Aluminium-Marke hat die schnellste Lieferung in Rumänien?
+### Wann bekomme ich meine Aluminiumfenster?
 
-Alumil hat die schnellste Lieferung — 3-5 Tage, da direkt importiert. Aluprof liefert in 2-3 Wochen, Cortizo in 4-6 Wochen und Reynaers in 5-8 Wochen. Für Projekte mit engem Termin ist Alumil der klare Verfügbarkeitsvorteil.
+Bei Neofort BIZ sind die Fenster 3-4 Wochen nach der Bestellung montagebereit; den Montagetermin legen wir gemeinsam fest, sobald die Bestellung fertig ist. Bei den anderen Marken nennt der Fensterbauer, der die Profile verarbeitet, die Lieferzeit.
 
-### Welches Aluminiumsystem erreicht die beste Wärmeleistung?
+### Welches Aluminiumsystem dämmt am besten?
 
-Aluprof MB-104 Passive (104 mm) erreicht Uw 0,75-0,90 W/m²K, und Reynaers CS 86-HI (86 mm) erreicht 0,80-1,0. Alumil Supreme SF85 (85 mm) bietet Uw 0,95-1,1 mit der schnellsten Lieferung. Alle eignen sich für den nZEB-Standard, unterscheiden sich in Preis und Lieferzeit.
+Von den verglichenen Systemen gibt Aluprof MB-104 Passive einen Uw ab 0,62 W/m²K an, Cortizo COR 80 Industrial ab 0,71. Alumil SUPREME S77 liegt mit Uw ab 1,0 innerhalb des Referenzwerts der Mc 001-2022 für neue Wohngebäude (1,11 W/m²K).
 
----
+### Arbeitet Neofort BIZ auch mit Reynaers?
 
-Neofort BIZ führt Aluminium- und Fassadenarbeiten in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Ratgeber zu Aluminiumfenstern mit Wärmedämmung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Die Preise je System halten wir auf der Seite [Preise für Aluminiumfenster](/de/aluminiumfenster/preise) aktuell, und das Datenblatt des in Bukarest am häufigsten gewählten Profils finden Sie unter [Alumil S 77 SUPREME](/de/produkte-alu/alumil-s77-supreme-aluminiumsystem).`,
-
-      fr: `## Alumil, Aluprof, Cortizo ou Reynaers — Bucarest 2026
+Ja. Neben Alumil montieren wir Reynaers-Systeme, zum Beispiel ConceptSystem 77 an einem neuen Wohnblock in Delea Veche, mit Fenstern, Balkontüren und Eingangstüren. Den Reynaers-Preis berechnen wir projektbezogen.
 
 ---
 
-## Comparaison prix — 4 marques
+Neofort BIZ führt Arbeiten an Aluminiumfenstern und -fassaden in Bukarest und Ilfov aus, von Fenstern und Türen bis zu Vorhangfassaden. Entdecken Sie das [Programm an Aluminiumfenstern](/de/aluminiumfenster) oder [fordern Sie ein Angebot an](/de/kontakt). Den vollständigen Überblick gibt der [Leitfaden zu Aluminiumfenstern mit thermischer Trennung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Die Preisliste pro System halten wir unter [Preise für Aluminiumfenster](/de/aluminiumfenster/preise) aktuell, und das technische Datenblatt des in Bukarest meistgefragten Profils finden Sie bei [Alumil S 77 SUPREME](/de/produkte-alu/alumil-s77-supreme-aluminiumsystem).`,
 
-| Système | Profondeur | Uw (W/m²K) | Prix/m² posé | Livraison |
+      fr: `## Alumil, Aluprof, Cortizo ou Reynaers — quel est le bon choix en 2026 ?
+
+Quatre marques de systèmes aluminium reviennent souvent dans les devis à Bucarest : **[Alumil](/fr/menuiserie-aluminium)** (Grèce), **Aluprof** (Pologne), **Cortizo** (Espagne) et **Reynaers** (Belgique). Toutes les quatre fabriquent des profilés à rupture thermique de qualité ; les différences tiennent à la gamme, au prix et à celui qui les transforme sur place. Neofort BIZ pose des systèmes **Alumil et Reynaers** — ci-dessous, nous les mettons tous les quatre côte à côte.
+
+---
+
+## Comparaison des systèmes — données des fabricants, 2026
+
+| Système | Profondeur du profilé | Uw déclaré (W/m²K) | Prix/m² posé | Positionnement |
 |---|---|---|---|---|
-| Alumil Smartia S67 | 67 mm | 1,2–1,4 | **250–350 EUR** | **3–5 jours** |
-| Aluprof MB-86 | 86 mm | 1,1–1,3 | 270–380 EUR | 2–3 semaines |
-| Cortizo COR 70 | 70 mm | 1,3–1,5 | 280–400 EUR | 4–6 semaines |
-| Reynaers CS 77 | 77 mm | 1,1–1,4 | 400–600 EUR | 5–8 semaines |
-| **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 jours** |
-| Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 semaines |
+| Alumil SMARTIA S67 | 67–75 mm | dès 1,3 | **250–350 EUR** | Rapport qualité-prix |
+| Aluprof MB-86N | dormant 77 / ouvrant 86 mm | dès 0,67 | sur devis | Milieu de gamme |
+| Cortizo COR 70 | dormant 70 / ouvrant 78 mm | dès 0,9 | sur devis | Milieu de gamme |
+| Reynaers ConceptSystem 77 | dormant 68 / ouvrant 77 mm | 1,3–1,4 | sur devis | Haut de gamme |
+| **Alumil SUPREME S77** | **77–93 mm** | **dès 1,0** | **350–480 EUR** | Haut de gamme, nZEB |
+| Aluprof MB-104 Passive | dormant 95 / ouvrant 104 mm | dès 0,62 | sur devis | Haut de gamme, maison passive |
+| Cortizo COR 80 Industrial | dormant 80 / ouvrant 88 mm | dès 0,71 | sur devis | Haut de gamme, maison passive |
+| Reynaers MasterLine 8 | dormant 77 mm | dès 0,88 | sur devis | Très haut de gamme |
 
-> ⚠️ **Note importante sur les prix :** Tous les prix présentés dans cet article sont **indicatifs** et reflètent les conditions du marché en mars 2026. Les coûts des matériaux, de l'énergie et de la main-d'œuvre évoluent constamment et peuvent augmenter ou diminuer. Demandez toujours un [devis actualisé](/fr/contact) avant de prendre une décision d'achat.
+*Les prix Alumil sont ceux de Neofort BIZ, hors TVA, avec double vitrage isolant et pose. Les valeurs Uw sont celles que chaque fabricant déclare pour sa version la mieux isolée, dans ses propres conditions d’essai (dimensions, vitrage) ; elles ne se comparent pas directement d’une marque à l’autre. Pour votre fenêtre, l’Uw est calculé dans le devis.*
 
+> ⚠️ **Note importante sur les prix :** les prix sont **indicatifs**, au niveau de 2026. Le coût des matériaux, de l’énergie et de la main-d’œuvre évolue avec le temps. Demandez toujours un [devis actualisé](/fr/contact) avant de décider. Aluprof, Cortizo et Reynaers ne publient pas de tarifs pour la Roumanie : le prix est fixé sur projet par le menuisier qui transforme les profilés.
 
-**[Alumil](/fr/menuiserie-aluminium)** : plus grande présence en Roumanie, stock local Bucarest, meilleur rapport qualité-prix.
-**Reynaers** : ultra-premium, 40–80% plus cher qu'Alumil à performances comparables.
+---
 
-**WhatsApp :** +40 752 443 435
+## Le profil de chaque marque
+
+### Alumil (Grèce, 1988) — posé par Neofort BIZ
+L’un des plus grands fabricants de systèmes aluminium d’Europe du Sud-Est, présent depuis longtemps sur le marché roumain. La gamme SMARTIA couvre les projets au budget équilibré, et SUPREME S77 (rupture thermique de 40 mm, Uf dès 0,86 W/m²K, RC3) est notre choix pour les maisons nZEB.
+
+### Aluprof (Pologne)
+Membre du groupe polonais Kęty, avec une large gamme de fenêtres, de portes et de façades. MB-86N est le système de base, bien isolé, et MB-104 Passive est certifié par le Passive House Institute, avec un Uw dès 0,62 W/m²K pour les fenêtres ouvrantes.
+
+### Cortizo (Espagne, 1972)
+Un fabricant espagnol apprécié pour sa gamme étendue et ses versions à ouvrant caché (COR 70 et COR 80 Hoja Oculta). COR 80 Industrial existe aussi en version certifiée Passivhaus, avec un Uw dès 0,71 W/m²K.
+
+### Reynaers (Belgique, 1965) — posé par Neofort BIZ
+Segment haut de gamme, souvent utilisé dans les projets d’architecture. ConceptSystem 77 est le système classique de la marque, et MasterLine 8 la nouvelle génération, avec le niveau d’isolation « Passive ». L’ancien CS 86-HI n’est plus fabriqué. Nous avons posé du Reynaers ConceptSystem 77 sur tout un immeuble à Delea Veche — les détails sont dans l’[étude de cas Reynaers](/fr/blog/menuiserie-aluminium-reynaers-immeuble-neuf-bucarest).
+
+---
+
+## Estimations pour des projets complets — Bucarest 2026
+
+### Maison moderne de 150 m² (12 à 16 fenêtres + 2 baies coulissantes)
+
+| Configuration | Estimation totale |
+|---|---|
+| Alumil SMARTIA S67, double vitrage Low-E | 18 000–28 000 EUR |
+| Alumil SUPREME S77, triple vitrage Low-E, pose nZEB | 28 000–45 000 EUR |
+
+*Estimations hors TVA, pose comprise. Pour Reynaers, nous calculons le prix sur projet.*
+
+---
+
+## La recommandation de Neofort BIZ
+
+Nous posons **Alumil** et **Reynaers**, avec nos propres équipes. Pour la plupart des maisons, nous recommandons Alumil : le meilleur rapport qualité-prix, et SUPREME S77 répond aux exigences nZEB. Nous posons du Reynaers quand le projet ou l’architecte le demande. Les fenêtres sont prêtes à poser **3 à 4 semaines** après la commande, et vous recevez le devis sous 48 heures.
+
+**WhatsApp :** +40 752 443 435 | **lun.–ven. 10h–18h**
 
 ## Questions fréquentes
 
-### Quelles sont les 4 marques dominantes de menuiserie aluminium à Bucarest ?
+### Quelles sont les 4 marques de menuiserie aluminium courantes à Bucarest ?
 
-Les 4 marques dominantes sont Alumil (Grèce), Aluprof (Pologne), Cortizo (Espagne) et Reynaers (Belgique). Chacune a des avantages distincts en performance, prix et délai. Alumil a la livraison la plus rapide en Roumanie (3-5 jours), étant importée directement.
+Alumil (Grèce), Aluprof (Pologne), Cortizo (Espagne) et Reynaers (Belgique). Toutes fabriquent des systèmes à rupture thermique ; elles diffèrent par la gamme, le prix et le menuisier qui les transforme sur place. Neofort BIZ pose Alumil et Reynaers.
 
 ### Combien coûte la menuiserie aluminium Alumil en 2026 ?
 
-Alumil Smartia S67 (67 mm, Uw 1,2-1,4) coûte 250-350 EUR/m² posé, avec livraison en 3-5 jours. Alumil Supreme SF85 (85 mm, Uw 0,95-1,1, nZEB) coûte 350-500 EUR/m² posé. Tous les prix sont indicatifs, conditions mars 2026 — demandez un devis actualisé.
+Alumil SMARTIA S67 (Uw dès 1,3) coûte 250-350 EUR/m², et Alumil SUPREME S77 (Uw dès 1,0, adapté au nZEB) 350-480 EUR/m². Les prix sont indicatifs, hors TVA, avec double vitrage isolant et pose.
 
-### Quelle marque d'aluminium a la livraison la plus rapide en Roumanie ?
+### Dans quel délai reçois-je mes fenêtres en aluminium ?
 
-Alumil a la livraison la plus rapide — 3-5 jours, étant importée directement. Aluprof livre en 2-3 semaines, Cortizo en 4-6 semaines et Reynaers en 5-8 semaines. Pour les projets à délai serré, Alumil est l'avantage de disponibilité évident.
+Chez Neofort BIZ, les fenêtres sont prêtes à poser 3 à 4 semaines après la commande, et nous fixons ensemble la date de pose une fois la commande prête. Pour les autres marques, le délai est donné par le menuisier qui transforme les profilés.
 
-### Quel système aluminium atteint la meilleure performance thermique ?
+### Quel système aluminium isole le mieux ?
 
-L'Aluprof MB-104 Passive (104 mm) atteint Uw 0,75-0,90 W/m²K, et le Reynaers CS 86-HI (86 mm) atteint 0,80-1,0. L'Alumil Supreme SF85 (85 mm) offre Uw 0,95-1,1 avec la livraison la plus rapide. Tous conviennent au standard nZEB, différant en prix et délai.
+Parmi les systèmes comparés, Aluprof MB-104 Passive déclare un Uw dès 0,62 W/m²K, et Cortizo COR 80 Industrial dès 0,71. Alumil SUPREME S77, avec un Uw dès 1,0, respecte la valeur de référence Mc 001-2022 pour les logements neufs (1,11 W/m²K).
 
----
+### Neofort BIZ travaille-t-il aussi avec Reynaers ?
 
-Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide de l’aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Nous tenons à jour les tarifs par système sur la page [prix menuiserie aluminium](/fr/menuiserie-aluminium/prix), et la fiche technique du profilé le plus demandé à Bucarest se trouve sur [Alumil S 77 SUPREME](/fr/produits-alu/systeme-aluminium-alumil-s77-supreme).`,
-
-      es: `## Alumil, Aluprof, Cortizo o Reynaers — Bucarest 2026
+Oui. En plus d’Alumil, nous posons des systèmes Reynaers, par exemple du ConceptSystem 77 sur un immeuble neuf à Delea Veche, avec fenêtres, portes de balcon et portes d’entrée. Nous calculons le prix Reynaers sur projet.
 
 ---
 
-## Comparación de precios — 4 marcas
+Neofort BIZ réalise des travaux de menuiserie et de façades en aluminium à Bucarest et dans l’Ilfov, des fenêtres et portes jusqu’aux murs-rideaux. Découvrez la [gamme de fenêtres en aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Pour une vue d’ensemble, lisez le [guide de la menuiserie aluminium à rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Nous tenons la grille de prix par système à jour sur [prix de la menuiserie aluminium](/fr/menuiserie-aluminium/prix), et la fiche technique du profilé le plus demandé à Bucarest se trouve sur [Alumil S 77 SUPREME](/fr/produits-alu/systeme-aluminium-alumil-s77-supreme).`,
 
-| Sistema | Profundidad | Uw (W/m²K) | Precio/m² instalado | Entrega |
+      es: `## Alumil, Aluprof, Cortizo o Reynaers: ¿cuál es la elección correcta en 2026?
+
+Cuatro marcas de sistemas de aluminio aparecen a menudo en los presupuestos de Bucarest: **[Alumil](/es/carpinteria-aluminio)** (Grecia), **Aluprof** (Polonia), **Cortizo** (España) y **Reynaers** (Bélgica). Las cuatro fabrican perfiles con rotura de puente térmico de calidad; las diferencias están en la gama, el precio y quién los transforma en el país. Neofort BIZ instala sistemas **Alumil y Reynaers**; abajo ponemos los cuatro uno al lado del otro.
+
+---
+
+## Comparación de sistemas: datos de los fabricantes, 2026
+
+| Sistema | Profundidad del perfil | Uw declarado (W/m²K) | Precio/m² instalado | Posicionamiento |
 |---|---|---|---|---|
-| Alumil Smartia S67 | 67 mm | 1,2–1,4 | **250–350 EUR** | **3–5 días** |
-| Aluprof MB-86 | 86 mm | 1,1–1,3 | 270–380 EUR | 2–3 semanas |
-| Cortizo COR 70 | 70 mm | 1,3–1,5 | 280–400 EUR | 4–6 semanas |
-| Reynaers CS 77 | 77 mm | 1,1–1,4 | 400–600 EUR | 5–8 semanas |
-| **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 días** |
-| Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 semanas |
+| Alumil SMARTIA S67 | 67–75 mm | desde 1,3 | **250–350 EUR** | Calidad-precio |
+| Aluprof MB-86N | marco 77 / hoja 86 mm | desde 0,67 | a presupuesto | Gama media |
+| Cortizo COR 70 | marco 70 / hoja 78 mm | desde 0,9 | a presupuesto | Gama media |
+| Reynaers ConceptSystem 77 | marco 68 / hoja 77 mm | 1,3–1,4 | a presupuesto | Premium |
+| **Alumil SUPREME S77** | **77–93 mm** | **desde 1,0** | **350–480 EUR** | Premium, nZEB |
+| Aluprof MB-104 Passive | marco 95 / hoja 104 mm | desde 0,62 | a presupuesto | Premium, casa pasiva |
+| Cortizo COR 80 Industrial | marco 80 / hoja 88 mm | desde 0,71 | a presupuesto | Premium, casa pasiva |
+| Reynaers MasterLine 8 | marco 77 mm | desde 0,88 | a presupuesto | Premium+ |
 
-> ⚠️ **Nota importante sobre los precios:** Todos los precios presentados en este artículo son **orientativos** y reflejan las condiciones del mercado en marzo de 2026. Los costes de materiales, energía y mano de obra cambian constantemente y pueden subir o bajar. Solicite siempre un [presupuesto actualizado](/es/contacto) antes de tomar una decisión de compra.
+*Los precios de Alumil son los de Neofort BIZ, sin IVA, con vidrio aislante e instalación. Los valores Uw son los que declara cada fabricante para su versión mejor aislada, en sus propias condiciones de ensayo (medidas, vidrio); no se pueden comparar directamente entre marcas. Para su ventana, el Uw se calcula en el presupuesto.*
 
+> ⚠️ **Nota importante sobre los precios:** los precios son **orientativos**, a niveles de 2026. El coste de los materiales, la energía y la mano de obra cambia con el tiempo. Pida siempre un [presupuesto actualizado](/es/contacto) antes de decidir. Aluprof, Cortizo y Reynaers no publican tarifas para Rumanía: el precio lo fija por proyecto el fabricante que transforma los perfiles.
 
-**[Alumil](/es/carpinteria-aluminio)**: mayor presencia en Rumanía, almacén local Bucarest, mejor relación calidad-precio.
-**Reynaers**: ultra-premium, 40–80% más caro que Alumil a rendimiento comparable.
+---
 
-**WhatsApp:** +40 752 443 435
+## El perfil de cada marca
+
+### Alumil (Grecia, 1988): la instalamos en Neofort BIZ
+Uno de los mayores fabricantes de sistemas de aluminio del sudeste de Europa, con una presencia larga en el mercado rumano. La gama SMARTIA cubre los proyectos con presupuesto equilibrado, y SUPREME S77 (rotura de puente térmico de 40 mm, Uf desde 0,86 W/m²K, RC3) es nuestra elección para las casas nZEB.
+
+### Aluprof (Polonia)
+Forma parte del grupo polaco Kęty, con una amplia gama de ventanas, puertas y fachadas. MB-86N es el sistema básico, con buen aislamiento, y MB-104 Passive está certificado por el Passive House Institute, con Uw desde 0,62 W/m²K en ventanas practicables.
+
+### Cortizo (España, 1972)
+Un fabricante español apreciado por su amplia gama y sus versiones de hoja oculta (COR 70 y COR 80 Hoja Oculta). COR 80 Industrial tiene también una versión con certificado Passivhaus, con Uw desde 0,71 W/m²K.
+
+### Reynaers (Bélgica, 1965): la instalamos en Neofort BIZ
+Segmento premium, muy usado en proyectos de arquitectura. ConceptSystem 77 es el sistema clásico de la marca y MasterLine 8 la nueva generación, con el nivel de aislamiento «Passive». El antiguo CS 86-HI ya no se fabrica. Instalamos Reynaers ConceptSystem 77 en un bloque entero de Delea Veche; los detalles están en el [caso práctico Reynaers](/es/blog/carpinteria-aluminio-reynaers-bloque-nueva-construccion-bucarest).
+
+---
+
+## Estimaciones para proyectos completos: Bucarest 2026
+
+### Casa moderna de 150 m² (12–16 ventanas + 2 correderas)
+
+| Configuración | Estimación total |
+|---|---|
+| Alumil SMARTIA S67, doble acristalamiento Low-E | 18.000–28.000 EUR |
+| Alumil SUPREME S77, triple acristalamiento Low-E, montaje nZEB | 28.000–45.000 EUR |
+
+*Estimaciones sin IVA, con instalación. Para Reynaers, calculamos el precio por proyecto.*
+
+---
+
+## La recomendación de Neofort BIZ
+
+Instalamos **Alumil** y **Reynaers**, con equipos propios. Para la mayoría de las casas recomendamos Alumil: la mejor relación calidad-precio, y SUPREME S77 cumple los requisitos nZEB. Instalamos Reynaers cuando el proyecto o el arquitecto lo piden. Las ventanas están listas para instalar **3–4 semanas** después del pedido, y recibe el presupuesto en 48 horas.
+
+**WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
 ## Preguntas frecuentes
 
-### ¿Cuáles son las 4 marcas dominantes de carpintería de aluminio en Bucarest?
+### ¿Cuáles son las 4 marcas de carpintería de aluminio habituales en Bucarest?
 
-Las 4 marcas dominantes son Alumil (Grecia), Aluprof (Polonia), Cortizo (España) y Reynaers (Bélgica). Cada una tiene ventajas distintas en rendimiento, precio y plazo. Alumil tiene la entrega más rápida en Rumanía (3-5 días), al importarse directamente.
+Alumil (Grecia), Aluprof (Polonia), Cortizo (España) y Reynaers (Bélgica). Todas fabrican sistemas con rotura de puente térmico; se diferencian por la gama, el precio y el fabricante que los transforma en el país. Neofort BIZ instala Alumil y Reynaers.
 
 ### ¿Cuánto cuesta la carpintería de aluminio Alumil en 2026?
 
-Alumil Smartia S67 (67 mm, Uw 1,2-1,4) cuesta 250-350 EUR/m² instalado, con entrega en 3-5 días. Alumil Supreme SF85 (85 mm, Uw 0,95-1,1, nZEB) cuesta 350-500 EUR/m² instalado. Todos los precios son orientativos, condiciones marzo 2026 — pide un presupuesto actualizado.
+Alumil SMARTIA S67 (Uw desde 1,3) cuesta 250-350 EUR/m², y Alumil SUPREME S77 (Uw desde 1,0, apto para nZEB) 350-480 EUR/m². Los precios son orientativos, sin IVA, con vidrio aislante e instalación.
 
-### ¿Qué marca de aluminio tiene la entrega más rápida en Rumanía?
+### ¿En cuánto tiempo recibo las ventanas de aluminio?
 
-Alumil tiene la entrega más rápida — 3-5 días, al importarse directamente. Aluprof entrega en 2-3 semanas, Cortizo en 4-6 semanas y Reynaers en 5-8 semanas. Para proyectos con plazo ajustado, Alumil es la clara ventaja de disponibilidad.
+En Neofort BIZ, las ventanas están listas para instalar 3-4 semanas después del pedido, y fijamos juntos la fecha de instalación cuando el pedido está listo. En las demás marcas, el plazo lo da el fabricante que transforma los perfiles.
 
-### ¿Qué sistema de aluminio alcanza el mejor rendimiento térmico?
+### ¿Qué sistema de aluminio aísla mejor?
 
-El Aluprof MB-104 Passive (104 mm) alcanza Uw 0,75-0,90 W/m²K, y el Reynaers CS 86-HI (86 mm) llega a 0,80-1,0. El Alumil Supreme SF85 (85 mm) ofrece Uw 0,95-1,1 con la entrega más rápida. Todos sirven para el estándar nZEB, diferenciándose en precio y plazo.
+De los sistemas comparados, Aluprof MB-104 Passive declara un Uw desde 0,62 W/m²K, y Cortizo COR 80 Industrial desde 0,71. Alumil SUPREME S77, con Uw desde 1,0, cumple el valor de referencia de la Mc 001-2022 para viviendas nuevas (1,11 W/m²K).
 
----
+### ¿Trabaja Neofort BIZ también con Reynaers?
 
-Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía del aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). Mantenemos actualizados los importes por sistema en la página de [precios de carpintería de aluminio](/es/carpinteria-aluminio/precios), y la ficha técnica del perfil más solicitado en Bucarest está en [Alumil S 77 SUPREME](/es/productos-alu/sistema-aluminio-alumil-s77-supreme).`,
-
-      it: `## Alumil, Aluprof, Cortizo o Reynaers — Bucarest 2026
+Sí. Además de Alumil, instalamos sistemas Reynaers, por ejemplo ConceptSystem 77 en un bloque nuevo de Delea Veche, con ventanas, puertas de balcón y puertas de entrada. El precio de Reynaers lo calculamos por proyecto.
 
 ---
 
-## Confronto prezzi — 4 marchi
+Neofort BIZ realiza trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubra la [gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicite un presupuesto](/es/contacto). Para el panorama completo, lea la [guía de la carpintería de aluminio con rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). Mantenemos actualizada la tabla de precios por sistema en [precios de la carpintería de aluminio](/es/carpinteria-aluminio/precios), y la ficha técnica del perfil más pedido en Bucarest está en [Alumil S 77 SUPREME](/es/productos-alu/sistema-aluminio-alumil-s77-supreme).`,
 
-| Sistema | Profondità | Uw (W/m²K) | Prezzo/m² posato | Consegna |
+      it: `## Alumil, Aluprof, Cortizo o Reynaers: qual è la scelta giusta nel 2026?
+
+Quattro marchi di sistemi in alluminio compaiono spesso nei preventivi a Bucarest: **[Alumil](/it/infissi-alluminio)** (Grecia), **Aluprof** (Polonia), **Cortizo** (Spagna) e **Reynaers** (Belgio). Tutti e quattro producono profili a taglio termico di qualità; le differenze stanno nella gamma, nel prezzo e in chi li lavora sul posto. Neofort BIZ posa sistemi **Alumil e Reynaers**; qui sotto li mettiamo tutti e quattro a confronto.
+
+---
+
+## Confronto dei sistemi: dati dei produttori, 2026
+
+| Sistema | Profondità del profilo | Uw dichiarato (W/m²K) | Prezzo/m² posato | Posizionamento |
 |---|---|---|---|---|
-| Alumil Smartia S67 | 67 mm | 1,2–1,4 | **250–350 EUR** | **3–5 giorni** |
-| Aluprof MB-86 | 86 mm | 1,1–1,3 | 270–380 EUR | 2–3 settimane |
-| Cortizo COR 70 | 70 mm | 1,3–1,5 | 280–400 EUR | 4–6 settimane |
-| Reynaers CS 77 | 77 mm | 1,1–1,4 | 400–600 EUR | 5–8 settimane |
-| **Alumil Supreme SF85** | **85 mm** | **0,95–1,1** | **350–500 EUR** | **3–5 giorni** |
-| Reynaers CS 86-HI | 86 mm | 0,80–1,0 | 550–800 EUR | 5–8 settimane |
+| Alumil SMARTIA S67 | 67–75 mm | da 1,3 | **250–350 EUR** | Qualità-prezzo |
+| Aluprof MB-86N | telaio 77 / anta 86 mm | da 0,67 | su preventivo | Fascia media |
+| Cortizo COR 70 | telaio 70 / anta 78 mm | da 0,9 | su preventivo | Fascia media |
+| Reynaers ConceptSystem 77 | telaio 68 / anta 77 mm | 1,3–1,4 | su preventivo | Premium |
+| **Alumil SUPREME S77** | **77–93 mm** | **da 1,0** | **350–480 EUR** | Premium, nZEB |
+| Aluprof MB-104 Passive | telaio 95 / anta 104 mm | da 0,62 | su preventivo | Premium, casa passiva |
+| Cortizo COR 80 Industrial | telaio 80 / anta 88 mm | da 0,71 | su preventivo | Premium, casa passiva |
+| Reynaers MasterLine 8 | telaio 77 mm | da 0,88 | su preventivo | Premium+ |
 
-> ⚠️ **Nota importante sui prezzi:** Tutti i prezzi presentati in questo articolo sono **indicativi** e riflettono le condizioni di mercato di marzo 2026. I costi dei materiali, dell'energia e della manodopera sono in continua evoluzione e possono aumentare o diminuire. Richiedete sempre un [preventivo aggiornato](/it/contatti) prima di prendere una decisione di acquisto.
+*I prezzi Alumil sono quelli di Neofort BIZ, IVA esclusa, con vetrocamera e posa. I valori Uw sono quelli dichiarati da ciascun produttore per la versione meglio isolata, nelle proprie condizioni di prova (dimensioni, vetro); non si confrontano direttamente tra marchi. Per la vostra finestra, l’Uw si calcola nel preventivo.*
 
+> ⚠️ **Nota importante sui prezzi:** i prezzi sono **indicativi**, ai livelli del 2026. I costi di materiali, energia e manodopera cambiano nel tempo. Richiedete sempre un [preventivo aggiornato](/it/contatti) prima di decidere. Aluprof, Cortizo e Reynaers non pubblicano listini per la Romania: il prezzo lo stabilisce, sul progetto, il serramentista che lavora i profili.
 
-**[Alumil](/it/infissi-alluminio)**: maggiore presenza in Romania, magazzino locale Bucarest, miglior rapporto qualità-prezzo.
-**Reynaers**: ultra-premium, 40–80% più caro di Alumil a prestazioni comparabili.
+---
 
-**WhatsApp:** +40 752 443 435
+## Il profilo di ciascun marchio
+
+### Alumil (Grecia, 1988): lo posiamo da Neofort BIZ
+Uno dei maggiori produttori di sistemi in alluminio dell’Europa sud-orientale, presente da tempo sul mercato rumeno. La gamma SMARTIA copre i progetti con budget equilibrato, e SUPREME S77 (taglio termico da 40 mm, Uf da 0,86 W/m²K, RC3) è la nostra scelta per le case nZEB.
+
+### Aluprof (Polonia)
+Fa parte del gruppo polacco Kęty, con un’ampia gamma di finestre, porte e facciate. MB-86N è il sistema di base, ben isolato, e MB-104 Passive è certificato dal Passive House Institute, con Uw da 0,62 W/m²K per le finestre apribili.
+
+### Cortizo (Spagna, 1972)
+Un produttore spagnolo apprezzato per la gamma ampia e per le versioni ad anta nascosta (COR 70 e COR 80 Hoja Oculta). COR 80 Industrial ha anche una versione certificata Passivhaus, con Uw da 0,71 W/m²K.
+
+### Reynaers (Belgio, 1965): lo posiamo da Neofort BIZ
+Segmento premium, molto usato nei progetti di architettura. ConceptSystem 77 è il sistema classico del marchio e MasterLine 8 la nuova generazione, con il livello di isolamento «Passive». Il vecchio CS 86-HI è fuori produzione. Abbiamo posato Reynaers ConceptSystem 77 su un intero condominio a Delea Veche: i dettagli sono nel [caso di studio Reynaers](/it/blog/infissi-alluminio-reynaers-condominio-nuova-costruzione-bucarest).
+
+---
+
+## Stime per progetti completi: Bucarest 2026
+
+### Casa moderna di 150 m² (12–16 finestre + 2 scorrevoli)
+
+| Configurazione | Stima totale |
+|---|---|
+| Alumil SMARTIA S67, doppio vetro Low-E | 18.000–28.000 EUR |
+| Alumil SUPREME S77, triplo vetro Low-E, posa nZEB | 28.000–45.000 EUR |
+
+*Stime IVA esclusa, con posa. Per Reynaers calcoliamo il prezzo sul progetto.*
+
+---
+
+## La raccomandazione di Neofort BIZ
+
+Posiamo **Alumil** e **Reynaers**, con squadre proprie. Per la maggior parte delle case consigliamo Alumil: il miglior rapporto qualità-prezzo, e SUPREME S77 soddisfa i requisiti nZEB. Posiamo Reynaers quando il progetto o l’architetto lo richiedono. Le finestre sono pronte per la posa **3–4 settimane** dopo l’ordine, e il preventivo lo ricevete entro 48 ore.
+
+**WhatsApp:** +40 752 443 435 | **lun–ven 10–18**
 
 ## Domande frequenti
 
-### Quali sono i 4 marchi dominanti di serramenti in alluminio a Bucarest?
+### Quali sono i 4 marchi di serramenti in alluminio diffusi a Bucarest?
 
-I 4 marchi dominanti sono Alumil (Grecia), Aluprof (Polonia), Cortizo (Spagna) e Reynaers (Belgio). Ognuno ha vantaggi distinti in prestazioni, prezzo e tempi. Alumil ha la consegna più rapida in Romania (3-5 giorni), essendo importato direttamente.
+Alumil (Grecia), Aluprof (Polonia), Cortizo (Spagna) e Reynaers (Belgio). Tutti producono sistemi a taglio termico; si distinguono per gamma, prezzo e serramentista che li lavora sul posto. Neofort BIZ posa Alumil e Reynaers.
 
-### Quanto costa il serramento in alluminio Alumil nel 2026?
+### Quanto costano gli infissi in alluminio Alumil nel 2026?
 
-Alumil Smartia S67 (67 mm, Uw 1,2-1,4) costa 250-350 EUR/m² posato, con consegna in 3-5 giorni. Alumil Supreme SF85 (85 mm, Uw 0,95-1,1, nZEB) costa 350-500 EUR/m² posato. Tutti i prezzi sono indicativi, condizioni marzo 2026 — richiedi un preventivo aggiornato.
+Alumil SMARTIA S67 (Uw da 1,3) costa 250-350 EUR/m², e Alumil SUPREME S77 (Uw da 1,0, adatto all’nZEB) 350-480 EUR/m². I prezzi sono indicativi, IVA esclusa, con vetrocamera e posa.
 
-### Quale marchio di alluminio ha la consegna più rapida in Romania?
+### In quanto tempo ricevo le finestre in alluminio?
 
-Alumil ha la consegna più rapida — 3-5 giorni, essendo importato direttamente. Aluprof consegna in 2-3 settimane, Cortizo in 4-6 settimane e Reynaers in 5-8 settimane. Per progetti con scadenza stretta, Alumil è il chiaro vantaggio di disponibilità.
+Da Neofort BIZ le finestre sono pronte per la posa 3-4 settimane dopo l’ordine, e la data di posa la fissiamo insieme quando l’ordine è pronto. Per gli altri marchi, i tempi li indica il serramentista che lavora i profili.
 
-### Quale sistema in alluminio raggiunge le migliori prestazioni termiche?
+### Quale sistema in alluminio isola meglio?
 
-L'Aluprof MB-104 Passive (104 mm) raggiunge Uw 0,75-0,90 W/m²K, e il Reynaers CS 86-HI (86 mm) raggiunge 0,80-1,0. L'Alumil Supreme SF85 (85 mm) offre Uw 0,95-1,1 con la consegna più rapida. Tutti sono adatti allo standard nZEB, differendo in prezzo e tempi.
+Tra i sistemi confrontati, Aluprof MB-104 Passive dichiara un Uw da 0,62 W/m²K, e Cortizo COR 80 Industrial da 0,71. Alumil SUPREME S77, con Uw da 1,0, rientra nel valore di riferimento della Mc 001-2022 per gli edifici residenziali nuovi (1,11 W/m²K).
+
+### Neofort BIZ lavora anche con Reynaers?
+
+Sì. Oltre ad Alumil posiamo sistemi Reynaers, per esempio ConceptSystem 77 su un condominio nuovo a Delea Veche, con finestre, porte-finestre del balcone e portoni d’ingresso. Il prezzo Reynaers lo calcoliamo sul progetto.
 
 ---
 
-Neofort BIZ esegue lavori di serramenti e facciate in alluminio a Bucarest e Ilfov, da finestre e porte alle facciate continue. Scopri [la gamma di infissi in alluminio](/it/infissi-alluminio) o [richiedi un preventivo](/it/contatti). Per il contesto completo, leggi [la guida all’alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa). Teniamo aggiornati gli importi per sistema nella pagina [prezzi infissi in alluminio](/it/infissi-alluminio/prezzi), e la scheda tecnica del profilo più richiesto a Bucarest si trova su [Alumil S 77 SUPREME](/it/prodotti-alu/sistema-alluminio-alumil-s77-supreme).`,
+Neofort BIZ realizza lavori di serramenti e facciate in alluminio a Bucarest e Ilfov, dalle finestre e porte fino alle facciate continue. Scoprite la [gamma di finestre in alluminio](/it/infissi-alluminio) o [richiedete un preventivo](/it/contatti). Per il quadro completo, leggete la [guida agli infissi in alluminio a taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa). Teniamo aggiornata la tabella prezzi per sistema su [prezzi degli infissi in alluminio](/it/infissi-alluminio/prezzi), e la scheda tecnica del profilo più richiesto a Bucarest è su [Alumil S 77 SUPREME](/it/prodotti-alu/sistema-alluminio-alumil-s77-supreme).`,
     },
   },
 
