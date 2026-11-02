@@ -176,7 +176,7 @@ Cel mai performant profil pierde **30-50% din eficiență** cu montaj greșit. S
 **Zona interioară:** Folie PE antivapori — previne condensul interstițial în structura peretelui
 
 **Precadrele Blaugelb Triotherm+ (opțiune recomandată pentru nZEB complet):**
-- Material compozit λ = 0,035 W/(mK)
+- EPS de înaltă densitate, λ = 0,040 W/(mK)
 - Reduce ψ perimetral de la 0,08 la 0,01 W/(mK)
 - Certificare PassivHaus Institut (PHI)
 - Disponibile ca opțiune separată la cerere
@@ -390,7 +390,7 @@ The most performant profile with the best glazing loses **30-50% of efficiency**
 ### Blaugelb Triotherm+ Preframes — for Complete nZEB
 
 Preframes are available as a separate option and recommended for projects needing to achieve effective Uw ≤ 0.80 W/(m²K) overall, eliminating the thermal bridge at the sill:
-- Composite material λ = 0.035 W/(mK) — comparable to mineral wool
+- High-density EPS, λ = 0.040 W/(mK) — comparable to mineral wool
 - Reduces perimeter ψ from 0.08 to 0.01 W/(mK)
 - PassivHaus Institut (PHI) certification
 - Installed BEFORE the window, in the thermal insulation plane
@@ -598,7 +598,7 @@ Das leistungsstärkste Profil verliert **30-50% seiner Effizienz** bei falscher 
 **Innenbereich:** PE-Folie Dampfsperre — verhindert Kondensat in der Wandstruktur
 
 **Blaugelb Triotherm+ Vorblendrahmen (empfohlene Option):**
-- Verbundwerkstoff λ = 0,035 W/(mK) — vergleichbar mit Mineralwolle
+- Hochdichtes EPS, λ = 0,040 W/(mK) — vergleichbar mit Mineralwolle
 - Reduziert perimetrales ψ von 0,08 auf 0,01 W/(mK)
 - PassivHaus Institut (PHI) Zertifizierung
 
@@ -795,7 +795,7 @@ Le profilé le plus performant perd **30-50% de son efficacité** avec une mauva
 **Zone intérieure :** Film PE pare-vapeur — empêche la condensation dans la structure du mur
 
 **Précadres Blaugelb Triotherm+ (option recommandée) :**
-- Matériau composite λ = 0,035 W/(mK) — comparable à la laine minérale
+- EPS haute densité, λ = 0,040 W/(mK) — comparable à la laine minérale
 - Réduit ψ périphérique de 0,08 à 0,01 W/(mK)
 - Certification PassivHaus Institut (PHI)
 
@@ -992,7 +992,7 @@ El perfil más eficiente pierde **el 30-50% de su eficiencia** con una instalaci
 **Zona interior:** Lámina PE barrera de vapor — evita la condensación en la estructura del muro
 
 **Premarcos Blaugelb Triotherm+ (opción recomendada):**
-- Material compuesto λ = 0,035 W/(mK) — comparable a la lana mineral
+- EPS de alta densidad, λ = 0,040 W/(mK) — comparable a la lana mineral
 - Reduce ψ perimetral de 0,08 a 0,01 W/(mK)
 - Certificación PassivHaus Institut (PHI)
 
@@ -1189,7 +1189,7 @@ Il profilo più performante perde **il 30-50% della sua efficienza** con un'inst
 **Zona interna:** Film PE barriera vapore — previene la condensa nella struttura del muro
 
 **Controtelai Blaugelb Triotherm+ (opzione raccomandata):**
-- Materiale composito λ = 0,035 W/(mK) — paragonabile alla lana minerale
+- EPS ad alta densità, λ = 0,040 W/(mK) — paragonabile alla lana minerale
 - Riduce ψ perimetrale da 0,08 a 0,01 W/(mK)
 - Certificazione PassivHaus Institut (PHI)
 
@@ -4544,7 +4544,7 @@ Pachetul de sticlă este componenta cu cel mai mare impact asupra coeficientului
 - Atenuare fonică Rw = 34-36 dB
 
 **Distanțierul Warm Edge:**
-Distanțierul standard din aluminiu are conductivitate termică λ = 160 W/mK — generează o punte termică vizibilă ca dungă de condens pe marginea interioară a geamului în sezonul rece. Distanțierul Warm Edge (TGI, Swisspacer, Thermix) are λ = 0,15-0,2 W/mK — reduce puntea termică cu 75-85% și elimină condensul marginal.
+Distanțierul standard din aluminiu are conductivitate termică λ = 160 W/mK — generează o punte termică vizibilă ca dungă de condens pe marginea interioară a geamului în sezonul rece. Distanțierul Warm Edge (TGI, Swisspacer, Thermix) are λ ≈ 0,14–0,2 W/mK — reduce puntea termică de la marginea geamului cu circa 60% și elimină condensul marginal.
 
 **Calculul Uw pentru fereastra completă (100×120 cm):**
 
@@ -4565,7 +4565,7 @@ Precadrul Blaugelb Triotherm+ rezolvă problema pe care niciun profil performant
 Tocul ferestrei, oricât de performant ar fi ca profil, vine în contact direct cu zidăria — material cu conductivitate termică semnificativ mai mare decât aerul din camerele profilului. La temperatura exterioară de −15°C, temperatura suprafeței interioare a tocului la contact cu zidăria coboară sub punctul de rouă → condens → mucegai.
 
 **Cum funcționează precadrul Blaugelb:**
-Precadrul se montează înainte de fereastra propriu-zisă, în planul de izolație termică al peretelui. Materialul compozit al precadrului are conductivitate termică λ = 0,035 W/mK — comparabil cu vata minerală. Fereastra se montează ulterior pe precadru, care:
+Precadrul se montează înainte de fereastra propriu-zisă, în planul de izolație termică al peretelui. Precadrul e din EPS de înaltă densitate, cu conductivitate termică λ = 0,040 W/mK — comparabil cu vata minerală. Fereastra se montează ulterior pe precadru, care:
 1. Izolează termic contactul toc-zidărie
 2. Permite montarea ferestrei în planul izolatiei termice (cerința Passive House)
 3. Creează o suprafață de montaj nivelată și standardizată independent de calitatea zidăriei
@@ -4693,7 +4693,7 @@ The glazing package is the component with the greatest impact on the Ug coeffici
 - Acoustic attenuation Rw = 34–36 dB
 
 **The Warm Edge spacer:**
-The standard aluminium spacer has a thermal conductivity of λ = 160 W/mK — it creates a thermal bridge visible as a line of condensation on the inner edge of the glass during the cold season. The Warm Edge spacer (TGI, Swisspacer, Thermix) has λ = 0.15–0.2 W/mK — it reduces the thermal bridge by 75–85% and eliminates edge condensation.
+The standard aluminium spacer has a thermal conductivity of λ = 160 W/mK — it creates a thermal bridge visible as a line of condensation on the inner edge of the glass during the cold season. The Warm Edge spacer (TGI, Swisspacer, Thermix) has λ ≈ 0.14–0.2 W/mK — it reduces the edge thermal bridge by about 60% and eliminates edge condensation.
 
 **Calculating Uw for the complete window (100 × 120 cm):**
 
@@ -4714,7 +4714,7 @@ The Blaugelb Triotherm+ precasing solves the problem that no high-performance pr
 The window frame, however well the profile performs, comes into direct contact with the masonry — a material with a thermal conductivity significantly higher than the air in the profile chambers. At an outside temperature of −15 °C, the temperature of the inner surface of the frame where it meets the masonry falls below the dew point → condensation → mould.
 
 **How the Blaugelb precasing works:**
-The precasing is installed before the window itself, in the plane of the wall’s thermal insulation. The composite material of the precasing has a thermal conductivity of λ = 0.035 W/mK — comparable to mineral wool. The window is then fitted onto the precasing, which:
+The precasing is installed before the window itself, in the plane of the wall’s thermal insulation. The precasing is made of high-density EPS with a thermal conductivity of λ = 0.040 W/mK — comparable to mineral wool. The window is then fitted onto the precasing, which:
 1. Thermally insulates the frame-to-masonry contact
 2. Allows the window to be installed within the plane of the insulation (a Passive House requirement)
 3. Creates a level, standardised mounting surface, independent of the quality of the masonry
@@ -4841,7 +4841,7 @@ Der Glasaufbau ist die Komponente mit dem größten Einfluss auf den Ug-Wert (W�
 - Schalldämmung Rw = 34–36 dB
 
 **Der Warm-Edge-Abstandhalter:**
-Der übliche Aluminiumabstandhalter hat eine Wärmeleitfähigkeit von λ = 160 W/mK — er erzeugt eine Wärmebrücke, die in der kalten Jahreszeit als Kondensstreifen am inneren Glasrand sichtbar wird. Der Warm-Edge-Abstandhalter (TGI, Swisspacer, Thermix) hat λ = 0,15–0,2 W/mK — er verringert die Wärmebrücke um 75–85 % und beseitigt das Randkondensat.
+Der übliche Aluminiumabstandhalter hat eine Wärmeleitfähigkeit von λ = 160 W/mK — er erzeugt eine Wärmebrücke, die in der kalten Jahreszeit als Kondensstreifen am inneren Glasrand sichtbar wird. Der Warm-Edge-Abstandhalter (TGI, Swisspacer, Thermix) hat λ ≈ 0,14–0,2 W/mK — er verringert die Wärmebrücke am Glasrand um etwa 60 % und beseitigt das Randkondensat.
 
 **Berechnung des Uw für das komplette Fenster (100 × 120 cm):**
 
@@ -4862,7 +4862,7 @@ Der Blaugelb Triotherm+ Vorblendrahmen löst das Problem, das kein leistungsfäh
 Der Fensterrahmen kommt, so leistungsfähig das Profil auch sein mag, unmittelbar mit dem Mauerwerk in Kontakt — einem Material mit deutlich höherer Wärmeleitfähigkeit als die Luft in den Profilkammern. Bei −15 °C Außentemperatur sinkt die Oberflächentemperatur des Rahmens an der Kontaktstelle zum Mauerwerk unter den Taupunkt → Kondensat → Schimmel.
 
 **Wie der Blaugelb-Vorblendrahmen arbeitet:**
-Der Vorblendrahmen wird vor dem eigentlichen Fenster montiert, in der Dämmebene der Wand. Das Verbundmaterial des Vorblendrahmens hat eine Wärmeleitfähigkeit von λ = 0,035 W/mK — vergleichbar mit Mineralwolle. Das Fenster wird anschließend auf dem Vorblendrahmen befestigt, der:
+Der Vorblendrahmen wird vor dem eigentlichen Fenster montiert, in der Dämmebene der Wand. Der Vorblendrahmen besteht aus hochdichtem EPS mit einer Wärmeleitfähigkeit von λ = 0,040 W/mK — vergleichbar mit Mineralwolle. Das Fenster wird anschließend auf dem Vorblendrahmen befestigt, der:
 1. Den Kontakt Rahmen–Mauerwerk wärmetechnisch trennt
 2. Den Einbau des Fensters in der Dämmebene ermöglicht (Anforderung des Passivhauses)
 3. Eine nivellierte, standardisierte Montagefläche schafft, unabhängig von der Qualität des Mauerwerks
@@ -4989,7 +4989,7 @@ Le vitrage est le composant qui pèse le plus sur le coefficient Ug (transfert t
 - Affaiblissement acoustique Rw = 34–36 dB
 
 **L’intercalaire Warm Edge :**
-L’intercalaire standard en aluminium a une conductivité thermique de λ = 160 W/mK — il crée un pont thermique visible sous forme de trace de condensation sur le bord intérieur du vitrage en saison froide. L’intercalaire Warm Edge (TGI, Swisspacer, Thermix) a λ = 0,15–0,2 W/mK — il réduit le pont thermique de 75 à 85 % et supprime la condensation de bord.
+L’intercalaire standard en aluminium a une conductivité thermique de λ = 160 W/mK — il crée un pont thermique visible sous forme de trace de condensation sur le bord intérieur du vitrage en saison froide. L’intercalaire Warm Edge (TGI, Swisspacer, Thermix) a λ ≈ 0,14–0,2 W/mK — il réduit le pont thermique en bord de vitrage d’environ 60 % et supprime la condensation de bord.
 
 **Calcul du Uw pour la fenêtre complète (100 × 120 cm) :**
 
@@ -5010,7 +5010,7 @@ Le précadre Blaugelb Triotherm+ résout le problème qu’aucun profilé perfor
 Le dormant, aussi performant soit le profilé, entre en contact direct avec la maçonnerie — un matériau dont la conductivité thermique est nettement supérieure à celle de l’air des chambres du profilé. À une température extérieure de −15 °C, la température de la face intérieure du dormant au contact de la maçonnerie descend sous le point de rosée → condensation → moisissure.
 
 **Comment fonctionne le précadre Blaugelb :**
-Le précadre se pose avant la fenêtre elle-même, dans le plan d’isolation thermique du mur. Le matériau composite du précadre a une conductivité thermique de λ = 0,035 W/mK — comparable à la laine minérale. La fenêtre se fixe ensuite sur le précadre, qui :
+Le précadre se pose avant la fenêtre elle-même, dans le plan d’isolation thermique du mur. Le précadre est en EPS haute densité, avec une conductivité thermique de λ = 0,040 W/mK — comparable à la laine minérale. La fenêtre se fixe ensuite sur le précadre, qui :
 1. Isole thermiquement le contact dormant-maçonnerie
 2. Permet de poser la fenêtre dans le plan de l’isolation (exigence Maison Passive)
 3. Crée une surface de pose nivelée et normalisée, indépendante de la qualité de la maçonnerie
@@ -5137,7 +5137,7 @@ El acristalamiento es el componente de mayor impacto sobre el coeficiente Ug (tr
 - Atenuación acústica Rw = 34–36 dB
 
 **El separador Warm Edge:**
-El separador estándar de aluminio tiene una conductividad térmica de λ = 160 W/mK — genera un puente térmico visible como una línea de condensación en el borde interior del vidrio en la estación fría. El separador Warm Edge (TGI, Swisspacer, Thermix) tiene λ = 0,15–0,2 W/mK — reduce el puente térmico entre un 75 y un 85 % y elimina la condensación de borde.
+El separador estándar de aluminio tiene una conductividad térmica de λ = 160 W/mK — genera un puente térmico visible como una línea de condensación en el borde interior del vidrio en la estación fría. El separador Warm Edge (TGI, Swisspacer, Thermix) tiene λ ≈ 0,14–0,2 W/mK — reduce el puente térmico del borde del vidrio en torno a un 60 % y elimina la condensación de borde.
 
 **Cálculo del Uw para la ventana completa (100 × 120 cm):**
 
@@ -5158,7 +5158,7 @@ El premarco Blaugelb Triotherm+ resuelve el problema que ningún perfil de altas
 El marco de la ventana, por muy bueno que sea el perfil, entra en contacto directo con la fábrica — un material con una conductividad térmica muy superior a la del aire de las cámaras del perfil. A una temperatura exterior de −15 °C, la temperatura de la superficie interior del marco en contacto con la fábrica baja del punto de rocío → condensación → moho.
 
 **Cómo funciona el premarco Blaugelb:**
-El premarco se instala antes que la ventana, en el plano de aislamiento térmico del muro. El material compuesto del premarco tiene una conductividad térmica de λ = 0,035 W/mK — comparable a la lana mineral. La ventana se monta después sobre el premarco, que:
+El premarco se instala antes que la ventana, en el plano de aislamiento térmico del muro. El premarco es de EPS de alta densidad, con una conductividad térmica de λ = 0,040 W/mK — comparable a la lana mineral. La ventana se monta después sobre el premarco, que:
 1. Aísla térmicamente el contacto marco-fábrica
 2. Permite instalar la ventana en el plano del aislamiento (requisito de Casa Pasiva)
 3. Crea una superficie de montaje nivelada y normalizada, independiente de la calidad de la fábrica
@@ -5285,7 +5285,7 @@ Il pacchetto vetrato è la componente con il maggiore impatto sul coefficiente U
 - Attenuazione acustica Rw = 34–36 dB
 
 **Il distanziale Warm Edge:**
-Il distanziale standard in alluminio ha una conducibilità termica di λ = 160 W/mK — genera un ponte termico visibile come una riga di condensa sul bordo interno del vetro nella stagione fredda. Il distanziale Warm Edge (TGI, Swisspacer, Thermix) ha λ = 0,15–0,2 W/mK — riduce il ponte termico del 75–85 % ed elimina la condensa perimetrale.
+Il distanziale standard in alluminio ha una conducibilità termica di λ = 160 W/mK — genera un ponte termico visibile come una riga di condensa sul bordo interno del vetro nella stagione fredda. Il distanziale Warm Edge (TGI, Swisspacer, Thermix) ha λ ≈ 0,14–0,2 W/mK — riduce il ponte termico sul bordo del vetro di circa il 60 % ed elimina la condensa perimetrale.
 
 **Calcolo dell’Uw per la finestra completa (100 × 120 cm):**
 
@@ -5306,7 +5306,7 @@ Il controtelaio Blaugelb Triotherm+ risolve il problema che nessun profilo perfo
 Il telaio della finestra, per quanto performante sia il profilo, entra in contatto diretto con la muratura — un materiale con conducibilità termica ben più alta dell’aria nelle camere del profilo. A una temperatura esterna di −15 °C, la temperatura della superficie interna del telaio a contatto con la muratura scende sotto il punto di rugiada → condensa → muffa.
 
 **Come funziona il controtelaio Blaugelb:**
-Il controtelaio si posa prima della finestra vera e propria, nel piano di isolamento termico della parete. Il materiale composito del controtelaio ha una conducibilità termica di λ = 0,035 W/mK — paragonabile alla lana minerale. La finestra viene poi fissata sul controtelaio, che:
+Il controtelaio si posa prima della finestra vera e propria, nel piano di isolamento termico della parete. Il controtelaio è in EPS ad alta densità, con una conducibilità termica di λ = 0,040 W/mK — paragonabile alla lana minerale. La finestra viene poi fissata sul controtelaio, che:
 1. Isola termicamente il contatto telaio-muratura
 2. Consente di posare la finestra nel piano dell’isolamento (requisito Casa Passiva)
 3. Crea una superficie di posa livellata e standardizzata, indipendente dalla qualità della muratura
@@ -10709,12 +10709,12 @@ Neofort BIZ lavora con entrambi i profili Salamander e vi dice quale è adatto a
       it: 'installazione-precontrotelaio-blaugelb-triotherm-nzeb',
     },
     seoTitle: {
-      ro: "Precadre Blaugelb: de ce sunt necesare",
-      en: "Blaugelb precasings: why they matter",
-      de: "Blaugelb-Vorblendrahmen: warum nötig",
-      fr: "Précadres Blaugelb : pourquoi les poser",
-      es: "Premarcos Blaugelb: por qué usarlos",
-      it: "Controtelai Blaugelb: perché servono",
+      ro: "Precadre Blaugelb: când merită și cum se montează",
+      en: "Blaugelb precasings: when and how to fit them",
+      de: "Blaugelb-Vorblendrahmen: wann und wie montieren",
+      fr: "Précadres Blaugelb : quand et comment les poser",
+      es: "Premarcos Blaugelb: cuándo y cómo montarlos",
+      it: "Controtelai Blaugelb: quando e come posarli",
     },
     date: '2026-02-22',
     author: 'Mihai Dănălache',
@@ -10736,672 +10736,696 @@ Neofort BIZ lavora con entrambi i profili Salamander e vi dice quale è adatto a
     imageLabel: 'nZEB',
     accentColor: '#1c5175',
     title: {
-      ro: 'Montaj cu precadre Blaugelb Triotherm+ — de ce este obligatoriu pentru certificarea nZEB',
-      en: 'Installation with Blaugelb Triotherm+ Precasings — Why It\'s Mandatory for nZEB Certification',
-      de: 'Montage mit Blaugelb Triotherm+ — Warum es für die nZEB-Zertifizierung obligatorisch ist',
-      fr: 'Pose avec précadres Blaugelb Triotherm+ — pourquoi c\'est obligatoire pour la certification nZEB',
-      es: 'Montaje con premarcos Blaugelb Triotherm+ — por qué es obligatorio para la certificación nZEB',
-      it: 'Montaggio con controtelai Blaugelb Triotherm+ — perché è obbligatorio per la certificazione nZEB',
+      ro: 'Precadre Blaugelb Triotherm+: fereastra montată în izolație',
+      en: 'Blaugelb Triotherm+ precasings: the window in the insulation',
+      de: 'Blaugelb Triotherm+: das Fenster in der Dämmebene montieren',
+      fr: 'Précadres Blaugelb Triotherm+ : la fenêtre dans l’isolant',
+      es: 'Premarcos Blaugelb Triotherm+: la ventana en el aislamiento',
+      it: 'Controtelai Blaugelb Triotherm+: la finestra nell’isolamento',
     },
     excerpt: {
-      ro: 'Un profil PVC performant montat greșit pierde 40% din eficiența termică. Descoperă cum precadrele Blaugelb Triotherm+ elimină punțile termice și de ce sunt esențiale pentru nZEB.',
-      en: 'A high-performance PVC profile installed incorrectly loses 40% of its thermal efficiency. Learn how Blaugelb Triotherm+ precasings eliminate thermal bridges.',
-      de: 'Ein hochwertiges PVC-Profil falsch eingebaut verliert 40% Wärmedämmleistung. Wie Blaugelb Triotherm+ Wärmebrücken eliminiert.',
-      fr: 'Un profil PVC performant mal posé perd 40% d\'efficacité thermique. Comment les précadres Blaugelb Triotherm+ éliminent les ponts thermiques.',
-      es: 'Un perfil PVC instalado incorrectamente pierde el 40% de eficiencia térmica. Cómo los premarcos Blaugelb Triotherm+ eliminan los puentes térmicos.',
-      it: 'Un profilo PVC installato in modo errato perde il 40% di efficienza termica. Come i controtelai Blaugelb Triotherm+ eliminano i ponti termici.',
+      ro: 'Precadrele Blaugelb Triotherm+ mută fereastra în stratul de izolație al fațadei și reduc puntea termică de la rost. Ce sunt, cum se montează, cât costă și când merită la o casă nZEB.',
+      en: 'Blaugelb Triotherm+ precasings move the window into the facade insulation layer and reduce the joint thermal bridge. What they are, how they are fitted, what they cost and when they pay off.',
+      de: 'Blaugelb Triotherm+ Vorblendrahmen holen das Fenster in die Dämmebene der Fassade und verringern die Wärmebrücke an der Fuge. Was sie sind, wie sie montiert werden und was sie kosten.',
+      fr: 'Les précadres Blaugelb Triotherm+ placent la fenêtre dans la couche isolante de la façade et réduisent le pont thermique au joint. Ce qu’ils sont, comment les poser et ce qu’ils coûtent.',
+      es: 'Los premarcos Blaugelb Triotherm+ llevan la ventana a la capa de aislamiento de la fachada y reducen el puente térmico de la junta. Qué son, cómo se montan y cuánto cuestan.',
+      it: 'I controtelai Blaugelb Triotherm+ portano la finestra nello strato isolante della facciata e riducono il ponte termico al giunto. Che cosa sono, come si posano e quanto costano.',
     },
     metaDesc: {
-      ro: "Precadrele Blaugelb Triotherm+ scot rama din zona rece a zidului și elimină puntea termică de la buiandrug. Cum se montează și de ce contează la nZEB.",
-      en: "Blaugelb Triotherm+ precasings move the frame out of the cold zone and remove the lintel thermal bridge. How they are fitted and why nZEB needs them.",
-      de: "Blaugelb Triotherm+ holt den Rahmen aus der kalten Zone und beseitigt die Wärmebrücke am Sturz. Wie montiert wird und warum nZEB das braucht.",
-      fr: "Les précadres Blaugelb Triotherm+ sortent le dormant de la zone froide et suppriment le pont thermique au linteau. Pose et intérêt en nZEB.",
-      es: "Los premarcos Blaugelb Triotherm+ sacan el marco de la zona fría y eliminan el puente del dintel. Cómo se montan y por qué importan en nZEB.",
-      it: "I controtelai Blaugelb Triotherm+ portano il telaio fuori dalla zona fredda ed eliminano il ponte termico. Come si posano e perché servono.",
+      ro: "Precadrele Blaugelb Triotherm+ scot rama din zona rece a zidului și reduc puntea termică de la rost. Cum se montează, cât costă și ce rol au la nZEB.",
+      en: "Blaugelb Triotherm+ precasings move the frame out of the cold zone and reduce the joint thermal bridge. Fitting, costs and their role in nZEB.",
+      de: "Blaugelb Triotherm+ holt den Rahmen aus der kalten Zone und verringert die Wärmebrücke an der Fuge. Montage, Kosten und Rolle beim nZEB-Haus.",
+      fr: "Les précadres Blaugelb Triotherm+ sortent le dormant de la zone froide et réduisent le pont thermique au joint. Pose, coût et rôle en nZEB.",
+      es: "Los premarcos Blaugelb Triotherm+ sacan el marco de la zona fría y reducen el puente térmico de la junta. Montaje, coste y papel en nZEB.",
+      it: "I controtelai Blaugelb Triotherm+ portano il telaio fuori dalla zona fredda e riducono il ponte termico al giunto. Posa, costi e ruolo nel nZEB.",
     },
     keywords: 'precadre Blaugelb Triotherm, montaj tamplarie nZEB, puntii termice ferestre, izolare perimetrala ferestre, banda precomprimata, montaj corect PVC',
     content: {
       ro: `## Problema pe care nimeni nu o spune la vânzare
 
-Poți cumpăra cel mai performant [profil PVC Salamander](/ro/tamplarie-pvc) BluEvolution 92, cu Uw de 0,70 W/m²K și geam triplu cu argon. Dacă montajul e greșit, **ferestrei îi rămâne mai puțin de 60% din performanța termică plătită**.
+Poți cumpăra cel mai performant [profil PVC Salamander](/ro/tamplarie-pvc) bluEvolution 92, cu geam triplu și baghetă Warm Edge. Dacă fereastra se montează clasic, în golul de zidărie, cu tocul lipit de zid, **o parte din căldură scapă tot pe la margini**, iar performanța măsurată în laborator nu se mai regăsește întreagă în casă.
 
-De ce? Din cauza **punților termice perimetrale** — zonele din jurul ferestrei unde căldura din interior scapă direct în exterior prin materialul de construcție.
+De ce? Din cauza **punților termice perimetrale** — zonele din jurul ferestrei unde căldura din interior trece spre exterior prin materialul zidului, mai repede decât prin perete sau prin fereastră.
 
-Precadrele **Blaugelb Triotherm+** există exact pentru a rezolva această problemă. Iar pentru construcțiile care trebuie să atingă **[standardul nZEB](/ro/sisteme-nzeb)**, utilizarea lor este obligatorie tehnic.
+Precadrele **Blaugelb Triotherm+** au fost create pentru această problemă. Nu sunt cerute explicit de lege, dar la o casă care trebuie să atingă **[standardul nZEB](/ro/sisteme-nzeb)** fiecare punte termică contează în calcul, iar precadrul este cea mai curată soluție când izolația fațadei e groasă.
 
 ---
 
 ## Ce sunt precadrele Blaugelb Triotherm+?
 
-Blaugelb este un producător german specializat exclusiv în sisteme de montaj pentru tâmplărie. **Triotherm+** este gama de vârf pentru izolarea perimetrală completă.
+Blaugelb este o marcă germană a grupului Meesenburg, specializată în sisteme de montaj și etanșare pentru ferestre și uși. **Triotherm+** este sistemul ei de montaj în fața zidului, adică în stratul de izolație al fațadei.
 
-Un precadru Blaugelb Triotherm+ este un **profil termoizolator** (λ = 0,035 W/mK) care se montează în golul de zidărie înaintea ferestrei. Rolul lui:
+Un precadru Blaugelb Triotherm+ este un **profil din EPS de înaltă densitate** (λ = 0,040 W/mK) care se lipește și se fixează mecanic pe zidărie, în jurul golului, înaintea ferestrei. Rolul lui:
 
-1. **Elimină puntea termică** dintre toc și zidărie
-2. **Creează un plan de montaj** perfect plat și nivel
-3. **Separă termic** zona interioară de cea exterioară
-4. **Permite integrarea benzilor** de etanșare
+1. **Mută fereastra în planul izolației**, departe de zona rece a zidului
+2. **Preia greutatea ferestrei** — peste 200 kg pe profil, fără console metalice
+3. **Creează un plan de montaj** plat, pe care benzile de etanșare se lipesc corect
+4. **Rămâne stabil** la umezeală: absoarbe sub 1,5% apă în 28 de zile și nu mucegăiește
 
 ### Componența sistemului complet
 
-- **Precadrul Triotherm+** — profilul principal termoizolator
-- **Banda butilică precomprimată** — etanșare exterioară (ploi, vânt)
-- **Banda de etanșare vapori** — barieră pe interior (condens)
-- **Spumă poliuretanică** cu densitate controlată — umplere cavitate
-- **Ancore și șuruburi** de fixare speciale
+- **Profilele Triotherm+** — în lățimi de 70, 100, 120 și 160 mm, îmbinate în coadă de rândunică
+- **Banda precomprimată** — etanșare exterioară la ploaie și vânt (Neofort BIZ folosește benzi Soudal)
+- **Banda de barieră de vapori** — pe interior, împotriva condensului din rost
+- **Spumă poliuretanică** elastică — izolația din mijlocul rostului
+- **Adeziv și dibluri** pentru fixarea profilelor pe zidărie
 
 ---
 
 ## Cum funcționează termic
 
-Fără precadru, tocul PVC atinge direct zidăria. Zidăria conduce căldura. Între interior (20°C) și exterior (−10°C), diferența de 30°C creează un flux termic direct prin zidărie.
+La montajul clasic, tocul stă în golul de zidărie, iar izolația fațadei se oprește la marginea golului. Zidăria conduce căldura mult mai bine decât polistirenul, așa că pe conturul ferestrei apare un traseu rece. Iarna, cu 20°C în casă și −10°C afară, suprafața interioară de pe glaf și din colțuri se răcește.
 
-Rezultat: **condens pe perimetrul interior al ferestrei**, zone reci la glaf, **costuri energetice suplimentare**.
+Rezultat: **condens și, în timp, mucegai pe perimetrul interior al ferestrei**, plus pierderi de căldură care nu apar în fișa ferestrei.
 
-Cu precadru Blaugelb Triotherm+, un material cu conductivitate extrem de scăzută întrerupe fizic puntea termică. Temperatura pe suprafața interioară rămâne apropiată de temperatura camerei. **Nu mai există condens perimetral.**
+Cu precadru Blaugelb Triotherm+, fereastra ajunge în stratul de izolație. Profilul din EPS are o conductivitate apropiată de a izolației fațadei, așa că traseul rece se întrerupe. Temperatura pe suprafața interioară rămâne mai aproape de cea a camerei, iar **riscul de condens perimetral scade mult**.
 
 ---
 
-## De ce e obligatoriu pentru nZEB?
+## Ce rol are precadrul la nZEB?
 
-Standardul **nZEB**, impus prin Legea nr. 372/2005 modificată și Directiva Europeană 2010/31/UE, impune un consum de energie primară sub **100 kWh/m²/an** pentru clădiri rezidențiale noi.
+Legea nr. 372/2005 privind performanța energetică a clădirilor, cu modificările ulterioare, transpune Directiva europeană 2010/31/UE. De la sfârșitul anului 2020, clădirile noi trebuie să fie nZEB: consum de energie primară sub pragul stabilit pentru zona climatică și tipul clădirii, cu cel puțin 30% din energie din surse regenerabile.
 
-Calculul energetic include **toți factorii de transmisie termică**, inclusiv punțile termice liniare (Ψ — psi) din jurul ferestrelor. Fără eliminarea lor, **certificarea nZEB nu poate fi obținută** chiar dacă pereții, acoperișul și podeaua sunt perfect izolate.
+Calculul energetic, făcut după metodologia **Mc 001-2022**, include și punțile termice liniare (valorile Ψ) din jurul ferestrelor. Legea nu numește precadrele, dar o punte termică mare la fiecare fereastră se adună și poate împinge clădirea peste prag.
 
-**Concret:** punți termice neizolate la 10 ferestre pot echivala cu 15–20 kWh/m²/an pierderi — suficient pentru a rata pragul nZEB.
+**Concret:** când fereastra se montează în izolația fațadei, precadrul este soluția recomandată. Sistemul Blaugelb Triotherm+ este certificat de Passive House Institute ca sistem de montaj, cu o conductivitate efectivă de 0,042 W/mK, care include și pierderile prin șuruburi.
 
 ---
 
 ## Montaj corect — pas cu pas
 
 **1. Pregătirea golului**
-Golul de zidărie trebuie să fie cu 6–8 cm mai mare decât fereastra pe fiecare latură. Suprafețele curate, uscate, fără praf.
+Se verifică planeitatea zidăriei din jurul golului. Suprafețele trebuie să fie curate, uscate și fără praf, ca adezivul să prindă.
 
-**2. Montarea precadrului**
-Fixare cu ancore chimice sau mecanice. Nivelarea critică — abatere maximă **2 mm/metru liniar**.
+**2. Montarea profilelor**
+Profilele se lipesc pe zidărie și se fixează mecanic, de jur împrejurul golului. Se îmbină în coadă de rândunică și se aliniază atent, pentru că planul lor devine planul ferestrei.
 
-**3. Banda butilică exterioară**
-Se aplică pe fața exterioară a precadrului, **înainte** de montarea ferestrei. Etanșare continuă împotriva apei și vântului.
+**3. Banda precomprimată exterioară**
+Se lipește pe toc **înainte** de montarea ferestrei. După montaj se expandează și închide rostul împotriva ploii și a vântului, lăsând totuși vaporii să iasă.
 
 **4. Montarea ferestrei**
-Fereastra se introduce în precadru și se fixează. Distanța dintre toc și precadru (8–12 mm) se umple cu **spumă PU de densitate medie** — nu spumă expansivă ieftină.
+Fereastra se așază pe profile și se fixează cu șuruburi direct în EPS, fără pregăurire. Rostul rămas se umple cu **spumă PU elastică** — stratul de izolație din mijloc.
 
 **5. Banda de vapori interioară**
-Bandă continuă pe interior — împiedică difuzia vaporilor din cameră spre cavitatea de montaj, prevenind condensul în masă.
+Se lipește continuu pe interior, între toc și zidărie. Împiedică vaporii din casă să intre în rost și să condenseze acolo.
 
 **6. Finisarea**
-Glafurile interioare se fixează pe precadru, nu pe zidărie — elimină ultima punte termică.
+Izolația fațadei se trage peste profile și peste o parte din toc. Așa se închide și ultima porțiune rece din jurul ferestrei.
 
 ---
 
-## Cost suplimentar și recuperarea investiției
+## Cât costă și când merită
 
-Un montaj complet cu Blaugelb Triotherm+ costă cu **15–25% mai mult** față de montajul clasic. La o casă cu 12 ferestre, diferența: 1.500–3.000 EUR.
+Montajul cu precadre Blaugelb Triotherm+ costă în plus **25–50 EUR pe metru liniar de perimetru** la ferestrele din PVC și **30–60 EUR** la cele din aluminiu, fără TVA. O fereastră de 1,2 × 1,4 m are 5,2 m de perimetru, deci diferența e de circa 130–260 EUR la PVC. La o casă cu 12 ferestre de acest fel, costul suplimentar ajunge la aproximativ 1.500–3.100 EUR.
 
-**Recuperarea:** prin economii la încălzire de 20–35%, investiția se recuperează în **3–6 ani**. Pe 30 ani de viață a ferestrei, economiile nete depășesc de 5–8 ori costul suplimentar al precadrelor.
+Merită mai ales la casele noi cu izolație groasă la fațadă și la casele nZEB sau pasive, unde fiecare punte termică intră în calcul. La o renovare simplă, cu fereastra montată în golul existent, un montaj RAL cu benzi pe trei niveluri este de obicei suficient.
 
 ---
 
 ## Concluzie
 
-La Neofort BIZ, **toate montajele noastre** includ sistemul complet de izolare perimetrală Blaugelb. Nu furnizăm ferestre fără să garantăm și montajul corect. Contactați-ne pentru evaluare și ofertă.
+La Neofort BIZ, montajul cu precadre Blaugelb Triotherm+ este o opțiune pe care o recomandăm la casele nZEB și la cele cu izolație groasă. Măsurătorile se fac după semnarea contractului, iar oferta o trimitem în 48 de ore de la primirea dimensiunilor.
 
 ## Întrebări frecvente
 
 ### Din ce material e făcut un precadru Blaugelb Triotherm+?
 
-Precadrul Blaugelb Triotherm+ este un profil termoizolator (λ = 0,035 W/mK) montat în golul de zidărie înaintea ferestrei. Elimină puntea termică dintre toc și zidărie, creează un plan de montaj plat și nivel, separă termic interiorul de exterior și permite integrarea benzilor de etanșare.
+Precadrul Blaugelb Triotherm+ este un profil din EPS de înaltă densitate, cu λ = 0,040 W/mK, care se lipește și se fixează mecanic pe zidărie, în stratul de izolație al fațadei. Preia peste 200 kg, rezistă la umezeală și este 100% reciclabil.
 
-### De ce e obligatoriu montajul cu precadre pentru certificarea nZEB?
+### Este obligatoriu montajul cu precadre pentru certificarea nZEB?
 
-Fără rezolvarea punților termice perimetrale, o fereastră performantă (Uw 0,70) păstrează sub 60% din performanța termică plătită. Precadrul Triotherm+ elimină exact aceste punți, iar pentru construcțiile care trebuie să atingă standardul nZEB, utilizarea lui e obligatorie tehnic.
+Nu. Legea nu cere precadre, dar punțile termice din jurul ferestrelor intră în calculul energetic făcut după Mc 001-2022. Când fereastra se montează în izolația fațadei, precadrul este soluția recomandată, pentru că reduce mult puntea termică de la rost.
 
-### Din ce e compus sistemul complet de montaj Blaugelb?
+### Din ce e compus sistemul complet de montaj?
 
-Sistemul complet include: precadrul Triotherm+ (profil termoizolator principal), banda butilică precomprimată (etanșare exterioară la ploi și vânt), banda de etanșare vapori (barieră pe interior contra condensului), spumă poliuretanică cu densitate controlată și ancore speciale de fixare.
+Sistemul complet are profilele Triotherm+, banda precomprimată la exterior (Neofort BIZ folosește benzi Soudal), banda de barieră de vapori la interior, spuma PU elastică din mijlocul rostului și adezivul și diblurile pentru fixarea profilelor.
 
-### Cât din performanța termică se pierde la un montaj greșit?
+### Ce se întâmplă dacă fereastra se montează fără precadru?
 
-La un montaj greșit, fereastrei îi rămâne mai puțin de 60% din performanța termică plătită, din cauza punților termice perimetrale — zonele din jurul ferestrei unde căldura interioară scapă direct în exterior prin materialul de construcție. Precadrul Blaugelb rezolvă această problemă.
+Fereastra rămâne în golul de zidărie, iar zidul conduce căldura pe conturul ei. Apar pierderi de căldură care nu se văd în fișa ferestrei și, iarna, condens sau mucegai pe glaf și în colțuri. Un montaj RAL cu benzi pe trei niveluri reduce problema, dar nu mută fereastra în izolație.
 
----
+### Cât costă montajul cu precadre Blaugelb?
 
-Neofort BIZ montează precadre Blaugelb Triotherm+ și tâmplărie certificată nZEB în București și Ilfov. Vezi [sistemele nZEB](/ro/sisteme-nzeb) pe care le oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al ferestrelor pentru case nZEB](/ro/blog/ferestre-casa-nzeb-romania-ghid-complet-2026). Pagini utile: [precadrele Blaugelb Triotherm+](/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus) și [ghidul complet al sistemelor nZEB](/ro/sisteme-nzeb/ghid-complet-nzeb).`,
-
-      en: `## The Problem Nobody Mentions at the Point of Sale
-
-You can buy the highest-performing [Salamander BluEvolution 92](/en/pvc-windows) PVC profile, with a Uw of 0.70 W/m²K and triple glazing with argon. If installation is incorrect, **the window retains less than 60% of the thermal performance you paid for**.
-
-Why? Because of **perimeter thermal bridges** — the areas around the window where heat from inside escapes directly to the outside through the building material.
-
-**Blaugelb Triotherm+** precasings exist specifically to solve this problem. And for buildings that need to achieve the **[nZEB standard](/en/nzeb-systems)**, their use is technically mandatory.
+Costul suplimentar este de 25–50 EUR pe metru liniar de perimetru la ferestrele din PVC și de 30–60 EUR la cele din aluminiu, fără TVA. La o fereastră de 1,2 × 1,4 m, diferența este de circa 130–260 EUR la PVC.
 
 ---
 
-## What Are Blaugelb Triotherm+ Precasings?
+Neofort BIZ montează precadre Blaugelb Triotherm+ și ferestre pentru case nZEB în București și Ilfov. Vezi [sistemele nZEB](/ro/sisteme-nzeb) pe care le oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al ferestrelor pentru case nZEB](/ro/blog/ferestre-casa-nzeb-romania-ghid-complet-2026). Pagini utile: [precadrele Blaugelb Triotherm+](/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus) și [ghidul complet al sistemelor nZEB](/ro/sisteme-nzeb/ghid-complet-nzeb).`,
 
-Blaugelb is a German manufacturer specialising exclusively in window installation systems. **Triotherm+** is the top-of-the-range system for complete perimeter insulation.
+      en: `## The problem nobody mentions at the sale
 
-A Blaugelb Triotherm+ precasing is a **thermal insulating profile** (λ = 0.035 W/mK) installed in the masonry opening before the window. Its role:
+You can buy the best [Salamander PVC profile](/en/pvc-windows), bluEvolution 92, with triple glazing and a Warm Edge spacer. If the window is fitted the conventional way, inside the masonry opening with the frame against the wall, **some of the heat still escapes around the edges**, and the performance measured in the laboratory no longer shows up in full in the house.
 
-1. **Eliminates the thermal bridge** between the frame and the masonry
-2. **Creates a perfectly flat and level** installation plane
-3. **Thermally separates** the interior from the exterior zone
-4. **Allows integration** of sealing tapes
+Why? Because of **perimeter thermal bridges** — the areas around the window where indoor heat passes to the outside through the wall material faster than through the wall or the window itself.
 
-### Components of the Complete System
-
-- **Triotherm+ precasing** — the main thermal insulating profile
-- **Pre-compressed butyl tape** — exterior sealing (rain, wind)
-- **Vapour sealing tape** — interior barrier (condensation)
-- **Controlled density polyurethane foam** — cavity filling
-- **Special anchors and screws** for fixing
+**Blaugelb Triotherm+** precasings were designed for exactly this problem. The law does not require them by name, but in a house that has to reach the **[nZEB standard](/en/nzeb-systems)** every thermal bridge counts in the calculation, and a precasing is the cleanest solution when the facade insulation is thick.
 
 ---
 
-## How It Works Thermally
+## What are Blaugelb Triotherm+ precasings?
 
-Without a precasing, the PVC frame directly contacts the masonry. Masonry conducts heat. Between interior (20°C) and exterior (−10°C), the 30°C difference creates a direct thermal flow through the masonry.
+Blaugelb is a German brand of the Meesenburg group, specialising in installation and sealing systems for windows and doors. **Triotherm+** is its pre-wall installation system, which places the window in front of the masonry, in the facade insulation layer.
 
-Result: **condensation on the interior perimeter of the window**, cold zones at the sill, **additional energy costs**.
+A Blaugelb Triotherm+ precasing is a **high-density EPS profile** (λ = 0.040 W/mK) that is bonded and mechanically fixed to the masonry around the opening before the window goes in. Its role:
 
-With a Blaugelb Triotherm+ precasing, a material with extremely low conductivity physically interrupts the thermal bridge. The interior surface temperature stays close to room temperature. **No more perimeter condensation.**
+1. **Moves the window into the insulation plane**, away from the cold zone of the wall
+2. **Carries the weight of the window** — over 200 kg per profile, with no metal brackets
+3. **Creates a flat fitting plane** on which the sealing tapes bond properly
+4. **Stays stable** in damp conditions: it absorbs less than 1.5% water in 28 days and does not go mouldy
+
+### Components of the complete system
+
+- **Triotherm+ profiles** — in widths of 70, 100, 120 and 160 mm, joined with dovetails
+- **Pre-compressed tape** — outer seal against rain and wind (Neofort BIZ uses Soudal tapes)
+- **Vapour barrier tape** — on the inside, against condensation in the joint
+- **Elastic polyurethane foam** — the insulation in the middle of the joint
+- **Adhesive and anchors** for fixing the profiles to the masonry
 
 ---
 
-## Why Is It Mandatory for nZEB?
+## How it works thermally
 
-The **nZEB standard**, mandated by European Directive 2010/31/EU, requires primary energy consumption below **100 kWh/m²/year** for new residential buildings.
+With conventional fitting, the frame sits in the masonry opening and the facade insulation stops at the edge of the opening. Masonry conducts heat far better than polystyrene, so a cold path forms around the window. In winter, with 20°C inside and −10°C outside, the inner surface of the reveal and the corners cools down.
 
-The energy calculation includes **all thermal transmission factors**, including linear thermal bridges (Ψ — psi) around windows. Without eliminating them, **nZEB certification cannot be obtained** even if walls, roof and floor are perfectly insulated.
+The result: **condensation and, over time, mould on the inner perimeter of the window**, plus heat losses that do not appear on the window datasheet.
 
-**In practical terms:** uninsulated thermal bridges at 10 windows can equate to 15–20 kWh/m²/year in losses — enough to miss the nZEB threshold.
+With a Blaugelb Triotherm+ precasing, the window sits in the insulation layer. The EPS profile has a conductivity close to that of the facade insulation, so the cold path is interrupted. The inner surface temperature stays closer to room temperature and **the risk of perimeter condensation drops sharply**.
 
 ---
 
-## Correct Installation — Step by Step
+## What role does the precasing play in nZEB?
 
-**1. Preparing the Opening**
-The masonry opening must be 6–8 cm larger than the window on each side. Surfaces clean, dry, dust-free.
+Romania's Law no. 372/2005 on the energy performance of buildings, as amended, transposes European Directive 2010/31/EU. Since the end of 2020, new buildings must be nZEB: primary energy use below the threshold set for the climate zone and building type, with at least 30% of the energy from renewable sources.
 
-**2. Installing the Precasing**
-Fixed with chemical or mechanical anchors. Levelling is critical — maximum deviation **2 mm per linear metre**.
+The energy calculation, carried out under the **Mc 001-2022** methodology, also includes the linear thermal bridges (Ψ values) around the windows. The law does not name precasings, but a large thermal bridge at every window adds up and can push the building over the threshold.
 
-**3. Exterior Butyl Tape**
-Applied to the exterior face of the precasing, **before** fitting the window. Continuous sealing against water and wind.
+**In practice:** when the window is fitted in the facade insulation, a precasing is the recommended solution. The Blaugelb Triotherm+ system is certified by the Passive House Institute as a mounting system, with an effective conductivity of 0.042 W/mK that also includes the screw losses.
 
-**4. Fitting the Window**
-The window is inserted into the precasing and secured. The gap between frame and precasing (8–12 mm) is filled with **medium-density PU foam** — not cheap expanding foam.
+---
 
-**5. Interior Vapour Tape**
-Continuous tape on the interior — prevents vapour diffusion from the room into the installation cavity, avoiding condensation buildup.
+## Correct installation — step by step
+
+**1. Preparing the opening**
+Check that the masonry around the opening is flat. Surfaces must be clean, dry and free of dust so the adhesive grips.
+
+**2. Fitting the profiles**
+The profiles are bonded to the masonry and mechanically fixed all around the opening. They are joined with dovetails and aligned carefully, because their plane becomes the plane of the window.
+
+**3. Outer pre-compressed tape**
+It is applied to the frame **before** the window is installed. After fitting it expands and closes the joint against rain and wind, while still letting vapour escape.
+
+**4. Fitting the window**
+The window is placed on the profiles and fixed with screws straight into the EPS, with no pre-drilling. The remaining joint is filled with **elastic PU foam** — the middle insulation layer.
+
+**5. Inner vapour tape**
+It is bonded continuously on the inside, between the frame and the masonry. It stops indoor vapour from entering the joint and condensing there.
 
 **6. Finishing**
-Interior window sills are fixed to the precasing, not the masonry — eliminates the final thermal bridge.
+The facade insulation is taken over the profiles and over part of the frame. This closes the last cold section around the window.
 
 ---
 
-## Additional Cost and Return on Investment
+## What it costs and when it pays off
 
-A complete installation with Blaugelb Triotherm+ costs **15–25% more** than standard installation. For a house with 12 windows, the difference: 1,500–3,000 EUR.
+Installation with Blaugelb Triotherm+ precasings costs an extra **25–50 EUR per linear metre of perimeter** for PVC windows and **30–60 EUR** for aluminium windows, excluding VAT. A 1.2 × 1.4 m window has a perimeter of 5.2 m, so the difference is about 130–260 EUR for PVC. In a house with 12 such windows, the extra cost comes to roughly 1,500–3,100 EUR.
 
-**Return:** through heating savings of 20–35%, the investment is recovered in **3–6 years**. Over 30 years of window life, net savings exceed the additional cost of precasings by 5–8 times.
+It pays off above all in new houses with thick facade insulation and in nZEB or passive houses, where every thermal bridge counts. In a simple renovation with the window fitted in the existing opening, a RAL installation with three-level tapes is usually enough.
 
 ---
 
 ## Conclusion
 
-At Neofort BIZ, **all our installations** include the complete Blaugelb perimeter insulation system. We do not supply windows without also guaranteeing correct installation. Contact us for assessment and quote.
+At Neofort BIZ, installation with Blaugelb Triotherm+ precasings is an option we recommend for nZEB houses and houses with thick insulation. Measurements are taken after the contract is signed, and we send the quote within 48 hours of receiving the dimensions.
 
 ## Frequently Asked Questions
 
-### What material is a Blaugelb Triotherm+ pre-frame made of?
+### What is a Blaugelb Triotherm+ precasing made of?
 
-The Blaugelb Triotherm+ pre-frame is a thermal-insulating profile (λ = 0.035 W/mK) fitted in the masonry opening before the window. It eliminates the thermal bridge between frame and masonry, creates a flat and level fitting plane, thermally separates inside from outside and allows sealing tapes to be integrated.
+A Blaugelb Triotherm+ precasing is a high-density EPS profile with λ = 0.040 W/mK, bonded and mechanically fixed to the masonry in the facade insulation layer. It carries over 200 kg, resists moisture and is 100% recyclable.
 
-### Why is pre-frame fitting mandatory for nZEB certification?
+### Is installation with precasings mandatory for nZEB certification?
 
-Without solving the perimeter thermal bridges, a high-performance window (Uw 0.70) keeps under 60% of the thermal performance paid for. The Triotherm+ pre-frame eliminates exactly these bridges, and for buildings that must reach the nZEB standard, its use is technically mandatory.
+No. The law does not require precasings, but the thermal bridges around the windows count in the energy calculation under Mc 001-2022. When the window is fitted in the facade insulation, a precasing is the recommended solution because it sharply reduces the joint thermal bridge.
 
-### What does the complete Blaugelb fitting system consist of?
+### What does the complete installation system consist of?
 
-The complete system includes: the Triotherm+ pre-frame (main thermal-insulating profile), pre-compressed butyl tape (exterior sealing against rain and wind), vapour-sealing tape (interior barrier against condensation), density-controlled polyurethane foam and special fixing anchors.
+The complete system has the Triotherm+ profiles, the pre-compressed tape outside (Neofort BIZ uses Soudal tapes), the vapour barrier tape inside, the elastic PU foam in the middle of the joint, and the adhesive and anchors that fix the profiles.
 
-### How much thermal performance is lost with incorrect fitting?
+### What happens if the window is fitted without a precasing?
 
-With incorrect fitting, the window keeps under 60% of the thermal performance paid for, due to perimeter thermal bridges — the zones around the window where interior heat escapes directly outside through the building material. The Blaugelb pre-frame solves this problem.
+The window stays in the masonry opening and the wall conducts heat around its edge. There are heat losses that the window datasheet does not show and, in winter, condensation or mould on the reveal and in the corners. A RAL installation with three-level tapes reduces the problem but does not move the window into the insulation.
 
----
+### How much does installation with Blaugelb precasings cost?
 
-Neofort BIZ installs Blaugelb Triotherm+ precasings and nZEB certified joinery in Bucharest and Ilfov. See [the nZEB systems](/en/nzeb-systems) we offer or [request a quote](/en/contact). See also [the complete guide to nZEB house windows](/en/blog/windows-nzeb-house-romania-complete-guide-2026). Useful pages: [Blaugelb Triotherm+ precasings](/en/nzeb-systems/blaugelb-triotherm-plus-precasings) and [the complete nZEB systems guide](/en/nzeb-systems/complete-guide).`,
-
-      de: `## Das Problem, das beim Verkauf niemand erwähnt
-
-Sie können das leistungsstärkste [Salamander BluEvolution 92](/de/kunststofffenster-pvc) PVC-Profil kaufen, mit einem Uw-Wert von 0,70 W/m²K und Dreifachverglasung mit Argon. Wenn der Einbau falsch ist, **behält das Fenster weniger als 60% der bezahlten Wärmeleistung**.
-
-Warum? Wegen der **perimetralen Wärmebrücken** — die Bereiche rund um das Fenster, wo die Innenraumwärme direkt nach außen durch das Baumaterial entweicht.
-
-Die **Blaugelb Triotherm+** Vorfenster sind genau dafür konzipiert, dieses Problem zu lösen. Und für Gebäude, die den **[nZEB-Standard](/de/nzeb-systeme)** erreichen müssen, ist ihr Einsatz technisch obligatorisch.
+The extra cost is 25–50 EUR per linear metre of perimeter for PVC windows and 30–60 EUR for aluminium windows, excluding VAT. For a 1.2 × 1.4 m window, the difference is about 130–260 EUR for PVC.
 
 ---
 
-## Was sind Blaugelb Triotherm+ Vorfenster?
+Neofort BIZ installs Blaugelb Triotherm+ precasings and windows for nZEB houses in Bucharest and Ilfov. See [the nZEB systems](/en/nzeb-systems) we offer or [request a quote](/en/contact). See also [the complete guide to nZEB house windows](/en/blog/windows-nzeb-house-romania-complete-guide-2026). Useful pages: [Blaugelb Triotherm+ precasings](/en/nzeb-systems/blaugelb-triotherm-plus-precasings) and [the complete nZEB systems guide](/en/nzeb-systems/complete-guide).`,
 
-Blaugelb ist ein deutscher Hersteller, der sich ausschließlich auf Montagesysteme für Fenster spezialisiert hat. **Triotherm+** ist die Spitzenserie für vollständige perimetrale Dämmung.
+      de: `## Das Problem, über das beim Verkauf niemand spricht
 
-Ein Blaugelb Triotherm+ Vorfenster ist ein **wärmedämmendes Profil** (λ = 0,035 W/mK), das vor dem Fenster in die Mauerwerksöffnung eingebaut wird. Seine Aufgabe:
+Sie können das beste [Salamander-Kunststoffprofil](/de/kunststofffenster-pvc) kaufen, bluEvolution 92, mit Dreifachverglasung und Warm-Edge-Abstandhalter. Wird das Fenster herkömmlich in die Maueröffnung eingebaut, mit dem Rahmen direkt an der Wand, **entweicht trotzdem ein Teil der Wärme über die Ränder**, und die im Labor gemessene Leistung kommt im Haus nicht mehr vollständig an.
 
-1. **Eliminiert die Wärmebrücke** zwischen Rahmen und Mauerwerk
-2. **Schafft eine perfekt ebene** Montagefläche
-3. **Trennt thermisch** den Innen- vom Außenbereich
-4. **Ermöglicht die Integration** von Dichtbändern
+Warum? Wegen der **umlaufenden Wärmebrücken** — der Bereiche um das Fenster, in denen die Raumwärme schneller durch das Mauerwerk nach außen gelangt als durch die Wand oder das Fenster selbst.
 
-### Komponenten des Komplettsystems
+**Blaugelb Triotherm+** Vorblendrahmen wurden genau für dieses Problem entwickelt. Das Gesetz verlangt sie nicht ausdrücklich, doch bei einem Haus, das den **[nZEB-Standard](/de/nzeb-systeme)** erreichen muss, zählt jede Wärmebrücke in der Berechnung, und der Vorblendrahmen ist bei dicker Fassadendämmung die sauberste Lösung.
 
-- **Triotherm+ Vorfenster** — das Haupt-Wärmedämmungsprofil
-- **Vorkomprimiertes Butyl-Dichtband** — Außendichtung (Regen, Wind)
-- **Dampfsperr-Dichtband** — innere Barriere (Kondensation)
-- **PU-Schaum mit kontrollierter Dichte** — Hohlraumfüllung
-- **Spezielle Anker und Schrauben** zur Befestigung
+---
+
+## Was sind Blaugelb Triotherm+ Vorblendrahmen?
+
+Blaugelb ist eine deutsche Marke der Meesenburg-Gruppe, spezialisiert auf Montage- und Abdichtungssysteme für Fenster und Türen. **Triotherm+** ist ihr Vorwandmontagesystem, das das Fenster vor das Mauerwerk in die Dämmebene der Fassade setzt.
+
+Ein Blaugelb Triotherm+ Vorblendrahmen ist ein **Profil aus hochdichtem EPS** (λ = 0,040 W/mK), das vor dem Fenstereinbau rund um die Öffnung am Mauerwerk verklebt und mechanisch befestigt wird. Seine Aufgabe:
+
+1. **Holt das Fenster in die Dämmebene**, weg von der kalten Zone der Wand
+2. **Trägt das Fenstergewicht** — über 200 kg je Profil, ohne Metallkonsolen
+3. **Schafft eine ebene Einbaufläche**, auf der die Dichtbänder sauber haften
+4. **Bleibt bei Feuchte stabil**: Es nimmt in 28 Tagen weniger als 1,5 % Wasser auf und schimmelt nicht
+
+### Bestandteile des Komplettsystems
+
+- **Triotherm+ Profile** — in Breiten von 70, 100, 120 und 160 mm, per Schwalbenschwanz verbunden
+- **Vorkomprimiertes Band** — äußere Abdichtung gegen Schlagregen und Wind (Neofort BIZ verwendet Soudal-Bänder)
+- **Dampfbremsband** — innen, gegen Kondensat in der Fuge
+- **Elastischer PU-Schaum** — die Dämmung in der Mitte der Fuge
+- **Klebstoff und Dübel** zur Befestigung der Profile am Mauerwerk
 
 ---
 
 ## Wie es thermisch funktioniert
 
-Ohne Vorfenster berührt der PVC-Rahmen direkt das Mauerwerk. Mauerwerk leitet Wärme. Zwischen Innen (20°C) und Außen (−10°C) erzeugt der 30°C-Unterschied einen direkten Wärmefluss durch das Mauerwerk.
+Beim herkömmlichen Einbau sitzt der Rahmen in der Maueröffnung, und die Fassadendämmung endet am Rand der Öffnung. Mauerwerk leitet Wärme viel besser als Polystyrol, deshalb entsteht rund um das Fenster ein kalter Pfad. Im Winter, bei 20 °C innen und −10 °C außen, kühlt die Innenoberfläche an der Laibung und in den Ecken ab.
 
-Ergebnis: **Kondensation am inneren Fensterperimeter**, kalte Zonen an der Fensterbank, **zusätzliche Energiekosten**.
+Das Ergebnis: **Kondensat und mit der Zeit Schimmel am inneren Fensterumfang**, dazu Wärmeverluste, die im Datenblatt des Fensters nicht auftauchen.
 
-Mit einem Blaugelb Triotherm+ Vorfenster unterbricht ein Material mit extrem niedriger Leitfähigkeit die Wärmebrücke physisch. Die Innenoberflächentemperatur bleibt nahe der Raumtemperatur. **Keine perimetrale Kondensation mehr.**
-
----
-
-## Warum ist es für nZEB obligatorisch?
-
-Der **nZEB-Standard**, vorgeschrieben durch die Europäische Richtlinie 2010/31/EU, erfordert einen Primärenergieverbrauch unter **100 kWh/m²/Jahr** für neue Wohngebäude.
-
-Die Energieberechnung umfasst **alle Wärmeübertragungsfaktoren**, einschließlich linearer Wärmebrücken (Ψ — Psi) rund um Fenster. Ohne deren Eliminierung **kann die nZEB-Zertifizierung nicht erlangt werden**, auch wenn Wände, Dach und Boden perfekt gedämmt sind.
-
-**Konkret:** Ungedämmte Wärmebrücken bei 10 Fenstern können 15–20 kWh/m²/Jahr Verluste bedeuten — genug, um den nZEB-Schwellenwert zu verfehlen.
+Mit einem Blaugelb Triotherm+ Vorblendrahmen liegt das Fenster in der Dämmebene. Das EPS-Profil hat eine ähnliche Wärmeleitfähigkeit wie die Fassadendämmung, sodass der kalte Pfad unterbrochen wird. Die Innenoberfläche bleibt näher an der Raumtemperatur, und **das Risiko von Kondensat am Fensterumfang sinkt deutlich**.
 
 ---
 
-## Korrekter Einbau — Schritt für Schritt
+## Welche Rolle spielt der Vorblendrahmen beim nZEB-Haus?
+
+Das rumänische Gesetz Nr. 372/2005 über die Gesamtenergieeffizienz von Gebäuden setzt in seiner geänderten Fassung die EU-Richtlinie 2010/31/EU um. Seit Ende 2020 müssen Neubauten nZEB sein: Primärenergiebedarf unter dem Grenzwert für Klimazone und Gebäudetyp, mit mindestens 30 % Energie aus erneuerbaren Quellen.
+
+Die Energieberechnung nach der Methodik **Mc 001-2022** erfasst auch die linienförmigen Wärmebrücken (Ψ-Werte) um die Fenster. Das Gesetz nennt keine Vorblendrahmen, doch eine große Wärmebrücke an jedem Fenster summiert sich und kann das Gebäude über den Grenzwert bringen.
+
+**Konkret:** Wenn das Fenster in der Fassadendämmung sitzt, ist der Vorblendrahmen die empfohlene Lösung. Das System Blaugelb Triotherm+ ist vom Passivhaus Institut als Montagesystem zertifiziert, mit einer effektiven Wärmeleitfähigkeit von 0,042 W/mK, in der auch die Schraubenverluste enthalten sind.
+
+---
+
+## Richtige Montage — Schritt für Schritt
 
 **1. Vorbereitung der Öffnung**
-Die Mauerwerksöffnung muss auf jeder Seite 6–8 cm größer als das Fenster sein. Oberflächen sauber, trocken, staubfrei.
+Die Ebenheit des Mauerwerks rund um die Öffnung wird geprüft. Die Flächen müssen sauber, trocken und staubfrei sein, damit der Klebstoff hält.
 
-**2. Einbau des Vorfensters**
-Befestigung mit chemischen oder mechanischen Ankern. Die Nivellierung ist kritisch — maximale Abweichung **2 mm pro Laufmeter**.
+**2. Montage der Profile**
+Die Profile werden rundum am Mauerwerk verklebt und mechanisch befestigt. Sie werden per Schwalbenschwanz verbunden und sorgfältig ausgerichtet, denn ihre Ebene wird zur Ebene des Fensters.
 
-**3. Äußeres Butyl-Dichtband**
-Wird auf die Außenfläche des Vorfensters aufgetragen, **bevor** das Fenster eingesetzt wird. Durchgehende Abdichtung gegen Wasser und Wind.
+**3. Äußeres vorkomprimiertes Band**
+Es wird **vor** dem Einbau des Fensters auf den Rahmen geklebt. Nach der Montage dehnt es sich aus und schließt die Fuge gegen Regen und Wind, lässt aber Dampf nach außen entweichen.
 
-**4. Einsetzen des Fensters**
-Das Fenster wird in das Vorfenster eingesetzt und befestigt. Der Spalt zwischen Rahmen und Vorfenster (8–12 mm) wird mit **PU-Schaum mittlerer Dichte** gefüllt — kein billiger Expansionsschaum.
+**4. Einbau des Fensters**
+Das Fenster wird auf die Profile gesetzt und direkt in das EPS verschraubt, ohne Vorbohren. Die verbleibende Fuge wird mit **elastischem PU-Schaum** gefüllt — der mittleren Dämmschicht.
 
-**5. Inneres Dampfsperrband**
-Durchgehendes Band innen — verhindert die Dampfdiffusion aus dem Raum in den Montagehohlraum und vermeidet Kondensatbildung.
+**5. Inneres Dampfbremsband**
+Es wird innen durchgehend zwischen Rahmen und Mauerwerk verklebt. Es verhindert, dass Raumfeuchte in die Fuge gelangt und dort kondensiert.
 
-**6. Fertigstellung**
-Innenfensterbänke werden am Vorfenster befestigt, nicht am Mauerwerk — eliminiert die letzte Wärmebrücke.
+**6. Abschluss**
+Die Fassadendämmung wird über die Profile und über einen Teil des Rahmens gezogen. So schließt sich auch der letzte kalte Abschnitt rund um das Fenster.
 
 ---
 
-## Mehrkosten und Return on Investment
+## Was es kostet und wann es sich lohnt
 
-Ein kompletter Einbau mit Blaugelb Triotherm+ kostet **15–25% mehr** als die Standardmontage. Bei einem Haus mit 12 Fenstern beträgt die Differenz: 1.500–3.000 EUR.
+Die Montage mit Blaugelb Triotherm+ Vorblendrahmen kostet **25–50 EUR pro laufendem Meter Umfang** mehr bei PVC-Fenstern und **30–60 EUR** bei Aluminiumfenstern, ohne MwSt. Ein Fenster von 1,2 × 1,4 m hat 5,2 m Umfang, die Differenz liegt also bei etwa 130–260 EUR für PVC. Bei einem Haus mit 12 solchen Fenstern kommen rund 1.500–3.100 EUR Mehrkosten zusammen.
 
-**Amortisation:** Durch Heizungseinsparungen von 20–35% amortisiert sich die Investition in **3–6 Jahren**. Über 30 Jahre Fensterlebensdauer übersteigen die Nettoeinsparungen die Mehrkosten der Vorfenster um das 5–8-Fache.
+Am meisten lohnt es sich bei Neubauten mit dicker Fassadendämmung und bei nZEB- oder Passivhäusern, in denen jede Wärmebrücke zählt. Bei einer einfachen Sanierung mit dem Fenster in der bestehenden Öffnung reicht meist eine RAL-Montage mit Bändern in drei Ebenen.
 
 ---
 
 ## Fazit
 
-Bei Neofort BIZ umfassen **alle unsere Montagen** das komplette Blaugelb Perimeterdämmsystem. Wir liefern keine Fenster, ohne auch den korrekten Einbau zu garantieren. Kontaktieren Sie uns für eine Bewertung und ein Angebot.
+Bei Neofort BIZ ist die Montage mit Blaugelb Triotherm+ Vorblendrahmen eine Option, die wir für nZEB-Häuser und Häuser mit dicker Dämmung empfehlen. Das Aufmaß erfolgt nach Vertragsunterzeichnung, und das Angebot senden wir innerhalb von 48 Stunden nach Erhalt der Maße.
 
 ## Häufig gestellte Fragen
 
-### Aus welchem Material besteht ein Blaugelb Triotherm+ Vorrahmen?
+### Aus welchem Material besteht ein Blaugelb Triotherm+ Vorblendrahmen?
 
-Der Blaugelb Triotherm+ Vorrahmen ist ein wärmedämmendes Profil (λ = 0,035 W/mK), das vor dem Fenster in die Maueröffnung eingebaut wird. Er beseitigt die Wärmebrücke zwischen Rahmen und Mauerwerk, schafft eine flache und ebene Einbauebene, trennt innen thermisch von außen und ermöglicht die Integration von Dichtbändern.
+Der Blaugelb Triotherm+ Vorblendrahmen ist ein Profil aus hochdichtem EPS mit λ = 0,040 W/mK, das in der Dämmebene der Fassade am Mauerwerk verklebt und mechanisch befestigt wird. Er trägt über 200 kg, ist feuchteunempfindlich und zu 100 % recycelbar.
 
-### Warum ist der Einbau mit Vorrahmen für die nZEB-Zertifizierung verpflichtend?
+### Ist die Montage mit Vorblendrahmen für die nZEB-Zertifizierung Pflicht?
 
-Ohne Lösung der Perimeter-Wärmebrücken behält ein Hochleistungsfenster (Uw 0,70) unter 60% der bezahlten thermischen Leistung. Der Triotherm+ Vorrahmen beseitigt genau diese Brücken, und für Gebäude, die den nZEB-Standard erreichen müssen, ist seine Verwendung technisch verpflichtend.
+Nein. Das Gesetz verlangt keine Vorblendrahmen, aber die Wärmebrücken um die Fenster gehen in die Energieberechnung nach Mc 001-2022 ein. Sitzt das Fenster in der Fassadendämmung, ist der Vorblendrahmen die empfohlene Lösung, weil er die Wärmebrücke an der Fuge deutlich verringert.
 
-### Woraus besteht das komplette Blaugelb-Einbausystem?
+### Woraus besteht das komplette Montagesystem?
 
-Das komplette System umfasst: den Triotherm+ Vorrahmen (wärmedämmendes Hauptprofil), vorkomprimiertes Butylband (Außenabdichtung gegen Regen und Wind), Dampfsperrband (Innenbarriere gegen Kondensat), dichtegeregelten PU-Schaum und spezielle Befestigungsanker.
+Das Komplettsystem umfasst die Triotherm+ Profile, das vorkomprimierte Band außen (Neofort BIZ verwendet Soudal-Bänder), das Dampfbremsband innen, den elastischen PU-Schaum in der Mitte der Fuge sowie Klebstoff und Dübel zur Befestigung der Profile.
 
-### Wie viel Wärmeleistung geht bei falschem Einbau verloren?
+### Was passiert, wenn das Fenster ohne Vorblendrahmen eingebaut wird?
 
-Bei falschem Einbau behält das Fenster unter 60% der bezahlten thermischen Leistung, aufgrund von Perimeter-Wärmebrücken — den Zonen rund ums Fenster, wo Innenwärme direkt durch das Baumaterial nach außen entweicht. Der Blaugelb-Vorrahmen löst dieses Problem.
+Das Fenster bleibt in der Maueröffnung, und die Wand leitet Wärme an seinem Rand ab. Es entstehen Wärmeverluste, die das Datenblatt nicht zeigt, und im Winter Kondensat oder Schimmel an Laibung und Ecken. Eine RAL-Montage mit Bändern in drei Ebenen mildert das Problem, holt das Fenster aber nicht in die Dämmung.
+
+### Was kostet die Montage mit Blaugelb Vorblendrahmen?
+
+Die Mehrkosten liegen bei 25–50 EUR pro laufendem Meter Umfang für PVC-Fenster und bei 30–60 EUR für Aluminiumfenster, ohne MwSt. Bei einem Fenster von 1,2 × 1,4 m beträgt die Differenz etwa 130–260 EUR für PVC.
 
 ---
 
-Neofort BIZ montiert Blaugelb Triotherm+ Vorfenster und nZEB-zertifizierte Fenster in Bukarest und Ilfov. Sehen Sie [die nZEB-Systeme](/de/nzeb-systeme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber zu nZEB-Hausfenstern](/de/blog/fenster-nzeb-haus-rumaenien-vollstaendiger-ratgeber-2026). Nützliche Seiten: [Blaugelb Triotherm+ RAL-Montagesystem](/de/nzeb-systeme/blaugelb-triotherm-plus-vorfenster) und [Ratgeber nZEB-Systeme](/de/nzeb-systeme/kompletter-ratgeber).`,
+Neofort BIZ montiert Blaugelb Triotherm+ Vorblendrahmen und Fenster für nZEB-Häuser in Bukarest und Ilfov. Sehen Sie [die nZEB-Systeme](/de/nzeb-systeme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber zu nZEB-Hausfenstern](/de/blog/fenster-nzeb-haus-rumaenien-vollstaendiger-ratgeber-2026). Nützliche Seiten: [Blaugelb Triotherm+ Vorwandmontagesystem](/de/nzeb-systeme/blaugelb-triotherm-plus-vorfenster) und [Ratgeber nZEB-Systeme](/de/nzeb-systeme/kompletter-ratgeber).`,
 
-      fr: `## Le problème que personne ne mentionne à la vente
+      fr: `## Le problème dont personne ne parle à la vente
 
-Vous pouvez acheter le profil PVC [Salamander BluEvolution 92](/fr/menuiserie-pvc) le plus performant, avec un Uw de 0,70 W/m²K et un triple vitrage à l'argon. Si la pose est incorrecte, **la fenêtre conserve moins de 60 % des performances thermiques payées**.
+Vous pouvez acheter le meilleur [profilé PVC Salamander](/fr/menuiserie-pvc), le bluEvolution 92, avec triple vitrage et intercalaire Warm Edge. Si la fenêtre est posée de façon classique, dans la baie maçonnée, dormant contre le mur, **une partie de la chaleur s’échappe quand même par les bords**, et la performance mesurée en laboratoire ne se retrouve plus entièrement dans la maison.
 
-Pourquoi ? À cause des **ponts thermiques périmétraux** — les zones autour de la fenêtre où la chaleur intérieure s'échappe directement vers l'extérieur à travers le matériau de construction.
+Pourquoi ? À cause des **ponts thermiques périphériques** — les zones autour de la fenêtre où la chaleur intérieure passe vers l’extérieur à travers la maçonnerie plus vite qu’à travers le mur ou la fenêtre elle-même.
 
-Les précadres **Blaugelb Triotherm+** existent précisément pour résoudre ce problème. Et pour les constructions qui doivent atteindre le **[standard nZEB](/fr/systemes-nzeb)**, leur utilisation est techniquement obligatoire.
+Les précadres **Blaugelb Triotherm+** ont été conçus précisément pour ce problème. La loi ne les exige pas nommément, mais dans une maison qui doit atteindre le **[standard nZEB](/fr/systemes-nzeb)**, chaque pont thermique compte dans le calcul, et le précadre est la solution la plus propre quand l’isolant de façade est épais.
 
 ---
 
 ## Que sont les précadres Blaugelb Triotherm+ ?
 
-Blaugelb est un fabricant allemand spécialisé exclusivement dans les systèmes de pose pour menuiseries. **Triotherm+** est la gamme haut de gamme pour l'isolation périphérique complète.
+Blaugelb est une marque allemande du groupe Meesenburg, spécialisée dans les systèmes de pose et d’étanchéité pour fenêtres et portes. **Triotherm+** est son système de pose en applique devant la maçonnerie, c’est-à-dire dans la couche isolante de la façade.
 
-Un précadre Blaugelb Triotherm+ est un **profil thermo-isolant** (λ = 0,035 W/mK) qui se monte dans l'embrasure maçonnée avant la fenêtre. Son rôle :
+Un précadre Blaugelb Triotherm+ est un **profilé en EPS haute densité** (λ = 0,040 W/mK) collé et fixé mécaniquement sur la maçonnerie autour de la baie, avant la pose de la fenêtre. Son rôle :
 
-1. **Élimine le pont thermique** entre le dormant et la maçonnerie
-2. **Crée un plan de pose** parfaitement plat et de niveau
-3. **Sépare thermiquement** la zone intérieure de l'extérieure
-4. **Permet l'intégration** des bandes d'étanchéité
+1. **Place la fenêtre dans le plan de l’isolant**, loin de la zone froide du mur
+2. **Porte le poids de la fenêtre** — plus de 200 kg par profilé, sans consoles métalliques
+3. **Crée un plan de pose** plat, sur lequel les bandes d’étanchéité adhèrent correctement
+4. **Reste stable** à l’humidité : il absorbe moins de 1,5 % d’eau en 28 jours et ne moisit pas
 
-### Composants du système complet
+### Composition du système complet
 
-- **Précadre Triotherm+** — le profil thermo-isolant principal
-- **Bande butyle précomprimée** — étanchéité extérieure (pluie, vent)
-- **Bande pare-vapeur** — barrière intérieure (condensation)
-- **Mousse polyuréthane** à densité contrôlée — remplissage de cavité
-- **Chevilles et vis spéciales** de fixation
-
----
-
-## Comment ça fonctionne thermiquement
-
-Sans précadre, le dormant PVC touche directement la maçonnerie. La maçonnerie conduit la chaleur. Entre l'intérieur (20°C) et l'extérieur (−10°C), la différence de 30°C crée un flux thermique direct à travers la maçonnerie.
-
-Résultat : **condensation sur le périmètre intérieur de la fenêtre**, zones froides à l'appui, **coûts énergétiques supplémentaires**.
-
-Avec un précadre Blaugelb Triotherm+, un matériau à conductivité extrêmement faible interrompt physiquement le pont thermique. La température de la surface intérieure reste proche de la température ambiante. **Plus de condensation périphérique.**
+- **Les profilés Triotherm+** — en largeurs de 70, 100, 120 et 160 mm, assemblés en queue d’aronde
+- **La bande précomprimée** — étanchéité extérieure à la pluie et au vent (Neofort BIZ utilise des bandes Soudal)
+- **La bande pare-vapeur** — côté intérieur, contre la condensation dans le joint
+- **La mousse polyuréthane** élastique — l’isolant au milieu du joint
+- **La colle et les chevilles** pour fixer les profilés sur la maçonnerie
 
 ---
 
-## Pourquoi est-ce obligatoire pour le nZEB ?
+## Comment cela fonctionne thermiquement
 
-Le **standard nZEB**, imposé par la Directive Européenne 2010/31/UE, exige une consommation d'énergie primaire inférieure à **100 kWh/m²/an** pour les bâtiments résidentiels neufs.
+En pose classique, le dormant se trouve dans la baie maçonnée et l’isolant de façade s’arrête au bord de la baie. La maçonnerie conduit la chaleur bien mieux que le polystyrène, si bien qu’un chemin froid se forme autour de la fenêtre. En hiver, avec 20 °C à l’intérieur et −10 °C dehors, la surface intérieure du tableau et des angles se refroidit.
 
-Le calcul énergétique inclut **tous les facteurs de transmission thermique**, y compris les ponts thermiques linéaires (Ψ — psi) autour des fenêtres. Sans les éliminer, **la certification nZEB ne peut pas être obtenue**, même si murs, toiture et plancher sont parfaitement isolés.
+Résultat : **condensation et, avec le temps, moisissures sur le pourtour intérieur de la fenêtre**, plus des pertes de chaleur qui n’apparaissent pas sur la fiche de la fenêtre.
 
-**Concrètement :** des ponts thermiques non isolés sur 10 fenêtres peuvent équivaloir à 15–20 kWh/m²/an de pertes — suffisant pour manquer le seuil nZEB.
+Avec un précadre Blaugelb Triotherm+, la fenêtre se trouve dans la couche isolante. Le profilé en EPS a une conductivité proche de celle de l’isolant de façade, ce qui interrompt le chemin froid. La surface intérieure reste plus proche de la température de la pièce et **le risque de condensation périphérique baisse nettement**.
 
 ---
 
-## Pose correcte — pas à pas
+## Quel rôle joue le précadre en nZEB ?
 
-**1. Préparation de l'embrasure**
-L'embrasure maçonnée doit être 6–8 cm plus grande que la fenêtre sur chaque côté. Surfaces propres, sèches, sans poussière.
+La loi roumaine n° 372/2005 sur la performance énergétique des bâtiments, telle que modifiée, transpose la directive européenne 2010/31/UE. Depuis fin 2020, les bâtiments neufs doivent être nZEB : consommation d’énergie primaire inférieure au seuil fixé pour la zone climatique et le type de bâtiment, avec au moins 30 % d’énergie d’origine renouvelable.
 
-**2. Pose du précadre**
-Fixation par chevilles chimiques ou mécaniques. Le niveau est critique — écart maximal **2 mm par mètre linéaire**.
+Le calcul énergétique, mené selon la méthodologie **Mc 001-2022**, intègre aussi les ponts thermiques linéaires (valeurs Ψ) autour des fenêtres. La loi ne cite pas les précadres, mais un pont thermique important à chaque fenêtre s’additionne et peut faire passer le bâtiment au-dessus du seuil.
 
-**3. Bande butyle extérieure**
-Appliquée sur la face extérieure du précadre, **avant** la mise en place de la fenêtre. Étanchéité continue contre l'eau et le vent.
+**Concrètement :** quand la fenêtre est posée dans l’isolant de façade, le précadre est la solution recommandée. Le système Blaugelb Triotherm+ est certifié par le Passive House Institute comme système de pose, avec une conductivité effective de 0,042 W/mK qui inclut aussi les pertes par les vis.
 
-**4. Mise en place de la fenêtre**
-La fenêtre est introduite dans le précadre et fixée. L'espace entre dormant et précadre (8–12 mm) est comblé avec de la **mousse PU à densité moyenne** — pas de mousse expansive bon marché.
+---
+
+## Pose correcte — étape par étape
+
+**1. Préparation de la baie**
+On vérifie la planéité de la maçonnerie autour de la baie. Les surfaces doivent être propres, sèches et sans poussière pour que la colle accroche.
+
+**2. Pose des profilés**
+Les profilés sont collés sur la maçonnerie et fixés mécaniquement tout autour de la baie. Ils s’assemblent en queue d’aronde et s’alignent avec soin, car leur plan devient celui de la fenêtre.
+
+**3. Bande précomprimée extérieure**
+Elle se colle sur le dormant **avant** la pose de la fenêtre. Après la pose, elle se dilate et ferme le joint contre la pluie et le vent, tout en laissant sortir la vapeur.
+
+**4. Pose de la fenêtre**
+La fenêtre est placée sur les profilés et vissée directement dans l’EPS, sans pré-perçage. Le joint restant est rempli de **mousse PU élastique** — la couche isolante du milieu.
 
 **5. Bande pare-vapeur intérieure**
-Bande continue côté intérieur — empêche la diffusion des vapeurs de la pièce vers la cavité de pose, évitant la condensation.
+Elle se colle en continu côté intérieur, entre le dormant et la maçonnerie. Elle empêche la vapeur de la maison d’entrer dans le joint et d’y condenser.
 
 **6. Finition**
-Les appuis intérieurs sont fixés sur le précadre, pas sur la maçonnerie — élimine le dernier pont thermique.
+L’isolant de façade est ramené sur les profilés et sur une partie du dormant. On ferme ainsi la dernière portion froide autour de la fenêtre.
 
 ---
 
-## Coût supplémentaire et retour sur investissement
+## Combien cela coûte et quand cela vaut la peine
 
-Une pose complète avec Blaugelb Triotherm+ coûte **15–25% de plus** que la pose classique. Pour une maison avec 12 fenêtres, la différence : 1 500–3 000 EUR.
+La pose avec précadres Blaugelb Triotherm+ coûte en plus **25 à 50 EUR par mètre linéaire de périmètre** pour les fenêtres PVC et **30 à 60 EUR** pour les fenêtres aluminium, hors TVA. Une fenêtre de 1,2 × 1,4 m a 5,2 m de périmètre, soit une différence d’environ 130 à 260 EUR en PVC. Pour une maison de 12 fenêtres de ce type, le surcoût atteint environ 1 500 à 3 100 EUR.
 
-**Récupération :** grâce à des économies de chauffage de 20–35 %, l'investissement est récupéré en **3–6 ans**. Sur 30 ans de durée de vie des fenêtres, les économies nettes dépassent de 5 à 8 fois le coût supplémentaire des précadres.
+Cela vaut surtout la peine dans les maisons neuves à isolant de façade épais et dans les maisons nZEB ou passives, où chaque pont thermique compte. Pour une rénovation simple, fenêtre posée dans la baie existante, une pose RAL avec bandes sur trois niveaux suffit en général.
 
 ---
 
 ## Conclusion
 
-Chez Neofort BIZ, **toutes nos poses** comprennent le système complet d'isolation périphérique Blaugelb. Nous ne fournissons pas de fenêtres sans garantir également une pose correcte. Contactez-nous pour une évaluation et un devis.
+Chez Neofort BIZ, la pose avec précadres Blaugelb Triotherm+ est une option que nous recommandons pour les maisons nZEB et les maisons à isolant épais. Les métrés se font après la signature du contrat, et nous envoyons le devis sous 48 heures après réception des dimensions.
 
 ## Questions fréquentes
 
 ### En quel matériau est fait un précadre Blaugelb Triotherm+ ?
 
-Le précadre Blaugelb Triotherm+ est un profilé isolant thermique (λ = 0,035 W/mK) posé dans la baie en maçonnerie avant la fenêtre. Il élimine le pont thermique entre dormant et maçonnerie, crée un plan de pose plat et de niveau, sépare thermiquement l'intérieur de l'extérieur et permet d'intégrer les bandes d'étanchéité.
+Le précadre Blaugelb Triotherm+ est un profilé en EPS haute densité, avec λ = 0,040 W/mK, collé et fixé mécaniquement sur la maçonnerie dans la couche isolante de la façade. Il reprend plus de 200 kg, ne craint pas l’humidité et est recyclable à 100 %.
 
-### Pourquoi la pose avec précadre est-elle obligatoire pour la certification nZEB ?
+### La pose avec précadres est-elle obligatoire pour la certification nZEB ?
 
-Sans résoudre les ponts thermiques périmétriques, une fenêtre performante (Uw 0,70) conserve moins de 60% de la performance thermique payée. Le précadre Triotherm+ élimine exactement ces ponts, et pour les bâtiments qui doivent atteindre le standard nZEB, son usage est techniquement obligatoire.
+Non. La loi n’exige pas de précadres, mais les ponts thermiques autour des fenêtres entrent dans le calcul énergétique selon Mc 001-2022. Quand la fenêtre est posée dans l’isolant de façade, le précadre est la solution recommandée, car il réduit nettement le pont thermique au joint.
 
-### De quoi se compose le système de pose Blaugelb complet ?
+### De quoi se compose le système de pose complet ?
 
-Le système complet comprend : le précadre Triotherm+ (profilé isolant principal), la bande butyle précomprimée (étanchéité extérieure contre pluie et vent), la bande d'étanchéité vapeur (barrière intérieure contre la condensation), une mousse polyuréthane à densité contrôlée et des ancrages de fixation spéciaux.
+Le système complet comprend les profilés Triotherm+, la bande précomprimée à l’extérieur (Neofort BIZ utilise des bandes Soudal), la bande pare-vapeur à l’intérieur, la mousse PU élastique au milieu du joint, ainsi que la colle et les chevilles qui fixent les profilés.
 
-### Combien de performance thermique perd-on avec une pose incorrecte ?
+### Que se passe-t-il si la fenêtre est posée sans précadre ?
 
-Avec une pose incorrecte, la fenêtre conserve moins de 60% de la performance thermique payée, à cause des ponts thermiques périmétriques — les zones autour de la fenêtre où la chaleur intérieure s'échappe directement dehors par le matériau de construction. Le précadre Blaugelb résout ce problème.
+La fenêtre reste dans la baie maçonnée et le mur conduit la chaleur sur son pourtour. Il y a des pertes de chaleur que la fiche de la fenêtre ne montre pas et, en hiver, de la condensation ou des moisissures sur le tableau et dans les angles. Une pose RAL avec bandes sur trois niveaux atténue le problème, sans placer la fenêtre dans l’isolant.
+
+### Combien coûte la pose avec précadres Blaugelb ?
+
+Le surcoût est de 25 à 50 EUR par mètre linéaire de périmètre pour les fenêtres PVC et de 30 à 60 EUR pour les fenêtres aluminium, hors TVA. Pour une fenêtre de 1,2 × 1,4 m, la différence est d’environ 130 à 260 EUR en PVC.
 
 ---
 
-Neofort BIZ pose des précadres Blaugelb Triotherm+ et de la menuiserie certifiée nZEB à Bucarest et Ilfov. Voir [les systèmes nZEB](/fr/systemes-nzeb) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet des fenêtres pour maisons nZEB](/fr/blog/fenetres-maison-nzeb-roumanie-guide-complet-2026). Pages utiles : [les précadres Blaugelb Triotherm+](/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus) et [le guide complet des systèmes nZEB](/fr/systemes-nzeb/guide-complet).`,
+Neofort BIZ pose des précadres Blaugelb Triotherm+ et des fenêtres pour maisons nZEB à Bucarest et en Ilfov. Découvrez [les systèmes nZEB](/fr/systemes-nzeb) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet des fenêtres pour maisons nZEB](/fr/blog/fenetres-maison-nzeb-roumanie-guide-complet-2026). Pages utiles : [les précadres Blaugelb Triotherm+](/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus) et [le guide complet des systèmes nZEB](/fr/systemes-nzeb/guide-complet).`,
 
-      es: `## El problema que nadie menciona en la venta
+      es: `## El problema del que nadie habla en la venta
 
-Puede comprar el [perfil PVC Salamander](/es/carpinteria-pvc) BluEvolution 92 más eficiente, con un Uw de 0,70 W/m²K y triple acristalamiento con argón. Si la instalación es incorrecta, **la ventana conserva menos del 60% de las prestaciones térmicas pagadas**.
+Puede comprar el mejor [perfil PVC Salamander](/es/carpinteria-pvc), el bluEvolution 92, con triple acristalamiento y separador Warm Edge. Si la ventana se monta de forma clásica, dentro del hueco de obra y con el marco contra el muro, **parte del calor se escapa igualmente por los bordes**, y el rendimiento medido en laboratorio ya no llega entero a la casa.
 
-¿Por qué? Por los **puentes térmicos perimetrales** — las zonas alrededor de la ventana donde el calor interior escapa directamente al exterior a través del material de construcción.
+¿Por qué? Por los **puentes térmicos perimetrales** — las zonas alrededor de la ventana donde el calor interior pasa al exterior a través de la fábrica más deprisa que a través del muro o de la propia ventana.
 
-Los premarcos **Blaugelb Triotherm+** existen precisamente para resolver este problema. Y para las construcciones que deben alcanzar el **[estándar nZEB](/es/sistemas-nzeb)**, su uso es técnicamente obligatorio.
+Los premarcos **Blaugelb Triotherm+** se diseñaron precisamente para este problema. La ley no los exige de forma expresa, pero en una casa que debe alcanzar el **[estándar nZEB](/es/sistemas-nzeb)** cada puente térmico cuenta en el cálculo, y el premarco es la solución más limpia cuando el aislamiento de fachada es grueso.
 
 ---
 
 ## ¿Qué son los premarcos Blaugelb Triotherm+?
 
-Blaugelb es un fabricante alemán especializado exclusivamente en sistemas de instalación para carpintería. **Triotherm+** es la gama de alta gama para el aislamiento perimetral completo.
+Blaugelb es una marca alemana del grupo Meesenburg, especializada en sistemas de montaje y sellado para ventanas y puertas. **Triotherm+** es su sistema de montaje delante del muro, es decir, en la capa de aislamiento de la fachada.
 
-Un premarco Blaugelb Triotherm+ es un **perfil termoaislante** (λ = 0,035 W/mK) que se instala en el hueco de la fábrica antes de la ventana. Su función:
+Un premarco Blaugelb Triotherm+ es un **perfil de EPS de alta densidad** (λ = 0,040 W/mK) que se pega y se fija mecánicamente a la fábrica alrededor del hueco, antes de la ventana. Su función:
 
-1. **Elimina el puente térmico** entre el marco y la fábrica
-2. **Crea un plano de instalación** perfectamente plano y nivelado
-3. **Separa térmicamente** la zona interior de la exterior
-4. **Permite la integración** de cintas de sellado
+1. **Lleva la ventana al plano del aislamiento**, lejos de la zona fría del muro
+2. **Soporta el peso de la ventana** — más de 200 kg por perfil, sin escuadras metálicas
+3. **Crea un plano de montaje** liso, sobre el que las cintas de sellado se adhieren bien
+4. **Se mantiene estable** con la humedad: absorbe menos del 1,5 % de agua en 28 días y no enmohece
 
-### Componentes del sistema completo
+### Composición del sistema completo
 
-- **Premarco Triotherm+** — el perfil termoaislante principal
-- **Cinta butílica precomprimida** — sellado exterior (lluvia, viento)
-- **Cinta barrera de vapor** — barrera interior (condensación)
-- **Espuma de poliuretano** de densidad controlada — relleno de cavidad
-- **Anclajes y tornillos especiales** de fijación
+- **Los perfiles Triotherm+** — en anchos de 70, 100, 120 y 160 mm, unidos en cola de milano
+- **La cinta precomprimida** — sellado exterior frente a lluvia y viento (Neofort BIZ usa cintas Soudal)
+- **La cinta de barrera de vapor** — por el interior, contra la condensación en la junta
+- **La espuma de poliuretano** elástica — el aislamiento del centro de la junta
+- **El adhesivo y los tacos** para fijar los perfiles a la fábrica
 
 ---
 
 ## Cómo funciona térmicamente
 
-Sin premarco, el marco de PVC toca directamente la fábrica. La fábrica conduce el calor. Entre interior (20°C) y exterior (−10°C), la diferencia de 30°C crea un flujo térmico directo a través de la fábrica.
+En el montaje clásico, el marco queda en el hueco de obra y el aislamiento de fachada termina en el borde del hueco. La fábrica conduce el calor mucho mejor que el poliestireno, así que se forma un camino frío alrededor de la ventana. En invierno, con 20 °C dentro y −10 °C fuera, la superficie interior de la jamba y de las esquinas se enfría.
 
-Resultado: **condensación en el perímetro interior de la ventana**, zonas frías en el alféizar, **costes energéticos adicionales**.
+El resultado: **condensación y, con el tiempo, moho en el perímetro interior de la ventana**, además de pérdidas de calor que no aparecen en la ficha de la ventana.
 
-Con un premarco Blaugelb Triotherm+, un material con conductividad extremadamente baja interrumpe físicamente el puente térmico. La temperatura de la superficie interior se mantiene cercana a la temperatura ambiente. **No más condensación perimetral.**
-
----
-
-## ¿Por qué es obligatorio para el nZEB?
-
-El **estándar nZEB**, impuesto por la Directiva Europea 2010/31/UE, exige un consumo de energía primaria inferior a **100 kWh/m²/año** para edificios residenciales nuevos.
-
-El cálculo energético incluye **todos los factores de transmisión térmica**, incluyendo los puentes térmicos lineales (Ψ — psi) alrededor de las ventanas. Sin eliminarlos, **no se puede obtener la certificación nZEB** aunque paredes, techo y suelo estén perfectamente aislados.
-
-**En concreto:** puentes térmicos no aislados en 10 ventanas pueden equivaler a 15–20 kWh/m²/año de pérdidas — suficiente para no alcanzar el umbral nZEB.
+Con un premarco Blaugelb Triotherm+, la ventana queda en la capa de aislamiento. El perfil de EPS tiene una conductividad parecida a la del aislamiento de fachada, de modo que el camino frío se interrumpe. La superficie interior se mantiene más cerca de la temperatura de la habitación y **el riesgo de condensación perimetral baja mucho**.
 
 ---
 
-## Instalación correcta — paso a paso
+## ¿Qué papel tiene el premarco en un nZEB?
+
+La Ley rumana n.º 372/2005 sobre la eficiencia energética de los edificios, con sus modificaciones, transpone la Directiva europea 2010/31/UE. Desde finales de 2020, los edificios nuevos deben ser nZEB: consumo de energía primaria por debajo del umbral fijado para la zona climática y el tipo de edificio, con al menos un 30 % de energía de fuentes renovables.
+
+El cálculo energético, que se hace con la metodología **Mc 001-2022**, incluye también los puentes térmicos lineales (valores Ψ) alrededor de las ventanas. La ley no menciona los premarcos, pero un puente térmico grande en cada ventana se va sumando y puede llevar el edificio por encima del umbral.
+
+**En la práctica:** cuando la ventana se monta en el aislamiento de la fachada, el premarco es la solución recomendada. El sistema Blaugelb Triotherm+ está certificado por el Passive House Institute como sistema de montaje, con una conductividad efectiva de 0,042 W/mK que incluye también las pérdidas por los tornillos.
+
+---
+
+## Montaje correcto — paso a paso
 
 **1. Preparación del hueco**
-El hueco de fábrica debe ser 6–8 cm mayor que la ventana en cada lado. Superficies limpias, secas, sin polvo.
+Se comprueba la planeidad de la fábrica alrededor del hueco. Las superficies deben estar limpias, secas y sin polvo para que el adhesivo agarre.
 
-**2. Instalación del premarco**
-Fijación con anclajes químicos o mecánicos. La nivelación es crítica — desviación máxima **2 mm por metro lineal**.
+**2. Montaje de los perfiles**
+Los perfiles se pegan a la fábrica y se fijan mecánicamente en todo el contorno del hueco. Se unen en cola de milano y se alinean con cuidado, porque su plano pasa a ser el plano de la ventana.
 
-**3. Cinta butílica exterior**
-Se aplica en la cara exterior del premarco, **antes** de colocar la ventana. Sellado continuo contra el agua y el viento.
+**3. Cinta precomprimida exterior**
+Se pega en el marco **antes** de montar la ventana. Tras el montaje se expande y cierra la junta frente a la lluvia y el viento, aunque deja salir el vapor.
 
-**4. Colocación de la ventana**
-La ventana se introduce en el premarco y se fija. El espacio entre marco y premarco (8–12 mm) se rellena con **espuma PU de densidad media** — no espuma expansiva barata.
+**4. Montaje de la ventana**
+La ventana se coloca sobre los perfiles y se atornilla directamente al EPS, sin pretaladrar. La junta que queda se rellena con **espuma de PU elástica** — la capa aislante del centro.
 
-**5. Cinta barrera de vapor interior**
-Cinta continua en el interior — impide la difusión de vapores desde la habitación hacia la cavidad de instalación, evitando la condensación.
+**5. Cinta de vapor interior**
+Se pega de forma continua por el interior, entre el marco y la fábrica. Impide que el vapor de la casa entre en la junta y condense allí.
 
 **6. Acabado**
-Los alféizares interiores se fijan al premarco, no a la fábrica — elimina el último puente térmico.
+El aislamiento de fachada se lleva por encima de los perfiles y de parte del marco. Así se cierra también el último tramo frío alrededor de la ventana.
 
 ---
 
-## Coste adicional y retorno de la inversión
+## Cuánto cuesta y cuándo compensa
 
-Una instalación completa con Blaugelb Triotherm+ cuesta **15–25% más** que la instalación estándar. Para una casa con 12 ventanas, la diferencia: 1.500–3.000 EUR.
+El montaje con premarcos Blaugelb Triotherm+ cuesta **25–50 EUR más por metro lineal de perímetro** en ventanas de PVC y **30–60 EUR** en ventanas de aluminio, sin IVA. Una ventana de 1,2 × 1,4 m tiene 5,2 m de perímetro, así que la diferencia ronda los 130–260 EUR en PVC. En una casa con 12 ventanas así, el coste adicional llega a unos 1.500–3.100 EUR.
 
-**Recuperación:** mediante ahorros en calefacción del 20–35%, la inversión se recupera en **3–6 años**. A lo largo de 30 años de vida útil de la ventana, los ahorros netos superan entre 5 y 8 veces el coste adicional de los premarcos.
+Compensa sobre todo en casas nuevas con aislamiento de fachada grueso y en casas nZEB o pasivas, donde cada puente térmico cuenta. En una renovación sencilla, con la ventana en el hueco existente, suele bastar un montaje RAL con cintas en tres niveles.
 
 ---
 
 ## Conclusión
 
-En Neofort BIZ, **todas nuestras instalaciones** incluyen el sistema completo de aislamiento perimetral Blaugelb. No suministramos ventanas sin garantizar también la instalación correcta. Contáctenos para evaluación y presupuesto.
+En Neofort BIZ, el montaje con premarcos Blaugelb Triotherm+ es una opción que recomendamos para casas nZEB y casas con aislamiento grueso. Las mediciones se hacen después de firmar el contrato, y enviamos el presupuesto en 48 horas desde que recibimos las dimensiones.
 
 ## Preguntas frecuentes
 
-### ¿De qué material está hecho un premarco Blaugelb Triotherm+?
+### ¿De qué material es un premarco Blaugelb Triotherm+?
 
-El premarco Blaugelb Triotherm+ es un perfil aislante térmico (λ = 0,035 W/mK) montado en el hueco de obra antes de la ventana. Elimina el puente térmico entre marco y muro, crea un plano de montaje plano y nivelado, separa térmicamente el interior del exterior y permite integrar las bandas de sellado.
+El premarco Blaugelb Triotherm+ es un perfil de EPS de alta densidad, con λ = 0,040 W/mK, que se pega y se fija mecánicamente a la fábrica en la capa de aislamiento de la fachada. Soporta más de 200 kg, resiste la humedad y es 100 % reciclable.
 
-### ¿Por qué es obligatorio el montaje con premarco para la certificación nZEB?
+### ¿Es obligatorio el montaje con premarcos para la certificación nZEB?
 
-Sin resolver los puentes térmicos perimetrales, una ventana eficiente (Uw 0,70) conserva menos del 60% del rendimiento térmico pagado. El premarco Triotherm+ elimina exactamente estos puentes, y para edificios que deben alcanzar el estándar nZEB, su uso es técnicamente obligatorio.
+No. La ley no exige premarcos, pero los puentes térmicos alrededor de las ventanas entran en el cálculo energético según Mc 001-2022. Cuando la ventana se monta en el aislamiento de la fachada, el premarco es la solución recomendada porque reduce mucho el puente térmico de la junta.
 
-### ¿De qué se compone el sistema de montaje Blaugelb completo?
+### ¿De qué se compone el sistema de montaje completo?
 
-El sistema completo incluye: el premarco Triotherm+ (perfil aislante principal), la banda butílica precomprimida (sellado exterior contra lluvia y viento), la banda de sellado de vapor (barrera interior contra la condensación), espuma de poliuretano de densidad controlada y anclajes de fijación especiales.
+El sistema completo tiene los perfiles Triotherm+, la cinta precomprimida por fuera (Neofort BIZ usa cintas Soudal), la cinta de barrera de vapor por dentro, la espuma de PU elástica en el centro de la junta y el adhesivo y los tacos que fijan los perfiles.
 
-### ¿Cuánto rendimiento térmico se pierde con un montaje incorrecto?
+### ¿Qué pasa si la ventana se monta sin premarco?
 
-Con un montaje incorrecto, la ventana conserva menos del 60% del rendimiento térmico pagado, debido a los puentes térmicos perimetrales — las zonas alrededor de la ventana donde el calor interior escapa directamente al exterior por el material de construcción. El premarco Blaugelb resuelve este problema.
+La ventana se queda en el hueco de obra y el muro conduce el calor por su contorno. Hay pérdidas de calor que la ficha de la ventana no muestra y, en invierno, condensación o moho en la jamba y en las esquinas. Un montaje RAL con cintas en tres niveles reduce el problema, pero no lleva la ventana al aislamiento.
 
----
+### ¿Cuánto cuesta el montaje con premarcos Blaugelb?
 
-Neofort BIZ instala premarcos Blaugelb Triotherm+ y carpintería certificada nZEB en Bucarest e Ilfov. Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía completa de ventanas para casas nZEB](/es/blog/ventanas-casa-nzeb-rumania-guia-completa-2026). Páginas útiles: [los premarcos Blaugelb Triotherm+](/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus) y [la guía completa de sistemas nZEB](/es/sistemas-nzeb/guia-completa).`,
-
-      it: `## Il problema che nessuno menziona al momento della vendita
-
-Potete acquistare il [profilo PVC Salamander](/it/infissi-pvc) BluEvolution 92 più performante, con un Uw di 0,70 W/m²K e triplo vetro con argon. Se l'installazione è errata, **la finestra conserva meno del 60% delle prestazioni termiche pagate**.
-
-Perché? A causa dei **ponti termici perimetrali** — le aree attorno alla finestra dove il calore interno fuoriesce direttamente verso l'esterno attraverso il materiale da costruzione.
-
-I controtelai **Blaugelb Triotherm+** esistono proprio per risolvere questo problema. E per le costruzioni che devono raggiungere lo **[standard nZEB](/it/sistemi-nzeb)**, il loro utilizzo è tecnicamente obbligatorio.
+El coste adicional es de 25–50 EUR por metro lineal de perímetro en ventanas de PVC y de 30–60 EUR en ventanas de aluminio, sin IVA. En una ventana de 1,2 × 1,4 m, la diferencia ronda los 130–260 EUR en PVC.
 
 ---
 
-## Cosa sono i controtelai Blaugelb Triotherm+?
+Neofort BIZ instala premarcos Blaugelb Triotherm+ y ventanas para casas nZEB en Bucarest e Ilfov. Consulta [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos o [solicita un presupuesto](/es/contacto). Consulta también [la guía completa de ventanas para casas nZEB](/es/blog/ventanas-casa-nzeb-rumania-guia-completa-2026). Páginas útiles: [los premarcos Blaugelb Triotherm+](/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus) y [la guía completa de sistemas nZEB](/es/sistemas-nzeb/guia-completa).`,
 
-Blaugelb è un produttore tedesco specializzato esclusivamente in sistemi di installazione per serramenti. **Triotherm+** è la gamma di punta per l'isolamento perimetrale completo.
+      it: `## Il problema di cui nessuno parla alla vendita
 
-Un precassonetto Blaugelb Triotherm+ è un **profilo termo-isolante** (λ = 0,035 W/mK) che si installa nell'apertura muraria prima della finestra. Il suo ruolo:
+Potete acquistare il miglior [profilo PVC Salamander](/it/infissi-pvc), il bluEvolution 92, con triplo vetro e distanziale Warm Edge. Se la finestra viene posata in modo classico, nel vano in muratura con il telaio contro il muro, **una parte del calore esce comunque dai bordi**, e la prestazione misurata in laboratorio non arriva più per intero in casa.
 
-1. **Elimina il ponte termico** tra il telaio e la muratura
-2. **Crea un piano di installazione** perfettamente piatto e livellato
-3. **Separa termicamente** la zona interna da quella esterna
-4. **Consente l'integrazione** dei nastri di tenuta
+Perché? A causa dei **ponti termici perimetrali** — le zone attorno alla finestra in cui il calore interno passa verso l’esterno attraverso la muratura più in fretta che attraverso il muro o la finestra stessa.
 
-### Componenti del sistema completo
-
-- **Precassonetto Triotherm+** — il profilo termo-isolante principale
-- **Nastro butilic pre-compresso** — tenuta esterna (pioggia, vento)
-- **Nastro barriera vapore** — barriera interna (condensazione)
-- **Schiuma poliuretanica** a densità controllata — riempimento cavità
-- **Ancoraggi e viti speciali** di fissaggio
+I controtelai **Blaugelb Triotherm+** sono stati progettati proprio per questo problema. La legge non li richiede espressamente, ma in una casa che deve raggiungere lo **[standard nZEB](/it/sistemi-nzeb)** ogni ponte termico conta nel calcolo, e il controtelaio è la soluzione più pulita quando l’isolamento della facciata è spesso.
 
 ---
 
-## Come funziona termicamente
+## Che cosa sono i controtelai Blaugelb Triotherm+?
 
-Senza precassonetto, il telaio PVC tocca direttamente la muratura. La muratura conduce il calore. Tra interno (20°C) ed esterno (−10°C), la differenza di 30°C crea un flusso termico diretto attraverso la muratura.
+Blaugelb è un marchio tedesco del gruppo Meesenburg, specializzato in sistemi di posa e di tenuta per finestre e porte. **Triotherm+** è il suo sistema di posa davanti al muro, cioè nello strato isolante della facciata.
 
-Risultato: **condensazione sul perimetro interno della finestra**, zone fredde al davanzale, **costi energetici aggiuntivi**.
+Un controtelaio Blaugelb Triotherm+ è un **profilo in EPS ad alta densità** (λ = 0,040 W/mK) che si incolla e si fissa meccanicamente alla muratura attorno al vano, prima della finestra. Il suo ruolo:
 
-Con un precassonetto Blaugelb Triotherm+, un materiale a conduttività estremamente bassa interrompe fisicamente il ponte termico. La temperatura della superficie interna rimane vicina alla temperatura ambiente. **Nessuna condensazione perimetrale.**
+1. **Porta la finestra nel piano dell’isolamento**, lontano dalla zona fredda del muro
+2. **Regge il peso della finestra** — oltre 200 kg per profilo, senza staffe metalliche
+3. **Crea un piano di posa** liscio, su cui i nastri di tenuta aderiscono bene
+4. **Resta stabile** con l’umidità: assorbe meno dell’1,5% di acqua in 28 giorni e non ammuffisce
 
----
+### Composizione del sistema completo
 
-## Perché è obbligatorio per il nZEB?
-
-Lo **standard nZEB**, imposto dalla Direttiva Europea 2010/31/UE, richiede un consumo di energia primaria inferiore a **100 kWh/m²/anno** per nuovi edifici residenziali.
-
-Il calcolo energetico include **tutti i fattori di trasmissione termica**, inclusi i ponti termici lineari (Ψ — psi) attorno alle finestre. Senza eliminarli, **la certificazione nZEB non può essere ottenuta** anche se pareti, tetto e pavimento sono perfettamente isolati.
-
-**In concreto:** ponti termici non isolati su 10 finestre possono equivalere a 15–20 kWh/m²/anno di perdite — sufficiente per mancate il soglia nZEB.
-
----
-
-## Installazione corretta — passo dopo passo
-
-**1. Preparazione dell'apertura**
-L'apertura muraria deve essere 6–8 cm più grande della finestra su ogni lato. Superfici pulite, asciutte, senza polvere.
-
-**2. Installazione del precassonetto**
-Fissaggio con ancoraggi chimici o meccanici. Il livellamento è critico — deviazione massima **2 mm per metro lineare**.
-
-**3. Nastro butilic esterno**
-Applicato sulla faccia esterna del precassonetto, **prima** di inserire la finestra. Tenuta continua contro acqua e vento.
-
-**4. Inserimento della finestra**
-La finestra viene inserita nel precassonetto e fissata. Lo spazio tra telaio e precassonetto (8–12 mm) viene riempito con **schiuma PU a densità media** — non schiuma espansiva economica.
-
-**5. Nastro barriera vapore interno**
-Nastro continuo all'interno — impedisce la diffusione del vapore dalla stanza alla cavità di installazione, evitando la condensazione.
-
-**6. Rifinitura**
-I davanzali interni vengono fissati al precassonetto, non alla muratura — elimina l'ultimo ponte termico.
+- **I profili Triotherm+** — nelle larghezze di 70, 100, 120 e 160 mm, uniti a coda di rondine
+- **Il nastro precompresso** — tenuta esterna a pioggia e vento (Neofort BIZ usa nastri Soudal)
+- **Il nastro barriera al vapore** — sul lato interno, contro la condensa nel giunto
+- **La schiuma poliuretanica** elastica — l’isolamento al centro del giunto
+- **L’adesivo e i tasselli** per fissare i profili alla muratura
 
 ---
 
-## Costo aggiuntivo e ritorno sull'investimento
+## Come funziona dal punto di vista termico
 
-Un'installazione completa con Blaugelb Triotherm+ costa **15–25% in più** rispetto all'installazione standard. Per una casa con 12 finestre, la differenza: 1.500–3.000 EUR.
+Nella posa classica il telaio sta nel vano in muratura e l’isolamento della facciata si ferma al bordo del vano. La muratura conduce il calore molto meglio del polistirene, così attorno alla finestra si forma un percorso freddo. D’inverno, con 20 °C dentro e −10 °C fuori, la superficie interna della spalletta e degli angoli si raffredda.
 
-**Recupero:** tramite risparmi sul riscaldamento del 20–35%, l'investimento si recupera in **3–6 anni**. Su 30 anni di vita della finestra, i risparmi netti superano di 5–8 volte il costo aggiuntivo dei controtelai.
+Il risultato: **condensa e, con il tempo, muffa sul perimetro interno della finestra**, più dispersioni di calore che non compaiono nella scheda della finestra.
+
+Con un controtelaio Blaugelb Triotherm+, la finestra si trova nello strato isolante. Il profilo in EPS ha una conducibilità vicina a quella dell’isolamento di facciata, quindi il percorso freddo si interrompe. La superficie interna resta più vicina alla temperatura della stanza e **il rischio di condensa perimetrale cala molto**.
+
+---
+
+## Che ruolo ha il controtelaio in un nZEB?
+
+La Legge rumena n. 372/2005 sulla prestazione energetica degli edifici, con le successive modifiche, recepisce la Direttiva europea 2010/31/UE. Dalla fine del 2020 i nuovi edifici devono essere nZEB: consumo di energia primaria sotto la soglia fissata per la zona climatica e il tipo di edificio, con almeno il 30% di energia da fonti rinnovabili.
+
+Il calcolo energetico, svolto secondo la metodologia **Mc 001-2022**, comprende anche i ponti termici lineari (valori Ψ) attorno alle finestre. La legge non nomina i controtelai, ma un ponte termico grande a ogni finestra si somma e può portare l’edificio oltre la soglia.
+
+**In pratica:** quando la finestra si posa nell’isolamento della facciata, il controtelaio è la soluzione consigliata. Il sistema Blaugelb Triotherm+ è certificato dal Passive House Institute come sistema di posa, con una conducibilità effettiva di 0,042 W/mK che comprende anche le perdite attraverso le viti.
+
+---
+
+## Posa corretta — passo dopo passo
+
+**1. Preparazione del vano**
+Si verifica la planarità della muratura attorno al vano. Le superfici devono essere pulite, asciutte e senza polvere perché l’adesivo faccia presa.
+
+**2. Montaggio dei profili**
+I profili si incollano alla muratura e si fissano meccanicamente lungo tutto il contorno del vano. Si uniscono a coda di rondine e si allineano con cura, perché il loro piano diventa il piano della finestra.
+
+**3. Nastro precompresso esterno**
+Si applica sul telaio **prima** della posa della finestra. Dopo la posa si espande e chiude il giunto contro pioggia e vento, lasciando però uscire il vapore.
+
+**4. Posa della finestra**
+La finestra si appoggia sui profili e si avvita direttamente nell’EPS, senza preforatura. Il giunto rimasto si riempie con **schiuma PU elastica** — lo strato isolante centrale.
+
+**5. Nastro al vapore interno**
+Si applica in modo continuo sul lato interno, tra telaio e muratura. Impedisce al vapore della casa di entrare nel giunto e di condensare lì.
+
+**6. Finitura**
+L’isolamento della facciata si porta sopra i profili e sopra una parte del telaio. Così si chiude anche l’ultimo tratto freddo attorno alla finestra.
+
+---
+
+## Quanto costa e quando conviene
+
+La posa con controtelai Blaugelb Triotherm+ costa **25–50 EUR in più per metro lineare di perimetro** per le finestre in PVC e **30–60 EUR** per quelle in alluminio, IVA esclusa. Una finestra di 1,2 × 1,4 m ha 5,2 m di perimetro, quindi la differenza è di circa 130–260 EUR in PVC. In una casa con 12 finestre di questo tipo, il costo aggiuntivo arriva a circa 1.500–3.100 EUR.
+
+Conviene soprattutto nelle case nuove con isolamento di facciata spesso e nelle case nZEB o passive, dove ogni ponte termico conta. In una ristrutturazione semplice, con la finestra posata nel vano esistente, di solito basta una posa RAL con nastri su tre livelli.
 
 ---
 
 ## Conclusione
 
-Da Neofort BIZ, **tutte le nostre installazioni** includono il sistema completo di isolamento perimetrale Blaugelb. Non forniamo finestre senza garantire anche l'installazione corretta. Contattateci per una valutazione e un preventivo.
+Da Neofort BIZ la posa con controtelai Blaugelb Triotherm+ è un’opzione che consigliamo per le case nZEB e per quelle con isolamento spesso. I rilievi si fanno dopo la firma del contratto e inviamo il preventivo entro 48 ore dal ricevimento delle misure.
 
 ## Domande frequenti
 
-### Di quale materiale è fatto un controtelaio Blaugelb Triotherm+?
+### Di che materiale è fatto un controtelaio Blaugelb Triotherm+?
 
-Il controtelaio Blaugelb Triotherm+ è un profilo termoisolante (λ = 0,035 W/mK) montato nel vano in muratura prima della finestra. Elimina il ponte termico tra telaio e muratura, crea un piano di posa piatto e a livello, separa termicamente l'interno dall'esterno e permette di integrare i nastri di sigillatura.
+Il controtelaio Blaugelb Triotherm+ è un profilo in EPS ad alta densità, con λ = 0,040 W/mK, che si incolla e si fissa meccanicamente alla muratura nello strato isolante della facciata. Regge oltre 200 kg, non teme l’umidità ed è riciclabile al 100%.
 
-### Perché la posa con controtelaio è obbligatoria per la certificazione nZEB?
+### La posa con controtelai è obbligatoria per la certificazione nZEB?
 
-Senza risolvere i ponti termici perimetrali, una finestra performante (Uw 0,70) mantiene meno del 60% delle prestazioni termiche pagate. Il controtelaio Triotherm+ elimina esattamente questi ponti, e per gli edifici che devono raggiungere lo standard nZEB, il suo uso è tecnicamente obbligatorio.
+No. La legge non richiede i controtelai, ma i ponti termici attorno alle finestre entrano nel calcolo energetico secondo Mc 001-2022. Quando la finestra si posa nell’isolamento della facciata, il controtelaio è la soluzione consigliata perché riduce molto il ponte termico al giunto.
 
-### Di cosa è composto il sistema di posa Blaugelb completo?
+### Da che cosa è composto il sistema di posa completo?
 
-Il sistema completo include: il controtelaio Triotherm+ (profilo termoisolante principale), il nastro butilico precompresso (sigillatura esterna contro pioggia e vento), il nastro di tenuta al vapore (barriera interna contro la condensa), schiuma poliuretanica a densità controllata e ancoraggi di fissaggio speciali.
+Il sistema completo comprende i profili Triotherm+, il nastro precompresso all’esterno (Neofort BIZ usa nastri Soudal), il nastro barriera al vapore all’interno, la schiuma PU elastica al centro del giunto e l’adesivo e i tasselli che fissano i profili.
 
-### Quanta prestazione termica si perde con una posa errata?
+### Che cosa succede se la finestra si posa senza controtelaio?
 
-Con una posa errata, la finestra mantiene meno del 60% delle prestazioni termiche pagate, a causa dei ponti termici perimetrali — le zone attorno alla finestra dove il calore interno fugge direttamente all'esterno attraverso il materiale da costruzione. Il controtelaio Blaugelb risolve questo problema.
+La finestra resta nel vano in muratura e il muro conduce il calore lungo il suo contorno. Ci sono dispersioni di calore che la scheda della finestra non mostra e, d’inverno, condensa o muffa sulla spalletta e negli angoli. Una posa RAL con nastri su tre livelli riduce il problema, ma non porta la finestra nell’isolamento.
+
+### Quanto costa la posa con controtelai Blaugelb?
+
+Il costo aggiuntivo è di 25–50 EUR per metro lineare di perimetro per le finestre in PVC e di 30–60 EUR per quelle in alluminio, IVA esclusa. Per una finestra di 1,2 × 1,4 m la differenza è di circa 130–260 EUR in PVC.
 
 ---
 
-Neofort BIZ installa controtelai Blaugelb Triotherm+ e serramenti certificati nZEB a Bucarest e Ilfov. Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa alle finestre per case nZEB](/it/blog/finestre-casa-nzeb-romania-guida-completa-2026). Pagine utili: [i precontrotelai Blaugelb Triotherm+](/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus) e [la guida completa ai sistemi nZEB](/it/sistemi-nzeb/guida-completa).`,
+Neofort BIZ posa controtelai Blaugelb Triotherm+ e finestre per case nZEB a Bucarest e Ilfov. Scopri [i sistemi nZEB](/it/sistemi-nzeb) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa alle finestre per case nZEB](/it/blog/finestre-casa-nzeb-romania-guida-completa-2026). Pagine utili: [i controtelai Blaugelb Triotherm+](/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus) e [la guida completa ai sistemi nZEB](/it/sistemi-nzeb/guida-completa).`,
     },
   },
 
@@ -13656,7 +13680,7 @@ Empfohlen für: Wohnblöcke, Büros, Gewerbeflächen, Renovierungen mit mittlere
 
 Das beste Wärmedämmfenster wird nutzlos, wenn es falsch eingebaut wird. Bei Neofort BIZ verwenden wir immer:
 
-- **Blaugelb Triotherm+ Vorfensterrahmen** — beseitigen die Wärmebrücke in der Einbauzone
+- **Blaugelb Triotherm+ Vorblendrahmen** — beseitigen die Wärmebrücke in der Einbauzone
 - **Vorkomprimiertes Band** außen — Wind- und Wasserdichtung
 - **Dampfsperrband** innen — Dampfdiffusionsbarriere
 - **Warm Edge Abstandhalter** im Glas — beseitigen die Wärmebrücke am Verglasungsrand

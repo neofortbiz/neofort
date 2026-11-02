@@ -271,8 +271,8 @@
           "100% recyclable",
           "Free of HCFC, HFC, HBCD",
           "Dense expanded polystyrene",
-          "Thermal conductivity 0.040 W/m2K",
-          "Clip system",
+          "Thermal conductivity λ 0.040 W/mK",
+          "Bonded and mechanically fixed to masonry",
           "Any length installation",
           "nZEB compliant"
         ]
@@ -310,7 +310,7 @@
           "Thermoplastic spacer profile",
           "Wide color range",
           "Depth 7.5-19.5 mm",
-          "Thermal conductivity 0.035 W/m²K",
+          "Edge Ψ value ≈ 0.03 W/mK",
           "Self-adhesive on both sides",
           "Long-lasting resistance",
           "Flexible and rigid range"
@@ -379,7 +379,7 @@
     "description": "Neofort BIZ — 21 years experience in Salamander PVC and Alumil aluminium windows. Registered trademark OSIM. Str. Theodor Aman 11, Sector 1, Bucharest, Romania."
   },
   "contact": {
-    "title": "Contact Neofort BIZ | Window Quote Bucharest",
+    "title": "Contact Neofort BIZ | Window Quote Europe",
     "description": "Contact Neofort BIZ for a PVC Salamander or Alumil aluminium window quote. Tel: +40 21 528 06 61. Str. Theodor Aman 11, Sector 1, Bucharest. Export Europe.",
     "address": "Str. Theodor Aman Pictor 11, sector 1, Bucharest, 010776, Romania",
     "phone_office": "+40215280661",

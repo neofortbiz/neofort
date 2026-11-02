@@ -130,7 +130,7 @@ const UI = {
       ['Öffnungstyp', 'Dreh-Kipp < Schiebe < Hebe-Schiebe < Falttür — zunehmende Komplexität'],
       ['RAL-Farbe', 'Standardlackierung (7 Farben) enthalten; spezielle RAL-Farben +8–15% auf Profilpreis'],
       ['Beschläge', 'Standard vs Einbruchschutz RC2/RC3 — 50–150 EUR Unterschied pro Fenster'],
-      ['Einbau', 'Standard vs nZEB mit Blaugelb Triotherm+ Vorfenstern — 30–60 EUR/lm Unterschied'],
+      ['Einbau', 'Standard vs nZEB mit Blaugelb Triotherm+ Vorblendrahmen — 30–60 EUR/lm Unterschied'],
     ],
     cta_h: 'Persönliches Angebot anfordern',
     cta_sub: 'Genauer Preis nach dem Aufmaß vor Ort.',

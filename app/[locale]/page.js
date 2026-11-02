@@ -178,7 +178,7 @@ const CONTENT = {
     products: [
       { href:'/tamplarie-pvc', topColor:'#4a7c59', tag:'Kunststofffenster Salamander', title:'Salamander PVC-Profile', desc:'Wir liefern PVC Salamander BluEvolution 92 und GreenEvolution 76 Fenster aus den Premiumsortimenten, auf automatisierten Linien gefertigt und nZEB-kompatibel.', btn:'card-btn card-btn-pvc' },
       { href:'/tamplarie-aluminiu', topColor:'#2d5a8e', tag:'Aluminiumfenster Alumil', title:'Alumil Aluminiumsysteme', desc:'Wir liefern Alumil Supreme und Smartia Aluminium — Wärmedämmsysteme für Fenster, Türen, Hebeschiebe, Schiebeanlagen und Vorhangfassaden, nZEB-zertifiziert.', btn:'card-btn card-btn-aluminiu' },
-      { href:'/sisteme-nzeb', topColor:'#1a6ca8', tag:'nZEB-Systeme', title:'Niedrigstenergielösungen', desc:'Blaugelb Triotherm+ Vorfenster, Dichtbänder, Warm Edge Abstandhalter, Dreifach-Low-E-Glas, Komplettlösungen für nZEB-Zertifizierung und Passivhaus.', btn:'card-btn card-btn-aluminiu' },
+      { href:'/sisteme-nzeb', topColor:'#1a6ca8', tag:'nZEB-Systeme', title:'Niedrigstenergielösungen', desc:'Blaugelb Triotherm+ Vorblendrahmen, Dichtbänder, Warm Edge Abstandhalter, Dreifach-Low-E-Glas, Komplettlösungen für nZEB-Zertifizierung und Passivhaus.', btn:'card-btn card-btn-aluminiu' },
     ],
     sec_label_steps: 'Unsere Arbeitsweise',
     steps_h2: 'Ablauf der Zusammenarbeit',
@@ -202,7 +202,7 @@ const CONTENT = {
       { q:'Welche PVC Salamander Fenster liefern Sie?', a:'Wir liefern PVC Salamander Fenster aus den Sortimenten BluEvolution 92 (6 Kammern, Uw 0,70 W/m²K, nZEB-zertifiziert) und GreenEvolution 76. Erhältlich in aluminiumverkleideter, Flex- und Round-Ausführung, mit 2- oder 3-Scheiben Saint-Gobain Warm-Edge Isolierglas.' },
       { q:'Liefern Sie auch Alumil Aluminiumfenster?', a:'Ja, wir liefern komplette Alumil Aluminiumfenstersysteme: S77 Supreme, S67 Smartia, S700/S350 Hebeschiebe, SF85 M19800 Faltsystem und Vorhangfassaden. Alle mit fortschrittlicher Wärmedämmung, nZEB-zertifiziert.' },
       { q:'Liefern und montieren Sie Fenster auch außerhalb Rumäniens?', a:'Ja, Neofort BIZ liefert und montiert in ganz Europa — Deutschland, Österreich, Italien, Frankreich, Spanien, Belgien und anderen EU-Ländern. Auch Export-Abholung aus dem Lager verfügbar.' },
-      { q:'Was sind Blaugelb Triotherm+ Vorfenster und warum sind sie wichtig?', a:'Blaugelb Triotherm+ Vorfenster sind Montagesysteme, die Wärmebrücken zwischen Fenster und Wand eliminieren. Ihre Verwendung ist für die nZEB-Zertifizierung obligatorisch und gewährleistet eine überlegene Wärme- und Schalldämmung gegenüber der konventionellen Montage.' },
+      { q:'Was sind Blaugelb Triotherm+ Vorblendrahmen und warum sind sie wichtig?', a:'Blaugelb Triotherm+ Vorblendrahmen sind Montagesysteme, die Wärmebrücken zwischen Fenster und Wand eliminieren. Ihre Verwendung ist für die nZEB-Zertifizierung obligatorisch und gewährleistet eine überlegene Wärme- und Schalldämmung gegenüber der konventionellen Montage.' },
       { q:'Was sind die Öffnungszeiten von Neofort BIZ?', a:'Öffnungszeiten: Montag–Freitag 10:00–18:00 Uhr. Samstag und Sonntag geschlossen. Sie erreichen uns auch per WhatsApp unter +40 752 443 435.' },
     ],
     seo_bridge: 'Fordern Sie ein Preisangebot für Salamander Kunststoff- oder Alumil Aluminiumfenster an — Bukarest & Europa',

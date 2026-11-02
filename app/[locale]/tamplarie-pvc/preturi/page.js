@@ -124,7 +124,7 @@ const UI = {
       ['Öffnungstyp', 'Dreh < Dreh-Kipp < Schiebe — zunehmende Komplexität und Preis'],
       ['Profilfarbe', 'Standard (7 Farben) enthalten; Spezial-RAL oder Dekorfolien +8–15% auf Profilpreis'],
       ['Beschläge', 'Standard vs Einbruchschutz RC2/RC3 — 40–120 EUR Unterschied pro Fenster'],
-      ['Einbau', 'Standard vs nZEB mit Blaugelb Triotherm+ Vorfenstern — 25–50 EUR/lm Unterschied'],
+      ['Einbau', 'Standard vs nZEB mit Blaugelb Triotherm+ Vorblendrahmen — 25–50 EUR/lm Unterschied'],
     ],
     cta_h: 'Persönliches Angebot anfordern',
     cta_sub: 'Genauer Preis nach dem Aufmaß vor Ort.',

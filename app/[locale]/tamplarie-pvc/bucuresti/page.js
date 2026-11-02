@@ -40,7 +40,7 @@ const UI = {
       ['Echipe proprii de montaj', 'Nu subcontractăm montajul — echipele noastre sunt instruite și certificate pentru sistemele Salamander BluEvolution și GreenEvolution.'],
       ['Consultanță tehnică', 'Specialist tehnic disponibil pentru consultanță privind alegerea profilului, dimensionarea și calculul performanțelor termice și fonice.'],
       ['Măsurători la domiciliu după contract', 'Ofertă detaliată pentru tot Bucureștiul și Ilfovul, pe baza dimensiunilor comunicate. Măsurătorile la fața locului se fac după semnarea contractului.'],
-      ['Montaj certificat nZEB', 'Folosim precadre Blaugelb Triotherm+ și benzi de etanșare pe 3 straturi — condiție necesară pentru autorizații noi și certificate energetice.'],
+      ['Montaj nZEB pe 3 niveluri', 'Folosim precadre Blaugelb Triotherm+ și benzi de etanșare pe 3 niveluri, conform Ghidului RAL — reduc punțile termice care intră în calculul energetic al casei.'],
       ['Garanție 5 ani', 'Garanție completă pe profilul PVC, geam și montaj. Intervenție în 48 ore pentru orice solicitare post-montaj în București.'],
     ],
     process_title: 'Cum funcționează procesul în București',
@@ -89,7 +89,7 @@ const UI = {
       ['Own installation teams', 'We do not subcontract installation — our teams are trained and certified for Salamander BluEvolution and GreenEvolution systems.'],
       ['Technical consultation', 'Technical specialist available for consultation on profile selection, sizing and thermal and acoustic performance calculation.'],
       ['Home measurements after contract', 'Detailed quote for all of Bucharest and Ilfov, based on the dimensions you provide. On-site measurements follow once the contract is signed.'],
-      ['nZEB certified installation', 'We use Blaugelb Triotherm+ precasings and 3-layer sealing tapes — required for new building permits and energy certificates.'],
+      ['nZEB installation on 3 levels', 'We use Blaugelb Triotherm+ precasings and three-level sealing tapes to the RAL guideline — they reduce the thermal bridges that count in the energy calculation of the house.'],
       ['5 year warranty', 'Full warranty on PVC profile, glass and installation. 48-hour response for any post-installation request in Bucharest.'],
     ],
     process_title: 'How the process works in Bucharest',
@@ -138,7 +138,7 @@ const UI = {
       ['Eigene Montageteams', 'Wir vergeben keine Montageaufträge — unsere Teams sind für Salamander BluEvolution und GreenEvolution Systeme geschult und zertifiziert.'],
       ['Fachberatung', 'Technischer Spezialist für Beratung zu Profilauswahl, Dimensionierung und Berechnung der Wärme- und Schalldämmeigenschaften.'],
       ['Aufmaß nach Vertragsabschluss', 'Detailliertes Angebot für ganz Bukarest und Ilfov auf Basis der von Ihnen genannten Maße. Das Aufmaß vor Ort erfolgt nach Vertragsabschluss.'],
-      ['nZEB-zertifizierter Einbau', 'Wir verwenden Blaugelb Triotherm+ Vorfenster und 3-lagige Dichtungsbänder — Voraussetzung für neue Baugenehmigungen und Energieausweise.'],
+      ['nZEB-Montage in 3 Ebenen', 'Wir verwenden Blaugelb Triotherm+ Vorblendrahmen und Dichtbänder in drei Ebenen nach RAL-Leitfaden — sie verringern die Wärmebrücken, die in die Energieberechnung des Hauses eingehen.'],
       ['5 Jahre Garantie', 'Vollständige Garantie auf PVC-Profil, Glas und Montage. 48-Stunden-Reaktionszeit für Nachmontageanfragen in Bukarest.'],
     ],
     process_title: 'So läuft der Prozess in Bukarest ab',
@@ -147,7 +147,7 @@ const UI = {
       ['Tag 1–2', 'Detailliertes Angebot in 48 Stunden', 'Auf Basis der von Ihnen genannten Maße erhalten Sie das Angebot mit vollständigen Spezifikationen, Preisen und Liefertermin.'],
       ['Nach Vertrag', 'Aufmaß vor Ort', 'Nach Vertragsabschluss kommt unser Team zu Ihrer Adresse für das exakte Aufmaß und die Bestätigung des empfohlenen Profils.'],
       ['Tag 14–21', 'Produktion', 'PVC-Fenster werden auf automatisierten Linien mit originalen Salamander-Profilen gefertigt.'],
-      ['Tag 21–25', 'Montage', 'Unser Team führt die Montage nach RAL und nZEB durch, mit allen Bändern und Blaugelb-Vorfenstern.'],
+      ['Tag 21–25', 'Montage', 'Unser Team führt die Montage nach RAL und nZEB durch, mit allen Bändern und Blaugelb-Vorblendrahmen.'],
       ['Nach Montage', 'Garantie & Service', 'Abschlussinspektion, technische Dokumentation, Garantieschein und Ansprechpartner für alle Anfragen.'],
     ],
     faq_title: 'Häufige Fragen — PVC-Fenster Bukarest',
@@ -187,7 +187,7 @@ const UI = {
       ['Équipes de pose propres', "Nous ne sous-traitons pas la pose — nos équipes sont formées et certifiées pour les systèmes Salamander BluEvolution et GreenEvolution."],
       ['Conseil technique', "Spécialiste technique disponible pour conseiller sur le choix du profilé, le dimensionnement et le calcul des performances thermiques et acoustiques."],
       ['Métrés à domicile après contrat', "Devis détaillé pour tout Bucarest et Ilfov, établi sur la base des dimensions que vous nous communiquez. Les métrés sur place ont lieu après la signature du contrat."],
-      ['Pose certifiée nZEB', "Nous utilisons des précadres Blaugelb Triotherm+ et des bandes d'étanchéité en 3 couches — exigés pour les permis de construire neufs et les certificats énergétiques."],
+      ['Pose nZEB sur 3 niveaux', "Nous utilisons des précadres Blaugelb Triotherm+ et des bandes d'étanchéité sur trois niveaux selon le guide RAL — ils réduisent les ponts thermiques pris en compte dans le calcul énergétique de la maison."],
       ['Garantie 5 ans', "Garantie complète sur le profilé PVC, le vitrage et la pose. Intervention sous 48 heures pour toute demande post-pose à Bucarest."],
     ],
     process_title: 'Comment fonctionne le processus à Bucarest',
@@ -236,7 +236,7 @@ const UI = {
       ['Equipos propios de instalación', 'No subcontratamos la instalación — nuestros equipos están formados y certificados para los sistemas Salamander BluEvolution y GreenEvolution.'],
       ['Asesoramiento técnico', 'Especialista técnico disponible para asesorar sobre la elección del perfil, dimensionamiento y cálculo de rendimiento térmico y acústico.'],
       ['Mediciones a domicilio tras el contrato', 'Presupuesto detallado para todo Bucarest e Ilfov, a partir de las medidas que nos indique. Las mediciones en obra se realizan tras la firma del contrato.'],
-      ['Instalación certificada nZEB', 'Usamos premarcos Blaugelb Triotherm+ y cintas de sellado de 3 capas — requisito para nuevos permisos de obra y certificados energéticos.'],
+      ['Instalación nZEB en 3 niveles', 'Usamos premarcos Blaugelb Triotherm+ y cintas de sellado en tres niveles según la guía RAL — reducen los puentes térmicos que cuentan en el cálculo energético de la vivienda.'],
       ['Garantía 5 años', 'Garantía completa sobre el perfil PVC, vidrio e instalación. Intervención en 48 horas para cualquier solicitud post-instalación en Bucarest.'],
     ],
     process_title: 'Cómo funciona el proceso en Bucarest',
@@ -285,7 +285,7 @@ const UI = {
       ['Squadre di posa proprie', "Non subappaltiamo la posa — le nostre squadre sono formate e certificate per i sistemi Salamander BluEvolution e GreenEvolution."],
       ['Consulenza tecnica', "Specialista tecnico disponibile per consulenze sulla scelta del profilato, dimensionamento e calcolo delle prestazioni termiche e acustiche."],
       ['Rilievi a domicilio dopo il contratto', "Preventivo dettagliato per tutta Bucarest e Ilfov, sulla base delle misure che ci comunichi. I rilievi sul posto si effettuano dopo la firma del contratto."],
-      ['Posa certificata nZEB', "Utilizziamo precontrotelaio Blaugelb Triotherm+ e nastri di tenuta a 3 strati — requisito per nuove autorizzazioni edilizie e certificati energetici."],
+      ['Posa nZEB su 3 livelli', "Utilizziamo controtelai Blaugelb Triotherm+ e nastri di tenuta su tre livelli secondo la guida RAL — riducono i ponti termici che entrano nel calcolo energetico della casa."],
       ['Garanzia 5 anni', "Garanzia completa su profilato PVC, vetro e posa. Intervento entro 48 ore per qualsiasi richiesta post-posa a Bucarest."],
     ],
     process_title: 'Come funziona il processo a Bucarest',
@@ -328,7 +328,7 @@ export async function generateMetadata({ params }) {
          : 'Infissi PVC Bucarest — Posa Salamander | Neofort BIZ',
     description: locale === 'ro' ? 'Furnizare și montaj tâmplărie PVC Salamander în București — toate sectoarele și Ilfov. Ofertă în 48h, montaj nZEB cu precadre Blaugelb, garanție 5 ani.'
                : locale === 'en' ? 'Salamander PVC window supply and installation in Bucharest — all districts and Ilfov. Quote in 48h, nZEB installation with Blaugelb precasings, 5-year warranty.'
-               : locale === 'de' ? 'Lieferung und Montage von Salamander PVC-Fenstern in Bukarest und Ilfov. Angebot in 48h, nZEB-Montage mit Blaugelb-Vorfenstern, 5 Jahre Garantie.'
+               : locale === 'de' ? 'Lieferung und Montage von Salamander PVC-Fenstern in Bukarest und Ilfov. Angebot in 48h, nZEB-Montage mit Blaugelb-Vorblendrahmen, 5 Jahre Garantie.'
                : locale === 'fr' ? 'Fourniture et pose menuiserie PVC Salamander à Bucarest — tous arrondissements et Ilfov. Devis en 48h, pose nZEB avec précadres Blaugelb, garantie 5 ans.'
                : locale === 'es' ? 'Suministro e instalación de carpintería PVC Salamander en Bucarest e Ilfov. Presupuesto en 48h, instalación nZEB con premarcos Blaugelb, garantía 5 años.'
                : 'Fornitura e posa infissi PVC Salamander a Bucarest — tutti i quartieri e Ilfov. Preventivo in 48h, posa nZEB con precontrotelaio Blaugelb, garanzia 5 anni.',
