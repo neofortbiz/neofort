@@ -59,7 +59,7 @@ const UI = {
       },
       {
         "name": "Pergole automate Somfy",
-        "desc": "Pergolă cu pânză retractabilă impermeabilă, structură din aluminiu și inox. Motor Somfy Pergola RGS io cu senzor de vânt Sunis — retragere automată peste 50 km/h.",
+        "desc": "Pergolă cu pânză retractabilă impermeabilă, structură din aluminiu și inox. Motor Somfy Pergola RGS io cu senzor de vânt Eolis — retragere automată peste 50 km/h.",
         "price": "6.000 € (4 × 3 m, motor Somfy) · montaj inclus",
         "link": "/umbrire/pergole-automate-somfy",
         "cta": "Detalii pergole Somfy"
@@ -69,7 +69,7 @@ const UI = {
     "faq": [
       { "q": "Cât costă un sistem de umbrire exterioară în 2026?", "a": "Orientativ, rulourile exterioare din aluminiu costă 85–120 €/mp în varianta manuală și 150–220 €/mp cu motor, jaluzelele Raffstore cu motor 150–200 €/mp, iar Zipscreen-ul 225–300 €/mp manual și 350–450 €/mp cu motor, toate cu montaj inclus. O pergolă automată Somfy de 4 × 3 m costă 6.000 €, cu montaj inclus. Prețurile nu includ TVA." },
       { "q": "De ce sunt prețurile orientative și nu fixe?", "a": "Pentru că prețul final depinde de dimensiunea exactă a golului, de tipul de acționare, de țesătura aleasă și de felul montajului. De aceea oferta se face personalizat, iar măsurătorile la fața locului se efectuează după semnarea contractului." },
-      { "q": "Ce sistem de umbrire rezistă cel mai bine la vânt?", "a": "Zipscreen-ul, datorită ghidajelor laterale ZIP care țin pânza fixată — are rezistență la vânt clasa 6 (88 km/h), deci este potrivit pentru terase și ferestre mari. Pergolele automate Somfy au senzor de vânt Sunis și se retrag singure peste 50 km/h." },
+      { "q": "Ce sistem de umbrire rezistă cel mai bine la vânt?", "a": "Zipscreen-ul, datorită ghidajelor laterale ZIP care țin pânza fixată — are rezistență la vânt clasa 6 (88 km/h), deci este potrivit pentru terase și ferestre mari. Pergolele automate Somfy au senzor de vânt Eolis și se retrag singure peste 50 km/h." },
       { "q": "Pot monta sisteme de umbrire pe tâmplăria pe care o am deja?", "a": "Da. Montajul pe tâmplărie existentă Salamander sau Alumil este posibil și chiar recomandat. Ancorajul se face în zidărie, în tocul tâmplăriei sau pe perete, în funcție de situația de la fața locului." },
       { "q": "Când este obligatorie motorizarea?", "a": "La sistemele mari, unde acționarea manuală cu manivelă sau curea nu mai este practică. Variantele sunt motor Somfy sau Nice, iar dacă aveți instalație de casă inteligentă sistemul se poate integra prin KNX sau io-homecontrol. Un motor Somfy pentru rulou sau Zipscreen costă orientativ 110–150 € + TVA, iar unul pentru Raffstore 220–300 € + TVA, fără montaj." },
     ],
@@ -120,7 +120,7 @@ const UI = {
       },
       {
         "name": "Somfy Automatic Pergolas",
-        "desc": "Pergola with retractable waterproof canvas, aluminium and stainless steel structure. Somfy Pergola RGS io motor with Sunis wind sensor — automatic retraction above 50 km/h.",
+        "desc": "Pergola with retractable waterproof canvas, aluminium and stainless steel structure. Somfy Pergola RGS io motor with Eolis wind sensor — automatic retraction above 50 km/h.",
         "price": "€6,000 (4 × 3 m, Somfy motor) · installation included",
         "link": "/shading-systems/somfy-automatic-pergolas",
         "cta": "Somfy pergola details"
@@ -130,7 +130,7 @@ const UI = {
     "faq": [
       { "q": "How much does an exterior shading system cost in 2026?", "a": "As a guide, aluminium roller shutters cost €85–120/m² manual and €150–220/m² motorised, motorised Raffstore blinds €150–200/m², and Zipscreen €225–300/m² manual and €350–450/m² motorised, all with installation included. An automated Somfy pergola of 4 × 3 m costs €6,000, installation included. Prices exclude VAT." },
       { "q": "Why are the prices indicative rather than fixed?", "a": "Because the final price depends on the exact size of the opening, the drive type, the fabric chosen and how the system is mounted. The quote is therefore prepared individually, and on-site measurements are taken after the contract is signed." },
-      { "q": "Which shading system stands up best to wind?", "a": "Zipscreen, because the ZIP side guides hold the fabric in place — it has class 6 wind resistance (88 km/h), which makes it suitable for terraces and large windows. Automated Somfy pergolas have a Sunis wind sensor and retract by themselves above 50 km/h." },
+      { "q": "Which shading system stands up best to wind?", "a": "Zipscreen, because the ZIP side guides hold the fabric in place — it has class 6 wind resistance (88 km/h), which makes it suitable for terraces and large windows. Automated Somfy pergolas have a Eolis wind sensor and retract by themselves above 50 km/h." },
       { "q": "Can shading be fitted to windows I already have?", "a": "Yes. Fitting to existing Salamander or Alumil windows is possible and in fact recommended. The system is anchored into masonry, into the window frame or onto the wall, depending on the situation on site." },
       { "q": "When is motorisation required?", "a": "On large systems, where a crank or belt is no longer practical. The options are a Somfy or Nice motor, and if you have a smart home installation the system can be integrated via KNX or io-homecontrol. A Somfy motor for a roller shutter or Zipscreen costs roughly €110–150 + VAT, and one for a Raffstore blind €220–300 + VAT, excluding installation." },
     ],
@@ -181,7 +181,7 @@ const UI = {
       },
       {
         "name": "Somfy automatische Pergolen",
-        "desc": "Pergola mit wasserdichtem Rolltuch, Struktur aus Aluminium und Edelstahl. Somfy Pergola RGS io Motor mit Sunis-Windsensor — automatischer Einzug ab 50 km/h.",
+        "desc": "Pergola mit wasserdichtem Rolltuch, Struktur aus Aluminium und Edelstahl. Somfy Pergola RGS io Motor mit Eolis-Windsensor — automatischer Einzug ab 50 km/h.",
         "price": "6.000 € (4 × 3 m, Somfy-Motor) · Montage inklusive",
         "link": "/beschattungssysteme/somfy-automatische-pergolen",
         "cta": "Details Somfy Pergolen"
@@ -191,7 +191,7 @@ const UI = {
     "faq": [
       { "q": "Was kostet ein außenliegendes Beschattungssystem 2026?", "a": "Als Richtwert: Aluminium-Rollladen kosten 85–120 €/m² manuell und 150–220 €/m² mit Motor, Raffstore-Jalousien mit Motor 150–200 €/m², Zipscreen 225–300 €/m² manuell und 350–450 €/m² mit Motor, jeweils inklusive Montage. Eine automatisierte Somfy-Pergola von 4 × 3 m kostet 6.000 € inklusive Montage. Alle Preise zzgl. MwSt." },
       { "q": "Warum sind die Preise Richtwerte und keine Festpreise?", "a": "Weil der Endpreis von der genauen Öffnungsgröße, der Antriebsart, dem gewählten Gewebe und der Montageart abhängt. Das Angebot wird deshalb individuell erstellt; das Aufmaß vor Ort erfolgt nach Vertragsabschluss." },
-      { "q": "Welches Beschattungssystem hält Wind am besten stand?", "a": "Der Zipscreen, da seitliche ZIP-Führungen das Gewebe fixieren — er hat Windwiderstandsklasse 6 (88 km/h) und eignet sich damit für Terrassen und große Fenster. Automatisierte Somfy-Pergolen haben einen Sunis-Windsensor und fahren ab 50 km/h selbsttätig ein." },
+      { "q": "Welches Beschattungssystem hält Wind am besten stand?", "a": "Der Zipscreen, da seitliche ZIP-Führungen das Gewebe fixieren — er hat Windwiderstandsklasse 6 (88 km/h) und eignet sich damit für Terrassen und große Fenster. Automatisierte Somfy-Pergolen haben einen Eolis-Windsensor und fahren ab 50 km/h selbsttätig ein." },
       { "q": "Kann Beschattung an vorhandenen Fenstern montiert werden?", "a": "Ja. Die Montage an bestehenden Salamander- oder Alumil-Fenstern ist möglich und sogar empfehlenswert. Verankert wird je nach Gegebenheit im Mauerwerk, im Fensterrahmen oder an der Wand." },
       { "q": "Wann ist eine Motorisierung erforderlich?", "a": "Bei großen Systemen, wo Kurbel oder Gurt nicht mehr praktikabel sind. Zur Wahl stehen Somfy- oder Nice-Motoren; bei vorhandener Smart-Home-Installation lässt sich das System über KNX oder io-homecontrol einbinden. Ein Somfy-Motor für Rollladen oder Zipscreen kostet etwa 110–150 € zzgl. MwSt., einer für Raffstore 220–300 € zzgl. MwSt., jeweils ohne Montage." },
     ],
@@ -242,7 +242,7 @@ const UI = {
       },
       {
         "name": "Pergolas automatiques Somfy",
-        "desc": "Pergola à toile rétractable imperméable, structure aluminium et inox. Moteur Somfy Pergola RGS io avec capteur de vent Sunis — repli automatique au-delà de 50 km/h.",
+        "desc": "Pergola à toile rétractable imperméable, structure aluminium et inox. Moteur Somfy Pergola RGS io avec capteur de vent Eolis — repli automatique au-delà de 50 km/h.",
         "price": "6 000 € (4 × 3 m, moteur Somfy) · pose incluse",
         "link": "/systemes-occultation/pergolas-automatiques-somfy",
         "cta": "Détails pergolas Somfy"
@@ -252,7 +252,7 @@ const UI = {
     "faq": [
       { "q": "Combien coûte un système d'occultation extérieure en 2026 ?", "a": "À titre indicatif, les volets roulants en aluminium coûtent 85–120 €/m² en manuel et 150–220 €/m² motorisés, les brise-soleil Raffstore motorisés 150–200 €/m², et le Zipscreen 225–300 €/m² en manuel et 350–450 €/m² motorisé, pose incluse dans tous les cas. Une pergola automatisée Somfy de 4 × 3 m coûte 6 000 €, pose incluse. Les prix sont hors TVA." },
       { "q": "Pourquoi les prix sont-ils indicatifs et non fixes ?", "a": "Parce que le prix final dépend de la dimension exacte de la baie, du type de motorisation, de la toile choisie et du mode de pose. Le devis est donc établi au cas par cas, et la prise de mesures sur site intervient après la signature du contrat." },
-      { "q": "Quel système d'occultation résiste le mieux au vent ?", "a": "Le Zipscreen, car ses coulisses latérales ZIP maintiennent la toile — il offre une résistance au vent de classe 6 (88 km/h), ce qui convient aux terrasses et aux grandes baies. Les pergolas automatisées Somfy disposent d'un capteur de vent Sunis et se rétractent d'elles-mêmes au-delà de 50 km/h." },
+      { "q": "Quel système d'occultation résiste le mieux au vent ?", "a": "Le Zipscreen, car ses coulisses latérales ZIP maintiennent la toile — il offre une résistance au vent de classe 6 (88 km/h), ce qui convient aux terrasses et aux grandes baies. Les pergolas automatisées Somfy disposent d'un capteur de vent Eolis et se rétractent d'elles-mêmes au-delà de 50 km/h." },
       { "q": "Peut-on poser une occultation sur des menuiseries déjà en place ?", "a": "Oui. La pose sur menuiseries Salamander ou Alumil existantes est possible et même recommandée. L'ancrage se fait dans la maçonnerie, dans le dormant ou sur le mur, selon la configuration." },
       { "q": "Quand la motorisation est-elle indispensable ?", "a": "Sur les grands systèmes, où la manivelle ou la sangle ne sont plus praticables. Les options sont un moteur Somfy ou Nice ; si vous disposez d'une installation domotique, le système s'intègre via KNX ou io-homecontrol. Un moteur Somfy pour volet roulant ou Zipscreen coûte environ 110–150 € HT, et un moteur pour Raffstore 220–300 € HT, hors pose." },
     ],
@@ -303,7 +303,7 @@ const UI = {
       },
       {
         "name": "Pérgolas automáticas Somfy",
-        "desc": "Pérgola con lona retráctil impermeable, estructura de aluminio e inox. Motor Somfy Pergola RGS io con sensor de viento Sunis — recogida automática por encima de 50 km/h.",
+        "desc": "Pérgola con lona retráctil impermeable, estructura de aluminio e inox. Motor Somfy Pergola RGS io con sensor de viento Eolis — recogida automática por encima de 50 km/h.",
         "price": "6.000 € (4 × 3 m, motor Somfy) · instalación incluida",
         "link": "/sistemas-sombreado/pergolas-automaticas-somfy",
         "cta": "Detalles pérgolas Somfy"
@@ -313,7 +313,7 @@ const UI = {
     "faq": [
       { "q": "¿Cuánto cuesta un sistema de sombreado exterior en 2026?", "a": "De forma orientativa, las persianas de aluminio cuestan 85–120 €/m² en manual y 150–220 €/m² motorizadas, las venecianas Raffstore motorizadas 150–200 €/m², y el Zipscreen 225–300 €/m² en manual y 350–450 €/m² motorizado, siempre con instalación incluida. Una pérgola automatizada Somfy de 4 × 3 m cuesta 6.000 €, con instalación incluida. Los precios no incluyen IVA." },
       { "q": "¿Por qué los precios son orientativos y no cerrados?", "a": "Porque el precio final depende de la medida exacta del hueco, del tipo de accionamiento, del tejido elegido y de la forma de montaje. Por eso el presupuesto se elabora de forma personalizada, y la medición en obra se realiza tras la firma del contrato." },
-      { "q": "¿Qué sistema de sombreado resiste mejor el viento?", "a": "El Zipscreen, porque las guías laterales ZIP mantienen el tejido sujeto: ofrece resistencia al viento de clase 6 (88 km/h), lo que lo hace adecuado para terrazas y ventanales. Las pérgolas automatizadas Somfy llevan sensor de viento Sunis y se repliegan solas por encima de 50 km/h." },
+      { "q": "¿Qué sistema de sombreado resiste mejor el viento?", "a": "El Zipscreen, porque las guías laterales ZIP mantienen el tejido sujeto: ofrece resistencia al viento de clase 6 (88 km/h), lo que lo hace adecuado para terrazas y ventanales. Las pérgolas automatizadas Somfy llevan sensor de viento Eolis y se repliegan solas por encima de 50 km/h." },
       { "q": "¿Se puede instalar sombreado sobre la carpintería que ya tengo?", "a": "Sí. El montaje sobre carpintería Salamander o Alumil existente es posible e incluso recomendable. El anclaje se realiza en la obra, en el marco de la ventana o en la pared, según la situación." },
       { "q": "¿Cuándo es obligatoria la motorización?", "a": "En sistemas grandes, donde la manivela o la cinta dejan de ser prácticas. Las opciones son motor Somfy o Nice; si dispone de instalación domótica, el sistema se integra mediante KNX o io-homecontrol. Un motor Somfy para persiana o Zipscreen cuesta unos 110–150 € + IVA, y uno para Raffstore 220–300 € + IVA, sin instalación." },
     ],
@@ -364,7 +364,7 @@ const UI = {
       },
       {
         "name": "Pergole automatiche Somfy",
-        "desc": "Pergola con telo retrattile impermeabile, struttura in alluminio e inox. Motore Somfy Pergola RGS io con sensore vento Sunis — rientro automatico oltre 50 km/h.",
+        "desc": "Pergola con telo retrattile impermeabile, struttura in alluminio e inox. Motore Somfy Pergola RGS io con sensore vento Eolis — rientro automatico oltre 50 km/h.",
         "price": "6.000 € (4 × 3 m, motore Somfy) · posa inclusa",
         "link": "/sistemi-oscuramento/pergole-automatiche-somfy",
         "cta": "Dettagli pergole Somfy"
@@ -374,7 +374,7 @@ const UI = {
     "faq": [
       { "q": "Quanto costa un sistema di oscuramento esterno nel 2026?", "a": "Indicativamente, le tapparelle in alluminio costano 85–120 €/m² manuali e 150–220 €/m² motorizzate, le veneziane Raffstore motorizzate 150–200 €/m², e lo Zipscreen 225–300 €/m² manuale e 350–450 €/m² motorizzato, sempre con posa inclusa. Una pergola automatizzata Somfy di 4 × 3 m costa 6.000 €, posa inclusa. I prezzi sono IVA esclusa." },
       { "q": "Perché i prezzi sono indicativi e non fissi?", "a": "Perché il prezzo finale dipende dalla misura esatta del vano, dal tipo di azionamento, dal tessuto scelto e dal tipo di posa. Il preventivo viene quindi redatto su misura e il rilievo in loco avviene dopo la firma del contratto." },
-      { "q": "Quale sistema di oscuramento resiste meglio al vento?", "a": "Lo Zipscreen, perché le guide laterali ZIP trattengono il tessuto: ha una resistenza al vento di classe 6 (88 km/h) ed è quindi adatto a terrazze e grandi vetrate. Le pergole automatizzate Somfy hanno il sensore vento Sunis e si ritraggono da sole oltre i 50 km/h." },
+      { "q": "Quale sistema di oscuramento resiste meglio al vento?", "a": "Lo Zipscreen, perché le guide laterali ZIP trattengono il tessuto: ha una resistenza al vento di classe 6 (88 km/h) ed è quindi adatto a terrazze e grandi vetrate. Le pergole automatizzate Somfy hanno il sensore vento Eolis e si ritraggono da sole oltre i 50 km/h." },
       { "q": "È possibile installare l'oscuramento sugli infissi che ho già?", "a": "Sì. La posa su infissi Salamander o Alumil esistenti è possibile e anzi consigliata. L'ancoraggio avviene nella muratura, nel telaio della finestra o a parete, a seconda della situazione." },
       { "q": "Quando la motorizzazione è obbligatoria?", "a": "Sui sistemi di grandi dimensioni, dove manovella o cinghia non sono più pratiche. Le opzioni sono motore Somfy o Nice; con un impianto domotico il sistema si integra tramite KNX o io-homecontrol. Un motore Somfy per tapparella o Zipscreen costa circa 110–150 € + IVA, e uno per Raffstore 220–300 € + IVA, posa esclusa." },
     ],

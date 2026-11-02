@@ -36,7 +36,7 @@ const UI = {
       ['Pereți cortină Alumil CW50', 'Fațadă', '450–700 EUR/mp', 'Clădiri comerciale, fațade sticlă'],
       ['Uși de intrare aluminiu', 'Uși', '800–2.500 EUR/buc', 'Intrări rezidențiale și comerciale'],
     ],
-    note: '* Prețurile includ profilul din aluminiu, geamul termopan și montajul profesional. Nu includ transport pentru distanțe peste 100 km.',
+    note: '* Prețurile includ profilul din aluminiu, geamul termopan și montajul profesional. Transportul e inclus în București și Ilfov; în afara lor se taxează separat.',
     factors_title: 'Ce influențează prețul final',
     factors: [
       ['Sistemul de profil', 'Smartia (comercial) vs Supreme (premium) — diferență de 30–50% în prețul profilului'],
@@ -79,7 +79,7 @@ const UI = {
       ['Curtain wall Alumil CW50', 'Facade', '450–700 EUR/m²', 'Commercial buildings, glass facades'],
       ['Aluminium entrance doors', 'Doors', '800–2,500 EUR/unit', 'Residential and commercial entrances'],
     ],
-    note: '* Prices include aluminium profile, thermal glass and professional installation. Transport over 100 km not included.',
+    note: '* Prices include aluminium profile, thermal glass and professional installation. Transport is included in Bucharest and Ilfov; outside these areas it is charged separately.',
     factors_title: 'What influences the final price',
     factors: [
       ['Profile system', 'Smartia (commercial) vs Supreme (premium) — 30–50% difference in profile price'],
@@ -122,7 +122,7 @@ const UI = {
       ['Vorhangfassade Alumil CW50', 'Fassade', '450–700 EUR/m²', 'Gewerbegebäude, Glasfassaden'],
       ['Aluminium-Eingangstüren', 'Türen', '800–2.500 EUR/Stk.', 'Wohn- und Gewerbeeingänge'],
     ],
-    note: '* Preise inkl. Aluminiumprofil, Isolierglas und professionellem Einbau. Transport über 100 km nicht inbegriffen.',
+    note: '* Preise inkl. Aluminiumprofil, Isolierglas und professionellem Einbau. Transport in Bukarest und Ilfov inbegriffen, außerhalb wird er separat berechnet.',
     factors_title: 'Was den Endpreis beeinflusst',
     factors: [
       ['Profilsystem', 'Smartia (kommerziell) vs Supreme (premium) — 30–50% Unterschied im Profilpreis'],
@@ -165,7 +165,7 @@ const UI = {
       ['Mur-rideau Alumil CW50', 'Façade', '450–700 EUR/m²', 'Bâtiments commerciaux, façades vitrées'],
       ["Portes d'entrée aluminium", 'Portes', '800–2.500 EUR/unité', 'Entrées résidentielles et commerciales'],
     ],
-    note: '* Prix incluant profilé aluminium, vitrage isolant et pose professionnelle. Transport au-delà de 100 km non inclus.',
+    note: '* Prix incluant profilé aluminium, vitrage isolant et pose professionnelle. Transport inclus à Bucarest et dans l\'Ilfov ; au-delà, facturé séparément.',
     factors_title: 'Ce qui influence le prix final',
     factors: [
       ['Système de profilé', 'Smartia (commercial) vs Supreme (premium) — 30–50% de différence sur le profilé'],
@@ -208,7 +208,7 @@ const UI = {
       ['Muro cortina Alumil CW50', 'Fachada', '450–700 EUR/m²', 'Edificios comerciales, fachadas vidriadas'],
       ['Puertas de entrada aluminio', 'Puertas', '800–2.500 EUR/ud.', 'Entradas residenciales y comerciales'],
     ],
-    note: '* Precios incluyen perfil de aluminio, vidrio aislante e instalación profesional. Transporte a más de 100 km no incluido.',
+    note: '* Precios incluyen perfil de aluminio, vidrio aislante e instalación profesional. Transporte incluido en Bucarest e Ilfov; fuera de estas zonas se cobra aparte.',
     factors_title: 'Qué influye en el precio final',
     factors: [
       ['Sistema de perfil', 'Smartia (comercial) vs Supreme (premium) — diferencia del 30–50% en el perfil'],
@@ -251,7 +251,7 @@ const UI = {
       ['Facciata continua Alumil CW50', 'Facciata', '450–700 EUR/m²', 'Edifici commerciali, facciate vetrate'],
       ["Porte d'ingresso alluminio", 'Porte', '800–2.500 EUR/cad.', 'Ingressi residenziali e commerciali'],
     ],
-    note: '* Prezzi includono profilato in alluminio, vetro isolante e posa professionale. Trasporto oltre 100 km non incluso.',
+    note: '* Prezzi includono profilato in alluminio, vetro isolante e posa professionale. Trasporto incluso a Bucarest e Ilfov; fuori da queste zone si paga a parte.',
     factors_title: 'Cosa influenza il prezzo finale',
     factors: [
       ['Sistema di profilato', 'Smartia (commerciale) vs Supreme (premium) — differenza del 30–50% sul profilato'],

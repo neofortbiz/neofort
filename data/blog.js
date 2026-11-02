@@ -9211,7 +9211,7 @@ Pergola bioclimatică e potrivită dacă terasa e folosită tot sezonul, inclusi
 
 ## Când alegi pergola clasică cu pânză Somfy?
 
-Pergola cu pânză Somfy e alegerea corectă dacă vrei umbră în perioadele cu soare puternic, dacă bugetul e mediu și dacă vrei automatizare completă: senzorul de vânt Sunis Wirefree II io strânge singur pânza la rafale de peste 50 km/h, iar TaHoma Switch te lasă să o comanzi din telefon, cu Alexa sau cu Google Home. Sistemul Somfy deschide până la 5 m lățime și 4 m proiecție.
+Pergola cu pânză Somfy e alegerea corectă dacă vrei umbră în perioadele cu soare puternic, dacă bugetul e mediu și dacă vrei automatizare completă: senzorul de vânt Eolis 3D WireFree io strânge singur pânza la rafale de peste 50 km/h, iar TaHoma Switch te lasă să o comanzi din telefon, cu Alexa sau cu Google Home. Sistemul Somfy deschide până la 5 m lățime și 4 m proiecție.
 
 ## Concluzie
 
@@ -9301,7 +9301,7 @@ A bioclimatic pergola is right if the terrace is used all season, including when
 
 ## When should you choose a classic pergola with Somfy fabric?
 
-A Somfy fabric pergola is the right choice if you want shade in periods of strong sun, if the budget is medium and if you want full automation: the Sunis Wirefree II io wind sensor retracts the fabric by itself in gusts above 50 km/h, and TaHoma Switch lets you control it from your phone, with Alexa or with Google Home. The Somfy system opens up to 5 m wide with a 4 m projection.
+A Somfy fabric pergola is the right choice if you want shade in periods of strong sun, if the budget is medium and if you want full automation: the Eolis 3D WireFree io wind sensor retracts the fabric by itself in gusts above 50 km/h, and TaHoma Switch lets you control it from your phone, with Alexa or with Google Home. The Somfy system opens up to 5 m wide with a 4 m projection.
 
 ## Conclusion
 
@@ -9391,7 +9391,7 @@ Die bioklimatische Pergola passt, wenn die Terrasse die ganze Saison genutzt wir
 
 ## Wann wählen Sie die klassische Pergola mit Somfy-Tuch?
 
-Die Tuchpergola von Somfy ist die richtige Wahl, wenn Sie Schatten bei starker Sonne möchten, das Budget mittel ist und Sie eine vollständige Automatisierung wollen: Der Windsensor Sunis Wirefree II io fährt das Tuch bei Böen über 50 km/h selbst ein, und mit TaHoma Switch steuern Sie es per Smartphone, mit Alexa oder mit Google Home. Das Somfy-System öffnet bis zu 5 m Breite bei 4 m Ausladung.
+Die Tuchpergola von Somfy ist die richtige Wahl, wenn Sie Schatten bei starker Sonne möchten, das Budget mittel ist und Sie eine vollständige Automatisierung wollen: Der Windsensor Eolis 3D WireFree io fährt das Tuch bei Böen über 50 km/h selbst ein, und mit TaHoma Switch steuern Sie es per Smartphone, mit Alexa oder mit Google Home. Das Somfy-System öffnet bis zu 5 m Breite bei 4 m Ausladung.
 
 ## Fazit
 
@@ -9481,7 +9481,7 @@ La pergola bioclimatique convient si la terrasse sert toute la saison, y compris
 
 ## Quand choisir la pergola classique à toile Somfy ?
 
-La pergola à toile Somfy est le bon choix si vous voulez de l’ombre par fort soleil, si le budget est moyen et si vous voulez une automatisation complète : le capteur de vent Sunis Wirefree II io replie seul la toile en cas de rafales de plus de 50 km/h, et TaHoma Switch vous permet de la commander depuis votre téléphone, avec Alexa ou Google Home. Le système Somfy ouvre jusqu’à 5 m de large pour 4 m d’avancée.
+La pergola à toile Somfy est le bon choix si vous voulez de l’ombre par fort soleil, si le budget est moyen et si vous voulez une automatisation complète : le capteur de vent Eolis 3D WireFree io replie seul la toile en cas de rafales de plus de 50 km/h, et TaHoma Switch vous permet de la commander depuis votre téléphone, avec Alexa ou Google Home. Le système Somfy ouvre jusqu’à 5 m de large pour 4 m d’avancée.
 
 ## Conclusion
 
@@ -9571,7 +9571,7 @@ La pérgola bioclimática es adecuada si la terraza se usa toda la temporada, ta
 
 ## ¿Cuándo elegir la pérgola clásica con lona Somfy?
 
-La pérgola de lona Somfy es la elección correcta si quiere sombra en los periodos de sol fuerte, si el presupuesto es medio y si quiere una automatización completa: el sensor de viento Sunis Wirefree II io recoge la lona por sí solo con rachas de más de 50 km/h, y TaHoma Switch le permite manejarla desde el móvil, con Alexa o con Google Home. El sistema Somfy abre hasta 5 m de ancho con 4 m de salida.
+La pérgola de lona Somfy es la elección correcta si quiere sombra en los periodos de sol fuerte, si el presupuesto es medio y si quiere una automatización completa: el sensor de viento Eolis 3D WireFree io recoge la lona por sí solo con rachas de más de 50 km/h, y TaHoma Switch le permite manejarla desde el móvil, con Alexa o con Google Home. El sistema Somfy abre hasta 5 m de ancho con 4 m de salida.
 
 ## Conclusión
 
@@ -9661,7 +9661,7 @@ La pergola bioclimatica è adatta se la terrazza si usa per tutta la stagione, a
 
 ## Quando scegliere la pergola classica con telo Somfy?
 
-La pergola con telo Somfy è la scelta giusta se volete ombra nei periodi di sole forte, se il budget è medio e se volete un’automazione completa: il sensore di vento Sunis Wirefree II io ritira da solo il telo con raffiche oltre i 50 km/h, e TaHoma Switch vi permette di comandarlo dal telefono, con Alexa o con Google Home. Il sistema Somfy apre fino a 5 m di larghezza con 4 m di sporgenza.
+La pergola con telo Somfy è la scelta giusta se volete ombra nei periodi di sole forte, se il budget è medio e se volete un’automazione completa: il sensore di vento Eolis 3D WireFree io ritira da solo il telo con raffiche oltre i 50 km/h, e TaHoma Switch vi permette di comandarlo dal telefono, con Alexa o con Google Home. Il sistema Somfy apre fino a 5 m di larghezza con 4 m di sporgenza.
 
 ## Conclusione
 
@@ -12326,7 +12326,7 @@ Cu **camioane acoperite** (TIR sau camionete), protecție completă:
 - România → Germania de Sud (München, Stuttgart): **2–3 zile**
 - România → Germania de Nord (Hamburg, Berlin): **3–4 zile**
 
-**Cost transport orientativ:** 800–1.500 EUR pentru o comandă medie (10–20 ferestre). La comenzi mari, transportul se include în preț.
+**Cost transport orientativ:** 800–1.500 EUR pentru o comandă medie (10–20 ferestre). Transportul nu e inclus în prețul ferestrelor; se ofertează separat.
 
 ### Pasul 6 — Recepția și montajul
 
@@ -12469,7 +12469,7 @@ By **covered trucks** (HGV or vans), full protection:
 - Romania → Southern Germany (Munich, Stuttgart): **2–3 days**
 - Romania → Northern Germany (Hamburg, Berlin): **3–4 days**
 
-**Indicative transport cost:** EUR 800–1,500 for an average order (10–20 windows). For large orders, transport is included in the price.
+**Indicative transport cost:** EUR 800–1,500 for an average order (10–20 windows). Transport is not included in the price of the windows; it is quoted separately.
 
 ### Step 6 — Receipt and Installation
 
@@ -12612,7 +12612,7 @@ Mit **gedeckten LKW** (Sattelzug oder Transporter), vollständiger Schutz:
 - Rumänien → Süddeutschland (München, Stuttgart): **2–3 Tage**
 - Rumänien → Norddeutschland (Hamburg, Berlin): **3–4 Tage**
 
-**Transportkosten orientativ:** 800–1.500 EUR für eine Durchschnittsbestellung (10–20 Fenster). Bei Großbestellungen im Preis enthalten.
+**Transportkosten (Richtwert):** 800–1.500 EUR für eine Durchschnittsbestellung (10–20 Fenster). Der Transport ist nicht im Fensterpreis enthalten und wird separat angeboten.
 
 ### Schritt 6 — Empfang und Montage
 
@@ -12755,7 +12755,7 @@ Par **camions bâchés** (semi-remorque ou fourgons), protection complète :
 - Roumanie → Allemagne du Sud (Munich, Stuttgart) : **2–3 jours**
 - Roumanie → Allemagne du Nord (Hambourg, Berlin) : **3–4 jours**
 
-**Coût de transport indicatif :** 800–1 500 EUR pour une commande moyenne (10–20 fenêtres). Pour les grandes commandes, le transport est inclus dans le prix.
+**Coût de transport indicatif :** 800–1 500 EUR pour une commande moyenne (10–20 fenêtres). Le transport n’est pas compris dans le prix des fenêtres ; il fait l’objet d’un devis séparé.
 
 ### Étape 6 — Réception et pose
 
@@ -12898,7 +12898,7 @@ Con **camiones cubiertos** (TIR o furgonetas), protección completa:
 - Rumanía → Alemania del Sur (Múnich, Stuttgart): **2–3 días**
 - Rumanía → Alemania del Norte (Hamburgo, Berlín): **3–4 días**
 
-**Coste de transporte orientativo:** 800–1.500 EUR para un pedido medio (10–20 ventanas). Para pedidos grandes, el transporte está incluido en el precio.
+**Coste de transporte orientativo:** 800–1.500 EUR para un pedido medio (10–20 ventanas). El transporte no está incluido en el precio de las ventanas; se presupuesta aparte.
 
 ### Paso 6 — Recepción e instalación
 
@@ -13041,7 +13041,7 @@ Con **camion coperti** (TIR o furgoni), protezione completa:
 - Romania → Germania del Sud (Monaco, Stoccarda): **2–3 giorni**
 - Romania → Germania del Nord (Amburgo, Berlino): **3–4 giorni**
 
-**Costo di trasporto indicativo:** 800–1.500 EUR per un ordine medio (10–20 finestre). Per ordini grandi, il trasporto è incluso nel prezzo.
+**Costo di trasporto indicativo:** 800–1.500 EUR per un ordine medio (10–20 finestre). Il trasporto non è incluso nel prezzo delle finestre; si quota a parte.
 
 ### Passo 6 — Ricezione e installazione
 
@@ -23392,7 +23392,7 @@ O casă la altitudine de 1.000–2.000 m în Alpi sau în zona montană Sinaia-P
 
 **Producția** — 4 săptămâni la fabrica noastră. Profile Salamander BluEvolution 92 ALU în culoarea RAL 7016 antracit mat pe exterior, alb pe interior. Geam triplu Low-E cu argon.
 
-**Transportul** — camion acoperit București → zona alpină Franța. Durată: 3 zile. Cost transport inclus în ofertă pentru comenzi peste 8.000 EUR.
+**Transportul** — camion acoperit București → zona alpină Franța. Durată: 3 zile. Transportul s-a ofertat separat.
 
 **Documentație** — livrare cu Declarație de Conformitate CE, fișă tehnică Salamander, certificat de garanție — toate valabile în UE.
 
@@ -23501,7 +23501,7 @@ A house at an altitude of 1,000–2,000 m in the Alps or in the Sinaia-Predeal-B
 
 **Production** — 4 weeks at our factory. Salamander BluEvolution 92 ALU profiles in RAL 7016 matt anthracite outside, white inside. Triple Low-E glazing with argon.
 
-**Transport** — covered truck Bucharest → French Alps. Duration: 3 days. Transport cost included in the quote for orders above 8,000 EUR.
+**Transport** — covered truck Bucharest → French Alps. Duration: 3 days. Transport was quoted separately.
 
 **Documentation** — delivered with a CE Declaration of Conformity, Salamander technical data sheet and warranty certificate — all valid in the EU.
 
@@ -23610,7 +23610,7 @@ Ein Haus auf 1.000–2.000 m Höhe in den Alpen oder im Bergland um Sinaia, Pred
 
 **Die Fertigung** — 4 Wochen in unserem Werk. Salamander-Profile BluEvolution 92 ALU außen in RAL 7016 Anthrazit matt, innen weiß. Dreifachverglasung Low-E mit Argon.
 
-**Der Transport** — geschlossener Lkw Bukarest → französische Alpen. Dauer: 3 Tage. Transportkosten im Angebot enthalten bei Aufträgen über 8.000 EUR.
+**Der Transport** — geschlossener Lkw Bukarest → französische Alpen. Dauer: 3 Tage. Der Transport wurde separat angeboten.
 
 **Die Dokumentation** — Lieferung mit CE-Konformitätserklärung, technischem Datenblatt von Salamander und Garantiezertifikat — alles in der EU gültig.
 
@@ -23719,7 +23719,7 @@ Une maison à 1 000–2 000 m d’altitude dans les Alpes ou dans la zone de mon
 
 **La fabrication** — 4 semaines dans notre usine. Profilés Salamander BluEvolution 92 ALU en RAL 7016 anthracite mat à l’extérieur, blanc à l’intérieur. Triple vitrage Low-E à l’argon.
 
-**Le transport** — camion bâché Bucarest → Alpes françaises. Durée : 3 jours. Transport inclus dans le devis pour les commandes de plus de 8 000 EUR.
+**Le transport** — camion bâché Bucarest → Alpes françaises. Durée : 3 jours. Le transport a fait l’objet d’un devis séparé.
 
 **La documentation** — livraison avec déclaration de conformité CE, fiche technique Salamander et certificat de garantie — tous valables dans l’UE.
 
@@ -23828,7 +23828,7 @@ Una casa a 1.000–2.000 m de altitud en los Alpes o en la zona de montaña de S
 
 **La fabricación**: 4 semanas en nuestra fábrica. Perfiles Salamander BluEvolution 92 ALU en RAL 7016 antracita mate por fuera y blanco por dentro. Triple acristalamiento Low-E con argón.
 
-**El transporte**: camión cubierto Bucarest → Alpes franceses. Duración: 3 días. Transporte incluido en el presupuesto para pedidos de más de 8.000 EUR.
+**El transporte**: camión cubierto Bucarest → Alpes franceses. Duración: 3 días. El transporte se presupuestó aparte.
 
 **La documentación**: entrega con declaración de conformidad CE, ficha técnica de Salamander y certificado de garantía, todos válidos en la UE.
 
@@ -23937,7 +23937,7 @@ Una casa a 1.000–2.000 m di quota nelle Alpi o nella zona montana di Sinaia-Pr
 
 **La produzione**: 4 settimane nel nostro stabilimento. Profili Salamander BluEvolution 92 ALU in RAL 7016 antracite opaco all’esterno e bianco all’interno. Vetro triplo Low-E con argon.
 
-**Il trasporto**: camion telonato Bucarest → Alpi francesi. Durata: 3 giorni. Trasporto incluso nel preventivo per ordini oltre 8.000 EUR.
+**Il trasporto**: camion telonato Bucarest → Alpi francesi. Durata: 3 giorni. Il trasporto è stato quotato a parte.
 
 **La documentazione**: consegna con dichiarazione di conformità CE, scheda tecnica Salamander e certificato di garanzia, tutti validi nell’UE.
 
@@ -25105,7 +25105,7 @@ Odată panoul poziționat corect, echipa fixează elementele de prindere (bolțu
 | Montaj per panou < 200 kg | 250–450 EUR |
 | Montaj per panou 200–600 kg | 450–800 EUR |
 | Montaj per panou > 600 kg | 800–1.500 EUR |
-| Deplasare în afara Bucureștiului (per km) | 1,5–2,5 EUR/km |
+| Deplasare în afara Bucureștiului și Ilfovului (per km) | 1,5–2,5 EUR/km |
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
@@ -25253,7 +25253,7 @@ Once the panel is correctly positioned, the team secures the fixing elements (sp
 | Installation per panel < 200 kg | 250–450 EUR |
 | Installation per panel 200–600 kg | 450–800 EUR |
 | Installation per panel > 600 kg | 800–1,500 EUR |
-| Travel outside Bucharest (per km) | 1.5–2.5 EUR/km |
+| Travel outside Bucharest and Ilfov (per km) | 1.5–2.5 EUR/km |
 
 **WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
 
@@ -25401,7 +25401,7 @@ Sobald das Element korrekt sitzt, setzt das Team die Befestigungselemente (Punkt
 | Montage je Element < 200 kg | 250–450 EUR |
 | Montage je Element 200–600 kg | 450–800 EUR |
 | Montage je Element > 600 kg | 800–1.500 EUR |
-| Anfahrt außerhalb Bukarests (je km) | 1,5–2,5 EUR/km |
+| Anfahrt außerhalb von Bukarest und Ilfov (je km) | 1,5–2,5 EUR/km |
 
 **WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18**
 
@@ -25549,7 +25549,7 @@ Une fois le panneau correctement positionné, l’équipe met en place les élé
 | Pose par panneau < 200 kg | 250–450 EUR |
 | Pose par panneau 200–600 kg | 450–800 EUR |
 | Pose par panneau > 600 kg | 800–1 500 EUR |
-| Déplacement hors de Bucarest (au km) | 1,5–2,5 EUR/km |
+| Déplacement hors de Bucarest et de l’Ilfov (au km) | 1,5–2,5 EUR/km |
 
 **WhatsApp :** +40 752 443 435 | **Lun–Ven 10–18**
 
@@ -25697,7 +25697,7 @@ Una vez colocado correctamente el panel, el equipo fija los elementos de sujeci�
 | Instalación por panel < 200 kg | 250–450 EUR |
 | Instalación por panel 200–600 kg | 450–800 EUR |
 | Instalación por panel > 600 kg | 800–1.500 EUR |
-| Desplazamiento fuera de Bucarest (por km) | 1,5–2,5 EUR/km |
+| Desplazamiento fuera de Bucarest e Ilfov (por km) | 1,5–2,5 EUR/km |
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
@@ -25845,7 +25845,7 @@ Una volta posizionata correttamente la lastra, la squadra monta gli elementi di 
 | Posa per lastra < 200 kg | 250–450 EUR |
 | Posa per lastra 200–600 kg | 450–800 EUR |
 | Posa per lastra > 600 kg | 800–1.500 EUR |
-| Trasferta fuori Bucarest (al km) | 1,5–2,5 EUR/km |
+| Trasferta fuori da Bucarest e Ilfov (al km) | 1,5–2,5 EUR/km |
 
 **WhatsApp:** +40 752 443 435 | **Lun–Ven 10–18**
 
@@ -26026,7 +26026,7 @@ Sisteme glisante liftant, ferestre panoramice, pergole cu tâmplărie, fațade p
 | Fațadă ventilată aluminiu + ACM | 180–320 EUR/mp |
 | Perete cortină structural | 400–600 EUR/mp |
 
-*Prețurile includ materiale, montaj și documentație CE. Nu includ transport pe distanțe > 50 km sau lucrări de pregătire structurală.*
+*Prețurile includ materiale, montaj și documentație CE. Transportul e inclus în București și Ilfov; în afara lor se taxează separat. Nu includ lucrări de pregătire structurală.*
 
 ---
 
@@ -26154,7 +26154,7 @@ Lift-and-slide systems, panoramic windows, pergolas with joinery, partial glass-
 | Ventilated aluminium and ACM facade | 180–320 EUR/sqm |
 | Structural curtain wall | 400–600 EUR/sqm |
 
-*Prices include materials, installation and CE documentation. They exclude transport over 50 km and any structural preparation works.*
+*Prices include materials, installation and CE documentation. Transport is included in Bucharest and Ilfov; outside these areas it is charged separately. They exclude any structural preparation works.*
 
 ---
 
@@ -26280,7 +26280,7 @@ Hebe-Schiebe-Systeme, Panoramafenster, Pergolen mit Rahmenkonstruktion, teilweis
 | Hinterlüftete Fassade Aluminium und ACM | 180–320 EUR/m² |
 | Strukturelle Vorhangfassade | 400–600 EUR/m² |
 
-*Die Preise umfassen Material, Montage und CE-Dokumentation. Nicht enthalten sind Transporte über 50 km sowie Vorarbeiten an der Tragkonstruktion.*
+*Die Preise umfassen Material, Montage und CE-Dokumentation. Der Transport ist in Bukarest und Ilfov inbegriffen, außerhalb wird er separat berechnet. Nicht enthalten sind Vorarbeiten an der Tragkonstruktion.*
 
 ---
 
@@ -26406,7 +26406,7 @@ Systèmes levants-coulissants, baies panoramiques, pergolas avec menuiseries, fa
 | Façade ventilée aluminium et ACM | 180–320 EUR/m² |
 | Mur-rideau structurel | 400–600 EUR/m² |
 
-*Les prix comprennent les matériaux, la pose et la documentation CE. Ils excluent le transport au-delà de 50 km et les travaux de préparation structurelle.*
+*Les prix comprennent les matériaux, la pose et la documentation CE. Le transport est inclus à Bucarest et dans l’Ilfov ; au-delà, il est facturé séparément. Ils excluent les travaux de préparation structurelle.*
 
 ---
 
@@ -26532,7 +26532,7 @@ Sistemas elevables-correderos, ventanales panorámicos, pérgolas con carpinter�
 | Fachada ventilada de aluminio y ACM | 180–320 EUR/m² |
 | Muro cortina estructural | 400–600 EUR/m² |
 
-*Los precios incluyen materiales, instalación y documentación CE. No incluyen transporte a más de 50 km ni trabajos de preparación estructural.*
+*Los precios incluyen materiales, instalación y documentación CE. El transporte está incluido en Bucarest e Ilfov; fuera de estas zonas se cobra aparte. No incluyen trabajos de preparación estructural.*
 
 ---
 
@@ -26658,7 +26658,7 @@ Sistemi alzanti scorrevoli, vetrate panoramiche, pergole con serramenti, facciat
 | Facciata ventilata in alluminio e ACM | 180–320 EUR/m² |
 | Facciata continua strutturale | 400–600 EUR/m² |
 
-*I prezzi comprendono materiali, posa e documentazione CE. Non comprendono il trasporto oltre i 50 km né i lavori di preparazione strutturale.*
+*I prezzi comprendono materiali, posa e documentazione CE. Il trasporto è incluso a Bucarest e Ilfov; fuori da queste zone si paga a parte. Non comprendono i lavori di preparazione strutturale.*
 
 ---
 
@@ -28749,20 +28749,20 @@ Neofort BIZ fornisce serramenti per edifici nZEB con posa a tenuta su tre piani,
     imageLabel: 'Export Salamander Europa',
     accentColor: '#183928',
     title: {
-      ro: 'Unde pot găsi ferestre Salamander cu livrare internațională? Ghid export UE 2026',
-      en: 'Where can I find Salamander windows with international delivery? EU export guide 2026',
-      de: 'Wo finde ich Salamander-Fenster mit internationalem Versand? EU-Exportleitfaden 2026',
-      fr: 'Où puis-je trouver des fenêtres Salamander avec livraison internationale ? Guide export UE 2026',
-      es: '¿Dónde puedo encontrar ventanas Salamander con entrega internacional? Guía exportación UE 2026',
-      it: 'Dove posso trovare finestre Salamander con consegna internazionale? Guida export UE 2026',
+      ro: 'Ferestre Salamander cu livrare internațională: ghid UE',
+      en: 'Salamander windows with international delivery: EU guide',
+      de: 'Salamander-Fenster mit internationalem Versand: EU-Ratgeber',
+      fr: 'Fenêtres Salamander livrées à l’international : guide UE',
+      es: 'Ventanas Salamander con entrega internacional: guía UE',
+      it: 'Finestre Salamander con consegna internazionale: guida UE',
     },
     excerpt: {
-      ro: 'Românii din diaspora și dezvoltatorii europeni caută tot mai des ferestre Salamander BluEvolution 92 cu livrare în Germania, Franța, Italia, Austria și Belgia. Ghid complet 2026: de ce tâmplăria Salamander produsă în România costă cu 30–50% mai puțin față de aceleași profile cumpărate local în Europa Occidentală, ce documente sunt necesare, cum se ambalează pentru transport și ce garanții primești.',
-      en: 'Romanian diaspora members and European developers increasingly search for Salamander BluEvolution 92 windows with delivery to Germany, France, Italy, Austria and Belgium. Complete guide 2026: why Salamander windows produced in Romania cost 30–50% less than the same profiles bought locally in Western Europe, what documents are needed, how they are packaged for transport.',
-      de: 'Rumänische Diaspora-Mitglieder und europäische Bauträger suchen zunehmend nach Salamander BluEvolution 92 Fenstern mit Lieferung nach Deutschland, Frankreich, Italien, Österreich und Belgien. Vollständiger Leitfaden 2026: warum in Rumänien produzierte Salamander-Fenster 30–50% günstiger sind.',
-      fr: "Les membres de la diaspora roumaine et les promoteurs européens recherchent de plus en plus des fenêtres Salamander BluEvolution 92 avec livraison en Allemagne, France, Italie, Autriche et Belgique. Guide complet 2026.",
-      es: 'Los miembros de la diáspora rumana y los promotores europeos buscan cada vez más ventanas Salamander BluEvolution 92 con entrega en Alemania, Francia, Italia, Austria y Bélgica. Guía completa 2026.',
-      it: "I membri della diaspora rumena e gli sviluppatori europei cercano sempre più finestre Salamander BluEvolution 92 con consegna in Germania, Francia, Italia, Austria e Belgio. Guida completa 2026.",
+      ro: 'Românii din diaspora și dezvoltatorii europeni caută tot mai des ferestre Salamander produse în România, cu livrare în Germania, Franța, Italia, Austria sau Belgia. Ghid 2026: de ce costă mai puțin, ce sisteme livrăm, cum decurge comanda, ce documente primești, cât durează și cum se calculează transportul.',
+      en: 'Romanians abroad and European developers increasingly look for Salamander windows made in Romania, delivered to Germany, France, Italy, Austria or Belgium. 2026 guide: why they cost less, which systems we supply, how ordering works, which documents you get, how long it takes and how transport is priced.',
+      de: 'Rumänen im Ausland und europäische Bauträger suchen immer häufiger in Rumänien gefertigte Salamander-Fenster mit Lieferung nach Deutschland, Frankreich, Italien, Österreich oder Belgien. Ratgeber 2026: warum sie günstiger sind, welche Systeme wir liefern, wie die Bestellung abläuft, welche Dokumente Sie erhalten, wie lange es dauert und wie der Transport berechnet wird.',
+      fr: "Les Roumains de l’étranger et les promoteurs européens recherchent de plus en plus des fenêtres Salamander fabriquées en Roumanie, livrées en Allemagne, en France, en Italie, en Autriche ou en Belgique. Guide 2026 : pourquoi elles coûtent moins cher, quels systèmes nous livrons, comment se passe la commande, quels documents vous recevez, les délais et le calcul du transport.",
+      es: 'Los rumanos en el extranjero y los promotores europeos buscan cada vez más ventanas Salamander fabricadas en Rumanía, con entrega en Alemania, Francia, Italia, Austria o Bélgica. Guía 2026: por qué cuestan menos, qué sistemas suministramos, cómo es el pedido, qué documentos recibe, cuánto tarda y cómo se calcula el transporte.',
+      it: "I rumeni all’estero e i costruttori europei cercano sempre più spesso finestre Salamander prodotte in Romania, con consegna in Germania, Francia, Italia, Austria o Belgio. Guida 2026: perché costano meno, quali sistemi forniamo, come funziona l’ordine, quali documenti ricevete, quanto ci vuole e come si calcola il trasporto.",
     },
     metaDesc: {
       ro: "Ferestre Salamander cu livrare în Uniunea Europeană: cum se ambalează, ce documente însoțesc marfa, termene și costuri de transport.",
@@ -28776,34 +28776,34 @@ Neofort BIZ fornisce serramenti per edifici nZEB con posa a tenuta su tre piani,
     content: {
       ro: `## De ce caută tot mai mulți europeni ferestre Salamander din România?
 
-În 2026, o fereastră Salamander [BluEvolution 92](/ro/tamplarie-pvc) produsă în România costă cu **30–50% mai puțin** față de aceleași profile cumpărate de la furnizori locali din Germania, Austria, Franța sau Italia.
+În 2026, o fereastră Salamander [BluEvolution 92](/ro/tamplarie-pvc) produsă în România costă de regulă **semnificativ mai puțin** decât aceeași fereastră cumpărată de la un fabricant din Germania, Austria, Franța sau Italia.
 
 Motivele sunt simple:
-- Costul forței de muncă în România este de 3–4× mai mic față de Europa Occidentală
-- Producția la scară mare și concurența ridicată din piața românească mențin prețurile competitive
-- **Profilul Salamander este identic** — produs de aceeași companie germană (Salamander Industrie-Produkte GmbH, Türkheim, Bavaria) conform acelorași specificații tehnice, indiferent unde e fabricat fereastra
+- Costul orar al muncii în România era în 2024 de circa 12,5 EUR, față de peste 40 EUR în Germania și Franța (Eurostat) — adică de peste trei ori mai mic
+- Producția la scară mare și concurența din piața românească mențin prețurile competitive
+- **Profilul Salamander este același** — sistem al producătorului german Salamander Window & Door Systems (Türkheim, Bavaria), cu aceleași specificații tehnice, indiferent unde se asamblează fereastra
 
 **Principalii clienți pentru export:**
-- Români din diaspora (Germania, Italia, Franța, Spania, Belgia, Marea Britanie) care construiesc sau renovează case în țările de rezidență
+- Români din diaspora (Germania, Italia, Franța, Spania, Belgia, Marea Britanie) care construiesc sau renovează case în țările unde locuiesc
 - Dezvoltatori imobiliari din Austria, Germania și Olanda care caută prețuri mai bune pentru proiecte medii
-- Particulari din Ungaria, Bulgaria, Serbia care aleg România pentru calitate + preț
+- Particulari din Ungaria, Bulgaria și Serbia care aleg România pentru raportul calitate-preț
 
 ---
 
 ## Ce sisteme Salamander furnizează Neofort BIZ pentru export
 
 ### Salamander BluEvolution 92 — standardul de export
-Cel mai comandat pentru export. Motivul: clienții din Europa Occidentală caută cel mai performant profil Salamander — și BluEvolution 92 este vârful de gamă.
+Cel mai comandat pentru export. Motivul: clienții din Europa Occidentală caută cel mai performant profil Salamander, iar BluEvolution 92 este vârful gamei.
 
-- 6 camere, adâncime 92mm
-- Uw = 0,70 W/m²K (geam dublu Low-E) / 0,55 W/m²K (geam triplu)
-- Certificat nZEB, Passive House, CE
-- Disponibil: alb, antracit, nuc, stejar auriu, toate culorile RAL la infoliere
+- 6 camere, adâncime 92 mm
+- Uw de la 0,70 W/m²K cu geam triplu Low-E
+- Potrivit pentru case nZEB și pasive; marcaj CE
+- Disponibil în alb, antracit, nuc, stejar auriu și în gama de folii decor Salamander
 
 ### Salamander GreenEvolution 76 — raport calitate-preț pentru proiecte mai mari
-- 5 camere, 76mm
-- Uw = 0,73 W/m²K
-- nZEB certificat
+- 5 camere, adâncime 76 mm
+- Uw de la 0,73 W/m²K cu geam triplu
+- Se încadrează în valoarea de referință Mc 001-2022 pentru clădiri rezidențiale noi (1,11 W/m²K)
 - Potrivit pentru proiecte rezidențiale cu buget mai strâns
 
 ---
@@ -28811,70 +28811,76 @@ Cel mai comandat pentru export. Motivul: clienții din Europa Occidentală caut�
 ## Cum funcționează comanda pentru export la Neofort BIZ
 
 ### Pasul 1: Solicitarea ofertei
-Trimite-ne pe WhatsApp sau email:
+Trimite-ne pe WhatsApp sau pe email:
 - Schița sau planul cu dimensiunile ferestrelor și ușilor
-- Tipul de deschidere dorit (batant, oscilo-batant, fix, culisant, liftant-glisant)
+- Tipul de deschidere dorit (batant, oscilobatant, fix, culisant, liftant-glisant)
 - Culoarea dorită
-- Țara de destinație
+- Țara și adresa de livrare
 
-Primești oferta preliminară în 24 de ore lucrătoare.
+Primești oferta în 48 de ore, cu prețul ferestrelor și, separat, costul transportului.
 
-### Pasul 2: Măsurători și confirmare
-- Pentru clienți din România: deplasare la locație pentru măsurători exacte
-- Pentru clienți din diaspora: măsurători efectuate de client după ghidul tehnic transmis de noi, confirmate de echipa noastră
+### Pasul 2: Contract și măsurători
+- După semnarea contractului se fac măsurătorile exacte.
+- Pentru clienții din România: ne deplasăm la locație.
+- Pentru clienții din diaspora: măsurătorile le face clientul sau constructorul lui, după ghidul tehnic pe care îl trimitem, iar echipa noastră le verifică înainte de producție.
 
-### Pasul 3: Producție și ambalare export
-Tâmplăria este produsă la specificațiile exacte. Ambalarea pentru export include:
-- Folie de protecție dublă pe toate suprafețele
+### Pasul 3: Producție și ambalare pentru export
+Tâmplăria se produce la dimensiunile confirmate, în **3–4 săptămâni**. Ambalarea pentru export include:
+- Folie de protecție pe toate suprafețele
 - Ramă de lemn sau carton rigid pentru fiecare bucată
-- Separatori între piese pentru a evita zgârieturile
-- Documentație CE completă în colet
+- Separatori între piese, ca să nu se zgârie
+- Documentația CE în colet
 
 ### Pasul 4: Transport
-- **Curier specializat tâmplărie** cu asigurare marfă inclusă
-- Livrare la adresa șantierului sau depozitului din țara de destinație
-- Timp de livrare: **7–14 zile lucrătoare** de la confirmarea producției
+- Camion acoperit, cu asigurarea mărfii
+- Livrare la adresa șantierului sau a depozitului din țara de destinație
+- Durata transportului: **2–5 zile**, în funcție de țară (de exemplu Germania 2–3 zile, Franța 3–4, Italia 3–5)
+- **Transportul nu e inclus în prețul ferestrelor** — se ofertează separat, după destinație și volum
 
 ---
 
-## Documente incluse în livrarea export
+## Documente incluse în livrarea pentru export
 
-✅ Declarație de performanță CE (obligatorie în UE)
-✅ Fișe tehnice profil Salamander
-✅ Factură cu TVA 0% pentru operatori intracomunitari (ROI)
-✅ CMR (document transport internațional)
+✅ Declarație de performanță (DoP) și marcaj CE (obligatorii în UE)
+✅ Fișe tehnice ale profilului Salamander
+✅ Factură fără TVA pentru firmele cu cod de TVA valid în VIES (livrare intracomunitară); pentru persoanele fizice, TVA-ul se stabilește în ofertă, după regulile UE
+✅ CMR (documentul de transport internațional)
 ✅ Instrucțiuni de montaj
+✅ Certificat de garanție
 
 ---
 
-## Prețuri orientative export — Neofort BIZ 2026
+## Prețuri orientative pentru export — Neofort BIZ 2026
 
-> ⚠️ **Notă importantă:** Prețurile sunt orientative, valabile martie 2026. Cursul EUR/RON și costurile de transport se pot modifica. Solicitați [ofertă](/ro/contact) actualizată.
+> ⚠️ **Notă importantă:** prețurile sunt orientative, la nivelul anului 2026. Costurile materialelor și cursul EUR/RON se pot modifica. Solicită o [ofertă](/ro/contact) actualizată.
 
-| Produs | Configurație | Preț estimat FOB București |
+| Produs | Configurație | Preț estimat, ridicat din București |
 |---|---|---|
 | BluEvolution 92 + geam dublu Low-E | Fereastră standard 100×120 cm | 220–320 EUR |
 | BluEvolution 92 + geam triplu Low-E | Fereastră standard 100×120 cm | 290–410 EUR |
 | GreenEvolution 76 + geam dublu Low-E | Fereastră standard 100×120 cm | 180–270 EUR |
-| Transport Germania/Austria (estimativ) | Per camion parțial (LTL) | 80–150 EUR/100 kg |
+| Transport | Spre orice țară din UE | Se ofertează separat |
 
-*Prețuri FOB București — transport și asigurare se adaugă separat în funcție de destinație și volum.*
+*Prețuri fără montaj și fără TVA, pentru marfa ridicată din București. Transportul și asigurarea se adaugă separat, în funcție de destinație și volum.*
 
 ---
 
 ## Întrebări frecvente pentru export
 
 ### Pot comanda din Germania fără să vin în România?
-Da. Toată procesul de ofertare, confirmare și plată se poate face online sau telefonic. Livrăm la adresa din Germania.
+Da. Ofertarea, contractul și plata se pot face online sau la telefon, iar ferestrele le livrăm la adresa din Germania.
 
 ### Ce garanție primesc pentru export?
-Aceeași garanție ca pentru clienții din România: 5 ani pe profil și geam, 2 ani pe feronerie.
+Aceeași garanție ca pentru clienții din România: 5–10 ani pe profilul PVC Salamander, confirmată prin certificat de garanție scris. Garanția de 2 ani pe montaj se aplică doar lucrărilor montate de echipele noastre.
 
-### Pot comanda și feronerie sau accesorii separat?
-Da — rulouri exterioare aluminiu, jaluzele Raffstore, zipscreen, glafuri, plase insecte.
+### Pot comanda și accesorii separat?
+Da — rulouri exterioare din aluminiu, jaluzele Raffstore, Zipscreen, glafuri și plase de insecte.
 
-### E nevoie de arhitect sau autorizație pentru înlocuire ferestre în Germania?
-Depinde de land și tipul imobilului. Neofort BIZ furnizează toată documentația tehnică CE necesară pentru eventuale autorizații.
+### E nevoie de arhitect sau de autorizație pentru înlocuirea ferestrelor în Germania?
+Depinde de land și de tipul clădirii. Neofort BIZ pune la dispoziție toată documentația tehnică CE de care ai nevoie pentru eventuale autorizații.
+
+### Cât durează livrarea într-o țară din Uniunea Europeană?
+Producția durează 3–4 săptămâni, iar transportul 2–5 zile, în funcție de destinație. Pentru Germania, Austria și Ungaria, termenul total uzual e de 4–5 săptămâni de la confirmarea comenzii.
 
 ---
 
@@ -28882,335 +28888,611 @@ Depinde de land și tipul imobilului. Neofort BIZ furnizează toată documentaț
 
 **WhatsApp (EN/DE/FR/IT/ES):** +40 752 443 435
 **Email:** oferte@neofort-biz.ro
-**Program:** L–V 10:00–18:00 (EET / UTC+2)
-
-### Cât durează livrarea într-o țară din Uniunea Europeană?
-Producția durează 3–4 săptămâni, iar transportul 3–7 zile în funcție de destinație. Pentru Germania, Austria și Ungaria termenul total uzual e de 4–5 săptămâni de la confirmarea comenzii.
+**Program:** L–V 10:00–18:00 (ora României, UTC+2)
 
 ---
 
 Neofort BIZ oferă sisteme Salamander pentru case, apartamente și proiecte de export, cu montaj cu echipe proprii. Descoperă [gama de ferestre PVC](/ro/tamplarie-pvc) sau [solicită o ofertă](/ro/contact). Pentru context complet, citește [ghidul livrărilor Salamander în Europa](/ro/blog/tamplarie-salamander-case-individuale-vile-export-europa). Pagini utile: [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi) și [ghidul complet al tâmplăriei PVC](/ro/tamplarie-pvc/ghid-complet).`,
 
-      en: `## Why are more and more Europeans buying Salamander windows from Romania?
+      en: `## Why are more and more Europeans looking for Salamander windows from Romania?
 
-In 2026, a Salamander [BluEvolution 92](/en/pvc-windows) window produced in Romania costs **30–50% less** than the same profiles purchased from local suppliers in Germany, Austria, France or Italy.
+In 2026, a Salamander [BluEvolution 92](/en/pvc-windows) window made in Romania usually costs **significantly less** than the same window bought from a fabricator in Germany, Austria, France or Italy.
 
-The reasons are straightforward:
-- Labour costs in Romania are 3–4× lower than in Western Europe
-- Large-scale production and high competition in the Romanian market keep prices competitive
-- **The Salamander profile is identical** — produced by the same German company (Salamander Industrie-Produkte GmbH, Türkheim, Bavaria) to the same technical specifications
+The reasons are simple:
+- The hourly labour cost in Romania was about EUR 12.5 in 2024, against more than EUR 40 in Germany and France (Eurostat) — more than three times lower
+- Large-scale production and competition on the Romanian market keep prices competitive
+- **The Salamander profile is the same** — a system from the German manufacturer Salamander Window & Door Systems (Türkheim, Bavaria), with the same technical specifications, wherever the window is assembled
 
-**Main export clients:**
-- Romanian diaspora in Germany, Italy, France, Spain, Belgium — building or renovating homes
-- Property developers in Austria, Germany and the Netherlands seeking better prices
-- Private buyers from Hungary, Bulgaria and Serbia
-
----
-
-## How export ordering works at Neofort BIZ
-
-**Step 1:** Send us your window dimensions, opening types, colour and destination country → preliminary [quote](/en/contact) within 24 working hours.
-
-**Step 2:** Production and export packaging — double protective film, wooden/cardboard frame per piece, complete CE documentation.
-
-**Step 3:** Delivery via specialist joinery courier with cargo insurance to your site address. Delivery time: **7–14 working days** from production confirmation.
+**The main export customers:**
+- Romanians living abroad (Germany, Italy, France, Spain, Belgium, the United Kingdom) who are building or renovating homes in the countries where they live
+- Property developers from Austria, Germany and the Netherlands looking for better prices on mid-sized projects
+- Private customers from Hungary, Bulgaria and Serbia who choose Romania for value for money
 
 ---
 
-## Documents included in export delivery
+## Which Salamander systems Neofort BIZ supplies for export
 
-✅ CE Declaration of Performance (mandatory in EU)
-✅ Salamander technical profile sheets
-✅ Invoice with 0% VAT for intra-community operators
-✅ CMR international transport document
+### Salamander BluEvolution 92 — the export standard
+The most ordered for export. The reason: customers in Western Europe want the best-performing Salamander profile, and BluEvolution 92 is the top of the range.
+
+- 6 chambers, 92 mm depth
+- Uw from 0.70 W/m²K with triple Low-E glazing
+- Suitable for nZEB and passive houses; CE marking
+- Available in white, anthracite, walnut, golden oak and the Salamander range of decor foils
+
+### Salamander GreenEvolution 76 — value for money for larger projects
+- 5 chambers, 76 mm depth
+- Uw from 0.73 W/m²K with triple glazing
+- Within the Mc 001-2022 reference value for new residential buildings in Romania (1.11 W/m²K)
+- Suitable for residential projects on a tighter budget
+
+---
+
+## How an export order works at Neofort BIZ
+
+### Step 1: Requesting a quote
+Send us by WhatsApp or email:
+- The sketch or plan with the dimensions of the windows and doors
+- The opening type you want (side-hung, tilt-and-turn, fixed, sliding, lift-and-slide)
+- The colour you want
+- The delivery country and address
+
+You get the quote within 48 hours, with the price of the windows and, separately, the transport cost.
+
+### Step 2: Contract and measurements
+- Once the contract is signed, the exact measurements are taken.
+- For customers in Romania: we come to the site.
+- For customers abroad: the measurements are taken by the customer or their builder, following the technical guide we send, and our team checks them before production.
+
+### Step 3: Production and export packaging
+The joinery is made to the confirmed dimensions in **3–4 weeks**. Export packaging includes:
+- Protective film on all surfaces
+- A wooden frame or rigid cardboard for each piece
+- Separators between pieces, so they do not get scratched
+- The CE documentation in the package
+
+### Step 4: Transport
+- Covered truck, with cargo insurance
+- Delivery to the site address or the warehouse in the destination country
+- Transport time: **2–5 days**, depending on the country (for example Germany 2–3 days, France 3–4, Italy 3–5)
+- **Transport is not included in the price of the windows** — it is quoted separately, according to destination and volume
+
+---
+
+## Documents included in an export delivery
+
+✅ Declaration of Performance (DoP) and CE marking (mandatory in the EU)
+✅ Technical data sheets for the Salamander profile
+✅ VAT-free invoice for companies with a valid VAT number in VIES (intra-Community supply); for private customers, VAT is set out in the quote according to EU rules
+✅ CMR (the international transport document)
 ✅ Installation instructions
+✅ Warranty certificate
 
 ---
 
 ## Indicative export prices — Neofort BIZ 2026
 
-> ⚠️ **Important note:** Prices are indicative as of March 2026. Always request an updated quote.
+> ⚠️ **Important note:** prices are indicative, at 2026 levels. Material costs and the EUR/RON exchange rate may change. Ask for an updated [quote](/en/contact).
 
-| Product | Config | Estimated price FOB Bucharest |
+| Product | Configuration | Estimated price, collected in Bucharest |
 |---|---|---|
-| BluEvolution 92 + double Low-E | Standard 100×120 cm | 220–320 EUR |
-| BluEvolution 92 + triple Low-E | Standard 100×120 cm | 290–410 EUR |
-| GreenEvolution 76 + double Low-E | Standard 100×120 cm | 180–270 EUR |
+| BluEvolution 92 + double Low-E glazing | Standard window 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + triple Low-E glazing | Standard window 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + double Low-E glazing | Standard window 100×120 cm | 180–270 EUR |
+| Transport | To any EU country | Quoted separately |
 
-**WhatsApp (EN/DE/FR/IT/ES):** +40 752 443 435 | **Mon–Fri 10–18 EET**
+*Prices without installation and excluding VAT, for goods collected in Bucharest. Transport and insurance are added separately, according to destination and volume.*
 
-## FAQ — Salamander windows for export
+---
 
-### Can I order from Germany without travelling to Romania?
-Yes. The whole process — quotation, confirmation and payment — can be handled online or by phone. We deliver to the address you give us and supply the full technical documentation.
+## Frequently Asked Questions about export
 
-### What warranty do I get on an export order?
-The same as for customers in Romania: 5 years on the profile and the glazing, 2 years on the hardware. The warranty certificate travels with the goods.
+### Can I order from Germany without coming to Romania?
+Yes. The quote, the contract and payment can all be handled online or by phone, and we deliver the windows to your address in Germany.
 
-### Can I order hardware or accessories separately?
-Yes — aluminium roller shutters, Raffstore blinds, zipscreen, window boards and insect screens can all be ordered on their own, without a full window order.
+### What warranty do I get for export?
+The same warranty as for customers in Romania: 5–10 years on the Salamander PVC profile, confirmed by a written warranty certificate. The 2-year warranty on installation applies only to work installed by our own teams.
+
+### Can I order accessories separately as well?
+Yes — aluminium exterior roller shutters, Raffstore blinds, Zipscreen, sills and insect screens.
 
 ### Do I need an architect or a permit to replace windows in Germany?
-It depends on the federal state and the type of building. Neofort BIZ supplies the complete CE technical documentation needed for any approval procedure.
+It depends on the federal state and the type of building. Neofort BIZ provides all the CE technical documentation you need for any permits.
 
-### How long does delivery to an EU country take?
-Production takes 3–4 weeks and transport 3–7 days depending on the destination. For Germany, Austria and Hungary the usual total is 4–5 weeks from order confirmation.
-
----
-
-Neofort BIZ supplies Salamander systems for houses, apartments and export projects, installed by our own teams. Discover [the PVC windows range](/en/pvc-windows) or [request a quote](/en/contact). For the full context, read [the Salamander Europe delivery guide](/en/blog/salamander-windows-individual-houses-villas-europe-export). Useful pages: [PVC window prices](/en/pvc-windows/prices) and [the complete PVC windows guide](/en/pvc-windows/complete-guide).`,
-
-      de: `## Warum kaufen immer mehr Europäer Salamander-Fenster aus Rumänien?
-
-Im Jahr 2026 kostet ein in Rumänien hergestelltes Salamander [BluEvolution 92](/de/kunststofffenster-pvc) Fenster **30–50% weniger** als dasselbe Profil bei lokalen Anbietern in Deutschland, Österreich, Frankreich oder Italien.
-
-Die Gründe liegen auf der Hand:
-- Die Arbeitskosten in Rumänien sind 3–4× niedriger als in Westeuropa
-- Das **Salamander-Profil ist identisch** — produziert von demselben deutschen Unternehmen (Salamander Industrie-Produkte GmbH, Türkheim, Bayern)
+### How long does delivery to a European Union country take?
+Production takes 3–4 weeks, and transport 2–5 days depending on the destination. For Germany, Austria and Hungary, the usual total lead time is 4–5 weeks from order confirmation.
 
 ---
 
-## So funktioniert die Exportbestellung bei Neofort BIZ
+## Contact Neofort BIZ for export
 
-**Schritt 1:** Maße, Öffnungsarten, Farbe und Bestimmungsland senden → vorläufiges [Angebot](/de/kontakt) innerhalb von 24 Werktagen.
-
-**Schritt 2:** Produktion und Exportverpackung — doppelte Schutzfolie, Holz-/Kartonrahmen, vollständige CE-Dokumentation.
-
-**Schritt 3:** Lieferung per Spezialtransport mit Frachtversicherung. Lieferzeit: **7–14 Werktage** nach Produktionsbestätigung.
+**WhatsApp (EN/DE/FR/IT/ES):** +40 752 443 435
+**Email:** oferte@neofort-biz.ro
+**Opening hours:** Mon–Fri 10:00–18:00 (Romanian time, UTC+2)
 
 ---
 
-## Im Lieferumfang enthaltene Dokumente
+Neofort BIZ supplies Salamander systems for houses, apartments and export projects, with installation by our own teams. Discover the [range of PVC windows](/en/pvc-windows) or [request a quote](/en/contact). For the full picture, read the [guide to Salamander deliveries across Europe](/en/blog/salamander-windows-individual-houses-villas-europe-export). Useful pages: [PVC window prices](/en/pvc-windows/prices) and the [complete guide to PVC windows](/en/pvc-windows/complete-guide).`,
 
-✅ CE-Leistungserklärung (in der EU obligatorisch)
-✅ Technische Datenblätter Salamander
-✅ Rechnung mit 0% MwSt für innergemeinschaftliche Betreiber
-✅ CMR internationales Transportdokument
+      de: `## Warum suchen immer mehr Europäer Salamander-Fenster aus Rumänien?
+
+2026 kostet ein in Rumänien gefertigtes Salamander-Fenster [BluEvolution 92](/de/kunststofffenster-pvc) in der Regel **deutlich weniger** als dasselbe Fenster von einem Fensterbauer in Deutschland, Österreich, Frankreich oder Italien.
+
+Die Gründe sind einfach:
+- Die Arbeitskosten pro Stunde lagen in Rumänien 2024 bei rund 12,5 EUR, in Deutschland und Frankreich bei über 40 EUR (Eurostat) — also mehr als dreimal niedriger
+- Große Produktionsmengen und der Wettbewerb auf dem rumänischen Markt halten die Preise niedrig
+- **Das Salamander-Profil ist dasselbe** — ein System des deutschen Herstellers Salamander Window & Door Systems (Türkheim, Bayern), mit denselben technischen Spezifikationen, egal wo das Fenster gefertigt wird
+
+**Die wichtigsten Exportkunden:**
+- Rumänen im Ausland (Deutschland, Italien, Frankreich, Spanien, Belgien, Vereinigtes Königreich), die in ihrem Wohnland bauen oder renovieren
+- Bauträger aus Österreich, Deutschland und den Niederlanden, die für mittelgroße Projekte bessere Preise suchen
+- Privatkunden aus Ungarn, Bulgarien und Serbien, die Rumänien wegen des Preis-Leistungs-Verhältnisses wählen
+
+---
+
+## Welche Salamander-Systeme Neofort BIZ für den Export liefert
+
+### Salamander BluEvolution 92 — der Exportstandard
+Am häufigsten für den Export bestellt. Der Grund: Kunden in Westeuropa suchen das leistungsstärkste Salamander-Profil, und BluEvolution 92 ist die Spitze des Programms.
+
+- 6 Kammern, 92 mm Bautiefe
+- Uw ab 0,70 W/m²K mit Dreifachverglasung Low-E
+- Geeignet für nZEB- und Passivhäuser; CE-Kennzeichnung
+- Erhältlich in Weiß, Anthrazit, Nussbaum, Golden Oak und im Salamander-Dekorfolienprogramm
+
+### Salamander GreenEvolution 76 — Preis-Leistung für größere Projekte
+- 5 Kammern, 76 mm Bautiefe
+- Uw ab 0,73 W/m²K mit Dreifachverglasung
+- Innerhalb des rumänischen Referenzwerts Mc 001-2022 für neue Wohngebäude (1,11 W/m²K)
+- Geeignet für Wohnprojekte mit knapperem Budget
+
+---
+
+## So läuft eine Exportbestellung bei Neofort BIZ ab
+
+### Schritt 1: Angebotsanfrage
+Senden Sie uns per WhatsApp oder E-Mail:
+- Die Skizze oder den Plan mit den Maßen der Fenster und Türen
+- Die gewünschte Öffnungsart (Dreh, Dreh-Kipp, fest, Schiebe, Hebe-Schiebe)
+- Die gewünschte Farbe
+- Das Lieferland und die Lieferadresse
+
+Sie erhalten das Angebot innerhalb von 48 Stunden, mit dem Preis der Fenster und, getrennt, den Transportkosten.
+
+### Schritt 2: Vertrag und Aufmaß
+- Nach der Vertragsunterzeichnung wird das genaue Aufmaß genommen.
+- Für Kunden in Rumänien: Wir kommen zur Baustelle.
+- Für Kunden im Ausland: Das Aufmaß nimmt der Kunde oder sein Bauunternehmer nach unserem technischen Leitfaden, und unser Team prüft es vor der Fertigung.
+
+### Schritt 3: Fertigung und Exportverpackung
+Die Fenster werden in **3–4 Wochen** nach den bestätigten Maßen gefertigt. Die Exportverpackung umfasst:
+- Schutzfolie auf allen Flächen
+- Holzrahmen oder feste Kartonage für jedes Element
+- Abstandhalter zwischen den Teilen, damit nichts verkratzt
+- Die CE-Dokumentation im Paket
+
+### Schritt 4: Transport
+- Geschlossener Lkw, mit Transportversicherung
+- Lieferung an die Baustelle oder das Lager im Zielland
+- Transportdauer: **2–5 Tage**, je nach Land (zum Beispiel Deutschland 2–3 Tage, Frankreich 3–4, Italien 3–5)
+- **Der Transport ist nicht im Fensterpreis enthalten** — er wird je nach Ziel und Volumen separat angeboten
+
+---
+
+## Dokumente, die einer Exportlieferung beiliegen
+
+✅ Leistungserklärung (DoP) und CE-Kennzeichnung (in der EU vorgeschrieben)
+✅ Technische Datenblätter des Salamander-Profils
+✅ Rechnung ohne MwSt. für Unternehmen mit gültiger USt-IdNr. in VIES (innergemeinschaftliche Lieferung); für Privatpersonen wird die MwSt. im Angebot nach den EU-Regeln ausgewiesen
+✅ CMR (der internationale Frachtbrief)
 ✅ Montageanleitung
+✅ Garantiezertifikat
 
 ---
 
-## Exportrichtpreise — Neofort BIZ 2026
+## Richtpreise für den Export — Neofort BIZ 2026
 
-> ⚠️ **Hinweis:** Alle Preise sind Richtwerte. Fordern Sie immer ein aktuelles Angebot an.
+> ⚠️ **Wichtiger Hinweis:** Die Preise sind Richtwerte auf dem Stand von 2026. Materialkosten und der EUR/RON-Kurs können sich ändern. Fordern Sie ein aktuelles [Angebot](/de/kontakt) an.
 
-| Produkt | Konfiguration | Geschätzter Preis FOB Bukarest |
+| Produkt | Ausführung | Geschätzter Preis, ab Werk Bukarest |
 |---|---|---|
-| BluEvolution 92 + Zweifach-Low-E | Standard 100×120 cm | 220–320 EUR |
-| BluEvolution 92 + Dreifach-Low-E | Standard 100×120 cm | 290–410 EUR |
-| GreenEvolution 76 + Zweifach-Low-E | Standard 100×120 cm | 180–270 EUR |
+| BluEvolution 92 + Zweifachverglasung Low-E | Standardfenster 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + Dreifachverglasung Low-E | Standardfenster 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + Zweifachverglasung Low-E | Standardfenster 100×120 cm | 180–270 EUR |
+| Transport | In jedes EU-Land | Separates Angebot |
 
-**WhatsApp (DE/EN/FR/IT/ES):** +40 752 443 435 | **Mo–Fr 10–18 MEZ+1**
-
-## FAQ — Salamander Fenster für den Export
-
-### Kann ich aus Deutschland bestellen, ohne nach Rumänien zu reisen?
-Ja. Der gesamte Ablauf — Angebot, Bestätigung und Zahlung — lässt sich online oder telefonisch abwickeln. Wir liefern an die angegebene Adresse und stellen die vollständige technische Dokumentation bereit.
-
-### Welche Garantie erhalte ich bei einer Exportbestellung?
-Dieselbe wie für Kunden in Rumänien: 5 Jahre auf Profil und Verglasung, 2 Jahre auf den Beschlag. Die Garantieurkunde begleitet die Ware.
-
-### Kann ich Beschläge oder Zubehör separat bestellen?
-Ja — Aluminiumrollläden, Raffstore, Zipscreen, Fensterbänke und Insektenschutz lassen sich auch einzeln bestellen, ohne komplette Fensterbestellung.
-
-### Brauche ich einen Architekten oder eine Genehmigung für den Fenstertausch in Deutschland?
-Das hängt vom Bundesland und der Gebäudeart ab. Neofort BIZ liefert die vollständige technische CE-Dokumentation für jedes Genehmigungsverfahren.
-
-### Wie lange dauert die Lieferung in ein EU-Land?
-Die Produktion dauert 3–4 Wochen, der Transport 3–7 Tage je nach Ziel. Für Deutschland, Österreich und Ungarn liegt die Gesamtdauer üblicherweise bei 4–5 Wochen ab Auftragsbestätigung.
+*Preise ohne Montage und ohne MwSt., für Ware ab Werk Bukarest. Transport und Versicherung kommen je nach Ziel und Volumen separat hinzu.*
 
 ---
 
-Neofort BIZ liefert Salamander-Systeme für Häuser, Wohnungen und Exportprojekte, montiert von eigenen Teams. Entdecken Sie [das PVC-Fenster-Sortiment](/de/kunststofffenster-pvc) oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Salamander-Europa-Lieferratgeber](/de/blog/salamander-fenster-einfamilienhaeuser-villen-europa-export). Nützliche Seiten: [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise) und [Ratgeber Kunststofffenster](/de/kunststofffenster-pvc/kompletter-ratgeber).`,
+## Häufig gestellte Fragen zum Export
 
-      fr: `## Pourquoi de plus en plus d'Européens achètent-ils des fenêtres Salamander de Roumanie ?
+### Kann ich aus Deutschland bestellen, ohne nach Rumänien zu kommen?
+Ja. Angebot, Vertrag und Zahlung lassen sich online oder telefonisch abwickeln, und wir liefern die Fenster an Ihre Adresse in Deutschland.
 
-En 2026, une fenêtre Salamander [BluEvolution 92](/fr/menuiserie-pvc) produite en Roumanie coûte **30 à 50% moins cher** que les mêmes profils achetés chez des fournisseurs locaux en Allemagne, Autriche, France ou Italie.
+### Welche Garantie erhalte ich beim Export?
+Dieselbe Garantie wie Kunden in Rumänien: 5–10 Jahre auf das Salamander-PVC-Profil, bestätigt durch ein schriftliches Garantiezertifikat. Die 2-jährige Garantie auf die Montage gilt nur für Arbeiten, die unsere eigenen Teams montiert haben.
+
+### Kann ich auch Zubehör separat bestellen?
+Ja — Aluminium-Außenrollläden, Raffstore-Jalousien, Zipscreen, Fensterbänke und Insektenschutz.
+
+### Brauche ich für den Fenstertausch in Deutschland einen Architekten oder eine Genehmigung?
+Das hängt vom Bundesland und vom Gebäudetyp ab. Neofort BIZ stellt Ihnen die gesamte technische CE-Dokumentation für eventuelle Genehmigungen zur Verfügung.
+
+### Wie lange dauert die Lieferung in ein Land der Europäischen Union?
+Die Fertigung dauert 3–4 Wochen, der Transport je nach Ziel 2–5 Tage. Für Deutschland, Österreich und Ungarn liegt die übliche Gesamtzeit bei 4–5 Wochen ab Auftragsbestätigung.
+
+---
+
+## Kontakt zu Neofort BIZ für den Export
+
+**WhatsApp (EN/DE/FR/IT/ES):** +40 752 443 435
+**E-Mail:** oferte@neofort-biz.ro
+**Öffnungszeiten:** Mo–Fr 10:00–18:00 Uhr (rumänische Zeit, UTC+2)
+
+---
+
+Neofort BIZ liefert Salamander-Systeme für Häuser, Wohnungen und Exportprojekte, mit Montage durch eigene Teams. Entdecken Sie das [Programm an PVC-Fenstern](/de/kunststofffenster-pvc) oder [fordern Sie ein Angebot an](/de/kontakt). Den vollständigen Überblick gibt der [Leitfaden zu Salamander-Lieferungen in Europa](/de/blog/salamander-fenster-einfamilienhaeuser-villen-europa-export). Nützliche Seiten: [Preise für PVC-Fenster](/de/kunststofffenster-pvc/preise) und der [vollständige Ratgeber zu PVC-Fenstern](/de/kunststofffenster-pvc/kompletter-ratgeber).`,
+
+      fr: `## Pourquoi de plus en plus d’Européens cherchent-ils des fenêtres Salamander de Roumanie ?
+
+En 2026, une fenêtre Salamander [BluEvolution 92](/fr/menuiserie-pvc) fabriquée en Roumanie coûte en général **nettement moins cher** que la même fenêtre achetée auprès d’un menuisier en Allemagne, en Autriche, en France ou en Italie.
 
 Les raisons sont simples :
-- Les coûts de main-d'œuvre en Roumanie sont 3 à 4× inférieurs à ceux de l'Europe occidentale
-- Le **profil Salamander est identique** — produit par la même entreprise allemande (Salamander Industrie-Produkte GmbH, Türkheim, Bavière)
+- Le coût horaire du travail en Roumanie était d’environ 12,5 EUR en 2024, contre plus de 40 EUR en Allemagne et en France (Eurostat) — soit plus de trois fois moins
+- La production à grande échelle et la concurrence sur le marché roumain maintiennent des prix compétitifs
+- **Le profilé Salamander est le même** — un système du fabricant allemand Salamander Window & Door Systems (Türkheim, Bavière), avec les mêmes spécifications techniques, quel que soit le lieu d’assemblage de la fenêtre
+
+**Les principaux clients à l’export :**
+- Les Roumains de l’étranger (Allemagne, Italie, France, Espagne, Belgique, Royaume-Uni) qui construisent ou rénovent une maison dans leur pays de résidence
+- Les promoteurs d’Autriche, d’Allemagne et des Pays-Bas qui cherchent de meilleurs prix pour des projets de taille moyenne
+- Les particuliers de Hongrie, de Bulgarie et de Serbie qui choisissent la Roumanie pour le rapport qualité-prix
 
 ---
 
-## Comment fonctionne la commande export chez Neofort BIZ
+## Les systèmes Salamander que Neofort BIZ fournit à l’export
 
-**Étape 1 :** Envoyez dimensions, types d'ouverture, couleur et pays de destination → [devis](/fr/contact) préliminaire sous 48 heures ouvrées.
+### Salamander BluEvolution 92 — le standard de l’export
+Le plus commandé à l’export. La raison : les clients d’Europe occidentale recherchent le profilé Salamander le plus performant, et BluEvolution 92 est le haut de la gamme.
 
-**Étape 2 :** Production et emballage export — double film protecteur, cadre bois/carton, documentation CE complète.
+- 6 chambres, 92 mm de profondeur
+- Uw dès 0,70 W/m²K avec triple vitrage Low-E
+- Adapté aux maisons nZEB et passives ; marquage CE
+- Disponible en blanc, anthracite, noyer, chêne doré et dans la gamme de films décor Salamander
 
-**Étape 3 :** Livraison par transporteur spécialisé avec assurance marchandises. Délai : **7 à 14 jours ouvrés** après confirmation de production.
-
----
-
-## Documents inclus dans la livraison export
-
-✅ Déclaration de performance CE (obligatoire dans l'UE)
-✅ Fiches techniques profil Salamander
-✅ Facture avec TVA 0% pour opérateurs intracommunautaires
-✅ CMR document de transport international
-✅ Instructions de montage
+### Salamander GreenEvolution 76 — le rapport qualité-prix pour les plus grands projets
+- 5 chambres, 76 mm de profondeur
+- Uw dès 0,73 W/m²K avec triple vitrage
+- Conforme à la valeur de référence roumaine Mc 001-2022 pour les logements neufs (1,11 W/m²K)
+- Adapté aux projets résidentiels au budget plus serré
 
 ---
 
-## Prix indicatifs export — Neofort BIZ 2026
+## Comment se déroule une commande à l’export chez Neofort BIZ
 
-> ⚠️ **Note :** Tous les prix sont indicatifs. Demandez toujours un devis actualisé.
+### Étape 1 : la demande de devis
+Envoyez-nous par WhatsApp ou par e-mail :
+- Le croquis ou le plan avec les dimensions des fenêtres et des portes
+- Le type d’ouverture souhaité (à la française, oscillo-battant, fixe, coulissant, levant-coulissant)
+- La couleur souhaitée
+- Le pays et l’adresse de livraison
 
-| Produit | Configuration | Prix estimé FOB Bucarest |
+Vous recevez le devis sous 48 heures, avec le prix des fenêtres et, à part, le coût du transport.
+
+### Étape 2 : contrat et métré
+- Une fois le contrat signé, les mesures exactes sont prises.
+- Pour les clients en Roumanie : nous nous déplaçons sur place.
+- Pour les clients à l’étranger : les mesures sont prises par le client ou son entreprise de construction, selon le guide technique que nous envoyons, et notre équipe les vérifie avant la fabrication.
+
+### Étape 3 : fabrication et emballage export
+Les menuiseries sont fabriquées aux dimensions confirmées en **3 à 4 semaines**. L’emballage export comprend :
+- Un film de protection sur toutes les surfaces
+- Un cadre en bois ou un carton rigide pour chaque pièce
+- Des séparateurs entre les pièces, pour éviter les rayures
+- La documentation CE dans le colis
+
+### Étape 4 : le transport
+- Camion bâché, avec assurance de la marchandise
+- Livraison à l’adresse du chantier ou à l’entrepôt dans le pays de destination
+- Durée du transport : **2 à 5 jours** selon le pays (par exemple Allemagne 2–3 jours, France 3–4, Italie 3–5)
+- **Le transport n’est pas compris dans le prix des fenêtres** — il fait l’objet d’un devis séparé, selon la destination et le volume
+
+---
+
+## Les documents joints à une livraison export
+
+✅ Déclaration des performances (DoP) et marquage CE (obligatoires dans l’UE)
+✅ Fiches techniques du profilé Salamander
+✅ Facture hors TVA pour les entreprises disposant d’un numéro de TVA valide dans VIES (livraison intracommunautaire) ; pour les particuliers, la TVA est précisée dans le devis selon les règles de l’UE
+✅ CMR (la lettre de voiture internationale)
+✅ Instructions de pose
+✅ Certificat de garantie
+
+---
+
+## Prix indicatifs à l’export — Neofort BIZ 2026
+
+> ⚠️ **Note importante :** les prix sont indicatifs, au niveau de 2026. Le coût des matériaux et le taux de change EUR/RON peuvent varier. Demandez un [devis](/fr/contact) actualisé.
+
+| Produit | Configuration | Prix estimé, départ Bucarest |
 |---|---|---|
-| BluEvolution 92 + double Low-E | Standard 100×120 cm | 220–320 EUR |
-| BluEvolution 92 + triple Low-E | Standard 100×120 cm | 290–410 EUR |
-| GreenEvolution 76 + double Low-E | Standard 100×120 cm | 180–270 EUR |
+| BluEvolution 92 + double vitrage Low-E | Fenêtre standard 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + triple vitrage Low-E | Fenêtre standard 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + double vitrage Low-E | Fenêtre standard 100×120 cm | 180–270 EUR |
+| Transport | Vers tout pays de l’UE | Devis séparé |
 
-**WhatsApp (FR/EN/DE/IT/ES) :** +40 752 443 435 | **L–V 10–18 EET**
-
-## FAQ — Fenêtres Salamander à l’export
-
-### Puis-je commander depuis la France sans me rendre en Roumanie ?
-Oui. L’ensemble du processus — devis, confirmation et paiement — se traite en ligne ou par téléphone. Nous livrons à l’adresse indiquée et fournissons toute la documentation technique.
-
-### Quelle garantie s’applique à une commande export ?
-La même que pour les clients roumains : 5 ans sur le profilé et le vitrage, 2 ans sur la quincaillerie. Le certificat de garantie accompagne la marchandise.
-
-### Puis-je commander la quincaillerie ou les accessoires séparément ?
-Oui — volets roulants aluminium, stores Raffstore, zipscreen, appuis et moustiquaires peuvent être commandés seuls, sans commande complète de menuiseries.
-
-### Faut-il un architecte ou une autorisation pour remplacer des fenêtres en France ?
-Cela dépend de la commune et du type de bâtiment. Neofort BIZ fournit l’ensemble de la documentation technique CE nécessaire à toute démarche.
-
-### Quel est le délai de livraison dans un pays de l’Union européenne ?
-La production prend 3 à 4 semaines et le transport 3 à 7 jours selon la destination. Pour la France, l’Allemagne et l’Autriche, comptez 4 à 5 semaines au total après confirmation.
+*Prix hors pose et hors TVA, pour une marchandise enlevée à Bucarest. Le transport et l’assurance s’ajoutent séparément, selon la destination et le volume.*
 
 ---
 
-Neofort BIZ fournit des systèmes Salamander pour maisons, appartements et projets d’export, posés par nos équipes. Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide des livraisons Salamander en Europe](/fr/blog/menuiserie-salamander-maisons-individuelles-villas-export-europe). Pages utiles : [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix) et [le guide complet de la menuiserie PVC](/fr/menuiserie-pvc/guide-complet).`,
+## Questions fréquentes sur l’export
 
-      es: `## ¿Por qué cada vez más europeos compran ventanas Salamander de Rumanía?
+### Puis-je commander depuis l’Allemagne sans venir en Roumanie ?
+Oui. Le devis, le contrat et le paiement peuvent se faire en ligne ou par téléphone, et nous livrons les fenêtres à votre adresse en Allemagne.
 
-En 2026, una ventana Salamander [BluEvolution 92](/es/carpinteria-pvc) producida en Rumanía cuesta un **30–50% menos** que los mismos perfiles comprados a proveedores locales en Alemania, Austria, Francia o Italia.
+### Quelle garantie ai-je à l’export ?
+La même garantie que pour les clients en Roumanie : 5 à 10 ans sur le profilé PVC Salamander, confirmée par un certificat de garantie écrit. La garantie de 2 ans sur la pose ne s’applique qu’aux travaux posés par nos propres équipes.
 
-Las razones son simples:
-- Los costes laborales en Rumanía son 3–4× inferiores a los de Europa Occidental
-- El **perfil Salamander es idéntico** — producido por la misma empresa alemana (Salamander Industrie-Produkte GmbH, Türkheim, Baviera)
+### Puis-je aussi commander des accessoires séparément ?
+Oui — volets roulants extérieurs en aluminium, brise-soleil Raffstore, Zipscreen, appuis de fenêtre et moustiquaires.
 
----
+### Faut-il un architecte ou une autorisation pour remplacer des fenêtres en Allemagne ?
+Cela dépend du Land et du type de bâtiment. Neofort BIZ fournit toute la documentation technique CE nécessaire pour d’éventuelles autorisations.
 
-## Cómo funciona el pedido de exportación en Neofort BIZ
-
-**Paso 1:** Envíe dimensiones, tipos de apertura, color y país de destino → [presupuesto](/es/contacto) preliminar en 48 horas laborables.
-
-**Paso 2:** Producción y embalaje de exportación — doble film protector, marco de madera/cartón, documentación CE completa.
-
-**Paso 3:** Entrega mediante transportista especializado con seguro de mercancías. Plazo: **7–14 días laborables** desde confirmación de producción.
+### Combien de temps prend une livraison dans un pays de l’Union européenne ?
+La fabrication prend 3 à 4 semaines, et le transport 2 à 5 jours selon la destination. Pour l’Allemagne, l’Autriche et la Hongrie, le délai total habituel est de 4 à 5 semaines après la confirmation de la commande.
 
 ---
 
-## Documentos incluidos en la entrega de exportación
+## Contactez Neofort BIZ pour l’export
 
-✅ Declaración de prestaciones CE (obligatoria en la UE)
-✅ Fichas técnicas perfil Salamander
-✅ Factura con IVA 0% para operadores intracomunitarios
-✅ CMR documento de transporte internacional
+**WhatsApp (EN/DE/FR/IT/ES) :** +40 752 443 435
+**E-mail :** oferte@neofort-biz.ro
+**Horaires :** du lundi au vendredi, 10h–18h (heure de Roumanie, UTC+2)
+
+---
+
+Neofort BIZ fournit des systèmes Salamander pour maisons, appartements et projets à l’export, avec pose par nos propres équipes. Découvrez la [gamme de fenêtres PVC](/fr/menuiserie-pvc) ou [demandez un devis](/fr/contact). Pour une vue d’ensemble, lisez le [guide des livraisons Salamander en Europe](/fr/blog/menuiserie-salamander-maisons-individuelles-villas-export-europe). Pages utiles : [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix) et le [guide complet de la menuiserie PVC](/fr/menuiserie-pvc/guide-complet).`,
+
+      es: `## ¿Por qué cada vez más europeos buscan ventanas Salamander de Rumanía?
+
+En 2026, una ventana Salamander [BluEvolution 92](/es/carpinteria-pvc) fabricada en Rumanía suele costar **bastante menos** que la misma ventana comprada a un fabricante de Alemania, Austria, Francia o Italia.
+
+Los motivos son sencillos:
+- El coste laboral por hora en Rumanía era de unos 12,5 EUR en 2024, frente a más de 40 EUR en Alemania y Francia (Eurostat): más de tres veces menor
+- La producción a gran escala y la competencia del mercado rumano mantienen los precios competitivos
+- **El perfil Salamander es el mismo**: un sistema del fabricante alemán Salamander Window & Door Systems (Türkheim, Baviera), con las mismas especificaciones técnicas, se monte donde se monte la ventana
+
+**Los principales clientes de exportación:**
+- Rumanos en el extranjero (Alemania, Italia, Francia, España, Bélgica, Reino Unido) que construyen o reforman su casa en el país donde viven
+- Promotores de Austria, Alemania y los Países Bajos que buscan mejores precios para proyectos medianos
+- Particulares de Hungría, Bulgaria y Serbia que eligen Rumanía por la relación calidad-precio
+
+---
+
+## Qué sistemas Salamander suministra Neofort BIZ para exportación
+
+### Salamander BluEvolution 92: el estándar de exportación
+El más pedido para exportación. El motivo: los clientes de Europa occidental buscan el perfil Salamander de mayor rendimiento, y BluEvolution 92 es lo más alto de la gama.
+
+- 6 cámaras, 92 mm de profundidad
+- Uw desde 0,70 W/m²K con triple acristalamiento Low-E
+- Apto para casas nZEB y pasivas; marcado CE
+- Disponible en blanco, antracita, nogal, roble dorado y en la gama de láminas decorativas de Salamander
+
+### Salamander GreenEvolution 76: calidad-precio para proyectos más grandes
+- 5 cámaras, 76 mm de profundidad
+- Uw desde 0,73 W/m²K con triple acristalamiento
+- Dentro del valor de referencia rumano Mc 001-2022 para viviendas nuevas (1,11 W/m²K)
+- Adecuado para proyectos residenciales con presupuesto más ajustado
+
+---
+
+## Cómo funciona un pedido de exportación en Neofort BIZ
+
+### Paso 1: Solicitud de presupuesto
+Envíenos por WhatsApp o por correo electrónico:
+- El croquis o el plano con las medidas de las ventanas y puertas
+- El tipo de apertura que desea (practicable, oscilobatiente, fija, corredera, elevadora-corredera)
+- El color que desea
+- El país y la dirección de entrega
+
+Recibe el presupuesto en 48 horas, con el precio de las ventanas y, aparte, el coste del transporte.
+
+### Paso 2: Contrato y medición
+- Tras firmar el contrato se toman las medidas exactas.
+- Para clientes en Rumanía: vamos a la obra.
+- Para clientes en el extranjero: las medidas las toma el cliente o su constructor, siguiendo la guía técnica que enviamos, y nuestro equipo las revisa antes de fabricar.
+
+### Paso 3: Fabricación y embalaje de exportación
+La carpintería se fabrica con las medidas confirmadas en **3–4 semanas**. El embalaje de exportación incluye:
+- Film de protección en todas las superficies
+- Marco de madera o cartón rígido para cada pieza
+- Separadores entre piezas, para que no se rayen
+- La documentación CE dentro del paquete
+
+### Paso 4: Transporte
+- Camión cubierto, con seguro de la mercancía
+- Entrega en la dirección de la obra o en el almacén del país de destino
+- Duración del transporte: **2–5 días**, según el país (por ejemplo, Alemania 2–3 días, Francia 3–4, Italia 3–5)
+- **El transporte no está incluido en el precio de las ventanas**: se presupuesta aparte, según el destino y el volumen
+
+---
+
+## Documentos incluidos en una entrega de exportación
+
+✅ Declaración de prestaciones (DoP) y marcado CE (obligatorios en la UE)
+✅ Fichas técnicas del perfil Salamander
+✅ Factura sin IVA para empresas con número de IVA válido en VIES (entrega intracomunitaria); para particulares, el IVA se indica en el presupuesto según las normas de la UE
+✅ CMR (la carta de porte internacional)
 ✅ Instrucciones de montaje
+✅ Certificado de garantía
 
 ---
 
-## Precios orientativos exportación — Neofort BIZ 2026
+## Precios orientativos de exportación: Neofort BIZ 2026
 
-> ⚠️ **Nota:** Todos los precios son orientativos. Solicite siempre un presupuesto actualizado.
+> ⚠️ **Nota importante:** los precios son orientativos, a niveles de 2026. El coste de los materiales y el tipo de cambio EUR/RON pueden variar. Pida un [presupuesto](/es/contacto) actualizado.
 
-| Producto | Configuración | Precio estimado FOB Bucarest |
+| Producto | Configuración | Precio estimado, recogida en Bucarest |
 |---|---|---|
-| BluEvolution 92 + doble Low-E | Estándar 100×120 cm | 220–320 EUR |
-| BluEvolution 92 + triple Low-E | Estándar 100×120 cm | 290–410 EUR |
-| GreenEvolution 76 + doble Low-E | Estándar 100×120 cm | 180–270 EUR |
+| BluEvolution 92 + doble acristalamiento Low-E | Ventana estándar 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + triple acristalamiento Low-E | Ventana estándar 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + doble acristalamiento Low-E | Ventana estándar 100×120 cm | 180–270 EUR |
+| Transporte | A cualquier país de la UE | Se presupuesta aparte |
 
-**WhatsApp (ES/EN/DE/FR/IT):** +40 752 443 435 | **L–V 10–18 EET**
+*Precios sin instalación y sin IVA, para mercancía recogida en Bucarest. El transporte y el seguro se añaden aparte, según el destino y el volumen.*
 
-## FAQ — Ventanas Salamander para exportación
+---
 
-### ¿Puedo pedir desde España sin viajar a Rumanía?
-Sí. Todo el proceso — presupuesto, confirmación y pago — se gestiona en línea o por teléfono. Entregamos en la dirección que nos indique y facilitamos toda la documentación técnica.
+## Preguntas frecuentes sobre exportación
 
-### ¿Qué garantía tengo en un pedido de exportación?
-La misma que para los clientes en Rumanía: 5 años en perfil y vidrio, 2 años en la herrajería. El certificado de garantía viaja con la mercancía.
+### ¿Puedo hacer el pedido desde Alemania sin venir a Rumanía?
+Sí. El presupuesto, el contrato y el pago se pueden hacer por internet o por teléfono, y entregamos las ventanas en su dirección de Alemania.
 
-### ¿Puedo pedir herrajes o accesorios por separado?
-Sí — persianas de aluminio, Raffstore, zipscreen, vierteaguas y mosquiteras pueden pedirse sueltos, sin necesidad de un pedido completo de ventanas.
+### ¿Qué garantía tengo en exportación?
+La misma que los clientes de Rumanía: 5–10 años sobre el perfil de PVC Salamander, confirmada con un certificado de garantía por escrito. La garantía de 2 años sobre la instalación solo se aplica a los trabajos instalados por nuestros propios equipos.
 
-### ¿Hace falta arquitecto o licencia para cambiar ventanas en España?
-Depende del municipio y del tipo de inmueble. Neofort BIZ entrega toda la documentación técnica CE necesaria para cualquier trámite.
+### ¿Puedo pedir también accesorios por separado?
+Sí: persianas exteriores de aluminio, celosías Raffstore, Zipscreen, vierteaguas y mosquiteras.
+
+### ¿Hace falta arquitecto o licencia para cambiar ventanas en Alemania?
+Depende del estado federado y del tipo de edificio. Neofort BIZ le facilita toda la documentación técnica CE que necesite para posibles licencias.
 
 ### ¿Cuánto tarda la entrega en un país de la Unión Europea?
-La producción lleva 3–4 semanas y el transporte 3–7 días según el destino. Para España, Francia y Alemania el plazo total habitual es de 4–5 semanas desde la confirmación.
+La fabricación dura 3–4 semanas y el transporte 2–5 días, según el destino. Para Alemania, Austria y Hungría, el plazo total habitual es de 4–5 semanas desde la confirmación del pedido.
 
 ---
 
-Neofort BIZ suministra sistemas Salamander para casas, pisos y proyectos de exportación, montados por equipos propios. Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía de entregas Salamander en Europa](/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa). Páginas útiles: [los precios de la carpintería PVC](/es/carpinteria-pvc/precios) y [la guía completa de carpintería PVC](/es/carpinteria-pvc/guia-completa).`,
+## Contacte con Neofort BIZ para exportación
 
-      it: `## Perché sempre più europei acquistano finestre Salamander dalla Romania?
-
-Nel 2026, una finestra Salamander [BluEvolution 92](/it/infissi-pvc) prodotta in Romania costa il **30–50% in meno** rispetto agli stessi profili acquistati da fornitori locali in Germania, Austria, Francia o Italia.
-
-Le ragioni sono semplici:
-- Il costo del lavoro in Romania è 3–4× inferiore rispetto all'Europa occidentale
-- Il **profilo Salamander è identico** — prodotto dalla stessa azienda tedesca (Salamander Industrie-Produkte GmbH, Türkheim, Baviera)
+**WhatsApp (EN/DE/FR/IT/ES):** +40 752 443 435
+**Correo electrónico:** oferte@neofort-biz.ro
+**Horario:** L–V 10:00–18:00 (hora de Rumanía, UTC+2)
 
 ---
 
-## Come funziona l'ordine export da Neofort BIZ
+Neofort BIZ suministra sistemas Salamander para casas, pisos y proyectos de exportación, con instalación por equipos propios. Descubra la [gama de ventanas de PVC](/es/carpinteria-pvc) o [solicite un presupuesto](/es/contacto). Para el panorama completo, lea la [guía de las entregas Salamander en Europa](/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa). Páginas útiles: [los precios de la carpintería de PVC](/es/carpinteria-pvc/precios) y la [guía completa de la carpintería de PVC](/es/carpinteria-pvc/guia-completa).`,
 
-**Passo 1:** Inviate dimensioni, tipi di apertura, colore e paese di destinazione → [preventivo](/it/contatti) preliminare entro 48 ore lavorative.
+      it: `## Perché sempre più europei cercano finestre Salamander dalla Romania?
 
-**Passo 2:** Produzione e imballaggio export — doppio film protettivo, cornice in legno/cartone, documentazione CE completa.
+Nel 2026 una finestra Salamander [BluEvolution 92](/it/infissi-pvc) prodotta in Romania costa di solito **molto meno** della stessa finestra acquistata da un serramentista in Germania, Austria, Francia o Italia.
 
-**Passo 3:** Consegna tramite corriere specializzato con assicurazione merci. Tempi: **7–14 giorni lavorativi** dalla conferma della produzione.
+I motivi sono semplici:
+- Il costo orario del lavoro in Romania era di circa 12,5 EUR nel 2024, contro oltre 40 EUR in Germania e Francia (Eurostat): più di tre volte inferiore
+- La produzione su larga scala e la concorrenza del mercato rumeno mantengono i prezzi competitivi
+- **Il profilo Salamander è lo stesso**: un sistema del produttore tedesco Salamander Window & Door Systems (Türkheim, Baviera), con le stesse specifiche tecniche, ovunque venga assemblata la finestra
 
----
-
-## Documenti inclusi nella consegna export
-
-✅ Dichiarazione di prestazione CE (obbligatoria nell'UE)
-✅ Schede tecniche profilo Salamander
-✅ Fattura con IVA 0% per operatori intracomunitari
-✅ CMR documento di trasporto internazionale
-✅ Istruzioni di montaggio
+**I principali clienti dell’export:**
+- Rumeni all’estero (Germania, Italia, Francia, Spagna, Belgio, Regno Unito) che costruiscono o ristrutturano casa nel Paese in cui vivono
+- Costruttori di Austria, Germania e Paesi Bassi che cercano prezzi migliori per progetti di medie dimensioni
+- Privati di Ungheria, Bulgaria e Serbia che scelgono la Romania per il rapporto qualità-prezzo
 
 ---
 
-## Prezzi indicativi export — Neofort BIZ 2026
+## Quali sistemi Salamander fornisce Neofort BIZ per l’export
 
-> ⚠️ **Nota:** Tutti i prezzi sono indicativi. Richiedete sempre un preventivo aggiornato.
+### Salamander BluEvolution 92: lo standard dell’export
+Il più ordinato per l’export. Il motivo: i clienti dell’Europa occidentale cercano il profilo Salamander più performante, e BluEvolution 92 è il top della gamma.
 
-| Prodotto | Configurazione | Prezzo stimato FOB Bucarest |
+- 6 camere, profondità 92 mm
+- Uw da 0,70 W/m²K con triplo vetro Low-E
+- Adatto a case nZEB e passive; marcatura CE
+- Disponibile in bianco, antracite, noce, rovere dorato e nella gamma di pellicole decorative Salamander
+
+### Salamander GreenEvolution 76: qualità-prezzo per i progetti più grandi
+- 5 camere, profondità 76 mm
+- Uw da 0,73 W/m²K con triplo vetro
+- Entro il valore di riferimento rumeno Mc 001-2022 per gli edifici residenziali nuovi (1,11 W/m²K)
+- Adatto a progetti residenziali con budget più contenuto
+
+---
+
+## Come funziona un ordine per l’export da Neofort BIZ
+
+### Passo 1: Richiesta di preventivo
+Inviateci via WhatsApp o e-mail:
+- Lo schizzo o la pianta con le misure di finestre e porte
+- Il tipo di apertura desiderato (a battente, anta-ribalta, fissa, scorrevole, alzante-scorrevole)
+- Il colore desiderato
+- Il Paese e l’indirizzo di consegna
+
+Ricevete il preventivo entro 48 ore, con il prezzo delle finestre e, a parte, il costo del trasporto.
+
+### Passo 2: Contratto e rilievo
+- Dopo la firma del contratto si prendono le misure esatte.
+- Per i clienti in Romania: veniamo in cantiere.
+- Per i clienti all’estero: le misure le prende il cliente o la sua impresa, seguendo la guida tecnica che inviamo, e il nostro team le verifica prima della produzione.
+
+### Passo 3: Produzione e imballaggio per l’export
+I serramenti vengono prodotti sulle misure confermate in **3–4 settimane**. L’imballaggio per l’export comprende:
+- Pellicola protettiva su tutte le superfici
+- Telaio in legno o cartone rigido per ogni pezzo
+- Separatori tra i pezzi, perché non si graffino
+- La documentazione CE nel collo
+
+### Passo 4: Trasporto
+- Camion telonato, con assicurazione della merce
+- Consegna all’indirizzo del cantiere o al magazzino nel Paese di destinazione
+- Durata del trasporto: **2–5 giorni**, a seconda del Paese (per esempio Germania 2–3 giorni, Francia 3–4, Italia 3–5)
+- **Il trasporto non è incluso nel prezzo delle finestre**: si quota a parte, in base a destinazione e volume
+
+---
+
+## Documenti inclusi nella consegna per l’export
+
+✅ Dichiarazione di prestazione (DoP) e marcatura CE (obbligatorie nell’UE)
+✅ Schede tecniche del profilo Salamander
+✅ Fattura senza IVA per le aziende con partita IVA valida in VIES (cessione intracomunitaria); per i privati, l’IVA è indicata nel preventivo secondo le regole UE
+✅ CMR (la lettera di vettura internazionale)
+✅ Istruzioni di posa
+✅ Certificato di garanzia
+
+---
+
+## Prezzi indicativi per l’export: Neofort BIZ 2026
+
+> ⚠️ **Nota importante:** i prezzi sono indicativi, ai livelli del 2026. Il costo dei materiali e il cambio EUR/RON possono variare. Richiedete un [preventivo](/it/contatti) aggiornato.
+
+| Prodotto | Configurazione | Prezzo stimato, franco Bucarest |
 |---|---|---|
-| BluEvolution 92 + doppio Low-E | Standard 100×120 cm | 220–320 EUR |
-| BluEvolution 92 + triplo Low-E | Standard 100×120 cm | 290–410 EUR |
-| GreenEvolution 76 + doppio Low-E | Standard 100×120 cm | 180–270 EUR |
+| BluEvolution 92 + doppio vetro Low-E | Finestra standard 100×120 cm | 220–320 EUR |
+| BluEvolution 92 + triplo vetro Low-E | Finestra standard 100×120 cm | 290–410 EUR |
+| GreenEvolution 76 + doppio vetro Low-E | Finestra standard 100×120 cm | 180–270 EUR |
+| Trasporto | Verso qualsiasi Paese UE | Quotato a parte |
 
-**WhatsApp (IT/EN/DE/FR/ES):** +40 752 443 435 | **L–V 10–18 EET**
-
-## FAQ — Finestre Salamander per l’export
-
-### Posso ordinare dall’Italia senza venire in Romania?
-Sì. L’intero processo — preventivo, conferma e pagamento — si gestisce online o al telefono. Consegniamo all’indirizzo indicato e forniamo tutta la documentazione tecnica.
-
-### Quale garanzia ho su un ordine per l’estero?
-La stessa dei clienti in Romania: 5 anni su profilo e vetro, 2 anni sulla ferramenta. Il certificato di garanzia accompagna la merce.
-
-### Posso ordinare ferramenta o accessori separatamente?
-Sì — tapparelle in alluminio, Raffstore, zipscreen, davanzali e zanzariere si possono ordinare singolarmente, senza un ordine completo di serramenti.
-
-### Serve un architetto o un permesso per sostituire le finestre in Italia?
-Dipende dal comune e dal tipo di immobile. Neofort BIZ fornisce tutta la documentazione tecnica CE necessaria per qualsiasi pratica.
-
-### Quanto dura la consegna in un paese dell’Unione Europea?
-La produzione richiede 3–4 settimane e il trasporto 3–7 giorni secondo la destinazione. Per Italia, Austria e Germania il tempo totale abituale è di 4–5 settimane dalla conferma.
+*Prezzi senza posa e IVA esclusa, per merce ritirata a Bucarest. Trasporto e assicurazione si aggiungono a parte, in base a destinazione e volume.*
 
 ---
 
-Neofort BIZ fornisce sistemi Salamander per case, appartamenti e progetti export, montati da squadre proprie. Scopri [la gamma di infissi PVC](/it/infissi-pvc) o [richiedi un preventivo](/it/contatti). Per il contesto completo, leggi [la guida alle consegne Salamander in Europa](/it/blog/infissi-salamander-case-individuali-ville-esportazione-europa). Pagine utili: [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi) e [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa).`,
+## Domande frequenti sull’export
+
+### Posso ordinare dalla Germania senza venire in Romania?
+Sì. Preventivo, contratto e pagamento si possono gestire online o al telefono, e consegniamo le finestre al vostro indirizzo in Germania.
+
+### Che garanzia ho per l’export?
+La stessa dei clienti in Romania: 5–10 anni sul profilo in PVC Salamander, confermata da un certificato di garanzia scritto. La garanzia di 2 anni sulla posa vale solo per i lavori posati dalle nostre squadre.
+
+### Posso ordinare anche accessori a parte?
+Sì: tapparelle esterne in alluminio, veneziane Raffstore, Zipscreen, davanzali e zanzariere.
+
+### Serve un architetto o un permesso per sostituire le finestre in Germania?
+Dipende dal Land e dal tipo di edificio. Neofort BIZ mette a disposizione tutta la documentazione tecnica CE necessaria per eventuali permessi.
+
+### Quanto dura la consegna in un Paese dell’Unione europea?
+La produzione dura 3–4 settimane e il trasporto 2–5 giorni, a seconda della destinazione. Per Germania, Austria e Ungheria, i tempi totali abituali sono di 4–5 settimane dalla conferma dell’ordine.
+
+---
+
+## Contattate Neofort BIZ per l’export
+
+**WhatsApp (EN/DE/FR/IT/ES):** +40 752 443 435
+**E-mail:** oferte@neofort-biz.ro
+**Orari:** lun–ven 10:00–18:00 (ora rumena, UTC+2)
+
+---
+
+Neofort BIZ fornisce sistemi Salamander per case, appartamenti e progetti di export, con posa a cura delle proprie squadre. Scoprite la [gamma di finestre in PVC](/it/infissi-pvc) o [richiedete un preventivo](/it/contatti). Per il quadro completo, leggete la [guida alle consegne Salamander in Europa](/it/blog/infissi-salamander-case-individuali-ville-esportazione-europa). Pagine utili: [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi) e la [guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa).`,
     },
   },
 
@@ -33811,12 +34093,12 @@ Neofort BIZ produce e installa porte d'ingresso in alluminio a taglio termico a 
     readTime: { ro:'7 min', en:'7 min', de:'7 Min', fr:'7 min', es:'7 min', it:'7 min' },
     category: { ro:'Automatizare & Smart Home', en:'Automation & Smart Home', de:'Automatisierung & Smart Home', fr:'Automatisation & Maison Connectée', es:'Automatización & Smart Home', it:'Automazione & Casa Intelligente' },
     title: {
-      ro: 'Motor Somfy pentru rulouri exterioare — Ghid complet 2026: Oximo io, RS100, solar și TaHoma',
-      en: 'Somfy motor for exterior shutters — Complete guide 2026: Oximo io, RS100, solar and TaHoma',
-      de: 'Somfy Motor für Außenrollläden — Kompletter Ratgeber 2026: Oximo io, RS100, Solar und TaHoma',
-      fr: 'Moteur Somfy pour volets roulants extérieurs — Guide complet 2026 : Oximo io, RS100, solaire et TaHoma',
-      es: 'Motor Somfy para persianas exteriores — Guía completa 2026: Oximo io, RS100, solar y TaHoma',
-      it: 'Motore Somfy per tapparelle esterne — Guida completa 2026: Oximo io, RS100, solare e TaHoma',
+      ro: 'Motor Somfy pentru rulouri exterioare: Oximo, RS100, solar',
+      en: 'Somfy motors for exterior shutters: Oximo, RS100, solar',
+      de: 'Somfy-Motoren für Außenrollläden: Oximo, RS100, Solar',
+      fr: 'Moteurs Somfy pour volets roulants : Oximo, RS100, solaire',
+      es: 'Motores Somfy para persianas: Oximo, RS100, solar',
+      it: 'Motori Somfy per tapparelle: Oximo, RS100, solare',
     },
     metaDesc: {
       ro: "Motoare Somfy pentru rulouri exterioare: Oximo io, RS100, variantele solare și integrarea TaHoma. Cum alegi puterea potrivită și ce cablare cere.",
@@ -33827,268 +34109,446 @@ Neofort BIZ produce e installa porte d'ingresso in alluminio a taglio termico a 
       it: "Motori Somfy per tapparelle: Oximo io, RS100, versioni solari e integrazione TaHoma. Come dimensionare il motore e quale cablaggio serve.",
     },
     excerpt: {
-      ro: 'Motorul Somfy Oximo io este cea mai bună alegere pentru automatizarea rulourilor exterioare în 2026. Silențios, cu autoreglare, compatibil TaHoma și garantat 5 ani — de la 250 EUR montat. Complet cu RS100 io solar, varianta fără cabluri.',
-      en: 'The Somfy Oximo io motor is the best choice for automating exterior shutters in 2026. Silent, self-adjusting, TaHoma compatible and 5-year warranty — from 250 EUR installed. Complete with RS100 io solar, the cable-free option.',
-      de: 'Der Somfy Oximo io Motor ist 2026 die beste Wahl für die Automatisierung von Außenrollläden. Leise, selbstjustierend, TaHoma-kompatibel und 5 Jahre Garantie — ab 250 EUR montiert. Komplett mit RS100 io Solar, der kabellosen Option.',
-      fr: 'Le moteur Somfy Oximo io est le meilleur choix pour l\'automatisation des volets roulants extérieurs en 2026. Silencieux, auto-ajustable, compatible TaHoma et garanti 5 ans — à partir de 250 EUR posé. Complet avec RS100 io solaire, l\'option sans câble.',
-      es: 'El motor Somfy Oximo io es la mejor elección para automatizar persianas exteriores en 2026. Silencioso, autoajustable, compatible TaHoma y garantía de 5 años — desde 250 EUR instalado. Completo con RS100 io solar, la opción sin cables.',
-      it: `Il motore Somfy Oximo io è la scelta migliore per automatizzare le tapparelle esterne nel 2026. Silenzioso, autoregolante, compatibile TaHoma e garanzia 5 anni — da 250 EUR installato. Completo con RS100 io solare, l'opzione senza cavi.`,
+      ro: 'Ce motor Somfy alegi pentru rulourile exterioare în 2026: Oximo io (standardul), S&SO RS100 io (silențios, cu două viteze) sau Oximo Solar io (fără cabluri prin perete). Prețuri de la 250 EUR montat, fără TVA, plus senzori și integrarea TaHoma.',
+      en: 'Which Somfy motor to choose for exterior shutters in 2026: Oximo io (the standard), S&SO RS100 io (quiet, with two speeds) or Oximo Solar io (no cables through the wall). Prices from 250 EUR installed, excluding VAT, plus sensors and TaHoma integration.',
+      de: 'Welcher Somfy-Motor 2026 für Außenrollläden: Oximo io (der Standard), S&SO RS100 io (leise, mit zwei Geschwindigkeiten) oder Oximo Solar io (ohne Kabel durch die Wand). Preise ab 250 EUR montiert, ohne MwSt., dazu Sensoren und TaHoma-Anbindung.',
+      fr: 'Quel moteur Somfy choisir pour des volets roulants en 2026 : Oximo io (le standard), S&SO RS100 io (silencieux, à deux vitesses) ou Oximo Solar io (sans câble à travers le mur). Prix dès 250 EUR posé, hors TVA, plus capteurs et intégration TaHoma.',
+      es: 'Qué motor Somfy elegir para persianas exteriores en 2026: Oximo io (el estándar), S&SO RS100 io (silencioso, con dos velocidades) u Oximo Solar io (sin cables a través del muro). Precios desde 250 EUR instalado, sin IVA, más sensores e integración TaHoma.',
+      it: `Quale motore Somfy scegliere per le tapparelle nel 2026: Oximo io (lo standard), S&SO RS100 io (silenzioso, a due velocità) o Oximo Solar io (senza cavi nel muro). Prezzi da 250 EUR posato, IVA esclusa, più sensori e integrazione TaHoma.`,
     },
     content: {
       ro: `## De ce Somfy pentru rulouri exterioare?
 
-Somfy este liderul global în automatizarea rulourilor și jaluzelelor, cu prezență în România de peste 20 de ani. Spre deosebire de motoarele generice din import, Somfy oferă cel mai extins ecosistem de automatizare — de la telecomanda simplă până la integrarea completă în sistemul TaHoma smart home, compatibil cu Alexa, Google Home și Apple HomeKit.
+Somfy este producătorul francez care se prezintă drept liderul mondial în motorizarea rulourilor, jaluzelelor și copertinelor. Spre deosebire de motoarele generice din import, Somfy oferă un ecosistem complet — de la telecomanda simplă până la integrarea în casa inteligentă prin TaHoma, compatibil cu Alexa, Google Home și Apple HomeKit. Toate motoarele pe care le montăm folosesc protocolul radio **io-homecontrol**, cu confirmare de comandă: telecomanda îți arată dacă ruloul chiar a ajuns sus sau jos.
 
 ## Motoare Somfy pentru rulouri — ghid comparativ 2026
 
 ### Somfy Oximo io — motorul de referință
 
-Motorul Oximo io este soluția standard recomandată pentru rulouri exterioare de dimensiuni medii și mari. Funcționează la 230V, dispune de 2 viteze (coborâre rapidă + oprire lentă), autoreglare automată a lungimii cortinei pe toată durata de viață și detectare automată a obstacolelor. Testarea la 17.500 cicluri și garanția de 5 ani îl plasează în fruntea categoriei.
+Motorul Oximo io este soluția standard pentru rulourile exterioare de dimensiuni mici, medii și mari. Se montează în axul ruloului, funcționează la 230 V și se alege în funcție de cuplu (Nm), după greutatea cortinei. Cuplul îl calculăm noi în ofertă, ca motorul să nu fie nici subdimensionat, nici supradimensionat.
 
-### Somfy RS100 io — versatil și universal
+Ce face Oximo io în plus față de un motor simplu:
+- **Detectarea obstacolelor la coborâre** — ruloul se oprește dacă întâlnește ceva în cale
+- **Protecție la îngheț** — dacă cortina e prinsă de gheață, motorul nu forțează la ridicare
+- **Confirmarea comenzii** prin io-homecontrol
 
-Motorul RS100 io este soluția universală adaptată tuturor tipurilor de rulouri exterioare, inclusiv celor înguste. Varianta RS100 io Solar funcționează exclusiv cu energie solară — panel fotovoltaic + baterie 12V — eliminând complet necesitatea cablurilor electrice.
+### Somfy S&SO RS100 io — silențios, cu două viteze
+
+S&SO RS100 io este motorul Somfy pentru cine pune liniștea pe primul loc, de exemplu la dormitoare. Are două viteze de funcționare — una standard și una mai lentă și mai silențioasă — plus detectarea obstacolelor și protecția la îngheț. Somfy îl prezintă sub eticheta „designed for silence”.
+
+### Somfy Oximo Solar io — fără cabluri prin perete
+
+Când nu există alimentare la fereastră sau nu vrei să spargi pereții, varianta potrivită e Oximo Solar io. Motorul primește energie de la un panou solar montat pe casetă și o baterie, deci nu ai nevoie de cablu de 230 V. După Somfy:
+- funcționează la lumină naturală pe orice vreme, nu doar în soare direct;
+- bateria poate acționa ruloul circa 45 de zile fără lumină;
+- merge și în pana de curent;
+- se montează de 3–4 ori mai repede decât un motor cu cablu.
 
 ### Telecomandă Somfy — control de la distanță
 
-Telecomanda Situo 5 io permite controlul individual sau centralizat a până la 5 rulouri. Criptarea pe 128 biți, frecvența de 868 MHz și 16 milioane de coduri posibile asigură securitate maximă.
+Telecomanda Situo 5 io comandă individual sau pe grupuri până la 5 rulouri (sau grupuri de rulouri). Comunică prin io-homecontrol, pe frecvența de 868 MHz, cu criptare AES pe 128 de biți.
+
+## Senzorii Somfy — cine face ce
+
+- **Sunis io** — senzorul de soare: coboară rulourile când lumina depășește pragul setat
+- **Eolis WireFree io** — senzorul de vânt: ridică rulourile, Zipscreen-urile sau copertinele la rafale puternice
+- **Soliris io** — senzor combinat, soare și vânt
 
 ## Cât costă un motor Somfy pentru rulouri în 2026?
 
-Prețul unui motor Somfy montat profesional în București și Ilfov pornește de la **250 EUR / motor** (Oximo io sau RS100 io, inclusiv manoperă și configurarea telecomenzii). Telecomanda Somfy individuală pornește de la 60 EUR. Kit-ul TaHoma Switch pentru control smartphone pornește de la 180 EUR.
+Prețul unui motor Somfy montat profesional în București și Ilfov pornește de la **250 EUR pe motor** (Oximo io sau S&SO RS100 io, inclusiv manopera și configurarea telecomenzii). Telecomanda Somfy individuală pornește de la 60 EUR, iar kitul TaHoma Switch pentru control din telefon pornește de la 180 EUR. Prețurile sunt orientative, fără TVA.
 
-## Automatizare rulouri cu TaHoma — scenarii practice
+## Automatizarea rulourilor cu TaHoma — scenarii practice
 
-Prin TaHoma Switch puteți programa scenarii automate: rulourile coboară la apus de soare, se ridică dimineața la o oră fixă, reacționează la temperaturi extreme sau la intensitatea vântului prin senzorul Sunis io.
+Prin TaHoma Switch poți programa scenarii automate: rulourile coboară la apus, se ridică dimineața la o oră fixă, coboară la soare puternic prin senzorul Sunis io sau se ridică la vânt puternic prin senzorul Eolis. Detalii în [ghidul Somfy TaHoma](/ro/blog/somfy-tahoma-smart-home-romania).
 
-[Solicitați ofertă pentru automatizări Somfy](/ro/accesorii/automatizari-somfy-rulouri-pergole)
+- [Solicită ofertă pentru automatizări Somfy](/ro/accesorii/automatizari-somfy-rulouri-pergole)
 
 ## Întrebări frecvente
 
 ### De ce să aleg Somfy pentru motorizarea rulourilor exterioare?
 
-Somfy e liderul global în automatizarea rulourilor, prezent în România de peste 20 de ani. Oferă cel mai extins ecosistem — de la telecomandă simplă la integrare completă TaHoma smart home, compatibil cu Alexa, Google Home și Apple HomeKit, spre deosebire de motoarele generice din import.
+Somfy e producătorul francez care se prezintă drept liderul mondial în motorizarea rulourilor. Oferă un ecosistem complet — de la telecomandă simplă la integrare TaHoma, compatibil cu Alexa, Google Home și Apple HomeKit — iar protocolul io-homecontrol confirmă fiecare comandă.
 
 ### Care e motorul Somfy de referință pentru rulouri exterioare?
 
-Somfy Oximo io e motorul de referință pentru rulouri medii și mari: 230V, 2 viteze (coborâre rapidă + oprire lentă), autoreglare automată a lungimii cortinei pe toată durata de viață și detectare automată a obstacolelor. Testat la 17.500 cicluri, cu garanție de 5 ani.
+Somfy Oximo io e motorul standard pentru rulouri: 230 V, ales după cuplu în funcție de greutatea cortinei, cu detectarea obstacolelor la coborâre și protecție la îngheț. Pentru dormitoare, S&SO RS100 io are în plus două viteze și funcționare mai silențioasă.
 
 ### Ce motor Somfy funcționează fără cabluri electrice?
 
-Somfy RS100 io Solar funcționează exclusiv cu energie solară — panou fotovoltaic plus baterie 12V — eliminând complet necesitatea cablurilor electrice. RS100 io e soluția universală adaptată tuturor tipurilor de rulouri exterioare, inclusiv celor înguste.
+Somfy Oximo Solar io primește energie de la un panou solar și o baterie, deci nu are nevoie de cablu de 230 V. După Somfy, bateria poate acționa ruloul circa 45 de zile fără lumină, iar montajul e de 3-4 ori mai rapid decât la un motor cu cablu.
 
 ### Cum se controlează de la distanță rulourile Somfy?
 
-Telecomanda Somfy Situo 5 io permite controlul individual sau centralizat a până la 5 rulouri. Criptarea pe 128 biți, frecvența de 868 MHz și 16 milioane de coduri posibile asigură securitate maximă. Pentru control complet din aplicație se folosește hub-ul TaHoma.
+Telecomanda Somfy Situo 5 io comandă până la 5 rulouri sau grupuri, prin io-homecontrol, pe 868 MHz, cu criptare AES pe 128 de biți. Pentru control din aplicație și scenarii automate se folosește TaHoma Switch.
+
+### Cât costă un motor Somfy montat pentru rulouri?
+
+În București și Ilfov, un motor Somfy montat pornește de la 250 EUR, cu manoperă și configurarea telecomenzii. Telecomanda pornește de la 60 EUR, iar TaHoma Switch de la 180 EUR. Prețurile sunt orientative, fără TVA.
 
 ---
 
 Neofort BIZ instalează rulouri exterioare cu motorizare Somfy în București și Ilfov, cu programare și integrare în casa inteligentă. Vezi [sistemele de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Pentru context complet, citește [ghidul sistemelor de umbrire — ZipScreen, rulouri, Raffstore, pergole](/ro/blog/zipscreen-umbrire-terasa-ghid-complet). Sistemele pe care le motorizăm cel mai des sunt [rulourile exterioare din aluminiu](/ro/umbrire/rulouri-exterioare-aluminiu) și [jaluzelele venețiene Raffstore](/ro/umbrire/jaluzele-venetiene-raffstore).`,
-      en: `## Why Somfy for exterior shutters?
+      en: `## Why Somfy for exterior roller shutters?
 
-Somfy is the global leader in shutter and blind automation, with over 20 years of presence in Romania. Unlike generic imported motors, Somfy offers the most extensive automation ecosystem — from simple remote control to full integration into the TaHoma smart home system, compatible with Alexa, Google Home and Apple HomeKit.
+Somfy is the French manufacturer that describes itself as the world leader in motorising roller shutters, blinds and awnings. Unlike generic imported motors, Somfy offers a complete ecosystem — from a simple remote control to smart home integration through TaHoma, compatible with Alexa, Google Home and Apple HomeKit. All the motors we install use the **io-homecontrol** radio protocol, with command feedback: the remote shows you whether the shutter has actually reached the top or the bottom.
 
-## Somfy motors for exterior shutters — 2026 guide
+## Somfy motors for roller shutters — comparison guide 2026
 
 ### Somfy Oximo io — the reference motor
 
-The Oximo io motor is the recommended standard solution for medium and large exterior shutters. It operates at 230V, features 2 speeds, automatic curtain length self-adjustment over its entire lifetime and automatic obstacle detection. Testing at 17,500 cycles and a 5-year warranty.
+The Oximo io motor is the standard solution for small, medium and large exterior shutters. It fits inside the shutter tube, runs on 230 V and is chosen by torque (Nm), according to the weight of the curtain. We calculate the torque in the quote, so the motor is neither undersized nor oversized.
 
-### Somfy RS100 io Solar — no electrical cables
+What Oximo io does beyond a basic motor:
+- **Obstacle detection when closing** — the shutter stops if something is in the way
+- **Freeze protection** — if the curtain is stuck with ice, the motor does not force it when opening
+- **Command feedback** through io-homecontrol
 
-The RS100 io Solar variant operates exclusively on solar energy — photovoltaic panel + 12V battery — no electrical cables required.
+### Somfy S&SO RS100 io — quiet, with two speeds
 
-## How much does a Somfy motor cost in 2026?
+S&SO RS100 io is Somfy’s motor for those who put quiet first, for example in bedrooms. It has two operating speeds — a standard one and a slower, quieter one — plus obstacle detection and freeze protection. Somfy presents it under its “designed for silence” label.
 
-The price of a professionally installed Somfy motor in Bucharest and Ilfov starts from **250 EUR / motor**. TaHoma Switch kit from 180 EUR.
+### Somfy Oximo Solar io — no cables through the wall
 
-[Request a Somfy automation quote](/en/accessories/somfy-automation-shutters-pergolas)
+When there is no power at the window, or you do not want to break into the walls, the right option is Oximo Solar io. The motor gets its energy from a solar panel mounted on the box and a battery, so no 230 V cable is needed. According to Somfy:
+- it works in natural light in any weather, not only in direct sun;
+- the battery can operate the shutter for about 45 days without light;
+- it also works during a power cut;
+- it installs 3–4 times faster than a wired motor.
+
+### Somfy remote control — control from a distance
+
+The Situo 5 io remote controls up to 5 shutters (or groups of shutters), individually or in groups. It communicates through io-homecontrol, on the 868 MHz frequency, with 128-bit AES encryption.
+
+## Somfy sensors — who does what
+
+- **Sunis io** — the sun sensor: lowers the shutters when the light goes above the set threshold
+- **Eolis WireFree io** — the wind sensor: raises shutters, Zipscreens or awnings in strong gusts
+- **Soliris io** — a combined sensor, sun and wind
+
+## How much does a Somfy shutter motor cost in 2026?
+
+The price of a professionally installed Somfy motor in Bucharest and Ilfov starts at **250 EUR per motor** (Oximo io or S&SO RS100 io, including labour and remote setup). An individual Somfy remote starts at 60 EUR, and the TaHoma Switch kit for control from your phone starts at 180 EUR. Prices are indicative, excluding VAT.
+
+## Automating shutters with TaHoma — practical scenarios
+
+With TaHoma Switch you can program automatic scenarios: the shutters close at sunset, open in the morning at a set time, close in strong sun through the Sunis io sensor or rise in strong wind through the Eolis sensor. Details in the [Somfy TaHoma guide](/en/blog/somfy-tahoma-smart-home-bucharest).
+
+- [Request a quote for Somfy automation](/en/accessories/somfy-automation-shutters-pergolas)
 
 ## Frequently Asked Questions
 
-### Why choose Somfy for motorising exterior roller shutters?
+### Why choose Somfy to motorise exterior roller shutters?
 
-Somfy is the global leader in shutter automation, present in Romania for over 20 years. It offers the most extensive ecosystem — from a simple remote to full TaHoma smart-home integration, compatible with Alexa, Google Home and Apple HomeKit, unlike generic imported motors.
+Somfy is the French manufacturer that describes itself as the world leader in motorising roller shutters. It offers a complete ecosystem — from a simple remote to TaHoma integration, compatible with Alexa, Google Home and Apple HomeKit — and the io-homecontrol protocol confirms every command.
 
-### Which is the reference Somfy motor for exterior roller shutters?
+### Which Somfy motor is the reference for exterior roller shutters?
 
-Somfy Oximo io is the reference motor for medium and large shutters: 230V, 2 speeds (fast descent + slow stop), automatic length self-adjustment over the whole lifespan and automatic obstacle detection. Tested to 17,500 cycles, with a 5-year warranty.
+Somfy Oximo io is the standard motor for shutters: 230 V, chosen by torque according to the weight of the curtain, with obstacle detection when closing and freeze protection. For bedrooms, S&SO RS100 io adds two speeds and quieter operation.
 
 ### Which Somfy motor works without electrical cables?
 
-Somfy RS100 io Solar works exclusively on solar energy — a photovoltaic panel plus a 12V battery — fully eliminating the need for electrical cables. RS100 io is the universal solution adapted to all types of exterior roller shutters, including narrow ones.
+Somfy Oximo Solar io gets its energy from a solar panel and a battery, so it needs no 230 V cable. According to Somfy, the battery can operate the shutter for about 45 days without light, and installation is 3-4 times faster than for a wired motor.
 
 ### How are Somfy shutters controlled remotely?
 
-The Somfy Situo 5 io remote allows individual or centralised control of up to 5 shutters. 128-bit encryption, 868 MHz frequency and 16 million possible codes ensure maximum security. For full app control, the TaHoma hub is used.
+The Somfy Situo 5 io remote controls up to 5 shutters or groups, through io-homecontrol, on 868 MHz, with 128-bit AES encryption. For control from the app and automatic scenarios, TaHoma Switch is used.
+
+### How much does an installed Somfy shutter motor cost?
+
+In Bucharest and Ilfov, an installed Somfy motor starts at 250 EUR, including labour and remote setup. The remote starts at 60 EUR, and TaHoma Switch at 180 EUR. Prices are indicative, excluding VAT.
 
 ---
 
-Neofort BIZ installs exterior roller shutters with Somfy motorisation in Bucharest and Ilfov, with programming and smart home integration. See [the shading systems](/en/shading-systems) we offer or [request a quote](/en/contact). For the full context, read [the shading systems guide — ZipScreen, shutters, Raffstore, pergolas](/en/blog/zipscreen-terrace-shading-complete-guide). The systems we motorise most often are [aluminium external roller shutters](/en/shading-systems/aluminium-external-roller-shutters) and [Raffstore venetian blinds](/en/shading-systems/raffstore-venetian-blinds).`,
+Neofort BIZ installs exterior roller shutters with Somfy motors in Bucharest and Ilfov, with programming and smart home integration. See the [shading systems](/en/shading-systems) we offer or [request a quote](/en/contact). For the full picture, read the [guide to shading systems — ZipScreen, roller shutters, Raffstore, pergolas](/en/blog/zipscreen-terrace-shading-complete-guide). The systems we motorise most often are [aluminium exterior roller shutters](/en/shading-systems/aluminium-external-roller-shutters) and [Raffstore venetian blinds](/en/shading-systems/raffstore-venetian-blinds).`,
       de: `## Warum Somfy für Außenrollläden?
 
-Somfy ist der globale Marktführer in der Automatisierung von Rollläden, mit über 20 Jahren Präsenz in Rumänien. Kompatibel mit Alexa, Google Home und Apple HomeKit.
+Somfy ist der französische Hersteller, der sich als Weltmarktführer bei Antrieben für Rollläden, Jalousien und Markisen bezeichnet. Anders als generische Importmotoren bietet Somfy ein komplettes Ökosystem — von der einfachen Fernbedienung bis zur Smart-Home-Anbindung über TaHoma, kompatibel mit Alexa, Google Home und Apple HomeKit. Alle Motoren, die wir montieren, nutzen das Funkprotokoll **io-homecontrol** mit Rückmeldung: Die Fernbedienung zeigt Ihnen, ob der Rollladen wirklich oben oder unten angekommen ist.
 
-## Somfy Motoren für Außenrollläden — Ratgeber 2026
+## Somfy-Motoren für Rollläden — Vergleich 2026
 
 ### Somfy Oximo io — der Referenzmotor
 
-Der Oximo io Motor arbeitet mit 230V, verfügt über 2 Geschwindigkeiten, automatische Selbstjustierung der Vorhanglänge und automatische Hinderniserkennung. Tests mit 17.500 Zyklen und 5 Jahre Garantie.
+Der Oximo io ist die Standardlösung für kleine, mittlere und große Außenrollläden. Er sitzt in der Rollladenwelle, läuft mit 230 V und wird nach dem Drehmoment (Nm) ausgewählt, passend zum Gewicht des Panzers. Das Drehmoment berechnen wir im Angebot, damit der Motor weder zu schwach noch überdimensioniert ist.
 
-### Somfy RS100 io Solar — ohne Elektrokabel
+Was der Oximo io mehr kann als ein einfacher Motor:
+- **Hinderniserkennung beim Schließen** — der Rollladen stoppt, wenn etwas im Weg ist
+- **Frostschutz** — ist der Panzer festgefroren, zieht der Motor beim Öffnen nicht mit Gewalt
+- **Rückmeldung** über io-homecontrol
 
-Der RS100 io Solar läuft mit Photovoltaik-Panel und 12V-Akku — ideal für Renovierungen ohne Elektroinstallation.
+### Somfy S&SO RS100 io — leise, mit zwei Geschwindigkeiten
 
-## Somfy Motor Preise 2026
+Der S&SO RS100 io ist der Somfy-Motor für alle, denen Ruhe am wichtigsten ist, zum Beispiel im Schlafzimmer. Er hat zwei Betriebsgeschwindigkeiten — eine normale und eine langsamere, leisere — dazu Hinderniserkennung und Frostschutz. Somfy präsentiert ihn unter dem Label „designed for silence“.
 
-Professionell montierter Somfy Motor in Bukarest ab **250 EUR / Motor**. TaHoma Switch Kit ab 180 EUR.
+### Somfy Oximo Solar io — ohne Kabel durch die Wand
 
-[Somfy Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
+Gibt es am Fenster keinen Strom oder möchten Sie keine Wände aufstemmen, ist der Oximo Solar io die richtige Wahl. Der Motor bezieht seine Energie aus einem Solarmodul am Kasten und einem Akku, ein 230-V-Kabel ist also nicht nötig. Laut Somfy:
+- funktioniert er bei Tageslicht und jedem Wetter, nicht nur bei direkter Sonne;
+- kann der Akku den Rollladen rund 45 Tage ohne Licht bewegen;
+- arbeitet er auch bei Stromausfall;
+- ist er 3- bis 4-mal schneller montiert als ein verkabelter Motor.
+
+### Somfy-Fernbedienung — Steuerung aus der Ferne
+
+Die Fernbedienung Situo 5 io steuert bis zu 5 Rollläden (oder Rollladengruppen), einzeln oder in Gruppen. Sie kommuniziert über io-homecontrol auf 868 MHz, mit AES-128-Bit-Verschlüsselung.
+
+## Somfy-Sensoren — wer macht was
+
+- **Sunis io** — der Sonnensensor: fährt die Rollläden herunter, wenn das Licht den eingestellten Wert überschreitet
+- **Eolis WireFree io** — der Windsensor: fährt Rollläden, Zipscreens oder Markisen bei starken Böen hoch
+- **Soliris io** — ein kombinierter Sensor für Sonne und Wind
+
+## Was kostet ein Somfy-Motor für Rollläden 2026?
+
+Ein fachgerecht montierter Somfy-Motor kostet in Bukarest und Ilfov ab **250 EUR pro Motor** (Oximo io oder S&SO RS100 io, inklusive Montage und Einrichtung der Fernbedienung). Eine einzelne Somfy-Fernbedienung gibt es ab 60 EUR, das TaHoma-Switch-Kit für die Steuerung per Smartphone ab 180 EUR. Die Preise sind Richtwerte, ohne MwSt.
+
+## Rollladenautomatisierung mit TaHoma — praktische Szenarien
+
+Mit TaHoma Switch programmieren Sie automatische Szenarien: Die Rollläden fahren bei Sonnenuntergang herunter, morgens zu einer festen Uhrzeit hoch, bei starker Sonne über den Sunis-io-Sensor herunter oder bei starkem Wind über den Eolis-Sensor hoch. Details im [Somfy-TaHoma-Ratgeber](/de/blog/somfy-tahoma-smart-home-bukarest).
+
+- [Angebot für Somfy-Automatisierung anfordern](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
 
 ## Häufig gestellte Fragen
 
-### Warum Somfy für die Motorisierung von Außenrollläden wählen?
+### Warum Somfy für die Motorisierung von Außenrollläden?
 
-Somfy ist der Weltmarktführer in der Rollladenautomatisierung, seit über 20 Jahren in Rumänien präsent. Es bietet das umfangreichste Ökosystem — von der einfachen Fernbedienung bis zur vollen TaHoma-Smart-Home-Integration, kompatibel mit Alexa, Google Home und Apple HomeKit, anders als generische Importmotoren.
+Somfy ist der französische Hersteller, der sich als Weltmarktführer bei Rollladenantrieben bezeichnet. Er bietet ein komplettes Ökosystem — von der einfachen Fernbedienung bis zur TaHoma-Anbindung, kompatibel mit Alexa, Google Home und Apple HomeKit — und das Protokoll io-homecontrol bestätigt jeden Befehl.
 
-### Welcher ist der Referenz-Somfy-Motor für Außenrollläden?
+### Welcher Somfy-Motor ist die Referenz für Außenrollläden?
 
-Somfy Oximo io ist der Referenzmotor für mittlere und große Rollläden: 230V, 2 Geschwindigkeiten (schnelles Absenken + langsamer Stopp), automatische Längen-Selbstanpassung über die gesamte Lebensdauer und automatische Hinderniserkennung. Getestet auf 17.500 Zyklen, mit 5 Jahren Garantie.
+Der Somfy Oximo io ist der Standardmotor für Rollläden: 230 V, nach Drehmoment passend zum Panzergewicht ausgewählt, mit Hinderniserkennung beim Schließen und Frostschutz. Fürs Schlafzimmer bietet der S&SO RS100 io zusätzlich zwei Geschwindigkeiten und einen leiseren Lauf.
 
-### Welcher Somfy-Motor funktioniert ohne Elektrokabel?
+### Welcher Somfy-Motor funktioniert ohne Stromkabel?
 
-Somfy RS100 io Solar funktioniert ausschließlich mit Solarenergie — ein Photovoltaikpanel plus 12V-Batterie — und eliminiert vollständig den Bedarf an Elektrokabeln. RS100 io ist die universelle Lösung für alle Arten von Außenrollläden, auch schmale.
+Der Somfy Oximo Solar io bezieht seine Energie aus einem Solarmodul und einem Akku und braucht daher kein 230-V-Kabel. Laut Somfy kann der Akku den Rollladen rund 45 Tage ohne Licht bewegen, und die Montage geht 3- bis 4-mal schneller als bei einem verkabelten Motor.
 
-### Wie werden Somfy-Rollläden ferngesteuert?
+### Wie werden Somfy-Rollläden aus der Ferne gesteuert?
 
-Die Somfy Situo 5 io Fernbedienung ermöglicht die individuelle oder zentrale Steuerung von bis zu 5 Rollläden. 128-Bit-Verschlüsselung, 868-MHz-Frequenz und 16 Millionen mögliche Codes sorgen für maximale Sicherheit. Für volle App-Steuerung wird der TaHoma-Hub verwendet.
+Die Fernbedienung Somfy Situo 5 io steuert bis zu 5 Rollläden oder Gruppen, über io-homecontrol auf 868 MHz, mit AES-128-Bit-Verschlüsselung. Für die Steuerung per App und automatische Szenarien wird TaHoma Switch genutzt.
+
+### Was kostet ein montierter Somfy-Rollladenmotor?
+
+In Bukarest und Ilfov kostet ein montierter Somfy-Motor ab 250 EUR, inklusive Montage und Einrichtung der Fernbedienung. Die Fernbedienung gibt es ab 60 EUR, TaHoma Switch ab 180 EUR. Die Preise sind Richtwerte, ohne MwSt.
 
 ---
 
-Neofort BIZ installiert Außenrollläden mit Somfy-Motorisierung in Bukarest und Ilfov, mit Programmierung und Smart-Home-Integration. Sehen Sie [die Beschattungssysteme](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Beschattungssysteme-Ratgeber — ZipScreen, Rollläden, Raffstore, Pergolen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden). Die von uns am häufigsten motorisierten Systeme sind [Außenrollläden aus Aluminium](/de/beschattungssysteme/aluminium-aussenrollladen) und [Raffstore-Jalousien](/de/beschattungssysteme/raffstore-aussenjalousien).`,
-      fr: `## Pourquoi Somfy pour les volets roulants ?
+Neofort BIZ montiert Außenrollläden mit Somfy-Antrieb in Bukarest und Ilfov, mit Programmierung und Smart-Home-Anbindung. Sehen Sie sich die [Beschattungssysteme](/de/beschattungssysteme) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Den vollständigen Überblick gibt der [Ratgeber zu Beschattungssystemen — ZipScreen, Rollläden, Raffstore, Pergolen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden). Am häufigsten motorisieren wir [Aluminium-Außenrollläden](/de/beschattungssysteme/aluminium-aussenrollladen) und [Raffstore-Außenjalousien](/de/beschattungssysteme/raffstore-aussenjalousien).`,
+      fr: `## Pourquoi Somfy pour des volets roulants extérieurs ?
 
-Somfy est le leader mondial de l'automatisation des volets, avec plus de 20 ans en Roumanie. Compatible avec Alexa, Google Home et Apple HomeKit.
+Somfy est le fabricant français qui se présente comme le leader mondial de la motorisation des volets roulants, des stores et des stores bannes. Contrairement aux moteurs génériques d’importation, Somfy propose un écosystème complet — de la simple télécommande jusqu’à la maison connectée avec TaHoma, compatible avec Alexa, Google Home et Apple HomeKit. Tous les moteurs que nous posons utilisent le protocole radio **io-homecontrol**, avec retour d’information : la télécommande vous indique si le volet est réellement arrivé en haut ou en bas.
 
-## Moteurs Somfy pour volets — guide 2026
+## Moteurs Somfy pour volets roulants — guide comparatif 2026
 
 ### Somfy Oximo io — le moteur de référence
 
-Le moteur Oximo io fonctionne à 230V, dispose de 2 vitesses, autoréglage automatique du tablier et détection des obstacles. Tests à 17 500 cycles et garantie 5 ans.
+Le moteur Oximo io est la solution standard pour les volets roulants extérieurs de petite, moyenne et grande taille. Il se loge dans l’axe du volet, fonctionne en 230 V et se choisit selon le couple (Nm), en fonction du poids du tablier. Nous calculons le couple dans le devis, pour que le moteur ne soit ni sous-dimensionné ni surdimensionné.
 
-### Somfy RS100 io Solar — sans câble électrique
+Ce que l’Oximo io fait de plus qu’un moteur simple :
+- **Détection d’obstacle à la descente** — le volet s’arrête s’il rencontre un obstacle
+- **Protection contre le gel** — si le tablier est pris par la glace, le moteur ne force pas à la montée
+- **Retour d’information** grâce à io-homecontrol
 
-Le RS100 io Solar fonctionne avec panneau photovoltaïque et batterie 12V — idéal pour les rénovations.
+### Somfy S&SO RS100 io — silencieux, à deux vitesses
 
-## Prix moteur Somfy 2026
+Le S&SO RS100 io est le moteur Somfy pour ceux qui privilégient le silence, par exemple dans les chambres. Il a deux vitesses de fonctionnement — une standard et une plus lente et plus silencieuse — ainsi que la détection d’obstacle et la protection contre le gel. Somfy le présente sous le label « designed for silence ».
 
-Moteur Somfy posé à Bucarest à partir de **250 EUR / moteur**. Kit TaHoma Switch à partir de 180 EUR.
+### Somfy Oximo Solar io — sans câble à travers le mur
 
-[Demander un devis automatisation Somfy](/fr/accessoires/automatisation-somfy-volets-pergolas)
+Quand il n’y a pas d’alimentation à la fenêtre ou que vous ne voulez pas ouvrir les murs, la bonne option est l’Oximo Solar io. Le moteur tire son énergie d’un panneau solaire fixé sur le coffre et d’une batterie : aucun câble 230 V n’est nécessaire. Selon Somfy :
+- il fonctionne à la lumière naturelle par tous les temps, pas seulement en plein soleil ;
+- la batterie peut actionner le volet environ 45 jours sans lumière ;
+- il fonctionne aussi pendant une coupure de courant ;
+- il se pose 3 à 4 fois plus vite qu’un moteur filaire.
+
+### La télécommande Somfy — le contrôle à distance
+
+La télécommande Situo 5 io pilote jusqu’à 5 volets (ou groupes de volets), individuellement ou par groupe. Elle communique par io-homecontrol, sur la fréquence 868 MHz, avec un chiffrement AES 128 bits.
+
+## Les capteurs Somfy — qui fait quoi
+
+- **Sunis io** — le capteur de soleil : descend les volets quand la luminosité dépasse le seuil réglé
+- **Eolis WireFree io** — le capteur de vent : remonte volets, Zipscreen ou stores bannes en cas de fortes rafales
+- **Soliris io** — un capteur combiné, soleil et vent
+
+## Combien coûte un moteur Somfy pour volet roulant en 2026 ?
+
+Le prix d’un moteur Somfy posé par un professionnel à Bucarest et dans l’Ilfov démarre à **250 EUR par moteur** (Oximo io ou S&SO RS100 io, main-d’œuvre et paramétrage de la télécommande compris). Une télécommande Somfy individuelle démarre à 60 EUR, et le kit TaHoma Switch pour piloter depuis le téléphone à 180 EUR. Les prix sont indicatifs, hors TVA.
+
+## Automatiser les volets avec TaHoma — scénarios pratiques
+
+Avec TaHoma Switch, vous programmez des scénarios automatiques : les volets descendent au coucher du soleil, remontent le matin à heure fixe, descendent en plein soleil grâce au capteur Sunis io ou remontent par vent fort grâce au capteur Eolis. Détails dans le [guide Somfy TaHoma](/fr/blog/somfy-tahoma-maison-connectee-bucarest).
+
+- [Demandez un devis pour l’automatisation Somfy](/fr/accessoires/automatisation-somfy-volets-pergolas)
 
 ## Questions fréquentes
 
-### Pourquoi choisir Somfy pour motoriser les volets roulants extérieurs ?
+### Pourquoi choisir Somfy pour motoriser des volets roulants extérieurs ?
 
-Somfy est le leader mondial de l'automatisation des volets, présent en Roumanie depuis plus de 20 ans. Il offre l'écosystème le plus étendu — de la simple télécommande à l'intégration complète TaHoma smart home, compatible Alexa, Google Home et Apple HomeKit, contrairement aux moteurs génériques d'import.
+Somfy est le fabricant français qui se présente comme le leader mondial de la motorisation des volets roulants. Il propose un écosystème complet — de la simple télécommande à l’intégration TaHoma, compatible avec Alexa, Google Home et Apple HomeKit — et le protocole io-homecontrol confirme chaque commande.
 
-### Quel est le moteur Somfy de référence pour volets roulants extérieurs ?
+### Quel est le moteur Somfy de référence pour les volets roulants extérieurs ?
 
-Le Somfy Oximo io est le moteur de référence pour volets moyens et grands : 230V, 2 vitesses (descente rapide + arrêt lent), auto-réglage automatique de la longueur sur toute la durée de vie et détection automatique des obstacles. Testé à 17 500 cycles, avec 5 ans de garantie.
+Le Somfy Oximo io est le moteur standard pour volets roulants : 230 V, choisi selon le couple en fonction du poids du tablier, avec détection d’obstacle à la descente et protection contre le gel. Pour les chambres, le S&SO RS100 io ajoute deux vitesses et un fonctionnement plus silencieux.
 
-### Quel moteur Somfy fonctionne sans câbles électriques ?
+### Quel moteur Somfy fonctionne sans câble électrique ?
 
-Le Somfy RS100 io Solar fonctionne exclusivement à l'énergie solaire — panneau photovoltaïque plus batterie 12V — éliminant totalement le besoin de câbles électriques. Le RS100 io est la solution universelle adaptée à tous les types de volets roulants extérieurs, y compris étroits.
+Le Somfy Oximo Solar io tire son énergie d’un panneau solaire et d’une batterie, il n’a donc pas besoin de câble 230 V. Selon Somfy, la batterie peut actionner le volet environ 45 jours sans lumière, et la pose est 3 à 4 fois plus rapide qu’avec un moteur filaire.
 
-### Comment contrôle-t-on les volets Somfy à distance ?
+### Comment piloter à distance des volets Somfy ?
 
-La télécommande Somfy Situo 5 io permet le contrôle individuel ou centralisé de jusqu'à 5 volets. Le cryptage 128 bits, la fréquence 868 MHz et 16 millions de codes possibles assurent une sécurité maximale. Pour un contrôle complet par application, on utilise le hub TaHoma.
+La télécommande Somfy Situo 5 io pilote jusqu’à 5 volets ou groupes, par io-homecontrol, sur 868 MHz, avec un chiffrement AES 128 bits. Pour piloter depuis l’application et créer des scénarios automatiques, on utilise TaHoma Switch.
+
+### Combien coûte un moteur Somfy posé pour volet roulant ?
+
+À Bucarest et dans l’Ilfov, un moteur Somfy posé démarre à 250 EUR, main-d’œuvre et paramétrage de la télécommande compris. La télécommande démarre à 60 EUR, et TaHoma Switch à 180 EUR. Les prix sont indicatifs, hors TVA.
 
 ---
 
-Neofort BIZ installe des volets roulants extérieurs avec motorisation Somfy à Bucarest et Ilfov, avec programmation et intégration domotique. Voir [les systèmes d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Pour le contexte complet, lisez [le guide des systèmes d’occultation — ZipScreen, volets, Raffstore, pergolas](/fr/blog/zipscreen-ombriere-terrasse-guide-complet). Les systèmes que nous motorisons le plus souvent sont [les volets roulants extérieurs en aluminium](/fr/systemes-occultation/volets-roulants-aluminium-exterieurs) et [les brise-soleil Raffstore](/fr/systemes-occultation/stores-venitiens-raffstore).`,
-      es: `## Por qué Somfy para persianas exteriores?
+Neofort BIZ pose des volets roulants extérieurs motorisés Somfy à Bucarest et dans l’Ilfov, avec programmation et intégration à la maison connectée. Découvrez les [systèmes d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Pour une vue d’ensemble, lisez le [guide des systèmes d’occultation — ZipScreen, volets, Raffstore, pergolas](/fr/blog/zipscreen-ombriere-terrasse-guide-complet). Les systèmes que nous motorisons le plus souvent sont les [volets roulants extérieurs en aluminium](/fr/systemes-occultation/volets-roulants-aluminium-exterieurs) et les [brise-soleil orientables Raffstore](/fr/systemes-occultation/stores-venitiens-raffstore).`,
+      es: `## ¿Por qué Somfy para persianas exteriores?
 
-Somfy es el líder mundial en automatización de persianas, con más de 20 años en Rumanía. Compatible con Alexa, Google Home y Apple HomeKit.
+Somfy es el fabricante francés que se presenta como líder mundial en la motorización de persianas, estores y toldos. A diferencia de los motores genéricos de importación, Somfy ofrece un ecosistema completo: desde el mando sencillo hasta la integración en el hogar inteligente con TaHoma, compatible con Alexa, Google Home y Apple HomeKit. Todos los motores que instalamos usan el protocolo de radio **io-homecontrol**, con confirmación de la orden: el mando le indica si la persiana ha llegado realmente arriba o abajo.
 
-## Motores Somfy para persianas — guía 2026
+## Motores Somfy para persianas: guía comparativa 2026
 
-### Somfy Oximo io — el motor de referencia
+### Somfy Oximo io: el motor de referencia
 
-El motor Oximo io funciona a 230V, dispone de 2 velocidades, autoajuste automático y detección de obstáculos. Pruebas a 17.500 ciclos y garantía de 5 años.
+El motor Oximo io es la solución estándar para persianas exteriores pequeñas, medianas y grandes. Va dentro del eje de la persiana, funciona a 230 V y se elige por par (Nm), según el peso de la persiana. El par lo calculamos nosotros en el presupuesto, para que el motor no se quede corto ni esté sobredimensionado.
 
-### Somfy RS100 io Solar — sin cable eléctrico
+Lo que Oximo io hace además de un motor sencillo:
+- **Detección de obstáculos al bajar**: la persiana se detiene si encuentra algo en su camino
+- **Protección antihielo**: si la persiana está pegada por el hielo, el motor no la fuerza al subir
+- **Confirmación de la orden** mediante io-homecontrol
 
-El RS100 io Solar funciona con panel fotovoltaico y batería 12V — ideal para reformas.
+### Somfy S&SO RS100 io: silencioso, con dos velocidades
 
-## Precios motor Somfy 2026
+S&SO RS100 io es el motor de Somfy para quien pone el silencio en primer lugar, por ejemplo en los dormitorios. Tiene dos velocidades de funcionamiento —una estándar y otra más lenta y silenciosa—, además de detección de obstáculos y protección antihielo. Somfy lo presenta bajo la etiqueta «designed for silence».
 
-Motor Somfy instalado en Bucarest desde **250 EUR / motor**. Kit TaHoma Switch desde 180 EUR.
+### Somfy Oximo Solar io: sin cables a través del muro
 
-[Solicitar presupuesto automatización Somfy](/es/accesorios/automatizacion-somfy-persianas-pergolas)
+Cuando no hay corriente en la ventana o no quiere abrir las paredes, la opción adecuada es Oximo Solar io. El motor se alimenta de un panel solar montado en el cajón y de una batería, así que no necesita cable de 230 V. Según Somfy:
+- funciona con luz natural con cualquier tiempo, no solo con sol directo;
+- la batería puede accionar la persiana unos 45 días sin luz;
+- funciona también durante un apagón;
+- se instala de 3 a 4 veces más rápido que un motor con cable.
+
+### Mando Somfy: control a distancia
+
+El mando Situo 5 io controla hasta 5 persianas (o grupos de persianas), de forma individual o por grupos. Se comunica mediante io-homecontrol, en la frecuencia de 868 MHz, con cifrado AES de 128 bits.
+
+## Los sensores Somfy: quién hace qué
+
+- **Sunis io**: el sensor de sol; baja las persianas cuando la luz supera el umbral fijado
+- **Eolis WireFree io**: el sensor de viento; sube persianas, Zipscreen o toldos con rachas fuertes
+- **Soliris io**: un sensor combinado de sol y viento
+
+## ¿Cuánto cuesta un motor Somfy para persianas en 2026?
+
+El precio de un motor Somfy instalado por profesionales en Bucarest e Ilfov parte de **250 EUR por motor** (Oximo io o S&SO RS100 io, con mano de obra y configuración del mando incluidas). Un mando Somfy individual parte de 60 EUR, y el kit TaHoma Switch para el control desde el móvil, de 180 EUR. Los precios son orientativos, sin IVA.
+
+## Automatización de persianas con TaHoma: escenarios prácticos
+
+Con TaHoma Switch puede programar escenarios automáticos: las persianas bajan al anochecer, suben por la mañana a una hora fija, bajan con sol intenso gracias al sensor Sunis io o suben con viento fuerte gracias al sensor Eolis. Detalles en la [guía Somfy TaHoma](/es/blog/somfy-tahoma-hogar-inteligente-bucarest).
+
+- [Solicite un presupuesto de automatización Somfy](/es/accesorios/automatizacion-somfy-persianas-pergolas)
 
 ## Preguntas frecuentes
 
-### ¿Por qué elegir Somfy para motorizar las persianas enrollables exteriores?
+### ¿Por qué elegir Somfy para motorizar las persianas exteriores?
 
-Somfy es el líder mundial en automatización de persianas, presente en Rumanía desde hace más de 20 años. Ofrece el ecosistema más amplio — desde un simple mando a la integración completa TaHoma smart home, compatible con Alexa, Google Home y Apple HomeKit, a diferencia de los motores genéricos de importación.
+Somfy es el fabricante francés que se presenta como líder mundial en la motorización de persianas. Ofrece un ecosistema completo —desde el mando sencillo hasta la integración TaHoma, compatible con Alexa, Google Home y Apple HomeKit— y el protocolo io-homecontrol confirma cada orden.
 
-### ¿Cuál es el motor Somfy de referencia para persianas enrollables exteriores?
+### ¿Cuál es el motor Somfy de referencia para persianas exteriores?
 
-El Somfy Oximo io es el motor de referencia para persianas medianas y grandes: 230V, 2 velocidades (descenso rápido + parada lenta), autoajuste automático de la longitud durante toda la vida útil y detección automática de obstáculos. Probado a 17.500 ciclos, con garantía de 5 años.
+Somfy Oximo io es el motor estándar para persianas: 230 V, elegido por par según el peso de la persiana, con detección de obstáculos al bajar y protección antihielo. Para los dormitorios, S&SO RS100 io añade dos velocidades y un funcionamiento más silencioso.
 
 ### ¿Qué motor Somfy funciona sin cables eléctricos?
 
-El Somfy RS100 io Solar funciona exclusivamente con energía solar — panel fotovoltaico más batería de 12V — eliminando por completo la necesidad de cables eléctricos. El RS100 io es la solución universal adaptada a todo tipo de persianas enrollables exteriores, incluidas las estrechas.
+Somfy Oximo Solar io se alimenta de un panel solar y una batería, así que no necesita cable de 230 V. Según Somfy, la batería puede accionar la persiana unos 45 días sin luz, y la instalación es de 3 a 4 veces más rápida que con un motor con cable.
 
 ### ¿Cómo se controlan a distancia las persianas Somfy?
 
-El mando Somfy Situo 5 io permite el control individual o centralizado de hasta 5 persianas. El cifrado de 128 bits, la frecuencia de 868 MHz y 16 millones de códigos posibles aseguran la máxima seguridad. Para control completo desde la app se usa el hub TaHoma.
+El mando Somfy Situo 5 io controla hasta 5 persianas o grupos, mediante io-homecontrol, en 868 MHz, con cifrado AES de 128 bits. Para el control desde la aplicación y los escenarios automáticos se usa TaHoma Switch.
+
+### ¿Cuánto cuesta un motor Somfy instalado para persianas?
+
+En Bucarest e Ilfov, un motor Somfy instalado parte de 250 EUR, con mano de obra y configuración del mando. El mando parte de 60 EUR, y TaHoma Switch de 180 EUR. Los precios son orientativos, sin IVA.
 
 ---
 
-Neofort BIZ instala persianas exteriores con motorización Somfy en Bucarest e Ilfov, con programación e integración en el hogar inteligente. Ver [los sistemas de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía de sistemas de sombreado — ZipScreen, persianas, Raffstore, pérgolas](/es/blog/zipscreen-sombreado-terraza-guia-completa). Los sistemas que motorizamos con más frecuencia son [las persianas exteriores de aluminio](/es/sistemas-sombreado/persianas-exteriores-aluminio) y [las venecianas Raffstore](/es/sistemas-sombreado/persianas-venecianas-raffstore).`,
+Neofort BIZ instala persianas exteriores con motorización Somfy en Bucarest e Ilfov, con programación e integración en el hogar inteligente. Vea los [sistemas de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicite un presupuesto](/es/contacto). Para el panorama completo, lea la [guía de los sistemas de sombreado: ZipScreen, persianas, Raffstore, pérgolas](/es/blog/zipscreen-sombreado-terraza-guia-completa). Los sistemas que más motorizamos son las [persianas exteriores de aluminio](/es/sistemas-sombreado/persianas-exteriores-aluminio) y las [celosías venecianas Raffstore](/es/sistemas-sombreado/persianas-venecianas-raffstore).`,
       it: `## Perché Somfy per le tapparelle esterne?
 
-Somfy è il leader mondiale nell'automazione delle tapparelle, con oltre 20 anni in Romania. Compatibile con Alexa, Google Home e Apple HomeKit.
+Somfy è il produttore francese che si presenta come leader mondiale nella motorizzazione di tapparelle, tende e tende da sole. A differenza dei motori generici d’importazione, Somfy offre un ecosistema completo: dal semplice telecomando all’integrazione nella casa intelligente con TaHoma, compatibile con Alexa, Google Home e Apple HomeKit. Tutti i motori che posiamo usano il protocollo radio **io-homecontrol**, con conferma del comando: il telecomando vi mostra se la tapparella è davvero arrivata in alto o in basso.
 
-## Motori Somfy per tapparelle — guida 2026
+## Motori Somfy per tapparelle: guida comparativa 2026
 
-### Somfy Oximo io — il motore di riferimento
+### Somfy Oximo io: il motore di riferimento
 
-Il motore Oximo io funziona a 230V, dispone di 2 velocità, autoregolazione automatica e rilevamento degli ostacoli. Test a 17.500 cicli e garanzia 5 anni.
+Il motore Oximo io è la soluzione standard per tapparelle esterne piccole, medie e grandi. Si monta nel rullo, funziona a 230 V e si sceglie in base alla coppia (Nm), secondo il peso del telo. La coppia la calcoliamo noi nel preventivo, perché il motore non sia né sottodimensionato né sovradimensionato.
 
-### Somfy RS100 io Solare — senza cavo elettrico
+Cosa fa Oximo io in più rispetto a un motore semplice:
+- **Rilevamento ostacoli in discesa**: la tapparella si ferma se incontra qualcosa
+- **Protezione antigelo**: se il telo è bloccato dal ghiaccio, il motore non forza in salita
+- **Conferma del comando** tramite io-homecontrol
 
-Il RS100 io Solare funziona con pannello fotovoltaico e batteria 12V — ideale per ristrutturazioni.
+### Somfy S&SO RS100 io: silenzioso, a due velocità
 
-## Prezzi motore Somfy 2026
+S&SO RS100 io è il motore Somfy per chi mette il silenzio al primo posto, per esempio nelle camere da letto. Ha due velocità di funzionamento, una standard e una più lenta e silenziosa, oltre al rilevamento ostacoli e alla protezione antigelo. Somfy lo presenta con l’etichetta «designed for silence».
 
-Motore Somfy installato a Bucarest da **250 EUR / motore**. Kit TaHoma Switch da 180 EUR.
+### Somfy Oximo Solar io: senza cavi nel muro
 
-[Richiedere preventivo automazione Somfy](/it/accessori/automazione-somfy-tapparelle-pergole)
+Quando alla finestra non c’è corrente o non volete aprire i muri, l’opzione giusta è Oximo Solar io. Il motore prende energia da un pannello solare montato sul cassonetto e da una batteria, quindi non serve il cavo a 230 V. Secondo Somfy:
+- funziona con la luce naturale con qualsiasi tempo, non solo al sole diretto;
+- la batteria può azionare la tapparella per circa 45 giorni senza luce;
+- funziona anche durante un blackout;
+- si installa da 3 a 4 volte più in fretta di un motore cablato.
+
+### Telecomando Somfy: il controllo a distanza
+
+Il telecomando Situo 5 io comanda fino a 5 tapparelle (o gruppi di tapparelle), singolarmente o per gruppi. Comunica tramite io-homecontrol, sulla frequenza di 868 MHz, con crittografia AES a 128 bit.
+
+## I sensori Somfy: chi fa cosa
+
+- **Sunis io**: il sensore di sole; abbassa le tapparelle quando la luce supera la soglia impostata
+- **Eolis WireFree io**: il sensore di vento; alza tapparelle, Zipscreen o tende da sole con raffiche forti
+- **Soliris io**: un sensore combinato di sole e vento
+
+## Quanto costa un motore Somfy per tapparelle nel 2026?
+
+Il prezzo di un motore Somfy installato da professionisti a Bucarest e Ilfov parte da **250 EUR a motore** (Oximo io o S&SO RS100 io, manodopera e configurazione del telecomando comprese). Un telecomando Somfy singolo parte da 60 EUR, e il kit TaHoma Switch per il controllo da smartphone da 180 EUR. I prezzi sono indicativi, IVA esclusa.
+
+## Automazione delle tapparelle con TaHoma: scenari pratici
+
+Con TaHoma Switch potete programmare scenari automatici: le tapparelle scendono al tramonto, salgono al mattino a un’ora fissa, scendono con il sole forte grazie al sensore Sunis io o salgono con il vento forte grazie al sensore Eolis. Dettagli nella [guida Somfy TaHoma](/it/blog/somfy-tahoma-casa-intelligente-bucarest).
+
+- [Richiedete un preventivo per l’automazione Somfy](/it/accessori/automazione-somfy-tapparelle-pergole)
 
 ## Domande frequenti
 
 ### Perché scegliere Somfy per motorizzare le tapparelle esterne?
 
-Somfy è il leader globale nell'automazione delle tapparelle, presente in Romania da oltre 20 anni. Offre l'ecosistema più esteso — dal semplice telecomando all'integrazione completa TaHoma smart home, compatibile con Alexa, Google Home e Apple HomeKit, a differenza dei motori generici d'importazione.
+Somfy è il produttore francese che si presenta come leader mondiale nella motorizzazione delle tapparelle. Offre un ecosistema completo, dal semplice telecomando all’integrazione TaHoma, compatibile con Alexa, Google Home e Apple HomeKit, e il protocollo io-homecontrol conferma ogni comando.
 
 ### Qual è il motore Somfy di riferimento per le tapparelle esterne?
 
-Il Somfy Oximo io è il motore di riferimento per tapparelle medie e grandi: 230V, 2 velocità (discesa rapida + arresto lento), autoregolazione automatica della lunghezza per tutta la vita utile e rilevamento automatico degli ostacoli. Testato a 17.500 cicli, con garanzia di 5 anni.
+Somfy Oximo io è il motore standard per tapparelle: 230 V, scelto in base alla coppia secondo il peso del telo, con rilevamento ostacoli in discesa e protezione antigelo. Per le camere da letto, S&SO RS100 io aggiunge due velocità e un funzionamento più silenzioso.
 
 ### Quale motore Somfy funziona senza cavi elettrici?
 
-Il Somfy RS100 io Solar funziona esclusivamente a energia solare — pannello fotovoltaico più batteria 12V — eliminando completamente la necessità di cavi elettrici. L'RS100 io è la soluzione universale adatta a tutti i tipi di tapparelle esterne, comprese quelle strette.
+Somfy Oximo Solar io prende energia da un pannello solare e da una batteria, quindi non ha bisogno del cavo a 230 V. Secondo Somfy, la batteria può azionare la tapparella per circa 45 giorni senza luce, e l’installazione è da 3 a 4 volte più rapida rispetto a un motore cablato.
 
-### Come si controllano a distanza le tapparelle Somfy?
+### Come si comandano a distanza le tapparelle Somfy?
 
-Il telecomando Somfy Situo 5 io permette il controllo individuale o centralizzato di fino a 5 tapparelle. La crittografia a 128 bit, la frequenza di 868 MHz e 16 milioni di codici possibili assicurano la massima sicurezza. Per il controllo completo da app si usa l'hub TaHoma.
+Il telecomando Somfy Situo 5 io comanda fino a 5 tapparelle o gruppi, tramite io-homecontrol, su 868 MHz, con crittografia AES a 128 bit. Per il controllo da app e gli scenari automatici si usa TaHoma Switch.
+
+### Quanto costa un motore Somfy installato per tapparelle?
+
+A Bucarest e Ilfov, un motore Somfy installato parte da 250 EUR, con manodopera e configurazione del telecomando. Il telecomando parte da 60 EUR, e TaHoma Switch da 180 EUR. I prezzi sono indicativi, IVA esclusa.
 
 ---
 
-Neofort BIZ installa tapparelle esterne con motorizzazione Somfy a Bucarest e Ilfov, con programmazione e integrazione smart home. Vedi [i sistemi di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Per il contesto completo, leggi [la guida ai sistemi di oscuramento — ZipScreen, tapparelle, Raffstore, pergole](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa). I sistemi che motorizziamo più spesso sono [le tapparelle esterne in alluminio](/it/sistemi-oscuramento/tapparelle-esterne-alluminio) e [le veneziane Raffstore](/it/sistemi-oscuramento/veneziane-raffstore).`,
+Neofort BIZ installa tapparelle esterne motorizzate Somfy a Bucarest e Ilfov, con programmazione e integrazione nella casa intelligente. Scoprite i [sistemi di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedete un preventivo](/it/contatti). Per il quadro completo, leggete la [guida ai sistemi di oscuramento: ZipScreen, tapparelle, Raffstore, pergole](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa). I sistemi che motorizziamo più spesso sono le [tapparelle esterne in alluminio](/it/sistemi-oscuramento/tapparelle-esterne-alluminio) e le [veneziane Raffstore](/it/sistemi-oscuramento/veneziane-raffstore).`,
     },
     keywords: 'motor Somfy rulouri, automatizare rulouri exterioare, motor Oximo io, RS100 io Somfy, telecomanda Somfy, Somfy TaHoma, automatizare jaluzele, motor rulou pret, rulouri electrice Somfy, Somfy Bucuresti',
     dateDisplay: {
