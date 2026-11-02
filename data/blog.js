@@ -6646,12 +6646,12 @@ Neofort BIZ fornisce vetrocamere con triplo vetro, trattamento Low-E e distanzia
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     category: { ro:'Sisteme nZEB', en:'nZEB Systems', de:'nZEB-Systeme', fr:'Systèmes nZEB', es:'Sistemas nZEB', it:'Sistemi nZEB' },
     title: {
-      ro: 'Care sunt opțiunile de izolație perimetrală pentru ferestre în România? Ghid complet 2026',
-      en: 'What Are the Perimeter Insulation Options for Windows in Romania? Complete Guide 2026',
-      de: 'Welche Perimeterdämmungsoptionen gibt es für Fenster in Rumänien? Vollständiger Ratgeber 2026',
-      fr: "Quelles sont les options d'isolation périphérique pour les fenêtres en Roumanie ? Guide complet 2026",
-      es: '¿Cuáles son las opciones de aislamiento perimetral para ventanas en Rumanía? Guía completa 2026',
-      it: `Quali sono le opzioni di isolamento perimetrale per finestre in Romania? Guida completa 2026`,
+      ro: 'Izolația perimetrală a ferestrelor: 3 opțiuni, ghid 2026',
+      en: 'Perimeter insulation for windows: 3 options, 2026 guide',
+      de: 'Fensteranschluss abdichten: 3 Optionen, Ratgeber 2026',
+      fr: "Isolation périphérique des fenêtres : 3 options, guide 2026",
+      es: 'Aislamiento perimetral de ventanas: 3 opciones, guía 2026',
+      it: `Isolamento perimetrale delle finestre: 3 opzioni, guida 2026`,
     },
     metaDesc: {
       ro: "Spumă poliuretanică, bandă precomprimată sau precadre termoizolante? Comparație pe costuri și performanță, plus ce cere efectiv standardul nZEB.",
@@ -6675,614 +6675,659 @@ Neofort BIZ fornisce vetrocamere con triplo vetro, trattamento Low-E e distanzia
       fr: '23 avr. 2026', es: '23 abr 2026', it: '23 apr 2026',
     },
     content: {
-      ro: `## De ce izolația perimetrală e mai importantă decât profilul ferestrei
+      ro: `## De ce izolația perimetrală contează la fel de mult ca profilul ferestrei
 
-Poți instala cel mai performant profil Salamander bluEvolution 92 cu tripan și Warm Edge, dar dacă **rostul dintre toc și zidărie nu e etanșat corect**, pierzi 30–50% din eficiența termică a ferestrei. Imaginea termică a clădirilor cu ferestre recent schimbate arată frecvent dungi calde în jurul tocurilor — semn clar că izolația perimetrală a fost neglijată.
+Poți monta cel mai performant profil Salamander bluEvolution 92, cu geam triplu și baghetă Warm Edge, dar dacă **rostul dintre toc și zidărie nu e etanșat corect**, o parte importantă din performanța ferestrei se pierde pe la margini. Imaginile termice ale clădirilor cu ferestre schimbate recent arată des dungi calde în jurul tocurilor — semn că izolația perimetrală a fost neglijată. Pe lângă pierderea de căldură, apar curenți de aer, condens în colțuri și, în timp, mucegai.
 
-În România, standardul **nZEB (Nearly Zero Energy Building)** — obligatoriu pentru construcțiile noi din 2021 și renovările majore — impune explicit etanșarea în trei zone: interior (barieră antivapori), mediană (izolație termică și fonică) și exterior (protecție la apă și vânt).
+Regula după care se face un montaj corect e principiul „mai etanș la interior decât la exterior”, din ghidul german RAL pentru montajul ferestrelor. Rostul se închide în trei zone: interior (barieră de vapori), mijloc (izolație termică și fonică) și exterior (protecție la ploaie și vânt, dar permeabilă la vapori, ca rostul să se poată usca).
 
 ## Cele 3 opțiuni principale de izolație perimetrală
 
-### Opțiunea 1 — Spumă poliuretanică (montaj standard)
+### Opțiunea 1 — Doar spumă poliuretanică (montaj standard)
 
-**Cum funcționează:** Spuma se injectează în rostul dintre toc și zidărie, se expandează și umple golul. La exterior se aplică chit siliconic sau tencuiască.
-
-**Avantaje:**
-- Cost redus — inclus în orice ofertă standard
-- Ușor de aplicat — orice instalator o folosește
-- Umple complet rostul neuniform
-
-**Dezavantaje grave:**
-- Crăpă în 3–5 ani sub acțiunea UV și variațiilor de temperatură
-- Permite infiltrații de apă după degradare
-- Coeficient de izolație fonică slab
-- **Nu îndeplinește cerințele nZEB** — nu are proprietăți de barieră antivapori
-- Odată crăpată, permite și vapori să migreze spre structura peretelui → condens → mucegai
-
-**Concluzie:** Spuma singură = montaj standard, acceptabil pentru renovări simple, neadecvat pentru standarde nZEB.
-
-### Opțiunea 2 — Bandă precomprimată (montaj profesional)
-
-**Cum funcționează:** Banda precomprimată (ex. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) este o spumă poliuretanică impregnată, comprimată și depozitată rulată. Se aplică pe profilul ferestrei înainte de montaj. După montaj se expandează treptat (ore–zile) și etanșează perimetrul extern.
-
-**Cele 3 funcții ale benzii precomprimate:**
-1. **Exterior** — hidroizolare, rezistă la ploaie bătătoare (testat ≥ 600 Pa) și la UV
-2. **Mijloc** — izolație termică și fonică
-3. **Interior** — barieră de vapori (reduce migrarea vaporilor din interior spre rost)
+**Cum funcționează:** spuma se injectează în rostul dintre toc și zidărie, se expandează și umple golul. La exterior se aplică de obicei silicon sau tencuială.
 
 **Avantaje:**
-- Îndeplinește cerințele nZEB
-- Durabilitate superioară față de chit siliconic (20+ ani)
-- Etanșare la apă și vânt fără fisurare
-- Izolație fonică semnificativ mai bună decât spuma
-- Nu necesită lucrări suplimentare de finisare la exterior
+- Cost redus — inclusă în orice ofertă standard
+- Ușor de aplicat
+- Umple bine un rost neuniform
 
 **Dezavantaje:**
-- Cost suplimentar față de montajul standard (10–20% din valoarea montajului)
-- Necesită aplicare corectă — grosimea benzii trebuie să corespundă lățimii rostului
+- Lăsată neprotejată, se degradează în timp sub acțiunea razelor UV și a variațiilor de temperatură
+- Nu e barieră de vapori: umezeala din casă intră în rost, iar spuma udă izolează mult mai slab
+- La exterior, siliconul sau tencuiala fisurează în timp și lasă apa să intre
+- Izolare fonică mai slabă decât a unui montaj cu benzi
 
-**Concluzie:** Banda precomprimată = standardul minim pentru montaj profesional nZEB. Recomandată pentru toate proiectele noi și renovările cu pretenții de eficiență energetică.
+**Concluzie:** spuma singură înseamnă montaj standard, acceptabil la renovări simple. Spuma rămâne însă stratul de mijloc și în montajul corect — problema e lipsa benzilor de la interior și de la exterior.
+
+### Opțiunea 2 — Spumă plus benzi de etanșare (montaj RAL)
+
+**Cum funcționează:** la exterior se aplică o **bandă precomprimată** — o spumă impregnată, comprimată și livrată în rolă — care se lipește pe toc înainte de montaj și se expandează treptat după montaj, închizând rostul. Spuma rămâne la mijloc, iar la interior se lipește o **bandă de barieră de vapori**. Există și benzi multifuncționale, care fac în același timp toate cele trei funcții. Neofort BIZ folosește benzi Soudal.
+
+**Cele 3 straturi:**
+1. **Exterior** — banda precomprimată: etanșă la ploaia bătută de vânt, rezistentă la UV, dar lasă vaporii să iasă
+2. **Mijloc** — spuma poliuretanică: izolație termică și fonică
+3. **Interior** — banda de barieră de vapori: oprește umezeala din casă să intre în rost
+
+**Avantaje:**
+- Respectă principiul RAL, „mai etanș la interior decât la exterior”
+- Rostul rămâne uscat, deci izolația își păstrează performanța ani la rând
+- Etanșare la apă și vânt fără fisuri
+- Izolare fonică mai bună decât cu spuma singură
+
+**Dezavantaje:**
+- Cost suplimentar față de montajul standard
+- Cere aplicare atentă — banda trebuie aleasă după lățimea rostului
+
+**Concluzie:** montajul cu benzi este standardul pentru orice proiect nou și pentru renovările unde contează eficiența energetică.
 
 ### Opțiunea 3 — Precadre termoizolante Blaugelb Triotherm+ (montaj nZEB premium)
 
-**Cum funcționează:** Precadrul Blaugelb Triotherm+ este un cadru termoizolant din material compozit (conductivitate termică λ = 0,035 W/mK) care se montează **înainte de fereastră**, direct pe structura peretelui sau în planul izolatiei termice. Fereastra se montează ulterior pe precadru, nu direct în zidărie.
+**Cum funcționează:** precadrul Blaugelb Triotherm+ este un profil din polistiren expandat de înaltă densitate (λ = 0,040 W/mK), care se montează **înainte de fereastră**, pe fața peretelui sau în planul izolației termice. Fereastra se fixează apoi pe precadru, nu direct în zidărie.
 
 **Avantajele cheie:**
-- Elimină complet puntea termică la perimetrul ferestrei — tocul nu mai atinge direct zidăria
-- Permite montarea ferestrei în **planul izolatiei termice** a peretelui (cerință Passive House)
-- Ușurează repararea sau înlocuirea ulterioară a ferestrei fără afectarea finisajelor
-- Certificat pentru construcții **nZEB și case pasive**
+- Reduce puternic puntea termică la perimetrul ferestrei — tocul nu mai stă direct pe zidărie
+- Permite montarea ferestrei **în planul izolației termice** a peretelui, cum se recomandă la casele pasive
+- Sistemul Blaugelb Triotherm+ este certificat de Passive House Institute
+- Benzile de etanșare se aplică pe precadru, deci cele trei straturi rămân
 
-**Când e obligatoriu:**
-- Construcții noi cu standard nZEB sau Passive House
-- Renovări cu refacere completă a anvelopei termice
-- Pereți cu grosime mare a izolatiei (unde fereastra trebuie montată în afara zidăriei)
+**Când are sens:**
+- Construcții noi nZEB sau case pasive
+- Renovări cu refacerea completă a anvelopei termice
+- Pereți cu izolație groasă, unde fereastra trebuie montată în fața zidăriei
 
-**Cost:** 200–400 lei/buc, în funcție de dimensiuni.
+**Cost:** montajul nZEB complet, cu precadre Blaugelb și benzi de etanșare, adaugă **25–50 EUR pe metru liniar** de perimetru la tâmplăria PVC (30–60 EUR/ml la aluminiu), fără TVA.
 
 **Dezavantaje:**
 - Cost suplimentar față de montajul cu benzi
-- Necesită planificare din faza de proiectare (nu se poate adăuga ulterior la un montaj existent)
+- Se planifică din faza de proiect; nu se adaugă ulterior la o fereastră deja montată
 
-## Comparație directă — care să aleg?
+## Comparație directă — ce să aleg?
 
-| Criteriu | Spumă standard | Bandă precomprimată | Precadru Blaugelb |
+| Criteriu | Doar spumă | Spumă + benzi (RAL) | Precadru Blaugelb + benzi |
 |---|---|---|---|
-| Conformitate nZEB | ❌ Nu | ✅ Da | ✅ Da (premium) |
-| Durabilitate | 3–5 ani | 20+ ani | 30+ ani |
-| Izolație fonică | Slabă | Bună | Foarte bună |
-| Barieră antivapori | ❌ Nu | ✅ Parțial | ✅ Completă |
-| Cost relativ | Inclus standard | +10–20% | +200–400 lei/buc |
-| Recomandare | Renovare simplă | Orice proiect nou | nZEB/Passive House |
+| Potrivit pentru nZEB | ❌ Nu | ✅ Da | ✅ Da (premium) |
+| Rost protejat la umezeală | ❌ Nu | ✅ Da | ✅ Da |
+| Izolare fonică | Medie | Bună | Foarte bună |
+| Barieră de vapori | ❌ Nu | ✅ Da | ✅ Da |
+| Punte termică la perimetru | Mare | Redusă | Foarte mică |
+| Cost relativ | Inclus standard | Supliment mic | +25–50 EUR/ml (PVC) |
+| Recomandare | Renovare simplă | Orice proiect nou | nZEB / casă pasivă |
 
-## Ce impune standardul nZEB în România
+## Ce cere legislația din România
 
-Conform **Legii 372/2005** (modificată) și metodologiei **Mc 001-2022**, clădirile noi trebuie să atingă nivelul nZEB, iar renovările majore cerințele minime de performanță energetică; pentru ferestre, valoarea de referință este Uw ≤ 1,11 W/(m²K) la case noi (1,20 la renovări). Montajul trebuie să limiteze punțile termice la perimetru. Practic, **spuma poliuretanică singură nu mai este suficientă** — banda precomprimată sau precadrele devin necesare.
-
----
-
-Neofort BIZ execută montaje cu bandă precomprimată Illbruck și precadre Blaugelb Triotherm+ în București și Ilfov. [Solicită ofertă montaj nZEB](/ro/contact). Vezi [sistemele nZEB](/ro/sisteme-nzeb) pe care le oferim.
+Conform **Legii 372/2005** (modificată) și metodologiei **Mc 001-2022**, clădirile noi trebuie să atingă nivelul nZEB, iar renovările majore cerințele minime de performanță energetică; pentru ferestre, valoarea de referință este Uw ≤ 1,11 W/(m²K) la casele noi (1,20 la renovări). Legea nu scrie ce bandă să folosești, dar calculul energetic penalizează punțile termice de la perimetru, iar montajul în trei straturi este practica recunoscută prin care le limitezi. Practic, **spuma singură nu mai e suficientă** pentru o casă nZEB.
 
 ## Întrebări frecvente
 
-### De ce e izolația perimetrală mai importantă decât profilul ferestrei?
+### De ce contează izolația perimetrală atât de mult?
 
-Poți monta cel mai performant profil cu tripan și Warm Edge, dar dacă rostul dintre toc și zidărie nu e etanșat corect pierzi 30-50% din eficiența termică. Imaginile termice arată frecvent dungi calde în jurul tocurilor — semn că izolația perimetrală a fost neglijată.
+Poți monta cel mai performant profil, cu geam triplu și Warm Edge, dar dacă rostul dintre toc și zidărie nu e etanșat corect, o parte importantă din performanță se pierde pe la margini. Imaginile termice arată des dungi calde în jurul tocurilor, iar în timp apar curenți de aer, condens și mucegai.
 
 ### Care sunt cele 3 opțiuni de izolație perimetrală a ferestrelor?
 
-Spuma poliuretanică (montaj standard, ieftin, dar crapă în 3-5 ani și nu îndeplinește nZEB), banda precomprimată (montaj profesional, etanșare durabilă 20+ ani) și precadrul termic Blaugelb (standardul nZEB complet, elimină puntea termică la perimetru).
+Doar spumă poliuretanică (montaj standard, ieftin, dar fără barieră de vapori), spumă plus benzi de etanșare la interior și exterior (montajul RAL în trei straturi) și precadrele termoizolante Blaugelb Triotherm+ cu benzi (montajul nZEB premium, cu puntea termică de la perimetru mult redusă).
 
-### De ce nu e suficientă spuma poliuretanică pentru standard nZEB?
+### De ce nu e suficientă spuma poliuretanică pentru nZEB?
 
-Spuma singură crapă în 3-5 ani sub UV și variații termice, permite infiltrații de apă, are izolare fonică slabă și nu are proprietăți de barieră antivapori. Odată crăpată, lasă vaporii să migreze spre perete, generând condens și mucegai — de aceea nu îndeplinește cerințele nZEB.
+Pentru că spuma singură nu e barieră de vapori: umezeala din casă intră în rost, iar spuma udă izolează mult mai slab. La exterior, siliconul sau tencuiala fisurează în timp și lasă apa să intre. De aceea spuma trebuie protejată cu bandă de barieră de vapori la interior și cu bandă precomprimată la exterior.
 
-### Ce impune standardul nZEB pentru montajul ferestrelor în România?
+### Ce cere legislația pentru montajul ferestrelor în România?
 
-nZEB, obligatoriu pentru construcții noi din 2021 și renovări majore, impune etanșarea în trei zone: interior (barieră antivapori), mediană (izolație termică și fonică) și exterior (protecție la apă și vânt). Banda precomprimată sau precadrul termic asigură aceste straturi.
+Legea 372/2005 și Mc 001-2022 cer nivelul nZEB la clădirile noi și cerințe minime la renovările majore, cu Uw ≤ 1,11 W/(m²K) la casele noi. Legea nu impune o anumită bandă, dar punțile termice de la perimetru intră în calculul energetic, iar montajul în trei straturi este modul recunoscut de a le limita.
 
+### Cât costă montajul nZEB cu precadre Blaugelb?
+
+Montajul nZEB complet, cu precadre Blaugelb Triotherm+ și benzi de etanșare, adaugă 25-50 EUR pe metru liniar de perimetru la tâmplăria PVC și 30-60 EUR/ml la aluminiu, fără TVA. Pentru o fereastră de 100 × 120 cm, perimetrul are 4,4 m.
 
 ---
 
-Neofort BIZ execută montaj în trei planuri de etanșare, cu precadre termoizolante Blaugelb, în București și Ilfov. [Trimite-ne detaliile golului](/ro/contact) și primești ofertă în 48 de ore. Vezi [sistemele nZEB complete](/ro/sisteme-nzeb) pe care le oferim. Pagini utile: [banda precomprimată butilică](/ro/sisteme-nzeb/banda-precomprimata-butilic) și [banda de etanșare antivapori](/ro/sisteme-nzeb/banda-etansare-antivapori-interior).
-`,
+Neofort BIZ execută montaj în trei straturi de etanșare, cu benzi Soudal și precadre termoizolante Blaugelb Triotherm+, în București și Ilfov. [Trimite-ne detaliile golului](/ro/contact) și primești ofertă în 48 de ore. Vezi [sistemele nZEB complete](/ro/sisteme-nzeb) pe care le oferim. Pagini utile: [banda precomprimată butilică](/ro/sisteme-nzeb/banda-precomprimata-butilic) și [banda de etanșare antivapori](/ro/sisteme-nzeb/banda-etansare-antivapori-interior).`,
 
-      en: `## Why Perimeter Insulation Matters More Than the Window Profile
+      en: `## Why perimeter insulation matters as much as the window profile
 
-You can install the best Salamander bluEvolution 92 profile with triple glazing and Warm Edge spacer, but if **the gap between frame and masonry isn't correctly sealed**, you lose 30–50% of the window's thermal efficiency. Thermal imaging of buildings with recently replaced windows frequently shows warm streaks around frames — a clear sign that perimeter insulation was neglected.
+You can install the best-performing Salamander bluEvolution 92 profile, with triple glazing and a Warm Edge spacer, but if **the gap between the frame and the masonry is not sealed properly**, a large part of the window’s performance is lost around the edges. Thermal images of buildings with recently replaced windows often show warm stripes around the frames — a sign that perimeter insulation was neglected. Besides heat loss, you get draughts, condensation in the corners and, over time, mould.
 
-In Romania, the **nZEB (Nearly Zero Energy Building)** standard — mandatory for new constructions since 2021 and major renovations — explicitly requires sealing in three zones: interior (vapour barrier), middle (thermal and acoustic insulation) and exterior (water and wind protection).
+A proper installation follows the principle “tighter inside than outside”, from the German RAL guideline for window installation. The joint is closed in three zones: inside (vapour barrier), middle (thermal and acoustic insulation) and outside (protection against rain and wind, but open to vapour, so the joint can dry out).
 
-## The 3 Main Perimeter Insulation Options
+## The 3 main perimeter insulation options
 
-### Option 1 — Polyurethane Foam (Standard Installation)
+### Option 1 — Polyurethane foam only (standard installation)
 
-**How it works:** Foam is injected into the gap between frame and masonry, expands and fills the gap. Silicone sealant or plaster is applied at the exterior.
+**How it works:** the foam is injected into the gap between the frame and the masonry, expands and fills the void. On the outside, silicone or render is usually applied.
 
 **Advantages:**
 - Low cost — included in any standard quote
-- Easy to apply — any installer uses it
-- Completely fills irregular gaps
-
-**Serious disadvantages:**
-- Cracks in 3–5 years under UV and temperature variation
-- Allows water infiltration after degradation
-- Poor acoustic insulation coefficient
-- **Does not meet nZEB requirements** — no vapour barrier properties
-- Once cracked, allows vapour to migrate toward the wall structure → condensation → mould
-
-**Conclusion:** Foam alone = standard installation, acceptable for simple renovations, inadequate for nZEB standards.
-
-### Option 2 — Pre-Compressed Band (Professional Installation)
-
-**How it works:** The pre-compressed band (e.g. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) is a polyurethane foam impregnated, compressed and stored rolled. It is applied to the window frame before installation. After installation it expands gradually (hours–days) and seals the external perimeter.
-
-**The 3 functions of the pre-compressed band:**
-1. **Exterior** — waterproofing, resists driving rain (tested ≥ 600 Pa) and UV
-2. **Middle** — thermal and acoustic insulation
-3. **Interior** — vapour barrier (reduces vapour migration from interior toward gap)
-
-**Advantages:**
-- Meets nZEB requirements
-- Superior durability vs silicone sealant (20+ years)
-- Water and wind sealing without cracking
-- Significantly better acoustic insulation than foam
-- No additional exterior finishing work required
+- Easy to apply
+- Fills an uneven joint well
 
 **Disadvantages:**
-- Additional cost vs standard installation (10–20% of installation value)
-- Requires correct application — band thickness must match gap width
+- Left unprotected, it degrades over time under UV rays and temperature changes
+- It is not a vapour barrier: moisture from the house gets into the joint, and wet foam insulates much less well
+- On the outside, silicone or render cracks over time and lets water in
+- Weaker sound insulation than an installation with tapes
 
-**Conclusion:** Pre-compressed band = minimum standard for professional nZEB installation. Recommended for all new projects and energy-efficient renovations.
+**Conclusion:** foam alone means a standard installation, acceptable for simple renovations. Foam is still the middle layer in a proper installation too — the problem is the missing tapes inside and outside.
 
-### Option 3 — Blaugelb Triotherm+ Thermal Preframes (Premium nZEB Installation)
+### Option 2 — Foam plus sealing tapes (RAL installation)
 
-**How it works:** The Blaugelb Triotherm+ preframe is a thermal composite frame (thermal conductivity λ = 0.035 W/mK) that is mounted **before the window**, directly on the wall structure or in the thermal insulation plane. The window is subsequently mounted on the preframe, not directly in the masonry.
+**How it works:** on the outside, a **pre-compressed tape** is used — an impregnated foam, compressed and supplied on a roll — which is stuck to the frame before installation and gradually expands afterwards, closing the joint. The foam stays in the middle, and on the inside a **vapour barrier tape** is applied. There are also multifunctional tapes that perform all three functions at once. Neofort BIZ uses Soudal tapes.
+
+**The 3 layers:**
+1. **Outside** — the pre-compressed tape: tight against wind-driven rain, UV-resistant, but lets vapour escape
+2. **Middle** — the polyurethane foam: thermal and acoustic insulation
+3. **Inside** — the vapour barrier tape: stops moisture from the house entering the joint
+
+**Advantages:**
+- Follows the RAL principle, “tighter inside than outside”
+- The joint stays dry, so the insulation keeps its performance for years
+- Tight against water and wind, without cracks
+- Better sound insulation than with foam alone
+
+**Disadvantages:**
+- Extra cost compared with a standard installation
+- Needs careful application — the tape must be chosen to match the joint width
+
+**Conclusion:** installation with tapes is the standard for any new project and for renovations where energy efficiency matters.
+
+### Option 3 — Blaugelb Triotherm+ insulating pre-frames (premium nZEB installation)
+
+**How it works:** the Blaugelb Triotherm+ pre-frame is a high-density expanded polystyrene profile (λ = 0.040 W/mK) fitted **before the window**, on the face of the wall or in the plane of the thermal insulation. The window is then fixed to the pre-frame, not directly into the masonry.
 
 **Key advantages:**
-- Completely eliminates the thermal bridge at the window perimeter — the frame no longer directly contacts the masonry
-- Allows the window to be mounted in the **thermal insulation plane** of the wall (Passive House requirement)
-- Makes future repair or replacement easier without affecting finishes
-- Certified for **nZEB and passive house** constructions
+- Greatly reduces the thermal bridge around the window — the frame no longer sits directly on the masonry
+- Allows the window to be installed **in the plane of the wall’s thermal insulation**, as recommended for passive houses
+- The Blaugelb Triotherm+ system is certified by the Passive House Institute
+- The sealing tapes are applied to the pre-frame, so the three layers remain
 
-**When it's required:**
-- New constructions to nZEB or Passive House standard
-- Renovations with complete thermal envelope refurbishment
-- Thick insulation walls (where the window must be mounted outside the masonry)
+**When it makes sense:**
+- New nZEB or passive houses
+- Renovations with a complete rebuild of the thermal envelope
+- Walls with thick insulation, where the window has to be installed in front of the masonry
 
-**Cost:** €40–80/piece, depending on dimensions.
+**Cost:** a complete nZEB installation, with Blaugelb pre-frames and sealing tapes, adds **25–50 EUR per linear metre** of perimeter for PVC windows (30–60 EUR/lm for aluminium), excluding VAT.
 
-## Direct Comparison — Which Should I Choose?
+**Disadvantages:**
+- Extra cost compared with installation with tapes
+- Planned at the design stage; it cannot be added later to a window that is already installed
 
-| Criterion | Standard foam | Pre-compressed band | Blaugelb preframe |
+## Direct comparison — which to choose?
+
+| Criterion | Foam only | Foam + tapes (RAL) | Blaugelb pre-frame + tapes |
 |---|---|---|---|
-| nZEB compliance | ❌ No | ✅ Yes | ✅ Yes (premium) |
-| Durability | 3–5 years | 20+ years | 30+ years |
-| Acoustic insulation | Poor | Good | Very good |
-| Vapour barrier | ❌ No | ✅ Partial | ✅ Complete |
-| Relative cost | Included standard | +10–20% | +€40–80/piece |
-| Recommendation | Simple renovation | Any new project | nZEB/Passive House |
+| Suitable for nZEB | ❌ No | ✅ Yes | ✅ Yes (premium) |
+| Joint protected from moisture | ❌ No | ✅ Yes | ✅ Yes |
+| Sound insulation | Average | Good | Very good |
+| Vapour barrier | ❌ No | ✅ Yes | ✅ Yes |
+| Thermal bridge at the perimeter | Large | Reduced | Very small |
+| Relative cost | Included as standard | Small extra | +25–50 EUR/lm (PVC) |
+| Recommendation | Simple renovation | Any new project | nZEB / passive house |
 
-## What nZEB Requires in Romania
+## What Romanian legislation requires
 
-Under **Law 372/2005** (amended) and the **Mc 001-2022** methodology, new buildings must reach nZEB level and major renovations must meet the minimum energy performance requirements; for windows, the reference value is Uw ≤ 1.11 W/(m²K) for new houses (1.20 for renovations). Installation must limit perimeter thermal bridges. In practice, **polyurethane foam alone is no longer enough** — pre-compressed band or preframes become necessary.
-
----
-
-Neofort BIZ installs with Illbruck pre-compressed bands and Blaugelb Triotherm+ preframes in Bucharest and Ilfov. [Request nZEB installation quote](/en/contact). See [the nZEB systems](/en/nzeb-systems) we offer.
+Under **Law 372/2005** (as amended) and the **Mc 001-2022** methodology, new buildings must reach nZEB level, and major renovations must meet the minimum energy performance requirements; for windows, the reference value is Uw ≤ 1.11 W/(m²K) for new houses (1.20 for renovations). The law does not say which tape to use, but the energy calculation penalises thermal bridges at the perimeter, and three-layer installation is the recognised practice for limiting them. In practice, **foam alone is no longer enough** for an nZEB house.
 
 ## Frequently Asked Questions
 
-### Why is perimeter insulation more important than the window profile?
+### Why does perimeter insulation matter so much?
 
-You can fit the highest-performance profile with triple glazing and Warm Edge, but if the joint between frame and masonry is not sealed correctly you lose 30-50% of the thermal efficiency. Thermal images often show warm streaks around frames — a sign perimeter insulation was neglected.
+You can install the best-performing profile, with triple glazing and Warm Edge, but if the gap between the frame and the masonry is not sealed properly, a large part of the performance is lost around the edges. Thermal images often show warm stripes around the frames, and over time draughts, condensation and mould appear.
 
-### What are the 3 options for window perimeter insulation?
+### What are the 3 perimeter insulation options for windows?
 
-Polyurethane foam (standard, cheap fitting, but cracks in 3-5 years and fails nZEB), pre-compressed tape (professional fitting, durable 20+ year seal) and the Blaugelb thermal pre-frame (the full nZEB standard, eliminating the perimeter thermal bridge).
+Polyurethane foam only (standard installation, cheap, but with no vapour barrier), foam plus sealing tapes inside and outside (the three-layer RAL installation) and Blaugelb Triotherm+ insulating pre-frames with tapes (the premium nZEB installation, with the perimeter thermal bridge greatly reduced).
 
-### Why is polyurethane foam not enough for the nZEB standard?
+### Why is polyurethane foam not enough for nZEB?
 
-Foam alone cracks in 3-5 years under UV and thermal swings, allows water infiltration, has poor sound insulation and no vapour-barrier properties. Once cracked, it lets vapour migrate into the wall, causing condensation and mould — which is why it fails nZEB requirements.
+Because foam alone is not a vapour barrier: moisture from the house gets into the joint, and wet foam insulates much less well. On the outside, silicone or render cracks over time and lets water in. That is why the foam must be protected with a vapour barrier tape inside and a pre-compressed tape outside.
 
-### What does the nZEB standard require for window fitting in Romania?
+### What does the law require for window installation in Romania?
 
-nZEB, mandatory for new builds since 2021 and major renovations, requires sealing in three zones: interior (vapour barrier), middle (thermal and sound insulation) and exterior (water and wind protection). Pre-compressed tape or a thermal pre-frame provides these layers.
+Law 372/2005 and Mc 001-2022 require nZEB level for new buildings and minimum requirements for major renovations, with Uw ≤ 1.11 W/(m²K) for new houses. The law does not impose a particular tape, but perimeter thermal bridges are part of the energy calculation, and three-layer installation is the recognised way of limiting them.
 
+### How much does nZEB installation with Blaugelb pre-frames cost?
+
+A complete nZEB installation, with Blaugelb Triotherm+ pre-frames and sealing tapes, adds 25-50 EUR per linear metre of perimeter for PVC windows and 30-60 EUR/lm for aluminium, excluding VAT. For a 100 × 120 cm window, the perimeter is 4.4 m.
 
 ---
 
-Neofort BIZ carries out three-plane sealed installation with Blaugelb insulating precasings in Bucharest and Ilfov. [Send us the opening details](/en/contact) and you will receive a quote within 48 hours. See the [complete nZEB systems](/en/nzeb-systems) we offer. Useful pages: [pre-compressed butyl sealing tape](/en/nzeb-systems/pre-compressed-butyl-sealing-tape) and [the interior vapour barrier tape](/en/nzeb-systems/interior-vapour-barrier-sealing-tape).
-`,
+Neofort BIZ carries out three-layer sealed installations, with Soudal tapes and Blaugelb Triotherm+ insulating pre-frames, in Bucharest and Ilfov. [Send us the details of the opening](/en/contact) and get a quote within 48 hours. See the [complete nZEB systems](/en/nzeb-systems) we offer. Useful pages: [pre-compressed butyl sealing tape](/en/nzeb-systems/pre-compressed-butyl-sealing-tape) and [interior vapour barrier sealing tape](/en/nzeb-systems/interior-vapour-barrier-sealing-tape).`,
 
-      de: `## Warum Perimeterdämmung wichtiger ist als das Fensterprofil
+      de: `## Warum die Anschlussabdichtung genauso wichtig ist wie das Fensterprofil
 
-Sie können das beste Salamander bluEvolution 92-Profil mit Dreifachverglasung und Warm-Edge-Abstandhalter einbauen, aber wenn **die Fuge zwischen Rahmen und Mauerwerk nicht korrekt abgedichtet ist**, verlieren Sie 30–50% der Wärmedämmleistung des Fensters. Wärmebilder von Gebäuden mit kürzlich ausgetauschten Fenstern zeigen häufig warme Streifen um die Rahmen — ein klares Zeichen, dass die Perimeterdämmung vernachlässigt wurde.
+Sie können das leistungsstärkste Salamander-Profil bluEvolution 92 mit Dreifachverglasung und Warm-Edge-Abstandhalter einbauen — ist **die Fuge zwischen Rahmen und Mauerwerk nicht richtig abgedichtet**, geht ein großer Teil der Leistung des Fensters an den Rändern verloren. Wärmebilder von Gebäuden mit kürzlich getauschten Fenstern zeigen oft warme Streifen um die Rahmen — ein Zeichen, dass der Anschluss vernachlässigt wurde. Neben dem Wärmeverlust entstehen Zugluft, Kondensat in den Ecken und mit der Zeit Schimmel.
 
-In Rumänien verlangt der **nZEB-Standard** (Nearly Zero Energy Building) — seit 2021 für Neubauten und Kernsanierungen verpflichtend — ausdrücklich die Abdichtung in drei Zonen: Innen (Dampfsperre), Mitte (Wärme- und Schallschutz) und Außen (Wasser- und Windschutz).
+Ein fachgerechter Einbau folgt dem Grundsatz „innen dichter als außen“ aus dem RAL-Leitfaden zur Fenstermontage. Die Fuge wird in drei Ebenen geschlossen: innen (Dampfbremse), Mitte (Wärme- und Schalldämmung) und außen (Schutz vor Regen und Wind, aber dampfdurchlässig, damit die Fuge austrocknen kann).
 
-## Die 3 Hauptoptionen der Perimeterdämmung
+## Die 3 wichtigsten Optionen für den Fensteranschluss
 
-### Option 1 — Polyurethanschaum (Standardmontage)
+### Option 1 — Nur Polyurethanschaum (Standardmontage)
 
-**Wie es funktioniert:** Schaum wird in die Fuge zwischen Rahmen und Mauerwerk injiziert, dehnt sich aus und füllt den Spalt. Außen wird Silikon oder Putz aufgetragen.
+**So funktioniert es:** Der Schaum wird in die Fuge zwischen Rahmen und Mauerwerk gespritzt, dehnt sich aus und füllt den Hohlraum. Außen wird meist Silikon oder Putz aufgetragen.
 
 **Vorteile:**
 - Geringe Kosten — in jedem Standardangebot enthalten
-- Einfach anzuwenden — jeder Installateur verwendet es
-- Füllt unregelmäßige Fugen vollständig
+- Einfach zu verarbeiten
+- Füllt eine unregelmäßige Fuge gut aus
 
-**Schwerwiegende Nachteile:**
-- Reißt in 3–5 Jahren durch UV und Temperaturschwankungen
-- Lässt nach Degradation Wasserinfiltration zu
-- Geringer Schallschutzkoeffizient
-- **Erfüllt die nZEB-Anforderungen nicht** — keine Dampfsperreigenschaften
-- Einmal gerissen, ermöglicht Feuchtigkeitsmigration zur Wandstruktur → Kondensat → Schimmel
+**Nachteile:**
+- Ungeschützt altert er mit der Zeit durch UV-Strahlung und Temperaturschwankungen
+- Er ist keine Dampfbremse: Feuchtigkeit aus dem Haus gelangt in die Fuge, und nasser Schaum dämmt deutlich schlechter
+- Außen reißen Silikon oder Putz mit der Zeit und lassen Wasser eindringen
+- Schwächere Schalldämmung als ein Einbau mit Dichtbändern
 
-### Option 2 — Vorkomprimiertes Band (Professionelle Montage)
+**Fazit:** Schaum allein bedeutet Standardmontage, vertretbar bei einfachen Renovierungen. Schaum bleibt aber auch beim fachgerechten Einbau die mittlere Ebene — das Problem sind die fehlenden Bänder innen und außen.
 
-**Wie es funktioniert:** Das vorkomprimierte Band (z.B. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) ist ein imprägnierter, komprimierter und gerollt gelagerter Polyurethanschaum. Es wird vor der Montage auf den Fensterrahmen aufgetragen und dehnt sich anschließend allmählich aus.
+### Option 2 — Schaum plus Dichtbänder (RAL-Montage)
 
-**Die 3 Funktionen des vorkomprimierten Bandes:**
-1. **Außen** — Abdichtung, widersteht Schlagregen (getestet ≥ 600 Pa) und UV
-2. **Mitte** — Wärme- und Schalldämmung
-3. **Innen** — Dampfsperre
+**So funktioniert es:** Außen kommt ein **vorkomprimiertes Dichtband** zum Einsatz — ein imprägnierter, komprimierter Schaumstoff, der auf Rolle geliefert wird. Er wird vor der Montage auf den Rahmen geklebt und dehnt sich danach allmählich aus, sodass er die Fuge schließt. Der Schaum bleibt in der Mitte, und innen wird ein **Dampfbremsband** verklebt. Es gibt auch Multifunktionsbänder, die alle drei Funktionen gleichzeitig übernehmen. Neofort BIZ verwendet Bänder von Soudal.
+
+**Die 3 Ebenen:**
+1. **Außen** — das vorkomprimierte Band: dicht gegen Schlagregen, UV-beständig, aber dampfdurchlässig
+2. **Mitte** — der Polyurethanschaum: Wärme- und Schalldämmung
+3. **Innen** — das Dampfbremsband: verhindert, dass Feuchtigkeit aus dem Haus in die Fuge gelangt
 
 **Vorteile:**
-- Erfüllt nZEB-Anforderungen
-- Überlegene Haltbarkeit (20+ Jahre)
-- Signifikant besserer Schallschutz als Schaum
-- Keine zusätzlichen Außenfinisharbeiten erforderlich
+- Erfüllt den RAL-Grundsatz „innen dichter als außen“
+- Die Fuge bleibt trocken, sodass die Dämmung ihre Leistung über Jahre behält
+- Dicht gegen Wasser und Wind, ohne Risse
+- Bessere Schalldämmung als mit Schaum allein
 
-**Fazit:** Vorkomprimiertes Band = Mindeststandard für professionelle nZEB-Montage.
+**Nachteile:**
+- Mehrkosten gegenüber der Standardmontage
+- Erfordert sorgfältige Verarbeitung — das Band muss zur Fugenbreite passen
 
-### Option 3 — Blaugelb Triotherm+ Wärmedämmende Vorblendrahmen (Premium nZEB)
+**Fazit:** Die Montage mit Dichtbändern ist der Standard für jedes neue Projekt und für Renovierungen, bei denen die Energieeffizienz zählt.
 
-**Wie es funktioniert:** Der Blaugelb Triotherm+ Vorblendrahmen ist ein Wärmedämmverbund-Rahmen (Wärmeleitfähigkeit λ = 0,035 W/mK), der **vor dem Fenster** montiert wird. Das Fenster wird anschließend auf dem Vorblendrahmen befestigt, nicht direkt im Mauerwerk.
+### Option 3 — Vorwandmontagesystem Blaugelb Triotherm+ (Premium-nZEB-Montage)
 
-**Hauptvorteile:**
-- Eliminiert vollständig die Wärmebrücke am Fensterperimeter
-- Ermöglicht Fenstermontage in der **Wärmedämmebene** der Wand
-- Erleichtert spätere Reparatur oder Austausch ohne Beeinträchtigung der Verkleidungen
-- Zertifiziert für **nZEB und Passivhäuser**
+**So funktioniert es:** Die Blaugelb-Triotherm+-Profile bestehen aus hochdichtem expandiertem Polystyrol (λ = 0,040 W/mK) und werden **vor dem Fenster** montiert, an der Wandoberfläche oder in der Ebene der Wärmedämmung. Das Fenster wird anschließend am Profil befestigt, nicht direkt im Mauerwerk.
 
-**Wann erforderlich:** Neubauten nach nZEB/Passivhaus-Standard, umfassende Hüllenrenovierungen, Wände mit dicker Dämmung.
+**Die wichtigsten Vorteile:**
+- Reduziert die Wärmebrücke am Fensteranschluss stark — der Rahmen sitzt nicht mehr direkt auf dem Mauerwerk
+- Ermöglicht den Einbau des Fensters **in der Dämmebene** der Wand, wie bei Passivhäusern empfohlen
+- Das System Blaugelb Triotherm+ ist vom Passivhaus Institut zertifiziert
+- Die Dichtbänder werden auf das Profil geklebt, die drei Ebenen bleiben also erhalten
 
-**Kosten:** 40–80 €/Stück je nach Maßen.
+**Wann es sinnvoll ist:**
+- Neubauten im nZEB- oder Passivhausstandard
+- Renovierungen mit kompletter Erneuerung der Gebäudehülle
+- Wände mit dicker Dämmung, bei denen das Fenster vor dem Mauerwerk sitzen muss
 
-## Direktvergleich — Was soll ich wählen?
+**Kosten:** Eine komplette nZEB-Montage mit Blaugelb-Profilen und Dichtbändern kostet bei PVC-Fenstern **25–50 EUR pro laufendem Meter** Anschlussfuge mehr (30–60 EUR/lfm bei Aluminium), ohne MwSt.
 
-| Kriterium | Standardschaum | Vorkomprimiertes Band | Blaugelb-Vorblendrahmen |
+**Nachteile:**
+- Mehrkosten gegenüber der Montage mit Dichtbändern
+- Muss in der Planungsphase vorgesehen werden; bei einem bereits eingebauten Fenster lässt es sich nicht nachrüsten
+
+## Direkter Vergleich — was soll ich wählen?
+
+| Kriterium | Nur Schaum | Schaum + Bänder (RAL) | Blaugelb-Profil + Bänder |
 |---|---|---|---|
-| nZEB-Konformität | ❌ Nein | ✅ Ja | ✅ Ja (Premium) |
-| Haltbarkeit | 3–5 Jahre | 20+ Jahre | 30+ Jahre |
-| Schallschutz | Gering | Gut | Sehr gut |
-| Dampfsperre | ❌ Nein | ✅ Partiell | ✅ Vollständig |
-| Relative Kosten | Standard inklusive | +10–20% | +40–80 €/Stück |
-| Empfehlung | Einfache Renovierung | Jedes neue Projekt | nZEB/Passivhaus |
+| nZEB-tauglich | ❌ Nein | ✅ Ja | ✅ Ja (Premium) |
+| Fuge vor Feuchtigkeit geschützt | ❌ Nein | ✅ Ja | ✅ Ja |
+| Schalldämmung | Mittel | Gut | Sehr gut |
+| Dampfbremse | ❌ Nein | ✅ Ja | ✅ Ja |
+| Wärmebrücke am Anschluss | Groß | Reduziert | Sehr klein |
+| Relative Kosten | Im Standard enthalten | Kleiner Aufpreis | +25–50 EUR/lfm (PVC) |
+| Empfehlung | Einfache Renovierung | Jedes neue Projekt | nZEB / Passivhaus |
 
-## Was nZEB in Rumänien verlangt
+## Was das rumänische Recht verlangt
 
-Nach **Gesetz 372/2005** (geändert) und der Methodik **Mc 001-2022** müssen Neubauten das nZEB-Niveau erreichen und Kernsanierungen die Mindestanforderungen an die Energieeffizienz erfüllen; für Fenster liegt der Referenzwert bei Uw ≤ 1,11 W/(m²K) im Neubau (1,20 bei Sanierungen). Die Montage muss Wärmebrücken am Fensteranschluss begrenzen. **Polyurethanschaum allein reicht nicht mehr aus.**
-
----
-
-Neofort BIZ montiert mit Illbruck-Bändern und Blaugelb Triotherm+ Vorblendrahmen in Bukarest und Ilfov. [nZEB-Montage anfragen](/de/kontakt). Sehen Sie [die nZEB-Systeme](/de/nzeb-systeme), die wir anbieten.
+Nach dem **Gesetz 372/2005** (in geänderter Fassung) und der Methodik **Mc 001-2022** müssen Neubauten das nZEB-Niveau erreichen und größere Renovierungen die Mindestanforderungen an die Energieeffizienz erfüllen; für Fenster liegt der Referenzwert bei Uw ≤ 1,11 W/(m²K) für neue Häuser (1,20 bei Renovierungen). Das Gesetz schreibt kein bestimmtes Band vor, doch die Energieberechnung bestraft Wärmebrücken am Anschluss, und die dreistufige Montage ist die anerkannte Praxis, um sie zu begrenzen. In der Praxis **reicht Schaum allein** für ein nZEB-Haus **nicht mehr aus**.
 
 ## Häufig gestellte Fragen
 
-### Warum ist die Perimeterdämmung wichtiger als das Fensterprofil?
+### Warum ist die Anschlussabdichtung so wichtig?
 
-Sie können das leistungsstärkste Profil mit Dreifachglas und Warm Edge einbauen, aber wenn die Fuge zwischen Rahmen und Mauerwerk nicht korrekt abgedichtet ist, verlieren Sie 30-50% der thermischen Effizienz. Thermografien zeigen oft warme Streifen um Rahmen — ein Zeichen, dass die Perimeterdämmung vernachlässigt wurde.
+Sie können das leistungsstärkste Profil mit Dreifachverglasung und Warm Edge einbauen — ist die Fuge zwischen Rahmen und Mauerwerk nicht richtig abgedichtet, geht ein großer Teil der Leistung an den Rändern verloren. Wärmebilder zeigen oft warme Streifen um die Rahmen, und mit der Zeit entstehen Zugluft, Kondensat und Schimmel.
 
-### Was sind die 3 Optionen für die Fenster-Perimeterdämmung?
+### Welche 3 Optionen gibt es für den Fensteranschluss?
 
-PU-Schaum (Standard, günstiger Einbau, reißt aber in 3-5 Jahren und erfüllt nZEB nicht), vorkomprimiertes Band (professioneller Einbau, dauerhafte 20+ Jahre Abdichtung) und der Blaugelb-Thermo-Vorrahmen (der volle nZEB-Standard, der die Perimeter-Wärmebrücke beseitigt).
+Nur Polyurethanschaum (Standardmontage, günstig, aber ohne Dampfbremse), Schaum plus Dichtbänder innen und außen (die dreistufige RAL-Montage) und das Vorwandmontagesystem Blaugelb Triotherm+ mit Bändern (die Premium-nZEB-Montage mit stark reduzierter Wärmebrücke am Anschluss).
 
-### Warum reicht PU-Schaum für den nZEB-Standard nicht aus?
+### Warum reicht Polyurethanschaum für nZEB nicht aus?
 
-Schaum allein reißt in 3-5 Jahren unter UV und Temperaturschwankungen, lässt Wasser eindringen, hat schlechte Schalldämmung und keine Dampfsperre-Eigenschaften. Einmal gerissen, lässt er Dampf in die Wand migrieren und verursacht Kondensat und Schimmel — daher erfüllt er die nZEB-Anforderungen nicht.
+Weil Schaum allein keine Dampfbremse ist: Feuchtigkeit aus dem Haus gelangt in die Fuge, und nasser Schaum dämmt deutlich schlechter. Außen reißen Silikon oder Putz mit der Zeit und lassen Wasser eindringen. Deshalb muss der Schaum innen mit einem Dampfbremsband und außen mit einem vorkomprimierten Band geschützt werden.
 
-### Was verlangt der nZEB-Standard für den Fenstereinbau in Rumänien?
+### Was verlangt das Gesetz für die Fenstermontage in Rumänien?
 
-nZEB, verpflichtend für Neubauten seit 2021 und Großrenovierungen, verlangt Abdichtung in drei Zonen: innen (Dampfsperre), mittig (Wärme- und Schalldämmung) und außen (Wasser- und Windschutz). Vorkomprimiertes Band oder ein Thermo-Vorrahmen liefert diese Schichten.
+Das Gesetz 372/2005 und die Mc 001-2022 verlangen bei Neubauten das nZEB-Niveau und bei größeren Renovierungen Mindestanforderungen, mit Uw ≤ 1,11 W/(m²K) für neue Häuser. Ein bestimmtes Band schreibt das Gesetz nicht vor, doch Wärmebrücken am Anschluss fließen in die Energieberechnung ein, und die dreistufige Montage ist der anerkannte Weg, sie zu begrenzen.
 
+### Was kostet die nZEB-Montage mit Blaugelb-Profilen?
+
+Eine komplette nZEB-Montage mit Blaugelb-Triotherm+-Profilen und Dichtbändern kostet bei PVC-Fenstern 25-50 EUR pro laufendem Meter Anschlussfuge mehr und bei Aluminium 30-60 EUR/lfm, ohne MwSt. Bei einem Fenster von 100 × 120 cm beträgt der Umfang 4,4 m.
 
 ---
 
-Neofort BIZ führt Montagen in drei Dichtebenen mit wärmegedämmten Blaugelb-Vorblendrahmen in Bukarest und Ilfov aus. [Senden Sie uns die Maße der Öffnung](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie die [kompletten nZEB-Systeme](/de/nzeb-systeme). Nützliche Seiten: [Kompriband für die RAL-Außenabdichtung](/de/nzeb-systeme/vorkomprimiertes-butyl-dichtband) und [Innen-Dampfsperrband](/de/nzeb-systeme/innen-dampfsperrband).
-`,
+Neofort BIZ führt Montagen mit dreistufiger Abdichtung aus, mit Soudal-Bändern und dem Vorwandmontagesystem Blaugelb Triotherm+, in Bukarest und Ilfov. [Senden Sie uns die Details der Öffnung](/de/kontakt) und erhalten Sie innerhalb von 48 Stunden ein Angebot. Sehen Sie sich die [kompletten nZEB-Systeme](/de/nzeb-systeme) an, die wir anbieten. Nützliche Seiten: [vorkomprimiertes Butyl-Dichtband](/de/nzeb-systeme/vorkomprimiertes-butyl-dichtband) und [Innen-Dampfsperrband](/de/nzeb-systeme/innen-dampfsperrband).`,
 
-      fr: `## Pourquoi l'isolation périphérique compte plus que le profilé de fenêtre
+      fr: `## Pourquoi l’isolation périphérique compte autant que le profilé de la fenêtre
 
-Vous pouvez installer le meilleur profilé Salamander bluEvolution 92 avec triple vitrage et espaceur Warm Edge, mais si **le joint entre cadre et maçonnerie n'est pas correctement étanché**, vous perdez 30–50% de l'efficacité thermique de la fenêtre. Les images thermiques de bâtiments avec fenêtres récemment remplacées montrent fréquemment des bandes chaudes autour des cadres — signe clair que l'isolation périphérique a été négligée.
+Vous pouvez poser le profilé Salamander le plus performant, le bluEvolution 92, avec triple vitrage et intercalaire Warm Edge : si **le joint entre le dormant et la maçonnerie n’est pas correctement étanché**, une bonne part des performances de la fenêtre se perd sur les bords. Les images thermiques de bâtiments aux fenêtres récemment changées montrent souvent des bandes chaudes autour des dormants — signe que l’isolation périphérique a été négligée. En plus des pertes de chaleur, on voit apparaître des courants d’air, de la condensation dans les angles et, avec le temps, des moisissures.
 
-En Roumanie, la norme **nZEB** — obligatoire pour les constructions neuves depuis 2021 et les rénovations majeures — exige explicitement l'étanchéité dans trois zones : intérieur (pare-vapeur), milieu (isolation thermique et acoustique) et extérieur (protection à l'eau et au vent).
+Une pose correcte suit le principe « plus étanche à l’intérieur qu’à l’extérieur », issu du guide allemand RAL pour la pose des fenêtres. Le joint est fermé en trois zones : intérieur (pare-vapeur), milieu (isolation thermique et acoustique) et extérieur (protection contre la pluie et le vent, mais ouverte à la vapeur, pour que le joint puisse sécher).
 
-## Les 3 principales options d'isolation périphérique
+## Les 3 principales options d’isolation périphérique
 
-### Option 1 — Mousse polyuréthane (pose standard)
+### Option 1 — Mousse polyuréthane seule (pose standard)
 
-**Comment ça marche :** La mousse est injectée dans le joint entre cadre et maçonnerie, se dilate et remplit l'espace. À l'extérieur, du silicone ou de l'enduit est appliqué.
-
-**Avantages :**
-- Faible coût — inclus dans tout devis standard
-- Facile à appliquer — tout installateur l'utilise
-- Remplit complètement les joints irréguliers
-
-**Inconvénients majeurs :**
-- Se fissure en 3–5 ans sous UV et variations de température
-- Permet les infiltrations d'eau après dégradation
-- **Ne répond pas aux exigences nZEB** — pas de propriétés pare-vapeur
-- Une fois fissuré, permet la migration de vapeur vers la structure du mur → condensation → moisissures
-
-### Option 2 — Bande précomprimée (pose professionnelle)
-
-**Comment ça marche :** La bande précomprimée (ex. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) est une mousse polyuréthane imprégnée, comprimée et stockée enroulée. Elle est appliquée sur le cadre avant la pose et se dilate progressivement après installation.
-
-**Les 3 fonctions de la bande précomprimée :**
-1. **Extérieur** — imperméabilisation, résiste à la pluie battante (testé ≥ 600 Pa) et aux UV
-2. **Milieu** — isolation thermique et acoustique
-3. **Intérieur** — pare-vapeur
+**Fonctionnement :** la mousse est injectée dans le joint entre le dormant et la maçonnerie, se dilate et comble le vide. À l’extérieur, on applique généralement du silicone ou de l’enduit.
 
 **Avantages :**
-- Conforme aux exigences nZEB
-- Durabilité supérieure (20+ ans)
-- Isolation acoustique nettement meilleure que la mousse
-- Pas de travaux de finition extérieure supplémentaires
+- Coût réduit — comprise dans tout devis standard
+- Facile à mettre en œuvre
+- Comble bien un joint irrégulier
 
-**Conclusion :** Bande précomprimée = standard minimum pour une pose professionnelle nZEB.
+**Inconvénients :**
+- Non protégée, elle se dégrade avec le temps sous l’effet des UV et des variations de température
+- Ce n’est pas un pare-vapeur : l’humidité de la maison pénètre dans le joint, et une mousse humide isole beaucoup moins bien
+- À l’extérieur, le silicone ou l’enduit se fissurent avec le temps et laissent entrer l’eau
+- Isolation acoustique plus faible qu’une pose avec bandes
 
-### Option 3 — Précadres thermoïsolants Blaugelb Triotherm+ (nZEB premium)
+**Conclusion :** la mousse seule correspond à une pose standard, acceptable pour des rénovations simples. La mousse reste pourtant la couche du milieu dans une pose correcte — le problème, ce sont les bandes absentes à l’intérieur et à l’extérieur.
 
-**Comment ça marche :** Le précadre Blaugelb Triotherm+ est un cadre en matériau composite thermique (conductivité thermique λ = 0,035 W/mK) monté **avant la fenêtre**, directement sur la structure du mur. La fenêtre est ensuite posée sur le précadre.
+### Option 2 — Mousse plus bandes d’étanchéité (pose RAL)
 
-**Avantages clés :**
-- Élimine complètement le pont thermique au périmètre de la fenêtre
-- Permet le montage dans le **plan de l'isolation thermique** du mur
-- Facilite la réparation ou le remplacement futur sans affecter les finitions
-- Certifié pour les constructions **nZEB et maison passive**
+**Fonctionnement :** à l’extérieur, on utilise une **bande précomprimée** — une mousse imprégnée, comprimée et livrée en rouleau — collée sur le dormant avant la pose et qui se dilate progressivement ensuite, fermant le joint. La mousse reste au milieu, et à l’intérieur on colle une **bande pare-vapeur**. Il existe aussi des bandes multifonctions qui assurent les trois fonctions à la fois. Neofort BIZ utilise des bandes Soudal.
 
-**Quand c'est obligatoire :** Constructions neuves nZEB/Maison passive, rénovations complètes de l'enveloppe, murs à forte épaisseur d'isolation.
+**Les 3 couches :**
+1. **Extérieur** — la bande précomprimée : étanche à la pluie battante, résistante aux UV, mais laisse sortir la vapeur
+2. **Milieu** — la mousse polyuréthane : isolation thermique et acoustique
+3. **Intérieur** — la bande pare-vapeur : empêche l’humidité de la maison d’entrer dans le joint
 
-**Coût :** 40–80 €/pièce selon les dimensions.
+**Avantages :**
+- Respecte le principe RAL « plus étanche à l’intérieur qu’à l’extérieur »
+- Le joint reste sec, l’isolation garde donc ses performances pendant des années
+- Étanchéité à l’eau et au vent, sans fissures
+- Meilleure isolation acoustique qu’avec la mousse seule
+
+**Inconvénients :**
+- Surcoût par rapport à une pose standard
+- Demande une mise en œuvre soignée — la bande doit être choisie selon la largeur du joint
+
+**Conclusion :** la pose avec bandes est la norme pour tout projet neuf et pour les rénovations où l’efficacité énergétique compte.
+
+### Option 3 — Précadres isolants Blaugelb Triotherm+ (pose nZEB haut de gamme)
+
+**Fonctionnement :** le précadre Blaugelb Triotherm+ est un profilé en polystyrène expansé haute densité (λ = 0,040 W/mK), posé **avant la fenêtre**, en applique sur le mur ou dans le plan de l’isolation thermique. La fenêtre est ensuite fixée sur le précadre, et non directement dans la maçonnerie.
+
+**Les principaux avantages :**
+- Réduit fortement le pont thermique en périphérie de la fenêtre — le dormant ne repose plus directement sur la maçonnerie
+- Permet de poser la fenêtre **dans le plan de l’isolation thermique** du mur, comme on le recommande pour les maisons passives
+- Le système Blaugelb Triotherm+ est certifié par le Passive House Institute
+- Les bandes d’étanchéité se posent sur le précadre, les trois couches sont donc conservées
+
+**Quand c’est pertinent :**
+- Constructions neuves nZEB ou maisons passives
+- Rénovations avec réfection complète de l’enveloppe thermique
+- Murs à forte épaisseur d’isolant, où la fenêtre doit être posée devant la maçonnerie
+
+**Coût :** une pose nZEB complète, avec précadres Blaugelb et bandes d’étanchéité, ajoute **25 à 50 EUR par mètre linéaire** de périmètre pour les fenêtres PVC (30 à 60 EUR/ml pour l’aluminium), hors TVA.
+
+**Inconvénients :**
+- Surcoût par rapport à la pose avec bandes
+- Se prévoit dès la conception ; impossible de l’ajouter ensuite à une fenêtre déjà posée
 
 ## Comparaison directe — que choisir ?
 
-| Critère | Mousse standard | Bande précomprimée | Précadre Blaugelb |
+| Critère | Mousse seule | Mousse + bandes (RAL) | Précadre Blaugelb + bandes |
 |---|---|---|---|
-| Conformité nZEB | ❌ Non | ✅ Oui | ✅ Oui (premium) |
-| Durabilité | 3–5 ans | 20+ ans | 30+ ans |
-| Isolation acoustique | Faible | Bonne | Très bonne |
-| Pare-vapeur | ❌ Non | ✅ Partiel | ✅ Complet |
-| Coût relatif | Inclus standard | +10–20% | +40–80 €/pièce |
-| Recommandation | Rénovation simple | Tout projet neuf | nZEB/Maison passive |
+| Adapté au nZEB | ❌ Non | ✅ Oui | ✅ Oui (haut de gamme) |
+| Joint protégé de l’humidité | ❌ Non | ✅ Oui | ✅ Oui |
+| Isolation acoustique | Moyenne | Bonne | Très bonne |
+| Pare-vapeur | ❌ Non | ✅ Oui | ✅ Oui |
+| Pont thermique en périphérie | Important | Réduit | Très faible |
+| Coût relatif | Inclus en standard | Petit supplément | +25–50 EUR/ml (PVC) |
+| Recommandation | Rénovation simple | Tout projet neuf | nZEB / maison passive |
 
-## Ce que nZEB exige en Roumanie
+## Ce qu’exige la législation roumaine
 
-Selon la **Loi 372/2005** (modifiée) et la méthodologie **Mc 001-2022**, les bâtiments neufs doivent atteindre le niveau nZEB et les rénovations majeures respecter les exigences minimales de performance énergétique ; pour les fenêtres, la valeur de référence est Uw ≤ 1,11 W/(m²K) dans le neuf (1,20 en rénovation). La pose doit limiter les ponts thermiques périmétriques. **La mousse polyuréthane seule ne suffit plus.**
-
----
-
-Neofort BIZ réalise des poses avec bandes Illbruck et précadres Blaugelb Triotherm+ à Bucarest et Ilfov. [Demander un devis pose nZEB](/fr/contact). Voir [les systèmes nZEB](/fr/systemes-nzeb) que nous proposons.
+Selon la **loi 372/2005** (modifiée) et la méthodologie **Mc 001-2022**, les bâtiments neufs doivent atteindre le niveau nZEB, et les rénovations importantes respecter les exigences minimales de performance énergétique ; pour les fenêtres, la valeur de référence est Uw ≤ 1,11 W/(m²K) pour les maisons neuves (1,20 en rénovation). La loi n’impose pas de bande précise, mais le calcul énergétique pénalise les ponts thermiques en périphérie, et la pose en trois couches est la pratique reconnue pour les limiter. En pratique, **la mousse seule ne suffit plus** pour une maison nZEB.
 
 ## Questions fréquentes
 
-### Pourquoi l'isolation périmétrique est-elle plus importante que le profilé ?
+### Pourquoi l’isolation périphérique compte-t-elle autant ?
 
-Vous pouvez poser le profilé le plus performant avec triple vitrage et Warm Edge, mais si le joint entre dormant et maçonnerie n'est pas correctement étanché, vous perdez 30-50% de l'efficacité thermique. Les images thermiques montrent souvent des bandes chaudes autour des dormants — signe que l'isolation périmétrique a été négligée.
+Vous pouvez poser le profilé le plus performant, avec triple vitrage et Warm Edge : si le joint entre le dormant et la maçonnerie n’est pas correctement étanché, une bonne part des performances se perd sur les bords. Les images thermiques montrent souvent des bandes chaudes autour des dormants, et avec le temps apparaissent courants d’air, condensation et moisissures.
 
-### Quelles sont les 3 options d'isolation périmétrique des fenêtres ?
+### Quelles sont les 3 options d’isolation périphérique des fenêtres ?
 
-La mousse polyuréthane (pose standard, peu chère, mais se fissure en 3-5 ans et échoue au nZEB), la bande précomprimée (pose professionnelle, étanchéité durable 20+ ans) et le précadre thermique Blaugelb (le standard nZEB complet, éliminant le pont thermique périmétrique).
+La mousse polyuréthane seule (pose standard, bon marché, mais sans pare-vapeur), la mousse plus des bandes d’étanchéité à l’intérieur et à l’extérieur (la pose RAL en trois couches) et les précadres isolants Blaugelb Triotherm+ avec bandes (la pose nZEB haut de gamme, avec un pont thermique périphérique fortement réduit).
 
-### Pourquoi la mousse polyuréthane ne suffit-elle pas pour le standard nZEB ?
+### Pourquoi la mousse polyuréthane ne suffit-elle pas pour le nZEB ?
 
-La mousse seule se fissure en 3-5 ans sous UV et variations thermiques, laisse passer l'eau, a une isolation acoustique médiocre et aucune propriété de pare-vapeur. Une fois fissurée, elle laisse la vapeur migrer dans le mur, causant condensation et moisissure — d'où son échec aux exigences nZEB.
+Parce que la mousse seule n’est pas un pare-vapeur : l’humidité de la maison pénètre dans le joint, et une mousse humide isole beaucoup moins bien. À l’extérieur, le silicone ou l’enduit se fissurent avec le temps et laissent entrer l’eau. C’est pourquoi la mousse doit être protégée par une bande pare-vapeur à l’intérieur et une bande précomprimée à l’extérieur.
 
-### Qu'exige le standard nZEB pour la pose des fenêtres en Roumanie ?
+### Que demande la loi pour la pose des fenêtres en Roumanie ?
 
-Le nZEB, obligatoire pour les constructions neuves depuis 2021 et les rénovations majeures, exige l'étanchéité en trois zones : intérieur (pare-vapeur), médiane (isolation thermique et acoustique) et extérieur (protection eau et vent). La bande précomprimée ou un précadre thermique fournit ces couches.
+La loi 372/2005 et la Mc 001-2022 exigent le niveau nZEB pour les bâtiments neufs et des exigences minimales pour les rénovations importantes, avec Uw ≤ 1,11 W/(m²K) pour les maisons neuves. La loi n’impose pas de bande précise, mais les ponts thermiques en périphérie entrent dans le calcul énergétique, et la pose en trois couches est la façon reconnue de les limiter.
 
+### Combien coûte une pose nZEB avec précadres Blaugelb ?
+
+Une pose nZEB complète, avec précadres Blaugelb Triotherm+ et bandes d’étanchéité, ajoute 25-50 EUR par mètre linéaire de périmètre pour les fenêtres PVC et 30-60 EUR/ml pour l’aluminium, hors TVA. Pour une fenêtre de 100 × 120 cm, le périmètre fait 4,4 m.
 
 ---
 
-Neofort BIZ réalise des poses en trois plans d’étanchéité, avec précadres isolants Blaugelb, à Bucarest et dans l’Ilfov. [Transmettez-nous les dimensions de la baie](/fr/contact) et recevez un devis sous 48 heures. Découvrez les [systèmes nZEB complets](/fr/systemes-nzeb). Pages utiles : [la bande butyle précomprimée](/fr/systemes-nzeb/bande-precomprimee-butyle) et [la bande d'étanchéité pare-vapeur](/fr/systemes-nzeb/ruban-etancheite-pare-vapeur-interieur).
-`,
+Neofort BIZ réalise des poses à trois niveaux d’étanchéité, avec bandes Soudal et précadres isolants Blaugelb Triotherm+, à Bucarest et dans l’Ilfov. [Envoyez-nous les détails de la baie](/fr/contact) et recevez un devis sous 48 heures. Découvrez les [systèmes nZEB complets](/fr/systemes-nzeb) que nous proposons. Pages utiles : [la bande précomprimée butyle](/fr/systemes-nzeb/bande-precomprimee-butyle) et [la bande pare-vapeur intérieure](/fr/systemes-nzeb/ruban-etancheite-pare-vapeur-interieur).`,
 
-      es: `## Por qué el aislamiento perimetral importa más que el perfil de ventana
+      es: `## Por qué el aislamiento perimetral importa tanto como el perfil de la ventana
 
-Puede instalar el mejor perfil Salamander bluEvolution 92 con triple acristalamiento y separador Warm Edge, pero si **la junta entre marco y mampostería no está correctamente sellada**, pierde el 30–50% de la eficiencia térmica de la ventana. Las imágenes térmicas de edificios con ventanas recientemente sustituidas muestran frecuentemente franjas calientes alrededor de los marcos — señal clara de que el aislamiento perimetral fue descuidado.
+Puede instalar el perfil Salamander de mayor rendimiento, el bluEvolution 92, con triple acristalamiento y separador Warm Edge, pero si **la junta entre el marco y la obra no está bien sellada**, buena parte del rendimiento de la ventana se pierde por los bordes. Las imágenes térmicas de edificios con ventanas recién cambiadas muestran a menudo franjas calientes alrededor de los marcos: señal de que se descuidó el aislamiento perimetral. Además de la pérdida de calor, aparecen corrientes de aire, condensación en las esquinas y, con el tiempo, moho.
 
-En Rumanía, la norma **nZEB** — obligatoria para nuevas construcciones desde 2021 y renovaciones importantes — exige explícitamente el sellado en tres zonas: interior (barrera de vapor), media (aislamiento térmico y acústico) y exterior (protección contra agua y viento).
+Una instalación correcta sigue el principio «más estanco por dentro que por fuera», de la guía alemana RAL para el montaje de ventanas. La junta se cierra en tres zonas: interior (barrera de vapor), centro (aislamiento térmico y acústico) y exterior (protección frente a lluvia y viento, pero abierta al vapor, para que la junta pueda secarse).
 
-## Las 3 principales opciones de aislamiento perimetral
+## Las 3 opciones principales de aislamiento perimetral
 
-### Opción 1 — Espuma de poliuretano (instalación estándar)
+### Opción 1: Solo espuma de poliuretano (montaje estándar)
 
-**Cómo funciona:** La espuma se inyecta en la junta entre marco y mampostería, se expande y llena el espacio. Al exterior se aplica silicona o revoco.
-
-**Ventajas:**
-- Bajo coste — incluido en cualquier presupuesto estándar
-- Fácil de aplicar — cualquier instalador la usa
-- Rellena completamente las juntas irregulares
-
-**Desventajas graves:**
-- Se agrieta en 3–5 años bajo UV y variaciones de temperatura
-- Permite infiltraciones de agua tras la degradación
-- **No cumple los requisitos nZEB** — sin propiedades de barrera de vapor
-- Una vez agrietada, permite la migración de vapor hacia la estructura del muro → condensación → moho
-
-### Opción 2 — Banda precomprimida (instalación profesional)
-
-**Cómo funciona:** La banda precomprimida (ej. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) se aplica sobre el marco antes de la instalación y luego se expande progresivamente sellando el perímetro exterior.
-
-**Las 3 funciones de la banda precomprimida:**
-1. **Exterior** — impermeabilización, resistente a lluvia batida (testado ≥ 600 Pa) y UV
-2. **Media** — aislamiento térmico y acústico
-3. **Interior** — barrera de vapor
+**Cómo funciona:** la espuma se inyecta en la junta entre el marco y la obra, se expande y rellena el hueco. Por fuera se suele aplicar silicona o enfoscado.
 
 **Ventajas:**
-- Cumple requisitos nZEB
-- Durabilidad superior (20+ años)
-- Aislamiento acústico significativamente mejor que la espuma
-- No requiere trabajos adicionales de acabado exterior
+- Coste reducido: incluida en cualquier presupuesto estándar
+- Fácil de aplicar
+- Rellena bien una junta irregular
 
-**Conclusión:** Banda precomprimida = estándar mínimo para instalación profesional nZEB.
+**Inconvenientes:**
+- Sin protección, se degrada con el tiempo por la radiación UV y los cambios de temperatura
+- No es barrera de vapor: la humedad de la casa entra en la junta, y la espuma húmeda aísla mucho peor
+- Por fuera, la silicona o el enfoscado se agrietan con el tiempo y dejan pasar el agua
+- Aislamiento acústico más débil que un montaje con cintas
 
-### Opción 3 — Premarcos termoaislantes Blaugelb Triotherm+ (nZEB premium)
+**Conclusión:** la espuma sola es un montaje estándar, aceptable en reformas sencillas. Aun así, la espuma sigue siendo la capa central en un montaje correcto: el problema es la falta de cintas por dentro y por fuera.
 
-**Cómo funciona:** El premarco Blaugelb Triotherm+ es un marco de material compuesto térmico (conductividad térmica λ = 0,035 W/mK) que se monta **antes de la ventana**. La ventana se monta posteriormente sobre el premarco.
+### Opción 2: Espuma más cintas de sellado (montaje RAL)
+
+**Cómo funciona:** por fuera se usa una **cinta precomprimida** —una espuma impregnada, comprimida y suministrada en rollo— que se pega al marco antes del montaje y se expande poco a poco después, cerrando la junta. La espuma queda en el centro, y por dentro se pega una **cinta de barrera de vapor**. También hay cintas multifunción que cumplen las tres funciones a la vez. Neofort BIZ usa cintas Soudal.
+
+**Las 3 capas:**
+1. **Exterior**: la cinta precomprimida, estanca a la lluvia batida, resistente a los UV, pero que deja salir el vapor
+2. **Centro**: la espuma de poliuretano, aislamiento térmico y acústico
+3. **Interior**: la cinta de barrera de vapor, que impide que la humedad de la casa entre en la junta
+
+**Ventajas:**
+- Cumple el principio RAL «más estanco por dentro que por fuera»
+- La junta se mantiene seca, así que el aislamiento conserva su rendimiento durante años
+- Estanqueidad al agua y al viento, sin grietas
+- Mejor aislamiento acústico que con la espuma sola
+
+**Inconvenientes:**
+- Sobrecoste frente al montaje estándar
+- Requiere una aplicación cuidadosa: la cinta debe elegirse según el ancho de la junta
+
+**Conclusión:** el montaje con cintas es el estándar para cualquier proyecto nuevo y para las reformas en las que importa la eficiencia energética.
+
+### Opción 3: Premarcos aislantes Blaugelb Triotherm+ (montaje nZEB premium)
+
+**Cómo funciona:** el premarco Blaugelb Triotherm+ es un perfil de poliestireno expandido de alta densidad (λ = 0,040 W/mK) que se monta **antes de la ventana**, sobre la cara del muro o en el plano del aislamiento térmico. La ventana se fija después al premarco, no directamente a la obra.
 
 **Ventajas clave:**
-- Elimina completamente el puente térmico en el perímetro de la ventana
-- Permite el montaje en el **plano del aislamiento térmico** del muro
-- Facilita la reparación o sustitución futura sin afectar los acabados
-- Certificado para construcciones **nZEB y casa pasiva**
+- Reduce mucho el puente térmico en el perímetro de la ventana: el marco ya no apoya directamente en la obra
+- Permite instalar la ventana **en el plano del aislamiento térmico** del muro, como se recomienda en las casas pasivas
+- El sistema Blaugelb Triotherm+ está certificado por el Passive House Institute
+- Las cintas de sellado se aplican sobre el premarco, así que las tres capas se mantienen
 
-**Cuándo es obligatorio:** Nuevas construcciones nZEB/Casa Pasiva, renovaciones completas de la envolvente, muros con gran espesor de aislamiento.
+**Cuándo tiene sentido:**
+- Obra nueva nZEB o casas pasivas
+- Reformas con renovación completa de la envolvente térmica
+- Muros con aislamiento grueso, donde la ventana debe ir por delante de la obra
 
-**Coste:** 40–80 €/ud según dimensiones.
+**Coste:** el montaje nZEB completo, con premarcos Blaugelb y cintas de sellado, añade **25–50 EUR por metro lineal** de perímetro en ventanas de PVC (30–60 EUR/ml en aluminio), sin IVA.
 
-## Comparación directa — ¿qué elegir?
+**Inconvenientes:**
+- Sobrecoste frente al montaje con cintas
+- Se prevé en la fase de proyecto; no se puede añadir después a una ventana ya instalada
 
-| Criterio | Espuma estándar | Banda precomprimida | Premarco Blaugelb |
+## Comparación directa: ¿qué elegir?
+
+| Criterio | Solo espuma | Espuma + cintas (RAL) | Premarco Blaugelb + cintas |
 |---|---|---|---|
-| Conformidad nZEB | ❌ No | ✅ Sí | ✅ Sí (premium) |
-| Durabilidad | 3–5 años | 20+ años | 30+ años |
-| Aislamiento acústico | Deficiente | Bueno | Muy bueno |
-| Barrera de vapor | ❌ No | ✅ Parcial | ✅ Completa |
-| Coste relativo | Incluido estándar | +10–20% | +40–80 €/ud |
-| Recomendación | Renovación simple | Cualquier proyecto nuevo | nZEB/Casa Pasiva |
+| Apto para nZEB | ❌ No | ✅ Sí | ✅ Sí (premium) |
+| Junta protegida de la humedad | ❌ No | ✅ Sí | ✅ Sí |
+| Aislamiento acústico | Medio | Bueno | Muy bueno |
+| Barrera de vapor | ❌ No | ✅ Sí | ✅ Sí |
+| Puente térmico en el perímetro | Grande | Reducido | Muy pequeño |
+| Coste relativo | Incluido de serie | Pequeño suplemento | +25–50 EUR/ml (PVC) |
+| Recomendación | Reforma sencilla | Cualquier proyecto nuevo | nZEB / casa pasiva |
 
-## Qué exige nZEB en Rumanía
+## Qué exige la legislación rumana
 
-Según la **Ley 372/2005** (modificada) y la metodología **Mc 001-2022**, los edificios nuevos deben alcanzar el nivel nZEB y las renovaciones importantes cumplir los requisitos mínimos de eficiencia energética; para las ventanas, el valor de referencia es Uw ≤ 1,11 W/(m²K) en obra nueva (1,20 en rehabilitación). La instalación debe limitar los puentes térmicos perimetrales. **La espuma de poliuretano sola ya no es suficiente.**
-
----
-
-Neofort BIZ instala con bandas Illbruck y premarcos Blaugelb Triotherm+ en Bucarest e Ilfov. [Solicitar presupuesto instalación nZEB](/es/contacto). Ver [los sistemas nZEB](/es/sistemas-nzeb) que ofrecemos.
+Según la **Ley 372/2005** (modificada) y la metodología **Mc 001-2022**, los edificios nuevos deben alcanzar el nivel nZEB, y las reformas importantes cumplir los requisitos mínimos de eficiencia energética; para las ventanas, el valor de referencia es Uw ≤ 1,11 W/(m²K) en viviendas nuevas (1,20 en reformas). La ley no dice qué cinta usar, pero el cálculo energético penaliza los puentes térmicos del perímetro, y el montaje en tres capas es la práctica reconocida para limitarlos. En la práctica, **la espuma sola ya no basta** para una casa nZEB.
 
 ## Preguntas frecuentes
 
-### ¿Por qué el aislamiento perimetral es más importante que el perfil de la ventana?
+### ¿Por qué importa tanto el aislamiento perimetral?
 
-Puedes montar el perfil más eficiente con triple vidrio y Warm Edge, pero si la junta entre marco y muro no se sella correctamente pierdes el 30-50% de la eficiencia térmica. Las imágenes térmicas muestran a menudo franjas cálidas alrededor de los marcos — señal de que el aislamiento perimetral se descuidó.
+Puede instalar el perfil de mayor rendimiento, con triple acristalamiento y Warm Edge, pero si la junta entre el marco y la obra no está bien sellada, buena parte del rendimiento se pierde por los bordes. Las imágenes térmicas muestran a menudo franjas calientes alrededor de los marcos y, con el tiempo, aparecen corrientes de aire, condensación y moho.
 
 ### ¿Cuáles son las 3 opciones de aislamiento perimetral de ventanas?
 
-La espuma de poliuretano (montaje estándar, barato, pero se agrieta en 3-5 años e incumple nZEB), la banda precomprimida (montaje profesional, sellado duradero 20+ años) y el premarco térmico Blaugelb (el estándar nZEB completo, que elimina el puente térmico perimetral).
+Solo espuma de poliuretano (montaje estándar, barato, pero sin barrera de vapor), espuma más cintas de sellado por dentro y por fuera (el montaje RAL en tres capas) y los premarcos aislantes Blaugelb Triotherm+ con cintas (el montaje nZEB premium, con el puente térmico perimetral muy reducido).
 
-### ¿Por qué no basta la espuma de poliuretano para el estándar nZEB?
+### ¿Por qué no basta la espuma de poliuretano para nZEB?
 
-La espuma sola se agrieta en 3-5 años bajo UV y cambios térmicos, permite infiltraciones de agua, tiene mal aislamiento acústico y ninguna propiedad de barrera de vapor. Una vez agrietada, deja migrar el vapor al muro, causando condensación y moho — por eso incumple los requisitos nZEB.
+Porque la espuma sola no es barrera de vapor: la humedad de la casa entra en la junta, y la espuma húmeda aísla mucho peor. Por fuera, la silicona o el enfoscado se agrietan con el tiempo y dejan pasar el agua. Por eso la espuma debe protegerse con una cinta de barrera de vapor por dentro y una cinta precomprimida por fuera.
 
-### ¿Qué exige el estándar nZEB para la instalación de ventanas en Rumanía?
+### ¿Qué exige la ley para el montaje de ventanas en Rumanía?
 
-El nZEB, obligatorio para obra nueva desde 2021 y reformas mayores, exige sellado en tres zonas: interior (barrera de vapor), media (aislamiento térmico y acústico) y exterior (protección al agua y viento). La banda precomprimida o un premarco térmico aporta estas capas.
+La Ley 372/2005 y la Mc 001-2022 exigen el nivel nZEB en edificios nuevos y requisitos mínimos en las reformas importantes, con Uw ≤ 1,11 W/(m²K) en viviendas nuevas. La ley no impone una cinta concreta, pero los puentes térmicos del perímetro entran en el cálculo energético, y el montaje en tres capas es la forma reconocida de limitarlos.
 
+### ¿Cuánto cuesta el montaje nZEB con premarcos Blaugelb?
+
+El montaje nZEB completo, con premarcos Blaugelb Triotherm+ y cintas de sellado, añade 25-50 EUR por metro lineal de perímetro en ventanas de PVC y 30-60 EUR/ml en aluminio, sin IVA. Para una ventana de 100 × 120 cm, el perímetro es de 4,4 m.
 
 ---
 
-Neofort BIZ ejecuta instalación en tres planos de sellado, con premarcos aislantes Blaugelb, en Bucarest e Ilfov. [Envíenos las medidas del hueco](/es/contacto) y recibirá un presupuesto en 48 horas. Vea los [sistemas nZEB completos](/es/sistemas-nzeb). Páginas útiles: [la cinta butílica precomprimida](/es/sistemas-nzeb/cinta-precomprimida-butilica) y [la cinta de barrera de vapor interior](/es/sistemas-nzeb/banda-sellado-barrera-vapor-interior).
-`,
+Neofort BIZ realiza montajes con sellado en tres capas, con cintas Soudal y premarcos aislantes Blaugelb Triotherm+, en Bucarest e Ilfov. [Envíenos los detalles del hueco](/es/contacto) y reciba un presupuesto en 48 horas. Vea los [sistemas nZEB completos](/es/sistemas-nzeb) que ofrecemos. Páginas útiles: [la cinta precomprimida butílica](/es/sistemas-nzeb/cinta-precomprimida-butilica) y [la cinta de barrera de vapor interior](/es/sistemas-nzeb/banda-sellado-barrera-vapor-interior).`,
 
-      it: `## Perché l'isolamento perimetrale conta più del profilo della finestra
+      it: `## Perché l’isolamento perimetrale conta quanto il profilo della finestra
 
-Puoi installare il miglior profilo Salamander bluEvolution 92 con triplo vetro e distanziale Warm Edge, ma se **il giunto tra telaio e muratura non è correttamente sigillato**, perdi il 30–50% dell'efficienza termica della finestra. Le immagini termiche di edifici con finestre recentemente sostituite mostrano frequentemente strisce calde attorno ai telai — segnale chiaro che l'isolamento perimetrale è stato trascurato.
+Potete installare il profilo Salamander più performante, il bluEvolution 92, con triplo vetro e distanziale Warm Edge, ma se **il giunto tra telaio e muratura non è sigillato correttamente**, buona parte delle prestazioni della finestra si perde ai bordi. Le termografie di edifici con finestre appena sostituite mostrano spesso strisce calde intorno ai telai: segno che l’isolamento perimetrale è stato trascurato. Oltre alla dispersione di calore, compaiono spifferi, condensa negli angoli e, col tempo, muffa.
 
-In Romania, lo standard **nZEB** — obbligatorio per le nuove costruzioni dal 2021 e le ristrutturazioni importanti — richiede esplicitamente la sigillatura in tre zone: interno (barriera vapore), medio (isolamento termico e acustico) ed esterno (protezione da acqua e vento).
+Una posa corretta segue il principio «più ermetico all’interno che all’esterno», tratto dalla linea guida tedesca RAL per la posa dei serramenti. Il giunto si chiude in tre zone: interno (barriera al vapore), centro (isolamento termico e acustico) ed esterno (protezione da pioggia e vento, ma aperta al vapore, perché il giunto possa asciugarsi).
 
-## Le 3 principali opzioni di isolamento perimetrale
+## Le 3 opzioni principali di isolamento perimetrale
 
-### Opzione 1 — Schiuma poliuretanica (installazione standard)
+### Opzione 1: Solo schiuma poliuretanica (posa standard)
 
-**Come funziona:** La schiuma viene iniettata nel giunto tra telaio e muratura, si espande e riempie lo spazio. All'esterno si applica silicone o intonaco.
-
-**Vantaggi:**
-- Basso costo — incluso in qualsiasi preventivo standard
-- Facile da applicare — qualsiasi installatore la usa
-- Riempie completamente le giunzioni irregolari
-
-**Svantaggi gravi:**
-- Si incrina in 3–5 anni sotto UV e variazioni di temperatura
-- Permette infiltrazioni d'acqua dopo la degradazione
-- **Non soddisfa i requisiti nZEB** — nessuna proprietà di barriera vapore
-- Una volta incrinata, permette la migrazione di vapore verso la struttura del muro → condensa → muffa
-
-### Opzione 2 — Nastro precompresso (installazione professionale)
-
-**Come funziona:** Il nastro precompresso (es. Illbruck TP600, blaugelb TrioSDL 600, Soudal Compriband) viene applicato sul telaio prima dell'installazione e si espande progressivamente sigillando il perimetro esterno.
-
-**Le 3 funzioni del nastro precompresso:**
-1. **Esterno** — impermeabilizzazione, resistente alla pioggia battente (testato ≥ 600 Pa) e ai raggi UV
-2. **Medio** — isolamento termico e acustico
-3. **Interno** — barriera vapore
+**Come funziona:** la schiuma viene iniettata nel giunto tra telaio e muratura, si espande e riempie il vuoto. All’esterno si applica di solito silicone o intonaco.
 
 **Vantaggi:**
-- Soddisfa i requisiti nZEB
-- Durabilità superiore (20+ anni)
-- Isolamento acustico significativamente migliore della schiuma
-- Non richiede lavori aggiuntivi di finitura esterna
+- Costo ridotto: inclusa in qualsiasi preventivo standard
+- Facile da applicare
+- Riempie bene un giunto irregolare
 
-**Conclusione:** Nastro precompresso = standard minimo per installazione professionale nZEB.
+**Svantaggi:**
+- Se non protetta, si degrada col tempo per i raggi UV e gli sbalzi di temperatura
+- Non è una barriera al vapore: l’umidità della casa entra nel giunto, e la schiuma bagnata isola molto meno
+- All’esterno, silicone o intonaco si crepano col tempo e lasciano entrare l’acqua
+- Isolamento acustico più debole rispetto a una posa con nastri
 
-### Opzione 3 — Controtelai termoisolanti Blaugelb Triotherm+ (nZEB premium)
+**Conclusione:** la sola schiuma è una posa standard, accettabile per ristrutturazioni semplici. La schiuma resta comunque lo strato centrale anche nella posa corretta: il problema sono i nastri mancanti all’interno e all’esterno.
 
-**Come funziona:** La precornice Blaugelb Triotherm+ è un telaio in materiale composito termico (conduttività termica λ = 0,035 W/mK) montato **prima della finestra**. La finestra viene successivamente montata sulla precornice, non direttamente nella muratura.
+### Opzione 2: Schiuma più nastri di tenuta (posa RAL)
 
-**Vantaggi chiave:**
-- Elimina completamente il ponte termico al perimetro della finestra
-- Permette il montaggio nel **piano dell'isolamento termico** del muro
-- Facilita la riparazione o sostituzione futura senza influire sui rivestimenti
-- Certificato per costruzioni **nZEB e casa passiva**
+**Come funziona:** all’esterno si usa un **nastro precompresso**, una schiuma impregnata, compressa e fornita in rotolo, che si incolla al telaio prima della posa e poi si espande gradualmente chiudendo il giunto. La schiuma resta al centro, e all’interno si incolla un **nastro barriera al vapore**. Esistono anche nastri multifunzione che svolgono le tre funzioni insieme. Neofort BIZ usa nastri Soudal.
 
-**Quando è obbligatorio:** Nuove costruzioni nZEB/Casa Passiva, ristrutturazioni complete dell'involucro, pareti con grande spessore di isolamento.
+**I 3 strati:**
+1. **Esterno**: il nastro precompresso, a tenuta contro la pioggia battente, resistente ai UV, ma che lascia uscire il vapore
+2. **Centro**: la schiuma poliuretanica, isolamento termico e acustico
+3. **Interno**: il nastro barriera al vapore, che impedisce all’umidità della casa di entrare nel giunto
 
-**Costo:** 40–80 €/pezzo in base alle dimensioni.
+**Vantaggi:**
+- Rispetta il principio RAL «più ermetico all’interno che all’esterno»
+- Il giunto resta asciutto, quindi l’isolamento mantiene le sue prestazioni per anni
+- Tenuta all’acqua e al vento, senza crepe
+- Isolamento acustico migliore rispetto alla sola schiuma
 
-## Confronto diretto — cosa scegliere?
+**Svantaggi:**
+- Costo aggiuntivo rispetto alla posa standard
+- Richiede un’applicazione accurata: il nastro va scelto in base alla larghezza del giunto
 
-| Criterio | Schiuma standard | Nastro precompresso | Precornice Blaugelb |
+**Conclusione:** la posa con nastri è lo standard per ogni progetto nuovo e per le ristrutturazioni in cui conta l’efficienza energetica.
+
+### Opzione 3: Controtelai isolanti Blaugelb Triotherm+ (posa nZEB premium)
+
+**Come funziona:** il controtelaio Blaugelb Triotherm+ è un profilo in polistirene espanso ad alta densità (λ = 0,040 W/mK) che si monta **prima della finestra**, sulla faccia del muro o nel piano dell’isolamento termico. La finestra viene poi fissata al controtelaio, non direttamente nella muratura.
+
+**I vantaggi principali:**
+- Riduce fortemente il ponte termico sul perimetro della finestra: il telaio non poggia più direttamente sulla muratura
+- Permette di posare la finestra **nel piano dell’isolamento termico** del muro, come si consiglia nelle case passive
+- Il sistema Blaugelb Triotherm+ è certificato dal Passive House Institute
+- I nastri di tenuta si applicano sul controtelaio, quindi i tre strati restano
+
+**Quando ha senso:**
+- Nuove costruzioni nZEB o case passive
+- Ristrutturazioni con rifacimento completo dell’involucro termico
+- Muri con isolamento spesso, dove la finestra va posata davanti alla muratura
+
+**Costo:** la posa nZEB completa, con controtelai Blaugelb e nastri di tenuta, aggiunge **25–50 EUR al metro lineare** di perimetro per gli infissi in PVC (30–60 EUR/ml per l’alluminio), IVA esclusa.
+
+**Svantaggi:**
+- Costo aggiuntivo rispetto alla posa con nastri
+- Va previsto in fase di progetto; non si può aggiungere dopo a una finestra già posata
+
+## Confronto diretto: cosa scegliere?
+
+| Criterio | Solo schiuma | Schiuma + nastri (RAL) | Controtelaio Blaugelb + nastri |
 |---|---|---|---|
-| Conformità nZEB | ❌ No | ✅ Sì | ✅ Sì (premium) |
-| Durabilità | 3–5 anni | 20+ anni | 30+ anni |
-| Isolamento acustico | Scarso | Buono | Molto buono |
-| Barriera vapore | ❌ No | ✅ Parziale | ✅ Completa |
-| Costo relativo | Incluso standard | +10–20% | +40–80 €/pezzo |
-| Raccomandazione | Ristrutturazione semplice | Qualsiasi nuovo progetto | nZEB/Casa Passiva |
+| Adatto all’nZEB | ❌ No | ✅ Sì | ✅ Sì (premium) |
+| Giunto protetto dall’umidità | ❌ No | ✅ Sì | ✅ Sì |
+| Isolamento acustico | Medio | Buono | Molto buono |
+| Barriera al vapore | ❌ No | ✅ Sì | ✅ Sì |
+| Ponte termico sul perimetro | Grande | Ridotto | Molto piccolo |
+| Costo relativo | Incluso di serie | Piccolo supplemento | +25–50 EUR/ml (PVC) |
+| Raccomandazione | Ristrutturazione semplice | Ogni progetto nuovo | nZEB / casa passiva |
 
-## Cosa richiede nZEB in Romania
+## Cosa chiede la legislazione rumena
 
-Secondo la **Legge 372/2005** (modificata) e la metodologia **Mc 001-2022**, i nuovi edifici devono raggiungere il livello nZEB e le ristrutturazioni importanti rispettare i requisiti minimi di prestazione energetica; per le finestre il valore di riferimento è Uw ≤ 1,11 W/(m²K) nelle nuove costruzioni (1,20 nelle ristrutturazioni). L'installazione deve limitare i ponti termici perimetrali. **La schiuma poliuretanica da sola non è più sufficiente.**
-
----
-
-Neofort BIZ installa con nastri Illbruck e controtelai Blaugelb Triotherm+ a Bucarest e Ilfov. [Richiedere preventivo installazione nZEB](/it/contatti). Vedi [i sistemi nZEB](/it/sistemi-nzeb) che offriamo.
+Secondo la **Legge 372/2005** (modificata) e la metodologia **Mc 001-2022**, gli edifici nuovi devono raggiungere il livello nZEB e le ristrutturazioni importanti i requisiti minimi di prestazione energetica; per le finestre, il valore di riferimento è Uw ≤ 1,11 W/(m²K) per le case nuove (1,20 nelle ristrutturazioni). La legge non indica quale nastro usare, ma il calcolo energetico penalizza i ponti termici sul perimetro, e la posa a tre strati è la pratica riconosciuta per limitarli. In pratica, **la sola schiuma non basta più** per una casa nZEB.
 
 ## Domande frequenti
 
-### Perché l'isolamento perimetrale è più importante del profilo della finestra?
+### Perché l’isolamento perimetrale conta così tanto?
 
-Puoi montare il profilo più performante con triplo vetro e Warm Edge, ma se il giunto tra telaio e muratura non è sigillato correttamente perdi il 30-50% dell'efficienza termica. Le immagini termiche mostrano spesso strisce calde attorno ai telai — segno che l'isolamento perimetrale è stato trascurato.
+Potete installare il profilo più performante, con triplo vetro e Warm Edge, ma se il giunto tra telaio e muratura non è sigillato correttamente, buona parte delle prestazioni si perde ai bordi. Le termografie mostrano spesso strisce calde intorno ai telai, e col tempo compaiono spifferi, condensa e muffa.
 
 ### Quali sono le 3 opzioni di isolamento perimetrale delle finestre?
 
-La schiuma poliuretanica (posa standard, economica, ma si crepa in 3-5 anni e non soddisfa nZEB), il nastro precompresso (posa professionale, sigillatura durevole 20+ anni) e il controtelaio termico Blaugelb (lo standard nZEB completo, che elimina il ponte termico perimetrale).
+Solo schiuma poliuretanica (posa standard, economica, ma senza barriera al vapore), schiuma più nastri di tenuta all’interno e all’esterno (la posa RAL a tre strati) e controtelai isolanti Blaugelb Triotherm+ con nastri (la posa nZEB premium, con il ponte termico perimetrale molto ridotto).
 
-### Perché la schiuma poliuretanica non basta per lo standard nZEB?
+### Perché la schiuma poliuretanica non basta per l’nZEB?
 
-La schiuma da sola si crepa in 3-5 anni sotto UV e sbalzi termici, permette infiltrazioni d'acqua, ha scarso isolamento acustico e nessuna proprietà di barriera al vapore. Una volta crepata, lascia migrare il vapore nel muro, causando condensa e muffa — per questo non soddisfa i requisiti nZEB.
+Perché la sola schiuma non è una barriera al vapore: l’umidità della casa entra nel giunto, e la schiuma bagnata isola molto meno. All’esterno, silicone o intonaco si crepano col tempo e lasciano entrare l’acqua. Per questo la schiuma va protetta con un nastro barriera al vapore all’interno e con un nastro precompresso all’esterno.
 
-### Cosa richiede lo standard nZEB per la posa delle finestre in Romania?
+### Cosa chiede la legge per la posa delle finestre in Romania?
 
-Lo nZEB, obbligatorio per nuove costruzioni dal 2021 e ristrutturazioni importanti, richiede la sigillatura in tre zone: interna (barriera al vapore), mediana (isolamento termico e acustico) ed esterna (protezione da acqua e vento). Il nastro precompresso o un controtelaio termico fornisce questi strati.
+La Legge 372/2005 e la Mc 001-2022 richiedono il livello nZEB negli edifici nuovi e requisiti minimi nelle ristrutturazioni importanti, con Uw ≤ 1,11 W/(m²K) per le case nuove. La legge non impone un nastro specifico, ma i ponti termici sul perimetro entrano nel calcolo energetico, e la posa a tre strati è il modo riconosciuto per limitarli.
 
+### Quanto costa la posa nZEB con controtelai Blaugelb?
+
+La posa nZEB completa, con controtelai Blaugelb Triotherm+ e nastri di tenuta, aggiunge 25-50 EUR al metro lineare di perimetro per gli infissi in PVC e 30-60 EUR/ml per l’alluminio, IVA esclusa. Per una finestra di 100 × 120 cm, il perimetro è di 4,4 m.
 
 ---
 
-Neofort BIZ esegue pose su tre piani di tenuta, con controtelai isolanti Blaugelb, a Bucarest e nell’Ilfov. [Inviateci le misure del vano](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite i [sistemi nZEB completi](/it/sistemi-nzeb). Pagine utili: [il nastro butilico precompresso](/it/sistemi-nzeb/nastro-precompresso-butilico) e [il nastro barriera al vapore interno](/it/sistemi-nzeb/nastro-tenuta-barriera-vapore-interno).
-`,
+Neofort BIZ esegue pose con tenuta a tre strati, con nastri Soudal e controtelai isolanti Blaugelb Triotherm+, a Bucarest e Ilfov. [Inviateci i dettagli del vano](/it/contatti) e ricevete un preventivo entro 48 ore. Scoprite i [sistemi nZEB completi](/it/sistemi-nzeb) che offriamo. Pagine utili: [il nastro precompresso butilico](/it/sistemi-nzeb/nastro-precompresso-butilico) e [il nastro barriera al vapore interno](/it/sistemi-nzeb/nastro-tenuta-barriera-vapore-interno).`,
     },
   },
 
@@ -34596,12 +34641,12 @@ Neofort BIZ installa tapparelle esterne motorizzate Somfy a Bucarest e Ilfov, co
     readTime: { ro:'6 min', en:'6 min', de:'6 Min', fr:'6 min', es:'6 min', it:'6 min' },
     category: { ro:'Automatizare & Smart Home', en:'Automation & Smart Home', de:'Automatisierung & Smart Home', fr:'Automatisation & Maison Connectée', es:'Automatización & Smart Home', it:'Automazione & Casa Intelligente' },
     title: {
-      ro: 'Automatizare Somfy pentru pergole și copertine — motoare Pergola RGS io, Sunea io și protecție automată la vânt 2026',
-      en: 'Somfy automation for pergolas and awnings — Pergola RGS io, Sunea io motors and automatic wind protection 2026',
-      de: 'Somfy Automatisierung für Pergolen und Markisen — Pergola RGS io, Sunea io Motoren und automatischer Windschutz 2026',
-      fr: 'Automatisation Somfy pour pergolas et stores — moteurs Pergola RGS io, Sunea io et protection automatique au vent 2026',
-      es: 'Automatización Somfy para pérgolas y toldos — motores Pergola RGS io, Sunea io y protección automática contra el viento 2026',
-      it: 'Automazione Somfy per pergole e tende da sole — motori Pergola RGS io, Sunea io e protezione automatica dal vento 2026',
+      ro: 'Automatizare Somfy pentru pergole și copertine',
+      en: 'Somfy automation for pergolas and awnings: motors, sensors',
+      de: 'Somfy-Automatisierung für Pergolen und Markisen',
+      fr: 'Automatisation Somfy pour pergolas et stores bannes',
+      es: 'Automatización Somfy para pérgolas y toldos',
+      it: 'Automazione Somfy per pergole e tende da sole',
     },
     metaDesc: {
       ro: "Automatizare Somfy pentru pergole și copertine: motoarele Pergola RGS io și Sunea io, senzorii de vânt și protecția automată la rafale.",
@@ -34612,256 +34657,398 @@ Neofort BIZ installa tapparelle esterne motorizzate Somfy a Bucarest e Ilfov, co
       it: "Automazione Somfy per pergole e tende: motori Pergola RGS io e Sunea io, sensori di vento e chiusura automatica in caso di raffiche.",
     },
     excerpt: {
-      ro: 'Pergola sau copertina motoricată cu Somfy se deschide și închide automat în funcție de vânt, ploaie și lumină. Motoarele Pergola RGS io și Sunea io au protecție automată la vânt și se integrează nativ în TaHoma Smart Home.',
-      en: 'A Somfy motorised pergola or awning opens and closes automatically based on wind, rain and light. Pergola RGS io and Sunea io motors have automatic wind protection and integrate natively into TaHoma Smart Home.',
-      de: 'Eine motorisierte Somfy Pergola oder Markise öffnet und schließt automatisch je nach Wind, Regen und Licht. Pergola RGS io und Sunea io Motoren haben automatischen Windschutz und integrieren sich nativ in TaHoma Smart Home.',
-      fr: 'Une pergola ou un store motorisé Somfy s\'ouvre et se ferme automatiquement en fonction du vent, de la pluie et de la lumière. Les moteurs Pergola RGS io et Sunea io ont une protection automatique au vent et s\'intègrent nativement dans TaHoma Smart Home.',
-      es: 'Una pérgola o toldo motorizado Somfy se abre y cierra automáticamente según el viento, la lluvia y la luz. Los motores Pergola RGS io y Sunea io tienen protección automática al viento y se integran de forma nativa en TaHoma Smart Home.',
-      it: 'Una pergola o tenda motorizzata Somfy si apre e chiude automaticamente in base a vento, pioggia e luce. I motori Pergola RGS io e Sunea io hanno protezione automatica dal vento e si integrano nativamente in TaHoma Smart Home.',
+      ro: 'O pergolă cu pânză sau o copertină motorizată cu Somfy se strânge singură la vânt puternic și se deschide sau se închide după soare. Motoarele Pergola RGS io și Sunea io, senzorii Eolis 3D (vânt) și Sunis (soare), integrarea TaHoma și prețurile pentru București în 2026.',
+      en: 'A fabric pergola or awning motorised by Somfy retracts by itself in strong wind and opens or closes according to the sun. Pergola RGS io and Sunea io motors, Eolis 3D (wind) and Sunis (sun) sensors, TaHoma integration and prices for Bucharest in 2026.',
+      de: 'Eine Tuchpergola oder Markise mit Somfy-Antrieb fährt bei starkem Wind selbst ein und öffnet oder schließt sich je nach Sonne. Motoren Pergola RGS io und Sunea io, Sensoren Eolis 3D (Wind) und Sunis (Sonne), TaHoma-Anbindung und Preise für Bukarest 2026.',
+      fr: 'Une pergola à toile ou un store banne motorisé par Somfy se replie seul par vent fort et s’ouvre ou se ferme selon le soleil. Moteurs Pergola RGS io et Sunea io, capteurs Eolis 3D (vent) et Sunis (soleil), intégration TaHoma et prix pour Bucarest en 2026.',
+      es: 'Una pérgola de lona o un toldo motorizado con Somfy se recoge solo con viento fuerte y se abre o se cierra según el sol. Motores Pergola RGS io y Sunea io, sensores Eolis 3D (viento) y Sunis (sol), integración TaHoma y precios para Bucarest en 2026.',
+      it: 'Una pergola con telo o una tenda da sole motorizzata Somfy si ritira da sola con vento forte e si apre o si chiude in base al sole. Motori Pergola RGS io e Sunea io, sensori Eolis 3D (vento) e Sunis (sole), integrazione TaHoma e prezzi per Bucarest nel 2026.',
     },
     content: {
       ro: `## De ce automatizezi pergola sau copertina?
 
-O pergolă sau copertină manuală necesită intervenție constantă. Automatizarea Somfy elimină complet această rutină: motoarele Pergola RGS io sau Sunea io asigură reacția automată la vânt, ploaie și lumină, programarea prin TaHoma și controlul vocal prin Alexa sau Google Home.
+O pergolă cu pânză sau o copertină manuală cere intervenție constantă: o deschizi dimineața, o strângi când vine furtuna, uiți de ea când pleci de acasă. Automatizarea Somfy rezolvă asta. Motoarele Pergola RGS io și Sunea io, împreună cu senzorii de vânt și de soare, fac ca pânza să se strângă singură la vânt puternic și să se întindă când soarele bate prea tare. Totul se programează din TaHoma și se poate comanda vocal prin Alexa sau Google Home.
+
+Cel mai important câștig e protecția: o pânză lăsată întinsă la o rafală puternică se poate rupe sau poate deforma structura. Senzorul de vânt o strânge înainte să se întâmple asta, chiar dacă nu ești acasă.
 
 ## Motoare Somfy pentru pergole — Pergola 50 RGS io și 60 RGS io
 
-Seria Pergola RGS io este dedicată pergolelor ghidate pe șine. Motorul Pergola 50 RGS io acoperă deschideri până la 4 m, iar 60 RGS io până la 5 m. Ambele modele includ protecție automată la vânt — la rafale care depășesc un prag prestabilit, motorul retrage automat pânza pergolei.
+Seria Pergola RGS io este dedicată pergolelor cu pânză ghidată pe șine. Motorul Pergola 50 RGS io acoperă deschideri de până la 4 m, iar 60 RGS io deschideri de până la 5 m. Pe pergolele pe care le montăm, sistemul ajunge la 5 m lățime și 4 m proiecție.
+
+Motorul nu „simte” singur vântul: protecția automată vine de la senzorul de vânt Eolis, care îi trimite comanda de strângere prin protocolul io-homecontrol.
 
 ## Motoare Somfy pentru copertine — Sunea 40 io și 50 io
 
-Seria Sunea io este soluția dedicată copertinelor retractabile cu braț articulat. Senzorul de lumină solar integrat permite funcționarea autonomă fără cabluri electrice — ideal pentru copertine de balcon sau terase.
+Seria Sunea io este dedicată copertinelor retractabile cu braț articulat, pentru balcoane și terase. Motorul se montează în axul copertinei, funcționează la 230 V și comunică prin io-homecontrol, deci lucrează cu aceiași senzori și cu aceeași aplicație TaHoma ca pergola și rulourile.
 
-## Protecție automată la vânt și ploaie
+## Senzorii Somfy — vânt și soare
 
-Senzorul Sunis Wirefree II io monitorizează intensitatea luminii, temperatura și viteza vântului. Când rafale depășesc 50 km/h, copertinele și pergolele Somfy se retrag automat, prevenind daunele structurale.
+- **Eolis 3D WireFree io** — senzorul de vânt pentru pergole și copertine. Se prinde pe bara de capăt a pânzei, funcționează pe baterie și detectează vibrațiile produse de vânt. La rafale peste pragul setat (de exemplu 50 km/h), pânza se strânge automat.
+- **Eolis WireFree io** — senzorul de vânt cu anemometru, cu trei praguri de sensibilitate, pentru mai multe produse Somfy deodată.
+- **Sunis io** — senzorul de soare: întinde pânza sau copertina când lumina depășește pragul setat și o strânge când se înnorează.
+
+Senzorul de vânt are mereu prioritate: cât timp bate vântul, pânza nu se deschide, nici din telecomandă, nici din scenariile TaHoma.
+
+## Scenarii practice cu TaHoma
+
+Prin TaHoma Switch poți combina motoarele și senzorii în scenarii automate:
+- pânza se întinde la prânz, când soarele bate pe terasă, și se strânge seara;
+- la plecarea de acasă, totul se strânge cu o singură comandă;
+- la rafale de vânt, pergola și copertinele se strâng automat, oricare ar fi scenariul activ.
+
+Pentru rulourile din casă, detaliile sunt în [ghidul motoarelor Somfy pentru rulouri](/ro/blog/somfy-rulouri-motoare-exterioare).
 
 ## Prețuri automatizare pergolă Somfy în București 2026
 
-Motorul Somfy pentru pergolă pornește de la **350 EUR montat** (Pergola 50 RGS io, inclusiv manoperă și configurare TaHoma). Senzorul de vânt/lumină Sunis io de la 80 EUR.
+Motorul Somfy pentru pergolă pornește de la **350 EUR montat** (Pergola 50 RGS io, inclusiv manopera și configurarea TaHoma). Senzorul de vânt Eolis pornește de la 80 EUR. O pergolă automată Somfy completă de 4 × 3 m costă circa 6.000 EUR cu montaj. Toate prețurile sunt orientative, fără TVA.
 
-[Solicitați ofertă automatizare Somfy pergole și rulouri](/ro/accesorii/automatizari-somfy-rulouri-pergole)
+- [Solicită ofertă pentru automatizare Somfy la pergole și rulouri](/ro/accesorii/automatizari-somfy-rulouri-pergole)
 
 ## Întrebări frecvente
 
 ### De ce să automatizez pergola sau copertina cu Somfy?
 
-O pergolă sau copertină manuală necesită intervenție constantă. Automatizarea Somfy elimină rutina: motoarele Pergola RGS io sau Sunea io asigură reacția automată la vânt, ploaie și lumină, programarea prin TaHoma și controlul vocal prin Alexa sau Google Home.
+Pentru confort și pentru protecție. Motoarele Pergola RGS io sau Sunea io, împreună cu senzorii de vânt și de soare, strâng pânza singure la vânt puternic și o întind când soarele bate prea tare. Totul se programează din TaHoma și se comandă și vocal, prin Alexa sau Google Home.
 
 ### Ce motoare Somfy se folosesc pentru pergole?
 
-Seria Pergola RGS io e dedicată pergolelor ghidate pe șine: Pergola 50 RGS io acoperă deschideri până la 4 m, iar 60 RGS io până la 5 m. Ambele includ protecție automată la vânt — la rafale care depășesc un prag prestabilit, motorul retrage automat pânza pergolei.
+Seria Pergola RGS io, pentru pergolele cu pânză ghidată pe șine: Pergola 50 RGS io acoperă deschideri de până la 4 m, iar 60 RGS io de până la 5 m. Protecția automată la vânt vine de la senzorul Eolis, care trimite motorului comanda de strângere.
 
-### Cum protejează automat senzorul Somfy copertinele la vânt?
+### Cum protejează automat senzorul Somfy pergola și copertina la vânt?
 
-Senzorul Sunis Wirefree II io monitorizează intensitatea luminii, temperatura și viteza vântului. Când rafalele depășesc 50 km/h, copertinele și pergolele Somfy se retrag automat, prevenind daunele structurale. Funcționează fără fir, ideal pentru montaj rapid.
+Senzorul Eolis 3D WireFree io se prinde pe bara pânzei și detectează vibrațiile produse de vânt. La rafale peste pragul setat, de exemplu 50 km/h, pânza se strânge automat și nu se mai poate deschide până nu se calmează vântul. Funcționează pe baterie, fără cabluri.
+
+### Ce face senzorul Sunis io?
+
+Sunis io este senzorul de soare Somfy. Întinde pânza pergolei sau copertina când lumina depășește pragul setat și o strânge când se înnorează. Nu măsoară vântul: pentru vânt se folosește senzorul Eolis.
 
 ### Cât costă automatizarea unei pergole Somfy în București în 2026?
 
-Motorul Somfy pentru pergolă pornește de la 350 EUR montat (Pergola 50 RGS io, inclusiv manoperă și configurare TaHoma). Senzorul de vânt și lumină Sunis io pornește de la 80 EUR. Prețurile sunt orientative pentru București 2026.
+Motorul Somfy pentru pergolă pornește de la 350 EUR montat (Pergola 50 RGS io, cu manoperă și configurarea TaHoma), iar senzorul de vânt Eolis de la 80 EUR. O pergolă automată completă de 4 × 3 m costă circa 6.000 EUR cu montaj. Prețurile sunt orientative, fără TVA.
 
 ---
 
-Neofort BIZ montează și automatizează pergole bioclimatice și copertine cu motoare Somfy în București și Ilfov. Descoperă [soluțiile de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Compară toate opțiunile în [comparația completă a sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet). Pagini utile: [pergolele automate Somfy](/ro/umbrire/pergole-automate-somfy) și [automatizările Somfy pentru rulouri și pergole](/ro/accesorii/automatizari-somfy-rulouri-pergole).`,
+Neofort BIZ montează și automatizează pergole cu pânză și copertine cu motoare Somfy în București și Ilfov. Descoperă [soluțiile de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Compară toate opțiunile în [comparația completă a sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet) și în [comparația pergolă bioclimatică vs clasică](/ro/blog/pergola-bioclimatica-vs-clasica-ghid-alegere). Pagini utile: [pergolele automate Somfy](/ro/umbrire/pergole-automate-somfy) și [automatizările Somfy pentru rulouri și pergole](/ro/accesorii/automatizari-somfy-rulouri-pergole).`,
       en: `## Why automate your pergola or awning?
 
-A manual pergola or awning requires constant intervention. Somfy automation with Pergola RGS io and Sunea io motors reacts automatically to wind, rain and light, integrating with TaHoma and Alexa/Google Home.
+A manual fabric pergola or awning needs constant attention: you open it in the morning, retract it when a storm comes, forget about it when you leave home. Somfy automation takes care of that. Pergola RGS io and Sunea io motors, together with wind and sun sensors, make the fabric retract by itself in strong wind and extend when the sun gets too strong. Everything is programmed in TaHoma and can be voice-controlled through Alexa or Google Home.
+
+The biggest gain is protection: fabric left extended in a strong gust can tear or deform the structure. The wind sensor retracts it before that happens, even when you are not at home.
 
 ## Somfy motors for pergolas — Pergola 50 RGS io and 60 RGS io
 
-The Pergola RGS io range is dedicated to rail-guided pergolas. The Pergola 50 RGS io covers openings up to 4 m, 60 RGS io up to 5 m. Both models include automatic wind protection.
+The Pergola RGS io range is designed for pergolas with fabric guided on rails. The Pergola 50 RGS io motor covers openings of up to 4 m, and the 60 RGS io openings of up to 5 m. On the pergolas we install, the system reaches 5 m in width and 4 m in projection.
+
+The motor does not “feel” the wind on its own: automatic protection comes from the Eolis wind sensor, which sends it the retract command through the io-homecontrol protocol.
 
 ## Somfy motors for awnings — Sunea 40 io and 50 io
 
-The Sunea io range is dedicated to retractable articulated arm awnings. The integrated solar light sensor allows autonomous operation without electrical cables.
+The Sunea io range is designed for retractable folding-arm awnings, for balconies and terraces. The motor fits inside the awning tube, runs on 230 V and communicates through io-homecontrol, so it works with the same sensors and the same TaHoma app as the pergola and the roller shutters.
 
-## Automatic wind and rain protection
+## Somfy sensors — wind and sun
 
-The Sunis Wirefree II io sensor monitors light, temperature and wind speed. When gusts exceed 50 km/h, Somfy awnings and pergolas retract automatically.
+- **Eolis 3D WireFree io** — the wind sensor for pergolas and awnings. It clips onto the front bar of the fabric, runs on a battery and detects the vibrations caused by wind. In gusts above the set threshold (for example 50 km/h), the fabric retracts automatically.
+- **Eolis WireFree io** — the anemometer wind sensor, with three sensitivity thresholds, for several Somfy products at once.
+- **Sunis io** — the sun sensor: extends the fabric or the awning when the light goes above the set threshold and retracts it when it clouds over.
 
-## Pergola motor prices in Bucharest 2026
+The wind sensor always has priority: while the wind is blowing, the fabric does not open, either from the remote or from TaHoma scenarios.
 
-A Somfy pergola motor starts from **350 EUR installed**. Sunis io sensor from 80 EUR.
+## Practical scenarios with TaHoma
 
-[Request Somfy pergola automation quote](/en/accessories/somfy-automation-shutters-pergolas)
+With TaHoma Switch you can combine the motors and sensors into automatic scenarios:
+- the fabric extends at midday, when the sun hits the terrace, and retracts in the evening;
+- when you leave home, everything retracts with a single command;
+- in gusts of wind, the pergola and the awnings retract automatically, whatever scenario is running.
+
+For the shutters inside the house, the details are in the [guide to Somfy shutter motors](/en/blog/somfy-shutter-motors).
+
+## Somfy pergola automation prices in Bucharest 2026
+
+A Somfy pergola motor starts at **350 EUR installed** (Pergola 50 RGS io, including labour and TaHoma setup). The Eolis wind sensor starts at 80 EUR. A complete 4 × 3 m Somfy automatic pergola costs about 6,000 EUR with installation. All prices are indicative, excluding VAT.
+
+- [Request a quote for Somfy automation for pergolas and shutters](/en/accessories/somfy-automation-shutters-pergolas)
 
 ## Frequently Asked Questions
 
 ### Why automate a pergola or awning with Somfy?
 
-A manual pergola or awning requires constant intervention. Somfy automation eliminates the routine: Pergola RGS io or Sunea io motors provide automatic reaction to wind, rain and light, programming via TaHoma and voice control through Alexa or Google Home.
+For comfort and for protection. Pergola RGS io or Sunea io motors, together with wind and sun sensors, retract the fabric by themselves in strong wind and extend it when the sun gets too strong. Everything is programmed in TaHoma and can also be voice-controlled, through Alexa or Google Home.
 
 ### Which Somfy motors are used for pergolas?
 
-The Pergola RGS io series is dedicated to rail-guided pergolas: Pergola 50 RGS io covers openings up to 4 m, and 60 RGS io up to 5 m. Both include automatic wind protection — when gusts exceed a preset threshold, the motor automatically retracts the pergola fabric.
+The Pergola RGS io range, for pergolas with fabric guided on rails: Pergola 50 RGS io covers openings of up to 4 m, and 60 RGS io of up to 5 m. Automatic wind protection comes from the Eolis sensor, which sends the motor the retract command.
 
-### How does the Somfy sensor automatically protect awnings from wind?
+### How does the Somfy sensor protect the pergola and awning from wind automatically?
 
-The Sunis Wirefree II io sensor monitors light intensity, temperature and wind speed. When gusts exceed 50 km/h, Somfy awnings and pergolas retract automatically, preventing structural damage. It is wireless, ideal for quick installation.
+The Eolis 3D WireFree io sensor clips onto the fabric bar and detects the vibrations caused by wind. In gusts above the set threshold, for example 50 km/h, the fabric retracts automatically and cannot be opened again until the wind calms down. It runs on a battery, with no cables.
+
+### What does the Sunis io sensor do?
+
+Sunis io is Somfy’s sun sensor. It extends the pergola fabric or the awning when the light goes above the set threshold and retracts it when it clouds over. It does not measure wind: for wind, the Eolis sensor is used.
 
 ### How much does automating a Somfy pergola cost in Bucharest in 2026?
 
-The Somfy pergola motor starts at 350 EUR fitted (Pergola 50 RGS io, including labour and TaHoma configuration). The Sunis io wind and light sensor starts at 80 EUR. Prices are indicative for Bucharest 2026.
+A Somfy pergola motor starts at 350 EUR installed (Pergola 50 RGS io, with labour and TaHoma setup), and the Eolis wind sensor at 80 EUR. A complete 4 × 3 m automatic pergola costs about 6,000 EUR with installation. Prices are indicative, excluding VAT.
 
 ---
 
-Neofort BIZ installs and automates bioclimatic pergolas and awnings with Somfy motors in Bucharest and Ilfov. Discover [the shading solutions](/en/shading-systems) we offer or [request a quote](/en/contact). Compare all options in [the full comparison of exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide). Useful pages: [Somfy automatic pergolas](/en/shading-systems/somfy-automatic-pergolas) and [Somfy automation for shutters and pergolas](/en/accessories/somfy-automation-shutters-pergolas).`,
+Neofort BIZ installs and automates fabric pergolas and awnings with Somfy motors in Bucharest and Ilfov. Discover the [shading solutions](/en/shading-systems) we offer or [request a quote](/en/contact). Compare all the options in the [complete comparison of exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide) and in the [bioclimatic vs classic pergola comparison](/en/blog/bioclimatic-vs-classic-pergola-guide). Useful pages: [Somfy automatic pergolas](/en/shading-systems/somfy-automatic-pergolas) and [Somfy automation for shutters and pergolas](/en/accessories/somfy-automation-shutters-pergolas).`,
       de: `## Warum Pergola oder Markise automatisieren?
 
-Eine manuelle Pergola erfordert ständige Eingriffe. Somfy-Automatisierung mit Pergola RGS io und Sunea io reagiert automatisch auf Wind, Regen und Licht.
+Eine manuelle Tuchpergola oder Markise will ständig bedient werden: morgens ausfahren, beim Unwetter einfahren, beim Verlassen des Hauses vergessen. Die Somfy-Automatisierung nimmt Ihnen das ab. Die Motoren Pergola RGS io und Sunea io fahren das Tuch zusammen mit Wind- und Sonnensensoren bei starkem Wind selbst ein und bei zu starker Sonne aus. Alles wird in TaHoma programmiert und lässt sich per Sprache über Alexa oder Google Home steuern.
 
-## Somfy Pergola-Motoren — Pergola 50 RGS io und 60 RGS io
+Der größte Gewinn ist der Schutz: Ein bei starker Böe ausgefahrenes Tuch kann reißen oder die Konstruktion verformen. Der Windsensor fährt es vorher ein, auch wenn Sie nicht zu Hause sind.
 
-Der Pergola 50 RGS io deckt Öffnungen bis 4 m ab, 60 RGS io bis 5 m. Beide Modelle haben automatischen Windschutz.
+## Somfy-Motoren für Pergolen — Pergola 50 RGS io und 60 RGS io
 
-## Automatischer Windschutz
+Die Baureihe Pergola RGS io ist für Pergolen mit schienengeführtem Tuch gedacht. Der Motor Pergola 50 RGS io deckt Öffnungen bis 4 m ab, der 60 RGS io Öffnungen bis 5 m. Bei den Pergolen, die wir montieren, erreicht das System 5 m Breite und 4 m Ausladung.
 
-Der Sunis Wirefree II io Sensor überwacht Licht, Temperatur und Windgeschwindigkeit. Bei Böen über 50 km/h fahren Somfy-Markisen automatisch ein.
+Der Motor „spürt“ den Wind nicht selbst: Der automatische Schutz kommt vom Windsensor Eolis, der ihm über das Protokoll io-homecontrol den Befehl zum Einfahren schickt.
 
-## Pergola Motor Preise Bukarest 2026
+## Somfy-Motoren für Markisen — Sunea 40 io und 50 io
 
-Somfy Pergola-Motor ab **350 EUR montiert**. Sunis io Sensor ab 80 EUR.
+Die Baureihe Sunea io ist für Gelenkarmmarkisen auf Balkonen und Terrassen gedacht. Der Motor sitzt in der Markisenwelle, läuft mit 230 V und kommuniziert über io-homecontrol, arbeitet also mit denselben Sensoren und derselben TaHoma-App wie Pergola und Rollläden.
 
-[Somfy Pergola-Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
+## Somfy-Sensoren — Wind und Sonne
+
+- **Eolis 3D WireFree io** — der Windsensor für Pergolen und Markisen. Er wird an der Ausfallstange des Tuchs befestigt, arbeitet mit Batterie und erkennt die Schwingungen, die der Wind verursacht. Bei Böen über dem eingestellten Wert (zum Beispiel 50 km/h) fährt das Tuch automatisch ein.
+- **Eolis WireFree io** — der Windsensor mit Anemometer und drei Empfindlichkeitsstufen, für mehrere Somfy-Produkte gleichzeitig.
+- **Sunis io** — der Sonnensensor: fährt Tuch oder Markise aus, wenn das Licht den eingestellten Wert überschreitet, und ein, wenn es sich bewölkt.
+
+Der Windsensor hat immer Vorrang: Solange der Wind weht, öffnet sich das Tuch nicht, weder per Fernbedienung noch über TaHoma-Szenarien.
+
+## Praktische Szenarien mit TaHoma
+
+Mit TaHoma Switch kombinieren Sie Motoren und Sensoren zu automatischen Szenarien:
+- das Tuch fährt mittags aus, wenn die Sonne auf die Terrasse scheint, und abends ein;
+- beim Verlassen des Hauses fährt alles mit einem einzigen Befehl ein;
+- bei Windböen fahren Pergola und Markisen automatisch ein, egal welches Szenario gerade läuft.
+
+Für die Rollläden im Haus finden Sie die Details im [Ratgeber zu Somfy-Rollladenmotoren](/de/blog/somfy-rolllaeden-motoren).
+
+## Preise für die Somfy-Pergola-Automatisierung in Bukarest 2026
+
+Ein Somfy-Pergolamotor kostet ab **350 EUR montiert** (Pergola 50 RGS io, inklusive Arbeit und TaHoma-Einrichtung). Der Windsensor Eolis kostet ab 80 EUR. Eine komplette automatische Somfy-Pergola von 4 × 3 m kostet etwa 6.000 EUR mit Montage. Alle Preise sind Richtwerte, ohne MwSt.
+
+- [Angebot für Somfy-Automatisierung von Pergolen und Rollläden anfordern](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
 
 ## Häufig gestellte Fragen
 
-### Warum eine Pergola oder Markise mit Somfy automatisieren?
+### Warum Pergola oder Markise mit Somfy automatisieren?
 
-Eine manuelle Pergola oder Markise erfordert ständiges Eingreifen. Die Somfy-Automatisierung beseitigt die Routine: Pergola RGS io oder Sunea io Motoren bieten automatische Reaktion auf Wind, Regen und Licht, Programmierung über TaHoma und Sprachsteuerung über Alexa oder Google Home.
+Für Komfort und Schutz. Die Motoren Pergola RGS io oder Sunea io fahren das Tuch zusammen mit Wind- und Sonnensensoren bei starkem Wind selbst ein und bei zu starker Sonne aus. Alles wird in TaHoma programmiert und lässt sich auch per Sprache über Alexa oder Google Home steuern.
 
 ### Welche Somfy-Motoren werden für Pergolen verwendet?
 
-Die Pergola RGS io Serie ist für schienengeführte Pergolen bestimmt: Pergola 50 RGS io deckt Öffnungen bis 4 m, und 60 RGS io bis 5 m. Beide enthalten automatischen Windschutz — wenn Böen einen voreingestellten Schwellenwert überschreiten, fährt der Motor das Pergolatuch automatisch ein.
+Die Baureihe Pergola RGS io für Pergolen mit schienengeführtem Tuch: Pergola 50 RGS io deckt Öffnungen bis 4 m ab, 60 RGS io bis 5 m. Der automatische Windschutz kommt vom Sensor Eolis, der dem Motor den Befehl zum Einfahren schickt.
 
-### Wie schützt der Somfy-Sensor Markisen automatisch vor Wind?
+### Wie schützt der Somfy-Sensor Pergola und Markise automatisch vor Wind?
 
-Der Sunis Wirefree II io Sensor überwacht Lichtintensität, Temperatur und Windgeschwindigkeit. Wenn Böen 50 km/h überschreiten, fahren Somfy-Markisen und -Pergolen automatisch ein und verhindern strukturelle Schäden. Er ist kabellos, ideal für schnelle Montage.
+Der Sensor Eolis 3D WireFree io wird an der Tuchstange befestigt und erkennt die Schwingungen, die der Wind verursacht. Bei Böen über dem eingestellten Wert, zum Beispiel 50 km/h, fährt das Tuch automatisch ein und lässt sich erst wieder öffnen, wenn der Wind nachlässt. Er arbeitet mit Batterie, ohne Kabel.
+
+### Was macht der Sensor Sunis io?
+
+Sunis io ist der Sonnensensor von Somfy. Er fährt das Pergolatuch oder die Markise aus, wenn das Licht den eingestellten Wert überschreitet, und ein, wenn es sich bewölkt. Wind misst er nicht: Dafür wird der Sensor Eolis verwendet.
 
 ### Was kostet die Automatisierung einer Somfy-Pergola in Bukarest 2026?
 
-Der Somfy-Pergolamotor beginnt bei 350 EUR montiert (Pergola 50 RGS io, inklusive Arbeit und TaHoma-Konfiguration). Der Sunis io Wind- und Lichtsensor beginnt bei 80 EUR. Die Preise sind Richtwerte für Bukarest 2026.
+Ein Somfy-Pergolamotor kostet ab 350 EUR montiert (Pergola 50 RGS io, mit Arbeit und TaHoma-Einrichtung), der Windsensor Eolis ab 80 EUR. Eine komplette automatische Pergola von 4 × 3 m kostet etwa 6.000 EUR mit Montage. Die Preise sind Richtwerte, ohne MwSt.
 
 ---
 
-Neofort BIZ montiert und automatisiert bioklimatische Pergolen und Markisen mit Somfy-Motoren in Bukarest und Ilfov. Entdecken Sie [die Beschattungslösungen](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Vergleichen Sie alle Optionen in [den vollständigen Vergleich der Außenbeschattungssysteme](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden). Nützliche Seiten: [Somfy-Pergolen](/de/beschattungssysteme/somfy-automatische-pergolen) und [Somfy-Automatisierung für Rollläden und Pergolen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen).`,
-      fr: `## Pourquoi automatiser sa pergola ou son store ?
+Neofort BIZ montiert und automatisiert Tuchpergolen und Markisen mit Somfy-Motoren in Bukarest und Ilfov. Entdecken Sie die [Beschattungslösungen](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Vergleichen Sie alle Optionen im [vollständigen Vergleich der Außenbeschattungssysteme](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden) und im [Vergleich bioklimatische vs. klassische Pergola](/de/blog/bioklimatische-vs-klassische-pergola-ratgeber). Nützliche Seiten: [automatische Somfy-Pergolen](/de/beschattungssysteme/somfy-automatische-pergolen) und [Somfy-Automatisierung für Rollläden und Pergolen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen).`,
+      fr: `## Pourquoi automatiser votre pergola ou votre store banne ?
 
-Une pergola manuelle nécessite une intervention constante. L'automatisation Somfy avec Pergola RGS io et Sunea io réagit automatiquement au vent, à la pluie et à la lumière.
+Une pergola à toile ou un store banne manuel demande une attention constante : on l’ouvre le matin, on le replie quand l’orage arrive, on l’oublie en quittant la maison. L’automatisation Somfy s’en charge. Les moteurs Pergola RGS io et Sunea io, associés aux capteurs de vent et de soleil, replient la toile d’eux-mêmes par vent fort et la déploient quand le soleil tape trop. Tout se programme dans TaHoma et se commande à la voix avec Alexa ou Google Home.
 
-## Moteurs Somfy pergola — Pergola 50 RGS io et 60 RGS io
+Le principal gain, c’est la protection : une toile laissée déployée lors d’une forte rafale peut se déchirer ou déformer la structure. Le capteur de vent la replie avant, même si vous n’êtes pas chez vous.
 
-Le Pergola 50 RGS io couvre des ouvertures jusqu'à 4 m, le 60 RGS io jusqu'à 5 m. Les deux modèles incluent une protection automatique au vent.
+## Moteurs Somfy pour pergolas — Pergola 50 RGS io et 60 RGS io
 
-## Protection automatique vent et pluie
+La gamme Pergola RGS io est conçue pour les pergolas à toile guidée sur rails. Le moteur Pergola 50 RGS io couvre des ouvertures jusqu’à 4 m, et le 60 RGS io jusqu’à 5 m. Sur les pergolas que nous posons, le système atteint 5 m de large et 4 m d’avancée.
 
-Le capteur Sunis Wirefree II io surveille lumière, température et vent. Quand les rafales dépassent 50 km/h, les stores Somfy se rétractent automatiquement.
+Le moteur ne « sent » pas le vent tout seul : la protection automatique vient du capteur de vent Eolis, qui lui envoie l’ordre de repli par le protocole io-homecontrol.
 
-## Prix moteur pergola Somfy Bucarest 2026
+## Moteurs Somfy pour stores bannes — Sunea 40 io et 50 io
 
-Moteur Somfy pergola à partir de **350 EUR posé**. Capteur Sunis io à partir de 80 EUR.
+La gamme Sunea io est conçue pour les stores bannes à bras articulés, sur balcons et terrasses. Le moteur se loge dans l’axe du store, fonctionne en 230 V et communique par io-homecontrol : il travaille donc avec les mêmes capteurs et la même application TaHoma que la pergola et les volets roulants.
 
-[Demander un devis automatisation Somfy pergola](/fr/accessoires/automatisation-somfy-volets-pergolas)
+## Les capteurs Somfy — vent et soleil
+
+- **Eolis 3D WireFree io** — le capteur de vent pour pergolas et stores bannes. Il se fixe sur la barre de charge de la toile, fonctionne sur pile et détecte les vibrations dues au vent. En cas de rafales au-delà du seuil réglé (par exemple 50 km/h), la toile se replie automatiquement.
+- **Eolis WireFree io** — le capteur de vent à anémomètre, à trois seuils de sensibilité, pour plusieurs produits Somfy à la fois.
+- **Sunis io** — le capteur de soleil : déploie la toile ou le store quand la luminosité dépasse le seuil réglé et le replie quand le ciel se couvre.
+
+Le capteur de vent est toujours prioritaire : tant que le vent souffle, la toile ne s’ouvre pas, ni à la télécommande ni par les scénarios TaHoma.
+
+## Scénarios pratiques avec TaHoma
+
+Avec TaHoma Switch, vous combinez moteurs et capteurs en scénarios automatiques :
+- la toile se déploie à midi, quand le soleil frappe la terrasse, et se replie le soir ;
+- en quittant la maison, tout se replie d’une seule commande ;
+- en cas de rafales, la pergola et les stores se replient automatiquement, quel que soit le scénario en cours.
+
+Pour les volets roulants de la maison, les détails sont dans le [guide des moteurs Somfy pour volets](/fr/blog/somfy-moteurs-volets).
+
+## Prix de l’automatisation d’une pergola Somfy à Bucarest en 2026
+
+Un moteur Somfy pour pergola démarre à **350 EUR posé** (Pergola 50 RGS io, main-d’œuvre et paramétrage TaHoma compris). Le capteur de vent Eolis démarre à 80 EUR. Une pergola automatique Somfy complète de 4 × 3 m coûte environ 6 000 EUR pose comprise. Tous les prix sont indicatifs, hors TVA.
+
+- [Demandez un devis pour l’automatisation Somfy de pergolas et de volets](/fr/accessoires/automatisation-somfy-volets-pergolas)
 
 ## Questions fréquentes
 
-### Pourquoi automatiser une pergola ou un store avec Somfy ?
+### Pourquoi automatiser une pergola ou un store banne avec Somfy ?
 
-Une pergola ou un store manuel nécessite une intervention constante. L'automatisation Somfy élimine la routine : les moteurs Pergola RGS io ou Sunea io assurent la réaction automatique au vent, à la pluie et à la lumière, la programmation via TaHoma et le contrôle vocal par Alexa ou Google Home.
+Pour le confort et pour la protection. Les moteurs Pergola RGS io ou Sunea io, associés aux capteurs de vent et de soleil, replient seuls la toile par vent fort et la déploient quand le soleil tape trop. Tout se programme dans TaHoma et se commande aussi à la voix, avec Alexa ou Google Home.
 
-### Quels moteurs Somfy sont utilisés pour les pergolas ?
+### Quels moteurs Somfy utilise-t-on pour les pergolas ?
 
-La série Pergola RGS io est dédiée aux pergolas guidées sur rails : Pergola 50 RGS io couvre des ouvertures jusqu'à 4 m, et 60 RGS io jusqu'à 5 m. Les deux incluent une protection automatique au vent — quand les rafales dépassent un seuil prédéfini, le moteur rétracte automatiquement la toile de la pergola.
+La gamme Pergola RGS io, pour les pergolas à toile guidée sur rails : le Pergola 50 RGS io couvre des ouvertures jusqu’à 4 m, et le 60 RGS io jusqu’à 5 m. La protection automatique au vent vient du capteur Eolis, qui envoie au moteur l’ordre de repli.
 
-### Comment le capteur Somfy protège-t-il automatiquement les stores du vent ?
+### Comment le capteur Somfy protège-t-il automatiquement la pergola et le store du vent ?
 
-Le capteur Sunis Wirefree II io surveille l'intensité lumineuse, la température et la vitesse du vent. Quand les rafales dépassent 50 km/h, les stores et pergolas Somfy se rétractent automatiquement, prévenant les dommages structurels. Il est sans fil, idéal pour une pose rapide.
+Le capteur Eolis 3D WireFree io se fixe sur la barre de la toile et détecte les vibrations dues au vent. En cas de rafales au-delà du seuil réglé, par exemple 50 km/h, la toile se replie automatiquement et ne peut plus s’ouvrir avant que le vent ne se calme. Il fonctionne sur pile, sans câble.
 
-### Combien coûte l'automatisation d'une pergola Somfy à Bucarest en 2026 ?
+### À quoi sert le capteur Sunis io ?
 
-Le moteur Somfy pour pergola démarre à 350 EUR posé (Pergola 50 RGS io, main-d'œuvre et configuration TaHoma incluses). Le capteur de vent et lumière Sunis io démarre à 80 EUR. Les prix sont indicatifs pour Bucarest 2026.
+Sunis io est le capteur de soleil de Somfy. Il déploie la toile de la pergola ou le store quand la luminosité dépasse le seuil réglé et le replie quand le ciel se couvre. Il ne mesure pas le vent : pour le vent, on utilise le capteur Eolis.
+
+### Combien coûte l’automatisation d’une pergola Somfy à Bucarest en 2026 ?
+
+Un moteur Somfy pour pergola démarre à 350 EUR posé (Pergola 50 RGS io, main-d’œuvre et paramétrage TaHoma compris), et le capteur de vent Eolis à 80 EUR. Une pergola automatique complète de 4 × 3 m coûte environ 6 000 EUR pose comprise. Les prix sont indicatifs, hors TVA.
 
 ---
 
-Neofort BIZ pose et automatise pergolas bioclimatiques et stores avec moteurs Somfy à Bucarest et Ilfov. Découvrez [les solutions d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Comparez toutes les options dans [la comparaison complète des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet). Pages utiles : [les pergolas automatiques Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy) et [l'automatisation Somfy pour volets et pergolas](/fr/accessoires/automatisation-somfy-volets-pergolas).`,
-      es: `## Por qué automatizar la pérgola o el toldo?
+Neofort BIZ pose et automatise des pergolas à toile et des stores bannes avec des moteurs Somfy à Bucarest et dans l’Ilfov. Découvrez les [solutions d’occultation](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Comparez toutes les options dans la [comparaison complète des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet) et dans la [comparaison pergola bioclimatique ou classique](/fr/blog/pergola-bioclimatique-vs-classique-guide). Pages utiles : [les pergolas automatiques Somfy](/fr/systemes-occultation/pergolas-automatiques-somfy) et [l’automatisation Somfy des volets et pergolas](/fr/accessoires/automatisation-somfy-volets-pergolas).`,
+      es: `## ¿Por qué automatizar la pérgola o el toldo?
 
-Una pérgola manual requiere intervención constante. La automatización Somfy con Pergola RGS io y Sunea io reacciona automáticamente al viento, la lluvia y la luz.
+Una pérgola de lona o un toldo manual exige atención constante: se abre por la mañana, se recoge cuando llega la tormenta y se olvida al salir de casa. La automatización Somfy se encarga de ello. Los motores Pergola RGS io y Sunea io, junto con los sensores de viento y de sol, recogen la lona solos con viento fuerte y la extienden cuando el sol aprieta demasiado. Todo se programa en TaHoma y se puede manejar por voz con Alexa o Google Home.
 
-## Motores Somfy pérgola — Pergola 50 RGS io y 60 RGS io
+La mayor ventaja es la protección: una lona extendida durante una racha fuerte se puede romper o deformar la estructura. El sensor de viento la recoge antes, aunque no esté en casa.
 
-El Pergola 50 RGS io cubre aperturas de hasta 4 m, el 60 RGS io hasta 5 m. Ambos incluyen protección automática al viento.
+## Motores Somfy para pérgolas: Pergola 50 RGS io y 60 RGS io
 
-## Protección automática viento y lluvia
+La serie Pergola RGS io está pensada para pérgolas con lona guiada sobre carriles. El motor Pergola 50 RGS io cubre aberturas de hasta 4 m, y el 60 RGS io de hasta 5 m. En las pérgolas que instalamos, el sistema llega a 5 m de ancho y 4 m de salida.
 
-El sensor Sunis Wirefree II io monitoriza luz, temperatura y viento. Cuando las ráfagas superan 50 km/h, los toldos Somfy se retraen automáticamente.
+El motor no «nota» el viento por sí mismo: la protección automática viene del sensor de viento Eolis, que le envía la orden de recogida mediante el protocolo io-homecontrol.
 
-## Precios motor pérgola Somfy Bucarest 2026
+## Motores Somfy para toldos: Sunea 40 io y 50 io
 
-Motor Somfy pérgola desde **350 EUR instalado**. Sensor Sunis io desde 80 EUR.
+La serie Sunea io está pensada para toldos de brazo articulado, en balcones y terrazas. El motor va dentro del eje del toldo, funciona a 230 V y se comunica mediante io-homecontrol, así que trabaja con los mismos sensores y la misma aplicación TaHoma que la pérgola y las persianas.
 
-[Solicitar presupuesto automatización Somfy pérgola](/es/accesorios/automatizacion-somfy-persianas-pergolas)
+## Sensores Somfy: viento y sol
+
+- **Eolis 3D WireFree io**: el sensor de viento para pérgolas y toldos. Se fija en la barra de carga de la lona, funciona con pila y detecta las vibraciones que produce el viento. Con rachas por encima del umbral fijado (por ejemplo 50 km/h), la lona se recoge automáticamente.
+- **Eolis WireFree io**: el sensor de viento con anemómetro, con tres umbrales de sensibilidad, para varios productos Somfy a la vez.
+- **Sunis io**: el sensor de sol; extiende la lona o el toldo cuando la luz supera el umbral fijado y lo recoge cuando se nubla.
+
+El sensor de viento siempre tiene prioridad: mientras sopla el viento, la lona no se abre, ni desde el mando ni desde los escenarios de TaHoma.
+
+## Escenarios prácticos con TaHoma
+
+Con TaHoma Switch puede combinar motores y sensores en escenarios automáticos:
+- la lona se extiende a mediodía, cuando el sol da en la terraza, y se recoge por la noche;
+- al salir de casa, todo se recoge con una sola orden;
+- con rachas de viento, la pérgola y los toldos se recogen solos, sea cual sea el escenario activo.
+
+Para las persianas de la casa, los detalles están en la [guía de motores Somfy para persianas](/es/blog/somfy-motores-persianas).
+
+## Precios de la automatización de una pérgola Somfy en Bucarest 2026
+
+Un motor Somfy para pérgola parte de **350 EUR instalado** (Pergola 50 RGS io, con mano de obra y configuración de TaHoma). El sensor de viento Eolis parte de 80 EUR. Una pérgola automática Somfy completa de 4 × 3 m cuesta unos 6.000 EUR con instalación. Todos los precios son orientativos, sin IVA.
+
+- [Solicite un presupuesto de automatización Somfy para pérgolas y persianas](/es/accesorios/automatizacion-somfy-persianas-pergolas)
 
 ## Preguntas frecuentes
 
-### ¿Por qué automatizar una pérgola o toldo con Somfy?
+### ¿Por qué automatizar la pérgola o el toldo con Somfy?
 
-Una pérgola o toldo manual requiere intervención constante. La automatización Somfy elimina la rutina: los motores Pergola RGS io o Sunea io aseguran la reacción automática al viento, la lluvia y la luz, la programación mediante TaHoma y el control por voz con Alexa o Google Home.
+Por comodidad y por protección. Los motores Pergola RGS io o Sunea io, junto con los sensores de viento y de sol, recogen la lona solos con viento fuerte y la extienden cuando el sol aprieta demasiado. Todo se programa en TaHoma y también se maneja por voz, con Alexa o Google Home.
 
 ### ¿Qué motores Somfy se usan para pérgolas?
 
-La serie Pergola RGS io está dedicada a pérgolas guiadas por raíles: Pergola 50 RGS io cubre aberturas de hasta 4 m, y 60 RGS io hasta 5 m. Ambas incluyen protección automática al viento — cuando las rachas superan un umbral prefijado, el motor retrae automáticamente la lona de la pérgola.
+La serie Pergola RGS io, para pérgolas con lona guiada sobre carriles: Pergola 50 RGS io cubre aberturas de hasta 4 m, y 60 RGS io de hasta 5 m. La protección automática contra el viento viene del sensor Eolis, que envía al motor la orden de recogida.
 
-### ¿Cómo protege automáticamente el sensor Somfy los toldos del viento?
+### ¿Cómo protege automáticamente el sensor Somfy la pérgola y el toldo del viento?
 
-El sensor Sunis Wirefree II io monitoriza la intensidad de luz, la temperatura y la velocidad del viento. Cuando las rachas superan los 50 km/h, los toldos y pérgolas Somfy se retraen automáticamente, previniendo daños estructurales. Es inalámbrico, ideal para una instalación rápida.
+El sensor Eolis 3D WireFree io se fija en la barra de la lona y detecta las vibraciones que produce el viento. Con rachas por encima del umbral fijado, por ejemplo 50 km/h, la lona se recoge automáticamente y no se puede volver a abrir hasta que el viento se calma. Funciona con pila, sin cables.
+
+### ¿Qué hace el sensor Sunis io?
+
+Sunis io es el sensor de sol de Somfy. Extiende la lona de la pérgola o el toldo cuando la luz supera el umbral fijado y lo recoge cuando se nubla. No mide el viento: para el viento se usa el sensor Eolis.
 
 ### ¿Cuánto cuesta automatizar una pérgola Somfy en Bucarest en 2026?
 
-El motor Somfy para pérgola parte de 350 EUR instalado (Pergola 50 RGS io, incluida mano de obra y configuración TaHoma). El sensor de viento y luz Sunis io parte de 80 EUR. Los precios son orientativos para Bucarest 2026.
+Un motor Somfy para pérgola parte de 350 EUR instalado (Pergola 50 RGS io, con mano de obra y configuración de TaHoma), y el sensor de viento Eolis de 80 EUR. Una pérgola automática completa de 4 × 3 m cuesta unos 6.000 EUR con instalación. Los precios son orientativos, sin IVA.
 
 ---
 
-Neofort BIZ instala y automatiza pérgolas bioclimáticas y toldos con motores Somfy en Bucarest e Ilfov. Descubre [las soluciones de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Compara todas las opciones en [la comparación completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa). Páginas útiles: [las pérgolas automáticas Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy) y [la automatización Somfy para persianas y pérgolas](/es/accesorios/automatizacion-somfy-persianas-pergolas).`,
-      it: `## Perché automatizzare la pergola o la tenda?
+Neofort BIZ instala y automatiza pérgolas de lona y toldos con motores Somfy en Bucarest e Ilfov. Descubra las [soluciones de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicite un presupuesto](/es/contacto). Compare todas las opciones en la [comparación completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa) y en la [comparación pérgola bioclimática o clásica](/es/blog/pergola-bioclimatica-vs-clasica-guia). Páginas útiles: [las pérgolas automáticas Somfy](/es/sistemas-sombreado/pergolas-automaticas-somfy) y [la automatización Somfy para persianas y pérgolas](/es/accesorios/automatizacion-somfy-persianas-pergolas).`,
+      it: `## Perché automatizzare la pergola o la tenda da sole?
 
-Una pergola manuale richiede un intervento costante. L'automazione Somfy con Pergola RGS io e Sunea io reagisce automaticamente a vento, pioggia e luce.
+Una pergola con telo o una tenda da sole manuale richiede attenzione continua: la si apre al mattino, la si ritira quando arriva il temporale, ce se ne dimentica quando si esce di casa. L’automazione Somfy se ne occupa al posto vostro. I motori Pergola RGS io e Sunea io, insieme ai sensori di vento e di sole, ritirano il telo da soli con vento forte e lo stendono quando il sole picchia troppo. Tutto si programma in TaHoma e si comanda anche a voce con Alexa o Google Home.
 
-## Motori Somfy pergola — Pergola 50 RGS io e 60 RGS io
+Il vantaggio principale è la protezione: un telo lasciato aperto durante una raffica forte si può strappare o deformare la struttura. Il sensore di vento lo ritira prima, anche se non siete a casa.
 
-Il Pergola 50 RGS io copre aperture fino a 4 m, il 60 RGS io fino a 5 m. Entrambi includono protezione automatica dal vento.
+## Motori Somfy per pergole: Pergola 50 RGS io e 60 RGS io
 
-## Protezione automatica vento e pioggia
+La serie Pergola RGS io è pensata per pergole con telo guidato su binari. Il motore Pergola 50 RGS io copre aperture fino a 4 m, il 60 RGS io fino a 5 m. Sulle pergole che posiamo, il sistema arriva a 5 m di larghezza e 4 m di sporgenza.
 
-Il sensore Sunis Wirefree II io monitora luce, temperatura e vento. Quando le raffiche superano i 50 km/h, le tende Somfy si retraggono automaticamente.
+Il motore non «sente» il vento da solo: la protezione automatica arriva dal sensore di vento Eolis, che gli invia il comando di ritiro tramite il protocollo io-homecontrol.
 
-## Prezzi motore pergola Somfy Bucarest 2026
+## Motori Somfy per tende da sole: Sunea 40 io e 50 io
 
-Motore Somfy pergola da **350 EUR installato**. Sensore Sunis io da 80 EUR.
+La serie Sunea io è pensata per tende da sole a bracci estensibili, su balconi e terrazze. Il motore si monta nel rullo della tenda, funziona a 230 V e comunica tramite io-homecontrol, quindi lavora con gli stessi sensori e la stessa app TaHoma della pergola e delle tapparelle.
 
-[Richiedere preventivo automazione Somfy pergola](/it/accessori/automazione-somfy-tapparelle-pergole)
+## Sensori Somfy: vento e sole
+
+- **Eolis 3D WireFree io**: il sensore di vento per pergole e tende da sole. Si fissa sulla barra terminale del telo, funziona a batteria e rileva le vibrazioni causate dal vento. Con raffiche oltre la soglia impostata (per esempio 50 km/h), il telo si ritira automaticamente.
+- **Eolis WireFree io**: il sensore di vento con anemometro, a tre soglie di sensibilità, per più prodotti Somfy insieme.
+- **Sunis io**: il sensore di sole; stende il telo o la tenda quando la luce supera la soglia impostata e la ritira quando si rannuvola.
+
+Il sensore di vento ha sempre la priorità: finché soffia il vento, il telo non si apre, né dal telecomando né dagli scenari TaHoma.
+
+## Scenari pratici con TaHoma
+
+Con TaHoma Switch potete combinare motori e sensori in scenari automatici:
+- il telo si stende a mezzogiorno, quando il sole batte sulla terrazza, e si ritira la sera;
+- quando uscite di casa, tutto si ritira con un solo comando;
+- con le raffiche di vento, pergola e tende si ritirano automaticamente, qualunque sia lo scenario attivo.
+
+Per le tapparelle di casa, i dettagli sono nella [guida ai motori Somfy per tapparelle](/it/blog/somfy-motori-tapparelle).
+
+## Prezzi dell’automazione di una pergola Somfy a Bucarest nel 2026
+
+Un motore Somfy per pergola parte da **350 EUR posato** (Pergola 50 RGS io, manodopera e configurazione TaHoma comprese). Il sensore di vento Eolis parte da 80 EUR. Una pergola automatica Somfy completa di 4 × 3 m costa circa 6.000 EUR con posa. Tutti i prezzi sono indicativi, IVA esclusa.
+
+- [Richiedete un preventivo per l’automazione Somfy di pergole e tapparelle](/it/accessori/automazione-somfy-tapparelle-pergole)
 
 ## Domande frequenti
 
-### Perché automatizzare una pergola o tenda con Somfy?
+### Perché automatizzare la pergola o la tenda da sole con Somfy?
 
-Una pergola o tenda manuale richiede un intervento costante. L'automazione Somfy elimina la routine: i motori Pergola RGS io o Sunea io assicurano la reazione automatica a vento, pioggia e luce, la programmazione tramite TaHoma e il controllo vocale con Alexa o Google Home.
+Per comodità e per protezione. I motori Pergola RGS io o Sunea io, insieme ai sensori di vento e di sole, ritirano il telo da soli con vento forte e lo stendono quando il sole picchia troppo. Tutto si programma in TaHoma e si comanda anche a voce, con Alexa o Google Home.
 
 ### Quali motori Somfy si usano per le pergole?
 
-La serie Pergola RGS io è dedicata alle pergole guidate su binari: Pergola 50 RGS io copre aperture fino a 4 m, e 60 RGS io fino a 5 m. Entrambe includono protezione automatica dal vento — quando le raffiche superano una soglia prestabilita, il motore ritrae automaticamente il telo della pergola.
+La serie Pergola RGS io, per pergole con telo guidato su binari: Pergola 50 RGS io copre aperture fino a 4 m, e 60 RGS io fino a 5 m. La protezione automatica dal vento arriva dal sensore Eolis, che invia al motore il comando di ritiro.
 
-### Come protegge automaticamente il sensore Somfy le tende dal vento?
+### Come protegge automaticamente il sensore Somfy pergola e tenda dal vento?
 
-Il sensore Sunis Wirefree II io monitora l'intensità della luce, la temperatura e la velocità del vento. Quando le raffiche superano i 50 km/h, le tende e pergole Somfy si ritraggono automaticamente, prevenendo danni strutturali. È senza fili, ideale per un montaggio rapido.
+Il sensore Eolis 3D WireFree io si fissa sulla barra del telo e rileva le vibrazioni causate dal vento. Con raffiche oltre la soglia impostata, per esempio 50 km/h, il telo si ritira automaticamente e non si può riaprire finché il vento non si calma. Funziona a batteria, senza cavi.
+
+### Cosa fa il sensore Sunis io?
+
+Sunis io è il sensore di sole di Somfy. Stende il telo della pergola o la tenda quando la luce supera la soglia impostata e la ritira quando si rannuvola. Non misura il vento: per il vento si usa il sensore Eolis.
 
 ### Quanto costa automatizzare una pergola Somfy a Bucarest nel 2026?
 
-Il motore Somfy per pergola parte da 350 EUR montato (Pergola 50 RGS io, inclusi manodopera e configurazione TaHoma). Il sensore di vento e luce Sunis io parte da 80 EUR. I prezzi sono indicativi per Bucarest 2026.
+Un motore Somfy per pergola parte da 350 EUR posato (Pergola 50 RGS io, con manodopera e configurazione TaHoma), e il sensore di vento Eolis da 80 EUR. Una pergola automatica completa di 4 × 3 m costa circa 6.000 EUR con posa. I prezzi sono indicativi, IVA esclusa.
 
 ---
 
-Neofort BIZ installa e automatizza pergole bioclimatiche e tende con motori Somfy a Bucarest e Ilfov. Scopri [le soluzioni di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Confronta tutte le opzioni in [il confronto completo dei sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa). Pagine utili: [le pergole automatiche Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy) e [l'automazione Somfy per tapparelle e pergole](/it/accessori/automazione-somfy-tapparelle-pergole).`,
+Neofort BIZ posa e automatizza pergole con telo e tende da sole con motori Somfy a Bucarest e Ilfov. Scoprite le [soluzioni di oscuramento](/it/sistemi-oscuramento) che offriamo o [richiedete un preventivo](/it/contatti). Confrontate tutte le opzioni nel [confronto completo dei sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa) e nel [confronto pergola bioclimatica o classica](/it/blog/pergola-bioclimatica-vs-classica-guida). Pagine utili: [le pergole automatiche Somfy](/it/sistemi-oscuramento/pergole-automatiche-somfy) e [l’automazione Somfy per tapparelle e pergole](/it/accessori/automazione-somfy-tapparelle-pergole).`,
     },
     keywords: 'automatizare pergola Somfy, motor pergola Somfy, Somfy copertine, Pergola RGS io, Sunea io Somfy, automatizare copertina, pergola motoricata Somfy, Somfy Bucuresti pergola, motor copertina retractabila',
     dateDisplay: {
@@ -34909,12 +35096,12 @@ Neofort BIZ installa e automatizza pergole bioclimatiche e tende con motori Somf
     readTime: { ro:'8 min', en:'8 min', de:'8 Min', fr:'8 min', es:'8 min', it:'8 min' },
     category: { ro:'Automatizare & Smart Home', en:'Automation & Smart Home', de:'Automatisierung & Smart Home', fr:'Automatisation & Maison Connectée', es:'Automatización & Smart Home', it:'Automazione & Casa Intelligente' },
     title: {
-      ro: 'Somfy TaHoma Smart Home în România 2026 — controlul casei dintr-o singură aplicație: rulouri, pergole, poartă, alarmă',
-      en: 'Somfy TaHoma Smart Home in Romania 2026 — controlling your home from one app: shutters, pergolas, gate, alarm',
-      de: 'Somfy TaHoma Smart Home in Rumänien 2026 — Haussteuerung aus einer App: Rollläden, Pergolen, Tor, Alarm',
-      fr: 'Somfy TaHoma Maison Connectée en Roumanie 2026 — contrôler sa maison depuis une seule application : volets, pergolas, portail, alarme',
-      es: 'Somfy TaHoma Hogar Inteligente en Rumanía 2026 — controla tu casa desde una sola app: persianas, pérgolas, puerta, alarma',
-      it: `Somfy TaHoma Casa Intelligente in Romania 2026 — controllo della casa da un'unica app: tapparelle, pergole, cancello, allarme`,
+      ro: 'Somfy TaHoma în România: casa smart într-o aplicație',
+      en: 'Somfy TaHoma in Romania: your smart home from one app',
+      de: 'Somfy TaHoma in Rumänien: das Smart Home in einer App',
+      fr: 'Somfy TaHoma en Roumanie : la maison connectée en une appli',
+      es: 'Somfy TaHoma en Rumanía: la casa inteligente en una app',
+      it: `Somfy TaHoma in Romania: la casa intelligente in un’app`,
     },
     metaDesc: {
       ro: "Somfy TaHoma controlează rulouri, pergolă, poartă și alarmă dintr-o singură aplicație. Ce echipamente acceptă și cum se configurează scenariile.",
@@ -34925,284 +35112,464 @@ Neofort BIZ installa e automatizza pergole bioclimatiche e tende con motori Somf
       it: "Somfy TaHoma comanda tapparelle, pergola, cancello e allarme da una sola app. Quali dispositivi supporta e come si impostano gli scenari.",
     },
     excerpt: {
-      ro: 'TaHoma Switch de la Somfy este hub-ul smart home care unifică controlul tuturor echipamentelor motoricizate din casă — rulouri, pergole, copertine, poarte, uși de garaj — într-o singură aplicație, cu scenarii automate și compatibilitate Alexa, Google și Apple HomeKit.',
-      en: 'Somfy\'s TaHoma Switch is the smart home hub that unifies control of all motorised equipment in the home — shutters, pergolas, awnings, gates, garage doors — in a single app, with automatic scenarios and Alexa, Google and Apple HomeKit compatibility.',
-      de: 'Somfys TaHoma Switch ist der Smart-Home-Hub, der die Steuerung aller motorisierten Geräte im Haus — Rollläden, Pergolen, Markisen, Tore, Garagentore — in einer einzigen App vereint, mit automatischen Szenarien und Kompatibilität mit Alexa, Google und Apple HomeKit.',
-      fr: 'Le TaHoma Switch de Somfy est le hub maison connectée qui unifie le contrôle de tous les équipements motorisés de la maison — volets, pergolas, stores, portails, portes de garage — dans une seule application, avec des scénarios automatiques et la compatibilité Alexa, Google et Apple HomeKit.',
-      es: 'El TaHoma Switch de Somfy es el hub de hogar inteligente que unifica el control de todos los equipos motorizados de la casa — persianas, pérgolas, toldos, puertas, puertas de garaje — en una sola app, con escenarios automáticos y compatibilidad Alexa, Google y Apple HomeKit.',
-      it: `Il TaHoma Switch di Somfy è l'hub per la casa intelligente che unifica il controllo di tutti i dispositivi motorizzati della casa — tapparelle, pergole, tende, cancelli, porte del garage — in un'unica app, con scenari automatici e compatibilità Alexa, Google e Apple HomeKit.`,
+      ro: 'TaHoma Switch de la Somfy este hub-ul smart home care reunește rulourile, jaluzelele Raffstore, copertinele, pergolele, porțile și ușile de garaj motorizate într-o singură aplicație, cu scenarii automate, senzori și control vocal prin Alexa, Google Home și Apple HomeKit.',
+      en: 'Somfy’s TaHoma Switch is the smart home hub that brings motorised roller shutters, Raffstore blinds, awnings, pergolas, gates and garage doors together in one app, with automatic scenarios, sensors and voice control through Alexa, Google Home and Apple HomeKit.',
+      de: 'TaHoma Switch von Somfy ist die Smart-Home-Zentrale, die motorisierte Rollläden, Raffstore-Jalousien, Markisen, Pergolen, Tore und Garagentore in einer App zusammenführt, mit automatischen Szenarien, Sensoren und Sprachsteuerung über Alexa, Google Home und Apple HomeKit.',
+      fr: 'TaHoma Switch de Somfy est la box domotique qui réunit volets roulants, brise-soleil Raffstore, stores bannes, pergolas, portails et portes de garage motorisés dans une seule application, avec scénarios automatiques, capteurs et commande vocale par Alexa, Google Home et Apple HomeKit.',
+      es: 'TaHoma Switch de Somfy es la central domótica que reúne persianas, celosías Raffstore, toldos, pérgolas, puertas y portones de garaje motorizados en una sola aplicación, con escenarios automáticos, sensores y control por voz con Alexa, Google Home y Apple HomeKit.',
+      it: `TaHoma Switch di Somfy è la centrale domotica che riunisce tapparelle, veneziane Raffstore, tende da sole, pergole, cancelli e porte da garage motorizzati in un’unica app, con scenari automatici, sensori e comando vocale tramite Alexa, Google Home e Apple HomeKit.`,
     },
     content: {
       ro: `## Ce este Somfy TaHoma?
 
-TaHoma Switch este hub-ul central al ecosistemului Somfy — un dispozitiv mic conectat la routerul de internet care permite controlul și programarea tuturor echipamentelor motoricizate din casă dintr-o singură aplicație de smartphone. TaHoma funcționează cu aproape 300 de tipuri de produse Somfy și parteneri certificați.
+TaHoma Switch este hub-ul central al ecosistemului Somfy: un dispozitiv mic, conectat prin Wi-Fi la routerul casei, care îți permite să comanzi și să programezi echipamentele motorizate dintr-o singură aplicație pe telefon. Somfy îl prezintă ca fiind compatibil cu peste 280 de game de echipamente, ale Somfy și ale altor mărci mari pentru casă.
+
+TaHoma Switch vorbește nativ trei protocoale radio:
+- **io-homecontrol** — protocolul motoarelor Somfy io, cu confirmarea comenzii (știi dacă ruloul chiar s-a închis);
+- **RTS** — protocolul mai vechi Somfy, deci poți integra și motoarele RTS deja montate;
+- **Zigbee 3.0** — pentru prize, becuri și senzori inteligenți de la alte mărci.
+
+Dacă routerul e departe, există și un adaptor Ethernet opțional pentru conectare prin cablu.
 
 ## Ce poți controla cu TaHoma în 2026?
 
-Prin aplicația TaHoma poți gestiona: rulouri exterioare și interioare, jaluzele tip raffstore, copertine și pergole, porți și uși de garaj, sisteme de alarmă Somfy Protect, camere video, prize inteligente Zigbee pentru monitorizarea consumului de energie.
+Prin aplicația TaHoma poți comanda:
+- rulouri exterioare și interioare, jaluzele Raffstore, Zipscreen;
+- copertine și pergole cu pânză;
+- porți și uși de garaj motorizate compatibile;
+- sistemul de alarmă și camerele Somfy;
+- prize, becuri și senzori Zigbee, de exemplu pentru urmărirea consumului de energie.
 
 ## Scenarii automate TaHoma
 
-**Scenariul Plecare:** rulourile se închid complet, alarma se activează, prizele fără dispozitive se opresc.
+**Scenariul Plecare:** rulourile se închid complet, alarma se activează, prizele inutile se opresc.
 
-**Scenariul Bun venit acasă:** poarta se deschide, rulourile din living se ridică, lumina de intrare se aprinde.
+**Scenariul Bun venit acasă:** poarta se deschide, rulourile din living se ridică, lumina de la intrare se aprinde.
 
-**Scenariul Noapte:** rulourile se închid la 22:30, temperatura nocturnă se setează automat.
+**Scenariul Noapte:** rulourile se închid la ora stabilită, de exemplu 22:30; dacă ai un termostat compatibil, se setează și temperatura de noapte.
 
-Toate se activează cu un singur tap sau vocal: Alexa, activează plecarea.
+**Scenariul Vară:** la soare puternic, senzorul Sunis io coboară rulourile și întinde pânza pergolei; la vânt puternic, senzorul Eolis strânge pergola și copertinele.
+
+Toate se activează cu o atingere în aplicație, automat după oră sau senzori, ori vocal: „Alexa, pornește plecarea”.
 
 ## Compatibilitate Alexa, Google Home și Apple HomeKit
 
-TaHoma Switch este compatibil nativ cu Amazon Alexa, Google Home și Apple HomeKit. Compatibilitatea cu IFTTT permite automatizări complexe bazate pe locație GPS, calendar sau condiții meteo.
+TaHoma Switch funcționează cu Amazon Alexa, Google Home și Apple HomeKit. Poți comanda vocal fiecare rulou sau un scenariu întreg, iar pe iPhone poți folosi TaHoma și din aplicația Casa (Home).
+
+## Ce trebuie să ai ca să folosești TaHoma
+
+- Motoare Somfy io (recomandat) sau RTS la rulouri, Raffstore, pergole ori copertine
+- O rețea Wi-Fi în casă
+- Telefonul cu aplicația TaHoma
+
+Dacă rulourile au încă acționare manuală, se motorizează întâi; detaliile sunt în [ghidul motoarelor Somfy pentru rulouri](/ro/blog/somfy-rulouri-motoare-exterioare). Pentru pergole și copertine, vezi [automatizarea Somfy pentru pergole](/ro/blog/somfy-automatizare-pergole-copertine).
 
 ## TaHoma Switch — prețuri și instalare în România 2026
 
-Kit-ul TaHoma Switch (hub + aplicație) pornește de la **180 EUR**. Configurarea completă cu scenariile personalizate este inclusă în serviciile Neofort BIZ.
+Kitul TaHoma Switch (hub + aplicație) pornește de la **180 EUR**, fără TVA. Configurarea completă, cu scenariile personalizate, este inclusă în serviciile Neofort BIZ atunci când montăm noi motoarele Somfy.
 
-[Solicitați ofertă pentru TaHoma Switch și automatizări Somfy](/ro/accesorii/automatizari-somfy-rulouri-pergole)
+- [Solicită ofertă pentru TaHoma Switch și automatizări Somfy](/ro/accesorii/automatizari-somfy-rulouri-pergole)
 
 ## Întrebări frecvente
 
 ### Cum se conectează hub-ul Somfy TaHoma în casă?
 
-TaHoma Switch e hub-ul central al ecosistemului Somfy — un dispozitiv mic conectat la routerul de internet care permite controlul și programarea tuturor echipamentelor motorizate din casă dintr-o singură aplicație de smartphone. Funcționează cu aproape 300 de tipuri de produse Somfy și parteneri certificați.
+TaHoma Switch se conectează prin Wi-Fi la routerul casei, iar pentru cazurile în care semnalul e slab există un adaptor Ethernet opțional. Comunică cu echipamentele prin io-homecontrol, RTS și Zigbee 3.0 și le reunește pe toate într-o singură aplicație pe telefon.
 
 ### Ce pot controla cu Somfy TaHoma în 2026?
 
-Prin aplicația TaHoma poți gestiona: rulouri exterioare și interioare, jaluzele raffstore, copertine și pergole, porți și uși de garaj, sisteme de alarmă Somfy Protect, camere video și prize inteligente Zigbee pentru monitorizarea consumului de energie — toate dintr-un singur loc.
+Rulouri exterioare și interioare, jaluzele Raffstore, Zipscreen, copertine și pergole, porți și uși de garaj compatibile, alarma și camerele Somfy, plus prize și becuri Zigbee. Somfy îl declară compatibil cu peste 280 de game de echipamente.
 
 ### Ce scenarii automate poate rula Somfy TaHoma?
 
-TaHoma rulează scenarii cu un tap sau vocal: Plecare (rulourile se închid, alarma se activează, prizele se opresc), Bun venit acasă (poarta se deschide, rulourile din living se ridică, lumina se aprinde) și Noapte (rulourile se închid la 22:30, temperatura nocturnă se setează automat).
+De exemplu: Plecare (rulourile se închid, alarma se activează, prizele inutile se opresc), Bun venit acasă (poarta se deschide, rulourile din living se ridică), Noapte (rulourile se închid la ora stabilită) și Vară (rulourile coboară la soare puternic, pergola se strânge la vânt).
 
 ### E Somfy TaHoma compatibil cu Alexa, Google Home și Apple HomeKit?
 
-Da. Somfy TaHoma e compatibil cu Alexa, Google Home și Apple HomeKit, permițând controlul vocal al tuturor echipamentelor — de exemplu „Alexa, activează plecarea” declanșează scenariul complet. Integrarea cu cele trei ecosisteme principale face TaHoma centrul casei smart.
+Da. TaHoma Switch funcționează cu Amazon Alexa, Google Home și Apple HomeKit, deci poți comanda vocal un rulou sau un scenariu întreg. Pe iPhone, echipamentele apar și în aplicația Casa (Home).
+
+### Pot integra în TaHoma și rulourile cu motoare Somfy mai vechi?
+
+Da, dacă sunt motoare Somfy RTS sau io: TaHoma Switch le recunoaște pe amândouă. Diferența e că motoarele io confirmă comanda, iar cele RTS nu. Motoarele de alte mărci se pot integra doar dacă folosesc un protocol compatibil, de exemplu Zigbee 3.0.
 
 ---
 
 Neofort BIZ integrează rulouri, jaluzele și pergole în sisteme smart home TaHoma, în București și Ilfov. Află mai multe despre [rulourile și jaluzelele exterioare](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul complet al sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet). Pagini utile: [automatizările Somfy pentru rulouri și pergole](/ro/accesorii/automatizari-somfy-rulouri-pergole) și [rulourile textile Zipscreen](/ro/umbrire/zipscreen).`,
       en: `## What is Somfy TaHoma?
 
-TaHoma Switch is the central hub of the Somfy ecosystem — a small device connected to the internet router that allows control and programming of all motorised home equipment from a single smartphone app. TaHoma works with almost 300 Somfy products and certified partners.
+TaHoma Switch is the central hub of the Somfy ecosystem: a small device connected by Wi-Fi to your home router that lets you control and program motorised equipment from one app on your phone. Somfy describes it as compatible with more than 280 ranges of equipment, from Somfy and from other major home brands.
+
+TaHoma Switch natively speaks three radio protocols:
+- **io-homecontrol** — the protocol of Somfy io motors, with command feedback (you know whether the shutter really closed);
+- **RTS** — Somfy’s older protocol, so you can also integrate RTS motors that are already installed;
+- **Zigbee 3.0** — for smart plugs, bulbs and sensors from other brands.
+
+If the router is far away, there is also an optional Ethernet adapter for a wired connection.
 
 ## What can you control with TaHoma in 2026?
 
-Via the TaHoma app: exterior and interior shutters, raffstore venetian blinds, awnings and pergolas, gates and garage doors, Somfy Protect alarm systems, video cameras, Zigbee smart plugs for energy monitoring.
+With the TaHoma app you can control:
+- exterior and interior roller shutters, Raffstore blinds, Zipscreen;
+- awnings and fabric pergolas;
+- compatible motorised gates and garage doors;
+- the Somfy alarm system and cameras;
+- Zigbee plugs, bulbs and sensors, for example to track energy use.
 
 ## TaHoma automatic scenarios
 
-**Leaving scenario:** shutters fully close, alarm activates, unused plugs switch off.
+**Leaving scenario:** the shutters close completely, the alarm arms, unnecessary plugs switch off.
 
-**Welcome home scenario:** gate opens, living room shutters rise, entrance light switches on.
+**Welcome home scenario:** the gate opens, the living-room shutters rise, the entrance light comes on.
 
-**Night scenario:** shutters close at 10:30 PM, night temperature sets automatically.
+**Night scenario:** the shutters close at the set time, for example 22:30; if you have a compatible thermostat, the night temperature is set too.
 
-All activated with one tap or vocally: Alexa, activate leaving.
+**Summer scenario:** in strong sun, the Sunis io sensor lowers the shutters and extends the pergola fabric; in strong wind, the Eolis sensor retracts the pergola and the awnings.
+
+All of them run with a tap in the app, automatically by time or sensors, or by voice: “Alexa, start leaving.”
 
 ## Alexa, Google Home and Apple HomeKit compatibility
 
-TaHoma Switch is natively compatible with Amazon Alexa, Google Home and Apple HomeKit.
+TaHoma Switch works with Amazon Alexa, Google Home and Apple HomeKit. You can voice-control each shutter or a whole scenario, and on an iPhone you can also use TaHoma from the Home app.
+
+## What you need to use TaHoma
+
+- Somfy io (recommended) or RTS motors on shutters, Raffstore blinds, pergolas or awnings
+- A Wi-Fi network at home
+- Your phone with the TaHoma app
+
+If your shutters are still manual, they are motorised first; the details are in the [guide to Somfy shutter motors](/en/blog/somfy-shutter-motors). For pergolas and awnings, see [Somfy automation for pergolas](/en/blog/somfy-pergola-awning-automation).
 
 ## TaHoma Switch — prices and installation in Romania 2026
 
-The TaHoma Switch kit (hub + app) starts from **180 EUR**. Full configuration with personalised scenarios included in Neofort BIZ services.
+The TaHoma Switch kit (hub + app) starts at **180 EUR**, excluding VAT. Full setup, with personalised scenarios, is included in Neofort BIZ’s services when we install the Somfy motors.
 
-[Request a TaHoma Switch and Somfy automation quote](/en/accessories/somfy-automation-shutters-pergolas)
+- [Request a quote for TaHoma Switch and Somfy automation](/en/accessories/somfy-automation-shutters-pergolas)
 
 ## Frequently Asked Questions
 
-### How does the Somfy TaHoma hub connect in the home?
+### How does the Somfy TaHoma hub connect at home?
 
-TaHoma Switch is the central hub of the Somfy ecosystem — a small device connected to the internet router that lets you control and program all motorised equipment in the house from a single smartphone app. It works with almost 300 types of Somfy products and certified partners.
+TaHoma Switch connects by Wi-Fi to the home router, and for cases where the signal is weak there is an optional Ethernet adapter. It talks to the equipment through io-homecontrol, RTS and Zigbee 3.0 and brings it all together in one app on your phone.
 
 ### What can I control with Somfy TaHoma in 2026?
 
-Through the TaHoma app you can manage: exterior and interior roller shutters, raffstore blinds, awnings and pergolas, gates and garage doors, Somfy Protect alarm systems, video cameras and Zigbee smart plugs for energy-consumption monitoring — all from one place.
+Exterior and interior roller shutters, Raffstore blinds, Zipscreen, awnings and pergolas, compatible gates and garage doors, the Somfy alarm and cameras, plus Zigbee plugs and bulbs. Somfy states that it is compatible with more than 280 ranges of equipment.
 
-### What automated scenarios can Somfy TaHoma run?
+### What automatic scenarios can Somfy TaHoma run?
 
-TaHoma runs scenarios with one tap or by voice: Leaving (shutters close, alarm arms, plugs switch off), Welcome Home (gate opens, living-room shutters raise, light turns on) and Night (shutters close at 22:30, night temperature is set automatically).
+For example: Leaving (the shutters close, the alarm arms, unnecessary plugs switch off), Welcome home (the gate opens, the living-room shutters rise), Night (the shutters close at the set time) and Summer (the shutters lower in strong sun, the pergola retracts in wind).
 
 ### Is Somfy TaHoma compatible with Alexa, Google Home and Apple HomeKit?
 
-Yes. Somfy TaHoma is compatible with Alexa, Google Home and Apple HomeKit, allowing voice control of all equipment — for example "Alexa, activate leaving" triggers the full scenario. Integration with the three main ecosystems makes TaHoma the centre of the smart home.
+Yes. TaHoma Switch works with Amazon Alexa, Google Home and Apple HomeKit, so you can voice-control a single shutter or a whole scenario. On an iPhone, the equipment also appears in the Home app.
+
+### Can I integrate shutters with older Somfy motors into TaHoma?
+
+Yes, if they are Somfy RTS or io motors: TaHoma Switch recognises both. The difference is that io motors confirm the command and RTS motors do not. Motors from other brands can only be integrated if they use a compatible protocol, for example Zigbee 3.0.
 
 ---
 
-Neofort BIZ integrates roller shutters, blinds and pergolas into TaHoma smart home systems, in Bucharest and Ilfov. Learn more about [the exterior roller shutters and blinds](/en/shading-systems) we offer or [request a quote](/en/contact). See also [the complete guide to exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide). Useful pages: [Somfy automation for shutters and pergolas](/en/accessories/somfy-automation-shutters-pergolas) and [Zipscreen exterior blinds](/en/shading-systems/zipscreen-exterior-blind).`,
+Neofort BIZ integrates roller shutters, blinds and pergolas into TaHoma smart home systems in Bucharest and Ilfov. Find out more about the [exterior roller shutters and blinds](/en/shading-systems) we offer or [request a quote](/en/contact). See also the [complete guide to exterior shading systems](/en/blog/zipscreen-terrace-shading-complete-guide). Useful pages: [Somfy automation for shutters and pergolas](/en/accessories/somfy-automation-shutters-pergolas) and [Zipscreen fabric blinds](/en/shading-systems/zipscreen-exterior-blind).`,
       de: `## Was ist Somfy TaHoma?
 
-TaHoma Switch ist der zentrale Hub des Somfy-Ökosystems — ein kleines Gerät, das alle motorisierten Geräte im Haus über eine einzige Smartphone-App steuert. TaHoma funktioniert mit fast 300 Somfy-Produkten.
+TaHoma Switch ist die Zentrale des Somfy-Ökosystems: ein kleines Gerät, das per WLAN mit Ihrem Router verbunden ist und mit dem Sie motorisierte Geräte über eine einzige App auf dem Smartphone steuern und programmieren. Somfy gibt an, dass es mit mehr als 280 Gerätereihen kompatibel ist, von Somfy und von anderen großen Marken für das Zuhause.
 
-## Was können Sie mit TaHoma 2026 steuern?
+TaHoma Switch beherrscht nativ drei Funkprotokolle:
+- **io-homecontrol** — das Protokoll der Somfy-io-Motoren, mit Rückmeldung (Sie wissen, ob der Rollladen wirklich geschlossen ist);
+- **RTS** — das ältere Somfy-Protokoll, sodass Sie auch bereits montierte RTS-Motoren einbinden können;
+- **Zigbee 3.0** — für Steckdosen, Lampen und Sensoren anderer Marken.
 
-Über die TaHoma App: Außen- und Innenrollläden, Raffstore-Jalousien, Markisen und Pergolen, Tore und Garagentore, Somfy Protect Alarmsysteme, Videokameras, Zigbee-Smartstecker.
+Steht der Router weit weg, gibt es zusätzlich einen optionalen Ethernet-Adapter für die Verbindung per Kabel.
 
-## TaHoma automatische Szenarien
+## Was können Sie 2026 mit TaHoma steuern?
 
-**Abfahrt-Szenario:** Rollläden schließen vollständig, Alarm aktiviert sich, ungenutzte Stecker schalten ab.
+Über die TaHoma-App steuern Sie:
+- Außen- und Innenrollläden, Raffstore-Jalousien, Zipscreen;
+- Markisen und Tuchpergolen;
+- kompatible motorisierte Tore und Garagentore;
+- die Somfy-Alarmanlage und -Kameras;
+- Zigbee-Steckdosen, -Lampen und -Sensoren, zum Beispiel zur Verbrauchsmessung.
 
-**Willkommen zuhause:** Tor öffnet, Wohnzimmer-Rollläden heben sich, Eingangslicht schaltet sich ein.
+## Automatische Szenarien mit TaHoma
 
-**Nacht-Szenario:** Rollläden schließen um 22:30 Uhr, Nachttemperatur wird automatisch eingestellt.
+**Szenario Verlassen:** Die Rollläden schließen ganz, die Alarmanlage wird scharf geschaltet, unnötige Steckdosen gehen aus.
+
+**Szenario Willkommen zu Hause:** Das Tor öffnet sich, die Rollläden im Wohnzimmer fahren hoch, das Licht am Eingang geht an.
+
+**Szenario Nacht:** Die Rollläden schließen zur eingestellten Uhrzeit, zum Beispiel 22:30 Uhr; mit einem kompatiblen Thermostat wird auch die Nachttemperatur eingestellt.
+
+**Szenario Sommer:** Bei starker Sonne fährt der Sensor Sunis io die Rollläden herunter und das Pergolatuch aus; bei starkem Wind fährt der Sensor Eolis Pergola und Markisen ein.
+
+Alle Szenarien starten per Fingertipp in der App, automatisch nach Uhrzeit oder Sensoren oder per Sprache: „Alexa, starte Verlassen.“
+
+## Kompatibilität mit Alexa, Google Home und Apple HomeKit
+
+TaHoma Switch funktioniert mit Amazon Alexa, Google Home und Apple HomeKit. Sie können jeden Rollladen oder ein ganzes Szenario per Sprache steuern, und auf dem iPhone lässt sich TaHoma auch über die Home-App nutzen.
+
+## Was Sie für TaHoma brauchen
+
+- Somfy-io-Motoren (empfohlen) oder RTS-Motoren an Rollläden, Raffstore, Pergolen oder Markisen
+- Ein WLAN im Haus
+- Ihr Smartphone mit der TaHoma-App
+
+Sind die Rollläden noch manuell, werden sie zuerst motorisiert; die Details stehen im [Ratgeber zu Somfy-Rollladenmotoren](/de/blog/somfy-rolllaeden-motoren). Für Pergolen und Markisen siehe [Somfy-Automatisierung für Pergolen](/de/blog/somfy-pergola-markisen-automatisierung).
 
 ## TaHoma Switch — Preise und Installation in Rumänien 2026
 
-Das TaHoma Switch Kit (Hub + App) startet ab **180 EUR**. Vollständige Konfiguration in den Neofort BIZ Services enthalten.
+Das TaHoma-Switch-Kit (Zentrale + App) kostet ab **180 EUR**, ohne MwSt. Die komplette Einrichtung mit individuellen Szenarien ist in den Leistungen von Neofort BIZ enthalten, wenn wir die Somfy-Motoren montieren.
 
-[TaHoma Switch und Somfy Automatisierung anfragen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
+- [Angebot für TaHoma Switch und Somfy-Automatisierung anfordern](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
 
 ## Häufig gestellte Fragen
 
-### Wie wird der Somfy TaHoma Hub im Haus angeschlossen?
+### Wie wird die Zentrale Somfy TaHoma im Haus verbunden?
 
-TaHoma Switch ist der zentrale Hub des Somfy-Ökosystems — ein kleines, mit dem Internetrouter verbundenes Gerät, mit dem Sie alle motorisierten Geräte im Haus aus einer einzigen Smartphone-App steuern und programmieren. Es funktioniert mit fast 300 Somfy-Produkttypen und zertifizierten Partnern.
+TaHoma Switch wird per WLAN mit dem Router verbunden; bei schwachem Signal gibt es einen optionalen Ethernet-Adapter. Mit den Geräten kommuniziert sie über io-homecontrol, RTS und Zigbee 3.0 und führt alles in einer einzigen App auf dem Smartphone zusammen.
 
 ### Was kann ich 2026 mit Somfy TaHoma steuern?
 
-Über die TaHoma-App können Sie verwalten: Außen- und Innenrollläden, Raffstore-Jalousien, Markisen und Pergolen, Tore und Garagentore, Somfy-Protect-Alarmsysteme, Videokameras und Zigbee-Smart-Steckdosen zur Energieverbrauchsüberwachung — alles an einem Ort.
+Außen- und Innenrollläden, Raffstore-Jalousien, Zipscreen, Markisen und Pergolen, kompatible Tore und Garagentore, die Somfy-Alarmanlage und -Kameras sowie Zigbee-Steckdosen und -Lampen. Somfy gibt an, dass sie mit mehr als 280 Gerätereihen kompatibel ist.
 
 ### Welche automatischen Szenarien kann Somfy TaHoma ausführen?
 
-TaHoma führt Szenarien mit einem Tippen oder per Sprache aus: Verlassen (Rollläden schließen, Alarm aktiviert, Steckdosen aus), Willkommen zu Hause (Tor öffnet, Wohnzimmerrollläden hoch, Licht an) und Nacht (Rollläden schließen um 22:30, Nachttemperatur wird automatisch gesetzt).
+Zum Beispiel: Verlassen (die Rollläden schließen, die Alarmanlage wird scharf geschaltet, unnötige Steckdosen gehen aus), Willkommen zu Hause (das Tor öffnet sich, die Rollläden im Wohnzimmer fahren hoch), Nacht (die Rollläden schließen zur eingestellten Uhrzeit) und Sommer (die Rollläden fahren bei starker Sonne herunter, die Pergola bei Wind ein).
 
 ### Ist Somfy TaHoma mit Alexa, Google Home und Apple HomeKit kompatibel?
 
-Ja. Somfy TaHoma ist mit Alexa, Google Home und Apple HomeKit kompatibel und ermöglicht die Sprachsteuerung aller Geräte — zum Beispiel löst "Alexa, aktiviere Verlassen" das komplette Szenario aus. Die Integration mit den drei Haupt-Ökosystemen macht TaHoma zum Zentrum des Smart Homes.
+Ja. TaHoma Switch funktioniert mit Amazon Alexa, Google Home und Apple HomeKit, Sie können also einen einzelnen Rollladen oder ein ganzes Szenario per Sprache steuern. Auf dem iPhone erscheinen die Geräte auch in der Home-App.
+
+### Kann ich Rollläden mit älteren Somfy-Motoren in TaHoma einbinden?
+
+Ja, wenn es Somfy-RTS- oder -io-Motoren sind: TaHoma Switch erkennt beide. Der Unterschied ist, dass io-Motoren den Befehl bestätigen und RTS-Motoren nicht. Motoren anderer Marken lassen sich nur einbinden, wenn sie ein kompatibles Protokoll nutzen, zum Beispiel Zigbee 3.0.
 
 ---
 
-Neofort BIZ integriert Rollläden, Jalousien und Pergolen in TaHoma Smart-Home-Systeme, in Bukarest und Ilfov. Erfahren Sie mehr über [die Außenrollläden und Jalousien](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den kompletten Ratgeber zu Außenbeschattungssystemen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden). Nützliche Seiten: [Somfy-Automatisierung für Rollläden und Pergolen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen) und [Zipscreen-Außenrollos](/de/beschattungssysteme/zipscreen-aussenrollo).`,
-      fr: `## Qu'est-ce que Somfy TaHoma ?
+Neofort BIZ bindet Rollläden, Jalousien und Pergolen in TaHoma-Smart-Home-Systeme ein, in Bukarest und Ilfov. Erfahren Sie mehr über die [Außenrollläden und Jalousien](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Lesen Sie auch den [vollständigen Leitfaden zu Außenbeschattungssystemen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden). Nützliche Seiten: [Somfy-Automatisierung für Rollläden und Pergolen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen) und [Zipscreen-Textilrollos](/de/beschattungssysteme/zipscreen-aussenrollo).`,
+      fr: `## Qu’est-ce que Somfy TaHoma ?
 
-TaHoma Switch est le hub central de l'écosystème Somfy — un petit appareil qui contrôle tous les équipements motorisés depuis une seule application smartphone. TaHoma fonctionne avec près de 300 produits Somfy.
+TaHoma Switch est le cœur de l’écosystème Somfy : un petit boîtier connecté en Wi-Fi à votre box internet, qui permet de piloter et de programmer les équipements motorisés depuis une seule application sur le téléphone. Somfy le présente comme compatible avec plus de 280 gammes d’équipements, de Somfy et d’autres grandes marques de la maison.
 
-## Que peut-on contrôler avec TaHoma en 2026 ?
+TaHoma Switch gère nativement trois protocoles radio :
+- **io-homecontrol** — le protocole des moteurs Somfy io, avec retour d’information (vous savez si le volet s’est vraiment fermé) ;
+- **RTS** — l’ancien protocole Somfy, ce qui permet d’intégrer aussi des moteurs RTS déjà posés ;
+- **Zigbee 3.0** — pour les prises, ampoules et capteurs connectés d’autres marques.
 
-Via l'application TaHoma : volets roulants, stores vénitiens raffstore, pergolas et stores, portails et portes de garage, alarmes Somfy Protect, caméras vidéo, prises Zigbee.
+Si la box est éloignée, un adaptateur Ethernet optionnel permet aussi une connexion filaire.
 
-## Scénarios automatiques TaHoma
+## Que peut-on piloter avec TaHoma en 2026 ?
 
-**Scénario Départ :** volets fermés, alarme activée, prises inutilisées coupées.
+Avec l’application TaHoma, vous pilotez :
+- les volets roulants extérieurs et intérieurs, les brise-soleil Raffstore, les Zipscreen ;
+- les stores bannes et les pergolas à toile ;
+- les portails et portes de garage motorisés compatibles ;
+- l’alarme et les caméras Somfy ;
+- les prises, ampoules et capteurs Zigbee, par exemple pour suivre la consommation d’énergie.
 
-**Scénario Retour :** portail ouvert, volets salon levés, lumière entrée allumée.
+## Les scénarios automatiques TaHoma
 
-**Scénario Nuit :** volets fermés à 22h30, température nocturne réglée automatiquement.
+**Scénario Départ :** les volets se ferment complètement, l’alarme s’active, les prises inutiles se coupent.
 
-## TaHoma Switch — prix et installation en Roumanie 2026
+**Scénario Retour à la maison :** le portail s’ouvre, les volets du séjour remontent, la lumière de l’entrée s’allume.
 
-Le kit TaHoma Switch (hub + application) commence à **180 EUR**. Configuration complète incluse dans les services Neofort BIZ.
+**Scénario Nuit :** les volets se ferment à l’heure choisie, par exemple 22h30 ; avec un thermostat compatible, la température de nuit se règle aussi.
 
-[Demander un devis TaHoma Switch et automatisation Somfy](/fr/accessoires/automatisation-somfy-volets-pergolas)
+**Scénario Été :** en plein soleil, le capteur Sunis io descend les volets et déploie la toile de la pergola ; par vent fort, le capteur Eolis replie la pergola et les stores bannes.
+
+Tous se lancent d’une touche dans l’application, automatiquement selon l’heure ou les capteurs, ou à la voix : « Alexa, lance Départ ».
+
+## Compatibilité Alexa, Google Home et Apple HomeKit
+
+TaHoma Switch fonctionne avec Amazon Alexa, Google Home et Apple HomeKit. Vous pouvez piloter à la voix chaque volet ou un scénario entier, et sur iPhone utiliser TaHoma aussi depuis l’application Maison.
+
+## Ce qu’il faut pour utiliser TaHoma
+
+- Des moteurs Somfy io (recommandé) ou RTS sur les volets, brise-soleil Raffstore, pergolas ou stores bannes
+- Un réseau Wi-Fi à la maison
+- Votre téléphone avec l’application TaHoma
+
+Si vos volets sont encore manuels, on les motorise d’abord ; les détails sont dans le [guide des moteurs Somfy pour volets](/fr/blog/somfy-moteurs-volets). Pour les pergolas et stores bannes, voir [l’automatisation Somfy pour pergolas](/fr/blog/somfy-automatisation-pergola-store).
+
+## TaHoma Switch — prix et installation en Roumanie en 2026
+
+Le kit TaHoma Switch (boîtier + application) démarre à **180 EUR**, hors TVA. Le paramétrage complet, avec des scénarios personnalisés, est inclus dans les services de Neofort BIZ lorsque nous posons les moteurs Somfy.
+
+- [Demandez un devis pour TaHoma Switch et l’automatisation Somfy](/fr/accessoires/automatisation-somfy-volets-pergolas)
 
 ## Questions fréquentes
 
-### Comment le hub Somfy TaHoma se connecte-t-il dans la maison ?
+### Comment le boîtier Somfy TaHoma se connecte-t-il à la maison ?
 
-TaHoma Switch est le hub central de l'écosystème Somfy — un petit appareil connecté au routeur internet qui permet de contrôler et programmer tous les équipements motorisés de la maison depuis une seule application smartphone. Il fonctionne avec près de 300 types de produits Somfy et partenaires certifiés.
+TaHoma Switch se connecte en Wi-Fi à la box internet, et un adaptateur Ethernet optionnel existe pour les cas où le signal est faible. Il communique avec les équipements par io-homecontrol, RTS et Zigbee 3.0 et les réunit tous dans une seule application sur le téléphone.
 
-### Que puis-je contrôler avec Somfy TaHoma en 2026 ?
+### Que puis-je piloter avec Somfy TaHoma en 2026 ?
 
-Via l'application TaHoma, vous pouvez gérer : volets roulants extérieurs et intérieurs, stores raffstore, stores et pergolas, portails et portes de garage, systèmes d'alarme Somfy Protect, caméras vidéo et prises connectées Zigbee pour le suivi de la consommation d'énergie — le tout au même endroit.
+Les volets roulants extérieurs et intérieurs, les brise-soleil Raffstore, les Zipscreen, les stores bannes et pergolas, les portails et portes de garage compatibles, l’alarme et les caméras Somfy, ainsi que des prises et ampoules Zigbee. Somfy le déclare compatible avec plus de 280 gammes d’équipements.
 
 ### Quels scénarios automatiques Somfy TaHoma peut-il exécuter ?
 
-TaHoma exécute des scénarios d'un tap ou à la voix : Départ (les volets se ferment, l'alarme s'active, les prises s'éteignent), Bienvenue à la maison (le portail s'ouvre, les volets du salon se lèvent, la lumière s'allume) et Nuit (les volets se ferment à 22h30, la température nocturne est réglée automatiquement).
+Par exemple : Départ (les volets se ferment, l’alarme s’active, les prises inutiles se coupent), Retour à la maison (le portail s’ouvre, les volets du séjour remontent), Nuit (les volets se ferment à l’heure choisie) et Été (les volets descendent en plein soleil, la pergola se replie par vent fort).
 
 ### Somfy TaHoma est-il compatible avec Alexa, Google Home et Apple HomeKit ?
 
-Oui. Somfy TaHoma est compatible avec Alexa, Google Home et Apple HomeKit, permettant le contrôle vocal de tous les équipements — par exemple « Alexa, active le départ » déclenche le scénario complet. L'intégration avec les trois écosystèmes principaux fait de TaHoma le centre de la maison connectée.
+Oui. TaHoma Switch fonctionne avec Amazon Alexa, Google Home et Apple HomeKit : vous pouvez piloter à la voix un seul volet ou un scénario entier. Sur iPhone, les équipements apparaissent aussi dans l’application Maison.
+
+### Puis-je intégrer dans TaHoma des volets équipés d’anciens moteurs Somfy ?
+
+Oui, s’il s’agit de moteurs Somfy RTS ou io : TaHoma Switch reconnaît les deux. La différence est que les moteurs io confirment la commande, les moteurs RTS non. Les moteurs d’autres marques ne s’intègrent que s’ils utilisent un protocole compatible, par exemple Zigbee 3.0.
 
 ---
 
-Neofort BIZ intègre volets, stores et pergolas dans les systèmes domotiques TaHoma, à Bucarest et Ilfov. En savoir plus sur [les volets et stores extérieurs](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide complet des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet). Pages utiles : [l'automatisation Somfy pour volets et pergolas](/fr/accessoires/automatisation-somfy-volets-pergolas) et [les stores Zipscreen](/fr/systemes-occultation/zipscreen-store-exterieur).`,
-      es: `## Qué es Somfy TaHoma?
+Neofort BIZ intègre volets roulants, brise-soleil et pergolas dans des systèmes domotiques TaHoma, à Bucarest et dans l’Ilfov. Découvrez les [volets roulants et stores extérieurs](/fr/systemes-occultation) que nous proposons ou [demandez un devis](/fr/contact). Lisez aussi le [guide complet des systèmes d’occultation extérieure](/fr/blog/zipscreen-ombriere-terrasse-guide-complet). Pages utiles : [l’automatisation Somfy des volets et pergolas](/fr/accessoires/automatisation-somfy-volets-pergolas) et [les stores textiles Zipscreen](/fr/systemes-occultation/zipscreen-store-exterieur).`,
+      es: `## ¿Qué es Somfy TaHoma?
 
-TaHoma Switch es el hub central del ecosistema Somfy — un pequeño dispositivo que controla todos los equipos motorizados del hogar desde una única app de smartphone. TaHoma funciona con casi 300 productos Somfy.
+TaHoma Switch es el centro del ecosistema Somfy: un pequeño dispositivo conectado por Wi-Fi al router de casa que permite manejar y programar los equipos motorizados desde una sola aplicación en el móvil. Somfy lo presenta como compatible con más de 280 gamas de equipos, de Somfy y de otras grandes marcas para el hogar.
 
-## Qué puedes controlar con TaHoma en 2026?
+TaHoma Switch habla de forma nativa tres protocolos de radio:
+- **io-homecontrol**: el protocolo de los motores Somfy io, con confirmación de la orden (sabe si la persiana se ha cerrado de verdad);
+- **RTS**: el protocolo anterior de Somfy, así que también puede integrar motores RTS ya instalados;
+- **Zigbee 3.0**: para enchufes, bombillas y sensores inteligentes de otras marcas.
 
-Via la app TaHoma: persianas, estores raffstore, pérgolas y toldos, puertas y garajes, alarmas Somfy Protect, cámaras de video, enchufes Zigbee.
+Si el router está lejos, existe además un adaptador Ethernet opcional para conectarlo por cable.
 
-## Escenarios automáticos TaHoma
+## ¿Qué puede controlar con TaHoma en 2026?
 
-**Escenario Salida:** persianas cerradas, alarma activada, enchufes sin uso apagados.
+Con la aplicación TaHoma puede controlar:
+- persianas exteriores e interiores, celosías Raffstore, Zipscreen;
+- toldos y pérgolas de lona;
+- puertas y portones de garaje motorizados compatibles;
+- la alarma y las cámaras Somfy;
+- enchufes, bombillas y sensores Zigbee, por ejemplo para seguir el consumo de energía.
 
-**Escenario Bienvenida:** puerta abierta, persianas sala subidas, luz de entrada encendida.
+## Escenarios automáticos de TaHoma
 
-**Escenario Noche:** persianas cerradas a las 22:30, temperatura nocturna ajustada automáticamente.
+**Escenario Salida:** las persianas se cierran del todo, la alarma se activa, los enchufes innecesarios se apagan.
 
-## TaHoma Switch — precios e instalación en Rumanía 2026
+**Escenario Bienvenida a casa:** la puerta se abre, las persianas del salón suben, la luz de la entrada se enciende.
 
-El kit TaHoma Switch (hub + app) comienza desde **180 EUR**. Configuración completa incluida en los servicios Neofort BIZ.
+**Escenario Noche:** las persianas se cierran a la hora fijada, por ejemplo a las 22:30; si tiene un termostato compatible, también se ajusta la temperatura de noche.
 
-[Solicitar presupuesto TaHoma Switch y automatización Somfy](/es/accesorios/automatizacion-somfy-persianas-pergolas)
+**Escenario Verano:** con sol intenso, el sensor Sunis io baja las persianas y extiende la lona de la pérgola; con viento fuerte, el sensor Eolis recoge la pérgola y los toldos.
+
+Todos se activan con un toque en la aplicación, automáticamente por horario o sensores, o por voz: «Alexa, activa salida».
+
+## Compatibilidad con Alexa, Google Home y Apple HomeKit
+
+TaHoma Switch funciona con Amazon Alexa, Google Home y Apple HomeKit. Puede manejar por voz cada persiana o un escenario completo, y en el iPhone también puede usar TaHoma desde la aplicación Casa.
+
+## Qué necesita para usar TaHoma
+
+- Motores Somfy io (recomendado) o RTS en persianas, celosías Raffstore, pérgolas o toldos
+- Una red Wi-Fi en casa
+- Su móvil con la aplicación TaHoma
+
+Si las persianas aún son manuales, primero se motorizan; los detalles están en la [guía de motores Somfy para persianas](/es/blog/somfy-motores-persianas). Para pérgolas y toldos, vea [la automatización Somfy para pérgolas](/es/blog/somfy-automatizacion-pergola-toldo).
+
+## TaHoma Switch: precios e instalación en Rumanía en 2026
+
+El kit TaHoma Switch (central + aplicación) parte de **180 EUR**, sin IVA. La configuración completa, con escenarios personalizados, está incluida en los servicios de Neofort BIZ cuando instalamos nosotros los motores Somfy.
+
+- [Solicite un presupuesto de TaHoma Switch y automatización Somfy](/es/accesorios/automatizacion-somfy-persianas-pergolas)
 
 ## Preguntas frecuentes
 
-### ¿Cómo se conecta el hub Somfy TaHoma en casa?
+### ¿Cómo se conecta en casa la central Somfy TaHoma?
 
-TaHoma Switch es el hub central del ecosistema Somfy — un pequeño dispositivo conectado al router de internet que permite controlar y programar todos los equipos motorizados de la casa desde una sola app de smartphone. Funciona con casi 300 tipos de productos Somfy y socios certificados.
+TaHoma Switch se conecta por Wi-Fi al router de casa, y para los casos en que la señal es débil existe un adaptador Ethernet opcional. Se comunica con los equipos mediante io-homecontrol, RTS y Zigbee 3.0 y los reúne todos en una sola aplicación en el móvil.
 
 ### ¿Qué puedo controlar con Somfy TaHoma en 2026?
 
-A través de la app TaHoma puedes gestionar: persianas enrollables exteriores e interiores, persianas raffstore, toldos y pérgolas, puertas y portones de garaje, sistemas de alarma Somfy Protect, cámaras de vídeo y enchufes inteligentes Zigbee para el seguimiento del consumo de energía — todo en un solo lugar.
+Persianas exteriores e interiores, celosías Raffstore, Zipscreen, toldos y pérgolas, puertas y portones de garaje compatibles, la alarma y las cámaras Somfy, además de enchufes y bombillas Zigbee. Somfy lo declara compatible con más de 280 gamas de equipos.
 
 ### ¿Qué escenarios automáticos puede ejecutar Somfy TaHoma?
 
-TaHoma ejecuta escenarios con un toque o por voz: Salida (las persianas se cierran, la alarma se activa, los enchufes se apagan), Bienvenido a casa (el portón se abre, las persianas del salón suben, la luz se enciende) y Noche (las persianas se cierran a las 22:30, la temperatura nocturna se ajusta automáticamente).
+Por ejemplo: Salida (las persianas se cierran, la alarma se activa, los enchufes innecesarios se apagan), Bienvenida a casa (la puerta se abre, las persianas del salón suben), Noche (las persianas se cierran a la hora fijada) y Verano (las persianas bajan con sol intenso, la pérgola se recoge con viento).
 
 ### ¿Es Somfy TaHoma compatible con Alexa, Google Home y Apple HomeKit?
 
-Sí. Somfy TaHoma es compatible con Alexa, Google Home y Apple HomeKit, permitiendo el control por voz de todos los equipos — por ejemplo «Alexa, activa la salida» dispara el escenario completo. La integración con los tres ecosistemas principales hace de TaHoma el centro del hogar inteligente.
+Sí. TaHoma Switch funciona con Amazon Alexa, Google Home y Apple HomeKit, así que puede manejar por voz una sola persiana o un escenario completo. En el iPhone, los equipos aparecen también en la aplicación Casa.
+
+### ¿Puedo integrar en TaHoma persianas con motores Somfy más antiguos?
+
+Sí, si son motores Somfy RTS o io: TaHoma Switch reconoce los dos. La diferencia es que los motores io confirman la orden y los RTS no. Los motores de otras marcas solo se pueden integrar si usan un protocolo compatible, por ejemplo Zigbee 3.0.
 
 ---
 
-Neofort BIZ integra persianas, estores y pérgolas en sistemas smart home TaHoma, en Bucarest e Ilfov. Más información sobre [las persianas y estores exteriores](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa). Páginas útiles: [la automatización Somfy para persianas y pérgolas](/es/accesorios/automatizacion-somfy-persianas-pergolas) y [los toldos Zipscreen](/es/sistemas-sombreado/zipscreen-toldo-exterior).`,
-      it: `## Cos'è Somfy TaHoma?
+Neofort BIZ integra persianas, celosías y pérgolas en sistemas domóticos TaHoma, en Bucarest e Ilfov. Conozca las [persianas y celosías exteriores](/es/sistemas-sombreado) que ofrecemos o [solicite un presupuesto](/es/contacto). Lea también la [guía completa de los sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa). Páginas útiles: [la automatización Somfy para persianas y pérgolas](/es/accesorios/automatizacion-somfy-persianas-pergolas) y [los estores textiles Zipscreen](/es/sistemas-sombreado/zipscreen-toldo-exterior).`,
+      it: `## Che cos’è Somfy TaHoma?
 
-TaHoma Switch è l'hub centrale dell'ecosistema Somfy — un piccolo dispositivo che controlla tutti i dispositivi motorizzati della casa da un'unica app smartphone. TaHoma funziona con quasi 300 prodotti Somfy.
+TaHoma Switch è il centro dell’ecosistema Somfy: un piccolo dispositivo collegato via Wi-Fi al router di casa che permette di comandare e programmare i dispositivi motorizzati da un’unica app sullo smartphone. Somfy lo presenta come compatibile con oltre 280 gamme di dispositivi, di Somfy e di altri grandi marchi per la casa.
 
-## Cosa puoi controllare con TaHoma nel 2026?
+TaHoma Switch parla nativamente tre protocolli radio:
+- **io-homecontrol**: il protocollo dei motori Somfy io, con conferma del comando (sapete se la tapparella si è chiusa davvero);
+- **RTS**: il protocollo Somfy precedente, così potete integrare anche i motori RTS già installati;
+- **Zigbee 3.0**: per prese, lampadine e sensori intelligenti di altri marchi.
 
-Tramite l'app TaHoma: tapparelle, veneziane raffstore, pergole e tende, cancelli e garage, allarmi Somfy Protect, telecamere, prese Zigbee.
+Se il router è lontano, esiste anche un adattatore Ethernet opzionale per il collegamento via cavo.
 
-## Scenari automatici TaHoma
+## Cosa si può comandare con TaHoma nel 2026?
 
-**Scenario Partenza:** tapparelle chiuse, allarme attivato, prese inutilizzate spente.
+Con l’app TaHoma potete comandare:
+- tapparelle esterne e interne, veneziane Raffstore, Zipscreen;
+- tende da sole e pergole con telo;
+- cancelli e porte da garage motorizzati compatibili;
+- l’allarme e le telecamere Somfy;
+- prese, lampadine e sensori Zigbee, per esempio per monitorare i consumi di energia.
 
-**Scenario Benvenuto a casa:** cancello aperto, tapparelle salotto alzate, luce ingresso accesa.
+## Gli scenari automatici di TaHoma
 
-**Scenario Notte:** tapparelle chiuse alle 22:30, temperatura notturna impostata automaticamente.
+**Scenario Uscita:** le tapparelle si chiudono del tutto, l’allarme si attiva, le prese inutili si spengono.
 
-## TaHoma Switch — prezzi e installazione in Romania 2026
+**Scenario Bentornati a casa:** il cancello si apre, le tapparelle del soggiorno salgono, la luce dell’ingresso si accende.
 
-Il kit TaHoma Switch (hub + app) parte da **180 EUR**. Configurazione completa inclusa nei servizi Neofort BIZ.
+**Scenario Notte:** le tapparelle si chiudono all’ora impostata, per esempio alle 22:30; con un termostato compatibile si imposta anche la temperatura notturna.
 
-[Richiedere preventivo TaHoma Switch e automazione Somfy](/it/accessori/automazione-somfy-tapparelle-pergole)
+**Scenario Estate:** con il sole forte, il sensore Sunis io abbassa le tapparelle e stende il telo della pergola; con il vento forte, il sensore Eolis ritira la pergola e le tende da sole.
+
+Tutti si attivano con un tocco nell’app, automaticamente in base all’orario o ai sensori, oppure a voce: «Alexa, avvia Uscita».
+
+## Compatibilità con Alexa, Google Home e Apple HomeKit
+
+TaHoma Switch funziona con Amazon Alexa, Google Home e Apple HomeKit. Potete comandare a voce ogni tapparella o un intero scenario, e su iPhone potete usare TaHoma anche dall’app Casa.
+
+## Cosa serve per usare TaHoma
+
+- Motori Somfy io (consigliati) o RTS su tapparelle, veneziane Raffstore, pergole o tende da sole
+- Una rete Wi-Fi in casa
+- Lo smartphone con l’app TaHoma
+
+Se le tapparelle sono ancora manuali, prima si motorizzano; i dettagli sono nella [guida ai motori Somfy per tapparelle](/it/blog/somfy-motori-tapparelle). Per pergole e tende da sole, vedete [l’automazione Somfy per pergole](/it/blog/somfy-automazione-pergola-tenda).
+
+## TaHoma Switch: prezzi e installazione in Romania nel 2026
+
+Il kit TaHoma Switch (centrale + app) parte da **180 EUR**, IVA esclusa. La configurazione completa, con scenari personalizzati, è inclusa nei servizi di Neofort BIZ quando installiamo noi i motori Somfy.
+
+- [Richiedete un preventivo per TaHoma Switch e l’automazione Somfy](/it/accessori/automazione-somfy-tapparelle-pergole)
 
 ## Domande frequenti
 
-### Come si collega l'hub Somfy TaHoma in casa?
+### Come si collega in casa la centrale Somfy TaHoma?
 
-TaHoma Switch è l'hub centrale dell'ecosistema Somfy — un piccolo dispositivo collegato al router internet che permette di controllare e programmare tutti gli apparecchi motorizzati della casa da una sola app per smartphone. Funziona con quasi 300 tipi di prodotti Somfy e partner certificati.
+TaHoma Switch si collega via Wi-Fi al router di casa, e per i casi in cui il segnale è debole esiste un adattatore Ethernet opzionale. Comunica con i dispositivi tramite io-homecontrol, RTS e Zigbee 3.0 e li riunisce tutti in un’unica app sullo smartphone.
 
-### Cosa posso controllare con Somfy TaHoma nel 2026?
+### Cosa posso comandare con Somfy TaHoma nel 2026?
 
-Tramite l'app TaHoma puoi gestire: tapparelle esterne e interne, tende raffstore, tende da sole e pergole, cancelli e porte da garage, sistemi di allarme Somfy Protect, videocamere e prese intelligenti Zigbee per il monitoraggio del consumo energetico — tutto da un unico posto.
+Tapparelle esterne e interne, veneziane Raffstore, Zipscreen, tende da sole e pergole, cancelli e porte da garage compatibili, l’allarme e le telecamere Somfy, oltre a prese e lampadine Zigbee. Somfy lo dichiara compatibile con oltre 280 gamme di dispositivi.
 
 ### Quali scenari automatici può eseguire Somfy TaHoma?
 
-TaHoma esegue scenari con un tocco o a voce: Uscita (le tapparelle si chiudono, l'allarme si attiva, le prese si spengono), Bentornato a casa (il cancello si apre, le tapparelle del soggiorno si alzano, la luce si accende) e Notte (le tapparelle si chiudono alle 22:30, la temperatura notturna si imposta automaticamente).
+Per esempio: Uscita (le tapparelle si chiudono, l’allarme si attiva, le prese inutili si spengono), Bentornati a casa (il cancello si apre, le tapparelle del soggiorno salgono), Notte (le tapparelle si chiudono all’ora impostata) ed Estate (le tapparelle scendono con il sole forte, la pergola si ritira con il vento).
 
 ### Somfy TaHoma è compatibile con Alexa, Google Home e Apple HomeKit?
 
-Sì. Somfy TaHoma è compatibile con Alexa, Google Home e Apple HomeKit, permettendo il controllo vocale di tutti gli apparecchi — ad esempio "Alexa, attiva l'uscita" avvia lo scenario completo. L'integrazione con i tre ecosistemi principali rende TaHoma il centro della casa intelligente.
+Sì. TaHoma Switch funziona con Amazon Alexa, Google Home e Apple HomeKit, quindi potete comandare a voce una singola tapparella o un intero scenario. Su iPhone, i dispositivi compaiono anche nell’app Casa.
+
+### Posso integrare in TaHoma tapparelle con motori Somfy più vecchi?
+
+Sì, se sono motori Somfy RTS o io: TaHoma Switch li riconosce entrambi. La differenza è che i motori io confermano il comando e quelli RTS no. I motori di altri marchi si possono integrare solo se usano un protocollo compatibile, per esempio Zigbee 3.0.
 
 ---
 
-Neofort BIZ integra tapparelle, veneziane e pergole in sistemi smart home TaHoma, a Bucarest e Ilfov. Scopri di più sulle [tapparelle e veneziane esterne](/it/sistemi-oscuramento) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida completa ai sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa). Pagine utili: [l'automazione Somfy per tapparelle e pergole](/it/accessori/automazione-somfy-tapparelle-pergole) e [le tende Zipscreen](/it/sistemi-oscuramento/zipscreen-tenda-esterna).`,
+Neofort BIZ integra tapparelle, veneziane e pergole in sistemi domotici TaHoma, a Bucarest e Ilfov. Scoprite le [tapparelle e le veneziane esterne](/it/sistemi-oscuramento) che offriamo o [richiedete un preventivo](/it/contatti). Leggete anche la [guida completa ai sistemi di oscuramento esterno](/it/blog/zipscreen-ombreggiatura-terrazza-guida-completa). Pagine utili: [l’automazione Somfy per tapparelle e pergole](/it/accessori/automazione-somfy-tapparelle-pergole) e [le tende tecniche Zipscreen](/it/sistemi-oscuramento/zipscreen-tenda-esterna).`,
     },
     keywords: 'Somfy TaHoma, TaHoma Switch, smart home Somfy Romania, casa inteligenta Somfy, control vocal rulouri, Alexa Somfy, Google Home Somfy, automatizare casa Bucuresti, TaHoma pret Romania',
     dateDisplay: {
