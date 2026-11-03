@@ -113,13 +113,13 @@ Suprafață vitrată: 18 m² | ΔT = 20°C | Ore sezon rece: 3.500 h
 
 | Tip ferestre | Uw | Q anual (kWh) | Cost anual* |
 |---|---|---|---|
-| Ferestre vechi simple | 4,8 | 6.048 | ~3.629 lei |
-| Dublu vechi standard | 2,0 | 2.520 | ~1.512 lei |
-| Dublu modern | 1,2 | 1.512 | ~907 lei |
-| **nZEB triplu recomandat** | **0,72** | **907** | **~544 lei** |
-| Casă pasivă premium | 0,55 | 693 | ~416 lei |
+| Ferestre vechi simple | 4,8 | 6.048 | ~726 EUR |
+| Dublu vechi standard | 2,0 | 2.520 | ~302 EUR |
+| Dublu modern | 1,2 | 1.512 | ~181 EUR |
+| **nZEB triplu recomandat** | **0,72** | **907** | **~109 EUR** |
+| Casă pasivă premium | 0,55 | 693 | ~83 EUR |
 
-*Preț energie 0,60 lei/kWh (2026)
+*Preț energie 0,12 EUR/kWh (2026)
 
 ## Secțiunea 2 — Tipuri de profile recomandate pentru nZEB
 
@@ -185,21 +185,26 @@ Cel mai performant profil își pierde o parte din performanță dacă rostul di
 
 ## Secțiunea 5 — Costuri reale 2026
 
-| Tip | Dimensiune | Profil | Preț orientativ |
-|---|---|---|---|
-| Fereastră oscilo-batantă | 80×120 cm | bluEvolution 92, triplu | 1.450-1.800 lei |
-| Fereastră oscilo-batantă | 100×150 cm | bluEvolution 92, triplu | 1.800-2.200 lei |
-| Fereastră dublă | 150×120 cm | bluEvolution 92, triplu | 2.800-3.500 lei |
-| Culisantă aluminiu | 200×230 cm | Alumil Smartia, triplu | 4.500-6.000 lei |
+### Prețuri orientative pe metru pătrat
 
-*Fără TVA, montaj standard fără precadre
-
-### Calculul amortizării — casă 120 m²
-
-| Investiție suplimentară | Economie anuală | Amortizare |
+| Sistem | Material | Preț orientativ |
 |---|---|---|
-| +15.000 lei (triplu vs dublu, 12 ferestre) | 968 lei/an | ~15 ani |
-| +3.500 lei (precadre Blaugelb, 12 buc) | +350 lei/an | ~10 ani |
+| Salamander bluEvolution 92 FLEX | PVC | 200–280 EUR/mp |
+| Salamander bluEvolution 92 ROUND | PVC | 205–285 EUR/mp |
+| Salamander bluEvolution 92 ALU (placat cu aluminiu) | PVC | 250–350 EUR/mp |
+| Alumil Smartia S67 | Aluminiu | 250–350 EUR/mp |
+| Alumil Supreme S77 | Aluminiu | 350–480 EUR/mp |
+| Alumil S350 Smartia (glisant) | Aluminiu | 400–550 EUR/mp |
+
+*Prețuri fără TVA, ca pe paginile de prețuri. La PVC includ profilul, feroneria standard și geamul dublu, iar montajul se adaugă separat; la aluminiu includ geamul termopan și montajul.
+
+### Costuri suplimentare pentru o fereastră nZEB
+
+| Opțiune | Cost orientativ |
+|---|---|
+| Geam triplu Low-E în loc de geam dublu | +40–80 EUR/mp de vitrare |
+| Montaj nZEB cu precadre Blaugelb Triotherm+ și benzi | +25–50 EUR/ml (PVC), +30–60 EUR/ml (aluminiu) |
+| Distanțier Warm Edge | la cerere, cost separat în ofertă |
 
 ## FAQ complet — Ferestre nZEB România
 
@@ -391,35 +396,26 @@ Even the best profile loses part of its performance if the joint between frame a
 
 ## Section 5 — Real 2026 Costs
 
-### Indicative nZEB Window Prices (including installation)
+### Indicative prices per square metre
 
-| Type | Size | Profile | Price |
-|---|---|---|---|
-| Tilt-and-turn window | 80×120 cm | Salamander bluEvolution 92, triple | €290-360 |
-| Tilt-and-turn window | 100×150 cm | Salamander bluEvolution 92, triple | €360-440 |
-| Double tilt-and-turn window | 150×120 cm | Salamander bluEvolution 92, triple | €560-700 |
-| Aluminium sliding | 200×230 cm | Alumil Smartia, triple | €900-1,200 |
-| Entrance door | 90×210 cm | Salamander SF85, triple | €700-1,000 |
+| System | Material | Indicative price |
+|---|---|---|
+| Salamander bluEvolution 92 FLEX | PVC | 200–280 EUR/m² |
+| Salamander bluEvolution 92 ROUND | PVC | 205–285 EUR/m² |
+| Salamander bluEvolution 92 ALU (aluminium-clad) | PVC | 250–350 EUR/m² |
+| Alumil Smartia S67 | Aluminium | 250–350 EUR/m² |
+| Alumil Supreme S77 | Aluminium | 350–480 EUR/m² |
+| Alumil S350 Smartia (sliding) | Aluminium | 400–550 EUR/m² |
 
-*VAT excluded, standard installation (without preframes)
+*Prices excluding VAT, as on the price pages. For PVC they include the profile, standard hardware and double glazing, with installation added separately; for aluminium they include the insulating glass and installation.
 
-### Additional Optional Costs
+### Extra costs for an nZEB window
 
 | Option | Indicative cost |
 |---|---|
-| Blaugelb Triotherm+ preframes | €50-80/unit |
-| nZEB installation with pre-compressed bands | +€60-90/window |
-| Warm Edge spacer (vs standard) | on request, quoted separately (chosen by about 90% of customers) |
-| Exterior aluminium sills (ml) | €24-40/ml |
-| Interior PVC sills (ml) | €16-30/ml |
-
-### Amortisation Calculation for a 120 m² House
-
-| Additional investment vs standard double | Annual saving | Payback |
-|---|---|---|
-| +€3,000 (triple vs double, 12 windows) | €194/year | ~15 years |
-| +€700 (Blaugelb preframes, 12 units) | +€70/year additional | ~10 years |
-| +€1,000 (nZEB installation with bands) | Structural protection | Indirect (20+ year durability) |
+| Triple Low-E glazing instead of double glazing | +40–80 EUR/m² of glazing |
+| nZEB installation with Blaugelb Triotherm+ precasings and tapes | +25–50 EUR/lm (PVC), +30–60 EUR/lm (aluminium) |
+| Warm Edge spacer | on request, priced separately in the quote |
 
 ## Complete FAQ — nZEB Windows Romania
 
@@ -601,24 +597,26 @@ Selbst das beste Profil verliert einen Teil seiner Leistung, wenn die Fuge zwisc
 
 ## Abschnitt 5 — Reale Kosten 2026
 
-### Richtpreise nZEB-Fenster (inkl. Montage)
+### Richtpreise pro Quadratmeter
 
-| Typ | Größe | Profil | Preis |
-|---|---|---|---|
-| Dreh-Kipp-Fenster | 80×120 cm | Salamander bluEvolution 92, Dreifach | 290-360 € |
-| Dreh-Kipp-Fenster | 100×150 cm | Salamander bluEvolution 92, Dreifach | 360-440 € |
-| Zweiflügliges Fenster | 150×120 cm | Salamander bluEvolution 92, Dreifach | 560-700 € |
-| Aluminium-Schiebetür | 200×230 cm | Alumil Smartia, Dreifach | 900-1.200 € |
-| Haustür | 90×210 cm | Salamander SF85, Dreifach | 700-1.000 € |
-
-*Ohne MwSt., Standardmontage ohne Vorblendrahmen
-
-### Amortisierungsberechnung für ein 120 m² Haus
-
-| Zusatzinvestition gegenüber Standard-Zweifach | Jährliche Einsparung | Amortisierung |
+| System | Material | Richtpreis |
 |---|---|---|
-| +3.000 € (Dreifach vs Zweifach, 12 Fenster) | 194 €/Jahr | ~15 Jahre |
-| +700 € (Blaugelb Vorblendrahmen, 12 Stück) | +70 €/Jahr zusätzlich | ~10 Jahre |
+| Salamander bluEvolution 92 FLEX | PVC | 200–280 EUR/m² |
+| Salamander bluEvolution 92 ROUND | PVC | 205–285 EUR/m² |
+| Salamander bluEvolution 92 ALU (aluminiumverkleidet) | PVC | 250–350 EUR/m² |
+| Alumil Smartia S67 | Aluminium | 250–350 EUR/m² |
+| Alumil Supreme S77 | Aluminium | 350–480 EUR/m² |
+| Alumil S350 Smartia (Schiebeelement) | Aluminium | 400–550 EUR/m² |
+
+*Preise ohne MwSt., wie auf den Preisseiten. Bei PVC enthalten sie Profil, Standardbeschlag und Zweifachverglasung, die Montage kommt separat hinzu; bei Aluminium enthalten sie Isolierglas und Montage.
+
+### Mehrkosten für ein nZEB-Fenster
+
+| Option | Richtwert |
+|---|---|
+| Dreifach-Low-E-Glas statt Zweifachglas | +40–80 EUR/m² Glasfläche |
+| nZEB-Montage mit Blaugelb Triotherm+ Vorblendrahmen und Bändern | +25–50 EUR/lfm (PVC), +30–60 EUR/lfm (Aluminium) |
+| Warm-Edge-Abstandhalter | auf Anfrage, im Angebot separat berechnet |
 
 ## Vollständiges FAQ — nZEB-Fenster Rumänien
 
@@ -801,24 +799,26 @@ Même le meilleur profilé perd une partie de sa performance si le joint entre d
 
 ## Section 5 — Coûts réels 2026
 
-### Prix indicatifs fenêtres nZEB (pose incluse)
+### Prix indicatifs au mètre carré
 
-| Type | Dimension | Profilé | Prix |
-|---|---|---|---|
-| Fenêtre oscillo-battante | 80×120 cm | Salamander bluEvolution 92, triple | 290-360 € |
-| Fenêtre oscillo-battante | 100×150 cm | Salamander bluEvolution 92, triple | 360-440 € |
-| Fenêtre double vantail | 150×120 cm | Salamander bluEvolution 92, triple | 560-700 € |
-| Coulissant aluminium | 200×230 cm | Alumil Smartia, triple | 900-1 200 € |
-| Porte d'entrée | 90×210 cm | Salamander SF85, triple | 700-1 000 € |
-
-*Hors TVA, pose standard sans précadres
-
-### Calcul d'amortissement pour une maison de 120 m²
-
-| Investissement supplémentaire vs double standard | Économie annuelle | Amortissement |
+| Système | Matériau | Prix indicatif |
 |---|---|---|
-| +3 000 € (triple vs double, 12 fenêtres) | 194 €/an | ~15 ans |
-| +700 € (précadres Blaugelb, 12 unités) | +70 €/an supplémentaire | ~10 ans |
+| Salamander bluEvolution 92 FLEX | PVC | 200–280 EUR/m² |
+| Salamander bluEvolution 92 ROUND | PVC | 205–285 EUR/m² |
+| Salamander bluEvolution 92 ALU (capotage aluminium) | PVC | 250–350 EUR/m² |
+| Alumil Smartia S67 | Aluminium | 250–350 EUR/m² |
+| Alumil Supreme S77 | Aluminium | 350–480 EUR/m² |
+| Alumil S350 Smartia (coulissant) | Aluminium | 400–550 EUR/m² |
+
+*Prix hors TVA, comme sur les pages de prix. En PVC, ils comprennent le profilé, la quincaillerie standard et le double vitrage, la pose s’ajoutant à part ; en aluminium, ils comprennent le vitrage isolant et la pose.
+
+### Surcoûts pour une fenêtre nZEB
+
+| Option | Coût indicatif |
+|---|---|
+| Triple vitrage Low-E au lieu du double vitrage | +40–80 EUR/m² de vitrage |
+| Pose nZEB avec précadres Blaugelb Triotherm+ et bandes | +25–50 EUR/ml (PVC), +30–60 EUR/ml (aluminium) |
+| Intercalaire Warm Edge | sur demande, chiffré à part dans le devis |
 
 ## FAQ complet — Fenêtres nZEB Roumanie
 
@@ -1001,24 +1001,26 @@ Incluso el mejor perfil pierde parte de su rendimiento si la junta entre marco y
 
 ## Sección 5 — Costes reales 2026
 
-### Precios orientativos ventanas nZEB (instalación incluida)
+### Precios orientativos por metro cuadrado
 
-| Tipo | Dimensión | Perfil | Precio |
-|---|---|---|---|
-| Ventana oscilo-batiente | 80×120 cm | Salamander bluEvolution 92, triple | 290-360 € |
-| Ventana oscilo-batiente | 100×150 cm | Salamander bluEvolution 92, triple | 360-440 € |
-| Ventana doble hoja | 150×120 cm | Salamander bluEvolution 92, triple | 560-700 € |
-| Corredera aluminio | 200×230 cm | Alumil Smartia, triple | 900-1.200 € |
-| Puerta de entrada | 90×210 cm | Salamander SF85, triple | 700-1.000 € |
-
-*Sin IVA, instalación estándar sin premarcos
-
-### Cálculo de amortización para una casa de 120 m²
-
-| Inversión adicional vs doble estándar | Ahorro anual | Amortización |
+| Sistema | Material | Precio orientativo |
 |---|---|---|
-| +3.000 € (triple vs doble, 12 ventanas) | 194 €/año | ~15 años |
-| +700 € (premarcos Blaugelb, 12 unidades) | +70 €/año adicional | ~10 años |
+| Salamander bluEvolution 92 FLEX | PVC | 200–280 EUR/m² |
+| Salamander bluEvolution 92 ROUND | PVC | 205–285 EUR/m² |
+| Salamander bluEvolution 92 ALU (revestido de aluminio) | PVC | 250–350 EUR/m² |
+| Alumil Smartia S67 | Aluminio | 250–350 EUR/m² |
+| Alumil Supreme S77 | Aluminio | 350–480 EUR/m² |
+| Alumil S350 Smartia (corredera) | Aluminio | 400–550 EUR/m² |
+
+*Precios sin IVA, como en las páginas de precios. En PVC incluyen el perfil, los herrajes estándar y el doble acristalamiento, y la instalación se suma aparte; en aluminio incluyen el vidrio aislante y la instalación.
+
+### Costes adicionales para una ventana nZEB
+
+| Opción | Coste orientativo |
+|---|---|
+| Triple vidrio Low-E en lugar de doble vidrio | +40–80 EUR/m² de acristalamiento |
+| Montaje nZEB con premarcos Blaugelb Triotherm+ y cintas | +25–50 EUR/ml (PVC), +30–60 EUR/ml (aluminio) |
+| Separador Warm Edge | bajo pedido, presupuestado aparte |
 
 ## FAQ completo — Ventanas nZEB Rumanía
 
@@ -1201,24 +1203,26 @@ Anche il miglior profilo perde parte della sua prestazione se il giunto tra tela
 
 ## Sezione 5 — Costi reali 2026
 
-### Prezzi indicativi finestre nZEB (installazione inclusa)
+### Prezzi indicativi al metro quadro
 
-| Tipo | Dimensione | Profilo | Prezzo |
-|---|---|---|---|
-| Finestra anta-ribalta | 80×120 cm | Salamander bluEvolution 92, triplo | 290-360 € |
-| Finestra anta-ribalta | 100×150 cm | Salamander bluEvolution 92, triplo | 360-440 € |
-| Finestra doppio anta | 150×120 cm | Salamander bluEvolution 92, triplo | 560-700 € |
-| Scorrevole alluminio | 200×230 cm | Alumil Smartia, triplo | 900-1.200 € |
-| Porta d'ingresso | 90×210 cm | Salamander SF85, triplo | 700-1.000 € |
-
-*IVA esclusa, installazione standard senza controtelai
-
-### Calcolo dell'ammortamento per una casa di 120 m²
-
-| Investimento aggiuntivo vs doppio standard | Risparmio annuo | Ammortamento |
+| Sistema | Materiale | Prezzo indicativo |
 |---|---|---|
-| +3.000 € (triplo vs doppio, 12 finestre) | 194 €/anno | ~15 anni |
-| +700 € (controtelai Blaugelb, 12 unità) | +70 €/anno aggiuntivo | ~10 anni |
+| Salamander bluEvolution 92 FLEX | PVC | 200–280 EUR/m² |
+| Salamander bluEvolution 92 ROUND | PVC | 205–285 EUR/m² |
+| Salamander bluEvolution 92 ALU (rivestito in alluminio) | PVC | 250–350 EUR/m² |
+| Alumil Smartia S67 | Alluminio | 250–350 EUR/m² |
+| Alumil Supreme S77 | Alluminio | 350–480 EUR/m² |
+| Alumil S350 Smartia (scorrevole) | Alluminio | 400–550 EUR/m² |
+
+*Prezzi IVA esclusa, come nelle pagine dei prezzi. Per il PVC comprendono profilo, ferramenta standard e doppio vetro, con la posa a parte; per l’alluminio comprendono vetrocamera e posa.
+
+### Costi aggiuntivi per una finestra nZEB
+
+| Opzione | Costo indicativo |
+|---|---|
+| Triplo vetro Low-E al posto del doppio vetro | +40–80 EUR/m² di vetrata |
+| Posa nZEB con controtelai Blaugelb Triotherm+ e nastri | +25–50 EUR/ml (PVC), +30–60 EUR/ml (alluminio) |
+| Distanziale Warm Edge | su richiesta, quotato a parte nel preventivo |
 
 ## FAQ completo — Finestre nZEB Romania
 
@@ -4586,26 +4590,21 @@ Regulamentul RAL pentru montajul profesional de ferestre definește 3 zone de et
 
 ## Calculul economic: cât costă și cât economisești
 
-**Cost orientativ sistem nZEB complet (fereastră 100×120 cm, inclusiv montaj):**
+**Cost orientativ al unei ferestre nZEB (fără TVA, ca pe paginile de prețuri):**
 
 | Componentă | Cost orientativ |
 |---|---|
-| Profil Salamander bluEvolution 92 | 1.100-1.400 lei |
-| Geam triplu + Warm Edge | geamul triplu inclus; Warm Edge la cerere, cost separat |
-| Precadru Blaugelb Triotherm+ | 250-350 lei/buc |
-| Montaj profesional cu benzi precomprimate | 300-450 lei |
-| **Total fereastră 100×120 cm nZEB** | **1.650-2.200 lei** |
+| Fereastră Salamander bluEvolution 92 (profil, feronerie, geam dublu) | 200–285 EUR/mp |
+| Geam triplu Low-E în loc de geam dublu | +40–80 EUR/mp de vitrare |
+| Distanțier Warm Edge | la cerere, cost separat în ofertă |
+| Montaj nZEB cu precadre Blaugelb Triotherm+ și benzi | +25–50 EUR/ml de perimetru |
+| Montaj standard | separat, în ofertă |
 
-**Față de fereastră standard (geam dublu, fără precadru):** 900-1.200 lei
+**Exemplu:** o fereastră de 1,0 × 1,2 m (1,2 mp și 4,4 m de perimetru) costă orientativ 240–340 EUR cu geam dublu. Geamul triplu adaugă circa 50–100 EUR, iar montajul cu precadre circa 110–220 EUR.
 
-**Economia anuală de energie (calcul pentru apartament 80 m², 10 ferestre):**
-- Ferestre standard: pierderi termice estimat 2.800 kWh/an
-- Ferestre nZEB complete: pierderi termice estimat 980 kWh/an
-- Diferență: −1.820 kWh/an → economie ~550-700 lei/an la prețurile actuale ale energiei
+**Economia de energie** depinde de suprafața vitrată, de ferestrele pe care le înlocuiești și de prețul energiei, așa că o calculăm pe fiecare casă, din planuri.
 
-**Amortizarea investiției suplimentare** (diferența ~7.000 lei pentru 10 ferestre): 10-13 ani.
-
-Pe lângă amortizarea financiară, sistemul nZEB îmbunătățește semnificativ confortul termic (fără zone reci lângă ferestre, fără condens), reduce zgomotul și menține valoarea proprietății în conformitate cu reglementările energetice în vigoare.
+Pe lângă economie, sistemul nZEB îmbunătățește confortul termic (fără zone reci lângă ferestre și cu risc mult mai mic de condens), reduce zgomotul și ajută clădirea să respecte cerințele energetice în vigoare.
 
 ## Procedura de montaj nZEB pas cu pas
 
@@ -4631,7 +4630,7 @@ Un sistem nZEB înseamnă fiecare componentă selectată împreună: profil Sala
 
 ### La ce folosește precadrul Blaugelb Triotherm+?
 
-Precadrul Blaugelb Triotherm+ rezolvă puntea termică la perimetrul ferestrei — zona de contact dintre toc și zidărie, pe care niciun profil performant nu o poate rezolva singur. Se instalează în planul de izolație al peretelui și costă 250-350 lei/bucată.
+Precadrul Blaugelb Triotherm+ rezolvă puntea termică la perimetrul ferestrei — zona de contact dintre toc și zidărie, pe care niciun profil performant nu o poate rezolva singur. Se instalează în planul de izolație al peretelui și costă în plus 25–50 EUR pe metru liniar de perimetru la PVC, fără TVA.
 
 ### Ce coeficient Ug are geamul triplu Saint-Gobain pentru nZEB?
 
@@ -4734,26 +4733,21 @@ The RAL guideline for professional window installation defines 3 sealing zones:
 
 ## The economics: what it costs and what you save
 
-**Indicative cost of a complete nZEB system (100 × 120 cm window, installation included):**
+**Indicative cost of an nZEB window (excluding VAT, as on the price pages):**
 
 | Component | Indicative cost |
 |---|---|
-| Salamander bluEvolution 92 profile | 1,100–1,400 lei |
-| Triple glazing with Warm Edge | triple glazing included; Warm Edge on request, extra cost |
-| Blaugelb Triotherm+ precasing | 250–350 lei each |
-| Professional installation with pre-compressed tapes | 300–450 lei |
-| **Total, 100 × 120 cm nZEB window** | **1,650–2,200 lei** |
+| Salamander bluEvolution 92 window (profile, hardware, double glazing) | 200–285 EUR/m² |
+| Triple Low-E glazing instead of double glazing | +40–80 EUR/m² of glazing |
+| Warm Edge spacer | on request, priced separately in the quote |
+| nZEB installation with Blaugelb Triotherm+ precasings and tapes | +25–50 EUR per linear metre of perimeter |
+| Standard installation | separate, in the quote |
 
-**Against a standard window (double glazing, no precasing):** 900–1,200 lei
+**Example:** a 1.0 × 1.2 m window (1.2 m² and 4.4 m of perimeter) costs an indicative 240–340 EUR with double glazing. Triple glazing adds about 50–100 EUR, and installation with precasings about 110–220 EUR.
 
-**Annual energy saving (calculation for an 80 sqm apartment, 10 windows):**
-- Standard windows: estimated heat loss 2,800 kWh/year
-- Complete nZEB windows: estimated heat loss 980 kWh/year
-- Difference: −1,820 kWh/year → a saving of roughly 550–700 lei/year at current energy prices
+**The energy saving** depends on the glazed area, the windows you replace and the price of energy, so we calculate it for each house, from the drawings.
 
-**Payback on the additional investment** (a difference of about 7,000 lei for 10 windows): 10–13 years.
-
-Beyond the financial payback, the nZEB system markedly improves thermal comfort (no cold zones beside the windows, no condensation), reduces noise and keeps the property in line with the energy regulations in force.
+Beyond the saving, the nZEB system improves thermal comfort (no cold zones next to the windows and a much lower risk of condensation), reduces noise and helps the building meet current energy requirements.
 
 ## The nZEB installation procedure, step by step
 
@@ -4779,7 +4773,7 @@ An nZEB system means every component selected together: the Salamander bluEvolut
 
 ### What is the Blaugelb Triotherm+ precasing for?
 
-The Blaugelb Triotherm+ precasing solves the thermal bridge at the window perimeter — the contact zone between frame and masonry, which no high-performance profile can solve on its own. It is installed in the plane of the wall insulation and costs 250–350 lei each.
+The Blaugelb Triotherm+ precasing solves the thermal bridge at the window perimeter — the contact zone between frame and masonry, which no high-performance profile can solve on its own. It is installed in the plane of the wall insulation and costs an extra 25–50 EUR per linear metre of perimeter for PVC, excluding VAT.
 
 ### What Ug does the Saint-Gobain triple glazing achieve for nZEB?
 
@@ -4881,26 +4875,21 @@ Die RAL-Richtlinie für die fachgerechte Fenstermontage definiert 3 Dichtebenen:
 
 ## Die Wirtschaftlichkeit: was es kostet und was Sie sparen
 
-**Richtkosten für ein komplettes nZEB-System (Fenster 100 × 120 cm, Montage inbegriffen):**
+**Richtkosten eines nZEB-Fensters (ohne MwSt., wie auf den Preisseiten):**
 
-| Komponente | Richtkosten |
+| Bestandteil | Richtwert |
 |---|---|
-| Profil Salamander bluEvolution 92 | 1.100–1.400 Lei |
-| Dreifachglas mit Warm Edge | Dreifachglas enthalten; Warm Edge auf Anfrage, Aufpreis |
-| Blaugelb Triotherm+ Vorblendrahmen | 250–350 Lei je Stück |
-| Fachgerechte Montage mit vorkomprimierten Bändern | 300–450 Lei |
-| **Gesamt, nZEB-Fenster 100 × 120 cm** | **1.650–2.200 Lei** |
+| Fenster Salamander bluEvolution 92 (Profil, Beschlag, Zweifachglas) | 200–285 EUR/m² |
+| Dreifach-Low-E-Glas statt Zweifachglas | +40–80 EUR/m² Glasfläche |
+| Warm-Edge-Abstandhalter | auf Anfrage, im Angebot separat berechnet |
+| nZEB-Montage mit Blaugelb Triotherm+ Vorblendrahmen und Bändern | +25–50 EUR pro laufendem Meter Umfang |
+| Standardmontage | separat, im Angebot |
 
-**Gegenüber einem Standardfenster (Zweifachglas, ohne Vorblendrahmen):** 900–1.200 Lei
+**Beispiel:** Ein Fenster von 1,0 × 1,2 m (1,2 m² und 4,4 m Umfang) kostet als Richtwert 240–340 EUR mit Zweifachglas. Das Dreifachglas kommt mit etwa 50–100 EUR hinzu, die Montage mit Vorblendrahmen mit etwa 110–220 EUR.
 
-**Jährliche Energieeinsparung (Rechnung für eine Wohnung mit 80 m², 10 Fenster):**
-- Standardfenster: geschätzte Wärmeverluste 2.800 kWh/Jahr
-- Komplette nZEB-Fenster: geschätzte Wärmeverluste 980 kWh/Jahr
-- Differenz: −1.820 kWh/Jahr → Einsparung von rund 550–700 Lei/Jahr bei den aktuellen Energiepreisen
+**Die Energieeinsparung** hängt von der Glasfläche, den ersetzten Fenstern und dem Energiepreis ab, deshalb berechnen wir sie für jedes Haus anhand der Pläne.
 
-**Amortisation der Mehrinvestition** (Differenz von etwa 7.000 Lei für 10 Fenster): 10–13 Jahre.
-
-Über die finanzielle Amortisation hinaus verbessert das nZEB-System die thermische Behaglichkeit deutlich (keine kalten Zonen neben den Fenstern, kein Kondensat), verringert den Lärm und hält die Immobilie im Einklang mit den geltenden Energievorschriften.
+Neben der Einsparung verbessert das nZEB-System den thermischen Komfort (keine kalten Zonen am Fenster und ein deutlich geringeres Kondensatrisiko), senkt den Lärm und hilft dem Gebäude, die geltenden Energieanforderungen zu erfüllen.
 
 ## Der nZEB-Montageablauf Schritt für Schritt
 
@@ -4926,7 +4915,7 @@ Ein nZEB-System bedeutet, dass jede Komponente gemeinsam gewählt wird: Profil S
 
 ### Wozu dient der Blaugelb Triotherm+ Vorblendrahmen?
 
-Der Blaugelb Triotherm+ Vorblendrahmen löst die Wärmebrücke am Fensteranschluss — die Kontaktzone zwischen Rahmen und Mauerwerk, die kein leistungsfähiges Profil allein lösen kann. Er wird in der Dämmebene der Wand eingebaut und kostet 250–350 Lei je Stück.
+Der Blaugelb Triotherm+ Vorblendrahmen löst die Wärmebrücke am Fensteranschluss — die Kontaktzone zwischen Rahmen und Mauerwerk, die kein leistungsfähiges Profil allein lösen kann. Er wird in der Dämmebene der Wand eingebaut und kostet bei PVC 25–50 EUR pro laufendem Meter Umfang mehr, ohne MwSt.
 
 ### Welchen Ug erreicht das Saint-Gobain Dreifachglas für nZEB?
 
@@ -5028,26 +5017,21 @@ Le référentiel RAL pour la pose professionnelle de fenêtres définit 3 plans 
 
 ## Le calcul économique : ce que cela coûte et ce que vous économisez
 
-**Coût indicatif d’un système nZEB complet (fenêtre 100 × 120 cm, pose comprise) :**
+**Coût indicatif d’une fenêtre nZEB (hors TVA, comme sur les pages de prix) :**
 
 | Composant | Coût indicatif |
 |---|---|
-| Profilé Salamander bluEvolution 92 | 1 100–1 400 lei |
-| Triple vitrage avec Warm Edge | triple vitrage compris ; Warm Edge sur demande, en supplément |
-| Précadre Blaugelb Triotherm+ | 250–350 lei l’unité |
-| Pose professionnelle avec bandes précomprimées | 300–450 lei |
-| **Total, fenêtre nZEB 100 × 120 cm** | **1 650–2 200 lei** |
+| Fenêtre Salamander bluEvolution 92 (profilé, quincaillerie, double vitrage) | 200–285 EUR/m² |
+| Triple vitrage Low-E au lieu du double vitrage | +40–80 EUR/m² de vitrage |
+| Intercalaire Warm Edge | sur demande, chiffré à part dans le devis |
+| Pose nZEB avec précadres Blaugelb Triotherm+ et bandes | +25–50 EUR par mètre linéaire de périmètre |
+| Pose standard | à part, dans le devis |
 
-**Face à une fenêtre standard (double vitrage, sans précadre) :** 900–1 200 lei
+**Exemple :** une fenêtre de 1,0 × 1,2 m (1,2 m² et 4,4 m de périmètre) coûte à titre indicatif 240–340 EUR en double vitrage. Le triple vitrage ajoute environ 50 à 100 EUR, et la pose avec précadres environ 110 à 220 EUR.
 
-**Économie annuelle d’énergie (calcul pour un appartement de 80 m², 10 fenêtres) :**
-- Fenêtres standard : déperditions estimées à 2 800 kWh/an
-- Fenêtres nZEB complètes : déperditions estimées à 980 kWh/an
-- Écart : −1 820 kWh/an → une économie d’environ 550 à 700 lei/an aux prix actuels de l’énergie
+**L’économie d’énergie** dépend de la surface vitrée, des fenêtres remplacées et du prix de l’énergie ; nous la calculons donc pour chaque maison, à partir des plans.
 
-**Amortissement du surcoût** (une différence d’environ 7 000 lei pour 10 fenêtres) : 10 à 13 ans.
-
-Au-delà de l’amortissement financier, le système nZEB améliore nettement le confort thermique (plus de zones froides près des fenêtres, plus de condensation), réduit le bruit et maintient la valeur du bien conformément à la réglementation énergétique en vigueur.
+Au-delà de l’économie, le système nZEB améliore le confort thermique (pas de zones froides près des fenêtres et un risque de condensation bien plus faible), réduit le bruit et aide le bâtiment à respecter les exigences énergétiques en vigueur.
 
 ## La procédure de pose nZEB, étape par étape
 
@@ -5073,7 +5057,7 @@ Un système nZEB signifie que chaque composant est choisi ensemble : profilé Sa
 
 ### À quoi sert le précadre Blaugelb Triotherm+ ?
 
-Le précadre Blaugelb Triotherm+ résout le pont thermique au pourtour de la fenêtre — la zone de contact entre dormant et maçonnerie, qu’aucun profilé performant ne peut traiter seul. Il se pose dans le plan d’isolation du mur et coûte 250 à 350 lei l’unité.
+Le précadre Blaugelb Triotherm+ résout le pont thermique au pourtour de la fenêtre — la zone de contact entre dormant et maçonnerie, qu’aucun profilé performant ne peut traiter seul. Il se pose dans le plan d’isolation du mur et coûte en plus 25 à 50 EUR par mètre linéaire de périmètre en PVC, hors TVA.
 
 ### Quel Ug atteint le triple vitrage Saint-Gobain pour le nZEB ?
 
@@ -5175,26 +5159,21 @@ La normativa RAL para el montaje profesional de ventanas define 3 planos de sell
 
 ## El cálculo económico: cuánto cuesta y cuánto ahorra
 
-**Coste orientativo de un sistema nZEB completo (ventana 100 × 120 cm, instalación incluida):**
+**Coste orientativo de una ventana nZEB (sin IVA, como en las páginas de precios):**
 
 | Componente | Coste orientativo |
 |---|---|
-| Perfil Salamander bluEvolution 92 | 1.100–1.400 lei |
-| Triple vidrio con Warm Edge | triple vidrio incluido; Warm Edge bajo pedido, coste aparte |
-| Premarco Blaugelb Triotherm+ | 250–350 lei la unidad |
-| Instalación profesional con cintas precomprimidas | 300–450 lei |
-| **Total, ventana nZEB de 100 × 120 cm** | **1.650–2.200 lei** |
+| Ventana Salamander bluEvolution 92 (perfil, herrajes, doble vidrio) | 200–285 EUR/m² |
+| Triple vidrio Low-E en lugar de doble vidrio | +40–80 EUR/m² de acristalamiento |
+| Separador Warm Edge | bajo pedido, presupuestado aparte |
+| Montaje nZEB con premarcos Blaugelb Triotherm+ y cintas | +25–50 EUR por metro lineal de perímetro |
+| Montaje estándar | aparte, en el presupuesto |
 
-**Frente a una ventana estándar (doble acristalamiento, sin premarco):** 900–1.200 lei
+**Ejemplo:** una ventana de 1,0 × 1,2 m (1,2 m² y 4,4 m de perímetro) cuesta de forma orientativa 240–340 EUR con doble vidrio. El triple vidrio añade unos 50–100 EUR y el montaje con premarcos unos 110–220 EUR.
 
-**Ahorro anual de energía (cálculo para un piso de 80 m², 10 ventanas):**
-- Ventanas estándar: pérdidas térmicas estimadas en 2.800 kWh/año
-- Ventanas nZEB completas: pérdidas térmicas estimadas en 980 kWh/año
-- Diferencia: −1.820 kWh/año → un ahorro de unos 550–700 lei/año a los precios actuales de la energía
+**El ahorro de energía** depende de la superficie acristalada, de las ventanas que sustituyas y del precio de la energía, así que lo calculamos para cada casa, a partir de los planos.
 
-**Amortización de la inversión adicional** (una diferencia de unos 7.000 lei para 10 ventanas): 10–13 años.
-
-Más allá de la amortización financiera, el sistema nZEB mejora notablemente el confort térmico (sin zonas frías junto a las ventanas, sin condensación), reduce el ruido y mantiene el valor del inmueble conforme a la normativa energética vigente.
+Además del ahorro, el sistema nZEB mejora el confort térmico (sin zonas frías junto a las ventanas y con un riesgo de condensación mucho menor), reduce el ruido y ayuda al edificio a cumplir los requisitos energéticos vigentes.
 
 ## El procedimiento de montaje nZEB paso a paso
 
@@ -5220,7 +5199,7 @@ Un sistema nZEB significa que cada componente se elige en conjunto: perfil Salam
 
 ### ¿Para qué sirve el premarco Blaugelb Triotherm+?
 
-El premarco Blaugelb Triotherm+ resuelve el puente térmico del perímetro de la ventana — la zona de contacto entre marco y fábrica, que ningún perfil de altas prestaciones puede resolver por sí solo. Se instala en el plano de aislamiento del muro y cuesta 250–350 lei la unidad.
+El premarco Blaugelb Triotherm+ resuelve el puente térmico del perímetro de la ventana — la zona de contacto entre marco y fábrica, que ningún perfil de altas prestaciones puede resolver por sí solo. Se instala en el plano de aislamiento del muro y cuesta 25–50 EUR más por metro lineal de perímetro en PVC, sin IVA.
 
 ### ¿Qué Ug alcanza el triple vidrio Saint-Gobain para nZEB?
 
@@ -5322,26 +5301,21 @@ Il regolamento RAL per la posa professionale dei serramenti definisce 3 piani di
 
 ## Il calcolo economico: quanto costa e quanto si risparmia
 
-**Costo indicativo di un sistema nZEB completo (finestra 100 × 120 cm, posa inclusa):**
+**Costo indicativo di una finestra nZEB (IVA esclusa, come nelle pagine dei prezzi):**
 
 | Componente | Costo indicativo |
 |---|---|
-| Profilo Salamander bluEvolution 92 | 1.100–1.400 lei |
-| Triplo vetro con Warm Edge | triplo vetro compreso; Warm Edge su richiesta, costo a parte |
-| Controtelaio Blaugelb Triotherm+ | 250–350 lei cadauno |
-| Posa professionale con nastri precompressi | 300–450 lei |
-| **Totale, finestra nZEB da 100 × 120 cm** | **1.650–2.200 lei** |
+| Finestra Salamander bluEvolution 92 (profilo, ferramenta, doppio vetro) | 200–285 EUR/m² |
+| Triplo vetro Low-E al posto del doppio vetro | +40–80 EUR/m² di vetrata |
+| Distanziale Warm Edge | su richiesta, quotato a parte nel preventivo |
+| Posa nZEB con controtelai Blaugelb Triotherm+ e nastri | +25–50 EUR per metro lineare di perimetro |
+| Posa standard | a parte, nel preventivo |
 
-**Rispetto a una finestra standard (doppio vetro, senza controtelaio):** 900–1.200 lei
+**Esempio:** una finestra di 1,0 × 1,2 m (1,2 m² e 4,4 m di perimetro) costa indicativamente 240–340 EUR con doppio vetro. Il triplo vetro aggiunge circa 50–100 EUR e la posa con controtelai circa 110–220 EUR.
 
-**Risparmio energetico annuo (calcolo per un appartamento di 80 m², 10 finestre):**
-- Finestre standard: dispersioni stimate in 2.800 kWh/anno
-- Finestre nZEB complete: dispersioni stimate in 980 kWh/anno
-- Differenza: −1.820 kWh/anno → un risparmio di circa 550–700 lei/anno ai prezzi attuali dell’energia
+**Il risparmio energetico** dipende dalla superficie vetrata, dalle finestre che si sostituiscono e dal prezzo dell’energia, quindi lo calcoliamo per ogni casa, partendo dai disegni.
 
-**Ammortamento del sovracosto** (una differenza di circa 7.000 lei per 10 finestre): 10–13 anni.
-
-Oltre all’ammortamento finanziario, il sistema nZEB migliora nettamente il comfort termico (niente zone fredde accanto alle finestre, niente condensa), riduce il rumore e mantiene il valore dell’immobile in linea con le norme energetiche vigenti.
+Oltre al risparmio, il sistema nZEB migliora il comfort termico (niente zone fredde vicino alle finestre e un rischio di condensa molto più basso), riduce il rumore e aiuta l’edificio a rispettare i requisiti energetici vigenti.
 
 ## La procedura di posa nZEB passo per passo
 
@@ -5367,7 +5341,7 @@ Un sistema nZEB significa che ogni componente viene scelto insieme: profilo Sala
 
 ### A che cosa serve il controtelaio Blaugelb Triotherm+?
 
-Il controtelaio Blaugelb Triotherm+ risolve il ponte termico sul perimetro della finestra — la zona di contatto tra telaio e muratura, che nessun profilo performante può risolvere da solo. Si posa nel piano di isolamento della parete e costa 250–350 lei cadauno.
+Il controtelaio Blaugelb Triotherm+ risolve il ponte termico sul perimetro della finestra — la zona di contatto tra telaio e muratura, che nessun profilo performante può risolvere da solo. Si posa nel piano di isolamento della parete e costa 25–50 EUR in più per metro lineare di perimetro per il PVC, IVA esclusa.
 
 ### Quale Ug raggiunge il triplo vetro Saint-Gobain per lo nZEB?
 
