@@ -1370,15 +1370,15 @@ unde: Q = căldură pierdută (kWh), U = Uw ferestrei (W/m²K), A = suprafață 
 
 **Exemplu: fereastră 100×120 cm (1,2 m²), București, sezon rece 3.500 ore, ΔT = 20°C:**
 
-| Tip geam | Uw | Q pierdut (kWh/an) | Cost energie (lei/an) |
+| Tip geam | Uw | Q pierdut (kWh/an) | Cost energie (EUR/an) |
 |---|---|---|---|
-| Simplu vechi (lemn) | 4,8 | 403 | ~242 lei |
-| Dublu standard | 1,4 | 118 | ~71 lei |
-| Dublu modern argon | 1,0 | 84 | ~50 lei |
-| **Triplu + argon** | **0,72** | **60** | **~36 lei** |
-| Triplu premium | 0,55 | 46 | ~28 lei |
+| Simplu vechi (lemn) | 4,8 | 403 | ~48 EUR |
+| Dublu standard | 1,4 | 118 | ~14 EUR |
+| Dublu modern argon | 1,0 | 84 | ~10 EUR |
+| **Triplu + argon** | **0,72** | **60** | **~7 EUR** |
+| Triplu premium | 0,55 | 46 | ~5,5 EUR |
 
-**Economie triplu vs dublu modern per fereastră 1,2 m²: 24 kWh/an = ~14 lei/an**
+**Economie triplu vs dublu modern per fereastră 1,2 m²: 24 kWh/an = ~3 EUR/an** (la 0,12 EUR/kWh)
 
 ## Secțiunea 2 — Cât economisești anual: exemple reale
 
@@ -1386,17 +1386,17 @@ unde: Q = căldură pierdută (kWh), U = Uw ferestrei (W/m²K), A = suprafață 
 
 | Configurație actuală | Economie/an | Amortizare investiție |
 |---|---|---|
-| Geam simplu vechi | ~1.900 lei/an | 5-7 ani |
-| Dublu vechi (pre-2005) | ~520 lei/an | 8-12 ani |
-| Dublu modern (2010-2020) | ~165 lei/an | 15-20 ani |
+| Geam simplu vechi | ~380 EUR/an | 5-7 ani |
+| Dublu vechi (pre-2005) | ~104 EUR/an | 8-12 ani |
+| Dublu modern (2010-2020) | ~33 EUR/an | 15-20 ani |
 
 ### Casă 120 m², 12 ferestre (14,4 m² total)
 
 | Configurație actuală | Economie/an | Amortizare |
 |---|---|---|
-| Geam simplu vechi | ~3.800 lei/an | 5-7 ani |
-| Dublu vechi | ~1.040 lei/an | 8-12 ani |
-| Dublu modern | ~330 lei/an | 15-20 ani |
+| Geam simplu vechi | ~760 EUR/an | 5-7 ani |
+| Dublu vechi | ~208 EUR/an | 8-12 ani |
+| Dublu modern | ~66 EUR/an | 15-20 ani |
 
 ## Secțiunea 3 — Avantajele reale ale tripanului
 
@@ -1421,7 +1421,7 @@ Dacă pereții și acoperișul nu sunt izolați, ferestrele reprezintă sub 20% 
 Factorul solar scăzut al tripanului (g=0,32) poate reduce aportul solar util iarna. Recomandare: tripan cu g=0,40-0,50 pe fațada sud.
 
 **Dublu modern funcțional cu buget limitat**
-Dacă ai dublu modern (Ug=1,0) în stare bună, economiile de 165 lei/an pe un apartament mic nu justifică investiția sub 15 ani.
+Dacă ai dublu modern (Ug=1,0) în stare bună, economiile de 33 EUR/an pe un apartament mic nu justifică investiția sub 15 ani.
 
 ## Tabel comparativ complet dublu vs triplu
 
@@ -1438,7 +1438,7 @@ Dacă ai dublu modern (Ug=1,0) în stare bună, economiile de 165 lei/an pe un a
 ## FAQ — Tripan vs Termopan
 
 ### Tripanul reduce factura la energie?
-Da. Față de dublu modern (Ug=1,0), tripanul (Ug=0,5) reduce pierderile prin geam cu 50%. Pe o casă 120 m²: economie 330-1.040 lei/an în funcție de ce înlocuiești.
+Da. Față de dublu modern (Ug=1,0), tripanul (Ug=0,5) reduce pierderile prin geam cu 50%. Pe o casă 120 m²: economie 66–208 EUR/an în funcție de ce înlocuiești.
 
 ### Care este diferența dintre termopan și tripan?
 Termopanul (dublu): 2 foi, 1 cameră de gaz. Tripanul: 3 foi, 2 camere cu argon. Diferența Ug: 1,0 vs 0,5 W/(m²K) — 50% mai bun.
@@ -8486,12 +8486,12 @@ Neofort BIZ posa serramenti Salamander con squadre proprie certificate nZEB a Bu
     readTime: { ro:'9 min citire', en:'9 min read', de:'9 Min.', fr:'9 min', es:'9 min', it:'9 min' },
     category: { ro:'Tâmplărie PVC', en:'PVC Windows', de:'Kunststofffenster', fr:'Menuiserie PVC', es:'Carpintería PVC', it:'Infissi PVC' },
     title: {
-      ro: 'Care sunt prețurile pentru ferestre Salamander în București? Ghid complet 2026',
-      en: 'What Are the Prices for Salamander Windows in Bucharest? Complete Guide 2026',
-      de: 'Was kosten Salamander-Fenster in Bukarest? Vollständiger Preisführer 2026',
-      fr: 'Quels sont les prix des fenêtres Salamander à Bucarest ? Guide complet 2026',
-      es: '¿Cuáles son los precios de las ventanas Salamander en Bucarest? Guía completa 2026',
-      it: 'Quali sono i prezzi delle finestre Salamander a Bucarest? Guida completa 2026',
+      ro: 'Prețuri ferestre Salamander București: ghid complet 2026',
+      en: 'Salamander window prices in Bucharest: complete 2026 guide',
+      de: 'Salamander-Fensterpreise in Bukarest: Preisführer 2026',
+      fr: 'Prix des fenêtres Salamander à Bucarest : guide 2026',
+      es: 'Precios de ventanas Salamander en Bucarest: guía 2026',
+      it: 'Prezzi delle finestre Salamander a Bucarest: guida 2026',
     },
     metaDesc: {
       ro: "Prețuri ferestre Salamander: greenEvolution 76 și bluEvolution 92. Tabele comparative, ce e inclus în ofertă și de ce depinde prețul final.",
@@ -8502,12 +8502,12 @@ Neofort BIZ posa serramenti Salamander con squadre proprie certificate nZEB a Bu
       it: "Prezzi delle finestre Salamander a Bucarest: greenEvolution 76 e bluEvolution 92. Tabelle comparative e cosa include davvero un preventivo.",
     },
     excerpt: {
-      ro: 'Cât costă ferestrele Salamander în București în 2026? Prețuri reale pentru greenEvolution 76 și bluEvolution 92 — cu și fără montaj, factori care influențează prețul și ghid de interpretare a ofertelor.',
-      en: 'How much do Salamander windows cost in Bucharest in 2026? Real prices for greenEvolution 76 and bluEvolution 92 — with and without installation, factors that influence the price and guide to interpreting quotes.',
-      de: 'Was kosten Salamander-Fenster in Bukarest 2026? Reale Preise für greenEvolution 76 und bluEvolution 92 — mit und ohne Montage, Preiseinflussfaktoren und Leitfaden zur Angebotsinterpretation.',
-      fr: "Combien coûtent les fenêtres Salamander à Bucarest en 2026 ? Prix réels pour greenEvolution 76 et bluEvolution 92 — avec et sans pose, facteurs influençant le prix et guide d'interprétation des devis.",
-      es: '¿Cuánto cuestan las ventanas Salamander en Bucarest en 2026? Precios reales para greenEvolution 76 y bluEvolution 92 — con y sin instalación, factores que influyen en el precio y guía para interpretar presupuestos.',
-      it: `Quanto costano le finestre Salamander a Bucarest nel 2026? Prezzi reali per greenEvolution 76 e bluEvolution 92 — con e senza installazione, fattori che influenzano il prezzo e guida all'interpretazione dei preventivi.`,
+      ro: 'Cât costă ferestrele Salamander în București în 2026? Prețuri în EUR pentru greenEvolution 76 și bluEvolution 92, calculate din prețurile pe metru pătrat, ce influențează prețul și cum citești o ofertă.',
+      en: 'How much do Salamander windows cost in Bucharest in 2026? Prices in EUR for greenEvolution 76 and bluEvolution 92, worked out from the per-square-metre prices, what drives the price and how to read a quote.',
+      de: 'Was kosten Salamander-Fenster in Bukarest 2026? Preise in EUR für greenEvolution 76 und bluEvolution 92, berechnet aus den Quadratmeterpreisen, Preisfaktoren und wie man ein Angebot liest.',
+      fr: "Combien coûtent les fenêtres Salamander à Bucarest en 2026 ? Prix en EUR pour greenEvolution 76 et bluEvolution 92, calculés à partir des prix au mètre carré, facteurs de prix et lecture d’un devis.",
+      es: '¿Cuánto cuestan las ventanas Salamander en Bucarest en 2026? Precios en EUR de greenEvolution 76 y bluEvolution 92, calculados a partir de los precios por metro cuadrado, factores de precio y cómo leer un presupuesto.',
+      it: `Quanto costano le finestre Salamander a Bucarest nel 2026? Prezzi in EUR per greenEvolution 76 e bluEvolution 92, calcolati dai prezzi al metro quadro, fattori di prezzo e come leggere un preventivo.`,
     },
     keywords: 'pret ferestre Salamander Bucuresti, termopane Salamander pret 2026, bluEvolution 92 pret, greenEvolution 76 pret, ferestre PVC Salamander pret, termopane Bucuresti pret, cat costa termopanele Salamander',
     dateDisplay: {
@@ -8517,588 +8517,609 @@ Neofort BIZ posa serramenti Salamander con squadre proprie certificate nZEB a Bu
     content: {
       ro: `## Ce influențează prețul ferestrelor Salamander în București?
 
-Prețul unui sistem de ferestre Salamander depinde de **6 factori principali**, iar diferențele între oferte pot fi de 40–80% pentru aceeași dimensiune. Înainte să compari prețuri, trebuie să înțelegi ce include fiecare ofertă.
+Prețul unei ferestre Salamander depinde de **6 factori principali**, iar diferențele între oferte pot fi mari pentru aceeași dimensiune. Înainte să compari prețuri, trebuie să înțelegi ce include fiecare ofertă.
 
 ### 1. Tipul de profil Salamander
 Neofort BIZ lucrează cu două game Salamander:
 
-| Profil | Camere | Adâncime | Garnituri | Standard | Utilizare recomandată |
-|---|---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 3 | Clasa A | Locuințe standard, renovare economică |
-| **bluEvolution 92** | 6 | 92 mm | 3 | Clasa A | Case pasive, nZEB, izolare maximă |
+| Profil | Camere | Adâncime | Preț orientativ | Utilizare recomandată |
+|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/mp | Locuințe standard, renovări |
+| **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/mp | Case nZEB și pasive, izolare maximă |
+
+Prețurile pe metru pătrat sunt cele de pe [pagina de prețuri a tâmplăriei PVC](/ro/tamplarie-pvc/preturi): includ profilul, feroneria standard și geamul dublu, fără montaj și fără TVA.
 
 ### 2. Tipul de geam termoizolator
-- **Geam dublu (32 mm)** — standard, Ug = 1,0–1,1 W/(m²K)
-- **Geam triplu (44 mm)** — recomandat, Ug = 0,5–0,7 W/(m²K), diferență de preț +15–25%
-- **Geam triplu cu argon și Low-E** — top performanță, diferență +20–35%
-- **Bagheta Warm Edge** (distanțier termic) — adaugă 5–8% la prețul geamului, elimină condensul pe bagheta interioară
+- **Geam dublu** — inclus în prețul de bază, Ug = 1,0–1,1 W/(m²K)
+- **Geam triplu Low-E cu argon** — Ug = 0,5–0,7 W/(m²K), cu 40–80 EUR/mp de vitrare în plus
+- **Distanțier Warm Edge** — la cerere, cu cost separat în ofertă; îl aleg circa 90% dintre clienți, pentru că reduce condensul de pe marginea geamului
 
 ### 3. Culoarea profilului
-- **Alb standard** — prețul de bază
-- **Folie imitație lemn** (stejar, nuc, mahon, wenge) — +20–35% față de alb
-- **Culori RAL speciale** (vopsire dublu față) — +30–50% față de alb
+- **Cele 7 culori standard** — incluse în preț
+- **Folii speciale, RAL sau texturate** — adaugă 8–15% la prețul profilului
 
 ### 4. Feroneria
-- **Roto NT standard** — inclusă în prețul de bază la furnizorii serioși
-- **Winkhaus** — similară ca preț, preferată pentru proiecte comerciale
-- **Feronerie antiefracție RC2/RC3** — +15–25% față de standard
+- **Roto NT** — inclusă în prețul de bază
+- **Feronerie antiefracție RC2 sau RC3** — 40–120 EUR în plus pe fereastră
 - **Mânere cu cheie** sau **cu senzori** — accesorii suplimentare
 
 ### 5. Montajul și accesoriile
-- **Montaj standard** (spumă + chit exterior) — inclus sau 10–15% din valoarea produsului
-- **Montaj profesional nZEB** (benzi precomprimate + ancore) — +20–30% față de montaj standard dar obligatoriu pentru garanție maximă
-- **Glafuri PVC interior** — 80–150 lei/ml
-- **Glafuri aluminiu exterior** — 100–200 lei/ml
-- **Precadre Blaugelb** — 200–400 lei/buc, obligatorii pentru nZEB
+- **Montaj standard** — se adaugă separat, în ofertă
+- **Montaj nZEB cu precadre Blaugelb Triotherm+ și benzi Soudal** — 25–50 EUR pe metru liniar de perimetru în plus; recomandat la casele nZEB, nu obligatoriu
+- **Glafuri PVC interior** — 16–30 EUR/ml
+- **Glafuri aluminiu exterior** — 20–40 EUR/ml
 
 ### 6. Dimensiunile și configurația
-Fereastra standard 100×120 cm costă semnificativ mai puțin decât fereastra 200×200 cm sau glisanta de 300×240 cm. Fiecare cm contează în preț la produsele executate pe comandă.
+Fereastra standard de 100×120 cm costă mult mai puțin decât o fereastră de 200×200 cm sau o ușă glisantă de 300×240 cm. La produsele executate pe comandă, fiecare centimetru contează în preț.
 
 ## Prețuri orientative ferestre Salamander București 2026
 
-### Fereastră simplă oscilo-batantă (1 canat)
+Prețurile de mai jos sunt calculate din prețurile pe metru pătrat (greenEvolution 76 MD FLEX: 150–220 EUR/mp; bluEvolution 92 FLEX: 200–280 EUR/mp), la care se adaugă 40–80 EUR/mp pentru geamul triplu.
+
+### Fereastră oscilo-batantă cu un canat
 
 | Dimensiune | greenEvolution 76 | bluEvolution 92 |
 |---|---|---|
-| 80×120 cm, alb, geam dublu | 900–1.100 lei | 1.200–1.500 lei |
-| 80×120 cm, alb, geam triplu | 1.100–1.350 lei | 1.450–1.800 lei |
-| 100×150 cm, alb, geam triplu | 1.300–1.600 lei | 1.800–2.200 lei |
+| 80×120 cm, alb, geam dublu | 145–210 EUR | 190–270 EUR |
+| 80×120 cm, alb, geam triplu | 180–290 EUR | 230–345 EUR |
+| 100×150 cm, alb, geam triplu | 285–450 EUR | 360–540 EUR |
 
-### Fereastră dublă (2 canate) oscilo-batantă
-
-| Dimensiune | greenEvolution 76 | bluEvolution 92 |
-|---|---|---|
-| 150×120 cm, alb, geam triplu | 2.200–2.700 lei | 3.000–3.700 lei |
-| 200×140 cm, alb, geam triplu | 2.800–3.400 lei | 3.800–4.700 lei |
-
-### Ușă termoizolantă (1 canat) — fără geam
+### Fereastră oscilo-batantă cu două canate
 
 | Dimensiune | greenEvolution 76 | bluEvolution 92 |
 |---|---|---|
-| 90×210 cm, alb, panel 44 mm | 2.000–2.500 lei | 2.800–3.500 lei |
+| 150×120 cm, alb, geam triplu | 340–540 EUR | 430–650 EUR |
+| 200×140 cm, alb, geam triplu | 530–840 EUR | 670–1.010 EUR |
 
-*Prețuri orientative 2026, fără TVA, fără montaj, pentru București și Ilfov. Prețul final poate diferi în funcție de feroneria aleasă, culoare, accesorii și dimensiunile exacte.*
+*Prețuri orientative 2026, fără TVA și fără montaj. Prețul final depinde de feronerie, culoare, accesorii și dimensiunile exacte. Măsurătorile se fac după semnarea contractului, iar oferta o trimitem în 48 de ore de la primirea dimensiunilor.*
 
 ## Ce trebuie să verifici în orice ofertă de termopane
 
-✅ **Profilul exact** — număr camere, adâncime, clasă (A sau B)\
-✅ **Tipul de geam** — dublu sau triplu, Ug declarat, tip Low-E, gaz argon sau nu\
-✅ **Feroneria** — brand declarat (Roto, Winkhaus, Maco), nu doar „feronerie de calitate"\
-✅ **Montajul** — ce include: benzi precomprimate, ancore, glafuri, siliconare\
-✅ **Garanția** — separat pe produs (min. 5 ani) și manoperă (min. 2 ani)\
-✅ **Precadre** — incluse sau opționale, necesare pentru nZEB
+✅ **Profilul exact** — număr de camere, adâncime, clasă (A sau B)
+✅ **Tipul de geam** — dublu sau triplu, Ug declarat, tip de Low-E, cu sau fără argon
+✅ **Distanțierul** — Warm Edge sau din aluminiu
+✅ **Feroneria** — marca declarată (Roto, Winkhaus, Maco), nu doar „feronerie de calitate”
+✅ **Montajul** — ce include: benzi precomprimate, ancore, glafuri, etanșare
+✅ **Garanția** — separat pe produs (minimum 5 ani) și pe montaj (minimum 2 ani)
 
 ## De ce diferă prețurile atât de mult la termopane?
 
-O ofertă de 800 lei pentru o fereastră 100×120 cm ascunde de obicei: **profil Clasa B** (pereți sub 2,5 mm), geam dublu cu Ug = 1,0, feronerie generică fără brand, montaj cu spumă, fără garanție serioasă.
+O ofertă de circa 160 EUR pentru o fereastră de 100×120 cm ascunde de obicei: **profil din clasa B** (pereți sub 2,5 mm), geam dublu fără Low-E de calitate, feronerie fără marcă, montaj doar cu spumă și o garanție vagă.
 
-O ofertă de 1.500 lei pentru aceeași fereastră include: **profil Clasa A** Salamander, geam triplu cu argon și Low-E, feronerie Roto NT, montaj cu benzi precomprimate, garanție 5 ani.
+O ofertă de circa 300 EUR pentru aceeași fereastră include: **profil Salamander din clasa A**, geam triplu cu argon și Low-E, feronerie Roto NT, montaj cu benzi precomprimate și garanție scrisă.
 
-Diferența de 700 lei se recuperează în 3–5 ani din facturile la energie — și mai ales eviți costurile de reparație sau înlocuire prematură.
-
----
-
-Neofort BIZ oferă ferestre Salamander (greenEvolution 76, bluEvolution 92) cu montaj nZEB în București și Ilfov. Ofertă personalizată în 48 de ore — [solicită acum](/ro/contact). Vezi [sistemele PVC Salamander](/ro/tamplarie-pvc) pe care le oferim. Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76).
+Diferența se vede în confort, în facturile la energie și în durata de viață a ferestrei, iar o fereastră ieftină care trebuie reparată sau înlocuită devreme ajunge, de regulă, mai scumpă.
 
 ## Întrebări frecvente
 
 ### De ce variază atât de mult prețurile la ferestrele Salamander?
 
-Prețul depinde de 6 factori principali: tipul de profil (greenEvolution 76 sau bluEvolution 92), tipul de geam (dublu/triplu/Low-E), culoarea profilului, feroneria, dimensiunile și tipul de montaj. Diferențele între oferte pot ajunge la 40-80% pentru aceeași dimensiune.
+Prețul depinde de 6 factori principali: profilul (greenEvolution 76 sau bluEvolution 92), geamul (dublu sau triplu), culoarea, feroneria, dimensiunile și tipul de montaj. De aceea două oferte pentru aceeași dimensiune pot fi foarte diferite.
+
+### Cât costă o fereastră Salamander de 80×120 cm?
+
+Orientativ, 145–210 EUR pentru greenEvolution 76 și 190–270 EUR pentru bluEvolution 92, cu geam dublu, fără montaj și fără TVA. Cu geam triplu, prețul urcă la 180–290 EUR, respectiv 230–345 EUR.
 
 ### Care e diferența de preț între geam dublu și triplu la Salamander?
 
-Geamul triplu (44 mm, Ug 0,5-0,7) costă cu 15-25% mai mult decât cel dublu standard (32 mm, Ug 1,0-1,1). Varianta triplu cu argon și Low-E adaugă 20-35%, iar bagheta Warm Edge încă 5-8%, dar elimină condensul pe bagheta interioară.
+Geamul triplu Low-E cu argon (Ug 0,5–0,7) costă cu 40–80 EUR pe metru pătrat de vitrare mai mult decât geamul dublu standard (Ug 1,0–1,1). Distanțierul Warm Edge se ofertează separat, la cerere.
 
-### Cât costă în plus o culoare sau imitație lemn la profilul Salamander?
+### Cât costă în plus o culoare sau o folie imitație lemn?
 
-Alb standard e prețul de bază. Folia imitație lemn (stejar, nuc, mahon, wenge) adaugă 20-35%, iar culorile RAL speciale prin vopsire pe dublă față adaugă 30-50% față de alb. Feroneria Roto NT standard e de obicei inclusă în prețul de bază la furnizorii serioși.
+Cele 7 culori standard sunt incluse în preț. Foliile speciale, RAL sau texturate adaugă 8–15% la prețul profilului. Feroneria Roto NT este inclusă în prețul de bază.
 
 ### Care profil Salamander e potrivit pentru ce tip de locuință?
 
-greenEvolution 76 (5-6 camere, 76 mm) e pentru locuințe standard și renovări economice; bluEvolution 92 (6 camere, 92 mm) pentru case pasive și nZEB cu izolare maximă.
-
+greenEvolution 76 (5–6 camere, 76 mm) este potrivit pentru locuințe standard și renovări, iar bluEvolution 92 (6 camere, 92 mm) pentru casele nZEB și pasive, unde contează izolarea maximă.
 
 ---
 
-Neofort BIZ furnizează ambele profile Salamander — greenEvolution 76 și bluEvolution 92 — în București și Ilfov. [Trimite-ne dimensiunile](/ro/contact) și primești ofertă detaliată în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi) și [profilul Salamander greenEvolution 76 MD FLEX](/ro/produse/profil-pvc-greenevolution-76-md-flex).
-`,
+Neofort BIZ furnizează ambele profile Salamander — greenEvolution 76 și bluEvolution 92 — cu montaj în București și Ilfov. [Trimite-ne dimensiunile](/ro/contact) și primești ofertă detaliată în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi) și [profilul Salamander greenEvolution 76 MD FLEX](/ro/produse/profil-pvc-greenevolution-76-md-flex).`,
 
-      en: `## What Influences Salamander Window Prices in Bucharest?
+      en: `## What influences the price of Salamander windows in Bucharest?
 
-The price of a Salamander window system depends on **6 main factors**, and differences between quotes can be 40–80% for the same dimensions. Before comparing prices, you need to understand what each quote includes.
+The price of a Salamander window depends on **6 main factors**, and quotes for the same size can differ a lot. Before comparing prices, you need to understand what each quote includes.
 
-### 1. Salamander Profile Type
+### 1. The Salamander profile
 Neofort BIZ works with two Salamander ranges:
 
-| Profile | Chambers | Depth | Gaskets | Class | Recommended use |
-|---|---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Standard housing, economic renovation |
-| **bluEvolution 92** | 6 | 92 mm | 3 | A | Passive houses, nZEB, maximum insulation |
+| Profile | Chambers | Depth | Indicative price | Recommended use |
+|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Standard homes, renovations |
+| **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | nZEB and passive houses, maximum insulation |
 
-### 2. Type of Glazing Unit
-- **Double glazing (32 mm)** — standard, Ug = 1.0–1.1 W/(m²K)
-- **Triple glazing (44 mm)** — recommended, Ug = 0.5–0.7 W/(m²K), +15–25% price difference
-- **Triple glazing with argon and Low-E** — top performance, +20–35%
-- **Warm Edge spacer** — adds 5–8% to glazing price, eliminates condensation on inner spacer
+The per-square-metre prices are those on the [PVC windows price page](/en/pvc-windows/prices): they include the profile, standard hardware and double glazing, without installation and excluding VAT.
 
-### 3. Profile Colour
-- **Standard white** — base price
-- **Wood effect foil** (oak, walnut, mahogany, wenge) — +20–35% vs white
-- **Special RAL colours** (double-sided painting) — +30–50% vs white
+### 2. The insulating glass unit
+- **Double glazing** — included in the base price, Ug = 1.0–1.1 W/(m²K)
+- **Triple Low-E glazing with argon** — Ug = 0.5–0.7 W/(m²K), an extra 40–80 EUR per m² of glazing
+- **Warm Edge spacer** — on request, priced separately in the quote; about 90% of customers choose it because it reduces condensation at the glass edge
+
+### 3. Profile colour
+- **The 7 standard colours** — included in the price
+- **Special, RAL or textured foils** — add 8–15% to the profile price
 
 ### 4. Hardware
-- **Roto NT standard** — included at base price with serious suppliers
-- **Winkhaus** — similar price, preferred for commercial projects
-- **Anti-burglary hardware RC2/RC3** — +15–25% vs standard
-- **Lockable handles** or **sensor handles** — additional accessories
+- **Roto NT** — included in the base price
+- **RC2 or RC3 burglar-resistant hardware** — an extra 40–120 EUR per window
+- **Locking handles** or **handles with sensors** — extra accessories
 
-### 5. Installation and Accessories
-- **Standard installation** (foam + exterior sealant) — included or 10–15% of product value
-- **Professional nZEB installation** (pre-compressed bands + anchors) — +20–30% vs standard but required for maximum warranty
-- **Interior PVC window sills** — €16–30/ml
-- **Exterior aluminium window sills** — €20–40/ml
-- **Blaugelb preframes** — €40–80/piece, required for nZEB
+### 5. Installation and accessories
+- **Standard installation** — added separately, in the quote
+- **nZEB installation with Blaugelb Triotherm+ precasings and Soudal tapes** — an extra 25–50 EUR per linear metre of perimeter; recommended for nZEB houses, not mandatory
+- **Interior PVC sills** — 16–30 EUR/lm
+- **Exterior aluminium sills** — 20–40 EUR/lm
 
-### 6. Dimensions and Configuration
-A standard 100×120 cm window costs significantly less than a 200×200 cm window or a 300×240 cm sliding window. Every centimetre counts in price for made-to-order products.
+### 6. Size and configuration
+A standard 100×120 cm window costs far less than a 200×200 cm window or a 300×240 cm sliding door. With made-to-measure products, every centimetre counts in the price.
 
-## Indicative Salamander Window Prices Bucharest 2026
+## Indicative Salamander window prices in Bucharest, 2026
 
-### Single Tilt-and-Turn Window (1 Sash)
+The prices below are worked out from the per-square-metre prices (greenEvolution 76 MD FLEX: 150–220 EUR/m²; bluEvolution 92 FLEX: 200–280 EUR/m²), plus 40–80 EUR/m² for triple glazing.
 
-| Size | greenEvolution 76 | bluEvolution 92 |
-|---|---|---|
-| 80×120 cm, white, double glazing | €180–220 | €240–300 |
-| 80×120 cm, white, triple glazing | €220–270 | €290–360 |
-| 100×150 cm, white, triple glazing | €260–320 | €360–440 |
-
-### Double Tilt-and-Turn Window (2 Sashes)
+### Single-sash tilt-and-turn window
 
 | Size | greenEvolution 76 | bluEvolution 92 |
 |---|---|---|
-| 150×120 cm, white, triple glazing | €440–540 | €600–740 |
-| 200×140 cm, white, triple glazing | €560–680 | €760–940 |
+| 80×120 cm, white, double glazing | 145–210 EUR | 190–270 EUR |
+| 80×120 cm, white, triple glazing | 180–290 EUR | 230–345 EUR |
+| 100×150 cm, white, triple glazing | 285–450 EUR | 360–540 EUR |
 
-### Insulated Door (1 Sash) — Without Glazing
+### Double-sash tilt-and-turn window
 
 | Size | greenEvolution 76 | bluEvolution 92 |
 |---|---|---|
-| 90×210 cm, white, 44 mm panel | €400–500 | €560–700 |
+| 150×120 cm, white, triple glazing | 340–540 EUR | 430–650 EUR |
+| 200×140 cm, white, triple glazing | 530–840 EUR | 670–1,010 EUR |
 
-*Indicative prices 2026, VAT excluded, without installation, for Bucharest and Ilfov. Final price may differ depending on chosen hardware, colour, accessories and exact dimensions.*
+*Indicative 2026 prices, excluding VAT and installation. The final price depends on hardware, colour, accessories and exact dimensions. Measurements are taken after the contract is signed, and we send the quote within 48 hours of receiving the dimensions.*
 
-## What to Check in Any Window Quote
+## What to check in any window quote
 
-✅ **Exact profile** — chamber count, depth, class (A or B)✅ **Glazing type** — double or triple, declared Ug, Low-E type, argon gas or not✅ **Hardware** — declared brand (Roto, Winkhaus, Maco), not just "quality hardware"✅ **Installation** — what is included: pre-compressed bands, anchors, window sills, siliconing✅ **Warranty** — separately for product (min. 5 years) and workmanship (min. 2 years)✅ **Preframes** — included or optional, required for nZEB
+✅ **The exact profile** — number of chambers, depth, class (A or B)
+✅ **The glazing** — double or triple, declared Ug, type of Low-E, with or without argon
+✅ **The spacer** — Warm Edge or aluminium
+✅ **The hardware** — the declared brand (Roto, Winkhaus, Maco), not just "quality hardware"
+✅ **The installation** — what it includes: pre-compressed tapes, anchors, sills, sealing
+✅ **The warranty** — separately on the product (at least 5 years) and on installation (at least 2 years)
 
-## Why Do Window Prices Vary So Much?
+## Why do window prices differ so much?
 
-A quote of €160 for a 100×120 cm window usually hides: **Class B profile** (walls under 2.5 mm), double glazing with Ug = 1.0, generic hardware without brand, foam installation, no serious warranty.
+A quote of around 160 EUR for a 100×120 cm window usually hides: a **class B profile** (walls under 2.5 mm), double glazing without a good Low-E coating, unbranded hardware, foam-only installation and a vague warranty.
 
-A quote of €300 for the same window includes: **Class A Salamander profile**, triple glazing with argon and Low-E, Roto NT hardware, installation with pre-compressed bands, 5-year warranty.
+A quote of around 300 EUR for the same window includes: a **class A Salamander profile**, triple glazing with argon and Low-E, Roto NT hardware, installation with pre-compressed tapes and a written warranty.
 
-The €140 difference is recovered in 3–5 years from energy bills — and above all you avoid repair or premature replacement costs.
-
----
-
-Neofort BIZ offers Salamander windows (greenEvolution 76, bluEvolution 92) with nZEB installation in Bucharest and Ilfov. Personalised quote in 48 hours — [request now](/en/contact). Discover [the PVC windows range](/en/pvc-windows) we offer. See also [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison).
+The difference shows in comfort, in energy bills and in the life of the window, and a cheap window that has to be repaired or replaced early usually ends up costing more.
 
 ## Frequently Asked Questions
 
 ### Why do Salamander window prices vary so much?
 
-The price depends on 6 main factors: profile type (greenEvolution 76 or bluEvolution 92), glazing type (double/triple/Low-E), profile colour, hardware, dimensions and fitting type. Differences between quotes can reach 40-80% for the same size.
+The price depends on 6 main factors: the profile (greenEvolution 76 or bluEvolution 92), the glazing (double or triple), the colour, the hardware, the size and the type of installation. That is why two quotes for the same size can be very different.
 
-### What is the price difference between double and triple glazing at Salamander?
+### How much does an 80×120 cm Salamander window cost?
 
-Triple glazing (44 mm, Ug 0.5-0.7) costs 15-25% more than standard double (32 mm, Ug 1.0-1.1). The triple variant with argon and Low-E adds 20-35%, and the Warm Edge spacer adds another 5-8%, but eliminates condensation on the inner spacer.
+As a guide, 145–210 EUR for greenEvolution 76 and 190–270 EUR for bluEvolution 92, with double glazing, excluding installation and VAT. With triple glazing the price rises to 180–290 EUR and 230–345 EUR respectively.
 
-### How much extra is a colour or wood-effect finish on a Salamander profile?
+### What is the price difference between double and triple glazing with Salamander?
 
-Standard white is the base price. Wood-effect foil (oak, walnut, mahogany, wenge) adds 20-35%, and special RAL colours via double-side coating add 30-50% over white. Standard Roto NT hardware is usually included in the base price at reputable suppliers.
+Triple Low-E glazing with argon (Ug 0.5–0.7) costs 40–80 EUR per m² of glazing more than standard double glazing (Ug 1.0–1.1). The Warm Edge spacer is quoted separately, on request.
+
+### How much extra is a colour or a wood-effect foil?
+
+The 7 standard colours are included in the price. Special, RAL or textured foils add 8–15% to the profile price. Roto NT hardware is included in the base price.
 
 ### Which Salamander profile suits which type of home?
 
-greenEvolution 76 (5-6 chambers, 76 mm) is for standard homes and economical renovations; bluEvolution 92 (6 chambers, 92 mm) for passive houses and nZEB with maximum insulation.
-
+greenEvolution 76 (5–6 chambers, 76 mm) suits standard homes and renovations, while bluEvolution 92 (6 chambers, 92 mm) suits nZEB and passive houses, where maximum insulation matters.
 
 ---
 
-Neofort BIZ supplies both Salamander profiles — greenEvolution 76 and bluEvolution 92 — in Bucharest and Ilfov. [Send us your dimensions](/en/contact) and you will receive a detailed quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Useful pages: [PVC window prices](/en/pvc-windows/prices) and [the Salamander greenEvolution 76 MD FLEX profile](/en/products/greenevolution-76-md-flex-pvc-profile).
-`,
+Neofort BIZ supplies both Salamander profiles — greenEvolution 76 and bluEvolution 92 — with installation in Bucharest and Ilfov. [Send us your dimensions](/en/contact) and get a detailed quote within 48 hours. See [the PVC windows range](/en/pvc-windows) we offer and [the bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [PVC window prices](/en/pvc-windows/prices) and [the Salamander greenEvolution 76 MD FLEX profile](/en/products/greenevolution-76-md-flex-pvc-profile).`,
 
-      de: `## Was beeinflusst die Preise von Salamander-Fenstern in Bukarest?
+      de: `## Was beeinflusst den Preis von Salamander-Fenstern in Bukarest?
 
-Der Preis eines Salamander-Fenstersystems hängt von **6 Hauptfaktoren** ab, und die Unterschiede zwischen Angeboten können für dieselben Maße 40–80% betragen. Bevor Sie Preise vergleichen, müssen Sie verstehen, was jedes Angebot beinhaltet.
+Der Preis eines Salamander-Fensters hängt von **6 Hauptfaktoren** ab, und Angebote für dieselbe Größe können stark auseinanderliegen. Bevor Sie Preise vergleichen, sollten Sie verstehen, was jedes Angebot enthält.
 
-### 1. Salamander-Profiltyp
+### 1. Das Salamander-Profil
+Neofort BIZ arbeitet mit zwei Salamander-Serien:
 
-| Profil | Kammern | Tiefe | Dichtungen | Klasse | Empfohlener Einsatz |
-|---|---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Standard-Wohnungsbau, wirtschaftliche Renovierung |
-| **bluEvolution 92** | 6 | 92 mm | 3 | A | Passivhäuser, nZEB, maximale Dämmung |
+| Profil | Kammern | Bautiefe | Richtpreis | Empfohlener Einsatz |
+|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Standardwohnungen, Sanierungen |
+| **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | nZEB- und Passivhäuser, maximale Dämmung |
 
-### 2. Verglasungspaket
-- **Zweifachverglasung (32 mm)** — Standard, Ug = 1,0–1,1 W/(m²K)
-- **Dreifachverglasung (44 mm)** — empfohlen, Ug = 0,5–0,7 W/(m²K), +15–25% Preisunterschied
-- **Dreifachverglasung mit Argon und Low-E** — Topperformance, +20–35%
-- **Warm-Edge-Abstandhalter** — +5–8% zum Verglasungspreis, eliminiert Kondensat am Innenabstandhalter
+Die Quadratmeterpreise stammen von der [Preisseite für Kunststofffenster](/de/kunststofffenster-pvc/preise): Sie enthalten Profil, Standardbeschlag und Zweifachverglasung, ohne Montage und ohne MwSt.
 
-### 3. Profilfarbe
-- **Standardweiß** — Basispreis
-- **Holzimitationsfolie** (Eiche, Nuss, Mahagoni, Wenge) — +20–35% gegenüber Weiß
-- **Sonder-RAL-Farben** (beidseitige Beschichtung) — +30–50% gegenüber Weiß
+### 2. Das Isolierglas
+- **Zweifachverglasung** — im Grundpreis enthalten, Ug = 1,0–1,1 W/(m²K)
+- **Dreifach-Low-E-Glas mit Argon** — Ug = 0,5–0,7 W/(m²K), 40–80 EUR pro m² Glasfläche mehr
+- **Warm-Edge-Abstandhalter** — auf Anfrage, im Angebot separat berechnet; etwa 90 % der Kunden wählen ihn, weil er Kondensat am Glasrand verringert
 
-### 4. Beschläge
-- **Roto NT Standard** — beim Basispreis bei seriösen Lieferanten enthalten
-- **Winkhaus** — ähnlicher Preis, bevorzugt für Gewerbeprojekte
-- **Einbruchhemmende Beschläge RC2/RC3** — +15–25% gegenüber Standard
+### 3. Die Profilfarbe
+- **Die 7 Standardfarben** — im Preis enthalten
+- **Sonder-, RAL- oder strukturierte Folien** — 8–15 % auf den Profilpreis
+
+### 4. Die Beschläge
+- **Roto NT** — im Grundpreis enthalten
+- **Einbruchhemmende Beschläge RC2 oder RC3** — 40–120 EUR mehr pro Fenster
+- **Abschließbare Griffe** oder **Griffe mit Sensoren** — Zubehör gegen Aufpreis
 
 ### 5. Montage und Zubehör
-- **Standardmontage** (Schaum + Außendichtstoff) — enthalten oder 10–15% des Produktwertes
-- **Professionelle nZEB-Montage** (vorkomprimierte Bänder + Anker) — +20–30% vs. Standard
-- **Innen-Fensterbänke PVC** — 16–30 €/lfm
-- **Außen-Fensterbänke Aluminium** — 20–40 €/lfm
-- **Blaugelb-Vorblendrahmen** — 40–80 €/Stück, erforderlich für nZEB
+- **Standardmontage** — kommt separat ins Angebot
+- **nZEB-Montage mit Blaugelb Triotherm+ Vorblendrahmen und Soudal-Bändern** — 25–50 EUR pro laufendem Meter Umfang mehr; für nZEB-Häuser empfohlen, nicht vorgeschrieben
+- **PVC-Innenfensterbänke** — 16–30 EUR/lfm
+- **Aluminium-Außenfensterbänke** — 20–40 EUR/lfm
 
-## Orientierungspreise Salamander-Fenster Bukarest 2026
+### 6. Größe und Aufbau
+Ein Standardfenster von 100×120 cm kostet deutlich weniger als ein Fenster von 200×200 cm oder eine Schiebetür von 300×240 cm. Bei Maßanfertigungen zählt jeder Zentimeter im Preis.
 
-### Einfaches Dreh-Kipp-Fenster (1 Flügel)
+## Richtpreise für Salamander-Fenster in Bukarest 2026
 
-| Größe | greenEvolution 76 | bluEvolution 92 |
-|---|---|---|
-| 80×120 cm, weiß, Zweifachverg. | 180–220 € | 240–300 € |
-| 80×120 cm, weiß, Dreifachverg. | 220–270 € | 290–360 € |
-| 100×150 cm, weiß, Dreifachverg. | 260–320 € | 360–440 € |
+Die Preise unten sind aus den Quadratmeterpreisen berechnet (greenEvolution 76 MD FLEX: 150–220 EUR/m²; bluEvolution 92 FLEX: 200–280 EUR/m²), zuzüglich 40–80 EUR/m² für die Dreifachverglasung.
 
-### Doppelflügelfenster (2 Flügel) Dreh-Kipp
+### Einflügliges Dreh-Kipp-Fenster
 
 | Größe | greenEvolution 76 | bluEvolution 92 |
 |---|---|---|
-| 150×120 cm, weiß, Dreifachverg. | 440–540 € | 600–740 € |
-| 200×140 cm, weiß, Dreifachverg. | 560–680 € | 760–940 € |
+| 80×120 cm, weiß, Zweifachglas | 145–210 EUR | 190–270 EUR |
+| 80×120 cm, weiß, Dreifachglas | 180–290 EUR | 230–345 EUR |
+| 100×150 cm, weiß, Dreifachglas | 285–450 EUR | 360–540 EUR |
 
-*Richtwerte 2026, ohne MwSt., ohne Montage, für Bukarest und Ilfov.*
+### Zweiflügliges Dreh-Kipp-Fenster
+
+| Größe | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 150×120 cm, weiß, Dreifachglas | 340–540 EUR | 430–650 EUR |
+| 200×140 cm, weiß, Dreifachglas | 530–840 EUR | 670–1.010 EUR |
+
+*Richtpreise 2026, ohne MwSt. und ohne Montage. Der Endpreis hängt von Beschlag, Farbe, Zubehör und genauen Maßen ab. Das Aufmaß erfolgt nach Vertragsunterzeichnung, das Angebot senden wir innerhalb von 48 Stunden nach Erhalt der Maße.*
 
 ## Was Sie in jedem Fensterangebot prüfen sollten
 
-✅ **Exaktes Profil** — Kammeranzahl, Tiefe, Klasse (A oder B)✅ **Verglasungstyp** — zwei- oder dreifach, deklarierter Ug-Wert, Low-E-Typ, Argon✅ **Beschläge** — deklarierte Marke (Roto, Winkhaus, Maco), nicht nur "Qualitätsbeschläge"✅ **Montage** — was enthalten ist: vorkomprimierte Bänder, Anker, Fensterbänke✅ **Garantie** — separat für Produkt (mind. 5 Jahre) und Montage (mind. 2 Jahre)
+✅ **Das genaue Profil** — Kammerzahl, Bautiefe, Klasse (A oder B)
+✅ **Die Verglasung** — zweifach oder dreifach, angegebener Ug-Wert, Art der Low-E-Beschichtung, mit oder ohne Argon
+✅ **Der Abstandhalter** — Warm Edge oder Aluminium
+✅ **Die Beschläge** — die angegebene Marke (Roto, Winkhaus, Maco), nicht nur „Qualitätsbeschlag“
+✅ **Die Montage** — was sie umfasst: vorkomprimierte Bänder, Anker, Fensterbänke, Abdichtung
+✅ **Die Garantie** — getrennt für das Produkt (mindestens 5 Jahre) und die Montage (mindestens 2 Jahre)
 
 ## Warum unterscheiden sich die Fensterpreise so stark?
 
-Ein Angebot von 160 € für ein 100×120-cm-Fenster versteckt meist: **Klasse-B-Profil** (Wandstärke unter 2,5 mm), Zweifachverglasung mit Ug = 1,0, generische Beschläge ohne Marke, Schaumdämmung, keine ernst zu nehmende Garantie.
+Ein Angebot von rund 160 EUR für ein Fenster von 100×120 cm verbirgt meist: ein **Profil der Klasse B** (Wände unter 2,5 mm), Zweifachglas ohne gute Low-E-Beschichtung, Beschläge ohne Marke, Montage nur mit Schaum und eine vage Garantie.
 
-Ein Angebot von 300 € für dasselbe Fenster beinhaltet: **Salamander Klasse-A-Profil**, Dreifachverglasung mit Argon und Low-E, Roto NT Beschläge, Montage mit vorkomprimierten Bändern, 5 Jahre Garantie.
+Ein Angebot von rund 300 EUR für dasselbe Fenster umfasst: ein **Salamander-Profil der Klasse A**, Dreifachglas mit Argon und Low-E, Roto-NT-Beschläge, Montage mit vorkomprimierten Bändern und eine schriftliche Garantie.
 
-Die Differenz von 140 € amortisiert sich in 3–5 Jahren über die Energiekosten — und vor allem vermeiden Sie Reparatur- oder vorzeitige Austauschkosten.
-
----
-
-Neofort BIZ bietet Salamander-Fenster (greenEvolution 76, bluEvolution 92) mit nZEB-Montage in Bukarest und Ilfov. Individuelles Angebot in 48 Stunden — [jetzt anfragen](/de/kontakt). Entdecken Sie das [PVC-Fenster-Sortiment](/de/kunststofffenster-pvc), das wir anbieten. Siehe auch [den Vergleich bluEvolution 92 vs greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden).
+Der Unterschied zeigt sich im Komfort, in den Energierechnungen und in der Lebensdauer des Fensters, und ein billiges Fenster, das früh repariert oder ersetzt werden muss, kommt in der Regel teurer.
 
 ## Häufig gestellte Fragen
 
 ### Warum variieren die Preise für Salamander-Fenster so stark?
 
-Der Preis hängt von 6 Hauptfaktoren ab: Profiltyp (greenEvolution 76 oder bluEvolution 92), Verglasungstyp (Doppel/Dreifach/Low-E), Profilfarbe, Beschlag, Maße und Einbauart. Die Unterschiede zwischen Angeboten können 40-80% bei gleicher Größe erreichen.
+Der Preis hängt von 6 Hauptfaktoren ab: Profil (greenEvolution 76 oder bluEvolution 92), Verglasung (zweifach oder dreifach), Farbe, Beschlag, Größe und Montageart. Deshalb können zwei Angebote für dieselbe Größe sehr unterschiedlich ausfallen.
 
-### Was ist der Preisunterschied zwischen Doppel- und Dreifachglas bei Salamander?
+### Was kostet ein Salamander-Fenster von 80×120 cm?
 
-Dreifachglas (44 mm, Ug 0,5-0,7) kostet 15-25% mehr als Standard-Doppel (32 mm, Ug 1,0-1,1). Die Dreifach-Variante mit Argon und Low-E fügt 20-35% hinzu, und der Warm-Edge-Abstandhalter weitere 5-8%, beseitigt aber Kondensat am inneren Abstandhalter.
+Als Richtwert 145–210 EUR für greenEvolution 76 und 190–270 EUR für bluEvolution 92, mit Zweifachglas, ohne Montage und ohne MwSt. Mit Dreifachglas steigt der Preis auf 180–290 EUR bzw. 230–345 EUR.
 
-### Wie viel kostet eine Farbe oder Holzoptik beim Salamander-Profil extra?
+### Was ist der Preisunterschied zwischen Zweifach- und Dreifachglas bei Salamander?
 
-Standardweiß ist der Basispreis. Holzoptik-Folie (Eiche, Nuss, Mahagoni, Wenge) fügt 20-35% hinzu, und spezielle RAL-Farben durch beidseitige Beschichtung fügen 30-50% gegenüber Weiß hinzu. Standard-Roto-NT-Beschlag ist bei seriösen Anbietern meist im Basispreis enthalten.
+Dreifach-Low-E-Glas mit Argon (Ug 0,5–0,7) kostet 40–80 EUR pro m² Glasfläche mehr als Standard-Zweifachglas (Ug 1,0–1,1). Der Warm-Edge-Abstandhalter wird auf Anfrage separat angeboten.
+
+### Wie viel kostet eine Farbe oder eine Holzdekorfolie extra?
+
+Die 7 Standardfarben sind im Preis enthalten. Sonder-, RAL- oder strukturierte Folien erhöhen den Profilpreis um 8–15 %. Roto-NT-Beschläge sind im Grundpreis enthalten.
 
 ### Welches Salamander-Profil passt zu welchem Haustyp?
 
-greenEvolution 76 (5-6 Kammern, 76 mm) ist für Standardhäuser und wirtschaftliche Renovierungen; bluEvolution 92 (6 Kammern, 92 mm) für Passivhäuser und nZEB mit maximaler Dämmung.
-
+greenEvolution 76 (5–6 Kammern, 76 mm) eignet sich für Standardwohnungen und Sanierungen, bluEvolution 92 (6 Kammern, 92 mm) für nZEB- und Passivhäuser, bei denen maximale Dämmung zählt.
 
 ---
 
-Neofort BIZ liefert beide Salamander-Profile — greenEvolution 76 und bluEvolution 92 — in Bukarest und Ilfov. [Senden Sie uns Ihre Maße](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein detailliertes Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc). Nützliche Seiten: [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise) und [Salamander-Profil greenEvolution 76 MD FLEX](/de/produkte/greenevolution-76-md-flex-pvc-profil).
-`,
+Neofort BIZ liefert beide Salamander-Profile — greenEvolution 76 und bluEvolution 92 — mit Montage in Bukarest und Ilfov. [Senden Sie uns Ihre Maße](/de/kontakt) und erhalten Sie innerhalb von 48 Stunden ein detailliertes Angebot. Sehen Sie das [PVC-Fenster-Sortiment](/de/kunststofffenster-pvc), das wir anbieten, und [den Vergleich bluEvolution 92 vs greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise) und [Salamander-Profil greenEvolution 76 MD FLEX](/de/produkte/greenevolution-76-md-flex-pvc-profil).`,
 
-      fr: `## Qu'est-ce qui influence les prix des fenêtres Salamander à Bucarest ?
+      fr: `## Qu’est-ce qui influence le prix des fenêtres Salamander à Bucarest ?
 
-Le prix d'un système de fenêtres Salamander dépend de **6 facteurs principaux**, et les différences entre devis peuvent atteindre 40–80% pour les mêmes dimensions. Avant de comparer les prix, vous devez comprendre ce que chaque devis inclut.
+Le prix d’une fenêtre Salamander dépend de **6 facteurs principaux**, et les devis pour une même taille peuvent beaucoup varier. Avant de comparer les prix, il faut comprendre ce que comprend chaque devis.
 
-### 1. Type de profilé Salamander
+### 1. Le profilé Salamander
+Neofort BIZ travaille avec deux gammes Salamander :
 
-| Profilé | Chambres | Profondeur | Joints | Classe | Utilisation recommandée |
-|---|---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Logement standard, rénovation économique |
-| **bluEvolution 92** | 6 | 92 mm | 3 | A | Maisons passives, nZEB, isolation maximale |
+| Profilé | Chambres | Profondeur | Prix indicatif | Usage recommandé |
+|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Logements standard, rénovations |
+| **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | Maisons nZEB et passives, isolation maximale |
 
-### 2. Type de vitrage
-- **Double vitrage (32 mm)** — standard, Ug = 1,0–1,1 W/(m²K)
-- **Triple vitrage (44 mm)** — recommandé, Ug = 0,5–0,7 W/(m²K), +15–25% de différence de prix
-- **Triple vitrage avec argon et Low-E** — performances optimales, +20–35%
-- **Espaceur Warm Edge** — +5–8% au prix du vitrage, élimine la condensation sur l'espaceur intérieur
+Les prix au mètre carré sont ceux de la [page des prix de la menuiserie PVC](/fr/menuiserie-pvc/prix) : ils comprennent le profilé, la quincaillerie standard et le double vitrage, sans pose et hors TVA.
 
-### 3. Couleur du profilé
-- **Blanc standard** — prix de base
-- **Folie imitation bois** (chêne, noyer, acajou, wengé) — +20–35% vs blanc
-- **Couleurs RAL spéciales** (peinture double face) — +30–50% vs blanc
+### 2. Le vitrage isolant
+- **Double vitrage** — compris dans le prix de base, Ug = 1,0–1,1 W/(m²K)
+- **Triple vitrage Low-E à l’argon** — Ug = 0,5–0,7 W/(m²K), 40 à 80 EUR de plus par m² de vitrage
+- **Intercalaire Warm Edge** — sur demande, chiffré à part dans le devis ; environ 90 % des clients le choisissent, car il réduit la condensation en bord de vitrage
 
-### 4. Quincaillerie
-- **Roto NT standard** — incluse au prix de base chez les fournisseurs sérieux
-- **Winkhaus** — prix similaire, préférée pour les projets commerciaux
-- **Quincaillerie anti-effraction RC2/RC3** — +15–25% vs standard
+### 3. La couleur du profilé
+- **Les 7 couleurs standard** — comprises dans le prix
+- **Films spéciaux, RAL ou texturés** — ajoutent 8 à 15 % au prix du profilé
 
-### 5. Pose et accessoires
-- **Pose standard** (mousse + mastic extérieur) — incluse ou 10–15% de la valeur du produit
-- **Pose professionnelle nZEB** (bandes précomprimées + ancrages) — +20–30% vs standard
-- **Appuis de fenêtre intérieurs PVC** — 16–30 €/ml
-- **Appuis de fenêtre extérieurs aluminium** — 20–40 €/ml
-- **Précadres Blaugelb** — 40–80 €/pièce, obligatoires pour nZEB
+### 4. La quincaillerie
+- **Roto NT** — comprise dans le prix de base
+- **Quincaillerie anti-effraction RC2 ou RC3** — 40 à 120 EUR de plus par fenêtre
+- **Poignées à clé** ou **à capteurs** — accessoires en supplément
 
-## Prix indicatifs fenêtres Salamander Bucarest 2026
+### 5. La pose et les accessoires
+- **Pose standard** — ajoutée à part, dans le devis
+- **Pose nZEB avec précadres Blaugelb Triotherm+ et bandes Soudal** — 25 à 50 EUR de plus par mètre linéaire de périmètre ; recommandée pour les maisons nZEB, pas obligatoire
+- **Appuis intérieurs en PVC** — 16 à 30 EUR/ml
+- **Appuis extérieurs en aluminium** — 20 à 40 EUR/ml
 
-### Fenêtre simple oscillo-battante (1 vantail)
+### 6. Les dimensions et la configuration
+Une fenêtre standard de 100×120 cm coûte bien moins qu’une fenêtre de 200×200 cm ou qu’une baie coulissante de 300×240 cm. Pour des produits sur mesure, chaque centimètre compte dans le prix.
 
-| Dimension | greenEvolution 76 | bluEvolution 92 |
+## Prix indicatifs des fenêtres Salamander à Bucarest en 2026
+
+Les prix ci-dessous sont calculés à partir des prix au mètre carré (greenEvolution 76 MD FLEX : 150–220 EUR/m² ; bluEvolution 92 FLEX : 200–280 EUR/m²), plus 40 à 80 EUR/m² pour le triple vitrage.
+
+### Fenêtre oscillo-battante à un vantail
+
+| Dimensions | greenEvolution 76 | bluEvolution 92 |
 |---|---|---|
-| 80×120 cm, blanc, double vitrage | 180–220 € | 240–300 € |
-| 80×120 cm, blanc, triple vitrage | 220–270 € | 290–360 € |
-| 100×150 cm, blanc, triple vitrage | 260–320 € | 360–440 € |
+| 80×120 cm, blanc, double vitrage | 145–210 EUR | 190–270 EUR |
+| 80×120 cm, blanc, triple vitrage | 180–290 EUR | 230–345 EUR |
+| 100×150 cm, blanc, triple vitrage | 285–450 EUR | 360–540 EUR |
 
-### Fenêtre double oscillo-battante (2 vantaux)
+### Fenêtre oscillo-battante à deux vantaux
 
-| Dimension | greenEvolution 76 | bluEvolution 92 |
+| Dimensions | greenEvolution 76 | bluEvolution 92 |
 |---|---|---|
-| 150×120 cm, blanc, triple vitrage | 440–540 € | 600–740 € |
-| 200×140 cm, blanc, triple vitrage | 560–680 € | 760–940 € |
+| 150×120 cm, blanc, triple vitrage | 340–540 EUR | 430–650 EUR |
+| 200×140 cm, blanc, triple vitrage | 530–840 EUR | 670–1 010 EUR |
 
-*Prix indicatifs 2026, hors TVA, sans pose, pour Bucarest et Ilfov.*
+*Prix indicatifs 2026, hors TVA et hors pose. Le prix final dépend de la quincaillerie, de la couleur, des accessoires et des dimensions exactes. Les métrés se font après la signature du contrat, et nous envoyons le devis sous 48 heures après réception des dimensions.*
 
-## Ce qu'il faut vérifier dans tout devis de fenêtres
+## Ce qu’il faut vérifier dans tout devis de fenêtres
 
-✅ **Profilé exact** — nombre de chambres, profondeur, classe (A ou B)✅ **Type de vitrage** — double ou triple, Ug déclaré, type Low-E, gaz argon✅ **Quincaillerie** — marque déclarée (Roto, Winkhaus, Maco), pas seulement "quincaillerie de qualité"✅ **Pose** — ce qui est inclus : bandes précomprimées, ancrages, appuis de fenêtre✅ **Garantie** — séparément pour le produit (min. 5 ans) et la main-d'œuvre (min. 2 ans)
+✅ **Le profilé exact** — nombre de chambres, profondeur, classe (A ou B)
+✅ **Le vitrage** — double ou triple, Ug déclaré, type de Low-E, avec ou sans argon
+✅ **L’intercalaire** — Warm Edge ou aluminium
+✅ **La quincaillerie** — la marque déclarée (Roto, Winkhaus, Maco), pas seulement « quincaillerie de qualité »
+✅ **La pose** — ce qu’elle comprend : bandes précomprimées, ancrages, appuis, étanchéité
+✅ **La garantie** — séparément sur le produit (au moins 5 ans) et sur la pose (au moins 2 ans)
 
 ## Pourquoi les prix des fenêtres varient-ils autant ?
 
-Un devis à 160 € pour une fenêtre 100×120 cm cache généralement : **profilé Classe B** (parois sous 2,5 mm), double vitrage Ug = 1,0, quincaillerie générique sans marque, pose à la mousse, sans garantie sérieuse.
+Un devis d’environ 160 EUR pour une fenêtre de 100×120 cm cache en général : un **profilé de classe B** (parois de moins de 2,5 mm), un double vitrage sans bonne couche Low-E, une quincaillerie sans marque, une pose à la mousse seule et une garantie floue.
 
-Un devis à 300 € pour la même fenêtre inclut : **profilé Salamander Classe A**, triple vitrage avec argon et Low-E, quincaillerie Roto NT, pose avec bandes précomprimées, garantie 5 ans.
+Un devis d’environ 300 EUR pour la même fenêtre comprend : un **profilé Salamander de classe A**, un triple vitrage à l’argon avec Low-E, une quincaillerie Roto NT, une pose avec bandes précomprimées et une garantie écrite.
 
-La différence de 140 € est récupérée en 3–5 ans sur les factures d'énergie — et surtout vous évitez les coûts de réparation ou de remplacement prématuré.
-
----
-
-Neofort BIZ propose des fenêtres Salamander (greenEvolution 76, bluEvolution 92) avec pose nZEB à Bucarest et Ilfov. Devis personnalisé en 48 heures — [demander maintenant](/fr/contact). Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) que nous proposons. Voir aussi [la comparaison bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide).
+La différence se voit dans le confort, dans les factures d’énergie et dans la durée de vie de la fenêtre, et une fenêtre bon marché qu’il faut réparer ou remplacer tôt finit en général par coûter plus cher.
 
 ## Questions fréquentes
 
 ### Pourquoi les prix des fenêtres Salamander varient-ils autant ?
 
-Le prix dépend de 6 facteurs principaux : type de profilé (greenEvolution 76 ou bluEvolution 92), type de vitrage (double/triple/Low-E), couleur du profilé, quincaillerie, dimensions et type de pose. Les écarts entre devis peuvent atteindre 40-80% pour la même taille.
+Le prix dépend de 6 facteurs principaux : le profilé (greenEvolution 76 ou bluEvolution 92), le vitrage (double ou triple), la couleur, la quincaillerie, les dimensions et le type de pose. C’est pourquoi deux devis pour la même taille peuvent être très différents.
 
-### Quelle est la différence de prix entre double et triple vitrage chez Salamander ?
+### Combien coûte une fenêtre Salamander de 80×120 cm ?
 
-Le triple vitrage (44 mm, Ug 0,5-0,7) coûte 15-25% de plus que le double standard (32 mm, Ug 1,0-1,1). La variante triple avec argon et Low-E ajoute 20-35%, et l'intercalaire Warm Edge encore 5-8%, mais élimine la condensation sur l'intercalaire intérieur.
+À titre indicatif, 145 à 210 EUR en greenEvolution 76 et 190 à 270 EUR en bluEvolution 92, en double vitrage, hors pose et hors TVA. En triple vitrage, le prix monte à 180–290 EUR et 230–345 EUR respectivement.
 
-### Combien coûte en plus une couleur ou un aspect bois sur un profilé Salamander ?
+### Quelle différence de prix entre double et triple vitrage chez Salamander ?
 
-Le blanc standard est le prix de base. Le film aspect bois (chêne, noyer, acajou, wengé) ajoute 20-35%, et les couleurs RAL spéciales par laquage double face ajoutent 30-50% par rapport au blanc. La quincaillerie Roto NT standard est généralement incluse dans le prix de base chez les fournisseurs sérieux.
+Le triple vitrage Low-E à l’argon (Ug 0,5–0,7) coûte 40 à 80 EUR de plus par m² de vitrage que le double vitrage standard (Ug 1,0–1,1). L’intercalaire Warm Edge est chiffré à part, sur demande.
+
+### Combien coûte en plus une couleur ou un film imitation bois ?
+
+Les 7 couleurs standard sont comprises dans le prix. Les films spéciaux, RAL ou texturés ajoutent 8 à 15 % au prix du profilé. La quincaillerie Roto NT est comprise dans le prix de base.
 
 ### Quel profilé Salamander convient à quel type de logement ?
 
-Le greenEvolution 76 (5-6 chambres, 76 mm) est pour les logements standard et rénovations économiques ; le bluEvolution 92 (6 chambres, 92 mm) pour les maisons passives et nZEB à isolation maximale.
-
+Le greenEvolution 76 (5–6 chambres, 76 mm) convient aux logements standard et aux rénovations, et le bluEvolution 92 (6 chambres, 92 mm) aux maisons nZEB et passives, où l’isolation maximale compte.
 
 ---
 
-Neofort BIZ fournit les deux profilés Salamander — greenEvolution 76 et bluEvolution 92 — à Bucarest et dans l’Ilfov. [Transmettez-nous vos dimensions](/fr/contact) et recevez un devis détaillé sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc). Pages utiles : [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix) et [le profilé Salamander greenEvolution 76 MD FLEX](/fr/produits/profil-pvc-greenevolution-76-md-flex).
-`,
+Neofort BIZ fournit les deux profilés Salamander — greenEvolution 76 et bluEvolution 92 — avec pose à Bucarest et en Ilfov. [Transmettez-nous vos dimensions](/fr/contact) et recevez un devis détaillé sous 48 heures. Découvrez [la gamme de fenêtres PVC](/fr/menuiserie-pvc) que nous proposons et [la comparaison bluEvolution 92 vs greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix) et [le profilé Salamander greenEvolution 76 MD FLEX](/fr/produits/profil-pvc-greenevolution-76-md-flex).`,
 
-      es: `## ¿Qué influye en los precios de las ventanas Salamander en Bucarest?
+      es: `## ¿Qué influye en el precio de las ventanas Salamander en Bucarest?
 
-El precio de un sistema de ventanas Salamander depende de **6 factores principales**, y las diferencias entre presupuestos pueden ser del 40–80% para las mismas dimensiones. Antes de comparar precios, debe entender qué incluye cada presupuesto.
+El precio de una ventana Salamander depende de **6 factores principales**, y los presupuestos para una misma medida pueden variar mucho. Antes de comparar precios, hay que entender qué incluye cada presupuesto.
 
-### 1. Tipo de perfil Salamander
+### 1. El perfil Salamander
+Neofort BIZ trabaja con dos gamas Salamander:
 
-| Perfil | Cámaras | Profundidad | Juntas | Clase | Uso recomendado |
-|---|---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Vivienda estándar, renovación económica |
-| **bluEvolution 92** | 6 | 92 mm | 3 | A | Casas pasivas, nZEB, aislamiento máximo |
+| Perfil | Cámaras | Profundidad | Precio orientativo | Uso recomendado |
+|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Viviendas estándar, reformas |
+| **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | Casas nZEB y pasivas, aislamiento máximo |
 
-### 2. Tipo de acristalamiento
-- **Doble acristalamiento (32 mm)** — estándar, Ug = 1,0–1,1 W/(m²K)
-- **Triple acristalamiento (44 mm)** — recomendado, Ug = 0,5–0,7 W/(m²K), +15–25% diferencia de precio
-- **Triple acristalamiento con argón y Low-E** — máximo rendimiento, +20–35%
-- **Separador Warm Edge** — +5–8% al precio del acristalamiento, elimina la condensación en el separador interior
+Los precios por metro cuadrado son los de la [página de precios de la carpintería PVC](/es/carpinteria-pvc/precios): incluyen el perfil, los herrajes estándar y el doble acristalamiento, sin instalación y sin IVA.
 
-### 3. Color del perfil
-- **Blanco estándar** — precio base
-- **Laminado imitación madera** (roble, nogal, caoba, wengé) — +20–35% vs blanco
-- **Colores RAL especiales** (pintura de doble cara) — +30–50% vs blanco
+### 2. El vidrio aislante
+- **Doble acristalamiento** — incluido en el precio base, Ug = 1,0–1,1 W/(m²K)
+- **Triple vidrio Low-E con argón** — Ug = 0,5–0,7 W/(m²K), 40–80 EUR más por m² de acristalamiento
+- **Separador Warm Edge** — bajo pedido, presupuestado aparte; lo elige alrededor del 90 % de los clientes porque reduce la condensación en el borde del vidrio
 
-### 4. Herraje
-- **Roto NT estándar** — incluido en el precio base en proveedores serios
-- **Winkhaus** — precio similar, preferido para proyectos comerciales
-- **Herraje antiefracción RC2/RC3** — +15–25% vs estándar
+### 3. El color del perfil
+- **Los 7 colores estándar** — incluidos en el precio
+- **Láminas especiales, RAL o texturizadas** — añaden un 8–15 % al precio del perfil
 
-### 5. Instalación y accesorios
-- **Instalación estándar** (espuma + sellante exterior) — incluida o 10–15% del valor del producto
-- **Instalación profesional nZEB** (bandas precomprimidas + anclajes) — +20–30% vs estándar
-- **Alféizares interiores PVC** — 16–30 €/ml
-- **Alféizares exteriores aluminio** — 20–40 €/ml
-- **Premarcos Blaugelb** — 40–80 €/ud, obligatorios para nZEB
+### 4. Los herrajes
+- **Roto NT** — incluidos en el precio base
+- **Herrajes antirrobo RC2 o RC3** — 40–120 EUR más por ventana
+- **Manillas con llave** o **con sensores** — accesorios adicionales
 
-## Precios orientativos ventanas Salamander Bucarest 2026
+### 5. La instalación y los accesorios
+- **Instalación estándar** — se añade aparte, en el presupuesto
+- **Instalación nZEB con premarcos Blaugelb Triotherm+ y cintas Soudal** — 25–50 EUR más por metro lineal de perímetro; recomendada en casas nZEB, no obligatoria
+- **Vierteaguas interiores de PVC** — 16–30 EUR/ml
+- **Vierteaguas exteriores de aluminio** — 20–40 EUR/ml
 
-### Ventana simple oscilo-batiente (1 hoja)
+### 6. Las medidas y la configuración
+Una ventana estándar de 100×120 cm cuesta mucho menos que una de 200×200 cm o que una corredera de 300×240 cm. En los productos a medida, cada centímetro cuenta en el precio.
 
-| Tamaño | greenEvolution 76 | bluEvolution 92 |
+## Precios orientativos de ventanas Salamander en Bucarest, 2026
+
+Los precios de abajo se calculan a partir de los precios por metro cuadrado (greenEvolution 76 MD FLEX: 150–220 EUR/m²; bluEvolution 92 FLEX: 200–280 EUR/m²), más 40–80 EUR/m² por el triple vidrio.
+
+### Ventana oscilobatiente de una hoja
+
+| Medida | greenEvolution 76 | bluEvolution 92 |
 |---|---|---|
-| 80×120 cm, blanco, doble acrist. | 180–220 € | 240–300 € |
-| 80×120 cm, blanco, triple acrist. | 220–270 € | 290–360 € |
-| 100×150 cm, blanco, triple acrist. | 260–320 € | 360–440 € |
+| 80×120 cm, blanca, doble vidrio | 145–210 EUR | 190–270 EUR |
+| 80×120 cm, blanca, triple vidrio | 180–290 EUR | 230–345 EUR |
+| 100×150 cm, blanca, triple vidrio | 285–450 EUR | 360–540 EUR |
 
-### Ventana doble oscilo-batiente (2 hojas)
+### Ventana oscilobatiente de dos hojas
 
-| Tamaño | greenEvolution 76 | bluEvolution 92 |
+| Medida | greenEvolution 76 | bluEvolution 92 |
 |---|---|---|
-| 150×120 cm, blanco, triple acrist. | 440–540 € | 600–740 € |
-| 200×140 cm, blanco, triple acrist. | 560–680 € | 760–940 € |
+| 150×120 cm, blanca, triple vidrio | 340–540 EUR | 430–650 EUR |
+| 200×140 cm, blanca, triple vidrio | 530–840 EUR | 670–1.010 EUR |
 
-*Precios orientativos 2026, sin IVA, sin instalación, para Bucarest e Ilfov.*
+*Precios orientativos 2026, sin IVA y sin instalación. El precio final depende de los herrajes, el color, los accesorios y las medidas exactas. Las mediciones se hacen después de firmar el contrato y enviamos el presupuesto en 48 horas desde que recibimos las medidas.*
 
-## Qué verificar en cualquier presupuesto de ventanas
+## Qué comprobar en cualquier presupuesto de ventanas
 
-✅ **Perfil exacto** — número de cámaras, profundidad, clase (A o B)✅ **Tipo de acristalamiento** — doble o triple, Ug declarado, tipo Low-E, gas argón✅ **Herraje** — marca declarada (Roto, Winkhaus, Maco), no solo "herraje de calidad"✅ **Instalación** — qué incluye: bandas precomprimidas, anclajes, alféizares✅ **Garantía** — por separado para producto (mín. 5 años) y mano de obra (mín. 2 años)
+✅ **El perfil exacto** — número de cámaras, profundidad, clase (A o B)
+✅ **El vidrio** — doble o triple, Ug declarado, tipo de Low-E, con o sin argón
+✅ **El separador** — Warm Edge o de aluminio
+✅ **Los herrajes** — la marca declarada (Roto, Winkhaus, Maco), no solo «herrajes de calidad»
+✅ **La instalación** — qué incluye: cintas precomprimidas, anclajes, vierteaguas, sellado
+✅ **La garantía** — por separado del producto (al menos 5 años) y de la instalación (al menos 2 años)
 
 ## ¿Por qué varían tanto los precios de las ventanas?
 
-Un presupuesto de 160 € para una ventana de 100×120 cm suele esconder: **perfil Clase B** (paredes bajo 2,5 mm), doble acristalamiento Ug = 1,0, herraje genérico sin marca, instalación con espuma, sin garantía seria.
+Un presupuesto de unos 160 EUR para una ventana de 100×120 cm suele esconder: un **perfil de clase B** (paredes de menos de 2,5 mm), doble vidrio sin una buena capa Low-E, herrajes sin marca, instalación solo con espuma y una garantía vaga.
 
-Un presupuesto de 300 € para la misma ventana incluye: **perfil Salamander Clase A**, triple acristalamiento con argón y Low-E, herraje Roto NT, instalación con bandas precomprimidas, garantía de 5 años.
+Un presupuesto de unos 300 EUR para la misma ventana incluye: un **perfil Salamander de clase A**, triple vidrio con argón y Low-E, herrajes Roto NT, instalación con cintas precomprimidas y garantía por escrito.
 
-La diferencia de 140 € se recupera en 3–5 años en facturas de energía — y sobre todo evita costes de reparación o sustitución prematura.
-
----
-
-Neofort BIZ ofrece ventanas Salamander (greenEvolution 76, bluEvolution 92) con instalación nZEB en Bucarest e Ilfov. Presupuesto personalizado en 48 horas — [solicitar ahora](/es/contacto). Descubre [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos. Ver también [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia).
+La diferencia se nota en el confort, en las facturas de energía y en la vida útil de la ventana, y una ventana barata que hay que reparar o sustituir pronto suele acabar saliendo más cara.
 
 ## Preguntas frecuentes
 
 ### ¿Por qué varían tanto los precios de las ventanas Salamander?
 
-El precio depende de 6 factores principales: tipo de perfil (greenEvolution 76 o bluEvolution 92), tipo de vidrio (doble/triple/Low-E), color del perfil, herrajes, dimensiones y tipo de instalación. Las diferencias entre presupuestos pueden llegar al 40-80% para el mismo tamaño.
+El precio depende de 6 factores principales: el perfil (greenEvolution 76 o bluEvolution 92), el vidrio (doble o triple), el color, los herrajes, las medidas y el tipo de instalación. Por eso dos presupuestos para la misma medida pueden ser muy distintos.
 
-### ¿Cuál es la diferencia de precio entre vidrio doble y triple en Salamander?
+### ¿Cuánto cuesta una ventana Salamander de 80×120 cm?
 
-El vidrio triple (44 mm, Ug 0,5-0,7) cuesta un 15-25% más que el doble estándar (32 mm, Ug 1,0-1,1). La variante triple con argón y Low-E añade un 20-35%, y el separador Warm Edge otro 5-8%, pero elimina la condensación en el separador interior.
+De forma orientativa, 145–210 EUR en greenEvolution 76 y 190–270 EUR en bluEvolution 92, con doble vidrio, sin instalación y sin IVA. Con triple vidrio el precio sube a 180–290 EUR y 230–345 EUR respectivamente.
 
-### ¿Cuánto cuesta de más un color o imitación madera en el perfil Salamander?
+### ¿Qué diferencia de precio hay entre doble y triple vidrio en Salamander?
 
-El blanco estándar es el precio base. La lámina imitación madera (roble, nogal, caoba, wengué) añade un 20-35%, y los colores RAL especiales mediante lacado a doble cara añaden un 30-50% sobre el blanco. El herraje Roto NT estándar suele estar incluido en el precio base en proveedores serios.
+El triple vidrio Low-E con argón (Ug 0,5–0,7) cuesta 40–80 EUR más por m² de acristalamiento que el doble vidrio estándar (Ug 1,0–1,1). El separador Warm Edge se presupuesta aparte, bajo pedido.
+
+### ¿Cuánto cuesta de más un color o una lámina imitación madera?
+
+Los 7 colores estándar están incluidos en el precio. Las láminas especiales, RAL o texturizadas añaden un 8–15 % al precio del perfil. Los herrajes Roto NT están incluidos en el precio base.
 
 ### ¿Qué perfil Salamander conviene a cada tipo de vivienda?
 
-El greenEvolution 76 (5-6 cámaras, 76 mm) es para viviendas estándar y reformas económicas; el bluEvolution 92 (6 cámaras, 92 mm) para casas pasivas y nZEB con aislamiento máximo.
-
-
----
-
-Neofort BIZ suministra los dos perfiles Salamander — greenEvolution 76 y bluEvolution 92 — en Bucarest e Ilfov. [Envíenos sus medidas](/es/contacto) y recibirá un presupuesto detallado en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc). Páginas útiles: [los precios de la carpintería PVC](/es/carpinteria-pvc/precios) y [el perfil Salamander greenEvolution 76 MD FLEX](/es/productos/perfil-pvc-greenevolution-76-md-flex).
-`,
-
-      it: `## Cosa influenza i prezzi delle finestre Salamander a Bucarest?
-
-Il prezzo di un sistema di finestre Salamander dipende da **6 fattori principali**, e le differenze tra preventivi possono essere del 40–80% per le stesse dimensioni. Prima di confrontare i prezzi, devi capire cosa include ogni preventivo.
-
-### 1. Tipo di profilo Salamander
-
-| Profilo | Camere | Profondità | Guarnizioni | Classe | Uso consigliato |
-|---|---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 3 | A | Abitazioni standard, ristrutturazione economica |
-| **bluEvolution 92** | 6 | 92 mm | 3 | A | Case passive, nZEB, isolamento massimo |
-
-### 2. Tipo di vetrocamera
-- **Doppio vetro (32 mm)** — standard, Ug = 1,0–1,1 W/(m²K)
-- **Triplo vetro (44 mm)** — consigliato, Ug = 0,5–0,7 W/(m²K), +15–25% differenza di prezzo
-- **Triplo vetro con argon e Low-E** — prestazioni massime, +20–35%
-- **Distanziale Warm Edge** — +5–8% al prezzo del vetro, elimina la condensa sul distanziale interno
-
-### 3. Colore del profilo
-- **Bianco standard** — prezzo base
-- **Pellicola effetto legno** (rovere, noce, mogano, wengè) — +20–35% vs bianco
-- **Colori RAL speciali** (verniciatura doppia faccia) — +30–50% vs bianco
-
-### 4. Ferramenta
-- **Roto NT standard** — inclusa nel prezzo base presso fornitori seri
-- **Winkhaus** — prezzo simile, preferita per progetti commerciali
-- **Ferramenta antieffrazione RC2/RC3** — +15–25% vs standard
-
-### 5. Installazione e accessori
-- **Installazione standard** (schiuma + sigillante esterno) — inclusa o 10–15% del valore del prodotto
-- **Installazione professionale nZEB** (nastri precompressi + ancoraggi) — +20–30% vs standard
-- **Davanzali interni PVC** — 16–30 €/ml
-- **Davanzali esterni alluminio** — 20–40 €/ml
-- **Controtelai Blaugelb** — 40–80 €/pezzo, obbligatorie per nZEB
-
-## Prezzi indicativi finestre Salamander Bucarest 2026
-
-### Finestra semplice anta-ribalta (1 anta)
-
-| Dimensione | greenEvolution 76 | bluEvolution 92 |
-|---|---|---|
-| 80×120 cm, bianco, doppio vetro | 180–220 € | 240–300 € |
-| 80×120 cm, bianco, triplo vetro | 220–270 € | 290–360 € |
-| 100×150 cm, bianco, triplo vetro | 260–320 € | 360–440 € |
-
-### Finestra doppia anta-ribalta (2 ante)
-
-| Dimensione | greenEvolution 76 | bluEvolution 92 |
-|---|---|---|
-| 150×120 cm, bianco, triplo vetro | 440–540 € | 600–740 € |
-| 200×140 cm, bianco, triplo vetro | 560–680 € | 760–940 € |
-
-*Prezzi indicativi 2026, IVA esclusa, senza installazione, per Bucarest e Ilfov.*
-
-## Cosa verificare in qualsiasi preventivo di finestre
-
-✅ **Profilo esatto** — numero di camere, profondità, classe (A o B)✅ **Tipo di vetrocamera** — doppio o triplo, Ug dichiarato, tipo Low-E, gas argon✅ **Ferramenta** — marca dichiarata (Roto, Winkhaus, Maco), non solo "ferramenta di qualità"✅ **Installazione** — cosa include: nastri precompressi, ancoraggi, davanzali✅ **Garanzia** — separatamente per prodotto (min. 5 anni) e manodopera (min. 2 anni)
-
-## Perché i prezzi delle finestre variano così tanto?
-
-Un preventivo da 160 € per una finestra 100×120 cm nasconde solitamente: **profilo Classe B** (pareti sotto 2,5 mm), doppio vetro Ug = 1,0, ferramenta generica senza marca, installazione con schiuma, nessuna garanzia seria.
-
-Un preventivo da 300 € per la stessa finestra include: **profilo Salamander Classe A**, triplo vetro con argon e Low-E, ferramenta Roto NT, installazione con nastri precompressi, garanzia 5 anni.
-
-La differenza di 140 € si recupera in 3–5 anni sulle bollette energetiche — e soprattutto si evitano costi di riparazione o sostituzione prematura.
+El greenEvolution 76 (5–6 cámaras, 76 mm) conviene a viviendas estándar y reformas, y el bluEvolution 92 (6 cámaras, 92 mm) a casas nZEB y pasivas, donde importa el aislamiento máximo.
 
 ---
 
-Neofort BIZ offre finestre Salamander (greenEvolution 76, bluEvolution 92) con installazione nZEB a Bucarest e Ilfov. Preventivo personalizzato in 48 ore — [richiedi ora](/it/contatti). Scopri [la gamma di infissi PVC](/it/infissi-pvc) che offriamo. Vedi anche [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida).
+Neofort BIZ suministra los dos perfiles Salamander — greenEvolution 76 y bluEvolution 92 — con instalación en Bucarest e Ilfov. [Envíenos sus medidas](/es/contacto) y reciba un presupuesto detallado en 48 horas. Consulte [la gama de ventanas PVC](/es/carpinteria-pvc) que ofrecemos y [la comparación bluEvolution 92 vs greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [los precios de la carpintería PVC](/es/carpinteria-pvc/precios) y [el perfil Salamander greenEvolution 76 MD FLEX](/es/productos/perfil-pvc-greenevolution-76-md-flex).`,
+
+      it: `## Che cosa influenza il prezzo delle finestre Salamander a Bucarest?
+
+Il prezzo di una finestra Salamander dipende da **6 fattori principali**, e i preventivi per la stessa misura possono variare molto. Prima di confrontare i prezzi, bisogna capire che cosa comprende ogni preventivo.
+
+### 1. Il profilo Salamander
+Neofort BIZ lavora con due gamme Salamander:
+
+| Profilo | Camere | Profondità | Prezzo indicativo | Uso consigliato |
+|---|---|---|---|---|
+| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Abitazioni standard, ristrutturazioni |
+| **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | Case nZEB e passive, isolamento massimo |
+
+I prezzi al metro quadro sono quelli della [pagina dei prezzi degli infissi in PVC](/it/infissi-pvc/prezzi): comprendono profilo, ferramenta standard e doppio vetro, senza posa e IVA esclusa.
+
+### 2. Il vetro isolante
+- **Doppio vetro** — compreso nel prezzo base, Ug = 1,0–1,1 W/(m²K)
+- **Triplo vetro Low-E con argon** — Ug = 0,5–0,7 W/(m²K), 40–80 EUR in più per m² di vetrata
+- **Distanziale Warm Edge** — su richiesta, quotato a parte nel preventivo; lo sceglie circa il 90% dei clienti perché riduce la condensa sul bordo del vetro
+
+### 3. Il colore del profilo
+- **I 7 colori standard** — compresi nel prezzo
+- **Pellicole speciali, RAL o testurizzate** — aggiungono l’8–15% al prezzo del profilo
+
+### 4. La ferramenta
+- **Roto NT** — compresa nel prezzo base
+- **Ferramenta antieffrazione RC2 o RC3** — 40–120 EUR in più per finestra
+- **Maniglie con chiave** o **con sensori** — accessori aggiuntivi
+
+### 5. La posa e gli accessori
+- **Posa standard** — si aggiunge a parte, nel preventivo
+- **Posa nZEB con controtelai Blaugelb Triotherm+ e nastri Soudal** — 25–50 EUR in più per metro lineare di perimetro; consigliata nelle case nZEB, non obbligatoria
+- **Davanzali interni in PVC** — 16–30 EUR/ml
+- **Davanzali esterni in alluminio** — 20–40 EUR/ml
+
+### 6. Le dimensioni e la configurazione
+Una finestra standard di 100×120 cm costa molto meno di una finestra di 200×200 cm o di uno scorrevole di 300×240 cm. Nei prodotti su misura ogni centimetro conta nel prezzo.
+
+## Prezzi indicativi delle finestre Salamander a Bucarest, 2026
+
+I prezzi qui sotto sono calcolati dai prezzi al metro quadro (greenEvolution 76 MD FLEX: 150–220 EUR/m²; bluEvolution 92 FLEX: 200–280 EUR/m²), più 40–80 EUR/m² per il triplo vetro.
+
+### Finestra ad anta-ribalta a un’anta
+
+| Misura | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 80×120 cm, bianca, doppio vetro | 145–210 EUR | 190–270 EUR |
+| 80×120 cm, bianca, triplo vetro | 180–290 EUR | 230–345 EUR |
+| 100×150 cm, bianca, triplo vetro | 285–450 EUR | 360–540 EUR |
+
+### Finestra ad anta-ribalta a due ante
+
+| Misura | greenEvolution 76 | bluEvolution 92 |
+|---|---|---|
+| 150×120 cm, bianca, triplo vetro | 340–540 EUR | 430–650 EUR |
+| 200×140 cm, bianca, triplo vetro | 530–840 EUR | 670–1.010 EUR |
+
+*Prezzi indicativi 2026, IVA esclusa e posa esclusa. Il prezzo finale dipende da ferramenta, colore, accessori e misure esatte. I rilievi si fanno dopo la firma del contratto e inviamo il preventivo entro 48 ore dal ricevimento delle misure.*
+
+## Che cosa verificare in ogni preventivo di infissi
+
+✅ **Il profilo esatto** — numero di camere, profondità, classe (A o B)
+✅ **Il vetro** — doppio o triplo, Ug dichiarato, tipo di Low-E, con o senza argon
+✅ **Il distanziale** — Warm Edge o in alluminio
+✅ **La ferramenta** — la marca dichiarata (Roto, Winkhaus, Maco), non solo «ferramenta di qualità»
+✅ **La posa** — che cosa comprende: nastri precompressi, ancoraggi, davanzali, sigillatura
+✅ **La garanzia** — separata sul prodotto (almeno 5 anni) e sulla posa (almeno 2 anni)
+
+## Perché i prezzi degli infissi variano così tanto?
+
+Un preventivo di circa 160 EUR per una finestra di 100×120 cm di solito nasconde: un **profilo di classe B** (pareti sotto i 2,5 mm), doppio vetro senza un buon strato Low-E, ferramenta senza marca, posa solo con schiuma e una garanzia vaga.
+
+Un preventivo di circa 300 EUR per la stessa finestra comprende: un **profilo Salamander di classe A**, triplo vetro con argon e Low-E, ferramenta Roto NT, posa con nastri precompressi e garanzia scritta.
+
+La differenza si vede nel comfort, nelle bollette energetiche e nella durata della finestra, e una finestra economica da riparare o sostituire presto finisce di solito per costare di più.
 
 ## Domande frequenti
 
 ### Perché i prezzi delle finestre Salamander variano così tanto?
 
-Il prezzo dipende da 6 fattori principali: tipo di profilo (greenEvolution 76 o bluEvolution 92), tipo di vetro (doppio/triplo/Low-E), colore del profilo, ferramenta, dimensioni e tipo di posa. Le differenze tra preventivi possono raggiungere il 40-80% per la stessa misura.
+Il prezzo dipende da 6 fattori principali: il profilo (greenEvolution 76 o bluEvolution 92), il vetro (doppio o triplo), il colore, la ferramenta, le dimensioni e il tipo di posa. Per questo due preventivi per la stessa misura possono essere molto diversi.
 
-### Qual è la differenza di prezzo tra vetro doppio e triplo da Salamander?
+### Quanto costa una finestra Salamander di 80×120 cm?
 
-Il vetro triplo (44 mm, Ug 0,5-0,7) costa il 15-25% in più del doppio standard (32 mm, Ug 1,0-1,1). La variante tripla con argon e Low-E aggiunge il 20-35%, e il distanziatore Warm Edge un altro 5-8%, ma elimina la condensa sul distanziatore interno.
+Indicativamente 145–210 EUR in greenEvolution 76 e 190–270 EUR in bluEvolution 92, con doppio vetro, posa e IVA escluse. Con il triplo vetro il prezzo sale rispettivamente a 180–290 EUR e 230–345 EUR.
 
-### Quanto costa in più un colore o effetto legno sul profilo Salamander?
+### Che differenza di prezzo c’è tra doppio e triplo vetro con Salamander?
 
-Il bianco standard è il prezzo base. La pellicola effetto legno (rovere, noce, mogano, wengé) aggiunge il 20-35%, e i colori RAL speciali con verniciatura bifacciale aggiungono il 30-50% rispetto al bianco. La ferramenta Roto NT standard è di solito inclusa nel prezzo base presso fornitori seri.
+Il triplo vetro Low-E con argon (Ug 0,5–0,7) costa 40–80 EUR in più per m² di vetrata rispetto al doppio vetro standard (Ug 1,0–1,1). Il distanziale Warm Edge si quota a parte, su richiesta.
+
+### Quanto costa in più un colore o una pellicola effetto legno?
+
+I 7 colori standard sono compresi nel prezzo. Le pellicole speciali, RAL o testurizzate aggiungono l’8–15% al prezzo del profilo. La ferramenta Roto NT è compresa nel prezzo base.
 
 ### Quale profilo Salamander è adatto a quale tipo di abitazione?
 
-Il greenEvolution 76 (5-6 camere, 76 mm) è per abitazioni standard e ristrutturazioni economiche; il bluEvolution 92 (6 camere, 92 mm) per case passive e nZEB con isolamento massimo.
-
+Il greenEvolution 76 (5–6 camere, 76 mm) è adatto ad abitazioni standard e ristrutturazioni, il bluEvolution 92 (6 camere, 92 mm) alle case nZEB e passive, dove conta l’isolamento massimo.
 
 ---
 
-Neofort BIZ fornisce entrambi i profili Salamander — greenEvolution 76 e bluEvolution 92 — a Bucarest e nell’Ilfov. [Inviateci le vostre misure](/it/contatti) e riceverete un preventivo dettagliato entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc). Pagine utili: [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi) e [il profilo Salamander greenEvolution 76 MD FLEX](/it/prodotti/profilo-pvc-greenevolution-76-md-flex).
-`,
+Neofort BIZ fornisce entrambi i profili Salamander — greenEvolution 76 e bluEvolution 92 — con posa a Bucarest e Ilfov. [Inviateci le vostre misure](/it/contatti) e ricevete un preventivo dettagliato entro 48 ore. Scoprite [la gamma di infissi PVC](/it/infissi-pvc) che offriamo e [il confronto bluEvolution 92 vs greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi) e [il profilo Salamander greenEvolution 76 MD FLEX](/it/prodotti/profilo-pvc-greenevolution-76-md-flex).`,
     },
   },
 
@@ -36952,9 +36973,9 @@ Garniturile EPDM se uzează și se durificesc în 10–15 ani. Odată dure, nu m
 ## Reparare sau înlocuire? Calculul corect
 
 ### Când merită repararea
-- Feronerie uzată pe ferestre altfel în stare bună → înlocuiește doar feroneria (200–400 lei/fereastră)
-- Garnituri uzate → înlocuiește garniturile (50–100 lei/fereastră)
-- Geam spart sau cu condens → înlocuiește doar pachetul de geam (400–800 lei)
+- Feronerie uzată pe ferestre altfel în stare bună → înlocuiește doar feroneria (40–80 EUR/fereastră)
+- Garnituri uzate → înlocuiește garniturile (10–20 EUR/fereastră)
+- Geam spart sau cu condens → înlocuiește doar pachetul de geam (80–160 EUR)
 - Ferestre sub 15 ani cu profil intact → reparare sistematică
 
 ### Când este mai rentabilă înlocuirea completă
@@ -36965,20 +36986,20 @@ Garniturile EPDM se uzează și se durificesc în 10–15 ani. Odată dure, nu m
 
 ## Cât costă înlocuirea ferestrelor PVC în 2026?
 
-| Tip fereastră | Dimensiune | Preț orientativ (montaj inclus) |
+| Tip fereastră | Dimensiune | Preț orientativ (fără montaj) |
 |---|---|---|
-| Oscilo-batantă PVC Salamander bluEvolution 92, triplu | 80×120 cm | 1.450–1.800 lei |
-| Oscilo-batantă PVC Salamander bluEvolution 92, triplu | 100×150 cm | 1.800–2.200 lei |
-| Fereastră dublă PVC bluEvolution 92, triplu | 150×120 cm | 2.800–3.500 lei |
-| Ușă balcon PVC, triplu | 80×210 cm | 2.200–2.800 lei |
+| Oscilo-batantă PVC Salamander bluEvolution 92, triplu | 80×120 cm | 230–345 EUR |
+| Oscilo-batantă PVC Salamander bluEvolution 92, triplu | 100×150 cm | 360–540 EUR |
+| Fereastră dublă PVC bluEvolution 92, triplu | 150×120 cm | 430–650 EUR |
+| Ușă balcon PVC, triplu | 80×210 cm | 405–605 EUR |
 
-*Prețuri fără TVA, montaj standard București/Ilfov*
+*Prețuri fără TVA și fără montaj, calculate din prețurile pe metru pătrat ale bluEvolution 92 cu geam triplu; montajul se adaugă în ofertă*
 
 **Calculul amortizării înlocuirii:**
 Apartament 50 m², 6 ferestre cu dublu vechi (Uw = 2,0) → înlocuire cu triplu Salamander 92 (Uw = 0,72):
-- Economie anuală: ~520 lei/an la energie
-- Cost total înlocuire 6 ferestre: ~12.000 lei
-- **Amortizare: ~23 ani** — dar confortul termic și fonic se îmbunătățesc instant
+- Economie anuală: ~100 EUR/an la energie (la 0,12 EUR/kWh)
+- Cost total înlocuire 6 ferestre: ~1.700–2.600 EUR, fără montaj
+- **Amortizare: peste 20 de ani** — dar confortul termic și fonic se îmbunătățesc instant
 
 ## Cum prelungești durata de viață a ferestrelor PVC
 
@@ -37001,7 +37022,7 @@ Apartament 50 m², 6 ferestre cu dublu vechi (Uw = 2,0) → înlocuire cu triplu
 Profilul PVC Salamander are o durată de viață estimată de 40–50 de ani în condiții normale. Garanția comercială acordată de Neofort BIZ este de 5 ani. Feroneria necesită înlocuire sau service după 15–20 ani.
 
 ### Se pot înlocui doar geamurile fără a schimba rama?
-Da, dacă rama/profilul sunt în stare bună. Un pachet de geam nou costă 400–800 lei față de 1.500–2.000 lei pentru fereastra completă. Meșterul verifică dacă fălțul ramei permite un pachet mai gros (ex: triplu în loc de dublu).
+Da, dacă rama/profilul sunt în stare bună. Un pachet de geam nou costă 80–160 EUR față de 230–345 EUR pentru fereastra completă. Meșterul verifică dacă fălțul ramei permite un pachet mai gros (ex: triplu în loc de dublu).
 
 ### La câți ani se schimbă garniturile la ferestre PVC?
 Garniturile EPDM se înlocuiesc la 10–15 ani. Semne că trebuie schimbate: se simt crăpate la atingere, nu mai revin la forma inițială, sau apare curent cu fereastra închisă.
@@ -37010,7 +37031,7 @@ Garniturile EPDM se înlocuiesc la 10–15 ani. Semne că trebuie schimbate: se 
 Depinde de starea profilului și performanța termică actuală. Dacă profilul e intact și Uw-ul actual e sub 1,5 W/(m²K), repararea e rentabilă. Dacă profilul e degradat sau Uw > 1,5 W/(m²K) și vrei eficiență energetică, înlocuirea completă e mai bună pe termen lung.
 
 ### Cât costă service-ul la ferestre PVC?
-Reglaj feronerie + ungere: 150–250 lei/fereastră (sau abonament service anual). Înlocuire garnituri: 50–100 lei/fereastră. Înlocuire feronerie completă: 400–700 lei/fereastră.
+Reglaj feronerie + ungere: 30–50 EUR/fereastră (sau abonament service anual). Înlocuire garnituri: 10–20 EUR/fereastră. Înlocuire feronerie completă: 80–140 EUR/fereastră.
 
 ---
 
@@ -37065,9 +37086,9 @@ EPDM gaskets wear and harden within 10–15 years. Once hard they no longer seal
 ## Repair or replace? The correct calculation
 
 ### When repair is worth it
-- Worn hardware on otherwise sound windows → replace the hardware alone (200–400 lei per window)
-- Worn gaskets → replace the gaskets (50–100 lei per window)
-- Broken glass or condensation inside the unit → replace the glazing unit alone (400–800 lei)
+- Worn hardware on otherwise sound windows → replace the hardware alone (40–80 EUR per window)
+- Worn gaskets → replace the gaskets (10–20 EUR per window)
+- Broken glass or condensation inside the unit → replace the glazing unit alone (80–160 EUR)
 - Windows under 15 years old with an intact profile → systematic repair
 
 ### When full replacement pays better
@@ -37078,20 +37099,20 @@ EPDM gaskets wear and harden within 10–15 years. Once hard they no longer seal
 
 ## What does replacing PVC windows cost in 2026?
 
-| Window type | Size | Indicative price (installation included) |
+| Window type | Size | Indicative price (excluding installation) |
 |---|---|---|
-| Tilt-and-turn PVC Salamander bluEvolution 92, triple | 80×120 cm | 1,450–1,800 lei |
-| Tilt-and-turn PVC Salamander bluEvolution 92, triple | 100×150 cm | 1,800–2,200 lei |
-| Double PVC window bluEvolution 92, triple | 150×120 cm | 2,800–3,500 lei |
-| PVC balcony door, triple | 80×210 cm | 2,200–2,800 lei |
+| Tilt-and-turn PVC Salamander bluEvolution 92, triple | 80×120 cm | 230–345 EUR |
+| Tilt-and-turn PVC Salamander bluEvolution 92, triple | 100×150 cm | 360–540 EUR |
+| Double PVC window bluEvolution 92, triple | 150×120 cm | 430–650 EUR |
+| PVC balcony door, triple | 80×210 cm | 405–605 EUR |
 
-*Prices excluding VAT, standard installation in Bucharest and Ilfov*
+*Prices excluding VAT and installation, worked out from the per-square-metre prices of bluEvolution 92 with triple glazing; installation is added in the quote*
 
 **Payback calculation for replacement:**
 A 50 m² apartment with 6 old double-glazed windows (Uw = 2.0), replaced with triple-glazed Salamander 92 (Uw = 0.72):
-- Annual saving: around 520 lei per year on energy
-- Total cost for 6 windows: around 12,000 lei
-- **Payback: about 23 years** — but the thermal and acoustic comfort improve immediately
+- Annual saving: around 100 EUR per year on energy (at 0.12 EUR/kWh)
+- Total cost for 6 windows: around 1,700–2,600 EUR, excluding installation
+- **Payback: more than 20 years** — but the thermal and acoustic comfort improve immediately
 
 ## How to extend the life of PVC windows
 
@@ -37114,7 +37135,7 @@ A 50 m² apartment with 6 old double-glazed windows (Uw = 2.0), replaced with tr
 The Salamander PVC profile has an estimated service life of 40–50 years under normal conditions. The commercial warranty from Neofort BIZ is 5 years. The hardware needs replacing or servicing after 15–20 years.
 
 ### Can the glazing be replaced without changing the frame?
-Yes, if the frame and profile are in good condition. A new glazing unit costs 400–800 lei against 1,500–2,000 lei for a complete window. The installer checks whether the frame rebate allows a thicker unit, for instance triple instead of double.
+Yes, if the frame and profile are in good condition. A new glazing unit costs 80–160 EUR against 230–345 EUR for a complete window. The installer checks whether the frame rebate allows a thicker unit, for instance triple instead of double.
 
 ### How often should gaskets be replaced on PVC windows?
 EPDM gaskets are replaced every 10–15 years. The signs: they feel cracked to the touch, they no longer spring back into shape, or a draught appears with the window closed.
@@ -37123,7 +37144,7 @@ EPDM gaskets are replaced every 10–15 years. The signs: they feel cracked to t
 It depends on the condition of the profile and the current thermal performance. If the profile is intact and the present Uw is below 1.5 W/(m²K), repair is worthwhile. If the profile has degraded or Uw exceeds 1.5 W/(m²K) and you want energy efficiency, full replacement is better in the long run.
 
 ### What does servicing PVC windows cost?
-Hardware adjustment and lubrication: 150–250 lei per window, or an annual service contract. Gasket replacement: 50–100 lei per window. Complete hardware replacement: 400–700 lei per window.
+Hardware adjustment and lubrication: 30–50 EUR per window, or an annual service contract. Gasket replacement: 10–20 EUR per window. Complete hardware replacement: 80–140 EUR per window.
 
 ---
 
@@ -37175,9 +37196,9 @@ EPDM-Dichtungen verschleißen und härten in 10–15 Jahren aus. Einmal hart, di
 ## Reparieren oder ersetzen? Die richtige Rechnung
 
 ### Wann sich eine Reparatur lohnt
-- Verschlissener Beschlag an ansonsten intakten Fenstern → nur den Beschlag tauschen (200–400 Lei je Fenster)
-- Verschlissene Dichtungen → Dichtungen tauschen (50–100 Lei je Fenster)
-- Gebrochenes Glas oder Kondensat im Scheibenzwischenraum → nur die Glaseinheit tauschen (400–800 Lei)
+- Verschlissener Beschlag an ansonsten intakten Fenstern → nur den Beschlag tauschen (40–80 EUR je Fenster)
+- Verschlissene Dichtungen → Dichtungen tauschen (10–20 EUR je Fenster)
+- Gebrochenes Glas oder Kondensat im Scheibenzwischenraum → nur die Glaseinheit tauschen (80–160 EUR)
 - Fenster unter 15 Jahren mit intaktem Profil → systematische Reparatur
 
 ### Wann der komplette Austausch günstiger ist
@@ -37188,20 +37209,20 @@ EPDM-Dichtungen verschleißen und härten in 10–15 Jahren aus. Einmal hart, di
 
 ## Was kostet der Austausch von PVC-Fenstern 2026?
 
-| Fenstertyp | Maß | Richtpreis (Montage inklusive) |
+| Fenstertyp | Maß | Richtpreis (ohne Montage) |
 |---|---|---|
-| Dreh-Kipp PVC Salamander bluEvolution 92, Dreifachglas | 80×120 cm | 1.450–1.800 Lei |
-| Dreh-Kipp PVC Salamander bluEvolution 92, Dreifachglas | 100×150 cm | 1.800–2.200 Lei |
-| Zweiflügeliges PVC-Fenster bluEvolution 92, Dreifachglas | 150×120 cm | 2.800–3.500 Lei |
-| PVC-Balkontür, Dreifachglas | 80×210 cm | 2.200–2.800 Lei |
+| Dreh-Kipp PVC Salamander bluEvolution 92, Dreifachglas | 80×120 cm | 230–345 EUR |
+| Dreh-Kipp PVC Salamander bluEvolution 92, Dreifachglas | 100×150 cm | 360–540 EUR |
+| Zweiflügeliges PVC-Fenster bluEvolution 92, Dreifachglas | 150×120 cm | 430–650 EUR |
+| PVC-Balkontür, Dreifachglas | 80×210 cm | 405–605 EUR |
 
-*Preise ohne MwSt., Standardmontage in Bukarest und Ilfov*
+*Preise ohne MwSt. und ohne Montage, berechnet aus den Quadratmeterpreisen von bluEvolution 92 mit Dreifachglas; die Montage kommt ins Angebot*
 
 **Amortisationsrechnung für den Austausch:**
 Eine 50-m²-Wohnung mit 6 alten Zweifachfenstern (Uw = 2,0), ersetzt durch Dreifachverglasung Salamander 92 (Uw = 0,72):
-- Jährliche Ersparnis: rund 520 Lei pro Jahr an Energie
-- Gesamtkosten für 6 Fenster: rund 12.000 Lei
-- **Amortisation: etwa 23 Jahre** — der thermische und akustische Komfort verbessert sich jedoch sofort
+- Jährliche Ersparnis: rund 100 EUR pro Jahr an Energie (bei 0,12 EUR/kWh)
+- Gesamtkosten für 6 Fenster: rund 1.700–2.600 EUR, ohne Montage
+- **Amortisation: über 20 Jahre** — der thermische und akustische Komfort verbessert sich jedoch sofort
 
 ## Wie Sie die Lebensdauer von PVC-Fenstern verlängern
 
@@ -37224,7 +37245,7 @@ Eine 50-m²-Wohnung mit 6 alten Zweifachfenstern (Uw = 2,0), ersetzt durch Dreif
 Das Salamander PVC-Profil hat unter normalen Bedingungen eine geschätzte Lebensdauer von 40–50 Jahren. Die kaufmännische Garantie von Neofort BIZ beträgt 5 Jahre. Der Beschlag muss nach 15–20 Jahren getauscht oder gewartet werden.
 
 ### Kann man nur die Verglasung tauschen, ohne den Rahmen?
-Ja, wenn Rahmen und Profil in gutem Zustand sind. Eine neue Glaseinheit kostet 400–800 Lei gegenüber 1.500–2.000 Lei für ein komplettes Fenster. Der Monteur prüft, ob der Glasfalz eine dickere Einheit zulässt, etwa Dreifach statt Zweifach.
+Ja, wenn Rahmen und Profil in gutem Zustand sind. Eine neue Glaseinheit kostet 80–160 EUR gegenüber 230–345 EUR für ein komplettes Fenster. Der Monteur prüft, ob der Glasfalz eine dickere Einheit zulässt, etwa Dreifach statt Zweifach.
 
 ### Nach wie vielen Jahren werden die Dichtungen getauscht?
 EPDM-Dichtungen werden alle 10–15 Jahre erneuert. Anzeichen dafür: Sie fühlen sich rissig an, sie kehren nicht mehr in ihre Form zurück, oder bei geschlossenem Fenster tritt Zugluft auf.
@@ -37233,7 +37254,7 @@ EPDM-Dichtungen werden alle 10–15 Jahre erneuert. Anzeichen dafür: Sie fühle
 Das hängt vom Zustand des Profils und der aktuellen Wärmedämmung ab. Ist das Profil intakt und der derzeitige Uw unter 1,5 W/(m²K), lohnt die Reparatur. Ist das Profil geschädigt oder liegt der Uw über 1,5 W/(m²K) und Sie streben Energieeffizienz an, ist der komplette Austausch langfristig besser.
 
 ### Was kostet der Service an PVC-Fenstern?
-Beschlag einstellen und schmieren: 150–250 Lei je Fenster, oder ein jährlicher Wartungsvertrag. Dichtungen tauschen: 50–100 Lei je Fenster. Kompletter Beschlagtausch: 400–700 Lei je Fenster.
+Beschlag einstellen und schmieren: 30–50 EUR je Fenster, oder ein jährlicher Wartungsvertrag. Dichtungen tauschen: 10–20 EUR je Fenster. Kompletter Beschlagtausch: 80–140 EUR je Fenster.
 
 ---
 
@@ -37283,9 +37304,9 @@ Les joints EPDM s’usent et durcissent en 10 à 15 ans. Une fois durs, ils n’
 ## Réparer ou remplacer ? Le calcul juste
 
 ### Quand la réparation vaut le coup
-- Quincaillerie usée sur des fenêtres par ailleurs saines → remplacer la seule quincaillerie (200 à 400 lei par fenêtre)
-- Joints usés → remplacer les joints (50 à 100 lei par fenêtre)
-- Vitrage brisé ou avec condensation interne → remplacer la seule unité vitrée (400 à 800 lei)
+- Quincaillerie usée sur des fenêtres par ailleurs saines → remplacer la seule quincaillerie (40 à 80 EUR par fenêtre)
+- Joints usés → remplacer les joints (10 à 20 EUR par fenêtre)
+- Vitrage brisé ou avec condensation interne → remplacer la seule unité vitrée (80 à 160 EUR)
 - Fenêtres de moins de 15 ans au profilé intact → réparation systématique
 
 ### Quand le remplacement complet est plus rentable
@@ -37296,20 +37317,20 @@ Les joints EPDM s’usent et durcissent en 10 à 15 ans. Une fois durs, ils n’
 
 ## Combien coûte le remplacement des fenêtres PVC en 2026 ?
 
-| Type de fenêtre | Dimensions | Prix indicatif (pose comprise) |
+| Type de fenêtre | Dimensions | Prix indicatif (hors pose) |
 |---|---|---|
-| Oscillo-battante PVC Salamander bluEvolution 92, triple | 80×120 cm | 1 450 à 1 800 lei |
-| Oscillo-battante PVC Salamander bluEvolution 92, triple | 100×150 cm | 1 800 à 2 200 lei |
-| Fenêtre à deux vantaux PVC bluEvolution 92, triple | 150×120 cm | 2 800 à 3 500 lei |
-| Porte-fenêtre PVC, triple | 80×210 cm | 2 200 à 2 800 lei |
+| Oscillo-battante PVC Salamander bluEvolution 92, triple | 80×120 cm | 230 à 345 EUR |
+| Oscillo-battante PVC Salamander bluEvolution 92, triple | 100×150 cm | 360 à 540 EUR |
+| Fenêtre à deux vantaux PVC bluEvolution 92, triple | 150×120 cm | 430 à 650 EUR |
+| Porte-fenêtre PVC, triple | 80×210 cm | 405 à 605 EUR |
 
-*Prix hors TVA, pose standard à Bucarest et dans l’Ilfov*
+*Prix hors TVA et hors pose, calculés à partir des prix au mètre carré du bluEvolution 92 en triple vitrage ; la pose s’ajoute dans le devis*
 
 **Calcul d’amortissement du remplacement :**
 Un appartement de 50 m² avec 6 anciennes fenêtres à double vitrage (Uw = 2,0), remplacées par du triple Salamander 92 (Uw = 0,72) :
-- Économie annuelle : environ 520 lei par an sur l’énergie
-- Coût total pour 6 fenêtres : environ 12 000 lei
-- **Amortissement : environ 23 ans** — mais le confort thermique et acoustique s’améliore immédiatement
+- Économie annuelle : environ 100 EUR par an sur l’énergie (à 0,12 EUR/kWh)
+- Coût total pour 6 fenêtres : environ 1 700 à 2 600 EUR, hors pose
+- **Amortissement : plus de 20 ans** — mais le confort thermique et acoustique s’améliore immédiatement
 
 ## Comment prolonger la durée de vie des fenêtres PVC
 
@@ -37332,7 +37353,7 @@ Un appartement de 50 m² avec 6 anciennes fenêtres à double vitrage (Uw = 2,0)
 Le profilé PVC Salamander a une durée de vie estimée de 40 à 50 ans dans des conditions normales. La garantie commerciale accordée par Neofort BIZ est de 5 ans. La quincaillerie demande un remplacement ou un entretien après 15 à 20 ans.
 
 ### Peut-on remplacer uniquement le vitrage sans changer le dormant ?
-Oui, si le dormant et le profilé sont en bon état. Une unité vitrée neuve coûte 400 à 800 lei contre 1 500 à 2 000 lei pour une fenêtre complète. Le poseur vérifie si la feuillure permet une unité plus épaisse, par exemple du triple à la place du double.
+Oui, si le dormant et le profilé sont en bon état. Une unité vitrée neuve coûte 80 à 160 EUR contre 230 à 345 EUR pour une fenêtre complète. Le poseur vérifie si la feuillure permet une unité plus épaisse, par exemple du triple à la place du double.
 
 ### Tous les combien remplace-t-on les joints des fenêtres PVC ?
 Les joints EPDM se remplacent tous les 10 à 15 ans. Les signes : ils sont fissurés au toucher, ils ne reprennent plus leur forme, ou un courant d’air apparaît fenêtre fermée.
@@ -37341,7 +37362,7 @@ Les joints EPDM se remplacent tous les 10 à 15 ans. Les signes : ils sont fissu
 Cela dépend de l’état du profilé et de la performance thermique actuelle. Si le profilé est intact et que le Uw actuel est inférieur à 1,5 W/(m²K), la réparation est rentable. Si le profilé est dégradé ou que le Uw dépasse 1,5 W/(m²K) et que vous visez l’efficacité énergétique, le remplacement complet est préférable sur le long terme.
 
 ### Combien coûte l’entretien des fenêtres PVC ?
-Réglage de la quincaillerie et graissage : 150 à 250 lei par fenêtre, ou un contrat d’entretien annuel. Remplacement des joints : 50 à 100 lei par fenêtre. Remplacement complet de la quincaillerie : 400 à 700 lei par fenêtre.
+Réglage de la quincaillerie et graissage : 30 à 50 EUR par fenêtre, ou un contrat d’entretien annuel. Remplacement des joints : 10 à 20 EUR par fenêtre. Remplacement complet de la quincaillerie : 80 à 140 EUR par fenêtre.
 
 ---
 
@@ -37391,9 +37412,9 @@ Las juntas de EPDM se desgastan y endurecen en 10 a 15 años. Una vez duras, dej
 ## ¿Reparar o sustituir? El cálculo correcto
 
 ### Cuándo compensa reparar
-- Herrajería gastada en ventanas por lo demás sanas → cambiar solo la herrajería (200 a 400 lei por ventana)
-- Juntas gastadas → cambiar las juntas (50 a 100 lei por ventana)
-- Vidrio roto o con condensación interior → cambiar solo la unidad de vidrio (400 a 800 lei)
+- Herrajería gastada en ventanas por lo demás sanas → cambiar solo la herrajería (40 a 80 EUR por ventana)
+- Juntas gastadas → cambiar las juntas (10 a 20 EUR por ventana)
+- Vidrio roto o con condensación interior → cambiar solo la unidad de vidrio (80 a 160 EUR)
 - Ventanas de menos de 15 años con el perfil intacto → reparación sistemática
 
 ### Cuándo sale mejor la sustitución completa
@@ -37404,20 +37425,20 @@ Las juntas de EPDM se desgastan y endurecen en 10 a 15 años. Una vez duras, dej
 
 ## ¿Cuánto cuesta cambiar las ventanas de PVC en 2026?
 
-| Tipo de ventana | Medidas | Precio orientativo (instalación incluida) |
+| Tipo de ventana | Medidas | Precio orientativo (sin instalación) |
 |---|---|---|
-| Oscilobatiente PVC Salamander bluEvolution 92, triple | 80×120 cm | 1.450 a 1.800 lei |
-| Oscilobatiente PVC Salamander bluEvolution 92, triple | 100×150 cm | 1.800 a 2.200 lei |
-| Ventana de dos hojas PVC bluEvolution 92, triple | 150×120 cm | 2.800 a 3.500 lei |
-| Puerta de balcón PVC, triple | 80×210 cm | 2.200 a 2.800 lei |
+| Oscilobatiente PVC Salamander bluEvolution 92, triple | 80×120 cm | 230 a 345 EUR |
+| Oscilobatiente PVC Salamander bluEvolution 92, triple | 100×150 cm | 360 a 540 EUR |
+| Ventana de dos hojas PVC bluEvolution 92, triple | 150×120 cm | 430 a 650 EUR |
+| Puerta de balcón PVC, triple | 80×210 cm | 405 a 605 EUR |
 
-*Precios sin IVA, instalación estándar en Bucarest e Ilfov*
+*Precios sin IVA y sin instalación, calculados a partir de los precios por metro cuadrado del bluEvolution 92 con triple vidrio; la instalación se añade en el presupuesto*
 
 **Cálculo de amortización de la sustitución:**
 Un piso de 50 m² con 6 ventanas antiguas de doble vidrio (Uw = 2,0), sustituidas por triple Salamander 92 (Uw = 0,72):
-- Ahorro anual: unos 520 lei al año en energía
-- Coste total de las 6 ventanas: unos 12.000 lei
-- **Amortización: unos 23 años** — pero el confort térmico y acústico mejora de inmediato
+- Ahorro anual: unos 100 EUR al año en energía (a 0,12 EUR/kWh)
+- Coste total de las 6 ventanas: unos 1.700–2.600 EUR, sin instalación
+- **Amortización: más de 20 años** — pero el confort térmico y acústico mejora de inmediato
 
 ## Cómo alargar la vida útil de las ventanas de PVC
 
@@ -37440,7 +37461,7 @@ Un piso de 50 m² con 6 ventanas antiguas de doble vidrio (Uw = 2,0), sustituida
 El perfil de PVC Salamander tiene una vida útil estimada de 40 a 50 años en condiciones normales. La garantía comercial de Neofort BIZ es de 5 años. La herrajería necesita sustitución o revisión a los 15 o 20 años.
 
 ### ¿Se pueden cambiar solo los vidrios sin tocar el marco?
-Sí, si el marco y el perfil están en buen estado. Una unidad de vidrio nueva cuesta de 400 a 800 lei frente a 1.500 a 2.000 lei de una ventana completa. El instalador comprueba si el galce del marco admite una unidad más gruesa, por ejemplo triple en lugar de doble.
+Sí, si el marco y el perfil están en buen estado. Una unidad de vidrio nueva cuesta de 80 a 160 EUR frente a 230 a 345 EUR de una ventana completa. El instalador comprueba si el galce del marco admite una unidad más gruesa, por ejemplo triple en lugar de doble.
 
 ### ¿Cada cuántos años se cambian las juntas de las ventanas de PVC?
 Las juntas de EPDM se sustituyen cada 10 a 15 años. Las señales: se notan agrietadas al tacto, ya no recuperan su forma, o aparece corriente con la ventana cerrada.
@@ -37449,7 +37470,7 @@ Las juntas de EPDM se sustituyen cada 10 a 15 años. Las señales: se notan agri
 Depende del estado del perfil y de las prestaciones térmicas actuales. Si el perfil está intacto y el Uw actual es inferior a 1,5 W/(m²K), reparar es rentable. Si el perfil está deteriorado o el Uw supera 1,5 W/(m²K) y busca eficiencia energética, la sustitución completa es mejor a largo plazo.
 
 ### ¿Cuánto cuesta el servicio técnico de ventanas de PVC?
-Ajuste de la herrajería y engrase: de 150 a 250 lei por ventana, o un contrato anual de mantenimiento. Cambio de juntas: de 50 a 100 lei por ventana. Sustitución completa de la herrajería: de 400 a 700 lei por ventana.
+Ajuste de la herrajería y engrase: de 30 a 50 EUR por ventana, o un contrato anual de mantenimiento. Cambio de juntas: de 10 a 20 EUR por ventana. Sustitución completa de la herrajería: de 80 a 140 EUR por ventana.
 
 ---
 
@@ -37499,9 +37520,9 @@ Le guarnizioni in EPDM si usurano e induriscono in 10–15 anni. Una volta dure 
 ## Riparare o sostituire? Il calcolo corretto
 
 ### Quando conviene riparare
-- Ferramenta usurata su finestre per il resto integre → sostituire solo la ferramenta (200–400 lei a finestra)
-- Guarnizioni usurate → sostituire le guarnizioni (50–100 lei a finestra)
-- Vetro rotto o con condensa interna → sostituire solo la vetrocamera (400–800 lei)
+- Ferramenta usurata su finestre per il resto integre → sostituire solo la ferramenta (40–80 EUR a finestra)
+- Guarnizioni usurate → sostituire le guarnizioni (10–20 EUR a finestra)
+- Vetro rotto o con condensa interna → sostituire solo la vetrocamera (80–160 EUR)
 - Finestre con meno di 15 anni e profilo integro → riparazione sistematica
 
 ### Quando conviene la sostituzione completa
@@ -37512,20 +37533,20 @@ Le guarnizioni in EPDM si usurano e induriscono in 10–15 anni. Una volta dure 
 
 ## Quanto costa sostituire le finestre in PVC nel 2026?
 
-| Tipo di finestra | Dimensioni | Prezzo indicativo (posa inclusa) |
+| Tipo di finestra | Dimensioni | Prezzo indicativo (posa esclusa) |
 |---|---|---|
-| Anta-ribalta PVC Salamander bluEvolution 92, triplo | 80×120 cm | 1.450–1.800 lei |
-| Anta-ribalta PVC Salamander bluEvolution 92, triplo | 100×150 cm | 1.800–2.200 lei |
-| Finestra a due ante PVC bluEvolution 92, triplo | 150×120 cm | 2.800–3.500 lei |
-| Porta-finestra PVC, triplo | 80×210 cm | 2.200–2.800 lei |
+| Anta-ribalta PVC Salamander bluEvolution 92, triplo | 80×120 cm | 230–345 EUR |
+| Anta-ribalta PVC Salamander bluEvolution 92, triplo | 100×150 cm | 360–540 EUR |
+| Finestra a due ante PVC bluEvolution 92, triplo | 150×120 cm | 430–650 EUR |
+| Porta-finestra PVC, triplo | 80×210 cm | 405–605 EUR |
 
-*Prezzi IVA esclusa, posa standard a Bucarest e nell’Ilfov*
+*Prezzi IVA esclusa e posa esclusa, calcolati dai prezzi al metro quadro del bluEvolution 92 con triplo vetro; la posa si aggiunge nel preventivo*
 
 **Calcolo dell’ammortamento della sostituzione:**
 Un appartamento di 50 m² con 6 vecchie finestre a doppio vetro (Uw = 2,0), sostituite con triplo Salamander 92 (Uw = 0,72):
-- Risparmio annuo: circa 520 lei all’anno di energia
-- Costo totale per 6 finestre: circa 12.000 lei
-- **Ammortamento: circa 23 anni** — ma il comfort termico e acustico migliora subito
+- Risparmio annuo: circa 100 EUR all’anno di energia (a 0,12 EUR/kWh)
+- Costo totale per 6 finestre: circa 1.700–2.600 EUR, posa esclusa
+- **Ammortamento: oltre 20 anni** — ma il comfort termico e acustico migliora subito
 
 ## Come allungare la vita delle finestre in PVC
 
@@ -37548,7 +37569,7 @@ Un appartamento di 50 m² con 6 vecchie finestre a doppio vetro (Uw = 2,0), sost
 Il profilo in PVC Salamander ha una durata stimata di 40–50 anni in condizioni normali. La garanzia commerciale di Neofort BIZ è di 5 anni. La ferramenta richiede sostituzione o manutenzione dopo 15–20 anni.
 
 ### Si possono sostituire solo i vetri senza cambiare il telaio?
-Sì, se telaio e profilo sono in buono stato. Una vetrocamera nuova costa 400–800 lei contro 1.500–2.000 lei di una finestra completa. Il posatore verifica se la battuta del telaio consente uno spessore maggiore, per esempio triplo al posto del doppio.
+Sì, se telaio e profilo sono in buono stato. Una vetrocamera nuova costa 80–160 EUR contro 230–345 EUR di una finestra completa. Il posatore verifica se la battuta del telaio consente uno spessore maggiore, per esempio triplo al posto del doppio.
 
 ### Ogni quanti anni si cambiano le guarnizioni?
 Le guarnizioni in EPDM si sostituiscono ogni 10–15 anni. I segnali: risultano crepate al tatto, non tornano più in forma, oppure compare corrente a finestra chiusa.
@@ -37557,7 +37578,7 @@ Le guarnizioni in EPDM si sostituiscono ogni 10–15 anni. I segnali: risultano 
 Dipende dallo stato del profilo e dalle prestazioni termiche attuali. Se il profilo è integro e l’Uw attuale è sotto 1,5 W/(m²K), la riparazione conviene. Se il profilo è degradato o l’Uw supera 1,5 W/(m²K) e puntate all’efficienza energetica, la sostituzione completa è migliore sul lungo periodo.
 
 ### Quanto costa l’assistenza sulle finestre in PVC?
-Regolazione della ferramenta e lubrificazione: 150–250 lei a finestra, oppure un contratto annuale di manutenzione. Sostituzione delle guarnizioni: 50–100 lei a finestra. Sostituzione completa della ferramenta: 400–700 lei a finestra.
+Regolazione della ferramenta e lubrificazione: 30–50 EUR a finestra, oppure un contratto annuale di manutenzione. Sostituzione delle guarnizioni: 10–20 EUR a finestra. Sostituzione completa della ferramenta: 80–140 EUR a finestra.
 
 ---
 
