@@ -1,8 +1,12 @@
 import createMiddleware from 'next-intl/middleware';
 import { NextResponse } from 'next/server';
 import {routing} from './i18n/routing';
+import {buildIndex, canonicalPathFor} from './lib/canonicalPath.js';
 
 const intlMiddleware = createMiddleware(routing);
+
+// v307: indexul sabloanelor din routing.pathnames, construit o singura data.
+const PATH_INDEX = buildIndex(routing.pathnames, routing.locales);
 
 // ── v263: rădăcina goală „/" → 301 permanent spre „/ro" ─────────────────────
 //
@@ -37,7 +41,30 @@ export default function middleware(request) {
     url.pathname = `/${routing.defaultLocale}`;
     return NextResponse.redirect(url, 301);
   }
-  return intlMiddleware(request);
+
+  // ── v307: adresa pe segmentul gresit → 301 spre adresa corecta ─────────
+  // Ex.: /en/produse/bluevolution-92-alu-pvc-profile → /en/products/...
+  // Detaliile si testele sunt in lib/canonicalPath.js.
+  const fixed = canonicalPathFor(request.nextUrl.pathname, routing.pathnames, routing.locales, PATH_INDEX);
+  if (fixed) {
+    const url = request.nextUrl.clone();
+    url.pathname = fixed;
+    return NextResponse.redirect(url, 301);
+  }
+
+  const response = intlMiddleware(request);
+
+  // ── v307: 307 → 301 pe adresele care au deja prefix de limba ───────────
+  // Cand adresa are prefix de limba, next-intl face redirect doar ca sa
+  // traduca segmentele (ex. /en/tamplarie-pvc → /en/pvc-windows). Mutarea e
+  // definitiva, dar next-intl trimite 307 (temporar), iar Google pastreaza
+  // adresa veche. O trimitem ca 301, cu aceleasi antete (Location, cookie).
+  // Adresele FARA prefix raman 307: acolo limba se alege dupa browser.
+  const first = request.nextUrl.pathname.split('/')[1];
+  if (response.status === 307 && routing.locales.includes(first) && response.headers.get('location')) {
+    return new NextResponse(null, {status: 301, headers: response.headers});
+  }
+  return response;
 }
 
 export const config = {
