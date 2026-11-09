@@ -13,8 +13,21 @@ const UI = {
   it: { breadcrumb_home:'Home', related:'Articoli correlati', read_more:'Leggi →', read_short:'Leggi →', lang_notice:'Disponibile in:' },
 };
 
+// v308: pe langa slug-ul tradus, se pregateste la build si slug-ul RO pentru
+// fiecare limba. next-intl rescrie /en/blog/<slug-en> intern catre
+// /en/blog/<slug-ro> (cheia din i18n/routing.js), deci aceasta e pagina ceruta
+// efectiv. Fara ea, pagina se genera abia la prima vizita dupa deploy.
+// Accesul direct la /en/blog/<slug-ro> ramane redirectionat 301 de middleware.
 export function generateStaticParams() {
-  return getAllLocaleSlugPairs();
+  const pairs = getAllLocaleSlugPairs();
+  const seen = new Set(pairs.map(p => p.locale + '|' + p.slug));
+  for (const a of ARTICLES) {
+    for (const locale of LOCALES) {
+      const k = locale + '|' + a.slugs.ro;
+      if (!seen.has(k)) { seen.add(k); pairs.push({ locale, slug: a.slugs.ro }); }
+    }
+  }
+  return pairs;
 }
 
 export async function generateMetadata({ params }) {

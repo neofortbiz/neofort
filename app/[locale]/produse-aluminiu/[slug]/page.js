@@ -368,12 +368,18 @@ const UI = {
 
 // ─── generateStaticParams ─────────────────────────────────────────────────────
 export async function generateStaticParams() {
+  // v308: pe langa slug-ul tradus, se pregatesc la build si cheia interna
+  // (canonical) si slug-ul RO pentru fiecare limba. next-intl rescrie adresa
+  // tradusa catre cheia din i18n/routing.js, deci aceea e pagina ceruta efectiv.
+  // Accesul direct la aceste forme ramane redirectionat 301 de middleware.
   const params = [];
-  for (const locale of LOCALES) {
-    for (const [canonical, slugs] of Object.entries(SLUG_MAP)) {
-      params.push({ locale, slug: slugs[locale] || canonical });
-    }
-  }
+  const seen = new Set();
+  for (const locale of LOCALES)
+    for (const [canonical, slugs] of Object.entries(SLUG_MAP))
+      for (const slug of [slugs[locale] || canonical, canonical, slugs.ro || canonical]) {
+        const k = locale + '|' + slug;
+        if (!seen.has(k)) { seen.add(k); params.push({ locale, slug }); }
+      }
   return params;
 }
 
