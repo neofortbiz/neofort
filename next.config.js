@@ -24,6 +24,8 @@ const { redirectProduse } = require('./data/redirectProduse.js');
 // Inventar verificat in cod inainte de a scrie lista:
 //   scripturi externe  — googletagmanager.com (gtag/js, G-20PR5SV2XC)
 //   cadre              — google.com/maps/embed (ambele variante, contact/page.js)
+//                        youtube.com/embed (v309: video in 4 articole, data/blog.js;
+//                        lipsea din v281, video-urile erau blocate)
 //   fonturi            — next/font, gazduite local (self)
 //   imagini            — locale, plus pixelii GA
 //   conexiuni          — GA4: google-analytics.com, analytics.google.com,
@@ -35,7 +37,7 @@ const CSP = [
   "img-src 'self' data: blob: https://www.googletagmanager.com https://www.google-analytics.com https://*.google-analytics.com https://*.googleapis.com https://*.gstatic.com https://www.google.com https://www.google.ro",
   "font-src 'self' data:",
   "connect-src 'self' https://www.googletagmanager.com https://*.googletagmanager.com https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://stats.g.doubleclick.net",
-  "frame-src https://www.google.com https://maps.google.com https://vercel.live",
+  "frame-src https://www.google.com https://maps.google.com https://www.youtube.com https://vercel.live",
   "frame-ancestors 'self'",
   "base-uri 'self'",
   "form-action 'self'",

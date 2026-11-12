@@ -390,6 +390,35 @@ const loc = (v, i) => v.slice(Math.max(0, i - 40), i + 50).replace(/\s+/g, ' ');
   console.log(`  Termenul „Wärmedämmbrücke": ${n} aparitii`);
 }
 
+// 23. Cadre si scripturi externe permise de CSP — v309. In v281 lista frame-src a fost
+// facuta doar din iframe-urile din app/, iar cele 4 video-uri YouTube din data/blog.js
+// (camp video.embed) au ramas blocate de browser trei saptamani. Garda executa
+// next.config.js (headers()), citeste CSP-ul real si verifica fiecare <iframe src> si
+// <script src> extern din app, components, lib, messages si data/blog.js.
+async function garda23() {
+  const Module = require('module');
+  const orig = Module._load;
+  Module._load = function (req, ...r) { return req === 'next-intl/plugin' ? () => (c) => c : orig.call(this, req, ...r); };
+  let cfg;
+  try { cfg = require(path.join(ROOT, 'next.config.js')); } finally { Module._load = orig; }
+  const reguli = await cfg.headers();
+  const csp = reguli.flatMap(r => r.headers).find(h => h.key === 'Content-Security-Policy');
+  if (!csp) { err('CSP lipseste din next.config.js headers()'); return; }
+  const dir = Object.fromEntries(csp.value.split(';').map(x => x.trim().split(/\s+/)).filter(x => x[0]).map(([k, ...v]) => [k, v]));
+  const permis = (tip, origine) => (dir[tip] || dir['default-src'] || []).some(v => v === origine || (v.includes('*.') && origine.endsWith(v.split('*')[1])));
+  const surse = [...SURSE.filter(x => !x.f.endsWith('.txt')), { f: 'data/blog.js', v: fs.readFileSync(path.join(ROOT, 'data/blog.js'), 'utf8') }];
+  const RE = /<(iframe|script)\b[^>]*?\bsrc=\{?\s*["'`](https?:\/\/[^/"'`\s]+)/gi;
+  let n = 0, total = 0;
+  surse.forEach(x => { for (const m of fara(x.v).matchAll(RE)) {
+    total++;
+    const tip = m[1].toLowerCase() === 'iframe' ? 'frame-src' : 'script-src';
+    if (!permis(tip, m[2])) { n++; err(`${m[2]} (${m[1]}) blocat de CSP ${tip} — ${x.f}`); }
+  } });
+  console.log(`  Cadre/scripturi externe vs CSP: ${total} gasite, ${n} blocate`);
+}
+
+garda23().catch(e => err(`garda 23 nu a putut rula: ${e.message}`)).then(() => {
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }
 console.log(errors === 0 && warnings === 0 ? 'Totul perfect. Safe de commit.\n' : 'Fara erori blocante. Safe de commit (verifica avertismentele).\n');
+});
