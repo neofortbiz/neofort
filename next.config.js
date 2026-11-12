@@ -351,6 +351,12 @@ const nextConfig = {
 
           // CSP — valoarea e construita in CSP, mai jos, ca sa ramana lizibila.
           { key: 'Content-Security-Policy', value: CSP },
+
+          // v313: token origin trial Chrome pentru WebMCP (unelte pentru agenti AI).
+          // Origine https://www.neofort-biz.ro, expira 30 mar 2027 (Chrome 149–162);
+          // se reinnoieste din developer.chrome.com/origintrials, contul lui Dan.
+          // Permissions-Policy `tools` are implicit (self), deci nu se adauga mai sus.
+          { key: 'Origin-Trial', value: 'A+ls6S8XmWMsrdx7CshhoUJJXXZJn2D1Ql0AaVF8X81B/iXFarU0IDxD9CcFswcHsvB2FDa4777kGpozLKlisgAAAAB5eyJvcmlnaW4iOiJodHRwczovL3d3dy5uZW9mb3J0LWJpei5ybzo0NDMiLCJmZWF0dXJlIjoiV2ViTUNQIiwiZXhwaXJ5IjoxODA2MzY0ODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ==' },
         ],
       },
       {
