@@ -1,6 +1,7 @@
 import { Link } from '../../../../i18n/navigation';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { offerCatalogSchema } from '../../../../lib/priceSchema.js';
 import { getGoogleRating } from '../../../../lib/googleRating.js';
 const SLUGS = {
   ro: 'umbrire/preturi-sisteme-umbrire',
@@ -481,6 +482,13 @@ export default async function UmbrirePreturiPage({ params }) {
   };
 
 
+  // v317: prețurile din cardurile de produs, ca date structurate (OfferCatalog, EUR, fără TVA).
+  // Textul de preț are mai multe variante separate prin „·” (manual / cu motor).
+  const priceSchema = offerCatalogSchema({
+    base: BASE, url: `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}`, name: ui.h2_products,
+    items: ui.products.map((p) => ({ name: p.name, description: p.desc, prices: String(p.price).split('·') })),
+  });
+
   // v278: BreadcrumbList lipsea pe aceasta pagina, desi exista pe restul sitului.
   const breadcrumbSchema = {
     '@context': 'https://schema.org', '@type': 'BreadcrumbList',
@@ -496,6 +504,7 @@ export default async function UmbrirePreturiPage({ params }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(priceSchema) }}/>
 
       <section style={{ background: 'linear-gradient(135deg,#2d1a3a 0%,#5a2d6e 60%,#8a4a9e 100%)', padding: '72px 24px 56px', textAlign: 'center' }}>
         <div style={{ maxWidth: '860px', margin: '0 auto' }}>

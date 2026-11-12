@@ -2,6 +2,7 @@ import { Link } from '../../../../i18n/navigation';
 import FaqAccordion from '../../../../components/FaqAccordion';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { offerCatalogSchema } from '../../../../lib/priceSchema.js';
 const SLUGS = {
   ro: 'tamplarie-aluminiu/preturi',
   en: 'aluminium-windows/prices',
@@ -43,7 +44,7 @@ const UI = {
       ['Geamul termopan', 'Geam dublu standard vs tripan Low-E nZEB — diferență de 40–80 EUR/mp de vitrare'],
       ['Tipul de deschidere', 'Ferestre batante < culisante < liftant-glisante < armonice — complexitate crescătoare'],
       ['Culoarea RAL', 'Vopsire standard (7 culori) inclusă; culori RAL speciale adaugă 8–15% la prețul profilului'],
-      ['Feroneria', 'Feronerire standard vs antiefracție RC2/RC3 — diferență de 50–150 EUR per fereastră'],
+      ['Feroneria', 'Feronerie standard vs antiefracție RC2/RC3 — diferență de 50–150 EUR per fereastră'],
       ['Montajul', 'Montaj standard vs montaj nZEB cu precadre Blaugelb Triotherm+ și benzi etanșare — diferență de 30–60 EUR/ml'],
     ],
     cta_h: 'Solicitați ofertă personalizată',
@@ -340,6 +341,12 @@ export default async function PreturiPage({ params }) {
     },
   };
 
+  // v317: prețurile din tabel, ca date structurate (OfferCatalog, EUR, fără TVA).
+  const priceSchema = offerCatalogSchema({
+    base: BASE, url: `${BASE}/${locale}/${slug}`, name: ui.table_title,
+    items: ui.rows.map(([name, , price, ideal]) => ({ name, description: ideal, prices: [price] })),
+  });
+
   const faqSchema = {
     '@context': 'https://schema.org', '@type': 'FAQPage',
     mainEntity: ui.faq.map(([q, a]) => ({
@@ -352,6 +359,7 @@ export default async function PreturiPage({ params }) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(priceSchema) }}/>
 
       {/* PAGE HEADER */}
       <div className="page-header">
