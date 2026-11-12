@@ -104,6 +104,11 @@ export default async function LocaleLayout({ children, params }) {
         {locales.filter(l => l !== locale).map(l => (
           <link key={l} rel="alternate" type="application/rss+xml" hrefLang={l} title={`Neofort BIZ — ${RSS_TITLE[l]}`} href={`${baseUrl}/${l}/feed.xml`} />
         ))}
+        {/* v316: descoperire pentru agenti AI — manifest ARD (Agentic Resource Discovery,
+            verificat de Lighthouse „Agentic browsing”) si indexul Agent Skills.
+            Fisierele sunt statice, in public/.well-known/. */}
+        <link rel="ard" href="/.well-known/ard.json" type="application/json" />
+        <link rel="agent-skills" href="/.well-known/agent-skills/index.json" type="application/json" />
         {/* AI Crawler hints */}
         <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="bingbot" content="index, follow" />

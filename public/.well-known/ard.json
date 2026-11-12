@@ -1,0 +1,48 @@
+{
+  "entries": [
+    {
+      "identifier": "urn:air:neofort-biz.ro:skill:windows-quote",
+      "displayName": "Neofort BIZ — PVC and aluminium windows, quotes and prices (Bucharest, Romania)",
+      "type": "application/agent-skills+md",
+      "url": "https://www.neofort-biz.ro/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md",
+      "description": "Agent skill for Neofort BIZ, supplier and installer of Salamander PVC and Alumil aluminium windows, doors, sliding and folding systems, curtain walls and shading in Bucharest and Ilfov, with delivery across the EU. Points to the official prices (EUR, without VAT) and technical data, explains the WebMCP tools on neofort-biz.ro and what a quote request needs.",
+      "tags": [
+        "windows",
+        "doors",
+        "pvc-windows",
+        "aluminium-windows",
+        "salamander",
+        "alumil",
+        "shading",
+        "nzeb",
+        "bucharest",
+        "romania",
+        "local-business"
+      ],
+      "capabilities": [
+        "get_prices",
+        "get_product_specs",
+        "request_quote"
+      ],
+      "representativeQueries": [
+        "how much do Salamander PVC windows cost in Bucharest",
+        "request a quote for Alumil aluminium windows in Romania",
+        "cât costă termopanele Salamander în București",
+        "compare Alumil S77 and S67 technical data",
+        "nZEB window installation with Blaugelb pre-frames in Bucharest"
+      ],
+      "version": "1.0.0",
+      "updatedAt": "2026-11-13T00:00:00Z",
+      "metadata": {
+        "schemaOrgType": "HomeAndConstructionBusiness",
+        "address": "Str. Theodor Aman Pictor nr. 11, Sector 1, București 010776, RO",
+        "telephone": "+40752443435",
+        "email": "oferte@neofort-biz.ro",
+        "areaServed": "Bucharest; Ilfov; delivery across the EU",
+        "openingHours": "Mo-Fr 10:00-18:00",
+        "website": "https://www.neofort-biz.ro",
+        "llmsTxt": "https://www.neofort-biz.ro/llms.txt"
+      }
+    }
+  ]
+}

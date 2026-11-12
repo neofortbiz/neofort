@@ -417,6 +417,57 @@ async function garda23() {
   console.log(`  Cadre/scripturi externe vs CSP: ${total} gasite, ${n} blocate`);
 }
 
+// ── GARDA 24 (v316): fisierele pentru agenti AI din public/.well-known/ ─────
+// ard.json (Lighthouse „Agentic browsing” il valideaza) si indexul Agent Skills.
+// Digestul sha256 din index.json trebuie sa corespunda exact fisierului SKILL.md:
+// orice modificare a SKILL.md fara digest nou il face „neverificabil” pentru agenti.
+// Recalculare: sha256sum public/.well-known/agent-skills/<nume>/SKILL.md
+function garda24() {
+  const crypto = require('crypto');
+  const WK = path.join(ROOT, 'public', '.well-known');
+  const local = (u) => {
+    const p = String(u).replace(/^https:\/\/www\.neofort-biz\.ro/, '');
+    return p.startsWith('/') ? path.join(ROOT, 'public', p) : null;
+  };
+  let ard;
+  try { ard = JSON.parse(fs.readFileSync(path.join(WK, 'ard.json'), 'utf8')); }
+  catch (e) { err(`ard.json lipsa sau JSON invalid: ${e.message}`); return; }
+  if (!Array.isArray(ard.entries) || !ard.entries.length) err('ard.json: lipseste lista entries');
+  const URN = /^urn:air:[a-zA-Z0-9.-]+(:[a-zA-Z0-9._-]+)+$/;
+  const TIPURI = ['application/ai-catalog+json','application/agent-card+json','application/a2a-agent-card+json','application/mcp-server-card+json','application/agent-skills+json','application/agent-skills+md','application/agent-skills+zip','application/agent-skills+gzip','application/agent-plugins+zip','application/agent-plugins+gzip','application/ai-registry','application/ai-registry+json'];
+  (ard.entries || []).forEach((e, i) => {
+    const id = `ard.json entries[${i}]`;
+    ['identifier', 'displayName', 'type'].forEach(k => { if (!e[k]) err(`${id}: lipseste ${k}`); });
+    if (e.identifier && !URN.test(e.identifier)) err(`${id}: identifier nu e URN urn:air:… (${e.identifier})`);
+    if (('url' in e) === ('data' in e)) err(`${id}: trebuie exact unul dintre url / data`);
+    if (e.type && !TIPURI.includes(e.type)) warn(`${id}: tip media nestandard ${e.type} (Lighthouse da avertisment)`);
+    const q = e.representativeQueries;
+    if (!Array.isArray(q) || q.length < 2 || q.length > 5) warn(`${id}: representativeQueries trebuie sa aiba 2–5 intrebari (Lighthouse scade la 0,9)`);
+    const f = e.url && local(e.url);
+    if (f && !fs.existsSync(f)) err(`${id}: url indica un fisier inexistent: ${e.url}`);
+  });
+  let idx;
+  try { idx = JSON.parse(fs.readFileSync(path.join(WK, 'agent-skills', 'index.json'), 'utf8')); }
+  catch (e) { err(`agent-skills/index.json lipsa sau JSON invalid: ${e.message}`); return; }
+  (idx.skills || []).forEach(s => {
+    const f = local(s.url);
+    if (!f || !fs.existsSync(f)) { err(`agent-skills: fisier lipsa pentru ${s.name}: ${s.url}`); return; }
+    const buf = fs.readFileSync(f);
+    const dig = 'sha256:' + crypto.createHash('sha256').update(buf).digest('hex');
+    if (s.digest !== dig) err(`agent-skills: digest gresit pentru ${s.name} — pune ${dig} in index.json`);
+    if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(s.name) || s.name.length > 64) err(`agent-skills: nume invalid ${s.name}`);
+    const fm = (buf.toString('utf8').match(/^---\n([\s\S]*?)\n---/) || [])[1] || '';
+    const nm = (fm.match(/^name:\s*(.+)$/m) || [])[1], ds = (fm.match(/^description:\s*(.+)$/m) || [])[1];
+    if (nm !== s.name) err(`agent-skills: name din SKILL.md (${nm}) ≠ index (${s.name})`);
+    if (!ds || ds.length > 1024) err(`agent-skills: description lipsa sau peste 1024 caractere in ${s.name}`);
+    else if (ds !== s.description) warn(`agent-skills: description din index difera de cea din SKILL.md (${s.name})`);
+  });
+  const lay = fs.readFileSync(path.join(ROOT, 'app/[locale]/layout.js'), 'utf8');
+  if (!lay.includes('rel="ard"')) err('layout.js: lipseste <link rel="ard">');
+  console.log(`  Agenti AI (.well-known): ${(ard.entries || []).length} intrari ARD, ${(idx.skills || []).length} skill-uri verificate`);
+}
+garda24();
+
 garda23().catch(e => err(`garda 23 nu a putut rula: ${e.message}`)).then(() => {
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }

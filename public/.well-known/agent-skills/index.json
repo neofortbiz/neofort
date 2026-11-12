@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "neofort-biz-windows-quote",
+      "type": "skill-md",
+      "description": "Use when someone wants information, indicative prices or a quote for Salamander PVC windows, Alumil aluminium windows and doors, sliding and folding systems, curtain walls, exterior shutters, Raffstore or Zipscreen shading, or nZEB window installation from Neofort BIZ in Bucharest, Romania (installation in Bucharest and Ilfov, delivery across the EU). Explains where the official prices and technical data are, how to use the tools on neofort-biz.ro and what a quote request needs.",
+      "url": "/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md",
+      "digest": "sha256:63c2ce22ad6ca6ffe92de047b0e29dd969f1341226613f7208aa783ecbeac1ff"
+    }
+  ]
+}

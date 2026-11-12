@@ -360,6 +360,19 @@ const nextConfig = {
         ],
       },
       {
+        // v316: fisierele pentru agenti AI (ard.json, Agent Skills) — citite si de
+        // clienti din browser, deci CORS deschis; cache de o ora (se schimba rar).
+        source: '/.well-known/:path*',
+        headers: [
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Cache-Control', value: 'public, max-age=3600' },
+        ],
+      },
+      {
+        source: '/.well-known/agent-skills/:name/SKILL.md',
+        headers: [{ key: 'Content-Type', value: 'text/markdown; charset=utf-8' }],
+      },
+      {
         // Cache agresiv pe assets statice
         source: '/(.*)\\.(avif|webp|jpg|jpeg|png|ico|svg|woff2|woff)',
         headers: [
