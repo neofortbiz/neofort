@@ -43,6 +43,96 @@
         "website": "https://www.neofort-biz.ro",
         "llmsTxt": "https://www.neofort-biz.ro/llms.txt"
       }
+    },
+    {
+      "identifier": "urn:air:neofort-biz.ro:mcp:catalog",
+      "displayName": "Neofort BIZ MCP server — prices, technical data and contact (read-only)",
+      "type": "application/mcp-server-card+json",
+      "description": "Public, read-only MCP server (Streamable HTTP, no authentication) of Neofort BIZ, Bucharest: indicative 2026 prices in EUR without VAT, technical data of Salamander PVC and Alumil aluminium systems, shading and nZEB systems, and the contact details and quote form link in six languages.",
+      "tags": [
+        "mcp",
+        "windows",
+        "pvc-windows",
+        "aluminium-windows",
+        "prices",
+        "bucharest",
+        "romania"
+      ],
+      "capabilities": [
+        "get_prices",
+        "get_product_specs",
+        "get_contact_info"
+      ],
+      "representativeQueries": [
+        "price per square metre of Salamander PVC windows in Romania",
+        "technical data of Alumil S77 Supreme aluminium windows",
+        "Uw value of Salamander BluEvolution 92",
+        "how to request a window quote from Neofort BIZ in Bucharest"
+      ],
+      "version": "1.0.0",
+      "updatedAt": "2026-11-13T00:00:00Z",
+      "data": {
+        "name": "neofort-biz",
+        "title": "Neofort BIZ — windows, doors and shading (Bucharest)",
+        "description": "Read-only tools: indicative prices (EUR, without VAT), product technical data, contact details and quote form link.",
+        "version": "1.0.0",
+        "remotes": [
+          {
+            "type": "streamable-http",
+            "url": "https://www.neofort-biz.ro/api/mcp"
+          }
+        ],
+        "supportedProtocolVersions": [
+          "2026-07-28",
+          "2025-11-25",
+          "2025-06-18",
+          "2025-03-26",
+          "2024-11-05"
+        ],
+        "authentication": "none",
+        "tools": [
+          {
+            "name": "get_prices",
+            "description": "Indicative 2026 prices, EUR, without VAT, standard installation in Bucharest and Ilfov.",
+            "inputSchema": {
+              "type": "object",
+              "properties": {}
+            }
+          },
+          {
+            "name": "get_product_specs",
+            "description": "Technical data of the products; optional query by name or keyword.",
+            "inputSchema": {
+              "type": "object",
+              "properties": {
+                "query": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          {
+            "name": "get_contact_info",
+            "description": "Contact details and the quote form link in the requested language.",
+            "inputSchema": {
+              "type": "object",
+              "properties": {
+                "language": {
+                  "type": "string",
+                  "enum": [
+                    "ro",
+                    "en",
+                    "de",
+                    "fr",
+                    "es",
+                    "it"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
     }
   ]
 }

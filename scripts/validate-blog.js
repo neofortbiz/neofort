@@ -452,7 +452,9 @@ function garda24() {
   (idx.skills || []).forEach(s => {
     const f = local(s.url);
     if (!f || !fs.existsSync(f)) { err(`agent-skills: fisier lipsa pentru ${s.name}: ${s.url}`); return; }
-    const buf = fs.readFileSync(f);
+    // Pe Windows, Git scrie fisierul local cu CRLF; in repo si pe site e LF.
+    // Digestul se calculeaza pe varianta LF, cea servita efectiv.
+    const buf = Buffer.from(fs.readFileSync(f, 'utf8').replace(/\r\n/g, '\n'), 'utf8');
     const dig = 'sha256:' + crypto.createHash('sha256').update(buf).digest('hex');
     if (s.digest !== dig) err(`agent-skills: digest gresit pentru ${s.name} — pune ${dig} in index.json`);
     if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(s.name) || s.name.length > 64) err(`agent-skills: nume invalid ${s.name}`);

@@ -882,6 +882,7 @@ Cele 56 de articole tehnice, cu titlu și URL în română. Fiecare există în 
 - [Full content (llms-full.txt)](https://www.neofort-biz.ro/llms-full.txt): complete text of all technical blog articles (RO + EN) plus the full product catalogue with descriptions and FAQ, auto-generated and always in sync
 - [ARD manifest (ard.json)](https://www.neofort-biz.ro/.well-known/ard.json): Agentic Resource Discovery entry for this site
 - [Agent skill: Neofort BIZ windows quote](https://www.neofort-biz.ro/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md): how an AI agent finds prices, technical data and requests a quote (index: [/.well-known/agent-skills/index.json](https://www.neofort-biz.ro/.well-known/agent-skills/index.json))
+- [MCP server](https://www.neofort-biz.ro/api/mcp): public, read-only, Streamable HTTP, no authentication (protocol 2026-07-28 and 2024-11-05 to 2025-11-25) — tools `get_prices`, `get_product_specs`, `get_contact_info`
 - WebMCP tools on every page (Chrome, origin trial): `get_prices`, `get_product_specs`, `request_quote` (fills in the quote form; the user sends it)
 - [RSS Feed](https://www.neofort-biz.ro/feed.xml): latest 30 blog articles with publication dates (Romanian)
 - Per-language RSS feeds, each with the translated titles, descriptions and URLs of the latest 30 articles:

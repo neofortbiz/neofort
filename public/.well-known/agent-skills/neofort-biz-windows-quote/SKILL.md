@@ -28,6 +28,12 @@ On every page of neofort-biz.ro, in browsers that support WebMCP:
 - `get_product_specs` — technical data; optional `query`, for example "S77" or "BluEvolution 92" (read-only).
 - `request_quote` — fills in the quote form at the bottom of the page. It never sends it: the user checks the data, ticks the privacy-policy consent box and presses the submit button.
 
+## MCP server (any MCP client)
+
+- Endpoint: `https://www.neofort-biz.ro/api/mcp` — Streamable HTTP, no authentication, read-only. Supports protocol 2026-07-28 (`server/discover`) and the earlier `initialize` versions (2024-11-05 to 2025-11-25).
+- Tools: `get_prices`, `get_product_specs` (optional `query`), `get_contact_info` (optional `language`: ro, en, de, fr, es, it — returns the quote form link in that language).
+- It cannot send a quote request; send the user to the quote form or the sales contacts.
+
 ## What a quote request needs
 
 - Name, phone, e-mail and the delivery or installation address.
