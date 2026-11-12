@@ -55,7 +55,7 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 - **[Sistem Aluminiu Alumil S 77 SUPREME – Ferestre și Uși cu Barieră Termică 40 mm](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s77-supreme)**
   - Adâncime constructivă: 77 – 93 mm · Barieră termică: Poliamidă 40 mm · Transfer termic Uf: de la 0,86 W/m²K · Geam compatibil: 24 – 72 mm (dublu / triplu) · Izolare fonică: până la 42 dB · Greutate max. canat: 400 kg
   - Producător: Alumil S.A.
-  - Preț orientativ: 350 – 480 EUR/mp montat, inclusiv geam termoizolator și montaj nZEB
+  - Preț orientativ: 350 – 480 EUR/mp, cu geam termoizolator și montaj, fără TVA
 - **[Sistem Aluminiu Alumil S 67 SMARTIA – Ferestre și Uși cu Izolare Fonică 45 dB](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s67-smartia)**
   - Adâncime constructivă: 67 – 75 mm · Barieră termică: Poliamidă 30 mm · Transfer termic Uf: de la 1,5 W/m²K · Geam compatibil: 24 – 58 mm (dublu / triplu) · Izolare fonică: până la 45 dB · Greutate max. canat: 200 kg
   - Producător: Alumil S.A.
@@ -69,9 +69,9 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
   - Tip sistem: Armonic (pliant) · Barieră termică: Kooltherm 40 mm · Transfer termic Uf: de la 1,0 W/m²K · Geam compatibil: până la 58 mm · Izolare fonică: până la 38 dB · Greutate max. foaie: 120 kg
   - Producător: Alumil S.A.
 - **[Sistem Armonic Alumil M 19800 SMARTIA – Uși Pliante Accesibile pentru Terase](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-m19800-smartia)**
-  - Tip sistem: Armonic (pliant) · Barieră termică: 18 mm · Transfer termic Uf: de la 1,9 W/m²K · Geam compatibil: până la 32 mm · Izolare fonică: până la 36 dB · Greutate max. foaie: 80 kg
+  - Tip sistem: Armonic (pliant), foi suspendate pe sus · Barieră termică: dublă, poliamidă 18 mm · Transfer termic Uf: 1,9 W/m²K · Geam compatibil: 24–32 mm · Greutate max. foaie: 80 kg
   - Producător: Alumil S.A.
-  - Preț orientativ: 280 – 400 EUR/mp montat, inclusiv geam și montaj
+  - Preț orientativ: 280 – 400 EUR/mp, cu geam și montaj, fără TVA
 
 ### Accesorii
 
@@ -90,8 +90,8 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 
 ### Sisteme nZEB
 
-- **[Precadre Blaugelb Triotherm+ – Sistem Montaj Termic Certificat RAL, 3 Zone Izolare](https://www.neofort-biz.ro/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus)**
-  - Material: XPS expandat + poliamidă · Transfer termic λ: 0,040 W/m²K · Certificare: RAL Montajeleitfaden
+- **[Precadre Blaugelb Triotherm+ – Montaj Termic în Planul Izolației](https://www.neofort-biz.ro/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus)**
+  - Material: EPS de înaltă densitate, gri · Conductivitate termică λD: 0,040 W/mK (EN 12667) · Certificare: Passive House Institute, sistem de montaj (2017)
   - Producător: Blaugelb
 - **[Bandă Precomprimată Butilică – Etanșare Exterioară Impermeabilă RAL, Strat Exterior](https://www.neofort-biz.ro/ro/sisteme-nzeb/banda-precomprimata-butilic)**
   - Material: Spumă PUR impregnată bitum/acrilic · Sistemul RAL: Strat exterior (permeabil)
@@ -99,8 +99,8 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 - **[Bandă Etanșare Antivapori Interior – Barieră Vapori Sd > 10 m, Strat Interior RAL](https://www.neofort-biz.ro/ro/sisteme-nzeb/banda-etansare-antivapori-interior)**
   - Material: PE / Aluminiu laminat · Rezistență vapori Sd: > 10 m (barieră veritabilă) · Sistemul RAL: Strat interior (barieră vapori)
   - Producător: Soudal N.V.
-- **[Baghetă Warm Edge Thermo – Distanțier Termic Geam, λ = 0,035 W/mK, Certificat Passive House](https://www.neofort-biz.ro/ro/sisteme-nzeb/bagheta-warm-edge-distantier-termic)**
-  - Material: Oțel inoxidabil / TPS Swisspacer / Thermix · Conductivitate termică λ: 0,035 – 0,16 W/mK (în funcție de tip) · Standard: EN 1279 — geam termoizolator
+- **[Baghetă Warm Edge Thermo – Distanțier Termic Geam, λ = 0,14 W/mK, Certificat Passive House](https://www.neofort-biz.ro/ro/sisteme-nzeb/bagheta-warm-edge-distantier-termic)**
+  - Material: Compozit cu fibră de sticlă (Swisspacer) / TGI / Thermix · Conductivitate termică λ: 0,14 W/mK (Swisspacer Ultimate) · Standard: EN 1279 — geam termoizolator · La cerere, cost separat
   - Producător: SWISSPACER
 - **[Geamuri Termopan Saint-Gobain SGG – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg)**
   - Planitherm XN: Low-e standard · Ug = 1,0 W/m²K (dublu) · Planitherm ONE: Ultra low-e · Ug = 0,7 W/m²K (triplu) · Planitherm 4S Evolution: 4 Anotimpuri (4S) · Ug = 0,5 W/m²K (triplu)
@@ -120,7 +120,7 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 - **[Pergole Automate Somfy – Motor Pergola RGS io, Protecție Vânt și Ploaie](https://www.neofort-biz.ro/ro/umbrire/pergole-automate-somfy)**
   - Motor: Somfy Pergola 50 RGS io / 60 RGS io
   - Producător: Somfy
-  - Preț orientativ: 11.000 – 18.000 lei pentru 3 × 4 m, inclusiv motor Somfy Pergola RGS io și montaj
+  - Preț orientativ: 6.000 EUR pentru 4 × 3 m, cu motor Somfy și montaj, fără TVA
 
 ### Geam Termoizolator
 
@@ -133,7 +133,7 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 
 ### Pereți cortină și fațade
 
-- Pereți cortină Alumil CW50/CW60 și fațade ventilate — execuție pe proiect, fără pagină de catalog.
+- Pereți cortină Reynaers CW 50 / Alumil SMARTIA M50 și fațade ventilate — execuție pe proiect, fără pagină de catalog. Preț orientativ: 200–500 EUR/m² + TVA, cu montaj.
 - Detalii tehnice: [ghid pereți cortină și fațade de sticlă](https://www.neofort-biz.ro/ro/blog/pereti-cortina-fatade-sticla-ghid-complet)
 
 ## Index produse pe limbi
@@ -158,10 +158,10 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Interior PVC Windowsills and Exterior Aluminium Sills – Complete Window Finishing](https://www.neofort-biz.ro/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills)
 - [Aereco Hygro-adjustable Ventilation Grille – Natural Ventilation Controlled by Humidity](https://www.neofort-biz.ro/en/accessories/aereco-hygro-adjustable-ventilation-grille)
 - [Somfy Automation — Motors and Remote Controls for Shutters, Pergolas and Smart Home](https://www.neofort-biz.ro/en/accessories/somfy-automation-shutters-pergolas)
-- [Blaugelb Triotherm+ Precasings – RAL Certified Thermal Installation System, 3 Insulation Zones](https://www.neofort-biz.ro/en/nzeb-systems/blaugelb-triotherm-plus-precasings)
+- [Blaugelb Triotherm+ Precasings – Thermal Installation in the Insulation Layer](https://www.neofort-biz.ro/en/nzeb-systems/blaugelb-triotherm-plus-precasings)
 - [Pre-compressed Butyl Tape – Waterproof Exterior RAL Sealing, Outer Layer](https://www.neofort-biz.ro/en/nzeb-systems/pre-compressed-butyl-sealing-tape)
 - [Interior Vapour Barrier Sealing Tape – Vapour Barrier Sd > 10 m, RAL Inner Layer](https://www.neofort-biz.ro/en/nzeb-systems/interior-vapour-barrier-sealing-tape)
-- [Warm Edge Thermo Spacer – Glass Thermal Spacer, λ = 0.035 W/mK, Passive House Certified](https://www.neofort-biz.ro/en/nzeb-systems/warm-edge-thermo-spacer-insulating-glass)
+- [Warm Edge Thermo Spacer – Glass Thermal Spacer, λ = 0.14 W/mK, Passive House Certified](https://www.neofort-biz.ro/en/nzeb-systems/warm-edge-thermo-spacer-insulating-glass)
 - [Saint-Gobain SGG Thermal Glass – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass)
 - [Aluminium Exterior Roller Shutters – Solar, Thermal and Burglar Protection](https://www.neofort-biz.ro/en/shading-systems/aluminium-external-roller-shutters)
 - [Raffstore Exterior Venetian Blinds – Precision Solar Control 0°–90°](https://www.neofort-biz.ro/en/shading-systems/raffstore-venetian-blinds)
@@ -186,10 +186,10 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Innenfensterbänke PVC und Außenfensterbänke Aluminium – Vollständige Fensterveredelung](https://www.neofort-biz.ro/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium)
 - [Aereco Hygroregelbare Lüftungsgitter – Natürliche Lüftung durch Feuchtigkeitssteuerung](https://www.neofort-biz.ro/de/zubehoer/aereco-hygroregelbare-lueftungsgitter)
 - [Somfy Automatisierung — Motoren und Fernbedienungen für Rollläden, Pergolen und Smart Home](https://www.neofort-biz.ro/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen)
-- [Blaugelb Triotherm+ Vorfenster – RAL-zertifiziertes thermisches Montagesystem, 3 Dämmzonen](https://www.neofort-biz.ro/de/nzeb-systeme/blaugelb-triotherm-plus-vorfenster)
+- [Blaugelb Triotherm+ Vorblendrahmen – Vorwandmontage in der Dämmebene](https://www.neofort-biz.ro/de/nzeb-systeme/blaugelb-triotherm-plus-vorfenster)
 - [Vorkomprimiertes Butylband – Wasserabweisende Außenabdichtung RAL, Außenschicht](https://www.neofort-biz.ro/de/nzeb-systeme/vorkomprimiertes-butyl-dichtband)
 - [Innen-Dampfsperrband – Dampfsperre Sd > 10 m, RAL Innenschicht](https://www.neofort-biz.ro/de/nzeb-systeme/innen-dampfsperrband)
-- [Warm Edge Thermo Abstandhalter – Glas-Wärmedämmabstandhalter, λ = 0,035 W/mK, Passivhaus-zertifiziert](https://www.neofort-biz.ro/de/nzeb-systeme/warm-edge-thermo-abstandhalter-isolierglas)
+- [Warm Edge Thermo Abstandhalter – Glas-Wärmedämmabstandhalter, λ = 0,14 W/mK, Passivhaus-zertifiziert](https://www.neofort-biz.ro/de/nzeb-systeme/warm-edge-thermo-abstandhalter-isolierglas)
 - [Saint-Gobain SGG Wärmeschutzisolierglas – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas)
 - [Außenrollladen aus Aluminium – Sonnen-, Wärme- und Einbruchschutz](https://www.neofort-biz.ro/de/beschattungssysteme/aluminium-aussenrollladen)
 - [Raffstore Außenjalousien – Präziser Sonnenschutz 0°–90°](https://www.neofort-biz.ro/de/beschattungssysteme/raffstore-aussenjalousien)
@@ -214,10 +214,10 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Appuis de Fenêtre Intérieurs PVC et Extérieurs Aluminium – Finition Complète Fenêtre](https://www.neofort-biz.ro/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium)
 - [Grille Hygroréglable Aereco – Ventilation Naturelle Contrôlée par l'Humidité](https://www.neofort-biz.ro/fr/accessoires/grille-hygroreglable-aereco-ventilation)
 - [Automatisation Somfy — Moteurs et Télécommandes pour Volets, Pergolas et Maison Connectée](https://www.neofort-biz.ro/fr/accessoires/automatisation-somfy-volets-pergolas)
-- [Précadres Blaugelb Triotherm+ – Système de Montage Thermique Certifié RAL, 3 Zones d'Isolation](https://www.neofort-biz.ro/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus)
+- [Précadres Blaugelb Triotherm+ – Pose Thermique dans le Plan de l’Isolant](https://www.neofort-biz.ro/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus)
 - [Ruban Précomprimé Butylique – Étanchéité Extérieure Imperméable RAL, Couche Extérieure](https://www.neofort-biz.ro/fr/systemes-nzeb/bande-precomprimee-butyle)
 - [Ruban Étanchéité Pare-Vapeur Intérieur – Barrière Vapeur Sd > 10 m, Couche Intérieure RAL](https://www.neofort-biz.ro/fr/systemes-nzeb/ruban-etancheite-pare-vapeur-interieur)
-- [Espaceur Warm Edge Thermo – Espaceur Thermique Vitrage, λ = 0,035 W/mK, Certifié Maison Passive](https://www.neofort-biz.ro/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage)
+- [Espaceur Warm Edge Thermo – Espaceur Thermique Vitrage, λ = 0,14 W/mK, Certifié Maison Passive](https://www.neofort-biz.ro/fr/systemes-nzeb/espaceur-warm-edge-thermo-vitrage)
 - [Vitrage Isolant Saint-Gobain SGG – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg)
 - [Volets Roulants Extérieurs en Aluminium – Protection Solaire, Thermique et Anti-effraction](https://www.neofort-biz.ro/fr/systemes-occultation/volets-roulants-aluminium-exterieurs)
 - [Stores Vénitiens Extérieurs Raffstore – Contrôle Solaire de Précision 0°–90°](https://www.neofort-biz.ro/fr/systemes-occultation/stores-venitiens-raffstore)
@@ -242,10 +242,10 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Alféizares Interiores PVC y Exteriores Aluminio – Acabado Completo de Ventana](https://www.neofort-biz.ro/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio)
 - [Rejilla Higrorreglable Aereco – Ventilación Natural Controlada por Humedad](https://www.neofort-biz.ro/es/accesorios/rejilla-higrorreglable-aereco-ventilacion)
 - [Automatización Somfy — Motores y Mandos para Persianas, Pérgolas y Smart Home](https://www.neofort-biz.ro/es/accesorios/automatizacion-somfy-persianas-pergolas)
-- [Premarcos Blaugelb Triotherm+ – Sistema de Montaje Térmico Certificado RAL, 3 Zonas de Aislamiento](https://www.neofort-biz.ro/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus)
+- [Premarcos Blaugelb Triotherm+ – Montaje Térmico en el Plano del Aislamiento](https://www.neofort-biz.ro/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus)
 - [Cinta Precomprimida Butílica – Sellado Exterior Impermeable RAL, Capa Exterior](https://www.neofort-biz.ro/es/sistemas-nzeb/cinta-precomprimida-butilica)
 - [Cinta Sellado Barrera de Vapor Interior – Barrera Vapor Sd > 10 m, Capa Interior RAL](https://www.neofort-biz.ro/es/sistemas-nzeb/banda-sellado-barrera-vapor-interior)
-- [Separador Warm Edge Thermo – Separador Térmico Vidrio, λ = 0,035 W/mK, Certificado Casa Pasiva](https://www.neofort-biz.ro/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante)
+- [Separador Warm Edge Thermo – Separador Térmico Vidrio, λ = 0,14 W/mK, Certificado Casa Pasiva](https://www.neofort-biz.ro/es/sistemas-nzeb/separador-warm-edge-thermo-vidrio-aislante)
 - [Vidrio Aislante Saint-Gobain SGG – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg)
 - [Persianas Exteriores de Aluminio – Protección Solar, Térmica y Antirrobo](https://www.neofort-biz.ro/es/sistemas-sombreado/persianas-exteriores-aluminio)
 - [Persianas Venecianas Exteriores Raffstore – Control Solar de Precisión 0°–90°](https://www.neofort-biz.ro/es/sistemas-sombreado/persianas-venecianas-raffstore)
@@ -270,10 +270,10 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Davanzali Interni PVC e Esterni Alluminio – Finitura Completa della Finestra](https://www.neofort-biz.ro/it/accessori/davanzali-interni-pvc-esterni-alluminio)
 - [Griglia Igroregolab. Aereco – Ventilazione Naturale Controllata dall'Umidità](https://www.neofort-biz.ro/it/accessori/griglia-igroregolab-aereco-ventilazione)
 - [Automazione Somfy — Motori e Telecomandi per Tapparelle, Pergole e Casa Intelligente](https://www.neofort-biz.ro/it/accessori/automazione-somfy-tapparelle-pergole)
-- [Pre-telai Blaugelb Triotherm+ – Sistema di Montaggio Termico Certificato RAL, 3 Zone di Isolamento](https://www.neofort-biz.ro/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus)
+- [Controtelai Blaugelb Triotherm+ – Posa Termica nel Piano dell’Isolamento](https://www.neofort-biz.ro/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus)
 - [Nastro Precompresso Butilico – Tenuta Esterna Impermeabile RAL, Strato Esterno](https://www.neofort-biz.ro/it/sistemi-nzeb/nastro-precompresso-butilico)
 - [Nastro Tenuta Barriera al Vapore Interno – Barriera Vapore Sd > 10 m, Strato Interno RAL](https://www.neofort-biz.ro/it/sistemi-nzeb/nastro-tenuta-barriera-vapore-interno)
-- [Distanziale Warm Edge Thermo – Distanziale Termico Vetro, λ = 0,035 W/mK, Certificato Passive House](https://www.neofort-biz.ro/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante)
+- [Distanziale Warm Edge Thermo – Distanziale Termico Vetro, λ = 0,14 W/mK, Certificato Passive House](https://www.neofort-biz.ro/it/sistemi-nzeb/distanziale-warm-edge-thermo-vetro-isolante)
 - [Vetro Termoisolante Saint-Gobain SGG – Planitherm, Planistar SUN, Stadip SILENCE](https://www.neofort-biz.ro/it/sistemi-nzeb/vetro-termoisolante-saint-gobain-sgg)
 - [Tapparelle Esterne in Alluminio – Protezione Solare, Termica e Antieffrazione](https://www.neofort-biz.ro/it/sistemi-oscuramento/tapparelle-esterne-alluminio)
 - [Veneziane Esterne Raffstore – Controllo Solare di Precisione 0°–90°](https://www.neofort-biz.ro/it/sistemi-oscuramento/veneziane-raffstore)
@@ -287,7 +287,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - Livrare și montaj în România, Germania, Franța, Italia, Spania, Austria, Belgia, Olanda
 - Export tâmplărie BluEvolution 92 ALU în Franța (zone alpine, condiții climatice extreme)
 - Lucrare bloc rezidențial Delea Veche, București: Reynaers CS 77, ~800 mp
-- Lucrare clădire birouri Floreasca-Barbu Văcărescu: Alumil CW50, ~1200 mp, BREEAM Very Good
+- Lucrare clădire birouri Floreasca-Barbu Văcărescu: Alumil SMARTIA M50, ~1200 mp, BREEAM Very Good
 
 ## Contact și Locație
 
@@ -302,12 +302,21 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 
 ## Prețuri orientative (2026)
 
-- **Fereastră oscilo-batantă PVC Salamander bluEvolution 92** (80×120 cm, triplu geam, montaj inclus): 1.450–1.800 lei
-- **Fereastră oscilo-batantă PVC Salamander GreenEvolution 76** (80×120 cm, dublu geam, montaj inclus): 950–1.300 lei
-- **Fereastră aluminiu Alumil S77 Supreme** (80×120 cm, triplu geam, montaj inclus): 1.800–2.400 lei
-- **Ușă intrare aluminiu Alumil SF85** (90×210 cm, RC2, montaj inclus): 3.500–5.000 lei
-- **Jaluzele Raffstore C80** (100×150 cm, motor Somfy, montaj inclus): 1.200–1.800 lei · manual: 600–900 lei
-- **Sistem complet nZEB** (fereastră + precadre Blaugelb + benzi + triplu geam): +300–450 lei/fereastră față de montaj standard
+Toate prețurile sunt în EUR, fără TVA (TVA 21% se adaugă la facturare), cu montaj standard în București și Ilfov.
+
+- **Tâmplărie PVC Salamander GreenEvolution 76**: 150–235 EUR/mp, cu geam termopan dublu
+- **Tâmplărie PVC Salamander BluEvolution 92**: 200–285 EUR/mp; varianta BluEvolution 92 ALU (placată cu aluminiu): 250–350 EUR/mp
+- **Geam triplu Low-E în loc de dublu**: +40–80 EUR/mp
+- **Tâmplărie aluminiu Alumil SMARTIA S67**: 250–350 EUR/mp · **Alumil SUPREME S77**: 350–480 EUR/mp
+- **Uși armonice Alumil**: M 19800 SMARTIA 280–400 EUR/mp · SF 85 SUPREME 350–500 EUR/mp
+- **Glisante Alumil**: S 350 SMARTIA 400–550 EUR/mp · liftant-glisant S 700 SUPREME 550–750 EUR/mp
+- **Pereți cortină Reynaers CW 50 / Alumil SMARTIA M50**: 200–500 EUR/m²
+- **Uși de intrare din aluminiu**: 800–2.500 EUR/buc
+- **Montaj nZEB cu precadre Blaugelb Triotherm+ și benzi Soudal**: +25–50 EUR/ml de perimetru la PVC, +30–60 EUR/ml la aluminiu
+- **Rulouri exterioare din aluminiu**: 85–120 EUR/mp manual, 150–220 EUR/mp cu motor
+- **Jaluzele Raffstore**: 150–200 EUR/mp cu motor
+- **Zipscreen**: 225–300 EUR/mp manual, 350–450 EUR/mp cu motor
+- **Pergolă automată Somfy cu pânză, 4 × 3 m**: 6.000 EUR
 - **Export UE**: prețuri la cerere, fără taxe vamale intra-UE, documentație CE completă
 
 ## Pagini principale
@@ -328,13 +337,13 @@ Română, Engleză, Germană, Franceză, Spaniolă, Italiană
 ## Întrebări Frecvente
 
 **Cât costă tâmplăria PVC Salamander BluEvolution 92?**
-Prețul orientativ pentru BluEvolution 92 pornește de la 200 EUR/mp montat și ajunge la 350 EUR/mp pentru varianta ALU placată cu aluminiu, incluzând geamul termoizolator Low-E și montajul cu precadre Blaugelb. Prețul variază în funcție de dimensiuni, culoare RAL și configurație (oscilo-batant, culisant, liftant-glisant).
+Prețul orientativ pentru BluEvolution 92 este 200–285 EUR/mp și ajunge la 250–350 EUR/mp pentru varianta ALU placată cu aluminiu, cu geam termopan și montaj standard, fără TVA. Montajul nZEB cu precadre Blaugelb se adaugă cu 25–50 EUR/ml de perimetru. Prețul variază în funcție de dimensiuni, culoare RAL și configurație (oscilo-batant, culisant, liftant-glisant).
 
 **Care este diferența dintre BluEvolution 92 și GreenEvolution 76?**
-BluEvolution 92 are 6 camere și Uw = 0.70 W/m²K (standard Passive House). GreenEvolution 76 are 5 camere și Uw = 0.73 W/m²K (standard nZEB). BluEvolution 92 este recomandat pentru proiecte premium și case pasive; GreenEvolution 76 pentru proiecte rezidențiale cu raport calitate-preț optim.
+BluEvolution 92 are 92 mm, 6 camere, geam de până la 60 mm și Uw de la 0,70 W/m²K. GreenEvolution 76 are 76 mm, 5 camere, geam de până la 48 mm și Uw de la 0,73 W/m²K. Ambele ajung la 47 dB. BluEvolution 92 e recomandat pentru case noi, ferestre mari și aspect aluminiu (varianta ALU); GreenEvolution 76 pentru renovări și buget echilibrat.
 
 **Ce înseamnă nZEB și de ce este important?**
-nZEB (Nearly Zero Energy Building) este standardul european obligatoriu în România din 2021 pentru construcții noi. Un profil certificat nZEB (Uw ≤ 0.73 W/m²K) reduce consumul de energie al clădirii cu 40–60% față de tâmplăria standard.
+nZEB (Nearly Zero Energy Building) este obligatoriu în România pentru clădirile noi autorizate după 31 decembrie 2020 (Directiva 2010/31/UE, Legea 372/2005, metodologia Mc 001-2022). nZEB se calculează pe toată clădirea, nu există „profil certificat nZEB”. Pentru ferestre, Mc 001-2022 recomandă Uw de cel mult 1,11 W/m²K la clădirile rezidențiale noi.
 
 **Livrați și montați în afara României?**
 Da. Neofort BIZ livrează tâmplărie în toată Uniunea Europeană. Montajul este disponibil în România și țările limitrofe. Pentru export Europa, livrăm cu documentație CE completă, fără taxe vamale intra-UE.
@@ -359,7 +368,7 @@ Cele 56 de articole tehnice, cu titlu și URL în română. Fiecare există în 
 - [Ai nevoie de autorizație pentru ferestre?](https://www.neofort-biz.ro/ro/blog/autorizatie-construire-schimbare-ferestre-apartament-casa-2026) — 2026-06 · Legislație
 - [Certificatul energetic și ferestrele](https://www.neofort-biz.ro/ro/blog/certificat-energetic-cladire-ce-este-componente-rol-ferestre) — 2026-06 · Eficiență energetică
 - [Subvenții ferestre 2026: ce program ai](https://www.neofort-biz.ro/ro/blog/subventii-programe-schimb-ferestre-2026-pnrr-casa-eficienta) — 2026-06 · Finanțare & Subvenții
-- [Cât durează o fereastră PVC?](https://www.neofort-biz.ro/ro/blog/cat-dureaza-o-fereastra-pvc-cand-trebuie-inlocuita) — 2026-06 · Ghid practic
+- [Cât durează o fereastră PVC? 30–50 de ani](https://www.neofort-biz.ro/ro/blog/cat-dureaza-o-fereastra-pvc-cand-trebuie-inlocuita) — 2026-06 · Ghid practic
 - [Legislație 2026 produse de construcții](https://www.neofort-biz.ro/ro/blog/legislatie-2026-produse-constructii-regulament-european) — 2026-05 · Legislație
 - [Ce coeficient termic Uw să aibă geamul](https://www.neofort-biz.ro/ro/blog/ce-coeficient-termic-trebuie-sa-aiba-ferestrele) — 2026-05 · Ghid tehnic
 - [Ce ferestre alegi pentru o casă nZEB](https://www.neofort-biz.ro/ro/blog/ferestre-casa-nzeb-romania-ghid-complet-2026) — 2026-05 · Sisteme nZEB
@@ -383,8 +392,8 @@ Cele 56 de articole tehnice, cu titlu și URL în română. Fiecare există în 
 - [Cum alegi ferestre eficiente energetic](https://www.neofort-biz.ro/ro/blog/cum-aleg-ferestre-eficiente-energetic-bucuresti-ghid-nzeb-2026) — 2026-03 · Ghiduri & Sfaturi
 - [Ferestre Salamander cu livrare în UE](https://www.neofort-biz.ro/ro/blog/unde-gasesc-ferestre-salamander-cu-livrare-internationala) — 2026-03 · Export & Livrare
 - [Unde comanzi uși aluminiu Sector 1](https://www.neofort-biz.ro/ro/blog/unde-comand-usi-aluminiu-sector-1-bucuresti) — 2026-03 · Tâmplărie Aluminiu
-- [Prețuri termopane Salamander 2026](https://www.neofort-biz.ro/ro/blog/preturi-termopane-salamander-bucuresti) — 2026-03 · Prețuri & Ghid
-- [Prețuri tâmplărie aluminiu: 4 mărci](https://www.neofort-biz.ro/ro/blog/preturi-tamplarie-aluminiu-alumil-aluprof-cortizo-reynaers-bucuresti) — 2026-03 · Prețuri & Comparație
+- [Prețuri termopane Salamander București 2026](https://www.neofort-biz.ro/ro/blog/preturi-termopane-salamander-bucuresti) — 2026-03 · Prețuri & Ghid
+- [Prețuri tâmplărie aluminiu 2026: 4 mărci, €/mp](https://www.neofort-biz.ro/ro/blog/preturi-tamplarie-aluminiu-alumil-aluprof-cortizo-reynaers-bucuresti) — 2026-03 · Prețuri & Comparație
 - [Ferestre și uși inteligente din aluminiu](https://www.neofort-biz.ro/ro/blog/tamplarie-aluminiu-smart-home-ferestre-usi-inteligente) — 2026-03 · Smart Home & Automatizare
 - [Pereți cortină pentru clădiri de birouri](https://www.neofort-biz.ro/ro/blog/pereti-cortina-birouri-bucuresti-ghid-complet-2026) — 2026-03 · Pereți Cortină & Birouri
 - [Înlocuire ferestre vechi în apartament](https://www.neofort-biz.ro/ro/blog/inlocuire-ferestre-vechi-renovare-apartament-bucuresti) — 2026-03 · Renovare & Ghid
@@ -395,13 +404,13 @@ Cele 56 de articole tehnice, cu titlu și URL în română. Fiecare există în 
 - [Vitrine și geamuri panoramice mari](https://www.neofort-biz.ro/ro/blog/vitrine-sticla-geamuri-panoramice-mari-dimensiuni-securizate-bucuresti) — 2026-03 · Vitrine & Geamuri Mari
 - [Montaj geamuri agabaritice cu robot](https://www.neofort-biz.ro/ro/blog/montaj-geamuri-agabaritice-robot-ventuze-sticla-mari-dimensiuni) — 2026-03 · Montaj Specializat
 - [Pereți cortină: lucrări în București](https://www.neofort-biz.ro/ro/blog/tamplarie-aluminiu-pereti-cortina-fatade-sticla-lucrari-bucuresti) — 2026-03 · Lucrări București
-- [Pereți cortină și fațade din sticlă](https://www.neofort-biz.ro/ro/blog/pereti-cortina-fatade-sticla-ghid-complet) — 2026-03 · Pereți Cortină
+- [Pereți cortină și fațade din sticlă: prețuri](https://www.neofort-biz.ro/ro/blog/pereti-cortina-fatade-sticla-ghid-complet) — 2026-03 · Pereți Cortină
 - [Sisteme de umbrire exterioară: ghid](https://www.neofort-biz.ro/ro/blog/zipscreen-umbrire-terasa-ghid-complet) — 2026-03 · Sisteme Umbrire
 - [Tâmplărie aluminiu cu barieră termică](https://www.neofort-biz.ro/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet) — 2026-03 · Tâmplărie Aluminiu
 - [Export tâmplărie în Germania: cum merge](https://www.neofort-biz.ro/ro/blog/export-tamplarie-germania) — 2026-03 · Export & Europa
 - [Raffstore vs rulouri exterioare](https://www.neofort-biz.ro/ro/blog/jaluzele-raffstore-vs-rulouri-aluminiu) — 2026-03 · Comparație produse
-- [Precadre Blaugelb: de ce sunt necesare](https://www.neofort-biz.ro/ro/blog/montaj-precadre-blaugelb-nzeb) — 2026-02 · Montaj & Izolare
-- [BluEvolution 92 vs GreenEvolution 76](https://www.neofort-biz.ro/ro/blog/bluevolution-92-vs-greenevolution-76) — 2026-02 · Ghid tehnic
+- [Precadre Blaugelb: când merită și cum se montează](https://www.neofort-biz.ro/ro/blog/montaj-precadre-blaugelb-nzeb) — 2026-02 · Montaj & Izolare
+- [BluEvolution 92 vs GreenEvolution 76: păreri](https://www.neofort-biz.ro/ro/blog/bluevolution-92-vs-greenevolution-76) — 2026-02 · Ghid tehnic
 - [Motor Somfy pentru rulouri exterioare](https://www.neofort-biz.ro/ro/blog/somfy-rulouri-motoare-exterioare) — 2026-02 · Automatizare & Smart Home
 - [Automatizare Somfy pentru pergole](https://www.neofort-biz.ro/ro/blog/somfy-automatizare-pergole-copertine) — 2026-01 · Automatizare & Smart Home
 - [Somfy TaHoma: casa dintr-o aplicație](https://www.neofort-biz.ro/ro/blog/somfy-tahoma-smart-home-romania) — 2025-12 · Automatizare & Smart Home

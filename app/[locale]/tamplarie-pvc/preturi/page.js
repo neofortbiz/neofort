@@ -278,12 +278,12 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Prix Menuiserie PVC 2026 — dès 150 €/m² | Neofort BIZ'
          : locale === 'es' ? 'Precios Carpintería PVC 2026 — desde 150 €/m² | Neofort BIZ'
          : 'Prezzi Infissi PVC 2026 — da 150 €/m² | Neofort BIZ',
-    description: locale === 'ro' ? 'Prețuri actualizate 2026 tâmplărie PVC: GreenEvolution 76 de la 150 EUR/mp, BluEvolution 92 de la 200 EUR/mp. Geam termopan, montaj nZEB București.'
-               : locale === 'en' ? 'Updated 2026 PVC window prices: GreenEvolution 76 from 150 EUR/m², BluEvolution 92 from 200 EUR/m². Thermal glass, nZEB installation Bucharest.'
-               : locale === 'de' ? 'Aktualisierte Preise 2026 PVC-Fenster: GreenEvolution 76 ab 150 EUR/m², BluEvolution 92 ab 200 EUR/m². Isolierglas, nZEB-Montage Bukarest.'
-               : locale === 'fr' ? 'Prix actualisés 2026 menuiserie PVC: GreenEvolution 76 à partir de 150 EUR/m², BluEvolution 92 à partir de 200 EUR/m². Vitrage isolant, pose nZEB Bucarest.'
-               : locale === 'es' ? 'Precios actualizados 2026 carpintería PVC: GreenEvolution 76 desde 150 EUR/m², BluEvolution 92 desde 200 EUR/m². Vidrio aislante, instalación nZEB Bucarest.'
-               : 'Prezzi aggiornati 2026 infissi PVC: GreenEvolution 76 da 150 EUR/m², BluEvolution 92 da 200 EUR/m². Vetro isolante, posa nZEB Bucarest.',
+    description: locale === 'ro' ? 'Prețuri ferestre PVC Salamander 2026, cu montaj standard: GreenEvolution 76 de la 150 EUR/mp, BluEvolution 92 de la 200 EUR/mp. Ce crește prețul și cu cât.'
+               : locale === 'en' ? 'Salamander PVC window prices 2026 with standard installation: GreenEvolution 76 from 150 EUR/m², BluEvolution 92 from 200 EUR/m². What adds to the price.'
+               : locale === 'de' ? 'Kunststofffenster Salamander 2026, mit Standardmontage: GreenEvolution 76 ab 150 EUR/m², BluEvolution 92 ab 200 EUR/m². Was den Preis erhöht.'
+               : locale === 'fr' ? 'Prix fenêtres PVC Salamander 2026, pose standard comprise : GreenEvolution 76 dès 150 EUR/m², BluEvolution 92 dès 200 EUR/m². Ce qui fait varier le prix.'
+               : locale === 'es' ? 'Precios ventanas PVC Salamander 2026, con instalación estándar: GreenEvolution 76 desde 150 EUR/m², BluEvolution 92 desde 200 EUR/m². Qué sube el precio.'
+               : 'Prezzi finestre PVC Salamander 2026, con posa standard: GreenEvolution 76 da 150 EUR/m², BluEvolution 92 da 200 EUR/m². Cosa fa salire il prezzo.',
     keywords: locale === 'ro' ? 'preturi tamplarie pvc, tamplarie pvc pret 2026, cat costa tamplarie pvc, pvc salamander pret, bluevolution 92 pret, greenevolution 76 pret, fereastra pvc pret, termopane pvc pret bucuresti'
             : 'PVC window prices 2026, Salamander PVC windows cost, BluEvolution 92 price, GreenEvolution 76 price',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },

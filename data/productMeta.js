@@ -410,7 +410,7 @@ export const PRODUCT_META = {
 
   'bagheta-warm-edge-thermo': {
     title: {
-      ro: 'Baghetă Warm Edge Thermo – distanțier termic geam',
+      ro: 'Baghetă Warm Edge Thermo – distanțier termic geam termopan',
       en: 'Warm Edge Thermo Spacer – Glass Thermal Spacer, EN 1279',
       de: 'Warm Edge Thermo Abstandhalter – warme Kante Glas',
       fr: 'Intercalaire Warm Edge Thermo – vitrage, EN 1279',
@@ -418,12 +418,12 @@ export const PRODUCT_META = {
       it: 'Canalina Warm Edge Thermo – bordo caldo, EN 1279',
     },
     desc: {
-      ro: 'λ 0,14 W/mK față de 160 la aluminiu: marginea geamului stă cu 4–6°C mai cald. Certificat Passive House, fabricat după EN 1279.',
-      en: 'λ 0.14 W/mK against 160 for aluminium, keeping the glass edge 4–6°C warmer. Passive House certified, made to EN 1279 and EN 673.',
-      de: 'λ 0,14 W/mK statt 160 bei Aluminium: der Glasrand bleibt 4–6°C wärmer. Passivhaus-zertifiziert, gefertigt nach EN 1279 und EN 673.',
-      fr: 'Espaceur à λ 0,14 W/mK contre 160 pour l’aluminium : le bord du vitrage reste 4 à 6°C plus chaud. Certifié maison passive, EN 1279.',
-      es: 'Separador térmico de vidrio con λ 0,14 W/mK frente a 160 del aluminio: el borde queda 4–6°C más cálido. Certificado casa pasiva.',
-      it: 'Distanziale termico per vetro con λ 0,14 W/mK contro 160 dell’alluminio: il bordo resta 4–6°C più caldo. Certificato Passive House.',
+      ro: 'Baghetă caldă pentru geam termopan: λ 0,14 W/mK față de 160 la aluminiu, marginea geamului cu 4–6°C mai caldă. La cerere; 9 din 10 clienți o aleg.',
+      en: 'Warm edge spacer for insulating glass: λ 0.14 W/mK against 160 for aluminium, glass edge 4–6°C warmer. On request; 9 in 10 of our clients choose it.',
+      de: 'Warme Kante für Isolierglas: λ 0,14 W/mK statt 160 bei Aluminium, der Glasrand bleibt 4–6°C wärmer. Auf Wunsch; 9 von 10 Kunden wählen sie.',
+      fr: 'Intercalaire warm edge pour double vitrage : λ 0,14 W/mK contre 160 pour l’alu, bord 4 à 6°C plus chaud. Sur demande ; 9 clients sur 10 le prennent.',
+      es: 'Separador de borde cálido: λ 0,14 W/mK frente a 160 del aluminio, borde del vidrio 4–6°C más cálido. Bajo pedido; lo eligen 9 de cada 10 clientes.',
+      it: 'Canalina warm edge per vetrocamera: λ 0,14 W/mK contro 160 dell’alluminio, bordo 4–6°C più caldo. Su richiesta; la scelgono 9 clienti su 10.',
     },
   },
 

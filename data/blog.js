@@ -196,7 +196,7 @@ Cel mai performant profil își pierde o parte din performanță dacă rostul di
 | Alumil Supreme S77 | Aluminiu | 350–480 EUR/mp |
 | Alumil S350 Smartia (glisant) | Aluminiu | 400–550 EUR/mp |
 
-*Prețuri fără TVA, ca pe paginile de prețuri. La PVC includ profilul, feroneria standard și geamul dublu, iar montajul se adaugă separat; la aluminiu includ geamul termopan și montajul.
+*Prețuri fără TVA, ca pe paginile de prețuri. La PVC includ profilul, feroneria standard, geamul dublu și montajul standard; la aluminiu includ geamul termopan și montajul.
 
 ### Costuri suplimentare pentru o fereastră nZEB
 
@@ -407,7 +407,7 @@ Even the best profile loses part of its performance if the joint between frame a
 | Alumil Supreme S77 | Aluminium | 350–480 EUR/m² |
 | Alumil S350 Smartia (sliding) | Aluminium | 400–550 EUR/m² |
 
-*Prices excluding VAT, as on the price pages. For PVC they include the profile, standard hardware and double glazing, with installation added separately; for aluminium they include the insulating glass and installation.
+*Prices excluding VAT, as on the price pages. For PVC they include the profile, standard hardware, double glazing and standard installation; for aluminium they include the insulating glass and installation.
 
 ### Extra costs for an nZEB window
 
@@ -608,7 +608,7 @@ Selbst das beste Profil verliert einen Teil seiner Leistung, wenn die Fuge zwisc
 | Alumil Supreme S77 | Aluminium | 350–480 EUR/m² |
 | Alumil S350 Smartia (Schiebeelement) | Aluminium | 400–550 EUR/m² |
 
-*Preise ohne MwSt., wie auf den Preisseiten. Bei PVC enthalten sie Profil, Standardbeschlag und Zweifachverglasung, die Montage kommt separat hinzu; bei Aluminium enthalten sie Isolierglas und Montage.
+*Preise ohne MwSt., wie auf den Preisseiten. Bei PVC enthalten sie Profil, Standardbeschlag, Zweifachverglasung und Standardmontage; bei Aluminium enthalten sie Isolierglas und Montage.
 
 ### Mehrkosten für ein nZEB-Fenster
 
@@ -810,7 +810,7 @@ Même le meilleur profilé perd une partie de sa performance si le joint entre d
 | Alumil Supreme S77 | Aluminium | 350–480 EUR/m² |
 | Alumil S350 Smartia (coulissant) | Aluminium | 400–550 EUR/m² |
 
-*Prix hors TVA, comme sur les pages de prix. En PVC, ils comprennent le profilé, la quincaillerie standard et le double vitrage, la pose s’ajoutant à part ; en aluminium, ils comprennent le vitrage isolant et la pose.
+*Prix hors TVA, comme sur les pages de prix. En PVC, ils comprennent le profilé, la quincaillerie standard, le double vitrage et la pose standard ; en aluminium, ils comprennent le vitrage isolant et la pose.
 
 ### Surcoûts pour une fenêtre nZEB
 
@@ -1012,7 +1012,7 @@ Incluso el mejor perfil pierde parte de su rendimiento si la junta entre marco y
 | Alumil Supreme S77 | Aluminio | 350–480 EUR/m² |
 | Alumil S350 Smartia (corredera) | Aluminio | 400–550 EUR/m² |
 
-*Precios sin IVA, como en las páginas de precios. En PVC incluyen el perfil, los herrajes estándar y el doble acristalamiento, y la instalación se suma aparte; en aluminio incluyen el vidrio aislante y la instalación.
+*Precios sin IVA, como en las páginas de precios. En PVC incluyen el perfil, los herrajes estándar, el doble acristalamiento y la instalación estándar; en aluminio incluyen el vidrio aislante y la instalación.
 
 ### Costes adicionales para una ventana nZEB
 
@@ -1214,7 +1214,7 @@ Anche il miglior profilo perde parte della sua prestazione se il giunto tra tela
 | Alumil Supreme S77 | Alluminio | 350–480 EUR/m² |
 | Alumil S350 Smartia (scorrevole) | Alluminio | 400–550 EUR/m² |
 
-*Prezzi IVA esclusa, come nelle pagine dei prezzi. Per il PVC comprendono profilo, ferramenta standard e doppio vetro, con la posa a parte; per l’alluminio comprendono vetrocamera e posa.
+*Prezzi IVA esclusa, come nelle pagine dei prezzi. Per il PVC comprendono profilo, ferramenta standard, doppio vetro e posa standard; per l’alluminio comprendono vetrocamera e posa.
 
 ### Costi aggiuntivi per una finestra nZEB
 
@@ -4598,7 +4598,7 @@ Regulamentul RAL pentru montajul profesional de ferestre definește 3 zone de et
 | Geam triplu Low-E în loc de geam dublu | +40–80 EUR/mp de vitrare |
 | Distanțier Warm Edge | la cerere, cost separat în ofertă |
 | Montaj nZEB cu precadre Blaugelb Triotherm+ și benzi | +25–50 EUR/ml de perimetru |
-| Montaj standard | separat, în ofertă |
+| Montaj standard | inclus în prețul pe mp |
 
 **Exemplu:** o fereastră de 1,0 × 1,2 m (1,2 mp și 4,4 m de perimetru) costă orientativ 240–340 EUR cu geam dublu. Geamul triplu adaugă circa 50–100 EUR, iar montajul cu precadre circa 110–220 EUR.
 
@@ -4741,7 +4741,7 @@ The RAL guideline for professional window installation defines 3 sealing zones:
 | Triple Low-E glazing instead of double glazing | +40–80 EUR/m² of glazing |
 | Warm Edge spacer | on request, priced separately in the quote |
 | nZEB installation with Blaugelb Triotherm+ precasings and tapes | +25–50 EUR per linear metre of perimeter |
-| Standard installation | separate, in the quote |
+| Standard installation | included in the price per m² |
 
 **Example:** a 1.0 × 1.2 m window (1.2 m² and 4.4 m of perimeter) costs an indicative 240–340 EUR with double glazing. Triple glazing adds about 50–100 EUR, and installation with precasings about 110–220 EUR.
 
@@ -4883,7 +4883,7 @@ Die RAL-Richtlinie für die fachgerechte Fenstermontage definiert 3 Dichtebenen:
 | Dreifach-Low-E-Glas statt Zweifachglas | +40–80 EUR/m² Glasfläche |
 | Warm-Edge-Abstandhalter | auf Anfrage, im Angebot separat berechnet |
 | nZEB-Montage mit Blaugelb Triotherm+ Vorblendrahmen und Bändern | +25–50 EUR pro laufendem Meter Umfang |
-| Standardmontage | separat, im Angebot |
+| Standardmontage | im m²-Preis enthalten |
 
 **Beispiel:** Ein Fenster von 1,0 × 1,2 m (1,2 m² und 4,4 m Umfang) kostet als Richtwert 240–340 EUR mit Zweifachglas. Das Dreifachglas kommt mit etwa 50–100 EUR hinzu, die Montage mit Vorblendrahmen mit etwa 110–220 EUR.
 
@@ -5025,7 +5025,7 @@ Le référentiel RAL pour la pose professionnelle de fenêtres définit 3 plans 
 | Triple vitrage Low-E au lieu du double vitrage | +40–80 EUR/m² de vitrage |
 | Intercalaire Warm Edge | sur demande, chiffré à part dans le devis |
 | Pose nZEB avec précadres Blaugelb Triotherm+ et bandes | +25–50 EUR par mètre linéaire de périmètre |
-| Pose standard | à part, dans le devis |
+| Pose standard | comprise dans le prix au m² |
 
 **Exemple :** une fenêtre de 1,0 × 1,2 m (1,2 m² et 4,4 m de périmètre) coûte à titre indicatif 240–340 EUR en double vitrage. Le triple vitrage ajoute environ 50 à 100 EUR, et la pose avec précadres environ 110 à 220 EUR.
 
@@ -5167,7 +5167,7 @@ La normativa RAL para el montaje profesional de ventanas define 3 planos de sell
 | Triple vidrio Low-E en lugar de doble vidrio | +40–80 EUR/m² de acristalamiento |
 | Separador Warm Edge | bajo pedido, presupuestado aparte |
 | Montaje nZEB con premarcos Blaugelb Triotherm+ y cintas | +25–50 EUR por metro lineal de perímetro |
-| Montaje estándar | aparte, en el presupuesto |
+| Montaje estándar | incluido en el precio por m² |
 
 **Ejemplo:** una ventana de 1,0 × 1,2 m (1,2 m² y 4,4 m de perímetro) cuesta de forma orientativa 240–340 EUR con doble vidrio. El triple vidrio añade unos 50–100 EUR y el montaje con premarcos unos 110–220 EUR.
 
@@ -5309,7 +5309,7 @@ Il regolamento RAL per la posa professionale dei serramenti definisce 3 piani di
 | Triplo vetro Low-E al posto del doppio vetro | +40–80 EUR/m² di vetrata |
 | Distanziale Warm Edge | su richiesta, quotato a parte nel preventivo |
 | Posa nZEB con controtelai Blaugelb Triotherm+ e nastri | +25–50 EUR per metro lineare di perimetro |
-| Posa standard | a parte, nel preventivo |
+| Posa standard | compresa nel prezzo al m² |
 
 **Esempio:** una finestra di 1,0 × 1,2 m (1,2 m² e 4,4 m di perimetro) costa indicativamente 240–340 EUR con doppio vetro. Il triplo vetro aggiunge circa 50–100 EUR e la posa con controtelai circa 110–220 EUR.
 
@@ -8527,7 +8527,7 @@ Neofort BIZ lucrează cu două game Salamander:
 | **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/mp | Locuințe standard, renovări |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/mp | Case nZEB și pasive, izolare maximă |
 
-Prețurile pe metru pătrat sunt cele de pe [pagina de prețuri a tâmplăriei PVC](/ro/tamplarie-pvc/preturi): includ profilul, feroneria standard și geamul dublu, fără montaj și fără TVA.
+Prețurile pe metru pătrat sunt cele de pe [pagina de prețuri a tâmplăriei PVC](/ro/tamplarie-pvc/preturi): includ profilul, feroneria standard, geamul dublu și montajul standard, fără TVA.
 
 ### 2. Tipul de geam termoizolator
 - **Geam dublu** — inclus în prețul de bază, Ug = 1,0–1,1 W/(m²K)
@@ -8544,7 +8544,7 @@ Prețurile pe metru pătrat sunt cele de pe [pagina de prețuri a tâmplăriei P
 - **Mânere cu cheie** sau **cu senzori** — accesorii suplimentare
 
 ### 5. Montajul și accesoriile
-- **Montaj standard** — se adaugă separat, în ofertă
+- **Montaj standard** — inclus în prețul pe metru pătrat
 - **Montaj nZEB cu precadre Blaugelb Triotherm+ și benzi Soudal** — 25–50 EUR pe metru liniar de perimetru în plus; recomandat la casele nZEB, nu obligatoriu
 - **Glafuri PVC interior** — 16–30 EUR/ml
 - **Glafuri aluminiu exterior** — 20–40 EUR/ml
@@ -8571,7 +8571,7 @@ Prețurile de mai jos sunt calculate din prețurile pe metru pătrat (greenEvolu
 | 150×120 cm, alb, geam triplu | 340–540 EUR | 430–650 EUR |
 | 200×140 cm, alb, geam triplu | 530–840 EUR | 670–1.010 EUR |
 
-*Prețuri orientative 2026, fără TVA și fără montaj. Prețul final depinde de feronerie, culoare, accesorii și dimensiunile exacte. Măsurătorile se fac după semnarea contractului, iar oferta o trimitem în 48 de ore de la primirea dimensiunilor.*
+*Prețuri orientative 2026, cu montaj standard, fără TVA. Prețul final depinde de feronerie, culoare, accesorii și dimensiunile exacte. Măsurătorile se fac după semnarea contractului, iar oferta o trimitem în 48 de ore de la primirea dimensiunilor.*
 
 ## Ce trebuie să verifici în orice ofertă de termopane
 
@@ -8598,7 +8598,7 @@ Prețul depinde de 6 factori principali: profilul (greenEvolution 76 sau bluEvol
 
 ### Cât costă o fereastră Salamander de 80×120 cm?
 
-Orientativ, 145–210 EUR pentru greenEvolution 76 și 190–270 EUR pentru bluEvolution 92, cu geam dublu, fără montaj și fără TVA. Cu geam triplu, prețul urcă la 180–290 EUR, respectiv 230–345 EUR.
+Orientativ, 145–210 EUR pentru greenEvolution 76 și 190–270 EUR pentru bluEvolution 92, cu geam dublu și montaj standard, fără TVA. Cu geam triplu, prețul urcă la 180–290 EUR, respectiv 230–345 EUR.
 
 ### Care e diferența de preț între geam dublu și triplu la Salamander?
 
@@ -8628,7 +8628,7 @@ Neofort BIZ works with two Salamander ranges:
 | **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Standard homes, renovations |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | nZEB and passive houses, maximum insulation |
 
-The per-square-metre prices are those on the [PVC windows price page](/en/pvc-windows/prices): they include the profile, standard hardware and double glazing, without installation and excluding VAT.
+The per-square-metre prices are those on the [PVC windows price page](/en/pvc-windows/prices): they include the profile, standard hardware, double glazing and standard installation, excluding VAT.
 
 ### 2. The insulating glass unit
 - **Double glazing** — included in the base price, Ug = 1.0–1.1 W/(m²K)
@@ -8645,7 +8645,7 @@ The per-square-metre prices are those on the [PVC windows price page](/en/pvc-wi
 - **Locking handles** or **handles with sensors** — extra accessories
 
 ### 5. Installation and accessories
-- **Standard installation** — added separately, in the quote
+- **Standard installation** — included in the per-square-metre price
 - **nZEB installation with Blaugelb Triotherm+ precasings and Soudal tapes** — an extra 25–50 EUR per linear metre of perimeter; recommended for nZEB houses, not mandatory
 - **Interior PVC sills** — 16–30 EUR/lm
 - **Exterior aluminium sills** — 20–40 EUR/lm
@@ -8672,7 +8672,7 @@ The prices below are worked out from the per-square-metre prices (greenEvolution
 | 150×120 cm, white, triple glazing | 340–540 EUR | 430–650 EUR |
 | 200×140 cm, white, triple glazing | 530–840 EUR | 670–1,010 EUR |
 
-*Indicative 2026 prices, excluding VAT and installation. The final price depends on hardware, colour, accessories and exact dimensions. Measurements are taken after the contract is signed, and we send the quote within 48 hours of receiving the dimensions.*
+*Indicative 2026 prices, with standard installation, excluding VAT. The final price depends on hardware, colour, accessories and exact dimensions. Measurements are taken after the contract is signed, and we send the quote within 48 hours of receiving the dimensions.*
 
 ## What to check in any window quote
 
@@ -8699,7 +8699,7 @@ The price depends on 6 main factors: the profile (greenEvolution 76 or bluEvolut
 
 ### How much does an 80×120 cm Salamander window cost?
 
-As a guide, 145–210 EUR for greenEvolution 76 and 190–270 EUR for bluEvolution 92, with double glazing, excluding installation and VAT. With triple glazing the price rises to 180–290 EUR and 230–345 EUR respectively.
+As a guide, 145–210 EUR for greenEvolution 76 and 190–270 EUR for bluEvolution 92, with double glazing and standard installation, excluding VAT. With triple glazing the price rises to 180–290 EUR and 230–345 EUR respectively.
 
 ### What is the price difference between double and triple glazing with Salamander?
 
@@ -8729,7 +8729,7 @@ Neofort BIZ arbeitet mit zwei Salamander-Serien:
 | **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Standardwohnungen, Sanierungen |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | nZEB- und Passivhäuser, maximale Dämmung |
 
-Die Quadratmeterpreise stammen von der [Preisseite für Kunststofffenster](/de/kunststofffenster-pvc/preise): Sie enthalten Profil, Standardbeschlag und Zweifachverglasung, ohne Montage und ohne MwSt.
+Die Quadratmeterpreise stammen von der [Preisseite für Kunststofffenster](/de/kunststofffenster-pvc/preise): Sie enthalten Profil, Standardbeschlag, Zweifachverglasung und Standardmontage, ohne MwSt.
 
 ### 2. Das Isolierglas
 - **Zweifachverglasung** — im Grundpreis enthalten, Ug = 1,0–1,1 W/(m²K)
@@ -8746,7 +8746,7 @@ Die Quadratmeterpreise stammen von der [Preisseite für Kunststofffenster](/de/k
 - **Abschließbare Griffe** oder **Griffe mit Sensoren** — Zubehör gegen Aufpreis
 
 ### 5. Montage und Zubehör
-- **Standardmontage** — kommt separat ins Angebot
+- **Standardmontage** — im Quadratmeterpreis enthalten
 - **nZEB-Montage mit Blaugelb Triotherm+ Vorblendrahmen und Soudal-Bändern** — 25–50 EUR pro laufendem Meter Umfang mehr; für nZEB-Häuser empfohlen, nicht vorgeschrieben
 - **PVC-Innenfensterbänke** — 16–30 EUR/lfm
 - **Aluminium-Außenfensterbänke** — 20–40 EUR/lfm
@@ -8773,7 +8773,7 @@ Die Preise unten sind aus den Quadratmeterpreisen berechnet (greenEvolution 76 M
 | 150×120 cm, weiß, Dreifachglas | 340–540 EUR | 430–650 EUR |
 | 200×140 cm, weiß, Dreifachglas | 530–840 EUR | 670–1.010 EUR |
 
-*Richtpreise 2026, ohne MwSt. und ohne Montage. Der Endpreis hängt von Beschlag, Farbe, Zubehör und genauen Maßen ab. Das Aufmaß erfolgt nach Vertragsunterzeichnung, das Angebot senden wir innerhalb von 48 Stunden nach Erhalt der Maße.*
+*Richtpreise 2026, mit Standardmontage, ohne MwSt. Der Endpreis hängt von Beschlag, Farbe, Zubehör und genauen Maßen ab. Das Aufmaß erfolgt nach Vertragsunterzeichnung, das Angebot senden wir innerhalb von 48 Stunden nach Erhalt der Maße.*
 
 ## Was Sie in jedem Fensterangebot prüfen sollten
 
@@ -8800,7 +8800,7 @@ Der Preis hängt von 6 Hauptfaktoren ab: Profil (greenEvolution 76 oder bluEvolu
 
 ### Was kostet ein Salamander-Fenster von 80×120 cm?
 
-Als Richtwert 145–210 EUR für greenEvolution 76 und 190–270 EUR für bluEvolution 92, mit Zweifachglas, ohne Montage und ohne MwSt. Mit Dreifachglas steigt der Preis auf 180–290 EUR bzw. 230–345 EUR.
+Als Richtwert 145–210 EUR für greenEvolution 76 und 190–270 EUR für bluEvolution 92, mit Zweifachglas und Standardmontage, ohne MwSt. Mit Dreifachglas steigt der Preis auf 180–290 EUR bzw. 230–345 EUR.
 
 ### Was ist der Preisunterschied zwischen Zweifach- und Dreifachglas bei Salamander?
 
@@ -8830,7 +8830,7 @@ Neofort BIZ travaille avec deux gammes Salamander :
 | **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Logements standard, rénovations |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | Maisons nZEB et passives, isolation maximale |
 
-Les prix au mètre carré sont ceux de la [page des prix de la menuiserie PVC](/fr/menuiserie-pvc/prix) : ils comprennent le profilé, la quincaillerie standard et le double vitrage, sans pose et hors TVA.
+Les prix au mètre carré sont ceux de la [page des prix de la menuiserie PVC](/fr/menuiserie-pvc/prix) : ils comprennent le profilé, la quincaillerie standard, le double vitrage et la pose standard, hors TVA.
 
 ### 2. Le vitrage isolant
 - **Double vitrage** — compris dans le prix de base, Ug = 1,0–1,1 W/(m²K)
@@ -8847,7 +8847,7 @@ Les prix au mètre carré sont ceux de la [page des prix de la menuiserie PVC](/
 - **Poignées à clé** ou **à capteurs** — accessoires en supplément
 
 ### 5. La pose et les accessoires
-- **Pose standard** — ajoutée à part, dans le devis
+- **Pose standard** — comprise dans le prix au mètre carré
 - **Pose nZEB avec précadres Blaugelb Triotherm+ et bandes Soudal** — 25 à 50 EUR de plus par mètre linéaire de périmètre ; recommandée pour les maisons nZEB, pas obligatoire
 - **Appuis intérieurs en PVC** — 16 à 30 EUR/ml
 - **Appuis extérieurs en aluminium** — 20 à 40 EUR/ml
@@ -8874,7 +8874,7 @@ Les prix ci-dessous sont calculés à partir des prix au mètre carré (greenEvo
 | 150×120 cm, blanc, triple vitrage | 340–540 EUR | 430–650 EUR |
 | 200×140 cm, blanc, triple vitrage | 530–840 EUR | 670–1 010 EUR |
 
-*Prix indicatifs 2026, hors TVA et hors pose. Le prix final dépend de la quincaillerie, de la couleur, des accessoires et des dimensions exactes. Les métrés se font après la signature du contrat, et nous envoyons le devis sous 48 heures après réception des dimensions.*
+*Prix indicatifs 2026, pose standard comprise, hors TVA. Le prix final dépend de la quincaillerie, de la couleur, des accessoires et des dimensions exactes. Les métrés se font après la signature du contrat, et nous envoyons le devis sous 48 heures après réception des dimensions.*
 
 ## Ce qu’il faut vérifier dans tout devis de fenêtres
 
@@ -8901,7 +8901,7 @@ Le prix dépend de 6 facteurs principaux : le profilé (greenEvolution 76 ou blu
 
 ### Combien coûte une fenêtre Salamander de 80×120 cm ?
 
-À titre indicatif, 145 à 210 EUR en greenEvolution 76 et 190 à 270 EUR en bluEvolution 92, en double vitrage, hors pose et hors TVA. En triple vitrage, le prix monte à 180–290 EUR et 230–345 EUR respectivement.
+À titre indicatif, 145 à 210 EUR en greenEvolution 76 et 190 à 270 EUR en bluEvolution 92, en double vitrage, pose standard comprise, hors TVA. En triple vitrage, le prix monte à 180–290 EUR et 230–345 EUR respectivement.
 
 ### Quelle différence de prix entre double et triple vitrage chez Salamander ?
 
@@ -8931,7 +8931,7 @@ Neofort BIZ trabaja con dos gamas Salamander:
 | **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Viviendas estándar, reformas |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | Casas nZEB y pasivas, aislamiento máximo |
 
-Los precios por metro cuadrado son los de la [página de precios de la carpintería PVC](/es/carpinteria-pvc/precios): incluyen el perfil, los herrajes estándar y el doble acristalamiento, sin instalación y sin IVA.
+Los precios por metro cuadrado son los de la [página de precios de la carpintería PVC](/es/carpinteria-pvc/precios): incluyen el perfil, los herrajes estándar, el doble acristalamiento y la instalación estándar, sin IVA.
 
 ### 2. El vidrio aislante
 - **Doble acristalamiento** — incluido en el precio base, Ug = 1,0–1,1 W/(m²K)
@@ -8948,7 +8948,7 @@ Los precios por metro cuadrado son los de la [página de precios de la carpinter
 - **Manillas con llave** o **con sensores** — accesorios adicionales
 
 ### 5. La instalación y los accesorios
-- **Instalación estándar** — se añade aparte, en el presupuesto
+- **Instalación estándar** — incluida en el precio por metro cuadrado
 - **Instalación nZEB con premarcos Blaugelb Triotherm+ y cintas Soudal** — 25–50 EUR más por metro lineal de perímetro; recomendada en casas nZEB, no obligatoria
 - **Vierteaguas interiores de PVC** — 16–30 EUR/ml
 - **Vierteaguas exteriores de aluminio** — 20–40 EUR/ml
@@ -8975,7 +8975,7 @@ Los precios de abajo se calculan a partir de los precios por metro cuadrado (gre
 | 150×120 cm, blanca, triple vidrio | 340–540 EUR | 430–650 EUR |
 | 200×140 cm, blanca, triple vidrio | 530–840 EUR | 670–1.010 EUR |
 
-*Precios orientativos 2026, sin IVA y sin instalación. El precio final depende de los herrajes, el color, los accesorios y las medidas exactas. Las mediciones se hacen después de firmar el contrato y enviamos el presupuesto en 48 horas desde que recibimos las medidas.*
+*Precios orientativos 2026, con instalación estándar, sin IVA. El precio final depende de los herrajes, el color, los accesorios y las medidas exactas. Las mediciones se hacen después de firmar el contrato y enviamos el presupuesto en 48 horas desde que recibimos las medidas.*
 
 ## Qué comprobar en cualquier presupuesto de ventanas
 
@@ -9002,7 +9002,7 @@ El precio depende de 6 factores principales: el perfil (greenEvolution 76 o bluE
 
 ### ¿Cuánto cuesta una ventana Salamander de 80×120 cm?
 
-De forma orientativa, 145–210 EUR en greenEvolution 76 y 190–270 EUR en bluEvolution 92, con doble vidrio, sin instalación y sin IVA. Con triple vidrio el precio sube a 180–290 EUR y 230–345 EUR respectivamente.
+De forma orientativa, 145–210 EUR en greenEvolution 76 y 190–270 EUR en bluEvolution 92, con doble vidrio e instalación estándar, sin IVA. Con triple vidrio el precio sube a 180–290 EUR y 230–345 EUR respectivamente.
 
 ### ¿Qué diferencia de precio hay entre doble y triple vidrio en Salamander?
 
@@ -9032,7 +9032,7 @@ Neofort BIZ lavora con due gamme Salamander:
 | **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Abitazioni standard, ristrutturazioni |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | Case nZEB e passive, isolamento massimo |
 
-I prezzi al metro quadro sono quelli della [pagina dei prezzi degli infissi in PVC](/it/infissi-pvc/prezzi): comprendono profilo, ferramenta standard e doppio vetro, senza posa e IVA esclusa.
+I prezzi al metro quadro sono quelli della [pagina dei prezzi degli infissi in PVC](/it/infissi-pvc/prezzi): comprendono profilo, ferramenta standard, doppio vetro e posa standard, IVA esclusa.
 
 ### 2. Il vetro isolante
 - **Doppio vetro** — compreso nel prezzo base, Ug = 1,0–1,1 W/(m²K)
@@ -9049,7 +9049,7 @@ I prezzi al metro quadro sono quelli della [pagina dei prezzi degli infissi in P
 - **Maniglie con chiave** o **con sensori** — accessori aggiuntivi
 
 ### 5. La posa e gli accessori
-- **Posa standard** — si aggiunge a parte, nel preventivo
+- **Posa standard** — compresa nel prezzo al metro quadro
 - **Posa nZEB con controtelai Blaugelb Triotherm+ e nastri Soudal** — 25–50 EUR in più per metro lineare di perimetro; consigliata nelle case nZEB, non obbligatoria
 - **Davanzali interni in PVC** — 16–30 EUR/ml
 - **Davanzali esterni in alluminio** — 20–40 EUR/ml
@@ -9076,7 +9076,7 @@ I prezzi qui sotto sono calcolati dai prezzi al metro quadro (greenEvolution 76 
 | 150×120 cm, bianca, triplo vetro | 340–540 EUR | 430–650 EUR |
 | 200×140 cm, bianca, triplo vetro | 530–840 EUR | 670–1.010 EUR |
 
-*Prezzi indicativi 2026, IVA esclusa e posa esclusa. Il prezzo finale dipende da ferramenta, colore, accessori e misure esatte. I rilievi si fanno dopo la firma del contratto e inviamo il preventivo entro 48 ore dal ricevimento delle misure.*
+*Prezzi indicativi 2026, con posa standard, IVA esclusa. Il prezzo finale dipende da ferramenta, colore, accessori e misure esatte. I rilievi si fanno dopo la firma del contratto e inviamo il preventivo entro 48 ore dal ricevimento delle misure.*
 
 ## Che cosa verificare in ogni preventivo di infissi
 
@@ -9103,7 +9103,7 @@ Il prezzo dipende da 6 fattori principali: il profilo (greenEvolution 76 o bluEv
 
 ### Quanto costa una finestra Salamander di 80×120 cm?
 
-Indicativamente 145–210 EUR in greenEvolution 76 e 190–270 EUR in bluEvolution 92, con doppio vetro, posa e IVA escluse. Con il triplo vetro il prezzo sale rispettivamente a 180–290 EUR e 230–345 EUR.
+Indicativamente 145–210 EUR in greenEvolution 76 e 190–270 EUR in bluEvolution 92, con doppio vetro e posa standard, IVA esclusa. Con il triplo vetro il prezzo sale rispettivamente a 180–290 EUR e 230–345 EUR.
 
 ### Che differenza di prezzo c’è tra doppio e triplo vetro con Salamander?
 
@@ -9740,12 +9740,12 @@ Neofort BIZ posa pergole con telo e automazione Somfy a Bucarest e Ilfov. Scopri
       it: 'bluevolution-92-vs-greenevolution-76-guida',
     },
     seoTitle: {
-      ro: "BluEvolution 92 vs GreenEvolution 76",
-      en: "BluEvolution 92 or GreenEvolution 76",
+      ro: "BluEvolution 92 vs GreenEvolution 76: păreri",
+      en: "BluEvolution 92 or GreenEvolution 76: review",
       de: "BluEvolution 92 oder GreenEvolution 76",
-      fr: "BluEvolution 92 ou GreenEvolution 76",
+      fr: "BluEvolution 92 ou GreenEvolution 76 : avis",
       es: "BluEvolution 92 frente a GreenEvolution 76",
-      it: "BluEvolution 92 o GreenEvolution 76",
+      it: "BluEvolution 92 o GreenEvolution 76: opinioni",
     },
     date: '2026-02-15',
     author: 'Mihai Dănălache',
@@ -9783,12 +9783,12 @@ Neofort BIZ posa pergole con telo e automazione Somfy a Bucarest e Ilfov. Scopri
       it: 'BluEvolution 92 o GreenEvolution 76? Confronto su isolamento termico, acustico, design e costo.',
     },
     metaDesc: {
-      ro: "BluEvolution 92 sau GreenEvolution 76? Comparație pe cifre: 92 vs 76 mm adâncime, geam de 48 vs 36 mm, Uf 0,70 vs 0,95 W/(m²K). Când merită fiecare.",
-      en: "BluEvolution 92 or GreenEvolution 76? On the numbers: 92 vs 76 mm depth, 48 vs 36 mm glazing, Uf 0.70 vs 0.95 W/(m²K). When each one pays off.",
-      de: "BluEvolution 92 oder GreenEvolution 76? In Zahlen: 92 gegen 76 mm Bautiefe, 48 gegen 36 mm Glas, Uf 0,70 gegen 0,95 W/(m²K). Wann sich was lohnt.",
-      fr: "BluEvolution 92 ou GreenEvolution 76 ? Comparaison chiffrée : 92 contre 76 mm de profondeur, vitrage 48 contre 36 mm, Uf 0,70 contre 0,95 W/(m²K).",
-      es: "BluEvolution 92 o GreenEvolution 76? En cifras: 92 frente a 76 mm de profundidad, vidrio 48 frente a 36 mm, Uf 0,70 frente a 0,95 W/(m²K).",
-      it: "BluEvolution 92 o GreenEvolution 76? Confronto sui numeri: 92 contro 76 mm di profondità, vetro 48 contro 36 mm, Uf 0,70 contro 0,95 W/(m²K).",
+      ro: "Salamander BluEvolution 92 sau GreenEvolution 76? 92 vs 76 mm, 6 vs 5 camere, Uw de la 0,70 vs 0,73, de la 200 vs 150 EUR/mp. Când merită fiecare.",
+      en: "Salamander BluEvolution 92 or GreenEvolution 76? 92 vs 76 mm, 6 vs 5 chambers, Uw from 0.70 vs 0.73, from 200 vs 150 EUR/m². When each one pays off.",
+      de: "Salamander BluEvolution 92 oder GreenEvolution 76? 92 gegen 76 mm, 6 gegen 5 Kammern, Uw ab 0,70 gegen 0,73, ab 200 gegen 150 EUR/m². Was sich lohnt.",
+      fr: "Salamander BluEvolution 92 ou GreenEvolution 76 ? 92 contre 76 mm, 6 contre 5 chambres, Uw dès 0,70 contre 0,73, dès 200 contre 150 EUR/m².",
+      es: "¿Salamander BluEvolution 92 o GreenEvolution 76? 92 frente a 76 mm, 6 frente a 5 cámaras, Uw desde 0,70 frente a 0,73, desde 200 frente a 150 EUR/m².",
+      it: "Salamander BluEvolution 92 o GreenEvolution 76? 92 contro 76 mm, 6 contro 5 camere, Uw da 0,70 contro 0,73, da 200 contro 150 EUR/m². Quale conviene.",
     },
     keywords: 'BluEvolution 92 6 camere, GreenEvolution 76 5 camere, profile PVC Salamander, tamplarie PVC nZEB, Uw 0.70, comparatie profile PVC',
     content: {
@@ -9816,37 +9816,40 @@ Alegerea între bluEvolution 92 și greenEvolution 76 e doar primul pas. În fun
 
 ### Specificații tehnice
 
-Denumirea „92" indică **adâncimea de construcție de 92 mm** — cea mai mare din gama Salamander — permițând un pachet de geam de **până la 48 mm grosime**.
+Denumirea „92" indică **adâncimea de construcție de 92 mm**, cea mai mare dintre cele două game. Ea permite pachete de geam de **până la 60 mm**, adică geam triplu gros sau geam acustic.
 
-**Date tehnice principale:**
+**Date tehnice principale (Salamander):**
 - Adâncime construcție: **92 mm**
-- Număr camere: **6 camere** în profil + cameră suplimentară în cercevea
-- Coeficient termic profil Uf: **0,95 W/m²K**
-- Coeficient fereastră Uw: **până la 0,70 W/m²K** cu geam triplu low-e + argon
-- Izolare fonică: **până la 47 dB** Rw
-- Compatibil: geam 2 foi și **3 foi**, inclusiv argon și krypton
-- Certificare: **nZEB**
+- Număr camere: **6 camere**
+- Coeficient fereastră Uw: **de la 0,70 W/m²K**, cu geam triplu Low-E + argon și armătură cu rupere termică
+- Pachet de geam: **24–60 mm**
+- Izolare fonică: **până la 47 dB**
+- Antiefracție: **RC2** standard la Neofort BIZ, **RC3** opțional
+- Înălțime vizibilă: **118 mm**
+
+Pentru un profil nu există „certificat nZEB": nZEB se calculează pe toată clădirea. La fereastră contează Uw-ul, iar Mc 001-2022 recomandă cel mult 1,11 W/m²K la clădirile rezidențiale noi.
 
 ### Variante disponibile
 
-**BluEvolution 92 Placat Aluminiu** — [profilul PVC](/ro/tamplarie-pvc) acoperit cu folie de aluminiu pe exterior. Aspect aluminiu, izolare PVC. Disponibil în orice culoare RAL.
+**BluEvolution 92 FLEX** — profil drept, linii moderne.
 
-**BluEvolution 92 Flex** — colțuri cu muchii teșite, design modern minimalist.
+**BluEvolution 92 ROUND** — muchii rotunjite, preferat la renovări și la casele clasice.
 
-**BluEvolution 92 Round** — colțuri rotunjite clasice, preferat în renovări.
+**BluEvolution 92 ALU** — [profilul PVC](/ro/tamplarie-pvc) placat la exterior cu un profil de aluminiu de 12 mm, cu adâncime totală de 104 mm. Aspect de aluminiu, izolare de PVC, în orice culoare RAL.
 
 ### Avantaje
 
-✅ Cea mai bună izolare termică din gama Salamander
-✅ Compatibil cu geam triplu — esențial pentru nZEB
-✅ Varianta placat aluminiu — aspect premium fără costul aluminiului
-✅ Ideal pentru [case pasive](/ro/sisteme-nzeb) și construcții cu standard energetic ridicat
+✅ Pachet de geam de până la 60 mm — loc pentru geam triplu gros sau geam acustic
+✅ Uw de la 0,70 W/m²K — cea mai bună valoare dintre cele două game
+✅ Rigiditate mai mare la ferestrele și ușile de balcon mari
+✅ Varianta ALU — aspect de aluminiu cu izolare de PVC
+✅ Potrivit pentru [case nZEB](/ro/sisteme-nzeb) și construcții cu standard energetic ridicat
 
 ### Dezavantaje
 
-⚠️ Preț cu 15–25% mai ridicat față de GreenEvolution 76
-⚠️ Greutate mai mare — necesită feronerie de calitate superioară
-⚠️ Adâncimea de 92 mm poate crea probleme estetice la glafuri înguste
+⚠️ Preț cu circa 25–35% mai mare decât GreenEvolution 76 (200–285 față de 150–235 EUR/mp)
+⚠️ Profil mai greu — feroneria se alege după greutatea cercevelei
+⚠️ Adâncimea de 92 mm cere glafuri interioare mai late
 
 ---
 
@@ -9854,31 +9857,34 @@ Denumirea „92" indică **adâncimea de construcție de 92 mm** — cea mai mar
 
 ### Specificații tehnice
 
-**Date tehnice principale:**
+**Date tehnice principale (Salamander):**
 - Adâncime construcție: **76 mm**
 - Număr camere: **5 camere**
-- Coeficient termic profil Uf: **1,1 W/m²K**
-- Coeficient fereastră Uw: **până la 1,0 W/m²K** cu geam dublu low-e
-- Izolare fonică: **până la 42 dB**
-- Compatibil: **geam 2 foi** standard, geam 3 foi cu adaptare
+- Coeficient fereastră Uw: **de la 0,73 W/m²K**, cu geam triplu Low-E + argon
+- Pachet de geam: **24–48 mm** — acceptă și geam triplu
+- Izolare fonică: **până la 47 dB**
+- Antiefracție: **RC2** standard la Neofort BIZ, **RC3** opțional
+- Înălțime vizibilă: **118 mm**
 
 ### Variante disponibile
 
-**GreenEvolution 76 MdRound** — design rotunjit modern. Cea mai populară variantă.
-**GreenEvolution 76 MdFlex** — design modern cu muchii teșite.
-**GreenEvolution 76 AdFlex** — design arhitectural avansat, profil vizual îngust.
+**GreenEvolution 76 MD ROUND** — muchii rotunjite, sistem cu garnitură mediană. Cea mai cerută variantă.
+
+**GreenEvolution 76 MD FLEX** — profil drept, sistem cu garnitură mediană.
+
+**GreenEvolution 76 AD FLEX** — profil drept, cu garnituri pe bătaie, fără garnitură mediană.
 
 ### Avantaje
 
-✅ Raport calitate-preț excelent
-✅ Performanță termică foarte bună pentru locuințe standard
-✅ Mai ușor — ferestre mai ușor de operat
-✅ Design versatil — se potrivește majorității stilurilor arhitecturale
+✅ Raport calitate-preț foarte bun: 150–235 EUR/mp
+✅ Uw de la 0,73 W/m²K — foarte aproape de BluEvolution 92
+✅ Acceptă geam triplu, cu pachet de până la 48 mm
+✅ Adâncimea de 76 mm se potrivește ușor în golurile ferestrelor vechi, la renovări
 
 ### Dezavantaje
 
-⚠️ Nu atinge valorile nZEB extreme ale lui BluEvolution 92
-⚠️ Limitări la pachete de geam foarte groase
+⚠️ Pachet de geam limitat la 48 mm — mai puține opțiuni pentru geam acustic foarte gros
+⚠️ Nu are variantă placată cu aluminiu
 
 ---
 
@@ -9888,12 +9894,14 @@ Denumirea „92" indică **adâncimea de construcție de 92 mm** — cea mai mar
 |---|---|---|
 | Adâncime profil | **92 mm** | 76 mm |
 | Camere | **6** | 5 |
-| Uw minim | **0,70 W/m²K** | 1,0 W/m²K |
-| Geam maxim | **48 mm** (triplu) | 36 mm |
-| Izolare fonică | **până la 47 dB** | până la 42 dB |
-| Certificare nZEB | ✅ Da | ⚠️ Parțial |
-| Preț relativ | +20% | Referință |
-| Potrivit pentru | Case pasive, nZEB, premium | Renovări, rezidențial standard |
+| Uw minim (geam triplu) | **0,70 W/m²K** | 0,73 W/m²K |
+| Pachet de geam | **24–60 mm** | 24–48 mm |
+| Izolare fonică | până la 47 dB | până la 47 dB |
+| Antiefracție | RC2, opțional RC3 | RC2, opțional RC3 |
+| Preț (EUR/mp, cu geam termopan și montaj standard, fără TVA) | 200–285 (ALU 250–350) | 150–235 |
+| Potrivit pentru | Case noi, nZEB, ferestre mari, aspect aluminiu | Renovări, apartamente, buget echilibrat |
+
+Pe hârtie, diferența termică dintre cele două profile e mică: 0,70 față de 0,73. Diferența reală vine din pachetul de geam, din rigiditatea la ferestrele mari și din varianta ALU.
 
 ---
 
@@ -9921,20 +9929,23 @@ Denumirea „92" indică **adâncimea de construcție de 92 mm** — cea mai mar
 
 ### Care e diferența principală între BluEvolution 92 și GreenEvolution 76?
 
-BluEvolution 92 are 92 mm adâncime, 6 camere, Uf 0,95 W/m²K și Uw până la 0,70 cu geam triplu — profilul de vârf Salamander, certificat nZEB. GreenEvolution 76 are 76 mm adâncime, ideal pentru locuințe standard și renovări la un preț mai accesibil.
+Adâncimea și pachetul de geam. BluEvolution 92 are 92 mm, 6 camere și acceptă geam de până la 60 mm; GreenEvolution 76 are 76 mm, 5 camere și geam de până la 48 mm. Uw-ul e apropiat (de la 0,70 față de 0,73 W/m²K), iar prețul diferă cu circa 25–35%.
 
 ### Ce performanță energetică are BluEvolution 92?
 
-BluEvolution 92 are 6 camere plus cameră suplimentară în cercevea, Uf profil 0,95 W/m²K și Uw până la 0,70 W/m²K cu geam triplu Low-E + argon. Acceptă pachete de geam până la 48 mm (2 sau 3 foi, argon sau krypton) și e certificat pentru standard nZEB.
+Uw de la 0,70 W/m²K, cu geam triplu Low-E + argon și armătură cu rupere termică, după datele Salamander. Valoarea e mult sub cele 1,11 W/m²K recomandate de Mc 001-2022 pentru locuințele noi. Pentru profil nu există „certificat nZEB": nZEB se calculează pe toată clădirea.
 
 ### Ce izolare fonică oferă BluEvolution 92?
 
-BluEvolution 92 oferă izolare fonică până la 47 dB Rw, ideal pentru locuințe pe străzi cu trafic. Adâncimea de 92 mm și cele 6 camere permit configurații de geam care reduc semnificativ zgomotul exterior față de profilele mai subțiri.
+Până la 47 dB, la fel ca GreenEvolution 76, pentru că izolarea fonică o dă în primul rând geamul. Avantajul lui BluEvolution 92 este pachetul de până la 60 mm, care lasă loc pentru geam acustic cu foi groase sau laminate.
 
 ### Există BluEvolution 92 placat cu aluminiu?
 
-Da. BluEvolution 92 Placat Aluminiu e profilul PVC acoperit cu folie de aluminiu pe exterior — aspect de aluminiu cu izolarea termică a PVC-ului. E disponibil în orice culoare RAL, combinând estetica premium a aluminiului cu performanța energetică superioară a PVC-ului.
+Da. [BluEvolution 92 ALU](/ro/produse/profil-pvc-bluevolution-92-alu) are la exterior un profil de aluminiu de 12 mm, cu adâncime totală de 104 mm: aspect de aluminiu, în orice culoare RAL, cu izolarea profilului PVC. Costă orientativ 250–350 EUR/mp.
 
+### Cât costă BluEvolution 92 și GreenEvolution 76?
+
+Orientativ, GreenEvolution 76 costă 150–235 EUR/mp, BluEvolution 92 200–285 EUR/mp, iar varianta ALU 250–350 EUR/mp, cu geam termopan și montaj standard, fără TVA. Geamul triplu adaugă 40–80 EUR/mp. Detaliile sunt pe [pagina de prețuri a tâmplăriei PVC](/ro/tamplarie-pvc/preturi).
 
 ---
 
@@ -9965,37 +9976,40 @@ Choosing between bluEvolution 92 and greenEvolution 76 is only the first step. D
 
 ### Technical Specifications
 
-The "92" designation indicates a **construction depth of 92 mm** — the largest in the Salamander range — allowing a glazing package of **up to 48 mm thickness**.
+The "92" refers to the **92 mm construction depth**, the larger of the two ranges. It takes glazing units of **up to 60 mm**, which means thick triple glazing or acoustic glass.
 
-**Key technical data:**
+**Main technical data (Salamander):**
 - Construction depth: **92 mm**
-- Number of chambers: **6 chambers** in profile + additional chamber in sash
-- Profile thermal coefficient Uf: **0.95 W/m²K**
-- Window thermal coefficient Uw: **down to 0.70 W/m²K** with triple low-e + argon glazing
-- Acoustic insulation: **up to 47 dB** Rw
-- Compatible with: double and **triple glazing**, including argon and krypton
-- Certification: **nZEB**
+- Chambers: **6 chambers**
+- Window coefficient Uw: **from 0.70 W/m²K**, with Low-E + argon triple glazing and thermally broken reinforcement
+- Glazing unit: **24–60 mm**
+- Sound insulation: **up to 47 dB**
+- Burglar resistance: **RC2** as standard at Neofort BIZ, **RC3** optional
+- Visible height: **118 mm**
+
+There is no such thing as an "nZEB certificate" for a profile: nZEB is calculated for the whole building. What counts for the window is its Uw, and Romania's Mc 001-2022 recommends at most 1.11 W/m²K for new residential buildings.
 
 ### Available Variants
 
-**BluEvolution 92 Aluminium Clad** — PVC profile covered with aluminium foil on the exterior. Aluminium appearance, PVC insulation. Available in any RAL colour.
+**BluEvolution 92 FLEX** — straight profile, modern lines.
 
-**BluEvolution 92 Flex** — chamfered corner design, modern minimalist aesthetic.
+**BluEvolution 92 ROUND** — rounded edges, preferred for renovations and classic houses.
 
-**BluEvolution 92 Round** — classic rounded corners, preferred in renovations.
+**BluEvolution 92 ALU** — the [PVC profile](/en/pvc-windows) clad on the outside with a 12 mm aluminium profile, for a total depth of 104 mm. Aluminium look, PVC insulation, in any RAL colour.
 
 ### Advantages
 
-✅ Best thermal insulation in the Salamander range
-✅ Compatible with triple glazing — essential for nZEB
-✅ Aluminium clad variant — premium appearance without aluminium cost
-✅ Ideal for [passive houses](/en/nzeb-systems) and high energy standard construction
+✅ Glazing units up to 60 mm — room for thick triple glazing or acoustic glass
+✅ Uw from 0.70 W/m²K — the best value of the two ranges
+✅ Greater stiffness on large windows and balcony doors
+✅ ALU variant — aluminium look with PVC insulation
+✅ Suited to [nZEB houses](/en/nzeb-systems) and buildings with high energy standards
 
 ### Disadvantages
 
-⚠️ Price 15–25% higher than GreenEvolution 76
-⚠️ Heavier weight — requires higher quality hardware
-⚠️ 92 mm depth may cause aesthetic issues with narrow window sills
+⚠️ Roughly 25–35% more expensive than GreenEvolution 76 (200–285 against 150–235 EUR/m²)
+⚠️ Heavier profile — the hardware is chosen according to the sash weight
+⚠️ The 92 mm depth needs wider interior sills
 
 ---
 
@@ -10003,31 +10017,34 @@ The "92" designation indicates a **construction depth of 92 mm** — the largest
 
 ### Technical Specifications
 
-**Key technical data:**
+**Main technical data (Salamander):**
 - Construction depth: **76 mm**
-- Number of chambers: **5 chambers**
-- Profile thermal coefficient Uf: **1.1 W/m²K**
-- Window thermal coefficient Uw: **down to 1.0 W/m²K** with double low-e glazing
-- Acoustic insulation: **up to 42 dB**
-- Compatible with: standard **double glazing**, triple with adaptation
+- Chambers: **5 chambers**
+- Window coefficient Uw: **from 0.73 W/m²K**, with Low-E + argon triple glazing
+- Glazing unit: **24–48 mm** — triple glazing fits too
+- Sound insulation: **up to 47 dB**
+- Burglar resistance: **RC2** as standard at Neofort BIZ, **RC3** optional
+- Visible height: **118 mm**
 
 ### Available Variants
 
-**GreenEvolution 76 MdRound** — modern rounded design. Most popular variant.
-**GreenEvolution 76 MdFlex** — modern design with chamfered edges.
-**GreenEvolution 76 AdFlex** — advanced architectural design, visually narrow profile.
+**GreenEvolution 76 MD ROUND** — rounded edges, centre-seal system. The most requested variant.
+
+**GreenEvolution 76 MD FLEX** — straight profile, centre-seal system.
+
+**GreenEvolution 76 AD FLEX** — straight profile, with rebate seals and no centre seal.
 
 ### Advantages
 
-✅ Excellent value for money
-✅ Very good thermal performance for standard homes
-✅ Lighter weight — windows easier to operate
-✅ Versatile design — suits most architectural styles
+✅ Very good value for money: 150–235 EUR/m²
+✅ Uw from 0.73 W/m²K — very close to BluEvolution 92
+✅ Takes triple glazing, with units up to 48 mm
+✅ The 76 mm depth fits easily into the openings of old windows when renovating
 
 ### Disadvantages
 
-⚠️ Does not reach the extreme nZEB values of BluEvolution 92
-⚠️ Limitations with very thick glazing packages
+⚠️ Glazing limited to 48 mm — fewer options for very thick acoustic glass
+⚠️ No aluminium-clad variant
 
 ---
 
@@ -10037,12 +10054,14 @@ The "92" designation indicates a **construction depth of 92 mm** — the largest
 |---|---|---|
 | Profile depth | **92 mm** | 76 mm |
 | Chambers | **6** | 5 |
-| Minimum Uw | **0.70 W/m²K** | 1.0 W/m²K |
-| Maximum glazing | **48 mm** (triple) | 36 mm |
-| Acoustic insulation | **up to 47 dB** | up to 42 dB |
-| nZEB certification | ✅ Yes | ⚠️ Partial |
-| Relative price | +20% | Reference |
-| Best suited for | Passive houses, nZEB, premium | Renovations, standard residential |
+| Minimum Uw (triple glazing) | **0.70 W/m²K** | 0.73 W/m²K |
+| Glazing unit | **24–60 mm** | 24–48 mm |
+| Sound insulation | up to 47 dB | up to 47 dB |
+| Burglar resistance | RC2, RC3 optional | RC2, RC3 optional |
+| Price (EUR/m², with insulating glass and standard installation, excl. VAT) | 200–285 (ALU 250–350) | 150–235 |
+| Best for | New houses, nZEB, large windows, aluminium look | Renovations, flats, balanced budgets |
+
+On paper, the thermal difference between the two profiles is small: 0.70 against 0.73. The real difference comes from the glazing thickness, the stiffness on large windows and the ALU variant.
 
 ---
 
@@ -10070,20 +10089,23 @@ The "92" designation indicates a **construction depth of 92 mm** — the largest
 
 ### What is the main difference between BluEvolution 92 and GreenEvolution 76?
 
-BluEvolution 92 has 92 mm depth, 6 chambers, Uf 0.95 W/m²K and Uw down to 0.70 with triple glazing — Salamander's top profile, nZEB certified. GreenEvolution 76 has 76 mm depth, ideal for standard homes and renovations at a more affordable price.
+Depth and glazing thickness. BluEvolution 92 has 92 mm, 6 chambers and takes glass up to 60 mm; GreenEvolution 76 has 76 mm, 5 chambers and glass up to 48 mm. The Uw values are close (from 0.70 against 0.73 W/m²K), and the price differs by roughly 25–35%.
 
 ### What energy performance does BluEvolution 92 have?
 
-BluEvolution 92 has 6 chambers plus an extra chamber in the sash, profile Uf 0.95 W/m²K and Uw down to 0.70 W/m²K with triple Low-E + argon glazing. It accepts glass units up to 48 mm (double or triple, argon or krypton) and is certified for the nZEB standard.
+Uw from 0.70 W/m²K, with Low-E + argon triple glazing and thermally broken reinforcement, according to Salamander. That is well below the 1.11 W/m²K that Romania's Mc 001-2022 recommends for new homes. There is no "nZEB certificate" for a profile: nZEB is calculated for the whole building.
 
 ### What sound insulation does BluEvolution 92 offer?
 
-BluEvolution 92 offers sound insulation up to 47 dB Rw, ideal for homes on busy streets. The 92 mm depth and 6 chambers allow glass configurations that significantly reduce outside noise compared to thinner profiles.
+Up to 47 dB, the same as GreenEvolution 76, because sound insulation comes mainly from the glass. The advantage of BluEvolution 92 is the glazing unit of up to 60 mm, which leaves room for acoustic glass with thick or laminated panes.
 
 ### Is there an aluminium-clad BluEvolution 92?
 
-Yes. BluEvolution 92 Aluminium-Clad is the PVC profile covered with aluminium foil on the outside — an aluminium look with the thermal insulation of PVC. It is available in any RAL colour, combining the premium aesthetics of aluminium with the superior energy performance of PVC.
+Yes. [BluEvolution 92 ALU](/en/products/bluevolution-92-alu-pvc-profile) has a 12 mm aluminium profile on the outside, for a total depth of 104 mm: an aluminium look in any RAL colour, with the insulation of the PVC profile. It costs roughly 250–350 EUR/m².
 
+### How much do BluEvolution 92 and GreenEvolution 76 cost?
+
+As a guide, GreenEvolution 76 costs 150–235 EUR/m², BluEvolution 92 200–285 EUR/m² and the ALU variant 250–350 EUR/m², with insulating glass and standard installation, excluding VAT. Triple glazing adds 40–80 EUR/m². The details are on the [PVC windows price page](/en/pvc-windows/prices).
 
 ---
 
@@ -10098,13 +10120,13 @@ Salamander, der deutsche Hersteller mit über 50 Jahren Erfahrung, bietet zwei v
 
 ---
 
-## Der Rest des Salamander-Sortiments — Schiebe-, Hebe-Schiebe-Systeme und echte Anwendungen
+## Der Rest des Salamander-Sortiments — Schiebe-, Parallel-Schiebe-Kipp-Systeme und echte Anwendungen
 
 Die Wahl zwischen bluEvolution 92 und greenEvolution 76 ist nur der erste Schritt. Je nach Öffnungsart und Projekt finden Sie hier die Details:
 
 **Schiebesysteme.** Für Terrassen und breite Durchgänge wird die EvolutionDrive Plus Schiebetür in [der PVC-Schiebetür mit Plissee-Insektenschutz](/de/blog/salamander-evolutiondrive-plus-schiebetuer-plissee) beschrieben, und wie sie tatsächlich montiert wird, zusammen mit Alumil-Faltsystemen, in [Montage von EvolutionDrive- und Alumil-Schiebesystemen](/de/blog/montage-salamander-evolutiondrive-plus-schiebetuer-alumil-m19800-falttuer).
 
-**Hebe-Schiebe-Systeme.** Die Variante, die Schieben mit Kippen zur Lüftung verbindet, wird in [doppelte Dreh-Kipp-Schiebe PVC-Fenster von Salamander](/de/blog/pvc-fenster-dreh-kipp-salamander) erklärt.
+**Parallel-Schiebe-Kipp-Systeme.** Die Variante, die Schieben mit Kippen zur Lüftung verbindet, wird in [doppelte Parallel-Schiebe-Kipp-Fenster aus PVC von Salamander](/de/blog/pvc-fenster-dreh-kipp-salamander) erklärt.
 
 **Preise.** Die Größenordnungen für Salamander-Fenster finden Sie in [Salamander-Fensterpreise in Bukarest](/de/blog/salamander-fenster-preise-bukarest-2026).
 
@@ -10114,37 +10136,40 @@ Die Wahl zwischen bluEvolution 92 und greenEvolution 76 ist nur der erste Schrit
 
 ### Technische Daten
 
-Die Bezeichnung „92" steht für eine **Bautiefe von 92 mm** — die größte im Salamander-Sortiment — und ermöglicht ein Glaspaket von **bis zu 48 mm Dicke**.
+Die „92" steht für die **Bautiefe von 92 mm**, die größere der beiden Serien. Sie nimmt Glaspakete **bis 60 mm** auf, also dickes Dreifachglas oder Schallschutzglas.
 
-**Wichtigste technische Daten:**
+**Wichtigste technische Daten (Salamander):**
 - Bautiefe: **92 mm**
-- Anzahl Kammern: **6 Kammern** im Profil + zusätzliche Kammer im Flügel
-- Wärmedämmwert Profil Uf: **0,95 W/m²K**
-- Wärmedämmwert Fenster Uw: **bis 0,70 W/m²K** mit Dreifachverglasung low-e + Argon
-- Schalldämmung: **bis 47 dB** Rw
-- Kompatibel mit: Zwei- und **Dreifachverglasung**, einschließlich Argon und Krypton
-- Zertifizierung: **nZEB**
+- Kammern: **6 Kammern**
+- Fenster-Uw: **ab 0,70 W/m²K**, mit Low-E-Dreifachglas mit Argon und thermisch getrennter Armierung
+- Glaspaket: **24–60 mm**
+- Schalldämmung: **bis 47 dB**
+- Einbruchschutz: **RC2** Standard bei Neofort BIZ, **RC3** optional
+- Ansichtshöhe: **118 mm**
+
+Ein „nZEB-Zertifikat" für ein Profil gibt es nicht: nZEB wird für das ganze Gebäude berechnet. Beim Fenster zählt der Uw-Wert, und die rumänische Norm Mc 001-2022 empfiehlt für neue Wohngebäude höchstens 1,11 W/m²K.
 
 ### Verfügbare Varianten
 
-**BluEvolution 92 Aluminium-Beschichtung** — PVC-Profil mit Aluminium-Folie außen beschichtet. Aluminium-Optik, PVC-Dämmung. In jeder RAL-Farbe erhältlich.
+**BluEvolution 92 FLEX** — gerades Profil, moderne Linien.
 
-**BluEvolution 92 Flex** — Design mit gefasten Ecken, modernes minimalistisches Erscheinungsbild.
+**BluEvolution 92 ROUND** — abgerundete Kanten, beliebt bei Renovierungen und klassischen Häusern.
 
-**BluEvolution 92 Round** — klassische gerundete Ecken, bevorzugt bei Renovierungen.
+**BluEvolution 92 ALU** — das [Kunststoffprofil](/de/kunststofffenster-pvc) außen mit einem 12-mm-Aluminiumprofil verkleidet, Gesamtbautiefe 104 mm. Aluminiumoptik, Dämmung des Kunststoffprofils, in jeder RAL-Farbe.
 
 ### Vorteile
 
-✅ Beste Wärmedämmung im Salamander-Sortiment
-✅ Kompatibel mit Dreifachverglasung — unverzichtbar für nZEB
-✅ Aluminium-beschichtete Variante — Premium-Optik ohne Aluminium-Kosten
-✅ Ideal für [Passivhäuser](/de/nzeb-systeme) und Gebäude mit hohem Energiestandard
+✅ Glaspakete bis 60 mm — Platz für dickes Dreifachglas oder Schallschutzglas
+✅ Uw ab 0,70 W/m²K — der beste Wert der beiden Serien
+✅ Höhere Steifigkeit bei großen Fenstern und Balkontüren
+✅ ALU-Variante — Aluminiumoptik mit der Dämmung von Kunststoff
+✅ Geeignet für [nZEB-Häuser](/de/nzeb-systeme) und Gebäude mit hohem Energiestandard
 
 ### Nachteile
 
-⚠️ Preis 15–25 % höher als GreenEvolution 76
-⚠️ Höheres Gewicht — erfordert hochwertigere Beschläge
-⚠️ 92 mm Bautiefe kann bei schmalen Fensterbänken ästhetische Probleme verursachen
+⚠️ Etwa 25–35 % teurer als GreenEvolution 76 (200–285 gegen 150–235 EUR/m²)
+⚠️ Schwereres Profil — der Beschlag wird nach dem Flügelgewicht gewählt
+⚠️ Die Bautiefe von 92 mm braucht breitere Innenfensterbänke
 
 ---
 
@@ -10152,31 +10177,34 @@ Die Bezeichnung „92" steht für eine **Bautiefe von 92 mm** — die größte i
 
 ### Technische Daten
 
-**Wichtigste technische Daten:**
+**Wichtigste technische Daten (Salamander):**
 - Bautiefe: **76 mm**
-- Anzahl Kammern: **5 Kammern**
-- Wärmedämmwert Profil Uf: **1,1 W/m²K**
-- Wärmedämmwert Fenster Uw: **bis 1,0 W/m²K** mit Zweifachverglasung low-e
-- Schalldämmung: **bis 42 dB**
-- Kompatibel mit: **Zweifachverglasung** Standard, Dreifachverglasung mit Anpassung
+- Kammern: **5 Kammern**
+- Fenster-Uw: **ab 0,73 W/m²K**, mit Low-E-Dreifachglas mit Argon
+- Glaspaket: **24–48 mm** — auch Dreifachglas passt
+- Schalldämmung: **bis 47 dB**
+- Einbruchschutz: **RC2** Standard bei Neofort BIZ, **RC3** optional
+- Ansichtshöhe: **118 mm**
 
 ### Verfügbare Varianten
 
-**GreenEvolution 76 MdRound** — modernes gerundetes Design. Beliebteste Variante.
-**GreenEvolution 76 MdFlex** — modernes Design mit gefasten Kanten.
-**GreenEvolution 76 AdFlex** — fortschrittliches Architekturdesign, optisch schmales Profil.
+**GreenEvolution 76 MD ROUND** — abgerundete Kanten, Mitteldichtungssystem. Die meistgefragte Variante.
+
+**GreenEvolution 76 MD FLEX** — gerades Profil, Mitteldichtungssystem.
+
+**GreenEvolution 76 AD FLEX** — gerades Profil, Anschlagdichtung ohne Mitteldichtung.
 
 ### Vorteile
 
-✅ Hervorragendes Preis-Leistungs-Verhältnis
-✅ Sehr gute Wärmeleistung für Standardgebäude
-✅ Leichter — Fenster lassen sich einfacher bedienen
-✅ Vielseitiges Design — passt zu den meisten Architekturstilen
+✅ Sehr gutes Preis-Leistungs-Verhältnis: 150–235 EUR/m²
+✅ Uw ab 0,73 W/m²K — sehr nah an BluEvolution 92
+✅ Nimmt Dreifachglas auf, mit Glaspaketen bis 48 mm
+✅ Die Bautiefe von 76 mm passt bei Renovierungen leicht in die Öffnungen alter Fenster
 
 ### Nachteile
 
-⚠️ Erreicht nicht die extremen nZEB-Werte von BluEvolution 92
-⚠️ Einschränkungen bei sehr dicken Glaspaketen
+⚠️ Glaspaket auf 48 mm begrenzt — weniger Optionen für sehr dickes Schallschutzglas
+⚠️ Keine aluminiumverkleidete Variante
 
 ---
 
@@ -10186,12 +10214,14 @@ Die Bezeichnung „92" steht für eine **Bautiefe von 92 mm** — die größte i
 |---|---|---|
 | Profiltiefe | **92 mm** | 76 mm |
 | Kammern | **6** | 5 |
-| Minimaler Uw | **0,70 W/m²K** | 1,0 W/m²K |
-| Maximale Verglasung | **48 mm** (dreifach) | 36 mm |
-| Schalldämmung | **bis 47 dB** | bis 42 dB |
-| nZEB-Zertifizierung | ✅ Ja | ⚠️ Teilweise |
-| Relativer Preis | +20 % | Referenz |
-| Geeignet für | Passivhäuser, nZEB, Premium | Renovierung, Standardwohnbau |
+| Minimaler Uw (Dreifachglas) | **0,70 W/m²K** | 0,73 W/m²K |
+| Glaspaket | **24–60 mm** | 24–48 mm |
+| Schalldämmung | bis 47 dB | bis 47 dB |
+| Einbruchschutz | RC2, RC3 optional | RC2, RC3 optional |
+| Preis (EUR/m², mit Isolierglas und Standardmontage, ohne MwSt.) | 200–285 (ALU 250–350) | 150–235 |
+| Geeignet für | Neubauten, nZEB, große Fenster, Aluminiumoptik | Renovierungen, Wohnungen, ausgewogenes Budget |
+
+Auf dem Papier ist der thermische Unterschied zwischen den beiden Profilen klein: 0,70 gegen 0,73. Der echte Unterschied liegt im Glaspaket, in der Steifigkeit bei großen Fenstern und in der ALU-Variante.
 
 ---
 
@@ -10219,20 +10249,23 @@ Die Bezeichnung „92" steht für eine **Bautiefe von 92 mm** — die größte i
 
 ### Was ist der Hauptunterschied zwischen BluEvolution 92 und GreenEvolution 76?
 
-BluEvolution 92 hat 92 mm Bautiefe, 6 Kammern, Uf 0,95 W/m²K und Uw bis 0,70 mit Dreifachglas — Salamanders Top-Profil, nZEB-zertifiziert. GreenEvolution 76 hat 76 mm Bautiefe, ideal für Standardhäuser und Renovierungen zu einem günstigeren Preis.
+Bautiefe und Glaspaket. BluEvolution 92 hat 92 mm, 6 Kammern und nimmt Glas bis 60 mm auf; GreenEvolution 76 hat 76 mm, 5 Kammern und Glas bis 48 mm. Die Uw-Werte liegen nah beieinander (ab 0,70 gegen 0,73 W/m²K), der Preis unterscheidet sich um etwa 25–35 %.
 
 ### Welche Energieleistung hat BluEvolution 92?
 
-BluEvolution 92 hat 6 Kammern plus eine zusätzliche Kammer im Flügel, Profil-Uf 0,95 W/m²K und Uw bis 0,70 W/m²K mit Dreifach-Low-E + Argon. Es nimmt Glaspakete bis 48 mm auf (Doppel oder Dreifach, Argon oder Krypton) und ist für den nZEB-Standard zertifiziert.
+Uw ab 0,70 W/m²K, mit Low-E-Dreifachglas mit Argon und thermisch getrennter Armierung, laut Salamander. Das liegt deutlich unter den 1,11 W/m²K, die die rumänische Norm Mc 001-2022 für neue Wohngebäude empfiehlt. Ein „nZEB-Zertifikat" für ein Profil gibt es nicht: nZEB wird für das ganze Gebäude berechnet.
 
 ### Welche Schalldämmung bietet BluEvolution 92?
 
-BluEvolution 92 bietet Schalldämmung bis 47 dB Rw, ideal für Häuser an belebten Straßen. Die 92 mm Tiefe und die 6 Kammern ermöglichen Glaskonfigurationen, die den Außenlärm im Vergleich zu dünneren Profilen erheblich reduzieren.
+Bis 47 dB, genau wie GreenEvolution 76, denn die Schalldämmung kommt vor allem vom Glas. Der Vorteil von BluEvolution 92 ist das Glaspaket bis 60 mm, das Platz für Schallschutzglas mit dicken oder verbundenen Scheiben lässt.
 
 ### Gibt es ein aluminiumverkleidetes BluEvolution 92?
 
-Ja. BluEvolution 92 Aluminiumverkleidet ist das PVC-Profil, außen mit Aluminiumfolie überzogen — Aluminiumoptik mit der Wärmedämmung von PVC. Es ist in jeder RAL-Farbe erhältlich und verbindet die Premium-Ästhetik von Aluminium mit der überlegenen Energieleistung von PVC.
+Ja. [BluEvolution 92 ALU](/de/produkte/bluevolution-92-alu-pvc-profil) hat außen ein 12-mm-Aluminiumprofil, Gesamtbautiefe 104 mm: Aluminiumoptik in jeder RAL-Farbe, mit der Dämmung des Kunststoffprofils. Richtpreis 250–350 EUR/m².
 
+### Was kosten BluEvolution 92 und GreenEvolution 76?
+
+Als Richtwert kostet GreenEvolution 76 150–235 EUR/m², BluEvolution 92 200–285 EUR/m² und die ALU-Variante 250–350 EUR/m², mit Isolierglas und Standardmontage, ohne MwSt. Dreifachglas kommt mit 40–80 EUR/m² hinzu. Die Details stehen auf der [Preisseite für Kunststofffenster](/de/kunststofffenster-pvc/preise).
 
 ---
 
@@ -10263,37 +10296,40 @@ Choisir entre bluEvolution 92 et greenEvolution 76 n’est que la première éta
 
 ### Caractéristiques techniques
 
-La dénomination « 92 » indique une **profondeur de construction de 92 mm** — la plus grande de la gamme Salamander — permettant un vitrage de **jusqu'à 48 mm d'épaisseur**.
+Le « 92 » désigne la **profondeur de construction de 92 mm**, la plus grande des deux gammes. Elle accepte des vitrages **jusqu'à 60 mm**, c'est-à-dire un triple vitrage épais ou un vitrage acoustique.
 
-**Données techniques principales :**
+**Principales données techniques (Salamander) :**
 - Profondeur de construction : **92 mm**
-- Nombre de chambres : **6 chambres** dans le profil + chambre supplémentaire dans le vantail
-- Coefficient thermique profil Uf : **0,95 W/m²K**
-- Coefficient fenêtre Uw : **jusqu'à 0,70 W/m²K** avec triple vitrage low-e + argon
-- Isolation acoustique : **jusqu'à 47 dB** Rw
-- Compatible avec : double et **triple vitrage**, argon et krypton inclus
-- Certification : **nZEB**
+- Nombre de chambres : **6 chambres**
+- Coefficient de la fenêtre Uw : **dès 0,70 W/m²K**, avec triple vitrage Low-E + argon et renfort à rupture thermique
+- Épaisseur de vitrage : **24 à 60 mm**
+- Isolation acoustique : **jusqu'à 47 dB**
+- Anti-effraction : **RC2** en standard chez Neofort BIZ, **RC3** en option
+- Hauteur vue : **118 mm**
+
+Il n'existe pas de « certificat nZEB » pour un profilé : le nZEB se calcule sur tout le bâtiment. Pour la fenêtre, c'est l'Uw qui compte, et la norme roumaine Mc 001-2022 recommande au maximum 1,11 W/m²K pour les logements neufs.
 
 ### Variantes disponibles
 
-**BluEvolution 92 Revêtement aluminium** — profil PVC recouvert d'une feuille d'aluminium en extérieur. Aspect aluminium, isolation PVC. Disponible dans toutes les couleurs RAL.
+**BluEvolution 92 FLEX** — profilé droit, lignes modernes.
 
-**BluEvolution 92 Flex** — angles biseautés, design moderne et minimaliste.
+**BluEvolution 92 ROUND** — arêtes arrondies, apprécié en rénovation et dans les maisons classiques.
 
-**BluEvolution 92 Round** — angles arrondis classiques, préféré en rénovation.
+**BluEvolution 92 ALU** — le [profilé PVC](/fr/menuiserie-pvc) habillé à l'extérieur d'un profilé aluminium de 12 mm, pour une profondeur totale de 104 mm. Aspect aluminium, isolation du PVC, dans toutes les teintes RAL.
 
 ### Avantages
 
-✅ Meilleure isolation thermique de la gamme Salamander
-✅ Compatible triple vitrage — indispensable pour le nZEB
-✅ Variante revêtement aluminium — aspect premium sans le coût de l'aluminium
-✅ Idéal pour les [maisons passives](/fr/systemes-nzeb) et les constructions à haute performance énergétique
+✅ Vitrages jusqu'à 60 mm — de la place pour un triple vitrage épais ou un vitrage acoustique
+✅ Uw dès 0,70 W/m²K — la meilleure valeur des deux gammes
+✅ Rigidité supérieure sur les grandes fenêtres et portes-fenêtres
+✅ Variante ALU — aspect aluminium avec l'isolation du PVC
+✅ Adapté aux [maisons nZEB](/fr/systemes-nzeb) et aux bâtiments à haute exigence énergétique
 
 ### Inconvénients
 
-⚠️ Prix 15–25 % plus élevé que GreenEvolution 76
-⚠️ Poids plus important — nécessite une quincaillerie de qualité supérieure
-⚠️ La profondeur de 92 mm peut poser des problèmes esthétiques sur des appuis étroits
+⚠️ Environ 25 à 35 % plus cher que le GreenEvolution 76 (200–285 contre 150–235 EUR/m²)
+⚠️ Profilé plus lourd — la quincaillerie se choisit selon le poids de l'ouvrant
+⚠️ La profondeur de 92 mm demande des tablettes intérieures plus larges
 
 ---
 
@@ -10301,31 +10337,34 @@ La dénomination « 92 » indique une **profondeur de construction de 92 mm** �
 
 ### Caractéristiques techniques
 
-**Données techniques principales :**
+**Principales données techniques (Salamander) :**
 - Profondeur de construction : **76 mm**
 - Nombre de chambres : **5 chambres**
-- Coefficient thermique profil Uf : **1,1 W/m²K**
-- Coefficient fenêtre Uw : **jusqu'à 1,0 W/m²K** avec double vitrage low-e
-- Isolation acoustique : **jusqu'à 42 dB**
-- Compatible avec : **double vitrage** standard, triple avec adaptation
+- Coefficient de la fenêtre Uw : **dès 0,73 W/m²K**, avec triple vitrage Low-E + argon
+- Épaisseur de vitrage : **24 à 48 mm** — le triple vitrage passe aussi
+- Isolation acoustique : **jusqu'à 47 dB**
+- Anti-effraction : **RC2** en standard chez Neofort BIZ, **RC3** en option
+- Hauteur vue : **118 mm**
 
 ### Variantes disponibles
 
-**GreenEvolution 76 MdRound** — design arrondi moderne. Variante la plus populaire.
-**GreenEvolution 76 MdFlex** — design moderne à angles biseautés.
-**GreenEvolution 76 AdFlex** — design architectural avancé, profil visuellement étroit.
+**GreenEvolution 76 MD ROUND** — arêtes arrondies, système à joint central. La variante la plus demandée.
+
+**GreenEvolution 76 MD FLEX** — profilé droit, système à joint central.
+
+**GreenEvolution 76 AD FLEX** — profilé droit, joints de frappe, sans joint central.
 
 ### Avantages
 
-✅ Excellent rapport qualité-prix
-✅ Très bonnes performances thermiques pour les logements standards
-✅ Plus léger — fenêtres plus faciles à manœuvrer
-✅ Design polyvalent — convient à la plupart des styles architecturaux
+✅ Très bon rapport qualité-prix : 150–235 EUR/m²
+✅ Uw dès 0,73 W/m²K — très proche du BluEvolution 92
+✅ Accepte le triple vitrage, jusqu'à 48 mm
+✅ La profondeur de 76 mm s'adapte facilement aux baies des anciennes fenêtres en rénovation
 
 ### Inconvénients
 
-⚠️ N'atteint pas les valeurs nZEB extrêmes du BluEvolution 92
-⚠️ Limitations avec les vitrages très épais
+⚠️ Vitrage limité à 48 mm — moins d'options pour un vitrage acoustique très épais
+⚠️ Pas de variante habillée d'aluminium
 
 ---
 
@@ -10333,14 +10372,16 @@ La dénomination « 92 » indique une **profondeur de construction de 92 mm** �
 
 | Critère | BluEvolution 92 | GreenEvolution 76 |
 |---|---|---|
-| Profondeur du profil | **92 mm** | 76 mm |
+| Profondeur du profilé | **92 mm** | 76 mm |
 | Chambres | **6** | 5 |
-| Uw minimum | **0,70 W/m²K** | 1,0 W/m²K |
-| Vitrage maximum | **48 mm** (triple) | 36 mm |
-| Isolation acoustique | **jusqu'à 47 dB** | jusqu'à 42 dB |
-| Certification nZEB | ✅ Oui | ⚠️ Partielle |
-| Prix relatif | +20 % | Référence |
-| Adapté pour | Maisons passives, nZEB, premium | Rénovation, résidentiel standard |
+| Uw minimal (triple vitrage) | **0,70 W/m²K** | 0,73 W/m²K |
+| Épaisseur de vitrage | **24–60 mm** | 24–48 mm |
+| Isolation acoustique | jusqu'à 47 dB | jusqu'à 47 dB |
+| Anti-effraction | RC2, RC3 en option | RC2, RC3 en option |
+| Prix (EUR/m², vitrage isolant et pose standard compris, hors TVA) | 200–285 (ALU 250–350) | 150–235 |
+| Idéal pour | Maisons neuves, nZEB, grandes fenêtres, aspect aluminium | Rénovations, appartements, budget équilibré |
+
+Sur le papier, l'écart thermique entre les deux profilés est faible : 0,70 contre 0,73. La vraie différence tient à l'épaisseur de vitrage, à la rigidité sur les grandes fenêtres et à la variante ALU.
 
 ---
 
@@ -10368,20 +10409,23 @@ La dénomination « 92 » indique une **profondeur de construction de 92 mm** �
 
 ### Quelle est la principale différence entre BluEvolution 92 et GreenEvolution 76 ?
 
-Le BluEvolution 92 a 92 mm de profondeur, 6 chambres, Uf 0,95 W/m²K et Uw jusqu'à 0,70 avec triple vitrage — le profilé haut de gamme Salamander, certifié nZEB. Le GreenEvolution 76 a 76 mm de profondeur, idéal pour les logements standard et rénovations à un prix plus abordable.
+La profondeur et l'épaisseur de vitrage. Le BluEvolution 92 fait 92 mm, compte 6 chambres et accepte un vitrage jusqu'à 60 mm ; le GreenEvolution 76 fait 76 mm, compte 5 chambres et accepte jusqu'à 48 mm. Les Uw sont proches (dès 0,70 contre 0,73 W/m²K) et le prix diffère d'environ 25 à 35 %.
 
 ### Quelle performance énergétique a le BluEvolution 92 ?
 
-Le BluEvolution 92 a 6 chambres plus une chambre supplémentaire dans l'ouvrant, Uf profilé 0,95 W/m²K et Uw jusqu'à 0,70 W/m²K avec triple vitrage Low-E + argon. Il accepte des vitrages jusqu'à 48 mm (double ou triple, argon ou krypton) et est certifié pour le standard nZEB.
+Uw dès 0,70 W/m²K, avec triple vitrage Low-E + argon et renfort à rupture thermique, selon Salamander. C'est bien en dessous des 1,11 W/m²K recommandés par la norme roumaine Mc 001-2022 pour les logements neufs. Il n'existe pas de « certificat nZEB » pour un profilé : le nZEB se calcule sur tout le bâtiment.
 
 ### Quelle isolation acoustique offre le BluEvolution 92 ?
 
-Le BluEvolution 92 offre une isolation acoustique jusqu'à 47 dB Rw, idéale pour les logements sur rues passantes. La profondeur de 92 mm et les 6 chambres permettent des configurations de vitrage qui réduisent significativement le bruit extérieur par rapport aux profilés plus fins.
+Jusqu'à 47 dB, comme le GreenEvolution 76, car l'isolation acoustique vient surtout du vitrage. L'avantage du BluEvolution 92 est son vitrage jusqu'à 60 mm, qui laisse la place à un vitrage acoustique à verres épais ou feuilletés.
 
-### Existe-t-il un BluEvolution 92 plaqué aluminium ?
+### Existe-t-il un BluEvolution 92 habillé d'aluminium ?
 
-Oui. Le BluEvolution 92 Plaqué Aluminium est le profilé PVC recouvert d'un film aluminium à l'extérieur — un aspect aluminium avec l'isolation thermique du PVC. Il est disponible dans toutes les couleurs RAL, combinant l'esthétique premium de l'aluminium avec la performance énergétique supérieure du PVC.
+Oui. Le [BluEvolution 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) porte à l'extérieur un profilé aluminium de 12 mm, pour une profondeur totale de 104 mm : aspect aluminium dans toutes les teintes RAL, avec l'isolation du profilé PVC. Il coûte environ 250 à 350 EUR/m².
 
+### Combien coûtent le BluEvolution 92 et le GreenEvolution 76 ?
+
+À titre indicatif, le GreenEvolution 76 coûte 150–235 EUR/m², le BluEvolution 92 200–285 EUR/m² et la variante ALU 250–350 EUR/m², vitrage isolant et pose standard compris, hors TVA. Le triple vitrage ajoute 40 à 80 EUR/m². Les détails sont sur la [page des prix de la menuiserie PVC](/fr/menuiserie-pvc/prix).
 
 ---
 
@@ -10412,37 +10456,40 @@ Elegir entre bluEvolution 92 y greenEvolution 76 es solo el primer paso. Según 
 
 ### Especificaciones técnicas
 
-La denominación «92» indica una **profundidad de construcción de 92 mm** — la mayor de la gama Salamander — que permite un paquete de vidrio de **hasta 48 mm de espesor**.
+El «92» indica la **profundidad de construcción de 92 mm**, la mayor de las dos gamas. Admite vidrios de **hasta 60 mm**, es decir, triple acristalamiento grueso o vidrio acústico.
 
-**Datos técnicos principales:**
+**Datos técnicos principales (Salamander):**
 - Profundidad de construcción: **92 mm**
-- Número de cámaras: **6 cámaras** en el perfil + cámara adicional en el hoja
-- Coeficiente térmico perfil Uf: **0,95 W/m²K**
-- Coeficiente ventana Uw: **hasta 0,70 W/m²K** con triple acristalamiento low-e + argón
-- Aislamiento acústico: **hasta 47 dB** Rw
-- Compatible con: doble y **triple acristalamiento**, incluyendo argón y kriptón
-- Certificación: **nZEB**
+- Número de cámaras: **6 cámaras**
+- Coeficiente de la ventana Uw: **desde 0,70 W/m²K**, con triple vidrio Low-E + argón y refuerzo con rotura de puente térmico
+- Espesor de vidrio: **24–60 mm**
+- Aislamiento acústico: **hasta 47 dB**
+- Antirrobo: **RC2** de serie en Neofort BIZ, **RC3** opcional
+- Altura vista: **118 mm**
+
+No existe un «certificado nZEB» para un perfil: el nZEB se calcula para todo el edificio. En la ventana cuenta el Uw, y la norma rumana Mc 001-2022 recomienda como máximo 1,11 W/m²K en viviendas nuevas.
 
 ### Variantes disponibles
 
-**BluEvolution 92 Revestimiento aluminio** — perfil de PVC con lámina de aluminio en el exterior. Aspecto aluminio, aislamiento PVC. Disponible en todos los colores RAL.
+**BluEvolution 92 FLEX** — perfil recto, líneas modernas.
 
-**BluEvolution 92 Flex** — esquinas achaflanadas, diseño moderno y minimalista.
+**BluEvolution 92 ROUND** — aristas redondeadas, preferido en reformas y casas clásicas.
 
-**BluEvolution 92 Round** — esquinas redondeadas clásicas, preferido en reformas.
+**BluEvolution 92 ALU** — el [perfil de PVC](/es/carpinteria-pvc) revestido por fuera con un perfil de aluminio de 12 mm, con una profundidad total de 104 mm. Aspecto de aluminio, aislamiento de PVC, en cualquier color RAL.
 
 ### Ventajas
 
-✅ Mejor aislamiento térmico de la gama Salamander
-✅ Compatible con triple acristalamiento — esencial para nZEB
-✅ Variante revestimiento aluminio — aspecto premium sin el coste del aluminio
-✅ Ideal para [casas pasivas](/es/sistemas-nzeb) y construcciones con alto estándar energético
+✅ Vidrios de hasta 60 mm — espacio para triple acristalamiento grueso o vidrio acústico
+✅ Uw desde 0,70 W/m²K — el mejor valor de las dos gamas
+✅ Mayor rigidez en ventanas y balconeras grandes
+✅ Variante ALU — aspecto de aluminio con el aislamiento del PVC
+✅ Adecuado para [casas nZEB](/es/sistemas-nzeb) y edificios de alta exigencia energética
 
 ### Desventajas
 
-⚠️ Precio 15–25% más elevado que GreenEvolution 76
-⚠️ Mayor peso — requiere herrajes de mayor calidad
-⚠️ La profundidad de 92 mm puede crear problemas estéticos con alféizares estrechos
+⚠️ Alrededor de un 25–35 % más caro que GreenEvolution 76 (200–285 frente a 150–235 EUR/m²)
+⚠️ Perfil más pesado — los herrajes se eligen según el peso de la hoja
+⚠️ La profundidad de 92 mm exige vierteaguas interiores más anchos
 
 ---
 
@@ -10450,31 +10497,34 @@ La denominación «92» indica una **profundidad de construcción de 92 mm** —
 
 ### Especificaciones técnicas
 
-**Datos técnicos principales:**
+**Datos técnicos principales (Salamander):**
 - Profundidad de construcción: **76 mm**
 - Número de cámaras: **5 cámaras**
-- Coeficiente térmico perfil Uf: **1,1 W/m²K**
-- Coeficiente ventana Uw: **hasta 1,0 W/m²K** con doble acristalamiento low-e
-- Aislamiento acústico: **hasta 42 dB**
-- Compatible con: **doble acristalamiento** estándar, triple con adaptación
+- Coeficiente de la ventana Uw: **desde 0,73 W/m²K**, con triple vidrio Low-E + argón
+- Espesor de vidrio: **24–48 mm** — también admite triple vidrio
+- Aislamiento acústico: **hasta 47 dB**
+- Antirrobo: **RC2** de serie en Neofort BIZ, **RC3** opcional
+- Altura vista: **118 mm**
 
 ### Variantes disponibles
 
-**GreenEvolution 76 MdRound** — diseño redondeado moderno. La variante más popular.
-**GreenEvolution 76 MdFlex** — diseño moderno con cantos achaflanados.
-**GreenEvolution 76 AdFlex** — diseño arquitectónico avanzado, perfil visualmente estrecho.
+**GreenEvolution 76 MD ROUND** — aristas redondeadas, sistema de junta central. La variante más pedida.
+
+**GreenEvolution 76 MD FLEX** — perfil recto, sistema de junta central.
+
+**GreenEvolution 76 AD FLEX** — perfil recto, con juntas de tope y sin junta central.
 
 ### Ventajas
 
-✅ Excelente relación calidad-precio
-✅ Muy buen rendimiento térmico para viviendas estándar
-✅ Más ligero — ventanas más fáciles de operar
-✅ Diseño versátil — se adapta a la mayoría de los estilos arquitectónicos
+✅ Muy buena relación calidad-precio: 150–235 EUR/m²
+✅ Uw desde 0,73 W/m²K — muy cerca de BluEvolution 92
+✅ Admite triple vidrio, con espesores de hasta 48 mm
+✅ La profundidad de 76 mm encaja fácilmente en los huecos de las ventanas antiguas en reformas
 
 ### Desventajas
 
-⚠️ No alcanza los valores nZEB extremos del BluEvolution 92
-⚠️ Limitaciones con paquetes de vidrio muy gruesos
+⚠️ Vidrio limitado a 48 mm — menos opciones de vidrio acústico muy grueso
+⚠️ No tiene variante revestida de aluminio
 
 ---
 
@@ -10484,12 +10534,14 @@ La denominación «92» indica una **profundidad de construcción de 92 mm** —
 |---|---|---|
 | Profundidad del perfil | **92 mm** | 76 mm |
 | Cámaras | **6** | 5 |
-| Uw mínimo | **0,70 W/m²K** | 1,0 W/m²K |
-| Acristalamiento máximo | **48 mm** (triple) | 36 mm |
-| Aislamiento acústico | **hasta 47 dB** | hasta 42 dB |
-| Certificación nZEB | ✅ Sí | ⚠️ Parcial |
-| Precio relativo | +20% | Referencia |
-| Adecuado para | Casas pasivas, nZEB, premium | Reformas, residencial estándar |
+| Uw mínimo (triple vidrio) | **0,70 W/m²K** | 0,73 W/m²K |
+| Espesor de vidrio | **24–60 mm** | 24–48 mm |
+| Aislamiento acústico | hasta 47 dB | hasta 47 dB |
+| Antirrobo | RC2, RC3 opcional | RC2, RC3 opcional |
+| Precio (EUR/m², con vidrio aislante e instalación estándar, sin IVA) | 200–285 (ALU 250–350) | 150–235 |
+| Ideal para | Casas nuevas, nZEB, ventanas grandes, aspecto aluminio | Reformas, pisos, presupuesto equilibrado |
+
+Sobre el papel, la diferencia térmica entre los dos perfiles es pequeña: 0,70 frente a 0,73. La diferencia real está en el espesor de vidrio, en la rigidez de las ventanas grandes y en la variante ALU.
 
 ---
 
@@ -10517,20 +10569,23 @@ La denominación «92» indica una **profundidad de construcción de 92 mm** —
 
 ### ¿Cuál es la diferencia principal entre BluEvolution 92 y GreenEvolution 76?
 
-El BluEvolution 92 tiene 92 mm de profundidad, 6 cámaras, Uf 0,95 W/m²K y Uw hasta 0,70 con triple vidrio — el perfil tope de Salamander, certificado nZEB. El GreenEvolution 76 tiene 76 mm de profundidad, ideal para viviendas estándar y reformas a un precio más asequible.
+La profundidad y el espesor de vidrio. BluEvolution 92 tiene 92 mm, 6 cámaras y admite vidrio de hasta 60 mm; GreenEvolution 76 tiene 76 mm, 5 cámaras y vidrio de hasta 48 mm. Los Uw son parecidos (desde 0,70 frente a 0,73 W/m²K) y el precio difiere en torno a un 25–35 %.
 
 ### ¿Qué rendimiento energético tiene el BluEvolution 92?
 
-El BluEvolution 92 tiene 6 cámaras más una cámara adicional en la hoja, Uf de perfil 0,95 W/m²K y Uw hasta 0,70 W/m²K con triple vidrio Low-E + argón. Admite vidrios de hasta 48 mm (doble o triple, argón o kriptón) y está certificado para el estándar nZEB.
+Uw desde 0,70 W/m²K, con triple vidrio Low-E + argón y refuerzo con rotura de puente térmico, según Salamander. Está muy por debajo de los 1,11 W/m²K que la norma rumana Mc 001-2022 recomienda para viviendas nuevas. No existe un «certificado nZEB» para un perfil: el nZEB se calcula para todo el edificio.
 
 ### ¿Qué aislamiento acústico ofrece el BluEvolution 92?
 
-El BluEvolution 92 ofrece aislamiento acústico hasta 47 dB Rw, ideal para viviendas en calles con tráfico. La profundidad de 92 mm y las 6 cámaras permiten configuraciones de vidrio que reducen significativamente el ruido exterior frente a perfiles más finos.
+Hasta 47 dB, igual que GreenEvolution 76, porque el aislamiento acústico lo da sobre todo el vidrio. La ventaja de BluEvolution 92 es el espesor de hasta 60 mm, que deja sitio para vidrio acústico con hojas gruesas o laminadas.
 
 ### ¿Existe el BluEvolution 92 revestido de aluminio?
 
-Sí. El BluEvolution 92 Revestido de Aluminio es el perfil de PVC cubierto con lámina de aluminio en el exterior — aspecto de aluminio con el aislamiento térmico del PVC. Está disponible en cualquier color RAL, combinando la estética premium del aluminio con el rendimiento energético superior del PVC.
+Sí. El [BluEvolution 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) lleva por fuera un perfil de aluminio de 12 mm, con una profundidad total de 104 mm: aspecto de aluminio en cualquier color RAL, con el aislamiento del perfil de PVC. Cuesta unos 250–350 EUR/m².
 
+### ¿Cuánto cuestan BluEvolution 92 y GreenEvolution 76?
+
+De forma orientativa, GreenEvolution 76 cuesta 150–235 EUR/m², BluEvolution 92 200–285 EUR/m² y la variante ALU 250–350 EUR/m², con vidrio aislante e instalación estándar, sin IVA. El triple vidrio añade 40–80 EUR/m². Los detalles están en la [página de precios de la carpintería PVC](/es/carpinteria-pvc/precios).
 
 ---
 
@@ -10545,13 +10600,13 @@ Salamander, il produttore tedesco con oltre 50 anni di esperienza, offre due gam
 
 ---
 
-## Il resto della gamma Salamander — scorrevoli, alzanti-scorrevoli e applicazioni reali
+## Il resto della gamma Salamander — scorrevoli, scorrevoli a ribalta e applicazioni reali
 
 Scegliere tra bluEvolution 92 e greenEvolution 76 è solo il primo passo. A seconda del tipo di apertura e del progetto, ecco dove trovare i dettagli:
 
 **Sistemi scorrevoli.** Per terrazze e passaggi ampi, la porta scorrevole EvolutionDrive Plus è dettagliata nell'articolo sulla [porta scorrevole in PVC con zanzariera plissettata](/it/blog/porta-scorrevole-pvc-salamander-evolutiondrive-plus-zanzariera-plisse), e come viene effettivamente installata, insieme ai sistemi a soffietto Alumil, nell'articolo sul [montaggio degli scorrevoli EvolutionDrive e Alumil](/it/blog/posa-serramenti-salamander-evolutiondrive-plus-scorrevole-alumil-m19800-pieghevole).
 
-**Alzanti-scorrevoli.** La variante che unisce scorrimento e ribalta per l’aerazione è spiegata in [i serramenti in PVC alzanti-scorrevoli doppi Salamander](/it/blog/finestra-pvc-anta-ribalta-doppia-salamander).
+**Scorrevoli a ribalta.** La variante che unisce scorrimento e ribalta per l’aerazione è spiegata in [i serramenti in PVC scorrevoli a ribalta doppi Salamander](/it/blog/finestra-pvc-anta-ribalta-doppia-salamander).
 
 **Prezzi.** Gli ordini di grandezza per le finestre Salamander sono in [prezzi finestre Salamander a Bucarest](/it/blog/prezzi-finestre-salamander-bucarest-2026).
 
@@ -10561,37 +10616,40 @@ Scegliere tra bluEvolution 92 e greenEvolution 76 è solo il primo passo. A seco
 
 ### Caratteristiche tecniche
 
-La denominazione «92» indica una **profondità di costruzione di 92 mm** — la più grande nella gamma Salamander — che consente un pacchetto vetro di **fino a 48 mm di spessore**.
+Il «92» indica la **profondità di costruzione di 92 mm**, la maggiore delle due gamme. Accetta vetrate **fino a 60 mm**, cioè triplo vetro spesso o vetro acustico.
 
-**Dati tecnici principali:**
+**Dati tecnici principali (Salamander):**
 - Profondità di costruzione: **92 mm**
-- Numero di camere: **6 camere** nel profilo + camera aggiuntiva nell'anta
-- Coefficiente termico profilo Uf: **0,95 W/m²K**
-- Coefficiente finestra Uw: **fino a 0,70 W/m²K** con triplo vetro low-e + argon
-- Isolamento acustico: **fino a 47 dB** Rw
-- Compatibile con: doppio e **triplo vetro**, inclusi argon e kripton
-- Certificazione: **nZEB**
+- Numero di camere: **6 camere**
+- Coefficiente della finestra Uw: **da 0,70 W/m²K**, con triplo vetro Low-E + argon e rinforzo a taglio termico
+- Spessore del vetro: **24–60 mm**
+- Isolamento acustico: **fino a 47 dB**
+- Antieffrazione: **RC2** di serie da Neofort BIZ, **RC3** opzionale
+- Altezza in vista: **118 mm**
+
+Non esiste un «certificato nZEB» per un profilo: l'nZEB si calcola sull'intero edificio. Per la finestra conta l'Uw, e la norma rumena Mc 001-2022 raccomanda al massimo 1,11 W/m²K negli edifici residenziali nuovi.
 
 ### Varianti disponibili
 
-**BluEvolution 92 Rivestimento alluminio** — profilo PVC rivestito con foglio di alluminio all'esterno. Aspetto alluminio, isolamento PVC. Disponibile in qualsiasi colore RAL.
+**BluEvolution 92 FLEX** — profilo dritto, linee moderne.
 
-**BluEvolution 92 Flex** — angoli smussati, design moderno e minimalista.
+**BluEvolution 92 ROUND** — spigoli arrotondati, preferito nelle ristrutturazioni e nelle case classiche.
 
-**BluEvolution 92 Round** — angoli arrotondati classici, preferito nelle ristrutturazioni.
+**BluEvolution 92 ALU** — il [profilo in PVC](/it/infissi-pvc) rivestito all'esterno con un profilo in alluminio da 12 mm, per una profondità totale di 104 mm. Aspetto alluminio, isolamento del PVC, in qualsiasi colore RAL.
 
 ### Vantaggi
 
-✅ Miglior isolamento termico nella gamma Salamander
-✅ Compatibile con triplo vetro — essenziale per nZEB
-✅ Variante rivestimento alluminio — aspetto premium senza il costo dell'alluminio
-✅ Ideale per [case passive](/it/sistemi-nzeb) e costruzioni ad alto standard energetico
+✅ Vetrate fino a 60 mm — spazio per triplo vetro spesso o vetro acustico
+✅ Uw da 0,70 W/m²K — il valore migliore delle due gamme
+✅ Maggiore rigidità su finestre e portefinestre grandi
+✅ Variante ALU — aspetto alluminio con l'isolamento del PVC
+✅ Adatto alle [case nZEB](/it/sistemi-nzeb) e agli edifici ad alta efficienza energetica
 
 ### Svantaggi
 
-⚠️ Prezzo 15–25% più elevato rispetto a GreenEvolution 76
-⚠️ Peso maggiore — richiede ferramenta di qualità superiore
-⚠️ La profondità di 92 mm può creare problemi estetici con davanzali stretti
+⚠️ Circa il 25–35% più caro di GreenEvolution 76 (200–285 contro 150–235 EUR/m²)
+⚠️ Profilo più pesante — la ferramenta si sceglie in base al peso dell'anta
+⚠️ La profondità di 92 mm richiede davanzali interni più larghi
 
 ---
 
@@ -10599,31 +10657,34 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
 
 ### Caratteristiche tecniche
 
-**Dati tecnici principali:**
+**Dati tecnici principali (Salamander):**
 - Profondità di costruzione: **76 mm**
 - Numero di camere: **5 camere**
-- Coefficiente termico profilo Uf: **1,1 W/m²K**
-- Coefficiente finestra Uw: **fino a 1,0 W/m²K** con doppio vetro low-e
-- Isolamento acustico: **fino a 42 dB**
-- Compatibile con: **doppio vetro** standard, triplo con adattamento
+- Coefficiente della finestra Uw: **da 0,73 W/m²K**, con triplo vetro Low-E + argon
+- Spessore del vetro: **24–48 mm** — accetta anche il triplo vetro
+- Isolamento acustico: **fino a 47 dB**
+- Antieffrazione: **RC2** di serie da Neofort BIZ, **RC3** opzionale
+- Altezza in vista: **118 mm**
 
 ### Varianti disponibili
 
-**GreenEvolution 76 MdRound** — design arrotondato moderno. Variante più popolare.
-**GreenEvolution 76 MdFlex** — design moderno con bordi smussati.
-**GreenEvolution 76 AdFlex** — design architettonico avanzato, profilo visivamente stretto.
+**GreenEvolution 76 MD ROUND** — spigoli arrotondati, sistema a guarnizione centrale. La variante più richiesta.
+
+**GreenEvolution 76 MD FLEX** — profilo dritto, sistema a guarnizione centrale.
+
+**GreenEvolution 76 AD FLEX** — profilo dritto, con guarnizioni di battuta e senza guarnizione centrale.
 
 ### Vantaggi
 
-✅ Eccellente rapporto qualità-prezzo
-✅ Ottime prestazioni termiche per abitazioni standard
-✅ Più leggero — finestre più facili da operare
-✅ Design versatile — si adatta alla maggior parte degli stili architettonici
+✅ Ottimo rapporto qualità-prezzo: 150–235 EUR/m²
+✅ Uw da 0,73 W/m²K — molto vicino a BluEvolution 92
+✅ Accetta il triplo vetro, con spessori fino a 48 mm
+✅ La profondità di 76 mm si adatta facilmente ai vani delle vecchie finestre nelle ristrutturazioni
 
 ### Svantaggi
 
-⚠️ Non raggiunge i valori nZEB estremi del BluEvolution 92
-⚠️ Limitazioni con pacchetti vetro molto spessi
+⚠️ Vetro limitato a 48 mm — meno opzioni per vetri acustici molto spessi
+⚠️ Nessuna variante rivestita in alluminio
 
 ---
 
@@ -10631,14 +10692,16 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
 
 | Criterio | BluEvolution 92 | GreenEvolution 76 |
 |---|---|---|
-| Profondità profilo | **92 mm** | 76 mm |
+| Profondità del profilo | **92 mm** | 76 mm |
 | Camere | **6** | 5 |
-| Uw minimo | **0,70 W/m²K** | 1,0 W/m²K |
-| Vetro massimo | **48 mm** (triplo) | 36 mm |
-| Isolamento acustico | **fino a 47 dB** | fino a 42 dB |
-| Certificazione nZEB | ✅ Sì | ⚠️ Parziale |
-| Prezzo relativo | +20% | Riferimento |
-| Adatto per | Case passive, nZEB, premium | Ristrutturazioni, residenziale standard |
+| Uw minimo (triplo vetro) | **0,70 W/m²K** | 0,73 W/m²K |
+| Spessore del vetro | **24–60 mm** | 24–48 mm |
+| Isolamento acustico | fino a 47 dB | fino a 47 dB |
+| Antieffrazione | RC2, RC3 opzionale | RC2, RC3 opzionale |
+| Prezzo (EUR/m², con vetrocamera e posa standard, IVA esclusa) | 200–285 (ALU 250–350) | 150–235 |
+| Ideale per | Case nuove, nZEB, finestre grandi, aspetto alluminio | Ristrutturazioni, appartamenti, budget equilibrato |
+
+Sulla carta, la differenza termica tra i due profili è piccola: 0,70 contro 0,73. La differenza reale sta nello spessore del vetro, nella rigidità sulle finestre grandi e nella variante ALU.
 
 ---
 
@@ -10666,20 +10729,23 @@ La denominazione «92» indica una **profondità di costruzione di 92 mm** — l
 
 ### Qual è la differenza principale tra BluEvolution 92 e GreenEvolution 76?
 
-Il BluEvolution 92 ha 92 mm di profondità, 6 camere, Uf 0,95 W/m²K e Uw fino a 0,70 con triplo vetro — il profilo di punta Salamander, certificato nZEB. Il GreenEvolution 76 ha 76 mm di profondità, ideale per abitazioni standard e ristrutturazioni a un prezzo più accessibile.
+La profondità e lo spessore del vetro. BluEvolution 92 ha 92 mm, 6 camere e accetta vetro fino a 60 mm; GreenEvolution 76 ha 76 mm, 5 camere e vetro fino a 48 mm. Gli Uw sono vicini (da 0,70 contro 0,73 W/m²K) e il prezzo differisce di circa il 25–35%.
 
 ### Quali prestazioni energetiche ha il BluEvolution 92?
 
-Il BluEvolution 92 ha 6 camere più una camera aggiuntiva nell'anta, Uf profilo 0,95 W/m²K e Uw fino a 0,70 W/m²K con triplo vetro Low-E + argon. Accetta vetrate fino a 48 mm (doppio o triplo, argon o krypton) ed è certificato per lo standard nZEB.
+Uw da 0,70 W/m²K, con triplo vetro Low-E + argon e rinforzo a taglio termico, secondo Salamander. È ben al di sotto degli 1,11 W/m²K raccomandati dalla norma rumena Mc 001-2022 per le abitazioni nuove. Non esiste un «certificato nZEB» per un profilo: l'nZEB si calcola sull'intero edificio.
 
 ### Quale isolamento acustico offre il BluEvolution 92?
 
-Il BluEvolution 92 offre isolamento acustico fino a 47 dB Rw, ideale per abitazioni su strade trafficate. La profondità di 92 mm e le 6 camere consentono configurazioni di vetro che riducono significativamente il rumore esterno rispetto ai profili più sottili.
+Fino a 47 dB, come GreenEvolution 76, perché l'isolamento acustico dipende soprattutto dal vetro. Il vantaggio di BluEvolution 92 è lo spessore fino a 60 mm, che lascia spazio a vetri acustici con lastre spesse o stratificate.
 
 ### Esiste un BluEvolution 92 rivestito in alluminio?
 
-Sì. Il BluEvolution 92 Rivestito in Alluminio è il profilo in PVC ricoperto con pellicola di alluminio all'esterno — un aspetto alluminio con l'isolamento termico del PVC. È disponibile in qualsiasi colore RAL, combinando l'estetica premium dell'alluminio con le prestazioni energetiche superiori del PVC.
+Sì. Il [BluEvolution 92 ALU](/it/prodotti/profilo-pvc-bluevolution-92-alu) ha all'esterno un profilo in alluminio da 12 mm, per una profondità totale di 104 mm: aspetto alluminio in qualsiasi colore RAL, con l'isolamento del profilo in PVC. Costa indicativamente 250–350 EUR/m².
 
+### Quanto costano BluEvolution 92 e GreenEvolution 76?
+
+Indicativamente, GreenEvolution 76 costa 150–235 EUR/m², BluEvolution 92 200–285 EUR/m² e la variante ALU 250–350 EUR/m², con vetrocamera e posa standard, IVA esclusa. Il triplo vetro aggiunge 40–80 EUR/m². I dettagli sono nella [pagina dei prezzi degli infissi in PVC](/it/infissi-pvc/prezzi).
 
 ---
 
@@ -14190,12 +14256,12 @@ Neofort BIZ fornisce e posa serramenti in alluminio Alumil a taglio termico a Bu
       it: 'parete-cortina-facciata-vetro-guida-completa',
     },
     seoTitle: {
-      ro: "Pereți cortină și fațade din sticlă",
-      en: "Curtain walls and glass facades",
-      de: "Vorhangfassaden und Glasfassaden",
-      fr: "Murs-rideaux et façades vitrées",
-      es: "Muros cortina y fachadas de vidrio",
-      it: "Pareti continue e facciate in vetro",
+      ro: "Pereți cortină și fațade din sticlă: prețuri",
+      en: "Curtain walls and glass facades: prices",
+      de: "Vorhangfassaden und Glasfassaden: Preise",
+      fr: "Murs-rideaux et façades vitrées : prix",
+      es: "Muros cortina y fachadas de vidrio: precios",
+      it: "Pareti continue e facciate in vetro: prezzi",
     },
     date: '2026-03-15',
     author: 'Mihai Dănălache',
@@ -14225,20 +14291,20 @@ Neofort BIZ fornisce e posa serramenti in alluminio Alumil a taglio termico a Bu
       it: 'Pareti cortina e facciate in vetro — guida completa 2026: tipi, prezzi e sistemi Alumil',
     },
     excerpt: {
-      ro: 'Peretele cortină este o fațadă autoportantă din aluminiu și sticlă care nu preia sarcini structurale. Există 3 tipuri principale — standard, semi-structural și structural — cu prețuri între 160 și 500 EUR/m², fără TVA. Ghid complet: cum alegi sistemul potrivit, ce sisteme Alumil livrăm și care sunt pașii de la proiect la montaj.',
-      en: 'The curtain wall is a self-supporting aluminium and glass facade that bears no structural loads. There are 3 main types — standard, semi-structural and structural — with prices between €160 and €500/m². Complete guide: how to choose the right system, which Alumil systems we supply and the steps from design to installation.',
-      de: 'Die Vorhangfassade ist eine selbsttragende Aluminium-Glas-Fassade ohne strukturelle Lasten. Es gibt 3 Haupttypen — Standard, halb-strukturell und strukturell — mit Preisen zwischen 160 und 500 €/m². Komplettleitfaden: wie Sie das richtige System wählen, welche Alumil-Systeme wir liefern und die Schritte von der Planung bis zur Montage.',
-      fr: 'Le mur rideau est une façade autoportante en aluminium et verre sans charges structurales. Il existe 3 types principaux — standard, semi-structurel et structurel — avec des prix entre 160 et 500 €/m². Guide complet : comment choisir le bon système, quels systèmes Alumil nous fournissons et les étapes du projet au montage.',
-      es: 'El muro cortina es una fachada autoportante de aluminio y vidrio sin cargas estructurales. Existen 3 tipos principales — estándar, semi-estructural y estructural — con precios entre 160 y 500 €/m². Guía completa: cómo elegir el sistema adecuado, qué sistemas Alumil suministramos y los pasos del proyecto al montaje.',
-      it: `La parete cortina è una facciata autoportante in alluminio e vetro senza carichi strutturali. Esistono 3 tipi principali — standard, semi-strutturale e strutturale — con prezzi tra 160 e 500 €/m². Guida completa: come scegliere il sistema giusto, quali sistemi Alumil forniamo e i passi dal progetto all'installazione.`,
+      ro: 'Peretele cortină este o fațadă autoportantă din aluminiu și sticlă care nu preia sarcini structurale. Există 3 tipuri principale — standard, semi-structural și structural — cu prețuri între 200 și 500 EUR/m² + TVA. Ghid complet: cum alegi sistemul potrivit, ce sisteme Alumil livrăm și care sunt pașii de la proiect la montaj.',
+      en: 'The curtain wall is a self-supporting aluminium and glass facade that bears no structural loads. There are 3 main types — standard, semi-structural and structural — with prices between €200 and €500/m² + VAT. Complete guide: how to choose the right system, which Alumil systems we supply and the steps from design to installation.',
+      de: 'Die Vorhangfassade ist eine selbsttragende Aluminium-Glas-Fassade ohne strukturelle Lasten. Es gibt 3 Haupttypen — Standard, halb-strukturell und strukturell — mit Preisen zwischen 200 und 500 €/m² zzgl. MwSt.. Komplettleitfaden: wie Sie das richtige System wählen, welche Alumil-Systeme wir liefern und die Schritte von der Planung bis zur Montage.',
+      fr: 'Le mur rideau est une façade autoportante en aluminium et verre sans charges structurales. Il existe 3 types principaux — standard, semi-structurel et structurel — avec des prix entre 200 et 500 €/m² HT. Guide complet : comment choisir le bon système, quels systèmes Alumil nous fournissons et les étapes du projet au montage.',
+      es: 'El muro cortina es una fachada autoportante de aluminio y vidrio sin cargas estructurales. Existen 3 tipos principales — estándar, semi-estructural y estructural — con precios entre 200 y 500 €/m² + IVA. Guía completa: cómo elegir el sistema adecuado, qué sistemas Alumil suministramos y los pasos del proyecto al montaje.',
+      it: `La parete cortina è una facciata autoportante in alluminio e vetro senza carichi strutturali. Esistono 3 tipi principali — standard, semi-strutturale e strutturale — con prezzi tra 200 e 500 €/m² + IVA. Guida completa: come scegliere il sistema giusto, quali sistemi Alumil forniamo e i passi dal progetto all'installazione.`,
     },
     metaDesc: {
-      ro: "Pereți cortină și fațade din sticlă: cele 3 tipuri de sisteme, prețuri de 160–500 EUR/m² fără TVA și etapele unui proiect. Sisteme Alumil, București.",
-      en: "Curtain walls and glass facades: the 3 system types, indicative prices of 160–500 EUR/m² excluding VAT and the stages of a project. Alumil systems.",
-      de: "Vorhangfassaden und Glasfassaden: die 3 Systemarten, Richtpreise von 160–500 EUR/m² ohne MwSt. und die Projektphasen. Alumil-Systeme, Bukarest.",
-      fr: "Murs-rideaux et façades vitrées : les 3 types de systèmes, prix indicatifs de 160 à 500 EUR/m² HT et les étapes d’un projet. Systèmes Alumil.",
-      es: "Muros cortina y fachadas de vidrio: los 3 tipos de sistema, precios de 160–500 EUR/m² sin IVA y las fases de un proyecto. Sistemas Alumil, Bucarest.",
-      it: "Pareti continue e facciate in vetro: i 3 tipi di sistema, prezzi indicativi di 160–500 EUR/m² IVA esclusa e le fasi di un progetto. Sistemi Alumil.",
+      ro: "Cât costă un perete cortină în 2026: 200–500 EUR/m² + TVA, cu montaj, după sistem. Cele 3 tipuri, sistemele Alumil și pașii unui proiect.",
+      en: "What a curtain wall costs in 2026: 200–500 EUR/m² + VAT, installed, depending on the system. The 3 types, the Alumil systems and the project stages.",
+      de: "Was eine Vorhangfassade 2026 kostet: 200–500 EUR/m² zzgl. MwSt., montiert, je nach System. Die 3 Arten, die Alumil-Systeme und die Projektphasen.",
+      fr: "Combien coûte un mur-rideau en 2026 : 200 à 500 EUR/m² HT, posé, selon le système. Les 3 types, les systèmes Alumil et les étapes d’un projet.",
+      es: "Cuánto cuesta un muro cortina en 2026: 200–500 EUR/m² + IVA, instalado, según el sistema. Los 3 tipos, los sistemas Alumil y las fases del proyecto.",
+      it: "Quanto costa una facciata continua nel 2026: 200–500 EUR/m² + IVA, posata, secondo il sistema. I 3 tipi, i sistemi Alumil e le fasi del progetto.",
     },
     keywords: 'pereti cortina aluminiu sticla, fatada cortina pret, perete cortina structural, perete cortina semi-structural, Reynaers CW 50, Alumil SMARTIA M50, fatade din sticla cladiri, pereti cortina pret mp, montaj pereti cortina Romania',
     content: {
@@ -14265,7 +14331,7 @@ Profilul de aluminiu este **vizibil din exterior**, fixând geamul cu capace pre
 - Capace presoare vizibile din exterior (linie orizontală + verticală)
 - Sticlă termopan dublu sau triplu, grosimi 24–54 mm
 - Sisteme Alumil folosite: SMARTIA M50, M7, M35 sau M6
-- **Preț: 160–240 EUR/m²** (inclusiv [montajul cu echipe proprii](/ro/servicii))
+- **Preț: de la 200 EUR/m² + TVA** (inclusiv [montajul cu echipe proprii](/ro/servicii))
 
 **Recomandat pentru:** clădiri de birouri, spații comerciale, showroom-uri, hale industriale cu zonă de birou.
 
@@ -14277,7 +14343,7 @@ Profilele sunt **vizibile doar pe o direcție** (vertical sau orizontal), celela
 - Profile vizibile pe o singură axă
 - Silicon structural (de exemplu DOWSIL) pe celelalte laturi
 - Sistem Alumil folosit: M3 (semi-structural, cu rame suspendate)
-- **Preț: 240–360 EUR/m²** (inclusiv montaj)
+- **Preț: în intervalul 200–500 EUR/m² + TVA**, peste varianta standard (inclusiv montaj)
 
 **Recomandat pentru:** clădiri moderne de birouri, hoteluri, rezidențe de lux.
 
@@ -14290,7 +14356,7 @@ Profilele sunt **vizibile doar pe o direcție** (vertical sau orizontal), celela
 - Silicon structural pe toate 4 laturile (sistemul Alumil M4) sau sistem spider
 - Aspect de „oglindă” continuă
 - Cel mai pretențios la montaj — necesită personal certificat
-- **Preț: 360–500 EUR/m²** (inclusiv montaj)
+- **Preț: până la 500 EUR/m² + TVA** (inclusiv montaj)
 
 **Recomandat pentru:** clădiri premium, sedii corporative, proiecte arhitecturale de referință.
 
@@ -14363,14 +14429,14 @@ Echipă specializată, cu schele sau platformă elevatoare. La final: test de im
 
 ## Prețuri orientative pereți cortină 2026
 
-| Tip sistem | Suprafață | Preț estimat (inclusiv montaj) |
+| Tip sistem | Suprafață | Preț estimat (EUR/m² + TVA, inclusiv montaj) |
 |---|---|---|
-| Standard SMARTIA M50, geam dublu Low-E | 50–100 m² | 180–220 EUR/m² |
-| Standard SMARTIA M50, geam dublu Low-E | > 100 m² | 160–190 EUR/m² |
-| Semi-structural, geam dublu Low-E | 50–100 m² | 260–320 EUR/m² |
-| Structural spider, geam securizat | orice | 400–500 EUR/m² |
+| Standard SMARTIA M50, geam dublu Low-E | 50–100 m² | partea de jos a intervalului 200–500 |
+| Standard SMARTIA M50, geam dublu Low-E | > 100 m² | de la 200 |
+| Semi-structural, geam dublu Low-E | 50–100 m² | mijlocul intervalului 200–500 |
+| Structural spider, geam securizat | orice | până la 500 |
 
-*Prețurile nu includ TVA și pot varia în funcție de înălțimea clădirii, complexitatea formei și tipul sticlei. Solicitați ofertă personalizată.*
+*Prețuri orientative: 200–500 EUR/m² + TVA, cu montaj inclus. Pot varia în funcție de înălțimea clădirii, complexitatea formei și tipul sticlei. Solicitați ofertă personalizată.*
 
 ---
 
@@ -14395,7 +14461,7 @@ Peretele cortină este o fațadă exterioară autoportantă din profile de alumi
 
 ### Care sunt cele 3 tipuri de pereți cortină și cât costă?
 
-Peretele cortină standard (profile vizibile cu capace presoare) costă 160-240 EUR/m²; cel semi-structural (profile vizibile pe o singură axă, restul lipit cu silicon structural) costă 240-360 EUR/m²; cel structural (spider glass, profile complet invizibile) costă 360-500 EUR/m². Toate prețurile includ montajul și sunt fără TVA.
+Orientativ, 200–500 EUR/m² + TVA, cu montaj inclus. Peretele cortină standard (profile vizibile cu capace presoare) e în partea de jos a intervalului, de la 200 EUR/m²; cel semi-structural (profile vizibile pe o singură axă, restul lipit cu silicon structural) e la mijloc; cel structural (spider glass, profile complet invizibile) ajunge la 500 EUR/m².
 
 ### Ce este un perete cortină structural spider glass?
 
@@ -14436,7 +14502,7 @@ The aluminium profile is **visible from outside**, holding the glass with pressu
 - Pressure caps visible from outside (horizontal + vertical lines)
 - Double or triple insulating glass, 24–54 mm thick
 - Alumil systems used: SMARTIA M50, M7, M35 or M6
-- **Price: 160–240 EUR/m²** (including [installation by our own teams](/en/services))
+- **Price: from 200 EUR/m² + VAT** (including [installation by our own teams](/en/services))
 
 **Recommended for:** office buildings, commercial spaces, showrooms, industrial halls with an office area.
 
@@ -14448,7 +14514,7 @@ The profiles are **visible in one direction only** (vertical or horizontal), whi
 - Profiles visible on one axis only
 - Structural silicone (for example DOWSIL) on the other edges
 - Alumil system used: M3 (semi-structural, with hanging frames)
-- **Price: 240–360 EUR/m²** (including installation)
+- **Price: within the 200–500 EUR/m² + VAT range**, above the standard version (including installation)
 
 **Recommended for:** modern office buildings, hotels, luxury residences.
 
@@ -14461,7 +14527,7 @@ The profiles are **visible in one direction only** (vertical or horizontal), whi
 - Structural silicone on all 4 edges (the Alumil M4 system) or a spider system
 - A continuous “mirror” look
 - The most demanding to install — requires certified staff
-- **Price: 360–500 EUR/m²** (including installation)
+- **Price: up to 500 EUR/m² + VAT** (including installation)
 
 **Recommended for:** premium buildings, corporate headquarters, landmark architectural projects.
 
@@ -14534,14 +14600,14 @@ A specialised team, with scaffolding or an aerial platform. At the end: a water-
 
 ## Indicative curtain wall prices 2026
 
-| System type | Area | Estimated price (installation included) |
+| System type | Area | Estimated price (EUR/m² + VAT, installation included) |
 |---|---|---|
-| Standard SMARTIA M50, double Low-E glazing | 50–100 m² | 180–220 EUR/m² |
-| Standard SMARTIA M50, double Low-E glazing | > 100 m² | 160–190 EUR/m² |
-| Semi-structural, double Low-E glazing | 50–100 m² | 260–320 EUR/m² |
-| Structural spider, toughened glass | any | 400–500 EUR/m² |
+| Standard SMARTIA M50, double Low-E glazing | 50–100 m² | lower end of the 200–500 range |
+| Standard SMARTIA M50, double Low-E glazing | > 100 m² | from 200 |
+| Semi-structural, double Low-E glazing | 50–100 m² | middle of the 200–500 range |
+| Structural spider, toughened glass | any | up to 500 |
 
-*Prices exclude VAT and may vary with the building height, the complexity of the shape and the glass type. Ask for a personalised quote.*
+*Indicative prices: 200–500 EUR/m² + VAT, installation included. They may vary with the building height, the complexity of the shape and the glass type. Ask for a personalised quote.*
 
 ---
 
@@ -14566,7 +14632,7 @@ A curtain wall is a self-supporting exterior facade made of aluminium profiles a
 
 ### What are the 3 types of curtain wall and how much do they cost?
 
-The standard curtain wall (profiles visible with pressure caps) costs 160-240 EUR/m²; the semi-structural one (profiles visible on one axis, the rest bonded with structural silicone) costs 240-360 EUR/m²; the structural one (spider glass, completely invisible profiles) costs 360-500 EUR/m². All prices include installation and exclude VAT.
+As a guide, 200–500 EUR/m² + VAT, installation included. The standard curtain wall (profiles visible with pressure caps) sits at the lower end, from 200 EUR/m²; the semi-structural one (profiles visible on one axis, the rest bonded with structural silicone) sits in the middle; the structural one (spider glass, completely invisible profiles) reaches 500 EUR/m².
 
 ### What is a structural spider glass curtain wall?
 
@@ -14607,7 +14673,7 @@ Das Aluminiumprofil ist **von außen sichtbar** und hält das Glas mit Press- un
 - Von außen sichtbare Deckleisten (horizontale + vertikale Linien)
 - Zweifach- oder Dreifach-Isolierglas, 24–54 mm stark
 - Eingesetzte Alumil-Systeme: SMARTIA M50, M7, M35 oder M6
-- **Preis: 160–240 EUR/m²** (inklusive [Montage durch eigene Teams](/de/dienstleistungen))
+- **Preis: ab 200 EUR/m² zzgl. MwSt.** (inklusive [Montage durch eigene Teams](/de/dienstleistungen))
 
 **Empfohlen für:** Bürogebäude, Gewerbeflächen, Showrooms, Industriehallen mit Bürobereich.
 
@@ -14619,7 +14685,7 @@ Die Profile sind **nur in einer Richtung sichtbar** (vertikal oder horizontal), 
 - Profile nur in einer Achse sichtbar
 - Struktursilikon (zum Beispiel DOWSIL) an den übrigen Kanten
 - Eingesetztes Alumil-System: M3 (halbstrukturell, mit eingehängten Rahmen)
-- **Preis: 240–360 EUR/m²** (inklusive Montage)
+- **Preis: im Bereich 200–500 EUR/m² zzgl. MwSt.**, über der Standardvariante (inklusive Montage)
 
 **Empfohlen für:** moderne Bürogebäude, Hotels, Luxusresidenzen.
 
@@ -14632,7 +14698,7 @@ Die Profile sind **nur in einer Richtung sichtbar** (vertikal oder horizontal), 
 - Struktursilikon an allen 4 Kanten (Alumil-System M4) oder Spider-System
 - Durchgehende „Spiegel“-Optik
 - Am anspruchsvollsten bei der Montage — erfordert zertifiziertes Personal
-- **Preis: 360–500 EUR/m²** (inklusive Montage)
+- **Preis: bis 500 EUR/m² zzgl. MwSt.** (inklusive Montage)
 
 **Empfohlen für:** Premiumgebäude, Unternehmenszentralen, architektonische Referenzprojekte.
 
@@ -14705,14 +14771,14 @@ Ein spezialisiertes Team mit Gerüst oder Hubarbeitsbühne. Zum Abschluss: Dicht
 
 ## Richtpreise für Vorhangfassaden 2026
 
-| Systemart | Fläche | Geschätzter Preis (inklusive Montage) |
+| Systemart | Fläche | Geschätzter Preis (EUR/m² zzgl. MwSt., inklusive Montage) |
 |---|---|---|
-| Standard SMARTIA M50, Zweifachverglasung Low-E | 50–100 m² | 180–220 EUR/m² |
-| Standard SMARTIA M50, Zweifachverglasung Low-E | > 100 m² | 160–190 EUR/m² |
-| Halbstrukturell, Zweifachverglasung Low-E | 50–100 m² | 260–320 EUR/m² |
-| Strukturell mit Spider, Sicherheitsglas | beliebig | 400–500 EUR/m² |
+| Standard SMARTIA M50, Zweifachverglasung Low-E | 50–100 m² | unteres Ende des Bereichs 200–500 |
+| Standard SMARTIA M50, Zweifachverglasung Low-E | > 100 m² | ab 200 |
+| Halbstrukturell, Zweifachverglasung Low-E | 50–100 m² | Mitte des Bereichs 200–500 |
+| Strukturell mit Spider, Sicherheitsglas | beliebig | bis 500 |
 
-*Die Preise verstehen sich ohne MwSt. und können je nach Gebäudehöhe, Komplexität der Form und Glasart variieren. Fordern Sie ein individuelles Angebot an.*
+*Richtpreise: 200–500 EUR/m² zzgl. MwSt., inklusive Montage. Sie können je nach Gebäudehöhe, Komplexität der Form und Glasart variieren. Fordern Sie ein individuelles Angebot an.*
 
 ---
 
@@ -14737,7 +14803,7 @@ Eine Vorhangfassade ist eine selbsttragende Außenfassade aus Aluminiumprofilen 
 
 ### Welche 3 Arten von Vorhangfassaden gibt es und was kosten sie?
 
-Die Standard-Vorhangfassade (sichtbare Profile mit Deckleisten) kostet 160-240 EUR/m²; die halbstrukturelle (Profile in einer Achse sichtbar, der Rest mit Struktursilikon verklebt) 240-360 EUR/m²; die strukturelle (Spider-Glas, vollständig unsichtbare Profile) 360-500 EUR/m². Alle Preise inklusive Montage und ohne MwSt.
+Als Richtwert 200–500 EUR/m² zzgl. MwSt., inklusive Montage. Die Standard-Vorhangfassade (sichtbare Profile mit Deckleisten) liegt am unteren Ende, ab 200 EUR/m²; die halbstrukturelle (Profile in einer Achse sichtbar, der Rest mit Struktursilikon verklebt) in der Mitte; die strukturelle (Spider-Glas, vollständig unsichtbare Profile) erreicht 500 EUR/m².
 
 ### Was ist eine strukturelle Vorhangfassade mit Spider-Glas?
 
@@ -14778,7 +14844,7 @@ Le profilé aluminium est **visible de l’extérieur** et maintient le verre pa
 - Capots visibles de l’extérieur (lignes horizontales + verticales)
 - Double ou triple vitrage isolant, de 24 à 54 mm d’épaisseur
 - Systèmes Alumil utilisés : SMARTIA M50, M7, M35 ou M6
-- **Prix : 160–240 EUR/m²** (y compris la [pose par nos propres équipes](/fr/services))
+- **Prix : à partir de 200 EUR/m² HT** (y compris la [pose par nos propres équipes](/fr/services))
 
 **Recommandé pour :** immeubles de bureaux, locaux commerciaux, showrooms, halls industriels avec zone de bureaux.
 
@@ -14790,7 +14856,7 @@ Les profilés ne sont **visibles que dans une direction** (verticale ou horizont
 - Profilés visibles sur un seul axe
 - Silicone structurel (par exemple DOWSIL) sur les autres bords
 - Système Alumil utilisé : M3 (semi-structurel, à cadres suspendus)
-- **Prix : 240–360 EUR/m²** (pose comprise)
+- **Prix : dans la fourchette de 200 à 500 EUR/m² HT**, au-dessus de la version standard (pose comprise)
 
 **Recommandé pour :** immeubles de bureaux modernes, hôtels, résidences de luxe.
 
@@ -14803,7 +14869,7 @@ Les profilés ne sont **visibles que dans une direction** (verticale ou horizont
 - Silicone structurel sur les 4 côtés (système Alumil M4) ou système spider
 - Aspect « miroir » continu
 - Le plus exigeant à poser — demande un personnel certifié
-- **Prix : 360–500 EUR/m²** (pose comprise)
+- **Prix : jusqu’à 500 EUR/m² HT** (pose comprise)
 
 **Recommandé pour :** bâtiments haut de gamme, sièges sociaux, projets architecturaux de référence.
 
@@ -14876,14 +14942,14 @@ Une équipe spécialisée, avec échafaudage ou nacelle. Pour finir : essai d’
 
 ## Prix indicatifs des murs-rideaux en 2026
 
-| Type de système | Surface | Prix estimé (pose comprise) |
+| Type de système | Surface | Prix estimé (EUR/m² HT, pose comprise) |
 |---|---|---|
-| Standard SMARTIA M50, double vitrage Low-E | 50–100 m² | 180–220 EUR/m² |
-| Standard SMARTIA M50, double vitrage Low-E | > 100 m² | 160–190 EUR/m² |
-| Semi-structurel, double vitrage Low-E | 50–100 m² | 260–320 EUR/m² |
-| Structurel spider, verre trempé | toutes | 400–500 EUR/m² |
+| Standard SMARTIA M50, double vitrage Low-E | 50–100 m² | bas de la fourchette 200–500 |
+| Standard SMARTIA M50, double vitrage Low-E | > 100 m² | à partir de 200 |
+| Semi-structurel, double vitrage Low-E | 50–100 m² | milieu de la fourchette 200–500 |
+| Structurel spider, verre trempé | toutes | jusqu’à 500 |
 
-*Les prix s’entendent hors TVA et peuvent varier selon la hauteur du bâtiment, la complexité de la forme et le type de verre. Demandez un devis personnalisé.*
+*Prix indicatifs : 200 à 500 EUR/m² HT, pose comprise. Ils peuvent varier selon la hauteur du bâtiment, la complexité de la forme et le type de verre. Demandez un devis personnalisé.*
 
 ---
 
@@ -14908,7 +14974,7 @@ Le mur-rideau est une façade extérieure autoportante en profilés aluminium et
 
 ### Quels sont les 3 types de murs-rideaux et combien coûtent-ils ?
 
-Le mur-rideau standard (profilés visibles avec capots) coûte 160-240 EUR/m² ; le semi-structurel (profilés visibles sur un seul axe, le reste collé au silicone structurel) 240-360 EUR/m² ; le structurel (verre agrafé, profilés totalement invisibles) 360-500 EUR/m². Tous les prix comprennent la pose et s’entendent hors TVA.
+À titre indicatif, 200 à 500 EUR/m² HT, pose comprise. Le mur-rideau standard (profilés visibles avec capots) se situe en bas de la fourchette, à partir de 200 EUR/m² ; le semi-structurel (profilés visibles sur un seul axe, le reste collé au silicone structurel) au milieu ; le structurel (verre agrafé, profilés totalement invisibles) atteint 500 EUR/m².
 
 ### Qu’est-ce qu’un mur-rideau structurel en verre agrafé ?
 
@@ -14949,7 +15015,7 @@ El perfil de aluminio es **visible desde el exterior** y sujeta el vidrio con pr
 - Tapetas visibles desde el exterior (líneas horizontales + verticales)
 - Vidrio aislante doble o triple, de 24 a 54 mm de espesor
 - Sistemas Alumil utilizados: SMARTIA M50, M7, M35 o M6
-- **Precio: 160–240 EUR/m²** (incluida la [instalación con equipos propios](/es/servicios))
+- **Precio: desde 200 EUR/m² + IVA** (incluida la [instalación con equipos propios](/es/servicios))
 
 **Recomendado para:** edificios de oficinas, locales comerciales, showrooms, naves industriales con zona de oficinas.
 
@@ -14961,7 +15027,7 @@ Los perfiles son **visibles solo en una dirección** (vertical u horizontal) y l
 - Perfiles visibles en un solo eje
 - Silicona estructural (por ejemplo DOWSIL) en los demás bordes
 - Sistema Alumil utilizado: M3 (semiestructural, con marcos colgados)
-- **Precio: 240–360 EUR/m²** (instalación incluida)
+- **Precio: dentro del rango de 200–500 EUR/m² + IVA**, por encima de la versión estándar (instalación incluida)
 
 **Recomendado para:** edificios de oficinas modernos, hoteles, residencias de lujo.
 
@@ -14974,7 +15040,7 @@ Los perfiles son **visibles solo en una dirección** (vertical u horizontal) y l
 - Silicona estructural en los 4 bordes (sistema Alumil M4) o sistema de arañas
 - Aspecto de «espejo» continuo
 - El más exigente de instalar: requiere personal certificado
-- **Precio: 360–500 EUR/m²** (instalación incluida)
+- **Precio: hasta 500 EUR/m² + IVA** (instalación incluida)
 
 **Recomendado para:** edificios premium, sedes corporativas, proyectos arquitectónicos de referencia.
 
@@ -15047,14 +15113,14 @@ Un equipo especializado, con andamios o plataforma elevadora. Al final: prueba d
 
 ## Precios orientativos de muros cortina 2026
 
-| Tipo de sistema | Superficie | Precio estimado (instalación incluida) |
+| Tipo de sistema | Superficie | Precio estimado (EUR/m² + IVA, instalación incluida) |
 |---|---|---|
-| Estándar SMARTIA M50, doble acristalamiento Low-E | 50–100 m² | 180–220 EUR/m² |
-| Estándar SMARTIA M50, doble acristalamiento Low-E | > 100 m² | 160–190 EUR/m² |
-| Semiestructural, doble acristalamiento Low-E | 50–100 m² | 260–320 EUR/m² |
-| Estructural con arañas, vidrio templado | cualquiera | 400–500 EUR/m² |
+| Estándar SMARTIA M50, doble acristalamiento Low-E | 50–100 m² | parte baja del rango 200–500 |
+| Estándar SMARTIA M50, doble acristalamiento Low-E | > 100 m² | desde 200 |
+| Semiestructural, doble acristalamiento Low-E | 50–100 m² | mitad del rango 200–500 |
+| Estructural con arañas, vidrio templado | cualquiera | hasta 500 |
 
-*Los precios no incluyen IVA y pueden variar según la altura del edificio, la complejidad de la forma y el tipo de vidrio. Pida un presupuesto personalizado.*
+*Precios orientativos: 200–500 EUR/m² + IVA, instalación incluida. Pueden variar según la altura del edificio, la complejidad de la forma y el tipo de vidrio. Pida un presupuesto personalizado.*
 
 ---
 
@@ -15079,7 +15145,7 @@ El muro cortina es una fachada exterior autoportante de perfiles de aluminio y v
 
 ### ¿Cuáles son los 3 tipos de muro cortina y cuánto cuestan?
 
-El muro cortina estándar (perfiles visibles con tapetas) cuesta 160-240 EUR/m²; el semiestructural (perfiles visibles en un solo eje, el resto pegado con silicona estructural) 240-360 EUR/m²; el estructural (vidrio abotonado, perfiles totalmente invisibles) 360-500 EUR/m². Todos los precios incluyen la instalación y son sin IVA.
+De forma orientativa, 200–500 EUR/m² + IVA, instalación incluida. El muro cortina estándar (perfiles visibles con tapetas) está en la parte baja del rango, desde 200 EUR/m²; el semiestructural (perfiles visibles en un solo eje, el resto pegado con silicona estructural) en la mitad; el estructural (vidrio abotonado, perfiles totalmente invisibles) llega a 500 EUR/m².
 
 ### ¿Qué es un muro cortina estructural de vidrio abotonado?
 
@@ -15120,7 +15186,7 @@ Il profilo in alluminio è **visibile dall’esterno** e fissa il vetro con pres
 - Coprifili visibili dall’esterno (linee orizzontali + verticali)
 - Vetrocamera doppia o tripla, spessore 24–54 mm
 - Sistemi Alumil utilizzati: SMARTIA M50, M7, M35 o M6
-- **Prezzo: 160–240 EUR/m²** (compresa la [posa con squadre proprie](/it/servizi))
+- **Prezzo: da 200 EUR/m² + IVA** (compresa la [posa con squadre proprie](/it/servizi))
 
 **Consigliata per:** edifici per uffici, spazi commerciali, showroom, capannoni industriali con zona uffici.
 
@@ -15132,7 +15198,7 @@ I profili sono **visibili in una sola direzione** (verticale o orizzontale), men
 - Profili visibili su un solo asse
 - Silicone strutturale (per esempio DOWSIL) sugli altri lati
 - Sistema Alumil utilizzato: M3 (semi-strutturale, a telai appesi)
-- **Prezzo: 240–360 EUR/m²** (posa compresa)
+- **Prezzo: nella fascia 200–500 EUR/m² + IVA**, sopra la versione standard (posa compresa)
 
 **Consigliata per:** edifici per uffici moderni, hotel, residenze di lusso.
 
@@ -15145,7 +15211,7 @@ I profili sono **visibili in una sola direzione** (verticale o orizzontale), men
 - Silicone strutturale su tutti e 4 i lati (sistema Alumil M4) o sistema spider
 - Aspetto a «specchio» continuo
 - La più impegnativa da posare: richiede personale certificato
-- **Prezzo: 360–500 EUR/m²** (posa compresa)
+- **Prezzo: fino a 500 EUR/m² + IVA** (posa compresa)
 
 **Consigliata per:** edifici di pregio, sedi aziendali, progetti architettonici di riferimento.
 
@@ -15218,14 +15284,14 @@ Una squadra specializzata, con ponteggi o piattaforma aerea. Alla fine: prova di
 
 ## Prezzi indicativi delle facciate continue 2026
 
-| Tipo di sistema | Superficie | Prezzo stimato (posa compresa) |
+| Tipo di sistema | Superficie | Prezzo stimato (EUR/m² + IVA, posa compresa) |
 |---|---|---|
-| Standard SMARTIA M50, doppio vetro Low-E | 50–100 m² | 180–220 EUR/m² |
-| Standard SMARTIA M50, doppio vetro Low-E | > 100 m² | 160–190 EUR/m² |
-| Semi-strutturale, doppio vetro Low-E | 50–100 m² | 260–320 EUR/m² |
-| Strutturale spider, vetro temperato | qualsiasi | 400–500 EUR/m² |
+| Standard SMARTIA M50, doppio vetro Low-E | 50–100 m² | parte bassa della fascia 200–500 |
+| Standard SMARTIA M50, doppio vetro Low-E | > 100 m² | da 200 |
+| Semi-strutturale, doppio vetro Low-E | 50–100 m² | metà della fascia 200–500 |
+| Strutturale spider, vetro temperato | qualsiasi | fino a 500 |
 
-*I prezzi sono IVA esclusa e possono variare in base all’altezza dell’edificio, alla complessità della forma e al tipo di vetro. Richiedete un preventivo personalizzato.*
+*Prezzi indicativi: 200–500 EUR/m² + IVA, posa compresa. Possono variare in base all’altezza dell’edificio, alla complessità della forma e al tipo di vetro. Richiedete un preventivo personalizzato.*
 
 ---
 
@@ -15250,7 +15316,7 @@ La facciata continua è una facciata esterna autoportante in profili di allumini
 
 ### Quali sono i 3 tipi di facciata continua e quanto costano?
 
-La facciata continua standard (profili visibili con coprifili) costa 160-240 EUR/m²; quella semi-strutturale (profili visibili su un solo asse, il resto incollato con silicone strutturale) 240-360 EUR/m²; quella strutturale (vetro puntuale, profili completamente invisibili) 360-500 EUR/m². Tutti i prezzi comprendono la posa e sono IVA esclusa.
+Indicativamente, 200–500 EUR/m² + IVA, posa compresa. La facciata continua standard (profili visibili con coprifili) è nella parte bassa della fascia, da 200 EUR/m²; quella semi-strutturale (profili visibili su un solo asse, il resto incollato con silicone strutturale) a metà; quella strutturale (vetro puntuale, profili completamente invisibili) arriva a 500 EUR/m².
 
 ### Che cos’è una facciata continua strutturale con vetro spider?
 
@@ -16282,12 +16348,12 @@ Neofort BIZ posa ZipScreen, tapparelle, Raffstore e pergole con telo Somfy a Buc
       it: 'prezzi-doppio-vetro-salamander-bucarest',
     },
     seoTitle: {
-      ro: "Prețuri termopane Salamander 2026",
-      en: "Salamander glazing prices 2026",
-      de: "Salamander Isolierglas Preise 2026",
-      fr: "Prix du vitrage Salamander 2026",
-      es: "Precios del vidrio Salamander 2026",
-      it: "Prezzi del vetro Salamander 2026",
+      ro: "Prețuri termopane Salamander București 2026",
+      en: "Salamander glazing prices Bucharest 2026",
+      de: "Salamander Isolierglas Preise Bukarest 2026",
+      fr: "Prix du vitrage Salamander Bucarest 2026",
+      es: "Precios del vidrio Salamander Bucarest 2026",
+      it: "Prezzi del vetro Salamander Bucarest 2026",
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
@@ -16325,12 +16391,12 @@ Neofort BIZ posa ZipScreen, tapparelle, Raffstore e pergole con telo Somfy a Buc
       it: 'Quanto costano le finestre Salamander a Bucarest nel 2026. GreenEvolution 76 da 150 EUR/m², BluEvolution 92 da 200 EUR/m². Guida completa.',
     },
     metaDesc: {
-      ro: "Prețuri termopane Salamander pe profile și sisteme: ce costă un geam dublu față de unul triplu și ce adaugă montajul nZEB la factura finală.",
-      en: "Salamander glazing prices by profile and system: what double glazing costs against triple, and what nZEB installation adds to the final bill.",
-      de: "Salamander Isolierglaspreise nach Profil und System: was Zweifach gegenüber Dreifach kostet und was die nZEB-Montage zusätzlich ausmacht.",
-      fr: "Prix du vitrage Salamander par profilé et système : ce que coûte le double face au triple, et ce que la pose nZEB ajoute à la facture.",
-      es: "Precios del vidrio Salamander por perfil y sistema: qué cuesta el doble frente al triple y qué añade la instalación nZEB a la factura.",
-      it: "Prezzi del vetro Salamander per profilo e sistema: quanto costa il doppio rispetto al triplo e cosa aggiunge la posa nZEB al conto finale.",
+      ro: "Termopane Salamander în București: GreenEvolution 76 150–220 EUR/mp, BluEvolution 92 200–285 EUR/mp. Fereastră 100×120, geam dublu, de la 320 EUR.",
+      en: "Salamander windows in Bucharest: GreenEvolution 76 at 150–220 EUR/m², BluEvolution 92 at 200–285 EUR/m². A 100×120 double-glazed window from 320 EUR.",
+      de: "Salamander-Fenster in Bukarest: GreenEvolution 76 150–220 EUR/m², BluEvolution 92 200–285 EUR/m². Fenster 100×120 mit Zweifachglas ab 320 EUR.",
+      fr: "Fenêtres Salamander à Bucarest : GreenEvolution 76 à 150–220 EUR/m², BluEvolution 92 à 200–285 EUR/m². Fenêtre 100×120 double vitrage dès 320 EUR.",
+      es: "Ventanas Salamander en Bucarest: GreenEvolution 76 a 150–220 EUR/m², BluEvolution 92 a 200–285 EUR/m². Ventana 100×120 con doble vidrio desde 320 EUR.",
+      it: "Finestre Salamander a Bucarest: GreenEvolution 76 a 150–220 EUR/m², BluEvolution 92 a 200–285 EUR/m². Finestra 100×120 con doppio vetro da 320 EUR.",
     },
     keywords: 'preturi termopane Salamander Bucuresti, termopane PVC pret 2026, BluEvolution 92 pret, GreenEvolution 76 pret, ferestre PVC pret Bucuresti, cat costa termopane Salamander, inlocuit ferestre pret Bucuresti, termopane nZEB pret',
     content: {
@@ -17001,12 +17067,12 @@ Neofort BIZ fornisce finestre con vetrocamera Salamander in tutti i profili, a B
       it: 'prezzi-infissi-alluminio-alumil-aluprof-cortizo-reynaers-bucarest',
     },
     seoTitle: {
-      ro: "Prețuri tâmplărie aluminiu: 4 mărci",
-      en: "Aluminium window prices: 4 brands",
-      de: "Aluminiumfenster Preise: 4 Marken",
-      fr: "Prix menuiserie alu : 4 marques",
-      es: "Precios carpintería alu: 4 marcas",
-      it: "Prezzi serramenti alu: 4 marchi",
+      ro: "Prețuri tâmplărie aluminiu 2026: 4 mărci, €/mp",
+      en: "Aluminium window prices 2026: 4 brands, €/m²",
+      de: "Aluminiumfenster Preise 2026: 4 Marken, €/m²",
+      fr: "Prix menuiserie alu 2026 : 4 marques, €/m²",
+      es: "Precios carpintería alu 2026: 4 marcas, €/m²",
+      it: "Prezzi serramenti alu 2026: 4 marchi, €/m²",
     },
     date: '2026-03-17',
     author: 'Mihai Dănălache',
@@ -17044,12 +17110,12 @@ Neofort BIZ fornisce finestre con vetrocamera Salamander in tutti i profili, a B
       it: "Alumil, Aluprof, Cortizo o Reynaers? Confrontiamo i sistemi in alluminio dei quattro marchi con i dati dei produttori (profondità, Uw), il loro posizionamento di prezzo e i prezzi Alumil e Reynaers di Neofort BIZ a Bucarest nel 2026.",
     },
     metaDesc: {
-      ro: "Alumil, Aluprof, Cortizo sau Reynaers? Comparație de prețuri și performanțe între cele patru mărci de tâmplărie din aluminiu disponibile în București.",
-      en: "Alumil, Aluprof, Cortizo or Reynaers? Prices and performance compared across the four aluminium window brands available in Bucharest.",
-      de: "Alumil, Aluprof, Cortizo oder Reynaers? Preise und Leistungen der vier Aluminiumfenster-Marken im Vergleich, verfügbar in Bukarest.",
-      fr: "Alumil, Aluprof, Cortizo ou Reynaers ? Prix et performances comparés des quatre marques de menuiserie aluminium disponibles à Bucarest.",
-      es: "¿Alumil, Aluprof, Cortizo o Reynaers? Precios y prestaciones comparados de las cuatro marcas de carpintería de aluminio en Bucarest.",
-      it: "Alumil, Aluprof, Cortizo o Reynaers? Prezzi e prestazioni a confronto tra i quattro marchi di serramenti in alluminio a Bucarest.",
+      ro: "Cât costă tâmplăria din aluminiu în 2026: Alumil S67 250–350 EUR/mp, S77 350–480 EUR/mp, cu termopan și montaj. Vs Aluprof, Cortizo, Reynaers.",
+      en: "What aluminium windows cost in 2026: Alumil S67 250–350 EUR/m², S77 350–480 EUR/m², with glass and installation. Vs Aluprof, Cortizo, Reynaers.",
+      de: "Was Aluminiumfenster 2026 kosten: Alumil S67 250–350 EUR/m², S77 350–480 EUR/m², mit Glas und Montage. Im Vergleich: Aluprof, Cortizo, Reynaers.",
+      fr: "Prix de la menuiserie alu en 2026 : Alumil S67 250–350 EUR/m², S77 350–480 EUR/m², vitrage et pose compris. Face à Aluprof, Cortizo, Reynaers.",
+      es: "Precio de la carpintería de aluminio 2026: Alumil S67 250–350 EUR/m², S77 350–480 EUR/m², vidrio e instalación. Frente a Aluprof, Cortizo, Reynaers.",
+      it: "Quanto costano gli infissi in alluminio nel 2026: Alumil S67 250–350 EUR/m², S77 350–480 EUR/m², vetro e posa. Contro Aluprof, Cortizo, Reynaers.",
     },
     keywords: 'preturi tamplarie aluminiu Bucuresti 2026, Alumil pret, Aluprof pret, Cortizo pret, Reynaers pret, comparatie sisteme aluminiu, fereastra aluminiu pret mp, Alumil vs Aluprof, tamplarie aluminiu Bucuresti',
     content: {
@@ -18744,12 +18810,12 @@ La variantele SG, profilul se vede doar la interior, iar din exterior rămân vi
 
 ## Prețuri orientative 2026
 
-Prețurile includ profilul, geamul termoizolant și montajul. Sunt în EUR, fără TVA.
+Prețurile includ profilul, geamul termoizolant și montajul. Sunt în EUR, plus TVA.
 
 | Configurație | Preț orientativ |
 |---|---|
-| Perete cortină standard (Reynaers CW 50 sau Alumil SMARTIA M50), geam dublu Low-E | 450–700 EUR/mp |
-| Geam triplu, umbrire integrată, variante semi-structurale sau structurale | ofertă pe proiect, de regulă peste 700 EUR/mp |
+| Perete cortină standard (Reynaers CW 50 sau Alumil SMARTIA M50), geam dublu Low-E | 200–500 EUR/mp + TVA |
+| Geam triplu, umbrire integrată, variante semi-structurale sau structurale | ofertă pe proiect, în partea de sus a intervalului, până la 500 EUR/mp + TVA |
 
 Prețul final depinde de suprafață, de modulul fațadei, de tipul de sticlă și de înălțimea clădirii. Oferta o trimitem în 48 de ore de la primirea planurilor.
 
@@ -18827,7 +18893,7 @@ Lucrăm cu Reynaers CW 50 și CW 60 și cu Alumil SMARTIA M50. CW 50 și SMARTIA
 
 ### Cât costă un perete cortină pentru o clădire de birouri?
 
-Un perete cortină standard, cu geam dublu Low-E și montaj, costă orientativ 450–700 EUR/mp, fără TVA. Geamul triplu, umbrirea integrată și variantele semi-structurale sau structurale se ofertează pe proiect și depășesc de regulă acest interval.
+Un perete cortină costă orientativ 200–500 EUR/mp + TVA, cu montaj. Varianta standard, cu geam dublu Low-E, e în partea de jos a intervalului; geamul triplu, umbrirea integrată și variantele semi-structurale sau structurale se ofertează pe proiect, spre limita de sus.
 
 ### Ce certificări de clădire verde pot susține pereții cortină?
 
@@ -18910,12 +18976,12 @@ In the SG variants the profile is visible only from the inside, while from the o
 
 ## Indicative prices for 2026
 
-Prices include the profile, the insulating glass and installation. They are in EUR, excluding VAT.
+Prices include the profile, the insulating glass and installation. They are in EUR, plus VAT.
 
 | Configuration | Indicative price |
 |---|---|
-| Standard curtain wall (Reynaers CW 50 or Alumil SMARTIA M50), double Low-E glazing | 450–700 EUR/m² |
-| Triple glazing, integrated shading, semi-structural or structural variants | quoted per project, usually above 700 EUR/m² |
+| Standard curtain wall (Reynaers CW 50 or Alumil SMARTIA M50), double Low-E glazing | 200–500 EUR/m² + VAT |
+| Triple glazing, integrated shading, semi-structural or structural variants | quoted per project, at the upper end of the range, up to 500 EUR/m² + VAT |
 
 The final price depends on the area, the facade module, the type of glass and the height of the building. We send the quote within 48 hours of receiving the drawings.
 
@@ -18993,7 +19059,7 @@ We work with Reynaers CW 50 and CW 60 and with Alumil SMARTIA M50. CW 50 and SMA
 
 ### How much does a curtain wall for an office building cost?
 
-A standard curtain wall with double Low-E glazing and installation costs an indicative 450–700 EUR/m², excluding VAT. Triple glazing, integrated shading and semi-structural or structural variants are quoted per project and usually go above this range.
+A curtain wall costs an indicative 200–500 EUR/m² + VAT, installed. The standard version with double Low-E glazing sits at the lower end of the range; triple glazing, integrated shading and semi-structural or structural variants are quoted per project, towards the upper end.
 
 ### Which green building certifications can curtain walls support?
 
@@ -19076,12 +19142,12 @@ Bei den SG-Varianten ist das Profil nur von innen sichtbar, von außen sieht man
 
 ## Richtpreise 2026
 
-Die Preise umfassen Profil, Isolierglas und Montage. Sie verstehen sich in EUR, ohne MwSt.
+Die Preise umfassen Profil, Isolierglas und Montage. Sie verstehen sich in EUR, zzgl. MwSt.
 
 | Konfiguration | Richtpreis |
 |---|---|
-| Standard-Vorhangfassade (Reynaers CW 50 oder Alumil SMARTIA M50), Zweifach-Low-E-Glas | 450–700 EUR/m² |
-| Dreifachglas, integrierter Sonnenschutz, halbstrukturelle oder strukturelle Varianten | Angebot je Projekt, meist über 700 EUR/m² |
+| Standard-Vorhangfassade (Reynaers CW 50 oder Alumil SMARTIA M50), Zweifach-Low-E-Glas | 200–500 EUR/m² zzgl. MwSt. |
+| Dreifachglas, integrierter Sonnenschutz, halbstrukturelle oder strukturelle Varianten | Angebot je Projekt, am oberen Ende des Bereichs, bis 500 EUR/m² zzgl. MwSt. |
 
 Der Endpreis hängt von Fläche, Fassadenraster, Glasart und Gebäudehöhe ab. Das Angebot senden wir innerhalb von 48 Stunden nach Erhalt der Pläne.
 
@@ -19159,7 +19225,7 @@ Wir arbeiten mit Reynaers CW 50 und CW 60 sowie mit Alumil SMARTIA M50. CW 50 un
 
 ### Was kostet eine Vorhangfassade für ein Bürogebäude?
 
-Eine Standard-Vorhangfassade mit Zweifach-Low-E-Glas und Montage kostet als Richtwert 450–700 EUR/m², ohne MwSt. Dreifachglas, integrierter Sonnenschutz und halbstrukturelle oder strukturelle Varianten werden je Projekt angeboten und liegen meist darüber.
+Eine Vorhangfassade kostet als Richtwert 200–500 EUR/m² zzgl. MwSt., montiert. Die Standardvariante mit Zweifach-Low-E-Glas liegt am unteren Ende des Bereichs; Dreifachglas, integrierter Sonnenschutz und halbstrukturelle oder strukturelle Varianten werden je Projekt angeboten und liegen am oberen Ende.
 
 ### Welche Zertifizierungen für nachhaltiges Bauen können Vorhangfassaden unterstützen?
 
@@ -19242,12 +19308,12 @@ Dans les variantes SG, le profilé n’est visible que de l’intérieur ; de l�
 
 ## Prix indicatifs 2026
 
-Les prix comprennent le profilé, le vitrage isolant et la pose. Ils sont en EUR, hors TVA.
+Les prix comprennent le profilé, le vitrage isolant et la pose. Ils sont en EUR HT.
 
 | Configuration | Prix indicatif |
 |---|---|
-| Mur-rideau standard (Reynaers CW 50 ou Alumil SMARTIA M50), double vitrage Low-E | 450–700 EUR/m² |
-| Triple vitrage, occultation intégrée, variantes semi-structurelles ou structurelles | devis par projet, en général au-delà de 700 EUR/m² |
+| Mur-rideau standard (Reynaers CW 50 ou Alumil SMARTIA M50), double vitrage Low-E | 200–500 EUR/m² HT |
+| Triple vitrage, occultation intégrée, variantes semi-structurelles ou structurelles | devis par projet, en haut de la fourchette, jusqu’à 500 EUR/m² HT |
 
 Le prix final dépend de la surface, de la trame de façade, du type de verre et de la hauteur du bâtiment. Nous envoyons le devis sous 48 heures après réception des plans.
 
@@ -19325,7 +19391,7 @@ Nous travaillons avec Reynaers CW 50 et CW 60 et avec Alumil SMARTIA M50. Le CW 
 
 ### Combien coûte un mur-rideau pour un immeuble de bureaux ?
 
-Un mur-rideau standard avec double vitrage Low-E et pose coûte à titre indicatif 450–700 EUR/m², hors TVA. Le triple vitrage, l’occultation intégrée et les variantes semi-structurelles ou structurelles font l’objet d’un devis par projet et dépassent en général cette fourchette.
+Un mur-rideau coûte à titre indicatif 200 à 500 EUR/m² HT, pose comprise. La version standard en double vitrage Low-E se situe en bas de la fourchette ; le triple vitrage, l’occultation intégrée et les variantes semi-structurelles ou structurelles font l’objet d’un devis par projet, vers le haut de la fourchette.
 
 ### Quelles certifications de bâtiment durable les murs-rideaux peuvent-ils soutenir ?
 
@@ -19408,12 +19474,12 @@ En las variantes SG el perfil solo se ve por dentro, y desde fuera quedan a la v
 
 ## Precios orientativos 2026
 
-Los precios incluyen el perfil, el vidrio aislante y la instalación. Están en EUR, sin IVA.
+Los precios incluyen el perfil, el vidrio aislante y la instalación. Están en EUR, más IVA.
 
 | Configuración | Precio orientativo |
 |---|---|
-| Muro cortina estándar (Reynaers CW 50 o Alumil SMARTIA M50), doble vidrio Low-E | 450–700 EUR/m² |
-| Triple vidrio, protección solar integrada, variantes semiestructurales o estructurales | presupuesto por proyecto, por lo general más de 700 EUR/m² |
+| Muro cortina estándar (Reynaers CW 50 o Alumil SMARTIA M50), doble vidrio Low-E | 200–500 EUR/m² + IVA |
+| Triple vidrio, protección solar integrada, variantes semiestructurales o estructurales | presupuesto por proyecto, en la parte alta del rango, hasta 500 EUR/m² + IVA |
 
 El precio final depende de la superficie, el módulo de fachada, el tipo de vidrio y la altura del edificio. Enviamos el presupuesto en 48 horas desde que recibimos los planos.
 
@@ -19491,7 +19557,7 @@ Trabajamos con Reynaers CW 50 y CW 60 y con Alumil SMARTIA M50. El CW 50 y el SM
 
 ### ¿Cuánto cuesta un muro cortina para un edificio de oficinas?
 
-Un muro cortina estándar con doble vidrio Low-E e instalación cuesta de forma orientativa 450–700 EUR/m², sin IVA. El triple vidrio, la protección solar integrada y las variantes semiestructurales o estructurales se presupuestan por proyecto y suelen superar ese intervalo.
+Un muro cortina cuesta de forma orientativa 200–500 EUR/m² + IVA, instalado. La versión estándar con doble vidrio Low-E está en la parte baja del rango; el triple vidrio, la protección solar integrada y las variantes semiestructurales o estructurales se presupuestan por proyecto, hacia la parte alta.
 
 ### ¿Qué certificaciones de edificio sostenible pueden respaldar los muros cortina?
 
@@ -19574,12 +19640,12 @@ Nelle varianti SG il profilo si vede solo dall’interno, mentre dall’esterno 
 
 ## Prezzi indicativi 2026
 
-I prezzi comprendono il profilo, il vetro isolante e la posa. Sono in EUR, IVA esclusa.
+I prezzi comprendono il profilo, il vetro isolante e la posa. Sono in EUR, più IVA.
 
 | Configurazione | Prezzo indicativo |
 |---|---|
-| Facciata continua standard (Reynaers CW 50 o Alumil SMARTIA M50), doppio vetro Low-E | 450–700 EUR/m² |
-| Triplo vetro, schermatura integrata, varianti semistrutturali o strutturali | preventivo per progetto, di solito oltre 700 EUR/m² |
+| Facciata continua standard (Reynaers CW 50 o Alumil SMARTIA M50), doppio vetro Low-E | 200–500 EUR/m² + IVA |
+| Triplo vetro, schermatura integrata, varianti semistrutturali o strutturali | preventivo per progetto, nella parte alta della fascia, fino a 500 EUR/m² + IVA |
 
 Il prezzo finale dipende dalla superficie, dal modulo di facciata, dal tipo di vetro e dall’altezza dell’edificio. Inviamo il preventivo entro 48 ore dal ricevimento dei disegni.
 
@@ -19657,7 +19723,7 @@ Lavoriamo con Reynaers CW 50 e CW 60 e con Alumil SMARTIA M50. CW 50 e SMARTIA M
 
 ### Quanto costa una facciata continua per un edificio per uffici?
 
-Una facciata continua standard con doppio vetro Low-E e posa costa indicativamente 450–700 EUR/m², IVA esclusa. Il triplo vetro, la schermatura integrata e le varianti semistrutturali o strutturali si quotano per progetto e di solito superano questo intervallo.
+Una facciata continua costa indicativamente 200–500 EUR/m² + IVA, posata. La versione standard con doppio vetro Low-E è nella parte bassa della fascia; il triplo vetro, la schermatura integrata e le varianti semistrutturali o strutturali si quotano per progetto, verso la parte alta.
 
 ### Quali certificazioni di edilizia sostenibile possono supportare le facciate continue?
 
@@ -25992,10 +26058,10 @@ Sisteme glisante liftant, ferestre panoramice, pergole cu tâmplărie, fațade p
 |---|---|
 | Tâmplărie aluminiu Alumil Smartia S67 | 250–400 EUR/mp |
 | Tâmplărie aluminiu Reynaers CS 77 | 400–600 EUR/mp |
-| Perete cortină Reynaers CW 50 / Alumil SMARTIA M50 | 450–700 EUR/mp |
-| Perete cortină semi-structural | ofertă pe proiect, de regulă peste 700 EUR/mp |
+| Perete cortină Reynaers CW 50 / Alumil SMARTIA M50 | 200–500 EUR/mp + TVA |
+| Perete cortină semi-structural | ofertă pe proiect, până la 500 EUR/mp + TVA |
 | Fațadă ventilată aluminiu + ACM | 180–320 EUR/mp |
-| Perete cortină structural | ofertă pe proiect, de regulă peste 700 EUR/mp |
+| Perete cortină structural | ofertă pe proiect, până la 500 EUR/mp + TVA |
 
 *Prețurile includ materiale, montaj și documentație CE. Transportul e inclus în București și Ilfov; în afara lor se taxează separat. Nu includ lucrări de pregătire structurală.*
 
@@ -26120,10 +26186,10 @@ Lift-and-slide systems, panoramic windows, pergolas with joinery, partial glass-
 |---|---|
 | Alumil Smartia S67 aluminium joinery | 250–400 EUR/sqm |
 | Reynaers CS 77 aluminium joinery | 400–600 EUR/sqm |
-| Reynaers CW 50 / Alumil SMARTIA M50 curtain wall | 450–700 EUR/sqm |
-| Semi-structural curtain wall | quoted per project, usually above 700 EUR/sqm |
+| Reynaers CW 50 / Alumil SMARTIA M50 curtain wall | 200–500 EUR/sqm + VAT |
+| Semi-structural curtain wall | quoted per project, up to 500 EUR/sqm + VAT |
 | Ventilated aluminium and ACM facade | 180–320 EUR/sqm |
-| Structural curtain wall | quoted per project, usually above 700 EUR/sqm |
+| Structural curtain wall | quoted per project, up to 500 EUR/sqm + VAT |
 
 *Prices include materials, installation and CE documentation. Transport is included in Bucharest and Ilfov; outside these areas it is charged separately. They exclude any structural preparation works.*
 
@@ -26246,10 +26312,10 @@ Hebe-Schiebe-Systeme, Panoramafenster, Pergolen mit Rahmenkonstruktion, teilweis
 |---|---|
 | Aluminiumfenster Alumil Smartia S67 | 250–400 EUR/m² |
 | Aluminiumfenster Reynaers CS 77 | 400–600 EUR/m² |
-| Vorhangfassade Reynaers CW 50 / Alumil SMARTIA M50 | 450–700 EUR/m² |
-| Halbstrukturelle Vorhangfassade | Angebot je Projekt, meist über 700 EUR/m² |
+| Vorhangfassade Reynaers CW 50 / Alumil SMARTIA M50 | 200–500 EUR/m² zzgl. MwSt. |
+| Halbstrukturelle Vorhangfassade | Angebot je Projekt, bis 500 EUR/m² zzgl. MwSt. |
 | Hinterlüftete Fassade Aluminium und ACM | 180–320 EUR/m² |
-| Strukturelle Vorhangfassade | Angebot je Projekt, meist über 700 EUR/m² |
+| Strukturelle Vorhangfassade | Angebot je Projekt, bis 500 EUR/m² zzgl. MwSt. |
 
 *Die Preise umfassen Material, Montage und CE-Dokumentation. Der Transport ist in Bukarest und Ilfov inbegriffen, außerhalb wird er separat berechnet. Nicht enthalten sind Vorarbeiten an der Tragkonstruktion.*
 
@@ -26372,10 +26438,10 @@ Systèmes levants-coulissants, baies panoramiques, pergolas avec menuiseries, fa
 |---|---|
 | Menuiserie aluminium Alumil Smartia S67 | 250–400 EUR/m² |
 | Menuiserie aluminium Reynaers CS 77 | 400–600 EUR/m² |
-| Mur-rideau Reynaers CW 50 / Alumil SMARTIA M50 | 450–700 EUR/m² |
-| Mur-rideau semi-structurel | devis par projet, en général au-delà de 700 EUR/m² |
+| Mur-rideau Reynaers CW 50 / Alumil SMARTIA M50 | 200–500 EUR/m² HT |
+| Mur-rideau semi-structurel | devis par projet, jusqu’à 500 EUR/m² HT |
 | Façade ventilée aluminium et ACM | 180–320 EUR/m² |
-| Mur-rideau structurel | devis par projet, en général au-delà de 700 EUR/m² |
+| Mur-rideau structurel | devis par projet, jusqu’à 500 EUR/m² HT |
 
 *Les prix comprennent les matériaux, la pose et la documentation CE. Le transport est inclus à Bucarest et dans l’Ilfov ; au-delà, il est facturé séparément. Ils excluent les travaux de préparation structurelle.*
 
@@ -26498,10 +26564,10 @@ Sistemas elevables-correderos, ventanales panorámicos, pérgolas con carpinter�
 |---|---|
 | Carpintería de aluminio Alumil Smartia S67 | 250–400 EUR/m² |
 | Carpintería de aluminio Reynaers CS 77 | 400–600 EUR/m² |
-| Muro cortina Reynaers CW 50 / Alumil SMARTIA M50 | 450–700 EUR/m² |
-| Muro cortina semiestructural | presupuesto por proyecto, por lo general más de 700 EUR/m² |
+| Muro cortina Reynaers CW 50 / Alumil SMARTIA M50 | 200–500 EUR/m² + IVA |
+| Muro cortina semiestructural | presupuesto por proyecto, hasta 500 EUR/m² + IVA |
 | Fachada ventilada de aluminio y ACM | 180–320 EUR/m² |
-| Muro cortina estructural | presupuesto por proyecto, por lo general más de 700 EUR/m² |
+| Muro cortina estructural | presupuesto por proyecto, hasta 500 EUR/m² + IVA |
 
 *Los precios incluyen materiales, instalación y documentación CE. El transporte está incluido en Bucarest e Ilfov; fuera de estas zonas se cobra aparte. No incluyen trabajos de preparación estructural.*
 
@@ -26624,10 +26690,10 @@ Sistemi alzanti scorrevoli, vetrate panoramiche, pergole con serramenti, facciat
 |---|---|
 | Serramenti in alluminio Alumil Smartia S67 | 250–400 EUR/m² |
 | Serramenti in alluminio Reynaers CS 77 | 400–600 EUR/m² |
-| Facciata continua Reynaers CW 50 / Alumil SMARTIA M50 | 450–700 EUR/m² |
-| Facciata continua semistrutturale | preventivo per progetto, di solito oltre 700 EUR/m² |
+| Facciata continua Reynaers CW 50 / Alumil SMARTIA M50 | 200–500 EUR/m² + IVA |
+| Facciata continua semistrutturale | preventivo per progetto, fino a 500 EUR/m² + IVA |
 | Facciata ventilata in alluminio e ACM | 180–320 EUR/m² |
-| Facciata continua strutturale | preventivo per progetto, di solito oltre 700 EUR/m² |
+| Facciata continua strutturale | preventivo per progetto, fino a 500 EUR/m² + IVA |
 
 *I prezzi comprendono materiali, posa e documentazione CE. Il trasporto è incluso a Bucarest e Ilfov; fuori da queste zone si paga a parte. Non comprendono i lavori di preparazione strutturale.*
 
@@ -29628,7 +29694,7 @@ Aluminiul se vopsește în orice culoare RAL prin **vopsire electostatică** (du
 | Glisantă 2 canaturi | 180×240 cm | 1.200–2.000 EUR |
 | Liftant-glisantă Alumil S700 | 300×240 cm | 3.500–6.000 EUR |
 | Pivot vilă | 120×280 cm | 4.000–8.000 EUR |
-| Perete cortină cu ușă integrată | Per mp | 400–700 EUR/mp |
+| Perete cortină cu ușă integrată | Per mp | 200–500 EUR/mp + TVA |
 
 *Prețurile includ profil, geam termoizolant, feronerie și [montaj profesional](/ro/servicii). Culori speciale RAL pot adăuga 5–15%.*
 
@@ -36873,12 +36939,12 @@ Neofort BIZ fornisce esclusivamente prodotti con marcatura CE e DoP completa. [R
       it: 'quanto-durano-le-finestre-pvc-quando-sostituirle',
     },
     seoTitle: {
-      ro: "Cât durează o fereastră PVC?",
-      en: "How long does a PVC window last?",
-      de: "Wie lange hält ein PVC-Fenster?",
+      ro: "Cât durează o fereastră PVC? 30–50 de ani",
+      en: "How long does a PVC window last? 30–50 years",
+      de: "Wie lange hält ein PVC-Fenster? 30–50 Jahre",
       fr: "Combien de temps dure une fenêtre PVC",
-      es: "Cuánto dura una ventana de PVC",
-      it: "Quanto dura una finestra in PVC",
+      es: "Cuánto dura una ventana de PVC: 30–50 años",
+      it: "Quanto dura una finestra in PVC: 30–50 anni",
     },
     date: '2026-06-02',
     author: 'Mihai Dănălache',
@@ -36907,12 +36973,12 @@ Neofort BIZ fornisce esclusivamente prodotti con marcatura CE e DoP completa. [R
       it: 'Quanto durano le finestre in PVC? Segnali di sostituzione + vita utile reale',
     },
     metaDesc: {
-      ro: "Cât durează în realitate o fereastră PVC și care sunt semnele că trebuie înlocuită. Ce se poate repara și de la ce punct nu mai merită.",
-      en: "How long a PVC window really lasts and the signs it needs replacing. What can still be repaired and the point where it no longer pays.",
-      de: "Wie lange ein PVC-Fenster wirklich hält und woran Sie den Austauschbedarf erkennen. Was sich reparieren lässt und ab wann es sich nicht mehr lohnt.",
-      fr: "Combien de temps dure réellement une fenêtre PVC et les signes qu’il faut la remplacer. Ce qui se répare et à partir de quand cela ne vaut plus.",
-      es: "Cuánto dura realmente una ventana de PVC y las señales de que hay que cambiarla. Qué se puede reparar y desde cuándo ya no compensa.",
-      it: "Quanto dura davvero una finestra in PVC e i segnali che va sostituita. Cosa si può riparare e da quando non conviene più.",
+      ro: "O fereastră PVC bună ține 30–50 de ani; feroneria 15–25, garniturile 10–15. Cele 7 semne că trebuie înlocuită și când merită doar reparată.",
+      en: "A good PVC window lasts 30–50 years; hardware 15–25, gaskets 10–15. The 7 signs it needs replacing and when a repair is enough.",
+      de: "Ein gutes PVC-Fenster hält 30–50 Jahre, Beschläge 15–25, Dichtungen 10–15. Die 7 Anzeichen für den Austausch und wann eine Reparatur reicht.",
+      fr: "Une bonne fenêtre PVC dure 30 à 50 ans ; quincaillerie 15–25, joints 10–15. Les 7 signes qu’il faut la remplacer et quand une réparation suffit.",
+      es: "Una buena ventana de PVC dura de 30 a 50 años; herrajes 15–25, juntas 10–15. Las 7 señales de que hay que cambiarla y cuándo basta con repararla.",
+      it: "Una buona finestra in PVC dura 30–50 anni; ferramenta 15–25, guarnizioni 10–15. I 7 segnali che va sostituita e quando basta ripararla.",
     },
     excerpt: {
       ro: 'Cât durează ferestrele PVC moderne și când este momentul să le înlocuiești? Ghid complet cu durata de viață reală pe componente, 7 semne clare de uzură, calculul rentabilității reparare vs înlocuire și sfaturi de mentenanță preventivă.',
@@ -36986,19 +37052,19 @@ Garniturile EPDM se uzează și se durificesc în 10–15 ani. Odată dure, nu m
 
 ## Cât costă înlocuirea ferestrelor PVC în 2026?
 
-| Tip fereastră | Dimensiune | Preț orientativ (fără montaj) |
+| Tip fereastră | Dimensiune | Preț orientativ (cu montaj standard) |
 |---|---|---|
 | Oscilo-batantă PVC Salamander bluEvolution 92, triplu | 80×120 cm | 230–345 EUR |
 | Oscilo-batantă PVC Salamander bluEvolution 92, triplu | 100×150 cm | 360–540 EUR |
 | Fereastră dublă PVC bluEvolution 92, triplu | 150×120 cm | 430–650 EUR |
 | Ușă balcon PVC, triplu | 80×210 cm | 405–605 EUR |
 
-*Prețuri fără TVA și fără montaj, calculate din prețurile pe metru pătrat ale bluEvolution 92 cu geam triplu; montajul se adaugă în ofertă*
+*Prețuri fără TVA, cu montaj standard, calculate din prețurile pe metru pătrat ale bluEvolution 92 cu geam triplu*
 
 **Calculul amortizării înlocuirii:**
 Apartament 50 m², 6 ferestre cu dublu vechi (Uw = 2,0) → înlocuire cu triplu Salamander 92 (Uw = 0,72):
 - Economie anuală: ~100 EUR/an la energie (la 0,12 EUR/kWh)
-- Cost total înlocuire 6 ferestre: ~1.700–2.600 EUR, fără montaj
+- Cost total înlocuire 6 ferestre: ~1.700–2.600 EUR, cu montaj standard
 - **Amortizare: peste 20 de ani** — dar confortul termic și fonic se îmbunătățesc instant
 
 ## Cum prelungești durata de viață a ferestrelor PVC
@@ -37099,19 +37165,19 @@ EPDM gaskets wear and harden within 10–15 years. Once hard they no longer seal
 
 ## What does replacing PVC windows cost in 2026?
 
-| Window type | Size | Indicative price (excluding installation) |
+| Window type | Size | Indicative price (with standard installation) |
 |---|---|---|
 | Tilt-and-turn PVC Salamander bluEvolution 92, triple | 80×120 cm | 230–345 EUR |
 | Tilt-and-turn PVC Salamander bluEvolution 92, triple | 100×150 cm | 360–540 EUR |
 | Double PVC window bluEvolution 92, triple | 150×120 cm | 430–650 EUR |
 | PVC balcony door, triple | 80×210 cm | 405–605 EUR |
 
-*Prices excluding VAT and installation, worked out from the per-square-metre prices of bluEvolution 92 with triple glazing; installation is added in the quote*
+*Prices excluding VAT, with standard installation, worked out from the per-square-metre prices of bluEvolution 92 with triple glazing*
 
 **Payback calculation for replacement:**
 A 50 m² apartment with 6 old double-glazed windows (Uw = 2.0), replaced with triple-glazed Salamander 92 (Uw = 0.72):
 - Annual saving: around 100 EUR per year on energy (at 0.12 EUR/kWh)
-- Total cost for 6 windows: around 1,700–2,600 EUR, excluding installation
+- Total cost for 6 windows: around 1,700–2,600 EUR, with standard installation
 - **Payback: more than 20 years** — but the thermal and acoustic comfort improve immediately
 
 ## How to extend the life of PVC windows
@@ -37209,19 +37275,19 @@ EPDM-Dichtungen verschleißen und härten in 10–15 Jahren aus. Einmal hart, di
 
 ## Was kostet der Austausch von PVC-Fenstern 2026?
 
-| Fenstertyp | Maß | Richtpreis (ohne Montage) |
+| Fenstertyp | Maß | Richtpreis (mit Standardmontage) |
 |---|---|---|
 | Dreh-Kipp PVC Salamander bluEvolution 92, Dreifachglas | 80×120 cm | 230–345 EUR |
 | Dreh-Kipp PVC Salamander bluEvolution 92, Dreifachglas | 100×150 cm | 360–540 EUR |
 | Zweiflügeliges PVC-Fenster bluEvolution 92, Dreifachglas | 150×120 cm | 430–650 EUR |
 | PVC-Balkontür, Dreifachglas | 80×210 cm | 405–605 EUR |
 
-*Preise ohne MwSt. und ohne Montage, berechnet aus den Quadratmeterpreisen von bluEvolution 92 mit Dreifachglas; die Montage kommt ins Angebot*
+*Preise ohne MwSt., mit Standardmontage, berechnet aus den Quadratmeterpreisen von bluEvolution 92 mit Dreifachglas*
 
 **Amortisationsrechnung für den Austausch:**
 Eine 50-m²-Wohnung mit 6 alten Zweifachfenstern (Uw = 2,0), ersetzt durch Dreifachverglasung Salamander 92 (Uw = 0,72):
 - Jährliche Ersparnis: rund 100 EUR pro Jahr an Energie (bei 0,12 EUR/kWh)
-- Gesamtkosten für 6 Fenster: rund 1.700–2.600 EUR, ohne Montage
+- Gesamtkosten für 6 Fenster: rund 1.700–2.600 EUR, mit Standardmontage
 - **Amortisation: über 20 Jahre** — der thermische und akustische Komfort verbessert sich jedoch sofort
 
 ## Wie Sie die Lebensdauer von PVC-Fenstern verlängern
@@ -37317,19 +37383,19 @@ Les joints EPDM s’usent et durcissent en 10 à 15 ans. Une fois durs, ils n’
 
 ## Combien coûte le remplacement des fenêtres PVC en 2026 ?
 
-| Type de fenêtre | Dimensions | Prix indicatif (hors pose) |
+| Type de fenêtre | Dimensions | Prix indicatif (pose standard comprise) |
 |---|---|---|
 | Oscillo-battante PVC Salamander bluEvolution 92, triple | 80×120 cm | 230 à 345 EUR |
 | Oscillo-battante PVC Salamander bluEvolution 92, triple | 100×150 cm | 360 à 540 EUR |
 | Fenêtre à deux vantaux PVC bluEvolution 92, triple | 150×120 cm | 430 à 650 EUR |
 | Porte-fenêtre PVC, triple | 80×210 cm | 405 à 605 EUR |
 
-*Prix hors TVA et hors pose, calculés à partir des prix au mètre carré du bluEvolution 92 en triple vitrage ; la pose s’ajoute dans le devis*
+*Prix hors TVA, pose standard comprise, calculés à partir des prix au mètre carré du bluEvolution 92 en triple vitrage*
 
 **Calcul d’amortissement du remplacement :**
 Un appartement de 50 m² avec 6 anciennes fenêtres à double vitrage (Uw = 2,0), remplacées par du triple Salamander 92 (Uw = 0,72) :
 - Économie annuelle : environ 100 EUR par an sur l’énergie (à 0,12 EUR/kWh)
-- Coût total pour 6 fenêtres : environ 1 700 à 2 600 EUR, hors pose
+- Coût total pour 6 fenêtres : environ 1 700 à 2 600 EUR, pose standard comprise
 - **Amortissement : plus de 20 ans** — mais le confort thermique et acoustique s’améliore immédiatement
 
 ## Comment prolonger la durée de vie des fenêtres PVC
@@ -37425,19 +37491,19 @@ Las juntas de EPDM se desgastan y endurecen en 10 a 15 años. Una vez duras, dej
 
 ## ¿Cuánto cuesta cambiar las ventanas de PVC en 2026?
 
-| Tipo de ventana | Medidas | Precio orientativo (sin instalación) |
+| Tipo de ventana | Medidas | Precio orientativo (con instalación estándar) |
 |---|---|---|
 | Oscilobatiente PVC Salamander bluEvolution 92, triple | 80×120 cm | 230 a 345 EUR |
 | Oscilobatiente PVC Salamander bluEvolution 92, triple | 100×150 cm | 360 a 540 EUR |
 | Ventana de dos hojas PVC bluEvolution 92, triple | 150×120 cm | 430 a 650 EUR |
 | Puerta de balcón PVC, triple | 80×210 cm | 405 a 605 EUR |
 
-*Precios sin IVA y sin instalación, calculados a partir de los precios por metro cuadrado del bluEvolution 92 con triple vidrio; la instalación se añade en el presupuesto*
+*Precios sin IVA, con instalación estándar, calculados a partir de los precios por metro cuadrado del bluEvolution 92 con triple vidrio*
 
 **Cálculo de amortización de la sustitución:**
 Un piso de 50 m² con 6 ventanas antiguas de doble vidrio (Uw = 2,0), sustituidas por triple Salamander 92 (Uw = 0,72):
 - Ahorro anual: unos 100 EUR al año en energía (a 0,12 EUR/kWh)
-- Coste total de las 6 ventanas: unos 1.700–2.600 EUR, sin instalación
+- Coste total de las 6 ventanas: unos 1.700–2.600 EUR, con instalación estándar
 - **Amortización: más de 20 años** — pero el confort térmico y acústico mejora de inmediato
 
 ## Cómo alargar la vida útil de las ventanas de PVC
@@ -37533,19 +37599,19 @@ Le guarnizioni in EPDM si usurano e induriscono in 10–15 anni. Una volta dure 
 
 ## Quanto costa sostituire le finestre in PVC nel 2026?
 
-| Tipo di finestra | Dimensioni | Prezzo indicativo (posa esclusa) |
+| Tipo di finestra | Dimensioni | Prezzo indicativo (con posa standard) |
 |---|---|---|
 | Anta-ribalta PVC Salamander bluEvolution 92, triplo | 80×120 cm | 230–345 EUR |
 | Anta-ribalta PVC Salamander bluEvolution 92, triplo | 100×150 cm | 360–540 EUR |
 | Finestra a due ante PVC bluEvolution 92, triplo | 150×120 cm | 430–650 EUR |
 | Porta-finestra PVC, triplo | 80×210 cm | 405–605 EUR |
 
-*Prezzi IVA esclusa e posa esclusa, calcolati dai prezzi al metro quadro del bluEvolution 92 con triplo vetro; la posa si aggiunge nel preventivo*
+*Prezzi IVA esclusa, con posa standard, calcolati dai prezzi al metro quadro del bluEvolution 92 con triplo vetro*
 
 **Calcolo dell’ammortamento della sostituzione:**
 Un appartamento di 50 m² con 6 vecchie finestre a doppio vetro (Uw = 2,0), sostituite con triplo Salamander 92 (Uw = 0,72):
 - Risparmio annuo: circa 100 EUR all’anno di energia (a 0,12 EUR/kWh)
-- Costo totale per 6 finestre: circa 1.700–2.600 EUR, posa esclusa
+- Costo totale per 6 finestre: circa 1.700–2.600 EUR, con posa standard
 - **Ammortamento: oltre 20 anni** — ma il comfort termico e acustico migliora subito
 
 ## Come allungare la vita delle finestre in PVC
@@ -38051,12 +38117,12 @@ Neofort BIZ fornisce e installa serramenti termoisolanti in PVC Salamander e all
     category: {ro:"Legislație",en:"Legislation",de:"Gesetzgebung",fr:"Législation",es:"Legislación",it:"Legislazione"},
     title: {ro:"Am nevoie de autorizație de construire ca să schimb ferestrele în 2026? Ce spune Legea 50/1991",en:"Do I need a building permit to replace windows in 2026? What Law 50/1991 says",de:"Brauche ich 2026 eine Baugenehmigung für den Fenstertausch? Was das Gesetz 50/1991 sagt",fr:"Ai-je besoin d’un permis de construire pour remplacer les fenêtres en 2026 ? Ce que dit la loi 50/1991",es:"¿Necesito permiso de construcción para cambiar las ventanas en 2026? Qué dice la ley 50/1991",it:"Ho bisogno di un permesso di costruire per sostituire le finestre nel 2026? Cosa dice la legge 50/1991"},
     metaDesc: {
-      ro: "Ai nevoie de autorizație ca să schimbi ferestrele? Legea 50/1991, excepția care se aplică în majoritatea cazurilor și amenda de până la 100.000 lei.",
-      en: "Do you need a building permit to replace windows? Law 50/1991, the exception that covers most cases, and fines of up to 100,000 lei.",
-      de: "Brauchen Sie eine Baugenehmigung für den Fenstertausch? Gesetz 50/1991, die Ausnahme für die meisten Fälle und Bußgelder bis 100.000 Lei.",
-      fr: "Faut-il un permis pour remplacer ses fenêtres ? La loi 50/1991, l’exception qui couvre la plupart des cas et les amendes jusqu’à 100 000 lei.",
-      es: "¿Hace falta licencia para cambiar las ventanas? La Ley 50/1991, la excepción que cubre la mayoría de casos y multas de hasta 100.000 lei.",
-      it: "Serve un permesso per sostituire le finestre? La legge 50/1991, l’eccezione che copre la maggior parte dei casi e sanzioni fino a 100.000 lei.",
+      ro: "Pe scurt: nu, dacă păstrezi forma și dimensiunile golului (Legea 50/1991). Când devine obligatorie și ce amendă riști: 1.000–100.000 lei.",
+      en: "Short answer: no, if you keep the shape and size of the opening (Law 50/1991). When a permit becomes mandatory and the fines: 1,000–100,000 lei.",
+      de: "Kurz gesagt: nein, wenn Form und Maße der Öffnung bleiben (Gesetz 50/1991). Wann die Genehmigung Pflicht wird und die Bußgelder: 1.000–100.000 Lei.",
+      fr: "En bref : non, si vous gardez la forme et les dimensions de la baie (loi 50/1991). Quand le permis est obligatoire et l’amende : 1 000–100 000 lei.",
+      es: "En resumen: no, si mantiene la forma y las medidas del hueco (Ley 50/1991). Cuándo es obligatoria la licencia y la multa: 1.000–100.000 lei.",
+      it: "In breve: no, se mantieni forma e misure del vano (legge 50/1991). Quando il permesso diventa obbligatorio e la sanzione: 1.000–100.000 lei.",
     },
     excerpt: {ro:"În majoritatea cazurilor, înlocuirea ferestrelor nu necesită autorizație de construire. Ghid clar despre când poți schimba ferestrele liber, când devine obligatorie autorizația, ce înseamnă modificarea fațadei și ce amenzi riști conform Legii 50/1991.",en:"In most cases, replacing windows does not require a building permit. A clear guide on when you can replace windows freely, when the permit becomes mandatory, what façade modification means and what fines you risk under Law 50/1991.",de:"In den meisten Fällen erfordert der Fenstertausch keine Baugenehmigung. Ein klarer Leitfaden, wann Sie Fenster frei austauschen können, wann die Genehmigung verpflichtend wird und welche Bußgelder Sie nach Gesetz 50/1991 riskieren.",fr:"Dans la plupart des cas, le remplacement des fenêtres ne nécessite pas de permis de construire. Un guide clair sur quand vous pouvez remplacer les fenêtres librement, quand le permis devient obligatoire et quelles amendes vous risquez selon la loi 50/1991.",es:"En la mayoría de los casos, la sustitución de ventanas no requiere permiso de construcción. Una guía clara sobre cuándo puedes cambiar las ventanas libremente, cuándo es obligatorio el permiso y qué multas arriesgas según la ley 50/1991.",it:"Nella maggior parte dei casi, la sostituzione delle finestre non richiede un permesso di costruire. Una guida chiara su quando puoi sostituire le finestre liberamente, quando il permesso diventa obbligatorio e quali multe rischi secondo la legge 50/1991."},
     dateDisplay: {ro:"16 iunie 2026",en:"June 16 2026",de:"16. Juni 2026",fr:"16 juin 2026",es:"16 jun 2026",it:"16 giu 2026"},
