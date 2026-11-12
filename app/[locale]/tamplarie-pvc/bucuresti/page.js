@@ -22,7 +22,7 @@ const UI = {
     label: 'Tâmplărie PVC · București',
     parent: 'Tâmplărie PVC',
     h1: 'Tâmplărie PVC București — Furnizare și Montaj Salamander în Sectoarele 1–6',
-    sub: 'Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov. Consultanță tehnică, montaj certificat nZEB, garanție 5 ani.',
+    sub: 'Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov. Consultanță tehnică, montaj pentru case nZEB, garanție 5 ani.',
     intro: 'Neofort BIZ este prezent în București din 2005, cu sediul în Sectorul 1 (Str. Theodor Aman Pictor 11). Furnizăm și montăm tâmplărie PVC Salamander în toate cele 6 sectoare ale Capitalei și în zona metropolitană Ilfov — cu echipe proprii de montaj, consultanți tehnici și servicii complete de la măsurători până la garanție post-montaj.',
     zones_title: 'Zone de acoperire în București și Ilfov',
     zones: [
@@ -71,7 +71,7 @@ const UI = {
     label: 'PVC Windows · Bucharest',
     parent: 'PVC Windows',
     h1: 'PVC Windows Bucharest — Salamander Supply and Installation in all Districts',
-    sub: 'Neofort BIZ supplies and installs Salamander PVC windows in Bucharest and Ilfov. Technical consultation, nZEB certified installation, 5-year warranty.',
+    sub: 'Neofort BIZ supplies and installs Salamander PVC windows in Bucharest and Ilfov. Technical consultation, installation for nZEB homes, 5-year warranty.',
     intro: 'Neofort BIZ has been present in Bucharest since 2005, headquartered in District 1 (Str. Theodor Aman Pictor 11). We supply and install Salamander PVC windows across all 6 districts of the capital and the Ilfov metropolitan area — with our own installation teams, technical consultants and complete services from measurements to post-installation warranty.',
     zones_title: 'Coverage areas in Bucharest and Ilfov',
     zones: [
@@ -120,7 +120,7 @@ const UI = {
     label: 'Kunststofffenster PVC · Bukarest',
     parent: 'Kunststofffenster PVC',
     h1: 'Kunststofffenster Bukarest — Salamander Lieferung und Montage in allen Bezirken',
-    sub: 'Neofort BIZ liefert und montiert Salamander PVC-Fenster in Bukarest und Ilfov. Technische Beratung, nZEB-zertifizierter Einbau, 5 Jahre Garantie.',
+    sub: 'Neofort BIZ liefert und montiert Salamander PVC-Fenster in Bukarest und Ilfov. Technische Beratung, Einbau für nZEB-Häuser, 5 Jahre Garantie.',
     intro: 'Neofort BIZ ist seit 2005 in Bukarest präsent, mit Sitz im 1. Bezirk (Str. Theodor Aman Pictor 11). Wir liefern und montieren Salamander PVC-Fenster in allen 6 Bezirken der Hauptstadt und der Metropolregion Ilfov — mit eigenen Montageteams, technischen Beratern und Komplettservice von Aufmaß bis zur Montagegarantie.',
     zones_title: 'Einsatzgebiete in Bukarest und Ilfov',
     zones: [
@@ -169,7 +169,7 @@ const UI = {
     label: 'Menuiserie PVC · Bucarest',
     parent: 'Menuiserie PVC',
     h1: 'Menuiserie PVC Bucarest — Fourniture et Pose Salamander dans tous les Arrondissements',
-    sub: 'Neofort BIZ fournit et pose la menuiserie PVC Salamander à Bucarest et Ilfov. Conseil technique, pose certifiée nZEB, garantie 5 ans.',
+    sub: 'Neofort BIZ fournit et pose la menuiserie PVC Salamander à Bucarest et Ilfov. Conseil technique, pose pour maisons nZEB, garantie 5 ans.',
     intro: "Neofort BIZ est présent à Bucarest depuis 2005, avec son siège dans le 1er arrondissement (Str. Theodor Aman Pictor 11). Nous fournissons et posons la menuiserie PVC Salamander dans les 6 arrondissements de la capitale et la zone métropolitaine d'Ilfov — avec nos propres équipes de pose, conseillers techniques et services complets du métrage à la garantie post-pose.",
     zones_title: "Zones d'intervention à Bucarest et Ilfov",
     zones: [
@@ -218,7 +218,7 @@ const UI = {
     label: 'Carpintería PVC · Bucarest',
     parent: 'Carpintería PVC',
     h1: 'Carpintería PVC Bucarest — Suministro e Instalación Salamander en todos los Distritos',
-    sub: 'Neofort BIZ suministra e instala carpintería PVC Salamander en Bucarest e Ilfov. Asesoramiento técnico, instalación certificada nZEB, garantía 5 años.',
+    sub: 'Neofort BIZ suministra e instala carpintería PVC Salamander en Bucarest e Ilfov. Asesoramiento técnico, instalación para casas nZEB, garantía 5 años.',
     intro: 'Neofort BIZ está presente en Bucarest desde 2005, con sede en el Distrito 1 (Str. Theodor Aman Pictor 11). Suministramos e instalamos carpintería PVC Salamander en los 6 distritos de la capital y la zona metropolitana de Ilfov — con nuestros propios equipos de instalación, consultores técnicos y servicios completos desde las mediciones hasta la garantía post-instalación.',
     zones_title: 'Zonas de cobertura en Bucarest e Ilfov',
     zones: [
@@ -267,7 +267,7 @@ const UI = {
     label: 'Infissi PVC · Bucarest',
     parent: 'Infissi PVC',
     h1: 'Infissi PVC Bucarest — Fornitura e Posa Salamander in tutti i Quartieri',
-    sub: 'Neofort BIZ fornisce e posa infissi PVC Salamander a Bucarest e Ilfov. Consulenza tecnica, posa certificata nZEB, garanzia 5 anni.',
+    sub: 'Neofort BIZ fornisce e posa infissi PVC Salamander a Bucarest e Ilfov. Consulenza tecnica, posa per case nZEB, garanzia 5 anni.',
     intro: "Neofort BIZ è presente a Bucarest dal 2005, con sede nel Distretto 1 (Str. Theodor Aman Pictor 11). Forniamo e posiamo infissi PVC Salamander in tutti e 6 i quartieri della capitale e nella zona metropolitana di Ilfov — con squadre di posa proprie, consulenti tecnici e servizi completi dal rilievo alla garanzia post-posa.",
     zones_title: 'Zone di copertura a Bucarest e Ilfov',
     zones: [

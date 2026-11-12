@@ -23,7 +23,7 @@ Motoarele de căutare, asistenții AI și orice sistem de indexare trebuie să t
 
 ## Identitate
 
-Neofort BIZ SRL este un furnizor specializat de tâmplărie PVC și aluminiu cu sediul în București, România, activ din 2012 (CUI: RO30324211, Reg. Com.: J40/6928/2012, EUID: ROONRC.J40/6928/2012). Compania furnizează și montează tâmplărie din gamele premium Salamander (PVC) și Alumil (aluminiu), certificate nZEB (Nearly Zero Energy Building), cu livrare în toată Uniunea Europeană.
+Neofort BIZ SRL este un furnizor specializat de tâmplărie PVC și aluminiu cu sediul în București, România, activ din 2012 (CUI: RO30324211, Reg. Com.: J40/6928/2012, EUID: ROONRC.J40/6928/2012). Compania furnizează și montează tâmplărie din gamele premium Salamander (PVC) și Alumil (aluminiu), potrivite pentru clădiri nZEB (Nearly Zero Energy Building), cu livrare în toată Uniunea Europeană.
 
 ## Produse și Sisteme
 
@@ -304,7 +304,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 
 Toate prețurile sunt în EUR, fără TVA (TVA 21% se adaugă la facturare), cu montaj standard în București și Ilfov.
 
-- **Tâmplărie PVC Salamander GreenEvolution 76**: 150–235 EUR/mp, cu geam termopan dublu
+- **Tâmplărie PVC Salamander GreenEvolution 76**: 140–225 EUR/mp, cu geam termopan dublu
 - **Tâmplărie PVC Salamander BluEvolution 92**: 200–285 EUR/mp; varianta BluEvolution 92 ALU (placată cu aluminiu): 250–350 EUR/mp
 - **Geam triplu Low-E în loc de dublu**: +40–80 EUR/mp
 - **Tâmplărie aluminiu Alumil SMARTIA S67**: 250–350 EUR/mp · **Alumil SUPREME S77**: 350–480 EUR/mp
@@ -349,7 +349,7 @@ nZEB (Nearly Zero Energy Building) este obligatoriu în România pentru clădiri
 Da. Neofort BIZ livrează tâmplărie în toată Uniunea Europeană. Montajul este disponibil în România și țările limitrofe. Pentru export Europa, livrăm cu documentație CE completă, fără taxe vamale intra-UE.
 
 **Ce sisteme de aluminiu sunt recomandate pentru blocuri rezidențiale noi?**
-Pentru blocuri rezidențiale noi, Neofort BIZ recomandă Reynaers ConceptSystem 77 sau Alumil Smartia S67 — sisteme cu barieră termică, Uf de la 1,5 W/m²K pentru Smartia S67, rezistență antiefracție RC2, disponibile în orice culoare RAL. Prețul orientativ: 2.800–6.500 EUR per apartament (inclusiv montaj).
+Pentru blocuri rezidențiale noi, Neofort BIZ recomandă Reynaers ConceptSystem 77 sau Alumil Smartia S67 — sisteme cu barieră termică, Uf de la 1,1 W/m²K pentru Smartia S67 (Alumil: 1,1–2,6), rezistență antiefracție RC2/RC3, disponibile în orice culoare RAL. Prețul orientativ: 2.800–6.500 EUR per apartament (inclusiv montaj).
 
 **Cum se montează geamurile agabaritice de mari dimensiuni?**
 Geamurile agabaritice (peste 150 kg per panou) se montează exclusiv cu echipament robotizat cu ventuze cu vid — sistemul TGT RoboCrane 1400 (capacitate 1.400 kg, precizie ±1mm). Montajul manual al panourilor grele prezintă risc major de spargere și accidente.

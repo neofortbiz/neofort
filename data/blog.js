@@ -6138,7 +6138,7 @@ Neofort BIZ furnizează și montează termopane cu izolație avansată în **toa
 
 ---
 
-Neofort BIZ — distribuitor autorizat Salamander și Alumil, montaj nZEB certificat în București și Ilfov. [Solicită ofertă](/ro/contact). Descoperă [gama de ferestre PVC](/ro/tamplarie-pvc) pe care o oferim.
+Neofort BIZ — distribuitor autorizat Salamander și Alumil, montaj pentru case nZEB în București și Ilfov. [Solicită ofertă](/ro/contact). Descoperă [gama de ferestre PVC](/ro/tamplarie-pvc) pe care o oferim.
 
 ## Întrebări frecvente
 
@@ -6226,7 +6226,7 @@ Neofort BIZ supplies and installs windows with advanced insulation in **all sect
 
 ---
 
-Neofort BIZ — authorised Salamander and Alumil distributor, nZEB-certified installation in Bucharest and Ilfov. [Request a quote](/en/contact). Learn more about the [Salamander PVC systems](/en/pvc-windows) we offer.
+Neofort BIZ — authorised Salamander and Alumil distributor, installation for nZEB homes in Bucharest and Ilfov. [Request a quote](/en/contact). Learn more about the [Salamander PVC systems](/en/pvc-windows) we offer.
 
 ## Frequently Asked Questions
 
@@ -6310,7 +6310,7 @@ Neofort BIZ liefert und montiert Fenster mit erweiterter Dämmung in **allen Sta
 
 ---
 
-Neofort BIZ — autorisierter Salamander- und Alumil-Händler, nZEB-zertifizierter Einbau in Bukarest und Ilfov. [Persönliches Angebot anfordern](/de/kontakt). Erfahren Sie mehr über die [Salamander-PVC-Systeme](/de/kunststofffenster-pvc), die wir anbieten.
+Neofort BIZ — autorisierter Salamander- und Alumil-Händler, Einbau für nZEB-Häuser in Bukarest und Ilfov. [Persönliches Angebot anfordern](/de/kontakt). Erfahren Sie mehr über die [Salamander-PVC-Systeme](/de/kunststofffenster-pvc), die wir anbieten.
 
 ## Häufig gestellte Fragen
 
@@ -6390,7 +6390,7 @@ Rupture thermique 40 mm, Uf à partir de 0,86 W/(m²K) au profilé — avec trip
 
 ---
 
-Neofort BIZ — distributeur agréé Salamander et Alumil, pose nZEB certifiée à Bucarest et Ilfov. [Demander un devis personnalisé](/fr/contact). En savoir plus sur les [systèmes PVC Salamander](/fr/menuiserie-pvc) que nous proposons.
+Neofort BIZ — distributeur agréé Salamander et Alumil, pose pour maisons nZEB à Bucarest et Ilfov. [Demander un devis personnalisé](/fr/contact). En savoir plus sur les [systèmes PVC Salamander](/fr/menuiserie-pvc) que nous proposons.
 
 ## Questions fréquentes
 
@@ -6470,7 +6470,7 @@ Rotura térmica 40 mm, Uf desde 0,86 W/(m²K) en el perfil — con triple acrist
 
 ---
 
-Neofort BIZ — distribuidor autorizado Salamander y Alumil, instalación nZEB certificada en Bucarest e Ilfov. [Solicitar presupuesto personalizado](/es/contacto). Más información sobre los [sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos.
+Neofort BIZ — distribuidor autorizado Salamander y Alumil, instalación para casas nZEB en Bucarest e Ilfov. [Solicitar presupuesto personalizado](/es/contacto). Más información sobre los [sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos.
 
 ## Preguntas frecuentes
 
@@ -6550,7 +6550,7 @@ Taglio termico 40 mm, Uf a partire da 0,86 W/(m²K) al profilo — con triplo ve
 
 ---
 
-Neofort BIZ — distributore autorizzato Salamander e Alumil, installazione nZEB certificata a Bucarest e Ilfov. [Richiedi preventivo personalizzato](/it/contatti). Scopri di più sui [sistemi PVC Salamander](/it/infissi-pvc) che offriamo.
+Neofort BIZ — distributore autorizzato Salamander e Alumil, installazione per case nZEB a Bucarest e Ilfov. [Richiedi preventivo personalizzato](/it/contatti). Scopri di più sui [sistemi PVC Salamander](/it/infissi-pvc) che offriamo.
 
 ## Domande frequenti
 
@@ -8038,7 +8038,7 @@ Precadrul Blaugelb Triotherm Plus se montează înainte de fereastră și creeaz
 
 ---
 
-Neofort BIZ montează tâmplărie Salamander cu echipe proprii certificate nZEB, în București și Ilfov. [Trimite-ne datele lucrării](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [precadrele Blaugelb Triotherm+](/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus) și [pervazurile PVC și glafurile din aluminiu](/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu). Pagini utile: [pervazurile PVC și glafurile din aluminiu](/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu) și [despre Neofort BIZ](/ro/despre).
+Neofort BIZ montează tâmplărie Salamander cu echipe proprii de montaj, în București și Ilfov. [Trimite-ne datele lucrării](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [precadrele Blaugelb Triotherm+](/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus) și [pervazurile PVC și glafurile din aluminiu](/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu). Pagini utile: [pervazurile PVC și glafurile din aluminiu](/ro/accesorii/pervazuri-interior-pvc-glafuri-exterior-aluminiu) și [despre Neofort BIZ](/ro/despre).
 `,
 
       en: `## Why Salamander Window Installation Matters So Much
@@ -8120,7 +8120,7 @@ Always with on-site measurements, not approximate dimensions. The technician mea
 
 ---
 
-Neofort BIZ installs Salamander joinery with its own nZEB-certified teams in Bucharest and Ilfov. [Send us the project details](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Useful pages: [Blaugelb Triotherm+ precasings](/en/nzeb-systems/blaugelb-triotherm-plus-precasings) and [PVC windowsills and aluminium cills](/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills). Useful pages: [PVC windowsills and aluminium cills](/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills) and [about Neofort BIZ](/en/about).
+Neofort BIZ installs Salamander joinery with its own installation teams in Bucharest and Ilfov. [Send us the project details](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Useful pages: [Blaugelb Triotherm+ precasings](/en/nzeb-systems/blaugelb-triotherm-plus-precasings) and [PVC windowsills and aluminium cills](/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills). Useful pages: [PVC windowsills and aluminium cills](/en/accessories/interior-pvc-windowsills-exterior-aluminium-sills) and [about Neofort BIZ](/en/about).
 `,
 
       de: `## Warum die Montage von Salamander-Fenstern so wichtig ist
@@ -8201,7 +8201,7 @@ Immer mit Vor-Ort-Messungen, nicht mit Näherungsmaßen. Der Techniker misst die
 
 ---
 
-Neofort BIZ montiert Salamander-Fenster mit eigenen nZEB-zertifizierten Teams in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc). Nützliche Seiten: [Blaugelb Triotherm+ RAL-Montagesystem](/de/nzeb-systeme/blaugelb-triotherm-plus-vorfenster) und [PVC-Innenfensterbänke und Aluminium-Außenfensterbänke](/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium). Nützliche Seiten: [PVC-Innenfensterbänke und Aluminium-Außenfensterbänke](/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium) und [Über Neofort BIZ](/de/ueber-uns).
+Neofort BIZ montiert Salamander-Fenster mit eigenen Montageteams in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc). Nützliche Seiten: [Blaugelb Triotherm+ RAL-Montagesystem](/de/nzeb-systeme/blaugelb-triotherm-plus-vorfenster) und [PVC-Innenfensterbänke und Aluminium-Außenfensterbänke](/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium). Nützliche Seiten: [PVC-Innenfensterbänke und Aluminium-Außenfensterbänke](/de/zubehoer/innenfensterbaenke-pvc-aussenfensterbaenke-aluminium) und [Über Neofort BIZ](/de/ueber-uns).
 `,
 
       fr: `## Pourquoi la pose des fenêtres Salamander est-elle si importante ?
@@ -8282,7 +8282,7 @@ Toujours par des mesures sur place, pas des dimensions approximatives. Le techni
 
 ---
 
-Neofort BIZ pose des menuiseries Salamander avec ses propres équipes certifiées nZEB, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du chantier](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc). Pages utiles : [les précadres Blaugelb Triotherm+](/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus) et [les appuis de fenêtre PVC et aluminium](/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium). Pages utiles : [les appuis de fenêtre PVC et aluminium](/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium) et [à propos de Neofort BIZ](/fr/a-propos).
+Neofort BIZ pose des menuiseries Salamander avec ses propres équipes de pose, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du chantier](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc). Pages utiles : [les précadres Blaugelb Triotherm+](/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus) et [les appuis de fenêtre PVC et aluminium](/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium). Pages utiles : [les appuis de fenêtre PVC et aluminium](/fr/accessoires/appuis-fenetre-interieurs-pvc-exterieurs-aluminium) et [à propos de Neofort BIZ](/fr/a-propos).
 `,
 
       es: `## Por qué la instalación de ventanas Salamander importa tanto
@@ -8363,7 +8363,7 @@ Siempre con mediciones in situ, no con dimensiones aproximadas. El técnico mide
 
 ---
 
-Neofort BIZ instala carpintería Salamander con equipos propios certificados nZEB en Bucarest e Ilfov. [Envíenos los datos de la obra](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc). Páginas útiles: [los premarcos Blaugelb Triotherm+](/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus) y [los alféizares de PVC y los vierteaguas de aluminio](/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio). Páginas útiles: [los alféizares de PVC y los vierteaguas de aluminio](/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio) y [sobre Neofort BIZ](/es/sobre-nosotros).
+Neofort BIZ instala carpintería Salamander con equipos propios de instalación en Bucarest e Ilfov. [Envíenos los datos de la obra](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería PVC](/es/carpinteria-pvc). Páginas útiles: [los premarcos Blaugelb Triotherm+](/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus) y [los alféizares de PVC y los vierteaguas de aluminio](/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio). Páginas útiles: [los alféizares de PVC y los vierteaguas de aluminio](/es/accesorios/alfeizares-interiores-pvc-exteriores-aluminio) y [sobre Neofort BIZ](/es/sobre-nosotros).
 `,
 
       it: `## Perché l'installazione delle finestre Salamander è così importante
@@ -8444,7 +8444,7 @@ Sempre con misurazioni in loco, non con dimensioni approssimative. Il tecnico mi
 
 ---
 
-Neofort BIZ posa serramenti Salamander con squadre proprie certificate nZEB a Bucarest e nell’Ilfov. [Inviateci i dati del cantiere](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc). Pagine utili: [i precontrotelai Blaugelb Triotherm+](/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus) e [i davanzali in PVC e in alluminio](/it/accessori/davanzali-interni-pvc-esterni-alluminio). Pagine utili: [i davanzali in PVC e in alluminio](/it/accessori/davanzali-interni-pvc-esterni-alluminio) e [chi siamo](/it/chi-siamo).
+Neofort BIZ posa serramenti Salamander con squadre di posa proprie a Bucarest e nell’Ilfov. [Inviateci i dati del cantiere](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma PVC](/it/infissi-pvc). Pagine utili: [i precontrotelai Blaugelb Triotherm+](/it/sistemi-nzeb/pre-telai-blaugelb-triotherm-plus) e [i davanzali in PVC e in alluminio](/it/accessori/davanzali-interni-pvc-esterni-alluminio). Pagine utili: [i davanzali in PVC e in alluminio](/it/accessori/davanzali-interni-pvc-esterni-alluminio) e [chi siamo](/it/chi-siamo).
 `,
     },
   },
@@ -8524,7 +8524,7 @@ Neofort BIZ lucrează cu două game Salamander:
 
 | Profil | Camere | Adâncime | Preț orientativ | Utilizare recomandată |
 |---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/mp | Locuințe standard, renovări |
+| **greenEvolution 76** | 5 (6) | 76 mm | 140–225 EUR/mp | Locuințe standard, renovări |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/mp | Case nZEB și pasive, izolare maximă |
 
 Prețurile pe metru pătrat sunt cele de pe [pagina de prețuri a tâmplăriei PVC](/ro/tamplarie-pvc/preturi): includ profilul, feroneria standard, geamul dublu și montajul standard, fără TVA.
@@ -8625,7 +8625,7 @@ Neofort BIZ works with two Salamander ranges:
 
 | Profile | Chambers | Depth | Indicative price | Recommended use |
 |---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Standard homes, renovations |
+| **greenEvolution 76** | 5 (6) | 76 mm | 140–225 EUR/m² | Standard homes, renovations |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | nZEB and passive houses, maximum insulation |
 
 The per-square-metre prices are those on the [PVC windows price page](/en/pvc-windows/prices): they include the profile, standard hardware, double glazing and standard installation, excluding VAT.
@@ -8726,7 +8726,7 @@ Neofort BIZ arbeitet mit zwei Salamander-Serien:
 
 | Profil | Kammern | Bautiefe | Richtpreis | Empfohlener Einsatz |
 |---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Standardwohnungen, Sanierungen |
+| **greenEvolution 76** | 5 (6) | 76 mm | 140–225 EUR/m² | Standardwohnungen, Sanierungen |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | nZEB- und Passivhäuser, maximale Dämmung |
 
 Die Quadratmeterpreise stammen von der [Preisseite für Kunststofffenster](/de/kunststofffenster-pvc/preise): Sie enthalten Profil, Standardbeschlag, Zweifachverglasung und Standardmontage, ohne MwSt.
@@ -8827,7 +8827,7 @@ Neofort BIZ travaille avec deux gammes Salamander :
 
 | Profilé | Chambres | Profondeur | Prix indicatif | Usage recommandé |
 |---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Logements standard, rénovations |
+| **greenEvolution 76** | 5 (6) | 76 mm | 140–225 EUR/m² | Logements standard, rénovations |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | Maisons nZEB et passives, isolation maximale |
 
 Les prix au mètre carré sont ceux de la [page des prix de la menuiserie PVC](/fr/menuiserie-pvc/prix) : ils comprennent le profilé, la quincaillerie standard, le double vitrage et la pose standard, hors TVA.
@@ -8928,7 +8928,7 @@ Neofort BIZ trabaja con dos gamas Salamander:
 
 | Perfil | Cámaras | Profundidad | Precio orientativo | Uso recomendado |
 |---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Viviendas estándar, reformas |
+| **greenEvolution 76** | 5 (6) | 76 mm | 140–225 EUR/m² | Viviendas estándar, reformas |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | Casas nZEB y pasivas, aislamiento máximo |
 
 Los precios por metro cuadrado son los de la [página de precios de la carpintería PVC](/es/carpinteria-pvc/precios): incluyen el perfil, los herrajes estándar, el doble acristalamiento y la instalación estándar, sin IVA.
@@ -9029,7 +9029,7 @@ Neofort BIZ lavora con due gamme Salamander:
 
 | Profilo | Camere | Profondità | Prezzo indicativo | Uso consigliato |
 |---|---|---|---|---|
-| **greenEvolution 76** | 5 (6) | 76 mm | 150–235 EUR/m² | Abitazioni standard, ristrutturazioni |
+| **greenEvolution 76** | 5 (6) | 76 mm | 140–225 EUR/m² | Abitazioni standard, ristrutturazioni |
 | **bluEvolution 92** | 6 | 92 mm | 200–285 EUR/m² | Case nZEB e passive, isolamento massimo |
 
 I prezzi al metro quadro sono quelli della [pagina dei prezzi degli infissi in PVC](/it/infissi-pvc/prezzi): comprendono profilo, ferramenta standard, doppio vetro e posa standard, IVA esclusa.
@@ -9783,12 +9783,12 @@ Neofort BIZ posa pergole con telo e automazione Somfy a Bucarest e Ilfov. Scopri
       it: 'BluEvolution 92 o GreenEvolution 76? Confronto su isolamento termico, acustico, design e costo.',
     },
     metaDesc: {
-      ro: "Salamander BluEvolution 92 sau GreenEvolution 76? 92 vs 76 mm, 6 vs 5 camere, Uw de la 0,70 vs 0,73, de la 200 vs 150 EUR/mp. Când merită fiecare.",
-      en: "Salamander BluEvolution 92 or GreenEvolution 76? 92 vs 76 mm, 6 vs 5 chambers, Uw from 0.70 vs 0.73, from 200 vs 150 EUR/m². When each one pays off.",
-      de: "Salamander BluEvolution 92 oder GreenEvolution 76? 92 gegen 76 mm, 6 gegen 5 Kammern, Uw ab 0,70 gegen 0,73, ab 200 gegen 150 EUR/m². Was sich lohnt.",
-      fr: "Salamander BluEvolution 92 ou GreenEvolution 76 ? 92 contre 76 mm, 6 contre 5 chambres, Uw dès 0,70 contre 0,73, dès 200 contre 150 EUR/m².",
-      es: "¿Salamander BluEvolution 92 o GreenEvolution 76? 92 frente a 76 mm, 6 frente a 5 cámaras, Uw desde 0,70 frente a 0,73, desde 200 frente a 150 EUR/m².",
-      it: "Salamander BluEvolution 92 o GreenEvolution 76? 92 contro 76 mm, 6 contro 5 camere, Uw da 0,70 contro 0,73, da 200 contro 150 EUR/m². Quale conviene.",
+      ro: "Salamander BluEvolution 92 sau GreenEvolution 76? 92 vs 76 mm, 6 vs 5 camere, Uw de la 0,70 vs 0,73, de la 200 vs 140 EUR/mp. Când merită fiecare.",
+      en: "Salamander BluEvolution 92 or GreenEvolution 76? 92 vs 76 mm, 6 vs 5 chambers, Uw from 0.70 vs 0.73, from 200 vs 140 EUR/m². When each one pays off.",
+      de: "Salamander BluEvolution 92 oder GreenEvolution 76? 92 gegen 76 mm, 6 gegen 5 Kammern, Uw ab 0,70 gegen 0,73, ab 200 gegen 140 EUR/m². Was sich lohnt.",
+      fr: "Salamander BluEvolution 92 ou GreenEvolution 76 ? 92 contre 76 mm, 6 contre 5 chambres, Uw dès 0,70 contre 0,73, dès 200 contre 140 EUR/m².",
+      es: "¿Salamander BluEvolution 92 o GreenEvolution 76? 92 frente a 76 mm, 6 frente a 5 cámaras, Uw desde 0,70 frente a 0,73, desde 200 frente a 140 EUR/m².",
+      it: "Salamander BluEvolution 92 o GreenEvolution 76? 92 contro 76 mm, 6 contro 5 camere, Uw da 0,70 contro 0,73, da 200 contro 140 EUR/m². Quale conviene.",
     },
     keywords: 'BluEvolution 92 6 camere, GreenEvolution 76 5 camere, profile PVC Salamander, tamplarie PVC nZEB, Uw 0.70, comparatie profile PVC',
     content: {
@@ -9847,7 +9847,7 @@ Pentru un profil nu există „certificat nZEB": nZEB se calculează pe toată c
 
 ### Dezavantaje
 
-⚠️ Preț cu circa 25–35% mai mare decât GreenEvolution 76 (200–285 față de 150–235 EUR/mp)
+⚠️ Preț cu circa 25–35% mai mare decât GreenEvolution 76 (200–285 față de 140–225 EUR/mp)
 ⚠️ Profil mai greu — feroneria se alege după greutatea cercevelei
 ⚠️ Adâncimea de 92 mm cere glafuri interioare mai late
 
@@ -9876,7 +9876,7 @@ Pentru un profil nu există „certificat nZEB": nZEB se calculează pe toată c
 
 ### Avantaje
 
-✅ Raport calitate-preț foarte bun: 150–235 EUR/mp
+✅ Raport calitate-preț foarte bun: 140–225 EUR/mp
 ✅ Uw de la 0,73 W/m²K — foarte aproape de BluEvolution 92
 ✅ Acceptă geam triplu, cu pachet de până la 48 mm
 ✅ Adâncimea de 76 mm se potrivește ușor în golurile ferestrelor vechi, la renovări
@@ -9898,7 +9898,7 @@ Pentru un profil nu există „certificat nZEB": nZEB se calculează pe toată c
 | Pachet de geam | **24–60 mm** | 24–48 mm |
 | Izolare fonică | până la 47 dB | până la 47 dB |
 | Antiefracție | RC2, opțional RC3 | RC2, opțional RC3 |
-| Preț (EUR/mp, cu geam termopan și montaj standard, fără TVA) | 200–285 (ALU 250–350) | 150–235 |
+| Preț (EUR/mp, cu geam termopan și montaj standard, fără TVA) | 200–285 (ALU 250–350) | 140–225 |
 | Potrivit pentru | Case noi, nZEB, ferestre mari, aspect aluminiu | Renovări, apartamente, buget echilibrat |
 
 Pe hârtie, diferența termică dintre cele două profile e mică: 0,70 față de 0,73. Diferența reală vine din pachetul de geam, din rigiditatea la ferestrele mari și din varianta ALU.
@@ -9945,7 +9945,7 @@ Da. [BluEvolution 92 ALU](/ro/produse/profil-pvc-bluevolution-92-alu) are la ext
 
 ### Cât costă BluEvolution 92 și GreenEvolution 76?
 
-Orientativ, GreenEvolution 76 costă 150–235 EUR/mp, BluEvolution 92 200–285 EUR/mp, iar varianta ALU 250–350 EUR/mp, cu geam termopan și montaj standard, fără TVA. Geamul triplu adaugă 40–80 EUR/mp. Detaliile sunt pe [pagina de prețuri a tâmplăriei PVC](/ro/tamplarie-pvc/preturi).
+Orientativ, GreenEvolution 76 costă 140–225 EUR/mp, BluEvolution 92 200–285 EUR/mp, iar varianta ALU 250–350 EUR/mp, cu geam termopan și montaj standard, fără TVA. Geamul triplu adaugă 40–80 EUR/mp. Detaliile sunt pe [pagina de prețuri a tâmplăriei PVC](/ro/tamplarie-pvc/preturi).
 
 ---
 
@@ -10007,7 +10007,7 @@ There is no such thing as an "nZEB certificate" for a profile: nZEB is calculate
 
 ### Disadvantages
 
-⚠️ Roughly 25–35% more expensive than GreenEvolution 76 (200–285 against 150–235 EUR/m²)
+⚠️ Roughly 25–35% more expensive than GreenEvolution 76 (200–285 against 140–225 EUR/m²)
 ⚠️ Heavier profile — the hardware is chosen according to the sash weight
 ⚠️ The 92 mm depth needs wider interior sills
 
@@ -10036,7 +10036,7 @@ There is no such thing as an "nZEB certificate" for a profile: nZEB is calculate
 
 ### Advantages
 
-✅ Very good value for money: 150–235 EUR/m²
+✅ Very good value for money: 140–225 EUR/m²
 ✅ Uw from 0.73 W/m²K — very close to BluEvolution 92
 ✅ Takes triple glazing, with units up to 48 mm
 ✅ The 76 mm depth fits easily into the openings of old windows when renovating
@@ -10058,7 +10058,7 @@ There is no such thing as an "nZEB certificate" for a profile: nZEB is calculate
 | Glazing unit | **24–60 mm** | 24–48 mm |
 | Sound insulation | up to 47 dB | up to 47 dB |
 | Burglar resistance | RC2, RC3 optional | RC2, RC3 optional |
-| Price (EUR/m², with insulating glass and standard installation, excl. VAT) | 200–285 (ALU 250–350) | 150–235 |
+| Price (EUR/m², with insulating glass and standard installation, excl. VAT) | 200–285 (ALU 250–350) | 140–225 |
 | Best for | New houses, nZEB, large windows, aluminium look | Renovations, flats, balanced budgets |
 
 On paper, the thermal difference between the two profiles is small: 0.70 against 0.73. The real difference comes from the glazing thickness, the stiffness on large windows and the ALU variant.
@@ -10105,7 +10105,7 @@ Yes. [BluEvolution 92 ALU](/en/products/bluevolution-92-alu-pvc-profile) has a 1
 
 ### How much do BluEvolution 92 and GreenEvolution 76 cost?
 
-As a guide, GreenEvolution 76 costs 150–235 EUR/m², BluEvolution 92 200–285 EUR/m² and the ALU variant 250–350 EUR/m², with insulating glass and standard installation, excluding VAT. Triple glazing adds 40–80 EUR/m². The details are on the [PVC windows price page](/en/pvc-windows/prices).
+As a guide, GreenEvolution 76 costs 140–225 EUR/m², BluEvolution 92 200–285 EUR/m² and the ALU variant 250–350 EUR/m², with insulating glass and standard installation, excluding VAT. Triple glazing adds 40–80 EUR/m². The details are on the [PVC windows price page](/en/pvc-windows/prices).
 
 ---
 
@@ -10167,7 +10167,7 @@ Ein „nZEB-Zertifikat" für ein Profil gibt es nicht: nZEB wird für das ganze 
 
 ### Nachteile
 
-⚠️ Etwa 25–35 % teurer als GreenEvolution 76 (200–285 gegen 150–235 EUR/m²)
+⚠️ Etwa 25–35 % teurer als GreenEvolution 76 (200–285 gegen 140–225 EUR/m²)
 ⚠️ Schwereres Profil — der Beschlag wird nach dem Flügelgewicht gewählt
 ⚠️ Die Bautiefe von 92 mm braucht breitere Innenfensterbänke
 
@@ -10196,7 +10196,7 @@ Ein „nZEB-Zertifikat" für ein Profil gibt es nicht: nZEB wird für das ganze 
 
 ### Vorteile
 
-✅ Sehr gutes Preis-Leistungs-Verhältnis: 150–235 EUR/m²
+✅ Sehr gutes Preis-Leistungs-Verhältnis: 140–225 EUR/m²
 ✅ Uw ab 0,73 W/m²K — sehr nah an BluEvolution 92
 ✅ Nimmt Dreifachglas auf, mit Glaspaketen bis 48 mm
 ✅ Die Bautiefe von 76 mm passt bei Renovierungen leicht in die Öffnungen alter Fenster
@@ -10218,7 +10218,7 @@ Ein „nZEB-Zertifikat" für ein Profil gibt es nicht: nZEB wird für das ganze 
 | Glaspaket | **24–60 mm** | 24–48 mm |
 | Schalldämmung | bis 47 dB | bis 47 dB |
 | Einbruchschutz | RC2, RC3 optional | RC2, RC3 optional |
-| Preis (EUR/m², mit Isolierglas und Standardmontage, ohne MwSt.) | 200–285 (ALU 250–350) | 150–235 |
+| Preis (EUR/m², mit Isolierglas und Standardmontage, ohne MwSt.) | 200–285 (ALU 250–350) | 140–225 |
 | Geeignet für | Neubauten, nZEB, große Fenster, Aluminiumoptik | Renovierungen, Wohnungen, ausgewogenes Budget |
 
 Auf dem Papier ist der thermische Unterschied zwischen den beiden Profilen klein: 0,70 gegen 0,73. Der echte Unterschied liegt im Glaspaket, in der Steifigkeit bei großen Fenstern und in der ALU-Variante.
@@ -10265,7 +10265,7 @@ Ja. [BluEvolution 92 ALU](/de/produkte/bluevolution-92-alu-pvc-profil) hat auße
 
 ### Was kosten BluEvolution 92 und GreenEvolution 76?
 
-Als Richtwert kostet GreenEvolution 76 150–235 EUR/m², BluEvolution 92 200–285 EUR/m² und die ALU-Variante 250–350 EUR/m², mit Isolierglas und Standardmontage, ohne MwSt. Dreifachglas kommt mit 40–80 EUR/m² hinzu. Die Details stehen auf der [Preisseite für Kunststofffenster](/de/kunststofffenster-pvc/preise).
+Als Richtwert kostet GreenEvolution 76 140–225 EUR/m², BluEvolution 92 200–285 EUR/m² und die ALU-Variante 250–350 EUR/m², mit Isolierglas und Standardmontage, ohne MwSt. Dreifachglas kommt mit 40–80 EUR/m² hinzu. Die Details stehen auf der [Preisseite für Kunststofffenster](/de/kunststofffenster-pvc/preise).
 
 ---
 
@@ -10327,7 +10327,7 @@ Il n'existe pas de « certificat nZEB » pour un profilé : le nZEB se calcule s
 
 ### Inconvénients
 
-⚠️ Environ 25 à 35 % plus cher que le GreenEvolution 76 (200–285 contre 150–235 EUR/m²)
+⚠️ Environ 25 à 35 % plus cher que le GreenEvolution 76 (200–285 contre 140–225 EUR/m²)
 ⚠️ Profilé plus lourd — la quincaillerie se choisit selon le poids de l'ouvrant
 ⚠️ La profondeur de 92 mm demande des tablettes intérieures plus larges
 
@@ -10356,7 +10356,7 @@ Il n'existe pas de « certificat nZEB » pour un profilé : le nZEB se calcule s
 
 ### Avantages
 
-✅ Très bon rapport qualité-prix : 150–235 EUR/m²
+✅ Très bon rapport qualité-prix : 140–225 EUR/m²
 ✅ Uw dès 0,73 W/m²K — très proche du BluEvolution 92
 ✅ Accepte le triple vitrage, jusqu'à 48 mm
 ✅ La profondeur de 76 mm s'adapte facilement aux baies des anciennes fenêtres en rénovation
@@ -10378,7 +10378,7 @@ Il n'existe pas de « certificat nZEB » pour un profilé : le nZEB se calcule s
 | Épaisseur de vitrage | **24–60 mm** | 24–48 mm |
 | Isolation acoustique | jusqu'à 47 dB | jusqu'à 47 dB |
 | Anti-effraction | RC2, RC3 en option | RC2, RC3 en option |
-| Prix (EUR/m², vitrage isolant et pose standard compris, hors TVA) | 200–285 (ALU 250–350) | 150–235 |
+| Prix (EUR/m², vitrage isolant et pose standard compris, hors TVA) | 200–285 (ALU 250–350) | 140–225 |
 | Idéal pour | Maisons neuves, nZEB, grandes fenêtres, aspect aluminium | Rénovations, appartements, budget équilibré |
 
 Sur le papier, l'écart thermique entre les deux profilés est faible : 0,70 contre 0,73. La vraie différence tient à l'épaisseur de vitrage, à la rigidité sur les grandes fenêtres et à la variante ALU.
@@ -10425,7 +10425,7 @@ Oui. Le [BluEvolution 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) porte
 
 ### Combien coûtent le BluEvolution 92 et le GreenEvolution 76 ?
 
-À titre indicatif, le GreenEvolution 76 coûte 150–235 EUR/m², le BluEvolution 92 200–285 EUR/m² et la variante ALU 250–350 EUR/m², vitrage isolant et pose standard compris, hors TVA. Le triple vitrage ajoute 40 à 80 EUR/m². Les détails sont sur la [page des prix de la menuiserie PVC](/fr/menuiserie-pvc/prix).
+À titre indicatif, le GreenEvolution 76 coûte 140–225 EUR/m², le BluEvolution 92 200–285 EUR/m² et la variante ALU 250–350 EUR/m², vitrage isolant et pose standard compris, hors TVA. Le triple vitrage ajoute 40 à 80 EUR/m². Les détails sont sur la [page des prix de la menuiserie PVC](/fr/menuiserie-pvc/prix).
 
 ---
 
@@ -10487,7 +10487,7 @@ No existe un «certificado nZEB» para un perfil: el nZEB se calcula para todo e
 
 ### Desventajas
 
-⚠️ Alrededor de un 25–35 % más caro que GreenEvolution 76 (200–285 frente a 150–235 EUR/m²)
+⚠️ Alrededor de un 25–35 % más caro que GreenEvolution 76 (200–285 frente a 140–225 EUR/m²)
 ⚠️ Perfil más pesado — los herrajes se eligen según el peso de la hoja
 ⚠️ La profundidad de 92 mm exige vierteaguas interiores más anchos
 
@@ -10516,7 +10516,7 @@ No existe un «certificado nZEB» para un perfil: el nZEB se calcula para todo e
 
 ### Ventajas
 
-✅ Muy buena relación calidad-precio: 150–235 EUR/m²
+✅ Muy buena relación calidad-precio: 140–225 EUR/m²
 ✅ Uw desde 0,73 W/m²K — muy cerca de BluEvolution 92
 ✅ Admite triple vidrio, con espesores de hasta 48 mm
 ✅ La profundidad de 76 mm encaja fácilmente en los huecos de las ventanas antiguas en reformas
@@ -10538,7 +10538,7 @@ No existe un «certificado nZEB» para un perfil: el nZEB se calcula para todo e
 | Espesor de vidrio | **24–60 mm** | 24–48 mm |
 | Aislamiento acústico | hasta 47 dB | hasta 47 dB |
 | Antirrobo | RC2, RC3 opcional | RC2, RC3 opcional |
-| Precio (EUR/m², con vidrio aislante e instalación estándar, sin IVA) | 200–285 (ALU 250–350) | 150–235 |
+| Precio (EUR/m², con vidrio aislante e instalación estándar, sin IVA) | 200–285 (ALU 250–350) | 140–225 |
 | Ideal para | Casas nuevas, nZEB, ventanas grandes, aspecto aluminio | Reformas, pisos, presupuesto equilibrado |
 
 Sobre el papel, la diferencia térmica entre los dos perfiles es pequeña: 0,70 frente a 0,73. La diferencia real está en el espesor de vidrio, en la rigidez de las ventanas grandes y en la variante ALU.
@@ -10585,7 +10585,7 @@ Sí. El [BluEvolution 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) llev
 
 ### ¿Cuánto cuestan BluEvolution 92 y GreenEvolution 76?
 
-De forma orientativa, GreenEvolution 76 cuesta 150–235 EUR/m², BluEvolution 92 200–285 EUR/m² y la variante ALU 250–350 EUR/m², con vidrio aislante e instalación estándar, sin IVA. El triple vidrio añade 40–80 EUR/m². Los detalles están en la [página de precios de la carpintería PVC](/es/carpinteria-pvc/precios).
+De forma orientativa, GreenEvolution 76 cuesta 140–225 EUR/m², BluEvolution 92 200–285 EUR/m² y la variante ALU 250–350 EUR/m², con vidrio aislante e instalación estándar, sin IVA. El triple vidrio añade 40–80 EUR/m². Los detalles están en la [página de precios de la carpintería PVC](/es/carpinteria-pvc/precios).
 
 ---
 
@@ -10647,7 +10647,7 @@ Non esiste un «certificato nZEB» per un profilo: l'nZEB si calcola sull'intero
 
 ### Svantaggi
 
-⚠️ Circa il 25–35% più caro di GreenEvolution 76 (200–285 contro 150–235 EUR/m²)
+⚠️ Circa il 25–35% più caro di GreenEvolution 76 (200–285 contro 140–225 EUR/m²)
 ⚠️ Profilo più pesante — la ferramenta si sceglie in base al peso dell'anta
 ⚠️ La profondità di 92 mm richiede davanzali interni più larghi
 
@@ -10676,7 +10676,7 @@ Non esiste un «certificato nZEB» per un profilo: l'nZEB si calcola sull'intero
 
 ### Vantaggi
 
-✅ Ottimo rapporto qualità-prezzo: 150–235 EUR/m²
+✅ Ottimo rapporto qualità-prezzo: 140–225 EUR/m²
 ✅ Uw da 0,73 W/m²K — molto vicino a BluEvolution 92
 ✅ Accetta il triplo vetro, con spessori fino a 48 mm
 ✅ La profondità di 76 mm si adatta facilmente ai vani delle vecchie finestre nelle ristrutturazioni
@@ -10698,7 +10698,7 @@ Non esiste un «certificato nZEB» per un profilo: l'nZEB si calcola sull'intero
 | Spessore del vetro | **24–60 mm** | 24–48 mm |
 | Isolamento acustico | fino a 47 dB | fino a 47 dB |
 | Antieffrazione | RC2, RC3 opzionale | RC2, RC3 opzionale |
-| Prezzo (EUR/m², con vetrocamera e posa standard, IVA esclusa) | 200–285 (ALU 250–350) | 150–235 |
+| Prezzo (EUR/m², con vetrocamera e posa standard, IVA esclusa) | 200–285 (ALU 250–350) | 140–225 |
 | Ideale per | Case nuove, nZEB, finestre grandi, aspetto alluminio | Ristrutturazioni, appartamenti, budget equilibrato |
 
 Sulla carta, la differenza termica tra i due profili è piccola: 0,70 contro 0,73. La differenza reale sta nello spessore del vetro, nella rigidità sulle finestre grandi e nella variante ALU.
@@ -10745,7 +10745,7 @@ Sì. Il [BluEvolution 92 ALU](/it/prodotti/profilo-pvc-bluevolution-92-alu) ha a
 
 ### Quanto costano BluEvolution 92 e GreenEvolution 76?
 
-Indicativamente, GreenEvolution 76 costa 150–235 EUR/m², BluEvolution 92 200–285 EUR/m² e la variante ALU 250–350 EUR/m², con vetrocamera e posa standard, IVA esclusa. Il triplo vetro aggiunge 40–80 EUR/m². I dettagli sono nella [pagina dei prezzi degli infissi in PVC](/it/infissi-pvc/prezzi).
+Indicativamente, GreenEvolution 76 costa 140–225 EUR/m², BluEvolution 92 200–285 EUR/m² e la variante ALU 250–350 EUR/m², con vetrocamera e posa standard, IVA esclusa. Il triplo vetro aggiunge 40–80 EUR/m². I dettagli sono nella [pagina dei prezzi degli infissi in PVC](/it/infissi-pvc/prezzi).
 
 ---
 
@@ -10907,7 +10907,7 @@ La Neofort BIZ, montajul cu precadre Blaugelb Triotherm+ este o opțiune pe care
 
 Precadrul Blaugelb Triotherm+ este un profil din EPS de înaltă densitate, cu λ = 0,040 W/mK, care se lipește și se fixează mecanic pe zidărie, în stratul de izolație al fațadei. Preia peste 200 kg, rezistă la umezeală și este 100% reciclabil.
 
-### Este obligatoriu montajul cu precadre pentru certificarea nZEB?
+### Este obligatoriu montajul cu precadre la o casă nZEB?
 
 Nu. Legea nu cere precadre, dar punțile termice din jurul ferestrelor intră în calculul energetic făcut după Mc 001-2022. Când fereastra se montează în izolația fațadei, precadrul este soluția recomandată, pentru că reduce mult puntea termică de la rost.
 
@@ -11018,7 +11018,7 @@ At Neofort BIZ, installation with Blaugelb Triotherm+ precasings is an option we
 
 A Blaugelb Triotherm+ precasing is a high-density EPS profile with λ = 0.040 W/mK, bonded and mechanically fixed to the masonry in the facade insulation layer. It carries over 200 kg, resists moisture and is 100% recyclable.
 
-### Is installation with precasings mandatory for nZEB certification?
+### Is installation with precasings mandatory in an nZEB house?
 
 No. The law does not require precasings, but the thermal bridges around the windows count in the energy calculation under Mc 001-2022. When the window is fitted in the facade insulation, a precasing is the recommended solution because it sharply reduces the joint thermal bridge.
 
@@ -11129,7 +11129,7 @@ Bei Neofort BIZ ist die Montage mit Blaugelb Triotherm+ Vorblendrahmen eine Opti
 
 Der Blaugelb Triotherm+ Vorblendrahmen ist ein Profil aus hochdichtem EPS mit λ = 0,040 W/mK, das in der Dämmebene der Fassade am Mauerwerk verklebt und mechanisch befestigt wird. Er trägt über 200 kg, ist feuchteunempfindlich und zu 100 % recycelbar.
 
-### Ist die Montage mit Vorblendrahmen für die nZEB-Zertifizierung Pflicht?
+### Ist die Montage mit Vorblendrahmen bei einem nZEB-Haus Pflicht?
 
 Nein. Das Gesetz verlangt keine Vorblendrahmen, aber die Wärmebrücken um die Fenster gehen in die Energieberechnung nach Mc 001-2022 ein. Sitzt das Fenster in der Fassadendämmung, ist der Vorblendrahmen die empfohlene Lösung, weil er die Wärmebrücke an der Fuge deutlich verringert.
 
@@ -11240,7 +11240,7 @@ Chez Neofort BIZ, la pose avec précadres Blaugelb Triotherm+ est une option que
 
 Le précadre Blaugelb Triotherm+ est un profilé en EPS haute densité, avec λ = 0,040 W/mK, collé et fixé mécaniquement sur la maçonnerie dans la couche isolante de la façade. Il reprend plus de 200 kg, ne craint pas l’humidité et est recyclable à 100 %.
 
-### La pose avec précadres est-elle obligatoire pour la certification nZEB ?
+### La pose avec précadres est-elle obligatoire dans une maison nZEB ?
 
 Non. La loi n’exige pas de précadres, mais les ponts thermiques autour des fenêtres entrent dans le calcul énergétique selon Mc 001-2022. Quand la fenêtre est posée dans l’isolant de façade, le précadre est la solution recommandée, car il réduit nettement le pont thermique au joint.
 
@@ -11351,7 +11351,7 @@ En Neofort BIZ, el montaje con premarcos Blaugelb Triotherm+ es una opción que 
 
 El premarco Blaugelb Triotherm+ es un perfil de EPS de alta densidad, con λ = 0,040 W/mK, que se pega y se fija mecánicamente a la fábrica en la capa de aislamiento de la fachada. Soporta más de 200 kg, resiste la humedad y es 100 % reciclable.
 
-### ¿Es obligatorio el montaje con premarcos para la certificación nZEB?
+### ¿Es obligatorio el montaje con premarcos en una casa nZEB?
 
 No. La ley no exige premarcos, pero los puentes térmicos alrededor de las ventanas entran en el cálculo energético según Mc 001-2022. Cuando la ventana se monta en el aislamiento de la fachada, el premarco es la solución recomendada porque reduce mucho el puente térmico de la junta.
 
@@ -11462,7 +11462,7 @@ Da Neofort BIZ la posa con controtelai Blaugelb Triotherm+ è un’opzione che c
 
 Il controtelaio Blaugelb Triotherm+ è un profilo in EPS ad alta densità, con λ = 0,040 W/mK, che si incolla e si fissa meccanicamente alla muratura nello strato isolante della facciata. Regge oltre 200 kg, non teme l’umidità ed è riciclabile al 100%.
 
-### La posa con controtelai è obbligatoria per la certificazione nZEB?
+### La posa con controtelai è obbligatoria in una casa nZEB?
 
 No. La legge non richiede i controtelai, ma i ponti termici attorno alle finestre entrano nel calcolo energetico secondo Mc 001-2022. Quando la finestra si posa nell’isolamento della facciata, il controtelaio è la soluzione consigliata perché riduce molto il ponte termico al giunto.
 
@@ -12470,7 +12470,7 @@ Exportul intra-UE este **fără formalități vamale**. Documente standard inclu
 - Factură fiscală în română și engleză/germană
 - Packing list detaliat
 - **Declarație de conformitate CE** pentru fiecare tip de produs (obligatorie în Germania)
-- Certificat nZEB la solicitare
+- Valorile Uw și Ug pentru calculul energetic, la solicitare
 
 ---
 
@@ -12613,7 +12613,7 @@ Intra-EU export is **customs-free**. Standard documents included:
 - Tax invoice in Romanian and English/German
 - Detailed packing list
 - **CE Declaration of Conformity** for each product type (mandatory in Germany)
-- nZEB certificate on request
+- Uw and Ug values for the energy calculation, on request
 
 ---
 
@@ -12756,7 +12756,7 @@ EU-Binnenexport ist **zollfrei**. Standarddokumente enthalten:
 - Steuerrechnung auf Rumänisch und Englisch/Deutsch
 - Detaillierte Packliste
 - **CE-Konformitätserklärung** für jeden Produkttyp (in Deutschland obligatorisch)
-- nZEB-Zertifikat auf Anfrage
+- Uw- und Ug-Werte für die Energiebilanz, auf Anfrage
 
 ---
 
@@ -12899,7 +12899,7 @@ L'export intra-UE est **sans formalités douanières**. Documents standards incl
 - Facture fiscale en roumain et en anglais/allemand
 - Liste de colisage détaillée
 - **Déclaration de conformité CE** pour chaque type de produit (obligatoire en Allemagne)
-- Certificat nZEB sur demande
+- Valeurs Uw et Ug pour le calcul énergétique, sur demande
 
 ---
 
@@ -13042,7 +13042,7 @@ La exportación intra-UE es **sin trámites aduaneros**. Documentos estándar in
 - Factura fiscal en rumano e inglés/alemán
 - Lista de embalaje detallada
 - **Declaración de conformidad CE** para cada tipo de producto (obligatoria en Alemania)
-- Certificado nZEB a solicitud
+- Valores Uw y Ug para el cálculo energético, a solicitud
 
 ---
 
@@ -13185,7 +13185,7 @@ L'export intra-UE è **senza formalità doganali**. Documenti standard inclusi:
 - Fattura fiscale in rumeno e inglese/tedesco
 - Lista imballaggi dettagliata
 - **Dichiarazione di conformità CE** per ogni tipo di prodotto (obbligatoria in Germania)
-- Certificato nZEB su richiesta
+- Valori Uw e Ug per il calcolo energetico, su richiesta
 
 ---
 
@@ -13289,12 +13289,12 @@ Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, 
       it: 'Infissi in alluminio con taglio termico — guida completa 2026: sistemi Alumil, prezzi e prestazioni',
     },
     excerpt: {
-      ro: 'Bariera termică din poliamidă separă fizic interiorul de exteriorul profilului de aluminiu și elimină puntea termică: 30 mm la Alumil Smartia S67 (Uf de la 1,5), 40 mm la Supreme S77 (Uf de la 0,86 W/m²K). Ghid complet: ce sisteme Alumil recomandăm, cum alegi între ele și ce prețuri să aștepți în 2026.',
-      en: 'The polyamide thermal break physically separates the inside from the outside of the aluminium profile and removes the thermal bridge: 30 mm on Alumil Smartia S67 (Uf from 1.5), 40 mm on Supreme S77 (Uf from 0.86 W/m²K). Complete guide: which Alumil systems we recommend, how to choose between them and what prices to expect in 2026.',
-      de: 'Die thermische Trennung aus Polyamid trennt Innen- und Außenseite des Aluminiumprofils und beseitigt die Wärmebrücke: 30 mm bei Alumil Smartia S67 (Uf ab 1,5), 40 mm bei Supreme S77 (Uf ab 0,86 W/m²K). Komplettleitfaden: welche Alumil-Systeme wir empfehlen, wie Sie zwischen ihnen wählen und welche Preise Sie 2026 erwarten.',
-      fr: 'La rupture thermique en polyamide sépare physiquement l’intérieur de l’extérieur du profilé aluminium et supprime le pont thermique : 30 mm sur l’Alumil Smartia S67 (Uf à partir de 1,5), 40 mm sur le Supreme S77 (Uf à partir de 0,86 W/m²K). Guide complet : quels systèmes Alumil nous recommandons, comment choisir et quels prix attendre en 2026.',
-      es: 'La rotura de puente térmico de poliamida separa físicamente el interior del exterior del perfil de aluminio y elimina el puente térmico: 30 mm en Alumil Smartia S67 (Uf desde 1,5), 40 mm en Supreme S77 (Uf desde 0,86 W/m²K). Guía completa: qué sistemas Alumil recomendamos, cómo elegir entre ellos y qué precios esperar en 2026.',
-      it: 'Il taglio termico in poliammide separa fisicamente l’interno dall’esterno del profilo in alluminio ed elimina il ponte termico: 30 mm su Alumil Smartia S67 (Uf da 1,5), 40 mm su Supreme S77 (Uf da 0,86 W/m²K). Guida completa: quali sistemi Alumil consigliamo, come scegliere e quali prezzi aspettarsi nel 2026.',
+      ro: 'Bariera termică din poliamidă separă fizic interiorul de exteriorul profilului de aluminiu și elimină puntea termică: 30 mm la Alumil Smartia S67 (Uf de la 1,1), 40 mm la Supreme S77 (Uf de la 0,86 W/m²K). Ghid complet: ce sisteme Alumil recomandăm, cum alegi între ele și ce prețuri să aștepți în 2026.',
+      en: 'The polyamide thermal break physically separates the inside from the outside of the aluminium profile and removes the thermal bridge: 30 mm on Alumil Smartia S67 (Uf from 1.1), 40 mm on Supreme S77 (Uf from 0.86 W/m²K). Complete guide: which Alumil systems we recommend, how to choose between them and what prices to expect in 2026.',
+      de: 'Die thermische Trennung aus Polyamid trennt Innen- und Außenseite des Aluminiumprofils und beseitigt die Wärmebrücke: 30 mm bei Alumil Smartia S67 (Uf ab 1,1), 40 mm bei Supreme S77 (Uf ab 0,86 W/m²K). Komplettleitfaden: welche Alumil-Systeme wir empfehlen, wie Sie zwischen ihnen wählen und welche Preise Sie 2026 erwarten.',
+      fr: 'La rupture thermique en polyamide sépare physiquement l’intérieur de l’extérieur du profilé aluminium et supprime le pont thermique : 30 mm sur l’Alumil Smartia S67 (Uf à partir de 1,1), 40 mm sur le Supreme S77 (Uf à partir de 0,86 W/m²K). Guide complet : quels systèmes Alumil nous recommandons, comment choisir et quels prix attendre en 2026.',
+      es: 'La rotura de puente térmico de poliamida separa físicamente el interior del exterior del perfil de aluminio y elimina el puente térmico: 30 mm en Alumil Smartia S67 (Uf desde 1,1), 40 mm en Supreme S77 (Uf desde 0,86 W/m²K). Guía completa: qué sistemas Alumil recomendamos, cómo elegir entre ellos y qué precios esperar en 2026.',
+      it: 'Il taglio termico in poliammide separa fisicamente l’interno dall’esterno del profilo in alluminio ed elimina il ponte termico: 30 mm su Alumil Smartia S67 (Uf da 1,1), 40 mm su Supreme S77 (Uf da 0,86 W/m²K). Guida completa: quali sistemi Alumil consigliamo, come scegliere e quali prezzi aspettarsi nel 2026.',
     },
     metaDesc: {
       ro: "Tâmplărie din aluminiu cu barieră termică: sistemele Alumil Supreme și Smartia, valori Uw reale, deschideri maxime și prețuri pe metru pătrat.",
@@ -13315,7 +13315,7 @@ Aluminiul pur conduce căldura de **~200 de ori mai bine decât PVC-ul**. Fără
 - Oprește transferul de temperatură dintre interior și exterior
 - Elimină condensul pe tocul ferestrei
 - Reduce pierderile termice ale clădirii
-- Permite atingerea certificărilor **[nZEB](/ro/sisteme-nzeb)** și casă pasivă
+- Face posibile ferestrele din aluminiu pentru case **[nZEB](/ro/sisteme-nzeb)** și case pasive
 
 Fără barieră termică, aluminiul este adecvat **doar la interior** — compartimentări, showroom-uri, garaje — unde diferența de temperatură dintre cele două fețe ale profilului nu este semnificativă.
 
@@ -13426,7 +13426,7 @@ Cea mai bună fereastră cu barieră termică devine inutilă dacă este montat�
 - **Bandă antivapori** pe interior — barieră la difuzia vaporilor
 - **Distanțiere Warm Edge** în geam — elimină puntea termică la periferia vitrajului
 
-Fără aceste 4 elemente, certificarea nZEB nu este posibilă, indiferent de calitatea profilului.
+Fără aceste 4 elemente, rostul de montaj rămâne punte termică și performanța nZEB a casei e greu de atins, indiferent de calitatea profilului.
 
 ---
 
@@ -13446,7 +13446,7 @@ Bariera termică este o inserție de poliamidă 6.6 armată cu fibră de sticlă
 
 ### Care e diferența între aluminiu cu și fără barieră termică?
 
-Aluminiul fără barieră are Uf 5,5-7,0 W/m²K și condens frecvent pe toc — bun doar la interior. Cu barieră de 30 mm (Smartia S67), Uf scade la 1,5 W/m²K; cu barieră de 40 mm (Supreme S77) ajunge la 0,86 W/m²K, potrivit pentru casele nZEB.
+Aluminiul fără barieră are Uf 5,5-7,0 W/m²K și condens frecvent pe toc — bun doar la interior. Cu barieră de 30 mm (Smartia S67), Uf pornește de la 1,1 W/m²K; cu barieră de 40 mm (Supreme S77) ajunge la 0,86 W/m²K, potrivit pentru casele nZEB.
 
 ### Ce sistem Alumil are cea mai bună performanță termică?
 
@@ -13471,7 +13471,7 @@ Pure aluminium conducts heat **~200 times better than PVC**. Without any treatme
 - Stops heat transfer between inside and outside
 - Eliminates condensation on the window frame
 - Reduces building heat losses
-- Enables **[nZEB](/en/nzeb-systems)** and passive house certifications
+- Makes aluminium possible in **[nZEB](/en/nzeb-systems)** and passive houses
 
 Without a thermal break, aluminium is suitable **only indoors** — partitions, showrooms, garages — where the temperature difference between the two faces of the profile is not significant.
 
@@ -13582,7 +13582,7 @@ The best thermal break window becomes useless if installed incorrectly. At Neofo
 - **Anti-vapour tape** on the inside — vapour diffusion barrier
 - **Warm Edge spacers** in the glass — eliminate thermal bridge at glazing perimeter
 
-Without these 4 elements, nZEB certification is not possible, regardless of the profile quality.
+Without these 4 elements, the installation joint stays a thermal bridge and nZEB performance is hard to reach, regardless of the profile quality.
 
 See also the comparison of the best aluminium doors for Sector 1: [Best Aluminium Doors in Sector 1 Bucharest — Complete Guide 2026](/en/blog/best-aluminium-doors-sector-1-bucharest).
 
@@ -13604,7 +13604,7 @@ The thermal break is a glass-fibre-reinforced polyamide 6.6 insert pressed betwe
 
 ### What is the difference between aluminium with and without a thermal break?
 
-Aluminium without a break has Uf 5.5-7.0 W/m²K and frequent frame condensation — suitable only indoors. With a 30 mm break (Smartia S67), Uf drops to 1.5 W/m²K; with a 40 mm break (Supreme S77) it reaches 0.86 W/m²K, suitable for nZEB houses.
+Aluminium without a break has Uf 5.5-7.0 W/m²K and frequent frame condensation — suitable only indoors. With a 30 mm break (Smartia S67), Uf starts from 1.1 W/m²K; with a 40 mm break (Supreme S77) it reaches 0.86 W/m²K, suitable for nZEB houses.
 
 ### Which Alumil system has the best thermal performance?
 
@@ -13629,7 +13629,7 @@ Reines Aluminium leitet Wärme **~200 Mal besser als PVC**. Ohne jegliche Behand
 - Stoppt den Wärmetransfer zwischen Innen- und Außenbereich
 - Beseitigt Kondensation am Fensterrahmen
 - Reduziert die Wärmeverluste des Gebäudes
-- Ermöglicht **[nZEB](/de/nzeb-systeme)**- und Passivhaus-Zertifizierungen
+- Macht Aluminium in **[nZEB](/de/nzeb-systeme)**- und Passivhäusern möglich
 
 Ohne Wärmedämmung ist Aluminium **nur für den Innenbereich** geeignet — Trennwände, Showrooms, Garagen — wo der Temperaturunterschied zwischen den zwei Seiten des Profils nicht signifikant ist.
 
@@ -13740,7 +13740,7 @@ Das beste Wärmedämmfenster wird nutzlos, wenn es falsch eingebaut wird. Bei Ne
 - **Dampfsperrband** innen — Dampfdiffusionsbarriere
 - **Warm Edge Abstandhalter** im Glas — beseitigen die Wärmebrücke am Verglasungsrand
 
-Ohne diese 4 Elemente ist eine nZEB-Zertifizierung nicht möglich, unabhängig von der Profilqualität.
+Ohne diese 4 Elemente bleibt die Einbaufuge eine Wärmebrücke und die nZEB-Leistung des Hauses ist kaum erreichbar, unabhängig von der Profilqualität.
 
 Sehen Sie auch den Vergleich der besten Aluminiumtüren für Sektor 1: [Beste Aluminiumtüren in Sektor 1 Bukarest — Vollständiger Ratgeber 2026](/de/blog/beste-aluminiumtueren-sektor-1-bukarest).
 
@@ -13762,7 +13762,7 @@ Die thermische Trennung ist ein glasfaserverstärkter Polyamid-6.6-Steg, der zwi
 
 ### Was ist der Unterschied zwischen Aluminium mit und ohne thermische Trennung?
 
-Aluminium ohne Trennung hat Uf 5,5-7,0 W/m²K und häufiges Rahmenkondensat — nur für innen geeignet. Mit 30-mm-Trennung (Smartia S67) sinkt Uf auf 1,5 W/m²K; mit 40-mm-Trennung (Supreme S77) erreicht es 0,86 W/m²K und eignet sich für nZEB-Häuser.
+Aluminium ohne Trennung hat Uf 5,5-7,0 W/m²K und häufiges Rahmenkondensat — nur für innen geeignet. Mit 30-mm-Trennung (Smartia S67) liegt Uf ab 1,1 W/m²K; mit 40-mm-Trennung (Supreme S77) erreicht es 0,86 W/m²K und eignet sich für nZEB-Häuser.
 
 ### Welches Alumil-System hat die beste Wärmeleistung?
 
@@ -13787,7 +13787,7 @@ L'[aluminium](/fr/menuiserie-aluminium) pur conduit la chaleur **~200 fois mieux
 - Arrête le transfert de chaleur entre l'intérieur et l'extérieur
 - Élimine la condensation sur le cadre de la fenêtre
 - Réduit les pertes thermiques du bâtiment
-- Permet les certifications **[nZEB](/fr/systemes-nzeb)** et maison passive
+- Rend l’aluminium possible dans les maisons **[nZEB](/fr/systemes-nzeb)** et passives
 
 Sans rupture thermique, l'aluminium ne convient **qu'à l'intérieur** — cloisons, showrooms, garages — où la différence de température entre les deux faces du profil n'est pas significative.
 
@@ -13917,7 +13917,7 @@ La rupture de pont thermique est un insert en polyamide 6.6 renforcé de fibre d
 
 ### Quelle est la différence entre aluminium avec et sans rupture thermique ?
 
-L'aluminium sans rupture a un Uf de 5,5-7,0 W/m²K et une condensation fréquente sur le dormant — adapté seulement à l'intérieur. Avec une rupture de 30 mm (Smartia S67), l'Uf descend à 1,5 W/m²K ; avec une rupture de 40 mm (Supreme S77), il atteint 0,86 W/m²K, adapté aux maisons nZEB.
+L'aluminium sans rupture a un Uf de 5,5-7,0 W/m²K et une condensation fréquente sur le dormant — adapté seulement à l'intérieur. Avec une rupture de 30 mm (Smartia S67), l'Uf part de 1,1 W/m²K ; avec une rupture de 40 mm (Supreme S77), il atteint 0,86 W/m²K, adapté aux maisons nZEB.
 
 ### Quel système Alumil a la meilleure performance thermique ?
 
@@ -13942,7 +13942,7 @@ El aluminio puro conduce el calor **~200 veces mejor que el PVC**. Sin tratamien
 - Detiene la transferencia de calor entre interior y exterior
 - Elimina la condensación en el marco de la ventana
 - Reduce las pérdidas térmicas del edificio
-- Permite las certificaciones **[nZEB](/es/sistemas-nzeb)** y casa pasiva
+- Hace posible el aluminio en casas **[nZEB](/es/sistemas-nzeb)** y pasivas
 
 Sin rotura de puente térmico, el aluminio es adecuado **solo para interiores** — tabiques, showrooms, garajes.
 
@@ -14072,7 +14072,7 @@ La rotura de puente térmico es un inserto de poliamida 6.6 reforzada con fibra 
 
 ### ¿Cuál es la diferencia entre aluminio con y sin rotura térmica?
 
-El aluminio sin rotura tiene Uf 5,5-7,0 W/m²K y condensación frecuente en el marco — solo apto para interior. Con rotura de 30 mm (Smartia S67), el Uf baja a 1,5 W/m²K; con rotura de 40 mm (Supreme S77) llega a 0,86 W/m²K, apto para casas nZEB.
+El aluminio sin rotura tiene Uf 5,5-7,0 W/m²K y condensación frecuente en el marco — solo apto para interior. Con rotura de 30 mm (Smartia S67), el Uf parte de 1,1 W/m²K; con rotura de 40 mm (Supreme S77) llega a 0,86 W/m²K, apto para casas nZEB.
 
 ### ¿Qué sistema Alumil tiene el mejor rendimiento térmico?
 
@@ -14097,7 +14097,7 @@ L'alluminio puro conduce il calore **~200 volte meglio del PVC**. Senza trattame
 - Ferma il trasferimento di calore tra interno ed esterno
 - Elimina la condensa sul telaio della finestra
 - Riduce le perdite termiche dell'edificio
-- Consente le certificazioni **[nZEB](/it/sistemi-nzeb)** e casa passiva
+- Rende possibile l’alluminio nelle case **[nZEB](/it/sistemi-nzeb)** e passive
 
 Senza taglio termico, l'alluminio è adatto **solo per interni** — tramezzi, showroom, garage.
 
@@ -14227,7 +14227,7 @@ Il taglio termico è un inserto in poliammide 6.6 rinforzata con fibra di vetro,
 
 ### Qual è la differenza tra alluminio con e senza taglio termico?
 
-L'alluminio senza taglio ha Uf 5,5-7,0 W/m²K e condensa frequente sul telaio — adatto solo all'interno. Con taglio da 30 mm (Smartia S67), l'Uf scende a 1,5 W/m²K; con taglio da 40 mm (Supreme S77) arriva a 0,86 W/m²K, adatto alle case nZEB.
+L'alluminio senza taglio ha Uf 5,5-7,0 W/m²K e condensa frequente sul telaio — adatto solo all'interno. Con taglio da 30 mm (Smartia S67), l'Uf parte da 1,1 W/m²K; con taglio da 40 mm (Supreme S77) arriva a 0,86 W/m²K, adatto alle case nZEB.
 
 ### Quale sistema Alumil ha le migliori prestazioni termiche?
 
@@ -16383,12 +16383,12 @@ Neofort BIZ posa ZipScreen, tapparelle, Raffstore e pergole con telo Somfy a Buc
       it: 'Prezzi finestre Salamander a Bucarest 2026 — guida completa per profilo e sistema',
     },
     excerpt: {
-      ro: 'Cât costă termopanele Salamander în București în 2026? GreenEvolution 76 pornește de la 150 EUR/mp, BluEvolution 92 de la 200 EUR/mp. Ghid complet cu prețuri pe profile, geam dublu vs triplu, montaj nZEB și tot ce influențează prețul final.',
-      en: 'How much do Salamander windows cost in Bucharest in 2026? GreenEvolution 76 from 150 EUR/m², BluEvolution 92 from 200 EUR/m². Complete guide with prices by profile, double vs triple glazing, nZEB installation.',
-      de: 'Was kosten Salamander Fenster in Bukarest 2026? GreenEvolution 76 ab 150 EUR/m², BluEvolution 92 ab 200 EUR/m². Komplettleitfaden mit Preisen nach Profil.',
-      fr: 'Combien coûtent les fenêtres Salamander à Bucarest en 2026 ? GreenEvolution 76 à partir de 150 EUR/m², BluEvolution 92 à partir de 200 EUR/m². Guide complet.',
-      es: 'Cuánto cuestan las ventanas Salamander en Bucarest en 2026. GreenEvolution 76 desde 150 EUR/m², BluEvolution 92 desde 200 EUR/m². Guía completa.',
-      it: 'Quanto costano le finestre Salamander a Bucarest nel 2026. GreenEvolution 76 da 150 EUR/m², BluEvolution 92 da 200 EUR/m². Guida completa.',
+      ro: 'Cât costă termopanele Salamander în București în 2026? GreenEvolution 76 pornește de la 140 EUR/mp, BluEvolution 92 de la 200 EUR/mp. Ghid complet cu prețuri pe profile, geam dublu vs triplu, montaj nZEB și tot ce influențează prețul final.',
+      en: 'How much do Salamander windows cost in Bucharest in 2026? GreenEvolution 76 from 140 EUR/m², BluEvolution 92 from 200 EUR/m². Complete guide with prices by profile, double vs triple glazing, nZEB installation.',
+      de: 'Was kosten Salamander Fenster in Bukarest 2026? GreenEvolution 76 ab 140 EUR/m², BluEvolution 92 ab 200 EUR/m². Komplettleitfaden mit Preisen nach Profil.',
+      fr: 'Combien coûtent les fenêtres Salamander à Bucarest en 2026 ? GreenEvolution 76 à partir de 140 EUR/m², BluEvolution 92 à partir de 200 EUR/m². Guide complet.',
+      es: 'Cuánto cuestan las ventanas Salamander en Bucarest en 2026. GreenEvolution 76 desde 140 EUR/m², BluEvolution 92 desde 200 EUR/m². Guía completa.',
+      it: 'Quanto costano le finestre Salamander a Bucarest nel 2026. GreenEvolution 76 da 140 EUR/m², BluEvolution 92 da 200 EUR/m². Guida completa.',
     },
     metaDesc: {
       ro: "Termopane Salamander în București: GreenEvolution 76 150–220 EUR/mp, BluEvolution 92 200–285 EUR/mp. Fereastră 100×120, geam dublu, de la 320 EUR.",
@@ -20794,7 +20794,7 @@ Livrăm tâmplărie Salamander și Alumil dincolo de România, iar procesul dife
 
 ### Profilul — BluEvolution 92 ALU sau BluEvolution 92 FLEX
 
-**[BluEvolution 92](/ro/tamplarie-pvc)** este singurul profil Salamander cu certificare completă pentru [standard nZEB](/ro/sisteme-nzeb) și casă pasivă.
+**[BluEvolution 92](/ro/tamplarie-pvc)** este profilul Salamander cu cea mai bună izolare din gama noastră (Uw 0,70 W/m²K), potrivit pentru [case nZEB](/ro/sisteme-nzeb) și case pasive.
 
 - 6 camere | adâncime 92–104 mm | Uw = 0,70 W/m²K
 - 3 garnituri EPDM | izolare fonică până la 47 dB
@@ -20815,7 +20815,7 @@ Pentru o casă construită în 2026, geamul dublu nu mai este suficient dacă vr
 
 ### Montajul — nZEB cu precadre Blaugelb obligatoriu
 
-La o casă individuală, punțile termice perimetrale au impact direct pe calculul energetic. Precadrele Blaugelb Triotherm+ elimină puntea termică și sunt obligatorii pentru certificarea nZEB.
+La o casă individuală, punțile termice perimetrale au impact direct pe calculul energetic. Precadrele Blaugelb Triotherm+ elimină puntea termică și sunt recomandate la casele nZEB, chiar dacă legea nu le cere.
 
 ---
 
@@ -20908,7 +20908,7 @@ La Neofort BIZ tratăm diferit proiectele de case față de apartamente. Fiecare
 
 ### Ce profil Salamander e recomandat pentru o casă individuală nouă?
 
-BluEvolution 92 (ALU sau FLEX) — singurul profil Salamander cu certificare completă nZEB și casă pasivă: 6 camere, 92-104 mm, Uw = 0,70 W/m²K, 3 garnituri EPDM, izolare fonică până la 47 dB și compatibil cu geam triplu krypton (Ug = 0,5 W/m²K).
+BluEvolution 92 (ALU sau FLEX) — cel mai performant profil Salamander din gama noastră, potrivit pentru case nZEB și pasive: 6 camere, 92-104 mm, Uw = 0,70 W/m²K, 3 garnituri EPDM, izolare fonică până la 47 dB și compatibil cu geam triplu krypton (Ug = 0,5 W/m²K).
 
 ### Cât poate costa pe termen lung o economie la ferestrele unei case?
 
@@ -20948,7 +20948,7 @@ We deliver Salamander and Alumil joinery beyond Romania, and the process differs
 
 ### The profile — BluEvolution 92 ALU or BluEvolution 92 FLEX
 
-**[BluEvolution 92](/en/pvc-windows)** is the only Salamander profile with full certification for the [nZEB standard](/en/nzeb-systems) and for passive houses.
+**[BluEvolution 92](/en/pvc-windows)** is the best-insulating Salamander profile in our range (Uw 0.70 W/m²K), suitable for [nZEB homes](/en/nzeb-systems) and passive houses.
 
 - 6 chambers | depth 92–104 mm | Uw = 0.70 W/m²K
 - 3 EPDM gaskets | acoustic insulation up to 47 dB
@@ -20969,7 +20969,7 @@ For a house built in 2026, double glazing is no longer enough if you want an ene
 
 ### The installation — nZEB with Blaugelb precasings, mandatory
 
-On an individual house, perimeter thermal bridges have a direct impact on the energy calculation. Blaugelb Triotherm+ precasings eliminate the thermal bridge and are mandatory for nZEB certification.
+On an individual house, perimeter thermal bridges have a direct impact on the energy calculation. Blaugelb Triotherm+ precasings eliminate the thermal bridge and are recommended for nZEB homes, even though the law does not require them.
 
 ---
 
@@ -21062,7 +21062,7 @@ In a block, the glazed area is 20–30% of the facade; in a modern individual ho
 
 ### Which Salamander profile is recommended for a new individual house?
 
-BluEvolution 92 (ALU or FLEX) — the only Salamander profile with full nZEB and passive house certification: 6 chambers, 92–104 mm, Uw = 0.70 W/m²K, 3 EPDM gaskets, acoustic insulation up to 47 dB and compatible with triple krypton glazing (Ug = 0.5 W/m²K).
+BluEvolution 92 (ALU or FLEX) — the best-performing Salamander profile in our range, suitable for nZEB and passive houses: 6 chambers, 92–104 mm, Uw = 0.70 W/m²K, 3 EPDM gaskets, acoustic insulation up to 47 dB and compatible with triple krypton glazing (Ug = 0.5 W/m²K).
 
 ### What can a saving on a house’s windows cost in the long run?
 
@@ -21100,7 +21100,7 @@ Wir liefern Salamander- und Alumil-Fenster über Rumänien hinaus; der Ablauf h�
 
 ### Das Profil — BluEvolution 92 ALU oder BluEvolution 92 FLEX
 
-**[BluEvolution 92](/de/kunststofffenster-pvc)** ist das einzige Salamander-Profil mit vollständiger Zertifizierung für den [nZEB-Standard](/de/nzeb-systeme) und für Passivhäuser.
+**[BluEvolution 92](/de/kunststofffenster-pvc)** ist das am besten dämmende Salamander-Profil unseres Sortiments (Uw 0,70 W/m²K), geeignet für [nZEB-Häuser](/de/nzeb-systeme) und Passivhäuser.
 
 - 6 Kammern | Bautiefe 92–104 mm | Uw = 0,70 W/m²K
 - 3 EPDM-Dichtungen | Schalldämmung bis 47 dB
@@ -21121,7 +21121,7 @@ Für ein 2026 gebautes Haus genügt Zweifachverglasung nicht mehr, wenn Sie eine
 
 ### Die Montage — nZEB mit Blaugelb-Vorblendrahmen, zwingend
 
-Bei einem Einfamilienhaus wirken sich Wärmebrücken am Anschluss unmittelbar auf die Energiebilanz aus. Blaugelb Triotherm+ Vorblendrahmen beseitigen die Wärmebrücke und sind für die nZEB-Zertifizierung zwingend.
+Bei einem Einfamilienhaus wirken sich Wärmebrücken am Anschluss unmittelbar auf die Energiebilanz aus. Blaugelb Triotherm+ Vorblendrahmen beseitigen die Wärmebrücke und werden für nZEB-Häuser empfohlen, auch wenn das Gesetz sie nicht vorschreibt.
 
 ---
 
@@ -21214,7 +21214,7 @@ Im Wohnblock beträgt die Glasfläche 20–30 % der Fassade; in einem modernen E
 
 ### Welches Salamander-Profil empfiehlt sich für ein neues Einfamilienhaus?
 
-BluEvolution 92 (ALU oder FLEX) — das einzige Salamander-Profil mit vollständiger nZEB- und Passivhaus-Zertifizierung: 6 Kammern, 92–104 mm, Uw = 0,70 W/m²K, 3 EPDM-Dichtungen, Schalldämmung bis 47 dB und kompatibel mit Dreifach-Krypton-Verglasung (Ug = 0,5 W/m²K).
+BluEvolution 92 (ALU oder FLEX) — das leistungsstärkste Salamander-Profil unseres Sortiments, geeignet für nZEB- und Passivhäuser: 6 Kammern, 92–104 mm, Uw = 0,70 W/m²K, 3 EPDM-Dichtungen, Schalldämmung bis 47 dB und kompatibel mit Dreifach-Krypton-Verglasung (Ug = 0,5 W/m²K).
 
 ### Was kann eine Ersparnis bei den Fenstern eines Hauses langfristig kosten?
 
@@ -21252,7 +21252,7 @@ Nous livrons des menuiseries Salamander et Alumil au-delà de la Roumanie, et le
 
 ### Le profilé — BluEvolution 92 ALU ou BluEvolution 92 FLEX
 
-**[BluEvolution 92](/fr/menuiserie-pvc)** est le seul profilé Salamander bénéficiant d’une certification complète pour [la norme nZEB](/fr/systemes-nzeb) et pour la maison passive.
+**[BluEvolution 92](/fr/menuiserie-pvc)** est le profilé Salamander le plus isolant de notre gamme (Uw 0,70 W/m²K), adapté aux [maisons nZEB](/fr/systemes-nzeb) et aux maisons passives.
 
 - 6 chambres | profondeur 92–104 mm | Uw = 0,70 W/m²K
 - 3 joints EPDM | isolation acoustique jusqu’à 47 dB
@@ -21273,7 +21273,7 @@ Pour une maison construite en 2026, le double vitrage ne suffit plus si vous vis
 
 ### La pose — nZEB avec précadres Blaugelb, obligatoire
 
-Sur une maison individuelle, les ponts thermiques périphériques pèsent directement sur le calcul énergétique. Les précadres Blaugelb Triotherm+ suppriment le pont thermique et sont obligatoires pour la certification nZEB.
+Sur une maison individuelle, les ponts thermiques périphériques pèsent directement sur le calcul énergétique. Les précadres Blaugelb Triotherm+ suppriment le pont thermique et sont recommandés pour les maisons nZEB, même si la loi ne les impose pas.
 
 ---
 
@@ -21366,7 +21366,7 @@ Dans un immeuble, la surface vitrée représente 20 à 30 % de la façade ; dans
 
 ### Quel profilé Salamander recommander pour une maison individuelle neuve ?
 
-BluEvolution 92 (ALU ou FLEX) — le seul profilé Salamander certifié pleinement nZEB et maison passive : 6 chambres, 92–104 mm, Uw = 0,70 W/m²K, 3 joints EPDM, isolation acoustique jusqu’à 47 dB et compatible triple vitrage krypton (Ug = 0,5 W/m²K).
+BluEvolution 92 (ALU ou FLEX) — le profilé Salamander le plus performant de notre gamme, adapté aux maisons nZEB et passives : 6 chambres, 92–104 mm, Uw = 0,70 W/m²K, 3 joints EPDM, isolation acoustique jusqu’à 47 dB et compatible triple vitrage krypton (Ug = 0,5 W/m²K).
 
 ### Combien peut coûter à long terme une économie sur les fenêtres d’une maison ?
 
@@ -21404,7 +21404,7 @@ Entregamos carpintería Salamander y Alumil más allá de Rumanía, y el proceso
 
 ### El perfil — BluEvolution 92 ALU o BluEvolution 92 FLEX
 
-**[BluEvolution 92](/es/carpinteria-pvc)** es el único perfil Salamander con certificación completa para [el estándar nZEB](/es/sistemas-nzeb) y para casa pasiva.
+**[BluEvolution 92](/es/carpinteria-pvc)** es el perfil Salamander más aislante de nuestra gama (Uw 0,70 W/m²K), apto para [casas nZEB](/es/sistemas-nzeb) y casas pasivas.
 
 - 6 cámaras | profundidad 92–104 mm | Uw = 0,70 W/m²K
 - 3 juntas EPDM | aislamiento acústico hasta 47 dB
@@ -21425,7 +21425,7 @@ Para una vivienda construida en 2026, el doble acristalamiento ya no basta si bu
 
 ### La instalación — nZEB con premarcos Blaugelb, obligatorio
 
-En una vivienda unifamiliar, los puentes térmicos perimetrales influyen directamente en el cálculo energético. Los premarcos Blaugelb Triotherm+ eliminan el puente térmico y son obligatorios para la certificación nZEB.
+En una vivienda unifamiliar, los puentes térmicos perimetrales influyen directamente en el cálculo energético. Los premarcos Blaugelb Triotherm+ eliminan el puente térmico y se recomiendan en casas nZEB, aunque la ley no los exija.
 
 ---
 
@@ -21518,7 +21518,7 @@ En un bloque, la superficie acristalada es del 20–30 % de la fachada; en una v
 
 ### ¿Qué perfil Salamander se recomienda para una vivienda unifamiliar nueva?
 
-BluEvolution 92 (ALU o FLEX) — el único perfil Salamander con certificación completa nZEB y casa pasiva: 6 cámaras, 92–104 mm, Uw = 0,70 W/m²K, 3 juntas EPDM, aislamiento acústico hasta 47 dB y compatible con triple acristalamiento de criptón (Ug = 0,5 W/m²K).
+BluEvolution 92 (ALU o FLEX) — el perfil Salamander más eficiente de nuestra gama, apto para casas nZEB y pasivas: 6 cámaras, 92–104 mm, Uw = 0,70 W/m²K, 3 juntas EPDM, aislamiento acústico hasta 47 dB y compatible con triple acristalamiento de criptón (Ug = 0,5 W/m²K).
 
 ### ¿Cuánto puede costar a largo plazo un ahorro en las ventanas de una casa?
 
@@ -21556,7 +21556,7 @@ Consegniamo serramenti Salamander e Alumil oltre i confini della Romania, e il p
 
 ### Il profilo — BluEvolution 92 ALU o BluEvolution 92 FLEX
 
-**[BluEvolution 92](/it/infissi-pvc)** è l’unico profilo Salamander con certificazione completa per [lo standard nZEB](/it/sistemi-nzeb) e per la casa passiva.
+**[BluEvolution 92](/it/infissi-pvc)** è il profilo Salamander più isolante della nostra gamma (Uw 0,70 W/m²K), adatto alle [case nZEB](/it/sistemi-nzeb) e alle case passive.
 
 - 6 camere | profondità 92–104 mm | Uw = 0,70 W/m²K
 - 3 guarnizioni EPDM | isolamento acustico fino a 47 dB
@@ -21577,7 +21577,7 @@ Per una casa costruita nel 2026, il doppio vetro non basta più se puntate a un 
 
 ### La posa — nZEB con controtelai Blaugelb, obbligatoria
 
-In una casa unifamiliare i ponti termici perimetrali incidono direttamente sul calcolo energetico. I controtelai Blaugelb Triotherm+ eliminano il ponte termico e sono obbligatori per la certificazione nZEB.
+In una casa unifamiliare i ponti termici perimetrali incidono direttamente sul calcolo energetico. I controtelai Blaugelb Triotherm+ eliminano il ponte termico e sono consigliati nelle case nZEB, anche se la legge non li impone.
 
 ---
 
@@ -21670,7 +21670,7 @@ In un condominio la superficie vetrata è il 20–30 % della facciata; in una ca
 
 ### Quale profilo Salamander è consigliato per una casa unifamiliare nuova?
 
-BluEvolution 92 (ALU o FLEX) — l’unico profilo Salamander con certificazione completa nZEB e casa passiva: 6 camere, 92–104 mm, Uw = 0,70 W/m²K, 3 guarnizioni EPDM, isolamento acustico fino a 47 dB e compatibile con triplo vetro al kripton (Ug = 0,5 W/m²K).
+BluEvolution 92 (ALU o FLEX) — il profilo Salamander più performante della nostra gamma, adatto a case nZEB e passive: 6 camere, 92–104 mm, Uw = 0,70 W/m²K, 3 guarnizioni EPDM, isolamento acustico fino a 47 dB e compatibile con triplo vetro al kripton (Ug = 0,5 W/m²K).
 
 ### Quanto può costare nel lungo periodo un risparmio sulle finestre di una casa?
 
@@ -21811,7 +21811,7 @@ Sistemul pentru terase și balcoane mari — acolo unde ușa de balcon clasică 
 ### Reynaers CS 86-HI — varianta nZEB pentru apartamente premium
 
 - Barieră termică: **52 mm**
-- Uw = 0,8–1,0 W/m²K — certificare nZEB completă
+- Uw = 0,8–1,0 W/m²K — sub valoarea de 1,11 W/m²K recomandată pentru nZEB
 - Recomandat pentru etajele superioare cu expunere nordică sau estică
 
 ---
@@ -21935,7 +21935,7 @@ The system for large terraces and balconies — where a classic balcony door is 
 ### Reynaers CS 86-HI — the nZEB version for premium apartments
 
 - Thermal break: **52 mm**
-- Uw = 0.8–1.0 W/m²K — full nZEB certification
+- Uw = 0.8–1.0 W/m²K — below the 1.11 W/m²K recommended for nZEB
 - Recommended for upper floors with a northern or eastern aspect
 
 ---
@@ -22057,7 +22057,7 @@ Das System für große Terrassen und Balkone — dort, wo die klassische Balkont
 ### Reynaers CS 86-HI — die nZEB-Variante für gehobene Wohnungen
 
 - Thermische Trennung: **52 mm**
-- Uw = 0,8–1,0 W/m²K — vollständige nZEB-Zertifizierung
+- Uw = 0,8–1,0 W/m²K — unter den für nZEB empfohlenen 1,11 W/m²K
 - Empfohlen für obere Geschosse mit Nord- oder Ostausrichtung
 
 ---
@@ -22179,7 +22179,7 @@ Le système pour les grandes terrasses et balcons — là où la porte-fenêtre 
 ### Reynaers CS 86-HI — la version nZEB pour appartements haut de gamme
 
 - Rupture thermique : **52 mm**
-- Uw = 0,8–1,0 W/m²K — certification nZEB complète
+- Uw = 0,8–1,0 W/m²K — sous les 1,11 W/m²K recommandés pour le nZEB
 - Recommandé pour les étages supérieurs exposés nord ou est
 
 ---
@@ -22301,7 +22301,7 @@ El sistema para terrazas y balcones grandes — allí donde la puerta de balcón
 ### Reynaers CS 86-HI — la versión nZEB para viviendas premium
 
 - Rotura de puente térmico: **52 mm**
-- Uw = 0,8–1,0 W/m²K — certificación nZEB completa
+- Uw = 0,8–1,0 W/m²K — por debajo de los 1,11 W/m²K recomendados para nZEB
 - Recomendado para plantas altas con orientación norte o este
 
 ---
@@ -22423,7 +22423,7 @@ Il sistema per terrazze e balconi ampi — dove la porta-finestra classica non b
 ### Reynaers CS 86-HI — la versione nZEB per appartamenti di pregio
 
 - Taglio termico: **52 mm**
-- Uw = 0,8–1,0 W/m²K — certificazione nZEB completa
+- Uw = 0,8–1,0 W/m²K — sotto gli 1,11 W/m²K raccomandati per il nZEB
 - Consigliato per i piani alti con esposizione a nord o a est
 
 ---
@@ -27845,7 +27845,7 @@ Din **2021**, toate construcțiile noi autorizate în România trebuie să respe
 - 6 camere de aer, adâncime 92 mm
 - 3 garnituri de etanșare perimetrală
 - Uw de la **0,70 W/m²K**, cu geam triplu Low-E
-- Sistemul bluEvolution are certificat Passivhaus (PHI) ✅
+- Uw 0,70 W/m²K, sub pragul PHI de 0,80 W/m²K pentru case pasive ✅
 
 ### Salamander GreenEvolution 76
 - 5 camere de aer, adâncime 76 mm
@@ -28001,7 +28001,7 @@ Since **2021**, all new buildings permitted in Romania must meet the **nZEB (Nea
 - 6 air chambers, 92 mm depth
 - 3 perimeter sealing gaskets
 - Uw from **0.70 W/m²K**, with triple Low-E glazing
-- The bluEvolution system holds Passivhaus (PHI) certification ✅
+- Uw 0.70 W/m²K, below the PHI limit of 0.80 W/m²K for passive houses ✅
 
 ### Salamander GreenEvolution 76
 - 5 air chambers, 76 mm depth
@@ -28157,7 +28157,7 @@ Seit **2021** müssen alle in Rumänien genehmigten Neubauten den **nZEB-Standar
 - 6 Luftkammern, Bautiefe 92 mm
 - 3 umlaufende Dichtungen
 - Uw ab **0,70 W/m²K**, mit Dreifachverglasung Low-E
-- Das System bluEvolution ist passivhauszertifiziert (PHI) ✅
+- Uw 0,70 W/m²K, unter dem PHI-Grenzwert von 0,80 W/m²K für Passivhäuser ✅
 
 ### Salamander GreenEvolution 76
 - 5 Luftkammern, Bautiefe 76 mm
@@ -28313,7 +28313,7 @@ Depuis **2021**, toutes les constructions neuves autorisées en Roumanie doivent
 - 6 chambres d’air, profondeur 92 mm
 - 3 joints d’étanchéité périphériques
 - Uw à partir de **0,70 W/m²K**, avec triple vitrage Low-E
-- Le système bluEvolution est certifié maison passive (PHI) ✅
+- Uw 0,70 W/m²K, sous le seuil PHI de 0,80 W/m²K pour les maisons passives ✅
 
 ### Salamander GreenEvolution 76
 - 5 chambres d’air, profondeur 76 mm
@@ -28469,7 +28469,7 @@ Desde **2021**, todas las obras nuevas autorizadas en Rumanía deben cumplir el 
 - 6 cámaras de aire, profundidad de 92 mm
 - 3 juntas de estanqueidad perimetrales
 - Uw desde **0,70 W/m²K**, con triple acristalamiento Low-E
-- El sistema bluEvolution tiene certificación Passivhaus (PHI) ✅
+- Uw 0,70 W/m²K, por debajo del límite PHI de 0,80 W/m²K para casas pasivas ✅
 
 ### Salamander GreenEvolution 76
 - 5 cámaras de aire, profundidad de 76 mm
@@ -28625,7 +28625,7 @@ Dal **2021** tutte le nuove costruzioni autorizzate in Romania devono rispettare
 - 6 camere d’aria, profondità 92 mm
 - 3 guarnizioni di tenuta perimetrali
 - Uw da **0,70 W/m²K**, con vetro triplo Low-E
-- Il sistema bluEvolution ha la certificazione Passivhaus (PHI) ✅
+- Uw 0,70 W/m²K, sotto la soglia PHI di 0,80 W/m²K per le case passive ✅
 
 ### Salamander GreenEvolution 76
 - 5 camere d’aria, profondità 76 mm
@@ -35727,7 +35727,7 @@ Se încadrează: valoarea de referință din Mc 001-2022 pentru o casă nouă es
 
 ### Care este cel mai bun Uw pe care îl putem obține?
 
-Salamander bluEvolution 92 cu tripan și distanțier Warm Edge: **Uw de la 0,70 W/(m²K)**; sistemul bluEvolution are certificat Passivhaus. Montajul cu precadre Blaugelb Triotherm+ nu schimbă Uw-ul ferestrei, dar păstrează performanța ei în perete.
+Salamander bluEvolution 92 cu tripan și distanțier Warm Edge: **Uw de la 0,70 W/(m²K)**; valoarea e sub pragul de 0,80 W/(m²K) cerut de Passive House (în baza PHI este certificat bluEvolution 82, nu 92). Montajul cu precadre Blaugelb Triotherm+ nu schimbă Uw-ul ferestrei, dar păstrează performanța ei în perete.
 
 ### Cum verific Uw-ul unei ferestre?
 
@@ -35845,7 +35845,7 @@ It complies: the Mc 001-2022 reference value for a new house is Uw ≤ 1.11 W/(m
 
 ### What is the best Uw we can achieve?
 
-Salamander bluEvolution 92 with triple glazing and a Warm Edge spacer: **Uw from 0.70 W/(m²K)**; the bluEvolution system holds Passivhaus certification. Installation with Blaugelb Triotherm+ pre-frames does not change the window's Uw, but it preserves its performance once built into the wall.
+Salamander bluEvolution 92 with triple glazing and a Warm Edge spacer: **Uw from 0.70 W/(m²K)**; that is below the 0.80 W/(m²K) Passive House limit (the PHI database lists bluEvolution 82 as certified, not 92). Installation with Blaugelb Triotherm+ pre-frames does not change the window's Uw, but it preserves its performance once built into the wall.
 
 ### How do I check a window's Uw?
 
@@ -35963,7 +35963,7 @@ Er erfüllt die Vorgabe: Der Referenzwert von Mc 001-2022 für ein neues Haus is
 
 ### Welcher Uw-Wert ist bestenfalls erreichbar?
 
-Salamander bluEvolution 92 mit Dreifachverglasung und Warm-Edge-Abstandhalter: **Uw ab 0,70 W/(m²K)**; das System bluEvolution ist passivhauszertifiziert. Die Montage mit dem Vorwandmontagesystem Blaugelb Triotherm+ ändert den Uw-Wert des Fensters nicht, erhält aber seine Leistung in der Wand.
+Salamander bluEvolution 92 mit Dreifachverglasung und Warm-Edge-Abstandhalter: **Uw ab 0,70 W/(m²K)**; das liegt unter dem Passivhaus-Grenzwert von 0,80 W/(m²K) (in der PHI-Datenbank ist bluEvolution 82 zertifiziert, nicht 92). Die Montage mit dem Vorwandmontagesystem Blaugelb Triotherm+ ändert den Uw-Wert des Fensters nicht, erhält aber seine Leistung in der Wand.
 
 ### Wie prüfe ich den Uw-Wert eines Fensters?
 
@@ -36081,7 +36081,7 @@ Il est conforme : la valeur de référence de la Mc 001-2022 pour une maison neu
 
 ### Quel est le meilleur Uw que l’on peut obtenir ?
 
-Salamander bluEvolution 92 en triple vitrage avec intercalaire Warm Edge : **Uw à partir de 0,70 W/(m²K)** ; le système bluEvolution est certifié maison passive. La pose avec précadres Blaugelb Triotherm+ ne modifie pas le Uw de la fenêtre, mais préserve ses performances une fois intégrée au mur.
+Salamander bluEvolution 92 en triple vitrage avec intercalaire Warm Edge : **Uw à partir de 0,70 W/(m²K)** ; c’est sous le seuil Maison Passive de 0,80 W/(m²K) (la base PHI certifie le bluEvolution 82, pas le 92). La pose avec précadres Blaugelb Triotherm+ ne modifie pas le Uw de la fenêtre, mais préserve ses performances une fois intégrée au mur.
 
 ### Comment vérifier le Uw d’une fenêtre ?
 
@@ -36199,7 +36199,7 @@ Cumple: el valor de referencia de la Mc 001-2022 para una casa nueva es Uw ≤ 1
 
 ### ¿Cuál es el mejor Uw que podemos conseguir?
 
-Salamander bluEvolution 92 con triple acristalamiento y separador Warm Edge: **Uw desde 0,70 W/(m²K)**; el sistema bluEvolution tiene certificación Passivhaus. La instalación con premarcos Blaugelb Triotherm+ no cambia el Uw de la ventana, pero conserva su rendimiento una vez colocada en el muro.
+Salamander bluEvolution 92 con triple acristalamiento y separador Warm Edge: **Uw desde 0,70 W/(m²K)**; está por debajo del límite Passive House de 0,80 W/(m²K) (en la base PHI figura certificado el bluEvolution 82, no el 92). La instalación con premarcos Blaugelb Triotherm+ no cambia el Uw de la ventana, pero conserva su rendimiento una vez colocada en el muro.
 
 ### ¿Cómo compruebo el Uw de una ventana?
 
@@ -36317,7 +36317,7 @@ L’Uf è il coefficiente termico del profilo (il telaio della finestra), senza 
 
 ### Qual è il miglior Uw che possiamo ottenere?
 
-Salamander bluEvolution 92 con vetro triplo e distanziatore Warm Edge: **Uw da 0,70 W/(m²K)**; il sistema bluEvolution ha la certificazione Passivhaus. La posa con controtelai Blaugelb Triotherm+ non cambia l’Uw della finestra, ma ne preserva le prestazioni una volta inserita nel muro.
+Salamander bluEvolution 92 con vetro triplo e distanziatore Warm Edge: **Uw da 0,70 W/(m²K)**; è sotto la soglia Passive House di 0,80 W/(m²K) (nella banca dati PHI è certificato il bluEvolution 82, non il 92). La posa con controtelai Blaugelb Triotherm+ non cambia l’Uw della finestra, ma ne preserva le prestazioni una volta inserita nel muro.
 
 ### Come verifico l’Uw di una finestra?
 
@@ -36485,7 +36485,7 @@ DoP este documentul obligatoriu emis de producător care declară valorile tehni
 ### Ce este marcajul CE la ferestre?
 Marcajul CE confirmă că fereastra a fost testată și îndeplinește cerințele standardului european EN 14351-1. Nu este o marcă de calitate, ci o declarație de conformitate obligatorie pentru comercializare în UE.
 
-### Este obligatorie certificarea nZEB pentru renovări?
+### Sunt obligatorii cerințele nZEB la renovări?
 Da, pentru renovări cu autorizație de construire care implică mai mult de 25% din suprafața anvelopei. Dacă schimbi toate ferestrele unui bloc sau case, proiectul trebuie să atingă performanța nZEB.
 
 ### Ce se schimbă concret în 2026 față de 2025?
@@ -36574,7 +36574,7 @@ The DoP is the mandatory document issued by the manufacturer declaring the teste
 ### What does CE marking mean on a window?
 CE marking confirms that the window has been tested and meets the requirements of the European standard EN 14351-1. It is not a quality label but a mandatory declaration of conformity for sale within the EU.
 
-### Is nZEB certification mandatory for renovations?
+### Are nZEB requirements mandatory for renovations?
 Yes, for renovations under a construction permit that affect more than 25% of the envelope area. If you replace all the windows of a block or a house, the project has to reach nZEB performance.
 
 ### What changes concretely in 2026 compared with 2025?
@@ -36663,7 +36663,7 @@ Die DoP ist das verpflichtende Dokument des Herstellers, das die geprüften tech
 ### Was bedeutet die CE-Kennzeichnung bei Fenstern?
 Die CE-Kennzeichnung bestätigt, dass das Fenster geprüft wurde und die Anforderungen der europäischen Norm EN 14351-1 erfüllt. Sie ist kein Gütesiegel, sondern eine für den Verkauf in der EU verpflichtende Konformitätserklärung.
 
-### Ist die nZEB-Zertifizierung bei Sanierungen Pflicht?
+### Gelten die nZEB-Anforderungen auch bei Sanierungen?
 Ja, bei genehmigungspflichtigen Sanierungen, die mehr als 25 % der Hüllfläche betreffen. Wenn Sie alle Fenster eines Wohnblocks oder Hauses tauschen, muss das Vorhaben die nZEB-Leistung erreichen.
 
 ### Was ändert sich 2026 konkret gegenüber 2025?
@@ -36747,7 +36747,7 @@ La DoP est le document obligatoire émis par le fabricant, qui déclare les vale
 ### Que signifie le marquage CE sur une fenêtre ?
 Le marquage CE atteste que la fenêtre a été testée et satisfait aux exigences de la norme européenne EN 14351-1. Ce n’est pas un label de qualité, mais une déclaration de conformité obligatoire pour la vente dans l’UE.
 
-### La certification nZEB est-elle obligatoire en rénovation ?
+### Les exigences nZEB sont-elles obligatoires en rénovation ?
 Oui, pour les rénovations soumises à permis qui touchent plus de 25 % de la surface de l’enveloppe. Si vous remplacez toutes les fenêtres d’un immeuble ou d’une maison, le projet doit atteindre la performance nZEB.
 
 ### Qu’est-ce qui change concrètement en 2026 par rapport à 2025 ?
@@ -36831,7 +36831,7 @@ La DoP es el documento obligatorio emitido por el fabricante que declara los val
 ### ¿Qué significa el marcado CE en una ventana?
 El marcado CE confirma que la ventana ha sido ensayada y cumple los requisitos de la norma europea EN 14351-1. No es un sello de calidad, sino una declaración de conformidad obligatoria para su venta en la UE.
 
-### ¿Es obligatoria la certificación nZEB en reformas?
+### ¿Son obligatorios los requisitos nZEB en reformas?
 Sí, en reformas con licencia de obra que afecten a más del 25 % de la superficie de la envolvente. Si cambia todas las ventanas de un bloque o una vivienda, el proyecto debe alcanzar la prestación nZEB.
 
 ### ¿Qué cambia concretamente en 2026 frente a 2025?
@@ -36915,7 +36915,7 @@ La DoP è il documento obbligatorio emesso dal fabbricante che dichiara i valori
 ### Che cosa significa la marcatura CE su una finestra?
 La marcatura CE attesta che la finestra è stata provata e soddisfa i requisiti della norma europea EN 14351-1. Non è un marchio di qualità, ma una dichiarazione di conformità obbligatoria per la vendita nell’UE.
 
-### La certificazione nZEB è obbligatoria nelle ristrutturazioni?
+### I requisiti nZEB sono obbligatori nelle ristrutturazioni?
 Sì, per le ristrutturazioni soggette a permesso che interessano più del 25 % della superficie dell’involucro. Se sostituite tutte le finestre di un condominio o di una casa, l’intervento deve raggiungere la prestazione nZEB.
 
 ### Che cosa cambia concretamente nel 2026 rispetto al 2025?

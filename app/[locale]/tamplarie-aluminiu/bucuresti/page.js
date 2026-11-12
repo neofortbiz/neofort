@@ -22,7 +22,7 @@ const UI = {
     label: 'Tâmplărie Aluminiu · București',
     parent: 'Tâmplărie Aluminiu',
     h1: 'Tâmplărie Aluminiu București — Furnizare și Montaj Alumil în Sectoarele 1–6',
-    sub: 'Neofort BIZ furnizează și montează tâmplărie aluminiu Alumil în București și Ilfov. Consultanță tehnică, montaj certificat nZEB, garanție 5 ani.',
+    sub: 'Neofort BIZ furnizează și montează tâmplărie aluminiu Alumil în București și Ilfov. Consultanță tehnică, montaj pentru case nZEB, garanție 5 ani.',
     intro: 'Neofort BIZ este prezent în București din 2005, cu sediul în Sectorul 1 (Str. Theodor Aman Pictor 11). Furnizăm și montăm tâmplărie aluminiu Alumil în toate cele 6 sectoare ale Capitalei și în zona metropolitană Ilfov — cu echipe proprii de montaj, consultanți tehnici și servicii complete de la măsurători până la garanție post-montaj.',
     zones_title: 'Zone de acoperire în București și Ilfov',
     zones: [
@@ -71,7 +71,7 @@ const UI = {
     label: 'Aluminium Windows · Bucharest',
     parent: 'Aluminium Windows',
     h1: 'Aluminium Windows Bucharest — Alumil Supply and Installation in all Districts',
-    sub: 'Neofort BIZ supplies and installs Alumil aluminium windows in Bucharest and Ilfov. Technical consultation, nZEB certified installation, 5-year warranty.',
+    sub: 'Neofort BIZ supplies and installs Alumil aluminium windows in Bucharest and Ilfov. Technical consultation, installation for nZEB homes, 5-year warranty.',
     intro: 'Neofort BIZ has been present in Bucharest since 2005, headquartered in District 1 (Str. Theodor Aman Pictor 11). We supply and install Alumil aluminium windows across all 6 districts of the capital and the Ilfov metropolitan area — with our own installation teams, technical consultants and complete services from measurements to post-installation warranty.',
     zones_title: 'Coverage areas in Bucharest and Ilfov',
     zones: [
@@ -120,7 +120,7 @@ const UI = {
     label: 'Aluminiumfenster · Bukarest',
     parent: 'Aluminiumfenster',
     h1: 'Aluminiumfenster Bukarest — Alumil Lieferung und Montage in allen Bezirken',
-    sub: 'Neofort BIZ liefert und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov. Technische Beratung, nZEB-zertifizierter Einbau, 5 Jahre Garantie.',
+    sub: 'Neofort BIZ liefert und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov. Technische Beratung, Einbau für nZEB-Häuser, 5 Jahre Garantie.',
     intro: 'Neofort BIZ ist seit 2005 in Bukarest präsent, mit Hauptsitz in Bezirk 1 (Str. Theodor Aman Pictor 11). Wir liefern und montieren Alumil-Aluminiumfenster in allen 6 Bezirken der Hauptstadt und im Ballungsraum Ilfov — mit eigenen Montageteams, technischen Beratern und kompletten Dienstleistungen von der Aufmaß bis zur Nachgarantie.',
     zones_title: 'Abdeckungsgebiete in Bukarest und Ilfov',
     zones: [
@@ -169,7 +169,7 @@ const UI = {
     label: 'Menuiserie Aluminium · Bucarest',
     parent: 'Menuiserie Aluminium',
     h1: 'Menuiserie Aluminium Bucarest — Fourniture et Pose Alumil dans tous les Arrondissements',
-    sub: 'Neofort BIZ fournit et pose la menuiserie aluminium Alumil à Bucarest et Ilfov. Conseil technique, pose certifiée nZEB, garantie 5 ans.',
+    sub: 'Neofort BIZ fournit et pose la menuiserie aluminium Alumil à Bucarest et Ilfov. Conseil technique, pose pour maisons nZEB, garantie 5 ans.',
     intro: "Neofort BIZ est présent à Bucarest depuis 2005, avec siège dans l'Arrondissement 1 (Str. Theodor Aman Pictor 11). Nous fournissons et posons la menuiserie aluminium Alumil dans les 6 arrondissements de la capitale et dans la zone métropolitaine d'Ilfov — avec nos propres équipes de pose, conseillers techniques et services complets des métrés à la garantie post-pose.",
     zones_title: 'Zones de couverture à Bucarest et Ilfov',
     zones: [
@@ -218,7 +218,7 @@ const UI = {
     label: 'Carpintería Aluminio · Bucarest',
     parent: 'Carpintería Aluminio',
     h1: 'Carpintería Aluminio Bucarest — Suministro e Instalación Alumil en todos los Distritos',
-    sub: 'Neofort BIZ suministra e instala carpintería de aluminio Alumil en Bucarest e Ilfov. Asesoramiento técnico, instalación certificada nZEB, garantía 5 años.',
+    sub: 'Neofort BIZ suministra e instala carpintería de aluminio Alumil en Bucarest e Ilfov. Asesoramiento técnico, instalación para casas nZEB, garantía 5 años.',
     intro: 'Neofort BIZ lleva presente en Bucarest desde 2005, con sede en el Distrito 1 (Str. Theodor Aman Pictor 11). Suministramos e instalamos carpintería de aluminio Alumil en los 6 distritos de la capital y en el área metropolitana de Ilfov — con nuestros propios equipos de instalación, consultores técnicos y servicios completos desde la medición hasta la garantía postventa.',
     zones_title: 'Zonas de cobertura en Bucarest e Ilfov',
     zones: [
@@ -267,7 +267,7 @@ const UI = {
     label: 'Infissi Alluminio · Bucarest',
     parent: 'Infissi Alluminio',
     h1: 'Infissi Alluminio Bucarest — Fornitura e Posa Alumil in tutti i Settori',
-    sub: 'Neofort BIZ fornisce e installa infissi in alluminio Alumil a Bucarest e Ilfov. Consulenza tecnica, posa certificata nZEB, garanzia 5 anni.',
+    sub: 'Neofort BIZ fornisce e installa infissi in alluminio Alumil a Bucarest e Ilfov. Consulenza tecnica, posa per case nZEB, garanzia 5 anni.',
     intro: "Neofort BIZ è presente a Bucarest dal 2005, con sede nel Settore 1 (Str. Theodor Aman Pictor 11). Forniamo e installiamo infissi in alluminio Alumil in tutti i 6 settori della capitale e nell'area metropolitana di Ilfov — con propri team di posa, consulenti tecnici e servizi completi dai rilievi alla garanzia post-posa.",
     zones_title: 'Zone di copertura a Bucarest e Ilfov',
     zones: [
@@ -326,12 +326,12 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Menuiserie Aluminium Bucarest — Secteurs 1–6 | Neofort BIZ'
          : locale === 'es' ? 'Carpintería Aluminio Bucarest — Distritos 1–6 | Neofort BIZ'
          : 'Infissi Alluminio Bucarest — Settori 1–6 | Neofort BIZ',
-    description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil în București — montaj toate sectoarele și Ilfov. Echipe certificate nZEB, montaj garantat, livrare rapidă.'
-               : locale === 'en' ? 'Alumil aluminium windows in Bucharest — installation in all districts and Ilfov. Own nZEB-certified teams, 5-year warranty. Voluntari, Pipera, Otopeni.'
-               : locale === 'de' ? 'Alumil Aluminiumfenster in Bukarest — Montage in allen Bezirken und Ilfov. Eigene nZEB-zertifizierte Teams, 5 Jahre Garantie.'
-               : locale === 'fr' ? 'Menuiserie aluminium Alumil à Bucarest — pose dans tous les arrondissements et Ilfov. Équipes propres certifiées nZEB, garantie 5 ans.'
-               : locale === 'es' ? 'Carpintería aluminio Alumil en Bucarest — instalación en todos los distritos e Ilfov. Equipos propios certificados nZEB, garantía 5 años.'
-               : 'Infissi alluminio Alumil a Bucarest — posa in tutti i settori e Ilfov. Team propri certificati nZEB, preventivo in 48h, garanzia 5 anni.',
+    description: locale === 'ro' ? 'Tâmplărie aluminiu Alumil în București — montaj toate sectoarele și Ilfov. Echipe proprii de montaj, montaj garantat, livrare rapidă.'
+               : locale === 'en' ? 'Alumil aluminium windows in Bucharest — installation in all districts and Ilfov. Own installation teams, 5-year warranty. Voluntari, Pipera, Otopeni.'
+               : locale === 'de' ? 'Alumil Aluminiumfenster in Bukarest — Montage in allen Bezirken und Ilfov. Eigene Montageteams, 5 Jahre Garantie.'
+               : locale === 'fr' ? 'Menuiserie aluminium Alumil à Bucarest — pose dans tous les arrondissements et Ilfov. Équipes de pose propres, garantie 5 ans.'
+               : locale === 'es' ? 'Carpintería aluminio Alumil en Bucarest — instalación en todos los distritos e Ilfov. Equipos propios de instalación, garantía 5 años.'
+               : 'Infissi alluminio Alumil a Bucarest — posa in tutti i settori e Ilfov. Squadre di posa proprie, preventivo in 48h, garanzia 5 anni.',
     keywords: locale === 'ro' ? 'tamplarie aluminiu bucuresti, montaj tamplarie aluminiu bucuresti, tamplarie aluminiu sector 1 bucuresti, alumil bucuresti, ferestre aluminiu bucuresti, montaj ferestre aluminiu bucuresti, tamplarie aluminiu ilfov, ferestre aluminiu voluntari pipera otopeni'
             : 'aluminium windows Bucharest, aluminium window installation Bucharest, Alumil Bucharest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
