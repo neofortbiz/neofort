@@ -1,6 +1,6 @@
 'use client';
 import { useLocale, useTranslations } from 'next-intl';
-import { useState, useRef } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { Link, usePathname } from '../i18n/navigation';
 import { formatRatingLabel } from '../lib/formatRating.js';
 import { getOrderedCountries, countryLabel, validatePhone } from '../lib/countryCodes.js';
@@ -34,6 +34,13 @@ export default function Footer({ googleRating }) {
   // Anti-spam (v259): momentul incarcarii formularului. Diferenta pana la
   // trimitere pleaca spre server in campul "t".
   const loadedAt = useRef(Date.now());
+
+  // v314 (WebMCP): formularul completat de un agent AI. Afiseaza o nota langa
+  // acordul GDPR; dispare la trimitere reusita.
+  const [agentFilled, setAgentFilled] = useState(false);
+  const formRef   = useRef(null);
+  const statusRef = useRef(status);
+  statusRef.current = status;
 
   // Lista produse per limbă din messages
   const PRODUSE_RAW = {
@@ -173,7 +180,7 @@ export default function Footer({ googleRating }) {
     try {
       const res  = await fetch('/api/contact', { method:'POST', body:fd });
       const json = await res.json();
-      if (json.success) { setStatus('success'); setErrorMsg(''); form.reset(); setFiles([]); setGdpr(false); setErr(EMPTY_ERR); setPhoneVal(defaultDial + ' '); }
+      if (json.success) { setStatus('success'); setErrorMsg(''); form.reset(); setFiles([]); setGdpr(false); setErr(EMPTY_ERR); setPhoneVal(defaultDial + ' '); setAgentFilled(false); }
       else {
         setStatus('error');
         setErrorMsg(json.error || '');
@@ -182,6 +189,160 @@ export default function Footer({ googleRating }) {
       setStatus('error');
       setErrorMsg('');
     }
+  };
+
+  // ── v314: WebMCP — unealta „request_quote” pentru agenti AI ─────────────
+  //
+  // Experimental (origin trial Chrome 149–162, tokenul e in next.config.js).
+  // Agentul doar COMPLETEAZA formularul. Acordul GDPR si butonul Trimite raman
+  // la om: consimtamantul nu poate fi dat de agent, iar spam-ul automat ramane
+  // imposibil. In browserele fara WebMCP blocul nu face nimic.
+  //
+  // Campurile nume/email/adresa/comanda/prefix/produse sunt necontrolate (DOM),
+  // deci li se scrie direct .value/.checked. Telefonul e controlat (phoneVal),
+  // deci trece prin setPhoneVal — altfel React l-ar reseta la urmatoarea randare.
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const mc = (typeof document !== 'undefined' && document.modelContext) || navigator.modelContext;
+    if (!mc || typeof mc.registerTool !== 'function') return;
+
+    const norm = (s) => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, ' ').trim();
+    const pick = (val, list) => {
+      const v = norm(val);
+      if (!v) return null;
+      return list.find(o => norm(o) === v) || list.find(o => norm(o).includes(v) || v.includes(norm(o))) || null;
+    };
+    const str = (v, max) => (typeof v === 'string' ? v.trim().slice(0, max) : '');
+    const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+    const execute = async (input) => {
+      const a = input && typeof input === 'object' ? input : {};
+      if (statusRef.current === 'sending') {
+        return JSON.stringify({ ok:false, error:'A request is being sent right now. Try again in a few seconds.' });
+      }
+      // Dupa o trimitere reusita formularul e inlocuit de mesajul de confirmare.
+      if (statusRef.current === 'success') setStatus('idle');
+      for (let i = 0; i < 40 && !formRef.current; i++) await sleep(50);
+      const form = formRef.current;
+      if (!form) return JSON.stringify({ ok:false, error:'The quote form is not available on this page.' });
+
+      const filled = [], attention = [], clear = {};
+
+      const name = str(a.name, 120);
+      if (name) { form.nume.value = name; filled.push('name'); clear.nume = ''; }
+
+      const email = str(a.email, 254);
+      if (email) {
+        form.email.value = email; filled.push('email'); clear.email = '';
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) attention.push('email looks invalid');
+      }
+
+      const phone = str(a.phone, 40);
+      if (phone) {
+        // Se pastreaza spatiile scrise de agent (mai usor de verificat de om).
+        let raw = phone.replace(/[^\d+\s\-().]/g, '').replace(/\s+/g, ' ').trim();
+        if (raw.startsWith('00')) raw = '+' + raw.slice(2);
+        const digits = raw.replace(/[^\d+]/g, '');
+        let dial = form.prefix.value || defaultDial, national = raw.replace(/^\+/, '');
+        if (digits.startsWith('+')) {
+          const all = Array.from(form.prefix.options).map(o => o.value).filter(Boolean);
+          const match = all.filter(d => digits.startsWith(d)).sort((x, y) => y.length - x.length)[0];
+          if (match) {
+            dial = match;
+            national = raw.startsWith(match) ? raw.slice(match.length).trim() : digits.slice(match.length);
+          } else attention.push('phone country code not in the list — the user must choose it');
+        }
+        form.prefix.value = dial;
+        setPhoneVal(dial + ' ' + national);
+        filled.push('phone'); clear.telefon = '';
+        if (!validatePhone(dial, national).ok) attention.push('phone number looks invalid for ' + dial);
+      }
+
+      if (a.service) {
+        const o = pick(a.service, opts);
+        if (o) { form.comanda.value = o; filled.push('service'); clear.comanda = ''; }
+        else attention.push('service not recognised — the user must choose it');
+      }
+
+      const address = str(a.address, 300);
+      if (address) { form.adresa.value = address; filled.push('address'); clear.adresa = ''; }
+
+      if (Array.isArray(a.products)) {
+        const ok = [];
+        a.products.slice(0, PRODUSE.length).forEach(p => {
+          const o = pick(p, PRODUSE);
+          const cb = o ? form.querySelector('#cb' + PRODUSE.indexOf(o)) : null;
+          if (cb) { cb.checked = true; ok.push(o); } else attention.push('product not recognised: ' + String(p).slice(0, 60));
+        });
+        if (ok.length) filled.push('products: ' + ok.join(', '));
+      }
+
+      if (!filled.length) {
+        return JSON.stringify({ ok:false, error:'Nothing was filled in. Provide at least one field.' });
+      }
+
+      setErr(p => ({ ...p, ...clear }));
+      setAgentFilled(true);
+      if (statusRef.current === 'error') { setStatus('idle'); setErrorMsg(''); }
+
+      // Duce vizitatorul la acord si la buton, fara salt brusc.
+      const reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      await sleep(60);
+      const target = document.getElementById('agent-note') || document.getElementById('gdpr-cb');
+      if (target) target.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block:'center' });
+
+      const missing = [];
+      if (!form.nume.value.trim()) missing.push('name');
+      if (!validatePhone(form.prefix.value, form.telefon.value).ok) missing.push('phone');
+      if (!form.email.value.trim()) missing.push('email');
+      if (!form.comanda.value) missing.push('service');
+      if (!form.adresa.value.trim()) missing.push('address');
+
+      return JSON.stringify({
+        ok: true,
+        filled,
+        needs_attention: attention,
+        still_missing: missing,
+        next_step: 'The form is filled in but NOT sent. Ask the user to check the data, tick the privacy-policy consent box and press the "' + t('submit') + '" button. You cannot send it on their behalf.',
+      });
+    };
+
+    const ctrl = new AbortController();
+    try {
+      const r = mc.registerTool({
+        name: 'request_quote',
+        description:
+          'Fill in the price-quote request form of Neofort BIZ (Salamander PVC and Alumil aluminium windows and doors, shading, nZEB installation; Bucharest, Romania, delivery across the EU). ' +
+          'The form is only filled in, never sent: the user must review it, tick the privacy-policy consent box and press the submit button. ' +
+          'All fields are optional; send what you know. For "service" and "products" use the exact labels from the schema (they are in the page language). ' +
+          'Prices are quoted in EUR, without VAT, after the request is reviewed by the sales team.',
+        inputSchema: {
+          type: 'object',
+          properties: {
+            name:     { type:'string', description:'Full name of the person requesting the quote.' },
+            phone:    { type:'string', description:'Phone number, preferably international, e.g. +40 722 123 456.' },
+            email:    { type:'string', description:'E-mail address for the quote.' },
+            service:  { type:'string', enum: opts, description:'What the order should include (measurement, transport, installation or pickup).' },
+            address:  { type:'string', description:'Delivery / installation address (city and street).' },
+            products: { type:'array', items:{ type:'string', enum: PRODUSE }, description:'Products the quote should cover.' },
+          },
+        },
+        annotations: { readOnlyHint: false },
+        execute,
+      }, { signal: ctrl.signal });
+      if (r && typeof r.catch === 'function') r.catch(() => {});
+    } catch (e) { /* API experimental: orice eroare lasa site-ul neatins */ }
+    return () => ctrl.abort();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [locale]);
+
+  const AGENT_NOTE = {
+    ro: 'Asistentul AI a completat formularul. Verificați datele, bifați acordul de mai jos și apăsați „{btn}”.',
+    en: 'The AI assistant has filled in the form. Please check the details, tick the consent box below and press “{btn}”.',
+    de: 'Der KI-Assistent hat das Formular ausgefüllt. Bitte prüfen Sie die Angaben, setzen Sie unten das Häkchen und klicken Sie auf „{btn}“.',
+    fr: "L'assistant IA a rempli le formulaire. Vérifiez les données, cochez l'accord ci-dessous et appuyez sur « {btn} ».",
+    es: 'El asistente de IA ha rellenado el formulario. Revise los datos, marque la aceptación de abajo y pulse «{btn}».',
+    it: "L'assistente IA ha compilato il modulo. Controllate i dati, spuntate il consenso qui sotto e premete «{btn}».",
   };
 
   const iBase = { width:'100%', background:'transparent', border:'none', padding:'10px 0', fontFamily:'Barlow,sans-serif', fontSize:'.82rem', fontWeight:400, color:'#ddd', outline:'none', boxSizing:'border-box' };
@@ -217,7 +378,7 @@ export default function Footer({ googleRating }) {
               </button>
             </div>
           ) : (
-            <form onSubmit={handleSubmit}>
+            <form ref={formRef} onSubmit={handleSubmit}>
             {/* Honeypot anti-spam (v259) — invizibil pentru oameni, scos din
                 fluxul de tabulare si din arborele de accesibilitate. */}
             <div aria-hidden="true" style={{position:'absolute',left:'-9999px',width:'1px',height:'1px',overflow:'hidden'}}>
@@ -315,6 +476,20 @@ export default function Footer({ googleRating }) {
                     ))}
                   </div>
                 </div>
+
+                {/* v314: nota WebMCP — apare doar dupa ce un agent AI a completat formularul */}
+                {agentFilled && (
+                  <div id="agent-note" role="status" aria-live="polite"
+                    style={{margin:'0',padding:'12px 32px',borderTop:'1px solid #2a2a2a',background:'rgba(255,255,255,0.04)',display:'flex',alignItems:'flex-start',gap:'10px'}}>
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true" style={{flexShrink:0,marginTop:'2px'}}>
+                      <circle cx="8" cy="8" r="7" stroke="#bbb" strokeWidth="1.3"/>
+                      <path d="M5 8.2l2 2 4-4.4" stroke="#bbb" strokeWidth="1.3" strokeLinecap="round" strokeLinejoin="round"/>
+                    </svg>
+                    <span style={{fontFamily:'Barlow,sans-serif',fontSize:'.76rem',fontWeight:400,color:'#cfcfcf',lineHeight:1.55}}>
+                      {(AGENT_NOTE[locale] || AGENT_NOTE.ro).replace('{btn}', t('submit'))}
+                    </span>
+                  </div>
+                )}
 
                 {/* GDPR */}
                 <div style={{padding:'15px 32px',borderTop:'1px solid #2a2a2a'}}>
