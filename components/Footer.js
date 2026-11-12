@@ -42,6 +42,18 @@ export default function Footer({ googleRating }) {
   const statusRef = useRef(status);
   statusRef.current = status;
 
+  // v315: dupa trimitere, formularul inalt e inlocuit de confirmarea scurta si
+  // pagina se strange — vizitatorul ramanea mai jos, fara sa vada confirmarea.
+  // O aducem in mijlocul ecranului si primeste focus (anuntata de cititoarele de ecran).
+  const successRef = useRef(null);
+  useEffect(() => {
+    if (status !== 'success' || !successRef.current) return;
+    const el = successRef.current;
+    const reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    el.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'center' });
+    try { el.focus({ preventScroll: true }); } catch (e) {}
+  }, [status]);
+
   // Lista produse per limbă din messages
   const PRODUSE_RAW = {
     ro: ['Tâmplărie PVC Salamander','Tâmplărie Aluminiu Alumil','Geam Termoizolator 2 Foi','Geam Termoizolator 3 Foi','Precadre Blaugelb Triotherm+','Baghete Warm Edge','Bandă Butilică Etanșare','Benzi Etanșare Vapori','Profile de Renovare','Pervazuri de Interior','Pervazuri de Exterior','Rulouri Exterioare Aluminiu','Zipscreen Exterior','Jaluzele Venețiene Raffstore','Sisteme Ventilație','Sisteme Culisante','Uși de Intrare Premium','Uși de Garaj'],
@@ -307,9 +319,101 @@ export default function Footer({ googleRating }) {
       });
     };
 
+    // v315: fiecare unealta se inregistreaza separat — o eroare la una nu le blocheaza pe celelalte.
     const ctrl = new AbortController();
-    try {
-      const r = mc.registerTool({
+    const reg = (def) => {
+      try {
+        const r = mc.registerTool(def, { signal: ctrl.signal });
+        if (r && typeof r.catch === 'function') r.catch(() => {});
+      } catch (e) { /* API experimental: orice eroare lasa site-ul neatins */ }
+    };
+
+    // ── v315: unelte doar de citire, din /llms.txt ─────────────────────────
+    // Sursa unica: public/llms.txt (actualizat la fiecare corectura de pret
+    // sau de date tehnice). Se descarca doar cand un agent cere, o data.
+    let llmsP = null;
+    const llms = () => {
+      if (!llmsP) {
+        llmsP = fetch('/llms.txt').then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
+          .catch(e => { llmsP = null; throw e; });
+      }
+      return llmsP;
+    };
+    const section = (txt, title) => {
+      const L = txt.split('\n');
+      const i = L.findIndex(l => l.startsWith('## ' + title));
+      if (i < 0) return '';
+      let j = i + 1;
+      while (j < L.length && !L[j].startsWith('## ')) j++;
+      return L.slice(i, j).join('\n').trim();
+    };
+    const SRC = 'https://www.neofort-biz.ro/llms.txt';
+    const fail = () => JSON.stringify({ ok:false, error:'The data could not be loaded right now. Try again, or read ' + SRC });
+
+    reg({
+      name: 'get_prices',
+      description:
+        'Indicative 2026 prices of Neofort BIZ (Bucharest, Romania): Salamander PVC windows, Alumil aluminium systems, sliding and folding doors, curtain walls, entrance doors, nZEB installation, shutters, Raffstore, Zipscreen. ' +
+        'All prices are in EUR, without VAT (Romanian VAT 21% is added on the invoice), with standard installation in Bucharest and Ilfov. ' +
+        'The text is in Romanian. Final prices come only in a written quote after measurement.',
+      inputSchema: { type:'object', properties: {} },
+      annotations: { readOnlyHint: true },
+      execute: async () => {
+        try {
+          const txt = section(await llms(), 'Prețuri orientative');
+          if (!txt) return fail();
+          return JSON.stringify({
+            ok: true, currency: 'EUR', vat: 'excluded (21% VAT added on invoice)', language: 'ro',
+            prices: txt,
+            note: 'Indicative only. For a binding price use the request_quote tool so the sales team can send a written offer.',
+            source: SRC,
+          });
+        } catch (e) { return fail(); }
+      },
+    });
+
+    reg({
+      name: 'get_product_specs',
+      description:
+        'Technical data of the products Neofort BIZ supplies and installs: Salamander PVC profiles (BluEvolution 92, GreenEvolution 76), Alumil aluminium systems (S77, S67, S700, S350, SF85, M19800), accessories, nZEB installation systems, shading, insulating glass, curtain walls. ' +
+        'Returns depth, chambers, Uw/Uf, glazing thickness, sound insulation, burglar resistance and the product page link. ' +
+        'Optional "query" filters by product name or keyword (e.g. "BluEvolution 92", "S77", "raffstore"). The text is in Romanian.',
+      inputSchema: {
+        type: 'object',
+        properties: { query: { type:'string', description:'Product name or keyword. Leave empty for the full list.' } },
+      },
+      annotations: { readOnlyHint: true },
+      execute: async (input) => {
+        try {
+          const txt = section(await llms(), 'Produse și Sisteme');
+          if (!txt) return fail();
+          // Blocuri: „### Categorie” + „- **[Produs](url)**” cu randurile indentate de sub el.
+          const blocks = []; let cat = '';
+          txt.split('\n').forEach(l => {
+            if (l.startsWith('### ')) cat = l.slice(4).trim();
+            else if (l.startsWith('- **[')) blocks.push({ cat, text: l });
+            else if (/^\s+- /.test(l) && blocks.length) blocks[blocks.length - 1].text += '\n' + l;
+          });
+          const q = norm(input && typeof input.query === 'string' ? input.query.slice(0, 80) : '');
+          const flat = (x) => norm(x).replace(/\s+/g, '');
+          const toks = q.split(' ').filter(Boolean);
+          const hit = toks.length ? blocks.filter(b => { const h = norm(b.cat + ' ' + b.text), hf = flat(b.cat + b.text); return toks.every(tk => h.includes(tk) || hf.includes(tk)) || hf.includes(flat(q)); }) : blocks;
+          const name = (b) => (b.text.match(/^- \*\*\[([^\]]+)\]/) || [])[1] || '';
+          if (!hit.length) {
+            return JSON.stringify({ ok:true, matches: [], note: 'No product matched "' + q + '". Available products are listed below.', available: blocks.map(b => b.cat + ': ' + name(b)), source: SRC });
+          }
+          return JSON.stringify({
+            ok: true, language: 'ro', count: hit.length,
+            products: hit.slice(0, 12).map(b => ({ category: b.cat, specs: b.text })),
+            note: hit.length > 12 ? 'Only the first 12 matches are shown; refine the query.' : undefined,
+            pages_note: 'Every product page exists in Romanian, English, German, French, Spanish and Italian (language switcher in the page header).',
+            source: SRC,
+          });
+        } catch (e) { return fail(); }
+      },
+    });
+
+    reg({
         name: 'request_quote',
         description:
           'Fill in the price-quote request form of Neofort BIZ (Salamander PVC and Alumil aluminium windows and doors, shading, nZEB installation; Bucharest, Romania, delivery across the EU). ' +
@@ -329,9 +433,7 @@ export default function Footer({ googleRating }) {
         },
         annotations: { readOnlyHint: false },
         execute,
-      }, { signal: ctrl.signal });
-      if (r && typeof r.catch === 'function') r.catch(() => {});
-    } catch (e) { /* API experimental: orice eroare lasa site-ul neatins */ }
+    });
     return () => ctrl.abort();
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [locale]);
@@ -368,7 +470,7 @@ export default function Footer({ googleRating }) {
           </div>
 
           {status === 'success' ? (
-            <div style={{border:'1px solid #2a2a2a',padding:'64px 32px',textAlign:'center'}}>
+            <div ref={successRef} tabIndex={-1} role="status" aria-live="polite" style={{border:'1px solid #2a2a2a',padding:'64px 32px',textAlign:'center',outline:'none'}}>
               <div style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1.2rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#fff',marginBottom:'12px'}}>
                 {t('success_title')}
               </div>
