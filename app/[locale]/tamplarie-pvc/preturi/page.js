@@ -29,7 +29,7 @@ const UI = {
     rows: [
       ['GreenEvolution 76 MD FLEX', 'Standard', '150–220 EUR/mp', 'Renovări apartamente, buget echilibrat'],
       ['GreenEvolution 76 MD ROUND', 'Standard', '155–225 EUR/mp', 'Design contemporan, muchii rotunjite'],
-      ['GreenEvolution 76 AD FLEX', 'Performant', '165–235 EUR/mp', 'Izolare fonică superioară, 2 garnituri EPDM'],
+      ['GreenEvolution 76 AD FLEX', 'Performant', '165–235 EUR/mp', 'Design drept, garnituri pe bătaie (fără mediană)'],
       ['BluEvolution 92 FLEX', 'Premium', '200–280 EUR/mp', 'Case nZEB, eficiență energetică maximă'],
       ['BluEvolution 92 ROUND', 'Premium', '205–285 EUR/mp', 'Design modern + performanță nZEB'],
       ['BluEvolution 92 ALU (alu-clad)', 'Premium+', '250–350 EUR/mp', 'Aspect aluminiu, performanță PVC nZEB'],
@@ -70,7 +70,7 @@ const UI = {
     rows: [
       ['GreenEvolution 76 MD FLEX', 'Standard', '150–220 EUR/m²', 'Apartment renovations, balanced budget'],
       ['GreenEvolution 76 MD ROUND', 'Standard', '155–225 EUR/m²', 'Contemporary design, rounded edges'],
-      ['GreenEvolution 76 AD FLEX', 'Performance', '165–235 EUR/m²', 'Superior sound insulation, 2 EPDM seals'],
+      ['GreenEvolution 76 AD FLEX', 'Performance', '165–235 EUR/m²', 'Straight design, rebate seals (no centre seal)'],
       ['BluEvolution 92 FLEX', 'Premium', '200–280 EUR/m²', 'nZEB homes, maximum energy efficiency'],
       ['BluEvolution 92 ROUND', 'Premium', '205–285 EUR/m²', 'Modern design + nZEB performance'],
       ['BluEvolution 92 ALU (clad)', 'Premium+', '250–350 EUR/m²', 'Aluminium look, nZEB PVC performance'],
@@ -111,7 +111,7 @@ const UI = {
     rows: [
       ['GreenEvolution 76 MD FLEX', 'Standard', '150–220 EUR/m²', 'Wohnungsrenovierungen, ausgewogenes Budget'],
       ['GreenEvolution 76 MD ROUND', 'Standard', '155–225 EUR/m²', 'Zeitgenössisches Design, abgerundete Kanten'],
-      ['GreenEvolution 76 AD FLEX', 'Performance', '165–235 EUR/m²', 'Besserer Schallschutz, 2 EPDM-Dichtungen'],
+      ['GreenEvolution 76 AD FLEX', 'Performance', '165–235 EUR/m²', 'Gerades Design, Anschlagdichtung (ohne Mitteldichtung)'],
       ['BluEvolution 92 FLEX', 'Premium', '200–280 EUR/m²', 'nZEB-Häuser, maximale Energieeffizienz'],
       ['BluEvolution 92 ROUND', 'Premium', '205–285 EUR/m²', 'Modernes Design + nZEB-Performance'],
       ['BluEvolution 92 ALU (beschichtet)', 'Premium+', '250–350 EUR/m²', 'Aluminiumoptik, nZEB PVC-Performance'],
@@ -152,7 +152,7 @@ const UI = {
     rows: [
       ['GreenEvolution 76 MD FLEX', 'Standard', '150–220 EUR/m²', 'Rénovations appartements, budget équilibré'],
       ['GreenEvolution 76 MD ROUND', 'Standard', '155–225 EUR/m²', 'Design contemporain, bords arrondis'],
-      ['GreenEvolution 76 AD FLEX', 'Performance', '165–235 EUR/m²', 'Isolation phonique supérieure, 2 joints EPDM'],
+      ['GreenEvolution 76 AD FLEX', 'Performance', '165–235 EUR/m²', 'Design droit, joints de frappe (sans joint central)'],
       ['BluEvolution 92 FLEX', 'Premium', '200–280 EUR/m²', 'Maisons nZEB, efficacité énergétique maximale'],
       ['BluEvolution 92 ROUND', 'Premium', '205–285 EUR/m²', 'Design moderne + performance nZEB'],
       ['BluEvolution 92 ALU (habillé)', 'Premium+', '250–350 EUR/m²', "Aspect aluminium, performance PVC nZEB"],
@@ -193,7 +193,7 @@ const UI = {
     rows: [
       ['GreenEvolution 76 MD FLEX', 'Estándar', '150–220 EUR/m²', 'Renovaciones apartamentos, presupuesto equilibrado'],
       ['GreenEvolution 76 MD ROUND', 'Estándar', '155–225 EUR/m²', 'Diseño contemporáneo, bordes redondeados'],
-      ['GreenEvolution 76 AD FLEX', 'Performance', '165–235 EUR/m²', 'Mayor aislamiento acústico, 2 juntas EPDM'],
+      ['GreenEvolution 76 AD FLEX', 'Performance', '165–235 EUR/m²', 'Diseño recto, juntas de tope (sin junta central)'],
       ['BluEvolution 92 FLEX', 'Premium', '200–280 EUR/m²', 'Casas nZEB, máxima eficiencia energética'],
       ['BluEvolution 92 ROUND', 'Premium', '205–285 EUR/m²', 'Diseño moderno + rendimiento nZEB'],
       ['BluEvolution 92 ALU (chapado)', 'Premium+', '250–350 EUR/m²', 'Aspecto aluminio, rendimiento PVC nZEB'],
@@ -234,7 +234,7 @@ const UI = {
     rows: [
       ['GreenEvolution 76 MD FLEX', 'Standard', '150–220 EUR/m²', 'Ristrutturazioni appartamenti, budget equilibrato'],
       ['GreenEvolution 76 MD ROUND', 'Standard', '155–225 EUR/m²', 'Design contemporaneo, bordi arrotondati'],
-      ['GreenEvolution 76 AD FLEX', 'Performance', '165–235 EUR/m²', 'Isolamento acustico superiore, 2 guarnizioni EPDM'],
+      ['GreenEvolution 76 AD FLEX', 'Performance', '165–235 EUR/m²', 'Design dritto, guarnizioni di battuta (senza centrale)'],
       ['BluEvolution 92 FLEX', 'Premium', '200–280 EUR/m²', 'Case nZEB, massima efficienza energetica'],
       ['BluEvolution 92 ROUND', 'Premium', '205–285 EUR/m²', 'Design moderno + performance nZEB'],
       ["BluEvolution 92 ALU (rivestito)", 'Premium+', '250–350 EUR/m²', "Aspetto alluminio, performance PVC nZEB"],

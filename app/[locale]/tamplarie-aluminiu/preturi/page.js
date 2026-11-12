@@ -28,8 +28,8 @@ const UI = {
     th: ['Sistem', 'Categorie', 'Preț estimat / mp', 'Ideal pentru'],
     rows: [
       ['Alumil Smartia S67', 'Comercial', '250–350 EUR/mp', 'Locuințe, birouri standard'],
-      ['Alumil Supreme S77', 'Premium', '350–480 EUR/mp', 'Locuințe nZEB, vile, RC3 din standard'],
-      ['Alumil Supreme SF85', 'Premium', '350–500 EUR/mp', 'Proiecte arhitecturale exigente'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/mp', 'Locuințe nZEB, vile, antiefracție RC2/RC3'],
+      ['Alumil Supreme SF85 (armonic)', 'Armonic premium', '350–500 EUR/mp', 'Terase folosite tot anul, deschidere totală'],
       ['Alumil M19800 Smartia (armonic)', 'Armonic', '280–400 EUR/mp', 'Terase și balcoane, deschidere totală'],
       ['Alumil S350 Smartia (glisant)', 'Glisant', '400–550 EUR/mp', 'Terase, living cu deschidere mare'],
       ['Alumil S700 Supreme (liftant-glisant)', 'Premium glisant', '550–750 EUR/mp', 'Terase panoramice, vile'],
@@ -52,7 +52,7 @@ const UI = {
     cta_call: 'Sună acum',
     faq_title: 'Întrebări frecvente despre prețuri',
     faq: [
-      ['Cât costă o fereastră din aluminiu?', 'O fereastră standard batantă din aluminiu Alumil Smartia (100×120 cm) costă între 350–500 EUR inclusiv geam termopan și montaj. O fereastră premium Supreme SF85 de aceleași dimensiuni costă 450–650 EUR. Prețul crește proporțional cu dimensiunile și complexitatea (două canaturi, culori speciale RAL).'],
+      ['Cât costă o fereastră din aluminiu?', 'O fereastră standard batantă din aluminiu Alumil Smartia (100×120 cm) costă între 350–500 EUR inclusiv geam termopan și montaj. O fereastră premium Supreme S77 de aceleași dimensiuni costă 450–650 EUR. Prețul crește proporțional cu dimensiunile și complexitatea (două canaturi, culori speciale RAL).'],
       ['Care este prețul minim pentru tâmplărie aluminiu?', 'Prețul minim realist pentru tâmplărie aluminiu cu barieră termică și montaj profesional este de 250 EUR/mp. Ofertele sub acest prag folosesc de regulă profile fără barieră termică sau montaj neconform, care compromit performanța termică și garanția.'],
       ['Cât costă o ușă glisantă din aluminiu?', 'O ușă culisantă Alumil S350 Smartia (2×2,1 m, un canat) costă 900–1.400 EUR. Un sistem liftant-glisant Alumil S700 Supreme (3×2,4 m, două canaturi) costă 2.500–4.000 EUR, incluzând motor și automatizare.'],
       ['Prețul include TVA?', 'Prețurile orientative de pe această pagină sunt fără TVA (prețuri nete). TVA-ul de 21% se adaugă la facturare. Neofort BIZ emite factură fiscală pentru toate lucrările.'],
@@ -71,8 +71,8 @@ const UI = {
     th: ['System', 'Category', 'Estimated price / m²', 'Ideal for'],
     rows: [
       ['Alumil Smartia S67', 'Commercial', '250–350 EUR/m²', 'Homes, standard offices'],
-      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'nZEB homes, villas, RC3 as standard'],
-      ['Alumil Supreme SF85', 'Premium', '350–500 EUR/m²', 'Demanding architectural projects'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'nZEB homes, villas, RC2/RC3 burglar resistance'],
+      ['Alumil Supreme SF85 (folding)', 'Premium folding', '350–500 EUR/m²', 'Year-round terraces, full opening'],
       ['Alumil M19800 Smartia (folding)', 'Folding', '280–400 EUR/m²', 'Terraces and balconies, full opening'],
       ['Alumil S350 Smartia (sliding)', 'Sliding', '400–550 EUR/m²', 'Terraces, large living openings'],
       ['Alumil S700 Supreme (lift-slide)', 'Premium sliding', '550–750 EUR/m²', 'Panoramic terraces, villas'],
@@ -95,7 +95,7 @@ const UI = {
     cta_call: 'Call now',
     faq_title: 'Frequently asked questions about prices',
     faq: [
-      ['How much does an aluminium window cost?', 'A standard casement aluminium window Alumil Smartia (100×120 cm) costs 350–500 EUR including thermal glass and installation. A premium Supreme SF85 of the same size costs 450–650 EUR.'],
+      ['How much does an aluminium window cost?', 'A standard casement aluminium window Alumil Smartia (100×120 cm) costs 350–500 EUR including thermal glass and installation. A premium Supreme S77 of the same size costs 450–650 EUR.'],
       ['What is the minimum price for aluminium windows?', 'The realistic minimum price for thermal break aluminium windows with professional installation is 250 EUR/m². Offers below this level typically use profiles without thermal break or non-compliant installation.'],
       ['How much does an aluminium sliding door cost?', 'An Alumil S350 Smartia sliding door (2×2.1 m, one leaf) costs 900–1,400 EUR. An Alumil S700 Supreme lift-and-slide system (3×2.4 m, two leaves) costs 2,500–4,000 EUR including motor and automation.'],
       ['Do prices include VAT?', 'Indicative prices on this page are VAT-exclusive (net prices). 21% VAT is added at invoicing. Neofort BIZ issues a fiscal invoice for all works.'],
@@ -114,8 +114,8 @@ const UI = {
     th: ['System', 'Kategorie', 'Geschätzter Preis / m²', 'Ideal für'],
     rows: [
       ['Alumil Smartia S67', 'Kommerziell', '250–350 EUR/m²', 'Wohnungen, Standardbüros'],
-      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'nZEB-Wohnhäuser, Villen, RC3 serienmäßig'],
-      ['Alumil Supreme SF85', 'Premium', '350–500 EUR/m²', 'Anspruchsvolle Architekturprojekte'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'nZEB-Wohnhäuser, Villen, Einbruchschutz RC2/RC3'],
+      ['Alumil Supreme SF85 (Falttür)', 'Premium-Falttür', '350–500 EUR/m²', 'Ganzjährig genutzte Terrassen, volle Öffnung'],
       ['Alumil M19800 Smartia (Falt)', 'Falt', '280–400 EUR/m²', 'Terrassen und Balkone, volle Öffnung'],
       ['Alumil S350 Smartia (Schiebe)', 'Schiebe', '400–550 EUR/m²', 'Terrassen, große Wohnöffnungen'],
       ['Alumil S700 Supreme (Hebe-Schiebe)', 'Premium-Schiebe', '550–750 EUR/m²', 'Panoramaterrassen, Villen'],
@@ -138,7 +138,7 @@ const UI = {
     cta_call: 'Jetzt anrufen',
     faq_title: 'Häufige Fragen zu Preisen',
     faq: [
-      ['Was kostet ein Aluminiumfenster?', 'Ein Standard-Dreh-Kipp-Aluminiumfenster Alumil Smartia (100×120 cm) kostet 350–500 EUR inkl. Isolierglas und Montage. Ein Premium-Supreme-SF85 gleicher Größe kostet 450–650 EUR.'],
+      ['Was kostet ein Aluminiumfenster?', 'Ein Standard-Dreh-Kipp-Aluminiumfenster Alumil Smartia (100×120 cm) kostet 350–500 EUR inkl. Isolierglas und Montage. Ein Premium-Supreme-S77 gleicher Größe kostet 450–650 EUR.'],
       ['Was ist der Mindestpreis für Aluminiumfenster?', 'Der realistische Mindestpreis für Aluminiumfenster mit thermischer Trennung und professionellem Einbau beträgt 250 EUR/m². Angebote darunter verwenden meist Profile ohne thermische Trennung.'],
       ['Was kostet eine Aluminium-Schiebetür?', 'Eine Alumil S350 Smartia Schiebetür (2×2,1 m, ein Flügel) kostet 900–1.400 EUR. Ein Alumil S700 Supreme Hebe-Schiebe-System (3×2,4 m, zwei Flügel) kostet 2.500–4.000 EUR.'],
       ['Sind die Preise inkl. MwSt.?', 'Richtwerte auf dieser Seite sind netto (ohne MwSt.). Die MwSt. von 21% wird bei der Rechnungsstellung hinzugefügt.'],
@@ -157,8 +157,8 @@ const UI = {
     th: ['Système', 'Catégorie', 'Prix estimé / m²', 'Idéal pour'],
     rows: [
       ['Alumil Smartia S67', 'Commercial', '250–350 EUR/m²', 'Logements, bureaux standard'],
-      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'Logements nZEB, villas, RC3 de série'],
-      ['Alumil Supreme SF85', 'Premium', '350–500 EUR/m²', 'Projets architecturaux exigeants'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'Logements nZEB, villas, anti-effraction RC2/RC3'],
+      ['Alumil Supreme SF85 (pliant)', 'Pliant premium', '350–500 EUR/m²', 'Terrasses utilisées toute l’année, ouverture totale'],
       ['Alumil M19800 Smartia (pliant)', 'Pliant', '280–400 EUR/m²', 'Terrasses et balcons, ouverture totale'],
       ['Alumil S350 Smartia (coulissant)', 'Coulissant', '400–550 EUR/m²', 'Terrasses, grandes ouvertures séjour'],
       ['Alumil S700 Supreme (coulissant levant)', 'Premium coulissant', '550–750 EUR/m²', 'Terrasses panoramiques, villas'],
@@ -181,7 +181,7 @@ const UI = {
     cta_call: 'Appeler maintenant',
     faq_title: 'Questions fréquentes sur les prix',
     faq: [
-      ["Combien coûte une fenêtre en aluminium ?", "Une fenêtre battante standard Alumil Smartia (100×120 cm) coûte 350–500 EUR vitrage et pose inclus. Une Supreme SF85 de même taille coûte 450–650 EUR."],
+      ["Combien coûte une fenêtre en aluminium ?", "Une fenêtre battante standard Alumil Smartia (100×120 cm) coûte 350–500 EUR vitrage et pose inclus. Une Supreme S77 de même taille coûte 450–650 EUR."],
       ["Quel est le prix minimum pour la menuiserie aluminium ?", "Le prix minimum réaliste pour des fenêtres aluminium à rupture de pont thermique avec pose professionnelle est de 250 EUR/m². Les offres en dessous utilisent généralement des profilés sans rupture de pont thermique."],
       ["Combien coûte une porte coulissante aluminium ?", "Une porte coulissante Alumil S350 Smartia (2×2,1 m, un vantail) coûte 900–1.400 EUR. Un système coulissant levant S700 Supreme (3×2,4 m, deux vantaux) coûte 2.500–4.000 EUR."],
       ["Les prix incluent-ils la TVA ?", "Les prix indicatifs sont hors TVA. La TVA de 21% s'ajoute à la facturation."],
@@ -200,8 +200,8 @@ const UI = {
     th: ['Sistema', 'Categoría', 'Precio estimado / m²', 'Ideal para'],
     rows: [
       ['Alumil Smartia S67', 'Comercial', '250–350 EUR/m²', 'Viviendas, oficinas estándar'],
-      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'Viviendas nZEB, chalets, RC3 de serie'],
-      ['Alumil Supreme SF85', 'Premium', '350–500 EUR/m²', 'Proyectos arquitectónicos exigentes'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'Viviendas nZEB, chalets, antirrobo RC2/RC3'],
+      ['Alumil Supreme SF85 (plegable)', 'Plegable premium', '350–500 EUR/m²', 'Terrazas de uso todo el año, apertura total'],
       ['Alumil M19800 Smartia (plegable)', 'Plegable', '280–400 EUR/m²', 'Terrazas y balcones, apertura total'],
       ['Alumil S350 Smartia (corredera)', 'Corredera', '400–550 EUR/m²', 'Terrazas, grandes aperturas salón'],
       ['Alumil S700 Supreme (elev. corredera)', 'Premium corredera', '550–750 EUR/m²', 'Terrazas panorámicas, villas'],
@@ -224,7 +224,7 @@ const UI = {
     cta_call: 'Llamar ahora',
     faq_title: 'Preguntas frecuentes sobre precios',
     faq: [
-      ['¿Cuánto cuesta una ventana de aluminio?', 'Una ventana oscilobatiente estándar Alumil Smartia (100×120 cm) cuesta 350–500 EUR incluyendo vidrio aislante e instalación. Una Supreme SF85 del mismo tamaño cuesta 450–650 EUR.'],
+      ['¿Cuánto cuesta una ventana de aluminio?', 'Una ventana oscilobatiente estándar Alumil Smartia (100×120 cm) cuesta 350–500 EUR incluyendo vidrio aislante e instalación. Una Supreme S77 del mismo tamaño cuesta 450–650 EUR.'],
       ['¿Cuál es el precio mínimo para carpintería de aluminio?', 'El precio mínimo realista para carpintería de aluminio con rotura de puente térmico e instalación profesional es de 250 EUR/m². Ofertas por debajo suelen usar perfiles sin rotura de puente térmico.'],
       ['¿Cuánto cuesta una puerta corredera de aluminio?', 'Una puerta corredera Alumil S350 Smartia (2×2,1 m, una hoja) cuesta 900–1.400 EUR. Un sistema elevador Alumil S700 Supreme (3×2,4 m, dos hojas) cuesta 2.500–4.000 EUR.'],
       ['¿Los precios incluyen IVA?', 'Los precios orientativos son sin IVA. El IVA del 21% se añade en la facturación.'],
@@ -243,8 +243,8 @@ const UI = {
     th: ['Sistema', 'Categoria', 'Prezzo stimato / m²', 'Ideale per'],
     rows: [
       ['Alumil Smartia S67', 'Commerciale', '250–350 EUR/m²', 'Abitazioni, uffici standard'],
-      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'Abitazioni nZEB, ville, RC3 di serie'],
-      ['Alumil Supreme SF85', 'Premium', '350–500 EUR/m²', 'Progetti architettonici esigenti'],
+      ['Alumil Supreme S77', 'Premium', '350–480 EUR/m²', 'Abitazioni nZEB, ville, antieffrazione RC2/RC3'],
+      ['Alumil Supreme SF85 (a libro)', 'A libro premium', '350–500 EUR/m²', 'Terrazze usate tutto l’anno, apertura totale'],
       ['Alumil M19800 Smartia (a libro)', 'A libro', '280–400 EUR/m²', 'Terrazze e balconi, apertura totale'],
       ['Alumil S350 Smartia (scorrevole)', 'Scorrevole', '400–550 EUR/m²', 'Terrazze, grandi aperture soggiorno'],
       ['Alumil S700 Supreme (alz. scorrevole)', 'Premium scorrevole', '550–750 EUR/m²', 'Terrazze panoramiche, ville'],
@@ -267,7 +267,7 @@ const UI = {
     cta_call: 'Chiama ora',
     faq_title: 'Domande frequenti sui prezzi',
     faq: [
-      ['Quanto costa una finestra in alluminio?', 'Una finestra battente standard Alumil Smartia (100×120 cm) costa 350–500 EUR inclusi vetro isolante e posa. Una Supreme SF85 delle stesse dimensioni costa 450–650 EUR.'],
+      ['Quanto costa una finestra in alluminio?', 'Una finestra battente standard Alumil Smartia (100×120 cm) costa 350–500 EUR inclusi vetro isolante e posa. Una Supreme S77 delle stesse dimensioni costa 450–650 EUR.'],
       ['Qual è il prezzo minimo per infissi in alluminio?', 'Il prezzo minimo realistico per infissi in alluminio con taglio termico e posa professionale è di 250 EUR/m². Le offerte al di sotto utilizzano solitamente profilati senza taglio termico.'],
       ['Quanto costa una porta scorrevole in alluminio?', 'Una porta scorrevole Alumil S350 Smartia (2×2,1 m, un\'anta) costa 900–1.400 EUR. Un sistema alzante scorrevole S700 Supreme (3×2,4 m, due ante) costa 2.500–4.000 EUR.'],
       ['I prezzi includono IVA?', 'I prezzi indicativi sono al netto IVA. L\'IVA del 21% viene aggiunta in fattura.'],
@@ -290,12 +290,12 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Prix Menuiserie Aluminium 2026 : 250–500 €/m² | Neofort BIZ'
          : locale === 'es' ? 'Precios Aluminio 2026: 250–500 €/m² | Neofort BIZ'
          : 'Prezzi Infissi Alluminio 2026: 250–500 €/m² | Neofort BIZ',
-    description: locale === 'ro' ? 'Prețuri tâmplărie aluminiu 2026: Alumil Smartia 250–350 EUR/mp, Supreme SF85 350–500 EUR/mp. Calcul personalizat, montaj nZEB inclus.'
-               : locale === 'en' ? '2026 aluminium window prices: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², sliding systems and curtain walls. nZEB installation Bucharest.'
-               : locale === 'de' ? 'Preise 2026 für Aluminiumfenster: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², Schiebesysteme und Vorhangfassaden. nZEB-Montage Bukarest.'
-               : locale === 'fr' ? 'Prix actualisés 2026 menuiserie aluminium: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², coulissants et murs-rideaux. Pose nZEB Bucarest.'
-               : locale === 'es' ? 'Precios 2026 de carpintería de aluminio: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², correderas y muros cortina. Instalación nZEB Bucarest.'
-               : 'Prezzi aggiornati 2026 infissi alluminio: Alumil Smartia 250–350 EUR/m², Supreme SF85 350–500 EUR/m², scorrevoli e facciate continue. Posa nZEB Bucarest.',
+    description: locale === 'ro' ? 'Prețuri tâmplărie aluminiu 2026, cu montaj: Alumil Smartia S67 250–350 EUR/mp, Supreme S77 350–480 EUR/mp, glisante, armonice și pereți cortină.'
+               : locale === 'en' ? '2026 aluminium window prices, installed: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², sliding, folding and curtain walls.'
+               : locale === 'de' ? 'Preise 2026 für Aluminiumfenster mit Montage: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², Schiebe-, Falttüren und Vorhangfassaden.'
+               : locale === 'fr' ? 'Prix 2026 menuiserie aluminium, pose comprise : Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², coulissants, pliants et murs-rideaux.'
+               : locale === 'es' ? 'Precios 2026 de carpintería de aluminio con instalación: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², correderas, plegables y muros cortina.'
+               : 'Prezzi 2026 infissi in alluminio, posa compresa: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², scorrevoli, a libro e facciate continue.',
     keywords: locale === 'ro' ? 'preturi tamplarie aluminiu, tamplarie aluminiu pret 2026, cat costa tamplarie aluminiu, tamplarie aluminiu mp pret, alumil pret, alumil supreme pret, alumil smartia pret, fereastra aluminiu pret, usa glisanta aluminiu pret'
             : 'aluminium window prices 2026, aluminium windows cost, Alumil price, aluminium window price per m2',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },

@@ -126,13 +126,13 @@ Suprafață vitrată: 18 m² | ΔT = 20°C | Ore sezon rece: 3.500 h
 ### PVC Premium — soluția standard nZEB
 
 **Salamander bluEvolution 92 (recomandat Neofort BIZ):**
-- 6 camere, 92 mm adâncime, Uf = 0,95 W/(m²K)
+- 6 camere, 92 mm adâncime, Uf = 0,9 W/(m²K)
 - Stabilizatori Ca-Zn — REACH compliant, fără plumb
 - Uw cu tripan 44 mm + Warm Edge: **0,72 W/(m²K)**
 - Certificare: IFT Rosenheim, EN 12608 Clasa A | Garanție: 40 ani
 
 **Salamander GreenEvolution 76 (soluție economică):**
-- 5 camere, 76 mm, Uf = 1,2 W/(m²K)
+- 5 camere, 76 mm, Uf = 1,0–1,1 W/(m²K)
 - Uw cu tripan: **de la 0,73 W/(m²K)**
 
 ### Aluminiu cu barieră termică — nZEB cu design premium
@@ -215,7 +215,7 @@ Metodologia Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K) pentru ferestrele clădi
 Nu există obligație legală explicită pentru tripan. Conformarea nZEB se verifică pe performanța energetică a întregii clădiri, iar pentru ferestre Mc 001-2022 recomandă Uw ≤ 1,11 W/(m²K). Tripanul (Ug=0,5) oferă marjă de siguranță și performanță superioară.
 
 ### Ce profile sunt cele mai bune pentru nZEB în România?
-Salamander bluEvolution 92 (Uf=0,95 W/m²K) + tripan 44 mm Saint-Gobain + Warm Edge = Uw=0,72 — cu 35% sub valoarea de referință din Mc 001-2022.
+Salamander bluEvolution 92 (Uf=0,9 W/m²K) + tripan 44 mm Saint-Gobain + Warm Edge = Uw=0,72 — cu 35% sub valoarea de referință din Mc 001-2022.
 
 ### Contează montajul?
 Enorm. Fără benzi precomprimate și cu punte termică la glaf, Uw efectiv poate ajunge la 1,2-1,4 W/(m²K) din cauza infiltrațiilor. Montajul RAL cu 3 zone este esențial.
@@ -237,7 +237,7 @@ Salamander bluEvolution 92 + tripan 52 mm Saint-Gobain + Warm Edge + precadre Bl
 Ordinea corectă de priorități pentru ferestre nZEB:
 
 1. **Geam:** triplu + argon + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
-2. **Profil:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
+2. **Profil:** Salamander bluEvolution 92 → Uf = 0,9 W/(m²K)
 3. **Montaj:** benzi precomprimate + 3 zone etanșare
 4. **Precadre** (opțional): Blaugelb Triotherm+ → elimini puntea termică la glaf
 5. **Rezultat:** Uw = 0,72 W/(m²K) — cu 35% sub valoarea de referință de 1,11
@@ -319,7 +319,7 @@ According to the Mc 001-2022 methodology (MDLPA Order 16/2023):
 
 **Salamander bluEvolution 92 (recommended by Neofort BIZ):**
 - 6 chambers, 92 mm depth
-- Uf = 0.95 W/(m²K) — best in class
+- Uf = 0.9 W/(m²K) — best in class
 - Ca-Zn stabilisers (lead-free, cadmium-free) — REACH compliant
 - 3 EPDM gaskets
 - Uw with 44 mm triple glazing + Warm Edge: **0.72 W/(m²K)**
@@ -329,7 +329,7 @@ According to the Mc 001-2022 methodology (MDLPA Order 16/2023):
 
 **Salamander GreenEvolution 76 (economic solution):**
 - 5 chambers, 76 mm depth
-- Uf = 1.2 W/(m²K)
+- Uf = 1.0–1.1 W/(m²K)
 - Uw with triple glazing: **from 0.73 W/(m²K)**
 
 ### Aluminium with Thermal Break — nZEB with Premium Design
@@ -426,7 +426,7 @@ The Mc 001-2022 methodology recommends Uw ≤ 1.11 W/(m²K) for windows in new r
 There is no explicit legal obligation for triple glazing. nZEB compliance is assessed on the energy performance of the whole building, and for windows Mc 001-2022 recommends Uw ≤ 1.11 W/(m²K). This is achievable with modern double glazing (Ug=1.0) and a good PVC profile, but only marginally. Triple glazing (Ug=0.5) provides safety margin and superior performance.
 
 ### What profiles are best for nZEB in Romania?
-Salamander bluEvolution 92 (Uf=0.95 W/m²K) is the leading PVC performance available in Romania. Together with 44 mm Saint-Gobain triple + Warm Edge achieves Uw=0.72 — 35% below the Mc 001-2022 reference value.
+Salamander bluEvolution 92 (Uf=0.9 W/m²K) is the leading PVC performance available in Romania. Together with 44 mm Saint-Gobain triple + Warm Edge achieves Uw=0.72 — 35% below the Mc 001-2022 reference value.
 
 ### Does installation matter?
 Enormously. A bluEvolution 92 profile installed without pre-compressed bands and with thermal bridge at the sill can reach an effective Uw of 1.2-1.4 W/(m²K) due to infiltration and interstitial condensation — double the technical specification. RAL installation with 3 sealing zones is essential.
@@ -448,7 +448,7 @@ Salamander bluEvolution 92 + 52 mm Saint-Gobain triple + Warm Edge spacer + Blau
 Choosing windows for an nZEB house in Romania is not complicated if you follow this priority order:
 
 1. **First the glazing:** triple with argon + Low-E + Warm Edge → Ug = 0.5 W/(m²K)
-2. **Then the profile:** Salamander bluEvolution 92 → Uf = 0.95 W/(m²K)
+2. **Then the profile:** Salamander bluEvolution 92 → Uf = 0.9 W/(m²K)
 3. **Installation:** pre-compressed bands + 3 sealing zones → eliminate 30-50% losses through infiltration
 4. **Preframes** (optional but recommended): Blaugelb Triotherm+ → eliminate thermal bridge at sill
 5. **Verification:** Calculated Uw = 0.72 W/(m²K) → 35% below the 1.11 reference value
@@ -530,7 +530,7 @@ In einem Haus mit Wänden bei 20 cm Dämmung (U = 0,20 W/m²K) und Dach bei 30 c
 
 **Salamander bluEvolution 92 (von Neofort BIZ empfohlen):**
 - 6 Kammern, 92 mm Bautiefe
-- Uf = 0,95 W/(m²K) — Klassenführer
+- Uf = 0,9 W/(m²K) — Klassenführer
 - Ca-Zn-Stabilisatoren (bleifrei, cadmiumfrei) — REACH-konform
 - 3 EPDM-Dichtungen
 - Uw mit 44 mm Dreifach + Warm Edge: **0,72 W/(m²K)**
@@ -539,7 +539,7 @@ In einem Haus mit Wänden bei 20 cm Dämmung (U = 0,20 W/m²K) und Dach bei 30 c
 - Garantie: 40 Jahre Profil
 
 **Salamander GreenEvolution 76 (günstige Lösung):**
-- 5 Kammern, 76 mm, Uf = 1,2 W/(m²K)
+- 5 Kammern, 76 mm, Uf = 1,0–1,1 W/(m²K)
 - Uw mit Dreifachverglasung: **ab 0,73 W/(m²K)**
 
 ### Aluminium mit thermischer Trennung — nZEB mit Premium-Design
@@ -627,7 +627,7 @@ Die Methodik Mc 001-2022 empfiehlt Uw ≤ 1,11 W/(m²K) für Fenster in neuen Wo
 Es gibt keine ausdrückliche gesetzliche Verpflichtung für Dreifachverglasung. Die nZEB-Konformität wird an der Energieeffizienz des gesamten Gebäudes gemessen; für Fenster empfiehlt Mc 001-2022 Uw ≤ 1,11 W/(m²K). Das ist mit modernem Zweifach + gutem PVC-Profil möglich, aber nur knapp. Dreifachverglasung (Ug=0,5) bietet Sicherheitsreserve und überlegene Leistung.
 
 ### Welche Profile sind die besten für nZEB in Rumänien?
-Salamander bluEvolution 92 (Uf=0,95 W/m²K) ist der führende PVC-Leistungsanbieter in Rumänien. Mit 44 mm Saint-Gobain Dreifach + Warm Edge erreicht es Uw=0,72 — 35% unter dem Referenzwert von Mc 001-2022.
+Salamander bluEvolution 92 (Uf=0,9 W/m²K) ist der führende PVC-Leistungsanbieter in Rumänien. Mit 44 mm Saint-Gobain Dreifach + Warm Edge erreicht es Uw=0,72 — 35% unter dem Referenzwert von Mc 001-2022.
 
 ### Spielt die Montage eine Rolle?
 Enorm. Ein bluEvolution 92 Profil ohne vorkomprimierte Bänder und mit Wärmebrücke am Fensterbrett kann durch Infiltration und Tauwasserausfall einen effektiven Uw von 1,2-1,4 W/(m²K) erreichen — doppelt so hoch wie die technische Spezifikation. RAL-Montage mit 3 Dichtungszonen ist unerlässlich.
@@ -649,7 +649,7 @@ Salamander bluEvolution 92 + 52 mm Saint-Gobain Dreifach + Warm Edge + Blaugelb 
 Die richtige Prioritätsreihenfolge für nZEB-Fenster:
 
 1. **Zuerst die Verglasung:** Dreifach mit Argon + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
-2. **Dann das Profil:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
+2. **Dann das Profil:** Salamander bluEvolution 92 → Uf = 0,9 W/(m²K)
 3. **Die Montage:** vorkomprimierte Bänder + 3 Dichtungszonen
 4. **Vorblendrahmen** (optional aber empfohlen): Blaugelb Triotherm+
 5. **Ergebnis:** Uw = 0,72 W/(m²K) — 35% unter dem Referenzwert von 1,11
@@ -731,7 +731,7 @@ Dans une maison avec des murs isolés à 20 cm (U = 0,20 W/m²K) et un toit à 3
 
 **Salamander bluEvolution 92 (recommandé par Neofort BIZ) :**
 - 6 chambres, profondeur 92 mm
-- Uf = 0,95 W/(m²K) — meilleur de sa classe
+- Uf = 0,9 W/(m²K) — meilleur de sa classe
 - Stabilisants Ca-Zn (sans plomb, sans cadmium) — conforme REACH
 - 3 joints EPDM
 - Uw avec triple 44 mm + Warm Edge : **0,72 W/(m²K)**
@@ -740,7 +740,7 @@ Dans une maison avec des murs isolés à 20 cm (U = 0,20 W/m²K) et un toit à 3
 - Garantie : 40 ans profilé
 
 **Salamander GreenEvolution 76 (solution économique) :**
-- 5 chambres, 76 mm, Uf = 1,2 W/(m²K)
+- 5 chambres, 76 mm, Uf = 1,0–1,1 W/(m²K)
 - Uw avec triple vitrage : **à partir de 0,73 W/(m²K)**
 
 ### Aluminium avec rupture de pont thermique — nZEB design premium
@@ -829,7 +829,7 @@ La méthodologie Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K) pour les fenêtres 
 Il n'y a pas d'obligation légale explicite pour le triple vitrage. La conformité nZEB s'apprécie sur la performance énergétique de l'ensemble du bâtiment ; pour les fenêtres, la Mc 001-2022 recommande Uw ≤ 1,11 W/(m²K). En pratique, le triple vitrage (Ug=0,5) offre une marge de sécurité et des performances supérieures.
 
 ### Quels profilés sont les meilleurs pour nZEB en Roumanie ?
-Salamander bluEvolution 92 (Uf=0,95 W/m²K) est le leader de performance PVC disponible en Roumanie. Avec triple 44 mm Saint-Gobain + Warm Edge, il atteint Uw=0,72 — 35% sous la valeur de référence de la Mc 001-2022.
+Salamander bluEvolution 92 (Uf=0,9 W/m²K) est le leader de performance PVC disponible en Roumanie. Avec triple 44 mm Saint-Gobain + Warm Edge, il atteint Uw=0,72 — 35% sous la valeur de référence de la Mc 001-2022.
 
 ### La pose compte-t-elle ?
 Énormément. Un profilé bluEvolution 92 sans bandes précomprimées et avec pont thermique peut atteindre un Uw effectif de 1,2-1,4 W/(m²K) — le double de la spécification technique. La pose RAL avec 3 zones est essentielle.
@@ -851,7 +851,7 @@ Salamander bluEvolution 92 + triple 52 mm Saint-Gobain + Warm Edge + précadres 
 L'ordre de priorité correct pour les fenêtres nZEB :
 
 1. **D'abord le vitrage :** triple avec argon + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
-2. **Puis le profilé :** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
+2. **Puis le profilé :** Salamander bluEvolution 92 → Uf = 0,9 W/(m²K)
 3. **La pose :** bandes précomprimées + 3 zones d'étanchéité
 4. **Les précadres** (optionnel mais recommandé) : Blaugelb Triotherm+
 5. **Résultat :** Uw = 0,72 W/(m²K) — 35% sous la valeur de référence de 1,11
@@ -933,7 +933,7 @@ En una casa con paredes aisladas a 20 cm (U = 0,20 W/m²K) y tejado a 30 cm (U =
 
 **Salamander bluEvolution 92 (recomendado por Neofort BIZ):**
 - 6 cámaras, profundidad 92 mm
-- Uf = 0,95 W/(m²K) — líder de su clase
+- Uf = 0,9 W/(m²K) — líder de su clase
 - Estabilizadores Ca-Zn (sin plomo, sin cadmio) — conforme REACH
 - 3 juntas EPDM
 - Uw con triple 44 mm + Warm Edge: **0,72 W/(m²K)**
@@ -942,7 +942,7 @@ En una casa con paredes aisladas a 20 cm (U = 0,20 W/m²K) y tejado a 30 cm (U =
 - Garantía: 40 años perfil
 
 **Salamander GreenEvolution 76 (solución económica):**
-- 5 cámaras, 76 mm, Uf = 1,2 W/(m²K)
+- 5 cámaras, 76 mm, Uf = 1,0–1,1 W/(m²K)
 - Uw con triple acristalamiento: **desde 0,73 W/(m²K)**
 
 ### Aluminio con rotura de puente térmico — nZEB con diseño premium
@@ -1031,7 +1031,7 @@ La metodología Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K) para las ventanas de
 No hay obligación legal explícita para el triple acristalamiento. El cumplimiento nZEB se evalúa sobre la eficiencia energética de todo el edificio, y para las ventanas la Mc 001-2022 recomienda Uw ≤ 1,11 W/(m²K). En la práctica, el triple (Ug=0,5) ofrece margen de seguridad y prestaciones superiores.
 
 ### ¿Qué perfiles son los mejores para nZEB en Rumanía?
-Salamander bluEvolution 92 (Uf=0,95 W/m²K) es el líder de rendimiento PVC disponible en Rumanía. Con triple 44 mm Saint-Gobain + Warm Edge alcanza Uw=0,72 — un 35% por debajo del valor de referencia de la Mc 001-2022.
+Salamander bluEvolution 92 (Uf=0,9 W/m²K) es el líder de rendimiento PVC disponible en Rumanía. Con triple 44 mm Saint-Gobain + Warm Edge alcanza Uw=0,72 — un 35% por debajo del valor de referencia de la Mc 001-2022.
 
 ### ¿Importa la instalación?
 Enormemente. Un perfil bluEvolution 92 sin bandas precomprimidas y con puente térmico puede alcanzar un Uw efectivo de 1,2-1,4 W/(m²K) — el doble de la especificación técnica. La instalación RAL con 3 zonas es esencial.
@@ -1053,7 +1053,7 @@ Salamander bluEvolution 92 + triple 52 mm Saint-Gobain + Warm Edge + premarcos B
 El orden correcto de prioridades para ventanas nZEB:
 
 1. **Primero el acristalamiento:** triple con argón + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
-2. **Luego el perfil:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
+2. **Luego el perfil:** Salamander bluEvolution 92 → Uf = 0,9 W/(m²K)
 3. **La instalación:** bandas precomprimidas + 3 zonas de sellado
 4. **Los premarcos** (opcional pero recomendado): Blaugelb Triotherm+
 5. **Resultado:** Uw = 0,72 W/(m²K) — un 35% por debajo del valor de referencia de 1,11
@@ -1135,7 +1135,7 @@ In una casa con pareti isolate a 20 cm (U = 0,20 W/m²K) e tetto a 30 cm (U = 0,
 
 **Salamander bluEvolution 92 (consigliato da Neofort BIZ):**
 - 6 camere, profondità 92 mm
-- Uf = 0,95 W/(m²K) — il migliore della categoria
+- Uf = 0,9 W/(m²K) — il migliore della categoria
 - Stabilizzanti Ca-Zn (senza piombo, senza cadmio) — conforme REACH
 - 3 guarnizioni EPDM
 - Uw con triplo 44 mm + Warm Edge: **0,72 W/(m²K)**
@@ -1144,7 +1144,7 @@ In una casa con pareti isolate a 20 cm (U = 0,20 W/m²K) e tetto a 30 cm (U = 0,
 - Garanzia: 40 anni profilo
 
 **Salamander GreenEvolution 76 (soluzione economica):**
-- 5 camere, 76 mm, Uf = 1,2 W/(m²K)
+- 5 camere, 76 mm, Uf = 1,0–1,1 W/(m²K)
 - Uw con triplo vetro: **a partire da 0,73 W/(m²K)**
 
 ### Alluminio con taglio termico — nZEB con design premium
@@ -1233,7 +1233,7 @@ La metodologia Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K) per le finestre degli
 Non esiste un obbligo legale esplicito per il triplo vetro. La conformità nZEB si valuta sulla prestazione energetica dell'intero edificio, e per le finestre la Mc 001-2022 raccomanda Uw ≤ 1,11 W/(m²K). In pratica, il triplo (Ug=0,5) offre margine di sicurezza e prestazioni superiori.
 
 ### Quali profili sono i migliori per nZEB in Romania?
-Salamander bluEvolution 92 (Uf=0,95 W/m²K) è il leader di prestazioni PVC disponibile in Romania. Con triplo 44 mm Saint-Gobain + Warm Edge raggiunge Uw=0,72 — il 35% sotto il valore di riferimento della Mc 001-2022.
+Salamander bluEvolution 92 (Uf=0,9 W/m²K) è il leader di prestazioni PVC disponibile in Romania. Con triplo 44 mm Saint-Gobain + Warm Edge raggiunge Uw=0,72 — il 35% sotto il valore di riferimento della Mc 001-2022.
 
 ### Conta l'installazione?
 Enormemente. Un profilo bluEvolution 92 senza nastri precompressi e con ponte termico al davanzale può raggiungere uno Uw effettivo di 1,2-1,4 W/(m²K) — il doppio delle specifiche tecniche. L'installazione RAL con 3 zone è essenziale.
@@ -1255,7 +1255,7 @@ Salamander bluEvolution 92 + triplo 52 mm Saint-Gobain + Warm Edge + controtelai
 L'ordine corretto di priorità per le finestre nZEB:
 
 1. **Prima la vetrocamera:** triplo con argon + Low-E + Warm Edge → Ug = 0,5 W/(m²K)
-2. **Poi il profilo:** Salamander bluEvolution 92 → Uf = 0,95 W/(m²K)
+2. **Poi il profilo:** Salamander bluEvolution 92 → Uf = 0,9 W/(m²K)
 3. **L'installazione:** nastri precompressi + 3 zone di sigillatura
 4. **I controtelai** (opzionale ma raccomandato): Blaugelb Triotherm+
 5. **Risultato:** Uw = 0,72 W/(m²K) — il 35% sotto il valore di riferimento di 1,11
@@ -2335,7 +2335,7 @@ De ce apare dilema PVC vs aluminiu? Ambele materiale au evoluat enorm. PVC-ul mo
 
 **PVC (Salamander bluEvolution 92):**
 - Conductivitate termică profil: λ = 0,17 W/(mK)
-- Uf profil = 0,95 W/(m²K)
+- Uf profil = 0,9 W/(m²K)
 - 6 camere, 92 mm adâncime
 - Uw total cu tripan Saint-Gobain + Warm Edge: **0,72 W/(m²K)**
 
@@ -2371,7 +2371,7 @@ Aluminiul permite profile cu secțiune vizibilă mult mai subțire (30-45 mm fa�
 | Caracteristică | PVC Salamander bluEvolution 92 | Aluminiu Alumil S77 Supreme |
 |---|---|---|
 | Uw cu tripan (W/m²K) | **0,72** | 1,0-1,2 |
-| Uf profil (W/m²K) | **0,95** | 1,3 |
+| Uf profil (W/m²K) | **0,9** | 1,3 |
 | Izolație fonică Rw (dB) | 42-47 | 38-42 |
 | Grosime profil vizibil | 70-82 mm | **30-45 mm** |
 | Suprafețe vitrate mari | Limitat | **Excelent** |
@@ -2390,7 +2390,7 @@ Formula de calcul a coeficientului termic al ferestrei complete:
 Elementele critice în ordine de impact:
 1. **Geam triplu cu argon** — Ug = 0,5 față de 1,0 pentru dublu: cel mai mare impact
 2. **Distanțier Warm Edge** — Ψg = 0,03 W/(mK) față de 0,1 pentru aluminiu
-3. **Tipul de profil** — Uf diferă între PVC (0,95) și aluminiu (1,3)
+3. **Tipul de profil** — Uf diferă între PVC (0,9) și aluminiu (1,3)
 4. **Strat Low-E** — reduce factorul solar g și emisivitatea
 5. **Montajul** — benzi precomprimate + eliminarea punții termice: 30-50% din performanța totală
 
@@ -2476,7 +2476,7 @@ Why does the PVC-versus-aluminium dilemma come up at all? Both materials have mo
 
 **PVC (Salamander bluEvolution 92):**
 - Profile thermal conductivity: λ = 0.17 W/(mK)
-- Profile Uf = 0.95 W/(m²K)
+- Profile Uf = 0.9 W/(m²K)
 - 6 chambers, 92 mm depth
 - Total Uw with Saint-Gobain triple glazing + Warm Edge: **0.72 W/(m²K)**
 
@@ -2512,7 +2512,7 @@ Aluminium allows a much slimmer visible section — 30-45 mm against 60-80 mm fo
 | Characteristic | PVC Salamander bluEvolution 92 | Aluminium Alumil S77 Supreme |
 |---|---|---|
 | Uw with triple glazing (W/m²K) | **0.72** | 1.0-1.2 |
-| Profile Uf (W/m²K) | **0.95** | 1.3 |
+| Profile Uf (W/m²K) | **0.9** | 1.3 |
 | Acoustic insulation Rw (dB) | 42-47 | 38-42 |
 | Visible profile thickness | 70-82 mm | **30-45 mm** |
 | Large glazed areas | Limited | **Excellent** |
@@ -2531,7 +2531,7 @@ The calculation formula for the thermal coefficient of a complete window:
 The critical elements, in order of impact:
 1. **Triple glazing with argon** — Ug = 0.5 against 1.0 for double glazing: the single largest factor
 2. **Warm Edge spacer** — Ψg = 0.03 W/(mK) against 0.1 for aluminium spacers
-3. **Profile type** — Uf differs between PVC (0.95) and aluminium (1.3)
+3. **Profile type** — Uf differs between PVC (0.9) and aluminium (1.3)
 4. **Low-E coating** — reduces the solar factor g and the emissivity
 5. **Installation** — pre-compressed tapes and elimination of the thermal bridge account for 30-50% of the total performance
 
@@ -2614,7 +2614,7 @@ Warum stellt sich die Frage PVC gegen Aluminium überhaupt? Beide Werkstoffe hab
 
 **PVC (Salamander bluEvolution 92):**
 - Wärmeleitfähigkeit des Profils: λ = 0,17 W/(mK)
-- Profil-Uf = 0,95 W/(m²K)
+- Profil-Uf = 0,9 W/(m²K)
 - 6 Kammern, 92 mm Bautiefe
 - Gesamt-Uw mit Saint-Gobain Dreifachverglasung + Warm Edge: **0,72 W/(m²K)**
 
@@ -2650,7 +2650,7 @@ Aluminium erlaubt eine deutlich schlankere sichtbare Ansicht — 30-45 mm gegen�
 | Merkmal | PVC Salamander bluEvolution 92 | Aluminium Alumil S77 Supreme |
 |---|---|---|
 | Uw mit Dreifachglas (W/m²K) | **0,72** | 1,0-1,2 |
-| Profil-Uf (W/m²K) | **0,95** | 1,3 |
+| Profil-Uf (W/m²K) | **0,9** | 1,3 |
 | Schalldämmung Rw (dB) | 42-47 | 38-42 |
 | Sichtbare Profilbreite | 70-82 mm | **30-45 mm** |
 | Große Glasflächen | Begrenzt | **Ausgezeichnet** |
@@ -2669,7 +2669,7 @@ Die Berechnungsformel für den Wärmedurchgangskoeffizienten des kompletten Fens
 Die entscheidenden Größen, nach Wirkung geordnet:
 1. **Dreifachverglasung mit Argon** — Ug = 0,5 gegenüber 1,0 bei Zweifachglas: der größte Einzelfaktor
 2. **Warm-Edge-Abstandhalter** — Ψg = 0,03 W/(mK) gegenüber 0,1 bei Aluminiumabstandhaltern
-3. **Profilart** — der Uf unterscheidet sich zwischen PVC (0,95) und Aluminium (1,3)
+3. **Profilart** — der Uf unterscheidet sich zwischen PVC (0,9) und Aluminium (1,3)
 4. **Low-E-Beschichtung** — senkt den g-Wert und die Emissivität
 5. **Montage** — vorkomprimierte Bänder und die Beseitigung der Wärmebrücke machen 30-50 % der Gesamtleistung aus
 
@@ -2750,7 +2750,7 @@ Pourquoi ce dilemme entre PVC et aluminium ? Les deux matériaux ont énormémen
 
 **PVC (Salamander bluEvolution 92) :**
 - Conductivité thermique du profilé : λ = 0,17 W/(mK)
-- Uf du profilé = 0,95 W/(m²K)
+- Uf du profilé = 0,9 W/(m²K)
 - 6 chambres, 92 mm de profondeur
 - Uw total avec triple vitrage Saint-Gobain + Warm Edge : **0,72 W/(m²K)**
 
@@ -2786,7 +2786,7 @@ L’aluminium permet une section visible bien plus fine — 30 à 45 mm contre 6
 | Caractéristique | PVC Salamander bluEvolution 92 | Aluminium Alumil S77 Supreme |
 |---|---|---|
 | Uw avec triple vitrage (W/m²K) | **0,72** | 1,0-1,2 |
-| Uf du profilé (W/m²K) | **0,95** | 1,3 |
+| Uf du profilé (W/m²K) | **0,9** | 1,3 |
 | Isolation acoustique Rw (dB) | 42-47 | 38-42 |
 | Épaisseur visible du profilé | 70-82 mm | **30-45 mm** |
 | Grandes surfaces vitrées | Limité | **Excellent** |
@@ -2805,7 +2805,7 @@ La formule de calcul du coefficient thermique de la fenêtre complète :
 Les éléments critiques, par ordre d’impact :
 1. **Triple vitrage à l’argon** — Ug = 0,5 contre 1,0 pour du double : le facteur le plus important
 2. **Intercalaire Warm Edge** — Ψg = 0,03 W/(mK) contre 0,1 pour un intercalaire aluminium
-3. **Type de profilé** — le Uf diffère entre PVC (0,95) et aluminium (1,3)
+3. **Type de profilé** — le Uf diffère entre PVC (0,9) et aluminium (1,3)
 4. **Couche Low-E** — réduit le facteur solaire g et l’émissivité
 5. **La pose** — bandes précomprimées et suppression du pont thermique : 30 à 50 % de la performance totale
 
@@ -2886,7 +2886,7 @@ Las ventanas y las puertas suponen el **15-25 % de la superficie de la envolvent
 
 **PVC (Salamander bluEvolution 92):**
 - Conductividad térmica del perfil: λ = 0,17 W/(mK)
-- Uf del perfil = 0,95 W/(m²K)
+- Uf del perfil = 0,9 W/(m²K)
 - 6 cámaras, 92 mm de profundidad
 - Uw total con triple vidrio Saint-Gobain + Warm Edge: **0,72 W/(m²K)**
 
@@ -2922,7 +2922,7 @@ El aluminio permite una sección vista mucho más estrecha — 30-45 mm frente a
 | Característica | PVC Salamander bluEvolution 92 | Aluminio Alumil S77 Supreme |
 |---|---|---|
 | Uw con triple vidrio (W/m²K) | **0,72** | 1,0-1,2 |
-| Uf del perfil (W/m²K) | **0,95** | 1,3 |
+| Uf del perfil (W/m²K) | **0,9** | 1,3 |
 | Aislamiento acústico Rw (dB) | 42-47 | 38-42 |
 | Espesor visible del perfil | 70-82 mm | **30-45 mm** |
 | Grandes superficies acristaladas | Limitado | **Excelente** |
@@ -2941,7 +2941,7 @@ La fórmula de cálculo del coeficiente térmico de la ventana completa:
 Los elementos críticos, por orden de impacto:
 1. **Triple vidrio con argón** — Ug = 0,5 frente a 1,0 del doble: el factor de mayor peso
 2. **Separador Warm Edge** — Ψg = 0,03 W/(mK) frente a 0,1 del separador de aluminio
-3. **Tipo de perfil** — el Uf difiere entre PVC (0,95) y aluminio (1,3)
+3. **Tipo de perfil** — el Uf difiere entre PVC (0,9) y aluminio (1,3)
 4. **Capa Low-E** — reduce el factor solar g y la emisividad
 5. **La instalación** — cintas precomprimidas y eliminación del puente térmico: 30-50 % del rendimiento total
 
@@ -3022,7 +3022,7 @@ Perché nasce il dilemma PVC contro alluminio? Entrambi i materiali sono molto c
 
 **PVC (Salamander bluEvolution 92):**
 - Conduttività termica del profilo: λ = 0,17 W/(mK)
-- Uf del profilo = 0,95 W/(m²K)
+- Uf del profilo = 0,9 W/(m²K)
 - 6 camere, 92 mm di profondità
 - Uw totale con triplo vetro Saint-Gobain + Warm Edge: **0,72 W/(m²K)**
 
@@ -3058,7 +3058,7 @@ L’alluminio permette una sezione a vista molto più sottile — 30-45 mm contr
 | Caratteristica | PVC Salamander bluEvolution 92 | Alluminio Alumil S77 Supreme |
 |---|---|---|
 | Uw con triplo vetro (W/m²K) | **0,72** | 1,0-1,2 |
-| Uf del profilo (W/m²K) | **0,95** | 1,3 |
+| Uf del profilo (W/m²K) | **0,9** | 1,3 |
 | Isolamento acustico Rw (dB) | 42-47 | 38-42 |
 | Spessore visibile del profilo | 70-82 mm | **30-45 mm** |
 | Grandi superfici vetrate | Limitato | **Eccellente** |
@@ -3077,7 +3077,7 @@ La formula di calcolo del coefficiente termico della finestra completa:
 Gli elementi critici, in ordine di impatto:
 1. **Triplo vetro con argon** — Ug = 0,5 contro 1,0 del doppio: il fattore di maggior peso
 2. **Distanziale Warm Edge** — Ψg = 0,03 W/(mK) contro 0,1 del distanziale in alluminio
-3. **Tipo di profilo** — l’Uf differisce tra PVC (0,95) e alluminio (1,3)
+3. **Tipo di profilo** — l’Uf differisce tra PVC (0,9) e alluminio (1,3)
 4. **Strato Low-E** — riduce il fattore solare g e l’emissività
 5. **La posa** — nastri precompressi ed eliminazione del ponte termico: 30-50 % della prestazione complessiva
 
@@ -3802,7 +3802,7 @@ Studiile de eficiență energetică realizate pe fondul locativ din București a
 ## Opțiunea 1 — Îmbunătățire fără înlocuire (cost mic, efect limitat)
 
 ### a) Înlocuirea garniturilor EPDM
-Garniturile de etanșare se degradează în 8-12 ani. Înlocuirea lor costă orientativ 6-16 EUR per fereastră și reduce infiltrațiile de aer cu 60-70%. Efect vizibil imediat: dispare curentul rece de lângă geam.
+Garniturile de etanșare se degradează în 8-12 ani. Înlocuirea lor costă orientativ 25-55 EUR per fereastră și reduce infiltrațiile de aer cu 60-70%. Efect vizibil imediat: dispare curentul rece de lângă geam.
 
 ### b) Reglarea feroneriei
 Feroneria Roto sau Winkhaus nereglată corect lasă canatul să nu preseze uniform pe garnitură. Reglajul pe 3 axe costă orientativ 10-20 EUR per fereastră și poate elimina infiltrațiile de aer fără înlocuire.
@@ -3910,7 +3910,7 @@ Before spending money, check for these signs:
 ## Option 1 — Improvement without replacement (low cost, limited effect)
 
 ### a) Replacing the EPDM gaskets
-Sealing gaskets degrade in 8-12 years. Replacing them costs roughly 6-16 EUR per window and cuts air infiltration by 60-70%. Immediately noticeable: the cold draught next to the glass disappears.
+Sealing gaskets degrade in 8-12 years. Replacing them costs roughly 25-55 EUR per window and cuts air infiltration by 60-70%. Immediately noticeable: the cold draught next to the glass disappears.
 
 ### b) Adjusting the hardware
 Badly adjusted Roto or Winkhaus hardware stops the sash from pressing evenly on the gasket. A 3-axis adjustment costs roughly 10-20 EUR per window and can eliminate air infiltration without replacement.
@@ -4018,7 +4018,7 @@ Bevor Sie Geld ausgeben, prüfen Sie diese Anzeichen:
 ## Option 1 — Verbesserung ohne Austausch (geringe Kosten, begrenzte Wirkung)
 
 ### a) EPDM-Dichtungen erneuern
-Dichtungen verschleißen in 8-12 Jahren. Ihr Austausch kostet etwa 6-16 EUR pro Fenster und verringert das Eindringen von Luft um 60-70 %. Sofort spürbar: Die kalte Zugluft am Glas verschwindet.
+Dichtungen verschleißen in 8-12 Jahren. Ihr Austausch kostet etwa 25-55 EUR pro Fenster und verringert das Eindringen von Luft um 60-70 %. Sofort spürbar: Die kalte Zugluft am Glas verschwindet.
 
 ### b) Beschläge einstellen
 Schlecht eingestellte Roto- oder Winkhaus-Beschläge lassen den Flügel ungleichmäßig auf die Dichtung drücken. Eine Einstellung in 3 Achsen kostet etwa 10-20 EUR pro Fenster und kann das Eindringen von Luft ohne Austausch beseitigen.
@@ -4126,7 +4126,7 @@ Avant de dépenser de l’argent, vérifiez ces signes :
 ## Option 1 — Amélioration sans remplacement (coût faible, effet limité)
 
 ### a) Remplacer les joints EPDM
-Les joints d’étanchéité se dégradent en 8 à 12 ans. Les remplacer coûte environ 6 à 16 EUR par fenêtre et réduit les infiltrations d’air de 60 à 70 %. Effet immédiat : le courant d’air froid près du vitrage disparaît.
+Les joints d’étanchéité se dégradent en 8 à 12 ans. Les remplacer coûte environ 25 à 55 EUR par fenêtre et réduit les infiltrations d’air de 60 à 70 %. Effet immédiat : le courant d’air froid près du vitrage disparaît.
 
 ### b) Régler la quincaillerie
 Une quincaillerie Roto ou Winkhaus mal réglée empêche le vantail d’appuyer uniformément sur le joint. Un réglage sur 3 axes coûte environ 10 à 20 EUR par fenêtre et peut supprimer les infiltrations d’air sans remplacement.
@@ -4234,7 +4234,7 @@ Antes de gastar dinero, compruebe estas señales:
 ## Opción 1 — Mejora sin sustitución (coste bajo, efecto limitado)
 
 ### a) Cambiar las juntas de EPDM
-Las juntas de estanqueidad se degradan en 8-12 años. Cambiarlas cuesta unos 6-16 EUR por ventana y reduce las infiltraciones de aire un 60-70 %. Efecto inmediato: desaparece la corriente fría junto al vidrio.
+Las juntas de estanqueidad se degradan en 8-12 años. Cambiarlas cuesta unos 25-55 EUR por ventana y reduce las infiltraciones de aire un 60-70 %. Efecto inmediato: desaparece la corriente fría junto al vidrio.
 
 ### b) Ajustar los herrajes
 Unos herrajes Roto o Winkhaus mal ajustados hacen que la hoja no presione de forma uniforme sobre la junta. Un ajuste en 3 ejes cuesta unos 10-20 EUR por ventana y puede eliminar las infiltraciones de aire sin sustitución.
@@ -4342,7 +4342,7 @@ Prima di spendere, controllate questi segnali:
 ## Opzione 1 — Miglioramento senza sostituzione (costo basso, effetto limitato)
 
 ### a) Sostituire le guarnizioni in EPDM
-Le guarnizioni di tenuta si degradano in 8-12 anni. Sostituirle costa circa 6-16 EUR a finestra e riduce le infiltrazioni d’aria del 60-70%. Effetto immediato: sparisce lo spiffero freddo vicino al vetro.
+Le guarnizioni di tenuta si degradano in 8-12 anni. Sostituirle costa circa 25-55 EUR a finestra e riduce le infiltrazioni d’aria del 60-70%. Effetto immediato: sparisce lo spiffero freddo vicino al vetro.
 
 ### b) Regolare la ferramenta
 Una ferramenta Roto o Winkhaus regolata male impedisce all’anta di premere in modo uniforme sulla guarnizione. Una regolazione su 3 assi costa circa 10-20 EUR a finestra e può eliminare le infiltrazioni d’aria senza sostituzione.
@@ -4520,7 +4520,7 @@ Salamander bluEvolution 92 este profilul de referință pentru construcțiile nZ
 - 3 garnituri EPDM perimetrale
 
 **Performanță termică:**
-- Coeficient de transfer termic profil: Uf = 0,95 W/(m²K) (valoare certificată IFT Rosenheim)
+- Coeficient de transfer termic profil: Uf = 0,9 W/(m²K) (valoare certificată IFT Rosenheim)
 - Clasă de etanșeitate la aer: Clasa 4 (EN 12207) — maxim posibil
 - Clasă de etanșeitate la apă: Clasa E1500 (EN 12208)
 - Rezistență la vânt: Clasa C5 (EN 12210)
@@ -4554,7 +4554,7 @@ Distanțierul standard din aluminiu are conductivitate termică λ = 160 W/mK �
 
 | Componentă | Valoare | Pondere |
 |---|---|---|
-| Uf (profil) | 0,95 W/(m²K) | ~30% din suprafață |
+| Uf (profil) | 0,9 W/(m²K) | ~30% din suprafață |
 | Ug (geam triplu + argon) | 0,5 W/(m²K) | ~65% din suprafață |
 | Ψg (distanțier Warm Edge) | 0,030 W/mK | perimetru |
 | **Uw rezultant** | **0,72 W/(m²K)** | — |
@@ -4626,7 +4626,7 @@ Neofort BIZ montează sisteme nZEB complete în București și Ilfov — profil 
 
 ### Ce înseamnă un sistem de ferestre nZEB complet, nu doar un profil bun?
 
-Un sistem nZEB înseamnă fiecare componentă selectată împreună: profil Salamander bluEvolution 92 (Uf 0,95 W/m²K), geam triplu Saint-Gobain (Ug 0,5-0,6), distanțier Warm Edge și precadru Blaugelb Triotherm+ pentru etanșarea perimetrului. Un profil bun fără montaj corect pierde performanța.
+Un sistem nZEB înseamnă fiecare componentă selectată împreună: profil Salamander bluEvolution 92 (Uf 0,9 W/m²K), geam triplu Saint-Gobain (Ug 0,5-0,6), distanțier Warm Edge și precadru Blaugelb Triotherm+ pentru etanșarea perimetrului. Un profil bun fără montaj corect pierde performanța.
 
 ### La ce folosește precadrul Blaugelb Triotherm+?
 
@@ -4663,7 +4663,7 @@ Salamander bluEvolution 92 is the reference profile for nZEB construction in the
 - 3 perimeter EPDM gaskets
 
 **Thermal performance:**
-- Profile heat transfer coefficient: Uf = 0.95 W/(m²K) (value certified by IFT Rosenheim)
+- Profile heat transfer coefficient: Uf = 0.9 W/(m²K) (value certified by IFT Rosenheim)
 - Air tightness class: Class 4 (EN 12207) — the maximum possible
 - Water tightness class: Class E1500 (EN 12208)
 - Wind resistance: Class C5 (EN 12210)
@@ -4697,7 +4697,7 @@ The standard aluminium spacer has a thermal conductivity of λ = 160 W/mK — it
 
 | Component | Value | Share |
 |---|---|---|
-| Uf (profile) | 0.95 W/(m²K) | about 30% of the area |
+| Uf (profile) | 0.9 W/(m²K) | about 30% of the area |
 | Ug (triple glazing with argon) | 0.5 W/(m²K) | about 65% of the area |
 | Ψg (Warm Edge spacer) | 0.030 W/mK | perimeter |
 | **Resulting Uw** | **0.72 W/(m²K)** | — |
@@ -4769,7 +4769,7 @@ Neofort BIZ installs complete nZEB systems in Bucharest and Ilfov — Salamander
 
 ### What does a complete nZEB window system mean, rather than just a good profile?
 
-An nZEB system means every component selected together: the Salamander bluEvolution 92 profile (Uf 0.95 W/m²K), Saint-Gobain triple glazing (Ug 0.5–0.6), a Warm Edge spacer and a Blaugelb Triotherm+ precasing to seal the perimeter. A good profile without correct installation loses its performance.
+An nZEB system means every component selected together: the Salamander bluEvolution 92 profile (Uf 0.9 W/m²K), Saint-Gobain triple glazing (Ug 0.5–0.6), a Warm Edge spacer and a Blaugelb Triotherm+ precasing to seal the perimeter. A good profile without correct installation loses its performance.
 
 ### What is the Blaugelb Triotherm+ precasing for?
 
@@ -4805,7 +4805,7 @@ Salamander bluEvolution 92 ist das Referenzprofil für nZEB-Bauten im Portfolio 
 - 3 umlaufende EPDM-Dichtungen
 
 **Wärmetechnische Leistung:**
-- Wärmedurchgangskoeffizient des Profils: Uf = 0,95 W/(m²K) (von IFT Rosenheim zertifizierter Wert)
+- Wärmedurchgangskoeffizient des Profils: Uf = 0,9 W/(m²K) (von IFT Rosenheim zertifizierter Wert)
 - Luftdurchlässigkeitsklasse: Klasse 4 (EN 12207) — der höchstmögliche Wert
 - Schlagregendichtheitsklasse: Klasse E1500 (EN 12208)
 - Windwiderstand: Klasse C5 (EN 12210)
@@ -4839,7 +4839,7 @@ Der übliche Aluminiumabstandhalter hat eine Wärmeleitfähigkeit von λ = 160 W
 
 | Komponente | Wert | Anteil |
 |---|---|---|
-| Uf (Profil) | 0,95 W/(m²K) | rund 30 % der Fläche |
+| Uf (Profil) | 0,9 W/(m²K) | rund 30 % der Fläche |
 | Ug (Dreifachglas mit Argon) | 0,5 W/(m²K) | rund 65 % der Fläche |
 | Ψg (Warm-Edge-Abstandhalter) | 0,030 W/mK | Umfang |
 | **Resultierender Uw** | **0,72 W/(m²K)** | — |
@@ -4911,7 +4911,7 @@ Neofort BIZ montiert komplette nZEB-Systeme in Bukarest und Ilfov — Profil Sal
 
 ### Was bedeutet ein komplettes nZEB-Fenstersystem statt nur eines guten Profils?
 
-Ein nZEB-System bedeutet, dass jede Komponente gemeinsam gewählt wird: Profil Salamander bluEvolution 92 (Uf 0,95 W/m²K), Saint-Gobain Dreifachglas (Ug 0,5–0,6), Warm-Edge-Abstandhalter und Blaugelb Triotherm+ Vorblendrahmen für die Abdichtung des Anschlusses. Ein gutes Profil ohne fachgerechte Montage verliert seine Leistung.
+Ein nZEB-System bedeutet, dass jede Komponente gemeinsam gewählt wird: Profil Salamander bluEvolution 92 (Uf 0,9 W/m²K), Saint-Gobain Dreifachglas (Ug 0,5–0,6), Warm-Edge-Abstandhalter und Blaugelb Triotherm+ Vorblendrahmen für die Abdichtung des Anschlusses. Ein gutes Profil ohne fachgerechte Montage verliert seine Leistung.
 
 ### Wozu dient der Blaugelb Triotherm+ Vorblendrahmen?
 
@@ -4947,7 +4947,7 @@ Salamander bluEvolution 92 est le profilé de référence pour les constructions
 - 3 joints EPDM périphériques
 
 **Performance thermique :**
-- Coefficient de transfert thermique du profilé : Uf = 0,95 W/(m²K) (valeur certifiée IFT Rosenheim)
+- Coefficient de transfert thermique du profilé : Uf = 0,9 W/(m²K) (valeur certifiée IFT Rosenheim)
 - Classe de perméabilité à l’air : classe 4 (EN 12207) — le maximum possible
 - Classe d’étanchéité à l’eau : classe E1500 (EN 12208)
 - Résistance au vent : classe C5 (EN 12210)
@@ -4981,7 +4981,7 @@ L’intercalaire standard en aluminium a une conductivité thermique de λ = 160
 
 | Composant | Valeur | Part |
 |---|---|---|
-| Uf (profilé) | 0,95 W/(m²K) | environ 30 % de la surface |
+| Uf (profilé) | 0,9 W/(m²K) | environ 30 % de la surface |
 | Ug (triple vitrage à l’argon) | 0,5 W/(m²K) | environ 65 % de la surface |
 | Ψg (intercalaire Warm Edge) | 0,030 W/mK | périmètre |
 | **Uw résultant** | **0,72 W/(m²K)** | — |
@@ -5053,7 +5053,7 @@ Neofort BIZ pose des systèmes nZEB complets à Bucarest et dans l’Ilfov — p
 
 ### Que signifie un système de fenêtres nZEB complet, et non un simple bon profilé ?
 
-Un système nZEB signifie que chaque composant est choisi ensemble : profilé Salamander bluEvolution 92 (Uf 0,95 W/m²K), triple vitrage Saint-Gobain (Ug 0,5–0,6), intercalaire Warm Edge et précadre Blaugelb Triotherm+ pour l’étanchéité du pourtour. Un bon profilé mal posé perd sa performance.
+Un système nZEB signifie que chaque composant est choisi ensemble : profilé Salamander bluEvolution 92 (Uf 0,9 W/m²K), triple vitrage Saint-Gobain (Ug 0,5–0,6), intercalaire Warm Edge et précadre Blaugelb Triotherm+ pour l’étanchéité du pourtour. Un bon profilé mal posé perd sa performance.
 
 ### À quoi sert le précadre Blaugelb Triotherm+ ?
 
@@ -5089,7 +5089,7 @@ Salamander bluEvolution 92 es el perfil de referencia para construcciones nZEB d
 - 3 juntas EPDM perimetrales
 
 **Prestación térmica:**
-- Coeficiente de transferencia térmica del perfil: Uf = 0,95 W/(m²K) (valor certificado por IFT Rosenheim)
+- Coeficiente de transferencia térmica del perfil: Uf = 0,9 W/(m²K) (valor certificado por IFT Rosenheim)
 - Clase de permeabilidad al aire: Clase 4 (EN 12207) — el máximo posible
 - Clase de estanqueidad al agua: Clase E1500 (EN 12208)
 - Resistencia al viento: Clase C5 (EN 12210)
@@ -5123,7 +5123,7 @@ El separador estándar de aluminio tiene una conductividad térmica de λ = 160 
 
 | Componente | Valor | Peso |
 |---|---|---|
-| Uf (perfil) | 0,95 W/(m²K) | en torno al 30 % de la superficie |
+| Uf (perfil) | 0,9 W/(m²K) | en torno al 30 % de la superficie |
 | Ug (triple vidrio con argón) | 0,5 W/(m²K) | en torno al 65 % de la superficie |
 | Ψg (separador Warm Edge) | 0,030 W/mK | perímetro |
 | **Uw resultante** | **0,72 W/(m²K)** | — |
@@ -5195,7 +5195,7 @@ Neofort BIZ instala sistemas nZEB completos en Bucarest e Ilfov — perfil Salam
 
 ### ¿Qué significa un sistema de ventanas nZEB completo, y no solo un buen perfil?
 
-Un sistema nZEB significa que cada componente se elige en conjunto: perfil Salamander bluEvolution 92 (Uf 0,95 W/m²K), triple vidrio Saint-Gobain (Ug 0,5–0,6), separador Warm Edge y premarco Blaugelb Triotherm+ para el sellado del perímetro. Un buen perfil mal instalado pierde sus prestaciones.
+Un sistema nZEB significa que cada componente se elige en conjunto: perfil Salamander bluEvolution 92 (Uf 0,9 W/m²K), triple vidrio Saint-Gobain (Ug 0,5–0,6), separador Warm Edge y premarco Blaugelb Triotherm+ para el sellado del perímetro. Un buen perfil mal instalado pierde sus prestaciones.
 
 ### ¿Para qué sirve el premarco Blaugelb Triotherm+?
 
@@ -5231,7 +5231,7 @@ Salamander bluEvolution 92 è il profilo di riferimento per le costruzioni nZEB 
 - 3 guarnizioni EPDM perimetrali
 
 **Prestazione termica:**
-- Coefficiente di trasmittanza del profilo: Uf = 0,95 W/(m²K) (valore certificato IFT Rosenheim)
+- Coefficiente di trasmittanza del profilo: Uf = 0,9 W/(m²K) (valore certificato IFT Rosenheim)
 - Classe di permeabilità all’aria: Classe 4 (EN 12207) — il massimo possibile
 - Classe di tenuta all’acqua: Classe E1500 (EN 12208)
 - Resistenza al vento: Classe C5 (EN 12210)
@@ -5265,7 +5265,7 @@ Il distanziale standard in alluminio ha una conducibilità termica di λ = 160 W
 
 | Componente | Valore | Incidenza |
 |---|---|---|
-| Uf (profilo) | 0,95 W/(m²K) | circa il 30 % della superficie |
+| Uf (profilo) | 0,9 W/(m²K) | circa il 30 % della superficie |
 | Ug (triplo vetro con argon) | 0,5 W/(m²K) | circa il 65 % della superficie |
 | Ψg (distanziale Warm Edge) | 0,030 W/mK | perimetro |
 | **Uw risultante** | **0,72 W/(m²K)** | — |
@@ -5337,7 +5337,7 @@ Neofort BIZ posa sistemi nZEB completi a Bucarest e nell’Ilfov — profilo Sal
 
 ### Che cosa significa un sistema di finestre nZEB completo, e non solo un buon profilo?
 
-Un sistema nZEB significa che ogni componente viene scelto insieme: profilo Salamander bluEvolution 92 (Uf 0,95 W/m²K), triplo vetro Saint-Gobain (Ug 0,5–0,6), distanziale Warm Edge e controtelaio Blaugelb Triotherm+ per la sigillatura del perimetro. Un buon profilo posato male perde le sue prestazioni.
+Un sistema nZEB significa che ogni componente viene scelto insieme: profilo Salamander bluEvolution 92 (Uf 0,9 W/m²K), triplo vetro Saint-Gobain (Ug 0,5–0,6), distanziale Warm Edge e controtelaio Blaugelb Triotherm+ per la sigillatura del perimetro. Un buon profilo posato male perde le sue prestazioni.
 
 ### A che cosa serve il controtelaio Blaugelb Triotherm+?
 
@@ -15453,7 +15453,7 @@ Potrivit pentru: terase rezidențiale unde vrei umbră fără să te izolezi, re
 | Criteriu | Zipscreen | Rulouri aluminiu |
 |---|---|---|
 | Material | Țesătură tehnică (fibră de sticlă sau poliester acoperit cu PVC) | Lamele de aluminiu extrudat izolat |
-| Rezistență vânt | Clasa 6 · până la 88 km/h | Până la 1.050 Pa (lamele rigide) |
+| Rezistență vânt | Clasa 6 · până la 88 km/h | Până la clasa 6 (EN 13659), după lățime |
 | Vizibilitate | Screen: **DA** · Blackout: nu | Nu |
 | Reducere aport solar | Blackout: până la 95% | Până la 70% |
 | Izolare termică nocturnă | Mică | **Bună (ΔU ≈ 0,3 W/m²K)** |
@@ -15609,7 +15609,7 @@ Suited to: residential terraces where you want shade without shutting yourself i
 | Criterion | Zipscreen | Aluminium shutters |
 |---|---|---|
 | Material | Technical fabric (PVC-coated fibreglass or polyester) | Insulated extruded aluminium slats |
-| Wind resistance | Class 6 · up to 88 km/h | Up to 1,050 Pa (rigid slats) |
+| Wind resistance | Class 6 · up to 88 km/h | Up to class 6 (EN 13659), depending on width |
 | Visibility | Screen: **YES** · Blackout: no | No |
 | Solar gain reduction | Blackout: up to 95% | Up to 70% |
 | Night-time thermal insulation | Low | **Good (ΔU ≈ 0.3 W/m²K)** |
@@ -15765,7 +15765,7 @@ Geeignet für: Wohnterrassen, auf denen Sie Schatten möchten, ohne sich abzusch
 | Kriterium | Zipscreen | Aluminiumrollläden |
 |---|---|---|
 | Material | Technisches Gewebe (PVC-beschichtetes Glasfaser- oder Polyestergewebe) | Ausgeschäumte stranggepresste Aluminiumlamellen |
-| Windwiderstand | Klasse 6 · bis 88 km/h | Bis 1.050 Pa (starre Lamellen) |
+| Windwiderstand | Klasse 6 · bis 88 km/h | Bis Klasse 6 (EN 13659), je nach Breite |
 | Durchsicht | Screen: **JA** · Blackout: nein | Nein |
 | Reduzierung des Sonneneintrags | Blackout: bis 95 % | Bis 70 % |
 | Nächtliche Wärmedämmung | Gering | **Gut (ΔU ≈ 0,3 W/m²K)** |
@@ -15921,7 +15921,7 @@ Adapté aux : terrasses résidentielles où l’on veut de l’ombre sans s’is
 | Critère | Zipscreen | Volets en aluminium |
 |---|---|---|
 | Matériau | Toile technique (fibre de verre ou polyester enduit de PVC) | Lames en aluminium extrudé isolé |
-| Résistance au vent | Classe 6 · jusqu’à 88 km/h | Jusqu’à 1 050 Pa (lames rigides) |
+| Résistance au vent | Classe 6 · jusqu’à 88 km/h | Jusqu’à la classe 6 (EN 13659), selon la largeur |
 | Visibilité | Screen : **OUI** · Occultant : non | Non |
 | Réduction des apports solaires | Occultant : jusqu’à 95 % | Jusqu’à 70 % |
 | Isolation thermique nocturne | Faible | **Bonne (ΔU ≈ 0,3 W/m²K)** |
@@ -16077,7 +16077,7 @@ Adecuado para: terrazas residenciales donde se quiere sombra sin aislarse, resta
 | Criterio | Zipscreen | Persianas de aluminio |
 |---|---|---|
 | Material | Tejido técnico (fibra de vidrio o poliéster recubierto de PVC) | Lamas de aluminio extruido aislado |
-| Resistencia al viento | Clase 6 · hasta 88 km/h | Hasta 1.050 Pa (lamas rígidas) |
+| Resistencia al viento | Clase 6 · hasta 88 km/h | Hasta clase 6 (EN 13659), según el ancho |
 | Visibilidad | Screen: **SÍ** · Blackout: no | No |
 | Reducción de la ganancia solar | Blackout: hasta el 95 % | Hasta el 70 % |
 | Aislamiento térmico nocturno | Bajo | **Bueno (ΔU ≈ 0,3 W/m²K)** |
@@ -16233,7 +16233,7 @@ Adatto a: terrazze residenziali dove si vuole ombra senza isolarsi, ristoranti e
 | Criterio | Zipscreen | Tapparelle in alluminio |
 |---|---|---|
 | Materiale | Tessuto tecnico (fibra di vetro o poliestere rivestito in PVC) | Stecche in alluminio estruso coibentato |
-| Resistenza al vento | Classe 6 · fino a 88 km/h | Fino a 1.050 Pa (stecche rigide) |
+| Resistenza al vento | Classe 6 · fino a 88 km/h | Fino alla classe 6 (EN 13659), secondo la larghezza |
 | Visibilità | Screen: **SÌ** · Oscurante: no | No |
 | Riduzione dell’apporto solare | Oscurante: fino al 95% | Fino al 70% |
 | Isolamento termico notturno | Basso | **Buono (ΔU ≈ 0,3 W/m²K)** |
@@ -22563,7 +22563,7 @@ Această casă, finalizată în 2025, a ales **Salamander [BluEvolution 92](/ro/
 Un sistem smart home bine proiectat optimizează consumul de energie al casei. Dar această optimizare funcționează **doar dacă anvelopa clădirii este performantă** — altfel, automatizezi pierderile, nu le elimini.
 
 **BluEvolution 92** oferă:
-- **6 camere** | adâncime 92 mm | Uf profil = 0,95 W/m²K
+- **6 camere** | adâncime 92 mm | Uf profil = 0,9 W/m²K
 - **Uw de la 0,70 W/m²K** cu geam triplu Low-E 4+12+4+12+4 argon/krypton
 - Izolare fonică: **până la 47 dB** — liniște completă chiar și pe strada cu trafic moderat
 - Potrivit pentru case **nZEB** — consum sub 100 kWh/m²/an
@@ -22653,11 +22653,11 @@ La Neofort BIZ oferim **consultanță tehnică** pentru proiecte de case individ
 
 ### De ce e BluEvolution 92 profilul ideal pentru o casă smart?
 
-Un sistem smart home optimizează consumul de energie doar dacă anvelopa clădirii e performantă — altfel automatizezi pierderile, nu le elimini. BluEvolution 92 (6 camere, Uf 0,95 W/m²K) atinge Uw de la 0,70 W/m²K cu geam triplu Low-E și oferă baza de care are nevoie o casă nZEB.
+Un sistem smart home optimizează consumul de energie doar dacă anvelopa clădirii e performantă — altfel automatizezi pierderile, nu le elimini. BluEvolution 92 (6 camere, Uf 0,9 W/m²K) atinge Uw de la 0,70 W/m²K cu geam triplu Low-E și oferă baza de care are nevoie o casă nZEB.
 
 ### Ce performanță termică oferă Salamander BluEvolution 92?
 
-BluEvolution 92 are 6 camere și adâncime 92 mm, cu Uf profil 0,95 W/m²K. Atinge Uw de la 0,70 W/m²K cu geam triplu Low-E 4+12+4+12+4 argon/krypton și oferă izolare fonică până la 47 dB.
+BluEvolution 92 are 6 camere și adâncime 92 mm, cu Uf profil 0,9 W/m²K. Atinge Uw de la 0,70 W/m²K cu geam triplu Low-E 4+12+4+12+4 argon/krypton și oferă izolare fonică până la 47 dB.
 
 ### E potrivit profilul PVC pentru o casă cu sistem smart home integrat?
 
@@ -22691,7 +22691,7 @@ This house, completed in 2025, chose **Salamander [BluEvolution 92](/en/pvc-wind
 A well-designed smart home system optimises the house's energy use. But that optimisation works **only if the building envelope performs well** — otherwise you automate the losses instead of eliminating them.
 
 **BluEvolution 92** offers:
-- **6 chambers** | 92 mm depth | profile Uf = 0.95 W/m²K
+- **6 chambers** | 92 mm depth | profile Uf = 0.9 W/m²K
 - **Uw from 0.70 W/m²K** with triple Low-E 4+12+4+12+4 argon/krypton glazing
 - Sound insulation: **up to 47 dB** — complete quiet even on a street with moderate traffic
 - Suitable for **nZEB** houses — consumption below 100 kWh/m²/year
@@ -22781,11 +22781,11 @@ At Neofort BIZ we offer **technical consultancy** for new detached-house project
 
 ### Why is BluEvolution 92 the ideal profile for a smart house?
 
-A smart home system only optimises energy use if the building envelope performs well — otherwise you automate the losses instead of eliminating them. BluEvolution 92 (6 chambers, Uf 0.95 W/m²K) reaches Uw from 0.70 W/m²K with triple Low-E glazing and provides the foundation an nZEB house needs.
+A smart home system only optimises energy use if the building envelope performs well — otherwise you automate the losses instead of eliminating them. BluEvolution 92 (6 chambers, Uf 0.9 W/m²K) reaches Uw from 0.70 W/m²K with triple Low-E glazing and provides the foundation an nZEB house needs.
 
 ### What thermal performance does Salamander BluEvolution 92 offer?
 
-BluEvolution 92 has 6 chambers and a 92 mm depth, with a profile Uf of 0.95 W/m²K. It reaches Uw from 0.70 W/m²K with triple Low-E 4+12+4+12+4 argon/krypton glazing and offers sound insulation of up to 47 dB.
+BluEvolution 92 has 6 chambers and a 92 mm depth, with a profile Uf of 0.9 W/m²K. It reaches Uw from 0.70 W/m²K with triple Low-E 4+12+4+12+4 argon/krypton glazing and offers sound insulation of up to 47 dB.
 
 ### Is a PVC profile suitable for a house with an integrated smart home system?
 
@@ -22819,7 +22819,7 @@ Dieses 2025 fertiggestellte Haus hat sich für **Salamander [BluEvolution 92](/d
 Ein gut geplantes Smart-Home-System optimiert den Energieverbrauch des Hauses. Diese Optimierung funktioniert aber **nur, wenn die Gebäudehülle leistungsfähig ist** — sonst automatisiert man die Verluste, statt sie zu beseitigen.
 
 **BluEvolution 92** bietet:
-- **6 Kammern** | Bautiefe 92 mm | Profil-Uf = 0,95 W/m²K
+- **6 Kammern** | Bautiefe 92 mm | Profil-Uf = 0,9 W/m²K
 - **Uw ab 0,70 W/m²K** mit Dreifachverglasung Low-E 4+12+4+12+4 Argon/Krypton
 - Schalldämmung: **bis 47 dB** — völlige Ruhe selbst an einer Straße mit mäßigem Verkehr
 - Geeignet für **nZEB**-Häuser — Verbrauch unter 100 kWh/m²/Jahr
@@ -22909,11 +22909,11 @@ Bei Neofort BIZ bieten wir **technische Beratung** für neue Einfamilienhausproj
 
 ### Warum ist BluEvolution 92 das ideale Profil für ein Smart Home?
 
-Ein Smart-Home-System optimiert den Energieverbrauch nur, wenn die Gebäudehülle leistungsfähig ist — sonst automatisiert man die Verluste, statt sie zu beseitigen. BluEvolution 92 (6 Kammern, Uf 0,95 W/m²K) erreicht Uw ab 0,70 W/m²K mit Dreifachverglasung Low-E und bietet die Grundlage, die ein nZEB-Haus braucht.
+Ein Smart-Home-System optimiert den Energieverbrauch nur, wenn die Gebäudehülle leistungsfähig ist — sonst automatisiert man die Verluste, statt sie zu beseitigen. BluEvolution 92 (6 Kammern, Uf 0,9 W/m²K) erreicht Uw ab 0,70 W/m²K mit Dreifachverglasung Low-E und bietet die Grundlage, die ein nZEB-Haus braucht.
 
 ### Welche Wärmedämmung bietet Salamander BluEvolution 92?
 
-BluEvolution 92 hat 6 Kammern und eine Bautiefe von 92 mm, mit einem Profil-Uf von 0,95 W/m²K. Es erreicht Uw ab 0,70 W/m²K mit Dreifachverglasung Low-E 4+12+4+12+4 Argon/Krypton und bietet Schalldämmung bis 47 dB.
+BluEvolution 92 hat 6 Kammern und eine Bautiefe von 92 mm, mit einem Profil-Uf von 0,9 W/m²K. Es erreicht Uw ab 0,70 W/m²K mit Dreifachverglasung Low-E 4+12+4+12+4 Argon/Krypton und bietet Schalldämmung bis 47 dB.
 
 ### Eignet sich ein PVC-Profil für ein Haus mit integriertem Smart-Home-System?
 
@@ -22947,7 +22947,7 @@ Cette maison, achevée en 2025, a choisi **Salamander [BluEvolution 92](/fr/menu
 Un système domotique bien conçu optimise la consommation d’énergie de la maison. Mais cette optimisation ne fonctionne **que si l’enveloppe du bâtiment est performante** — sinon, on automatise les pertes au lieu de les supprimer.
 
 Le **BluEvolution 92** offre :
-- **6 chambres** | profondeur 92 mm | Uf du profilé = 0,95 W/m²K
+- **6 chambres** | profondeur 92 mm | Uf du profilé = 0,9 W/m²K
 - **Uw à partir de 0,70 W/m²K** avec triple vitrage Low-E 4+12+4+12+4 argon/krypton
 - Isolation acoustique : **jusqu’à 47 dB** — un calme complet même dans une rue à trafic modéré
 - Adapté aux maisons **nZEB** — consommation inférieure à 100 kWh/m²/an
@@ -23037,11 +23037,11 @@ Chez Neofort BIZ, nous proposons un **conseil technique** pour les projets de ma
 
 ### Pourquoi le BluEvolution 92 est-il le profilé idéal pour une maison intelligente ?
 
-Un système domotique n’optimise la consommation d’énergie que si l’enveloppe du bâtiment est performante — sinon, on automatise les pertes au lieu de les supprimer. Le BluEvolution 92 (6 chambres, Uf 0,95 W/m²K) atteint un Uw à partir de 0,70 W/m²K en triple vitrage Low-E et offre la base dont une maison nZEB a besoin.
+Un système domotique n’optimise la consommation d’énergie que si l’enveloppe du bâtiment est performante — sinon, on automatise les pertes au lieu de les supprimer. Le BluEvolution 92 (6 chambres, Uf 0,9 W/m²K) atteint un Uw à partir de 0,70 W/m²K en triple vitrage Low-E et offre la base dont une maison nZEB a besoin.
 
 ### Quelles performances thermiques offre le Salamander BluEvolution 92 ?
 
-Le BluEvolution 92 a 6 chambres et une profondeur de 92 mm, avec un Uf du profilé de 0,95 W/m²K. Il atteint un Uw à partir de 0,70 W/m²K avec un triple vitrage Low-E 4+12+4+12+4 argon/krypton et offre une isolation acoustique jusqu’à 47 dB.
+Le BluEvolution 92 a 6 chambres et une profondeur de 92 mm, avec un Uf du profilé de 0,9 W/m²K. Il atteint un Uw à partir de 0,70 W/m²K avec un triple vitrage Low-E 4+12+4+12+4 argon/krypton et offre une isolation acoustique jusqu’à 47 dB.
 
 ### Un profilé PVC convient-il à une maison dotée d’un système domotique intégré ?
 
@@ -23075,7 +23075,7 @@ Esta casa, terminada en 2025, eligió **Salamander [BluEvolution 92](/es/carpint
 Un sistema domótico bien diseñado optimiza el consumo de energía de la casa. Pero esa optimización solo funciona **si la envolvente del edificio rinde bien**; de lo contrario, se automatizan las pérdidas en lugar de eliminarlas.
 
 **BluEvolution 92** ofrece:
-- **6 cámaras** | profundidad de 92 mm | Uf del perfil = 0,95 W/m²K
+- **6 cámaras** | profundidad de 92 mm | Uf del perfil = 0,9 W/m²K
 - **Uw desde 0,70 W/m²K** con triple acristalamiento Low-E 4+12+4+12+4 argón/kriptón
 - Aislamiento acústico: **hasta 47 dB**, silencio total incluso en una calle con tráfico moderado
 - Adecuado para casas **nZEB**: consumo inferior a 100 kWh/m²/año
@@ -23165,11 +23165,11 @@ En Neofort BIZ ofrecemos **asesoramiento técnico** para proyectos de casas unif
 
 ### ¿Por qué BluEvolution 92 es el perfil ideal para una casa inteligente?
 
-Un sistema domótico solo optimiza el consumo de energía si la envolvente del edificio rinde bien; de lo contrario, se automatizan las pérdidas en lugar de eliminarlas. BluEvolution 92 (6 cámaras, Uf 0,95 W/m²K) alcanza un Uw desde 0,70 W/m²K con triple acristalamiento Low-E y ofrece la base que necesita una casa nZEB.
+Un sistema domótico solo optimiza el consumo de energía si la envolvente del edificio rinde bien; de lo contrario, se automatizan las pérdidas en lugar de eliminarlas. BluEvolution 92 (6 cámaras, Uf 0,9 W/m²K) alcanza un Uw desde 0,70 W/m²K con triple acristalamiento Low-E y ofrece la base que necesita una casa nZEB.
 
 ### ¿Qué rendimiento térmico ofrece Salamander BluEvolution 92?
 
-BluEvolution 92 tiene 6 cámaras y una profundidad de 92 mm, con un Uf del perfil de 0,95 W/m²K. Alcanza un Uw desde 0,70 W/m²K con triple acristalamiento Low-E 4+12+4+12+4 argón/kriptón y ofrece aislamiento acústico de hasta 47 dB.
+BluEvolution 92 tiene 6 cámaras y una profundidad de 92 mm, con un Uf del perfil de 0,9 W/m²K. Alcanza un Uw desde 0,70 W/m²K con triple acristalamiento Low-E 4+12+4+12+4 argón/kriptón y ofrece aislamiento acústico de hasta 47 dB.
 
 ### ¿Es adecuado un perfil de PVC para una casa con un sistema domótico integrado?
 
@@ -23203,7 +23203,7 @@ Questa casa, completata nel 2025, ha scelto **Salamander [BluEvolution 92](/it/i
 Un sistema domotico ben progettato ottimizza i consumi energetici della casa. Ma questa ottimizzazione funziona **solo se l’involucro dell’edificio è performante**; altrimenti si automatizzano le dispersioni invece di eliminarle.
 
 **BluEvolution 92** offre:
-- **6 camere** | profondità 92 mm | Uf del profilo = 0,95 W/m²K
+- **6 camere** | profondità 92 mm | Uf del profilo = 0,9 W/m²K
 - **Uw da 0,70 W/m²K** con vetro triplo Low-E 4+12+4+12+4 argon/kripton
 - Isolamento acustico: **fino a 47 dB**, silenzio totale anche su una strada a traffico moderato
 - Adatto alle case **nZEB**: consumo inferiore a 100 kWh/m²/anno
@@ -23293,11 +23293,11 @@ Da Neofort BIZ offriamo **consulenza tecnica** per i progetti di case unifamilia
 
 ### Perché BluEvolution 92 è il profilo ideale per una casa smart?
 
-Un sistema domotico ottimizza i consumi solo se l’involucro dell’edificio è performante; altrimenti si automatizzano le dispersioni invece di eliminarle. BluEvolution 92 (6 camere, Uf 0,95 W/m²K) raggiunge un Uw da 0,70 W/m²K con vetro triplo Low-E e offre la base di cui ha bisogno una casa nZEB.
+Un sistema domotico ottimizza i consumi solo se l’involucro dell’edificio è performante; altrimenti si automatizzano le dispersioni invece di eliminarle. BluEvolution 92 (6 camere, Uf 0,9 W/m²K) raggiunge un Uw da 0,70 W/m²K con vetro triplo Low-E e offre la base di cui ha bisogno una casa nZEB.
 
 ### Quali prestazioni termiche offre Salamander BluEvolution 92?
 
-BluEvolution 92 ha 6 camere e una profondità di 92 mm, con un Uf del profilo di 0,95 W/m²K. Raggiunge un Uw da 0,70 W/m²K con vetro triplo Low-E 4+12+4+12+4 argon/kripton e offre un isolamento acustico fino a 47 dB.
+BluEvolution 92 ha 6 camere e una profondità di 92 mm, con un Uf del profilo di 0,9 W/m²K. Raggiunge un Uw da 0,70 W/m²K con vetro triplo Low-E 4+12+4+12+4 argon/kripton e offre un isolamento acustico fino a 47 dB.
 
 ### Un profilo in PVC è adatto a una casa con un sistema domotico integrato?
 
@@ -30144,7 +30144,7 @@ Profilele Salamander **BluEvolution 92** sunt alegerea noastră pentru oscilocul
 | Adâncime construcție | **92 mm** |
 | Număr camere profil | **6 camere** |
 | Garnituri etanșare | **3 garnituri** perimetrale |
-| Coeficient termic profil Uf | **0,95 W/m²K** |
+| Coeficient termic profil Uf | **0,9 W/m²K** |
 | Coeficient fereastră Uw | **de la 0,70 W/m²K** cu tripan |
 | Izolare fonică Rw | **până la 47 dB** |
 | Protecție antiefracție | **RC 2** cu feronerie de siguranță |
@@ -30177,7 +30177,7 @@ Cele **3 garnituri perimetrale** fac diferența la etanșare: în poziția înch
 ### Cum se calculează Uw
 
 Coeficientul de transfer termic al ferestrei (Uw) depinde de trei componente:
-1. **Profilul PVC** — Uf = 0,95 W/m²K pentru BluEvolution 92
+1. **Profilul PVC** — Uf = 0,9 W/m²K pentru BluEvolution 92
 2. **Geamul termoizolator** — Ug = 0,5–1,1 W/m²K în funcție de configurație
 3. **Distanțierul Warm Edge** — reduce puntea termică de la marginea geamului
 
@@ -30301,7 +30301,7 @@ Salamander **BluEvolution 92** profiles are our choice for a high-performance do
 | Installation depth | **92 mm** |
 | Number of profile chambers | **6 chambers** |
 | Sealing gaskets | **3 perimeter gaskets** |
-| Profile thermal coefficient Uf | **0.95 W/m²K** |
+| Profile thermal coefficient Uf | **0.9 W/m²K** |
 | Window coefficient Uw | **from 0.70 W/m²K** with triple glazing |
 | Sound insulation Rw | **up to 47 dB** |
 | Burglar resistance | **RC 2** with security hardware |
@@ -30334,7 +30334,7 @@ The **3 perimeter gaskets** make the difference in sealing: in the closed positi
 ### How Uw is calculated
 
 The window's heat transfer coefficient (Uw) depends on three components:
-1. **The PVC profile** — Uf = 0.95 W/m²K for BluEvolution 92
+1. **The PVC profile** — Uf = 0.9 W/m²K for BluEvolution 92
 2. **The insulating glass** — Ug = 0.5–1.1 W/m²K depending on the configuration
 3. **The Warm Edge spacer** — reduces the thermal bridge at the edge of the glass
 
@@ -30458,7 +30458,7 @@ Die Salamander-Profile **BluEvolution 92** sind unsere Wahl für ein leistungsst
 | Bautiefe | **92 mm** |
 | Anzahl der Profilkammern | **6 Kammern** |
 | Dichtungen | **3 umlaufende Dichtungen** |
-| Wärmedurchgangskoeffizient Profil Uf | **0,95 W/m²K** |
+| Wärmedurchgangskoeffizient Profil Uf | **0,9 W/m²K** |
 | Wärmedurchgangskoeffizient Fenster Uw | **ab 0,70 W/m²K** mit Dreifachverglasung |
 | Schalldämmung Rw | **bis 47 dB** |
 | Einbruchhemmung | **RC 2** mit Sicherheitsbeschlag |
@@ -30491,7 +30491,7 @@ Die **3 umlaufenden Dichtungen** machen bei der Dichtheit den Unterschied: Gesch
 ### Wie Uw berechnet wird
 
 Der Wärmedurchgangskoeffizient des Fensters (Uw) hängt von drei Bestandteilen ab:
-1. **Dem Kunststoffprofil** — Uf = 0,95 W/m²K bei BluEvolution 92
+1. **Dem Kunststoffprofil** — Uf = 0,9 W/m²K bei BluEvolution 92
 2. **Dem Isolierglas** — Ug = 0,5–1,1 W/m²K je nach Aufbau
 3. **Dem Warm-Edge-Abstandhalter** — verringert die Wärmebrücke am Glasrand
 
@@ -30615,7 +30615,7 @@ Les profilés Salamander **BluEvolution 92** sont notre choix pour une fenêtre 
 | Profondeur de construction | **92 mm** |
 | Nombre de chambres du profilé | **6 chambres** |
 | Joints d’étanchéité | **3 joints** périphériques |
-| Coefficient thermique du profilé Uf | **0,95 W/m²K** |
+| Coefficient thermique du profilé Uf | **0,9 W/m²K** |
 | Coefficient de la fenêtre Uw | **à partir de 0,70 W/m²K** en triple vitrage |
 | Isolation acoustique Rw | **jusqu’à 47 dB** |
 | Protection anti-effraction | **RC 2** avec quincaillerie de sécurité |
@@ -30648,7 +30648,7 @@ Les **3 joints périphériques** font la différence en matière d’étanchéit
 ### Comment se calcule le Uw
 
 Le coefficient de transmission thermique de la fenêtre (Uw) dépend de trois éléments :
-1. **Le profilé PVC** — Uf = 0,95 W/m²K pour le BluEvolution 92
+1. **Le profilé PVC** — Uf = 0,9 W/m²K pour le BluEvolution 92
 2. **Le vitrage isolant** — Ug = 0,5–1,1 W/m²K selon la configuration
 3. **L’intercalaire Warm Edge** — réduit le pont thermique en bord de vitrage
 
@@ -30772,7 +30772,7 @@ Los perfiles Salamander **BluEvolution 92** son nuestra elección para una venta
 | Profundidad de construcción | **92 mm** |
 | Número de cámaras del perfil | **6 cámaras** |
 | Juntas de estanqueidad | **3 juntas** perimetrales |
-| Coeficiente térmico del perfil Uf | **0,95 W/m²K** |
+| Coeficiente térmico del perfil Uf | **0,9 W/m²K** |
 | Coeficiente de la ventana Uw | **desde 0,70 W/m²K** con triple acristalamiento |
 | Aislamiento acústico Rw | **hasta 47 dB** |
 | Protección antirrobo | **RC 2** con herrajes de seguridad |
@@ -30805,7 +30805,7 @@ Las **3 juntas perimetrales** marcan la diferencia en la estanqueidad: en posici
 ### Cómo se calcula el Uw
 
 El coeficiente de transmisión térmica de la ventana (Uw) depende de tres componentes:
-1. **El perfil de PVC**: Uf = 0,95 W/m²K en BluEvolution 92
+1. **El perfil de PVC**: Uf = 0,9 W/m²K en BluEvolution 92
 2. **El vidrio aislante**: Ug = 0,5–1,1 W/m²K según la configuración
 3. **El separador Warm Edge**: reduce el puente térmico del borde del vidrio
 
@@ -30929,7 +30929,7 @@ I profili Salamander **BluEvolution 92** sono la nostra scelta per una finestra 
 | Profondità del profilo | **92 mm** |
 | Numero di camere del profilo | **6 camere** |
 | Guarnizioni di tenuta | **3 guarnizioni** perimetrali |
-| Coefficiente termico del profilo Uf | **0,95 W/m²K** |
+| Coefficiente termico del profilo Uf | **0,9 W/m²K** |
 | Coefficiente della finestra Uw | **da 0,70 W/m²K** con vetro triplo |
 | Isolamento acustico Rw | **fino a 47 dB** |
 | Protezione antieffrazione | **RC 2** con ferramenta di sicurezza |
@@ -30962,7 +30962,7 @@ Le **3 guarnizioni perimetrali** fanno la differenza nella tenuta: in posizione 
 ### Come si calcola l’Uw
 
 Il coefficiente di trasmittanza termica della finestra (Uw) dipende da tre componenti:
-1. **Il profilo in PVC**: Uf = 0,95 W/m²K per BluEvolution 92
+1. **Il profilo in PVC**: Uf = 0,9 W/m²K per BluEvolution 92
 2. **Il vetro isolante**: Ug = 0,5–1,1 W/m²K in base alla configurazione
 3. **Il distanziatore Warm Edge**: riduce il ponte termico sul bordo del vetro
 
@@ -35668,8 +35668,8 @@ Metodologia de calcul al performanței energetice a clădirilor, **Mc 001-2022**
 
 | Profil | Uf (W/m²K) | Geam maxim | Uw minim (cu tripan) |
 |---|---|---|---|
-| bluEvolution 92 | 0,95 | 60 mm | **de la 0,70** |
-| GreenEvolution 76 | 1,2 | 48 mm | de la 0,73 |
+| bluEvolution 92 | 0,9 | 60 mm | **de la 0,70** |
+| GreenEvolution 76 | 1,0–1,1 | 48 mm | de la 0,73 |
 
 ### Tâmplărie aluminiu Alumil
 
@@ -35719,7 +35719,7 @@ Mc 001-2022 dă ca valoare de referință Uw ≤ 1,11 W/(m²K) pentru casele noi
 
 ### Ce înseamnă Uf și Ug la ferestre?
 
-Uf este coeficientul termic al profilului (rama ferestrei), fără geam: bluEvolution 92 are Uf = 0,95 W/(m²K), cel mai bun din gama Salamander pe care o oferim. Ug este coeficientul termic al geamului: dublu argon 1,0–1,1 W/(m²K), triplu argon 0,5–0,6 W/(m²K), cam la jumătate.
+Uf este coeficientul termic al profilului (rama ferestrei), fără geam: bluEvolution 92 are Uf = 0,9 W/(m²K), cel mai bun din gama Salamander pe care o oferim. Ug este coeficientul termic al geamului: dublu argon 1,0–1,1 W/(m²K), triplu argon 0,5–0,6 W/(m²K), cam la jumătate.
 
 ### Uw 1,1 este ok pentru București?
 
@@ -35786,8 +35786,8 @@ The methodology for calculating the energy performance of buildings, **Mc 001-20
 
 | Profile | Uf (W/m²K) | Maximum glazing | Minimum Uw (triple glazing) |
 |---|---|---|---|
-| bluEvolution 92 | 0.95 | 60 mm | **from 0.70** |
-| GreenEvolution 76 | 1.2 | 48 mm | from 0.73 |
+| bluEvolution 92 | 0.9 | 60 mm | **from 0.70** |
+| GreenEvolution 76 | 1.0–1.1 | 48 mm | from 0.73 |
 
 ### Alumil aluminium joinery
 
@@ -35837,7 +35837,7 @@ Mc 001-2022 gives a reference value of Uw ≤ 1.11 W/(m²K) for new houses. For 
 
 ### What do Uf and Ug mean for windows?
 
-Uf is the thermal coefficient of the profile (the window frame), without glass: bluEvolution 92 has Uf = 0.95 W/(m²K), the best in the Salamander range we offer. Ug is the thermal coefficient of the glass: double argon 1.0–1.1 W/(m²K), triple argon 0.5–0.6 W/(m²K), roughly half.
+Uf is the thermal coefficient of the profile (the window frame), without glass: bluEvolution 92 has Uf = 0.9 W/(m²K), the best in the Salamander range we offer. Ug is the thermal coefficient of the glass: double argon 1.0–1.1 W/(m²K), triple argon 0.5–0.6 W/(m²K), roughly half.
 
 ### Is Uw 1.1 OK for Bucharest?
 
@@ -35904,8 +35904,8 @@ Die Methodik zur Berechnung der Gesamtenergieeffizienz von Gebäuden, **Mc 001-2
 
 | Profil | Uf (W/m²K) | Maximale Glasstärke | Minimaler Uw (Dreifachverglasung) |
 |---|---|---|---|
-| bluEvolution 92 | 0,95 | 60 mm | **ab 0,70** |
-| GreenEvolution 76 | 1,2 | 48 mm | ab 0,73 |
+| bluEvolution 92 | 0,9 | 60 mm | **ab 0,70** |
+| GreenEvolution 76 | 1,0–1,1 | 48 mm | ab 0,73 |
 
 ### Alumil-Aluminiumsysteme
 
@@ -35955,7 +35955,7 @@ Mc 001-2022 nennt als Referenzwert Uw ≤ 1,11 W/(m²K) für neue Häuser. Für 
 
 ### Was bedeuten Uf und Ug bei Fenstern?
 
-Uf ist der Wärmedurchgangskoeffizient des Profils (des Fensterrahmens) ohne Glas: bluEvolution 92 hat Uf = 0,95 W/(m²K), der beste Wert im Salamander-Sortiment, das wir anbieten. Ug ist der Wärmedurchgangskoeffizient des Glases: Zweifach Argon 1,0–1,1 W/(m²K), Dreifach Argon 0,5–0,6 W/(m²K), also etwa die Hälfte.
+Uf ist der Wärmedurchgangskoeffizient des Profils (des Fensterrahmens) ohne Glas: bluEvolution 92 hat Uf = 0,9 W/(m²K), der beste Wert im Salamander-Sortiment, das wir anbieten. Ug ist der Wärmedurchgangskoeffizient des Glases: Zweifach Argon 1,0–1,1 W/(m²K), Dreifach Argon 0,5–0,6 W/(m²K), also etwa die Hälfte.
 
 ### Ist Uw 1,1 für Bukarest in Ordnung?
 
@@ -36022,8 +36022,8 @@ La méthodologie de calcul de la performance énergétique des bâtiments, **Mc 
 
 | Profilé | Uf (W/m²K) | Vitrage maximal | Uw minimal (triple vitrage) |
 |---|---|---|---|
-| bluEvolution 92 | 0,95 | 60 mm | **à partir de 0,70** |
-| GreenEvolution 76 | 1,2 | 48 mm | à partir de 0,73 |
+| bluEvolution 92 | 0,9 | 60 mm | **à partir de 0,70** |
+| GreenEvolution 76 | 1,0–1,1 | 48 mm | à partir de 0,73 |
 
 ### Menuiserie aluminium Alumil
 
@@ -36073,7 +36073,7 @@ La Mc 001-2022 donne une valeur de référence de Uw ≤ 1,11 W/(m²K) pour les 
 
 ### Que signifient Uf et Ug pour les fenêtres ?
 
-Le Uf est le coefficient thermique du profilé (le cadre de la fenêtre), sans vitrage : le bluEvolution 92 a un Uf de 0,95 W/(m²K), le meilleur de la gamme Salamander que nous proposons. Le Ug est le coefficient thermique du vitrage : double argon 1,0–1,1 W/(m²K), triple argon 0,5–0,6 W/(m²K), soit environ la moitié.
+Le Uf est le coefficient thermique du profilé (le cadre de la fenêtre), sans vitrage : le bluEvolution 92 a un Uf de 0,9 W/(m²K), le meilleur de la gamme Salamander que nous proposons. Le Ug est le coefficient thermique du vitrage : double argon 1,0–1,1 W/(m²K), triple argon 0,5–0,6 W/(m²K), soit environ la moitié.
 
 ### Un Uw de 1,1 convient-il à Bucarest ?
 
@@ -36140,8 +36140,8 @@ La metodología de cálculo de la eficiencia energética de los edificios, **Mc 
 
 | Perfil | Uf (W/m²K) | Vidrio máximo | Uw mínimo (triple acristalamiento) |
 |---|---|---|---|
-| bluEvolution 92 | 0,95 | 60 mm | **desde 0,70** |
-| GreenEvolution 76 | 1,2 | 48 mm | desde 0,73 |
+| bluEvolution 92 | 0,9 | 60 mm | **desde 0,70** |
+| GreenEvolution 76 | 1,0–1,1 | 48 mm | desde 0,73 |
 
 ### Carpintería de aluminio Alumil
 
@@ -36191,7 +36191,7 @@ La Mc 001-2022 da como valor de referencia Uw ≤ 1,11 W/(m²K) para las casas n
 
 ### ¿Qué significan Uf y Ug en las ventanas?
 
-El Uf es el coeficiente térmico del perfil (el marco de la ventana), sin vidrio: bluEvolution 92 tiene Uf = 0,95 W/(m²K), el mejor de la gama Salamander que ofrecemos. El Ug es el coeficiente térmico del vidrio: doble argón 1,0–1,1 W/(m²K), triple argón 0,5–0,6 W/(m²K), más o menos la mitad.
+El Uf es el coeficiente térmico del perfil (el marco de la ventana), sin vidrio: bluEvolution 92 tiene Uf = 0,9 W/(m²K), el mejor de la gama Salamander que ofrecemos. El Ug es el coeficiente térmico del vidrio: doble argón 1,0–1,1 W/(m²K), triple argón 0,5–0,6 W/(m²K), más o menos la mitad.
 
 ### ¿Un Uw de 1,1 está bien para Bucarest?
 
@@ -36258,8 +36258,8 @@ La metodologia di calcolo della prestazione energetica degli edifici, **Mc 001-2
 
 | Profilo | Uf (W/m²K) | Vetro massimo | Uw minimo (vetro triplo) |
 |---|---|---|---|
-| bluEvolution 92 | 0,95 | 60 mm | **da 0,70** |
-| GreenEvolution 76 | 1,2 | 48 mm | da 0,73 |
+| bluEvolution 92 | 0,9 | 60 mm | **da 0,70** |
+| GreenEvolution 76 | 1,0–1,1 | 48 mm | da 0,73 |
 
 ### Serramenti in alluminio Alumil
 
@@ -36309,7 +36309,7 @@ La Mc 001-2022 indica come valore di riferimento Uw ≤ 1,11 W/(m²K) per le cas
 
 ### Che cosa significano Uf e Ug nelle finestre?
 
-L’Uf è il coefficiente termico del profilo (il telaio della finestra), senza vetro: bluEvolution 92 ha Uf = 0,95 W/(m²K), il migliore della gamma Salamander che offriamo. L’Ug è il coefficiente termico del vetro: doppio argon 1,0–1,1 W/(m²K), triplo argon 0,5–0,6 W/(m²K), circa la metà.
+L’Uf è il coefficiente termico del profilo (il telaio della finestra), senza vetro: bluEvolution 92 ha Uf = 0,9 W/(m²K), il migliore della gamma Salamander che offriamo. L’Ug è il coefficiente termico del vetro: doppio argon 1,0–1,1 W/(m²K), triplo argon 0,5–0,6 W/(m²K), circa la metà.
 
 ### Un Uw di 1,1 va bene per Bucarest?
 
@@ -37039,9 +37039,9 @@ Garniturile EPDM se uzează și se durificesc în 10–15 ani. Odată dure, nu m
 ## Reparare sau înlocuire? Calculul corect
 
 ### Când merită repararea
-- Feronerie uzată pe ferestre altfel în stare bună → înlocuiește doar feroneria (40–80 EUR/fereastră)
-- Garnituri uzate → înlocuiește garniturile (10–20 EUR/fereastră)
-- Geam spart sau cu condens → înlocuiește doar pachetul de geam (80–160 EUR)
+- Feronerie uzată pe ferestre altfel în stare bună → înlocuiește doar feroneria (circa 65–110 EUR/fereastră pentru un set complet cu montaj)
+- Garnituri uzate → înlocuiește garniturile (circa 25–55 EUR/fereastră)
+- Geam spart sau cu condens → înlocuiește doar pachetul de geam (circa 50–100 EUR)
 - Ferestre sub 15 ani cu profil intact → reparare sistematică
 
 ### Când este mai rentabilă înlocuirea completă
@@ -37088,7 +37088,7 @@ Apartament 50 m², 6 ferestre cu dublu vechi (Uw = 2,0) → înlocuire cu triplu
 Profilul PVC Salamander are o durată de viață estimată de 40–50 de ani în condiții normale. Garanția comercială acordată de Neofort BIZ este de 5 ani. Feroneria necesită înlocuire sau service după 15–20 ani.
 
 ### Se pot înlocui doar geamurile fără a schimba rama?
-Da, dacă rama/profilul sunt în stare bună. Un pachet de geam nou costă 80–160 EUR față de 230–345 EUR pentru fereastra completă. Meșterul verifică dacă fălțul ramei permite un pachet mai gros (ex: triplu în loc de dublu).
+Da, dacă rama/profilul sunt în stare bună. Un pachet de geam nou costă circa 50–100 EUR față de 230–345 EUR pentru fereastra completă. Meșterul verifică dacă fălțul ramei permite un pachet mai gros (ex: triplu în loc de dublu).
 
 ### La câți ani se schimbă garniturile la ferestre PVC?
 Garniturile EPDM se înlocuiesc la 10–15 ani. Semne că trebuie schimbate: se simt crăpate la atingere, nu mai revin la forma inițială, sau apare curent cu fereastra închisă.
@@ -37097,7 +37097,7 @@ Garniturile EPDM se înlocuiesc la 10–15 ani. Semne că trebuie schimbate: se 
 Depinde de starea profilului și performanța termică actuală. Dacă profilul e intact și Uw-ul actual e sub 1,5 W/(m²K), repararea e rentabilă. Dacă profilul e degradat sau Uw > 1,5 W/(m²K) și vrei eficiență energetică, înlocuirea completă e mai bună pe termen lung.
 
 ### Cât costă service-ul la ferestre PVC?
-Reglaj feronerie + ungere: 30–50 EUR/fereastră (sau abonament service anual). Înlocuire garnituri: 10–20 EUR/fereastră. Înlocuire feronerie completă: 80–140 EUR/fereastră.
+Orientativ, fără TVA, după listele de prețuri ale service-urilor din București în 2026: reglaj feronerie și ungere 10–20 EUR/fereastră (comanda minimă e de obicei circa 30 EUR), înlocuire garnituri 25–55 EUR/fereastră (circa 10 metri de garnitură la o fereastră de 120×140 cm), înlocuire feronerie completă 65–110 EUR/fereastră, cu montaj.
 
 ---
 
@@ -37152,9 +37152,9 @@ EPDM gaskets wear and harden within 10–15 years. Once hard they no longer seal
 ## Repair or replace? The correct calculation
 
 ### When repair is worth it
-- Worn hardware on otherwise sound windows → replace the hardware alone (40–80 EUR per window)
-- Worn gaskets → replace the gaskets (10–20 EUR per window)
-- Broken glass or condensation inside the unit → replace the glazing unit alone (80–160 EUR)
+- Worn hardware on otherwise sound windows → replace the hardware alone (about 65–110 EUR per window for a complete set, fitted)
+- Worn gaskets → replace the gaskets (about 25–55 EUR per window)
+- Broken glass or condensation inside the unit → replace the glazing unit alone (about 50–100 EUR)
 - Windows under 15 years old with an intact profile → systematic repair
 
 ### When full replacement pays better
@@ -37201,7 +37201,7 @@ A 50 m² apartment with 6 old double-glazed windows (Uw = 2.0), replaced with tr
 The Salamander PVC profile has an estimated service life of 40–50 years under normal conditions. The commercial warranty from Neofort BIZ is 5 years. The hardware needs replacing or servicing after 15–20 years.
 
 ### Can the glazing be replaced without changing the frame?
-Yes, if the frame and profile are in good condition. A new glazing unit costs 80–160 EUR against 230–345 EUR for a complete window. The installer checks whether the frame rebate allows a thicker unit, for instance triple instead of double.
+Yes, if the frame and profile are in good condition. A new glazing unit costs about 50–100 EUR against 230–345 EUR for a complete window. The installer checks whether the frame rebate allows a thicker unit, for instance triple instead of double.
 
 ### How often should gaskets be replaced on PVC windows?
 EPDM gaskets are replaced every 10–15 years. The signs: they feel cracked to the touch, they no longer spring back into shape, or a draught appears with the window closed.
@@ -37210,7 +37210,7 @@ EPDM gaskets are replaced every 10–15 years. The signs: they feel cracked to t
 It depends on the condition of the profile and the current thermal performance. If the profile is intact and the present Uw is below 1.5 W/(m²K), repair is worthwhile. If the profile has degraded or Uw exceeds 1.5 W/(m²K) and you want energy efficiency, full replacement is better in the long run.
 
 ### What does servicing PVC windows cost?
-Hardware adjustment and lubrication: 30–50 EUR per window, or an annual service contract. Gasket replacement: 10–20 EUR per window. Complete hardware replacement: 80–140 EUR per window.
+As a guide, excluding VAT, based on the 2026 price lists of Bucharest service companies: hardware adjustment and lubrication 10–20 EUR per window (the minimum order is usually about 30 EUR), gasket replacement 25–55 EUR per window (about 10 metres of gasket on a 120×140 cm window), complete hardware replacement 65–110 EUR per window, fitted.
 
 ---
 
@@ -37262,9 +37262,9 @@ EPDM-Dichtungen verschleißen und härten in 10–15 Jahren aus. Einmal hart, di
 ## Reparieren oder ersetzen? Die richtige Rechnung
 
 ### Wann sich eine Reparatur lohnt
-- Verschlissener Beschlag an ansonsten intakten Fenstern → nur den Beschlag tauschen (40–80 EUR je Fenster)
-- Verschlissene Dichtungen → Dichtungen tauschen (10–20 EUR je Fenster)
-- Gebrochenes Glas oder Kondensat im Scheibenzwischenraum → nur die Glaseinheit tauschen (80–160 EUR)
+- Verschlissener Beschlag an ansonsten intakten Fenstern → nur den Beschlag tauschen (etwa 65–110 EUR je Fenster für einen kompletten Satz mit Montage)
+- Verschlissene Dichtungen → Dichtungen tauschen (etwa 25–55 EUR je Fenster)
+- Gebrochenes Glas oder Kondensat im Scheibenzwischenraum → nur die Glaseinheit tauschen (etwa 50–100 EUR)
 - Fenster unter 15 Jahren mit intaktem Profil → systematische Reparatur
 
 ### Wann der komplette Austausch günstiger ist
@@ -37311,7 +37311,7 @@ Eine 50-m²-Wohnung mit 6 alten Zweifachfenstern (Uw = 2,0), ersetzt durch Dreif
 Das Salamander PVC-Profil hat unter normalen Bedingungen eine geschätzte Lebensdauer von 40–50 Jahren. Die kaufmännische Garantie von Neofort BIZ beträgt 5 Jahre. Der Beschlag muss nach 15–20 Jahren getauscht oder gewartet werden.
 
 ### Kann man nur die Verglasung tauschen, ohne den Rahmen?
-Ja, wenn Rahmen und Profil in gutem Zustand sind. Eine neue Glaseinheit kostet 80–160 EUR gegenüber 230–345 EUR für ein komplettes Fenster. Der Monteur prüft, ob der Glasfalz eine dickere Einheit zulässt, etwa Dreifach statt Zweifach.
+Ja, wenn Rahmen und Profil in gutem Zustand sind. Eine neue Glaseinheit kostet etwa 50–100 EUR gegenüber 230–345 EUR für ein komplettes Fenster. Der Monteur prüft, ob der Glasfalz eine dickere Einheit zulässt, etwa Dreifach statt Zweifach.
 
 ### Nach wie vielen Jahren werden die Dichtungen getauscht?
 EPDM-Dichtungen werden alle 10–15 Jahre erneuert. Anzeichen dafür: Sie fühlen sich rissig an, sie kehren nicht mehr in ihre Form zurück, oder bei geschlossenem Fenster tritt Zugluft auf.
@@ -37320,7 +37320,7 @@ EPDM-Dichtungen werden alle 10–15 Jahre erneuert. Anzeichen dafür: Sie fühle
 Das hängt vom Zustand des Profils und der aktuellen Wärmedämmung ab. Ist das Profil intakt und der derzeitige Uw unter 1,5 W/(m²K), lohnt die Reparatur. Ist das Profil geschädigt oder liegt der Uw über 1,5 W/(m²K) und Sie streben Energieeffizienz an, ist der komplette Austausch langfristig besser.
 
 ### Was kostet der Service an PVC-Fenstern?
-Beschlag einstellen und schmieren: 30–50 EUR je Fenster, oder ein jährlicher Wartungsvertrag. Dichtungen tauschen: 10–20 EUR je Fenster. Kompletter Beschlagtausch: 80–140 EUR je Fenster.
+Als Richtwert ohne MwSt., nach den Preislisten Bukarester Servicefirmen 2026: Beschlag einstellen und schmieren 10–20 EUR je Fenster (Mindestauftrag meist etwa 30 EUR), Dichtungen tauschen 25–55 EUR je Fenster (etwa 10 Meter Dichtung bei einem Fenster 120×140 cm), kompletter Beschlagtausch 65–110 EUR je Fenster, mit Montage.
 
 ---
 
@@ -37370,9 +37370,9 @@ Les joints EPDM s’usent et durcissent en 10 à 15 ans. Une fois durs, ils n’
 ## Réparer ou remplacer ? Le calcul juste
 
 ### Quand la réparation vaut le coup
-- Quincaillerie usée sur des fenêtres par ailleurs saines → remplacer la seule quincaillerie (40 à 80 EUR par fenêtre)
-- Joints usés → remplacer les joints (10 à 20 EUR par fenêtre)
-- Vitrage brisé ou avec condensation interne → remplacer la seule unité vitrée (80 à 160 EUR)
+- Quincaillerie usée sur des fenêtres par ailleurs saines → remplacer la seule quincaillerie (environ 65 à 110 EUR par fenêtre pour un jeu complet posé)
+- Joints usés → remplacer les joints (environ 25 à 55 EUR par fenêtre)
+- Vitrage brisé ou avec condensation interne → remplacer la seule unité vitrée (environ 50 à 100 EUR)
 - Fenêtres de moins de 15 ans au profilé intact → réparation systématique
 
 ### Quand le remplacement complet est plus rentable
@@ -37419,7 +37419,7 @@ Un appartement de 50 m² avec 6 anciennes fenêtres à double vitrage (Uw = 2,0)
 Le profilé PVC Salamander a une durée de vie estimée de 40 à 50 ans dans des conditions normales. La garantie commerciale accordée par Neofort BIZ est de 5 ans. La quincaillerie demande un remplacement ou un entretien après 15 à 20 ans.
 
 ### Peut-on remplacer uniquement le vitrage sans changer le dormant ?
-Oui, si le dormant et le profilé sont en bon état. Une unité vitrée neuve coûte 80 à 160 EUR contre 230 à 345 EUR pour une fenêtre complète. Le poseur vérifie si la feuillure permet une unité plus épaisse, par exemple du triple à la place du double.
+Oui, si le dormant et le profilé sont en bon état. Une unité vitrée neuve coûte environ 50 à 100 EUR contre 230 à 345 EUR pour une fenêtre complète. Le poseur vérifie si la feuillure permet une unité plus épaisse, par exemple du triple à la place du double.
 
 ### Tous les combien remplace-t-on les joints des fenêtres PVC ?
 Les joints EPDM se remplacent tous les 10 à 15 ans. Les signes : ils sont fissurés au toucher, ils ne reprennent plus leur forme, ou un courant d’air apparaît fenêtre fermée.
@@ -37428,7 +37428,7 @@ Les joints EPDM se remplacent tous les 10 à 15 ans. Les signes : ils sont fissu
 Cela dépend de l’état du profilé et de la performance thermique actuelle. Si le profilé est intact et que le Uw actuel est inférieur à 1,5 W/(m²K), la réparation est rentable. Si le profilé est dégradé ou que le Uw dépasse 1,5 W/(m²K) et que vous visez l’efficacité énergétique, le remplacement complet est préférable sur le long terme.
 
 ### Combien coûte l’entretien des fenêtres PVC ?
-Réglage de la quincaillerie et graissage : 30 à 50 EUR par fenêtre, ou un contrat d’entretien annuel. Remplacement des joints : 10 à 20 EUR par fenêtre. Remplacement complet de la quincaillerie : 80 à 140 EUR par fenêtre.
+À titre indicatif, hors TVA, d’après les tarifs 2026 des services de dépannage de Bucarest : réglage et graissage de la quincaillerie 10 à 20 EUR par fenêtre (commande minimale souvent autour de 30 EUR), remplacement des joints 25 à 55 EUR par fenêtre (environ 10 mètres de joint pour une fenêtre de 120×140 cm), remplacement complet de la quincaillerie 65 à 110 EUR par fenêtre, pose comprise.
 
 ---
 
@@ -37478,9 +37478,9 @@ Las juntas de EPDM se desgastan y endurecen en 10 a 15 años. Una vez duras, dej
 ## ¿Reparar o sustituir? El cálculo correcto
 
 ### Cuándo compensa reparar
-- Herrajería gastada en ventanas por lo demás sanas → cambiar solo la herrajería (40 a 80 EUR por ventana)
-- Juntas gastadas → cambiar las juntas (10 a 20 EUR por ventana)
-- Vidrio roto o con condensación interior → cambiar solo la unidad de vidrio (80 a 160 EUR)
+- Herrajería gastada en ventanas por lo demás sanas → cambiar solo la herrajería (unos 65 a 110 EUR por ventana por un juego completo instalado)
+- Juntas gastadas → cambiar las juntas (unos 25 a 55 EUR por ventana)
+- Vidrio roto o con condensación interior → cambiar solo la unidad de vidrio (unos 50 a 100 EUR)
 - Ventanas de menos de 15 años con el perfil intacto → reparación sistemática
 
 ### Cuándo sale mejor la sustitución completa
@@ -37527,7 +37527,7 @@ Un piso de 50 m² con 6 ventanas antiguas de doble vidrio (Uw = 2,0), sustituida
 El perfil de PVC Salamander tiene una vida útil estimada de 40 a 50 años en condiciones normales. La garantía comercial de Neofort BIZ es de 5 años. La herrajería necesita sustitución o revisión a los 15 o 20 años.
 
 ### ¿Se pueden cambiar solo los vidrios sin tocar el marco?
-Sí, si el marco y el perfil están en buen estado. Una unidad de vidrio nueva cuesta de 80 a 160 EUR frente a 230 a 345 EUR de una ventana completa. El instalador comprueba si el galce del marco admite una unidad más gruesa, por ejemplo triple en lugar de doble.
+Sí, si el marco y el perfil están en buen estado. Una unidad de vidrio nueva cuesta unos 50 a 100 EUR frente a 230 a 345 EUR de una ventana completa. El instalador comprueba si el galce del marco admite una unidad más gruesa, por ejemplo triple en lugar de doble.
 
 ### ¿Cada cuántos años se cambian las juntas de las ventanas de PVC?
 Las juntas de EPDM se sustituyen cada 10 a 15 años. Las señales: se notan agrietadas al tacto, ya no recuperan su forma, o aparece corriente con la ventana cerrada.
@@ -37536,7 +37536,7 @@ Las juntas de EPDM se sustituyen cada 10 a 15 años. Las señales: se notan agri
 Depende del estado del perfil y de las prestaciones térmicas actuales. Si el perfil está intacto y el Uw actual es inferior a 1,5 W/(m²K), reparar es rentable. Si el perfil está deteriorado o el Uw supera 1,5 W/(m²K) y busca eficiencia energética, la sustitución completa es mejor a largo plazo.
 
 ### ¿Cuánto cuesta el servicio técnico de ventanas de PVC?
-Ajuste de la herrajería y engrase: de 30 a 50 EUR por ventana, o un contrato anual de mantenimiento. Cambio de juntas: de 10 a 20 EUR por ventana. Sustitución completa de la herrajería: de 80 a 140 EUR por ventana.
+De forma orientativa, sin IVA, según las tarifas 2026 de los servicios técnicos de Bucarest: ajuste y engrase de la herrajería de 10 a 20 EUR por ventana (el pedido mínimo suele rondar los 30 EUR), cambio de juntas de 25 a 55 EUR por ventana (unos 10 metros de junta en una ventana de 120×140 cm), sustitución completa de la herrajería de 65 a 110 EUR por ventana, instalada.
 
 ---
 
@@ -37586,9 +37586,9 @@ Le guarnizioni in EPDM si usurano e induriscono in 10–15 anni. Una volta dure 
 ## Riparare o sostituire? Il calcolo corretto
 
 ### Quando conviene riparare
-- Ferramenta usurata su finestre per il resto integre → sostituire solo la ferramenta (40–80 EUR a finestra)
-- Guarnizioni usurate → sostituire le guarnizioni (10–20 EUR a finestra)
-- Vetro rotto o con condensa interna → sostituire solo la vetrocamera (80–160 EUR)
+- Ferramenta usurata su finestre per il resto integre → sostituire solo la ferramenta (circa 65–110 EUR a finestra per un set completo posato)
+- Guarnizioni usurate → sostituire le guarnizioni (circa 25–55 EUR a finestra)
+- Vetro rotto o con condensa interna → sostituire solo la vetrocamera (circa 50–100 EUR)
 - Finestre con meno di 15 anni e profilo integro → riparazione sistematica
 
 ### Quando conviene la sostituzione completa
@@ -37635,7 +37635,7 @@ Un appartamento di 50 m² con 6 vecchie finestre a doppio vetro (Uw = 2,0), sost
 Il profilo in PVC Salamander ha una durata stimata di 40–50 anni in condizioni normali. La garanzia commerciale di Neofort BIZ è di 5 anni. La ferramenta richiede sostituzione o manutenzione dopo 15–20 anni.
 
 ### Si possono sostituire solo i vetri senza cambiare il telaio?
-Sì, se telaio e profilo sono in buono stato. Una vetrocamera nuova costa 80–160 EUR contro 230–345 EUR di una finestra completa. Il posatore verifica se la battuta del telaio consente uno spessore maggiore, per esempio triplo al posto del doppio.
+Sì, se telaio e profilo sono in buono stato. Una vetrocamera nuova costa circa 50–100 EUR contro 230–345 EUR di una finestra completa. Il posatore verifica se la battuta del telaio consente uno spessore maggiore, per esempio triplo al posto del doppio.
 
 ### Ogni quanti anni si cambiano le guarnizioni?
 Le guarnizioni in EPDM si sostituiscono ogni 10–15 anni. I segnali: risultano crepate al tatto, non tornano più in forma, oppure compare corrente a finestra chiusa.
@@ -37644,7 +37644,7 @@ Le guarnizioni in EPDM si sostituiscono ogni 10–15 anni. I segnali: risultano 
 Dipende dallo stato del profilo e dalle prestazioni termiche attuali. Se il profilo è integro e l’Uw attuale è sotto 1,5 W/(m²K), la riparazione conviene. Se il profilo è degradato o l’Uw supera 1,5 W/(m²K) e puntate all’efficienza energetica, la sostituzione completa è migliore sul lungo periodo.
 
 ### Quanto costa l’assistenza sulle finestre in PVC?
-Regolazione della ferramenta e lubrificazione: 30–50 EUR a finestra, oppure un contratto annuale di manutenzione. Sostituzione delle guarnizioni: 10–20 EUR a finestra. Sostituzione completa della ferramenta: 80–140 EUR a finestra.
+Indicativamente, IVA esclusa, secondo i listini 2026 dei centri di assistenza di Bucarest: regolazione e lubrificazione della ferramenta 10–20 EUR a finestra (l’ordine minimo è di solito intorno ai 30 EUR), sostituzione delle guarnizioni 25–55 EUR a finestra (circa 10 metri di guarnizione su una finestra di 120×140 cm), sostituzione completa della ferramenta 65–110 EUR a finestra, posa compresa.
 
 ---
 
