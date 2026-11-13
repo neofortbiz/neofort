@@ -884,6 +884,7 @@ Cele 56 de articole tehnice, cu titlu și URL în română. Fiecare există în 
 - [Agent skill: Neofort BIZ windows quote](https://www.neofort-biz.ro/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md): how an AI agent finds prices, technical data and requests a quote (index: [/.well-known/agent-skills/index.json](https://www.neofort-biz.ro/.well-known/agent-skills/index.json))
 - [MCP server](https://www.neofort-biz.ro/api/mcp): public, read-only, Streamable HTTP, no authentication (protocol 2026-07-28 and 2024-11-05 to 2025-11-25) — tools `get_prices`, `get_product_specs`, `get_contact_info`
 - WebMCP tools on every page (Chrome, origin trial): `get_prices`, `get_product_specs`, `request_quote` (fills in the quote form; the user sends it)
+- Markdown version of every blog article: append `.md` to the article URL (e.g. https://www.neofort-biz.ro/en/blog/why-do-windows-whistle-when-the-wind-blows-causes-solutions.md), in all six languages
 - [RSS Feed](https://www.neofort-biz.ro/feed.xml): latest 30 blog articles with publication dates (Romanian)
 - Per-language RSS feeds, each with the translated titles, descriptions and URLs of the latest 30 articles:
   [ro](https://www.neofort-biz.ro/ro/feed.xml) · [en](https://www.neofort-biz.ro/en/feed.xml) · [de](https://www.neofort-biz.ro/de/feed.xml) · [fr](https://www.neofort-biz.ro/fr/feed.xml) · [es](https://www.neofort-biz.ro/es/feed.xml) · [it](https://www.neofort-biz.ro/it/feed.xml)

@@ -325,6 +325,20 @@ const nextConfig = {
       // destinatia identice dupa normalizare → bucla.
     ];
   },
+  // v319: versiunea Markdown a articolelor de blog, la aceeasi adresa + „.md”
+  // (conventia llmstxt.org). beforeFiles: se aplica inaintea rutei dinamice
+  // /[locale]/blog/[slug], care altfel ar primi „slug.md” ca slug. Middleware-ul
+  // de limbi nu ruleaza pe aceste adrese (contin punct — vezi matcher-ul).
+  async rewrites() {
+    return {
+      beforeFiles: [
+        {
+          source: '/:locale(ro|en|de|fr|es|it)/blog/:slug([a-z0-9-]+)\\.md',
+          destination: '/api/md/blog/:locale/:slug',
+        },
+      ],
+    };
+  },
   async headers() {
     return [
       {

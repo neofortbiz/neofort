@@ -55,6 +55,8 @@ export async function generateMetadata({ params }) {
     alternates: {
       canonical: `${BASE}/${locale}/blog/${mySlug}`,
       languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog/${a.slugs[l] || a.slugs.ro}`])), 'x-default': `${BASE}/ro/blog/${a.slugs.ro}` },
+      // v319: versiunea Markdown pentru agenti AI (<link rel="alternate" type="text/markdown">)
+      types: { 'text/markdown': `${BASE}/${locale}/blog/${mySlug}.md` },
     },
     openGraph: {
       type: 'article',
