@@ -6126,8 +6126,8 @@ Rupere de punte termică 40 mm, Uf de la 0,86 W/(m²K) la profil — echipat cu 
 
 1. **Soliciți ofertă** — prin formularul de contact, telefon sau WhatsApp
 2. **Consultanță tehnică** — discutăm proiectul, tipul de construcție, orientarea
-3. **Măsurători la fața locului** — echipa noastră vine și măsoară golurile exacte
-4. **Ofertă personalizată în 48 de ore** — cu specificații tehnice complete, transparente
+3. **Ofertă personalizată în 48 de ore** — pe baza dimensiunilor sau a schițelor tale, cu specificații tehnice complete, transparente
+4. **Contract și măsurători la fața locului** — după semnarea contractului, echipa noastră vine și măsoară golurile exacte
 5. **Producție și livrare** — 7–14 zile lucrătoare pentru profiluri standard
 6. **Montaj nZEB** — echipe proprii cu benzi precomprimate Soudal și precadre Blaugelb
 7. **Garanție 5 ani** pe produs și manoperă
@@ -6208,14 +6208,19 @@ Without all these elements together, a manufacturer cannot legitimately speak of
 
 ## Signs That a Supplier Is Serious
 
-✅ The company always comes for **on-site measurements** (does not accept orders based on client measurements)✅ Offers a **written contract** with complete technical specifications✅ Uses **pre-compressed bands** (not standard polyurethane foam) at exterior✅ Has **own certified installation teams**, not subcontractors✅ Minimum **5-year warranty** on product and 2 years on workmanship✅ Can provide **performance certificates** for the profile (IFT Rosenheim or equivalent)
+✅ The company always comes for **on-site measurements** (does not accept orders based on client measurements)
+✅ Offers a **written contract** with complete technical specifications
+✅ Uses **pre-compressed bands** (not standard polyurethane foam) at exterior
+✅ Has **own certified installation teams**, not subcontractors
+✅ Minimum **5-year warranty** on product and 2 years on workmanship
+✅ Can provide **performance certificates** for the profile (IFT Rosenheim or equivalent)
 
 ## The Ordering Process at Neofort BIZ
 
 1. **Request a quote** — via the contact form, phone or WhatsApp
 2. **Technical consultation** — we discuss the project, type of construction, orientation
-3. **On-site measurements** — our team comes and measures the exact openings
-4. **Personalised quote within 24 hours** — with complete, transparent technical specifications
+3. **Personalised quote within 48 hours** — based on your dimensions or sketches, with complete, transparent technical specifications
+4. **Contract and on-site measurements** — once the contract is signed, our team comes and measures the exact openings
 5. **Production and delivery** — 7–14 working days for standard profiles
 6. **nZEB installation** — own teams with Soudal pre-compressed tapes and Blaugelb preframes
 7. **5-year warranty** on product and workmanship
@@ -6292,14 +6297,19 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 
 ## Zeichen für einen seriösen Anbieter
 
-✅ Kommt obligatorisch für **Aufmaß vor Ort** (akzeptiert keine Bestellungen auf Basis von Kundenmaßen)✅ Bietet einen **schriftlichen Vertrag** mit vollständigen technischen Spezifikationen✅ Verwendet **vorkomprimierte Bänder** (kein Standard-PU-Schaum) außen✅ Eigene **zertifizierte Montageteams**, keine Subunternehmer✅ Mindestens **5 Jahre Garantie** auf Produkt und 2 Jahre auf Montage✅ Kann **Leistungsnachweise** für das Profil vorlegen (IFT Rosenheim oder gleichwertig)
+✅ Kommt obligatorisch für **Aufmaß vor Ort** (akzeptiert keine Bestellungen auf Basis von Kundenmaßen)
+✅ Bietet einen **schriftlichen Vertrag** mit vollständigen technischen Spezifikationen
+✅ Verwendet **vorkomprimierte Bänder** (kein Standard-PU-Schaum) außen
+✅ Eigene **zertifizierte Montageteams**, keine Subunternehmer
+✅ Mindestens **5 Jahre Garantie** auf Produkt und 2 Jahre auf Montage
+✅ Kann **Leistungsnachweise** für das Profil vorlegen (IFT Rosenheim oder gleichwertig)
 
 ## Der Bestellprozess bei Neofort BIZ
 
 1. **Angebot anfordern** — über das Kontaktformular, Telefon oder WhatsApp
 2. **Fachberatung** — wir besprechen das Projekt, Bauart, Ausrichtung
-3. **Aufmaß vor Ort** — unser Team kommt und misst die genauen Öffnungen
-4. **Individuelles Angebot in 48 Stunden** — mit vollständigen, transparenten technischen Spezifikationen
+3. **Individuelles Angebot in 48 Stunden** — auf Basis Ihrer Maße oder Skizzen, mit vollständigen, transparenten technischen Spezifikationen
+4. **Vertrag und Aufmaß vor Ort** — nach Vertragsunterzeichnung kommt unser Team und misst die genauen Öffnungen
 5. **Produktion und Lieferung** — 7–14 Werktage für Standardprofile
 6. **nZEB-Montage** — Eigenteams mit Soudal-Bändern und Blaugelb-Vorblendrahmen
 7. **5 Jahre Garantie** auf Produkt und Montage
@@ -6376,14 +6386,19 @@ Rupture thermique 40 mm, Uf à partir de 0,86 W/(m²K) au profilé — avec trip
 
 ## Signes qu'un fournisseur est sérieux
 
-✅ Vient obligatoirement pour **métrage sur place** (n'accepte pas de commandes sur la base de mesures du client)✅ Propose un **contrat écrit** avec spécifications techniques complètes✅ Utilise des **bandes précomprimées** (pas de mousse PU standard) à l'extérieur✅ Équipes de pose **propres et certifiées**, pas de sous-traitants✅ Garantie minimum **5 ans** sur produit et 2 ans sur main-d'œuvre✅ Peut fournir les **certificats de performance** du profilé (IFT Rosenheim ou équivalent)
+✅ Vient obligatoirement pour **métrage sur place** (n'accepte pas de commandes sur la base de mesures du client)
+✅ Propose un **contrat écrit** avec spécifications techniques complètes
+✅ Utilise des **bandes précomprimées** (pas de mousse PU standard) à l'extérieur
+✅ Équipes de pose **propres et certifiées**, pas de sous-traitants
+✅ Garantie minimum **5 ans** sur produit et 2 ans sur main-d'œuvre
+✅ Peut fournir les **certificats de performance** du profilé (IFT Rosenheim ou équivalent)
 
 ## Le processus de commande chez Neofort BIZ
 
 1. **Demander un devis** — via le formulaire de contact, téléphone ou WhatsApp
 2. **Consultation technique** — nous discutons du projet, type de construction, orientation
-3. **Métrage sur place** — notre équipe vient mesurer les ouvertures exactes
-4. **Devis personnalisé en 48 heures** — avec spécifications techniques complètes et transparentes
+3. **Devis personnalisé en 48 heures** — à partir de vos dimensions ou croquis, avec spécifications techniques complètes et transparentes
+4. **Contrat et métrage sur place** — après la signature du contrat, notre équipe vient mesurer les ouvertures exactes
 5. **Production et livraison** — 7 à 14 jours ouvrables pour les profilés standard
 6. **Pose nZEB** — équipes propres avec bandes Soudal et précadres Blaugelb
 7. **Garantie 5 ans** sur produit et main-d'œuvre
@@ -6456,14 +6471,19 @@ Rotura térmica 40 mm, Uf desde 0,86 W/(m²K) en el perfil — con triple acrist
 
 ## Señales de que un proveedor es serio
 
-✅ Viene obligatoriamente para **mediciones in situ** (no acepta pedidos basados en medidas del cliente)✅ Ofrece un **contrato escrito** con especificaciones técnicas completas✅ Usa **bandas precomprimidas** (no espuma de PU estándar) al exterior✅ Tiene **equipos de instalación propios y certificados**, no subcontratistas✅ Garantía mínima de **5 años** en producto y 2 años en mano de obra✅ Puede proporcionar los **certificados de rendimiento** del perfil (IFT Rosenheim o equivalente)
+✅ Viene obligatoriamente para **mediciones in situ** (no acepta pedidos basados en medidas del cliente)
+✅ Ofrece un **contrato escrito** con especificaciones técnicas completas
+✅ Usa **bandas precomprimidas** (no espuma de PU estándar) al exterior
+✅ Tiene **equipos de instalación propios y certificados**, no subcontratistas
+✅ Garantía mínima de **5 años** en producto y 2 años en mano de obra
+✅ Puede proporcionar los **certificados de rendimiento** del perfil (IFT Rosenheim o equivalente)
 
 ## El proceso de pedido en Neofort BIZ
 
 1. **Solicitar presupuesto** — a través del formulario de contacto, teléfono o WhatsApp
 2. **Consulta técnica** — discutimos el proyecto, tipo de construcción, orientación
-3. **Mediciones in situ** — nuestro equipo viene y mide las aperturas exactas
-4. **Presupuesto personalizado en 48 horas** — con especificaciones técnicas completas y transparentes
+3. **Presupuesto personalizado en 48 horas** — a partir de sus medidas o bocetos, con especificaciones técnicas completas y transparentes
+4. **Contrato y mediciones in situ** — tras la firma del contrato, nuestro equipo viene y mide las aperturas exactas
 5. **Producción y entrega** — 7–14 días hábiles para perfiles estándar
 6. **Instalación nZEB** — equipos propios con cintas Soudal y premarcos Blaugelb
 7. **Garantía de 5 años** en producto y mano de obra
@@ -6536,14 +6556,19 @@ Taglio termico 40 mm, Uf a partire da 0,86 W/(m²K) al profilo — con triplo ve
 
 ## Segnali che un fornitore è serio
 
-✅ Viene obbligatoriamente per **misurazioni in loco** (non accetta ordini basati su misure del cliente)✅ Offre un **contratto scritto** con specifiche tecniche complete✅ Usa **nastri precompressi** (non schiuma PU standard) all'esterno✅ Ha **squadre di installazione proprie e certificate**, non subappaltatori✅ Garanzia minima di **5 anni** su prodotto e 2 anni su manodopera✅ Può fornire i **certificati di prestazione** del profilo (IFT Rosenheim o equivalente)
+✅ Viene obbligatoriamente per **misurazioni in loco** (non accetta ordini basati su misure del cliente)
+✅ Offre un **contratto scritto** con specifiche tecniche complete
+✅ Usa **nastri precompressi** (non schiuma PU standard) all'esterno
+✅ Ha **squadre di installazione proprie e certificate**, non subappaltatori
+✅ Garanzia minima di **5 anni** su prodotto e 2 anni su manodopera
+✅ Può fornire i **certificati di prestazione** del profilo (IFT Rosenheim o equivalente)
 
 ## Il processo di ordinazione da Neofort BIZ
 
 1. **Richiedere un preventivo** — tramite il modulo di contatto, telefono o WhatsApp
 2. **Consulenza tecnica** — discutiamo il progetto, tipo di costruzione, orientamento
-3. **Misurazioni in loco** — il nostro team viene e misura le aperture esatte
-4. **Preventivo personalizzato in 48 ore** — con specifiche tecniche complete e trasparenti
+3. **Preventivo personalizzato in 48 ore** — sulla base delle vostre misure o dei vostri schizzi, con specifiche tecniche complete e trasparenti
+4. **Contratto e misurazioni in loco** — dopo la firma del contratto, il nostro team viene e misura le aperture esatte
 5. **Produzione e consegna** — 7–14 giorni lavorativi per profili standard
 6. **Installazione nZEB** — team propri con nastri Soudal e controtelai Blaugelb
 7. **Garanzia di 5 anni** su prodotto e manodopera
@@ -8093,7 +8118,12 @@ After installation, Roto NT or Winkhaus hardware must be **precisely adjusted** 
 
 ## How to Choose a Serious Window Installation Company in Bucharest
 
-✅ The company always comes for **on-site measurements** (does not accept orders based on dimensions provided by the client)✅ Uses **pre-compressed bands** (ask explicitly — not foam at exterior)✅ Offers a **written contract** with complete technical specifications✅ Minimum **5-year warranty** on product and workmanship✅ Own installation teams, not subcontractors✅ Blaugelb preframes or equivalent for nZEB projects
+✅ The company always comes for **on-site measurements** (does not accept orders based on dimensions provided by the client)
+✅ Uses **pre-compressed bands** (ask explicitly — not foam at exterior)
+✅ Offers a **written contract** with complete technical specifications
+✅ Minimum **5-year warranty** on product and workmanship
+✅ Own installation teams, not subcontractors
+✅ Blaugelb preframes or equivalent for nZEB projects
 
 ---
 
@@ -8174,7 +8204,12 @@ Nach der Montage müssen Roto NT oder Winkhaus Beschläge **präzise in allen 3 
 
 ## Wie wählt man ein seriöses Montagunternehmen in Bukarest?
 
-✅ Das Unternehmen kommt obligatorisch für **Aufmaß vor Ort** (akzeptiert keine Bestellungen auf Basis von Maßen des Kunden)✅ Verwendet **vorkomprimierte Bänder** (ausdrücklich fragen — kein Schaum außen)✅ Bietet einen **schriftlichen Vertrag** mit vollständigen technischen Spezifikationen✅ Mindestens **5 Jahre Garantie** auf Produkt und Montage✅ Eigene Montageteams, keine Subunternehmer✅ Blaugelb Vorblendrahmen oder gleichwertig für nZEB-Projekte
+✅ Das Unternehmen kommt obligatorisch für **Aufmaß vor Ort** (akzeptiert keine Bestellungen auf Basis von Maßen des Kunden)
+✅ Verwendet **vorkomprimierte Bänder** (ausdrücklich fragen — kein Schaum außen)
+✅ Bietet einen **schriftlichen Vertrag** mit vollständigen technischen Spezifikationen
+✅ Mindestens **5 Jahre Garantie** auf Produkt und Montage
+✅ Eigene Montageteams, keine Subunternehmer
+✅ Blaugelb Vorblendrahmen oder gleichwertig für nZEB-Projekte
 
 ---
 
@@ -8255,7 +8290,12 @@ Après la pose, la quincaillerie Roto NT ou Winkhaus doit être **réglée préc
 
 ## Comment choisir une entreprise sérieuse de pose à Bucarest ?
 
-✅ L'entreprise vient obligatoirement pour **métrage sur place** (n'accepte pas de commandes sur la base de mesures du client)✅ Utilise des **bandes précomprimées** (demander explicitement — pas de mousse à l'extérieur)✅ Propose un **contrat écrit** avec les spécifications techniques complètes✅ Garantie minimum **5 ans** sur produit et main-d'œuvre✅ Équipes de pose propres, pas de sous-traitants✅ Précadres Blaugelb ou équivalent pour les projets nZEB
+✅ L'entreprise vient obligatoirement pour **métrage sur place** (n'accepte pas de commandes sur la base de mesures du client)
+✅ Utilise des **bandes précomprimées** (demander explicitement — pas de mousse à l'extérieur)
+✅ Propose un **contrat écrit** avec les spécifications techniques complètes
+✅ Garantie minimum **5 ans** sur produit et main-d'œuvre
+✅ Équipes de pose propres, pas de sous-traitants
+✅ Précadres Blaugelb ou équivalent pour les projets nZEB
 
 ---
 
@@ -8336,7 +8376,12 @@ Tras la instalación, la herraje Roto NT o Winkhaus debe ser **ajustado con prec
 
 ## Cómo elegir una empresa seria de instalación en Bucarest
 
-✅ La empresa viene obligatoriamente para **mediciones in situ** (no acepta pedidos basados en medidas del cliente)✅ Usa **bandas precomprimidas** (preguntar explícitamente — no espuma al exterior)✅ Ofrece un **contrato escrito** con especificaciones técnicas completas✅ Garantía mínima de **5 años** en producto y mano de obra✅ Equipos propios de instalación, no subcontratistas✅ Premarcos Blaugelb o equivalente para proyectos nZEB
+✅ La empresa viene obligatoriamente para **mediciones in situ** (no acepta pedidos basados en medidas del cliente)
+✅ Usa **bandas precomprimidas** (preguntar explícitamente — no espuma al exterior)
+✅ Ofrece un **contrato escrito** con especificaciones técnicas completas
+✅ Garantía mínima de **5 años** en producto y mano de obra
+✅ Equipos propios de instalación, no subcontratistas
+✅ Premarcos Blaugelb o equivalente para proyectos nZEB
 
 ---
 
@@ -8417,7 +8462,12 @@ Dopo l'installazione, la ferramenta Roto NT o Winkhaus deve essere **regolata co
 
 ## Come scegliere un'azienda seria di installazione a Bucarest
 
-✅ L'azienda viene obbligatoriamente per **misurazioni in loco** (non accetta ordini basati su misure del cliente)✅ Usa **nastri precompressi** (chiedere esplicitamente — non schiuma all'esterno)✅ Offre un **contratto scritto** con le specifiche tecniche complete✅ Garanzia minima di **5 anni** su prodotto e manodopera✅ Squadre di installazione proprie, non subappaltatori✅ Controtelai Blaugelb o equivalente per progetti nZEB
+✅ L'azienda viene obbligatoriamente per **misurazioni in loco** (non accetta ordini basati su misure del cliente)
+✅ Usa **nastri precompressi** (chiedere esplicitamente — non schiuma all'esterno)
+✅ Offre un **contratto scritto** con le specifiche tecniche complete
+✅ Garanzia minima di **5 anni** su prodotto e manodopera
+✅ Squadre di installazione proprie, non subappaltatori
+✅ Controtelai Blaugelb o equivalente per progetti nZEB
 
 ---
 
@@ -17147,7 +17197,7 @@ Patru mărci de sisteme din aluminiu apar des în ofertele din București: **[Al
 ## Profilul fiecărei mărci
 
 ### Alumil (Grecia, 1988) — montăm la Neofort BIZ
-Unul dintre cei mai mari producători de sisteme din aluminiu din Europa de Sud-Est, cu prezență veche pe piața românească. Gama SMARTIA acoperă proiectele cu buget echilibrat, iar SUPREME S77 (barieră termică de 40 mm, Uf de la 0,86 W/m²K, RC3) este alegerea noastră pentru casele nZEB.
+Unul dintre cei mai mari producători de sisteme din aluminiu din Europa de Sud-Est, cu prezență veche pe piața românească. Gama SMARTIA acoperă proiectele cu buget echilibrat, iar SUPREME S77 (barieră termică de 40 mm, Uf de la 0,86 W/m²K, RC2/RC3) este alegerea noastră pentru casele nZEB.
 
 ### Aluprof (Polonia)
 Parte a grupului polonez Kęty, cu o gamă largă de ferestre, uși și fațade. MB-86N este sistemul de bază cu izolare bună, iar MB-104 Passive are certificare Passive House Institute, cu Uw de la 0,62 W/m²K la ferestrele care se deschid.
@@ -17319,7 +17369,7 @@ Vier Marken von Aluminiumsystemen tauchen in Bukarester Angeboten häufig auf: *
 ## Profil der einzelnen Marken
 
 ### Alumil (Griechenland, 1988) — von Neofort BIZ montiert
-Einer der größten Hersteller von Aluminiumsystemen in Südosteuropa, seit Langem auf dem rumänischen Markt präsent. Das SMARTIA-Programm deckt Projekte mit ausgewogenem Budget ab, und SUPREME S77 (40 mm thermische Trennung, Uf ab 0,86 W/m²K, RC3) ist unsere Wahl für nZEB-Häuser.
+Einer der größten Hersteller von Aluminiumsystemen in Südosteuropa, seit Langem auf dem rumänischen Markt präsent. Das SMARTIA-Programm deckt Projekte mit ausgewogenem Budget ab, und SUPREME S77 (40 mm thermische Trennung, Uf ab 0,86 W/m²K, RC2/RC3) ist unsere Wahl für nZEB-Häuser.
 
 ### Aluprof (Polen)
 Teil der polnischen Kęty-Gruppe, mit einem breiten Programm an Fenstern, Türen und Fassaden. MB-86N ist das Basissystem mit guter Dämmung, und MB-104 Passive ist vom Passivhaus Institut zertifiziert, mit Uw ab 0,62 W/m²K bei öffenbaren Fenstern.
@@ -17405,7 +17455,7 @@ Quatre marques de systèmes aluminium reviennent souvent dans les devis à Bucar
 ## Le profil de chaque marque
 
 ### Alumil (Grèce, 1988) — posé par Neofort BIZ
-L’un des plus grands fabricants de systèmes aluminium d’Europe du Sud-Est, présent depuis longtemps sur le marché roumain. La gamme SMARTIA couvre les projets au budget équilibré, et SUPREME S77 (rupture thermique de 40 mm, Uf dès 0,86 W/m²K, RC3) est notre choix pour les maisons nZEB.
+L’un des plus grands fabricants de systèmes aluminium d’Europe du Sud-Est, présent depuis longtemps sur le marché roumain. La gamme SMARTIA couvre les projets au budget équilibré, et SUPREME S77 (rupture thermique de 40 mm, Uf dès 0,86 W/m²K, RC2/RC3) est notre choix pour les maisons nZEB.
 
 ### Aluprof (Pologne)
 Membre du groupe polonais Kęty, avec une large gamme de fenêtres, de portes et de façades. MB-86N est le système de base, bien isolé, et MB-104 Passive est certifié par le Passive House Institute, avec un Uw dès 0,62 W/m²K pour les fenêtres ouvrantes.
@@ -17491,7 +17541,7 @@ Cuatro marcas de sistemas de aluminio aparecen a menudo en los presupuestos de B
 ## El perfil de cada marca
 
 ### Alumil (Grecia, 1988): la instalamos en Neofort BIZ
-Uno de los mayores fabricantes de sistemas de aluminio del sudeste de Europa, con una presencia larga en el mercado rumano. La gama SMARTIA cubre los proyectos con presupuesto equilibrado, y SUPREME S77 (rotura de puente térmico de 40 mm, Uf desde 0,86 W/m²K, RC3) es nuestra elección para las casas nZEB.
+Uno de los mayores fabricantes de sistemas de aluminio del sudeste de Europa, con una presencia larga en el mercado rumano. La gama SMARTIA cubre los proyectos con presupuesto equilibrado, y SUPREME S77 (rotura de puente térmico de 40 mm, Uf desde 0,86 W/m²K, RC2/RC3) es nuestra elección para las casas nZEB.
 
 ### Aluprof (Polonia)
 Forma parte del grupo polaco Kęty, con una amplia gama de ventanas, puertas y fachadas. MB-86N es el sistema básico, con buen aislamiento, y MB-104 Passive está certificado por el Passive House Institute, con Uw desde 0,62 W/m²K en ventanas practicables.
@@ -17577,7 +17627,7 @@ Quattro marchi di sistemi in alluminio compaiono spesso nei preventivi a Bucares
 ## Il profilo di ciascun marchio
 
 ### Alumil (Grecia, 1988): lo posiamo da Neofort BIZ
-Uno dei maggiori produttori di sistemi in alluminio dell’Europa sud-orientale, presente da tempo sul mercato rumeno. La gamma SMARTIA copre i progetti con budget equilibrato, e SUPREME S77 (taglio termico da 40 mm, Uf da 0,86 W/m²K, RC3) è la nostra scelta per le case nZEB.
+Uno dei maggiori produttori di sistemi in alluminio dell’Europa sud-orientale, presente da tempo sul mercato rumeno. La gamma SMARTIA copre i progetti con budget equilibrato, e SUPREME S77 (taglio termico da 40 mm, Uf da 0,86 W/m²K, RC2/RC3) è la nostra scelta per le case nZEB.
 
 ### Aluprof (Polonia)
 Fa parte del gruppo polacco Kęty, con un’ampia gamma di finestre, porte e facciate. MB-86N è il sistema di base, ben isolato, e MB-104 Passive è certificato dal Passive House Institute, con Uw da 0,62 W/m²K per le finestre apribili.
@@ -26056,7 +26106,7 @@ Sisteme glisante liftant, ferestre panoramice, pergole cu tâmplărie, fațade p
 
 | Tip lucrare | Estimare per mp |
 |---|---|
-| Tâmplărie aluminiu Alumil Smartia S67 | 250–400 EUR/mp |
+| Tâmplărie aluminiu Alumil Smartia S67 | 250–350 EUR/mp |
 | Tâmplărie aluminiu Reynaers CS 77 | 400–600 EUR/mp |
 | Perete cortină Reynaers CW 50 / Alumil SMARTIA M50 | 200–500 EUR/mp + TVA |
 | Perete cortină semi-structural | ofertă pe proiect, până la 500 EUR/mp + TVA |
@@ -26184,7 +26234,7 @@ Lift-and-slide systems, panoramic windows, pergolas with joinery, partial glass-
 
 | Type of work | Estimate per sqm |
 |---|---|
-| Alumil Smartia S67 aluminium joinery | 250–400 EUR/sqm |
+| Alumil Smartia S67 aluminium joinery | 250–350 EUR/sqm |
 | Reynaers CS 77 aluminium joinery | 400–600 EUR/sqm |
 | Reynaers CW 50 / Alumil SMARTIA M50 curtain wall | 200–500 EUR/sqm + VAT |
 | Semi-structural curtain wall | quoted per project, up to 500 EUR/sqm + VAT |
@@ -26310,7 +26360,7 @@ Hebe-Schiebe-Systeme, Panoramafenster, Pergolen mit Rahmenkonstruktion, teilweis
 
 | Art der Arbeit | Schätzung je m² |
 |---|---|
-| Aluminiumfenster Alumil Smartia S67 | 250–400 EUR/m² |
+| Aluminiumfenster Alumil Smartia S67 | 250–350 EUR/m² |
 | Aluminiumfenster Reynaers CS 77 | 400–600 EUR/m² |
 | Vorhangfassade Reynaers CW 50 / Alumil SMARTIA M50 | 200–500 EUR/m² zzgl. MwSt. |
 | Halbstrukturelle Vorhangfassade | Angebot je Projekt, bis 500 EUR/m² zzgl. MwSt. |
@@ -26436,7 +26486,7 @@ Systèmes levants-coulissants, baies panoramiques, pergolas avec menuiseries, fa
 
 | Type de travaux | Estimation au m² |
 |---|---|
-| Menuiserie aluminium Alumil Smartia S67 | 250–400 EUR/m² |
+| Menuiserie aluminium Alumil Smartia S67 | 250–350 EUR/m² |
 | Menuiserie aluminium Reynaers CS 77 | 400–600 EUR/m² |
 | Mur-rideau Reynaers CW 50 / Alumil SMARTIA M50 | 200–500 EUR/m² HT |
 | Mur-rideau semi-structurel | devis par projet, jusqu’à 500 EUR/m² HT |
@@ -26562,7 +26612,7 @@ Sistemas elevables-correderos, ventanales panorámicos, pérgolas con carpinter�
 
 | Tipo de obra | Estimación por m² |
 |---|---|
-| Carpintería de aluminio Alumil Smartia S67 | 250–400 EUR/m² |
+| Carpintería de aluminio Alumil Smartia S67 | 250–350 EUR/m² |
 | Carpintería de aluminio Reynaers CS 77 | 400–600 EUR/m² |
 | Muro cortina Reynaers CW 50 / Alumil SMARTIA M50 | 200–500 EUR/m² + IVA |
 | Muro cortina semiestructural | presupuesto por proyecto, hasta 500 EUR/m² + IVA |
@@ -26688,7 +26738,7 @@ Sistemi alzanti scorrevoli, vetrate panoramiche, pergole con serramenti, facciat
 
 | Tipo di lavoro | Stima al m² |
 |---|---|
-| Serramenti in alluminio Alumil Smartia S67 | 250–400 EUR/m² |
+| Serramenti in alluminio Alumil Smartia S67 | 250–350 EUR/m² |
 | Serramenti in alluminio Reynaers CS 77 | 400–600 EUR/m² |
 | Facciata continua Reynaers CW 50 / Alumil SMARTIA M50 | 200–500 EUR/m² + IVA |
 | Facciata continua semistrutturale | preventivo per progetto, fino a 500 EUR/m² + IVA |

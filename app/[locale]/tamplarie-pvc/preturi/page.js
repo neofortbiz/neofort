@@ -414,7 +414,7 @@ export default async function PreturiPvcPage({ params }) {
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
               <Link href={`/${parentSlug}`} style={{ fontSize: '.88rem', color: '#2b4834', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_main}</Link>
               <span style={{ color: '#1e1e1e' }}>·</span>
-              <Link href={`/${parentSlug}/bucuresti`} style={{ fontSize: '.88rem', color: '#2b4834', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_buc}</Link>
+              <Link href="/tamplarie-pvc/bucuresti" style={{ fontSize: '.88rem', color: '#2b4834', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_buc}</Link>
             </div>
           </div>
         </div>

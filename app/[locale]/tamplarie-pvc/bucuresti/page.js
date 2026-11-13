@@ -475,7 +475,7 @@ export default async function BucurestiPvcPage({ params }) {
             <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
               <Link href={`/${parentSlug}`} style={{ fontSize: '.88rem', color: '#2b4834', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_main}</Link>
               <span style={{ color: '#1e1e1e' }}>·</span>
-              <Link href={`/${parentSlug}/preturi`} style={{ fontSize: '.88rem', color: '#2b4834', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_prices}</Link>
+              <Link href="/tamplarie-pvc/preturi" style={{ fontSize: '.88rem', color: '#2b4834', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_prices}</Link>
             </div>
           </div>
         </div>

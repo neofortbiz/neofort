@@ -256,7 +256,7 @@ const BLOG_LINKS = {
     { slug: 'usa-culisanta-pvc-salamander-evolutiondrive-plus-plasa-plisse', label: 'Ușă Culisantă PVC Salamander evolutionDrive Plus+ cu Plasă Plissé Culisantă — Ghid complet' },
   ],
   en: [
-    { slug: 'bluevolution-92-vs-greenevolution-76-guide', label: 'Complete Guide: BluEvolution 92 vs GreenEvolution 76 — Which Salamander PVC Profile Is Right for You?' },
+    { slug: 'bluevolution-92-vs-greenevolution-76-comparison', label: 'Complete Guide: BluEvolution 92 vs GreenEvolution 76 — Which Salamander PVC Profile Is Right for You?' },
     { slug: 'tilt-turn-double-pvc-windows-salamander', label: 'Double Tilt-and-Slide PVC Windows Salamander — Complete Guide: How They Work, Insulation, Lifespan' },
     { slug: 'blaugelb-triotherm-precasing-installation-nzeb', label: 'Blaugelb Triotherm+ precasings: the window in the insulation' },
     { slug: 'salamander-evolutiondrive-plus-sliding-door-plisse-screen', label: 'Salamander evolutionDrive Plus+ Sliding PVC Door with Plissé Screen — Complete Guide' },
