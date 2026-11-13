@@ -129,7 +129,8 @@ Suprafață vitrată: 18 m² | ΔT = 20°C | Ore sezon rece: 3.500 h
 - 6 camere, 92 mm adâncime, Uf = 0,9 W/(m²K)
 - Stabilizatori Ca-Zn — REACH compliant, fără plumb
 - Uw cu tripan 44 mm + Warm Edge: **0,72 W/(m²K)**
-- Certificare: IFT Rosenheim, EN 12608 Clasa A | Garanție: 40 ani
+- Certificare: IFT Rosenheim, EN 12608 Clasa A
+- Garanție Neofort BIZ: 5–10 ani pe profil, 2 ani pe montaj
 
 **Salamander GreenEvolution 76 (soluție economică):**
 - 5 camere, 76 mm, Uf = 1,0–1,1 W/(m²K)
@@ -242,7 +243,7 @@ Ordinea corectă de priorități pentru ferestre nZEB:
 4. **Precadre** (opțional): Blaugelb Triotherm+ → elimini puntea termică la glaf
 5. **Rezultat:** Uw = 0,72 W/(m²K) — cu 35% sub valoarea de referință de 1,11
 
-Casă nZEB cu consum ≤ 100 kWh/m²/an, facturi reduse cu 40-60%, confort garantat 40+ ani.
+Casă nZEB cu consum ≤ 100 kWh/m²/an, facturi reduse cu 40-60%, confort termic pe o durată de viață de 40+ ani.
 
 Standardul european evoluează: din 2030 reperul devine ZEB, nu nZEB. Ce se schimbă la cerințele de fereastră este explicat în [ghidul despre trecerea la clădiri cu emisii zero](/ro/blog/de-la-nzeb-la-zeb-ce-schimba-epbd-pentru-ferestre).
 
@@ -325,7 +326,7 @@ According to the Mc 001-2022 methodology (MDLPA Order 16/2023):
 - Uw with 44 mm triple glazing + Warm Edge: **0.72 W/(m²K)**
 - Uw with 52 mm triple glazing + Warm Edge: **0.70 W/(m²K)**
 - Certification: IFT Rosenheim, EN 12608 Class A
-- Warranty: 40 years profile
+- Neofort BIZ warranty: 5–10 years on the profile, 2 years on installation
 
 **Salamander GreenEvolution 76 (economic solution):**
 - 5 chambers, 76 mm depth
@@ -453,7 +454,7 @@ Choosing windows for an nZEB house in Romania is not complicated if you follow t
 4. **Preframes** (optional but recommended): Blaugelb Triotherm+ → eliminate thermal bridge at sill
 5. **Verification:** Calculated Uw = 0.72 W/(m²K) → 35% below the 1.11 reference value
 
-Result: nZEB house with consumption ≤ 100 kWh/m²/year, energy bills reduced 40-60% vs standard construction, thermal comfort guaranteed for 40+ years.
+Result: nZEB house with consumption ≤ 100 kWh/m²/year, energy bills reduced 40-60% vs standard construction, thermal comfort over a service life of 40+ years.
 
 The European standard is moving on: from 2030 the benchmark becomes ZEB, not nZEB. What changes in the window requirements is set out in [the guide to zero-emission buildings](/en/blog/from-nzeb-to-zeb-what-epbd-changes-for-windows).
 
@@ -536,7 +537,7 @@ In einem Haus mit Wänden bei 20 cm Dämmung (U = 0,20 W/m²K) und Dach bei 30 c
 - Uw mit 44 mm Dreifach + Warm Edge: **0,72 W/(m²K)**
 - Uw mit 52 mm Dreifach + Warm Edge: **0,70 W/(m²K)**
 - Zertifizierung: IFT Rosenheim, EN 12608 Klasse A
-- Garantie: 40 Jahre Profil
+- Garantie von Neofort BIZ: 5–10 Jahre auf das Profil, 2 Jahre auf die Montage
 
 **Salamander GreenEvolution 76 (günstige Lösung):**
 - 5 Kammern, 76 mm, Uf = 1,0–1,1 W/(m²K)
@@ -654,7 +655,7 @@ Die richtige Prioritätsreihenfolge für nZEB-Fenster:
 4. **Vorblendrahmen** (optional aber empfohlen): Blaugelb Triotherm+
 5. **Ergebnis:** Uw = 0,72 W/(m²K) — 35% unter dem Referenzwert von 1,11
 
-Ergebnis: nZEB-Haus mit ≤ 100 kWh/m²/Jahr, Energierechnungen um 40-60% reduziert, Wärmekomfort auf 40+ Jahre garantiert.
+Ergebnis: nZEB-Haus mit ≤ 100 kWh/m²/Jahr, Energierechnungen um 40-60% reduziert, Wärmekomfort über eine Lebensdauer von 40+ Jahren.
 
 Der europäische Standard entwickelt sich weiter: Ab 2030 gilt ZEB statt nZEB als Maßstab. Was sich bei den Fensteranforderungen ändert, erklärt [der Ratgeber zu Nullemissionsgebäuden](/de/blog/von-nzeb-zu-zeb-was-die-epbd-fuer-fenster-aendert).
 
@@ -737,7 +738,7 @@ Dans une maison avec des murs isolés à 20 cm (U = 0,20 W/m²K) et un toit à 3
 - Uw avec triple 44 mm + Warm Edge : **0,72 W/(m²K)**
 - Uw avec triple 52 mm + Warm Edge : **0,70 W/(m²K)**
 - Certification : IFT Rosenheim, EN 12608 Classe A
-- Garantie : 40 ans profilé
+- Garantie Neofort BIZ : 5 à 10 ans sur le profilé, 2 ans sur la pose
 
 **Salamander GreenEvolution 76 (solution économique) :**
 - 5 chambres, 76 mm, Uf = 1,0–1,1 W/(m²K)
@@ -856,7 +857,7 @@ L'ordre de priorité correct pour les fenêtres nZEB :
 4. **Les précadres** (optionnel mais recommandé) : Blaugelb Triotherm+
 5. **Résultat :** Uw = 0,72 W/(m²K) — 35% sous la valeur de référence de 1,11
 
-Résultat : maison nZEB avec ≤ 100 kWh/m²/an, factures d'énergie réduites de 40-60%, confort thermique garanti sur 40+ ans.
+Résultat : maison nZEB avec ≤ 100 kWh/m²/an, factures d'énergie réduites de 40-60%, confort thermique sur une durée de vie de 40+ ans.
 
 La norme européenne évolue : à partir de 2030, la référence devient le ZEB et non plus le nZEB. Ce qui change pour les exigences des fenêtres est détaillé dans [le guide sur les bâtiments à émissions nulles](/fr/blog/de-nzeb-a-zeb-ce-que-change-la-epbd-pour-les-fenetres).
 
@@ -939,7 +940,7 @@ En una casa con paredes aisladas a 20 cm (U = 0,20 W/m²K) y tejado a 30 cm (U =
 - Uw con triple 44 mm + Warm Edge: **0,72 W/(m²K)**
 - Uw con triple 52 mm + Warm Edge: **0,70 W/(m²K)**
 - Certificación: IFT Rosenheim, EN 12608 Clase A
-- Garantía: 40 años perfil
+- Garantía de Neofort BIZ: 5–10 años en el perfil, 2 años en la instalación
 
 **Salamander GreenEvolution 76 (solución económica):**
 - 5 cámaras, 76 mm, Uf = 1,0–1,1 W/(m²K)
@@ -1058,7 +1059,7 @@ El orden correcto de prioridades para ventanas nZEB:
 4. **Los premarcos** (opcional pero recomendado): Blaugelb Triotherm+
 5. **Resultado:** Uw = 0,72 W/(m²K) — un 35% por debajo del valor de referencia de 1,11
 
-Resultado: casa nZEB con ≤ 100 kWh/m²/año, facturas energéticas reducidas un 40-60%, confort térmico garantizado durante 40+ años.
+Resultado: casa nZEB con ≤ 100 kWh/m²/año, facturas energéticas reducidas un 40-60%, confort térmico durante una vida útil de 40+ años.
 
 El estándar europeo evoluciona: desde 2030 la referencia pasa a ser ZEB, no nZEB. Qué cambia en los requisitos de ventana se explica en [la guía sobre edificios de cero emisiones](/es/blog/de-nzeb-a-zeb-que-cambia-la-epbd-para-las-ventanas).
 
@@ -1141,7 +1142,7 @@ In una casa con pareti isolate a 20 cm (U = 0,20 W/m²K) e tetto a 30 cm (U = 0,
 - Uw con triplo 44 mm + Warm Edge: **0,72 W/(m²K)**
 - Uw con triplo 52 mm + Warm Edge: **0,70 W/(m²K)**
 - Certificazione: IFT Rosenheim, EN 12608 Classe A
-- Garanzia: 40 anni profilo
+- Garanzia Neofort BIZ: 5–10 anni sul profilo, 2 anni sulla posa
 
 **Salamander GreenEvolution 76 (soluzione economica):**
 - 5 camere, 76 mm, Uf = 1,0–1,1 W/(m²K)
@@ -1260,7 +1261,7 @@ L'ordine corretto di priorità per le finestre nZEB:
 4. **I controtelai** (opzionale ma raccomandato): Blaugelb Triotherm+
 5. **Risultato:** Uw = 0,72 W/(m²K) — il 35% sotto il valore di riferimento di 1,11
 
-Risultato: casa nZEB con ≤ 100 kWh/m²/anno, bollette energetiche ridotte del 40-60%, comfort termico garantito per 40+ anni.
+Risultato: casa nZEB con ≤ 100 kWh/m²/anno, bollette energetiche ridotte del 40-60%, comfort termico per una durata di 40+ anni.
 
 Sulla sicurezza del PVC moderno abbiamo scritto a parte, con dati dalla letteratura tecnica: [Il mito del PVC tossico: origini, cosa dice la scienza e perché le finestre moderne sono sicure — Analisi 2026](/it/blog/mito-pvc-tossico-sicurezza-composizione-evoluzione-finestre).
 
@@ -3192,20 +3193,20 @@ Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [
       it: 'Migliori porte in alluminio nel Settore 1 Bucarest — Guida completa 2026',
     },
     metaDesc: {
-      ro: "Uși din aluminiu în Sector 1: sistemele Alumil S77 și SF85, barieră termică 40 mm, geam triplu și clasă antiefracție RC2 sau RC3. Cum alegi corect.",
-      en: "Aluminium doors in Sector 1 Bucharest: Alumil S77 and SF85 systems, 40 mm thermal break, triple glazing and RC2 or RC3 security classes.",
-      de: "Aluminiumtüren in Sektor 1 Bukarest: Alumil S77 und SF85, 40 mm Wärmedämmung, Dreifachverglasung und Widerstandsklassen RC2 oder RC3.",
-      fr: "Portes en aluminium secteur 1 Bucarest : systèmes Alumil S77 et SF85, rupture thermique 40 mm, triple vitrage et classes RC2 ou RC3.",
-      es: "Puertas de aluminio en el Sector 1 de Bucarest: sistemas Alumil S77 y SF85, rotura térmica de 40 mm, triple vidrio y clases RC2 o RC3.",
-      it: "Porte in alluminio nel Settore 1 di Bucarest: sistemi Alumil S77 e SF85, taglio termico da 40 mm, triplo vetro e classi RC2 o RC3.",
+      ro: "Uși de intrare din aluminiu în Sector 1: Alumil SD77 și SD95, Reynaers CS 77, clasă RC2 sau RC3 și preț orientativ 800–2.500 EUR/buc montat.",
+      en: "Aluminium entrance doors in Sector 1: Alumil SD77 and SD95, Reynaers CS 77, RC2 or RC3 classes and a guide price of 800–2,500 EUR per door.",
+      de: "Aluminium-Haustüren in Sektor 1: Alumil SD77 und SD95, Reynaers CS 77, RC2 oder RC3 und ein Richtpreis von 800–2.500 EUR pro Tür montiert.",
+      fr: "Portes d’entrée alu dans le Secteur 1 : Alumil SD77 et SD95, Reynaers CS 77, classes RC2 ou RC3 et prix indicatif de 800 à 2 500 EUR posée.",
+      es: "Puertas de entrada de aluminio en el Sector 1: Alumil SD77 y SD95, Reynaers CS 77, clase RC2 o RC3 y precio orientativo de 800–2.500 EUR.",
+      it: "Porte d’ingresso in alluminio nel Settore 1: Alumil SD77 e SD95, Reynaers CS 77, classe RC2 o RC3 e prezzo indicativo di 800–2.500 EUR posata.",
     },
     excerpt: {
-      ro: 'Cauți uși din aluminiu în Sector 1 București? Ghid complet 2026: sisteme Alumil, rupere de punte termică, antiefracție RC2/RC3, prețuri reale și cum alegi un furnizor serios în zona Aviatorilor, Floreasca, Dorobanți.',
-      en: 'Looking for aluminium doors in Sector 1 Bucharest? Complete guide 2026: Alumil systems, thermal break, RC2/RC3 burglar resistance, real prices and how to choose a serious supplier in Aviatorilor, Floreasca, Dorobanți area.',
-      de: 'Suchen Sie Aluminiumtüren in Sektor 1 Bukarest? Vollständiger Ratgeber 2026: Alumil-Systeme, thermische Trennung, RC2/RC3-Einbruchhemmung, reale Preise und Tipps zur Wahl eines seriösen Anbieters.',
-      fr: 'Vous cherchez des portes en aluminium dans le Secteur 1 de Bucarest ? Guide complet 2026 : systèmes Alumil, rupture de pont thermique, antieffraction RC2/RC3, prix réels et comment choisir un fournisseur sérieux.',
-      es: '¿Busca puertas de aluminio en el Sector 1 de Bucarest? Guía completa 2026: sistemas Alumil, rotura de puente térmico, antiefracción RC2/RC3, precios reales y cómo elegir un proveedor serio.',
-      it: 'Cerchi porte in alluminio nel Settore 1 di Bucarest? Guida completa 2026: sistemi Alumil, taglio termico, antieffrazione RC2/RC3, prezzi reali e come scegliere un fornitore serio.',
+      ro: 'Cauți o ușă de intrare din aluminiu în Sector 1? Ghid 2026: sistemele Alumil SD77 și SD95, Reynaers ConceptSystem 77, antiefracție RC2/RC3, preț 800–2.500 EUR/buc și cum alegi furnizorul.',
+      en: 'Looking for an aluminium entrance door in Sector 1? 2026 guide: Alumil SD77 and SD95, Reynaers ConceptSystem 77, RC2/RC3 burglar resistance, 800–2,500 EUR per door and how to choose a supplier.',
+      de: 'Sie suchen eine Aluminium-Haustür in Sektor 1? Ratgeber 2026: Alumil SD77 und SD95, Reynaers ConceptSystem 77, Einbruchhemmung RC2/RC3, 800–2.500 EUR pro Tür und die Wahl des Anbieters.',
+      fr: 'Vous cherchez une porte d’entrée en aluminium dans le Secteur 1 ? Guide 2026 : Alumil SD77 et SD95, Reynaers ConceptSystem 77, anti-effraction RC2/RC3, 800 à 2 500 EUR la pièce et le choix du fournisseur.',
+      es: '¿Busca una puerta de entrada de aluminio en el Sector 1? Guía 2026: Alumil SD77 y SD95, Reynaers ConceptSystem 77, antiefracción RC2/RC3, 800–2.500 EUR por unidad y cómo elegir proveedor.',
+      it: 'Cerchi una porta d’ingresso in alluminio nel Settore 1? Guida 2026: Alumil SD77 e SD95, Reynaers ConceptSystem 77, antieffrazione RC2/RC3, 800–2.500 EUR al pezzo e come scegliere il fornitore.',
     },
     keywords: 'usi aluminiu sector 1 Bucuresti, usi aluminiu Alumil Bucuresti, usi aluminiu termopan pret, usi aluminiu antiefractie Bucuresti, tamplarie aluminiu sector 1, usi aluminiu Aviatorilor Floreasca Dorobanti, montaj usi aluminiu Bucuresti',
     dateDisplay: {
@@ -3215,503 +3216,663 @@ Neofort BIZ fornisce Salamander (PVC) e Alumil (alluminio) a Bucarest e Ilfov. [
     content: {
       ro: `## De ce Sector 1 București are cerințe speciale pentru uși din aluminiu
 
-Sectorul 1 al Bucureștiului — zona Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Ștefan cel Mare — concentrează un număr ridicat de vile, clădiri de birouri premium și ansambluri rezidențiale noi cu standarde arhitecturale înalte. Aceasta înseamnă că cerințele pentru uși din aluminiu sunt semnificativ mai exigente decât media pieței: finisaje premium, sisteme cu rupere de punte termică, rezistență antiefracție certificată și integrare estetică perfectă cu fațada.
+Sectorul 1 al Bucureștiului — zona Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Ștefan cel Mare — concentrează multe vile, clădiri de birouri premium și ansambluri rezidențiale noi cu standarde arhitecturale înalte. De aceea, cerințele pentru o ușă de intrare din aluminiu sunt mai exigente decât media: finisaje premium, profile cu barieră termică, clasă antiefracție testată și o integrare curată în fațadă.
 
-În același timp, prețurile din Sector 1 reflectă această cerere — o ușă de aluminiu entry-level nu este acceptată vizual în zonele premium. Ghidul de față îți explică exact ce sisteme există, cum se diferențiază și ce prețuri să aștepți în 2026.
+Ghidul de față explică ce sisteme de uși de intrare folosim, cum se diferențiază și ce preț să aștepți în 2026.
 
-## Ce tipuri de uși din aluminiu există pentru Sector 1
+## Sisteme de uși de intrare din aluminiu pe care le montăm
 
-### 1. Uși de intrare rezidențiale cu panou plin și geam lateral
+O ușă de intrare nu se face din profilele de fereastră sau din sistemele armonice. Producătorii au serii dedicate: un toc și un canat mai rigide, balamale pentru canate grele și un canat în care se montează un **panou de ușă** termoizolant (plin sau cu inserții de sticlă) ori un geam.
 
-Modelul din imaginea de mai sus este reprezentativ pentru această categorie: profil aluminiu vopsit în câmp electrostatic (RAL 7016 antracit în cazul de față), panou plin termoizolant 44mm și bandă laterală vitrată. Sistemul Alumil SF85 Supreme este soluția Neofort BIZ pentru această aplicație:
+### 1. Alumil SMARTIA SD77 — ușa de intrare termoizolată
 
-- **Adâncime profil:** 85 mm
-- **Rupere de punte termică:** poliamidă 34 mm
-- **Uf profil:** 1,3 W/(m²K)
-- **Panou termoizolant:** 44 mm, cu miez de spumă PU de înaltă densitate
-- **Rezistență antiefracție:** RC2 standard (RC3 disponibil la cerere)
-- **Geam lateral:** triplu termoizolant, Ug = 0,5 W/(m²K)
+Seria de bază pentru locuințe, potrivită pentru panouri pline sau semi-vitrate:
 
-### 2. Uși de intrare cu vitrare integrală
+- **Adâncime toc:** 77 mm, cu barieră termică
+- **Uw:** de la 0,7 W/m²K, cu panou termoizolant (după configurație)
+- **Antiefracție:** RC2
+- **Etanșeitate la apă:** clasa 7A · **permeabilitate la aer:** clasa 4 · **vânt:** C4/B4
+- **Greutate canat:** până la 180 kg
+- **Variante:** ușă cu un canat sau cu două canate, cu panou termoizolant, cu geam fix lateral sau supralumină
 
-Varianta cu vitrare completă sau semi-vitrată — adesea utilizată la intrările în blocuri premium și birouri din Sector 1. Sistemul Alumil S77 Supreme oferă:
+### 2. Alumil SUPREME SD95 — ușa premium
 
-- **Adâncime:** 77 mm
-- **Rupere de punte termică:** 40 mm poliamidă
-- **Geam triplu Saint-Gobain SGG:** Ug = 0,5 W/(m²K), Low-E, argon
-- **Izolare fonică:** Rw = 38-42 dB (ideal pentru zonele circulate din Floreasca/Aviatorilor)
-- **Dimensiuni maxime canat:** 1200 × 2800 mm
+Pentru vile și intrări cu acces direct din stradă, unde contează securitatea și aspectul:
 
-### 3. Uși de acces comune pentru blocuri și ansambluri rezidențiale
+- **Adâncime toc:** 95 mm
+- **Uf:** 1,2–2,1 W/m²K, după profil
+- **Umplutură:** panou de aluminiu sau geam de 24–54 mm
+- **Antiefracție:** RC3
+- **Greutate canat:** până la 180 kg
 
-Pentru intrările în scările de bloc sau ansambluri rezidențiale din Sector 1, cerințele sunt orientate spre durabilitate, securitate și integrare cu sistemul de interfon/control acces. Alumil M19800 Smartia oferă:
+### 3. Reynaers ConceptSystem 77 — ușa cu panou (Panel Door)
 
-- Compatibilitate cu sisteme de control acces (cititor card, cod PIN, videointerfon)
-- Mecanism de închidere automată cu amortizor hidraulic
-- Rezistență antiefracție RC2 certificată
+Varianta Reynaers pentru uși de intrare cu panou decorativ:
 
-## Ce înseamnă ruperea de punte termică și de ce contează în Sector 1
+- **Ud:** 1,8 W/m²K · **Uf:** 2,8 W/m²K
+- **Înălțime canat:** până la 3.000 mm
+- **Panou:** plin, opțional cu vizor din sticlă
+- **Variantă antiefracție:** disponibilă (seria „Burglarproof”)
 
-Clădirile din Sector 1 — în special vilele construite sau renovate post-2010 — au sisteme de izolație termică performante. O ușă din aluminiu fără rupere de punte termică ar genera o punte termică vizibilă: condens pe profilul interior în sezonul rece, pierderi de căldură și posibilă degradare a finisajelor interioare premium.
+### 4. Uși de acces pentru blocuri și ansambluri
 
-Ruperea de punte termică prin inserție de poliamidă de 34 mm (standard Alumil) separă fizic profilul exterior (rece) de cel interior (cald), reducând transferul termic de la λ = 160 W/mK (aluminiu pur) la λ ≈ 0,3 W/mK (poliamidă). Rezultatul practic: nicio picătură de condens pe tocul ușii, chiar la −15°C afară.
+Pentru intrările în scări de bloc folosim aceleași serii (de regulă SMARTIA SD77 sau ConceptSystem 77), echipate pentru trafic intens: amortizor hidraulic, încuietoare electromagnetică sau yală electrică și pregătire pentru interfon, cititor de card ori cod PIN.
 
-## Antiefracție RC2 și RC3 — ce înseamnă și când e necesar
+## Ce înseamnă bariera termică și de ce contează în Sector 1
 
-**RC2 (Resistance Class 2)** — rezistă la tentative de efracție cu unelte simple (șurubelnițe, cozi de ranga) timp de 3 minute. Cerința minimă pentru locuințele din zonele rezidențiale premium.
+Vilele construite sau renovate după 2010 au, de regulă, o anvelopă bine izolată. O ușă din aluminiu fără barieră termică ar fi cea mai rece suprafață din hol: condens pe toc iarna, pierderi de căldură și pete pe finisajele interioare.
 
-**RC3** — rezistă 5 minute cu unelte specializate (electrice). Recomandat pentru vile izolate, parteruri sau intrări cu acces direct din stradă în Sector 1.
+Bariera termică este o inserție de poliamidă care separă fizic profilul exterior (rece) de cel interior (cald). Aluminiul conduce căldura cu λ ≈ 160 W/mK, poliamida cu circa 0,3 W/mK, deci transferul prin toc scade de câteva sute de ori. Panoul de ușă termoizolant completează efectul pe suprafața canatului.
 
-Diferența de preț între RC2 și RC3 este de 15-25% din valoarea ușii — nu semnificativă raportat la securitatea adăugată.
+## Antiefracție RC2 și RC3 — ce înseamnă
 
-## Prețuri uși aluminiu Sector 1 București 2026
+Clasele vin din standardul european EN 1627 și se obțin prin test pe ușa completă (toc, canat, panou, feronerie):
 
-| Tip ușă | Sistem | Preț orientativ (inclusiv montaj) |
-|---|---|---|
-| Intrare rezidențială panou plin (90×210 cm) | Alumil SF85 RC2 | 2.800–4.200 lei |
-| Intrare rezidențială semi-vitrată (100×220 cm) | Alumil S77 RC2 | 3.200–5.000 lei |
-| Intrare bloc/ansamblu cu control acces | Alumil M19800 RC2 | 4.500–7.000 lei |
-| Ușă premium cu vitrare integrală RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | 5.500–9.000 lei |
+**RC2** — rezistă cel puțin 3 minute la un spărgător ocazional cu unelte simple (șurubelniță, clește, pene). Este minimul recomandat pentru o locuință.
 
-*Prețuri orientative 2026, fără TVA. Prețul final depinde de dimensiuni exacte, culoare RAL, accesorii și tipul de mecanism.*
+**RC3** — rezistă cel puțin 5 minute, iar spărgătorul are în plus o rangă și o a doua șurubelniță. Îl recomandăm pentru vile izolate, parter sau intrări cu acces direct din stradă.
+
+Uneltele electrice apar abia la RC4, care se folosește rar la locuințe.
+
+## Prețul unei uși de intrare din aluminiu în 2026
+
+O ușă de intrare din aluminiu costă orientativ **800–2.500 EUR/buc**, cu montaj, fără TVA — același interval ca pe [pagina de prețuri pentru tâmplăria din aluminiu](/ro/tamplarie-aluminiu/preturi). Prețul final depinde de:
+
+- sistem (SD77, SD95 sau ConceptSystem 77) și dimensiunea golului;
+- tipul de panou (plin, cu inserții de sticlă) și geamul lateral sau supralumina;
+- clasa antiefracție (RC2 sau RC3) și feroneria (yală multipunct, amprentă, încuietoare electrică);
+- culoarea RAL, inclusiv bicolor, și accesoriile (mâner bară, amortizor, prag).
 
 ## Cum alegi furnizorul potrivit în Sector 1
 
-✅ Vine pentru **măsurători la fața locului** și analizează golul și structura existentă\
-✅ Oferă **mostre fizice** ale profilului și probă de culoare RAL înainte de comandă\
-✅ Are **certificate de produs** — declarație de performanță CE pentru sistemul Alumil\
-✅ Garanție **minimum 5 ani** pe produs și 2 ani pe montaj\
-✅ Execută montajul cu **benzi precomprimate** la exterior, nu doar cu silicon\
-✅ Poate livra și instala **în 10-15 zile lucrătoare** (standard pentru producție pe comandă)
+✅ Îți dă o ofertă scrisă pe baza dimensiunilor sau a schițelor, iar măsurătorile se fac după semnarea contractului
+✅ Îți arată mostre de profil și de culoare RAL înainte de comandă
+✅ Livrează ușa cu declarația de performanță CE a sistemului
+✅ Oferă garanție scrisă: 10+ ani pe profilul de aluminiu și 2 ani pe montaj (detalii pe [pagina Servicii](/ro/servicii))
+✅ Montează cu benzi precomprimate la exterior, nu doar cu spumă și silicon
+✅ Trece în contract termenul de livrare și montaj
 
-## Zone Sector 1 deservite de Neofort BIZ
+## Zone din Sector 1 deservite de Neofort BIZ
 
-Neofort BIZ livrează și montează uși din aluminiu Alumil în toată zona Sectorului 1: **Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Băneasa, Ștefan cel Mare, Titulescu, Pajura, Colentina (limita Sector 1)** și în Ilfov adiacent: Voluntari, Tunari, Pipera, Otopeni.
-
-Defalcarea pe profile și sisteme se găsește în ghidul detaliat de prețuri: [Prețuri termopane Salamander în București 2026 — ghid complet](/ro/blog/preturi-termopane-salamander-bucuresti).
-
----
-
-**Articole conexe:**
-- [Tâmplărie aluminiu Alumil — sisteme Supreme și Smartia](/ro/tamplarie-aluminiu)
-- [Sistem complet nZEB: Salamander + Blaugelb + geam triplu](/ro/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu)
-- [Prețuri ferestre Salamander București 2026](/ro/blog/preturi-ferestre-salamander-bucuresti-2026)
-
-Ne## Întrebări frecvente\n\n### Ce sistem de ușă din aluminiu e recomandat pentru o vilă în Sector 1?\nPentru vile premium din Sector 1, sistemul Alumil SF85 Supreme (adâncime 85 mm, rupere de punte termică din poliamidă 34 mm, panou termoizolant 44 mm) cu rezistență antiefracție RC2 standard este soluția recomandată de Neofort BIZ. RC3 e disponibil la cerere pentru intrări cu acces direct din stradă.\n\n### Cât costă o ușă de intrare din aluminiu montată în Sector 1 București?\nÎn 2026, o ușă de intrare rezidențială cu panou plin (Alumil SF85 RC2) costă orientativ 2.800–4.200 lei cu montaj. O ușă premium cu vitrare integrală RC3 ajunge la 5.500–9.000 lei. Prețul final depinde de dimensiuni, culoarea RAL, accesorii și tipul de mecanism.\n\n### De ce contează ruperea de punte termică la ușile din aluminiu?\nInserția de poliamidă de 34 mm separă fizic profilul exterior rece de cel interior cald, reducând transferul termic de la λ = 160 W/mK (aluminiu pur) la circa 0,3 W/mK. Rezultatul practic: nicio picătură de condens pe tocul ușii chiar și la −15°C afară, esențial în vilele bine izolate din Sector 1.\n\nofort BIZ — distribuitor autorizat Alumil în București și Ilfov. [Solicită ofertă ușă aluminiu](/ro/contact).
+Neofort BIZ livrează și montează uși din aluminiu în tot Sectorul 1: **Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Băneasa, Ștefan cel Mare, Titulescu, Pajura** și în Ilfov, în apropiere: Voluntari, Tunari, Pipera, Otopeni.
 
 ## Întrebări frecvente
 
-### Ce sistem de uși din aluminiu e recomandat pentru o vilă din Sector 1?
+### Ce sistem de ușă de intrare din aluminiu recomandați pentru o vilă în Sector 1?
 
-Pentru uși de intrare rezidențiale în Sector 1, sistemul Alumil SF85 Supreme are adâncime 85 mm, rupere de punte termică din poliamidă 34 mm, panou termoizolant 44 mm cu miez PU, antiefracție RC2 standard (RC3 la cerere) și geam lateral triplu cu Ug 0,5 W/(m²K).
+Pentru o vilă recomandăm Alumil SUPREME SD95 (toc de 95 mm, antiefracție RC3) dacă intrarea are acces direct din stradă, sau Alumil SMARTIA SD77 (toc de 77 mm, Uw de la 0,7 W/m²K cu panou termoizolant, RC2) pentru o intrare protejată. Ambele primesc panou de ușă plin sau cu sticlă.
 
-### Ce înseamnă ruperea de punte termică la o ușă de aluminiu?
+### Cât costă o ușă de intrare din aluminiu montată în Sector 1?
 
-Ruperea de punte termică e o inserție de poliamidă de 34 mm care separă fizic profilul exterior rece de cel interior cald, reducând transferul termic de la 160 W/mK (aluminiu pur) la circa 0,3 W/mK. Rezultatul: nicio picătură de condens pe toc, chiar la −15°C afară.
+Orientativ 800–2.500 EUR/buc, cu montaj, fără TVA. Prețul depinde de sistem, dimensiuni, panou, clasa antiefracție, feronerie și culoarea RAL; prețul exact îl primești în oferta scrisă.
 
-### Ce clasă antiefracție trebuie să aibă o ușă de aluminiu în Sector 1?
+### Se pot monta uși de intrare și din sistemele Reynaers?
 
-RC2 rezistă 3 minute la unelte simple (șurubelnițe, răngi) și e cerința minimă pentru zonele rezidențiale premium. RC3 rezistă 5 minute la unelte electrice și e recomandat pentru vile izolate, parteruri sau intrări cu acces direct din stradă.
+Da. Montăm și Reynaers ConceptSystem 77 în varianta Panel Door: Ud 1,8 W/m²K, canat de până la 3.000 mm înălțime, panou plin cu vizor opțional și variantă antiefracție.
 
-### Ce sistem se folosește la ușile de acces comune ale blocurilor din Sector 1?
+### De ce contează bariera termică la ușile din aluminiu?
 
-Alumil M19800 Smartia, compatibil cu sisteme de control acces (cititor card, cod PIN, videointerfon), cu mecanism de închidere automată cu amortizor hidraulic și rezistență antiefracție RC2 certificată — soluția pentru intrările în scări de bloc și ansambluri rezidențiale.
+Pentru că aluminiul conduce căldura de câteva sute de ori mai bine decât poliamida. Fără barieră termică, tocul ușii devine rece iarna și apare condens pe interior; cu barieră și panou termoizolant, ușa nu mai este punctul slab al casei.
 
+### Ce clasă antiefracție trebuie să aibă ușa de intrare?
+
+RC2 este minimul recomandat pentru o locuință: rezistă cel puțin 3 minute la unelte simple. RC3 rezistă cel puțin 5 minute și la rangă; îl recomandăm pentru vile izolate, parter sau acces direct din stradă.
+
+Dacă schimbi și ferestrele casei, vezi [prețurile ferestrelor Salamander](/ro/blog/preturi-ferestre-salamander-bucuresti-2026), [prețurile termopanelor Salamander](/ro/blog/preturi-termopane-salamander-bucuresti) și [sistemul nZEB complet](/ro/blog/sistem-complet-nzeb-salamander-bluevolution-precadre-blaugelb-geam-triplu).
 
 ---
 
-Neofort BIZ furnizează și montează uși din aluminiu Alumil în București și Ilfov, inclusiv în Sectorul 1. [Trimite-ne datele proiectului](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim. Pagini utile: [sistemul Alumil S 67 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s67-smartia) și [tâmplăria din aluminiu în București](/ro/tamplarie-aluminiu/bucuresti).
-`,
+Neofort BIZ furnizează și montează uși de intrare din aluminiu Alumil și Reynaers în București și Ilfov, inclusiv în Sectorul 1. [Trimite-ne datele proiectului](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) și [tâmplăria din aluminiu în București](/ro/tamplarie-aluminiu/bucuresti).`,
 
       en: `## Why Sector 1 Bucharest Has Special Requirements for Aluminium Doors
 
-Sector 1 of Bucharest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Ștefan cel Mare — concentrates a large number of villas, premium office buildings and new residential developments with high architectural standards. This means requirements for aluminium doors are significantly more demanding than the market average: premium finishes, thermal break systems, certified burglar resistance and perfect aesthetic integration with the facade.
+Sector 1 of Bucharest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Ștefan cel Mare — has many villas, premium office buildings and new residential developments built to high architectural standards. That makes the requirements for an aluminium entrance door stricter than average: premium finishes, profiles with a thermal break, a tested burglar-resistance class and a clean fit with the facade.
 
-## Types of Aluminium Doors Available for Sector 1
+This guide explains which entrance door systems we install, how they differ and what price to expect in 2026.
 
-### 1. Residential Entrance Doors with Solid Panel and Side Glass
+## Aluminium Entrance Door Systems We Install
 
-The Alumil SF85 Supreme system for this application:
-- **Profile depth:** 85 mm — **Thermal break:** 34 mm polyamide
-- **Profile Uf:** 1.3 W/(m²K) — **Insulating panel:** 44 mm high-density PU foam
-- **Burglar resistance:** RC2 standard (RC3 available on request)
-- **Side glazing:** triple insulating, Ug = 0.5 W/(m²K)
+An entrance door is not built from window profiles or from folding systems. Manufacturers make dedicated series: a stiffer frame and sash, hinges for heavy leaves and a sash that takes an insulated **door panel** (solid or with glass inserts) or a glazing unit.
 
-### 2. Fully Glazed Entrance Doors
+### 1. Alumil SMARTIA SD77 — the insulated entrance door
 
-Alumil S77 Supreme: 77–93 mm depth, 40 mm thermal break, Saint-Gobain SGG triple glazing (Ug = 0.5), acoustic attenuation Rw = 38-42 dB — ideal for high-traffic areas in Floreasca/Aviatorilor.
+The core series for homes, suited to solid or part-glazed panels:
 
-### 3. Common Access Doors for Residential Blocks
+- **Frame depth:** 77 mm, with a thermal break
+- **Uw:** from 0.7 W/m²K with an insulated panel (depending on configuration)
+- **Burglar resistance:** RC2
+- **Water tightness:** class 7A · **air permeability:** class 4 · **wind:** C4/B4
+- **Leaf weight:** up to 180 kg
+- **Versions:** single or double leaf, with insulated panel, side light or fanlight
 
-Alumil M19800 Smartia: compatible with access control systems (card reader, PIN, video intercom), hydraulic automatic closing mechanism, RC2 certified burglar resistance.
+### 2. Alumil SUPREME SD95 — the premium door
 
-## What Thermal Break Means and Why It Matters
+For villas and entrances opening straight onto the street, where security and appearance both matter:
 
-Buildings in Sector 1 — especially villas built or renovated post-2010 — have high-performance thermal insulation systems. An aluminium door without thermal break would create a visible thermal bridge: condensation on the inner profile in cold season. The 34 mm polyamide thermal break reduces heat transfer from λ = 160 W/mK (pure aluminium) to λ ≈ 0.3 W/mK (polyamide).
+- **Frame depth:** 95 mm
+- **Uf:** 1.2–2.1 W/m²K, depending on the profile
+- **Infill:** aluminium panel or glazing of 24–54 mm
+- **Burglar resistance:** RC3
+- **Leaf weight:** up to 180 kg
 
-## RC2 and RC3 Burglar Resistance
+### 3. Reynaers ConceptSystem 77 — the Panel Door
 
-**RC2** — resists burglary attempts with basic tools (screwdrivers, crowbars) for 3 minutes. Minimum requirement for premium residential areas.
-**RC3** — resists 5 minutes with specialised (electric) tools. Recommended for isolated villas, ground floors or street-facing entrances in Sector 1.
+Reynaers' version for entrance doors with a decorative panel:
 
-## Aluminium Door Prices Sector 1 Bucharest 2026
+- **Ud:** 1.8 W/m²K · **Uf:** 2.8 W/m²K
+- **Leaf height:** up to 3,000 mm
+- **Panel:** solid, with an optional glass vision panel
+- **Burglar-resistant version:** available ("Burglarproof" series)
 
-| Door type | System | Indicative price (incl. installation) |
-|---|---|---|
-| Residential solid panel (90×210 cm) | Alumil SF85 RC2 | €560–840 |
-| Semi-glazed residential (100×220 cm) | Alumil S77 RC2 | €640–1,000 |
-| Block/complex entry with access control | Alumil M19800 RC2 | €900–1,400 |
-| Premium fully glazed RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | €1,100–1,800 |
+### 4. Entrance Doors for Apartment Blocks and Developments
 
-*Indicative prices 2026, VAT excluded. Final price depends on exact dimensions, RAL colour, accessories and mechanism type.*
+For stairwell entrances we use the same series (usually SMARTIA SD77 or ConceptSystem 77), equipped for heavy use: a hydraulic door closer, a magnetic or electric lock and preparation for an intercom, card reader or PIN code.
 
+## What a Thermal Break Means and Why It Matters in Sector 1
+
+Villas built or renovated after 2010 usually have a well-insulated envelope. An aluminium door without a thermal break would be the coldest surface in the hall: condensation on the frame in winter, heat loss and stains on interior finishes.
+
+A thermal break is a polyamide insert that physically separates the outer (cold) profile from the inner (warm) one. Aluminium conducts heat at λ ≈ 160 W/mK, polyamide at about 0.3 W/mK, so heat flow through the frame drops by several hundred times. The insulated door panel completes the effect across the leaf.
+
+## RC2 and RC3 Burglar Resistance — What They Mean
+
+The classes come from the European standard EN 1627 and are obtained by testing the complete door (frame, leaf, panel, hardware):
+
+**RC2** — resists for at least 3 minutes an occasional burglar using simple tools (screwdriver, pliers, wedges). It is the recommended minimum for a home.
+
+**RC3** — resists for at least 5 minutes, and the burglar also has a crowbar and a second screwdriver. We recommend it for detached villas, ground floors or entrances opening straight onto the street.
+
+Power tools only appear at RC4, which is rarely used in homes.
+
+## The Price of an Aluminium Entrance Door in 2026
+
+An aluminium entrance door costs roughly **800–2,500 EUR per door**, installed, excluding VAT — the same range as on the [aluminium windows price page](/en/aluminium-windows/prices). The final price depends on:
+
+- the system (SD77, SD95 or ConceptSystem 77) and the size of the opening;
+- the panel type (solid or with glass inserts) and any side light or fanlight;
+- the burglar-resistance class (RC2 or RC3) and the hardware (multipoint lock, fingerprint reader, electric lock);
+- the RAL colour, including two-tone, and accessories (pull handle, closer, threshold).
+
+## How to Choose the Right Supplier in Sector 1
+
+✅ Gives you a written quote based on your dimensions or sketches, with measurements taken after the contract is signed
+✅ Shows you profile and RAL colour samples before you order
+✅ Delivers the door with the CE declaration of performance for the system
+✅ Gives a written warranty: 10+ years on the aluminium profile and 2 years on installation (details on the [Services page](/en/services))
+✅ Installs with pre-compressed tapes on the outside, not just foam and silicone
+✅ Puts the delivery and installation lead time in the contract
+
+## Sector 1 Areas Served by Neofort BIZ
+
+Neofort BIZ delivers and installs aluminium doors across Sector 1: **Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Băneasa, Ștefan cel Mare, Titulescu, Pajura**, and nearby in Ilfov: Voluntari, Tunari, Pipera, Otopeni.
 
 ## Frequently Asked Questions
 
-### Which aluminium door system is recommended for a villa in Bucharest Sector 1?
-For premium villas in Sector 1, Neofort BIZ recommends the Alumil SF85 Supreme system (85 mm depth, 34 mm polyamide thermal break, 44 mm insulated panel) with RC2 burglar resistance as standard. RC3 is available on request for entrances with direct street access.
+### Which aluminium entrance door system do you recommend for a villa in Sector 1?
 
-### How much does an installed aluminium entrance door cost in Sector 1 Bucharest?
-In 2026, a residential solid-panel entrance door (Alumil SF85 RC2) costs roughly 2,800–4,200 lei installed. A premium fully glazed RC3 door reaches 5,500–9,000 lei. The final price depends on dimensions, RAL colour, accessories and the locking mechanism.
+For a villa we recommend Alumil SUPREME SD95 (95 mm frame, RC3) if the entrance opens straight onto the street, or Alumil SMARTIA SD77 (77 mm frame, Uw from 0.7 W/m²K with an insulated panel, RC2) for a sheltered entrance. Both take a solid or glazed door panel.
+
+### How much does an installed aluminium entrance door cost in Sector 1?
+
+Roughly 800–2,500 EUR per door, installed, excluding VAT. The price depends on the system, size, panel, burglar-resistance class, hardware and RAL colour; you get the exact figure in the written quote.
+
+### Can you also fit entrance doors from Reynaers systems?
+
+Yes. We also install the Reynaers ConceptSystem 77 Panel Door: Ud 1.8 W/m²K, leaves up to 3,000 mm high, a solid panel with an optional vision panel and a burglar-resistant version.
 
 ### Why does the thermal break matter on aluminium doors?
-The 34 mm polyamide insert physically separates the cold outer profile from the warm inner one, cutting heat transfer from λ = 160 W/mK (pure aluminium) to about 0.3 W/mK. The practical result is no condensation on the door frame even at −15°C outside, which matters in the well-insulated villas of Sector 1.
+
+Because aluminium conducts heat several hundred times better than polyamide. Without a thermal break the door frame gets cold in winter and condensation forms on the inside; with a thermal break and an insulated panel, the door is no longer the weak point of the house.
+
+### Which burglar-resistance class should an entrance door have?
+
+RC2 is the recommended minimum for a home: it resists simple tools for at least 3 minutes. RC3 resists for at least 5 minutes, including a crowbar; we recommend it for detached villas, ground floors or direct street access.
+
+If you are replacing the windows too, see [Salamander window prices](/en/blog/salamander-window-prices-bucharest-2026), [Salamander double glazing prices](/en/blog/salamander-double-glazing-prices-bucharest) and [the complete nZEB system](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing).
 
 ---
 
-**Related articles:**
-- [Alumil Aluminium Windows — Supreme and Smartia Systems](/en/aluminium-windows)
-- [Complete nZEB System: Salamander + Blaugelb + Triple Glazing](/en/blog/complete-nzeb-system-salamander-bluevolution-blaugelb-preframes-triple-glazing)
-- [Salamander Window Prices Bucharest 2026](/en/blog/salamander-window-prices-bucharest-2026)\n- [Salamander double glazing prices in Bucharest 2026 — complete guide](/en/blog/salamander-double-glazing-prices-bucharest)
+Neofort BIZ supplies and installs Alumil and Reynaers aluminium entrance doors in Bucharest and Ilfov, including Sector 1. [Send us your project details](/en/contact) and you will receive a quote within 48 hours. See the [aluminium joinery range](/en/aluminium-windows) and [aluminium windows in Bucharest](/en/aluminium-windows/bucharest).`,
 
-Neofort BIZ — authorised Alumil distributor in Bucharest and Ilfov. [Request aluminium door quote](/en/contact).
+      de: `## Warum Sektor 1 in Bukarest besondere Anforderungen an Aluminiumtüren stellt
 
-## Frequently Asked Questions
+Sektor 1 von Bukarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Ștefan cel Mare — hat viele Villen, hochwertige Bürogebäude und neue Wohnanlagen mit hohem architektonischem Anspruch. Entsprechend höher sind die Anforderungen an eine Haustür aus Aluminium: hochwertige Oberflächen, Profile mit thermischer Trennung, eine geprüfte Widerstandsklasse und eine saubere Einbindung in die Fassade.
 
-### Which aluminium door system is recommended for a villa in Sector 1?
+Dieser Ratgeber erklärt, welche Haustürsysteme wir einbauen, worin sie sich unterscheiden und mit welchem Preis Sie 2026 rechnen können.
 
-For residential entrance doors in Sector 1, the Alumil SF85 Supreme system has 85 mm depth, a 34 mm polyamide thermal break, a 44 mm insulated panel with PU core, RC2 anti-burglary as standard (RC3 on request) and a triple side glazing with Ug 0.5 W/(m²K).
+## Aluminium-Haustürsysteme, die wir einbauen
 
-### What does a thermal break mean on an aluminium door?
+Eine Haustür entsteht nicht aus Fensterprofilen oder aus Faltsystemen. Die Hersteller haben eigene Serien: steiferer Rahmen und Flügel, Bänder für schwere Flügel und ein Flügel, der eine gedämmte **Türfüllung** (geschlossen oder mit Glaseinsätzen) oder eine Verglasung aufnimmt.
 
-A thermal break is a 34 mm polyamide insert that physically separates the cold outer profile from the warm inner one, cutting heat transfer from 160 W/mK (pure aluminium) to about 0.3 W/mK. The result: no condensation on the frame, even at −15°C outside.
+### 1. Alumil SMARTIA SD77 — die gedämmte Haustür
 
-### Which anti-burglary class should an aluminium door have in Sector 1?
+Die Basisserie für Wohnhäuser, geeignet für geschlossene oder teilverglaste Füllungen:
 
-RC2 resists 3 minutes against simple tools (screwdrivers, crowbars) and is the minimum for premium residential areas. RC3 resists 5 minutes against power tools and is recommended for detached villas, ground floors or entrances with direct street access.
+- **Rahmenbautiefe:** 77 mm, mit thermischer Trennung
+- **Uw:** ab 0,7 W/m²K mit gedämmter Füllung (je nach Konfiguration)
+- **Einbruchhemmung:** RC2
+- **Schlagregendichtheit:** Klasse 7A · **Luftdurchlässigkeit:** Klasse 4 · **Wind:** C4/B4
+- **Flügelgewicht:** bis 180 kg
+- **Ausführungen:** ein- oder zweiflügelig, mit gedämmter Füllung, Seitenteil oder Oberlicht
 
-### Which system is used for the common entrance doors of buildings in Sector 1?
+### 2. Alumil SUPREME SD95 — die Premium-Tür
 
-Alumil M19800 Smartia, compatible with access-control systems (card reader, PIN code, video intercom), with an automatic closing mechanism and hydraulic damper and certified RC2 anti-burglary resistance — the solution for stairwell and residential-complex entrances.
+Für Villen und Eingänge direkt zur Straße, bei denen Sicherheit und Optik gleich wichtig sind:
 
----
+- **Rahmenbautiefe:** 95 mm
+- **Uf:** 1,2–2,1 W/m²K, je nach Profil
+- **Füllung:** Aluminiumpaneel oder Verglasung von 24–54 mm
+- **Einbruchhemmung:** RC3
+- **Flügelgewicht:** bis 180 kg
 
-Neofort BIZ supplies and installs Alumil aluminium doors in Bucharest and Ilfov, including Sector 1. [Send us your project details](/en/contact) and you will receive a quote within 48 hours. See the [aluminium joinery range](/en/aluminium-windows) we offer. Useful pages: [the Alumil S 67 SMARTIA system](/en/products-alu/alumil-s67-smartia-aluminium-system) and [aluminium windows in Bucharest](/en/aluminium-windows/bucharest).
-`,
+### 3. Reynaers ConceptSystem 77 — die Panel Door
 
-      de: `## Warum Sektor 1 Bukarest besondere Anforderungen an Aluminiumtüren stellt
+Die Reynaers-Variante für Haustüren mit dekorativer Füllung:
 
-Sektor 1 Bukarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău — konzentriert zahlreiche Villen, Premium-Bürogebäude und neue Wohnanlagen mit hohen Architekturstandards. Anforderungen an Aluminiumtüren sind deutlich höher als der Marktdurchschnitt: Premium-Oberflächen, thermisch getrennte Systeme, zertifizierter Einbruchschutz und perfekte ästhetische Integration.
+- **Ud:** 1,8 W/m²K · **Uf:** 2,8 W/m²K
+- **Flügelhöhe:** bis 3.000 mm
+- **Füllung:** geschlossen, optional mit Glasausschnitt
+- **Einbruchhemmende Ausführung:** verfügbar (Serie „Burglarproof“)
 
-## Arten von Aluminiumtüren für Sektor 1
+### 4. Eingangstüren für Wohnblöcke und Wohnanlagen
 
-### 1. Wohnhauseingangstüren mit Vollpanel und Seitenverglasung
-Alumil SF85 Supreme: 85 mm Tiefe, 34 mm thermische Trennung aus Polyamid, Uf = 1,3 W/(m²K), 44 mm PU-Dämmplatte, RC2 Einbruchhemmung, Dreifachverglasung Ug = 0,5 W/(m²K).
+Für Treppenhauseingänge verwenden wir dieselben Serien (meist SMARTIA SD77 oder ConceptSystem 77), ausgestattet für starke Nutzung: hydraulischer Türschließer, Magnet- oder Elektroschloss und Vorbereitung für Gegensprechanlage, Kartenleser oder PIN-Code.
 
-### 2. Vollverglaste Eingangstüren
-Alumil S77 Supreme: 77–93 mm, 40 mm thermische Trennung, Saint-Gobain SGG Dreifachverglasung, Schallschutz Rw = 38-42 dB.
+## Was die thermische Trennung bedeutet und warum sie in Sektor 1 zählt
 
-### 3. Gemeinschaftszugangstüren für Wohnanlagen
-Alumil M19800 Smartia: kompatibel mit Zugangskontrollsystemen, hydraulischem Türschließer, RC2-zertifiziert.
+Nach 2010 gebaute oder sanierte Villen haben in der Regel eine gut gedämmte Gebäudehülle. Eine Aluminiumtür ohne thermische Trennung wäre die kälteste Fläche im Flur: Kondensat am Rahmen im Winter, Wärmeverluste und Flecken auf den Innenoberflächen.
 
-## Was thermische Trennung bedeutet und warum sie wichtig ist
+Die thermische Trennung ist ein Polyamideinsatz, der das äußere (kalte) Profil physisch vom inneren (warmen) trennt. Aluminium leitet Wärme mit λ ≈ 160 W/mK, Polyamid mit etwa 0,3 W/mK — der Wärmestrom durch den Rahmen sinkt also um ein Mehrhundertfaches. Die gedämmte Türfüllung ergänzt den Effekt auf der Flügelfläche.
 
-Gebäude in Sektor 1 mit hochwertiger Wärmedämmung benötigen Türen mit thermischer Trennung, um Kondensat am Innenrahmen zu vermeiden. Die 34-mm-Polyamid-Einlage reduziert den Wärmedurchgang von λ = 160 W/mK (Aluminium) auf λ ≈ 0,3 W/mK (Polyamid).
+## Einbruchhemmung RC2 und RC3 — was sie bedeuten
 
-## RC2 und RC3 Einbruchhemmung
+Die Klassen stammen aus der europäischen Norm EN 1627 und werden am kompletten Türelement geprüft (Rahmen, Flügel, Füllung, Beschläge):
 
-**RC2:** Widersteht 3 Minuten gegen einfache Werkzeuge — Mindestanforderung für Premium-Wohngebiete. **RC3:** 5 Minuten gegen spezialisierte Werkzeuge — empfohlen für freistehende Villen und Erdgeschosse in Sektor 1.
+**RC2** — widersteht mindestens 3 Minuten einem Gelegenheitstäter mit einfachem Werkzeug (Schraubendreher, Zange, Keile). Das ist das empfohlene Minimum für ein Wohnhaus.
 
-## Preise Aluminiumtüren Sektor 1 Bukarest 2026
+**RC3** — widersteht mindestens 5 Minuten; der Täter hat zusätzlich ein Brecheisen und einen zweiten Schraubendreher. Wir empfehlen es für freistehende Villen, Erdgeschosse oder Eingänge direkt zur Straße.
 
-| Türtyp | System | Richtpreis (inkl. Montage) |
-|---|---|---|
-| Wohnhaus Vollpanel (90×210 cm) | Alumil SF85 RC2 | 560–840 € |
-| Halb verglast (100×220 cm) | Alumil S77 RC2 | 640–1.000 € |
-| Wohnanlage mit Zugangskontrolle | Alumil M19800 RC2 | 900–1.400 € |
-| Premium vollverglast RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | 1.100–1.800 € |
+Elektrowerkzeuge kommen erst bei RC4 hinzu, das bei Wohnhäusern selten eingesetzt wird.
 
+## Preis einer Aluminium-Haustür 2026
+
+Eine Haustür aus Aluminium kostet als Richtwert **800–2.500 EUR pro Stück**, mit Montage, ohne MwSt. — derselbe Bereich wie auf der [Preisseite für Aluminiumfenster](/de/aluminiumfenster/preise). Der Endpreis hängt ab von:
+
+- dem System (SD77, SD95 oder ConceptSystem 77) und der Größe der Öffnung;
+- der Füllung (geschlossen oder mit Glaseinsätzen) sowie Seitenteil oder Oberlicht;
+- der Widerstandsklasse (RC2 oder RC3) und den Beschlägen (Mehrfachverriegelung, Fingerabdruckleser, Elektroschloss);
+- der RAL-Farbe, auch zweifarbig, und dem Zubehör (Stoßgriff, Türschließer, Schwelle).
+
+## So wählen Sie den richtigen Anbieter in Sektor 1
+
+✅ Erstellt ein schriftliches Angebot auf Basis Ihrer Maße oder Skizzen; das Aufmaß erfolgt nach Vertragsunterzeichnung
+✅ Zeigt Ihnen vor der Bestellung Profil- und RAL-Farbmuster
+✅ Liefert die Tür mit der CE-Leistungserklärung des Systems
+✅ Gibt eine schriftliche Garantie: 10+ Jahre auf das Aluminiumprofil und 2 Jahre auf die Montage (Details auf der [Seite Leistungen](/de/dienstleistungen))
+✅ Montiert außen mit vorkomprimierten Dichtbändern, nicht nur mit Schaum und Silikon
+✅ Schreibt die Liefer- und Montagefrist in den Vertrag
+
+## Von Neofort BIZ bediente Gebiete in Sektor 1
+
+Neofort BIZ liefert und montiert Aluminiumtüren in ganz Sektor 1: **Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Băneasa, Ștefan cel Mare, Titulescu, Pajura** sowie im nahen Ilfov: Voluntari, Tunari, Pipera, Otopeni.
 
 ## Häufig gestellte Fragen
 
-### Welches Aluminium-Türsystem wird für eine Villa im Bukarester Sektor 1 empfohlen?
-Für Premium-Villen im Sektor 1 empfiehlt Neofort BIZ das System Alumil SF85 Supreme (85 mm Bautiefe, 34 mm Polyamid-Wärmedämmsteg, 44 mm Dämmpaneel) mit serienmäßiger Einbruchhemmung RC2. RC3 ist auf Anfrage für Eingänge mit direktem Straßenzugang erhältlich.
+### Welches Aluminium-Haustürsystem empfehlen Sie für eine Villa in Sektor 1?
 
-### Was kostet eine montierte Aluminium-Eingangstür im Sektor 1 Bukarest?
-2026 kostet eine Wohnungs-Eingangstür mit Vollpaneel (Alumil SF85 RC2) etwa 2.800–4.200 Lei inklusive Montage. Eine vollverglaste Premium-Tür RC3 erreicht 5.500–9.000 Lei. Der Endpreis hängt von Maßen, RAL-Farbe, Zubehör und Schließmechanismus ab.
+Für eine Villa empfehlen wir Alumil SUPREME SD95 (95-mm-Rahmen, RC3), wenn der Eingang direkt zur Straße liegt, oder Alumil SMARTIA SD77 (77-mm-Rahmen, Uw ab 0,7 W/m²K mit gedämmter Füllung, RC2) für einen geschützten Eingang. Beide nehmen eine geschlossene oder verglaste Türfüllung auf.
 
-### Warum ist der Wärmedämmsteg bei Aluminiumtüren wichtig?
-Der 34-mm-Polyamideinsatz trennt das kalte Außenprofil physisch vom warmen Innenprofil und senkt die Wärmeübertragung von λ = 160 W/mK (reines Aluminium) auf etwa 0,3 W/mK. Das Ergebnis: kein Kondenswasser am Türrahmen selbst bei −15°C, wichtig in den gut gedämmten Villen des Sektors 1.
+### Was kostet eine montierte Aluminium-Haustür in Sektor 1?
 
----
+Als Richtwert 800–2.500 EUR pro Stück, mit Montage, ohne MwSt. Der Preis hängt von System, Größe, Füllung, Widerstandsklasse, Beschlägen und RAL-Farbe ab; den genauen Betrag erhalten Sie im schriftlichen Angebot.
 
-**Verwandte Artikel:**
-- [Alumil Aluminiumfenster — Supreme und Smartia Systeme](/de/aluminiumfenster)
-- [Komplettes nZEB-System: Salamander + Blaugelb + Dreifachverglasung](/de/blog/komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung)
-- [Salamander-Fensterpreise Bukarest 2026](/de/blog/salamander-fenster-preise-bukarest-2026)\n- [Salamander Isolierglas-Preise in Bukarest 2026 — vollständiger Leitfaden](/de/blog/salamander-isolierglas-preise-bukarest)
+### Bauen Sie auch Haustüren aus Reynaers-Systemen ein?
 
-Neofort BIZ — autorisierter Alumil-Händler in Bukarest und Ilfov. [Angebot Aluminiumtür anfordern](/de/kontakt).
+Ja. Wir montieren auch die Reynaers ConceptSystem 77 Panel Door: Ud 1,8 W/m²K, Flügel bis 3.000 mm Höhe, geschlossene Füllung mit optionalem Glasausschnitt und eine einbruchhemmende Ausführung.
 
-## Häufig gestellte Fragen
+### Warum ist die thermische Trennung bei Aluminiumtüren wichtig?
 
-### Welches Aluminiumtürsystem wird für eine Villa in Sektor 1 empfohlen?
+Weil Aluminium Wärme mehrere hundert Mal besser leitet als Polyamid. Ohne thermische Trennung wird der Türrahmen im Winter kalt und innen bildet sich Kondensat; mit Trennung und gedämmter Füllung ist die Tür nicht mehr die Schwachstelle des Hauses.
 
-Für Wohnungseingangstüren in Sektor 1 hat das System Alumil SF85 Supreme 85 mm Bautiefe, eine 34-mm-Polyamid-Trennung, ein 44-mm-Dämmpaneel mit PU-Kern, RC2-Einbruchschutz serienmäßig (RC3 auf Anfrage) und eine dreifache Seitenverglasung mit Ug 0,5 W/(m²K).
+### Welche Widerstandsklasse sollte eine Haustür haben?
 
-### Was bedeutet die thermische Trennung bei einer Aluminiumtür?
+RC2 ist das empfohlene Minimum für ein Wohnhaus: Es widersteht einfachem Werkzeug mindestens 3 Minuten. RC3 widersteht mindestens 5 Minuten, auch einem Brecheisen; wir empfehlen es für freistehende Villen, Erdgeschosse oder Eingänge direkt zur Straße.
 
-Die thermische Trennung ist ein 34-mm-Polyamid-Einsatz, der das kalte äußere Profil physisch vom warmen inneren trennt und die Wärmeübertragung von 160 W/mK (reines Aluminium) auf etwa 0,3 W/mK senkt. Ergebnis: kein Kondensat am Rahmen, selbst bei −15°C draußen.
-
-### Welche Einbruchschutzklasse sollte eine Aluminiumtür in Sektor 1 haben?
-
-RC2 widersteht 3 Minuten gegen einfache Werkzeuge (Schraubendreher, Brecheisen) und ist das Minimum für Premium-Wohngebiete. RC3 widersteht 5 Minuten gegen Elektrowerkzeuge und wird für freistehende Villen, Erdgeschosse oder Eingänge mit direktem Straßenzugang empfohlen.
-
-### Welches System wird für die gemeinsamen Eingangstüren der Gebäude in Sektor 1 verwendet?
-
-Alumil M19800 Smartia, kompatibel mit Zutrittskontrollsystemen (Kartenleser, PIN-Code, Video-Gegensprechanlage), mit automatischem Schließmechanismus und Hydraulikdämpfer und zertifiziertem RC2-Einbruchschutz — die Lösung für Treppenhaus- und Wohnanlageneingänge.
+Wenn Sie auch die Fenster tauschen, lesen Sie [Salamander-Fensterpreise](/de/blog/salamander-fenster-preise-bukarest-2026), [Salamander-Isolierglaspreise](/de/blog/salamander-isolierglas-preise-bukarest) und [das komplette nZEB-System](/de/blog/komplettes-nzeb-system-salamander-bluevolution-blaugelb-vorblendrahmen-dreifachverglasung).
 
 ---
 
-Neofort BIZ liefert und montiert Alumil Aluminiumtüren in Bukarest und Ilfov, auch im Sektor 1. [Senden Sie uns Ihre Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [Aluminium-Sortiment](/de/aluminiumfenster). Nützliche Seiten: [Alumil S 67 SMARTIA Aluminiumfenster](/de/produkte-alu/alumil-s67-smartia-aluminiumsystem) und [Aluminiumfenster in Bukarest](/de/aluminiumfenster/bukarest).
-`,
+Neofort BIZ liefert und montiert Aluminium-Haustüren von Alumil und Reynaers in Bukarest und Ilfov, auch in Sektor 1. [Senden Sie uns Ihre Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [Sortiment an Aluminiumfenstern](/de/aluminiumfenster) und [Aluminiumfenster in Bukarest](/de/aluminiumfenster/bukarest).`,
 
       fr: `## Pourquoi le Secteur 1 de Bucarest a des exigences particulières pour les portes en aluminium
 
-Le Secteur 1 de Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău — concentre de nombreuses villas, immeubles de bureaux premium et nouvelles résidences aux standards architecturaux élevés. Les exigences pour les portes en aluminium dépassent largement la moyenne du marché : finitions premium, systèmes à rupture de pont thermique, résistance antieffraction certifiée et intégration esthétique parfaite avec la façade.
+Le Secteur 1 de Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Ștefan cel Mare — compte de nombreuses villas, des immeubles de bureaux haut de gamme et des résidences neuves aux standards architecturaux élevés. Les exigences pour une porte d’entrée en aluminium y sont donc plus strictes que la moyenne : finitions haut de gamme, profilés à rupture de pont thermique, classe anti-effraction testée et intégration soignée à la façade.
 
-## Types de portes en aluminium pour le Secteur 1
+Ce guide présente les systèmes de portes d’entrée que nous posons, leurs différences et le prix à prévoir en 2026.
 
-### 1. Portes d'entrée résidentielles avec panneau plein et vitrage latéral
-Alumil SF85 Supreme : profondeur 85 mm, rupture thermique polyamide 34 mm, Uf = 1,3 W/(m²K), panneau isolant 44 mm en mousse PU haute densité, antieffraction RC2 standard, triple vitrage Ug = 0,5 W/(m²K).
+## Les systèmes de portes d’entrée en aluminium que nous posons
 
-### 2. Portes d'entrée entièrement vitrées
-Alumil S77 Supreme : 77–93 mm, rupture thermique 40 mm, triple vitrage Saint-Gobain SGG, isolation acoustique Rw = 38-42 dB.
+Une porte d’entrée ne se fabrique pas avec des profilés de fenêtre ni avec des systèmes pliants. Les fabricants proposent des séries dédiées : dormant et ouvrant plus rigides, paumelles pour vantaux lourds et un ouvrant qui reçoit un **panneau de porte** isolant (plein ou avec inserts vitrés) ou un vitrage.
 
-### 3. Portes d'accès communes pour résidences
-Alumil M19800 Smartia : compatible contrôle d'accès, ferme-porte hydraulique automatique, RC2 certifié.
+### 1. Alumil SMARTIA SD77 — la porte d’entrée isolée
 
-## Ce que signifie la rupture de pont thermique
+La série de base pour les logements, adaptée aux panneaux pleins ou semi-vitrés :
 
-Les bâtiments du Secteur 1 avec isolation performante nécessitent des portes à rupture de pont thermique pour éviter la condensation sur le profil intérieur. L'insert polyamide 34 mm réduit le transfert thermique de λ = 160 W/mK (aluminium pur) à λ ≈ 0,3 W/mK.
+- **Profondeur du dormant :** 77 mm, à rupture de pont thermique
+- **Uw :** à partir de 0,7 W/m²K avec panneau isolant (selon la configuration)
+- **Anti-effraction :** RC2
+- **Étanchéité à l’eau :** classe 7A · **perméabilité à l’air :** classe 4 · **vent :** C4/B4
+- **Poids du vantail :** jusqu’à 180 kg
+- **Versions :** un ou deux vantaux, avec panneau isolant, fixe latéral ou imposte
 
-## RC2 et RC3 — antieffraction
+### 2. Alumil SUPREME SD95 — la porte haut de gamme
 
-**RC2 :** résiste 3 minutes aux outils basiques — exigence minimale pour les zones résidentielles premium. **RC3 :** 5 minutes avec outils spécialisés — recommandé pour les villas isolées et rez-de-chaussée sur rue dans le Secteur 1.
+Pour les villas et les entrées donnant directement sur la rue, où sécurité et esthétique comptent autant :
 
-## Prix portes aluminium Secteur 1 Bucarest 2026
+- **Profondeur du dormant :** 95 mm
+- **Uf :** 1,2–2,1 W/m²K selon le profilé
+- **Remplissage :** panneau aluminium ou vitrage de 24 à 54 mm
+- **Anti-effraction :** RC3
+- **Poids du vantail :** jusqu’à 180 kg
 
-| Type de porte | Système | Prix indicatif (pose incluse) |
-|---|---|---|
-| Résidentielle panneau plein (90×210 cm) | Alumil SF85 RC2 | 560–840 € |
-| Semi-vitrée (100×220 cm) | Alumil S77 RC2 | 640–1 000 € |
-| Résidence avec contrôle d'accès | Alumil M19800 RC2 | 900–1 400 € |
-| Premium entièrement vitrée RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | 1 100–1 800 € |
+### 3. Reynaers ConceptSystem 77 — la porte à panneau (Panel Door)
 
+La version Reynaers pour les portes d’entrée à panneau décoratif :
+
+- **Ud :** 1,8 W/m²K · **Uf :** 2,8 W/m²K
+- **Hauteur du vantail :** jusqu’à 3 000 mm
+- **Panneau :** plein, avec oculus vitré en option
+- **Version anti-effraction :** disponible (série « Burglarproof »)
+
+### 4. Portes d’accès pour immeubles et résidences
+
+Pour les entrées de cages d’escalier, nous utilisons les mêmes séries (en général SMARTIA SD77 ou ConceptSystem 77), équipées pour un usage intensif : ferme-porte hydraulique, serrure électromagnétique ou gâche électrique et préparation pour interphone, lecteur de badge ou code PIN.
+
+## Ce que signifie la rupture de pont thermique et pourquoi elle compte dans le Secteur 1
+
+Les villas construites ou rénovées après 2010 ont en général une enveloppe bien isolée. Une porte en aluminium sans rupture de pont thermique serait la surface la plus froide du hall : condensation sur le dormant en hiver, pertes de chaleur et taches sur les finitions intérieures.
+
+La rupture de pont thermique est un insert en polyamide qui sépare physiquement le profilé extérieur (froid) du profilé intérieur (chaud). L’aluminium conduit la chaleur avec λ ≈ 160 W/mK, le polyamide avec environ 0,3 W/mK : le flux de chaleur à travers le dormant baisse donc de plusieurs centaines de fois. Le panneau de porte isolant complète l’effet sur la surface du vantail.
+
+## Anti-effraction RC2 et RC3 — ce que cela signifie
+
+Les classes viennent de la norme européenne EN 1627 et s’obtiennent par essai sur la porte complète (dormant, vantail, panneau, quincaillerie) :
+
+**RC2** — résiste au moins 3 minutes à un cambrioleur occasionnel muni d’outils simples (tournevis, pince, cales). C’est le minimum recommandé pour un logement.
+
+**RC3** — résiste au moins 5 minutes, le cambrioleur disposant en plus d’un pied-de-biche et d’un second tournevis. Nous le recommandons pour les villas isolées, les rez-de-chaussée ou les entrées donnant directement sur la rue.
+
+Les outils électriques n’apparaissent qu’à partir de RC4, rarement utilisé dans l’habitat.
+
+## Le prix d’une porte d’entrée en aluminium en 2026
+
+Une porte d’entrée en aluminium coûte à titre indicatif **800 à 2 500 EUR la pièce**, pose comprise, hors TVA — la même fourchette que sur la [page des prix de la menuiserie aluminium](/fr/menuiserie-aluminium/prix). Le prix final dépend :
+
+- du système (SD77, SD95 ou ConceptSystem 77) et de la taille de la baie ;
+- du type de panneau (plein ou avec inserts vitrés) et d’un éventuel fixe latéral ou imposte ;
+- de la classe anti-effraction (RC2 ou RC3) et de la quincaillerie (serrure multipoint, lecteur d’empreinte, serrure électrique) ;
+- de la couleur RAL, y compris bicolore, et des accessoires (poignée bâton, ferme-porte, seuil).
+
+## Comment choisir le bon fournisseur dans le Secteur 1
+
+✅ Vous remet un devis écrit à partir de vos dimensions ou croquis ; le métrage se fait après la signature du contrat
+✅ Vous montre des échantillons de profilé et de couleur RAL avant la commande
+✅ Livre la porte avec la déclaration de performance CE du système
+✅ Donne une garantie écrite : plus de 10 ans sur le profilé aluminium et 2 ans sur la pose (détails sur la [page Services](/fr/services))
+✅ Pose avec des bandes précomprimées à l’extérieur, pas seulement de la mousse et du silicone
+✅ Inscrit dans le contrat le délai de livraison et de pose
+
+## Quartiers du Secteur 1 desservis par Neofort BIZ
+
+Neofort BIZ livre et pose des portes en aluminium dans tout le Secteur 1 : **Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Băneasa, Ștefan cel Mare, Titulescu, Pajura**, et à proximité dans l’Ilfov : Voluntari, Tunari, Pipera, Otopeni.
 
 ## Questions fréquentes
 
-### Quel système de porte en aluminium est recommandé pour une villa dans le Secteur 1 de Bucarest ?
-Pour les villas haut de gamme du Secteur 1, Neofort BIZ recommande le système Alumil SF85 Supreme (profondeur 85 mm, rupture de pont thermique en polyamide 34 mm, panneau isolant 44 mm) avec résistance anti-effraction RC2 de série. Le RC3 est disponible sur demande pour les entrées avec accès direct sur rue.
+### Quel système de porte d’entrée en aluminium recommandez-vous pour une villa du Secteur 1 ?
 
-### Combien coûte une porte d'entrée en aluminium posée dans le Secteur 1 de Bucarest ?
-En 2026, une porte d'entrée résidentielle à panneau plein (Alumil SF85 RC2) coûte environ 2 800–4 200 lei posée. Une porte premium entièrement vitrée RC3 atteint 5 500–9 000 lei. Le prix final dépend des dimensions, de la couleur RAL, des accessoires et du mécanisme de verrouillage.
+Pour une villa, nous recommandons Alumil SUPREME SD95 (dormant de 95 mm, RC3) si l’entrée donne directement sur la rue, ou Alumil SMARTIA SD77 (dormant de 77 mm, Uw à partir de 0,7 W/m²K avec panneau isolant, RC2) pour une entrée abritée. Les deux reçoivent un panneau de porte plein ou vitré.
 
-### Pourquoi la rupture de pont thermique est-elle importante sur les portes en aluminium ?
-L'insert en polyamide de 34 mm sépare physiquement le profilé extérieur froid de l'intérieur chaud, réduisant le transfert thermique de λ = 160 W/mK (aluminium pur) à environ 0,3 W/mK. Résultat : aucune condensation sur le dormant même à −15°C dehors, essentiel dans les villas bien isolées du Secteur 1.
+### Combien coûte une porte d’entrée en aluminium posée dans le Secteur 1 ?
 
----
+À titre indicatif 800 à 2 500 EUR la pièce, pose comprise, hors TVA. Le prix dépend du système, des dimensions, du panneau, de la classe anti-effraction, de la quincaillerie et de la couleur RAL ; le montant exact figure dans le devis écrit.
 
-**Articles connexes :**
-- [Menuiserie aluminium Alumil — systèmes Supreme et Smartia](/fr/menuiserie-aluminium)
-- [Système nZEB complet : Salamander + Blaugelb + triple vitrage](/fr/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage)
-- [Prix fenêtres Salamander Bucarest 2026](/fr/blog/prix-fenetres-salamander-bucarest-2026)\n- [Prix du double vitrage Salamander à Bucarest 2026 — guide complet](/fr/blog/prix-double-vitrage-salamander-bucarest)
+### Posez-vous aussi des portes d’entrée en système Reynaers ?
 
-Neofort BIZ — distributeur agréé Alumil à Bucarest et Ilfov. [Demander un devis porte aluminium](/fr/contact).
+Oui. Nous posons aussi la Reynaers ConceptSystem 77 Panel Door : Ud 1,8 W/m²K, vantaux jusqu’à 3 000 mm de haut, panneau plein avec oculus en option et version anti-effraction.
 
-## Questions fréquentes
+### Pourquoi la rupture de pont thermique compte-t-elle sur les portes en aluminium ?
 
-### Quel système de portes en aluminium est recommandé pour une villa du Secteur 1 ?
+Parce que l’aluminium conduit la chaleur plusieurs centaines de fois mieux que le polyamide. Sans rupture de pont thermique, le dormant devient froid en hiver et de la condensation se forme à l’intérieur ; avec la rupture et un panneau isolant, la porte n’est plus le point faible de la maison.
 
-Pour les portes d'entrée résidentielles du Secteur 1, le système Alumil SF85 Supreme a 85 mm de profondeur, une rupture de pont thermique en polyamide de 34 mm, un panneau isolant de 44 mm à âme PU, l'anti-effraction RC2 de série (RC3 sur demande) et un vitrage latéral triple avec Ug 0,5 W/(m²K).
+### Quelle classe anti-effraction une porte d’entrée doit-elle avoir ?
 
-### Que signifie la rupture de pont thermique sur une porte aluminium ?
+RC2 est le minimum recommandé pour un logement : elle résiste au moins 3 minutes aux outils simples. RC3 résiste au moins 5 minutes, y compris au pied-de-biche ; nous la recommandons pour les villas isolées, les rez-de-chaussée ou un accès direct depuis la rue.
 
-La rupture de pont thermique est un insert en polyamide de 34 mm qui sépare physiquement le profilé extérieur froid de l'intérieur chaud, réduisant le transfert thermique de 160 W/mK (aluminium pur) à environ 0,3 W/mK. Résultat : aucune condensation sur le dormant, même à −15°C dehors.
-
-### Quelle classe anti-effraction une porte aluminium doit-elle avoir dans le Secteur 1 ?
-
-RC2 résiste 3 minutes aux outils simples (tournevis, pieds-de-biche) et constitue le minimum pour les zones résidentielles premium. RC3 résiste 5 minutes aux outils électriques et est recommandé pour les villas isolées, rez-de-chaussée ou entrées avec accès direct sur rue.
-
-### Quel système est utilisé pour les portes d'accès communes des immeubles du Secteur 1 ?
-
-Alumil M19800 Smartia, compatible avec les systèmes de contrôle d'accès (lecteur de carte, code PIN, visiophone), avec mécanisme de fermeture automatique et amortisseur hydraulique et résistance anti-effraction RC2 certifiée — la solution pour les entrées de cages d'escalier et d'ensembles résidentiels.
+Si vous changez aussi les fenêtres, consultez [les prix des fenêtres Salamander](/fr/blog/prix-fenetres-salamander-bucarest-2026), [les prix du double vitrage Salamander](/fr/blog/prix-double-vitrage-salamander-bucarest) et [le système nZEB complet](/fr/blog/systeme-complet-nzeb-salamander-bluevolution-precadres-blaugelb-triple-vitrage).
 
 ---
 
-Neofort BIZ fournit et pose des portes en aluminium Alumil à Bucarest et dans l’Ilfov, secteur 1 compris. [Transmettez-nous les données du projet](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme de menuiseries aluminium](/fr/menuiserie-aluminium). Pages utiles : [le système Alumil S 67 SMARTIA](/fr/produits-alu/systeme-aluminium-alumil-s67-smartia) et [la menuiserie aluminium à Bucarest](/fr/menuiserie-aluminium/bucarest).
-`,
+Neofort BIZ fournit et pose des portes d’entrée en aluminium Alumil et Reynaers à Bucarest et dans l’Ilfov, y compris dans le Secteur 1. [Envoyez-nous les données de votre projet](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme de menuiserie aluminium](/fr/menuiserie-aluminium) et [la menuiserie aluminium à Bucarest](/fr/menuiserie-aluminium/bucarest).`,
 
-      es: `## Por qué el Sector 1 de Bucarest tiene requisitos especiales para puertas de aluminio
+      es: `## Por qué el Sector 1 de Bucarest tiene requisitos especiales para las puertas de aluminio
 
-El Sector 1 de Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău — concentra numerosas villas, edificios de oficinas premium y nuevas urbanizaciones con altos estándares arquitectónicos. Los requisitos para puertas de aluminio superan ampliamente la media del mercado: acabados premium, sistemas de rotura de puente térmico, resistencia antiefracción certificada e integración estética perfecta con la fachada.
+El Sector 1 de Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Ștefan cel Mare — concentra muchas villas, edificios de oficinas de gama alta y nuevos conjuntos residenciales con estándares arquitectónicos elevados. Por eso, los requisitos para una puerta de entrada de aluminio son más exigentes que la media: acabados premium, perfiles con rotura de puente térmico, una clase antiefracción ensayada y una integración limpia en la fachada.
 
-## Tipos de puertas de aluminio para el Sector 1
+Esta guía explica qué sistemas de puertas de entrada instalamos, en qué se diferencian y qué precio esperar en 2026.
 
-### 1. Puertas de entrada residenciales con panel macizo y acristalamiento lateral
-Alumil SF85 Supreme: profundidad 85 mm, rotura térmica poliamida 34 mm, Uf = 1,3 W/(m²K), panel aislante 44 mm de espuma PU alta densidad, antiefracción RC2 estándar, triple acristalamiento Ug = 0,5 W/(m²K).
+## Sistemas de puertas de entrada de aluminio que instalamos
 
-### 2. Puertas de entrada totalmente acristaladas
-Alumil S77 Supreme: 77–93 mm, rotura térmica 40 mm, triple acristalamiento Saint-Gobain SGG, aislamiento acústico Rw = 38-42 dB.
+Una puerta de entrada no se fabrica con perfiles de ventana ni con sistemas plegables. Los fabricantes tienen series propias: marco y hoja más rígidos, bisagras para hojas pesadas y una hoja que recibe un **panel de puerta** aislante (ciego o con insertos de vidrio) o un acristalamiento.
 
-### 3. Puertas de acceso comunes para urbanizaciones
-Alumil M19800 Smartia: compatible con control de acceso, cierre automático hidráulico, RC2 certificado.
+### 1. Alumil SMARTIA SD77 — la puerta de entrada aislada
 
-## Qué significa la rotura de puente térmico
+La serie básica para viviendas, adecuada para paneles ciegos o semiacristalados:
 
-Los edificios del Sector 1 con aislamiento de alto rendimiento necesitan puertas con rotura de puente térmico para evitar condensación en el perfil interior. El inserto de poliamida 34 mm reduce la transmisión térmica de λ = 160 W/mK (aluminio puro) a λ ≈ 0,3 W/mK.
+- **Profundidad del marco:** 77 mm, con rotura de puente térmico
+- **Uw:** desde 0,7 W/m²K con panel aislante (según la configuración)
+- **Antiefracción:** RC2
+- **Estanqueidad al agua:** clase 7A · **permeabilidad al aire:** clase 4 · **viento:** C4/B4
+- **Peso de la hoja:** hasta 180 kg
+- **Versiones:** una o dos hojas, con panel aislante, fijo lateral o montante superior
 
-## RC2 y RC3 — antiefracción
+### 2. Alumil SUPREME SD95 — la puerta premium
 
-**RC2:** resiste 3 minutos con herramientas básicas — requisito mínimo para zonas residenciales premium. **RC3:** 5 minutos con herramientas especializadas — recomendado para villas aisladas y plantas bajas en el Sector 1.
+Para villas y entradas con acceso directo desde la calle, donde importan tanto la seguridad como el aspecto:
 
-## Precios puertas aluminio Sector 1 Bucarest 2026
+- **Profundidad del marco:** 95 mm
+- **Uf:** 1,2–2,1 W/m²K, según el perfil
+- **Relleno:** panel de aluminio o vidrio de 24–54 mm
+- **Antiefracción:** RC3
+- **Peso de la hoja:** hasta 180 kg
 
-| Tipo de puerta | Sistema | Precio orientativo (instalación incluida) |
-|---|---|---|
-| Residencial panel macizo (90×210 cm) | Alumil SF85 RC2 | 560–840 € |
-| Semi-acristalada (100×220 cm) | Alumil S77 RC2 | 640–1.000 € |
-| Urbanización con control de acceso | Alumil M19800 RC2 | 900–1.400 € |
-| Premium totalmente acristalada RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | 1.100–1.800 € |
+### 3. Reynaers ConceptSystem 77 — la puerta con panel (Panel Door)
 
+La versión de Reynaers para puertas de entrada con panel decorativo:
+
+- **Ud:** 1,8 W/m²K · **Uf:** 2,8 W/m²K
+- **Altura de la hoja:** hasta 3.000 mm
+- **Panel:** ciego, con mirilla de vidrio opcional
+- **Versión antiefracción:** disponible (serie «Burglarproof»)
+
+### 4. Puertas de acceso para bloques y conjuntos residenciales
+
+Para las entradas de portal usamos las mismas series (normalmente SMARTIA SD77 o ConceptSystem 77), equipadas para uso intensivo: cierrapuertas hidráulico, cerradura electromagnética o eléctrica y preinstalación para portero automático, lector de tarjetas o código PIN.
+
+## Qué significa la rotura de puente térmico y por qué importa en el Sector 1
+
+Las villas construidas o reformadas después de 2010 suelen tener una envolvente bien aislada. Una puerta de aluminio sin rotura de puente térmico sería la superficie más fría del recibidor: condensación en el marco en invierno, pérdidas de calor y manchas en los acabados interiores.
+
+La rotura de puente térmico es un inserto de poliamida que separa físicamente el perfil exterior (frío) del interior (cálido). El aluminio conduce el calor con λ ≈ 160 W/mK, la poliamida con unos 0,3 W/mK, así que el flujo de calor por el marco baja varios cientos de veces. El panel de puerta aislante completa el efecto en la superficie de la hoja.
+
+## Antiefracción RC2 y RC3: qué significan
+
+Las clases proceden de la norma europea EN 1627 y se obtienen ensayando la puerta completa (marco, hoja, panel, herrajes):
+
+**RC2** — resiste al menos 3 minutos a un ladrón ocasional con herramientas simples (destornillador, alicates, cuñas). Es el mínimo recomendado para una vivienda.
+
+**RC3** — resiste al menos 5 minutos, y el ladrón dispone además de una palanca y un segundo destornillador. Lo recomendamos para villas aisladas, plantas bajas o entradas con acceso directo desde la calle.
+
+Las herramientas eléctricas solo aparecen a partir de RC4, que rara vez se usa en viviendas.
+
+## El precio de una puerta de entrada de aluminio en 2026
+
+Una puerta de entrada de aluminio cuesta de forma orientativa **800–2.500 EUR por unidad**, con instalación y sin IVA, el mismo rango que en la [página de precios de la carpintería de aluminio](/es/carpinteria-aluminio/precios). El precio final depende de:
+
+- el sistema (SD77, SD95 o ConceptSystem 77) y el tamaño del hueco;
+- el tipo de panel (ciego o con insertos de vidrio) y un posible fijo lateral o montante;
+- la clase antiefracción (RC2 o RC3) y los herrajes (cerradura multipunto, lector de huella, cerradura eléctrica);
+- el color RAL, también bicolor, y los accesorios (tirador, cierrapuertas, umbral).
+
+## Cómo elegir el proveedor adecuado en el Sector 1
+
+✅ Le entrega un presupuesto escrito a partir de sus medidas o bocetos; la medición se hace tras la firma del contrato
+✅ Le muestra muestras de perfil y de color RAL antes del pedido
+✅ Entrega la puerta con la declaración de prestaciones CE del sistema
+✅ Ofrece una garantía escrita: más de 10 años en el perfil de aluminio y 2 años en la instalación (detalles en la [página de Servicios](/es/servicios))
+✅ Instala con cintas precomprimidas en el exterior, no solo con espuma y silicona
+✅ Fija en el contrato el plazo de entrega e instalación
+
+## Zonas del Sector 1 que atiende Neofort BIZ
+
+Neofort BIZ entrega e instala puertas de aluminio en todo el Sector 1: **Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Băneasa, Ștefan cel Mare, Titulescu, Pajura**, y en el Ilfov cercano: Voluntari, Tunari, Pipera, Otopeni.
 
 ## Preguntas frecuentes
 
-### ¿Qué sistema de puerta de aluminio se recomienda para una villa en el Sector 1 de Bucarest?
-Para villas premium del Sector 1, Neofort BIZ recomienda el sistema Alumil SF85 Supreme (85 mm de profundidad, rotura de puente térmico de poliamida 34 mm, panel aislante 44 mm) con resistencia antirrobo RC2 de serie. El RC3 está disponible bajo pedido para entradas con acceso directo desde la calle.
+### ¿Qué sistema de puerta de entrada de aluminio recomiendan para una villa en el Sector 1?
 
-### ¿Cuánto cuesta una puerta de entrada de aluminio instalada en el Sector 1 de Bucarest?
-En 2026, una puerta de entrada residencial de panel macizo (Alumil SF85 RC2) cuesta orientativamente 2.800–4.200 lei instalada. Una puerta premium totalmente acristalada RC3 alcanza 5.500–9.000 lei. El precio final depende de dimensiones, color RAL, accesorios y mecanismo de cierre.
+Para una villa recomendamos Alumil SUPREME SD95 (marco de 95 mm, RC3) si la entrada da directamente a la calle, o Alumil SMARTIA SD77 (marco de 77 mm, Uw desde 0,7 W/m²K con panel aislante, RC2) para una entrada protegida. Ambas admiten un panel de puerta ciego o acristalado.
+
+### ¿Cuánto cuesta una puerta de entrada de aluminio instalada en el Sector 1?
+
+De forma orientativa 800–2.500 EUR por unidad, con instalación y sin IVA. El precio depende del sistema, las dimensiones, el panel, la clase antiefracción, los herrajes y el color RAL; el importe exacto figura en el presupuesto escrito.
+
+### ¿Instalan también puertas de entrada con sistemas Reynaers?
+
+Sí. También instalamos la Reynaers ConceptSystem 77 Panel Door: Ud 1,8 W/m²K, hojas de hasta 3.000 mm de altura, panel ciego con mirilla opcional y versión antiefracción.
 
 ### ¿Por qué importa la rotura de puente térmico en las puertas de aluminio?
-El inserto de poliamida de 34 mm separa físicamente el perfil exterior frío del interior cálido, reduciendo la transferencia térmica de λ = 160 W/mK (aluminio puro) a unos 0,3 W/mK. El resultado: ninguna condensación en el marco incluso a −15°C, clave en las villas bien aisladas del Sector 1.
+
+Porque el aluminio conduce el calor varios cientos de veces mejor que la poliamida. Sin rotura de puente térmico, el marco se enfría en invierno y aparece condensación en el interior; con rotura y panel aislante, la puerta deja de ser el punto débil de la casa.
+
+### ¿Qué clase antiefracción debe tener una puerta de entrada?
+
+RC2 es el mínimo recomendado para una vivienda: resiste al menos 3 minutos con herramientas simples. RC3 resiste al menos 5 minutos, también con palanca; lo recomendamos para villas aisladas, plantas bajas o acceso directo desde la calle.
+
+Si también cambia las ventanas, consulte [los precios de ventanas Salamander](/es/blog/precios-ventanas-salamander-bucarest-2026), [los precios del doble acristalamiento Salamander](/es/blog/precios-doble-acristalamiento-salamander-bucarest) y [el sistema nZEB completo](/es/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento).
 
 ---
 
-**Artículos relacionados:**
-- [Carpintería aluminio Alumil — sistemas Supreme y Smartia](/es/carpinteria-aluminio)
-- [Sistema nZEB completo: Salamander + Blaugelb + triple acristalamiento](/es/blog/sistema-completo-nzeb-salamander-bluevolution-precuadros-blaugelb-triple-acristalamiento)
-- [Precios ventanas Salamander Bucarest 2026](/es/blog/precios-ventanas-salamander-bucarest-2026)\n- [Precios del doble acristalamiento Salamander en Bucarest 2026 — guía completa](/es/blog/precios-doble-acristalamiento-salamander-bucarest)
+Neofort BIZ suministra e instala puertas de entrada de aluminio Alumil y Reynaers en Bucarest e Ilfov, también en el Sector 1. [Envíenos los datos del proyecto](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería de aluminio](/es/carpinteria-aluminio) y [la carpintería de aluminio en Bucarest](/es/carpinteria-aluminio/bucarest).`,
 
-Neofort BIZ — distribuidor autorizado Alumil en Bucarest e Ilfov. [Solicitar presupuesto puerta aluminio](/es/contacto).
+      it: `## Perché il Settore 1 di Bucarest ha requisiti particolari per le porte in alluminio
 
-## Preguntas frecuentes
+Il Settore 1 di Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Ștefan cel Mare — concentra molte ville, edifici per uffici di pregio e nuovi complessi residenziali con standard architettonici elevati. Per questo i requisiti per una porta d’ingresso in alluminio sono più severi della media: finiture di pregio, profili a taglio termico, una classe antieffrazione certificata da prova e un inserimento pulito in facciata.
 
-### ¿Qué sistema de puertas de aluminio se recomienda para una villa en el Sector 1?
+Questa guida spiega quali sistemi di porte d’ingresso installiamo, come si differenziano e quale prezzo aspettarsi nel 2026.
 
-Para puertas de entrada residenciales en el Sector 1, el sistema Alumil SF85 Supreme tiene 85 mm de profundidad, rotura de puente térmico de poliamida de 34 mm, panel aislante de 44 mm con núcleo PU, antirrobo RC2 de serie (RC3 bajo pedido) y un acristalamiento lateral triple con Ug 0,5 W/(m²K).
+## I sistemi di porte d’ingresso in alluminio che installiamo
 
-### ¿Qué significa la rotura de puente térmico en una puerta de aluminio?
+Una porta d’ingresso non si costruisce con profili da finestra né con sistemi pieghevoli. I produttori hanno serie dedicate: telaio e anta più rigidi, cerniere per ante pesanti e un’anta che accoglie un **pannello porta** isolante (cieco o con inserti in vetro) oppure un vetro.
 
-La rotura de puente térmico es un inserto de poliamida de 34 mm que separa físicamente el perfil exterior frío del interior cálido, reduciendo la transferencia térmica de 160 W/mK (aluminio puro) a unos 0,3 W/mK. El resultado: ninguna condensación en el marco, incluso a −15°C fuera.
+### 1. Alumil SMARTIA SD77 — la porta d’ingresso isolata
 
-### ¿Qué clase antirrobo debe tener una puerta de aluminio en el Sector 1?
+La serie di base per le abitazioni, adatta a pannelli ciechi o semivetrati:
 
-RC2 resiste 3 minutos a herramientas simples (destornilladores, palanquetas) y es el mínimo para zonas residenciales premium. RC3 resiste 5 minutos a herramientas eléctricas y se recomienda para villas aisladas, plantas bajas o entradas con acceso directo desde la calle.
+- **Profondità del telaio:** 77 mm, a taglio termico
+- **Uw:** da 0,7 W/m²K con pannello isolante (secondo la configurazione)
+- **Antieffrazione:** RC2
+- **Tenuta all’acqua:** classe 7A · **permeabilità all’aria:** classe 4 · **vento:** C4/B4
+- **Peso dell’anta:** fino a 180 kg
+- **Versioni:** a una o due ante, con pannello isolante, fisso laterale o sopraluce
 
-### ¿Qué sistema se usa para las puertas de acceso comunes de los edificios del Sector 1?
+### 2. Alumil SUPREME SD95 — la porta di pregio
 
-Alumil M19800 Smartia, compatible con sistemas de control de acceso (lector de tarjeta, código PIN, videoportero), con mecanismo de cierre automático y amortiguador hidráulico y resistencia antirrobo RC2 certificada — la solución para entradas de portales y conjuntos residenciales.
+Per ville e ingressi con accesso diretto dalla strada, dove contano sia la sicurezza sia l’aspetto:
 
----
+- **Profondità del telaio:** 95 mm
+- **Uf:** 1,2–2,1 W/m²K, secondo il profilo
+- **Tamponamento:** pannello in alluminio o vetro da 24–54 mm
+- **Antieffrazione:** RC3
+- **Peso dell’anta:** fino a 180 kg
 
-Neofort BIZ suministra e instala puertas de aluminio Alumil en Bucarest e Ilfov, incluido el Sector 1. [Envíenos los datos del proyecto](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama de carpintería de aluminio](/es/carpinteria-aluminio). Páginas útiles: [el sistema Alumil S 67 SMARTIA](/es/productos-alu/sistema-aluminio-alumil-s67-smartia) y [la carpintería de aluminio en Bucarest](/es/carpinteria-aluminio/bucarest).
-`,
+### 3. Reynaers ConceptSystem 77 — la porta a pannello (Panel Door)
 
-      it: `## Perché il Settore 1 di Bucarest ha requisiti speciali per le porte in alluminio
+La versione Reynaers per porte d’ingresso con pannello decorativo:
 
-Il Settore 1 di Bucarest — Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău — concentra numerose ville, edifici per uffici premium e nuovi complessi residenziali con elevati standard architettonici. I requisiti per le porte in alluminio superano ampiamente la media del mercato: finiture premium, sistemi con taglio termico, resistenza antieffrazione certificata e perfetta integrazione estetica con la facciata.
+- **Ud:** 1,8 W/m²K · **Uf:** 2,8 W/m²K
+- **Altezza dell’anta:** fino a 3.000 mm
+- **Pannello:** cieco, con oblò in vetro opzionale
+- **Versione antieffrazione:** disponibile (serie «Burglarproof»)
 
-## Tipi di porte in alluminio per il Settore 1
+### 4. Porte d’accesso per condomini e complessi residenziali
 
-### 1. Porte d'ingresso residenziali con pannello pieno e vetro laterale
-Alumil SF85 Supreme: profondità 85 mm, taglio termico poliammide 34 mm, Uf = 1,3 W/(m²K), pannello isolante 44 mm in schiuma PU ad alta densità, antieffrazione RC2 standard, triplo vetro Ug = 0,5 W/(m²K).
+Per gli ingressi dei vani scala usiamo le stesse serie (di solito SMARTIA SD77 o ConceptSystem 77), attrezzate per un uso intenso: chiudiporta idraulico, serratura elettromagnetica o elettrica e predisposizione per citofono, lettore di badge o codice PIN.
 
-### 2. Porte d'ingresso completamente vetrate
-Alumil S77 Supreme: 77–93 mm, taglio termico 40 mm, triplo vetro Saint-Gobain SGG, isolamento acustico Rw = 38-42 dB.
+## Che cosa significa il taglio termico e perché conta nel Settore 1
 
-### 3. Porte di accesso comuni per complessi residenziali
-Alumil M19800 Smartia: compatibile con sistemi di controllo accessi, chiudiporta idraulico automatico, RC2 certificato.
+Le ville costruite o ristrutturate dopo il 2010 hanno di solito un involucro ben isolato. Una porta in alluminio senza taglio termico sarebbe la superficie più fredda dell’ingresso: condensa sul telaio d’inverno, dispersioni di calore e macchie sulle finiture interne.
 
-## Cosa significa il taglio termico e perché è importante
+Il taglio termico è un inserto in poliammide che separa fisicamente il profilo esterno (freddo) da quello interno (caldo). L’alluminio conduce il calore con λ ≈ 160 W/mK, la poliammide con circa 0,3 W/mK: il flusso di calore attraverso il telaio cala quindi di diverse centinaia di volte. Il pannello porta isolante completa l’effetto sulla superficie dell’anta.
 
-Gli edifici del Settore 1 con isolamento termico ad alte prestazioni necessitano porte con taglio termico per evitare condensa sul profilo interno. L'inserto in poliammide da 34 mm riduce il trasferimento termico da λ = 160 W/mK (alluminio puro) a λ ≈ 0,3 W/mK.
+## Antieffrazione RC2 e RC3: che cosa significano
 
-## RC2 e RC3 — antieffrazione
+Le classi derivano dalla norma europea EN 1627 e si ottengono provando la porta completa (telaio, anta, pannello, ferramenta):
 
-**RC2:** resiste 3 minuti con strumenti di base — requisito minimo per zone residenziali premium. **RC3:** 5 minuti con strumenti specializzati — consigliato per ville isolate e piani terra su strada nel Settore 1.
+**RC2** — resiste almeno 3 minuti a uno scassinatore occasionale con attrezzi semplici (cacciavite, pinze, cunei). È il minimo consigliato per un’abitazione.
 
-## Prezzi porte alluminio Settore 1 Bucarest 2026
+**RC3** — resiste almeno 5 minuti, e lo scassinatore dispone in più di un piede di porco e di un secondo cacciavite. Lo consigliamo per ville isolate, piani terra o ingressi con accesso diretto dalla strada.
 
-| Tipo porta | Sistema | Prezzo indicativo (installazione inclusa) |
-|---|---|---|
-| Residenziale pannello pieno (90×210 cm) | Alumil SF85 RC2 | 560–840 € |
-| Semi-vetrata (100×220 cm) | Alumil S77 RC2 | 640–1.000 € |
-| Complesso con controllo accessi | Alumil M19800 RC2 | 900–1.400 € |
-| Premium completamente vetrata RC3 (120×240 cm) | Alumil SF85 Supreme RC3 | 1.100–1.800 € |
+Gli utensili elettrici compaiono solo dalla classe RC4, usata raramente nelle abitazioni.
 
+## Il prezzo di una porta d’ingresso in alluminio nel 2026
+
+Una porta d’ingresso in alluminio costa indicativamente **800–2.500 EUR al pezzo**, posa inclusa, IVA esclusa: lo stesso intervallo della [pagina prezzi degli infissi in alluminio](/it/infissi-alluminio/prezzi). Il prezzo finale dipende da:
+
+- il sistema (SD77, SD95 o ConceptSystem 77) e la dimensione del vano;
+- il tipo di pannello (cieco o con inserti in vetro) ed eventuale fisso laterale o sopraluce;
+- la classe antieffrazione (RC2 o RC3) e la ferramenta (serratura multipunto, lettore d’impronta, serratura elettrica);
+- il colore RAL, anche bicolore, e gli accessori (maniglione, chiudiporta, soglia).
+
+## Come scegliere il fornitore giusto nel Settore 1
+
+✅ Vi consegna un preventivo scritto in base alle vostre misure o ai vostri schizzi; il rilievo si fa dopo la firma del contratto
+✅ Vi mostra campioni di profilo e di colore RAL prima dell’ordine
+✅ Consegna la porta con la dichiarazione di prestazione CE del sistema
+✅ Dà una garanzia scritta: oltre 10 anni sul profilo in alluminio e 2 anni sulla posa (dettagli nella [pagina Servizi](/it/servizi))
+✅ Posa con nastri precompressi all’esterno, non solo con schiuma e silicone
+✅ Mette nel contratto i tempi di consegna e di posa
+
+## Zone del Settore 1 servite da Neofort BIZ
+
+Neofort BIZ consegna e installa porte in alluminio in tutto il Settore 1: **Aviatorilor, Floreasca, Dorobanți, Primăverii, Herăstrău, Băneasa, Ștefan cel Mare, Titulescu, Pajura**, e nell’Ilfov vicino: Voluntari, Tunari, Pipera, Otopeni.
 
 ## Domande frequenti
 
-### Quale sistema di porta in alluminio è consigliato per una villa nel Settore 1 di Bucarest?
-Per ville premium nel Settore 1, Neofort BIZ consiglia il sistema Alumil SF85 Supreme (profondità 85 mm, taglio termico in poliammide 34 mm, pannello isolante 44 mm) con resistenza antieffrazione RC2 di serie. L'RC3 è disponibile su richiesta per ingressi con accesso diretto dalla strada.
+### Quale sistema di porta d’ingresso in alluminio consigliate per una villa nel Settore 1?
 
-### Quanto costa una porta d'ingresso in alluminio installata nel Settore 1 di Bucarest?
-Nel 2026, una porta d'ingresso residenziale a pannello pieno (Alumil SF85 RC2) costa indicativamente 2.800–4.200 lei installata. Una porta premium completamente vetrata RC3 arriva a 5.500–9.000 lei. Il prezzo finale dipende da dimensioni, colore RAL, accessori e meccanismo di chiusura.
+Per una villa consigliamo Alumil SUPREME SD95 (telaio da 95 mm, RC3) se l’ingresso dà direttamente sulla strada, oppure Alumil SMARTIA SD77 (telaio da 77 mm, Uw da 0,7 W/m²K con pannello isolante, RC2) per un ingresso riparato. Entrambe accolgono un pannello porta cieco o vetrato.
 
-### Perché il taglio termico è importante nelle porte in alluminio?
-L'inserto in poliammide da 34 mm separa fisicamente il profilo esterno freddo da quello interno caldo, riducendo la trasmittanza da λ = 160 W/mK (alluminio puro) a circa 0,3 W/mK. Il risultato: nessuna condensa sul telaio anche a −15°C, fondamentale nelle ville ben isolate del Settore 1.
+### Quanto costa una porta d’ingresso in alluminio posata nel Settore 1?
 
----
+Indicativamente 800–2.500 EUR al pezzo, posa inclusa, IVA esclusa. Il prezzo dipende da sistema, dimensioni, pannello, classe antieffrazione, ferramenta e colore RAL; l’importo esatto è nel preventivo scritto.
 
-**Articoli correlati:**
-- [Infissi alluminio Alumil — sistemi Supreme e Smartia](/it/infissi-alluminio)
-- [Sistema nZEB completo: Salamander + Blaugelb + triplo vetro](/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro)
-- [Prezzi finestre Salamander Bucarest 2026](/it/blog/prezzi-finestre-salamander-bucarest-2026)\n- [Prezzi del doppio vetro Salamander a Bucarest 2026 — guida completa](/it/blog/prezzi-doppio-vetro-salamander-bucarest)
+### Installate anche porte d’ingresso con sistemi Reynaers?
 
-Neofort BIZ — distributore autorizzato Alumil a Bucarest e Ilfov. [Richiedi preventivo porta alluminio](/it/contatti).
+Sì. Installiamo anche la Reynaers ConceptSystem 77 Panel Door: Ud 1,8 W/m²K, ante alte fino a 3.000 mm, pannello cieco con oblò opzionale e versione antieffrazione.
 
-## Domande frequenti
+### Perché il taglio termico conta nelle porte in alluminio?
 
-### Quale sistema di porte in alluminio è consigliato per una villa nel Settore 1?
+Perché l’alluminio conduce il calore diverse centinaia di volte meglio della poliammide. Senza taglio termico il telaio della porta si raffredda d’inverno e si forma condensa all’interno; con il taglio termico e un pannello isolante, la porta non è più il punto debole della casa.
 
-Per porte d'ingresso residenziali nel Settore 1, il sistema Alumil SF85 Supreme ha profondità 85 mm, taglio termico in poliammide da 34 mm, pannello isolante da 44 mm con anima PU, antieffrazione RC2 di serie (RC3 su richiesta) e una vetrata laterale tripla con Ug 0,5 W/(m²K).
+### Quale classe antieffrazione deve avere una porta d’ingresso?
 
-### Cosa significa il taglio termico su una porta in alluminio?
+RC2 è il minimo consigliato per un’abitazione: resiste almeno 3 minuti agli attrezzi semplici. RC3 resiste almeno 5 minuti, anche al piede di porco; la consigliamo per ville isolate, piani terra o accesso diretto dalla strada.
 
-Il taglio termico è un inserto in poliammide da 34 mm che separa fisicamente il profilo esterno freddo da quello interno caldo, riducendo il trasferimento termico da 160 W/mK (alluminio puro) a circa 0,3 W/mK. Il risultato: nessuna condensa sul telaio, anche a −15°C fuori.
-
-### Quale classe antieffrazione deve avere una porta in alluminio nel Settore 1?
-
-RC2 resiste 3 minuti agli attrezzi semplici (cacciaviti, piedi di porco) ed è il minimo per le zone residenziali premium. RC3 resiste 5 minuti agli attrezzi elettrici ed è consigliato per ville isolate, piani terra o ingressi con accesso diretto dalla strada.
-
-### Quale sistema si usa per le porte d'accesso comuni degli edifici nel Settore 1?
-
-Alumil M19800 Smartia, compatibile con sistemi di controllo accessi (lettore di schede, codice PIN, videocitofono), con meccanismo di chiusura automatica e ammortizzatore idraulico e resistenza antieffrazione RC2 certificata — la soluzione per ingressi di vani scala e complessi residenziali.
+Se cambiate anche le finestre, vedete [i prezzi delle finestre Salamander](/it/blog/prezzi-finestre-salamander-bucarest-2026), [i prezzi del doppio vetro Salamander](/it/blog/prezzi-doppio-vetro-salamander-bucarest) e [il sistema nZEB completo](/it/blog/sistema-completo-nzeb-salamander-bluevolution-precornici-blaugelb-triplo-vetro).
 
 ---
 
-Neofort BIZ fornisce e posa porte in alluminio Alumil a Bucarest e nell’Ilfov, Settore 1 compreso. [Inviateci i dati del progetto](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma di serramenti in alluminio](/it/infissi-alluminio). Pagine utili: [il sistema Alumil S 67 SMARTIA](/it/prodotti-alu/sistema-alluminio-alumil-s67-smartia) e [i serramenti in alluminio a Bucarest](/it/infissi-alluminio/bucarest).
-`,
+Neofort BIZ fornisce e installa porte d’ingresso in alluminio Alumil e Reynaers a Bucarest e nell’Ilfov, anche nel Settore 1. [Inviateci i dati del progetto](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite la nostra [gamma di infissi in alluminio](/it/infissi-alluminio) e [gli infissi in alluminio a Bucarest](/it/infissi-alluminio/bucarest).`,
     },
   },
 
@@ -6119,7 +6280,7 @@ Rupere de punte termică 40 mm, Uf de la 0,86 W/(m²K) la profil — echipat cu 
 ✅ Oferă **contract scris** cu specificațiile tehnice complete\
 ✅ Folosește **benzi precomprimate** (nu spumă poliuretanică standard) la exterior\
 ✅ Are **echipe proprii de montaj** certificate, nu subcontractori\
-✅ Garanție **minimum 5 ani** pe produs și 2 ani pe manoperă\
+✅ Garanție scrisă: **5–10 ani** pe profilul PVC și **2 ani** pe montaj\
 ✅ Poate furniza **certificatele de performanță** ale profilului (IFT Rosenheim sau echivalent)
 
 ## Procesul de comandă la Neofort BIZ
@@ -6130,7 +6291,7 @@ Rupere de punte termică 40 mm, Uf de la 0,86 W/(m²K) la profil — echipat cu 
 4. **Contract și măsurători la fața locului** — după semnarea contractului, echipa noastră vine și măsoară golurile exacte
 5. **Producție și livrare** — 7–14 zile lucrătoare pentru profiluri standard
 6. **Montaj nZEB** — echipe proprii cu benzi precomprimate Soudal și precadre Blaugelb
-7. **Garanție 5 ani** pe produs și manoperă
+7. **Garanție scrisă** — 5–10 ani pe profilul PVC Salamander, 10+ ani pe aluminiul Alumil și 2 ani pe montaj
 
 ## Zone deservite în București și Ilfov
 
@@ -6212,7 +6373,7 @@ Without all these elements together, a manufacturer cannot legitimately speak of
 ✅ Offers a **written contract** with complete technical specifications
 ✅ Uses **pre-compressed bands** (not standard polyurethane foam) at exterior
 ✅ Has **own certified installation teams**, not subcontractors
-✅ Minimum **5-year warranty** on product and 2 years on workmanship
+✅ Written warranty: **5–10 years** on the PVC profile and **2 years** on installation
 ✅ Can provide **performance certificates** for the profile (IFT Rosenheim or equivalent)
 
 ## The Ordering Process at Neofort BIZ
@@ -6223,7 +6384,7 @@ Without all these elements together, a manufacturer cannot legitimately speak of
 4. **Contract and on-site measurements** — once the contract is signed, our team comes and measures the exact openings
 5. **Production and delivery** — 7–14 working days for standard profiles
 6. **nZEB installation** — own teams with Soudal pre-compressed tapes and Blaugelb preframes
-7. **5-year warranty** on product and workmanship
+7. **Written warranty** — 5–10 years on the Salamander PVC profile, 10+ years on Alumil aluminium and 2 years on installation
 
 ## Delivery and Installation Areas in Bucharest and Ilfov
 
@@ -6301,7 +6462,7 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 ✅ Bietet einen **schriftlichen Vertrag** mit vollständigen technischen Spezifikationen
 ✅ Verwendet **vorkomprimierte Bänder** (kein Standard-PU-Schaum) außen
 ✅ Eigene **zertifizierte Montageteams**, keine Subunternehmer
-✅ Mindestens **5 Jahre Garantie** auf Produkt und 2 Jahre auf Montage
+✅ Schriftliche Garantie: **5–10 Jahre** auf das PVC-Profil und **2 Jahre** auf die Montage
 ✅ Kann **Leistungsnachweise** für das Profil vorlegen (IFT Rosenheim oder gleichwertig)
 
 ## Der Bestellprozess bei Neofort BIZ
@@ -6312,7 +6473,7 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 4. **Vertrag und Aufmaß vor Ort** — nach Vertragsunterzeichnung kommt unser Team und misst die genauen Öffnungen
 5. **Produktion und Lieferung** — 7–14 Werktage für Standardprofile
 6. **nZEB-Montage** — Eigenteams mit Soudal-Bändern und Blaugelb-Vorblendrahmen
-7. **5 Jahre Garantie** auf Produkt und Montage
+7. **Schriftliche Garantie** — 5–10 Jahre auf das Salamander-PVC-Profil, 10+ Jahre auf Alumil-Aluminium und 2 Jahre auf die Montage
 
 ## Liefer- und Montagegebiete in Bukarest und Ilfov
 
@@ -6390,7 +6551,7 @@ Rupture thermique 40 mm, Uf à partir de 0,86 W/(m²K) au profilé — avec trip
 ✅ Propose un **contrat écrit** avec spécifications techniques complètes
 ✅ Utilise des **bandes précomprimées** (pas de mousse PU standard) à l'extérieur
 ✅ Équipes de pose **propres et certifiées**, pas de sous-traitants
-✅ Garantie minimum **5 ans** sur produit et 2 ans sur main-d'œuvre
+✅ Garantie écrite : **5 à 10 ans** sur le profilé PVC et **2 ans** sur la pose
 ✅ Peut fournir les **certificats de performance** du profilé (IFT Rosenheim ou équivalent)
 
 ## Le processus de commande chez Neofort BIZ
@@ -6401,7 +6562,7 @@ Rupture thermique 40 mm, Uf à partir de 0,86 W/(m²K) au profilé — avec trip
 4. **Contrat et métrage sur place** — après la signature du contrat, notre équipe vient mesurer les ouvertures exactes
 5. **Production et livraison** — 7 à 14 jours ouvrables pour les profilés standard
 6. **Pose nZEB** — équipes propres avec bandes Soudal et précadres Blaugelb
-7. **Garantie 5 ans** sur produit et main-d'œuvre
+7. **Garantie écrite** — 5 à 10 ans sur le profilé PVC Salamander, 10+ ans sur l'aluminium Alumil et 2 ans sur la pose
 
 ---
 
@@ -6475,7 +6636,7 @@ Rotura térmica 40 mm, Uf desde 0,86 W/(m²K) en el perfil — con triple acrist
 ✅ Ofrece un **contrato escrito** con especificaciones técnicas completas
 ✅ Usa **bandas precomprimidas** (no espuma de PU estándar) al exterior
 ✅ Tiene **equipos de instalación propios y certificados**, no subcontratistas
-✅ Garantía mínima de **5 años** en producto y 2 años en mano de obra
+✅ Garantía escrita: **5–10 años** en el perfil de PVC y **2 años** en la instalación
 ✅ Puede proporcionar los **certificados de rendimiento** del perfil (IFT Rosenheim o equivalente)
 
 ## El proceso de pedido en Neofort BIZ
@@ -6486,7 +6647,7 @@ Rotura térmica 40 mm, Uf desde 0,86 W/(m²K) en el perfil — con triple acrist
 4. **Contrato y mediciones in situ** — tras la firma del contrato, nuestro equipo viene y mide las aperturas exactas
 5. **Producción y entrega** — 7–14 días hábiles para perfiles estándar
 6. **Instalación nZEB** — equipos propios con cintas Soudal y premarcos Blaugelb
-7. **Garantía de 5 años** en producto y mano de obra
+7. **Garantía escrita** — 5–10 años en el perfil de PVC Salamander, 10+ años en el aluminio Alumil y 2 años en la instalación
 
 ---
 
@@ -6560,7 +6721,7 @@ Taglio termico 40 mm, Uf a partire da 0,86 W/(m²K) al profilo — con triplo ve
 ✅ Offre un **contratto scritto** con specifiche tecniche complete
 ✅ Usa **nastri precompressi** (non schiuma PU standard) all'esterno
 ✅ Ha **squadre di installazione proprie e certificate**, non subappaltatori
-✅ Garanzia minima di **5 anni** su prodotto e 2 anni su manodopera
+✅ Garanzia scritta: **5–10 anni** sul profilo in PVC e **2 anni** sulla posa
 ✅ Può fornire i **certificati di prestazione** del profilo (IFT Rosenheim o equivalente)
 
 ## Il processo di ordinazione da Neofort BIZ
@@ -6571,7 +6732,7 @@ Taglio termico 40 mm, Uf a partire da 0,86 W/(m²K) al profilo — con triplo ve
 4. **Contratto e misurazioni in loco** — dopo la firma del contratto, il nostro team viene e misura le aperture esatte
 5. **Produzione e consegna** — 7–14 giorni lavorativi per profili standard
 6. **Installazione nZEB** — team propri con nastri Soudal e controtelai Blaugelb
-7. **Garanzia di 5 anni** su prodotto e manodopera
+7. **Garanzia scritta** — 5–10 anni sul profilo in PVC Salamander, 10+ anni sull'alluminio Alumil e 2 anni sulla posa
 
 ---
 
@@ -7446,8 +7607,8 @@ Neofort BIZ furnizează și montează jaluzele exterioare în **toate sectoarele
 1. Soliciți ofertă prin formularul de contact sau telefonic
 2. Primești ofertă personalizată în 48 de ore
 3. După semnarea contractului venim la fața locului pentru măsurători
-4. Producem și montăm în 5–10 zile lucrătoare
-5. Garanție 3 ani pe produs și manoperă
+4. Livrăm și montăm în 5–10 zile lucrătoare
+5. Certificat de garanție scris pe produs și montaj: 2 ani pe montaj, 5 ani pe motorul Somfy
 
 ---
 
@@ -7532,8 +7693,8 @@ Neofort BIZ supplies and installs exterior blinds in **all sectors of Bucharest*
 1. Request a quote via the contact form or by phone
 2. You receive a personalised quote within 48 hours
 3. After the contract is signed we come on-site to take measurements
-4. We manufacture and install in 5–10 working days
-5. 3-year warranty on product and workmanship
+4. We deliver and install in 5–10 working days
+5. Written warranty certificate for product and installation: 2 years on installation, 5 years on the Somfy motor
 
 ---
 
@@ -7618,8 +7779,8 @@ Neofort BIZ liefert und montiert Außenjalousien in **allen Stadtbezirken Bukare
 1. Angebot über das Kontaktformular oder telefonisch anfordern
 2. Sie erhalten innerhalb von 48 Stunden ein individuelles Angebot
 3. Nach Vertragsabschluss nehmen wir vor Ort Maß
-4. Produktion und Montage in 5–10 Werktagen
-5. 3 Jahre Garantie auf Produkt und Montage
+4. Lieferung und Montage in 5–10 Werktagen
+5. Schriftlicher Garantieschein für Produkt und Montage: 2 Jahre auf die Montage, 5 Jahre auf den Somfy-Motor
 
 ---
 
@@ -7704,8 +7865,8 @@ Neofort BIZ fournit et pose des stores extérieurs dans **tous les secteurs de B
 1. Demande de devis via le formulaire de contact ou par téléphone
 2. Vous recevez un devis personnalisé sous 48 heures
 3. Après la signature du contrat, nous venons prendre les cotes sur place
-4. Fabrication et pose en 5 à 10 jours ouvrables
-5. Garantie 3 ans sur le produit et la pose
+4. Livraison et pose en 5 à 10 jours ouvrables
+5. Certificat de garantie écrit pour le produit et la pose : 2 ans sur la pose, 5 ans sur le moteur Somfy
 
 ---
 
@@ -7790,8 +7951,8 @@ Neofort BIZ suministra e instala persianas exteriores en **todos los sectores de
 1. Solicitar presupuesto a través del formulario de contacto o por teléfono
 2. Recibes un presupuesto personalizado en 48 horas
 3. Tras firmar el contrato acudimos a tomar las medidas en obra
-4. Fabricamos e instalamos en 5–10 días hábiles
-5. Garantía de 3 años en producto y mano de obra
+4. Entregamos e instalamos en 5–10 días hábiles
+5. Certificado de garantía escrito para producto e instalación: 2 años en la instalación, 5 años en el motor Somfy
 
 ---
 
@@ -7876,8 +8037,8 @@ Neofort BIZ fornisce e installa veneziane esterne in **tutti i settori di Bucare
 1. Richiedere un preventivo tramite il modulo di contatto o telefonicamente
 2. Ricevi un preventivo personalizzato entro 48 ore
 3. Dopo la firma del contratto veniamo sul posto per il rilievo
-4. Produciamo e installiamo in 5–10 giorni lavorativi
-5. Garanzia di 3 anni su prodotto e manodopera
+4. Consegniamo e installiamo in 5–10 giorni lavorativi
+5. Certificato di garanzia scritto per prodotto e posa: 2 anni sulla posa, 5 anni sul motore Somfy
 
 ---
 
@@ -8034,7 +8195,7 @@ După montaj, feroneria Roto NT sau Winkhaus trebuie **reglată precis** în toa
 ✅ Firma vine obligatoriu la **măsurători la fața locului** (nu acceptă comenzi pe baza măsurilor trimise de client)\
 ✅ Folosește **benzi precomprimate** (întreabă explicit, nu spumă la exterior)\
 ✅ Oferă **contract scris** cu specificațiile tehnice ale produsului\
-✅ Garanție minimum **5 ani** pe produs și manoperă\
+✅ Garanție scrisă: **5–10 ani** pe profil și **2 ani** pe montaj\
 ✅ Echipe proprii de montaj, nu subcontractori\
 ✅ Precadre Blaugelb sau echivalent pentru proiecte nZEB
 
@@ -8121,7 +8282,7 @@ After installation, Roto NT or Winkhaus hardware must be **precisely adjusted** 
 ✅ The company always comes for **on-site measurements** (does not accept orders based on dimensions provided by the client)
 ✅ Uses **pre-compressed bands** (ask explicitly — not foam at exterior)
 ✅ Offers a **written contract** with complete technical specifications
-✅ Minimum **5-year warranty** on product and workmanship
+✅ Written warranty: **5–10 years** on the profile and **2 years** on installation
 ✅ Own installation teams, not subcontractors
 ✅ Blaugelb preframes or equivalent for nZEB projects
 
@@ -8207,7 +8368,7 @@ Nach der Montage müssen Roto NT oder Winkhaus Beschläge **präzise in allen 3 
 ✅ Das Unternehmen kommt obligatorisch für **Aufmaß vor Ort** (akzeptiert keine Bestellungen auf Basis von Maßen des Kunden)
 ✅ Verwendet **vorkomprimierte Bänder** (ausdrücklich fragen — kein Schaum außen)
 ✅ Bietet einen **schriftlichen Vertrag** mit vollständigen technischen Spezifikationen
-✅ Mindestens **5 Jahre Garantie** auf Produkt und Montage
+✅ Schriftliche Garantie: **5–10 Jahre** auf das Profil und **2 Jahre** auf die Montage
 ✅ Eigene Montageteams, keine Subunternehmer
 ✅ Blaugelb Vorblendrahmen oder gleichwertig für nZEB-Projekte
 
@@ -8293,7 +8454,7 @@ Après la pose, la quincaillerie Roto NT ou Winkhaus doit être **réglée préc
 ✅ L'entreprise vient obligatoirement pour **métrage sur place** (n'accepte pas de commandes sur la base de mesures du client)
 ✅ Utilise des **bandes précomprimées** (demander explicitement — pas de mousse à l'extérieur)
 ✅ Propose un **contrat écrit** avec les spécifications techniques complètes
-✅ Garantie minimum **5 ans** sur produit et main-d'œuvre
+✅ Garantie écrite : **5 à 10 ans** sur le profilé et **2 ans** sur la pose
 ✅ Équipes de pose propres, pas de sous-traitants
 ✅ Précadres Blaugelb ou équivalent pour les projets nZEB
 
@@ -8379,7 +8540,7 @@ Tras la instalación, la herraje Roto NT o Winkhaus debe ser **ajustado con prec
 ✅ La empresa viene obligatoriamente para **mediciones in situ** (no acepta pedidos basados en medidas del cliente)
 ✅ Usa **bandas precomprimidas** (preguntar explícitamente — no espuma al exterior)
 ✅ Ofrece un **contrato escrito** con especificaciones técnicas completas
-✅ Garantía mínima de **5 años** en producto y mano de obra
+✅ Garantía escrita: **5–10 años** en el perfil y **2 años** en la instalación
 ✅ Equipos propios de instalación, no subcontratistas
 ✅ Premarcos Blaugelb o equivalente para proyectos nZEB
 
@@ -8465,7 +8626,7 @@ Dopo l'installazione, la ferramenta Roto NT o Winkhaus deve essere **regolata co
 ✅ L'azienda viene obbligatoriamente per **misurazioni in loco** (non accetta ordini basati su misure del cliente)
 ✅ Usa **nastri precompressi** (chiedere esplicitamente — non schiuma all'esterno)
 ✅ Offre un **contratto scritto** con le specifiche tecniche complete
-✅ Garanzia minima di **5 anni** su prodotto e manodopera
+✅ Garanzia scritta: **5–10 anni** sul profilo e **2 anni** sulla posa
 ✅ Squadre di installazione proprie, non subappaltatori
 ✅ Controtelai Blaugelb o equivalente per progetti nZEB
 
@@ -12526,11 +12687,10 @@ Exportul intra-UE este **fără formalități vamale**. Documente standard inclu
 
 ## Garanția — identică cu livrările interne
 
-- **10 ani** — profile PVC Salamander
-- **10 ani** — structuri aluminiu Alumil
-- **5 ani** — geam termoizolator
-- **3 ani** — feronerie
+- **5–10 ani** — profile PVC Salamander
+- **10+ ani** — profile aluminiu Alumil
 - **2 ani** — montaj (dacă realizat de echipa Neofort)
+- certificat de garanție scris pentru fiecare livrare
 
 ---
 
@@ -12575,7 +12735,7 @@ Exportul în Germania și toată Europa face parte din activitatea curentă Neof
 
 ---
 
-Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul de export pentru case și vile în Europa](/ro/blog/tamplarie-salamander-case-individuale-vile-export-europa). Pentru bugetare înainte de comandă, nivelurile de preț sunt publicate la [tâmplărie aluminiu](/ro/tamplarie-aluminiu/preturi) și [tâmplărie PVC](/ro/tamplarie-pvc/preturi).`,
+Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul de export pentru case și vile în Europa](/ro/blog/tamplarie-salamander-case-individuale-vile-export-europa). Pentru bugetare înainte de comandă, nivelurile de preț sunt publicate la [tâmplărie aluminiu](/ro/tamplarie-aluminiu/preturi) și [tâmplărie PVC](/ro/tamplarie-pvc/preturi).`,
 
       en: `## Why Do Romanians in Germany Order Windows from Romania?
 
@@ -12669,11 +12829,10 @@ Intra-EU export is **customs-free**. Standard documents included:
 
 ## Warranty — Identical to Domestic Deliveries
 
-- **10 years** — Salamander PVC profiles
-- **10 years** — Alumil aluminium structures
-- **5 years** — thermal insulating glass
-- **3 years** — hardware
-- **2 years** — installation (if carried out by Neofort team)
+- **5–10 years** — Salamander PVC profiles
+- **10+ years** — Alumil aluminium profiles
+- **2 years** — installation (if carried out by the Neofort team)
+- a written warranty certificate for every delivery
 
 ---
 
@@ -12718,7 +12877,7 @@ Exporting to Germany and across Europe has been part of Neofort BIZ's regular ac
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). See also [the export guide for houses and villas in Europe](/en/blog/salamander-windows-individual-houses-villas-europe-export). For budgeting ahead of an order, the price levels are published for [aluminium joinery](/en/aluminium-windows/prices) and [PVC joinery](/en/pvc-windows/prices).`,
+Neofort BIZ supplies and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC windows](/en/pvc-windows) we offer or [request a quote](/en/contact). See also [the export guide for houses and villas in Europe](/en/blog/salamander-windows-individual-houses-villas-europe-export). For budgeting ahead of an order, the price levels are published for [aluminium joinery](/en/aluminium-windows/prices) and [PVC joinery](/en/pvc-windows/prices).`,
 
       de: `## Warum bestellen Rumänen in Deutschland Fenster aus Rumänien?
 
@@ -12812,11 +12971,10 @@ EU-Binnenexport ist **zollfrei**. Standarddokumente enthalten:
 
 ## Garantie — identisch mit Inlandslieferungen
 
-- **10 Jahre** — Salamander PVC-Profile
-- **10 Jahre** — Alumil Aluminiumstrukturen
-- **5 Jahre** — Wärmedämmglas
-- **3 Jahre** — Beschläge
+- **5–10 Jahre** — Salamander PVC-Profile
+- **10+ Jahre** — Alumil-Aluminiumprofile
 - **2 Jahre** — Montage (wenn vom Neofort-Team durchgeführt)
+- schriftlicher Garantieschein für jede Lieferung
 
 ---
 
@@ -12861,7 +13019,7 @@ Der Export nach Deutschland und ganz Europa ist seit über 10 Jahren Teil der re
 
 ---
 
-Neofort BIZ fertigt und montiert Salamander PVC-Fenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie die [Salamander-PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den Exportratgeber für Häuser und Villen in Europa](/de/blog/salamander-fenster-einfamilienhaeuser-villen-europa-export). Für die Budgetierung vor der Bestellung sind die Preisniveaus für [Aluminiumfenster](/de/aluminiumfenster/preise) und [Kunststofffenster](/de/kunststofffenster-pvc/preise) veröffentlicht.`,
+Neofort BIZ liefert und montiert Salamander PVC-Fenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie die [Salamander-PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den Exportratgeber für Häuser und Villen in Europa](/de/blog/salamander-fenster-einfamilienhaeuser-villen-europa-export). Für die Budgetierung vor der Bestellung sind die Preisniveaus für [Aluminiumfenster](/de/aluminiumfenster/preise) und [Kunststofffenster](/de/kunststofffenster-pvc/preise) veröffentlicht.`,
 
       fr: `## Pourquoi les Roumains d'Allemagne commandent-ils des menuiseries de Roumanie ?
 
@@ -12955,11 +13113,10 @@ L'export intra-UE est **sans formalités douanières**. Documents standards incl
 
 ## Garantie — identique aux livraisons nationales
 
-- **10 ans** — profils PVC Salamander
-- **10 ans** — structures aluminium Alumil
-- **5 ans** — vitrage isolant thermique
-- **3 ans** — quincaillerie
+- **5 à 10 ans** — profils PVC Salamander
+- **10+ ans** — profilés aluminium Alumil
 - **2 ans** — pose (si réalisée par l'équipe Neofort)
+- certificat de garantie écrit pour chaque livraison
 
 ---
 
@@ -13004,7 +13161,7 @@ L'export vers l'Allemagne et toute l'Europe fait partie de l'activité courante 
 
 ---
 
-Neofort BIZ fabrique et pose de la menuiserie PVC Salamander à Bucarest et Ilfov, avec livraison dans toute l’Europe. Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide d’export pour maisons et villas en Europe](/fr/blog/menuiserie-salamander-maisons-individuelles-villas-export-europe). Pour budgéter avant commande, les niveaux de prix sont publiés pour la [menuiserie aluminium](/fr/menuiserie-aluminium/prix) et la [menuiserie PVC](/fr/menuiserie-pvc/prix).`,
+Neofort BIZ fournit et pose de la menuiserie PVC Salamander à Bucarest et Ilfov, avec livraison dans toute l’Europe. Voir [la menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Voir aussi [le guide d’export pour maisons et villas en Europe](/fr/blog/menuiserie-salamander-maisons-individuelles-villas-export-europe). Pour budgéter avant commande, les niveaux de prix sont publiés pour la [menuiserie aluminium](/fr/menuiserie-aluminium/prix) et la [menuiserie PVC](/fr/menuiserie-pvc/prix).`,
 
       es: `## ¿Por qué los rumanos de Alemania piden carpintería de Rumanía?
 
@@ -13098,11 +13255,10 @@ La exportación intra-UE es **sin trámites aduaneros**. Documentos estándar in
 
 ## Garantía — idéntica a las entregas nacionales
 
-- **10 años** — perfiles PVC Salamander
-- **10 años** — estructuras aluminio Alumil
-- **5 años** — vidrio aislante térmico
-- **3 años** — herrajes
-- **2 años** — instalación (si realizada por el equipo Neofort)
+- **5–10 años** — perfiles PVC Salamander
+- **10+ años** — perfiles de aluminio Alumil
+- **2 años** — instalación (si la realiza el equipo Neofort)
+- certificado de garantía escrito para cada entrega
 
 ---
 
@@ -13147,7 +13303,7 @@ La exportación a Alemania y toda Europa forma parte de la actividad habitual de
 
 ---
 
-Neofort BIZ fabrica e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía de exportación para casas y villas en Europa](/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa). Para presupuestar antes del pedido, los niveles de precio están publicados para [carpintería de aluminio](/es/carpinteria-aluminio/precios) y [carpintería PVC](/es/carpinteria-pvc/precios).`,
+Neofort BIZ suministra e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía de exportación para casas y villas en Europa](/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa). Para presupuestar antes del pedido, los niveles de precio están publicados para [carpintería de aluminio](/es/carpinteria-aluminio/precios) y [carpintería PVC](/es/carpinteria-pvc/precios).`,
 
       it: `## Perché i rumeni in Germania ordinano serramenti dalla Romania?
 
@@ -13241,11 +13397,10 @@ L'export intra-UE è **senza formalità doganali**. Documenti standard inclusi:
 
 ## Garanzia — identica alle consegne nazionali
 
-- **10 anni** — profili PVC Salamander
-- **10 anni** — strutture alluminio Alumil
-- **5 anni** — vetro isolante termico
-- **3 anni** — ferramenta
-- **2 anni** — installazione (se effettuata dal team Neofort)
+- **5–10 anni** — profili PVC Salamander
+- **10+ anni** — profili in alluminio Alumil
+- **2 anni** — posa (se effettuata dal team Neofort)
+- certificato di garanzia scritto per ogni consegna
 
 ---
 
@@ -13290,7 +13445,7 @@ L'esportazione in Germania e in tutta Europa fa parte dell'attività corrente di
 
 ---
 
-Neofort BIZ produce e installa serramenti in PVC Salamander a Bucarest e Ilfov, con consegna in tutta Europa. Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida all’export per case e ville in Europa](/it/blog/infissi-salamander-case-individuali-ville-esportazione-europa). Per il budget prima dell'ordine, i livelli di prezzo sono pubblicati per gli [infissi in alluminio](/it/infissi-alluminio/prezzi) e gli [infissi in PVC](/it/infissi-pvc/prezzi).`,
+Neofort BIZ fornisce e installa serramenti in PVC Salamander a Bucarest e Ilfov, con consegna in tutta Europa. Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida all’export per case e ville in Europa](/it/blog/infissi-salamander-case-individuali-ville-esportazione-europa). Per il budget prima dell'ordine, i livelli di prezzo sono pubblicati per gli [infissi in alluminio](/it/infissi-alluminio/prezzi) e gli [infissi in PVC](/it/infissi-pvc/prezzi).`,
     },
   },
   // ─── ARTICOL 5: Tâmplărie aluminiu cu barieră termică ───────────────────
@@ -13430,7 +13585,7 @@ Recomandat pentru: blocuri, birouri, spații comerciale, renovări cu buget medi
 
 ### Sisteme glisante și armonice
 
-- **Alumil Supreme S700** — liftant-glisant cu barieră termică Kooltherm, Uf de la 1,1 W/m²K, foi de până la 500 kg.
+- **Alumil Supreme S700** — liftant-glisant cu barieră termică Kooltherm, Uf de la 1,1 W/m²K, foi de până la 600 kg.
 - **Alumil Smartia S350** — liftant-glisant economic, barieră termică 28 mm, Uf de la 2,9 W/m²K.
 - **Alumil Supreme SF85** — sistem armonic cu barieră Kooltherm 40 mm, Uf de la 1,0 W/m²K, lățime totală de până la 7 m.
 - **Alumil Smartia M19800** — sistem armonic economic, barieră termică 18 mm, Uf de la 1,9 W/m²K.
@@ -13586,7 +13741,7 @@ Recommended for: apartment blocks, offices, commercial spaces, mid-budget renova
 
 ### Sliding and folding systems
 
-- **Alumil Supreme S700** — lift-and-slide with Kooltherm thermal break, Uf from 1.1 W/m²K, sashes up to 500 kg.
+- **Alumil Supreme S700** — lift-and-slide with Kooltherm thermal break, Uf from 1.1 W/m²K, sashes up to 600 kg.
 - **Alumil Smartia S350** — economical lift-and-slide, 28 mm thermal break, Uf from 2.9 W/m²K.
 - **Alumil Supreme SF85** — folding system with 40 mm Kooltherm break, Uf from 1.0 W/m²K, total width up to 7 m.
 - **Alumil Smartia M19800** — economical folding system, 18 mm thermal break, Uf from 1.9 W/m²K.
@@ -13744,7 +13899,7 @@ Empfohlen für: Wohnblöcke, Büros, Gewerbeflächen, Renovierungen mit mittlere
 
 ### Schiebe- und Faltsysteme
 
-- **Alumil Supreme S700** — Hebeschiebesystem mit Kooltherm-Trennung, Uf ab 1,1 W/m²K, Flügel bis 500 kg.
+- **Alumil Supreme S700** — Hebeschiebesystem mit Kooltherm-Trennung, Uf ab 1,1 W/m²K, Flügel bis 600 kg.
 - **Alumil Smartia S350** — preisgünstiges Hebeschiebesystem, 28 mm thermische Trennung, Uf ab 2,9 W/m²K.
 - **Alumil Supreme SF85** — Faltsystem mit 40 mm Kooltherm-Trennung, Uf ab 1,0 W/m²K, Gesamtbreite bis 7 m.
 - **Alumil Smartia M19800** — preisgünstiges Faltsystem, 18 mm thermische Trennung, Uf ab 1,9 W/m²K.
@@ -13902,7 +14057,7 @@ Recommandé pour : immeubles, bureaux, locaux commerciaux, rénovations à budge
 
 ### Systèmes coulissants et accordéon
 
-- **Alumil Supreme S700** — levant-coulissant avec rupture Kooltherm, Uf à partir de 1,1 W/m²K, vantaux jusqu'à 500 kg.
+- **Alumil Supreme S700** — levant-coulissant avec rupture Kooltherm, Uf à partir de 1,1 W/m²K, vantaux jusqu'à 600 kg.
 - **Alumil Smartia S350** — levant-coulissant économique, rupture thermique 28 mm, Uf à partir de 2,9 W/m²K.
 - **Alumil Supreme SF85** — système accordéon avec rupture Kooltherm 40 mm, Uf à partir de 1,0 W/m²K, largeur totale jusqu'à 7 m.
 - **Alumil Smartia M19800** — système accordéon économique, rupture thermique 18 mm, Uf à partir de 1,9 W/m²K.
@@ -14057,7 +14212,7 @@ Recomendado para: bloques de viviendas, oficinas, locales comerciales, reformas 
 
 ### Sistemas correderos y plegables
 
-- **Alumil Supreme S700** — elevable-corredera con rotura Kooltherm, Uf desde 1,1 W/m²K, hojas de hasta 500 kg.
+- **Alumil Supreme S700** — elevable-corredera con rotura Kooltherm, Uf desde 1,1 W/m²K, hojas de hasta 600 kg.
 - **Alumil Smartia S350** — elevable-corredera económica, rotura térmica de 28 mm, Uf desde 2,9 W/m²K.
 - **Alumil Supreme SF85** — sistema plegable con rotura Kooltherm de 40 mm, Uf desde 1,0 W/m²K, anchura total de hasta 7 m.
 - **Alumil Smartia M19800** — sistema plegable económico, rotura térmica de 18 mm, Uf desde 1,9 W/m²K.
@@ -14212,7 +14367,7 @@ Consigliato per: condomini, uffici, spazi commerciali, ristrutturazioni con budg
 
 ### Sistemi scorrevoli e a soffietto
 
-- **Alumil Supreme S700** — alzante-scorrevole con taglio Kooltherm, Uf da 1,1 W/m²K, ante fino a 500 kg.
+- **Alumil Supreme S700** — alzante-scorrevole con taglio Kooltherm, Uf da 1,1 W/m²K, ante fino a 600 kg.
 - **Alumil Smartia S350** — alzante-scorrevole economico, taglio termico da 28 mm, Uf da 2,9 W/m²K.
 - **Alumil Supreme SF85** — sistema a soffietto con taglio Kooltherm da 40 mm, Uf da 1,0 W/m²K, larghezza totale fino a 7 m.
 - **Alumil Smartia M19800** — sistema a soffietto economico, taglio termico da 18 mm, Uf da 1,9 W/m²K.
@@ -14495,7 +14650,7 @@ Echipă specializată, cu schele sau platformă elevatoare. La final: test de im
 Lucrăm exclusiv cu **profile Alumil** certificate european, cu garnituri EPDM și silicon structural de calitate. Oferim:
 
 - Proiectare tehnică inclusă în ofertă
-- Garanție **5 ani** pe etanșeitate
+- Garanție scrisă: **10+ ani** pe profilele de aluminiu și **2 ani** pe montaj
 - Echipă proprie de montaj specializată
 - Livrare și montaj în toată România și UE
 
@@ -14666,7 +14821,7 @@ A specialised team, with scaffolding or an aerial platform. At the end: a water-
 We work exclusively with European-certified **Alumil profiles**, with EPDM gaskets and quality structural silicone. We offer:
 
 - Technical design included in the quote
-- **5-year** warranty on water-tightness
+- Written warranty: **10+ years** on the aluminium profiles and **2 years** on installation
 - Our own specialised installation team
 - Delivery and installation throughout Romania and the EU
 
@@ -14837,7 +14992,7 @@ Ein spezialisiertes Team mit Gerüst oder Hubarbeitsbühne. Zum Abschluss: Dicht
 Wir arbeiten ausschließlich mit europäisch zertifizierten **Alumil-Profilen**, mit EPDM-Dichtungen und hochwertigem Struktursilikon. Wir bieten:
 
 - Technische Planung im Angebot inbegriffen
-- **5 Jahre** Garantie auf die Dichtheit
+- Schriftliche Garantie: **10+ Jahre** auf die Aluminiumprofile und **2 Jahre** auf die Montage
 - Eigenes spezialisiertes Montageteam
 - Lieferung und Montage in ganz Rumänien und der EU
 
@@ -15008,7 +15163,7 @@ Une équipe spécialisée, avec échafaudage ou nacelle. Pour finir : essai d’
 Nous travaillons exclusivement avec des **profilés Alumil** certifiés en Europe, des joints EPDM et un silicone structurel de qualité. Nous proposons :
 
 - Les études techniques comprises dans le devis
-- Une garantie de **5 ans** sur l’étanchéité
+- Une garantie écrite : **10+ ans** sur les profilés aluminium et **2 ans** sur la pose
 - Notre propre équipe de pose spécialisée
 - La livraison et la pose dans toute la Roumanie et l’UE
 
@@ -15179,7 +15334,7 @@ Un equipo especializado, con andamios o plataforma elevadora. Al final: prueba d
 Trabajamos exclusivamente con **perfiles Alumil** con certificación europea, juntas de EPDM y silicona estructural de calidad. Ofrecemos:
 
 - Proyecto técnico incluido en el presupuesto
-- Garantía de **5 años** sobre la estanqueidad
+- Garantía escrita: **10+ años** en los perfiles de aluminio y **2 años** en la instalación
 - Equipo de montaje propio y especializado
 - Entrega e instalación en toda Rumanía y la UE
 
@@ -15350,7 +15505,7 @@ Una squadra specializzata, con ponteggi o piattaforma aerea. Alla fine: prova di
 Lavoriamo esclusivamente con **profili Alumil** certificati a livello europeo, guarnizioni in EPDM e silicone strutturale di qualità. Offriamo:
 
 - Progettazione tecnica inclusa nel preventivo
-- Garanzia di **5 anni** sulla tenuta
+- Garanzia scritta: **10+ anni** sui profili in alluminio e **2 anni** sulla posa
 - Squadra di posa propria e specializzata
 - Consegna e posa in tutta la Romania e nell’UE
 
@@ -19969,7 +20124,7 @@ Geamul reprezintă 70% din suprafața ferestrei. Un profil premium cu geam stand
 
 ## De ce Neofort BIZ pentru renovarea apartamentului tău
 
-**Ofertă detaliată în 48 de ore**, iar măsurătorile la fața locului se fac după semnarea contractului. **Producție proprie** — nu intermediem, nu subcontractăm. **Montaj nZEB** cu precadre Blaugelb Triotherm+, la cerere. **Demontarea și ridicarea tâmplăriei vechi** sunt incluse în preț.
+**Ofertă detaliată în 48 de ore**, iar măsurătorile la fața locului se fac după semnarea contractului. **Furnizor direct** — fără intermediari, cu echipe proprii de montaj. **Montaj nZEB** cu precadre Blaugelb Triotherm+, la cerere. **Demontarea și ridicarea tâmplăriei vechi** sunt incluse în preț.
 
 **WhatsApp:** +40 752 443 435 | **L–V 10–18**
 
@@ -20120,7 +20275,7 @@ Glass makes up 70% of the window surface. A premium profile with standard glass 
 
 ## Why Neofort BIZ for your apartment renovation
 
-**A detailed quote within 48 hours**, with the on-site survey carried out after the contract is signed. **In-house production** — no middlemen, no subcontractors. **nZEB installation** with Blaugelb Triotherm+ pre-frames, on request. **Removal and disposal of the old joinery** are included in the price.
+**A detailed quote within 48 hours**, with the on-site survey carried out after the contract is signed. **Direct supplier** — no middlemen, with our own installation teams. **nZEB installation** with Blaugelb Triotherm+ pre-frames, on request. **Removal and disposal of the old joinery** are included in the price.
 
 **WhatsApp:** +40 752 443 435 | **Mon–Fri 10–18**
 
@@ -20271,7 +20426,7 @@ Das Glas macht 70 % der Fensterfläche aus. Ein Premiumprofil mit Standardglas v
 
 ## Warum Neofort BIZ für die Renovierung Ihrer Wohnung
 
-**Ein detailliertes Angebot innerhalb von 48 Stunden**, das Aufmaß vor Ort erfolgt nach der Vertragsunterzeichnung. **Eigene Fertigung** — keine Zwischenhändler, keine Subunternehmer. **nZEB-Montage** mit dem Vorwandmontagesystem Blaugelb Triotherm+, auf Wunsch. **Ausbau und Abtransport der alten Fenster** sind im Preis enthalten.
+**Ein detailliertes Angebot innerhalb von 48 Stunden**, das Aufmaß vor Ort erfolgt nach der Vertragsunterzeichnung. **Direkter Lieferant** — keine Zwischenhändler, mit eigenen Montageteams. **nZEB-Montage** mit dem Vorwandmontagesystem Blaugelb Triotherm+, auf Wunsch. **Ausbau und Abtransport der alten Fenster** sind im Preis enthalten.
 
 **WhatsApp:** +40 752 443 435 | **Mo–Fr 10–18 Uhr**
 
@@ -20422,7 +20577,7 @@ Le vitrage représente 70 % de la surface de la fenêtre. Un profilé haut de ga
 
 ## Pourquoi Neofort BIZ pour la rénovation de votre appartement
 
-**Un devis détaillé sous 48 heures**, le métré sur place étant réalisé après la signature du contrat. **Fabrication propre** — sans intermédiaires ni sous-traitants. **Pose nZEB** avec précadres Blaugelb Triotherm+, sur demande. **La dépose et l’enlèvement des anciennes menuiseries** sont compris dans le prix.
+**Un devis détaillé sous 48 heures**, le métré sur place étant réalisé après la signature du contrat. **Fournisseur direct** — sans intermédiaires, avec nos propres équipes de pose. **Pose nZEB** avec précadres Blaugelb Triotherm+, sur demande. **La dépose et l’enlèvement des anciennes menuiseries** sont compris dans le prix.
 
 **WhatsApp :** +40 752 443 435 | **Lun–Ven 10h–18h**
 
@@ -20573,7 +20728,7 @@ El vidrio supone el 70 % de la superficie de la ventana. Un perfil premium con v
 
 ## Por qué Neofort BIZ para la reforma de su piso
 
-**Un presupuesto detallado en 48 horas**, y la medición in situ se hace después de firmar el contrato. **Fabricación propia**: sin intermediarios ni subcontratas. **Instalación nZEB** con premarcos Blaugelb Triotherm+, a petición. **El desmontaje y la retirada de la carpintería antigua** están incluidos en el precio.
+**Un presupuesto detallado en 48 horas**, y la medición in situ se hace después de firmar el contrato. **Proveedor directo**: sin intermediarios, con equipos de instalación propios. **Instalación nZEB** con premarcos Blaugelb Triotherm+, a petición. **El desmontaje y la retirada de la carpintería antigua** están incluidos en el precio.
 
 **WhatsApp:** +40 752 443 435 | **Lun–Vie 10–18 h**
 
@@ -20724,7 +20879,7 @@ Il vetro rappresenta il 70% della superficie della finestra. Un profilo premium 
 
 ## Perché Neofort BIZ per ristrutturare il vostro appartamento
 
-**Un preventivo dettagliato entro 48 ore**, con il rilievo misure in loco dopo la firma del contratto. **Produzione propria**: niente intermediari, niente subappalti. **Posa nZEB** con controtelai Blaugelb Triotherm+, su richiesta. **Lo smontaggio e lo smaltimento dei vecchi serramenti** sono compresi nel prezzo.
+**Un preventivo dettagliato entro 48 ore**, con il rilievo misure in loco dopo la firma del contratto. **Fornitore diretto**: niente intermediari, con squadre di posa proprie. **Posa nZEB** con controtelai Blaugelb Triotherm+, su richiesta. **Lo smontaggio e lo smaltimento dei vecchi serramenti** sono compresi nel prezzo.
 
 **WhatsApp:** +40 752 443 435 | **Lun–Ven 10–18**
 
@@ -21874,7 +22029,7 @@ Sistemul pentru terase și balcoane mari — acolo unde ușa de balcon clasică 
 
 **Documentație completă** — declarații de performanță (DoP), certificate CE, fișe tehnice și calcule termice pentru dosarul autorizației de construire și pentru cartea construcției.
 
-**Garanție contractuală** — 10 ani profile, 5 ani geam, 2 ani montaj. Clauze clare în contract, fără surprize post-recepție.
+**Garanție contractuală** — 10+ ani pe profilele de aluminiu și 2 ani pe montaj, cu certificat de garanție scris. Clauze clare în contract, fără surprize post-recepție.
 
 ---
 
@@ -21998,7 +22153,7 @@ The system for large terraces and balconies — where a classic balcony door is 
 
 **Complete documentation** — declarations of performance (DoP), CE certificates, technical data sheets and thermal calculations for the building permit file and for the building record.
 
-**Contractual warranty** — 10 years on profiles, 5 years on glazing, 2 years on installation. Clear clauses in the contract, with no surprises after handover.
+**Contractual warranty** — 10+ years on the aluminium profiles and 2 years on installation, with a written warranty certificate. Clear clauses in the contract, with no surprises after handover.
 
 ---
 
@@ -22120,7 +22275,7 @@ Das System für große Terrassen und Balkone — dort, wo die klassische Balkont
 
 **Vollständige Unterlagen** — Leistungserklärungen (DoP), CE-Zertifikate, technische Datenblätter und Wärmeschutznachweise für die Baugenehmigungsakte und die Bauakte.
 
-**Vertragliche Gewährleistung** — 10 Jahre auf Profile, 5 Jahre auf Verglasung, 2 Jahre auf die Montage. Klare Klauseln im Vertrag, ohne Überraschungen nach der Abnahme.
+**Vertragliche Garantie** — 10+ Jahre auf die Aluminiumprofile und 2 Jahre auf die Montage, mit schriftlichem Garantieschein. Klare Klauseln im Vertrag, ohne Überraschungen nach der Abnahme.
 
 ---
 
@@ -22242,7 +22397,7 @@ Le système pour les grandes terrasses et balcons — là où la porte-fenêtre 
 
 **Documentation complète** — déclarations des performances (DoP), certificats CE, fiches techniques et calculs thermiques pour le dossier de permis de construire et pour le dossier de l’ouvrage.
 
-**Garantie contractuelle** — 10 ans sur les profilés, 5 ans sur le vitrage, 2 ans sur la pose. Des clauses claires dans le contrat, sans surprise après réception.
+**Garantie contractuelle** — 10+ ans sur les profilés aluminium et 2 ans sur la pose, avec un certificat de garantie écrit. Des clauses claires dans le contrat, sans surprise après réception.
 
 ---
 
@@ -22364,7 +22519,7 @@ El sistema para terrazas y balcones grandes — allí donde la puerta de balcón
 
 **Documentación completa** — declaraciones de prestaciones (DoP), certificados CE, fichas técnicas y cálculos térmicos para el expediente de licencia y para el libro del edificio.
 
-**Garantía contractual** — 10 años en perfiles, 5 años en vidrio, 2 años en instalación. Cláusulas claras en el contrato, sin sorpresas tras la recepción.
+**Garantía contractual** — 10+ años en los perfiles de aluminio y 2 años en la instalación, con certificado de garantía escrito. Cláusulas claras en el contrato, sin sorpresas tras la recepción.
 
 ---
 
@@ -22486,7 +22641,7 @@ Il sistema per terrazze e balconi ampi — dove la porta-finestra classica non b
 
 **Documentazione completa** — dichiarazioni di prestazione (DoP), certificati CE, schede tecniche e calcoli termici per la pratica edilizia e per il fascicolo dell’opera.
 
-**Garanzia contrattuale** — 10 anni sui profili, 5 anni sul vetro, 2 anni sulla posa. Clausole chiare nel contratto, senza sorprese dopo il collaudo.
+**Garanzia contrattuale** — 10+ anni sui profili in alluminio e 2 anni sulla posa, con certificato di garanzia scritto. Clausole chiare nel contratto, senza sorprese dopo il collaudo.
 
 ---
 
@@ -22646,8 +22801,8 @@ Varianta cu colțuri rotunjite — cea mai populară pentru case rezidențiale c
 ### Sistem liftant-glisant terasă — Alumil S 700 SUPREME
 
 Pe terasele mari ale caselor individuale, ușa de balcon clasică nu mai este suficientă. Pentru terasă am ales sistemul liftant-glisant din aluminiu [Alumil S 700 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme), montat separat de ferestrele PVC:
-- Foi glisante de până la **500 kg**, cu prag aproape invizibil
-- Barieră termică Kooltherm, **Uw de la 1,0 W/m²K**
+- Foi glisante de până la **600 kg**, cu prag aproape invizibil
+- Barieră termică Kooltherm, **Uw de la 1,1 W/m²K**
 - Motorizare integrată, comandată din același hub Somfy ca ferestrele
 
 ### Montaj nZEB cu precadre Blaugelb Triotherm+
@@ -22719,12 +22874,12 @@ BluEvolution 92 oferă izolare fonică până la 47 dB, asigurând liniște comp
 
 ### Ce sistem ați montat pe terasa casei din Berceni?
 
-Pe terasă am montat sistemul liftant-glisant din aluminiu Alumil S 700 SUPREME, separat de ferestrele PVC BluEvolution 92. Are foi de până la 500 kg, barieră termică Kooltherm și Uw de la 1,0 W/m²K, iar motorizarea lui e comandată din același hub Somfy TaHoma ca ferestrele.
+Pe terasă am montat sistemul liftant-glisant din aluminiu Alumil S 700 SUPREME, separat de ferestrele PVC BluEvolution 92. Are foi de până la 600 kg, barieră termică Kooltherm și Uw de la 1,1 W/m²K, iar motorizarea lui e comandată din același hub Somfy TaHoma ca ferestrele.
 
 
 ---
 
-Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Pentru context complet, citește [ghidul de alegere între sistemele Salamander](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [profilul Salamander bluEvolution 92 FLEX](/ro/produse/profil-pvc-bluevolution-92-flex).`,
+Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Pentru context complet, citește [ghidul de alegere între sistemele Salamander](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [profilul Salamander bluEvolution 92 FLEX](/ro/produse/profil-pvc-bluevolution-92-flex).`,
 
       en: `## The Neofort BIZ project — new Nordic-style house, Berceni, Bucharest
 
@@ -22774,8 +22929,8 @@ The version with rounded edges — the most popular for residential houses with 
 ### Terrace lift-and-slide system — Alumil S 700 SUPREME
 
 On the large terraces of detached houses, a classic balcony door is no longer enough. For the terrace we chose the [Alumil S 700 SUPREME](/en/products-alu/alumil-s700-supreme-lift-slide-system) aluminium lift-and-slide system, installed separately from the PVC windows:
-- Sliding sashes of up to **500 kg**, with an almost invisible threshold
-- Kooltherm thermal break, **Uw from 1.0 W/m²K**
+- Sliding sashes of up to **600 kg**, with an almost invisible threshold
+- Kooltherm thermal break, **Uw from 1.1 W/m²K**
 - Integrated motorisation, controlled from the same Somfy hub as the windows
 
 ### nZEB installation with Blaugelb Triotherm+ pre-frames
@@ -22847,12 +23002,12 @@ BluEvolution 92 offers sound insulation of up to 47 dB, ensuring complete quiet 
 
 ### Which system did you install on the terrace of the Berceni house?
 
-On the terrace we installed the Alumil S 700 SUPREME aluminium lift-and-slide system, separate from the BluEvolution 92 PVC windows. It has sashes of up to 500 kg, a Kooltherm thermal break and Uw from 1.0 W/m²K, and its motorisation is controlled from the same Somfy TaHoma hub as the windows.
+On the terrace we installed the Alumil S 700 SUPREME aluminium lift-and-slide system, separate from the BluEvolution 92 PVC windows. It has sashes of up to 600 kg, a Kooltherm thermal break and Uw from 1.1 W/m²K, and its motorisation is controlled from the same Somfy TaHoma hub as the windows.
 
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). For the full picture, read the [guide to choosing between Salamander systems](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile) and [the Salamander bluEvolution 92 FLEX profile](/en/products/bluevolution-92-flex-pvc-profile).`,
+Neofort BIZ supplies and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). For the full picture, read the [guide to choosing between Salamander systems](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile) and [the Salamander bluEvolution 92 FLEX profile](/en/products/bluevolution-92-flex-pvc-profile).`,
 
       de: `## Das Projekt von Neofort BIZ — neues Haus im nordischen Stil, Berceni, Bukarest
 
@@ -22902,8 +23057,8 @@ Die Variante mit abgerundeten Kanten — die beliebteste für Wohnhäuser mit mo
 ### Hebeschiebeanlage für die Terrasse — Alumil S 700 SUPREME
 
 Auf den großen Terrassen von Einfamilienhäusern reicht die klassische Balkontür nicht mehr aus. Für die Terrasse haben wir die Aluminium-Hebeschiebeanlage [Alumil S 700 SUPREME](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem) gewählt, getrennt von den Kunststofffenstern montiert:
-- Schiebeflügel bis **500 kg**, mit fast unsichtbarer Schwelle
-- Thermische Trennung Kooltherm, **Uw ab 1,0 W/m²K**
+- Schiebeflügel bis **600 kg**, mit fast unsichtbarer Schwelle
+- Thermische Trennung Kooltherm, **Uw ab 1,1 W/m²K**
 - Integrierte Motorisierung, gesteuert über denselben Somfy-Hub wie die Fenster
 
 ### nZEB-Montage mit dem Vorwandmontagesystem Blaugelb Triotherm+
@@ -22975,12 +23130,12 @@ BluEvolution 92 bietet eine Schalldämmung bis 47 dB und sorgt so selbst an eine
 
 ### Welches System haben Sie auf der Terrasse des Hauses in Berceni eingebaut?
 
-Auf der Terrasse haben wir die Aluminium-Hebeschiebeanlage Alumil S 700 SUPREME eingebaut, getrennt von den Kunststofffenstern BluEvolution 92. Sie hat Flügel bis 500 kg, eine thermische Trennung Kooltherm und Uw ab 1,0 W/m²K; ihre Motorisierung wird über denselben Somfy-TaHoma-Hub gesteuert wie die Fenster.
+Auf der Terrasse haben wir die Aluminium-Hebeschiebeanlage Alumil S 700 SUPREME eingebaut, getrennt von den Kunststofffenstern BluEvolution 92. Sie hat Flügel bis 600 kg, eine thermische Trennung Kooltherm und Uw ab 1,1 W/m²K; ihre Motorisierung wird über denselben Somfy-TaHoma-Hub gesteuert wie die Fenster.
 
 
 ---
 
-Neofort BIZ fertigt und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Überblick lesen Sie den [Leitfaden zur Wahl zwischen den Salamander-Systemen](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [das Salamander-Profil bluEvolution 92 FLEX](/de/produkte/bluevolution-92-flex-pvc-profil).`,
+Neofort BIZ liefert und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Überblick lesen Sie den [Leitfaden zur Wahl zwischen den Salamander-Systemen](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [das Salamander-Profil bluEvolution 92 FLEX](/de/produkte/bluevolution-92-flex-pvc-profil).`,
 
       fr: `## Le chantier Neofort BIZ — maison neuve de style nordique, Berceni, Bucarest
 
@@ -23030,8 +23185,8 @@ La version aux angles arrondis — la plus prisée pour les maisons à l’archi
 ### Coulissant à levage-coulissement pour la terrasse — Alumil S 700 SUPREME
 
 Sur les grandes terrasses des maisons individuelles, la porte-fenêtre classique ne suffit plus. Pour la terrasse, nous avons choisi le système à levage-coulissement en aluminium [Alumil S 700 SUPREME](/fr/produits-alu/systeme-coulissant-alumil-s700-supreme), posé séparément des fenêtres PVC :
-- Vantaux coulissants jusqu’à **500 kg**, avec un seuil presque invisible
-- Rupture thermique Kooltherm, **Uw à partir de 1,0 W/m²K**
+- Vantaux coulissants jusqu’à **600 kg**, avec un seuil presque invisible
+- Rupture thermique Kooltherm, **Uw à partir de 1,1 W/m²K**
 - Motorisation intégrée, pilotée depuis la même box Somfy que les fenêtres
 
 ### Pose nZEB avec précadres Blaugelb Triotherm+
@@ -23103,12 +23258,12 @@ Le BluEvolution 92 offre une isolation acoustique jusqu’à 47 dB, garantissant
 
 ### Quel système avez-vous posé sur la terrasse de la maison de Berceni ?
 
-Sur la terrasse, nous avons posé le système à levage-coulissement en aluminium Alumil S 700 SUPREME, séparé des fenêtres PVC BluEvolution 92. Il a des vantaux jusqu’à 500 kg, une rupture thermique Kooltherm et un Uw à partir de 1,0 W/m²K, et sa motorisation est pilotée depuis la même box Somfy TaHoma que les fenêtres.
+Sur la terrasse, nous avons posé le système à levage-coulissement en aluminium Alumil S 700 SUPREME, séparé des fenêtres PVC BluEvolution 92. Il a des vantaux jusqu’à 600 kg, une rupture thermique Kooltherm et un Uw à partir de 1,1 W/m²K, et sa motorisation est pilotée depuis la même box Somfy TaHoma que les fenêtres.
 
 
 ---
 
-Neofort BIZ fabrique et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Pour une vue d’ensemble, lisez le [guide pour choisir entre les systèmes Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round) et [le profilé Salamander bluEvolution 92 FLEX](/fr/produits/profil-pvc-bluevolution-92-flex).`,
+Neofort BIZ fournit et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Pour une vue d’ensemble, lisez le [guide pour choisir entre les systèmes Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round) et [le profilé Salamander bluEvolution 92 FLEX](/fr/produits/profil-pvc-bluevolution-92-flex).`,
 
       es: `## La obra de Neofort BIZ — casa nueva de estilo nórdico, Berceni, Bucarest
 
@@ -23158,8 +23313,8 @@ La versión de cantos redondeados, la más popular en viviendas de arquitectura 
 ### Corredera elevable para la terraza — Alumil S 700 SUPREME
 
 En las grandes terrazas de las casas unifamiliares, la puerta de balcón clásica ya no basta. Para la terraza elegimos el sistema de corredera elevable de aluminio [Alumil S 700 SUPREME](/es/productos-alu/sistema-corredera-alumil-s700-supreme), montado por separado de las ventanas de PVC:
-- Hojas correderas de hasta **500 kg**, con un umbral casi invisible
-- Rotura de puente térmico Kooltherm, **Uw desde 1,0 W/m²K**
+- Hojas correderas de hasta **600 kg**, con un umbral casi invisible
+- Rotura de puente térmico Kooltherm, **Uw desde 1,1 W/m²K**
 - Motorización integrada, controlada desde el mismo hub Somfy que las ventanas
 
 ### Instalación nZEB con premarcos Blaugelb Triotherm+
@@ -23231,12 +23386,12 @@ BluEvolution 92 ofrece un aislamiento acústico de hasta 47 dB, que garantiza si
 
 ### ¿Qué sistema montaron en la terraza de la casa de Berceni?
 
-En la terraza montamos el sistema de corredera elevable de aluminio Alumil S 700 SUPREME, separado de las ventanas de PVC BluEvolution 92. Tiene hojas de hasta 500 kg, rotura de puente térmico Kooltherm y un Uw desde 1,0 W/m²K, y su motorización se controla desde el mismo hub Somfy TaHoma que las ventanas.
+En la terraza montamos el sistema de corredera elevable de aluminio Alumil S 700 SUPREME, separado de las ventanas de PVC BluEvolution 92. Tiene hojas de hasta 600 kg, rotura de puente térmico Kooltherm y un Uw desde 1,1 W/m²K, y su motorización se controla desde el mismo hub Somfy TaHoma que las ventanas.
 
 
 ---
 
-Neofort BIZ fabrica e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Para tener la visión completa, lea la [guía para elegir entre los sistemas Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round) y [el perfil Salamander bluEvolution 92 FLEX](/es/productos/perfil-pvc-bluevolution-92-flex).`,
+Neofort BIZ suministra e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Para tener la visión completa, lea la [guía para elegir entre los sistemas Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round) y [el perfil Salamander bluEvolution 92 FLEX](/es/productos/perfil-pvc-bluevolution-92-flex).`,
 
       it: `## Il lavoro di Neofort BIZ — casa nuova in stile nordico, Berceni, Bucarest
 
@@ -23286,8 +23441,8 @@ La variante con spigoli arrotondati, la più richiesta per le case dall’archit
 ### Alzante scorrevole per la terrazza — Alumil S 700 SUPREME
 
 Sulle grandi terrazze delle case unifamiliari la classica porta-finestra non basta più. Per la terrazza abbiamo scelto l’alzante scorrevole in alluminio [Alumil S 700 SUPREME](/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme), montato separatamente dalle finestre in PVC:
-- Ante scorrevoli fino a **500 kg**, con soglia quasi invisibile
-- Taglio termico Kooltherm, **Uw da 1,0 W/m²K**
+- Ante scorrevoli fino a **600 kg**, con soglia quasi invisibile
+- Taglio termico Kooltherm, **Uw da 1,1 W/m²K**
 - Motorizzazione integrata, comandata dallo stesso hub Somfy delle finestre
 
 ### Posa nZEB con controtelai Blaugelb Triotherm+
@@ -23359,12 +23514,12 @@ BluEvolution 92 offre un isolamento acustico fino a 47 dB, garantendo silenzio t
 
 ### Quale sistema avete montato sulla terrazza della casa di Berceni?
 
-Sulla terrazza abbiamo montato l’alzante scorrevole in alluminio Alumil S 700 SUPREME, separato dalle finestre in PVC BluEvolution 92. Ha ante fino a 500 kg, taglio termico Kooltherm e Uw da 1,0 W/m²K, e la sua motorizzazione è comandata dallo stesso hub Somfy TaHoma delle finestre.
+Sulla terrazza abbiamo montato l’alzante scorrevole in alluminio Alumil S 700 SUPREME, separato dalle finestre in PVC BluEvolution 92. Ha ante fino a 600 kg, taglio termico Kooltherm e Uw da 1,1 W/m²K, e la sua motorizzazione è comandata dallo stesso hub Somfy TaHoma delle finestre.
 
 
 ---
 
-Neofort BIZ produce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Per il quadro completo, leggete la [guida alla scelta tra i sistemi Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [il profilo Salamander bluEvolution 92 FLEX](/it/prodotti/profilo-pvc-bluevolution-92-flex).`,
+Neofort BIZ fornisce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Per il quadro completo, leggete la [guida alla scelta tra i sistemi Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [il profilo Salamander bluEvolution 92 FLEX](/it/prodotti/profilo-pvc-bluevolution-92-flex).`,
     },
   },
 
@@ -23477,7 +23632,7 @@ O casă la altitudine de 1.000–2.000 m în Alpi sau în zona montană Sinaia-P
 
 **Comanda** a fost plasată prin WhatsApp cu fotografii și dimensiunile golurilor. Clientul din Franța a trimis planurile de arhitectură, am calculat dimensiunile exacte.
 
-**Producția** — 4 săptămâni la fabrica noastră. Profile Salamander BluEvolution 92 ALU în culoarea RAL 7016 antracit mat pe exterior, alb pe interior. Geam triplu Low-E cu argon.
+**Producția** — 4 săptămâni. Profile Salamander BluEvolution 92 ALU în culoarea RAL 7016 antracit mat pe exterior, alb pe interior. Geam triplu Low-E cu argon.
 
 **Transportul** — camion acoperit București → zona alpină Franța. Durată: 3 zile. Transportul s-a ofertat separat.
 
@@ -23533,12 +23688,12 @@ Da. E produsul exact conceput pentru intersecția dintre export, climă extremă
 
 ### Cât durează o livrare în Franța?
 
-Pentru casa de munte din Alpii francezi, producția a durat 4 săptămâni la fabrica noastră, iar transportul cu camion acoperit din București încă 3 zile. Tâmplăria a fost livrată cu Declarație de Conformitate CE, fișă tehnică Salamander și certificat de garanție, toate valabile în UE.
+Pentru casa de munte din Alpii francezi, producția a durat 4 săptămâni, iar transportul cu camion acoperit din București încă 3 zile. Tâmplăria a fost livrată cu Declarație de Conformitate CE, fișă tehnică Salamander și certificat de garanție, toate valabile în UE.
 
 
 ---
 
-Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [contextul complet al exportului de tâmplărie](/ro/blog/tamplarie-salamander-case-individuale-vile-export-europa). Pagini utile: [profilul Salamander bluEvolution 92 ALU](/ro/produse/profil-pvc-bluevolution-92-alu) și [ghidul complet al tâmplăriei PVC](/ro/tamplarie-pvc/ghid-complet).`,
+Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [contextul complet al exportului de tâmplărie](/ro/blog/tamplarie-salamander-case-individuale-vile-export-europa). Pagini utile: [profilul Salamander bluEvolution 92 ALU](/ro/produse/profil-pvc-bluevolution-92-alu) și [ghidul complet al tâmplăriei PVC](/ro/tamplarie-pvc/ghid-complet).`,
 
       en: `## The Neofort BIZ project — export to France, mountain house
 
@@ -23586,7 +23741,7 @@ A house at an altitude of 1,000–2,000 m in the Alps or in the Sinaia-Predeal-B
 
 **The order** was placed via WhatsApp with photos and the opening dimensions. The client in France sent the architectural plans, and we calculated the exact dimensions.
 
-**Production** — 4 weeks at our factory. Salamander BluEvolution 92 ALU profiles in RAL 7016 matt anthracite outside, white inside. Triple Low-E glazing with argon.
+**Production** — 4 weeks. Salamander BluEvolution 92 ALU profiles in RAL 7016 matt anthracite outside, white inside. Triple Low-E glazing with argon.
 
 **Transport** — covered truck Bucharest → French Alps. Duration: 3 days. Transport was quoted separately.
 
@@ -23642,12 +23797,12 @@ Yes. It is the product designed exactly for where export, extreme climate and ma
 
 ### How long does a delivery to France take?
 
-For the mountain house in the French Alps, production took 4 weeks at our factory, and transport by covered truck from Bucharest took another 3 days. The joinery was delivered with a CE Declaration of Conformity, a Salamander technical data sheet and a warranty certificate, all valid in the EU.
+For the mountain house in the French Alps, production took 4 weeks, and transport by covered truck from Bucharest took another 3 days. The joinery was delivered with a CE Declaration of Conformity, a Salamander technical data sheet and a warranty certificate, all valid in the EU.
 
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details are in [the full context of our joinery exports](/en/blog/salamander-windows-individual-houses-villas-europe-export). Useful pages: [the Salamander bluEvolution 92 ALU profile](/en/products/bluevolution-92-alu-pvc-profile) and [the complete guide to PVC joinery](/en/pvc-windows/complete-guide).`,
+Neofort BIZ supplies and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details are in [the full context of our joinery exports](/en/blog/salamander-windows-individual-houses-villas-europe-export). Useful pages: [the Salamander bluEvolution 92 ALU profile](/en/products/bluevolution-92-alu-pvc-profile) and [the complete guide to PVC joinery](/en/pvc-windows/complete-guide).`,
 
       de: `## Das Projekt von Neofort BIZ — Export nach Frankreich, Berghaus
 
@@ -23695,7 +23850,7 @@ Ein Haus auf 1.000–2.000 m Höhe in den Alpen oder im Bergland um Sinaia, Pred
 
 **Die Bestellung** lief über WhatsApp, mit Fotos und den Maßen der Öffnungen. Der Kunde in Frankreich schickte die Architektenpläne, und wir berechneten die genauen Maße.
 
-**Die Fertigung** — 4 Wochen in unserem Werk. Salamander-Profile BluEvolution 92 ALU außen in RAL 7016 Anthrazit matt, innen weiß. Dreifachverglasung Low-E mit Argon.
+**Die Fertigung** — 4 Wochen. Salamander-Profile BluEvolution 92 ALU außen in RAL 7016 Anthrazit matt, innen weiß. Dreifachverglasung Low-E mit Argon.
 
 **Der Transport** — geschlossener Lkw Bukarest → französische Alpen. Dauer: 3 Tage. Der Transport wurde separat angeboten.
 
@@ -23751,12 +23906,12 @@ Ja. Es ist genau das Produkt für den Schnittpunkt von Export, extremem Klima un
 
 ### Wie lange dauert eine Lieferung nach Frankreich?
 
-Für das Berghaus in den französischen Alpen dauerte die Fertigung 4 Wochen in unserem Werk, der Transport im geschlossenen Lkw von Bukarest weitere 3 Tage. Die Fenster wurden mit CE-Konformitätserklärung, technischem Datenblatt von Salamander und Garantiezertifikat geliefert, alles in der EU gültig.
+Für das Berghaus in den französischen Alpen dauerte die Fertigung 4 Wochen, der Transport im geschlossenen Lkw von Bukarest weitere 3 Tage. Die Fenster wurden mit CE-Konformitätserklärung, technischem Datenblatt von Salamander und Garantiezertifikat geliefert, alles in der EU gültig.
 
 
 ---
 
-Neofort BIZ fertigt und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Einzelheiten finden Sie im [vollständigen Überblick über unseren Fensterexport](/de/blog/salamander-fenster-einfamilienhaeuser-villen-europa-export). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ALU](/de/produkte/bluevolution-92-alu-pvc-profil) und [der vollständige Ratgeber zu Kunststofffenstern](/de/kunststofffenster-pvc/kompletter-ratgeber).`,
+Neofort BIZ liefert und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Einzelheiten finden Sie im [vollständigen Überblick über unseren Fensterexport](/de/blog/salamander-fenster-einfamilienhaeuser-villen-europa-export). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ALU](/de/produkte/bluevolution-92-alu-pvc-profil) und [der vollständige Ratgeber zu Kunststofffenstern](/de/kunststofffenster-pvc/kompletter-ratgeber).`,
 
       fr: `## Le chantier Neofort BIZ — export en France, maison de montagne
 
@@ -23804,7 +23959,7 @@ Une maison à 1 000–2 000 m d’altitude dans les Alpes ou dans la zone de mon
 
 **La commande** a été passée par WhatsApp, avec des photos et les dimensions des baies. Le client en France a envoyé les plans d’architecte et nous avons calculé les dimensions exactes.
 
-**La fabrication** — 4 semaines dans notre usine. Profilés Salamander BluEvolution 92 ALU en RAL 7016 anthracite mat à l’extérieur, blanc à l’intérieur. Triple vitrage Low-E à l’argon.
+**La fabrication** — 4 semaines. Profilés Salamander BluEvolution 92 ALU en RAL 7016 anthracite mat à l’extérieur, blanc à l’intérieur. Triple vitrage Low-E à l’argon.
 
 **Le transport** — camion bâché Bucarest → Alpes françaises. Durée : 3 jours. Le transport a fait l’objet d’un devis séparé.
 
@@ -23860,12 +24015,12 @@ Oui. C’est le produit conçu précisément pour la rencontre entre export, cli
 
 ### Combien de temps prend une livraison en France ?
 
-Pour la maison de montagne des Alpes françaises, la fabrication a duré 4 semaines dans notre usine, et le transport en camion bâché depuis Bucarest 3 jours de plus. Les menuiseries ont été livrées avec déclaration de conformité CE, fiche technique Salamander et certificat de garantie, tous valables dans l’UE.
+Pour la maison de montagne des Alpes françaises, la fabrication a duré 4 semaines, et le transport en camion bâché depuis Bucarest 3 jours de plus. Les menuiseries ont été livrées avec déclaration de conformité CE, fiche technique Salamander et certificat de garantie, tous valables dans l’UE.
 
 
 ---
 
-Neofort BIZ fabrique et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans [le contexte complet de nos exportations de menuiseries](/fr/blog/menuiserie-salamander-maisons-individuelles-villas-export-europe). Pages utiles : [le profilé Salamander bluEvolution 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) et [le guide complet de la menuiserie PVC](/fr/menuiserie-pvc/guide-complet).`,
+Neofort BIZ fournit et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans [le contexte complet de nos exportations de menuiseries](/fr/blog/menuiserie-salamander-maisons-individuelles-villas-export-europe). Pages utiles : [le profilé Salamander bluEvolution 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) et [le guide complet de la menuiserie PVC](/fr/menuiserie-pvc/guide-complet).`,
 
       es: `## La obra de Neofort BIZ — exportación a Francia, casa de montaña
 
@@ -23913,7 +24068,7 @@ Una casa a 1.000–2.000 m de altitud en los Alpes o en la zona de montaña de S
 
 **El pedido** se hizo por WhatsApp, con fotos y las medidas de los huecos. El cliente en Francia envió los planos del arquitecto y calculamos las medidas exactas.
 
-**La fabricación**: 4 semanas en nuestra fábrica. Perfiles Salamander BluEvolution 92 ALU en RAL 7016 antracita mate por fuera y blanco por dentro. Triple acristalamiento Low-E con argón.
+**La fabricación**: 4 semanas. Perfiles Salamander BluEvolution 92 ALU en RAL 7016 antracita mate por fuera y blanco por dentro. Triple acristalamiento Low-E con argón.
 
 **El transporte**: camión cubierto Bucarest → Alpes franceses. Duración: 3 días. El transporte se presupuestó aparte.
 
@@ -23969,12 +24124,12 @@ Sí. Es el producto pensado justo para el punto de encuentro entre exportación,
 
 ### ¿Cuánto tarda una entrega en Francia?
 
-Para la casa de montaña de los Alpes franceses, la fabricación duró 4 semanas en nuestra fábrica y el transporte en camión cubierto desde Bucarest, otros 3 días. La carpintería se entregó con declaración de conformidad CE, ficha técnica de Salamander y certificado de garantía, todos válidos en la UE.
+Para la casa de montaña de los Alpes franceses, la fabricación duró 4 semanas y el transporte en camión cubierto desde Bucarest, otros 3 días. La carpintería se entregó con declaración de conformidad CE, ficha técnica de Salamander y certificado de garantía, todos válidos en la UE.
 
 
 ---
 
-Neofort BIZ fabrica e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Todos los detalles en [el contexto completo de nuestras exportaciones de carpintería](/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa). Páginas útiles: [el perfil Salamander bluEvolution 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) y [la guía completa de la carpintería de PVC](/es/carpinteria-pvc/guia-completa).`,
+Neofort BIZ suministra e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Todos los detalles en [el contexto completo de nuestras exportaciones de carpintería](/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa). Páginas útiles: [el perfil Salamander bluEvolution 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) y [la guía completa de la carpintería de PVC](/es/carpinteria-pvc/guia-completa).`,
 
       it: `## Il lavoro di Neofort BIZ — export in Francia, casa di montagna
 
@@ -24022,7 +24177,7 @@ Una casa a 1.000–2.000 m di quota nelle Alpi o nella zona montana di Sinaia-Pr
 
 **L’ordine** è stato fatto via WhatsApp, con foto e misure dei vani. Il cliente in Francia ha inviato i disegni dell’architetto e abbiamo calcolato le misure esatte.
 
-**La produzione**: 4 settimane nel nostro stabilimento. Profili Salamander BluEvolution 92 ALU in RAL 7016 antracite opaco all’esterno e bianco all’interno. Vetro triplo Low-E con argon.
+**La produzione**: 4 settimane. Profili Salamander BluEvolution 92 ALU in RAL 7016 antracite opaco all’esterno e bianco all’interno. Vetro triplo Low-E con argon.
 
 **Il trasporto**: camion telonato Bucarest → Alpi francesi. Durata: 3 giorni. Il trasporto è stato quotato a parte.
 
@@ -24078,12 +24233,12 @@ Sì. È il prodotto pensato proprio per l’incontro tra export, clima estremo e
 
 ### Quanto dura una consegna in Francia?
 
-Per la casa di montagna nelle Alpi francesi, la produzione è durata 4 settimane nel nostro stabilimento e il trasporto in camion telonato da Bucarest altri 3 giorni. I serramenti sono stati consegnati con dichiarazione di conformità CE, scheda tecnica Salamander e certificato di garanzia, tutti validi nell’UE.
+Per la casa di montagna nelle Alpi francesi, la produzione è durata 4 settimane e il trasporto in camion telonato da Bucarest altri 3 giorni. I serramenti sono stati consegnati con dichiarazione di conformità CE, scheda tecnica Salamander e certificato di garanzia, tutti validi nell’UE.
 
 
 ---
 
-Neofort BIZ produce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Tutti i dettagli nel [contesto completo delle nostre esportazioni di serramenti](/it/blog/infissi-salamander-case-individuali-ville-esportazione-europa). Pagine utili: [il profilo Salamander bluEvolution 92 ALU](/it/prodotti/profilo-pvc-bluevolution-92-alu) e [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa).`,
+Neofort BIZ fornisce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Tutti i dettagli nel [contesto completo delle nostre esportazioni di serramenti](/it/blog/infissi-salamander-case-individuali-ville-esportazione-europa). Pagine utili: [il profilo Salamander bluEvolution 92 ALU](/it/prodotti/profilo-pvc-bluevolution-92-alu) e [la guida completa agli infissi in PVC](/it/infissi-pvc/guida-completa).`,
     },
   },
 
@@ -30303,7 +30458,7 @@ Da, mai ales pe ușile de balcon, unde câștigi spațiu în cameră. Se monteaz
 
 ---
 
-Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [comparația completă a profilelor Salamander](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 FLEX](/ro/produse/profil-pvc-bluevolution-92-flex) și [profilul Salamander greenEvolution 76 AD FLEX](/ro/produse/profil-pvc-greenevolution-76-ad-flex).`,
+Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [comparația completă a profilelor Salamander](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 FLEX](/ro/produse/profil-pvc-bluevolution-92-flex) și [profilul Salamander greenEvolution 76 AD FLEX](/ro/produse/profil-pvc-greenevolution-76-ad-flex).`,
 
       en: `## What is a tilt-and-slide window and how does it differ from a tilt-and-turn window?
 
@@ -30460,7 +30615,7 @@ Yes, especially on balcony doors, where you gain room space. It is fitted into t
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details are in the [complete comparison of Salamander profiles](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 FLEX profile](/en/products/bluevolution-92-flex-pvc-profile) and [the Salamander greenEvolution 76 AD FLEX profile](/en/products/greenevolution-76-ad-flex-pvc-profile).`,
+Neofort BIZ supplies and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). All the details are in the [complete comparison of Salamander profiles](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 FLEX profile](/en/products/bluevolution-92-flex-pvc-profile) and [the Salamander greenEvolution 76 AD FLEX profile](/en/products/greenevolution-76-ad-flex-pvc-profile).`,
 
       de: `## Was ist ein Parallel-Schiebe-Kipp-Fenster und wie unterscheidet es sich vom Dreh-Kipp-Fenster?
 
@@ -30617,7 +30772,7 @@ Ja, vor allem bei Balkontüren, wo Sie Platz im Raum gewinnen. Es wird in die vo
 
 ---
 
-Neofort BIZ fertigt und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Einzelheiten finden Sie im [vollständigen Vergleich der Salamander-Profile](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 FLEX](/de/produkte/bluevolution-92-flex-pvc-profil) und [das Salamander-Profil greenEvolution 76 AD FLEX](/de/produkte/greenevolution-76-ad-flex-pvc-profil).`,
+Neofort BIZ liefert und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Einzelheiten finden Sie im [vollständigen Vergleich der Salamander-Profile](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 FLEX](/de/produkte/bluevolution-92-flex-pvc-profil) und [das Salamander-Profil greenEvolution 76 AD FLEX](/de/produkte/greenevolution-76-ad-flex-pvc-profil).`,
 
       fr: `## Qu’est-ce qu’une fenêtre oscillo-coulissante et en quoi diffère-t-elle de l’oscillo-battante ?
 
@@ -30774,7 +30929,7 @@ Oui, surtout pour les portes-fenêtres de balcon, où l’on gagne de la place d
 
 ---
 
-Neofort BIZ fabrique et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans la [comparaison complète des profilés Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 FLEX](/fr/produits/profil-pvc-bluevolution-92-flex) et [le profilé Salamander greenEvolution 76 AD FLEX](/fr/produits/profil-pvc-greenevolution-76-ad-flex).`,
+Neofort BIZ fournit et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Tous les détails dans la [comparaison complète des profilés Salamander](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 FLEX](/fr/produits/profil-pvc-bluevolution-92-flex) et [le profilé Salamander greenEvolution 76 AD FLEX](/fr/produits/profil-pvc-greenevolution-76-ad-flex).`,
 
       es: `## ¿Qué es la ventana oscilo-paralela y en qué se diferencia de la oscilobatiente?
 
@@ -30931,7 +31086,7 @@ Sí, sobre todo en las puertas de balcón, donde se gana espacio en la habitaci�
 
 ---
 
-Neofort BIZ fabrica e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Todos los detalles en la [comparación completa de los perfiles Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 FLEX](/es/productos/perfil-pvc-bluevolution-92-flex) y [el perfil Salamander greenEvolution 76 AD FLEX](/es/productos/perfil-pvc-greenevolution-76-ad-flex).`,
+Neofort BIZ suministra e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Todos los detalles en la [comparación completa de los perfiles Salamander](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 FLEX](/es/productos/perfil-pvc-bluevolution-92-flex) y [el perfil Salamander greenEvolution 76 AD FLEX](/es/productos/perfil-pvc-greenevolution-76-ad-flex).`,
 
       it: `## Che cos’è la finestra scorrevole a ribalta e in cosa si distingue dall’anta ribalta?
 
@@ -31088,7 +31243,7 @@ Sì, soprattutto sulle porte-finestre del balcone, dove si guadagna spazio nella
 
 ---
 
-Neofort BIZ produce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Tutti i dettagli nel [confronto completo dei profili Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 FLEX](/it/prodotti/profilo-pvc-bluevolution-92-flex) e [il profilo Salamander greenEvolution 76 AD FLEX](/it/prodotti/profilo-pvc-greenevolution-76-ad-flex).`,
+Neofort BIZ fornisce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Tutti i dettagli nel [confronto completo dei profili Salamander](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 FLEX](/it/prodotti/profilo-pvc-bluevolution-92-flex) e [il profilo Salamander greenEvolution 76 AD FLEX](/it/prodotti/profilo-pvc-greenevolution-76-ad-flex).`,
     },
   },
   {
@@ -31266,7 +31421,7 @@ Feroneria evolutionDrive Plus+ mută ușor canaturi de până la 200 kg, cu un e
 
 ---
 
-Neofort BIZ produce și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi). Pentru deschideri și mai mari, vezi [sistemul liftant-glisant Alumil S 350 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia) și [sistemul armonic Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme).`,
+Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi). Pentru deschideri și mai mari, vezi [sistemul liftant-glisant Alumil S 350 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia) și [sistemul armonic Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme).`,
 
       en: `## Why the sliding door has become the standard for modern terraces and living rooms
 
@@ -31377,7 +31532,7 @@ The evolutionDrive Plus+ hardware moves sashes of up to 200 kg easily, with effo
 
 ---
 
-Neofort BIZ manufactures and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). See also the [bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile) and [PVC window prices](/en/pvc-windows/prices). For even larger openings, see the [Alumil S 350 SMARTIA lift-and-slide system](/en/products-alu/alumil-s350-smartia-lift-slide-system) and the [Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system).`,
+Neofort BIZ supplies and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). See also the [bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile) and [PVC window prices](/en/pvc-windows/prices). For even larger openings, see the [Alumil S 350 SMARTIA lift-and-slide system](/en/products-alu/alumil-s350-smartia-lift-slide-system) and the [Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system).`,
 
       de: `## Warum die Schiebetür zum Standard für moderne Terrassen und Wohnzimmer geworden ist
 
@@ -31488,7 +31643,7 @@ Der Beschlag von evolutionDrive Plus+ bewegt Flügel bis 200 kg leicht, mit eine
 
 ---
 
-Neofort BIZ fertigt und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Lesen Sie auch den [Vergleich bluEvolution 92 und greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [die Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Für noch größere Öffnungen sehen Sie sich die [Hebeschiebeanlage Alumil S 350 SMARTIA](/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem) und das [Faltsystem Alumil SF 85 SUPREME](/de/produkte-alu/alumil-sf85-supreme-faltsystem) an.`,
+Neofort BIZ liefert und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Lesen Sie auch den [Vergleich bluEvolution 92 und greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [die Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Für noch größere Öffnungen sehen Sie sich die [Hebeschiebeanlage Alumil S 350 SMARTIA](/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem) und das [Faltsystem Alumil SF 85 SUPREME](/de/produkte-alu/alumil-sf85-supreme-faltsystem) an.`,
 
       fr: `## Pourquoi la porte coulissante est devenue la norme pour les terrasses et les séjours modernes
 
@@ -31599,7 +31754,7 @@ La quincaillerie evolutionDrive Plus+ déplace facilement des vantaux jusqu’à
 
 ---
 
-Neofort BIZ fabrique et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Lisez aussi la [comparaison bluEvolution 92 et greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix). Pour des ouvertures encore plus grandes, voyez le [système à levage-coulissement Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia) et le [système pliant Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme).`,
+Neofort BIZ fournit et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Lisez aussi la [comparaison bluEvolution 92 et greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix). Pour des ouvertures encore plus grandes, voyez le [système à levage-coulissement Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia) et le [système pliant Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme).`,
 
       es: `## Por qué la puerta corredera se ha convertido en el estándar para terrazas y salones modernos
 
@@ -31710,7 +31865,7 @@ Los herrajes de evolutionDrive Plus+ mueven con facilidad hojas de hasta 200 kg,
 
 ---
 
-Neofort BIZ fabrica e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Lea también la [comparación entre bluEvolution 92 y greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round) y [los precios de la carpintería de PVC](/es/carpinteria-pvc/precios). Para huecos aún mayores, vea el [sistema de corredera elevable Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia) y el [sistema plegable Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme).`,
+Neofort BIZ suministra e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Lea también la [comparación entre bluEvolution 92 y greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round) y [los precios de la carpintería de PVC](/es/carpinteria-pvc/precios). Para huecos aún mayores, vea el [sistema de corredera elevable Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia) y el [sistema plegable Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme).`,
 
       it: `## Perché la porta scorrevole è diventata lo standard per terrazze e soggiorni moderni
 
@@ -31821,7 +31976,7 @@ La ferramenta di evolutionDrive Plus+ muove con facilità ante fino a 200 kg, co
 
 ---
 
-Neofort BIZ produce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Leggete anche il [confronto tra bluEvolution 92 e greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi). Per aperture ancora più grandi, vedete l’[alzante scorrevole Alumil S 350 SMARTIA](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia) e il [sistema pieghevole Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme).`,
+Neofort BIZ fornisce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Leggete anche il [confronto tra bluEvolution 92 e greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi). Per aperture ancora più grandi, vedete l’[alzante scorrevole Alumil S 350 SMARTIA](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia) e il [sistema pieghevole Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme).`,
     },
   },
 
@@ -33248,12 +33403,12 @@ Neofort BIZ posa scorrevoli Salamander e porte a libro Alumil sulla stessa facci
       it: `Porte d'ingresso antieffrazione con comando tattile e impronta digitale — Guida completa alla sicurezza`,
     },
     excerpt: {
-      ro: 'Ușa de intrare antiefracție cu amprentă digitală combină protecția mecanică certificată (RC 3–RC 4) cu accesul biometric modern — fără chei, fără cilindri vulnerabili. Neofort BIZ fabrică și montează uși din aluminiu și metal cu sisteme tactile de ultimă generație pentru case și vile din București și Ilfov.',
-      en: 'Anti-burglary entry doors with fingerprint control combine certified mechanical protection (RC 3–RC 4) with modern biometric access — no keys, no vulnerable cylinders. Neofort BIZ manufactures and installs aluminium and metal doors with state-of-the-art touch systems for homes in Bucharest and Ilfov.',
-      de: 'Einbruchsichere Eingangstüren mit Fingerabdrucksteuerung kombinieren zertifizierten mechanischen Schutz (RC 3–RC 4) mit modernem biometrischen Zugang — ohne Schlüssel, ohne angreifbare Zylinder. Neofort BIZ fertigt und montiert Aluminium- und Metalltüren mit modernsten Touch-Systemen für Häuser in Bukarest und Ilfov.',
-      fr: `Les portes d'entrée anti-effraction à empreinte digitale combinent une protection mécanique certifiée (RC 3–RC 4) et un accès biométrique moderne — sans clé, sans cylindres vulnérables. Neofort BIZ fabrique et pose des portes en aluminium et métal avec des systèmes tactiles de dernière génération pour maisons et villas à Bucarest et Ilfov.`,
-      es: 'Las puertas de entrada antirrobo con huella dactilar combinan protección mecánica certificada (RC 3–RC 4) con acceso biométrico moderno — sin llaves, sin cilindros vulnerables. Neofort BIZ fabrica e instala puertas de aluminio y metal con sistemas táctiles de última generación para viviendas en Bucarest e Ilfov.',
-      it: `Le porte d'ingresso antieffrazione con impronta digitale combinano protezione meccanica certificata (RC 3–RC 4) con accesso biometrico moderno — senza chiavi, senza cilindri vulnerabili. Neofort BIZ produce e installa porte in alluminio e metallo con sistemi touch di ultima generazione per abitazioni a Bucarest, Ilfov e non solo.`,
+      ro: 'Ușa de intrare antiefracție cu amprentă digitală combină protecția mecanică certificată (RC 3–RC 4) cu accesul biometric modern — fără chei, fără cilindri vulnerabili. Neofort BIZ furnizează și montează uși din aluminiu și metal cu sisteme tactile de ultimă generație pentru case și vile din București și Ilfov.',
+      en: 'Anti-burglary entry doors with fingerprint control combine certified mechanical protection (RC 3–RC 4) with modern biometric access — no keys, no vulnerable cylinders. Neofort BIZ supplies and installs aluminium and metal doors with state-of-the-art touch systems for homes in Bucharest and Ilfov.',
+      de: 'Einbruchsichere Eingangstüren mit Fingerabdrucksteuerung kombinieren zertifizierten mechanischen Schutz (RC 3–RC 4) mit modernem biometrischen Zugang — ohne Schlüssel, ohne angreifbare Zylinder. Neofort BIZ liefert und montiert Aluminium- und Metalltüren mit modernsten Touch-Systemen für Häuser in Bukarest und Ilfov.',
+      fr: `Les portes d'entrée anti-effraction à empreinte digitale combinent une protection mécanique certifiée (RC 3–RC 4) et un accès biométrique moderne — sans clé, sans cylindres vulnérables. Neofort BIZ fournit et pose des portes en aluminium et métal avec des systèmes tactiles de dernière génération pour maisons et villas à Bucarest et Ilfov.`,
+      es: 'Las puertas de entrada antirrobo con huella dactilar combinan protección mecánica certificada (RC 3–RC 4) con acceso biométrico moderno — sin llaves, sin cilindros vulnerables. Neofort BIZ suministra e instala puertas de aluminio y metal con sistemas táctiles de última generación para viviendas en Bucarest e Ilfov.',
+      it: `Le porte d'ingresso antieffrazione con impronta digitale combinano protezione meccanica certificata (RC 3–RC 4) con accesso biometrico moderno — senza chiavi, senza cilindri vulnerabili. Neofort BIZ fornisce e installa porte in alluminio e metallo con sistemi touch di ultima generazione per abitazioni a Bucarest, Ilfov e non solo.`,
     },
     metaDesc: {
       ro: "Uși de intrare antiefracție din aluminiu, cu deschidere prin amprentă digitală. Clasele RC, tipurile de încuietori și integrarea în smart home.",
@@ -33373,9 +33528,9 @@ Sistemele de acces biometric moderne se integrează cu:
 
 ---
 
-## Fabricarea și montajul la Neofort BIZ
+## Furnizarea și montajul la Neofort BIZ
 
-Neofort BIZ fabrică uși antiefracție **la comandă**, personalizate pentru fiecare proiect:
+Neofort BIZ furnizează uși antiefracție **la comandă**, personalizate pentru fiecare proiect:
 
 ### Opțiuni de personalizare
 - **Dimensiuni** — orice dimensiune, inclusiv uși duble și cu supraluminare
@@ -33415,7 +33570,7 @@ Ușile antiefracție moderne combină protecția mecanică (construcție RC 2-RC
 
 ---
 
-Neofort BIZ produce și montează uși de intrare din aluminiu cu barieră termică în București și Ilfov, cu control tactil și amprentă digitală integrate din fabrică. Vezi [gama de aluminiu](/ro/tamplarie-aluminiu) sau [cere o configurație](/ro/contact). Partea de izolare termică e explicată în [ghidul barierei termice](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet). Pagini utile: [sistemul Alumil S 67 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s67-smartia) și [prețurile tâmplăriei din aluminiu](/ro/tamplarie-aluminiu/preturi).`,
+Neofort BIZ furnizează și montează uși de intrare din aluminiu cu barieră termică în București și Ilfov, cu control tactil și amprentă digitală integrate din fabrică. Vezi [gama de aluminiu](/ro/tamplarie-aluminiu) sau [cere o configurație](/ro/contact). Partea de izolare termică e explicată în [ghidul barierei termice](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet). Pagini utile: [sistemul Alumil S 67 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s67-smartia) și [prețurile tâmplăriei din aluminiu](/ro/tamplarie-aluminiu/preturi).`,
 
       en: `## Why the entrance door is the critical security point of a house
 
@@ -33518,9 +33673,9 @@ Modern biometric access systems integrate with:
 
 ---
 
-## Manufacture and installation at Neofort BIZ
+## Supply and installation at Neofort BIZ
 
-Neofort BIZ manufactures security doors **to order**, customised for each project:
+Neofort BIZ supplies security doors **to order**, customised for each project:
 
 ### Customisation options
 - **Dimensions** — any size, including double doors and doors with a transom light
@@ -33560,7 +33715,7 @@ Modern security doors combine mechanical protection (RC 2–RC 4 construction) w
 
 ---
 
-Neofort BIZ manufactures and installs thermally broken aluminium entrance doors in Bucharest and Ilfov, with touch control and fingerprint reader integrated at the factory. See [the aluminium range](/en/aluminium-windows) or [ask for a configuration](/en/contact). The thermal side is explained in [the thermal break guide](/en/blog/aluminium-windows-thermal-break-complete-guide). Useful pages: [the Alumil S 67 SMARTIA system](/en/products-alu/alumil-s67-smartia-aluminium-system) and [aluminium window prices](/en/aluminium-windows/prices).`,
+Neofort BIZ supplies and installs thermally broken aluminium entrance doors in Bucharest and Ilfov, with touch control and fingerprint reader integrated at the factory. See [the aluminium range](/en/aluminium-windows) or [ask for a configuration](/en/contact). The thermal side is explained in [the thermal break guide](/en/blog/aluminium-windows-thermal-break-complete-guide). Useful pages: [the Alumil S 67 SMARTIA system](/en/products-alu/alumil-s67-smartia-aluminium-system) and [aluminium window prices](/en/aluminium-windows/prices).`,
 
       de: `## Warum die Eingangstür der sicherheitskritische Punkt des Hauses ist
 
@@ -33663,9 +33818,9 @@ Moderne biometrische Zutrittssysteme lassen sich einbinden in:
 
 ---
 
-## Fertigung und Montage bei Neofort BIZ
+## Lieferung und Montage bei Neofort BIZ
 
-Neofort BIZ fertigt einbruchhemmende Türen **auf Maß**, individuell für jedes Projekt:
+Neofort BIZ liefert einbruchhemmende Türen **auf Maß**, individuell für jedes Projekt:
 
 ### Individualisierungsmöglichkeiten
 - **Abmessungen** — jede Größe, auch Doppeltüren und Türen mit Oberlicht
@@ -33705,7 +33860,7 @@ Moderne einbruchhemmende Türen verbinden mechanischen Schutz (Konstruktion RC 2
 
 ---
 
-Neofort BIZ fertigt und montiert Aluminium-Eingangstüren mit thermischer Trennung in Bukarest und Ilfov, mit werkseitig integrierter Touch-Bedienung und Fingerabdruckleser. Sehen Sie [das Aluminiumprogramm](/de/aluminiumfenster) oder [fragen Sie eine Konfiguration an](/de/kontakt). Die Wärmedämmung erklärt [der Ratgeber zur thermischen Trennung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Alumil S 67 SMARTIA Aluminiumfenster](/de/produkte-alu/alumil-s67-smartia-aluminiumsystem) und [Preise für Aluminiumfenster](/de/aluminiumfenster/preise).`,
+Neofort BIZ liefert und montiert Aluminium-Eingangstüren mit thermischer Trennung in Bukarest und Ilfov, mit werkseitig integrierter Touch-Bedienung und Fingerabdruckleser. Sehen Sie [das Aluminiumprogramm](/de/aluminiumfenster) oder [fragen Sie eine Konfiguration an](/de/kontakt). Die Wärmedämmung erklärt [der Ratgeber zur thermischen Trennung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Alumil S 67 SMARTIA Aluminiumfenster](/de/produkte-alu/alumil-s67-smartia-aluminiumsystem) und [Preise für Aluminiumfenster](/de/aluminiumfenster/preise).`,
 
       fr: `## Pourquoi la porte d’entrée est le point critique de sécurité d’une maison
 
@@ -33808,9 +33963,9 @@ Les systèmes d’accès biométrique modernes s’intègrent avec :
 
 ---
 
-## Fabrication et pose chez Neofort BIZ
+## Fourniture et pose chez Neofort BIZ
 
-Neofort BIZ fabrique des portes anti-effraction **sur mesure**, personnalisées pour chaque projet :
+Neofort BIZ fournit des portes anti-effraction **sur mesure**, personnalisées pour chaque projet :
 
 ### Options de personnalisation
 - **Dimensions** — toute dimension, y compris portes doubles et portes avec imposte
@@ -33850,7 +34005,7 @@ Les portes anti-effraction modernes associent la protection mécanique (construc
 
 ---
 
-Neofort BIZ fabrique et pose des portes d'entrée en aluminium à rupture thermique à Bucarest et Ilfov, avec commande tactile et lecteur d'empreinte intégrés en usine. Voir [la gamme aluminium](/fr/menuiserie-aluminium) ou [demander une configuration](/fr/contact). La partie thermique est détaillée dans [le guide de la rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Pages utiles : [le système Alumil S 67 SMARTIA](/fr/produits-alu/systeme-aluminium-alumil-s67-smartia) et [les prix de la menuiserie aluminium](/fr/menuiserie-aluminium/prix).`,
+Neofort BIZ fournit et pose des portes d'entrée en aluminium à rupture thermique à Bucarest et Ilfov, avec commande tactile et lecteur d'empreinte intégrés en usine. Voir [la gamme aluminium](/fr/menuiserie-aluminium) ou [demander une configuration](/fr/contact). La partie thermique est détaillée dans [le guide de la rupture thermique](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Pages utiles : [le système Alumil S 67 SMARTIA](/fr/produits-alu/systeme-aluminium-alumil-s67-smartia) et [les prix de la menuiserie aluminium](/fr/menuiserie-aluminium/prix).`,
 
       es: `## Por qué la puerta de entrada es el punto crítico de seguridad de una vivienda
 
@@ -33953,9 +34108,9 @@ Los sistemas de acceso biométrico modernos se integran con:
 
 ---
 
-## Fabricación e instalación en Neofort BIZ
+## Suministro e instalación en Neofort BIZ
 
-Neofort BIZ fabrica puertas antirrobo **a medida**, personalizadas para cada proyecto:
+Neofort BIZ suministra puertas antirrobo **a medida**, personalizadas para cada proyecto:
 
 ### Opciones de personalización
 - **Dimensiones** — cualquier medida, incluidas puertas dobles y con montante superior
@@ -33995,7 +34150,7 @@ Las puertas antirrobo modernas combinan la protección mecánica (construcción 
 
 ---
 
-Neofort BIZ fabrica e instala puertas de entrada de aluminio con rotura de puente térmico en Bucarest e Ilfov, con control táctil y lector de huella integrados de fábrica. Ver [la gama de aluminio](/es/carpinteria-aluminio) o [pedir una configuración](/es/contacto). La parte térmica se explica en [la guía de la rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). Páginas útiles: [el sistema Alumil S 67 SMARTIA](/es/productos-alu/sistema-aluminio-alumil-s67-smartia) y [los precios de la carpintería de aluminio](/es/carpinteria-aluminio/precios).`,
+Neofort BIZ suministra e instala puertas de entrada de aluminio con rotura de puente térmico en Bucarest e Ilfov, con control táctil y lector de huella integrados de fábrica. Ver [la gama de aluminio](/es/carpinteria-aluminio) o [pedir una configuración](/es/contacto). La parte térmica se explica en [la guía de la rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). Páginas útiles: [el sistema Alumil S 67 SMARTIA](/es/productos-alu/sistema-aluminio-alumil-s67-smartia) y [los precios de la carpintería de aluminio](/es/carpinteria-aluminio/precios).`,
 
       it: `## Perché la porta d’ingresso è il punto critico di sicurezza della casa
 
@@ -34098,9 +34253,9 @@ I sistemi di accesso biometrico moderni si integrano con:
 
 ---
 
-## Produzione e posa in Neofort BIZ
+## Fornitura e posa in Neofort BIZ
 
-Neofort BIZ produce porte antieffrazione **su misura**, personalizzate per ogni progetto:
+Neofort BIZ fornisce porte antieffrazione **su misura**, personalizzate per ogni progetto:
 
 ### Opzioni di personalizzazione
 - **Dimensioni** — qualsiasi misura, comprese porte doppie e con sopraluce
@@ -34140,7 +34295,7 @@ Le porte antieffrazione moderne uniscono la protezione meccanica (costruzione RC
 
 ---
 
-Neofort BIZ produce e installa porte d'ingresso in alluminio a taglio termico a Bucarest e Ilfov, con controllo touch e lettore di impronte integrati in fabbrica. Vedi [la gamma in alluminio](/it/infissi-alluminio) oppure [richiedi una configurazione](/it/contatti). La parte termica è spiegata nella [guida al taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa). Pagine utili: [il sistema Alumil S 67 SMARTIA](/it/prodotti-alu/sistema-alluminio-alumil-s67-smartia) e [i prezzi dei serramenti in alluminio](/it/infissi-alluminio/prezzi).`,
+Neofort BIZ fornisce e installa porte d'ingresso in alluminio a taglio termico a Bucarest e Ilfov, con controllo touch e lettore di impronte integrati in fabbrica. Vedi [la gamma in alluminio](/it/infissi-alluminio) oppure [richiedi una configurazione](/it/contatti). La parte termica è spiegata nella [guida al taglio termico](/it/blog/infissi-alluminio-taglio-termico-guida-completa). Pagine utili: [il sistema Alumil S 67 SMARTIA](/it/prodotti-alu/sistema-alluminio-alumil-s67-smartia) e [i prezzi dei serramenti in alluminio](/it/infissi-alluminio/prezzi).`,
     },
   },
 
@@ -36536,7 +36691,7 @@ DoP este documentul obligatoriu emis de producător care declară valorile tehni
 Marcajul CE confirmă că fereastra a fost testată și îndeplinește cerințele standardului european EN 14351-1. Nu este o marcă de calitate, ci o declarație de conformitate obligatorie pentru comercializare în UE.
 
 ### Sunt obligatorii cerințele nZEB la renovări?
-Da, pentru renovări cu autorizație de construire care implică mai mult de 25% din suprafața anvelopei. Dacă schimbi toate ferestrele unui bloc sau case, proiectul trebuie să atingă performanța nZEB.
+Nu în forma completă. Standardul nZEB este obligatoriu pentru clădirile noi. La renovările majore — lucrări la anvelopă sau la instalații care costă peste 25% din valoarea de impozitare a clădirii — Legea 372/2005 cere îmbunătățirea performanței energetice până la cerințele minime, în măsura în care este fezabil tehnic, funcțional și economic.
 
 ### Ce se schimbă concret în 2026 față de 2025?
 Principalele schimbări: DoP digitale cu QR code devin standard, controalele ISC la recepție se intensifică, și noul CPR 2 intră în perioadă de tranziție (producătorii au 3 ani pentru conformare deplină).
@@ -36625,7 +36780,7 @@ The DoP is the mandatory document issued by the manufacturer declaring the teste
 CE marking confirms that the window has been tested and meets the requirements of the European standard EN 14351-1. It is not a quality label but a mandatory declaration of conformity for sale within the EU.
 
 ### Are nZEB requirements mandatory for renovations?
-Yes, for renovations under a construction permit that affect more than 25% of the envelope area. If you replace all the windows of a block or a house, the project has to reach nZEB performance.
+Not in full. The nZEB standard is mandatory for new buildings. For major renovations — work on the envelope or building services costing more than 25% of the building’s taxable value — Law 372/2005 requires the energy performance to be raised to the minimum requirements, as far as this is technically, functionally and economically feasible.
 
 ### What changes concretely in 2026 compared with 2025?
 The main points: digital DoPs with QR codes become the norm, ISC checks at handover intensify, and the new CPR 2 enters its transition period — manufacturers have three years to comply fully.
@@ -36714,7 +36869,7 @@ Die DoP ist das verpflichtende Dokument des Herstellers, das die geprüften tech
 Die CE-Kennzeichnung bestätigt, dass das Fenster geprüft wurde und die Anforderungen der europäischen Norm EN 14351-1 erfüllt. Sie ist kein Gütesiegel, sondern eine für den Verkauf in der EU verpflichtende Konformitätserklärung.
 
 ### Gelten die nZEB-Anforderungen auch bei Sanierungen?
-Ja, bei genehmigungspflichtigen Sanierungen, die mehr als 25 % der Hüllfläche betreffen. Wenn Sie alle Fenster eines Wohnblocks oder Hauses tauschen, muss das Vorhaben die nZEB-Leistung erreichen.
+Nicht vollständig. Der nZEB-Standard ist für Neubauten verpflichtend. Bei größeren Renovierungen — Arbeiten an Gebäudehülle oder Haustechnik, die mehr als 25 % des steuerlichen Gebäudewerts kosten — verlangt das Gesetz 372/2005, die Energieeffizienz auf die Mindestanforderungen anzuheben, soweit dies technisch, funktional und wirtschaftlich machbar ist.
 
 ### Was ändert sich 2026 konkret gegenüber 2025?
 Die wichtigsten Punkte: digitale DoPs mit QR-Code werden zum Standard, die ISC-Kontrollen bei der Abnahme werden verschärft, und die neue CPR 2 tritt in ihre Übergangsphase — Hersteller haben drei Jahre für die vollständige Umstellung.
@@ -36798,7 +36953,7 @@ La DoP est le document obligatoire émis par le fabricant, qui déclare les vale
 Le marquage CE atteste que la fenêtre a été testée et satisfait aux exigences de la norme européenne EN 14351-1. Ce n’est pas un label de qualité, mais une déclaration de conformité obligatoire pour la vente dans l’UE.
 
 ### Les exigences nZEB sont-elles obligatoires en rénovation ?
-Oui, pour les rénovations soumises à permis qui touchent plus de 25 % de la surface de l’enveloppe. Si vous remplacez toutes les fenêtres d’un immeuble ou d’une maison, le projet doit atteindre la performance nZEB.
+Pas entièrement. Le standard nZEB est obligatoire pour les bâtiments neufs. Pour les rénovations importantes — travaux sur l’enveloppe ou les équipements dont le coût dépasse 25 % de la valeur imposable du bâtiment —, la loi 372/2005 impose d’amener la performance énergétique aux exigences minimales, dans la mesure où cela est techniquement, fonctionnellement et économiquement faisable.
 
 ### Qu’est-ce qui change concrètement en 2026 par rapport à 2025 ?
 L’essentiel : les DoP numériques à QR code deviennent la norme, les contrôles de l’ISC à la réception s’intensifient, et le nouveau RPC 2 entre en période de transition — les fabricants disposent de trois ans pour se conformer pleinement.
@@ -36882,7 +37037,7 @@ La DoP es el documento obligatorio emitido por el fabricante que declara los val
 El marcado CE confirma que la ventana ha sido ensayada y cumple los requisitos de la norma europea EN 14351-1. No es un sello de calidad, sino una declaración de conformidad obligatoria para su venta en la UE.
 
 ### ¿Son obligatorios los requisitos nZEB en reformas?
-Sí, en reformas con licencia de obra que afecten a más del 25 % de la superficie de la envolvente. Si cambia todas las ventanas de un bloque o una vivienda, el proyecto debe alcanzar la prestación nZEB.
+No del todo. El estándar nZEB es obligatorio para los edificios nuevos. En las renovaciones importantes — obras en la envolvente o en las instalaciones que cuestan más del 25 % del valor fiscal del edificio — la Ley 372/2005 exige elevar la eficiencia energética hasta los requisitos mínimos, en la medida en que sea técnica, funcional y económicamente viable.
 
 ### ¿Qué cambia concretamente en 2026 frente a 2025?
 Lo esencial: las DoP digitales con código QR se convierten en estándar, los controles de la ISC en la recepción se intensifican y el nuevo RPC 2 entra en su periodo transitorio — los fabricantes disponen de tres años para adaptarse por completo.
@@ -36966,7 +37121,7 @@ La DoP è il documento obbligatorio emesso dal fabbricante che dichiara i valori
 La marcatura CE attesta che la finestra è stata provata e soddisfa i requisiti della norma europea EN 14351-1. Non è un marchio di qualità, ma una dichiarazione di conformità obbligatoria per la vendita nell’UE.
 
 ### I requisiti nZEB sono obbligatori nelle ristrutturazioni?
-Sì, per le ristrutturazioni soggette a permesso che interessano più del 25 % della superficie dell’involucro. Se sostituite tutte le finestre di un condominio o di una casa, l’intervento deve raggiungere la prestazione nZEB.
+Non del tutto. Lo standard nZEB è obbligatorio per gli edifici nuovi. Nelle ristrutturazioni importanti — lavori sull’involucro o sugli impianti che costano più del 25 % del valore imponibile dell’edificio — la Legge 372/2005 richiede di portare la prestazione energetica ai requisiti minimi, nella misura in cui sia tecnicamente, funzionalmente ed economicamente fattibile.
 
 ### Che cosa cambia concretamente nel 2026 rispetto al 2025?
 I punti principali: le DoP digitali con codice QR diventano lo standard, i controlli dell’ISC al collaudo si intensificano e il nuovo CPR 2 entra nel periodo transitorio — i fabbricanti hanno tre anni per adeguarsi completamente.
@@ -37048,10 +37203,11 @@ Neofort BIZ fornisce esclusivamente prodotti con marcatura CE e DoP completa. [R
 
 Fereastra PVC modernă, cu profile certificate și montaj profesional, are o **durată de viață de 30–50 de ani** în condiții normale de utilizare. Feroneria (balamale, cremoane, închideri) necesită înlocuire după 15–20 de ani, dar profilul și geamul rămân funcționale mult mai mult.
 
-**Duratele de viață garantate de Neofort BIZ:**
-- **Profile PVC Salamander bluEvolution:** garanție 5 ani, durată estimată 40–50 ani
-- **Geam termoizolant triplu argon:** garanție 5 ani la etanșeitate, durată estimată 30–40 ani
-- **Feronerie Roto/Winkhaus:** garanție 2 ani, durată estimată 15–25 ani (cu mentenanță)
+**Garanție și durată de viață estimată:**
+- **Profile PVC Salamander bluEvolution:** garanție 5–10 ani, durată estimată 40–50 ani
+- **Geam termoizolant triplu argon:** durată estimată 30–40 ani
+- **Feronerie Roto/Winkhaus:** durată estimată 15–25 ani (cu mentenanță)
+- **Montaj Neofort BIZ:** garanție 2 ani, cu certificat de garanție scris
 
 **De ce unele ferestre cedează mai repede?**
 
@@ -37135,7 +37291,7 @@ Apartament 50 m², 6 ferestre cu dublu vechi (Uw = 2,0) → înlocuire cu triplu
 ## FAQ — Durată ferestre PVC
 
 ### Cât durează ferestrele PVC Salamander?
-Profilul PVC Salamander are o durată de viață estimată de 40–50 de ani în condiții normale. Garanția comercială acordată de Neofort BIZ este de 5 ani. Feroneria necesită înlocuire sau service după 15–20 ani.
+Profilul PVC Salamander are o durată de viață estimată de 40–50 de ani în condiții normale. Garanția acordată de Neofort BIZ este de 5–10 ani pe profil și 2 ani pe montaj, cu certificat scris. Feroneria necesită înlocuire sau service după 15–20 ani.
 
 ### Se pot înlocui doar geamurile fără a schimba rama?
 Da, dacă rama/profilul sunt în stare bună. Un pachet de geam nou costă circa 50–100 EUR față de 230–345 EUR pentru fereastra completă. Meșterul verifică dacă fălțul ramei permite un pachet mai gros (ex: triplu în loc de dublu).
@@ -37156,15 +37312,16 @@ Orientativ, fără TVA, după listele de prețuri ale service-urilor din Bucure�
 - [Tripan vs Termopan: cât economisești real la încălzire?](/ro/blog/tripan-vs-termopan-economii-reale-incalzire-pret)
 - [Legislație 2026: Ce se schimbă pentru produsele de construcții](/ro/blog/legislatie-2026-produse-constructii-regulament-european)
 
-Neofort BIZ montează ferestre PVC Salamander cu garanție 5 ani și service în București și Ilfov. [Solicită ofertă sau service](/ro/contact). Află mai multe despre [sistemele PVC Salamander](/ro/tamplarie-pvc) pe care le oferim. Pentru înlocuire fără desfacerea tencuielii se folosește [tocul de renovare PVC](/ro/accesorii/toc-de-renovare-pvc); nivelurile de preț sunt la [prețuri tâmplărie PVC](/ro/tamplarie-pvc/preturi).`,
+Neofort BIZ montează ferestre PVC Salamander cu garanție scrisă și service în București și Ilfov. [Solicită ofertă sau service](/ro/contact). Află mai multe despre [sistemele PVC Salamander](/ro/tamplarie-pvc) pe care le oferim. Pentru înlocuire fără desfacerea tencuielii se folosește [tocul de renovare PVC](/ro/accesorii/toc-de-renovare-pvc); nivelurile de preț sunt la [prețuri tâmplărie PVC](/ro/tamplarie-pvc/preturi).`,
       en: `## How long does a PVC window last in normal conditions?
 
 A modern PVC window, with certified profiles and professional installation, has a **service life of 30–50 years** under normal use. The hardware — hinges, locking gear, closing mechanisms — needs replacing after 15–20 years, but the profile and the glazing stay serviceable far longer.
 
-**Service lives guaranteed by Neofort BIZ:**
-- **Salamander bluEvolution PVC profiles:** 5-year warranty, estimated life 40–50 years
-- **Triple argon insulating glass:** 5-year warranty on the seal, estimated life 30–40 years
-- **Roto/Winkhaus hardware:** 2-year warranty, estimated life 15–25 years with maintenance
+**Warranty and estimated service life:**
+- **Salamander bluEvolution PVC profiles:** 5–10 year warranty, estimated life 40–50 years
+- **Triple argon insulating glass:** estimated life 30–40 years
+- **Roto/Winkhaus hardware:** estimated life 15–25 years with maintenance
+- **Neofort BIZ installation:** 2-year warranty, with a written warranty certificate
 
 **Why do some windows fail sooner?**
 
@@ -37248,7 +37405,7 @@ A 50 m² apartment with 6 old double-glazed windows (Uw = 2.0), replaced with tr
 ## FAQ — PVC window service life
 
 ### How long do Salamander PVC windows last?
-The Salamander PVC profile has an estimated service life of 40–50 years under normal conditions. The commercial warranty from Neofort BIZ is 5 years. The hardware needs replacing or servicing after 15–20 years.
+The Salamander PVC profile has an estimated service life of 40–50 years under normal conditions. The Neofort BIZ warranty is 5–10 years on the profile and 2 years on installation, with a written certificate. The hardware needs replacing or servicing after 15–20 years.
 
 ### Can the glazing be replaced without changing the frame?
 Yes, if the frame and profile are in good condition. A new glazing unit costs about 50–100 EUR against 230–345 EUR for a complete window. The installer checks whether the frame rebate allows a thicker unit, for instance triple instead of double.
@@ -37266,15 +37423,16 @@ As a guide, excluding VAT, based on the 2026 price lists of Bucharest service co
 
 Related: [Window Thermal Coefficient Guide 2026](/en/blog/what-thermal-coefficient-should-windows-have) · [Triple vs Double Glazing Savings](/en/blog/triple-vs-double-glazing-real-savings-heating-cost)
 
-Neofort BIZ installs Salamander PVC windows with 5-year warranty and service in Bucharest and Ilfov. [Request quote or service](/en/contact). Learn more about the [Salamander PVC systems](/en/pvc-windows) we offer. Replacement without disturbing the plaster uses [the PVC renovation frame](/en/accessories/pvc-renovation-frame); the price levels are at [PVC joinery prices](/en/pvc-windows/prices). Rules change too — see [what changes for construction products in 2026](/en/blog/construction-products-legislation-2026-eu-regulation).`,
+Neofort BIZ installs Salamander PVC windows with a written warranty and service in Bucharest and Ilfov. [Request quote or service](/en/contact). Learn more about the [Salamander PVC systems](/en/pvc-windows) we offer. Replacement without disturbing the plaster uses [the PVC renovation frame](/en/accessories/pvc-renovation-frame); the price levels are at [PVC joinery prices](/en/pvc-windows/prices). Rules change too — see [what changes for construction products in 2026](/en/blog/construction-products-legislation-2026-eu-regulation).`,
       de: `## Wie lange hält ein PVC-Fenster unter normalen Bedingungen?
 
 Ein modernes PVC-Fenster mit zertifizierten Profilen und fachgerechter Montage hat bei normaler Nutzung eine **Lebensdauer von 30–50 Jahren**. Der Beschlag — Bänder, Getriebe, Verschlüsse — muss nach 15–20 Jahren ersetzt werden, Profil und Verglasung bleiben deutlich länger funktionsfähig.
 
-**Von Neofort BIZ zugesicherte Lebensdauern:**
-- **Salamander bluEvolution PVC-Profile:** 5 Jahre Garantie, geschätzte Lebensdauer 40–50 Jahre
-- **Dreifach-Isolierglas mit Argon:** 5 Jahre Garantie auf die Dichtheit, geschätzte Lebensdauer 30–40 Jahre
-- **Roto/Winkhaus Beschlag:** 2 Jahre Garantie, geschätzte Lebensdauer 15–25 Jahre bei Wartung
+**Garantie und geschätzte Lebensdauer:**
+- **Salamander bluEvolution PVC-Profile:** 5–10 Jahre Garantie, geschätzte Lebensdauer 40–50 Jahre
+- **Dreifach-Isolierglas mit Argon:** geschätzte Lebensdauer 30–40 Jahre
+- **Roto/Winkhaus Beschlag:** geschätzte Lebensdauer 15–25 Jahre bei Wartung
+- **Montage durch Neofort BIZ:** 2 Jahre Garantie, mit schriftlichem Garantieschein
 
 **Warum versagen manche Fenster früher?**
 
@@ -37358,7 +37516,7 @@ Eine 50-m²-Wohnung mit 6 alten Zweifachfenstern (Uw = 2,0), ersetzt durch Dreif
 ## FAQ — Lebensdauer von PVC-Fenstern
 
 ### Wie lange halten Salamander PVC-Fenster?
-Das Salamander PVC-Profil hat unter normalen Bedingungen eine geschätzte Lebensdauer von 40–50 Jahren. Die kaufmännische Garantie von Neofort BIZ beträgt 5 Jahre. Der Beschlag muss nach 15–20 Jahren getauscht oder gewartet werden.
+Das Salamander PVC-Profil hat unter normalen Bedingungen eine geschätzte Lebensdauer von 40–50 Jahren. Die Garantie von Neofort BIZ beträgt 5–10 Jahre auf das Profil und 2 Jahre auf die Montage, mit schriftlichem Garantieschein. Der Beschlag muss nach 15–20 Jahren getauscht oder gewartet werden.
 
 ### Kann man nur die Verglasung tauschen, ohne den Rahmen?
 Ja, wenn Rahmen und Profil in gutem Zustand sind. Eine neue Glaseinheit kostet etwa 50–100 EUR gegenüber 230–345 EUR für ein komplettes Fenster. Der Monteur prüft, ob der Glasfalz eine dickere Einheit zulässt, etwa Dreifach statt Zweifach.
@@ -37374,15 +37532,16 @@ Als Richtwert ohne MwSt., nach den Preislisten Bukarester Servicefirmen 2026: Be
 
 ---
 
-Neofort BIZ montiert Salamander PVC-Fenster mit 5 Jahren Garantie in Bukarest und Ilfov. [Angebot oder Service anfragen](/de/kontakt). Erfahren Sie mehr über die [Salamander-PVC-Systeme](/de/kunststofffenster-pvc), die wir anbieten. Für den Austausch ohne Putzarbeiten wird [der PVC-Renovierungsrahmen](/de/zubehoer/pvc-renovierungsrahmen) verwendet; die Preisniveaus stehen unter [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Auch die Vorschriften ändern sich — siehe [was sich 2026 für Bauprodukte ändert](/de/blog/bauprodukte-gesetzgebung-2026-eu-verordnung-aenderungen).`,
+Neofort BIZ montiert Salamander PVC-Fenster mit schriftlicher Garantie in Bukarest und Ilfov. [Angebot oder Service anfragen](/de/kontakt). Erfahren Sie mehr über die [Salamander-PVC-Systeme](/de/kunststofffenster-pvc), die wir anbieten. Für den Austausch ohne Putzarbeiten wird [der PVC-Renovierungsrahmen](/de/zubehoer/pvc-renovierungsrahmen) verwendet; die Preisniveaus stehen unter [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Auch die Vorschriften ändern sich — siehe [was sich 2026 für Bauprodukte ändert](/de/blog/bauprodukte-gesetzgebung-2026-eu-verordnung-aenderungen).`,
       fr: `## Combien de temps dure une fenêtre PVC dans des conditions normales ?
 
 Une fenêtre PVC moderne, avec des profilés certifiés et une pose professionnelle, a une **durée de vie de 30 à 50 ans** en usage normal. La quincaillerie — paumelles, crémones, systèmes de fermeture — demande un remplacement au bout de 15 à 20 ans, mais le profilé et le vitrage restent fonctionnels bien plus longtemps.
 
-**Durées de vie garanties par Neofort BIZ :**
-- **Profilés PVC Salamander bluEvolution :** garantie 5 ans, durée estimée 40 à 50 ans
-- **Vitrage isolant triple à l’argon :** garantie 5 ans sur l’étanchéité, durée estimée 30 à 40 ans
-- **Quincaillerie Roto/Winkhaus :** garantie 2 ans, durée estimée 15 à 25 ans avec entretien
+**Garantie et durée de vie estimée :**
+- **Profilés PVC Salamander bluEvolution :** garantie 5 à 10 ans, durée estimée 40 à 50 ans
+- **Vitrage isolant triple à l’argon :** durée estimée 30 à 40 ans
+- **Quincaillerie Roto/Winkhaus :** durée estimée 15 à 25 ans avec entretien
+- **Pose Neofort BIZ :** garantie 2 ans, avec certificat de garantie écrit
 
 **Pourquoi certaines fenêtres cèdent-elles plus tôt ?**
 
@@ -37466,7 +37625,7 @@ Un appartement de 50 m² avec 6 anciennes fenêtres à double vitrage (Uw = 2,0)
 ## FAQ — Durée de vie des fenêtres PVC
 
 ### Combien de temps durent les fenêtres PVC Salamander ?
-Le profilé PVC Salamander a une durée de vie estimée de 40 à 50 ans dans des conditions normales. La garantie commerciale accordée par Neofort BIZ est de 5 ans. La quincaillerie demande un remplacement ou un entretien après 15 à 20 ans.
+Le profilé PVC Salamander a une durée de vie estimée de 40 à 50 ans dans des conditions normales. La garantie accordée par Neofort BIZ est de 5 à 10 ans sur le profilé et 2 ans sur la pose, avec certificat écrit. La quincaillerie demande un remplacement ou un entretien après 15 à 20 ans.
 
 ### Peut-on remplacer uniquement le vitrage sans changer le dormant ?
 Oui, si le dormant et le profilé sont en bon état. Une unité vitrée neuve coûte environ 50 à 100 EUR contre 230 à 345 EUR pour une fenêtre complète. Le poseur vérifie si la feuillure permet une unité plus épaisse, par exemple du triple à la place du double.
@@ -37482,15 +37641,16 @@ Cela dépend de l’état du profilé et de la performance thermique actuelle. S
 
 ---
 
-Neofort BIZ pose des fenêtres PVC Salamander avec 5 ans de garantie à Bucarest et Ilfov. [Demander un devis ou un service](/fr/contact). En savoir plus sur les [systèmes PVC Salamander](/fr/menuiserie-pvc) que nous proposons. Pour un remplacement sans toucher à l'enduit, on utilise [le dormant de rénovation PVC](/fr/accessoires/cadre-renovation-pvc) ; les niveaux de prix sont sur [prix menuiserie PVC](/fr/menuiserie-pvc/prix). La réglementation évolue aussi — voir [ce qui change pour les produits de construction en 2026](/fr/blog/legislation-2026-produits-construction-reglement-europeen).`,
+Neofort BIZ pose des fenêtres PVC Salamander avec garantie écrite à Bucarest et Ilfov. [Demander un devis ou un service](/fr/contact). En savoir plus sur les [systèmes PVC Salamander](/fr/menuiserie-pvc) que nous proposons. Pour un remplacement sans toucher à l'enduit, on utilise [le dormant de rénovation PVC](/fr/accessoires/cadre-renovation-pvc) ; les niveaux de prix sont sur [prix menuiserie PVC](/fr/menuiserie-pvc/prix). La réglementation évolue aussi — voir [ce qui change pour les produits de construction en 2026](/fr/blog/legislation-2026-produits-construction-reglement-europeen).`,
       es: `## ¿Cuánto dura una ventana de PVC en condiciones normales?
 
 Una ventana de PVC moderna, con perfiles certificados e instalación profesional, tiene una **vida útil de 30 a 50 años** en uso normal. La herrajería — bisagras, cremonas, sistemas de cierre — necesita sustitución a los 15 o 20 años, pero el perfil y el vidrio siguen siendo funcionales mucho más tiempo.
 
-**Vidas útiles garantizadas por Neofort BIZ:**
-- **Perfiles PVC Salamander bluEvolution:** garantía de 5 años, duración estimada de 40 a 50 años
-- **Vidrio aislante triple con argón:** garantía de 5 años en la estanqueidad, duración estimada de 30 a 40 años
-- **Herrajería Roto/Winkhaus:** garantía de 2 años, duración estimada de 15 a 25 años con mantenimiento
+**Garantía y vida útil estimada:**
+- **Perfiles PVC Salamander bluEvolution:** garantía de 5–10 años, duración estimada de 40 a 50 años
+- **Vidrio aislante triple con argón:** duración estimada de 30 a 40 años
+- **Herrajería Roto/Winkhaus:** duración estimada de 15 a 25 años con mantenimiento
+- **Instalación Neofort BIZ:** garantía de 2 años, con certificado de garantía escrito
 
 **¿Por qué algunas ventanas fallan antes?**
 
@@ -37574,7 +37734,7 @@ Un piso de 50 m² con 6 ventanas antiguas de doble vidrio (Uw = 2,0), sustituida
 ## FAQ — Vida útil de las ventanas de PVC
 
 ### ¿Cuánto duran las ventanas de PVC Salamander?
-El perfil de PVC Salamander tiene una vida útil estimada de 40 a 50 años en condiciones normales. La garantía comercial de Neofort BIZ es de 5 años. La herrajería necesita sustitución o revisión a los 15 o 20 años.
+El perfil de PVC Salamander tiene una vida útil estimada de 40 a 50 años en condiciones normales. La garantía de Neofort BIZ es de 5–10 años en el perfil y 2 años en la instalación, con certificado escrito. La herrajería necesita sustitución o revisión a los 15 o 20 años.
 
 ### ¿Se pueden cambiar solo los vidrios sin tocar el marco?
 Sí, si el marco y el perfil están en buen estado. Una unidad de vidrio nueva cuesta unos 50 a 100 EUR frente a 230 a 345 EUR de una ventana completa. El instalador comprueba si el galce del marco admite una unidad más gruesa, por ejemplo triple en lugar de doble.
@@ -37590,15 +37750,16 @@ De forma orientativa, sin IVA, según las tarifas 2026 de los servicios técnico
 
 ---
 
-Neofort BIZ instala ventanas PVC Salamander con 5 años de garantía en Bucarest e Ilfov. [Solicitar presupuesto o servicio](/es/contacto). Más información sobre los [sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos. Para sustituir sin tocar el revoco se usa [el marco de renovación PVC](/es/accesorios/marco-renovacion-pvc); los niveles de precio están en [precios de carpintería PVC](/es/carpinteria-pvc/precios). La normativa también cambia — consulta [qué cambia para los productos de construcción en 2026](/es/blog/legislacion-2026-productos-construccion-reglamento-europeo).`,
+Neofort BIZ instala ventanas PVC Salamander con garantía escrita en Bucarest e Ilfov. [Solicitar presupuesto o servicio](/es/contacto). Más información sobre los [sistemas PVC Salamander](/es/carpinteria-pvc) que ofrecemos. Para sustituir sin tocar el revoco se usa [el marco de renovación PVC](/es/accesorios/marco-renovacion-pvc); los niveles de precio están en [precios de carpintería PVC](/es/carpinteria-pvc/precios). La normativa también cambia — consulta [qué cambia para los productos de construcción en 2026](/es/blog/legislacion-2026-productos-construccion-reglamento-europeo).`,
       it: `## Quanto dura una finestra in PVC in condizioni normali?
 
 Una finestra in PVC moderna, con profili certificati e posa professionale, ha una **durata di 30–50 anni** in uso normale. La ferramenta — cerniere, cremonesi, sistemi di chiusura — richiede sostituzione dopo 15–20 anni, ma profilo e vetro restano funzionali molto più a lungo.
 
-**Durate garantite da Neofort BIZ:**
-- **Profili PVC Salamander bluEvolution:** garanzia 5 anni, durata stimata 40–50 anni
-- **Vetrocamera tripla con argon:** garanzia 5 anni sulla tenuta, durata stimata 30–40 anni
-- **Ferramenta Roto/Winkhaus:** garanzia 2 anni, durata stimata 15–25 anni con manutenzione
+**Garanzia e durata stimata:**
+- **Profili PVC Salamander bluEvolution:** garanzia 5–10 anni, durata stimata 40–50 anni
+- **Vetrocamera tripla con argon:** durata stimata 30–40 anni
+- **Ferramenta Roto/Winkhaus:** durata stimata 15–25 anni con manutenzione
+- **Posa Neofort BIZ:** garanzia 2 anni, con certificato di garanzia scritto
 
 **Perché alcune finestre cedono prima?**
 
@@ -37682,7 +37843,7 @@ Un appartamento di 50 m² con 6 vecchie finestre a doppio vetro (Uw = 2,0), sost
 ## FAQ — Durata delle finestre in PVC
 
 ### Quanto durano le finestre in PVC Salamander?
-Il profilo in PVC Salamander ha una durata stimata di 40–50 anni in condizioni normali. La garanzia commerciale di Neofort BIZ è di 5 anni. La ferramenta richiede sostituzione o manutenzione dopo 15–20 anni.
+Il profilo in PVC Salamander ha una durata stimata di 40–50 anni in condizioni normali. La garanzia di Neofort BIZ è di 5–10 anni sul profilo e 2 anni sulla posa, con certificato scritto. La ferramenta richiede sostituzione o manutenzione dopo 15–20 anni.
 
 ### Si possono sostituire solo i vetri senza cambiare il telaio?
 Sì, se telaio e profilo sono in buono stato. Una vetrocamera nuova costa circa 50–100 EUR contro 230–345 EUR di una finestra completa. Il posatore verifica se la battuta del telaio consente uno spessore maggiore, per esempio triplo al posto del doppio.
@@ -37698,7 +37859,7 @@ Indicativamente, IVA esclusa, secondo i listini 2026 dei centri di assistenza di
 
 ---
 
-Neofort BIZ installa finestre PVC Salamander con 5 anni di garanzia a Bucarest e Ilfov. [Richiedi preventivo o servizio](/it/contatti). Scopri di più sui [sistemi PVC Salamander](/it/infissi-pvc) che offriamo. Per sostituire senza toccare l'intonaco si usa [il telaio di ristrutturazione in PVC](/it/accessori/telaio-ristrutturazione-pvc); i livelli di prezzo sono su [prezzi infissi in PVC](/it/infissi-pvc/prezzi). Cambia anche la normativa — vedi [che cosa cambia per i prodotti da costruzione nel 2026](/it/blog/legislazione-2026-prodotti-costruzione-regolamento-europeo).`,
+Neofort BIZ installa finestre PVC Salamander con garanzia scritta a Bucarest e Ilfov. [Richiedi preventivo o servizio](/it/contatti). Scopri di più sui [sistemi PVC Salamander](/it/infissi-pvc) che offriamo. Per sostituire senza toccare l'intonaco si usa [il telaio di ristrutturazione in PVC](/it/accessori/telaio-ristrutturazione-pvc); i livelli di prezzo sono su [prezzi infissi in PVC](/it/infissi-pvc/prezzi). Cambia anche la normativa — vedi [che cosa cambia per i prodotti da costruzione nel 2026](/it/blog/legislazione-2026-prodotti-costruzione-regolamento-europeo).`,
     },
   },
   {

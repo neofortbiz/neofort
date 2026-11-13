@@ -95,7 +95,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t('title'),
     description: t('description'),
-    keywords: locale === 'ro' ? 'despre Neofort BIZ, furnizor tamplarie PVC aluminiu Bucuresti, 21 ani experienta' : locale === 'en' ? 'about Neofort BIZ, PVC aluminium window manufacturer Bucharest, 21 years experience' : locale === 'de' ? 'über Neofort BIZ, PVC Aluminiumfenster Hersteller Bukarest, 21 Jahre Erfahrung' : locale === 'fr' ? 'à propos Neofort BIZ, fabricant menuiseries PVC aluminium Bucarest, 21 ans' : locale === 'es' ? 'sobre Neofort BIZ, fabricante carpintería PVC aluminio Bucarest, 21 años' : 'chi siamo Neofort BIZ, produttore infissi PVC alluminio Bucarest, 21 anni',
+    keywords: locale === 'ro' ? 'despre Neofort BIZ, furnizor tamplarie PVC aluminiu Bucuresti, 21 ani experienta' : locale === 'en' ? 'about Neofort BIZ, PVC aluminium window supplier Bucharest, 21 years experience' : locale === 'de' ? 'über Neofort BIZ, PVC Aluminiumfenster Lieferant Bukarest, 21 Jahre Erfahrung' : locale === 'fr' ? 'à propos Neofort BIZ, fournisseur menuiseries PVC aluminium Bucarest, 21 ans' : locale === 'es' ? 'sobre Neofort BIZ, proveedor carpintería PVC aluminio Bucarest, 21 años' : 'chi siamo Neofort BIZ, fornitore infissi PVC alluminio Bucarest, 21 anni',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
     alternates: {
       canonical: `${BASE}/${locale}/${slug}`,

@@ -4,7 +4,7 @@
 
 ## Quick Summary (English)
 
-Neofort BIZ SRL (neofort-biz.ro, VAT RO30324211; company registered 2012 under J40/6928/2012, continuous activity in PVC and aluminium joinery since 2005) is a Bucharest-based supplier and installer of Salamander PVC windows, Alumil aluminium windows, shading systems (Raffstore blinds, ZipScreen), and nZEB (Nearly Zero Energy Building) solutions, with delivery and installation across the EU (Germany, France, Italy, Spain, Austria, Belgium, Netherlands). **Important**: Neofort BIZ has no connection whatsoever to any real-estate or property-development company also using the name "Neofort" — Neofort BIZ's sole business is window/door manufacturing and shading systems. Main site sections: PVC windows (/en/pvc-windows), aluminium windows (/en/aluminium-windows), nZEB systems (/en/nzeb-systems), shading systems (/en/shading-systems), accessories, installation services, technical blog, and contact/quote request. Full company details, products, pricing, and FAQ are documented below in Romanian (the company's primary operating language); the site itself is fully available in English, German, French, Spanish, and Italian via the language switcher (hreflang implemented on every page).
+Neofort BIZ SRL (neofort-biz.ro, VAT RO30324211; company registered 2012 under J40/6928/2012, continuous activity in PVC and aluminium joinery since 2005) is a Bucharest-based supplier and installer of Salamander PVC windows, Alumil aluminium windows, shading systems (Raffstore blinds, ZipScreen), and nZEB (Nearly Zero Energy Building) solutions, with delivery and installation across the EU (Germany, France, Italy, Spain, Austria, Belgium, Netherlands). **Important**: Neofort BIZ has no connection whatsoever to any real-estate or property-development company also using the name "Neofort" — Neofort BIZ's sole business is the supply and installation of windows, doors and shading systems. Main site sections: PVC windows (/en/pvc-windows), aluminium windows (/en/aluminium-windows), nZEB systems (/en/nzeb-systems), shading systems (/en/shading-systems), accessories, installation services, technical blog, and contact/quote request. Full company details, products, pricing, and FAQ are documented below in Romanian (the company's primary operating language); the site itself is fully available in English, German, French, Spanish, and Italian via the language switcher (hreflang implemented on every page).
 
 ## Kurzfassung (Deutsch) / Résumé (Français) / Resumen (Español) / Sintesi (Italiano)
 
@@ -59,8 +59,8 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 - **[Sistem Aluminiu Alumil S 67 SMARTIA – Ferestre și Uși cu Izolare Fonică 45 dB](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s67-smartia)**
   - Adâncime constructivă: 67 – 75 mm · Barieră termică: Poliamidă 30 mm · Transfer termic Uf: de la 1,1 W/m²K (Alumil: 1,1–2,6) · Geam compatibil: 24 – 58 mm (dublu / triplu) · Izolare fonică: până la 45 dB · Antiefracție: RC2 / RC3 · Greutate max. canat: 180 kg
   - Producător: Alumil S.A.
-- **[Sistem Liftant Glisant Alumil S 700 SUPREME – Foi până la 500 kg, Geam 50 mm](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme)**
-  - Tip sistem: Liftant Glisant (HS) · Barieră termică: Kooltherm · Transfer termic Uf: de la 1,1 W/m²K · Geam compatibil: până la 50 mm · Izolare fonică: până la 41 dB · Greutate max. foaie: 500 kg
+- **[Sistem Liftant Glisant Alumil S 700 SUPREME – Foi până la 600 kg, Geam 50 mm](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme)**
+  - Tip sistem: Liftant Glisant (HS) · Barieră termică: Kooltherm · Transfer termic Uf: de la 1,1 W/m²K · Geam compatibil: până la 50 mm · Izolare fonică: până la 41 dB · Greutate max. foaie: 600 kg
   - Producător: Alumil S.A.
 - **[Sistem Liftant Glisant Alumil S 350 SMARTIA – Ușa Glisantă cu Barieră Termică Accesibilă](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia)**
   - Tip sistem: Liftant Glisant · Barieră termică: 28 mm · Transfer termic Uf: de la 2,9 W/m²K · Geam compatibil: până la 28 mm · Izolare fonică: până la 38 dB
@@ -150,7 +150,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Salamander GreenEvolution 76 AD FLEX PVC Profile – 5 Chambers, Advanced Straight Design](https://www.neofort-biz.ro/en/products/greenevolution-76-ad-flex-pvc-profile)
 - [Alumil S 77 SUPREME Aluminium System – Windows & Doors with 40 mm Thermal Barrier](https://www.neofort-biz.ro/en/products-alu/alumil-s77-supreme-aluminium-system)
 - [Alumil S 67 SMARTIA Aluminium System – Windows & Doors with 45 dB Sound Insulation](https://www.neofort-biz.ro/en/products-alu/alumil-s67-smartia-aluminium-system)
-- [Alumil S 700 SUPREME Lift & Slide – Panels up to 500 kg, 50 mm Glazing](https://www.neofort-biz.ro/en/products-alu/alumil-s700-supreme-lift-slide-system)
+- [Alumil S 700 SUPREME Lift & Slide – Panels up to 600 kg, 50 mm Glazing](https://www.neofort-biz.ro/en/products-alu/alumil-s700-supreme-lift-slide-system)
 - [Alumil S 350 SMARTIA Lift & Slide – Sliding Door with Accessible Thermal Barrier](https://www.neofort-biz.ro/en/products-alu/alumil-s350-smartia-lift-slide-system)
 - [Alumil SF 85 SUPREME Folding System – Premium Folding Doors with Kooltherm Barrier](https://www.neofort-biz.ro/en/products-alu/alumil-sf85-supreme-folding-system)
 - [Alumil M 19800 SMARTIA Folding System – Accessible Folding Doors for Terraces](https://www.neofort-biz.ro/en/products-alu/alumil-m19800-smartia-folding-system)
@@ -178,7 +178,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Salamander GreenEvolution 76 AD FLEX Kunststoffprofil – 5 Kammern, Fortgeschrittenes gerades Design](https://www.neofort-biz.ro/de/produkte/greenevolution-76-ad-flex-pvc-profil)
 - [Alumil S 77 SUPREME Aluminiumsystem – Fenster & Türen mit 40 mm thermischer Trennung](https://www.neofort-biz.ro/de/produkte-alu/alumil-s77-supreme-aluminiumsystem)
 - [Alumil S 67 SMARTIA Aluminiumsystem – Fenster & Türen mit 45 dB Schalldämmung](https://www.neofort-biz.ro/de/produkte-alu/alumil-s67-smartia-aluminiumsystem)
-- [Alumil S 700 SUPREME Hebeschiebe – Flügel bis 500 kg, 50 mm Verglasung](https://www.neofort-biz.ro/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem)
+- [Alumil S 700 SUPREME Hebeschiebe – Flügel bis 600 kg, 50 mm Verglasung](https://www.neofort-biz.ro/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem)
 - [Alumil S 350 SMARTIA Hebeschiebe – preisgünstige Schiebetür mit thermischer Trennung](https://www.neofort-biz.ro/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem)
 - [Alumil SF 85 SUPREME Faltsystem – Premium Falttüren mit Kooltherm-Barriere](https://www.neofort-biz.ro/de/produkte-alu/alumil-sf85-supreme-faltsystem)
 - [Alumil M 19800 SMARTIA Faltsystem – Preisgünstige Falttüren für Terrassen](https://www.neofort-biz.ro/de/produkte-alu/alumil-m19800-smartia-faltsystem)
@@ -206,7 +206,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Profil PVC Salamander GreenEvolution 76 AD FLEX – 5 Chambres, Design Droit Avancé](https://www.neofort-biz.ro/fr/produits/profil-pvc-greenevolution-76-ad-flex)
 - [Système Aluminium Alumil S 77 SUPREME – Fenêtres & Portes à Rupture Thermique 40 mm](https://www.neofort-biz.ro/fr/produits-alu/systeme-aluminium-alumil-s77-supreme)
 - [Système Aluminium Alumil S 67 SMARTIA – Fenêtres & Portes avec Isolation Phonique 45 dB](https://www.neofort-biz.ro/fr/produits-alu/systeme-aluminium-alumil-s67-smartia)
-- [Coulissant Levant Alumil S 700 SUPREME – Panneaux jusqu'à 500 kg, Vitrage 50 mm](https://www.neofort-biz.ro/fr/produits-alu/systeme-coulissant-alumil-s700-supreme)
+- [Coulissant Levant Alumil S 700 SUPREME – Panneaux jusqu'à 600 kg, Vitrage 50 mm](https://www.neofort-biz.ro/fr/produits-alu/systeme-coulissant-alumil-s700-supreme)
 - [Coulissant Levant Alumil S 350 SMARTIA – Porte Coulissante à Rupture Thermique Accessible](https://www.neofort-biz.ro/fr/produits-alu/systeme-coulissant-alumil-s350-smartia)
 - [Système Pliant Alumil SF 85 SUPREME – Portes Pliantes Premium avec Barrière Kooltherm](https://www.neofort-biz.ro/fr/produits-alu/systeme-pliant-alumil-sf85-supreme)
 - [Système Pliant Alumil M 19800 SMARTIA – Portes Pliantes Accessibles pour Terrasses](https://www.neofort-biz.ro/fr/produits-alu/systeme-pliant-alumil-m19800-smartia)
@@ -234,7 +234,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Perfil PVC Salamander GreenEvolution 76 AD FLEX – 5 Cámaras, Diseño Recto Avanzado](https://www.neofort-biz.ro/es/productos/perfil-pvc-greenevolution-76-ad-flex)
 - [Sistema Aluminio Alumil S 77 SUPREME – Ventanas y Puertas con Barrera Térmica 40 mm](https://www.neofort-biz.ro/es/productos-alu/sistema-aluminio-alumil-s77-supreme)
 - [Sistema Aluminio Alumil S 67 SMARTIA – Ventanas y Puertas con Aislamiento Acústico 45 dB](https://www.neofort-biz.ro/es/productos-alu/sistema-aluminio-alumil-s67-smartia)
-- [Corredera Elevable Alumil S 700 SUPREME – Hojas hasta 500 kg, Vidrio 50 mm](https://www.neofort-biz.ro/es/productos-alu/sistema-corredera-alumil-s700-supreme)
+- [Corredera Elevable Alumil S 700 SUPREME – Hojas hasta 600 kg, Vidrio 50 mm](https://www.neofort-biz.ro/es/productos-alu/sistema-corredera-alumil-s700-supreme)
 - [Corredera Elevable Alumil S 350 SMARTIA – Puerta Corredera con Barrera Térmica Accesible](https://www.neofort-biz.ro/es/productos-alu/sistema-corredera-alumil-s350-smartia)
 - [Sistema Plegable Alumil SF 85 SUPREME – Puertas Plegables Premium con Barrera Kooltherm](https://www.neofort-biz.ro/es/productos-alu/sistema-plegable-alumil-sf85-supreme)
 - [Sistema Plegable Alumil M 19800 SMARTIA – Puertas Plegables Accesibles para Terrazas](https://www.neofort-biz.ro/es/productos-alu/sistema-plegable-alumil-m19800-smartia)
@@ -262,7 +262,7 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 - [Profilo PVC Salamander GreenEvolution 76 AD FLEX – 5 Camere, Design Dritto Avanzato](https://www.neofort-biz.ro/it/prodotti/profilo-pvc-greenevolution-76-ad-flex)
 - [Sistema Alluminio Alumil S 77 SUPREME – Finestre e Porte con Taglio Termico 40 mm](https://www.neofort-biz.ro/it/prodotti-alu/sistema-alluminio-alumil-s77-supreme)
 - [Sistema Alluminio Alumil S 67 SMARTIA – Finestre e Porte con Isolamento Acustico 45 dB](https://www.neofort-biz.ro/it/prodotti-alu/sistema-alluminio-alumil-s67-smartia)
-- [Scorrevole Alzante Alumil S 700 SUPREME – Ante fino a 500 kg, Vetro 50 mm](https://www.neofort-biz.ro/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme)
+- [Scorrevole Alzante Alumil S 700 SUPREME – Ante fino a 600 kg, Vetro 50 mm](https://www.neofort-biz.ro/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme)
 - [Scorrevole Alzante Alumil S 350 SMARTIA – Porta Scorrevole con Taglio Termico Accessibile](https://www.neofort-biz.ro/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia)
 - [Sistema Pieghevole Alumil SF 85 SUPREME – Porte Pieghevoli Premium con Barriera Kooltherm](https://www.neofort-biz.ro/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme)
 - [Sistema Pieghevole Alumil M 19800 SMARTIA – Porte Pieghevoli Accessibili per Terrazze](https://www.neofort-biz.ro/it/prodotti-alu/sistema-pieghevole-alumil-m19800-smartia)

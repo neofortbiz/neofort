@@ -91,7 +91,7 @@ export const HUB_FAQ = {
   'tamplarie-aluminiu': {
     ro: [
       [`Care este diferența dintre Alumil Supreme și Smartia?`,
-       `Supreme este gama profesională cu barieră termică avansată, design minimalist și certificare Passive House. Smartia este gama comercială cu raport calitate-preț mai bun, potrivită pentru proiecte rezidențiale și comerciale standard.`],
+       `Supreme este gama profesională cu barieră termică avansată, design minimalist; seria SUPREME S91 are certificat Passive House Institute (Uw 0,79 W/m²K). Smartia este gama comercială cu raport calitate-preț mai bun, potrivită pentru proiecte rezidențiale și comerciale standard.`],
       [`Cât costă tâmplăria din aluminiu în 2026?`,
        `Ferestrele Alumil SMARTIA S67 costă 250–350 EUR/mp, iar SUPREME S77 350–480 EUR/mp. Ușile armonice SF 85 SUPREME costă 350–500 EUR/mp, iar liftant-glisantele S 700 SUPREME 550–750 EUR/mp. Prețul include profilul, geamul termopan și montajul, fără TVA.`],
       [`Care e diferența dintre tâmplăria aluminiu și termopanele clasice?`,
@@ -103,7 +103,7 @@ export const HUB_FAQ = {
     ],
     en: [
       [`What is the difference between Alumil Supreme and Smartia?`,
-       `Supreme is the professional range with advanced thermal break, minimalist design and Passive House certification. Smartia is the commercial range with better value for standard residential and commercial projects.`],
+       `Supreme is the professional range with advanced thermal break, minimalist design; the SUPREME S91 series holds a Passive House Institute certificate (Uw 0.79 W/m²K). Smartia is the commercial range with better value for standard residential and commercial projects.`],
       [`How much do aluminium windows cost in 2026?`,
        `Alumil SMARTIA S67 windows cost 250–350 EUR/m² and SUPREME S77 350–480 EUR/m². SF 85 SUPREME folding doors cost 350–500 EUR/m² and S 700 SUPREME lift-and-slide doors 550–750 EUR/m². Prices include profile, insulating glass and installation, excluding VAT.`],
       [`What is the difference between aluminium windows and classic double glazing?`,
@@ -115,7 +115,7 @@ export const HUB_FAQ = {
     ],
     de: [
       [`Was ist der Unterschied zwischen Alumil Supreme und Smartia?`,
-       `Supreme ist die professionelle Reihe mit fortschrittlicher thermischer Trennung und Passivhaus-Zertifizierung. Smartia ist die kommerzielle Reihe mit besserem Preis-Leistungs-Verhältnis.`],
+       `Supreme ist die professionelle Reihe mit fortschrittlicher thermischer Trennung; die Serie SUPREME S91 ist vom Passivhaus Institut zertifiziert (Uw 0,79 W/m²K). Smartia ist die kommerzielle Reihe mit besserem Preis-Leistungs-Verhältnis.`],
       [`Was kostet Aluminiumtâmplărie im Jahr 2026?`,
        `Fenster Alumil SMARTIA S67 kosten 250–350 EUR/m², SUPREME S77 350–480 EUR/m². Falttüren SF 85 SUPREME kosten 350–500 EUR/m², Hebeschiebetüren S 700 SUPREME 550–750 EUR/m². Inklusive Profil, Isolierglas und Montage, ohne MwSt.`],
       [`Was ist der Unterschied zwischen Aluminiumfenstern und Thermopane?`,
@@ -127,7 +127,7 @@ export const HUB_FAQ = {
     ],
     fr: [
       [`Quelle est la différence entre Alumil Supreme et Smartia ?`,
-       `Supreme est la gamme professionnelle avec rupture de pont thermique et certification Maison Passive. Smartia est la gamme commerciale avec un meilleur rapport qualité-prix.`],
+       `Supreme est la gamme professionnelle avec rupture de pont thermique ; la série SUPREME S91 est certifiée par le Passive House Institute (Uw 0,79 W/m²K). Smartia est la gamme commerciale avec un meilleur rapport qualité-prix.`],
       [`Combien coûte la menuiserie aluminium en 2026 ?`,
        `Les fenêtres Alumil SMARTIA S67 coûtent 250–350 EUR/m², les SUPREME S77 350–480 EUR/m². Les portes pliantes SF 85 SUPREME coûtent 350–500 EUR/m² et les levants-coulissants S 700 SUPREME 550–750 EUR/m². Profilé, vitrage et pose compris, hors TVA.`],
       [`Quelle est la différence entre les fenêtres aluminium et les vitrages classiques ?`,
@@ -139,7 +139,7 @@ export const HUB_FAQ = {
     ],
     es: [
       [`¿Cuál es la diferencia entre Alumil Supreme y Smartia?`,
-       `Supreme es la gama profesional con rotura de puente térmico y certificación Casa Pasiva. Smartia es la gama comercial con mejor relación calidad-precio.`],
+       `Supreme es la gama profesional con rotura de puente térmico; la serie SUPREME S91 tiene certificado del Passive House Institute (Uw 0,79 W/m²K). Smartia es la gama comercial con mejor relación calidad-precio.`],
       [`¿Cuánto cuesta la carpintería de aluminio en 2026?`,
        `Las ventanas Alumil SMARTIA S67 cuestan 250–350 EUR/m² y las SUPREME S77 350–480 EUR/m². Las puertas plegables SF 85 SUPREME cuestan 350–500 EUR/m² y las elevables-correderas S 700 SUPREME 550–750 EUR/m². Incluyen perfil, vidrio e instalación, sin IVA.`],
       [`¿Cuál es la diferencia entre ventanas de aluminio y el doble acristalamiento clásico?`,
@@ -151,7 +151,7 @@ export const HUB_FAQ = {
     ],
     it: [
       [`Qual è la differenza tra Alumil Supreme e Smartia?`,
-       `Supreme è la gamma professionale con taglio termico avanzato e certificazione Casa Passiva. Smartia è la gamma commerciale con un miglior rapporto qualità-prezzo.`],
+       `Supreme è la gamma professionale con taglio termico avanzato; la serie SUPREME S91 è certificata dal Passive House Institute (Uw 0,79 W/m²K). Smartia è la gamma commerciale con un miglior rapporto qualità-prezzo.`],
       [`Quanto costano gli infissi in alluminio nel 2026?`,
        `Le finestre Alumil SMARTIA S67 costano 250–350 EUR/m², le SUPREME S77 350–480 EUR/m². Le porte a libro SF 85 SUPREME costano 350–500 EUR/m² e gli alzanti scorrevoli S 700 SUPREME 550–750 EUR/m². Profilo, vetro e posa compresi, IVA esclusa.`],
       [`Qual è la differenza tra gli infissi in alluminio e i classici termopane?`,

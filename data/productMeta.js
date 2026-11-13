@@ -201,20 +201,20 @@ export const PRODUCT_META = {
 
   'alumil-s700-supreme': {
     title: {
-      ro: 'Liftant Glisant Alumil S 700 SUPREME – foi până la 500 kg',
-      en: 'Alumil S 700 SUPREME Lift & Slide – Panels up to 500 kg',
-      de: 'Alumil S 700 SUPREME Hebeschiebetür – Flügel bis 500 kg',
-      fr: 'Alumil S 700 SUPREME – Baie coulissante levante 500 kg',
-      es: 'Alumil S 700 SUPREME – Corredera elevable 500 kg',
-      it: 'Alumil S 700 SUPREME – Scorrevole alzante 500 kg',
+      ro: 'Liftant Glisant Alumil S 700 SUPREME – foi până la 600 kg',
+      en: 'Alumil S 700 SUPREME Lift & Slide – Panels up to 600 kg',
+      de: 'Alumil S 700 SUPREME Hebeschiebetür – Flügel bis 600 kg',
+      fr: 'Alumil S 700 SUPREME – Baie coulissante levante 600 kg',
+      es: 'Alumil S 700 SUPREME – Corredera elevable 600 kg',
+      it: 'Alumil S 700 SUPREME – Scorrevole alzante 600 kg',
     },
     desc: {
       ro: 'Sistem cu barieră Kooltherm și geam de 50 mm. Uf de la 1,1 W/m²K, 41 dB, RC2. Uși glisante aluminiu montate în București și Ilfov.',
       en: 'Kooltherm thermal break and 50 mm glazing. Uf from 1.1 W/m²K, 41 dB, RC2. Aluminium sliding doors fitted in Bucharest and Ilfov.',
       de: 'Hebeschiebe-System mit Kooltherm-Dämmung und 50 mm Verglasung. Uf ab 1,1 W/m²K, 41 dB, RC2. Aluminium-Schiebetüren in Bukarest.',
-      fr: 'Coulissant levant à barrière Kooltherm, vantaux jusqu’à 500 kg, vitrage 50 mm. Uf dès 1,1 W/m²K, 41 dB, RC2. Pose à Bucarest.',
-      es: 'Barrera Kooltherm, hojas hasta 500 kg y vidrio de 50 mm. Uf desde 1,1 W/m²K, 41 dB, RC2. Puertas correderas de aluminio en Bucarest.',
-      it: 'Barriera Kooltherm, ante fino a 500 kg e vetro da 50 mm. Uf da 1,1 W/m²K, 41 dB, RC2. Porte scorrevoli in alluminio posate a Bucarest.',
+      fr: 'Coulissant levant à barrière Kooltherm, vantaux jusqu’à 600 kg, vitrage 50 mm. Uf dès 1,1 W/m²K, 41 dB, RC2. Pose à Bucarest.',
+      es: 'Barrera Kooltherm, hojas hasta 600 kg y vidrio de 50 mm. Uf desde 1,1 W/m²K, 41 dB, RC2. Puertas correderas de aluminio en Bucarest.',
+      it: 'Barriera Kooltherm, ante fino a 600 kg e vetro da 50 mm. Uf da 1,1 W/m²K, 41 dB, RC2. Porte scorrevoli in alluminio posate a Bucarest.',
     },
   },
 
@@ -342,12 +342,12 @@ export const PRODUCT_META = {
       it: 'Automazione Somfy – tapparelle, pergole, casa intelligente',
     },
     desc: {
-      ro: 'Motoare Oximo io și RS100 io, telecomenzi Situo, hub TaHoma pentru Alexa, Google și HomeKit. Garanție 5 ani, montaj în București și Ilfov.',
-      en: 'Oximo io and RS100 io motors, Situo remote controls and TaHoma hub for Alexa, Google and HomeKit. Five-year warranty, fitted in Bucharest.',
-      de: 'Motoren Oximo io und RS100 io, Situo-Fernbedienungen und TaHoma-Hub für Alexa, Google und HomeKit. 5 Jahre Garantie, Montage in Bukarest.',
-      fr: 'Moteurs Oximo io et RS100 io, télécommandes Situo, box TaHoma pour Alexa, Google et HomeKit. Garantie 5 ans, pose à Bucarest et Ilfov.',
-      es: 'Motores Oximo io y RS100 io, mandos Situo y hub TaHoma para Alexa, Google y HomeKit. Garantía de 5 años, montaje en Bucarest e Ilfov.',
-      it: 'Motori Oximo io e RS100 io, telecomandi Situo e hub TaHoma per Alexa, Google e HomeKit. Garanzia 5 anni, posa a Bucarest e Ilfov.',
+      ro: 'Motoare Oximo io și RS100 io, telecomenzi Situo, hub TaHoma pentru Alexa, Google și HomeKit. Motor Somfy cu garanție 5 ani, montaj în București și Ilfov.',
+      en: 'Oximo io and RS100 io motors, Situo remote controls and TaHoma hub for Alexa, Google and HomeKit. Somfy motor with a five-year warranty, fitted in Bucharest.',
+      de: 'Motoren Oximo io und RS100 io, Situo-Fernbedienungen und TaHoma-Hub für Alexa, Google und HomeKit. Somfy-Motor mit 5 Jahren Garantie, Montage in Bukarest.',
+      fr: 'Moteurs Oximo io et RS100 io, télécommandes Situo, box TaHoma pour Alexa, Google et HomeKit. Moteur Somfy garanti 5 ans, pose à Bucarest et Ilfov.',
+      es: 'Motores Oximo io y RS100 io, mandos Situo y hub TaHoma para Alexa, Google y HomeKit. Motor Somfy con 5 años de garantía, montaje en Bucarest e Ilfov.',
+      it: 'Motori Oximo io e RS100 io, telecomandi Situo e hub TaHoma per Alexa, Google e HomeKit. Motore Somfy garantito 5 anni, posa a Bucarest e Ilfov.',
     },
   },
 

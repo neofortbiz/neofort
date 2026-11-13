@@ -22,7 +22,7 @@ const UI = {
     label: 'Tâmplărie PVC · București',
     parent: 'Tâmplărie PVC',
     h1: 'Tâmplărie PVC București — Furnizare și Montaj Salamander în Sectoarele 1–6',
-    sub: 'Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov. Consultanță tehnică, montaj pentru case nZEB, garanție 5 ani.',
+    sub: 'Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov. Consultanță tehnică, montaj pentru case nZEB, garanție scrisă 5–10 ani pe profil și 2 ani pe montaj.',
     intro: 'Neofort BIZ este prezent în București din 2005, cu sediul în Sectorul 1 (Str. Theodor Aman Pictor 11). Furnizăm și montăm tâmplărie PVC Salamander în toate cele 6 sectoare ale Capitalei și în zona metropolitană Ilfov — cu echipe proprii de montaj, consultanți tehnici și servicii complete de la măsurători până la garanție post-montaj.',
     zones_title: 'Zone de acoperire în București și Ilfov',
     zones: [
@@ -41,7 +41,7 @@ const UI = {
       ['Consultanță tehnică', 'Specialist tehnic disponibil pentru consultanță privind alegerea profilului, dimensionarea și calculul performanțelor termice și fonice.'],
       ['Măsurători la domiciliu după contract', 'Ofertă detaliată pentru tot Bucureștiul și Ilfovul, pe baza dimensiunilor comunicate. Măsurătorile la fața locului se fac după semnarea contractului.'],
       ['Montaj nZEB pe 3 niveluri', 'Folosim precadre Blaugelb Triotherm+ și benzi de etanșare pe 3 niveluri, conform Ghidului RAL — reduc punțile termice care intră în calculul energetic al casei.'],
-      ['Garanție 5 ani', 'Garanție completă pe profilul PVC, geam și montaj. Intervenție în 48 ore pentru orice solicitare post-montaj în București.'],
+      ['Garanție scrisă', '5–10 ani pe profilul PVC Salamander și 2 ani pe montaj, cu certificat de garanție. Intervenție în 48 ore pentru orice solicitare post-montaj în București.'],
     ],
     process_title: 'Cum funcționează procesul în București',
     process: [
@@ -71,7 +71,7 @@ const UI = {
     label: 'PVC Windows · Bucharest',
     parent: 'PVC Windows',
     h1: 'PVC Windows Bucharest — Salamander Supply and Installation in all Districts',
-    sub: 'Neofort BIZ supplies and installs Salamander PVC windows in Bucharest and Ilfov. Technical consultation, installation for nZEB homes, 5-year warranty.',
+    sub: 'Neofort BIZ supplies and installs Salamander PVC windows in Bucharest and Ilfov. Technical consultation, installation for nZEB homes, written warranty of 5–10 years on the profile and 2 years on installation.',
     intro: 'Neofort BIZ has been present in Bucharest since 2005, headquartered in District 1 (Str. Theodor Aman Pictor 11). We supply and install Salamander PVC windows across all 6 districts of the capital and the Ilfov metropolitan area — with our own installation teams, technical consultants and complete services from measurements to post-installation warranty.',
     zones_title: 'Coverage areas in Bucharest and Ilfov',
     zones: [
@@ -90,7 +90,7 @@ const UI = {
       ['Technical consultation', 'Technical specialist available for consultation on profile selection, sizing and thermal and acoustic performance calculation.'],
       ['Home measurements after contract', 'Detailed quote for all of Bucharest and Ilfov, based on the dimensions you provide. On-site measurements follow once the contract is signed.'],
       ['nZEB installation on 3 levels', 'We use Blaugelb Triotherm+ precasings and three-level sealing tapes to the RAL guideline — they reduce the thermal bridges that count in the energy calculation of the house.'],
-      ['5 year warranty', 'Full warranty on PVC profile, glass and installation. 48-hour response for any post-installation request in Bucharest.'],
+      ['Written warranty', '5–10 years on the Salamander PVC profile and 2 years on installation, with a warranty certificate. 48-hour response for any post-installation request in Bucharest.'],
     ],
     process_title: 'How the process works in Bucharest',
     process: [
@@ -120,7 +120,7 @@ const UI = {
     label: 'Kunststofffenster PVC · Bukarest',
     parent: 'Kunststofffenster PVC',
     h1: 'Kunststofffenster Bukarest — Salamander Lieferung und Montage in allen Bezirken',
-    sub: 'Neofort BIZ liefert und montiert Salamander PVC-Fenster in Bukarest und Ilfov. Technische Beratung, Einbau für nZEB-Häuser, 5 Jahre Garantie.',
+    sub: 'Neofort BIZ liefert und montiert Salamander PVC-Fenster in Bukarest und Ilfov. Technische Beratung, Einbau für nZEB-Häuser, schriftliche Garantie von 5–10 Jahren auf das Profil und 2 Jahren auf die Montage.',
     intro: 'Neofort BIZ ist seit 2005 in Bukarest präsent, mit Sitz im 1. Bezirk (Str. Theodor Aman Pictor 11). Wir liefern und montieren Salamander PVC-Fenster in allen 6 Bezirken der Hauptstadt und der Metropolregion Ilfov — mit eigenen Montageteams, technischen Beratern und Komplettservice von Aufmaß bis zur Montagegarantie.',
     zones_title: 'Einsatzgebiete in Bukarest und Ilfov',
     zones: [
@@ -139,7 +139,7 @@ const UI = {
       ['Fachberatung', 'Technischer Spezialist für Beratung zu Profilauswahl, Dimensionierung und Berechnung der Wärme- und Schalldämmeigenschaften.'],
       ['Aufmaß nach Vertragsabschluss', 'Detailliertes Angebot für ganz Bukarest und Ilfov auf Basis der von Ihnen genannten Maße. Das Aufmaß vor Ort erfolgt nach Vertragsabschluss.'],
       ['nZEB-Montage in 3 Ebenen', 'Wir verwenden Blaugelb Triotherm+ Vorblendrahmen und Dichtbänder in drei Ebenen nach RAL-Leitfaden — sie verringern die Wärmebrücken, die in die Energieberechnung des Hauses eingehen.'],
-      ['5 Jahre Garantie', 'Vollständige Garantie auf PVC-Profil, Glas und Montage. 48-Stunden-Reaktionszeit für Nachmontageanfragen in Bukarest.'],
+      ['Schriftliche Garantie', '5–10 Jahre auf das Salamander PVC-Profil und 2 Jahre auf die Montage, mit Garantieschein. 48-Stunden-Reaktionszeit für Nachmontageanfragen in Bukarest.'],
     ],
     process_title: 'So läuft der Prozess in Bukarest ab',
     process: [
@@ -169,7 +169,7 @@ const UI = {
     label: 'Menuiserie PVC · Bucarest',
     parent: 'Menuiserie PVC',
     h1: 'Menuiserie PVC Bucarest — Fourniture et Pose Salamander dans tous les Arrondissements',
-    sub: 'Neofort BIZ fournit et pose la menuiserie PVC Salamander à Bucarest et Ilfov. Conseil technique, pose pour maisons nZEB, garantie 5 ans.',
+    sub: 'Neofort BIZ fournit et pose la menuiserie PVC Salamander à Bucarest et Ilfov. Conseil technique, pose pour maisons nZEB, garantie écrite de 5 à 10 ans sur le profilé et 2 ans sur la pose.',
     intro: "Neofort BIZ est présent à Bucarest depuis 2005, avec son siège dans le 1er arrondissement (Str. Theodor Aman Pictor 11). Nous fournissons et posons la menuiserie PVC Salamander dans les 6 arrondissements de la capitale et la zone métropolitaine d'Ilfov — avec nos propres équipes de pose, conseillers techniques et services complets du métrage à la garantie post-pose.",
     zones_title: "Zones d'intervention à Bucarest et Ilfov",
     zones: [
@@ -188,7 +188,7 @@ const UI = {
       ['Conseil technique', "Spécialiste technique disponible pour conseiller sur le choix du profilé, le dimensionnement et le calcul des performances thermiques et acoustiques."],
       ['Métrés à domicile après contrat', "Devis détaillé pour tout Bucarest et Ilfov, établi sur la base des dimensions que vous nous communiquez. Les métrés sur place ont lieu après la signature du contrat."],
       ['Pose nZEB sur 3 niveaux', "Nous utilisons des précadres Blaugelb Triotherm+ et des bandes d'étanchéité sur trois niveaux selon le guide RAL — ils réduisent les ponts thermiques pris en compte dans le calcul énergétique de la maison."],
-      ['Garantie 5 ans', "Garantie complète sur le profilé PVC, le vitrage et la pose. Intervention sous 48 heures pour toute demande post-pose à Bucarest."],
+      ['Garantie écrite', "5 à 10 ans sur le profilé PVC Salamander et 2 ans sur la pose, avec certificat de garantie. Intervention sous 48 heures pour toute demande post-pose à Bucarest."],
     ],
     process_title: 'Comment fonctionne le processus à Bucarest',
     process: [
@@ -218,7 +218,7 @@ const UI = {
     label: 'Carpintería PVC · Bucarest',
     parent: 'Carpintería PVC',
     h1: 'Carpintería PVC Bucarest — Suministro e Instalación Salamander en todos los Distritos',
-    sub: 'Neofort BIZ suministra e instala carpintería PVC Salamander en Bucarest e Ilfov. Asesoramiento técnico, instalación para casas nZEB, garantía 5 años.',
+    sub: 'Neofort BIZ suministra e instala carpintería PVC Salamander en Bucarest e Ilfov. Asesoramiento técnico, instalación para casas nZEB, garantía escrita de 5–10 años en el perfil y 2 años en la instalación.',
     intro: 'Neofort BIZ está presente en Bucarest desde 2005, con sede en el Distrito 1 (Str. Theodor Aman Pictor 11). Suministramos e instalamos carpintería PVC Salamander en los 6 distritos de la capital y la zona metropolitana de Ilfov — con nuestros propios equipos de instalación, consultores técnicos y servicios completos desde las mediciones hasta la garantía post-instalación.',
     zones_title: 'Zonas de cobertura en Bucarest e Ilfov',
     zones: [
@@ -237,7 +237,7 @@ const UI = {
       ['Asesoramiento técnico', 'Especialista técnico disponible para asesorar sobre la elección del perfil, dimensionamiento y cálculo de rendimiento térmico y acústico.'],
       ['Mediciones a domicilio tras el contrato', 'Presupuesto detallado para todo Bucarest e Ilfov, a partir de las medidas que nos indique. Las mediciones en obra se realizan tras la firma del contrato.'],
       ['Instalación nZEB en 3 niveles', 'Usamos premarcos Blaugelb Triotherm+ y cintas de sellado en tres niveles según la guía RAL — reducen los puentes térmicos que cuentan en el cálculo energético de la vivienda.'],
-      ['Garantía 5 años', 'Garantía completa sobre el perfil PVC, vidrio e instalación. Intervención en 48 horas para cualquier solicitud post-instalación en Bucarest.'],
+      ['Garantía escrita', '5–10 años en el perfil PVC Salamander y 2 años en la instalación, con certificado de garantía. Intervención en 48 horas para cualquier solicitud post-instalación en Bucarest.'],
     ],
     process_title: 'Cómo funciona el proceso en Bucarest',
     process: [
@@ -267,7 +267,7 @@ const UI = {
     label: 'Infissi PVC · Bucarest',
     parent: 'Infissi PVC',
     h1: 'Infissi PVC Bucarest — Fornitura e Posa Salamander in tutti i Quartieri',
-    sub: 'Neofort BIZ fornisce e posa infissi PVC Salamander a Bucarest e Ilfov. Consulenza tecnica, posa per case nZEB, garanzia 5 anni.',
+    sub: 'Neofort BIZ fornisce e posa infissi PVC Salamander a Bucarest e Ilfov. Consulenza tecnica, posa per case nZEB, garanzia scritta di 5–10 anni sul profilo e 2 anni sulla posa.',
     intro: "Neofort BIZ è presente a Bucarest dal 2005, con sede nel Distretto 1 (Str. Theodor Aman Pictor 11). Forniamo e posiamo infissi PVC Salamander in tutti e 6 i quartieri della capitale e nella zona metropolitana di Ilfov — con squadre di posa proprie, consulenti tecnici e servizi completi dal rilievo alla garanzia post-posa.",
     zones_title: 'Zone di copertura a Bucarest e Ilfov',
     zones: [
@@ -286,7 +286,7 @@ const UI = {
       ['Consulenza tecnica', "Specialista tecnico disponibile per consulenze sulla scelta del profilato, dimensionamento e calcolo delle prestazioni termiche e acustiche."],
       ['Rilievi a domicilio dopo il contratto', "Preventivo dettagliato per tutta Bucarest e Ilfov, sulla base delle misure che ci comunichi. I rilievi sul posto si effettuano dopo la firma del contratto."],
       ['Posa nZEB su 3 livelli', "Utilizziamo controtelai Blaugelb Triotherm+ e nastri di tenuta su tre livelli secondo la guida RAL — riducono i ponti termici che entrano nel calcolo energetico della casa."],
-      ['Garanzia 5 anni', "Garanzia completa su profilato PVC, vetro e posa. Intervento entro 48 ore per qualsiasi richiesta post-posa a Bucarest."],
+      ['Garanzia scritta', "5–10 anni sul profilo PVC Salamander e 2 anni sulla posa, con certificato di garanzia. Intervento entro 48 ore per qualsiasi richiesta post-posa a Bucarest."],
     ],
     process_title: 'Come funziona il processo a Bucarest',
     process: [
@@ -326,12 +326,12 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Menuiserie PVC Bucarest — Pose Salamander | Neofort BIZ'
          : locale === 'es' ? 'Carpintería PVC Bucarest — Montaje Salamander | Neofort BIZ'
          : 'Infissi PVC Bucarest — Posa Salamander | Neofort BIZ',
-    description: locale === 'ro' ? 'Furnizare și montaj tâmplărie PVC Salamander în București — toate sectoarele și Ilfov. Ofertă în 48h, montaj nZEB cu precadre Blaugelb, garanție 5 ani.'
-               : locale === 'en' ? 'Salamander PVC window supply and installation in Bucharest — all districts and Ilfov. Quote in 48h, nZEB installation with Blaugelb precasings, 5-year warranty.'
-               : locale === 'de' ? 'Lieferung und Montage von Salamander PVC-Fenstern in Bukarest und Ilfov. Angebot in 48h, nZEB-Montage mit Blaugelb-Vorblendrahmen, 5 Jahre Garantie.'
-               : locale === 'fr' ? 'Fourniture et pose menuiserie PVC Salamander à Bucarest — tous arrondissements et Ilfov. Devis en 48h, pose nZEB avec précadres Blaugelb, garantie 5 ans.'
-               : locale === 'es' ? 'Suministro e instalación de carpintería PVC Salamander en Bucarest e Ilfov. Presupuesto en 48h, instalación nZEB con premarcos Blaugelb, garantía 5 años.'
-               : 'Fornitura e posa infissi PVC Salamander a Bucarest — tutti i quartieri e Ilfov. Preventivo in 48h, posa nZEB con precontrotelaio Blaugelb, garanzia 5 anni.',
+    description: locale === 'ro' ? 'Furnizare și montaj tâmplărie PVC Salamander în București — toate sectoarele și Ilfov. Ofertă în 48h, montaj nZEB cu precadre Blaugelb, garanție scrisă.'
+               : locale === 'en' ? 'Salamander PVC windows supplied and installed in Bucharest and Ilfov. Quote in 48h, nZEB installation with Blaugelb precasings, written warranty.'
+               : locale === 'de' ? 'Lieferung und Montage von Salamander PVC-Fenstern in Bukarest und Ilfov. Angebot in 48h, nZEB-Montage mit Blaugelb-Vorblendrahmen, schriftliche Garantie.'
+               : locale === 'fr' ? 'Fourniture et pose menuiserie PVC Salamander à Bucarest — tous arrondissements et Ilfov. Devis en 48h, pose nZEB avec précadres Blaugelb, garantie écrite.'
+               : locale === 'es' ? 'Suministro e instalación de carpintería PVC Salamander en Bucarest e Ilfov. Presupuesto en 48h, instalación nZEB con premarcos Blaugelb, garantía escrita.'
+               : 'Fornitura e posa infissi PVC Salamander a Bucarest — tutti i quartieri e Ilfov. Preventivo in 48h, posa nZEB con precontrotelaio Blaugelb, garanzia scritta.',
     keywords: locale === 'ro' ? 'tamplarie pvc bucuresti, ferestre pvc bucuresti, montaj pvc bucuresti, salamander bucuresti, bluevolution 92 bucuresti, greenevolution 76 bucuresti, termopane pvc bucuresti, inlocuit ferestre bucuresti'
             : 'PVC windows Bucharest, Salamander windows Bucharest installation, BluEvolution 92 Bucharest',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },

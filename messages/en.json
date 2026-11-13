@@ -15,7 +15,7 @@
   },
   "home": {
     "title": "PVC Salamander & Alumil Windows | Neofort BIZ Bucharest",
-    "description": "Manufacturer of Salamander PVC windows and Alumil aluminium systems. nZEB thermal glass, Blaugelb Triotherm+ precasings, Raffstore blinds. EU delivery. 21 years.",
+    "description": "Supplier of Salamander PVC windows and Alumil aluminium systems. nZEB thermal glass, Blaugelb Triotherm+ precasings, Raffstore blinds. EU delivery. 21 years.",
     "hero_title": "PVC & Aluminium Windows with Thermal Glass",
     "hero_subtitle": "Neofort — Quality and commitment without compromise",
     "hero_cta1": "Request Quote",
@@ -146,7 +146,7 @@
   },
   "pvc": {
     "title": "PVC Salamander Windows | BluEvolution 92 | Neofort",
-    "description": "Salamander PVC windows BluEvolution 92 and GreenEvolution 76 — 6 chambers, Uw 0.70 W/m²K, for nZEB homes. In-house production, EU delivery.",
+    "description": "Salamander PVC windows BluEvolution 92 and GreenEvolution 76 — 6 chambers, Uw 0.70 W/m²K, for nZEB homes. Professional installation, EU delivery.",
     "hero_title": "PVC WINDOWS SALAMANDER",
     "hero_subtitle": "Premium German PVC Window System",
     "desc": "Neofort offers complete Salamander PVC Window supply services. Our range includes BluEvolution 92 and GreenEvolution 76, two next-generation window systems dedicated to nZEB energy efficiency solutions and passive house construction.",
@@ -296,9 +296,9 @@
         "specs": [
           "High elasticity",
           "Self-adhesive sealing",
-          "Widths up to 90 mm",
-          "Weather resistance 1050 Pa",
-          "UV resistance",
+          "Widths 50 / 75 / 100 mm",
+          "Vapour resistance Sd > 10 m",
+          "Interior use",
           "Vapour barrier",
           "Adhesion to paint and plaster"
         ]
