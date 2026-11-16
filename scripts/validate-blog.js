@@ -537,6 +537,14 @@ async function garziV327() {
       if (!(a['service-desc'] || []).some(x => x.href === sc.MCP_ENDPOINT + '/server-card')) err('garda 27: api-catalog — service-desc nu arata spre /api/mcp/server-card');
     }
     if (!fs.existsSync(path.join(ROOT, 'app/api/mcp/server-card/route.js'))) err('garda 27: lipseste app/api/mcp/server-card/route.js');
+    // v328: dovada pentru registrul MCP — un singur rand, doar cheie PUBLICA (32 de octeti).
+    const ra = path.join(ROOT, 'public/.well-known/mcp-registry-auth');
+    if (fs.existsSync(ra)) {
+      const v = fs.readFileSync(ra, 'utf8').trim();
+      const m = v.match(/^v=MCPv1; k=ed25519; p=([A-Za-z0-9+/]{43}=)$/);
+      if (!m || Buffer.from(m[1], 'base64').length !== 32) err('garda 27: public/.well-known/mcp-registry-auth nu are forma „v=MCPv1; k=ed25519; p=<cheie publica base64>”');
+      if (/PRIVATE|BEGIN/i.test(v)) err('garda 27: mcp-registry-auth pare sa contina o cheie PRIVATA — se scoate imediat');
+    }
   }
 
   // 28. Afirmatii pe care firma nu le poate sustine: Neofort e furnizor si montator,

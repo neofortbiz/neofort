@@ -399,6 +399,13 @@ const nextConfig = {
         headers: [{ key: 'Content-Type', value: 'text/markdown; charset=utf-8' }],
       },
       {
+        // v328: dovada pentru registrul oficial MCP (autentificare HTTP pe domeniu).
+        // Contine DOAR cheia publica Ed25519; cheia privata e la Dan, in afara repo-ului.
+        // Registrul nu urmeaza redirecturi si cere 200 direct pe www.neofort-biz.ro.
+        source: '/.well-known/mcp-registry-auth',
+        headers: [{ key: 'Content-Type', value: 'text/plain; charset=utf-8' }],
+      },
+      {
         // v327: catalogul de API-uri (RFC 9727) — un fisier fara extensie, deci tipul
         // trebuie spus explicit. Arata spre serverul MCP si cardul lui.
         source: '/.well-known/api-catalog',
