@@ -139,10 +139,10 @@ Suprafață vitrată: 18 m² | ΔT = 20°C | Ore sezon rece: 3.500 h
 ### Aluminiu cu barieră termică — nZEB cu design premium
 
 **Alumil S77 Supreme:**
-- 77–93 mm, rupere de punte termică 40 mm poliamidă, Uf de la 0,86 W/(m²K)
-- Uw cu tripan 44 mm: **1,0-1,15 W/(m²K)** — în jurul valorii de referință de 1,11
+- toc 77 mm, poliamidă 40 mm cu Energy bar și spumă, Uf de la 0,85 W/(m²K)
+- Uw după Alumil: **0,85–1,4 W/(m²K)**, în funcție de geam și dimensiuni; valoarea de referință este 1,11
 
-**Limitare:** Aluminiul standard nu poate atinge Uw ≤ 0,85 W/(m²K) — marja recomandată.
+**Atenție:** 0,85 W/(m²K) este capătul de jos al intervalului dat de Alumil. Uw-ul real depinde de geam și de dimensiunile ferestrei și se calculează în ofertă.
 
 ## Secțiunea 3 — Configurația optimă de sticlă pentru nZEB
 
@@ -336,11 +336,11 @@ According to the Mc 001-2022 methodology (MDLPA Order 16/2023):
 ### Aluminium with Thermal Break — nZEB with Premium Design
 
 **Alumil S77 Supreme:**
-- 77–93 mm depth, 40 mm polyamide thermal break
-- Uf from 0.86 W/(m²K)
-- Uw with 44 mm triple glazing: **1.0-1.15 W/(m²K)** — around the 1.11 reference value
+- 77 mm frame, 40 mm polyamide with Energy bar and foam
+- Uf from 0.85 W/(m²K)
+- Uw according to Alumil: **0.85–1.4 W/(m²K)**, depending on glazing and size; the reference value is 1.11
 
-**Important limitation:** Standard aluminium cannot achieve Uw ≤ 0.85 W/(m²K) — the recommended margin for nZEB.
+**Note:** 0.85 W/(m²K) is the bottom of the range Alumil gives. The real Uw depends on the glazing and the window size and is calculated in the quote.
 
 ### Wood-Aluminium (Hybrid) — Premium nZEB
 
@@ -546,10 +546,10 @@ In einem Haus mit Wänden bei 20 cm Dämmung (U = 0,20 W/m²K) und Dach bei 30 c
 ### Aluminium mit thermischer Trennung — nZEB mit Premium-Design
 
 **Alumil S77 Supreme:**
-- 77–93 mm, 40 mm thermische Trennung aus Polyamid, Uf ab 0,86 W/(m²K)
-- Uw mit 44 mm Dreifach: **1,0-1,15 W/(m²K)** — im Bereich des Referenzwerts von 1,11
+- 77 mm Rahmen, 40 mm Polyamid mit Energy bar und Schaum, Uf ab 0,85 W/(m²K)
+- Uw laut Alumil: **0,85–1,4 W/(m²K)**, je nach Glas und Größe; der Referenzwert liegt bei 1,11
 
-**Wichtige Einschränkung:** Standard-Aluminium kann Uw ≤ 0,85 W/(m²K) nicht erreichen.
+**Hinweis:** 0,85 W/(m²K) ist das untere Ende der Alumil-Spanne. Der tatsächliche Uw hängt von Glas und Fenstergröße ab und wird im Angebot berechnet.
 
 ## Abschnitt 3 — Optimale Verglasung für nZEB
 
@@ -747,10 +747,10 @@ Dans une maison avec des murs isolés à 20 cm (U = 0,20 W/m²K) et un toit à 3
 ### Aluminium avec rupture de pont thermique — nZEB design premium
 
 **Alumil S77 Supreme :**
-- 77–93 mm, rupture thermique polyamide 40 mm, Uf à partir de 0,86 W/(m²K)
-- Uw avec triple 44 mm : **1,0-1,15 W/(m²K)** — autour de la valeur de référence de 1,11
+- dormant 77 mm, polyamide 40 mm avec Energy bar et mousse, Uf à partir de 0,85 W/(m²K)
+- Uw selon Alumil : **0,85–1,4 W/(m²K)**, selon le vitrage et les dimensions ; la valeur de référence est 1,11
 
-**Limitation importante :** L'aluminium standard ne peut pas atteindre Uw ≤ 0,85 W/(m²K).
+**Attention :** 0,85 W/(m²K) est le bas de la plage donnée par Alumil. L'Uw réel dépend du vitrage et des dimensions de la fenêtre et se calcule dans le devis.
 
 ## Section 3 — Configuration optimale du vitrage pour nZEB
 
@@ -949,10 +949,10 @@ En una casa con paredes aisladas a 20 cm (U = 0,20 W/m²K) y tejado a 30 cm (U =
 ### Aluminio con rotura de puente térmico — nZEB con diseño premium
 
 **Alumil S77 Supreme:**
-- 77–93 mm, rotura de puente térmico poliamida 40 mm, Uf desde 0,86 W/(m²K)
-- Uw con triple 44 mm: **1,0-1,15 W/(m²K)** — en torno al valor de referencia de 1,11
+- marco de 77 mm, poliamida 40 mm con Energy bar y espuma, Uf desde 0,85 W/(m²K)
+- Uw según Alumil: **0,85–1,4 W/(m²K)**, según el vidrio y las dimensiones; el valor de referencia es 1,11
 
-**Limitación importante:** El aluminio estándar no puede alcanzar Uw ≤ 0,85 W/(m²K).
+**Atención:** 0,85 W/(m²K) es el extremo inferior del rango que da Alumil. El Uw real depende del vidrio y de las dimensiones de la ventana y se calcula en el presupuesto.
 
 ## Sección 3 — Configuración óptima del acristalamiento para nZEB
 
@@ -1151,10 +1151,10 @@ In una casa con pareti isolate a 20 cm (U = 0,20 W/m²K) e tetto a 30 cm (U = 0,
 ### Alluminio con taglio termico — nZEB con design premium
 
 **Alumil S77 Supreme:**
-- 77–93 mm, taglio termico poliammide 40 mm, Uf a partire da 0,86 W/(m²K)
-- Uw con triplo 44 mm: **1,0-1,15 W/(m²K)** — intorno al valore di riferimento di 1,11
+- telaio da 77 mm, poliammide 40 mm con Energy bar e schiuma, Uf a partire da 0,85 W/(m²K)
+- Uw secondo Alumil: **0,85–1,4 W/(m²K)**, secondo vetro e dimensioni; il valore di riferimento è 1,11
 
-**Limitazione importante:** L'alluminio standard non può raggiungere Uw ≤ 0,85 W/(m²K).
+**Attenzione:** 0,85 W/(m²K) è il limite inferiore dell'intervallo dato da Alumil. L'Uw reale dipende dal vetro e dalle dimensioni della finestra e si calcola nel preventivo.
 
 ## Sezione 3 — Configurazione ottimale della vetrocamera per nZEB
 
@@ -2342,7 +2342,7 @@ De ce apare dilema PVC vs aluminiu? Ambele materiale au evoluat enorm. PVC-ul mo
 
 **Aluminiu (Alumil S77 Supreme):**
 - Conductivitate termică profil pur: λ = 160 W/(mK) — redusă la ~0,3 W/(mK) prin bariera de poliamidă 40 mm
-- Uf profil de la 0,86 W/(m²K)
+- Uf profil de la 0,85 W/(m²K)
 - Uw total cu tripan + Warm Edge: **1,0-1,2 W/(m²K)**
 
 **Concluzie izolație:** PVC câștigă clar — diferența de 0,3-0,5 W/(m²K) în Uw înseamnă ~30% mai multă căldură pierdută prin ferestre din aluminiu față de PVC la aceleași dimensiuni.
@@ -2483,7 +2483,7 @@ Why does the PVC-versus-aluminium dilemma come up at all? Both materials have mo
 
 **Aluminium (Alumil S77 Supreme):**
 - Pure profile conductivity: λ = 160 W/(mK) — brought down to about 0.3 W/(mK) by the 40 mm polyamide thermal break
-- Profile Uf from 0.86 W/(m²K)
+- Profile Uf from 0.85 W/(m²K)
 - Total Uw with triple glazing + Warm Edge: **1.0-1.2 W/(m²K)**
 
 **Verdict on insulation:** PVC wins clearly. A gap of 0.3-0.5 W/(m²K) in Uw means roughly 30% more heat lost through aluminium windows than through PVC ones at the same dimensions.
@@ -2621,7 +2621,7 @@ Warum stellt sich die Frage PVC gegen Aluminium überhaupt? Beide Werkstoffe hab
 
 **Aluminium (Alumil S77 Supreme):**
 - Leitfähigkeit des reinen Profils: λ = 160 W/(mK) — durch die 40 mm Polyamid-Trennung auf etwa 0,3 W/(mK) gesenkt
-- Profil-Uf ab 0,86 W/(m²K)
+- Profil-Uf ab 0,85 W/(m²K)
 - Gesamt-Uw mit Dreifachverglasung + Warm Edge: **1,0-1,2 W/(m²K)**
 
 **Fazit zur Dämmung:** PVC gewinnt deutlich. Ein Unterschied von 0,3-0,5 W/(m²K) im Uw bedeutet rund 30 % mehr Wärmeverlust durch Aluminiumfenster als durch PVC-Fenster bei gleichen Abmessungen.
@@ -2757,7 +2757,7 @@ Pourquoi ce dilemme entre PVC et aluminium ? Les deux matériaux ont énormémen
 
 **Aluminium (Alumil S77 Supreme) :**
 - Conductivité du profilé pur : λ = 160 W/(mK) — ramenée à environ 0,3 W/(mK) par la rupture de pont thermique en polyamide de 40 mm
-- Uf du profilé à partir de 0,86 W/(m²K)
+- Uf du profilé à partir de 0,85 W/(m²K)
 - Uw total avec triple vitrage + Warm Edge : **1,0-1,2 W/(m²K)**
 
 **Conclusion sur l’isolation :** le PVC l’emporte nettement. Un écart de 0,3 à 0,5 W/(m²K) sur le Uw représente environ 30 % de chaleur perdue en plus par des fenêtres en aluminium à dimensions égales.
@@ -2893,7 +2893,7 @@ Las ventanas y las puertas suponen el **15-25 % de la superficie de la envolvent
 
 **Aluminio (Alumil S77 Supreme):**
 - Conductividad del perfil puro: λ = 160 W/(mK) — reducida a unos 0,3 W/(mK) por la rotura de puente térmico de poliamida de 40 mm
-- Uf del perfil desde 0,86 W/(m²K)
+- Uf del perfil desde 0,85 W/(m²K)
 - Uw total con triple vidrio + Warm Edge: **1,0-1,2 W/(m²K)**
 
 **Conclusión sobre el aislamiento:** gana el PVC con claridad. Una diferencia de 0,3-0,5 W/(m²K) en el Uw significa aproximadamente un 30 % más de calor perdido por ventanas de aluminio que por las de PVC a igualdad de dimensiones.
@@ -3029,7 +3029,7 @@ Perché nasce il dilemma PVC contro alluminio? Entrambi i materiali sono molto c
 
 **Alluminio (Alumil S77 Supreme):**
 - Conduttività del profilo puro: λ = 160 W/(mK) — ridotta a circa 0,3 W/(mK) dal taglio termico in poliammide da 40 mm
-- Uf del profilo a partire da 0,86 W/(m²K)
+- Uf del profilo a partire da 0,85 W/(m²K)
 - Uw totale con triplo vetro + Warm Edge: **1,0-1,2 W/(m²K)**
 
 **Conclusione sull’isolamento:** vince nettamente il PVC. Uno scarto di 0,3-0,5 W/(m²K) sull’Uw significa circa il 30 % di calore in più disperso dalle finestre in alluminio rispetto a quelle in PVC a parità di dimensioni.
@@ -4801,6 +4801,10 @@ Pachetul triplu de 44 mm (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) ati
 
 Nu. Salamander bluEvolution 92 folosește exclusiv stabilizatori Calciu-Zinc (Ca-Zn) din 2008, fără plumb și fără cadmiu. Este certificat VinylPlus pentru reciclabilitate și declarat conform Regulamentului REACH (CE) nr. 1907/2006.
 
+### Cât costă o fereastră nZEB completă?
+
+Orientativ, fără TVA: fereastra Salamander bluEvolution 92 cu geam dublu costă 200–285 EUR/mp, geamul triplu Low-E adaugă 40–80 EUR/mp, iar montajul cu precadre Blaugelb Triotherm+ și benzi adaugă 25–50 EUR pe metru liniar de perimetru. O fereastră de 1,0 × 1,2 m ajunge astfel la circa 400–660 EUR; suma exactă o primești în oferta scrisă.
+
 ---
 
 Neofort BIZ execută montaj nZEB complet, cu precadre Blaugelb Triotherm+ și geam triplu, în București și Ilfov. [Trimite-ne detaliile proiectului](/ro/contact) și primești ofertă în 48 de ore. Vezi [sistemele nZEB complete](/ro/sisteme-nzeb) pe care le oferim. Pagini utile: [precadrele Blaugelb Triotherm+](/ro/sisteme-nzeb/precadre-blaugelb-triotherm-plus) și [profilul Salamander bluEvolution 92 FLEX](/ro/produse/profil-pvc-bluevolution-92-flex).
@@ -4944,6 +4948,10 @@ The 44 mm triple package (4 float / 16 argon / 4 Low-E / 16 argon / 4 float) rea
 
 No. Salamander bluEvolution 92 has used calcium-zinc (Ca-Zn) stabilisers exclusively since 2008, with no lead and no cadmium. It is VinylPlus certified for recyclability and declared compliant with REACH Regulation (EC) No 1907/2006.
 
+### How much does a complete nZEB window cost?
+
+As a guide, excluding VAT: a Salamander bluEvolution 92 window with double glazing costs 200–285 EUR/m², triple Low-E glazing adds 40–80 EUR/m², and installation with Blaugelb Triotherm+ precasings and tapes adds 25–50 EUR per linear metre of perimeter. A 1.0 × 1.2 m window therefore comes to about 400–660 EUR; you get the exact figure in the written quote.
+
 ---
 
 Neofort BIZ carries out complete nZEB installations with Blaugelb Triotherm+ precasings and triple glazing in Bucharest and Ilfov. [Send us the project details](/en/contact) and you will receive a quote within 48 hours. See the [complete nZEB systems](/en/nzeb-systems) we offer. Useful pages: [Blaugelb Triotherm+ precasings](/en/nzeb-systems/blaugelb-triotherm-plus-precasings) and [the Salamander bluEvolution 92 FLEX profile](/en/products/bluevolution-92-flex-pvc-profile).`,
@@ -5085,6 +5093,10 @@ Das 44-mm-Dreifachpaket (4 Float / 16 Argon / 4 Low-E / 16 Argon / 4 Float) erre
 ### Enthält das Profil Salamander bluEvolution 92 Blei?
 
 Nein. Salamander bluEvolution 92 verwendet seit 2008 ausschließlich Calcium-Zink-Stabilisatoren (Ca-Zn), ohne Blei und ohne Cadmium. Es ist VinylPlus-zertifiziert für die Recyclingfähigkeit und nach REACH-Verordnung (EG) Nr. 1907/2006 konformitätserklärt.
+
+### Was kostet ein komplettes nZEB-Fenster?
+
+Als Richtwert, ohne MwSt.: Ein Salamander-bluEvolution-92-Fenster mit Zweifachglas kostet 200–285 EUR/m², Dreifach-Low-E-Glas kommt mit 40–80 EUR/m² hinzu, die Montage mit Blaugelb-Triotherm+-Vorbaurahmen und Bändern mit 25–50 EUR pro laufendem Meter Umfang. Ein Fenster von 1,0 × 1,2 m liegt damit bei etwa 400–660 EUR; den genauen Betrag erhalten Sie im schriftlichen Angebot.
 
 ---
 
@@ -5228,6 +5240,10 @@ Le vitrage triple de 44 mm (4 float / 16 argon / 4 Low-E / 16 argon / 4 float) a
 
 Non. Salamander bluEvolution 92 utilise exclusivement des stabilisants calcium-zinc (Ca-Zn) depuis 2008, sans plomb ni cadmium. Il est certifié VinylPlus pour la recyclabilité et déclaré conforme au règlement REACH (CE) n° 1907/2006.
 
+### Combien coûte une fenêtre nZEB complète ?
+
+À titre indicatif, hors TVA : une fenêtre Salamander bluEvolution 92 en double vitrage coûte 200–285 EUR/m², le triple vitrage Low-E ajoute 40–80 EUR/m² et la pose sur précadres Blaugelb Triotherm+ avec bandes ajoute 25–50 EUR par mètre linéaire de périmètre. Une fenêtre de 1,0 × 1,2 m revient ainsi à environ 400–660 EUR ; le montant exact figure dans le devis écrit.
+
 ---
 
 Neofort BIZ réalise des poses nZEB complètes, avec précadres Blaugelb Triotherm+ et triple vitrage, à Bucarest et dans l’Ilfov. [Transmettez-nous les détails du projet](/fr/contact) et recevez un devis sous 48 heures. Découvrez les [systèmes nZEB complets](/fr/systemes-nzeb) que nous proposons. Pages utiles : [les précadres Blaugelb Triotherm+](/fr/systemes-nzeb/precadres-blaugelb-triotherm-plus) et [le profilé Salamander bluEvolution 92 FLEX](/fr/produits/profil-pvc-bluevolution-92-flex).`,
@@ -5370,6 +5386,10 @@ El acristalamiento triple de 44 mm (4 float / 16 argón / 4 Low-E / 16 argón / 
 
 No. Salamander bluEvolution 92 emplea exclusivamente estabilizantes de calcio-zinc (Ca-Zn) desde 2008, sin plomo ni cadmio. Está certificado VinylPlus de reciclabilidad y declarado conforme al Reglamento REACH (CE) n.º 1907/2006.
 
+### ¿Cuánto cuesta una ventana nZEB completa?
+
+De forma orientativa, sin IVA: una ventana Salamander bluEvolution 92 con doble acristalamiento cuesta 200–285 EUR/m², el triple vidrio Low-E añade 40–80 EUR/m² y la instalación con premarcos Blaugelb Triotherm+ y cintas añade 25–50 EUR por metro lineal de perímetro. Una ventana de 1,0 × 1,2 m sale así por unos 400–660 EUR; el importe exacto figura en el presupuesto escrito.
+
 ---
 
 Neofort BIZ ejecuta instalaciones nZEB completas, con premarcos Blaugelb Triotherm+ y triple acristalamiento, en Bucarest e Ilfov. [Envíenos los detalles del proyecto](/es/contacto) y recibirá un presupuesto en 48 horas. Vea los [sistemas nZEB completos](/es/sistemas-nzeb) que ofrecemos. Páginas útiles: [los premarcos Blaugelb Triotherm+](/es/sistemas-nzeb/premarcos-blaugelb-triotherm-plus) y [el perfil Salamander bluEvolution 92 FLEX](/es/productos/perfil-pvc-bluevolution-92-flex).`,
@@ -5511,6 +5531,10 @@ Il pacchetto triplo da 44 mm (4 float / 16 argon / 4 Low-E / 16 argon / 4 float)
 ### Il profilo Salamander bluEvolution 92 contiene piombo?
 
 No. Salamander bluEvolution 92 impiega esclusivamente stabilizzanti calcio-zinco (Ca-Zn) dal 2008, senza piombo e senza cadmio. È certificato VinylPlus per la riciclabilità e dichiarato conforme al Regolamento REACH (CE) n. 1907/2006.
+
+### Quanto costa una finestra nZEB completa?
+
+Indicativamente, IVA esclusa: una finestra Salamander bluEvolution 92 con vetrocamera doppia costa 200–285 EUR/m², il triplo vetro Low-E aggiunge 40–80 EUR/m² e la posa su controtelai Blaugelb Triotherm+ con nastri aggiunge 25–50 EUR per metro lineare di perimetro. Una finestra di 1,0 × 1,2 m arriva così a circa 400–660 EUR; l'importo esatto è nel preventivo scritto.
 
 ---
 
@@ -6257,7 +6281,7 @@ Profilul cu 6 camere și 92 mm adâncime, 3 garnituri EPDM, Uf = 0,9 W/(m²K). E
 5 camere, 76 mm adâncime. Cu tripan și Low-E atinge Uw de la 0,73 W/(m²K). Varianta recomandată pentru renovări și case noi cu buget controlat.
 
 ### 3. Tâmplărie aluminiu Alumil S77 Supreme — pentru proiecte arhitecturale
-Rupere de punte termică 40 mm, Uf de la 0,86 W/(m²K) la profil — echipat cu tripan și Low-E atinge Uw = 1,0–1,2 W/(m²K). Ideal pentru fațade vitrate mari, birouri, comercial.
+Rupere de punte termică 40 mm, Uf de la 0,85 W/(m²K) la profil — Uw-ul ferestrei, după Alumil, este între 0,85 și 1,4 W/(m²K), în funcție de geam și dimensiuni. Ideal pentru fațade vitrate mari, birouri, comercial.
 
 ## Ce trebuie să ceri obligatoriu la orice ofertă
 
@@ -6319,6 +6343,10 @@ Cere declarat în scris: valoarea Uw a ferestrei complete (nu doar Ug-ul geamulu
 
 Un geam dublu standard are Uw = 1,3-1,6 W/(m²K), peste pragul nZEB de 1,0 W/(m²K). Pentru izolație avansată e nevoie de tripan cu două camere de argon sau krypton și cel puțin un strat Low-E, cu Ug al pachetului ≤ 0,6 W/(m²K).
 
+### Cât durează de la comandă până la montaj?
+
+Oferta o primești în 48 de ore, pe baza dimensiunilor sau a schițelor tale. După semnarea contractului venim la măsurători, iar producția și livrarea durează 7–14 zile lucrătoare pentru profilurile standard. Montajul îl fac echipele noastre, cu benzi precomprimate Soudal și precadre Blaugelb.
+
 
 ---
 
@@ -6350,7 +6378,7 @@ Without all these elements together, a manufacturer cannot legitimately speak of
 5 chambers, 76 mm depth. With triple glazing and Low-E it achieves Uw from 0.73 W/(m²K). Recommended for renovations and new homes with a controlled budget.
 
 ### 3. Alumil S77 Supreme Aluminium — For Architectural Projects
-40 mm thermal break, Uf from 0.86 W/(m²K) at profile — fitted with triple glazing and Low-E achieves Uw = 1.0–1.2 W/(m²K). Ideal for large glazed facades, offices, commercial.
+40 mm thermal break, Uf from 0.85 W/(m²K) at profile — according to Alumil, the window Uw is between 0.85 and 1.4 W/(m²K), depending on glazing and size. Ideal for large glazed facades, offices, commercial.
 
 ## What to Always Ask For in Any Quote
 
@@ -6412,6 +6440,10 @@ Ask for it in writing: the Uw value of the complete window (not just the glass U
 
 Standard double glazing has Uw = 1.3-1.6 W/(m²K), above the nZEB threshold of 1.0 W/(m²K). Advanced insulation requires triple glazing with two argon or krypton chambers and at least one Low-E layer, with a glass-unit Ug ≤ 0.6 W/(m²K).
 
+### How long does it take from order to installation?
+
+You get the quote within 48 hours, based on your sizes or sketches. After the contract is signed we come to measure, and production and delivery take 7–14 working days for standard profiles. Installation is done by our own crews, with Soudal pre-compressed tapes and Blaugelb precasings.
+
 ---
 
 Neofort BIZ supplies insulating glazing with triple glass, Low-E coating and warm edge spacers in Bucharest and Ilfov. [Tell us your dimensions](/en/contact) and you will receive a quote within 48 hours. See the [PVC joinery range](/en/pvc-windows) we offer. Useful pages: [PVC windows in Bucharest](/en/pvc-windows/bucharest) and [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile).
@@ -6440,7 +6472,7 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 5 Kammern, 76 mm Tiefe. Mit Dreifachverglasung und Low-E erreicht es Uw ab 0,73 W/(m²K). Empfohlen für Renovierungen und Neubauten mit kontrolliertem Budget.
 
 ### 3. Alumil S77 Supreme Aluminium — Für Architekturprojekte
-40 mm thermische Trennung, Uf ab 0,86 W/(m²K) am Profil — mit Dreifachverglasung und Low-E erreicht Uw = 1,0–1,2 W/(m²K). Ideal für große Glasfassaden, Büros, Gewerbe.
+40 mm thermische Trennung, Uf ab 0,85 W/(m²K) am Profil — laut Alumil liegt der Uw des Fensters je nach Glas und Größe zwischen 0,85 und 1,4 W/(m²K). Ideal für große Glasfassaden, Büros, Gewerbe.
 
 ## Was Sie in jedem Angebot verlangen sollten
 
@@ -6501,6 +6533,10 @@ Verlangen Sie es schriftlich: den Uw-Wert des kompletten Fensters (nicht nur den
 
 Standard-Doppelglas hat Uw = 1,3-1,6 W/(m²K), über der nZEB-Schwelle von 1,0 W/(m²K). Fortschrittliche Dämmung erfordert Dreifachglas mit zwei Argon- oder Kryptonkammern und mindestens einer Low-E-Schicht, mit einem Glaspaket-Ug ≤ 0,6 W/(m²K).
 
+### Wie lange dauert es von der Bestellung bis zur Montage?
+
+Das Angebot erhalten Sie innerhalb von 48 Stunden, auf Basis Ihrer Maße oder Skizzen. Nach Vertragsunterzeichnung kommen wir zum Aufmaß; Fertigung und Lieferung dauern bei Standardprofilen 7–14 Werktage. Die Montage übernehmen unsere eigenen Teams, mit vorkomprimierten Soudal-Bändern und Blaugelb-Vorbaurahmen.
+
 ---
 
 Neofort BIZ liefert Isolierverglasung mit Dreifachglas, Low-E-Beschichtung und Warm-Edge-Abstandhaltern in Bukarest und Ilfov. [Nennen Sie uns Ihre Maße](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie unser [PVC-Sortiment](/de/kunststofffenster-pvc). Nützliche Seiten: [Kunststofffenster in Bukarest](/de/kunststofffenster-pvc/bukarest) und [Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil).
@@ -6529,7 +6565,7 @@ Profilé 6 chambres, 92 mm de profondeur, 3 joints EPDM, Uf = 0,9 W/(m²K). Équ
 5 chambres, 76 mm de profondeur. Avec triple vitrage et Low-E, il atteint un Uw à partir de 0,73 W/(m²K). Recommandé pour les rénovations et les maisons neuves à budget maîtrisé.
 
 ### 3. Alumil S77 Supreme aluminium — Pour les projets architecturaux
-Rupture thermique 40 mm, Uf à partir de 0,86 W/(m²K) au profilé — avec triple vitrage et Low-E atteint Uw = 1,0–1,2 W/(m²K). Idéal pour les grandes façades vitrées, bureaux, commercial.
+Rupture thermique 40 mm, Uf à partir de 0,85 W/(m²K) au profilé — selon Alumil, l'Uw de la fenêtre se situe entre 0,85 et 1,4 W/(m²K) selon le vitrage et les dimensions. Idéal pour les grandes façades vitrées, bureaux, commercial.
 
 ## Ce qu'il faut toujours demander dans tout devis
 
@@ -6586,6 +6622,10 @@ Demandez-le par écrit : la valeur Uw de la fenêtre complète (pas seulement l'
 
 Un double vitrage standard a Uw = 1,3-1,6 W/(m²K), au-dessus du seuil nZEB de 1,0 W/(m²K). L'isolation avancée nécessite un triple vitrage à deux chambres d'argon ou krypton et au moins une couche Low-E, avec un Ug du vitrage ≤ 0,6 W/(m²K).
 
+### Combien de temps entre la commande et la pose ?
+
+Vous recevez le devis sous 48 heures, à partir de vos dimensions ou croquis. Après la signature du contrat, nous venons prendre les mesures ; la fabrication et la livraison prennent 7 à 14 jours ouvrés pour les profilés standard. La pose est réalisée par nos propres équipes, avec bandes précomprimées Soudal et précadres Blaugelb.
+
 ---
 
 Neofort BIZ fournit des vitrages isolants en triple vitrage, Low-E et intercalaire warm edge, à Bucarest et dans l’Ilfov. [Indiquez-nous vos dimensions](/fr/contact) et recevez un devis sous 48 heures. Découvrez notre [gamme PVC](/fr/menuiserie-pvc). Pages utiles : [la menuiserie PVC à Bucarest](/fr/menuiserie-pvc/bucarest) et [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round).
@@ -6614,7 +6654,7 @@ Perfil de 6 cámaras, 92 mm de profundidad, 3 juntas EPDM, Uf = 0,9 W/(m²K). Co
 5 cámaras, 76 mm de profundidad. Con triple acristalamiento y Low-E alcanza Uw desde 0,73 W/(m²K). Recomendado para reformas y casas nuevas con presupuesto controlado.
 
 ### 3. Alumil S77 Supreme aluminio — Para proyectos arquitectónicos
-Rotura térmica 40 mm, Uf desde 0,86 W/(m²K) en el perfil — con triple acristalamiento y Low-E alcanza Uw = 1,0–1,2 W/(m²K). Ideal para grandes fachadas acristaladas, oficinas, comercial.
+Rotura térmica 40 mm, Uf desde 0,85 W/(m²K) en el perfil — según Alumil, el Uw de la ventana está entre 0,85 y 1,4 W/(m²K) según el vidrio y las dimensiones. Ideal para grandes fachadas acristaladas, oficinas, comercial.
 
 ## Qué pedir siempre en cualquier presupuesto
 
@@ -6671,6 +6711,10 @@ Pídelo por escrito: el valor Uw de la ventana completa (no solo el Ug del vidri
 
 Un doble vidrio estándar tiene Uw = 1,3-1,6 W/(m²K), por encima del umbral nZEB de 1,0 W/(m²K). El aislamiento avanzado requiere triple vidrio con dos cámaras de argón o kriptón y al menos una capa Low-E, con un Ug del vidrio ≤ 0,6 W/(m²K).
 
+### ¿Cuánto se tarda desde el pedido hasta la instalación?
+
+Recibe el presupuesto en 48 horas, a partir de sus medidas o bocetos. Tras la firma del contrato vamos a medir, y la fabricación y la entrega tardan 7–14 días laborables con perfiles estándar. La instalación la hacen nuestros propios equipos, con cintas precomprimidas Soudal y premarcos Blaugelb.
+
 ---
 
 Neofort BIZ suministra vidrio aislante con triple acristalamiento, capa Low-E y separador warm edge en Bucarest e Ilfov. [Indíquenos sus medidas](/es/contacto) y recibirá un presupuesto en 48 horas. Vea nuestra [gama PVC](/es/carpinteria-pvc). Páginas útiles: [la carpintería PVC en Bucarest](/es/carpinteria-pvc/bucarest) y [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round).
@@ -6699,7 +6743,7 @@ Profilo a 6 camere, 92 mm di profondità, 3 guarnizioni EPDM, Uf = 0,9 W/(m²K).
 5 camere, 76 mm di profondità. Con triplo vetro e Low-E raggiunge Uw a partire da 0,73 W/(m²K). Consigliato per ristrutturazioni e nuove abitazioni con budget controllato.
 
 ### 3. Alumil S77 Supreme alluminio — Per progetti architettonici
-Taglio termico 40 mm, Uf a partire da 0,86 W/(m²K) al profilo — con triplo vetro e Low-E raggiunge Uw = 1,0–1,2 W/(m²K). Ideale per grandi facciate vetrate, uffici, commerciale.
+Taglio termico 40 mm, Uf a partire da 0,85 W/(m²K) al profilo — secondo Alumil, l'Uw della finestra è tra 0,85 e 1,4 W/(m²K) secondo vetro e dimensioni. Ideale per grandi facciate vetrate, uffici, commerciale.
 
 ## Cosa richiedere sempre in qualsiasi preventivo
 
@@ -6755,6 +6799,10 @@ Chiedilo per iscritto: il valore Uw della finestra completa (non solo l'Ug del v
 ### Perché un doppio vetro standard non conta come isolamento avanzato?
 
 Un doppio vetro standard ha Uw = 1,3-1,6 W/(m²K), sopra la soglia nZEB di 1,0 W/(m²K). L'isolamento avanzato richiede triplo vetro con due camere di argon o krypton e almeno uno strato Low-E, con un Ug del pacchetto ≤ 0,6 W/(m²K).
+
+### Quanto tempo passa dall'ordine alla posa?
+
+Ricevete il preventivo entro 48 ore, in base alle vostre misure o ai vostri schizzi. Dopo la firma del contratto veniamo a fare il rilievo; produzione e consegna richiedono 7–14 giorni lavorativi per i profili standard. La posa è eseguita dalle nostre squadre, con nastri precompressi Soudal e controtelai Blaugelb.
 
 ---
 
@@ -7632,6 +7680,10 @@ Raffstore C80 are lamele de 80 mm din aluminiu laminat vopsit electrostatic, mod
 
 Nu sunt potrivite la apartamentele de bloc cu fațadă comună, unde montajul necesită aprobarea asociației, și nici dacă bugetul e limitat — costă mai mult decât rulourile standard. În aceste cazuri, rulourile exterioare din aluminiu rămân o alternativă mai accesibilă.
 
+### Cât costă jaluzelele exterioare în București?
+
+Orientativ, cu montaj și fără TVA: un Raffstore C80 electric Somfy de 100 × 150 cm costă 225–300 EUR, un rulou exterior din aluminiu aplicat, manual, de aceeași mărime 130–180 EUR, iar un Zipscreen de 100 × 200 cm 450–600 EUR manual sau 700–900 EUR electric Somfy io. Prețul final depinde de dimensiuni, culoare și accesorii.
+
 
 ---
 
@@ -7717,6 +7769,10 @@ Raffstore C80 has 80 mm rolled aluminium slats, electrostatically coated, the st
 ### When are external blinds not suitable?
 
 They are not suitable for apartment blocks with a shared façade, where fitting needs the residents' association approval, nor where budget is limited — they cost more than standard roller shutters. In these cases, aluminium roller shutters remain a more affordable alternative.
+
+### How much do external blinds cost in Bucharest?
+
+As a guide, installed and excluding VAT: a 100 × 150 cm Raffstore C80 with a Somfy motor costs 225–300 EUR, a manual surface-mounted aluminium roller shutter of the same size 130–180 EUR, and a 100 × 200 cm Zipscreen 450–600 EUR manual or 700–900 EUR with a Somfy io motor. The final price depends on size, colour and accessories.
 
 
 ---
@@ -7804,6 +7860,10 @@ Raffstore C80 hat 80-mm-Lamellen aus gewalztem, elektrostatisch beschichtetem Al
 
 Sie sind nicht geeignet für Wohnblöcke mit gemeinsamer Fassade, wo der Einbau die Zustimmung der Eigentümergemeinschaft erfordert, und auch nicht bei begrenztem Budget — sie kosten mehr als Standard-Rollläden. In diesen Fällen bleiben Aluminium-Rollläden eine günstigere Alternative.
 
+### Was kosten Außenjalousien in Bukarest?
+
+Als Richtwert, mit Montage und ohne MwSt.: Ein Raffstore C80 mit Somfy-Motor in 100 × 150 cm kostet 225–300 EUR, ein manueller Vorbaurollladen aus Aluminium gleicher Größe 130–180 EUR und ein Zipscreen in 100 × 200 cm 450–600 EUR manuell oder 700–900 EUR mit Somfy-io-Motor. Der Endpreis hängt von Maßen, Farbe und Zubehör ab.
+
 
 ---
 
@@ -7889,6 +7949,10 @@ Le Raffstore C80 a des lames de 80 mm en aluminium laminé laqué électrostatiq
 ### Quand les stores extérieurs ne conviennent-ils pas ?
 
 Ils ne conviennent pas aux immeubles à façade commune, où la pose nécessite l'accord de la copropriété, ni si le budget est limité — ils coûtent plus cher que les volets roulants standard. Dans ces cas, les volets roulants en aluminium restent une alternative plus abordable.
+
+### Combien coûtent les stores extérieurs à Bucarest ?
+
+À titre indicatif, pose comprise et hors TVA : un Raffstore C80 motorisé Somfy de 100 × 150 cm coûte 225–300 EUR, un volet roulant aluminium en applique, manuel, de même taille 130–180 EUR, et un Zipscreen de 100 × 200 cm 450–600 EUR manuel ou 700–900 EUR motorisé Somfy io. Le prix final dépend des dimensions, de la couleur et des accessoires.
 
 
 ---
@@ -7976,6 +8040,10 @@ La Raffstore C80 tiene lamas de 80 mm de aluminio laminado lacado electrostátic
 
 No son adecuadas para bloques de pisos con fachada común, donde el montaje requiere aprobación de la comunidad, ni si el presupuesto es limitado — cuestan más que las enrollables estándar. En estos casos, las enrollables de aluminio siguen siendo una alternativa más asequible.
 
+### ¿Cuánto cuestan las persianas exteriores en Bucarest?
+
+De forma orientativa, con instalación y sin IVA: un Raffstore C80 motorizado Somfy de 100 × 150 cm cuesta 225–300 EUR, una persiana enrollable de aluminio de superficie, manual, del mismo tamaño 130–180 EUR, y un Zipscreen de 100 × 200 cm 450–600 EUR manual o 700–900 EUR con motor Somfy io. El precio final depende de las medidas, el color y los accesorios.
+
 
 ---
 
@@ -8061,6 +8129,10 @@ La Raffstore C80 ha lamelle da 80 mm in alluminio laminato verniciato elettrosta
 ### Quando le tende esterne non sono adatte?
 
 Non sono adatte per condomini con facciata comune, dove la posa richiede l'approvazione dell'amministrazione, né se il budget è limitato — costano più delle tapparelle standard. In questi casi, le tapparelle in alluminio restano un'alternativa più accessibile.
+
+### Quanto costano le tende esterne a Bucarest?
+
+Indicativamente, posa inclusa e IVA esclusa: un Raffstore C80 motorizzato Somfy da 100 × 150 cm costa 225–300 EUR, una tapparella in alluminio esterna, manuale, della stessa misura 130–180 EUR, e uno Zipscreen da 100 × 200 cm 450–600 EUR manuale o 700–900 EUR con motore Somfy io. Il prezzo finale dipende da misure, colore e accessori.
 
 
 ---
@@ -8221,6 +8293,10 @@ Precadrul Blaugelb Triotherm Plus se montează înainte de fereastră și creeaz
 
 Întotdeauna cu măsurători la fața locului, nu cu dimensiuni aproximative. Tehnicianul măsoară golul de zidărie și calculează tocul ținând cont de tipul de perete (BCA, cărămidă, beton), grosimea tencuielii sau termoizolației, tipul de montaj (direct sau pe precadru) și glafuri.
 
+### Care sunt cele mai frecvente greșeli de montaj?
+
+Spuma poliuretanică la exterior în loc de bandă precomprimată, care crapă în 2–3 ani și lasă apa să intre; calele de lemn sub toc, care putrezesc; lipsa precadrului la construcțiile nZEB, unde puntea termică anulează 40–60% din economia de energie; tocul dimensionat greșit, cu rosturi umplute cu prea multă spumă; și feroneria lăsată nereglată după montaj.
+
 
 ---
 
@@ -8308,6 +8384,10 @@ The Blaugelb Triotherm Plus pre-frame is fitted before the window and creates a 
 
 Always with on-site measurements, not approximate dimensions. The technician measures the masonry opening and calculates the frame considering the wall type (AAC, brick, concrete), the plaster or insulation thickness, the fitting method (direct or on a pre-frame) and the sills.
 
+### What are the most common installation mistakes?
+
+Polyurethane foam on the outside instead of pre-compressed tape, which cracks within 2–3 years and lets water in; timber packers under the frame, which rot; no precasing on nZEB buildings, where the thermal bridge wipes out 40–60% of the energy saving; a wrongly sized frame, with joints filled with too much foam; and hardware left unadjusted after installation.
+
 
 ---
 
@@ -8393,6 +8473,10 @@ Der Blaugelb Triotherm Plus Vorrahmen wird vor dem Fenster eingebaut und schafft
 ### Wie beginnt ein professioneller Fenstereinbau?
 
 Immer mit Vor-Ort-Messungen, nicht mit Näherungsmaßen. Der Techniker misst die Maueröffnung und berechnet den Rahmen unter Berücksichtigung von Wandtyp (Porenbeton, Ziegel, Beton), Putz- oder Dämmstärke, Einbaumethode (direkt oder auf Vorrahmen) und Fensterbänken.
+
+### Welche Montagefehler kommen am häufigsten vor?
+
+PU-Schaum außen statt vorkomprimiertem Band, der nach 2–3 Jahren reißt und Wasser eindringen lässt; Holzklötze unter dem Rahmen, die verrotten; fehlender Vorbaurahmen bei nZEB-Bauten, wo die Wärmebrücke 40–60 % der Energieeinsparung zunichtemacht; ein falsch bemessener Rahmen mit zu viel Schaum in den Fugen; und nach der Montage nicht eingestellte Beschläge.
 
 
 ---
@@ -8480,6 +8564,10 @@ Le précadre Blaugelb Triotherm Plus se pose avant la fenêtre et crée une barr
 
 Toujours par des mesures sur place, pas des dimensions approximatives. Le technicien mesure la baie en maçonnerie et calcule le dormant en tenant compte du type de mur (béton cellulaire, brique, béton), de l'épaisseur d'enduit ou d'isolation, de la méthode de pose (directe ou sur précadre) et des appuis.
 
+### Quelles sont les erreurs de pose les plus fréquentes ?
+
+De la mousse polyuréthane à l'extérieur au lieu d'une bande précomprimée, qui se fissure en 2–3 ans et laisse entrer l'eau ; des cales en bois sous le dormant, qui pourrissent ; l'absence de précadre sur les bâtiments nZEB, où le pont thermique annule 40 à 60 % de l'économie d'énergie ; un dormant mal dimensionné, avec des joints remplis de trop de mousse ; et une quincaillerie laissée sans réglage après la pose.
+
 
 ---
 
@@ -8566,6 +8654,10 @@ El premarco Blaugelb Triotherm Plus se monta antes de la ventana y crea una barr
 
 Siempre con mediciones in situ, no con dimensiones aproximadas. El técnico mide el hueco de obra y calcula el marco teniendo en cuenta el tipo de muro (hormigón celular, ladrillo, hormigón), el grosor del revoco o aislamiento, el método de instalación (directo o sobre premarco) y los alféizares.
 
+### ¿Cuáles son los errores de instalación más frecuentes?
+
+Espuma de poliuretano en el exterior en lugar de cinta precomprimida, que se agrieta en 2–3 años y deja entrar el agua; calzos de madera bajo el marco, que se pudren; la falta de premarco en edificios nZEB, donde el puente térmico anula el 40–60 % del ahorro de energía; un marco mal dimensionado, con juntas llenas de demasiada espuma; y herrajes sin regular tras la instalación.
+
 
 ---
 
@@ -8651,6 +8743,10 @@ Il controtelaio Blaugelb Triotherm Plus si monta prima della finestra e crea una
 ### Come inizia una posa professionale di finestre?
 
 Sempre con misurazioni in loco, non con dimensioni approssimative. Il tecnico misura il vano in muratura e calcola il telaio considerando il tipo di parete (calcestruzzo cellulare, mattone, cemento), lo spessore di intonaco o isolamento, il metodo di posa (diretto o su controtelaio) e i davanzali.
+
+### Quali sono gli errori di posa più frequenti?
+
+Schiuma poliuretanica all'esterno al posto del nastro precompresso, che si crepa in 2–3 anni e lascia entrare l'acqua; spessori in legno sotto il telaio, che marciscono; nessun controtelaio negli edifici nZEB, dove il ponte termico annulla il 40–60% del risparmio energetico; un telaio dimensionato male, con fughe riempite di troppa schiuma; e ferramenta non regolata dopo la posa.
 
 
 ---
@@ -11882,6 +11978,10 @@ Raffstore se acționează manual (snur sau tijă), electric (motor 24V sau 230V)
 
 Pentru control fin al luminii și vederii, alege Raffstore: poți avea jaluzeaua coborâtă cu lamelele la 45°, lăsând lumina difuză să intre în timp ce vederea directă din exterior e blocată și soarele direct eliminat. Pentru întuneric total (dormitor), rulourile de aluminiu sunt mai potrivite.
 
+### Pot combina jaluzele Raffstore și rulouri în aceeași casă?
+
+Da, și pentru casele noi e combinația pe care o recomandăm: Raffstore la living și birou, unde controlul luminii pe parcursul zilei contează, și rulouri din aluminiu la dormitoare, pentru întuneric complet și izolare fonică mai bună. Rulourile sunt potrivite și la parter, pentru securitate.
+
 ---
 
 Neofort BIZ montează atât jaluzele Raffstore, cât și rulouri exterioare din aluminiu în București și Ilfov, cu automatizare Somfy opțională. Vezi [sistemele de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Pentru context complet, citește [ghidul sistemelor de umbrire — ZipScreen, rulouri, Raffstore, pergole](/ro/blog/zipscreen-umbrire-terasa-ghid-complet). Pagini utile: [jaluzelele venețiene Raffstore](/ro/umbrire/jaluzele-venetiene-raffstore) și [rulourile exterioare din aluminiu](/ro/umbrire/rulouri-exterioare-aluminiu).`,
@@ -12010,6 +12110,10 @@ Raffstore are operated manually (cord or rod), electrically (24V or 230V motor) 
 ### Which shading system should I choose for fine light control?
 
 For fine control of light and view, choose Raffstore: you can have the blind lowered with slats at 45°, letting diffuse light in while blocking the direct outside view and eliminating direct sun. For total darkness (bedroom), aluminium roller shutters are more suitable.
+
+### Can I combine Raffstore blinds and roller shutters in the same house?
+
+Yes, and for new houses it is the combination we recommend: Raffstore in the living room and study, where controlling light through the day matters, and aluminium roller shutters in the bedrooms, for full darkness and better sound insulation. Roller shutters also suit the ground floor, for security.
 
 ---
 
@@ -12140,6 +12244,10 @@ Raffstore werden manuell (Schnur oder Stab), elektrisch (24V- oder 230V-Motor) o
 
 Für feine Steuerung von Licht und Sicht wählen Sie Raffstore: Sie können die Jalousie herabgelassen mit Lamellen auf 45° haben, diffuses Licht hereinlassen, während die direkte Außensicht blockiert und die direkte Sonne eliminiert wird. Für totale Dunkelheit (Schlafzimmer) sind Aluminium-Rollläden geeigneter.
 
+### Kann ich Raffstore und Rollläden im selben Haus kombinieren?
+
+Ja, und für Neubauten ist das die Kombination, die wir empfehlen: Raffstore im Wohnzimmer und Arbeitszimmer, wo die Lichtsteuerung über den Tag zählt, und Aluminium-Rollläden in den Schlafzimmern, für völlige Dunkelheit und besseren Schallschutz. Rollläden passen auch ins Erdgeschoss, wegen der Sicherheit.
+
 ---
 
 Neofort BIZ montiert sowohl Raffstore-Jalousien als auch Aluminiumrollläden in Bukarest und Ilfov, mit optionaler Somfy-Automatisierung. Sehen Sie [die Beschattungssysteme](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Für den vollständigen Kontext lesen Sie [den Beschattungssysteme-Ratgeber — ZipScreen, Rollläden, Raffstore, Pergolen](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden). Nützliche Seiten: [Raffstore-Außenjalousien](/de/beschattungssysteme/raffstore-aussenjalousien) und [Aluminium-Außenrollladen](/de/beschattungssysteme/aluminium-aussenrollladen).`,
@@ -12268,6 +12376,10 @@ Les Raffstore s'actionnent manuellement (cordon ou tige), électriquement (moteu
 ### Quel système d'occultation choisir pour un contrôle fin de la lumière ?
 
 Pour un contrôle fin de la lumière et de la vue, choisissez Raffstore : vous pouvez avoir le store baissé avec les lames à 45°, laissant entrer la lumière diffuse tout en bloquant la vue directe de l'extérieur et en éliminant le soleil direct. Pour l'obscurité totale (chambre), les volets roulants aluminium conviennent mieux.
+
+### Peut-on combiner stores Raffstore et volets roulants dans la même maison ?
+
+Oui, et pour les maisons neuves c'est la combinaison que nous recommandons : Raffstore au séjour et au bureau, où le contrôle de la lumière au fil de la journée compte, et volets roulants en aluminium dans les chambres, pour l'obscurité totale et une meilleure isolation phonique. Les volets roulants conviennent aussi au rez-de-chaussée, pour la sécurité.
 
 ---
 
@@ -12398,6 +12510,10 @@ Las Raffstore se accionan manualmente (cordón o varilla), eléctricamente (moto
 
 Para control fino de luz y vista, elige Raffstore: puedes tener la persiana bajada con las lamas a 45°, dejando entrar luz difusa mientras bloqueas la vista directa desde el exterior y eliminas el sol directo. Para oscuridad total (dormitorio), las enrollables de aluminio son más adecuadas.
 
+### ¿Puedo combinar venecianas Raffstore y persianas enrollables en la misma casa?
+
+Sí, y para casas nuevas es la combinación que recomendamos: Raffstore en el salón y el despacho, donde importa controlar la luz a lo largo del día, y persianas enrollables de aluminio en los dormitorios, para oscuridad total y mejor aislamiento acústico. Las enrollables también convienen en la planta baja, por seguridad.
+
 ---
 
 Neofort BIZ instala tanto venecianas Raffstore como persianas enrollables de aluminio en Bucarest e Ilfov, con automatización Somfy opcional. Ver [los sistemas de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicita un presupuesto](/es/contacto). Para el contexto completo, lee [la guía de sistemas de sombreado — ZipScreen, persianas, Raffstore, pérgolas](/es/blog/zipscreen-sombreado-terraza-guia-completa). Páginas útiles: [las venecianas Raffstore](/es/sistemas-sombreado/persianas-venecianas-raffstore) y [las persianas exteriores de aluminio](/es/sistemas-sombreado/persianas-exteriores-aluminio).`,
@@ -12526,6 +12642,10 @@ Le Raffstore si azionano manualmente (cordino o asta), elettricamente (motore 24
 ### Quale sistema di schermatura scegliere per un controllo fine della luce?
 
 Per un controllo fine di luce e vista, scegli Raffstore: puoi avere la tenda abbassata con le lamelle a 45°, lasciando entrare luce diffusa mentre blocchi la vista diretta dall'esterno ed elimini il sole diretto. Per il buio totale (camera da letto), le tapparelle in alluminio sono più adatte.
+
+### Posso combinare veneziane Raffstore e tapparelle nella stessa casa?
+
+Sì, e per le case nuove è la combinazione che consigliamo: Raffstore nel soggiorno e nello studio, dove conta controllare la luce durante la giornata, e tapparelle in alluminio nelle camere da letto, per il buio completo e un migliore isolamento acustico. Le tapparelle sono adatte anche al piano terra, per la sicurezza.
 
 ---
 
@@ -12733,6 +12853,10 @@ Totul începe cu o cerere de ofertă pe email sau WhatsApp. Ai nevoie de schițe
 
 Exportul în Germania și toată Europa face parte din activitatea curentă Neofort BIZ de peste 10 ani. Materialele sunt toate importate din Germania, Austria și Grecia, deci calitatea e identică cu cea a produselor cumpărate direct în Europa de Vest, la un preț semnificativ mai mic.
 
+### Ce documente primești la o livrare în Germania?
+
+Livrarea în UE nu are formalități vamale. Primești factura fiscală în română și în engleză sau germană, lista detaliată a coletelor (packing list) și declarația de conformitate CE pentru fiecare tip de produs, obligatorie în Germania. La cerere îți dăm și valorile Uw și Ug pentru calculul energetic.
+
 ---
 
 Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [ghidul de export pentru case și vile în Europa](/ro/blog/tamplarie-salamander-case-individuale-vile-export-europa). Pentru bugetare înainte de comandă, nivelurile de preț sunt publicate la [tâmplărie aluminiu](/ro/tamplarie-aluminiu/preturi) și [tâmplărie PVC](/ro/tamplarie-pvc/preturi).`,
@@ -12874,6 +12998,10 @@ It all starts with a quote request by email or WhatsApp. You need sketches or ph
 ### How long has Neofort BIZ been exporting joinery to Europe?
 
 Exporting to Germany and across Europe has been part of Neofort BIZ's regular activity for over 10 years. All materials are imported from Germany, Austria and Greece, so quality is identical to products bought directly in Western Europe, at a significantly lower price.
+
+### What documents do you get with a delivery to Germany?
+
+Deliveries within the EU involve no customs formalities. You receive the invoice in Romanian and in English or German, a detailed packing list and the CE declaration of conformity for each product type, which is mandatory in Germany. On request we also provide the Uw and Ug values for the energy calculation.
 
 ---
 
@@ -13017,6 +13145,10 @@ Alles beginnt mit einer Angebotsanfrage per E-Mail oder WhatsApp. Sie benötigen
 
 Der Export nach Deutschland und ganz Europa ist seit über 10 Jahren Teil der regulären Tätigkeit von Neofort BIZ. Alle Materialien werden aus Deutschland, Österreich und Griechenland importiert, sodass die Qualität mit direkt in Westeuropa gekauften Produkten identisch ist, zu einem deutlich niedrigeren Preis.
 
+### Welche Dokumente erhalten Sie bei einer Lieferung nach Deutschland?
+
+Lieferungen innerhalb der EU erfordern keine Zollformalitäten. Sie erhalten die Rechnung auf Rumänisch und auf Englisch oder Deutsch, eine detaillierte Packliste und die CE-Konformitätserklärung für jeden Produkttyp, die in Deutschland Pflicht ist. Auf Anfrage liefern wir auch die Uw- und Ug-Werte für die Energieberechnung.
+
 ---
 
 Neofort BIZ liefert und montiert Salamander PVC-Fenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie die [Salamander-PVC-Fenster](/de/kunststofffenster-pvc), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Siehe auch [den Exportratgeber für Häuser und Villen in Europa](/de/blog/salamander-fenster-einfamilienhaeuser-villen-europa-export). Für die Budgetierung vor der Bestellung sind die Preisniveaus für [Aluminiumfenster](/de/aluminiumfenster/preise) und [Kunststofffenster](/de/kunststofffenster-pvc/preise) veröffentlicht.`,
@@ -13158,6 +13290,10 @@ Tout commence par une demande de devis par email ou WhatsApp. Il vous faut des c
 ### Depuis combien de temps Neofort BIZ exporte-t-il des menuiseries en Europe ?
 
 L'export vers l'Allemagne et toute l'Europe fait partie de l'activité courante de Neofort BIZ depuis plus de 10 ans. Tous les matériaux sont importés d'Allemagne, d'Autriche et de Grèce, donc la qualité est identique aux produits achetés directement en Europe de l'Ouest, à un prix nettement inférieur.
+
+### Quels documents recevez-vous pour une livraison en Allemagne ?
+
+Une livraison dans l'UE ne comporte aucune formalité douanière. Vous recevez la facture en roumain et en anglais ou en allemand, une liste de colisage détaillée et la déclaration de conformité CE pour chaque type de produit, obligatoire en Allemagne. Sur demande, nous fournissons aussi les valeurs Uw et Ug pour le calcul énergétique.
 
 ---
 
@@ -13301,6 +13437,10 @@ Todo empieza con una solicitud de presupuesto por email o WhatsApp. Necesitas bo
 
 La exportación a Alemania y toda Europa forma parte de la actividad habitual de Neofort BIZ desde hace más de 10 años. Todos los materiales se importan de Alemania, Austria y Grecia, por lo que la calidad es idéntica a los productos comprados directamente en Europa Occidental, a un precio notablemente inferior.
 
+### ¿Qué documentos recibe con una entrega en Alemania?
+
+Las entregas dentro de la UE no tienen trámites aduaneros. Recibe la factura en rumano y en inglés o alemán, una lista de bultos detallada (packing list) y la declaración de conformidad CE de cada tipo de producto, obligatoria en Alemania. Bajo petición le damos también los valores Uw y Ug para el cálculo energético.
+
 ---
 
 Neofort BIZ suministra e instala carpintería PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Ver [la carpintería PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicita un presupuesto](/es/contacto). Ver también [la guía de exportación para casas y villas en Europa](/es/blog/carpinteria-salamander-casas-individuales-villas-exportacion-europa). Para presupuestar antes del pedido, los niveles de precio están publicados para [carpintería de aluminio](/es/carpinteria-aluminio/precios) y [carpintería PVC](/es/carpinteria-pvc/precios).`,
@@ -13443,6 +13583,10 @@ Tutto inizia con una richiesta di preventivo via email o WhatsApp. Servono schiz
 
 L'esportazione in Germania e in tutta Europa fa parte dell'attività corrente di Neofort BIZ da oltre 10 anni. Tutti i materiali sono importati da Germania, Austria e Grecia, quindi la qualità è identica ai prodotti acquistati direttamente in Europa occidentale, a un prezzo notevolmente inferiore.
 
+### Quali documenti ricevete con una consegna in Germania?
+
+Le consegne all'interno dell'UE non richiedono formalità doganali. Ricevete la fattura in rumeno e in inglese o tedesco, una packing list dettagliata e la dichiarazione di conformità CE per ogni tipo di prodotto, obbligatoria in Germania. Su richiesta forniamo anche i valori Uw e Ug per il calcolo energetico.
+
 ---
 
 Neofort BIZ fornisce e installa serramenti in PVC Salamander a Bucarest e Ilfov, con consegna in tutta Europa. Vedi [gli infissi PVC Salamander](/it/infissi-pvc) che offriamo o [richiedi un preventivo](/it/contatti). Vedi anche [la guida all’export per case e ville in Europa](/it/blog/infissi-salamander-case-individuali-ville-esportazione-europa). Per il budget prima dell'ordine, i livelli di prezzo sono pubblicati per gli [infissi in alluminio](/it/infissi-alluminio/prezzi) e gli [infissi in PVC](/it/infissi-pvc/prezzi).`,
@@ -13494,12 +13638,12 @@ Neofort BIZ fornisce e installa serramenti in PVC Salamander a Bucarest e Ilfov,
       it: 'Infissi in alluminio con taglio termico — guida completa 2026: sistemi Alumil, prezzi e prestazioni',
     },
     excerpt: {
-      ro: 'Bariera termică din poliamidă separă fizic interiorul de exteriorul profilului de aluminiu și elimină puntea termică: 30 mm la Alumil Smartia S67 (Uf de la 1,1), 40 mm la Supreme S77 (Uf de la 0,86 W/m²K). Ghid complet: ce sisteme Alumil recomandăm, cum alegi între ele și ce prețuri să aștepți în 2026.',
-      en: 'The polyamide thermal break physically separates the inside from the outside of the aluminium profile and removes the thermal bridge: 30 mm on Alumil Smartia S67 (Uf from 1.1), 40 mm on Supreme S77 (Uf from 0.86 W/m²K). Complete guide: which Alumil systems we recommend, how to choose between them and what prices to expect in 2026.',
-      de: 'Die thermische Trennung aus Polyamid trennt Innen- und Außenseite des Aluminiumprofils und beseitigt die Wärmebrücke: 30 mm bei Alumil Smartia S67 (Uf ab 1,1), 40 mm bei Supreme S77 (Uf ab 0,86 W/m²K). Komplettleitfaden: welche Alumil-Systeme wir empfehlen, wie Sie zwischen ihnen wählen und welche Preise Sie 2026 erwarten.',
-      fr: 'La rupture thermique en polyamide sépare physiquement l’intérieur de l’extérieur du profilé aluminium et supprime le pont thermique : 30 mm sur l’Alumil Smartia S67 (Uf à partir de 1,1), 40 mm sur le Supreme S77 (Uf à partir de 0,86 W/m²K). Guide complet : quels systèmes Alumil nous recommandons, comment choisir et quels prix attendre en 2026.',
-      es: 'La rotura de puente térmico de poliamida separa físicamente el interior del exterior del perfil de aluminio y elimina el puente térmico: 30 mm en Alumil Smartia S67 (Uf desde 1,1), 40 mm en Supreme S77 (Uf desde 0,86 W/m²K). Guía completa: qué sistemas Alumil recomendamos, cómo elegir entre ellos y qué precios esperar en 2026.',
-      it: 'Il taglio termico in poliammide separa fisicamente l’interno dall’esterno del profilo in alluminio ed elimina il ponte termico: 30 mm su Alumil Smartia S67 (Uf da 1,1), 40 mm su Supreme S77 (Uf da 0,86 W/m²K). Guida completa: quali sistemi Alumil consigliamo, come scegliere e quali prezzi aspettarsi nel 2026.',
+      ro: 'Bariera termică din poliamidă separă fizic interiorul de exteriorul profilului de aluminiu și elimină puntea termică: 30 mm la Alumil Smartia S67 (Uf de la 1,1), 40 mm la Supreme S77 (Uf de la 0,85 W/m²K). Ghid complet: ce sisteme Alumil recomandăm, cum alegi între ele și ce prețuri să aștepți în 2026.',
+      en: 'The polyamide thermal break physically separates the inside from the outside of the aluminium profile and removes the thermal bridge: 30 mm on Alumil Smartia S67 (Uf from 1.1), 40 mm on Supreme S77 (Uf from 0.85 W/m²K). Complete guide: which Alumil systems we recommend, how to choose between them and what prices to expect in 2026.',
+      de: 'Die thermische Trennung aus Polyamid trennt Innen- und Außenseite des Aluminiumprofils und beseitigt die Wärmebrücke: 30 mm bei Alumil Smartia S67 (Uf ab 1,1), 40 mm bei Supreme S77 (Uf ab 0,85 W/m²K). Komplettleitfaden: welche Alumil-Systeme wir empfehlen, wie Sie zwischen ihnen wählen und welche Preise Sie 2026 erwarten.',
+      fr: 'La rupture thermique en polyamide sépare physiquement l’intérieur de l’extérieur du profilé aluminium et supprime le pont thermique : 30 mm sur l’Alumil Smartia S67 (Uf à partir de 1,1), 40 mm sur le Supreme S77 (Uf à partir de 0,85 W/m²K). Guide complet : quels systèmes Alumil nous recommandons, comment choisir et quels prix attendre en 2026.',
+      es: 'La rotura de puente térmico de poliamida separa físicamente el interior del exterior del perfil de aluminio y elimina el puente térmico: 30 mm en Alumil Smartia S67 (Uf desde 1,1), 40 mm en Supreme S77 (Uf desde 0,85 W/m²K). Guía completa: qué sistemas Alumil recomendamos, cómo elegir entre ellos y qué precios esperar en 2026.',
+      it: 'Il taglio termico in poliammide separa fisicamente l’interno dall’esterno del profilo in alluminio ed elimina il ponte termico: 30 mm su Alumil Smartia S67 (Uf da 1,1), 40 mm su Supreme S77 (Uf da 0,85 W/m²K). Guida completa: quali sistemi Alumil consigliamo, come scegliere e quali prezzi aspettarsi nel 2026.',
     },
     metaDesc: {
       ro: "Tâmplărie din aluminiu cu barieră termică: sistemele Alumil Supreme și Smartia, valori Uw reale, deschideri maxime și prețuri pe metru pătrat.",
@@ -13546,8 +13690,8 @@ Aluminiul acoperă o gamă mult mai largă decât ferestrele obișnuite. În fun
 
 | Caracteristică | Aluminiu fără barieră | Smartia S67 (poliamidă 30 mm) | Supreme S77 (poliamidă 40 mm) |
 |---|---|---|---|
-| Uf profil (W/m²K) | 5,5–7,0 | de la 1,5 | de la 0,86 |
-| Uw fereastră completă (W/m²K) | 3,5–5,0 | de la 1,3 | de la 1,0 |
+| Uf profil (W/m²K) | 5,5–7,0 | 1,1–2,6 | 0,85–2,42 |
+| Uw fereastră completă (W/m²K) | 3,5–5,0 | nepublicat de Alumil | 0,85–1,4 |
 | Condens pe toc | Frecvent | Absent | Absent |
 | Utilizare la exterior | **Nu** | Da | Da |
 | Potrivit pentru nZEB | Nu | Cu geam tripan | Da |
@@ -13559,34 +13703,34 @@ Aluminiul acoperă o gamă mult mai largă decât ferestrele obișnuite. În fun
 
 ### Alumil Supreme S77 — ferestre și uși, performanță maximă
 
-**Poliamidă 40 mm**, cea mai lată barieră termică din gama Alumil. Uf de la 0,86 W/m²K, Uw de la 1,0 W/m²K.
+**Poliamidă 40 mm, Energy bar și spumă izolantă.** Uf de la 0,85 W/m²K; Uw între 0,85 și 1,4 W/m²K, după geam și dimensiuni (date Alumil).
 
 Specificații tehnice:
-- Adâncime constructivă: **77–93 mm**
-- Garnituri: 3 garnituri EPDM perimetrale
+- Adâncime toc: **77 mm**
+- Greutate canat: până la **180 kg**
 - Geam compatibil: **24–72 mm** (dublu sau triplu)
 - Izolare fonică: până la 42 dB
-- Antiefracție: **RC3**
+- Antiefracție: **RC2 / RC3**
 
 Recomandat pentru: vile, case nZEB, fațade premium, proiecte cu cerințe energetice ridicate.
 
 ### Alumil Smartia S67 — raport calitate-preț optim
 
-**Poliamidă 30 mm**. Uf de la 1,5 W/m²K, Uw de la 1,3 W/m²K.
+**Poliamidă 30 mm și spumă PE.** Uf între 1,1 și 2,6 W/m²K, după profil; Alumil nu publică un Uw pentru S67.
 
 Specificații tehnice:
 - Adâncime constructivă: **67–75 mm**
-- Garnituri: 3 garnituri EPDM perimetrale
-- Geam compatibil: **24–58 mm** (dublu sau triplu)
+- Greutate canat: până la **180 kg**
+- Geam compatibil: până la **58 mm** (dublu sau triplu)
 - Izolare fonică: până la 45 dB
-- Antiefracție: RC2 standard, RC3 opțional
+- Antiefracție: RC2 / RC3
 
 Recomandat pentru: blocuri, birouri, spații comerciale, renovări cu buget mediu.
 
 ### Sisteme glisante și armonice
 
 - **Alumil Supreme S700** — liftant-glisant cu izolație din poliamidă și Energy bar, Uw 1,1 W/m²K, foi de până la 600 kg.
-- **Alumil Smartia S350** — liftant-glisant economic, barieră termică 28 mm, Uf de la 2,9 W/m²K.
+- **Alumil Smartia S350** — sistem glisant economic, poliamidă de 24 mm, Uf de la 2,9 W/m²K.
 - **Alumil Supreme SF85** — sistem armonic cu poliamidă dublă de 40 mm, Uf de la 1,0 W/m²K, foi de până la 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — sistem armonic economic, barieră termică 18 mm, Uf de la 1,9 W/m²K.
 
@@ -13602,7 +13746,7 @@ Recomandat pentru: blocuri, birouri, spații comerciale, renovări cu buget medi
 **Alege Supreme S77 (poliamidă 40 mm)** dacă:
 - Construiești o casă nZEB
 - Proiectantul a specificat Uw ≤ 1,0 W/m²K
-- Ai nevoie de antiefracție RC3 sau de geam triplu gros
+- Ai nevoie de geam triplu gros, de până la 72 mm
 - Ai ferestre mari (> 2 m²), unde pierderea termică contează semnificativ
 
 ---
@@ -13651,11 +13795,11 @@ Bariera termică este o inserție de poliamidă 6.6 armată cu fibră de sticlă
 
 ### Care e diferența între aluminiu cu și fără barieră termică?
 
-Aluminiul fără barieră are Uf 5,5-7,0 W/m²K și condens frecvent pe toc — bun doar la interior. Cu barieră de 30 mm (Smartia S67), Uf pornește de la 1,1 W/m²K; cu barieră de 40 mm (Supreme S77) ajunge la 0,86 W/m²K, potrivit pentru casele nZEB.
+Aluminiul fără barieră are Uf 5,5-7,0 W/m²K și condens frecvent pe toc — bun doar la interior. Cu barieră de 30 mm (Smartia S67), Uf pornește de la 1,1 W/m²K; cu barieră de 40 mm (Supreme S77) ajunge la 0,85 W/m²K, potrivit pentru casele nZEB.
 
 ### Ce sistem Alumil are cea mai bună performanță termică?
 
-Alumil Supreme S77, cu poliamidă de 40 mm, atinge Uf de la 0,86 W/m²K și Uw de la 1,0 W/m²K. Are adâncime 77–93 mm, 3 garnituri EPDM, antiefracție RC2/RC3 și acceptă geam de până la 72 mm.
+Alumil Supreme S77, cu poliamidă de 40 mm, Energy bar și spumă, are Uf de la 0,85 W/m²K și, după Alumil, Uw între 0,85 și 1,4 W/m²K. Tocul are 77 mm, canatul duce până la 180 kg, antiefracția e RC2/RC3, iar geamul poate avea până la 72 mm.
 
 ### Poate fi folosit aluminiul fără barieră termică la exterior?
 
@@ -13706,8 +13850,8 @@ Aluminium covers a far wider range than ordinary windows. Depending on what you 
 
 | Feature | Aluminium without break | Smartia S67 (30 mm polyamide) | Supreme S77 (40 mm polyamide) |
 |---|---|---|---|
-| Profile Uf (W/m²K) | 5.5–7.0 | from 1.5 | from 0.86 |
-| Complete window Uw (W/m²K) | 3.5–5.0 | from 1.3 | from 1.0 |
+| Profile Uf (W/m²K) | 5.5–7.0 | 1.1–2.6 | 0.85–2.42 |
+| Complete window Uw (W/m²K) | 3.5–5.0 | not published by Alumil | 0.85–1.4 |
 | Frame condensation | Frequent | None | None |
 | Exterior use | **No** | Yes | Yes |
 | Suitable for nZEB | No | With triple glazing | Yes |
@@ -13719,34 +13863,34 @@ Aluminium covers a far wider range than ordinary windows. Depending on what you 
 
 ### Alumil Supreme S77 — windows and doors, maximum performance
 
-**40 mm polyamide**, the widest thermal break in the Alumil range. Uf from 0.86 W/m²K, Uw from 1.0 W/m²K.
+**40 mm polyamide, Energy bar and insulating foam.** Uf from 0.85 W/m²K; Uw between 0.85 and 1.4 W/m²K depending on glazing and size (Alumil data).
 
 Technical specifications:
-- Construction depth: **77–93 mm**
-- Seals: 3 perimeter EPDM gaskets
+- Frame depth: **77 mm**
+- Sash weight: up to **180 kg**
 - Compatible glazing: **24–72 mm** (double or triple)
 - Sound insulation: up to 42 dB
-- Burglar resistance: **RC3**
+- Burglar resistance: **RC2 / RC3**
 
 Recommended for: villas, nZEB houses, premium façades, projects with high energy requirements.
 
 ### Alumil Smartia S67 — optimal value for money
 
-**30 mm polyamide**. Uf from 1.5 W/m²K, Uw from 1.3 W/m²K.
+**30 mm polyamide and PE foam.** Uf between 1.1 and 2.6 W/m²K depending on the profile; Alumil does not publish a Uw for the S67.
 
 Technical specifications:
 - Construction depth: **67–75 mm**
-- Seals: 3 perimeter EPDM gaskets
-- Compatible glazing: **24–58 mm** (double or triple)
+- Sash weight: up to **180 kg**
+- Compatible glazing: up to **58 mm** (double or triple)
 - Sound insulation: up to 45 dB
-- Burglar resistance: RC2 standard, RC3 optional
+- Burglar resistance: RC2 / RC3
 
 Recommended for: apartment blocks, offices, commercial spaces, mid-budget renovations.
 
 ### Sliding and folding systems
 
 - **Alumil Supreme S700** — lift-and-slide with polyamide and Energy bar insulation, Uw 1.1 W/m²K, sashes up to 600 kg.
-- **Alumil Smartia S350** — economical lift-and-slide, 28 mm thermal break, Uf from 2.9 W/m²K.
+- **Alumil Smartia S350** — economical sliding system, 24 mm polyamide, Uf from 2.9 W/m²K.
 - **Alumil Supreme SF85** — folding system with double 40 mm polyamide, Uf from 1.0 W/m²K, sashes up to 1.5 × 4.0 m.
 - **Alumil Smartia M19800** — economical folding system, 18 mm thermal break, Uf from 1.9 W/m²K.
 
@@ -13762,7 +13906,7 @@ Recommended for: apartment blocks, offices, commercial spaces, mid-budget renova
 **Choose Supreme S77 (40 mm polyamide)** if:
 - You are building an nZEB house
 - Your designer has specified Uw ≤ 1.0 W/m²K
-- You need RC3 burglar resistance or thick triple glazing
+- You need thick triple glazing, up to 72 mm
 - You have large windows (> 2 m²) where heat loss matters significantly
 
 ---
@@ -13813,11 +13957,11 @@ The thermal break is a glass-fibre-reinforced polyamide 6.6 insert pressed betwe
 
 ### What is the difference between aluminium with and without a thermal break?
 
-Aluminium without a break has Uf 5.5-7.0 W/m²K and frequent frame condensation — suitable only indoors. With a 30 mm break (Smartia S67), Uf starts from 1.1 W/m²K; with a 40 mm break (Supreme S77) it reaches 0.86 W/m²K, suitable for nZEB houses.
+Aluminium without a break has Uf 5.5-7.0 W/m²K and frequent frame condensation — suitable only indoors. With a 30 mm break (Smartia S67), Uf starts from 1.1 W/m²K; with a 40 mm break (Supreme S77) it reaches 0.85 W/m²K, suitable for nZEB houses.
 
 ### Which Alumil system has the best thermal performance?
 
-Alumil Supreme S77, with a 40 mm polyamide break, reaches Uf from 0.86 W/m²K and Uw from 1.0 W/m²K. It has 77–93 mm depth, 3 EPDM gaskets, RC2/RC3 burglar resistance and takes glazing up to 72 mm.
+Alumil Supreme S77, with 40 mm polyamide, Energy bar and foam, has a Uf from 0.85 W/m²K and, according to Alumil, a Uw between 0.85 and 1.4 W/m²K. The frame is 77 mm deep, sashes carry up to 180 kg, burglar resistance is RC2/RC3 and glazing can be up to 72 mm.
 
 ### Can aluminium without a thermal break be used outdoors?
 
@@ -13868,8 +14012,8 @@ Aluminium deckt einen weit größeren Bereich ab als gewöhnliche Fenster. Je na
 
 | Merkmal | Aluminium ohne Trennung | Smartia S67 (30 mm Polyamid) | Supreme S77 (40 mm Polyamid) |
 |---|---|---|---|
-| Uf Profil (W/m²K) | 5,5–7,0 | ab 1,5 | ab 0,86 |
-| Uw Gesamtfenster (W/m²K) | 3,5–5,0 | ab 1,3 | ab 1,0 |
+| Uf Profil (W/m²K) | 5,5–7,0 | 1,1–2,6 | 0,85–2,42 |
+| Uw Gesamtfenster (W/m²K) | 3,5–5,0 | von Alumil nicht veröffentlicht | 0,85–1,4 |
 | Kondensat am Rahmen | Häufig | Keins | Keins |
 | Außeneinsatz | **Nein** | Ja | Ja |
 | Geeignet für nZEB | Nein | Mit Dreifachverglasung | Ja |
@@ -13881,34 +14025,34 @@ Aluminium deckt einen weit größeren Bereich ab als gewöhnliche Fenster. Je na
 
 ### Alumil Supreme S77 — Fenster und Türen, maximale Leistung
 
-**40 mm Polyamid**, die breiteste thermische Trennung im Alumil-Sortiment. Uf ab 0,86 W/m²K, Uw ab 1,0 W/m²K.
+**40 mm Polyamid, Energy bar und Dämmschaum.** Uf ab 0,85 W/m²K; Uw je nach Glas und Größe zwischen 0,85 und 1,4 W/m²K (Alumil-Angaben).
 
 Technische Daten:
-- Bautiefe: **77–93 mm**
-- Dichtungen: 3 umlaufende EPDM-Dichtungen
+- Rahmentiefe: **77 mm**
+- Flügelgewicht: bis **180 kg**
 - Verglasung: **24–72 mm** (Zweifach oder Dreifach)
 - Schallschutz: bis 42 dB
-- Einbruchschutz: **RC3**
+- Einbruchschutz: **RC2 / RC3**
 
 Empfohlen für: Villen, nZEB-Häuser, Premium-Fassaden, Projekte mit hohen energetischen Anforderungen.
 
 ### Alumil Smartia S67 — optimales Preis-Leistungs-Verhältnis
 
-**30 mm Polyamid**. Uf ab 1,5 W/m²K, Uw ab 1,3 W/m²K.
+**30 mm Polyamid und PE-Schaum.** Uf je nach Profil zwischen 1,1 und 2,6 W/m²K; einen Uw-Wert für den S67 veröffentlicht Alumil nicht.
 
 Technische Daten:
 - Bautiefe: **67–75 mm**
-- Dichtungen: 3 umlaufende EPDM-Dichtungen
-- Verglasung: **24–58 mm** (Zweifach oder Dreifach)
+- Flügelgewicht: bis **180 kg**
+- Verglasung: bis **58 mm** (Zweifach oder Dreifach)
 - Schallschutz: bis 45 dB
-- Einbruchschutz: RC2 serienmäßig, RC3 optional
+- Einbruchschutz: RC2 / RC3
 
 Empfohlen für: Wohnblöcke, Büros, Gewerbeflächen, Renovierungen mit mittlerem Budget.
 
 ### Schiebe- und Faltsysteme
 
 - **Alumil Supreme S700** — Hebeschiebesystem mit Dämmung aus Polyamid und Energy Bar, Uw 1,1 W/m²K, Flügel bis 600 kg.
-- **Alumil Smartia S350** — preisgünstiges Hebeschiebesystem, 28 mm thermische Trennung, Uf ab 2,9 W/m²K.
+- **Alumil Smartia S350** — preisgünstiges Schiebesystem, 24 mm Polyamid, Uf ab 2,9 W/m²K.
 - **Alumil Supreme SF85** — Faltsystem mit doppeltem 40-mm-Polyamid, Uf ab 1,0 W/m²K, Flügel bis 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — preisgünstiges Faltsystem, 18 mm thermische Trennung, Uf ab 1,9 W/m²K.
 
@@ -13924,7 +14068,7 @@ Empfohlen für: Wohnblöcke, Büros, Gewerbeflächen, Renovierungen mit mittlere
 **Wählen Sie Supreme S77 (40 mm Polyamid)**, wenn:
 - Sie ein nZEB-Haus bauen
 - Ihr Planer Uw ≤ 1,0 W/m²K vorgegeben hat
-- Sie Einbruchschutz RC3 oder eine dicke Dreifachverglasung brauchen
+- Sie eine dicke Dreifachverglasung bis 72 mm brauchen
 - Sie große Fenster (> 2 m²) haben, bei denen der Wärmeverlust deutlich ins Gewicht fällt
 
 ---
@@ -13975,11 +14119,11 @@ Die thermische Trennung ist ein glasfaserverstärkter Polyamid-6.6-Steg, der zwi
 
 ### Was ist der Unterschied zwischen Aluminium mit und ohne thermische Trennung?
 
-Aluminium ohne Trennung hat Uf 5,5-7,0 W/m²K und häufiges Rahmenkondensat — nur für innen geeignet. Mit 30-mm-Trennung (Smartia S67) liegt Uf ab 1,1 W/m²K; mit 40-mm-Trennung (Supreme S77) erreicht es 0,86 W/m²K und eignet sich für nZEB-Häuser.
+Aluminium ohne Trennung hat Uf 5,5-7,0 W/m²K und häufiges Rahmenkondensat — nur für innen geeignet. Mit 30-mm-Trennung (Smartia S67) liegt Uf ab 1,1 W/m²K; mit 40-mm-Trennung (Supreme S77) erreicht es 0,85 W/m²K und eignet sich für nZEB-Häuser.
 
 ### Welches Alumil-System hat die beste Wärmeleistung?
 
-Alumil Supreme S77 mit 40 mm Polyamid-Trennung erreicht Uf ab 0,86 W/m²K und Uw ab 1,0 W/m²K. Es hat 77–93 mm Bautiefe, 3 EPDM-Dichtungen, RC2/RC3-Einbruchschutz und nimmt Verglasungen bis 72 mm auf.
+Alumil Supreme S77 mit 40 mm Polyamid, Energy bar und Schaum hat einen Uf ab 0,85 W/m²K und laut Alumil einen Uw zwischen 0,85 und 1,4 W/m²K. Der Rahmen ist 77 mm tief, Flügel tragen bis 180 kg, der Einbruchschutz ist RC2/RC3 und die Verglasung bis 72 mm dick.
 
 ### Kann Aluminium ohne thermische Trennung außen verwendet werden?
 
@@ -14030,8 +14174,8 @@ L’aluminium couvre une gamme bien plus large que les fenêtres ordinaires. Sel
 
 | Caractéristique | Aluminium sans rupture | Smartia S67 (polyamide 30 mm) | Supreme S77 (polyamide 40 mm) |
 |---|---|---|---|
-| Uf du profilé (W/m²K) | 5,5–7,0 | à partir de 1,5 | à partir de 0,86 |
-| Uw fenêtre complète (W/m²K) | 3,5–5,0 | à partir de 1,3 | à partir de 1,0 |
+| Uf du profilé (W/m²K) | 5,5–7,0 | 1,1–2,6 | 0,85–2,42 |
+| Uw fenêtre complète (W/m²K) | 3,5–5,0 | non publié par Alumil | 0,85–1,4 |
 | Condensation sur le dormant | Fréquente | Aucune | Aucune |
 | Usage extérieur | **Non** | Oui | Oui |
 | Adapté au nZEB | Non | Avec triple vitrage | Oui |
@@ -14043,34 +14187,34 @@ L’aluminium couvre une gamme bien plus large que les fenêtres ordinaires. Sel
 
 ### Alumil Supreme S77 — fenêtres et portes, performance maximale
 
-**Polyamide 40 mm**, la rupture thermique la plus large de la gamme Alumil. Uf à partir de 0,86 W/m²K, Uw à partir de 1,0 W/m²K.
+**Polyamide 40 mm, Energy bar et mousse isolante.** Uf à partir de 0,85 W/m²K ; Uw entre 0,85 et 1,4 W/m²K selon le vitrage et les dimensions (données Alumil).
 
 Caractéristiques techniques :
-- Profondeur : **77–93 mm**
-- Joints : 3 joints EPDM périphériques
+- Profondeur du dormant : **77 mm**
+- Poids du vantail : jusqu'à **180 kg**
 - Vitrage compatible : **24–72 mm** (double ou triple)
 - Isolation acoustique : jusqu'à 42 dB
-- Anti-effraction : **RC3**
+- Anti-effraction : **RC2 / RC3**
 
 Recommandé pour : villas, maisons nZEB, façades haut de gamme, projets à fortes exigences énergétiques.
 
 ### Alumil Smartia S67 — rapport qualité-prix optimal
 
-**Polyamide 30 mm**. Uf à partir de 1,5 W/m²K, Uw à partir de 1,3 W/m²K.
+**Polyamide 30 mm et mousse PE.** Uf entre 1,1 et 2,6 W/m²K selon le profil ; Alumil ne publie pas d'Uw pour le S67.
 
 Caractéristiques techniques :
 - Profondeur : **67–75 mm**
-- Joints : 3 joints EPDM périphériques
-- Vitrage compatible : **24–58 mm** (double ou triple)
+- Poids du vantail : jusqu'à **180 kg**
+- Vitrage compatible : jusqu'à **58 mm** (double ou triple)
 - Isolation acoustique : jusqu'à 45 dB
-- Anti-effraction : RC2 de série, RC3 en option
+- Anti-effraction : RC2 / RC3
 
 Recommandé pour : immeubles, bureaux, locaux commerciaux, rénovations à budget moyen.
 
 ### Systèmes coulissants et accordéon
 
 - **Alumil Supreme S700** — levant-coulissant isolé en polyamide avec Energy bar, Uw 1,1 W/m²K, vantaux jusqu'à 600 kg.
-- **Alumil Smartia S350** — levant-coulissant économique, rupture thermique 28 mm, Uf à partir de 2,9 W/m²K.
+- **Alumil Smartia S350** — coulissant économique, polyamide de 24 mm, Uf à partir de 2,9 W/m²K.
 - **Alumil Supreme SF85** — système accordéon en double polyamide de 40 mm, Uf à partir de 1,0 W/m²K, vantaux jusqu'à 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — système accordéon économique, rupture thermique 18 mm, Uf à partir de 1,9 W/m²K.
 
@@ -14086,7 +14230,7 @@ Recommandé pour : immeubles, bureaux, locaux commerciaux, rénovations à budge
 **Choisissez Supreme S77 (polyamide 40 mm)** si :
 - Vous construisez une maison nZEB
 - Votre concepteur a spécifié Uw ≤ 1,0 W/m²K
-- Vous avez besoin d'une résistance anti-effraction RC3 ou d'un triple vitrage épais
+- Vous avez besoin d'un triple vitrage épais, jusqu'à 72 mm
 - Vous avez de grandes fenêtres (> 2 m²), où les pertes thermiques comptent beaucoup
 
 ---
@@ -14134,11 +14278,11 @@ La rupture de pont thermique est un insert en polyamide 6.6 renforcé de fibre d
 
 ### Quelle est la différence entre aluminium avec et sans rupture thermique ?
 
-L'aluminium sans rupture a un Uf de 5,5-7,0 W/m²K et une condensation fréquente sur le dormant — adapté seulement à l'intérieur. Avec une rupture de 30 mm (Smartia S67), l'Uf part de 1,1 W/m²K ; avec une rupture de 40 mm (Supreme S77), il atteint 0,86 W/m²K, adapté aux maisons nZEB.
+L'aluminium sans rupture a un Uf de 5,5-7,0 W/m²K et une condensation fréquente sur le dormant — adapté seulement à l'intérieur. Avec une rupture de 30 mm (Smartia S67), l'Uf part de 1,1 W/m²K ; avec une rupture de 40 mm (Supreme S77), il atteint 0,85 W/m²K, adapté aux maisons nZEB.
 
 ### Quel système Alumil a la meilleure performance thermique ?
 
-L'Alumil Supreme S77, avec une rupture en polyamide de 40 mm, atteint un Uf à partir de 0,86 W/m²K et un Uw à partir de 1,0 W/m²K. Il a 77–93 mm de profondeur, 3 joints EPDM, une résistance anti-effraction RC2/RC3 et accepte un vitrage jusqu'à 72 mm.
+L'Alumil Supreme S77, avec polyamide de 40 mm, Energy bar et mousse, a un Uf à partir de 0,85 W/m²K et, selon Alumil, un Uw entre 0,85 et 1,4 W/m²K. Le dormant fait 77 mm, les vantaux portent jusqu'à 180 kg, l'anti-effraction est RC2/RC3 et le vitrage peut atteindre 72 mm.
 
 ### L'aluminium sans rupture thermique peut-il être utilisé à l'extérieur ?
 
@@ -14189,8 +14333,8 @@ El aluminio abarca una gama mucho más amplia que las ventanas corrientes. Segú
 
 | Característica | Aluminio sin rotura | Smartia S67 (poliamida 30 mm) | Supreme S77 (poliamida 40 mm) |
 |---|---|---|---|
-| Uf del perfil (W/m²K) | 5,5–7,0 | desde 1,5 | desde 0,86 |
-| Uw de la ventana completa (W/m²K) | 3,5–5,0 | desde 1,3 | desde 1,0 |
+| Uf del perfil (W/m²K) | 5,5–7,0 | 1,1–2,6 | 0,85–2,42 |
+| Uw de la ventana completa (W/m²K) | 3,5–5,0 | no publicado por Alumil | 0,85–1,4 |
 | Condensación en el marco | Frecuente | Ninguna | Ninguna |
 | Uso exterior | **No** | Sí | Sí |
 | Apto para nZEB | No | Con triple acristalamiento | Sí |
@@ -14202,34 +14346,34 @@ El aluminio abarca una gama mucho más amplia que las ventanas corrientes. Segú
 
 ### Alumil Supreme S77 — ventanas y puertas, rendimiento máximo
 
-**Poliamida 40 mm**, la rotura térmica más ancha de la gama Alumil. Uf desde 0,86 W/m²K, Uw desde 1,0 W/m²K.
+**Poliamida 40 mm, Energy bar y espuma aislante.** Uf desde 0,85 W/m²K; Uw entre 0,85 y 1,4 W/m²K según el vidrio y las dimensiones (datos de Alumil).
 
 Especificaciones técnicas:
-- Profundidad constructiva: **77–93 mm**
-- Juntas: 3 juntas EPDM perimetrales
+- Profundidad del marco: **77 mm**
+- Peso de la hoja: hasta **180 kg**
 - Acristalamiento compatible: **24–72 mm** (doble o triple)
 - Aislamiento acústico: hasta 42 dB
-- Antirrobo: **RC3**
+- Antirrobo: **RC2 / RC3**
 
 Recomendado para: villas, casas nZEB, fachadas premium, proyectos con altas exigencias energéticas.
 
 ### Alumil Smartia S67 — relación calidad-precio óptima
 
-**Poliamida 30 mm**. Uf desde 1,5 W/m²K, Uw desde 1,3 W/m²K.
+**Poliamida 30 mm y espuma PE.** Uf entre 1,1 y 2,6 W/m²K según el perfil; Alumil no publica un Uw para el S67.
 
 Especificaciones técnicas:
 - Profundidad constructiva: **67–75 mm**
-- Juntas: 3 juntas EPDM perimetrales
-- Acristalamiento compatible: **24–58 mm** (doble o triple)
+- Peso de la hoja: hasta **180 kg**
+- Acristalamiento compatible: hasta **58 mm** (doble o triple)
 - Aislamiento acústico: hasta 45 dB
-- Antirrobo: RC2 de serie, RC3 opcional
+- Antirrobo: RC2 / RC3
 
 Recomendado para: bloques de viviendas, oficinas, locales comerciales, reformas con presupuesto medio.
 
 ### Sistemas correderos y plegables
 
 - **Alumil Supreme S700** — elevable-corredera con aislamiento de poliamida y Energy bar, Uw 1,1 W/m²K, hojas de hasta 600 kg.
-- **Alumil Smartia S350** — elevable-corredera económica, rotura térmica de 28 mm, Uf desde 2,9 W/m²K.
+- **Alumil Smartia S350** — corredera económica, poliamida de 24 mm, Uf desde 2,9 W/m²K.
 - **Alumil Supreme SF85** — sistema plegable con doble poliamida de 40 mm, Uf desde 1,0 W/m²K, hojas de hasta 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — sistema plegable económico, rotura térmica de 18 mm, Uf desde 1,9 W/m²K.
 
@@ -14245,7 +14389,7 @@ Recomendado para: bloques de viviendas, oficinas, locales comerciales, reformas 
 **Elija Supreme S77 (poliamida 40 mm)** si:
 - Construye una casa nZEB
 - Su proyectista ha especificado Uw ≤ 1,0 W/m²K
-- Necesita antirrobo RC3 o un triple acristalamiento grueso
+- Necesita un triple acristalamiento grueso, de hasta 72 mm
 - Tiene ventanas grandes (> 2 m²), donde la pérdida térmica pesa mucho
 
 ---
@@ -14293,11 +14437,11 @@ La rotura de puente térmico es un inserto de poliamida 6.6 reforzada con fibra 
 
 ### ¿Cuál es la diferencia entre aluminio con y sin rotura térmica?
 
-El aluminio sin rotura tiene Uf 5,5-7,0 W/m²K y condensación frecuente en el marco — solo apto para interior. Con rotura de 30 mm (Smartia S67), el Uf parte de 1,1 W/m²K; con rotura de 40 mm (Supreme S77) llega a 0,86 W/m²K, apto para casas nZEB.
+El aluminio sin rotura tiene Uf 5,5-7,0 W/m²K y condensación frecuente en el marco — solo apto para interior. Con rotura de 30 mm (Smartia S67), el Uf parte de 1,1 W/m²K; con rotura de 40 mm (Supreme S77) llega a 0,85 W/m²K, apto para casas nZEB.
 
 ### ¿Qué sistema Alumil tiene el mejor rendimiento térmico?
 
-El Alumil Supreme S77, con rotura de poliamida de 40 mm, alcanza Uf desde 0,86 W/m²K y Uw desde 1,0 W/m²K. Tiene 77–93 mm de profundidad, 3 juntas EPDM, antirrobo RC2/RC3 y admite acristalamiento de hasta 72 mm.
+El Alumil Supreme S77, con poliamida de 40 mm, Energy bar y espuma, tiene un Uf desde 0,85 W/m²K y, según Alumil, un Uw entre 0,85 y 1,4 W/m²K. El marco tiene 77 mm, las hojas llevan hasta 180 kg, el antirrobo es RC2/RC3 y el vidrio puede tener hasta 72 mm.
 
 ### ¿Se puede usar aluminio sin rotura térmica en el exterior?
 
@@ -14348,8 +14492,8 @@ L’alluminio copre una gamma molto più ampia delle normali finestre. A seconda
 
 | Caratteristica | Alluminio senza taglio | Smartia S67 (poliammide 30 mm) | Supreme S77 (poliammide 40 mm) |
 |---|---|---|---|
-| Uf del profilo (W/m²K) | 5,5–7,0 | da 1,5 | da 0,86 |
-| Uw della finestra completa (W/m²K) | 3,5–5,0 | da 1,3 | da 1,0 |
+| Uf del profilo (W/m²K) | 5,5–7,0 | 1,1–2,6 | 0,85–2,42 |
+| Uw della finestra completa (W/m²K) | 3,5–5,0 | non pubblicato da Alumil | 0,85–1,4 |
 | Condensa sul telaio | Frequente | Assente | Assente |
 | Uso esterno | **No** | Sì | Sì |
 | Adatto al nZEB | No | Con triplo vetro | Sì |
@@ -14361,34 +14505,34 @@ L’alluminio copre una gamma molto più ampia delle normali finestre. A seconda
 
 ### Alumil Supreme S77 — finestre e porte, prestazioni massime
 
-**Poliammide 40 mm**, il taglio termico più largo della gamma Alumil. Uf da 0,86 W/m²K, Uw da 1,0 W/m²K.
+**Poliammide 40 mm, Energy bar e schiuma isolante.** Uf da 0,85 W/m²K; Uw tra 0,85 e 1,4 W/m²K secondo vetro e dimensioni (dati Alumil).
 
 Specifiche tecniche:
-- Profondità costruttiva: **77–93 mm**
-- Guarnizioni: 3 guarnizioni EPDM perimetrali
+- Profondità del telaio: **77 mm**
+- Peso dell'anta: fino a **180 kg**
 - Vetro compatibile: **24–72 mm** (doppio o triplo)
 - Isolamento acustico: fino a 42 dB
-- Antieffrazione: **RC3**
+- Antieffrazione: **RC2 / RC3**
 
 Consigliato per: ville, case nZEB, facciate di pregio, progetti con elevati requisiti energetici.
 
 ### Alumil Smartia S67 — ottimo rapporto qualità-prezzo
 
-**Poliammide 30 mm**. Uf da 1,5 W/m²K, Uw da 1,3 W/m²K.
+**Poliammide 30 mm e schiuma PE.** Uf tra 1,1 e 2,6 W/m²K secondo il profilo; Alumil non pubblica un Uw per l'S67.
 
 Specifiche tecniche:
 - Profondità costruttiva: **67–75 mm**
-- Guarnizioni: 3 guarnizioni EPDM perimetrali
-- Vetro compatibile: **24–58 mm** (doppio o triplo)
+- Peso dell'anta: fino a **180 kg**
+- Vetro compatibile: fino a **58 mm** (doppio o triplo)
 - Isolamento acustico: fino a 45 dB
-- Antieffrazione: RC2 di serie, RC3 opzionale
+- Antieffrazione: RC2 / RC3
 
 Consigliato per: condomini, uffici, spazi commerciali, ristrutturazioni con budget medio.
 
 ### Sistemi scorrevoli e a soffietto
 
 - **Alumil Supreme S700** — alzante-scorrevole con isolamento in poliammide ed Energy bar, Uw 1,1 W/m²K, ante fino a 600 kg.
-- **Alumil Smartia S350** — alzante-scorrevole economico, taglio termico da 28 mm, Uf da 2,9 W/m²K.
+- **Alumil Smartia S350** — scorrevole economico, poliammide da 24 mm, Uf da 2,9 W/m²K.
 - **Alumil Supreme SF85** — sistema a soffietto in doppia poliammide da 40 mm, Uf da 1,0 W/m²K, ante fino a 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — sistema a soffietto economico, taglio termico da 18 mm, Uf da 1,9 W/m²K.
 
@@ -14404,7 +14548,7 @@ Consigliato per: condomini, uffici, spazi commerciali, ristrutturazioni con budg
 **Scegliete Supreme S77 (poliammide 40 mm)** se:
 - Costruite una casa nZEB
 - Il progettista ha indicato Uw ≤ 1,0 W/m²K
-- Vi serve l'antieffrazione RC3 o un triplo vetro spesso
+- Vi serve un triplo vetro spesso, fino a 72 mm
 - Avete finestre grandi (> 2 m²), dove la dispersione termica pesa molto
 
 ---
@@ -14452,11 +14596,11 @@ Il taglio termico è un inserto in poliammide 6.6 rinforzata con fibra di vetro,
 
 ### Qual è la differenza tra alluminio con e senza taglio termico?
 
-L'alluminio senza taglio ha Uf 5,5-7,0 W/m²K e condensa frequente sul telaio — adatto solo all'interno. Con taglio da 30 mm (Smartia S67), l'Uf parte da 1,1 W/m²K; con taglio da 40 mm (Supreme S77) arriva a 0,86 W/m²K, adatto alle case nZEB.
+L'alluminio senza taglio ha Uf 5,5-7,0 W/m²K e condensa frequente sul telaio — adatto solo all'interno. Con taglio da 30 mm (Smartia S67), l'Uf parte da 1,1 W/m²K; con taglio da 40 mm (Supreme S77) arriva a 0,85 W/m²K, adatto alle case nZEB.
 
 ### Quale sistema Alumil ha le migliori prestazioni termiche?
 
-L'Alumil Supreme S77, con taglio in poliammide da 40 mm, raggiunge Uf da 0,86 W/m²K e Uw da 1,0 W/m²K. Ha profondità 77–93 mm, 3 guarnizioni EPDM, antieffrazione RC2/RC3 e accetta vetri fino a 72 mm.
+L'Alumil Supreme S77, con poliammide da 40 mm, Energy bar e schiuma, ha Uf da 0,85 W/m²K e, secondo Alumil, Uw tra 0,85 e 1,4 W/m²K. Il telaio è profondo 77 mm, le ante portano fino a 180 kg, l'antieffrazione è RC2/RC3 e il vetro può arrivare a 72 mm.
 
 ### L'alluminio senza taglio termico può essere usato all'esterno?
 
@@ -17358,11 +17502,11 @@ Patru mărci de sisteme din aluminiu apar des în ofertele din București: **[Al
 
 | Sistem | Adâncime profil | Uw declarat (W/m²K) | Preț/mp montat | Poziționare |
 |---|---|---|---|---|
-| Alumil SMARTIA S67 | 67–75 mm | de la 1,3 | **250–350 EUR** | Raport calitate-preț |
+| Alumil SMARTIA S67 | toc 67 / canat 75 mm | nepublicat (Uf de la 1,1) | **250–350 EUR** | Raport calitate-preț |
 | Aluprof MB-86N | toc 77 / canat 86 mm | de la 0,67 | la ofertă | Mediu |
 | Cortizo COR 70 | toc 70 / canat 78 mm | de la 0,9 | la ofertă | Mediu |
 | Reynaers ConceptSystem 77 | toc 68 / canat 77 mm | 1,3–1,4 | la ofertă | Premium |
-| **Alumil SUPREME S77** | **77–93 mm** | **de la 1,0** | **350–480 EUR** | Premium, nZEB |
+| **Alumil SUPREME S77** | **toc 77 mm** | **0,85–1,4** | **350–480 EUR** | Premium, nZEB |
 | Aluprof MB-104 Passive | toc 95 / canat 104 mm | de la 0,62 | la ofertă | Premium, casă pasivă |
 | Cortizo COR 80 Industrial | toc 80 / canat 88 mm | de la 0,71 | la ofertă | Premium, casă pasivă |
 | Reynaers MasterLine 8 | toc 77 mm | de la 0,88 | la ofertă | Premium+ |
@@ -17376,7 +17520,7 @@ Patru mărci de sisteme din aluminiu apar des în ofertele din București: **[Al
 ## Profilul fiecărei mărci
 
 ### Alumil (Grecia, 1988) — montăm la Neofort BIZ
-Unul dintre cei mai mari producători de sisteme din aluminiu din Europa de Sud-Est, cu prezență veche pe piața românească. Gama SMARTIA acoperă proiectele cu buget echilibrat, iar SUPREME S77 (barieră termică de 40 mm, Uf de la 0,86 W/m²K, RC2/RC3) este alegerea noastră pentru casele nZEB.
+Unul dintre cei mai mari producători de sisteme din aluminiu din Europa de Sud-Est, cu prezență veche pe piața românească. Gama SMARTIA acoperă proiectele cu buget echilibrat, iar SUPREME S77 (barieră termică de 40 mm, Uf de la 0,85 W/m²K, RC2/RC3) este alegerea noastră pentru casele nZEB.
 
 ### Aluprof (Polonia)
 Parte a grupului polonez Kęty, cu o gamă largă de ferestre, uși și fațade. MB-86N este sistemul de bază cu izolare bună, iar MB-104 Passive are certificare Passive House Institute, cu Uw de la 0,62 W/m²K la ferestrele care se deschid.
@@ -17416,7 +17560,7 @@ Alumil (Grecia), Aluprof (Polonia), Cortizo (Spania) și Reynaers (Belgia). Toat
 
 ### Cât costă tâmplăria din aluminiu Alumil în 2026?
 
-Alumil SMARTIA S67 (Uw de la 1,3) costă 250-350 EUR/mp, iar Alumil SUPREME S77 (Uw de la 1,0, potrivit pentru nZEB) costă 350-480 EUR/mp. Prețurile sunt orientative, fără TVA, cu geam termopan și montaj.
+Alumil SMARTIA S67 (Uf de la 1,1 W/m²K) costă 250-350 EUR/mp, iar Alumil SUPREME S77 (Uw de la 0,85 W/m²K, potrivit pentru nZEB) costă 350-480 EUR/mp. Prețurile sunt orientative, fără TVA, cu geam termopan și montaj.
 
 ### În cât timp primesc ferestrele din aluminiu?
 
@@ -17424,7 +17568,7 @@ La Neofort BIZ, ferestrele sunt gata de montaj în 3-4 săptămâni de la comand
 
 ### Ce sistem de aluminiu are cea mai bună izolare termică?
 
-Dintre sistemele comparate, Aluprof MB-104 Passive declară Uw de la 0,62 W/m²K, iar Cortizo COR 80 Industrial de la 0,71. Alumil SUPREME S77, cu Uw de la 1,0, se încadrează în valoarea de referință Mc 001-2022 pentru clădiri rezidențiale noi (1,11 W/m²K).
+Dintre sistemele comparate, Aluprof MB-104 Passive declară Uw de la 0,62 W/m²K, iar Cortizo COR 80 Industrial de la 0,71. Alumil SUPREME S77 declară Uw între 0,85 și 1,4 W/m²K, după geam și dimensiuni; cu geamul potrivit, se încadrează în valoarea de referință Mc 001-2022 pentru clădiri rezidențiale noi (1,11 W/m²K).
 
 ### Lucrează Neofort BIZ și cu Reynaers?
 
@@ -17444,11 +17588,11 @@ Four brands of aluminium systems come up often in quotes in Bucharest: **[Alumil
 
 | System | Profile depth | Declared Uw (W/m²K) | Price/m² installed | Positioning |
 |---|---|---|---|---|
-| Alumil SMARTIA S67 | 67–75 mm | from 1.3 | **250–350 EUR** | Value for money |
+| Alumil SMARTIA S67 | frame 67 / sash 75 mm | not published (Uf from 1.1) | **250–350 EUR** | Value for money |
 | Aluprof MB-86N | frame 77 / sash 86 mm | from 0.67 | on quote | Mid-range |
 | Cortizo COR 70 | frame 70 / sash 78 mm | from 0.9 | on quote | Mid-range |
 | Reynaers ConceptSystem 77 | frame 68 / sash 77 mm | 1.3–1.4 | on quote | Premium |
-| **Alumil SUPREME S77** | **77–93 mm** | **from 1.0** | **350–480 EUR** | Premium, nZEB |
+| **Alumil SUPREME S77** | **frame 77 mm** | **0.85–1.4** | **350–480 EUR** | Premium, nZEB |
 | Aluprof MB-104 Passive | frame 95 / sash 104 mm | from 0.62 | on quote | Premium, passive house |
 | Cortizo COR 80 Industrial | frame 80 / sash 88 mm | from 0.71 | on quote | Premium, passive house |
 | Reynaers MasterLine 8 | frame 77 mm | from 0.88 | on quote | Premium+ |
@@ -17462,7 +17606,7 @@ Four brands of aluminium systems come up often in quotes in Bucharest: **[Alumil
 ## Profile of each brand
 
 ### Alumil (Greece, 1988) — installed by Neofort BIZ
-One of the largest aluminium system manufacturers in South-Eastern Europe, with a long-standing presence on the Romanian market. The SMARTIA range covers projects with a balanced budget, and SUPREME S77 (40 mm thermal break, Uf from 0.86 W/m²K, RC3) is our choice for nZEB houses.
+One of the largest aluminium system manufacturers in South-Eastern Europe, with a long-standing presence on the Romanian market. The SMARTIA range covers projects with a balanced budget, and SUPREME S77 (40 mm thermal break, Uf from 0.85 W/m²K, RC3) is our choice for nZEB houses.
 
 ### Aluprof (Poland)
 Part of the Polish Kęty group, with a broad range of windows, doors and facades. MB-86N is the base system with good insulation, and MB-104 Passive is certified by the Passive House Institute, with a Uw from 0.62 W/m²K for opening windows.
@@ -17502,7 +17646,7 @@ Alumil (Greece), Aluprof (Poland), Cortizo (Spain) and Reynaers (Belgium). All m
 
 ### How much do Alumil aluminium windows cost in 2026?
 
-Alumil SMARTIA S67 (Uw from 1.3) costs 250-350 EUR/m², and Alumil SUPREME S77 (Uw from 1.0, suitable for nZEB) costs 350-480 EUR/m². Prices are indicative, excluding VAT, with insulating glass and installation.
+Alumil SMARTIA S67 (Uf from 1.1 W/m²K) costs 250-350 EUR/m², and Alumil SUPREME S77 (Uw from 0.85 W/m²K, suitable for nZEB) costs 350-480 EUR/m². Prices are indicative, excluding VAT, with insulating glass and installation.
 
 ### How long until I get my aluminium windows?
 
@@ -17510,7 +17654,7 @@ At Neofort BIZ, the windows are ready for installation 3-4 weeks after the order
 
 ### Which aluminium system has the best thermal insulation?
 
-Of the systems compared, Aluprof MB-104 Passive declares a Uw from 0.62 W/m²K, and Cortizo COR 80 Industrial from 0.71. Alumil SUPREME S77, with a Uw from 1.0, falls within the Mc 001-2022 reference value for new residential buildings (1.11 W/m²K).
+Of the systems compared, Aluprof MB-104 Passive declares a Uw from 0.62 W/m²K, and Cortizo COR 80 Industrial from 0.71. Alumil SUPREME S77 declares a Uw between 0.85 and 1.4 W/m²K depending on glazing and size; with the right glazing it falls within the Mc 001-2022 reference value for new residential buildings (1.11 W/m²K).
 
 ### Does Neofort BIZ also work with Reynaers?
 
@@ -17530,11 +17674,11 @@ Vier Marken von Aluminiumsystemen tauchen in Bukarester Angeboten häufig auf: *
 
 | System | Profiltiefe | Angegebener Uw (W/m²K) | Preis/m² montiert | Einordnung |
 |---|---|---|---|---|
-| Alumil SMARTIA S67 | 67–75 mm | ab 1,3 | **250–350 EUR** | Preis-Leistung |
+| Alumil SMARTIA S67 | Rahmen 67 / Flügel 75 mm | nicht veröffentlicht (Uf ab 1,1) | **250–350 EUR** | Preis-Leistung |
 | Aluprof MB-86N | Rahmen 77 / Flügel 86 mm | ab 0,67 | auf Anfrage | Mittelklasse |
 | Cortizo COR 70 | Rahmen 70 / Flügel 78 mm | ab 0,9 | auf Anfrage | Mittelklasse |
 | Reynaers ConceptSystem 77 | Rahmen 68 / Flügel 77 mm | 1,3–1,4 | auf Anfrage | Premium |
-| **Alumil SUPREME S77** | **77–93 mm** | **ab 1,0** | **350–480 EUR** | Premium, nZEB |
+| **Alumil SUPREME S77** | **Rahmen 77 mm** | **0,85–1,4** | **350–480 EUR** | Premium, nZEB |
 | Aluprof MB-104 Passive | Rahmen 95 / Flügel 104 mm | ab 0,62 | auf Anfrage | Premium, Passivhaus |
 | Cortizo COR 80 Industrial | Rahmen 80 / Flügel 88 mm | ab 0,71 | auf Anfrage | Premium, Passivhaus |
 | Reynaers MasterLine 8 | Rahmen 77 mm | ab 0,88 | auf Anfrage | Premium+ |
@@ -17548,7 +17692,7 @@ Vier Marken von Aluminiumsystemen tauchen in Bukarester Angeboten häufig auf: *
 ## Profil der einzelnen Marken
 
 ### Alumil (Griechenland, 1988) — von Neofort BIZ montiert
-Einer der größten Hersteller von Aluminiumsystemen in Südosteuropa, seit Langem auf dem rumänischen Markt präsent. Das SMARTIA-Programm deckt Projekte mit ausgewogenem Budget ab, und SUPREME S77 (40 mm thermische Trennung, Uf ab 0,86 W/m²K, RC2/RC3) ist unsere Wahl für nZEB-Häuser.
+Einer der größten Hersteller von Aluminiumsystemen in Südosteuropa, seit Langem auf dem rumänischen Markt präsent. Das SMARTIA-Programm deckt Projekte mit ausgewogenem Budget ab, und SUPREME S77 (40 mm thermische Trennung, Uf ab 0,85 W/m²K, RC2/RC3) ist unsere Wahl für nZEB-Häuser.
 
 ### Aluprof (Polen)
 Teil der polnischen Kęty-Gruppe, mit einem breiten Programm an Fenstern, Türen und Fassaden. MB-86N ist das Basissystem mit guter Dämmung, und MB-104 Passive ist vom Passivhaus Institut zertifiziert, mit Uw ab 0,62 W/m²K bei öffenbaren Fenstern.
@@ -17588,7 +17732,7 @@ Alumil (Griechenland), Aluprof (Polen), Cortizo (Spanien) und Reynaers (Belgien)
 
 ### Was kosten Alumil-Aluminiumfenster 2026?
 
-Alumil SMARTIA S67 (Uw ab 1,3) kostet 250-350 EUR/m², Alumil SUPREME S77 (Uw ab 1,0, nZEB-tauglich) 350-480 EUR/m². Die Preise sind Richtwerte, ohne MwSt., mit Isolierglas und Montage.
+Alumil SMARTIA S67 (Uf ab 1,1 W/m²K) kostet 250-350 EUR/m², Alumil SUPREME S77 (Uw ab 0,85 W/m²K, nZEB-tauglich) 350-480 EUR/m². Die Preise sind Richtwerte, ohne MwSt., mit Isolierglas und Montage.
 
 ### Wann bekomme ich meine Aluminiumfenster?
 
@@ -17596,7 +17740,7 @@ Bei Neofort BIZ sind die Fenster 3-4 Wochen nach der Bestellung montagebereit; d
 
 ### Welches Aluminiumsystem dämmt am besten?
 
-Von den verglichenen Systemen gibt Aluprof MB-104 Passive einen Uw ab 0,62 W/m²K an, Cortizo COR 80 Industrial ab 0,71. Alumil SUPREME S77 liegt mit Uw ab 1,0 innerhalb des Referenzwerts der Mc 001-2022 für neue Wohngebäude (1,11 W/m²K).
+Von den verglichenen Systemen gibt Aluprof MB-104 Passive einen Uw ab 0,62 W/m²K an, Cortizo COR 80 Industrial ab 0,71. Alumil SUPREME S77 gibt je nach Glas und Größe einen Uw zwischen 0,85 und 1,4 W/m²K an; mit dem passenden Glas liegt es innerhalb des Referenzwerts der Mc 001-2022 für neue Wohngebäude (1,11 W/m²K).
 
 ### Arbeitet Neofort BIZ auch mit Reynaers?
 
@@ -17616,11 +17760,11 @@ Quatre marques de systèmes aluminium reviennent souvent dans les devis à Bucar
 
 | Système | Profondeur du profilé | Uw déclaré (W/m²K) | Prix/m² posé | Positionnement |
 |---|---|---|---|---|
-| Alumil SMARTIA S67 | 67–75 mm | dès 1,3 | **250–350 EUR** | Rapport qualité-prix |
+| Alumil SMARTIA S67 | dormant 67 / ouvrant 75 mm | non publié (Uf dès 1,1) | **250–350 EUR** | Rapport qualité-prix |
 | Aluprof MB-86N | dormant 77 / ouvrant 86 mm | dès 0,67 | sur devis | Milieu de gamme |
 | Cortizo COR 70 | dormant 70 / ouvrant 78 mm | dès 0,9 | sur devis | Milieu de gamme |
 | Reynaers ConceptSystem 77 | dormant 68 / ouvrant 77 mm | 1,3–1,4 | sur devis | Haut de gamme |
-| **Alumil SUPREME S77** | **77–93 mm** | **dès 1,0** | **350–480 EUR** | Haut de gamme, nZEB |
+| **Alumil SUPREME S77** | **dormant 77 mm** | **0,85–1,4** | **350–480 EUR** | Haut de gamme, nZEB |
 | Aluprof MB-104 Passive | dormant 95 / ouvrant 104 mm | dès 0,62 | sur devis | Haut de gamme, maison passive |
 | Cortizo COR 80 Industrial | dormant 80 / ouvrant 88 mm | dès 0,71 | sur devis | Haut de gamme, maison passive |
 | Reynaers MasterLine 8 | dormant 77 mm | dès 0,88 | sur devis | Très haut de gamme |
@@ -17634,7 +17778,7 @@ Quatre marques de systèmes aluminium reviennent souvent dans les devis à Bucar
 ## Le profil de chaque marque
 
 ### Alumil (Grèce, 1988) — posé par Neofort BIZ
-L’un des plus grands fabricants de systèmes aluminium d’Europe du Sud-Est, présent depuis longtemps sur le marché roumain. La gamme SMARTIA couvre les projets au budget équilibré, et SUPREME S77 (rupture thermique de 40 mm, Uf dès 0,86 W/m²K, RC2/RC3) est notre choix pour les maisons nZEB.
+L’un des plus grands fabricants de systèmes aluminium d’Europe du Sud-Est, présent depuis longtemps sur le marché roumain. La gamme SMARTIA couvre les projets au budget équilibré, et SUPREME S77 (rupture thermique de 40 mm, Uf dès 0,85 W/m²K, RC2/RC3) est notre choix pour les maisons nZEB.
 
 ### Aluprof (Pologne)
 Membre du groupe polonais Kęty, avec une large gamme de fenêtres, de portes et de façades. MB-86N est le système de base, bien isolé, et MB-104 Passive est certifié par le Passive House Institute, avec un Uw dès 0,62 W/m²K pour les fenêtres ouvrantes.
@@ -17674,7 +17818,7 @@ Alumil (Grèce), Aluprof (Pologne), Cortizo (Espagne) et Reynaers (Belgique). To
 
 ### Combien coûte la menuiserie aluminium Alumil en 2026 ?
 
-Alumil SMARTIA S67 (Uw dès 1,3) coûte 250-350 EUR/m², et Alumil SUPREME S77 (Uw dès 1,0, adapté au nZEB) 350-480 EUR/m². Les prix sont indicatifs, hors TVA, avec double vitrage isolant et pose.
+Alumil SMARTIA S67 (Uf dès 1,1 W/m²K) coûte 250-350 EUR/m², et Alumil SUPREME S77 (Uw dès 0,85 W/m²K, adapté au nZEB) 350-480 EUR/m². Les prix sont indicatifs, hors TVA, avec double vitrage isolant et pose.
 
 ### Dans quel délai reçois-je mes fenêtres en aluminium ?
 
@@ -17682,7 +17826,7 @@ Chez Neofort BIZ, les fenêtres sont prêtes à poser 3 à 4 semaines après la 
 
 ### Quel système aluminium isole le mieux ?
 
-Parmi les systèmes comparés, Aluprof MB-104 Passive déclare un Uw dès 0,62 W/m²K, et Cortizo COR 80 Industrial dès 0,71. Alumil SUPREME S77, avec un Uw dès 1,0, respecte la valeur de référence Mc 001-2022 pour les logements neufs (1,11 W/m²K).
+Parmi les systèmes comparés, Aluprof MB-104 Passive déclare un Uw dès 0,62 W/m²K, et Cortizo COR 80 Industrial dès 0,71. Alumil SUPREME S77 déclare un Uw entre 0,85 et 1,4 W/m²K selon le vitrage et les dimensions ; avec le bon vitrage, il respecte la valeur de référence Mc 001-2022 pour les logements neufs (1,11 W/m²K).
 
 ### Neofort BIZ travaille-t-il aussi avec Reynaers ?
 
@@ -17702,11 +17846,11 @@ Cuatro marcas de sistemas de aluminio aparecen a menudo en los presupuestos de B
 
 | Sistema | Profundidad del perfil | Uw declarado (W/m²K) | Precio/m² instalado | Posicionamiento |
 |---|---|---|---|---|
-| Alumil SMARTIA S67 | 67–75 mm | desde 1,3 | **250–350 EUR** | Calidad-precio |
+| Alumil SMARTIA S67 | marco 67 / hoja 75 mm | no publicado (Uf desde 1,1) | **250–350 EUR** | Calidad-precio |
 | Aluprof MB-86N | marco 77 / hoja 86 mm | desde 0,67 | a presupuesto | Gama media |
 | Cortizo COR 70 | marco 70 / hoja 78 mm | desde 0,9 | a presupuesto | Gama media |
 | Reynaers ConceptSystem 77 | marco 68 / hoja 77 mm | 1,3–1,4 | a presupuesto | Premium |
-| **Alumil SUPREME S77** | **77–93 mm** | **desde 1,0** | **350–480 EUR** | Premium, nZEB |
+| **Alumil SUPREME S77** | **marco 77 mm** | **0,85–1,4** | **350–480 EUR** | Premium, nZEB |
 | Aluprof MB-104 Passive | marco 95 / hoja 104 mm | desde 0,62 | a presupuesto | Premium, casa pasiva |
 | Cortizo COR 80 Industrial | marco 80 / hoja 88 mm | desde 0,71 | a presupuesto | Premium, casa pasiva |
 | Reynaers MasterLine 8 | marco 77 mm | desde 0,88 | a presupuesto | Premium+ |
@@ -17720,7 +17864,7 @@ Cuatro marcas de sistemas de aluminio aparecen a menudo en los presupuestos de B
 ## El perfil de cada marca
 
 ### Alumil (Grecia, 1988): la instalamos en Neofort BIZ
-Uno de los mayores fabricantes de sistemas de aluminio del sudeste de Europa, con una presencia larga en el mercado rumano. La gama SMARTIA cubre los proyectos con presupuesto equilibrado, y SUPREME S77 (rotura de puente térmico de 40 mm, Uf desde 0,86 W/m²K, RC2/RC3) es nuestra elección para las casas nZEB.
+Uno de los mayores fabricantes de sistemas de aluminio del sudeste de Europa, con una presencia larga en el mercado rumano. La gama SMARTIA cubre los proyectos con presupuesto equilibrado, y SUPREME S77 (rotura de puente térmico de 40 mm, Uf desde 0,85 W/m²K, RC2/RC3) es nuestra elección para las casas nZEB.
 
 ### Aluprof (Polonia)
 Forma parte del grupo polaco Kęty, con una amplia gama de ventanas, puertas y fachadas. MB-86N es el sistema básico, con buen aislamiento, y MB-104 Passive está certificado por el Passive House Institute, con Uw desde 0,62 W/m²K en ventanas practicables.
@@ -17760,7 +17904,7 @@ Alumil (Grecia), Aluprof (Polonia), Cortizo (España) y Reynaers (Bélgica). Tod
 
 ### ¿Cuánto cuesta la carpintería de aluminio Alumil en 2026?
 
-Alumil SMARTIA S67 (Uw desde 1,3) cuesta 250-350 EUR/m², y Alumil SUPREME S77 (Uw desde 1,0, apto para nZEB) 350-480 EUR/m². Los precios son orientativos, sin IVA, con vidrio aislante e instalación.
+Alumil SMARTIA S67 (Uf desde 1,1 W/m²K) cuesta 250-350 EUR/m², y Alumil SUPREME S77 (Uw desde 0,85 W/m²K, apto para nZEB) 350-480 EUR/m². Los precios son orientativos, sin IVA, con vidrio aislante e instalación.
 
 ### ¿En cuánto tiempo recibo las ventanas de aluminio?
 
@@ -17768,7 +17912,7 @@ En Neofort BIZ, las ventanas están listas para instalar 3-4 semanas después de
 
 ### ¿Qué sistema de aluminio aísla mejor?
 
-De los sistemas comparados, Aluprof MB-104 Passive declara un Uw desde 0,62 W/m²K, y Cortizo COR 80 Industrial desde 0,71. Alumil SUPREME S77, con Uw desde 1,0, cumple el valor de referencia de la Mc 001-2022 para viviendas nuevas (1,11 W/m²K).
+De los sistemas comparados, Aluprof MB-104 Passive declara un Uw desde 0,62 W/m²K, y Cortizo COR 80 Industrial desde 0,71. Alumil SUPREME S77 declara un Uw entre 0,85 y 1,4 W/m²K según el vidrio y las dimensiones; con el vidrio adecuado cumple el valor de referencia de la Mc 001-2022 para viviendas nuevas (1,11 W/m²K).
 
 ### ¿Trabaja Neofort BIZ también con Reynaers?
 
@@ -17788,11 +17932,11 @@ Quattro marchi di sistemi in alluminio compaiono spesso nei preventivi a Bucares
 
 | Sistema | Profondità del profilo | Uw dichiarato (W/m²K) | Prezzo/m² posato | Posizionamento |
 |---|---|---|---|---|
-| Alumil SMARTIA S67 | 67–75 mm | da 1,3 | **250–350 EUR** | Qualità-prezzo |
+| Alumil SMARTIA S67 | telaio 67 / anta 75 mm | non pubblicato (Uf da 1,1) | **250–350 EUR** | Qualità-prezzo |
 | Aluprof MB-86N | telaio 77 / anta 86 mm | da 0,67 | su preventivo | Fascia media |
 | Cortizo COR 70 | telaio 70 / anta 78 mm | da 0,9 | su preventivo | Fascia media |
 | Reynaers ConceptSystem 77 | telaio 68 / anta 77 mm | 1,3–1,4 | su preventivo | Premium |
-| **Alumil SUPREME S77** | **77–93 mm** | **da 1,0** | **350–480 EUR** | Premium, nZEB |
+| **Alumil SUPREME S77** | **telaio 77 mm** | **0,85–1,4** | **350–480 EUR** | Premium, nZEB |
 | Aluprof MB-104 Passive | telaio 95 / anta 104 mm | da 0,62 | su preventivo | Premium, casa passiva |
 | Cortizo COR 80 Industrial | telaio 80 / anta 88 mm | da 0,71 | su preventivo | Premium, casa passiva |
 | Reynaers MasterLine 8 | telaio 77 mm | da 0,88 | su preventivo | Premium+ |
@@ -17806,7 +17950,7 @@ Quattro marchi di sistemi in alluminio compaiono spesso nei preventivi a Bucares
 ## Il profilo di ciascun marchio
 
 ### Alumil (Grecia, 1988): lo posiamo da Neofort BIZ
-Uno dei maggiori produttori di sistemi in alluminio dell’Europa sud-orientale, presente da tempo sul mercato rumeno. La gamma SMARTIA copre i progetti con budget equilibrato, e SUPREME S77 (taglio termico da 40 mm, Uf da 0,86 W/m²K, RC2/RC3) è la nostra scelta per le case nZEB.
+Uno dei maggiori produttori di sistemi in alluminio dell’Europa sud-orientale, presente da tempo sul mercato rumeno. La gamma SMARTIA copre i progetti con budget equilibrato, e SUPREME S77 (taglio termico da 40 mm, Uf da 0,85 W/m²K, RC2/RC3) è la nostra scelta per le case nZEB.
 
 ### Aluprof (Polonia)
 Fa parte del gruppo polacco Kęty, con un’ampia gamma di finestre, porte e facciate. MB-86N è il sistema di base, ben isolato, e MB-104 Passive è certificato dal Passive House Institute, con Uw da 0,62 W/m²K per le finestre apribili.
@@ -17846,7 +17990,7 @@ Alumil (Grecia), Aluprof (Polonia), Cortizo (Spagna) e Reynaers (Belgio). Tutti 
 
 ### Quanto costano gli infissi in alluminio Alumil nel 2026?
 
-Alumil SMARTIA S67 (Uw da 1,3) costa 250-350 EUR/m², e Alumil SUPREME S77 (Uw da 1,0, adatto all’nZEB) 350-480 EUR/m². I prezzi sono indicativi, IVA esclusa, con vetrocamera e posa.
+Alumil SMARTIA S67 (Uf da 1,1 W/m²K) costa 250-350 EUR/m², e Alumil SUPREME S77 (Uw da 0,85 W/m²K, adatto all’nZEB) 350-480 EUR/m². I prezzi sono indicativi, IVA esclusa, con vetrocamera e posa.
 
 ### In quanto tempo ricevo le finestre in alluminio?
 
@@ -17854,7 +17998,7 @@ Da Neofort BIZ le finestre sono pronte per la posa 3-4 settimane dopo l’ordine
 
 ### Quale sistema in alluminio isola meglio?
 
-Tra i sistemi confrontati, Aluprof MB-104 Passive dichiara un Uw da 0,62 W/m²K, e Cortizo COR 80 Industrial da 0,71. Alumil SUPREME S77, con Uw da 1,0, rientra nel valore di riferimento della Mc 001-2022 per gli edifici residenziali nuovi (1,11 W/m²K).
+Tra i sistemi confrontati, Aluprof MB-104 Passive dichiara un Uw da 0,62 W/m²K, e Cortizo COR 80 Industrial da 0,71. Alumil SUPREME S77 dichiara un Uw tra 0,85 e 1,4 W/m²K secondo vetro e dimensioni; con il vetro adatto rientra nel valore di riferimento della Mc 001-2022 per gli edifici residenziali nuovi (1,11 W/m²K).
 
 ### Neofort BIZ lavora anche con Reynaers?
 
@@ -18087,6 +18231,10 @@ Somfy Connexoon, hub WiFi de intrare, controlează până la 30 de motoare prin 
 
 Somfy și Nice sunt sisteme proprietare — dispozitivele funcționează în cadrul aceluiași ecosistem. KNX e un standard european deschis (EN 50090): orice dispozitiv KNX funcționează cu orice alt dispozitiv KNX, indiferent de producător, ideal pentru clădiri smart complexe.
 
+### Cât costă automatizarea tâmplăriei din aluminiu?
+
+Orientativ: un motor Somfy Yslo io pentru un sistem glisant costă 350–600 EUR, un Nice Era One 280–480 EUR, hub-ul Somfy Connexoon 180–250 EUR, iar TaHoma Switch 450–650 EUR. Motorizarea unei uși liftant-glisante S700 de 3 m ajunge la 1.200–2.500 EUR, cu motor, hub și configurare, iar un proiect KNX complet pentru o casă de 150 mp costă 5.000–15.000 EUR.
+
 ---
 
 Neofort BIZ proiectează și montează tâmplărie din aluminiu Alumil în București și Ilfov, cu barieră termică și montaj cu echipe proprii. Vezi [tâmplăria din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim sau [solicită o ofertă](/ro/contact). Toate detaliile în [ghidul complet al sistemelor din aluminiu](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet). Pagini utile: [sistemul liftant-glisant Alumil S 700 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme) și [automatizările Somfy pentru rulouri și pergole](/ro/accesorii/automatizari-somfy-rulouri-pergole).`,
@@ -18248,6 +18396,10 @@ Somfy Connexoon, the entry-level WiFi hub, controls up to 30 motors from the mob
 ### What is the difference between Somfy, Nice and KNX for automated joinery?
 
 Somfy and Nice are proprietary systems — the devices work within their own ecosystem. KNX is an open European standard (EN 50090): any KNX device works with any other KNX device, whatever the manufacturer, which makes it ideal for complex smart buildings.
+
+### How much does automating aluminium windows and doors cost?
+
+As a guide: a Somfy Yslo io motor for a sliding system costs 350–600 EUR, a Nice Era One 280–480 EUR, the Somfy Connexoon hub 180–250 EUR and the TaHoma Switch 450–650 EUR. Motorising a 3 m S700 lift-and-slide door comes to 1,200–2,500 EUR including motor, hub and set-up, and a complete KNX project for a 150 m² house costs 5,000–15,000 EUR.
 
 ---
 
@@ -18411,6 +18563,10 @@ Somfy Connexoon, der WLAN-Einsteigerhub, steuert bis zu 30 Motoren über die mob
 
 Somfy und Nice sind proprietäre Systeme — die Geräte arbeiten innerhalb des jeweils eigenen Ökosystems. KNX ist ein offener europäischer Standard (EN 50090): Jedes KNX-Gerät arbeitet mit jedem anderen KNX-Gerät zusammen, unabhängig vom Hersteller, was es für komplexe Smart Buildings ideal macht.
 
+### Was kostet die Automatisierung von Aluminiumfenstern und -türen?
+
+Als Richtwert: Ein Somfy-Yslo-io-Motor für ein Schiebesystem kostet 350–600 EUR, ein Nice Era One 280–480 EUR, der Hub Somfy Connexoon 180–250 EUR und der TaHoma Switch 450–650 EUR. Die Motorisierung einer 3 m breiten S700-Hebeschiebetür liegt bei 1.200–2.500 EUR inklusive Motor, Hub und Einrichtung, ein komplettes KNX-Projekt für ein Haus mit 150 m² bei 5.000–15.000 EUR.
+
 ---
 
 Neofort BIZ plant und montiert Alumil-Aluminiumfenster in Bukarest und Ilfov, mit thermischer Trennung und eigenen Montageteams. Sehen Sie [die Aluminiumfenster](/de/aluminiumfenster), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Alle Details im [vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Alumil S 700 SUPREME Hebeschiebetür](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem) und [Somfy-Automatisierung für Rollläden und Pergolen](/de/zubehoer/somfy-automatisierung-rolllaeden-pergolen).`,
@@ -18572,6 +18728,10 @@ Somfy Connexoon, la box WiFi d’entrée de gamme, pilote jusqu’à 30 moteurs 
 ### Quelle différence entre Somfy, Nice et KNX pour des menuiseries automatisées ?
 
 Somfy et Nice sont des systèmes propriétaires — les appareils fonctionnent au sein de leur propre écosystème. KNX est un standard européen ouvert (EN 50090) : tout appareil KNX fonctionne avec tout autre appareil KNX, quel que soit le fabricant, ce qui le rend idéal pour les bâtiments intelligents complexes.
+
+### Combien coûte l'automatisation des menuiseries aluminium ?
+
+À titre indicatif : un moteur Somfy Yslo io pour un coulissant coûte 350–600 EUR, un Nice Era One 280–480 EUR, la box Somfy Connexoon 180–250 EUR et la TaHoma Switch 450–650 EUR. La motorisation d'une baie levante-coulissante S700 de 3 m revient à 1 200–2 500 EUR avec moteur, box et paramétrage, et un projet KNX complet pour une maison de 150 m² coûte 5 000–15 000 EUR.
 
 ---
 
@@ -18735,6 +18895,10 @@ Somfy Connexoon, el hub WiFi de entrada, controla hasta 30 motores desde la app 
 
 Somfy y Nice son sistemas propietarios — los dispositivos funcionan dentro de su propio ecosistema. KNX es un estándar europeo abierto (EN 50090): cualquier dispositivo KNX funciona con cualquier otro dispositivo KNX, sea cual sea el fabricante, lo que lo hace ideal para edificios inteligentes complejos.
 
+### ¿Cuánto cuesta automatizar la carpintería de aluminio?
+
+De forma orientativa: un motor Somfy Yslo io para un sistema corredero cuesta 350–600 EUR, un Nice Era One 280–480 EUR, el hub Somfy Connexoon 180–250 EUR y el TaHoma Switch 450–650 EUR. Motorizar una puerta elevable-corredera S700 de 3 m cuesta 1.200–2.500 EUR con motor, hub y configuración, y un proyecto KNX completo para una casa de 150 m² cuesta 5.000–15.000 EUR.
+
 ---
 
 Neofort BIZ diseña e instala carpintería de aluminio Alumil en Bucarest e Ilfov, con rotura de puente térmico y equipos propios. Ver [la carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos o [solicita un presupuesto](/es/contacto). Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). Páginas útiles: [el sistema elevable-corredero Alumil S 700 SUPREME](/es/productos-alu/sistema-corredera-alumil-s700-supreme) y [la automatización Somfy para persianas y pérgolas](/es/accesorios/automatizacion-somfy-persianas-pergolas).`,
@@ -18896,6 +19060,10 @@ Somfy Connexoon, l’hub WiFi di ingresso, comanda fino a 30 motori dall’app m
 ### Che differenza c’è tra Somfy, Nice e KNX per i serramenti automatizzati?
 
 Somfy e Nice sono sistemi proprietari — i dispositivi funzionano all’interno del proprio ecosistema. KNX è uno standard europeo aperto (EN 50090): qualsiasi dispositivo KNX funziona con qualsiasi altro dispositivo KNX, indipendentemente dal produttore, il che lo rende ideale per edifici intelligenti complessi.
+
+### Quanto costa automatizzare i serramenti in alluminio?
+
+Indicativamente: un motore Somfy Yslo io per un sistema scorrevole costa 350–600 EUR, un Nice Era One 280–480 EUR, l'hub Somfy Connexoon 180–250 EUR e il TaHoma Switch 450–650 EUR. La motorizzazione di un alzante scorrevole S700 da 3 m arriva a 1.200–2.500 EUR con motore, hub e configurazione, e un progetto KNX completo per una casa di 150 m² costa 5.000–15.000 EUR.
 
 ---
 
@@ -21147,6 +21315,10 @@ O economie de 15% la costul ferestrelor poate însemna o creștere de 30-40% a f
 
 BluEvolution 92 ALU e placat cu aluminiu pe exterior, combinând estetica aluminiului cu performanța termică a PVC-ului. E ideal pentru case cu design contemporan, disponibil în orice culoare RAL, inclusiv negru mat, antracit și nuanțe de lemn — un aspect premium cu izolare nZEB.
 
+### Cât costă tâmplăria Salamander pentru o casă nouă?
+
+Orientativ, pentru o casă nouă de 120 mp: 18.000–26.000 EUR cu bluEvolution 92 FLEX, geam triplu Low-E și montaj nZEB, sau 22.000–32.000 EUR cu bluEvolution 92 ALU. Automatizarea Somfy pentru ușile glisante și senzori adaugă 3.000–6.000 EUR. Pentru o casă de 200 mp în configurație premium, estimarea e de 35.000–55.000 EUR.
+
 
 ---
 
@@ -21301,6 +21473,10 @@ A 15% saving on the cost of the windows can mean a 30–40% increase in the annu
 
 BluEvolution 92 ALU is clad with aluminium on the outside, combining the appearance of aluminium with the thermal performance of PVC. It suits houses with a contemporary design, is available in any RAL colour including matt black, anthracite and wood tones — a premium look with nZEB insulation.
 
+### How much do Salamander windows cost for a new house?
+
+As a guide, for a new 120 m² house: 18,000–26,000 EUR with bluEvolution 92 FLEX, triple Low-E glazing and nZEB installation, or 22,000–32,000 EUR with bluEvolution 92 ALU. Somfy automation for the sliding doors and sensors adds 3,000–6,000 EUR. For a 200 m² house in a premium configuration, the estimate is 35,000–55,000 EUR.
+
 ---
 
 Neofort BIZ supplies Salamander joinery for houses and villas, with installation in Bucharest and Ilfov and delivery across the European Union. [Send us the house plan](/en/contact) and you will receive a quote within 48 hours. See [the PVC joinery range](/en/pvc-windows) we offer. Useful pages: [the Salamander bluEvolution 92 ALU profile](/en/products/bluevolution-92-alu-pvc-profile) and [PVC window prices](/en/pvc-windows/prices). Useful pages: [about Neofort BIZ](/en/about) and [the Alumil S 350 SMARTIA lift-and-slide system](/en/products-alu/alumil-s350-smartia-lift-slide-system).`,
@@ -21452,6 +21628,10 @@ Eine Ersparnis von 15 % bei den Fensterkosten kann eine um 30–40 % höhere Jah
 ### Was bietet BluEvolution 92 ALU Häusern mit zeitgenössischem Entwurf?
 
 BluEvolution 92 ALU ist außen mit Aluminium verkleidet und verbindet die Optik des Aluminiums mit der Wärmedämmung des PVC. Es passt zu Häusern mit zeitgenössischem Entwurf, ist in jeder RAL-Farbe erhältlich, auch Schwarz matt, Anthrazit und Holztöne — hochwertige Optik mit nZEB-Dämmung.
+
+### Was kosten Salamander-Fenster für ein neues Haus?
+
+Als Richtwert für ein neues Haus mit 120 m²: 18.000–26.000 EUR mit bluEvolution 92 FLEX, Dreifach-Low-E-Glas und nZEB-Montage oder 22.000–32.000 EUR mit bluEvolution 92 ALU. Die Somfy-Automatisierung für Schiebetüren und Sensoren kommt mit 3.000–6.000 EUR hinzu. Für ein Haus mit 200 m² in Premium-Ausführung liegt die Schätzung bei 35.000–55.000 EUR.
 
 ---
 
@@ -21605,6 +21785,10 @@ Une économie de 15 % sur le coût des fenêtres peut entraîner une hausse de 3
 
 Le BluEvolution 92 ALU est habillé d’aluminium à l’extérieur, associant l’esthétique de l’aluminium à la performance thermique du PVC. Il convient aux maisons au design contemporain, disponible dans toute teinte RAL, y compris noir mat, anthracite et tons bois — une allure premium avec une isolation nZEB.
 
+### Combien coûtent les menuiseries Salamander pour une maison neuve ?
+
+À titre indicatif, pour une maison neuve de 120 m² : 18 000–26 000 EUR en bluEvolution 92 FLEX, triple vitrage Low-E et pose nZEB, ou 22 000–32 000 EUR en bluEvolution 92 ALU. L'automatisation Somfy des baies coulissantes et des capteurs ajoute 3 000–6 000 EUR. Pour une maison de 200 m² en configuration premium, l'estimation est de 35 000–55 000 EUR.
+
 ---
 
 Neofort BIZ fournit des menuiseries Salamander pour maisons et villas, avec pose à Bucarest et Ilfov et livraison dans l’Union européenne. [Transmettez-nous le plan de la maison](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme PVC](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [le profilé Salamander bluEvolution 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix). Pages utiles : [à propos de Neofort BIZ](/fr/a-propos) et [le système levant-coulissant Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia).`,
@@ -21757,6 +21941,10 @@ Un ahorro del 15 % en el coste de las ventanas puede suponer un aumento del 30�
 
 El BluEvolution 92 ALU va revestido de aluminio al exterior y combina la estética del aluminio con las prestaciones térmicas del PVC. Encaja en viviendas de diseño contemporáneo, está disponible en cualquier color RAL, incluidos negro mate, antracita y tonos madera — aspecto premium con aislamiento nZEB.
 
+### ¿Cuánto cuesta la carpintería Salamander para una casa nueva?
+
+De forma orientativa, para una casa nueva de 120 m²: 18.000–26.000 EUR con bluEvolution 92 FLEX, triple vidrio Low-E e instalación nZEB, o 22.000–32.000 EUR con bluEvolution 92 ALU. La automatización Somfy de las puertas correderas y los sensores añade 3.000–6.000 EUR. Para una casa de 200 m² en configuración premium, la estimación es de 35.000–55.000 EUR.
+
 ---
 
 Neofort BIZ suministra carpintería Salamander para casas y chalets, con instalación en Bucarest e Ilfov y entrega en la Unión Europea. [Envíenos el plano de la vivienda](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería PVC](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el perfil Salamander bluEvolution 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) y [los precios de la carpintería PVC](/es/carpinteria-pvc/precios). Páginas útiles: [sobre Neofort BIZ](/es/sobre-nosotros) y [el sistema elevable-corredero Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia).`,
@@ -21908,6 +22096,10 @@ Un risparmio del 15 % sul costo delle finestre può comportare un aumento del 30
 ### Che cosa offre il BluEvolution 92 ALU alle case dal design contemporaneo?
 
 Il BluEvolution 92 ALU è rivestito in alluminio all’esterno e unisce l’estetica dell’alluminio alle prestazioni termiche del PVC. Si adatta alle case dal design contemporaneo, è disponibile in qualsiasi colore RAL, compresi nero opaco, antracite e tonalità legno — aspetto di pregio con isolamento nZEB.
+
+### Quanto costano i serramenti Salamander per una casa nuova?
+
+Indicativamente, per una casa nuova di 120 m²: 18.000–26.000 EUR con bluEvolution 92 FLEX, triplo vetro Low-E e posa nZEB, oppure 22.000–32.000 EUR con bluEvolution 92 ALU. L'automazione Somfy per le porte scorrevoli e i sensori aggiunge 3.000–6.000 EUR. Per una casa di 200 m² in configurazione premium, la stima è di 35.000–55.000 EUR.
 
 ---
 
@@ -22096,6 +22288,10 @@ PVC BluEvolution 92 are Uw mai bun (0,70-1,0 vs 1,1-1,4) și preț mai mic, dar 
 
 Pe un bloc nou cu fațadă modernă, aluminiu Reynaers oferă linii arhitecturale curate care cresc valoarea percepută a apartamentelor. Dezvoltatorii din Floreasca, Dorobanți, Aviatorilor și zone în ascensiune ca Delea Veche au migrat spre aluminiu pentru că cumpărătorul vede ferestrele din prima vizită.
 
+### Cât costă tâmplăria Reynaers pentru un apartament dintr-un bloc nou?
+
+Orientativ, cu montaj, glafuri și evacuarea ambalajelor: 2.800–4.200 EUR pentru un apartament cu 2 camere (3 ferestre și o ușă de balcon, CS 77 cu geam dublu Low-E) și 4.200–6.500 EUR pentru unul cu 3 camere (4 ferestre și 2 uși de balcon). Cu geam triplu, apartamentul cu 3 camere ajunge la 5.500–8.000 EUR. Ușile de intrare în bloc și elementele comune se ofertează separat.
+
 
 ---
 
@@ -22220,6 +22416,10 @@ PVC BluEvolution 92 has a better Uw (0.70–1.0 against 1.1–1.4) and a lower p
 
 On a new block with a modern facade, Reynaers aluminium delivers clean architectural lines that raise the perceived value of the apartments. Developers in Floreasca, Dorobanți, Aviatorilor and rising areas such as Delea Veche have moved to aluminium because the buyer sees the windows on the first visit.
 
+### How much do Reynaers windows cost for a flat in a new block?
+
+As a guide, including installation, sills and packaging removal: 2,800–4,200 EUR for a two-room flat (3 windows and a balcony door, CS 77 with double Low-E glazing) and 4,200–6,500 EUR for a three-room flat (4 windows and 2 balcony doors). With triple glazing, the three-room flat comes to 5,500–8,000 EUR. Building entrance doors and common areas are quoted separately.
+
 ---
 
 Neofort BIZ supplies and installs aluminium joinery for new apartment blocks, with phased delivery, in Bucharest and Ilfov. [Send us the development details](/en/contact) and you will receive a quote within 48 hours. See [the aluminium joinery range](/en/aluminium-windows) we offer. Useful pages: [the Alumil S 77 SUPREME system](/en/products-alu/alumil-s77-supreme-aluminium-system) and [the Alumil S 350 SMARTIA lift-and-slide system](/en/products-alu/alumil-s350-smartia-lift-slide-system).`,
@@ -22341,6 +22541,10 @@ PVC BluEvolution 92 hat den besseren Uw-Wert (0,70–1,0 gegenüber 1,1–1,4) u
 ### Warum eignet sich Aluminium für Blocks in gehobenen Lagen Bukarests?
 
 An einem Neubau mit moderner Fassade ergibt Reynaers-Aluminium klare architektonische Linien, die den wahrgenommenen Wert der Wohnungen steigern. Bauträger in Floreasca, Dorobanți, Aviatorilor und aufstrebenden Lagen wie Delea Veche sind zu Aluminium gewechselt, weil der Käufer die Fenster beim ersten Besuch sieht.
+
+### Was kosten Reynaers-Fenster für eine Wohnung in einem Neubau?
+
+Als Richtwert, mit Montage, Fensterbänken und Entsorgung der Verpackung: 2.800–4.200 EUR für eine Zweizimmerwohnung (3 Fenster und eine Balkontür, CS 77 mit Zweifach-Low-E-Glas) und 4.200–6.500 EUR für eine Dreizimmerwohnung (4 Fenster und 2 Balkontüren). Mit Dreifachglas liegt die Dreizimmerwohnung bei 5.500–8.000 EUR. Hauseingangstüren und Gemeinschaftsbereiche werden gesondert angeboten.
 
 ---
 
@@ -22464,6 +22668,10 @@ Le PVC BluEvolution 92 affiche un meilleur Uw (0,70–1,0 contre 1,1–1,4) et u
 
 Sur un immeuble neuf à façade moderne, l’aluminium Reynaers donne des lignes architecturales nettes qui augmentent la valeur perçue des appartements. Les promoteurs de Floreasca, Dorobanți, Aviatorilor et de secteurs en devenir comme Delea Veche sont passés à l’aluminium parce que l’acquéreur voit les fenêtres dès la première visite.
 
+### Combien coûtent les menuiseries Reynaers pour un appartement neuf ?
+
+À titre indicatif, pose, appuis et évacuation des emballages compris : 2 800–4 200 EUR pour un deux-pièces (3 fenêtres et une porte-fenêtre de balcon, CS 77 en double vitrage Low-E) et 4 200–6 500 EUR pour un trois-pièces (4 fenêtres et 2 portes-fenêtres). En triple vitrage, le trois-pièces revient à 5 500–8 000 EUR. Les portes d'entrée de l'immeuble et les parties communes font l'objet d'un devis séparé.
+
 ---
 
 Neofort BIZ fournit et pose des menuiseries aluminium pour immeubles neufs, avec livraison par phases, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du programme](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme de menuiseries aluminium](/fr/menuiserie-aluminium) que nous proposons. Pages utiles : [le système Alumil S 77 SUPREME](/fr/produits-alu/systeme-aluminium-alumil-s77-supreme) et [le système levant-coulissant Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia).`,
@@ -22586,6 +22794,10 @@ El PVC BluEvolution 92 tiene mejor Uw (0,70–1,0 frente a 1,1–1,4) y precio m
 
 En un bloque nuevo con fachada moderna, el aluminio Reynaers aporta líneas arquitectónicas limpias que elevan el valor percibido de las viviendas. Las promotoras de Floreasca, Dorobanți, Aviatorilor y zonas en auge como Delea Veche se han pasado al aluminio porque el comprador ve las ventanas en la primera visita.
 
+### ¿Cuánto cuesta la carpintería Reynaers para un piso de un bloque nuevo?
+
+De forma orientativa, con instalación, vierteaguas y retirada de embalajes: 2.800–4.200 EUR para un piso de dos habitaciones (3 ventanas y una puerta de balcón, CS 77 con doble vidrio Low-E) y 4.200–6.500 EUR para uno de tres (4 ventanas y 2 puertas de balcón). Con triple vidrio, el piso de tres habitaciones sale por 5.500–8.000 EUR. Las puertas de entrada al edificio y las zonas comunes se presupuestan aparte.
+
 ---
 
 Neofort BIZ suministra e instala carpintería de aluminio para bloques de obra nueva, con entrega por fases, en Bucarest e Ilfov. [Envíenos los datos de la promoción](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos. Páginas útiles: [el sistema Alumil S 77 SUPREME](/es/productos-alu/sistema-aluminio-alumil-s77-supreme) y [el sistema elevable-corredero Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia).`,
@@ -22707,6 +22919,10 @@ Il PVC BluEvolution 92 ha un Uw migliore (0,70–1,0 contro 1,1–1,4) e un prez
 ### Perché l’alluminio è adatto agli edifici nelle zone di pregio di Bucarest?
 
 Su un edificio nuovo con facciata moderna, l’alluminio Reynaers dà linee architettoniche pulite che aumentano il valore percepito degli appartamenti. Gli sviluppatori di Floreasca, Dorobanți, Aviatorilor e di zone in ascesa come Delea Veche sono passati all’alluminio perché l’acquirente vede le finestre già alla prima visita.
+
+### Quanto costano i serramenti Reynaers per un appartamento in un condominio nuovo?
+
+Indicativamente, con posa, davanzali e smaltimento degli imballaggi: 2.800–4.200 EUR per un bilocale (3 finestre e una porta balcone, CS 77 con doppio vetro Low-E) e 4.200–6.500 EUR per un trilocale (4 finestre e 2 porte balcone). Con triplo vetro, il trilocale arriva a 5.500–8.000 EUR. Le porte d'ingresso del condominio e le parti comuni si quotano a parte.
 
 ---
 
@@ -24468,6 +24684,10 @@ O foaie de sticlă securizată poate ajunge la dimensiuni maxime de 3.500 × 8.0
 
 Sticla securizată, la spargere, se fragmentează în granule mici fără muchii ascuțite, spre deosebire de sticla float care produce cioburi periculoase. Aceasta e esențial pentru siguranța în showroom-uri, magazine, restaurante și orice spațiu public cu trafic intens de persoane.
 
+### Cât costă o vitrină de mari dimensiuni?
+
+Orientativ: o foaie de sticlă securizată de 10 mm, 2.000 × 3.000 mm, costă 450–700 EUR, una de 12 mm, 2.500 × 3.500 mm, 700–1.100 EUR, iar un termopan securizat 6+16+6 de 2.500 × 3.000 mm 800–1.300 EUR. Montajul complet cu robot și manoperă adaugă 350–800 EUR pe panou. Transportul specializat și pregătirea structurii de prindere nu sunt incluse.
+
 
 ---
 
@@ -24612,6 +24832,10 @@ A toughened sheet can reach a maximum of 3,500 × 8,000 mm, in standard thicknes
 
 When it breaks, toughened glass shatters into small granules with no sharp edges, unlike float glass, which produces dangerous shards. That is essential for safety in showrooms, shops, restaurants and any public space with heavy footfall.
 
+### How much does a large shop window cost?
+
+As a guide: a 2,000 × 3,000 mm sheet of 10 mm toughened glass costs 450–700 EUR, a 2,500 × 3,500 mm sheet of 12 mm 700–1,100 EUR, and a 2,500 × 3,000 mm toughened 6+16+6 insulating unit 800–1,300 EUR. Complete installation with robot and labour adds 350–800 EUR per panel. Specialist transport and preparing the fixing structure are not included.
+
 ---
 
 Neofort BIZ carries out aluminium joinery and facade works in Bucharest and Ilfov, from windows and doors to curtain walls. Discover [the aluminium windows range](/en/aluminium-windows) or [request a quote](/en/contact). All the details in [the complete guide to aluminium systems](/en/blog/aluminium-windows-thermal-break-complete-guide). Useful pages: [Saint-Gobain SGG insulating glass](/en/nzeb-systems/saint-gobain-sgg-thermal-insulating-glass) and [the Alumil S 77 SUPREME system](/en/products-alu/alumil-s77-supreme-aluminium-system). Useful pages: [the Alumil M 19800 SMARTIA folding system](/en/products-alu/alumil-m19800-smartia-folding-system) and [the Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system).`,
@@ -24753,6 +24977,10 @@ Eine vorgespannte Tafel kann maximal 3.500 × 8.000 mm erreichen, in Standarddic
 ### Warum ist Vorspannen im öffentlichen Raum so wichtig?
 
 Vorgespanntes Glas zerfällt beim Bruch in kleine Krümel ohne scharfe Kanten, anders als Floatglas, das gefährliche Scherben bildet. Das ist entscheidend für die Sicherheit in Showrooms, Läden, Restaurants und jedem öffentlichen Raum mit starkem Publikumsverkehr.
+
+### Was kostet ein großes Schaufenster?
+
+Als Richtwert: Eine Scheibe aus 10 mm ESG in 2.000 × 3.000 mm kostet 450–700 EUR, eine aus 12 mm in 2.500 × 3.500 mm 700–1.100 EUR und ein Isolierglas aus ESG 6+16+6 in 2.500 × 3.000 mm 800–1.300 EUR. Die komplette Montage mit Roboter und Arbeitslohn kommt mit 350–800 EUR pro Element hinzu. Spezialtransport und die Vorbereitung der Befestigungskonstruktion sind nicht enthalten.
 
 ---
 
@@ -24896,6 +25124,10 @@ Une feuille trempée peut atteindre 3 500 × 8 000 mm au maximum, en épaisseurs
 
 À la casse, le verre trempé se fragmente en petits granulés sans arêtes coupantes, contrairement au float qui produit des éclats dangereux. C’est essentiel pour la sécurité dans les showrooms, les magasins, les restaurants et tout lieu public à forte fréquentation.
 
+### Combien coûte une vitrine de grandes dimensions ?
+
+À titre indicatif : un verre trempé de 10 mm en 2 000 × 3 000 mm coûte 450–700 EUR, un verre de 12 mm en 2 500 × 3 500 mm 700–1 100 EUR, et un double vitrage trempé 6+16+6 en 2 500 × 3 000 mm 800–1 300 EUR. La pose complète avec robot et main-d'œuvre ajoute 350–800 EUR par panneau. Le transport spécialisé et la préparation de la structure de fixation ne sont pas inclus.
+
 ---
 
 Neofort BIZ réalise des travaux de menuiserie et façades en aluminium à Bucarest et Ilfov, des fenêtres et portes aux murs-rideaux. Découvrez [la gamme de fenêtres aluminium](/fr/menuiserie-aluminium) ou [demandez un devis](/fr/contact). Tous les détails dans [le guide complet des systèmes en aluminium](/fr/blog/menuiserie-aluminium-rupture-thermique-guide-complet). Pages utiles : [le vitrage isolant Saint-Gobain SGG](/fr/systemes-nzeb/vitrage-isolant-saint-gobain-sgg) et [le système Alumil S 77 SUPREME](/fr/produits-alu/systeme-aluminium-alumil-s77-supreme). Pages utiles : [le système pliant Alumil M 19800 SMARTIA](/fr/produits-alu/systeme-pliant-alumil-m19800-smartia) et [le système pliant Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme).`,
@@ -25038,6 +25270,10 @@ Una hoja templada puede alcanzar 3.500 × 8.000 mm, en espesores estándar de 8,
 
 Al romperse, el vidrio templado se fragmenta en gránulos pequeños sin aristas cortantes, a diferencia del float, que produce astillas peligrosas. Esto resulta esencial para la seguridad en showrooms, tiendas, restaurantes y cualquier espacio público con mucho tránsito.
 
+### ¿Cuánto cuesta un escaparate de grandes dimensiones?
+
+De forma orientativa: una hoja de vidrio templado de 10 mm y 2.000 × 3.000 mm cuesta 450–700 EUR, una de 12 mm y 2.500 × 3.500 mm 700–1.100 EUR, y un doble acristalamiento templado 6+16+6 de 2.500 × 3.000 mm 800–1.300 EUR. La instalación completa con robot y mano de obra añade 350–800 EUR por panel. No se incluyen el transporte especializado ni la preparación de la estructura de fijación.
+
 ---
 
 Neofort BIZ ejecuta trabajos de carpintería y fachadas de aluminio en Bucarest e Ilfov, desde ventanas y puertas hasta muros cortina. Descubre [la gama de ventanas de aluminio](/es/carpinteria-aluminio) o [solicita un presupuesto](/es/contacto). Todos los detalles en [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). Páginas útiles: [el vidrio aislante Saint-Gobain SGG](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg) y [el sistema Alumil S 77 SUPREME](/es/productos-alu/sistema-aluminio-alumil-s77-supreme). Páginas útiles: [el sistema plegable Alumil M 19800 SMARTIA](/es/productos-alu/sistema-plegable-alumil-m19800-smartia) y [el sistema plegable Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme).`,
@@ -25179,6 +25415,10 @@ Una lastra temprata può arrivare a 3.500 × 8.000 mm, in spessori standard di 8
 ### Perché la tempra è importante negli spazi pubblici?
 
 Rompendosi, il vetro temprato si frantuma in granuli piccoli senza spigoli taglienti, a differenza del float che produce schegge pericolose. È essenziale per la sicurezza in showroom, negozi, ristoranti e ogni spazio pubblico ad alta affluenza.
+
+### Quanto costa una vetrina di grandi dimensioni?
+
+Indicativamente: una lastra di vetro temperato da 10 mm, 2.000 × 3.000 mm, costa 450–700 EUR, una da 12 mm, 2.500 × 3.500 mm, 700–1.100 EUR, e una vetrocamera temperata 6+16+6 da 2.500 × 3.000 mm 800–1.300 EUR. La posa completa con robot e manodopera aggiunge 350–800 EUR per pannello. Il trasporto speciale e la preparazione della struttura di fissaggio non sono inclusi.
 
 ---
 
@@ -25393,6 +25633,10 @@ O sticlă securizată de 10 mm cântărește 25 kg/mp, deci un panou de 3.000 ×
 
 Montajul panourilor de mari dimensiuni necesită o precizie ridicată — erorile de poziționare de 2-3 mm distrug etanșarea perimetrală. Robotul cu ventuze cu vid permite poziționarea milimetrică imposibil de atins manual, garantând o etanșare corectă și durabilă a panoului.
 
+### Cât costă montajul cu robot al unui geam agabaritic?
+
+Orientativ: mobilizarea robotului și a echipei în București și Ilfov costă 600–1.200 EUR, apoi montajul se plătește pe panou — 250–450 EUR sub 200 kg, 450–800 EUR între 200 și 600 kg și 800–1.500 EUR peste 600 kg. În afara Bucureștiului și Ilfovului se adaugă 1,5–2,5 EUR pe km.
+
 ---
 
 Neofort BIZ montează geamuri agabaritice cu robot cu ventuze în București și Ilfov, pentru panouri pe care echipele nu le pot manipula manual. Vezi [sistemele de aluminiu pentru deschideri mari](/ro/tamplarie-aluminiu) sau [descrie-ne proiectul](/ro/contact). Partea de izolare e detaliată în [ghidul barierei termice](/ro/blog/tamplarie-aluminiu-bariera-termica-ghid-complet). Pagini utile: [geamurile termoizolante Saint-Gobain SGG](/ro/sisteme-nzeb/geamuri-termopan-saint-gobain-sgg) și [tâmplăria din aluminiu în București](/ro/tamplarie-aluminiu/bucuresti).`,
@@ -25540,6 +25784,10 @@ Toughened glass of 10 mm weighs 25 kg/sqm, so a panel of 3,000 × 4,000 mm reach
 ### What accuracy is required when installing large glass?
 
 Installing large panels demands high accuracy — positioning errors of 2–3 mm destroy the perimeter seal. The vacuum-cup robot allows millimetre positioning that cannot be achieved by hand, guaranteeing a correct and durable seal around the panel.
+
+### How much does robot installation of an oversized glass panel cost?
+
+As a guide: mobilising the robot and crew in Bucharest and Ilfov costs 600–1,200 EUR, then installation is charged per panel — 250–450 EUR under 200 kg, 450–800 EUR from 200 to 600 kg and 800–1,500 EUR above 600 kg. Outside Bucharest and Ilfov, 1.5–2.5 EUR per km is added.
 
 ---
 
@@ -25689,6 +25937,10 @@ Sicherheitsglas von 10 mm wiegt 25 kg/m², ein Element von 3.000 × 4.000 mm err
 
 Die Montage großer Elemente verlangt hohe Genauigkeit — Positionsabweichungen von 2–3 mm zerstören die umlaufende Abdichtung. Der Vakuumroboter ermöglicht eine millimetergenaue Positionierung, die von Hand nicht erreichbar ist, und sichert damit eine korrekte, dauerhafte Abdichtung.
 
+### Was kostet die Montage einer übergroßen Glasscheibe mit Roboter?
+
+Als Richtwert: Die Bereitstellung von Roboter und Team in Bukarest und Ilfov kostet 600–1.200 EUR, danach wird die Montage pro Element berechnet — 250–450 EUR unter 200 kg, 450–800 EUR zwischen 200 und 600 kg und 800–1.500 EUR über 600 kg. Außerhalb von Bukarest und Ilfov kommen 1,5–2,5 EUR pro km hinzu.
+
 ---
 
 Neofort BIZ montiert übergroße Verglasungen mit Vakuum-Hebegerät in Bukarest und Ilfov, für Scheiben, die kein Team von Hand bewegen kann. Sehen Sie [Aluminiumsysteme für große Öffnungen](/de/aluminiumfenster) oder [beschreiben Sie uns das Projekt](/de/kontakt). Zur Dämmung siehe [den Ratgeber zur thermischen Trennung](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). ehen Sie auch [den vollständigen Ratgeber zu Aluminiumsystemen](/de/blog/aluminiumfenster-waermedaemmung-komplett-leitfaden). Nützliche Seiten: [Saint-Gobain SGG Wärmeschutzglas](/de/nzeb-systeme/saint-gobain-sgg-waermeschutzisolierglas) und [Aluminiumfenster in Bukarest](/de/aluminiumfenster/bukarest).`,
@@ -25836,6 +26088,10 @@ Un verre trempé de 10 mm pèse 25 kg/m², donc un panneau de 3 000 × 4 000 mm 
 ### Quelle précision faut-il pour poser de grands vitrages ?
 
 La pose de grands panneaux exige une précision élevée — des écarts de positionnement de 2 à 3 mm détruisent l’étanchéité périphérique. Le robot à ventouses permet un positionnement au millimètre, impossible à obtenir à la main, garantissant une étanchéité correcte et durable du panneau.
+
+### Combien coûte la pose au robot d'un vitrage hors gabarit ?
+
+À titre indicatif : la mobilisation du robot et de l'équipe à Bucarest et en Ilfov coûte 600–1 200 EUR, puis la pose est facturée par panneau — 250–450 EUR sous 200 kg, 450–800 EUR entre 200 et 600 kg et 800–1 500 EUR au-delà de 600 kg. Hors de Bucarest et d'Ilfov, on ajoute 1,5–2,5 EUR par km.
 
 ---
 
@@ -25985,6 +26241,10 @@ Un vidrio templado de 10 mm pesa 25 kg/m², de modo que un panel de 3.000 × 4.0
 
 La instalación de paneles grandes exige una precisión alta — los errores de posicionamiento de 2–3 mm destruyen el sellado perimetral. El robot de ventosas permite un posicionamiento milimétrico imposible de alcanzar a mano, lo que garantiza un sellado correcto y duradero del panel.
 
+### ¿Cuánto cuesta instalar con robot un vidrio de grandes dimensiones?
+
+De forma orientativa: movilizar el robot y el equipo en Bucarest e Ilfov cuesta 600–1.200 EUR, y después la instalación se cobra por panel — 250–450 EUR por debajo de 200 kg, 450–800 EUR entre 200 y 600 kg y 800–1.500 EUR por encima de 600 kg. Fuera de Bucarest e Ilfov se suman 1,5–2,5 EUR por km.
+
 ---
 
 Neofort BIZ instala acristalamientos de gran formato con robot de ventosas en Bucarest e Ilfov, para paneles que ningún equipo puede mover a mano. Ver [los sistemas de aluminio para grandes huecos](/es/carpinteria-aluminio) o [cuéntenos el proyecto](/es/contacto). El apartado de aislamiento está en [la guía de la rotura de puente térmico](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). a también [la guía completa de los sistemas de aluminio](/es/blog/carpinteria-aluminio-rotura-termica-guia-completa). Páginas útiles: [el vidrio aislante Saint-Gobain SGG](/es/sistemas-nzeb/vidrio-aislante-saint-gobain-sgg) y [la carpintería de aluminio en Bucarest](/es/carpinteria-aluminio/bucarest).`,
@@ -26132,6 +26392,10 @@ Un vetro temprato da 10 mm pesa 25 kg/m², quindi una lastra da 3.000 × 4.000 m
 ### Quale precisione serve nella posa di vetri di grandi dimensioni?
 
 La posa di lastre grandi richiede una precisione elevata — errori di posizionamento di 2–3 mm distruggono la sigillatura perimetrale. Il robot a ventose consente un posizionamento millimetrico impossibile da ottenere a mano, garantendo una tenuta corretta e duratura della lastra.
+
+### Quanto costa la posa con robot di un vetro fuori misura?
+
+Indicativamente: la mobilitazione del robot e della squadra a Bucarest e in Ilfov costa 600–1.200 EUR, poi la posa si paga a pannello — 250–450 EUR sotto i 200 kg, 450–800 EUR tra 200 e 600 kg e 800–1.500 EUR oltre i 600 kg. Fuori da Bucarest e Ilfov si aggiungono 1,5–2,5 EUR al km.
 
 ---
 
@@ -26324,6 +26588,10 @@ Da. Portofoliul include blocuri rezidențiale noi în zone cu activitate intens�
 
 Tâmplăria aluminiu poate fi vopsită electrostatic în orice culoare RAL. La proiectele rezidențiale, o combinație frecventă este RAL 7016 antracit mat la exterior cu alb la interior — finisajul preferat pentru arhitectura modernă din București.
 
+### Cât costă un perete cortină în București?
+
+Orientativ, un perete cortină Reynaers CW 50 sau Alumil SMARTIA M50 costă 200–500 EUR/mp plus TVA, cu materiale, montaj și documentație CE. Pereții cortină semi-structurali și structurali se ofertează pe proiect, până la 500 EUR/mp plus TVA, iar o fațadă ventilată din aluminiu cu ACM costă 180–320 EUR/mp. Transportul e inclus în București și Ilfov.
+
 
 ---
 
@@ -26452,6 +26720,10 @@ Yes. The portfolio includes new residential blocks in areas of intense construct
 
 Aluminium joinery can be electrostatically coated in any RAL colour. On residential projects, a frequent combination is RAL 7016 matt anthracite outside with white inside — the preferred finish for contemporary architecture in Bucharest.
 
+### How much does a curtain wall cost in Bucharest?
+
+As a guide, a Reynaers CW 50 or Alumil SMARTIA M50 curtain wall costs 200–500 EUR/m² plus VAT, including materials, installation and CE documentation. Semi-structural and structural curtain walls are quoted per project, up to 500 EUR/m² plus VAT, and a ventilated aluminium facade with ACM costs 180–320 EUR/m². Transport is included in Bucharest and Ilfov.
+
 ---
 
 Neofort BIZ builds curtain walls and glass facades for office buildings and commercial premises in Bucharest and Ilfov. [Send us the facade drawings](/en/contact) and you will receive a quote within 48 hours. See [the aluminium joinery range](/en/aluminium-windows) we offer. Useful pages: [aluminium window prices](/en/aluminium-windows/prices) and [aluminium windows in Bucharest](/en/aluminium-windows/bucharest). Useful pages: [the Alumil M 19800 SMARTIA folding system](/en/products-alu/alumil-m19800-smartia-folding-system) and [the Alumil S 700 SUPREME lift-and-slide system](/en/products-alu/alumil-s700-supreme-lift-slide-system).`,
@@ -26577,6 +26849,10 @@ Ja. Das Portfolio umfasst neue Wohnblocks in Gebieten mit intensiver Bautätigke
 ### Welche Farben für Aluminiumfenster sind bei Projekten von Neofort BIZ verfügbar?
 
 Aluminiumfenster lassen sich elektrostatisch in jeder RAL-Farbe beschichten. Bei Wohnprojekten ist eine häufige Kombination RAL 7016 Anthrazit matt außen mit Weiß innen — die bevorzugte Ausführung für zeitgenössische Architektur in Bukarest.
+
+### Was kostet eine Vorhangfassade in Bukarest?
+
+Als Richtwert kostet eine Vorhangfassade Reynaers CW 50 oder Alumil SMARTIA M50 200–500 EUR/m² zzgl. MwSt., mit Material, Montage und CE-Dokumentation. Halbstrukturelle und strukturelle Vorhangfassaden werden pro Projekt angeboten, bis 500 EUR/m² zzgl. MwSt., eine hinterlüftete Aluminiumfassade mit ACM kostet 180–320 EUR/m². Der Transport ist in Bukarest und Ilfov inbegriffen.
 
 ---
 
@@ -26704,6 +26980,10 @@ Oui. Le portefeuille comprend des immeubles résidentiels neufs dans des secteur
 
 La menuiserie aluminium peut être thermolaquée dans toute teinte RAL. Sur les projets résidentiels, une combinaison fréquente est le RAL 7016 anthracite mat à l’extérieur avec du blanc à l’intérieur — la finition privilégiée par l’architecture contemporaine à Bucarest.
 
+### Combien coûte un mur-rideau à Bucarest ?
+
+À titre indicatif, un mur-rideau Reynaers CW 50 ou Alumil SMARTIA M50 coûte 200–500 EUR/m² HT, matériaux, pose et documentation CE compris. Les murs-rideaux semi-structurels et structurels sont chiffrés sur projet, jusqu'à 500 EUR/m² HT, et une façade ventilée en aluminium avec ACM coûte 180–320 EUR/m². Le transport est inclus à Bucarest et en Ilfov.
+
 ---
 
 Neofort BIZ réalise des murs-rideaux et des façades vitrées pour immeubles de bureaux et locaux commerciaux, à Bucarest et dans l’Ilfov. [Transmettez-nous les plans de façade](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme de menuiseries aluminium](/fr/menuiserie-aluminium) que nous proposons. Pages utiles : [les prix de la menuiserie aluminium](/fr/menuiserie-aluminium/prix) et [la menuiserie aluminium à Bucarest](/fr/menuiserie-aluminium/bucarest). Pages utiles : [le système pliant Alumil M 19800 SMARTIA](/fr/produits-alu/systeme-pliant-alumil-m19800-smartia) et [le système levant-coulissant Alumil S 700 SUPREME](/fr/produits-alu/systeme-coulissant-alumil-s700-supreme).`,
@@ -26830,6 +27110,10 @@ Sí. El portafolio incluye bloques residenciales nuevos en zonas de intensa acti
 
 La carpintería de aluminio puede lacarse electrostáticamente en cualquier color RAL. En los proyectos residenciales, una combinación frecuente es el RAL 7016 antracita mate al exterior con blanco al interior — el acabado preferido por la arquitectura contemporánea de Bucarest.
 
+### ¿Cuánto cuesta un muro cortina en Bucarest?
+
+De forma orientativa, un muro cortina Reynaers CW 50 o Alumil SMARTIA M50 cuesta 200–500 EUR/m² más IVA, con materiales, instalación y documentación CE. Los muros cortina semiestructurales y estructurales se presupuestan por proyecto, hasta 500 EUR/m² más IVA, y una fachada ventilada de aluminio con ACM cuesta 180–320 EUR/m². El transporte está incluido en Bucarest e Ilfov.
+
 ---
 
 Neofort BIZ ejecuta muros cortina y fachadas de vidrio para edificios de oficinas y locales comerciales en Bucarest e Ilfov. [Envíenos los planos de fachada](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos. Páginas útiles: [los precios de la carpintería de aluminio](/es/carpinteria-aluminio/precios) y [la carpintería de aluminio en Bucarest](/es/carpinteria-aluminio/bucarest). Páginas útiles: [el sistema plegable Alumil M 19800 SMARTIA](/es/productos-alu/sistema-plegable-alumil-m19800-smartia) y [el sistema elevable-corredero Alumil S 700 SUPREME](/es/productos-alu/sistema-corredera-alumil-s700-supreme).`,
@@ -26955,6 +27239,10 @@ Sì. Il portfolio comprende nuovi edifici residenziali in zone con intensa attiv
 ### Quali colori di serramenti in alluminio sono disponibili nei cantieri Neofort BIZ?
 
 I serramenti in alluminio possono essere verniciati elettrostaticamente in qualsiasi colore RAL. Nei progetti residenziali una combinazione frequente è il RAL 7016 antracite opaco all’esterno con il bianco all’interno — la finitura preferita dall’architettura contemporanea di Bucarest.
+
+### Quanto costa una facciata continua a Bucarest?
+
+Indicativamente, una facciata continua Reynaers CW 50 o Alumil SMARTIA M50 costa 200–500 EUR/m² più IVA, con materiali, posa e documentazione CE. Le facciate continue semistrutturali e strutturali si quotano a progetto, fino a 500 EUR/m² più IVA, e una facciata ventilata in alluminio con ACM costa 180–320 EUR/m². Il trasporto è incluso a Bucarest e in Ilfov.
 
 ---
 
@@ -27180,6 +27468,10 @@ Nu. La țesăturile screen cu 5-10% deschidere, din exterior pe timp de zi nu se
 
 Pentru intimitate maximă alege blackout (opac, 0% deschidere) — oferă întuneric total, zero vizibilitate în ambele sensuri și 100% filtrare UV, ideal pentru dormitoare. Dacă vrei și păstrarea vederii spre exterior, semi-opacul (1-3%) oferă un compromis cu vizibilitate redusă și 97-99% UV filtrat.
 
+### Costă mai mult un Zipscreen blackout decât unul transparent?
+
+Puțin. Orientativ, instalat: țesătura transparentă (5%) costă 160–220 EUR/mp, semi-opacul de 3% 170–240 EUR/mp, cel de 1% 180–260 EUR/mp, iar blackout-ul (0%) 190–280 EUR/mp. Diferența e mică, așa că țesătura se alege după orientare și după cât de multă intimitate vrei, nu după preț.
+
 ---
 
 Neofort BIZ montează sisteme ZipScreen cu țesături blackout și screen transparent în București și Ilfov, dimensionate pe fiecare deschidere. Descoperă [soluțiile de umbrire](/ro/umbrire) pe care le oferim sau [solicită o ofertă](/ro/contact). Compară toate opțiunile în [comparația completă a sistemelor de umbrire exterioară](/ro/blog/zipscreen-umbrire-terasa-ghid-complet). Pagini utile: [rulourile textile Zipscreen](/ro/umbrire/zipscreen) și [ghidul complet al sistemelor de umbrire](/ro/umbrire/ghid-complet-sisteme-umbrire).`,
@@ -27337,6 +27629,10 @@ No. With screen fabrics of 5–10% openness, you cannot see inside from the outs
 ### Which Zipscreen fabric should I choose for maximum privacy?
 
 For maximum privacy choose blackout (opaque, 0% openness) — it gives total darkness, no visibility in either direction and 100% UV filtering, ideal for bedrooms. If you also want to keep the view outwards, semi-opaque (1–3%) offers a compromise with reduced visibility and 97–99% UV filtered.
+
+### Does a blackout Zipscreen cost more than a transparent one?
+
+Slightly. As a guide, installed: transparent fabric (5%) costs 160–220 EUR/m², 3% semi-opaque 170–240 EUR/m², 1% semi-opaque 180–260 EUR/m² and blackout (0%) 190–280 EUR/m². The difference is small, so choose the fabric by orientation and by how much privacy you want, not by price.
 
 ---
 
@@ -27496,6 +27792,10 @@ Nein. Bei Screen-Geweben mit 5–10 % Öffnung sieht man tagsüber von außen ni
 
 Für maximalen Sichtschutz wählen Sie Blackout (blickdicht, 0 % Öffnung) — völlige Dunkelheit, keine Durchsicht in beide Richtungen und 100 % UV-Filterung, ideal für Schlafzimmer. Wenn Sie zugleich die Aussicht behalten möchten, bietet halbblickdicht (1–3 %) einen Kompromiss mit verringerter Durchsicht und 97–99 % gefilterter UV-Strahlung.
 
+### Kostet ein Blackout-Zipscreen mehr als ein transparenter?
+
+Etwas. Als Richtwert, montiert: transparentes Gewebe (5 %) kostet 160–220 EUR/m², halbopak mit 3 % 170–240 EUR/m², mit 1 % 180–260 EUR/m² und Blackout (0 %) 190–280 EUR/m². Der Unterschied ist gering, deshalb wählt man das Gewebe nach Ausrichtung und gewünschter Privatsphäre, nicht nach dem Preis.
+
 ---
 
 Neofort BIZ montiert ZipScreen-Systeme mit blickdichten und transparenten Screen-Geweben in Bukarest und Ilfov, passend zu jeder Öffnung. Entdecken Sie [die Beschattungslösungen](/de/beschattungssysteme), die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Vergleichen Sie alle Optionen in [dem vollständigen Ratgeber zu außenliegender Beschattung](/de/blog/zipscreen-terrassenbeschattung-komplettleitfaden). Nützliche Seiten: [Zipscreen-Außenrollos](/de/beschattungssysteme/zipscreen-aussenrollo) und [Ratgeber Beschattungssysteme](/de/beschattungssysteme/kompletter-ratgeber).`,
@@ -27653,6 +27953,10 @@ Non. Avec des toiles screen de 5 à 10 % d’ouverture, on ne voit pas à l’in
 ### Quelle toile Zipscreen choisir pour une intimité maximale ?
 
 Pour une intimité maximale, choisissez l’occultant (0 % d’ouverture) — obscurité totale, aucune visibilité dans les deux sens et 100 % de filtration UV, idéal pour les chambres. Si vous voulez aussi conserver la vue, le semi-occultant (1–3 %) offre un compromis avec une visibilité réduite et 97 à 99 % d’UV filtrés.
+
+### Un Zipscreen occultant coûte-t-il plus cher qu'un transparent ?
+
+Un peu. À titre indicatif, posé : la toile transparente (5 %) coûte 160–220 EUR/m², la semi-opaque à 3 % 170–240 EUR/m², celle à 1 % 180–260 EUR/m² et l'occultante (0 %) 190–280 EUR/m². L'écart est faible : la toile se choisit selon l'orientation et l'intimité recherchée, pas selon le prix.
 
 ---
 
@@ -27812,6 +28116,10 @@ No. Con tejidos screen de 5–10 % de apertura, desde fuera y de día no se ve e
 
 Para máxima intimidad elija el opaco (0 % de apertura) — oscuridad total, ninguna visibilidad en ambos sentidos y 100 % de filtrado UV, ideal para dormitorios. Si además quiere conservar las vistas, el semiopaco (1–3 %) ofrece un compromiso con visibilidad reducida y un 97–99 % de UV filtrados.
 
+### ¿Cuesta más un Zipscreen blackout que uno transparente?
+
+Un poco. De forma orientativa, instalado: el tejido transparente (5 %) cuesta 160–220 EUR/m², el semiopaco del 3 % 170–240 EUR/m², el del 1 % 180–260 EUR/m² y el blackout (0 %) 190–280 EUR/m². La diferencia es pequeña, así que el tejido se elige por la orientación y por la intimidad que se busca, no por el precio.
+
 ---
 
 Neofort BIZ instala sistemas ZipScreen con tejidos opacos y screen transparentes en Bucarest e Ilfov, dimensionados para cada hueco. Descubra [las soluciones de sombreado](/es/sistemas-sombreado) que ofrecemos o [solicite un presupuesto](/es/contacto). Compare todas las opciones en [la guía completa de sistemas de sombreado exterior](/es/blog/zipscreen-sombreado-terraza-guia-completa). Páginas útiles: [los toldos Zipscreen](/es/sistemas-sombreado/zipscreen-toldo-exterior) y [la guía completa de sombreado](/es/sistemas-sombreado/guia-completa).`,
@@ -27969,6 +28277,10 @@ No. Con tessuti screen dal 5 al 10 % di apertura, di giorno dall’esterno non s
 ### Quale tessuto Zipscreen scelgo per la massima privacy?
 
 Per la massima privacy scegliete l’oscurante (0 % di apertura) — buio totale, nessuna visibilità in entrambe le direzioni e 100 % di filtrazione UV, ideale per le camere. Se volete anche mantenere la vista, il semioscurante (1–3 %) offre un compromesso con visibilità ridotta e il 97–99 % di UV filtrati.
+
+### Uno Zipscreen oscurante costa più di uno trasparente?
+
+Di poco. Indicativamente, installato: il tessuto trasparente (5%) costa 160–220 EUR/m², il semi-opaco al 3% 170–240 EUR/m², quello all'1% 180–260 EUR/m² e l'oscurante (0%) 190–280 EUR/m². La differenza è piccola, quindi il tessuto si sceglie in base all'orientamento e alla privacy desiderata, non al prezzo.
 
 ---
 
@@ -29840,7 +30152,7 @@ Cea mai simplă și robustă soluție. Foaia de ușă se deschide pe balamalele 
 
 **Sistem Alumil recomandat:** Alumil Supreme S77 / Smartia S67
 - Barieră termică poliamidă
-- Uw = 1,1–1,4 W/m²K cu geam termoizolant
+- Uf de la 0,85 W/m²K (S77) sau de la 1,1 W/m²K (S67), după Alumil
 - Disponibil: 1 canat, 2 canate, cu luminatoare
 - Antiefracție RC2 disponibil
 - Dimensiuni maxime: până la 120 cm lățime / 250 cm înălțime per canat
@@ -29850,18 +30162,18 @@ Cea mai simplă și robustă soluție. Foaia de ușă se deschide pe balamalele 
 ### Uși glisante din aluminiu
 Foaia culisează pe șine orizontale. Salvează spațiu, potrivite pentru treceri interioare sau balcoane.
 
-**Sistem Alumil:** Smartia S350 / S700
+**Sistem Alumil:** Smartia S350 (glisant) / Supreme S700 (liftant-glisant)
 - Disponibil: 2, 3, 4 canaturi
 - Dimensiuni mari până la 3m înălțime
-- Uw = 1,2–1,6 W/m²K
+- Uf de la 2,9 W/m²K la S350; Uw 1,1 W/m²K la S700
 
 ### Uși liftant-glisante (Lift & Slide)
 Sistemul premium pentru deschideri mari spre terasă sau grădină. Canalul ridică foaia câțiva mm înainte să o culiseze — etanșeitate perfectă.
 
 **Sistem Alumil:** Supreme S700 Lift & Slide
-- Capacitate per canat: până la **300 kg**
+- Capacitate per canat: până la **600 kg**
 - Deschideri posibile: 3–6m lățime
-- Uw = 1,0–1,3 W/m²K cu geam triplu
+- Uw = 1,1 W/m²K, geam de 22–50 mm
 - Mâner ergonomic cu blocare multiplă
 
 **Cel mai căutat** în vile din Floreasca, Herăstrău, Aviatorilor — pentru conexiunea living-terasă
@@ -29943,11 +30255,11 @@ Aluminiul se vopsește în orice culoare RAL prin **vopsire electostatică** (du
 
 ### Ce tipuri de uși din aluminiu pot comanda în Sector 1 București?
 
-Poți comanda uși batante cu barieră termică (Alumil Supreme S77/Smartia S67, Uw 1,1-1,4), uși glisante, uși de intrare cu panou plin și sisteme antiefracție certificate. Sectorul 1 cere uși cu estetică minimalistă, dimensiuni supraînălțate și barieră termică pentru vilele și birourile premium.
+Poți comanda uși batante cu barieră termică (Alumil Supreme S77/Smartia S67, Uf de la 0,85, respectiv 1,1 W/m²K), uși glisante, uși de intrare cu panou plin și sisteme antiefracție certificate. Sectorul 1 cere uși cu estetică minimalistă, dimensiuni supraînălțate și barieră termică pentru vilele și birourile premium.
 
 ### Ce sistem Alumil e recomandat pentru ușa de intrare a unei vile?
 
-Alumil Supreme S77 sau Smartia S67, cu barieră termică din poliamidă, Uw = 1,1-1,4 W/m²K cu geam termoizolant, disponibil cu 1 sau 2 canate și luminatoare, antiefracție RC2 și dimensiuni până la 120 cm lățime / 250 cm înălțime per canat — potrivit pentru intrare vilă, bloc, birou sau spațiu comercial.
+Alumil Supreme S77 sau Smartia S67, cu barieră termică din poliamidă, Uf de la 0,85 W/m²K (S77) sau 1,1 W/m²K (S67), disponibil cu 1 sau 2 canate și luminatoare, antiefracție RC2 și dimensiuni până la 120 cm lățime / 250 cm înălțime per canat — potrivit pentru intrare vilă, bloc, birou sau spațiu comercial.
 
 ### Unde furnizează Neofort BIZ uși din aluminiu în Sector 1?
 
@@ -29956,6 +30268,10 @@ Neofort BIZ furnizează și montează uși din aluminiu Alumil pe întreg Sector
 ### Ce dimensiuni maxime poate avea o ușă batantă din aluminiu?
 
 O ușă batantă din aluminiu cu barieră termică poate ajunge la dimensiuni de până la 120 cm lățime și 250 cm înălțime per canat. Pentru deschideri mai mari se folosesc configurații cu 2 canate sau cu luminatoare laterale și superioare, integrate în același sistem.
+
+### Cât costă o ușă din aluminiu montată în Sector 1?
+
+Orientativ, cu profil, geam termoizolant, feronerie și montaj: o ușă batantă cu un canat de 90 × 210 cm costă 800–1.400 EUR, una dublă de 120 × 240 cm 1.800–3.200 EUR, o ușă glisantă cu 2 canate de 180 × 240 cm 1.200–2.000 EUR, iar un liftant-glisant Alumil S700 de 300 × 240 cm 3.500–6.000 EUR. Culorile RAL speciale pot adăuga 5–15%.
 
 ---
 
@@ -29971,11 +30287,11 @@ Neofort BIZ supplies Alumil [aluminium doors](/en/aluminium-windows) and [instal
 
 ## Available door types
 
-**Swing doors (thermally broken):** Alumil Supreme S77 / Smartia S67. Uw = 1.1–1.4 W/m²K. RC2 anti-burglary available.
+**Swing doors (thermally broken):** Alumil Supreme S77 / Smartia S67. Uf from 0.85 W/m²K (S77) or 1.1 W/m²K (S67). RC2 anti-burglary available.
 
-**Sliding doors:** Alumil Smartia S350 / S700. 2–4 panels, up to 3m height.
+**Sliding doors:** Alumil Smartia S350 / Supreme S700. 2–4 panels, up to 3m height.
 
-**Lift-and-slide doors:** Alumil Supreme S700. Capacity per panel: up to **300 kg**. Openings 3–6m wide. Most popular for villa terrace connections in Floreasca, Herăstrău, Aviatorilor.
+**Lift-and-slide doors:** Alumil Supreme S700. Capacity per panel: up to **600 kg**. Openings 3–6m wide. Most popular for villa terrace connections in Floreasca, Herăstrău, Aviatorilor.
 
 **Pivot doors:** architectural statement piece, up to 3.5m height, 1.5m width. Custom-made exclusively.
 
@@ -30007,11 +30323,11 @@ For villas and residences, we recommend **RC2 certification** (Resistance Class 
 
 ### What types of aluminium doors can I order in Sector 1 Bucharest?
 
-You can order hinged doors with a thermal break (Alumil Supreme S77/Smartia S67, Uw 1.1-1.4), sliding doors, entrance doors with a solid panel and certified anti-burglary systems. Sector 1 demands doors with minimalist aesthetics, oversized dimensions and a thermal break for premium villas and offices.
+You can order hinged doors with a thermal break (Alumil Supreme S77/Smartia S67, Uf from 0.85 and 1.1 W/m²K respectively), sliding doors, entrance doors with a solid panel and certified anti-burglary systems. Sector 1 demands doors with minimalist aesthetics, oversized dimensions and a thermal break for premium villas and offices.
 
 ### Which Alumil system is recommended for a villa entrance door?
 
-Alumil Supreme S77 or Smartia S67, with a polyamide thermal break, Uw = 1.1-1.4 W/m²K with insulated glass, available with 1 or 2 leaves and fanlights, RC2 anti-burglary and dimensions up to 120 cm wide / 250 cm high per leaf — suitable for a villa, block, office or commercial entrance.
+Alumil Supreme S77 or Smartia S67, with a polyamide thermal break, Uf from 0.85 W/m²K (S77) or 1.1 W/m²K (S67), available with 1 or 2 leaves and fanlights, RC2 anti-burglary and dimensions up to 120 cm wide / 250 cm high per leaf — suitable for a villa, block, office or commercial entrance.
 
 ### Where does Neofort BIZ supply aluminium doors in Sector 1?
 
@@ -30020,6 +30336,10 @@ Neofort BIZ supplies and installs Alumil aluminium doors across all of Sector 1,
 ### What maximum dimensions can an aluminium hinged door have?
 
 A hinged aluminium door with a thermal break can reach dimensions up to 120 cm wide and 250 cm high per leaf. For larger openings, configurations with 2 leaves or with side and top fanlights are used, integrated into the same system.
+
+### How much does an installed aluminium door cost in Sector 1?
+
+As a guide, with profile, insulating glass, hardware and installation: a single-leaf hinged door of 90 × 210 cm costs 800–1,400 EUR, a double door of 120 × 240 cm 1,800–3,200 EUR, a two-panel sliding door of 180 × 240 cm 1,200–2,000 EUR, and an Alumil S700 lift-and-slide of 300 × 240 cm 3,500–6,000 EUR. Special RAL colours can add 5–15%.
 
 
 ---
@@ -30035,11 +30355,11 @@ Sektor 1 konzentriert die meisten Premium-Villen, Luxusresidenzen und Bürogebä
 
 ## Verfügbare Türtypen
 
-**Drehtüren (Wärmegedämmt):** Alumil Supreme S77 / Smartia S67. Uw = 1,1–1,4 W/m²K. RC2-Einbruchschutz verfügbar.
+**Drehtüren (Wärmegedämmt):** Alumil Supreme S77 / Smartia S67. Uf ab 0,85 W/m²K (S77) bzw. 1,1 W/m²K (S67). RC2-Einbruchschutz verfügbar.
 
-**Schiebetüren:** Alumil Smartia S350 / S700. 2–4 Flügel, bis 3m Höhe.
+**Schiebetüren:** Alumil Smartia S350 / Supreme S700. 2–4 Flügel, bis 3m Höhe.
 
-**Hebe-Schiebetüren:** Alumil Supreme S700. Kapazität: bis **300 kg** pro Flügel. Öffnungen 3–6m breit. Besonders gefragt für Villenterrassen in Floreasca und Herăstrău.
+**Hebe-Schiebetüren:** Alumil Supreme S700. Kapazität: bis **600 kg** pro Flügel. Öffnungen 3–6m breit. Besonders gefragt für Villenterrassen in Floreasca und Herăstrău.
 
 **Pivottüren:** architektonisches Highlight, bis 3,5m Höhe. Ausschließlich auf Bestellung.
 
@@ -30065,11 +30385,11 @@ Sektor 1 konzentriert die meisten Premium-Villen, Luxusresidenzen und Bürogebä
 
 ### Welche Arten von Aluminiumtüren kann ich in Sektor 1 Bukarest bestellen?
 
-Sie können Drehtüren mit thermischer Trennung (Alumil Supreme S77/Smartia S67, Uw 1,1-1,4), Schiebetüren, Eingangstüren mit Vollpaneel und zertifizierte Einbruchschutzsysteme bestellen. Sektor 1 verlangt Türen mit minimalistischer Ästhetik, übergroßen Maßen und thermischer Trennung für Premium-Villen und -Büros.
+Sie können Drehtüren mit thermischer Trennung (Alumil Supreme S77/Smartia S67, Uf ab 0,85 bzw. 1,1 W/m²K), Schiebetüren, Eingangstüren mit Vollpaneel und zertifizierte Einbruchschutzsysteme bestellen. Sektor 1 verlangt Türen mit minimalistischer Ästhetik, übergroßen Maßen und thermischer Trennung für Premium-Villen und -Büros.
 
 ### Welches Alumil-System wird für eine Villen-Eingangstür empfohlen?
 
-Alumil Supreme S77 oder Smartia S67, mit Polyamid-Trennung, Uw = 1,1-1,4 W/m²K mit Isolierglas, verfügbar mit 1 oder 2 Flügeln und Oberlichtern, RC2-Einbruchschutz und Maßen bis 120 cm Breite / 250 cm Höhe pro Flügel — geeignet für Villen-, Block-, Büro- oder Geschäftseingang.
+Alumil Supreme S77 oder Smartia S67, mit Polyamid-Trennung, Uf ab 0,85 W/m²K (S77) bzw. 1,1 W/m²K (S67), verfügbar mit 1 oder 2 Flügeln und Oberlichtern, RC2-Einbruchschutz und Maßen bis 120 cm Breite / 250 cm Höhe pro Flügel — geeignet für Villen-, Block-, Büro- oder Geschäftseingang.
 
 ### Wo liefert Neofort BIZ Aluminiumtüren in Sektor 1?
 
@@ -30078,6 +30398,10 @@ Neofort BIZ liefert und montiert Alumil-Aluminiumtüren in ganz Sektor 1, mit Si
 ### Welche Maximalmaße kann eine Aluminium-Drehtür haben?
 
 Eine Aluminium-Drehtür mit thermischer Trennung kann Maße bis 120 cm Breite und 250 cm Höhe pro Flügel erreichen. Für größere Öffnungen werden Konfigurationen mit 2 Flügeln oder mit Seiten- und Oberlichtern verwendet, in dasselbe System integriert.
+
+### Was kostet eine montierte Aluminiumtür in Sektor 1?
+
+Als Richtwert, mit Profil, Isolierglas, Beschlägen und Montage: Eine einflügelige Drehtür in 90 × 210 cm kostet 800–1.400 EUR, eine zweiflügelige in 120 × 240 cm 1.800–3.200 EUR, eine zweiteilige Schiebetür in 180 × 240 cm 1.200–2.000 EUR und eine Alumil-S700-Hebeschiebetür in 300 × 240 cm 3.500–6.000 EUR. Sonder-RAL-Farben können 5–15 % hinzufügen.
 
 
 ---
@@ -30093,11 +30417,11 @@ Le Secteur 1 concentre le plus grand nombre de villas premium, de résidences de
 
 ## Types de portes disponibles
 
-**Portes battantes (rupture de pont thermique) :** Alumil Supreme S77 / Smartia S67. Uw = 1,1–1,4 W/m²K. Anti-effraction RC2 disponible.
+**Portes battantes (rupture de pont thermique) :** Alumil Supreme S77 / Smartia S67. Uf dès 0,85 W/m²K (S77) ou 1,1 W/m²K (S67). Anti-effraction RC2 disponible.
 
-**Portes coulissantes :** Alumil Smartia S350 / S700. 2–4 vantaux, jusqu'à 3m de hauteur.
+**Portes coulissantes :** Alumil Smartia S350 / Supreme S700. 2–4 vantaux, jusqu'à 3m de hauteur.
 
-**Portes levantes-coulissantes :** Alumil Supreme S700. Capacité : jusqu'à **300 kg** par vantail. Ouvertures 3–6m de large. Les plus demandées pour les connexions salon-terrasse dans les villas de Floreasca.
+**Portes levantes-coulissantes :** Alumil Supreme S700. Capacité : jusqu'à **600 kg** par vantail. Ouvertures 3–6m de large. Les plus demandées pour les connexions salon-terrasse dans les villas de Floreasca.
 
 **Portes pivotantes :** pièce architecturale maîtresse, jusqu'à 3,5m de hauteur. Sur commande exclusivement.
 
@@ -30123,11 +30447,11 @@ Le Secteur 1 concentre le plus grand nombre de villas premium, de résidences de
 
 ### Quels types de portes en aluminium puis-je commander dans le Secteur 1 de Bucarest ?
 
-Vous pouvez commander des portes battantes à rupture de pont thermique (Alumil Supreme S77/Smartia S67, Uw 1,1-1,4), des portes coulissantes, des portes d'entrée à panneau plein et des systèmes anti-effraction certifiés. Le Secteur 1 exige des portes à esthétique minimaliste, dimensions surdimensionnées et rupture thermique pour les villas et bureaux premium.
+Vous pouvez commander des portes battantes à rupture de pont thermique (Alumil Supreme S77/Smartia S67, Uf dès 0,85 et 1,1 W/m²K), des portes coulissantes, des portes d'entrée à panneau plein et des systèmes anti-effraction certifiés. Le Secteur 1 exige des portes à esthétique minimaliste, dimensions surdimensionnées et rupture thermique pour les villas et bureaux premium.
 
 ### Quel système Alumil est recommandé pour une porte d'entrée de villa ?
 
-Alumil Supreme S77 ou Smartia S67, à rupture de pont thermique en polyamide, Uw = 1,1-1,4 W/m²K avec vitrage isolant, disponible à 1 ou 2 vantaux et impostes, anti-effraction RC2 et dimensions jusqu'à 120 cm de large / 250 cm de haut par vantail — adapté à une entrée de villa, immeuble, bureau ou local commercial.
+Alumil Supreme S77 ou Smartia S67, à rupture de pont thermique en polyamide, Uf dès 0,85 W/m²K (S77) ou 1,1 W/m²K (S67), disponible à 1 ou 2 vantaux et impostes, anti-effraction RC2 et dimensions jusqu'à 120 cm de large / 250 cm de haut par vantail — adapté à une entrée de villa, immeuble, bureau ou local commercial.
 
 ### Où Neofort BIZ fournit-il des portes en aluminium dans le Secteur 1 ?
 
@@ -30136,6 +30460,10 @@ Neofort BIZ fournit et pose des portes en aluminium Alumil dans tout le Secteur 
 ### Quelles dimensions maximales peut avoir une porte battante en aluminium ?
 
 Une porte battante en aluminium à rupture thermique peut atteindre des dimensions jusqu'à 120 cm de large et 250 cm de haut par vantail. Pour les ouvertures plus grandes, on utilise des configurations à 2 vantaux ou avec imposte latérale et supérieure, intégrées au même système.
+
+### Combien coûte une porte aluminium posée dans le Secteur 1 ?
+
+À titre indicatif, profilé, vitrage isolant, quincaillerie et pose compris : une porte battante à un vantail de 90 × 210 cm coûte 800–1 400 EUR, une porte double de 120 × 240 cm 1 800–3 200 EUR, une porte coulissante à 2 vantaux de 180 × 240 cm 1 200–2 000 EUR, et une baie levante-coulissante Alumil S700 de 300 × 240 cm 3 500–6 000 EUR. Les teintes RAL spéciales peuvent ajouter 5 à 15 %.
 
 
 ---
@@ -30151,11 +30479,11 @@ El Sector 1 concentra el mayor número de villas premium, residencias de lujo y 
 
 ## Tipos de puertas disponibles
 
-**Puertas batientes (rotura de puente térmico):** Alumil Supreme S77 / Smartia S67. Uw = 1,1–1,4 W/m²K. Antiefracción RC2 disponible.
+**Puertas batientes (rotura de puente térmico):** Alumil Supreme S77 / Smartia S67. Uf desde 0,85 W/m²K (S77) o 1,1 W/m²K (S67). Antiefracción RC2 disponible.
 
-**Puertas correderas:** Alumil Smartia S350 / S700. 2–4 hojas, hasta 3m de altura.
+**Puertas correderas:** Alumil Smartia S350 / Supreme S700. 2–4 hojas, hasta 3m de altura.
 
-**Puertas elevadoras correderas:** Alumil Supreme S700. Capacidad: hasta **300 kg** por hoja. Aperturas 3–6m de ancho. Las más solicitadas para conexiones salón-terraza en villas de Floreasca.
+**Puertas elevadoras correderas:** Alumil Supreme S700. Capacidad: hasta **600 kg** por hoja. Aperturas 3–6m de ancho. Las más solicitadas para conexiones salón-terraza en villas de Floreasca.
 
 **Puertas pivotantes:** pieza arquitectónica, hasta 3,5m de altura. Solo a medida.
 
@@ -30181,11 +30509,11 @@ El Sector 1 concentra el mayor número de villas premium, residencias de lujo y 
 
 ### ¿Qué tipos de puertas de aluminio puedo encargar en el Sector 1 de Bucarest?
 
-Puedes encargar puertas abatibles con rotura de puente térmico (Alumil Supreme S77/Smartia S67, Uw 1,1-1,4), puertas correderas, puertas de entrada con panel macizo y sistemas antirrobo certificados. El Sector 1 exige puertas con estética minimalista, dimensiones sobredimensionadas y rotura térmica para villas y oficinas premium.
+Puedes encargar puertas abatibles con rotura de puente térmico (Alumil Supreme S77/Smartia S67, Uf desde 0,85 y 1,1 W/m²K), puertas correderas, puertas de entrada con panel macizo y sistemas antirrobo certificados. El Sector 1 exige puertas con estética minimalista, dimensiones sobredimensionadas y rotura térmica para villas y oficinas premium.
 
 ### ¿Qué sistema Alumil se recomienda para la puerta de entrada de una villa?
 
-Alumil Supreme S77 o Smartia S67, con rotura de puente térmico de poliamida, Uw = 1,1-1,4 W/m²K con vidrio aislante, disponible con 1 o 2 hojas y montantes, antirrobo RC2 y dimensiones hasta 120 cm de ancho / 250 cm de alto por hoja — adecuado para entrada de villa, bloque, oficina o local comercial.
+Alumil Supreme S77 o Smartia S67, con rotura de puente térmico de poliamida, Uf desde 0,85 W/m²K (S77) o 1,1 W/m²K (S67), disponible con 1 o 2 hojas y montantes, antirrobo RC2 y dimensiones hasta 120 cm de ancho / 250 cm de alto por hoja — adecuado para entrada de villa, bloque, oficina o local comercial.
 
 ### ¿Dónde suministra Neofort BIZ puertas de aluminio en el Sector 1?
 
@@ -30194,6 +30522,10 @@ Neofort BIZ suministra e instala puertas de aluminio Alumil en todo el Sector 1,
 ### ¿Qué dimensiones máximas puede tener una puerta abatible de aluminio?
 
 Una puerta abatible de aluminio con rotura térmica puede alcanzar dimensiones de hasta 120 cm de ancho y 250 cm de alto por hoja. Para aberturas mayores se usan configuraciones de 2 hojas o con montantes laterales y superiores, integrados en el mismo sistema.
+
+### ¿Cuánto cuesta una puerta de aluminio instalada en el Sector 1?
+
+De forma orientativa, con perfil, vidrio aislante, herrajes e instalación: una puerta batiente de una hoja de 90 × 210 cm cuesta 800–1.400 EUR, una doble de 120 × 240 cm 1.800–3.200 EUR, una corredera de 2 hojas de 180 × 240 cm 1.200–2.000 EUR, y una elevable-corredera Alumil S700 de 300 × 240 cm 3.500–6.000 EUR. Los colores RAL especiales pueden sumar un 5–15 %.
 
 
 ---
@@ -30209,11 +30541,11 @@ Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e 
 
 ## Tipi di porte disponibili
 
-**Porte battenti (taglio termico):** Alumil Supreme S77 / Smartia S67. Uw = 1,1–1,4 W/m²K. Antieffrazione RC2 disponibile.
+**Porte battenti (taglio termico):** Alumil Supreme S77 / Smartia S67. Uf da 0,85 W/m²K (S77) o 1,1 W/m²K (S67). Antieffrazione RC2 disponibile.
 
-**Porte scorrevoli:** Alumil Smartia S350 / S700. 2–4 ante, fino a 3m di altezza.
+**Porte scorrevoli:** Alumil Smartia S350 / Supreme S700. 2–4 ante, fino a 3m di altezza.
 
-**Porte alzanti scorrevoli:** Alumil Supreme S700. Capacità: fino a **300 kg** per anta. Aperture 3–6m di larghezza. Le più richieste per i collegamenti soggiorno-terrazza nelle ville di Floreasca.
+**Porte alzanti scorrevoli:** Alumil Supreme S700. Capacità: fino a **600 kg** per anta. Aperture 3–6m di larghezza. Le più richieste per i collegamenti soggiorno-terrazza nelle ville di Floreasca.
 
 **Porte pivot:** elemento architettonico, fino a 3,5m di altezza. Solo su misura.
 
@@ -30239,11 +30571,11 @@ Il Settore 1 concentra il maggior numero di ville premium, residenze di lusso e 
 
 ### Che tipi di porte in alluminio posso ordinare nel Settore 1 di Bucarest?
 
-Puoi ordinare porte a battente con taglio termico (Alumil Supreme S77/Smartia S67, Uw 1,1-1,4), porte scorrevoli, porte d'ingresso con pannello pieno e sistemi antieffrazione certificati. Il Settore 1 richiede porte con estetica minimalista, dimensioni maggiorate e taglio termico per ville e uffici premium.
+Puoi ordinare porte a battente con taglio termico (Alumil Supreme S77/Smartia S67, Uf da 0,85 e 1,1 W/m²K), porte scorrevoli, porte d'ingresso con pannello pieno e sistemi antieffrazione certificati. Il Settore 1 richiede porte con estetica minimalista, dimensioni maggiorate e taglio termico per ville e uffici premium.
 
 ### Quale sistema Alumil è consigliato per la porta d'ingresso di una villa?
 
-Alumil Supreme S77 o Smartia S67, con taglio termico in poliammide, Uw = 1,1-1,4 W/m²K con vetro isolante, disponibile con 1 o 2 ante e sopraluce, antieffrazione RC2 e dimensioni fino a 120 cm di larghezza / 250 cm di altezza per anta — adatto a ingresso villa, edificio, ufficio o locale commerciale.
+Alumil Supreme S77 o Smartia S67, con taglio termico in poliammide, Uf da 0,85 W/m²K (S77) o 1,1 W/m²K (S67), disponibile con 1 o 2 ante e sopraluce, antieffrazione RC2 e dimensioni fino a 120 cm di larghezza / 250 cm di altezza per anta — adatto a ingresso villa, edificio, ufficio o locale commerciale.
 
 ### Dove fornisce Neofort BIZ porte in alluminio nel Settore 1?
 
@@ -30252,6 +30584,10 @@ Neofort BIZ fornisce e monta porte in alluminio Alumil in tutto il Settore 1, co
 ### Quali dimensioni massime può avere una porta a battente in alluminio?
 
 Una porta a battente in alluminio con taglio termico può raggiungere dimensioni fino a 120 cm di larghezza e 250 cm di altezza per anta. Per aperture più grandi si usano configurazioni a 2 ante o con sopraluce laterali e superiori, integrati nello stesso sistema.
+
+### Quanto costa una porta in alluminio posata nel Settore 1?
+
+Indicativamente, con profilo, vetro isolante, ferramenta e posa: una porta a battente a un'anta da 90 × 210 cm costa 800–1.400 EUR, una doppia da 120 × 240 cm 1.800–3.200 EUR, una scorrevole a 2 ante da 180 × 240 cm 1.200–2.000 EUR, e un alzante scorrevole Alumil S700 da 300 × 240 cm 3.500–6.000 EUR. I colori RAL speciali possono aggiungere il 5–15%.
 
 
 ---
@@ -33567,8 +33903,8 @@ Neofort BIZ furnizează uși antiefracție **la comandă**, personalizate pentru
 1. **Consultație și proiect** — consultație, ofertă în 48 de ore, măsurători la fața locului după semnarea contractului
 2. **Fabricare** — 15–25 zile lucrătoare
 3. **Montaj profesional** — echipă specializată, 4–8 ore per ușă
-4. **Certificat de garanție** — completă pe produs și manoperă
-5. **Service** — intervenții rapide pentru reglaje sau piese în garanție
+4. **Certificat de garanție scris** — 10+ ani pe profilul de aluminiu Alumil și 2 ani pe montaj
+5. **Service** — reglaje și piese în garanție
 
 Vedeți și [tâmplăria noastră din aluminiu](/ro/tamplarie-aluminiu) sau [contactați-ne](/ro/contact) pentru o consultație la sediu.
 
@@ -33591,6 +33927,10 @@ Pentru case și vile din București și Ilfov se recomandă minimum clasa RC 3, 
 ### Cum elimină accesul biometric vulnerabilitatea cilindrilor clasici?
 
 Ușile antiefracție moderne combină protecția mecanică (construcție RC 2-RC 4) cu acces biometric — amprentă digitală, cod PIN sau card. Accesul biometric elimină cilindrul clasic, care e cel mai vulnerabil punct la forțare prin metode precum bumping sau picking.
+
+### Cât durează fabricarea și montajul unei uși antiefracție?
+
+Oferta o primești în 48 de ore, iar măsurătorile se fac după semnarea contractului. Fabricarea durează 15–25 de zile lucrătoare, iar montajul 4–8 ore pe ușă, cu o echipă specializată. Ușa vine cu certificat de garanție scris.
 
 ---
 
@@ -33712,8 +34052,8 @@ Neofort BIZ supplies security doors **to order**, customised for each project:
 1. **Consultation and design** — consultation, quote within 48 hours, on-site measurements once the contract is signed
 2. **Manufacture** — 15–25 working days
 3. **Professional installation** — specialist team, 4–8 hours per door
-4. **Warranty certificate** — full cover on product and workmanship
-5. **Service** — rapid response for adjustments or parts under warranty
+4. **Written warranty certificate** — 10+ years on the Alumil aluminium profile and 2 years on installation
+5. **Service** — adjustments and parts under warranty
 
 See also [our aluminium joinery](/en/aluminium-windows) or [contact us](/en/contact) for a consultation at our offices.
 
@@ -33736,6 +34076,10 @@ For houses and villas in Bucharest and Ilfov, class RC 3 is the recommended mini
 ### How does biometric access remove the weakness of classic cylinders?
 
 Modern security doors combine mechanical protection (RC 2–RC 4 construction) with biometric access — fingerprint, PIN code or card. Biometric access removes the classic cylinder, which is the point most vulnerable to forcing through methods such as bumping or picking.
+
+### How long do manufacturing and installing an anti-burglary entrance door take?
+
+You get the quote within 48 hours, and measurements are taken after the contract is signed. Manufacturing takes 15–25 working days and installation 4–8 hours per door, by a specialised crew. The door comes with a written warranty certificate.
 
 ---
 
@@ -33857,8 +34201,8 @@ Neofort BIZ liefert einbruchhemmende Türen **auf Maß**, individuell für jedes
 1. **Beratung und Planung** — Beratung, Angebot innerhalb von 48 Stunden, Aufmaß vor Ort nach Vertragsabschluss
 2. **Fertigung** — 15–25 Werktage
 3. **Fachgerechte Montage** — Spezialteam, 4–8 Stunden je Tür
-4. **Garantieurkunde** — vollständige Deckung für Produkt und Ausführung
-5. **Service** — schnelle Einsätze für Einstellungen oder Garantieteile
+4. **Schriftliche Garantieurkunde** — 10+ Jahre auf das Alumil-Aluminiumprofil und 2 Jahre auf die Montage
+5. **Service** — Einstellungen und Ersatzteile in der Garantie
 
 Sehen Sie auch [unsere Aluminiumfenster](/de/aluminiumfenster) oder [nehmen Sie Kontakt auf](/de/kontakt) für eine Beratung in unserem Büro.
 
@@ -33881,6 +34225,10 @@ Für Häuser und Villen in Bukarest und Ilfov gilt Klasse RC 3 als empfohlenes M
 ### Wie beseitigt biometrischer Zutritt die Schwäche klassischer Zylinder?
 
 Moderne einbruchhemmende Türen verbinden mechanischen Schutz (Konstruktion RC 2–RC 4) mit biometrischem Zutritt — Fingerabdruck, PIN-Code oder Karte. Der biometrische Zutritt macht den klassischen Zylinder überflüssig, der die anfälligste Stelle für Methoden wie Bumping oder Picking ist.
+
+### Wie lange dauern Fertigung und Montage einer einbruchhemmenden Eingangstür?
+
+Das Angebot erhalten Sie innerhalb von 48 Stunden, das Aufmaß erfolgt nach Vertragsunterzeichnung. Die Fertigung dauert 15–25 Werktage, die Montage 4–8 Stunden pro Tür, durch ein spezialisiertes Team. Die Tür wird mit einem schriftlichen Garantiezertifikat geliefert.
 
 ---
 
@@ -34002,8 +34350,8 @@ Neofort BIZ fournit des portes anti-effraction **sur mesure**, personnalisées p
 1. **Consultation et projet** — consultation, devis sous 48 heures, relevé sur site après la signature du contrat
 2. **Fabrication** — 15 à 25 jours ouvrés
 3. **Pose professionnelle** — équipe spécialisée, 4 à 8 heures par porte
-4. **Certificat de garantie** — couverture complète produit et main-d’œuvre
-5. **Service après-vente** — interventions rapides pour réglages ou pièces sous garantie
+4. **Certificat de garantie écrit** — 10 ans et plus sur le profilé aluminium Alumil et 2 ans sur la pose
+5. **Service après-vente** — réglages et pièces sous garantie
 
 Voir aussi [nos menuiseries en aluminium](/fr/menuiserie-aluminium) ou [contactez-nous](/fr/contact) pour une consultation dans nos bureaux.
 
@@ -34026,6 +34374,10 @@ Pour les maisons et villas de Bucarest et de l’Ilfov, la classe RC 3 constitue
 ### Comment l’accès biométrique supprime-t-il la faiblesse des cylindres classiques ?
 
 Les portes anti-effraction modernes associent la protection mécanique (construction RC 2–RC 4) à l’accès biométrique — empreinte digitale, code PIN ou carte. L’accès biométrique supprime le cylindre classique, qui est le point le plus vulnérable à des méthodes comme le bumping ou le crochetage.
+
+### Combien de temps prennent la fabrication et la pose d'une porte anti-effraction ?
+
+Vous recevez le devis sous 48 heures, et les mesures sont prises après la signature du contrat. La fabrication prend 15 à 25 jours ouvrés et la pose 4 à 8 heures par porte, par une équipe spécialisée. La porte est livrée avec un certificat de garantie écrit.
 
 ---
 
@@ -34147,8 +34499,8 @@ Neofort BIZ suministra puertas antirrobo **a medida**, personalizadas para cada 
 1. **Consulta y proyecto** — consulta, presupuesto en 48 horas, mediciones en obra tras la firma del contrato
 2. **Fabricación** — 15–25 días laborables
 3. **Instalación profesional** — equipo especializado, 4–8 horas por puerta
-4. **Certificado de garantía** — cobertura completa de producto y mano de obra
-5. **Servicio técnico** — intervenciones rápidas para ajustes o piezas en garantía
+4. **Certificado de garantía por escrito** — más de 10 años en el perfil de aluminio Alumil y 2 años en la instalación
+5. **Servicio técnico** — ajustes y piezas en garantía
 
 Vea también [nuestra carpintería de aluminio](/es/carpinteria-aluminio) o [contáctenos](/es/contacto) para una consulta en nuestras oficinas.
 
@@ -34171,6 +34523,10 @@ Para casas y chalets en Bucarest e Ilfov se recomienda como mínimo la clase RC 
 ### ¿Cómo elimina el acceso biométrico la vulnerabilidad de los bombines clásicos?
 
 Las puertas antirrobo modernas combinan la protección mecánica (construcción RC 2–RC 4) con el acceso biométrico — huella dactilar, código PIN o tarjeta. El acceso biométrico elimina el bombín clásico, que es el punto más vulnerable al forzado mediante métodos como el bumping o la ganzúa.
+
+### ¿Cuánto tardan la fabricación y la instalación de una puerta antirrobo?
+
+Recibe el presupuesto en 48 horas, y la medición se hace tras la firma del contrato. La fabricación tarda 15–25 días laborables y la instalación 4–8 horas por puerta, con un equipo especializado. La puerta se entrega con un certificado de garantía por escrito.
 
 ---
 
@@ -34292,8 +34648,8 @@ Neofort BIZ fornisce porte antieffrazione **su misura**, personalizzate per ogni
 1. **Consulenza e progetto** — consulenza, preventivo in 48 ore, rilievo sul posto dopo la firma del contratto
 2. **Produzione** — 15–25 giorni lavorativi
 3. **Posa professionale** — squadra specializzata, 4–8 ore per porta
-4. **Certificato di garanzia** — copertura completa su prodotto e manodopera
-5. **Assistenza** — interventi rapidi per regolazioni o ricambi in garanzia
+4. **Certificato di garanzia scritto** — oltre 10 anni sul profilo in alluminio Alumil e 2 anni sulla posa
+5. **Assistenza** — regolazioni e ricambi in garanzia
 
 Vedete anche [i nostri serramenti in alluminio](/it/infissi-alluminio) oppure [contattateci](/it/contatti) per una consulenza in sede.
 
@@ -34316,6 +34672,10 @@ Per case e ville a Bucarest e nell’Ilfov si consiglia almeno la classe RC 3, c
 ### Come elimina l’accesso biometrico la debolezza dei cilindri classici?
 
 Le porte antieffrazione moderne uniscono la protezione meccanica (costruzione RC 2–RC 4) all’accesso biometrico — impronta digitale, codice PIN o tessera. L’accesso biometrico elimina il cilindro classico, che è il punto più vulnerabile a metodi come il bumping o il picking.
+
+### Quanto tempo richiedono la produzione e la posa di una porta antieffrazione?
+
+Ricevete il preventivo entro 48 ore, e il rilievo si fa dopo la firma del contratto. La produzione richiede 15–25 giorni lavorativi e la posa 4–8 ore per porta, con una squadra specializzata. La porta viene consegnata con un certificato di garanzia scritto.
 
 ---
 
@@ -35904,7 +36264,7 @@ Metodologia de calcul al performanței energetice a clădirilor, **Mc 001-2022**
 
 | Sistem | Uf (W/m²K) | Uw minim |
 |---|---|---|
-| S77 Supreme (ferestre și uși) | de la 0,86 | de la 1,0 |
+| S77 Supreme (ferestre și uși) | de la 0,85 | de la 1,0 |
 | SF85 Supreme (ușă armonică) | de la 1,0 | de la 1,0 |
 | Smartia M19800 (ușă armonică) | de la 1,9 | de la 1,7 |
 
@@ -36022,7 +36382,7 @@ The methodology for calculating the energy performance of buildings, **Mc 001-20
 
 | System | Uf (W/m²K) | Minimum Uw |
 |---|---|---|
-| S77 Supreme (windows and doors) | from 0.86 | from 1.0 |
+| S77 Supreme (windows and doors) | from 0.85 | from 1.0 |
 | SF85 Supreme (folding door) | from 1.0 | from 1.0 |
 | Smartia M19800 (folding door) | from 1.9 | from 1.7 |
 
@@ -36140,7 +36500,7 @@ Die Methodik zur Berechnung der Gesamtenergieeffizienz von Gebäuden, **Mc 001-2
 
 | System | Uf (W/m²K) | Minimaler Uw |
 |---|---|---|
-| S77 Supreme (Fenster und Türen) | ab 0,86 | ab 1,0 |
+| S77 Supreme (Fenster und Türen) | ab 0,85 | ab 1,0 |
 | SF85 Supreme (Falttür) | ab 1,0 | ab 1,0 |
 | Smartia M19800 (Falttür) | ab 1,9 | ab 1,7 |
 
@@ -36258,7 +36618,7 @@ La méthodologie de calcul de la performance énergétique des bâtiments, **Mc 
 
 | Système | Uf (W/m²K) | Uw minimal |
 |---|---|---|
-| S77 Supreme (fenêtres et portes) | à partir de 0,86 | à partir de 1,0 |
+| S77 Supreme (fenêtres et portes) | à partir de 0,85 | à partir de 1,0 |
 | SF85 Supreme (porte pliante) | à partir de 1,0 | à partir de 1,0 |
 | Smartia M19800 (porte pliante) | à partir de 1,9 | à partir de 1,7 |
 
@@ -36376,7 +36736,7 @@ La metodología de cálculo de la eficiencia energética de los edificios, **Mc 
 
 | Sistema | Uf (W/m²K) | Uw mínimo |
 |---|---|---|
-| S77 Supreme (ventanas y puertas) | desde 0,86 | desde 1,0 |
+| S77 Supreme (ventanas y puertas) | desde 0,85 | desde 1,0 |
 | SF85 Supreme (puerta plegable) | desde 1,0 | desde 1,0 |
 | Smartia M19800 (puerta plegable) | desde 1,9 | desde 1,7 |
 
@@ -36494,7 +36854,7 @@ La metodologia di calcolo della prestazione energetica degli edifici, **Mc 001-2
 
 | Sistema | Uf (W/m²K) | Uw minimo |
 |---|---|---|
-| S77 Supreme (finestre e porte) | da 0,86 | da 1,0 |
+| S77 Supreme (finestre e porte) | da 0,85 | da 1,0 |
 | SF85 Supreme (porta a libro) | da 1,0 | da 1,0 |
 | Smartia M19800 (porta a libro) | da 1,9 | da 1,7 |
 

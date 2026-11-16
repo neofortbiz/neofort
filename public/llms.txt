@@ -53,11 +53,11 @@ Toate cele 25 de produse au pagină proprie în șase limbi. Linkurile de mai jo
 ### Tâmplărie Aluminiu Alumil
 
 - **[Sistem Aluminiu Alumil S 77 SUPREME – Ferestre și Uși cu Barieră Termică 40 mm](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s77-supreme)**
-  - Adâncime constructivă: 77 – 93 mm · Barieră termică: Poliamidă 40 mm · Transfer termic Uf: de la 0,86 W/m²K · Geam compatibil: 24 – 72 mm (dublu / triplu) · Izolare fonică: până la 42 dB · Greutate max. canat: 400 kg
+  - Adâncime toc: 77 mm · Izolație termică: Poliamidă 40 mm + Energy bar + spumă · Uf: 0,85 – 2,42 W/m²K · Uw: 0,85 – 1,4 W/m²K · Geam compatibil: 24 – 72 mm (dublu / triplu) · Izolare fonică: până la 42 dB · Antiefracție: RC2 / RC3 · Greutate max. canat: 180 kg · Apă E1350, aer clasa 4, vânt C5/B5
   - Producător: Alumil S.A.
   - Preț orientativ: 350 – 480 EUR/mp, cu geam termoizolator și montaj, fără TVA
 - **[Sistem Aluminiu Alumil S 67 SMARTIA – Ferestre și Uși cu Izolare Fonică 45 dB](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s67-smartia)**
-  - Adâncime constructivă: 67 – 75 mm · Barieră termică: Poliamidă 30 mm · Transfer termic Uf: de la 1,1 W/m²K (Alumil: 1,1–2,6) · Geam compatibil: 24 – 58 mm (dublu / triplu) · Izolare fonică: până la 45 dB · Antiefracție: RC2 / RC3 · Greutate max. canat: 180 kg
+  - Adâncime toc / canat: 67 / 75 mm · Izolație termică: Poliamidă 30 mm + spumă PE · Uf: 1,1 – 2,6 W/m²K (Alumil nu publică Uw) · Geam compatibil: până la 58 mm (dublu / triplu) · Izolare fonică: până la 45 dB · Antiefracție: RC2 / RC3 · Greutate max. canat: 180 kg · Apă E1200, aer clasa 4, vânt C5
   - Producător: Alumil S.A.
 - **[Sistem Liftant Glisant Alumil S 700 SUPREME – Foi până la 600 kg, Geam 50 mm](https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme)**
   - Tip sistem: Liftant Glisant (HS) · Barieră termică: poliamidă + Energy bar · Uw: 1,1 W/m²K · Geam compatibil: până la 50 mm · Izolare fonică: până la 41 dB · Greutate max. foaie: 600 kg

@@ -199,7 +199,7 @@ const TEAM = [
     color: '#934812',
   },
   {
-    name: 'Mihai DANALACHE',
+    name: 'Mihai DĂNĂLACHE',
     photo: '/team/mihai-danalache.avif',
     role: { ro:'Consultant Tehnic', en:'Technical Consultant', de:'Technischer Berater', fr:'Consultant technique', es:'Asesor técnico', it:'Consulente tecnico' },
     phone: '+40 752 443 431',

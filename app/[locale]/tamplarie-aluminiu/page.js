@@ -28,20 +28,20 @@ const PAGE_UI = {
 // ─── DATE PRODUSE — identic cu screenshot, toate specificațiile, 6 limbi ─────
 const SPECS = {
   s77: {
-    ro:[['Bariera termică','40mm'],['Etanșare','3 garnituri'],['Adâncime','77-93 mm'],['Transfer termic Uf','de la 0.86 W/m²K'],['Vitraj','până la 72mm'],['Protecție fonică','până la 42 dB'],['Anti-efracție','până la RC 3']],
-    en:[['Thermal barrier','40mm'],['Sealing','3 gaskets'],['Depth','77-93 mm'],['Thermal transfer Uf','from 0.86 W/m²K'],['Glazing','up to 72mm'],['Sound insulation','up to 42 dB'],['Burglar resistance','up to RC 3']],
-    de:[['Thermische Trennung','40mm'],['Dichtung','3 Dichtungen'],['Bautiefe','77-93 mm'],['Wärmedurchgang Uf','ab 0,86 W/m²K'],['Verglasung','bis 72mm'],['Schallschutz','bis 42 dB'],['Einbruchschutz','bis RC 3']],
-    fr:[['Rupture pont thermique','40mm'],['Étanchéité','3 joints'],['Profondeur','77-93 mm'],['Transfert thermique Uf','dès 0,86 W/m²K'],['Vitrage','jusqu\'à 72mm'],['Protection phonique','jusqu\'à 42 dB'],['Anti-effraction','jusqu\'à RC 3']],
-    es:[['Rotura puente térmico','40mm'],['Estanqueidad','3 juntas'],['Profundidad','77-93 mm'],['Transferencia Uf','desde 0,86 W/m²K'],['Acristalamiento','hasta 72mm'],['Aislamiento acústico','hasta 42 dB'],['Antirrobo','hasta RC 3']],
-    it:[['Taglio termico','40mm'],['Tenuta','3 guarnizioni'],['Profondità','77-93 mm'],['Trasmittanza Uf','da 0,86 W/m²K'],['Vetro','fino a 72mm'],['Isolamento acustico','fino a 42 dB'],['Antieffrazione','fino a RC 3']],
+    ro:[['Bariera termică','40mm'],['Greutate canat','până la 180 kg'],['Adâncime','77 mm'],['Transfer termic Uf','de la 0,85 W/m²K'],['Vitraj','până la 72mm'],['Protecție fonică','până la 42 dB'],['Anti-efracție','până la RC 3']],
+    en:[['Thermal barrier','40mm'],['Sash weight','up to 180 kg'],['Depth','77 mm'],['Thermal transfer Uf','from 0.85 W/m²K'],['Glazing','up to 72mm'],['Sound insulation','up to 42 dB'],['Burglar resistance','up to RC 3']],
+    de:[['Thermische Trennung','40mm'],['Flügelgewicht','bis 180 kg'],['Bautiefe','77 mm'],['Wärmedurchgang Uf','ab 0,85 W/m²K'],['Verglasung','bis 72mm'],['Schallschutz','bis 42 dB'],['Einbruchschutz','bis RC 3']],
+    fr:[['Rupture pont thermique','40mm'],['Poids vantail','jusqu\'à 180 kg'],['Profondeur','77 mm'],['Transfert thermique Uf','dès 0,85 W/m²K'],['Vitrage','jusqu\'à 72mm'],['Protection phonique','jusqu\'à 42 dB'],['Anti-effraction','jusqu\'à RC 3']],
+    es:[['Rotura puente térmico','40mm'],['Peso hoja','hasta 180 kg'],['Profundidad','77 mm'],['Transferencia Uf','desde 0,85 W/m²K'],['Acristalamiento','hasta 72mm'],['Aislamiento acústico','hasta 42 dB'],['Antirrobo','hasta RC 3']],
+    it:[['Taglio termico','40mm'],['Peso anta','fino a 180 kg'],['Profondità','77 mm'],['Trasmittanza Uf','da 0,85 W/m²K'],['Vetro','fino a 72mm'],['Isolamento acustico','fino a 42 dB'],['Antieffrazione','fino a RC 3']],
   },
   s67: {
-    ro:[['Bariera termică','30mm'],['Etanșare','3 garnituri'],['Adâncime','67-75 mm'],['Transfer termic Uf','de la 1.5 W/m²K'],['Vitraj','până la 58mm'],['Protecție fonică','până la 45 dB'],['Anti-efracție','până la RC 3']],
-    en:[['Thermal barrier','30mm'],['Sealing','3 gaskets'],['Depth','67-75 mm'],['Thermal transfer Uf','from 1.5 W/m²K'],['Glazing','up to 58mm'],['Sound insulation','up to 45 dB'],['Burglar resistance','up to RC 3']],
-    de:[['Thermische Trennung','30mm'],['Dichtung','3 Dichtungen'],['Bautiefe','67-75 mm'],['Wärmedurchgang Uf','ab 1,5 W/m²K'],['Verglasung','bis 58mm'],['Schallschutz','bis 45 dB'],['Einbruchschutz','bis RC 3']],
-    fr:[['Rupture pont thermique','30mm'],['Étanchéité','3 joints'],['Profondeur','67-75 mm'],['Transfert thermique Uf','dès 1,5 W/m²K'],['Vitrage','jusqu\'à 58mm'],['Protection phonique','jusqu\'à 45 dB'],['Anti-effraction','jusqu\'à RC 3']],
-    es:[['Rotura puente térmico','30mm'],['Estanqueidad','3 juntas'],['Profundidad','67-75 mm'],['Transferencia Uf','desde 1,5 W/m²K'],['Acristalamiento','hasta 58mm'],['Aislamiento acústico','hasta 45 dB'],['Antirrobo','hasta RC 3']],
-    it:[['Taglio termico','30mm'],['Tenuta','3 guarnizioni'],['Profondità','67-75 mm'],['Trasmittanza Uf','da 1,5 W/m²K'],['Vetro','fino a 58mm'],['Isolamento acustico','fino a 45 dB'],['Antieffrazione','fino a RC 3']],
+    ro:[['Bariera termică','30mm'],['Greutate canat','până la 180 kg'],['Adâncime','67-75 mm'],['Transfer termic Uf','de la 1,1 W/m²K'],['Vitraj','până la 58mm'],['Protecție fonică','până la 45 dB'],['Anti-efracție','până la RC 3']],
+    en:[['Thermal barrier','30mm'],['Sash weight','up to 180 kg'],['Depth','67-75 mm'],['Thermal transfer Uf','from 1.1 W/m²K'],['Glazing','up to 58mm'],['Sound insulation','up to 45 dB'],['Burglar resistance','up to RC 3']],
+    de:[['Thermische Trennung','30mm'],['Flügelgewicht','bis 180 kg'],['Bautiefe','67-75 mm'],['Wärmedurchgang Uf','ab 1,1 W/m²K'],['Verglasung','bis 58mm'],['Schallschutz','bis 45 dB'],['Einbruchschutz','bis RC 3']],
+    fr:[['Rupture pont thermique','30mm'],['Poids vantail','jusqu\'à 180 kg'],['Profondeur','67-75 mm'],['Transfert thermique Uf','dès 1,1 W/m²K'],['Vitrage','jusqu\'à 58mm'],['Protection phonique','jusqu\'à 45 dB'],['Anti-effraction','jusqu\'à RC 3']],
+    es:[['Rotura puente térmico','30mm'],['Peso hoja','hasta 180 kg'],['Profundidad','67-75 mm'],['Transferencia Uf','desde 1,1 W/m²K'],['Acristalamiento','hasta 58mm'],['Aislamiento acústico','hasta 45 dB'],['Antirrobo','hasta RC 3']],
+    it:[['Taglio termico','30mm'],['Peso anta','fino a 180 kg'],['Profondità','67-75 mm'],['Trasmittanza Uf','da 1,1 W/m²K'],['Vetro','fino a 58mm'],['Isolamento acustico','fino a 45 dB'],['Antieffrazione','fino a RC 3']],
   },
   s700: {
     ro:[['Bariera termică','Poliamidă + Energy bar'],['Etanșare perimetrală','perii tri-fin'],['Adâncime','70-70 mm'],['Transfer termic Uw','1,1 W/m²K'],['Vitraj','până la 50mm'],['Protecție fonică','până la 41 dB'],['Anti-efracție','până la RC 2']],
@@ -79,17 +79,17 @@ const SPECS = {
 
 const DESCS = {
   s77: {
-    ro:'Cel mai performant sistem de ferestre și uși din aluminiu din gama Supreme. Barieră termică 40mm, triple garnituri și geam până la 72mm pentru performanțe nZEB.',
-    en:'The highest-performance aluminium window and door system in the Supreme range. 40mm thermal barrier, triple gaskets and glazing up to 72mm for nZEB performance.',
-    de:'Das leistungsstärkste Aluminium-Fenster- und Türsystem der Supreme-Reihe. 40mm thermische Trennung, dreifache Dichtung und Verglasung bis 72mm für nZEB.',
-    fr:'Le système de fenêtres et portes aluminium le plus performant de la gamme Supreme. Rupture thermique 40mm, triple joint et vitrage jusqu\'à 72mm pour les normes nZEB.',
-    es:'El sistema de ventanas y puertas de aluminio más eficiente de la gama Supreme. Rotura térmica 40mm, triple junta y acristalamiento hasta 72mm para estándares nZEB.',
-    it:'Il sistema di finestre e porte in alluminio più performante della gamma Supreme. Taglio termico 40mm, tripla guarnizione e vetro fino a 72mm per standard nZEB.',
+    ro:'Sistem de ferestre și uși din aluminiu din gama Supreme. Poliamidă de 40 mm cu Energy bar, Uw de la 0,85 W/m²K și geam până la 72 mm, inclusiv triplu.',
+    en:'Aluminium window and door system from the Supreme range. 40 mm polyamide with Energy bar, Uw from 0.85 W/m²K and glazing up to 72 mm, triple included.',
+    de:'Aluminium-Fenster- und Türsystem der Supreme-Reihe. 40 mm Polyamid mit Energy bar, Uw ab 0,85 W/m²K und Verglasung bis 72 mm, auch dreifach.',
+    fr:'Système de fenêtres et portes aluminium de la gamme Supreme. Polyamide 40 mm avec Energy bar, Uw dès 0,85 W/m²K et vitrage jusqu\'à 72 mm, triple compris.',
+    es:'Sistema de ventanas y puertas de aluminio de la gama Supreme. Poliamida de 40 mm con Energy bar, Uw desde 0,85 W/m²K y vidrio hasta 72 mm, también triple.',
+    it:'Sistema di finestre e porte in alluminio della gamma Supreme. Poliammide da 40 mm con Energy bar, Uw da 0,85 W/m²K e vetro fino a 72 mm, anche triplo.',
   },
   s67: {
     ro:'Sistem versatil și economic din gama Smartia. Izolare fonică superioară până la 45 dB — ideal pentru medii urbane. Barieră termică 30mm, geam până la 58mm.',
     en:'Versatile and economical system from the Smartia range. Superior sound insulation up to 45 dB — ideal for urban environments. 30mm thermal barrier, glazing up to 58mm.',
-    de:'Vielseitiges und wirtschaftliches System aus der Smartia-Reihe. Überlegender Schallschutz bis 45 dB — ideal für städtische Umgebungen. 30mm thermische Trennung.',
+    de:'Vielseitiges und wirtschaftliches System aus der Smartia-Reihe. Überlegener Schallschutz bis 45 dB — ideal für städtische Umgebungen. 30mm thermische Trennung.',
     fr:'Système polyvalent et économique de la gamme Smartia. Isolation phonique jusqu\'à 45 dB — idéal pour les environnements urbains. Rupture thermique 30mm.',
     es:'Sistema versátil y económico de la gama Smartia. Aislamiento acústico hasta 45 dB — ideal para entornos urbanos. Rotura térmica 30mm, acristalamiento hasta 58mm.',
     it:'Sistema versatile ed economico della gamma Smartia. Isolamento acustico fino a 45 dB — ideale per ambienti urbani. Taglio termico 30mm, vetro fino a 58mm.',
