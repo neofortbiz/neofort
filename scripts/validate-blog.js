@@ -627,6 +627,30 @@ async function garziV327() {
   }
 }
 
+// ── GARDA 31 (v329): tokenul origin trial WebMCP din next.config.js ─────────
+// In v313 s-a pus un token „third-party”, pe care Chrome il respinge cand vine in antetul
+// propriului site: WebMCP n-a pornit deloc 4 luni, iar Lighthouse sarea testele WebMCP.
+// Se verifica: format, feature WebMCP, origine exacta, NU third-party, expirare.
+function garda31() {
+  const cfg = fs.readFileSync(path.join(ROOT, 'next.config.js'), 'utf8');
+  const m = cfg.match(/key:\s*'Origin-Trial',\s*value:\s*'([^']+)'/);
+  if (!m) { err('garda 31: lipseste antetul Origin-Trial (WebMCP) din next.config.js'); return; }
+  let tok;
+  try {
+    const b = Buffer.from(m[1], 'base64');
+    if (![2, 3].includes(b[0]) || b.readUInt32BE(65) !== b.length - 69) throw new Error('structura');
+    tok = JSON.parse(b.subarray(69).toString('utf8'));
+  } catch (e) { err(`garda 31: tokenul Origin-Trial nu se poate citi (${e.message})`); return; }
+  if (tok.feature !== 'WebMCP') err(`garda 31: tokenul e pentru „${tok.feature}”, nu WebMCP`);
+  if (tok.origin !== 'https://www.neofort-biz.ro:443') err(`garda 31: tokenul e pentru ${tok.origin}, nu https://www.neofort-biz.ro`);
+  if (tok.isThirdParty) err('garda 31: token THIRD-PARTY — Chrome il respinge in antetul propriului site; se inregistreaza unul fara „third-party matching”');
+  const zile = Math.floor((tok.expiry * 1000 - Date.now()) / 86400000);
+  if (zile < 0) err('garda 31: tokenul WebMCP a expirat — se reinnoieste pe developer.chrome.com/origintrials');
+  else if (zile < 30) warn(`garda 31: tokenul WebMCP expira in ${zile} zile — se reinnoieste`);
+  console.log(`  Token WebMCP: ${tok.origin}, first-party: ${!tok.isThirdParty}, expira peste ${zile} zile`);
+}
+garda31();
+
 garda23().catch(e => err(`garda 23 nu a putut rula: ${e.message}`)).then(() => garziV327().catch(e => err(`garzile 25–30 nu au putut rula: ${e.message}`))).then(() => {
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }
