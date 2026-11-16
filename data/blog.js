@@ -13730,7 +13730,7 @@ Recomandat pentru: blocuri, birouri, spații comerciale, renovări cu buget medi
 ### Sisteme glisante și armonice
 
 - **Alumil Supreme S700** — liftant-glisant cu izolație din poliamidă și Energy bar, Uw 1,1 W/m²K, foi de până la 600 kg.
-- **Alumil Smartia S350** — sistem glisant economic, poliamidă de 24 mm, Uf de la 2,9 W/m²K.
+- **Alumil Smartia S350** — sistem glisant economic, poliamidă de 24 mm, Uf de la 2,4 W/m²K.
 - **Alumil Supreme SF85** — sistem armonic cu poliamidă dublă de 40 mm, Uf de la 1,0 W/m²K, foi de până la 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — sistem armonic economic, barieră termică 18 mm, Uf de la 1,9 W/m²K.
 
@@ -13890,7 +13890,7 @@ Recommended for: apartment blocks, offices, commercial spaces, mid-budget renova
 ### Sliding and folding systems
 
 - **Alumil Supreme S700** — lift-and-slide with polyamide and Energy bar insulation, Uw 1.1 W/m²K, sashes up to 600 kg.
-- **Alumil Smartia S350** — economical sliding system, 24 mm polyamide, Uf from 2.9 W/m²K.
+- **Alumil Smartia S350** — economical sliding system, 24 mm polyamide, Uf from 2.4 W/m²K.
 - **Alumil Supreme SF85** — folding system with double 40 mm polyamide, Uf from 1.0 W/m²K, sashes up to 1.5 × 4.0 m.
 - **Alumil Smartia M19800** — economical folding system, 18 mm thermal break, Uf from 1.9 W/m²K.
 
@@ -14052,7 +14052,7 @@ Empfohlen für: Wohnblöcke, Büros, Gewerbeflächen, Renovierungen mit mittlere
 ### Schiebe- und Faltsysteme
 
 - **Alumil Supreme S700** — Hebeschiebesystem mit Dämmung aus Polyamid und Energy Bar, Uw 1,1 W/m²K, Flügel bis 600 kg.
-- **Alumil Smartia S350** — preisgünstiges Schiebesystem, 24 mm Polyamid, Uf ab 2,9 W/m²K.
+- **Alumil Smartia S350** — preisgünstiges Schiebesystem, 24 mm Polyamid, Uf ab 2,4 W/m²K.
 - **Alumil Supreme SF85** — Faltsystem mit doppeltem 40-mm-Polyamid, Uf ab 1,0 W/m²K, Flügel bis 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — preisgünstiges Faltsystem, 18 mm thermische Trennung, Uf ab 1,9 W/m²K.
 
@@ -14214,7 +14214,7 @@ Recommandé pour : immeubles, bureaux, locaux commerciaux, rénovations à budge
 ### Systèmes coulissants et accordéon
 
 - **Alumil Supreme S700** — levant-coulissant isolé en polyamide avec Energy bar, Uw 1,1 W/m²K, vantaux jusqu'à 600 kg.
-- **Alumil Smartia S350** — coulissant économique, polyamide de 24 mm, Uf à partir de 2,9 W/m²K.
+- **Alumil Smartia S350** — coulissant économique, polyamide de 24 mm, Uf à partir de 2,4 W/m²K.
 - **Alumil Supreme SF85** — système accordéon en double polyamide de 40 mm, Uf à partir de 1,0 W/m²K, vantaux jusqu'à 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — système accordéon économique, rupture thermique 18 mm, Uf à partir de 1,9 W/m²K.
 
@@ -14373,7 +14373,7 @@ Recomendado para: bloques de viviendas, oficinas, locales comerciales, reformas 
 ### Sistemas correderos y plegables
 
 - **Alumil Supreme S700** — elevable-corredera con aislamiento de poliamida y Energy bar, Uw 1,1 W/m²K, hojas de hasta 600 kg.
-- **Alumil Smartia S350** — corredera económica, poliamida de 24 mm, Uf desde 2,9 W/m²K.
+- **Alumil Smartia S350** — corredera económica, poliamida de 24 mm, Uf desde 2,4 W/m²K.
 - **Alumil Supreme SF85** — sistema plegable con doble poliamida de 40 mm, Uf desde 1,0 W/m²K, hojas de hasta 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — sistema plegable económico, rotura térmica de 18 mm, Uf desde 1,9 W/m²K.
 
@@ -14532,7 +14532,7 @@ Consigliato per: condomini, uffici, spazi commerciali, ristrutturazioni con budg
 ### Sistemi scorrevoli e a soffietto
 
 - **Alumil Supreme S700** — alzante-scorrevole con isolamento in poliammide ed Energy bar, Uw 1,1 W/m²K, ante fino a 600 kg.
-- **Alumil Smartia S350** — scorrevole economico, poliammide da 24 mm, Uf da 2,9 W/m²K.
+- **Alumil Smartia S350** — scorrevole economico, poliammide da 24 mm, Uf da 2,4 W/m²K.
 - **Alumil Supreme SF85** — sistema a soffietto in doppia poliammide da 40 mm, Uf da 1,0 W/m²K, ante fino a 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — sistema a soffietto economico, taglio termico da 18 mm, Uf da 1,9 W/m²K.
 
@@ -15776,7 +15776,7 @@ Neofort BIZ progetta e posa serramenti in alluminio Alumil a Bucarest e in provi
 
 La prima vedere, Zipscreen pare un rulou exterior obișnuit. Diferența fundamentală e invizibilă până când bate vântul.
 
-Un rulou textil exterior clasic are marginile pânzei libere în ghidaje. La vânt, pânza se bombează, fluturează și poate ieși din șine. **Zipscreen rezolvă această problemă prin fermoarul ZIP**: marginile materialului textil sunt prinse mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar de geacă. Materialul rămâne în ghidaje și pe vânt puternic — sistemul este testat în **clasa 6 de rezistență la vânt, până la 88 km/h**.
+Un rulou textil exterior clasic are marginile pânzei libere în ghidaje. La vânt, pânza se bombează, flutură și poate ieși din șine. **Zipscreen rezolvă această problemă prin fermoarul ZIP**: marginile materialului textil sunt prinse mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar de geacă. Materialul rămâne în ghidaje și pe vânt puternic — sistemul este testat în **clasa 6 de rezistență la vânt, până la 88 km/h**.
 
 Aceasta este diferența care justifică prețul mai mare față de un rulou textil clasic și care face din Zipscreen soluția textilă potrivită pentru terase deschise, pergole și fațade expuse.
 
@@ -15906,7 +15906,7 @@ Neofort BIZ furnizează și montează sisteme Zipscreen în București și Ilfov
 
 ### Prin ce e diferit Zipscreen de un rulou textil clasic?
 
-Zipscreen prinde marginile materialului textil mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar. Materialul rămâne în ghidaje și pe vânt puternic — sistemul e testat în clasa 6 de rezistență la vânt, până la 88 km/h. Un rulou textil clasic, cu marginile libere, fluturează și poate ieși din șine.
+Zipscreen prinde marginile materialului textil mecanic într-un profil de aluminiu în formă de U, exact ca un fermoar. Materialul rămâne în ghidaje și pe vânt puternic — sistemul e testat în clasa 6 de rezistență la vânt, până la 88 km/h. Un rulou textil clasic, cu marginile libere, flutură și poate ieși din șine.
 
 ### Ce să aleg, Zipscreen Blackout sau Screen?
 
@@ -18164,7 +18164,7 @@ Pentru vile și case de 500+ mp, integratorii folosesc platforme de control cent
 - Compatibilitate: Nice, Somfy Yslo
 - Cost motorare: 800–1.500 EUR per sistem complet
 
-### Alumil SF85 Supreme — ferestre oscilo-batante motorizate
+### Alumil S77 Supreme / S67 Smartia — ferestre oscilo-batante motorizate
 
 **Ferestre standard cu automatizare completă.** Motorul de lanț (chain actuator) se montează în toc, invizibil din interior. Ideal pentru ferestre la înălțime mare sau ventilație automată controlată de CO2.
 
@@ -18330,7 +18330,7 @@ For villas and houses over 500 sqm, integrators use centralised control platform
 - Compatibility: Nice, Somfy Yslo
 - Motorisation cost: 800–1,500 EUR per complete system
 
-### Alumil SF85 Supreme — motorised tilt-and-turn windows
+### Alumil S77 Supreme / S67 Smartia — motorised tilt-and-turn windows
 
 **Standard windows with full automation.** The chain actuator mounts inside the frame, invisible from the room. Ideal for windows at height or for automatic ventilation controlled by CO2.
 
@@ -18496,7 +18496,7 @@ Für Villen und Häuser ab 500 m² setzen Integratoren zentrale Steuerungsplattf
 - Kompatibilität: Nice, Somfy Yslo
 - Kosten der Motorisierung: 800–1.500 EUR je komplettes System
 
-### Alumil SF85 Supreme — motorisierte Dreh-Kipp-Fenster
+### Alumil S77 Supreme / S67 Smartia — motorisierte Dreh-Kipp-Fenster
 
 **Standardfenster mit vollständiger Automatisierung.** Der Kettenantrieb wird im Rahmen montiert, vom Raum aus unsichtbar. Ideal für hoch gelegene Fenster oder für eine automatische, CO2-geführte Lüftung.
 
@@ -18662,7 +18662,7 @@ Pour les villas et maisons de plus de 500 m², les intégrateurs utilisent des p
 - Compatibilité : Nice, Somfy Yslo
 - Coût de motorisation : 800–1 500 EUR par système complet
 
-### Alumil SF85 Supreme — fenêtres oscillo-battantes motorisées
+### Alumil S77 Supreme / S67 Smartia — fenêtres oscillo-battantes motorisées
 
 **Des fenêtres standard entièrement automatisées.** Le moteur à chaîne se monte dans le dormant, invisible depuis la pièce. Idéal pour les fenêtres en hauteur ou pour une ventilation automatique pilotée par le CO2.
 
@@ -18828,7 +18828,7 @@ Para chalets y viviendas de más de 500 m², los integradores emplean plataforma
 - Compatibilidad: Nice, Somfy Yslo
 - Coste de motorización: 800–1.500 EUR por sistema completo
 
-### Alumil SF85 Supreme — ventanas oscilobatientes motorizadas
+### Alumil S77 Supreme / S67 Smartia — ventanas oscilobatientes motorizadas
 
 **Ventanas estándar con automatización completa.** El motor de cadena se monta en el marco, invisible desde la estancia. Ideal para ventanas a gran altura o para ventilación automática controlada por CO2.
 
@@ -18994,7 +18994,7 @@ Per ville e case oltre i 500 m², gli integratori impiegano piattaforme di contr
 - Compatibilità: Nice, Somfy Yslo
 - Costo della motorizzazione: 800–1.500 EUR per sistema completo
 
-### Alumil SF85 Supreme — finestre anta-ribalta motorizzate
+### Alumil S77 Supreme / S67 Smartia — finestre anta-ribalta motorizzate
 
 **Finestre standard con automazione completa.** L’attuatore a catena si monta nel telaio, invisibile dall’interno. Ideale per finestre in quota o per una ventilazione automatica governata dalla CO2.
 
@@ -21322,7 +21322,7 @@ Orientativ, pentru o casă nouă de 120 mp: 18.000–26.000 EUR cu bluEvolution 
 
 ---
 
-Neofort BIZ furnizează tâmplărie Salamander pentru case și vile, cu montaj în București și Ilfov și livrare în Uniunea Europeană. [Trimite-ne planul casei](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [profilul Salamander bluEvolution 92 ALU](/ro/produse/profil-pvc-bluevolution-92-alu) și [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi). Pagini utile: [despre Neofort BIZ](/ro/despre) și [sistemul liftant-glisant Alumil S 350 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia).
+Neofort BIZ furnizează tâmplărie Salamander pentru case și vile, cu montaj în București și Ilfov și livrare în Uniunea Europeană. [Trimite-ne planul casei](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie PVC](/ro/tamplarie-pvc) pe care o oferim. Pagini utile: [profilul Salamander bluEvolution 92 ALU](/ro/produse/profil-pvc-bluevolution-92-alu) și [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi). Pagini utile: [despre Neofort BIZ](/ro/despre) și [sistemul glisant Alumil S 350 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia).
 `,
 
       en: `## Why does an individual house need a different standard from an apartment block?
@@ -21479,7 +21479,7 @@ As a guide, for a new 120 m² house: 18,000–26,000 EUR with bluEvolution 92 FL
 
 ---
 
-Neofort BIZ supplies Salamander joinery for houses and villas, with installation in Bucharest and Ilfov and delivery across the European Union. [Send us the house plan](/en/contact) and you will receive a quote within 48 hours. See [the PVC joinery range](/en/pvc-windows) we offer. Useful pages: [the Salamander bluEvolution 92 ALU profile](/en/products/bluevolution-92-alu-pvc-profile) and [PVC window prices](/en/pvc-windows/prices). Useful pages: [about Neofort BIZ](/en/about) and [the Alumil S 350 SMARTIA lift-and-slide system](/en/products-alu/alumil-s350-smartia-lift-slide-system).`,
+Neofort BIZ supplies Salamander joinery for houses and villas, with installation in Bucharest and Ilfov and delivery across the European Union. [Send us the house plan](/en/contact) and you will receive a quote within 48 hours. See [the PVC joinery range](/en/pvc-windows) we offer. Useful pages: [the Salamander bluEvolution 92 ALU profile](/en/products/bluevolution-92-alu-pvc-profile) and [PVC window prices](/en/pvc-windows/prices). Useful pages: [about Neofort BIZ](/en/about) and [the Alumil S 350 SMARTIA sliding system](/en/products-alu/alumil-s350-smartia-sliding-system).`,
 
       de: `## Warum braucht ein Einfamilienhaus einen anderen Standard als ein Wohnblock?
 
@@ -21635,7 +21635,7 @@ Als Richtwert für ein neues Haus mit 120 m²: 18.000–26.000 EUR mit bluEvolut
 
 ---
 
-Neofort BIZ liefert Salamander-Fenster für Häuser und Villen, mit Montage in Bukarest und Ilfov und Lieferung in die Europäische Union. [Senden Sie uns den Hausplan](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das PVC-Sortiment](/de/kunststofffenster-pvc), das wir anbieten. Nützliche Seiten: [Salamander-Profil bluEvolution 92 ALU](/de/produkte/bluevolution-92-alu-pvc-profil) und [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Nützliche Seiten: [Über Neofort BIZ](/de/ueber-uns) und [Alumil S 350 SMARTIA Hebeschiebetür](/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem).`,
+Neofort BIZ liefert Salamander-Fenster für Häuser und Villen, mit Montage in Bukarest und Ilfov und Lieferung in die Europäische Union. [Senden Sie uns den Hausplan](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das PVC-Sortiment](/de/kunststofffenster-pvc), das wir anbieten. Nützliche Seiten: [Salamander-Profil bluEvolution 92 ALU](/de/produkte/bluevolution-92-alu-pvc-profil) und [Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Nützliche Seiten: [Über Neofort BIZ](/de/ueber-uns) und [Alumil S 350 SMARTIA Schiebetür](/de/produkte-alu/alumil-s350-smartia-schiebesystem).`,
 
       fr: `## Pourquoi une maison individuelle exige-t-elle un autre standard qu’un immeuble ?
 
@@ -21791,7 +21791,7 @@ Le BluEvolution 92 ALU est habillé d’aluminium à l’extérieur, associant l
 
 ---
 
-Neofort BIZ fournit des menuiseries Salamander pour maisons et villas, avec pose à Bucarest et Ilfov et livraison dans l’Union européenne. [Transmettez-nous le plan de la maison](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme PVC](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [le profilé Salamander bluEvolution 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix). Pages utiles : [à propos de Neofort BIZ](/fr/a-propos) et [le système levant-coulissant Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia).`,
+Neofort BIZ fournit des menuiseries Salamander pour maisons et villas, avec pose à Bucarest et Ilfov et livraison dans l’Union européenne. [Transmettez-nous le plan de la maison](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme PVC](/fr/menuiserie-pvc) que nous proposons. Pages utiles : [le profilé Salamander bluEvolution 92 ALU](/fr/produits/profil-pvc-bluevolution-92-alu) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix). Pages utiles : [à propos de Neofort BIZ](/fr/a-propos) et [le système coulissant Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia).`,
 
       es: `## ¿Por qué una vivienda unifamiliar necesita otro estándar que un bloque?
 
@@ -21947,7 +21947,7 @@ De forma orientativa, para una casa nueva de 120 m²: 18.000–26.000 EUR con bl
 
 ---
 
-Neofort BIZ suministra carpintería Salamander para casas y chalets, con instalación en Bucarest e Ilfov y entrega en la Unión Europea. [Envíenos el plano de la vivienda](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería PVC](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el perfil Salamander bluEvolution 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) y [los precios de la carpintería PVC](/es/carpinteria-pvc/precios). Páginas útiles: [sobre Neofort BIZ](/es/sobre-nosotros) y [el sistema elevable-corredero Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia).`,
+Neofort BIZ suministra carpintería Salamander para casas y chalets, con instalación en Bucarest e Ilfov y entrega en la Unión Europea. [Envíenos el plano de la vivienda](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería PVC](/es/carpinteria-pvc) que ofrecemos. Páginas útiles: [el perfil Salamander bluEvolution 92 ALU](/es/productos/perfil-pvc-bluevolution-92-alu) y [los precios de la carpintería PVC](/es/carpinteria-pvc/precios). Páginas útiles: [sobre Neofort BIZ](/es/sobre-nosotros) y [el sistema corredero Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia).`,
 
       it: `## Perché una casa unifamiliare richiede uno standard diverso da un condominio?
 
@@ -22103,7 +22103,7 @@ Indicativamente, per una casa nuova di 120 m²: 18.000–26.000 EUR con bluEvolu
 
 ---
 
-Neofort BIZ fornisce serramenti Salamander per case e ville, con posa a Bucarest e nell’Ilfov e consegna nell’Unione Europea. [Inviateci la pianta della casa](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma PVC](/it/infissi-pvc) che offriamo. Pagine utili: [il profilo Salamander bluEvolution 92 ALU](/it/prodotti/profilo-pvc-bluevolution-92-alu) e [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi). Pagine utili: [chi siamo](/it/chi-siamo) e [l'alzante scorrevole Alumil S 350 SMARTIA](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia).`,
+Neofort BIZ fornisce serramenti Salamander per case e ville, con posa a Bucarest e nell’Ilfov e consegna nell’Unione Europea. [Inviateci la pianta della casa](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma PVC](/it/infissi-pvc) che offriamo. Pagine utili: [il profilo Salamander bluEvolution 92 ALU](/it/prodotti/profilo-pvc-bluevolution-92-alu) e [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi). Pagine utili: [chi siamo](/it/chi-siamo) e [lo scorrevole Alumil S 350 SMARTIA](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia).`,
     },
   },
 
@@ -22295,7 +22295,7 @@ Orientativ, cu montaj, glafuri și evacuarea ambalajelor: 2.800–4.200 EUR pent
 
 ---
 
-Neofort BIZ furnizează și montează tâmplărie din aluminiu pentru blocuri noi, cu livrare pe etape de execuție, în București și Ilfov. [Trimite-ne detaliile ansamblului](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim. Pagini utile: [sistemul Alumil S 77 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s77-supreme) și [sistemul liftant-glisant Alumil S 350 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia).
+Neofort BIZ furnizează și montează tâmplărie din aluminiu pentru blocuri noi, cu livrare pe etape de execuție, în București și Ilfov. [Trimite-ne detaliile ansamblului](/ro/contact) și primești ofertă în 48 de ore. Vezi [gama de tâmplărie din aluminiu](/ro/tamplarie-aluminiu) pe care o oferim. Pagini utile: [sistemul Alumil S 77 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s77-supreme) și [sistemul glisant Alumil S 350 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia).
 `,
 
       en: `## The Neofort BIZ project — new block, Delea Veche, Bucharest
@@ -22422,7 +22422,7 @@ As a guide, including installation, sills and packaging removal: 2,800–4,200 E
 
 ---
 
-Neofort BIZ supplies and installs aluminium joinery for new apartment blocks, with phased delivery, in Bucharest and Ilfov. [Send us the development details](/en/contact) and you will receive a quote within 48 hours. See [the aluminium joinery range](/en/aluminium-windows) we offer. Useful pages: [the Alumil S 77 SUPREME system](/en/products-alu/alumil-s77-supreme-aluminium-system) and [the Alumil S 350 SMARTIA lift-and-slide system](/en/products-alu/alumil-s350-smartia-lift-slide-system).`,
+Neofort BIZ supplies and installs aluminium joinery for new apartment blocks, with phased delivery, in Bucharest and Ilfov. [Send us the development details](/en/contact) and you will receive a quote within 48 hours. See [the aluminium joinery range](/en/aluminium-windows) we offer. Useful pages: [the Alumil S 77 SUPREME system](/en/products-alu/alumil-s77-supreme-aluminium-system) and [the Alumil S 350 SMARTIA sliding system](/en/products-alu/alumil-s350-smartia-sliding-system).`,
 
       de: `## Das Projekt von Neofort BIZ — Neubaublock, Delea Veche, Bukarest
 
@@ -22548,7 +22548,7 @@ Als Richtwert, mit Montage, Fensterbänken und Entsorgung der Verpackung: 2.800�
 
 ---
 
-Neofort BIZ liefert und montiert Aluminiumfenster für Neubaublocks, mit Lieferung nach Bauabschnitten, in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster), das wir anbieten. Nützliche Seiten: [Alumil S 77 SUPREME Aluminiumfenster](/de/produkte-alu/alumil-s77-supreme-aluminiumsystem) und [Alumil S 350 SMARTIA Hebeschiebetür](/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem).`,
+Neofort BIZ liefert und montiert Aluminiumfenster für Neubaublocks, mit Lieferung nach Bauabschnitten, in Bukarest und Ilfov. [Senden Sie uns die Projektdaten](/de/kontakt) und Sie erhalten innerhalb von 48 Stunden ein Angebot. Sehen Sie [das Aluminiumfenster-Sortiment](/de/aluminiumfenster), das wir anbieten. Nützliche Seiten: [Alumil S 77 SUPREME Aluminiumfenster](/de/produkte-alu/alumil-s77-supreme-aluminiumsystem) und [Alumil S 350 SMARTIA Schiebetür](/de/produkte-alu/alumil-s350-smartia-schiebesystem).`,
 
       fr: `## Le chantier Neofort BIZ — immeuble neuf, Delea Veche, Bucarest
 
@@ -22674,7 +22674,7 @@ Sur un immeuble neuf à façade moderne, l’aluminium Reynaers donne des lignes
 
 ---
 
-Neofort BIZ fournit et pose des menuiseries aluminium pour immeubles neufs, avec livraison par phases, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du programme](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme de menuiseries aluminium](/fr/menuiserie-aluminium) que nous proposons. Pages utiles : [le système Alumil S 77 SUPREME](/fr/produits-alu/systeme-aluminium-alumil-s77-supreme) et [le système levant-coulissant Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia).`,
+Neofort BIZ fournit et pose des menuiseries aluminium pour immeubles neufs, avec livraison par phases, à Bucarest et dans l’Ilfov. [Transmettez-nous les données du programme](/fr/contact) et recevez un devis sous 48 heures. Découvrez [la gamme de menuiseries aluminium](/fr/menuiserie-aluminium) que nous proposons. Pages utiles : [le système Alumil S 77 SUPREME](/fr/produits-alu/systeme-aluminium-alumil-s77-supreme) et [le système coulissant Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia).`,
 
       es: `## La obra de Neofort BIZ — bloque nuevo, Delea Veche, Bucarest
 
@@ -22800,7 +22800,7 @@ De forma orientativa, con instalación, vierteaguas y retirada de embalajes: 2.8
 
 ---
 
-Neofort BIZ suministra e instala carpintería de aluminio para bloques de obra nueva, con entrega por fases, en Bucarest e Ilfov. [Envíenos los datos de la promoción](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos. Páginas útiles: [el sistema Alumil S 77 SUPREME](/es/productos-alu/sistema-aluminio-alumil-s77-supreme) y [el sistema elevable-corredero Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia).`,
+Neofort BIZ suministra e instala carpintería de aluminio para bloques de obra nueva, con entrega por fases, en Bucarest e Ilfov. [Envíenos los datos de la promoción](/es/contacto) y recibirá un presupuesto en 48 horas. Vea [la gama de carpintería de aluminio](/es/carpinteria-aluminio) que ofrecemos. Páginas útiles: [el sistema Alumil S 77 SUPREME](/es/productos-alu/sistema-aluminio-alumil-s77-supreme) y [el sistema corredero Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia).`,
 
       it: `## Il cantiere di Neofort BIZ — edificio nuovo, Delea Veche, Bucarest
 
@@ -22926,7 +22926,7 @@ Indicativamente, con posa, davanzali e smaltimento degli imballaggi: 2.800–4.2
 
 ---
 
-Neofort BIZ fornisce e posa serramenti in alluminio per edifici nuovi, con consegna per fasi, a Bucarest e nell’Ilfov. [Inviateci i dati dell’intervento](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma di serramenti in alluminio](/it/infissi-alluminio) che offriamo. Pagine utili: [il sistema Alumil S 77 SUPREME](/it/prodotti-alu/sistema-alluminio-alumil-s77-supreme) e [l'alzante scorrevole Alumil S 350 SMARTIA](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia).`,
+Neofort BIZ fornisce e posa serramenti in alluminio per edifici nuovi, con consegna per fasi, a Bucarest e nell’Ilfov. [Inviateci i dati dell’intervento](/it/contatti) e riceverete un preventivo entro 48 ore. Scoprite [la gamma di serramenti in alluminio](/it/infissi-alluminio) che offriamo. Pagine utili: [il sistema Alumil S 77 SUPREME](/it/prodotti-alu/sistema-alluminio-alumil-s77-supreme) e [lo scorrevole Alumil S 350 SMARTIA](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia).`,
     },
   },
 
@@ -30165,7 +30165,7 @@ Foaia culisează pe șine orizontale. Salvează spațiu, potrivite pentru trecer
 **Sistem Alumil:** Smartia S350 (glisant) / Supreme S700 (liftant-glisant)
 - Disponibil: 2, 3, 4 canaturi
 - Dimensiuni mari până la 3m înălțime
-- Uf de la 2,9 W/m²K la S350; Uw 1,1 W/m²K la S700
+- Uf de la 2,4 W/m²K la S350; Uw 1,1 W/m²K la S700
 
 ### Uși liftant-glisante (Lift & Slide)
 Sistemul premium pentru deschideri mari spre terasă sau grădină. Canalul ridică foaia câțiva mm înainte să o culiseze — etanșeitate perfectă.
@@ -31781,7 +31781,7 @@ Feroneria evolutionDrive Plus+ mută ușor canaturi de până la 200 kg, cu un e
 
 ---
 
-Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi). Pentru deschideri și mai mari, vezi [sistemul liftant-glisant Alumil S 350 SMARTIA](/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia) și [sistemul armonic Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme).`,
+Neofort BIZ furnizează și montează tâmplărie PVC Salamander în București și Ilfov, cu livrare în toată Europa. Vezi [tâmplăria PVC Salamander](/ro/tamplarie-pvc) pe care o oferim sau [solicită o ofertă](/ro/contact). Vezi și [comparația bluEvolution 92 vs greenEvolution 76](/ro/blog/bluevolution-92-vs-greenevolution-76). Pagini utile: [profilul Salamander bluEvolution 92 ROUND](/ro/produse/profil-pvc-bluevolution-92-round) și [prețurile tâmplăriei PVC](/ro/tamplarie-pvc/preturi). Pentru deschideri și mai mari, vezi [sistemul liftant-glisant Alumil S 700 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme) și [sistemul armonic Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme).`,
 
       en: `## Why the sliding door has become the standard for modern terraces and living rooms
 
@@ -31892,7 +31892,7 @@ The evolutionDrive Plus+ hardware moves sashes of up to 200 kg easily, with effo
 
 ---
 
-Neofort BIZ supplies and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). See also the [bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile) and [PVC window prices](/en/pvc-windows/prices). For even larger openings, see the [Alumil S 350 SMARTIA lift-and-slide system](/en/products-alu/alumil-s350-smartia-lift-slide-system) and the [Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system).`,
+Neofort BIZ supplies and installs Salamander PVC joinery in Bucharest and Ilfov, with delivery across Europe. See the [Salamander PVC joinery](/en/pvc-windows) we offer or [request a quote](/en/contact). See also the [bluEvolution 92 vs greenEvolution 76 comparison](/en/blog/bluevolution-92-vs-greenevolution-76-comparison). Useful pages: [the Salamander bluEvolution 92 ROUND profile](/en/products/bluevolution-92-round-pvc-profile) and [PVC window prices](/en/pvc-windows/prices). For even larger openings, see the [Alumil S 700 SUPREME lift-and-slide system](/en/products-alu/alumil-s700-supreme-lift-slide-system) and the [Alumil SF 85 SUPREME folding system](/en/products-alu/alumil-sf85-supreme-folding-system).`,
 
       de: `## Warum die Schiebetür zum Standard für moderne Terrassen und Wohnzimmer geworden ist
 
@@ -32003,7 +32003,7 @@ Der Beschlag von evolutionDrive Plus+ bewegt Flügel bis 200 kg leicht, mit eine
 
 ---
 
-Neofort BIZ liefert und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Lesen Sie auch den [Vergleich bluEvolution 92 und greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [die Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Für noch größere Öffnungen sehen Sie sich die [Hebeschiebeanlage Alumil S 350 SMARTIA](/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem) und das [Faltsystem Alumil SF 85 SUPREME](/de/produkte-alu/alumil-sf85-supreme-faltsystem) an.`,
+Neofort BIZ liefert und montiert Salamander-Kunststofffenster in Bukarest und Ilfov, mit Lieferung in ganz Europa. Sehen Sie sich die [Salamander-Kunststofffenster](/de/kunststofffenster-pvc) an, die wir anbieten, oder [fordern Sie ein Angebot an](/de/kontakt). Lesen Sie auch den [Vergleich bluEvolution 92 und greenEvolution 76](/de/blog/bluevolution-92-vs-greenevolution-76-leitfaden). Nützliche Seiten: [das Salamander-Profil bluEvolution 92 ROUND](/de/produkte/bluevolution-92-round-pvc-profil) und [die Preise für Kunststofffenster](/de/kunststofffenster-pvc/preise). Für noch größere Öffnungen sehen Sie sich die [Hebeschiebeanlage Alumil S 700 SUPREME](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem) und das [Faltsystem Alumil SF 85 SUPREME](/de/produkte-alu/alumil-sf85-supreme-faltsystem) an.`,
 
       fr: `## Pourquoi la porte coulissante est devenue la norme pour les terrasses et les séjours modernes
 
@@ -32114,7 +32114,7 @@ La quincaillerie evolutionDrive Plus+ déplace facilement des vantaux jusqu’à
 
 ---
 
-Neofort BIZ fournit et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Lisez aussi la [comparaison bluEvolution 92 et greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix). Pour des ouvertures encore plus grandes, voyez le [système à levage-coulissement Alumil S 350 SMARTIA](/fr/produits-alu/systeme-coulissant-alumil-s350-smartia) et le [système pliant Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme).`,
+Neofort BIZ fournit et pose des menuiseries PVC Salamander à Bucarest et dans l’Ilfov, avec livraison dans toute l’Europe. Découvrez la [menuiserie PVC Salamander](/fr/menuiserie-pvc) que nous proposons ou [demandez un devis](/fr/contact). Lisez aussi la [comparaison bluEvolution 92 et greenEvolution 76](/fr/blog/bluevolution-92-vs-greenevolution-76-guide). Pages utiles : [le profilé Salamander bluEvolution 92 ROUND](/fr/produits/profil-pvc-bluevolution-92-round) et [les prix de la menuiserie PVC](/fr/menuiserie-pvc/prix). Pour des ouvertures encore plus grandes, voyez le [système levant-coulissant Alumil S 700 SUPREME](/fr/produits-alu/systeme-coulissant-alumil-s700-supreme) et le [système pliant Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme).`,
 
       es: `## Por qué la puerta corredera se ha convertido en el estándar para terrazas y salones modernos
 
@@ -32225,7 +32225,7 @@ Los herrajes de evolutionDrive Plus+ mueven con facilidad hojas de hasta 200 kg,
 
 ---
 
-Neofort BIZ suministra e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Lea también la [comparación entre bluEvolution 92 y greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round) y [los precios de la carpintería de PVC](/es/carpinteria-pvc/precios). Para huecos aún mayores, vea el [sistema de corredera elevable Alumil S 350 SMARTIA](/es/productos-alu/sistema-corredera-alumil-s350-smartia) y el [sistema plegable Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme).`,
+Neofort BIZ suministra e instala carpintería de PVC Salamander en Bucarest e Ilfov, con entrega en toda Europa. Vea la [carpintería de PVC Salamander](/es/carpinteria-pvc) que ofrecemos o [solicite un presupuesto](/es/contacto). Lea también la [comparación entre bluEvolution 92 y greenEvolution 76](/es/blog/bluevolution-92-vs-greenevolution-76-guia). Páginas útiles: [el perfil Salamander bluEvolution 92 ROUND](/es/productos/perfil-pvc-bluevolution-92-round) y [los precios de la carpintería de PVC](/es/carpinteria-pvc/precios). Para huecos aún mayores, vea el [sistema de corredera elevable Alumil S 700 SUPREME](/es/productos-alu/sistema-corredera-alumil-s700-supreme) y el [sistema plegable Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme).`,
 
       it: `## Perché la porta scorrevole è diventata lo standard per terrazze e soggiorni moderni
 
@@ -32336,7 +32336,7 @@ La ferramenta di evolutionDrive Plus+ muove con facilità ante fino a 200 kg, co
 
 ---
 
-Neofort BIZ fornisce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Leggete anche il [confronto tra bluEvolution 92 e greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi). Per aperture ancora più grandi, vedete l’[alzante scorrevole Alumil S 350 SMARTIA](/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia) e il [sistema pieghevole Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme).`,
+Neofort BIZ fornisce e posa infissi in PVC Salamander a Bucarest e in provincia di Ilfov, con consegna in tutta Europa. Scoprite gli [infissi in PVC Salamander](/it/infissi-pvc) che offriamo o [richiedete un preventivo](/it/contatti). Leggete anche il [confronto tra bluEvolution 92 e greenEvolution 76](/it/blog/bluevolution-92-vs-greenevolution-76-guida). Pagine utili: [il profilo Salamander bluEvolution 92 ROUND](/it/prodotti/profilo-pvc-bluevolution-92-round) e [i prezzi degli infissi in PVC](/it/infissi-pvc/prezzi). Per aperture ancora più grandi, vedete l’[alzante scorrevole Alumil S 700 SUPREME](/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme) e il [sistema pieghevole Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme).`,
     },
   },
 

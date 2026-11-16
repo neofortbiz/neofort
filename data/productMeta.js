@@ -220,20 +220,20 @@ export const PRODUCT_META = {
 
   'alumil-s350-smartia': {
     title: {
-      ro: 'Liftant Glisant Alumil S 350 SMARTIA – ușă glisantă',
-      en: 'Alumil S 350 SMARTIA Lift & Slide – Sliding Door',
-      de: 'Alumil S 350 SMARTIA Hebeschiebetür – Schiebetür',
-      fr: 'Alumil S 350 SMARTIA – Coulissant levant accessible',
-      es: 'Alumil S 350 SMARTIA – Corredera elevable accesible',
-      it: 'Alumil S 350 SMARTIA – Scorrevole alzante accessibile',
+      ro: 'Sistem Glisant Alumil S 350 SMARTIA – ușă glisantă',
+      en: 'Alumil S 350 SMARTIA Sliding System – Sliding Door',
+      de: 'Alumil S 350 SMARTIA Schiebesystem – Schiebetür',
+      fr: 'Alumil S 350 SMARTIA – Coulissant accessible',
+      es: 'Alumil S 350 SMARTIA – Corredera accesible',
+      it: 'Alumil S 350 SMARTIA – Scorrevole accessibile',
     },
     desc: {
-      ro: 'Sistem accesibil cu barieră termică 28 mm și perii tri-fin. Uf de la 2,9 W/m²K, 38 dB, RC2. Uși glisante aluminiu montate în București.',
-      en: 'Accessible system with a 28 mm thermal barrier and tri-fin brushes. Uf from 2.9 W/m²K, 38 dB, RC2. Aluminium sliding doors fitted in Bucharest.',
-      de: 'Preisgünstiges Hebeschiebe-System mit 28 mm thermischer Trennung und Tri-Fin-Bürsten. Uf ab 2,9 W/m²K, 38 dB, RC2. Montage in Bukarest.',
-      fr: 'Porte coulissante à rupture thermique 28 mm et brosses tri-fin. Uf dès 2,9 W/m²K, 38 dB, RC2. Menuiserie aluminium posée à Bucarest.',
-      es: 'Puerta corredera con barrera térmica de 28 mm y cepillos tri-fin. Uf desde 2,9 W/m²K, 38 dB, RC2. Carpintería de aluminio en Bucarest.',
-      it: 'Porta scorrevole con taglio termico 28 mm e spazzole tri-fin. Uf da 2,9 W/m²K, 38 dB, RC2. Infissi in alluminio posati a Bucarest.',
+      ro: 'Sistem glisant accesibil, cu poliamidă de 24 mm și perii tri-fin. Uf de la 2,4 W/m²K, 38 dB, canate de 180 kg. Uși glisante aluminiu montate în București.',
+      en: 'Affordable sliding system with 24 mm polyamide and tri-fin brushes. Uf from 2.4 W/m²K, 38 dB, 180 kg sashes. Aluminium sliding doors fitted in Bucharest.',
+      de: 'Preisgünstiges Schiebesystem mit 24 mm Polyamid und Tri-Fin-Bürsten. Uf ab 2,4 W/m²K, 38 dB, Flügel bis 180 kg. Montage in Bukarest.',
+      fr: 'Porte coulissante avec polyamide de 24 mm et brosses tri-fin. Uf dès 2,4 W/m²K, 38 dB, vantaux de 180 kg. Menuiserie aluminium posée à Bucarest.',
+      es: 'Puerta corredera con poliamida de 24 mm y cepillos tri-fin. Uf desde 2,4 W/m²K, 38 dB, hojas de 180 kg. Carpintería de aluminio en Bucarest.',
+      it: 'Porta scorrevole con poliammide da 24 mm e spazzole tri-fin. Uf da 2,4 W/m²K, 38 dB, ante da 180 kg. Infissi in alluminio posati a Bucarest.',
     },
   },
 
@@ -545,7 +545,7 @@ export const PRODUCT_URL = {
   'alumil-s77-supreme': { ro:'https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s77-supreme', en:'https://www.neofort-biz.ro/en/products-alu/alumil-s77-supreme-aluminium-system', de:'https://www.neofort-biz.ro/de/produkte-alu/alumil-s77-supreme-aluminiumsystem', fr:'https://www.neofort-biz.ro/fr/produits-alu/systeme-aluminium-alumil-s77-supreme', es:'https://www.neofort-biz.ro/es/productos-alu/sistema-aluminio-alumil-s77-supreme', it:'https://www.neofort-biz.ro/it/prodotti-alu/sistema-alluminio-alumil-s77-supreme' },
   'alumil-s67-smartia': { ro:'https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s67-smartia', en:'https://www.neofort-biz.ro/en/products-alu/alumil-s67-smartia-aluminium-system', de:'https://www.neofort-biz.ro/de/produkte-alu/alumil-s67-smartia-aluminiumsystem', fr:'https://www.neofort-biz.ro/fr/produits-alu/systeme-aluminium-alumil-s67-smartia', es:'https://www.neofort-biz.ro/es/productos-alu/sistema-aluminio-alumil-s67-smartia', it:'https://www.neofort-biz.ro/it/prodotti-alu/sistema-alluminio-alumil-s67-smartia' },
   'alumil-s700-supreme': { ro:'https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme', en:'https://www.neofort-biz.ro/en/products-alu/alumil-s700-supreme-lift-slide-system', de:'https://www.neofort-biz.ro/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem', fr:'https://www.neofort-biz.ro/fr/produits-alu/systeme-coulissant-alumil-s700-supreme', es:'https://www.neofort-biz.ro/es/productos-alu/sistema-corredera-alumil-s700-supreme', it:'https://www.neofort-biz.ro/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme' },
-  'alumil-s350-smartia': { ro:'https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia', en:'https://www.neofort-biz.ro/en/products-alu/alumil-s350-smartia-lift-slide-system', de:'https://www.neofort-biz.ro/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem', fr:'https://www.neofort-biz.ro/fr/produits-alu/systeme-coulissant-alumil-s350-smartia', es:'https://www.neofort-biz.ro/es/productos-alu/sistema-corredera-alumil-s350-smartia', it:'https://www.neofort-biz.ro/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia' },
+  'alumil-s350-smartia': { ro:'https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia', en:'https://www.neofort-biz.ro/en/products-alu/alumil-s350-smartia-sliding-system', de:'https://www.neofort-biz.ro/de/produkte-alu/alumil-s350-smartia-schiebesystem', fr:'https://www.neofort-biz.ro/fr/produits-alu/systeme-coulissant-alumil-s350-smartia', es:'https://www.neofort-biz.ro/es/productos-alu/sistema-corredera-alumil-s350-smartia', it:'https://www.neofort-biz.ro/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia' },
   'alumil-sf85-supreme': { ro:'https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme', en:'https://www.neofort-biz.ro/en/products-alu/alumil-sf85-supreme-folding-system', de:'https://www.neofort-biz.ro/de/produkte-alu/alumil-sf85-supreme-faltsystem', fr:'https://www.neofort-biz.ro/fr/produits-alu/systeme-pliant-alumil-sf85-supreme', es:'https://www.neofort-biz.ro/es/productos-alu/sistema-plegable-alumil-sf85-supreme', it:'https://www.neofort-biz.ro/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme' },
   'alumil-m19800-smartia': { ro:'https://www.neofort-biz.ro/ro/produse-aluminiu/sistem-aluminiu-alumil-m19800-smartia', en:'https://www.neofort-biz.ro/en/products-alu/alumil-m19800-smartia-folding-system', de:'https://www.neofort-biz.ro/de/produkte-alu/alumil-m19800-smartia-faltsystem', fr:'https://www.neofort-biz.ro/fr/produits-alu/systeme-pliant-alumil-m19800-smartia', es:'https://www.neofort-biz.ro/es/productos-alu/sistema-plegable-alumil-m19800-smartia', it:'https://www.neofort-biz.ro/it/prodotti-alu/sistema-pieghevole-alumil-m19800-smartia' },
 

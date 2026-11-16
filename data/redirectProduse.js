@@ -51,8 +51,8 @@ const MUTATE = {
   },
   'alumil-s350-smartia': {
     ro: ['/ro/produse/profil-aluminiu-alumil-s350-smartia', '/ro/produse-aluminiu/sistem-aluminiu-alumil-s350-smartia'],
-    en: ['/en/products/alumil-s350-smartia-lift-slide', '/en/products-alu/alumil-s350-smartia-lift-slide-system'],
-    de: ['/de/produkte/alumil-s350-smartia-hebeschiebe', '/de/produkte-alu/alumil-s350-smartia-hebeschiebesystem'],
+    en: ['/en/products/alumil-s350-smartia-lift-slide', '/en/products-alu/alumil-s350-smartia-sliding-system'],
+    de: ['/de/produkte/alumil-s350-smartia-hebeschiebe', '/de/produkte-alu/alumil-s350-smartia-schiebesystem'],
     fr: ['/fr/produits/profil-aluminium-alumil-s350-smartia', '/fr/produits-alu/systeme-coulissant-alumil-s350-smartia'],
     es: ['/es/productos/perfil-aluminio-alumil-s350-smartia', '/es/productos-alu/sistema-corredera-alumil-s350-smartia'],
     it: ['/it/prodotti/profilo-alluminio-alumil-s350-smartia', '/it/prodotti-alu/sistema-scorrevole-alumil-s350-smartia'],
