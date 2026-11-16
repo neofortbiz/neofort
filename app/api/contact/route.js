@@ -20,9 +20,13 @@ const resend = new Resend(process.env.RESEND_API_KEY);
 // (3) un IP nu poate trimite mai mult de MAX_PER_HOUR formulare pe ora.
 
 const MAX_PER_HOUR = 5;          // formulare / IP / ora
-const MAX_FILES = 5;             // atasamente per solicitare
-const MAX_FILE_BYTES = 5 * 1024 * 1024;    // 5 MB per fisier
-const MAX_TOTAL_BYTES = 15 * 1024 * 1024;  // 15 MB in total
+// v322: aliniate cu formularul (max 7) si cu limita platformei. Vercel respinge
+// orice cerere catre o functie peste 4,5 MB inainte sa ajunga aici, deci o
+// limita mai mare in cod era doar pe hartie. Formularul micsoreaza pozele si
+// trimite cel mult 4 MB; limitele de aici raman plasa de siguranta.
+const MAX_FILES = 7;                               // atasamente per solicitare
+const MAX_TOTAL_BYTES = Math.floor(4.5 * 1024 * 1024); // 4,5 MB in total
+const MAX_FILE_BYTES = MAX_TOTAL_BYTES;            // un fisier nu poate depasi totalul
 
 // Extensii acceptate: fotografii, schite si documente de deviz. Fara arhive
 // si fara executabile — atasamentele ajung in casuta oferte@, nu vrem sa fie
@@ -201,8 +205,8 @@ export async function POST(request) {
       const ext = (name.split('.').pop() || '').toLowerCase();
 
       if (!ALLOWED_EXT.has(ext)) { respinse.push(`${name} (tip neacceptat)`); continue; }
-      if (file.size > MAX_FILE_BYTES) { respinse.push(`${name} (peste 5 MB)`); continue; }
-      if (totalBytes + file.size > MAX_TOTAL_BYTES) { respinse.push(`${name} (depaseste totalul de 15 MB)`); continue; }
+      if (file.size > MAX_FILE_BYTES) { respinse.push(`${name} (peste 4,5 MB)`); continue; }
+      if (totalBytes + file.size > MAX_TOTAL_BYTES) { respinse.push(`${name} (depaseste totalul de 4,5 MB)`); continue; }
 
       const buffer = await file.arrayBuffer();
       totalBytes += file.size;

@@ -124,7 +124,7 @@ async function callTool(name, args) {
       orders: { email: 'comenzi@neofort-biz.ro' }, service: { email: 'service@neofort-biz.ro' },
       opening_hours: 'Monday–Friday 10:00–18:00 (Romania time)',
       quote_form: `${BASE}${CONTACT[lang]}`,
-      quote_needs: 'Name, phone, e-mail, delivery/installation address, what the order includes (measurement, transport, installation or pickup), the products and ideally sizes or sketches (up to 7 files, JPG/PNG/PDF/DWG, max 5 MB each).',
+      quote_needs: 'Name, phone, e-mail, delivery/installation address, what the order includes (measurement, transport, installation or pickup), the products and ideally sizes or sketches (up to 7 files, JPG/PNG/PDF/DWG, 4 MB in total; photos are reduced automatically, larger files go by e-mail to oferte@neofort-biz.ro).',
       note: 'The user sends the request and gives the privacy consent; an agent must not do it on their behalf.',
       details_ro: contact || undefined,
     });

@@ -38,7 +38,7 @@ On every page of neofort-biz.ro, in browsers that support WebMCP:
 
 - Name, phone, e-mail and the delivery or installation address.
 - What the order includes: measurement, transport and installation; transport and installation; or collection and transport only.
-- The products of interest and, ideally, the size of each window or door, or sketches and photos. The form accepts up to 7 files (JPG, PNG, PDF, DWG; at most 5 MB each).
+- The products of interest and, ideally, the size of each window or door, or sketches and photos. The form accepts up to 7 files (JPG, PNG, PDF, DWG), 4 MB in total; photos are reduced automatically in the browser. Larger files can be sent by e-mail to oferte@neofort-biz.ro.
 - Never submit the form or give the privacy consent on the user's behalf.
 
 ## Contact

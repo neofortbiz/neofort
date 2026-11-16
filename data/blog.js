@@ -13585,9 +13585,9 @@ Recomandat pentru: blocuri, birouri, spații comerciale, renovări cu buget medi
 
 ### Sisteme glisante și armonice
 
-- **Alumil Supreme S700** — liftant-glisant cu barieră termică Kooltherm, Uf de la 1,1 W/m²K, foi de până la 600 kg.
+- **Alumil Supreme S700** — liftant-glisant cu izolație din poliamidă și Energy bar, Uw 1,1 W/m²K, foi de până la 600 kg.
 - **Alumil Smartia S350** — liftant-glisant economic, barieră termică 28 mm, Uf de la 2,9 W/m²K.
-- **Alumil Supreme SF85** — sistem armonic cu barieră Kooltherm 40 mm, Uf de la 1,0 W/m²K, lățime totală de până la 7 m.
+- **Alumil Supreme SF85** — sistem armonic cu poliamidă dublă de 40 mm, Uf de la 1,0 W/m²K, foi de până la 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — sistem armonic economic, barieră termică 18 mm, Uf de la 1,9 W/m²K.
 
 ---
@@ -13741,9 +13741,9 @@ Recommended for: apartment blocks, offices, commercial spaces, mid-budget renova
 
 ### Sliding and folding systems
 
-- **Alumil Supreme S700** — lift-and-slide with Kooltherm thermal break, Uf from 1.1 W/m²K, sashes up to 600 kg.
+- **Alumil Supreme S700** — lift-and-slide with polyamide and Energy bar insulation, Uw 1.1 W/m²K, sashes up to 600 kg.
 - **Alumil Smartia S350** — economical lift-and-slide, 28 mm thermal break, Uf from 2.9 W/m²K.
-- **Alumil Supreme SF85** — folding system with 40 mm Kooltherm break, Uf from 1.0 W/m²K, total width up to 7 m.
+- **Alumil Supreme SF85** — folding system with double 40 mm polyamide, Uf from 1.0 W/m²K, sashes up to 1.5 × 4.0 m.
 - **Alumil Smartia M19800** — economical folding system, 18 mm thermal break, Uf from 1.9 W/m²K.
 
 ---
@@ -13899,9 +13899,9 @@ Empfohlen für: Wohnblöcke, Büros, Gewerbeflächen, Renovierungen mit mittlere
 
 ### Schiebe- und Faltsysteme
 
-- **Alumil Supreme S700** — Hebeschiebesystem mit Kooltherm-Trennung, Uf ab 1,1 W/m²K, Flügel bis 600 kg.
+- **Alumil Supreme S700** — Hebeschiebesystem mit Dämmung aus Polyamid und Energy Bar, Uw 1,1 W/m²K, Flügel bis 600 kg.
 - **Alumil Smartia S350** — preisgünstiges Hebeschiebesystem, 28 mm thermische Trennung, Uf ab 2,9 W/m²K.
-- **Alumil Supreme SF85** — Faltsystem mit 40 mm Kooltherm-Trennung, Uf ab 1,0 W/m²K, Gesamtbreite bis 7 m.
+- **Alumil Supreme SF85** — Faltsystem mit doppeltem 40-mm-Polyamid, Uf ab 1,0 W/m²K, Flügel bis 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — preisgünstiges Faltsystem, 18 mm thermische Trennung, Uf ab 1,9 W/m²K.
 
 ---
@@ -14057,9 +14057,9 @@ Recommandé pour : immeubles, bureaux, locaux commerciaux, rénovations à budge
 
 ### Systèmes coulissants et accordéon
 
-- **Alumil Supreme S700** — levant-coulissant avec rupture Kooltherm, Uf à partir de 1,1 W/m²K, vantaux jusqu'à 600 kg.
+- **Alumil Supreme S700** — levant-coulissant isolé en polyamide avec Energy bar, Uw 1,1 W/m²K, vantaux jusqu'à 600 kg.
 - **Alumil Smartia S350** — levant-coulissant économique, rupture thermique 28 mm, Uf à partir de 2,9 W/m²K.
-- **Alumil Supreme SF85** — système accordéon avec rupture Kooltherm 40 mm, Uf à partir de 1,0 W/m²K, largeur totale jusqu'à 7 m.
+- **Alumil Supreme SF85** — système accordéon en double polyamide de 40 mm, Uf à partir de 1,0 W/m²K, vantaux jusqu'à 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — système accordéon économique, rupture thermique 18 mm, Uf à partir de 1,9 W/m²K.
 
 ---
@@ -14212,9 +14212,9 @@ Recomendado para: bloques de viviendas, oficinas, locales comerciales, reformas 
 
 ### Sistemas correderos y plegables
 
-- **Alumil Supreme S700** — elevable-corredera con rotura Kooltherm, Uf desde 1,1 W/m²K, hojas de hasta 600 kg.
+- **Alumil Supreme S700** — elevable-corredera con aislamiento de poliamida y Energy bar, Uw 1,1 W/m²K, hojas de hasta 600 kg.
 - **Alumil Smartia S350** — elevable-corredera económica, rotura térmica de 28 mm, Uf desde 2,9 W/m²K.
-- **Alumil Supreme SF85** — sistema plegable con rotura Kooltherm de 40 mm, Uf desde 1,0 W/m²K, anchura total de hasta 7 m.
+- **Alumil Supreme SF85** — sistema plegable con doble poliamida de 40 mm, Uf desde 1,0 W/m²K, hojas de hasta 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — sistema plegable económico, rotura térmica de 18 mm, Uf desde 1,9 W/m²K.
 
 ---
@@ -14367,9 +14367,9 @@ Consigliato per: condomini, uffici, spazi commerciali, ristrutturazioni con budg
 
 ### Sistemi scorrevoli e a soffietto
 
-- **Alumil Supreme S700** — alzante-scorrevole con taglio Kooltherm, Uf da 1,1 W/m²K, ante fino a 600 kg.
+- **Alumil Supreme S700** — alzante-scorrevole con isolamento in poliammide ed Energy bar, Uw 1,1 W/m²K, ante fino a 600 kg.
 - **Alumil Smartia S350** — alzante-scorrevole economico, taglio termico da 28 mm, Uf da 2,9 W/m²K.
-- **Alumil Supreme SF85** — sistema a soffietto con taglio Kooltherm da 40 mm, Uf da 1,0 W/m²K, larghezza totale fino a 7 m.
+- **Alumil Supreme SF85** — sistema a soffietto in doppia poliammide da 40 mm, Uf da 1,0 W/m²K, ante fino a 1,5 × 4,0 m.
 - **Alumil Smartia M19800** — sistema a soffietto economico, taglio termico da 18 mm, Uf da 1,9 W/m²K.
 
 ---
@@ -22802,7 +22802,7 @@ Varianta cu colțuri rotunjite — cea mai populară pentru case rezidențiale c
 
 Pe terasele mari ale caselor individuale, ușa de balcon clasică nu mai este suficientă. Pentru terasă am ales sistemul liftant-glisant din aluminiu [Alumil S 700 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-s700-supreme), montat separat de ferestrele PVC:
 - Foi glisante de până la **600 kg**, cu prag aproape invizibil
-- Barieră termică Kooltherm, **Uw de la 1,1 W/m²K**
+- Izolație din poliamidă cu Energy bar, **Uw de la 1,1 W/m²K**
 - Motorizare integrată, comandată din același hub Somfy ca ferestrele
 
 ### Montaj nZEB cu precadre Blaugelb Triotherm+
@@ -22874,7 +22874,7 @@ BluEvolution 92 oferă izolare fonică până la 47 dB, asigurând liniște comp
 
 ### Ce sistem ați montat pe terasa casei din Berceni?
 
-Pe terasă am montat sistemul liftant-glisant din aluminiu Alumil S 700 SUPREME, separat de ferestrele PVC BluEvolution 92. Are foi de până la 600 kg, barieră termică Kooltherm și Uw de la 1,1 W/m²K, iar motorizarea lui e comandată din același hub Somfy TaHoma ca ferestrele.
+Pe terasă am montat sistemul liftant-glisant din aluminiu Alumil S 700 SUPREME, separat de ferestrele PVC BluEvolution 92. Are foi de până la 600 kg, izolație din poliamidă cu Energy bar și Uw de la 1,1 W/m²K, iar motorizarea lui e comandată din același hub Somfy TaHoma ca ferestrele.
 
 
 ---
@@ -22930,7 +22930,7 @@ The version with rounded edges — the most popular for residential houses with 
 
 On the large terraces of detached houses, a classic balcony door is no longer enough. For the terrace we chose the [Alumil S 700 SUPREME](/en/products-alu/alumil-s700-supreme-lift-slide-system) aluminium lift-and-slide system, installed separately from the PVC windows:
 - Sliding sashes of up to **600 kg**, with an almost invisible threshold
-- Kooltherm thermal break, **Uw from 1.1 W/m²K**
+- Polyamide insulation with Energy bar, **Uw from 1.1 W/m²K**
 - Integrated motorisation, controlled from the same Somfy hub as the windows
 
 ### nZEB installation with Blaugelb Triotherm+ pre-frames
@@ -23002,7 +23002,7 @@ BluEvolution 92 offers sound insulation of up to 47 dB, ensuring complete quiet 
 
 ### Which system did you install on the terrace of the Berceni house?
 
-On the terrace we installed the Alumil S 700 SUPREME aluminium lift-and-slide system, separate from the BluEvolution 92 PVC windows. It has sashes of up to 600 kg, a Kooltherm thermal break and Uw from 1.1 W/m²K, and its motorisation is controlled from the same Somfy TaHoma hub as the windows.
+On the terrace we installed the Alumil S 700 SUPREME aluminium lift-and-slide system, separate from the BluEvolution 92 PVC windows. It has sashes of up to 600 kg, polyamide insulation with Energy bar and Uw from 1.1 W/m²K, and its motorisation is controlled from the same Somfy TaHoma hub as the windows.
 
 
 ---
@@ -23058,7 +23058,7 @@ Die Variante mit abgerundeten Kanten — die beliebteste für Wohnhäuser mit mo
 
 Auf den großen Terrassen von Einfamilienhäusern reicht die klassische Balkontür nicht mehr aus. Für die Terrasse haben wir die Aluminium-Hebeschiebeanlage [Alumil S 700 SUPREME](/de/produkte-alu/alumil-s700-supreme-hebeschiebesystem) gewählt, getrennt von den Kunststofffenstern montiert:
 - Schiebeflügel bis **600 kg**, mit fast unsichtbarer Schwelle
-- Thermische Trennung Kooltherm, **Uw ab 1,1 W/m²K**
+- Dämmung aus Polyamid mit Energy Bar, **Uw ab 1,1 W/m²K**
 - Integrierte Motorisierung, gesteuert über denselben Somfy-Hub wie die Fenster
 
 ### nZEB-Montage mit dem Vorwandmontagesystem Blaugelb Triotherm+
@@ -23130,7 +23130,7 @@ BluEvolution 92 bietet eine Schalldämmung bis 47 dB und sorgt so selbst an eine
 
 ### Welches System haben Sie auf der Terrasse des Hauses in Berceni eingebaut?
 
-Auf der Terrasse haben wir die Aluminium-Hebeschiebeanlage Alumil S 700 SUPREME eingebaut, getrennt von den Kunststofffenstern BluEvolution 92. Sie hat Flügel bis 600 kg, eine thermische Trennung Kooltherm und Uw ab 1,1 W/m²K; ihre Motorisierung wird über denselben Somfy-TaHoma-Hub gesteuert wie die Fenster.
+Auf der Terrasse haben wir die Aluminium-Hebeschiebeanlage Alumil S 700 SUPREME eingebaut, getrennt von den Kunststofffenstern BluEvolution 92. Sie hat Flügel bis 600 kg, eine Dämmung aus Polyamid mit Energy Bar und Uw ab 1,1 W/m²K; ihre Motorisierung wird über denselben Somfy-TaHoma-Hub gesteuert wie die Fenster.
 
 
 ---
@@ -23186,7 +23186,7 @@ La version aux angles arrondis — la plus prisée pour les maisons à l’archi
 
 Sur les grandes terrasses des maisons individuelles, la porte-fenêtre classique ne suffit plus. Pour la terrasse, nous avons choisi le système à levage-coulissement en aluminium [Alumil S 700 SUPREME](/fr/produits-alu/systeme-coulissant-alumil-s700-supreme), posé séparément des fenêtres PVC :
 - Vantaux coulissants jusqu’à **600 kg**, avec un seuil presque invisible
-- Rupture thermique Kooltherm, **Uw à partir de 1,1 W/m²K**
+- Isolation en polyamide avec Energy bar, **Uw à partir de 1,1 W/m²K**
 - Motorisation intégrée, pilotée depuis la même box Somfy que les fenêtres
 
 ### Pose nZEB avec précadres Blaugelb Triotherm+
@@ -23258,7 +23258,7 @@ Le BluEvolution 92 offre une isolation acoustique jusqu’à 47 dB, garantissant
 
 ### Quel système avez-vous posé sur la terrasse de la maison de Berceni ?
 
-Sur la terrasse, nous avons posé le système à levage-coulissement en aluminium Alumil S 700 SUPREME, séparé des fenêtres PVC BluEvolution 92. Il a des vantaux jusqu’à 600 kg, une rupture thermique Kooltherm et un Uw à partir de 1,1 W/m²K, et sa motorisation est pilotée depuis la même box Somfy TaHoma que les fenêtres.
+Sur la terrasse, nous avons posé le système à levage-coulissement en aluminium Alumil S 700 SUPREME, séparé des fenêtres PVC BluEvolution 92. Il a des vantaux jusqu’à 600 kg, une isolation en polyamide avec Energy bar et un Uw à partir de 1,1 W/m²K, et sa motorisation est pilotée depuis la même box Somfy TaHoma que les fenêtres.
 
 
 ---
@@ -23314,7 +23314,7 @@ La versión de cantos redondeados, la más popular en viviendas de arquitectura 
 
 En las grandes terrazas de las casas unifamiliares, la puerta de balcón clásica ya no basta. Para la terraza elegimos el sistema de corredera elevable de aluminio [Alumil S 700 SUPREME](/es/productos-alu/sistema-corredera-alumil-s700-supreme), montado por separado de las ventanas de PVC:
 - Hojas correderas de hasta **600 kg**, con un umbral casi invisible
-- Rotura de puente térmico Kooltherm, **Uw desde 1,1 W/m²K**
+- Aislamiento de poliamida con Energy bar, **Uw desde 1,1 W/m²K**
 - Motorización integrada, controlada desde el mismo hub Somfy que las ventanas
 
 ### Instalación nZEB con premarcos Blaugelb Triotherm+
@@ -23386,7 +23386,7 @@ BluEvolution 92 ofrece un aislamiento acústico de hasta 47 dB, que garantiza si
 
 ### ¿Qué sistema montaron en la terraza de la casa de Berceni?
 
-En la terraza montamos el sistema de corredera elevable de aluminio Alumil S 700 SUPREME, separado de las ventanas de PVC BluEvolution 92. Tiene hojas de hasta 600 kg, rotura de puente térmico Kooltherm y un Uw desde 1,1 W/m²K, y su motorización se controla desde el mismo hub Somfy TaHoma que las ventanas.
+En la terraza montamos el sistema de corredera elevable de aluminio Alumil S 700 SUPREME, separado de las ventanas de PVC BluEvolution 92. Tiene hojas de hasta 600 kg, aislamiento de poliamida con Energy bar y un Uw desde 1,1 W/m²K, y su motorización se controla desde el mismo hub Somfy TaHoma que las ventanas.
 
 
 ---
@@ -23442,7 +23442,7 @@ La variante con spigoli arrotondati, la più richiesta per le case dall’archit
 
 Sulle grandi terrazze delle case unifamiliari la classica porta-finestra non basta più. Per la terrazza abbiamo scelto l’alzante scorrevole in alluminio [Alumil S 700 SUPREME](/it/prodotti-alu/sistema-scorrevole-alumil-s700-supreme), montato separatamente dalle finestre in PVC:
 - Ante scorrevoli fino a **600 kg**, con soglia quasi invisibile
-- Taglio termico Kooltherm, **Uw da 1,1 W/m²K**
+- Isolamento in poliammide con Energy bar, **Uw da 1,1 W/m²K**
 - Motorizzazione integrata, comandata dallo stesso hub Somfy delle finestre
 
 ### Posa nZEB con controtelai Blaugelb Triotherm+
@@ -23514,7 +23514,7 @@ BluEvolution 92 offre un isolamento acustico fino a 47 dB, garantendo silenzio t
 
 ### Quale sistema avete montato sulla terrazza della casa di Berceni?
 
-Sulla terrazza abbiamo montato l’alzante scorrevole in alluminio Alumil S 700 SUPREME, separato dalle finestre in PVC BluEvolution 92. Ha ante fino a 600 kg, taglio termico Kooltherm e Uw da 1,1 W/m²K, e la sua motorizzazione è comandata dallo stesso hub Somfy TaHoma delle finestre.
+Sulla terrazza abbiamo montato l’alzante scorrevole in alluminio Alumil S 700 SUPREME, separato dalle finestre in PVC BluEvolution 92. Ha ante fino a 600 kg, isolamento in poliammide con Energy bar e Uw da 1,1 W/m²K, e la sua motorizzazione è comandata dallo stesso hub Somfy TaHoma delle finestre.
 
 
 ---
@@ -32094,7 +32094,7 @@ Cea mai frecventă întrebare de la clienții din București și Ilfov care reno
 | Criteriu | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
 | **Izolare termică Uw** | de la 0,71 W/m²K (tripan) | de la 1,0 W/m²K |
-| **Risc de condens pe profil** | Foarte mic — PVC-ul conduce slab căldura | Mic — barieră termică Kooltherm |
+| **Risc de condens pe profil** | Foarte mic — PVC-ul conduce slab căldura | Mic — barieră termică din poliamidă |
 | **Cost cu montaj (gol 2,4 × 2,2 m)** | 1.900–2.800 EUR | 2.900–4.000 EUR |
 | **Greutate maximă canat** | 200 kg | 500 kg |
 | **Dimensiuni** | Toc de până la 4,0 × 2,6 m | Foi mari, pentru deschideri panoramice |
@@ -32138,15 +32138,15 @@ Principiul armonicii: foile sunt suspendate pe o șină superioară și **se pli
 | Tip sistem | **Armonic (pliant), suspendat pe șina superioară** |
 | Barieră termică | **18 mm, din poliamidă** |
 | Adâncime constructivă | **50 mm** |
-| Foi per sistem | **2–6** |
-| Lățime maximă totală | **5.000 mm** |
+| Tipologii | **7 configurații** |
+| Etanșeitate apă | **clasa 4A** |
 | Dimensiuni maxime foaie | **1,0 m lățime × 2,5 m înălțime** |
 | Greutate maximă foaie | **80 kg** |
 | Geam acceptat | **24–32 mm** |
 | Coeficient Uf | **de la 1,9 W/m²K** |
-| Coeficient Uw | **de la 1,7 W/m²K** |
-| Izolare fonică | **până la 36 dB** |
-| Antiefracție | **certificat PAS24** |
+| Permeabilitate aer | **clasa 3** |
+| Rezistență la vânt | **C1/B1 (ift)** |
+| Închidere | **zăvoare duble** |
 | Garnituri | **2 garnituri EPDM** |
 | Culori | **Culori RAL și finisaje imitație lemn** |
 
@@ -32164,17 +32164,17 @@ Foile sunt legate între ele prin balamale și se pliază una după alta într-u
 
 Aluminiul conduce căldura de câteva sute de ori mai bine decât poliamida (circa 160 W/mK, față de circa 0,25 W/mK). Un profil fără barieră termică transferă frigul din exterior direct în interior, iar la temperaturi sub 0°C apare condens vizibil pe profil. Bariera din poliamidă de 18 mm a lui M 19800 întrerupe acest drum.
 
-Rezultatul practic: M 19800 are Uw de la 1,7 W/m²K, suficient pentru o terasă folosită tot anul. Nu este însă sistemul pentru o casă nZEB. Acolo recomandăm [Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme), cu Uw de la 1,0 W/m²K, sau o culisantă ca evolutionDrive Plus+.
+Rezultatul practic: M 19800 are Uf de 1,9 W/m²K, suficient pentru o terasă folosită tot anul. Nu este însă sistemul pentru o casă nZEB. Acolo recomandăm [Alumil SF 85 SUPREME](/ro/produse-aluminiu/sistem-aluminiu-alumil-sf85-supreme), cu Uw de la 1,0 W/m²K, sau o culisantă ca evolutionDrive Plus+.
 
 ---
 
 ### M 19800 vs alte sisteme armonice — ce nu ți se spune
 
-**M 19800 SMARTIA vs SF 85 SUPREME:** ambele sunt armonice Alumil certificate PAS24. SF 85 este varianta premium: adâncime de 85 mm, barieră Kooltherm de 40 mm, 2–8 foi pe până la 7.000 mm, geam de până la 58 mm și Uw de la 1,0 W/m²K. M 19800 costă mai puțin și acoperă majoritatea teraselor de până la 5,0 m.
+**M 19800 SMARTIA vs SF 85 SUPREME:** ambele sunt armonice Alumil. SF 85 este varianta premium: foaie de 85 mm, barieră din poliamidă dublă de 40 mm cu Energy bar, foi de până la 1,5 × 4,0 m și 200 kg, geam de 20–53 mm, Uw de la 1,0 W/m²K, clasa RC2 și certificare PAS24. M 19800 costă mai puțin și se potrivește teraselor cu foi de până la 1,0 × 2,5 m.
 
 **M 19800 vs armonicele fără barieră termică:** pentru vilele din București și Ilfov folosite tot anul, varianta fără barieră termică nu e recomandată — iarna face condens pe profil.
 
-**Lățimea maximă contează:** M 19800 acoperă cel mult 5,0 m, cu foi de cel mult 1,0 m. Pentru goluri mai mari sau pentru colțuri care se deschid pe două fațade, sistemul potrivit este SF 85 SUPREME.
+**Dimensiunea foii contează:** foile M 19800 au cel mult 1,0 × 2,5 m și 80 kg. Pentru goluri mai înalte sau pentru colțuri care se deschid pe două fațade, sistemul potrivit este SF 85 SUPREME.
 
 ---
 
@@ -32185,7 +32185,7 @@ Este o combinație pe care o cer des clienții Neofort BIZ cu vile în Bucureșt
 | | evolutionDrive Plus+ PVC | M 19800 SMARTIA aluminiu |
 |---|---|---|
 | **Rol în proiect** | Acces zilnic living–terasă | Deschidere totală pentru evenimente și vară |
-| **Izolare termică** | Uw de la 0,71 W/m²K | Uw de la 1,7 W/m²K |
+| **Izolare termică** | Uw de la 0,71 W/m²K | Uf 1,9 W/m²K (profil) |
 | **Deschiderea golului** | Parțială — circa 50% | Totală — 100% |
 | **Cost relativ** | Mai accesibil | Mai scump pe m² |
 | **Compatibil nZEB** | ✅ Da | Nu — pentru nZEB, SF 85 SUPREME |
@@ -32230,7 +32230,7 @@ La recepție: certificat de garanție pe produs și manoperă, proces-verbal cu 
 | evolutionDrive Plus+ | 2 canaturi, 2,4 m × 2,2 m, alb/antracit | **1.900–2.800 EUR** |
 | evolutionDrive Plus+ | gol 3,6 m × 2,2 m | **3.000–4.200 EUR** |
 | M 19800 SMARTIA | gol 4,8 m × 2,4 m | **3.200–4.600 EUR** |
-| M 19800 SMARTIA | gol 5,0 m × 2,4 m (lățimea maximă) | **3.400–4.800 EUR** |
+| M 19800 SMARTIA | gol 5,0 m × 2,4 m | **3.400–4.800 EUR** |
 | **Pachet combinat** | evolutionDrive Plus+ 2,4 m + M 19800 4,8 m | **5.100–7.400 EUR** |
 
 *Prețurile sunt fără TVA (21%) și includ producția, transportul și montajul în București și Ilfov. Prețul final depinde de culoare, geam, opțiuni (plasă plissé, culori speciale) și de specificul șantierului.*
@@ -32243,7 +32243,7 @@ La recepție: certificat de garanție pe produs și manoperă, proces-verbal cu 
 Da — din gama de folii decor Salamander, inclusiv imitații de lemn, antracit și nuanțe de gri. Cele două fețe pot avea culori diferite.
 
 ### Ce lățime poate acoperi armonica M 19800?
-Până la 5,0 m, cu 2–6 foi de cel mult 1,0 m lățime și 2,5 m înălțime fiecare. Pentru goluri mai mari recomandăm Alumil SF 85 SUPREME, care ajunge la 7,0 m.
+Lățimea totală depinde de numărul de foi din proiect; fiecare foaie are cel mult 1,0 m lățime, 2,5 m înălțime și 80 kg, iar Alumil oferă 7 tipologii. Pentru goluri mai înalte sau foi mai mari recomandăm Alumil SF 85 SUPREME, cu foi de până la 1,5 × 4,0 m.
 
 ### Cât durează producția și montajul?
 Producția: 3–4 săptămâni de la semnarea comenzii. Montajul: 1 zi pentru evolutionDrive Plus+ și 1–2 zile pentru M 19800.
@@ -32313,7 +32313,7 @@ The most frequent question from clients in Bucharest and Ilfov who are renovatin
 | Criterion | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
 | **Thermal insulation Uw** | from 0.71 W/m²K (triple) | from 1.0 W/m²K |
-| **Risk of condensation on the profile** | Very low — PVC conducts heat poorly | Low — Kooltherm thermal break |
+| **Risk of condensation on the profile** | Very low — PVC conducts heat poorly | Low — polyamide thermal break |
 | **Cost with installation (2.4 × 2.2 m opening)** | 1,900–2,800 EUR | 2,900–4,000 EUR |
 | **Maximum sash weight** | 200 kg | 500 kg |
 | **Dimensions** | Frame up to 4.0 × 2.6 m | Large panels, for panoramic openings |
@@ -32357,15 +32357,15 @@ The folding principle: the panels hang from a top track and **fold into a compac
 | System type | **Folding, top-hung on the upper track** |
 | Thermal break | **18 mm, polyamide** |
 | Construction depth | **50 mm** |
-| Panels per system | **2–6** |
-| Maximum total width | **5,000 mm** |
+| Layouts | **7 configurations** |
+| Water tightness | **class 4A** |
 | Maximum panel size | **1.0 m wide × 2.5 m high** |
 | Maximum panel weight | **80 kg** |
 | Glazing accepted | **24–32 mm** |
 | Uf coefficient | **from 1.9 W/m²K** |
-| Uw coefficient | **from 1.7 W/m²K** |
-| Sound insulation | **up to 36 dB** |
-| Burglar resistance | **PAS24 certified** |
+| Air permeability | **class 3** |
+| Wind resistance | **C1/B1 (ift)** |
+| Locking | **double latches** |
 | Gaskets | **2 EPDM gaskets** |
 | Colours | **RAL colours and wood-effect finishes** |
 
@@ -32383,17 +32383,17 @@ The panels are linked by hinges and fold one after another into a compact stack.
 
 Aluminium conducts heat several hundred times better than polyamide (about 160 W/mK, compared with about 0.25 W/mK). A profile without a thermal break carries the cold from outside straight inside, and below 0°C visible condensation forms on the profile. The 18 mm polyamide break in M 19800 interrupts that path.
 
-The practical result: M 19800 has a Uw from 1.7 W/m²K, enough for a terrace used all year round. It is not, however, the system for an nZEB house. There we recommend the [Alumil SF 85 SUPREME](/en/products-alu/alumil-sf85-supreme-folding-system), with a Uw from 1.0 W/m²K, or a sliding door such as evolutionDrive Plus+.
+The practical result: M 19800 has a Uf of 1.9 W/m²K, enough for a terrace used all year round. It is not, however, the system for an nZEB house. There we recommend the [Alumil SF 85 SUPREME](/en/products-alu/alumil-sf85-supreme-folding-system), with a Uw from 1.0 W/m²K, or a sliding door such as evolutionDrive Plus+.
 
 ---
 
 ### M 19800 vs other folding systems — what nobody tells you
 
-**M 19800 SMARTIA vs SF 85 SUPREME:** both are PAS24-certified Alumil folding systems. SF 85 is the premium option: 85 mm depth, a 40 mm Kooltherm break, 2–8 panels over up to 7,000 mm, glazing up to 58 mm and a Uw from 1.0 W/m²K. M 19800 costs less and covers most terraces up to 5.0 m.
+**M 19800 SMARTIA vs SF 85 SUPREME:** both are Alumil folding systems. SF 85 is the premium option: 85 mm sashes, a double 40 mm polyamide thermal break with Energy bar, sashes up to 1.5 × 4.0 m and 200 kg, glazing of 20–53 mm, a Uw from 1.0 W/m²K, class RC2 and PAS24 certification. M 19800 costs less and suits terraces with sashes of up to 1.0 × 2.5 m.
 
 **M 19800 vs folding doors without a thermal break:** for villas in Bucharest and Ilfov used all year round, the version without a thermal break is not recommended — in winter it causes condensation on the profile.
 
-**The maximum width matters:** M 19800 covers at most 5.0 m, with panels of at most 1.0 m. For larger openings or for corners that open onto two facades, the right system is SF 85 SUPREME.
+**Sash size matters:** M 19800 sashes are at most 1.0 × 2.5 m and 80 kg. For taller openings or for corners that open onto two facades, the right system is SF 85 SUPREME.
 
 ---
 
@@ -32404,7 +32404,7 @@ It is a combination Neofort BIZ clients with villas in Bucharest and Ilfov often
 | | evolutionDrive Plus+ PVC | M 19800 SMARTIA aluminium |
 |---|---|---|
 | **Role in the project** | Daily living-room–terrace access | Full opening for events and summer |
-| **Thermal insulation** | Uw from 0.71 W/m²K | Uw from 1.7 W/m²K |
+| **Thermal insulation** | Uw from 0.71 W/m²K | Uf 1.9 W/m²K (profile) |
 | **Opening of the gap** | Partial — about 50% | Full — 100% |
 | **Relative cost** | More affordable | More expensive per m² |
 | **nZEB compatible** | ✅ Yes | No — for nZEB, SF 85 SUPREME |
@@ -32449,7 +32449,7 @@ At handover: a warranty certificate for product and labour, a report with the pa
 | evolutionDrive Plus+ | 2 sashes, 2.4 m × 2.2 m, white/anthracite | **1,900–2,800 EUR** |
 | evolutionDrive Plus+ | 3.6 m × 2.2 m opening | **3,000–4,200 EUR** |
 | M 19800 SMARTIA | 4.8 m × 2.4 m opening | **3,200–4,600 EUR** |
-| M 19800 SMARTIA | 5.0 m × 2.4 m opening (maximum width) | **3,400–4,800 EUR** |
+| M 19800 SMARTIA | 5.0 m × 2.4 m opening | **3,400–4,800 EUR** |
 | **Combined package** | evolutionDrive Plus+ 2.4 m + M 19800 4.8 m | **5,100–7,400 EUR** |
 
 *Prices exclude VAT (21%) and include production, transport and installation in Bucharest and Ilfov. The final price depends on the colour, the glazing, options (plissé screen, special colours) and the specifics of the site.*
@@ -32462,7 +32462,7 @@ At handover: a warranty certificate for product and labour, a report with the pa
 Yes — from the Salamander decor foil range, including wood effects, anthracite and shades of grey. The two faces can be in different colours.
 
 ### How wide an opening can the M 19800 folding door cover?
-Up to 5.0 m, with 2–6 panels each at most 1.0 m wide and 2.5 m high. For larger openings we recommend the Alumil SF 85 SUPREME, which reaches 7.0 m.
+The total width depends on the number of sashes in the project; each sash is at most 1.0 m wide, 2.5 m high and 80 kg, and Alumil offers 7 layouts. For taller openings or larger sashes we recommend the Alumil SF 85 SUPREME, with sashes up to 1.5 × 4.0 m.
 
 ### How long do production and installation take?
 Production: 3–4 weeks from signing the order. Installation: 1 day for evolutionDrive Plus+ and 1–2 days for M 19800.
@@ -32532,7 +32532,7 @@ Die häufigste Frage unserer Kunden in Bukarest und Ilfov, die eine Villa renovi
 | Kriterium | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
 | **Wärmedämmung Uw** | ab 0,71 W/m²K (Dreifach) | ab 1,0 W/m²K |
-| **Kondensatrisiko am Profil** | Sehr gering — PVC leitet Wärme schlecht | Gering — thermische Trennung Kooltherm |
+| **Kondensatrisiko am Profil** | Sehr gering — PVC leitet Wärme schlecht | Gering — thermische Trennung aus Polyamid |
 | **Kosten mit Montage (Öffnung 2,4 × 2,2 m)** | 1.900–2.800 EUR | 2.900–4.000 EUR |
 | **Max. Flügelgewicht** | 200 kg | 500 kg |
 | **Abmessungen** | Rahmen bis 4,0 × 2,6 m | Große Flügel für Panoramaöffnungen |
@@ -32576,15 +32576,15 @@ Das Faltprinzip: Die Flügel hängen an einer oberen Laufschiene und **falten si
 | Systemart | **Faltsystem, oben hängend an der Laufschiene** |
 | Thermische Trennung | **18 mm, aus Polyamid** |
 | Bautiefe | **50 mm** |
-| Flügel pro System | **2–6** |
-| Max. Gesamtbreite | **5.000 mm** |
+| Typologien | **7 Varianten** |
+| Schlagregendichtheit | **Klasse 4A** |
 | Max. Flügelgröße | **1,0 m breit × 2,5 m hoch** |
 | Max. Flügelgewicht | **80 kg** |
 | Verglasung | **24–32 mm** |
 | Uf-Wert | **ab 1,9 W/m²K** |
-| Uw-Wert | **ab 1,7 W/m²K** |
-| Schalldämmung | **bis 36 dB** |
-| Einbruchhemmung | **PAS24-zertifiziert** |
+| Luftdurchlässigkeit | **Klasse 3** |
+| Windlast | **C1/B1 (ift)** |
+| Verriegelung | **doppelte Riegel** |
 | Dichtungen | **2 EPDM-Dichtungen** |
 | Farben | **RAL-Farben und Holzdekore** |
 
@@ -32602,17 +32602,17 @@ Die Flügel sind mit Scharnieren verbunden und falten sich nacheinander zu einem
 
 Aluminium leitet Wärme mehrere Hundert Mal besser als Polyamid (etwa 160 W/mK gegenüber etwa 0,25 W/mK). Ein Profil ohne thermische Trennung leitet die Kälte von außen direkt nach innen, und unter 0 °C bildet sich sichtbares Kondensat am Profil. Die 18-mm-Polyamidtrennung von M 19800 unterbricht diesen Weg.
 
-Das Ergebnis in der Praxis: M 19800 hat einen Uw-Wert ab 1,7 W/m²K, genug für eine ganzjährig genutzte Terrasse. Für ein nZEB-Haus ist es jedoch nicht das richtige System. Dort empfehlen wir die [Alumil SF 85 SUPREME](/de/produkte-alu/alumil-sf85-supreme-faltsystem) mit Uw ab 1,0 W/m²K oder eine Schiebetür wie evolutionDrive Plus+.
+Das Ergebnis in der Praxis: M 19800 hat einen Uf-Wert von 1,9 W/m²K, genug für eine ganzjährig genutzte Terrasse. Für ein nZEB-Haus ist es jedoch nicht das richtige System. Dort empfehlen wir die [Alumil SF 85 SUPREME](/de/produkte-alu/alumil-sf85-supreme-faltsystem) mit Uw ab 1,0 W/m²K oder eine Schiebetür wie evolutionDrive Plus+.
 
 ---
 
 ### M 19800 vs. andere Faltsysteme — was man Ihnen nicht sagt
 
-**M 19800 SMARTIA vs. SF 85 SUPREME:** Beide sind PAS24-zertifizierte Faltsysteme von Alumil. SF 85 ist die Premiumvariante: 85 mm Bautiefe, 40 mm Kooltherm-Trennung, 2–8 Flügel auf bis zu 7.000 mm, Verglasung bis 58 mm und Uw ab 1,0 W/m²K. M 19800 kostet weniger und deckt die meisten Terrassen bis 5,0 m ab.
+**M 19800 SMARTIA vs. SF 85 SUPREME:** Beide sind Faltsysteme von Alumil. SF 85 ist die Premiumvariante: 85-mm-Flügel, thermische Trennung aus doppeltem 40-mm-Polyamid mit Energy Bar, Flügel bis 1,5 × 4,0 m und 200 kg, Verglasung von 20–53 mm, Uw ab 1,0 W/m²K, Widerstandsklasse RC2 und PAS24-Zertifizierung. M 19800 kostet weniger und passt zu Terrassen mit Flügeln bis 1,0 × 2,5 m.
 
 **M 19800 vs. Falttüren ohne thermische Trennung:** Für ganzjährig genutzte Villen in Bukarest und Ilfov ist die Variante ohne thermische Trennung nicht zu empfehlen — im Winter bildet sich Kondensat am Profil.
 
-**Die maximale Breite zählt:** M 19800 deckt höchstens 5,0 m ab, mit Flügeln von höchstens 1,0 m. Für größere Öffnungen oder Ecken, die sich zu zwei Fassaden öffnen, ist SF 85 SUPREME das richtige System.
+**Die Flügelgröße zählt:** Die Flügel des M 19800 messen höchstens 1,0 × 2,5 m bei 80 kg. Für höhere Öffnungen oder Ecken, die sich zu zwei Fassaden öffnen, ist SF 85 SUPREME das richtige System.
 
 ---
 
@@ -32623,7 +32623,7 @@ Diese Kombination wünschen sich Kunden von Neofort BIZ mit Villen in Bukarest u
 | | evolutionDrive Plus+ PVC | M 19800 SMARTIA Aluminium |
 |---|---|---|
 | **Rolle im Projekt** | Täglicher Zugang Wohnzimmer–Terrasse | Vollständige Öffnung für Feste und Sommer |
-| **Wärmedämmung** | Uw ab 0,71 W/m²K | Uw ab 1,7 W/m²K |
+| **Wärmedämmung** | Uw ab 0,71 W/m²K | Uf 1,9 W/m²K (Profil) |
 | **Öffnung der Wand** | Teilweise — etwa 50 % | Vollständig — 100 % |
 | **Relative Kosten** | Günstiger | Teurer pro m² |
 | **nZEB-tauglich** | ✅ Ja | Nein — für nZEB SF 85 SUPREME |
@@ -32668,7 +32668,7 @@ Bei der Abnahme: Garantiezertifikat für Produkt und Montage, Protokoll mit den 
 | evolutionDrive Plus+ | 2 Flügel, 2,4 m × 2,2 m, weiß/anthrazit | **1.900–2.800 EUR** |
 | evolutionDrive Plus+ | Öffnung 3,6 m × 2,2 m | **3.000–4.200 EUR** |
 | M 19800 SMARTIA | Öffnung 4,8 m × 2,4 m | **3.200–4.600 EUR** |
-| M 19800 SMARTIA | Öffnung 5,0 m × 2,4 m (maximale Breite) | **3.400–4.800 EUR** |
+| M 19800 SMARTIA | Öffnung 5,0 m × 2,4 m | **3.400–4.800 EUR** |
 | **Kombipaket** | evolutionDrive Plus+ 2,4 m + M 19800 4,8 m | **5.100–7.400 EUR** |
 
 *Die Preise verstehen sich ohne MwSt. (21 %) und beinhalten Fertigung, Transport und Montage in Bukarest und Ilfov. Der Endpreis hängt von Farbe, Verglasung, Optionen (Plissee, Sonderfarben) und den Gegebenheiten der Baustelle ab.*
@@ -32681,7 +32681,7 @@ Bei der Abnahme: Garantiezertifikat für Produkt und Montage, Protokoll mit den 
 Ja — aus dem Salamander-Dekorfolienprogramm, einschließlich Holzdekoren, Anthrazit und Grautönen. Die beiden Seiten können unterschiedliche Farben haben.
 
 ### Wie breit kann die Falttür M 19800 sein?
-Bis zu 5,0 m, mit 2–6 Flügeln von jeweils höchstens 1,0 m Breite und 2,5 m Höhe. Für größere Öffnungen empfehlen wir die Alumil SF 85 SUPREME, die bis 7,0 m reicht.
+Die Gesamtbreite hängt von der Flügelzahl im Projekt ab; jeder Flügel ist höchstens 1,0 m breit, 2,5 m hoch und 80 kg schwer, Alumil bietet 7 Typologien. Für höhere Öffnungen oder größere Flügel empfehlen wir die Alumil SF 85 SUPREME mit Flügeln bis 1,5 × 4,0 m.
 
 ### Wie lange dauern Fertigung und Montage?
 Fertigung: 3–4 Wochen ab Auftragsunterzeichnung. Montage: 1 Tag für evolutionDrive Plus+ und 1–2 Tage für M 19800.
@@ -32751,7 +32751,7 @@ La question que nous posent le plus souvent nos clients de Bucarest et de l’Il
 | Critère | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
 | **Isolation thermique Uw** | à partir de 0,71 W/m²K (triple) | à partir de 1,0 W/m²K |
-| **Risque de condensation sur le profilé** | Très faible — le PVC conduit mal la chaleur | Faible — rupture thermique Kooltherm |
+| **Risque de condensation sur le profilé** | Très faible — le PVC conduit mal la chaleur | Faible — rupture thermique en polyamide |
 | **Coût pose comprise (ouverture 2,4 × 2,2 m)** | 1 900–2 800 EUR | 2 900–4 000 EUR |
 | **Poids maximal du vantail** | 200 kg | 500 kg |
 | **Dimensions** | Dormant jusqu’à 4,0 × 2,6 m | Grands vantaux, pour baies panoramiques |
@@ -32795,15 +32795,15 @@ Le principe de l’accordéon : les vantaux sont suspendus à un rail supérieur
 | Type de système | **Accordéon, suspendu au rail supérieur** |
 | Rupture thermique | **18 mm, en polyamide** |
 | Profondeur de construction | **50 mm** |
-| Vantaux par système | **2 à 6** |
-| Largeur totale maximale | **5 000 mm** |
+| Typologies | **7 configurations** |
+| Étanchéité à l’eau | **classe 4A** |
 | Dimensions maximales du vantail | **1,0 m de large × 2,5 m de haut** |
 | Poids maximal du vantail | **80 kg** |
 | Vitrage accepté | **24 à 32 mm** |
 | Coefficient Uf | **à partir de 1,9 W/m²K** |
-| Coefficient Uw | **à partir de 1,7 W/m²K** |
-| Isolation acoustique | **jusqu’à 36 dB** |
-| Anti-effraction | **certifié PAS24** |
+| Perméabilité à l’air | **classe 3** |
+| Résistance au vent | **C1/B1 (ift)** |
+| Verrouillage | **verrous doubles** |
 | Joints | **2 joints EPDM** |
 | Couleurs | **Couleurs RAL et finitions effet bois** |
 
@@ -32821,17 +32821,17 @@ Les vantaux sont reliés par des charnières et se replient l’un après l’au
 
 L’aluminium conduit la chaleur plusieurs centaines de fois mieux que le polyamide (environ 160 W/mK contre environ 0,25 W/mK). Un profilé sans rupture thermique transmet le froid extérieur directement à l’intérieur et, sous 0 °C, de la condensation visible apparaît sur le profilé. La rupture en polyamide de 18 mm du M 19800 coupe ce chemin.
 
-Le résultat pratique : le M 19800 a un Uw à partir de 1,7 W/m²K, suffisant pour une terrasse utilisée toute l’année. Ce n’est toutefois pas le système d’une maison nZEB. Là, nous recommandons le [Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme), avec un Uw à partir de 1,0 W/m²K, ou un coulissant comme evolutionDrive Plus+.
+Le résultat pratique : le M 19800 a un Uf de 1,9 W/m²K, suffisant pour une terrasse utilisée toute l’année. Ce n’est toutefois pas le système d’une maison nZEB. Là, nous recommandons le [Alumil SF 85 SUPREME](/fr/produits-alu/systeme-pliant-alumil-sf85-supreme), avec un Uw à partir de 1,0 W/m²K, ou un coulissant comme evolutionDrive Plus+.
 
 ---
 
 ### M 19800 face aux autres systèmes accordéon — ce qu’on ne vous dit pas
 
-**M 19800 SMARTIA ou SF 85 SUPREME :** les deux sont des systèmes accordéon Alumil certifiés PAS24. Le SF 85 est la version haut de gamme : 85 mm de profondeur, rupture Kooltherm de 40 mm, 2 à 8 vantaux sur jusqu’à 7 000 mm, vitrage jusqu’à 58 mm et Uw à partir de 1,0 W/m²K. Le M 19800 coûte moins cher et couvre la plupart des terrasses jusqu’à 5,0 m.
+**M 19800 SMARTIA ou SF 85 SUPREME :** les deux sont des systèmes accordéon Alumil. Le SF 85 est la version haut de gamme : vantaux de 85 mm, rupture thermique en double polyamide de 40 mm avec Energy bar, vantaux jusqu’à 1,5 × 4,0 m et 200 kg, vitrage de 20 à 53 mm, Uw à partir de 1,0 W/m²K, classe RC2 et certification PAS24. Le M 19800 coûte moins cher et convient aux terrasses avec des vantaux jusqu’à 1,0 × 2,5 m.
 
 **M 19800 ou portes accordéon sans rupture thermique :** pour des villas de Bucarest et de l’Ilfov utilisées toute l’année, la version sans rupture thermique n’est pas recommandée — en hiver, elle fait de la condensation sur le profilé.
 
-**La largeur maximale compte :** le M 19800 couvre au plus 5,0 m, avec des vantaux d’au plus 1,0 m. Pour des ouvertures plus grandes ou des angles qui s’ouvrent sur deux façades, le bon système est le SF 85 SUPREME.
+**La taille du vantail compte :** les vantaux du M 19800 font au plus 1,0 × 2,5 m et 80 kg. Pour des ouvertures plus hautes ou des angles qui s’ouvrent sur deux façades, le bon système est le SF 85 SUPREME.
 
 ---
 
@@ -32842,7 +32842,7 @@ C’est une association que demandent souvent les clients de Neofort BIZ qui ont
 | | evolutionDrive Plus+ PVC | M 19800 SMARTIA aluminium |
 |---|---|---|
 | **Rôle dans le projet** | Accès quotidien séjour–terrasse | Ouverture totale pour les fêtes et l’été |
-| **Isolation thermique** | Uw à partir de 0,71 W/m²K | Uw à partir de 1,7 W/m²K |
+| **Isolation thermique** | Uw à partir de 0,71 W/m²K | Uf 1,9 W/m²K (profilé) |
 | **Ouverture de la baie** | Partielle — environ 50 % | Totale — 100 % |
 | **Coût relatif** | Plus abordable | Plus cher au m² |
 | **Compatible nZEB** | ✅ Oui | Non — pour le nZEB, SF 85 SUPREME |
@@ -32887,7 +32887,7 @@ Durée totale : **3 jours de pose** pour les deux systèmes.
 | evolutionDrive Plus+ | 2 vantaux, 2,4 m × 2,2 m, blanc/anthracite | **1 900–2 800 EUR** |
 | evolutionDrive Plus+ | ouverture de 3,6 m × 2,2 m | **3 000–4 200 EUR** |
 | M 19800 SMARTIA | ouverture de 4,8 m × 2,4 m | **3 200–4 600 EUR** |
-| M 19800 SMARTIA | ouverture de 5,0 m × 2,4 m (largeur maximale) | **3 400–4 800 EUR** |
+| M 19800 SMARTIA | ouverture de 5,0 m × 2,4 m | **3 400–4 800 EUR** |
 | **Pack combiné** | evolutionDrive Plus+ 2,4 m + M 19800 4,8 m | **5 100–7 400 EUR** |
 
 *Les prix s’entendent hors TVA (21 %) et comprennent la fabrication, le transport et la pose à Bucarest et dans l’Ilfov. Le prix final dépend de la couleur, du vitrage, des options (moustiquaire plissée, couleurs spéciales) et des particularités du chantier.*
@@ -32900,7 +32900,7 @@ Durée totale : **3 jours de pose** pour les deux systèmes.
 Oui — dans la gamme de films décor Salamander, y compris des effets bois, l’anthracite et des nuances de gris. Les deux faces peuvent être de couleurs différentes.
 
 ### Quelle largeur peut couvrir la porte accordéon M 19800 ?
-Jusqu’à 5,0 m, avec 2 à 6 vantaux d’au plus 1,0 m de large et 2,5 m de haut chacun. Pour des ouvertures plus grandes, nous recommandons le Alumil SF 85 SUPREME, qui va jusqu’à 7,0 m.
+La largeur totale dépend du nombre de vantaux du projet ; chaque vantail mesure au plus 1,0 m de large, 2,5 m de haut et pèse 80 kg, et Alumil propose 7 typologies. Pour des baies plus hautes ou des vantaux plus grands, nous recommandons l’Alumil SF 85 SUPREME, avec des vantaux jusqu’à 1,5 × 4,0 m.
 
 ### Combien de temps prennent la fabrication et la pose ?
 Fabrication : 3 à 4 semaines après la signature de la commande. Pose : 1 jour pour evolutionDrive Plus+ et 1 à 2 jours pour le M 19800.
@@ -32970,7 +32970,7 @@ La pregunta más frecuente de los clientes de Bucarest e Ilfov que reforman o co
 | Criterio | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
 | **Aislamiento térmico Uw** | desde 0,71 W/m²K (triple) | desde 1,0 W/m²K |
-| **Riesgo de condensación en el perfil** | Muy bajo: el PVC conduce mal el calor | Bajo: rotura de puente térmico Kooltherm |
+| **Riesgo de condensación en el perfil** | Muy bajo: el PVC conduce mal el calor | Bajo: rotura de puente térmico de poliamida |
 | **Coste con instalación (hueco de 2,4 × 2,2 m)** | 1.900–2.800 EUR | 2.900–4.000 EUR |
 | **Peso máximo de la hoja** | 200 kg | 500 kg |
 | **Dimensiones** | Marco de hasta 4,0 × 2,6 m | Hojas grandes, para aberturas panorámicas |
@@ -33014,15 +33014,15 @@ El principio del plegable: las hojas cuelgan de un carril superior y **se pliega
 | Tipo de sistema | **Plegable, colgado del carril superior** |
 | Rotura de puente térmico | **18 mm, de poliamida** |
 | Profundidad de construcción | **50 mm** |
-| Hojas por sistema | **2–6** |
-| Ancho total máximo | **5.000 mm** |
+| Tipologías | **7 configuraciones** |
+| Estanqueidad al agua | **clase 4A** |
 | Dimensiones máximas de la hoja | **1,0 m de ancho × 2,5 m de alto** |
 | Peso máximo de la hoja | **80 kg** |
 | Vidrio admitido | **24–32 mm** |
 | Coeficiente Uf | **desde 1,9 W/m²K** |
-| Coeficiente Uw | **desde 1,7 W/m²K** |
-| Aislamiento acústico | **hasta 36 dB** |
-| Antirrobo | **certificado PAS24** |
+| Permeabilidad al aire | **clase 3** |
+| Resistencia al viento | **C1/B1 (ift)** |
+| Cierre | **pestillos dobles** |
 | Juntas | **2 juntas de EPDM** |
 | Colores | **Colores RAL y acabados imitación madera** |
 
@@ -33040,17 +33040,17 @@ Las hojas están unidas por bisagras y se pliegan una tras otra en un paquete co
 
 El aluminio conduce el calor varios cientos de veces mejor que la poliamida (unos 160 W/mK frente a unos 0,25 W/mK). Un perfil sin rotura de puente térmico lleva el frío del exterior directamente al interior y, por debajo de 0 °C, aparece condensación visible en el perfil. La rotura de poliamida de 18 mm de M 19800 corta ese camino.
 
-El resultado práctico: M 19800 tiene un Uw desde 1,7 W/m²K, suficiente para una terraza que se usa todo el año. Sin embargo, no es el sistema para una casa nZEB. Para eso recomendamos la [Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme), con Uw desde 1,0 W/m²K, o una corredera como evolutionDrive Plus+.
+El resultado práctico: M 19800 tiene un Uf de 1,9 W/m²K, suficiente para una terraza que se usa todo el año. Sin embargo, no es el sistema para una casa nZEB. Para eso recomendamos la [Alumil SF 85 SUPREME](/es/productos-alu/sistema-plegable-alumil-sf85-supreme), con Uw desde 1,0 W/m²K, o una corredera como evolutionDrive Plus+.
 
 ---
 
 ### M 19800 frente a otros sistemas plegables: lo que no le cuentan
 
-**M 19800 SMARTIA frente a SF 85 SUPREME:** ambos son plegables Alumil con certificado PAS24. SF 85 es la opción premium: 85 mm de profundidad, rotura Kooltherm de 40 mm, 2–8 hojas en hasta 7.000 mm, vidrio de hasta 58 mm y Uw desde 1,0 W/m²K. M 19800 cuesta menos y cubre la mayoría de las terrazas de hasta 5,0 m.
+**M 19800 SMARTIA frente a SF 85 SUPREME:** ambos son plegables Alumil. SF 85 es la opción premium: hojas de 85 mm, rotura de doble poliamida de 40 mm con Energy bar, hojas de hasta 1,5 × 4,0 m y 200 kg, vidrio de 20–53 mm, Uw desde 1,0 W/m²K, clase RC2 y certificación PAS24. M 19800 cuesta menos y encaja en terrazas con hojas de hasta 1,0 × 2,5 m.
 
 **M 19800 frente a plegables sin rotura de puente térmico:** para villas de Bucarest e Ilfov que se usan todo el año, la versión sin rotura no es recomendable: en invierno condensa en el perfil.
 
-**El ancho máximo importa:** M 19800 cubre como máximo 5,0 m, con hojas de 1,0 m como máximo. Para huecos mayores o esquinas que se abren a dos fachadas, el sistema adecuado es SF 85 SUPREME.
+**El tamaño de la hoja importa:** las hojas del M 19800 miden como máximo 1,0 × 2,5 m y pesan 80 kg. Para huecos más altos o esquinas que se abren a dos fachadas, el sistema adecuado es SF 85 SUPREME.
 
 ---
 
@@ -33061,7 +33061,7 @@ Es una combinación que piden a menudo los clientes de Neofort BIZ con villas en
 | | evolutionDrive Plus+ PVC | M 19800 SMARTIA aluminio |
 |---|---|---|
 | **Papel en el proyecto** | Acceso diario salón–terraza | Apertura total para fiestas y verano |
-| **Aislamiento térmico** | Uw desde 0,71 W/m²K | Uw desde 1,7 W/m²K |
+| **Aislamiento térmico** | Uw desde 0,71 W/m²K | Uf 1,9 W/m²K (perfil) |
 | **Apertura del hueco** | Parcial: alrededor del 50 % | Total: 100 % |
 | **Coste relativo** | Más asequible | Más caro por m² |
 | **Compatible con nZEB** | ✅ Sí | No: para nZEB, SF 85 SUPREME |
@@ -33106,7 +33106,7 @@ En la recepción: certificado de garantía del producto y la mano de obra, acta 
 | evolutionDrive Plus+ | 2 hojas, 2,4 m × 2,2 m, blanco/antracita | **1.900–2.800 EUR** |
 | evolutionDrive Plus+ | hueco de 3,6 m × 2,2 m | **3.000–4.200 EUR** |
 | M 19800 SMARTIA | hueco de 4,8 m × 2,4 m | **3.200–4.600 EUR** |
-| M 19800 SMARTIA | hueco de 5,0 m × 2,4 m (ancho máximo) | **3.400–4.800 EUR** |
+| M 19800 SMARTIA | hueco de 5,0 m × 2,4 m | **3.400–4.800 EUR** |
 | **Paquete combinado** | evolutionDrive Plus+ 2,4 m + M 19800 4,8 m | **5.100–7.400 EUR** |
 
 *Los precios no incluyen IVA (21 %) e incluyen la fabricación, el transporte y la instalación en Bucarest e Ilfov. El precio final depende del color, el vidrio, las opciones (mosquitera plisada, colores especiales) y las particularidades de la obra.*
@@ -33119,7 +33119,7 @@ En la recepción: certificado de garantía del producto y la mano de obra, acta 
 Sí, de la gama de láminas decorativas de Salamander, incluidas las imitaciones de madera, el antracita y los tonos grises. Las dos caras pueden tener colores distintos.
 
 ### ¿Qué ancho puede cubrir la puerta plegable M 19800?
-Hasta 5,0 m, con 2–6 hojas de 1,0 m de ancho y 2,5 m de alto como máximo cada una. Para huecos mayores recomendamos la Alumil SF 85 SUPREME, que llega a 7,0 m.
+El ancho total depende del número de hojas del proyecto; cada hoja mide como máximo 1,0 m de ancho, 2,5 m de alto y 80 kg, y Alumil ofrece 7 tipologías. Para huecos más altos u hojas más grandes recomendamos la Alumil SF 85 SUPREME, con hojas de hasta 1,5 × 4,0 m.
 
 ### ¿Cuánto tardan la fabricación y la instalación?
 Fabricación: 3–4 semanas desde la firma del pedido. Instalación: 1 día para evolutionDrive Plus+ y 1–2 días para M 19800.
@@ -33189,7 +33189,7 @@ La domanda più frequente dei clienti di Bucarest e Ilfov che ristrutturano o co
 | Criterio | evolutionDrive Plus+ PVC | Alumil S 700 SUPREME |
 |---|---|---|
 | **Isolamento termico Uw** | da 0,71 W/m²K (triplo) | da 1,0 W/m²K |
-| **Rischio di condensa sul profilo** | Molto basso: il PVC conduce poco il calore | Basso: taglio termico Kooltherm |
+| **Rischio di condensa sul profilo** | Molto basso: il PVC conduce poco il calore | Basso: taglio termico in poliammide |
 | **Costo con posa (vano 2,4 × 2,2 m)** | 1.900–2.800 EUR | 2.900–4.000 EUR |
 | **Peso massimo dell’anta** | 200 kg | 500 kg |
 | **Dimensioni** | Telaio fino a 4,0 × 2,6 m | Ante grandi, per aperture panoramiche |
@@ -33233,15 +33233,15 @@ Il principio della porta a libro: le ante sono appese a un binario superiore e *
 | Tipo di sistema | **A libro, appeso al binario superiore** |
 | Taglio termico | **18 mm, in poliammide** |
 | Profondità costruttiva | **50 mm** |
-| Ante per sistema | **2–6** |
-| Larghezza totale massima | **5.000 mm** |
+| Tipologie | **7 configurazioni** |
+| Tenuta all’acqua | **classe 4A** |
 | Dimensioni massime dell’anta | **1,0 m di larghezza × 2,5 m di altezza** |
 | Peso massimo dell’anta | **80 kg** |
 | Vetro ammesso | **24–32 mm** |
 | Coefficiente Uf | **da 1,9 W/m²K** |
-| Coefficiente Uw | **da 1,7 W/m²K** |
-| Isolamento acustico | **fino a 36 dB** |
-| Antieffrazione | **certificato PAS24** |
+| Permeabilità all’aria | **classe 3** |
+| Resistenza al vento | **C1/B1 (ift)** |
+| Chiusura | **chiavistelli doppi** |
 | Guarnizioni | **2 guarnizioni in EPDM** |
 | Colori | **Colori RAL e finiture effetto legno** |
 
@@ -33259,17 +33259,17 @@ Le ante sono unite da cerniere e si ripiegano una dopo l’altra in un pacchetto
 
 L’alluminio conduce il calore varie centinaia di volte meglio della poliammide (circa 160 W/mK contro circa 0,25 W/mK). Un profilo senza taglio termico porta il freddo dall’esterno direttamente all’interno e, sotto 0 °C, sul profilo compare condensa visibile. Il taglio in poliammide da 18 mm di M 19800 interrompe questo percorso.
 
-Il risultato pratico: M 19800 ha un Uw da 1,7 W/m²K, sufficiente per una terrazza usata tutto l’anno. Non è però il sistema per una casa nZEB. In quel caso consigliamo l’[Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme), con Uw da 1,0 W/m²K, oppure uno scorrevole come evolutionDrive Plus+.
+Il risultato pratico: M 19800 ha un Uf di 1,9 W/m²K, sufficiente per una terrazza usata tutto l’anno. Non è però il sistema per una casa nZEB. In quel caso consigliamo l’[Alumil SF 85 SUPREME](/it/prodotti-alu/sistema-pieghevole-alumil-sf85-supreme), con Uw da 1,0 W/m²K, oppure uno scorrevole come evolutionDrive Plus+.
 
 ---
 
 ### M 19800 e gli altri sistemi a libro: quello che non vi dicono
 
-**M 19800 SMARTIA o SF 85 SUPREME:** entrambi sono sistemi a libro Alumil certificati PAS24. SF 85 è la versione premium: profondità di 85 mm, taglio Kooltherm da 40 mm, 2–8 ante su un massimo di 7.000 mm, vetro fino a 58 mm e Uw da 1,0 W/m²K. M 19800 costa meno e copre la maggior parte delle terrazze fino a 5,0 m.
+**M 19800 SMARTIA o SF 85 SUPREME:** entrambi sono sistemi a libro Alumil. SF 85 è la versione premium: ante da 85 mm, taglio termico in doppia poliammide da 40 mm con Energy bar, ante fino a 1,5 × 4,0 m e 200 kg, vetro da 20–53 mm, Uw da 1,0 W/m²K, classe RC2 e certificazione PAS24. M 19800 costa meno e si adatta alle terrazze con ante fino a 1,0 × 2,5 m.
 
 **M 19800 o porte a libro senza taglio termico:** per le ville di Bucarest e Ilfov usate tutto l’anno, la versione senza taglio termico non è consigliata: d’inverno fa condensa sul profilo.
 
-**La larghezza massima conta:** M 19800 copre al massimo 5,0 m, con ante di al massimo 1,0 m. Per vani più grandi o per angoli che si aprono su due facciate, il sistema giusto è SF 85 SUPREME.
+**Conta la dimensione dell’anta:** le ante dell’M 19800 misurano al massimo 1,0 × 2,5 m e 80 kg. Per vani più alti o per angoli che si aprono su due facciate, il sistema giusto è SF 85 SUPREME.
 
 ---
 
@@ -33280,7 +33280,7 @@ Il risultato pratico: M 19800 ha un Uw da 1,7 W/m²K, sufficiente per una terraz
 | | evolutionDrive Plus+ PVC | M 19800 SMARTIA alluminio |
 |---|---|---|
 | **Ruolo nel progetto** | Accesso quotidiano soggiorno–terrazza | Apertura totale per feste ed estate |
-| **Isolamento termico** | Uw da 0,71 W/m²K | Uw da 1,7 W/m²K |
+| **Isolamento termico** | Uw da 0,71 W/m²K | Uf 1,9 W/m²K (profilo) |
 | **Apertura del vano** | Parziale: circa il 50% | Totale: 100% |
 | **Costo relativo** | Più conveniente | Più caro al m² |
 | **Compatibile nZEB** | ✅ Sì | No: per l’nZEB, SF 85 SUPREME |
@@ -33325,7 +33325,7 @@ Alla consegna: certificato di garanzia su prodotto e manodopera, verbale con i p
 | evolutionDrive Plus+ | 2 ante, 2,4 m × 2,2 m, bianco/antracite | **1.900–2.800 EUR** |
 | evolutionDrive Plus+ | vano di 3,6 m × 2,2 m | **3.000–4.200 EUR** |
 | M 19800 SMARTIA | vano di 4,8 m × 2,4 m | **3.200–4.600 EUR** |
-| M 19800 SMARTIA | vano di 5,0 m × 2,4 m (larghezza massima) | **3.400–4.800 EUR** |
+| M 19800 SMARTIA | vano di 5,0 m × 2,4 m | **3.400–4.800 EUR** |
 | **Pacchetto combinato** | evolutionDrive Plus+ 2,4 m + M 19800 4,8 m | **5.100–7.400 EUR** |
 
 *I prezzi sono IVA esclusa (21%) e comprendono produzione, trasporto e posa a Bucarest e Ilfov. Il prezzo finale dipende da colore, vetro, opzioni (zanzariera plissé, colori speciali) e caratteristiche del cantiere.*
@@ -33338,7 +33338,7 @@ Alla consegna: certificato di garanzia su prodotto e manodopera, verbale con i p
 Sì, dalla gamma di pellicole decorative Salamander, compresi gli effetti legno, l’antracite e le tonalità di grigio. Le due facce possono avere colori diversi.
 
 ### Quale larghezza può coprire la porta a libro M 19800?
-Fino a 5,0 m, con 2–6 ante larghe al massimo 1,0 m e alte al massimo 2,5 m ciascuna. Per vani più grandi consigliamo l’Alumil SF 85 SUPREME, che arriva a 7,0 m.
+La larghezza totale dipende dal numero di ante del progetto; ogni anta misura al massimo 1,0 m di larghezza, 2,5 m di altezza e 80 kg, e Alumil offre 7 tipologie. Per vani più alti o ante più grandi consigliamo l’Alumil SF 85 SUPREME, con ante fino a 1,5 × 4,0 m.
 
 ### Quanto durano produzione e posa?
 Produzione: 3–4 settimane dalla firma dell’ordine. Posa: 1 giorno per evolutionDrive Plus+ e 1–2 giorni per M 19800.

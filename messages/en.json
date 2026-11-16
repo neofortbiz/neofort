@@ -91,7 +91,7 @@
         "name": "Alumil S 700 SUPREME",
         "category": "LIFT & SLIDE - ALUMINIUM",
         "specs": [
-          "Kooltherm thermal barrier",
+          "Thermal barrier: polyamide + Energy bar",
           "Perimeter tri-fin brush seal",
           "Depth: 70-70 mm",
           "U-value: from 1.1 W/m²K",
@@ -120,12 +120,12 @@
         "category": "FOLDING WINDOWS & DOORS",
         "specs": [
           "Thermal barrier 40 mm",
-          "Kooltherm insulation & 2 gaskets",
+          "Double polyamide + Energy bar",
           "Depth: 85 mm",
           "U-value: from 1.0 W/m²K",
-          "Glazing: up to 58mm",
-          "Sound insulation: up to 38 dB",
-          "Burglar resistance: PAS24"
+          "Glazing: 20–53 mm",
+          "Air permeability: class 4",
+          "Burglar resistance: RC2 / PAS24"
         ]
       },
       {

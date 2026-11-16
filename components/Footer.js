@@ -9,6 +9,51 @@ const LOCALES = [['ro','RO'],['it','IT'],['de','DE'],['fr','FR'],['es','ES'],['e
 
 const EMPTY_ERR = { nume:'', telefon:'', email:'', comanda:'', adresa:'', gdpr:'' };
 
+// ── v322: atasamente ────────────────────────────────────────────────────────
+// Vercel respinge orice cerere catre o functie mai mare de 4,5 MB (413
+// FUNCTION_PAYLOAD_TOO_LARGE), inainte sa ajunga la /api/contact. Cu 2–3 poze
+// de telefon formularul dadea „Verificati conexiunea”. Acum pozele se
+// micsoreaza in browser (latura lunga 1800 px, JPEG 0,8; daca tot nu incap,
+// 1400 px, 0,7), apoi se pastreaza doar fisierele care incap in UPLOAD_BUDGET.
+// Ce nu incape e numit in mesaj, cu trimitere la oferte@.
+const MAX_COUNT = 7;
+const UPLOAD_BUDGET = 4 * 1024 * 1024; // sub 4,5 MB, cu loc pentru celelalte campuri
+const SHRINKABLE = /^image\/(jpeg|png|webp|avif|heic|heif)$/i;
+
+const FILE_TEXTS = {
+  ro: { proc:'Se pregătesc fișierele…', many:'Se pot atașa maximum 7 fișiere; au fost păstrate primele 7.', big:(n)=>`Nu au încăput (limita totală este de 4 MB): ${n}. Trimiteți-le pe e-mail la oferte@neofort-biz.ro.`, too_large:'Fișierele atașate sunt prea mari pentru a fi trimise. Atașați mai puține fișiere sau trimiteți-le pe e-mail la oferte@neofort-biz.ro.' },
+  en: { proc:'Preparing files…', many:'You can attach up to 7 files; the first 7 were kept.', big:(n)=>`Did not fit (total limit is 4 MB): ${n}. Please e-mail them to oferte@neofort-biz.ro.`, too_large:'The attached files are too large to send. Attach fewer files or e-mail them to oferte@neofort-biz.ro.' },
+  de: { proc:'Dateien werden vorbereitet…', many:'Es können höchstens 7 Dateien angehängt werden; die ersten 7 wurden übernommen.', big:(n)=>`Passt nicht mehr (Gesamtlimit 4 MB): ${n}. Bitte per E-Mail an oferte@neofort-biz.ro senden.`, too_large:'Die angehängten Dateien sind zu groß zum Senden. Hängen Sie weniger Dateien an oder senden Sie sie per E-Mail an oferte@neofort-biz.ro.' },
+  fr: { proc:'Préparation des fichiers…', many:'Vous pouvez joindre 7 fichiers au maximum ; les 7 premiers ont été conservés.', big:(n)=>`Fichiers non joints (limite totale de 4 Mo) : ${n}. Envoyez-les par e-mail à oferte@neofort-biz.ro.`, too_large:'Les fichiers joints sont trop volumineux pour être envoyés. Joignez moins de fichiers ou envoyez-les par e-mail à oferte@neofort-biz.ro.' },
+  es: { proc:'Preparando los archivos…', many:'Puede adjuntar 7 archivos como máximo; se han conservado los 7 primeros.', big:(n)=>`No caben (límite total de 4 MB): ${n}. Envíelos por correo a oferte@neofort-biz.ro.`, too_large:'Los archivos adjuntos son demasiado grandes para enviarlos. Adjunte menos archivos o envíelos por correo a oferte@neofort-biz.ro.' },
+  it: { proc:'Preparazione dei file…', many:'Si possono allegare al massimo 7 file; sono stati mantenuti i primi 7.', big:(n)=>`Non rientrano (limite totale 4 MB): ${n}. Inviateli via e-mail a oferte@neofort-biz.ro.`, too_large:'I file allegati sono troppo grandi per essere inviati. Allegate meno file o inviateli via e-mail a oferte@neofort-biz.ro.' },
+};
+
+/** Micsoreaza o poza in browser. Orice esec (format nedecodabil, browser vechi)
+ *  intoarce fisierul original; rezultatul se pastreaza doar daca e mai mic. */
+async function shrinkImage(file, side, quality) {
+  if (!SHRINKABLE.test(file.type || '') || typeof createImageBitmap !== 'function') return file;
+  try {
+    const bmp = await createImageBitmap(file);
+    const k = Math.min(1, side / Math.max(bmp.width, bmp.height));
+    const w = Math.max(1, Math.round(bmp.width * k));
+    const h = Math.max(1, Math.round(bmp.height * k));
+    const c = document.createElement('canvas');
+    c.width = w; c.height = h;
+    const ctx = c.getContext('2d');
+    ctx.fillStyle = '#fff';            // transparenta PNG -> alb, nu negru
+    ctx.fillRect(0, 0, w, h);
+    ctx.drawImage(bmp, 0, 0, w, h);
+    if (bmp.close) bmp.close();
+    const blob = await new Promise((r) => c.toBlob(r, 'image/jpeg', quality));
+    if (!blob || blob.size >= file.size) return file;
+    const base = (file.name || 'imagine').replace(/\.[^.]+$/, '');
+    return new File([blob], base + '.jpg', { type: 'image/jpeg', lastModified: file.lastModified });
+  } catch (e) {
+    return file;
+  }
+}
+
 export default function Footer({ googleRating }) {
   const locale = useLocale();
   const t  = useTranslations('form');
@@ -28,6 +73,9 @@ export default function Footer({ googleRating }) {
   const [gdpr, setGdpr] = useState(false);
   const [status, setStatus] = useState('idle');
   const [errorMsg, setErrorMsg] = useState('');
+  const [fileMsg, setFileMsg] = useState('');          // v322: nota sub atasamente
+  const [processing, setProcessing] = useState(false); // v322: pozele se micsoreaza
+  const pickRef = useRef(0);                            // v322: ultima selectie castiga
   const [err, setErr] = useState(EMPTY_ERR);
   const [phoneVal, setPhoneVal] = useState(defaultDial + ' ');
 
@@ -120,24 +168,37 @@ export default function Footer({ googleRating }) {
   };
   const ft = FORM_TEXTS[locale] || FORM_TEXTS.ro;
 
-  const handleFiles = (e) => {
-    const MAX_PER_FILE = 5 * 1024 * 1024;  // 5MB per fisier
-    const MAX_TOTAL    = 20 * 1024 * 1024; // 20MB total
-    const MAX_COUNT    = 7;
-    const selected = Array.from(e.target.files);
-    const tooBig   = selected.filter(f => f.size > MAX_PER_FILE);
-    const allowed  = selected.filter(f => f.size <= MAX_PER_FILE).slice(0, MAX_COUNT);
-    const total    = allowed.reduce((sum, f) => sum + f.size, 0);
-    if (tooBig.length > 0) {
-      setStatus('error');
-      setErrorMsg('Fisier prea mare (max 5MB): ' + tooBig[0].name);
-    } else if (total > MAX_TOTAL) {
-      setStatus('error');
-      setErrorMsg('Total fisiere depaseste 20MB. Reduceti numarul sau dimensiunea.');
-    } else {
-      if (status === 'error') { setStatus('idle'); setErrorMsg(''); }
+  const handleFiles = async (e) => {
+    const fx = FILE_TEXTS[locale] || FILE_TEXTS.ro;
+    const picked = Array.from((e.target && e.target.files) || []);
+    const my = ++pickRef.current;
+    if (status === 'error') { setStatus('idle'); setErrorMsg(''); }
+    const notes = [];
+    if (picked.length > MAX_COUNT) notes.push(fx.many);
+    const list = picked.slice(0, MAX_COUNT);
+    if (list.length === 0) { setFiles([]); setFileMsg(''); return; }
+
+    setProcessing(true);
+    setFileMsg(fx.proc);
+    let out = [];
+    for (const f of list) out.push(await shrinkImage(f, 1800, 0.8));
+    if (out.reduce((n, f) => n + f.size, 0) > UPLOAD_BUDGET) {
+      out = [];
+      for (const f of list) out.push(await shrinkImage(f, 1400, 0.7));
     }
-    setFiles(allowed);
+    if (my !== pickRef.current) return; // vizitatorul a ales intre timp alte fisiere
+
+    const kept = [];
+    const dropped = [];
+    let total = 0;
+    for (const f of out) {
+      if (total + f.size <= UPLOAD_BUDGET) { kept.push(f); total += f.size; }
+      else dropped.push(f.name);
+    }
+    if (dropped.length) notes.push(fx.big(dropped.join(', ')));
+    setFiles(kept);
+    setFileMsg(notes.join(' '));
+    setProcessing(false);
   };
 
   const validate = (form) => {
@@ -162,6 +223,7 @@ export default function Footer({ googleRating }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    if (processing) return;
     const form = e.target;
     const errs = validate(form);
     setErr(errs);
@@ -191,11 +253,14 @@ export default function Footer({ googleRating }) {
     fd.append('t', String(Date.now() - loadedAt.current));
     try {
       const res  = await fetch('/api/contact', { method:'POST', body:fd });
-      const json = await res.json();
-      if (json.success) { setStatus('success'); setErrorMsg(''); form.reset(); setFiles([]); setGdpr(false); setErr(EMPTY_ERR); setPhoneVal(defaultDial + ' '); setAgentFilled(false); }
+      // v322: un refuz al platformei (413 peste 4,5 MB) vine ca text, nu JSON
+      let json = null;
+      try { json = await res.json(); } catch (e2) { json = null; }
+      if (json && json.success) { setStatus('success'); setErrorMsg(''); setFileMsg(''); form.reset(); setFiles([]); setGdpr(false); setErr(EMPTY_ERR); setPhoneVal(defaultDial + ' '); setAgentFilled(false); }
       else {
         setStatus('error');
-        setErrorMsg(json.error || '');
+        const fx = FILE_TEXTS[locale] || FILE_TEXTS.ro;
+        setErrorMsg(res.status === 413 ? fx.too_large : ((json && json.error) || ''));
       }
     } catch (err) {
       setStatus('error');
@@ -564,6 +629,7 @@ export default function Footer({ googleRating }) {
                         <input type="file" multiple accept=".jpg,.jpeg,.png,.pdf,.dwg" onChange={handleFiles} style={{position:'absolute',width:'1px',height:'1px',opacity:0,overflow:'hidden'}}/>
                       </label>
                       {files.length > 0 && <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',color:'#bcbcbc',display:'block',marginTop:'4px'}}>{files.length} {ft.files_sel}</span>}
+                      {fileMsg && <span role="status" aria-live="polite" style={{fontFamily:'Barlow,sans-serif',fontSize:'.74rem',lineHeight:1.45,color:'#e8b04a',display:'block',marginTop:'6px'}}>{fileMsg}</span>}
                     </div>
                   </div>
 
@@ -630,7 +696,7 @@ export default function Footer({ googleRating }) {
                 )}
 
                 {/* Submit */}
-                <button type="submit" disabled={status==='sending'}
+                <button type="submit" disabled={status==='sending' || processing}
                   style={{width:'100%',fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.76rem',letterSpacing:'.25em',textTransform:'uppercase',color:status==='error'?'#e05252':'#fff',background:status==='sending'?'#222':status==='error'?'rgba(192,57,43,0.12)':'#1a1a1a',border:status==='error'?'1px solid #c0392b':'none',borderTop:status==='error'?'1px solid #c0392b':'1px solid #2a2a2a',padding:'16px 48px',cursor:status==='sending'?'not-allowed':'pointer',display:'block',transition:'background .2s,color .2s,border-color .2s'}}>
                   {status==='sending' ? t('sending') : status==='error' ? t('error') : t('submit')}
                 </button>
