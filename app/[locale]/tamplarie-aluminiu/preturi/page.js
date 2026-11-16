@@ -310,12 +310,12 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type: 'article', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
       title: ui.h1, description: ui.sub,
-      images: [{ url: `${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width: 1200, height: 630, alt: ui.h1, type: 'image/avif' }],
+      images: [{ url: `${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width: 584, height: 540, alt: ui.h1, type: 'image/avif' }],
     },
     // v277: blocul twitter era lipit in schema JSON-LD de mai jos, nu aici.
     // Next.js nu emitea niciun meta twitter, iar schema continea o proprietate
     // care nu exista in vocabularul schema.org.
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.h1, description: ui.sub, images:[{ url:`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width:1200, height:630 }] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.h1, description: ui.sub, images:[{ url:`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width:584, height:540 }] },
   };
 }
 
@@ -343,7 +343,7 @@ export default async function PreturiPage({ params }) {
 
   // v317: prețurile din tabel, ca date structurate (OfferCatalog, EUR, fără TVA).
   const priceSchema = offerCatalogSchema({
-    base: BASE, url: `${BASE}/${locale}/${slug}`, name: ui.table_title,
+    base: BASE, url: `${BASE}/${locale}/${slug}`, name: ui.table_title, locale,
     items: ui.rows.map(([name, , price, ideal]) => ({ name, description: ideal, prices: [price] })),
   });
 

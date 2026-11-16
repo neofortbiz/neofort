@@ -59,6 +59,11 @@ const nextConfig = {
       // lanturi 301→301, zero bucle.
       ...redirectProduse(),
 
+      // v327: /.well-known/llms.txt era o a doua versiune, veche, a fisierului (scria
+      // „producator”, certificari si piete nepotrivite cu restul site-ului). Fisierul
+      // a fost sters; adresa duce la sursa unica.
+      { source: '/.well-known/llms.txt', destination: '/llms.txt', permanent: true },
+
       // v217: /umbrire/preturi era duplicat identic (acelasi md5) al paginii
       // /umbrire/preturi-sisteme-umbrire. Folderul a fost sters; pastram 301.
       { source: '/ro/umbrire/preturi', destination: '/ro/umbrire/preturi-sisteme-umbrire', permanent: true },
@@ -339,6 +344,10 @@ const nextConfig = {
           source: '/:locale(ro|en|de|fr|es|it)/blog/:slug([a-z0-9-]+)\\.md',
           destination: '/api/md/blog/:locale/:slug',
         },
+        // v327: cardul serverului MCP sta la /api/mcp/server-card (SEP-2127). Unii
+        // clienti il cauta inca la adresa din propunerea mai veche; aceeasi resursa,
+        // fara redirect (nu toti clientii urmeaza redirecturi).
+        { source: '/.well-known/mcp/server-card.json', destination: '/api/mcp/server-card' },
       ],
     };
   },
@@ -388,6 +397,15 @@ const nextConfig = {
       {
         source: '/.well-known/agent-skills/:name/SKILL.md',
         headers: [{ key: 'Content-Type', value: 'text/markdown; charset=utf-8' }],
+      },
+      {
+        // v327: catalogul de API-uri (RFC 9727) — un fisier fara extensie, deci tipul
+        // trebuie spus explicit. Arata spre serverul MCP si cardul lui.
+        source: '/.well-known/api-catalog',
+        headers: [
+          { key: 'Content-Type', value: 'application/linkset+json; profile="https://www.rfc-editor.org/info/rfc9727"' },
+          { key: 'Link', value: '</.well-known/api-catalog>; rel="api-catalog"' },
+        ],
       },
       {
         // Cache agresiv pe assets statice

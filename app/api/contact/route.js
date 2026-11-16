@@ -187,6 +187,18 @@ export async function POST(request) {
     const locale = String(formData.get('locale') || 'ro');
     const T = EMAIL_TEXTS[locale] || EMAIL_TEXTS.ro;
 
+    // v327: de unde vine cererea. „webmcp” = formularul a fost completat de un
+    // asistent AI din browser (unealta request_quote); omul l-a verificat si l-a
+    // trimis. „pagina” = pagina de pe care s-a trimis (doar calea, fara domeniu).
+    const sursa = String(formData.get('sursa') || '') === 'webmcp' ? 'webmcp' : '';
+    const paginaRaw = clean(formData.get('pagina'), 200);
+    const pagina = /^\/[\w\-./%]*$/.test(paginaRaw) ? paginaRaw : '';
+    const randOrigine = (sursa || pagina) ? `
+              <tr style="border-bottom:1px solid #eee;">
+                <td style="padding:10px 0;font-size:.8rem;color:#141414;width:140px;text-transform:uppercase;letter-spacing:.1em;">Origine</td>
+                <td style="padding:10px 0;font-size:.9rem;color:#151515;">${sursa ? '<strong>Completat de un asistent AI (WebMCP), verificat și trimis de client</strong>' : 'Formular'}${pagina ? ` · pagina ${esc(pagina)}` : ''}</td>
+              </tr>` : '';
+
     // Produse HTML pentru emailuri — escapat, intra in ambele sabloane
     const produseHTML = produse.length > 0
       ? produse.map(p => `<li style="padding:4px 0;border-bottom:1px solid #eee;font-size:.85rem;color:#151515;">${esc(p)}</li>`).join('')
@@ -218,7 +230,7 @@ export async function POST(request) {
       from: 'no-reply@neofort-biz.ro',
       to: 'oferte@neofort-biz.ro',
       replyTo: email || undefined,
-      subject: `Solicitare ofertă — ${nume} — ${telefon}`,
+      subject: `Solicitare ofertă — ${nume} — ${telefon}${sursa ? ' — AI' : ''}`,
       attachments,
       html: `
         <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;background:#fff;">
@@ -228,7 +240,7 @@ export async function POST(request) {
             </h1>
           </div>
           <div style="padding:32px;">
-            <table style="width:100%;border-collapse:collapse;margin-bottom:24px;">
+            <table style="width:100%;border-collapse:collapse;margin-bottom:24px;">${randOrigine}
               <tr style="border-bottom:1px solid #eee;">
                 <td style="padding:10px 0;font-size:.8rem;color:#141414;width:140px;text-transform:uppercase;letter-spacing:.1em;">Nume</td>
                 <td style="padding:10px 0;font-size:.9rem;color:#151515;font-weight:500;">${esc(nume)}</td>

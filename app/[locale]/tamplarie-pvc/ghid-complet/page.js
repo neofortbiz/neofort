@@ -1,6 +1,7 @@
 import { Link } from '../../../../i18n/navigation';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { BIZ_LOGO } from '../../../../lib/business.js';
 import { getGoogleRating } from '../../../../lib/googleRating.js';
 const SLUGS = {
   ro: 'tamplarie-pvc/ghid-complet',
@@ -344,7 +345,7 @@ export async function generateMetadata({ params }) {
         'x-default': `${BASE}/ro/${SLUGS.ro}`,
       },
     },
-    openGraph: { type: 'article', url: canonical, title: ui.h1, description: ui.sub, siteName: 'Neofort BIZ', images: [{ url: `${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width: 1200, height: 630, type:'image/jpeg' }] },
+    openGraph: { type: 'article', url: canonical, title: ui.h1, description: ui.sub, siteName: 'Neofort BIZ', images: [{ url: `${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width: 836, height: 826, type:'image/jpeg' }] },
     twitter: { card: 'summary_large_image', site: '@NeofortBIZ', title: ui.h1, description: ui.sub, images: [`${BASE}/og/Tamplarie_PVC_Salamander.jpg`] },
   };
 }
@@ -366,8 +367,14 @@ export default async function PVCGhidPage({ params }) {
     '@type': 'Article',
     headline: ui.h1,
     description: ui.sub,
+    // v327: Article nu avea imagine, limba si date; fara ele Google nu-l poate folosi.
+    // datePublished = prima publicare a paginii, dateModified = ultima schimbare de continut.
+    image: `${BASE}/og/Tamplarie_PVC_Salamander.jpg`,
+    inLanguage: locale,
+    datePublished: '2026-03-27',
+    dateModified: '2026-11-13',
     author: { '@type': 'Organization', name: 'Neofort BIZ', url: BASE },
-    publisher: { '@type': 'Organization', name: 'Neofort BIZ', url: BASE },
+    publisher: { '@type': 'Organization', name: 'Neofort BIZ', url: BASE, logo: BIZ_LOGO },
     mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}` },
   };
 

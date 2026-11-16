@@ -2,6 +2,7 @@ import { Link } from '../../../../i18n/navigation';
 import FaqAccordion from '../../../../components/FaqAccordion';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { BIZ_NAME, BIZ_PHONES, BIZ_EMAIL, BIZ_ADDRESS, BIZ_GEO, BIZ_HOURS } from '../../../../lib/business.js';
 const SLUGS = {
   ro: 'tamplarie-pvc/bucuresti',
   en: 'pvc-windows/bucharest',
@@ -345,12 +346,12 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type: 'website', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
       title: ui.h1, description: ui.sub,
-      images: [{ url: `${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width: 1200, height: 630, alt: ui.h1, type:'image/jpeg' }],
+      images: [{ url: `${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width: 836, height: 826, alt: ui.h1, type:'image/jpeg' }],
     },
     // v277: blocul twitter era lipit in schema JSON-LD de mai jos, nu aici.
     // Next.js nu emitea niciun meta twitter, iar schema continea o proprietate
     // care nu exista in vocabularul schema.org.
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.h1, description: ui.sub, images:[{ url:`${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width:1200, height:630 }] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.h1, description: ui.sub, images:[{ url:`${BASE}/og/Tamplarie_PVC_Salamander.jpg`, width:836, height:826 }] },
   };
 }
 
@@ -382,17 +383,18 @@ export default async function BucurestiPvcPage({ params }) {
   // nimic din toate astea. Aceleasi date, ca sa nu existe doua "firme" diferite in index.
   const localBusiness = {
     '@context': 'https://schema.org', '@type': 'LocalBusiness',
+    // v327: nume, telefoane, adresa, coordonate si program din lib/business.js.
     '@id': `${BASE}/#localbusiness`,
-    name: 'Neofort BIZ', url: BASE,
-    telephone: ['+40215280661', '+40752443435'],
-    email: 'office@neofort-biz.ro',
-    address: { '@type': 'PostalAddress', streetAddress: 'Str. Theodor Aman Pictor 11', addressLocality: 'București', addressRegion: 'Sector 1', postalCode: '010776', addressCountry: 'RO' },
-    geo: { '@type': 'GeoCoordinates', latitude: 44.4430930263596, longitude: 26.088545186506916 },
+    name: BIZ_NAME, url: BASE,
+    telephone: BIZ_PHONES,
+    email: BIZ_EMAIL,
+    address: BIZ_ADDRESS,
+    geo: BIZ_GEO,
     areaServed: [
       { '@type': 'City', name: 'București' },
       { '@type': 'AdministrativeArea', name: 'Ilfov' },
     ],
-    openingHoursSpecification: [{ '@type': 'OpeningHoursSpecification', dayOfWeek: ['Monday','Tuesday','Wednesday','Thursday','Friday'], opens: '10:00', closes: '18:00' }],
+    openingHoursSpecification: BIZ_HOURS,
     description: ui.sub,
   };
 

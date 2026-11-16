@@ -54,7 +54,7 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ - Tâmplărie PVC & Aluminiu',
       images: [
         { url: 'https://www.neofort-biz.ro/og-neofort.jpg', width: 1200, height: 630, type: 'image/jpeg' },
-        { url: 'https://www.neofort-biz.ro/og/Fabrica_Neofort.jpg', width: 1200, height: 630, type:'image/jpeg' },
+        { url: 'https://www.neofort-biz.ro/og/Fabrica_Neofort.jpg', width: 1014, height: 564, type:'image/jpeg' },
       ],
       // v217: format lung (ro_RO), consecvent cu maparea din homepage. Anterior se trimitea
       // codul scurt ('ro'), care nu respecta standardul Open Graph.
@@ -109,6 +109,7 @@ export default async function LocaleLayout({ children, params }) {
             Fisierele sunt statice, in public/.well-known/. */}
         <link rel="ard" href="/.well-known/ard.json" type="application/json" />
         <link rel="agent-skills" href="/.well-known/agent-skills/index.json" type="application/json" />
+        <link rel="api-catalog" href="/.well-known/api-catalog" type="application/linkset+json" />
         {/* AI Crawler hints */}
         <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="bingbot" content="index, follow" />

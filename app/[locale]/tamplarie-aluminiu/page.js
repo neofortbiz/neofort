@@ -44,12 +44,12 @@ const SPECS = {
     it:[['Taglio termico','30mm'],['Peso anta','fino a 180 kg'],['Profondità','67-75 mm'],['Trasmittanza Uf','da 1,1 W/m²K'],['Vetro','fino a 58mm'],['Isolamento acustico','fino a 45 dB'],['Antieffrazione','fino a RC 3']],
   },
   s700: {
-    ro:[['Bariera termică','Poliamidă + Energy bar'],['Etanșare perimetrală','perii tri-fin'],['Adâncime','70-70 mm'],['Transfer termic Uw','1,1 W/m²K'],['Vitraj','până la 50mm'],['Protecție fonică','până la 41 dB'],['Anti-efracție','până la RC 2']],
-    en:[['Thermal barrier','Polyamide + Energy bar'],['Perimeter sealing','tri-fin brushes'],['Depth','70-70 mm'],['Thermal transfer Uw','1.1 W/m²K'],['Glazing','up to 50mm'],['Sound insulation','up to 41 dB'],['Burglar resistance','up to RC 2']],
-    de:[['Thermische Trennung','Polyamid + Energy Bar'],['Perimeterdichtung','Tri-Fin-Bürsten'],['Bautiefe','70-70 mm'],['Wärmedurchgang Uw','1,1 W/m²K'],['Verglasung','bis 50mm'],['Schallschutz','bis 41 dB'],['Einbruchschutz','bis RC 2']],
-    fr:[['Rupture pont thermique','Polyamide + Energy bar'],['Étanchéité périmétrique','brosses tri-fin'],['Profondeur','70-70 mm'],['Transfert thermique Uw','1,1 W/m²K'],['Vitrage','jusqu\'à 50mm'],['Protection phonique','jusqu\'à 41 dB'],['Anti-effraction','jusqu\'à RC 2']],
-    es:[['Rotura puente térmico','Poliamida + Energy bar'],['Estanqueidad perimetral','cepillos tri-fin'],['Profundidad','70-70 mm'],['Transferencia Uw','1,1 W/m²K'],['Acristalamiento','hasta 50mm'],['Aislamiento acústico','hasta 41 dB'],['Antirrobo','hasta RC 2']],
-    it:[['Taglio termico','Poliammide + Energy bar'],['Tenuta perimetrale','spazzole tri-fin'],['Profondità','70-70 mm'],['Trasmittanza Uw','1,1 W/m²K'],['Vetro','fino a 50mm'],['Isolamento acustico','fino a 41 dB'],['Antieffrazione','fino a RC 2']],
+    ro:[['Bariera termică','Poliamidă + Energy bar'],['Etanșare perimetrală','perii tri-fin'],['Adâncime cercevea','70 mm'],['Transfer termic Uw','1,1 W/m²K'],['Vitraj','până la 50mm'],['Protecție fonică','până la 41 dB'],['Anti-efracție','până la RC 2']],
+    en:[['Thermal barrier','Polyamide + Energy bar'],['Perimeter sealing','tri-fin brushes'],['Sash depth','70 mm'],['Thermal transfer Uw','1.1 W/m²K'],['Glazing','up to 50mm'],['Sound insulation','up to 41 dB'],['Burglar resistance','up to RC 2']],
+    de:[['Thermische Trennung','Polyamid + Energy Bar'],['Perimeterdichtung','Tri-Fin-Bürsten'],['Flügelbautiefe','70 mm'],['Wärmedurchgang Uw','1,1 W/m²K'],['Verglasung','bis 50mm'],['Schallschutz','bis 41 dB'],['Einbruchschutz','bis RC 2']],
+    fr:[['Rupture pont thermique','Polyamide + Energy bar'],['Étanchéité périmétrique','brosses tri-fin'],['Profondeur ouvrant','70 mm'],['Transfert thermique Uw','1,1 W/m²K'],['Vitrage','jusqu\'à 50mm'],['Protection phonique','jusqu\'à 41 dB'],['Anti-effraction','jusqu\'à RC 2']],
+    es:[['Rotura puente térmico','Poliamida + Energy bar'],['Estanqueidad perimetral','cepillos tri-fin'],['Profundidad de hoja','70 mm'],['Transferencia Uw','1,1 W/m²K'],['Acristalamiento','hasta 50mm'],['Aislamiento acústico','hasta 41 dB'],['Antirrobo','hasta RC 2']],
+    it:[['Taglio termico','Poliammide + Energy bar'],['Tenuta perimetrale','spazzole tri-fin'],['Profondità anta','70 mm'],['Trasmittanza Uw','1,1 W/m²K'],['Vetro','fino a 50mm'],['Isolamento acustico','fino a 41 dB'],['Antieffrazione','fino a RC 2']],
   },
   s350: {
     ro:[['Bariera termică','poliamidă 24 mm'],['Etanșare perimetrală','perii tri-fin'],['Adâncime canat','35 mm'],['Transfer termic Uf','de la 2,4 W/m²K'],['Vitraj','până la 28mm'],['Protecție fonică','până la 38 dB'],['Greutate canat','până la 180 kg']],
@@ -182,7 +182,7 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type: 'website', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
       title: t('title'), description: t('description'),
-      images: [{ url:`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Tâmplărie aluminiu Alumil Supreme și Smartia — Neofort BIZ București' : locale==='en' ? 'Alumil Supreme and Smartia aluminium windows — Neofort BIZ Bucharest' : locale==='de' ? 'Alumil Supreme und Smartia Aluminiumfenster — Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiseries aluminium Alumil Supreme et Smartia — Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería aluminio Alumil Supreme y Smartia — Neofort BIZ Bucarest' : 'Infissi alluminio Alumil Supreme e Smartia — Neofort BIZ Bucarest', type:'image/jpeg' }],
+      images: [{ url:`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width:584, height:540, alt: locale==='ro' ? 'Tâmplărie aluminiu Alumil Supreme și Smartia — Neofort BIZ București' : locale==='en' ? 'Alumil Supreme and Smartia aluminium windows — Neofort BIZ Bucharest' : locale==='de' ? 'Alumil Supreme und Smartia Aluminiumfenster — Neofort BIZ Bukarest' : locale==='fr' ? 'Menuiseries aluminium Alumil Supreme et Smartia — Neofort BIZ Bucarest' : locale==='es' ? 'Carpintería aluminio Alumil Supreme y Smartia — Neofort BIZ Bucarest' : 'Infissi alluminio Alumil Supreme e Smartia — Neofort BIZ Bucarest', type:'image/jpeg' }],
     },
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', creator:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`] },
   };
@@ -306,9 +306,9 @@ export default async function TamplaieAluminiuPage({ params }) {
                     </p>
 
                     {/* Titlu */}
-                    <h3 style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1.1rem',fontWeight:600,color:'#151515',marginBottom:'12px',lineHeight:1.2}}>
+                    <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1.1rem',fontWeight:600,color:'#151515',marginBottom:'12px',lineHeight:1.2}}>
                       {p.name}
-                    </h3>
+                    </h2>
 
                     {/* Specs — layout cheie:valoare identic cu screenshot */}
                     <ul style={{listStyle:'none',padding:0,margin:'0 0 12px 0',borderTop:'1px solid #efefed',paddingTop:'8px'}}>

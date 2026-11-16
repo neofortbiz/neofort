@@ -64,7 +64,7 @@ export async function generateMetadata({ params }) {
       canonical: `${BASE}/${locale}/blog`,
       languages: { ...Object.fromEntries(LOCALES.map(l => [l, `${BASE}/${l}/blog`])), 'x-default': `${BASE}/ro/blog` },
     },
-    openGraph: { type:'website', url:`${BASE}/${locale}/blog`, title:m.title, description:m.desc, siteName:'Neofort BIZ', images:[{ url:`${BASE}/og/BLOG.jpg`, width:1200, height:630, type:'image/jpeg' }] },
+    openGraph: { type:'website', url:`${BASE}/${locale}/blog`, title:m.title, description:m.desc, siteName:'Neofort BIZ', images:[{ url:`${BASE}/og/BLOG.jpg`, width:2048, height:1335, type:'image/jpeg' }] },
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', title:m.title, description:m.desc, images:[`${BASE}/og/BLOG.jpg`] },
   };
 }

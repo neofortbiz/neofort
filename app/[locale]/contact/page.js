@@ -2,6 +2,7 @@ import { getTranslations } from 'next-intl/server';
 import { Link } from '../../../i18n/navigation';
 
 import { BASE } from '../../../lib/constants.js';
+import { BIZ_NAME, BIZ_LEGAL_NAME, BIZ_PHONES, BIZ_EMAIL, BIZ_ADDRESS, BIZ_GEO, BIZ_HOURS } from '../../../lib/business.js';
 import { getGoogleRating } from '../../../lib/googleRating.js';
 import { formatRatingLabel } from '../../../lib/formatRating.js';
 const SLUGS_CONTACT = {'ro':'contact','en':'contact','de':'kontakt','fr':'contact','es':'contacto','it':'contatti'};
@@ -237,7 +238,7 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: t('title'),
       description: t('description'),
-      images: [{ url:`${BASE}/og/Contact_Neofort.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Contact Neofort BIZ — solicitați ofertă tâmplărie PVC și aluminiu, București' : locale==='en' ? 'Contact Neofort BIZ — request quote for PVC and aluminium windows, Bucharest' : locale==='de' ? 'Kontakt Neofort BIZ — Angebot PVC- und Aluminiumfenster, Bukarest' : locale==='fr' ? 'Contact Neofort BIZ — demandez devis menuiseries PVC et aluminium, Bucarest' : locale==='es' ? 'Contacto Neofort BIZ — solicite presupuesto carpintería PVC y aluminio, Bucarest' : 'Contatti Neofort BIZ — preventivo infissi PVC e alluminio, Bucarest', type:'image/jpeg' }],
+      images: [{ url:`${BASE}/og/Contact_Neofort.jpg`, width:583, height:500, alt: locale==='ro' ? 'Contact Neofort BIZ — solicitați ofertă tâmplărie PVC și aluminiu, București' : locale==='en' ? 'Contact Neofort BIZ — request quote for PVC and aluminium windows, Bucharest' : locale==='de' ? 'Kontakt Neofort BIZ — Angebot PVC- und Aluminiumfenster, Bukarest' : locale==='fr' ? 'Contact Neofort BIZ — demandez devis menuiseries PVC et aluminium, Bucarest' : locale==='es' ? 'Contacto Neofort BIZ — solicite presupuesto carpintería PVC y aluminio, Bucarest' : 'Contatti Neofort BIZ — preventivo infissi PVC e alluminio, Bucarest', type:'image/jpeg' }],
     },
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Contact_Neofort.jpg`] },
   };
@@ -263,27 +264,18 @@ export default async function ContactPage({ params }) {
       {
         "@type": ["LocalBusiness","HomeAndConstructionBusiness"],
         "@id": `${BASE}/#localbusiness`,
-        "name": "NEOFORT BIZ SRL",
+        // v327: numele, telefoanele, adresa si coordonatele vin din lib/business.js
+        // (aici erau „NEOFORT BIZ SRL” si „Strada …”, altfel decat pe prima pagina).
+        "name": BIZ_NAME,
+        "legalName": BIZ_LEGAL_NAME,
         "alternateName": "Neofort BIZ",
         "url": BASE,
-        "telephone": ["+40215280661","+40752443435","+40752443439","+40758990048"],
-        "email": "oferte@neofort-biz.ro",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "Strada Theodor Aman Pictor 11",
-          "addressLocality": "București",
-          "addressRegion": "Sector 1",
-          "postalCode": "010776",
-          "addressCountry": "RO",
-        },
-        "geo": { "@type": "GeoCoordinates", "latitude": 44.4430930263596, "longitude": 26.088545186506916 },
+        "telephone": BIZ_PHONES,
+        "email": BIZ_EMAIL,
+        "address": BIZ_ADDRESS,
+        "geo": BIZ_GEO,
         "hasMap": "https://maps.app.goo.gl/YcaANuqcmnzy14i1A",
-        "openingHoursSpecification": [{
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
-          "opens": "10:00",
-          "closes": "18:00",
-        }],
+        "openingHoursSpecification": BIZ_HOURS,
         "contactPoint": [
           { "@type":"ContactPoint","telephone":"+40752443435","contactType":"sales","availableLanguage":["Romanian","English","German","French","Spanish","Italian"] },
           { "@type":"ContactPoint","telephone":"+40752443439","contactType":"sales" },
@@ -355,7 +347,7 @@ export default async function ContactPage({ params }) {
                 </div>
                 {/* Info */}
                 <div className="flex flex-col flex-1 w-full">
-                  <h3 style={{
+                  <h2 style={{
                     fontFamily: 'Barlow Condensed, sans-serif',
                     fontWeight: 600,
                     fontSize: 'clamp(0.7rem, 2.5vw, 0.88rem)',
@@ -365,7 +357,7 @@ export default async function ContactPage({ params }) {
                     whiteSpace: 'nowrap',
                     overflow: 'hidden',
                     textOverflow: 'ellipsis',
-                  }}>{m.name}</h3>
+                  }}>{m.name}</h2>
                   <p className="text-[0.68rem] text-muted mb-4 leading-snug flex-1">{m.role[locale] || m.role.ro}</p>
                   {/* Butoane */}
                   <a href={m.href}

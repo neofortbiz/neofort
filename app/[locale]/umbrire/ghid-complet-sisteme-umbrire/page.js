@@ -1,6 +1,7 @@
 import { Link } from '../../../../i18n/navigation';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { BIZ_LOGO } from '../../../../lib/business.js';
 import { getGoogleRating } from '../../../../lib/googleRating.js';
 const SLUGS = {
   ro: 'umbrire/ghid-complet-sisteme-umbrire',
@@ -354,8 +355,14 @@ export default async function UmbrireGhidPage({ params }) {
     '@type': 'Article',
     headline: ui.h1,
     description: ui.sub,
+    // v327: Article nu avea imagine, limba si date; fara ele Google nu-l poate folosi.
+    // datePublished = prima publicare a paginii, dateModified = ultima schimbare de continut.
+    image: `${BASE}/og/Sisteme_Umbrire.jpg`,
+    inLanguage: locale,
+    datePublished: '2026-03-27',
+    dateModified: '2026-11-12',
     author: { '@type': 'Organization', name: 'Neofort BIZ', url: BASE },
-    publisher: { '@type': 'Organization', name: 'Neofort BIZ', url: BASE },
+    publisher: { '@type': 'Organization', name: 'Neofort BIZ', url: BASE, logo: BIZ_LOGO },
     mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}` },
   };
 

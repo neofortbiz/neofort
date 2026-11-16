@@ -2,6 +2,8 @@ import { getTranslations } from 'next-intl/server';
 import { Link } from '../../../i18n/navigation';
 
 import { BASE } from '../../../lib/constants.js';
+import { BIZ_ADDRESS, BIZ_GEO, BIZ_PHONES, BIZ_EMAIL, BIZ_LOGO } from '../../../lib/business.js';
+import { GRUP_NEOFORT, GRUP_UI, NEOFORT_IMO_URL } from '../../../lib/grupNeofort.js';
 import { getGoogleRating } from '../../../lib/googleRating.js';
 import { formatRatingParts } from '../../../lib/formatRating.js';
 const SLUGS_DESPRE = {'ro':'despre', 'en':'about', 'de':'ueber-uns', 'fr':'a-propos', 'es':'sobre-nosotros', 'it':'chi-siamo'};
@@ -131,7 +133,7 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: t('title'),
       description: t('description'),
-      images: [{ url:`${BASE}/og/Despre_noi.jpg`, width:1200, height:630, alt: locale==='ro' ? 'Despre Neofort BIZ — 21 ani experiență tâmplărie PVC Salamander și aluminiu Alumil' : locale==='en' ? 'About Neofort BIZ — 21 years PVC Salamander and Alumil aluminium window experience' : locale==='de' ? 'Über Neofort BIZ — 21 Jahre Erfahrung mit Salamander PVC- und Alumil Aluminiumfenstern' : locale==='fr' ? 'À propos Neofort BIZ — 21 ans expérience menuiseries PVC Salamander et aluminium Alumil' : locale==='es' ? 'Sobre Neofort BIZ — 21 años experiencia carpintería PVC Salamander y aluminio Alumil' : 'Chi siamo Neofort BIZ — 21 anni esperienza infissi PVC Salamander e alluminio Alumil', type:'image/jpeg' }],
+      images: [{ url:`${BASE}/og/Despre_noi.jpg`, width:584, height:500, alt: locale==='ro' ? 'Despre Neofort BIZ — 21 ani experiență tâmplărie PVC Salamander și aluminiu Alumil' : locale==='en' ? 'About Neofort BIZ — 21 years PVC Salamander and Alumil aluminium window experience' : locale==='de' ? 'Über Neofort BIZ — 21 Jahre Erfahrung mit Salamander PVC- und Alumil Aluminiumfenstern' : locale==='fr' ? 'À propos Neofort BIZ — 21 ans expérience menuiseries PVC Salamander et aluminium Alumil' : locale==='es' ? 'Sobre Neofort BIZ — 21 años experiencia carpintería PVC Salamander y aluminio Alumil' : 'Chi siamo Neofort BIZ — 21 anni esperienza infissi PVC Salamander e alluminio Alumil', type:'image/jpeg' }],
     },
     twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: t('title'), description: t('description'), images:[`${BASE}/og/Despre_noi.jpg`] },
   };
@@ -166,22 +168,17 @@ export default async function DesprePage({ params }) {
         'name': 'Neofort BIZ SRL',
         'legalName': 'NEOFORT BIZ SRL',
         'url': BASE,
-        'logo': { '@type': 'ImageObject', 'url': `${BASE}/Neofort.avif`, 'width': 200, 'height': 74 },
-        'address': {
-          '@type': 'PostalAddress',
-          'streetAddress': 'Str. Theodor Aman Pictor nr.11',
-          'addressLocality': 'București',
-          'addressRegion': 'Sector 1',
-          'postalCode': '010776',
-          'addressCountry': 'RO',
-        },
-        'geo': { '@type': 'GeoCoordinates', 'latitude': 44.4430930263596, 'longitude': 26.088545186506916 },
-        'telephone': '+40752443435',
-        'faxNumber': '+40215280661',
-        'email': 'oferte@neofort-biz.ro',
+        'logo': BIZ_LOGO,
+        // v327: adresa, coordonatele, telefoanele si sigla din lib/business.js. Scos
+        // `faxNumber` (era telefonul de birou, nu un fax) si `leiCode` (purta numarul de
+        // la Registrul Comertului, care nu e un cod LEI; numarul ramane in `identifier`).
+        'address': BIZ_ADDRESS,
+        'geo': BIZ_GEO,
+        'telephone': BIZ_PHONES,
+        'email': BIZ_EMAIL,
         'vatID': 'RO30324211',
         'taxID': 'RO30324211',
-        'leiCode': 'J40/6928/2012','identifier': {'@type': 'PropertyValue','name': 'EUID','value': 'ROONRC.J40/6928/2012'},
+        'identifier': {'@type': 'PropertyValue','name': 'EUID','value': 'ROONRC.J40/6928/2012'},
         'foundingDate': '2005',
         'numberOfEmployees': { '@type': 'QuantitativeValue', 'minValue': 5, 'maxValue': 15 },
         'areaServed': [
@@ -327,6 +324,29 @@ export default async function DesprePage({ params }) {
                   </div>
                 </div>
                 <p style={{fontFamily:'Barlow,sans-serif',fontSize:'0.78rem',color:'#2d2d2d',lineHeight:1.6,margin:0}}>{m.bio[locale]||m.bio.ro}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── v327: Grupul Neofort — aceeasi formulare ca pe neofort.ro (lib/grupNeofort.js) ── */}
+      <section id="grupul-neofort" style={{padding:'56px 0',borderTop:'1px solid #e5e7eb'}}>
+        <div className="container mx-auto px-6">
+          <h2 className="font-condensed text-2xl font-semibold text-primary" style={{marginBottom:'12px'}}>{(GRUP_UI[locale]||GRUP_UI.ro).h2}</h2>
+          <p style={{fontFamily:'Barlow,sans-serif',fontSize:'0.9rem',color:'#2d2d2d',lineHeight:1.7,maxWidth:'860px',marginBottom:'28px'}}>{GRUP_NEOFORT[locale]||GRUP_NEOFORT.ro}</p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+            {(() => { const g = GRUP_UI[locale]||GRUP_UI.ro; return [
+              { nume:'Neofort BIZ', act:g.biz, nota:g.aici, href:null },
+              { nume:'Neofort IMO', act:g.imo, nota:g.link, href:NEOFORT_IMO_URL },
+              { nume:'Neofort New Homes', act:g.nh, nota:null, href:null },
+            ]; })().map(f => (
+              <div key={f.nume} style={{background:'#fff',border:'1px solid #e5e7eb',borderTop:'3px solid #162d47',padding:'22px',display:'flex',flexDirection:'column',gap:'8px'}}>
+                <div style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:600,fontSize:'1rem',color:'#151515'}}>{f.nume}</div>
+                <p style={{fontFamily:'Barlow,sans-serif',fontSize:'0.82rem',color:'#2d2d2d',lineHeight:1.6,margin:0}}>{f.act}</p>
+                {f.href
+                  ? <a href={f.href} target="_blank" rel="noopener" style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.8rem',letterSpacing:'.06em',color:'#0b1f3a',fontWeight:500,textDecoration:'underline'}}>{f.nota}</a>
+                  : f.nota ? <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.72rem',letterSpacing:'.08em',textTransform:'uppercase',color:'#2d2d2d'}}>{f.nota}</span> : null}
               </div>
             ))}
           </div>

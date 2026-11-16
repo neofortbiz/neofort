@@ -470,7 +470,156 @@ function garda24() {
 }
 garda24();
 
-garda23().catch(e => err(`garda 23 nu a putut rula: ${e.message}`)).then(() => {
+// ── GARZILE 25–30 (v327): identitate, robots, cardul MCP, afirmatii, datele firmei, imagini ──
+// Fiecare inchide o clasa de greseli gasita la auditul din v327, ca sa nu se poata intoarce.
+async function garziV327() {
+  const { pathToFileURL } = require('url');
+  const lib = (f) => import(pathToFileURL(path.join(ROOT, 'lib', f)).href);
+  const citeste = (f) => fs.readFileSync(path.join(ROOT, f), 'utf8');
+  const fisiere = (dir, ext = /\.(js|json|txt|md)$/) => {
+    const out = [];
+    (function w(d) { for (const e of fs.readdirSync(d, { withFileTypes: true })) {
+      const q = path.join(d, e.name);
+      if (e.isDirectory()) { if (e.name !== 'node_modules' && e.name !== '.next') w(q); }
+      else if (ext.test(e.name)) out.push(q);
+    } })(path.join(ROOT, dir));
+    return out;
+  };
+  const rel = (f) => path.relative(ROOT, f).replace(/\\/g, '/');
+  const COD = [...fisiere('app'), ...fisiere('components'), ...fisiere('lib'), ...fisiere('data')];
+
+  // 25. Grupul Neofort: acelasi text peste tot, formularea veche nicaieri.
+  {
+    const { GRUP_NEOFORT } = await lib('grupNeofort.js');
+    const llms = citeste('public/llms.txt');
+    const skill = citeste('public/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md');
+    LANGS.forEach(l => { if (!llms.includes(GRUP_NEOFORT[l])) err(`garda 25: llms.txt nu contine textul grupului (${l}) din lib/grupNeofort.js`); });
+    if (!skill.includes(GRUP_NEOFORT.en)) err('garda 25: SKILL.md nu contine textul grupului (en) din lib/grupNeofort.js');
+    const VECHI = /nu activ[ăa]m [îi]n (domeniul )?imobiliar|isNotRelatedTo|not active in real estate|no connection (with|to) (the )?real estate/i;
+    [...COD, path.join(ROOT, 'public/llms.txt'), path.join(ROOT, 'app/llms-full.txt/route.js')].filter(f => fs.existsSync(f) && !f.endsWith('validate-blog.js')).forEach(f => {
+      const m = fs.readFileSync(f, 'utf8').match(VECHI);
+      if (m) err(`garda 25: formularea veche despre imobiliare („${m[0]}”) in ${rel(f)}`);
+    });
+    if (fs.existsSync(path.join(ROOT, 'public/.well-known/llms.txt'))) err('garda 25: public/.well-known/llms.txt a reaparut (a doua versiune, veche, a llms.txt) — se sterge');
+  }
+
+  // 26. robots.txt: doar directive pe care Lighthouse le accepta; o singura sursa.
+  {
+    const { robotsTxt } = await lib('robotsTxt.js');
+    const PERMISE = ['user-agent', 'disallow', 'allow', 'sitemap', 'crawl-delay', 'clean-param', 'host', 'request-rate', 'visit-time', 'noindex', 'content-signal'];
+    const linii = robotsTxt().split('\n').map(x => x.trim()).filter(x => x && !x.startsWith('#'));
+    linii.forEach(x => {
+      const d = x.split(':')[0].trim().toLowerCase();
+      if (!PERMISE.includes(d)) err(`garda 26: robots.txt are directiva „${x.split(':')[0]}”, necunoscuta de Lighthouse (scade scorul SEO)`);
+    });
+    if (!linii.some(x => /^sitemap:\s*https:\/\//i.test(x))) err('garda 26: robots.txt fara Sitemap');
+    if (!linii.some(x => /^content-signal:/i.test(x))) err('garda 26: robots.txt fara Content-Signal');
+    if (fs.existsSync(path.join(ROOT, 'app/robots.js'))) err('garda 26: app/robots.js exista alaturi de app/robots.txt/route.js — Next refuza buildul; se sterge app/robots.js');
+  }
+
+  // 27. Cardul serverului MCP (SEP-2127) = intrarea din ard.json = catalogul de API-uri.
+  {
+    const sc = await lib('serverCard.js');
+    const card = sc.serverCard();
+    if (!/^[a-zA-Z0-9.-]+\/[a-zA-Z0-9._-]+$/.test(card.name) || card.name.length < 3 || card.name.length > 200) err(`garda 27: nume de server MCP invalid: ${card.name}`);
+    if (!card.description || card.description.length > 100) err(`garda 27: descrierea cardului MCP trebuie sa aiba 1–100 caractere (are ${(card.description || '').length})`);
+    if (card.title && card.title.length > 100) err('garda 27: titlul cardului MCP peste 100 de caractere');
+    if ('tools' in card) err('garda 27: cardul MCP nu are voie sa listeze unelte');
+    const ard = JSON.parse(citeste('public/.well-known/ard.json'));
+    const e = (ard.entries || []).find(x => x.data && x.data.remotes);
+    if (!e) err('garda 27: ard.json nu are intrarea serverului MCP (cu data.remotes)');
+    else if (JSON.stringify(e.data) !== JSON.stringify(card)) err('garda 27: ard.json — data serverului MCP difera de serverCard() din lib/serverCard.js');
+    let cat;
+    try { cat = JSON.parse(citeste('public/.well-known/api-catalog')); } catch (x) { err(`garda 27: public/.well-known/api-catalog lipsa sau JSON invalid: ${x.message}`); }
+    if (cat) {
+      const a = (cat.linkset || [])[0] || {};
+      if (a.anchor !== sc.MCP_ENDPOINT) err(`garda 27: api-catalog — anchor (${a.anchor}) ≠ adresa serverului MCP (${sc.MCP_ENDPOINT})`);
+      if (!(a['service-desc'] || []).some(x => x.href === sc.MCP_ENDPOINT + '/server-card')) err('garda 27: api-catalog — service-desc nu arata spre /api/mcp/server-card');
+    }
+    if (!fs.existsSync(path.join(ROOT, 'app/api/mcp/server-card/route.js'))) err('garda 27: lipseste app/api/mcp/server-card/route.js');
+  }
+
+  // 28. Afirmatii pe care firma nu le poate sustine: Neofort e furnizor si montator,
+  // nu producator; preturile sunt fara TVA.
+  {
+    const FABRICA = /fabrica noastr[ăa]|our (own )?factory|unsere[rm]? (eigenen? )?Fabrik|notre (propre )?usine|nuestra (propia )?f[áa]brica|nostra fabbrica|producția proprie|own production/i;
+    const TVA = /(pre[țt]uri(le)?|prices?|Preise|prix|precios|prezzi)[^.\n]{0,40}(cu TVA inclus|TVA inclus[ăa]?|incl(\.|uding|usive of)? VAT|VAT included|inkl(\.|usive)? MwSt|TVA comprise|TTC|IVA incluido|IVA inclus[ao])/i;
+    const tinte = [...COD.filter(f => !/validate-blog|amprenta/.test(f)), path.join(ROOT, 'public/llms.txt')];
+    let n = 0;
+    tinte.forEach(f => {
+      const t = fs.readFileSync(f, 'utf8');
+      const a = t.match(FABRICA); if (a) { n++; err(`garda 28: „${a[0]}” in ${rel(f)} — Neofort BIZ nu e producator`); }
+      // o intrebare („Sunt preturile cu TVA inclus?”) nu e o afirmatie
+      const b = [...t.matchAll(new RegExp(TVA.source, 'gi'))].find(m => !t.slice(m.index + m[0].length, m.index + m[0].length + 4).includes('?'));
+      if (b) { n++; err(`garda 28: „${b[0].slice(0, 70)}” in ${rel(f)} — preturile sunt fara TVA`); }
+    });
+    console.log(`  Afirmatii (producator, TVA): ${tinte.length} fisiere, ${n} probleme`);
+  }
+
+  // 29. Datele firmei in JSON-LD: o singura scriere (lib/business.js) si doar proprietati valide.
+  {
+    const B = await lib('business.js');
+    const app = fisiere('app', /\.js$/);
+    let n = 0;
+    app.forEach(f => {
+      const t = fs.readFileSync(f, 'utf8'), r = rel(f);
+      for (const m of t.matchAll(/['"]?streetAddress['"]?\s*:\s*['"]([^'"]+)['"]/g)) if (m[1] !== B.BIZ_ADDRESS.streetAddress) { n++; err(`garda 29: adresa scrisa altfel („${m[1]}”) in ${r} — foloseste BIZ_ADDRESS din lib/business.js`); }
+      for (const m of t.matchAll(/Neofort\.avif`\s*,\s*['"]?width['"]?\s*:\s*(\d+)\s*,\s*['"]?height['"]?\s*:\s*(\d+)/g)) if (+m[1] !== B.BIZ_LOGO.width || +m[2] !== B.BIZ_LOGO.height) { n++; err(`garda 29: sigla declarata ${m[1]}×${m[2]} in ${r} (reala: ${B.BIZ_LOGO.width}×${B.BIZ_LOGO.height})`); }
+      for (const k of ['leiCode', 'faxNumber']) if (new RegExp(`['"]${k}['"]\\s*:`).test(t)) { n++; err(`garda 29: proprietatea ${k} in ${r} — firma nu are cod LEI / fax de declarat`); }
+      if (/#localbusiness`\s*,\s*['"]?name['"]?\s*:\s*['"](?!Neofort BIZ SRL['"])[^'"]+['"]/.test(t)) { n++; err(`garda 29: nodul #localbusiness are alt nume decat „${B.BIZ_NAME}” in ${r}`); }
+      if (/\[slug\]\/page\.js$/.test(r) && !/blog/.test(r)) {
+        if (/^\s*seller\s*:/m.test(t) || /^\s*inLanguage\s*:\s*locale,\s*$/m.test(t)) { n++; err(`garda 29: Product cu seller/inLanguage in ${r} — nu sunt valide pe Product (vezi lib/productSchema.js)`); }
+        if (/['"]?@type['"]?\s*:\s*['"]Organization['"][^}]{0,120}addressCountry/.test(t)) { n++; err(`garda 29: addressCountry direct pe Organization in ${r} — foloseste manufacturerSchema()`); }
+      }
+    });
+    console.log(`  Datele firmei in JSON-LD: ${app.length} fisiere, ${n} abateri`);
+  }
+
+  // 30. Dimensiunile imaginilor: tabelul din lib/imgDims.js fata de fisierele reale.
+  {
+    const { IMG_DIMS } = await lib('imgDims.js');
+    const dims = (f) => {
+      const b = fs.readFileSync(f);
+      if (/\.avif$/i.test(f)) { const i = b.indexOf('ispe'); return i < 0 ? null : [b.readUInt32BE(i + 8), b.readUInt32BE(i + 12)]; }
+      if (/\.png$/i.test(f)) return [b.readUInt32BE(16), b.readUInt32BE(20)];
+      for (let i = 2; i < b.length - 9;) {
+        if (b[i] !== 0xFF) { i++; continue; }
+        const m = b[i + 1];
+        if (m === 0xC0 || m === 0xC1 || m === 0xC2) return [b.readUInt16BE(i + 7), b.readUInt16BE(i + 5)];
+        i += 2 + b.readUInt16BE(i + 2);
+      }
+      return null;
+    };
+    const pub = (u) => path.join(ROOT, 'public', u);
+    let n = 0;
+    Object.entries(IMG_DIMS).forEach(([u, d]) => {
+      if (!fs.existsSync(pub(u))) { n++; err(`garda 30: ${u} e in lib/imgDims.js, dar fisierul lipseste din public/`); return; }
+      const r = dims(pub(u));
+      if (!r || r[0] !== d[0] || r[1] !== d[1]) { n++; err(`garda 30: ${u} — lib/imgDims.js spune ${d.join('×')}, fisierul are ${r ? r.join('×') : '?'}`); }
+    });
+    const cere = (u, unde) => {
+      if (IMG_DIMS[u]) return;
+      n++;
+      const r = fs.existsSync(pub(u)) ? dims(pub(u)) : null;
+      err(`garda 30: ${u} (${unde}) lipseste din lib/imgDims.js${r ? ` — adauga  '${u}': [${r[0]}, ${r[1]}],` : ' si din public/'}`);
+    };
+    fisiere('app', /\.js$/).filter(f => /\[slug\][\\/]page\.js$/.test(f) && !/blog/.test(f)).forEach(f => {
+      for (const m of fs.readFileSync(f, 'utf8').matchAll(/\bimg:\s*['"]([^'"]+)['"]/g)) { cere(m[1], rel(f)); cere(m[1].replace('.avif', '.jpg'), rel(f) + ' og:image'); }
+    });
+    ARTICLES.forEach(a => { if (a.imageOg) cere(a.imageOg, 'imageOg ' + a.slugs.ro); });
+    // og:image scris de mana in pagini: dimensiunile declarate = cele reale
+    fisiere('app', /\.js$/).forEach(f => {
+      for (const m of fs.readFileSync(f, 'utf8').matchAll(/(\/og\/[\w.\-]+\.jpg)[`'"]\s*,\s*["']?width["']?\s*:\s*(\d+)\s*,\s*["']?height["']?\s*:\s*(\d+)/g)) {
+        const r = fs.existsSync(pub(m[1])) ? dims(pub(m[1])) : null;
+        if (!r) { n++; err(`garda 30: og:image inexistent ${m[1]} in ${rel(f)}`); }
+        else if (r[0] !== +m[2] || r[1] !== +m[3]) { n++; err(`garda 30: ${m[1]} declarat ${m[2]}×${m[3]} in ${rel(f)}, fisierul are ${r.join('×')}`); }
+      }
+    });
+    console.log(`  Dimensiuni imagini: ${Object.keys(IMG_DIMS).length} in tabel, ${n} abateri`);
+  }
+}
+
+garda23().catch(e => err(`garda 23 nu a putut rula: ${e.message}`)).then(() => garziV327().catch(e => err(`garzile 25–30 nu au putut rula: ${e.message}`))).then(() => {
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }
 console.log(errors === 0 && warnings === 0 ? 'Totul perfect. Safe de commit.\n' : 'Fara erori blocante. Safe de commit (verifica avertismentele).\n');

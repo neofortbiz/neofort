@@ -4,6 +4,7 @@ import { ARTICLES, getArticle, getSlugForLocale, getAllLocaleSlugPairs } from '.
 import { notFound } from 'next/navigation';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { ogDims } from '../../../../lib/imgDims.js';
 const UI = {
   ro: { breadcrumb_home:'Acasă', related:'Articole similare', read_more:'Citește →', read_short:'Citește →', lang_notice:'Disponibil în:' },
   en: { breadcrumb_home:'Home', related:'Related articles', read_more:'Read →', read_short:'Read →', lang_notice:'Available in:' },
@@ -47,7 +48,9 @@ export async function generateMetadata({ params }) {
   return {
     title: metaTitle,
     description: desc,
-    keywords: a.keywords || '',
+    // v327: la unele articole `keywords` e obiect pe limbi; pana acum ajungea ca atare
+    // in <meta> („[object Object]”) si in JSON-LD.
+    keywords: (a.keywords && typeof a.keywords === 'object' ? (a.keywords[locale] || a.keywords.ro) : a.keywords) || '',
     robots: {
       index: true, follow: true,
       googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
@@ -64,7 +67,7 @@ export async function generateMetadata({ params }) {
       siteName: 'Neofort BIZ',
       title: metaTitle,
       description: desc,
-      images: [{ url: a.imageOg ? `${BASE}${a.imageOg}` : `${BASE}/og/BLOG.jpg`, width: 1200, height: 630, alt: title, type: 'image/jpeg' }],
+      images: [{ url: a.imageOg ? `${BASE}${a.imageOg}` : `${BASE}/og/BLOG.jpg`, ...ogDims(a.imageOg || '/og/BLOG.jpg'), alt: title, type: 'image/jpeg' }],
       publishedTime: a.date,
       modifiedTime: a.dateModified || a.date,
       locale: { ro:'ro_RO', en:'en_US', de:'de_DE', fr:'fr_FR', es:'es_ES', it:'it_IT' }[locale] || 'ro_RO',
@@ -305,20 +308,22 @@ export default async function BlogArticlePage({ params }) {
   const articleSchema = {
     "@context":"https://schema.org","@type":"BlogPosting",
     "headline": title,"description": a.metaDesc?.[locale] || excerpt,
-    "keywords": a.keywords || '',"url": `${BASE}/${locale}/blog/${mySlug}`,
+    "keywords": (a.keywords && typeof a.keywords === 'object' ? (a.keywords[locale] || a.keywords.ro) : a.keywords) || '',"url": `${BASE}/${locale}/blog/${mySlug}`,
     "datePublished": a.date,
     "wordCount": a.content?.[locale]?.split(/\s+/).length || a.content?.ro?.split(/\s+/).length || 800,"dateModified": a.dateModified || a.date,"inLanguage": locale,
     "articleSection": cat,
     "author": {
       "@type": "Person",
       "name": authorName,
-      "jobTitle": "Consultant Tehnic Senior",
+      "jobTitle": (a.authorRole && a.authorRole[locale]) || "Consultant Tehnic Senior",
       "worksFor": {"@type":"Organization","name":"Neofort BIZ","url":BASE},
       "image": a.authorPhoto ? `${BASE}${a.authorPhoto}` : `${BASE}/team/mihai-danalache.avif`
     },
     "publisher": {"@type":"Organization","name":"Neofort BIZ","url":BASE,
-      "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":200,"height":60}},
-    "image": {"@type":"ImageObject","url": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`,"width":1200,"height":630},
+      "logo":{"@type":"ImageObject","url":`${BASE}/Neofort.avif`,"width":204,"height":148}},
+    // v327: fara width/height — imaginile articolelor au dimensiuni diferite, iar 1200x630
+    // declarat pentru toate era fals la peste jumatate din ele.
+    "image": a.image?.[locale] ? `${BASE}${a.image[locale]}` : `${BASE}/og/BLOG.jpg`,
     "mainEntityOfPage": {"@type":"WebPage","@id":`${BASE}/${locale}/blog/${mySlug}`},
     // v201: speakable (asistenți vocali + AEO) — titlul și headingurile de secțiune
     "speakable": { "@type":"SpeakableSpecification", "cssSelector": ["h1", "article h2"] },
@@ -378,16 +383,10 @@ export default async function BlogArticlePage({ params }) {
     }))
   } : null;
 
-  // Author Person schema pentru E-E-A-T
-  const articleWithAuthor = {
-    ...articleSchema,
-    "author": {
-      "@type": "Person",
-      "name": "Neofort BIZ",
-      "url": BASE,
-      "sameAs": ["https://www.linkedin.com/company/neofort-biz", "https://www.facebook.com/neofortconstructii"]
-    }
-  };
+  // v327: pana acum autorul real de mai sus era INLOCUIT aici cu o „persoana” numita
+  // „Neofort BIZ” — o firma declarata Person, in contradictie cu semnatura vizibila in
+  // pagina. Ramane autorul real (nume, functie, firma, fotografie).
+  const articleWithAuthor = articleSchema;
 
   return (
     <>

@@ -449,7 +449,7 @@ export async function generateMetadata({ params }) {
         'x-default': `${BASE}/ro/${SLUGS.ro}`,
       },
     },
-    openGraph: { type: 'article', url: canonical, title: ui.h1, description: ui.sub, siteName: 'Neofort BIZ', images: [{ url: `${BASE}/og/Sisteme_de_umbrire__rulouri_exterioare__jaluzele_raffstore__jaluzele_venetiene.jpg`, width: 1200, height: 630, type:'image/jpeg' }] },
+    openGraph: { type: 'article', url: canonical, title: ui.h1, description: ui.sub, siteName: 'Neofort BIZ', images: [{ url: `${BASE}/og/Sisteme_de_umbrire__rulouri_exterioare__jaluzele_raffstore__jaluzele_venetiene.jpg`, width: 1014, height: 564, type:'image/jpeg' }] },
     twitter: { card: 'summary_large_image', site: '@NeofortBIZ', title: ui.h1, description: ui.sub, images: [`${BASE}/og/Sisteme_de_umbrire__rulouri_exterioare__jaluzele_raffstore__jaluzele_venetiene.jpg`] },
   };
 }
@@ -485,7 +485,7 @@ export default async function UmbrirePreturiPage({ params }) {
   // v317: prețurile din cardurile de produs, ca date structurate (OfferCatalog, EUR, fără TVA).
   // Textul de preț are mai multe variante separate prin „·” (manual / cu motor).
   const priceSchema = offerCatalogSchema({
-    base: BASE, url: `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}`, name: ui.h2_products,
+    base: BASE, url: `${BASE}/${locale}/${SLUGS[locale] || SLUGS.ro}`, name: ui.h2_products, locale,
     items: ui.products.map((p) => ({ name: p.name, description: p.desc, prices: String(p.price).split('·') })),
   });
 

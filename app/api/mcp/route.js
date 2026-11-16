@@ -18,17 +18,33 @@
 //
 // Datele vin din /llms.txt (sursa unică, actualizată la fiecare corectură),
 // citit prin fetch cu cache de o oră. Fără pachete npm noi.
+//
+// v327 (după predarea de la neofort.ro, verificat pe specificația 2026-07-28 și
+// pe SDK-ul oficial Python, mcp/shared/inbound.py):
+//  - generația se alege după antet: MCP-Protocol-Version prezent și diferit de o
+//    versiune veche → modern (o versiune necunoscută primește -32022, nu „metodă
+//    inexistentă”);
+//  - pe modern, _meta cu versiunea e obligatoriu (-32602), iar erorile au cod
+//    HTTP: 400 pentru -32700/-32600/-32602/-32020/-32022, 404 pentru -32601;
+//  - argumentele se validează după inputSchema; un argument greșit întoarce un
+//    REZULTAT cu isError: true (agentul poate reîncerca), nu o eroare de protocol;
+//  - rezultatele au și structuredContent, pe lângă textul JSON;
+//  - linkurile spre site au UTM (utm_source=mcp), ca vizitele aduse de agenți să
+//    se vadă în GA4; apelurile se numără pe zile în Redis (mcp:stats:AAAA-LL-ZZ);
+//  - cardul serverului (SEP-2127) e la /api/mcp/server-card.
 
 import { BASE } from '../../../lib/constants.js';
 import { rateLimit, clientIp } from '../../../lib/rateLimit.js';
 import { section, productBlocks, searchProducts, norm } from '../../../lib/llmsData.js';
+import { MCP_TITLE, MCP_VERSION, MCP_MODERN, MCP_LEGACY } from '../../../lib/serverCard.js';
+import { GRUP_NEOFORT, NEOFORT_IMO_URL } from '../../../lib/grupNeofort.js';
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
 
-const SERVER = { name: 'neofort-biz', title: 'Neofort BIZ — windows, doors and shading (Bucharest)', version: '1.0.0' };
-const MODERN = ['2026-07-28'];
-const LEGACY = ['2025-11-25', '2025-06-18', '2025-03-26', '2024-11-05'];
+const SERVER = { name: 'neofort-biz', title: MCP_TITLE, version: MCP_VERSION, websiteUrl: BASE };
+const MODERN = MCP_MODERN;
+const LEGACY = MCP_LEGACY;
 const META_VER = 'io.modelcontextprotocol/protocolVersion';
 const META_SRV = 'io.modelcontextprotocol/serverInfo';
 const MAX_BODY = 64 * 1024;
@@ -36,11 +52,12 @@ const LLMS = `${BASE}/llms.txt`;
 const CONTACT = { ro: '/ro/contact', en: '/en/contact', de: '/de/kontakt', fr: '/fr/contact', es: '/es/contacto', it: '/it/contatti' };
 
 const INSTRUCTIONS =
-  'Neofort BIZ (Bucharest, Romania) supplies and installs Salamander PVC windows, Alumil aluminium systems, ' +
+  'Neofort BIZ (Bucharest, Romania) supplies and installs Salamander PVC windows, Alumil aluminium systems, curtain walls, ' +
   'shading and nZEB installation systems; installation in Bucharest and Ilfov, delivery across the EU. ' +
+  'Neofort BIZ is a supplier and installer, not the profile manufacturer. ' +
   'All prices are indicative, in EUR, without VAT (Romanian VAT 21% is added on the invoice), with standard installation. ' +
-  'The data text is in Romanian. A binding price comes only as a written offer after measurement: ' +
-  'use get_contact_info to send the user to the quote form or to the sales team. Never invent prices.';
+  'The data text is in Romanian. A binding price comes only as a written offer: ' +
+  'use get_contact_info to send the user to the quote form or to the sales team. Never invent prices or technical data.';
 
 const TOOLS = [
   {
@@ -100,7 +117,59 @@ const json = (body, status = 200, extra = {}) =>
 
 const rpcError = (id, code, message) => ({ jsonrpc: '2.0', id: id ?? null, error: { code, message } });
 const rpcResult = (id, result) => ({ jsonrpc: '2.0', id, result });
-const text = (obj, isError = false) => ({ content: [{ type: 'text', text: JSON.stringify(obj) }], ...(isError ? { isError: true } : {}) });
+// Rezultat de unealta: textul JSON (pentru clientii vechi) + structuredContent.
+const text = (obj, isError = false) => ({ content: [{ type: 'text', text: JSON.stringify(obj) }], structuredContent: obj, ...(isError ? { isError: true } : {}) });
+
+// Codul HTTP al unei erori JSON-RPC pe generatia moderna (tabelul din SDK-ul oficial).
+const HTTP_OF = { '-32700': 400, '-32600': 400, '-32602': 400, '-32020': 400, '-32022': 400, '-32601': 404 };
+
+// Atribuire: linkurile spre paginile site-ului primesc UTM. Fisierele .txt/.md
+// raman curate — pe ele le citeste agentul, nu le viziteaza omul.
+function utm(url, tool) {
+  if (!url.startsWith(BASE) || /\.(txt|md|json|xml)(\?|#|$)/.test(url) || url.includes('utm_source=')) return url;
+  const [path, hash = ''] = url.split('#');
+  return `${path}${path.includes('?') ? '&' : '?'}utm_source=mcp&utm_medium=ai-agent&utm_campaign=${tool}${hash ? '#' + hash : ''}`;
+}
+const utmText = (txt, tool) => txt.replace(/https:\/\/www\.neofort-biz\.ro[^\s)\]"'<>]*/g, (u) => {
+  const tail = (u.match(/[.,;:!?]+$/) || [''])[0]; // punctuatia de la sfarsitul propozitiei nu face parte din adresa
+  return utm(tail ? u.slice(0, -tail.length) : u, tool) + tail;
+});
+
+// Validare dupa inputSchema: tip, enum, maxLength, additionalProperties: false.
+function validateArgs(schema, args) {
+  if (args === undefined || args === null) return [];
+  if (typeof args !== 'object' || Array.isArray(args)) return ['arguments must be an object'];
+  const props = schema.properties || {};
+  const errs = [];
+  for (const [k, v] of Object.entries(args)) {
+    const p = props[k];
+    if (!p) { if (schema.additionalProperties === false) errs.push(`unknown argument "${String(k).slice(0, 40)}" (allowed: ${Object.keys(props).join(', ') || 'none'})`); continue; }
+    if (p.type === 'string' && typeof v !== 'string') { errs.push(`"${k}" must be a string`); continue; }
+    if (p.enum && !p.enum.includes(v)) errs.push(`"${k}" must be one of: ${p.enum.join(', ')}`);
+    if (p.maxLength && typeof v === 'string' && v.length > p.maxLength) errs.push(`"${k}" must be at most ${p.maxLength} characters`);
+  }
+  return errs;
+}
+
+// Contor de apeluri pe zile (hash Redis: unealta → numar), pastrat 400 de zile.
+// Fail-open si cu limita de timp: statistica nu are voie sa intarzie raspunsul.
+async function count(tool) {
+  const url = process.env.UPSTASH_REDIS_REST_URL, token = process.env.UPSTASH_REDIS_REST_TOKEN;
+  if (!url || !token) return;
+  const key = `mcp:stats:${new Date().toISOString().slice(0, 10)}`;
+  try {
+    const ctrl = new AbortController();
+    const timer = setTimeout(() => ctrl.abort(), 700);
+    await fetch(`${url}/pipeline`, {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify([['HINCRBY', key, tool, '1'], ['EXPIRE', key, String(400 * 86400)]]),
+      cache: 'no-store',
+      signal: ctrl.signal,
+    });
+    clearTimeout(timer);
+  } catch { /* statistica e optionala */ }
+}
 
 async function loadLlms() {
   const r = await fetch(LLMS, { next: { revalidate: 3600 } });
@@ -124,10 +193,14 @@ async function callTool(name, args) {
       export: { phone: '+40 758 990 048', email: 'export@neofort-biz.ro' }, office: { phone: '+40 21 528 06 61' },
       orders: { email: 'comenzi@neofort-biz.ro' }, service: { email: 'service@neofort-biz.ro' },
       opening_hours: 'Monday–Friday 10:00–18:00 (Romania time)',
-      quote_form: `${BASE}${CONTACT[lang]}`,
+      quote_form: utm(`${BASE}${CONTACT[lang]}`, 'get_contact_info'),
+      website: utm(`${BASE}/${lang}`, 'get_contact_info'),
       quote_needs: 'Name, phone, e-mail, delivery/installation address, what the order includes (measurement, transport, installation or pickup), the products and ideally sizes or sketches (up to 7 files, JPG/PNG/PDF/DWG, 4 MB in total; photos are reduced automatically, larger files go by e-mail to oferte@neofort-biz.ro).',
       note: 'The user sends the request and gives the privacy consent; an agent must not do it on their behalf.',
-      details_ro: contact || undefined,
+      role: 'Supplier and installer of Salamander PVC and Alumil aluminium systems; not the profile manufacturer.',
+      group: GRUP_NEOFORT.en,
+      group_real_estate_site: NEOFORT_IMO_URL,
+      details_ro: contact ? utmText(contact, 'get_contact_info') : undefined,
     });
   }
   let txt;
@@ -135,7 +208,7 @@ async function callTool(name, args) {
   if (name === 'get_prices') {
     const p = section(txt, 'Prețuri orientative');
     if (!p) return text({ error: 'Price section not found. Read ' + LLMS }, true);
-    return text({ currency: 'EUR', vat: 'excluded (21% VAT added on invoice)', language: 'ro', prices: p,
+    return text({ currency: 'EUR', vat: 'excluded (21% VAT added on invoice)', language: 'ro', prices: utmText(p, 'get_prices'),
       note: 'Indicative only; the binding price is the written offer after measurement (see get_contact_info).', source: LLMS });
   }
   if (name === 'get_product_specs') {
@@ -143,10 +216,19 @@ async function callTool(name, args) {
     const q = typeof a.query === 'string' ? a.query.slice(0, 80) : '';
     const hit = searchProducts(blocks, q);
     if (!hit.length) return text({ matches: [], note: `No product matched "${norm(q)}".`, available: blocks.map((b) => `${b.category}: ${b.name}`), source: LLMS });
-    return text({ language: 'ro', count: hit.length, products: hit.slice(0, 12).map((b) => ({ category: b.category, specs: b.text })),
+    return text({ language: 'ro', count: hit.length, products: hit.slice(0, 12).map((b) => ({ category: b.category, specs: utmText(b.text, 'get_product_specs') })),
       ...(hit.length > 12 ? { note: 'Only the first 12 matches are shown; refine the query.' } : {}), source: LLMS });
   }
   return null;
+}
+
+// Validare + apel + contor. Un argument gresit e un rezultat cu isError: true.
+async function runTool(tool, args) {
+  const errs = validateArgs(tool.inputSchema, args);
+  if (errs.length) return text({ error: 'Invalid arguments: ' + errs.join('; ') + '.', tool: tool.name }, true);
+  const out = await callTool(tool.name, args);
+  await count(tool.name);
+  return out;
 }
 
 // ── JSON-RPC ─────────────────────────────────────────────────────────────
@@ -170,11 +252,15 @@ async function handle(msg, headers) {
 
   const metaVer = params._meta && params._meta[META_VER];
   const hdrVer = headers.get('mcp-protocol-version');
-  const modern = typeof metaVer === 'string' || MODERN.includes(hdrVer);
+  // Ca in SDK-ul oficial: antet prezent si diferit de o versiune veche → modern.
+  const modern = typeof metaVer === 'string' || (!!hdrVer && !LEGACY.includes(hdrVer));
 
   if (modern) {
-    // Versiune ceruta: din _meta (sursa autoritara), altfel din antet.
-    const ver = typeof metaVer === 'string' ? metaVer : hdrVer;
+    // Corpul e sursa de adevar: versiunea trebuie sa fie in _meta.
+    if (typeof metaVer !== 'string') {
+      return { status: 400, body: rpcError(id, -32602, `Missing params._meta["${META_VER}"]`) };
+    }
+    const ver = metaVer;
     if (!MODERN.includes(ver)) {
       return { status: 400, body: { jsonrpc: '2.0', id, error: { code: -32022, message: 'Unsupported protocol version', data: { supported: [...MODERN, ...LEGACY], requested: String(ver) } } } };
     }
@@ -183,18 +269,19 @@ async function handle(msg, headers) {
     if (headers.get('mcp-method') !== method) return mismatch(`Mcp-Method header does not match body method '${method}'`);
     if (method === 'tools/call' && headerValue(headers.get('mcp-name')) !== params.name) return mismatch('Mcp-Name header does not match params.name');
 
-    const done = (result) => ({ status: 200, body: rpcResult(id, { resultType: 'complete', ...result, _meta: { [META_SRV]: { name: SERVER.name, version: SERVER.version } } }) });
+    const done = (result) => ({ status: 200, body: rpcResult(id, { resultType: 'complete', ...result, _meta: { [META_SRV]: SERVER } }) });
     switch (method) {
       case 'server/discover':
         return done({ supportedVersions: [...MODERN, ...LEGACY], capabilities: { tools: {} }, instructions: INSTRUCTIONS, ttlMs: 3600000, cacheScope: 'public' });
       case 'tools/list':
         return done({ tools: TOOLS, ttlMs: 3600000, cacheScope: 'public' });
       case 'tools/call': {
-        if (!TOOLS.some((t) => t.name === params.name)) return { status: 200, body: rpcError(id, -32602, `Unknown tool: ${String(params.name).slice(0, 60)}`) };
-        return done(await callTool(params.name, params.arguments));
+        const tool = TOOLS.find((t) => t.name === params.name);
+        if (!tool) return { status: HTTP_OF['-32602'], body: rpcError(id, -32602, `Unknown tool: ${String(params.name).slice(0, 60)}`) };
+        return done(await runTool(tool, params.arguments));
       }
       default:
-        return { status: 404, body: rpcError(id, -32601, `Method not found: ${method.slice(0, 60)}`) };
+        return { status: HTTP_OF['-32601'], body: rpcError(id, -32601, `Method not found: ${method.slice(0, 60)}`) };
     }
   }
 
@@ -212,12 +299,13 @@ async function handle(msg, headers) {
     case 'ping':
       return { status: 200, body: rpcResult(id, {}) };
     case 'server/discover':
-      return { status: 200, body: rpcResult(id, { resultType: 'complete', supportedVersions: [...MODERN, ...LEGACY], capabilities: { tools: {} }, instructions: INSTRUCTIONS, _meta: { [META_SRV]: { name: SERVER.name, version: SERVER.version } } }) };
+      return { status: 200, body: rpcResult(id, { resultType: 'complete', supportedVersions: [...MODERN, ...LEGACY], capabilities: { tools: {} }, instructions: INSTRUCTIONS, _meta: { [META_SRV]: SERVER } }) };
     case 'tools/list':
       return { status: 200, body: rpcResult(id, { tools: TOOLS }) };
     case 'tools/call': {
-      if (!TOOLS.some((t) => t.name === params.name)) return { status: 200, body: rpcError(id, -32602, `Unknown tool: ${String(params.name).slice(0, 60)}`) };
-      return { status: 200, body: rpcResult(id, await callTool(params.name, params.arguments)) };
+      const tool = TOOLS.find((t) => t.name === params.name);
+      if (!tool) return { status: 200, body: rpcError(id, -32602, `Unknown tool: ${String(params.name).slice(0, 60)}`) };
+      return { status: 200, body: rpcResult(id, await runTool(tool, params.arguments)) };
     }
     default:
       return { status: 200, body: rpcError(id, -32601, `Method not found: ${method.slice(0, 60)}`) };
@@ -251,7 +339,7 @@ export async function POST(request) {
 
 // Fara flux SSE: serverul raspunde doar la POST (permis de specificatie).
 export async function GET() {
-  return json({ name: SERVER.name, transport: 'streamable-http', endpoint: `${BASE}/api/mcp`, info: 'POST JSON-RPC 2.0 MCP messages to this URL.' }, 405, { Allow: 'POST, OPTIONS' });
+  return json({ name: SERVER.name, transport: 'streamable-http', endpoint: `${BASE}/api/mcp`, serverCard: `${BASE}/api/mcp/server-card`, info: 'POST JSON-RPC 2.0 MCP messages to this URL.' }, 405, { Allow: 'POST, OPTIONS' });
 }
 
 export async function DELETE() {

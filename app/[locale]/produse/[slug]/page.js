@@ -4,6 +4,8 @@ import FaqAccordion from '../../../../components/FaqAccordion';
 import { getTranslations } from 'next-intl/server';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { ogDims, imgBox } from '../../../../lib/imgDims.js';
+import { itemPageSchema, manufacturerSchema } from '../../../../lib/productSchema.js';
 import { PRODUCT_META } from '../../../../data/productMeta.js';
 import { PRODUCT_FAQ } from '../../../../data/productFaq.js';
 const PROD_SEG = {ro:'produse',en:'products',de:'produkte',fr:'produits',es:'productos',it:'prodotti'};
@@ -539,9 +541,9 @@ export async function generateMetadata({ params }) {
       type:'website', url:`${BASE}/${locale}/${(PROD_SEG[locale]||'produse')}/${localSlug}`,
       siteName:'Neofort BIZ', title,
       description: desc,
-      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600, alt:name, type:'image/jpeg' }],
+      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, ...ogDims(product.img.replace('.avif','.jpg')), alt:name, type:'image/jpeg' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600 }] }, };
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, ...ogDims(product.img.replace('.avif','.jpg')) }] }, };
 }
 
 // ─── PAGE ─────────────────────────────────────────────────────────────────────
@@ -574,6 +576,8 @@ export default async function ProductPage({ params }) {
   // definit in app/[locale]/page.js la ${BASE}/#localbusiness, unde stau vatID, geo,
   // areaServed, aggregateRating si knowsAbout. Un crawler LLM vedea doua firme fara
   // legatura. Acum seller e o REFERINTA prin @id catre acel nod unic.
+  // v327: `seller` si `inLanguage` nu sunt valide pe Product; legatura cu firma si limba
+  // stau pe nodul ItemPage (lib/productSchema.js), legat de Product prin mainEntity.
   const pageUrl = `${BASE}/${locale}/${(PROD_SEG[locale]||'produse')}/${SLUG_MAP[canonical]?.[locale] || slug}`;
   // isSimilarTo: celelalte produse din aceeasi familie — ancoreaza comparatiile LLM
   const siblings = Object.keys(PRODUCTS).filter(k => k !== canonical).map(k => ({
@@ -599,12 +603,10 @@ export default async function ProductPage({ params }) {
     '@id': `${pageUrl}#product`,
     url: pageUrl,
     category: cat,
-    inLanguage: locale,
     'name': name, 'description': seotxt,
     'image': `${BASE}${product.img}`,
     'brand': { '@type':'Brand', 'name':'Salamander' },
-    'manufacturer': { '@type':'Organization', 'name':'Salamander GmbH & Co. KG', 'addressCountry':'DE' },
-    seller: { '@id': `${BASE}/#localbusiness` },
+    'manufacturer': manufacturerSchema('Salamander GmbH & Co. KG', 'DE'),
     'additionalProperty': [...specs, ...perfExtra].map(([n,v]) => ({ '@type':'PropertyValue', 'name':n, 'value':v })),
     isSimilarTo: siblings,
   };
@@ -625,6 +627,7 @@ export default async function ProductPage({ params }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemPageSchema({ base: BASE, pageUrl, locale, name })) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>}
       <style>{`
@@ -725,7 +728,7 @@ export default async function ProductPage({ params }) {
 
           {/* Imagine */}
           <div className="prd-img-wrap">
-            <img src={product.img} alt={name} className="prd-img" loading="eager"/>
+            <img src={product.img} alt={name} className="prd-img" loading="eager" fetchpriority="high" decoding="async" {...imgBox(product.img)}/>
             <span className="prd-badge-serie" style={{color: c, background:`${c}18`, border:`1px solid ${c}30`}}>
               {serie}
             </span>

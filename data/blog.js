@@ -6313,7 +6313,7 @@ Rupere de punte termică 40 mm, Uf de la 0,85 W/(m²K) la profil — Uw-ul feres
 2. **Consultanță tehnică** — discutăm proiectul, tipul de construcție, orientarea
 3. **Ofertă personalizată în 48 de ore** — pe baza dimensiunilor sau a schițelor tale, cu specificații tehnice complete, transparente
 4. **Contract și măsurători la fața locului** — după semnarea contractului, echipa noastră vine și măsoară golurile exacte
-5. **Producție și livrare** — 7–14 zile lucrătoare pentru profiluri standard
+5. **Producție și livrare** — 2–4 săptămâni pentru profiluri standard
 6. **Montaj nZEB** — echipe proprii cu benzi precomprimate Soudal și precadre Blaugelb
 7. **Garanție scrisă** — 5–10 ani pe profilul PVC Salamander, 10+ ani pe aluminiul Alumil și 2 ani pe montaj
 
@@ -6345,7 +6345,7 @@ Un geam dublu standard are Uw = 1,3-1,6 W/(m²K), peste pragul nZEB de 1,0 W/(m�
 
 ### Cât durează de la comandă până la montaj?
 
-Oferta o primești în 48 de ore, pe baza dimensiunilor sau a schițelor tale. După semnarea contractului venim la măsurători, iar producția și livrarea durează 7–14 zile lucrătoare pentru profilurile standard. Montajul îl fac echipele noastre, cu benzi precomprimate Soudal și precadre Blaugelb.
+Oferta o primești în 48 de ore, pe baza dimensiunilor sau a schițelor tale. După semnarea contractului venim la măsurători, iar producția și livrarea durează 2–4 săptămâni pentru profilurile standard. Montajul îl fac echipele noastre, cu benzi precomprimate Soudal și precadre Blaugelb.
 
 
 ---
@@ -6410,7 +6410,7 @@ Without all these elements together, a manufacturer cannot legitimately speak of
 2. **Technical consultation** — we discuss the project, type of construction, orientation
 3. **Personalised quote within 48 hours** — based on your dimensions or sketches, with complete, transparent technical specifications
 4. **Contract and on-site measurements** — once the contract is signed, our team comes and measures the exact openings
-5. **Production and delivery** — 7–14 working days for standard profiles
+5. **Production and delivery** — 2–4 weeks for standard profiles
 6. **nZEB installation** — own teams with Soudal pre-compressed tapes and Blaugelb preframes
 7. **Written warranty** — 5–10 years on the Salamander PVC profile, 10+ years on Alumil aluminium and 2 years on installation
 
@@ -6442,7 +6442,7 @@ Standard double glazing has Uw = 1.3-1.6 W/(m²K), above the nZEB threshold of 1
 
 ### How long does it take from order to installation?
 
-You get the quote within 48 hours, based on your sizes or sketches. After the contract is signed we come to measure, and production and delivery take 7–14 working days for standard profiles. Installation is done by our own crews, with Soudal pre-compressed tapes and Blaugelb precasings.
+You get the quote within 48 hours, based on your sizes or sketches. After the contract is signed we come to measure, and production and delivery take 2–4 weeks for standard profiles. Installation is done by our own crews, with Soudal pre-compressed tapes and Blaugelb precasings.
 
 ---
 
@@ -6503,7 +6503,7 @@ Der Begriff „erweiterte Dämmung" wird von vielen Anbietern in Bukarest ohne k
 2. **Fachberatung** — wir besprechen das Projekt, Bauart, Ausrichtung
 3. **Individuelles Angebot in 48 Stunden** — auf Basis Ihrer Maße oder Skizzen, mit vollständigen, transparenten technischen Spezifikationen
 4. **Vertrag und Aufmaß vor Ort** — nach Vertragsunterzeichnung kommt unser Team und misst die genauen Öffnungen
-5. **Produktion und Lieferung** — 7–14 Werktage für Standardprofile
+5. **Produktion und Lieferung** — 2–4 Wochen für Standardprofile
 6. **nZEB-Montage** — Eigenteams mit Soudal-Bändern und Blaugelb-Vorblendrahmen
 7. **Schriftliche Garantie** — 5–10 Jahre auf das Salamander-PVC-Profil, 10+ Jahre auf Alumil-Aluminium und 2 Jahre auf die Montage
 
@@ -6535,7 +6535,7 @@ Standard-Doppelglas hat Uw = 1,3-1,6 W/(m²K), über der nZEB-Schwelle von 1,0 W
 
 ### Wie lange dauert es von der Bestellung bis zur Montage?
 
-Das Angebot erhalten Sie innerhalb von 48 Stunden, auf Basis Ihrer Maße oder Skizzen. Nach Vertragsunterzeichnung kommen wir zum Aufmaß; Fertigung und Lieferung dauern bei Standardprofilen 7–14 Werktage. Die Montage übernehmen unsere eigenen Teams, mit vorkomprimierten Soudal-Bändern und Blaugelb-Vorbaurahmen.
+Das Angebot erhalten Sie innerhalb von 48 Stunden, auf Basis Ihrer Maße oder Skizzen. Nach Vertragsunterzeichnung kommen wir zum Aufmaß; Fertigung und Lieferung dauern bei Standardprofilen 2–4 Wochen. Die Montage übernehmen unsere eigenen Teams, mit vorkomprimierten Soudal-Bändern und Blaugelb-Vorbaurahmen.
 
 ---
 
@@ -6596,7 +6596,7 @@ Rupture thermique 40 mm, Uf à partir de 0,85 W/(m²K) au profilé — selon Alu
 2. **Consultation technique** — nous discutons du projet, type de construction, orientation
 3. **Devis personnalisé en 48 heures** — à partir de vos dimensions ou croquis, avec spécifications techniques complètes et transparentes
 4. **Contrat et métrage sur place** — après la signature du contrat, notre équipe vient mesurer les ouvertures exactes
-5. **Production et livraison** — 7 à 14 jours ouvrables pour les profilés standard
+5. **Production et livraison** — 2 à 4 semaines pour les profilés standard
 6. **Pose nZEB** — équipes propres avec bandes Soudal et précadres Blaugelb
 7. **Garantie écrite** — 5 à 10 ans sur le profilé PVC Salamander, 10+ ans sur l'aluminium Alumil et 2 ans sur la pose
 
@@ -6624,7 +6624,7 @@ Un double vitrage standard a Uw = 1,3-1,6 W/(m²K), au-dessus du seuil nZEB de 1
 
 ### Combien de temps entre la commande et la pose ?
 
-Vous recevez le devis sous 48 heures, à partir de vos dimensions ou croquis. Après la signature du contrat, nous venons prendre les mesures ; la fabrication et la livraison prennent 7 à 14 jours ouvrés pour les profilés standard. La pose est réalisée par nos propres équipes, avec bandes précomprimées Soudal et précadres Blaugelb.
+Vous recevez le devis sous 48 heures, à partir de vos dimensions ou croquis. Après la signature du contrat, nous venons prendre les mesures ; la fabrication et la livraison prennent 2 à 4 semaines pour les profilés standard. La pose est réalisée par nos propres équipes, avec bandes précomprimées Soudal et précadres Blaugelb.
 
 ---
 
@@ -6685,7 +6685,7 @@ Rotura térmica 40 mm, Uf desde 0,85 W/(m²K) en el perfil — según Alumil, el
 2. **Consulta técnica** — discutimos el proyecto, tipo de construcción, orientación
 3. **Presupuesto personalizado en 48 horas** — a partir de sus medidas o bocetos, con especificaciones técnicas completas y transparentes
 4. **Contrato y mediciones in situ** — tras la firma del contrato, nuestro equipo viene y mide las aperturas exactas
-5. **Producción y entrega** — 7–14 días hábiles para perfiles estándar
+5. **Producción y entrega** — 2–4 semanas para perfiles estándar
 6. **Instalación nZEB** — equipos propios con cintas Soudal y premarcos Blaugelb
 7. **Garantía escrita** — 5–10 años en el perfil de PVC Salamander, 10+ años en el aluminio Alumil y 2 años en la instalación
 
@@ -6713,7 +6713,7 @@ Un doble vidrio estándar tiene Uw = 1,3-1,6 W/(m²K), por encima del umbral nZE
 
 ### ¿Cuánto se tarda desde el pedido hasta la instalación?
 
-Recibe el presupuesto en 48 horas, a partir de sus medidas o bocetos. Tras la firma del contrato vamos a medir, y la fabricación y la entrega tardan 7–14 días laborables con perfiles estándar. La instalación la hacen nuestros propios equipos, con cintas precomprimidas Soudal y premarcos Blaugelb.
+Recibe el presupuesto en 48 horas, a partir de sus medidas o bocetos. Tras la firma del contrato vamos a medir, y la fabricación y la entrega tardan 2–4 semanas con perfiles estándar. La instalación la hacen nuestros propios equipos, con cintas precomprimidas Soudal y premarcos Blaugelb.
 
 ---
 
@@ -6774,7 +6774,7 @@ Taglio termico 40 mm, Uf a partire da 0,85 W/(m²K) al profilo — secondo Alumi
 2. **Consulenza tecnica** — discutiamo il progetto, tipo di costruzione, orientamento
 3. **Preventivo personalizzato in 48 ore** — sulla base delle vostre misure o dei vostri schizzi, con specifiche tecniche complete e trasparenti
 4. **Contratto e misurazioni in loco** — dopo la firma del contratto, il nostro team viene e misura le aperture esatte
-5. **Produzione e consegna** — 7–14 giorni lavorativi per profili standard
+5. **Produzione e consegna** — 2–4 settimane per profili standard
 6. **Installazione nZEB** — team propri con nastri Soudal e controtelai Blaugelb
 7. **Garanzia scritta** — 5–10 anni sul profilo in PVC Salamander, 10+ anni sull'alluminio Alumil e 2 anni sulla posa
 
@@ -6802,7 +6802,7 @@ Un doppio vetro standard ha Uw = 1,3-1,6 W/(m²K), sopra la soglia nZEB di 1,0 W
 
 ### Quanto tempo passa dall'ordine alla posa?
 
-Ricevete il preventivo entro 48 ore, in base alle vostre misure o ai vostri schizzi. Dopo la firma del contratto veniamo a fare il rilievo; produzione e consegna richiedono 7–14 giorni lavorativi per i profili standard. La posa è eseguita dalle nostre squadre, con nastri precompressi Soudal e controtelai Blaugelb.
+Ricevete il preventivo entro 48 ore, in base alle vostre misure o ai vostri schizzi. Dopo la firma del contratto veniamo a fare il rilievo; produzione e consegna richiedono 2–4 settimane per i profili standard. La posa è eseguita dalle nostre squadre, con nastri precompressi Soudal e controtelai Blaugelb.
 
 ---
 
@@ -7655,7 +7655,7 @@ Neofort BIZ furnizează și montează jaluzele exterioare în **toate sectoarele
 1. Soliciți ofertă prin formularul de contact sau telefonic
 2. Primești ofertă personalizată în 48 de ore
 3. După semnarea contractului venim la fața locului pentru măsurători
-4. Livrăm și montăm în 5–10 zile lucrătoare
+4. Livrăm și montăm în 2–4 săptămâni
 5. Certificat de garanție scris pe produs și montaj: 2 ani pe montaj, 5 ani pe motorul Somfy
 
 ---
@@ -7745,7 +7745,7 @@ Neofort BIZ supplies and installs exterior blinds in **all sectors of Bucharest*
 1. Request a quote via the contact form or by phone
 2. You receive a personalised quote within 48 hours
 3. After the contract is signed we come on-site to take measurements
-4. We deliver and install in 5–10 working days
+4. We deliver and install in 2–4 weeks
 5. Written warranty certificate for product and installation: 2 years on installation, 5 years on the Somfy motor
 
 ---
@@ -7835,7 +7835,7 @@ Neofort BIZ liefert und montiert Außenjalousien in **allen Stadtbezirken Bukare
 1. Angebot über das Kontaktformular oder telefonisch anfordern
 2. Sie erhalten innerhalb von 48 Stunden ein individuelles Angebot
 3. Nach Vertragsabschluss nehmen wir vor Ort Maß
-4. Lieferung und Montage in 5–10 Werktagen
+4. Lieferung und Montage in 2–4 Wochen
 5. Schriftlicher Garantieschein für Produkt und Montage: 2 Jahre auf die Montage, 5 Jahre auf den Somfy-Motor
 
 ---
@@ -7925,7 +7925,7 @@ Neofort BIZ fournit et pose des stores extérieurs dans **tous les secteurs de B
 1. Demande de devis via le formulaire de contact ou par téléphone
 2. Vous recevez un devis personnalisé sous 48 heures
 3. Après la signature du contrat, nous venons prendre les cotes sur place
-4. Livraison et pose en 5 à 10 jours ouvrables
+4. Livraison et pose en 2 à 4 semaines
 5. Certificat de garantie écrit pour le produit et la pose : 2 ans sur la pose, 5 ans sur le moteur Somfy
 
 ---
@@ -8015,7 +8015,7 @@ Neofort BIZ suministra e instala persianas exteriores en **todos los sectores de
 1. Solicitar presupuesto a través del formulario de contacto o por teléfono
 2. Recibes un presupuesto personalizado en 48 horas
 3. Tras firmar el contrato acudimos a tomar las medidas en obra
-4. Entregamos e instalamos en 5–10 días hábiles
+4. Entregamos e instalamos en 2–4 semanas
 5. Certificado de garantía escrito para producto e instalación: 2 años en la instalación, 5 años en el motor Somfy
 
 ---
@@ -8105,7 +8105,7 @@ Neofort BIZ fornisce e installa veneziane esterne in **tutti i settori di Bucare
 1. Richiedere un preventivo tramite il modulo di contatto o telefonicamente
 2. Ricevi un preventivo personalizzato entro 48 ore
 3. Dopo la firma del contratto veniamo sul posto per il rilievo
-4. Consegniamo e installiamo in 5–10 giorni lavorativi
+4. Consegniamo e installiamo in 2–4 settimane
 5. Certificato di garanzia scritto per prodotto e posa: 2 anni sulla posa, 5 anni sul motore Somfy
 
 ---
@@ -12761,7 +12761,7 @@ Pe baza măsurătorilor exacte, emitem **oferta finală** cu prețul per fereast
 
 ### Pasul 4 — Fabricația
 
-Producție la **fabrica noastră**:
+Tâmplăria se fabrică **la comandă, în fabrică**:
 - Tăiere profile CNC pe lungimi exacte
 - Sudare colțuri cu mașini cu 4 capete
 - Montare feronerie Roto, Siegenia, Maco
@@ -12907,7 +12907,7 @@ Based on exact measurements, we issue the **final quote** with itemised price pe
 
 ### Step 4 — Production
 
-Production at **our factory**:
+The joinery is made **to order, in the factory**:
 - CNC profile cutting to exact lengths
 - Corner welding with 4-head machines
 - Roto, Siegenia, Maco hardware installation
@@ -13053,7 +13053,7 @@ Auf Basis der genauen Messungen erstellen wir das **endgültige Angebot** mit au
 
 ### Schritt 4 — Produktion
 
-Produktion in **unserer Fabrik**:
+Die Fenster werden **auf Bestellung im Werk** gefertigt:
 - CNC-Profilschnitt auf genaue Längen
 - Eckschweißen mit 4-Kopf-Maschinen
 - Einbau von Roto-, Siegenia-, Maco-Beschlägen
@@ -13199,7 +13199,7 @@ Sur la base des métrés exacts, nous émettons le **devis final** avec le prix 
 
 ### Étape 4 — Fabrication
 
-Production à **notre usine** :
+Les menuiseries sont fabriquées **sur commande, en usine** :
 - Coupe des profils CNC aux longueurs exactes
 - Soudure des angles avec machines à 4 têtes
 - Pose de quincaillerie Roto, Siegenia, Maco
@@ -13345,7 +13345,7 @@ Basándose en mediciones exactas, emitimos el **presupuesto final** con el preci
 
 ### Paso 4 — Fabricación
 
-Producción en **nuestra fábrica**:
+La carpintería se fabrica **bajo pedido, en fábrica**:
 - Corte de perfiles CNC a longitudes exactas
 - Soldadura de esquinas con máquinas de 4 cabezas
 - Instalación de herrajes Roto, Siegenia, Maco
@@ -13491,7 +13491,7 @@ Sulla base delle misurazioni esatte, emettiamo il **preventivo finale** con il p
 
 ### Passo 4 — Produzione
 
-Produzione presso **il nostro stabilimento**:
+I serramenti sono prodotti **su ordinazione, in fabbrica**:
 - Taglio profili CNC alle lunghezze esatte
 - Saldatura angoli con macchine a 4 teste
 - Installazione ferramenta Roto, Siegenia, Maco

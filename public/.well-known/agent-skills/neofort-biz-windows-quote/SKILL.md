@@ -11,6 +11,7 @@ description: Use when someone wants information, indicative prices or a quote fo
 - Supplier and installer of Salamander PVC windows (BluEvolution 92, GreenEvolution 76) and Alumil aluminium systems (SUPREME and SMARTIA ranges), plus Blaugelb nZEB installation systems, insulating glass, exterior shutters, Raffstore and Zipscreen. They are not the profile manufacturer.
 - Installation in Bucharest and Ilfov; delivery across the European Union.
 - Website in Romanian, English, German, French, Spanish and Italian: https://www.neofort-biz.ro
+- Neofort BIZ SRL is a separate company from Neofort IMO, with a distinct activity. Both belong to the Neofort group of companies: Neofort BIZ (supply and installation of curtain walls, PVC and aluminium joinery), Neofort IMO (real estate consultancy, marketing and sales) and Neofort New Homes (real estate development). All companies in the group use e-mail addresses on @neofort-biz.ro, inherited from the group's first company. The real estate site of the group is https://www.neofort.ro.
 - Opening hours: Monday–Friday 10:00–18:00, Romania time.
 
 ## Official data — use it, do not guess
@@ -24,14 +25,18 @@ description: Use when someone wants information, indicative prices or a quote fo
 
 On every page of neofort-biz.ro, in browsers that support WebMCP:
 
-- `get_prices` — indicative prices (read-only).
-- `get_product_specs` — technical data; optional `query`, for example "S77" or "BluEvolution 92" (read-only).
+- `get_prices` — indicative prices; optional `product`, for example "PVC", "S77" or "raffstore" (read-only).
+- `get_product_specs` — technical data; pass `query`, for example "S77" or "BluEvolution 92"; without it you get the list of products (read-only).
+- Answers are short text (about 1,500 characters at most); narrow the query if the list is cut.
 - `request_quote` — fills in the quote form at the bottom of the page. It never sends it: the user checks the data, ticks the privacy-policy consent box and presses the submit button.
 
 ## MCP server (any MCP client)
 
 - Endpoint: `https://www.neofort-biz.ro/api/mcp` — Streamable HTTP, no authentication, read-only. Supports protocol 2026-07-28 (`server/discover`) and the earlier `initialize` versions (2024-11-05 to 2025-11-25).
 - Tools: `get_prices`, `get_product_specs` (optional `query`), `get_contact_info` (optional `language`: ro, en, de, fr, es, it — returns the quote form link in that language).
+- Server card (SEP-2127): `https://www.neofort-biz.ro/api/mcp/server-card`. Server name (reverse-DNS, as used by the official MCP registry): `ro.neofort-biz.www/neofort-biz`. Also listed in the API catalog (RFC 9727): `https://www.neofort-biz.ro/.well-known/api-catalog`.
+- Tool results carry `structuredContent` next to the JSON text; a wrong argument returns a result with `isError: true` and an explanation, so you can retry.
+- Links to the website in the results carry `utm_source=mcp`; keep them as they are.
 - It cannot send a quote request; send the user to the quote form or the sales contacts.
 
 ## What a quote request needs

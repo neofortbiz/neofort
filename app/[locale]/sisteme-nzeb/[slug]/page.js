@@ -3,6 +3,8 @@ import { Link } from '../../../../i18n/navigation';
 import FaqAccordion from '../../../../components/FaqAccordion';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { ogDims, imgBox } from '../../../../lib/imgDims.js';
+import { itemPageSchema, manufacturerSchema } from '../../../../lib/productSchema.js';
 import { PRODUCT_META, PRODUCT_BRAND } from '../../../../data/productMeta.js';
 import { PRODUCT_FAQ } from '../../../../data/productFaq.js';
 const NZEB_SEG = {ro:'sisteme-nzeb',en:'nzeb-systems',de:'nzeb-systeme',fr:'systemes-nzeb',es:'sistemas-nzeb',it:'sistemi-nzeb'};
@@ -379,9 +381,9 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type:'website', url:`${BASE}/${locale}/${(NZEB_SEG[locale]||'sisteme-nzeb')}/${localSlug}`,
       siteName:'Neofort BIZ', title, description: desc,
-      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600, alt:name, type:'image/jpeg' }],
+      images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, ...ogDims(product.img.replace('.avif','.jpg')), alt:name, type:'image/jpeg' }],
     },
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, width:800, height:600 }] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title, description: desc, images:[{ url:`${BASE}${product.img.replace('.avif','.jpg')}`, ...ogDims(product.img.replace('.avif','.jpg')) }] },
   }
 }
 
@@ -413,6 +415,8 @@ export default async function NzebProductPage({ params }) {
   // definit in app/[locale]/page.js la ${BASE}/#localbusiness, unde stau vatID, geo,
   // areaServed, aggregateRating si knowsAbout. Un crawler LLM vedea doua firme fara
   // legatura. Acum seller e o REFERINTA prin @id catre acel nod unic.
+  // v327: `seller` si `inLanguage` nu sunt valide pe Product; legatura cu firma si limba
+  // stau pe nodul ItemPage (lib/productSchema.js), legat de Product prin mainEntity.
   const pageUrl = `${BASE}/${locale}/${(NZEB_SEG[locale]||'sisteme-nzeb')}/${SLUG_MAP[canonical]?.[locale] || slug}`;
   // isSimilarTo: celelalte produse din aceeasi familie — ancoreaza comparatiile LLM
   const siblings = Object.keys(PRODUCTS).filter(k => k !== canonical).map(k => ({
@@ -437,11 +441,9 @@ export default async function NzebProductPage({ params }) {
     '@id': `${pageUrl}#product`,
     url: pageUrl,
     category: cat,
-    inLanguage: locale,
     name, description: seotxt, image: `${BASE}${product.img}`,
     brand: { '@type':'Brand', name: (PRODUCT_BRAND[canonical]?.brand || 'Neofort BIZ') },
-    ...(PRODUCT_BRAND[canonical] ? { manufacturer: { '@type':'Organization', name: PRODUCT_BRAND[canonical].manufacturer, addressCountry: PRODUCT_BRAND[canonical].country } } : {}),
-    seller: { '@id': `${BASE}/#localbusiness` },
+    ...(PRODUCT_BRAND[canonical] ? { manufacturer: manufacturerSchema(PRODUCT_BRAND[canonical].manufacturer, PRODUCT_BRAND[canonical].country) } : {}),
     additionalProperty: [...specs, ...perfExtra].map(([n,v]) => ({ '@type':'PropertyValue', name:n, value:v })),
     isSimilarTo: siblings,
   };
@@ -463,6 +465,7 @@ export default async function NzebProductPage({ params }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemPageSchema({ base: BASE, pageUrl, locale, name })) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       {faqSchema && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>}
       <style>{`
@@ -517,7 +520,7 @@ export default async function NzebProductPage({ params }) {
 
         <div className="prd-hero">
           <div className="prd-img-wrap">
-            <img src={product.img} alt={name} className="prd-img" loading="eager"/>
+            <img src={product.img} alt={name} className="prd-img" loading="eager" fetchpriority="high" decoding="async" {...imgBox(product.img)}/>
             <span className="prd-badge" style={{color:c,background:`${c}18`,border:`1px solid ${c}30`}}>{serie}</span>
           </div>
           <div>

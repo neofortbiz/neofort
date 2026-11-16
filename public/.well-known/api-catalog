@@ -1,0 +1,17 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.neofort-biz.ro/api/mcp",
+      "service-desc": [
+        { "href": "https://www.neofort-biz.ro/api/mcp/server-card", "type": "application/mcp-server-card+json" }
+      ],
+      "service-doc": [
+        { "href": "https://www.neofort-biz.ro/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md", "type": "text/markdown" },
+        { "href": "https://www.neofort-biz.ro/llms.txt", "type": "text/plain" }
+      ],
+      "service-meta": [
+        { "href": "https://www.neofort-biz.ro/.well-known/ard.json", "type": "application/json" }
+      ]
+    }
+  ]
+}

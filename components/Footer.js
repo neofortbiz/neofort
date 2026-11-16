@@ -248,6 +248,10 @@ export default function Footer({ googleRating }) {
     files.forEach(f => fd.append('files', f));
     // v217: trimite limba curenta, ca emailul de confirmare sa fie in limba vizitatorului
     fd.append('locale', locale);
+    // v327: cererea completata de un asistent AI e marcata in e-mailul intern;
+    // „pagina” spune echipei de pe ce pagina a plecat cererea.
+    if (agentFilled) fd.append('sursa', 'webmcp');
+    fd.append('pagina', (typeof window !== 'undefined' && window.location.pathname) || '');
     // Anti-spam (v259): honeypot + milisecunde scurse de la incarcarea paginii
     fd.append('website', form.website ? form.website.value : '');
     fd.append('t', String(Date.now() - loadedAt.current));
@@ -291,6 +295,13 @@ export default function Footer({ googleRating }) {
     };
     const str = (v, max) => (typeof v === 'string' ? v.trim().slice(0, max) : '');
     const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+    // Unealta raspunde dupa ce React a aplicat starea si browserul a desenat
+    // (recomandarea Chrome: interfata se actualizeaza inainte de raspuns).
+    // Limita de timp acopera filele din fundal, unde requestAnimationFrame nu ruleaza.
+    const afterPaint = () => Promise.race([
+      new Promise(r => requestAnimationFrame(() => setTimeout(r, 0))),
+      sleep(300),
+    ]);
 
     const execute = async (input) => {
       const a = input && typeof input === 'object' ? input : {};
@@ -364,7 +375,7 @@ export default function Footer({ googleRating }) {
 
       // Duce vizitatorul la acord si la buton, fara salt brusc.
       const reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-      await sleep(60);
+      await afterPaint();
       const target = document.getElementById('agent-note') || document.getElementById('gdpr-cb');
       if (target) target.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block:'center' });
 
@@ -384,16 +395,39 @@ export default function Footer({ googleRating }) {
       });
     };
 
-    // v315: fiecare unealta se inregistreaza separat — o eroare la una nu le blocheaza pe celelalte.
+    // ── v327: regulile Chrome pentru unelte (developer.chrome.com/docs/ai/webmcp) ──
+    //  - limite recomandate: nume ≤ 30 de caractere, descriere ≤ 500, descrierea
+    //    unui parametru ≤ 150, RASPUNS ≤ ~1.500 de caractere. Raspunsurile de
+    //    citire erau JSON de mii de caractere; acum sunt text scurt, taiat cu
+    //    „… inca N” si cu indicatia de a restrange cautarea;
+    //  - uneltele se inregistreaza IN LOT: ori toate, ori niciuna. Daca una
+    //    esueaza (sincron sau asincron), se retrag toate — agentul nu vede o
+    //    pagina „pe jumatate”. Site-ul ramane neatins in orice caz.
+    const LIMIT = 1450;
+    const fit = (head, lines, foot, more) => {
+      let out = head, n = 0;
+      for (const l of lines) {
+        if ((out + '\n' + l + '\n' + more(lines.length) + '\n' + foot).length > LIMIT) break;
+        out += '\n' + l; n++;
+      }
+      if (n < lines.length) out += '\n' + more(lines.length - n);
+      return out + '\n' + foot;
+    };
+    const plain = (l) => l.replace(/\*\*/g, '').replace(/^- /, '• ');
+
     const ctrl = new AbortController();
-    const reg = (def) => {
+    const registerAll = (defs) => {
+      const pending = [];
       try {
-        const r = mc.registerTool(def, { signal: ctrl.signal });
-        if (r && typeof r.catch === 'function') r.catch(() => {});
-      } catch (e) { /* API experimental: orice eroare lasa site-ul neatins */ }
+        for (const def of defs) {
+          const r = mc.registerTool(def, { signal: ctrl.signal });
+          if (r && typeof r.then === 'function') pending.push(r);
+        }
+      } catch (e) { ctrl.abort(); return; }
+      if (pending.length) Promise.all(pending).catch(() => ctrl.abort());
     };
 
-    // ── v315: unelte doar de citire, din /llms.txt ─────────────────────────
+    // ── unelte doar de citire, din /llms.txt ───────────────────────────────
     // Sursa unica: public/llms.txt (actualizat la fiecare corectura de pret
     // sau de date tehnice). Se descarca doar cand un agent cere, o data.
     let llmsP = null;
@@ -413,39 +447,71 @@ export default function Footer({ googleRating }) {
       return L.slice(i, j).join('\n').trim();
     };
     const SRC = 'https://www.neofort-biz.ro/llms.txt';
-    const fail = () => JSON.stringify({ ok:false, error:'The data could not be loaded right now. Try again, or read ' + SRC });
+    const fail = () => 'The data could not be loaded right now. Try again, or read ' + SRC;
+    const flat = (x) => norm(x).replace(/\s+/g, '');
+    const matcher = (query) => {
+      const q = norm(typeof query === 'string' ? query.slice(0, 80) : '');
+      const toks = q.split(' ').filter(Boolean);
+      return { q, test: (t) => !toks.length || toks.every(tk => norm(t).includes(tk) || flat(t).includes(tk)) || flat(t).includes(flat(q)) };
+    };
 
-    reg({
+    // v327: unealta actioneaza si pe pagina pe care e omul. Daca pagina are un tabel de
+    // preturi cu randuri care se potrivesc cererii, ele sunt aduse in ecran si conturate
+    // cateva secunde INAINTE de raspuns (regula Chrome: intai se actualizeaza pagina).
+    // Nu schimba nimic pe paginile fara tabel si nu poate strica raspunsul (prinde orice eroare).
+    const showRows = async (m) => {
+      try {
+        if (!m.q) return 0;
+        const rows = Array.from(document.querySelectorAll('main table tbody tr')).filter(r => m.test(r.textContent || ''));
+        if (!rows.length) return 0;
+        rows.forEach(r => {
+          const o = r.style.outline, off = r.style.outlineOffset;
+          r.style.outline = '2px solid #e8721c'; r.style.outlineOffset = '-2px';
+          setTimeout(() => { r.style.outline = o; r.style.outlineOffset = off; }, 8000);
+        });
+        rows[0].scrollIntoView({ block: 'center', behavior: 'instant' });
+        await afterPaint();
+        return rows.length;
+      } catch (e) { return 0; }
+    };
+
+    const getPrices = {
       name: 'get_prices',
       description:
-        'Indicative 2026 prices of Neofort BIZ (Bucharest, Romania): Salamander PVC windows, Alumil aluminium systems, sliding and folding doors, curtain walls, entrance doors, nZEB installation, shutters, Raffstore, Zipscreen. ' +
-        'All prices are in EUR, without VAT (Romanian VAT 21% is added on the invoice), with standard installation in Bucharest and Ilfov. ' +
-        'The text is in Romanian. Final prices come only in a written quote after measurement.',
-      inputSchema: { type:'object', properties: {} },
+        'Indicative 2026 prices of Neofort BIZ (Bucharest, Romania) for Salamander PVC windows, Alumil aluminium systems, sliding and folding doors, curtain walls, entrance doors, nZEB installation, shutters, Raffstore, Zipscreen and pergolas. ' +
+        'Prices are in EUR, without VAT (21% is added on the invoice), with standard installation in Bucharest and Ilfov. The text is in Romanian. Use "product" to narrow the list.',
+      inputSchema: {
+        type: 'object',
+        properties: { product: { type:'string', description:'Optional product or keyword, as the user said it, e.g. "PVC", "S77", "raffstore", "zipscreen". Empty for all prices.' } },
+      },
       annotations: { readOnlyHint: true },
-      execute: async () => {
+      execute: async (input) => {
         try {
           const txt = section(await llms(), 'Prețuri orientative');
           if (!txt) return fail();
-          return JSON.stringify({
-            ok: true, currency: 'EUR', vat: 'excluded (21% VAT added on invoice)', language: 'ro',
-            prices: txt,
-            note: 'Indicative only. For a binding price use the request_quote tool so the sales team can send a written offer.',
-            source: SRC,
-          });
+          const all = txt.split('\n').filter(l => l.startsWith('- ')).map(plain);
+          const m = matcher(input && input.product);
+          const hit = m.q ? all.filter(m.test) : all;
+          const lines = hit.length ? hit : all;
+          const shown = hit.length ? await showRows(m) : 0;
+          const head = (m.q && !hit.length ? 'Nothing matched "' + m.q + '"; these are all the prices. ' : '') +
+            (shown ? 'The matching rows are now highlighted in the price table on the page the user is viewing. ' : '') +
+            'Neofort BIZ indicative prices 2026 — EUR, without VAT (21% added on invoice), with standard installation in Bucharest and Ilfov:';
+          return fit(head, lines,
+            'Indicative only. The binding price is the written offer: use request_quote to prepare the request for the user.',
+            (n) => '… ' + n + ' more lines. Pass "product" to narrow the list, or read ' + SRC);
         } catch (e) { return fail(); }
       },
-    });
+    };
 
-    reg({
+    const getSpecs = {
       name: 'get_product_specs',
       description:
         'Technical data of the products Neofort BIZ supplies and installs: Salamander PVC profiles (BluEvolution 92, GreenEvolution 76), Alumil aluminium systems (S77, S67, S700, S350, SF85, M19800), accessories, nZEB installation systems, shading, insulating glass, curtain walls. ' +
-        'Returns depth, chambers, Uw/Uf, glazing thickness, sound insulation, burglar resistance and the product page link. ' +
-        'Optional "query" filters by product name or keyword (e.g. "BluEvolution 92", "S77", "raffstore"). The text is in Romanian.',
+        'Returns depth, Uw/Uf, glazing, sound insulation, burglar resistance and the product page. Pass "query" with the product name; without it you get the product list. Text in Romanian.',
       inputSchema: {
         type: 'object',
-        properties: { query: { type:'string', description:'Product name or keyword. Leave empty for the full list.' } },
+        properties: { query: { type:'string', description:'Product name or keyword, as the user said it, e.g. "BluEvolution 92", "S77", "raffstore". Empty for the list of products.' } },
       },
       annotations: { readOnlyHint: true },
       execute: async (input) => {
@@ -459,46 +525,51 @@ export default function Footer({ googleRating }) {
             else if (l.startsWith('- **[')) blocks.push({ cat, text: l });
             else if (/^\s+- /.test(l) && blocks.length) blocks[blocks.length - 1].text += '\n' + l;
           });
-          const q = norm(input && typeof input.query === 'string' ? input.query.slice(0, 80) : '');
-          const flat = (x) => norm(x).replace(/\s+/g, '');
-          const toks = q.split(' ').filter(Boolean);
-          const hit = toks.length ? blocks.filter(b => { const h = norm(b.cat + ' ' + b.text), hf = flat(b.cat + b.text); return toks.every(tk => h.includes(tk) || hf.includes(tk)) || hf.includes(flat(q)); }) : blocks;
           const name = (b) => (b.text.match(/^- \*\*\[([^\]]+)\]/) || [])[1] || '';
-          if (!hit.length) {
-            return JSON.stringify({ ok:true, matches: [], note: 'No product matched "' + q + '". Available products are listed below.', available: blocks.map(b => b.cat + ': ' + name(b)), source: SRC });
+          // Linkul intern ramane cale relativa: agentul e deja pe site.
+          const brief = (b) => b.text
+            .replace(/^- \*\*\[([^\]]+)\]\(https:\/\/www\.neofort-biz\.ro([^)]*)\)\*\*/, '$1 — page: $2')
+            .replace(/\n\s+- /g, '\n  ');
+          const m = matcher(input && input.query);
+          const foot = 'Source: ' + SRC + '. Every product page exists in ro, en, de, fr, es, it.';
+          if (!m.q) {
+            const cats = [];
+            blocks.forEach(b => { let c = cats.find(x => x.cat === b.cat); if (!c) cats.push(c = { cat: b.cat, names: [] }); c.names.push(name(b).split(' – ')[0]); });
+            return fit('Neofort BIZ products (call again with "query" for the technical data of one):',
+              cats.map(c => '• ' + c.cat + ': ' + c.names.join('; ')), foot, (n) => '… ' + n + ' more categories.');
           }
-          return JSON.stringify({
-            ok: true, language: 'ro', count: hit.length,
-            products: hit.slice(0, 12).map(b => ({ category: b.cat, specs: b.text })),
-            note: hit.length > 12 ? 'Only the first 12 matches are shown; refine the query.' : undefined,
-            pages_note: 'Every product page exists in Romanian, English, German, French, Spanish and Italian (language switcher in the page header).',
-            source: SRC,
-          });
+          const hit = blocks.filter(b => m.test(b.cat + ' ' + b.text));
+          if (!hit.length) {
+            return fit('No product matched "' + m.q + '". Available products:', blocks.map(b => '• ' + name(b).split(' – ')[0]), foot, (n) => '… ' + n + ' more.');
+          }
+          return fit(hit.length + ' product(s) for "' + m.q + '" (text in Romanian):', hit.map(brief), foot,
+            (n) => '… ' + n + ' more matched: refine the query with the exact product name.');
         } catch (e) { return fail(); }
       },
-    });
+    };
 
-    reg({
-        name: 'request_quote',
-        description:
-          'Fill in the price-quote request form of Neofort BIZ (Salamander PVC and Alumil aluminium windows and doors, shading, nZEB installation; Bucharest, Romania, delivery across the EU). ' +
-          'The form is only filled in, never sent: the user must review it, tick the privacy-policy consent box and press the submit button. ' +
-          'All fields are optional; send what you know. For "service" and "products" use the exact labels from the schema (they are in the page language). ' +
-          'Prices are quoted in EUR, without VAT, after the request is reviewed by the sales team.',
-        inputSchema: {
-          type: 'object',
-          properties: {
-            name:     { type:'string', description:'Full name of the person requesting the quote.' },
-            phone:    { type:'string', description:'Phone number, preferably international, e.g. +40 722 123 456.' },
-            email:    { type:'string', description:'E-mail address for the quote.' },
-            service:  { type:'string', enum: opts, description:'What the order should include (measurement, transport, installation or pickup).' },
-            address:  { type:'string', description:'Delivery / installation address (city and street).' },
-            products: { type:'array', items:{ type:'string', enum: PRODUSE }, description:'Products the quote should cover.' },
-          },
+    const requestQuote = {
+      name: 'request_quote',
+      description:
+        'Fill in the price-quote request form of Neofort BIZ (Salamander PVC and Alumil aluminium windows and doors, shading, nZEB installation; Bucharest, Romania, delivery across the EU). ' +
+        'The form is filled in on the page and stays unsent: the user reviews it, ticks the privacy-policy consent box and presses the submit button. ' +
+        'All fields are optional; send what you know. For "service" and "products" use the labels from the schema (page language).',
+      inputSchema: {
+        type: 'object',
+        properties: {
+          name:     { type:'string', description:'Full name of the person requesting the quote.' },
+          phone:    { type:'string', description:'Phone number, preferably international, e.g. +40 722 123 456.' },
+          email:    { type:'string', description:'E-mail address for the quote.' },
+          service:  { type:'string', enum: opts, description:'What the order should include (measurement, transport, installation or pickup).' },
+          address:  { type:'string', description:'Delivery / installation address (city and street).' },
+          products: { type:'array', items:{ type:'string', enum: PRODUSE }, description:'Products the quote should cover.' },
         },
-        annotations: { readOnlyHint: false },
-        execute,
-    });
+      },
+      annotations: { readOnlyHint: false },
+      execute,
+    };
+
+    registerAll([getPrices, getSpecs, requestQuote]);
     return () => ctrl.abort();
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [locale]);

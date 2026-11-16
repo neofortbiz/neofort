@@ -2,6 +2,7 @@ import { Link } from '../../../../i18n/navigation';
 import FaqAccordion from '../../../../components/FaqAccordion';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+import { BIZ_NAME, BIZ_PHONES, BIZ_EMAIL, BIZ_ADDRESS, BIZ_GEO, BIZ_HOURS } from '../../../../lib/business.js';
 const SLUGS = {
   ro: 'tamplarie-aluminiu/bucuresti',
   en: 'aluminium-windows/bucharest',
@@ -345,12 +346,12 @@ export async function generateMetadata({ params }) {
     openGraph: {
       type: 'article', url: `${BASE}/${locale}/${slug}`, siteName: 'Neofort BIZ',
       title: ui.h1, description: ui.sub,
-      images: [{ url: `${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width: 1200, height: 630, alt: ui.h1, type:'image/jpeg' }],
+      images: [{ url: `${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width: 584, height: 540, alt: ui.h1, type:'image/jpeg' }],
     },
     // v277: blocul twitter era lipit in schema JSON-LD de mai jos, nu aici.
     // Next.js nu emitea niciun meta twitter, iar schema continea o proprietate
     // care nu exista in vocabularul schema.org.
-    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.h1, description: ui.sub, images:[{ url:`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width:1200, height:630 }] },
+    twitter: { card:'summary_large_image', site:'@NeofortBIZ', title: ui.h1, description: ui.sub, images:[{ url:`${BASE}/og/Tamplarie_Aluminiu_Alumil.jpg`, width:584, height:540 }] },
   };
 }
 
@@ -369,25 +370,31 @@ export default async function BucurestiPage({ params }) {
 
   const schema = {
     '@context': 'https://schema.org', '@type': 'LocalBusiness',
-    name: 'Neofort BIZ', url: BASE,
-    telephone: ['+40215280661', '+40752443435'],
-    email: 'office@neofort-biz.ro',
-    address: { '@type': 'PostalAddress', streetAddress: 'Str. Theodor Aman Pictor 11', addressLocality: 'București', addressRegion: 'Sector 1', postalCode: '010776', addressCountry: 'RO' },
-    geo: { '@type': 'GeoCoordinates', latitude: 44.4430930263596, longitude: 26.088545186506916 },
+    // v327: nume, telefoane, adresa, coordonate si program din lib/business.js; adaugat
+    // @id, ca nodul sa fie aceeasi entitate cu cea de pe prima pagina.
+    '@id': `${BASE}/#localbusiness`,
+    name: BIZ_NAME, url: BASE,
+    telephone: BIZ_PHONES,
+    email: BIZ_EMAIL,
+    address: BIZ_ADDRESS,
+    geo: BIZ_GEO,
     areaServed: [
       { '@type': 'City', name: 'București' },
       { '@type': 'AdministrativeArea', name: 'Ilfov' },
     ],
-    openingHoursSpecification: [{ '@type': 'OpeningHoursSpecification', dayOfWeek: ['Monday','Tuesday','Wednesday','Thursday','Friday'], opens: '10:00', closes: '18:00' }],
+    openingHoursSpecification: BIZ_HOURS,
     description: ui.sub,
-    breadcrumb: {
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Neofort BIZ', item: `${BASE}/${locale}` },
-        { '@type': 'ListItem', position: 2, name: ui.parent, item: `${BASE}/${locale}/${parentSlug}` },
-        { '@type': 'ListItem', position: 3, name: ui.h1, item: `${BASE}/${locale}/${slug}` },
-      ],
-    },
+  };
+
+  // v327: firimiturile erau puse ca proprietate `breadcrumb` pe LocalBusiness, unde nu e
+  // valida (tine de WebPage). Acum sunt un nod BreadcrumbList de sine statator.
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Neofort BIZ', item: `${BASE}/${locale}` },
+      { '@type': 'ListItem', position: 2, name: ui.parent, item: `${BASE}/${locale}/${parentSlug}` },
+      { '@type': 'ListItem', position: 3, name: ui.h1, item: `${BASE}/${locale}/${slug}` },
+    ],
   };
 
   const faqSchema = {
@@ -401,6 +408,7 @@ export default async function BucurestiPage({ params }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}/>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}/>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}/>
 
       {/* PAGE HEADER */}
