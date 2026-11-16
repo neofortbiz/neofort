@@ -36,7 +36,6 @@ const UI = {
     dept_export: 'Export',
     dept_tech: 'Tehnic',
     dept_service: 'Service',
-    dept_schedule: 'Programări',
     email_section: 'E-mail',
     whatsapp: 'WhatsApp',
   },
@@ -59,7 +58,6 @@ const UI = {
     dept_export: 'Export',
     dept_tech: 'Technical',
     dept_service: 'Service',
-    dept_schedule: 'Appointments',
     email_section: 'E-mail',
     whatsapp: 'WhatsApp',
   },
@@ -82,7 +80,6 @@ const UI = {
     dept_export: 'Export',
     dept_tech: 'Technik',
     dept_service: 'Service',
-    dept_schedule: 'Termine',
     email_section: 'E-Mail',
     whatsapp: 'WhatsApp',
   },
@@ -105,7 +102,6 @@ const UI = {
     dept_export: 'Export',
     dept_tech: 'Technique',
     dept_service: 'Service',
-    dept_schedule: 'Rendez-vous',
     email_section: 'E-mail',
     whatsapp: 'WhatsApp',
   },
@@ -128,7 +124,6 @@ const UI = {
     dept_export: 'Exportación',
     dept_tech: 'Técnico',
     dept_service: 'Servicio',
-    dept_schedule: 'Citas',
     email_section: 'E-mail',
     whatsapp: 'WhatsApp',
   },
@@ -151,7 +146,6 @@ const UI = {
     dept_export: 'Esportazione',
     dept_tech: 'Tecnico',
     dept_service: 'Servizio',
-    dept_schedule: 'Appuntamenti',
     email_section: 'E-mail',
     whatsapp: 'WhatsApp',
   },
@@ -180,11 +174,23 @@ const TEAM = [
     color: '#2b4834',
   },
   {
+    // v323: coleg nou, reprezentant vanzari, linia Oferte 439.
+    name: 'Felix STĂNCULEȚ',
+    photo: '/team/felix-stanculet.avif',
+    role: { ro:'Reprezentant Vânzări', en:'Sales Representative', de:'Vertriebsmitarbeiter', fr:'Représentant commercial', es:'Representante de ventas', it:'Rappresentante vendite' },
+    phone: '+40 752 443 439',
+    href: 'tel:+40752443439',
+    email: 'felix.stanculet@neofort-biz.ro',
+    initials: 'FS',
+    color: '#3d4f6b',
+  },
+  {
     name: 'Georgiana BLIOJU',
     photo: '/team/georgiana-blioju.avif',
     role: { ro:'Reprezentant Export', en:'Export Representative', de:'Exportmitarbeiterin', fr:'Représentante export', es:'Representante de exportación', it:'Rappresentante export' },
-    phone: '+40 752 443 439',
-    href: 'tel:+40752443439',
+    // v323: Export are acum linia +40 758 990 048 (439 a trecut la Oferte).
+    phone: '+40 758 990 048',
+    href: 'tel:+40758990048',
     // v282: era comenzi@ — adresa departamentului de comenzi, nu a ei.
     // Georgiana raspunde de export, deci adresa personala de pe card e
     // export@. Butonul de departament "Comenzi" de mai jos ramane comenzi@.
@@ -260,7 +266,7 @@ export default async function ContactPage({ params }) {
         "name": "NEOFORT BIZ SRL",
         "alternateName": "Neofort BIZ",
         "url": BASE,
-        "telephone": ["+40215280661","+40752443435","+40752443439"],
+        "telephone": ["+40215280661","+40752443435","+40752443439","+40758990048"],
         "email": "oferte@neofort-biz.ro",
         "address": {
           "@type": "PostalAddress",
@@ -280,7 +286,9 @@ export default async function ContactPage({ params }) {
         }],
         "contactPoint": [
           { "@type":"ContactPoint","telephone":"+40752443435","contactType":"sales","availableLanguage":["Romanian","English","German","French","Spanish","Italian"] },
-          { "@type":"ContactPoint","telephone":"+40752443439","contactType":"sales","name":"Export" },
+          { "@type":"ContactPoint","telephone":"+40752443439","contactType":"sales" },
+          { "@type":"ContactPoint","telephone":"+40752443431","contactType":"technical support","name":"Tehnic" },
+          { "@type":"ContactPoint","telephone":"+40758990048","contactType":"sales","name":"Export" },
           { "@type":"ContactPoint","telephone":"+40752443432","contactType":"customer service","name":"Service" },
         ],
       },
@@ -315,7 +323,7 @@ export default async function ContactPage({ params }) {
       {/* ── ECHIPĂ ── */}
       <section className="py-16 border-b border-border">
         <div className="container mx-auto px-6">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-3 xl:grid-cols-5 gap-4 md:gap-6">
             {TEAM.map(m => (
               <div key={m.name} className="flex flex-col items-center text-center border border-border p-4 md:p-6">
                 {/* Avatar rotund — 90px mobil, 80px desktop */}
@@ -448,12 +456,13 @@ export default async function ContactPage({ params }) {
                   {[
                     { label: ui.dept_office,   phone: '+40 21 528 06 61', href: 'tel:+40215280661' },
                     { label: ui.dept_quotes,   phone: '+40 752 443 435',  href: 'tel:+40752443435' },
-                    { label: ui.dept_export,   phone: '+40 752 443 439',  href: 'tel:+40752443439' },
+                    { label: ui.dept_quotes,   phone: '+40 752 443 439',  href: 'tel:+40752443439' },
                     { label: ui.dept_tech,     phone: '+40 752 443 431',  href: 'tel:+40752443431' },
                     { label: ui.dept_service,  phone: '+40 752 443 432',  href: 'tel:+40752443432' },
-                    { label: ui.dept_schedule, phone: '+40 758 990 048',  href: 'tel:+40758990048' },
+                    { label: ui.dept_export,   phone: '+40 758 990 048',  href: 'tel:+40758990048' },
                   ].map((item, i, arr) => (
-                    <a key={item.label} href={item.href}
+                    // v323: doua randuri „Oferte" — cheia e numarul, nu eticheta.
+                    <a key={item.href} href={item.href}
                       className={`flex justify-between items-center px-4 py-2.5 hover:bg-light transition-colors duration-150 ${i < arr.length-1 ? 'border-b border-border' : ''}`}>
                       <span className="font-condensed text-[0.62rem] tracking-[0.14em] uppercase font-semibold text-muted">{item.label}</span>
                       <span className="font-condensed text-[0.8rem] font-medium text-primary">{item.phone}</span>

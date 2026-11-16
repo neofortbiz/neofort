@@ -12709,7 +12709,7 @@ Exportul intra-UE este **fără formalități vamale**. Documente standard inclu
 
 ## Contact departament export
 
-**WhatsApp Export:** +40 752 443 439
+**Telefon export:** +40 758 990 048
 
 **Program:** Luni–Vineri, 10:00–18:00 ora României
 
@@ -12851,7 +12851,7 @@ Intra-EU export is **customs-free**. Standard documents included:
 
 ## Export Department Contact
 
-**WhatsApp Export:** +40 752 443 439
+**Export phone:** +40 758 990 048
 
 **Hours:** Monday–Friday, 10:00–18:00 Romanian time
 
@@ -12993,7 +12993,7 @@ EU-Binnenexport ist **zollfrei**. Standarddokumente enthalten:
 
 ## Kontakt Exportabteilung
 
-**WhatsApp Export:** +40 752 443 439
+**Telefon Export:** +40 758 990 048
 
 **Geschäftszeiten:** Montag–Freitag, 10:00–18:00 Uhr rumänischer Zeit
 
@@ -13135,7 +13135,7 @@ L'export intra-UE est **sans formalités douanières**. Documents standards incl
 
 ## Contact département export
 
-**WhatsApp Export :** +40 752 443 439
+**Téléphone export :** +40 758 990 048
 
 **Horaires :** Lundi–Vendredi, 10h00–18h00 heure de Roumanie
 
@@ -13277,7 +13277,7 @@ La exportación intra-UE es **sin trámites aduaneros**. Documentos estándar in
 
 ## Contacto departamento de exportación
 
-**WhatsApp Export:** +40 752 443 439
+**Teléfono exportación:** +40 758 990 048
 
 **Horario:** Lunes–Viernes, 10:00–18:00 hora de Rumanía
 
@@ -13419,7 +13419,7 @@ L'export intra-UE è **senza formalità doganali**. Documenti standard inclusi:
 
 ## Contatto dipartimento export
 
-**WhatsApp Export:** +40 752 443 439
+**Telefono export:** +40 758 990 048
 
 **Orario:** Lunedì–Venerdì, 10:00–18:00 ora della Romania
 
@@ -13655,11 +13655,15 @@ Aluminiul fără barieră are Uf 5,5-7,0 W/m²K și condens frecvent pe toc — 
 
 ### Ce sistem Alumil are cea mai bună performanță termică?
 
-Alumil Supreme S77, cu poliamidă de 40 mm, atinge Uf de la 0,86 W/m²K și Uw de la 1,0 W/m²K. Are adâncime 77–93 mm, 3 garnituri EPDM, antiefracție RC3 și acceptă geam de până la 72 mm.
+Alumil Supreme S77, cu poliamidă de 40 mm, atinge Uf de la 0,86 W/m²K și Uw de la 1,0 W/m²K. Are adâncime 77–93 mm, 3 garnituri EPDM, antiefracție RC2/RC3 și acceptă geam de până la 72 mm.
 
 ### Poate fi folosit aluminiul fără barieră termică la exterior?
 
 Nu este recomandat. Fără barieră termică, aluminiul este adecvat doar la interior — compartimentări, showroom-uri, garaje — unde diferența de temperatură dintre cele două fețe ale profilului nu este semnificativă. La exterior produce condens și pierderi termice mari.
+
+### Cât costă tâmplăria din aluminiu cu barieră termică?
+
+Orientativ, cu montaj standard și fără TVA: Alumil SMARTIA S67 costă 250–350 EUR/mp, Alumil SUPREME S77 350–480 EUR/mp, ușa armonică SF 85 350–500 EUR/mp, iar liftant-glisantul S 700 550–750 EUR/mp. Prețul final depinde de dimensiuni, geam, culoare și feronerie; suma exactă o primești în oferta scrisă, în 48 de ore. Detalii pe [pagina de prețuri pentru tâmplăria din aluminiu](/ro/tamplarie-aluminiu/preturi).
 
 
 ---
@@ -13813,11 +13817,15 @@ Aluminium without a break has Uf 5.5-7.0 W/m²K and frequent frame condensation 
 
 ### Which Alumil system has the best thermal performance?
 
-Alumil Supreme S77, with a 40 mm polyamide break, reaches Uf from 0.86 W/m²K and Uw from 1.0 W/m²K. It has 77–93 mm depth, 3 EPDM gaskets, RC3 burglar resistance and takes glazing up to 72 mm.
+Alumil Supreme S77, with a 40 mm polyamide break, reaches Uf from 0.86 W/m²K and Uw from 1.0 W/m²K. It has 77–93 mm depth, 3 EPDM gaskets, RC2/RC3 burglar resistance and takes glazing up to 72 mm.
 
 ### Can aluminium without a thermal break be used outdoors?
 
 It is not recommended. Without a thermal break, aluminium is suitable only indoors — partitions, showrooms, garages — where the temperature difference between the two faces of the profile is not significant. Outdoors it causes condensation and large heat loss.
+
+### How much does thermally broken aluminium joinery cost?
+
+As a guide, with standard installation and excluding VAT: Alumil SMARTIA S67 costs 250–350 EUR/m², Alumil SUPREME S77 350–480 EUR/m², the SF 85 folding door 350–500 EUR/m² and the S 700 lift-and-slide 550–750 EUR/m². The final price depends on size, glazing, colour and hardware; you get the exact figure in the written quote, within 48 hours. Details on the [aluminium windows price page](/en/aluminium-windows/prices).
 
 
 ---
@@ -13971,11 +13979,15 @@ Aluminium ohne Trennung hat Uf 5,5-7,0 W/m²K und häufiges Rahmenkondensat — 
 
 ### Welches Alumil-System hat die beste Wärmeleistung?
 
-Alumil Supreme S77 mit 40 mm Polyamid-Trennung erreicht Uf ab 0,86 W/m²K und Uw ab 1,0 W/m²K. Es hat 77–93 mm Bautiefe, 3 EPDM-Dichtungen, RC3-Einbruchschutz und nimmt Verglasungen bis 72 mm auf.
+Alumil Supreme S77 mit 40 mm Polyamid-Trennung erreicht Uf ab 0,86 W/m²K und Uw ab 1,0 W/m²K. Es hat 77–93 mm Bautiefe, 3 EPDM-Dichtungen, RC2/RC3-Einbruchschutz und nimmt Verglasungen bis 72 mm auf.
 
 ### Kann Aluminium ohne thermische Trennung außen verwendet werden?
 
 Nicht empfohlen. Ohne thermische Trennung ist Aluminium nur für innen geeignet — Trennwände, Showrooms, Garagen — wo der Temperaturunterschied zwischen den beiden Profilseiten nicht signifikant ist. Außen verursacht es Kondensat und große Wärmeverluste.
+
+### Was kosten Aluminiumfenster mit thermischer Trennung?
+
+Als Richtwert, mit Standardmontage und ohne MwSt.: Alumil SMARTIA S67 kostet 250–350 EUR/m², Alumil SUPREME S77 350–480 EUR/m², die Falttür SF 85 350–500 EUR/m² und die Hebeschiebetür S 700 550–750 EUR/m². Der Endpreis hängt von Größe, Verglasung, Farbe und Beschlägen ab; den genauen Betrag erhalten Sie im schriftlichen Angebot, innerhalb von 48 Stunden. Details auf der [Preisseite für Aluminiumfenster](/de/aluminiumfenster/preise).
 
 
 ---
@@ -14126,11 +14138,15 @@ L'aluminium sans rupture a un Uf de 5,5-7,0 W/m²K et une condensation fréquent
 
 ### Quel système Alumil a la meilleure performance thermique ?
 
-L'Alumil Supreme S77, avec une rupture en polyamide de 40 mm, atteint un Uf à partir de 0,86 W/m²K et un Uw à partir de 1,0 W/m²K. Il a 77–93 mm de profondeur, 3 joints EPDM, une résistance anti-effraction RC3 et accepte un vitrage jusqu'à 72 mm.
+L'Alumil Supreme S77, avec une rupture en polyamide de 40 mm, atteint un Uf à partir de 0,86 W/m²K et un Uw à partir de 1,0 W/m²K. Il a 77–93 mm de profondeur, 3 joints EPDM, une résistance anti-effraction RC2/RC3 et accepte un vitrage jusqu'à 72 mm.
 
 ### L'aluminium sans rupture thermique peut-il être utilisé à l'extérieur ?
 
 Ce n'est pas recommandé. Sans rupture thermique, l'aluminium convient seulement à l'intérieur — cloisons, showrooms, garages — où la différence de température entre les deux faces du profilé n'est pas significative. À l'extérieur, il provoque condensation et grandes pertes thermiques.
+
+### Combien coûtent les menuiseries aluminium à rupture thermique ?
+
+À titre indicatif, pose standard comprise et hors TVA : l'Alumil SMARTIA S67 coûte 250 à 350 EUR/m², l'Alumil SUPREME S77 350 à 480 EUR/m², la porte pliante SF 85 350 à 500 EUR/m² et le levant-coulissant S 700 550 à 750 EUR/m². Le prix final dépend des dimensions, du vitrage, de la couleur et de la quincaillerie ; le montant exact figure dans le devis écrit, sous 48 heures. Détails sur la [page des prix de la menuiserie aluminium](/fr/menuiserie-aluminium/prix).
 
 
 ---
@@ -14281,11 +14297,15 @@ El aluminio sin rotura tiene Uf 5,5-7,0 W/m²K y condensación frecuente en el m
 
 ### ¿Qué sistema Alumil tiene el mejor rendimiento térmico?
 
-El Alumil Supreme S77, con rotura de poliamida de 40 mm, alcanza Uf desde 0,86 W/m²K y Uw desde 1,0 W/m²K. Tiene 77–93 mm de profundidad, 3 juntas EPDM, antirrobo RC3 y admite acristalamiento de hasta 72 mm.
+El Alumil Supreme S77, con rotura de poliamida de 40 mm, alcanza Uf desde 0,86 W/m²K y Uw desde 1,0 W/m²K. Tiene 77–93 mm de profundidad, 3 juntas EPDM, antirrobo RC2/RC3 y admite acristalamiento de hasta 72 mm.
 
 ### ¿Se puede usar aluminio sin rotura térmica en el exterior?
 
 No se recomienda. Sin rotura térmica, el aluminio solo es apto para interior — tabiques, showrooms, garajes — donde la diferencia de temperatura entre las dos caras del perfil no es significativa. En el exterior provoca condensación y grandes pérdidas térmicas.
+
+### ¿Cuánto cuesta la carpintería de aluminio con rotura de puente térmico?
+
+De forma orientativa, con instalación estándar y sin IVA: Alumil SMARTIA S67 cuesta 250–350 EUR/m², Alumil SUPREME S77 350–480 EUR/m², la puerta plegable SF 85 350–500 EUR/m² y la elevable-corredera S 700 550–750 EUR/m². El precio final depende de las medidas, el vidrio, el color y los herrajes; el importe exacto figura en el presupuesto escrito, en 48 horas. Detalles en la [página de precios de la carpintería de aluminio](/es/carpinteria-aluminio/precios).
 
 
 ---
@@ -14436,11 +14456,15 @@ L'alluminio senza taglio ha Uf 5,5-7,0 W/m²K e condensa frequente sul telaio �
 
 ### Quale sistema Alumil ha le migliori prestazioni termiche?
 
-L'Alumil Supreme S77, con taglio in poliammide da 40 mm, raggiunge Uf da 0,86 W/m²K e Uw da 1,0 W/m²K. Ha profondità 77–93 mm, 3 guarnizioni EPDM, antieffrazione RC3 e accetta vetri fino a 72 mm.
+L'Alumil Supreme S77, con taglio in poliammide da 40 mm, raggiunge Uf da 0,86 W/m²K e Uw da 1,0 W/m²K. Ha profondità 77–93 mm, 3 guarnizioni EPDM, antieffrazione RC2/RC3 e accetta vetri fino a 72 mm.
 
 ### L'alluminio senza taglio termico può essere usato all'esterno?
 
 Non è consigliato. Senza taglio termico, l'alluminio è adatto solo all'interno — pareti divisorie, showroom, garage — dove la differenza di temperatura tra le due facce del profilo non è significativa. All'esterno provoca condensa e grandi dispersioni termiche.
+
+### Quanto costano gli infissi in alluminio a taglio termico?
+
+Indicativamente, con posa standard e IVA esclusa: l'Alumil SMARTIA S67 costa 250–350 EUR/m², l'Alumil SUPREME S77 350–480 EUR/m², la porta a libro SF 85 350–500 EUR/m² e l'alzante scorrevole S 700 550–750 EUR/m². Il prezzo finale dipende da dimensioni, vetro, colore e ferramenta; l'importo esatto è nel preventivo scritto, entro 48 ore. Dettagli nella [pagina prezzi degli infissi in alluminio](/it/infissi-alluminio/prezzi).
 
 
 ---

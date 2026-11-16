@@ -41,7 +41,7 @@ const UI = {
       ['Consultanță tehnică', 'Inginer tehnic disponibil pentru consultanță privind alegerea sistemului, dimensionarea și calculul performanțelor termice.'],
       ['Măsurători la domiciliu după contract', 'Ofertă detaliată pentru tot Bucureștiul și Ilfovul, pe baza dimensiunilor comunicate. Măsurătorile la fața locului se fac după semnarea contractului.'],
       ['Montaj nZEB pe 3 niveluri', 'Folosim precadre Blaugelb Triotherm+ și benzi de etanșare pe 3 niveluri, conform Ghidului RAL — reduc punțile termice care intră în calculul energetic al casei.'],
-      ['Garanție scrisă', '10+ ani pe profilul de aluminiu Alumil și 2 ani pe montaj, cu certificat de garanție. Intervenție în 48 ore pentru orice solicitare post-montaj în București.'],
+      ['Garanție scrisă', '10+ ani pe profilul de aluminiu Alumil și 2 ani pe montaj, cu certificat de garanție.'],
     ],
     process_title: 'Cum funcționează procesul în București',
     process: [
@@ -90,7 +90,7 @@ const UI = {
       ['Technical consultation', 'Technical engineer available for consultation on system selection, sizing and thermal performance calculation.'],
       ['Home measurements after contract', 'Detailed quote for all of Bucharest and Ilfov, based on the dimensions you provide. On-site measurements follow once the contract is signed.'],
       ['nZEB installation on 3 levels', 'We use Blaugelb Triotherm+ precasings and three-level sealing tapes to the RAL guideline — they reduce the thermal bridges that count in the energy calculation of the house.'],
-      ['Written warranty', '10+ years on the Alumil aluminium profile and 2 years on installation, with a warranty certificate. 48-hour response for any post-installation request in Bucharest.'],
+      ['Written warranty', '10+ years on the Alumil aluminium profile and 2 years on installation, with a warranty certificate.'],
     ],
     process_title: 'How the process works in Bucharest',
     process: [
@@ -139,7 +139,7 @@ const UI = {
       ['Fachberatung', 'Technischer Ingenieur für Systemauswahl, Dimensionierung und Berechnung der Wärmeleistung verfügbar.'],
       ['Aufmaß nach Vertragsabschluss', 'Detailliertes Angebot für ganz Bukarest und Ilfov auf Basis der von Ihnen genannten Maße. Das Aufmaß vor Ort erfolgt nach Vertragsabschluss.'],
       ['nZEB-Montage in 3 Ebenen', 'Wir verwenden Blaugelb Triotherm+ Vorblendrahmen und Dichtbänder in drei Ebenen nach RAL-Leitfaden — sie verringern die Wärmebrücken, die in die Energieberechnung des Hauses eingehen.'],
-      ['Schriftliche Garantie', '10+ Jahre auf das Alumil-Aluminiumprofil und 2 Jahre auf die Montage, mit Garantieschein. 48-Stunden-Reaktion für alle Nachgarantieanfragen in Bukarest.'],
+      ['Schriftliche Garantie', '10+ Jahre auf das Alumil-Aluminiumprofil und 2 Jahre auf die Montage, mit Garantieschein.'],
     ],
     process_title: 'Wie der Prozess in Bukarest funktioniert',
     process: [
@@ -188,7 +188,7 @@ const UI = {
       ['Conseil technique', 'Ingénieur technique disponible pour le choix du système, le dimensionnement et le calcul des performances thermiques.'],
       ['Métrés à domicile après contrat', 'Devis détaillé pour tout Bucarest et Ilfov, établi sur la base des dimensions que vous nous communiquez. Les métrés sur place ont lieu après la signature du contrat.'],
       ['Pose nZEB sur 3 niveaux', "Nous utilisons des précadres Blaugelb Triotherm+ et des bandes d'étanchéité sur trois niveaux selon le guide RAL — ils réduisent les ponts thermiques pris en compte dans le calcul énergétique de la maison."],
-      ['Garantie écrite', '10+ ans sur le profilé aluminium Alumil et 2 ans sur la pose, avec certificat de garantie. Intervention sous 48h pour toute demande post-pose à Bucarest.'],
+      ['Garantie écrite', '10+ ans sur le profilé aluminium Alumil et 2 ans sur la pose, avec certificat de garantie.'],
     ],
     process_title: 'Comment fonctionne le processus à Bucarest',
     process: [
@@ -237,7 +237,7 @@ const UI = {
       ['Consulta técnica', 'Ingeniero técnico disponible para selección de sistema, dimensionamiento y cálculo de rendimiento térmico.'],
       ['Mediciones a domicilio tras el contrato', 'Presupuesto detallado para todo Bucarest e Ilfov, a partir de las medidas que nos indique. Las mediciones en obra se realizan tras la firma del contrato.'],
       ['Instalación nZEB en 3 niveles', 'Usamos premarcos Blaugelb Triotherm+ y cintas de sellado en tres niveles según la guía RAL — reducen los puentes térmicos que cuentan en el cálculo energético de la vivienda.'],
-      ['Garantía escrita', '10+ años en el perfil de aluminio Alumil y 2 años en la instalación, con certificado de garantía. Respuesta en 48 horas para cualquier solicitud postventa en Bucarest.'],
+      ['Garantía escrita', '10+ años en el perfil de aluminio Alumil y 2 años en la instalación, con certificado de garantía.'],
     ],
     process_title: 'Cómo funciona el proceso en Bucarest',
     process: [
@@ -286,7 +286,7 @@ const UI = {
       ['Consulenza tecnica', 'Ingegnere tecnico disponibile per la scelta del sistema, il dimensionamento e il calcolo delle prestazioni termiche.'],
       ['Rilievi a domicilio dopo il contratto', 'Preventivo dettagliato per tutta Bucarest e Ilfov, sulla base delle misure che ci comunicate. I rilievi sul posto si effettuano dopo la firma del contratto.'],
       ['Posa nZEB su 3 livelli', "Utilizziamo controtelai Blaugelb Triotherm+ e nastri di tenuta su tre livelli secondo la guida RAL — riducono i ponti termici che entrano nel calcolo energetico della casa."],
-      ['Garanzia scritta', '10+ anni sul profilo in alluminio Alumil e 2 anni sulla posa, con certificato di garanzia. Intervento in 48 ore per qualsiasi richiesta post-posa a Bucarest.'],
+      ['Garanzia scritta', '10+ anni sul profilo in alluminio Alumil e 2 anni sulla posa, con certificato di garanzia.'],
     ],
     process_title: 'Come funziona il processo a Bucarest',
     process: [

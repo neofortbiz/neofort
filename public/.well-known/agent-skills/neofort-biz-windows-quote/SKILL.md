@@ -43,8 +43,9 @@ On every page of neofort-biz.ro, in browsers that support WebMCP:
 
 ## Contact
 
-- Quotes: oferte@neofort-biz.ro · +40 752 443 435 (also WhatsApp)
-- Export: +40 752 443 439
+- Quotes: oferte@neofort-biz.ro · +40 752 443 435 (also WhatsApp) · +40 752 443 439
+- Technical: +40 752 443 431 · Service: +40 752 443 432
+- Export: +40 758 990 048 · export@neofort-biz.ro
 - Office: +40 21 528 06 61
 - Orders: comenzi@neofort-biz.ro · Service: service@neofort-biz.ro
 

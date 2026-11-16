@@ -57,6 +57,22 @@ const TEAM_DESPRE = [
     initials: 'OO',
   },
   {
+    // v323: coleg nou. Experienta din 2006 (20 de ani in 2026).
+    name: 'Felix STĂNCULEȚ',
+    photo: '/team/felix-stanculet.avif',
+    role: { ro:'Reprezentant Vânzări', en:'Sales Representative', de:'Vertriebsmitarbeiter', fr:'Représentant commercial', es:'Representante de ventas', it:'Rappresentante vendite' },
+    bio: {
+      ro: 'Consultanță și ofertare pentru clienți rezidențiali și comerciali — tâmplărie PVC Salamander, aluminiu Alumil și sisteme de umbrire. 20 de ani de experiență în tâmplărie PVC și aluminiu, din 2006.',
+      en: 'Advice and quotes for residential and commercial clients — Salamander PVC windows, Alumil aluminium systems and shading. 20 years of experience in PVC and aluminium windows, since 2006.',
+      de: 'Beratung und Angebote für Privat- und Gewerbekunden — Salamander Kunststofffenster, Alumil Aluminiumsysteme und Sonnenschutz. 20 Jahre Erfahrung mit PVC- und Aluminiumfenstern, seit 2006.',
+      fr: "Conseil et devis pour les clients résidentiels et professionnels — menuiserie PVC Salamander, aluminium Alumil et protections solaires. 20 ans d'expérience en menuiserie PVC et aluminium, depuis 2006.",
+      es: 'Asesoramiento y presupuestos para clientes residenciales y comerciales — carpintería PVC Salamander, aluminio Alumil y protección solar. 20 años de experiencia en carpintería PVC y aluminio, desde 2006.',
+      it: 'Consulenza e preventivi per clienti residenziali e commerciali — infissi PVC Salamander, alluminio Alumil e schermature solari. 20 anni di esperienza in infissi PVC e alluminio, dal 2006.',
+    },
+    color: '#3d4f6b',
+    initials: 'FS',
+  },
+  {
     name: 'Georgiana BLIOJU',
     photo: '/team/georgiana-blioju.avif',
     role: { ro:'Reprezentant Export', en:'Export Representative', de:'Exportmitarbeiterin', fr:'Représentante export', es:'Representante de exportación', it:'Rappresentante export' },
@@ -191,7 +207,8 @@ export default async function DesprePage({ params }) {
         ],
         'contactPoint': [
           { '@type': 'ContactPoint', 'telephone': '+40752443435', 'contactType': 'sales', 'areaServed': 'RO', 'availableLanguage': ['Romanian','English','German','French','Spanish','Italian'] },
-          { '@type': 'ContactPoint', 'telephone': '+40752443439', 'contactType': 'customer support', 'areaServed': 'EU', 'availableLanguage': ['Romanian','English','German','French'] },
+          { '@type': 'ContactPoint', 'telephone': '+40752443439', 'contactType': 'sales', 'areaServed': 'RO' },
+          { '@type': 'ContactPoint', 'telephone': '+40758990048', 'contactType': 'sales', 'name': 'Export', 'areaServed': 'EU', 'availableLanguage': ['Romanian','English','German','French'] },
         ],
         'sameAs': [
           'https://www.facebook.com/neofortconstructii',
@@ -297,7 +314,7 @@ export default async function DesprePage({ params }) {
         <div className="container mx-auto px-6">
           <span className="sec-label">{ui.team_label}</span>
           <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'1rem',color:'#2d2d2d',marginTop:'8px',marginBottom:'36px'}}>{ui.team_sub}</p>
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {TEAM_DESPRE.map((m,i)=>(
               <div key={i} style={{background:'#fff',border:'1px solid #e5e7eb',borderTop:`3px solid ${m.color}`,padding:'24px',display:'flex',flexDirection:'column',gap:'12px'}}>
                 <div style={{display:'flex',alignItems:'center',gap:'12px'}}>
