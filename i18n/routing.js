@@ -96,13 +96,13 @@ export const routing = defineRouting({
     },
     '/blog': '/blog',
 
-    '/blog/de-ce-un-pret-instant-la-ferestre-nu-este-o-oferta': {
-      ro: '/blog/de-ce-un-pret-instant-la-ferestre-nu-este-o-oferta',
-      en: '/blog/why-an-instant-window-price-is-not-a-quote',
-      de: '/blog/warum-ein-sofortpreis-fuer-fenster-kein-angebot-ist',
-      fr: '/blog/pourquoi-un-prix-instantane-de-fenetre-n-est-pas-un-devis',
-      es: '/blog/por-que-un-precio-instantaneo-de-ventana-no-es-un-presupuesto',
-      it: '/blog/perche-un-prezzo-istantaneo-della-finestra-non-e-un-preventivo',
+    '/blog/calculator-pret-termopane-ferestre-online': {
+      ro: '/blog/calculator-pret-termopane-ferestre-online',
+      en: '/blog/online-window-price-calculator',
+      de: '/blog/fenster-preisrechner-online',
+      fr: '/blog/calcul-prix-fenetre-en-ligne',
+      es: '/blog/calculadora-precio-ventanas-online',
+      it: '/blog/calcolo-prezzo-finestre-online',
     },
 
     '/blog/de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii': {

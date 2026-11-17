@@ -64,6 +64,15 @@ const nextConfig = {
       // a fost sters; adresa duce la sursa unica.
       { source: '/.well-known/llms.txt', destination: '/llms.txt', permanent: true },
 
+      // v333: articolul despre calculatoarele de pret si-a schimbat slugurile (SEO pe
+      // „calculator pret termopane” etc.); adresele din v331/v332 duc la cele noi.
+      { source: '/ro/blog/de-ce-un-pret-instant-la-ferestre-nu-este-o-oferta', destination: '/ro/blog/calculator-pret-termopane-ferestre-online', permanent: true },
+      { source: '/en/blog/why-an-instant-window-price-is-not-a-quote', destination: '/en/blog/online-window-price-calculator', permanent: true },
+      { source: '/de/blog/warum-ein-sofortpreis-fuer-fenster-kein-angebot-ist', destination: '/de/blog/fenster-preisrechner-online', permanent: true },
+      { source: '/fr/blog/pourquoi-un-prix-instantane-de-fenetre-n-est-pas-un-devis', destination: '/fr/blog/calcul-prix-fenetre-en-ligne', permanent: true },
+      { source: '/es/blog/por-que-un-precio-instantaneo-de-ventana-no-es-un-presupuesto', destination: '/es/blog/calculadora-precio-ventanas-online', permanent: true },
+      { source: '/it/blog/perche-un-prezzo-istantaneo-della-finestra-non-e-un-preventivo', destination: '/it/blog/calcolo-prezzo-finestre-online', permanent: true },
+
       // v217: /umbrire/preturi era duplicat identic (acelasi md5) al paginii
       // /umbrire/preturi-sisteme-umbrire. Folderul a fost sters; pastram 301.
       { source: '/ro/umbrire/preturi', destination: '/ro/umbrire/preturi-sisteme-umbrire', permanent: true },

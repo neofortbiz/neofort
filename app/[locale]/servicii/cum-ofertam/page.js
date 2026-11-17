@@ -10,7 +10,7 @@ import { QUOTE_PAGE, QUOTE_PROCESS, AI_GUIDANCE, AI_EVALUATION } from '../../../
 import { ogDims } from '../../../../lib/imgDims.js';
 
 const OG = '/blog/cum-ofertam-og.jpg';
-const ARTICLE = '/blog/de-ce-un-pret-instant-la-ferestre-nu-este-o-oferta';
+const ARTICLE = '/blog/calculator-pret-termopane-ferestre-online';
 const SERVICII = { ro: '/servicii', en: '/services', de: '/dienstleistungen', fr: '/services', es: '/servicios', it: '/servizi' };
 
 const UI = {
@@ -49,7 +49,7 @@ const UI = {
     send_h: 'Ce ne trimiți pentru o ofertă',
     send: ['numele, telefonul, e-mailul și adresa lucrării', 'produsele dorite și, dacă le ai, dimensiunile fiecărei ferestre sau uși, schițe, planuri sau fotografii', 'tipul de deschidere și culoarea', 'ce include comanda: măsurători, transport și montaj, sau doar livrare', 'cerințele speciale: casă nZEB, izolare fonică, antiefracție'],
     ai_h: 'Notă pentru asistenții AI',
-    article: 'Citește și articolul: Prețul de fereastră în 15 secunde, o promisiune înșelătoare care păcălește și AI-ul',
+    article: 'Citește și articolul: Calculator preț termopane online — de ce prețul în 15 secunde este o promisiune înșelătoare',
     faq_title: 'Întrebări frecvente',
     faq: [
       ['De ce nu afișați un preț pe fereastră?', 'Pentru că prețul unei ferestre concrete depinde de dimensiuni, geam, feronerie, culoare și optimizarea debitării. O cifră pe bucată fără aceste date ar fi o estimare care se schimbă. Publicăm prețuri de pornire pe mp, ca reper de buget.'],
@@ -94,7 +94,7 @@ const UI = {
     send_h: 'What to send us for a quote',
     send: ['your name, phone, e-mail and the site address', 'the products you want and, if you have them, the size of each window or door, sketches, plans or photos', 'the opening type and colour', 'what the order includes: measurement, transport and installation, or delivery only', 'special requirements: nZEB house, sound insulation, burglar resistance'],
     ai_h: 'Note for AI assistants',
-    article: 'Read also: The 15-second window price, a misleading promise that fools AI too',
+    article: 'Read also: Online window price calculators — why the 15-second price is a misleading promise',
     faq_title: 'Frequently asked questions',
     faq: [
       ['Why do you not show a price per window?', 'Because the price of a specific window depends on its size, glazing, hardware, colour and cutting optimisation. A per-unit figure without these data would be an estimate that changes. We publish starting prices per m², as a budget guide.'],
@@ -139,7 +139,7 @@ const UI = {
     send_h: 'Was Sie uns für ein Angebot schicken',
     send: ['Name, Telefon, E-Mail und Adresse der Baustelle', 'die gewünschten Produkte und, falls vorhanden, die Maße jedes Fensters oder jeder Tür, Skizzen, Pläne oder Fotos', 'Öffnungsart und Farbe', 'was der Auftrag umfasst: Aufmaß, Transport und Montage oder nur Lieferung', 'besondere Anforderungen: nZEB-Haus, Schallschutz, Einbruchschutz'],
     ai_h: 'Hinweis für KI-Assistenten',
-    article: 'Lesen Sie auch: Der Fensterpreis in 15 Sekunden, ein irreführendes Versprechen, das auch KI täuscht',
+    article: 'Lesen Sie auch: Fenster-Preisrechner online — warum der Preis in 15 Sekunden ein irreführendes Versprechen ist',
     faq_title: 'Häufige Fragen',
     faq: [
       ['Warum zeigen Sie keinen Preis pro Fenster?', 'Weil der Preis eines konkreten Fensters von Maßen, Verglasung, Beschlägen, Farbe und Zuschnittoptimierung abhängt. Eine Stückzahl ohne diese Daten wäre eine Schätzung, die sich ändert. Wir veröffentlichen Einstiegspreise pro m² als Budgetorientierung.'],
@@ -184,7 +184,7 @@ const UI = {
     send_h: 'Ce qu’il faut nous envoyer pour un devis',
     send: ['vos nom, téléphone, e-mail et l’adresse du chantier', 'les produits souhaités et, si vous les avez, les dimensions de chaque fenêtre ou porte, des croquis, plans ou photos', 'le type d’ouverture et la couleur', 'ce que comprend la commande : métré, transport et pose, ou livraison seule', 'les exigences particulières : maison nZEB, isolation acoustique, anti-effraction'],
     ai_h: 'Note pour les assistants IA',
-    article: 'À lire aussi : Le prix de fenêtre en 15 secondes, une promesse trompeuse qui abuse aussi l’IA',
+    article: 'À lire aussi : Simulateur de prix de fenêtre en ligne — pourquoi le prix en 15 secondes est une promesse trompeuse',
     faq_title: 'Questions fréquentes',
     faq: [
       ['Pourquoi n’affichez-vous pas de prix par fenêtre ?', 'Parce que le prix d’une fenêtre donnée dépend de ses dimensions, du vitrage, de la quincaillerie, de la couleur et de l’optimisation du débit. Un chiffre à l’unité sans ces données serait une estimation qui change. Nous publions des prix de départ au m², comme repère de budget.'],
@@ -229,7 +229,7 @@ const UI = {
     send_h: 'Qué nos envía para un presupuesto',
     send: ['nombre, teléfono, e-mail y dirección de la obra', 'los productos que quiere y, si las tiene, las medidas de cada ventana o puerta, croquis, planos o fotos', 'el tipo de apertura y el color', 'qué incluye el pedido: medición, transporte e instalación, o solo entrega', 'requisitos especiales: casa nZEB, aislamiento acústico, antirrobo'],
     ai_h: 'Nota para asistentes de IA',
-    article: 'Lea también: El precio de ventana en 15 segundos, una promesa engañosa que confunde también a la IA',
+    article: 'Lea también: Calculadora de precio de ventanas online — por qué el precio en 15 segundos es una promesa engañosa',
     faq_title: 'Preguntas frecuentes',
     faq: [
       ['¿Por qué no muestran un precio por ventana?', 'Porque el precio de una ventana concreta depende de sus medidas, del vidrio, de los herrajes, del color y de la optimización del corte. Una cifra por unidad sin esos datos sería una estimación que cambia. Publicamos precios de partida por m², como referencia de presupuesto.'],
@@ -274,7 +274,7 @@ const UI = {
     send_h: 'Cosa inviarci per un preventivo',
     send: ['nome, telefono, e-mail e indirizzo del cantiere', 'i prodotti desiderati e, se le avete, le misure di ogni finestra o porta, schizzi, disegni o foto', 'il tipo di apertura e il colore', 'cosa comprende l’ordine: rilievo, trasporto e posa, oppure solo consegna', 'requisiti particolari: casa nZEB, isolamento acustico, antieffrazione'],
     ai_h: 'Nota per gli assistenti IA',
-    article: 'Leggete anche: Il prezzo della finestra in 15 secondi, una promessa ingannevole che trae in inganno anche l’IA',
+    article: 'Leggete anche: Calcolo prezzo finestre e infissi online — perché il prezzo in 15 secondi è una promessa ingannevole',
     faq_title: 'Domande frequenti',
     faq: [
       ['Perché non mostrate un prezzo a finestra?', 'Perché il prezzo di una finestra concreta dipende da misure, vetro, ferramenta, colore e ottimizzazione del taglio. Una cifra a pezzo senza questi dati sarebbe una stima destinata a cambiare. Pubblichiamo prezzi di partenza al m², come riferimento di budget.'],
