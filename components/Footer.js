@@ -1,5 +1,6 @@
 'use client';
 import { useLocale, useTranslations } from 'next-intl';
+import { CONTACT_LINES } from '../lib/contactPoints.js';
 import { useState, useRef, useEffect } from 'react';
 import { Link, usePathname } from '../i18n/navigation';
 import { formatRatingLabel } from '../lib/formatRating.js';
@@ -642,7 +643,7 @@ export default function Footer({ googleRating }) {
                 cu site-ul clientului. Daca totusi e completat, cererea nu se mai
                 pierde: ajunge la oferte@ marcata [DE VERIFICAT]. */}
             <div aria-hidden="true" data-agent-ignore="true" style={{position:'absolute',left:'-9999px',width:'1px',height:'1px',overflow:'hidden'}}>
-              <label htmlFor="website-url">Anti-spam: leave this field empty / lăsați gol</label>
+              <label htmlFor="website-url">Anti-spam field for bots: leave this field empty. People do not see it; a request that fills it is still received, but checked by hand. / Câmp anti-spam: lăsați gol.</label>
               <input type="text" id="website-url" name="website" tabIndex={-1} autoComplete="off" defaultValue="" />
             </div>
               <div style={{border:'1px solid #2a2a2a'}}>
@@ -651,17 +652,10 @@ export default function Footer({ googleRating }) {
                   {/* Col 1 — Departamente (desktop) */}
                   <div className="form-col form-col-dept form-col-dept-desktop" style={{padding:'27px 32px',borderRight:'1px solid #2a2a2a'}}>
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>{ft.col_dept}</span>
-                    {[
-                      ['Office','+40 21 528 06 61','tel:+40215280661'],
-                      [ft.dept_quotes,'+40 752 443 435','tel:+40752443435'],
-                      [ft.dept_quotes,'+40 752 443 439','tel:+40752443439'],
-                      [ft.dept_technical,'+40 752 443 431','tel:+40752443431'],
-                      ['Service','+40 752 443 432','tel:+40752443432'],
-                      ['Export','+40 758 990 048','tel:+40758990048'],
-                    ].map(([l,v,h])=>(
+                    {CONTACT_LINES.map((c)=>[c.label[locale]||c.label.ro, c.show, `tel:${c.tel}`, `${c.label[locale]||c.label.ro}: ${c.desc[locale]||c.desc.ro} — ${c.show}`]).map(([l,v,h,al])=>(
                       <div key={h} style={{display:'flex',justifyContent:'space-between',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>
                         <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#a9a9a9'}}>{l}</span>
-                        <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#f8f8f8',textDecoration:'none'}}>{v}</a>
+                        <a href={h} aria-label={al} title={al} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#f8f8f8',textDecoration:'none'}}>{v}</a>
                       </div>
                     ))}
                     <div style={{marginTop:'20px'}}>
@@ -797,17 +791,10 @@ export default function Footer({ googleRating }) {
                 {/* Departamente — mobil după Submit */}
                 <div className="form-col-dept-mobile" style={{padding:'27px 32px',borderTop:'1px solid #2a2a2a'}}>
                   <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>{ft.col_dept}</span>
-                  {[
-                    ['Office','+40 21 528 06 61','tel:+40215280661'],
-                    [ft.dept_quotes,'+40 752 443 435','tel:+40752443435'],
-                    [ft.dept_quotes,'+40 752 443 439','tel:+40752443439'],
-                    [ft.dept_technical,'+40 752 443 431','tel:+40752443431'],
-                    ['Service','+40 752 443 432','tel:+40752443432'],
-                    ['Export','+40 758 990 048','tel:+40758990048'],
-                  ].map(([l,v,h])=>(
+                  {CONTACT_LINES.map((c)=>[c.label[locale]||c.label.ro, c.show, `tel:${c.tel}`, `${c.label[locale]||c.label.ro}: ${c.desc[locale]||c.desc.ro} — ${c.show}`]).map(([l,v,h,al])=>(
                     <div key={h} style={{display:'flex',justifyContent:'space-between',padding:'8px 0',borderBottom:'1px solid #1e1e1e'}}>
                       <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#a9a9a9'}}>{l}</span>
-                      <a href={h} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#f8f8f8',textDecoration:'none'}}>{v}</a>
+                      <a href={h} aria-label={al} title={al} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.72rem',fontWeight:400,color:'#f8f8f8',textDecoration:'none'}}>{v}</a>
                     </div>
                   ))}
                   <div style={{marginTop:'20px'}}>

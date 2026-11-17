@@ -37,6 +37,7 @@ On every page of neofort-biz.ro, in browsers that support WebMCP:
 - `get_product_specs` — technical data; pass `query`, for example "S77" or "BluEvolution 92"; without it you get the list of products (read-only).
 - Answers are short text (about 1,500 characters at most); narrow the query if the list is cut.
 - `request_quote` — fills in the quote form at the bottom of the page. It never sends it: the user checks the data, ticks the privacy-policy consent box and presses the submit button.
+- Anti-spam field: The quote form contains a hidden anti-spam field named `website` (id `website-url`): leave it empty. It is hidden from people and from the accessibility tree on purpose, so it catches bots that fill in every field. It is not removed with display:none, because many bots skip such fields and the filter would stop working. Agents lose nothing: a request that fills it is not rejected, only flagged for a manual check.
 
 ## MCP server (any MCP client)
 

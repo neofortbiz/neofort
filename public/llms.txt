@@ -327,7 +327,8 @@ Aceleași 25 de produse, în celelalte cinci limbi ale site-ului. Fiecare pagin�
 ## Contact și Locație
 
 - **Adresă**: Str. Theodor Aman Pictor nr.11, Sector 1, București 010776, România
-- **Telefon Oferte**: +40 752 443 435 | +40 752 443 439
+- **Telefon Oferte 1 (linia principală)**: +40 752 443 435
+- **Telefon Oferte 2 (linia de rezervă, când linia principală e ocupată)**: +40 752 443 439
 - **Telefon Tehnic**: +40 752 443 431 · **Service**: +40 752 443 432
 - **Telefon Export**: +40 758 990 048
 - **Office**: +40 21 528 06 61
@@ -940,6 +941,8 @@ Cele 57 de articole tehnice, cu titlu și URL în română. Fiecare există în 
 - [MCP server](https://www.neofort-biz.ro/api/mcp): public, read-only, Streamable HTTP, no authentication (protocol 2026-07-28 and 2024-11-05 to 2025-11-25) — tools `get_prices`, `get_product_specs`, `get_contact_info`
 - [MCP server card](https://www.neofort-biz.ro/api/mcp/server-card): machine-readable description of the MCP server (SEP-2127), listed in the [API catalog](https://www.neofort-biz.ro/.well-known/api-catalog) (RFC 9727)
 - WebMCP tools on every page (Chrome, origin trial): `get_prices`, `get_product_specs`, `request_quote` (fills in the quote form; the user sends it)
+- Anti-spam field: The quote form contains a hidden anti-spam field named `website` (id `website-url`): leave it empty. It is hidden from people and from the accessibility tree on purpose, so it catches bots that fill in every field. It is not removed with display:none, because many bots skip such fields and the filter would stop working. Agents lose nothing: a request that fills it is not rejected, only flagged for a manual check.
+- Câmp anti-spam: Formularul de ofertă conține un câmp anti-spam ascuns, numit `website` (id `website-url`): lăsați-l gol. Este ascuns intenționat pentru oameni și pentru cititoarele de ecran, ca să prindă roboții care completează toate câmpurile. Nu este ascuns cu display:none, pentru că mulți roboți sar peste astfel de câmpuri și filtrul n-ar mai funcționa. Agenții nu pierd nimic: o cerere care îl completează nu este respinsă, ci doar marcată pentru verificare manuală.
 - Markdown version of every blog article: append `.md` to the article URL (e.g. https://www.neofort-biz.ro/en/blog/why-do-windows-whistle-when-the-wind-blows-causes-solutions.md), in all six languages
 - [RSS Feed](https://www.neofort-biz.ro/feed.xml): latest 30 blog articles with publication dates (Romanian)
 - Per-language RSS feeds, each with the translated titles, descriptions and URLs of the latest 30 articles:

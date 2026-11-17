@@ -5,6 +5,7 @@ import { BASE } from '../../../lib/constants.js';
 import { BIZ_ADDRESS, BIZ_GEO, BIZ_PHONES, BIZ_EMAIL, BIZ_LOGO } from '../../../lib/business.js';
 import { GRUP_NEOFORT, GRUP_UI, NEOFORT_IMO_URL } from '../../../lib/grupNeofort.js';
 import { getGoogleRating } from '../../../lib/googleRating.js';
+import { contactPointSchema } from '../../../lib/contactPoints.js';
 import { formatRatingParts } from '../../../lib/formatRating.js';
 const SLUGS_DESPRE = {'ro':'despre', 'en':'about', 'de':'ueber-uns', 'fr':'a-propos', 'es':'sobre-nosotros', 'it':'chi-siamo'};
 
@@ -202,11 +203,7 @@ export default async function DesprePage({ params }) {
         'openingHoursSpecification': [
           { '@type': 'OpeningHoursSpecification', 'dayOfWeek': ['Monday','Tuesday','Wednesday','Thursday','Friday'], 'opens': '10:00', 'closes': '18:00' },
         ],
-        'contactPoint': [
-          { '@type': 'ContactPoint', 'telephone': '+40752443435', 'contactType': 'sales', 'areaServed': 'RO', 'availableLanguage': ['Romanian','English','German','French','Spanish','Italian'] },
-          { '@type': 'ContactPoint', 'telephone': '+40752443439', 'contactType': 'sales', 'areaServed': 'RO' },
-          { '@type': 'ContactPoint', 'telephone': '+40758990048', 'contactType': 'sales', 'name': 'Export', 'areaServed': 'EU', 'availableLanguage': ['Romanian','English','German','French'] },
-        ],
+        'contactPoint': contactPointSchema(),
         'sameAs': [
           'https://www.facebook.com/neofortconstructii',
           'https://www.linkedin.com/company/neofort-biz',

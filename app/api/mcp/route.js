@@ -192,7 +192,7 @@ async function callTool(name, args) {
     return text({
       company: 'Neofort BIZ SRL', vat: 'RO30324211',
       address: 'Str. Theodor Aman Pictor nr. 11, Sector 1, București 010776, Romania',
-      quotes: { email: 'oferte@neofort-biz.ro', phone: '+40 752 443 435', phone_2: '+40 752 443 439', whatsapp: 'https://wa.me/40752443435' },
+      quotes: { email: 'oferte@neofort-biz.ro', phone: '+40 752 443 435', phone_2: '+40 752 443 439', phones_note: 'phone = Quotes 1, the main line; phone_2 = Quotes 2, the backup line when the main line is busy', whatsapp: 'https://wa.me/40752443435' },
       technical: { phone: '+40 752 443 431' }, service_phone: '+40 752 443 432',
       export: { phone: '+40 758 990 048', email: 'export@neofort-biz.ro' }, office: { phone: '+40 21 528 06 61' },
       orders: { email: 'comenzi@neofort-biz.ro' }, service: { email: 'service@neofort-biz.ro' },

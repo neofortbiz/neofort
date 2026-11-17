@@ -4,6 +4,9 @@ import { Link } from '../../../i18n/navigation';
 import { BASE } from '../../../lib/constants.js';
 import { BIZ_NAME, BIZ_LEGAL_NAME, BIZ_PHONES, BIZ_EMAIL, BIZ_ADDRESS, BIZ_GEO, BIZ_HOURS } from '../../../lib/business.js';
 import { getGoogleRating } from '../../../lib/googleRating.js';
+import { contactPointSchema, CONTACT_LINES } from '../../../lib/contactPoints.js';
+// v335: etichete pentru butoanele din cardurile echipei (cititoare de ecran și agenți AI).
+const CARD_WORD = { tel: { ro:'telefon', en:'phone', de:'Telefon', fr:'téléphone', es:'teléfono', it:'telefono' }, mail: { ro:'e-mail', en:'e-mail', de:'E-Mail', fr:'e-mail', es:'correo', it:'e-mail' } };
 import { formatRatingLabel } from '../../../lib/formatRating.js';
 const SLUGS_CONTACT = {'ro':'contact','en':'contact','de':'kontakt','fr':'contact','es':'contacto','it':'contatti'};
 
@@ -276,13 +279,7 @@ export default async function ContactPage({ params }) {
         "geo": BIZ_GEO,
         "hasMap": "https://maps.app.goo.gl/YcaANuqcmnzy14i1A",
         "openingHoursSpecification": BIZ_HOURS,
-        "contactPoint": [
-          { "@type":"ContactPoint","telephone":"+40752443435","contactType":"sales","availableLanguage":["Romanian","English","German","French","Spanish","Italian"] },
-          { "@type":"ContactPoint","telephone":"+40752443439","contactType":"sales" },
-          { "@type":"ContactPoint","telephone":"+40752443431","contactType":"technical support","name":"Tehnic" },
-          { "@type":"ContactPoint","telephone":"+40758990048","contactType":"sales","name":"Export" },
-          { "@type":"ContactPoint","telephone":"+40752443432","contactType":"customer service","name":"Service" },
-        ],
+        "contactPoint": contactPointSchema(),
       },
     ],
   };
@@ -361,11 +358,13 @@ export default async function ContactPage({ params }) {
                   <p className="text-[0.68rem] text-muted mb-4 leading-snug flex-1">{m.role[locale] || m.role.ro}</p>
                   {/* Butoane */}
                   <a href={m.href}
+                    aria-label={`${m.name}, ${m.role[locale] || m.role.ro} — ${CARD_WORD.tel[locale] || CARD_WORD.tel.ro} ${m.phone}`}
                     className="w-full text-center font-condensed font-semibold tracking-[0.04em] uppercase text-primary border border-border px-1 py-2 mb-2 hover:border-primary hover:bg-primary hover:text-white transition-all duration-200 block"
                     style={{ fontSize:'clamp(0.48rem, 1.6vw, 0.6rem)', lineHeight:1.3 }}>
                     {m.phone}
                   </a>
                   <a href={`mailto:${m.email}`}
+                    aria-label={`${m.name}, ${m.role[locale] || m.role.ro} — ${CARD_WORD.mail[locale] || CARD_WORD.mail.ro} ${m.email}`}
                     className="w-full text-center font-condensed font-semibold text-[0.6rem] tracking-[0.12em] uppercase text-muted border border-border px-2 py-2 hover:border-primary hover:text-primary transition-all duration-200 block">
                     E-mail
                   </a>
@@ -445,16 +444,12 @@ export default async function ContactPage({ params }) {
               <div>
                 <p className="font-condensed text-[0.62rem] tracking-[0.2em] uppercase font-semibold text-muted mb-2">Telefon</p>
                 <div className="border border-border">
-                  {[
-                    { label: ui.dept_office,   phone: '+40 21 528 06 61', href: 'tel:+40215280661' },
-                    { label: ui.dept_quotes,   phone: '+40 752 443 435',  href: 'tel:+40752443435' },
-                    { label: ui.dept_quotes,   phone: '+40 752 443 439',  href: 'tel:+40752443439' },
-                    { label: ui.dept_tech,     phone: '+40 752 443 431',  href: 'tel:+40752443431' },
-                    { label: ui.dept_service,  phone: '+40 752 443 432',  href: 'tel:+40752443432' },
-                    { label: ui.dept_export,   phone: '+40 758 990 048',  href: 'tel:+40758990048' },
-                  ].map((item, i, arr) => (
-                    // v323: doua randuri „Oferte" — cheia e numarul, nu eticheta.
-                    <a key={item.href} href={item.href}
+                  {/* v335: liniile vin din lib/contactPoints.js („Oferte 1” principală, „Oferte 2” rezervă). */}
+                  {CONTACT_LINES.map((c) => ({
+                    label: c.label[locale] || c.label.ro, phone: c.show, href: `tel:${c.tel}`,
+                    aria: `${c.label[locale] || c.label.ro}: ${c.desc[locale] || c.desc.ro} — ${c.show}`,
+                  })).map((item, i, arr) => (
+                    <a key={item.href} href={item.href} aria-label={item.aria} title={item.aria}
                       className={`flex justify-between items-center px-4 py-2.5 hover:bg-light transition-colors duration-150 ${i < arr.length-1 ? 'border-b border-border' : ''}`}>
                       <span className="font-condensed text-[0.62rem] tracking-[0.14em] uppercase font-semibold text-muted">{item.label}</span>
                       <span className="font-condensed text-[0.8rem] font-medium text-primary">{item.phone}</span>

@@ -9,6 +9,7 @@ import CookieBanner from '../../components/CookieBanner';
 import Script from 'next/script';
 
 import { BASE as baseUrl, LOCALES as locales } from '../../lib/constants.js';
+import { contactPointSchema } from '../../lib/contactPoints.js';
 import { getGoogleRating } from '../../lib/googleRating.js';
 
 // Format Open Graph pentru limbi — identic cu maparea folosita in homepage (v217).
@@ -72,6 +73,9 @@ export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
+// v335: ContactPoint pe toate paginile (decizia lui Dan) — se leaga prin @id de nodul
+// Organization din paginile care il au; liniile vin din lib/contactPoints.js.
+const CONTACT_SCHEMA = JSON.stringify({ '@context': 'https://schema.org', '@type': 'Organization', '@id': `${baseUrl}/#organization`, name: 'Neofort BIZ', url: baseUrl, email: 'oferte@neofort-biz.ro', contactPoint: contactPointSchema() });
 const SKIP_LABEL = { ro: 'Sari la conținut', en: 'Skip to content', de: 'Zum Inhalt springen', fr: 'Aller au contenu', es: 'Saltar al contenido', it: 'Vai al contenuto' };
 
 export default async function LocaleLayout({ children, params }) {
@@ -133,6 +137,7 @@ export default async function LocaleLayout({ children, params }) {
       <body>
         {/* v334: skip link — primul element focusabil; sare peste meniu direct la continut
             (accesibilitate + agenti care navigheaza cu tastatura). */}
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: CONTACT_SCHEMA }} />
         <a href="#continut" className="skip-link">{SKIP_LABEL[locale] || SKIP_LABEL.ro}</a>
         <NextIntlClientProvider messages={messages}>
           <Header googleRating={googleRating} />
