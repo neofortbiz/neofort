@@ -776,6 +776,24 @@ function garda34() {
 }
 garda34();
 
+// ─── Garda 35 (v334): termene, garanție, DoP — aceleași date în llms și MCP ────
+// Sursa unica: lib/serviceTerms.js (confirmata de Dan, 17.11.2026). Textele ro si en
+// se copiaza in llms.txt; serverul MCP le trimite in get_contact_info (terms).
+function garda35() {
+  const src = fs.readFileSync(path.join(ROOT, 'lib/serviceTerms.js'), 'utf8');
+  const llms = fs.readFileSync(path.join(ROOT, 'public/llms.txt'), 'utf8');
+  const mcp = fs.readFileSync(path.join(ROOT, 'app/api/mcp/route.js'), 'utf8');
+  let n = 0, k = 0;
+  for (const m of src.matchAll(/^    (availability|lead_time|warranty|documents|quote): '((?:\\'|[^'])*)',$/gm)) {
+    k++; const t = m[2].replace(/\\'/g, "'");
+    if (!llms.includes(t)) { n++; err(`garda 35: public/llms.txt nu contine textul ${m[1]} din lib/serviceTerms.js: „${t.slice(0, 60)}…”`); }
+  }
+  if (k !== 10) { n++; err(`garda 35: lib/serviceTerms.js trebuie sa aiba 5 campuri × 2 limbi (gasite ${k})`); }
+  if (!/terms: SERVICE_TERMS\.en/.test(mcp)) { n++; err('garda 35: get_contact_info din MCP nu mai trimite SERVICE_TERMS.en'); }
+  console.log(`  Termene/garantie/DoP (v334): ${n} probleme`);
+}
+garda35();
+
 garda23().catch(e => err(`garda 23 nu a putut rula: ${e.message}`)).then(() => garziV327().catch(e => err(`garzile 25–30 nu au putut rula: ${e.message}`))).then(() => {
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }

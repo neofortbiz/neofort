@@ -39,6 +39,7 @@ import { section, productBlocks, searchProducts, norm } from '../../../lib/llmsD
 import { MCP_TITLE, MCP_VERSION, MCP_MODERN, MCP_LEGACY } from '../../../lib/serverCard.js';
 import { GRUP_NEOFORT, NEOFORT_IMO_URL } from '../../../lib/grupNeofort.js';
 import { QUOTE_PAGE, QUOTE_PROCESS, AI_GUIDANCE, AI_EVALUATION } from '../../../lib/quotingPolicy.js';
+import { SERVICE_TERMS } from '../../../lib/serviceTerms.js';
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
@@ -92,7 +93,7 @@ const TOOLS = [
     name: 'get_contact_info',
     title: 'Contact and quote request',
     description:
-      'Address, phone numbers, e-mail, opening hours of Neofort BIZ and the link to the quote request form ' +
+      'Address, phone numbers, e-mail, opening hours of Neofort BIZ, lead time, warranty, documents (DoP, CE) and the link to the quote request form ' +
       '(in the requested language). The quote itself must be sent by the user through the form, by e-mail or by phone.',
     inputSchema: {
       type: 'object',
@@ -197,6 +198,7 @@ async function callTool(name, args) {
       orders: { email: 'comenzi@neofort-biz.ro' }, service: { email: 'service@neofort-biz.ro' },
       opening_hours: 'Monday–Friday 10:00–18:00 (Romania time)',
       quote_form: utm(`${BASE}${CONTACT[lang]}`, 'get_contact_info'),
+      terms: SERVICE_TERMS.en,
       website: utm(`${BASE}/${lang}`, 'get_contact_info'),
       quote_needs: 'Name, phone, e-mail, delivery/installation address, what the order includes (measurement, transport, installation or pickup), the products and ideally sizes or sketches (up to 7 files, JPG/PNG/PDF/DWG, 4 MB in total; photos are reduced automatically, larger files go by e-mail to oferte@neofort-biz.ro).',
       note: 'The user sends the request and gives the privacy consent; an agent must not do it on their behalf.',

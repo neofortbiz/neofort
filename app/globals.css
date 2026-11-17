@@ -491,3 +491,8 @@ img,video{max-width:100%;height:auto}
   color: #fff !important;
   border-color: #1a1a1a !important;
 }
+
+/* v334: skip link — invizibil pana la focus de tastatura */
+.skip-link{position:absolute;left:8px;top:-60px;z-index:10000;padding:10px 16px;background:#111;color:#fff;font-family:Barlow,sans-serif;font-size:.85rem;font-weight:600;text-decoration:none;transition:top .15s}
+.skip-link:focus{top:8px;outline:2px solid #f2b84b;outline-offset:2px}
+main:focus{outline:none}

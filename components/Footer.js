@@ -680,7 +680,7 @@ export default function Footer({ googleRating }) {
                     <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.22em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'24px'}}>{ft.col_form}</span>
 
                     <div style={{marginBottom:'16px'}}>
-                      <input type="text" name="nume" placeholder={ft.p_name} style={iStyle('nume')} onChange={()=>err.nume&&setErr(p=>({...p,nume:''}))}/>
+                      <input type="text" name="nume" placeholder={ft.p_name} aria-label={ft.p_name} autoComplete="name" style={iStyle('nume')} onChange={()=>err.nume&&setErr(p=>({...p,nume:''}))}/>
                       <ErrMsg field="nume"/>
                     </div>
                     <div style={{marginBottom:'16px'}}>
@@ -692,14 +692,14 @@ export default function Footer({ googleRating }) {
                           {cRest.map(c => <option key={c.iso} value={c.dial}>{countryLabel(c, locale)}</option>)}
                         </select>
                         <span aria-hidden="true" style={{width:'1px',alignSelf:'stretch',background:'#2a2a2a',margin:'6px 12px'}}/>
-                        <input type="tel" name="telefon" placeholder={ft.p_phone} value={phoneVal}
+                        <input type="tel" name="telefon" placeholder={ft.p_phone} aria-label={ft.p_phone} autoComplete="tel-national" value={phoneVal}
                           style={{...iBase,flex:'1 1 auto',borderBottom:'none'}}
                           onChange={(ev)=>{ setPhoneVal(ev.target.value); if(err.telefon) setErr(p=>({...p,telefon:''})); }}/>
                       </div>
                       <ErrMsg field="telefon"/>
                     </div>
                     <div style={{marginBottom:'16px'}}>
-                      <input type="email" name="email" placeholder={ft.p_email} style={iStyle('email')} onChange={()=>err.email&&setErr(p=>({...p,email:''}))}/>
+                      <input type="email" name="email" placeholder={ft.p_email} aria-label={ft.p_email} autoComplete="email" style={iStyle('email')} onChange={()=>err.email&&setErr(p=>({...p,email:''}))}/>
                       <ErrMsg field="email"/>
                     </div>
                     <div style={{marginBottom:'16px'}}>
@@ -712,7 +712,7 @@ export default function Footer({ googleRating }) {
                       <ErrMsg field="comanda"/>
                     </div>
                     <div style={{marginBottom:'16px'}}>
-                      <input type="text" name="adresa" placeholder={ft.p_addr} style={iStyle('adresa')} onChange={()=>err.adresa&&setErr(p=>({...p,adresa:''}))}/>
+                      <input type="text" name="adresa" placeholder={ft.p_addr} aria-label={ft.p_addr} autoComplete="street-address" style={iStyle('adresa')} onChange={()=>err.adresa&&setErr(p=>({...p,adresa:''}))}/>
                       <ErrMsg field="adresa"/>
                     </div>
                     <div style={{marginTop:'20px'}}>

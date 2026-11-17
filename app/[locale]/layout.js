@@ -72,6 +72,8 @@ export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
+const SKIP_LABEL = { ro: 'Sari la conținut', en: 'Skip to content', de: 'Zum Inhalt springen', fr: 'Aller au contenu', es: 'Saltar al contenido', it: 'Vai al contenuto' };
+
 export default async function LocaleLayout({ children, params }) {
   const { locale } = await params;
   if (!locales.includes(locale)) notFound();
@@ -129,9 +131,12 @@ export default async function LocaleLayout({ children, params }) {
             emitea un singur tag din cauza deduplicarii Next.js pe acelasi `property`. */}
       </head>
       <body>
+        {/* v334: skip link — primul element focusabil; sare peste meniu direct la continut
+            (accesibilitate + agenti care navigheaza cu tastatura). */}
+        <a href="#continut" className="skip-link">{SKIP_LABEL[locale] || SKIP_LABEL.ro}</a>
         <NextIntlClientProvider messages={messages}>
           <Header googleRating={googleRating} />
-          <main>{children}</main>
+          <main id="continut" tabIndex={-1}>{children}</main>
           <Footer googleRating={googleRating} />
           <CookieBanner locale={locale} />
         </NextIntlClientProvider>
