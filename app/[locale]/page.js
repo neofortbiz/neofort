@@ -45,7 +45,7 @@ const CONTENT = {
     steps_h2: 'Etapele colaborării',
     steps_sub: 'Claritate în 3 pași. Specialiștii noștri vă însoțesc în fiecare etapă.',
     steps: [
-      { n:'01', title:'Elaborare ofertă', desc:'Transmiteți cererea prin formularul de contact, e-mail sau telefon & WhatsApp. Răspundem în maxim 2 zile lucrătoare.' },
+      { n:'01', title:'Elaborare ofertă', desc:'Transmiteți cererea prin formularul de contact, e-mail sau telefon & WhatsApp. Vă trimitem oferta în 48h.' },
       { n:'02', title:'Consultare & Măsurătoare', desc:'Stabilim configurația, tipul de profil, culoare, geam și accesorii. Programăm măsurătorile și elaborăm oferta finală.' },
       { n:'03', title:'Transport & Montaj', desc:'Fabricare 2–4 săptămâni, transport asigurat în toată UE, montaj profesional cu izolare perimetrală și certificat de garanție.' },
     ],
@@ -115,7 +115,7 @@ const CONTENT = {
     steps_h2: 'Steps of our collaboration',
     steps_sub: 'Clarity in 3 steps. Our specialists accompany you at every stage.',
     steps: [
-      { n:'01', title:'Quote preparation', desc:'Send your request via the contact form, email or phone & WhatsApp. We respond within 2 business days.' },
+      { n:'01', title:'Quote preparation', desc:'Send your request via the contact form, email or phone & WhatsApp. We send you the quote within 48h.' },
       { n:'02', title:'Consultation & Measurement', desc:'We define configuration, profile type, colour, glass and accessories. We schedule measurements and finalise the offer.' },
       { n:'03', title:'Transport & Installation', desc:'Manufacturing 2–4 weeks, transport guaranteed throughout the EU, professional installation with perimeter insulation and warranty certificate.' },
     ],
@@ -185,7 +185,7 @@ const CONTENT = {
     steps_h2: 'Ablauf der Zusammenarbeit',
     steps_sub: 'Klarheit in 3 Schritten. Unsere Spezialisten begleiten Sie in jeder Phase.',
     steps: [
-      { n:'01', title:'Angebotserstellung', desc:'Senden Sie Ihre Anfrage über das Kontaktformular, E-Mail oder Telefon & WhatsApp. Wir antworten innerhalb von 2 Werktagen.' },
+      { n:'01', title:'Angebotserstellung', desc:'Senden Sie Ihre Anfrage über das Kontaktformular, E-Mail oder Telefon & WhatsApp. Sie erhalten das Angebot innerhalb von 48h.' },
       { n:'02', title:'Beratung & Aufmaß', desc:'Wir legen Konfiguration, Profiltyp, Farbe, Verglasung und Zubehör fest. Wir planen das Aufmaß und erstellen das Endangebot.' },
       { n:'03', title:'Transport & Montage', desc:'Fertigung 2–4 Wochen, Transport in der gesamten EU gewährleistet, professionelle Montage mit Perimeterdämmung und Garantiezertifikat.' },
     ],
@@ -255,7 +255,7 @@ const CONTENT = {
     steps_h2: 'Étapes de notre collaboration',
     steps_sub: 'Clarté en 3 étapes. Nos spécialistes vous accompagnent à chaque étape.',
     steps: [
-      { n:'01', title:'Établissement du devis', desc:'Envoyez votre demande via le formulaire de contact, e-mail ou téléphone & WhatsApp. Nous répondons sous 2 jours ouvrables.' },
+      { n:'01', title:'Établissement du devis', desc:'Envoyez votre demande via le formulaire de contact, e-mail ou téléphone & WhatsApp. Nous vous envoyons le devis sous 48h.' },
       { n:'02', title:'Consultation & Métrage', desc:'Nous définissons la configuration, le type de profilé, la couleur, le vitrage et les accessoires. Nous planifions les métrés et finalisons le devis.' },
       { n:'03', title:'Transport & Pose', desc:'Fabrication 2–4 semaines, transport assuré dans toute l\'UE, pose professionnelle avec isolation périphérique et certificat de garantie.' },
     ],
@@ -325,7 +325,7 @@ const CONTENT = {
     steps_h2: 'Etapas de nuestra colaboración',
     steps_sub: 'Claridad en 3 pasos. Nuestros especialistas le acompañan en cada etapa.',
     steps: [
-      { n:'01', title:'Elaboración del presupuesto', desc:'Envíe su solicitud a través del formulario de contacto, correo electrónico o teléfono & WhatsApp. Respondemos en un plazo de 2 días hábiles.' },
+      { n:'01', title:'Elaboración del presupuesto', desc:'Envíe su solicitud a través del formulario de contacto, correo electrónico o teléfono & WhatsApp. Le enviamos el presupuesto en 48h.' },
       { n:'02', title:'Consulta & Medición', desc:'Definimos la configuración, tipo de perfil, color, vidrio y accesorios. Programamos las mediciones y elaboramos el presupuesto final.' },
       { n:'03', title:'Transporte & Instalación', desc:'Fabricación 2–4 semanas, transporte garantizado en toda la UE, instalación profesional con aislamiento perimetral y certificado de garantía.' },
     ],
@@ -395,7 +395,7 @@ const CONTENT = {
     steps_h2: 'Fasi della nostra collaborazione',
     steps_sub: 'Chiarezza in 3 passi. I nostri specialisti vi accompagnano in ogni fase.',
     steps: [
-      { n:'01', title:'Preparazione del preventivo', desc:'Inviate la vostra richiesta tramite il modulo di contatto, e-mail o telefono & WhatsApp. Rispondiamo entro 2 giorni lavorativi.' },
+      { n:'01', title:'Preparazione del preventivo', desc:'Inviate la vostra richiesta tramite il modulo di contatto, e-mail o telefono & WhatsApp. Vi inviamo il preventivo entro 48h.' },
       { n:'02', title:'Consulenza & Rilievo', desc:'Definiamo la configurazione, il tipo di profilo, il colore, il vetro e gli accessori. Pianifichiamo i rilievi ed elaboriamo il preventivo finale.' },
       { n:'03', title:'Trasporto & Installazione', desc:'Produzione 2–4 settimane, trasporto garantito in tutta l\'UE, installazione professionale con isolamento perimetrale e certificato di garanzia.' },
     ],

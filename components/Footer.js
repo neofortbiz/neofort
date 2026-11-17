@@ -54,6 +54,21 @@ async function shrinkImage(file, side, quality) {
   }
 }
 
+// v330: al doilea rand al titlului formularului, dupa sectiunea paginii. usePathname din
+// next-intl intoarce calea interna (aceeasi in toate limbile), deci ajunge un prefix.
+const FORM_CONTEXT = {
+  umbrire:   { ro:'pentru rulouri, Raffstore, Zipscreen și pergole', en:'for shutters, Raffstore, Zipscreen and pergolas', de:'für Rollläden, Raffstore, Zipscreen und Pergolen', fr:'pour volets roulants, Raffstore, Zipscreen et pergolas', es:'para persianas, Raffstore, Zipscreen y pérgolas', it:'per tapparelle, Raffstore, Zipscreen e pergole' },
+  nzeb:      { ro:'pentru sisteme de montaj nZEB', en:'for nZEB installation systems', de:'für nZEB-Montagesysteme', fr:'pour systèmes de pose nZEB', es:'para sistemas de instalación nZEB', it:'per sistemi di posa nZEB' },
+  accesorii: { ro:'pentru accesorii de tâmplărie', en:'for window accessories', de:'für Fensterzubehör', fr:'pour accessoires de menuiserie', es:'para accesorios de carpintería', it:'per accessori per infissi' },
+};
+function formContext(p) {
+  const x = String(p || '');
+  if (x === '/umbrire' || x.startsWith('/umbrire/')) return 'umbrire';
+  if (x === '/sisteme-nzeb' || x.startsWith('/sisteme-nzeb/')) return 'nzeb';
+  if (x === '/accesorii' || x.startsWith('/accesorii/')) return 'accesorii';
+  return null;
+}
+
 export default function Footer({ googleRating }) {
   const locale = useLocale();
   const t  = useTranslations('form');
@@ -159,12 +174,12 @@ export default function Footer({ googleRating }) {
 
   // Texte formular per limbă
   const FORM_TEXTS = {
-    ro: { title_label:'Contactați-ne', title_h2:'Solicitați o ofertă de preț\npentru Tâmplărie PVC sau Tâmplărie aluminiu', col_dept:'Departamente', col_form:'Formular de contact', col_prod:'Cererea va conține:', p_name:'Nume Complet *', p_prefix:'Prefix țară *', p_phone:'Telefon *', p_email:'E-mail *', p_addr:'Adresă de Livrare *', lbl_cmd:'Comanda să fie cu: *', sel_ph:'Selectați opțiunea *', lbl_files:'Atașați schițe (max 7):', gdpr_text:'Am citit și sunt de acord cu', gdpr_priv:'Politica de Confidențialitate', gdpr_and:'și', gdpr_cook:'Politica de Cookies', gdpr_of:'a Neofort BIZ. *', files_sel:'fișier(e) selectate', btn_file:'Alegeți fișiere', dept_quotes:'Oferte', dept_technical:'Tehnic', email_quotes:'E-mail Oferte', email_orders:'E-mail Comenzi', email_service:'E-mail Service' },
-    en: { title_label:'Contact us', title_h2:'Request a price quote\nfor PVC or Aluminium Windows', col_dept:'Departments', col_form:'Contact form', col_prod:'The offer will contain:', p_name:'Full Name *', p_prefix:'Country code *', p_phone:'Phone *', p_email:'E-mail *', p_addr:'Delivery Address *', lbl_cmd:'The order must include: *', sel_ph:'Select option *', lbl_files:'Attach sketches (max 7):', gdpr_text:'I have read and agree to the', gdpr_priv:'Privacy Policy', gdpr_and:'and', gdpr_cook:'Cookie Policy', gdpr_of:'of Neofort BIZ. *', files_sel:'file(s) selected', btn_file:'Choose files', dept_quotes:'Quotes', dept_technical:'Technical', email_quotes:'E-mail Quotes', email_orders:'E-mail Orders', email_service:'E-mail Service' },
-    de: { title_label:'Kontaktieren Sie uns', title_h2:'Fordern Sie ein Preisangebot an\nfür Kunststoff- oder Aluminiumfenster', col_dept:'Abteilungen', col_form:'Kontaktformular', col_prod:'Das Angebot wird enthalten:', p_name:'Vollständiger Name *', p_prefix:'Ländervorwahl *', p_phone:'Telefon *', p_email:'E-Mail *', p_addr:'Lieferadresse *', lbl_cmd:'Die Bestellung muss enthalten: *', sel_ph:'Option auswählen *', lbl_files:'Skizzen anhängen (max. 7):', gdpr_text:'Ich habe gelesen und stimme zu', gdpr_priv:'Datenschutzrichtlinie', gdpr_and:'und', gdpr_cook:'Cookie-Richtlinie', gdpr_of:'von Neofort BIZ. *', files_sel:'Datei(en) ausgewählt', btn_file:'Dateien auswählen', dept_quotes:'Angebote', dept_technical:'Technik', email_quotes:'E-Mail Angebote', email_orders:'E-Mail Bestellungen', email_service:'E-Mail Service' },
-    fr: { title_label:'Contactez-nous', title_h2:'Demandez un devis\npour menuiserie PVC ou Aluminium', col_dept:'Départements', col_form:'Formulaire de contact', col_prod:'La demande d\'offre contiendra :', p_name:'Nom complet *', p_prefix:'Indicatif pays *', p_phone:'Téléphone *', p_email:'E-mail *', p_addr:'Adresse de livraison *', lbl_cmd:'La commande doit inclure : *', sel_ph:'Sélectionnez une option *', lbl_files:'Joindre des croquis (max 7) :', gdpr_text:'J\'ai lu et j\'accepte la', gdpr_priv:'Politique de confidentialité', gdpr_and:'et la', gdpr_cook:'Politique de cookies', gdpr_of:'de Neofort BIZ. *', files_sel:'fichier(s) sélectionné(s)', btn_file:'Choisir des fichiers', dept_quotes:'Devis', dept_technical:'Technique', email_quotes:'E-mail Devis', email_orders:'E-mail Commandes', email_service:'E-mail Service' },
-    es: { title_label:'Contáctenos', title_h2:'Solicite un presupuesto\npara carpintería PVC o Aluminio', col_dept:'Departamentos', col_form:'Formulario de contacto', col_prod:'La oferta contendrá:', p_name:'Nombre completo *', p_prefix:'Prefijo país *', p_phone:'Teléfono *', p_email:'Correo electrónico *', p_addr:'Dirección de entrega *', lbl_cmd:'El pedido debe incluir: *', sel_ph:'Seleccione una opción *', lbl_files:'Adjuntar bocetos (máx. 7):', gdpr_text:'He leído y acepto la', gdpr_priv:'Política de privacidad', gdpr_and:'y la', gdpr_cook:'Política de cookies', gdpr_of:'de Neofort BIZ. *', files_sel:'archivo(s) seleccionado(s)', btn_file:'Elegir archivos', dept_quotes:'Presupuestos', dept_technical:'Técnico', email_quotes:'E-mail Presupuestos', email_orders:'E-mail Pedidos', email_service:'E-mail Servicio' },
-    it: { title_label:'Contattateci', title_h2:'Richiedete un preventivo\nper infissi in PVC o Alluminio', col_dept:'Reparti', col_form:'Modulo di contatto', col_prod:'La richiesta di offerta conterrà:', p_name:'Nome completo *', p_prefix:'Prefisso paese *', p_phone:'Telefono *', p_email:'E-mail *', p_addr:'Indirizzo di consegna *', lbl_cmd:"L'ordine deve includere: *", sel_ph:"Seleziona un'opzione *", lbl_files:'Allega schizzi (max 7):', gdpr_text:'Ho letto e accetto la', gdpr_priv:'Informativa sulla privacy', gdpr_and:'e la', gdpr_cook:'Politica sui cookie', gdpr_of:'di Neofort BIZ. *', files_sel:'file selezionato/i', btn_file:'Scegli file', dept_quotes:'Preventivi', dept_technical:'Tecnico', email_quotes:'E-mail Preventivi', email_orders:'E-mail Ordini', email_service:'E-mail Servizio' },
+    ro: { title_label:'Contactați-ne', title_h2:'Solicitați o ofertă de preț\npentru Tâmplărie PVC sau Tâmplărie aluminiu', col_dept:'Departamente', col_form:'Formular de contact', col_prod:'Cererea va conține:', p_name:'Nume Complet *', p_prefix:'Prefix țară *', p_phone:'Telefon *', p_email:'E-mail *', p_addr:'Adresă de Livrare *', lbl_cmd:'Servicii incluse în comandă: *', sel_ph:'Selectați opțiunea *', lbl_files:'Atașați schițe (max 7):', gdpr_text:'Am citit și sunt de acord cu', gdpr_priv:'Politica de Confidențialitate', gdpr_and:'și', gdpr_cook:'Politica de Cookies', gdpr_of:'a Neofort BIZ. *', files_sel:'fișier(e) selectate', btn_file:'Alegeți fișiere', dept_quotes:'Oferte', dept_technical:'Tehnic', email_quotes:'E-mail Oferte', email_orders:'E-mail Comenzi', email_service:'E-mail Service' },
+    en: { title_label:'Contact us', title_h2:'Request a price quote\nfor PVC or Aluminium Windows', col_dept:'Departments', col_form:'Contact form', col_prod:'The offer will contain:', p_name:'Full Name *', p_prefix:'Country code *', p_phone:'Phone *', p_email:'E-mail *', p_addr:'Delivery Address *', lbl_cmd:'Services included in the order: *', sel_ph:'Select option *', lbl_files:'Attach sketches (max 7):', gdpr_text:'I have read and agree to the', gdpr_priv:'Privacy Policy', gdpr_and:'and', gdpr_cook:'Cookie Policy', gdpr_of:'of Neofort BIZ. *', files_sel:'file(s) selected', btn_file:'Choose files', dept_quotes:'Quotes', dept_technical:'Technical', email_quotes:'E-mail Quotes', email_orders:'E-mail Orders', email_service:'E-mail Service' },
+    de: { title_label:'Kontaktieren Sie uns', title_h2:'Fordern Sie ein Preisangebot an\nfür Kunststoff- oder Aluminiumfenster', col_dept:'Abteilungen', col_form:'Kontaktformular', col_prod:'Das Angebot wird enthalten:', p_name:'Vollständiger Name *', p_prefix:'Ländervorwahl *', p_phone:'Telefon *', p_email:'E-Mail *', p_addr:'Lieferadresse *', lbl_cmd:'Leistungen im Auftrag: *', sel_ph:'Option auswählen *', lbl_files:'Skizzen anhängen (max. 7):', gdpr_text:'Ich habe gelesen und stimme zu', gdpr_priv:'Datenschutzrichtlinie', gdpr_and:'und', gdpr_cook:'Cookie-Richtlinie', gdpr_of:'von Neofort BIZ. *', files_sel:'Datei(en) ausgewählt', btn_file:'Dateien auswählen', dept_quotes:'Angebote', dept_technical:'Technik', email_quotes:'E-Mail Angebote', email_orders:'E-Mail Bestellungen', email_service:'E-Mail Service' },
+    fr: { title_label:'Contactez-nous', title_h2:'Demandez un devis\npour menuiserie PVC ou Aluminium', col_dept:'Départements', col_form:'Formulaire de contact', col_prod:'La demande d\'offre contiendra :', p_name:'Nom complet *', p_prefix:'Indicatif pays *', p_phone:'Téléphone *', p_email:'E-mail *', p_addr:'Adresse de livraison *', lbl_cmd:'Services inclus dans la commande : *', sel_ph:'Sélectionnez une option *', lbl_files:'Joindre des croquis (max 7) :', gdpr_text:'J\'ai lu et j\'accepte la', gdpr_priv:'Politique de confidentialité', gdpr_and:'et la', gdpr_cook:'Politique de cookies', gdpr_of:'de Neofort BIZ. *', files_sel:'fichier(s) sélectionné(s)', btn_file:'Choisir des fichiers', dept_quotes:'Devis', dept_technical:'Technique', email_quotes:'E-mail Devis', email_orders:'E-mail Commandes', email_service:'E-mail Service' },
+    es: { title_label:'Contáctenos', title_h2:'Solicite un presupuesto\npara carpintería PVC o Aluminio', col_dept:'Departamentos', col_form:'Formulario de contacto', col_prod:'La oferta contendrá:', p_name:'Nombre completo *', p_prefix:'Prefijo país *', p_phone:'Teléfono *', p_email:'Correo electrónico *', p_addr:'Dirección de entrega *', lbl_cmd:'Servicios incluidos en el pedido: *', sel_ph:'Seleccione una opción *', lbl_files:'Adjuntar bocetos (máx. 7):', gdpr_text:'He leído y acepto la', gdpr_priv:'Política de privacidad', gdpr_and:'y la', gdpr_cook:'Política de cookies', gdpr_of:'de Neofort BIZ. *', files_sel:'archivo(s) seleccionado(s)', btn_file:'Elegir archivos', dept_quotes:'Presupuestos', dept_technical:'Técnico', email_quotes:'E-mail Presupuestos', email_orders:'E-mail Pedidos', email_service:'E-mail Servicio' },
+    it: { title_label:'Contattateci', title_h2:'Richiedete un preventivo\nper infissi in PVC o Alluminio', col_dept:'Reparti', col_form:'Modulo di contatto', col_prod:'La richiesta di offerta conterrà:', p_name:'Nome completo *', p_prefix:'Prefisso paese *', p_phone:'Telefono *', p_email:'E-mail *', p_addr:'Indirizzo di consegna *', lbl_cmd:"Servizi inclusi nell'ordine: *", sel_ph:"Seleziona un'opzione *", lbl_files:'Allega schizzi (max 7):', gdpr_text:'Ho letto e accetto la', gdpr_priv:'Informativa sulla privacy', gdpr_and:'e la', gdpr_cook:'Politica sui cookie', gdpr_of:'di Neofort BIZ. *', files_sel:'file selezionato/i', btn_file:'Scegli file', dept_quotes:'Preventivi', dept_technical:'Tecnico', email_quotes:'E-mail Preventivi', email_orders:'E-mail Ordini', email_service:'E-mail Servizio' },
   };
   const ft = FORM_TEXTS[locale] || FORM_TEXTS.ro;
 
@@ -595,13 +610,16 @@ export default function Footer({ googleRating }) {
       {/* ── FORMULAR CONTACT ── */}
       <div style={{background:'#111',borderTop:'1px solid #222',padding:'10px 0 0'}}>
         <div className="footer-inner">
-          <div style={{textAlign:'center',marginBottom:'8px'}}>
+          {/* v330: id-ul e tinta butoanelor „Solicită ofertă” din pagini (raman pe pagina).
+              Al doilea rand al titlului urmeaza pagina: pe Umbrire, nZEB si Accesorii
+              formularul spunea „ofertă pentru PVC sau aluminiu” (semnalat la audit). */}
+          <div id="cerere-oferta" style={{textAlign:'center',marginBottom:'8px',scrollMarginTop:'90px'}}>
             <span style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#e4e4e4',display:'block',marginBottom:'3px'}}>
               {ft.title_label}
             </span>
             <h2 style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'clamp(0.85rem, 2vw, 1.1rem)',color:'#fff',lineHeight:1.35,textAlign:'center'}}>
               {ft.title_h2.split('\n')[0]}<br/>
-              {ft.title_h2.split('\n')[1]}
+              {(FORM_CONTEXT[formContext(pathname)] || {})[locale] || ft.title_h2.split('\n')[1]}
             </h2>
           </div>
 
@@ -618,9 +636,13 @@ export default function Footer({ googleRating }) {
           ) : (
             <form ref={formRef} onSubmit={handleSubmit}>
             {/* Honeypot anti-spam (v259) — invizibil pentru oameni, scos din
-                fluxul de tabulare si din arborele de accesibilitate. */}
-            <div aria-hidden="true" style={{position:'absolute',left:'-9999px',width:'1px',height:'1px',overflow:'hidden'}}>
-              <label htmlFor="website-url">Website</label>
+                fluxul de tabulare si din arborele de accesibilitate.
+                v330: eticheta spune explicit sa ramana gol. Inainte scria „Website”,
+                iar un asistent AI care citeste textul paginii il putea completa
+                cu site-ul clientului. Daca totusi e completat, cererea nu se mai
+                pierde: ajunge la oferte@ marcata [DE VERIFICAT]. */}
+            <div aria-hidden="true" data-agent-ignore="true" style={{position:'absolute',left:'-9999px',width:'1px',height:'1px',overflow:'hidden'}}>
+              <label htmlFor="website-url">Anti-spam: leave this field empty / lăsați gol</label>
               <input type="text" id="website-url" name="website" tabIndex={-1} autoComplete="off" defaultValue="" />
             </div>
               <div style={{border:'1px solid #2a2a2a'}}>
@@ -705,11 +727,11 @@ export default function Footer({ googleRating }) {
                   </div>
 
                   {/* Col 3 — Checkboxuri */}
-                  <div className="form-col form-col-produse" style={{padding:'27px 32px'}}>
-                    <span style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.18em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'12px'}}>{ft.col_prod}</span>
+                  <div className="form-col form-col-produse" role="group" aria-labelledby="produse-titlu" style={{padding:'27px 32px'}}>
+                    <span id="produse-titlu" style={{fontFamily:'Barlow Condensed,sans-serif',fontWeight:500,fontSize:'.6rem',letterSpacing:'.18em',textTransform:'uppercase',color:'#fff',display:'block',paddingBottom:'14px',borderBottom:'1px solid #2a2a2a',marginBottom:'12px'}}>{ft.col_prod}</span>
                     {PRODUSE.map((item,i)=>(
                       <div key={i} style={{display:'flex',alignItems:'center',gap:'10px',padding:'5px 0',borderBottom:'1px solid #1e1e1e'}}>
-                        <input type="checkbox" id={`cb${i}`} style={{width:'13px',height:'13px',accentColor:'#fff',flexShrink:0,cursor:'pointer'}}/>
+                        <input type="checkbox" id={`cb${i}`} value={item} style={{width:'13px',height:'13px',accentColor:'#fff',flexShrink:0,cursor:'pointer'}}/>
                         <label htmlFor={`cb${i}`} style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.67rem',fontWeight:400,letterSpacing:'.07em',textTransform:'uppercase',color:'#d0d0d0',cursor:'pointer'}}>{item}</label>
                       </div>
                     ))}

@@ -28,52 +28,52 @@ const PAGE_UI = {
 // ─── SPECIFICAȚII — identic cu screenshot, toate câmpurile, 6 limbi ──────────
 const SPECS = {
   blu92alu: {
-    ro:[['Profil PVC cu','6 camere'],['Etanșare','3 garnituri'],['Adâncime','104 mm'],['Transfer','Uw = 0,70 W/(m²K)'],['Vitraj','până la 60 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
-    en:[['PVC profile with','6 chambers'],['Sealing','3 gaskets'],['Depth','104 mm'],['Transfer','Uw = 0.70 W/(m²K)'],['Glazing','up to 60 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
-    de:[['PVC-Profil mit','6 Kammern'],['Dichtung','3 Dichtungen'],['Bautiefe','104 mm'],['Transfer','Uw = 0,70 W/(m²K)'],['Verglasung','bis 60 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
-    fr:[['Profil PVC avec','6 chambres'],['Étanchéité','3 joints'],['Profondeur','104 mm'],['Transfert','Uw = 0,70 W/(m²K)'],['Vitrage','jusqu\'à 60 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
-    es:[['Perfil PVC con','6 cámaras'],['Estanqueidad','3 juntas'],['Profundidad','104 mm'],['Transferencia','Uw = 0,70 W/(m²K)'],['Acristalamiento','hasta 60 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
-    it:[['Profilo PVC con','6 camere'],['Tenuta','3 guarnizioni'],['Profondità','104 mm'],['Trasmittanza','Uw = 0,70 W/(m²K)'],['Vetro','fino a 60 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
+    ro:[['Profil PVC cu','6 camere'],['Etanșare','3 garnituri'],['Adâncime','104 mm'],['Transfer','Uw de la 0,70 W/(m²K)'],['Vitraj','până la 60 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
+    en:[['PVC profile with','6 chambers'],['Sealing','3 gaskets'],['Depth','104 mm'],['Transfer','Uw from 0.70 W/(m²K)'],['Glazing','up to 60 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
+    de:[['PVC-Profil mit','6 Kammern'],['Dichtung','3 Dichtungen'],['Bautiefe','104 mm'],['Transfer','Uw ab 0,70 W/(m²K)'],['Verglasung','bis 60 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
+    fr:[['Profil PVC avec','6 chambres'],['Étanchéité','3 joints'],['Profondeur','104 mm'],['Transfert','Uw dès 0,70 W/(m²K)'],['Vitrage','jusqu\'à 60 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
+    es:[['Perfil PVC con','6 cámaras'],['Estanqueidad','3 juntas'],['Profundidad','104 mm'],['Transferencia','Uw desde 0,70 W/(m²K)'],['Acristalamiento','hasta 60 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
+    it:[['Profilo PVC con','6 camere'],['Tenuta','3 guarnizioni'],['Profondità','104 mm'],['Trasmittanza','Uw da 0,70 W/(m²K)'],['Vetro','fino a 60 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
   },
   blu92flex: {
-    ro:[['Profil PVC cu','6 camere'],['Etanșare','3 garnituri'],['Adâncime','92 mm'],['Transfer','Uw = 0,70 W/(m²K)'],['Vitraj','până la 60 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
-    en:[['PVC profile with','6 chambers'],['Sealing','3 gaskets'],['Depth','92 mm'],['Transfer','Uw = 0.70 W/(m²K)'],['Glazing','up to 60 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
-    de:[['PVC-Profil mit','6 Kammern'],['Dichtung','3 Dichtungen'],['Bautiefe','92 mm'],['Transfer','Uw = 0,70 W/(m²K)'],['Verglasung','bis 60 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
-    fr:[['Profil PVC avec','6 chambres'],['Étanchéité','3 joints'],['Profondeur','92 mm'],['Transfert','Uw = 0,70 W/(m²K)'],['Vitrage','jusqu\'à 60 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
-    es:[['Perfil PVC con','6 cámaras'],['Estanqueidad','3 juntas'],['Profundidad','92 mm'],['Transferencia','Uw = 0,70 W/(m²K)'],['Acristalamiento','hasta 60 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
-    it:[['Profilo PVC con','6 camere'],['Tenuta','3 guarnizioni'],['Profondità','92 mm'],['Trasmittanza','Uw = 0,70 W/(m²K)'],['Vetro','fino a 60 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
+    ro:[['Profil PVC cu','6 camere'],['Etanșare','3 garnituri'],['Adâncime','92 mm'],['Transfer','Uw de la 0,70 W/(m²K)'],['Vitraj','până la 60 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
+    en:[['PVC profile with','6 chambers'],['Sealing','3 gaskets'],['Depth','92 mm'],['Transfer','Uw from 0.70 W/(m²K)'],['Glazing','up to 60 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
+    de:[['PVC-Profil mit','6 Kammern'],['Dichtung','3 Dichtungen'],['Bautiefe','92 mm'],['Transfer','Uw ab 0,70 W/(m²K)'],['Verglasung','bis 60 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
+    fr:[['Profil PVC avec','6 chambres'],['Étanchéité','3 joints'],['Profondeur','92 mm'],['Transfert','Uw dès 0,70 W/(m²K)'],['Vitrage','jusqu\'à 60 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
+    es:[['Perfil PVC con','6 cámaras'],['Estanqueidad','3 juntas'],['Profundidad','92 mm'],['Transferencia','Uw desde 0,70 W/(m²K)'],['Acristalamiento','hasta 60 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
+    it:[['Profilo PVC con','6 camere'],['Tenuta','3 guarnizioni'],['Profondità','92 mm'],['Trasmittanza','Uw da 0,70 W/(m²K)'],['Vetro','fino a 60 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
   },
   blu92round: {
-    ro:[['Profil PVC cu','6 camere'],['Etanșare','3 garnituri'],['Adâncime','92 mm'],['Transfer','Uw = 0,70 W/(m²K)'],['Vitraj','până la 60 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
-    en:[['PVC profile with','6 chambers'],['Sealing','3 gaskets'],['Depth','92 mm'],['Transfer','Uw = 0.70 W/(m²K)'],['Glazing','up to 60 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
-    de:[['PVC-Profil mit','6 Kammern'],['Dichtung','3 Dichtungen'],['Bautiefe','92 mm'],['Transfer','Uw = 0,70 W/(m²K)'],['Verglasung','bis 60 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
-    fr:[['Profil PVC avec','6 chambres'],['Étanchéité','3 joints'],['Profondeur','92 mm'],['Transfert','Uw = 0,70 W/(m²K)'],['Vitrage','jusqu\'à 60 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
-    es:[['Perfil PVC con','6 cámaras'],['Estanqueidad','3 juntas'],['Profundidad','92 mm'],['Transferencia','Uw = 0,70 W/(m²K)'],['Acristalamiento','hasta 60 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
-    it:[['Profilo PVC con','6 camere'],['Tenuta','3 guarnizioni'],['Profondità','92 mm'],['Trasmittanza','Uw = 0,70 W/(m²K)'],['Vetro','fino a 60 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
+    ro:[['Profil PVC cu','6 camere'],['Etanșare','3 garnituri'],['Adâncime','92 mm'],['Transfer','Uw de la 0,70 W/(m²K)'],['Vitraj','până la 60 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
+    en:[['PVC profile with','6 chambers'],['Sealing','3 gaskets'],['Depth','92 mm'],['Transfer','Uw from 0.70 W/(m²K)'],['Glazing','up to 60 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
+    de:[['PVC-Profil mit','6 Kammern'],['Dichtung','3 Dichtungen'],['Bautiefe','92 mm'],['Transfer','Uw ab 0,70 W/(m²K)'],['Verglasung','bis 60 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
+    fr:[['Profil PVC avec','6 chambres'],['Étanchéité','3 joints'],['Profondeur','92 mm'],['Transfert','Uw dès 0,70 W/(m²K)'],['Vitrage','jusqu\'à 60 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
+    es:[['Perfil PVC con','6 cámaras'],['Estanqueidad','3 juntas'],['Profundidad','92 mm'],['Transferencia','Uw desde 0,70 W/(m²K)'],['Acristalamiento','hasta 60 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
+    it:[['Profilo PVC con','6 camere'],['Tenuta','3 guarnizioni'],['Profondità','92 mm'],['Trasmittanza','Uw da 0,70 W/(m²K)'],['Vetro','fino a 60 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
   },
   gre76mdround: {
-    ro:[['Profil PVC cu','5 camere'],['Etanșare','2 garnituri + 1 mediană'],['Adâncime','76 mm'],['Transfer','Uw = 0,73 W/(m²K)'],['Vitraj','până la 48 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
-    en:[['PVC profile with','5 chambers'],['Sealing','3 gaskets'],['Depth','76 mm'],['Transfer','Uw = 0.73 W/(m²K)'],['Glazing','up to 48 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
-    de:[['PVC-Profil mit','5 Kammern'],['Dichtung','3 Dichtungen'],['Bautiefe','76 mm'],['Transfer','Uw = 0,73 W/(m²K)'],['Verglasung','bis 48 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
-    fr:[['Profil PVC avec','5 chambres'],['Étanchéité','3 joints'],['Profondeur','76 mm'],['Transfert','Uw = 0,73 W/(m²K)'],['Vitrage','jusqu\'à 48 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
-    es:[['Perfil PVC con','5 cámaras'],['Estanqueidad','3 juntas'],['Profundidad','76 mm'],['Transferencia','Uw = 0,73 W/(m²K)'],['Acristalamiento','hasta 48 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
-    it:[['Profilo PVC con','5 camere'],['Tenuta','3 guarnizioni'],['Profondità','76 mm'],['Trasmittanza','Uw = 0,73 W/(m²K)'],['Vetro','fino a 48 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
+    ro:[['Profil PVC cu','5 camere'],['Etanșare','2 garnituri + 1 mediană'],['Adâncime','76 mm'],['Transfer','Uw de la 0,73 W/(m²K)'],['Vitraj','până la 48 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
+    en:[['PVC profile with','5 chambers'],['Sealing','2 gaskets + 1 centre seal'],['Depth','76 mm'],['Transfer','Uw from 0.73 W/(m²K)'],['Glazing','up to 48 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
+    de:[['PVC-Profil mit','5 Kammern'],['Dichtung','2 Dichtungen + 1 Mitteldichtung'],['Bautiefe','76 mm'],['Transfer','Uw ab 0,73 W/(m²K)'],['Verglasung','bis 48 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
+    fr:[['Profil PVC avec','5 chambres'],['Étanchéité','2 joints + 1 joint central'],['Profondeur','76 mm'],['Transfert','Uw dès 0,73 W/(m²K)'],['Vitrage','jusqu\'à 48 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
+    es:[['Perfil PVC con','5 cámaras'],['Estanqueidad','2 juntas + 1 junta central'],['Profundidad','76 mm'],['Transferencia','Uw desde 0,73 W/(m²K)'],['Acristalamiento','hasta 48 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
+    it:[['Profilo PVC con','5 camere'],['Tenuta','2 guarnizioni + 1 centrale'],['Profondità','76 mm'],['Trasmittanza','Uw da 0,73 W/(m²K)'],['Vetro','fino a 48 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
   },
   gre76mdflex: {
-    ro:[['Profil PVC cu','5 camere'],['Etanșare','3 garnituri'],['Adâncime','76 mm'],['Transfer','Uw = 0,73 W/(m²K)'],['Vitraj','până la 48 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
-    en:[['PVC profile with','5 chambers'],['Sealing','3 gaskets'],['Depth','76 mm'],['Transfer','Uw = 0.73 W/(m²K)'],['Glazing','up to 48 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
-    de:[['PVC-Profil mit','5 Kammern'],['Dichtung','3 Dichtungen'],['Bautiefe','76 mm'],['Transfer','Uw = 0,73 W/(m²K)'],['Verglasung','bis 48 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
-    fr:[['Profil PVC avec','5 chambres'],['Étanchéité','3 joints'],['Profondeur','76 mm'],['Transfert','Uw = 0,73 W/(m²K)'],['Vitrage','jusqu\'à 48 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
-    es:[['Perfil PVC con','5 cámaras'],['Estanqueidad','3 juntas'],['Profundidad','76 mm'],['Transferencia','Uw = 0,73 W/(m²K)'],['Acristalamiento','hasta 48 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
-    it:[['Profilo PVC con','5 camere'],['Tenuta','3 guarnizioni'],['Profondità','76 mm'],['Trasmittanza','Uw = 0,73 W/(m²K)'],['Vetro','fino a 48 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
+    ro:[['Profil PVC cu','5 camere'],['Etanșare','2 garnituri + 1 mediană'],['Adâncime','76 mm'],['Transfer','Uw de la 0,73 W/(m²K)'],['Vitraj','până la 48 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
+    en:[['PVC profile with','5 chambers'],['Sealing','2 gaskets + 1 centre seal'],['Depth','76 mm'],['Transfer','Uw from 0.73 W/(m²K)'],['Glazing','up to 48 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
+    de:[['PVC-Profil mit','5 Kammern'],['Dichtung','2 Dichtungen + 1 Mitteldichtung'],['Bautiefe','76 mm'],['Transfer','Uw ab 0,73 W/(m²K)'],['Verglasung','bis 48 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
+    fr:[['Profil PVC avec','5 chambres'],['Étanchéité','2 joints + 1 joint central'],['Profondeur','76 mm'],['Transfert','Uw dès 0,73 W/(m²K)'],['Vitrage','jusqu\'à 48 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
+    es:[['Perfil PVC con','5 cámaras'],['Estanqueidad','2 juntas + 1 junta central'],['Profundidad','76 mm'],['Transferencia','Uw desde 0,73 W/(m²K)'],['Acristalamiento','hasta 48 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
+    it:[['Profilo PVC con','5 camere'],['Tenuta','2 guarnizioni + 1 centrale'],['Profondità','76 mm'],['Trasmittanza','Uw da 0,73 W/(m²K)'],['Vetro','fino a 48 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
   },
   gre76adflex: {
-    ro:[['Profil PVC cu','5 camere'],['Etanșare','2 garnituri'],['Adâncime','76 mm'],['Transfer','Uw = 0,73 W/(m²K)'],['Vitraj','până la 48 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
-    en:[['PVC profile with','5 chambers'],['Sealing','2 gaskets'],['Depth','76 mm'],['Transfer','Uw = 0.73 W/(m²K)'],['Glazing','up to 48 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
-    de:[['PVC-Profil mit','5 Kammern'],['Dichtung','2 Dichtungen'],['Bautiefe','76 mm'],['Transfer','Uw = 0,73 W/(m²K)'],['Verglasung','bis 48 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
-    fr:[['Profil PVC avec','5 chambres'],['Étanchéité','2 joints'],['Profondeur','76 mm'],['Transfert','Uw = 0,73 W/(m²K)'],['Vitrage','jusqu\'à 48 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
-    es:[['Perfil PVC con','5 cámaras'],['Estanqueidad','2 juntas'],['Profundidad','76 mm'],['Transferencia','Uw = 0,73 W/(m²K)'],['Acristalamiento','hasta 48 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
-    it:[['Profilo PVC con','5 camere'],['Tenuta','2 guarnizioni'],['Profondità','76 mm'],['Trasmittanza','Uw = 0,73 W/(m²K)'],['Vetro','fino a 48 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
+    ro:[['Profil PVC cu','5 camere'],['Etanșare','2 garnituri'],['Adâncime','76 mm'],['Transfer','Uw de la 0,73 W/(m²K)'],['Vitraj','până la 48 mm'],['Protecție fonică','până la 47 dB'],['Anti-efracție','până la RC 3']],
+    en:[['PVC profile with','5 chambers'],['Sealing','2 gaskets'],['Depth','76 mm'],['Transfer','Uw from 0.73 W/(m²K)'],['Glazing','up to 48 mm'],['Sound insulation','up to 47 dB'],['Burglar resistance','up to RC 3']],
+    de:[['PVC-Profil mit','5 Kammern'],['Dichtung','2 Dichtungen'],['Bautiefe','76 mm'],['Transfer','Uw ab 0,73 W/(m²K)'],['Verglasung','bis 48 mm'],['Schallschutz','bis 47 dB'],['Einbruchschutz','bis RC 3']],
+    fr:[['Profil PVC avec','5 chambres'],['Étanchéité','2 joints'],['Profondeur','76 mm'],['Transfert','Uw dès 0,73 W/(m²K)'],['Vitrage','jusqu\'à 48 mm'],['Protection phonique','jusqu\'à 47 dB'],['Anti-effraction','jusqu\'à RC 3']],
+    es:[['Perfil PVC con','5 cámaras'],['Estanqueidad','2 juntas'],['Profundidad','76 mm'],['Transferencia','Uw desde 0,73 W/(m²K)'],['Acristalamiento','hasta 48 mm'],['Aislamiento acústico','hasta 47 dB'],['Antirrobo','hasta RC 3']],
+    it:[['Profilo PVC con','5 camere'],['Tenuta','2 guarnizioni'],['Profondità','76 mm'],['Trasmittanza','Uw da 0,73 W/(m²K)'],['Vetro','fino a 48 mm'],['Isolamento acustico','fino a 47 dB'],['Antieffrazione','fino a RC 3']],
   },
 };
 
@@ -333,7 +333,7 @@ export default async function TamplariePVCPage({ params }) {
 
                     {/* Buton Detalii */}
                     <span className="card-cta" style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',transition:'background 0.15s,color 0.15s'}}>
-                      {ui.btn_detail}
+                      {ui.btn_detail}<span style={{position:'absolute',width:'1px',height:'1px',padding:0,margin:'-1px',overflow:'hidden',clip:'rect(0,0,0,0)',whiteSpace:'nowrap',border:0}}> — {p.name}</span>
                     </span>
                   </div>
                 </Link>

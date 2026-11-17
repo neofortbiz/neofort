@@ -68,23 +68,23 @@ const SPECS = {
     it:[['Taglio termico','40 mm'],['Isolamento','Doppia poliammide + Energy bar'],['Profondità','85 mm'],['Trasmittanza Uf','da 1,0 W/m²K'],['Vetro','20–53 mm'],['Permeabilità all\'aria','Classe 4'],['Antieffrazione','RC2 / PAS24']],
   },
   m19800: {
-    ro:[['Bariera termică','18 mm'],['Etanșare','2 garnituri'],['Profil foaie','50 mm'],['Transfer termic Uf','1,9 W/m²K'],['Vitraj','24–32 mm'],['Etanșeitate apă','clasa 4A'],['Rezistență vânt','C1/B1']],
-    en:[['Thermal barrier','18 mm'],['Sealing','2 gaskets'],['Panel profile','50 mm'],['Thermal transfer Uf','1.9 W/m²K'],['Glazing','24–32 mm'],['Water tightness','class 4A'],['Wind resistance','C1/B1']],
-    de:[['Thermische Trennung','18 mm'],['Dichtung','2 Dichtungen'],['Flügelprofil','50 mm'],['Wärmedurchgang Uf','1,9 W/m²K'],['Verglasung','24–32 mm'],['Schlagregendichtheit','Klasse 4A'],['Windlast','C1/B1']],
-    fr:[['Rupture pont thermique','18 mm'],['Étanchéité','2 joints'],['Profilé de vantail','50 mm'],['Transfert thermique Uf','1,9 W/m²K'],['Vitrage','24–32 mm'],['Étanchéité à l\'eau','classe 4A'],['Résistance au vent','C1/B1']],
-    es:[['Rotura puente térmico','18 mm'],['Estanqueidad','2 juntas'],['Perfil de hoja','50 mm'],['Transferencia Uf','1,9 W/m²K'],['Acristalamiento','24–32 mm'],['Estanqueidad al agua','clase 4A'],['Resistencia al viento','C1/B1']],
-    it:[['Taglio termico','18 mm'],['Tenuta','2 guarnizioni'],['Profilo anta','50 mm'],['Trasmittanza Uf','1,9 W/m²K'],['Vetro','24–32 mm'],['Tenuta all\'acqua','classe 4A'],['Resistenza al vento','C1/B1']],
+    ro:[['Bariera termică','2 × 18 mm poliamidă'],['Etanșare','2 garnituri'],['Profil foaie','50 mm'],['Transfer termic Uf','1,9 W/m²K'],['Vitraj','24–32 mm'],['Etanșeitate apă','clasa 4A'],['Rezistență vânt','C1/B1']],
+    en:[['Thermal barrier','2 × 18 mm polyamide'],['Sealing','2 gaskets'],['Panel profile','50 mm'],['Thermal transfer Uf','1.9 W/m²K'],['Glazing','24–32 mm'],['Water tightness','class 4A'],['Wind resistance','C1/B1']],
+    de:[['Thermische Trennung','2 × 18 mm Polyamid'],['Dichtung','2 Dichtungen'],['Flügelprofil','50 mm'],['Wärmedurchgang Uf','1,9 W/m²K'],['Verglasung','24–32 mm'],['Schlagregendichtheit','Klasse 4A'],['Windlast','C1/B1']],
+    fr:[['Rupture pont thermique','2 × 18 mm polyamide'],['Étanchéité','2 joints'],['Profilé de vantail','50 mm'],['Transfert thermique Uf','1,9 W/m²K'],['Vitrage','24–32 mm'],['Étanchéité à l\'eau','classe 4A'],['Résistance au vent','C1/B1']],
+    es:[['Rotura puente térmico','2 × 18 mm poliamida'],['Estanqueidad','2 juntas'],['Perfil de hoja','50 mm'],['Transferencia Uf','1,9 W/m²K'],['Acristalamiento','24–32 mm'],['Estanqueidad al agua','clase 4A'],['Resistencia al viento','C1/B1']],
+    it:[['Taglio termico','2 × 18 mm poliammide'],['Tenuta','2 guarnizioni'],['Profilo anta','50 mm'],['Trasmittanza Uf','1,9 W/m²K'],['Vetro','24–32 mm'],['Tenuta all\'acqua','classe 4A'],['Resistenza al vento','C1/B1']],
   },
 };
 
 const DESCS = {
   s77: {
-    ro:'Sistem de ferestre și uși din aluminiu din gama Supreme. Poliamidă de 40 mm cu Energy bar, Uw de la 0,85 W/m²K și geam până la 72 mm, inclusiv triplu.',
-    en:'Aluminium window and door system from the Supreme range. 40 mm polyamide with Energy bar, Uw from 0.85 W/m²K and glazing up to 72 mm, triple included.',
-    de:'Aluminium-Fenster- und Türsystem der Supreme-Reihe. 40 mm Polyamid mit Energy bar, Uw ab 0,85 W/m²K und Verglasung bis 72 mm, auch dreifach.',
-    fr:'Système de fenêtres et portes aluminium de la gamme Supreme. Polyamide 40 mm avec Energy bar, Uw dès 0,85 W/m²K et vitrage jusqu\'à 72 mm, triple compris.',
-    es:'Sistema de ventanas y puertas de aluminio de la gama Supreme. Poliamida de 40 mm con Energy bar, Uw desde 0,85 W/m²K y vidrio hasta 72 mm, también triple.',
-    it:'Sistema di finestre e porte in alluminio della gamma Supreme. Poliammide da 40 mm con Energy bar, Uw da 0,85 W/m²K e vetro fino a 72 mm, anche triplo.',
+    ro:'Sistem de ferestre și uși din aluminiu din gama Supreme. Poliamidă de 40 mm cu Energy bar, Uf (profil) și Uw (fereastră) de la 0,85 W/m²K și geam până la 72 mm, inclusiv triplu.',
+    en:'Aluminium window and door system from the Supreme range. 40 mm polyamide with Energy bar, Uf (profile) and Uw (window) from 0.85 W/m²K and glazing up to 72 mm, triple included.',
+    de:'Aluminium-Fenster- und Türsystem der Supreme-Reihe. 40 mm Polyamid mit Energy bar, Uf (Profil) und Uw (Fenster) ab 0,85 W/m²K und Verglasung bis 72 mm, auch dreifach.',
+    fr:'Système de fenêtres et portes aluminium de la gamme Supreme. Polyamide 40 mm avec Energy bar, Uf (profilé) et Uw (fenêtre) dès 0,85 W/m²K et vitrage jusqu\'à 72 mm, triple compris.',
+    es:'Sistema de ventanas y puertas de aluminio de la gama Supreme. Poliamida de 40 mm con Energy bar, Uf (perfil) y Uw (ventana) desde 0,85 W/m²K y vidrio hasta 72 mm, también triple.',
+    it:'Sistema di finestre e porte in alluminio della gamma Supreme. Poliammide da 40 mm con Energy bar, Uf (profilo) e Uw (finestra) da 0,85 W/m²K e vetro fino a 72 mm, anche triplo.',
   },
   s67: {
     ro:'Sistem versatil și economic din gama Smartia. Izolare fonică superioară până la 45 dB — ideal pentru medii urbane. Barieră termică 30mm, geam până la 58mm.',
@@ -119,12 +119,12 @@ const DESCS = {
     it:'Sistema pieghevole premium per grandi aperture. Taglio termico in doppia poliammide da 40 mm con Energy bar, anta da 85 mm. Classe RC2 e certificazione PAS24.',
   },
   m19800: {
-    ro:'Sistem armonic din gama Smartia. Barieră termică dublă de 18 mm, foi de până la 1,0 × 2,5 m, Uf 1,9 W/m²K, etanșeitate la apă clasa 4A. Ideal pentru terase și balcoane.',
-    en:'Folding system from the Smartia range. Double 18 mm thermal break, panels up to 1.0 × 2.5 m, Uf 1.9 W/m²K, water tightness class 4A. Ideal for terraces and balconies.',
-    de:'Faltsystem aus der Smartia-Reihe. Doppelte 18-mm-Wärmedämmung, Flügel bis 1,0 × 2,5 m, Uf 1,9 W/m²K, Schlagregendichtheit Klasse 4A. Ideal für Terrassen und Balkone.',
-    fr:'Système pliant de la gamme Smartia. Double rupture thermique de 18 mm, vantaux jusqu’à 1,0 × 2,5 m, Uf 1,9 W/m²K, étanchéité à l’eau classe 4A. Idéal pour terrasses et balcons.',
-    es:'Sistema plegable de la gama Smartia. Doble rotura térmica de 18 mm, hojas de hasta 1,0 × 2,5 m, Uf 1,9 W/m²K, estanqueidad al agua clase 4A. Ideal para terrazas y balcones.',
-    it:'Sistema pieghevole della gamma Smartia. Doppio taglio termico da 18 mm, ante fino a 1,0 × 2,5 m, Uf 1,9 W/m²K, tenuta all’acqua classe 4A. Ideale per terrazze e balconi.',
+    ro:'Sistem armonic din gama Smartia. Barieră termică din două benzi de poliamidă de 18 mm, foi de până la 1,0 × 2,5 m, Uf 1,9 W/m²K, etanșeitate la apă clasa 4A. Ideal pentru terase și balcoane.',
+    en:'Folding system from the Smartia range. Thermal break of two 18 mm polyamide strips, panels up to 1.0 × 2.5 m, Uf 1.9 W/m²K, water tightness class 4A. Ideal for terraces and balconies.',
+    de:'Faltsystem aus der Smartia-Reihe. Thermische Trennung aus zwei 18-mm-Polyamidstegen, Flügel bis 1,0 × 2,5 m, Uf 1,9 W/m²K, Schlagregendichtheit Klasse 4A. Ideal für Terrassen und Balkone.',
+    fr:'Système pliant de la gamme Smartia. Rupture thermique en deux barrettes de polyamide de 18 mm, vantaux jusqu’à 1,0 × 2,5 m, Uf 1,9 W/m²K, étanchéité à l’eau classe 4A. Idéal pour terrasses et balcons.',
+    es:'Sistema plegable de la gama Smartia. Rotura térmica de dos pletinas de poliamida de 18 mm, hojas de hasta 1,0 × 2,5 m, Uf 1,9 W/m²K, estanqueidad al agua clase 4A. Ideal para terrazas y balcones.',
+    it:'Sistema pieghevole della gamma Smartia. Taglio termico con due listelli in poliammide da 18 mm, ante fino a 1,0 × 2,5 m, Uf 1,9 W/m²K, tenuta all’acqua classe 4A. Ideale per terrazze e balconi.',
   },
 };
 
@@ -325,7 +325,7 @@ export default async function TamplaieAluminiuPage({ params }) {
 
                     {/* Buton Detalii */}
                     <span className="card-cta" style={{display:'block',textAlign:'center',fontFamily:'Barlow Condensed,sans-serif',fontSize:'0.63rem',letterSpacing:'0.18em',textTransform:'uppercase',fontWeight:600,color:accentColor,border:`1px solid ${accentColor}`,padding:'9px 16px',transition:'background 0.15s,color 0.15s'}}>
-                      {ui.btn_detail}
+                      {ui.btn_detail}<span style={{position:'absolute',width:'1px',height:'1px',padding:0,margin:'-1px',overflow:'hidden',clip:'rect(0,0,0,0)',whiteSpace:'nowrap',border:0}}> — {p.name}</span>
                     </span>
                   </div>
                 </Link>
@@ -400,9 +400,9 @@ export default async function TamplaieAluminiuPage({ params }) {
       {/* ── SEO BRIDGE ── */}
       <section aria-label={CTA_LABELS[locale]?.tag || CTA_LABELS.ro.tag} style={{background:'#111',padding:'0'}}>
         <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
-          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#7c7c7c',marginBottom:'0',textAlign:'center'}}>
+          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#a8a8a8',marginBottom:'0',textAlign:'center'}}>
             {CTA_LABELS[locale]?.h2a || CTA_LABELS.ro.h2a}{' '}
-            <span style={{textDecoration:'underline'}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</span>
+            <a href="#cerere-oferta" style={{textDecoration:'underline',color:'#fff'}}>{CTA_LABELS[locale]?.h2b || CTA_LABELS.ro.h2b}</a>
             {' '}{CTA_LABELS[locale]?.h2c || CTA_LABELS.ro.h2c}
           </p>
         </div>

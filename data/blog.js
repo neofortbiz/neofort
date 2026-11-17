@@ -11865,7 +11865,7 @@ Un [sistem de umbrire](/ro/umbrire) exterior **reduce cu 60–80% energia solar�
 
 ### Ce sunt?
 
-Raffstore este categoria de jaluzele venețiene exterioare de înaltă performanță. **Lamelele au curbură specială** și pot fi orientate în orice unghi — de la lumină maximă la întuneric total.
+Raffstore este categoria de jaluzele venețiene exterioare de înaltă performanță. **Lamelele au curbură specială** și pot fi orientate în orice unghi — de la lumină maximă la umbrire aproape totală. Lamelele închise nu opresc lumina complet; pentru întuneric total, rulourile sunt alegerea potrivită.
 
 ### Cum funcționează?
 
@@ -11883,7 +11883,7 @@ Acționare: manuală (snur/tijă), **electrică** (motor 24V/230V), **automată*
 
 ### Avantaje Raffstore
 
-✅ **Control granular al luminii** — de la difuz la întuneric complet
+✅ **Control granular al luminii** — de la lumină difuză la umbrire aproape totală
 ✅ **Ventilație cu umbrire** — fereastra deschisă, lamelele blocând soarele
 ✅ **Estetică superioară** — aspect arhitectural premium
 ✅ **Rezistență la vânt** — sisteme cu ghidaje până la 120 km/h
@@ -11998,7 +11998,7 @@ An exterior [shading system](/en/shading-systems) **reduces solar energy by 60�
 
 ### What Are They?
 
-Raffstore is the category of high-performance exterior venetian blinds. **The slats have a special curvature** and can be oriented at any angle — from maximum light to complete darkness.
+Raffstore is the category of high-performance exterior venetian blinds. **The slats have a special curvature** and can be oriented at any angle — from maximum light to near-total shading. Closed slats do not block light completely; for total darkness, roller shutters are the right choice.
 
 ### How Do They Work?
 
@@ -12016,7 +12016,7 @@ Operation: manual (cord/rod), **electric** (24V/230V motor), **automatic** with 
 
 ### Raffstore Advantages
 
-✅ **Granular light control** — from diffuse to complete darkness
+✅ **Granular light control** — from diffuse light to near-total shading
 ✅ **Ventilation with shading** — window open, slats blocking the sun
 ✅ **Superior aesthetics** — premium architectural appearance
 ✅ **Wind resistance** — guided systems up to 120 km/h
@@ -12131,7 +12131,7 @@ Ein Außenbeschattungssystem **reduziert die Solarenergie um 60–80 %**, bevor 
 
 ### Was sind sie?
 
-Raffstore ist die Kategorie der hochwertigen Außenjalousien. **Die Lamellen haben eine besondere Krümmung** und können in jedem Winkel ausgerichtet werden — von maximalem Licht bis zur vollständigen Verdunkelung.
+Raffstore ist die Kategorie der hochwertigen Außenjalousien. **Die Lamellen haben eine besondere Krümmung** und können in jedem Winkel ausgerichtet werden — von maximalem Licht bis zu fast vollständiger Beschattung. Geschlossene Lamellen sperren das Licht nicht ganz aus; für vollständige Verdunkelung sind Rollläden die richtige Wahl.
 
 ### Wie funktionieren sie?
 
@@ -12149,7 +12149,7 @@ Antrieb: manuell (Schnur/Stab), **elektrisch** (Motor 24V/230V), **automatisch**
 
 ### Raffstore-Vorteile
 
-✅ **Granulare Lichtkontrolle** — von diffus bis vollständige Verdunkelung
+✅ **Granulare Lichtkontrolle** — von diffusem Licht bis zu fast vollständiger Beschattung
 ✅ **Lüftung mit [Beschattung](/de/beschattungssysteme)** — Fenster offen, Lamellen blockieren die Sonne
 ✅ **Überlegene Ästhetik** — Premium-Architekturerscheinung
 ✅ **Windbeständigkeit** — Führungssysteme bis 120 km/h
@@ -12264,7 +12264,7 @@ Un système d'ombrage extérieur **réduit l'énergie solaire de 60 à 80 %** av
 
 ### Qu'est-ce que c'est ?
 
-Le [Raffstore](/fr/systemes-occultation) est la catégorie de stores vénitiens extérieurs haute performance. **Les lames ont une courbure spéciale** et peuvent être orientées à n'importe quel angle — de la lumière maximale à l'obscurité totale.
+Le [Raffstore](/fr/systemes-occultation) est la catégorie de stores vénitiens extérieurs haute performance. **Les lames ont une courbure spéciale** et peuvent être orientées à n'importe quel angle — de la lumière maximale à un ombrage presque total. Les lames fermées ne bloquent pas entièrement la lumière ; pour l'obscurité totale, les volets roulants sont le bon choix.
 
 ### Comment ça fonctionne ?
 
@@ -12282,7 +12282,7 @@ Commande : manuelle (cordon/tringle), **électrique** (moteur 24V/230V), **autom
 
 ### Avantages Raffstore
 
-✅ **Contrôle granulaire de la lumière** — du diffus à l'obscurité totale
+✅ **Contrôle granulaire de la lumière** — de la lumière diffuse à un ombrage presque total
 ✅ **Ventilation avec ombrage** — fenêtre ouverte, lames bloquant le soleil
 ✅ **Esthétique supérieure** — aspect architectural premium
 ✅ **Résistance au vent** — systèmes à glissières jusqu'à 120 km/h
@@ -12397,7 +12397,7 @@ Un [sistema de sombreado](/es/sistemas-sombreado) exterior **reduce la energía 
 
 ### ¿Qué son?
 
-Raffstore es la categoría de persianas venecianas exteriores de alta prestación. **Las lamas tienen una curvatura especial** y pueden orientarse en cualquier ángulo — desde luz máxima hasta oscuridad total.
+Raffstore es la categoría de persianas venecianas exteriores de alta prestación. **Las lamas tienen una curvatura especial** y pueden orientarse en cualquier ángulo — desde luz máxima hasta un sombreado casi total. Las lamas cerradas no bloquean la luz por completo; para oscuridad total, las persianas enrollables son la opción adecuada.
 
 ### ¿Cómo funcionan?
 
@@ -12415,7 +12415,7 @@ Accionamiento: manual (cordón/varilla), **eléctrico** (motor 24V/230V), **auto
 
 ### Ventajas Raffstore
 
-✅ **Control granular de la luz** — de difusa a oscuridad total
+✅ **Control granular de la luz** — de luz difusa a un sombreado casi total
 ✅ **Ventilación con sombreado** — ventana abierta, lamas bloqueando el sol
 ✅ **Estética superior** — aspecto arquitectónico premium
 ✅ **Resistencia al viento** — sistemas con guías hasta 120 km/h
@@ -12530,7 +12530,7 @@ Un sistema di ombreggiamento esterno **riduce l'energia solare del 60–80%** pr
 
 ### Cosa sono?
 
-[Raffstore](/it/sistemi-oscuramento) è la categoria di veneziane esterne ad alte prestazioni. **Le lamelle hanno una curvatura speciale** e possono essere orientate a qualsiasi angolo — dalla luce massima all'oscurità totale.
+[Raffstore](/it/sistemi-oscuramento) è la categoria di veneziane esterne ad alte prestazioni. **Le lamelle hanno una curvatura speciale** e possono essere orientate a qualsiasi angolo — dalla luce massima a un oscuramento quasi totale. Le lamelle chiuse non bloccano del tutto la luce; per il buio totale, le tapparelle sono la scelta giusta.
 
 ### Come funzionano?
 
@@ -12548,7 +12548,7 @@ Azionamento: manuale (cordone/asta), **elettrico** (motore 24V/230V), **automati
 
 ### Vantaggi Raffstore
 
-✅ **Controllo granulare della luce** — da diffusa a oscurità totale
+✅ **Controllo granulare della luce** — da luce diffusa a un oscuramento quasi totale
 ✅ **Ventilazione con ombreggiamento** — finestra aperta, lamelle che bloccano il sole
 ✅ **Estetica superiore** — aspetto architettonico premium
 ✅ **Resistenza al vento** — sistemi con guide fino a 120 km/h

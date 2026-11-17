@@ -20,7 +20,7 @@ const CTA_LABELS = {
 const UI = {
   ro: {
     h1: 'Contactați echipa noastră',
-    sub: 'Specialiști în tâmplărie PVC Salamander și aluminiu Alumil — răspundem în maxim 2 zile lucrătoare.',
+    sub: 'Specialiști în tâmplărie PVC Salamander și aluminiu Alumil — ofertă în 48h.',
     team_label: 'Echipa Neofort BIZ',
     team_title: 'Contactați echipa noastră',
     map_label: 'Sediu & Locație',
@@ -42,7 +42,7 @@ const UI = {
   },
   en: {
     h1: 'Contact our team',
-    sub: 'Specialists in Salamander PVC and Alumil aluminium windows — we reply within 2 business days.',
+    sub: 'Specialists in Salamander PVC and Alumil aluminium windows — quote in 48h.',
     team_label: 'Neofort BIZ Team',
     team_title: 'Contact our team',
     map_label: 'Office & Location',
@@ -64,7 +64,7 @@ const UI = {
   },
   de: {
     h1: 'Kontaktieren Sie unser Team',
-    sub: 'Spezialisten für Salamander Kunststoff- und Alumil Aluminiumfenster — wir antworten innerhalb von 2 Werktagen.',
+    sub: 'Spezialisten für Salamander Kunststoff- und Alumil Aluminiumfenster — Angebot in 48h.',
     team_label: 'Team Neofort BIZ',
     team_title: 'Kontaktieren Sie unser Team',
     map_label: 'Büro & Standort',
@@ -86,7 +86,7 @@ const UI = {
   },
   fr: {
     h1: 'Contactez notre équipe',
-    sub: 'Spécialistes en menuiserie PVC Salamander et aluminium Alumil — nous répondons sous 2 jours ouvrables.',
+    sub: 'Spécialistes en menuiserie PVC Salamander et aluminium Alumil — devis en 48h.',
     team_label: 'Équipe Neofort BIZ',
     team_title: 'Contactez notre équipe',
     map_label: 'Bureau & Localisation',
@@ -108,7 +108,7 @@ const UI = {
   },
   es: {
     h1: 'Contacte a nuestro equipo',
-    sub: 'Especialistas en carpintería PVC Salamander y aluminio Alumil — respondemos en 2 días hábiles.',
+    sub: 'Especialistas en carpintería PVC Salamander y aluminio Alumil — presupuesto en 48h.',
     team_label: 'Equipo Neofort BIZ',
     team_title: 'Contacte a nuestro equipo',
     map_label: 'Oficina & Ubicación',
@@ -130,7 +130,7 @@ const UI = {
   },
   it: {
     h1: 'Contattate il nostro team',
-    sub: 'Specialisti in infissi PVC Salamander e alluminio Alumil — rispondiamo entro 2 giorni lavorativi.',
+    sub: 'Specialisti in infissi PVC Salamander e alluminio Alumil — preventivo in 48h.',
     team_label: 'Team Neofort BIZ',
     team_title: 'Contattate il nostro team',
     map_label: 'Ufficio & Posizione',

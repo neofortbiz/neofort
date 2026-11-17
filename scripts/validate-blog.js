@@ -651,6 +651,43 @@ function garda31() {
 }
 garda31();
 
+// ── GARDA 32 (v330): promisiuni si capcane semnalate de auditul de coerenta ─
+// (a) Termenul de raspuns e unul singur pe site: „Ofertă în 48h” (decizia lui Dan,
+//     17.11.2026). Formularile vechi „răspundem în 2 zile lucrătoare” nu revin.
+// (b) Campul-capcana anti-spam nu se mai numeste „Website”: un asistent AI care
+//     citeste pagina il completa cu site-ul clientului, iar cererea se pierdea.
+// (c) Raffstore nu promite „întuneric complet” (lamelele inchise lasa lumina sa
+//     treaca); „vopsire anodizată” nu exista (anodizarea nu e vopsire).
+// (d) Butoanele „Solicită ofertă” care duc la formular folosesc #cerere-oferta,
+//     deci tinta trebuie sa existe in Footer.
+function garda32() {
+  const tinte = [];
+  (function w(d) { for (const e of fs.readdirSync(d, { withFileTypes: true })) {
+    const q = path.join(d, e.name);
+    if (e.isDirectory()) { if (!['node_modules', '.next', 'blog'].includes(e.name)) w(q); }
+    else if (/\.js$/.test(e.name)) tinte.push(q);
+  } })(path.join(ROOT, 'app'));
+  ['components/Footer.js', 'components/Header.js', 'public/llms.txt', 'public/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md'].forEach(f => tinte.push(path.join(ROOT, f)));
+  const rel = (f) => path.relative(ROOT, f).replace(/\\/g, '/');
+  const TERMEN = /(?<![\d–-])2 (zile lucrătoare|working days|business days|Werktage[n]?|jours ouvrés|jours ouvrables|días hábiles|días laborables|giorni lavorativi)/i;
+  const PROMIS = /întuneric complet|complete darkness|völliger Dunkelheit|vopsire anodizat|Anodized coating|Laquage anodisé|Lacado anodizado|Verniciatura anodizzata/i;
+  let n = 0;
+  tinte.forEach(f => {
+    const t = fs.readFileSync(f, 'utf8');
+    const a = t.match(TERMEN); if (a) { n++; err(`garda 32: „${a[0]}” in ${rel(f)} — termenul de pe site e „Ofertă în 48h”`); }
+    // doar paginile de umbrire si formularul: in blog, „întuneric complet” e corect la rulouri
+    const b = t.match(PROMIS);
+    if (b && /umbrire|Footer/.test(rel(f))) { n++; err(`garda 32: „${b[0]}” in ${rel(f)} — formulare respinsa la auditul de coerenta`); }
+  });
+  const footer = fs.readFileSync(path.join(ROOT, 'components/Footer.js'), 'utf8');
+  if (/<label htmlFor="website-url">\s*Website\s*</.test(footer)) { n++; err('garda 32: campul-capcana din Footer se numeste iar „Website” — asistentii AI il completeaza'); }
+  if (!/id="cerere-oferta"/.test(footer)) { n++; err('garda 32: lipseste tinta id="cerere-oferta" din Footer (butoanele „Solicită ofertă” duc acolo)'); }
+  const ruta = fs.readFileSync(path.join(ROOT, 'app/api/contact/route.js'), 'utf8');
+  if (/honeypot !== '' \|\|/.test(ruta)) { n++; err('garda 32: /api/contact arunca din nou cererile cu campul-capcana completat (decizia: se livreaza marcate [DE VERIFICAT])'); }
+  console.log(`  Promisiuni si capcane (v330): ${tinte.length} fisiere, ${n} probleme`);
+}
+garda32();
+
 garda23().catch(e => err(`garda 23 nu a putut rula: ${e.message}`)).then(() => garziV327().catch(e => err(`garzile 25–30 nu au putut rula: ${e.message}`))).then(() => {
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }

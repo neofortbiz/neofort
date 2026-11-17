@@ -65,7 +65,7 @@ const EMAIL_TEXTS = {
     subject: "Solicitarea dvs. a fost înregistrată — Neofort BIZ",
     tagline: "Tâmplărie PVC Salamander · Aluminiu Alumil",
     thanks: (n) => `Vă mulțumim, ${n}!`,
-    intro: (t) => `Solicitarea dvs. de ofertă a fost înregistrată cu succes și va fi procesată în maxim <strong style="color:#151515;">2 zile lucrătoare</strong>. Un specialist Neofort BIZ vă va contacta la numărul <strong style="color:#151515;">${t}</strong>.`,
+    intro: (t) => `Solicitarea dvs. de ofertă a fost înregistrată cu succes. Veți primi oferta în <strong style="color:#151515;">48 de ore</strong>. Un specialist Neofort BIZ vă va contacta la numărul <strong style="color:#151515;">${t}</strong>.`,
     summary: "Rezumatul solicitării", rowType: "Tip comandă", rowAddr: "Adresă livrare",
     products: "Produse și servicii solicitate:", btnSite: "Vizitați site-ul",
     urgent: `Dacă aveți întrebări urgente, ne puteți contacta direct la <a href="mailto:oferte@neofort-biz.ro" style="color:#151515;">oferte@neofort-biz.ro</a> sau telefonic la <a href="tel:+40752443435" style="color:#151515;">+40 752 443 435</a>.`,
@@ -76,7 +76,7 @@ const EMAIL_TEXTS = {
     subject: "Your request has been received — Neofort BIZ",
     tagline: "Salamander PVC Windows · Alumil Aluminium",
     thanks: (n) => `Thank you, ${n}!`,
-    intro: (t) => `Your quote request has been received and will be processed within <strong style="color:#151515;">2 working days</strong>. A Neofort BIZ specialist will contact you on <strong style="color:#151515;">${t}</strong>.`,
+    intro: (t) => `Your quote request has been received. You will receive the quote within <strong style="color:#151515;">48 hours</strong>. A Neofort BIZ specialist will contact you on <strong style="color:#151515;">${t}</strong>.`,
     summary: "Request summary", rowType: "Order type", rowAddr: "Delivery address",
     products: "Products and services requested:", btnSite: "Visit the website",
     urgent: `If you have any urgent questions, you can reach us directly at <a href="mailto:oferte@neofort-biz.ro" style="color:#151515;">oferte@neofort-biz.ro</a> or by phone on <a href="tel:+40752443435" style="color:#151515;">+40 752 443 435</a>.`,
@@ -87,7 +87,7 @@ const EMAIL_TEXTS = {
     subject: "Ihre Anfrage ist bei uns eingegangen — Neofort BIZ",
     tagline: "Salamander Kunststofffenster · Alumil Aluminium",
     thanks: (n) => `Vielen Dank, ${n}!`,
-    intro: (t) => `Ihre Angebotsanfrage ist bei uns eingegangen und wird innerhalb von <strong style="color:#151515;">2 Werktagen</strong> bearbeitet. Ein Neofort BIZ Mitarbeiter meldet sich bei Ihnen unter <strong style="color:#151515;">${t}</strong>.`,
+    intro: (t) => `Ihre Angebotsanfrage ist bei uns eingegangen. Sie erhalten das Angebot innerhalb von <strong style="color:#151515;">48 Stunden</strong>. Ein Neofort BIZ Mitarbeiter meldet sich bei Ihnen unter <strong style="color:#151515;">${t}</strong>.`,
     summary: "Zusammenfassung der Anfrage", rowType: "Art der Bestellung", rowAddr: "Lieferadresse",
     products: "Angefragte Produkte und Leistungen:", btnSite: "Zur Website",
     urgent: `Bei dringenden Fragen erreichen Sie uns direkt unter <a href="mailto:oferte@neofort-biz.ro" style="color:#151515;">oferte@neofort-biz.ro</a> oder telefonisch unter <a href="tel:+40752443435" style="color:#151515;">+40 752 443 435</a>.`,
@@ -98,7 +98,7 @@ const EMAIL_TEXTS = {
     subject: "Votre demande a bien été enregistrée — Neofort BIZ",
     tagline: "Menuiserie PVC Salamander · Aluminium Alumil",
     thanks: (n) => `Merci, ${n} !`,
-    intro: (t) => `Votre demande de devis a bien été enregistrée et sera traitée sous <strong style="color:#151515;">2 jours ouvrés</strong>. Un spécialiste Neofort BIZ vous contactera au <strong style="color:#151515;">${t}</strong>.`,
+    intro: (t) => `Votre demande de devis a bien été enregistrée. Vous recevrez le devis sous <strong style="color:#151515;">48 heures</strong>. Un spécialiste Neofort BIZ vous contactera au <strong style="color:#151515;">${t}</strong>.`,
     summary: "Récapitulatif de la demande", rowType: "Type de commande", rowAddr: "Adresse de livraison",
     products: "Produits et services demandés :", btnSite: "Visiter le site",
     urgent: `Pour toute question urgente, vous pouvez nous joindre directement à <a href="mailto:oferte@neofort-biz.ro" style="color:#151515;">oferte@neofort-biz.ro</a> ou par téléphone au <a href="tel:+40752443435" style="color:#151515;">+40 752 443 435</a>.`,
@@ -109,7 +109,7 @@ const EMAIL_TEXTS = {
     subject: "Hemos recibido su solicitud — Neofort BIZ",
     tagline: "Carpintería PVC Salamander · Aluminio Alumil",
     thanks: (n) => `¡Gracias, ${n}!`,
-    intro: (t) => `Su solicitud de presupuesto se ha registrado correctamente y se procesará en un plazo máximo de <strong style="color:#151515;">2 días laborables</strong>. Un especialista de Neofort BIZ se pondrá en contacto con usted en el <strong style="color:#151515;">${t}</strong>.`,
+    intro: (t) => `Su solicitud de presupuesto se ha registrado correctamente. Recibirá el presupuesto en <strong style="color:#151515;">48 horas</strong>. Un especialista de Neofort BIZ se pondrá en contacto con usted en el <strong style="color:#151515;">${t}</strong>.`,
     summary: "Resumen de la solicitud", rowType: "Tipo de pedido", rowAddr: "Dirección de entrega",
     products: "Productos y servicios solicitados:", btnSite: "Visitar el sitio web",
     urgent: `Si tiene alguna consulta urgente, puede escribirnos directamente a <a href="mailto:oferte@neofort-biz.ro" style="color:#151515;">oferte@neofort-biz.ro</a> o llamarnos al <a href="tel:+40752443435" style="color:#151515;">+40 752 443 435</a>.`,
@@ -120,7 +120,7 @@ const EMAIL_TEXTS = {
     subject: "Abbiamo ricevuto la vostra richiesta — Neofort BIZ",
     tagline: "Infissi PVC Salamander · Alluminio Alumil",
     thanks: (n) => `Grazie, ${n}!`,
-    intro: (t) => `La vostra richiesta di preventivo è stata registrata e verrà elaborata entro <strong style="color:#151515;">2 giorni lavorativi</strong>. Un specialista Neofort BIZ vi contatterà al numero <strong style="color:#151515;">${t}</strong>.`,
+    intro: (t) => `La vostra richiesta di preventivo è stata registrata. Riceverete il preventivo entro <strong style="color:#151515;">48 ore</strong>. Un specialista Neofort BIZ vi contatterà al numero <strong style="color:#151515;">${t}</strong>.`,
     summary: "Riepilogo della richiesta", rowType: "Tipo di ordine", rowAddr: "Indirizzo di consegna",
     products: "Prodotti e servizi richiesti:", btnSite: "Visita il sito",
     urgent: `Per domande urgenti potete contattarci direttamente a <a href="mailto:oferte@neofort-biz.ro" style="color:#151515;">oferte@neofort-biz.ro</a> oppure telefonicamente al <a href="tel:+40752443435" style="color:#151515;">+40 752 443 435</a>.`,
@@ -140,12 +140,21 @@ export async function POST(request) {
     // 2. Capcana de timp: formularul trimite in "t" milisecundele scurse de
     //    la incarcarea paginii pana la trimitere. Sub 3 secunde = bot. Campul
     //    lipsa = bot care posteaza direct pe endpoint, fara sa ruleze JS.
-    // In ambele cazuri raspundem success:true FARA sa trimitem vreun email —
+    // La capcana de timp raspundem success:true FARA sa trimitem vreun email —
     // botul crede ca a reusit si nu reincearca cu alte variante.
+    //
+    // v330 (decizia lui Dan): honeypot-ul completat NU mai arunca cererea.
+    // Un asistent AI care citeste pagina poate lua campul drept „site-ul
+    // clientului” si il completeaza; pana acum cererea se pierdea pe tacute,
+    // iar omul vedea mesajul de succes. Acum cererea trece mai departe prin
+    // toate celelalte filtre (timp, limita pe IP, telefon valid) si ajunge la
+    // oferte@ marcata [DE VERIFICAT]. Confirmarea catre client NU pleaca in
+    // acest caz, ca un bot sa nu poata folosi formularul ca sa trimita mailuri.
     const honeypot = String(formData.get('website') || '').trim();
+    const deVerificat = honeypot !== '';
     const elapsed  = Number(formData.get('t'));
-    if (honeypot !== '' || !Number.isFinite(elapsed) || elapsed < 3000) {
-      console.warn('[contact] respins ca spam:', JSON.stringify({ honeypot: honeypot !== '', elapsed }));
+    if (!Number.isFinite(elapsed) || elapsed < 3000) {
+      console.warn('[contact] respins ca spam:', JSON.stringify({ honeypot: deVerificat, elapsed }));
       return Response.json({ success: true, id: null });
     }
 
@@ -193,6 +202,11 @@ export async function POST(request) {
     const sursa = String(formData.get('sursa') || '') === 'webmcp' ? 'webmcp' : '';
     const paginaRaw = clean(formData.get('pagina'), 200);
     const pagina = /^\/[\w\-./%]*$/.test(paginaRaw) ? paginaRaw : '';
+    const randVerificare = deVerificat ? `
+              <tr style="border-bottom:1px solid #eee;background:#fff8e6;">
+                <td style="padding:10px 0;font-size:.8rem;color:#141414;width:140px;text-transform:uppercase;letter-spacing:.1em;">De verificat</td>
+                <td style="padding:10px 0;font-size:.9rem;color:#151515;"><strong>Câmpul ascuns anti-spam a fost completat</strong> (valoare: ${esc(clean(honeypot, 120))}). Poate fi un robot sau un asistent AI care a completat formularul. Clientul NU a primit confirmare automată — verificați datele înainte de a răspunde.</td>
+              </tr>` : '';
     const randOrigine = (sursa || pagina) ? `
               <tr style="border-bottom:1px solid #eee;">
                 <td style="padding:10px 0;font-size:.8rem;color:#141414;width:140px;text-transform:uppercase;letter-spacing:.1em;">Origine</td>
@@ -230,7 +244,7 @@ export async function POST(request) {
       from: 'no-reply@neofort-biz.ro',
       to: 'oferte@neofort-biz.ro',
       replyTo: email || undefined,
-      subject: `Solicitare ofertă — ${nume} — ${telefon}${sursa ? ' — AI' : ''}`,
+      subject: `${deVerificat ? '[DE VERIFICAT] ' : ''}Solicitare ofertă — ${nume} — ${telefon}${sursa ? ' — AI' : ''}`,
       attachments,
       html: `
         <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;background:#fff;">
@@ -240,7 +254,7 @@ export async function POST(request) {
             </h1>
           </div>
           <div style="padding:32px;">
-            <table style="width:100%;border-collapse:collapse;margin-bottom:24px;">${randOrigine}
+            <table style="width:100%;border-collapse:collapse;margin-bottom:24px;">${randVerificare}${randOrigine}
               <tr style="border-bottom:1px solid #eee;">
                 <td style="padding:10px 0;font-size:.8rem;color:#141414;width:140px;text-transform:uppercase;letter-spacing:.1em;">Nume</td>
                 <td style="padding:10px 0;font-size:.9rem;color:#151515;font-weight:500;">${esc(nume)}</td>
@@ -283,7 +297,7 @@ export async function POST(request) {
     });
 
     // ── EMAIL 2: confirmare către client ──
-    const emailClient = email ? resend.emails.send({
+    const emailClient = (email && !deVerificat) ? resend.emails.send({
       from: 'no-reply@neofort-biz.ro',
       to: email,
       subject: T.subject,

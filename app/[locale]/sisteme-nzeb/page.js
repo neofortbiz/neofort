@@ -7,12 +7,12 @@ import { hubFaq, HUB_FAQ_LABEL } from '../../../data/hubFaq.js';
 const SLUGS = { ro:'sisteme-nzeb', en:'nzeb-systems', de:'nzeb-systeme', fr:'systemes-nzeb', es:'sistemas-nzeb', it:'sistemi-nzeb' };
 
 const CTA_LABELS = {
-  ro: { tag:'Neofort BIZ — București & Europa', h2a:'Solicitați o', h2b:'ofertă de preț', h2c:'pentru Tâmplărie PVC Salamander sau Tâmplărie Aluminiu Alumil' },
-  en: { tag:'Neofort BIZ — Bucharest & Europe', h2a:'Request a', h2b:'price quote', h2c:'for PVC Salamander or Alumil Aluminium Windows' },
-  de: { tag:'Neofort BIZ — Bukarest & Europa', h2a:'Fordern Sie ein', h2b:'Preisangebot', h2c:'für Salamander Kunststoff- oder Alumil Aluminiumfenster an' },
-  fr: { tag:'Neofort BIZ — Bucarest & Europe', h2a:'Demandez un', h2b:'devis', h2c:'pour menuiserie PVC Salamander ou Aluminium Alumil' },
-  es: { tag:'Neofort BIZ — Bucarest & Europa', h2a:'Solicite un', h2b:'presupuesto', h2c:'para carpintería PVC Salamander o Aluminio Alumil' },
-  it: { tag:'Neofort BIZ — Bucarest & Europa', h2a:'Richiedete un', h2b:'preventivo', h2c:'per infissi PVC Salamander o Alluminio Alumil' },
+  ro: { tag:'Neofort BIZ — București & Europa', h2a:'Solicitați o', h2b:'ofertă de preț', h2c:'pentru sisteme de montaj nZEB' },
+  en: { tag:'Neofort BIZ — Bucharest & Europe', h2a:'Request a', h2b:'price quote', h2c:'for nZEB installation systems' },
+  de: { tag:'Neofort BIZ — Bukarest & Europa', h2a:'Fordern Sie ein', h2b:'Preisangebot', h2c:'für nZEB-Montagesysteme an' },
+  fr: { tag:'Neofort BIZ — Bucarest & Europe', h2a:'Demandez un', h2b:'devis', h2c:'pour systèmes de pose nZEB' },
+  es: { tag:'Neofort BIZ — Bucarest & Europa', h2a:'Solicite un', h2b:'presupuesto', h2c:'para sistemas de instalación nZEB' },
+  it: { tag:'Neofort BIZ — Bucarest & Europa', h2a:'Richiedete un', h2b:'preventivo', h2c:'per sistemi di posa nZEB' },
 };
 
 const PAGE_UI = {
@@ -41,13 +41,13 @@ const A = [
     cat:{ ro:'Izolare perimetrală', en:'Perimeter Insulation', de:'Perimeterdämmung', fr:'Isolation périphérique', es:'Aislamiento perimetral', it:'Isolamento perimetrale' },
     name:{ ro:'Bandă etanșare antivapori', en:'Vapour Sealing Tapes', de:'Dampfsperrband', fr:'Bandes d\'étanchéité vapeur', es:'Cintas de sellado de vapor', it:'Nastri sigillanti al vapore' },
     specs:{ ro:[['Elasticitate','Ridicată'],['Etanșare','Prin lipire autoadeziv'],['Lățimi','50 / 75 / 100 mm'],['Rezistență vapori','Sd > 10 m'],['Utilizare','Interior'],['Barieră antivapori','Da'],['Aderență','La vopsea și tencuială']], en:[['Elasticity','High'],['Sealing','Self-adhesive bonding'],['Widths','50 / 75 / 100 mm'],['Vapour resistance','Sd > 10 m'],['Use','Interior'],['Vapour barrier','Yes'],['Adhesion','On paint and plaster']], de:[['Elastizität','Hoch'],['Abdichtung','Selbstklebend'],['Breiten','50 / 75 / 100 mm'],['Dampfdiffusion','Sd > 10 m'],['Einsatz','Innen'],['Dampfsperre','Ja'],['Haftung','Auf Farbe und Putz']], fr:[['Élasticité','Élevée'],['Étanchéité','Autoadhésif'],['Largeurs','50 / 75 / 100 mm'],['Résistance vapeur','Sd > 10 m'],['Usage','Intérieur'],['Pare-vapeur','Oui'],['Adhérence','Sur peinture et enduit']], es:[['Elasticidad','Alta'],['Sellado','Autoadherente'],['Anchuras','50 / 75 / 100 mm'],['Resist. vapor','Sd > 10 m'],['Uso','Interior'],['Barrera de vapor','Sí'],['Adherencia','En pintura y yeso']], it:[['Elasticità','Elevata'],['Tenuta','Autoadesivo'],['Larghezze','50 / 75 / 100 mm'],['Resist. vapore','Sd > 10 m'],['Uso','Interno'],['Barriera al vapore','Sì'],['Adesione','Su vernice e intonaco']] },
-    desc:{ ro:'Folie autoadezivă pentru etanșarea interioară la vapori de apă. Elimină riscul de condens la rost. Aderență excelentă pe tencuială, beton și vopsea.', en:'Self-adhesive vapour barrier foil for interior joint sealing. Eliminates condensation risk. Excellent adhesion on plaster, concrete and paint.', de:'Selbstklebendes Dampfsperrband für innenseitige Fugenabdichtung. Eliminiert Kondensationsrisiko. Ausgezeichnete Haftung auf Putz, Beton und Farbe.', fr:'Film autoadhésif pour étanchéité intérieure aux vapeurs. Élimine le risque de condensation. Excellente adhérence sur enduit, béton et peinture.', es:'Lámina autoadhesiva para sellado interior al vapor. Elimina el riesgo de condensación. Excelente adherencia sobre yeso, hormigón y pintura.', it:'Foglio autoadesivo per tenuta interna ai vapori. Elimina il rischio di condensa. Eccellente adesione su intonaco, calcestruzzo e vernice.' },
+    desc:{ ro:'Folie autoadezivă pentru etanșarea interioară la vapori de apă. Reduce riscul de condens la rost. Aderență excelentă pe tencuială, beton și vopsea.', en:'Self-adhesive vapour barrier foil for interior joint sealing. Reduces condensation risk at the joint. Excellent adhesion on plaster, concrete and paint.', de:'Selbstklebendes Dampfsperrband für innenseitige Fugenabdichtung. Verringert das Kondensationsrisiko an der Fuge. Ausgezeichnete Haftung auf Putz, Beton und Farbe.', fr:'Film autoadhésif pour étanchéité intérieure aux vapeurs. Réduit le risque de condensation au joint. Excellente adhérence sur enduit, béton et peinture.', es:'Lámina autoadhesiva para sellado interior al vapor. Reduce el riesgo de condensación en la junta. Excelente adherencia sobre yeso, hormigón y pintura.', it:'Foglio autoadesivo per tenuta interna ai vapori. Riduce il rischio di condensa al giunto. Eccellente adesione su intonaco, calcestruzzo e vernice.' },
   },
   { slug:'bagheta-warm-edge-thermo', img:'/accessories/bagheta-warm-edge.avif', color:'#162d47',
     cat:{ ro:'Geam termoizolator', en:'Thermal Glazing', de:'Wärmeschutzverglasung', fr:'Vitrage thermique', es:'Acristalamiento térmico', it:'Vetro termoisolante' },
     name:{ ro:'Baghetă Warm EDGE Thermo', en:'Warm Edge Spacers', de:'Warm Edge Abstandhalter', fr:'Baguettes Warm Edge', es:'Intercalario Warm Edge', it:'Distanziatore Warm Edge' },
     specs:{ ro:[['Profil','Distanțier termoplastic'],['Gama de culori','Largă'],['Adâncime','7,5–19,5 mm'],['Valoare Ψ la margine','≈ 0,03 W/mK'],['Compatibilitate','Toate tipurile geam'],['Rezistență','De durată'],['Gamă','Flexibilă și rigidă']], en:[['Profile','Thermoplastic spacer'],['Colour range','Wide'],['Depth','7.5–19.5 mm'],['Edge Ψ value','≈ 0.03 W/mK'],['Compatibility','All glass types'],['Durability','Long-lasting'],['Range','Flexible and rigid']], de:[['Profil','Thermoplastischer Abstandhalter'],['Farbpalette','Breit'],['Tiefe','7,5–19,5 mm'],['Ψ-Wert am Rand','≈ 0,03 W/mK'],['Kompatibilität','Alle Glastypen'],['Beständigkeit','Langlebig'],['Sortiment','Flexibel und starr']], fr:[['Profil','Espaceur thermoplastique'],['Gamme couleurs','Large'],['Profondeur','7,5–19,5 mm'],['Valeur Ψ en bord','≈ 0,03 W/mK'],['Compatibilité','Tous types de verre'],['Durabilité','Longue durée'],['Gamme','Flexible et rigide']], es:[['Perfil','Espaciador termoplástico'],['Gama colores','Amplia'],['Profundidad','7,5–19,5 mm'],['Valor Ψ en el borde','≈ 0,03 W/mK'],['Compatibilidad','Todos los tipos de vidrio'],['Durabilidad','Larga duración'],['Gama','Flexible y rígida']], it:[['Profilo','Distanziatore termoplastico'],['Gamma colori','Ampia'],['Profondità','7,5–19,5 mm'],['Valore Ψ al bordo','≈ 0,03 W/mK'],['Compatibilità','Tutti i tipi di vetro'],['Durabilità','Lunga durata'],['Gamma','Flessibile e rigida']] },
-    desc:{ ro:'Înlocuiește distanțierul metalic clasic. Elimină condensul marginal și îmbunătățește eficiența geamului termoizolator. Valoare Ψ de circa 0,03 W/mK la marginea geamului, față de circa 0,08 W/mK cu distanțier din aluminiu.', en:'Replaces the classic metal spacer. Eliminates edge condensation and improves insulating glass efficiency. Edge Ψ value of about 0.03 W/mK, versus about 0.08 W/mK with an aluminium spacer.', de:'Ersetzt klassischen Metallabstandhalter. Eliminiert Randkondensation. Ψ-Wert am Glasrand etwa 0,03 W/mK, gegenüber etwa 0,08 W/mK mit Aluminium-Abstandhalter.', fr:'Remplace l\'espaceur métallique. Élimine la condensation en bordure. Valeur Ψ en bord de vitrage d’environ 0,03 W/mK, contre environ 0,08 W/mK avec un intercalaire en aluminium.', es:'Sustituye al espaciador metálico. Elimina la condensación en el borde. Valor Ψ en el borde del vidrio de unos 0,03 W/mK, frente a unos 0,08 W/mK con separador de aluminio.', it:'Sostituisce il distanziatore metallico. Elimina la condensa perimetrale. Valore Ψ al bordo del vetro di circa 0,03 W/mK, contro circa 0,08 W/mK con distanziale in alluminio.' },
+    desc:{ ro:'Înlocuiește distanțierul metalic clasic. Reduce mult condensul la marginea geamului și îmbunătățește eficiența geamului termoizolator. Valoare Ψ de circa 0,03 W/mK la marginea geamului, față de circa 0,08 W/mK cu distanțier din aluminiu.', en:'Replaces the classic metal spacer. Greatly reduces edge condensation and improves insulating glass efficiency. Edge Ψ value of about 0.03 W/mK, versus about 0.08 W/mK with an aluminium spacer.', de:'Ersetzt klassischen Metallabstandhalter. Verringert Randkondensation deutlich. Ψ-Wert am Glasrand etwa 0,03 W/mK, gegenüber etwa 0,08 W/mK mit Aluminium-Abstandhalter.', fr:'Remplace l\'espaceur métallique. Réduit fortement la condensation en bordure. Valeur Ψ en bord de vitrage d’environ 0,03 W/mK, contre environ 0,08 W/mK avec un intercalaire en aluminium.', es:'Sustituye al espaciador metálico. Reduce mucho la condensación en el borde. Valor Ψ en el borde del vidrio de unos 0,03 W/mK, frente a unos 0,08 W/mK con separador de aluminio.', it:'Sostituisce il distanziatore metallico. Riduce molto la condensa perimetrale. Valore Ψ al bordo del vetro di circa 0,03 W/mK, contro circa 0,08 W/mK con distanziale in alluminio.' },
   },
   { slug:'geamuri-termopan-saint-gobain', img:'/accessories/geam-termopan-saint-gobain.avif', color:'#162d47',
     cat:{ ro:'Geam termoizolator', en:'Thermal Glazing', de:'Wärmeschutzverglasung', fr:'Vitrage thermique', es:'Acristalamiento térmico', it:'Vetro termoisolante' },
@@ -204,7 +204,7 @@ export default async function Page({ params }) {
                       ))}
                     </ul>
                     <p className="acc-desc">{desc}</p>
-                    <span className="acc-btn">{ui.btn_detail}</span>
+                    <span className="acc-btn">{ui.btn_detail}<span style={{position:'absolute',width:'1px',height:'1px',padding:0,margin:'-1px',overflow:'hidden',clip:'rect(0,0,0,0)',whiteSpace:'nowrap',border:0}}> — {name}</span></span>
                   </div>
                 </Link>
               );
@@ -215,9 +215,9 @@ export default async function Page({ params }) {
 
       <section aria-label={cta.tag} style={{background:'#111',padding:'0'}}>
         <div className="container" style={{paddingTop:'32px',paddingBottom:'32px',borderTop:'1px solid #1e1e1e'}}>
-          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#7c7c7c',marginBottom:'0',textAlign:'center'}}>
+          <p style={{fontFamily:'Barlow Condensed,sans-serif',fontSize:'.6rem',letterSpacing:'.2em',textTransform:'uppercase',color:'#a8a8a8',marginBottom:'0',textAlign:'center'}}>
             {cta.h2a}{' '}
-            <span style={{textDecoration:'underline'}}>{cta.h2b}</span>
+            <a href="#cerere-oferta" style={{textDecoration:'underline',color:'#fff'}}>{cta.h2b}</a>
             {' '}{cta.h2c}
           </p>
         </div>
@@ -253,12 +253,16 @@ export default async function Page({ params }) {
             {href:'/tamplarie-pvc',     ro:'Tâmplărie PVC Salamander',  en:'Salamander PVC Windows',       de:'Salamander Kunststofffenster', fr:'Menuiserie PVC Salamander',     es:'Carpintería PVC Salamander',   it:'Infissi PVC Salamander'},
             {href:'/tamplarie-aluminiu',ro:'Tâmplărie Aluminiu Alumil',  en:'Alumil Aluminium Windows',     de:'Alumil Aluminiumfenster',      fr:'Menuiserie Aluminium Alumil',   es:'Carpintería Aluminio Alumil',   it:'Infissi Alluminio Alumil'},
             {href:'/blog/ferestre-casa-nzeb-romania-ghid-complet-2026', ro:'Ghid Ferestre nZEB 2026', en:'nZEB Windows Guide 2026', de:'nZEB Fenster Ratgeber 2026', fr:'Guide fenêtres nZEB 2026', es:'Guía ventanas nZEB 2026', it:'Guida finestre nZEB 2026'},
-            {href:'/contact',           ro:'Solicită Ofertă nZEB',       en:'Request nZEB Quote',           de:'nZEB Angebot anfragen',        fr:'Devis nZEB',                    es:'Presupuesto nZEB',             it:'Preventivo nZEB'},
-          ].map((item,i) => (
-            <Link key={i} href={item.href} style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#0b1f3a',textDecoration:'none',fontWeight:500}}>
+            {href:'#cerere-oferta',     ro:'Solicită Ofertă nZEB',       en:'Request nZEB Quote',           de:'nZEB Angebot anfragen',        fr:'Devis nZEB',                    es:'Presupuesto nZEB',             it:'Preventivo nZEB'},
+          ].map((item,i) => {
+            // v330: un href care incepe cu # duce la formularul de pe aceeasi pagina; e <a>
+            // simplu, pentru ca Link-ul next-intl ar adauga limba si ar pleca de pe pagina.
+            const L = item.href.startsWith('#') ? 'a' : Link;
+            return (
+            <L key={i} href={item.href} style={{padding:'8px 16px',background:'#fff',border:'1px solid #d1d5db',fontFamily:'Barlow Condensed,sans-serif',fontSize:'.78rem',letterSpacing:'.06em',color:'#0b1f3a',textDecoration:'none',fontWeight:500}}>
               {item[locale]||item.ro}
-            </Link>
-          ))}
+            </L>
+          ); })}
         </div>
       </section>
 
