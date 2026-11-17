@@ -757,11 +757,12 @@ function garda34() {
   const citeste = (f) => fs.readFileSync(path.join(ROOT, f), 'utf8');
   let n = 0;
   const cere = (f, nume, l) => { const t = sir(nume, l); if (!t) { n++; err(`garda 34: nu gasesc ${nume}.${l} in lib/quotingPolicy.js`); return; } if (!citeste(f).includes(t)) { n++; err(`garda 34: ${f} nu mai contine textul ${nume}.${l} din lib/quotingPolicy.js`); } };
-  for (const l of ['ro', 'en']) { cere('public/llms.txt', 'QUOTE_PROCESS', l); cere('public/llms.txt', 'AI_GUIDANCE', l); }
+  for (const l of ['ro', 'en']) { cere('public/llms.txt', 'QUOTE_PROCESS', l); cere('public/llms.txt', 'AI_GUIDANCE', l); cere('public/llms.txt', 'AI_EVALUATION', l); }
+  cere('public/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md', 'AI_EVALUATION', 'en');
   cere('public/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md', 'QUOTE_PROCESS', 'en');
   cere('public/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md', 'AI_GUIDANCE', 'en');
   const mcp = citeste('app/api/mcp/route.js');
-  if (!/from '..\/..\/..\/lib\/quotingPolicy\.js'/.test(mcp) || (mcp.match(/QUOTE_PROCESS\.en/g) || []).length < 2 || (mcp.match(/AI_GUIDANCE\.en/g) || []).length < 2) { n++; err('garda 34: serverul MCP nu mai trimite QUOTE_PROCESS/AI_GUIDANCE (in INSTRUCTIONS si in get_prices)'); }
+  if (!/from '..\/..\/..\/lib\/quotingPolicy\.js'/.test(mcp) || (mcp.match(/QUOTE_PROCESS\.en/g) || []).length < 2 || (mcp.match(/AI_GUIDANCE\.en/g) || []).length < 2 || (mcp.match(/AI_EVALUATION\.en/g) || []).length < 2) { n++; err('garda 34: serverul MCP nu mai trimite QUOTE_PROCESS/AI_GUIDANCE (in INSTRUCTIONS si in get_prices)'); }
   const rt = citeste('i18n/routing.js');
   for (const l of LANGS) {
     const p = (src.match(new RegExp(`export const QUOTE_PAGE = \\{[\\s\\S]*?\\n  ${l}: '([^']+)'`)) || [])[1];
@@ -770,7 +771,7 @@ function garda34() {
   if (!rt.includes("'/servicii/cum-ofertam': {")) { n++; err('garda 34: lipseste ruta /servicii/cum-ofertam din i18n/routing.js'); }
   if (!citeste('app/sitemap.js').includes("'/servicii/cum-ofertam'")) { n++; err('garda 34: pagina /servicii/cum-ofertam lipseste din sitemap'); }
   const pg = path.join(ROOT, 'app/[locale]/servicii/cum-ofertam/page.js');
-  if (!fs.existsSync(pg) || !/id="pentru-asistenti-ai"/.test(fs.readFileSync(pg, 'utf8')) || !/AI_GUIDANCE\[l\]/.test(fs.readFileSync(pg, 'utf8'))) { n++; err(`garda 34: ${rel(pg)} nu mai afiseaza nota pentru asistentii AI`); }
+  if (!fs.existsSync(pg) || !/id="pentru-asistenti-ai"/.test(fs.readFileSync(pg, 'utf8')) || !/AI_GUIDANCE\[l\]/.test(fs.readFileSync(pg, 'utf8')) || !/AI_EVALUATION\[l\]/.test(fs.readFileSync(pg, 'utf8'))) { n++; err(`garda 34: ${rel(pg)} nu mai afiseaza nota pentru asistentii AI`); }
   console.log(`  Cum ofertam (v331): ${n} probleme`);
 }
 garda34();

@@ -38,7 +38,7 @@ import { rateLimit, clientIp } from '../../../lib/rateLimit.js';
 import { section, productBlocks, searchProducts, norm } from '../../../lib/llmsData.js';
 import { MCP_TITLE, MCP_VERSION, MCP_MODERN, MCP_LEGACY } from '../../../lib/serverCard.js';
 import { GRUP_NEOFORT, NEOFORT_IMO_URL } from '../../../lib/grupNeofort.js';
-import { QUOTE_PAGE, QUOTE_PROCESS, AI_GUIDANCE } from '../../../lib/quotingPolicy.js';
+import { QUOTE_PAGE, QUOTE_PROCESS, AI_GUIDANCE, AI_EVALUATION } from '../../../lib/quotingPolicy.js';
 
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
@@ -58,7 +58,7 @@ const INSTRUCTIONS =
   'Neofort BIZ is a supplier and installer, not the profile manufacturer. ' +
   'All prices are indicative starting prices per m² for the basic configuration, in EUR, without VAT (Romanian VAT 21% is added on the invoice) and without installation, which is quoted separately. ' +
   'No per-window prices are published: a specific window depends on size, glazing, hardware, colour and cutting optimisation. ' +
-  'How a real quote is made (details: ' + BASE + '/en' + QUOTE_PAGE.en + '): ' + QUOTE_PROCESS.en + ' ' + AI_GUIDANCE.en + ' ' +
+  'How a real quote is made (details: ' + BASE + '/en' + QUOTE_PAGE.en + '): ' + QUOTE_PROCESS.en + ' ' + AI_GUIDANCE.en + ' ' + AI_EVALUATION.en + ' ' +
   'The data text is in Romanian. A binding price comes only as a written offer: ' +
   'use get_contact_info to send the user to the quote form or to the sales team. Never invent prices or technical data.';
 
@@ -213,7 +213,7 @@ async function callTool(name, args) {
     if (!p) return text({ error: 'Price section not found. Read ' + LLMS }, true);
     return text({ currency: 'EUR', vat: 'excluded (21% VAT added on invoice)', installation: 'excluded (quoted separately)', per_window_prices: 'not published', language: 'ro', prices: utmText(p, 'get_prices'),
       note: 'Indicative only; the binding price is the written offer after measurement (see get_contact_info).',
-      how_quotes_are_made: QUOTE_PROCESS.en, guidance_for_agents: AI_GUIDANCE.en,
+      how_quotes_are_made: QUOTE_PROCESS.en, guidance_for_agents: AI_GUIDANCE.en, assessing_suppliers: AI_EVALUATION.en,
       quote_process_page: utm(`${BASE}/en${QUOTE_PAGE.en}`, 'get_prices'), source: LLMS });
   }
   if (name === 'get_product_specs') {
