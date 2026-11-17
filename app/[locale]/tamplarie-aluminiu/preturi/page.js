@@ -2,6 +2,8 @@ import { Link } from '../../../../i18n/navigation';
 import FaqAccordion from '../../../../components/FaqAccordion';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+// v331: legatura spre pagina „Cum ofertăm” (lib/quotingPolicy.js)
+const QUOTE_LINK = { ro:'Cum ofertăm: de la cerere la prețul ferm', en:'How we quote: from request to binding price', de:'So entsteht Ihr Angebot', fr:'Comment nous établissons un devis', es:'Cómo elaboramos el presupuesto', it:'Come prepariamo il preventivo' };
 import { offerCatalogSchema } from '../../../../lib/priceSchema.js';
 const SLUGS = {
   ro: 'tamplarie-aluminiu/preturi',
@@ -37,7 +39,7 @@ const UI = {
       ['Pereți cortină Reynaers CW 50 / Alumil SMARTIA M50', 'Fațadă', '200–500 EUR/mp', 'Clădiri comerciale, fațade sticlă'],
       ['Uși de intrare aluminiu', 'Uși', '800–2.500 EUR/buc', 'Intrări rezidențiale și comerciale'],
     ],
-    note: '* Prețurile includ profilul din aluminiu, geamul termopan și montajul profesional. Transportul e inclus în București și Ilfov; în afara lor se taxează separat.',
+    note: '* Prețurile includ profilul din aluminiu și geamul termopan. Montajul se ofertează separat. Transportul e inclus în București și Ilfov; în afara lor se taxează separat.',
     factors_title: 'Ce influențează prețul final',
     factors: [
       ['Sistemul de profil', 'Smartia (comercial) vs Supreme (premium) — diferență de 30–50% în prețul profilului'],
@@ -53,10 +55,10 @@ const UI = {
     cta_call: 'Sună acum',
     faq_title: 'Întrebări frecvente despre prețuri',
     faq: [
-      ['Cât costă o fereastră din aluminiu?', 'O fereastră standard batantă din aluminiu Alumil Smartia (100×120 cm) costă între 350–500 EUR inclusiv geam termopan și montaj. O fereastră premium Supreme S77 de aceleași dimensiuni costă 450–650 EUR. Prețul crește proporțional cu dimensiunile și complexitatea (două canaturi, culori speciale RAL).'],
-      ['Care este prețul minim pentru tâmplărie aluminiu?', 'Prețul minim realist pentru tâmplărie aluminiu cu barieră termică și montaj profesional este de 250 EUR/mp. Ofertele sub acest prag folosesc de regulă profile fără barieră termică sau montaj neconform, care compromit performanța termică și garanția.'],
-      ['Cât costă o ușă glisantă din aluminiu?', 'O ușă culisantă Alumil S350 Smartia (2×2,1 m, un canat) costă 900–1.400 EUR. Un sistem liftant-glisant Alumil S700 Supreme (3×2,4 m, două canaturi) costă 2.500–4.000 EUR, incluzând motor și automatizare.'],
-      ['Prețul include TVA?', 'Prețurile orientative de pe această pagină sunt fără TVA (prețuri nete). TVA-ul de 21% se adaugă la facturare. Neofort BIZ emite factură fiscală pentru toate lucrările.'],
+      ['Cât costă o fereastră din aluminiu?', 'Nu publicăm prețuri pe bucată, pentru că prețul unei ferestre concrete depinde de dimensiuni, de configurația geamului, de feronerie, de culoarea RAL și de optimizarea debitării. Ca reper, prețul de pornire este de 250–350 EUR/mp pentru Alumil SMARTIA S67 și 350–480 EUR/mp pentru SUPREME S77, fără TVA și fără montaj. Prețul exact îl primiți în oferta scrisă, în 48h.'],
+      ['Care este prețul minim pentru tâmplărie aluminiu?', 'Prețul minim realist pentru tâmplărie aluminiu cu barieră termică este de 250 EUR/mp, fără TVA și fără montaj. Ofertele sub acest prag folosesc de regulă profile fără barieră termică, care compromit performanța termică și garanția.'],
+      ['Cât costă o ușă glisantă din aluminiu?', 'Prețul de pornire este de 400–550 EUR/mp pentru ușile glisante Alumil S350 SMARTIA și de 550–750 EUR/mp pentru sistemul liftant-glisant S700 SUPREME, fără TVA și fără montaj. Motorizarea și montajul se ofertează separat.'],
+      ['Prețul include TVA?', 'Nu. Prețurile orientative de pe această pagină sunt fără TVA (prețuri nete) și fără montaj. TVA-ul de 21% se adaugă la facturare, iar montajul se ofertează separat. Neofort BIZ emite factură fiscală pentru toate lucrările.'],
     ],
     see_also: 'Vezi și',
     link_main: 'Tâmplărie Aluminiu Alumil — toate sistemele',
@@ -80,7 +82,7 @@ const UI = {
       ['Curtain wall Reynaers CW 50 / Alumil SMARTIA M50', 'Facade', '200–500 EUR/m²', 'Commercial buildings, glass facades'],
       ['Aluminium entrance doors', 'Doors', '800–2,500 EUR/unit', 'Residential and commercial entrances'],
     ],
-    note: '* Prices include aluminium profile, thermal glass and professional installation. Transport is included in Bucharest and Ilfov; outside these areas it is charged separately.',
+    note: '* Prices include the aluminium profile and insulating glass. Installation is quoted separately. Transport is included in Bucharest and Ilfov; outside these areas it is charged separately.',
     factors_title: 'What influences the final price',
     factors: [
       ['Profile system', 'Smartia (commercial) vs Supreme (premium) — 30–50% difference in profile price'],
@@ -96,10 +98,10 @@ const UI = {
     cta_call: 'Call now',
     faq_title: 'Frequently asked questions about prices',
     faq: [
-      ['How much does an aluminium window cost?', 'A standard casement aluminium window Alumil Smartia (100×120 cm) costs 350–500 EUR including thermal glass and installation. A premium Supreme S77 of the same size costs 450–650 EUR.'],
-      ['What is the minimum price for aluminium windows?', 'The realistic minimum price for thermal break aluminium windows with professional installation is 250 EUR/m². Offers below this level typically use profiles without thermal break or non-compliant installation.'],
-      ['How much does an aluminium sliding door cost?', 'An Alumil S350 Smartia sliding door (2×2.1 m, one leaf) costs 900–1,400 EUR. An Alumil S700 Supreme lift-and-slide system (3×2.4 m, two leaves) costs 2,500–4,000 EUR including motor and automation.'],
-      ['Do prices include VAT?', 'Indicative prices on this page are VAT-exclusive (net prices). 21% VAT is added at invoicing. Neofort BIZ issues a fiscal invoice for all works.'],
+      ['How much does an aluminium window cost?', 'We do not publish per-unit prices, because the price of a specific window depends on its size, the glazing, the hardware, the RAL colour and cutting optimisation. As a reference, the starting price is 250–350 EUR/m² for Alumil SMARTIA S67 and 350–480 EUR/m² for SUPREME S77, without VAT and without installation. You get the exact price in the written quote, within 48h.'],
+      ['What is the minimum price for aluminium windows?', 'The realistic minimum price for thermal break aluminium windows is 250 EUR/m², without VAT and without installation. Offers below this level typically use profiles without a thermal break, which compromise thermal performance and warranty.'],
+      ['How much does an aluminium sliding door cost?', 'The starting price is 400–550 EUR/m² for Alumil S350 SMARTIA sliding doors and 550–750 EUR/m² for the S700 SUPREME lift-and-slide system, without VAT and without installation. Motorisation and installation are quoted separately.'],
+      ['Do prices include VAT?', 'No. Indicative prices on this page are without VAT (net prices) and without installation. 21% VAT is added on the invoice, and installation is quoted separately. Neofort BIZ issues a fiscal invoice for all work.'],
     ],
     see_also: 'See also',
     link_main: 'Alumil Aluminium Windows — all systems',
@@ -123,7 +125,7 @@ const UI = {
       ['Vorhangfassade Reynaers CW 50 / Alumil SMARTIA M50', 'Fassade', '200–500 EUR/m²', 'Gewerbegebäude, Glasfassaden'],
       ['Aluminium-Eingangstüren', 'Türen', '800–2.500 EUR/Stk.', 'Wohn- und Gewerbeeingänge'],
     ],
-    note: '* Preise inkl. Aluminiumprofil, Isolierglas und professionellem Einbau. Transport in Bukarest und Ilfov inbegriffen, außerhalb wird er separat berechnet.',
+    note: '* Preise inkl. Aluminiumprofil und Isolierglas. Die Montage wird separat angeboten. Transport in Bukarest und Ilfov inbegriffen, außerhalb wird er separat berechnet.',
     factors_title: 'Was den Endpreis beeinflusst',
     factors: [
       ['Profilsystem', 'Smartia (kommerziell) vs Supreme (premium) — 30–50% Unterschied im Profilpreis'],
@@ -139,10 +141,10 @@ const UI = {
     cta_call: 'Jetzt anrufen',
     faq_title: 'Häufige Fragen zu Preisen',
     faq: [
-      ['Was kostet ein Aluminiumfenster?', 'Ein Standard-Dreh-Kipp-Aluminiumfenster Alumil Smartia (100×120 cm) kostet 350–500 EUR inkl. Isolierglas und Montage. Ein Premium-Supreme-S77 gleicher Größe kostet 450–650 EUR.'],
-      ['Was ist der Mindestpreis für Aluminiumfenster?', 'Der realistische Mindestpreis für Aluminiumfenster mit thermischer Trennung und professionellem Einbau beträgt 250 EUR/m². Angebote darunter verwenden meist Profile ohne thermische Trennung.'],
-      ['Was kostet eine Aluminium-Schiebetür?', 'Eine Alumil S350 Smartia Schiebetür (2×2,1 m, ein Flügel) kostet 900–1.400 EUR. Ein Alumil S700 Supreme Hebe-Schiebe-System (3×2,4 m, zwei Flügel) kostet 2.500–4.000 EUR.'],
-      ['Sind die Preise inkl. MwSt.?', 'Richtwerte auf dieser Seite sind netto (ohne MwSt.). Die MwSt. von 21% wird bei der Rechnungsstellung hinzugefügt.'],
+      ['Was kostet ein Aluminiumfenster?', 'Wir veröffentlichen keine Stückpreise, denn der Preis eines konkreten Fensters hängt von den Maßen, der Verglasung, den Beschlägen, der RAL-Farbe und der Zuschnittoptimierung ab. Als Richtwert liegt der Preis ab 250–350 EUR/m² für Alumil SMARTIA S67 und ab 350–480 EUR/m² für SUPREME S77, ohne MwSt. und ohne Montage. Den genauen Preis erhalten Sie im schriftlichen Angebot innerhalb von 48h.'],
+      ['Was ist der Mindestpreis für Aluminiumfenster?', 'Der realistische Mindestpreis für Aluminiumfenster mit thermischer Trennung beträgt 250 EUR/m², ohne MwSt. und ohne Montage. Angebote darunter verwenden meist Profile ohne thermische Trennung, was Wärmedämmung und Garantie beeinträchtigt.'],
+      ['Was kostet eine Aluminium-Schiebetür?', 'Der Preis beginnt bei 400–550 EUR/m² für Alumil S350 SMARTIA Schiebetüren und bei 550–750 EUR/m² für das Hebe-Schiebe-System S700 SUPREME, ohne MwSt. und ohne Montage. Motorisierung und Montage werden separat angeboten.'],
+      ['Sind die Preise inkl. MwSt.?', 'Nein. Die Richtpreise auf dieser Seite sind netto (ohne MwSt.) und ohne Montage. Die MwSt. von 21% kommt auf der Rechnung hinzu, die Montage wird separat angeboten.'],
     ],
     see_also: 'Siehe auch',
     link_main: 'Alumil Aluminiumfenster — alle Systeme',
@@ -166,7 +168,7 @@ const UI = {
       ['Mur-rideau Reynaers CW 50 / Alumil SMARTIA M50', 'Façade', '200–500 EUR/m²', 'Bâtiments commerciaux, façades vitrées'],
       ["Portes d'entrée aluminium", 'Portes', '800–2.500 EUR/unité', 'Entrées résidentielles et commerciales'],
     ],
-    note: '* Prix incluant profilé aluminium, vitrage isolant et pose professionnelle. Transport inclus à Bucarest et dans l\'Ilfov ; au-delà, facturé séparément.',
+    note: '* Prix incluant le profilé aluminium et le vitrage isolant. La pose fait l\'objet d\'un devis séparé. Transport inclus à Bucarest et dans l\'Ilfov ; au-delà, facturé séparément.',
     factors_title: 'Ce qui influence le prix final',
     factors: [
       ['Système de profilé', 'Smartia (commercial) vs Supreme (premium) — 30–50% de différence sur le profilé'],
@@ -182,10 +184,10 @@ const UI = {
     cta_call: 'Appeler maintenant',
     faq_title: 'Questions fréquentes sur les prix',
     faq: [
-      ["Combien coûte une fenêtre en aluminium ?", "Une fenêtre battante standard Alumil Smartia (100×120 cm) coûte 350–500 EUR vitrage et pose inclus. Une Supreme S77 de même taille coûte 450–650 EUR."],
-      ["Quel est le prix minimum pour la menuiserie aluminium ?", "Le prix minimum réaliste pour des fenêtres aluminium à rupture de pont thermique avec pose professionnelle est de 250 EUR/m². Les offres en dessous utilisent généralement des profilés sans rupture de pont thermique."],
-      ["Combien coûte une porte coulissante aluminium ?", "Une porte coulissante Alumil S350 Smartia (2×2,1 m, un vantail) coûte 900–1.400 EUR. Un système coulissant levant S700 Supreme (3×2,4 m, deux vantaux) coûte 2.500–4.000 EUR."],
-      ["Les prix incluent-ils la TVA ?", "Les prix indicatifs sont hors TVA. La TVA de 21% s'ajoute à la facturation."],
+      ["Combien coûte une fenêtre en aluminium ?", 'Nous ne publions pas de prix à l\'unité, car le prix d\'une fenêtre donnée dépend de ses dimensions, du vitrage, de la quincaillerie, de la couleur RAL et de l\'optimisation de la découpe. À titre de repère, le prix de départ est de 250–350 EUR/m² pour Alumil SMARTIA S67 et de 350–480 EUR/m² pour SUPREME S77, hors TVA et hors pose. Le prix exact figure dans le devis écrit, sous 48h.'],
+      ["Quel est le prix minimum pour la menuiserie aluminium ?", 'Le prix minimum réaliste pour des fenêtres aluminium à rupture de pont thermique est de 250 EUR/m², hors TVA et hors pose. Les offres en dessous utilisent en général des profilés sans rupture de pont thermique, ce qui compromet la performance thermique et la garantie.'],
+      ["Combien coûte une porte coulissante aluminium ?", 'Le prix de départ est de 400–550 EUR/m² pour les portes coulissantes Alumil S350 SMARTIA et de 550–750 EUR/m² pour le système coulissant levant S700 SUPREME, hors TVA et hors pose. La motorisation et la pose font l\'objet d\'un devis séparé.'],
+      ["Les prix incluent-ils la TVA ?", 'Non. Les prix indicatifs sont hors TVA et hors pose. La TVA de 21% s\'ajoute à la facturation et la pose fait l\'objet d\'un devis séparé.'],
     ],
     see_also: 'Voir aussi',
     link_main: 'Menuiserie Aluminium Alumil — tous les systèmes',
@@ -209,7 +211,7 @@ const UI = {
       ['Muro cortina Reynaers CW 50 / Alumil SMARTIA M50', 'Fachada', '200–500 EUR/m²', 'Edificios comerciales, fachadas vidriadas'],
       ['Puertas de entrada aluminio', 'Puertas', '800–2.500 EUR/ud.', 'Entradas residenciales y comerciales'],
     ],
-    note: '* Precios incluyen perfil de aluminio, vidrio aislante e instalación profesional. Transporte incluido en Bucarest e Ilfov; fuera de estas zonas se cobra aparte.',
+    note: '* Los precios incluyen el perfil de aluminio y el vidrio aislante. La instalación se presupuesta aparte. Transporte incluido en Bucarest e Ilfov; fuera de estas zonas se cobra aparte.',
     factors_title: 'Qué influye en el precio final',
     factors: [
       ['Sistema de perfil', 'Smartia (comercial) vs Supreme (premium) — diferencia del 30–50% en el perfil'],
@@ -225,10 +227,10 @@ const UI = {
     cta_call: 'Llamar ahora',
     faq_title: 'Preguntas frecuentes sobre precios',
     faq: [
-      ['¿Cuánto cuesta una ventana de aluminio?', 'Una ventana oscilobatiente estándar Alumil Smartia (100×120 cm) cuesta 350–500 EUR incluyendo vidrio aislante e instalación. Una Supreme S77 del mismo tamaño cuesta 450–650 EUR.'],
-      ['¿Cuál es el precio mínimo para carpintería de aluminio?', 'El precio mínimo realista para carpintería de aluminio con rotura de puente térmico e instalación profesional es de 250 EUR/m². Ofertas por debajo suelen usar perfiles sin rotura de puente térmico.'],
-      ['¿Cuánto cuesta una puerta corredera de aluminio?', 'Una puerta corredera Alumil S350 Smartia (2×2,1 m, una hoja) cuesta 900–1.400 EUR. Un sistema elevador Alumil S700 Supreme (3×2,4 m, dos hojas) cuesta 2.500–4.000 EUR.'],
-      ['¿Los precios incluyen IVA?', 'Los precios orientativos son sin IVA. El IVA del 21% se añade en la facturación.'],
+      ['¿Cuánto cuesta una ventana de aluminio?', 'No publicamos precios por unidad, porque el precio de una ventana concreta depende de sus medidas, del vidrio, de los herrajes, del color RAL y de la optimización del corte. Como referencia, el precio de partida es de 250–350 EUR/m² para Alumil SMARTIA S67 y de 350–480 EUR/m² para SUPREME S77, sin IVA y sin instalación. El precio exacto lo recibe en la oferta escrita, en 48h.'],
+      ['¿Cuál es el precio mínimo para carpintería de aluminio?', 'El precio mínimo realista para carpintería de aluminio con rotura de puente térmico es de 250 EUR/m², sin IVA y sin instalación. Las ofertas por debajo suelen usar perfiles sin rotura de puente térmico, lo que compromete el rendimiento térmico y la garantía.'],
+      ['¿Cuánto cuesta una puerta corredera de aluminio?', 'El precio de partida es de 400–550 EUR/m² para las puertas correderas Alumil S350 SMARTIA y de 550–750 EUR/m² para el sistema elevable-corredero S700 SUPREME, sin IVA y sin instalación. La motorización y la instalación se presupuestan aparte.'],
+      ['¿Los precios incluyen IVA?', 'No. Los precios orientativos son sin IVA y sin instalación. El IVA del 21% se añade en la factura y la instalación se presupuesta aparte.'],
     ],
     see_also: 'Ver también',
     link_main: 'Carpintería Aluminio Alumil — todos los sistemas',
@@ -252,7 +254,7 @@ const UI = {
       ['Facciata continua Reynaers CW 50 / Alumil SMARTIA M50', 'Facciata', '200–500 EUR/m²', 'Edifici commerciali, facciate vetrate'],
       ["Porte d'ingresso alluminio", 'Porte', '800–2.500 EUR/cad.', 'Ingressi residenziali e commerciali'],
     ],
-    note: '* Prezzi includono profilato in alluminio, vetro isolante e posa professionale. Trasporto incluso a Bucarest e Ilfov; fuori da queste zone si paga a parte.',
+    note: '* I prezzi includono il profilo in alluminio e il vetro isolante. La posa si quota a parte. Trasporto incluso a Bucarest e Ilfov; fuori da queste zone si paga a parte.',
     factors_title: 'Cosa influenza il prezzo finale',
     factors: [
       ['Sistema di profilato', 'Smartia (commerciale) vs Supreme (premium) — differenza del 30–50% sul profilato'],
@@ -268,10 +270,10 @@ const UI = {
     cta_call: 'Chiama ora',
     faq_title: 'Domande frequenti sui prezzi',
     faq: [
-      ['Quanto costa una finestra in alluminio?', 'Una finestra battente standard Alumil Smartia (100×120 cm) costa 350–500 EUR inclusi vetro isolante e posa. Una Supreme S77 delle stesse dimensioni costa 450–650 EUR.'],
-      ['Qual è il prezzo minimo per infissi in alluminio?', 'Il prezzo minimo realistico per infissi in alluminio con taglio termico e posa professionale è di 250 EUR/m². Le offerte al di sotto utilizzano solitamente profilati senza taglio termico.'],
-      ['Quanto costa una porta scorrevole in alluminio?', 'Una porta scorrevole Alumil S350 Smartia (2×2,1 m, un\'anta) costa 900–1.400 EUR. Un sistema alzante scorrevole S700 Supreme (3×2,4 m, due ante) costa 2.500–4.000 EUR.'],
-      ['I prezzi includono IVA?', 'I prezzi indicativi sono al netto IVA. L\'IVA del 21% viene aggiunta in fattura.'],
+      ['Quanto costa una finestra in alluminio?', 'Non pubblichiamo prezzi a pezzo, perché il prezzo di una finestra concreta dipende dalle dimensioni, dal vetro, dalla ferramenta, dal colore RAL e dall\'ottimizzazione del taglio. Come riferimento, il prezzo di partenza è di 250–350 EUR/m² per Alumil SMARTIA S67 e di 350–480 EUR/m² per SUPREME S77, IVA e posa escluse. Il prezzo esatto lo ricevete nell\'offerta scritta, entro 48h.'],
+      ['Qual è il prezzo minimo per infissi in alluminio?', 'Il prezzo minimo realistico per infissi in alluminio con taglio termico è di 250 EUR/m², IVA e posa escluse. Le offerte al di sotto utilizzano di solito profili senza taglio termico, a scapito di prestazioni termiche e garanzia.'],
+      ['Quanto costa una porta scorrevole in alluminio?', 'Il prezzo di partenza è di 400–550 EUR/m² per le porte scorrevoli Alumil S350 SMARTIA e di 550–750 EUR/m² per il sistema alzante scorrevole S700 SUPREME, IVA e posa escluse. Motorizzazione e posa si quotano a parte.'],
+      ['I prezzi includono IVA?', 'No. I prezzi indicativi sono al netto di IVA e posa. L\'IVA del 21% viene aggiunta in fattura e la posa si quota a parte.'],
     ],
     see_also: 'Vedi anche',
     link_main: 'Infissi Alluminio Alumil — tutti i sistemi',
@@ -291,12 +293,12 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Prix Menuiserie Aluminium 2026 : 250–500 €/m² | Neofort BIZ'
          : locale === 'es' ? 'Precios Aluminio 2026: 250–500 €/m² | Neofort BIZ'
          : 'Prezzi Infissi Alluminio 2026: 250–500 €/m² | Neofort BIZ',
-    description: locale === 'ro' ? 'Prețuri tâmplărie aluminiu 2026, cu montaj: Alumil Smartia S67 250–350 EUR/mp, Supreme S77 350–480 EUR/mp, glisante, armonice și pereți cortină.'
-               : locale === 'en' ? '2026 aluminium window prices, installed: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², sliding, folding and curtain walls.'
-               : locale === 'de' ? 'Preise 2026 für Aluminiumfenster mit Montage: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², Schiebe-, Falttüren und Vorhangfassaden.'
-               : locale === 'fr' ? 'Prix 2026 menuiserie aluminium, pose comprise : Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², coulissants, pliants et murs-rideaux.'
-               : locale === 'es' ? 'Precios 2026 de carpintería de aluminio con instalación: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², correderas, plegables y muros cortina.'
-               : 'Prezzi 2026 infissi in alluminio, posa compresa: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², scorrevoli, a libro e facciate continue.',
+    description: locale === 'ro' ? 'Prețuri de pornire tâmplărie aluminiu 2026, fără montaj: Alumil Smartia S67 250–350 EUR/mp, Supreme S77 350–480 EUR/mp, glisante, armonice și pereți cortină.'
+               : locale === 'en' ? '2026 aluminium window starting prices, without installation: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², sliding, folding and curtain walls.'
+               : locale === 'de' ? 'Richtpreise 2026 für Aluminiumfenster, ohne Montage: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², Schiebe-, Falttüren und Vorhangfassaden.'
+               : locale === 'fr' ? 'Prix de départ 2026 menuiserie aluminium, hors pose : Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², coulissants, pliants et murs-rideaux.'
+               : locale === 'es' ? 'Precios desde 2026, aluminio sin instalación: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², correderas, plegables y muros cortina.'
+               : 'Prezzi di partenza 2026 infissi in alluminio, posa esclusa: Alumil Smartia S67 250–350 EUR/m², Supreme S77 350–480 EUR/m², scorrevoli, a libro e facciate continue.',
     keywords: locale === 'ro' ? 'preturi tamplarie aluminiu, tamplarie aluminiu pret 2026, cat costa tamplarie aluminiu, tamplarie aluminiu mp pret, alumil pret, alumil supreme pret, alumil smartia pret, fereastra aluminiu pret, usa glisanta aluminiu pret'
             : 'aluminium window prices 2026, aluminium windows cost, Alumil price, aluminium window price per m2',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
@@ -427,6 +429,8 @@ export default async function PreturiPage({ params }) {
               <Link href={`/${parentSlug}`} style={{ fontSize: '.88rem', color: '#162d47', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_main}</Link>
               <span style={{ color: '#1e1e1e' }}>·</span>
               <Link href="/tamplarie-aluminiu/bucuresti" style={{ fontSize: '.88rem', color: '#162d47', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_buc}</Link>
+              <span style={{ color: '#1e1e1e' }}>·</span>
+              <Link href="/servicii/cum-ofertam" style={{ fontSize: '.88rem', color: '#2b4834', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{QUOTE_LINK[locale] || QUOTE_LINK.ro}</Link>
             </div>
           </div>
         </div>

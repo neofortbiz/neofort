@@ -1598,7 +1598,7 @@ export const PRODUCT_FAQ = {
   'rulouri-exterioare-aluminiu': {
     ro: [
       ['Cât costă rulourile exterioare din aluminiu?',
-       'Prețul pornește de la 85–120 EUR/mp pentru varianta manuală și 150–220 EUR/mp pentru varianta cu motor Somfy, inclusiv montaj. Prețurile sunt fără TVA și depind de dimensiuni, culoare RAL și tipul de acționare.'],
+       'Prețul pornește de la 85–120 EUR/mp pentru varianta manuală și 150–220 EUR/mp pentru varianta cu motor Somfy, fără montaj (se ofertează separat). Prețurile sunt fără TVA și depind de dimensiuni, culoare RAL și tipul de acționare.'],
       ['Care e diferența dintre rulouri aluminiu și rulouri PVC?',
        'Rulourile din aluminiu au lamele extrudate mai rigide, rezistență mai bună la vânt (până la clasa 6 după EN 13659, la lățimi mici) și durabilitate 25–30 ani. Rulourile PVC se deformează la căldură și au durată de viață mai scurtă.'],
       ['Se poate monta ruloul exterior pe o fereastră deja instalată?',
@@ -1610,7 +1610,7 @@ export const PRODUCT_FAQ = {
     ],
     en: [
       ['How much do aluminium roller shutters cost?',
-       'Prices start from 85–120 EUR/m² for manual and 150–220 EUR/m² for Somfy motor, including installation. Prices exclude VAT.'],
+       'Prices start from 85–120 EUR/m² for manual and 150–220 EUR/m² for Somfy motor, without installation (quoted separately). Prices exclude VAT.'],
       ['What is the difference between aluminium and PVC shutters?',
        'Aluminium shutters have more rigid slats, better wind resistance (up to class 6 to EN 13659 on narrower widths) and a 25–30 year lifespan. PVC shutters deform in heat.'],
       ['Can roller shutters be fitted to an already installed window?',
@@ -1622,7 +1622,7 @@ export const PRODUCT_FAQ = {
     ],
     de: [
       ['Was kosten Aluminiumrollläden?',
-       'Preise ab 85–120 EUR/m² für manuell und 150–220 EUR/m² für Somfy-Motor, einschließlich Montage. Preise zzgl. MwSt.'],
+       'Preise ab 85–120 EUR/m² für manuell und 150–220 EUR/m² für Somfy-Motor, ohne Montage (separat angeboten). Preise zzgl. MwSt.'],
       ['Was ist der Unterschied zwischen Aluminium- und PVC-Rollläden?',
        'Aluminiumrollläden haben steifere Lamellen, besseren Windwiderstand (bis Klasse 6 nach EN 13659 bei geringeren Breiten) und 25–30 Jahre Lebensdauer.'],
       ['Können Rollläden an bereits eingebauten Fenstern montiert werden?',
@@ -1634,7 +1634,7 @@ export const PRODUCT_FAQ = {
     ],
     fr: [
       ['Combien coûtent les volets roulants en aluminium ?',
-       'Prix à partir de 85–120 EUR/m² pour le manuel et 150–220 EUR/m² pour le moteur Somfy, installation comprise. Prix hors TVA.'],
+       'Prix à partir de 85–120 EUR/m² pour le manuel et 150–220 EUR/m² pour le moteur Somfy, hors pose (devis séparé). Prix hors TVA.'],
       ['Quelle est la différence entre les volets aluminium et PVC ?',
        'Les volets aluminium ont des lames plus rigides, une meilleure résistance au vent (jusqu\u2019à la classe 6 selon EN 13659 sur les petites largeurs) et une durée de vie de 25–30 ans.'],
       ['Peut-on installer des volets sur une fenêtre déjà posée ?',
@@ -1646,7 +1646,7 @@ export const PRODUCT_FAQ = {
     ],
     es: [
       ['¿Cuánto cuestan las persianas enrollables de aluminio?',
-       'Precios desde 85–120 EUR/m² para manual y 150–220 EUR/m² para motor Somfy, instalación incluida. Precios sin IVA.'],
+       'Precios desde 85–120 EUR/m² para manual y 150–220 EUR/m² para motor Somfy, sin instalación (se presupuesta aparte). Precios sin IVA.'],
       ['¿Cuál es la diferencia entre persianas de aluminio y PVC?',
        'Las persianas de aluminio tienen láminas más rígidas, mejor resistencia al viento (hasta clase 6 según EN 13659 en anchos pequeños) y una vida útil de 25–30 años.'],
       ['¿Se pueden instalar persianas en una ventana ya instalada?',
@@ -1658,7 +1658,7 @@ export const PRODUCT_FAQ = {
     ],
     it: [
       ['Quanto costano le tapparelle in alluminio?',
-       'Prezzi da 85–120 EUR/m² per il manuale e 150–220 EUR/m² per il motore Somfy, installazione inclusa. Prezzi IVA esclusa.'],
+       'Prezzi da 85–120 EUR/m² per il manuale e 150–220 EUR/m² per il motore Somfy, posa esclusa (si quota a parte). Prezzi IVA esclusa.'],
       ['Qual è la differenza tra tapparelle in alluminio e PVC?',
        'Le tapparelle in alluminio hanno lamelle più rigide, migliore resistenza al vento (fino alla classe 6 secondo EN 13659 sulle larghezze minori) e una durata di 25–30 anni.'],
       ['Si possono installare tapparelle su una finestra già montata?',
@@ -1673,7 +1673,7 @@ export const PRODUCT_FAQ = {
   'jaluzele-venetiene-raffstore': {
     ro: [
       ['Cât costă jaluzelele Raffstore?',
-       'Prețul pornește de la 150–200 EUR/mp pentru varianta electrică standard și ajunge la 250–400 EUR/mp pentru sisteme cu automatizare KNX sau smart home, inclusiv montaj. Prețurile sunt fără TVA.'],
+       'Prețul pornește de la 150–200 EUR/mp pentru varianta electrică standard și ajunge la 250–400 EUR/mp pentru sisteme cu automatizare KNX sau smart home, fără montaj (se ofertează separat). Prețurile sunt fără TVA.'],
       ['Care e diferența dintre Raffstore și rulourile exterioare?',
        'Raffstore are lamele orientabile 0°–90° — dozezi exact lumina fără să pierzi vederea. Rulourile blochează total lumina când sunt coborâte. Raffstore reduce aportul solar cu până la 85%.'],
       ['Jaluzelele Raffstore rezistă la vânt?',
@@ -1685,7 +1685,7 @@ export const PRODUCT_FAQ = {
     ],
     en: [
       ['How much do Raffstore blinds cost?',
-       'Prices start from 150–200 EUR/m² for standard electric and up to 250–400 EUR/m² for KNX or smart home automation. Price includes delivery and installation. Prices exclude VAT.'],
+       'Prices start from 150–200 EUR/m² for standard electric and up to 250–400 EUR/m² for KNX or smart home automation, without installation (quoted separately). Prices exclude VAT.'],
       ['What is the difference between Raffstore and roller shutters?',
        'Raffstore has 0°–90° tiltable slats for precise light control without losing the exterior view. Shutters block all light when lowered. Raffstore reduces solar gain up to 85%.'],
       ['Are Raffstore blinds wind resistant?',
@@ -1697,7 +1697,7 @@ export const PRODUCT_FAQ = {
     ],
     de: [
       ['Was kosten Raffstore-Jalousien?',
-       'Preise ab 150–200 EUR/m² für Standard-Elektro bis 250–400 EUR/m² für KNX- oder Smart-Home-Automatisierung, Lieferung und Montage inklusive. Preise zzgl. MwSt.'],
+       'Preise ab 150–200 EUR/m² für Standard-Elektro bis 250–400 EUR/m² für KNX- oder Smart-Home-Automatisierung, ohne Montage (separat angeboten). Preise zzgl. MwSt.'],
       ['Was ist der Unterschied zwischen Raffstore und Rollläden?',
        'Raffstore hat 0°–90° schwenkbare Lamellen für präzise Lichtkontrolle ohne Sichtverlust. Rollläden blockieren das Licht vollständig. Raffstore reduziert den Solargewinn um bis zu 85%.'],
       ['Sind Raffstore-Jalousien windbeständig?',
@@ -1709,7 +1709,7 @@ export const PRODUCT_FAQ = {
     ],
     fr: [
       ['Combien coûtent les stores Raffstore ?',
-       'Prix à partir de 150–200 EUR/m² pour l\u2019électrique standard jusqu\u2019à 250–400 EUR/m² pour l\u2019automatisation KNX ou domotique, livraison et pose inclus. Prix hors TVA.'],
+       'Prix à partir de 150–200 EUR/m² pour l\u2019électrique standard jusqu\u2019à 250–400 EUR/m² pour l\u2019automatisation KNX ou domotique, hors pose (devis séparé). Prix hors TVA.'],
       ['Quelle est la différence entre Raffstore et volets roulants ?',
        'Raffstore a des lames orientables 0°–90° pour un contrôle précis de la lumière sans perdre la vue. Les volets bloquent toute lumière. Raffstore réduit les apports solaires jusqu\u2019à 85%.'],
       ['Les stores Raffstore résistent-ils au vent ?',
@@ -1721,7 +1721,7 @@ export const PRODUCT_FAQ = {
     ],
     es: [
       ['¿Cuánto cuestan las persianas Raffstore?',
-       'Precios desde 150–200 EUR/m² para eléctrico estándar hasta 250–400 EUR/m² para KNX o domótica, entrega e instalación incluidas. Precios sin IVA.'],
+       'Precios desde 150–200 EUR/m² para eléctrico estándar hasta 250–400 EUR/m² para KNX o domótica, sin instalación (se presupuesta aparte). Precios sin IVA.'],
       ['¿Cuál es la diferencia entre Raffstore y persianas enrollables?',
        'Raffstore tiene lamas orientables 0°–90° para control preciso de luz sin perder la vista. Las persianas bloquean toda la luz. Raffstore reduce la ganancia solar hasta un 85%.'],
       ['¿Las persianas Raffstore resisten el viento?',
@@ -1733,7 +1733,7 @@ export const PRODUCT_FAQ = {
     ],
     it: [
       ['Quanto costano le veneziane Raffstore?',
-       'Prezzi da 150–200 EUR/m² per l\u2019elettrico standard fino a 250–400 EUR/m² per l\u2019automazione KNX o smart home, consegna e installazione incluse. Prezzi IVA esclusa.'],
+       'Prezzi da 150–200 EUR/m² per l\u2019elettrico standard fino a 250–400 EUR/m² per l\u2019automazione KNX o smart home, posa esclusa (si quota a parte). Prezzi IVA esclusa.'],
       ['Qual è la differenza tra Raffstore e tapparelle?',
        'Raffstore ha lamelle orientabili 0°–90° per il controllo preciso della luce senza perdere la vista. Le tapparelle bloccano tutta la luce. Raffstore riduce il guadagno solare fino all\u201985%.'],
       ['Le veneziane Raffstore resistono al vento?',
@@ -1748,7 +1748,7 @@ export const PRODUCT_FAQ = {
   'zipscreen': {
     ro: [
       ['Cât costă un Zipscreen?',
-       'Prețul pornește de la 225–300 EUR/mp pentru varianta manuală și 350–450 EUR/mp pentru varianta cu motor Somfy, inclusiv montaj. Prețurile sunt fără TVA.'],
+       'Prețul pornește de la 225–300 EUR/mp pentru varianta manuală și 350–450 EUR/mp pentru varianta cu motor Somfy, fără montaj (se ofertează separat). Prețurile sunt fără TVA.'],
       ['Care e diferența dintre Zipscreen blackout și screen?',
        'Blackout blochează 100% lumina directă și reduce temperatura cu 15–20°C — ideal pentru intimitate totală. Screen filtrează 95–98% UV dar păstrează vederea spre exterior — ideal pentru terase unde vrei umbra fără izolare.'],
       ['Zipscreen rezistă la vânt mai bine decât un rulou clasic?',
@@ -1760,7 +1760,7 @@ export const PRODUCT_FAQ = {
     ],
     en: [
       ['How much does a Zipscreen cost?',
-       'Prices start from 225–300 EUR/m² for manual and 350–450 EUR/m² for Somfy motor, including installation. Prices exclude VAT.'],
+       'Prices start from 225–300 EUR/m² for manual and 350–450 EUR/m² for Somfy motor, without installation (quoted separately). Prices exclude VAT.'],
       ['What is the difference between Zipscreen blackout and screen?',
        'Blackout blocks 100% direct light and reduces temperature by 15–20°C. Screen filters 95–98% UV while maintaining exterior view — ideal for terraces wanting shade without isolation.'],
       ['Does Zipscreen resist wind better than a classic roller?',
@@ -1772,7 +1772,7 @@ export const PRODUCT_FAQ = {
     ],
     de: [
       ['Was kostet ein Zipscreen?',
-       'Preise ab 225–300 EUR/m² für manuell und 350–450 EUR/m² für Somfy-Motor, inkl. Montage. Preise zzgl. MwSt.'],
+       'Preise ab 225–300 EUR/m² für manuell und 350–450 EUR/m² für Somfy-Motor, ohne Montage (separat angeboten). Preise zzgl. MwSt.'],
       ['Was ist der Unterschied zwischen Zipscreen Blackout und Screen?',
        'Blackout blockiert 100% des Direktlichts und reduziert die Temperatur um 15–20°C. Screen filtert 95–98% UV bei erhaltener Außensicht.'],
       ['Ist Zipscreen windbeständiger als ein klassisches Rollo?',
@@ -1784,7 +1784,7 @@ export const PRODUCT_FAQ = {
     ],
     fr: [
       ['Combien coûte un Zipscreen ?',
-       'Prix à partir de 225–300 EUR/m² pour le manuel et 350–450 EUR/m² pour le moteur Somfy, installation comprise. Prix hors TVA.'],
+       'Prix à partir de 225–300 EUR/m² pour le manuel et 350–450 EUR/m² pour le moteur Somfy, hors pose (devis séparé). Prix hors TVA.'],
       ['Quelle est la différence entre Zipscreen blackout et screen ?',
        'Le blackout bloque 100% de la lumière directe et réduit la température de 15–20°C. Le screen filtre 95–98% des UV tout en maintenant la vue extérieure.'],
       ['Zipscreen résiste-t-il mieux au vent qu\u2019un store classique ?',
@@ -1796,7 +1796,7 @@ export const PRODUCT_FAQ = {
     ],
     es: [
       ['¿Cuánto cuesta un Zipscreen?',
-       'Precios desde 225–300 EUR/m² para manual y 350–450 EUR/m² para motor Somfy, instalación incluida. Precios sin IVA.'],
+       'Precios desde 225–300 EUR/m² para manual y 350–450 EUR/m² para motor Somfy, sin instalación (se presupuesta aparte). Precios sin IVA.'],
       ['¿Cuál es la diferencia entre Zipscreen blackout y screen?',
        'El blackout bloquea el 100% de la luz directa y reduce la temperatura 15–20°C. El screen filtra el 95–98% de UV manteniendo la vista exterior.'],
       ['¿Zipscreen resiste mejor el viento que una persiana clásica?',
@@ -1808,7 +1808,7 @@ export const PRODUCT_FAQ = {
     ],
     it: [
       ['Quanto costa un Zipscreen?',
-       'Prezzi da 225–300 EUR/m² per il manuale e 350–450 EUR/m² per il motore Somfy, installazione inclusa. Prezzi IVA esclusa.'],
+       'Prezzi da 225–300 EUR/m² per il manuale e 350–450 EUR/m² per il motore Somfy, posa esclusa (si quota a parte). Prezzi IVA esclusa.'],
       ['Qual è la differenza tra Zipscreen blackout e screen?',
        'Il blackout blocca il 100% della luce diretta e riduce la temperatura di 15–20°C. Lo screen filtra il 95–98% dei raggi UV mantenendo la vista esterna.'],
       ['Zipscreen resiste meglio al vento rispetto a una tapparella classica?',

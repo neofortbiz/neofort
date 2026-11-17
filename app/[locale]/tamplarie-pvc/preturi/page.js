@@ -2,6 +2,8 @@ import { Link } from '../../../../i18n/navigation';
 import FaqAccordion from '../../../../components/FaqAccordion';
 
 import { BASE, LOCALES } from '../../../../lib/constants.js';
+// v331: legatura spre pagina „Cum ofertăm” (lib/quotingPolicy.js)
+const QUOTE_LINK = { ro:'Cum ofertăm: de la cerere la prețul ferm', en:'How we quote: from request to binding price', de:'So entsteht Ihr Angebot', fr:'Comment nous établissons un devis', es:'Cómo elaboramos el presupuesto', it:'Come prepariamo il preventivo' };
 import { offerCatalogSchema } from '../../../../lib/priceSchema.js';
 const SLUGS = {
   ro: 'tamplarie-pvc/preturi',
@@ -51,10 +53,10 @@ const UI = {
     cta_call: 'Sună acum',
     faq_title: 'Întrebări frecvente despre prețuri',
     faq: [
-      ['Cât costă o fereastră din PVC Salamander?', 'O fereastră standard oscilo-batantă din PVC Salamander GreenEvolution 76 (100×120 cm) costă între 250–380 EUR inclusiv geam termopan 2 foi și montaj. O fereastră premium BluEvolution 92 de aceleași dimensiuni costă 320–480 EUR. Prețul crește proporțional cu dimensiunile, numărul de canaturi și complexitatea configurației.'],
-      ['Care este prețul minim pentru tâmplărie PVC Salamander?', 'Prețul minim realist pentru tâmplărie PVC Salamander cu geam termopan și montaj profesional este de 140 EUR/mp. Ofertele sub acest prag folosesc de regulă profile no-name fără valori Uw declarate sau montaj neconform, care compromit performanța termică și garanția.'],
-      ['Care este diferența de preț între GreenEvolution 76 și BluEvolution 92?', 'BluEvolution 92 costă cu 25–40% mai mult decât GreenEvolution 76 pentru aceeași configurație. Diferența se justifică prin cele 6 camere față de 5, adâncimea de 92–104 mm față de 76 mm și transferul termic Uw = 0,70 vs 0,73 W/(m²K). Pentru proiecte nZEB, BluEvolution 92 este obligatoriu.'],
-      ['Prețul include TVA?', 'Prețurile orientative de pe această pagină sunt fără TVA (prețuri nete). TVA-ul de 21% se adaugă la facturare. Neofort BIZ emite factură fiscală pentru toate lucrările.'],
+      ['Cât costă o fereastră din PVC Salamander?', 'Nu publicăm prețuri pe bucată, pentru că prețul unei ferestre concrete depinde de dimensiuni, de configurația geamului (dublu sau triplu, Low-E), de feronerie, de culoarea profilului și de optimizarea debitării. Ca reper, prețul de pornire este de 140–225 EUR/mp pentru GreenEvolution 76 și 200–285 EUR/mp pentru BluEvolution 92, fără TVA și fără montaj. Prețul exact îl primiți în oferta scrisă, în 48h.'],
+      ['Care este prețul minim pentru tâmplărie PVC Salamander?', 'Prețul minim realist pentru tâmplărie PVC Salamander cu geam termopan este de 140 EUR/mp, fără TVA și fără montaj. Ofertele sub acest prag folosesc de regulă profile no-name fără valori Uw declarate, care compromit performanța termică și garanția.'],
+      ['Care este diferența de preț între GreenEvolution 76 și BluEvolution 92?', 'BluEvolution 92 costă cu 25–40% mai mult decât GreenEvolution 76 pentru aceeași configurație. Diferența se justifică prin cele 6 camere față de 5, adâncimea de 92–104 mm față de 76 mm și Uw de la 0,70 față de 0,73 W/(m²K). Pentru proiecte nZEB, BluEvolution 92 este alegerea recomandată.'],
+      ['Prețul include TVA?', 'Nu. Prețurile orientative de pe această pagină sunt fără TVA (prețuri nete) și fără montaj. TVA-ul de 21% se adaugă la facturare, iar montajul se ofertează separat. Neofort BIZ emite factură fiscală pentru toate lucrările.'],
     ],
     see_also: 'Vezi și',
     link_main: 'Tâmplărie PVC Salamander — toate profilele',
@@ -92,10 +94,10 @@ const UI = {
     cta_call: 'Call now',
     faq_title: 'Frequently asked questions about prices',
     faq: [
-      ['How much does a Salamander PVC window cost?', 'A standard tilt-and-turn Salamander GreenEvolution 76 window (100×120 cm) costs 250–380 EUR including double-glazed thermal glass and installation. A premium BluEvolution 92 of the same size costs 320–480 EUR.'],
-      ['What is the minimum price for Salamander PVC windows?', 'The realistic minimum price for Salamander PVC windows with thermal glass and professional installation is 140 EUR/m². Offers below this level typically use no-name profiles without declared Uw values or non-compliant installation.'],
-      ['What is the price difference between GreenEvolution 76 and BluEvolution 92?', 'BluEvolution 92 costs 25–40% more than GreenEvolution 76 for the same configuration. The difference is justified by 6 chambers vs 5, depth of 92–104 mm vs 76 mm and thermal transfer Uw = 0.70 vs 0.73 W/(m²K). For nZEB projects, BluEvolution 92 is mandatory.'],
-      ['Do prices include VAT?', 'Indicative prices on this page are VAT-exclusive (net prices). 21% VAT is added at invoicing. Neofort BIZ issues a fiscal invoice for all works.'],
+      ['How much does a Salamander PVC window cost?', 'We do not publish per-unit prices, because the price of a specific window depends on its size, the glazing (double or triple, Low-E), the hardware, the profile colour and cutting optimisation. As a reference, the starting price is 140–225 EUR/m² for GreenEvolution 76 and 200–285 EUR/m² for BluEvolution 92, without VAT and without installation. You get the exact price in the written quote, within 48h.'],
+      ['What is the minimum price for Salamander PVC windows?', 'The realistic minimum price for Salamander PVC windows with insulating glass is 140 EUR/m², without VAT and without installation. Offers below this level typically use no-name profiles without declared Uw values, which compromise thermal performance and warranty.'],
+      ['What is the price difference between GreenEvolution 76 and BluEvolution 92?', 'BluEvolution 92 costs 25–40% more than GreenEvolution 76 for the same configuration. The difference is justified by 6 chambers vs 5, a depth of 92–104 mm vs 76 mm and Uw from 0.70 vs 0.73 W/(m²K). For nZEB projects, BluEvolution 92 is the recommended choice.'],
+      ['Do prices include VAT?', 'No. Indicative prices on this page are without VAT (net prices) and without installation. 21% VAT is added on the invoice, and installation is quoted separately. Neofort BIZ issues a fiscal invoice for all work.'],
     ],
     see_also: 'See also',
     link_main: 'Salamander PVC Windows — all profiles',
@@ -133,10 +135,10 @@ const UI = {
     cta_call: 'Jetzt anrufen',
     faq_title: 'Häufige Fragen zu Preisen',
     faq: [
-      ['Was kostet ein Salamander PVC-Fenster?', 'Ein Standard-Dreh-Kipp-Salamander-GreenEvolution-76-Fenster (100×120 cm) kostet 250–380 EUR inkl. Zweifach-Isolierglas und Montage. Ein Premium-BluEvolution-92 gleicher Größe kostet 320–480 EUR.'],
-      ['Was ist der Mindestpreis für Salamander PVC-Fenster?', 'Der realistische Mindestpreis für Salamander PVC-Fenster mit Isolierglas und professionellem Einbau beträgt 140 EUR/m². Günstigere Angebote nutzen meist No-Name-Profile ohne angegebene Uw-Werte.'],
-      ['Was ist der Preisunterschied zwischen GreenEvolution 76 und BluEvolution 92?', 'BluEvolution 92 kostet 25–40% mehr als GreenEvolution 76 bei gleicher Konfiguration. Der Unterschied liegt in 6 vs 5 Kammern, Tiefe 92–104 mm vs 76 mm und Wärmedurchgang Uw = 0,70 vs 0,73 W/(m²K).'],
-      ['Sind die Preise inkl. MwSt.?', 'Richtwerte auf dieser Seite sind netto (ohne MwSt.). Die MwSt. von 21% wird bei der Rechnungsstellung hinzugefügt.'],
+      ['Was kostet ein Salamander PVC-Fenster?', 'Wir veröffentlichen keine Stückpreise, denn der Preis eines konkreten Fensters hängt von den Maßen, der Verglasung (Zweifach oder Dreifach, Low-E), den Beschlägen, der Profilfarbe und der Zuschnittoptimierung ab. Als Richtwert liegt der Preis ab 140–225 EUR/m² für GreenEvolution 76 und ab 200–285 EUR/m² für BluEvolution 92, ohne MwSt. und ohne Montage. Den genauen Preis erhalten Sie im schriftlichen Angebot innerhalb von 48h.'],
+      ['Was ist der Mindestpreis für Salamander PVC-Fenster?', 'Der realistische Mindestpreis für Salamander PVC-Fenster mit Isolierglas beträgt 140 EUR/m², ohne MwSt. und ohne Montage. Günstigere Angebote verwenden meist No-Name-Profile ohne angegebene Uw-Werte, was Wärmedämmung und Garantie beeinträchtigt.'],
+      ['Was ist der Preisunterschied zwischen GreenEvolution 76 und BluEvolution 92?', 'BluEvolution 92 kostet 25–40% mehr als GreenEvolution 76 bei gleicher Konfiguration. Der Unterschied liegt in 6 statt 5 Kammern, einer Bautiefe von 92–104 mm statt 76 mm und Uw ab 0,70 statt 0,73 W/(m²K). Für nZEB-Projekte ist BluEvolution 92 die empfohlene Wahl.'],
+      ['Sind die Preise inkl. MwSt.?', 'Nein. Die Richtpreise auf dieser Seite sind netto (ohne MwSt.) und ohne Montage. Die MwSt. von 21% kommt auf der Rechnung hinzu, die Montage wird separat angeboten.'],
     ],
     see_also: 'Siehe auch',
     link_main: 'Salamander PVC-Fenster — alle Profile',
@@ -174,10 +176,10 @@ const UI = {
     cta_call: 'Appeler maintenant',
     faq_title: 'Questions fréquentes sur les prix',
     faq: [
-      ["Combien coûte une fenêtre PVC Salamander ?", "Une fenêtre oscillo-battante standard Salamander GreenEvolution 76 (100×120 cm) coûte 250–380 EUR vitrage double et pose inclus. Une BluEvolution 92 de même taille coûte 320–480 EUR."],
-      ["Quel est le prix minimum pour la menuiserie PVC Salamander ?", "Le prix minimum réaliste pour des fenêtres PVC Salamander avec vitrage et pose professionnelle est de 140 EUR/m². Les offres inférieures utilisent généralement des profilés sans marque, sans valeur Uw déclarée."],
-      ["Quelle est la différence de prix entre GreenEvolution 76 et BluEvolution 92 ?", "BluEvolution 92 coûte 25–40% de plus que GreenEvolution 76 pour la même configuration. La différence tient aux 6 chambres vs 5, à la profondeur 92–104 mm vs 76 mm et au Uw = 0,70 vs 0,73 W/(m²K)."],
-      ["Les prix incluent-ils la TVA ?", "Les prix indicatifs sont hors TVA. La TVA de 21% s'ajoute à la facturation."],
+      ["Combien coûte une fenêtre PVC Salamander ?", 'Nous ne publions pas de prix à l\'unité, car le prix d\'une fenêtre donnée dépend de ses dimensions, du vitrage (double ou triple, Low-E), de la quincaillerie, de la couleur du profilé et de l\'optimisation de la découpe. À titre de repère, le prix de départ est de 140–225 EUR/m² pour GreenEvolution 76 et de 200–285 EUR/m² pour BluEvolution 92, hors TVA et hors pose. Le prix exact figure dans le devis écrit, sous 48h.'],
+      ["Quel est le prix minimum pour la menuiserie PVC Salamander ?", 'Le prix minimum réaliste pour des fenêtres PVC Salamander avec vitrage isolant est de 140 EUR/m², hors TVA et hors pose. Les offres inférieures utilisent en général des profilés sans marque, sans valeurs Uw déclarées, ce qui compromet la performance thermique et la garantie.'],
+      ["Quelle est la différence de prix entre GreenEvolution 76 et BluEvolution 92 ?", 'BluEvolution 92 coûte 25–40% de plus que GreenEvolution 76 pour la même configuration. La différence tient aux 6 chambres au lieu de 5, à la profondeur de 92–104 mm au lieu de 76 mm et à un Uw dès 0,70 au lieu de 0,73 W/(m²K). Pour les projets nZEB, BluEvolution 92 est le choix recommandé.'],
+      ["Les prix incluent-ils la TVA ?", 'Non. Les prix indicatifs sont hors TVA et hors pose. La TVA de 21% s\'ajoute à la facturation et la pose fait l\'objet d\'un devis séparé.'],
     ],
     see_also: 'Voir aussi',
     link_main: 'Menuiserie PVC Salamander — tous les profilés',
@@ -215,10 +217,10 @@ const UI = {
     cta_call: 'Llamar ahora',
     faq_title: 'Preguntas frecuentes sobre precios',
     faq: [
-      ['¿Cuánto cuesta una ventana PVC Salamander?', 'Una ventana oscilobatiente estándar Salamander GreenEvolution 76 (100×120 cm) cuesta 250–380 EUR incluyendo doble acristalamiento y instalación. Una BluEvolution 92 del mismo tamaño cuesta 320–480 EUR.'],
-      ['¿Cuál es el precio mínimo para carpintería PVC Salamander?', 'El precio mínimo realista para carpintería PVC Salamander con vidrio y instalación profesional es de 140 EUR/m². Las ofertas por debajo suelen usar perfiles sin marca y sin valores Uw declarados.'],
-      ['¿Cuál es la diferencia de precio entre GreenEvolution 76 y BluEvolution 92?', 'BluEvolution 92 cuesta un 25–40% más que GreenEvolution 76 para la misma configuración. La diferencia se debe a las 6 cámaras vs 5, profundidad 92–104 mm vs 76 mm y Uw = 0,70 vs 0,73 W/(m²K).'],
-      ['¿Los precios incluyen IVA?', 'Los precios orientativos son sin IVA. El IVA del 21% se añade en la facturación.'],
+      ['¿Cuánto cuesta una ventana PVC Salamander?', 'No publicamos precios por unidad, porque el precio de una ventana concreta depende de sus medidas, del vidrio (doble o triple, Low-E), de los herrajes, del color del perfil y de la optimización del corte. Como referencia, el precio de partida es de 140–225 EUR/m² para GreenEvolution 76 y de 200–285 EUR/m² para BluEvolution 92, sin IVA y sin instalación. El precio exacto lo recibe en la oferta escrita, en 48h.'],
+      ['¿Cuál es el precio mínimo para carpintería PVC Salamander?', 'El precio mínimo realista para carpintería PVC Salamander con vidrio aislante es de 140 EUR/m², sin IVA y sin instalación. Las ofertas por debajo suelen usar perfiles sin marca, sin valores Uw declarados, lo que compromete el rendimiento térmico y la garantía.'],
+      ['¿Cuál es la diferencia de precio entre GreenEvolution 76 y BluEvolution 92?', 'BluEvolution 92 cuesta un 25–40% más que GreenEvolution 76 para la misma configuración. La diferencia se debe a las 6 cámaras frente a 5, la profundidad de 92–104 mm frente a 76 mm y un Uw desde 0,70 frente a 0,73 W/(m²K). Para proyectos nZEB, BluEvolution 92 es la opción recomendada.'],
+      ['¿Los precios incluyen IVA?', 'No. Los precios orientativos son sin IVA y sin instalación. El IVA del 21% se añade en la factura y la instalación se presupuesta aparte.'],
     ],
     see_also: 'Ver también',
     link_main: 'Carpintería PVC Salamander — todos los perfiles',
@@ -256,10 +258,10 @@ const UI = {
     cta_call: 'Chiama ora',
     faq_title: 'Domande frequenti sui prezzi',
     faq: [
-      ["Quanto costa una finestra PVC Salamander?", "Una finestra ribaltabile standard Salamander GreenEvolution 76 (100×120 cm) costa 250–380 EUR inclusi doppio vetro isolante e posa. Una BluEvolution 92 delle stesse dimensioni costa 320–480 EUR."],
-      ["Qual è il prezzo minimo per infissi PVC Salamander?", "Il prezzo minimo realistico per infissi PVC Salamander con vetro e posa professionale è di 140 EUR/m². Le offerte al di sotto utilizzano solitamente profilati senza marca e senza valori Uw dichiarati."],
-      ["Qual è la differenza di prezzo tra GreenEvolution 76 e BluEvolution 92?", "BluEvolution 92 costa il 25–40% in più rispetto a GreenEvolution 76 per la stessa configurazione. La differenza è dovuta alle 6 camere vs 5, alla profondità 92–104 mm vs 76 mm e a Uw = 0,70 vs 0,73 W/(m²K)."],
-      ["I prezzi includono IVA?", "I prezzi indicativi sono al netto IVA. L'IVA del 21% viene aggiunta in fattura."],
+      ["Quanto costa una finestra PVC Salamander?", 'Non pubblichiamo prezzi a pezzo, perché il prezzo di una finestra concreta dipende dalle dimensioni, dal vetro (doppio o triplo, Low-E), dalla ferramenta, dal colore del profilo e dall\'ottimizzazione del taglio. Come riferimento, il prezzo di partenza è di 140–225 EUR/m² per GreenEvolution 76 e di 200–285 EUR/m² per BluEvolution 92, IVA e posa escluse. Il prezzo esatto lo ricevete nell\'offerta scritta, entro 48h.'],
+      ["Qual è il prezzo minimo per infissi PVC Salamander?", 'Il prezzo minimo realistico per infissi PVC Salamander con vetro isolante è di 140 EUR/m², IVA e posa escluse. Le offerte al di sotto utilizzano di solito profili senza marca, senza valori Uw dichiarati, a scapito di prestazioni termiche e garanzia.'],
+      ["Qual è la differenza di prezzo tra GreenEvolution 76 e BluEvolution 92?", 'BluEvolution 92 costa il 25–40% in più rispetto a GreenEvolution 76 per la stessa configurazione. La differenza è dovuta alle 6 camere invece di 5, alla profondità di 92–104 mm invece di 76 mm e a un Uw da 0,70 invece di 0,73 W/(m²K). Per i progetti nZEB, BluEvolution 92 è la scelta consigliata.'],
+      ["I prezzi includono IVA?", 'No. I prezzi indicativi sono al netto di IVA e posa. L\'IVA del 21% viene aggiunta in fattura e la posa si quota a parte.'],
     ],
     see_also: 'Vedi anche',
     link_main: 'Infissi PVC Salamander — tutti i profilati',
@@ -279,12 +281,12 @@ export async function generateMetadata({ params }) {
          : locale === 'fr' ? 'Prix Menuiserie PVC 2026 — dès 140 €/m² | Neofort BIZ'
          : locale === 'es' ? 'Precios Carpintería PVC 2026 — desde 140 €/m² | Neofort BIZ'
          : 'Prezzi Infissi PVC 2026 — da 140 €/m² | Neofort BIZ',
-    description: locale === 'ro' ? 'Prețuri ferestre PVC Salamander 2026, cu montaj standard: GreenEvolution 76 de la 140 EUR/mp, BluEvolution 92 de la 200 EUR/mp. Ce crește prețul și cu cât.'
-               : locale === 'en' ? 'Salamander PVC window prices 2026 with standard installation: GreenEvolution 76 from 140 EUR/m², BluEvolution 92 from 200 EUR/m². What adds to the price.'
-               : locale === 'de' ? 'Kunststofffenster Salamander 2026, mit Standardmontage: GreenEvolution 76 ab 140 EUR/m², BluEvolution 92 ab 200 EUR/m². Was den Preis erhöht.'
-               : locale === 'fr' ? 'Prix fenêtres PVC Salamander 2026, pose standard comprise : GreenEvolution 76 dès 140 EUR/m², BluEvolution 92 dès 200 EUR/m². Ce qui fait varier le prix.'
-               : locale === 'es' ? 'Precios ventanas PVC Salamander 2026, con instalación estándar: GreenEvolution 76 desde 140 EUR/m², BluEvolution 92 desde 200 EUR/m². Qué sube el precio.'
-               : 'Prezzi finestre PVC Salamander 2026, con posa standard: GreenEvolution 76 da 140 EUR/m², BluEvolution 92 da 200 EUR/m². Cosa fa salire il prezzo.',
+    description: locale === 'ro' ? 'Prețuri ferestre PVC Salamander 2026, fără montaj: GreenEvolution 76 de la 140 EUR/mp, BluEvolution 92 de la 200 EUR/mp. Ce crește prețul și cu cât.'
+               : locale === 'en' ? 'Salamander PVC window prices 2026, excl. installation: GreenEvolution 76 from 140 EUR/m², BluEvolution 92 from 200 EUR/m². What adds to the price.'
+               : locale === 'de' ? 'Kunststofffenster Salamander 2026, ohne Montage: GreenEvolution 76 ab 140 EUR/m², BluEvolution 92 ab 200 EUR/m². Was den Preis erhöht.'
+               : locale === 'fr' ? 'Prix fenêtres PVC Salamander 2026, hors pose : GreenEvolution 76 dès 140 EUR/m², BluEvolution 92 dès 200 EUR/m². Ce qui fait varier le prix.'
+               : locale === 'es' ? 'Precios ventanas PVC Salamander 2026, sin instalación: GreenEvolution 76 desde 140 EUR/m², BluEvolution 92 desde 200 EUR/m². Qué sube el precio.'
+               : 'Prezzi finestre PVC Salamander 2026, posa esclusa: GreenEvolution 76 da 140 EUR/m², BluEvolution 92 da 200 EUR/m². Cosa fa salire il prezzo.',
     keywords: locale === 'ro' ? 'preturi tamplarie pvc, tamplarie pvc pret 2026, cat costa tamplarie pvc, pvc salamander pret, bluevolution 92 pret, greenevolution 76 pret, fereastra pvc pret, termopane pvc pret bucuresti'
             : 'PVC window prices 2026, Salamander PVC windows cost, BluEvolution 92 price, GreenEvolution 76 price',
     robots: { index: true, follow: true, googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 } },
@@ -415,6 +417,8 @@ export default async function PreturiPvcPage({ params }) {
               <Link href={`/${parentSlug}`} style={{ fontSize: '.88rem', color: '#2b4834', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_main}</Link>
               <span style={{ color: '#1e1e1e' }}>·</span>
               <Link href="/tamplarie-pvc/bucuresti" style={{ fontSize: '.88rem', color: '#2b4834', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{ui.link_buc}</Link>
+              <span style={{ color: '#1e1e1e' }}>·</span>
+              <Link href="/servicii/cum-ofertam" style={{ fontSize: '.88rem', color: '#2b4834', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{QUOTE_LINK[locale] || QUOTE_LINK.ro}</Link>
             </div>
           </div>
         </div>

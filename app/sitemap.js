@@ -117,6 +117,7 @@ export default function sitemap() {
     '/sisteme-nzeb/ghid-complet-nzeb',
     '/umbrire/ghid-complet-sisteme-umbrire',
     '/umbrire/preturi-sisteme-umbrire',
+    '/servicii/cum-ofertam',   // v331
   ];
   LOCALES.forEach(locale => {
     PILLAR_EXTRA_KEYS.forEach(key => {

@@ -688,6 +688,93 @@ function garda32() {
 }
 garda32();
 
+// ─── Garda 33 (v331): o singura poveste despre pret si montaj ──────────────
+// Decizia lui Dan (17.11.2026): preturile se publica DOAR pe mp, ca preturi de
+// pornire, fara TVA si FARA montaj; montajul se oferteaza separat, in Bucuresti
+// si Ilfov si, la cerere, oriunde in Romania si in UE. Nu se publica preturi pe
+// fereastra, pe apartament sau pe casa (pretul real depinde de dimensiuni, geam,
+// feronerie, culoare si optimizarea debitarii).
+// Exceptii intentionate: motoarele Somfy „montat” (pret explicit pe motor),
+// preturile de service/reparatie si suplimentul de montaj nZEB pe ml.
+function garda33() {
+  const rel = (f) => path.relative(ROOT, f).replace(/\\/g, '/');
+  const ps = fs.readFileSync(path.join(ROOT, 'lib/priceSchema.js'), 'utf8');
+  const sir = (nume, l) => { const m = ps.match(new RegExp(`export const ${nume} = \\{[\\s\\S]*?\\n  ${l}: '((?:\\\\'|[^'])*)'`)); return m ? m[1].replace(/\\'/g, "'") : null; };
+  const llms = fs.readFileSync(path.join(ROOT, 'public/llms.txt'), 'utf8');
+  const skill = fs.readFileSync(path.join(ROOT, 'public/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md'), 'utf8');
+  let n = 0;
+  for (const nume of ['PRICE_CONDITION', 'PRICE_FACTORS', 'MONTAJ_SCOPE']) {
+    const ro = sir(nume, 'ro');
+    if (!ro) { n++; err(`garda 33: nu gasesc ${nume}.ro in lib/priceSchema.js`); continue; }
+    if (!llms.includes(ro)) { n++; err(`garda 33: public/llms.txt nu mai contine textul ${nume}.ro din lib/priceSchema.js`); }
+  }
+  for (const nume of ['PRICE_CONDITION', 'MONTAJ_SCOPE']) {
+    const en = sir(nume, 'en');
+    if (en && !skill.includes(en)) { n++; err(`garda 33: SKILL.md nu mai contine textul ${nume}.en din lib/priceSchema.js`); }
+  }
+  const tinte = [path.join(ROOT, 'public/llms.txt'), path.join(ROOT, 'data/blog.js'), path.join(ROOT, 'data/hubFaq.js'), path.join(ROOT, 'data/productFaq.js')];
+  (function w(d) { for (const e of fs.readdirSync(d, { withFileTypes: true })) {
+    const q = path.join(d, e.name);
+    if (e.isDirectory()) { if (!['node_modules', '.next'].includes(e.name)) w(q); }
+    else if (/\.js$/.test(e.name)) tinte.push(q);
+  } })(path.join(ROOT, 'app'));
+  // (a) „cu montaj” langa un pret pe mp sau pe bucata de tamplarie
+  const INCLUS = /(cu montaj(?! nZEB)|montaj inclus|inclusiv montaj|cu geam termopan și montaj|installation included|including installation|with installation|inklusive Montage|Montage inklusive|mit Montage|pose comprise|pose incluse|instalación incluida|con instalación|posa inclusa|posa compresa|con posa)/i;
+  const EXCEPT = /Somfy|motor|moteur|motore|Motor|service|reparați|repair|Reparatur|réparation|reparación|riparazione|feroner|hardware|Beschlag|quincaillerie|herraje|ferramenta|garnitur|gasket|Dichtung|joint|junta|guarnizion|precadr|Vorbau|Vorblend|précadre|premarco|controtela/;
+  // (b) pret pe unitate cu dimensiuni: „fereastră de 1,2 × 1,4 m … 450 EUR”
+  const DIMPRET = /(fereastr|window|Fenster|fenêtre|ventana|finestr|ușă|door|Tür|porte|puerta|porta)[^.|\n]{0,40}\d[.,]?\d*\s?[×x]\s?\d[.,]?\d*\s?(m|cm)\b[^.|\n]{0,80}?\d{3,}(?:[.,   ]\d{3})?\s?(?:[–-]|à|a)?\s?\d*(?:[.,   ]\d{3})?\s?(EUR|€)(?!\s?\/)(?![^.\n]{0,30}(perimetr|perimeter|Umfang|périmètre|perímetro|perimetro))/i;
+  // suplimentul de montaj nZEB se da pe ml de perimetru, cu exemplu pe o fereastra
+  const MONTAJ_ML = /perimetr|perimeter|Umfang|périmètre|perímetro|precadr|Vorblend|Vorbau|précadre|premarco|controtela/i;
+  // (c) formularea veche a zonei de montaj
+  const ZONA = /Montaj în București și Ilfov, livrare|Installation in Bucharest and Ilfov, delivery/;
+  tinte.forEach(f => {
+    const linii = fs.readFileSync(f, 'utf8').split('\n');
+    linii.forEach((l, i) => {
+      if (!/\d\s?(EUR|€)/.test(l)) { if (ZONA.test(l)) { n++; err(`garda 33: ${rel(f)}:${i + 1} formularea veche a zonei de montaj`); } return; }
+      for (const m of l.matchAll(new RegExp(INCLUS.source, 'gi'))) {
+        const w = l.slice(Math.max(0, m.index - 160), m.index + m[0].length + 160);
+        if (/\d\s?(EUR|€)/.test(w) && !EXCEPT.test(w)) { n++; err(`garda 33: ${rel(f)}:${i + 1} „${m[0]}” langa un pret — preturile sunt fara montaj`); break; }
+      }
+      const d = l.match(DIMPRET);
+      if (d && !EXCEPT.test(d[0]) && !MONTAJ_ML.test(l)) { n++; err(`garda 33: ${rel(f)}:${i + 1} pret pe bucata cu dimensiuni („${d[0].slice(0, 70)}…”) — se publica doar EUR/mp`); }
+      if (ZONA.test(l)) { n++; err(`garda 33: ${rel(f)}:${i + 1} formularea veche a zonei de montaj`); }
+    });
+  });
+  console.log(`  Pret si montaj (v331): ${tinte.length} fisiere, ${n} probleme`);
+}
+garda33();
+
+// ─── Garda 34 (v331): „Cum ofertăm” ajunge la toti agentii ─────────────────
+// Decizia lui Dan (17.11.2026): agentii AI trebuie sa afle, oriunde citesc, ca
+// pretul real iese din configurare tehnica + calcul in softul de ofertare al
+// Neofort BIZ + masuratori, nu din pret/mp × suprafata. Sursa unica e
+// lib/quotingPolicy.js; textul se copiaza in llms.txt si SKILL.md, iar serverul
+// MCP il importa. Garda opreste livrarea daca una din copii se desincronizeaza.
+function garda34() {
+  const rel = (f) => path.relative(ROOT, f).replace(/\\/g, '/');
+  const src = fs.readFileSync(path.join(ROOT, 'lib/quotingPolicy.js'), 'utf8');
+  const sir = (nume, l) => { const m = src.match(new RegExp(`export const ${nume} = \\{[\\s\\S]*?\\n  ${l}: '((?:\\\\'|[^'])*)'`)); return m ? m[1].replace(/\\'/g, "'") : null; };
+  const citeste = (f) => fs.readFileSync(path.join(ROOT, f), 'utf8');
+  let n = 0;
+  const cere = (f, nume, l) => { const t = sir(nume, l); if (!t) { n++; err(`garda 34: nu gasesc ${nume}.${l} in lib/quotingPolicy.js`); return; } if (!citeste(f).includes(t)) { n++; err(`garda 34: ${f} nu mai contine textul ${nume}.${l} din lib/quotingPolicy.js`); } };
+  for (const l of ['ro', 'en']) { cere('public/llms.txt', 'QUOTE_PROCESS', l); cere('public/llms.txt', 'AI_GUIDANCE', l); }
+  cere('public/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md', 'QUOTE_PROCESS', 'en');
+  cere('public/.well-known/agent-skills/neofort-biz-windows-quote/SKILL.md', 'AI_GUIDANCE', 'en');
+  const mcp = citeste('app/api/mcp/route.js');
+  if (!/from '..\/..\/..\/lib\/quotingPolicy\.js'/.test(mcp) || (mcp.match(/QUOTE_PROCESS\.en/g) || []).length < 2 || (mcp.match(/AI_GUIDANCE\.en/g) || []).length < 2) { n++; err('garda 34: serverul MCP nu mai trimite QUOTE_PROCESS/AI_GUIDANCE (in INSTRUCTIONS si in get_prices)'); }
+  const rt = citeste('i18n/routing.js');
+  for (const l of LANGS) {
+    const p = (src.match(new RegExp(`export const QUOTE_PAGE = \\{[\\s\\S]*?\\n  ${l}: '([^']+)'`)) || [])[1];
+    if (!p || !rt.includes(`${l}: '${p}'`)) { n++; err(`garda 34: QUOTE_PAGE.${l} (${p}) nu corespunde rutei '/servicii/cum-ofertam' din i18n/routing.js`); }
+  }
+  if (!rt.includes("'/servicii/cum-ofertam': {")) { n++; err('garda 34: lipseste ruta /servicii/cum-ofertam din i18n/routing.js'); }
+  if (!citeste('app/sitemap.js').includes("'/servicii/cum-ofertam'")) { n++; err('garda 34: pagina /servicii/cum-ofertam lipseste din sitemap'); }
+  const pg = path.join(ROOT, 'app/[locale]/servicii/cum-ofertam/page.js');
+  if (!fs.existsSync(pg) || !/id="pentru-asistenti-ai"/.test(fs.readFileSync(pg, 'utf8')) || !/AI_GUIDANCE\[l\]/.test(fs.readFileSync(pg, 'utf8'))) { n++; err(`garda 34: ${rel(pg)} nu mai afiseaza nota pentru asistentii AI`); }
+  console.log(`  Cum ofertam (v331): ${n} probleme`);
+}
+garda34();
+
 garda23().catch(e => err(`garda 23 nu a putut rula: ${e.message}`)).then(() => garziV327().catch(e => err(`garzile 25–30 nu au putut rula: ${e.message}`))).then(() => {
 console.log(`\n=== Rezultat: ${errors} erori, ${warnings} avertismente ===`);
 if (errors) { console.log('NU face commit — repara erorile intai.\n'); process.exit(1); }

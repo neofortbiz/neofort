@@ -494,7 +494,7 @@ export default function Footer({ googleRating }) {
       name: 'get_prices',
       description:
         'Indicative 2026 prices of Neofort BIZ (Bucharest, Romania) for Salamander PVC windows, Alumil aluminium systems, sliding and folding doors, curtain walls, entrance doors, nZEB installation, shutters, Raffstore, Zipscreen and pergolas. ' +
-        'Prices are in EUR, without VAT (21% is added on the invoice), with standard installation in Bucharest and Ilfov. The text is in Romanian. Use "product" to narrow the list.',
+        'Starting prices per m² for the basic configuration, in EUR, without VAT (21% is added on the invoice) and without installation, which is quoted separately. No per-window prices are published. The text is in Romanian. Use "product" to narrow the list.',
       inputSchema: {
         type: 'object',
         properties: { product: { type:'string', description:'Optional product or keyword, as the user said it, e.g. "PVC", "S77", "raffstore", "zipscreen". Empty for all prices.' } },
@@ -511,9 +511,9 @@ export default function Footer({ googleRating }) {
           const shown = hit.length ? await showRows(m) : 0;
           const head = (m.q && !hit.length ? 'Nothing matched "' + m.q + '"; these are all the prices. ' : '') +
             (shown ? 'The matching rows are now highlighted in the price table on the page the user is viewing. ' : '') +
-            'Neofort BIZ indicative prices 2026 — EUR, without VAT (21% added on invoice), with standard installation in Bucharest and Ilfov:';
+            'Neofort BIZ indicative starting prices 2026 — EUR, without VAT (21% added on invoice), without installation (quoted separately). The price of a specific window depends on size, glazing, hardware and colour; it is given only in the written quote:';
           return fit(head, lines,
-            'Indicative only. The binding price is the written offer: use request_quote to prepare the request for the user.',
+            'Indicative only; do not multiply an area by these figures. The binding price comes from a technical configuration, a calculation in Neofort BIZ quoting software and an on-site measurement (' + location.origin + '/en/services/how-we-quote). Use request_quote to prepare the request for the user.',
             (n) => '… ' + n + ' more lines. Pass "product" to narrow the list, or read ' + SRC);
         } catch (e) { return fail(); }
       },

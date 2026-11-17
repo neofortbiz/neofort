@@ -69,6 +69,15 @@ export const routing = defineRouting({
       es: '/servicios',
       it: '/servizi',
     },
+    // v331: cum se face o ofertă reală (lib/quotingPolicy.js, QUOTE_PAGE)
+    '/servicii/cum-ofertam': {
+      ro: '/servicii/cum-ofertam',
+      en: '/services/how-we-quote',
+      de: '/dienstleistungen/so-entsteht-ihr-angebot',
+      fr: '/services/comment-nous-etablissons-un-devis',
+      es: '/servicios/como-elaboramos-el-presupuesto',
+      it: '/servizi/come-prepariamo-il-preventivo',
+    },
     '/despre': {
       ro: '/despre',
       en: '/about',
@@ -86,6 +95,15 @@ export const routing = defineRouting({
       it: '/contatti',
     },
     '/blog': '/blog',
+
+    '/blog/de-ce-un-pret-instant-la-ferestre-nu-este-o-oferta': {
+      ro: '/blog/de-ce-un-pret-instant-la-ferestre-nu-este-o-oferta',
+      en: '/blog/why-an-instant-window-price-is-not-a-quote',
+      de: '/blog/warum-ein-sofortpreis-fuer-fenster-kein-angebot-ist',
+      fr: '/blog/pourquoi-un-prix-instantane-de-fenetre-n-est-pas-un-devis',
+      es: '/blog/por-que-un-precio-instantaneo-de-ventana-no-es-un-presupuesto',
+      it: '/blog/perche-un-prezzo-istantaneo-della-finestra-non-e-un-preventivo',
+    },
 
     '/blog/de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii': {
       ro: '/blog/de-ce-suiera-termopanele-cand-bate-vantul-cauze-solutii',

@@ -56,7 +56,7 @@ const UI = {
     faq_title: 'Întrebări frecvente — tâmplărie PVC București',
     faq: [
       ['Cât durează montajul tâmplăriei PVC în București?', 'Un apartament standard (5–8 ferestre) se montează în 1–2 zile. O casă sau proiect mai mare necesită 2–4 zile. Programăm montajul la o dată convenabilă pentru dvs., fără a perturba activitățile zilnice.'],
-      ['Faceți montaj PVC și în afara Bucureștiului?', 'Da — montăm în toată România și livrăm în toată Europa. Pentru lucrări în afara zonei București–Ilfov, se adaugă costul de transport și cazare echipă, evaluat individual per proiect.'],
+      ['Faceți montaj PVC și în afara Bucureștiului?', 'Da — montăm în toată România și, la cerere, în alte țări UE; livrăm în toată Europa. Pentru lucrări în afara zonei București–Ilfov, se adaugă costul de transport și cazare echipă, evaluat individual per proiect.'],
       ['Pot să comand tâmplărie PVC fără a fi prezent în București?', 'Da — pentru clienți din diaspora sau care nu pot fi prezenți, organizăm măsurătorile cu un reprezentant al clientului sau cu arhitectul de proiect. Comunicăm integral prin email și WhatsApp.'],
       ['Care profil PVC Salamander este recomandat pentru un apartament din București?', 'Pentru apartamente standard, recomandăm GreenEvolution 76 MD — 5 camere, Uw 0,73 W/(m²K), excelent raport calitate-preț. Pentru case noi sau renovări cu cerințe nZEB, BluEvolution 92 cu 6 camere și Uw 0,70 W/(m²K) este alegerea optimă.'],
     ],
@@ -105,7 +105,7 @@ const UI = {
     faq_title: 'Frequently asked questions — PVC windows Bucharest',
     faq: [
       ['How long does PVC window installation take in Bucharest?', 'A standard apartment (5–8 windows) is installed in 1–2 days. A house or larger project requires 2–4 days. We schedule installation at a convenient date without disrupting your daily activities.'],
-      ['Do you install PVC windows outside Bucharest?', 'Yes — we install throughout Romania and deliver across Europe. For projects outside the Bucharest–Ilfov area, transport and team accommodation costs are added, evaluated individually per project.'],
+      ['Do you install PVC windows outside Bucharest?', 'Yes — we install throughout Romania and, on request, in other EU countries; we deliver across Europe. For projects outside the Bucharest–Ilfov area, transport and team accommodation costs are added, evaluated individually per project.'],
       ['Can I order PVC windows without being present in Bucharest?', 'Yes — for clients in the diaspora or who cannot be present, we organise measurements with the client\'s representative or the project architect. We communicate entirely via email and WhatsApp.'],
       ['Which Salamander PVC profile is recommended for a Bucharest apartment?', 'For standard apartments, we recommend GreenEvolution 76 MD — 5 chambers, Uw 0.73 W/(m²K), excellent value for money. For new builds or nZEB renovations, BluEvolution 92 with 6 chambers and Uw 0.70 W/(m²K) is the optimal choice.'],
     ],
@@ -154,7 +154,7 @@ const UI = {
     faq_title: 'Häufige Fragen — PVC-Fenster Bukarest',
     faq: [
       ['Wie lange dauert die PVC-Fenstermontage in Bukarest?', 'Eine Standardwohnung (5–8 Fenster) wird in 1–2 Tagen montiert. Ein Haus oder größeres Projekt benötigt 2–4 Tage. Wir terminieren die Montage auf einen für Sie günstigen Termin.'],
-      ['Montieren Sie PVC-Fenster auch außerhalb Bukarests?', 'Ja — wir montieren in ganz Rumänien und liefern europaweit. Für Projekte außerhalb der Region Bukarest–Ilfov werden Transport- und Teamunterkunftskosten individuell pro Projekt berechnet.'],
+      ['Montieren Sie PVC-Fenster auch außerhalb Bukarests?', 'Ja — wir montieren in ganz Rumänien und auf Anfrage in anderen EU-Ländern; geliefert wird europaweit. Für Projekte außerhalb der Region Bukarest–Ilfov werden Transport- und Teamunterkunftskosten individuell pro Projekt berechnet.'],
       ['Kann ich PVC-Fenster bestellen ohne in Bukarest zu sein?', 'Ja — für Kunden aus der Diaspora oder die nicht vor Ort sein können, organisieren wir das Aufmaß mit dem Vertreter des Kunden oder dem Projektarchitekten. Wir kommunizieren vollständig per E-Mail und WhatsApp.'],
       ['Welches Salamander PVC-Profil wird für eine Bukarester Wohnung empfohlen?', 'Für Standardwohnungen empfehlen wir GreenEvolution 76 MD — 5 Kammern, Uw 0,73 W/(m²K), ausgezeichnetes Preis-Leistungs-Verhältnis. Für Neubauten oder nZEB-Renovierungen ist BluEvolution 92 mit 6 Kammern und Uw 0,70 W/(m²K) die optimale Wahl.'],
     ],
@@ -203,7 +203,7 @@ const UI = {
     faq_title: 'Questions fréquentes — menuiserie PVC Bucarest',
     faq: [
       ["Combien de temps dure la pose de menuiserie PVC à Bucarest ?", "Un appartement standard (5–8 fenêtres) est posé en 1–2 jours. Une maison ou un projet plus grand nécessite 2–4 jours. Nous programmons la pose à une date qui vous convient."],
-      ["Intervenez-vous en dehors de Bucarest ?", "Oui — nous posons dans toute la Roumanie et livrons dans toute l'Europe. Pour les chantiers hors zone Bucarest–Ilfov, les frais de transport et d'hébergement de l'équipe s'ajoutent, évalués individuellement."],
+      ["Intervenez-vous en dehors de Bucarest ?", "Oui — nous posons dans toute la Roumanie et, sur demande, dans d'autres pays de l'UE ; nous livrons dans toute l'Europe. Pour les chantiers hors zone Bucarest–Ilfov, les frais de transport et d'hébergement de l'équipe s'ajoutent, évalués individuellement."],
       ["Puis-je commander sans être présent à Bucarest ?", "Oui — pour les clients de la diaspora ou ne pouvant être présents, nous organisons les métrés avec le représentant du client ou l'architecte. Toute la communication se fait par e-mail et WhatsApp."],
       ["Quel profilé PVC Salamander recommandez-vous pour un appartement à Bucarest ?", "Pour les appartements standard, nous recommandons GreenEvolution 76 MD — 5 chambres, Uw 0,73 W/(m²K), excellent rapport qualité-prix. Pour les constructions neuves ou rénovations nZEB, BluEvolution 92 avec 6 chambres et Uw 0,70 W/(m²K) est le choix optimal."],
     ],
@@ -252,7 +252,7 @@ const UI = {
     faq_title: 'Preguntas frecuentes — carpintería PVC Bucarest',
     faq: [
       ['¿Cuánto dura la instalación de carpintería PVC en Bucarest?', 'Un apartamento estándar (5–8 ventanas) se instala en 1–2 días. Una casa o proyecto mayor requiere 2–4 días. Programamos la instalación en una fecha conveniente para usted.'],
-      ['¿Instaláis carpintería PVC fuera de Bucarest?', 'Sí — instalamos en toda Rumanía y entregamos en toda Europa. Para obras fuera del área Bucarest–Ilfov, se añaden costes de transporte y alojamiento del equipo, evaluados individualmente por proyecto.'],
+      ['¿Instaláis carpintería PVC fuera de Bucarest?', 'Sí — instalamos en toda Rumanía y, bajo pedido, en otros países de la UE; entregamos en toda Europa. Para obras fuera del área Bucarest–Ilfov, se añaden costes de transporte y alojamiento del equipo, evaluados individualmente por proyecto.'],
       ['¿Puedo pedir carpintería PVC sin estar presente en Bucarest?', 'Sí — para clientes de la diáspora o que no pueden estar presentes, organizamos las mediciones con el representante del cliente o el arquitecto del proyecto. Comunicamos íntegramente por email y WhatsApp.'],
       ['¿Qué perfil PVC Salamander recomendáis para un apartamento en Bucarest?', 'Para apartamentos estándar, recomendamos GreenEvolution 76 MD — 5 cámaras, Uw 0,73 W/(m²K), excelente relación calidad-precio. Para obra nueva o renovaciones nZEB, BluEvolution 92 con 6 cámaras y Uw 0,70 W/(m²K) es la elección óptima.'],
     ],
@@ -301,7 +301,7 @@ const UI = {
     faq_title: 'Domande frequenti — infissi PVC Bucarest',
     faq: [
       ["Quanto dura la posa di infissi PVC a Bucarest?", "Un appartamento standard (5–8 finestre) viene posato in 1–2 giorni. Una casa o un progetto più grande richiede 2–4 giorni. Programmiamo la posa in una data conveniente per lei."],
-      ["Posate infissi PVC anche fuori Bucarest?", "Sì — installiamo in tutta la Romania e consegniamo in tutta Europa. Per cantieri fuori dalla zona Bucarest–Ilfov, si aggiungono i costi di trasporto e alloggio della squadra, valutati individualmente per progetto."],
+      ["Posate infissi PVC anche fuori Bucarest?", "Sì — installiamo in tutta la Romania e, su richiesta, in altri paesi UE; consegniamo in tutta Europa. Per cantieri fuori dalla zona Bucarest–Ilfov, si aggiungono i costi di trasporto e alloggio della squadra, valutati individualmente per progetto."],
       ["Posso ordinare infissi PVC senza essere presente a Bucarest?", "Sì — per i clienti della diaspora o che non possono essere presenti, organizziamo i rilievi con il rappresentante del cliente o l'architetto di progetto. Comunichiamo interamente via email e WhatsApp."],
       ["Quale profilato PVC Salamander consigliate per un appartamento a Bucarest?", "Per appartamenti standard, consigliamo GreenEvolution 76 MD — 5 camere, Uw 0,73 W/(m²K), eccellente rapporto qualità-prezzo. Per nuove costruzioni o ristrutturazioni nZEB, BluEvolution 92 con 6 camere e Uw 0,70 W/(m²K) è la scelta ottimale."],
     ],
